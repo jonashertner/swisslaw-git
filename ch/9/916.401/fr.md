@@ -4,11 +4,11 @@ title: Ordonnance du 27 juin 1995 sur les épizooties (OFE)
 short: OFE
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716"
 language: fr
-version: 2022-06-01
+version: 2022-11-01
 adopted: 1995-06-27
 in_force: 1995-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716/20220601/fr/xml/fedlex-data-admin-ch-eli-cc-1995-3716_3716_3716-20220601-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/3716_3716_3716/20220601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716/20221101/fr/xml/fedlex-data-admin-ch-eli-cc-1995-3716_3716_3716-20221101-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/3716_3716_3716/20221101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,14 +17,14 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/3716_3716_3716/20220601/fr"
 
 (OFE)
 
-du 27 juin 1995 (Etat le 1<sup>er</sup> juin 2022)
+du 27 juin 1995 (État le 1<sup>er</sup> novembre 2022)
 
 Le Conseil fédéral suisse,
 
-vu les art. 10, 16, 19, 20, 31*a*, 32, al. 1<sup>bis</sup>, 53, al. 1, et 56*a*, al. 2, de la loi du 1<sup>er</sup> juillet 1966 sur les épizooties (LFE)[^ingress-1],[^ingress-2] arrête:
+vu les art. 9*a*, al. 2, 10, 16, 19, 20, 31*a*, 32, al. 1<sup>bis</sup>, 45*f*, 53, al. 1, 56*a*, al. 2, et 57*a*, al. 2, de la loi du 1<sup>er</sup> juillet 1966 sur les épizooties (LFE)[^ingress-1],[^ingress-2] arrête:
 
 [^ingress-1]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
-[^ingress-2]: Nouvelle teneur selon le ch. I de l’O du 31 mars 2021, en vigueur depuis le 1<sup>er</sup> mai 2021 ([RO 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
+[^ingress-2]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
 ## Titre 1 Objet, épizooties et buts de la lutte
 
@@ -42,25 +42,33 @@ vu les art. 10, 16, 19, 20, 31*a*, 32, al. 1<sup>bis</sup>, 53, al. 1, et 56*a*,
 
 Par épizooties hautement contagieuses, on entend les maladies animales suivantes:
 
-- a. fièvre aphteuse;f
-- b. et c.[^2-1] …
+- a. fièvre aphteuse;
+- b.[^2-1] pleuropneumonie contagieuse caprine;
+- c.[^2-2] morve (infection à *Burkholderia mallei*);
 - d. peste bovine;
 - e. peste des petits ruminants;
 - f. péripneumonie contagieuse bovine;
 - g. dermatose nodulaire contagieuse (lumpy skin disease);
 - h. fièvre de la Vallée du Rift;
-- i.[^2-2] …
+- i.[^2-3] …
 - k. clavelée et variole caprine;
 - l. peste équine;
 - m. peste porcine africaine;
 - n. peste porcine classique;
-- o.[^2-3] *influenza* aviaire[^2-4];
-- p. maladie de Newcastle.
+- o.[^2-4] *influenza* aviaire[^2-5];
+- p. maladie de Newcastle;
+- q.[^2-6] nécrose hématopoïétique épizootique;
+- r.[^2-7] infection par le virus du syndrome de Taura;
+- s.[^2-8] infection par le virus de la tête jaune.
 
-[^2-1]: Abrogées par le ch. I de l’O du 31 mars 2021, avec effet au 1<sup>er</sup> mai 2021 ([RO 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
-[^2-2]: Abrogée par le ch. I de l’O du 14 mai 2008, avec effet au 1<sup>er</sup> juin 2008 ([RO 2008 2275](https://fedlex.data.admin.ch/eli/oc/2008/329)).
-[^2-3]: Nouvelle teneur selon le ch. I de l’O du 15 nov. 2006, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 5217](https://fedlex.data.admin.ch/eli/oc/2006/791)).
-[^2-4]: Nouvelle expression selon le ch. I de l’O du 25 avr. 2018, en vigueur depuis le 1<sup>er</sup> juin 2018 ([RO 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)). Il a été tenu compte de cette mod. dans tout le texte.
+[^2-1]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^2-2]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^2-3]: Abrogée par le ch. I de l’O du 14 mai 2008, avec effet au 1<sup>er</sup> juin 2008 ([RO 2008 2275](https://fedlex.data.admin.ch/eli/oc/2008/329)).
+[^2-4]: Nouvelle teneur selon le ch. I de l’O du 15 nov. 2006, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 5217](https://fedlex.data.admin.ch/eli/oc/2006/791)).
+[^2-5]: Nouvelle expression selon le ch. I de l’O du 25 avr. 2018, en vigueur depuis le 1<sup>er</sup> juin 2018 ([RO 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)). Il a été tenu compte de cette mod. dans tout le texte.
+[^2-6]: Introduite par le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^2-7]: Introduite par le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^2-8]: Introduite par le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
 #### Art. 3
 
@@ -77,12 +85,12 @@ Par épizooties à éradiquer, on entend les maladies animales suivantes:
 - g. rhinotrachéite infectieuse bovine/vulvovaginite pustuleuse infectieuse;
 - g<sup>bis</sup>.[^3-1] diarrhée virale bovine;
 - h. encéphalopathie spongiforme bovine et tremblante;
-- i.[^3-2] infections génitales bovines: infections dues à *Campylobacter fetus* et *Tritr**i**chomonas foetus*;
+- i.[^3-2] infections génitales bovines: infections dues à *Campylobacter fetus* et *Tritrichomonas foetus*;
 - i<sup>bis</sup>.[^3-3] besnoitiose;
 - k. brucellose ovine et caprine;
 - l. agalaxie infectieuse;
 - m.[^3-4] …
-- n.[^3-5] épizooties équines: dourine, anémie infectieuse, morve;
+- n.[^3-5] épizooties équines: dourine et anémie infectieuse;
 - o. brucellose porcine;
 - o<sup>bis</sup>.[^3-6] syndrome dysgénésique et respiratoire du porc;
 - p. nécrose hématopoïétique infectieuse;
@@ -93,7 +101,7 @@ Par épizooties à éradiquer, on entend les maladies animales suivantes:
 [^3-2]: Nouvelle teneur selon le ch. I de l’O du 20 juin 2014, en vigueur depuis le 1<sup>er</sup> août 2014 ([RO 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)).
 [^3-3]: Introduite par le ch. I de l’O du 20 juin 2014, en vigueur depuis le 1<sup>er</sup> août 2014 ([RO 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)).
 [^3-4]: Abrogée par le ch. I de l’O du 25 mai 2011, avec effet au 1<sup>er</sup> juil. 2011 ([RO 2011 2691](https://fedlex.data.admin.ch/eli/oc/2011/371)).
-[^3-5]: Nouvelle teneur selon le ch. I de l’O du 20 juin 2014, en vigueur depuis le 1<sup>er</sup> août 2014 ([RO 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)).
+[^3-5]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 [^3-6]: Introduite par le ch. I de l’O du 15 nov. 2006, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 5217](https://fedlex.data.admin.ch/eli/oc/2006/791)).
 [^3-7]: Introduite par le ch. I de l’O du 28 mars 2001, en vigueur depuis le 15 avr. 2001 ([RO 2001 1337](https://fedlex.data.admin.ch/eli/oc/2001/184)).
 
@@ -112,29 +120,30 @@ Par épizooties à combattre, on entend les maladies animales suivantes:
 - g.[^4-3] paratuberculose;
 - g<sup>bis</sup>.[^4-4] fièvre catarrhale du mouton (*blue tongue* ou maladie de la langue bleue) et maladie épizootique hémorragique (EHD);
 - h. métrite contagieuse équine;
-- h<sup>bis</sup>.[^4-5] atteintes encéphalomyélitiques équines: encéphalomyélite équine de l’Ouest, de l’Est et vénézuélienne, fièvre du Nil occidental (West Nile), encéphalite japonaise;
+- h<sup>bis</sup>.[^4-5] encéphalomyélite équine vénézuélienne;
 - i.[^4-6] pneumonie enzootique des porcs;
 - i<sup>bis</sup>.[^4-7] actinobacillose des porcs;
-- k. chlamydiose des oiseaux;
-- l.[^4-8] infection de la volaille par *Salmonella*;
+- k.[^4-8] chlamydiose des oiseaux (*Chlamydia psittaci*);
+- l.[^4-9] infection de la volaille par *Salmonella*;
 - m. laryngotrachéite infectieuse aviaire;
 - n. myxomatose;
 - o. loque américaine des abeilles;
 - p. loque européenne des abeilles;
-- p<sup>bis</sup>.[^4-9] infestation par le petit coléoptère de la ruche (*Aethina tumida*);
-- q.[^4-10] …
+- p<sup>bis</sup>.[^4-10] infestation par le petit coléoptère de la ruche (*Aethina tumida*);
+- q.[^4-11] infection par le virus du syndrome des points blancs chez les crustacés;
 - r. peste des écrevisses.
 
 [^4-1]: Nouvelle teneur selon le ch. I de l’O du 25 mai 2011, en vigueur depuis le 1<sup>er</sup> juil. 2011 ([RO 2011 2691](https://fedlex.data.admin.ch/eli/oc/2011/371)).
 [^4-2]: Abrogée par le ch. I de l’O du 14 janv. 2009, avec effet au 1<sup>er</sup> mars 2009 ([RO 2009 581](https://fedlex.data.admin.ch/eli/oc/2009/101)).
 [^4-3]: Nouvelle teneur selon le ch. I de l’O du 28 oct. 2015, en vigueur depuis le 1<sup>er</sup> déc. 2015 ([RO 2015 4255](https://fedlex.data.admin.ch/eli/oc/2015/716)).
-[^4-4]: Introduite par le ch. I de l’O du 14 mai 2008 ([RO 2008 2275](https://fedlex.data.admin.ch/eli/oc/2008/329)). Nouvelle teneur selon le ch. I de l’O du 28 oct. 2015, en vigueur depuis le 1<sup>er</sup> déc. 2015 ([RO 2015 4255](https://fedlex.data.admin.ch/eli/oc/2015/716)).
-[^4-5]: Introduite par le ch. I de l’O du 20 juin 2014, en vigueur depuis le 1<sup>er</sup> août 2014 ([RO 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)).
+[^4-4]: Introduite par le ch. I de l’O du 14 mai 2008 ([RO 2008 2275](https://fedlex.data.admin.ch/eli/oc/2008/329)). Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^4-5]: Introduite par le ch. I de l’O du 20 juin 2014 ([RO 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)). Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 [^4-6]: Nouvelle teneur selon le ch. I de l’O du 30 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
 [^4-7]: Introduite par le ch. I de l’O du 30 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
-[^4-8]: Nouvelle teneur selon le ch. I de l’O du 25 avr. 2018, en vigueur depuis le 1<sup>er</sup> juin 2018 ([RO 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)).
-[^4-9]: Introduite par le ch. I de l’O du 25 mars 2015, en vigueur depuis le 1<sup>er</sup> avr. 2015 ([RO 2015 1007](https://fedlex.data.admin.ch/eli/oc/2015/191)).
-[^4-10]: Abrogée par le ch. I de l’O du 31 mars 2021, avec effet au 1<sup>er</sup> mai 2021 ([RO 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
+[^4-8]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^4-9]: Nouvelle teneur selon le ch. I de l’O du 25 avr. 2018, en vigueur depuis le 1<sup>er</sup> juin 2018 ([RO 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)).
+[^4-10]: Introduite par le ch. I de l’O du 25 mars 2015, en vigueur depuis le 1<sup>er</sup> avr. 2015 ([RO 2015 1007](https://fedlex.data.admin.ch/eli/oc/2015/191)).
+[^4-11]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
 #### Art. 5
 
@@ -142,45 +151,51 @@ Par épizooties à combattre, on entend les maladies animales suivantes:
 
 Par épizooties à surveiller, on entend les maladies animales suivantes:
 
-- a.[^5-1] …
+- a.[^5-1] mycoplasmose chez les poules et les dindes (*Mycoplasma gallisepticum, M. meleagridis*);
+- a<sup>bis</sup>.[^5-2] infections à *Salmonella* Pullorum, *S.* Gallinarum ou *S. arizonae* chez la volaille;
 - b. campylobactériose;
 - c. échinococcose;
 - d. listériose;
 - e. toxoplasmose;
-- f. yersiniose;
-- g.[^5-2] …
-- g<sup>bis</sup>.[^5-3] péripneumonie contagieuse des petits ruminants;
+- f.[^5-3] maladie à virus Ebola chez les singes;
+- g.[^5-4] tuberculose chez les mammifères, à l’exception des animaux de l’espèce bovine, des buffles et des bisons;
+- g<sup>bis</sup>.[^5-5] infection à *Batrachochytrium salamandrivorans* chez les urodèles;
 - h. Maedi-Visna;
 - i. pseudotuberculose des moutons et des chèvres;
 - k. adénomatose pulmonaire;
 - l. avortement enzootique des brebis et des chèvres;
-- m.[^5-4] …
+- m.[^5-6] encéphalomyélite équine (de l’Est ou de l’Ouest) et encéphalite japonaise;
 - n. artérite infectieuse des équidés;
-- o.[^5-5] charbon symptomatique;
-- p. maladie de Teschen;
-- q. gastro-entérite transmissible;
+- o.[^5-7] surra (*Trypanosoma evansi*) chez les équidés et les artiodactyles;
+- p.[^5-8] fièvre de West Nile;
+- q.[^5-9] brucellose chez les périssodactyles, les carnivores et lagomorphes;
 - r. trichinellose;
 - s. tularémie;
 - t. maladie hémorragique virale du lapin;
-- u.[^5-6] acarioses des abeilles (*Varroa destructor, Acarapis woodi* et *Tropilaelap**s* spp.);
-- u<sup>bis</sup>.[^5-7] …
-- v.[^5-8] néosporose;
-- w. virémie printanière de la carpe;
-- x.[^5-9] coxiellose;
-- y.[^5-10] cryptosporidiose;
-- z.[^5-11] maladie proliférative des reins chez les poissons.
+- u.[^5-10] acarioses des abeilles (*Varroa destructor, Acarapis woodi* et *Tropilaelap**s* spp.);
+- u<sup>bis</sup>.[^5-11] …
+- v.[^5-12] néosporose;
+- w.[^5-13] herpèsvirose de la carpe koï;
+- x.[^5-14] coxiellose;
+- y.[^5-15] cryptosporidiose;
+- z.[^5-16] maladie proliférative des reins chez les poissons.
 
-[^5-1]: Abrogée par le ch. I de l’O du 28 oct. 2015, avec effet au 1<sup>er</sup> déc. 2015 ([RO 2015 4255](https://fedlex.data.admin.ch/eli/oc/2015/716)).
-[^5-2]: Abrogée par le ch. I de l’O du 20 juin 2014, avec effet au 1<sup>er</sup> août 2014 ([RO 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)).
-[^5-3]: Introduite par le ch. I de l’O du 8 juin 1998, en vigueur depuis le 1<sup>er</sup> juil. 1998 ([RO 1998 1575](https://fedlex.data.admin.ch/eli/oc/1998/1575_1575_1575)).
-[^5-4]: Abrogée par le ch. I de l’O du 28 oct. 2015, avec effet au 1<sup>er</sup> déc. 2015 ([RO 2015 4255](https://fedlex.data.admin.ch/eli/oc/2015/716)).
-[^5-5]: Nouvelle teneur selon le ch. I de l’O du 14 janv. 2009, en vigueur depuis le 1<sup>er</sup> mars 2009 ([RO 2009 581](https://fedlex.data.admin.ch/eli/oc/2009/101)).
-[^5-6]: Nouvelle teneur selon le ch. I de l’O du 19 août 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 4255](https://fedlex.data.admin.ch/eli/oc/2009/522)).
-[^5-7]: Introduite par le ch. I de l’O du 15 nov. 2006 ([RO 2006 5217](https://fedlex.data.admin.ch/eli/oc/2006/791)). Abrogée par le ch. I de l’O du 25 mars 2015, avec effet au 1<sup>er</sup> avr. 2015 ([RO 2015 1007](https://fedlex.data.admin.ch/eli/oc/2015/191)).
-[^5-8]: Nouvelle teneur selon le ch. I de l’O du 28 mars 2001, en vigueur depuis le 15 avr. 2001 ([RO 2001 1337](https://fedlex.data.admin.ch/eli/oc/2001/184)).
-[^5-9]: Introduite par le ch. I de l’O du 28 mars 2001 ([RO 2001 1337](https://fedlex.data.admin.ch/eli/oc/2001/184)). Nouvelle teneur selon le ch. I de l’O du 14 janv. 2009, en vigueur depuis le 1<sup>er</sup> mars 2009 ([RO 2009 581](https://fedlex.data.admin.ch/eli/oc/2009/101)).
-[^5-10]: Introduite par le ch. I de l’O du 28 mars 2001, en vigueur depuis le 15 avr. 2001 ([RO 2001 1337](https://fedlex.data.admin.ch/eli/oc/2001/184)).
-[^5-11]: Introduite par le ch. I de l’O du 28 mars 2001, en vigueur depuis le 15 avr. 2001 ([RO 2001 1337](https://fedlex.data.admin.ch/eli/oc/2001/184)).
+[^5-1]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^5-2]: Introduite par le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^5-3]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^5-4]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^5-5]: Introduite par le ch. I de l’O du 8 juin 1998 ([RO 1998 1575](https://fedlex.data.admin.ch/eli/oc/1998/1575_1575_1575)). Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^5-6]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^5-7]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^5-8]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^5-9]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^5-10]: Nouvelle teneur selon le ch. I de l’O du 19 août 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 4255](https://fedlex.data.admin.ch/eli/oc/2009/522)).
+[^5-11]: Introduite par le ch. I de l’O du 15 nov. 2006 ([RO 2006 5217](https://fedlex.data.admin.ch/eli/oc/2006/791)). Abrogée par le ch. I de l’O du 25 mars 2015, avec effet au 1<sup>er</sup> avr. 2015 ([RO 2015 1007](https://fedlex.data.admin.ch/eli/oc/2015/191)).
+[^5-12]: Nouvelle teneur selon le ch. I de l’O du 28 mars 2001, en vigueur depuis le 15 avr. 2001 ([RO 2001 1337](https://fedlex.data.admin.ch/eli/oc/2001/184)).
+[^5-13]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^5-14]: Introduite par le ch. I de l’O du 28 mars 2001 ([RO 2001 1337](https://fedlex.data.admin.ch/eli/oc/2001/184)). Nouvelle teneur selon le ch. I de l’O du 14 janv. 2009, en vigueur depuis le 1<sup>er</sup> mars 2009 ([RO 2009 581](https://fedlex.data.admin.ch/eli/oc/2009/101)).
+[^5-15]: Introduite par le ch. I de l’O du 28 mars 2001, en vigueur depuis le 15 avr. 2001 ([RO 2001 1337](https://fedlex.data.admin.ch/eli/oc/2001/184)).
+[^5-16]: Introduite par le ch. I de l’O du 28 mars 2001, en vigueur depuis le 15 avr. 2001 ([RO 2001 1337](https://fedlex.data.admin.ch/eli/oc/2001/184)).
 
 #### Art. 6
 
@@ -220,17 +235,25 @@ Les termes ci-dessous sont définis comme il suit:
 - o<sup>bis</sup>.[^6-14] *exploitation aquacole:* toute entreprise dans laquelle sont détenus des animaux aquatiques en appliquant des techniques permettant une augmentation de la production au-delà de ce qui est possible dans des conditions naturelles;
 - p.[^6-15] *effectif (troupeau):* animaux d’une unité d’élevage qui constituent une unité épidémiologique; une unité d’élevage peut comprendre un ou plusieurs effectifs (troupeaux);
 - q. animal *exposé à la contagion:* animal qui a été en contact direct ou indirect avec des animaux contaminés et qui ne présente pas de symptômes semblables à ceux d’une épizootie;
-- r. animal *suspect:* animal qui présente des symptômes semblables à ceux d’une épizootie et chez lequel la présence de l’épizootie n’est ni confirmée ni infirmée par une méthode de diagnostic reconnue;
-- s. animal *contaminé:* animal qui présente les symptômes caractéristiques d’une épizootie ou pour lequel l’épizootie ou la contagion est confirmée par des méthodes diagnostiques reconnues;
-- t.[^6-16] *animaux à onglons:* animaux domestiques des espèces bovine, ovine, caprine et porcine, y compris les buffles, les camélidés du Nouveau-Monde (lamas, alpacas) et le gibier de l’ordre des artiodactyles détenu en enclos, à l’exclusion des animaux de zoo;
+- r.[^6-16] animal *suspect:* animal qui présente des signes cliniques, des lésions constatées *post mortem*, des résultats histologiques ou des résultats d’une méthode de dépistage indirect de maladie qui évoquent une épizootie;
+- s.[^6-17]
+
+  animal *contaminé:* animal qui, sans lien avec la vaccination, est considéré comme contaminé:
+
+  - 1\. lorsque l’agent pathogène, un antigène ou un acide nucléique spécifique de l’agent pathogène a été mis en évidence, ou
+  - 2\. lorsqu’un résultat positif à une méthode de diagnostic indirecte a été obtenu sur un animal présentant des signes cliniques ou un lien épidémiologique avec un cas confirmé;
+
+- t.[^6-18] *animaux à onglons:* animaux domestiques des espèces bovine, ovine, caprine et porcine, buffles et bisons, camélidés de l’Ancien Monde (dromadaires, chameaux) et du Nouveau Monde (lamas, alpagas) et gibier de l’ordre des artiodactyles détenu en enclos, à l’exclusion des animaux de zoo;
 - u. *bétail:* animaux domestiques des espèces équine, bovine, ovine, caprine et porcine;
-- v.[^6-17] *animaux exotiques au sens de l’art. 34, al. 2, ch. 1 LFE*[^6-18]: animaux n’apparaissant pas à l’état naturel en Suisse, à l’exception des animaux mentionnés à la let. t;
-- w.[^6-19] *volaille:* oiseaux de l’ordre des galliformes (*Galliformes*), des ansériformes (*Anseriformes*) et des struthioniformes (*Struthioniformes*);
-- x.[^6-20] *volaille domestique:* volaille détenue en captivité;
-- y.[^6-21] *équidés:*animaux domestiques du genre équin (chevaux, ânes, mulets et bardots);
-- z.[^6-22] *animaux aquatiques:* les poissons de la superclasse des agnathes (*Agn**a**tha*) et des classes des chondrichtyens (*Chondrichthyes*) et des ostéichthyens (*Osteichthyes*) de même que les mollusques (*Mollusca*) et les crustacés (*Crust**a**cea*);
-- z<sup>bis</sup>.[^6-23] *avortement:* expulsion d’un fœtus incomplètement développé et non viable avant le terme normal de la gestation;
-- z<sup>ter</sup>.[^6-24] *animal mort-né:* animal né à terme, mais mort à la naissance ou dans les 24 heures suivant sa naissance.
+- v.[^6-19] *animaux exotiques au sens de l’art. 34, al. 2, ch. 1 LFE*[^6-20]: animaux n’apparaissant pas à l’état naturel en Suisse, à l’exception des animaux mentionnés à la let. t;
+- v<sup>bis</sup>.[^6-21] *abeilles:* animaux de l’espèce *Apis mellifera*;
+- v<sup>ter</sup>.[^6-22] *bourdons:* animaux de l’espèce *Bombus*;
+- w.[^6-23] *volaille:* oiseaux de l’ordre des galliformes (*Galliformes*), des ansériformes (*Anseriformes*) et des struthioniformes (*Struthioniformes*);
+- x.[^6-24] *volaille domestique:* volaille détenue en captivité;
+- y.[^6-25] *équidés:* animaux domestiques du genre équin (chevaux, ânes, mulets et bardots);
+- z.[^6-26] *animaux aquatiques:* les poissons de la superclasse des agnathes (*Agnatha*) et des classes des chondrichtyens (*Chondrichthyes*) et des ostéichthyens (*Osteichthyes*) de même que les mollusques (*Mollusca*) et les crustacés (*Crustacea*);
+- z<sup>bis</sup>.[^6-27] *avortement:* expulsion d’un fœtus incomplètement développé et non viable avant le terme normal de la gestation;
+- z<sup>ter</sup>.[^6-28] *animal mort-né:* animal né à terme, mais mort à la naissance ou dans les 24 heures suivant sa naissance.
 
 [^6-1]: Introduite par le ch. I de l’O du 15 nov. 2006, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 5217](https://fedlex.data.admin.ch/eli/oc/2006/791)).
 [^6-2]: Introduite par le ch. I de l’O du 31 mars 2021, en vigueur depuis le 1<sup>er</sup> mai 2021 ([RO 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
@@ -247,17 +270,21 @@ Les termes ci-dessous sont définis comme il suit:
 [^6-13]: Introduit par le ch. I de l’O du 30 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
 [^6-14]: Introduite par le ch. I de l’O du 30 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
 [^6-15]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2005, en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2005 5647](https://fedlex.data.admin.ch/eli/oc/2005/774)).
-[^6-16]: Nouvelle teneur selon le ch. I de l’O du 28 mars 2001, en vigueur depuis le 15 avr. 2001 ([RO 2001 1337](https://fedlex.data.admin.ch/eli/oc/2001/184)).
-[^6-17]: Introduite par le ch. I de l’O du 28 mars 2001, en vigueur depuis le 15 avr. 2001 ([RO 2001 1337](https://fedlex.data.admin.ch/eli/oc/2001/184)).
-[^6-18]: Nouvelle expression selon le ch. I de l’O du 15 mars 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 945](https://fedlex.data.admin.ch/eli/oc/2013/192)). Il a été tenu compte de cette mod. dans tout le texte.
-[^6-19]: Introduite par le ch. I de l’O du 15 nov. 2006, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 5217](https://fedlex.data.admin.ch/eli/oc/2006/791)).
-[^6-20]: Introduite par le ch. I de l’O du 15 nov. 2006, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 5217](https://fedlex.data.admin.ch/eli/oc/2006/791)).
-[^6-21]: Introduite par le ch. I de l’O du 19 août 2009 ([RO 2009 4255](https://fedlex.data.admin.ch/eli/oc/2009/522)). Nouvelle teneur selon le ch. I de l’O du 12 mai 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 2525](https://fedlex.data.admin.ch/eli/oc/2010/342)).
-[^6-22]: Introduite par le ch. I de l’O du 30 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
-[^6-23]: Introduite par le ch. I de l’O du 20 juin 2014, en vigueur depuis le 1<sup>er</sup> août 2014 ([RO 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)).
-[^6-24]: Introduite par le ch. I de l’O du 20 juin 2014, en vigueur depuis le 1<sup>er</sup> août 2014 ([RO 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)).
+[^6-16]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^6-17]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^6-18]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^6-19]: Introduite par le ch. I de l’O du 28 mars 2001, en vigueur depuis le 15 avr. 2001 ([RO 2001 1337](https://fedlex.data.admin.ch/eli/oc/2001/184)).
+[^6-20]: Nouvelle expression selon le ch. I de l’O du 15 mars 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 945](https://fedlex.data.admin.ch/eli/oc/2013/192)). Il a été tenu compte de cette mod. dans tout le texte.
+[^6-21]: Introduite par le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^6-22]: Introduite par le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^6-23]: Introduite par le ch. I de l’O du 15 nov. 2006, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 5217](https://fedlex.data.admin.ch/eli/oc/2006/791)).
+[^6-24]: Introduite par le ch. I de l’O du 15 nov. 2006, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 5217](https://fedlex.data.admin.ch/eli/oc/2006/791)).
+[^6-25]: Introduite par le ch. I de l’O du 19 août 2009 ([RO 2009 4255](https://fedlex.data.admin.ch/eli/oc/2009/522)). Nouvelle teneur selon le ch. I de l’O du 12 mai 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 2525](https://fedlex.data.admin.ch/eli/oc/2010/342)).
+[^6-26]: Introduite par le ch. I de l’O du 30 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
+[^6-27]: Introduite par le ch. I de l’O du 20 juin 2014, en vigueur depuis le 1<sup>er</sup> août 2014 ([RO 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)).
+[^6-28]: Introduite par le ch. I de l’O du 20 juin 2014, en vigueur depuis le 1<sup>er</sup> août 2014 ([RO 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)).
 
-## Titre 2 Trafic des animaux, des produits animaux, des semences et des embryons****
+## Titre 2 Trafic des animaux, des produits animaux, des semences et des embryons
 
 [^tit2-1]
 
@@ -265,7 +292,7 @@ Les termes ci-dessous sont définis comme il suit:
 
 ### Chapitre 1 Animaux
 
-### Section 1**** Enregistrement, identification et trafic des animaux à onglons****
+### Section 1 Enregistrement, identification et trafic des animaux à onglons
 
 [^tit2-chap1-sec1-1][^tit2-chap1-sec1-2]
 
@@ -328,13 +355,13 @@ Les détenteurs d’animaux doivent enregistrer les données suivantes relatives
 
 #### Art. 10
 
-**Identification et reconnaissance des animaux à onglons**
+**Identification et reconnaissance des animaux à onglons: dispositions générales[^10-1]**
 
 <sup>1</sup> L’identification des animaux à onglons doit être uniforme, nette et permanente, et permettre la reconnaissance individuelle de chaque animal. L’OSAV édicte des dispositions d’exécution de caractère technique sur le mode d’identification et son exécution.
 
-<sup>1bis</sup> …[^10-1]
+<sup>1bis</sup> …[^10-2]
 
-<sup>2</sup> L’identification des animaux de l’espèce porcine et du gibier doit seulement permettre la reconnaissance de l’unité d’élevage dans laquelle l’animal est né.[^10-2]
+<sup>2</sup> …[^10-3]
 
 <sup>3</sup>
 
@@ -343,67 +370,96 @@ L’identification doit être effectuée au plus tard:
 - a. dans le cas des animaux de l’espèce bovine: 20 jours après la naissance;
 - b. dans le cas du gibier: avant que les animaux soient retirés de l’enclos où ils sont nés;
 - c. dans le cas des autres animaux à onglons: 30 jours après la naissance;
-- d.[^10-3] dans le cas des autres animaux à onglons de petite taille (minipigs, chèvres naines, etc.): selon les directives de l’OSAV.
+- d.[^10-4] dans le cas des autres animaux à onglons de petite taille (minipigs, chèvres naines, etc.): selon les directives de l’OSAV.
 
 <sup>4</sup> Les marques d’identification ne peuvent être enlevées qu’avec l’autorisation de l’autorité cantonale compétente.
 
-<sup>5</sup> Les animaux à onglons non identifiés ne peuvent être déplacés d’une unité d’élevage vers une autre.[^10-4]
+<sup>5</sup> Les animaux à onglons non identifiés ne peuvent être déplacés d’une unité d’élevage vers une autre.[^10-5]
 
-<sup>6</sup> Les marques d’identification des animaux à onglons péris ou tués ne peuvent être enlevées que dans les usines ou installations d’élimination.[^10-5]
+<sup>6</sup> Les marques d’identification des animaux à onglons péris ou tués ne peuvent être enlevées que dans les usines ou installations d’élimination.[^10-6]
 
-[^10-1]: Introduit par le ch. I de l’O du 25 avr. 2018 ([RO 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)). Abrogé par l’annexe 3 ch. II 9 de l’O du 3 nov. 2021 relative à Identitas SA et à la banque de données sur le trafic des animaux, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
-[^10-2]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2005, en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2005 5647](https://fedlex.data.admin.ch/eli/oc/2005/774)).
-[^10-3]: Introduite par le ch. I de l’O du 28 mars 2001, en vigueur depuis le 15 avr. 2001 ([RO 2001 1337](https://fedlex.data.admin.ch/eli/oc/2001/184)).
-[^10-4]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2005, en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2005 5647](https://fedlex.data.admin.ch/eli/oc/2005/774)).
-[^10-5]: Introduit par le ch. I de l’O du 23 juin 2004, en vigueur depuis le 1<sup>er</sup> juil. 2004 ([RO 2004 3065](https://fedlex.data.admin.ch/eli/oc/2004/398)).
+[^10-1]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^10-2]: Introduit par le ch. I de l’O du 25 avr. 2018 ([RO 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)). Abrogé par l’annexe 3 ch. II 9 de l’O du 3 nov. 2021 relative à Identitas SA et à la banque de données sur le trafic des animaux, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
+[^10-3]: Abrogé par le ch. I de l’O du 31 août 2022, avec effet au 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^10-4]: Introduite par le ch. I de l’O du 28 mars 2001, en vigueur depuis le 15 avr. 2001 ([RO 2001 1337](https://fedlex.data.admin.ch/eli/oc/2001/184)).
+[^10-5]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2005, en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2005 5647](https://fedlex.data.admin.ch/eli/oc/2005/774)).
+[^10-6]: Introduit par le ch. I de l’O du 23 juin 2004, en vigueur depuis le 1<sup>er</sup> juil. 2004 ([RO 2004 3065](https://fedlex.data.admin.ch/eli/oc/2004/398)).
 
 #### Art. 11
 
-[^11-1]
+**Identification et reconnaissance des animaux à onglons: dispositions particulières applicables aux animaux de l’espèce porcine et au gibier**[^11-1]
 
-[^11-1]: Abrogé par le ch. I de l’O du 23 juin 2004, avec effet au 1<sup>er</sup> janv. 2006 ([RO 2004 3065](https://fedlex.data.admin.ch/eli/oc/2004/398)).
+L’identification des animaux de l’espèce porcine et du gibier doit seulement permettre la reconnaissance de l’unité d’élevage dans laquelle l’animal est né.
 
-#### Art. 12
+[^11-1]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
-**Document d’accompagnement**
+#### Art. 11a
 
-<sup>1</sup> Lorsqu’un animal à onglons est emmené dans une autre unité d’élevage, le détenteur doit établir un document d’accompagnement et en conserver une copie. Le document peut être établi et conservé sous forme papier ou sous forme électronique.[^12-1]
+**Identification et reconnaissance des animaux à onglons: dispositions particulières applicables aux camélidés de l’Ancien et du Nouveau Monde**[^11a-1]
+
+<sup>1</sup> Les camélidés de l’Ancien et du Nouveau Monde doivent être identifiés au moyen d’une puce électronique.
 
 <sup>2</sup>
 
-Le document d’accompagnement doit contenir les indications suivantes:
+L’identification ne peut être effectuée que par les personnes suivantes:
 
-- a.[^12-2] l’adresse de l’unité d’élevage en provenance de laquelle l’animal est emmené et le numéro BDTA attribué par Identitas SA conformément à l’art. 15, al. 1, de l’ordonnance du 3 novembre 2021 relative à Identitas SA et à la banque de données sur le trafic des animaux (OId-BDTA)[^12-3];
-- b. l’espèce animale;
-- c.[^12-4] pour les animaux de l’espèce bovine: le numéro d’identification, l’âge et le sexe de l’animal;
-- d.[^12-5] pour les animaux des espèces ovine et caprine: le numéro d’identification;
-- e.[^12-6] pour les animaux de l’espèce porcine et pour le gibier détenu en enclos: le nombre d’animaux provenant de la même unité d’élevage;
-- f. la date à laquelle l’animal est emmené hors de l’unité d’élevage;
-- g.[^12-7] l’adresse de l’unité d’élevage dans laquelle l’animal est emmené;
-- h. une confirmation signée du détenteur d’animaux que son unité d’élevage n’est soumise à aucune mesure d’interdiction de police des épizooties.
+- a. les vétérinaires;
+- b. les personnes ayant suivi une formation professionnelle sanctionnée par un diplôme fédéral ou reconnue au plan fédéral, qui les habilitent à effectuer une injection à un animal;
+- c. les détenteurs compétents, lorsqu’il s’agit des camélidés de l’Ancien et du Nouveau Monde détenus dans leur propre unité d’élevage.
 
-<sup>3</sup> Si la confirmation visée à l’al. 2, let. h, ne peut être donnée, le document d’accompagnement ne peut être établi qu’avec l’attestation d’un organe de la police des épizooties.
+<sup>3</sup> En fonction du diplôme, l’implantation de la puce électronique est faite de manière autonome ou sous surveillance.
 
-<sup>4</sup> Si le document d’accompagnement est établi sous forme électronique, les données doivent être consultables en ligne durant le transport et chez le destinataire. S’il est établi sous forme papier, il doit être emporté lors du transport et remis au destinataire.[^12-8]
+<sup>4</sup> La puce électronique doit être implantée du côté gauche du cou, à environ une largeur de main devant l’omoplate. Son fonctionnement doit ensuite être vérifié au moyen d’un lecteur.
 
-<sup>5</sup>
+<sup>5</sup> La puce électronique doit être conforme aux normes ISO 11784:1996/Amd 2:2010[^11a-2] et 11785:1996/Cor 1:2008[^11a-3], contenir le code de pays attribué à la Suisse et le nom du fabricant de la puce. Les art. 6 à 20 de l’ordonnance du 25 novembre 2015 sur les installations de télécommunication (OIT)[^11a-4] concernant la mise à disposition d’installations de télécommunication neuves demeurent réservées.
+
+<sup>6</sup> La puce électronique peut être fournie exclusivement à des vétérinaires. Les personnes visées à l’al. 2, let. b et c, ne peuvent se la procurer qu’auprès d’un vétérinaire.
+
+[^11a-1]: Introduit par le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^11a-2]: Les normes mentionnées peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour, www.snv.ch.
+[^11a-3]: Les normes mentionnées peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour, www.snv.ch.
+[^11a-4]: [RS 784.101.2](https://fedlex.data.admin.ch/eli/cc/2016/24)
+
+#### Art. 11b
+
+**Établissement du document d*’*accompagnement**[^11b-1]
+
+<sup>1</sup> Lorsqu’un animal à onglons est emmené dans une autre unité d’élevage, le détenteur doit établir un document d’accompagnement et en conserver une copie. Le document doit contenir les données visées à l’art. 12 et peut être établi et conservé sous forme papier ou sous forme électronique.
+
+<sup>2</sup> Si le document d’accompagnement est établi sous forme électronique, les données doivent être consultables en ligne durant le transport et chez le destinataire.
+
+<sup>3</sup> S’il est établi sous forme papier, il doit être emporté lors du transport et remis au destinataire.
+
+<sup>4</sup>
 
 En cas de danger accru d’épizootie, le vétérinaire cantonal peut prescrire:
 
-- a. que les animaux soient examinés par un organe de la police des épizooties avant leur déplacement, et
-- b. que les documents d’accompagnement des animaux soient établis par un organe de la police des épizooties.
+- a. que les documents d’accompagnement des animaux soient établis par un organe de la police des épizooties, et
+- b. que les animaux soient examinés par un organe de la police des épizooties avant leur déplacement.
 
-<sup>6</sup> …[^12-9]
+[^11b-1]: Introduit par le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
-[^12-1]: Nouvelle teneur selon le ch. I de l’O du 25 avr. 2018, en vigueur depuis le 1<sup>er</sup> juin 2018 ([RO 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)).
-[^12-2]: Nouvelle teneur selon l’annexe 3 ch. II 9 de l’O du 3 nov. 2021 relative à Identitas SA et à la banque de données sur le trafic des animaux, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
-[^12-3]: [RS 916.404.1](https://fedlex.data.admin.ch/eli/cc/2021/751)
-[^12-4]: Nouvelle teneur selon le ch. I de l’O du 25 avr. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)).
-[^12-5]: Nouvelle teneur selon le ch. I de l’O du 25 avr. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)).
-[^12-6]: Nouvelle teneur selon le ch. I de l’O du 25 avr. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)).
-[^12-7]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2005, en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2005 5647](https://fedlex.data.admin.ch/eli/oc/2005/774)).
-[^12-8]: Nouvelle teneur selon le ch. I de l’O du 25 avr. 2018, en vigueur depuis le 1<sup>er</sup> juin 2018 ([RO 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)).
-[^12-9]: Introduit par le ch. I de l’O du 15 nov. 2006 ([RO 2006 5217](https://fedlex.data.admin.ch/eli/oc/2006/791)). Abrogé par le ch. I de l’O du 25 avr. 2018, avec effet au 1<sup>er</sup> juin 2018 ([RO 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)).
+#### Art. 12
+
+**Contenu du document d’accompagnement**[^12-1]
+
+<sup>1</sup>
+
+Le document d’accompagnement doit contenir les données suivantes:
+
+- a. l’adresse de l’unité d’élevage en provenance de laquelle l’animal est emmené et le numéro BDTA attribué par Identitas SA, conformément à l’art. 15, al. 1, de l’ordonnance du 3 novembre 2021 relative à Identitas SA et à la banque de données sur le trafic des animaux[^12-2];
+- b. l’espèce animale;
+- c. pour les animaux de l’espèce bovine: le numéro d’identification, l’âge et le sexe de l’animal;
+- d. pour les camélidés de l’Ancien et du Nouveau Monde ainsi que pour les animaux des espèces ovine et caprine: le numéro d’identification;
+- e. pour les animaux de l’espèce porcine et pour le gibier détenu en enclos: le nombre d’animaux provenant de la même unité d’élevage;
+- f. la date à laquelle l’animal est emmené hors de l’unité d’élevage;
+- g. l’adresse de l’unité d’élevage dans laquelle l’animal est emmené;
+- h. une confirmation signée du détenteur d’animaux que son unité d’élevage n’est soumise à aucune mesure d’interdiction de police des épizooties.
+
+<sup>2</sup> Si la confirmation visée à l’al. 1, let. h, ne peut être donnée, le document d’accompagnement ne peut être établi qu’avec l’attestation d’un organe de la police des épizooties.
+
+[^12-1]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^12-2]: [RS 916.404.1](https://fedlex.data.admin.ch/eli/cc/2021/751)
 
 #### Art. 12a
 
@@ -470,7 +526,7 @@ Il communique à l’exploitant de la banque de données sur le trafic des anima
 [^15-2]: Nouvelle teneur selon le ch. I de l’O du 25 avr. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)).
 [^15-3]: Nouvelle expression selon l’annexe 2 ch. 5 de l’O du 24 janv. 2007 (Formation dans le Service vétérinaire public), en vigueur depuis le 1<sup>er</sup> avr. 2007 ([RO 2007 561](https://fedlex.data.admin.ch/eli/oc/2007/113)). Il a été tenu compte de cette mod. dans tout le texte.
 
-### Section 1*a***** Identification et enregistrement des équidés
+### Section 1*a* Identification et enregistrement des équidés
 
 [^tit2-chap1-sec1a-1]
 
@@ -484,15 +540,14 @@ Il communique à l’exploitant de la banque de données sur le trafic des anima
 
 <sup>2</sup> L’identification peut être effectuée par des vétérinaires ou par des personnes ayant suivi une formation professionnelle sanctionnée par un diplôme fédéral ou reconnue au plan fédéral, qui les habilitent à effectuer une injection à un animal. En fonction du diplôme, cette injection se fait de manière autonome ou sous surveillance. Les personnes habilitées doivent implanter la puce électronique entre la nuque et le garrot, au milieu de l’encolure, du côté gauche de l’animal, dans la zone du ligament nucal, et doivent ensuite vérifier le fonctionnement de la puce électronique au moyen d’un dispositif de lecture.
 
-<sup>3</sup> La puce électronique doit être conforme aux normes ISO 11784:1996/Amd 2:2010[^15a-1] et 11785:1996/Cor 1:2008[^15a-2] ainsi que contenir le code de la Suisse et du fabricant de la puce. Les dispositions de l’ordonnance du 25 novembre 2015 sur les installations de télécommunication[^15a-3] (OIT) concernant l’offre et la mise sur le marché d’installations de télécommunication neuves (art. 6 à 20 OIT[^15a-4]) demeurent réservées.[^15a-5]
+<sup>3</sup> La puce électronique doit être conforme aux normes ISO 11784:1996/Amd 2:2010[^15a-1] et 11785:1996/Cor 1:2008[^15a-2] , contenir le code de pays attribué à la Suisse et le nom du fabricant de la puce. Les art. 6 à 20 de l’OIT[^15a-3] demeurent réservés.[^15a-4]
 
 <sup>4</sup> Ces puces électroniques ne peuvent être remises ou cédées qu’aux personnes autorisées au sens de l’al. 2.
 
-[^15a-1]: Les normes peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch.
-[^15a-2]: Les normes peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch.
-[^15a-3]: [RS 784.101.2](https://fedlex.data.admin.ch/eli/cc/2016/24). Nouvelle expression selon l’art. 43 al. 1 let. c de l’O du 25 nov. 2015 sur les installations de télécommunication, en vigueur depuis le 13 juin 2016 ([RO 2016 179](https://fedlex.data.admin.ch/eli/oc/2016/24)).
-[^15a-4]: Voir actuellement les art. 6 à 20 OIT.
-[^15a-5]: Nouvelle teneur selon le ch. I de l’O du 20 juin 2014, en vigueur depuis le 1<sup>er</sup> août 2014 ([RO 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)).
+[^15a-1]: Les normes mentionnées peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour, www.snv.ch.
+[^15a-2]: Les normes mentionnées peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour, www.snv.ch.
+[^15a-3]: [RS 784.101.2](https://fedlex.data.admin.ch/eli/cc/2016/24)
+[^15a-4]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
 #### Art. 15b
 
@@ -672,7 +727,7 @@ Aucune notification n’est nécessaire si:
 [^15f-3]: Nouvelle teneur selon le ch. II de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 697](https://fedlex.data.admin.ch/eli/oc/2021/697)).
 [^15f-4]: Nouvelle teneur selon le ch. I de l’O du 28 oct. 2015, en vigueur depuis le 1<sup>er</sup> déc. 2015 ([RO 2015 4255](https://fedlex.data.admin.ch/eli/oc/2015/716)).
 
-### Section 2**** Identification et enregistrement des chiens****
+### Section 2 Identification et enregistrement des chiens
 
 [^tit2-chap1-sec2-1][^tit2-chap1-sec2-2]
 
@@ -739,7 +794,7 @@ Lors de l’identification du chien, le vétérinaire relève les données suiva
 
 **Puce d’identification**[^17a-1]
 
-<sup>1</sup> La puce d’identification doit répondre aux normes ISO 11784:1996/Amd 2:2010 et 11785:1996/Cor 1:2008[^17a-2] et contenir le code du pays d’origine et celui du fabricant de la puce. Les dispositions de l’OIT[^17a-3] sur l’offre etla mise à disposition sur le marché d’installations de radiocommunication neuves (art. 6 à 20 OIT) sont réservées.[^17a-4]
+<sup>1</sup> La puce électronique doit être conforme aux normes ISO 11784:1996/Amd 2:2010[^17a-2] et 11785:1996/Cor 1:2008[^17a-3] , contenir le code de pays attribué au pays de provenance et le nom du fabricant de la puce. Les art. 6 à 20 de l’OIT[^17a-4] demeurent réservés.[^17a-5]
 
 <sup>2</sup> Les puces d’identification ayant la Suisse comme pays d’origine ne peuvent être livrées ou transmises qu’à des vétérinaires titulaires de l’autorisation cantonale d’exercer la profession et dont le cabinet est situé en Suisse. Seuls ces vétérinaires sont autorisés à implanter des puces d’identification. Ils doivent disposer d’un lecteur de puces.
 
@@ -748,9 +803,10 @@ Lors de l’identification du chien, le vétérinaire relève les données suiva
 <sup>4</sup> Le vétérinaire qui transmet des puces communique le nom du destinataire et le numéro des puces à l’exploitant de la banque de données sur les chiens.
 
 [^17a-1]: Introduit par le ch. I de l’O du 20 juin 2014 ([RO 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)). Nouvelle teneur selon le ch. I de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 721](https://fedlex.data.admin.ch/eli/oc/2018/90)).
-[^17a-2]: Les normes peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch.
-[^17a-3]: [RS 784.101.2](https://fedlex.data.admin.ch/eli/cc/2016/24)
-[^17a-4]: Nouvelle teneur selon le ch. III de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6213](https://fedlex.data.admin.ch/eli/oc/2020/1023)).
+[^17a-2]: Les normes mentionnées peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour, www.snv.ch.
+[^17a-3]: Les normes mentionnées peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour, www.snv.ch.
+[^17a-4]: [RS 784.101.2](https://fedlex.data.admin.ch/eli/cc/2016/24)
+[^17a-5]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
 #### Art. 17b
 
@@ -910,7 +966,7 @@ Les cantons et les communes donnent la possibilité au vétérinaire cantonal de
 
 [^18-1]: Nouvelle teneur selon le ch. I de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 721](https://fedlex.data.admin.ch/eli/oc/2018/90)).
 
-### Section 2*a* Enregistrement de certains établissements détenant des animaux et règles d’identification applicables à d’autres espèces animales****
+### Section 2*a* Enregistrement de certains établissements détenant des animaux et règles d’identification applicables à d’autres espèces animales
 
 [^tit2-chap1-sec2a-1]
 
@@ -987,7 +1043,7 @@ Quiconque fait le commerce de perroquets *(Psittaciformes)* doit les identifier 
 [^19a-2]: Nouvelle teneur selon le ch. I de l’O du 31 mars 2021, en vigueur depuis le 1<sup>er</sup> mai 2021 ([RO 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
 [^19a-3]: Introduit par le ch. I de l’O du 31 mars 2021, en vigueur depuis le 1<sup>er</sup> mai 2021 ([RO 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
 
-### Section 3**** Registre des effectifs de volaille, de perroquets et de colonies d’abeilles
+### Section 3 Registre des effectifs de volaille, de perroquets et de colonies d’abeilles
 
 [^tit2-chap1-sec3-1]
 
@@ -1012,7 +1068,7 @@ Doit tenir un registre des effectifs:
 [^20-2]: Introduit par le ch. I de l’O du 14 janv. 2009, en vigueur depuis le 1<sup>er</sup> mars 2009 ([RO 2009 581](https://fedlex.data.admin.ch/eli/oc/2009/101)).
 [^20-3]: Introduit par le ch. I de l’O du 14 janv. 2009, en vigueur depuis le 1<sup>er</sup> mars 2009 ([RO 2009 581](https://fedlex.data.admin.ch/eli/oc/2009/101)).
 
-### Section 3*a* Exploitations aquacoles****
+### Section 3*a* Exploitations aquacoles
 
 [^tit2-chap1-sec3a-1]
 
@@ -1029,7 +1085,9 @@ Les cantons enregistrent toutes les exploitations aquacoles. Ils désignent à c
 - a. le nom et l’adresse du détenteur;
 - b. l’adresse du site et les coordonnées de l’exploitation;
 - c. le type de détention et la forme de production de l’exploitation;
-- d. les espèces animales détenues.
+- d.[^21-2] les espèces d’animaux aquatiques détenus dans l’exploitation;
+- e.[^21-3] la production annuelle par exploitation, en termes d’animaux et de produits qui en sont issus;
+- f.[^21-4] un descriptif de l’approvisionnement en eau et de l’élimination des eaux usées de l’exploitation.
 
 <sup>2</sup>
 
@@ -1040,15 +1098,27 @@ Ne sont pas soumis à l’enregistrement obligatoire:
 
 <sup>3</sup> Les cantons peuvent exiger l’enregistrement des installations détenant des animaux aquatiques à des fins ornementales visées à l’al. 2, let. a.
 
-<sup>4</sup> Tout détenteur qui ouvre une exploitation soumise à enregistrement, reprend l’exploitation d’un autre ou ferme une exploitation doit l’annoncer à l’autorité cantonale compétente dans un délai de dix jours ouvrables.
+<sup>4</sup>
+
+Tout détenteur doit annoncer dans les dix jours ouvrables à l’autorité cantonale compétente:
+
+- a. toute ouverture d’une exploitation soumise à enregistrement;
+- b. tout changement de détenteur d’animaux;
+- c. toute modification essentielle des données enregistrées conformément à l’al. 1;
+- d. toute fermeture de l’exploitation aquacole.[^21-5]
 
 <sup>5</sup> Le service cantonal attribue un numéro d’identification à chaque détenteur et à chaque exploitation. Il transmet le numéro d’identification et les données visées à l’al. 1, de même que les changements qu’elles subissent, à l’OFAG par voie électronique.
 
-<sup>6</sup> L’OSAV publie une liste des exploitations aquacoles avec mention de leur numéro d’identification et des indications visées à l’al. 1.
+<sup>6</sup> L’OSAV publie une liste des exploitations aquacoles avec leur numéro d’identification et les indications visées à l’al. 1, à l’exception de celles sur la production annuelle.[^21-6]
 
 <sup>7</sup> L’OFAG édicte en accord avec l’OSAV des dispositions techniques concernant les al. 1 et 5.
 
 [^21-1]: Nouvelle teneur selon le ch. I de l’O du 30 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
+[^21-2]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^21-3]: Introduite par le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^21-4]: Introduite par le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^21-5]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^21-6]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
 #### Art. 22
 
@@ -1056,20 +1126,43 @@ Ne sont pas soumis à l’enregistrement obligatoire:
 
 <sup>1</sup>
 
-Les exploitations aquacoles doivent tenir un registre de contrôle des effectifs. Ce registre doit mentionner:
+Les exploitations aquacoles doivent tenir un registre de contrôle des effectifs. Ce registre mentionne:
 
-- a. l’origine et la destination des lots d’animaux, d’œufs, et de semences entrants et sortants, en précisant la quantité et l’espèce animale ainsi que l’âge s’il y a lieu;
-- b. la mortalité.
+- a. les espèces d’animaux aquatiques détenus;
+- b. le nombre ou le poids total des animaux aquatiques par espèce,
+- c.
 
-<sup>2</sup> Le registre de contrôle des effectifs doit être présenté sur demande aux organes de la police des épizooties et de la surveillance de la pêche. Les relevés doivent être conservés trois ans après la dernière inscription.
+  pour les entrées et les sorties d’animaux aquatiques, d’œufs et de semences:
 
-<sup>3</sup> Si des animaux aquatiques vivants sont transportés dans une autre exploitation aquacole, le détenteur doit établir un document d’accompagnement et en conserver un double. Les art. 12 et 13 s’appliquent par analogie.
+  - 1\. le lieu ou les eaux de provenance ou de destination,
+  - 2\. l’espèce,
+  - 3\. le nombre ou le poids total,
+  - 4\. l’âge,
+  - 5\. la date d’entrée ou de sortie;
+
+- d.
+
+  pour les sorties de produits:
+
+  - 1\. le lieu de destination,
+  - 2\. l’espèce,
+  - 3\. le poids total,
+  - 4\. la date de sortie;
+
+- e. la mortalité dans chaque unité épidémiologique.[^22-2]
+
+<sup>2</sup> La documentation relative au contrôle des effectifs doit être conservée durant trois ans et présentée sur demande aux organes de la police des épizooties et à l’autorité de surveillance de la pêche.[^22-3]
+
+<sup>3</sup> Les relevés des résultats diagnostiques, des vaccinations et de l’utilisation de produits de désinfection à des fins thérapeutiques doivent être conservés durant trois ans et présentés sur demande aux organes de la police des épizooties.[^22-4]
 
 <sup>4</sup> Le détenteur qui effectue des transferts d’animaux aquatiques vivants vers une autre eau à des fins de repeuplement doit être en mesure d’attester à l’autorité cantonale les transferts qu’il effectue jusqu’à trois ans après le transfert.
 
 <sup>5</sup> Les exploitations aquacoles sont tenues d’appliquer de bonnes pratiques d’hygiène pour éviter l’introduction et la dissémination d’agents épizootiques. L’OSAV édicte des dispositions techniques à ce sujet.
 
 [^22-1]: Nouvelle teneur selon le ch. I de l’O du 30 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
+[^22-2]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^22-3]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^22-4]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
 #### Art. 23
 
@@ -1095,7 +1188,7 @@ Lors de l’examen, les points suivants sont contrôlés et documentés:
 
 - a. la situation sanitaire de l’exploitation;
 - b. les problèmes sanitaires apparus depuis le dernier examen, de même que les traitements et les contrôles de suivi consécutifs;
-- c. les indications qui sont apparues depuis le dernier examen, de même que les traitements administrés et les mesures prophylactiques prises depuis lors;
+- c.[^23-2] les mesures prophylactiques prises depuis le dernier examen ainsi que leurs indications;
 - d. le journal des traitements et l’entreposage des médicaments vétérinaires;
 - e. la biosécurité et les pratiques d’hygiène de l’exploitation.
 
@@ -1104,6 +1197,7 @@ Lors de l’examen, les points suivants sont contrôlés et documentés:
 <sup>4</sup> La documentation relative à la surveillance sanitaire doit être présentée sur demande aux organes de la police des épizooties. Les documents doivent être conservés pendant trois ans.
 
 [^23-1]: Nouvelle teneur selon le ch. I de l’O du 31 mars 2021, en vigueur depuis le 1<sup>er</sup> mai 2021 ([RO 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
+[^23-2]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
 ### Section 4 Transports d’animaux
 
@@ -1351,7 +1445,7 @@ Le vétérinaire cantonal organise une surveillance vétérinaire officielle des
 [^38-1]: [[RO 2005 5493](https://fedlex.data.admin.ch/eli/oc/2005/747); [2006 4807](https://fedlex.data.admin.ch/eli/oc/2006/738), [4809](https://fedlex.data.admin.ch/eli/oc/2006/739); [2007 561](https://fedlex.data.admin.ch/eli/oc/2007/113)annexe 2 ch. 2, [2711](https://fedlex.data.admin.ch/eli/oc/2007/358)ch. II 1; [2008 5169](https://fedlex.data.admin.ch/eli/oc/2008/723); [2011 2699](https://fedlex.data.admin.ch/eli/oc/2011/372)annexe 8 ch. II 2, [5453](https://fedlex.data.admin.ch/eli/oc/2011/775)annexe 2 ch. II 2, [5803](https://fedlex.data.admin.ch/eli/oc/2011/803)annexe 2 ch. II 4; [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)ch. I 8; [2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)annexe 3 ch. II 6, 5201 annexe ch. II 3. [RO 2017 411](https://fedlex.data.admin.ch/eli/oc/2017/66)art. 62 al. 1]. Voir actuellement l’O du 16 déc. 2016 ([RS 817.190](https://fedlex.data.admin.ch/eli/cc/2017/66)).
 [^38-2]: Nouvelle teneur selon l’annexe ch. II 3 de l’O du 23 nov. 2005 concernant l’abattage d’animaux et le contrôle des viandes, en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2005 5493](https://fedlex.data.admin.ch/eli/oc/2005/747)).
 
-### Section 9**** Taxe perçue à l’abattage
+### Section 9 Taxe perçue à l’abattage
 
 [^tit2-chap1-sec9-1]
 
@@ -1383,7 +1477,7 @@ Le vétérinaire cantonal organise une surveillance vétérinaire officielle des
 
 [^39-1]: Nouvelle teneur selon le ch. I de l’O du 19 août 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 4255](https://fedlex.data.admin.ch/eli/oc/2009/522)).
 
-### Section 2 Sous-produits animaux et sous-produits de la transformation du lait****
+### Section 2 Sous-produits animaux et sous-produits de la transformation du lait
 
 [^tit2-chap2-sec2-1]
 
@@ -1435,18 +1529,23 @@ Lors de l’apparition d’une épizootie pouvant se transmettre par le lait, le
 
 **Manipulation de microorganismes pathogènes pour l’animal**
 
-<sup>1</sup> La manipulation des agents d’épizooties hautement contagieuses qui sont capables de se multiplier ne peut être effectuée qu’à l’IVI.
+<sup>1</sup> Seul le laboratoire de référence compétent peut manipuler les agents d’épizooties hautement contagieuses qui sont capables de se multiplier.[^49-1]
 
-<sup>2</sup> Avec l’accord du service cantonal compétent, l’OSAV peut accorder certaines dérogations en fixant les mesures préventives nécessaires et les contrôles. Il prend sa décision dans les 90 jours.[^49-1]
+<sup>2</sup> Avec l’accord du service cantonal compétent, l’OSAV peut accorder certaines dérogations en fixant les mesures préventives nécessaires et les contrôles. Il prend sa décision dans les 90 jours.[^49-2]
 
-<sup>3</sup> Pour le reste, la manipulation de microorganismes pathogènes pour l’animal est régie par l’ordonnance du 9 mai 2012 sur l’utilisation confinée[^49-2] et l’ordonnance du 10 septembre 2008 sur la dissémination dans l’environnement[^49-3].[^49-4]
+<sup>3</sup> Pour le reste, la manipulation de microorganismes pathogènes pour l’animal est régie par l’ordonnance du 9 mai 2012 sur l’utilisation confinée[^49-3] et l’ordonnance du 10 septembre 2008 sur la dissémination dans l’environnement[^49-4].[^49-5]
 
-[^49-1]: Nouvelle teneur selon l’annexe 5 ch. 13 de l’O du 9 mai 2012 sur l’utilisation confinée, en vigueur depuis le 1<sup>er</sup> juin 2012 ([RO 2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329)).
-[^49-2]: [RS 814.912](https://fedlex.data.admin.ch/eli/cc/2012/329)
-[^49-3]: [RS 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
-[^49-4]: Nouvelle teneur selon l’annexe 5 ch. 13 de l’O du 9 mai 2012 sur l’utilisation confinée, en vigueur depuis le 1<sup>er</sup> juin 2012 ([RO 2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329)).
+[^49-1]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^49-2]: Nouvelle teneur selon l’annexe 5 ch. 13 de l’O du 9 mai 2012 sur l’utilisation confinée, en vigueur depuis le 1<sup>er</sup> juin 2012 ([RO 2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329)).
+[^49-3]: [RS 814.912](https://fedlex.data.admin.ch/eli/cc/2012/329)
+[^49-4]: [RS 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
+[^49-5]: Nouvelle teneur selon l’annexe 5 ch. 13 de l’O du 9 mai 2012 sur l’utilisation confinée, en vigueur depuis le 1<sup>er</sup> juin 2012 ([RO 2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329)).
 
-### Chapitre 3 Insémination artificielle et transfert d’embryons
+### Chapitre 3 Insémination artificielle, transfert d’ovules et d’embryons
+
+[^tit2-chap3-1]
+
+[^tit2-chap3-1]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
 ### Section 1 Dispositions communes
 
@@ -1472,22 +1571,34 @@ L’OSAV a les tâches suivantes:
 - b. il agrée les établissements de formation;
 - c. il délivre le certificat de capacité aux techniciens-inséminateurs;
 - d.[^51-2] …
-- e.[^51-3] il édicte des dispositions d’exécution de caractère technique sur les exigences de police des épizooties que doivent remplir aussi bien les unités d’élevage dans lesquelles sont détenus des animaux pour la récolte de semence (centres d’insémination artificielle) que les animaux dont la semence est récoltée et des dispositions d’exécution de caractère technique sur le contrôle de la récolte, de l’entreposage et de la mise en place de semence.
+- e.[^51-3] …
 
-<sup>2</sup> …[^51-4]
+<sup>2</sup>
+
+Il édicte des dispositions d’exécution de caractère technique sur:
+
+- a.
+
+  les exigences sanitaires que doivent remplir:
+
+  - 1\. les unités d’élevage dans lesquelles sont détenus des animaux pour la récolte de semence (centres d’insémination artificielle),
+  - 2\. les animaux détenus pour la récolte de semence,
+  - 3\. les laboratoires de tri et autres installations pour le traitement de semence;
+
+- b. le contrôle de la récolte, du traitement, du stockage, de la remise et de la mise en place de semence.[^51-4]
 
 <sup>3</sup>
 
 Le vétérinaire cantonal a les tâches suivantes:
 
-- a. il délivre les autorisations d’exploiter aux centres de stockage de semence et aux centres d’insémination ayant des activités commerciales transfrontalières;
-- b. il désigne, pour chaque centre de stockage de semence et pour chaque centre d’insémination ayant des activités commerciales transfrontalières, un vétérinaire officiel compétent chargé de la surveillance sur le plan de la police des épizooties.[^51-5]
+- a. il délivre les autorisations d’exploiter aux centres de stockage de semence, aux laboratoires de tri et aux autres installations de traitement de la semence ainsi qu’aux centres d’insémination, ayant tous des activités commerciales transfrontalières;
+- b. il désigne, pour les centres de stockage de semence, les laboratoires de tri et les autres installations de traitement de la semence ainsi que pour les centres d’insémination, ayant tous des activités commerciales transfrontalières, un vétérinaire officiel compétent pour la surveillance sur le plan sanitaire.[^51-5]
 
 [^51-1]: Nouvelle teneur selon le ch. I de l’O du 31 mars 2021, en vigueur depuis le 1<sup>er</sup> mai 2021 ([RO 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
 [^51-2]: Abrogée par le ch. I de l’O du 16 mai 2007, avec effet au 1<sup>er</sup> juil. 2007 ([RO 2007 2711](https://fedlex.data.admin.ch/eli/oc/2007/358)).
-[^51-3]: Nouvelle teneur selon le ch. I de l’O du 16 mai 2007, en vigueur depuis le 1<sup>er</sup> juil. 2007 ([RO 2007 2711](https://fedlex.data.admin.ch/eli/oc/2007/358)).
-[^51-4]: Abrogé par le ch. I de l’O du 31 mars 2021, avec effet au 1<sup>er</sup> mai 2021 ([RO 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
-[^51-5]: Nouvelle teneur selon le ch. I de l’O du 30 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
+[^51-3]: Abrogée par le ch. I de l’O du 31 août 2022, avec effet au 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^51-4]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^51-5]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
 #### Art. 51a
 
@@ -1525,80 +1636,92 @@ Dans les cas suivants, la semence destinée à l’insémination artificielle pe
 
 #### Art. 53
 
-**Pratique de l’insémination artificielle**
+**Pratique de l’insémination artificielle**[^53-1]
 
-Seuls sont autorisés à pratiquer l’insémination artificielle les vétérinaires ainsi que les titulaires d’une autorisation selon l’art. 51, al. 2.
+Seuls les vétérinaires et les titulaires de l’une des autorisations visées à l’art. 51*a*, al. 1 sont autorisés à pratiquer l’insémination artificielle.
+
+[^53-1]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
 #### Art. 54
 
-**Exigences auxquelles doivent satisfaire les centres d’insémination et les centres de stockage de semence**[^54-1]
+**Exigences auxquelles doivent satisfaire les centres d’insémination, les centres de stockage de semence, les laboratoires de tri et les autres installations de traitement de la semence**[^54-1]
 
-<sup>1</sup> Les centres d’insémination et les centres de stockage de semence doivent être situés et exploités de façon à éviter l’introduction de maladies transmissibles dans le centre d’insémination ou le centre de stockage et leur dissémination dans d’autres troupeaux par la semence. Ils sont placés sous la direction technique d’un vétérinaire.
+<sup>1</sup> Les centres d’insémination, les centres de stockage de semence, les laboratoires de tri et les autres installations de traitement de la semence doivent être situés et exploités de façon à éviter l’introduction de maladies transmissibles dans ces exploitations ou leur dissémination dans d’autres troupeaux par la semence. Ils sont placés sous la direction technique d’un vétérinaire.
 
 <sup>2</sup>
 
-La personne qui dirige une station d’insémination ou un centre de stockage doit notamment prendre les mesures suivantes:
+La personne qui dirige un centre d’insémination, un centre de stockage de semence, un laboratoire de tri ou une autre installation de traitement de la semence doit notamment respecter les prescriptions suivantes:
 
-- a. elle implante le centre de stockage de semence ou le centre d’insémination et d’éventuelles stations d’élevage, d’attente et de quarantaine en un endroit qui ne présente pas de risques d’épizooties, à l’écart d’autres unités d’élevage;
-- b. elle aménage les bâtiments et les locaux du centre de façon à écarter tout danger d’épizootie pour les animaux détenus et tout danger de contamination de la semence récoltée et stockée;
-- c. elle prend les dispositions nécessaires sur le plan de l’exploitation du centre pour empêcher la dissémination d’agents pathogènes;
+- a. elle implante le centre de stockage de semence, le centre d’insémination, le laboratoire de tri, ou toute autre installation de traitement de la semence ainsi que d’éventuelles stations d’élevage, d’attente ou de quarantaine en un endroit qui ne présente pas de risques d’épizooties et à l’écart d’autres unités d’élevage;
+- b. elle aménage les bâtiments et les locaux du centre de façon à écarter tout danger d’épizootie pour les animaux détenus et tout danger de contamination de la semence récoltée, traitée et stockée;
+- c. elle prend les dispositions nécessaires sur le plan de l’exploitation des installations pour empêcher la dissémination d’agents pathogènes;
 - d. elle veille à ce que les centres de stockage de semence ayant des activités commerciales transfrontalières ne stockent que de la semence provenant de centres de stockage ou de centres d’insémination autorisés selon l’art. 51, al. 3, let. a, ou agréés par l’Union européenne;
 - e. elle soumet les animaux à une quarantaine avant de les introduire dans le centre d’insémination;
 - f. elle examine les animaux avant leur introduction, puis périodiquement durant leur séjour dans le centre d’insémination.
 
-[^54-1]: Nouvelle teneur selon le ch. I de l’O du 30 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
+[^54-1]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
 #### Art. 55
 
-**Contrôle**
+**Obligation de consigner les informations[^55-1]**
 
-<sup>1</sup> Quiconque recueille, entrepose, remet ou met en place de la semence[^55-1] doit en tenir un registre.
+<sup>1</sup> Quiconque récolte, traite, stocke, remet ou met en place de la semence doit consigner les informations qui s’y rapportent.[^55-2]
 
 <sup>1bis</sup>
 
-Quiconque entrepose de la semence en dehors d’un centre d’insémination doit transmettre chaque année les documents d’enregistrement au vétérinaire cantonal. Ne sont pas soumis à cette obligation:
+Quiconque stocke de la semence en dehors d’un centre d’insémination doit transmettre chaque année les informations consignées au vétérinaire cantonal. Ne sont pas soumis à cette obligation:[^55-3]
 
 - a. les techniciens-inséminateurs et les vétérinaires qui se procurent de la semence exclusivement auprès d’un centre d’insémination suisse;
-- b. les détenteurs d’animaux titulaires d’une autorisation au sens de l’art. 51, al. 2, let. b;
-- c. les centres servant à l’entreposage temporaire de semence porcine.[^55-2]
+- b.[^55-4] les détenteurs d’animaux titulaires de l’autorisation visée à l’art. 51*a*, al. 1, let. b;
+- c. les centres servant à l’entreposage temporaire de semence porcine.[^55-5]
 
 <sup>2</sup> Les documents y relatifs doivent être conservés pendant trois ans et présentés aux organes de la police des épizooties sur demande.
 
-[^55-1]: Nouvelle expression selon le ch. I de l’O du 15 mars 1999, en vigueur depuis le 1<sup>er</sup> juil. 1999 ([RO 1999 1523](https://fedlex.data.admin.ch/eli/oc/1999/229)).
-[^55-2]: Introduit par le ch. I de l’O du 9 avr. 2003, en vigueur depuis le 1<sup>er</sup> mai 2003 ([RO 2003 956](https://fedlex.data.admin.ch/eli/oc/2003/172)).
+[^55-1]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^55-2]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^55-3]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^55-4]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^55-5]: Introduit par le ch. I de l’O du 9 avr. 2003, en vigueur depuis le 1<sup>er</sup> mai 2003 ([RO 2003 956](https://fedlex.data.admin.ch/eli/oc/2003/172)).
 
 #### Art. 55a
 
 **Régime de l’autorisation**[^55a-1]
 
-<sup>1</sup> L’exploitation d’un centre de stockage de semence ou d’un centre d’insémination ayant des activités commerciales transfrontalières est soumise à autorisation. L’autorisation est délivrée si le centre remplit les exigences visées à l’art. 54.
+<sup>1</sup> L’exploitation d’un centre d’insémination, d’un centre de stockage de semence, d’un laboratoire de tri ou d’une autre installation de traitement de la semence ayant des activités commerciales transfrontalières est soumise à autorisation. L’autorisation est délivrée si le centre ou le laboratoire remplit les exigences visées à l’art. 54.[^55a-2]
 
 <sup>2</sup> L’exploitation d’un centre de stockage par les personnes et établissements visés à l’art. 55, al. 1<sup>bis</sup>, let. a à c, n’est pas soumise à autorisation.
 
 [^55a-1]: Introduit par le ch. I de l’O du 30 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
+[^55a-2]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
-### Section 3 Transfert d’embryons
+### Section 3 Transfert d’ovules et d’embryons
+
+[^tit2-chap3-sec3-1]
+
+[^tit2-chap3-sec3-1]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
 #### Art. 56
 
-**Compétences**
+**Compétences**[^56-1]
 
 <sup>1</sup>
 
-L’OSAV édicte des dispositions d’exécution de caractère technique sur les exigences de police des épizooties auxquelles doivent satisfaire:
+L’OSAV édicte des dispositions d’exécution de caractère technique sur les exigences sanitaires auxquelles doivent satisfaire:
 
-- a. les locaux, les appareils et les installations mobiles qui servent au prélèvement, à la préparation, à l’entreposage, et au transfert d’embryons;
+- a. les installations et appareils fixes ou mobiles qui servent au prélèvement, à la préparation, au stockage et au transfert d’ovules et embryons;
 - b. les animaux donneurs et receveurs;
-- c. le prélèvement, la préparation, l’entreposage et le transfert d’embryons.
+- c. le prélèvement, la préparation, le stockage et le transfert d’ovules et d’embryons.
 
 <sup>2</sup>
 
 Le vétérinaire cantonal a les tâches suivantes:
 
-- a. il délivre les autorisations pour le commerce transfrontalier d’ovules ou d’embryons;
-- b. il peut, pour sauvegarder un patrimoine génétique de haute valeur, autoriser exceptionnellement le prélèvement et le transfert d’ovules et d’embryons d’animaux éventuellement porteurs d’une maladie transmissible; il fixe les conditions et mesures préventives sur le plan sanitaire.[^56-1]
+- a. il délivre les autorisations pour le commerce transfrontalier d’ovules et d’embryons;
+- b. il désigne un vétérinaire officiel chargé de surveiller le commerce visé à la let. a sur le plan sanitaire.
 
-[^56-1]: Nouvelle teneur selon le ch. I de l’O du 30 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
+<sup>3</sup> Il peut, pour sauvegarder un patrimoine génétique de haute valeur, autoriser exceptionnellement le prélèvement et le transfert d’ovules et d’embryons d’animaux susceptibles d’être porteurs d’une maladie transmissible. Il fixe les conditions et les mesures préventives sur le plan sanitaire.
+
+[^56-1]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
 #### Art. 57
 
@@ -1612,7 +1735,7 @@ Le vétérinaire cantonal a les tâches suivantes:
 
 #### Art. 58
 
-**Contrôle**
+**Obligation d’annoncer et de consigner les informations[^58-1]**
 
 <sup>1</sup> Si un vétérinaire veut exercer une activité ayant trait au transfert d’embryons, il doit en informer le vétérinaire cantonal compétent pour le lieu de stationnement des animaux.
 
@@ -1620,22 +1743,29 @@ Le vétérinaire cantonal a les tâches suivantes:
 
 Conformément aux dispositions de l’OSAV, le vétérinaire veille à l’exécution:
 
-- a. des mesures à prendre dans l’exploitation pour éviter la dissémination d’agents pathogènes lors du prélèvement, du traitement et de l’entreposage d’embryons;
+- a.[^58-2] des mesures à prendre dans l’exploitation pour éviter la dissémination d’agents pathogènes lors du prélèvement, de la préparation et du stockage d’embryons;
 - b. de l’examen préalable des animaux donneurs et receveurs concernés.
 
-<sup>3</sup> Il tient un registre des ovules et des embryons recueillis et transférés ainsi que des examens prescrits sur les animaux donneurs et receveurs.
+<sup>3</sup> Il consigne les informations concernant les ovules et les embryons recueillis et transférés, et les examens prescrits sur les animaux donneurs et receveurs.[^58-3]
 
-<sup>4</sup> Quiconque entrepose des ovules et des embryons doit en tenir un registre.
+<sup>4</sup> Quiconque stocke des ovules et des embryons doit consigner les informations qui s’y rapportent.[^58-4]
 
 <sup>5</sup> Les documents y relatifs doivent être conservés pendant trois ans et présentés aux organes de la police des épizooties sur demande.
 
+[^58-1]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^58-2]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^58-3]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^58-4]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+
 #### Art. 58a
 
-**Régime de l’autorisation**[^58a-1]
+**Régime de l’autorisation et exigences**[^58a-1]
 
-Le commerce transfrontalier d’ovules et d’embryons est soumis à autorisation. L’autorisation est délivrée si les exigences visées aux art. 57 et 58 sont remplies.
+<sup>1</sup> Les équipes de collecte ou de production d’embryons, de même que les établissements qui traitent ou stockent des ovules et des embryons sont soumis à autorisation s’ils ont des activités commerciales transfrontalières.
 
-[^58a-1]: Introduit par le ch. I de l’O du 30 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
+<sup>2</sup> L’autorisation est délivrée si les exigences visées aux art. 57 et 58 sont remplies.
+
+[^58a-1]: Introduit par le ch. I de l’O du 30 nov. 2012 ([RO 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)). Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
 ## Titre 3 Mesures de lutte
 
@@ -1773,7 +1903,9 @@ Dans les troupeaux mis sous séquestre conformément aux art. 69 à 71, il faut:
 - b. marquer tous les animaux à onglons réceptifs à l’épizootie;
 - c. isoler, dans la mesure du possible, les animaux suspects et contaminés.
 
-<sup>3</sup> Le vétérinaire cantonal peut, pour de justes motifs, ordonner des mesures supplémentaires ou, en prenant les précautions nécessaires, autoriser des allégements.
+<sup>3</sup> Le vétérinaire cantonal peut, pour de justes motifs, ordonner des mesures supplémentaires ou, s’il ordonne en même temps les mesures de sécurité qui s’imposent, accorder des allégements.[^66-1]
+
+[^66-1]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
 #### Art. 67
 
@@ -1869,12 +2001,13 @@ Les déplacements de personnes sont limités comme il suit:
 
 Le trafic des marchandises est limité comme il suit:
 
-- a. les denrées alimentaires d’origine animale, les fourrages, ainsi que les objets et d’autres produits agricoles pouvant être les vecteurs d’agents de l’épizootie ne peuvent être emmenés hors de l’exploitation. Le vétérinaire cantonal peut accorder des exceptions en prenant les mesures préventives nécessaires;
+- a.[^71-2] les denrées alimentaires d’origine animale, les aliments pour animaux et tout autre produit ou objet agricoles susceptibles de transmettre l’épizootie ne peuvent être emportés hors de l’exploitation. Le vétérinaire cantonal peut accorder des exceptions s’il ordonne en même temps les mesures de sécurité qui s’imposent;
 - b. des véhicules ne peuvent accéder à l’exploitation sous séquestre ou la quitter qu’avec l’autorisation du vétérinaire officiel. Avant de quitter l’exploitation, les véhicules doivent être désinfectés sous sa surveillance.
 
 <sup>5</sup> Du personnel de surveillance (fonctionnaires de police, militaires, etc.) peut être chargé de veiller à l’observation des dispositions prises par les autorités.
 
 [^71-1]: Nouvelle expression selon le ch. I de l’O du 23 nov. 2005, en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2005 5647](https://fedlex.data.admin.ch/eli/oc/2005/774)). Il a été tenu compte de cette mod. dans tout le texte.
+[^71-2]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
 #### Art. 72
 
@@ -1970,13 +2103,15 @@ Les caisses d’assurance du bétail ou d’autres institutions d’assurances p
 - b. pour les pertes d’animaux pour lesquels aucune indemnité n’est versée par la Confédération et les cantons conformément à l’art. 34, al. 2, LFE;
 - c. pour les pertes d’animaux dues à des épizooties pour lesquelles la présente ordonnance ne prévoit pas le droit à une indemnité.
 
-### Section 6**** Programme national de surveillance
+### Section 6 Programme national de surveillance
 
 [^tit3-chap1-sec6-1]
 
 [^tit3-chap1-sec6-1]: Introduite par le ch. I de l’O du 25 avr. 2018, en vigueur depuis le 1<sup>er</sup> juin 2018 ([RO 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)).
 
 #### Art. 76a
+
+**Objets et exigences[^76a-1]**
 
 <sup>1</sup> Le cheptel est surveillé au moyen d’un programme national de surveillance.
 
@@ -1994,6 +2129,20 @@ Après consultation des vétérinaires cantonaux, l’OSAV définit:
 <sup>3</sup> Il édicte des dispositions techniques sur le programme de surveillance.
 
 <sup>4</sup> Il ordonne, après concertation avec les vétérinaires cantonaux, les analyses supplémentaires à effectuer au cas où le programme de surveillance révélerait l’existence de troupeaux contaminés.
+
+[^76a-1]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+
+#### Art. 76b
+
+**Indemnisation**[^76b-1]
+
+<sup>1</sup> L’indemnité accordée à chacun des cantons pour l’exécution du programme national de surveillance prévu à l’art. 57*a* LFE est calculée en fonction de la taille du cheptel et du nombre d’exploitations concernées par le programme de surveillance.
+
+<sup>2</sup> L’OSAV confie l’indemnisation à une fiduciaire externe. Celle-ci paie les factures pour le prélèvement et l’analyse des échantillons prélevés de manière centralisée sur des troupeaux de plusieurs cantons. Le cas échéant, les montants encore dus sont également calculés selon la clé de répartition prévue à l’al. 1 et facturés à chacun des cantons concernés.
+
+<sup>3</sup> L’OSAV contrôle régulièrement les activités de la fiduciaire externe.
+
+[^76b-1]: Introduit par le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
 ### Chapitre 2 Épizooties hautement contagieuses
 
@@ -2023,11 +2172,18 @@ L’OSAV coordonne les mesures de lutte contre les épizooties hautement contagi
 
 #### Art. 80
 
-**Diagnostic**
+**Diagnostic**[^80-1]
 
-<sup>1</sup> L’IVI est le laboratoire national de référence et d’examens pour le diagnostic des épizooties hautement contagieuses.
+<sup>1</sup>
 
-<sup>2</sup> Il est autorisé à faire procéder à des examens dans d’autres laboratoires.
+Pour les épizooties hautement contagieuses, excepté les épizooties touchant les animaux aquatiques, les laboratoires nationaux de référence et d’analyse de diagnostic sont:
+
+- a. l’IVI pour les épizooties d’origine virale;
+- b. le Centre des zoonoses, des maladies animales d’origine bactérienne et de l’antibiorésistance pour les épizooties d’origine bactérienne.
+
+<sup>2</sup> Ils sont autorisés à confier des analyses à d’autres laboratoires.
+
+[^80-1]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
 #### Art. 81
 
@@ -2057,33 +2213,50 @@ Les vétérinaires et les laboratoires qui suspectent ou constatent la présence
 
 <sup>2</sup>
 
-Il ordonne les mesures suivantes:
+Il ordonne en outre les mesures suivantes:[^84-3]
 
-- a. le séquestre simple de second degré sur le troupeau[^84-3];
+- a.[^84-4] le séquestre renforcé sur le troupeau;
 - b. la pose des affiches jaunes (art. 87, al. 3, let. a);
-- c. les examens complémentaires pour élucider le cas en accord avec l’IVI.
+- c.[^84-5] les examens complémentaires pour élucider le cas de suspicion, d’entente avec le laboratoire national de référence compétent.
 
 [^84-1]: Nouvelle expression selon le ch. I de l’O du 25 avr. 2018, en vigueur depuis le 1<sup>er</sup> juin 2018 ([RO 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)).
 [^84-2]: Nouvelle teneur selon l’annexe 3 ch. II 8 de l’O du 6 juin 2014 concernant les systèmes d’information du service vétérinaire public, en vigueur depuis le 1<sup>er</sup> juil. 2014 ([RO 2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)).
-[^84-3]: Nouveau terme selon le ch. I de l’O du 15 mars 1999, en vigueur depuis le 1<sup>er</sup> juil. 1999 ([RO 1999 1523](https://fedlex.data.admin.ch/eli/oc/1999/229)). Il a été tenu compte de cette mod. dans tout le texte.
+[^84-3]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^84-4]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^84-5]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
 #### Art. 85
 
 **Mesures en cas d’épizootie**
 
-<sup>1</sup> En cas d’épizootie, le vétérinaire cantonal ordonne le séquestre simple de second degré sur le troupeau contaminé.
+<sup>1</sup> En cas d’épizootie, le vétérinaire cantonal ordonne le séquestre renforcé sur le troupeau contaminé.[^85-1]
 
 <sup>2</sup>
 
 Il ordonne en outre les mesures suivantes:
 
 - a. la pose des affiches jaunes (art. 87, al. 3, let. a);
-- b. la mise à mort immédiate, sur place et sous la surveillance du vétérinaire officiel, de tous les animaux du troupeau réceptifs à l’épizootie;
+- b. la mise à mort immédiate, sur place et sous la surveillance du vétérinaire officiel, de tous les animaux du troupeau[^85-2] réceptifs à l’épizootie;
 - c. l’élimination sous la surveillance du vétérinaire officiel de tous les animaux tués ou péris;
 - d. l’enfermement ou la mise à mort des petits animaux domestiques tels que chiens, chats, volaille et lapins, s’il faut admettre qu’ils peuvent propager l’épizootie;
 - e. la désinfection préalable, le nettoyage, la désinfection et la désinfestation.
 
+<sup>2bis</sup> En dérogation à l’al. 2, let. b, il peut permettre l’abattage des animaux aquatiques s’il ordonne en même temps les mesures de sécurité qui s’imposent.[^85-3]
+
+<sup>2ter</sup>
+
+En dérogation à l’al. 2, let. b, mais d’entente avec l’OSAV et pour autant que les mesures prises empêcheront vraisemblablement la propagation de l’épizootie à d’autres animaux, le vétérinaire cantonal peut épargner les animaux:
+
+- a. appartenant à des espèces rares ou protégées;
+- b. détenus à des fins scientifiques;
+- c. ayant une valeur génétique particulière.[^85-4]
+
 <sup>3</sup> D’entente avec l’OSAV, le vétérinaire cantonal étend les mesures visées aux al. 1 et 2 aux troupeaux exposés à une contagion directe en raison de leur situation.
+
+[^85-1]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^85-2]: Nouveau terme selon le ch. I de l’O du 15 mars 1999, en vigueur depuis le 1<sup>er</sup> juil. 1999 ([RO 1999 1523](https://fedlex.data.admin.ch/eli/oc/1999/229)). Il a été tenu compte de cette mod. dans tout le texte.
+[^85-3]: Introduit par le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^85-4]: Introduit par le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
 #### Art. 86
 
@@ -2093,9 +2266,12 @@ Il ordonne en outre les mesures suivantes:
 
 <sup>2</sup> Il recherche les animaux exposés à la contagion et applique aux troupeaux dont font partie de tels animaux les mesures prévues à l’art. 84.[^86-1]
 
+<sup>2bis</sup> En l’absence de symptômes cliniques observables, le séquestre renforcé prévu à l’art. 84, al. 2, let. a, peut être transformé après cinq jours en un séquestre simple de second degré.[^86-2]
+
 <sup>3</sup> Les vétérinaires cantonaux et l’OSAV s’informent mutuellement au fur et à mesure des enquêtes effectuées et des mesures prises.
 
 [^86-1]: Nouvelle teneur selon le ch. I de l’O du 15 mars 1999, en vigueur depuis le 1<sup>er</sup> juil. 1999 ([RO 1999 1523](https://fedlex.data.admin.ch/eli/oc/1999/229)).
+[^86-2]: Introduit par le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
 #### Art. 87
 
@@ -2125,6 +2301,18 @@ Les formules suivantes, établies selon le modèle de l’OSAV, doivent être ut
 [^88-1]: Nouvelle teneur selon le ch. I de l’O du 30 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
 [^88-2]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2005, en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2005 5647](https://fedlex.data.admin.ch/eli/oc/2005/774)).
 
+#### Art. 88a
+
+**Zones intermédiaires**[^88a-1]
+
+<sup>1</sup> Le vétérinaire cantonal peut ordonner la mise en place d’une ou plusieurs zones intermédiaires autour de la zone de surveillance si cela est nécessaire pour éviter que l’épizootie ne se propage davantage ou pour satisfaire à des exigences internationales relatives au commerce d’animaux et aux produits animaux.
+
+<sup>2</sup> L’OSAV délimite les zones intermédiaires après avoir consulté le vétérinaire cantonal. Il configure ces zones en fonction du risque de propagation de l’épizootie par voie naturelle ou du fait d’activités humaines.
+
+<sup>3</sup> Les mesures applicables dans les zones intermédiaires sont au maximum celles qui sont ordonnées dans la zone de surveillance. Le vétérinaire cantonal peut accorder des exceptions s’il ordonne en même temps les mesures de sécurité qui s’imposent.
+
+[^88a-1]: Introduit par le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+
 #### Art. 89
 
 **Mesures dans les zones de protection et de surveillance**
@@ -2133,13 +2321,15 @@ Les formules suivantes, établies selon le modèle de l’OSAV, doivent être ut
 
 Le vétérinaire cantonal veille:
 
-- a. à l’application immédiate des mesures visant le trafic des animaux et le déplacement des personnes (art. 90 à 93);
+- a.[^89-1] à l’application immédiate des mesures visant le trafic des animaux et des marchandises, et le déplacement des personnes (art. 90 à 93);
 - b. à la pose des affiches rouges (art. 87, al. 3, let. b);
 - c. au prélèvement d’échantillons et à l’examen par un vétérinaire des troupeaux comprenant des animaux des espèces réceptives à l’épizootie;
 - d. à la tenue du contrôle d’effectif par le détenteur d’animaux, et
 - e. au nettoyage et à la désinfection des véhicules servant au transport d’animaux.
 
 <sup>2</sup> L’OSAV édicte des dispositions d’exécution de caractère technique sur la nature et la portée des examens vétérinaires ainsi que la tenue des contrôles d’effectif.
+
+[^89-1]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
 #### Art. 90
 
@@ -2154,6 +2344,12 @@ Le vétérinaire cantonal veille:
 <sup>4</sup> Le déplacement d’animaux non réceptifs à l’épizootie se trouvant dans la zone de protection nécessite une autorisation du vétérinaire officiel.
 
 <sup>5</sup> Le détenteur d’animaux informe le vétérinaire officiel lorsque des animaux ont péri ou ont été tués dans son troupeau. Le vétérinaire officiel décide si les cadavres doivent être examinés. Au cas où les cadavres doivent être éliminés ou examinés en dehors de la zone de protection, il ordonne les mesures préventives.
+
+**Art. 90***a*[^90-1] Trafic des marchandises dans la zone de protection
+
+Les denrées alimentaires d’origine animale produites dans la zone de protection, ainsi que d’autres produits ou objets agricoles susceptibles de transmettre l’épizootie ne peuvent être emportés hors de la zone. Le vétérinaire cantonal peut accorder des exceptions s’il ordonne en même temps les mesures de sécurité qui s’imposent.
+
+[^90-1]: Introduit par le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
 #### Art. 91
 
@@ -2177,16 +2373,17 @@ Le vétérinaire cantonal veille:
 
 Les animaux des espèces réceptives à l’épizootie ne peuvent quitter la zone de surveillance. Le vétérinaire officiel peut exceptionnellement autoriser:
 
-- a. le transport d’animaux péris ou tués à des fins d’examens à l’IVI ou en vue de leur élimination;
+- a.[^92-1] le transport d’animaux péris ou mis à mort à des fins d’examens vers le laboratoire national de référence compétent ou en vue de leur élimination;
 - b. le transport direct à l’abattoir, pour autant qu’aucun cas d’épizootie ne se soit déclaré durant les 15 derniers jours à compter du moment où la zone de surveillance a été établie.
 
 <sup>3</sup> Dans tous les cas, des animaux ne peuvent quitter le troupeau qu’après examen par le vétérinaire officiel de tous les animaux des espèces réceptives du troupeau.
 
 <sup>4</sup> Les marchés de bétail, les expositions de bétail et les manifestations semblables avec des animaux des espèces réceptives ainsi que la transhumance de troupeaux de moutons sont interdits. L’OSAV peut étendre l’interdiction à de plus grandes régions ou à tout le territoire national.
 
-<sup>5</sup> et <sup>6</sup> …[^92-1]
+<sup>5</sup> et <sup>6</sup> …[^92-2]
 
-[^92-1]: Abrogés par le ch. I de l’O du 15 mars 1999, avec effet au 1<sup>er</sup> juil. 1999 ([RO 1999 1523](https://fedlex.data.admin.ch/eli/oc/1999/229)).
+[^92-1]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^92-2]: Abrogés par le ch. I de l’O du 15 mars 1999, avec effet au 1<sup>er</sup> juil. 1999 ([RO 1999 1523](https://fedlex.data.admin.ch/eli/oc/1999/229)).
 
 #### Art. 93
 
@@ -2199,13 +2396,13 @@ L’abattage d’animaux provenant des zones de protection et de surveillance es
 - a. le vétérinaire officiel annonce au vétérinaire officiel de l’abattoir l’arrivée prochaine des animaux provenant de la zone de protection;
 - b. lors du contrôle des animaux avant et après l’abattage, le vétérinaire officiel voue une attention particulière à la présence éventuelle de symptômes de l’épizootie.
 
-<sup>2</sup> Les animaux contaminés ne peuvent pas être abattus. Les animaux suspects ne peuvent être abattus qu’avec l’autorisation du vétérinaire cantonal et si des mesures de sécurité sont prises. Les carcasses et les produits de l’abattage doivent être séquestrés jusqu’à connaissance du résultat négatif des analyses.[^93-1]
+<sup>2</sup> Les animaux contaminés ne peuvent pas être abattus. Les animaux suspects ne peuvent être abattus qu’avec l’autorisation du vétérinaire cantonal et si celui-ci ordonne en même temps les mesures de sécurité qui s’imposent. Les carcasses et les produits de l’abattage doivent être séquestrés jusqu’à connaissance du résultat négatif des analyses.[^93-1]
 
 <sup>3</sup> Si une épizootie hautement contagieuse est suspectée ou constatée à l’abattoir, celui-ci doit être immédiatement fermé à tout trafic d’animaux et de marchandises et au déplacement des personnes jusqu’à nouvel ordre du vétérinaire cantonal.
 
 <sup>4</sup> L’OSAV édicte des dispositions techniques relatives à la planification d’urgence et aux mesures à prendre lorsqu’un abattoir est touché par une épizootie hautement contagieuse.[^93-2]
 
-[^93-1]: Nouvelle teneur selon le ch. I de l’O du 30 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
+[^93-1]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 [^93-2]: Introduit par le ch. I de l’O du 30 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
 
 #### Art. 94
@@ -2220,7 +2417,17 @@ L’abattage d’animaux provenant des zones de protection et de surveillance es
 
 <sup>4</sup> Les mesures d’interdiction prises dans la zone de protection peuvent être levées au plus tôt après écoulement de la période d’incubation comptée à partir du moment où tous les animaux des espèces réceptives à l’épizootie du dernier troupeau contaminé ont été éliminés. La levée des mesures d’interdiction est subordonnée à un résultat négatif de l’examen des troupeaux selon l’art. 89, al. 1, let. c. Après la levée de la zone de protection, les mesures de la zone de surveillance sont applicables.
 
-<sup>5</sup> Les mesures dans la zone de surveillance peuvent être levées au plus tôt à partir du moment où celles de la zone de protection peuvent être levées.
+<sup>5</sup> Les mesures dans la zone de surveillance et dans les zones intermédiaires peuvent être levées au plus tôt à partir du moment où celles qui ont été mises en place dans la zone de protection concernée peuvent être levées également.[^94-1]
+
+[^94-1]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+
+#### Art. 94a
+
+**Repeuplement**[^94a-1]
+
+Après le repeuplement, l’exploitation est placée sous surveillance officielle pendant 30 jours. Suite à cette période, un examen clinique et des prélèvements sont effectués sur un échantillon représentatif des animaux selon les modalités définies par le laboratoire national de référence compétent.
+
+[^94a-1]: Introduit par le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
 #### Art. 95
 
@@ -2274,29 +2481,17 @@ En situation de crise, le DFI peut ordonner:
 
 **Généralités**
 
-<sup>1</sup> Sont réceptifs à la fièvre aphteuse tous les artiodactyles.[^99-1]
+<sup>1</sup> Sont réceptifs à la fièvre aphteuse tous les artiodactyles et les proboscidiens.[^99-1]
 
 <sup>2</sup> La période d’incubation est de 21 jours.
 
-[^99-1]: Nouvelle teneur selon le ch. I de l’O du 28 oct. 2015, en vigueur depuis le 1<sup>er</sup> déc. 2015 ([RO 2015 4255](https://fedlex.data.admin.ch/eli/oc/2015/716)).
+[^99-1]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
 #### Art. 100
 
-**Mesures d’interdiction**[^100-1]
+[^100-1]
 
-<sup>1</sup> En dérogation aux art. 84 et 85, le vétérinaire cantonal ordonne le séquestre renforcé (art. 71) sur les troupeaux suspects, exposés à la contagion ou contaminés.
-
-<sup>2</sup>
-
-Sont considérés comme exposés à la contagion notamment:
-
-- a. les troupeaux qui comprennent des animaux ayant été directement en contact avec des animaux sensibles d’un troupeau contaminé durant la période d’incubation;
-- b. les troupeaux où des animaux ont été alimentés avec des sous-produits de la transformation du lait présumés contaminés;
-- c. les troupeaux pris en charge par des personnes ayant travaillé dans des troupeaux contaminés durant la période d’incubation.
-
-<sup>3</sup> Le séquestre renforcé sur les troupeaux exposés à la contagion peut être transformé après cinq jours en un séquestre simple de second degré si aucun symptôme clinique n’est constaté.
-
-[^100-1]: Nouvelle teneur selon le ch. I de l’O du 30 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
+[^100-1]: Abrogé par le ch. I de l’O du 31 août 2022, avec effet au 1<sup>er</sup> nov. 2022 ([RO 2022 478](https://fedlex.data.admin.ch/eli/oc/2022/478)).
 
 #### Art. 101
 
@@ -2304,31 +2499,32 @@ Sont considérés comme exposés à la contagion notamment:
 
 <sup>1</sup>
 
-Le vétérinaire cantonal peut, lorsque les conditions de sécurité sont réunies et sous la surveillance de la police des épizooties, autoriser la livraison du lait issu de troupeaux mis sous séquestre, si ce lait est acheminé par voie directe:
+S’il prend les mesures de sécurité qui s’imposent, le vétérinaire cantonal peut autoriser la livraison du lait issu de troupeaux mis sous séquestre, pour autant qu’un organe de la police des épizooties surveille la livraison et que le lait soit acheminé par voie directe:[^101-1]
 
-- a.[^101-1] vers un centre de collecte où, avant d’être transformé ou cédé, il est pasteurisé conformément aux dispositions édictées par le DFI sur la base de l’art. 10, al. 4, ODAlOUs[^101-2];
-- b. vers une installation où il est éliminé comme un sous-produit de catégorie 2 au sens de l’art. 6 OESPA[^101-3].[^101-4]
+- a.[^101-2] vers un centre de collecte où, avant d’être transformé ou cédé, il est pasteurisé conformément aux dispositions édictées par le DFI sur la base de l’art. 10, al. 4, ODAlOUs[^101-3];
+- b. vers une installation où il est éliminé comme un sous-produit de catégorie 2 au sens de l’art. 6 OESPA[^101-4].[^101-5]
 
 <sup>2</sup>
 
 Le vétérinaire cantonal veille:
 
 - a. au nettoyage et à la désinfection immédiats des locaux et des installations des centres collecteurs où des livraisons de lait ont été effectuées entre le moment présumé de la contamination du troupeau et le moment où les mesures d’interdiction ont été ordonnées;
-- b. à l’élimination comme sous-produits animaux de catégorie 2 au sens de l’art. 6 OESPA[^101-5] [^101-6] des produits laitiers fabriqués avec du lait contaminé ou à une valorisation de ces produits qui permette d’empêcher une propagation de l’épizootie;
+- b. à l’élimination comme sous-produits animaux de catégorie 2 au sens de l’art. 6 OESPA[^101-6] [^101-7] des produits laitiers fabriqués avec du lait contaminé ou à une valorisation de ces produits qui permette d’empêcher une propagation de l’épizootie;
 - c. à ce que la viande d’animaux à onglons provenant de troupeaux contaminés, abattus entre le moment présumé de la contamination et le moment où les mesures d’interdiction ont été ordonnées, soit dans la mesure du possible retrouvée et éliminée comme sous-produits animaux de catégorie 2 au sens de l’art. 6 OESPA.
 
-<sup>2bis</sup> Il informe le chimiste cantonal des mesures ordonnées visées aux al. 1, let. a, et 2, let. b et c.[^101-7]
+<sup>2bis</sup> Il informe le chimiste cantonal des mesures ordonnées visées aux al. 1, let. a, et 2, let. b et c.[^101-8]
 
-<sup>3</sup> L’OSAV édicte des dispositions techniques relatives à la livraison du lait issu des troupeaux mis sous séquestre.[^101-8]
+<sup>3</sup> L’OSAV édicte des dispositions techniques relatives à la livraison du lait issu des troupeaux mis sous séquestre.[^101-9]
 
-[^101-1]: Nouvelle teneur selon le ch. I de l’O du 25 avr. 2018, en vigueur depuis le 1<sup>er</sup> juin 2018 ([RO 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)).
-[^101-2]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
-[^101-3]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
-[^101-4]: Nouvelle teneur selon le ch. I de l’O du 30 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
-[^101-5]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
-[^101-6]: Nouvelle expression selon l’annexe 8 ch. II 4 de l’O du 25 mai 2011 concernant l’élimination des sous-produits animaux, en vigueur depuis le 1<sup>er</sup> juil. 2011 ([RO 2011 2699](https://fedlex.data.admin.ch/eli/oc/2011/372)). Il a été tenu compte de cettte mod. dans tout le texte.
-[^101-7]: Introduit par le ch. I de l’O du 25 avr. 2018, en vigueur depuis le 1<sup>er</sup> juin 2018 ([RO 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)).
-[^101-8]: Introduit par le ch. I de l’O du 30 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
+[^101-1]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^101-2]: Nouvelle teneur selon le ch. I de l’O du 25 avr. 2018, en vigueur depuis le 1<sup>er</sup> juin 2018 ([RO 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)).
+[^101-3]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^101-4]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^101-5]: Nouvelle teneur selon le ch. I de l’O du 30 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
+[^101-6]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^101-7]: Nouvelle expression selon l’annexe 8 ch. II 4 de l’O du 25 mai 2011 concernant l’élimination des sous-produits animaux, en vigueur depuis le 1<sup>er</sup> juil. 2011 ([RO 2011 2699](https://fedlex.data.admin.ch/eli/oc/2011/372)). Il a été tenu compte de cettte mod. dans tout le texte.
+[^101-8]: Introduit par le ch. I de l’O du 25 avr. 2018, en vigueur depuis le 1<sup>er</sup> juin 2018 ([RO 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)).
+[^101-9]: Introduit par le ch. I de l’O du 30 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
 
 #### Art. 102
 
@@ -2378,13 +2574,65 @@ Le vétérinaire cantonal peut ordonner les mesures suivantes dans les zones de 
 
 [^103-1]: Nouvelle teneur selon le ch. I de l’O du 30 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
 
-### Section 3 …
+### Section 3 Pleuropneumonie contagieuse caprine
 
-#### Art. 104 et 105
+[^tit3-chap2-sec3-1]
 
-[^104105-1]
+[^tit3-chap2-sec3-1]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
-[^104105-1]: Abrogés par le ch. I de l’O du 31 mars 2021, avec effet au 1<sup>er</sup> mai 2021 ([RO 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
+#### Art. 104
+
+<sup>1</sup> Sont réceptifs à la pleuropneumonie contagieuse caprine les moutons, les chèvres et les gazelles.
+
+<sup>2</sup> La période d’incubation est de 45 jours.
+
+<sup>3</sup> En dérogation à l’art. 88, al. 2, la zone de protection ne comprend que le troupeau contaminé et la zone de surveillance comprend un territoire d’un rayon de 3 km autour du troupeau contaminé.
+
+### Section 3*a* Morve
+
+[^tit3-chap2-sec3a-1]
+
+[^tit3-chap2-sec3a-1]: Introduite par le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+
+#### Art. 105
+
+**Champ d’application et diagnostic**[^105-1]
+
+<sup>1</sup> Les dispositions de la présente section s’appliquent à la lutte contre la morve chez les chevaux, les ânes et les zèbres, ainsi que chez les animaux issus de leurs croisements.
+
+<sup>2</sup> L’OSAV détermine les méthodes de mise en évidence de la morve. Il tient compte des méthodes d’analyses reconnues par l’Organisation mondiale de la santé animale.
+
+<sup>3</sup> La période d’incubation est de 180 jours.
+
+[^105-1]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+
+#### Art. 105a
+
+**Obligation d’annoncer**[^105a-1]
+
+Le vétérinaire cantonal annonce tous les foyers de morve au médecin cantonal.
+
+[^105a-1]: Introduit par le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+
+#### Art. 105b
+
+**Cas de suspicion et cas d’épizootie**[^105b-1]
+
+<sup>1</sup> En cas de suspicion de morve, le vétérinaire cantonal ordonne en dérogation à l’art. 84 l’application du séquestre simple de premier degré sur le troupeau suspect ou exposé à la contagion jusqu’à ce que la suspicion soit infirmée.
+
+<sup>2</sup>
+
+En cas d’épizootie, le vétérinaire cantonal ordonne seulement:
+
+- a. le séquestre simple de premier degré sur le troupeau contaminé;
+- b. l’enquête épidémiologique;
+- c. la mise à mort et l’élimination des animaux contaminés;
+- d. l’examen des animaux du troupeau sous séquestre destinés à l’abattage;
+- e. le nettoyage et la désinfection des écuries.
+
+<sup>3</sup> Le séquestre est levé lorsque l’examen des animaux restants a apporté la preuve qu’ils sont indemnes des agents de l’épizootie.
+
+[^105b-1]: Introduit par le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
 ### Section 4 Péripneumonie contagieuse bovine
 
@@ -2392,17 +2640,22 @@ Le vétérinaire cantonal peut ordonner les mesures suivantes dans les zones de 
 
 **Généralités**
 
-<sup>1</sup> Sont réceptifs à la péripneumonie contagieuse bovine tous les animaux de l’espèce bovine.
+<sup>1</sup> Sont réceptifs à la péripneumonie contagieuse bovine tous les animaux de l’espèce bovine, les buffles et les bisons.[^106-1]
 
-<sup>2</sup> La période d’incubation est de 180 jours.
+<sup>2</sup> La période d’incubation est de 45 jours.[^106-2]
 
 <sup>3</sup> Le constat de la péripneumonie contagieuse bovine est établi par la mise en évidence de *Mycoplasma mycoides subsp. mycoides SC.*
 
+[^106-1]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^106-2]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+
 #### Art. 107
 
-**Zone de surveillance**
+**Zone de surveillance**[^107-1]
 
-Il n’est pas établi de zones de surveillance.
+Le vétérinaire cantonal délimite une zone de surveillance d’un rayon de 3 km autour du troupeau contaminé.
+
+[^107-1]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
 #### Art. 108
 
@@ -2440,7 +2693,7 @@ Il n’est pas établi de zones de surveillance.
 
 Lors du constat de péripneumonie contagieuse bovine, l’OSAV ordonne le prélèvement et l’examen d’un échantillonnage représentatif pour évaluer la situation de l’épizootie au niveau suisse.
 
-### Section 4*a***** Dermatose nodulaire contagieuse (*lumpy skin disease*)****
+### Section 4*a* Dermatose nodulaire contagieuse (*lumpy skin disease*)
 
 [^tit3-chap2-sec4a-1][^tit3-chap2-sec4a-2]
 
@@ -2451,13 +2704,14 @@ Lors du constat de péripneumonie contagieuse bovine, l’OSAV ordonne le prél�
 
 **Généralités**[^111a-1]
 
-<sup>1</sup> Sont réputés sensibles à la dermatose nodulaire contagieuse tous les animaux de l’espèce bovine.
+<sup>1</sup> Sont réceptifs à la dermatose nodulaire contagieuse *(Dermatis nodularis)* tous les animaux de l’espèce bovine, les buffles et les bisons.[^111a-2]
 
 <sup>2</sup> Le diagnostic de dermatose nodulaire contagieuse est établi si le virus responsable de la maladie a été mis en évidence dans un troupeau sensible chez un animal au moins.
 
 <sup>3</sup> La période d’incubation est de 28 jours.
 
 [^111a-1]: Nouvelle teneur selon le ch. I de l’O du 25 avr. 2018, en vigueur depuis le 1<sup>er</sup> juin 2018 ([RO 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)).
+[^111a-2]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
 #### Art. 111b
 
@@ -2502,9 +2756,12 @@ En cas de foyer ou de menace de dermatose nodulaire contagieuse, l’OSAV peut, 
 
 <sup>1</sup> En cas de constat de dermatose nodulaire contagieuse, le vétérinaire cantonal peut, par dérogation à l’art. 85, al. 2, let. b, ordonner que dans les troupeaux vaccinés conformément à l’art. 111*c*, seuls les animaux infectés soient mis à mort.
 
+<sup>1bis</sup> En dérogation à l’art. 88, al. 2, la zone de protection et la zone de surveillance comprennent un territoire d’un rayon, respectivement, de 20 km et de 50 km autour du troupeau contaminé.[^111e-2]
+
 <sup>2</sup> L’OSAV peut ordonner de ne pas mettre à mort ni d’éliminer les animaux des troupeaux contaminés, si cette mesure ne permet pas d’empêcher la propagation de la dermatose nodulaire contagieuse.
 
 [^111e-1]: Nouvelle teneur selon le ch. I de l’O du 25 avr. 2018, en vigueur depuis le 1<sup>er</sup> juin 2018 ([RO 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)).
+[^111e-2]: Introduit par le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
 #### Art. 111f et 111g
 
@@ -2512,7 +2769,7 @@ En cas de foyer ou de menace de dermatose nodulaire contagieuse, l’OSAV peut, 
 
 [^111f111g-1]: Abrogés par le ch. I de l’O du 14 mai 2008, avec effet au 1<sup>er</sup> juin 2008 ([RO 2008 2275](https://fedlex.data.admin.ch/eli/oc/2008/329)).
 
-### Section 5**** Peste équine
+### Section 5 Peste équine
 
 [^tit3-chap2-sec5-1]
 
@@ -2526,7 +2783,9 @@ En cas de foyer ou de menace de dermatose nodulaire contagieuse, l’OSAV peut, 
 
 <sup>2</sup> Le diagnostic de peste équine est établi si, dans un troupeau d’animaux réceptifs, le virus de la peste équine a été mis en évidence chez un animal au moins.
 
-<sup>3</sup> La période d’incubation est de 40 jours.
+<sup>3</sup> La période d’incubation est de 14 jours.[^112-1]
+
+[^112-1]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
 #### Art. 112a
 
@@ -2589,11 +2848,14 @@ Il lève les mesures d’interdiction si tous les animaux réceptifs du troupeau
 
 **Zone délimitée pour cause de peste équine**
 
-<sup>1</sup> La zone délimitée pour cause de peste équine est un territoire d’un rayon d’environ 100 km autour des troupeaux contaminés. Lors de la délimitation de la zone, il faut tenir compte des données géographiques, des possibilités de contrôle et des connaissances épidémiologiques.
+<sup>1</sup> En dérogation à l’art. 88, al. 2, la zone de protection et la zone de surveillance comprennent un territoire d’un rayon, respectivement, de 100 km et de 150 km autour du troupeau contaminé.[^112d-1]
 
-<sup>2</sup> L’OSAV entend les cantons avant de fixer l’étendue de la zone à délimiter pour cause de peste équine. Il lève la délimitation de la zone après avoir entendu les cantons si le virus de la peste équine n’a plus été décelé chez des animaux réceptifs depuis un an au moins.
+<sup>2</sup> Après avoir consulté les cantons, l’OSAV lève les zones de protection et de surveillance si le virus de la peste équine n’a plus été décelé chez des animaux réceptifs depuis un an au moins.[^112d-2]
 
 <sup>3</sup> L’OSAV détermine à quelles conditions les animaux réceptifs, de même que leur sperme, ovules et embryons, peuvent être transportés hors de la zone délimitée pour cause de peste équine.
+
+[^112d-1]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^112d-2]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
 #### Art. 112e
 
@@ -2628,13 +2890,19 @@ Abrogés
 
 **Généralités**
 
-<sup>1</sup> Sont réceptifs à la peste porcine classique et à la peste porcine africaine tous les animaux de l’espèce porcine, y compris les sangliers.
+<sup>1</sup>
 
-<sup>2</sup> La période d’incubation est de 15 jours.[^116-1]
+Sont réceptifs à la peste porcine les animaux des espèces animales suivantes:
+
+- a. peste porcine africaine: toutes les espèces porcines, y compris les sangliers;
+- b. peste porcine classique: toutes les espèces porcines, y compris les sangliers et les pécaris.[^116-1]
+
+<sup>2</sup> La période d’incubation est de 15 jours.[^116-2]
 
 <sup>3</sup> Les art. 117 à 120 ne sont pas applicables aux sangliers vivant dans la nature.
 
-[^116-1]: Nouvelle teneur selon le ch. I de l’O du 31 mars 2021, en vigueur depuis le 1<sup>er</sup> mai 2021 ([RO 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
+[^116-1]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^116-2]: Nouvelle teneur selon le ch. I de l’O du 31 mars 2021, en vigueur depuis le 1<sup>er</sup> mai 2021 ([RO 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
 
 #### Art. 117
 
@@ -2710,18 +2978,36 @@ En cas de suspicion de peste porcine chez des sangliers vivant dans la nature, l
 
 En cas de constat de peste porcine chez des sangliers vivant dans la nature:
 
-- a. l’OSAV ordonne les examens nécessaires pour déterminer l’extension de l’épizootie;
-- b.[^121-1] l’OSAV élabore des mesures d’éradication de l’épizootie en collaboration avec l’OFEV, l’OFAG, les vétérinaires cantonaux, les autorités cantonales de la chasse et de l’agriculture et d’autres spécialistes;c.[^121-2] le vétérinaire cantonal ordonne des mesures pour éviter les contacts entre les porcs domestiques et les sangliers, et
-- d.[^121-3] le vétérinaire cantonal peut limiter ou interdire la chasse, quelle que soit l’espèce de gibier, après avoir consulté les autorités cantonales de surveillance de la chasse.
+- a.[^121-1] l’OSAV fixe des régions initiales de séquestre, de contrôle et d’observation après consultation des vétérinaires cantonaux, et ordonne les examens nécessaires pour déterminer l’extension de l’épizootie;
+- b.[^121-2] l’OSAV élabore des mesures d’éradication de l’épizootie en collaboration avec l’OFEV, l’OFAG, les vétérinaires cantonaux, les autorités cantonales de la chasse et de l’agriculture et d’autres spécialistes;
+- c.[^121-3] le vétérinaire cantonal délimite le périmètre exact des régions de contrôle et d’observation, et ordonne les mesures de biosécurité nécessaires pour éviter des contacts entre les porcs domestiques et les sangliers;
+- d.[^121-4] …
 
-<sup>3</sup> En accord avec l’OFEV, l’OSAV édicte des dispositions techniques sur les mesures à prendre pour lutter contre la peste porcine des sangliers vivant dans la nature.[^121-4]
+<sup>2bis</sup>
 
-[^121-1]: Nouvelle teneur selon le ch. I de l’O du 25 avr. 2018, en vigueur depuis le 1<sup>er</sup> juin 2018 ([RO 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)).
-[^121-2]: Nouvelle teneur selon le ch. I de l’O du 9 avr. 2003, en vigueur depuis le 1<sup>er</sup> mai 2003 ([RO 2003 956](https://fedlex.data.admin.ch/eli/oc/2003/172)).
-[^121-3]: Introduite par le ch. I de l’O du 9 avr. 2003, en vigueur depuis le 1<sup>er</sup> mai 2003 ([RO 2003 956](https://fedlex.data.admin.ch/eli/oc/2003/172)).
-[^121-4]: Introduit par le ch. I de l’O du 9 avr. 2003, en vigueur depuis le 1<sup>er</sup> mai 2003 ([RO 2003 956](https://fedlex.data.admin.ch/eli/oc/2003/172)).
+D’entente avec les autres autorités cantonales compétentes, le vétérinaire cantonal peut prendre dans les régions initiales de séquestre, de contrôle et d’observation les mesures temporaires suivantes:
 
-### Section 7**** Maladies virales des oiseaux
+- a. limiter ou interdire la chasse de toutes les espèces de gibier;
+- b.
+
+  désigner des régions forestières ou d’autres habitats des sangliers, notamment les roselières où:
+
+  - 1\. il est interdit de pénétrer,
+  - 2\. il est interdit de s’écarter du chemin et obligatoire de tenir les chiens en laisse.[^121-5]
+
+<sup>2ter</sup> D’entente avec le vétérinaire cantonal et conformément à ses instructions, des travaux importants qui ne peuvent être reportés peuvent être effectués dans les régions visées à l’al. 2<sup>bis</sup>, let. b, à condition de garantir la biosécurité au mieux.[^121-6]
+
+<sup>3</sup> En accord avec l’OFEV, l’OSAV édicte des dispositions techniques sur les mesures à prendre pour lutter contre la peste porcine des sangliers vivant dans la nature.[^121-7]
+
+[^121-1]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^121-2]: Nouvelle teneur selon le ch. I de l’O du 25 avr. 2018, en vigueur depuis le 1<sup>er</sup> juin 2018 ([RO 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)).
+[^121-3]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^121-4]: Introduite par le ch. I de l’O du 9 avr. 2003 ([RO 2003 956](https://fedlex.data.admin.ch/eli/oc/2003/172)). Abrogée par le ch. I de l’O du 31 août 2022, avec effet au 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^121-5]: Introduit par le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^121-6]: Introduit par le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^121-7]: Introduit par le ch. I de l’O du 9 avr. 2003, en vigueur depuis le 1<sup>er</sup> mai 2003 ([RO 2003 956](https://fedlex.data.admin.ch/eli/oc/2003/172)).
+
+### Section 7 Maladies virales des oiseaux
 
 [^tit3-chap2-sec7-1]
 
@@ -2740,33 +3026,24 @@ En cas de constat de peste porcine chez des sangliers vivant dans la nature:
 L’*influenza* aviaire est considérée comme hautement pathogène si elle est causée par:
 
 - a. des virus influenza de type A appartenant aux sous-types H5 ou H7 avec des séquences génomiques codant pour de multiples acides aminés basiques sur le site de clivage de la molécule hémagglutinine;
-- b. d’autres virus influenza de type A présentant, chez les poules âgées de six semaines, un indice de pathogénicité intraveineux supérieur à 1,2.
+- b.[^122-2] des virus influenza de type A présentant un indice de pathogénicité intraveineux supérieur à 1,2.
 
-<sup>3</sup> Elle est considérée comme faiblement pathogène si elle est causée par des virus influenza de type A des sous-types H5 ou H7 ne correspondant pas à la définition donnée à l’al. 2, let. a.
+<sup>3</sup> Elle est considérée comme faiblement pathogène si elle est causée par des virus influenza de type A qui ne sont pas hautement pathogènes.[^122-3]
 
 <sup>4</sup> La période d’incubation est de 21 jours.
 
-<sup>5</sup> L’OSAV édicte des dispositions d’exécution de caractère technique sur les mesures à prendre en cas de *influenza* aviaire.[^122-2]
+<sup>5</sup> L’OSAV édicte des dispositions d’exécution de caractère technique sur les mesures à prendre en cas de *influenza* aviaire.[^122-4]
 
 [^122-1]: Nouvelle expression selon le ch. I de l’O du 25 avr. 2018, en vigueur depuis le 1<sup>er</sup> juin 2018 ([RO 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)). Il a été tenu compte de cette mod. dans tout le texte.
-[^122-2]: Nouvelle teneur selon le ch. I de l’O du 25 mai 2011, en vigueur depuis le 1<sup>er</sup> juil. 2011 ([RO 2011 2691](https://fedlex.data.admin.ch/eli/oc/2011/371)).
+[^122-2]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^122-3]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^122-4]: Nouvelle teneur selon le ch. I de l’O du 25 mai 2011, en vigueur depuis le 1<sup>er</sup> juil. 2011 ([RO 2011 2691](https://fedlex.data.admin.ch/eli/oc/2011/371)).
 
 #### Art. 122a
 
-***Influenza* aviaire hautement pathogène touchant la volaille domestique et d’autres oiseaux détenus en captivité: mesures à prendre dans le troupeau**
+[^122a-1]
 
-<sup>1</sup> En dérogation aux art. 84 et 85, le vétérinaire cantonal ordonne le séquestre renforcé (art. 71) sur les troupeaux suspects, exposés à la contagion ou contaminés.
-
-<sup>2</sup>
-
-Par exposés à la contagion, on entend notamment:
-
-- a. les troupeaux situés dans le voisinage immédiat ou mis en danger par contact;
-- b. les troupeaux dans lesquels des animaux ou des œufs à couver probablement contaminés ont été livrés.
-
-<sup>3</sup> Le séquestre renforcé sur les troupeaux suspects ou exposés à la contagion peut être transformé après cinq jours en un séquestre simple de second degré.
-
-<sup>4</sup> Les mesures d’interdiction peuvent être étendues à d’autres espèces animales.
+[^122a-1]: Abrogé par le ch. I de l’O du 31 août 2022, avec effet au 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
 #### Art. 122b
 
@@ -2878,13 +3155,30 @@ Dans les régions de contrôle et d’observation, il peut, en outre:[^122f-4]
 
 <sup>1</sup> Tous les oiseaux détenus en captivité et leurs œufs à couver sont considérés comme sensibles à la maladie de Newcastle.[^123-2]
 
+<sup>1bis</sup>
+
+Le diagnostic de maladie de Newcastle est établi si:
+
+- a.
+
+  la maladie est causée par un orthoavulavirus aviaire de type 1:
+
+  - 1\. avec une séquence de gènes qui codent de multiples acides aminés basiques dans la fraction C-terminale de la protéine F2 et une phénylalanine au niveau du résidu 117, c’est-à-dire de la fraction N-terminale de la protéine F1, ou
+  - 2\. qui possède un indice de pathogénicité intracérébrale (IPIC) égal ou supérieur à 0,7, ou que
+
+- b. des anticorps contre l’orthoavulavirus de type 1 sont mis en évidence.[^123-3]
+
+<sup>1ter</sup> En dérogation à l’al. 1<sup>bis</sup>, let. b, le diagnostic de maladie de Newcastle n’est pas établi si des anticorps sont mis en évidence chez des pigeons.[^123-4]
+
 <sup>2</sup> La période d’incubation est de 21 jours.
 
-<sup>3</sup> L’OSAV édicte des dispositions techniques relatives aux mesures à prendre en cas de maladie de Newcastle.[^123-3]
+<sup>3</sup> L’OSAV édicte des dispositions techniques relatives aux mesures à prendre en cas de maladie de Newcastle.[^123-5]
 
 [^123-1]: Nouvelle teneur selon le ch. I de l’O du 30 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
 [^123-2]: Nouvelle teneur selon le ch. I de l’O du 30 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
-[^123-3]: Introduit par le ch. I de l’O du 30 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
+[^123-3]: Introduit par le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^123-4]: Introduit par le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^123-5]: Introduit par le ch. I de l’O du 30 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
 
 #### Art. 123a
 
@@ -2960,21 +3254,45 @@ Si la maladie de Newcastle apparaît chez des oiseaux détenus en captivité aut
 
 #### Art. 126
 
-**Désignation**
+**Peste bovine**[^126-1]
 
-Par autres épizooties hautement contagieuses, on entend les maladies animales suivantes:
+<sup>1</sup> Sont réceptifs à la peste bovine tous les artiodactyles.
 
-- a.[^126-1] …
-- b. peste bovine;
-- c. peste des petits ruminants;
-- d.[^126-2] …
-- e. fièvre de la Vallée du Rift;
-- f.[^126-3] …
-- g. clavelée et variole caprine.
+<sup>2</sup> La période d’incubation est de 21 jours.
 
-[^126-1]: Abrogée par le ch. I de l’O du 31 mars 2021, avec effet au 1<sup>er</sup> mai 2021 ([RO 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
-[^126-2]: Abrogée par le ch. I de l’O du 25 avr. 2018, avec effet au 1<sup>er</sup> juin 2018 ([RO 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)).
-[^126-3]: Abrogée par le ch. I de l’O du 16 mai 2007, avec effet au 1<sup>er</sup> juil. 2007 ([RO 2007 2711](https://fedlex.data.admin.ch/eli/oc/2007/358)).
+[^126-1]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+
+#### Art. 126a
+
+**Peste des petits ruminants**[^126a-1]
+
+<sup>1</sup> Sont réceptifs à la peste des petits ruminants les moutons, les chèvres, les camélidés et les cervidés.
+
+<sup>2</sup> La période d’incubation est de 21 jours.
+
+[^126a-1]: Introduit par le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+
+#### Art. 126b
+
+**Fièvre de la Vallée du Rift**[^126b-1]
+
+<sup>1</sup> Sont réceptifs à la fièvre de la Vallée du Rift les artiodactyles, à l’exception des porcs, les périssodactyles et les proboscidiens.
+
+<sup>2</sup> La période d’incubation est de 30 jours.
+
+<sup>3</sup> En dérogation à l’art. 88, al. 2, la zone de protection et la zone de surveillance comprennent un territoire d’un rayon, respectivement, de 20 km et de 50 km autour du troupeau contaminé.
+
+[^126b-1]: Introduit par le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+
+#### Art. 126c
+
+**Clavelée et variole caprine**[^126c-1]
+
+<sup>1</sup> Sont réceptifs à la clavelée et variole caprine les moutons et les chèvres.
+
+<sup>2</sup> La période d’incubation est de 21 jours.
+
+[^126c-1]: Introduit par le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
 #### Art. 127
 
@@ -3006,9 +3324,9 @@ Les dispositions de la présente section s’appliquent aux épizooties à érad
 
 L’examen porte:
 
-- a. chez les bovins: sur la diarrhée virale bovine, *Brucella abortus, Coxiella burnetii* et la rhinotrachéite infectieuse bovine / vulvovaginite pustuleuse infectieuse;
-- b. chez les moutons et les chèvres: sur *Brucella melitensis, Coxiella burnetii* et *Chlamydia*;
-- c. chez les porcs: sur *Brucella suis*, le syndrome dysgénésique et respiratoire du porc, la maladie d’Aujeszky.[^129-3]
+- a. chez les animaux de l’espèce bovine, les buffles et les bisons: sur la diarrhée virale bovine, *Brucella abortus, B. melitensis* et *B. suis, Coxiella burnetii* et la rhinotrachéite infectieuse bovine / vulvovaginite pustuleuse infectieuse;
+- b. chez les moutons et les chèvres: sur Brucella abortus, B. melitensis et B. suis, Coxiella burnetii ainsi que Chlamydia abortus;
+- c. chez les porcs: sur *Brucella abortus, B. melitensis* et *B. suis,* le syndrome dysgénésique et respiratoire du porc, ainsi que la maladie d’Aujeszky.[^129-3]
 
 <sup>4</sup> Le vétérinaire ordonne l’examen des arrière-faix et des avortons. Des échantillons de sang prélevés sur les mères ayant avorté doivent en outre être envoyés au laboratoire.[^129-4]
 
@@ -3016,7 +3334,7 @@ L’examen porte:
 
 [^129-1]: Nouvelle teneur selon le ch. I de l’O du 30 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
 [^129-2]: Nouvelle teneur selon le ch. I de l’O du 30 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
-[^129-3]: Nouvelle teneur selon le ch. I de l’O du 20 juin 2014, en vigueur depuis le 1<sup>er</sup> août 2014 ([RO 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)).
+[^129-3]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 [^129-4]: Nouvelle teneur selon le ch. I de l’O du 20 juin 2014, en vigueur depuis le 1<sup>er</sup> août 2014 ([RO 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)).
 
 #### Art. 130
@@ -3200,9 +3518,11 @@ Le vétérinaire cantonal décide si:
 
 Les animaux domestiques qui ont été blessés par un animal suspect ou atteint de rage, ou ont été en contact avec un tel animal:
 
-- a. doivent être tués ou isolés pendant au moins 100 jours de telle façon qu’ils ne puissent mettre en danger ni des personnes ni des animaux;
+- a.[^145-1] doivent être mis à mort ou isolés pendant au moins 120 jours de façon qu’ils ne puissent mettre en danger ni des personnes ni des animaux;
 - b. ne peuvent être vaccinés que s’il est prouvé qu’ils ont été vaccinés depuis moins de 24 mois; le délai de la mise à l’isolement peut être réduit à 30 jours pour les animaux revaccinés;
 - c. doivent subir un examen vétérinaire officiel à la fin de la mise à l’isolement.
+
+[^145-1]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
 #### Art. 146
 
@@ -3274,40 +3594,37 @@ Les dispositions suivantes s’appliquent aux animaux sauvages:
 
 **Champ d’application**
 
-<sup>1</sup> Les dispositions de la présente section sont applicables à la lutte contre l’infection des bovins par *Brucella abortus*.
+<sup>1</sup> Les dispositions de la présente section sont applicables à la lutte contre l’infection à *Brucella abortus*, *B. melitensis* et *B. suis* chez les animaux de l’espèce bovine, les buffles et les bisons.[^150-1]
 
 <sup>2</sup> Si l’épizootie est constatée chez d’autres espèces animales, le vétérinaire cantonal ordonne les mesures qui s’imposent pour lutter contre la brucellose bovine.
 
+[^150-1]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+
 #### Art. 151
 
-**Diagnostic**
+**Période d’incubation**[^151-1]
 
-<sup>1</sup>
+La période d’incubation est de 180 jours.
 
-Le diagnostic de brucellose bovine est établi si:
-
-- a.[^151-1] l’examen sérologique du sang a donné un résultat positif, ou si
-- b. *Brucella abortus* a été mise en évidence dans le matériel soumis à examen.
-
-<sup>2</sup> La période d’incubation est de 180 jours.
-
-[^151-1]: Nouvelle teneur selon le ch. I de l’O du 30 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
+[^151-1]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
 #### Art. 152
 
-**Reconnaissance officielle et surveillance**
+**Reconnaissance officielle**[^152-1]
 
-<sup>1</sup> Tous les troupeaux de bovins sont considérés comme officiellement indemnes de brucellose. En cas de suspicion ou de constat de brucellose, la reconnaissance officielle est retirée au troupeau concerné jusqu’à la levée du séquestre.
+Tous les troupeaux de bovins, de buffles et de bisons sont considérés comme officiellement indemnes de brucellose. En cas de suspicion ou de constat de brucellose, la reconnaissance officielle est, suspendue ou retirée pour le troupeau concerné jusqu’à la levée du séquestre.
 
-<sup>2</sup> Le vétérinaire cantonal peut étendre la surveillance aux troupeaux de cerfs.
+[^152-1]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
 #### Art. 153
 
 **Obligation d’annoncer**
 
-<sup>1</sup> Les laboratoires annoncent au vétérinaire cantonal le constat de *Brucella abortus* chez d’autres animaux domestiques ou sauvages.
+<sup>1</sup> …[^153-1]
 
 <sup>2</sup> Le vétérinaire cantonal annonce tout cas de brucellose bovine au médecin cantonal et au chimiste cantonal.
+
+[^153-1]: Abrogé par le ch. I de l’O du 31 août 2022, avec effet au 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
 #### Art. 154
 
@@ -3343,7 +3660,10 @@ Il lève le séquestre:
 - a. après que tous les animaux du troupeau ont été éliminés et une fois que les travaux de nettoyage et de désinfection des étables ont été achevés, ou
 - b. si l’examen de tous les arrière-faix ou avortons prélevés chez les animaux en état de gestation au moment de la mise sous séquestre a donné un résultat négatif, et lorsque tous les animaux du troupeau ont été contrôlés deux fois à intervalle de 180 jours au moins, par examens sérologiques du sang et du lait et que ces contrôles ont donné des résultats négatifs.
 
+<sup>3</sup> L’examen sérologique du sang et du lait prévu à l’al. 2, let. b, peut être effectué au plus tôt 90 jours après l’élimination du dernier animal suspect ou contaminé.[^155-2]
+
 [^155-1]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^155-2]: Introduit par le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
 #### Art. 156
 
@@ -3365,36 +3685,29 @@ Durant l’année qui suit la levée du séquestre, tous les arrière-faix et le
 
 #### Art. 158
 
-**Champ d’application**
+**Champ d’application**[^158-1]
 
-<sup>1</sup> Les dispositions de la présente section sont applicables à la lutte contre l’infection des bovins par *Mycobacterium bovis,* *Mycobacterium caprae* et *Mycobacterium t**u**berculosis*.[^158-1]
+<sup>1</sup> Les dispositions de la présente section sont applicables à la lutte contre la tuberculose chez les animaux de l’espèce bovine, les buffles et les bisons suite à des infections par *Mycobacterium bovis,* *M. caprae* et *M. tuberculosis*.
 
-<sup>2</sup> Si l’épizootie est constatée chez d’autres espèces animales, le vétérinaire cantonal ordonne les mesures nécessaires qui s’imposent pour lutter contre la tuberculose chez les bovins.
+<sup>2</sup> Si l’épizootie est constatée chez d’autres artiodactyles, le vétérinaire cantonal ordonne toutes les mesures qui s’imposent pour empêcher que l’épizootie ne continue de se propager.
 
-[^158-1]: Nouvelle teneur selon le ch. I de l’O du 25 mai 2011, en vigueur depuis le 1<sup>er</sup> juil. 2011 ([RO 2011 2691](https://fedlex.data.admin.ch/eli/oc/2011/371)).
+[^158-1]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
 #### Art. 159
 
-**Diagnostic**
+**Période d’incubation**[^159-1]
 
-<sup>1</sup>
+La période d’incubation est de 180 jours.
 
-Le diagnostic de tuberculose est établi:
-
-- a.[^159-1] par la mise en évidence de *Mycobacterium bovis,* *Mycobacterium caprae* ou de *Mycobacterium tuber**culosis* dans le matériel soumis à examen;
-- b. lorsque l’épreuve tuberculinique chez un animal provenant d’un troupeau dans lequel la tuberculose a déjà été diagnostiquée au sens de la let. a, a donné un résultat positif.
-
-<sup>2</sup> La période d’incubation est de 150 jours.
-
-[^159-1]: Nouvelle teneur selon le ch. I de l’O du 25 mai 2011, en vigueur depuis le 1<sup>er</sup> juil. 2011 ([RO 2011 2691](https://fedlex.data.admin.ch/eli/oc/2011/371)).
+[^159-1]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
 #### Art. 160
 
-**Reconnaissance officielle et surveillance**
+**Reconnaissance officielle**[^160-1]
 
-<sup>1</sup> Tous les troupeaux de bovins sont considérés comme officiellement indemnes de tuberculose. En cas de suspicion ou lors du constat de tuberculose, la reconnaissance officielle est retirée au troupeau concerné jusqu’à la levée du séquestre.
+Tous les troupeaux de bovins, de buffles et de bisons sont considérés comme officiellement indemnes de tuberculose. En cas de suspicion ou de constat de tuberculose, la reconnaissance officielle est, suspendue ou retirée au troupeau concerné jusqu’à la levée du séquestre.
 
-<sup>2</sup> Le vétérinaire cantonal peut étendre la surveillance aux troupeaux de cerfs.
+[^160-1]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
 #### Art. 161
 
@@ -3412,10 +3725,12 @@ Le diagnostic de tuberculose est établi:
 
 <sup>2</sup>
 
-La suspicion est considérée comme infirmée lorsque:
+La suspicion est considérée comme infirmée dans l’un ou l’autre des cas suivants:
 
-- a. l’animal suspect a été abattu et qu’aucun agent n’a été mis en évidence et lorsque l’épreuve tuberculinique chez tous les bovins âgés de plus de six semaines a donné exclusivement un résultat négatif;
-- b. deux épreuves tuberculiniques de tous les bovins âgés de plus de six semaines ont exclusivement donné un résultat négatif. Le deuxième examen ne peut être effectué que 40 jours au plus tôt après le premier.
+- a. l’animal suspect a été abattu et aucun agent responsable de l’épizootie n’a été mis en évidence; en outre, l’épreuve tuberculinique chez tous les animaux âgés de plus de six semaines a donné un résultat exclusivement négatif;
+- b. deux épreuves tuberculiniques de tous les animaux âgés de plus de six semaines ont donné un résultat négatif; le deuxième examen ne peut être effectué que 42 jours au plus tôt après le premier.[^162-1]
+
+[^162-1]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
 #### Art. 163
 
@@ -3430,11 +3745,12 @@ En cas de constat de tuberculose, le vétérinaire cantonal ordonne le séquestr
 - b. l’élimination du lait d’animaux contaminés ou suspects comme sous-produits animaux de catégorie 2 au sens de l’art. 6 OESPA[^163-3], ou sa cuisson et son utilisation dans le troupeau même pour l’alimentation des animaux;
 - c. le nettoyage et la désinfection des étables.
 
-<sup>2</sup> Le séquestre est levé lorsque deux examens de tous les bovins âgés de plus de six semaines ont donné des résultats entièrement négatifs. Le premier examen peut être effectué au plus tôt 60 jours après l’élimination du dernier animal suspect ou contaminé, et le second au plus tôt 40 jours après le premier examen.
+<sup>2</sup> Le séquestre est levé lorsque deux examens de tous les bovins âgés de plus de six semaines ont donné des résultats exclusivement négatifs. Le premier examen peut être effectué au plus tôt 180 jours après l’élimination du dernier animal suspect ou contaminé, et le deuxième au plus tôt 180 jours après le premier.[^163-4]
 
 [^163-1]: Nouvelle teneur selon le ch. I de l’O du 15 nov. 2006, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 5217](https://fedlex.data.admin.ch/eli/oc/2006/791)).
 [^163-2]: Introduite par le ch. I de l’O du 15 nov. 2006, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 5217](https://fedlex.data.admin.ch/eli/oc/2006/791)).
 [^163-3]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^163-4]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
 #### Art. 164
 
@@ -3449,12 +3765,9 @@ En cas de constat de tuberculose, le vétérinaire cantonal ordonne le séquestr
 
 #### Art. 165
 
-**Contrôle de vérification[^165-1]**
+[^165-1]
 
-Si la tuberculose a été constatée dans un troupeau, tous les bovins du troupeau âgés de plus de six semaines seront réexaminés quant à la tuberculose une année après la levée du séquestre.[^165-2]
-
-[^165-1]: Le titre a été adapté en application de l’art. 12 al. 1 de la Loi du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
-[^165-2]: Erratum du 11 juin 2013 ([RO 2013 1601](https://fedlex.data.admin.ch/eli/oc/2013/374)).
+[^165-1]: Abrogé par le ch. I de l’O du 31 août 2022, avec effet au 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
 #### Art. 165a
 
@@ -3494,25 +3807,27 @@ En cas de constat de tuberculose dans des populations d’animaux sauvages vivan
 
 <sup>1</sup> Le diagnostic de leucose bovine enzootique (LBE) est établi lorsque l’examen sérologique du sang a donné un résultat positif.[^166-1]
 
-<sup>2</sup> La période d’incubation est de 90 jours.
+<sup>1bis</sup> Sont réceptifs à la LBE les animaux de l’espèce bovine, les buffles et les bisons.[^166-2]
+
+<sup>2</sup> La période d’incubation est de 120 jours.[^166-3]
 
 [^166-1]: Nouvelle teneur selon le ch. I de l’O du 30 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
+[^166-2]: Introduit par le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^166-3]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
 #### Art. 167
 
-**Reconnaissance officielle et surveillance**
+**Reconnaissance officielle**[^167-1]
 
-<sup>1</sup> Tous les troupeaux de bovins sont considérés comme officiellement indemnes de LBE. En cas de suspicion ou lors de constat de LBE, la reconnaissance officielle est retirée au troupeau concerné jusqu’à la levée du séquestre.
+Tous les troupeaux de bovins, de buffles et de bisons sont considérés comme officiellement indemnes de LBE. En cas de suspicion ou de constat de LBE, la reconnaissance officielle est suspendue ou retirée pour le troupeau concerné jusqu’à la levée du séquestre.
 
-<sup>2</sup> …[^167-1]
-
-[^167-1]: Abrogé par le ch. I de l’O du 28 mars 2001, avec effet au 15 avr. 2001 ([RO 2001 1337](https://fedlex.data.admin.ch/eli/oc/2001/184)).
+[^167-1]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
 #### Art. 168
 
 **Mesures en cas de suspicion**
 
-<sup>1</sup> Si lors de l’examen clinique, de l’autopsie ou du contrôle des viandes, un vétérinaire ou un vétérinaire officiel suspecte qu’un animal de l’espèce bovine est atteint de LBE, il fait procéder à un examen sérologique, et, lorsque celui-ci n’est pas possible, à un examen histologique.
+<sup>1</sup> Si lors de l’examen clinique, de l’autopsie ou du contrôle des viandes, un vétérinaire ou un vétérinaire officiel suspecte qu’un animal de l’espèce bovine, un buffle ou un bison est atteint de LBE, il fait procéder à un examen sérologique, et, lorsque celui-ci n’est pas possible, à un examen histologique.[^168-1]
 
 <sup>2</sup> Le vétérinaire cantonal ordonne le séquestre simple de premier degré sur le troupeau suspect jusqu’à ce que la suspicion soit infirmée.
 
@@ -3522,7 +3837,7 @@ La suspicion est considérée comme infirmée lorsque:
 
 - a. l’examen histologique n’a pas donné de résultat suspect;
 - b. l’examen sérologique de l’animal suspect a donné un résultat négatif, ou
-- c. en cas d’un résultat histologique suspect, l’examen sérologique de tous les bovins du troupeau de provenance âgés de plus de 24 mois a donné un résultat négatif.
+- c.[^168-2] en cas de résultat histologique suspect, l’examen sérologique de tous les animaux du troupeau de provenance âgés de plus de 24 mois a donné un résultat négatif.
 
 <sup>4</sup>
 
@@ -3531,7 +3846,11 @@ Dans le troupeau où se trouve un animal exposé à la contagion, le vétérinai
 - a. l’isolement de l’animal exposé à la contagion;
 - b. l’examen sérologique de tous les animaux.
 
-<sup>5</sup> L’isolement de l’animal exposé à la contagion est levé lorsqu’il a subi deux examens sérologiques avec résultats négatifs à 90 jours d’intervalle au moins.
+<sup>5</sup> L’isolement de l’animal exposé à la contagion est levé lorsqu’il a subi deux examens sérologiques avec résultats négatifs à 120 jours d’intervalle au moins.[^168-3]
+
+[^168-1]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^168-2]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^168-3]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
 #### Art. 169
 
@@ -3550,39 +3869,37 @@ Lorsque la LBE est constatée, le vétérinaire cantonal ordonne le séquestre s
 Il lève le séquestre:
 
 - a. après l’élimination des animaux contaminés et, s’il s’agit de vaches, de leur veau nouveau-né, et lorsque
-- b. deux examens sérologiques des autres animaux, effectués à 90 jours d’intervalle au moins, ont donné un résultat négatif.[^169-2]
+- b.[^169-2] deux examens sérologiques des autres animaux, effectués à 120 jours d’intervalle au moins, ont donné un résultat négatif.[^169-3]
 
-<sup>3</sup> Le premier échantillon destiné aux examens sérologiques peut être prélevé au plus tôt 90 jours après l’élimination du dernier animal contaminé du troupeau.
+<sup>3</sup> Le premier échantillon destiné aux examens sérologiques peut être prélevé au plus tôt 120 jours après l’élimination du dernier animal contaminé du troupeau.[^169-4]
 
 [^169-1]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2005, en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2005 5647](https://fedlex.data.admin.ch/eli/oc/2005/774)).
-[^169-2]: Nouvelle teneur selon le ch. I de l’O du 28 mars 2001, en vigueur depuis le 15 avr. 2001 ([RO 2001 1337](https://fedlex.data.admin.ch/eli/oc/2001/184)).
+[^169-2]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^169-3]: Nouvelle teneur selon le ch. I de l’O du 28 mars 2001, en vigueur depuis le 15 avr. 2001 ([RO 2001 1337](https://fedlex.data.admin.ch/eli/oc/2001/184)).
+[^169-4]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
 ### Section 8 Rhinotrachéite infectieuse bovine/vulvovaginite pustuleuse infectieuse
 
 #### Art. 170
 
-**Diagnostic**
+**Champ d’application et période d’incubation**[^170-1]
 
-<sup>1</sup>
-
-Le diagnostic de rhinotrachéite infectieuse bovine/vulvovaginite pustuleuse infectieuse (IBR/IPV) est établi:
-
-- a. si l’examen sérologique du sang a donné un résultat positif, ou
-- b. si l’Herpèsvirus bovin type I a été mis en évidence.[^170-1]
+<sup>1</sup> Les dispositions de la présente section s’appliquent à la lutte contre la rhinotrachéite infectieuse bovine/vulvovaginite pustuleuse infectieuse (IBR/IPV) chez les animaux de l’espèce bovine, les buffles et les bisons, suite à la mise en évidence de l’herpèsvirus bovin de type I ou au résultat positif d’un examen sérologique du sang.
 
 <sup>2</sup> La période d’incubation est de 30 jours.
 
-[^170-1]: Nouvelle teneur selon le ch. I de l’O du 30 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
+[^170-1]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
 #### Art. 171
 
 **Reconnaissance officielle et surveillance**
 
-<sup>1</sup> Tous les troupeaux de bovins sont considérés comme officiellement indemnes d’IBR/IPV. En cas de suspicion ou lors du constat d’IBR/IPV, la reconnaissance officielle est retirée au troupeau concerné jusqu’à la levée du séquestre.
+<sup>1</sup> Tous les troupeaux de bovins, de buffles et de bisons sont considérés comme officiellement indemnes d’IBR/IPV. En cas de suspicion ou de constat d’IBR/IPV, la reconnaissance officielle est, suspendue ou retirée pour le troupeau concerné jusqu’à la levée du séquestre.[^171-1]
 
-<sup>2</sup> Les taureaux d’élevage âgés de plus de 24 mois doivent être soumis annuellement à un examen sérologique du sang.[^171-1]
+<sup>2</sup> Les taureaux d’élevage âgés de plus de 24 mois doivent être soumis annuellement à un examen sérologique du sang.[^171-2]
 
-[^171-1]: Nouvelle teneur selon le ch. I de l’O du 28 mars 2001, en vigueur depuis le 15 avr. 2001 ([RO 2001 1337](https://fedlex.data.admin.ch/eli/oc/2001/184)).
+[^171-1]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^171-2]: Nouvelle teneur selon le ch. I de l’O du 28 mars 2001, en vigueur depuis le 15 avr. 2001 ([RO 2001 1337](https://fedlex.data.admin.ch/eli/oc/2001/184)).
 
 #### Art. 172
 
@@ -3611,13 +3928,17 @@ En cas de constat d’IBR/IPV, le vétérinaire cantonal ordonne le séquestre s
 
 <sup>2</sup> Il lève le séquestre lorsque l’examen sérologique du sang de tous les animaux a donné un résultat négatif. Les échantillons peuvent être prélevés au plus tôt 30 jours après l’élimination du dernier animal contaminé.
 
+<sup>3</sup> Si l’épizootie est constatée chez des camélidés ou des cerfs, le vétérinaire cantonal ordonne toutes les mesures qui s’imposent pour empêcher que l’épizootie ne continue de se propager.[^173-1]
+
+[^173-1]: Introduit par le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+
 #### Art. 174
 
 **Insémination artificielle**
 
 La semence de taureaux qui sont sérologiquement positifs ou qui l’ont été ne peut pas être utilisée pour l’insémination artificielle. L’OSAV peut, après consultation des vétérinaires cantonaux, autoriser l’emploi de semence qui a été récoltée avant le moment présumé de la contamination.
 
-### Section 8*a***** Diarrhée virale bovine (BVD)
+### Section 8*a* Diarrhée virale bovine (BVD)
 
 [^tit3-chap3-sec8a-1]
 
@@ -3627,23 +3948,24 @@ La semence de taureaux qui sont sérologiquement positifs ou qui l’ont été n
 
 **Champ d’application et diagnostic**[^174a-1]
 
-<sup>1</sup> Les dispositions de la présente section s’appliquent à la lutte contre le virus de la BVD chez les bovins (*Bovinae*).
+<sup>1</sup> Les dispositions de la présente section sont applicables à la lutte contre le virus de la diarrhée virale bovine (BVD) chez les animaux de l’espèce bovine, les buffles et les bisons.[^174a-2]
 
 <sup>2</sup> Le diagnostic de la BVD est établi lorsqu’une analyse virologique respectant l’une des procédures approuvées par l’OSAV a donné un résultat positif.
 
 <sup>3</sup> L’OSAV édicte des dispositions techniques relatives aux conditions que doivent remplir les laboratoires, et auxquelles doivent satisfaire le prélèvement des échantillons et les méthodes d’analyses.
 
 [^174a-1]: Nouvelle teneur selon le ch. I de l’O du 30 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
+[^174a-2]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
 #### Art. 174b
 
 **Reconnaissance officielle et surveillance**[^174b-1]
 
-<sup>1</sup> Tous les troupeaux de bovins sont reconnus indemnes de BVD. En cas d’exposition à la contagion, de suspicion ou d’épizootie, le troupeau touché perd son statut de troupeau reconnu indemne et en reste privé jusqu’à la levée de toutes les mesures d’interdiction.
+<sup>1</sup> Tous les troupeaux de bovins, de buffles et de bisons sont considérés comme officiellement indemnes de BVD. En cas d’exposition à la contagion, de suspicion ou de constat de BVD, la reconnaissance officielle est, suspendue ou retirée jusqu’à la levée du séquestre.
 
-<sup>2</sup> L’OSAV édicte des dispositions techniques relatives à la mise en œuvre de la surveillance des troupeaux de bovins. Il peut y exiger que les veaux nouveau-nés et mort-nés soient soumis à un examen virologique de dépistage de la BVD cinq jours au plus tard après leur naissance et que les veaux nouveau-nés soient frappés d’une interdiction de transport jusqu’à obtention du résultat négatif des analyses.
+<sup>2</sup> L’OSAV édicte des dispositions techniques concernant la mise en œuvre du programme de surveillance des troupeaux. Il peut exiger que les veaux nouveau-nés et mort-nés soient soumis à un examen virologique de dépistage de la BVD cinq jours au plus tard après leur naissance et que les veaux nouveau-nés soient frappés d’une interdiction de transport jusqu’à obtention du résultat négatif des analyses.
 
-[^174b-1]: Nouvelle teneur selon le ch. I de l’O du 30 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
+[^174b-1]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
 #### Art. 174c
 
@@ -3651,7 +3973,7 @@ La semence de taureaux qui sont sérologiquement positifs ou qui l’ont été n
 
 <sup>1</sup> Les animaux d’un troupeau de bovins sont considérés comme ayant été exposés à la contagion lorsque des indices épidémiologiques laissent supposer une contagion par le virus de la BVD, même lorsque la source de l’infection ne peut plus être établie par un diagnostic en laboratoire.
 
-<sup>2</sup> En cas d’exposition à la contagion, le vétérinaire cantonal interdit le transport des bovins qui ont pu entrer en contact avec le virus de la BVD et dont on ne peut exclure l’état de gestation.
+<sup>2</sup> En cas d’exposition à la contagion, le vétérinaire cantonal interdit le transport des animaux qui ont pu entrer en contact avec le virus de la BVD et pour lesquels on ne peut exclure un état de gestation.[^174c-2]
 
 <sup>3</sup>
 
@@ -3660,9 +3982,11 @@ L’interdiction de transporter un bovin est levée dès le moment où:
 - a. son état de gestation est infirmé ou a pris fin prématurément;
 - b. l’examen virologique du veau ou du veau mort-né a donné un résultat négatif.
 
-<sup>4</sup> Aucun bovin ne doit quitter l’exploitation touchée dès le moment où un animal visé à l’al. 2 a vêlé et jusqu’au moment où l’examen virologique du veau ou de l’animal mort-né a donné un résultat négatif. La cession d’animaux destinés à l’abattage immédiat est admise.
+<sup>4</sup> Aucun animal ne doit quitter l’exploitation touchée dès le moment où un animal visé à l’al. 2 a vêlé et jusqu’au moment où l’examen virologique du veau ou de l’animal mort-né a donné un résultat négatif. La cession d’animaux destinés à l’abattage immédiat est admise.[^174c-3]
 
 [^174c-1]: Nouvelle teneur selon le ch. I de l’O du 30 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
+[^174c-2]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^174c-3]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
 #### Art. 174d
 
@@ -3673,20 +3997,23 @@ L’interdiction de transporter un bovin est levée dès le moment où:
 Il y a suspicion de BVD lorsque:
 
 - a. le premier examen virologique d’un animal a donné un résultat positif, ou
-- b. les examens sérologiques effectués sur un groupe de bovins dans le cadre de la surveillance de la BVD ou des mesures de lutte contre la BVD ont donné un résultat positif.
+- b.[^174d-2] les examens sérologiques effectués sur un groupe d’animaux dans le cadre de la surveillance de la BVD ou des mesures de lutte contre la BVD ont donné un résultat positif.
 
 <sup>2</sup>
 
-En cas de suspicion, le vétérinaire cantonal ordonne sur tous les troupeaux de l’unité d’élevage de bovins concernée:
+En cas de suspicion, le vétérinaire cantonal ordonne sur tous les troupeaux de l’unité d’élevage concernée:[^174d-3]
 
 - a. le séquestre simple de premier degré jusqu’à ce que la suspicion soit infirmée;
 - b. l’examen virologique, à l’égard de la BVD, de tous les animaux suspects.
 
-<sup>3</sup> Le vétérinaire cantonal peut étendre les mesures visées à l’al. 2 à d’autres troupeaux, si des éléments épidémiologiques indiquent que la source de l’infection pourrait être externe à l’exploitation bovine touchée.
+<sup>3</sup> Le vétérinaire cantonal peut étendre les mesures visées à l’al. 2 à d’autres troupeaux si des éléments épidémiologiques indiquent que la source de l’infection pourrait être externe à l’unité d’élevage touchée.[^174d-4]
 
 <sup>4</sup> La suspicion est considérée comme infirmée lorsque l’examen virologique de tous les animaux examinés a donné un résultat négatif.
 
 [^174d-1]: Nouvelle teneur selon le ch. I de l’O du 30 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
+[^174d-2]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^174d-3]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^174d-4]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
 #### Art. 174e
 
@@ -3694,34 +4021,37 @@ En cas de suspicion, le vétérinaire cantonal ordonne sur tous les troupeaux de
 
 <sup>1</sup>
 
-En cas de constat de BVD, le vétérinaire cantonal ordonne le séquestre simple de premier degré sur tous les troupeaux de l’unité d’élevage de bovins contaminée. Il ordonne en outre:
+En cas de constat de BVD, le vétérinaire cantonal ordonne le séquestre simple de premier degré sur tous les troupeaux de l’unité d’élevage contaminée. Il ordonne en outre:[^174e-2]
 
 - a. l’abattage de l’animal contaminé et celui des descendants directs des femelles contaminées;
 - b. une enquête pour retrouver les mères des animaux contaminés et l’examen virologique de celles-ci;
 - c. des investigations épidémiologiques pour déterminer l’origine de la contagion;
-- d. une enquête pour retrouver les bovins qui ont été en contact avec les animaux contaminés et dont la gestation ne peut être exclue;
+- d.[^174e-3] une enquête pour retrouver les animaux qui ont été en contact avec les animaux contaminés et dont la gestation ne peut être exclue;
 - e. l’examen virologique des veaux et des veaux mort-nés issus des animaux visés à la let. d, dans les cinq jours au plus tard après leur naissance;
-- f.[^174e-2] l’interdiction de transporter les animaux visés à la let. d, jusqu’à ce que l’état de gestation soit infirmé ou ait pris fin prématurément, ou jusqu’à ce que les analyses virologiques effectuées sur le veau né ou mort-né aient donné des résultats négatifs;
+- f.[^174e-4] l’interdiction de transporter les animaux visés à la let. d, jusqu’à ce que l’état de gestation soit infirmé ou ait pris fin prématurément, ou jusqu’à ce que les analyses virologiques effectuées sur le veau né ou mort-né aient donné des résultats négatifs;
 - g. une interdiction de transport applicable aux animaux visés à la let. e jusqu’à obtention du résultat négatif de l’examen virologique.
 
-<sup>2</sup> Il lève le séquestre de premier degré dès que toutes les enquêtes épidémiologiques sont terminées, mais au plus tôt 14 jours après l’élimination des animaux contaminés et après le nettoyage et la désinfection des locaux de stabulation.[^174e-3]
+<sup>2</sup> Il lève le séquestre de premier degré dès que toutes les enquêtes épidémiologiques sont terminées, mais au plus tôt 14 jours après l’élimination des animaux contaminés et après le nettoyage et la désinfection des locaux de stabulation.[^174e-5]
 
-<sup>2bis</sup> Au plus tard un an après la levée de tous les séquestres, il ordonne des examens sérologiques de dépistage de la BVD sur un groupe de bovins de l’effectif.[^174e-4]
+<sup>2bis</sup> Au plus tard un an après la levée de tous les séquestres, il ordonne des examens sérologiques de dépistage de la BVD sur un groupe de bovins de l’effectif.[^174e-6]
 
-<sup>3</sup> Aucun bovin ne doit quitter l’exploitation touchée dès le moment où un animal visé à l’al. 1, let. d, a vêlé et jusqu’au moment où l’examen virologique du veau ou de l’animal mort-né a donné un résultat négatif. La cession d’animaux destinés à l’abattage immédiat est admise.
+<sup>3</sup> Aucun animal ne doit quitter l’exploitation touchée dès le moment où un animal visé à l’al. 1, let. d a vêlé et jusqu’à ce que le résultat de l’examen virologique du veau ou de l’animal mort-né soit négatif. La cession d’animaux destinés à l’abattage immédiat est admise.[^174e-7]
 
 [^174e-1]: Nouvelle teneur selon le ch. I de l’O du 30 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
-[^174e-2]: Nouvelle teneur selon le ch. I de l’O du 31 mars 2021, en vigueur depuis le 1<sup>er</sup> mai 2021 ([RO 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
-[^174e-3]: Nouvelle teneur selon le ch. I de l’O du 31 mars 2021, en vigueur depuis le 1<sup>er</sup> mai 2021 ([RO 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
-[^174e-4]: Introduit par le ch. I de l’O du 31 mars 2021, en vigueur depuis le 1<sup>er</sup> mai 2021 ([RO 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
+[^174e-2]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^174e-3]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^174e-4]: Nouvelle teneur selon le ch. I de l’O du 31 mars 2021, en vigueur depuis le 1<sup>er</sup> mai 2021 ([RO 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
+[^174e-5]: Nouvelle teneur selon le ch. I de l’O du 31 mars 2021, en vigueur depuis le 1<sup>er</sup> mai 2021 ([RO 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
+[^174e-6]: Introduit par le ch. I de l’O du 31 mars 2021, en vigueur depuis le 1<sup>er</sup> mai 2021 ([RO 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
+[^174e-7]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
 #### Art. 174f
 
 **Marchés et expositions de bétail**[^174f-1]
 
-Seuls des bovins provenant d’exploitations reconnues indemnes de BVD peuvent être présentés à des marchés ou à des expositions de bétail. Cette exigence n’est pas applicable, s’il est certain que tous les bovins présentés seront directement conduits à l’abattage après avoir été présentés.
+Les marchés et les expositions de bétail sont tenus de présenter uniquement des animaux qui proviennent d’unités d’élevage reconnues indemnes de BVD. Cette exigence n’est pas applicable aux marchés de bétail de boucherie s’il est garanti que tous les animaux présentés seront directement conduits à l’abattage après avoir été présentés.
 
-[^174f-1]: Nouvelle teneur selon le ch. I de l’O du 30 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
+[^174f-1]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
 #### Art. 174g
 
@@ -3737,7 +4067,7 @@ Les vaccinations contre la BVD sont interdites.
 
 [^174h174i-1]: Abrogés par le ch. I de l’O du 30 nov. 2012, avec effet au 1<sup>er</sup> janv. 2013 ([RO 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830),**2012** 203).
 
-### Section 9**** Encéphalopathies spongiformes transmissibles
+### Section 9 Encéphalopathies spongiformes transmissibles
 
 [^tit3-chap3-sec9-1]
 
@@ -3995,7 +4325,7 @@ Par matériel à risque spécifié, on entend, en ce qui concerne les ovins et l
 
 <sup>3</sup> Il annonce sans délai, à l’OSAV, les cas d’encéphalopathies spongiformes observés chez d’autres espèces animales.
 
-### Section 9*a***** Syndrome dysgénésique et respiratoire du porc
+### Section 9*a* Syndrome dysgénésique et respiratoire du porc
 
 [^tit3-chap3-sec9a-1]
 
@@ -4003,16 +4333,11 @@ Par matériel à risque spécifié, on entend, en ce qui concerne les ovins et l
 
 #### Art. 182
 
-**Diagnostic**
+**Période d’incubation**[^182-1]
 
-<sup>1</sup>
+La période d’incubation est de 21 jours.
 
-Le syndrome dysgénésique et respiratoire du porc (SDRP) est établi:
-
-- a. si l’examen sérologique effectué dans un troupeau de porc est positif chez plus d’un animal, ou
-- b. si le virus du SDRP a été mis en évidence.
-
-<sup>2</sup> La période d’incubation est de 21 jours.
+[^182-1]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
 #### Art. 183
 
@@ -4096,19 +4421,19 @@ Il lève le séquestre à l’une des deux conditions suivantes:
 
 [^185a-1]: Nouvelle teneur selon le ch. I de l’O du 20 juin 2014, en vigueur depuis le 1<sup>er</sup> août 2014 ([RO 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)).
 
-### Section 10 Infections génitales bovines: infections dues à «*Campyl**o**bacter fetus*» et «*Tritrichomonas foetus*»****
+### Section 10 Infections vénériennes à *Campylobacter fetus* et *Tritrichomonas foetus*
 
 [^tit3-chap3-sec10-1]
 
-[^tit3-chap3-sec10-1]: Nouvelle teneur selon le ch. I de l’O du 20 juin 2014, en vigueur depuis le 1<sup>er</sup> août 2014 ([RO 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)).
+[^tit3-chap3-sec10-1]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
 #### Art. 186
 
 **Champ d’application**[^186-1]
 
-Les dispositions de la présente section sont applicables à la lutte contre les infections génitales bovines dues à *Campylobacter fetus ssp*. *veneralis* et *Tr**i**trichomonas foetus*.
+Les dispositions de la présente section sont applicables à la lutte contre les infections vénériennes à *Campylobacter fetus* ssp. *veneralis* et *Tritrichomonas fœtus* chez les animaux de l’espèce bovine, les buffles et les bisons.
 
-[^186-1]: Nouvelle teneur selon le ch. I de l’O du 20 juin 2014, en vigueur depuis le 1<sup>er</sup> août 2014 ([RO 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)).
+[^186-1]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
 #### Art. 187
 
@@ -4128,7 +4453,7 @@ Le vétérinaire cantonal ordonne l’isolement des animaux suspects et exposés
 
 <sup>1</sup>
 
-En cas de constat d’infection génitale bovine, le vétérinaire cantonal ordonne le séquestre simple de premier degré sur tous les bovins aptes à la reproduction du troupeau contaminé. Il ordonne en outre dans le troupeau contaminé:
+En cas de constat d’infection vénérienne, le vétérinaire cantonal ordonne le séquestre simple de premier degré sur tous les animaux du troupeau contaminé qui sont aptes à la reproduction. Il ordonne en outre dans le troupeau contaminé:[^189-1]
 
 - a. l’examen de tous les animaux aptes à la reproduction;
 - b. l’insémination artificielle;
@@ -4142,7 +4467,9 @@ Il lève les mesures d’interdiction:
 - a. pour les génisses et les vaches contaminées ou exposées à la contagion, lorsque deux examens, effectués à intervalle de deux semaines, ont donné des résultats négatifs;
 - b. pour les taureaux contaminés ou exposés à la contagion, lorsque trois examens, effectués à intervalles de deux semaines, ont donné des résultats négatifs.
 
-### Section 10*a***** Besnoitiose
+[^189-1]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+
+### Section 10*a* Besnoitiose
 
 [^tit3-chap3-sec10a-1]
 
@@ -4203,18 +4530,13 @@ Il lève le séquestre à l’une des deux conditions suivantes:
 
 #### Art. 190
 
-**Champ d’application et diagnostic**
+**Champ d’application et période d’incubation**[^190-1]
 
-<sup>1</sup> Les dispositions de la présente section sont applicables à la lutte contre l’infection des moutons et des chèvres par *Brucella melitensis*.
+<sup>1</sup> Les dispositions de la présente section sont applicables à la lutte contre la brucellose ovine et caprine suite à des infections à *Brucella abortus, B. melitensis* ou *B. suis*.
 
-<sup>2</sup>
+<sup>2</sup> La période d’incubation est de 180 jours.
 
-Le diagnostic de brucellose des ovins et des caprins est établi:
-
-- a. lorsque l’examen sérologique ou allergique a donné un résultat positif, ou
-- b. si *Brucella melitensis* a été mise en évidence dans le matériel soumis à examen.
-
-<sup>3</sup> La période d’incubation est de 120 jours.
+[^190-1]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
 #### Art. 191
 
@@ -4264,10 +4586,11 @@ En cas de constat de brucellose des ovins et des caprins, le vétérinaire canto
 Il lève le séquestre:
 
 - a. lorsque tous les animaux du troupeau ont été éliminés et que les locaux ont été nettoyés et désinfectés, ou
-- b. lorsque deux examens sérologiques ou allergiques de toutes les chèvres et de tous les moutons âgés de plus de six mois ont donné un résultat négatif; le premier examen doit être effectué au plus tôt après élimination du dernier animal contaminé ou suspect et le deuxième au plus tôt 120 jours après le premier examen.
+- b.[^194-3] lorsque deux examens sérologiques ou tests d’allergie de toutes les chèvres et de tous les moutons âgés de plus de six mois ont donné un résultat négatif; le premier examen doit être effectué au plus tôt 90 jours après l’élimination du dernier animal contaminé ou suspect et le deuxième examen au plus tôt 180 jours après le premier.
 
 [^194-1]: Nouvelle expression selon le ch. I de l’O du 23 juin 2004, en vigueur depuis le 1<sup>er</sup> juil. 2004 ([RO 2004 3065](https://fedlex.data.admin.ch/eli/oc/2004/398)). Il a été tenu compte de cette mod. dans tout le texte.
 [^194-2]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^194-3]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
 #### Art. 195
 
@@ -4283,18 +4606,16 @@ Il lève le séquestre:
 
 #### Art. 196
 
-**Champ d’application et diagnostic**
+**Champ d’application[^196-1]**
 
 <sup>1</sup> Les dispositions de la présente section sont applicables à la lutte contre l’agalaxie infectieuse chez les brebis laitières et les chèvres.
 
-<sup>2</sup>
-
-Le diagnostic d’agalaxie infectieuse est établi:
-
-- a. lorsque l’examen sérologique a donné un résultat positif, ou
-- b. par la mise en évidence de *Mycoplasma agalactiae ssp. agalactiae* dans le matériel soumis à examen.
+<sup>2</sup> …[^196-2]
 
 <sup>3</sup> La période d’incubation est de 30 jours.
+
+[^196-1]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^196-2]: Abrogé par le ch. I de l’O du 31 août 2022, avec effet au 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
 #### Art. 197
 
@@ -4334,37 +4655,27 @@ Il lève le séquestre:
 
 [^200203a-1]: Abrogés par le ch. I de l’O du 25 mai 2011, avec effet au 1<sup>er</sup> juil. 2011 ([RO 2011 2691](https://fedlex.data.admin.ch/eli/oc/2011/371)).
 
-### Section 14 Épizooties équines: dourine, anémie infectieuse, morve****
+### Section 14 Épizooties équines: dourine et anémie infectieuse
 
 [^tit3-chap3-sec14-1]
 
-[^tit3-chap3-sec14-1]: Nouvelle teneur selon le ch. I de l’O du 20 juin 2014, en vigueur depuis le 1<sup>er</sup> août 2014 ([RO 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)).
+[^tit3-chap3-sec14-1]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
 #### Art. 204
 
 **Champ d’application et diagnostic**
 
-<sup>1</sup>
-
-Les dispositions de la présente section sont applicables à la lutte contre les épizooties suivantes des chevaux, des ânes, des zèbres et des équidés issus de leurs croisements:[^204-1]
-
-- a. dourine (Trypanosoma equiperdum);
-- b.[^204-2] …
-- c. anémie infectieuse;
-- d. morve.
+<sup>1</sup> Les dispositions de la présente section s’appliquent à la lutte contre la dourine et l’anémie infectieuse chez les chevaux, les ânes et les zèbres, ainsi que chez les animaux issus de leurs croisements.[^204-1]
 
 <sup>2</sup> L’OSAV détermine les méthodes d’examen pour le diagnostic des épizooties équines; il tient compte à cet effet des méthodes d’examen reconnues par l’Office international des épizooties.
 
-[^204-1]: Nouvelle teneur selon le ch. I de l’O du 20 juin 2014, en vigueur depuis le 1<sup>er</sup> août 2014 ([RO 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)).
-[^204-2]: Abrogée par le ch. I de l’O du 20 juin 2014, avec effet au 1<sup>er</sup> août 2014 ([RO 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)).
+[^204-1]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
 #### Art. 205
 
-**Obligation d’annoncer**[^205-1]
+[^205-1]
 
-Le vétérinaire cantonal annonce tous les cas de morve au médecin cantonal.
-
-[^205-1]: Nouvelle teneur selon le ch. I de l’O du 20 juin 2014, en vigueur depuis le 1<sup>er</sup> août 2014 ([RO 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)).
+[^205-1]: Abrogé par le ch. I de l’O du 31 août 2022, avec effet au 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
 #### Art. 206
 
@@ -4383,12 +4694,7 @@ En cas de constat d’une épizootie équine, le vétérinaire cantonal ordonne:
 
 <sup>2bis</sup> En cas de constat d’anémie infectieuse, le vétérinaire cantonal ordonne en outre l’application du séquestre simple de premier degré à toutes les unités d’élevage d’équidés dans un rayon d’au moins un kilomètre autour du troupeau contaminé.[^206-1]
 
-<sup>3</sup>
-
-Lors du constat de morve, le vétérinaire cantonal ordonne en outre:[^206-2]
-
-- a. la mise à mort des animaux contaminés et leur élimination;
-- b. l’examen par le vétérinaire officiel des animaux de l’écurie sous séquestre destinés à l’abattage.
+<sup>3</sup> …[^206-2]
 
 <sup>4</sup> Le séquestre est levé lorsque l’examen des animaux restants a révélé qu’ils sont indemnes de l’agent de l’épizootie.
 
@@ -4400,25 +4706,20 @@ En cas d’anémie infectieuse, le séquestre est levé:
 - b. si les animaux contaminés ont été éliminés et s’il est établi qu’ils ont été détenus dès leur arrivée dans le troupeau de manière à exclure la propagation de la maladie.[^206-3]
 
 [^206-1]: Introduit par le ch. I de l’O du 30 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
-[^206-2]: Nouvelle teneur selon le ch. I de l’O du 20 juin 2014, en vigueur depuis le 1<sup>er</sup> août 2014 ([RO 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)).
+[^206-2]: Abrogé par le ch. I de l’O du 31 août 2022, avec effet au 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 [^206-3]: Introduit par le ch. I de l’O du 30 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
 
 ### Section 15 Brucellose porcine
 
 #### Art. 207
 
-**Champ d’application et diagnostic**
+**Champ d’application et période d’incubation**[^207-1]
 
-<sup>1</sup> Les dispositions de la présente section sont applicables à la lutte contre les infections des porcs par *Brucella suis* ainsi que par *Brucella abortus* et *Brucella meliten**sis*.
+<sup>1</sup> Les dispositions de la présente section sont applicables à la lutte contre la brucellose porcine suite à des infections par *Brucella abortus, B. melitensis* ou *B. suis*.
 
-<sup>2</sup>
+<sup>2</sup> La période d’incubation est de 90 jours.
 
-Le diagnostic de brucellose porcine est établi:
-
-- a. lorsque *Brucella suis, abortus* ou *melitensis* a été mise en évidence dans le matériel soumis à examen;
-- b. lorsque l’examen sérologique chez un animal provenant d’un troupeau dans lequel la brucellose a été déjà diagnostiquée selon la let. a, a donné un résultat positif.
-
-<sup>3</sup> La période d’incubation est de 90 jours.
+[^207-1]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
 #### Art. 208
 
@@ -4468,7 +4769,11 @@ Il lève le séquestre:
 
 #### Art. 212
 
-Le présent chapitre concerne les épizooties à combattre, à l’exception de la nécrose pancréatique infectieuse (art. 285 ss) et de la peste des écrevisses (art. 288 ss).
+[^212-1]
+
+Le présent chapitre concerne les épizooties à combattre, à l’exception de la peste des écrevisses et de l’infection par le virus du syndrome des points blancs chez les crustacés.
+
+[^212-1]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
 ### Section 2 Leptospirose
 
@@ -4510,7 +4815,7 @@ En cas de constat de leptospirose, le vétérinaire cantonal ordonne pour le tro
 
 Il n’est pas alloué d’indemnité pour les pertes d’animaux mentionnées à l’art. 32, al. 1, let. a et b, LFE.
 
-### Section 3**** Arthrite/encéphalite caprine
+### Section 3 Arthrite/encéphalite caprine
 
 [^tit3-chap4-sec3-1]
 
@@ -4554,10 +4859,12 @@ Il y a suspicion d’AEC si des symptômes cliniques caractéristiques de cette 
 
 <sup>4</sup>
 
-La suspicion est considérée comme infirmée:
+L’exposition à la contagion est considérée comme infirmée:[^219-1]
 
 - a. si deux examens des animaux suspects de contagion, effectués à un intervalle de six mois, ont donné un résultat négatif, ou
 - b. si les animaux suspects de contagion ont été immédiatement éliminés, et qu’un examen de tous les animaux, effectué six mois plus tard, a donné un résultat négatif.
+
+[^219-1]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
 #### Art. 220
 
@@ -4694,7 +5001,11 @@ Il n’est pas alloué d’indemnité pour les pertes d’animaux mentionnées �
 
 <sup>1</sup> Le laboratoire annonce au vétérinaire cantonal les résultats sérologiques ou bactériologiques positifs.
 
+<sup>1bis</sup> En cas de résultat sérologique ou bactériologique positif chez un bélier, les boucs appartenant au même troupeau doivent être testés.[^234-1]
+
 <sup>2</sup> Les autres dispositions des art. 61 à 64 ne sont pas applicables.
+
+[^234-1]: Introduit par le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
 #### Art. 235
 
@@ -4712,7 +5023,7 @@ Le canton peut prescrire que:
 
 Il n’est pas alloué d’indemnité pour les pertes d’animaux mentionnées à l’art. 32, al. 1, let. a, b et c, LFE.
 
-### Section 8**** Paratuberculose
+### Section 8 Paratuberculose
 
 [^tit3-chap4-sec8-1]
 
@@ -4722,9 +5033,9 @@ Il n’est pas alloué d’indemnité pour les pertes d’animaux mentionnées �
 
 **Champ d’application**[^236a-1]
 
-Les dispositions de la présente section sont applicables à la lutte contre la paratuberculose des bovins, ovins et caprins, des buffles, des camélidés du Nouveau-Monde et des ruminants sauvages détenus en enclos.
+Les dispositions de la présente section sont applicables à la lutte contre la paratuberculose chez les animaux de l’espèce bovine, les buffles et les bisons, les animaux des espèces ovine et caprine, les camélidés, ainsi que les ruminants sauvages détenus en enclos.
 
-[^236a-1]: Introduit par le ch. I de l’O du 25 avr. 2018, en vigueur depuis le 1<sup>er</sup> juin 2018 ([RO 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)).
+[^236a-1]: Introduit par le ch. I de l’O du 25 avr. 2018 ([RO 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)). Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
 #### Art. 237
 
@@ -4757,7 +5068,7 @@ Les dispositions de la présente section sont applicables à la lutte contre la 
 En cas de suspicion, le vétérinaire cantonal ordonne en outre les mesures suivantes:
 
 - a.[^238-1] l’isolement de l’animal suspect et l’interdiction de le déplacer;
-- b.[^238-2] l’interdiction de déplacer les descendants des animaux femelles visés à la let. a, nés dans les 12 derniers mois précédant l’apparition du cas de suspicion et vivant encore dans le troupeau;
+- b.[^238-2] l’interdiction de déplacer les descendants des animaux femelles visés à la let. a, nés dans les 12 derniers mois précédant l’apparition du cas de suspicion;
 - c. l’élimination du lait de l’animal suspect comme un sous-produit de catégorie 2 au sens de l’art. 6 OESPA[^238-3].
 
 <sup>4</sup>
@@ -4768,7 +5079,7 @@ La suspicion de paratuberculose est considérée comme infirmée aux conditions 
 - b. le résultat de l’examen clinique a été négatif dans les cas visés à l’al. 2.
 
 [^238-1]: Nouvelle teneur selon le ch. I de l’O du 31 mars 2021, en vigueur depuis le 1<sup>er</sup> mai 2021 ([RO 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
-[^238-2]: Nouvelle teneur selon le ch. I de l’O du 31 mars 2021, en vigueur depuis le 1<sup>er</sup> mai 2021 ([RO 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
+[^238-2]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 [^238-3]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
 
 #### Art. 238a
@@ -4777,28 +5088,29 @@ La suspicion de paratuberculose est considérée comme infirmée aux conditions 
 
 <sup>1</sup>
 
-Si la paratuberculose est constatée, le vétérinaire cantonal ordonne le séquestre simple de premier degré sur tous les troupeaux de l’unité d’élevage contaminée. Il ordonne en outre:
+Lors de chaque cas d’épizootie, le vétérinaire cantonal ordonne en outre les mesures suivantes:[^238a-1]
 
-- a.[^238a-1] l’isolement, la mise à mort et l’élimination des animaux contaminés;
-- a<sup>bis</sup>.[^238a-2] l’isolement et, au plus tard à l’âge de 12 mois, l’abattage des descendants des animaux femelles visés à la let. a, nés dans les 12 mois précédant l’apparition du cas avéré et vivant encore dans le troupeau;
+- a.[^238a-2] l’isolement, la mise à mort et l’élimination des animaux contaminés;
+- a<sup>bis</sup>.[^238a-3] l’isolement et, au plus tard à l’âge de 12 mois, l’abattage des descendants des animaux femelles visés à la let. a, nés dans les 12 mois précédant l’apparition du cas d’épizootie;
 - b. l’examen clinique des animaux des espèces réceptives à l’épizootie du troupeau;
-- c. l’élimination du lait des animaux suspects ou contaminés comme un sous-produit de catégorie 2 au sens de l’art. 6 OESPA[^238a-3];
+- c. l’élimination du lait des animaux suspects ou contaminés comme un sous-produit de catégorie 2 au sens de l’art. 6 OESPA[^238a-4];
 - d. le nettoyage et la désinfection des locaux de stabulation.
 
-<sup>1bis</sup> Il interdit de déplacer les animaux visés à l’al. 1, let. a<sup>bis</sup>, jusqu’à leur abattage.[^238a-4]
+<sup>1bis</sup> Il interdit de déplacer les animaux visés à l’al. 1, let. a<sup>bis</sup>, jusqu’à leur abattage.[^238a-5]
 
 <sup>2</sup>
 
 Il lève le séquestre aux conditions suivantes:
 
 - a. aucun animal suspect n’a été découvert à l’issue de l’examen clinique;
-- b.[^238a-5] les animaux contaminés ont été mis à mort et leurs cadavres éliminés, et les locaux de stabulation, nettoyés et désinfectés.
+- b.[^238a-6] les animaux contaminés ont été mis à mort et leurs cadavres éliminés, et les locaux de stabulation, nettoyés et désinfectés.
 
-[^238a-1]: Nouvelle teneur selon le ch. I de l’O du 31 mars 2021, en vigueur depuis le 1<sup>er</sup> mai 2021 ([RO 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
-[^238a-2]: Introduite par le ch. I de l’O du 31 mars 2021, en vigueur depuis le 1<sup>er</sup> mai 2021 ([RO 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
-[^238a-3]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
-[^238a-4]: Introduit par le ch. I de l’O du 31 mars 2021, en vigueur depuis le 1<sup>er</sup> mai 2021 ([RO 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
-[^238a-5]: Nouvelle teneur selon le ch. I de l’O du 31 mars 2021, en vigueur depuis le 1<sup>er</sup> mai 2021 ([RO 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
+[^238a-1]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^238a-2]: Nouvelle teneur selon le ch. I de l’O du 31 mars 2021, en vigueur depuis le 1<sup>er</sup> mai 2021 ([RO 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
+[^238a-3]: Introduite par le ch. I de l’O du 31 mars 2021 ([RO 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)). Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^238a-4]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^238a-5]: Introduit par le ch. I de l’O du 31 mars 2021, en vigueur depuis le 1<sup>er</sup> mai 2021 ([RO 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
+[^238a-6]: Nouvelle teneur selon le ch. I de l’O du 31 mars 2021, en vigueur depuis le 1<sup>er</sup> mai 2021 ([RO 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
 
 #### Art. 239
 
@@ -4806,7 +5118,7 @@ Il lève le séquestre aux conditions suivantes:
 
 Il n’est pas alloué d’indemnités pour les pertes d’animaux mentionnées à l’art. 32, al. 1, let. a, b et d, LFE.
 
-### Section 8*a***** Fièvre catarrhale du mouton et maladie épizootique hémorragique****
+### Section 8*a* Fièvre catarrhale du mouton et maladie épizootique hémorragique
 
 [^tit3-chap4-sec8a-1][^tit3-chap4-sec8a-2]
 
@@ -4817,13 +5129,15 @@ Il n’est pas alloué d’indemnités pour les pertes d’animaux mentionnées 
 
 **Généralités**[^239a-1]
 
-<sup>1</sup> Sont réputés réceptifs à la fièvre catarrhale du mouton (blue tongue ou maladie de la langue bleue) et à la maladie épizootique hémorragique (EHD) tous les ruminants et camélidés.
+<sup>1</sup> Sont réputés réceptifs à la fièvre catarrhale du mouton (*bluetongue* ou maladie de la langue bleue) et à la maladie épizootique hémorragique (EHD) tous les artiodactyles à l’exception des porcs.[^239a-2]
 
-<sup>2</sup> Le diagnostic de la fièvre catarrhale du mouton est établi si, dans un troupeau comportant des animaux réceptifs, le virus de la fièvre catarrhale du mouton est mis en évidence.
+<sup>2</sup> Le diagnostic de la fièvre catarrhale du mouton est établi si, dans un troupeau comportant des animaux réceptifs, le virus de la fièvre catarrhale du mouton des sérotypes 1 à 24 a été mis en évidence.[^239a-3]
 
 <sup>3</sup> Le diagnostic d’EHD est établi si, dans un troupeau comportant des animaux réceptifs, le virus de l’EHD est mis en évidence.
 
 [^239a-1]: Nouvelle teneur selon le ch. I de l’O du 28 oct. 2015, en vigueur depuis le 1<sup>er</sup> déc. 2015 ([RO 2015 4255](https://fedlex.data.admin.ch/eli/oc/2015/716)).
+[^239a-2]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^239a-3]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
 #### Art. 239b
 
@@ -4984,29 +5298,34 @@ Les restrictions ci-dessus sont applicables:
 
 Il n’est pas alloué d’indemnité pour les pertes dues à la MCE.
 
-### Section 9*a***** Atteintes encéphalomyélitiques équines: encéphalomyélite équine de l’Ouest, de l’Est et vénézuélienne, fièvre du Nil occidental (*West Nile*), encéphalite japonaise
+### Section 9*a* Encéphalomyélite équine vénézuélienne
 
-[^tit3-chap4-sec9a-1]
+[^tit3-chap4-sec9a-1][^tit3-chap4-sec9a-2]
 
 [^tit3-chap4-sec9a-1]: Introduite par le ch. I de l’O du 20 juin 2014, en vigueur depuis le 1<sup>er</sup> août 2014 ([RO 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)).
+[^tit3-chap4-sec9a-2]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
 #### Art. 244a
 
-**Champ d’application et diagnostic**
+**Champ d’application et diagnostic**[^244a-1]
 
-<sup>1</sup> Les dispositions de la présente section sont applicables à la lutte contre les atteintes encéphalomyélitiques équines des chevaux, des ânes, des zèbres et des équidés issus de leurs croisements.
+<sup>1</sup> Les dispositions de la présente section s’appliquent à la lutte contre l’encéphalomyélite équine vénézuélienne chez les chevaux, les ânes et les zèbres, ainsi que chez les animaux issus de leurs croisements.
 
-<sup>2</sup> Le constat d’une atteinte encéphalomyélitique équine est établi lorsque l’agent pathogène de celle-ci a été mis en évidence.
+<sup>2</sup> Le constat d’encéphalomyélite équine vénézuélienne est établi lorsque l’agent pathogène a été mis en évidence.
 
-<sup>3</sup> L’OSAV détermine les méthodes d’analyse permettant de mettre en évidence les atteintes encéphalomyélitiques équines. Il tient compte des méthodes d’analyse reconnues par l’Organisation mondiale de la santé animale.
+<sup>3</sup> L’OSAV détermine les méthodes de mise en évidence de l’encéphalomyélite équine vénézuélienne. Pour ce faire, il tient compte des méthodes d’analyses reconnues par l’Organisation mondiale de la santé animale.
 
-<sup>4</sup> L’OSAV peut régionaliser, généraliser à l’ensemble du territoire ou étendre à d’autres espèces animales les analyses et mesures requises pour surveiller et combattre les atteintes encéphalomyélitiques équines.
+<sup>4</sup> L’OSAV peut régionaliser ou généraliser à l’ensemble du territoire les mesures nécessaires pour surveiller et combattre l’encéphalomyélite équine vénézuélienne et les appliquer à d’autres espèces animales.
+
+[^244a-1]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
 #### Art. 244b
 
-**Obligation d’annoncer**
+**Obligation d’annoncer**[^244b-1]
 
-Le vétérinaire cantonal annonce toute suspicion d’une atteinte encéphalomyélitique équine au médecin cantonal.
+Le vétérinaire cantonal annonce toute suspicion d’encéphalomyélite équine vénézuélienne au médecin cantonal.
+
+[^244b-1]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
 #### Art. 244c
 
@@ -5014,30 +5333,37 @@ Le vétérinaire cantonal annonce toute suspicion d’une atteinte encéphalomy�
 
 <sup>1</sup>
 
-Une atteinte encéphalomyélitique équine doit être suspectée dans l’un des cas suivants:
+L’encéphalomyélite équine vénézuélienne doit être suspectée dans l’un des cas suivants:[^244c-1]
 
 - a. l’analyse sérologique effectuée sur un équidé a donné un résultat positif;
 - b. des investigations épidémiologiques indiquent qu’il y a eu contamination.
 
 <sup>2</sup> En cas de suspicion, le vétérinaire cantonal ordonne le séquestre simple de premier degré sur le troupeau concerné jusqu’à ce que la suspicion soit infirmée.
 
+[^244c-1]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+
 #### Art. 244d
 
 **Constat d’une atteinte encéphalomyélitique équine**
 
-<sup>1</sup> En cas de constat d’une atteinte encéphalomyélitique équine, le vétérinaire cantonal ordonne le séquestre simple de premier degré sur le troupeau contaminé.
+<sup>1</sup> En cas d’encéphalomyélite équine vénézuélienne, le vétérinaire cantonal ordonne le séquestre simple de premier degré sur le troupeau contaminé.[^244d-1]
 
 <sup>2</sup>
 
 Il ordonne en outre:
 
 - a. des investigations épidémiologiques;
+- a<sup>bis</sup>.[^244d-2] l’élimination des animaux contaminés;
 - b. le nettoyage et la désinfection des écuries;
 - c. d’autres mesures nécessaires pour empêcher la transmission de l’épizootie, comme l’interdiction de transfuser à d’autres animaux les produits sanguins prélevés sur les équidés du troupeau contaminé ou la protection du troupeau contre les moustiques.
 
-<sup>3</sup> En cas de constat d’encéphalomyélite équine vénézuélienne, le vétérinaire cantonal ordonne de surcroît l’élimination des animaux contaminés.
+<sup>3</sup> …[^244d-3]
 
 <sup>4</sup> Il lève le séquestre si l’examen des animaux restants a apporté la preuve que ceux-ci ne peuvent pas contaminer d’autres animaux ou des êtres humains.
+
+[^244d-1]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^244d-2]: Introduite par le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^244d-3]: Abrogé par le ch. I de l’O du 31 août 2022, avec effet au 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
 #### Art. 244e
 
@@ -5045,7 +5371,7 @@ Il ordonne en outre:
 
 Il n’est pas alloué d’indemnités pour les pertes d’animaux visées à l’art. 32, al. 1, let. a, b et d, LFE.
 
-### Section 10**** Pneumonies porcines
+### Section 10 Pneumonies porcines
 
 [^tit3-chap4-sec10-1]
 
@@ -5202,9 +5528,11 @@ Il n’est pas alloué d’indemnité pour les pertes d’animaux dues à l’AP
 
 #### Art. 250
 
-**Champ d’application et obligation d’annoncer**
+**Champ d’application**[^250-1]
 
-Les dispositions de la présente section sont applicables à la lutte contre la chlamydiae des oiseaux (psittacose-ornithose).
+Les dispositions de la présente section sont applicables à la lutte contre la chlamydiose des oiseaux (*Chlamydia psittaci*).
+
+[^250-1]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
 #### Art. 251
 
@@ -5228,7 +5556,7 @@ En cas de constat de chlamydiose, le vétérinaire cantonal ordonne:
 
 - a. le séquestre simple de second degré sur l’effectif contaminé;
 - b. l’identification par des bagues et l’enregistrement de tous les psittacidés;
-- c. la mise à mort d’oiseaux manifestement malades; il peut exceptionnellement autoriser leur traitement assorti des précautions nécessaires;
+- c.[^253-1] la mise à mort des oiseaux manifestement malades; il peut exceptionnellement autoriser leur traitement s’il ordonne en même temps les mesures de sécurité qui s’imposent;
 - d. le traitement des autres oiseaux de l’effectif, si leur détenteur ne prévoit pas de les éliminer;
 - e. l’examen des oiseaux péris en cours de traitement.
 
@@ -5239,13 +5567,15 @@ Il lève le séquestre:
 - a. pour les psittacidés: lorsque tous les oiseaux de l’effectif ont été éliminés ou qu’un examen des oiseaux, effectué au plus tôt deux semaines après la fin du traitement, a donné un résultat négatif;
 - b. pour les autres oiseaux: une fois le traitement terminé.
 
+[^253-1]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+
 #### Art. 254
 
 **Indemnisation**
 
 Il n’est pas alloué d’indemnité pour les pertes d’animaux mentionnées à l’art. 32, al. 1, let. a et b, LFE.
 
-### Section 12**** Infection des volailles par *Salmonella*****
+### Section 12 Infection des volailles par *Salmonella*
 
 [^tit3-chap4-sec12-1][^tit3-chap4-sec12-2]
 
@@ -5532,7 +5862,7 @@ Le diagnostic de la loque américaine des abeilles est établi par la mise en é
 
 **Mesures en cas de suspicion**[^270-1]
 
-En cas de suspicion de loque américaine des abeilles, l’inspecteur des ruchers doit faire parvenir au laboratoire les échantillons nécessaires à la mise en évidence de *Paenib**acillus la**r**vae*.
+En cas de suspicion de loque américaine des abeilles, l’inspecteur des ruchers doit faire parvenir au laboratoire les échantillons nécessaires à la mise en évidence de *Paenib**acillus larvae*.
 
 [^270-1]: Nouvelle teneur selon le ch. I de l’O du 19 août 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 4255](https://fedlex.data.admin.ch/eli/oc/2009/522)).
 
@@ -5557,7 +5887,7 @@ En cas de constat de loque américaine des abeilles sur le rucher contaminé, le
 Les mesures suivantes sont applicables dans la zone d’interdiction:[^271-5]
 
 - a.[^271-6] il est interdit d’offrir, de déplacer et d’introduire dans la zone d’interdiction des abeilles ou des rayons. Les ustensiles ne peuvent être transportés dans un autre rucher qu’après avoir été nettoyés et désinfectés;
-- b.[^271-7] le vétérinaire cantonal peut autoriser les déplacements et l’introduction d’abeilles à l’intérieur de la zone d’interdiction en prenant les mesures préventives nécessaires.
+- b.[^271-7] le vétérinaire cantonal peut autoriser les déplacements d’abeilles et l’introduction d’abeilles dans la zone d’interdiction s’il ordonne les mesures de sécurité qui s’imposent;
 - c. l’inspecteur des ruchers contrôle toutes les colonies de la zone d’interdiction quant à la loque américaine des abeilles dans les 30 jours.
 
 <sup>3</sup>
@@ -5575,7 +5905,7 @@ Le vétérinaire cantonal lève les mesures d’interdiction:
 [^271-4]: Introduit par le ch. I de l’O du 14 janv. 2009, en vigueur depuis le 1<sup>er</sup> mars 2009 ([RO 2009 581](https://fedlex.data.admin.ch/eli/oc/2009/101)).
 [^271-5]: Nouvelle teneur selon le ch. I de l’O du 14 janv. 2009, en vigueur depuis le 1<sup>er</sup> mars 2009 ([RO 2009 581](https://fedlex.data.admin.ch/eli/oc/2009/101)).
 [^271-6]: Nouvelle teneur selon le ch. I de l’O du 28 oct. 2015, en vigueur depuis le 1<sup>er</sup> déc. 2015 ([RO 2015 4255](https://fedlex.data.admin.ch/eli/oc/2015/716)).
-[^271-7]: Nouvelle teneur selon le ch. I de l’O du 28 oct. 2015, en vigueur depuis le 1<sup>er</sup> déc. 2015 ([RO 2015 4255](https://fedlex.data.admin.ch/eli/oc/2015/716)).
+[^271-7]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 [^271-8]: Nouvelle teneur selon le ch. I de l’O du 14 janv. 2009, en vigueur depuis le 1<sup>er</sup> mars 2009 ([RO 2009 581](https://fedlex.data.admin.ch/eli/oc/2009/101)).
 
 #### Art. 271a
@@ -5605,9 +5935,9 @@ Il n’est pas alloué d’indemnités pour les pertes d’animaux mentionnées 
 En cas de constat de loque européenne des abeilles sur le rucher contaminé, le vétérinaire cantonal ordonne:[^273-2]
 
 - a. l’examen immédiat de toutes les colonies par l’inspecteur des ruchers;
-- b. l’interdiction de déplacer des abeilles et des rayons;
+- b.[^273-3] le vétérinaire cantonal peut autoriser les déplacements et l’introduction d’abeilles à l’intérieur de la zone d’interdiction s’il ordonne les mesures de sécurité qui s’imposent;
 - c. la destruction, en l’espace de dix jours, de toutes les colonies et de leurs rayons ou la destruction des colonies atteintes et des colonies suspectes, conformément aux instructions de l’inspecteur des ruchers;
-- d.[^273-3] l’interdiction d’utiliser le miel pour nourrir des abeilles et de le vendre à cette fin;
+- d.[^273-4] l’interdiction d’utiliser le miel pour nourrir des abeilles et de le vendre à cette fin;
 - e. le nettoyage et la désinfection des ruches et des ustensiles.
 
 <sup>2</sup> Il délimite, d’entente avec l’inspecteur des ruchers, une zone d’interdiction qui s’étend en général sur un rayon de 1 km autour du rucher contaminé. Lors de cette délimitation, il tient compte de la configuration du terrain, notamment des frontières communales, cantonales et nationales et des obstacles naturels présents sur le terrain, tels que les forêts, les côtes, les crêtes, les vallées et les lacs.
@@ -5616,8 +5946,8 @@ En cas de constat de loque européenne des abeilles sur le rucher contaminé, le
 
 Les mesures suivantes sont applicables dans la zone d’interdiction:
 
-- a.[^273-4] il est interdit d’offrir, de déplacer et d’introduire dans la zone d’interdiction des abeilles ou des rayons. Les ustensiles ne peuvent être transportés dans un autre rucher qu’après avoir été nettoyés et désinfectés;
-- b.[^273-5] le vétérinaire cantonal peut autoriser les déplacements et l’introduction d’abeilles à l’intérieur de la zone d’interdiction en prenant les mesures préventives nécessaires.
+- a.[^273-5] il est interdit d’offrir, de déplacer et d’introduire dans la zone d’interdiction des abeilles ou des rayons. Les ustensiles ne peuvent être transportés dans un autre rucher qu’après avoir été nettoyés et désinfectés;
+- b.[^273-6] le vétérinaire cantonal peut autoriser les déplacements et l’introduction d’abeilles à l’intérieur de la zone d’interdiction en prenant les mesures préventives nécessaires.
 
 <sup>4</sup> L’inspecteur des ruchers règle la mise en valeur des vieux rayons, de la cire et du miel.
 
@@ -5634,9 +5964,10 @@ Le vétérinaire cantonal lève les mesures d’interdiction:
 
 [^273-1]: Nouvelle teneur selon le ch. I de l’O du 14 janv. 2009, en vigueur depuis le 1<sup>er</sup> mars 2009 ([RO 2009 581](https://fedlex.data.admin.ch/eli/oc/2009/101)).
 [^273-2]: Nouvelle teneur selon le ch. I de l’O du 19 août 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 4255](https://fedlex.data.admin.ch/eli/oc/2009/522)).
-[^273-3]: Nouvelle teneur selon le ch. I de l’O du 19 août 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 4255](https://fedlex.data.admin.ch/eli/oc/2009/522)).
-[^273-4]: Nouvelle teneur selon le ch. I de l’O du 28 oct. 2015, en vigueur depuis le 1<sup>er</sup> déc. 2015 ([RO 2015 4255](https://fedlex.data.admin.ch/eli/oc/2015/716)).
+[^273-3]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^273-4]: Nouvelle teneur selon le ch. I de l’O du 19 août 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 4255](https://fedlex.data.admin.ch/eli/oc/2009/522)).
 [^273-5]: Nouvelle teneur selon le ch. I de l’O du 28 oct. 2015, en vigueur depuis le 1<sup>er</sup> déc. 2015 ([RO 2015 4255](https://fedlex.data.admin.ch/eli/oc/2015/716)).
+[^273-6]: Nouvelle teneur selon le ch. I de l’O du 28 oct. 2015, en vigueur depuis le 1<sup>er</sup> déc. 2015 ([RO 2015 4255](https://fedlex.data.admin.ch/eli/oc/2015/716)).
 
 #### Art. 273a
 
@@ -5654,7 +5985,7 @@ Il n’est pas alloué d’indemnités pour les pertes d’animaux mentionnées 
 
 [^274-1]: Nouvelle teneur selon le ch. I de l’O du 25 avr. 2018, en vigueur depuis le 1<sup>er</sup> juin 2018 ([RO 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)).
 
-### Section 17**** Infestation par le petit coléoptère de la ruche *(Aethina tumida)*
+### Section 17 Infestation par le petit coléoptère de la ruche *(Aethina tumida)*
 
 [^tit3-chap4-sec17-1]
 
@@ -5718,13 +6049,21 @@ Il lève la zone de protection et la zone de surveillance:
 
 <sup>1</sup> Dans la zone de protection et dans la zone de surveillance, il est interdit d’offrir, de déplacer et d’introduire des abeilles et des bourdons, du matériel apicole usagé, du miel en rayon et des sous-produits apicoles. Les ustensiles ne peuvent être déplacés qu’après avoir été nettoyés et désinfestés.
 
-<sup>2</sup> Le vétérinaire cantonal peut, en prenant les précautions nécessaires, autoriser le déplacement d’abeilles et de bourdons à l’intérieur de la zone de protection ou à l’intérieur de la zone de surveillance ou l’introduction d’abeilles et de bourdons de la zone de surveillance dans la zone de protection ou d’une région extérieure dans la zone de protection ou dans la zone de surveillance.
+<sup>2</sup>
+
+S’il ordonne les mesures de sécurité qui s’imposent, le vétérinaire cantonal peut autoriser:
+
+- a. le déplacement d’abeilles et de bourdons à l’intérieur de la zone de protection ou de la zone de surveillance;
+- b. l’introduction d’abeilles et de bourdons provenant de la zone de surveillance dans la zone de protection;
+- c. l’introduction d’abeilles et de bourdons provenant de l’extérieur dans la zone de protection ou dans la zone de surveillance.[^274e-1]
 
 <sup>3</sup> L’inspecteur des ruchers contrôle, dans un délai de 30 jours à compter de la délimitation de la zone de protection, tous les ruchers qui s’y trouvent et tous les nids de bourdons connus du vétérinaire cantonal compétent, pour déterminer s’ils sont infestés par le petit coléoptère de la ruche. Dans les ruchers et les nids de bourdons qui se sont révélés non infestés, il pose des pièges et inspecte ces derniers régulièrement.
 
 <sup>4</sup> L’inspecteur des ruchers pose dans la zone de surveillance, dans un délai de 30 jours à compter de la délimitation de celle-ci, des pièges dans les ruchers et dans les nids de bourdons choisis par le vétérinaire cantonal compétent et inspecte ces pièges régulièrement. Il peut déléguer ces travaux aux apiculteurs. Dans ce cas, ces derniers doivent l’informer régulièrement des résultats des inspections. L’OSAV définit, dans une directive technique, le nombre minimal de ruchers à inspecter.
 
 <sup>5</sup> Au printemps suivant l’apparition de l’épizootie, tous les ruchers, nids de bourdons connus du vétérinaire cantonal compétent et exploitations apicoles infestées l’année précédente se trouvant dans la zone de protection doivent faire l’objet d’un contrôle de vérification par l’inspecteur des ruchers.
+
+[^274e-1]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
 #### Art. 274f
 
@@ -5738,7 +6077,41 @@ L’OSAV peut édicter, en accord avec le Centre de recherches apicoles, des dis
 
 Il n’est pas alloué d’indemnités pour les pertes d’animaux mentionnées à l’art. 32, al. 1, let. a, b et d, LFE.
 
-### Chapitre 5 Épizooties des animaux aquatiques****
+**Art. 274**h[^274g-1]Apinella
+
+<sup>1</sup>
+
+L’OSAV exploite le système informatique « Apinella » de détection précoce de l’infestation des colonies d’abeilles par le petit coléoptère de la ruche *(Aethina tumida)*. Ce système informatique contient les données suivantes:
+
+- a.
+
+  concernant les apiculteurs qui utilisent Apinella:
+
+  - 1\. leur nom, leur adresse, leur numéro de téléphone et leur adresse électronique,
+  - 2\. les numéros d’identification de leurs ruchers, les coordonnées de ceux-ci et le nombre de colonies qui y sont détenues;
+
+- b. les dates et les résultats du contrôle des colonies à l’égard de l’infestation du petit coléoptère de la ruche.
+
+<sup>2</sup>
+
+Pour les données visées à l’al. 1, les droits d’accès suivants sont applicables:
+
+- a. les apiculteurs peuvent traiter leurs propres données;
+- b. les collaborateurs de l’OSAV peuvent traiter toutes les données;
+- c. les vétérinaires cantonaux peuvent consulter les résultats des contrôles effectués sur les colonies d’abeilles dans leur canton.
+
+<sup>3</sup> L’OSAV est responsable du respect des prescriptions en matière de protection des données, de sécurité des données et de sécurité informatique.
+
+<sup>4</sup> Les données peuvent être conservées 30 ans au plus dans le système informatique. L’archivage est régi par les dispositions de la loi du 26 juin 1998 sur l’archivage[^274g-2]. Les données anonymisées peuvent être conservées au-delà du délai de 30 ans.
+
+<sup>5</sup> Le vétérinaire cantonal est tenu de recruter des apiculteurs disposés à utiliser Apinella. Leur sélection doit, dans la mesure du possible, permettre d’obtenir un tableau représentatif de la présence du petit coléoptère de la ruche dans le canton. Le vétérinaire cantonal communique à l’OSAV les données visées à l’al. 1, let. a.
+
+<sup>6</sup> Les apiculteurs disposés à utiliser Apinella doivent contrôler leurs colonies d’abeilles toutes les deux semaines entre mai et octobre à l’égard de l’infestation par le petit coléoptère de la ruche et saisir les résultats des contrôles dans Apinella.
+
+[^274g-1]: Introduit par le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^274g-2]: [RS 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+
+### Chapitre 5 Épizooties des animaux aquatiques
 
 [^tit3-chap5-1]
 
@@ -5756,9 +6129,9 @@ Il n’est pas alloué d’indemnités pour les pertes d’animaux mentionnées 
 
 **Laboratoire de référence**[^277-1]
 
-Le laboratoire national de référence et d’analyses pour les épizooties des animaux aquatiques est le laboratoire de diagnostic des maladies de poissons de la Faculté de médecine vétérinaire de l’Université de Berne.
+Le laboratoire national de référence et d’analyses pour les épizooties des animaux aquatiques est l’Institut pour la santé des poissons et de la faune sauvage intégré à la faculté de médecine vétérinaire de l’Université de Berne.
 
-[^277-1]: Nouvelle teneur selon le ch. I de l’O du 30 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
+[^277-1]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
 #### Art. 278
 
@@ -5776,7 +6149,70 @@ L’OSAV édicte des dispositions d’exécution de caractère technique pour le
 
 [^279-1]: Nouvelle teneur selon le ch. I de l’O du 30 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
 
-### Section 2 Nécrose hématopoïétique infectieuse, septicémie hémorragique virale et anémie infectieuse des salmonidés****
+### Section 1*a* Nécrose hématopoïétique épizootique, infection par le virus du syndrome de Taura et infection par le virus de la tête jaune
+
+[^tit3-chap5-sec1a-1]
+
+[^tit3-chap5-sec1a-1]: Introduite par le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+
+### A. Nécrose hématopoïétique épizootique
+
+#### Art. 279a
+
+**Généralités**
+
+<sup>1</sup> Sont réputées réceptives à la nécrose hématopoïétique épizootique (NHE) la truite arc-en-ciel (*Oncorhynchus mykiss*) et la perche commune (*Perca fluviatilis*).
+
+<sup>2</sup> Le diagnostic de NHE est établi si, dans un effectif d’animaux réceptifs, le virus de la NHE a été mis en évidence chez un animal au moins.
+
+#### Art. 279b
+
+**Repeuplement après un cas d’épizootie**
+
+Après la désinfection et la désinfestation d’une exploitation contaminée, un délai de huit semaines doit être respecté avant le renouvellement de l’effectif.
+
+### B. Infections par le virus du syndrome de Taura et infections par le virus de la tête jaune
+
+#### Art. 279c
+
+**Infection par le virus du syndrome de Taura**
+
+<sup>1</sup>
+
+Sont réputées sensibles à l’infection par le virus du syndrome de Taura les crevettes des espèces suivantes:
+
+- a. *Farfantepenaeus aztecus;*
+- b. *Litopenaeus setiferus*;
+- c. *Litopenaeus stylirostris*;
+- d. *Litopenaeus vannamei*;
+- e. *Metapenaeus ensis*;
+- f. *Penaeus monodon*.
+
+<sup>2</sup> L’infection par le virus du syndrome de Taura est établie si, dans un effectif d’animaux réceptifs, le virus du syndrome de Taura a été mis en évidence chez un animal au moins.
+
+#### Art. 279d
+
+**Infection par le virus de la tête jaune**
+
+<sup>1</sup>
+
+Sont réputées sensibles à l’infection par le virus de la tête jaune les crevettes des espèces suivantes:
+
+- a. *Litopenaeus stylirostris*;
+- b. *Litopenaeus vannamei*;
+- c. *Metapenaeus affinis*;
+- d. *Palaemonetes pugio*;
+- e. *Penaeus monodon*.
+
+<sup>2</sup> L’infection par le virus de la tête jaune est établie si, dans un effectif d’animaux réceptifs, le virus de la tête jaune du génotype I a été mis en évidence chez un animal au moins.
+
+#### Art. 279e
+
+**Repeuplement après un cas d’épizootie**
+
+Après la désinfection et la désinfestation d’une exploitation contaminée, un délai de huit semaines doit être respecté avant le repeuplement.
+
+### Section 2 Nécrose hématopoïétique infectieuse, septicémie hémorragique virale et anémie infectieuse des salmonidés
 
 [^tit3-chap5-sec2-1]
 
@@ -5794,7 +6230,7 @@ Sont considérées comme espèces de poissons sensibles:
 
 - a. à la NHI: notamment tous les salmonidés et les brochets;
 - b. à la SHV: notamment tous les salmonidés et les brochets;
-- c. à l’AIS: notamment le saumon atlantique (*Salmo salar*), la truite arc-en-ciel (*Oncorhynchus mykiss*) et la truite brune (*Salmo tru**t**ta* spp*.*).
+- c. à l’AIS: notamment le saumon atlantique (*Salmo salar*), la truite arc-en-ciel (*Oncorhynchus mykiss*) et la truite brune (*Salmo trutta* spp*.*).
 
 <sup>3</sup> Le diagnostic de NHI, de SHV et d’AIS est établi par la mise en évidence de l’agent infectieux dans les échantillons soumis à examen.
 
@@ -5934,36 +6370,45 @@ Des indemnités pour les pertes d’animaux mentionnées à l’art. 32, al. 1, 
 
 [^285287-1]: Abrogés par le ch. I de l’O du 31 mars 2021, avec effet au 1<sup>er</sup> mai 2021 ([RO 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
 
-### Section 4 Peste des écrevisses
+### Section 4 Infection par le virus du syndrome des points blancs chez les crustacés
+
+[^tit3-chap5-sec4-1]
+
+[^tit3-chap5-sec4-1]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
 #### Art. 288
 
-**Diagnostic**
+**Diagnostic**[^288-1]
 
-Le diagnostic de peste des écrevisses est établi par la mise en évidence d’*Aphanomy**ces astaci*.
+Le diagnostic de la peste des écrevisses ou l’infection par le virus des points blancs chez les crustacés est établi si l’agent pathogène a été décelé dans le matériel soumis à l’analyse.
+
+[^288-1]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
 #### Art. 289
 
 **Mesures de lutte**
 
-<sup>1</sup> En cas de constat de peste des écrevisses, le vétérinaire cantonal détermine une zone d’interdiction correspondant au bassin hydrographique concerné.
+<sup>1</sup> En cas de constat de peste des écrevisses ou d’infection par le virus des points blancs chez les crustacés, le vétérinaire cantonal détermine une zone d’interdiction correspondant au bassin versant concerné.[^289-1]
 
 <sup>2</sup>
 
 Les mesures suivantes sont applicables dans la zone d’interdiction:
 
 - a. il est interdit de transporter des écrevisses vivantes hors de la zone d’interdiction ou d’y en introduire;
-- b. les écrevisses mortes ou tuées qui ne sont pas destinées à la consommation sont à éliminer comme sous-produits animaux de catégorie 2 au sens de l’art. 6 OESPA[^289-1].
+- b. les écrevisses mortes ou tuées qui ne sont pas destinées à la consommation sont à éliminer comme sous-produits animaux de catégorie 2 au sens de l’art. 6 OESPA[^289-2].
 
 <sup>3</sup> Pour le reste, le canton ordonne les mesures de police de la pêche pour éviter la dissémination de l’agent infectieux, tel le dépeuplement de toutes les écrevisses des eaux contaminées.
 
-[^289-1]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^289-1]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^289-2]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
 
 #### Art. 290
 
-**Indemnisation**
+**Indemnité**[^290-1]
 
-Il n’est pas alloué d’indemnité pour les pertes dues à la peste des écrevisses.
+Les pertes de crustacés dues à la peste des écrevisses ou à une infection par le virus du syndrome des points blancs chez les crustacés ne donnent pas lieu à des indemnités.
+
+[^290-1]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
 ### Chapitre 6 Épizooties à surveiller
 
@@ -5981,7 +6426,7 @@ Il n’est pas alloué d’indemnité pour les pertes dues à la peste des écre
 [^291-2]: Introduit par le ch. I de l’O du 30 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
 [^291-3]: Introduit par le ch. I de l’O du 28 mars 2001, en vigueur depuis le 15 avr. 2001 ([RO 2001 1337](https://fedlex.data.admin.ch/eli/oc/2001/184)).
 
-### Chapitre 7**** Dispositions spéciales concernant les zoonoses
+### Chapitre 7 Dispositions spéciales concernant les zoonoses
 
 [^tit3-chap7-1]
 
@@ -5993,7 +6438,7 @@ Il n’est pas alloué d’indemnité pour les pertes dues à la peste des écre
 
 <sup>1</sup>
 
-Les zoonoses et leurs agents à surveiller obligatoirement sont:
+Sont à surveiller obligatoirement les zoonoses suivantes et leurs agents:[^291a-1]
 
 - a. la brucellose;
 - b. la campylobactériose;
@@ -6001,10 +6446,14 @@ Les zoonoses et leurs agents à surveiller obligatoirement sont:
 - d. la listériose;
 - e. la salmonellose;
 - f. la trichinellose;
-- g. la tuberculose, causée par *Mycobacterium bovis;*
-- h. les *Escherichia coli* productrices de vérotoxines.
+- g.[^291a-2] la tuberculose causée par Mycobacterium bovis, M. caprae ou M. tuberculosis;
+- h.[^291a-3] les Escherichia coli productrices de shigatoxines.
 
 <sup>2</sup> L’OSAV surveille d’autres zoonoses et d’autres agents zoonotiques, si la situation épidémiologique ou l’analyse des risques l’exige.
+
+[^291a-1]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^291a-2]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^291a-3]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
 #### Art. 291b
 
@@ -6248,7 +6697,7 @@ Le vétérinaire cantonal dirige la lutte contre les épizooties. Pour détecter
 - f. recueillir les données et les informations relatives aux troupeaux nécessaires à la lutte contre les épizooties;
 - g. ordonner des restrictions de police des épizooties visant le commerce des denrées alimentaires;
 - h. veiller à l’infrastructure technique de la lutte contre les épizooties;
-- i.[^301-4] il autorise les unités d’élevage, les centres d’insémination, les centres de stockage de semence, les unités de transfert d’embryons, les usines ou établissements d’élimination de sous-produits animaux, les marchés de bétail et les autres établissements ou manifestations semblables, si un agrément est requis pour le commerce transfrontalier d’animaux et de produits animaux. L’OSAV peut fixer les critères et la procédure d’agrément dans des dispositions techniques;
+- i.[^301-4] autoriser les unités d’élevage, les centres d’insémination, les centres de stockage de semence, les laboratoires de tri et les autres installations de traitement de semence, les équipes de prélèvement et de production d’embryons, ainsi que les établissements qui traitent ou stockent des cellules et des embryons, les usines ou établissements d’élimination de sous-produits animaux, les marchés de bétail et les autres établissements ou manifestations semblables si un agrément est requis pour le commerce transfrontalier d’animaux et de produits animaux; l’OSAV peut fixer les critères et la procédure d’agrément dans des dispositions techniques.
 - j.[^301-5] il saisit dans ASAN le numéro d’autorisation, le nom, l’adresse et les activités autorisées de tous les établissements visés à la let. i.
 
 <sup>2</sup> Les cantons peuvent confier au vétérinaire cantonal d’autres fonctions rentrant dans son champ d’activité.
@@ -6256,7 +6705,7 @@ Le vétérinaire cantonal dirige la lutte contre les épizooties. Pour détecter
 [^301-1]: Nouvelle teneur selon le ch. I de l’O du 28 oct. 2015, en vigueur depuis le 1<sup>er</sup> déc. 2015 ([RO 2015 4255](https://fedlex.data.admin.ch/eli/oc/2015/716)).
 [^301-2]: Nouvelle teneur selon le ch. I de l’O du 26 oct. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5449](https://fedlex.data.admin.ch/eli/oc/2011/774)).
 [^301-3]: Introduite par le ch. I de l’O du 28 oct. 2015, en vigueur depuis le 1<sup>er</sup> déc. 2015 ([RO 2015 4255](https://fedlex.data.admin.ch/eli/oc/2015/716)).
-[^301-4]: Introduite par le ch. I de l’O du 12 sept. 2007 ([RO 2007 4659](https://fedlex.data.admin.ch/eli/oc/2007/657)). Nouvelle teneur selon le ch. I de l’O du 30 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
+[^301-4]: Introduite par le ch. I de l’O du 12 sept. 2007 ([RO 2007 4659](https://fedlex.data.admin.ch/eli/oc/2007/657)). Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 [^301-5]: Introduite par l’annexe 3 ch. II 8 de l’O du 6 juin 2014 concernant les systèmes d’information du service vétérinaire public, en vigueur depuis le 1<sup>er</sup> juil. 2014 ([RO 2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)).
 
 #### Art. 301a
@@ -6539,6 +6988,14 @@ Les laboratoires qui sont agréés au moment de l’entrée en vigueur de la mod
 <sup>2</sup> Pour les équidés nés avant le 1<sup>er</sup> janvier 2011 qui ne possèdent pas encore de passeport équin, le propriétaire doit en faire établir un d’ici le 31 décembre 2012.
 
 [^315g-1]: Introduit par le ch. I de l’O du 12 mai 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 2525](https://fedlex.data.admin.ch/eli/oc/2010/342)).
+
+#### Art. 315h
+
+**Disposition transitoire relative à la modification du 31 août 2022**[^315h-1]
+
+Les camélidés de l’Ancien et du Nouveau Monde nés avant le 1<sup>er</sup> novembre 2022 ne doivent pas être identifiés au moyen d’une puce électronique.
+
+[^315h-1]: Introduit par le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
 #### Art. 316
 
