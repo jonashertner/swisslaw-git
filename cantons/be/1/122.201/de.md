@@ -4,13 +4,13 @@ number: "122.201"
 title: Einführungsverordnung zum Ausländer- und Integrationsgesetz sowie zum Asylgesetz
 short: EV AIG und AsylG
 language: de
-version: 2020-07-01
-valid_until: 2022-10-31
-version_adopted: 2020-05-20
+version: 2022-11-01
+valid_until: 2024-01-31
+version_adopted: 2022-08-24
 adopted: 2020-05-20
 in_force: 2020-07-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/122.201"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1885/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2663/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1885/pdf_file"
 
 (EV AIG und AsylG)
 
-vom 20.05.2020 (Stand 01.07.2020)
+vom 20.05.2020 (Stand 01.11.2022)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -42,6 +42,12 @@ beschliesst:
 <sup>1</sup> Das Amt für Bevölkerungsdienste (ABEV) ist die zuständige Stelle der Sicherheitsdirektion zum Vollzug des Bundesgesetzes vom 16. Dezember 2005 über die Ausländerinnen und Ausländer und über die Integration (Ausländer- und Integrationsgesetz, AIG)[^1-1].
 
 [^1-1]: SR [142.20](https://db.clex.ch/link/Bund/142.20/de)
+
+#### Art. 1a
+
+**Kantonspolizei**
+
+<sup>1</sup> Der Kantonspolizei obliegt der Vollzug der Ausländer- und Asylgesetzgebung, soweit der Einsatz von polizeilichen Massnahmen oder polizeilichem Zwang erforderlich ist.
 
 #### Art. 2
 
@@ -147,19 +153,16 @@ beschliesst:
 
 <table>
 <tr><th>Anzahl Personen</th><th>Pro Person (CHF)</th><th>Pro Familieneinheit bzw. Haushalt (CHF)</th></tr>
-<tr><td>1</td><td>8.00</td><td>8.00</td></tr>
-<tr><td>2</td><td>7.50</td><td>15.00</td></tr>
-<tr><td>3</td><td>7.00</td><td>21.00</td></tr>
-<tr><td>4</td><td>6.50</td><td>26.00</td></tr>
-<tr><td>5</td><td>6.00</td><td>30.00</td></tr>
-<tr><td>6</td><td>6.00</td><td>36.00</td></tr>
-<tr><td>7</td><td>5.50</td><td>38.50</td></tr>
-<tr><td>8</td><td>5.50</td><td>44.00</td></tr>
-<tr><td>9</td><td>5.00</td><td>45.00</td></tr>
-<tr><td>10</td><td>5.00</td><td>50.00</td></tr>
+<tr><td>1</td><td>10.00</td><td>10.00</td></tr>
+<tr><td>2</td><td>10.00</td><td>20.00</td></tr>
+<tr><td>3</td><td>10.00</td><td>30.00</td></tr>
+<tr><td>4</td><td>9.50</td><td>38.00</td></tr>
+<tr><td>5</td><td>9.00</td><td>45.00</td></tr>
+<tr><td>6</td><td>8.50</td><td>51.00</td></tr>
+<tr><td>7</td><td>8.00</td><td>56.00</td></tr>
 </table>
 
-<sup>3</sup> Sie erfolgt mindestens wöchentlich.
+<sup>3</sup> Die Bargeldauszahlung erfolgt bei einer Unterbringung in einer Kollektivunterkunft mindestens wöchentlich.
 
 #### Art. 10
 

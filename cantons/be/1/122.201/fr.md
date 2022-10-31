@@ -4,13 +4,13 @@ number: "122.201"
 title: "Ordonnance portant introduction de la loi fédérale sur l'asile et de la loi fédérale sur les étrangers et l'intégration"
 short: Oi LFAE
 language: fr
-version: 2020-07-01
-valid_until: 2022-10-31
-version_adopted: 2020-05-20
+version: 2022-11-01
+valid_until: 2024-01-31
+version_adopted: 2022-08-24
 adopted: 2020-05-20
 in_force: 2020-07-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/122.201"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1885/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2663/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1885/pdf_file"
 
 (Oi LFAE)
 
-du 20.05.2020 (état au 01.07.2020)
+du 20.05.2020 (état au 01.11.2022)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -42,6 +42,12 @@ arrête:
 <sup>1</sup> L'Office de la population (OPOP) est le service compétent de la Direction de la sécurité en matière d'exécution de la loi fédérale du 16 décembre 2005 sur les étrangers et l'intégration (LEI)[^1-1].
 
 [^1-1]: RS [142.20](https://db.clex.ch/link/Bund/142.20/fr)
+
+#### Art. 1a
+
+**Police cantonale**
+
+<sup>1</sup> La Police cantonale exécute la législation sur les étrangers et l'asile pour autant que la mise en œuvre de mesures de police ou l'usage de la contrainte s'imposent.
 
 #### Art. 2
 
@@ -147,19 +153,16 @@ arrête:
 
 <table>
 <tr><th>Nombre de personnes</th><th>Par personne (CHF)</th><th>Par famille ou ménage (CHF)</th></tr>
-<tr><td>1</td><td>8,00</td><td>8,00</td></tr>
-<tr><td>2</td><td>7,50</td><td>15,00</td></tr>
-<tr><td>3</td><td>7,00</td><td>21,00</td></tr>
-<tr><td>4</td><td>6,50</td><td>26,00</td></tr>
-<tr><td>5</td><td>6,00</td><td>30,00</td></tr>
-<tr><td>6</td><td>6,00</td><td>36,00</td></tr>
-<tr><td>7</td><td>5,50</td><td>38,50</td></tr>
-<tr><td>8</td><td>5,50</td><td>44,00</td></tr>
-<tr><td>9</td><td>5,00</td><td>45,00</td></tr>
-<tr><td>10</td><td>5,00</td><td>50,00</td></tr>
+<tr><td>1</td><td>10.00</td><td>10.00</td></tr>
+<tr><td>2</td><td>10.00</td><td>20.00</td></tr>
+<tr><td>3</td><td>10.00</td><td>30.00</td></tr>
+<tr><td>4</td><td>9.50</td><td>38.00</td></tr>
+<tr><td>5</td><td>9.00</td><td>45.00</td></tr>
+<tr><td>6</td><td>8.50</td><td>51.00</td></tr>
+<tr><td>7</td><td>8.00</td><td>56.00</td></tr>
 </table>
 
-<sup>3</sup> Le versement s'effectue au moins une fois par semaine.
+<sup>3</sup> Le versement s'effectue au moins une fois par semaine en cas d'hébergement dans une structure collective.
 
 #### Art. 10
 
