@@ -3,20 +3,19 @@ canton: LU
 number: "385"
 title: Vollzugsverordnung zum Bundesgesetz über die Wehrpflichtersatzabgabe
 language: de
-version: 2013-06-01
-valid_until: 2022-10-31
-version_adopted: 2013-04-30
+version: 2022-11-01
+version_adopted: 2022-09-27
 adopted: 2007-10-30
 in_force: 2008-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/385"
-pdf: "https://srl.lu.ch/api/de/versions/2766/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3966/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Vollzugsverordnung zum Bundesgesetz über die Wehrpflichtersatzabgabe
 
-vom 30.10.2007 (Stand 01.06.2013)
+vom 30.10.2007 (Stand 01.11.2022)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -40,7 +39,7 @@ beschliesst:
 
 **Kantonsgericht**
 
-<sup>1</sup> Rekurskommission im Sinn von Artikel 22 Absatz 3 WPEG ist das Kantonsgericht des Kantons Luzern.
+<sup>1</sup> Rekursinstanz im Sinn von Artikel 22 Absatz 3 WPEG ist das Kantonsgericht des Kantons Luzern.
 
 #### § 3
 
@@ -52,7 +51,7 @@ beschliesst:
 - b. das Ergebnis von Revisionen für die direkte Bundessteuer oder die Staatssteuer,
 - c. die Eröffnung und das Ergebnis von Nachsteuerverfahren für die direkte Bundessteuer oder die Staatssteuer.
 
-<sup>2</sup> Sie meldet die erforderlichen Veranlagungsgrundlagen mit dem ihr von der Dienststelle Militär, Zivilschutz und Justizvollzug für jeden Ersatzpflichtigen zugestellten Veranlagungsformular, mittels vergleichbarer Hilfsblätter oder durch elektronischen Datenaustausch.
+<sup>2</sup> Sie meldet die erforderlichen Veranlagungsgrundlagen mit dem ihr von der Dienststelle Militär, Zivilschutz und Justizvollzug für jeden Ersatzpflichtigen zugestellten Veranlagungsformular oder durch elektronischen Datenaustausch.
 
 <sup>3</sup> Im Übrigen richtet sich die Amtshilfe der mit dem Vollzug des Bundesgesetzes über die Wehrpflichtersatzabgabe betrauten Behörden nach Artikel 24 WPEG.
 
@@ -64,21 +63,17 @@ beschliesst:
 
 <sup>2</sup> Strafverfügungen der Dienststelle Militär, Zivilschutz und Justizvollzug im Sinn von Artikel 44 Absatz 4 WPEG werden durch das örtlich zuständige Bezirksgericht gerichtlich beurteilt.
 
-## 2 Mahnung und Erlass
+## 2 Stundung und Erlass
 
 #### § 5
 
-**Gebühr für die zweite Mahnung**
-
-<sup>1</sup> Für die zweite Mahnung zur Bezahlung der rechtskräftig festgesetzten Ersatzabgabe wird eine Gebühr von 40 Franken erhoben.
+**…**
 
 #### § 5a
 
-**Erlass**
+<sup>1</sup> Entscheide in Anwendung von Artikel 37 WPEG können innert 30 Tagen seit Zustellung mit Verwaltungsgerichtsbeschwerde beim Kantonsgericht angefochten werden. Dem Kantonsgericht steht die Ermessenskontrolle zu.
 
-<sup>1</sup> Gegen Entscheide in Anwendung von Artikel 37 Absatz 2 WPEG kann innert 30 Tagen seit Zustellung schriftlich bei der Dienststelle Militär, Zivilschutz und Justizvollzug Einsprache erhoben werden.
-
-<sup>2</sup> Gegen Einspracheentscheide ist die Verwaltungsgerichtsbeschwerde an das Kantonsgericht zulässig. Dem Kantonsgericht steht die Ermessenskontrolle zu.
+<sup>2</sup> …
 
 ## 3 Schlussbestimmungen
 
