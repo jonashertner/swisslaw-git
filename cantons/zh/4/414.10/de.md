@@ -4,11 +4,11 @@ number: "414.10"
 title: Fachhochschulgesetz (FaHG)
 short: FaHG
 language: de
-version: "2020-08-01"
-nachtrag: "109"
-valid_until: 2022-11-01
+version: "2022-11-01"
+nachtrag: "119"
+valid_until: 2024-08-01
 adopted: 2007-04-02
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_10-2007_04_02-2007_08_01-109.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_10-2007_04_02-2007_08_01-119.html"
 text: pdf
 ---
 
@@ -63,7 +63,7 @@ beschliesst:
 
 **1**
 
-- 1\. 7. 20 - 109 § 5.[^h1TeilGrundlagen-1] Die Hochschulen können für ihre Angehörigen soziale, kulturelle und gesundheitsfördernde Einrichtungen sowie Einrichtungen des Hochschulsports führen oder unterstützen.
+- 1\. 1. 23 - 119 § 5.[^h1TeilGrundlagen-1] Die Hochschulen können für ihre Angehörigen soziale, kulturelle und gesundheitsfördernde Einrichtungen sowie Einrichtungen des Hochschulsports führen oder unterstützen.
 
 **Ergänzende Leistungen**
 
@@ -125,23 +125,20 @@ beschliesst:
 
 - c. beschliesst die Globalbudgets der Hochschulen und die weiteren Staatsleistungen,
 
-- d. genehmigt die Geschäftsberichte,
-
-- e. genehmigt die Wahl des Fachhochschulrates.
+- d. genehmigt die Geschäftsberichte, e.[^h1AbschnittKanton-2] genehmigt die Wahl der Präsidentin oder des Präsidenten und der einzelnen Mitglieder des Fachhochschulrates.
 
 **Regierungsrat**
 
 § 8.[^h1AbschnittKanton-1] <sup>1</sup> Der Regierungsrat übt die allgemeine Aufsicht über die Hochschulen aus.
 
-<sup>2</sup> Der Regierungsrat a. stellt dem Kantonsrat Antrag für Beschlüsse gemäss § 7 Abs. 2,
-
-- b. wählt die Mitglieder des Fachhochschulrates und dessen Präsidentin oder Präsidenten,
+<sup>2</sup> Der Regierungsrat a. stellt dem Kantonsrat Antrag für Beschlüsse gemäss § 7 Abs. 2, b.[^h1AbschnittKanton-2] wählt die Präsidentin oder den Präsidenten und die weiteren Mitglieder des Fachhochschulrates und legt die Entschädigung fest,
 
 - c. ordnet Zulassungsbeschränkungen und Höchststudiendauern an,
 
 - d. trifft im Bereich der nichtstaatlichen Hochschulen die Entscheidungen gemäss §§ 34 f.
 
 [^h1AbschnittKanton-1]: In Kraft seit 1. August 2007 (OS 62, 271).
+[^h1AbschnittKanton-2]: Fassung gemäss G vom 13. Juni 2022 (OS 77, 468; ABl 2021-09-24). In Kraft seit 1. November 2022. 1. 1. 23 - 119 13
 
 ### 2. Abschnitt: Fachhochschulrat
 
@@ -153,7 +150,7 @@ beschliesst:
 
 **3**
 
-- 1\. 7. 20 - 109
+- 1\. 1. 23 - 119
 
 <sup>3</sup> An den Sitzungen des Fachhochschulrates nehmen mit beratender Stimme teil:
 
@@ -252,7 +249,7 @@ beschliesst:
 
 **5**
 
-- 1\. 7. 20 - 109 § 15.[^hAHochschulpersonal-1] Die Verordnung regelt:
+- 1\. 1. 23 - 119 § 15.[^hAHochschulpersonal-1] Die Verordnung regelt:
 
 **Nebentätigkeiten**
 
@@ -333,7 +330,7 @@ beschliesst:
 
 **7**
 
-- 1\. 7. 20 - 109
+- 1\. 1. 23 - 119
 
 - b. entscheidet endgültig, wenn sich die Mitglieder der Hochschulleitung über Anträge an übergeordnete Instanzen nicht einig sind,
 
@@ -421,7 +418,7 @@ beschliesst:
 
 **9**
 
-- 1\. 7. 20 - 109 e.[^h3AbschnittFinanz-2] Gebühren für die Benutzung des Angebots einer Einrichtung des Hochschulsports von Fr. 25 bis Fr. 100 pro Semester, f.[^h3AbschnittFinanz-2] Gebühren für Vorbildungsangebote der ZHdK pro Studienjahr: für Hochschulstufe Vollzeit: Fr. 8000 bis Fr. 14 000 für Hochschulstufe Teilzeit: anteilmässig reduzierte Gebühr für Vollzeit für Berufsbildung: Fr. 2000 bis Fr. 3500.
+- 1\. 1. 23 - 119 e.[^h3AbschnittFinanz-2] Gebühren für die Benutzung des Angebots einer Einrichtung des Hochschulsports von Fr. 25 bis Fr. 100 pro Semester, f.[^h3AbschnittFinanz-2] Gebühren für Vorbildungsangebote der ZHdK pro Studienjahr: für Hochschulstufe Vollzeit: Fr. 8000 bis Fr. 14 000 für Hochschulstufe Teilzeit: anteilmässig reduzierte Gebühr für Vollzeit für Berufsbildung: Fr. 2000 bis Fr. 3500.
 
 <sup>2</sup> Der Regierungsrat kann den Gebührenrahmen der Teuerung anpassen.
 
@@ -468,7 +465,7 @@ beschliesst:
 [^h3AbschnittFinanz-3]: LS 172.1.
 [^h3AbschnittFinanz-4]: Fassung gemäss G über die Organisation des Regierungsrates und der kantonalen Verwaltung vom 2. November 2015 (OS 71, 153; ABl 2015-03-27). In Kraft seit 1. Januar 2018.
 [^h3AbschnittFinanz-5]: In Kraft seit 1. Januar 2008 (OS 62, 271).
-[^h3AbschnittFinanz-6]: Fassung gemäss G vom 22. Oktober 2018 (OS 75, 109; ABl 2017-11-24). In Kraft seit 1. August 2020. 1. 7. 20 - 109 13
+[^h3AbschnittFinanz-6]: Fassung gemäss G vom 22. Oktober 2018 (OS 75, 109; ABl 2017-11-24). In Kraft seit 1. August 2020.
 
 ### 4. Teil: Nichtstaatliche Hochschulen
 
@@ -498,7 +495,7 @@ beschliesst:
 
 **11**
 
-- 1\. 7. 20 - 109
+- 1\. 1. 23 - 119
 
 <sup>4</sup> Entscheide der Rekurskommission unterliegen nach Massgabe des Verwaltungsrechtspflegegesetzes[^h5TeilRechtsschut-2] der Beschwerde an das Verwaltungsgericht.
 
