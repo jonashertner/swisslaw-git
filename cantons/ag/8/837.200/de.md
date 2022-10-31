@@ -4,13 +4,13 @@ number: "837.200"
 title: Gesetz zum Bundesgesetz über die Krankenversicherung
 short: KVGG
 language: de
-version: 2018-01-01
-valid_until: 2022-10-31
-version_adopted: 2015-12-15
+version: 2022-11-01
+valid_until: 2025-11-30
+version_adopted: 2022-09-06
 adopted: 2015-12-15
 in_force: 2016-07-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/837.200"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2464/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3244/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2464/pdf_file"
 
 (KVGG)
 
-Vom 15.12.2015 (Stand 01.01.2018)
+Vom 15.12.2015 (Stand 01.11.2022)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -77,7 +77,7 @@ beschliesst:
 
 <sup>2</sup> Für die Prämienverbilligung werden die Beiträge des Bundes gemäss Art. 66 KVG und ein vom Grossen Rat festgelegter Kantonsbeitrag eingesetzt.
 
-<sup>3</sup> Der Grosse Rat bestimmt durch Dekret jährlich im letzten Quartal des dem Antragsjahr vorangehenden Kalenderjahres über die Höhe des Kantonsbeitrags.
+<sup>3</sup> Der Grosse Rat bestimmt jährlich durch Dekret im zweiten Quartal des Antragsjahrs die Höhe des Kantonsbeitrags.
 
 <sup>4</sup> Die Höhe des Kantonsbeitrags orientiert sich an den folgenden Faktoren:
 
@@ -364,7 +364,8 @@ beschliesst:
 - a) reine Schuldnerinnen und Schuldner,
 - b) Kinder und Jugendliche,
 - c) junge Erwachsene bis 31. Dezember des Jahres, in dem das 19. Altersjahr vollendet wird,
-- d) Versicherte, die Ergänzungsleistungen zur AHV/IV oder Sozialhilfe beziehen.
+- d) Versicherte, die Ergänzungsleistungen zur AHV/IV oder Sozialhilfe beziehen,
+- e) Versicherte, gegen die ein oder mehrere Verlustscheine für nicht bezahlte Prämien und Kostenbeteiligungen der obligatorischen Krankenpflegeversicherung eines Krankenversicherers vorliegen.
 
 <sup>2</sup> Zur Bestimmung der Personen gemäss Absatz 1 lit. d kann die SVA Aargau anhand der AHV-Versichertennummer einen Abgleich zwischen den von der Betreibung betroffenen versicherten Personen und den im System der SVA Aargau erfassten Personen, die Ergänzungsleistungen oder Sozialhilfe beziehen, vornehmen.
 
@@ -517,7 +518,7 @@ beschliesst:
 
 **Rückerstattung**
 
-<sup>1</sup> Zu Unrecht bezogene Prämienverbilligungen sind zurückzuerstatten. Die SVA Aargau macht die Rückforderung geltend. Es werden Verzugszinsen verlangt.
+<sup>1</sup> Die SVA Aargau hat Leistungen gemäss diesem Gesetz, die zu Unrecht ausgerichtet wurden, vom Krankenversicherer zurückzufordern, dem sie ausbezahlt wurden. Die direkte Geltendmachung des Anspruchs bei der versicherten Person durch die SVA Aargau bleibt vorbehalten. Es werden Verzugszinsen verlangt.
 
 <sup>2</sup> Die Rückforderung verjährt innert eines Jahres vom Zeitpunkt an gerechnet, in dem die SVA Aargau vom Sachverhalt Kenntnis erhalten hat, spätestens fünf Jahre nach Auszahlung.
 
