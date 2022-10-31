@@ -4,13 +4,12 @@ number: "993"
 title: Kantonale Geldspielverordnung
 short: KGSV
 language: de
-version: 2020-07-01
-valid_until: 2022-10-31
-version_adopted: 2020-05-19
+version: 2022-11-01
+version_adopted: 2022-09-20
 adopted: 2020-05-19
 in_force: 2020-07-01
 url: "https://srl.lu.ch/app/de/texts_of_law/993"
-pdf: "https://srl.lu.ch/api/de/versions/3586/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3965/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3586/pdf_file"
 
 (KGSV)
 
-vom 19.05.2020 (Stand 01.07.2020)
+vom 19.05.2020 (Stand 01.11.2022)
 
 Der Regierungsrat des Kantons Luzern
 
@@ -108,7 +107,7 @@ beschliesst:
 
 <sup>2</sup> Von der Bewilligungspflicht ausgenommen sind Tombolas, bei denen zur Ermittlung eines Gewinns eine einzige einfache Zufallsziehung oder eine ähnliche Prozedur notwendig ist (z. B. Losverkauf, Glücksrad). Die maximale Plansumme von 50 000 Franken pro Veranstaltung darf nicht überschritten werden.
 
-<sup>3</sup> Sämtliche Kleinspiele dürfen nur von einer juristischen Person nach schweizerischem Recht, die sich keiner wirtschaftlichen Aufgabe widmet, durchgeführt werden. Werden Dritte mit der Organisation oder Durchführung von Kleinspielen beauftragt, so gelten für diese dieselben Voraussetzungen.
+<sup>3</sup> Kleinlotterien und lokale Sportwetten dürfen nur von einer juristischen Person nach schweizerischem Recht, die sich keiner wirtschaftlichen Aufgabe widmet, durchgeführt werden. Werden Dritte mit der Organisation oder Durchführung von Kleinspielen beauftragt, so gelten für diese dieselben Voraussetzungen.
 
 #### § 9
 
@@ -160,7 +159,7 @@ beschliesst:
 
 **Kleinlotterien**
 
-<sup>1</sup> Kleinlotterien werden nur zum Verkauf von gedruckten vorgezogenen Losen zur Unterstützung von lokalen Anlässen mit regionaler oder überregionaler Bedeutung bewilligt. Vorbehalten bleiben Kleinlotterien gemäss § 9 Absatz 4.
+<sup>1</sup> Kleinlotterien werden zur Unterstützung von lokalen Anlässen und von gemeinnützigen Organisationen mit regionaler oder überregionaler Bedeutung bewilligt. Vorbehalten bleiben Kleinlotterien gemäss § 9 Absatz 4.
 
 <sup>2</sup> Das Gesuch für Kleinlotterien ist spätestens bis 31. August des Vorjahres des gewünschten Durchführungsjahres einzureichen. Im Bewilligungsgesuch ist die für die Durchführung der Veranstaltung verantwortliche Person zu bezeichnen.
 
