@@ -4,11 +4,11 @@ title: "Règlement d'exécution du 7 décembre 2006 de la convention sur le brev
 short: RE CBE 2000
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/850"
 language: fr
-version: 2021-11-01
+version: 2022-11-01
 adopted: 2006-12-07
 in_force: 2007-12-13
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/850/20211101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-850-20211101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/850/20211101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/850/20221101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-850-20221101-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/850/20221101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -25,7 +25,7 @@ Approuvé par le Conseil d’administration le 7 décembre 2006
 
 Entré en vigueur pour la Suisse le 13 décembre 2007
 
-(État le 1<sup>er</sup> novembre 2021)
+(État le 1<sup>er</sup> novembre 2022)
 
 ## Partie I Dispositions générales et institutionnelles
 
@@ -884,15 +884,15 @@ S’il résulte de l’examen prévu à l’art. 90, par. 1, que la demande ne s
 
 <sup>(1)</sup> S’il résulte de l’examen prévu à l’art. 90, par. 1, que des parties de la description, ou des dessins auxquels il est fait référence dans la description ou dans les revendications, ne semblent pas figurer dans la demande, l’Office européen des brevets invite le demandeur à déposer les parties manquantes dans un délai de deux mois. Le demandeur ne peut se prévaloir de l’omission d’une telle notification.
 
-<sup>(2)</sup> Si des parties manquantes de la description ou des dessins manquants sont déposés après la date de dépôt, mais dans un délai de deux mois à compter de la date de dépôt ou, lorsqu’une invitation est émise conformément au par. 1, dans un délai de deux mois à compter de cette invitation, la date de dépôt de la demande est celle à laquelle les parties manquantes de la description ou les dessins manquants ont été déposés. L’Office européen des brevets en informe le demandeur.
+<sup>(2)</sup> Si des parties manquantes de la description ou des dessins manquants sont déposés après la date de dépôt, mais dans un délai de deux mois à compter de la date de dépôt ou, lorsqu’une invitation est émise conformément au par. 1 ou conformément à la règle 56<sup>bis</sup>, par. 1, dans un délai de deux mois à compter de cette invitation, la date de dépôt de la demande est celle à laquelle les parties manquantes de la description ou les dessins manquants ont été déposés. L’Office européen des brevets en informe le demandeur.[^56-1]
 
 <sup>(3)</sup>
 
-Si les parties manquantes de la description ou les dessins manquants sont déposés dans le délai prévu au par. 2, et si la demande revendique la priorité d’une demande antérieure, la date de dépôt reste la date à laquelle il a été satisfait aux exigences de la règle 40, par. 1, sous réserve que les parties manquantes de la description ou les dessins manquants figurent intégralement dans la demande antérieure et que, dans le délai prévu au par. 2, le demandeur en fasse la demande et:
+Si les parties manquantes de la description ou les dessins manquants sont déposés dans le délai prévu au par. 2, et si la demande revendique la priorité d’une demande antérieure à la date à laquelle il a été satisfait aux exigences de la règle 40, par. 1, la date de dépôt reste la date à laquelle il a été satisfait aux exigences de la règle 40, par. 1, sous réserve que les parties manquantes de la description ou les dessins manquants figurent intégralement dans la demande antérieure et que, dans le délai prévu au par. 2, le demandeur en fasse la demande, et:
 
 - a) produise une copie de la demande antérieure, à moins qu’une telle copie ne soit à la disposition de l’Office européen des brevets en vertu de la règle 53, par. 2;
 - b) produise, lorsque la demande antérieure n’est pas rédigée dans une langue officielle de l’Office européen des brevets, une traduction de la demande antérieure dans l’une de ces langues, à moins qu’une telle traduction ne soit à la disposition de l’Office européen des brevets en vertu de la règle 53, par. 3, et
-- c) indique l’endroit où les parties manquantes de la description ou les dessins manquants figurent intégralement dans la demande antérieure et, le cas échéant, dans la traduction de celle‑ci.
+- c) indique l’endroit où les parties manquantes de la description ou les dessins manquants figurent intégralement dans la demande antérieure et, le cas échéant, dans la traduction de celle-ci.[^56-2]
 
 <sup>(4)</sup>
 
@@ -904,6 +904,48 @@ Si le demandeur:
 <sup>(5)</sup> Si le demandeur ne satisfait pas aux exigences énoncées au par. 3 a) à c) dans le délai prévu au par. 2, la date de dépôt de la demande est celle à laquelle les parties manquantes de la description ou les dessins manquants ont été déposés. L’Office européen des brevets en informe le demandeur.
 
 <sup>(6)</sup> Dans un délai d’un mois à compter de la notification visée au par. 2 ou 5, dernière phrase, le demandeur peut retirer les parties manquantes de la description ou les dessins manquants déposés, auquel cas la nouvelle date est réputée ne pas avoir été attribuée. L’Office européen des brevets en informe le demandeur.
+
+[^56-1]: Nouvelle teneur selon l’art. 1 ch. 1 de la D du Conseil d’administration du 7 sept. 2021, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 856](https://fedlex.data.admin.ch/eli/oc/2022/856)). Voir aussi les disp. trans. de cette mod. à la fin du texte.
+[^56-2]: Nouvelle teneur selon l’art. 1 ch. 1 de la D du Conseil d’administration du 7 sept. 2021, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 856](https://fedlex.data.admin.ch/eli/oc/2022/856)). Voir aussi les disp. trans. de cette mod. à la fin du texte.
+
+#### Règle 56<sup>bis</sup>
+
+**Pièces de la demande ou parties indûment déposées**[^56bis-1]
+
+<sup>(1)</sup> S’il résulte de l’examen prévu à l’art. 90, par. 1, que la description, les revendications, les dessins, ou des parties de ces pièces de la demande, semblent avoir été indûment déposés, l’Office européen des brevets invite le demandeur à déposer les pièces correctes de la demande ou les parties correctes dans un délai de deux mois. Le demandeur ne peut se prévaloir de l’omission d’une telle notification.
+
+<sup>(2)</sup> Si des pièces correctes de la demande ou des parties correctes telles que visées au par. 1 sont déposées au plus tard à la date de dépôt afin de corriger la demande, les pièces correctes de la demande ou les parties correctes sont incorporées dans la demande et les pièces de la demande ou parties indûment déposées sont réputées ne pas avoir été déposées. L’Office européen des brevets en informe le demandeur.
+
+<sup>(3)</sup> Si des pièces correctes de la demande ou des parties correctes telles que visées au par. 1 sont déposées après la date de dépôt, mais dans un délai de deux mois à compter de la date de dépôt ou, lorsqu’une invitation est émise conformément au par. 1 ou conformément à la règle 56, par. 1, dans un délai de deux mois à compter de cette invitation, la date de dépôt de la demande est celle à laquelle les pièces correctes de la demande ou les parties correctes ont été déposées. Les pièces correctes de la demande ou les parties correctes sont incorporées dans la demande et les pièces de la demande ou parties indûment déposées sont réputées ne pas avoir été déposées. L’Office européen des brevets en informe le demandeur.
+
+<sup>(4)</sup> et
+
+S’il est satisfait à ces conditions, les pièces correctes de la demande et les parties correctes sont incorporées dans la demande et les pièces de la demande ou parties indûment déposées continuent de figurer dans la demande.
+
+Si les pièces correctes de la demande ou les parties correctes sont déposées dans le délai prévu au par. 3, et si la demande revendique la priorité d’une demande antérieure à la date à laquelle il a été satisfait aux exigences de la règle 40, par. 1, la date de dépôt reste la date à laquelle il a été satisfait aux exigences de la règle 40, par. 1, sous réserve que les pièces correctes de la demande ou les parties correctes figurent intégralement dans la demande antérieure et que, dans le délai prévu au par. 3, le demandeur en fasse la demande et:
+
+- a) produise une copie de la demande antérieure, à moins qu’une telle copie ne soit à la disposition de l’Office européen des brevets en vertu de la règle 53, par. 2;
+- b) produise, lorsque la demande antérieure n’est pas rédigée dans une langue officielle de l’Office européen des brevets, une traduction de la demande antérieure dans l’une de ces langues, à moins qu’une telle traduction ne soit à la disposition de l’Office européen des brevets en vertu de la règle 53, par. 3,
+
+- c) indique l’endroit où les pièces correctes de la demande ou les parties correctes figurent intégralement dans la demande antérieure et, le cas échéant, dans la traduction de celle-ci.
+
+<sup>(5)</sup> ou
+
+le dépôt des pièces correctes de la demande ou des parties correctes est réputé ne pas avoir été effectué et les pièces de la demande ou parties indûment déposées continuent de figurer ou sont réincorporées dans la demande. L’Office européen des brevets en informe le demandeur.
+
+Si le demandeur:
+
+- a) ne dépose pas les pièces correctes de la demande ou les parties correctes dans le délai prévu au par. 1 ou 3,
+
+- b) retire, conformément au par. 7, des pièces correctes de la demande ou des parties correctes déposées conformément au par. 3,
+
+<sup>(6)</sup> Si le demandeur ne satisfait pas aux exigences énoncées au par. 4 a) à c) dans le délai prévu au par. 3, la date de dépôt de la demande est celle à laquelle les pièces correctes de la demande ou les parties correctes ont été déposées. Le dépôt des pièces de la demande ou parties indûment déposées est réputé ne pas avoir été effectué. L’Office européen des brevets en informe le demandeur.
+
+<sup>(7)</sup> Dans un délai d’un mois à compter de la notification visée au par. 3 ou 6, dernière phrase, le demandeur peut retirer les pièces correctes de la demande ou les parties correctes, auquel cas la nouvelle date est réputée ne pas avoir été attribuée. L’Office européen des brevets en informe le demandeur.
+
+<sup>(8)</sup> Si le demandeur dépose des pièces correctes de la demande ou des parties correctes conformément au par. 3 ou 4 après que l’Office européen des brevets a commencé à établir le rapport de recherche, l’Office européen des brevets invite le demandeur à acquitter une nouvelle taxe de recherche dans un délai d’un mois. Si cette taxe de recherche n’est pas acquittée dans les délais, la demande est réputée retirée.
+
+[^56bis-1]: Introduit par l’art. 1 ch. 2 de la D du Conseil d’administration du 7 sept. 2021, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 856](https://fedlex.data.admin.ch/eli/oc/2022/856)). Voir aussi les disp. trans. de cette mod. à la fin du texte.
 
 #### Règle 57
 
@@ -1826,11 +1868,11 @@ La signification peut être effectuée dans les locaux de l’Office européen d
 
 <sup>(1)</sup> La poursuite de la procédure prévue à l’art. 121, par. 1, doit être requise, au moyen du paiement de la taxe prescrite, dans un délai de deux mois à compter de la notification signalant l’inobservation d’un délai ou une perte de droits. L’acte non accompli doit l’être dans le délai de présentation de la requête.
 
-<sup>(2)</sup> Sont exclus de la poursuite de la procédure les délais visés à l’art. 121, par. 4, ainsi que les délais prévus à la règle 6, par. 1, à la règle 16, par. 1 a), à la règle 31, par. 2, à la règle 36, par. 2, à la règle 40, par. 3, à la règle 51, par. 2 à 5, à la règle 52, par. 2 et 3, aux règles 55, 56, 58, 59, 62<sup>bis</sup>, 63, 64, à la règle 112, par. 2 et à la règle 164, par. 1 et 2.[^135-1]
+<sup>(2)</sup> Sont exclus de la poursuite de la procédure les délais visés à l’art. 121, par. 4, ainsi que les délais prévus à la règle 6, par. 1, à la règle 16, par. 1 a), à la règle 31, par. 2, à la règle 36, par. 2, à la règle 40, par. 3, à la règle 51, par. 2 à 5, à la règle 52, par. 2 et 3, aux règles 55, 56, à la règle 56<sup>bis</sup>, par. 1 et 3 à 7, aux règles 58, 59, 62<sup>bis</sup>, 63, 64, à la règle 112, par. 2 et à la règle 164, par. 1 et 2.[^135-1]
 
 <sup>(3)</sup> L’instance qui est compétente pour statuer sur l’acte non accompli statue sur la requête en poursuite de la procédure.
 
-[^135-1]: Nouvelle teneur selon l’art. 1 par. 2 de la D du Conseil d’administration du 16 oct. 2013, en vigueur depuis le 1<sup>er</sup> nov. 2014 ([RO 2014 3275](https://fedlex.data.admin.ch/eli/oc/2014/565)).
+[^135-1]: Nouvelle teneur selon l’art. 1 ch.3 de la D du Conseil d’administration du 7 sept. 2021, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 856](https://fedlex.data.admin.ch/eli/oc/2022/856)). Voir aussi les disp. trans. de cette mod. à la fin du texte.
 
 #### Règle 136
 
@@ -2484,6 +2526,14 @@ La règle 19(1) CBE telle que modifiée s’applique à toute désignation de l�
 [^u21-1]: [RO 2022 652](https://fedlex.data.admin.ch/eli/oc/2022/652)art. 2
 
 La règle 143 CBE telle que modifiée à l’art. 1 de la présente décision entre en vigueur le 1<sup>er</sup> novembre 2021. Elle s’applique à toutes les demandes de brevet publiées au Registre européen des brevets à compter de cette date.
+
+## Dispositions transitoires de la modification du 7 septembre 2021
+
+[^u22-1]
+
+[^u22-1]: [RO 2022 856](https://fedlex.data.admin.ch/eli/oc/2022/856)art. 3
+
+Les règles 56 (2) et (3) et 135 (2) CBE, telles que modifiées, et la règle 56<sup>bis</sup> CBE telle qu’insérée en vertu de l’article premier de la présente décision s’appliquent à toutes les demandes de brevet déposées à compter de cette date.
 
 Champ d’application du Règlement d’exécution[^t-1]
 

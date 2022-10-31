@@ -4,11 +4,11 @@ title: Ausführungsordnung vom 7. Dezember 2006 zum Europäischen Patentüberein
 short: AO EPÜ 2000
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/850"
 language: de
-version: 2021-11-01
+version: 2022-11-01
 adopted: 2006-12-07
 in_force: 2007-12-13
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/850/20211101/de/xml/fedlex-data-admin-ch-eli-cc-2007-850-20211101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/850/20211101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/850/20221101/de/xml/fedlex-data-admin-ch-eli-cc-2007-850-20221101-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/850/20221101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -25,7 +25,7 @@ Angenommen vom Verwaltungsrat am 7. Dezember 2006
 
 In Kraft getreten für die Schweiz am 13. Dezember 2007
 
-(Stand am 1. November 2021)
+(Stand am 1. November 2022)
 
 ## Erster Teil Ausführungsvorschriften zum Ersten Teil des Übereinkommens
 
@@ -755,13 +755,13 @@ Ergibt die Prüfung nach Artikel 90 Absatz 1, dass die Anmeldung nicht den Erfor
 
 (1) Ergibt die Prüfung nach Artikel 90 Absatz 1, dass Teile der Beschreibung oder Zeichnungen, auf die in der Beschreibung oder in den Patentansprüchen Bezug genommen wird, offensichtlich fehlen, so fordert das Europäische Patentamt den Anmelder auf, die fehlenden Teile innerhalb von zwei Monaten nachzureichen. Aus der Unterlassung einer solchen Aufforderung kann der Anmelder keine Ansprüche herleiten.
 
-(2) Werden fehlende Teile der Beschreibung oder fehlende Zeichnungen nach dem Anmeldetag, jedoch innerhalb von zwei Monaten nach dem Anmeldetag oder, wenn eine Aufforderung nach Absatz 1 ergeht, innerhalb von zwei Monaten nach dieser Aufforderung nachgereicht, so wird der Anmeldetag auf den Tag der Einreichung der fehlenden Teile der Beschreibung oder der fehlenden Zeichnungen neu festgesetzt. Das Europäische Patentamt unterrichtet den Anmelder entsprechend.
+(2) Werden fehlende Teile der Beschreibung oder fehlende Zeichnungen nach dem Anmeldetag, jedoch innerhalb von zwei Monaten nach dem Anmeldetag oder, wenn eine Aufforderung nach Absatz 1 oder nach Regel 56*a* Absatz 1 ergeht, innerhalb von zwei Monaten nach dieser Aufforderung nachgereicht, so wird der Anmeldetag auf den Tag der Einreichung der fehlenden Teile der Beschreibung oder der fehlenden Zeichnungen neu festgesetzt. Das Europäische Patentamt unterrichtet den Anmelder entsprechend.[^part4-chapI-lvlu2-1]
 
-(3) Werden die fehlenden Teile der Beschreibung oder die fehlenden Zeichnungen innerhalb der Frist nach Absatz 2 eingereicht und nimmt die Anmeldung die Priorität einer früheren Anmeldung in Anspruch, so bleibt der Anmeldetag der Tag, an dem die Erfordernisse der Regel 40 Absatz 1 erfüllt waren, wenn die fehlenden Teile der Beschreibung oder die fehlenden Zeichnungen vollständig in der früheren Anmeldung enthalten sind, der Anmelder dies innerhalb der Frist nach Absatz 2 beantragt und Folgendes einreicht:
+(3) Werden die fehlenden Teile der Beschreibung oder die fehlenden Zeichnungen innerhalb der Frist nach Absatz 2 eingereicht und nimmt die Anmeldung an dem Tag, an dem die Erfordernisse der Regel 40 Absatz 1 erfüllt waren, die Priorität einer früheren Anmeldung in Anspruch, so bleibt der Anmeldetag der Tag, an dem die Erfordernisse der Regel 40 Absatz 1 erfüllt waren, wenn die fehlenden Teile der Beschreibung oder die fehlenden Zeichnungen vollständig in der früheren Anmeldung enthalten sind, der Anmelder dies innerhalb der Frist nach Absatz 2 beantragt und Folgendes einreicht:
 
 - a) eine Abschrift der früheren Anmeldung, sofern eine solche Abschrift dem Europäischen Patentamt nicht nach Regel 53 Absatz 2 zur Verfügung steht;
-- b) wenn diese nicht in einer Amtssprache des Europäischen Patentamts abgefasst ist, eine Übersetzung dieser Anmeldung in einer dieser Sprachen, sofern eine solche Übersetzung dem Europäischen Patentamt nicht nach Regel 53 Absatz 3 zur Verfügung steht, und
-- c) eine Angabe, wo die fehlenden Teile der Beschreibung oder die fehlenden Zeichnungen in der früheren Anmeldung und gegebenenfalls der Übersetzung vollständig enthalten sind.
+- b) wenn diese nicht in einer Amtssprache des Europäischen Patentamts abgefasst ist, eine Übersetzung dieser Anmeldung in einer dieser Sprachen, sofern eine solche Übersetzung dem Europäischen Patentamt nicht nach Regel 53 Absatz 3 zur Verfügung steht; und
+- c) eine Angabe, wo die fehlenden Teile der Beschreibung oder die fehlenden Zeichnungen in der früheren Anmeldung und gegebenenfalls der Übersetzung vollständig enthalten sind.[^part4-chapI-lvlu2-2]
 
 (4) Wenn der Anmelder:
 
@@ -772,11 +772,53 @@ Ergibt die Prüfung nach Artikel 90 Absatz 1, dass die Anmeldung nicht den Erfor
 
 (6) Innerhalb eines Monats nach der in Absatz 2 oder 5 letzter Satz genannten Mitteilung kann der Anmelder die eingereichten fehlenden Teile der Beschreibung oder fehlenden Zeichnungen zurücknehmen; in diesem Fall gilt die Neufestsetzung des Anmeldetags als nicht erfolgt. Das Europäische Patentamt unterrichtet den Anmelder entsprechend.
 
+[^part4-chapI-lvlu2-1]: Fassung gemäss Art. 1 Ziff. 1 des Beschlusses des Verwaltungsrats vom 7. Sept. 2021, in Kraft seit 1. Nov. 2022 ([AS 2022 856](https://fedlex.data.admin.ch/eli/oc/2022/856)). Siehe auch die UeB dieser Änd. am Schluss dieses Textes.
+[^part4-chapI-lvlu2-2]: Fassung gemäss Art. 1 Ziff. 1 des Beschlusses des Verwaltungsrats vom 7. Sept. 2021, in Kraft seit 1. Nov. 2022 ([AS 2022 856](https://fedlex.data.admin.ch/eli/oc/2022/856)). Siehe auch die UeB dieser Änd. am Schluss dieses Textes.
+
+### **Regel 56***a*Fälschlicherweise eingereichte Anmeldungsunterlagen oder Teile
+
+[^part4-chapI-lvlu3-1]
+
+[^part4-chapI-lvlu3-1]: Eingefügt durch Art. 1 Ziff. 2 des Beschlusses des Verwaltungsrats vom 7. Sept. 2021, in Kraft seit 1. Nov. 2022 ([AS 2022 856](https://fedlex.data.admin.ch/eli/oc/2022/856)). Siehe auch die UeB dieser Änd. am Schluss dieses Textes.
+
+(1) Ergibt die Prüfung nach Artikel 90 Absatz 1, dass die Beschreibung, die Ansprüche oder die Zeichnungen oder Teile dieser Anmeldungsunterlagen offensichtlich fälschlicherweise eingereicht wurden, so fordert das Europäische Patentamt den Anmelder auf, die richtigen Anmeldungsunterlagen oder Teile innerhalb von zwei Monaten nachzureichen. Aus der Unterlassung einer solchen Aufforderung kann der Anmelder keine Ansprüche herleiten.
+
+(2) Werden am oder vor dem Anmeldetag richtige Anmeldungsunterlagen oder Teile gemäss Absatz 1 eingereicht, um die Anmeldung zu berichtigen, so werden diese richtigen Anmeldungsunterlagen oder Teile in die Anmeldung aufgenommen und die fälschlicherweise eingereichten Anmeldungsunterlagen oder Teile gelten als nicht eingereicht. Das Europäische Patentamt unterrichtet den Anmelder entsprechend.
+
+(3) Werden richtige Anmeldungsunterlagen oder Teile gemäss Absatz 1 nach dem Anmeldetag, jedoch innerhalb von zwei Monaten nach dem Anmeldetag oder, wenn eine Aufforderung nach Absatz 1 oder nach Regel 56 Absatz 1 ergeht, innerhalb von zwei Monaten nach dieser Aufforderung nachgereicht, so wird der Anmeldetag auf den Tag der Einreichung der richtigen Anmeldungsunterlagen oder Teile neu festgesetzt. Die richtigen Anmeldungsunterlagen oder Teile werden in die Anmeldung aufgenommen, und die fälschlicherweise eingereichten Anmeldungsunterlagen oder Teile gelten als nicht eingereicht. Das Europäische Patentamt unterrichtet den Anmelder entsprechend.
+
+(4) Werden die richtigen Anmeldungsunterlagen oder Teile innerhalb der Frist nach Absatz 3 eingereicht und nimmt die Anmeldung an dem Tag, an dem die Erfordernisse der Regel 40 Absatz 1 erfüllt waren, die Priorität einer früheren Anmeldung in Anspruch, so bleibt der Anmeldetag der Tag, an dem die Erfordernisse der Regel 40 Absatz 1 erfüllt waren, wenn die richtigen Anmeldungsunterlagen oder Teile vollständig in der früheren Anmeldung enthalten sind, der Anmelder dies innerhalb der Frist nach Absatz 3 beantragt und Folgendes einreicht:
+
+- a) eine Abschrift der früheren Anmeldung, sofern eine solche Abschrift dem Europäischen Patentamt nicht nach Regel 53 Absatz 2 zur Verfügung steht;
+- b) wenn diese nicht in einer Amtssprache des Europäischen Patentamts abgefasst ist, eine Übersetzung dieser Anmeldung in einer dieser Sprachen, sofern eine solche Übersetzung dem Europäischen Patentamt nicht nach Regel 53 Absatz 3 zur Verfügung steht;
+
+und
+
+- c) eine Angabe, wo die richtigen Anmeldungsunterlagen oder Teile in der früheren Anmeldung und gegebenenfalls der Übersetzung vollständig enthalten sind.
+
+Sind diese Voraussetzungen erfüllt, so werden die richtigen Anmeldungsunterlagen oder Teile in die Anmeldung aufgenommen und die fälschlicherweise eingereichten Anmeldungsunterlagen oder Teile verbleiben in der Anmeldung.
+
+(5) Wenn der Anmelder:
+
+- a) die richtigen Anmeldungsunterlagen oder Teile nicht innerhalb der Frist nach Absatz 1 oder 3 einreicht;
+
+oder
+
+- b) nach Absatz 7 richtige Anmeldungsunterlagen oder Teile zurücknimmt, die gemäss Absatz 3 nachgereicht wurden;
+
+so gilt die Einreichung der richtigen Anmeldungsunterlagen oder Teile als nicht erfolgt und die fälschlicherweise eingereichten Anmeldungsunterlagen oder Teile verbleiben in der Anmeldung bzw. werden wieder in die Anmeldung aufgenommen. Das Europäische Patentamt unterrichtet den Anmelder entsprechend.
+
+(6) Erfüllt der Anmelder die in Absatz 4 a) bis c) genannten Erfordernisse nicht innerhalb der Frist nach Absatz 3, so wird der Anmeldetag auf den Tag der Einreichung der richtigen Anmeldungsunterlagen oder Teile neu festgesetzt. Die Einreichung der fälschlicherweise eingereichten Anmeldungsunterlagen oder Teile gilt als nicht erfolgt. Das Europäische Patentamt unterrichtet den Anmelder entsprechend.
+
+(7) Innerhalb eines Monats nach der in Absatz 3 oder 6 letzter Satz genannten Mitteilung kann der Anmelder die eingereichten richtigen Anmeldungsunterlagen oder Teile zurücknehmen; in diesem Fall gilt die Neufestsetzung des Anmeldetags als nicht erfolgt. Das Europäische Patentamt unterrichtet den Anmelder entsprechend.
+
+(8) Reicht der Anmelder richtige Anmeldungsunterlagen oder Teile nach Absatz 3 oder 4 ein, nachdem das Europäische Patentamt mit der Erstellung des Recherchenberichts begonnen hat, fordert das Europäische Patentamt den Anmelder auf, innerhalb eines Monats eine weitere Recherchengebühr zu entrichten. Wird die Recherchengebühr nicht rechtzeitig entrichtet, so gilt die Anmeldung als zurückgenommen.»
+
 ### **Regel 57**Formalprüfung
 
 Steht der Anmeldetag einer europäischen Patentanmeldung fest, so prüft das Europäische Patentamt nach Artikel 90 Absatz 3, ob:
 
-- a)[^part4-chapI-lvlu3-1] eine nach Artikel 14 Absatz 2, Regel 36 Absatz 2 Satz 2 oder Regel 40 Absatz 3 Satz 2 erforderliche Übersetzung der Anmeldung rechtzeitig eingereicht worden ist;
+- a)[^part4-chapI-lvlu4-1] eine nach Artikel 14 Absatz 2, Regel 36 Absatz 2 Satz 2 oder Regel 40 Absatz 3 Satz 2 erforderliche Übersetzung der Anmeldung rechtzeitig eingereicht worden ist;
 - b) der Antrag auf Erteilung eines europäischen Patents den Erfordernissen der Regel 41 entspricht;
 - c) die Anmeldung einen oder mehrere Patentansprüche nach Artikel 78 Absatz 1 c) oder eine Bezugnahme auf eine früher eingereichte Anmeldung nach Regel 40 Absätze 1 c), 2 und 3 enthält, die zum Ausdruck bringt, dass sie auch die Patentansprüche ersetzt;
 - d) die Anmeldung eine Zusammenfassung nach Artikel 78 Absatz 1 e) enthält;
@@ -784,12 +826,12 @@ Steht der Anmeldetag einer europäischen Patentanmeldung fest, so prüft das Eur
 - f) die Erfindernennung nach Regel 19 Absatz 1 erfolgt ist;
 - g) gegebenenfalls den Erfordernissen der Regeln 52 und 53 für die Inanspruchnahme der Priorität entsprochen worden ist;
 - h) gegebenenfalls den Erfordernissen des Artikels 133 Absatz 2 entsprochen worden ist;
-- i) die Anmeldung den in Regel 46 und Regel 49 Absätze 1−9 und 12*a–d*[^part4-chapI-lvlu3-2] vorgeschriebenen Erfordernissen entspricht;
-- j)[^part4-chapI-lvlu3-3] die Anmeldung den in Regel 30 vorgeschriebenen Erfordernissen entspricht.
+- i) die Anmeldung den in Regel 46 und Regel 49 Absätze 1−9 und 12*a–d*[^part4-chapI-lvlu4-2] vorgeschriebenen Erfordernissen entspricht;
+- j)[^part4-chapI-lvlu4-3] die Anmeldung den in Regel 30 vorgeschriebenen Erfordernissen entspricht.
 
-[^part4-chapI-lvlu3-1]: Fassung gemäss Art. 1 Ziff. 2 des Beschlusses des Verwaltungsrats vom 25. März 2009, in Kraft seit 1. April 2010 ([AS 2010 471](https://fedlex.data.admin.ch/eli/oc/2010/63)). Siehe auch die UeB dieser Änd. am Schluss dieses Textes.
-[^part4-chapI-lvlu3-2]: Verweis gemäss Art. 2 des Beschlusses des Verwaltungsrats vom 30. Juni 2016, in Kraft seit 1. Juli 2016 ([AS 2017 7193](https://fedlex.data.admin.ch/eli/oc/2017/777)).
-[^part4-chapI-lvlu3-3]: Fassung gemäss Art. 1 Ziff. 7 des Beschlusses des Verwaltungsrats vom 21. Okt. 2008, in Kraft seit 1. April 2009 ([AS 2009 2539](https://fedlex.data.admin.ch/eli/oc/2009/323)). Siehe auch die UeB dieser Änd. am Schluss dieses Textes.
+[^part4-chapI-lvlu4-1]: Fassung gemäss Art. 1 Ziff. 2 des Beschlusses des Verwaltungsrats vom 25. März 2009, in Kraft seit 1. April 2010 ([AS 2010 471](https://fedlex.data.admin.ch/eli/oc/2010/63)). Siehe auch die UeB dieser Änd. am Schluss dieses Textes.
+[^part4-chapI-lvlu4-2]: Verweis gemäss Art. 2 des Beschlusses des Verwaltungsrats vom 30. Juni 2016, in Kraft seit 1. Juli 2016 ([AS 2017 7193](https://fedlex.data.admin.ch/eli/oc/2017/777)).
+[^part4-chapI-lvlu4-3]: Fassung gemäss Art. 1 Ziff. 7 des Beschlusses des Verwaltungsrats vom 21. Okt. 2008, in Kraft seit 1. April 2009 ([AS 2009 2539](https://fedlex.data.admin.ch/eli/oc/2009/323)). Siehe auch die UeB dieser Änd. am Schluss dieses Textes.
 
 ### **Regel 58**Beseitigung von Mängeln in den Anmeldungsunterlagen
 
@@ -1526,11 +1568,11 @@ Die Zustellung kann in den Dienstgebäuden des Europäischen Patentamts durch un
 
 (1) Der Antrag auf Weiterbehandlung nach Artikel 121 Absatz 1 ist durch Entrichtung der vorgeschriebenen Gebühr innerhalb von zwei Monaten nach der Mitteilung über die Fristversäumung oder einen Rechtsverlust zu stellen. Die versäumte Handlung ist innerhalb der Antragsfrist nachzuholen.
 
-(2) Von der Weiterbehandlung ausgeschlossen sind die in Artikel 121 Absatz 4 genannten Fristen sowie die Fristen nach Regel 6 Absatz 1, Regel 16 Absatz 1 a), Regel 31 Absatz 2, Regel 36 Absatz 2, Regel 40 Absatz 3, Regel 51 Absätze 2–5, Regel 52 Absätze 2 und 3, Regeln 55, 56, 58, 59, 62*a*, 63, 64, Regel 112 Absatz 2 und Regel 164 Absätze 1 und 2.[^part7-chapV-lvlu5-1]
+(2) Von der Weiterbehandlung ausgeschlossen sind die in Artikel 121 Absatz 4 genannten Fristen sowie die Fristen nach Regel 6 Absatz 1, Regel 16 Absatz 1 a), Regel 31 Absatz 2, Regel 36 Absatz 2, Regel 40 Absatz 3, Regel 51 Absätze 2 bis 5, Regel 52 Absätze 2 und 3, Regeln 55, 56, Regel 56*a* Absätze 1 und 3 bis 7, Regeln 58, 59, 62*a*, 63, 64, Regel 112 Absatz 2 und Regel 164 Absätze 1 und 2.[^part7-chapV-lvlu5-1]
 
 (3) Über den Antrag auf Weiterbehandlung entscheidet das Organ, das über die versäumte Handlung zu entscheiden hat.
 
-[^part7-chapV-lvlu5-1]: Fassung gemäss Art. 1 Ziff. 2 des Beschlusses des Verwaltungsrats vom 16. Okt. 2013, in Kraft seit 1. Nov. 2014 ([AS 2014 3275](https://fedlex.data.admin.ch/eli/oc/2014/565)).
+[^part7-chapV-lvlu5-1]: Fassung gemäss Art. 1 Ziff. 3 des Beschlusses des Verwaltungsrats vom 7. Sept. 2021, in Kraft seit 1. Nov. 2022 ([AS 2022 856](https://fedlex.data.admin.ch/eli/oc/2022/856)). Siehe auch die UeB dieser Änd. am Schluss dieses Textes.
 
 ### **Regel 136**Wiedereinsetzung
 
@@ -2119,6 +2161,16 @@ Die mit Artikel 1 dieses Beschlusses geänderte Regel 19 EPÜ tritt am 1. April 
 [^u21-1]: [AS 2021 652](https://fedlex.data.admin.ch/eli/oc/2021/652)Art. 2
 
 Die mit Artikel 1 dieses Beschlusses geänderte Regel 143 EPÜ tritt am 1. November 2021 in Kraft. Sie ist auf alle an oder nach diesem Tag im Europäischen Patentregister veröffentlichten Patentanmeldungen anzuwenden.
+
+## Übergangsbestimmungen der Änderung vom 7. September 2021
+
+[^u22-1]
+
+[^u22-1]: [AS 2022 856](https://fedlex.data.admin.ch/eli/oc/2022/856)Art. 3
+
+Dieser Beschluss tritt am 1. November 2022 in Kraft.
+
+Die mit Artikel 1 dieses Beschlusses neu gefassten Regeln 56 (2) und (3) und 135 (2) EPÜ und neu eingefügte Regel 56*a* EPÜ sind auf alle Anmeldungen anzuwenden, die ab diesem Tag eingereicht werden.
 
 Geltungsbereich der Ausführungsordnung[^t-1]
 

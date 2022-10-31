@@ -4,11 +4,11 @@ title: Regolamento di esecuzione del 7 dicembre 2006 della Convenzione sul breve
 short: RE CBE 2000
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/850"
 language: it
-version: 2021-11-01
+version: 2022-11-01
 adopted: 2006-12-07
 in_force: 2007-12-13
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/850/20211101/it/xml/fedlex-data-admin-ch-eli-cc-2007-850-20211101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/850/20211101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/850/20221101/it/xml/fedlex-data-admin-ch-eli-cc-2007-850-20221101-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/850/20221101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -23,7 +23,7 @@ Traduzione
 
 Approvato dal Consiglio d’amministrazione il 7 dicembre 2006 Entrato in vigore per la Svizzera il 13 dicembre 2007
 
-(Stato 1° novembre 2021)
+(Stato 1° novembre 2022)
 
 ## Parte prima: Disposizioni di applicazione della parte prima della Convenzione
 
@@ -744,13 +744,13 @@ Se dall’esame ai sensi dell’articolo 90 paragrafo 1 risulta che la domanda n
 
 (1) Se dall’esame ai sensi dell’articolo 90 paragrafo 1 risulta che parti della descrizione o disegni a cui si fa riferimento nella descrizione o nelle rivendicazioni sono palesemente mancanti, l’Ufficio europeo dei brevetti invita il richiedente a presentare le parti mancanti entro un termine di due mesi. Il richiedente non può prevalersi dell’omissione di un tale invito.
 
-(2) Se parti mancanti della descrizione o disegni mancanti vengono presentati dopo la data di deposito, tuttavia entro un termine di due mesi dalla data di deposito oppure, in caso di invito ai sensi del paragrafo 1, entro un termine di due mesi da detto invito, la data del deposito sarà quella della presentazione delle parti mancanti della descrizione o dei disegni mancanti. L’Ufficio europeo dei brevetti informa il richiedente a tale proposito.
+(2) Se parti mancanti della descrizione o disegni mancanti vengono presentati dopo la data di deposito, tuttavia entro un termine di due mesi dalla data di deposito oppure, in caso di invito ai sensi del paragrafo 1 o ai sensi della regola 56*a* paragrafo 1 entro un termine di due mesi da detto invito, la data del deposito sarà quella della presentazione delle parti mancanti della descrizione o dei disegni mancanti. L’Ufficio europeo dei brevetti informa il richiedente a tale proposito.[^part4-chapI-lvlu2-1]
 
-(3) Se le parti mancanti della descrizione o i disegni mancanti vengono presentati entro il termine di cui al paragrafo 2 ed è rivendicata la priorità di una domanda anteriore, la data del deposito rimane la data in cui erano soddisfatte le esigenze in virtù della regola 40 paragrafo 1, a condizione che la domanda anteriore contenga tutte le parti mancanti della descrizione o tutti i disegni mancanti e che il richiedente l’abbia presentata entro il termine di cui al paragrafo 2 unitamente a:
+(3) Se le parti mancanti della descrizione o i disegni mancanti vengono presentati entro il termine di cui al paragrafo 2 ed è rivendicata la priorità di una domanda anteriore nella data in cui erano soddisfatte le esigenze della regola 40 paragrafo 1, la data del deposito rimane la data in cui erano soddisfatte le esigenze in virtù della regola 40 paragrafo 1, a condizione che la domanda anteriore contenga tutte le parti mancanti della descrizione o tutti i disegni mancanti e che il richiedente l’abbia presentata entro il termine di cui al paragrafo 2 unitamente a:
 
 - a) una copia della domanda anteriore, se essa non è stata messa a disposizione dell’Ufficio europeo dei brevetti in conformità alla regola 53 paragrafo 2;
 - b) se non è redatta in una delle lingue ufficiali dell’Ufficio europeo dei brevetti, una traduzione di questa domanda in una delle lingue ufficiali, se essa non è stata messa a disposizione dell’Ufficio europeo dei brevetti in conformità alla regola 53 paragrafo 3; e
-- c) un’annotazione che indichi quali parti della domanda anteriore ed eventualmente della traduzione corrispondono alle parti mancanti della descrizione o ai disegni mancanti.
+- c) un’annotazione che indichi quali parti della domanda anteriore ed eventualmente della traduzione corrispondono alle parti mancanti della descrizione o ai disegni mancanti.[^part4-chapI-lvlu2-2]
 
 (4) Qualora il richiedente:
 
@@ -761,11 +761,53 @@ Se dall’esame ai sensi dell’articolo 90 paragrafo 1 risulta che la domanda n
 
 (6) Il richiedente può ritirare le parti mancanti della descrizione o i disegni mancanti presentati, entro un mese a decorrere dalla notificazione di cui al paragrafo 2 o 5 ultimo periodo; in tal caso la data di deposito non è considerata modificata. L’Ufficio europeo dei brevetti informa il richiedente a tale proposito.
 
+[^part4-chapI-lvlu2-1]: Nuovo testo giusta l’art. 1 cpv. 1 della Dec. del Consiglio d’amministrazione del 7 set. 2022, in vigore dal 1° nov. 2022 ([RU 2022 856](https://fedlex.data.admin.ch/eli/oc/2022/856)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
+[^part4-chapI-lvlu2-2]: Nuovo testo giusta l’art. 1 cpv. 1 della Dec. del Consiglio d’amministrazione del 7 set. 2022, in vigore dal 1° nov. 2022 ([RU 2022 856](https://fedlex.data.admin.ch/eli/oc/2022/856)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
+
+### **Regola 56***a*Documenti della domanda o parti depositati erroneamente
+
+[^part4-chapI-lvlu3-1]
+
+[^part4-chapI-lvlu3-1]: Introdotto dall’art. 1 cpv. 2 della Dec. del Consiglio d’amministrazione del 7 set. 2022, in vigore dal 1° nov. 2022 ([RU 2022 856](https://fedlex.data.admin.ch/eli/oc/2022/856)).
+
+(1) Se dall’esame ai sensi dell’articolo 90 paragrafo 1 risulta che la descrizione, le rivendicazioni o i disegni, o parti di tali documenti della domanda sono stati palesemente depositati erroneamente, l’Ufficio europeo dei brevetti invita il richiedente a presentare i documenti della domanda corretti o le parti corrette entro un termine di due mesi. Il richiedente non può prevalersi dell’omissione di un tale invito.
+
+(2) Se i documenti della domanda corretti o le parti corrette ai sensi del paragrafo 1 vengono presentati alla data di deposito o prima della data di deposito per correggere la domanda, i documenti della domanda corretti o le parti corrette vengono integrati nella domanda e i documenti della domanda o le parti depositati erroneamente sono considerati non presentati. L’Ufficio europeo dei brevetti informa il richiedente a tale proposito.
+
+(3) Se i documenti della domanda corretti o le parti corrette ai sensi del paragrafo 1 vengono presentati dopo la data di deposito, tuttavia entro un termine di due mesi dalla data di deposito oppure, in caso di invito ai sensi del paragrafo 1 o della regola 56 paragrafo 1, entro un termine di due mesi da detto invito, la data del deposito sarà quella della presentazione dei documenti della domanda corretti o delle parti corrette. I documenti della domanda corretti o le parti corrette vengono integrati nella domanda e i documenti della domanda o le parti depositati erroneamente sono considerati non presentati. L’Ufficio europeo dei brevetti informa il richiedente a tale proposito.
+
+(4) Se i documenti della domanda corretti o le parti corrette vengono presentati entro il termine di cui al paragrafo 3 ed è rivendicata la priorità di una domanda anteriore nella data in cui erano soddisfatte le esigenze in virtù della regola 40 paragrafo 1, la data del deposito rimane la data in cui erano soddisfatte le esigenze in virtù della regola 40 paragrafo 1, a condizione che la domanda anteriore contenga tutti i documenti della domanda corretti o le parti corrette e che il richiedente li abbia presentati entro il termine di cui al paragrafo 3 unitamente a:
+
+- a) una copia della domanda anteriore, se essa non è stata messa a disposizione dell’Ufficio europeo dei brevetti in conformità alla regola 53 paragrafo 2;
+- b) se non è redatta in una delle lingue ufficiali dell’Ufficio europeo dei brevetti, una traduzione di questa domanda in una delle lingue ufficiali, se essa non è stata messa a disposizione dell’Ufficio europeo dei brevetti in conformità alla regola 53 paragrafo 3;
+
+e
+
+- c) un’annotazione che indichi quali parti della domanda anteriore ed eventualmente della traduzione corrispondono ai documenti della domanda corretti o alle parti corrette.
+
+Se queste condizioni sono adempiute, i documenti della domanda corretti o le parti corrette vengono integrate nella domanda e i documenti della domanda o le parti depositati erroneamente continuano a figurare nella domanda.
+
+(5) Qualora il richiedente:
+
+- a) non presenti i documenti della domanda corretti o le parti corrette entro il termine di cui ai paragrafi 1 o 3;
+
+oppure
+
+- b) ritiri, in virtù del paragrafo 7, i documenti della domanda corretti o le parti corrette che sono stati presentati successivamente ai sensi del paragrafo 3,
+
+i documenti della domanda corretti o le parti corrette sono considerati non presentati e i documenti della domanda o le parti depositati erroneamente continuano a figurare nella domanda e sono nuovamente integrati nella domanda. L’Ufficio europeo dei brevetti informa il richiedente a tale proposito.
+
+(6) Se il richiedente non soddisfa le esigenze di cui al paragrafo 4 lettere a)–c) entro il termine di cui al paragrafo 3, la data di deposito sarà quella della presentazione dei documenti della domanda corretti o delle parti corrette. I documenti della domanda o le parti presentati erroneamente sono considerati non presentati. L’Ufficio europeo dei brevetti informa il richiedente a tale proposito.
+
+(7) Il richiedente può ritirare i documenti della domanda corretti o le parti corrette, entro un mese a decorrere dalla notificazione di cui al paragrafo 3 o 6 ultimo periodo; in tal caso la data di deposito non è considerata modificata. L’Ufficio europeo dei brevetti informa il richiedente a tale proposito.
+
+(8) Se il richiedente presenta i documenti della domanda corretti o le parti corrette conformemente al paragrafo 3 o 4 dopo che l’Ufficio europeo dei brevetti ha iniziato a redigere il rapporto di ricerca, l’Ufficio europeo dei brevetti invita il richiedente a pagare una nuova tassa di ricerca entro un termine di un mese. Se la tassa di ricerca non è pagata in tempo, la domanda è considerata ritirata.
+
 ### **Regola 57**Esame formale
 
 Se a una domanda di brevetto europeo è stata riconosciuta una data di deposito, l’Ufficio europeo dei brevetti esamina, a norma dell’articolo 90 paragrafo 3 se:
 
-- a)[^part4-chapI-lvlu3-1] è stata presentata entro i termini una traduzione della domanda richiesta conformemente alle disposizioni dell’articolo 14 paragrafo 2, della regola 36 paragrafo 2 secondo periodo o della regola 40 paragrafo 3 secondo periodo;
+- a)[^part4-chapI-lvlu4-1] è stata presentata entro i termini una traduzione della domanda richiesta conformemente alle disposizioni dell’articolo 14 paragrafo 2, della regola 36 paragrafo 2 secondo periodo o della regola 40 paragrafo 3 secondo periodo;
 - b) la richiesta di concessione del brevetto europeo soddisfa le condizioni della regola 41;
 - c) la domanda contiene una o più rivendicazioni ai sensi dell’articolo 78 paragrafo 1 lettera c) oppure un riferimento ad una domanda anteriore a norma della regola 40 paragrafi 1 lettera c), 2 e 3, dal quale risulti che esso sostituisce anche le rivendicazioni;
 - d) la domanda contiene un estratto ai sensi dell’articolo 78 paragrafo 1 lettera e);
@@ -773,12 +815,12 @@ Se a una domanda di brevetto europeo è stata riconosciuta una data di deposito,
 - f) la menzione dell’inventore è stata fatta in conformità alla regola 19 paragrafo 1;
 - g) ove occorra, sono state soddisfatte le esigenze delle regole 52 e 53 relative alla rivendicazione di priorità;
 - h) ove occorra, sono state soddisfatte le condizioni dell’articolo 133 paragrafo 2;
-- i) la domanda soddisfa le condizioni previste dalla regola 46 e dalla regola 49 paragrafi 1–9 e 12*a*–12*d*[^part4-chapI-lvlu3-2];
-- j)[^part4-chapI-lvlu3-3] la domanda soddisfa le condizioni previste dalla regola 30.
+- i) la domanda soddisfa le condizioni previste dalla regola 46 e dalla regola 49 paragrafi 1–9 e 12*a*–12*d*[^part4-chapI-lvlu4-2];
+- j)[^part4-chapI-lvlu4-3] la domanda soddisfa le condizioni previste dalla regola 30.
 
-[^part4-chapI-lvlu3-1]: Nuovo testo giusta l’art. 1 n. 2 della Dec. del Consiglio d’amministrazione del 25 mar. 2009, in vigore dal 1° apr. 2010 ([RU 2010 471](https://fedlex.data.admin.ch/eli/oc/2010/63)).
-[^part4-chapI-lvlu3-2]: Nuovi rimandi giusta l’art. 2 della Dec. del Consiglio d’amministrazione del 30 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2017 7193](https://fedlex.data.admin.ch/eli/oc/2017/777)).
-[^part4-chapI-lvlu3-3]: Nuovo testo giusta l’art. 1 n. 7 della Dec. del Consiglio d’amministrazione del 21 ott. 2008, in vigore dal 1° apr. 2009 ([RU 2009 2539](https://fedlex.data.admin.ch/eli/oc/2009/323)).
+[^part4-chapI-lvlu4-1]: Nuovo testo giusta l’art. 1 n. 2 della Dec. del Consiglio d’amministrazione del 25 mar. 2009, in vigore dal 1° apr. 2010 ([RU 2010 471](https://fedlex.data.admin.ch/eli/oc/2010/63)).
+[^part4-chapI-lvlu4-2]: Nuovi rimandi giusta l’art. 2 della Dec. del Consiglio d’amministrazione del 30 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2017 7193](https://fedlex.data.admin.ch/eli/oc/2017/777)).
+[^part4-chapI-lvlu4-3]: Nuovo testo giusta l’art. 1 n. 7 della Dec. del Consiglio d’amministrazione del 21 ott. 2008, in vigore dal 1° apr. 2009 ([RU 2009 2539](https://fedlex.data.admin.ch/eli/oc/2009/323)).
 
 ### **Regola 58**Correzione di irregolarità nei documenti della domanda
 
@@ -1513,11 +1555,11 @@ La notifica può essere effettuata nei locali dell’Ufficio europeo dei brevett
 
 (1) La richiesta di prosecuzione della procedura di cui all’articolo 121 paragrafo 1 deve essere presentata, contro pagamento della tassa prevista, entro un termine di due mesi dalla notificazione relativa all’inosservanza del termine o alla perdita di un diritto. L’atto omesso deve essere compiuto entro questo medesimo termine.
 
-(2) Sono esclusi dalla prosecuzione della procedura i termini di cui all’articolo 121 paragrafo 4 nonché quelli di cui alla regola 6 paragrafo 1, regola 16 paragrafo 1 lettera a), regola 31 paragrafo 2, regola 36 paragrafo 2, regola 40 paragrafo 3, regola 51 paragrafi 2–5, regola 52 paragrafi 2 e 3, regole 55, 56, 58, 59, 62*a*, 63, 64, regola 112 paragrafo 2 e regola 164 paragrafi 1 e 2.[^part7-chapV-lvlu5-1]
+(2) Sono esclusi dalla prosecuzione della procedura i termini di cui all’articolo 121 paragrafo 4 nonché quelli di cui alla regola 6 paragrafo 1, regola 16 paragrafo 1 lettera a), regola 31 paragrafo 2, regola 36 paragrafo 2, regola 40 paragrafo 3, regola 51 paragrafi 2–5, regola 52 paragrafi 2 e 3, regole 55, 56, regola 56*a* paragrafi 1 e 3–7, regole 58, 59, 62*a*, 63, 64, regola 112 paragrafo 2 e regola 164 paragrafi 1 e 2.[^part7-chapV-lvlu5-1]
 
 (3) L’organo competente a statuire sull’atto omesso decide in merito alla richiesta di prosecuzione della procedura.
 
-[^part7-chapV-lvlu5-1]: Nuovo testo giusta l’art. 1 n. 2 della Dec. del Consiglio d’amministrazione del 16 ott. 2013, in vigore dal 1° nov. 2014 ([RU 2014 3275](https://fedlex.data.admin.ch/eli/oc/2014/565)).
+[^part7-chapV-lvlu5-1]: Nuovo testo giusta l’art. 1 cpv. 3 della Dec. del Consiglio d’amministrazione del 7 set. 2022, in vigore dal 1° nov. 2022 ([RU 2022 856](https://fedlex.data.admin.ch/eli/oc/2022/856)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
 
 ### **Regola 136***Restitutio in integrum*
 
@@ -2104,6 +2146,14 @@ La regola 19 del regolamento di esecuzione della CBE come modificata dall’arti
 [^u21-1]: [RU 2021 652](https://fedlex.data.admin.ch/eli/oc/2021/652)art. 2
 
 La regola 143 CBE come modificata dall’articolo 1 della presente decisione entra in vigore il 1° novembre 2021. Si applica a tutte le domande di brevetto pubblicate nel Registro europeo dei brevetti a quella data o a decorrere da quella data.
+
+## Disposizioni transitorie della modifica del 7 settembre 2022
+
+[^u22-1]
+
+[^u22-1]: [RU 2022 856](https://fedlex.data.admin.ch/eli/oc/2022/856)art. 3
+
+Le nuove regole 56 (2) e (3) e 135 (2) CBE come modificate dall’articolo 1 della presente decisione e la nuova regola 56a CBE introdotta dall’articolo 1 della presente decisione sono applicabili a tutte le domande presentate a partire da tale data.
 
 Campo d’applicazione del Regolamento d’esecuzione[^t-1]
 
