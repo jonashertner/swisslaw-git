@@ -4,22 +4,22 @@ title: "Loi fédérale du 22 juin 2007 sur les privilèges, les immunités et le
 short: LEH
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/860"
 language: fr
-version: 2008-01-01
+version: 2022-11-01
 adopted: 2007-06-22
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/860/20080101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-860-20080101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/860/20080101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/860/20221101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-860-20221101-fr-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/860/20221101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Loi fédérale sur les privilèges, les immunités et les facilités, ainsi que sur les aides financières accordés par la Suisse en tant qu’Etat hôte**<sup>∗</sup>**
+# Loi fédérale sur les privilèges, les immunités et les facilités, ainsi que sur les aides financières accordés par la Suisse en tant qu’État hôte\*
 
-(Loi sur l’Etat hôte, LEH)[^t-1]
+(Loi sur l’État hôte, LEH)[^t-1]
 
-du 22 juin 2007 (Etat le 1<sup>er</sup> janvier 2008)
+du 22 juin 2007 (État le 1<sup>er</sup> novembre 2022)
 
-[^t-1]: <sup>∗</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
+[^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -27,7 +27,7 @@ vu l’art. 54, al. 1, de la Constitution[^ingress-1], vu le message du Conseil 
 
 arrête:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 2006 7603](https://fedlex.data.admin.ch/eli/fga/2006/1012)
 
 ## Chapitre 1 Objet
@@ -36,7 +36,7 @@ arrête:
 
 <sup>1</sup>
 
-La présente loi règle, dans le domaine de la politique d’Etat hôte:
+La présente loi règle, dans le domaine de la politique d’État hôte:
 
 - a. l’octroi de privilèges, d’immunités et de facilités;
 - b. l’octroi d’aides financières et la mise en œuvre d’autres mesures de soutien.
@@ -96,6 +96,8 @@ Les privilèges et les immunités comprennent:
 - i. l’exemption des prescriptions relatives à l’accès et au séjour en Suisse;
 - j. l’exemption de toute prestation personnelle, de tout service public, ainsi que de toute charge et obligation militaires.
 
+<sup>1bis</sup> Le Conseil fédéral peut accorder au Comité international de la Croix-Rouge le privilège de soumettre à la législation sur la prévoyance professionnelle les membres de son personnel qui ne sont pas assurés à l’assurance-vieillesse et survivants fédérale, en dérogation à l’art. 5, al. 1, de la loi fédérale du 25 juin 1982 sur la prévoyance professionnelle vieillesse, survivants et invalidité[^3-1].[^3-2]
+
 <sup>2</sup>
 
 Les facilités comprennent:
@@ -106,6 +108,9 @@ Les facilités comprennent:
 - d. les facilités d’immatriculation des véhicules.
 
 <sup>3</sup> Le Conseil fédéral peut accorder d’autres facilités de portée moindre que celles prévues à l’al. 2.
+
+[^3-1]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
+[^3-2]: Introduit par le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 572](https://fedlex.data.admin.ch/eli/oc/2022/572); [FF 2021 2805](https://fedlex.data.admin.ch/eli/fga/2021/2805)).
 
 #### Art. 4
 
@@ -153,7 +158,7 @@ Une institution internationale peut bénéficier de privilèges, d’immunités 
 
 - a. elle dispose de structures similaires à celles d’une organisation intergouvernementale;
 - b. elle accomplit des tâches étatiques ou habituellement dévolues à une organisation intergouvernementale;
-- c. elle jouit d’une reconnaissance internationale dans l’ordre juridique international, notamment par un traité international, une résolution d’une organisation intergouvernementale ou par un document politique agréé par un groupe d’Etats.
+- c. elle jouit d’une reconnaissance internationale dans l’ordre juridique international, notamment par un traité international, une résolution d’une organisation intergouvernementale ou par un document politique agréé par un groupe d’États.
 
 #### Art. 8
 
@@ -161,9 +166,9 @@ Une institution internationale peut bénéficier de privilèges, d’immunités 
 
 Une organisation internationale quasi gouvernementale peut bénéficier de privilèges, d’immunités et de facilités aux conditions suivantes:
 
-- a. elle a pour membres une majorité d’Etats, d’organisations de droit public ou d’entités exerçant des tâches qui incombent à des Etats;
+- a. elle a pour membres une majorité d’États, d’organisations de droit public ou d’entités exerçant des tâches qui incombent à des États;
 - b. elle dispose de structures similaires à celles d’une organisation intergouvernementale;
-- c. elle a des activités sur le territoire de deux ou plusieurs Etats.
+- c. elle a des activités sur le territoire de deux ou plusieurs États.
 
 #### Art. 9
 
@@ -171,8 +176,8 @@ Une organisation internationale quasi gouvernementale peut bénéficier de privi
 
 Une conférence internationale peut bénéficier de privilèges, d’immunités et de facilités aux conditions suivantes:
 
-- a. elle est réunie sous l’égide d’une organisation intergouvernementale, d’une institution internationale, d’une organisation internationale quasi gouvernementale, d’un secrétariat ou d’un autre organe créé par un traité international, sous l’égide de la Suisse, ou à l’initiative d’un groupe d’Etats;
-- b. les participants sont en majorité des représentants d’Etats, d’organisations intergouvernementales, d’institutions internationales, d’organisations internationales quasi gouvernementales ou de secrétariats ou d’autres organes créés par un traité international.
+- a. elle est réunie sous l’égide d’une organisation intergouvernementale, d’une institution internationale, d’une organisation internationale quasi gouvernementale, d’un secrétariat ou d’un autre organe créé par un traité international, sous l’égide de la Suisse, ou à l’initiative d’un groupe d’États;
+- b. les participants sont en majorité des représentants d’États, d’organisations intergouvernementales, d’institutions internationales, d’organisations internationales quasi gouvernementales ou de secrétariats ou d’autres organes créés par un traité international.
 
 #### Art. 10
 
@@ -186,7 +191,7 @@ Un secrétariat ou tout autre organe peut bénéficier de privilèges, d’immun
 
 Une commission indépendante peut bénéficier de privilèges, d’immunités et de facilités aux conditions suivantes:
 
-- a. elle fonde sa légitimité sur une résolution d’une organisation intergouvernementale ou d’une institution internationale, ou elle est mandatée par un groupe d’Etats ou par la Suisse;
+- a. elle fonde sa légitimité sur une résolution d’une organisation intergouvernementale ou d’une institution internationale, ou elle est mandatée par un groupe d’États ou par la Suisse;
 - b. elle bénéficie d’un large soutien politique et financier au sein de la communauté internationale;
 - c. elle a pour mandat d’examiner une question importante pour la communauté internationale;
 - d. son mandat est limité dans le temps;
@@ -213,7 +218,7 @@ Un tribunal arbitral peut bénéficier de privilèges, d’immunités et de faci
 
 Un autre organisme international peut, à titre exceptionnel, bénéficier de privilèges, d’immunités et de facilités aux conditions suivantes:
 
-- a. il collabore étroitement avec une ou plusieurs organisations intergouvernementales ou institutions internationales établies en Suisse, ou avec des Etats, pour exécuter des tâches qui incombent en principe à ces organisations, institutions ou Etats;
+- a. il collabore étroitement avec une ou plusieurs organisations intergouvernementales ou institutions internationales établies en Suisse, ou avec des États, pour exécuter des tâches qui incombent en principe à ces organisations, institutions ou États;
 - b. il joue un rôle majeur dans un domaine important des relations internationales;
 - c. il bénéficie d’une large notoriété sur le plan international;
 - d. l’octroi de privilèges, d’immunités et de facilités est de nature à contribuer substantiellement à la réalisation de son mandat.
@@ -224,7 +229,7 @@ Un autre organisme international peut, à titre exceptionnel, bénéficier de pr
 
 Une personnalité exerçant un mandat international peut, à titre exceptionnel, bénéficier de privilèges, d’immunités et de facilités aux conditions suivantes:
 
-- a. elle exerce un mandat limité dans le temps qui lui a été confié par une organisation intergouvernementale, une institution internationale ou un groupe d’Etats;
+- a. elle exerce un mandat limité dans le temps qui lui a été confié par une organisation intergouvernementale, une institution internationale ou un groupe d’États;
 - b. elle est de nationalité étrangère;
 - c. elle est domiciliée en Suisse pendant la durée de son mandat et n’était pas au préalable résident permanent en Suisse;
 - d. elle n’exerce pas d’activité lucrative;
@@ -263,9 +268,9 @@ Une personnalité exerçant un mandat international peut, à titre exceptionnel,
 Les aides financières et les autres mesures de soutien visent notamment:
 
 - a. à améliorer les conditions d’accueil, de travail, d’intégration et de sécurité en Suisse des bénéficiaires visés à l’art. 19;
-- b. à mieux faire connaître la Suisse en tant qu’Etat hôte;
+- b. à mieux faire connaître la Suisse en tant qu’État hôte;
 - c. à promouvoir les candidatures suisses à l’accueil des bénéficiaires visés à l’art. 2;
-- d. à promouvoir les activités dans le domaine de la politique d’Etat hôte.
+- d. à promouvoir les activités dans le domaine de la politique d’État hôte.
 
 #### Art. 19
 
@@ -290,7 +295,7 @@ La Confédération peut:
 - e. créer des associations ou des fondations de droit privé et participer à de telles associations ou fondations;
 - f. charger les autorités de police compétentes de mettre en place des mesures de sécurité complémentaires aux mesures prises en exécution des obligations de protection qui incombent à la Suisse en vertu du droit international public, telles qu’elles sont prévues par la loi fédérale du 21 mars 1997 instituant des mesures visant au maintien de la sûreté intérieure[^20-1].
 
-[^20-1]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
+[^20-1]: [RS 120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4735)
 
 #### Art. 21
 
@@ -324,7 +329,7 @@ Le Conseil fédéral règle les conditions, la procédure et les modalités d’
 
 <sup>4</sup> Les OING ne peuvent pas bénéficier des privilèges, immunités ou facilités prévus par la présente loi.
 
-[^24-1]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^24-1]: [RS 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
 
 #### Art. 25
 
@@ -333,13 +338,13 @@ Le Conseil fédéral règle les conditions, la procédure et les modalités d’
 Est une OING au sens de la présente loi l’organisation qui remplit les conditions suivantes:
 
 - a. elle est constituée en la forme de l’association ou de la fondation de droit suisse;
-- b. elle a pour membres des personnes physiques de nationalités différentes ou des personnes morales établies selon le droit national de différents Etats;
-- c. elle exerce une activité effective dans plusieurs Etats;
+- b. elle a pour membres des personnes physiques de nationalités différentes ou des personnes morales établies selon le droit national de différents États;
+- c. elle exerce une activité effective dans plusieurs États;
 - d. elle poursuit des buts de service public ou d’utilité publique au sens de l’art. 56, let. g, de la loi fédérale du 14 décembre 1990 sur l’impôt fédéral direct[^25-1];
 - e. elle collabore avec une organisation intergouvernementale ou une institution internationale, par exemple lorsqu’elle dispose d’un statut d’observateur auprès d’une telle organisation ou institution;
 - f. sa présence sur le territoire suisse présente un intérêt particulier pour la Suisse.
 
-[^25-1]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^25-1]: [RS 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
 
 ## Chapitre 6 Compétences
 
@@ -362,7 +367,7 @@ Le Conseil fédéral peut conclure des accords internationaux portant sur:
 - b. le statut fiscal des bénéficiaires visés à l’art. 2;
 - c. le statut des membres du personnel de nationalité suisse des bénéficiaires institutionnels visés à l’art. 2, al. 1, en matière d’assurances sociales suisses;
 - d. l’octroi d’aides financières et d’autres mesures de soutien, sous réserve de la compétence budgétaire de l’Assemblée fédérale;
-- e. la coopération avec les pays limitrophes dans le domaine de la politique d’Etat hôte.
+- e. la coopération avec les pays limitrophes dans le domaine de la politique d’État hôte.
 
 <sup>3</sup>
 
@@ -397,9 +402,9 @@ Lorsqu’il conclut un accord de siège avec l’un des bénéficiaires institut
 
 <sup>2</sup> Lorsque les privilèges, les immunités et les facilités dérogent au droit fiscal du canton du siège du bénéficiaire, le Conseil fédéral décide en accord avec ledit canton.
 
-<sup>3</sup> Les cantons participent à la négociation d’accords internationaux dans le domaine de la politique d’Etat hôte conformément à la loi fédérale du 22 décembre 1999 sur la participation des cantons à la politique extérieure de la Confédération[^29-1].
+<sup>3</sup> Les cantons participent à la négociation d’accords internationaux dans le domaine de la politique d’État hôte conformément à la loi fédérale du 22 décembre 1999 sur la participation des cantons à la politique extérieure de la Confédération[^29-1].
 
-[^29-1]: [RS 138.1](https://fedlex.data.admin.ch/eli/cc/2000/229)
+[^29-1]: [RS 138.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4838)
 
 #### Art. 30
 
@@ -434,7 +439,7 @@ Le Conseil fédéral, ou le département dans les limites de ses compétences, p
 
 <sup>2</sup> Il peut associer les cantons ou des personnes morales de droit privé à l’exécution de la loi.
 
-<sup>3</sup> Il peut déléguer à des personnes morales de droit privé des tâches administratives dans le domaine de la politique d’Etat hôte.
+<sup>3</sup> Il peut déléguer à des personnes morales de droit privé des tâches administratives dans le domaine de la politique d’État hôte.
 
 #### Art. 34
 
@@ -450,7 +455,7 @@ Quel que soit l’ordre dans lequel la présente loi et la LEI entrent en vigueu
 
 …[^35-2]
 
-[^35-1]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)**.** Le titre a été adapté au 1<sup>er</sup> janv. 2019 en application de l’art. 12 al. 2 de la LF du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). Il a été tenu compte de cette mod. dans tout le texte.
+[^35-1]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)**.** Le titre a été adapté au 1<sup>er</sup> janv. 2019 en application de l’art. 12 al. 2 de la LF du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)). Il a été tenu compte de cette mod. dans tout le texte.
 [^35-2]: La mod. est insérée dans ladite loi.
 
 #### Art. 36

@@ -4,11 +4,11 @@ title: "Legge federale del 22 giugno 2007 sui privilegi, le immunità e le facil
 short: LSO
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/860"
 language: it
-version: 2008-01-01
+version: 2022-11-01
 adopted: 2007-06-22
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/860/20080101/it/xml/fedlex-data-admin-ch-eli-cc-2007-860-20080101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/860/20080101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/860/20221101/it/xml/fedlex-data-admin-ch-eli-cc-2007-860-20221101-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/860/20221101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/860/20080101/it"
 
 (Legge sullo Stato ospite, LSO)
 
-del 22 giugno 2007(Stato 1° gennaio 2008)
+del 22 giugno 2007 (Stato 1° novembre 2022)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -25,7 +25,7 @@ visto l’articolo 54 capoverso 1 della Costituzione federale[^ingress-1]; visto
 
 decreta:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 2006 7359](https://fedlex.data.admin.ch/eli/fga/2006/1012)
 
 ## Capitolo 1: Oggetto
@@ -94,6 +94,8 @@ i privilegi e le immunità comprendono:
 - i. l’esenzione dalle disposizioni in materia di entrata e di soggiorno in Svizzera;
 - j. l’esenzione da qualsivoglia servizio personale, da qualsivoglia servizio pubblico e da oneri e obblighi militari di qualsiasi natura.
 
+<sup>1bis</sup> In deroga all’articolo 5 capoverso 1 della legge federale del 25 giugno 1982[^3-1] sulla previdenza professionale per la vecchiaia, i superstiti e l’invalidità, il Consiglio federale può accordare al Comitato internazionale della Croce Rossa il privilegio di assoggettare alla legislazione sulla previdenza professionale i membri del personale non assicurati presso l’assicurazione federale per la vecchiaia e per i superstiti.[^3-2]
+
 <sup>2</sup>
 
 Le facilitazioni comprendono:
@@ -104,6 +106,9 @@ Le facilitazioni comprendono:
 - d. le facilitazioni in materia di immatricolazione di veicoli.
 
 <sup>3</sup> Il Consiglio federale può accordare altre facilitazioni di portata meno ampia di quelle di cui al capoverso 2.
+
+[^3-1]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
+[^3-2]: Introdotto dal n. I della LF del 17 giu. 2022, in vigore dal 1° nov. 2022 ([RU 2022 572](https://fedlex.data.admin.ch/eli/oc/2022/572); [FF 2021 2805](https://fedlex.data.admin.ch/eli/fga/2021/2805)).
 
 #### Art. 4
 
@@ -288,7 +293,7 @@ La Confederazione può:
 - e. istituire associazioni o fondazioni di diritto privato o parteciparvi;
 - f. incaricare le competenti autorità di polizia di attuare misure di sicurezza complementari alle misure prese in applicazione degli obblighi di protezione che incombono alla Svizzera in virtù del diritto internazionale pubblico, come previsto dalla legge federale del 21 marzo 1997[^20-1] sulle misure per la salvaguardia della sicurezza interna.
 
-[^20-1]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
+[^20-1]: [RS 120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4735)
 
 #### Art. 21
 
@@ -322,7 +327,7 @@ Il Consiglio federale disciplina le condizioni, la procedura e le modalità rela
 
 <sup>4</sup> Le OING non fruiscono tuttavia di privilegi, immunità e facilitazioni ai sensi della presente legge.
 
-[^24-1]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^24-1]: [RS 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
 
 #### Art. 25
 
@@ -337,7 +342,7 @@ Sono OING nel senso della presente legge le organizzazioni:
 - e. che collaborano con un’organizzazione intergovernativa o un’istituzione internazionale, per esempio quando dispongono di uno statuto di osservatore presso una simile organizzazione o istituzione; e
 - f. la cui presenza sul territorio svizzero presenta un interesse particolare per la Svizzera.
 
-[^25-1]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^25-1]: [RS 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
 
 ## Capitolo 6: Competenze
 
@@ -397,7 +402,7 @@ Quando conclude un accordo di sede con uno dei beneficiari istituzionali di cui 
 
 <sup>3</sup> I Cantoni partecipano alla negoziazione di accordi internazionali nel settore della politica di Stato ospite conformemente alla legge federale del 22 dicembre 1999[^29-1] concernente la partecipazione dei Cantoni alla politica estera della Confederazione.
 
-[^29-1]: [RS 138.1](https://fedlex.data.admin.ch/eli/cc/2000/229)
+[^29-1]: [RS 138.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4838)
 
 #### Art. 30
 
@@ -448,8 +453,8 @@ Indipendentemente dal fatto che entri prima in vigore la LStrI o la presente leg
 
 ...[^35-3]
 
-[^35-1]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^35-2]: Il titolo è stato adattato in applicazione dell’art. 12 cpv. 2 della LF del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° gen. 2019. Di detta mod. è tenuto conto in tutto il presente testo.
+[^35-1]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+[^35-2]: Il titolo è stato adattato in applicazione dell’art. 12 cpv. 2 della LF del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° gen. 2019. Di detta mod. è tenuto conto in tutto il presente testo.
 [^35-3]: La mod. può essere consultata alla [RU 2007 6637](https://fedlex.data.admin.ch/eli/oc/2007/860).
 
 #### Art. 36

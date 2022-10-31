@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 22. Juni 2007 über die von der Schweiz als Gaststaat g
 short: GSG
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/860"
 language: de
-version: 2008-01-01
+version: 2022-11-01
 adopted: 2007-06-22
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/860/20080101/de/xml/fedlex-data-admin-ch-eli-cc-2007-860-20080101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/860/20080101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/860/20221101/de/xml/fedlex-data-admin-ch-eli-cc-2007-860-20221101-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/860/20221101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/860/20080101/de"
 
 (Gaststaatgesetz, GSG)
 
-vom 22. Juni 2007 (Stand am 1. Januar 2008)
+vom 22. Juni 2007 (Stand am 1. November 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -25,7 +25,7 @@ gestützt auf Artikel 54 Absatz 1 der Bundesverfassung[^ingress-1], nach Einsich
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2006 8017](https://fedlex.data.admin.ch/eli/fga/2006/1012)
 
 ## 1. Kapitel: Gegenstand
@@ -94,6 +94,8 @@ Die Vorrechte und Immunitäten umfassen:
 - i. die Befreiung von den schweizerischen Einreise- und Aufenthaltsbestimmungen;
 - j. die Befreiung von allen persönlichen Dienstleistungen, von allen öffentlichen Dienstleistungen sowie von militärischen Auflagen und Pflichten jeder Art.
 
+<sup>1bis</sup> Der Bundesrat kann dem Internationalen Komitee vom Roten Kreuz das Vorrecht gewähren, in Abweichung von Artikel 5 Absatz 1 des Bundesgesetzes vom 25. Juni 1982[^3-1] über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge diejenigen Angestellten, die nicht bei der eidgenössischen Alters- und Hinterlassenenversicherung versichert sind, der Gesetzgebung über die berufliche Vorsorge zu unterstellen.[^3-2]
+
 <sup>2</sup>
 
 Die Erleichterungen umfassen:
@@ -104,6 +106,9 @@ Die Erleichterungen umfassen:
 - d. die erleichterte Zulassung von Fahrzeugen.
 
 <sup>3</sup> Der Bundesrat kann weitere Erleichterungen gewähren, die geringfügiger sind als diejenigen nach Absatz 2.
+
+[^3-1]: [SR 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
+[^3-2]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Nov. 2022 ([AS 2022 572](https://fedlex.data.admin.ch/eli/oc/2022/572); [BBl 2021 2805](https://fedlex.data.admin.ch/eli/fga/2021/2805)).
 
 #### Art. 4
 
@@ -288,7 +293,7 @@ Der Bund kann:
 - e. privatrechtliche Vereine oder Stiftungen gründen und sich an solchen beteiligen;
 - f. die zuständigen Polizeibehörden beauftragen, zusätzlich zu den im Rahmen der völkerrechtlichen Schutzpflichten der Schweiz getroffenen Massnahmen, wie sie das Bundesgesetz vom 21. März 1997[^20-1] über Massnahmen zur Wahrung der inneren Sicherheit vorsieht, weitere Sicherheitsmassnahmen zu ergreifen.
 
-[^20-1]: [SR 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
+[^20-1]: [SR 120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4735)
 
 #### Art. 21
 
@@ -322,7 +327,7 @@ Der Bundesrat regelt die Voraussetzungen, das Verfahren und die Modalitäten fü
 
 <sup>4</sup> Die INGO erhalten jedoch keine Vorrechte, Immunitäten und Erleichterungen im Sinne dieses Gesetzes.
 
-[^24-1]: [SR 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^24-1]: [SR 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
 
 #### Art. 25
 
@@ -337,7 +342,7 @@ Eine INGO im Sinne dieses Gesetzes ist eine Organisation:
 - e. die mit einer zwischenstaatlichen Organisation oder einer internationalen Institution zusammenarbeitet, beispielsweise indem sie bei einer solchen Organisation oder Institution Beobachterstatus besitzt; und
 - f. deren Anwesenheit in der Schweiz von besonderem Interesse für die Schweiz ist.
 
-[^25-1]: [SR 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^25-1]: [SR 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
 
 ## 6. Kapitel: Befugnisse
 
@@ -397,7 +402,7 @@ Schliesst der Bundesrat ein Sitzabkommen mit einem institutionellen Begünstigte
 
 <sup>3</sup> Die Kantone beteiligen sich im Sinne des Bundesgesetzes vom 22. Dezember 1999[^29-1] über die Mitwirkung der Kantone an der Aussenpolitik des Bundes an der Aushandlung völkerrechtlicher Verträge im Bereich der Gaststaatpolitik.
 
-[^29-1]: [SR 138.1](https://fedlex.data.admin.ch/eli/cc/2000/229)
+[^29-1]: [SR 138.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4838)
 
 #### Art. 30
 
@@ -446,9 +451,9 @@ Die Aufhebung und die Änderung bisherigen Rechts werden im Anhang geregelt.
 
 Unabhängig davon, ob das AIG oder das vorliegende Gesetz zuerst in Kraft tritt, wird mit Inkrafttreten des später in Kraft tretenden Gesetzes sowie bei gleichzeitigem Inkrafttreten Ziffer II 2. des Anhangs des vorliegenden Gesetzes gegenstandslos und Artikel 98 Absatz 2 AIG lautet wie folgt:
 
-...[^35-2]
+…[^35-2]
 
-[^35-1]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758). Der Titel wurde in Anwendung von Art. 12 Abs. 2 der Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. Jan. 2019 angepasst. Diese Anpassung wurde im ganzen Text vorgenommen.
+[^35-1]: [SR 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851). Der Titel wurde in Anwendung von Art. 12 Abs. 2 der Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Jan. 2019 angepasst. Diese Anpassung wurde im ganzen Text vorgenommen.
 [^35-2]: Die Änderung kann unter [AS 2007 6637](https://fedlex.data.admin.ch/eli/oc/2007/860)konsultiert werden.
 
 #### Art. 36

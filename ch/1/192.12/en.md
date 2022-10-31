@@ -4,11 +4,11 @@ title: "Federal Act of 22 June 2007 on the Privileges, Immunities and Facilities
 short: HSA
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/860"
 language: en
-version: 2008-01-01
+version: 2022-11-01
 adopted: 2007-06-22
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/860/20080101/en/xml/fedlex-data-admin-ch-eli-cc-2007-860-20080101-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/860/20080101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/860/20221101/en/xml/fedlex-data-admin-ch-eli-cc-2007-860-20221101-en-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/860/20221101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,15 +19,15 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Host State Act, HSA)
 
-of 22 June 2007 (Status as at 1 January 2008)
+of 22 June 2007 (Status as at 1 November 2022)
 
 The Federal Assembly of the Swiss Confederation,
 
-on the basis of Article 54 paragraph 1 of the Federal Constitution,[^ingress-1] and having considered the Dispatch to Parliament of the Federal Council dated 13 Semptember 2006[^ingress-2],
+on the basis of Article 54 paragraph 1 of the Federal Constitution,[^ingress-1] and having considered the Dispatch to Parliament of the Federal Council dated 13 September 2006[^ingress-2],
 
 decrees:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2006 8017](https://fedlex.data.admin.ch/eli/fga/2006/1012)
 
 ## Chapter 1 Subject Matter
@@ -96,6 +96,8 @@ The privileges and immunities include:
 - i. exemption from Swiss entry and residence requirements;
 - j. exemption from all personal services, from all public service and from all military duties or obligations of any kind.
 
+<sup>1bis</sup> In derogation from Article 5 paragraph 1 of the Federal Act of 25 June 1982[^3-1] on Occupational Old Age, Survivors' and Invalidity Pension Provision, the Federal Council may grant the International Committee of the Red Cross the privilege for its employees who are not insured under the old-age and survivors’ insurance scheme to be subject to the legislation on occupation pension provision.[^3-2]
+
 <sup>2</sup>
 
 The facilities include:
@@ -106,6 +108,9 @@ The facilities include:
 - d. facilities of registration of vehicles.
 
 <sup>3</sup> The Federal Council may accord additional facilities of a more minor nature than those set out in paragraph 2 above.
+
+[^3-1]: [SR 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
+[^3-2]: Inserted by No I of the FA of 17 June 2022, in force since 1 Nov. 2022 ([AS 2022 572](https://fedlex.data.admin.ch/eli/oc/2022/572); [BBl 2021 2805](https://fedlex.data.admin.ch/eli/fga/2021/2805)).
 
 #### Art. 4
 
@@ -142,7 +147,7 @@ An institutional beneficiary may be accorded privileges, immunities and faciliti
 
 - a. it has its headquarters or a branch in Switzerland or carries out activities in Switzerland;
 - b. its purposes are not for profit and are of international utility;
-- c. its carries out activities in the sphere of international relations; and
+- c. it carries out activities in the sphere of international relations; and
 - d. its presence in Switzerland is of special interest to Switzerland.
 
 #### Art. 7
@@ -236,7 +241,7 @@ An eminent person carrying out an international mandate may by way of exception 
 
 **Acquisition of land and buildings**
 
-<sup>1</sup> Institutional beneficiaries, within the meaning of Article 2 paragraph 1, may acquire land and buildings for the purposes of their official activities. The area of the property concerned must not exceed what is necessary for those purposes.
+<sup>1</sup> Institutional beneficiaries within the meaning of Article 2 paragraph 1 may acquire land and buildings for the purposes of their official activities. The area of the property concerned must not exceed what is necessary for those purposes.
 
 <sup>2</sup> The acquirer must submit an application to the Federal Department of Foreign Affairs (the Department) and a copy of the same to the relevant authority in the canton concerned.
 
@@ -290,7 +295,7 @@ Financial subsidies and other support measures provided by the Confederation may
 - e. the creation of associations or foundations governed by private law and participation in such associations or foundations;
 - f. instructions to the relevant police authorities to implement further security measures going beyond those already adopted by Switzerland to meet its security obligations under international law in the Federal Act of 21 March 1997[^20-1] on Measures to Safeguard Internal Security.
 
-[^20-1]: [SR 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
+[^20-1]: [SR 120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4735)
 
 #### Art. 21
 
@@ -324,7 +329,7 @@ The Federal Council shall lay down the conditions, procedures and detailed rules
 
 <sup>4</sup> INGOs are not eligible for the privileges, immunities and facilities contemplated by this Act.
 
-[^24-1]: [SR 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^24-1]: [SR 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
 
 #### Art. 25
 
@@ -339,7 +344,7 @@ An INGO, for the purposes of this Act, is an organisation:
 - e. which operates in conjunction with an intergovernmental organisation or international institution, for example by having observer status at such organisation or institution; and
 - f. whose presence in Switzerland is of special interest to Switzerland.
 
-[^25-1]: [SR 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^25-1]: [SR 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
 
 ## Chapter 6 Powers
 
@@ -399,7 +404,7 @@ When entering into a headquarters agreement with an institutional beneficiary wi
 
 <sup>3</sup> The cantons shall participate, within the meaning of the Federal Act of 22 December 1999[^29-1] on the Participation of the Cantons in the Foreign Policy of the Confederation, in the negotiation of international treaties in the area of host state policy.
 
-[^29-1]: [SR 138.1](https://fedlex.data.admin.ch/eli/cc/2000/229)
+[^29-1]: [SR 138.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4838)
 
 #### Art. 30
 
@@ -444,17 +449,14 @@ The repeal and amendment of the current law is regulated in the Annex.
 
 #### Art. 35
 
-**Coordination with the the Foreign Nationals and Integration Act of 16 December 2005[^35-1] (FNIA)**
+**Coordination with the Foreign Nationals and Integration Act of 16 December 2005[^35-1] (FNIA)**
 
-On the commencement of this Act or of the FNA, whichever is later, or on the simultaneous commencement of both, Chapter II number 2 of the Annex to this Act will become redundant and Article 98, paragraph 2, FNA is worded as follows:
+*On the commencement of this Act or of the FNA, whichever is later, or on the simultaneous commencement of both, Chapter II number 2 of the Annex to this Act will become redundant and Article 98, paragraph 2, FNA is worded as follows:*
 
-[^35-1]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758). The title was amended on 1 Jan. 2019 pursuant to Art. 12 para. 2 of the Publications Act of 18 June 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). This amendment is inserted in the said Act.
+…[^35-2]
 
-### Art. 98 para. 2
-
-…[^35-subdivu2-1]
-
-[^35-subdivu2-1]: The amendments may be consulted under [AS 2007 6637](https://fedlex.data.admin.ch/eli/oc/2007/860).
+[^35-1]: [SR 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851). The title was amended on 1 Jan. 2019 pursuant to Art. 12 para. 2 of the Publications Act of 18 June 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)). This amendment is inserted in the said Act.
+[^35-2]: The amendment may be consulted under [AS 2007 6637](https://fedlex.data.admin.ch/eli/oc/2007/860).
 
 #### Art. 36
 
