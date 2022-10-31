@@ -4,13 +4,13 @@ number: "126.3"
 title: Gesamtarbeitsvertrag
 short: GAV
 language: de
-version: 2022-09-01
-valid_until: 2022-10-31
-version_adopted: 2022-08-30
+version: 2022-11-01
+valid_until: 2022-12-31
+version_adopted: 2022-10-24
 adopted: 2004-10-25
 in_force: 2005-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/126.3"
-pdf: "https://bgs.so.ch/api/de/versions/5258/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5276/pdf_file"
 text: pdf
 ---
 
@@ -18,7 +18,7 @@ text: pdf
 
 # Gesamtarbeitsvertrag (GAV)
 
-vom 25. Oktober 2004 (Stand 1. September 2022)
+vom 25. Oktober 2004 (Stand 1. November 2022)
 
 zwischen dem Kanton Solothurn vertreten durch den Regierungsrat
 
@@ -2088,15 +2088,22 @@ Die Entschädigung beträgt für die Benützung von a) Motorrädern 35 Rappen pr
 
 **Sachschäden auf Dienstfahrten**
 
-<sup>1</sup> Sachschäden an privaten Motorfahrzeugen trägt der Arbeitgeber, sofern der Schaden von dem oder der Arbeitnehmenden nicht vorsätzlich oder grobfahrlässig verursacht wurde.
+<sup>1</sup> Sachschäden an privaten Motorfahrzeugen trägt unter Vorbehalt von Absatz 2 der Arbeitgeber, sofern der Schaden von dem oder der Arbeitnehmenden nicht vorsätzlich oder grobfahrlässig verursacht wurde.[^164-1]
 
-<sup>2</sup> Wird der Schaden von einer privaten Kaskoversicherung getragen, übernimmt der Arbeitgeber den infolge Rückstufung im Prämientarif entstandenen Prämienmehraufwand.
+<sup>1bis</sup> Der Sachschaden ist der privaten Kaskoversicherung zu melden.[^164-2]
 
-<sup>3</sup> Der Selbstbehalt beträgt 300 Franken. Auf den Selbstbehalt wird verzichtet, wenn Schäden bei ausserordentlichen dienstlichen Einsätzen entstehen.
+<sup>2</sup> Wird der Sachschaden von einer privaten Kaskoversicherung getragen, übernimmt der Arbeitgeber einen allfälligen Selbstbehalt sowie den infolge Rückstufung im Prämientarif entstandenen Prämienmehraufwand. Sollten Selbstbehalt und Prämienmehraufwand die Höhe der Kosten für die Reparatur des Sachschadens übersteigen, trägt der Arbeitgeber den Sachschaden.[^164-3]
+
+<sup>3</sup> …[^164-4]
 
 <sup>4</sup> Weitere Ansprüche können nicht geltend gemacht werden.
 
 <sup>5</sup> Das Finanzdepartement entscheidet im Einzelfall.
+
+[^164-1]: § 164 Absatz 1 Fassung vom 24. Oktober 2022.
+[^164-2]: § 164 Absatz 1bis eingefügt am 24. Oktober 2022.
+[^164-3]: § 164 Absatz 2 Fassung vom 24. Oktober 2022.
+[^164-4]: § 164 Absatz 3 aufgehoben am 24. Oktober 2022.
 
 #### § 165
 
@@ -2175,7 +2182,7 @@ Die Entschädigung für die Gesprächstaxen wird mit besonderem Formular geltend
 3.1. Bezahlter Urlaub
 
 [^167-1]: Kapitel 2.4. §§ 167bis-167sexies eingefügt am 12. März 2007.
-[^167-2]: § 167ter Absatz 3 eingefügt am 30. August 2022.
+[^167-2]: § 169 Absatz 3 angefügt am 12. März 2007.
 [^167-3]: § 167ter Absatz 4 eingefügt am 30. August 2022.
 
 #### § 168
@@ -3312,11 +3319,11 @@ Die betroffenen Personen haben das Recht auf a) Beratung und Unterstützung (inf
 
 <sup>1</sup> Gestützt auf den Untersuchungsbericht fasst der Regierungsrat einen Beschluss, in welchem er über die von der anzeigenden Person gestellten Anträge entscheidet. Gegenüber der angezeigten Person kann er personalrechtliche Massnahmen anordnen. Möglich ist auch die Anordnung von Führungs- oder organisatorischen Massnahmen.
 
-<sup>1bis</sup> Der Regierungsrat kann der obsiegenden Partei eine durch den Kanton zu tragende Parteientschädigung zusprechen. Anwaltskosten werden zu einem Stundenansatz von höchstens 220 Franken vergütet. Bei ungebührlicher Verfahrensverzögerung oder bös- und mutwilliger Prozessführung können einer Partei Verfahrenskosten auferlegt werden.[^236-1]
+<sup>1bis</sup> Der Regierungsrat kann der obsiegenden Partei eine durch den Arbeitgeber zu tragende Parteientschädigung zusprechen. Anwaltskosten werden zu einem Stundenansatz von höchstens 220 Franken vergütet. Bei ungebührlicher Verfahrensverzögerung oder bös- und mutwilliger Prozessführung können einer Partei Verfahrenskosten auferlegt werden.[^236-1]
 
 <sup>2</sup> Der Beschluss ist nach § 237 GAV anfechtbar.
 
-[^236-1]: § 236 Absatz 1bis eingefügt am 30. April 2019.
+[^236-1]: § 236 Absatz 1bis Fassung am 24. Oktober 2022.
 
 ### I. Rechtsschutz
 
@@ -3596,17 +3603,13 @@ Der Grundlohn für soziales und medizinisches Personal beträgt für Mitarbeiten
 
 Die ersten 10 Erfahrungsanstiege für soziales und medizinisches Personal mit Stellenantritt vor dem 1. Januar 2016 betragen 3%, die nächsten zwei Erfahrungsanstiege 2,5% und die weiteren Erfahrungsanstiege 1,25%. Für Mitarbeitende mit Stellenantritt ab dem 1. Januar 2016 gilt der Erfahrungszuschlag nach § 133 GAV.
 
-### NB AT Anhang 2 AHV-Ersatzrente (§ 203 ff. GAV)
+**LK**
 
-[^hNBATAnhang2AHVE-1]: § 245 Fassung vom 24. Oktober 2016.
+**Anstieg 2,5% Anstieg 1,25%**
 
-#### §245
+LK Erfahrungsstufen Anstieg 3,5% E0 E1 E2 E3 E4 E5 E6 E7 E8 E9 E10 E11 E12 E13 E14 E15 1 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 1 2 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 2 3 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 3 4 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 4 5 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 5 6 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 6 7 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 7 8 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 8 9 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 9 10 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 10 11 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 11 12 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 12 13 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 99.3% 98.3% 97.3% 96.3% 95.3% 94.3% 13 14 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 98.8% 96.7% 95.7% 94.6% 93.6% 92.6% 91.5% 90.5% 89.4% 88.4% 14 15 100% 100% 100% 100% 100% 100% 100% 100% 100% 98.3% 95.2% 93.0% 90.8% 89.7% 88.6% 87.5% 86.4% 85.3% 84.2% 83.1% 82.0% 15 16 100% 100% 100% 100% 100% 100% 100% 98.9% 95.7% 92.5% 89.2% 86.9% 84.6% 83.4% 82.3% 81.1% 80.0% 78.8% 77.7% 76.5% 75.3% 16 17 100% 100% 100% 100% 100% 99.9% 96.5% 93.1% 89.7% 86.3% 82.9% 80.5% 78.0% 76.8% 75.6% 74.4% 73.2% 72.0% 70.7% 69.5% 68.3% 17 18 100% 100% 100% 100% 97.7% 94.1% 90.5% 87.0% 83.4% 79.8% 76.2% 73.7% 71.1% 69.8% 68.6% 67.3% 66.0% 64.7% 63.5% 62.2% 60.9% 18 19 100% 100% 99.3% 95.5% 91.8% 88.0% 84.3% 80.5% 76.7% 73.0% 69.2% 66.6% 63.9% 62.5% 61.2% 59.8% 58.5% 57.2% 55.8% 54.5% 53.1% 19 20 100% 97.4% 93.5% 89.5% 85.6% 81.6% 77.7% 73.8% 69.8% 65.9% 61.9% 59.1% 56.3% 54.9% 53.5% 52.0% 50.6% 49.2% 47.8% 46.4% 45% 20 21 95.7% 91.5% 87.4% 83.3% 79.1% 75.0% 70.8% 66.7% 62.5% 58.4% 54.2% 51.3% 48.3% 46.8% 45.4% 45.0% 45.0% 45.0% 45.0% 45.0% 45% 21 22 89.8% 85.4% 81.0% 76.7% 72.3% 68.0% 63.6% 59.3% 54.9% 50.6% 46.2% 45.0% 45.0% 45.0% 45.0% 45.0% 45.0% 45.0% 45.0% 45.0% 45% 22 23 83.6% 79.0% 74.4% 69.9% 65.3% 60.7% 56.1% 51.6% 47.0% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 23 24 77.1% 72.3% 67.5% 62.7% 57.9% 53.1% 48.3% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 24 25 70.4% 65.3% 60.3% 55.3% 50.2% 45.2% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 25 26 63.4% 58.1% 52.8% 47.5% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 26 27 56.1% 50.6% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 27 28 48.5% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 28 29 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 29 30 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 30 31 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 45% 31
 
-**Berechnung der AHV-Ersatzrente[^hNBATAnhang2AHVE-1]**
-
-### Die AHV-Ersatzrente berechnet sich wie folgt: Jahresbruttolohn inkl. 13 Mo-
-
-natslohn und unkl. Teuerungszulagen ohne Leistungsbonus.
+**E16 E17 E18 E19 E20**
 
 ### Normative Bestimmungen, Besonderer Teil: I. Spitäler (NB BT Spitäler)
 
@@ -6974,11 +6977,14 @@ Inkrafttreten GAV am 1. Januar 2005 (§ 21).[^520-1]
 
 - 7\. Juni 2022 am 1. August 2022;
 
-- 30\. August 2022 am 1. September 2022.
+- 30\. August 2022 am 1. September 2022,
+
+- 24\. Oktober 2022 am 1. November 2022.
 
 ## Weitere Fussnoten
 
 - [1] § 125 Absatz 2 Fassung vom 18. Juni 2019.
+- [3] § 167ter Absatz 3 eingefügt am 30. August 2022.
 - [18] a
 - [2] Fassung vom 20. Juni 2011.
 - [3] Fassung vom 20. Juni 2011.
