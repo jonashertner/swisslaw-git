@@ -4,11 +4,11 @@ title: Ordonnance du DFI du 16 décembre 2016 sur les cosmétiques (OCos)
 short: OCos
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/165"
 language: fr
-version: 2020-07-01
+version: 2022-11-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/165/20200701/fr/xml/fedlex-data-admin-ch-eli-cc-2017-165-20200701-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/165/20200701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/165/20221101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-165-20221101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/165/20221101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/165/20200701/fr"
 
 (OCos)
 
-du 16 décembre 2016 (Etat le 1<sup>er</sup> juillet 2020)
+du 16 décembre 2016 (État le 1<sup>er</sup> novembre 2022)
 
 Le Département fédéral de l’intérieur (DFI),
 
@@ -191,15 +191,15 @@ L’emballage des cosmétiques doit porter, au moment de la mise sur le marché,
 - c. pour les cosmétiques décoratifs mis sur le marché avec plusieurs nuances de couleur, l’ensemble des colorants utilisés dans la gamme, à l’exception de ceux destinés à colorer les cheveux ou le système pileux du visage et des cils, peut être mentionné, à condition d’y ajouter la mention «peut contenir ...» ou le symbole «+/–»;
 - d. les compositions parfumantes et aromatiques et leurs matières premières peuvent figurer sous la dénomination «parfum» ou «aroma»; la présence de substances dont la déclaration est exigée conformément à l’art. 54, al. 2, ODAlOUs, doit être indiquée dans la liste des ingrédients, en plus de la dénomination «parfum» ou «aroma»;
 - e. tout ingrédient présent sous la forme d’un nanomatériau doit être clairement indiqué dans la liste des ingrédients, suivi du mot «nano» entre crochets;
-- f.[^8-2] les ingrédients sont listés conformément à la dénomination commune établie dans l’annexe de la décision (UE) 2019/701[^8-3]; à défaut de dénomination commune de l’ingrédient, un terme figurant dans la nomenclature généralement admise sera utilisé.
+- f.[^8-2] les ingrédients sont listés conformément à la dénomination commune établie dans l’annexe de la décision d’exécution (UE) 2022/677[^8-3]; à défaut de dénomination commune de l’ingrédient, un terme figurant dans la nomenclature généralement admise sera utilisé.
 
 <sup>2</sup> Lorsque la liste des ingrédients ne peut être apposée sur l’étiquetage pour des raisons d’ordre pratique, elle doit figurer sur une notice, une étiquette, une bande ou une carte jointe ou attachée au produit, et une mention écrite ou le pictogramme illustré à l’annexe 2 doit figurer sur l’emballage.
 
 <sup>3</sup> Pour les savons et perles de bains et autres petits produits, la liste des ingrédients peut figurer sur un écriteau placé à proximité immédiate du récipient dans lequel le cosmétique est proposé à la vente.
 
 [^8-1]: Erratum du 30 mai 2017 ([RO 2017 3263](https://fedlex.data.admin.ch/eli/oc/2017/335)).
-[^8-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2427](https://fedlex.data.admin.ch/eli/oc/2020/457)).
-[^8-3]: Décision (UE) 2019/701 de la Commission du 5 avril 2019 établissant un glossaire des dénominations communes des ingrédients à utiliser dans l’étiquetage des produits cosmétiques, version du JO L 121 du 8.5.2019, p. 1
+[^8-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 14 oct. 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 588](https://fedlex.data.admin.ch/eli/oc/2022/588)).
+[^8-3]: Décision d’exécution (UE) 2022/677 de la Commission du 31 mars 2022 portant modalités d’application du règlement (CE) n<sup>o</sup> 1223/2009 du Parlement européen et du Conseil en ce qui concerne le glossaire des dénominations communes des ingrédients à utiliser dans l’étiquetage des produits cosmétiques; version selon le JO L 127 du 29.4.2022, p. 1.
 
 #### Art. 9
 
@@ -310,6 +310,16 @@ En dérogation aux al. 1 et 2, les substances suivantes peuvent être mises sur 
 
 [^16a-1]: Introduit par le ch. I de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2427](https://fedlex.data.admin.ch/eli/oc/2020/457)).
 
+#### Art. 16b
+
+**Disposition transitoire de la modification du 14 octobre 2022**[^16b-1]
+
+<sup>1</sup> Les cosmétiques qui ne satisfont pas aux exigences de la modification du 14 octobre 2022 peuvent encore être étiquetés en vertu de l’ancien droit jusqu’au 28 avril 2023.
+
+<sup>2</sup> Après l’échéance du délai transitoire, les cosmétiques étiquetés en vertu de l’ancien droit peuvent encore être remis au consommateur jusqu’à épuisement des stocks.
+
+[^16b-1]: Introduit par le ch. I de l’O du DFI du 14 oct. 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 588](https://fedlex.data.admin.ch/eli/oc/2022/588)).
+
 #### Art. 17
 
 **Entrée en vigueur**
@@ -359,7 +369,7 @@ Annexe 2
 
 ## Pictogramme à utiliser sur l’emballage/le récipient d’un cosmétique pour indiquer un renvoi à des informations jointes ou attachées au produit
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/165/20200701/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/165/20221101/fr/xml/image/image1.png)
 
 Annexe 3
 
@@ -367,7 +377,7 @@ Annexe 3
 
 ## Pictogramme à utiliser sur l’emballage/le récipient d’un cosmétique pour indiquer la durée de conservation après ouverture
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/165/20200701/fr/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/165/20221101/fr/xml/image/image2.png)
 
 Annexe 4
 
@@ -375,7 +385,7 @@ Annexe 4
 
 ## Pictogramme à utiliser sur l’emballage/le récipient d’un cosmétique pour indiquer la date de durabilité minimale
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/165/20200701/fr/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/165/20221101/fr/xml/image/image3.png)
 
 Annexe 5
 
@@ -554,7 +564,7 @@ Annexe 7
 
 (art. 12, al. 3)
 
-## Normes techniques s’appliquant aux cosmétiques****
+## Normes techniques s’appliquant aux cosmétiques
 
 [^annex7-lvlu1-1]
 

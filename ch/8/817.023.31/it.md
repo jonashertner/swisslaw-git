@@ -4,11 +4,11 @@ title: Ordinanza del DFI del 16 dicembre 2016 sui cosmetici (OCos)
 short: OCos
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/165"
 language: it
-version: 2020-07-01
+version: 2022-11-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/165/20200701/it/xml/fedlex-data-admin-ch-eli-cc-2017-165-20200701-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/165/20200701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/165/20221101/it/xml/fedlex-data-admin-ch-eli-cc-2017-165-20221101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/165/20221101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/165/20200701/it"
 
 (OCos)
 
-del 16 dicembre 2016 (Stato 1° luglio 2020) (Stato 1° luglio 2020)
+del 16 dicembre 2016 (Stato 1° novembre 2022)
 
 Il Dipartimento federale dell’interno (DFI),
 
@@ -193,15 +193,15 @@ Sugli imballaggi dei cosmetici deve figurare, al momento dell’immissione sul m
 - c. per i cosmetici da trucco immessi sul mercato in varie sfumature di colore, può essere menzionato l’insieme dei coloranti utilizzati nella gamma, ad eccezione di quelli destinati a colorare i capelli o le zone pilifere del viso e le ciglia, a condizione di aggiungervi l’indicazione «può contenere …» o il simbolo «+/–»;
 - d. i composti odoranti e aromatizzanti e le loro materie prime possono figurare sotto la denominazione di «profumo» o «aroma»; la presenza di sostanze la cui dichiarazione è richiesta conformemente all’articolo 54 capoverso 2 ODerr deve essere indicata nell’elenco degli ingredienti, oltre alla denominazione di «profumo» o «aroma»;
 - e. tutti gli ingredienti presenti sotto forma di nanomateriali devono essere chiaramente indicati nell’elenco degli ingredienti, seguiti dalla parola «nano» posta tra virgolette;
-- f. [^8-2] gli ingredienti sono elencati secondo la denominazione comune definita nell’allegato della decisione (UE) 2019/701[^8-3]; in mancanza di una denominazione comune dell’ingrediente, è utilizzato un termine che figura nella nomenclatura generalmente riconosciuta.
+- f. [^8-2] gli ingredienti sono elencati secondo la denominazione comune definita nell’allegato della decisione di esecuzione (UE) 2022/677[^8-3]; in mancanza di una denominazione comune dell’ingrediente, è utilizzato un termine che figura nella nomenclatura generalmente riconosciuta.
 
 <sup>2</sup> Se per ragioni pratiche non può essere apposto sulla caratterizzazione, l’elenco degli ingredienti deve figurare su un foglio di istruzioni, un’etichetta, una fascetta o un cartellino allegato o attaccato al cosmetico e un’indicazione scritta o il pittogramma illustrato nell’allegato 2 deve figurare sull’imballaggio.
 
 <sup>3</sup> Per i saponi e le perle da bagno e altri prodotti piccoli, l’elenco degli ingredienti può figurare su un cartellino collocato vicino al recipiente in cui è contenuto il cosmetico offerto in vendita.
 
 [^8-1]: Correzione del 30 mag. 2017 ([RU 2017 3263](https://fedlex.data.admin.ch/eli/oc/2017/335)).
-[^8-2]: Nuovo testo giusta il n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2427](https://fedlex.data.admin.ch/eli/oc/2020/457)).
-[^8-3]: Decisione (UE) 2019/701 della Commissione, del 5 aprile 2019, che stabilisce un glossario delle denominazioni comuni degli ingredienti da utilizzare nell’etichettatura dei prodotti cosmetici, versione della GU L 121 dell’8.5.2019, pag. 1.
+[^8-2]: Nuovo testo giusta il n. I dell’O del DFI del 14 ott. 2022, in vigore dal 1° nov. 2022 ([RU 2022 588](https://fedlex.data.admin.ch/eli/oc/2022/588)).
+[^8-3]: Decisione di esecuzione (UE) 2022/677 della Commissione, del 31 marzo 2022, recante modalità di applicazione del regolamento (CE) n. 1223/2009 del Parlamento europeo e del Consiglio per quanto riguarda il glossario delle denominazioni comuni degli ingredienti da utilizzare nell’etichettatura dei prodotti cosmetici; versione della GU L 127 del 29.4.2022, pag. 1.
 
 #### Art. 9
 
@@ -312,6 +312,16 @@ In deroga ai capoversi 1 e 2, le sostanze seguenti possono essere immesse sul me
 
 [^16a-1]: Introdotto dal n. I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2427](https://fedlex.data.admin.ch/eli/oc/2020/457)).
 
+#### Art. 16b
+
+**Disposizione transitoria relativa alla modifica del 14 ottobre 2022**[^16b-1]
+
+<sup>1</sup> I prodotti cosmetici che non soddisfano i requisiti della modifica del 14 ottobre 2022 possono essere caratterizzati fino al 28 aprile 2023 secondo il diritto anteriore.
+
+<sup>2</sup> Dopo la scadenza del periodo transitorio, i prodotti cosmetici caratterizzati secondo il diritto anteriore possono essere consegnati ai consumatori fino a esaurimento delle scorte.
+
+[^16b-1]: Introdotto dal n. I dell’O del DFI del 14 ott. 2022, in vigore dal 1° nov. 2022 ([RU 2022 588](https://fedlex.data.admin.ch/eli/oc/2022/588)).
+
 #### Art. 17
 
 **Entrata in vigore**
@@ -361,7 +371,7 @@ Allegato 2
 
 ## Pittogramma da utilizzare sull’imballaggio/sul recipiente di un cosmetico per indicare un rimando alle informazioni allegate o attaccate al prodotto
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/165/20200701/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/165/20221101/it/xml/image/image1.png)
 
 Allegato 3
 
@@ -369,7 +379,7 @@ Allegato 3
 
 ## Pittogramma da utilizzare sull’imballaggio/sul recipiente di un cosmetico per indicare la durata minima di conservazione dopo l’apertura
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/165/20200701/it/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/165/20221101/it/xml/image/image2.png)
 
 Allegato 4
 
@@ -377,7 +387,7 @@ Allegato 4
 
 ## Pittogramma da utilizzare sull’imballaggio/sul recipiente di un cosmetico per indicare la data di durata minima di conservazione
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/165/20200701/it/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/165/20221101/it/xml/image/image3.png)
 
 Allegato 5
 
@@ -556,7 +566,7 @@ Allegato 7
 
 (art. 12 cpv. 3)
 
-## Norme tecniche per i cosmetici****
+## Norme tecniche per i cosmetici
 
 [^annex7-lvlu1-1]
 

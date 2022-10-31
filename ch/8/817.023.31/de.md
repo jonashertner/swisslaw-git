@@ -4,11 +4,11 @@ title: Verordnung des EDI vom 16. Dezember 2016 über kosmetische Mittel (VKos)
 short: VKos
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/165"
 language: de
-version: 2020-07-01
+version: 2022-11-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/165/20200701/de/xml/fedlex-data-admin-ch-eli-cc-2017-165-20200701-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/165/20200701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/165/20221101/de/xml/fedlex-data-admin-ch-eli-cc-2017-165-20221101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/165/20221101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/165/20200701/de"
 
 (VKos)
 
-vom 16. Dezember 2016 (Stand am 1. Juli 2020)
+vom 16. Dezember 2016 (Stand am 1. November 2022)
 
 Das Eidgenössische Departement des Innern (EDI),
 
@@ -190,18 +190,18 @@ Auf der Verpackung kosmetischer Mittel muss zum Zeitpunkt des Inverkehrbringens,
 
 - a. Bestandteile unter 1 Massenprozent des Endproduktes können in beliebiger Reihenfolge im Anschluss an diejenigen mit einer Konzentration von mehr als 1 Prozent aufgeführt werden.
 - b. Farbstoffe können nach den anderen Bestandteilen in beliebiger Reihenfolge und mit Angabe der CI-Nummer (Colour Index) oder entsprechend den in Artikel 54 Absatz 3 LGV aufgeführten Vorschriften angegeben werden.
-- c. Bei dekorativen kosmetischen Mitteln, die in einer Palette von Farbnuancen vermarktet werden, können alle in der Palette verwendeten Farbstoffe ausser solchen, die zum Färben von Haar oder Gesichtshaar und Wimpern bestimmt sind, aufgeführt werden, sofern die Worte «kann ... enthalten» oder das Symbol «+/–» hinzugefügt werden.
+- c. Bei dekorativen kosmetischen Mitteln, die in einer Palette von Farbnuancen vermarktet werden, können alle in der Palette verwendeten Farbstoffe ausser solchen, die zum Färben von Haar oder Gesichtshaar und Wimpern bestimmt sind, aufgeführt werden, sofern die Worte «kann … enthalten» oder das Symbol «+/–» hinzugefügt werden.
 - d. Riech- und Aromastoffe und ihre Ausgangsstoffe können mit den Begriffen «Parfum» oder «Aroma» angegeben werden; Stoffe, die gemäss den in Artikel 54 Absatz 2 LGV aufgeführten Vorschriften angegeben werden müssen, sind in der Liste der Bestandteile zusätzlich zum Begriff «Parfum» oder «Aroma» anzugeben.
 - e. Alle Bestandteile in Form von Nanomaterialien müssen eindeutig in der Liste der Bestandteile aufgeführt werden, gefolgt vom Wort «Nano» in Klammern.
-- f.[^8-2] Die Bestandteile werden gemäss der gemeinsamen Bezeichnung nach dem Anhang des Beschlusses (EU) 2019/701[^8-3] aufgeführt; ist keine gemeinsame Bestandteilbezeichnung vorhanden, so ist eine Bezeichnung aus einer allgemein anerkannten Nomenklatur zu verwenden.
+- f.[^8-2] Die Bestandteile werden gemäss der gemeinsamen Bezeichnung nach dem Anhang des Durchführungsbeschlusses (EU) 2022/677[^8-3] aufgeführt; ist keine gemeinsame Bestandteilbezeichnung vorhanden, so ist eine Bezeichnung aus einer allgemein anerkannten Nomenklatur zu verwenden.
 
 <sup>2</sup> Kann die Liste der Bestandteile aus praktischen Gründen nicht in der Kennzeichnung angegeben werden, so muss sie auf einem dem kosmetischen Mittel beigepackten oder an ihm befestigten Zettel, Papierstreifen, Anhänger, Kärtchen oder einer Etikette aufgeführt werden; zudem ist auf der Verpackung ein schriftlicher Hinweis oder das in Anhang 2 dargestellte Piktogramm anzubringen.
 
 <sup>3</sup> Bei Seifen, Badeperlen und anderen Kleinprodukten kann die Liste der Bestandteile auf einem Schild in unmittelbarer Nähe des Behältnisses, in dem das kosmetische Mittel zum Verkauf angeboten wird, angebracht werden.
 
 [^8-1]: Berichtigung vom 30. Mai 2017 ([AS 2017 3263](https://fedlex.data.admin.ch/eli/oc/2017/335)).
-[^8-2]: Fassung gemäss Ziff. I der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2427](https://fedlex.data.admin.ch/eli/oc/2020/457)).
-[^8-3]: Beschluss (EU) 2019/701 der Kommission vom 5. April 2019 zur Festlegung eines Glossars der gemeinsamen Bezeichnungen von Bestandteilen zur Verwendung bei der Kennzeichnung kosmetischer Mittel, Fassung gemäss ABl. L 121 vom 8.5.2019, S. 1.
+[^8-2]: Fassung gemäss Ziff. I der V des EDI vom 14. Okt. 2022, in Kraft seit 1. Nov. 2022 ([AS 2022 588](https://fedlex.data.admin.ch/eli/oc/2022/588)).
+[^8-3]: Durchführungsbeschluss (EU) 2022/677 der Kommission vom 31. März 2022 zur Festlegung von Vorschriften zur Durchführung der Verordnung (EG) Nr. 1223/2009 des Europäischen Parlaments und des Rates hinsichtlich des Glossars der gemeinsamen Bezeichnungen von Bestandteilen zur Verwendung bei der Kennzeichnung kosmetischer Mittel, Fassung gemäss ABl. L 127 vom 29.4.2022, S. 1.
 
 #### Art. 9
 
@@ -283,7 +283,7 @@ Die Informationen müssen für einen Zeitraum von drei Jahren den kantonalen Vol
 
 Die Verordnung des EDI vom 23. November 2005[^15-1] über kosmetische Mittel wird aufgehoben.
 
-[^15-1]: [[AS 2005 6423](https://fedlex.data.admin.ch/eli/oc/2005/810), [2010 4669](https://fedlex.data.admin.ch/eli/oc/2010/677), [2012 4747](https://fedlex.data.admin.ch/eli/oc/2012/574), [2015 1981](https://fedlex.data.admin.ch/eli/oc/2015/367)Ziff. II 4 [3463](https://fedlex.data.admin.ch/eli/oc/2015/604)]
+[^15-1]: [[AS 2005 6423](https://fedlex.data.admin.ch/eli/oc/2005/810); [2010 4669](https://fedlex.data.admin.ch/eli/oc/2010/677); [2012 4747](https://fedlex.data.admin.ch/eli/oc/2012/574); [2015 1981](https://fedlex.data.admin.ch/eli/oc/2015/367)Ziff. II 4, [3463](https://fedlex.data.admin.ch/eli/oc/2015/604)]
 
 #### Art. 16
 
@@ -311,6 +311,16 @@ In Abweichung von den Absätzen 1 und 2 können die nachfolgend genannten Stoffe
 <sup>2</sup> Nach bisherigem Recht gekennzeichnete kosmetische Mittel dürfen nach Ablauf der Übergangsfrist noch bis zur Erschöpfung der Bestände an Konsumentinnen und Konsumenten abgegeben werden.
 
 [^16a-1]: Eingefügt durch Ziff. I der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2427](https://fedlex.data.admin.ch/eli/oc/2020/457)).
+
+#### Art. 16b
+
+**Übergangsbestimmung zur Änderung vom 14. Oktober 2022**[^16b-1]
+
+<sup>1</sup> Kosmetische Mittel, die den Anforderungen der Änderung vom 14. Oktober 2022 nicht entsprechen, dürfen noch bis zum 28. April 2023 nach bisherigem Recht gekennzeichnet werden.
+
+<sup>2</sup> Nach bisherigem Recht gekennzeichnete kosmetische Mittel dürfen nach Ablauf der Übergangsfrist noch bis zur Erschöpfung der Bestände an Konsumentinnen und Konsumenten abgegeben werden.
+
+[^16b-1]: Eingefügt durch Ziff. I der V des EDI vom 14. Okt. 2022, in Kraft seit 1. Nov. 2022 ([AS 2022 588](https://fedlex.data.admin.ch/eli/oc/2022/588)).
 
 #### Art. 17
 
@@ -361,7 +371,7 @@ Anhang 2
 
 ## Auf Verpackungen oder Behältern eines kosmetischen Mittels zu verwendendes Piktogramm für den Verweis auf die beiliegenden oder am Produkt befestigten Informationen
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/165/20200701/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/165/20221101/de/xml/image/image1.png)
 
 Anhang 3
 
@@ -369,7 +379,7 @@ Anhang 3
 
 ## Auf Verpackungen oder Behältern eines kosmetischen Mittels zu verwendendes Piktogramm für die Angabe der Haltbarkeit nach dem Öffnen
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/165/20200701/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/165/20221101/de/xml/image/image2.png)
 
 Anhang 4
 
@@ -377,7 +387,7 @@ Anhang 4
 
 ## Auf Verpackungen oder Behältern eines kosmetischen Mittels zu verwendendes Piktogramm für die Angabe des Mindesthaltbarkeitsdatums
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/165/20200701/de/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/165/20221101/de/xml/image/image3.png)
 
 Anhang 5
 
