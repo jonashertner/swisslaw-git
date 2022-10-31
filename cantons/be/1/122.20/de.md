@@ -4,13 +4,13 @@ number: "122.20"
 title: Einführungsgesetz zum Ausländer- und Integrationsgesetz sowie zum Asylgesetz
 short: EG AIG und AsylG
 language: de
-version: 2020-07-01
-valid_until: 2022-10-31
-version_adopted: 2019-12-09
+version: 2022-11-01
+valid_until: 2024-01-31
+version_adopted: 2022-03-09
 adopted: 2019-12-09
 in_force: 2020-07-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/122.20"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2352/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2657/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2352/pdf_file"
 
 (EG AIG und AsylG)
 
-vom 09.12.2019 (Stand 01.07.2020)
+vom 09.12.2019 (Stand 01.11.2022)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -227,7 +227,7 @@ beschliesst:
 
 <sup>1</sup> Bei der Gewährung der Nothilfe gemäss Artikel 16 und der Leistungen gemäss Artikel 17 sind kostengünstige Lösungen zu wählen.
 
-### 3.4 Unterbringung
+### 3.4 Unterbringung im Allgemeinen
 
 #### Art. 19
 
@@ -273,6 +273,66 @@ beschliesst:
 **Information und Koordination**
 
 <sup>1</sup> Die zuständige Stelle der Sicherheitsdirektion stellt den Gemeinden die notwendigen Informationen bereit und koordiniert die Zusammenarbeit.
+
+### 3.4a Freiwillige Unterbringung bei Privaten
+
+#### Art. 23a
+
+**Voraussetzungen**
+
+<sup>1</sup> Privat untergebracht werden können volljährige Einzelpersonen oder Familien gemäss Artikel 6 Absatz 1,
+
+- a bei denen der Wegweisungsvollzug nicht absehbar ist,
+- b die ihr Asylgesuch vor dem 1. März 2019 eingereicht oder vor mehr als zwei Jahren einen rechtskräftigen negativen Asylentscheid samt Wegweisung im erweiterten Asylverfahren gemäss Artikel 26d AsylG erhalten haben, und
+- c die ihre Pflichten gemäss Artikel 7 Absatz 1 beachten.
+
+<sup>2</sup> Die Frist von zwei Jahren gemäss Absatz 1 Buchstabe b kann verkürzt werden, wenn Familien mit minderjährigen Kindern betroffen sind.
+
+<sup>3</sup> Private können Personen gemäss Absatz 1 mit Einverständnis der zuständigen Stelle der Sicherheitsdirektion freiwillig und ohne Entschädigung im gleichen Haushalt oder an gleicher Wohnadresse unterbringen, wenn
+
+- a sie über ausreichend Wohnraum verfügen,
+- b sie einen guten strafrechtlichen und finanziellen Leumund geniessen,
+- c die Möglichkeit einer Kontaktnahme mit der Person gemäss Absatz 1 durch die zuständige Stelle der Sicherheitsdirektion jederzeit gewährleistet ist,
+- d der Wegweisungsvollzug dadurch nicht erschwert wird.
+
+<sup>4</sup> Pro Haushalt oder Wohnadresse kann nur eine Einzelperson oder eine Familieneinheit untergebracht werden.
+
+#### Art. 23b
+
+**Kein Anspruch**
+
+<sup>1</sup> Es besteht kein Anspruch auf eine Unterbringung bei Privaten.
+
+#### Art. 23c
+
+**Haftungsausschluss und Vereinbarung**
+
+<sup>1</sup> Der Kanton haftet weder für Schäden, die durch die privat untergebrachten Personen verursacht werden, noch für solche, die diese infolge der privaten Unterbringung erleiden.
+
+<sup>2</sup> Die privat untergebrachten Personen und die Privaten schliessen mit der zuständigen Stelle der Sicherheitsdirektion eine Vereinbarung ab, die
+
+- a ihre Rechte und Pflichten regelt,
+- b einen Haftungsausschluss gemäss Absatz 1 vorsieht,
+- c auf eine Dauer von maximal sechs Monaten befristet ist und um jeweils sechs Monate verlängert werden kann,
+- d von ihnen fristlos aufgelöst werden kann.
+
+#### Art. 23d
+
+**Rechte und Pflichten**
+
+<sup>1</sup> Privat untergebrachte Personen
+
+- a erhalten eine Bargeldauszahlung anstelle von Sachleistungen gemäss Artikel 16 Absatz 2 Buchstabe b,
+- b werden gemäss Artikel 16 Absatz 2 Buchstabe c versichert,
+- c beachten die ihnen durch Gesetz und Verordnung auferlegten Pflichten.
+
+<sup>2</sup> Die zuständige Stelle der Sicherheitsdirektion legt die Form und die Periodizität der Bargeldauszahlung individuell fest. In der Regel erfolgt die Auszahlung monatlich.
+
+#### Art. 23e
+
+**Folgen bei Pflichtverletzungen**
+
+<sup>1</sup> Erfüllen die privat untergebrachten Personen oder die Privaten die Voraussetzungen für eine private Unterbringung oder ihre Pflichten ganz oder teilweise nicht oder nicht mehr, kann die zuständige Stelle der Sicherheitsdirektion die Vereinbarung fristlos auflösen.
 
 ### 3.5 Kosten
 

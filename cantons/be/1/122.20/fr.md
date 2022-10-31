@@ -4,13 +4,13 @@ number: "122.20"
 title: "Loi portant introduction de la loi fédérale sur l'asile et de la loi fédérale sur les étrangers et l'intégration"
 short: Li LFAE
 language: fr
-version: 2020-07-01
-valid_until: 2022-10-31
-version_adopted: 2019-12-09
+version: 2022-11-01
+valid_until: 2024-01-31
+version_adopted: 2022-03-09
 adopted: 2019-12-09
 in_force: 2020-07-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/122.20"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2352/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2657/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2352/pdf_file"
 
 (Li LFAE)
 
-du 09.12.2019 (état au 01.07.2020)
+du 09.12.2019 (état au 01.11.2022)
 
 Le Grand Conseil du canton de Berne,
 
@@ -227,7 +227,7 @@ arrête:
 
 <sup>1</sup> Concernant l'octroi de l'aide d'urgence et des prestations conformément aux articles 16 et 17, les solutions les plus avantageuses doivent être privilégiées.
 
-### 3.4 Hébergement
+### 3.4 Hébergement en général
 
 #### Art. 19
 
@@ -273,6 +273,66 @@ arrête:
 **Informations et coordination**
 
 <sup>1</sup> Le service compétent de la Direction de la sécurité fournit aux communes les informations nécessaires et coordonne la collaboration.
+
+### 3.4a Hébergement volontaire chez des particuliers
+
+#### Art. 23a
+
+**Conditions**
+
+<sup>1</sup> Les personnes majeures seules ou les familles visées à l'article 6, alinéa 1 peuvent être hébergées chez des particuliers
+
+- a si leur renvoi ne peut pas être exécuté dans un délai prévisible;
+- b si elles ont déposé leur demande d'asile avant le 1<sup>er</sup> mars 2019 ou qu'elles ont reçu il y a plus de deux ans une décision d'asile négative entrée en force assortie d'un renvoi dans le cadre d'une procédure étendue au sens de l'article 26d LAsi et
+- c si elles respectent les obligations définies à l'article 7, alinéa 1.
+
+<sup>2</sup> Le délai de deux ans conformément à l’alinéa 1, lettre b peut être raccourci si sont concernées des familles ayant des enfants mineurs.
+
+<sup>3</sup> Des particuliers peuvent, avec l'accord du service compétent de la Direction de la sécurité, sur une base volontaire et sans indemnisation, héberger dans leur propre ménage ou à la même adresse de domicile des personnes remplissant les critères de l'alinéa 1
+
+- a s'ils disposent d'un espace d'habitation suffisant;
+- b s'ils jouissent d'une bonne réputation du point de vue pénal et financier;
+- c si le service compétent de la Direction de la sécurité reste en mesure de prendre contact avec la personne visée à l'alinéa 1 à tout moment;
+- d si cela n'entrave pas l'exécution du renvoi.
+
+<sup>4</sup> Seule une personne ou une famille peut être hébergée par ménage ou par adresse de domicile.
+
+#### Art. 23b
+
+**Absence de prétention**
+
+<sup>1</sup> Nul ne peut prétendre à un hébergement chez des particuliers.
+
+#### Art. 23c
+
+**Exclusion de responsabilité et convention**
+
+<sup>1</sup> Le canton n'assume aucune responsabilité quant à des dommages causés par les personnes hébergées chez des particuliers ou subis par ces dernières en raison de leur hébergement privé.
+
+<sup>2</sup> Les personnes hébergées chez des particuliers et ces derniers concluent avec le service compétent de la Direction de la sécurité une convention, laquelle
+
+- a règle leurs droits et leurs obligations;
+- b prévoit une clause d'exclusion de responsabilité sur la base de l'alinéa 1;
+- c est limitée à une durée maximale de six mois, avec possibilité de prolongation de six mois en six mois;
+- d peut être résiliée sans délai par les premières et les seconds.
+
+#### Art. 23d
+
+**Droits et obligations**
+
+<sup>1</sup> Les personnes hébergées chez des particuliers
+
+- a reçoivent un montant en espèces en lieu et place des prestations en nature visées à l'article 16, alinéa 2, lettre b;
+- b sont assurées conformément à l'article 16, alinéa 2, lettre c;
+- c doivent se conformer aux obligations qui leur incombent en vertu de la loi et de l'ordonnance.
+
+<sup>2</sup> Le service compétent de la Direction de la sécurité détermine au cas par cas la forme et la périodicité des versements en espèces. En règle générale, le versement a lieu mensuellement.
+
+#### Art. 23e
+
+**Conséquences en cas de violation des obligations**
+
+<sup>1</sup> Si les personnes hébergées chez des particuliers ou ces derniers ne remplissent pas ou plus tout ou partie des conditions applicables à l'hébergement privé ou de leurs obligations, le service compétent de la Direction de la sécurité peut résilier la convention sans délai.
 
 ### 3.5 Coûts
 
