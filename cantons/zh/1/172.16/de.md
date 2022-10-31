@@ -4,20 +4,24 @@ number: "172.16"
 title: Rechtsetzungsverordnung (RSV)
 short: RSV
 language: de
-nachtrag: "91"
-valid_until: 2022-11-01
+version: "2022-11-01"
+nachtrag: "118"
+valid_until: 2023-09-01
 adopted: 2000-11-29
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-172_16-2000_11_29-2001_01_01-091.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-172_16-2000_11_29-2001_01_01-118.html"
 text: pdf
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Verordnung über das Rechtsetzungsverfahren in der kantonalen Verwaltung (Rechtsetzungsverordnung)
+# Rechtsetzungsverordnung (RSV)
 
-(vom 29. November 2000)<sup>1</sup>
+(vom 29. November 2000)[^t-2][^t-1]
 
 Der Regierungsrat beschliesst:
+
+[^t-1]: Fassung gemäss RRB vom 13. Juli 2022 (OS 77, 422; ABl 2022-07-22). In Kraft seit 1. November 2022.
+[^t-2]: OS 56, 391.
 
 ### I. Allgemeine Bestimmungen
 
@@ -49,49 +53,56 @@ Der Regierungsrat erlässt Richtlinien für die Rechtsetzung.
 
 ### II. Gesetzgebungsdienst und Redaktionskommission
 
-#### § 5
+**Organisation a. Gesetzgebungsdienst**
 
-**Organisation**
+§ 5.[^hIIGesetzgebungsdie-1] Die Direktion der Justiz und des Innern führt den Gesetzgebungsdienst.
 
-Die Direktion der Justiz und des Innern führt einen Gesetzgebungsdienst.
+**b. Redaktionskommission**
 
-#### § 6
+§ 6.[^hIIGesetzgebungsdie-1] <sup>1</sup> Die Redaktionskommission setzt sich zusammen aus der Staatsschreiberin oder dem Staatsschreiber, der stellvertretenden Staatsschreiberin oder dem stellvertretenden Staatsschreiber und drei weiteren, vom Regierungsrat gewählten Mitgliedern.
 
-**Aufgaben**
-
-<sup>1</sup> Der Gesetzgebungsdienst koordiniert die Rechtsetzung im Kanton.
-
-<sup>2</sup> Er steht der federführenden Verwaltungsstelle bei der Erarbeitung von neuen oder zu ändernden Erlassen beratend zur Verfügung und prüft auf deren Veranlassung die Normkonzepte und Erlassentwürfe in rechtlicher und gesetzgebungstechnischer Hinsicht, insbesondere hinsichtlich
+<sup>2</sup> Die Staatsschreiberin oder der Staatsschreiber führt den Vorsitz. Sie oder er kann sich durch die stellvertretende Staatsschreiberin oder den stellvertretenden Staatsschreiber vertreten lassen.
 
 **1**
 
-- 1\. 1. 16 - 91
+1.10. 22 - 118 § 7.[^hIIGesetzgebungsdie-1] <sup>1</sup> Der Gesetzgebungsdienst berät die federführenden Verwaltungsstellen bei der Erarbeitung von neuen oder zu ändernden Erlassen. Er führt eine Liste der im Kantonsrat hängigen Verfassungs- und Gesetzesänderungen.
 
-- a. Übereinstimmung mit höherrangigem Recht,
+**Aufgaben**
 
-- b. Auswirkungen auf die bestehende Rechtsordnung,
+<sup>2</sup> Die Redaktionskommission berät den Regierungsrat in allgemeinen Fragen der Rechtsetzung.
+
+<sup>3</sup> Der Gesetzgebungsdienst und die Redaktionskommission prüfen alle Erlassentwürfe vor der Antragstellung an den Regierungsrat in rechtlicher und gesetzgebungstechnischer Hinsicht, insbesondere in Bezug auf die a. Klarheit und Verständlichkeit,
+
+- b. sprachliche und formale Richtigkeit,
 
 - c. Systematik des Aufbaus,
 
-- d. Klarheit und Verständlichkeit.
+- d. Übereinstimmung mit höherrangigem Recht,
 
-#### § 7
+- e. Auswirkungen auf die bestehende Rechtsordnung.
 
-**Redaktionskommission**
+**Verfahren a. Gesetzgebungsdienst**
 
-<sup>1</sup> Die Redaktionskommission berät den Regierungsrat in allgemeinen Fragen der Rechtsetzung und prüft alle Erlasse vor Antragstellung an den Regierungsrat auf formale und sprachliche Richtigkeit.
+§ 7 a.[^hIIGesetzgebungsdie-2] <sup>1</sup> Die für die Antragstellung zuständige Direktion übermittelt den Erlassentwurf rechtzeitig dem Gesetzgebungsdienst zur Prüfung.
 
-<sup>2</sup> Der Staatsschreiber führt den Vorsitz. Der Regierungsrat bezeichnet zwei weitere Mitglieder.
+<sup>2</sup> Der Gesetzgebungsdienst prüft den Entwurf und die zuständige Direktion bereinigt diesen.
 
-<sup>3</sup> Der Gesetzgebungsdienst bereitet die Sitzungen vor und führt das Sekretariat.
+<sup>3</sup> Der Gesetzgebungsdienst übermittelt den bereinigten Entwurf mit seiner Stellungnahme an die Redaktionskommission.
+
+**b. Redaktionskommission**
+
+§ 8.[^hIIGesetzgebungsdie-1] <sup>1</sup> Die Redaktionskommission berät den Entwurf an einer Sitzung. Die oder der Vorsitzende kann auf eine Sitzung verzichten.
+
+<sup>2</sup> An einer Sitzung wirken drei Mitglieder der Redaktionskommission mit.
+
+<sup>3</sup> Eine Vertretung des Gesetzgebungsdienstes und der zuständigen Direktion nehmen mit beratender Stimme teil.
+
+[^hIIGesetzgebungsdie-1]: Fassung gemäss RRB vom 13. Juli 2022 (OS 77, 422; ABl 2022-07-22). In Kraft seit 1. November 2022.
+[^hIIGesetzgebungsdie-2]: Eingefügt durch RRB vom 13. Juli 2022 (OS 77, 422; ABl 2022-07-22). In Kraft seit 1. November 2022.
 
 ### III. Das Rechtsetzungsverfahren
 
-#### § 8
-
-**Liste der Rechtsetzungsvorhaben**
-
-Der Gesetzgebungsdienst führt eine Liste der konkreten Rechtsetzungsvorhaben. Die federführende Verwaltungsstelle meldet zu diesem Zweck die Rechtsetzungsvorhaben bei Aufnahme der Arbeiten und gibt ihren Zeitplan bekannt.
+[^hIIGesetzgebungsdie-2]
 
 #### § 9
 
@@ -163,6 +174,10 @@ Die Vernehmlassungsfrist beträgt grundsätzlich drei Monate. Bei Dringlichkeit 
 
 <sup>2</sup> Das Vernehmlassungsergebnis wird in der Weisung und in den Erwägungen des Regierungsrates zusammenfassend dargestellt.
 
+**3**
+
+1.10. 22 - 118
+
 <sup>3</sup> Die Vernehmlassungsunterlagen und die Stellungnahmen unterliegen nicht dem Amtsgeheimnis und können bei der zuständigen Direktion eingesehen werden.
 
 #### § 17
@@ -171,10 +186,6 @@ Die Vernehmlassungsfrist beträgt grundsätzlich drei Monate. Bei Dringlichkeit 
 
 Mit der Eröffnung der Vernehmlassung werden in der Regel die Direktionen und die Staatskanzlei zu einem Mitbericht eingeladen.
 
-**3**
-
-- 1\. 1. 16 - 91
-
 ### IV. Schlussbestimmung
 
 #### § 18
@@ -182,7 +193,3 @@ Mit der Eröffnung der Vernehmlassung werden in der Regel die Direktionen und di
 **Inkrafttreten**
 
 Diese Verordnung tritt am 1. Januar 2001 in Kraft.
-
-## Weitere Fussnoten
-
-- [1] OS 56, 391.
