@@ -4,13 +4,13 @@ number: "837.211"
 title: Verordnung zum Gesetz zum Bundesgesetz über die Krankenversicherung
 short: V KVGG
 language: de
-version: 2022-09-01
-valid_until: 2022-10-31
+version: 2022-11-01
+valid_until: 2023-09-07
 version_adopted: 2022-08-24
 adopted: 2016-03-16
 in_force: 2016-07-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/837.211"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3234/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3236/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3234/pdf_file"
 
 (V KVGG)
 
-Vom 16.03.2016 (Stand 01.09.2022)
+Vom 16.03.2016 (Stand 01.11.2022)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -115,6 +115,14 @@ beschliesst:
 
 <sup>2</sup> Für die Definition der notwendigen Elemente aus dem Einwohnerregister muss die SVA Aargau die Fachstelle Datenaustausch des Kantons Aargau, die Beauftragte für Öffentlichkeit und Datenschutz des Kantons Aargau und den Verband Aargauer Einwohnerdienste einbeziehen.
 
+#### § 7c
+
+**Nachkontrollen und Rückforderungen**
+
+<sup>1</sup> Der Zugriff auf die Steuerdaten gemäss § 18 Abs. 5 KVGG beinhaltet auch den Zugriff zur Durchführung von Nachkontrollen. Die SVA Aargau nimmt die Nachkontrollen vor, sobald die Steuerveranlagung des zu prüfenden Anspruchsjahrs rechtskräftig geworden ist.
+
+<sup>2</sup> Zu Unrecht bezogene Prämienverbilligungen werden zurückgefordert.
+
 ## 3. Nichtbezahlung von Prämien und Kostenbeteiligungen
 
 #### § 8
@@ -152,6 +160,8 @@ beschliesst:
 <sup>1</sup> Meldet der Versicherer die vollständige Bezahlung der ausstehenden Forderungen beziehungsweise die Aufhebung des Leistungsaufschubs, löscht die SVA Aargau die versicherte Person ohne Verzug aus der Liste und informiert sie darüber unter Mitteilung an den Versicherer.
 
 <sup>2</sup> Der Meldung des Versicherers über die vollständige Bezahlung der ausstehenden Forderungen gleichgestellt ist die Vorlage eines amtlichen Dokuments, das belegt, dass die Betreibung eingestellt oder abgeschlossen wurde.
+
+<sup>2<sup>bis</sup></sup> Wenn gegen eine versicherte Person ein oder mehrere Verlustscheine für nicht bezahlte Prämien und Kostenbeteiligungen der obligatorischen Krankenpflegeversicherung eines Krankenversicherers vorliegen, löscht die SVA Aargau die versicherte Person ohne Verzug aus der Liste und informiert sie darüber unter Mitteilung an den Versicherer. Das Vorliegen von entsprechenden Verlustscheinen hat die versicherte Person nötigenfalls zu belegen.
 
 <sup>3</sup> Mit der Löschung des Eintrags infolge Genehmigung eines Gesuchs um Sozialhilfe oder um Ergänzungsleistungen findet keine automatische Übernahme der ausstehenden Forderungen statt. Der zuständigen Gemeinde steht es frei, die Ausstände zu begleichen.
 
