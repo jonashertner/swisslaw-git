@@ -4,21 +4,22 @@ number: "172.200"
 title: Verordnung über das Personal des Staates Wallis
 short: kVPers
 language: de
-version: 2011-07-01
-corrected: 2018-01-19
-version_adopted: 2011-06-22
+version: 2022-11-01
+valid_until: 2024-12-31
+version_adopted: 2022-10-26
 adopted: 2011-06-22
 in_force: 2011-07-01
 url: "https://lex.vs.ch/app/de/texts_of_law/172.200"
-pdf: "https://lex.vs.ch/api/de/versions/663/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/de/versions/3080/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über das Personal des Staates Wallis
 
-vom 22. Juni 2011
+(kVPers)
+
+vom 22.06.2011 (Stand 01.11.2022)
 
 Der Staatsrat des Kantons Wallis
 
@@ -30,13 +31,13 @@ auf Antrag des Departements für Finanzen, Institutionen und Gesundheit,
 
 verordnet:
 
-### 1. Abschnitt: Allgemeine Bestimmungen
+## 1 Allgemeine Bestimmungen
 
 #### Art. 1
 
 **Gegenstand und Zweck der Verordnung**
 
-Die vorliegende Verordnung hat zum Ziel, die Bestimmungen des Gesetzes vom 19. November 2010 über das Personal des Staates Wallis (GPSW) in den Bereichen, die nicht in Sonderbestimmungen abgedeckt sind, zu ergänzen und zu präzisieren.
+<sup>1</sup> Die vorliegende Verordnung hat zum Ziel, die Bestimmungen des Gesetzes vom 19. November 2010 über das Personal des Staates Wallis (kGPers) in den Bereichen, die nicht in Sonderbestimmungen abgedeckt sind, zu ergänzen und zu präzisieren.
 
 #### Art. 2
 
@@ -52,9 +53,9 @@ Die vorliegende Verordnung hat zum Ziel, die Bestimmungen des Gesetzes vom 19. N
 
 **Gleichstellung der Geschlechter**
 
-Jede Bezeichnung der Person, des Statuts oder der Funktion in der vorliegenden Verordnung gilt in gleicher Weise für Mann oder Frau.
+<sup>1</sup> Jede Bezeichnung der Person, des Statuts oder der Funktion in der vorliegenden Verordnung gilt in gleicher Weise für Mann oder Frau.
 
-### 2. Abschnitt: Verwaltung der Organisation
+## 2 Verwaltung der Organisation
 
 #### Art. 4
 
@@ -65,11 +66,8 @@ Jede Bezeichnung der Person, des Statuts oder der Funktion in der vorliegenden V
 <sup>2</sup> Die Dienststelle für Personalmanagement (DPM) berät und unterstützt den Staatsrat insbesondere bei:
 
 - a) der Planung und Verwaltung der Arbeitsstellen;
-
-<sup>b)</sup> der Anwendung und Entwicklung eines Informatiksystems zur Verwaltung der Organigramme, der Arbeitsstellen und des Personals;
-
+- b) der Anwendung und Entwicklung eines Informatiksystems zur Verwaltung der Organigramme, der Arbeitsstellen und des Personals;
 - c) der methodischen Unterstützung sämtlicher Departemente und/oder Dienststellen, die Anfragen im Bereich der Organisationsentwicklung stellen;
-
 - d) der standardisierten Anwendung organisatorischer Prozesse, welche vom Staatsrat als Richtlinie deklariert worden sind.
 
 #### Art. 5
@@ -86,7 +84,7 @@ Jede Bezeichnung der Person, des Statuts oder der Funktion in der vorliegenden V
 
 <sup>1</sup> Der Dienstchef organisiert seine Dienststelle. Er analysiert regelmässig und nach jedem Austritt eines Mitarbeiters die Notwendigkeit und das Bedürfnis der Wiederbesetzung der Stelle. Er optimiert regelmässig die Struktur und die Prozesse der Dienststelle sowie die Koordination zwischen der Aufgabenaufteilung und den Kompetenzen der Angestellten.
 
-<sup>2</sup> Der Dienstchef sorgt dafür, dass die Pflichtenhefte der Angestellten aktualisiert, unterzeichnet und an die DPM weitergeleitet werden.
+<sup>2</sup> Der Dienstchef sorgt dafür, dass die Pflichtenhefte der Angestellten aktualisiert, unterzeichnet und im elektronischen Personaldossier abgelegt werden.
 
 <sup>3</sup> Er garantiert die standardisierte Anwendung der organisatorischen Prozesse, welche vom Staatsrat als Richtlinie erklärt worden sind.
 
@@ -94,13 +92,13 @@ Jede Bezeichnung der Person, des Statuts oder der Funktion in der vorliegenden V
 
 **Organisation der Teilzeit**
 
-<sup>1</sup> Im Rahmen der Vereinbarkeit von Beruf und Familie unterstützt der Staatsrat die Möglichkeit, den Beschäftigungsgrad der Angestellten zu ändern.
+<sup>1</sup> Im Rahmen der Vereinbarkeit von Beruf und Privatleben unterstützt der Staatsrat die Möglichkeit, den Beschäftigungsgrad der Angestellten zu ändern.
 
 <sup>2</sup> Die Anstellungsbehörde kann eine bewilligte Stelle in mehrere Teilzeitstellen aufteilen, sofern die Organisation der Arbeit dies erlaubt und die Leistung der Organisationseinheit nicht beeinträchtigt wird.
 
 <sup>3</sup> Die Teilzeitangestellten dürfen gegenüber Vollzeitangestellten nicht benachteiligt werden.
 
-<sup>4</sup> Es existiert kein Anrecht auf eine Änderung des Beschäftigungsgrades.
+<sup>4</sup> Es existiert, unter Vorbehalt anderslautender Bestimmungen, kein Anrecht auf eine Änderung des Beschäftigungsgrades.
 
 #### Art. 8
 
@@ -118,7 +116,7 @@ Jede Bezeichnung der Person, des Statuts oder der Funktion in der vorliegenden V
 
 **Reduzierung des Beschäftigungsgrades**
 
-Die Anstellungsbehörde kann, sofern die Organisation der Dienststelle dies zulässt, auf Gesuch des Angestellten oder im gegenseitigen Einvernehmen, den Beschäftigungsgrad desselben reduzieren.
+<sup>1</sup> Die Anstellungsbehörde kann, sofern die Organisation der Dienststelle dies zulässt, auf Gesuch des Angestellten oder im gegenseitigen Einvernehmen, den Beschäftigungsgrad desselben reduzieren.
 
 #### Art. 10
 
@@ -141,12 +139,9 @@ Die Anstellungsbehörde kann, sofern die Organisation der Dienststelle dies zul�
 <sup>2</sup> Die folgenden Massnahmen müssen einer Kündigung des Dienstverhältnisses vorausgehen und grundsätzlich integrierender Bestandteil eines jeden Sozialplans sein:
 
 - a) Zuteilung einer anderen Stelle für den Angestellten im Rahmen des Möglichen und unter der Bedingung, dass der Angestellte volle Zufriedenheit in Bezug auf die Leistungen und das Verhalten gibt;
-
 - b) Stellensuche ausserhalb der Kantonsverwaltung für Angestellte, denen eine Kündigung droht;
-
 - c) Ausbildung und berufliche Weiterbildung;
-
-- d) Frühpensionierung und Pensionierung.
+- d) Frühpensionierung und Versetzung in die Frühpensionierung.
 
 <sup>3</sup> Die Angestellten unterstützen die Bemühungen des Arbeitgebers. Sie beteiligen sich aktiv an den getroffenen Massnahmen und zeigen Initiative, insbesondere bei der Suche nach einer neuen Arbeitsstelle.
 
@@ -172,7 +167,7 @@ Die Anstellungsbehörde kann, sofern die Organisation der Dienststelle dies zul�
 
 <sup>2</sup> Falls der Mandatsnehmer nicht als Selbstständigerwerbender anerkannt werden kann, wird die Vergabe des Mandats wie eine Anstellung eines Mitarbeiters gemäss den entsprechenden Bestimmungen behandelt.
 
-### 3. Abschnitt: Personalcontrolling
+## 3 Personalcontrolling
 
 #### Art. 14
 
@@ -206,7 +201,7 @@ Die Anstellungsbehörde kann, sofern die Organisation der Dienststelle dies zul�
 
 <sup>3</sup> Der Vorgesetzte führt mit seinen Angestellten Beurteilungsgespräche, Wiederaufnahmegespräche nach einer Abwesenheit aufgrund von Krankheit und/oder Unfall sowie Austrittsgespräche.
 
-### 4. Abschnitt: Anstellung und Auflösung des Dienstverhältnisses
+## 4 Anstellung und Auflösung des Dienstverhältnisses
 
 #### Art. 17
 
@@ -216,11 +211,9 @@ Die Anstellungsbehörde kann, sofern die Organisation der Dienststelle dies zul�
 
 <sup>2</sup> Folgende Kategorien können als Unterbereiche des Angestelltenstatuts betrachtet werden:
 
-- a) Das Statut des Lehrlings, definiert im Lehrlingsreglement der kantonalen Verwaltung.
-
-- b) Das Statut des Praktikanten, definiert durch einen Staatsratsentscheid.
-
-- c) Das Statut des halbgeschützten Beschäftigten, definiert durch eine Weisung des Staatsrats.
+- a) das Statut des Lehrlings, definiert im Lehrlingsreglement der kantonalen Verwaltung;
+- b) das Statut des Praktikanten, definiert durch einen Staatsratsentscheid;
+- c) das Statut des halbgeschützten Beschäftigten, definiert durch eine Weisung des Staatsrats.
 
 <sup>3</sup> Alle Angestellten, welche ein Pauschalgehalt oder einen Stundenlohn erhalten, sind nicht dem Beurteilungsprozess und dem System der leistungsorientierten Lohnerhöhung unterstellt.
 
@@ -237,6 +230,16 @@ Die Anstellungsbehörde kann, sofern die Organisation der Dienststelle dies zul�
 <sup>3</sup> Die befristeten Anstellungsverhältnisse können nicht mehr als ein Mal von der zuständigen Anstellungsinstanz erneuert oder verlängert werden, unabhängig von der Anstellungsdauer.
 
 <sup>4</sup> Falls sich die Fortsetzung des Anstellungsverhältnisses nach einer ersten Erneuerung oder einer ersten Verlängerung als nützlich erweist, ist die Form der Anstellung für eine unbefristete Dauer anwendbar.
+
+#### Art. 18a
+
+**Probezeit**
+
+<sup>1</sup> Bei einer Anstellung von unbefristeter Dauer oder einer befristeten Dauer von mehr als einem Jahr beträgt die Probezeit 6 Monate.
+
+<sup>2</sup> Bei einer Anstellung von einem Jahr oder weniger beträgt die Probezeit 3 Monate. Falls es Zweifel an der Eignung, an den Leistungen oder am Verhalten des Angestellten gibt, kann die Anstellungsbehörde die Probezeit um höchstens 3 Monate verlängern.
+
+<sup>3</sup> Wird während der Probezeit die Arbeit infolge Krankheit, Unfall oder Erfüllung einer nicht freiwillig übernommenen gesetzlichen Pflicht unterbrochen, wird die Probezeit automatisch entsprechend verlängert.
 
 #### Art. 19
 
@@ -260,9 +263,8 @@ Die Anstellungsbehörde kann, sofern die Organisation der Dienststelle dies zul�
 
 <sup>2</sup> Sie umfasst:
 
-- a) Die Versetzung ohne Lohnklassenwechsel im Anschluss an eine Änderung des Pflichtenhefts mit dem gleichen Verantwortungsniveau in derselben oder einer neuen ähnlichen Funktion innerhalb derselben Dienststelle oder in einer anderen Dienststelle.
-
-- b) Die Versetzung mit Lohnklassenwechsel im Anschluss an eine Änderung des Pflichtenhefts mit einem höheren oder tieferen Verantwortungsniveau in einer neuen Funktion innerhalb derselben Dienststelle oder in einer anderen Dienststelle.
+- a) die Versetzung ohne Lohnklassenwechsel im Anschluss an eine Änderung des Pflichtenhefts mit dem gleichen Verantwortungsniveau in derselben oder einer neuen ähnlichen Funktion innerhalb derselben Dienststelle oder in einer anderen Dienststelle;
+- b) die Versetzung mit Lohnklassenwechsel im Anschluss an eine Änderung des Pflichtenhefts mit einem höheren oder tieferen Verantwortungsniveau in einer neuen Funktion innerhalb derselben Dienststelle oder in einer anderen Dienststelle.
 
 <sup>3</sup> Im Falle einer Versetzung in eine andere Dienststelle erfolgt die Versetzung aufgrund des Entscheids der zuständigen Anstellungsbehörde der neuen Dienststelle, in gegenseitigem Einverständnis, jedoch spätestens innert einer Frist von drei Monaten.
 
@@ -288,11 +290,13 @@ Die Anstellungsbehörde kann, sofern die Organisation der Dienststelle dies zul�
 
 **Anstellungsanforderungen**
 
-<sup>1</sup> Falls notwendig kann die Rekrutierung eine zusätzliche psychologische Überprüfung und eine Sicherheitskontrolle einschliessen (insbesondere Strafregister, Auszüge des Konkurs- und Betreibungsamtes). Die DPM erstellt Richtlinien über den Ablauf der zusätzlichen Auswertung und der Sicherheitskontrolle, welche dem Gesetz vom 9. Oktober 2008 über die Information der Öffentlichkeit, den Datenschutz und die Archivierung Rechnung tragen (GIDA).
+<sup>1</sup> Der Staatsrat kann Richtlinien zu einer ergänzenden Überprüfung und/oder einer Sicherheitskontrolle erlassen, welche dem Gesetz über die Information der Öffentlichkeit, den Datenschutz und die Archivierung (GIDA) Rechnung tragen.
 
 <sup>2</sup> Wenn der Bewerber seine Zustimmung für einen Test oder eine Kontrolle im Sinne von Absatz 1 verweigert, wird seine Bewerbung nicht berücksichtigt.
 
 <sup>3</sup> Die im Rahmen dieser Teste und Kontrollen gesammelten Daten werden dem Bewerber mitgeteilt.
+
+<sup>4</sup> Der Dienstchef, beziehungsweise der Departementsvorsteher kann nach der Anstellung vom Mitarbeiter jederzeit verlangen, den Nachweis zu erbringen, dass die in Artikel 18 des Gesetzes über das Personal des Staates Wallis aufgeführten Anforderungen immer noch erfüllt sind. Die Verweigerung, sich einer Kontrolle zu unterziehen, kann andere administrative Massnahmen gemäss Gesetzgebung nach sich ziehen.
 
 #### Art. 23
 
@@ -301,32 +305,52 @@ Die Anstellungsbehörde kann, sofern die Organisation der Dienststelle dies zul�
 <sup>1</sup> Der Staat unterstützt die Beibehaltung und die Eingliederung in den Arbeitsmarkt insbesondere durch:
 
 - a) Massnahmen zur Unterstützung der Beibehaltung der Arbeitsstelle für kranke oder verunfallte Angestellte;
-
 - b) Praktikumsstellen für Jugendliche und Arbeitslose;
-
 - c) geschützte Arbeitsplätze für Personen mit einer eingeschränkten Leistungsfähigkeit.
 
 <sup>2</sup> Der Staatsrat beschliesst mittels Weisungen, Entscheiden und Verfahren die notwendigen Bestimmungen. Es wenden sich insbesondere die Weisungen betreffend die halbgeschützten Beschäftigten an.
 
+#### Art. 23a
+
+**Informationsfrist des Angestellten, welcher in den Ruhestand treten möchte**
+
+<sup>1</sup> Der Angestellte informiert die zuständige Behörde über den beabsichtigten Übertritt in den Ruhestand grundsätzlich 6 Monate vor dem Datum des Eintritts in den Ruhestand, spätestens aber 3 Monate davor.
+
 #### Art. 24
 
-**Auflösung des Dienstverhältnisses aus Altersgründen**
+**Verlängerung des Dienstverhältnisses über das gesetzliche AHV-Alter hinaus**
 
-<sup>1</sup> Das Dienstverhältnis endet am Ende des Monats, in dem der Angestellte die Altersgrenze erreicht.
+<sup>1</sup> Sofern die Erfordernisse der Dienststelle nicht dagegen sprechen, kann die Anstellungsbehörde das Dienstverhältnis eines Angestellten, welcher das gesetzliche AHV-Alter erreicht hat, ganz oder teilweise verlängern, wenn er darum ersucht und folgende Bedingungen kumulativ erfüllt:
 
-<sup>2</sup> Die Altersgrenze ist folgendermassen festgelegt:
+- a) der Angestellte erfüllt sämtliche Aufgaben seines Pflichtenhefts und gibt sowohl in Bezug auf die Leistungen als auch hinsichtlich des Verhaltens volle Zufriedenheit, und
+- b) gegen den Angestellten darf während der letzten 5 Jahre keine administrative Massnahme verhängt worden sein, und
+- c) der Angestellte muss die allgemeinen, seiner Funktion entsprechenden Pflichten gemäss Artikel 20 des Gesetzes über das Personal des Staates Wallis erfüllen.
 
-<sup>a)</sup> Für die zur Kategorie 1 von PKWAL gehörenden Versicherten des Staates Wallis: 65 Jahre für die Männer; 64 Jahre für die Frauen.
+<sup>2</sup> Der Angestellte muss spätestens 6 Monate vor Erreichen des gesetzlichen AHV-Alters beziehungsweise 6 Monate vor jeder weiteren Verlängerung um die Verlängerung ersuchen.
 
-- b) Für die zur Kategorie 2 von PKWAL gehörenden Versicherten des Staates Wallis: 63 Jahre für Männer und Frauen.
+- a) …
+- b) …
 
-<sup>3</sup> Ausnahmsweise, im Falle eines besonderen Bedürfnisses (angespannter Arbeitsmarkt, gesuchtes Profil, etc.) und falls der Angestellte volle Zufriedenheit in Bezug auf das Verhalten und die erbrachten Leistungen gibt, kann die Anstellungsinstanz das Arbeitsverhältnis über die Altersgrenze hinaus, aber im Maximum um zwei Jahre verlängern. In diesem Falle kann der Angestellte wählen, ob die Besoldung um den Betrag der von PKWAL bezahlten Renten reduziert werden soll oder ob die von PKWAL bezahlte Rente bis zum Anstellungsende aufgeschoben werden soll.
+<sup>3</sup> Die Verlängerung beträgt ein Jahr. Auf begründetes Gesuch des Angestellten können weitere Verlängerungen des Dienstverhältnisses von der Dauer eines Jahres vorgesehen werden.
+
+#### Art. 24a
+
+**Versetzung in den vorzeitigen Ruhestand durch die Anstellungsbehörde**
+
+<sup>1</sup> Die Anstellungsbehörde kann einen Angestellten, der das 62. Lebensjahr, beziehungsweise das 60. Lebensjahr für das Personal der Strafanstalten und der Kantonspolizei, erfüllt hat, ganz oder teilweise in den vorzeitigen Ruhestand versetzen, und dies zu folgenden alternativen Bedingungen:
+
+- a) Mängel bei den Leistungen und/oder beim Verhalten, oder
+- b) ungenügende Eignung oder Fähigkeiten, um gewisse, zur Funktion gehörende Aufgaben zu erfüllen, oder
+- c) fehlende Motivation, oder
+- d) Beeinträchtigung der geistigen und/oder körperlichen Gesundheit, oder
+- e) Weigerung, an obligatorischen Schulungen teilzunehmen, die für die Ausübung der Funktion erforderlich sind, oder
+- f) Aufhebung oder Änderung der Stelle.
 
 #### Art. 25
 
 **Fristlose Auflösung aus wichtigen Gründen**
 
-Das Verfahren zur Auflösung des Dienstverhältnisses aus wichtigen Gründen muss nach der Kenntnisnahme der wichtigen Gründe eingeleitet werden und der Entscheid muss innerhalb einer kurzen Frist, jedoch unter Berücksichtigung der Erfordernisse der Untersuchung, erfolgen.
+<sup>1</sup> Das Verfahren zur Auflösung des Dienstverhältnisses aus wichtigen Gründen muss nach der Kenntnisnahme der wichtigen Gründe eingeleitet werden und der Entscheid muss innerhalb einer kurzen Frist, jedoch unter Berücksichtigung der Erfordernisse der Untersuchung, erfolgen.
 
 #### Art. 26
 
@@ -340,23 +364,33 @@ Das Verfahren zur Auflösung des Dienstverhältnisses aus wichtigen Gründen mus
 
 **Konsequenzen einer juristisch unbegründeten Auflösung**
 
-Die Höhe der Entschädigung legt der Staatsrat im Rahmen des GPSW fest.
+<sup>1</sup> Die Höhe der Entschädigung legt der Staatsrat im Rahmen des kGPers fest.
 
 #### Art. 28
 
-Abänderung und Auflösung einer Anstellung mit einem öffentlich-rechtlichen Vertrag Eine vertragliche Anstellung bleibt eine Ausnahme. Die Modalitäten zur Abänderung oder Auflösung eines Vertrages werden in demselben definiert in dem vom GPSW gesetzten Rahmen.
+**Abänderung und Auflösung einer Anstellung mit einem öffentlich-rechtlichen Vertrag**
 
-### 5. Abschnitt: Rechte und Pflichten des Angestellten
+<sup>1</sup> Eine vertragliche Anstellung bleibt eine Ausnahme. Die Modalitäten zur Abänderung oder Auflösung eines Vertrages werden in demselben definiert in dem vom kGPers gesetzten Rahmen.
+
+## 5 Rechte und Pflichten des Angestellten
 
 #### Art. 29
 
-**Arbeitsinstrumente, Berufsgeheimnis**
+**Arbeitsinstrumente - Berufsgeheimnis**
 
 <sup>1</sup> Der Angestellte verwendet das Material und die Arbeitsinstrumente, die ihm vom Arbeitgeber für die Ausübung seiner Tätigkeit zur Verfügung gestellt werden, mit Sorgfalt.
 
 <sup>2</sup> Es ist dem Angestellten untersagt, originale oder kopierte Dienstdokumente an Drittpersonen weiterzuleiten oder zu persönlichen Zwecken aufzubewahren. Er muss seinem Vorgesetzten den Zugang zu den beruflichen Dokumenten ermöglichen, insbesondere zu den elektronischen Daten.
 
 <sup>3</sup> Der Staatsrat beschliesst auf dem Reglementsweg und/oder mittels Weisungen die Bestimmungen über die Benutzung der Informatikmittel und der Telefonie, insbesondere die Benutzungsbedingungen und die Überwachungsmassnahmen.
+
+#### Art. 29a
+
+**Geschenke oder andere Vorteile**
+
+<sup>1</sup> Die Annahme von geringfügigen Geschenken und sonstigen Vorteilen gilt nicht als Geschenk- bzw. Vorteilsannahme im Sinne des Gesetzes. Als geringfügige Geschenke oder Vorteile gelten Höflichkeitsgeschenke, deren Marktwert gesamthaft CHF 200 Franken nicht übersteigt.
+
+<sup>2</sup> Der Staatsrat beschliesst mittels Richtlinien die notwendigen Bestimmungen.
 
 #### Art. 30
 
@@ -376,11 +410,17 @@ Abänderung und Auflösung einer Anstellung mit einem öffentlich-rechtlichen Ve
 
 <sup>1</sup> Der arbeitsunfähige Angestellte, dessen Lohnanspruch bald zu Ende geht, muss sich einer medizinischen Untersuchung durch den Vertrauensarzt von PKWAL unterziehen.
 
-<sup>2</sup> Unter einem dauerhaften Zeitraum im Sinne von Artikel 28 Absatz 1 GPSW versteht man eine Zeitdauer von mehr als drei Monaten.
+<sup>2</sup> Unter einem dauerhaften Zeitraum im Sinne von Artikel 28 Absatz 1 kGPers versteht man eine Zeitdauer von mehr als drei Monaten.
 
-<sup>3</sup> Ein triftiger Grund im Sinne von Artikel 28 Absatz 4 GPSW besteht insbesondere bei wiederholter Abwesenheit, Verdacht auf Missbrauch oder Sucht, erheblichem Leistungsverlust und unangebrachtem Verhalten.
+<sup>3</sup> Ein triftiger Grund im Sinne von Artikel 28 Absatz 4 kGPers besteht insbesondere bei wiederholter Abwesenheit, Verdacht auf Missbrauch oder Sucht, erheblichem Leistungsverlust und unangebrachtem Verhalten.
 
 <sup>4</sup> Der Staat Wallis arbeitet eng mit der IV zusammen zur frühzeitigen Erkennung möglicher gesundheitlicher Probleme seiner Angestellten, um dadurch deren berufliche Wiedereingliederung zu fördern.
+
+#### Art. 31a
+
+**Information bei Strafverfolgung**
+
+<sup>1</sup> Ein Angestellter, der aufgrund eines Verbrechens oder Vergehens gemäss Artikel 28a des Gesetzes über das Personal des Staates Wallis strafrechtlich verfolgt wird, ist gehalten, den Staatsrat über seinen Dienstchef und seinen Departementsvorsteher darüber in Kenntnis zu setzen.
 
 #### Art. 32
 
@@ -389,26 +429,34 @@ Abänderung und Auflösung einer Anstellung mit einem öffentlich-rechtlichen Ve
 <sup>1</sup> Die Disziplinarkommission besteht grundsätzlich aus drei Mitgliedern oder drei stellvertretenden Mitgliedern und setzt sich folgendermassen zusammen:
 
 - a) ein Mitglied der Staatskanzlei als Präsident;
-
-- b) ein Mitglied der Dienststelle für Personalmanagement (DPM);
-
-- c) ein Mitglied des Zentralverbandes der Magistraten, der Lehrerschaft und des Personals (ZMLP).
+- b) ein Mitglied der Dienststelle für Personalmanagement;
+- c) ein Vertreter der Sozialpartner.
 
 <sup>2</sup> Der Präsident muss über eine juristische Ausbildung verfügen und die Staatskanzlei gewährleistet das Sekretariat der Kommission.
 
-<sup>3</sup> Der Staatsrat erlässt die notwendigen Bestimmungen mittels Weisungen.
+<sup>3</sup> Der Staatsrat kann mittels Weisungen ergänzende Bestimmungen erlassen.
+
+#### Art. 32a
+
+**Administrative Massnahmen**
+
+<sup>1</sup> Für alle ins Auge gefassten administrativen Massnahmen, die das Personal der Verwaltung betreffen, wird die zentrale Dienststelle für Personalmanagement konsultiert und über die getroffenen Massnahmen informiert.
+
+<sup>2</sup> Der zuständige Departementsvorsteher wird über die ausgesprochenen Verwarnungen informiert.
 
 #### Art. 33
 
 **Arbeitsort**
 
-<sup>1</sup> Jedem Angestellten wird ein Arbeitsort zugeteilt.
+<sup>1</sup> Jedem Angestellten wird ein Arbeitsort zugeteilt. Letzterer muss auf dem Anstellungsentscheid aufgeführt sein.
 
 <sup>2</sup> Falls es die Tätigkeit verlangt, können einem Angestellten mehrere Arbeitsorte zugeteilt werden. Letztere müssen auf dem Anstellungsentscheid aufgeführt sein.
 
-<sup>3</sup> Der Arbeitsort kann gemäss Artikel 54 Absatz 3 GPSW durch eine zusätzliche Verfügung der Anstellungsbehörde abgeändert werden.
+<sup>2<sup>bis</sup></sup> Falls es die organisatorischen Bedürfnisse der Dienststelle erfordern, fällt eine Anpassung mehrerer Arbeitsorte innerhalb der gleichen Dienststelle in die Kompetenz des Dienstchefs.
 
-<sup>4</sup> Ein Arbeitsort wird offiziell, wenn die voraussichtliche Dauer der Tätigkeit an diesem Ort einen Monat übersteigt.
+<sup>3</sup> Im Falle eines Transfers eines Angestellten wird für die Änderung des Arbeitsortes der Artikel 54 Absatz 3 des kGPers angewendet.
+
+<sup>4</sup> …
 
 #### Art. 34
 
@@ -419,7 +467,6 @@ Abänderung und Auflösung einer Anstellung mit einem öffentlich-rechtlichen Ve
 <sup>2</sup> Die Anstellungsbehörde kann einem Angestellten Rechtsbeistand gewähren, sofern der Antrag zu Beginn der Streitsache gestellt wurde:
 
 - a) im Zivilrecht, wenn er diesen aufgrund eines erlittenen Schadens in der Ausübung seiner Funktion beantragt oder wenn er in einer Klage gegen den Staat als Nebenintervenient auftritt;
-
 - b) im Strafrecht, wenn er aufgrund einer erlittenen Rechtsverletzung in der Ausübung seiner Funktion als Kläger auftritt oder wenn er als Angeklagter einer Streitsache im Zusammenhang mit der Ausübung seiner Funktion auftritt.
 
 <sup>3</sup> Der Rechtsbeistand kann nach Beendigung des Dienstverhältnisses gewährt werden.
@@ -427,6 +474,16 @@ Abänderung und Auflösung einer Anstellung mit einem öffentlich-rechtlichen Ve
 <sup>4</sup> Durch Entscheid der Anstellungsbehörde gehen die Kosten des Rechtsbeistandes ganz oder teilweise zu Lasten des Angestellten, wenn dieser schuldig gesprochen wird und sofern er seine Dienstpflichten vorsätzlich oder grob fahrlässig verletzt hat.
 
 <sup>5</sup> Der Staatsrat beschliesst mittels Weisungen oder Entscheid die notwendigen Bestimmungen.
+
+#### Art. 34a
+
+**Meldung von Unregelmässigkeiten und Missständen**
+
+<sup>1</sup> Die Angestellten melden der Whistleblowingstelle des Staates Wallis die Unregelmässigkeiten und Missstände, von denen sie bei der Ausübung ihrer Funktion Kenntnis erhalten haben. Hinweise von Dritten müssen nur dann gemeldet werden, wenn ausreischende Beweise vorliegen oder der Sachverhalt glauhaft dargelegt wurde.
+
+<sup>2</sup> Die Whistleblowingstelle des Staates Wallis ermittelt den Sachverhalt und trifft die erforderlichen Massnahmen. Insbesondere stellt sie die Anonymität der Angestellten sicher.
+
+<sup>3</sup> Niemand darf beruflich benachteiligt werden, weil er in gutem Glauben eine Unregelmässigkeit gemeldet hat.
 
 #### Art. 35
 
@@ -444,11 +501,13 @@ Abänderung und Auflösung einer Anstellung mit einem öffentlich-rechtlichen Ve
 
 #### Art. 36
 
-**Sozialberatung**
+**Unterstützungsorgan**
 
-<sup>1</sup> Die Sozialberatung steht den Angestellten zur Verfügung, um sie bei beruflichen oder persönlichen Schwierigkeiten zu unterstützen. Die Angestellten werden während der Arbeitszeit beraten.
+<sup>1</sup> Der Staatsrat stellt ein Organ zu Verfügung, welches die Unterstützung der Mitarbeiter und Vorgesetzten in schwierigen beruflichen und privaten Situationen gewährleistet. Es hat insbesondere den Auftrag, aktiv an der Lösung zwischenmenschlicher Konflikte mitzuwirken.
 
-<sup>2</sup> Der Staatsrat erlässt die notwendigen Bestimmungen mittels Weisungen.
+<sup>2</sup> Die Aufgaben dieses Organs werden in einer Weisung festgelegt.
+
+<sup>3</sup> Die Sitzungen finden grundsätzlich in der Arbeitszeit statt.
 
 #### Art. 37
 
@@ -488,26 +547,20 @@ Abänderung und Auflösung einer Anstellung mit einem öffentlich-rechtlichen Ve
 
 **Umweltfreundlichkeit**
 
-Der Staatsrat trifft Massnahmen, um sein Personal im Bereich der nachhaltigen Entwicklung und des Umweltschutzes zu einem verantwortungsbewussten Verhalten anzuregen.
+<sup>1</sup> Der Staatsrat trifft Massnahmen, um sein Personal im Bereich der nachhaltigen Entwicklung und des Umweltschutzes zu einem verantwortungsbewussten Verhalten anzuregen.
 
 #### Art. 41
 
-**Persönliche Entwicklung – berufliche Aus- und Weiterbildung**
+**Persönliche Entwicklung - Berufliche Aus- und Weiterbildung**
 
 <sup>1</sup> Die Ausbildung des Personals und die Personalentwicklungsmassnahmen erlauben:
 
 - a) die Angestellten in der Realisierung ihrer jetzigen und zukünftigen Aufgaben und Herausforderungen zu unterstützen;
-
 - b) den Bedarf an qualifiziertem und motiviertem Personal, Spezialisten, Projekt- und Führungsmanager zu decken;
-
 - c) den Anforderungen des Arbeitsmarktes zu entsprechen;
-
 - d) die den Angestellten gebotene Flexibilität und Mobilität zu wahren und zu verbessern;
-
 - e) den Angestellten im Erwerb neuer Kompetenzen zu unterstützen, damit er neue Aufgaben und Funktionen übernehmen kann;
-
 - f) an der persönlichen Entwicklung des Angestellten teilzuhaben;
-
 - g) die Zufriedenheit der Angestellten und die Attraktivität des Staates Wallis als Arbeitgeber zu fördern.
 
 <sup>2</sup> Der Staatsrat beschliesst auf dem Reglementsweg die notwendigen Bestimmungen über die Weiterbildung.
@@ -516,7 +569,7 @@ Der Staatsrat trifft Massnahmen, um sein Personal im Bereich der nachhaltigen En
 
 **Chancengleichheit**
 
-Die Massnahmen zu Gunsten der Chancengleichheit bestehen insbesondere in der Ermutigung zu einer ausgeglichenen Geschlechterverteilung auf allen Hierarchieebenen und in allen Funktionen der kantonalen Verwaltung.
+<sup>1</sup> Die Massnahmen zu Gunsten der Chancengleichheit bestehen insbesondere in der Ermutigung zu einer ausgeglichenen Geschlechterverteilung auf allen Hierarchieebenen und in allen Funktionen der kantonalen Verwaltung.
 
 #### Art. 43
 
@@ -530,21 +583,45 @@ Die Massnahmen zu Gunsten der Chancengleichheit bestehen insbesondere in der Erm
 
 **Telearbeit**
 
-<sup>1</sup> Die Telearbeit ist eine flexible Arbeitsform mit dem Ziel, die Leistung und die Motivation der Angestellten zu verbessern und dabei Berufs- und Familienleben bestmöglichst zu vereinbaren.
+<sup>1</sup> Die Telearbeit ist eine flexible Arbeitsform mit dem Ziel, die Leistung und die Motivation der Angestellten zu verbessern und dabei Berufs- und Privatleben bestmöglichst zu vereinbaren.
 
-<sup>2</sup> Die Angestellten können die Telearbeit innerhalb der kantonalen Verwaltung ausüben, sofern sie die Zustimmung ihres Dienstchefs, der DPM, der kantonalen Dienststelle für Informatik haben und der Entscheid vom Departementsvorsteher bestätigt worden ist.
+<sup>2</sup> …
 
-<sup>3</sup> Der Staatsrat erlässt die notwendigen Bestimmungen mittels Weisungen. Er kann für gewisse Personalkategorien Sonderbestimmungen vorsehen.
+<sup>3</sup> Der Staatsrat erlässt die notwendigen Bestimmungen mittels Weisungen, insbesondere was die Kompetenz zur Bewilligung von Telearbeit betrifft. Er kann für gewisse Personalkategorien Sonderbestimmungen vorsehen.
+
+#### Art. 44a
+
+**Herabsetzung des Beschäftigungsgrades nach Geburt oder Adoption**
+
+<sup>1</sup> Die Angestellten haben nach der Geburt oder Adoption eines oder mehrerer Kinder in ihrer Funktion Anspruch auf eine Herabsetzung des Beschäftigungsgrades um bis zu 20 Prozent bis zu einem verbleibenden Beschäftigungsgrad von 60 Prozent.
+
+<sup>2</sup> Der Anspruch auf Herabsetzung des Beschäftigungsgrades muss innerhalb von 12 Monaten nach der Geburt oder der Adoption des Kindes geltend gemacht werden.
+
+<sup>3</sup> Die Arbeit mit herabgesetztem Beschäftigungsgrad beginnt spätestens am ersten Tag nach Ablauf der in Absatz 2 erwähnten Frist von 12 Monaten.
+
+<sup>4</sup> Der Staatsrat kann durch eine Richtlinie Kategorien von Personal festlegen, welche von der Anwendung der Absätze 1 bis 3 ausgeschlossen sind.
+
+<sup>5</sup> Falls die Bedürfnisse der Dienststelle es erlauben, kann die Anstellungsbehörde einen Beschäftigungsgrad unter 60 Prozent genehmigen.
 
 #### Art. 45
 
-Finanzielle Beteiligung an den Betreuungskosten der Kinder des Staatspersonals
+**Finanzielle Beteiligung an den Betreuungskosten der Kinder des Staatspersonals**
 
 <sup>1</sup> Der Staat Wallis beteiligt sich finanziell bis maximal 50 Prozent an den Betreuungskosten der Kinder seines Personals. Der Prozentsatz wird alljährlich durch einen Staatsratsentscheid festgesetzt.
 
 <sup>2</sup> Die Betreuungskosten werden im folgenden Jahr zurückerstattet aufgrund der effektiven Abrechnungen.
 
 <sup>3</sup> Der Staatsrat erlässt die notwendigen Bestimmungen mittels Weisungen.
+
+#### Art. 45a
+
+**Gesundheitsscheck**
+
+<sup>1</sup> Im Sinne eines Gesundheitsschecks wird jedem Angestellten, welcher PKWAL-beitragspflichtig ist, ab dem 55. Lebensjahr ein Beitrag von 200 Franken unabhängig von der Höhe des Beschäftigungsgrades ausbezahlt. Dieser Gesundheitsscheck wird bis spätestens ein Jahr vor dem ordentlichen Rentenalter ausgestellt. Dieser Scheck stellt eine Unterstützung zum Erhalt und zum Schutz der Gesundheit dar. Die gesetzlichen Bestimmungen im Bereiche der Sozialversicherungen sind anwendbar.
+
+<sup>2</sup> Der vorgesehene Betrag wird mit dem Lohn des Monats, in welchem der Angestellte Geburtstag hat, ausbezahlt.
+
+<sup>3</sup> Die Dienststelle für Personalmanagement legt die Anwendungsbestimmungen fest.
 
 #### Art. 46
 
@@ -568,7 +645,7 @@ Finanzielle Beteiligung an den Betreuungskosten der Kinder des Staatspersonals
 
 <sup>5</sup> Der Staatsrat erlässt mittels Weisungen und Prozessen die Bestimmungen zu einer standardisierten Erstellung von Arbeitszeugnissen sowie zur standardisierten Führung von Austrittsgesprächen.
 
-### 6. Abschnitt: Übergangs- und Schlussbestimmungen
+## 6 Übergangs- und Schlussbestimmungen
 
 #### Art. 48
 
@@ -576,7 +653,7 @@ Finanzielle Beteiligung an den Betreuungskosten der Kinder des Staatspersonals
 
 <sup>1</sup> Der Übergang vom alten zum neuen Statut erfolgt ex lege, ohne neuen individuellen Entscheid.
 
-<sup>2</sup> Für besondere Fälle (Erneuerung des Dienstverhältnisses, provisorische Ernennung, Krankheiten, Änderung der Funktionsbezeichnung, Arbeitsort, etc.) können individuelle Entscheide getroffen werden.
+<sup>2</sup> Für besondere Fälle (Erneuerung des Dienstverhältnisses, provisorische Ernennung, Krankheiten, Änderung der Funktionsbezeichnung, Arbeitsort, usw.) können individuelle Entscheide getroffen werden.
 
 <sup>3</sup> Unter Vorbehalt der vorstehenden Übergangsbestimmungen werden alle dieser Verordnung zuwiderlaufenden Bestimmungen aufgehoben, insbesondere das Reglement über das Dienstverhältnis der Hilfsangestellten und der Angestellten mit unbefristetem Dienstverhältnis vom 17. Dezember 1997.
 
@@ -584,8 +661,6 @@ Finanzielle Beteiligung an den Betreuungskosten der Kinder des Staatspersonals
 
 **Inkrafttreten**
 
-Die vorliegende Verordnung wird im Amtsblatt publiziert und tritt am 1. Juli 2011 in Kraft.
+<sup>1</sup> Die vorliegende Verordnung wird im Amtsblatt publiziert und tritt am 1. Juli 2011 in Kraft.
 
-So beschlossen im Staatsrat zu Sitten, den 22. Juni 2011.
-
-Der Präsident des Staatsrates: Jacques Melly Der Staatskanzler: Philipp Spörri
+CSW BO/Abl. 26/2011

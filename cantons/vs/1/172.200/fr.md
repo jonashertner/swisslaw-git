@@ -4,21 +4,22 @@ number: "172.200"
 title: "Ordonnance sur le personnel de l'Etat du Valais"
 short: OcPers
 language: fr
-version: 2011-07-01
-corrected: 2018-01-19
-version_adopted: 2011-06-22
+version: 2022-11-01
+valid_until: 2024-12-31
+version_adopted: 2022-10-26
 adopted: 2011-06-22
 in_force: 2011-07-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/172.200"
-pdf: "https://lex.vs.ch/api/fr/versions/663/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/fr/versions/3080/pdf_file"
 ---
 
-> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi. Le canton ne publie cette version qu’en PDF : le texte en est extrait, la structure déduite de la mise en page.
+> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
 # Ordonnance sur le personnel de l'Etat du Valais
 
-du 22 juin 2011
+(OcPers)
+
+du 22.06.2011 (état 01.11.2022)
 
 Le Conseil d'Etat du canton du Valais
 
@@ -30,13 +31,13 @@ sur la proposition du Département des finances, des institutions et de la sant�
 
 ordonne:
 
-### Section 1: Dispositions générales
+## 1 Dispositions générales
 
 #### Art. 1
 
 **Objet et but de l'ordonnance**
 
-La présente ordonnance a pour but de compléter et de préciser les dispositions de la loi du 19 novembre 2010 sur le personnel de l'Etat du Valais (LPEV) dans les domaines qui ne sont pas couverts par des dispositions particulières.
+<sup>1</sup> La présente ordonnance a pour but de compléter et de préciser les dispositions de la loi du 19 novembre 2010 sur le personnel de l'Etat du Valais (LcPers) dans les domaines qui ne sont pas couverts par des dispositions particulières.
 
 #### Art. 2
 
@@ -52,9 +53,9 @@ La présente ordonnance a pour but de compléter et de préciser les disposition
 
 **Egalité des sexes**
 
-Dans la présente ordonnance, toute désignation de personne, de statut ou de fonction vise indifféremment l’homme ou la femme.
+<sup>1</sup> Dans la présente ordonnance, toute désignation de personne, de statut ou de fonction vise indifféremment l’homme ou la femme.
 
-### Section 2: Gestion de l'organisation
+## 2 Gestion de l'organisation
 
 #### Art. 4
 
@@ -65,11 +66,8 @@ Dans la présente ordonnance, toute désignation de personne, de statut ou de fo
 <sup>2</sup> Le service des ressources humaines (SRH) conseille et soutient le Conseil d'Etat notamment dans:
 
 - a) la planification et la gestion des postes de travail;
-
-- b) l’application et le développement d’un système informatisé pour la gestion des organigrammes, des postes de travail et des effectifs;
-
+- b) l'application et le développement d'un système informatisé pour la gestion des organigrammes, des postes de travail et des effectifs;
 - c) l'appui méthodologique à tous les départements et/ou services formulant des demandes de développement organisationnel;
-
 - d) l'application standardisée des processus organisationnels, déclarés lignes directrices par le Conseil d'Etat.
 
 #### Art. 5
@@ -86,7 +84,7 @@ Dans la présente ordonnance, toute désignation de personne, de statut ou de fo
 
 <sup>1</sup> Le chef de service organise son service. Il analyse régulièrement et après chaque départ d'un employé, la nécessité et le besoin de repourvoir le poste. Il optimise régulièrement la structure et les processus du service ainsi que la coordination entre la répartition des tâches et les compétences des employés.
 
-<sup>3</sup> Le chef de service veille à ce que les cahiers des charges des employés soient actualisés, signés et transmis au SRH.
+<sup>2</sup> Le chef de service veille à ce que les cahiers des charges des employés soient actualisés, signés et enregistrés dans le dossier électronique du personnel.
 
 <sup>3</sup> Il garantit l'application standard des processus organisationnels déclarés lignes directrices par le Conseil d'Etat.
 
@@ -94,13 +92,13 @@ Dans la présente ordonnance, toute désignation de personne, de statut ou de fo
 
 **Organisation du temps partiel**
 
-<sup>1</sup> Dans le cadre de la conciliation vie professionnelle et familiale, le Conseil d'Etat soutient la possibilité de modifier le taux d'activité de l'employé.
+<sup>1</sup> Dans le cadre de la conciliation vie professionnelle et non professionnelle, le Conseil d'Etat soutient la possibilité de modifier le taux d'activité de l'employé.
 
 <sup>2</sup> L’autorité d'engagement peut fractionner en plusieurs postes à temps partiel un poste qui a été autorisé si l’organisation du travail le permet et si le rendement de l’unité organisationnelle n’en est pas affecté.
 
 <sup>3</sup> Les employés à temps partiel ne doivent pas être désavantagés par rapport à ceux travaillant à plein temps.
 
-<sup>4</sup> Il n’existe pas de droit à la modification du taux d'activité.
+<sup>4</sup> Il n’existe pas de droit à la modification du taux d'activité sous réserve de dispositions contraires.
 
 #### Art. 8
 
@@ -118,7 +116,7 @@ Dans la présente ordonnance, toute désignation de personne, de statut ou de fo
 
 **Diminution du taux d'activité**
 
-L’autorité d’engagement peut, sur demande de l’employé ou d’un commun accord, diminuer le taux d’activité de ce dernier, pour autant que l’organisation du service le permette.
+<sup>1</sup> L’autorité d’engagement peut, sur demande de l’employé ou d’un commun accord, diminuer le taux d’activité de ce dernier, pour autant que l’organisation du service le permette.
 
 #### Art. 10
 
@@ -140,13 +138,10 @@ L’autorité d’engagement peut, sur demande de l’employé ou d’un commun 
 
 <sup>2</sup> Les mesures suivantes doivent prévaloir sur la résiliation des rapports de service et seront en principe des éléments compris dans chaque plan social:
 
-- a) affectation de l’employé à un autre poste dans la mesure du possible et pour autant que l’employé donne entière satisfaction au niveau des prestations et du comportement;
-
-<sup>b)</sup> recherche d’emplois en dehors de l’administration cantonale pour les employés menacés de licenciement;
-
-<sup>c)</sup> formation et perfectionnement professionnels;
-
-- d) prise de retraite anticipée et mise à la retraite.
+- a) affectation de l'employé à un autre poste dans la mesure du possible et pour autant que l'employé donne entière satisfaction au niveau des prestations et du comportement;
+- b) recherche d'emplois en dehors de l'administration cantonale pour les employés menacés de licenciement;
+- c) formation et perfectionnement professionnels;
+- d) prise de retraite anticipée et mise à la retraite anticipée.
 
 <sup>3</sup> Les employés soutiennent les efforts de l’employeur. Ils collaborent activement aux mesures prises et font preuve d’initiative, notamment dans la recherche d’un nouvel emploi.
 
@@ -172,7 +167,7 @@ L’autorité d’engagement peut, sur demande de l’employé ou d’un commun 
 
 <sup>2</sup> Si le mandataire ne peut pas être considéré comme indépendant, l’attribution de ce mandat doit être traitée comme l’engagement d’un employé selon les dispositions y relatives.
 
-### Section 3: Controlling du personnel
+## 3 Controlling du personnel
 
 #### Art. 14
 
@@ -206,7 +201,7 @@ L’autorité d’engagement peut, sur demande de l’employé ou d’un commun 
 
 <sup>3</sup> Le supérieur conduit des entretiens d'appréciation avec ses employés, des entretiens de reprise avec les employés ayant été absents pour des raisons de maladie et/ou d'accident et des entretiens de départ.
 
-### Section 4: Engagement et cessation des rapports de service
+## 4 Engagement et cessation des rapports de service
 
 #### Art. 17
 
@@ -216,11 +211,9 @@ L’autorité d’engagement peut, sur demande de l’employé ou d’un commun 
 
 <sup>2</sup> Sont considérés comme des subdivisions du statut de l'employé les catégories suivantes:
 
-- a) le statut d’apprenti défini dans le règlement sur les apprentis de l'administration cantonale;
-
-- b) le statut de stagiaire défini par une décision du Conseil d’Etat;
-
-- c) le statut de semi-protégé défini par une directive du Conseil d’Etat.
+- a) le statut d'apprenti défini dans le règlement sur les apprentis de l'administration cantonale;
+- b) le statut de stagiaire défini par une décision du Conseil d'Etat;
+- c) le statut de semi-protégé défini par une directive du Conseil d'Etat.
 
 <sup>3</sup> Les employés payés avec un salaire forfaitaire et les employés payés à l’heure ne sont pas soumis à la procédure d’appréciation et au système de l’augmentation salariale liée à la prestation.
 
@@ -237,6 +230,16 @@ L’autorité d’engagement peut, sur demande de l’employé ou d’un commun 
 <sup>3</sup> Les engagements de durée déterminée ne peuvent être renouvelés ou prolongés plus d’une fois par l’autorité d’engagement compétente, indépendamment de la durée d’engagement.
 
 <sup>4</sup> S’il y a utilité de poursuivre l’engagement au-delà d’un premier renouvellement ou d’une première prolongation, c’est la forme de l’engagement pour une durée indéterminée qui est applicable.
+
+#### Art. 18a
+
+**Temps d’essai**
+
+<sup>1</sup> Pour un engagement de durée indéterminée ou de durée déterminée supérieure à une année, le temps d’essai est de 6 mois.
+
+<sup>2</sup> Pour un engagement de durée égale ou inférieure à une année, le temps d’essai est de 3 mois. En cas de doute sur les aptitudes, les prestations ou le comportement de l’employé, l’autorité d’engagement peut décider de prolonger au maximum de 3 mois le temps d’essai.
+
+<sup>3</sup> Lorsque, pendant le temps d’essai, le travail est interrompu par suite de maladie, d’accident ou d’accomplissement d’une obligation légale incombant au travailleur sans qu’il ait demandé de l’assumer, le temps d’essai est prolongé d’autant automatiquement.
 
 #### Art. 19
 
@@ -261,7 +264,6 @@ L’autorité d’engagement peut, sur demande de l’employé ou d’un commun 
 <sup>2</sup> Elle comprend:
 
 - a) un transfert sans changement de traitement suite à une modification du cahier des charges du même niveau de responsabilité dans la même fonction ou dans une nouvelle fonction similaire dans le même service ou dans un autre service;
-
 - b) un transfert avec changement de traitement suite à une modification du cahier des charges d'un niveau de responsabilité supérieur ou inférieur dans une nouvelle fonction dans le même service ou dans un autre service.
 
 <sup>3</sup> En cas de transfert dans un autre service, le transfert intervient par décision de l’autorité d’engagement du nouveau service, suite à un commun accord, mais au plus tard dans un délai de trois mois.
@@ -288,11 +290,13 @@ L’autorité d’engagement peut, sur demande de l’employé ou d’un commun 
 
 **Exigences d'engagement**
 
-<sup>1</sup> En cas de besoin, le recrutement peut comprendre une évaluation complémentaire psychologique et un contrôle de sécurité (notamment casier judiciaire, extrait des offices des poursuites et faillites). Le SRH édicte des directives sur le déroulement de l'évaluation complémentaire et le contrôle de sécurité, qui tiennent compte de la loi sur l’information, la protection des données et l’archivage du 9 octobre 2008 (LIPDA).
+<sup>1</sup> Le Conseil d’Etat peut édicter des directives sur l'évaluation complémentaire et/ou le contrôle de sécurité, qui tiennent compte de la loi sur l’information, la protection des données et l’archivage (LIPDA).
 
 <sup>2</sup> Si le candidat soumis à un test ou à un contrôle au sens de l'alinéa 1 ne donne pas son accord, sa candidature n'est pas prise en considération.
 
 <sup>3</sup> Les données récoltées dans le cadre de ces tests et contrôles sont communiquées au candidat.
+
+<sup>4</sup> Le chef de service, respectivement le chef de département, peut en tout temps, à la suite de l'engagement, exiger du collaborateur qu'il démontre que les exigences indiquées dans l’article 18 de la loi sur le personnel de l'Etat du Valais pour l'exercice de sa fonction sont toujours remplies. Le refus de l’employé de se soumettre à un contrôle peut entraîner l’application de mesures administratives prévues par la législation.
 
 #### Art. 23
 
@@ -301,36 +305,56 @@ L’autorité d’engagement peut, sur demande de l’employé ou d’un commun 
 <sup>1</sup> L'Etat du Valais favorise le maintien et l'insertion dans le marché du travail avec notamment:
 
 - a) des mesures favorisant le maintien des employés malades ou accidentés à leur place de travail;
-
 - b) des places de stage pour les jeunes et les chômeurs;
-
 - c) des places de travail protégées pour les personnes avec une capacité de prestations réduite.
 
 <sup>2</sup> Le Conseil d’Etat arrête, par voie de directives, de décisions et de processus, les dispositions nécessaires. S’appliquent notamment les directives relatives aux emplois semi-protégés.
 
+#### Art. 23a
+
+**Délai d’information de la part de l’employé souhaitant prendre sa retraite**
+
+<sup>1</sup> L’employé informe l’autorité compétente de son départ à la retraite envisagé, en principe 6 mois avant la date, mais au plus tard 3 mois avant.
+
 #### Art. 24
 
-**Fin des rapports de service pour raison d'âge**
+**Prolongation des rapports de service au-delà de l’âge légal AVS**
 
-<sup>1</sup> Les rapports de service cessent d’eux-mêmes à la fin du mois durant lequel l'employé atteint l’âge limite.
+<sup>1</sup> Pour autant que les besoins du service ne s’y opposent pas, l’autorité d’engagement peut prolonger totalement ou partiellement les rapports de service de l’employé ayant atteint l’âge légal AVS qui le demande aux conditions cumulatives suivantes:
 
-<sup>2</sup> L’âge limite est fixé de la manière suivante:
+- a) l’employé assume l’ensemble de son cahier des charges et donne entière satisfaction, tant au niveau des prestations que du comportement, et
+- b) l’employé ne doit pas avoir fait l’objet d’une mesure administrative pendant les 5 dernières années, et
+- c) l’employé doit avoir respecté les devoirs généraux liés à sa fonction à l’article 20 de la loi sur le personnel de l’Etat du Valais.
 
-<sup>a)</sup> Pour les assurés appartenant à la catégorie 1 de CPVAL: 65 ans pour les hommes, 64 ans pour les femmes.
+<sup>2</sup> La prolongation doit être demandée par l’employé au plus tard 6 mois avant l’atteinte de l’âge légal AVS, respectivement 6 mois avant chaque nouvelle prolongation supplémentaire.
 
-<sup>b)</sup> Pour les assurés appartenant à la catégorie 2 de CPVAL: 63 ans pour les hommes et pour les femmes.
+- a) …
+- b) …
 
-<sup>3</sup> Exceptionnellement, en cas d’un besoin particulier (marché de travail tendu, profil recherché, etc.) et si l’employé donne entièrement satisfaction par rapport au comportement et aux prestations fournies, l’autorité d’engagement peut prolonger l’engagement d’un employé au-delà de l’âge limite, mais au maximum de deux années. Dans ce cas, l’employé peut choisir si le traitement doit être réduit du montant des rentes versées par CPVAL ou si la rente versée par CPVAL doit être différée jusqu’à la fin de l’engagement.
+<sup>3</sup> La prolongation est d’une année. Sur demande motivée de l’employé, d’autres prolongations d’une durée d’une année des rapports de service peuvent être prévues.
+
+#### Art. 24a
+
+**Mise à la retraite anticipée par l’autorité d’engagement**
+
+<sup>1</sup> L’autorité d’engagement peut mettre à la retraite anticipée, totale ou partielle, l’employé ayant atteint l’âge de 62 ans révolus, respectivement 60 ans pour le personnel des établissements pénitentiaires et de la police cantonale, aux conditions suivantes alternatives:
+
+- a) manquements dans les prestations et/ou le comportement, ou
+- b) aptitudes ou capacités insuffisantes à accomplir certaines tâches liées à la fonction, ou
+- c) manque de motivation, ou
+- d) atteinte dans sa santé mentale et/ou physique, ou
+- e) refus de suivre des formations obligatoires nécessaires à l’accomplissement de la fonction, ou
+- f) suppression ou modification de poste.
 
 #### Art. 25
 
 **Résiliation immédiate pour justes motifs**
 
-La procédure tendant à la résiliation des rapports de service pour justes motifs doit être introduite dès la connaissance des justes motifs. La décision doit intervenir dans un délai rapide compte tenu toutefois des nécessités de l’instruction.
+<sup>1</sup> La procédure tendant à la résiliation des rapports de service pour justes motifs doit être introduite dès la connaissance des justes motifs. La décision doit intervenir dans un délai rapide compte tenu toutefois des nécessités de l’instruction.
 
 #### Art. 26
 
-**Libération de l’obligation de travailler**
+**Libération de l'obligation de travailler**
 
 <sup>1</sup> Lors de la résiliation des rapports de service dans les délais légaux par l'employeur, ce dernier peut exceptionnellement libérer l'employé de son obligation de travailler lorsque les rapports de confiance sont rompus ou que les circonstances l'exigent.
 
@@ -338,25 +362,35 @@ La procédure tendant à la résiliation des rapports de service pour justes mot
 
 #### Art. 27
 
-**Conséquences d’une résiliation non fondée juridiquement**
+**Conséquences d'une résiliation non fondée juridiquement**
 
-Le montant de l’indemnité est fixé par l’autorité d’engagement dans le cadre posé par la LPEV.
+<sup>1</sup> Le montant de l’indemnité est fixé par l’autorité d’engagement dans le cadre posé par la LcPers.
 
 #### Art. 28
 
-Modification et résiliation d’un engagement par contrat de droit public Un engagement par contrat revêt un caractère exceptionnel, réservé à des missions ou des situations particulières. Les modalités de modification ou de résiliation d'un contrat sont définies par celui-ci dans le cadre posé par la LPEV.
+**Modification et résiliation d'un engagement par contrat de droit public**
 
-### Section 5: Droits et devoirs de l'employé
+<sup>1</sup> Un engagement par contrat revêt un caractère exceptionnel, réservé à des missions ou des situations particulières. Les modalités de modification ou de résiliation d'un contrat sont définies par celui-ci dans le cadre posé par la LcPers.
+
+## 5 Droits et devoirs de l'employé
 
 #### Art. 29
 
-**Instruments de travail, secret de fonction**
+**Instruments de travail - Secret de fonction**
 
 <sup>1</sup> L'employé utilise avec soin le matériel et les instruments de travail mis à disposition par l'employeur pour exercer son travail.
 
 <sup>2</sup> Il est interdit à l'employé de communiquer à des tiers ou de conserver à titre personnel, en original ou en copie, des documents de service. Il doit permettre à son supérieur d'accéder aux documents professionnels, notamment informatiques.
 
 <sup>3</sup> Le Conseil d’Etat arrête, par voie de règlements et/ou de directives les dispositions régissant l’utilisation des moyens informatiques et de la téléphonie, notamment les conditions d’utilisation et les mesures de surveillance.
+
+#### Art. 29a
+
+**Cadeaux ou autres avantages**
+
+<sup>1</sup> L'acceptation de cadeaux ou d'autres avantages de faible importance n'est pas considérée comme l'acceptation d'un cadeau ou d'un avantage au sens de la loi. Sont considérés comme des cadeaux ou des avantages de faible valeur les cadeaux de courtoisie dont la valeur marchande totale n'excède pas 200 francs.
+
+<sup>2</sup> Le Conseil d'Etat arrête les dispositions nécessaires par le biais de directives.
 
 #### Art. 30
 
@@ -376,39 +410,53 @@ Modification et résiliation d’un engagement par contrat de droit public Un en
 
 <sup>1</sup> L’employé en incapacité de travail et dont le terme du droit au traitement est proche est soumis à un examen médical auprès du médecin-conseil de CPVAL.
 
-<sup>2</sup> Par période durable au sens de l’article 28 alinéa 1 LPEV, il faut entendre une période d’une durée de plus de trois mois.
+<sup>2</sup> Par période durable au sens de l’article 28 alinéa 1 LcPers, il faut entendre une période d’une durée de plus de trois mois.
 
-<sup>3</sup> Un motif pertinent au sens de l’article 28 alinéa 4 LPEV existe notamment en cas d’absences répétées, de suspicion d’abus ou de dépendance, de baisse notable des prestations et de comportements inadéquats.
+<sup>3</sup> Un motif pertinent au sens de l’article 28 alinéa 4 LcPers existe notamment en cas d’absences répétées, de suspicion d’abus ou de dépendance, de baisse notable des prestations et de comportements inadéquats.
 
 <sup>4</sup> L’Etat du Valais collabore étroitement avec l’AI pour détecter de manière précoce les éventuels problèmes de santé de ses employés, dans l’optique de favoriser leur réinsertion professionnelle.
+
+#### Art. 31a
+
+**Information d’une poursuite pénale**
+
+<sup>1</sup> L’employé qui fait l’objet d’une poursuite pénale pour un crime ou un délit selon l’article 28a de la loi sur le personnel de l'Etat du Valais est tenu d’en informer le Conseil d’Etat par l’intermédiaire de son chef de service et de son chef de département.
 
 #### Art. 32
 
 **Commission disciplinaire**
 
-<sup>1</sup> La commission disciplinaire est composée en principe de trois membres ou membres-suppléants et se compose comme suit:
+<sup>1</sup> La commission disciplinaire est formée en principe de trois membres ou membres-suppléants et se compose comme suit:
 
 - a) un membre de la Chancellerie d'Etat, en tant que président;
-
-- b) un membre du service des ressources humaines (SRH);
-
-- c) un membre de la Fédération des Magistrats, des Enseignants et des Employés de l’Etat du Valais (FMEP).
+- b) un membre du service des ressources humaines;
+- c) un représentant des partenaires sociaux.
 
 <sup>2</sup> Le président doit avoir une formation juridique et la Chancellerie d'Etat assure le secrétariat de la commission.
 
-<sup>3</sup> Le Conseil d’Etat arrête par voie de directives les dispositions nécessaires.
+<sup>3</sup> Le Conseil d’Etat peut arrêter par voie de directives des dispositions complémentaires.
+
+#### Art. 32a
+
+**Mesures administratives**
+
+<sup>1</sup> Pour le personnel de l’administration, pour toutes les mesures administratives envisagées, le service central chargé des ressources humaines est consulté et informé des mesures prises.
+
+<sup>2</sup> Le chef du département concerné est informé des avertissements prononcés par le chef de service.
 
 #### Art. 33
 
 **Lieu de travail**
 
-<sup>1</sup> Un lieu de travail est attribué à chaque employé.
+<sup>1</sup> Un lieu de travail est attribué à chaque employé. Ce dernier doit figurer dans la décision d’engagement.
 
 <sup>2</sup> Si l’activité l’exige, plusieurs lieux de travail peuvent être attribués à un employé. Ces derniers doivent figurer dans la décision d’engagement.
 
-<sup>3</sup> Le lieu de travail peut être modifié conformément à l’article 54 alinéa 3 LPEV, ce par décision complémentaire de l’autorité d’engagement.
+<sup>2<sup>bis</sup></sup> Si les besoins organisationnels du service l’exigent, une adaptation des lieux de travail multiples au sein d’un même service relève d’une décision de la compétence du chef de service.
 
-<sup>4</sup> Un lieu de travail devient habituel dès que la durée prévisible d’activité en ce lieu dépasse le mois.
+<sup>3</sup> En cas de transfert d’un employé, l’article 54 alinéa 3 LcPers s’applique pour la modification du lieu de travail.
+
+<sup>4</sup> …
 
 #### Art. 34
 
@@ -418,15 +466,24 @@ Modification et résiliation d’un engagement par contrat de droit public Un en
 
 <sup>2</sup> L’autorité d’engagement peut accorder, sur demande formulée dès le début de l’affaire, l’assistance juridique à un employé:
 
-- a) en matière civile, si celui-ci est demandeur en raison d’un dommage subi dans l’exercice de ses fonctions ou s’il est intervenant accessoire dans une action ouverte contre l’Etat;
-
-- b) en matière pénale, s’il est plaignant en raison d’une atteinte subie dans l’exercice de ses fonctions ou s’il est prévenu en raison d’un fait afférent à l’exercice de ses fonctions.
+- a) en matière civile, si celui-ci est demandeur en raison d'un dommage subi dans l'exercice de ses fonctions ou s'il est intervenant accessoire dans une action ouverte contre l'Etat;
+- b) en matière pénale, s'il est plaignant en raison d'une atteinte subie dans l'exercice de ses fonctions ou s'il est prévenu en raison d'un fait afférent à l'exercice de ses fonctions.
 
 <sup>3</sup> L’assistance juridique peut être accordée après la cessation des rapports de service.
 
 <sup>4</sup> Les frais d’assistance sont mis, par décision de l’autorité d’engagement, totalement ou partiellement à la charge de l’employé si celui-ci est reconnu coupable, pour autant qu’il ait violé intentionnellement ou par négligence grave ses devoirs de service.
 
 <sup>5</sup> Le Conseil d’Etat arrête, par voie de directive ou de décision, les dispositions nécessaires.
+
+#### Art. 34a
+
+**Signalement des irrégularités et dysfonctionnements**
+
+<sup>1</sup> Les employés signalent à l’instance de lanceur d’alerte de l’Etat du Valais les irrégularités et dysfonctionnements dont ils ont eu connaissance dans l’exercice de leur fonction. Les indications de tiers ne doivent être signalées que s'il existe des preuves suffisantes ou si les faits sont allégués avec vraisemblance.
+
+<sup>2</sup> L’instance de lanceur d’alerte de l’Etat du Valais établit les faits et prend les mesures nécessaires. Elle garantit notamment l'anonymat des employés.
+
+<sup>3</sup> Nul ne doit subir un désavantage sur le plan professionnel pour avoir, de bonne foi, annoncé une irrégularité.
 
 #### Art. 35
 
@@ -444,11 +501,13 @@ Modification et résiliation d’un engagement par contrat de droit public Un en
 
 #### Art. 36
 
-**Consultation sociale**
+**Organe de soutien**
 
-<sup>1</sup> La consultation sociale est à la disposition des employés pour les soutenir dans leurs difficultés tant professionnelles que personnelles. Les employés consultent sur le temps de travail.
+<sup>1</sup> Le Conseil d’Etat met à disposition un organe assurant le soutien des employés et des supérieurs hiérarchiques dans différentes situations difficiles d’ordre professionnel ou privé. Ce dernier est notamment chargé de contribuer activement à la résolution de conflits interpersonnels
 
-<sup>2</sup> Le Conseil d’Etat arrête par voie de directives les dispositions nécessaires.
+<sup>2</sup> Les missions de cet organe sont définies dans une directive.
+
+<sup>3</sup> Les réunions se tiennent en principe sur le temps de travail.
 
 #### Art. 37
 
@@ -474,7 +533,7 @@ Modification et résiliation d’un engagement par contrat de droit public Un en
 
 #### Art. 39
 
-**Droit à la consultation et à l’information**
+**Droit à la consultation et à l'information**
 
 <sup>1</sup> Le Conseil d’Etat informe ses employés régulièrement sur les projets, mesures et décisions les concernant.
 
@@ -486,29 +545,23 @@ Modification et résiliation d’un engagement par contrat de droit public Un en
 
 #### Art. 40
 
-**Respect de l’environnement**
+**Respect de l'environnement**
 
-Le Conseil d'Etat prend des mesures afin d'inciter son personnel à adopter un comportement responsable dans le domaine du développement durable et de la protection de l'environnement.
+<sup>1</sup> Le Conseil d'Etat prend des mesures afin d'inciter son personnel à adopter un comportement responsable dans le domaine du développement durable et de la protection de l'environnement.
 
 #### Art. 41
 
-Développement personnel, formation et perfectionnement professionnels
+**Développement personnel, formation et perfectionnement professionnels**
 
 <sup>1</sup> La formation du personnel et les mesures de développement du personnel permettent de:
 
 - a) soutenir les employés dans la réalisation de leurs tâches et défis actuels et futurs;
-
 - b) couvrir le besoin en personnel qualifié et motivé, en spécialistes, en gestionnaires de projet, en gestionnaires de conduite;
-
 - c) répondre aux exigences du marché du travail;
-
 - d) maintenir et améliorer la flexibilité et la mobilité offertes aux employés;
-
-- e) contribuer à ce que l’employé acquiert de nouvelles compétences afin d’assumer de nouvelles tâches et fonctions;
-
-- f) participer au développement personnel de l’employé;
-
-- g) accroître la satisfaction des employés et l’attractivité de l'Etat du Valais en tant qu’employeur.
+- e) contribuer à ce que l'employé acquiert de nouvelles compétences afin d'assumer de nouvelles tâches et fonctions;
+- f) participer au développement personnel de l'employé;
+- g) accroître la satisfaction des employés et l'attractivité de l'Etat du Valais en tant qu'employeur.
 
 <sup>2</sup> Le Conseil d’Etat arrête, par voie de règlement, les dispositions nécessaires régissant la formation continue.
 
@@ -516,7 +569,7 @@ Développement personnel, formation et perfectionnement professionnels
 
 **Egalité des chances**
 
-Les mesures en faveur de l'égalité des chances portent notamment sur l’encouragement à une répartition équilibrée des sexes à tous les échelons de la hiérarchie et dans toutes les fonctions de l’administration cantonale.
+<sup>1</sup> Les mesures en faveur de l'égalité des chances portent notamment sur l’encouragement à une répartition équilibrée des sexes à tous les échelons de la hiérarchie et dans toutes les fonctions de l’administration cantonale.
 
 #### Art. 43
 
@@ -530,21 +583,45 @@ Les mesures en faveur de l'égalité des chances portent notamment sur l’encou
 
 **Télétravail**
 
-<sup>1</sup> Le télétravail est une forme flexible du travail qui a pour but d’améliorer les prestations et la motivation des employés et de leur permettre de concilier au mieux leur vie professionnelle et familiale.
+<sup>1</sup> Le télétravail est une forme flexible du travail qui a pour but d’améliorer les prestations et la motivation des employés et de leur permettre de concilier au mieux leur vie professionnelle et non professionnelle.
 
-<sup>2</sup> Les employés peuvent exercer le télétravail au sein de l’administration cantonale pour autant qu’ils aient l’accord de leur chef de service, du SRH, du service cantonal de l’informatique et que la décision soit validée par le chef de département.
+<sup>2</sup> …
 
-<sup>3</sup> Le Conseil d’Etat arrête, par voie de directives, les dispositions nécessaires. Il peut prévoir des dispositions spécifiques pour certaines catégories de personnel.
+<sup>3</sup> Le Conseil d’Etat arrête, par voie de directives, les dispositions nécessaires, notamment la compétence d’octroi du télétravail. Il peut prévoir des dispositions spécifiques pour certaines catégories de personnel.
+
+#### Art. 44a
+
+**Réduction d’activité après naissance ou adoption**
+
+<sup>1</sup> Les employés, après la naissance ou l’adoption d’un ou de plusieurs enfants, ont droit dans leur fonction à une réduction de 20 pour cent au plus du taux d’activité, jusqu’à concurrence d’un taux d’activité résiduel de 60 pour cent.
+
+<sup>2</sup> Le droit à la réduction du taux d’activité doit être exercé dans les 12 mois qui suivent la naissance ou l’adoption de l’enfant.
+
+<sup>3</sup> Le travail à taux réduit débute au plus tard le premier jour qui suit l’expiration du délai de 12 mois selon l’alinéa 2.
+
+<sup>4</sup> Le Conseil d’Etat peut définir par voie de directive les catégories de personnel non soumises aux alinéas 1 à 3 de cet article.
+
+<sup>5</sup> Pour autant que les besoins du service le permettent, l’autorité d’engagement peut autoriser un taux d’activité inférieur à 60 pour cent.
 
 #### Art. 45
 
-Participation financière aux frais de garde des enfants du personnel de l’Etat
+**Participation financière aux frais de garde des enfants du personnel de l'Etat**
 
 <sup>1</sup> L’Etat du Valais participe financièrement, au maximum à 50 pour cent, aux frais de garde des enfants de son personnel. Le pourcentage est fixé annuellement par une décision du Conseil d’Etat.
 
 <sup>2</sup> Les frais de garde sont remboursés l’année suivante sur la base des décomptes de frais effectifs.
 
 <sup>3</sup> Le Conseil d’Etat arrête, par voie de directives, les dispositions nécessaires.
+
+#### Art. 45a
+
+**Chèque-santé**
+
+<sup>1</sup> Un montant de 200 francs représentant un chèque-santé est remis annuellement à chaque employé âgé de 55 ans et plus cotisant à CPVAL, indépendamment du taux d’activité. Ce chèque-santé est octroyé au maximum jusqu’à l’année précédant l’âge légal AVS. Cette mesure constitue un soutien au maintien et à la préservation de la santé. Les prescriptions légales en matière d’assurances sociales s’appliquent.
+
+<sup>2</sup> Le montant prévu est versé avec le salaire du mois de l’anniversaire de l’employé.
+
+<sup>3</sup> Le service des ressources humaines détermine les modalités d’application.
 
 #### Art. 46
 
@@ -568,7 +645,7 @@ Participation financière aux frais de garde des enfants du personnel de l’Eta
 
 <sup>5</sup> Le Conseil d’Etat arrête, par voie de directives et de procédures, les dispositions pour l’établissement standardisé des certificats de travail ainsi que pour la conduite standardisée des entretiens de départ.
 
-### Section 6: Dispositions transitoires et finales
+## 6 Dispositions transitoires et finales
 
 #### Art. 48
 
@@ -584,8 +661,6 @@ Participation financière aux frais de garde des enfants du personnel de l’Eta
 
 **Entrée en vigueur**
 
-La présente ordonnance sera publiée dans le Bulletin officiel pour entrer en vigueur au 1<sup>er</sup> juillet 2011.
+<sup>1</sup> La présente ordonnance sera publiée dans le Bulletin officiel pour entrer en vigueur au 1<sup>er</sup> juillet 2011.
 
-Ainsi adopté en Conseil d'Etat à Sion, le 22 juin 2011.
-
-Le président du Conseil d'Etat: Jacques Melly Le chancelier d'Etat: Philipp Spörri
+RCV BO/Abl. 26/2011
