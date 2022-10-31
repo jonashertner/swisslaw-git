@@ -3,11 +3,11 @@ canton: ZH
 number: "101"
 title: Verfassung des Kantons Zürich
 language: de
-version: "2022-01-01"
-nachtrag: "116"
-valid_until: 2022-11-01
+version: "2022-11-01"
+nachtrag: "119"
+valid_until: 2023-04-01
 adopted: 2005-02-27
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-101-2005_02_27-2006_01_01-116.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-101-2005_02_27-2006_01_01-119.html"
 text: pdf
 ---
 
@@ -70,7 +70,7 @@ Der Kanton arbeitet mit den Gemeinden, den anderen Kantonen, dem Bund und, in se
 
 **1**
 
-- 1\. 1. 22 - 115
+- 1\. 1. 23 - 119
 
 #### Art. 5
 
@@ -202,7 +202,7 @@ ziele des Kantons und der Gemeinden.
 
 **3**
 
-- 1\. 1. 22 - 115
+- 1\. 1. 23 - 119
 
 <sup>2</sup> Kanton und Gemeinden setzen sich im Weiteren dafür ein, dass a. Eltern vor und nach der Geburt eines Kindes nicht in eine Notlage geraten;
 
@@ -302,7 +302,7 @@ ausgearbeiteter Entwurf eingereicht werden. Die Initiative auf Totalrevision der
 
 **5**
 
-- 1\. 1. 22 - 115
+- 1\. 1. 23 - 119
 
 #### Art. 26
 
@@ -414,13 +414,13 @@ breitet:
 
 **7**
 
-- 1\. 1. 22 - 115
+- 1\. 1. 23 - 119
 
 <sup>3</sup> Die Volksabstimmung muss innert 60 Tagen nach der amtlichen Veröffentlichung des Kantonsratsbeschlusses schriftlich verlangt werden. Beim Kantonsratsreferendum beträgt die Frist 14 Tage ab Beschluss des Rates.
 
 <sup>4</sup> Die Gemeinden bestimmen, welches Organ das Gemeindereferendum ergreifen kann. Die Stadt Zürich und die Stadt Winterthur können nur mit Beschluss ihres Parlaments das Referendum alleine ergreifen.
 
-[^33-1]: Fassung gemäss Änderung vom 17. August 2020 (OS 76, 371; ABl 2019-05-03). In Kraft seit 1. Januar 2022. Vom Bund gewährleistet durch Bundesbeschluss vom 16. März 2022 (BBl 2022, 780). 1. 1. 22 - 115 29
+[^33-1]: Fassung gemäss Änderung vom 17. August 2020 (OS 76, 371; ABl 2019-05-03). In Kraft seit 1. Januar 2022. Vom Bund gewährleistet durch Bundesbeschluss vom 16. März 2022 (BBl 2022, 780).
 
 #### Art. 34
 
@@ -530,7 +530,7 @@ Jahre.
 
 **9**
 
-- 1\. 1. 22 - 115
+- 1\. 1. 23 - 119
 
 #### Art. 42
 
@@ -674,7 +674,7 @@ staatlichen Tätigkeit Stellung. Er äussert sich insbesondere zu den Schwerpunk
 
 <sup>2</sup> Er beschliesst über die Grundzüge der räumlichen Entwicklung.
 
-[^55-1]: Fassung gemäss Änderung vom 17. August 2020 (OS 76, 371; ABl 2019-05-03). In Kraft seit 1. Januar 2022. Vom Bund gewährleistet durch Bundesbeschluss vom 16. März 2022 (BBl 2022, 780). 1. 1. 22 - 115 29
+[^55-1]: Fassung gemäss Änderung vom 17. August 2020 (OS 76, 371; ABl 2019-05-03). In Kraft seit 1. Januar 2022. Vom Bund gewährleistet durch Bundesbeschluss vom 16. März 2022 (BBl 2022, 780).
 
 #### Art. 56
 
@@ -692,7 +692,7 @@ staatlichen Tätigkeit Stellung. Er äussert sich insbesondere zu den Schwerpunk
 
 **11**
 
-- 1\. 1. 22 - 115
+- 1\. 1. 23 - 119
 
 <sup>2</sup> Der Zustimmung der Mehrheit aller Mitglieder bedürfen:
 
@@ -828,7 +828,7 @@ der Rechtsetzung. Er weist in seinen Berichten auf die langfristigen ökologisch
 
 <sup>2</sup> Er kann Verordnungen über den Vollzug von Gesetzen erlassen.
 
-[^67-1]: Fassung gemäss Änderung vom 17. August 2020 (OS 76, 371; ABl 2019-05-03). In Kraft seit 1. Januar 2022. Vom Bund gewährleistet durch Bundesbeschluss vom 16. März 2022 (BBl 2022, 780). 1. 1. 22 - 115 29
+[^67-1]: Fassung gemäss Änderung vom 17. August 2020 (OS 76, 371; ABl 2019-05-03). In Kraft seit 1. Januar 2022. Vom Bund gewährleistet durch Bundesbeschluss vom 16. März 2022 (BBl 2022, 780).
 
 #### Art. 68
 
@@ -840,7 +840,7 @@ die Staatsrechnung.
 
 **13**
 
-- 1\. 1. 22 - 115
+- 1\. 1. 23 - 119
 
 <sup>2</sup> Er beschliesst im Rahmen des Budgets über:
 
@@ -968,7 +968,7 @@ gen sind, gewährleistet das Gesetz die wirksame Überprüfung durch eine Rekurs
 
 **15**
 
-- 1\. 1. 22 - 115
+- 1\. 1. 23 - 119
 
 #### Art. 78
 
@@ -1090,7 +1090,7 @@ sieht insbesondere ein Initiativrecht, ein Referendumsrecht und ein Anfragerecht
 
 **17**
 
-- 1\. 1. 22 - 115
+- 1\. 1. 23 - 119
 
 <sup>2</sup> Die Stimmberechtigten entscheiden an der Urne über:
 
@@ -1214,7 +1214,7 @@ Kanton in Bezirke eingeteilt. Das Gesetz bezeichnet ihre Gebiete.
 
 **19**
 
-- 1\. 1. 22 - 115
+- 1\. 1. 23 - 119
 
 #### Art. 97
 
@@ -1288,6 +1288,20 @@ Menschen und der Umwelt vor schädlichen oder lästigen Einwirkungen.
 
 <sup>3</sup> Kanton und Gemeinden können die Anwendung nachhaltiger Technologien fördern.
 
+[^102-1]: Eingefügt durch Änderung vom 25. Oktober 2021 (OS 77, 457; ABl 2021-04-30). In Kraft seit 1. November 2022. 1. 1. 23 - 119 29
+
+#### Art. 102 a
+
+**Klima**[^102-1]
+
+<sup>1</sup> Kanton und Gemeinden setzen sich für die Begren-
+
+zung des Klimawandels und dessen Auswirkungen ein. Sie berücksichtigen dabei die Ziele des Bundes und der für die Schweiz verbindlichen internationalen Abkommen. Insbesondere richten sie ihre Massnahmen darauf aus, die Treibhausgasemissionen bis zur Treibhausgasneutralität zu vermindern.
+
+<sup>2</sup> Sie sorgen dafür, dass dazu geeignete Massnahmen, namentlich in den Bereichen Siedlungsentwicklung, Gebäude, Verkehr, Land- und Forstwirtschaft sowie Industrie und Gewerbe, umgesetzt werden.
+
+<sup>3</sup> Sie können die Entwicklung und Anwendung von Technologien, Materialien und Prozessen fördern, die zum Klimaschutz und zur Anpassung an den Klimawandel beitragen.
+
 #### Art. 103
 
 **Natur- und Heimatschutz**
@@ -1322,6 +1336,10 @@ schaftliche und umweltgerechte Ordnung des gesamten Verkehrs und für ein leistu
 
 <sup>2</sup> Kanton und Gemeinden gewährleisten die Wasserversorgung.
 
+**21**
+
+- 1\. 1. 23 - 119
+
 <sup>3</sup> Sie sorgen für den Schutz vor Hochwasser und anderen Naturgefahren. Sie fördern die Renaturierung der Gewässer.
 
 #### Art. 106
@@ -1335,10 +1353,6 @@ eine ausreichende, umweltschonende, wirtschaftliche und sichere Energieversorgun
 <sup>2</sup> Er schafft Anreize für die Nutzung einheimischer und erneuerbarer Energie und für den rationellen Energieverbrauch.
 
 <sup>3</sup> Er sorgt für eine sichere und wirtschaftliche Elektrizitätsversorgung.
-
-**21**
-
-- 1\. 1. 22 - 115
 
 #### Art. 107
 
@@ -1476,15 +1490,15 @@ Kanton und Gemeinden fördern den Sport.
 
 Finanzhaushalt.
 
+**23**
+
+- 1\. 1. 23 - 119
+
 <sup>2</sup> Kanton, Gemeinden und andere Organisationen des öffentlichen Rechts führen ihren Finanzhaushalt nach den Grundsätzen der Gesetzmässigkeit, der Sparsamkeit und der Wirtschaftlichkeit.
 
 <sup>3</sup> Budget und Rechnung richten sich nach den Grundsätzen der Transparenz, Vergleichbarkeit und Öffentlichkeit.
 
 <sup>4</sup> Bei der Festlegung der Bemessungsgrundlagen von Abgaben und Staatsbeiträgen wird der Förderung von umweltgerechtem Verhalten besondere Beachtung geschenkt.
-
-**23**
-
-- 1\. 1. 22 - 115
 
 #### Art. 123
 
@@ -1606,13 +1620,13 @@ ten des öffentlichen Rechts:
 
 - c. die christkatholische Kirchgemeinde.
 
+**25**
+
+- 1\. 1. 23 - 119
+
 <sup>2</sup> Die evangelisch-reformierte Landeskirche, die römisch-katholische Körperschaft und die christkatholische Kirchgemeinde sind im Rahmen des kantonalen Rechts autonom. Sie regeln:
 
 - a. das Stimm- und Wahlrecht in ihren eigenen Angelegenheiten nach rechtsstaatlichen und demokratischen Grundsätzen in einem Erlass, welcher dem obligatorischen Referendum untersteht;
-
-**25**
-
-- 1\. 1. 22 - 115
 
 - b. die Zuständigkeit für die Neubildung, den Zusammenschluss und die Auflösung von Kirchgemeinden.
 
@@ -1728,6 +1742,10 @@ initiative bereits eingereicht worden, so richten sich die Fristen für die Durc
 
 sung eine Vorlage beschlossen, so gilt für das Referendum das bisherige Recht.
 
+**27**
+
+- 1\. 1. 23 - 119
+
 <sup>2</sup> Solange eine Gemeinde im Sinne von Art. 33 Abs. 4 Satz 1 das Organ, das ein Gemeindereferendum unterstützen kann, noch nicht bezeichnet hat, ist die Gemeindeversammlung oder das Gemeindeparlament zuständig.
 
 #### Art. 141
@@ -1743,10 +1761,6 @@ Art. 46 Abs. 2 begründet eine Kausalhaftung von Privaten nur dann, wenn das sch
 <sup>1</sup> Mitglieder von Behörden bleiben bis zum Ablauf der
 
 Amtsdauer nach bisherigem Recht im Amt.
-
-**27**
-
-- 1\. 1. 22 - 115
 
 <sup>2</sup> Findet eine Erneuerungswahl innert zwei Jahren nach Inkrafttreten dieser Verfassung statt, erfolgt sie nach bisherigem Recht auf eine volle Amtsdauer.
 
