@@ -4,11 +4,11 @@ number: "741.2"
 title: Kantonale Signalisationsverordnung (KSigV)
 short: KSigV
 language: de
-version: "2010-07-01"
-nachtrag: "69"
-valid_until: 2022-11-01
+version: "2022-11-01"
+nachtrag: "119"
+valid_until: 2026-06-01
 adopted: 2001-11-21
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-741_2-2001_11_21-2002_01_01-069.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-741_2-2001_11_21-2002_01_01-119.html"
 text: pdf
 ---
 
@@ -59,34 +59,33 @@ Als Verkehrsanordnungen im Sinne dieser Verordnung gelten Signale, Lichtsignale,
 
 <sup>2</sup> Dauernde Verkehrsanordnungen auf Gemeindestrassen verfügt die Kantonspolizei[^4-1] auf Antrag der zuständigen Gemeindebehörde. Sind weitere Gemeinden davon betroffen, ist deren Stellungnahme einzuholen. Ein Antrag darf nur nach Anhörung der Verkehrstechnischen Kommission abgelehnt werden.
 
-[^4-1]: Fassung gemäss RRB vom 2. Juni 2010 (OS 65, 378; ABl 2010, 1242). In Kraft seit 1. Juli 2010.
-[^4-2]: LS 713.12.
-[^4-3]: Fassung gemäss RRB vom 22. November 2006 (OS 61, 464; ABl 2006, 1669). In Kraft seit 1. Januar 2007.
-
-#### § 5
+<sup>3</sup> Halteverbote vor Schulgebäuden und -anlagen auf Staats- und Gemeindestrassen verfügt die Gemeinde. Sie holt vorgängig eine verkehrstechnische Stellungnahme der Kantonspolizei ein.[^4-2]
 
 **b. Vorübergehende Verkehrsanordnungen**
 
-<sup>1</sup> Vorübergehende Verkehrsanordnungen für Autobahnen und Autostrassen verfügt die Kantonspolizei[^4-1]. Vorbehalten bleibt die Zuständigkeit der Baudirektion gemäss SMOG-Verordnung[^4-2].[^4-3]
+§ 5. <sup>1</sup> Vorübergehende Verkehrsanordnungen für Autobahnen und Autostrassen verfügt die Kantonspolizei[^4-1]. Vorbehalten bleibt die Zuständigkeit der Baudirektion gemäss SMOG-Verordnung[^4-3].[^4-4]
 
 **1**
 
-- 1\. 7. 10 - 69
+- 1\. 1. 23 - 119
 
 <sup>2</sup> Auf den übrigen Staatsstrassen sind für vorübergehende Anordnungen zuständig:
 
-- a. das Tiefbauamt[^5-1], soweit die Anordnung wegen Strassenbauarbeiten erforderlich ist,
+- a. das Tiefbauamt[^4-1], soweit die Anordnung wegen Strassenbauarbeiten erforderlich ist,
 
-- b. die Kantonspolizei[^5-1] in den übrigen Fällen.
+- b. die Kantonspolizei[^4-1] in den übrigen Fällen.
 
 <sup>3</sup> Auf Gemeindestrassen sind für solche Anordnungen die Gemeindebehörden zuständig.
 
 <sup>4</sup> Vorübergehende Verkehrsanordnungen mit Auswirkungen auf übergeordnete Strassen verfügt diejenige Behörde, die für diese zuständig ist.
 
-<sup>5</sup> Für die Anordnung von Versuchen mit Verkehrsmassnahmen im Sinne von Art. 107 Abs. 2<sup>bis</sup> SSV[^5-2] ist für alle Strassen die Kantonspolizei[^5-1] zuständig.
+<sup>5</sup> Für die Anordnung von Versuchen mit Verkehrsmassnahmen im Sinne von Art. 107 Abs. 2<sup>bis</sup> SSV[^4-5] ist für alle Strassen die Kantonspolizei[^4-1] zuständig.
 
-[^5-1]: Fassung gemäss RRB vom 2. Juni 2010 (OS 65, 378; ABl 2010, 1242). In Kraft seit 1. Juli 2010.
-[^5-2]: SR 741.21.
+[^4-1]: Fassung gemäss RRB vom 2. Juni 2010 (OS 65, 378; ABl 2010, 1242). In Kraft seit 1. Juli 2010.
+[^4-2]: Eingefügt durch RRB vom 24. August 2022 (OS 77, 526; ABl 2022-09-02). In Kraft seit 1. November 2022. 1. 1. 23 - 119 7
+[^4-3]: LS 713.12.
+[^4-4]: Fassung gemäss RRB vom 22. November 2006 (OS 61, 464; ABl 2006, 1669). In Kraft seit 1. Januar 2007.
+[^4-5]: SR 741.21.
 
 #### § 6
 
@@ -104,13 +103,15 @@ Als Verkehrsanordnungen im Sinne dieser Verordnung gelten Signale, Lichtsignale,
 
 <sup>2</sup> Vorübergehende Verkehrsanordnungen werden in gleicher Weise veröffentlicht, wenn sie länger als 60 Tage gelten sollen; dabei ist die voraussichtliche Dauer anzugeben.
 
-#### § 8
+<sup>3</sup> Halteverbote nach § 4 Abs. 3 sind zusätzlich der Kantonspolizei mitzuteilen.[^7-1]
 
 **Kosten der Veröffentlichung**
 
-<sup>1</sup> Die Kosten der Veröffentlichung trägt bei Gemeindestrassen die Gemeinde, bei den übrigen Strassen die anordnende Behörde.
+§ 8. <sup>1</sup> Die Kosten der Veröffentlichung trägt bei Gemeindestrassen die Gemeinde, bei den übrigen Strassen die anordnende Behörde.
 
 <sup>2</sup> Die Kosten können demjenigen auferlegt werden, der die überwiegende Ursache für die Verkehrsanordnung gesetzt hat.
+
+[^7-1]: Eingefügt durch RRB vom 24. August 2022 (OS 77, 526; ABl 2022-09-02). In Kraft seit 1. November 2022. 1. 1. 23 - 119 7
 
 #### § 9
 
@@ -128,27 +129,28 @@ Als Verkehrsanordnungen im Sinne dieser Verordnung gelten Signale, Lichtsignale,
 
 **Dauernde Verkehrsanordnungen a. Art, Standort und Ausführung**
 
-Über Art, Standort und Ausführung der Signale, Lichtsignale und Markierungen entscheidet die Kantonspolizei[^hIIVollzug-1], soweit diese Verordnung nichts anderes bestimmt.
+<sup>1</sup> Über Art, Standort und Ausführung der Signale, Lichtsignale und Markierungen entscheidet die Kantonspolizei[^hIIVollzug-1], soweit diese Verordnung nichts anderes bestimmt.
+
+<sup>2</sup> Über Art, Standort und Ausführung von Halteverboten nach § 4 Abs. 3 entscheidet die Gemeinde.[^10-1]
 
 **b. Anschaffung und Unterhalt**
 
-§ 11.[^10-1] Die Anschaffung, das Aufstellen oder Anbringen und der Unterhalt der Signale, Lichtsignale und Markierungen obliegen, soweit diese Verordnung nichts anderes bestimmt, auf Gemeindestrassen der Gemeinde, auf den übrigen Strassen dem Tiefbauamt im Rahmen seiner Finanzkompetenzen.
+§ 11.[^10-2] <sup>1</sup> Die Anschaffung, das Aufstellen oder Anbringen und der Unterhalt der Signale, Lichtsignale und Markierungen obliegen, soweit diese Verordnung nichts anderes bestimmt, auf Gemeindestrassen der Gemeinde, auf den übrigen Strassen dem Tiefbauamt im Rahmen seiner Finanzkompetenzen.
 
-[^10-1]: Fassung gemäss RRB vom 2. Juni 2010 (OS 65, 378; ABl 2010, 1242). In Kraft seit 1. Juli 2010.
-
-#### § 12
+<sup>2</sup> Die Anschaffung, das Aufstellen oder Anbringen und der Unterhalt von Halteverboten nach § 4 Abs. 3 obliegen der Gemeinde.[^10-1]
 
 **Vorübergehende Verkehrsanordnungen a. Art, Standort und Ausführung**
 
-Der Entscheid über Art, Standort und Ausführung von Signalen, Lichtsignalen und Markierungen, welche vorübergehende Verkehrsanordnungen anzeigen oder mit ihnen in direktem Zusammenhang stehen, erfolgt durch die Behörde, die nach § 5 die Anordnung verfügt hat.
+§ 12. Der Entscheid über Art, Standort und Ausführung von Signalen, Lichtsignalen und Markierungen, welche vorübergehende Verkehrsanordnungen anzeigen oder mit ihnen in direktem Zusammenhang stehen, erfolgt durch die Behörde, die nach § 5 die Anordnung verfügt hat.
 
-[^12-1]: Fassung gemäss RRB vom 2. Juni 2010 (OS 65, 378; ABl 2010, 1242). In Kraft seit 1. Juli 2010.
+[^10-1]: Eingefügt durch RRB vom 24. August 2022 (OS 77, 526; ABl 2022-09-02). In Kraft seit 1. November 2022. 1. 1. 23 - 119 7
+[^10-2]: Fassung gemäss RRB vom 2. Juni 2010 (OS 65, 378; ABl 2010, 1242). In Kraft seit 1. Juli 2010.
 
 #### § 13
 
 **b. Anschaffung und Unterhalt**
 
-Die Anschaffung, das Aufstellen oder Anbringen und der Unterhalt von Signalen, Lichtsignalen und Markierungen obliegen, wenn die Verkehrsanordnung von der Kantonspolizei[^12-1] verfügt wurde, der von ihr im einzelnen Fall bestimmten Stelle, in den übrigen Fällen der Behörde, welche die Verkehrsanordnung verfügt hat.
+Die Anschaffung, das Aufstellen oder Anbringen und der Unterhalt von Signalen, Lichtsignalen und Markierungen obliegen, wenn die Verkehrsanordnung von der Kantonspolizei[^10-2] verfügt wurde, der von ihr im einzelnen Fall bestimmten Stelle, in den übrigen Fällen der Behörde, welche die Verkehrsanordnung verfügt hat.
 
 [^13-1]: Fassung gemäss RRB vom 2. Juni 2010 (OS 65, 378; ABl 2010, 1242). In Kraft seit 1. Juli 2010.
 
@@ -164,16 +166,16 @@ Für die Steuerung der Lichtsignale ist die Kantonspolizei[^13-1] zuständig.
 
 Die anordnende Behörde kann die Signalisation, die im Zusammenhang mit Bauarbeiten steht, dem Bauunternehmer übertragen, ausgenommen für Autobahnen und Autostrassen. Sie erteilt ihm die nötigen Weisungen und überwacht die Ausführung.
 
-[^15-1]: SR 741.21.
-[^15-2]: Fassung gemäss RRB vom 2. Juni 2010 (OS 65, 378; ABl 2010, 1242). In Kraft seit 1. Juli 2010.
+**3**
 
-#### § 16
+- 1\. 1. 23 - 119 § 16. <sup>1</sup> Behördliche Weisungen an Organisationen und Private in den Fällen von Art. 104 Abs. 5 lit. a und b sowie Art. 115 Abs. 3 SSV[^15-1] erteilt die Kantonspolizei[^15-2].
 
 **Vorkehren von Organisationen und Privaten**
 
-<sup>1</sup> Behördliche Weisungen an Organisationen und Private in den Fällen von Art. 104 Abs. 5 lit. a und b sowie Art. 115 Abs. 3 SSV[^15-1] erteilt die Kantonspolizei[^15-2].
-
 <sup>2</sup> Die Anschaffung, das Aufstellen oder Anbringen und der Unterhalt der entsprechenden Signale und Markierungen obliegen in diesen Fällen den dazu ermächtigten Organisationen und Privaten.
+
+[^15-1]: SR 741.21.
+[^15-2]: Fassung gemäss RRB vom 2. Juni 2010 (OS 65, 378; ABl 2010, 1242). In Kraft seit 1. Juli 2010.
 
 #### § 17
 
@@ -181,11 +183,11 @@ Die anordnende Behörde kann die Signalisation, die im Zusammenhang mit Bauarbei
 
 Die mit dem Aufstellen oder Anbringen sowie dem Entfernen der Signalisation beauftragte Behörde wie auch die Organisationen und Privaten im Sinne von § 16 orientieren die anordnende Behörde über ihr Vorgehen. Die Organisationen und Privaten werden durch die anordnende Behörde auf diese Pflicht aufmerksam gemacht.
 
-**3**
-
-- 1\. 7. 10 - 69 § 18. <sup>1</sup> Die Kosten für die Signalisation tragen die für die Anschaffung, das Aufstellen oder Anbringen und den Unterhalt zuständigen Behörden, in den Fällen von § 16 die dazu ermächtigten Organisationen und Privaten.
+#### § 18
 
 **Kostentragung**
+
+<sup>1</sup> Die Kosten für die Signalisation tragen die für die Anschaffung, das Aufstellen oder Anbringen und den Unterhalt zuständigen Behörden, in den Fällen von § 16 die dazu ermächtigten Organisationen und Privaten.
 
 <sup>2</sup> Die Behörden können die Kosten demjenigen auferlegen, der die überwiegende Ursache für die Signalisation gesetzt hat.
 
@@ -226,7 +228,7 @@ Anordnungen und Weisungen hinsichtlich öffentlicher Verkehrsflächen in private
 
 <sup>1</sup> Für Verkehrsanordnungen auf dem Strassennetz des Flughafenkopfes ist für alle Strassen die Kantonspolizei[^21-1] zuständig.
 
-<sup>2</sup> Das Strassennetz des Flughafenkopfes umfasst sämtliche öffentlichen Verkehrsflächen innerhalb des Gebietes westlich der Autobahn A51 zwischen der Ausfahrt Kloten Süd, Fahrbahn Zürich, und der Brücke Werftstrasse (südliche Begrenzung), östlich des nicht öffentlichen Bereiches des Flughafens, südlich der Liegenschaften Flughafenstrasse 18–22 (einschliesslich der genannten Liegenschaften, als nördliche Begrenzung).
+<sup>2</sup> Das Strassennetz des Flughafenkopfes umfasst sämtliche öffentlichen Verkehrsflächen innerhalb des Gebietes westlich der Autobahn A51 zwischen der Ausfahrt Kloten Süd, Fahrbahn Zürich, und der Brücke Werftstrasse (südliche Begrenzung), östlich des nicht öffentlichen Bereiches des Flughafens, südlich der Liegenschaften Flughafenstrasse 18– 22 (einschliesslich der genannten Liegenschaften, als nördliche Begrenzung).
 
 <sup>3</sup> Haben Verkehrsanordnungen Auswirkungen auf das umliegende Strassennetz einer Gemeinde, wird diese angehört.
 
@@ -238,14 +240,16 @@ Anordnungen und Weisungen hinsichtlich öffentlicher Verkehrsflächen in private
 
 <sup>1</sup> Die Kantonspolizei[^22-1] führt eine Statistik über die Strassenverkehrsunfälle. Gestützt auf diese Statistik veranlasst sie Massnahmen zur Förderung der Verkehrssicherheit.
 
-<sup>2</sup> Die Kantonspolizei[^23-1] orientiert über das Unfallgeschehen. § 24.[^23-1] Für die Verkehrsinformation im Sinne von Art. 57d Abs. 2 SVG[^23-2] ist die Kantonspolizei zuständig.
+<sup>2</sup> Die Kantonspolizei[^23-1] orientiert über das Unfallgeschehen.
+
+**Verkehrsinformation**
+
+§ 24.[^23-1] Für die Verkehrsinformation im Sinne von Art. 57 d Abs. 2 SVG[^23-2] ist die Kantonspolizei zuständig.
 
 [^23-1]: Fassung gemäss RRB vom 2. Juni 2010 (OS 65, 378; ABl 2010, 1242). In Kraft seit 1. Juli 2010.
 [^23-2]: SR 741.01.
 
 #### § 25
-
-**Verkehrsinformation**
 
 **Verkehrsdienste**
 
@@ -279,9 +283,11 @@ In Zürich und Winterthur üben die städtischen Behörden die in den Abschnitte
 
 Die städtischen Behörden holen die Zustimmung der Kantonspolizei[^27-1] ein, bevor Verkehrsanordnungen verfügt werden, die den Verkehr auf Durchgangsstrassen ausserhalb des Stadtgebietes beeinflussen können.
 
-**Orientierung der Kantonspolizei**
+**5**
 
-§ 29.[^28-1] <sup>1</sup> Die städtischen Behörden teilen der Kantonspolizei durch Zustellung einer Verfügungskopie die von ihnen verfügten dauernden Verkehrsanordnungen mit, soweit sie nicht ausschliesslich den ruhenden Verkehr betreffen.
+- 1\. 1. 23 - 119 § 29.[^28-1] <sup>1</sup> Die städtischen Behörden teilen der Kantonspolizei durch Zustellung einer Verfügungskopie die von ihnen verfügten dauernden Verkehrsanordnungen mit, soweit sie nicht ausschliesslich den ruhenden Verkehr betreffen.
+
+**Orientierung der Kantonspolizei**
 
 <sup>2</sup> Die städtischen Behörden informieren die Kantonspolizei über Ereignisse, die Auswirkungen auf Durchgangsstrassen ausserhalb des Stadtgebietes haben.
 
@@ -292,10 +298,6 @@ Die städtischen Behörden holen die Zustimmung der Kantonspolizei[^27-1] ein, b
 **Veröffentlichung**
 
 Verkehrsanordnungen der städtischen Behörden werden nur im amtlichen Publikationsorgan der Stadt veröffentlicht.
-
-**5**
-
-- 1\. 7. 10 - 69
 
 ### VI. Verschiedene Bestimmungen
 
