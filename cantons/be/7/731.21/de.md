@@ -4,13 +4,13 @@ number: "731.21"
 title: Verordnung zur Interkantonalen Vereinbarung über das öffentliche Beschaffungswesen
 short: IVöBV
 language: de
-version: 2022-02-01
-valid_until: 2022-10-31
-version_adopted: 2021-11-17
+version: 2022-11-01
+valid_until: 2022-12-31
+version_adopted: 2022-09-21
 adopted: 2021-11-17
 in_force: 2022-02-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/731.21"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2452/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2675/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2452/pdf_file"
 
 (IVöBV)
 
-vom 17.11.2021 (Stand 01.02.2022)
+vom 17.11.2021 (Stand 01.11.2022)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -282,6 +282,12 @@ beschliesst:
 
 [^21-1]: BSG [731.22](https://www.belex.sites.be.ch/data/731.22/de)
 
+## 5a Anwendung der IVöB als kantonales Gesetzesrecht
+
+#### Art. 21a
+
+<sup>1</sup> Die IVöB gilt nach Massgabe von Artikel 4 IVöBG sinngemäss als kantonales Gesetzesrecht.
+
 ## 6 Übergangs- und Schlussbestimmungen
 
 #### Art. 22
@@ -289,6 +295,12 @@ beschliesst:
 **Einrichten der Meldestelle gemäss Artikel 4**
 
 <sup>1</sup> Kantonale Auftraggeber richten die Meldestelle gemäss Artikel 4 innerhalb eines Jahres nach dem Inkrafttreten dieser Verordnung ein.
+
+#### Art. 22a
+
+**Anwendbares Recht**
+
+<sup>1</sup> Artikel 64 Absatz 1 IVöB ist anwendbar.
 
 #### Art. 23
 
@@ -337,7 +349,7 @@ beschliesst:
 <tr><td>3</td><td>Steuerpflicht einschliesslich Mehrwertsteuerpflicht</td><td>Alle Anbieter</td><td>Keine fälligen Steuerforderungen des Bundes, der Kantone und der Gemeinden.</td><td>Bestätigungen: 1. der Steuerbehörde am Geschäftssitz, 2. der für die Mehrwertsteuer zuständigen Bundesbehörde.</td><td>1 Jahr</td></tr>
 <tr><td>4</td><td>Finanzielle Stabilität</td><td>Alle Anbieter</td><td>Kein laufendes Pfändungs- oder Konkursverfahren und keine nicht verjährten Verlustscheine.</td><td>Auszug aus dem Betreibungsregister</td><td>1 Jahr</td></tr>
 <tr><td>5</td><td>Keine Schwarzarbeit</td><td>Alle Anbieter</td><td>Einhalten der Melde- und Bewilligungspflichten nach dem Bundesgesetz vom 17. Juni 2005 über Massnahmen zur Bekämpfung der Schwarzarbeit (Bundesgesetz gegen die Schwarzarbeit, BGSA)[^A11-1].</td><td>1. Selbstdeklaration auf dem Formular der ZKB, 2. der Anbieter ist auf der Liste der rechtskräftig sanktionierten Arbeitgeberinnen und Arbeitgeber gemäss Art. 13 BGSA des Staatssekretariates für Wirtschaft (www.seco.admin.ch) nicht verzeichnet.</td><td>Datum des Angebots</td></tr>
-<tr><td>6</td><td>Lohngleichheit für Frauen und Männer</td><td>a. Arbeitgeberinnen und Arbeitgeber, die gemäss Art. 13a und 13b des Bundesgesetzes vom 24. März 1995 über die Gleichstellung von Frau und Mann (Gleichstellungsgesetz, GlG)[^A11-2] zur Durchführung einer Lohngleichheitsanalyse verpflichtet sind</td><td>Die Lohngleichheit ist gewährleistet. Bei einer Lohngleichheitsanalyse mit dem Standard Analyse-Tool des Bundes «Logib» darf die unerklärte Lohndifferenz 5% nicht überschreiten.</td><td>1. Lohngleichheitsanalyse gemäss Art. 13a ff. GlG und 2. wenn gemäss Art. 13d GlG die Überprüfung der Lohngleichheitsanalyse erforderlich ist, der Bericht der unabhängigen Stelle darüber; oder 3. Kontrollbestätigung einer staatlichen Stelle gemäss Art. 13b GlG.</td><td>Gemäss Art. 13a Abs. 2 und 3 GlG bzw. Art. 13b Bst. c GlG</td></tr>
+<tr><td>6</td><td>Lohngleichheit für Frauen und Männer</td><td>a. Arbeitgeberinnen und Arbeitgeber, die gemäss Art. 13a und 13b des Bundesgesetzes vom 24. März 1995 über die Gleichstellung von Frau und Mann (Gleichstellungsgesetz, GlG)[^A11-2] zur Durchführung einer Lohngleichheitsanalyse verpflichtet sind</td><td>Die Lohngleichheit ist gewährleistet. Bei einer Lohngleichheitsanalyse mit dem Standard Analyse-Tool des Bundes «Logib» darf die Analyse nicht ergeben, dass die Toleranzschwelle überschritten ist.</td><td>1. Lohngleichheitsanalyse gemäss Art. 13a ff. GlG und 2. wenn gemäss Art. 13d GlG die Überprüfung der Lohngleichheitsanalyse erforderlich ist, der Bericht der unabhängigen Stelle darüber; oder 3. Kontrollbestätigung einer staatlichen Stelle gemäss Art. 13b GlG.</td><td>Gemäss Art. 13a Abs. 2 und 3 GlG bzw. Art. 13b Bst. c GlG</td></tr>
 <tr><td></td><td></td><td>b. Andere Anbieter</td><td>Die Lohngleichheit ist gewährleistet.</td><td>Selbstdeklaration auf dem Formular der ZKB</td><td>Datum des Angebots</td></tr>
 <tr><td>7</td><td>Weitere gesetzliche Teilnahmevoraussetzungen oder Verpflichtungen des Anbieters</td><td>Alle Anbieter</td><td>Gemäss dem Selbstdeklarationsformular der ZKB</td><td>Selbstdeklaration auf dem Formular der ZKB</td><td>Datum des Angebots</td></tr>
 </table>

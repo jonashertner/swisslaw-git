@@ -4,13 +4,13 @@ number: "731.21"
 title: Ordonnance concernant l’accord intercantonal sur les marchés publics
 short: OAIMP
 language: fr
-version: 2022-02-01
-valid_until: 2022-10-31
-version_adopted: 2021-11-17
+version: 2022-11-01
+valid_until: 2022-12-31
+version_adopted: 2022-09-21
 adopted: 2021-11-17
 in_force: 2022-02-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/731.21"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2452/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2675/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2452/pdf_file"
 
 (OAIMP)
 
-du 17.11.2021 (état au 01.02.2022)
+du 17.11.2021 (état au 01.11.2022)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -282,6 +282,12 @@ arrête:
 
 [^21-1]: RSB [731.22](https://www.belex.sites.be.ch/data/731.22/fr)
 
+## 5a Application de l'AIMP en tant que droit cantonal ayant le rang de loi
+
+#### Art. 21a
+
+<sup>1</sup> L’AIMP s’applique par analogie en tant que droit cantonal ayant le rang de loi conformément à l’article 4 LAIMP.
+
 ## 6 Dispositions transitoires et dispositions finales
 
 #### Art. 22
@@ -289,6 +295,12 @@ arrête:
 **Création du service d'enregistrement des irrégularités au sens de l'article 4**
 
 <sup>1</sup> Les adjudicateurs cantonaux créent le service d'enregistrement des irrégularités prévu à l'article 4 dans un délai d'une année après l'entrée en vigueur de la présente ordonnance.
+
+#### Art. 22a
+
+**Droit applicable**
+
+<sup>1</sup> L’article 64, alinéa 1 AIMP s’applique.
 
 #### Art. 23
 
@@ -337,7 +349,7 @@ arrête:
 <tr><td>3</td><td>Assujettissement à l’impôt (y compris la taxe sur la valeur ajoutée)</td><td>Tous les soumissionnaires</td><td>Pas de créances fiscales échues de la Confédération, des cantons ou des communes</td><td>Attestations: 1. des autorités fiscales du siège social de l’entreprise et 2. des autorités fédérales compétentes pour la TVA</td><td>1 an</td></tr>
 <tr><td>4</td><td>Stabilité financière</td><td>Tous les soumissionnaires</td><td>Pas de procédure de saisie ou de faillite en cours ; pas d’actes de défaut de biens non encore prescrits</td><td>Extrait du registre des poursuites</td><td>1 an</td></tr>
 <tr><td>5</td><td>Travail au noir</td><td>Tous les soumissionnaires</td><td>Respect des obligations en matière d’annonce et d’autorisation prévues dans la loi fédérale du 17 juin 2005 sur le travail au noir (LTN)[^A11-1]</td><td>1. Déclaration spontanée sur le formulaire du BCCA, 2. Le soumissionnaire ne figure pas sur la liste du Secrétariat d’Etat à l’économie (www.seco.admin.ch) des employeurs faisant l’objet d’une décision entrée en force d’exclusion des marchés publics selon l’article 13 LTN.</td><td>Date de l'offre</td></tr>
-<tr><td>6</td><td>Egalité salariale entre femmes et hommes</td><td>a. Employeurs ayant l’obligation d’effectuer une analyse de l’égalité des salaires en vertu des articles 13a et 13b de la loi fédérale du 24 mars 1995 sur l’égalité entre femmes et hommes (loi sur l’égalité, LEg)[^A11-2]</td><td>L'égalité salariale est garantie. Pour une analyse de l'égalité salariale avec la méthode "Logib", la différence de salaire inexpliquée ne peut dépasser 5%.</td><td>1. Analyse de l’égalité des salaires conformément aux articles 13a ss LEg et 2. Justificatif de vérification de l’analyse si cette vérification est nécessaire en vertu de l’article 13d LEg ou 3. Attestation de contrôle d’un organe de l’Etat conformément à l’article 13b LEg.</td><td>Conformément à l'article 13a, alinéas 2 et 3 LEg ou à l'article 13b, lettre c LEg</td></tr>
+<tr><td>6</td><td>Egalité salariale entre femmes et hommes</td><td>a. Employeurs ayant l’obligation d’effectuer une analyse de l’égalité des salaires en vertu des articles 13a et 13b de la loi fédérale du 24 mars 1995 sur l’égalité entre femmes et hommes (loi sur l’égalité, LEg)[^A11-2]</td><td>L'égalité salariale est garantie. Une analyse de l'égalité salariale, réalisée avec l'outil d'analyse standard de la Confédération «Logib», doit montrer que le seuil de tolérance n'est pas dépassé.</td><td>1. Analyse de l’égalité des salaires conformément aux articles 13a ss LEg et 2. Justificatif de vérification de l’analyse si cette vérification est nécessaire en vertu de l’article 13d LEg ou 3. Attestation de contrôle d’un organe de l’Etat conformément à l’article 13b LEg.</td><td>Conformément à l'article 13a, alinéas 2 et 3 LEg ou à l'article 13b, lettre c LEg</td></tr>
 <tr><td></td><td></td><td>b. Autres soumissionnaires</td><td>L'égalité salariale est garantie.</td><td>Déclaration spontanée sur le formulaire du BCCA</td><td>Date de l'offre</td></tr>
 <tr><td>7</td><td>Autres conditions de participation ou obligations des soumissionnaires prévues par la loi</td><td>Tous les soumissionnaires</td><td>Selon le formulaire de déclaration spontanée du BCCA</td><td>Déclaration spontanée sur le formulaire du BCCA</td><td>Date de l'offre</td></tr>
 </table>
