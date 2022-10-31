@@ -4,13 +4,13 @@ number: "721.1"
 title: Ordonnance sur les constructions
 short: OC
 language: fr
-version: 2022-03-01
-valid_until: 2022-10-31
-version_adopted: 2021-09-22
+version: 2022-11-01
+valid_until: 2022-12-31
+version_adopted: 2022-09-14
 adopted: 1985-03-06
 in_force: 1986-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/721.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2383/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2671/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2383/pdf_file"
 
 (OC)
 
-du 06.03.1985 (état au 01.03.2022)
+du 06.03.1985 (état au 01.11.2022)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -1099,7 +1099,7 @@ arrête:
 
 <sup>2</sup> Tout appartement et tout lieu de travail doit être équipé d’un local de toilettes au moins satisfaisant aux conditions d’hygiène; il en est de même pour les pièces indépendantes situées dans les immeubles à plusieurs logements, lorsque leur nombre est supérieur à deux.
 
-<sup>3</sup> Les établissements d’hôtellerie et de restauration comptant plus de 50 places assises doivent disposer de toilettes séparées pour hommes et femmes.
+<sup>3</sup> …
 
 <sup>4</sup> Les salles de bains et les toilettes peuvent être équipées d’un éclairage et d’une aération exclusivement artificiels. Les dispositions relatives au chauffage, à l’isolation thermique et à la protection contre l’humidité dans les locaux d’habitation sont applicables.
 

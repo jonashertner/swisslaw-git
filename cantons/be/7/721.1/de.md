@@ -4,13 +4,13 @@ number: "721.1"
 title: Bauverordnung
 short: BauV
 language: de
-version: 2022-03-01
-valid_until: 2022-10-31
-version_adopted: 2021-09-22
+version: 2022-11-01
+valid_until: 2022-12-31
+version_adopted: 2022-09-14
 adopted: 1985-03-06
 in_force: 1986-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/721.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2383/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2671/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2383/pdf_file"
 
 (BauV)
 
-vom 06.03.1985 (Stand 01.03.2022)
+vom 06.03.1985 (Stand 01.11.2022)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -1119,7 +1119,7 @@ beschliesst:
 
 <sup>2</sup> Für jede Wohnung, für mehr als zwei Einzelzimmer in Wohngebäuden sowie für Arbeitsstätten ist mindestens eine den hygienischen Anforderungen genügende Toilette einzurichten.
 
-<sup>3</sup> Bei Gastgewerbebetrieben mit mehr als 50 Sitzplätzen müssen die Toiletten nach Geschlechtern getrennt sein.
+<sup>3</sup> …
 
 <sup>4</sup> Badezimmer und Toiletten dürfen ausschliesslich künstliche Beleuchtung und Belüftung haben. Die Bestimmungen für Wohnräume über Heizung und Isolation gegen Wärmeverluste und Feuchtigkeit sind anwendbar.
 
