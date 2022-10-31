@@ -3,11 +3,11 @@ sr: "0.232.112.21"
 title: Ausführungsordnung von 2. Oktober 2018 betreffend das Protokoll zum Madrider Abkommen über die internationale Registrierung von Marken
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/338"
 language: de
-version: 2022-04-12
+version: 2022-11-01
 adopted: 2018-10-02
 in_force: 2020-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/338/20220412/de/xml/fedlex-data-admin-ch-eli-cc-2020-338-20220412-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/338/20220412/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/338/20221101/de/xml/fedlex-data-admin-ch-eli-cc-2020-338-20221101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/338/20221101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **2020** 1667[^t-1]
 
 Angenommen von der Versammlung des Madrider Verbands am 2. Oktober 2018 In Kraft getreten am 1. Februar 2020
 
-(Stand am 12. April 2022)
+(Stand am 1. November 2022)
 
 [^t-1]: Berichtigung vom 12. April 2022 ([AS 2022 236](https://fedlex.data.admin.ch/eli/oc/2022/236)).
 
@@ -42,7 +42,7 @@ Angenommen von der Versammlung des Madrider Verbands am 2. Oktober 2018 In Kraft
 <tr><td>Regel 9</td><td>Erfordernisse bezüglich des internationalen Gesuchs</td></tr>
 <tr><td>Regel 10</td><td>Gebühren für das internationale Gesuch</td></tr>
 <tr><td>Regel 11</td><td>Andere als die Klassifikation der Waren und Dienstleistungen betreffende Mängel</td></tr>
-<tr><td>Regel 12</td><td>Mängel in Bezug auf die Klassifikation der Waren und Dienstleistungen</td></tr>
+<tr><td>Regel 12</td><td>Mängel in Bezug auf die Klassifikation der Waren und D (Stand am 1. November 2022)ienstleistungen</td></tr>
 <tr><td>Regel 13</td><td>Mängel in bezog auf die Angabe der Waren und Dienstleistungen</td></tr>
 <tr><td>Kapitel 3:</td><td>Internationale Registrierungen</td></tr>
 <tr><td>Regel 14</td><td>Eintragung der Marke im internationalen Register</td></tr>
@@ -155,14 +155,14 @@ An das Internationale Büro gerichtete Mitteilungen sind so vorzunehmen, wie in 
 \2) [Bestellung des Vertreters]
 
 - a)[^chap1-lvlu4-1] Die Bestellung eines Vertreters kann in dem internationalen Gesuch oder vom neuen Inhaber der internationalen Registrierung in einem Antrag nach Regel 25 Absatz 1 Buchstabe a Ziffer i erfolgen und hat den nach den Verwaltungsvorschriften angegebenen Namen und die Anschrift sowie die E-Mail-Adresse des Vertreters anzugeben.
-- b)
+- b)[^chap1-lvlu4-2]
 
-  Die Bestellung eines Vertreters kann auch in einer getrennten Mitteilung erfolgen, die sich auf eine oder mehrere bestimmte internationale Gesuche oder internationale Registrierungen desselben Hinterlegers oder beziehen kann. Einzureichen ist diese Mitteilung beim Internationalen Büro:
+  Die Bestellung eines Vertreters kann auch in einer getrennten Mitteilung erfolgen, sofern das dafür vorgesehene amtliche Formblatt verwendet wird, und sie kann sich auf eine oder mehrere bestimmte internationale Gesuche oder internationale Registrierungen desselben Hinterlegers oder Inhabers beziehen. Einzureichen ist dieses Formblatt beim Internationalen Büro:
 
   - i) von dem Hinterleger, dem Inhaber oder dem bestellten Vertreter; oder
   - ii) von der Behörde der Vertragspartei des Inhabers.
 
-- Die Mitteilung ist vom Hinterleger, vom Inhaber oder von der einreichenden Behörde zu unterschreiben.
+- Das Formblatt ist vom Hinterleger, vom Inhaber oder von der einreichenden Behörde zu unterschreiben.
 
 \3) [Nicht vorschriftsmäßige Bestellung]
 
@@ -172,7 +172,7 @@ An das Internationale Büro gerichtete Mitteilungen sind so vorzunehmen, wie in 
 
 \4) [Eintragung der Bestellung eines Vertreters und Mitteilung darüber; Datum des Wirksamwerdens der Bestellung]
 
-- a)[^chap1-lvlu4-2] Stellt das Internationale Büro fest, dass die Bestellung eines Vertreters den geltenden Erfordernissen entspricht, so trägt es die Tatsache, dass der Hinterleger oder Inhaber einen Vertreter hat, sowie Namen, Anschrift und E-Mail-Adresse des Vertreters im internationalen Register ein. In diesem Fall ist das Datum des Wirksamwerdens der Bestellung das Datum, an dem das Internationale Büro das internationale Gesuch, den Antrag oder die gesonderte Mitteilung, in welcher der Vertreter bestellt worden ist, erhalten hat.
+- a)[^chap1-lvlu4-3] Stellt das Internationale Büro fest, dass die Bestellung eines Vertreters den geltenden Erfordernissen entspricht, so trägt es die Tatsache, dass der Hinterleger oder Inhaber einen Vertreter hat, sowie Namen, Anschrift und E-Mail-Adresse des Vertreters im internationalen Register ein. In diesem Fall ist das Datum des Wirksamwerdens der Bestellung das Datum, an dem das Internationale Büro das internationale Gesuch, den Antrag oder die gesonderte Mitteilung, in welcher der Vertreter bestellt worden ist, erhalten hat.
 - b) Das Internationale Büro unterrichtet sowohl den Hinterleger oder den Inhaber – und im letzteren Fall auch die Ämter der benannten Vertragsparteien – als auch den Vertreter von der Eintragung nach Buchstabe a. Erfolgte die Bestellung in einer gesonderten Mitteilung über eine Behörde, so unterrichtet das Internationale Büro auch diese Behörde von der Eintragung.
 
 \5) [Wirkung der Bestellung eines Vertreters]
@@ -193,13 +193,14 @@ An das Internationale Büro gerichtete Mitteilungen sind so vorzunehmen, wie in 
   - ii) dem Datum, an dem eine Frist von zwei Monaten nach Eingang des Antrags des Vertreters auf Löschung der Eintragung abläuft.
 
 - Bis zum Datum des Wirksamwerdens der Löschung richtet das Internationale Büro alle in Absatz 5 Buchstabe b genannten Mitteilungen sowohl an den Hinterleger oder den Inhaber als auch an den Vertreter.
-- d)[^chap1-lvlu4-3] Das Internationale Büro unterrichtet nach Eingang eines vom Vertreter gestellten Antrags auf Löschung den Hinterleger oder den Inhaber entsprechend.
+- d)[^chap1-lvlu4-4] Das Internationale Büro unterrichtet nach Eingang eines vom Vertreter gestellten Antrags auf Löschung den Hinterleger oder den Inhaber entsprechend.
 - e) Sobald der Zeitpunkt des Wirksamwerdens der Löschung bekannt ist, unterrichtet das Internationale Büro den Vertreter, dessen Eintragung gelöscht worden ist, den Hinterleger oder den Inhaber, und, wenn die Bestellung des Vertreters über eine Behörde eingereicht worden ist, diese Behörde über die Löschung und das Datum des Wirksamwerdens.
 - f) Über Löschungen auf Antrag des Inhabers oder des Vertreters des Inhabers sind auch die Ämter der benannten Vertragsparteien zu unterrichten.
 
 [^chap1-lvlu4-1]: Fassung gemäss der am 1. Nov. 2021 in Kraft getretenen Änd. ([AS 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
-[^chap1-lvlu4-2]: Fassung gemäss der am 1. Nov. 2021 in Kraft getretenen Änd. ([AS 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
+[^chap1-lvlu4-2]: Fassung gemäss der am 1. Nov. 2022 in Kraft getretenen Änd. ([AS 2023 67](https://fedlex.data.admin.ch/eli/oc/2023/67)).
 [^chap1-lvlu4-3]: Fassung gemäss der am 1. Nov. 2021 in Kraft getretenen Änd. ([AS 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
+[^chap1-lvlu4-4]: Fassung gemäss der am 1. Nov. 2021 in Kraft getretenen Änd. ([AS 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
 
 ### **Regel 4**Berechnung der Fristen
 
@@ -241,11 +242,12 @@ Ein Fristversäumnis wird aufgrund dieser Regel nur entschuldigt, wenn der Nachw
 
 (5) [Internationales Gesuch und nachträgliche Benennung]
 
-Erhält das Internationale Büro ein internationales Gesuch oder eine nachträgliche Benennung nach Ablauf der in Artikel 3 Absatz 4 des Protokolls und in Regel 24 Absatz 6 Buchstabe b vorgesehenen Frist von zwei Monaten und gibt die beteiligte Behörde an, dass der verspätete Eingang auf die in Absatz 1, 2 oder 3 genannten Umstände zurückzuführen ist, so finden Absatz 1, 2 oder 3 und Absatz 4 Anwendung.
+Erhält das Internationale Büro ein internationales Gesuch oder eine nachträgliche Benennung nach Ablauf der in Artikel 3 Absatz 4 des Protokolls und in Regel 24 Absatz 6 Buchstabe b vorgesehenen Frist von zwei Monaten und gibt die beteiligte Behörde an, dass der verspätete Eingang auf die in Absatz 1 genannten Umstände zurückzuführen ist, so finden Absätze 1und 4 Anwendung.[^chap1-lvlu6-5]
 
 [^chap1-lvlu6-2]: Fassung gemäss der am 1. Nov. 2021 in Kraft getretenen Änd. ([AS 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
 [^chap1-lvlu6-3]: Aufgehoben durch die am 1. Nov. 2021 in Kraft getretene Änd. ([AS 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
 [^chap1-lvlu6-4]: Fassung gemäss der am 1. Nov. 2021 in Kraft getretenen Änd. ([AS 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
+[^chap1-lvlu6-5]: Fassung gemäss der am 1. Nov. 2022 in Kraft getretenen Änd. ([AS 2023 67](https://fedlex.data.admin.ch/eli/oc/2023/67)).
 
 ### **Regel 5**<sup>bis</sup>Weiterbehandlung
 
@@ -1196,7 +1198,7 @@ Die Tatsache, dass die in Artikel 7 Absatz 3 des Protokolls genannte offiziöse 
   - ii) gegebenenfalls der Zusatzgebühr; und
   - iii) der Ergänzungsgebühr beziehungsweise der individuellen Gebühr für jede benannte Vertragspartei, für die keine Erklärung über die Schutzverweigerung nach Regel 18<sup>ter</sup> oder Ungültigerklärung in Bezug auf alle betroffenen Waren und Dienstleistungen im internationalen Register eingetragen ist, wie unter Nummer 6 des Gebührenverzeichnisses angegeben oder genannt. Die Zahlung kann jedoch innerhalb von sechs Monaten nach dem Datum erfolgen, an dem die Erneuerung der internationalen Registrierung vorzunehmen ist, sofern gleichzeitig die unter Nummer 6.5 des Gebührenverzeichnisses angegebene Zuschlagsgebühr entrichtet wird.
 
-- b) Gehen Zahlungen zum Zweck der Erneuerung beim Internationalen Büro mehr als drei Monate vor dem Datum ein, an dem die Erneuerung der internationalen Registrierung fällig ist, so gelten sie als drei Monate vor dem Fälligkeitsdatum der Erneuerung eingegangen.
+- b)[^chap6-lvlu2-1] Gehen Zahlungen zum Zweck der Erneuerung beim Internationalen Büro mehr als sechs Monate vor dem Datum ein, an dem die Erneuerung der internationalen Registrierung fällig ist, so gelten sie als sechs Monate vor dem Fälligkeitsdatum der Erneuerung eingegangen.
 - c) Ist unbeschadet des Absatzes 2 eine Erklärung gemäss Regel 18<sup>ter</sup> Absatz 2 oder 4 im internationalen Register für eine Vertragspartei eingetragen worden, für welche die Zahlung einer individuellen Gebühr nach Buchstabe a Ziffer iii geschuldet ist, so wird der Betrag dieser individuellen Gebühr nur unter Berücksichtigung der in der genannten Erklärung angegebenen Waren und Dienstleistungen ermittelt.
 
 \2) [Weitere Einzelheiten]
@@ -1216,6 +1218,8 @@ Die Tatsache, dass die in Artikel 7 Absatz 3 des Protokolls genannte offiziöse 
 \4) [Zeitraum, für den die Erneuerungsgebühren entrichtet werden]
 
 Die für jede Erneuerung erforderlichen Gebühren werden für einen Zeitraum von zehn Jahren entrichtet.
+
+[^chap6-lvlu2-1]: Fassung gemäss der am 1. Nov. 2022 in Kraft getretenen Änd. ([AS 2023 67](https://fedlex.data.admin.ch/eli/oc/2023/67)).
 
 ### **Regel 31**Eintragung der Erneuerung; Mitteilung und Bescheinigung
 

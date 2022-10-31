@@ -3,11 +3,11 @@ sr: "0.232.112.21"
 title: "Regolamento di esecuzione del 2 ottobre 2018 concernente il Protocollo relativo all'Accordo di Madrid per la registrazione internazionale dei marchi"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/338"
 language: it
-version: 2022-04-12
+version: 2022-11-01
 adopted: 2018-10-02
 in_force: 2020-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/338/20220412/it/xml/fedlex-data-admin-ch-eli-cc-2020-338-20220412-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/338/20220412/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/338/20221101/it/xml/fedlex-data-admin-ch-eli-cc-2020-338-20221101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/338/20221101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Adottato dall’Assemblea dell’Unione di Madrid il 2 ottobre 2018 Entrata in vigore il 1° febbraio 2020
 
-(Stato 12 aprile 2022)
+(Stato 1° novembre 2022)
 
 [^t-1]: Correzione del 12 apr. 2022 ([RU 2022 236](https://fedlex.data.admin.ch/eli/oc/2022/236)).
 
@@ -155,14 +155,14 @@ Le comunicazioni indirizzate all’Ufficio internazionale devono essere effettua
 \2) [Costituzione del mandatario]
 
 - a)[^chap1-lvlu4-1] La costituzione di un mandatario può essere fatta nella domanda internazionale o dal nuovo titolare della registrazione internazionale in una domanda di cui alla regola 25.1)a)i), che deve contenere il nome e l’indirizzo, indicati conformemente alle istruzioni amministrative, nonché l’indirizzo di posta elettronica del mandatario.
-- b)
+- b)[^chap1-lvlu4-2]
 
-  La costituzione di un mandatario può anche essere fatta in una comunicazione separata che può riferirsi ad una o a più domande internazionali specifiche o ad una o più registrazioni internazionali specifiche del medesimo depositante o titolare. Tale comunicazione deve essere presentata all’Ufficio internazionale:
+  La costituzione di un mandatario può anche essere fatta in una comunicazione separata, purché sia utilizzato il modulo ufficiale previsto, e può riferirsi ad una o a più domande internazionali specifiche o ad una o più registrazioni internazionali specifiche del medesimo depositante o titolare. Tale modulo deve essere presentato all’Ufficio internazionale:
 
   - i) dal depositante, titolare o mandatario costituito; o
   - ii) dall’Ufficio della parte contraente del titolare.
 
-- La comunicazione deve essere firmata dal depositante o dal titolare, o dall’Ufficio tramite il quale è stata presentata.
+- Il modulo deve essere firmato dal depositante o dal titolare, o dall’Ufficio che presenta la domanda.
 
 \3) [Costituzione irregolare]
 
@@ -172,7 +172,7 @@ Le comunicazioni indirizzate all’Ufficio internazionale devono essere effettua
 
 \4) [Iscrizione e notifica della costituzione di un mandatario; data di entrata in vigore della costituzione]
 
-- a)[^chap1-lvlu4-2] Quando l’Ufficio internazionale constata che la costituzione di un mandatario soddisfa i requisiti stabiliti, esso iscrive nel registro internazionale il fatto che il depositante o titolare ha un mandatario, nonché il nome, l’indirizzo e l’indirizzo di posta elettronica del mandatario. In questo caso, la data di entrata in vigore della costituzione è la data in cui l’Ufficio internazionale ha ricevuto la domanda internazionale, la domanda o la comunicazione separata con la quale il mandatario è costituito.
+- a)[^chap1-lvlu4-3] Quando l’Ufficio internazionale constata che la costituzione di un mandatario soddisfa i requisiti stabiliti, esso iscrive nel registro internazionale il fatto che il depositante o titolare ha un mandatario, nonché il nome, l’indirizzo e l’indirizzo di posta elettronica del mandatario. In questo caso, la data di entrata in vigore della costituzione è la data in cui l’Ufficio internazionale ha ricevuto la domanda internazionale, la domanda o la comunicazione separata con la quale il mandatario è costituito.
 - b) L’Ufficio internazionale notifica l’iscrizione di cui al punto a) sia al depositante che al titolare e, in quest’ultimo caso, anche agli Uffici delle parti contraenti designate, nonché al mandatario. Quando la costituzione è stata fatta tramite una comunicazione separata presentata attraverso un Ufficio, l’Ufficio internazionale notifica anche l’iscrizione a tale Ufficio.
 
 \5) [Effetti della costituzione di un mandatario]
@@ -193,13 +193,14 @@ Le comunicazioni indirizzate all’Ufficio internazionale devono essere effettua
   - ii) la data di scadenza di un periodo di due mesi a decorrere dalla ricezione della comunicazione con la quale il mandatario chiede la radiazione dell’iscrizione.
 
 - Fino alla data in cui la radiazione entra in vigore, l’Ufficio internazionale invia tutte le comunicazioni di cui all<sup>’</sup>alinea 5)b) sia al depositante o titolare che al mandatario.
-- d)[^chap1-lvlu4-3] Quando riceve una domanda di radiazione fatta dal mandatario, l’Ufficio internazionale notifica tale fatto al depositante o al titolare.
+- d)[^chap1-lvlu4-4] Quando riceve una domanda di radiazione fatta dal mandatario, l’Ufficio internazionale notifica tale fatto al depositante o al titolare.
 - e) Non appena è nota la data di entrata in vigore della radiazione, l’Ufficio internazionale notifica la radiazione e la data in cui essa entra in vigore al mandatario la cui iscrizione è stata radiata, al depositante o titolare e, se la costituzione del mandatario è stata presentata attraverso un Ufficio, a tale Ufficio.
 - f) Le radiazioni richieste dal titolare o dal suo mandatario sono notificate anche agli Uffici delle parti contraenti designate.
 
 [^chap1-lvlu4-1]: Nuovo testo giusta la mod. in vigore dal 1° nov. 2021 ([RU 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
-[^chap1-lvlu4-2]: Nuovo testo giusta la mod. in vigore dal 1° nov. 2021 ([RU 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
+[^chap1-lvlu4-2]: Nuovo testo giusta la mod. in vigore dal 1° nov. 2022 ([RU 2023 67](https://fedlex.data.admin.ch/eli/oc/2023/67)).
 [^chap1-lvlu4-3]: Nuovo testo giusta la mod. in vigore dal 1° nov. 2021 ([RU 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
+[^chap1-lvlu4-4]: Nuovo testo giusta la mod. in vigore dal 1° nov. 2021 ([RU 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
 
 ### **Regola 4**Calcolo dei termini di scadenza
 
@@ -241,11 +242,12 @@ L’inosservanza di un termine di scadenza è giustificata, in virtù di questa 
 
 \5) [Domanda internazionale e designazione successiva]
 
-Quando l’Ufficio internazionale riceve una domanda internazionale o una designazione successiva dopo il termine di scadenza di due mesi di cui all’articolo 3.4) del Protocollo ed alla regola 24.6)b), e l’Ufficio interessato indica che la ricezione tardiva risulta da circostanze di cui all’alinea 1), 2) o 3), si applicano l’alinea 1), 2) o 3) e l’alinea 4).
+Quando l’Ufficio internazionale riceve una domanda internazionale o una designazione successiva dopo il termine di scadenza di due mesi di cui all’articolo 3.4) del Protocollo ed alla regola 24.6)b), e l’Ufficio interessato indica che la ricezione tardiva risulta da circostanze di cui all’alinea 1), si applicano gli alinea 1) e 4).[^chap1-lvlu6-5]
 
 [^chap1-lvlu6-2]: Nuovo testo giusta la mod. in vigore dal 1° nov. 2021 ([RU 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
 [^chap1-lvlu6-3]: Abrogati dalla mod. con effetto dal 1° nov. 2021 ([RU 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
 [^chap1-lvlu6-4]: Nuovo testo giusta la mod. in vigore dal 1° nov. 2021 ([RU 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
+[^chap1-lvlu6-5]: Nuovo testo giusta la mod. in vigore dal 1° nov. 2022 ([RU 2023 67](https://fedlex.data.admin.ch/eli/oc/2023/67)).
 
 ### **Regola 5**<sup>bis</sup>Proseguimento della procedura
 
@@ -1203,13 +1205,14 @@ Il fatto che l’avviso ufficioso di scadenza di cui all’articolo 7.3) del Pro
   - ii) all’occorrenza, dell’emolumento suppletivo; e
   - iii) dell’emolumento complementare o della tassa individuale, a seconda del caso, per ciascuna parte contraente designata per la quale nessuna dichiarazione di rifiuto in virtù della regola 18<sup>ter</sup> né invalidazione per l’insieme dei prodotti e servizi considerati sono iscritte nel registro internazionale, come specificati o elencati al punto 6 degli emolumenti e tasse. Tuttavia, questo pagamento può essere fatto entro un termine di sei mesi a decorrere dalla data in cui il rinnovo della registrazione deve essere effettuato, a condizione che la sovrattassa specificata al punto 6.5 dell’elenco delle tasse e degli emolumenti sia pagata contemporaneamente.
 
-- b) Qualsiasi pagamento per il rinnovo che è ricevuto dall’Ufficio internazionale oltre tre mesi prima della data in cui il rinnovo della registrazione internazionale deve essere effettuato è considerato essere stato ricevuto tre mesi prima di tale data.
+- b)[^chap6-lvlu2-1] Qualsiasi pagamento per il rinnovo che è ricevuto dall’Ufficio internazionale oltre sei mesi prima della data in cui il rinnovo della registrazione internazionale deve essere effettuato è considerato essere stato ricevuto sei mesi prima di tale data.
 - c) Senza pregiudicare le disposizioni dell’alinea 2, quando una dichiarazione in virtù della regola 8<sup>ter</sup>.2) o 4) è stata iscritta nel registro internazionale per una parte contraente a cui è dovuto il pagamento di una tassa individuale in virtù del punto a)iii), l’ammontare di tale tassa individuale è determinato tenendo conto unicamente dei prodotti e servizi indicati nella dichiarazione in questione.
 
 \2) [Precisazioni ulteriori]
 
 - a) Quando il titolare non desidera rinnovare la registrazione internazionale nei confronti di una parte contraente designata per la quale nessuna dichiarazione di rifiuto in virtù della regola 18<sup>ter</sup> per l’insieme dei prodotti e servizi considerati è iscritta nel registro internazionale, il pagamento delle tasse richieste deve essere accompagnato da una dichiarazione del titolare in base alla quale il rinnovo della registrazione internazionale non deve essere iscritto nel registro internazionale nei confronti di questa parte contraente.
 - b) Quando il titolare desidera rinnovare la registrazione internazionale nei confronti di una parte contraente designata nonostante il fatto che una dichiarazione di rifiuto in virtù della regola 18<sup>ter</sup> è iscritta nel registro internazionale per questa parte contraente per l’insieme dei prodotti e servizi considerati, il pagamento delle tasse richieste, compresi l’emolumento complementare o la tassa individuale, a seconda del caso, per tale parte contraente, deve essere accompagnato da una dichiarazione del titolare in base alla quale il rinnovo della registrazione internazionale deve essere iscritto nel registro internazionale nei confronti di tale parte contraente per tutti i prodotti e servizi considerati.
+
 - c) La registrazione internazionale non può essere rinnovata nei confronti di una parte contraente designata nei cui confronti è stata iscritta un’invalidazione per tutti i prodotti e servizi in virtù della regola 19.2) o nei cui confronti è stata iscritta una rinuncia in virtù della regola 27.1)a). La registrazione internazionale non può essere rinnovata nei confronti di una parte contraente designata per i prodotti e servizi per i quali un’invalidazione degli effetti della registrazione internazionale in questa parte contraente è stata iscritta in virtù della regola 19.2) o per i quali una limitazione è stata iscritta in virtù della regola 27.1)a).
 - d) ...
 - e) Il fatto che la registrazione internazionale non sia rinnovata nei confronti di tutte le parti contraenti designate non è considerato costituire una modifica ai sensi dell’articolo 7.2) del Protocollo.
@@ -1223,6 +1226,8 @@ Il fatto che l’avviso ufficioso di scadenza di cui all’articolo 7.3) del Pro
 \4) [Periodo per il quale sono pagati gli emolumenti e tasse di rinnovo]
 
 Gli emolumenti e tasse richiesti per ciascun rinnovo sono pagati per un periodo di dieci anni.
+
+[^chap6-lvlu2-1]: Nuovo testo giusta la mod. in vigore dal 1° nov. 2022 ([RU 2023 67](https://fedlex.data.admin.ch/eli/oc/2023/67)).
 
 ### **Regola 31**Iscrizione del rinnovo; notifica e certificato
 

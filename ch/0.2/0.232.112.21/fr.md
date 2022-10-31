@@ -3,11 +3,11 @@ sr: "0.232.112.21"
 title: "Règlement d'exécution du 2 octobre 2018 du Protocole relatif à l'Arrangement de Madrid concernant l'enregistrement international des marques"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/338"
 language: fr
-version: 2022-04-12
+version: 2022-11-01
 adopted: 2018-10-02
 in_force: 2020-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/338/20220412/fr/xml/fedlex-data-admin-ch-eli-cc-2020-338-20220412-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/338/20220412/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/338/20221101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-338-20221101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/338/20221101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -22,7 +22,7 @@ Adopté par l’Assemblée de l’Union de Madrid le 2 octobre 2018
 
 Entré en vigueur le 1<sup>er</sup> février 2020
 
-(Etat le 12 avril 2022)
+(État le 1<sup>er</sup> novembre 2022)
 
 [^t-1]: Erratum du 12 avr. 2022 ([RO 2022 236](https://fedlex.data.admin.ch/eli/oc/2022/236)).
 
@@ -159,8 +159,6 @@ Les communications adressées au Bureau international doivent être effectuées 
 
 \2) [Constitution du mandataire][^3-1]
 
-\3) [Constitution irrégulière]
-
 \4) [Inscription et notification de la constitution d’un mandataire; date de prise d’effet de la constitution d’un mandataire]
 
 \5) [Effets de la constitution d’un mandataire]
@@ -173,20 +171,20 @@ Les communications adressées au Bureau international doivent être effectuées 
 - d) …
 
 - a)[^3-2] La constitution d’un mandataire peut être faite dans la demande internationale ou par le nouveau titulaire de l’enregistrement international dans une demande visée à la règle 25.1)a)i) qui doit contenir le nom et l’adresse, indiqués conformément aux instructions administratives, ainsi que l’adresse électronique du mandataire.
-- b)
+- b)[^3-3]
 
-  La constitution d’un mandataire peut aussi être faite dans une communication distincte qui peut se rapporter à une ou plusieurs demandes internationales spécifiées ou à un ou plusieurs enregistrements internationaux spécifiés du même déposant ou titulaire. Cette communication doit être présentée au Bureau international:
+  La constitution d’un mandataire peut aussi être faite dans une communication distincte, à condition d’utiliser le formulaire officiel prévu, et elle peut se rapporter à une ou plusieurs demandes internationales spécifiées ou à un ou plusieurs enregistrements internationaux spécifiés du même déposant ou titulaire. Ce formulaire doit être présentée au Bureau international:
 
   - i) par le déposant, le titulaire ou le mandataire constitué, ou
   - ii) par l’Office de la partie contractante du titulaire.
 
-- La communication doit être signée par le déposant ou le titulaire, ou par l’Office par l’intermédiaire duquel elle a été présentée.
-
+- Le formulaire doit être signée par le déposant ou le titulaire, ou par l’Office présentant la demande.
+- [tab] 3) [Constitution irrégulière]
 - a) Lorsque le Bureau international considère que la constitution d’un mandataire faite en vertu de l’al. 2) est irrégulière, il le notifie au déposant ou titulaire, au mandataire présumé et, si c’est un Office qui a adressé ou transmis l’acte de constitution, à cet Office.
 - b) Tant que les conditions applicables selon l’al. 2) ne sont pas remplies, le Bureau international adresse toutes les communications pertinentes au déposant ou titulaire mais pas au mandataire présumé.
 - c) …
 
-- a)[^3-3] Lorsque le Bureau international constate que la constitution d’un mandataire remplit les conditions fixées, il inscrit au registre international le fait que le déposant ou titulaire a un mandataire, ainsi que le nom, l’adresse et l’adresse électronique du mandataire. Dans ce cas, la date de prise d’effet de la constitution du mandataire est la date à laquelle le Bureau international a reçu la demande internationale, la demande ou la communication distincte dans laquelle le mandataire est constitué.
+- a)[^3-4] Lorsque le Bureau international constate que la constitution d’un mandataire remplit les conditions fixées, il inscrit au registre international le fait que le déposant ou titulaire a un mandataire, ainsi que le nom, l’adresse et l’adresse électronique du mandataire. Dans ce cas, la date de prise d’effet de la constitution du mandataire est la date à laquelle le Bureau international a reçu la demande internationale, la demande ou la communication distincte dans laquelle le mandataire est constitué.
 - b) Le Bureau international notifie l’inscription visée au sous‑alinéa a) à la fois au déposant ou titulaire et, dans ce dernier cas, aux Offices des parties contractantes désignées, ainsi qu’au mandataire. Lorsque la constitution de mandataire a été faite dans une communication distincte présentée par l’intermédiaire d’un Office, le Bureau international notifie aussi l’inscription à cet Office.
 
 - a) Sauf disposition expresse contraire du présent règlement d’exécution, la signature d’un mandataire inscrit selon l’al. 4)a) remplace la signature du déposant ou titulaire.
@@ -203,14 +201,15 @@ Les communications adressées au Bureau international doivent être effectuées 
   - ii) la date d’expiration d’une période de deux mois à compter de la réception de la communication par laquelle le mandataire demande la radiation de l’inscription.
 
 - Jusqu’à la date à laquelle la radiation prend effet, le Bureau international adresse toutes les communications visées à l’al. 5)b) à la fois au déposant ou titulaire et au mandataire.
-- d)[^3-4] Lorsqu’il reçoit une demande de radiation faite par le mandataire, le Bureau international notifie ce fait au déposant ou titulaire.
+- d)[^3-5] Lorsqu’il reçoit une demande de radiation faite par le mandataire, le Bureau international notifie ce fait au déposant ou titulaire.
 - e) Dès l’instant où la date de prise d’effet de la radiation est connue, le Bureau international notifie la radiation et la date à laquelle elle prend effet au mandataire dont l’inscription a été radiée, au déposant ou titulaire et, si la constitution du mandataire a été présentée par l’intermédiaire d’un Office, à cet Office.
 - f) Les radiations à la demande du titulaire ou du mandataire du titulaire sont également notifiées aux Offices des parties contractantes désignées.
 
 [^3-1]: Nouvelle teneur selon la D entrée en vigueur le 1<sup>er</sup> fév. 2021 ([RO 2021 92](https://fedlex.data.admin.ch/eli/oc/2021/92)).
 [^3-2]: Nouvelle teneur selon la D entrée en vigueur le 1<sup>er</sup> nov. 2021 ([RO 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
-[^3-3]: Nouvelle teneur selon la D entrée en vigueur le 1<sup>er</sup> nov. 2021 ([RO 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
+[^3-3]: Nouvelle teneur selon la D entrée en vigueur le 1<sup>er</sup> nov. 2022 ([RO 2023 67](https://fedlex.data.admin.ch/eli/oc/2023/67)).
 [^3-4]: Nouvelle teneur selon la D entrée en vigueur le 1<sup>er</sup> nov. 2021 ([RO 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
+[^3-5]: Nouvelle teneur selon la D entrée en vigueur le 1<sup>er</sup> nov. 2021 ([RO 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
 
 #### Règle 4
 
@@ -252,12 +251,13 @@ L’inobservation d’un délai n’est excusée en vertu de la présente règle
 
 \5) [Demande internationale et désignation postérieure]
 
-Lorsque le Bureau international reçoit une demande internationale ou une désignation postérieure après le délai de deux mois visé à l’art. 3.4) du Protocole et à la règle 24.6)b), et que l’Office concerné indique que la réception tardive résulte de circonstances visées à l’al. 1), 2) ou 3), l’al. 1), 2) ou 3) et l’al. 4) s’appliquent.
+Lorsque le Bureau international reçoit une demande internationale ou une désignation postérieure après le délai de deux mois visé à l’art. 3.4) du Protocole et à la règle 24.6)b), et que l’Office concerné indique que la réception tardive résulte de circonstances visées à l’al. 1), les al. 1) et 4) s’appliquent.[^5-5]
 
 [^5-1]: Nouvelle teneur selon la D entrée en vigueur le 1<sup>er</sup> nov. 2021 ([RO 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
 [^5-2]: Nouvelle teneur selon la D entrée en vigueur le 1<sup>er</sup> nov. 2021 ([RO 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
 [^5-3]: Abrogés par la D entrée en vigueur le 1<sup>er</sup> nov. 2021 ([RO 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
 [^5-4]: Nouvelle teneur selon la D entrée en vigueur le 1<sup>er</sup> nov. 2021 ([RO 2021 624](https://fedlex.data.admin.ch/eli/oc/2021/624)).
+[^5-5]: Nouvelle teneur selon la D entrée en vigueur le 1<sup>er</sup> nov. 2022 ([RO 2023 67](https://fedlex.data.admin.ch/eli/oc/2023/67)).
 
 #### Règle 5<sup>bis</sup>
 
@@ -1286,7 +1286,7 @@ Les émoluments et taxes requis pour chaque renouvellement sont payés pour une 
   - ii) le cas échéant, de l’émolument supplémentaire, et
   - iii) du complément d’émolument ou de la taxe individuelle, selon le cas, pour chaque partie contractante désignée pour laquelle aucune déclaration de refus en vertu de la règle 18<sup>ter</sup> ni aucune invalidation pour l’ensemble des produits et services concernés ne sont inscrites au registre international, tels que spécifiés ou visés au point 6 du barème des émoluments et taxes. Toutefois, ce paiement peut être fait dans un délai de six mois à compter de la date à laquelle le renouvellement de l’enregistrement international doit être effectué, à condition que la surtaxe spécifiée au point 6.5 du barème des émoluments et taxes soit payée en même temps.
 
-- b) Tout paiement aux fins du renouvellement qui est reçu par le Bureau international plus de trois mois avant la date à laquelle le renouvellement de l’enregistrement international doit être effectué est considéré comme ayant été reçu trois mois avant cette date.
+- b)[^30-1] Tout paiement aux fins du renouvellement qui est reçu par le Bureau international plus de six mois avant la date à laquelle le renouvellement de l’enregistrement international doit être effectué est considéré comme ayant été reçu six mois avant cette date.
 - c) Sans préjudice de l’al. 2), lorsqu’une déclaration en vertu de la règle 18<sup>ter</sup>.2) ou 4) a été inscrite au registre international pour une partie contractante à l’égard de laquelle le paiement d’une taxe individuelle est dû en vertu du sous-alinéa a)iii), le montant de cette taxe individuelle est déterminé compte tenu uniquement des produits et services indiqués dans ladite déclaration.
 
 - a) Lorsque le titulaire ne souhaite pas renouveler l’enregistrement international à l’égard d’une partie contractante désignée pour laquelle aucune déclaration de refus en vertu de la règle 18<sup>ter</sup> pour l’ensemble des produits et services concernés n’est inscrite au registre international, le paiement des taxes requises doit être accompagné d’une déclaration du titulaire selon laquelle le renouvellement de l’enregistrement international ne doit pas être inscrit au registre international à l’égard de cette partie contractante.
@@ -1298,6 +1298,8 @@ Les émoluments et taxes requis pour chaque renouvellement sont payés pour une 
 - a) Si le montant des émoluments et taxes reçu est inférieur au montant des émoluments et taxes requis pour le renouvellement, le Bureau international notifie ce fait à bref délai et en même temps au titulaire et au mandataire éventuel. La notification précise le montant restant dû.
 - b) Si, à l’expiration du délai de six mois visé à l’al. 1)a), le montant des émoluments et taxes reçu est inférieur au montant requis en vertu de l’al. 1), le Bureau international, sous réserve du sous-alinéa c), n’inscrit pas le renouvellement, notifie ce fait au titulaire et au mandataire éventuel et rembourse le montant reçu à l’auteur du paiement.
 - c) Si la notification visée au sous-alinéa a) a été expédiée dans les trois mois précédant l’expiration du délai de six mois visé à l’al. 1)a) et si le montant des émoluments et taxes reçu est, à l’expiration de ce délai, inférieur au montant requis en vertu de l’al. 1) mais égal à 70 pour cent au moins de ce montant, le Bureau international procède conformément aux dispositions de la règle 31.1) et 3). Si le montant requis n’est pas intégralement payé dans un délai de trois mois à compter de cette notification, le Bureau international annule le renouvellement, notifie ce fait au titulaire, au mandataire éventuel et aux Offices auxquels avait été notifié le renouvellement, et rembourse le montant reçu à l’auteur du paiement.
+
+[^30-1]: Nouvelle teneur selon la D entrée en vigueur le 1<sup>er</sup> nov. 2022 ([RO 2023 67](https://fedlex.data.admin.ch/eli/oc/2023/67)).
 
 #### Règle 31
 
