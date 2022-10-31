@@ -4,13 +4,13 @@ number: "731.22"
 title: Ordonnance sur l’organisation des marchés publics
 short: OOMP
 language: fr
-version: 2022-02-01
-valid_until: 2022-10-31
-version_adopted: 2021-11-17
+version: 2022-11-01
+valid_until: 2022-12-31
+version_adopted: 2022-09-21
 adopted: 2014-11-05
 in_force: 2015-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/731.22"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2453/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2676/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2453/pdf_file"
 
 (OOMP)
 
-du 05.11.2014 (état au 01.02.2022)
+du 05.11.2014 (état au 01.11.2022)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -110,6 +110,35 @@ arrête:
 
 <sup>2</sup> Il est possible de recourir à plusieurs fournisseurs pour éliminer certains risques, en particulier celui d'une dépendance excessive.
 
+#### Art. 8a
+
+**Recours à des conseillères et conseillers externes**
+
+<sup>1</sup> Les services d’achat peuvent faire appel à des tiers pour des tâches de conseil si une des conditions suivantes est satisfaite:
+
+- a La législation ou un arrêté du Conseil-exécutif autorise expressément ou prescrit la fourniture de prestations par des tiers.
+- b La fourniture des prestations par le personnel interne reviendrait plus cher, prendrait plus de temps ou serait de moins bonne qualité.
+- c L’autorité compétente ne dispose pas de personnel en nombre suffisant ou ayant les compétences requises.
+
+<sup>2</sup> Les services d'achat documentent la satisfaction aux conditions énoncées à l’alinéa 1 avant d’attribuer des marchés d’une valeur supérieure à 200'000 francs.
+
+<sup>3</sup> La Conférence cantonale des achats (CCA) édicte un guide sur l’application de cette disposition.
+
+#### Art. 8b
+
+**Tâches de conseil**
+
+<sup>1</sup> Les tâches de conseil au sens de la présente ordonnance comprennent notamment
+
+- a le conseil et la représentation juridiques,
+- b l’établissement d’expertises, d’études, de plans ou de projets,
+- c le coaching,
+- d la conduite, le suivi et l’assistance de projet,
+- e les tâches de communication,
+- f l’assurance qualité.
+
+<sup>2</sup> Les tâches de conseil au sens de la présente ordonnance ne désignent pas les prestations qui sont fournies dans le cadre de projets ou de programmes de construction.
+
 #### Art. 9
 
 **Transparence interne**
@@ -120,9 +149,9 @@ arrête:
 
 **Professionnalisme**
 
-<sup>1</sup> Les achats importants ou réguliers sont en principe confiés à des personnes employées à cet effet, qui bénéficient d'une formation reconnue dans le domaine des achats.
+<sup>1</sup> …
 
-<sup>2</sup> Les autres personnes qui participent à des achats possèdent les connaissances requises sur les principes et les processus des marchés publics ainsi que sur les règles de conduite à observer.
+<sup>2</sup> Les personnes qui participent à des achats possèdent les connaissances requises sur les principes et les processus des marchés publics ainsi que sur les règles de conduite à observer.
 
 <sup>3</sup> Les services d'achat veillent au perfectionnement de leur personnel.
 
@@ -133,11 +162,11 @@ arrête:
 <sup>1</sup> Les services d'achat garantissent l'intégrité et la traçabilité de leurs achats, au moyen notamment des mesures suivantes:
 
 - a …
-- b Les décisions suivantes sont confirmées par la signature électronique ou manuscrite d'au moins deux personnes lorsque le seuil de la procédure sur invitation est atteint: définition des exigences, adjudication, conclusion, modification ou résiliation du contrat.
+- b Les décisions suivantes sont adoptées ou approuvées par au moins deux personnes lorsque le seuil de la procédure sur invitation est atteint: définition des exigences, adjudication, conclusion, modification ou résiliation du contrat.
 
 #### Art. 12
 
-**Surveillance**
+**…**
 
 ## 3 Organisation des achats
 
@@ -159,7 +188,7 @@ arrête:
 
 **Compétences pour les achats centralisés**
 
-<sup>1</sup> Les compétences suivantes s'appliquent pour les achats centralisés, à moins que la CAC, avec le concours de la Conférence cantonale des achats (CCA), ou le Conseil-exécutif n'en dispose autrement:
+<sup>1</sup> Les compétences suivantes s'appliquent pour les achats centralisés, à moins que la CAC, avec le concours de la CCA, ou le Conseil-exécutif n'en dispose autrement:
 
 - a La CAC mène la procédure d'achat, conclut des contrats-cadres et fixe d'autres conditions générales de la commande de prestations.
 - b Les services demandeurs inscrivent les ressources financières dans leur budget et leur planification financière.

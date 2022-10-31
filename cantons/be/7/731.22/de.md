@@ -4,13 +4,13 @@ number: "731.22"
 title: Verordnung über die Organisation des öffentlichen Beschaffungswesens
 short: OÖBV
 language: de
-version: 2022-02-01
-valid_until: 2022-10-31
-version_adopted: 2021-11-17
+version: 2022-11-01
+valid_until: 2022-12-31
+version_adopted: 2022-09-21
 adopted: 2014-11-05
 in_force: 2015-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/731.22"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2453/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2676/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2453/pdf_file"
 
 (OÖBV)
 
-vom 05.11.2014 (Stand 01.02.2022)
+vom 05.11.2014 (Stand 01.11.2022)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -110,6 +110,35 @@ beschliesst:
 
 <sup>2</sup> Um Risiken zu vermeiden, insbesondere übermässige Abhängigkeiten von einzelnen Lieferanten, können mehrere Lieferanten berücksichtigt werden.
 
+#### Art. 8a
+
+**Beizug externer Beraterinnen und Berater**
+
+<sup>1</sup> Die Beschaffungsstellen können Dritte für Beratungsaufgaben beiziehen, wenn eine der folgenden Voraussetzungen erfüllt ist:
+
+- a Die Gesetzgebung oder ein Beschluss des Regierungsrates erlaubt die Leistungserbringung durch Dritte ausdrücklich oder schreibt sie vor.
+- b Die Leistungserbringung durch eigenes Personal wäre teurer, langwieriger oder minderwertiger als die Leistungserbringung durch Dritte.
+- c Die zuständige Behörde verfügt nicht über Personal mit den nötigen Fähigkeiten oder im nötigen Umfang.
+
+<sup>2</sup> Die Beschaffungsstellen dokumentieren die Erfüllung der Voraussetzungen gemäss Absatz 1 vor der Vergabe von Aufträgen mit einem Wert von über 200'000 Franken.
+
+<sup>3</sup> Die Kantonale Beschaffungskonferenz (KBK) erlässt einen Leitfaden zur Anwendung dieser Bestimmung.
+
+#### Art. 8b
+
+**Beratungsaufgaben**
+
+<sup>1</sup> Zu den Beratungsaufgaben im Sinne dieser Verordnung gehören namentlich:
+
+- a Rechtsberatung und Rechtsvertretung,
+- b Erstellung von Gutachten, Studien, Plänen oder Konzepten,
+- c Coaching,
+- d Projektleitung, Projektbegleitung und Projektassistenz,
+- e Kommunikationsaufgaben,
+- f Qualitätssicherung.
+
+<sup>2</sup> Beratungsaufgaben im Sinne dieser Verordnung sind jedoch nicht Leistungen, die im Rahmen von Bauprojekten und Bauplanungen erbracht werden.
+
 #### Art. 9
 
 **Interne Transparenz**
@@ -120,9 +149,9 @@ beschliesst:
 
 **Professionalität**
 
-<sup>1</sup> Bedeutende oder regelmässige Beschaffungen erfolgen grundsätzlich durch eigens dafür angestellte Personen, die über einen anerkannten Ausbildungsnachweis im Bereich des Beschaffungswesens verfügen.
+<sup>1</sup> …
 
-<sup>2</sup> Die anderen an Beschaffungen mitwirkenden Personen müssen über das nötige Wissen über die Grundsätze und Abläufe des öffentlichen Beschaffungswesens sowie über die zu beachtenden Verhaltensregeln verfügen.
+<sup>2</sup> Die an Beschaffungen mitwirkenden Personen müssen über das nötige Wissen über die Grundsätze und Abläufe des öffentlichen Beschaffungswesens sowie über die zu beachtenden Verhaltensregeln verfügen.
 
 <sup>3</sup> Die Beschaffungsstellen sorgen für die Weiterbildung ihres Personals.
 
@@ -133,11 +162,11 @@ beschliesst:
 <sup>1</sup> Die Beschaffungsstellen stellen die Integrität und Nachvollziehbarkeit ihrer Beschaffungen sicher, insbesondere durch die folgenden Massnahmen:
 
 - a …
-- b Folgende Entscheide müssen von mindestens zwei Personen mit elektronischer oder Handunterschrift bestätigt werden, wenn der Schwellenwert des Einladungsverfahrens erreicht ist: Festlegung der Anforderungen, Zuschlag, Vertragsabschluss, -änderung oder -kündigung.
+- b Folgende Entscheide müssen von mindestens zwei Personen gefällt oder genehmigt werden, wenn der Schwellenwert des Einladungsverfahrens erreicht ist: Festlegung der Anforderungen, Zuschlag, Vertragsabschluss, -änderung oder -kündigung.
 
 #### Art. 12
 
-**Aufsicht**
+**…**
 
 ## 3 Beschaffungsorganisation
 
@@ -159,7 +188,7 @@ beschliesst:
 
 **Zuständigkeiten bei zentraler Beschaffung**
 
-<sup>1</sup> Bei zentralen Beschaffungen gelten folgende Zuständigkeiten, soweit die ZBS unter Mitwirkung der kantonalen Beschaffungskonferenz (KBK) oder der Regierungsrat nichts anderes festlegt:
+<sup>1</sup> Bei zentralen Beschaffungen gelten folgende Zuständigkeiten, soweit die ZBS unter Mitwirkung der KBK oder der Regierungsrat nichts anderes festlegt:
 
 - a Die ZBS führt das Beschaffungsverfahren durch, schliesst Rahmenverträge ab und legt weitere Rahmenbedingungen des Leistungsabrufs fest.
 - b Die Bedarfsstellen stellen die finanziellen Mittel im Voranschlag und Finanzplan ein.
