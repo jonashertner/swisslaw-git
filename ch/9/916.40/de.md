@@ -4,11 +4,11 @@ title: Tierseuchengesetz vom 1. Juli 1966 (TSG)
 short: TSG
 eli: "https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604"
 language: de
-version: 2022-01-01
+version: 2022-11-01
 adopted: 1966-07-01
 in_force: 1967-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1966-1565_1621_1604-20220101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1966/1565_1621_1604/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604/20221101/de/xml/fedlex-data-admin-ch-eli-cc-1966-1565_1621_1604-20221101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1966/1565_1621_1604/20221101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1966/1565_1621_1604/20220101/de"
 
 (TSG)[^t-1]
 
-vom 1. Juli 1966 (Stand am 1. Januar 2022)
+vom 1. Juli 1966 (Stand am 1. November 2022)
 
 [^t-1]: Fassung des Tit. gemäss Ziff. I des BG vom 19. Dez. 1975, in Kraft seit 1. Juli 1977 ([AS 1977 1187](https://fedlex.data.admin.ch/eli/oc/1977/1187_1187_1187); [BBl 1975 II 106](https://fedlex.data.admin.ch/eli/fga/1975/2_106_114_105)).
 
@@ -1042,10 +1042,9 @@ Das BLV:
 
 <sup>1</sup> Die Leistungen der Kantone nach Artikel 57 Absätze 3 Buchstabe c und 4 werden durch einen Pauschalbeitrag zur teilweisen Deckung der Kosten des nationalen Überwachungsprogramms abgegolten.
 
-<sup>2</sup> …[^57a-2]
+<sup>2</sup> Die Abgeltung wird im Rahmen der bewilligten Kredite ausgerichtet. Der Bundesrat legt die Kriterien fest, nach denen die Abgeltung auf die einzelnen Kantone verteilt wird, und bestimmt das Verfahren für die Auszahlung.
 
-[^57a-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5749](https://fedlex.data.admin.ch/eli/oc/2020/965); [BBl 2019 4175](https://fedlex.data.admin.ch/eli/fga/2019/1506)).
-[^57a-2]: Tritt zu einem späteren Zeitpunkt in Kraft ([AS 2020 5749](https://fedlex.data.admin.ch/eli/oc/2020/965)).
+[^57a-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2021, Abs. 2 in Kraft seit 1. Nov. 2022 ([AS 2020 5749](https://fedlex.data.admin.ch/eli/oc/2020/965); [2022 486](https://fedlex.data.admin.ch/eli/oc/2022/486); [BBl 2019 4175](https://fedlex.data.admin.ch/eli/fga/2019/1506)).
 
 #### Art. 58
 

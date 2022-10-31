@@ -4,11 +4,11 @@ title: "Loi du 1<sup>er</sup> juillet 1966 sur les épizooties (LFE)"
 short: LFE
 eli: "https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604"
 language: fr
-version: 2022-01-01
+version: 2022-11-01
 adopted: 1966-07-01
 in_force: 1967-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1966-1565_1621_1604-20220101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1966/1565_1621_1604/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604/20221101/fr/xml/fedlex-data-admin-ch-eli-cc-1966-1565_1621_1604-20221101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1966/1565_1621_1604/20221101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1966/1565_1621_1604/20220101/fr"
 
 (LFE)[^t-1]
 
-du 1<sup>er</sup> juillet 1966 (État le 1<sup>er</sup> janvier 2022)
+du 1<sup>er</sup> juillet 1966 (État le 1<sup>er</sup> novembre 2022)
 
 [^t-1]: Nouvelle teneur du titre selon le ch. I de la LF du 19 déc. 1975, en vigueur depuis le 1<sup>er</sup> juil. 1977 ([RO 1977 1187](https://fedlex.data.admin.ch/eli/oc/1977/1187_1187_1187); [FF 1975 II 114](https://fedlex.data.admin.ch/eli/fga/1975/2_106_114_105)).
 
@@ -1040,10 +1040,9 @@ L’OSAV:
 
 <sup>1</sup> Les cantons sont indemnisés pour les prestations visées à l’art. 57, al. 3, let. c, et 4, au moyen d’une contribution forfaitaire destinée à couvrir une partie des coûts du programme national de surveillance.
 
-<sup>2</sup> …[^57a-2]
+<sup>2</sup> L’indemnité est octroyée dans la limite des crédits autorisés. Le Conseil fédéral fixe les critères de répartition de l’indemnité entre les cantons et définit la procédure de paiement.
 
-[^57a-1]: Introduit par le ch. I de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5749](https://fedlex.data.admin.ch/eli/oc/2020/965); [2022 486](https://fedlex.data.admin.ch/eli/oc/2022/486); [FF 2019 4013](https://fedlex.data.admin.ch/eli/fga/2019/1506)).
-[^57a-2]: Entre en vigueur ultérieurement ([RO 2020 5749](https://fedlex.data.admin.ch/eli/oc/2020/965); [2021 680](https://fedlex.data.admin.ch/eli/oc/2021/680)).
+[^57a-1]: Introduit par le ch. I de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021, sous réserve de l’al. 2, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2020 5749](https://fedlex.data.admin.ch/eli/oc/2020/965); [2022 486](https://fedlex.data.admin.ch/eli/oc/2022/486); [FF 2019 4013](https://fedlex.data.admin.ch/eli/fga/2019/1506)).
 
 #### Art. 58
 

@@ -4,11 +4,11 @@ title: "Legge del 1<sup>o</sup> luglio 1966 sulle epizoozie (LFE)"
 short: LFE
 eli: "https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604"
 language: it
-version: 2022-01-01
+version: 2022-11-01
 adopted: 1966-07-01
 in_force: 1967-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1966-1565_1621_1604-20220101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1966/1565_1621_1604/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604/20221101/it/xml/fedlex-data-admin-ch-eli-cc-1966-1565_1621_1604-20221101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1966/1565_1621_1604/20221101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1966/1565_1621_1604/20220101/it"
 
 (LFE)
 
-del 1° luglio 1966 (Stato 1° gennaio 2022)
+del 1° luglio 1966 (Stato 1° novembre 2022)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -928,17 +928,11 @@ L’autore[^49-1] può essere, inoltre, condannato al pagamento delle tasse elus
 [^53-2]: Introdotto dal n. I della LF del 16 mar. 2012 ([RU 2013 907](https://fedlex.data.admin.ch/eli/oc/2013/184); [FF 2011 6259](https://fedlex.data.admin.ch/eli/fga/2011/1121)). Nuovo testo giusta l’all. n. 41 della LF del 20 giu. 2014 sulla formazione continua, in vigore dal 1° gen. 2017 ([RU 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132); [FF 2013 3085](https://fedlex.data.admin.ch/eli/fga/2013/823)).
 [^53-3]: Introdotto dal n. I della LF del 16 mar. 2012, in vigore dal 1° mag. 2013 ([RU 2013 907](https://fedlex.data.admin.ch/eli/oc/2013/184); [FF 2011 6259](https://fedlex.data.admin.ch/eli/fga/2011/1121)).
 
-#### Art. 53a
+#### Art. 54a
 
-**Recepimento di prescrizioni e di norme internazionali armonizzate**[^53a-1]
+[^54a-1]
 
-<sup>1</sup> Nell’emanare disposizioni, il Consiglio federale tiene conto di direttive, raccomandazioni, prescrizioni e norme tecniche armonizzate a livello internazionale.
-
-<sup>2</sup> Nell’ambito della presente legge, il Consiglio federale può dichiarare applicabili determinate prescrizioni e norme tecniche armonizzate sul piano internazionale. Può autorizzare l’Ufficio federale di veterinaria ad adeguare aspetti tecnici d’importanza minore alle prescrizioni e norme dichiarate applicabili.
-
-<sup>3</sup> Il Consiglio federale può eccezionalmente stabilire una modalità di pubblicazione particolare delle prescrizioni e norme dichiarate applicabili e decidere di rinunciare alla traduzione nelle lingue ufficiali.
-
-[^53a-1]: Introdotto dal n. I della LF del 5 ott. 2007, in vigore dal giu. 2008 ([RU 2008 2269](https://fedlex.data.admin.ch/eli/oc/2008/328); [FF 2006 5015](https://fedlex.data.admin.ch/eli/fga/2006/647)).
+[^54a-1]: Introdotto dal n. I della LF del 5 ott. 2007 ([RU 2008 2269](https://fedlex.data.admin.ch/eli/oc/2008/328); [FF 2006 5015](https://fedlex.data.admin.ch/eli/fga/2006/647)). Abrogato dal n. I della LF del 19 giu. 2020, con effetto dal 1° gen. 2021 ([RU 2020 5749](https://fedlex.data.admin.ch/eli/oc/2020/965); [FF 2019 3451](https://fedlex.data.admin.ch/eli/fga/2019/1506)).
 
 #### Art. 53b
 
@@ -969,9 +963,9 @@ L’autore[^49-1] può essere, inoltre, condannato al pagamento delle tasse elus
 
 #### Art. 54a
 
-[^54a-1]
+[^54a-2]
 
-[^54a-1]: Introdotto dal n. I della LF del 5 ott. 2007 ([RU 2008 2269](https://fedlex.data.admin.ch/eli/oc/2008/328); [FF 2006 5015](https://fedlex.data.admin.ch/eli/fga/2006/647)). Abrogato dal n. I della LF del 19 giu. 2020, con effetto dal 1° gen. 2021 ([RU 2020 5749](https://fedlex.data.admin.ch/eli/oc/2020/965); [FF 2019 3451](https://fedlex.data.admin.ch/eli/fga/2019/1506)).
+[^54a-2]: Introdotto dal n. I della LF del 5 ott. 2007 ([RU 2008 2269](https://fedlex.data.admin.ch/eli/oc/2008/328); [FF 2006 5015](https://fedlex.data.admin.ch/eli/fga/2006/647)). Abrogato dal n. I della LF del 19 giu. 2020, con effetto dal 1° gen. 2021 ([RU 2020 5749](https://fedlex.data.admin.ch/eli/oc/2020/965); [FF 2019 3451](https://fedlex.data.admin.ch/eli/fga/2019/1506)).
 
 #### Art. 55
 
@@ -1041,10 +1035,9 @@ L’USAV:
 
 <sup>1</sup> Per le prestazioni di cui all’articolo 57 capoversi 3 lettera c e 4 i Cantoni sono indennizzati con un importo forfettario a parziale copertura dei costi per l’esecuzione del programma nazionale di sorveglianza.
 
-<sup>2</sup> ...[^57a-2]
+<sup>2</sup> L’indennità è versata entro i limiti dei crediti stanziati. Il Consiglio federale stabilisce i criteri di ripartizione delle indennità tra i singoli Cantoni e determina la procedura per il versamento.
 
-[^57a-1]: Introdotto dal n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5749](https://fedlex.data.admin.ch/eli/oc/2020/965); [FF 2019 3451](https://fedlex.data.admin.ch/eli/fga/2019/1506)).
-[^57a-2]: Non ancora in vigore ([RU 2021 680](https://fedlex.data.admin.ch/eli/oc/2021/680)).
+[^57a-1]: Introdotto dal n. I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021, il cpv. 2 dal 1° nov. 2022 ([RU 2020 5749](https://fedlex.data.admin.ch/eli/oc/2020/965); [2022 486](https://fedlex.data.admin.ch/eli/oc/2022/486); [FF 2019 3451](https://fedlex.data.admin.ch/eli/fga/2019/1506)).
 
 #### Art. 58
 
