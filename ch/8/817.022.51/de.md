@@ -4,11 +4,11 @@ title: Verordnung des EDI vom 27. Mai 2020 über gentechnisch veränderte Lebens
 short: VGVL
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/456"
 language: de
-version: 2022-04-01
+version: 2022-11-01
 adopted: 2020-05-27
 in_force: 2020-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/456/20220401/de/xml/fedlex-data-admin-ch-eli-cc-2020-456-20220401-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/456/20220401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/456/20221101/de/xml/fedlex-data-admin-ch-eli-cc-2020-456-20221101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/456/20221101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/456/20220401/de"
 
 (VGVL)
 
-vom 27. Mai 2020 (Stand am 1. April 2022)
+vom 27. Mai 2020 (Stand am 1. November 2022)
 
 Das Eidgenössische Departement des Innern (EDI),
 
@@ -332,36 +332,56 @@ Anhang 2
 <tr><td>Soja MON89788 MON-89788-1</td><td>keine</td></tr>
 </table>
 
-Anhang 3*[^t-1]*
+Anhang 3[^t-1]
 
 (Art. 7)
 
 ## GVO-Erzeugnisse, die ohne Bewilligung des BLV in Verkehr gebracht werden dürfen
 
-[^t-1]: Fassung gemäss Ziff. I der V des EDI vom 23. Febr. 2022, in Kraft seit 1. April 2022 ([AS 2022 142](https://fedlex.data.admin.ch/eli/oc/2022/142)).
+[^t-1]: Fassung gemäss Ziff. I der V des EDI vom 23. Febr. 2022 ([AS 2022 142](https://fedlex.data.admin.ch/eli/oc/2022/142)). Bereinigt gemäss Ziff. I der V des EDI vom 14. Okt. 2022, in Kraft seit 1. Nov. 2022 ([AS 2022 587](https://fedlex.data.admin.ch/eli/oc/2022/587)).
 
 <table>
 <tr><th>GVO-Erzeugnis</th><th>Einzuhaltende Vorschriften</th></tr>
+<tr><td>1,4-alpha-D-Glucan Glucanohydrolase (EC 3.2.1.1) *Lebensmittelenzym zur Verwendung bei der Stärkeverarbeitung, bei der Herstellung von* *alkoholischen* *Getränken auf Getreidebasis, beim Brauen von Getränken auf Getreidebasis und bei Backverarbeitungsprozessen.*</td><td>Hergestellt durch den gentechnisch veränderten Mikroorganismus *Bacillus licheniformis* (Stamm NZYM-AC).</td></tr>
+<tr><td>1,4-alpha-D-Glucan Glucanohydrolase (EC 3.2.1.1) *Lebensmittelenzym zur Verwendung bei der Stärkeverarbeitung, bei der Herstellung von* *alkoholischen* *Getränken auf Getreidebasis, beim Brauen von Getränken auf Getreidebasis und bei Backverarbeitungsprozessen.*</td><td>Hergestellt durch den gentechnisch veränderten Mikroorganismus *Bacillus licheniformis* (Stamm NZYM-BC).</td></tr>
 <tr><td>4-alpha-D-Glukan alpha-Maltohydrolase (EC 3.2.1.133) *Lebensmittelenzym zur Verwendung bei Backverarbeitungsprozessen.*</td><td>Hergestellt durch den gentechnisch veränderten Mikroorganismus *Saccharomyces cerevisiae* (Stamm LALL-MA).</td></tr>
 <tr><td>4-alpha-D-Glukan Glukanhydrolase (EC 3.2.1.1) *Lebensmittelenzym zur Verwendung bei Backverarbeitungsprozessen.*</td><td>Hergestellt durch den gentechnisch veränderten Mikroorganismus *Bacillus subtilis* (Stamm NBA).</td></tr>
 <tr><td>Alpha-Acetolactate Decarboxylase (EC 4.1.1.5) *Lebensmittelenzym zur Verwendung bei der Destillation von alkoholischen Getränken und beim Brauen.*</td><td>Hergestellt durch den gentechnisch veränderten Mikroorganismus *Bacillus licheniformis* (Stamm NZYM-JB).</td></tr>
+<tr><td>Asparaginase (EC 3.5.1.1) *Lebensmittelenzym zur Verwendung bei* *Backverarbeitungsprozessen* *und bei der* *Herstellung* *von Kartoffelprodukten.*</td><td>Hergestellt durch den gentechnisch veränderten Mikroorganismus *Aspergillus niger* (Stamm AGN).</td></tr>
 <tr><td>Beta-D-Glucose:Sauerstoff 1-Oxidoreductase (EC 1.1.3.4) *Lebensmittelenzym zur Verwendung bei Backverarbeitungsprozessen.*</td><td>Hergestellt durch den gentechnisch veränderten Mikroorganismus *Aspergillus oryzae* (Stamm NZYM-KP).</td></tr>
 <tr><td>Beta-D-Glucose:Sauerstoff 1-Oxidoreductase (EC 1.1.3.4) *Lebensmittelenzym zur Verwendung bei Backverarbeitungsprozessen.*</td><td>Hergestellt durch den gentechnisch veränderten Mikroorganismus *Aspergillus niger* (Stamm ZGL).</td></tr>
-<tr><td>Endo-1,4-beta-Xylanase (EC 3.2.1.8) *Lebensmittelenzym zur Verwendung bei der Stärkeverarbeitung, bei der Herstellung von alkoholischen Getränken auf Getreidebasis, beim Brauen von Getränken auf Getreidebasis und bei Backverarbeitungsprozessen.*</td><td>Hergestellt durch den gentechnisch veränderten Mikroorganismus *Aspergillus oryzae* (Stamm NZYM-FB).</td></tr>
+<tr><td>Beta-Galactosidase (EC 3.2.1.23) *Lebensmittelenzym zur Verwendung bei der Verarbeitung von Milch und* *Milcherzeug**nissen**.*</td><td>Hergestellt durch den gentechnisch veränderten Mikroorganismus *Bacillus licheniformis* (Stamm NZYM-BT).</td></tr>
+<tr><td>Beta-Galactosidase (EC 3.2.1.23) *Lebensmittelenzym zur Verwendung* *bei Lebensmitteln* *mit Laktose.*</td><td>Hergestellt durch den gentechnisch veränderten Mikroorganismus *Kluyveromyces lactis* (Stamm KLA).</td></tr>
+<tr><td>Beta-Galactosidase (EC 3.2.1.23) *Lebensmittelenzym zur Verwendung* *bei Lebensmitteln* *mit Laktose.*</td><td>Hergestellt durch den gentechnisch veränderten Mikroorganismus *Aspergillus niger* (Stamm TOL).</td></tr>
+<tr><td>Carboxypeptidase D (EC 3.4.16.6) *Lebensmittelenzym zur Verwendung bei der Verarbeitung von Proteinen, beim Brauen von Getränken und bei* *Backverarbeitungs**prozessen**.*</td><td>Hergestellt durch den gentechnisch veränderten Mikroorganismus *Aspergillus oryzae* (Stamm NZYM-MK).</td></tr>
+<tr><td>Chymosin (EC 3.4.23.4) *Lebensmittelenzym zur Verwendung bei der Herstellung von Milch und Milcherzeugnissen.*</td><td>Hergestellt durch den gentechnisch veränderten Mikroorganismus *Kluyveromyces lactis* (Stamm CIN).</td></tr>
+<tr><td>Endo-1,4-beta-Xylanase (EC 3.2.1.8) *Lebensmittelenzym zur Verwendung bei der Stärkeverarbeitung, bei der Herstellung von* *alkoholischen Getränken auf Getreidebasis, beim Brauen von Getränken auf Getreidebasis und bei Backverarbeitungsprozessen.*</td><td>Hergestellt durch den gentechnisch veränderten Mikroorganismus *Aspergillus oryzae* (Stamm NZYM-FB).</td></tr>
 <tr><td>Endo-1,4-beta-Xylanase (EC 3.2.1.8) *Lebensmittelenzym zur Verwendung bei der Stärkeverarbeitung von getreidehaltigen Lebensmitteln bei Backverarbeitungsprozessen.*</td><td>Hergestellt durch den gentechnisch veränderten Mikroorganismus *Bacillus licheniformis* (Stamm NZYM-CE).</td></tr>
 <tr><td>Endo-1,4-beta-Xylanase (EC 3.2.1.8) *Lebensmittelenzym zur Verwendung bei der Stärkeverarbeitung von getreidehaltigen Lebensmitteln bei Backverarbeitungsprozessen.*</td><td>Hergestellt durch den gentechnisch veränderten Mikroorganismus *Aspergillus oryzae* (Stamm NZYM-FA).</td></tr>
 <tr><td>Endo-1,4-beta-Xylanase (EC 3.2.1.8) *Lebensmittelenzym zur Verwendung beim Brauen und bei Backverarbeitungsprozessen.*</td><td>Hergestellt durch den gentechnisch veränderten Mikroorganismus *Aspergillus niger* (Stamm XEA).</td></tr>
-<tr><td>Glukan-1,4-alpha-Maltohydrolase (EC 3.2.1.133) *Lebensmittelenzym zur Verwendung bei der Stärkeverarbeitung bei Backverarbeitungs**‑ prozessen.*</td><td>Hergestellt durch den gentechnisch veränderten Mikroorganismus *Bacillus subtilis* (Stamm NZYM-OC).</td></tr>
-<tr><td>Glukan-1,4-alpha-Maltohydrolase (EC 3.2.1.133) *Lebensmittelenzym zur Verwendung bei der Stärkeverarbeitung bei Backverarbeitungs**‑ prozessen.*</td><td>Hergestellt durch den gentechnisch veränderten Mikroorganismus *Bacillus subtilis* (Stamm NZYM-SO).</td></tr>
-<tr><td>Glukan-1,4-alpha-Maltohydrolase (EC 3.2.1.133) *Lebensmittelenzym zur Verwendung bei der Stärkeverarbeitung bei Backverarbeitungs**‑ prozessen.*</td><td>Hergestellt durch den gentechnisch veränderten Mikroorganismus *Bacillus subtilis* (Stamm ROM).</td></tr>
+<tr><td>Endo-1,4-beta-Xylanase (EC 3.2.1.8) *Lebensmittelenzym zur Verwendung bei der Stärkeverarbeitung, bei der Herstellung von* *alkoholischen* *Getränken auf Getreidebasis, beim Brauen von Getränken auf Getreidebasis und bei Backverarbeitungsprozessen.*</td><td>Hergestellt durch den gentechnisch veränderten Mikroorganismus *Aspergillus niger* (Stamm XYL).</td></tr>
+<tr><td>Glukan-1,4-alpha-Maltohydrolase (EC 3.2.1.133) *Lebensmittelenzym zur Verwendung bei der Stärkeverarbeitung bei Backverarbeitungs**‑* *prozessen.*</td><td>Hergestellt durch den gentechnisch veränderten Mikroorganismus *Bacillus subtilis* (Stamm NZYM-OC).</td></tr>
+<tr><td>Glukan-1,4-alpha-Maltohydrolase (EC 3.2.1.133) *Lebensmittelenzym zur Verwendung bei der Stärkeverarbeitung bei Backverarbeitungs**‑* *prozessen.*</td><td>Hergestellt durch den gentechnisch veränderten Mikroorganismus *Bacillus subtilis* (Stamm NZYM-SO).</td></tr>
+<tr><td>Glukan-1,4-alpha-Maltohydrolase (EC 3.2.1.133) *Lebensmittelenzym zur Verwendung bei der Stärkeverarbeitung bei Backverarbeitungs**‑* *prozessen.*</td><td>Hergestellt durch den gentechnisch veränderten Mikroorganismus *Bacillus subtilis* (Stamm ROM).</td></tr>
+<tr><td>Glukan-1,4-alpha-Glucosidase (EC 3.2.1.3) *Lebensmittelenzym zur Verwendung bei der Stärkeverarbeitung, bei der Herstellung von* *alkoholischen* *Getränken, beim Brauen von* *Getränken* *auf Getreidebasis und bei* *Back**verarbeitungsprozessen**.*</td><td>Hergestellt durch den gentechnisch veränderten Mikroorganismus *Aspergillus niger* (Stamm NZYM-BE).</td></tr>
+<tr><td>Glukan-1,4-alpha-Maltohydrolase (EC 3.2.1.133) *Lebensmittelenzym zur Verwendung bei der Stärkeverarbeitung, beim Brauen und bei Backverarbeitungsprozessen.*</td><td>Hergestellt durch den gentechnisch veränderten Mikroorganismus *Bacillus licheniformis* (Stamm NZYM-FR).</td></tr>
+<tr><td>Glukan-1,4-alpha-Maltohydrolase (EC 3.2.1.133) *Lebensmittelenzym zur Verwendung bei der Stärkeverarbeitung, beim Brauen und bei Backverarbeitungsprozessen.*</td><td>Hergestellt durch den gentechnisch veränderten Mikroorganismus *Bacillus licheniformis* (Stamm NZYM-CY).</td></tr>
+<tr><td>Glukan-1,4-alpha-Maltohydrolase (EC 3.2.1.133) *Lebensmittelenzym zur Verwendung bei der Stärkeverarbeitung, beim Brauen und bei Backverarbeitungsprozessen.*</td><td>Hergestellt durch den gentechnisch veränderten Mikroorganismus *Bacillus licheniformis* (Stamm NZYM-SD).</td></tr>
+<tr><td>Glukan-1,4-alpha-Maltohydrolase (EC 3.2.1.133) *Lebensmittelenzym zur Verwendung bei der Stärkeverarbeitung und bei* *Backverarbei**tungsprozesse**.*</td><td>Hergestellt durch den gentechnisch veränderten Mikroorganismus *Bacillus subtilis* (Stamm MAM).</td></tr>
+<tr><td>Glutaminase (EC 3.5.1.2) *Lebensmittelenzym zur Verwendung bei der Verarbeitung von Proteinen und bei Backverarbeitungsprozessen*</td><td>Hergestellt durch den gentechnisch veränderten Mikroorganismus *Bacillus licheniformis* (Stamm NZYM-JQ).</td></tr>
 <tr><td>GVO-Erzeugnisse, die der Definition nach Artikel 31 Absatz 4 LGV entsprechen und die nach der Verordnung (EG) 2015/2283[^annex3-lvlu1-1] in Verkehr gebracht werden dürfen.</td><td>Die Vorschriften gemäss den einzelnen Durchführungsbeschlüssen und Meldungen sind einzuhalten. Die im Durchführungsbeschluss oder in der Meldung genannte Person, an die sich der Beschluss oder die Meldung richtet, gilt als Bewilligungsinhaberin oder -inhaber. Das genannte Produkt darf nur durch diese Person oder mit deren Einverständnis durch andere Personen in Verkehr gebracht werden.</td></tr>
-<tr><td>Phospholipase A2 (EC 3.1.1.43) *Lebensmittelenzym zur Verwendung bei der Verarbeitung von Eiern und rohen Pflanzenölen und -fetten sowie bei Backverarbeitungsprozessen.*</td><td>Hergestellt durch den gentechnisch veränderten Mikroorganismus *Aspergillus niger* (Stamm PLA-54).</td></tr>
+<tr><td>Leucyl Aminopeptidase (EC 3.4.11.1) *Lebensmittelenzym zur Verwendung bei der Verarbeitung von Proteinen, beim Brauen von Getränken und bei* *Backverarbeitungs**prozessen**.*</td><td>Hergestellt durch den gentechnisch veränderten Mikroorganismus *Aspergillus oryzae* (Stamm NZYM-BU).</td></tr>
+<tr><td>Peroxidase (EC 1.11.1.7) *Lebensmittelenzym zur Verwendung bei der Verarbeitung von Molke.*</td><td>Hergestellt durch den gentechnisch veränderten Mikroorganismus *Aspergillus niger* (Stamm MOX).</td></tr>
+<tr><td>Phospholipase A2 (EC 3.1.1.43) *Lebensmittelenzym zur Verwendung bei der Verarbeitung von Eiern und rohen Pflanzenölen und -fetten sowie bei Backverarbeitungsprozessen.*</td><td>Hergestellt durch den gentechnisch veränderten Mikroorganismus *Aspergillus* *niger* (Stamm PLA-54).</td></tr>
 <tr><td>Phospholipase C (EC 3.1.4.3) *Lebensmittelenzym zur Verwendung bei der Verarbeitung von Ölen und Fetten.*</td><td>Hergestellt durch den gentechnisch veränderten Mikroorganismus *Komagataella phaffii* (Stamm PRF).</td></tr>
-<tr><td>Serinprotease (Trypsin) (EC 3.4.21.4) *Lebensmittelenzym zur Verwendung bei der Verarbeitung von proteinhaltigen Lebens**‑ mitteln tierischen und pflanzlichen Ursprungs.*</td><td>Hergestellt durch den gentechnisch veränderten Mikroorganismus *Fusarium venenatum* (Stamm NZYM-FG).</td></tr>
-<tr><td>Triaglycerol Lipase (EC 3.1.1.3) *Lebensmittelenzym zur Verwendung bei der Fetthydrolyse beim Brauen von Getränken auf Getreidebasis und bei Backverarbeitungsprozessen, sowie bei der Verarbeitung von Ölen und Fetten.*</td><td>Hergestellt durch den gentechnisch veränderten Mikroorganismus *Aspergillus oryzae* (Stamm NZYM-AL).</td></tr>
-<tr><td>Triaglycerol Lipase (EC 3.1.1.3) *Lebensmittelenzym zur Verwendung bei der Fetthydrolyse von getreidehaltigen Lebens**- mitteln bei Backverarbeitungsprozessen.*</td><td>Hergestellt durch den gentechnisch veränderten Mikroorganismus *Aspergillus oryzae* (Stamm NZYM-LH).</td></tr>
+<tr><td>Pullulanase (EC 3.2.1.41) *Lebensmittelenzym zur Verwendung bei der Stärkeverarbeitung und beim Brauen.*</td><td>Hergestellt durch den gentechnisch veränderten Mikroorganismus *Bacillus licheniformis* (Stamm NZYM-LU).</td></tr>
+<tr><td>Serinprotease (Trypsin) (EC 3.4.21.4) *Lebensmittelenzym zur Verwendung bei der Verarbeitung von proteinhaltigen Lebens**‑* *mitteln tierischen und pflanzlichen Ursprungs.*</td><td>Hergestellt durch den gentechnisch veränderten Mikroorganismus *Fusarium venenatum* (Stamm NZYM-FG).</td></tr>
+<tr><td>Subtilisin (EC 3.4.21.62) *Lebensmittelenzym zur Verwendung bei der Verarbeitung von Proteinen, beim Brauen von Getränken und bei* *Backverarbeitungs**prozessen**.*</td><td>Hergestellt durch den gentechnisch veränderten Mikroorganismus *Bacillus licheniformis* (Stamm NZYM-CB).</td></tr>
+<tr><td>Triaglycerol Lipase (EC 3.1.1.3) *Lebensmittelenzym zur Verwendung bei der Fetthydrolyse beim Brauen von Getränken* *auf Getreidebasis und bei Backverarbeitungsprozessen, sowie bei der Verarbeitung von Ölen und Fetten.*</td><td>Hergestellt durch den gentechnisch veränderten Mikroorganismus *Aspergillus oryzae* (Stamm NZYM-AL).</td></tr>
+<tr><td>Triaglycerol Lipase (EC 3.1.1.3) *Lebensmittelenzym zur Verwendung bei der Fetthydrolyse von getreidehaltigen Lebens**-* *mitteln bei Backverarbeitungsprozessen.*</td><td>Hergestellt durch den gentechnisch veränderten Mikroorganismus *Aspergillus oryzae* (Stamm NZYM-LH).</td></tr>
 <tr><td>Triaglycerol Lipase (EC 3.1.1.3) *Lebensmittelenzym zur Verwendung bei der Verarbeitung von Eiern, Ölen und Fetten.*</td><td>Hergestellt durch den gentechnisch veränderten Mikroorganismus *Aspergillus oryzae* (Stamm NZYM-FL).</td></tr>
-<tr><td>Triaglycerol Lipase (EC 3.1.1.3) *Lebensmittelenzym zur Verwendung bei Backverarbeitungsprozessen.*</td><td>Hergestellt durch den gentechnisch veränderten Mikroorganismus *Aspergillus niger* (Stamm LFS).</td></tr>
+<tr><td>Triaglycerol Lipase (EC 3.1.1.3) *Lebensmittelenzym zur Verwendung bei* *Backverarbeitungsprozessen.*</td><td>Hergestellt durch den gentechnisch veränderten Mikroorganismus *Aspergillus niger* (Stamm LFS).</td></tr>
+<tr><td>Triacylglycerol Lipase (EC 3.1.1.3) *Lebensmittelenzym zur Verwendung bei Backverarbeitungsprozessen, bei der Verarbeitung von Proteinen und bei der Verarbeitung von Eiern und Eierprodukten sowie Fleischerzeugnissen.*</td><td>Hergestellt durch den gentechnisch veränderten Mikroorganismus *Aspergillus oryzae* (Stamm NZYM-PH).</td></tr>
 </table>
 
 [^annex3-lvlu1-1]: Verordnung (EU) 2015/2283 des Europäischen Parlaments und des Rates vom 25. November 2015 über neuartige Lebensmittel, zur Änderung der Verordnung (EU) Nr. 1169/2011 des Europäischen Parlaments und des Rates und zur Aufhebung der Verordnung (EG) Nr. 258/97 des Europäischen Parlaments und des Rates und der Verordnung (EG) Nr. 1852/2001 der Kommission; zuletzt geändert durch Verordnung (EU) 2019/1381, ABl. L 231 vom 6.9.2019, S. 1.
