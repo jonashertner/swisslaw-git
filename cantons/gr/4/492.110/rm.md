@@ -4,41 +4,41 @@ number: "492.110"
 title: Ordinaziun da linguas dal chantun Grischun
 short: OLing
 language: rm
-version: 2014-08-01
-corrected: 2014-11-11
-version_adopted: 2009-12-22
+version: 2017-01-01
+corrected: 2022-11-02
+version_adopted: 2016-05-24
 adopted: 2007-12-11
 in_force: 2008-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/492.110"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/1943/pdf_file"
-text: pdf
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2688/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Ordinaziun da linguas dal chantun Grischun (OLing)
+# Ordinaziun da linguas dal chantun Grischun
 
-sa basond sin l'art. 45 da la constituziun chantunala[^t-1]
+(OLing)
+
+dals 11-12-2007 (versiun dals 01-01-2017)
+
+sa basond sin l'art. 45 da la constituziun chantunala[^ingress-1]
 
 relaschada da la regenza ils 11 da december 2007
 
-Disposiziuns generalas
+[^ingress-1]: DG [110.100](https://www.gr-lex.gr.ch/data/110.100/rm)
 
-[^t-1]: DG 110.100 1-8-2014 1
+## 1. Disposiziuns generalas
 
 #### Art. 1
 
 **Champ d'applicaziun**
 
-Questa ordinaziun regla:
+<sup>1</sup> Questa ordinaziun regla:
 
 - a) il diever da las linguas chantunalas uffizialas tras las autoritads chantunalas (cussegl grond, regenza ed administraziun);
-
 - b) la translaziun da texts uffizials dal cussegl grond, da la regenza e da l'administraziun;
-
 - c) la cumpetenza e la procedura en il sectur da la promoziun da la lingua rumantscha e taliana sco er tar il barat tranter las cuminanzas linguisticas chantunalas;
-
-- d) la collavuraziun dal chantun cun las vischnancas, cun las corporaziuns regiunalas e cun las corporaziuns da vischnancas, cun ils districts, cun ils circuls sco er cun autras corporaziuns da dretg public tar la determinaziun da lur linguas uffizialas e da lur linguas da scola.
+- d) la collavuraziun dal chantun cun las vischnancas, cun las corporaziuns da vischnancas, cun las regiuns sco er cun autras corporaziuns da dretg public tar la determinaziun da lur linguas uffizialas e da lur linguas da scola.
 
 #### Art. 2
 
@@ -64,9 +64,9 @@ Questa ordinaziun regla:
 
 <sup>1</sup> L'uffizi da cultura è il post spezialisà per dumondas generalas en connex cun las linguas naziunalas ed uffizialas dal chantun sco er en connex cun la promoziun da linguas.
 
-<sup>2</sup> Il post da contact dal chantun per las vischnancas e per ils circuls en il sectur da las linguas communalas uffizialas è il post da servetsch cumpetent dal departament da finanzas e vischnancas; en il sectur da las linguas da scola è questa incumbensa chaussa dal post da servetsch cumpetent dal departament d'educaziun, cultura e protecziun da l'ambient. En dumondas specificas vegnan els sustegnids dal post spezialisà per dumondas da linguas.
+<sup>2</sup> Il post da contact dal chantun per las vischnancas e per las regiuns en il sectur da las linguas communalas uffizialas è il post da servetsch cumpetent dal departament da finanzas e vischnancas; en il sectur da las linguas da scola è questa incumbensa chaussa dal post da servetsch cumpetent dal departament d'educaziun, cultura e protecziun da l'ambient. En dumondas specificas vegnan els sustegnids dal post spezialisà per dumondas da linguas.
 
-### I. Linguas uffizialas dal chantun
+## 2. Linguas uffizialas dal chantun
 
 #### Art. 5
 
@@ -75,40 +75,27 @@ Questa ordinaziun regla:
 <sup>1</sup> En tut las trais linguas uffizialas vegni publitgà:
 
 - a) leschas, cunvegnas interchantunalas e conclus dal cussegl grond sco er ordinaziuns che duain vegnir publitgads en il cudesch da dretg grischun;
-
 - b) explicaziuns davart las votaziuns dal pievel sco er cedels da votar e cedels electorals;
-
 - c) publicaziuns en il fegl uffizial dal chantun sco er communicaziuns a las medias ed autras communicaziuns impurtantas dal cussegl grond, da la regenza, dals departaments e dals posts da servetsch, uschenavant ch'ellas sa drizzan a tut la populaziun dal chantun;
-
 - d) directivas e circularas che sa drizzan a tut las vischnancas, ad autras corporaziuns da dretg public u ad autras organisaziuns en tut il chantun;
-
-- e)[^5-1]sbozs preliminars da relaschs che van en consultaziun cun curtas explicaziuns;
-
+- e) sbozs preliminars da relaschs che van en consultaziun cun curtas explicaziuns;
 - f) respostas sin intervenziuns parlamentaras en il cussegl grond;
-
 - g) chaus da brevs, cuvertas da brevs e paginas d'access a l'internet dals departaments e dals posts da servetsch;
-
 - h) formulars ch'èn destinads a la publicitad.
 
 <sup>2</sup> Per communicaziuns e per formulars che sa drizzan ad in tschert circul da persunas u ch'èn d'ina impurtanza subordinada po il departament cumpetent permetter excepziuns.
 
-[^5-1]: versiun tenor CR dals 22 da december 2009; entrà en vigur il 1. da schaner 2010 2 1-8-2014
-[^5-2]: integraziun da l'al. 1 sco er nova numeraziun dals al. 2 e 3 tenor CR dals 22 da december 2009; entrà en vigur il 1. da schaner 2010
-
 #### Art. 6
 
-**Translaziuns**[^5-2]
+**Translaziuns**
 
 <sup>1</sup> Publicaziuns tenor l'artitgel 5 vegnan translatadas en la successiun menziunada qua survart.
 
 <sup>2</sup> En rumantsch respectivamain en talian vegnan per regla translatadas:
 
 - a) publicaziuns en il fegl uffizial dal chantun che sa drizzan spezialmain a la populaziun rumantscha respectivamain taliana;
-
 - b) decisiuns e disposiziuns da la regenza e da l'administraziun che sa drizzan a persunas ed a vischnancas rumantschas respectivamain talianas. I vegn desistì da translatar las decisiuns e las disposiziuns, sche quellas sa refereschan ad inoltraziuns tudestgas;
-
 - c) directivas e circularas che sa drizzan en spezial a vischnancas, ad autras corporaziuns da dretg public u ad autras organisaziuns en ils territoris rumantschs respectivamain talians;
-
 - d) brevs a collavuraturas ed a collavuraturs rumantschs respectivamain talians da l'administraziun chantunala, premess che quellas e che quels giavischian explicitamain ina translaziun.
 
 <sup>3</sup> Rapports tecnics, expertisas, descripziuns e documents sumegliants èn exceptads da l'obligaziun da vegnir translatadas.
@@ -131,11 +118,9 @@ Questa ordinaziun regla:
 
 <sup>3</sup> Dal rest valan las disposiziuns da l'ordinaziun federala dals 5 da settember 1979 davart la signalisaziun da las vias[^8-1].
 
-[^8-1]: CS 741.21 1-8-2014 3
+[^8-1]: CS [741.21](https://db.clex.ch/link/Bund/741.21/rm)
 
-### II. Promoziun da la lingua rumantscha e taliana /
-
-barat tranter las cuminanzas linguisticas
+## 3. Promoziun da la lingua rumantscha e taliana / barat tranter las cuminanzas linguisticas
 
 #### Art. 9
 
@@ -146,7 +131,6 @@ barat tranter las cuminanzas linguisticas
 <sup>2</sup> Las cunvegnas da prestaziun valan per 4 onns e ston cuntegnair en spezial ils suandants puncts:
 
 - a) ina descripziun dals servetschs e dals projects cun l'effect che vegn prendì en mira sco er cun ils instruments ch'èn necessaris per mesirar quest effect;
-
 - b) in plan da finanzas cun ina cumpilaziun da las expensas e dals retgavs che vegnan spetgads per furnir ils servetschs e per realisar ils projects.
 
 <sup>3</sup> Las cunvegnas da prestaziun ston vegnir accordadas cun il program da la regenza e cun il plan da finanzas dal chantun, e quai tant areguard il cuntegn sco er areguard il temp. Ellas ston vegnir approvadas da la regenza.
@@ -160,20 +144,14 @@ barat tranter las cuminanzas linguisticas
 <sup>2</sup> Il rapport da planisaziun sto cuntegnair en spezial ils suandants puncts:
 
 - a) ina quantificaziun dals servetschs planisads ed ina specificaziun dals projects cun l'effect che vegn prendì en mira sco er cun ils instruments ch'èn necessaris per mesirar quest effect;
-
 - b) in preventiv cun ina cumpilaziun da las expensas e dals retgavs che vegnan spetgads per l'onn da la dumonda.
 
 <sup>3</sup> Il pli tard fin ils 31 da matg da l'onn suandant suttamettan las organisaziuns linguisticas a l'uffizi da cultura in rapport da gestiun da l'onn passà che cuntegna il suandant:
 
 - a) in rapport annual davart tut ils servetschs e davart tut ils projects realisads sco er davart lur effects;
-
 - b) in quint annual che sa basa sin il plan dal conto dal preventiv.
 
 <sup>4</sup> Il rapport da planisaziun cun il preventiv sco er il rapport da gestiun cun il rapport annual e cun il quint annual ston vegnir approvads da la regenza.
-
-**4**
-
-1-8-2014
 
 #### Art. 11
 
@@ -204,16 +182,14 @@ barat tranter las cuminanzas linguisticas
 <sup>2</sup> Las dumondas ston cuntegnair en spezial:
 
 - a) indicaziuns davart las petentas e davart ils petents;
-
 - b) ina descripziun exacta dal project planisà;
-
 - c) in preventiv dals custs detaglià sco er in plan da finanziaziun cun indicaziuns davart tut las contribuziuns da terzas persunas, cun las qualas i po vegnir fatg quint u las qualas èn gia vegnidas garantidas.
 
 <sup>3</sup> Sch'ils documents na bastan betg per giuditgar ina dumonda, pon vegnir pretendidas ulteriuras indicaziuns u ulteriurs documents.
 
 <sup>4</sup> L'uffizi da cultura examinescha e giuditgescha las dumondas e propona a l'autoritad che decida, da garantir ina contribuziun chantunala.
 
-[^13-1]: DG 492.100 1-8-2014 5
+[^13-1]: DG [492.100](https://www.gr-lex.gr.ch/data/492.100/rm)
 
 #### Art. 14
 
@@ -222,17 +198,11 @@ barat tranter las cuminanzas linguisticas
 <sup>1</sup> Las contribuziuns chantunalas importan:
 
 - a) 10 fin 35 pertschient dals custs da mesiras generalas e da projects generals per mantegnair e per promover la lingua rumantscha e taliana;
-
 - b) 15 fin 25 pertschient dals custs da mesiras e da projects per la chapientscha tranter las cuminanzas linguisticas chantunalas;
-
 - c) 10 fin 15 pertschient dals custs betg cuvrids da gasettas e da revistas rumantschas e talianas per indemnisar prestaziuns che mantegnan la lingua;
-
 - d) 25 fin 35 pertschient dals custs da l'elavuraziun, da la translaziun e da la publicaziun da lavurs scientificas davart las linguas chantunalas, davart lur idioms e davart lur dialects, davart la plurilinguitad sco er davart la politica da linguas e da chapientscha;
-
 - e) 15 fin 25 pertschient dals custs per translatar ovras litteraras en rumantsch;
-
 - f) 25 fin 35 pertschient dals custs da curs da rumantsch u da talian per integrar persunas d'autras linguas;
-
 - g) 30 fin 50 pertschient dals custs betg cuvrids per in institut per la plurilinguitad en il chantun Grischun, premess che la confederaziun sa participeschia almain en la medema dimensiun vi dals custs.
 
 <sup>2</sup> Las contribuziuns chantunalas pon vegnir garantidas sco contribuziuns à fonds perdu u sco garanzias da deficit.
@@ -248,27 +218,22 @@ barat tranter las cuminanzas linguisticas
 <sup>2</sup> Entaifer la dimensiun da las tariffas da contribuziun vegnan las contribuziuns calculadas tenor:
 
 - a) las pussaivladads finanzialas e las atgnas prestaziuns da las petentas e dals petents;
-
 - b) l'impurtanza dal project per il chantun;
-
 - c) l'effect per la promoziun da la lingua che vegn spetgà dal project;
-
 - d) l'accessibladad per uschè bleras e per uschè differentas gruppas da la populaziun sco pussaivel;
-
 - e) la seriusadad da l'approfundaziun en la materia.
 
-[^15-1]: DG 492.100
+[^15-1]: DG [492.100](https://www.gr-lex.gr.ch/data/492.100/rm)
 
 #### Art. 16
 
 **e) scolas bilinguas**
 
-<sup>1</sup>[^16-1]Als custs per installar scolas bilinguas u classas bilinguas en vischnancas tudestgas paja il chantun contribuziuns pauschalas da maximalmain 500 francs per scolara u per scolar ed als custs per manar scolas bilinguas u classas bilinguas maximalmain 400 francs per scolara u per scolar.
+<sup>1</sup> Als custs per installar scolas bilinguas u classas bilinguas en vischnancas tudestgas paja il chantun contribuziuns pauschalas da maximalmain 500 francs per scolara u per scolar ed als custs per manar scolas bilinguas u classas bilinguas maximalmain 400 francs per scolara u per scolar.
 
-<sup>2</sup> L'autezza da las contribuziuns sa drizza tenor il dumber da scolaras e da scolars dal tip da scola correspundent. Las disposiziuns da subvenziun da l'ordinaziun davart la salarisaziun da las persunas d'instrucziun da la scola populara e da las persunas d'instrucziun da la scolina en il chantun Grischun[^16-2] vegnan applitgadas confurm al senn.
+<sup>2</sup> L'autezza da las contribuziuns sa drizza tenor il dumber da scolaras e da scolars dal tip da scola correspundent. Las disposiziuns da subvenziun da l'ordinaziun davart la salarisaziun da las persunas d'instrucziun da la scola populara e da las persunas d'instrucziun da la scolina en il chantun Grischun[^16-1] vegnan applitgadas confurm al senn.
 
-[^16-1]: versiun tenor CR dals 14 da schaner 2014; entrà en vigur il 1. d'avust 2014 6 1-8-2014
-[^16-2]: DG 421.080
+[^16-1]: DG [421.080](https://www.gr-lex.gr.ch/data/421.080/rm)
 
 #### Art. 17
 
@@ -286,11 +251,11 @@ barat tranter las cuminanzas linguisticas
 
 <sup>2</sup> L'autezza da las contribuziuns per in di da barat importa 90 francs per scolara u per scolar e maximalmain 450 francs per emna.
 
-<sup>3</sup> L'autezza da las contribuziuns per il barat d'ina persuna d'instrucziun importa 1 000 francs per emna da scola e maximalmain 10 000 francs per ina perioda da barat.
+<sup>3</sup> L'autezza da las contribuziuns per il barat d'ina persuna d'instrucziun importa 1000 francs per emna da scola e maximalmain 10 000 francs per ina perioda da barat.
 
 <sup>4</sup> Las contribuziuns vegnan concedidas en il rom dals credits disponibels.
 
-### III. Linguas uffizialas e linguas da scola da las vischnancas
+## 4. Linguas uffizialas e linguas da scola da las vischnancas
 
 #### Art. 19
 
@@ -300,21 +265,35 @@ barat tranter las cuminanzas linguisticas
 
 <sup>2</sup> En il rom da la procedura d'approvaziun examinescha la regenza, sche las premissas dal dretg surordinà èn vegnidas observadas, en spezial, sche la votaziun dal pievel è vegnida realisada confurm a l'obligaziun tenor l'artitgel 24 alinea 2 da la lescha da linguas[^19-1].
 
-[^19-1]: DG 492.100 1-8-2014 7
+[^19-1]: DG [492.100](https://www.gr-lex.gr.ch/data/492.100/rm)
 
-### IV. Disposiziuns finalas
+#### Art. 19a
+
+**Retschertga da datas**
+
+<sup>1</sup> Sin dumonda da vischnancas che han – tar l'ultima retschertga da datas – surpassà respectivamain sutpassà la valur minimala tenor l'artitgel 16 alinea 2 da la lescha da linguas[^19a-1] per fin a 10 puncts procentuals u che han surpassà quella da l'artitgel 16 alinea 3 da la lescha da linguas per fin a 10 puncts procentuals fa il chantun retschertgas da datas correspundentas en il senn d'ina retschertga cumplaina analogamain a l'artitgel 16 alinea 4 da la lescha da linguas.
+
+<sup>2</sup> En vischnancas ch'èn sa furmadas or da fusiuns da vischnancas monolinguas e/u plurilinguas cun vischnancas tudestgas ston las datas vegnir retschertgadas separadamain entaifer il perimeter da las anteriuras vischnancas. Las datas dastgan vegnir retschertgadas mo, sche tut las anteriuras vischnancas sa chattan entaifer las dimensiuns fixadas tenor l'alinea 1.
+
+<sup>3</sup> Ils custs per far ina retschertga da datas portan il chantun e la vischnanca petenta mintgamai per la mesadad.
+
+<sup>4</sup> Retschertgas da datas tenor l'alinea 1 dastgan vegnir repetidas il pli baud suenter 10 onns.
+
+[^19a-1]: DG [492.100](https://www.gr-lex.gr.ch/data/492.100/rm)
+
+## 5. Disposiziuns finalas
 
 #### Art. 20
 
 **Aboliziun dal dretg vertent**
 
-Las directivas da la regenza concernent la translaziun da texts uffizials en talian ed en rumantsch dals 21 da schaner 1991 vegnan abolidas.
+<sup>1</sup> Las directivas da la regenza concernent la translaziun da texts uffizials en talian ed en rumantsch dals 21 da schaner 1991 vegnan abolidas.
 
 #### Art. 21
 
 **Disposiziuns transitoricas 1. cunvegnas da prestaziun**
 
-Las cunvegnas da prestaziun cun las organisaziuns linguisticas, vul dir cun la Lia rumantscha, cun la Pro Grigioni italiano e cun l'Agentura da novitads rumantscha, vegnan fatgas per l'emprima giada per la perioda da legislatura dals onns 2009 fin 2012. Fin a quest termin valan las regulaziuns vertentas.
+<sup>1</sup> Las cunvegnas da prestaziun cun las organisaziuns linguisticas, vul dir cun la Lia rumantscha, cun la Pro Grigioni italiano e cun l'Agentura da novitads rumantscha, vegnan fatgas per l'emprima giada per la perioda da legislatura dals onns 2009 fin 2012. Fin a quest termin valan las regulaziuns vertentas.
 
 #### Art. 22
 
@@ -324,10 +303,12 @@ Las cunvegnas da prestaziun cun las organisaziuns linguisticas, vul dir cun la L
 
 <sup>2</sup> Resalvà resta il relasch da regulaziuns chantunalas en il rom da la realisaziun definitiva da la nova lescha federala davart la dumbraziun federala dal pievel[^22-1].
 
-[^22-1]: fegl uffizial federal 2007 4559 8 1-8-2014
+[^22-1]: fegl uffizial federal 2007 4559
 
 #### Art. 23
 
 **Entrada en vigur**
 
-Questa ordinaziun entra en vigur il 1. da schaner 2008.
+<sup>1</sup> Questa ordinaziun entra en vigur il 1. da schaner 2008.
+
+-
