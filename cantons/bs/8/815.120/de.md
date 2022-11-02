@@ -4,22 +4,24 @@ number: "815.120"
 title: Verordnung über die Betreuungsbeiträge in Kindertagesstätten und Tagesfamilien und die Leistungen an Eltern
 short: "Tagesbetreuungsbeitragsverordnung, TBV"
 language: de
-version: 2022-01-01
-valid_until: 2022-11-02
-version_adopted: 2021-08-24
+version: 2022-11-03
+valid_until: 2024-07-31
+version_adopted: 2022-10-25
 adopted: 2021-08-24
 in_force: 2022-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/815.120"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5350/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5668/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Betreuungsbeiträge in Kindertagesstätten und Tagesfamilien und die Leistungen an Eltern
 
+Kinderbetreuung
+
 (Tagesbetreuungsbeitragsverordnung, TBV)
 
-Vom 24. August 2021 (Stand 1. Januar 2022)
+Vom 24. August 2021 (Stand 3. November 2022)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -275,7 +277,7 @@ beschliesst:
 
 <sup>2</sup> Bei Inkrafttreten dieser Verordnung hängige Gesuche um Betreuungsbeiträge werden nach neuem Recht beurteilt.
 
-<sup>3</sup> Nach altem Recht gewährte Beiträge für Kinder, welche die Altersbeschränkung nach § 6 TBG überschreiten, werden während maximal einem Jahr seit Inkrafttreten dieser Verordnung gewährt.
+<sup>3</sup> Nach altem Recht gewährte Beiträge für Kinder, welche die Altersbeschränkung nach § 6 TBG überschreiten, werden bis maximal zum Beginn des Schuljahres 2023/2024 gewährt.
 
 <sup>4</sup> Nach altem Recht gewährte Beiträge für Kinder, die den Mindestumfang der Betreuung nach § 6 Abs. 1 unterschreiten, werden spätestens nach zwei Jahren seit Inkrafttreten dieser Verordnung nach neuem Recht beurteilt.
 
