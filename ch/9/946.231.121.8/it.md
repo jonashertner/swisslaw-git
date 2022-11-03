@@ -3,18 +3,18 @@ sr: "946.231.121.8"
 title: Ordinanza del 4 dicembre 2015 che istituisce provvedimenti nei confronti del Burundi
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/849"
 language: it
-version: 2022-01-01
+version: 2022-11-04
 adopted: 2015-12-04
 in_force: 2015-12-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/849/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2015-849-20220101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/849/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/849/20221104/it/xml/fedlex-data-admin-ch-eli-cc-2015-849-20221104-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/849/20221104/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti nei confronti del Burundi
 
-del 4 dicembre 2015 (Stato 1° gennaio 2022)
+del 4 dicembre 2015 (Stato 4 novembre 2022)
 
 Il Consiglio federale svizzero,
 
@@ -118,5 +118,5 @@ Allegato[^t-1]
 
 [^annexu1-lvlu1-1]
 
-[^t-1]: Aggiornato dal n. I delle O del DEFR del 7 nov. 2018 ([RU 2018 3905](https://fedlex.data.admin.ch/eli/oc/2018/622)), del 7 nov. 2019 ([RU 2019 3445](https://fedlex.data.admin.ch/eli/oc/2019/628)), del 11 nov. 2020, in vigore dal 12 nov. 2022 ([RU 2020 4667](https://fedlex.data.admin.ch/eli/oc/2020/837)).
-[^annexu1-lvlu1-1]: È possibile ordinare il contenuto dell’all. presso il settore Sanzioni della SECO, Holzikofenweg 36, 3003 Berna oppure consultarlo al seguente indirizzo Internet: www.seco.admin.ch &gt; Politica esterna e cooperazione economica &gt; Relazioni economiche &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni/Embarghi &gt; Sanzioni della Svizzera.
+[^t-1]: Aggiornato dal n. I delle O del DEFR del 7 nov. 2018 ([RU 2018 3905](https://fedlex.data.admin.ch/eli/oc/2018/622)), del 7 nov. 2019 ([RU 2019 3445](https://fedlex.data.admin.ch/eli/oc/2019/628)), del 11 nov. 2020 ([RU 2020 4667](https://fedlex.data.admin.ch/eli/oc/2020/837)) e del 3 nov. 2022, in vigore dal 4 nov. 2022 alle ore 18.00 ([RU 2022 644](https://fedlex.data.admin.ch/eli/oc/2022/644)).
+[^annexu1-lvlu1-1]: Il contenuto del presente allegato è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2022/644](https://fedlex.data.admin.ch/eli/oc/2022/644) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
