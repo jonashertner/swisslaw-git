@@ -3,18 +3,18 @@ sr: "916.443.118"
 title: Verordnung des BLV vom 12. Oktober 2022 über Massnahmen zur Verhinderung der Einschleppung der Schaf- und Ziegenpocken aus Spanien
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/582"
 language: de
-version: 2022-10-14
+version: 2022-11-05
 adopted: 2022-10-12
 in_force: 2022-10-14
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/582/20221014/de/xml/fedlex-data-admin-ch-eli-cc-2022-582-20221014-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/582/20221014/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/582/20221105/de/xml/fedlex-data-admin-ch-eli-cc-2022-582-20221105-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/582/20221105/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des BLV über Massnahmen zur Verhinderung der Einschleppung der Schaf- und Ziegenpocken aus Spanien
 
-vom 12. Oktober 2022 (Stand am 14. Oktober 2022)
+vom 12. Oktober 2022 (Stand am 5. November 2022)
 
 Das Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV),
 
@@ -141,19 +141,17 @@ Die Genehmigung zum Verbringen aus den Sperrzonen der zuständigen Behörde in S
 
 <sup>2</sup> Sie gilt bis zum 31. Dezember 2022.
 
-<table>
-<tr><td>12. Oktober 2022</td><td>Bundesamt für Lebensmittelsicherheit und Veterinärwesen: i.V. Thomas Jemmi</td></tr>
-</table>
-
-Anhang
+Anhang[^t-1]
 
 (Art. 2–7)
 
 ## Sperrzonen
 
+[^t-1]: Fassung gemäss Ziff. I der V des BLV vom 3. Nov. 2022, in Kraft seit 5. Nov. 2022 ([AS 2022 643](https://fedlex.data.admin.ch/eli/oc/2022/643)).
+
 Die Sperrzonen sind in folgendem Durchführungsbeschluss festgelegt:
 
 <table>
-<tr><th>EU-Grunderlass</th><th>Titel und Publikationsdatum des Grunderlasses sowie Änderungserlasse mit Publikationsdaten</th></tr>
-<tr><td>Durchführungsbeschluss (EU) 2022/1913</td><td>Durchführungsbeschluss (EU) 2022/1913 der Kommission vom 4. Oktober 2022 betreffend bestimmte Sofortmassnahmen in Bezug auf die Pockenseuche der Schafe und Ziegen in Spanien, Fassung gemäss ABl. L 261 vom 7.10.2022, S. 53.</td></tr>
+<tr><td>EU-Grunderlass</td><td>Titel und Publikationsdatum des Grunderlasses sowie Änderungserlasse mit Publikationsdaten</td></tr>
+<tr><td>Durchführungsbeschluss (EU) 2022/1913</td><td>Durchführungsbeschluss (EU) 2022/1913 der Kommission vom 4. Oktober 2022 betreffend bestimmte Sofortmassnahmen in Bezug auf die Pockenseuche der Schafe und Ziegen in Spanien, ABl. L 261 vom 7.10.2022, S. 53; zuletzt geändert durch Durchführungsbeschluss (EU) 2022/2004, ABl. L 274 vom 24.10.2022, S. 69</td></tr>
 </table>

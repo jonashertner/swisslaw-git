@@ -3,18 +3,18 @@ sr: "916.443.118"
 title: Ordinanza dell’USAV del 12 ottobre 2022 che istituisce provvedimenti per evitare l’introduzione del vaiolo degli ovini e dei caprini dalla Spagna
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/582"
 language: it
-version: 2022-10-14
+version: 2022-11-05
 adopted: 2022-10-12
 in_force: 2022-10-14
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/582/20221014/it/xml/fedlex-data-admin-ch-eli-cc-2022-582-20221014-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/582/20221014/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/582/20221105/it/xml/fedlex-data-admin-ch-eli-cc-2022-582-20221105-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/582/20221105/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza dell’USAV che istituisce provvedimenti per evitare l’introduzione del vaiolo degli ovini e dei caprini dalla Spagna
 
-del 12 ottobre 2022 (Stato 14 ottobre 2022)
+del 12 ottobre 2022 (Stato 5 novembre 2022)
 
 L’Ufficio federale della sicurezza alimentare e di veterinaria (USAV),
 
@@ -141,15 +141,17 @@ L’autorizzazione al movimento fuori dalle zone soggette a restrizioni concessa
 
 <sup>2</sup> Ha effetto sino al 31 dicembre 2022.
 
-Allegato
+Allegato[^t-1]
 
 (art. 2–7)
 
 ## Zone soggette a restrizioni
 
+[^t-1]: Nuovo testo giusta il n. I dell’O dell’USAV del 3 nov. 2022, in vigore dal 5 nov. 2022 ([RU 2022 643](https://fedlex.data.admin.ch/eli/oc/2022/643)).
+
 Le zone soggette a restrizioni sono definite nella seguente decisione di esecuzione:
 
 <table>
 <tr><th>Atto normativo di base UE</th><th>Titolo e data di pubblicazione dell’atto normativo di base nonché atti modificatori con date di pubblicazione</th></tr>
-<tr><td>Decisione di esecuzione (UE) 2022/1913</td><td>Decisione di esecuzione (UE) 2022/1913 della Commissione, del 4 ottobre 2022, relativa ad alcune misure di emergenza contro il vaiolo degli ovini e dei caprini in Spagna, versione pubblicata nella GU L 261 del 7.10.2022, pag. 53.</td></tr>
+<tr><td>Decisione di esecuzione (UE) 2022/1913</td><td>Decisione di esecuzione (UE) 2022/1913 della Commissione, del 4 ottobre 2022, relativa ad alcune misure di emergenza contro il vaiolo degli ovini e dei caprini in Spagna, GU L 261 del 7.10.2022, pag. 53; modificata da ultimo dalla decisione di esecuzione (UE) 2022/2004 GU L 274 del 24.10.2022, pag. 69</td></tr>
 </table>

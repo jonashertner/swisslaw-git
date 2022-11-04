@@ -3,18 +3,18 @@ sr: "916.443.118"
 title: Ordonnance de l’OSAV du 12 octobre 2022 instituant des mesures destinées à prévenir l’introduction de la clavelée et de la variole caprine présentes en Espagne
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/582"
 language: fr
-version: 2022-10-14
+version: 2022-11-05
 adopted: 2022-10-12
 in_force: 2022-10-14
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/582/20221014/fr/xml/fedlex-data-admin-ch-eli-cc-2022-582-20221014-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/582/20221014/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/582/20221105/fr/xml/fedlex-data-admin-ch-eli-cc-2022-582-20221105-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/582/20221105/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance de l’OSAV instituant des mesures destinées à prévenir l’introduction de la clavelée et de la variole caprine présentes en Espagne
 
-du 12 octobre 2022 (État le 14 octobre 2022)
+du 12 octobre 2022 (État le 5 novembre 2022)
 
 L’Office fédéral de la sécurité alimentaire et des affaires vétérinaires (OSAV),
 
@@ -141,15 +141,17 @@ L’autorisation de mouvements hors des zones réglementées est considérée d�
 
 <sup>2</sup> Elle a effet jusqu’au 31 décembre 2022.
 
-Annexe
+Annexe[^t-1]
 
 (art. 2 à 7)
 
 ## Zones réglementées
 
+[^t-1]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 3 nov. 2022, en vigueur depuis le 5 nov. 2022 ([RO 2022 643](https://fedlex.data.admin.ch/eli/oc/2022/643)).
+
 Les zones réglementées sont inscrites dans la décision d’exécution suivante:
 
 <table>
 <tr><th>Acte législatif de l’UE</th><th>Titre et date de publication de l’acte législatif et dates de publication des actes modificateurs</th></tr>
-<tr><td>Décision d’exécution (UE) 2022/1913</td><td>Décision d’exécution (UE) 2022/1913 de la Commission du 4 octobre 2022 concernant certaines mesures d’urgence relatives à la clavelée et à la variole caprine en Espagne, version du JO L 261 du 7.10.2022, p. 53</td></tr>
+<tr><td>Décision d’exécution (UE) 2022/1913</td><td>Décision d’exécution (UE) 2022/1913 de la Commission du 4 octobre 2022 concernant certaines mesures d’urgence relatives à la clavelée et à la variole caprine en Espagne, JO L 261 du 7.10.2022, p. 53; modifiée en dernier lieu par la décision d’exécution (UE) 2022/2004, JO L 274 du 24.10.2022, p. 69</td></tr>
 </table>
