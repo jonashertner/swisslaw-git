@@ -3,18 +3,18 @@ sr: "916.443.108"
 title: "Ordinanza dell'USAV dell' 8 luglio 2014 che istituisce provvedimenti per prevenire l'introduzione della peste suina classica da taluni Stati membri dell'Unione europea"
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/377"
 language: it
-version: 2014-07-09
+version: 2022-11-05
 adopted: 2014-07-08
 in_force: 2014-07-09
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/377/20140709/it/xml/fedlex-data-admin-ch-eli-cc-2014-377-20140709-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/377/20140709/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/377/20221105/it/xml/fedlex-data-admin-ch-eli-cc-2014-377-20221105-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/377/20221105/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza dell’USAV che istituisce provvedimenti per prevenire l’introduzione della peste suina classica da taluni Stati membri dell’Unione europea
 
-dell’8 luglio 2014 (Stato 9 luglio 2014) (Stato 9 luglio 2014)
+dell’8 luglio 2014 (Stato 5 novembre 2022) (Stato 5 novembre 2022)
 
 L’Ufficio federale della sicurezza alimentare e di veterinaria (USAV),
 
@@ -51,15 +51,17 @@ L’importazione di sperma, ovuli ed embrioni di suini provenienti dalle zone el
 
 <sup>1</sup> L’importazione di carni suine fresche e di preparati e prodotti a base di carni suine ottenute da animali provenienti da aziende situate nelle zone elencate nell’allegato è vietata.
 
-<sup>2</sup> In deroga al capoverso 1, il divieto non si applica all’importazione di carni fresche di suini e di preparati e prodotti a base di carni suine provenienti dalle zone elencate nell’allegato e conformi alle condizioni di cui all’articolo 4 della decisione di esecuzione 2013/764/UE[^4-1].
+<sup>2</sup> In deroga al capoverso 1, il divieto non si applica all’importazione di carni fresche di suini e di preparati e prodotti a base di carni suine provenienti dalle zone elencate nell’allegato e conformi alle condizioni di cui al regolamento delegato (UE) 2020/687[^4-1].[^4-2]
 
 <sup>3</sup> All’importazione, i prodotti di cui al capoverso 2 devono essere contrassegnati da un particolare marchio sanitario che non abbia forma ovale e che non possa essere confuso con altri marchi sanitari.
 
 <sup>4</sup> All’importazione, i prodotti di cui al capoverso 2 devono essere accompagnati dal pertinente certificato sanitario richiesto per gli scambi in seno all’Unione europea, sul quale deve figurare la dicitura:
 
-«Prodotti conformi alla decisione di esecuzione 2013/764/UE della Commissione, del 13 dicembre 2013, recante misure di protezione contro la peste suina classica in taluni Stati membri.»
+«Prodotti conformi al regolamento delegato (UE) 2020/687 della Commissione, del 17 dicembre 2019, che integra il regolamento (UE) 2016/429 del Parlamento europeo e del Consiglio per quanto riguarda le norme relative alla prevenzione e al controllo di determinate malattie elencate.»[^4-3]
 
-[^4-1]: Decisione di esecuzione 2013/764/UE della Commissione, del 13 dicembre 2013, recante misure di protezione contro la peste suina classica in taluni Stati membri, versione della GU L 338 del 17.12.2013, pag. 102.
+[^4-1]: Regolamento delegato (UE) 2020/687 della Commissione, del 17 dicembre 2019, che integra il regolamento (UE) 2016/429 del Parlamento europeo e del Consiglio per quanto riguarda le norme relative alla prevenzione e al controllo di determinate malattie elencate, GU L 174 del 3.6.2020, pag. 64; modificato da ultimo dal regolamento (UE) 2021/1140, GU L 247 del 13.7.2021, pag. 50.
+[^4-2]: Nuovo testo giusta il n. I dell’O dell’USAV del 3 nov. 2022, in vigore dal 5 nov. 2022 ([RU 2022 642](https://fedlex.data.admin.ch/eli/oc/2022/642)).
+[^4-3]: Nuovo testo giusta il n. I dell’O dell’USAV del 3 nov. 2022, in vigore dal 5 nov. 2022 ([RU 2022 642](https://fedlex.data.admin.ch/eli/oc/2022/642)).
 
 #### Art. 5
 
@@ -67,43 +69,16 @@ L’importazione di sperma, ovuli ed embrioni di suini provenienti dalle zone el
 
 La presente ordinanza entra in vigore il 9 luglio 2014.
 
-Allegato
+Allegato[^t-1]
 
 (art. 2, 3, 4, cpv. 1 e 2)
 
 ## Stati membri e zone interessate
 
-### Bulgaria
-
-Le seguenti zone in Bulgaria:
-
-- – tutto il territorio della Bulgaria.
-
-### Croazia
-
-Le seguenti zone in Croazia:
-
-- – il territorio dei Comitati di Karlovac, Sisak-Moslavina, Slavonski Brod-Posavina e Vukovar-Sirmia.
-
-### Lettonia
-
-Le seguenti zone in Lettonia:
-
-- – nel distretto di Alūksne, i Comuni di Pededze e Liepna;
-- – nel distretto di Rēzekne, i Comuni di Puša, Mākoņkalns e Kaunata;
-- – nel distretto di Daugavpils, i Comuni di Dubna, Višķi, Ambeļi, Biķernieki, Maļinova, Naujene, Tabore, Vecsaliena, Saliena, Skrudaliena, Demene e Laucesa;
-- – nel distretto di Balvi, i Comuni di Vīksna, Kubuli, Balvi, Bērzkalne, Lazduleja, Briežuciems, Vectilža, Tilža, Krišjāņi e Bērzpils;
-- – nel distretto di Rugāji, i Comuni di Rugāji e Lazdukalns. Nel distretto di Viļaka, i Comuni di Žiguri, Vecumi, Kuprava, Susāji, Medņeva e Šķilbēni;
-- – nel distretto di Baltinava, il Comune di Baltinava;
-- – nel distretto di Kārsava, i Comuni di Salnava, Malnava, Goliševa, Mērdzene e Mežvidi. Nel distretto di Cibla, i Comuni di Pušmucova, Līdumnieki, Cibla, Zvirgzdene e Blonti;
-- – nel distretto di Ludza, i Comuni di Ņukši, Briģi, Isnauda, Nirza, Pilda, Rundēni e Istra;
-- – nel distretto di Zilupe, i Comuni di Zaļesje, Lauderi e Pasiene;
-- – nel distretto di Dagda, i Comuni di Andzeļi, Ezernieki, Šķaune, Svariņi, Bērziņi, Ķepova, Asūne, Dagda, Konstantinova e Andrupene;
-- – nel distretto di Aglona, i Comuni di Kastuļina, Grāveri, Šķeltova e Aglona;
-- – nel distretto di Krāslava, i Comuni di Auleja, Kombuļi, Skaista, Robežnieki, Indra, Piedruja, Kalnieši, Krāslava, Kaplava, Ūdrīši e Izvalta.
+[^t-1]: Nuovo testo giusta il n. II dell’O dell’USAV del 3 nov. 2022, in vigore dal 5 nov. 2022 ([RU 2022 642](https://fedlex.data.admin.ch/eli/oc/2022/642)).
 
 ### Romania
 
 Le seguenti zone in Romania:
 
-– tutto il territorio della Romani
+– tutto il territorio della Romania.
