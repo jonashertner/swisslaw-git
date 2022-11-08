@@ -4,11 +4,11 @@ title: "Ordinanza del 1<sup>o</sup> ottobre 1984 sull'acquisto di fondi da parte
 short: OAFE
 eli: "https://fedlex.data.admin.ch/eli/cc/1984/1164_1164_1164"
 language: it
-version: 2021-03-01
+version: 2022-11-09
 adopted: 1984-10-01
 in_force: 1985-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/1164_1164_1164/20210301/it/xml/fedlex-data-admin-ch-eli-cc-1984-1164_1164_1164-20210301-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1984/1164_1164_1164/20210301/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/1164_1164_1164/20221109/it/xml/fedlex-data-admin-ch-eli-cc-1984-1164_1164_1164-20221109-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1984/1164_1164_1164/20221109/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1984/1164_1164_1164/20210301/it"
 
 (OAFE)
 
-del 1° ottobre 1984 (Stato 1° marzo 2021) (Stato 1° marzo 2021)
+del 1° ottobre 1984 (Stato 9 novembre 2022)
 
 Il Consiglio federale svizzero,
 
@@ -66,7 +66,7 @@ Non sono considerati persone all’estero (art. 5 cpv. 1 lett. a LAFE), se hanno
 - a. i cittadini degli Stati membri dell’Unione europea (UE) o dell’Associazione europea di libero scambio (AELS);
 - b. i cittadini del Regno Unito di Gran Bretagna e Irlanda del Nord giusta l’articolo 5 capoverso 1 lettera a numero 2 LAFE.[^2-3]
 
-<sup>2</sup> La legittimità del domicilio presuppone inoltre un permesso per dimoranti temporanei, di dimora o di domicilio UE / AELS valido (art. 4 cpv. 1 e 5 dell’O del 23 maggio 2001[^2-4] sull’introduzione della libera circolazione delle persone, OLCP) per la costituzione di un domicilio.[^2-5]
+<sup>2</sup> La legittimità del domicilio presuppone inoltre un permesso per dimoranti tempora-nei, di dimora o di domicilio UE / AELS valido (art. 4 cpv. 1 e 5 dell’O del 22 maggio 2002[^2-4] sulla libera circolazione delle persone, OLCP) per la costituzione di un domicilio.[^2-5]
 
 <sup>3</sup> Sono considerate persone che non hanno il diritto di stabilirsi in Svizzera (art. 5 cpv. 1 lett. a<sup>bis</sup> LAFE) gli stranieri senza un permesso di domicilio valido (art. 34 della LF del 16 dicembre 2005[^2-6] sugli stranieri e la loro integrazione; LStrI[^2-7]).[^2-8]
 
@@ -76,7 +76,7 @@ Non sono considerati persone all’estero (art. 5 cpv. 1 lett. a LAFE), se hanno
 [^2-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 [^2-3]: Nuovo testo giusta il n. I dell’O del 20 gen. 2021, in vigore dal 1° mar. 2021 ([RU 2021 87](https://fedlex.data.admin.ch/eli/oc/2021/87)).
 [^2-4]: [RS 142.203](https://fedlex.data.admin.ch/eli/cc/2002/261)
-[^2-5]: Nuovo testo giusta il n. I dell’O del 20 gen. 2021, in vigore dal 1° mar. 2021 ([RU 2021 87](https://fedlex.data.admin.ch/eli/oc/2021/87)).
+[^2-5]: Nuovo testo giusta il n. I dell’O del 20 gen. ([RU 2021 87](https://fedlex.data.admin.ch/eli/oc/2021/87)). Correzione del 9 nov. 2022 ([RU 2022 656](https://fedlex.data.admin.ch/eli/oc/2022/656)).
 [^2-6]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
 [^2-7]: Il titolo è stato adattato in applicazione dell’art. 12 cpv. 2 della LF del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° gen. 2019. Di detta mod. è tenuto conto in tutto il presente testo.
 [^2-8]: Nuovo testo giusta il n. I 2 dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5627](https://fedlex.data.admin.ch/eli/oc/2007/773)).
@@ -400,7 +400,7 @@ Sono abrogate:
 
 <sup>2</sup> Gli oneri derivanti da autorizzazioni rilasciate conformemente al diritto previgente (DF del 23 marzo 1961[^21-3] sull’acquisto di fondi da parte di persone all’estero, DCF del 26 giugno 1972[^21-4] che vieta l’investimento di capitali stranieri in immobili svizzeri e O del 10 novembre 1976[^21-5] sull’acquisto di fondi in luoghi turistici da parte di persone all’estero), restano in vigore; rimangono salvi il capoverso 2 delle disposizioni finali della modifica del 30 aprile 1997[^21-6] e le disposizioni finali delle modifiche dell’8 ottobre 1999[^21-7], del 14 dicembre 2001[^21-8] e del 25 settembre 2020[^21-9] della LAFE.[^21-10]
 
-[^21-1]: [[RU 1974 95](https://fedlex.data.admin.ch/eli/oc/1974/94_94_95)[998](https://fedlex.data.admin.ch/eli/oc/1974/__998), [1976 607](https://fedlex.data.admin.ch/eli/oc/1976/607_607_607)[884](https://fedlex.data.admin.ch/eli/oc/1976/884_884_884)[1746](https://fedlex.data.admin.ch/eli/oc/1976/1746_1746_1746)]
+[^21-1]: [[RU 1974 95](https://fedlex.data.admin.ch/eli/oc/1974/94_94_95), [998](https://fedlex.data.admin.ch/eli/oc/1974/__998); [1976 607](https://fedlex.data.admin.ch/eli/oc/1976/607_607_607), [884](https://fedlex.data.admin.ch/eli/oc/1976/884_884_884), [1746](https://fedlex.data.admin.ch/eli/oc/1976/1746_1746_1746)]
 [^21-2]: [[RU 1964 314](https://fedlex.data.admin.ch/eli/oc/1964/322_314_314)]
 [^21-3]: [[RU 1961 213](https://fedlex.data.admin.ch/eli/oc/1961/203_209_213), [1965 1240](https://fedlex.data.admin.ch/eli/oc/1965/1239_1252_1240), [1970 1195](https://fedlex.data.admin.ch/eli/oc/1970/1199_1195_1195), [1974 83](https://fedlex.data.admin.ch/eli/oc/1974/83_83_83), [1977 1689](https://fedlex.data.admin.ch/eli/oc/1977/1689_1689_1689)n. II, [1982 1914](https://fedlex.data.admin.ch/eli/oc/1982/1914_1914_1914)]
 [^21-4]: [[RU 1972 1238](https://fedlex.data.admin.ch/eli/oc/1972/1062_1074_1238)]

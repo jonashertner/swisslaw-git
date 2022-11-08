@@ -4,11 +4,11 @@ title: "Ordonnance du 1<sup>er</sup> octobre 1984 sur l'acquisition d'immeubles 
 short: OAIE
 eli: "https://fedlex.data.admin.ch/eli/cc/1984/1164_1164_1164"
 language: fr
-version: 2021-03-01
+version: 2022-11-09
 adopted: 1984-10-01
 in_force: 1985-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/1164_1164_1164/20210301/fr/xml/fedlex-data-admin-ch-eli-cc-1984-1164_1164_1164-20210301-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1984/1164_1164_1164/20210301/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/1164_1164_1164/20221109/fr/xml/fedlex-data-admin-ch-eli-cc-1984-1164_1164_1164-20221109-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1984/1164_1164_1164/20221109/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1984/1164_1164_1164/20210301/fr"
 
 (OAIE)
 
-du 1<sup>er</sup> octobre 1984 (Etat le 1<sup>er</sup> mars 2021)
+du 1<sup>er</sup> octobre 1984 (État le 9 novembre 2022)
 
 Le Conseil fédéral suisse,
 
@@ -65,7 +65,7 @@ Ne sont pas considérés comme des personnes à l’étranger les ressortissants
 - a. les ressortissants des États membres de l’Union européenne (UE) ou de l’Association européenne de libre-échange (AELE);
 - b. les ressortissants du Royaume-Uni de Grande-Bretagne et d’Irlande du Nord au sens de l’art. 5, al. 1, let. a, ch. 2, LFAIE.[^2-3]
 
-<sup>2</sup> Le domicile légalement constitué présuppose en outre une autorisation de séjour de courte durée, de séjour ou d’établissement UE-AELE valable (art. 4, al. 1 et 2, et art. 5 de l’ordonnance du 23 mai 2001 sur l’introduction de la libre circulation des personnes [OLCP][^2-4]) permettant de créer un domicile.[^2-5]
+<sup>2</sup> Le domicile légalement constitué présuppose en outre une autorisation de séjour de courte durée, de séjour ou d’établissement UE-AELE valable (art. 4, al. 1, et art. 5 de l’ordonnance du 22 mai 2002 sur la libre circulation des personnes [OLCP][^2-4]) permettant de créer un domicile.[^2-5]
 
 <sup>3</sup> Par personnes qui n’ont pas le droit de s’établir en Suisse (art. 5, al. 1, let. a<sup>bis</sup>, LFAIE), on entend les étrangers dépourvus d’une autorisation valable d’établissement (art. 34 de la LF du 16 déc. 2005 sur les étrangers; LEtr)[^2-6].[^2-7]
 
@@ -75,7 +75,7 @@ Ne sont pas considérés comme des personnes à l’étranger les ressortissants
 [^2-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 [^2-3]: Nouvelle teneur selon le ch. I de l’O du 20 janv. 2021, en vigueur depuis le 1<sup>er</sup> mars 2021 ([RO 2021 87](https://fedlex.data.admin.ch/eli/oc/2021/87)).
 [^2-4]: [RS 142.203](https://fedlex.data.admin.ch/eli/cc/2002/261)
-[^2-5]: Nouvelle teneur selon le ch. I de l’O du 20 janv. 2021, en vigueur depuis le 1<sup>er</sup> mars 2021 ([RO 2021 87](https://fedlex.data.admin.ch/eli/oc/2021/87)).
+[^2-5]: Nouvelle teneur selon le ch. I de l’O du 20 janv. 2021, en vigueur depuis le 1<sup>er</sup> mars 2021 ([RO 2021 87](https://fedlex.data.admin.ch/eli/oc/2021/87)). Erratum du 9 nov. 2022 ([RO 2022 656](https://fedlex.data.admin.ch/eli/oc/2022/656)).
 [^2-6]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
 [^2-7]: Nouvelle teneur selon le ch. I 2 de l’O du 24 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5627](https://fedlex.data.admin.ch/eli/oc/2007/773)).
 
@@ -411,7 +411,7 @@ Sont abrogées:
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 1985.
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 (art. 9, al. 1 et 5)
 

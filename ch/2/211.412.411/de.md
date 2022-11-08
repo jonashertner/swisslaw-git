@@ -4,11 +4,11 @@ title: Verordnung vom 1. Oktober 1984 über den Erwerb von Grundstücken durch P
 short: BewV
 eli: "https://fedlex.data.admin.ch/eli/cc/1984/1164_1164_1164"
 language: de
-version: 2021-03-01
+version: 2022-11-09
 adopted: 1984-10-01
 in_force: 1985-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/1164_1164_1164/20210301/de/xml/fedlex-data-admin-ch-eli-cc-1984-1164_1164_1164-20210301-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1984/1164_1164_1164/20210301/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/1164_1164_1164/20221109/de/xml/fedlex-data-admin-ch-eli-cc-1984-1164_1164_1164-20221109-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1984/1164_1164_1164/20221109/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1984/1164_1164_1164/20210301/de"
 
 (BewV)
 
-vom 1. Oktober 1984 (Stand am 1. März 2021)
+vom 1. Oktober 1984 (Stand am 9. November 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -65,7 +65,7 @@ Nicht als Personen im Ausland gelten die folgenden Personen, sofern sie ihren Wo
 - a. Staatsangehörige der Mitgliedstaaten der Europäischen Union (EU) oder der Europäischen Freihandelsassoziation (EFTA);
 - b. Staatsangehörige des Vereinigten Königreichs von Grossbritannien und Nordirland nach Artikel 5 Absatz 1 Buchstabe a Ziffer 2 BewG.[^2-3]
 
-<sup>2</sup> Die Rechtmässigkeit des Wohnsitzes setzt ausserdem eine gültige Kurzaufenthalts‑, Aufenthalts‑ oder Niederlassungsbewilligung EU-EFTA (Art. 4 Abs. 1 und Art. 5 der V vom 23. Mai 2001[^2-4] über die Einführung des freien Personenverkehrs; VEP) zur Wohnsitznahme voraus.[^2-5]
+<sup>2</sup> Die Rechtmässigkeit des Wohnsitzes setzt ausserdem eine gültige Kurzaufenthalts‑, Aufenthalts‑ oder Niederlassungsbewilligung EU-EFTA (Art. 4 Abs. 1 und Art. 5 der V vom 22. Mai 2002[^2-4] über den freien Personenverkehr, VFP) zur Wohnsitznahme voraus.[^2-5]
 
 <sup>3</sup> Als Personen, die nicht das Recht haben, sich in der Schweiz niederzulassen (Art. 5 Abs. 1 Bst. a<sup>bis</sup> BewG), gelten Ausländer ohne gültige Niederlassungsbewilligung (Art. 34 des Ausländer- und Integrationsgesetzes vom 16. Dez. 2005[^2-6] (AIG)[^2-7].[^2-8]
 
@@ -75,7 +75,7 @@ Nicht als Personen im Ausland gelten die folgenden Personen, sofern sie ihren Wo
 [^2-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 [^2-3]: Fassung gemäss Ziff. I der V vom 20. Jan. 2021, in Kraft seit 1. März 2021 ([AS 2021 87](https://fedlex.data.admin.ch/eli/oc/2021/87)).
 [^2-4]: [SR 142.203](https://fedlex.data.admin.ch/eli/cc/2002/261)
-[^2-5]: Fassung gemäss Ziff. I der V vom 20. Jan. 2021, in Kraft seit 1. März 2021 ([AS 2021 87](https://fedlex.data.admin.ch/eli/oc/2021/87)).
+[^2-5]: Fassung gemäss Ziff. I der V vom 20. Jan. 2021, in Kraft seit 1. März 2021 ([AS 2021 87](https://fedlex.data.admin.ch/eli/oc/2021/87)). Berichtigung vom 9. Nov. 2022 ([AS 2022 656](https://fedlex.data.admin.ch/eli/oc/2022/656)).
 [^2-6]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
 [^2-7]: Der Titel wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. Jan. 2019 angepasst. Diese Anpassung wurde im ganzen Text vorgenommen.
 [^2-8]: Fassung gemäss Ziff. I 2 der V vom 24. Okt. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5627](https://fedlex.data.admin.ch/eli/oc/2007/773)).
@@ -132,7 +132,7 @@ Eine andere Berechtigung steht zu, wenn im Übrigen die Voraussetzungen des Wohn
 
 **Apparthotels**
 
-<sup>1</sup> ...[^7-1]
+<sup>1</sup> …[^7-1]
 
 <sup>2</sup> Die dauernde hotelmässige Bewirtschaftung (Art. 10 Bst. b BewG) wird sichergestellt, indem die Stockwerkeigentümer im Begründungsakt und im Verwaltungs- und Nutzungsreglement (Art. 712*d* ff. ZGB[^7-2]) darauf verpflichtet werden; die Bewilligungen werden unter den dafür vorgeschriebenen Auflagen erteilt (Art. 11 Abs. 2 Bst. g).
 
@@ -180,7 +180,7 @@ Als Erwerb einer Wohnung durch eine natürliche Person (Art. 2 Abs. 2 Bst. b, 7 
 
 **Zulässige Fläche**
 
-<sup>1</sup> ...[^10-1]
+<sup>1</sup> …[^10-1]
 
 <sup>2</sup> Die Nettowohnfläche von Zweitwohnungen im Sinne von Artikel 9 Absatz 1 Buchstabe c BewG, Ferienwohnungen und Wohneinheiten in Apparthotels darf 200 m<sup>2</sup> in der Regel nicht übersteigen.[^10-2]
 
@@ -321,7 +321,7 @@ Für einen Erwerb nach Artikel 2 Absatz 2 Buchstabe b BewG (Hauptwohnung) ist au
 
 Für den Erwerb einer Zweitwohnung durch einen Grenzgänger in der Region des Arbeitsorts (Art. 7 Bst. j Ziff. 1 und 2 BewG) ist auf die Verweisung zu verzichten, wenn:[^18a-2]
 
-- a.[^18a-3] der Erwerber eine gültige Grenzgängerbewilligung EU-EFTA (Art. 4 Abs. 1 VEP[^18a-4]) vorlegt;
+- a.[^18a-3] der Erwerber eine gültige Grenzgängerbewilligung EU-EFTA (Art. 4 Abs. 1 VFP[^18a-4]) vorlegt;
 - b. er schriftlich erklärt, das Grundstück als Zweitwohnung zu erwerben;
 - c. die Fläche des Grundstücks 1000 m<sup>2</sup> nicht übersteigt.[^18a-5]
 
@@ -368,7 +368,7 @@ Die Bewilligungsbehörde holt, bevor sie entscheidet, die Stellungnahme ein:
 Die Statistik über den Erwerb von Grundstücken durch Personen im Ausland (Art. 24 Abs. 3 BewG) erfasst:
 
 - a.[^20-1] die Anzahl der Bewilligungen für den Erwerb von Ferienwohnungen und Wohneinheiten in Apparthotels, Ort, Art und Fläche des Grundstückes, Staatsangehörigkeit des Erwerbers und die entsprechenden Handänderungen;
-- b. ...[^20-2]
+- b. …[^20-2]
 - c.[^20-3] den schweizerischen Rückerwerb von Ferienwohnungen und Wohneinheiten in Apparthotels.
 
 <sup>2</sup> Die Grundbuchverwalter melden die entsprechenden Eintragungen dem Bundesamt für Justiz unverzüglich und unentgeltlich mit dem Formular, das ihnen das Bundesamt zur Verfügung stellt; die Kantone können bestimmen, dass die Meldungen über die Bewilligungs- oder beschwerdeberechtigte Behörde erfolgen.
@@ -415,7 +415,7 @@ Es werden aufgehoben:
 
 Diese Verordnung tritt am 1. Januar 1985 in Kraft.
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 9 Abs. 1 und 5)
 
