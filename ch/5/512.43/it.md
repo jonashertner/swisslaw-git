@@ -4,11 +4,11 @@ title: "Ordinanza del 22 novembre 2017 sul contributo per la formazione per i qu
 short: OCFQE
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/812"
 language: it
-version: 2020-06-01
+version: 2022-11-10
 adopted: 2017-11-22
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/812/20200601/it/xml/fedlex-data-admin-ch-eli-cc-2017-812-20200601-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/812/20200601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/812/20221110/it/xml/fedlex-data-admin-ch-eli-cc-2017-812-20221110-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/812/20221110/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/812/20200601/it"
 
 (OCFQE)
 
-del 22 novembre 2017 (Stato 1° giugno 2020)
+del 22 novembre 2017 (Stato 10 novembre 2022)
 
 Il Consiglio federale svizzero,
 
@@ -87,7 +87,7 @@ ordina:
 Si deroga a tale principio nel caso di:
 
 - a. *militari in ferma continuata:* il diritto cessa al raggiungimento del limite d’età del grado corrispondente conformemente all’articolo 13 capoverso 1 LM;
-- b. *proscioglimento anticipato dall’obbligo di prestare servizio militare per in**i**doneità al servizio:* il diritto cessa con l’accertamento, da parte della Commissione per la visita sanitaria, dell’inidoneità al servizio, eccetto in caso di infortuni causati dal servizio militare;
+- b. *proscioglimento anticipato dall’obbligo di prestare servizio militare per inidoneità al servizio:* il diritto cessa con l’accertamento, da parte della Commissione per la visita sanitaria, dell’inidoneità al servizio, eccetto in caso di infortuni causati dal servizio militare;
 - c. *militari che presentano una domanda di ammissione al servizio civile:* il diritto cessa con la presentazione della domanda di ammissione al servizio civile;
 - d. *esenzione dal servizio secondo l’articolo 18 LM:* durante il periodo di esenzione dal servizio non sussiste alcun diritto alla riscossione del contributo per la formazione;
 - e. *esclusione dall’esercito secondo l’articolo 22 LM:* durante il periodo di esclusione non sussiste alcun diritto alla riscossione del contributo per la formazione;
@@ -146,9 +146,10 @@ Occorre inoltrare la seguente documentazione:
 - b. la fattura o il relativo giustificativo del pagamento;
 - c. l’apposito modulo debitamente compilato e firmato.
 
-<sup>3</sup> Le domande che non vengono corredate di sufficiente documentazione entro il termine di cui al capoverso 2 possono essere respinte.
+<sup>3</sup> Le domande che non vengono corredate di sufficiente documentazione entro il termine di cui al capoverso 1 lettera a possono essere respinte.[^6-2]
 
 [^6-1]: Nuovo testo giusta il n. I dell’O del 22 apr. 2020, in vigore dal 1° giu. 2020 ([RU 2020 1549](https://fedlex.data.admin.ch/eli/oc/2020/308)).
+[^6-2]: Correzione del 10 nov. 2022 ([RU 2022 664](https://fedlex.data.admin.ch/eli/oc/2022/664)).
 
 #### Art. 7
 

@@ -4,11 +4,11 @@ title: Verordnung vom 22. November 2017 über die Ausbildungsgutschrift für Mil
 short: VAK
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/812"
 language: de
-version: 2020-06-01
+version: 2022-11-10
 adopted: 2017-11-22
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/812/20200601/de/xml/fedlex-data-admin-ch-eli-cc-2017-812-20200601-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/812/20200601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/812/20221110/de/xml/fedlex-data-admin-ch-eli-cc-2017-812-20221110-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/812/20221110/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/812/20200601/de"
 
 (VAK)
 
-vom 22. November 2017 (Stand am 1. Juni 2020)
+vom 22. November 2017 (Stand am 10. November 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -87,8 +87,8 @@ verordnet:
 Von diesem Grundsatz abgewichen wird bei:
 
 - a. *Durchdienenden:* Der Anspruch endet mit Ablauf der Altersgrenze des entsprechenden Grades gemäss Artikel 13 Absatz 1 MG.
-- b. *vorzeitiger Entlassung aus der Militärdienstpflicht infolge von Dienstu**n**tauglichkeit:* Der Anspruch endet mit der Feststellung der Dienstuntauglichkeit durch die medizinische Untersuchungskommission; der Anspruch bleibt bestehen bei Unfällen, die durch den Militärdienst verursacht wurden.
-- c. *Angehörigen der Armee, die ein Gesuch um Zulassung zum Zivildienst ei**n**reichen:* Der Anspruch endet mit der Einreichung des Gesuchs um Zulassung zum Zivildienst.
+- b. *vorzeitiger Entlassung aus der Militärdienstpflicht infolge von Dienstuntauglichkeit:* Der Anspruch endet mit der Feststellung der Dienstuntauglichkeit durch die medizinische Untersuchungskommission; der Anspruch bleibt bestehen bei Unfällen, die durch den Militärdienst verursacht wurden.
+- c. *Angehörigen der Armee, die ein Gesuch um Zulassung zum Zivildienst einreichen:* Der Anspruch endet mit der Einreichung des Gesuchs um Zulassung zum Zivildienst.
 - d. *Dienstbefreiung gemäss Artikel 18 MG:* Während der Dauer der Dienstbefreiung besteht kein Anspruch auf Bezug der Ausbildungsgutschrift.
 - e. *Ausschluss aus der Armee gemäss Artikel 22 MG:* Während der Dauer des Ausschlusses besteht kein Anspruch auf Bezug der Ausbildungsgutschrift.
 - f. *Degradation gemäss Artikel 22a MG:* Der Anspruch erlischt mit der Degradation.
@@ -146,9 +146,10 @@ Folgende Unterlagen sind einzureichen:
 - b. die Rechnung und der dazugehörige Zahlungsbeleg;
 - c. das vollständig ausgefüllte und unterschriebene Antragsformular.
 
-<sup>3</sup> Gesuche, die innert der Frist gemäss Absatz 1 Buchstabe a nicht ausreichend belegt werden, können abgelehnt werden.
+<sup>3</sup> Gesuche, die innert der Frist gemäss Absatz 1 Buchstabe a nicht ausreichend belegt werden, können abgelehnt werden.[^6-2]
 
 [^6-1]: Fassung gemäss Ziff. I der V vom 22. April 2020, in Kraft seit 1. Juni 2020 ([AS 2020 1549](https://fedlex.data.admin.ch/eli/oc/2020/308)).
+[^6-2]: Die Berichtigung vom 10. Nov. 2022 betrifft nur den italienischen Text ([AS 2022 664](https://fedlex.data.admin.ch/eli/oc/2022/664)).
 
 #### Art. 7
 

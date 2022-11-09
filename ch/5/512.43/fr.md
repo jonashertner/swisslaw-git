@@ -4,11 +4,11 @@ title: "Ordonnance du 22 novembre 2017 sur les indemnités de formation pour les
 short: OIFC
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/812"
 language: fr
-version: 2020-06-01
+version: 2022-11-10
 adopted: 2017-11-22
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/812/20200601/fr/xml/fedlex-data-admin-ch-eli-cc-2017-812-20200601-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/812/20200601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/812/20221110/fr/xml/fedlex-data-admin-ch-eli-cc-2017-812-20221110-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/812/20221110/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/812/20200601/fr"
 
 (OIFC)
 
-du 22 novembre 2017 (Etat le 1<sup>er</sup> juin 2020)
+du 22 novembre 2017 (État le 10 novembre 2022)
 
 Le Conseil fédéral suisse,
 
@@ -146,9 +146,10 @@ Les documents ci-dessous doivent être présentés avec la demande:
 - b. la facture et la preuve du versement;
 - c. le formulaire de demande dûment rempli et signé.
 
-<sup>3</sup> Les demandes qui n’ont pas été suffisamment étayées dans le délai indiqué à l’al. 1, let. a, peuvent être rejetées.
+<sup>3</sup> Les demandes qui n’ont pas été suffisamment étayées dans le délai indiqué à l’al. 1, let. a, peuvent être rejetées.[^6-2]
 
 [^6-1]: Nouvelle teneur selon le ch. I de l’O du 22 avr. 2020, en vigueur depuis le 1<sup>er</sup> juin 2020 ([RO 2020 1549](https://fedlex.data.admin.ch/eli/oc/2020/308)).
+[^6-2]: Erratum du 10 nov. 2022, ne concerne que le texte italien ([RO 2022 664](https://fedlex.data.admin.ch/eli/oc/2022/664)).
 
 #### Art. 7
 
