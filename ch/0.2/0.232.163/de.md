@@ -3,11 +3,11 @@ sr: "0.232.163"
 title: "Internationales Übereinkommen vom 2. Dezember 1961 zum Schutz von Pflanzenzüchtungen, revidiert in Genf am 10. November 1972, 23. Oktober 1978 und 19. März 1991"
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/527"
 language: de
-version: 2020-07-02
+version: 2022-11-10
 adopted: 1991-03-19
 in_force: 2008-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/527/20200702/de/xml/fedlex-data-admin-ch-eli-cc-2008-527-20200702-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/527/20200702/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/527/20221110/de/xml/fedlex-data-admin-ch-eli-cc-2008-527-20221110-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/527/20221110/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Schweizerische Ratifikationsurkunde hinterlegt am 1. August 2008
 
 In Kraft getreten für die Schweiz am 1. September 2008
 
-(Stand am 2. Juli 2020)
+(Stand am 10. November 2022)
 
 [^t-1]: Art. 1 Abs. 1 des BB vom 5. Okt. 2007 ([AS 2008 3897](https://fedlex.data.admin.ch/eli/oc/2008/526))
 
@@ -488,7 +488,7 @@ Die ständigen Organe des Verbandes sind der Rat und das Verbandsbüro.
 
 <sup>(1)</sup> *Beziehungen zwischen den durch dieses Übereinkommen gebundenen Staaten:* Zwischen den Verbandsstaaten, die sowohl durch dieses Übereinkommen als auch durch eine frühere Akte des Übereinkommens gebunden sind, ist ausschliesslich dieses Übereinkommen anwendbar.
 
-<sup>(2)</sup> *Möglichkeit von Beziehungen mit den durch dieses Übereinkommen nicht g**e**bundenen Staaten:* Jeder Verbandsstaat, der nicht durch dieses Übereinkommen gebunden ist, kann durch eine an den Generalsekretär gerichtete Notifikation erklären, dass er die letzte Akte dieses Übereinkommens, durch die er gebunden ist, in seinen Beziehungen zu jedem nur durch dieses Übereinkommen gebundenen Verbandsmitglied anwenden wird. Während eines Zeitabschnitts, der einen Monat nach dem Tag einer solchen Notifikation beginnt und mit dem Zeitpunkt endet, zu dem der Verbandsstaat, der die Erklärung abgegeben hat, durch dieses Übereinkommen gebunden wird, wendet dieses Verbandsmitglied die letzte Akte an, durch die es gebunden ist, in seinen Beziehungen zu jedem Verbandsmitglied, das nur durch dieses Übereinkommen gebunden ist, während dieses Verbandsmitglied dieses Übereinkommen in seinen Beziehungen zu jenem anwendet.
+<sup>(2)</sup> *Möglichkeit von Beziehungen mit den durch dieses Übereinkommen nicht gebundenen Staaten:* Jeder Verbandsstaat, der nicht durch dieses Übereinkommen gebunden ist, kann durch eine an den Generalsekretär gerichtete Notifikation erklären, dass er die letzte Akte dieses Übereinkommens, durch die er gebunden ist, in seinen Beziehungen zu jedem nur durch dieses Übereinkommen gebundenen Verbandsmitglied anwenden wird. Während eines Zeitabschnitts, der einen Monat nach dem Tag einer solchen Notifikation beginnt und mit dem Zeitpunkt endet, zu dem der Verbandsstaat, der die Erklärung abgegeben hat, durch dieses Übereinkommen gebunden wird, wendet dieses Verbandsmitglied die letzte Akte an, durch die es gebunden ist, in seinen Beziehungen zu jedem Verbandsmitglied, das nur durch dieses Übereinkommen gebunden ist, während dieses Verbandsmitglied dieses Übereinkommen in seinen Beziehungen zu jenem anwendet.
 
 #### Art. 32
 
@@ -608,16 +608,18 @@ Dieses Übereinkommen schränkt keine Züchterrechte ein, die auf Grund des Rech
 
 (Es folgen die Unterschriften)
 
-Geltungsbereich am 2. Juli 2020**[^t-2]**
+Geltungsbereich am 10. November 2022[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
+<tr><td>Ägypten</td><td>1. November</td><td>2019 B</td><td>1. Dezember</td><td>2019</td></tr>
 <tr><td>Albanien</td><td>15. September</td><td>2005 B</td><td>15. Oktober</td><td>2005</td></tr>
 <tr><td>Afrikanische Organisation für Geistiges Eigentum</td><td>10. Juni</td><td>2014 B</td><td>10. Juli</td><td>2014</td></tr>
 <tr><td>Aserbaidschan</td><td>9. November</td><td>2004 B</td><td>9. Dezember</td><td>2004</td></tr>
 <tr><td>Australien</td><td>20. Dezember</td><td>1999 B</td><td>20. Januar</td><td>2000</td></tr>
 <tr><td>Belarus</td><td>5. Dezember</td><td>2002 B</td><td>5. Januar</td><td>2003</td></tr>
-<tr><td>Bosnien und Herzegowina</td><td>10. Oktober</td><td>2017</td><td>10. Oktober</td><td>2017</td></tr>
+<tr><td>Belgien</td><td>2. Mai</td><td>2019</td><td>2. Juni</td><td>2019</td></tr>
+<tr><td>Bosnien und Herzegowina</td><td>10. Oktober</td><td>2017 B</td><td>10. November</td><td>2017</td></tr>
 <tr><td>Bulgarien</td><td>24. März</td><td>1998 B</td><td>24. April</td><td>1998</td></tr>
 <tr><td>Costa Rica</td><td>12. Dezember</td><td>2008 B</td><td>12. Januar</td><td>2009</td></tr>
 <tr><td>Dänemark <sup>a</sup></td><td>26. April</td><td>1996</td><td>24. April</td><td>1998</td></tr>
@@ -628,6 +630,7 @@ Geltungsbereich am 2. Juli 2020**[^t-2]**
 <tr><td>Finnland</td><td>20. Juni</td><td>2001 B</td><td>20. Juli</td><td>2001</td></tr>
 <tr><td>Frankreich</td><td>27. April</td><td>2012</td><td>27. Mai</td><td>2012</td></tr>
 <tr><td>Georgien</td><td>29. Oktober</td><td>2008 B</td><td>29. November</td><td>2008</td></tr>
+<tr><td>Ghana</td><td>3. November</td><td>2021 B</td><td>3. Dezember</td><td>2021</td></tr>
 <tr><td>Irland</td><td>8. Dezember</td><td>2011</td><td>8. Januar</td><td>2012</td></tr>
 <tr><td>Island</td><td>3. April</td><td>2006 B</td><td>3. Mai</td><td>2006</td></tr>
 <tr><td>Israel</td><td>3. Juni</td><td>1996</td><td>24. April</td><td>1998</td></tr>
@@ -659,6 +662,7 @@ Geltungsbereich am 2. Juli 2020**[^t-2]**
 <tr><td>Slowakei</td><td>12. Mai</td><td>2009 B</td><td>12. Juni</td><td>2009</td></tr>
 <tr><td>Slowenien</td><td>29. Juni</td><td>1999 B</td><td>29. Juli</td><td>1999</td></tr>
 <tr><td>Spanien</td><td>18. Juni</td><td>2007</td><td>18. Juli</td><td>2007</td></tr>
+<tr><td>St. Vincent und die Grenadinen</td><td>22. Februar</td><td>2021 B</td><td>22. März</td><td>2021</td></tr>
 <tr><td>Tansania</td><td>22. Oktober</td><td>2015 B</td><td>22. November</td><td>2015</td></tr>
 <tr><td>Tschechische Republik</td><td>24. Oktober</td><td>2002 B</td><td>24. November</td><td>2002</td></tr>
 <tr><td>Tunesien</td><td>31. Juli</td><td>2003 B</td><td>31. August</td><td>2003</td></tr>
@@ -674,4 +678,4 @@ Geltungsbereich am 2. Juli 2020**[^t-2]**
 <tr><td colspan="5"><sup>b</sup> Für das Königreich in Europa.</td></tr>
 </table>
 
-[^t-2]: [AS 2008 3909](https://fedlex.data.admin.ch/eli/oc/2008/527), [2011 1923](https://fedlex.data.admin.ch/eli/oc/2011/279), [2014 3279](https://fedlex.data.admin.ch/eli/oc/2014/566), [2017 4849](https://fedlex.data.admin.ch/eli/oc/2017/522), [2020 3325](https://fedlex.data.admin.ch/eli/oc/2020/561). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 2008 3909](https://fedlex.data.admin.ch/eli/oc/2008/527); [2011 1923](https://fedlex.data.admin.ch/eli/oc/2011/279); [2014 3279](https://fedlex.data.admin.ch/eli/oc/2014/566); [2017 4849](https://fedlex.data.admin.ch/eli/oc/2017/522); [2020 3325](https://fedlex.data.admin.ch/eli/oc/2020/561); [2022 676](https://fedlex.data.admin.ch/eli/oc/2022/676). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht https://www.fedlex.admin.ch/de/treaty.

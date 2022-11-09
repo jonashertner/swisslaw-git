@@ -3,11 +3,11 @@ sr: "0.232.163"
 title: "Convention internationale du 2 décembre 1961 pour la protection des obtentions végétales, révisée à Genève les 10 novembre 1972, 23 octobre 1978 et 19 mars 1991"
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/527"
 language: fr
-version: 2020-07-02
+version: 2022-11-10
 adopted: 1991-03-19
 in_force: 2008-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/527/20200702/fr/xml/fedlex-data-admin-ch-eli-cc-2008-527-20200702-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/527/20200702/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/527/20221110/fr/xml/fedlex-data-admin-ch-eli-cc-2008-527-20221110-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/527/20221110/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -24,7 +24,7 @@ Instrument de ratification déposé par la Suisse le 1<sup>er</sup> août 2008
 
 Entrée en vigueur pour la Suisse le 1<sup>er</sup> septembre 2008
 
-(Etat le 2 juillet 2020)
+(État le 10 novembre 2022)
 
 [^t-1]: Art. 1 al. 1 de l’AF du 5 oct. 2007 ([RO 2008 3897](https://fedlex.data.admin.ch/eli/oc/2008/526))
 
@@ -286,7 +286,7 @@ Le droit d’obtenteur est indépendant des mesures adoptées par une Partie con
 
 <sup>(1)</sup>
 
-*Désignation des variétés par des dénominations; utilisation de la dénomin**a**tion:*
+*Désignation des variétés par des dénominations; utilisation de la dénomination:*
 
 - a) La variété sera désignée par une dénomination destinée à être sa désignation générique.
 - b) Chaque Partie contractante s’assure que, sous réserve du par. 4), aucun droit relatif à la désignation enregistrée comme la dénomination de la variété n’entrave la libre utilisation de la dénomination en relation avec la variété, même après l’expiration du droit d’obtenteur.
@@ -617,7 +617,7 @@ La présente Convention ne saurait limiter les droits d’obtenteur acquis soit 
 
 (Suivent les signatures)
 
-Champ d’application le 2 juillet 2020**[^t-2]**
+Champ d’application le 10 novembre 2022[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -627,7 +627,8 @@ Champ d’application le 2 juillet 2020**[^t-2]**
 <tr><td>Autriche</td><td>1<sup>er</sup> juin</td><td>2004 A</td><td>1<sup>er</sup> juillet</td><td>2004</td></tr>
 <tr><td>Azerbaïdjan</td><td>9 novembre</td><td>2004 A</td><td>9 décembre</td><td>2004</td></tr>
 <tr><td>Bélarus</td><td>5 décembre</td><td>2002 A</td><td>5 janvier</td><td>2003</td></tr>
-<tr><td>Bosnie et Herzégovine</td><td>10 octobre</td><td>2017</td><td>10 octobre</td><td>2017</td></tr>
+<tr><td>Belgique</td><td>2 mai</td><td>2019</td><td>2 juin</td><td>2019</td></tr>
+<tr><td>Bosnie et Herzégovine</td><td>10 octobre</td><td>2017 A</td><td>10 novembre</td><td>2017</td></tr>
 <tr><td>Bulgarie</td><td>24 mars</td><td>1998 A</td><td>24 avril</td><td>1998</td></tr>
 <tr><td>Canada</td><td>19 juin</td><td>2016</td><td>19 juillet</td><td>2016</td></tr>
 <tr><td>Corée (Sud)</td><td>7 décembre</td><td>2001 A</td><td>7 janvier</td><td>2002</td></tr>
@@ -636,10 +637,12 @@ Champ d’application le 2 juillet 2020**[^t-2]**
 <tr><td>Danemark <sup>a</sup></td><td>26 avril</td><td>1996</td><td>24 avril</td><td>1998</td></tr>
 <tr><td>Espagne</td><td>18 juin</td><td>2007</td><td>18 juillet</td><td>2007</td></tr>
 <tr><td>Estonie</td><td>24 août</td><td>2000 A</td><td>24 septembre</td><td>2000</td></tr>
+<tr><td>Égypte</td><td>1<sup>er</sup> novembre</td><td>2019 A</td><td>1<sup>er</sup> décembre</td><td>2019</td></tr>
 <tr><td>États-Unis\*</td><td>22 janvier</td><td>1999</td><td>22 février</td><td>1999</td></tr>
 <tr><td>Finlande</td><td>20 juin</td><td>2001 A</td><td>20 juillet</td><td>2001</td></tr>
 <tr><td>France</td><td>27 avril</td><td>2012</td><td>27 mai</td><td>2012</td></tr>
 <tr><td>Géorgie</td><td>29 octobre</td><td>2008 A</td><td>29 novembre</td><td>2008</td></tr>
+<tr><td>Ghana</td><td>3 novembre</td><td>2021 A</td><td>3 décembre</td><td>2021</td></tr>
 <tr><td>Hongrie</td><td>1<sup>er</sup> décembre</td><td>2002 A</td><td>1<sup>er</sup> janvier</td><td>2003</td></tr>
 <tr><td>Irlande</td><td>8 décembre</td><td>2011</td><td>8 janvier</td><td>2012</td></tr>
 <tr><td>Islande</td><td>3 avril</td><td>2006 A</td><td>3 mai</td><td>2006</td></tr>
@@ -666,6 +669,7 @@ Champ d’application le 2 juillet 2020**[^t-2]**
 <tr><td>Roumanie</td><td>16 février</td><td>2001 A</td><td>16 mars</td><td>2001</td></tr>
 <tr><td>Royaume-Uni</td><td>3 décembre</td><td>1998</td><td>3 janvier</td><td>1999</td></tr>
 <tr><td>Russie</td><td>24 mars</td><td>1998 A</td><td>24 avril</td><td>1998</td></tr>
+<tr><td>Saint-Vincent-et-les Grenadines</td><td>22 février</td><td>2021 A</td><td>22 mars</td><td>2021</td></tr>
 <tr><td>Serbie</td><td>5 décembre</td><td>2012 A</td><td>5 janvier</td><td>2013</td></tr>
 <tr><td>Singapour</td><td>30 juin</td><td>2004 A</td><td>30 juillet</td><td>2004</td></tr>
 <tr><td>Slovaquie</td><td>12 mai</td><td>2009 A</td><td>12 juin</td><td>2009</td></tr>
@@ -678,7 +682,7 @@ Champ d’application le 2 juillet 2020**[^t-2]**
 <tr><td>Ukraine</td><td>19 décembre</td><td>2006 A</td><td>19 janvier</td><td>2007</td></tr>
 <tr><td>Union européenne</td><td>29 juin</td><td>2005 A</td><td>29 juillet</td><td>2005</td></tr>
 <tr><td>Vietnam</td><td>24 novembre</td><td>2006 A</td><td>24 décembre</td><td>2006</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes peuvent être consultés à l'adresse du site Internet de l'Union internationale pour la protection des obtentions végétales: www.upov.int &gt; À propos de l’UPOV &gt; Publications, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne <sup>a</sup> La Convention ne s’applique pas aux îles Féroé ni au Groenland. <sup>b</sup> Pour le Royaume en Europe.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes peuvent être consultés à l'adresse du site Internet de l'Union internationale pour la protection des obtentions végétales: www.upov.int &gt; À propos de l’UPOV &gt; Publications, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne <sup>a</sup> La Convention ne s’applique pas aux Îles Féroé ni au Groenland. <sup>b</sup> Pour le Royaume en Europe.</td></tr>
 </table>
 
-[^t-2]: [RO 2008 3909](https://fedlex.data.admin.ch/eli/oc/2008/527), [2011 1923](https://fedlex.data.admin.ch/eli/oc/2011/279), [2014 3279](https://fedlex.data.admin.ch/eli/oc/2014/566), [2017 4849](https://fedlex.data.admin.ch/eli/oc/2017/522), [2020 3325](https://fedlex.data.admin.ch/eli/oc/2020/561). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 2008 3909](https://fedlex.data.admin.ch/eli/oc/2008/527); [2011 1923](https://fedlex.data.admin.ch/eli/oc/2011/279); [2014 3279](https://fedlex.data.admin.ch/eli/oc/2014/566); [2017 4849](https://fedlex.data.admin.ch/eli/oc/2017/522); [2020 3325](https://fedlex.data.admin.ch/eli/oc/2020/561); [2022 676](https://fedlex.data.admin.ch/eli/oc/2022/676). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [https://www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).

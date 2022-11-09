@@ -3,11 +3,11 @@ sr: "0.232.163"
 title: "Convenzione internazionale del 2 dicembre 1961 per la protezione delle novità vegetali, riveduta a Ginevra il 10 novembre 1972, il 23 ottobre 1978 e il 19 marzo 1991"
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/527"
 language: it
-version: 2020-07-02
+version: 2022-11-10
 adopted: 1991-03-19
 in_force: 2008-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/527/20200702/it/xml/fedlex-data-admin-ch-eli-cc-2008-527-20200702-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/527/20200702/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/527/20221110/it/xml/fedlex-data-admin-ch-eli-cc-2008-527-20221110-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/527/20221110/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,13 +18,9 @@ RU **2008** 3909; FF **2004** 3723
 
 Traduzione
 
-Approvata dall’Assemblea federale il 5 ottobre 2007[^t-1]
+Approvata dall’Assemblea federale il 5 ottobre 2007[^t-1] Strumento di ratifica depositato dalla Svizzera il 1° agosto 2008 Entrata in vigore per la Svizzera il 1° settembre 2008
 
-Strumento di ratifica depositato dalla Svizzera il 1° agosto 2008
-
-Entrata in vigore per la Svizzera il 1° settembre 2008
-
-(Stato 2 luglio 2020)
+(Stato 10 novembre 2022)
 
 [^t-1]: Art. 1 cpv. 1 del DF del 5 ott. 2007 ([RU 2008 3897](https://fedlex.data.admin.ch/eli/oc/2008/526)).
 
@@ -299,7 +295,7 @@ Il diritto di costitutore è indipendente dalle misure adottate da una Parte con
 
 <sup>(1)</sup>
 
-*Designazione delle varietà con denominazioni; utilizzazione della denomina**zi**o**ne:*
+*Designazione delle varietà con denominazioni; utilizzazione della denomina**zione:*
 
 - a) La varietà sarà designata con una denominazione destinata ad essere la sua designazione generica.
 - b) Ciascuna Parte contraente si accerta che, fatta riserva del paragrafo 4, nessun diritto relativo alla designazione registrata come denominazione della varietà ostacoli la libera utilizzazione della denominazione in relazione alla varietà, anche dopo l’estinzione del diritto di costitutore.
@@ -636,7 +632,7 @@ La presente Convenzione non può in alcun modo pregiudicare i diritti di costitu
 
 (Seguono le firme)
 
-Campo d’applicazione il 2 luglio 2020**[^t-2]**
+Campo d’applicazione il 10 novembre 2022[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -645,7 +641,8 @@ Campo d’applicazione il 2 luglio 2020**[^t-2]**
 <tr><td>Austria</td><td>1° giugno</td><td>2004 A</td><td>1° luglio</td><td>2004</td></tr>
 <tr><td>Azerbaigian</td><td>9 novembre</td><td>2004 A</td><td>9 dicembre</td><td>2004</td></tr>
 <tr><td>Belarus</td><td>5 dicembre</td><td>2002 A</td><td>5 gennaio</td><td>2003</td></tr>
-<tr><td>Bosnia ed Erzegovina</td><td>10 ottobre</td><td>2017</td><td>10 ottobre</td><td>2017</td></tr>
+<tr><td>Belgio</td><td>2 maggio</td><td>2019</td><td>2 giugno</td><td>2019</td></tr>
+<tr><td>Bosnia ed Erzegovina</td><td>10 ottobre</td><td>2017 A</td><td>10 novembre</td><td>2017</td></tr>
 <tr><td>Bulgaria</td><td>24 marzo</td><td>1998 A</td><td>24 aprile</td><td>1998</td></tr>
 <tr><td>Canada</td><td>19 giugno</td><td>2016</td><td>19 luglio</td><td>2016</td></tr>
 <tr><td>Ceca, Repubblica</td><td>24 ottobre</td><td>2002 A</td><td>24 novembre</td><td>2002</td></tr>
@@ -654,11 +651,13 @@ Campo d’applicazione il 2 luglio 2020**[^t-2]**
 <tr><td>Croazia</td><td>1° agosto</td><td>2001 A</td><td>1° settembre</td><td>2001</td></tr>
 <tr><td>Danimarca <sup>a</sup></td><td>26 aprile</td><td>1996</td><td>24 aprile</td><td>1998</td></tr>
 <tr><td>Dominicana, Repubblica</td><td>16 maggio</td><td>2007 A</td><td>16 giugno</td><td>2007</td></tr>
+<tr><td>Egitto</td><td>1° novembre</td><td>2019 A</td><td>1° dicembre</td><td>2019</td></tr>
 <tr><td>Estonia</td><td>24 agosto</td><td>2000 A</td><td>24 settembre</td><td>2000</td></tr>
 <tr><td>Finlandia</td><td>20 giugno</td><td>2001 A</td><td>20 luglio</td><td>2001</td></tr>
 <tr><td>Francia</td><td>27 aprile</td><td>2012</td><td>27 maggio</td><td>2012</td></tr>
 <tr><td>Georgia</td><td>29 ottobre</td><td>2008 A</td><td>29 novembre</td><td>2008</td></tr>
 <tr><td>Germania</td><td>25 giugno</td><td>1998</td><td>25 luglio</td><td>1998</td></tr>
+<tr><td>Ghana</td><td>3 novembre</td><td>2021 A</td><td>3 dicembre</td><td>2021</td></tr>
 <tr><td>Giappone</td><td>24 novembre</td><td>1998 A</td><td>24 dicembre</td><td>1998</td></tr>
 <tr><td>Giordania</td><td>24 settembre</td><td>2004 A</td><td>24 ottobre</td><td>2004</td></tr>
 <tr><td>Irlanda</td><td>8 dicembre</td><td>2011</td><td>8 gennaio</td><td>2012</td></tr>
@@ -681,6 +680,7 @@ Campo d’applicazione il 2 luglio 2020**[^t-2]**
 <tr><td>Regno Unito</td><td>3 dicembre</td><td>1998</td><td>3 gennaio</td><td>1999</td></tr>
 <tr><td>Romania</td><td>16 febbraio</td><td>2001 A</td><td>16 marzo</td><td>2001</td></tr>
 <tr><td>Russia</td><td>24 marzo</td><td>1998 A</td><td>24 aprile</td><td>1998</td></tr>
+<tr><td>Saint Vincent e Grenadine</td><td>22 febbraio</td><td>2021 A</td><td>22 marzo</td><td>2021</td></tr>
 <tr><td>Serbia</td><td>5 dicembre</td><td>2012 A</td><td>5 gennaio</td><td>2013</td></tr>
 <tr><td>Singapore</td><td>30 giugno</td><td>2004 A</td><td>30 luglio</td><td>2004</td></tr>
 <tr><td>Slovacchia</td><td>12 maggio</td><td>2009 A</td><td>12 giugno</td><td>2009</td></tr>
@@ -702,4 +702,4 @@ Campo d’applicazione il 2 luglio 2020**[^t-2]**
 <tr><td colspan="5"><sup>b</sup> Per il Regno in Europa.</td></tr>
 </table>
 
-[^t-2]: [RU 2008 3909](https://fedlex.data.admin.ch/eli/oc/2008/527), [2011 1923](https://fedlex.data.admin.ch/eli/oc/2011/279), [2014 3279](https://fedlex.data.admin.ch/eli/oc/2014/566), [2017 4849](https://fedlex.data.admin.ch/eli/oc/2017/522), [2020 3325](https://fedlex.data.admin.ch/eli/oc/2020/561). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 2008 3909](https://fedlex.data.admin.ch/eli/oc/2008/527); [2011 1923](https://fedlex.data.admin.ch/eli/oc/2011/279); [2014 3279](https://fedlex.data.admin.ch/eli/oc/2014/566); [2017 4849](https://fedlex.data.admin.ch/eli/oc/2017/522); [2020 3325](https://fedlex.data.admin.ch/eli/oc/2020/561); [2022 676](https://fedlex.data.admin.ch/eli/oc/2022/676). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [https://www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)
