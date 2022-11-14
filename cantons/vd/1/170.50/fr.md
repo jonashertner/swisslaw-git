@@ -4,7 +4,7 @@ number: "170.50"
 title: ARRÊTÉ du 09.11.2022 de mise en vigueur
 language: fr
 version: 2022-11-15
-url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/170.50?id=78fa2344-7ee7-489b-927f-cb66fc2d7790"
+url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/170.50?id=49da6c00-410b-496d-922d-76f0b2f56fe3"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VD. Seule la publication officielle du canton fait foi.
@@ -21,4 +21,4 @@ arrête
 
 #### Art. 1
 
-<sup>1</sup> La loi du 11 décembre 2018 sur l'impôt 2023 (BLV 642.00), publiée dans la "Feuille des avis officiels du Canton de Vaud" du 28 décembre 2018, entre en vigueur avec effet au 1er janvier 2023.
+<sup>1</sup> La loi du 14 juin 2022 sur les marchés publics (BLV 726.01), publiée dans la "Feuille des avis officiels du Canton de Vaud" du 23 juin 2022, entre en vigueur avec effet au 1er janvier 2023, à l'exception de l'article 6.
