@@ -4,7 +4,7 @@ number: "170.50"
 title: ARRÊTÉ du 09.11.2022 de mise en vigueur
 language: fr
 version: 2022-11-15
-url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/170.50?id=22e22376-346b-49e6-878d-ab6d4cf24975"
+url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/170.50?id=78fa2344-7ee7-489b-927f-cb66fc2d7790"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VD. Seule la publication officielle du canton fait foi.
@@ -15,13 +15,10 @@ du 9 novembre 2022
 
 LE CONSEIL D'ÉTAT DU CANTON DE VAUD
 
-vu le préavis de la Direction générale des affaires institutionnelles et des communes
+vu le préavis de la Direction des affaires institutionnelles et des communes
 
 arrête
 
 #### Art. 1
 
-<sup>1</sup> Les décrets ci-après du 1er novembre 2022 publiés dans la "Feuille des avis officiels du Canton de Vaud" du 11 novembre 2022, entrent en vigueur le 2 novembre 2022 :
-
-- 1\. décret du 1er novembre 2022 visant à diminuer la consommation d'électricité liée à l'éclairage des bâtiments non résidentiels et des enseignes lumineuses (BLV 730.00) ;
-- 2\. décret du 1er novembre 2022 ordonnant aux gestionnaires des réseaux de distribution la transmission de données relatives aux consommateurs dont la consommation dépasse 100'000 kWh/an d'électricité ou 1'000'000 kWh/an de gaz (BLV 730.00).
+<sup>1</sup> La loi du 11 décembre 2018 sur l'impôt 2023 (BLV 642.00), publiée dans la "Feuille des avis officiels du Canton de Vaud" du 28 décembre 2018, entre en vigueur avec effet au 1er janvier 2023.
