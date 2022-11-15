@@ -3,51 +3,48 @@ canton: VS
 number: "725.100"
 title: Décision concernant le déclassement et le classement de routes
 language: fr
-version: 1999-07-02
-corrected: 2020-07-01
-version_adopted: 1999-05-19
+version: 2022-11-16
+version_adopted: 2022-11-16
 adopted: 1999-05-19
 in_force: 1999-07-02
 url: "https://lex.vs.ch/app/fr/texts_of_law/725.100"
-pdf: "https://lex.vs.ch/api/fr/versions/298/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/fr/versions/3100/pdf_file"
 ---
 
-> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi. Le canton ne publie cette version qu’en PDF : le texte en est extrait, la structure déduite de la mise en page.
+> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
 # Décision concernant le déclassement et le classement de routes
 
-du 19 mai 1999
+du 19.05.1999 (état 16.11.2022)
 
 Le Grand Conseil du canton du Valais
 
-vu l'article 31, alinéa 3, chiffre 2 de la Constitution cantonale;
+vu les articles 31 alinéa 3 lettre b et 37 et suivants de la Constitution cantonale;
 
-vu les articles 5, 17, 18, 19, 25 et 103 de la loi sur les routes du 3 septembre 1965 (LR);
+vu la loi sur les routes du 3 septembre 1965 (LR);
 
 sur la proposition du Conseil d'Etat,
 
 décide:
 
-### Section 1: Déclassement de routes cantonales
+## 1 Déclassement de routes cantonales
 
-#### Article premier
+### 1.1 Etat dès le 02.07.1999
+
+#### Art. 1
 
 **Arrondissement 2**
 
 <sup>1</sup> Sont déclassés en routes communales:
 
-- a) Le tronçon «Intérieur de Loèche-les-Bains» (Strada No 30) du point de repère 200 au point de repère 211, sur territoire de la commune de Loèche-les-Bains;
-
-- b) «L'intérieur de Loèche-Ville» (Strada No 720) du point de repère 0 au point de repère 11, sur territoire de la commune de Loèche-Ville;
-
-- c) La route «Susten - Pletschen» (Strada No 36) du point de repère 0 au point de repère 18, sur territoire de la commune de Loèche-Ville.
+- a) le tronçon "Intérieur de Loèche-les-Bains" (Strada No 30) du point de repère 200 au point de repère 211, sur territoire de la commune de Loèche-les-Bains;
+- b) "l'intérieur de Loèche-Ville" (Strada No 720) du point de repère 0 au point de repère 11, sur territoire de la commune de Loèche-Ville;
+- c) la route "Susten - Pletschen" (Strada No 36) du point de repère 0 au point de repère 18, sur territoire de la commune de Loèche-Ville.
 
 <sup>2</sup> Sont déclassées en routes secondaires soumises à des restrictions fonctionnelles de trafic:
 
-- a) La route «Steg - Mittal» (Strada No 719) du point de repère 0 au point de repère 39 , sur territoire des communes de Gampel et de Steg;
-
-- b) La route «Varen - Rumeling» (Strada No 705) du point de repère 0 au point de repère 29, sur territoire des communes de Varen, Inden et Loèche.
+- a) la route "Steg - Mittal" (Strada No 719) du point de repère 0 au point de repère 39 , sur territoire des communes de Gampel et de Steg;
+- b) la route "Varen - Rumeling" (Strada No 705) du point de repère 0 au point de repère 29, sur territoire des communes de Varen, Inden et Loèche.
 
 #### Art. 2
 
@@ -55,15 +52,14 @@ décide:
 
 <sup>1</sup> Sont déclassées en routes communales:
 
-- a) «L'ancienne route cantonale de Gamsen», sur territoire de la commune de Brigue-Glis;
+- a) "l'ancienne route cantonale de Gamsen", sur territoire de la commune de Brigue-Glis;
+- b) "l'ancienne route de la Furka" à l'intérieur de Brigue, sur territoire de la commune de Brigue-Glis;
+- c) …
+- d) "la route principale A19 à l'intérieur de Fiesch" (Strada No A19) du point de repère 190 + 250 au point de repère 190 + 830, sur territoire de la commune de Fiesch.
 
-- b) «L'ancienne route de la Furka» à l'intérieur de Brigue, sur territoire de la commune de Brigue-Glis;
+<sup>2</sup> Est déclassée en route secondaire de montagne "la route principale A19 à l'intérieur de Fiesch" (Strada No A19) du point de repère 180 + 500 au point de repère 190 + 250, sur territoire de la commune de Fiesch.
 
-- c) «La nouvelle route de la Furka» (Strada No 1015) du point de repère 10 + 600 au point de repère 38, sur territoire de la commune de Naters;
-
-- d) «La route principale A19 à l'intérieur de Fiesch» (Strada No A19) du point de repère 190 + 250 au point de repère 190 + 830, sur territoire de la commune de Fiesch.
-
-<sup>2</sup> Est déclassée en route secondaire de montagne «la route principale A19 à l'intérieur de Fiesch» (Strada No A19) du point de repère 180 + 500 au point de repère 190 + 250, sur territoire de la commune de Fiesch.
+<sup>3</sup> Demeure route communale le tronçon de la "nouvelle route de la Furka", du point de repère 20 + 050 au point de repère 38 + 0, sur territoire de la commune de Naters.
 
 #### Art. 3
 
@@ -71,17 +67,14 @@ décide:
 
 <sup>1</sup> Sont déclassées en routes communales:
 
-- a) La «Bachstrasse» (Strada No 902) du point de repère 0 au point de repère 22, sur territoire des communes de Brigue-Glis et Ried-Brigue;
+- a) la "Bachstrasse" (Strada No 902) du point de repère 0 au point de repère 22, sur territoire des communes de Brigue-Glis et Ried-Brigue;
+- b) la route "Ried-Brigue - Brei" (Strada No 904) du point de repère 0 au point de repère 13, sur territoire de la commune de Ried-Brigue;
+- c) la route "Glis - Pont de Napoléon" (Strada No 900) du point de repère 0 au point de repère 15, sur territoire de la commune de Brigue-Glis;
+- d) la "route de Napoléon - Holzji" (Strada No 901) du point de repère 0 au point de repère 8, sur territoire de la commune de Brigue-Glis.
 
-- b) La route «Ried-Brigue - Brei» (Strada No 904) du point de repère 0 au point de repère 13, sur territoire de la commune de Ried-Brigue;
+<sup>2</sup> Est déclassée en route secondaire de montagne avec restriction fonctionnelle de trafic la route principale de montagne "Brigue - téléphérique de Rosswald - N9 S" (Strada No 8), appelée "Riederwaldstrasse", du point de repère 50 au point de repère 79, sur territoire de la commune de Ried-Brigue.
 
-- c) La route «Glis - Pont de Napoléon» (Strada No 900) du point de repère 0 au point de repère 15, sur territoire de la commune de Brigue-Glis;
-
-- d) La «route de Napoléon - Holzji» (Strada No 901) du point de repère 0 au point de repère 8, sur territoire de la commune de Brigue-Glis.
-
-<sup>2</sup> Est déclassée en route secondaire de montagne avec restriction fonctionnelle de trafic la route principale de montagne «Brigue - téléphérique de Rosswald - N9 S» (Strada No 8), appelée «Riederwaldstrasse», du point de repère 50 au point de repère 79, sur territoire de la commune de Ried-Brigue.
-
-<sup>3</sup> La route principale de montagne «Brigue - téléphérique de Rosswald - N9 S» (Strada No 8), appelée «ancienne route du Ganter», sur territoire de la commune de Ried-Brigue, sera déclassée du point de repère 100 au point de repère 117, puis désaffectée et cancellée selon la procédure prévue par la loi sur les routes.
+<sup>3</sup> La route principale de montagne "Brigue - téléphérique de Rosswald - N9 S" (Strada No 8), appelée "ancienne route du Ganter", sur territoire de la commune de Ried-Brigue, sera déclassée du point de repère 100 au point de repère 117, puis désaffectée et cancellée selon la procédure prévue par la loi sur les routes.
 
 #### Art. 4
 
@@ -89,142 +82,210 @@ décide:
 
 <sup>1</sup> Sont déclassés en routes communales:
 
-- a) Le tronçon «Intérieur de Réchy» (Strada No 49) du point de repère 0 au point de repère 10 + 750, sur territoire de la commune de Chalais;
+- a) le tronçon "Intérieur de Réchy" (Strada No 49) du point de repère 0 au point de repère 10 + 750, sur territoire de la commune de Chalais;
+- b) le tronçon "Pramagnon - Grône" (Strada No 607) du point de repère 0 au point de repère 10 + 300, sur territoire de la commune de Grône;
+- c) le tronçon "Transit nord à Montana/Vermala" (Strada No 45) du point de repère 130 + 200 au point de repère 130 + 700, sur territoire de la commune de Randogne;
+- d) la route "Chalais - Noës" (Strada No 49) du point de repère 20 + 300 au point de repère 39, sur territoire de la commune de Sierre;
+- e) la route "Granges-Village - Granges-Gare" (Strada No 51) du point de repère 0 + 300 jusqu'à Granges-Gare, sur territoire de la commune de Sierre;
+- f) la route "Glarey - Pont du Rhône - Finges" (Strada No 609) du point de repère 0 au point de repère 12, sur territoire de la commune de Sierre.
 
-- b) Le tronçon «Pramagnon - Grône» (Strada No 607) du point de repère 0 au point de repère 10 + 300, sur territoire de la commune de Grône;
-
-- c) Le tronçon «Transit nord à Montana/Vermala» (Strada No 45) du point de repère 130 + 200 au point de repère 130 + 700, sur territoire de la commune de Randogne;
-
-- d) La route «Chalais - Noës» (Strada No 49) du point de repère 20 + 300 au point de repère 39, sur territoire de la commune de Sierre;
-
-- e) La route «Granges-Village - Granges-Gare» (Strada No 51) du point de repère 0 + 300 jusqu'à Granges-Gare, sur territoire de la commune de Sierre;
-
-- f) La route «Glarey - Pont du Rhône - Finges» (Strada No 609) du point de repère 0 au point de repère 12, sur territoire de la commune de Sierre.
-
-<sup>2</sup> Est déclassée en route secondaire de montagne (Strada No 43) la route principale de plaine «Réchy - Chalais» (Strada No 49) du point de repère 10 + 750 au point de repère 20 + 300, sur territoire de la commune de Chalais.
+<sup>2</sup> Est déclassée en route secondaire de montagne (Strada No 43) la route principale de plaine "Réchy - Chalais" (Strada No 49) du point de repère 10 + 750 au point de repère 20 + 300, sur territoire de la commune de Chalais.
 
 #### Art. 5
 
 **Arrondissement 4**
 
-Sont déclassés en routes communales:
+<sup>1</sup> Sont déclassés en routes communales:
 
-- a) La route «Ardon - Isières» (Strada No 216) du point de repère 0 au point de repère 25, sur territoire de la commune d'Ardon;
-
-- b) Le tronçon «Clèbes - Verrey» (Strada No 522) du point de repère 10 + 50 au point de repère 22, sur territoire de la commune de Nendaz;
-
-- c) Le tronçon «Carrefour du Boléro - raccordement à la déviation nord de Bramois» (Strada No 536) du point de repère 10 + 500 au point de repère 49, le déclassement du point de repère 24 au point de repère 49 ne devenant effectif qu'au moment de la mise en service de la «déviation Bramois - St-Martin», sur territoire de la commune de Sion.
+- a) la route "Ardon - Isières" (Strada No 216) du point de repère 0 au point de repère 25, sur territoire de la commune d'Ardon;
+- b) le tronçon "Clèbes - Verrey" (Strada No 522) du point de repère 10 + 50 au point de repère 22, sur territoire de la commune de Nendaz;
+- c) le tronçon "Carrefour du Boléro - raccordement à la déviation nord de Bramois" (Strada No 536) du point de repère 10 + 500 au point de repère 49, le déclassement du point de repère 24 au point de repère 49 ne devenant effectif qu'au moment de la mise en service de la "déviation Bramois - St-Martin", sur territoire de la commune de Sion.
 
 #### Art. 6
 
 **Arrondissement 5**
 
-Sont déclassés en routes communales:
+<sup>1</sup> Sont déclassés en routes communales:
 
-- a) L'ancienne route «Merdenson - Glarier» du point de repère 20 + 350 au point de repère 40 + 570 de la route No 94, sur territoire des communes de Vollèges et de Bagnes;
-
-- b) Le tronçon «Intérieur de Martigny-Bourg» du point de repère 10 + 860 au point de repère 20 + 430 de la route No 409, sur territoire de la commune de Martigny;
-
-- c) L'ancienne route du Simplon, soit le tronçon «Intérieur de la Bâtiaz» (Strada No 436) du point de repère 0 au point de repère 5 et le tronçon «Pont de la Bâtiaz - Giratoire de la Moya», sur territoire de la commune de Martigny;
-
-- d) La route Martigny - Martigny-Croix, soit le tronçon «Avenue de la Gare - dès le carrefour Léman/Gare - traversée de la Place centrale - avenue du Grand-St-Bernard jusqu'au carrefour du Pré-de-Foire» (Strada No 409) du point de repère 2 au point de repère 10 + 860, sur territoire de la commune de Martigny;
-
-- e) L'ancienne route du Grand-St-Bernard «Pont-des-Vaux - La Duay» du point de repère 160 + 520 au point de repère 180 + 270 de la route A21, sur territoire des communes de Sembrancher et d'Orsières.
+- a) l'ancienne route "Merdenson - Glarier" du point de repère 20 + 350 au point de repère 40 + 570 de la route No 94, sur territoire des communes de Vollèges et de Bagnes;
+- b) le tronçon "Intérieur de Martigny-Bourg" du point de repère 10 + 860 au point de repère 20 + 430 de la route No 409, sur territoire de la commune de Martigny;
+- c) l'ancienne route du Simplon, soit le tronçon "Intérieur de la Bâtiaz" (Strada No 436) du point de repère 0 au point de repère 5 et le tronçon "Pont de la Bâtiaz - Giratoire de la Moya", sur territoire de la commune de Martigny;
+- d) la route Martigny - Martigny-Croix, soit le tronçon "Avenue de la Gare - dès le carrefour Léman/Gare - traversée de la Place centrale - avenue du Grand-St-Bernard jusqu'au carrefour du Pré-de-Foire" (Strada No 409) du point de repère 2 au point de repère 10 + 860, sur territoire de la commune de Martigny;
+- e) l'ancienne route du Grand-St-Bernard "Pont-des-Vaux - La Duay" du point de repère 160 + 520 au point de repère 180 + 270 de la route A21, sur territoire des communes de Sembrancher et d'Orsières.
 
 #### Art. 7
 
 **Arrondissement 6**
 
-Sont déclassés en routes communales:
+<sup>1</sup> Sont déclassés en routes communales:
 
-- a) Le tronçon aval «Branson - Colombière» (Strada No 430) du point de repère 100 au point de repère 10, sur territoire de la commune de Fully;
+- a) le tronçon aval "Branson - Colombière" (Strada No 430) du point de repère 100 au point de repère 10, sur territoire de la commune de Fully;
+- b) le tronçon amont "Branson - Colombière" (Strada No 430) du point de repère 100 au point de repère 104, sur territoire de la commune de Fully;
+- c) le tronçon "Forêt - Vers l'Eglise" (Strada No 430) du point de repère 20 au point de repère 20 + 970, sur territoire de la commune de Fully;
+- d) le tronçon "Intérieur de la Fontaine", sur territoire de la commune de Fully;
+- e) le tronçon "Vers l'Eglise - Châtaignier" (Strada No 508) du point de repère 0 au point de repère 13, sur territoire de la commune de Fully;
+- f) le tronçon "Intérieur de Saxé" (Strada No 508) du point de repère 15 au point de repère 20, sur territoire de la commune de Fully;
+- g) le tronçon "Intérieur de Mazembroz" (Strada No 508) du point de repère 21 au point de repère 24, sur territoire de la commune de Fully;
+- h) l'ancienne route de "Salvan" du point de repère 20 + 750 au point de repère 30 + 310 de la route No 102, sur territoire de la commune de Martigny.
 
-- b) Le tronçon amont «Branson - Colombière» (Strada No 430) du point de repère 100 au point de repère 104, sur territoire de la commune de Fully;
+### 1.2 Etat dès le 16.11.2022
 
-- c) Le tronçon «Forêt - Vers l'Eglise» (Strada No 430) du point de repère 20 au point de repère 20 + 970, sur territoire de la commune de Fully;
+#### Art. 7a
 
-- d) Le tronçon «Intérieur de la Fontaine», sur territoire de la commune de Fully;
+**Arrondissement 1 (Haut-Valais)**
 
-- e) Le tronçon «Vers l'Eglise - Châtaignier» (Strada No 508) du point de repère 0 au point de repère 13, sur territoire de la commune de Fully;
+<sup>1</sup> Sont déclassés en routes communales:
 
-- f) Le tronçon «Intérieur de Saxé» (Strada No 508) du point de repère 15 au point de repère 20, sur territoire de la commune de Fully;
+- a) le tronçon "Bahnhof / Belalpstrasse" de la RC n° 1 "Naters – Blatten" du point de repère 0 + 0 au point de repère 0 + 546, sur territoire de la commune de Naters;
+- b) le tronçon "Hegdorn" de la RC n° 1 "Naters – Blatten" du point de repère 100 + 0 au point de repère 102 + 0, sur territoire de la commune de Naters;
+- c) le tronçon "Visp" de la RC n° 33 "Visp – Bürchen - Unterbäch" du point de repère 0 + 0 au point de repère 0 + 164, sur territoire de la commune de Visp;
+- d) le tronçon "Bitsch" de la RC n° 162 "Bitsch – Eische – Guggel – Riederalp" du point de repère 0 + 0 au point de repère 0 + 165 et du point de repère 0 + 180 au point de repère 4 + 0, sur territoire de la commune de Bitsch;
+- e) le tronçon "Mund Roosse" de la RC n° 164 "Naters – Birgisch – Mund – Rosse" du point de repère 60 + 991 au point de repère 93 + 0, sur territoire de la commune de Naters;
+- f) le tronçon "Mund Roosse" de la RC n° 164 "Naters – Birgisch – Mund – Rosse" du point de repère 200 + 0 au point de repère 203 + 0, sur territoire de la commune de Naters;
+- g) le tronçon "Mund Roosse" de la RC n° 164 "Naters – Birgisch – Mund – Rosse" du point de repère 300 + 0 au point de repère 308 + 0, sur territoire de la commune de Naters;
+- h) le tronçon "intérieur de Raron" de la RC n° 703 "Steg – Niedergesteln - Raron" du point de repère 40 + 684 au point de repère 51 + 0, sur territoire de la commune de Raron;
+- i) le tronçon "Saas Bidermatten" de la RC n° 806 "Anschluss - Bidermatten" du point de repère 0 + 0 au point de repère 3 + 0, sur territoire de la commune de Saas-Balen;
+- j) le tronçon "Innerorts Randa" de la RC n° 813 "Innerorts Randa" du point de repère 0 + 115 au point de repère 13 + 0, sur territoire de la commune de Randa;
+- k) le tronçon "Innerorts Randa, Richtung Eie" de la RC n° 813 "Innerorts Randa" du point de repère 100+0 au point de repère 100 + 275 et du point de repère 0 + 0 au point de repère 0 + 115, sur territoire de la commune de Randa;
+- l) le tronçon "Anschluss Unter Moos" de la RC n° 1001 "Anschluss Unter Moos" du point de repère 0 + 0 au point de repère 6 + 0, sur territoire de la commune de Naters;
+- m) le tronçon "Birgisch – Aegerten" de la RC n° 1002 "Birgisch Aegerten" du point de repère 0 + 0 au point de repère 26 + 0, sur territoire de la commune de Naters;
+- n) le tronçon "Mund Warbflie" de la RC n° 1003 "Mund Warbflie" du point de repère 0 + 0 au point de repère 13 + 0, sur territoire de la commune de Naters;
+- o) le tronçon "Viktoriastrasse" de la RC n° 1015A "Viktoriastrasse Brig" du point de repère 0 + 0 au point de repère 6 + 0, sur territoire de la commune de Brig-Glis;
+- p) le tronçon "Verbindungstrasse Brig-Naters" de la RC n° 1016 "Verbindungsstrasse Brig – Naters" du point de repère 0 + 0 au point de repère 2 + 0, sur territoire de la commune de Brig-Glis;
+- q) le tronçon "Steg – Mittal (Gampel-Bratsch)" de la RC n° 719 "Steg – Mittal (Gampel-Bratsch)" du point de repère 10 + 170 au point de repère 20 + 200, sur territoire de la commune de Gampel-Bratsch;
+- r) le tronçon "Steg – Mittal (Steg-Hohtenn)" de la RC n° 719 "Steg – Mittal (Steg-Hohtenn)" du point de repère 0 + 0 au point de repère 10 + 170 et du point de repère 20 + 200 au point de repère 35 + 0, sur territoire de la commune de Steg-Hohtenn.
 
-- g) Le tronçon «Intérieur de Mazembroz» (Strada No 508) du point de repère 21 au point de repère 24, sur territoire de la commune de Fully;
+#### Art. 7b
 
-- h) L'ancienne route de «Salvan» du point de repère 20 + 750 au point de repère 30 + 310 de la route No 102, sur territoire de la commune de Martigny.
+**Arrondissement 2 (Valais Central)**
 
-### Section 2: Classement de routes communales
+<sup>1</sup> Sont déclassés en routes communales:
+
+- a) le tronçon "Intérieur de Chandolin" de la RC n° 42 "Vissoie – St-Luc - Chandolin" du point de repère 100+605 au point de repère 111 + 0 et du point de repère 300 + 0 au point de repère 302 + 0, sur territoire de la commune d’Anniviers;
+- b) le tronçon "Intérieur de Chalais" de la RC n° 44 Sion – Bramois – Chippis – Sierre" du point de repère 150 + 380 au point de repère 150 + 590, sur territoire de la commune de Chalais;
+- c) le tronçon "Intérieur de La Forclaz" de la RC n° 213 "La Sage – La Forclaz" du point de repère 0 + 948 au point de repère 15 + 0, sur territoire de la commune d’Evolène;
+- d) le tronçon "Cor – Les Bioleys" de la RC n° 220 "Aproz – Cor – Les Bioleys" du point de repère 10 + 571 au point de repère 29 + 0, sur territoire de la commune de Nendaz;
+- e) le tronçon "Limite communale entre Ayent/Arbaz – Valan" de la RC n° 532 "raccordement de Blignou" du point de repère 10 + 120 au point de repère 15 + 0, sur territoire de la commune d’Arbaz;
+- f) le tronçon de "Blignou – limite communale entre Ayent/Arbaz" de la RC n° 532 "raccordement de Blignou" du point de repère 0 + 590 au point de repère 10 + 120, sur territoire de la commune d’Ayent.
+
+#### Art. 7c
+
+**Arrondissement 3 (Bas-Valais)**
+
+<sup>1</sup> Est déclassé en route communale le tronçon "Intérieur de La Tzoumaz" de la RC n° 87 "Riddes – La Tzoumaz" du point de repère 120 + 725 au point de repère 143 + 0, sur territoire de la commune de Riddes.
+
+## 2 Classement de routes communales
+
+### 2.1 Etat dès le 02.07.1999
 
 #### Art. 8
 
 **Arrondissement 2**
 
-Est classée route secondaire de montagne la «route de déviation à Loèche-les-Bains» (Strada No 30) du point de repère 200 au point de repère 164, sur territoire de la commune de Loèche-les-Bains.
+<sup>1</sup> Est classée route secondaire de montagne la "route de déviation à Loèche-les-Bains" (Strada No 30) du point de repère 200 au point de repère 164, sur territoire de la commune de Loèche-les-Bains.
 
 #### Art. 9
 
 **Arrondissement 7**
 
-Sont classées routes secondaires de montagne:
+<sup>1</sup> Sont classées routes secondaires de montagne:
 
-- a) La route «Mund - Färchu» du point de repère 70 + 150 (Strada No 164) jusqu'à l'entrée du hameau de Färchu, sur territoire de la commune de Mund;
-
-- b) La route «Blitzingen - Chastebiel» du point de repère 270 (Strada A19) jusqu'au hameau de Chastebiel, sur territoire de la commune de Blitzingen.
+- a) …
+- b) la route "Blitzingen - Chastebiel" du point de repère 270 (Strada A19) jusqu'au hameau de Chastebiel, sur territoire de la commune de Blitzingen.
 
 #### Art. 10
 
 **Arrondissement 3**
 
-<sup>1</sup> Est classé route principale de montagne le tronçon «Transit Sud à Montana/Vermala» du point de repère 130 + 20 au point de repère 130 + 700 (Strada No 45), sur territoire de la commune de Randogne.
+<sup>1</sup> Est classé route principale de montagne le tronçon "Transit Sud à Montana/Vermala" du point de repère 130 + 20 au point de repère 130 + 700 (Strada No 45), sur territoire de la commune de Randogne.
 
-<sup>2</sup> Est classé route secondaire de montagne le «raccordement de Blignoud (Strada No 532), prolongement du point de repère 6 jusqu'à la route No 59 Grimisuat - Arbaz - Anzère», point de repère 20 + 50, sur territoire des communes d'Ayent et Arbaz.
+<sup>2</sup> …
+
+<sup>3</sup> Demeure route secondaire de montagne le tronçon de la route n° 59, du point de repère 10 + 885 au point de repère 20 + 150, sur territoire de la commune d’Arbaz.
 
 #### Art. 11
 
 **Arrondissement 4**
 
-<sup>1</sup> Est classé route principale de plaine le tronçon «giratoire Transelectric - Chandoline - carrefour du Boléro» (Strada No 44) du point de repère 10 + 200 au point de repère 30 + 700, sur territoire de la commune de Sion;
+<sup>1</sup> Est classé route principale de plaine le tronçon "giratoire Transelectric - Chandoline - carrefour du Boléro" (Strada No 44) du point de repère 10 + 200 au point de repère 30 + 700, sur territoire de la commune de Sion.
 
 <sup>2</sup> Sont classés routes secondaires de plaine:
 
-- a) La «route de l'Aéroport de Sion» du point de repère 0 + 640 (Strada No 44) jusqu'à l'entrée du parking de l'Aéroport, sur territoire de la commune de Sion;
-
-- b) Le «prolongement Sud du raccordement N9 de Conthey« (Strada No 504) du point de repère 18 jusqu'au raccordement avec la route 67, point de repère 10 + 400, Pont-de-la-Morge - Aproz, sur territoire de la commune de Conthey.
+- a) la "route de l'Aéroport de Sion" du point de repère 0 + 640 (Strada No 44) jusqu'à l'entrée du parking de l'Aéroport, sur territoire de la commune de Sion;
+- b) le "prolongement Sud du raccordement N9 de Conthey" (Strada No 504) du point de repère 18 jusqu'au raccordement avec la route 67, point de repère 10 + 400, Pont-de-la-Morge - Aproz, sur territoire de la commune de Conthey.
 
 #### Art. 12
 
 **Arrondissement 5**
 
-<sup>1</sup> Est classé route principale de plaine le «tronçon de la route du Levant entre le rond-point des Neuvilles, point de repère 16 (Strada No 90) et le carrefour du Pré-de-Foire» point de repère 10 + 860 (Strada No 403), sur territoire de la commune de Martigny.
+<sup>1</sup> Est classé route principale de plaine le "tronçon de la route du Levant entre le rond-point des Neuvilles, point de repère 16 (Strada No 90) et le carrefour du Pré-de-Foire" point de repère 10 + 860 (Strada No 403), sur territoire de la commune de Martigny.
 
-<sup>2</sup> Est classé route secondaire de plaine le «raccordement à l'Indivis» (Strada No 434) du point de repère 0 au point de repère 14, sur territoire des communes de Charrat et Martigny.
+<sup>2</sup> Est classé route secondaire de plaine le "raccordement à l'Indivis" (Strada No 434) du point de repère 0 au point de repère 14, sur territoire des communes de Charrat et Martigny.
 
-<sup>3</sup> Est classée route secondaire de montagne la route «Ravoire - Chez Pillet» du point de repère 50 + 600 (Strada No 100) jusqu'au hameau de Chez Pillet, sur territoire de la commune de Martigny-Combe.
+<sup>3</sup> Est classée route secondaire de montagne la route "Ravoire - Chez Pillet" du point de repère 50 + 600 (Strada No 100) jusqu'au hameau de Chez Pillet, sur territoire de la commune de Martigny-Combe.
 
 #### Art. 13
 
 **Arrondissement 6**
 
-Est classée route secondaire de montagne la route «Dorénaz - Allesse Champex» du point de repère 20 + 740 (Strada No 103) jusqu'à la place du téléphérique de Champex, sur territoire de la commune de Dorénaz.
+<sup>1</sup> Est classée route secondaire de montagne la route "Dorénaz - Allesse Champex" du point de repère 20 + 740 (Strada No 103) jusqu'à la place du téléphérique de Champex, sur territoire de la commune de Dorénaz.
 
-### Section 3: Dispositions finales
+### 2.2 Etat dès le 16.11.2022
+
+#### Art. 13a
+
+**Arrondissement 1 (Haut-Valais)**
+
+<sup>1</sup> Est classée en route cantonale secondaire de montagne, le tronçon "Furka - / Kelchbachstrasse" de la RC n° 1 "Naters – Blatten" du point de repère 300+0 au point de repère 307+0, sur territoire de la commune de Naters.
+
+#### Art. 13b
+
+**Arrondissement 3 (Bas Valais)**
+
+<sup>1</sup> Est classé en route cantonale principale de montagne, le tronçon "Gare d’Orsières" de la RC n° 96 "Orsières – Ferret" du point de repère 400+0 au point de repère 402+0, sur territoire de la commune d’Orsières.
+
+### 2a Changement de catégorie
+
+#### Art. 13c
+
+**Arrondissement 1 (Haut-Valais)**
+
+<sup>1</sup> Est classé en route cantonale principale de montagne le tronçon "Goppenstein – Ferden" de la RC n° 24 "Goppenstein – Blatten – Fafleralp" du point de repère 0+0 au point de repère 20 + 630, sur territoire de la commune Ferden.
+
+## 3 Dispositions finales
 
 #### Art. 14
 
-<sup>1</sup> Lors du déclassement, l'Etat a l'obligation de remettre la route à la commune dans l'état correspondant à sa future affectation. Les frais de remise en état sont à la charge du canton.
+<sup>1</sup> Lors du déclassement des routes par la présente décision, l’Etat s’engage, directement ou indirectement, à remettre la route à la commune dans l'état correspondant à sa future affectation. Les frais de remise en état sont à la charge du canton.
 
-<sup>2</sup> Lors du classement d'une route en route cantonale, la commune doit apporter la preuve que cette route est abornée et mutée à son nom au Registre foncier. L'état de la route doit correspondre à son classement. Les frais y relatifs sont à la charge de la commune.
+<sup>2</sup> Lors du classement d'une route en route cantonale, la commune doit apporter la preuve que cette route est abornée et mutée à son nom au Registre foncier. L'état de la route doit correspondre, directement ou indirectement, à son classement. Les frais y relatifs sont à la charge de la commune.
 
 #### Art. 15
 
 <sup>1</sup> La présente décision n'est pas soumise au vote populaire.
 
-<sup>2</sup> Le Conseil d'Etat fixe l'entrée en vigueur de la présente décision.<sup>1</sup>
+<sup>2</sup> Le Conseil d'Etat fixe l'entrée en vigueur de la présente décision.
 
-<sup>3</sup> Le Conseil d'Etat, par le Département des transports, de l'équipement et de l'environnement, est chargé de l'exécution de la présente décision. Il procède aux réquisitions tendant aux mutations au Registre foncier.
+<sup>3</sup> Le Conseil d'Etat, par le département en charge de la mobilité, gère l'exécution de la présente décision. Il procède aux réquisitions tendant aux mutations au Registre foncier. Le département en charge de la mobilité peut déléguer certaines tâches en lien avec le présent alinéa au service en charge de la mobilité.
 
-Ainsi décidé en séance du Grand Conseil, à Sion, le 19 mai 1999.
+## T1 Dispositions transitoires de la modification du 16 novembre 2022
 
-La présidente du Grand Conseil: Marie-Paule Zufferey-Ravaz Les secrétaires: Madeleine Mayor, Hans-Peter Constantin
+#### Art. T1-1
 
-<sup>1</sup> Entrée en vigueur le 2 juillet 1999.
+<sup>1</sup> Dès l’entrée en force de la présente décision, les tronçons déclassés deviendront des voies publiques communales et cette nouvelle affectation doit être d’intérêt général, à l’exception des tronçons “Steg – Mittal (Gampel-Bratsch)“ (art. 7a al. 1 let. q) et “Steg – Mittal (Steg-Hohtenn)“ (art. 7a al. 1 let. r) qui deviendront des voies publiques communales mais dont l’utilisation sera limitée à l’entretien des infrastructures communales.
+
+<sup>2</sup> Dès l’entrée en force de la présente décision, les tronçons classés deviendront des voies publiques cantonales et cette nouvelle affectation reste d’intérêt général.
+
+<sup>3</sup> Dès l’entrée en force de la présente décision, la propriété relative à l’emprise des tronçons de route déclassée est transférée gratuitement aux communes concernées. La propriété relative à l’emprise des tronçons de route classée est transférée gratuitement au canton du Valais.
+
+<sup>4</sup> Dès l’entrée en force de la présente décision, les communes concernées par les tronçons déclassés exerceront la souveraineté sur lesdits tronçons, et ce nonobstant la durée des démarches nécessaires à l’inscription tant au registre foncier qu’au cadastre communal du transfert de propriété de l’emprise desdits tronçons.
+
+<sup>5</sup> Dès l’entrée en force de la présente décision, le canton du Valais exercera la souveraineté sur les tronçons de route classés, et ce nonobstant la durée des démarches nécessaires à l’inscription tant au registre foncier qu’au cadastre communal du transfert de propriété de l’emprise desdits tronçons.
+
+#### Art. T1-2
+
+<sup>1</sup> Dès l’entrée en force de la présente décision, les alignements routiers des routes déclassées ou classées par la présente décision seront fixés par la loi cantonale sur les routes et correspondent à leur nouvelle catégorie.
+
+<sup>2</sup> Si la nouvelle autorité exerçant la souveraineté routière selon la loi cantonale sur les routes souhaite fixer des alignements différents de ceux prévus par la loi, elle peut en faire une demande auprès de l’autorité compétente conformément aux articles de ladite loi réglant la procédure d’approbation des alignements.
+
+RCV RO/AGS 1999 f 81 | d 84
