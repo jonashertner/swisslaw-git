@@ -3,11 +3,11 @@ sr: "0.362.315"
 title: "Vereinbarung vom 8. November 2018 zwischen der Europäischen Union einerseits und dem Königreich Norwegen, der Republik Island, der Schweizerischen Eidgenossenschaft und dem Fürstentum Liechtenstein andererseits zur Beteiligung dieser Staaten an der Europäischen Agentur für das Betriebsmanagement von IT-Grosssystemen im Raum der Freiheit, der Sicherheit und des Rechts"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/138"
 language: de
-version: 2020-03-01
+version: 2022-11-16
 adopted: 2018-11-08
 in_force: 2020-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/138/20200301/de/xml/fedlex-data-admin-ch-eli-cc-2020-138-20200301-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/138/20200301/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/138/20221116/de/xml/fedlex-data-admin-ch-eli-cc-2020-138-20221116-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/138/20221116/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -24,9 +24,9 @@ Schweizerische Ratifikationsurkunde hinterlegt am 11. Februar 2020
 
 In Kraft getreten für die Schweiz am 1. März 2020
 
-(Stand am 1. März 2020)
+(Stand am 16. November 2022)
 
-[^t-1]: [AS 2020 737](https://fedlex.data.admin.ch/eli/oc/2020/137)
+[^t-1]: [AS 2020 737](https://fedlex.data.admin.ch/eli/oc/2020/137). Die Berichtigung vom 16. Nov. 2022 betrifft nur den französischen Text ([AS 2022 680](https://fedlex.data.admin.ch/eli/oc/2022/680)).
 
 Die Europäische Union einerseits und das Königreich Norwegen, im Folgenden «Norwegen», die Republik Island, im Folgenden «Island», die Schweizerische Eidgenossenschaft, im Folgenden «Schweiz» und Das Fürstentum Liechtenstein, im Folgenden «Liechtenstein», andererseits,
 
@@ -479,12 +479,16 @@ Die Entscheidungen, die die Agentur oder die Europäische Kommission innerhalb d
 
 Die Urteile, die der Gerichtshof der Europäischen Union aufgrund einer Schiedsklausel fällt, sind unter den gleichen Bedingungen vollstreckbare Titel.
 
-Geltungsbereich am 18. Februar 2020
+Geltungsbereich am 16. November 2022[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation</th><th></th><th>Inkrafttreten</th><th></th></tr>
 <tr><td>Europäische Union</td><td>21. Mai</td><td>2019</td><td>1. Januar</td><td>2020</td></tr>
+<tr><td>Island</td><td>7. November</td><td>2022</td><td>1. Dezember</td><td>2022</td></tr>
 <tr><td>Liechtenstein</td><td>7. Februar</td><td>2020</td><td>1. März</td><td>2020</td></tr>
-<tr><td>Norwegen</td><td>16. Dezember</td><td>2019</td><td>1. Januar</td><td>2020</td></tr>
+<tr><td>Norwegen\*</td><td>16. Dezember</td><td>2019</td><td>1. Januar</td><td>2020</td></tr>
 <tr><td>Schweiz</td><td>11. Februar</td><td>2020</td><td>1. März</td><td>2020</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die Texte können auf der Internetseite des Rates der Europäischen Union [https://www.consilium.europa.eu/de/documents-publications/treaties-agreements/ agreement/?id=2018049&DocLanguage=en](https://www.consilium.europa.eu/de/documents-publications/treaties-agreements/agreement/?id=2018049&DocLanguage=en) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. [tab]</td></tr>
 </table>
+
+[^t-2]: [AS 2020 739](https://fedlex.data.admin.ch/eli/oc/2020/138); [2022 692](https://fedlex.data.admin.ch/eli/oc/2022/692). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht https://www.fedlex.admin.ch/de/treaty.

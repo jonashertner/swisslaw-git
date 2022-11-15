@@ -3,11 +3,11 @@ sr: "0.362.315"
 title: "Accordo dell'8 novembre 2018 tra l'Unione europea, da una parte, e il Regno di Norvegia, la Repubblica d'Islanda, la Confederazione svizzera e il Principato del Liechtenstein, dall'altra, sulla partecipazione di tali Stati all'Agenzia europea per la gestione operativa dei sistemi IT su larga scala nello spazio di libertà, sicurezza e giustizia"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/138"
 language: it
-version: 2020-03-01
+version: 2022-11-16
 adopted: 2018-11-08
 in_force: 2020-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/138/20200301/it/xml/fedlex-data-admin-ch-eli-cc-2020-138-20200301-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/138/20200301/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/138/20221116/it/xml/fedlex-data-admin-ch-eli-cc-2020-138-20221116-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/138/20221116/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,17 +18,11 @@ RU **2020** 739; FF **2019** 1815
 
 *Testo originale*
 
-Concluso a Bruxelles l’8 novembre 2018
+Concluso a Bruxelles l’8 novembre 2018 Approvato dall’Assemblea federale il 27 settembre 2019[^t-1] Strumento di ratifica svizzero depositato l’11 febbraio 2020 Entrato in vigore per la Svizzera il 1° marzo 2020
 
-Approvato dall’Assemblea federale il 27 settembre 2019[^t-1]
+(Stato 16 novembre 2022)
 
-Strumento di ratifica svizzero depositato l’11 febbraio 2020
-
-Entrato in vigore per la Svizzera il 1° marzo 2020
-
-(Stato 1° marzo 2020)
-
-[^t-1]: [RU 2020 737](https://fedlex.data.admin.ch/eli/oc/2020/137)
+[^t-1]: [RU 2020 737](https://fedlex.data.admin.ch/eli/oc/2020/137). La correzione del 16 nov. 2022 concerne soltanto il testo francese ([RU 2022 680](https://fedlex.data.admin.ch/eli/oc/2022/680)).
 
 L’Unione europea, da una parte, e il Regno di Norvegia, di seguito denominato «Norvegia», la Repubblica d’Islanda, di seguito denominata «Islanda», la Confederazione svizzera, di seguito denominata «Svizzera», e il Principato del Liechtenstein,
 
@@ -483,12 +477,16 @@ Le decisioni adottate dall’Agenzia o dalla Commissione europea in applicazione
 
 Le sentenze della Corte di giustizia dell’Unione europea pronunciate in virtù di una clausola compromissoria hanno forza esecutiva alle stesse condizioni.
 
-Campo d’applicazione il 18 febbraio 2020
+Campo d’applicazione il 16 novembre 2022[^t-2]
 
 <table>
 <tr><th>Stati parte</th><th>Ratifica</th><th></th><th>Entrata in vigore</th><th></th></tr>
-<tr><td>Unione europea</td><td>21 maggio</td><td>2019</td><td>1° gennaio</td><td>2020</td></tr>
+<tr><td>Islanda</td><td>7 novembre</td><td>2022</td><td>1° dicembre</td><td>2022</td></tr>
 <tr><td>Liechtenstein</td><td>7 febbraio</td><td>2020</td><td>1° marzo</td><td>2020</td></tr>
-<tr><td>Norvegia</td><td>16 dicembre</td><td>2019</td><td>1° gennaio</td><td>2020</td></tr>
+<tr><td>Norvegia\*</td><td>16 dicembre</td><td>2019</td><td>1° gennaio</td><td>2020</td></tr>
 <tr><td>Svizzera</td><td>11 febbraio</td><td>2020</td><td>1° marzo</td><td>2020</td></tr>
+<tr><td>Unione europea</td><td>21 maggio</td><td>2019</td><td>1° gennaio</td><td>2020</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo può essere consultato sul sito Internet del Consiglio dell’Unione Europea [https://www.consilium.europa.eu/it/documents-publications/treaties-agreements/](https://www.consilium.europa.eu/it/documents-publications/treaties-agreements/agreement/?id=2018049&DocLanguage=en) [agreement/?id=2018049&DocLanguage=en](https://www.consilium.europa.eu/it/documents-publications/treaties-agreements/agreement/?id=2018049&DocLanguage=en) oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. [tab]</td></tr>
 </table>
+
+[^t-2]: [RU 2020 739](https://fedlex.data.admin.ch/eli/oc/2020/138); [2022 692](https://fedlex.data.admin.ch/eli/oc/2022/692). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: https://www.fedlex.admin.ch/it/treaty.

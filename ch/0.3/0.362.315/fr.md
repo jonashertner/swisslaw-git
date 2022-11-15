@@ -3,11 +3,11 @@ sr: "0.362.315"
 title: "Arrangement du 8 novembre 2018 entre l'Union européenne, d'une part, et le Royaume de Norvège, la République d'Islande, la Confédération suisse et la Principauté du Liechtenstein, d'autre part, concernant la participation de ces États à l'agence européenne pour la gestion opérationnelle des systèmes d'information à grande échelle au sein de l'espace de liberté, de sécurité et de justice"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/138"
 language: fr
-version: 2020-03-01
+version: 2022-11-16
 adopted: 2018-11-08
 in_force: 2020-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/138/20200301/fr/xml/fedlex-data-admin-ch-eli-cc-2020-138-20200301-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/138/20200301/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/138/20221116/fr/xml/fedlex-data-admin-ch-eli-cc-2020-138-20221116-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/138/20221116/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -18,15 +18,16 @@ RO **2020** 739; FF **2019** 2099
 
 *Texte original*
 
-Conclu à Bruxelles le 8 novembre 2018 Instrument de ratification déposé par la Suisse le 27 septembre 2019[^t-1]
+Conclu à Bruxelles le 8 novembre 2018 Approuvé par l’Assemblée fédérale le 27 septembre 2019[^t-1] [^t-2]
 
 Instrument de ratification déposé par la Suisse le 11 février 2020
 
 Entré en vigueur pour la Suisse le 1<sup>er</sup> mars 2020
 
-(Etat le 1<sup>er</sup> mars 2020)
+(État le 16 novembre 2022)
 
 [^t-1]: [RO 2020 737](https://fedlex.data.admin.ch/eli/oc/2020/137)
+[^t-2]: Erratum du 16 nov. 2022 ([RO 2022 680](https://fedlex.data.admin.ch/eli/oc/2022/680)).
 
 L’Union européenne, d’une part, et le Royaume de Norvège, ci-après dénommé «Norvège», la République d’Islande, ci-après dénommée «Islande», la Confédération suisse, ci-après dénommée «Suisse», et la Principauté du Liechtenstein, ci-après dénommée «Liechtenstein», d’autre part,
 
@@ -480,12 +481,16 @@ Les décisions de l’agence ou de la Commission européenne, prises dans le cad
 
 Les arrêts de la Cour de justice de l’Union européenne rendus en vertu d’une clause compromissoire ont force exécutoire sous les mêmes conditions.
 
-Champ d’application le 18 février 2020
+Champ d’application le 16 novembre 2022[^t-3]
 
 <table>
 <tr><th>États parties</th><th>Ratification</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><td>Islande</td><td>7 novembre</td><td>2022</td><td>1<sup>er</sup> décembre</td><td>2022</td></tr>
 <tr><td>Liechtenstein</td><td>7 février</td><td>2020</td><td>1<sup>er</sup> mars</td><td>2020</td></tr>
-<tr><td>Norvège</td><td>16 décembre</td><td>2019</td><td>1<sup>er</sup> janvier</td><td>2020</td></tr>
+<tr><td>Norvège\*</td><td>16 décembre</td><td>2019</td><td>1<sup>er</sup> janvier</td><td>2020</td></tr>
 <tr><td>Suisse</td><td>11 février</td><td>2020</td><td>1<sup>er</sup> mars</td><td>2020</td></tr>
 <tr><td>Union européenne</td><td>21 mai</td><td>2019</td><td>1<sup>er</sup> janvier</td><td>2020</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes peuvent être consultés à l’adresse du site Internet du Conseil de l’Union européenne: [https://www.consilium.europa.eu/fr/documents-publications/treaties-agreements/agreement/?id=2018049&DocLanguage=en](https://www.consilium.europa.eu/fr/documents-publications/treaties-agreements/agreement/?id=2018049&DocLanguage=en) ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. [tab]</td></tr>
 </table>
+
+[^t-3]: [RO 2020 739](https://fedlex.data.admin.ch/eli/oc/2020/138); [2022 692](https://fedlex.data.admin.ch/eli/oc/2022/692). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [https://www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
