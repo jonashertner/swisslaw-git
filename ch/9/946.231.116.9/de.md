@@ -3,18 +3,18 @@ sr: "946.231.116.9"
 title: Verordnung vom 16. März 2022 über Massnahmen gegenüber Belarus
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/172"
 language: de
-version: 2022-06-10
+version: 2022-11-16
 adopted: 2022-03-16
 in_force: 2022-03-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/172/20220610/de/xml/fedlex-data-admin-ch-eli-cc-2022-172-20220610-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/172/20220610/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/172/20221116/de/xml/fedlex-data-admin-ch-eli-cc-2022-172-20221116-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/172/20221116/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen gegenüber Belarus
 
-vom 16. März 2022 (Stand am 10. Juni 2022)
+vom 16. März 2022 (Stand am 16. November 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -622,7 +622,7 @@ Anhang 3
 
 (Art. 5 Abs. 1)
 
-## Güter zur militärischen und technologischen Stärkung oder zur Entwicklung des Verteidigungs- und Sicherheitssektors****
+## Güter zur militärischen und technologischen Stärkung oder zur Entwicklung des Verteidigungs- und Sicherheitssektors
 
 [^annex3-lvlu1-1]
 
@@ -708,11 +708,11 @@ Anhang 4
 <tr><td>8549</td><td>Abfälle und Schrott von elektrischen Primärelementen, Primärbatterien und Akkumulatoren; ausgebrauchte elektrische Primärelemente, Primärbatterien und Akkumulatoren; elektrische Teile von Maschinen, Apparaten oder Geräten, in Kapitel 85 anderweit weder genannt noch inbegriffen Vertrauliche Produkte des Kapitels 85; Waren des Kapitels 85, die als Post- oder Paketpostsendung (extra) versandt werden/zusammengesetzter Kode zur Verbreitung von Statistiken</td></tr>
 </table>
 
-Anhang 5*[^t-1]*
+Anhang 5[^t-1]
 
 (Art. 7 Abs. 3)
 
-## Natürliche Personen, Unternehmen und Organisationen, denen eine Bewilligung von Ausnahmen nach Artikel 7 Absatz 2 verweigert wird****
+## Natürliche Personen, Unternehmen und Organisationen, denen eine Bewilligung von Ausnahmen nach Artikel 7 Absatz 2 verweigert wird
 
 [^annex5-lvlu1-1]
 
@@ -810,32 +810,32 @@ Anhang 12
 <tr><td>4011</td><td>Neue Luftreifen, aus Kautschuk</td></tr>
 </table>
 
-Anhang 13*[^t-2]*
+Anhang 13[^t-2]
 
 (Art. 12 Abs. 1 Bst. a und 25 Abs. 1)
 
-## Natürliche Personen, gegen die sich die Finanzsanktionen und das Ein- und Durchreiseverbot richten, sowie Unternehmen und Organisationen, gegen die sich die Finanzsanktionen richten****
+## Natürliche Personen, gegen die sich die Finanzsanktionen und das Ein- und Durchreiseverbot richten, sowie Unternehmen und Organisationen, gegen die sich die Finanzsanktionen richten
 
 [^annex13-lvlu1-1]
 
-[^t-2]: Bereinigt gemäss Ziff. I der V des WBF vom 10. Juni 2022, in Kraft seit 10. Juni 2022 um 18.00 Uhr ([AS 2022 346](https://fedlex.data.admin.ch/eli/oc/2022/346)).
-[^annex13-lvlu1-1]: Dieser Anhang wird weder in der AS noch in der SR veröffentlicht. Der Inhalt des Anhangs kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern, bestellt werden oder unter www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Wirtschaftsbeziehungen &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos &gt; Sanktionsmassnahmen eingesehen werden.
+[^t-2]: Bereinigt gemäss Ziff. I der V des WBF vom 10. Juni 2022 ([AS 2022 346](https://fedlex.data.admin.ch/eli/oc/2022/346)) und vom 15. Nov. 2022, in Kraft seit 16. Nov. 2022 um 18.00 Uhr ([AS 2022 679](https://fedlex.data.admin.ch/eli/oc/2022/679)).
+[^annex13-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter [https://fedlex.data.admin.ch/eli/oc/2022/679](https://fedlex.data.admin.ch/eli/oc/2022/679) &gt; Allgemeine Information &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 14
 
 (Art. 16 Abs. 1 Bst. b)
 
-## Banken und andere Unternehmen und Organisationen, die Restriktionen auf dem Geld- und Kapitalmarkt unterliegen****
+## Banken und andere Unternehmen und Organisationen, die Restriktionen auf dem Geld- und Kapitalmarkt unterliegen
 
 [^annex14-lvlu1-1]
 
 [^annex14-lvlu1-1]: Dieser Anhang wird weder in der AS noch in der SR veröffentlicht. Der Inhalt des Anhangs kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern, bestellt werden oder unter www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Wirtschaftsbeziehungen &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos &gt; Sanktionsmassnahmen eingesehen werden.
 
-Anhang 15*[^t-3]*
+Anhang 15[^t-3]
 
 (Art. 23)
 
-## Banken und andere Unternehmen und Organisationen, die dem Verbot der Bereitstellung spezialisierter Nachrichtenübermittlungsdienste für den Zahlungsverkehr unterliegen****
+## Banken und andere Unternehmen und Organisationen, die dem Verbot der Bereitstellung spezialisierter Nachrichtenübermittlungsdienste für den Zahlungsverkehr unterliegen
 
 [^annex15-lvlu1-1]
 

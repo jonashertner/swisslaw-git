@@ -3,18 +3,18 @@ sr: "946.231.116.9"
 title: Ordonnance du 16 mars 2022 instituant des mesures à l’encontre du Bélarus
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/172"
 language: fr
-version: 2022-06-10
+version: 2022-11-16
 adopted: 2022-03-16
 in_force: 2022-03-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/172/20220610/fr/xml/fedlex-data-admin-ch-eli-cc-2022-172-20220610-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/172/20220610/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/172/20221116/fr/xml/fedlex-data-admin-ch-eli-cc-2022-172-20221116-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/172/20221116/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre du Bélarus
 
-du 16 mars 2022 (Etat le 10 juin 2022)
+du 16 mars 2022 (État le 16 novembre 2022)
 
 Le Conseil fédéral suisse,
 
@@ -559,7 +559,7 @@ Annexe 1
 - 8 Barbelé rasoir.
 - 9 Couteaux militaires, couteaux de combat et baïonnettes dont la lame a une longueur supérieure à 10 cm, autres que ceux visés au ch. 1 de l’annexe 5 OCB.
 - 10 Équipements spécialement conçus pour la production des biens visés dans la présente liste.
-- 11 Technologies spécifiques requises pour le développement, la production ou l*’*utilisation des biens visés dans la présente liste.
+- 11 Technologies spécifiques requises pour le développement, la production ou l’utilisation des biens visés dans la présente liste.
 
 [^annex1-lvlu1-1]: [RS 514.511](https://fedlex.data.admin.ch/eli/cc/1998/808_808_808)
 [^annex1-lvlu1-2]: [RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)
@@ -624,7 +624,7 @@ Annexe 3
 
 (art. 5, al. 1)
 
-## Biens destinés à un renforcement militaire et technologique ou au développement du secteur de la défense et de la sécurité****
+## Biens destinés à un renforcement militaire et technologique ou au développement du secteur de la défense et de la sécurité
 
 [^annex3-lvlu1-1]
 
@@ -710,11 +710,11 @@ Annexe 4
 <tr><td>8549</td><td>Déchets et débris de piles, de batteries de piles et d’accumulateurs électriques; piles et batteries de piles électriques hors d’usage et accumulateurs électriques hors d’usage; parties électriques de machines ou d’appareils, non dénommées ni comprises ailleurs dans le chap. 85 Produits confidentiels du chap. 85; marchandises du chap. 85 transportées par la poste ou par colis postaux (extra)/code reconstitué pour la diffusion statistique</td></tr>
 </table>
 
-Annexe 5*[^t-1]*
+Annexe 5[^t-1]
 
 (art. 7, al. 3)
 
-## Personnes physiques, entreprises et entités auxquelles les dérogations visées à l’art. 7, al. 2, sont refusées****
+## Personnes physiques, entreprises et entités auxquelles les dérogations visées à l’art. 7, al. 2, sont refusées
 
 [^annex5-lvlu1-1]
 
@@ -812,32 +812,32 @@ Annexe 12
 <tr><td>4011</td><td>Pneumatiques neufs, en caoutchouc</td></tr>
 </table>
 
-Annexe 13*[^t-2]*
+Annexe 13[^t-2]
 
 (art. 12, al. 1, let. a, et 25, al. 1)
 
-## Personnes physiques visées par les restrictions financières et par l’interdiction d’entrée et de transit, et entreprises et entités visées par les sanctions financières****
+## Personnes physiques visées par les restrictions financières et par l’interdiction d’entrée et de transit, et entreprises et entités visées par les sanctions financières
 
 [^annex13-lvlu1-1]
 
-[^t-2]: Mise à jour par le ch. I de l’O du DEFR du 10 juin 2022, en vigueur depuis le 10 juin 2022 à 18 heures ([RO 2022 346](https://fedlex.data.admin.ch/eli/oc/2022/346)).
-[^annex13-lvlu1-1]: La présente annexe n’est publiée ni au RO ni au RS. Le texte de l’annexe peut être commandé au SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne, ou consulté sur www.seco.admin.ch &gt; Économie extérieure et Coopération économique &gt; Relations économiques &gt; Contrôles à l’exportation et sanction &gt; Sanctions/Embargos &gt; Sanctions de la Suisse.
+[^t-2]: Mise à jour par le ch. I des O du DEFR du 10 juin 2022 ([RO 2022 346](https://fedlex.data.admin.ch/eli/oc/2022/346)) et du 15 nov. 2022, en vigueur depuis le 16 nov. 2022 à 18 heures ([RO 2022 679](https://fedlex.data.admin.ch/eli/oc/2022/679)).
+[^annex13-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2022/679](https://fedlex.data.admin.ch/eli/oc/2022/679) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
 Annexe 14
 
 (art. 16, al. 1, let. b)
 
-## Banques et autres entreprises ou entités soumises à des restrictions sur les marchés monétaire et financier****
+## Banques et autres entreprises ou entités soumises à des restrictions sur les marchés monétaire et financier
 
 [^annex14-lvlu1-1]
 
 [^annex14-lvlu1-1]: La présente annexe n’est publiée ni au RO ni au RS. Le texte de l’annexe peut être commandé au SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne, ou consulté sur www.seco.admin.ch &gt; Économie extérieure et Coopération économique &gt; Relations économiques &gt; Contrôles à l’exportation et sanction &gt; Sanctions/Embargos &gt; Sanctions de la Suisse.
 
-Annexe 15*[^t-3]*
+Annexe 15[^t-3]
 
 (art. 23)
 
-## Banques et autres entreprises ou entités soumises à l’interdiction de fournir de services spécialisés de messagerie financière****
+## Banques et autres entreprises ou entités soumises à l’interdiction de fournir de services spécialisés de messagerie financière
 
 [^annex15-lvlu1-1]
 
