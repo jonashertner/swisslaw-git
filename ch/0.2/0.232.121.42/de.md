@@ -3,11 +3,11 @@ sr: "0.232.121.42"
 title: Ausführungsordnung vom 30. September 2003 der Genfer Akte (1999) des Haager Abkommens betreffend die internationale Eintragung gewerblicher Muster und Modelle (mit Gebührenverzeichnis)
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/236"
 language: de
-version: 2022-01-01
+version: 2022-11-18
 adopted: 2003-09-30
 in_force: 2004-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/236/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2006-236-20220101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/236/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/236/20221118/de/xml/fedlex-data-admin-ch-eli-cc-2006-236-20221118-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/236/20221118/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -22,7 +22,7 @@ Angenommen von der Versammlung des Haager Verbands am 30. September 2003
 
 In Kraft getreten am 1. April 2004
 
-(Stand am 1. Januar 2022)
+(Stand am 18. November 2022)
 
 [^t-1]: Fassung gemäss Beschluss der Versammlung des Haager Verbands vom 30. Nov. 2009, in Kraft seit 1. Jan. 2010 ([AS 2014 547](https://fedlex.data.admin.ch/eli/oc/2014/110)).
 
@@ -134,9 +134,9 @@ Mitteilungen an das Internationale Büro sind in der in den Verwaltungsvorschrif
 
 \5) [*Ausnahme*] Diese Regel ist nicht auf die Bezahlung des zweiten Teilbetrags der individuellen Bestimmungsgebühr über das Internationale Büro nach Regel 12 Absatz 3 Buchstabe c anwendbar.[^chap1-lvlu5-6]
 
-[^chap1-lvlu5-2]: Fassung gemäss Beschluss der Versammlung des Haager Verbands vom 25. Sept. 2020, in Kraft seit 1. Jan. 2022 ([AS 2021 910](https://fedlex.data.admin.ch/eli/oc/2021/910)).
-[^chap1-lvlu5-3]: Fassung gemäss Beschluss der Versammlung des Haager Verbands vom 25. Sept. 2020, in Kraft seit 1. Jan. 2022 ([AS 2021 910](https://fedlex.data.admin.ch/eli/oc/2021/910)).
-[^chap1-lvlu5-4]: Fassung gemäss Beschluss der Versammlung des Haager Verbands vom 25. Sept. 2020, in Kraft seit 1. Jan. 2022 ([AS 2021 910](https://fedlex.data.admin.ch/eli/oc/2021/910)).
+[^chap1-lvlu5-2]: Fassung gemäss Beschluss der Versammlung des Haager Verbands vom 8. Okt. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 910](https://fedlex.data.admin.ch/eli/oc/2021/910)). Berichtigung vom 18. Nov. 2022 ([AS 2022 689](https://fedlex.data.admin.ch/eli/oc/2022/689)).
+[^chap1-lvlu5-3]: Fassung gemäss Beschluss der Versammlung des Haager Verbands vom 8. Okt. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 910](https://fedlex.data.admin.ch/eli/oc/2021/910)). Berichtigung vom 18. Nov. 2022 ([AS 2022 689](https://fedlex.data.admin.ch/eli/oc/2022/689)).
+[^chap1-lvlu5-4]: Fassung gemäss Beschluss der Versammlung des Haager Verbands vom 8. Okt. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 910](https://fedlex.data.admin.ch/eli/oc/2021/910)). Berichtigung vom 18. Nov. 2022 ([AS 2022 689](https://fedlex.data.admin.ch/eli/oc/2022/689)).
 [^chap1-lvlu5-5]: Eingefügt durch Beschluss der Versammlung des Haager Verbands vom 11. Okt. 2016, in Kraft seit 1. Jan. 2017 ([AS 2017 697](https://fedlex.data.admin.ch/eli/oc/2017/128)).
 [^chap1-lvlu5-6]: Eingefügt durch Beschluss der Versammlung des Haager Verbands vom 11. Okt. 2016, in Kraft seit 1. Jan. 2017 ([AS 2017 697](https://fedlex.data.admin.ch/eli/oc/2017/128)).
 
@@ -367,7 +367,7 @@ g) Der internationalen Anmeldung kann eine Erklärung beigefügt sein, in welche
 
 [^chap2-lvlu11-1]
 
-[^chap2-lvlu11-1]: Fassung gemäss Beschluss der Versammlung des Haager Verbands vom 25. Sept. 2020, in Kraft seit 1. Jan. 2022 ([AS 2021 910](https://fedlex.data.admin.ch/eli/oc/2021/910)).
+[^chap2-lvlu11-1]: Fassung gemäss Beschluss der Versammlung des Haager Verbands vom 8. Okt. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 910](https://fedlex.data.admin.ch/eli/oc/2021/910)). Berichtigung vom 18. Nov. 2022 ([AS 2022 689](https://fedlex.data.admin.ch/eli/oc/2022/689)).
 
 \1) [*Zeitpunkt der Veröffentlichung*] Die Veröffentlichung der internationalen Eintragung erfolgt:
 
@@ -382,7 +382,7 @@ g) Der internationalen Anmeldung kann eine Erklärung beigefügt sein, in welche
 - ii) die Abbildung(en) des gewerblichen Musters oder Modells;
 - iii) bei Aufschub der Veröffentlichung eine Angabe des Datums, an dem die Aufschiebungsfrist abgelaufen ist oder als abgelaufen gilt.
 
-[^chap2-lvlu11-2]: Fassung gemäss Beschluss der Versammlung des Haager Verbands vom 25. Sept. 2020, in Kraft seit 1. Jan. 2022 ([AS 2021 910](https://fedlex.data.admin.ch/eli/oc/2021/910)).
+[^chap2-lvlu11-2]: Fassung gemäss Beschluss der Versammlung des Haager Verbands vom 8. Okt. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 910](https://fedlex.data.admin.ch/eli/oc/2021/910)). Berichtigung vom 18. Nov. 2022 ([AS 2022 689](https://fedlex.data.admin.ch/eli/oc/2022/689)).
 
 ## Kapitel 3 Schutzverweigerungen und Ungültigerklärungen
 
@@ -559,11 +559,11 @@ Auf Verlangen des Inhabers fordert das Internationale Büro das Amt, welches die
 
 \8) [*Registrierung von Zusammenschlüssen internationaler Eintragungen*] Wird eine Person infolge eines teilweisen Inhaberwechsels Inhaber von zwei oder mehr internationalen Eintragungen, so werden diese Eintragungen auf Antrag der genannten Person zusammengeführt; die Absätze 1 bis 6 finden sinngemäss Anwendung. Die aus einer Zusammenführung hervorgegangene internationale Eintragung trägt die Nummer der teilweise abgetretenen oder auf andere Weise übertragenen internationalen Eintragung, gegebenenfalls mit einem Grossbuchstaben.
 
-[^chap4-lvlu1-1]: Fassung gemäss Beschluss der Versammlung des Haager Verbands vom 25. Sept. 2020, in Kraft seit 1. Jan. 2022 ([AS 2021 910](https://fedlex.data.admin.ch/eli/oc/2021/910)).
+[^chap4-lvlu1-1]: Fassung gemäss Beschluss der Versammlung des Haager Verbands vom 8. Okt. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 910](https://fedlex.data.admin.ch/eli/oc/2021/910)). Berichtigung vom 18. Nov. 2022 ([AS 2022 689](https://fedlex.data.admin.ch/eli/oc/2022/689)).
 [^chap4-lvlu1-2]: Fassung gemäss Beschluss der Versammlung des Haager Verbands vom 25. Sept. 2020, in Kraft seit 1. Febr. 2021 ([AS 2021 106](https://fedlex.data.admin.ch/eli/oc/2021/106)).
 [^chap4-lvlu1-3]: Fassung gemäss Beschluss der Versammlung des Haager Verbands vom 25. Sept. 2020, in Kraft seit 1. Febr. 2021 ([AS 2021 106](https://fedlex.data.admin.ch/eli/oc/2021/106)).
 [^chap4-lvlu1-4]: Fassung gemäss Beschluss der Versammlung des Haager Verbands vom 25. Sept. 2020, in Kraft seit 1. Febr. 2021 ([AS 2021 106](https://fedlex.data.admin.ch/eli/oc/2021/106)).
-[^chap4-lvlu1-5]: Eingefügt durch Beschluss der Versammlung des Haager Verbands vom 25. Sept. 2020, in Kraft seit 1. Jan. 2022 ([AS 2021 910](https://fedlex.data.admin.ch/eli/oc/2021/910)).
+[^chap4-lvlu1-5]: Eingefügt durch Beschluss der Versammlung des Haager Verbands vom 8. Okt. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 910](https://fedlex.data.admin.ch/eli/oc/2021/910)). Berichtigung vom 18. Nov. 2022 ([AS 2022 689](https://fedlex.data.admin.ch/eli/oc/2022/689)).
 
 ### **Regel 21**<sup>bis</sup> Erklärung, dass eine Änderung des Inhabers ohne Wirkung ist
 
@@ -719,7 +719,7 @@ Sechs Monate vor Ablauf einer Schutzfrist von fünf Jahren übersendet das Inter
 
 Jede in Bezug auf eine Vertragspartei an das Internationale Büro entrichtete Standard-Bestimmungsgebühr oder individuelle Bestimmungsgebühr wird dem Konto dieser Vertragspartei beim Internationalen Büro im Laufe des Monats gutgeschrieben, der auf den Monat folgt, in dem die Registrierung der internationalen Eintragung oder die Verlängerung vorgenommen wurde, für die diese Gebühr entrichtet wurde; im Falle des zweiten Teilbetrags der individuellen Bestimmungsgebühr erfolgt die Gutschrift unmittelbar nach Eingang beim Internationalen Büro.
 
-## Kapitel 8 ...
+## Kapitel 8 …
 
 ### **Regeln 30** und **31**
 
@@ -815,7 +815,7 @@ Jede in Bezug auf eine Vertragspartei an das Internationale Büro entrichtete St
 \3) [*Übergangsbestimmung betreffend Publikationsdatum*] Die vor dem 1. Januar 2022 geltende Regel 17.1)iii) bleibt für alle internationalen Eintragungen anlässlich einer vor diesem Datum eingereichten internationalen Anmeldung anwendbar.[^chap9-lvlu6-3]
 
 [^chap9-lvlu6-2]: [BS **11** 1045; [AS 1975 1599](https://fedlex.data.admin.ch/eli/oc/1975/1599_1598_1598). [AS 2010 403](https://fedlex.data.admin.ch/eli/oc/2010/47)]
-[^chap9-lvlu6-3]: Eingefügt durch Beschluss der Versammlung des Haager Verbands vom 25. Sept. 2020, in Kraft seit 1. Jan. 2022 ([AS 2021 910](https://fedlex.data.admin.ch/eli/oc/2021/910)).
+[^chap9-lvlu6-3]: Eingefügt durch Beschluss der Versammlung des Haager Verbands vom 8. Okt. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 910](https://fedlex.data.admin.ch/eli/oc/2021/910)). Berichtigung vom 18. Nov. 2022 ([AS 2022 689](https://fedlex.data.admin.ch/eli/oc/2022/689)).
 
 Gebührenverzeichnis[^t-2]
 
@@ -848,12 +848,12 @@ Gebührenverzeichnis[^t-2]
 
 [^annexu1-lvlI-1]: <sup>\*</sup> Bei internationalen Anmeldungen, die von Anmeldern eingereicht werden, deren diesbezügliche Berechtigung ausschliesslich auf einer Verbindung zu einem der am wenigsten entwickelten Länder nach der von den Vereinten Nationen aufgestellten Liste oder zu einer zwischenstaatlichen Organisation, deren Mitgliedstaaten mehrheitlich am wenigsten entwickelte Länder sind, beruht, ermässigen sich die für das Internationale Büro bestimmten Gebühren auf 10 % der vorgeschriebenen Beträge (gerundet auf die nächste ganze Zahl). Diese Ermässigung findet auch Anwendung auf eine internationale Anmeldung, die von einem Anmelder eingereicht wird, dessen diesbezügliche Berechtigung nicht ausschliesslich auf einer Verbindung zu einer solchen zwischenstaatlichen Organisation beruht, vorausgesetzt, dass jede sonstige diesbezügliche Berechtigung des Anmelders auf einer Verbindung zu einer Vertragspartei beruht, die eines der am wenigsten entwickelten Länder ist, oder die, wenn sie nicht eines der am wenigsten entwickelten Länder ist, ein Mitgliedstaat dieser zwischenstaatlichen Organisation ist und für die internationale Anmeldung ausschliesslich das Abkommen in der Fassung von 1999 massgebend ist. Handelt es sich um mehrere Anmelder, so muss jeder diese Kriterien erfüllen. – Findet eine solche Gebührenermässigung Anwendung, so beträgt die Grundgebühr 40 Schweizer Franken (für ein Muster oder Modell) und 2 Schweizer Franken (für jedes weitere Muster oder Modell, das in derselben internationalen Anmeldung enthalten ist), die Veröffentlichungsgebühr 2 Schweizer Franken für jede Abbildung und 15 Schweizer Franken für jede Seite ab der zweiten Seite, auf der sich eine oder mehrere Abbildungen befinden, und die Zusatzgebühr 1 Schweizer Franken für jede Gruppe von 5 weiteren Wörtern, wenn die Beschreibung mehr als 100 Wörter umfasst.
 [^annexu1-lvlI-2]: <sup>\*\*</sup> Bei internationalen Anmeldungen, die von Anmeldern eingereicht werden, deren diesbezügliche Berechtigung ausschliesslich auf einer Verbindung zu einem der am wenigsten entwickelten Länder nach der von den Vereinten Nationen aufgestellten Liste oder zu einer zwischenstaatlichen Organisation, deren Mitgliedstaaten mehrheitlich am wenigsten entwickelte Länder sind, beruht, ermässigen sich die Standardgebühren auf 10 % der vorgeschriebenen Beträge (gerundet auf die nächste ganze Zahl). Diese Ermässigung findet auch Anwendung auf eine internationale Anmeldung, die von einem Anmelder eingereicht wird, dessen diesbezügliche Berechtigung nicht ausschliesslich auf einer Verbindung zu einer solchen zwischenstaatlichen Organisation beruht, vorausgesetzt, dass jede sonstige diesbezügliche Berechtigung des Anmelders auf einer Verbindung zu einer Vertragspartei beruht, die eines der am wenigsten entwickelten Länder ist, oder die, wenn sie nicht eines der am wenigsten entwickelten Länder ist, ein Mitgliedstaat dieser zwischenstaatlichen Organisation ist und für die internationale Anmeldung ausschliesslich das Abkommen in der Fassung von 1999 massgebend ist. Handelt es sich um mehrere Anmelder, so muss jeder diese Kriterien erfüllen. – Findet eine solche Ermässigung Anwendung, so beträgt die Standard-Bestimmungsgebühr 4 Schweizer Franken (für ein Muster oder Modell) und 1 Schweizer Franken (für jedes weitere Muster oder Modell, das in derselben internationalen Anmeldung enthalten ist) bei Stufe eins, 6 Schweizer Franken (für ein Muster oder Modell) und 2 Schweizer Franken (für jedes weitere Muster oder Modell, das in derselben internationalen Anmeldung enthalten ist) bei Stufe zwei und 9 Schweizer Franken (für ein Muster oder Modell) und 5 Schweizer Franken (für jedes weitere Muster oder Modell, das in derselben internationalen Anmeldung enthalten ist) bei Stufe drei.
-[^annexu1-lvlI-3]: <sup>\*\*\*</sup> [Anmerkung der WIPO]: Von der Versammlung des Haager Verbands beschlossene Empfehlung: – «Vertragsparteien, die eine Erklärung nach Artikel 7 Absatz 2 des Abkommens in der Fassung von 1999 oder nach Regel 36 Absatz 1 der Gemeinsamen Ausführungsordnung abgeben oder abgegeben haben, sind aufgefordert, in dieser Erklärung oder einer neuen Erklärung darauf hinzuweisen, dass sich bei internationalen Anmeldungen, die von Anmeldern eingereicht werden, deren diesbezügliche Berechtigung ausschliesslich auf einer Verbindung zu einem der am wenigsten entwickelten Länder nach der von den Vereinten Nationen aufgestellten Liste oder zu einer zwischenstaatlichen Organisation, deren Mitgliedstaaten mehrheitlich am wenigsten entwickelte Länder sind, beruht, die für ihre Bestimmung zu zahlende individuelle Bestimmungsgebühr auf 10 % des normalerweise eingezogenen Betrags ermässigt (gegebenenfalls gerundet auf die nächste ganze Zahl). Des Weiteren sind diese Vertragsparteien aufgefordert, darauf hinzuweisen, dass die Ermässigung auch Anwendung findet auf eine internationale Anmeldung, die von einem Anmelder eingereicht wird, dessen diesbezügliche Berechtigung nicht ausschliesslich auf einer Verbindung zu einer solchen zwischenstaatlichen Organisation beruht, vorausgesetzt, dass jede sonstige diesbezügliche Berechtigung des Anmelders auf einer Verbindung zu einer Vertragspartei beruht, die eines der am wenigsten entwickelten Länder ist, oder die, wenn sie nicht eines der am wenigsten entwickelten Länder ist, ein Mitgliedstaat dieser zwischenstaatlichen Organisation ist und für die internationale Anmeldung ausschliesslich das Abkommen in der Fassung von 1999 massgebend ist.»
+[^annexu1-lvlI-3]: <sup>\*\*\*</sup> [Anmerkung der WIPO]: Von der Versammlung des Haager Verbands beschlossene Empfehlung: «Vertragsparteien, die eine Erklärung nach Artikel 7 Absatz 2 des Abkommens in der Fassung von 1999 oder nach Regel 36 Absatz 1 der Gemeinsamen Ausführungsordnung abgeben oder abgegeben haben, sind aufgefordert, in dieser Erklärung oder einer neuen Erklärung darauf hinzuweisen, dass sich bei internationalen Anmeldungen, die von Anmeldern eingereicht werden, deren diesbezügliche Berechtigung ausschliesslich auf einer Verbindung zu einem der am wenigsten entwickelten Länder nach der von den Vereinten Nationen aufgestellten Liste, beruht, die für ihre Bestimmung zu zahlende individuelle Bestimmungsgebühr auf 10 % des normalerweise eingezogenen Betrags ermässigt (gegebenenfalls gerundet auf die nächste ganze Zahl)».
 
-## II. ...
+## II. …
 
 <table>
-<tr><td>6.</td><td>...</td><td></td><td></td></tr>
+<tr><td>6.</td><td>…</td><td></td><td></td></tr>
 </table>
 
 ## III. Verlängerung einer internationalen Eintragung, die aus einer internationalen Anmeldung hervorgegangen ist, die ausschliesslich oder teilweise durch das Abkommen in der Fassung von 1960 oder das Abkommen in der Fassung von 1999 geregelt ist
@@ -871,10 +871,10 @@ Gebührenverzeichnis[^t-2]
 
 [^annexu1-lvlIII-1]: <sup>\*\*\*\*</sup> 50 % der Grundgebühr der Verlängerung
 
-## IV. ...
+## IV. …
 
 <table>
-<tr><td>11. und 12</td><td>...</td><td></td><td></td></tr>
+<tr><td>11. und 12</td><td>…</td><td></td><td></td></tr>
 </table>
 
 ## V. Verschiedene Eintragungen

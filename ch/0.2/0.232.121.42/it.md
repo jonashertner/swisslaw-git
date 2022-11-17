@@ -3,11 +3,11 @@ sr: "0.232.121.42"
 title: "Regolamento d'esecuzione del 30 settembre 2003 relativo all’Accordo dell’Aja concernente la registrazione internazionale dei disegni e modelli industriali (con tariffe)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/236"
 language: it
-version: 2022-01-01
+version: 2022-11-18
 adopted: 2003-09-30
 in_force: 2004-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/236/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2006-236-20220101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/236/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/236/20221118/it/xml/fedlex-data-admin-ch-eli-cc-2006-236-20221118-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/236/20221118/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Adottato dall’Assemblea dell’Unione dell’Aja il 30 settembre 2003 Entrato in vigore il 1° aprile 2004
 
-(Stato 1° gennaio 2022)
+(Stato 18 novembre 2022)
 
 [^t-1]: Nuovo testo giusta la Dec. dell’Assemblea dell’Unione dell’Aja del 30 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2014 547](https://fedlex.data.admin.ch/eli/oc/2014/110)).
 
@@ -132,9 +132,9 @@ Le comunicazioni indirizzate all’Ufficio internazionale vanno effettuate secon
 
 \5) [*Eccezione*] La presente regola non si applica al pagamento della seconda rata dell’emolumento di designazione individuale per il tramite dell’Ufficio internazionale di cui alla regola 12.3)c).[^chap1-lvlu5-6]
 
-[^chap1-lvlu5-2]: Nuovo testo giusta la Dec. dell’Assemblea dell’Unione dell’Aja del 25 set. 2020, in vigore dal 1° gen. 2022 ([RU 2021 910](https://fedlex.data.admin.ch/eli/oc/2021/910)).
-[^chap1-lvlu5-3]: Nuovo testo giusta la Dec. dell’Assemblea dell’Unione dell’Aja del 25 set. 2020, in vigore dal 1° gen. 2022 ([RU 2021 910](https://fedlex.data.admin.ch/eli/oc/2021/910)).
-[^chap1-lvlu5-4]: Nuovo testo giusta la Dec. dell’Assemblea dell’Unione dell’Aja del 25 set. 2020, in vigore dal 1° gen. 2022 ([RU 2021 910](https://fedlex.data.admin.ch/eli/oc/2021/910)).
+[^chap1-lvlu5-2]: Nuovo testo giusta la Dec. dell’Assemblea dell’Unione dell’Aja dell’8 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 910](https://fedlex.data.admin.ch/eli/oc/2021/910)). Correzione del 18 nov. 2022 ([RU 2022 689](https://fedlex.data.admin.ch/eli/oc/2022/689)).
+[^chap1-lvlu5-3]: Nuovo testo giusta la Dec. dell’Assemblea dell’Unione dell’Aja dell’8 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 910](https://fedlex.data.admin.ch/eli/oc/2021/910)). Correzione del 18 nov. 2022 ([RU 2022 689](https://fedlex.data.admin.ch/eli/oc/2022/689)).
+[^chap1-lvlu5-4]: Nuovo testo giusta la Dec. dell’Assemblea dell’Unione dell’Aja dell’8 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 910](https://fedlex.data.admin.ch/eli/oc/2021/910)). Correzione del 18 nov. 2022 ([RU 2022 689](https://fedlex.data.admin.ch/eli/oc/2022/689)).
 [^chap1-lvlu5-5]: Introdotto dalla Dec. dell’Assemblea dell’Unione dell’Aja dell’11 ott. 2016, in vigore dal 1° gen. 2017 ([RU 2017 697](https://fedlex.data.admin.ch/eli/oc/2017/128)).
 [^chap1-lvlu5-6]: Introdotto dalla Dec. dell’Assemblea dell’Unione dell’Aja dell’11 ott. 2016, in vigore dal 1° gen. 2017 ([RU 2017 697](https://fedlex.data.admin.ch/eli/oc/2017/128)).
 
@@ -277,8 +277,9 @@ Le comunicazioni indirizzate all’Ufficio internazionale vanno effettuate secon
   - ii) per le parti contraenti il cui Ufficio procede a un esame materiale che non è un esame della novità: livello due;
   - iii) per le parti contraenti il cui Ufficio procede a un esame materiale, ivi incluso un esame d’ufficio della novità o un esame della novità in caso di opposizione da parte di terzi: livello tre.
 
-- c) i) Ogni parte contraente abilitata dalla propria legislazione ad applicare i livelli due o tre di cui alla lettera b) può notificare il fatto al Direttore generale mediante una dichiarazione. Nella dichiarazione, una parte contraente può altresì precisare che opta per l’applicazione del livello due, anche se la propria legislazione la abilita ad applicare il livello tre.
-- ii) Ogni dichiarazione di cui al punto i) ha effetto dopo tre mesi dalla data in cui è pervenuta al Direttore generale o a partire da qualsiasi data posteriore indicatavi. Può altresì essere ritirata in qualsiasi momento mediante una notifica indirizzata al Direttore generale; in tal caso, il ritiro ha effetto dopo un mese dalla data in cui la notifica perviene al Direttore generale o a qualsiasi data posteriore indicata nella notifica. In assenza di una tale dichiarazione oppure se la dichiarazione è stata ritirata, il livello uno è considerato applicabile all’emolumento di designazione standard per la parte contraente in questione.[^chap2-lvlu6-1]
+- c)
+  - i) Ogni parte contraente abilitata dalla propria legislazione ad applicare i livelli due o tre di cui alla lettera b) può notificare il fatto al Direttore generale mediante una dichiarazione. Nella dichiarazione, una parte contraente può altresì precisare che opta per l’applicazione del livello due, anche se la propria legislazione la abilita ad applicare il livello tre.
+  - ii) Ogni dichiarazione di cui al punto i) ha effetto dopo tre mesi dalla data in cui è pervenuta al Direttore generale o a partire da qualsiasi data posteriore indicatavi. Può altresì essere ritirata in qualsiasi momento mediante una notifica indirizzata al Direttore generale; in tal caso, il ritiro ha effetto dopo un mese dalla data in cui la notifica perviene al Direttore generale o a qualsiasi data posteriore indicata nella notifica. In assenza di una tale dichiarazione oppure se la dichiarazione è stata ritirata, il livello uno è considerato applicabile all’emolumento di designazione standard per la parte contraente in questione.[^chap2-lvlu6-1]
 
 \2) [*Momento del pagamento degli emolumenti*] Fatto salvo il capoverso 3), gli emolumenti di cui al capoverso 1) vanno pagati al momento del deposito della domanda internazionale, tranne l’emolumento di pubblicazione che può essere pagato successivamente conformemente alla regola 16.3) a), nel caso in cui la domanda internazionale contiene una richiesta di differimento della pubblicazione.
 
@@ -377,7 +378,7 @@ Le comunicazioni indirizzate all’Ufficio internazionale vanno effettuate secon
 - ii) la o le raffigurazioni del disegno o modello industriale;
 - iii) se la pubblicazione è stata differita, l’indicazione della data in cui scade il periodo di differimento o in cui tale periodo è considerato scaduto.
 
-[^chap2-lvlu11-1]: Nuovo testo giusta la Dec. dell’Assemblea dell’Unione dell’Aja del 25 set. 2020, in vigore dal 1° gen. 2022 ([RU 2021 910](https://fedlex.data.admin.ch/eli/oc/2021/910)).
+[^chap2-lvlu11-1]: Nuovo testo giusta la Dec. dell’Assemblea dell’Unione dell’Aja dell’8 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 910](https://fedlex.data.admin.ch/eli/oc/2021/910)). Correzione del 18 nov. 2022 ([RU 2022 689](https://fedlex.data.admin.ch/eli/oc/2022/689)).
 
 ## Capitolo 3: Rifiuto e invalidazione
 
@@ -556,11 +557,11 @@ Le comunicazioni indirizzate all’Ufficio internazionale vanno effettuate secon
 
 \8) [*Iscrizione della fusione di registrazioni internazionali*] Se, in seguito a un cambiamento parziale del titolare, la medesima persona diventa titolare di più registrazioni internazionali, su domanda di tale persona tali registrazioni sono fuse e i capoversi 1)–6) sono applicabili *mutatis mutandi*s. La registrazione internazionale risultante dalla fusione porta il numero della registrazione internazionale da cui la parte è stata ceduta o trasmessa, accompagnato, all’occorrenza, da una lettera maiuscola.
 
-[^chap4-lvlu1-1]: Nuovo testo giusta la Dec. dell’Assemblea dell’Unione dell’Aja del 25 set. 2020, in vigore dal 1° gen. 2022 ([RU 2021 910](https://fedlex.data.admin.ch/eli/oc/2021/910)).
+[^chap4-lvlu1-1]: Nuovo testo giusta la Dec. dell’Assemblea dell’Unione dell’Aja dell’8 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 910](https://fedlex.data.admin.ch/eli/oc/2021/910)). Correzione del 18 nov. 2022 ([RU 2022 689](https://fedlex.data.admin.ch/eli/oc/2022/689)).
 [^chap4-lvlu1-2]: Nuovo testo giusta la Dec. dell’Assemblea dell’Unione dell’Aja del 25 set. 2020, in vigore dal 1° feb. 2021 ([RU 2021 106](https://fedlex.data.admin.ch/eli/oc/2021/106)).
 [^chap4-lvlu1-3]: Nuovo testo giusta la Dec. dell’Assemblea dell’Unione dell’Aja del 25 set. 2020, in vigore dal 1° feb. 2021 ([RU 2021 106](https://fedlex.data.admin.ch/eli/oc/2021/106)).
 [^chap4-lvlu1-4]: Nuovo testo giusta la Dec. dell’Assemblea dell’Unione dell’Aja del 25 set. 2020, in vigore dal 1° feb. 2021 ([RU 2021 106](https://fedlex.data.admin.ch/eli/oc/2021/106)).
-[^chap4-lvlu1-5]: Introdotta dalla Dec. dell’Assemblea dell’Unione dell’Aja del 25 set. 2020, in vigore dal 1° gen. 2022 ([RU 2021 910](https://fedlex.data.admin.ch/eli/oc/2021/910)).
+[^chap4-lvlu1-5]: Introdotta dalla Dec. dell’Assemblea dell’Unione dell’Aja dell’8 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 910](https://fedlex.data.admin.ch/eli/oc/2021/910)). Correzione del 18 nov. 2022 ([RU 2022 689](https://fedlex.data.admin.ch/eli/oc/2022/689)).
 
 ### **Regola 21**<sup>bis</sup> Dichiarazione secondo cui un cambiamento di titolare è senza effetti
 
@@ -816,7 +817,7 @@ Ogni emolumento di designazione standard o di designazione individuale pagato al
 \3) [*Disposizione transitoria relativa alla data di pubblicazione*] La regola 17 1) iii) in vigore prima del 1° gennaio 2022 resta applicabile a tutte le registrazioni internazionali risultanti da una domanda internazionale depositata prima di questa data.[^chap9-lvlu6-3]
 
 [^chap9-lvlu6-2]: [CS **11** 1005; RU **1975** 1599. [RU 2010 403](https://fedlex.data.admin.ch/eli/oc/2010/47)]
-[^chap9-lvlu6-3]: Introdotto dalla Dec. dell’Assemblea dell’Unione dell’Aja del 25 set. 2020, in vigore dal 1° gen. 2022 ([RU 2021 910](https://fedlex.data.admin.ch/eli/oc/2021/910)).
+[^chap9-lvlu6-3]: Introdotto dalla Dec. dell’Assemblea dell’Unione dell’Aja dell’8 ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 910](https://fedlex.data.admin.ch/eli/oc/2021/910)). Correzione del 18 nov. 2022 ([RU 2022 689](https://fedlex.data.admin.ch/eli/oc/2022/689)).
 
 Tariffe[^t-2]
 

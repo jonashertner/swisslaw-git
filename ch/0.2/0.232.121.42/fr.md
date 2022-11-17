@@ -3,11 +3,11 @@ sr: "0.232.121.42"
 title: "Règlement d'exécution du 30 septembre 2003 de l’Acte de Genève (1999) de l’Arrangement de La Haye concernant l’enregistrement international des dessins et modèles industriels (avec barème)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/236"
 language: fr
-version: 2022-01-01
+version: 2022-11-18
 adopted: 2003-09-30
 in_force: 2004-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/236/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2006-236-20220101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/236/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/236/20221118/fr/xml/fedlex-data-admin-ch-eli-cc-2006-236-20221118-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/236/20221118/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -22,7 +22,7 @@ Adopté par l’Assemblée de l’Union de La Haye le 30 septembre 2003
 
 Entré en vigueur le 1<sup>er</sup> avril 2004
 
-(État le 1<sup>er</sup> janvier 2022)
+(État le 18 novembre 2022)
 
 [^t-1]: Nouvelle teneur selon la D de l’Ass. de l’Union de la Haye du 30 nov. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2014 547](https://fedlex.data.admin.ch/eli/oc/2014/110)).
 
@@ -137,9 +137,9 @@ Les communications adressées au Bureau international doivent être effectuées 
 \5) [*Exception*] La présente règle ne s’applique pas au paiement de la deuxième partie de la taxe de désignation individuelle par l’intermédiaire du Bureau international ainsi que le prévoit la règle 12.3)c).[^5-6]
 
 [^5-1]: Nouvelle teneur selon la D de l’Ass. de l’Union de la Haye du 11 oct. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2017 697](https://fedlex.data.admin.ch/eli/oc/2017/128)).
-[^5-2]: Nouvelle teneur selon la D de l’Ass. de l’Union de la Haye du 25 sept. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 910](https://fedlex.data.admin.ch/eli/oc/2021/910)).
-[^5-3]: Nouvelle teneur selon la D de l’Ass. de l’Union de la Haye du 25 sept. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 910](https://fedlex.data.admin.ch/eli/oc/2021/910)).
-[^5-4]: Nouvelle teneur selon la D de l’Ass. de l’Union de la Haye du 25 sept. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 910](https://fedlex.data.admin.ch/eli/oc/2021/910)).
+[^5-2]: Nouvelle teneur selon la D de l’Ass. de l’Union de la Haye du 8 oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 910](https://fedlex.data.admin.ch/eli/oc/2021/910)). Erratum du 18 nov. 2022 ([RO 2022 689](https://fedlex.data.admin.ch/eli/oc/2022/689)).
+[^5-3]: Nouvelle teneur selon la D de l’Ass. de l’Union de la Haye du 8 oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 910](https://fedlex.data.admin.ch/eli/oc/2021/910)). Erratum du 18 nov. 2022 ([RO 2022 689](https://fedlex.data.admin.ch/eli/oc/2022/689)).
+[^5-4]: Nouvelle teneur selon la D de l’Ass. de l’Union de la Haye du 8 oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 910](https://fedlex.data.admin.ch/eli/oc/2021/910)). Erratum du 18 nov. 2022 ([RO 2022 689](https://fedlex.data.admin.ch/eli/oc/2022/689)).
 [^5-5]: Introduit par la D de l’Ass. de l’Union de la Haye du 11 oct. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2017 697](https://fedlex.data.admin.ch/eli/oc/2017/128)).
 [^5-6]: Introduit par la D de l’Ass. de l’Union de la Haye du 11 oct. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2017 697](https://fedlex.data.admin.ch/eli/oc/2017/128)).
 
@@ -402,7 +402,7 @@ Les communications adressées au Bureau international doivent être effectuées 
 - ii) la ou les reproductions du dessin ou modèle industriel;
 - iii) lorsque la publication a été ajournée, l’indication de la date à laquelle la période d’ajournement a expiré ou est considérée comme ayant expiré.
 
-[^17-1]: Nouvelle teneur selon la D de l’Ass. de l’Union de la Haye du 25 sept. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 910](https://fedlex.data.admin.ch/eli/oc/2021/910)).
+[^17-1]: Nouvelle teneur selon la D de l’Ass. de l’Union de la Haye du 8 oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 910](https://fedlex.data.admin.ch/eli/oc/2021/910)). Erratum du 18 nov. 2022 ([RO 2022 689](https://fedlex.data.admin.ch/eli/oc/2022/689)).
 
 ## Chapitre 3 Refus et invalidations
 
@@ -586,11 +586,11 @@ le Bureau international inscrit toutefois le refus au registre international et 
 - b) La modification doit être inscrite à la date de la réception par le Bureau international de la demande remplissant les conditions requises. Toutefois, lorsque la demande indique que la modification doit être inscrite après une autre modification, ou après le renouvellement de l’enregistrement international, le Bureau international donne suite à cette demande.
 - c)[^21-5] Lorsqu’un changement de titulaire est inscrit à la suite d’une requête présentée par le nouveau propriétaire conformément à l’alinéa 1)b)ii) et que le précédent titulaire s’oppose à ce changement par écrit en s’adressant au Bureau international, le changement est considéré comme n’ayant pas été inscrit. Le Bureau international en avise les deux parties en conséquence.
 
-[^21-1]: Nouvelle teneur selon la D de l’Ass. de l’Union de la Haye du 25 sept. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 910](https://fedlex.data.admin.ch/eli/oc/2021/910)).
+[^21-1]: Nouvelle teneur selon la D de l’Ass. de l’Union de la Haye du 8 oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 910](https://fedlex.data.admin.ch/eli/oc/2021/910)). Erratum du 18 nov. 2022 ([RO 2022 689](https://fedlex.data.admin.ch/eli/oc/2022/689)).
 [^21-2]: Nouvelle teneur selon la D de l’Ass. de l’Union de la Haye du 25 sept. 2020, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2021 106](https://fedlex.data.admin.ch/eli/oc/2021/106)).
 [^21-3]: Nouvelle teneur selon la D de l’Ass. de l’Union de la Haye du 25 sept. 2020, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2021 106](https://fedlex.data.admin.ch/eli/oc/2021/106)).
 [^21-4]: Nouvelle teneur selon la D de l’Ass. de l’Union de la Haye du 25 sept. 2020, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2021 106](https://fedlex.data.admin.ch/eli/oc/2021/106)).
-[^21-5]: Introduite par la D de l’Ass. de l’Union de la Haye du 25 sept. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 910](https://fedlex.data.admin.ch/eli/oc/2021/910)).
+[^21-5]: Introduite par la D de l’Ass. de l’Union de la Haye du 8 oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 910](https://fedlex.data.admin.ch/eli/oc/2021/910)). Erratum du 18 nov. 2022 ([RO 2022 689](https://fedlex.data.admin.ch/eli/oc/2022/689)).
 
 #### Règle 21<sup>bis</sup>
 
@@ -863,7 +863,7 @@ Toute taxe de désignation standard ou toute taxe de désignation individuelle p
 - b) Le Règlement d’exécution commun à l’Acte de 1999, l’Acte de 1960 et l’Acte de 1934 de l’Arrangement de La Haye tel qu’il était applicable avant le 1<sup>er</sup> janvier 2010 reste applicable à l’égard d’une demande internationale déposée avant cette date et encore en instance à cette date, et à l’égard de toute Partie contractante désignée en vertu de l’Acte de 1934 dans un enregistrement international issu d’une demande internationale déposée avant cette date.
 
 [^37-1]: Introduite par la D de l’Ass. de l’Union de la Haye du 1<sup>er</sup> oct. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2011 969](https://fedlex.data.admin.ch/eli/oc/2011/146)).
-[^37-2]: Introduit par la D de l’Ass. de l’Union de la Haye du 25 sept. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 910](https://fedlex.data.admin.ch/eli/oc/2021/910)).
+[^37-2]: Introduit par la D de l’Ass. de l’Union de la Haye du 8 oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 910](https://fedlex.data.admin.ch/eli/oc/2021/910)). Erratum du 18 nov. 2022 ([RO 2022 689](https://fedlex.data.admin.ch/eli/oc/2022/689)).
 [^37-3]: [RS **11** 988; RO **1975** 1599. [RO 2010 403](https://fedlex.data.admin.ch/eli/oc/2010/47)]
 
 Barème des taxes[^t-2]
