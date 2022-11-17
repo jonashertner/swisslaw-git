@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Ordonnance sur l’imposition minimale des grands groupes d’entreprises (Ordonnance sur l’imposition minimale, OIMin)"
 document: Projet mis en consultation
 language: fr

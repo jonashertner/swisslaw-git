@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Ordinanza del Consiglio federale concernente l’imposizione minima dei grandi gruppi di imprese (Ordinanza sull’imposizione minima, OImM)"
 document: Progetto posto in consultazione
 language: it
