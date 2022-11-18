@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Ordonnance sur l’instauration d’une réserve d’hiver (OIRH)
 document: Projet mis en consultation
 language: fr

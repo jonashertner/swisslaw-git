@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Ordinanza sulla costituzione di una riserva invernale (OREI)
 document: Progetto posto in consultazione
 language: it

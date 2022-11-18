@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Verordnung über die Errichtung einer Winterreserve (WResV)
 document: Vernehmlassungsvorlage
 language: de
