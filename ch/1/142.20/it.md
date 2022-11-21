@@ -4,11 +4,11 @@ title: Legge federale del 16 dicembre 2005 sugli stranieri e la loro integrazion
 short: LStrI
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/758"
 language: it
-version: 2022-09-01
+version: 2022-11-22
 adopted: 2005-12-16
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20220901/it/xml/fedlex-data-admin-ch-eli-cc-2007-758-20220901-it-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20220901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20221122/it/xml/fedlex-data-admin-ch-eli-cc-2007-758-20221122-it-xml-12.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20221122/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20220901/it"
 
 (LStrI)[^t-1]
 
-del 16 dicembre 2005 (Stato 1° settembre 2022)
+del 16 dicembre 2005 (Stato 22 novembre 2022)
 
 [^t-1]: Nuovo testo giusta il n. I della LF del 16 dic. 2016 (Integrazione), in vigore dal 1° gen. 2019 ([RU 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [FF 2013 2045](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2471](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 
@@ -1348,25 +1348,28 @@ Dopo la notificazione della decisione di allontanamento, l’autorità competent
 
 Fatto salvo il capoverso 5, la SEM vieta l’entrata in Svizzera a uno straniero allontanato se:
 
-- a. l’allontanamento è eseguito immediatamente in virtù dell’articolo 64*d* capoverso 2 lettere a–c;
-- b. lo straniero non ha lasciato la Svizzera entro il termine impartitogli.
+- a. l’allontanamento è eseguibile immediatamente in virtù dell’articolo 64*d* capoverso 2 lettere a–c;
+- b. lo straniero non ha lasciato la Svizzera entro il termine impartitogli;
+- c. lo straniero ha violato o espone a pericolo l’ordine e la sicurezza pubblici in Svizzera o all’estero; o
+- d. lo straniero è stato punito per aver commesso un reato di cui agli articoli 115 capoverso 1, 116, 117 o 118 oppure per aver tentato di commettere un tale reato.[^67-2]
 
 <sup>2</sup>
 
 La SEM può vietare l’entrata in Svizzera allo straniero che:
 
-- a. ha violato o espone a pericolo l’ordine e la sicurezza pubblici in Svizzera o all’estero;
-- b. ha causato spese d’aiuto sociale;
-- c. si trova in carcerazione preliminare, in vista di rinvio coatto o cautelativa (art. 75–78).
+- a. ha causato spese di aiuto sociale;
+- b. si trova in carcerazione preliminare, in carcerazione in vista di rinvio coatto o in carcerazione cautelativa (art. 75–78).[^67-3]
 
 <sup>3</sup> Il divieto d’entrata è pronunciato per una durata massima di cinque anni. Può essere pronunciato per una durata più lunga se l’interessato costituisce un grave pericolo per l’ordine e la sicurezza pubblici.
 
 <sup>4</sup> L’Ufficio federale di polizia (fedpol) può, previa consultazione del Servizio delle attività informative della Confederazione (SIC), vietare l’entrata in Svizzera a uno straniero allo scopo di salvaguardare la sicurezza interna o esterna della Svizzera. Fedpol può pronunciare un divieto d’entrata di durata superiore a cinque anni e, in casi gravi, di durata indeterminata.
 
-<sup>5</sup> L’autorità cui compete la decisione può, per motivi umanitari o altri motivi gravi, rinunciare eccezionalmente a pronunciare un divieto d’entrata oppure sospenderlo definitivamente o temporaneamente. A tal proposito occorre considerare segnatamente i motivi che hanno portato al divieto d’entrata nonché la protezione della sicurezza e dell’ordine pubblici e la salvaguardia della sicurezza interna ed esterna della Svizzera e ponderarli con gli interessi privati dell’interessato a una decisione di sospensione.[^67-2]
+<sup>5</sup> L’autorità cui compete la decisione può, per motivi umanitari o altri motivi gravi, rinunciare eccezionalmente a pronunciare un divieto d’entrata oppure sospenderlo definitivamente o temporaneamente. A tal proposito occorre considerare segnatamente i motivi che hanno portato al divieto d’entrata nonché la protezione della sicurezza e dell’ordine pubblici e la salvaguardia della sicurezza interna ed esterna della Svizzera e ponderarli con gli interessi privati dell’interessato a una decisione di sospensione.[^67-4]
 
 [^67-1]: Nuovo testo giusta l’art. 2 n. 1 del DF del 18 giu. 2010 che approva e traspone nel diritto svizzero lo scambio di note tra la Svizzera e la CE concernente il recepimento della direttiva CE sul rimpatrio (direttiva 2008/115/CE), in vigore dal 1° gen. 2011 ([RU 2010 5925](https://fedlex.data.admin.ch/eli/oc/2010/848); [FF 2009 7737](https://fedlex.data.admin.ch/eli/fga/2009/1528)).
-[^67-2]: Nuovo testo giusta l’all. n. 1 della LF del 20 mar. 2015 (Attuazione dell’art. 121 cpv. 3–6 Cost. sull’espulsione di stranieri che commettono reati), in vigore dal 1° ott. 2016 ([RU 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [FF 2013 5163](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
+[^67-2]: Nuovo testo giusta l’all. 1 n. 1 del DF del 18 dic. 2020 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento delle basi legali dell’istituzione, dell’esercizio e dell’uso del sistema d’informazione Schengen (SIS), in vigore dal 22 nov. 2022 ([RU 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 636](https://fedlex.data.admin.ch/eli/oc/2022/636); [FF 2020 3117](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^67-3]: Nuovo testo giusta l’all. 1 n. 1 del DF del 18 dic. 2020 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento delle basi legali dell’istituzione, dell’esercizio e dell’uso del sistema d’informazione Schengen (SIS), in vigore dal 22 nov. 2022 ([RU 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 636](https://fedlex.data.admin.ch/eli/oc/2022/636); [FF 2020 3117](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^67-4]: Nuovo testo giusta l’all. n. 1 della LF del 20 mar. 2015 (Attuazione dell’art. 121 cpv. 3–6 Cost. sull’espulsione di stranieri che commettono reati), in vigore dal 1° ott. 2016 ([RU 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [FF 2013 5163](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
 
 #### Art. 68
 
@@ -1386,17 +1389,92 @@ La SEM può vietare l’entrata in Svizzera allo straniero che:
 
 **Segnalazione nel sistema d’informazione Schengen**[^68a-1]
 
-<sup>1</sup> e <sup>2</sup> ...
+<sup>1</sup>
+
+L’autorità competente inserisce nel sistema d’informazione Schengen (SIS) i dati dei cittadini di Stati terzi nei confronti dei quali è stata disposta una delle decisioni di rimpatrio seguenti:
+
+- a. un allontanamento secondo l’articolo 64;
+- b. un’espulsione secondo l’articolo 68;
+- c. un’espulsione ai sensi dell’articolo 66*a* o 66*a*<sup>bis</sup> CP[^68a-2] o dell’articolo 49*a* o 49*a*<sup>bis</sup> CPM[^68a-3] in presenza di ordine esecutivo;
+- d. un allontanamento con ordine esecutivo secondo gli articoli 44 e 45 LAsi[^68a-4].
+
+<sup>2</sup> I dati dei cittadini di Stati terzi oggetto di divieti di entrata secondo gli articoli 67 e 68 capoverso 3 o di un’espulsione ai sensi dell’articolo 66*a* o 66*a*<sup>bis</sup> CP o dell’articolo 49*a* o 49*a*<sup>bis</sup> CPM sono inseriti nel SIS dall’autorità competente, sempreché siano soddisfatte le condizioni del regolamento (UE) 2018/1861[^68a-5].
 
 <sup>3</sup> La SEM può trasmettere al SIS i dati biometrici già disponibili nel sistema automatico d’identificazione delle impronte digitali (AFIS) di cui all’articolo 354 CP o nel SIMIC. La trasmissione può avvenire in modo automatizzato.
 
-<sup>4</sup> ...
+<sup>4</sup> Le autorità competenti per la segnalazione delle decisioni di cui ai capoversi 1 e 2 registrano nel SIMIC i dati personali della persona da segnalare. Ai fini della trasmissione al SIS registrano o fanno registrare in AFIS dalle autorità competenti l’immagine del viso e le impronte digitali, se non sono ancora disponibili.
 
 <sup>5</sup> In caso di segnalazioni da parte di fedpol, quest’ultimo può trasmettere al SIS i dati biometrici già disponibili in AFIS. La trasmissione può avvenire in modo automatizzato. Se non sono disponibili dati biometrici, fedpol può ordinare alle autorità che constatano un riscontro su queste segnalazioni di rilevarli ulteriormente.
 
-<sup>6</sup> ...
+<sup>6</sup> Il Consiglio federale disciplina la procedura e le competenze per la registrazione e la trasmissione dei dati di cui ai capoversi 1–5 ai fini delle segnalazioni nel SIS. Può prevedere deroghe alla registrazione e alla trasmissione dei dati biometrici.
 
-[^68a-1]: Introdotto dall’all. 1 1 del DF del 18 dic. 2020 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento delle basi legali dell’istituzione, dell’esercizio e dell’uso del sistema d’informazione Schengen (SIS), in vigore dal 1° lug. 2021 ([RU 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [FF 2020 3117](https://fedlex.data.admin.ch/eli/fga/2020/794)). Cpv. 1, 2, 4 e 6 entrano in vigore posteriormente ([RU 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365)).
+[^68a-1]: Introdotto dall’all. 1 n. 1 del DF del 18 dic. 2020 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento delle basi legali dell’istituzione, dell’esercizio e dell’uso del sistema d’informazione Schengen (SIS), in vigore dal 1° lug. 2021, cpv. 1, 2, 4 e 6 il 22 nov. 2022 ([RU 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 636](https://fedlex.data.admin.ch/eli/oc/2022/636); [FF 2020 3117](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^68a-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^68a-3]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^68a-4]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^68a-5]: Regolamento (UE) 2018/1861 del Parlamento europeo e del Consiglio, del 28 novembre 2018, sull’istituzione, l’esercizio e l’uso del sistema d’informazione Schengen (SIS) nel settore delle verifiche di frontiera, che modifica la convenzione di applicazione dell’accordo di Schengen e abroga il regolamento (CE) n. 1987/2006, versione della GU L 312 del 7.12.2018, pag. 14.
+
+#### Art. 68b
+
+**Autorità competente**[^68b-1]
+
+<sup>1</sup> Lo scambio di informazioni supplementari relative a una segnalazione secondo l’articolo 68*a* capoversi 1 e 2 tra gli Stati Schengen avviene tramite il centro di contatto, di coordinamento e di consultazione per lo scambio di informazioni relativo alle segnalazioni inserite nel SIS (ufficio SIRENE).
+
+<sup>2</sup> Se constatano che un cittadino di uno Stato terzo segnalato ai fini del rimpatrio da un altro Stato Schengen non ha osservato l’obbligo di rimpatrio, l’Ufficio federale della dogana e della sicurezza dei confini[^68b-2] e le autorità cantonali di polizia incaricate del controllo alle frontiere esterne Schengen o sul territorio nazionale ne informano l’ufficio SIRENE.
+
+<sup>3</sup> Se in relazione a una segnalazione nel SIS è necessario consultare le competenti autorità di altri Stati Schengen, la consultazione è effettuata tramite l’ufficio SIRENE.
+
+[^68b-1]: Introdotto dall’all. 1 n. 1 del DF del 18 dic. 2020 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento delle basi legali dell’istituzione, dell’esercizio e dell’uso del sistema d’informazione Schengen (SIS), in vigore dal 22 nov. 2022 ([RU 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 636](https://fedlex.data.admin.ch/eli/oc/2022/636); [FF 2020 3117](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^68b-2]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)).
+
+#### Art. 68c
+
+**Partenza e conferma del rimpatrio**[^68c-1]
+
+<sup>1</sup> Se il cittadino di uno Stato terzo segnalato nel SIS ai fini del rimpatrio da un altro Stato Schengen lascia lo spazio Schengen, la competente autorità di controllo alla frontiera rilascia una conferma dell’avvenuta partenza all’attenzione dell’ufficio SIRENE. L’ufficio SIRENE la trasmette allo Stato Schengen segnalante affinché quest’ultimo cancelli nel SIS la segnalazione ai fini del rimpatrio.
+
+<sup>2</sup> L’ufficio SIRENE inoltra le conferme di rimpatrio trasmesse da altri Stati Schengen all’autorità segnalante in Svizzera affinché quest’ultima cancelli la segnalazione.
+
+[^68c-1]: Introdotto dall’all. 1 n. 1 del DF del 18 dic. 2020 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento delle basi legali dell’istituzione, dell’esercizio e dell’uso del sistema d’informazione Schengen (SIS), in vigore dal 22 nov. 2022 ([RU 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 636](https://fedlex.data.admin.ch/eli/oc/2022/636); [FF 2020 3117](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+
+#### Art. 68d
+
+**Cancellazione delle segnalazioni svizzere nel SIS**[^68d-1]
+
+<sup>1</sup>
+
+Le segnalazioni di cui all’articolo 68*a* capoverso 1 sono cancellate dall’autorità segnalante non appena:
+
+- a. la persona segnalata ha lasciato lo spazio Schengen da un altro Stato Schengen;
+- b. le decisioni sono state revocate o annullate; o
+- c. è noto che l’interessato ha ottenuto la cittadinanza di uno Stato membro dell’UE o dell’AELS.
+
+<sup>2</sup> La competente autorità di controllo alla frontiera cancella nel SIS le segnalazioni ai fini del rimpatrio secondo l’articolo 68*a* capoverso 1 non appena la persona segnalata lascia lo spazio Schengen dalla Svizzera.
+
+<sup>3</sup>
+
+Le segnalazioni ai fini del rifiuto d’entrata e di soggiorno di cui all’articolo 68*a* capoverso 2 sono cancellate nel SIS dall’autorità segnalante non appena:
+
+- a. la durata del divieto d’entrata o dell’espulsione ai sensi dell’articolo 66*a* o 66*a*<sup>bis</sup> CP[^68d-2] o dell’articolo 49*a* o 49*a*<sup>bis</sup> CPM[^68d-3] è scaduta;
+- b. le decisioni sono state revocate o annullate; o
+- c. è noto che l’interessato ha ottenuto la cittadinanza di uno Stato membro dell’UE o dell’AELS.
+
+<sup>4</sup> Al momento della cancellazione delle segnalazioni ai fini del rimpatrio secondo il capoverso 1 lettera a o 2, è attivata senza indugio nel SIS un’eventuale segnalazione ai fini del rifiuto d’entrata e di soggiorno.
+
+[^68d-1]: Introdotto dall’all. 1 n. 1 del DF del 18 dic. 2020 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento delle basi legali dell’istituzione, dell’esercizio e dell’uso del sistema d’informazione Schengen (SIS), in vigore dal 22 nov. 2022 ([RU 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 636](https://fedlex.data.admin.ch/eli/oc/2022/636); [FF 2020 3117](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^68d-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^68d-3]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+
+#### Art. 68e
+
+**Comunicazione di dati del SIS a terzi**[^68e-1]
+
+<sup>1</sup> I dati memorizzati nel SIS e le relative informazioni supplementari non possono essere trasmessi a Stati terzi, organizzazioni internazionali, servizi privati o persone fisiche.
+
+<sup>2</sup> La SEM può trasmettere questi dati e informazioni a uno Stato terzo se in relazione al rimpatrio da uno Stato terzo è necessario identificare una persona che soggiorna illegalmente in Svizzera oppure rilasciarle un documento di viaggio o un documento di identificazione, previo consenso dello Stato segnalante e sempreché siano rispettate le condizioni dell’articolo 15 del regolamento (UE) 2018/1860[^68e-2].
+
+[^68e-1]: Introdotto dall’all. 1 n. 1 del DF del 18 dic. 2020 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento delle basi legali dell’istituzione, dell’esercizio e dell’uso del sistema d’informazione Schengen (SIS), in vigore dal 22 nov. 2022 ([RU 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 636](https://fedlex.data.admin.ch/eli/oc/2022/636); [FF 2020 3117](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^68e-2]: Regolamento (UE) 2018/1860 del Parlamento europeo e del Consiglio, del 28 novembre 2018, relativo all’uso del sistema d’informazione Schengen per il rimpatrio di cittadini di paesi terzi il cui soggiorno è irregolare, versione della GU L 312 del 7.12.2018, pag. 1.
 
 ### Sezione 4: Rinvio coatto e operazioni internazionali di rimpatrio
 
@@ -2214,10 +2292,10 @@ Il Consiglio federale determina quali dati vanno comunicati alle autorità menzi
 - b. le sentenze di diritto civile e penale;
 - c. le modifiche legate allo stato civile e il diniego di contrarre matrimonio;
 - d. il versamento di prestazioni dell’aiuto sociale;
-- [tab] d<sup>bis</sup>.[^97-2]il versamento di indennità di disoccupazione;
+- d<sup>bis</sup>.[^97-2] il versamento di indennità di disoccupazione;
 - d<sup>ter</sup>.[^97-3] il versamento di prestazioni complementari ai sensi della LPC[^97-4];
-- d<sup>quater</sup>. [^97-5]i provvedimenti disciplinari disposti da autorità scolastiche;
-- [tab] d<sup>quinquies</sup>.[^97-6] i provvedimenti disposti da autorità di protezione dei minori e degli adulti;
+- d<sup>quater</sup>.[^97-5] i provvedimenti disciplinari disposti da autorità scolastiche;
+- d<sup>quinquies</sup>.[^97-6] i provvedimenti disposti da autorità di protezione dei minori e degli adulti;
 - e.[^97-7] altre decisioni che lasciano supporre un bisogno d’integrazione particolare alla luce dei criteri di cui all’articolo 58*a*;
 - f.[^97-8] ...
 
@@ -2284,6 +2362,14 @@ D’intesa con la SEM, il DFAE può abilitare terzi a svolgere i seguenti compit
 <sup>2</sup> Coordina le misure di sua competenza con le misure preventive di polizia e le misure amministrative di fedpol.
 
 [^98c-1]: Introdotto dal n. I 2 della LF del 25 set. 2020 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 3935](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+
+#### Art. 98d
+
+**Compiti di sicurezza delle autorità di migrazione**[^98d-1]
+
+Nell’ambito dei propri compiti e competenze la SEM e le autorità cantonali cui compete l’esecuzione della presente legge verificano se uno straniero rappresenta un pericolo per la sicurezza interna o esterna o per le relazioni internazionali della Svizzera. In caso di segnalazioni di polizia è informato fedpol. Se necessario sono informate altre autorità cantonali interessate.
+
+[^98d-1]: Introdotto dall’all. 1 n. 1 del DF del 18 dic. 2020 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento delle basi legali dell’istituzione, dell’esercizio e dell’uso del sistema d’informazione Schengen (SIS), in vigore dal 22 nov. 2022 ([RU 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 636](https://fedlex.data.admin.ch/eli/oc/2022/636); [FF 2020 3117](https://fedlex.data.admin.ch/eli/fga/2020/794)).
 
 #### Art. 99
 
@@ -2469,7 +2555,10 @@ Il sistema INAD contiene i seguenti dati sulle persone cui è stata rifiutata l�
 
 <sup>3</sup> I dati rilevati nel sistema INAD sono anonimizzati dopo due anni.
 
+<sup>4</sup> Al passaggio del confine, i dati contenuti nel passaporto biometrico o nella carta per partecipanti possono essere confrontati con quelli del sistema di ricerca informatizzato di polizia (RIPOL) e del SIS.[^103a-2]
+
 [^103a-1]: Originale art 103*b*. Introdotto dal n. I della LF del 20 giu. 2014 (Violazioni dell’obbligo di diligenza e di comunicazione delle imprese di trasporto aereo; sistemi d’informazione), in vigore dal 1° ott. 2015 ([RU 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [FF 2013 2195](https://fedlex.data.admin.ch/eli/fga/2013/451)).
+[^103a-2]: Introdotto dall’all. 1 n. 1 del DF del 18 dic. 2020 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento delle basi legali dell’istituzione, dell’esercizio e dell’uso del sistema d’informazione Schengen (SIS), in vigore dal 22 nov. 2022 ([RU 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 636](https://fedlex.data.admin.ch/eli/oc/2022/636); [FF 2020 3117](https://fedlex.data.admin.ch/eli/fga/2020/794)).
 
 #### Art. 103b
 
@@ -2835,19 +2924,20 @@ Il sistema nazionale visti contiene le seguenti categorie di dati riguardanti i 
 - b. fotografie e impronte digitali del richiedente;
 - c. collegamenti tra determinate domande di visto;
 - d.[^109b-2] dati ottenuti dal sistema di ricerca informatizzato di polizia RIPOL e dalla banca dati ASF-SLTD ai quali le autorità competenti in materia di visti hanno accesso;
-- e.[^109b-3] dati ottenuti dal sistema SIS ai quali le autorità competenti in materia di visti hanno accesso, sempreché vi sia una segnalazione secondo il Capo IV del regolamento (CE) n. 1987/2006[^109b-4] e siano soddisfatte le condizioni secondo l’articolo 32 paragrafo 1 di tale regolamento.
+- e.[^109b-3] dati ottenuti dal sistema SIS ai quali le autorità competenti in materia di visti hanno accesso, sempreché vi sia una segnalazione secondo il regolamento (UE) 2018/1861[^109b-4] o il regolamento (UE) 2018/1860[^109b-5].
 
-<sup>2bis</sup> Il sistema nazionale visti contiene inoltre un sottosistema con i fascicoli in forma elettronica dei richiedenti il visto.[^109b-5]
+<sup>2bis</sup> Il sistema nazionale visti contiene inoltre un sottosistema con i fascicoli in forma elettronica dei richiedenti il visto.[^109b-6]
 
-<sup>3</sup> Per svolgere i compiti richiesti nella procedura di rilascio del visto, la SEM, le rappresentanze svizzere all’estero e le missioni, le autorità cantonali di migrazione competenti in materia di visti e le autorità comunali cui i Cantoni hanno delegato queste competenze, la Segreteria di Stato e la Direzione politica del DFAE, il Corpo delle guardie di confine e i posti di confine delle polizie cantonali che rilasciano visti eccezionali sono autorizzati a inserire, modificare o cancellare i dati nel sistema nazionale visti.[^109b-6] Le autorità sono tenute a inserire e trattare i dati da trasmettere al C-VIS conformemente al regolamento (CE) n. 767/2008[^109b-7].
+<sup>3</sup> Per svolgere i compiti richiesti nella procedura di rilascio del visto, la SEM, le rappresentanze svizzere all’estero e le missioni, le autorità cantonali di migrazione competenti in materia di visti e le autorità comunali cui i Cantoni hanno delegato queste competenze, la Segreteria di Stato e la Direzione politica del DFAE, il Corpo delle guardie di confine e i posti di confine delle polizie cantonali che rilasciano visti eccezionali sono autorizzati a inserire, modificare o cancellare i dati nel sistema nazionale visti.[^109b-7] Le autorità sono tenute a inserire e trattare i dati da trasmettere al C-VIS conformemente al regolamento (CE) n. 767/2008[^109b-8].
 
 [^109b-1]: Introdotto dall’art. 2 n. 1 del DF dell’11 dic. 2009 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE in merito al recepimento del regolamento e della decisione relativi al sistema d’informazione visti (VIS), in vigore dal 20 gen. 2014 ([RU 2010 2063](https://fedlex.data.admin.ch/eli/oc/2010/272), [2014 1](https://fedlex.data.admin.ch/eli/oc/2014/1); [FF 2009 3629](https://fedlex.data.admin.ch/eli/fga/2009/761)).
 [^109b-2]: Introdotta dal n. I della LF del 20 giu. 2014 (Violazioni dell’obbligo di diligenza e di comunicazione delle imprese di trasporto aereo; sistemi d’informazione), in vigore dal 1° ott. 2015 ([RU 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [FF 2013 2195](https://fedlex.data.admin.ch/eli/fga/2013/451)).
-[^109b-3]: Introdotta dal n. I della LF del 20 giu. 2014 (Violazioni dell’obbligo di diligenza e di comunicazione delle imprese di trasporto aereo; sistemi d’informazione), in vigore dal 1° ott. 2015 ([RU 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [FF 2013 2195](https://fedlex.data.admin.ch/eli/fga/2013/451)).
-[^109b-4]: Regolamento (CE) n. 1987/2006 del Parlamento europeo e del Consiglio, del 20 dic. 2006, sull’istituzione, l’esercizio e l’uso del sistema d’informazione Schengen di seconda generazione (SIS II), versione della GU L 381 del 28.12.2006, pag. 4.
-[^109b-5]: Introdotto dal n. I della LF del 20 giu. 2014 (Violazioni dell’obbligo di diligenza e di comunicazione delle imprese di trasporto aereo; sistemi d’informazione), in vigore dal 1° ott. 2015 ([RU 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [FF 2013 2195](https://fedlex.data.admin.ch/eli/fga/2013/451)).
-[^109b-6]: Nuovo testo giusta il n. I della LF del 26 set. 2014, in vigore dal 1° mar. 2015 ([RU 2015 533](https://fedlex.data.admin.ch/eli/oc/2015/75); [FF 2014 2935](https://fedlex.data.admin.ch/eli/fga/2014/708)).
-[^109b-7]: Regolamento (CE) n. 767/2008 del Parlamento europeo e del Consiglio, del 9 lug. 2008, concernente il sistema di informazione visti (VIS) e lo scambio di dati tra Stati membri sui visti per soggiorni di breve durata (regolamento VIS), GU L 218 del 13.8.2008, pag. 60.
+[^109b-3]: Introdotta dal n. I della LF del 20 giu. 2014 (Violazioni dell’obbligo di diligenza e di comunicazione delle imprese di trasporto aereo; sistemi d’informazione) ([RU 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [FF 2013 2195](https://fedlex.data.admin.ch/eli/fga/2013/451)). Nuovo testo giusta l’all. 1 n. 1 del DF del 18 dic. 2020 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento delle basi legali dell’istituzione, dell’esercizio e dell’uso del sistema d’informazione Schengen (SIS), in vigore dal 22 nov. 2022 ([RU 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 636](https://fedlex.data.admin.ch/eli/oc/2022/636); [FF 2020 3117](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^109b-4]: Cfr. nota a piè di pagina relativa all’art. 68*a* cpv. 2.
+[^109b-5]: Cfr. nota a piè di pagina relativa all’art. 68*e* cpv. 2.
+[^109b-6]: Introdotto dal n. I della LF del 20 giu. 2014 (Violazioni dell’obbligo di diligenza e di comunicazione delle imprese di trasporto aereo; sistemi d’informazione), in vigore dal 1° ott. 2015 ([RU 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [FF 2013 2195](https://fedlex.data.admin.ch/eli/fga/2013/451)).
+[^109b-7]: Nuovo testo giusta il n. I della LF del 26 set. 2014, in vigore dal 1° mar. 2015 ([RU 2015 533](https://fedlex.data.admin.ch/eli/oc/2015/75); [FF 2014 2935](https://fedlex.data.admin.ch/eli/fga/2014/708)).
+[^109b-8]: Regolamento (CE) n. 767/2008 del Parlamento europeo e del Consiglio, del 9 lug. 2008, concernente il sistema di informazione visti (VIS) e lo scambio di dati tra Stati membri sui visti per soggiorni di breve durata (regolamento VIS), GU L 218 del 13.8.2008, pag. 60.
 
 #### Art. 109c
 
@@ -3172,11 +3262,23 @@ Il diritto d’accesso è retto dalle disposizioni federali o cantonali in mater
 
 [^111f-1]: Nuovo testo giusta il n. 1 della LF del 19 mar. 2010 che traspone nel diritto svizzero la decisione quadro 2008/977/GAI sulla protezione dei dati personali trattati nell’ambito della cooperazione giudiziaria e di polizia in materia penale, in vigore dal 1° dic. 2010 ([RU 2010 3387](https://fedlex.data.admin.ch/eli/oc/2010/464); [FF 2009 5873](https://fedlex.data.admin.ch/eli/fga/2009/1207)).
 
-#### Art. 111g e 111h
+#### Art. 111g
 
-[^111g111h-1]
+**Vigilanza sul trattamento dei dati nell’ambito della cooperazione Schengen**[^111g-1]
 
-[^111g111h-1]: Abrogati dal n. 1 della LF del 19 mar. 2010 che traspone nel diritto svizzero la decisione quadro 2008/977/GAI sulla protezione dei dati personali trattati nell’ambito della cooperazione giudiziaria e di polizia in materia penale, con effetto dal 1° dic. 2010 ([RU 2010 3387](https://fedlex.data.admin.ch/eli/oc/2010/464)3418; [FF 2009 5873](https://fedlex.data.admin.ch/eli/fga/2009/1207)).
+<sup>1</sup> Le autorità cantonali di protezione dei dati e l’Incaricato federale della protezione dei dati e della trasparenza (IFPDT) cooperano nell’ambito delle rispettive competenze.
+
+<sup>2</sup> L’IFPDT esercita la vigilanza sul trattamento dei dati personali nell’ambito della cooperazione Schengen. Coordina l’attività di vigilanza con le autorità cantonali di protezione dei dati.
+
+³ Per l’esecuzione dei suoi compiti coopera con il Responsabile europeo della protezione dei dati, per il quale funge da autorità nazionale di vigilanza.
+
+[^111g-1]: Nuovo testo giusta l’all. 1 n. 1 del DF del 18 dic. 2020 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento delle basi legali dell’istituzione, dell’esercizio e dell’uso del sistema d’informazione Schengen (SIS), in vigore dal 22 nov. 2022 ([RU 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 636](https://fedlex.data.admin.ch/eli/oc/2022/636); [FF 2020 3117](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+
+#### Art. 111h
+
+[^111h-1]
+
+[^111h-1]: Abrogato dal n. 1 della LF del 19 mar. 2010 che traspone nel diritto svizzero la decisione quadro 2008/977/GAI sulla protezione dei dati personali trattati nell’ambito della cooperazione giudiziaria e di polizia in materia penale, con effetto dal 1° dic. 2010 ([RU 2010 3387](https://fedlex.data.admin.ch/eli/oc/2010/464)3418; [FF 2009 5873](https://fedlex.data.admin.ch/eli/fga/2009/1207)).
 
 ## Capitolo 14*c*: Eurodac
 
@@ -3522,6 +3624,17 @@ La procedura è retta dalla legge federale del 20 dicembre 1968[^122c-2] sulla p
 <sup>1</sup> Il Consiglio federale vigila sull’applicazione della presente legge.
 
 <sup>2</sup> I Cantoni emanano le disposizioni necessarie per l’applicazione della presente legge.
+
+#### Art. 124a
+
+**Relazione tra l’espulsione e la direttiva 2008/115/CE**[^124a-1]
+
+La direttiva 2008/115/CE[^124a-2] non si applica alla decisione e all’esecuzione dell’espulsione ai sensi dell’articolo 66*a* o 66*a*<sup>bis</sup> CP[^124a-3] o dell’articolo 49*a* o 49*a*<sup>bis</sup> CPM[^124a-4].
+
+[^124a-1]: Introdotto dal’all. 1 n. 1 del DF del 18 dic. 2020 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento delle basi legali dell’istituzione, dell’esercizio e dell’uso del sistema d’informazione Schengen (SIS), in vigore dal 22 nov. 2022 ([RU 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 636](https://fedlex.data.admin.ch/eli/oc/2022/636); [FF 2020 3117](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^124a-2]: Direttiva 2008/115/CE del Parlamento europeo e del Consiglio, del 16 dicembre 2008, recante norme e procedure comuni applicabili negli Stati membri al rimpatrio di cittadini di paesi terzi il cui soggiorno è irregolare, versione della GU L 348 del 24.12.2008, pag. 98.
+[^124a-3]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^124a-4]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
 
 #### Art. 125
 

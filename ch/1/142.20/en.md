@@ -4,11 +4,11 @@ title: Federal Act of 16 December 2005 on Foreign Nationals (FNA)
 short: FNA
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/758"
 language: en
-version: 2022-09-01
+version: 2022-11-22
 adopted: 2005-12-16
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20220901/en/xml/fedlex-data-admin-ch-eli-cc-2007-758-20220901-en-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20220901/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20221122/en/xml/fedlex-data-admin-ch-eli-cc-2007-758-20221122-en-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20221122/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Foreign Nationals and Integration Act, FNIA)[^t-1]
 
-of 16 December 2005 (Status as of 1 September 2022)
+of 16 December 2005 (Status as of 22 November 2022)
 
 [^t-1]: Amended by No I of the FA of 16 Dec. 2016 (Integration), in force since 1 Jan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 
@@ -1343,26 +1343,28 @@ On giving notice of a removal order, the competent authority may require the for
 
 SEM shall, subject to paragraph 5, order a ban on entry against foreign nationals who have been issued with a removal order if:
 
-- a. the removal order is enforced immediately in accordance with Article 64*d* paragraph 2 letters a–c;
-- b. the person does not leave by the deadline set.
+- a. the removal order may be enforced immediately in accordance with Article 64*d* paragraph 2 letters a–c;
+- b. the person does not leave by the appointed deadline;
+- c. the person has violated or represents a threat to public security and order in Switzerland or abroad; or
+- d. the person has been convicted of an offence or of an attempted offence under Article 115 paragraph 1, 116, 117 or 118.[^67-2]
 
 <sup>2</sup>
 
-It[^67-2] may order a ban on entry against foreign nationals who:
+A ban on entry may be ordered against foreign nationals who:
 
-- a. have violated or represent a threat to public security and order in Switzerland or abroad;
-- b. have incurred social assistance costs;
-- c. have had to be taken into detention in preparation for departure or pending deportation or have been placed in coercive detention (Art. 75–78).
+- a. have incurred social assistance costs;
+- b. have had to be taken into detention in preparation for departure or pending deportation or have been placed in coercive detention (Art. 75–78).[^67-3]
 
 <sup>3</sup> The ban on entry shall be ordered for a maximum duration of five years. It may be ordered for a longer period if the person concerned represents a serious risk to public security or order*.*
 
 <sup>4</sup> The Federal Office of Police (fedpol) may order a ban on the entry of any foreign national in order to safeguard Switzerland’s internal or external security; it shall consult the Federal Intelligence Service (FIS) beforehand. fedpol may order a ban on entry for a period of more than five years or in serious cases for an unlimited period.
 
-<sup>5</sup> The authority issuing the ban on entry may by way of exception refrain from imposing a ban on entry on humanitarian grounds or for other good cause or revoke the ban permanently or temporarily. In reaching its decision, the authority must in particular consider whether grounds for issuing the ban on entry and the need to protect public security and order and to safeguard Switzerland’s internal or external security outweigh the private interests of the person concerned in not being subject to the ban.[^67-3]
+<sup>5</sup> The authority issuing the ban on entry may by way of exception refrain from imposing a ban on entry on humanitarian grounds or for other good cause or revoke the ban permanently or temporarily. In reaching its decision, the authority must in particular consider whether grounds for issuing the ban on entry and the need to protect public security and order and to safeguard Switzerland’s internal or external security outweigh the private interests of the person concerned in not being subject to the ban.[^67-4]
 
 [^67-1]: Amended by Art. 2 No 1 of the FD of 18 June 2010 on the Adoption of the EC Directive on the Return of Illegal Immigrants (Directive 2008/115/EC), in force since 1 Jan. 2011 ([AS 2010 5925](https://fedlex.data.admin.ch/eli/oc/2010/848); [BBl 2009 8881](https://fedlex.data.admin.ch/eli/fga/2009/1528)).
-[^67-2]: Term in accordance with No I 1 para. 1 of the FA of 15 June 2012 on Measures against Forced Marriages, in force since 1 July 2013 ([AS 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [BBl 2011 2185](https://fedlex.data.admin.ch/eli/fga/2011/292)).
-[^67-3]: Amended by Annex No I of the FA of 20 March 2015 (Implementation of Art. 121 para. 3–6 Federal Constitution on the expulsion of foreign nationals convicted of certain offences), in force since 1 Oct. 2016 ([AS 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [BBl 2013 5975](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
+[^67-2]: Amended by Annex 1 No 1 of the FD of 18 Dec. 2020 on the Approval and Implementation of the Exchange of Notes between Switzerland and the EU relating to the Adoption of the Legislation on the Establishment, Operation and Use of the Schengen Information System (SIS), in force since 22 Nov. 2022 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 636](https://fedlex.data.admin.ch/eli/oc/2022/636); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^67-3]: Amended by Annex 1 No 1 of the FD of 18 Dec. 2020 on the Approval and Implementation of the Exchange of Notes between Switzerland and the EU relating to the Adoption of the Legislation on the Establishment, Operation and Use of the Schengen Information System (SIS), in force since 22 Nov. 2022 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 636](https://fedlex.data.admin.ch/eli/oc/2022/636); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^67-4]: Amended by Annex No I of the FA of 20 March 2015 (Implementation of Art. 121 para. 3–6 Federal Constitution on the expulsion of foreign nationals convicted of certain offences), in force since 1 Oct. 2016 ([AS 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [BBl 2013 5975](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
 
 #### Art. 68
 
@@ -1382,17 +1384,90 @@ It[^67-2] may order a ban on entry against foreign nationals who:
 
 **Alert in the Schengen Information System**[^68a-1]
 
-<sup>1</sup> and <sup>2</sup> ...
+<sup>1</sup>
+
+The competent authority shall enter in the Schengen Information System (SIS) the data on third-country citizens subject to any of the following return decisions:
+
+- a. a removal order in accordance with Article 64;
+- b. an expulsion order in accordance with Article 68;
+- c. an order for expulsion from Switzerland in accordance with Article 66*a* or 66*a*<sup>bis</sup> SCC[^68a-2] or Article 49*a* or 49*a*<sup>bis</sup> MCC[^68a-3] where enforcement has been ordered;
+- d. a removal order where enforcement has been ordered in accordance with Articles 44 and 45 AsylA[^68a-4].
+
+<sup>2</sup> Data on third-country citizens against whom bans on entry in accordance with Articles 67 and 68 paragraph 3 and an order for expulsion from Switzerland have been issued shall entered by the competent authority in the SIS provided the requirements of Regulation (EU) 2018/1861[^68a-5] have been met.
 
 <sup>3</sup> SEM may supply biometric data to the SIS that is already available in the automated fingerprint identification system under Article 354 SCC (AFIS) or in ZEMIS. The supply of data may be automated.
 
-<sup>4</sup> ...
+<sup>4</sup> The competent authorities for issuing an alert on decisions in accordance with paragraphs 1 and 2 shall record in ZEMIS the personal data of the person to whom the alert relates. If the facial image and the fingerprints are not already available, they shall record these data in AFIS for delivery to the SIS or have the data recorded there by the authorities entitled to do so.
 
 <sup>5</sup> In connection with its alerts, fedpol may supply biometric data to the SIS that is already available in the AFIS. The supply of data may be automated. If no biometric data are available, fedpol may order the retroactive recording of the data from the authorities that detect a hit on these alerts.
 
-<sup>6</sup> ...
+<sup>6</sup> The Federal Council shall regulate the procedure and responsibilities for recording and transmitting the data in accordance with paragraphs 1–5 for the purpose of alerts in the SIS. It may provide for exceptions to the requirement to record and deliver data with regard to biometric data.
 
-[^68a-1]: Inserted by Annex 1 No 1 of the FedD of 18 Dec. 2020 on the Approval and Implementation of the Council of Europe Convention on the Prevention of Terrorism and its Additional Protocol and the Strengthening of Criminal Justice Instruments for combating Terrorism and Organised Crime (SIS), para 3 and 5 in force since 1 July 2021 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^68a-1]: Inserted by Annex 1 No 1 of the FedD of 18 Dec. 2020 on the Approval and Implementation of the Council of Europe Convention on the Prevention of Terrorism and its Additional Protocol and the Strengthening of Criminal Justice Instruments for combating Terrorism and Organised Crime (SIS), para. 3 and 5 in force since 1 July 2021 and para. 1, 2 4 and 6 in force since 22 Nov. 2022 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 636](https://fedlex.data.admin.ch/eli/oc/2022/636); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^68a-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^68a-3]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^68a-4]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^68a-5]: Regulation (EU) 2018/1861 of the European Parliament and of the Council of 28 November 2018 on the establishment, operation and use of the Schengen Information System (SIS) in the field of border checks, and amending the Convention implementing the Schengen Agreement, and amending and repealing Regulation (EC) No 1987/2006, last amended by OJ. L 312 of 7.12.2018, p. 14.
+
+#### Art. 68b
+
+**Competent authority**[^68b-1]
+
+<sup>1</sup> Additional information in connection with an alert in accordance with Article 68a paragraphs 1 and 2 shall be exchanged between the Schengen States via the contact, coordination and consultation point for the exchange of information in connection with alerts in the SIS (SIRENE Office).
+
+<sup>2</sup> If the Federal Office for Customs and Border Security[^68b-2] and the cantonal police authorities responsible for controlling the Schengen external borders or in Switzerland establish that a third-country national subject to an alert from another Schengen State for the purpose of return has not complied with their obligation to return, they shall notify the SIRENE Office.
+
+<sup>3</sup> If a consultation with the competent authorities of other Schengen States is required in connection with an alert in the SIS, this shall take place via the SIRENE Office.
+
+[^68b-1]: Inserted by Annex 1 No 1 of the FD of 18 Dec. 2020 on the Approval and Implementation of the Exchange of Notes between Switzerland and the EU relating to the Adoption of the Legislation on the Establishment, Operation and Use of the Schengen Information System (SIS), in force since 22 Nov. 2022 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 636](https://fedlex.data.admin.ch/eli/oc/2022/636); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^68b-2]: The name of this administrative unit was changed in application of Art. 20 para. 2 of the Publications Ordinance of 7 Oct. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)).
+
+#### Art. 68c
+
+**Exit and confirmation of return**[^68c-1]
+
+<sup>1</sup> If the third-country national subject to an alert in the SIS from another Schengen State for the purpose of return leaves the Schengen area, the competent border control authority shall issue a confirmation of return to the SIRENE Offices. The SIRENE Office shall transmit the confirmation to the Schengen State issuing the alert for the purpose of deleting the alert for return in the SIS.
+
+<sup>2</sup> The SIRENE Office shall forward confirmations of return from other Schengen States to the authority issuing the alert in Switzerland for the purpose of deleting the alert.
+
+[^68c-1]: Inserted by Annex 1 No 1 of the FD of 18 Dec. 2020 on the Approval and Implementation of the Exchange of Notes between Switzerland and the EU relating to the Adoption of the Legislation on the Establishment, Operation and Use of the Schengen Information System (SIS), in force since 22 Nov. 2022 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 636](https://fedlex.data.admin.ch/eli/oc/2022/636); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+
+#### Art. 68d
+
+**Deletion of Swiss alerts in the SIS**[^68d-1]
+
+<sup>1</sup>
+
+Alerts in accordance with Article 68*a* paragraph 1 shall be deleted by the authority issuing the alert as soon as:
+
+- a. the person subject to the alert has left the Schengen area from another Schengen State;
+- b. the decisions have been revoked or cancelled; or
+- c. it is known that the person concerned has become a citizen of an EU/EFTA State.
+
+<sup>2</sup> The deleting of alerts on return in the SIS in accordance with Article 68*a* paragraph 1 shall be carried out by the competent border control authority as soon as the person subject to the alert leaves the Schengen area via Switzerland.
+
+<sup>3</sup>
+
+Alerts for refusal of entry or stay in accordance with Article 68*a* paragraph 2 shall be deleted by the authority issuing the alert as soon as:
+
+- a. the term of the ban on entry or of the order for expulsion from Switzerland has expired;
+- b. the decisions have been revoked or cancelled; or
+- c. it is known that the person concerned has become a citizen of an EU/EFTA State.
+
+<sup>4</sup> When deleting alerts on return in accordance with paragraph 1 letter a or paragraph 2, if applicable an alert for refusal of entry or stay shall be immediately activated in the SIS.
+
+[^68d-1]: Inserted by Annex 1 No 1 of the FD of 18 Dec. 2020 on the Approval and Implementation of the Exchange of Notes between Switzerland and the EU relating to the Adoption of the Legislation on the Establishment, Operation and Use of the Schengen Information System (SIS), in force since 22 Nov. 2022 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 636](https://fedlex.data.admin.ch/eli/oc/2022/636); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+
+#### Art. 68e
+
+**Disclosure of SIS data to third parties**[^68e-1]
+
+<sup>1</sup> The data stored in the SIS and the related supplementary information shall not be transmitted to third countries, international organisations, private bodies or natural persons.
+
+<sup>2</sup> SEM may transmit these data and information to a third country if, in relation to the return of a person from a third country who is staying illegally in Switzerland, this person is to be identified or issued with a travel document or identity document, provided the State issuing the alert has given its consent and the requirements of Article 15 of the Regulation (EU) 2018/1860[^68e-2] have been met.
+
+[^68e-1]: Inserted by Annex 1 No 1 of the FD of 18 Dec. 2020 on the Approval and Implementation of the Exchange of Notes between Switzerland and the EU relating to the Adoption of the Legislation on the Establishment, Operation and Use of the Schengen Information System (SIS), in force since 22 Nov. 2022 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 636](https://fedlex.data.admin.ch/eli/oc/2022/636); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^68e-2]: Regulation (EU) 2018/1860 of the European Parliament and of the Council of 28 November 2018 on the use of the Schengen Information System for the return of illegally staying third-country nationals, last amended by OJ. L 312 of 7.12.2018, p. 1.
 
 ### Section 4 Deportation and International Return Interventions
 
@@ -1642,7 +1717,7 @@ The competent authority may order the detention of the foreign national concerne
 
 - a. there are specific indications that the person intends to evade removal;
 - b. detention is proportional; and
-- c. less coercive alternative measures cannot be applied effectively (Art. 28 para. 2 der Regulation [EU] No 604/2013[^76a-2]).
+- c. less coercive alternative measures cannot be applied effectively (Art. 28 para. 2 of the Regulation [EU] No 604/2013[^76a-2]).
 
 <sup>2</sup>
 
@@ -1743,7 +1818,7 @@ The maximum term of detention may be extended with the consent of the cantonal j
 
 <sup>1</sup> Detention shall be ordered by the authorities of the canton responsible for enforcing the removal or expulsion order. In the case of persons staying in federal centres, the canton where the centre is located is responsible for ordering detention in preparation for departure. In cases covered by Article 76 paragraph 1 letter b number 5, detention shall be ordered by the canton where the centre is located.[^80-1]
 
-<sup>1bis</sup> In cases under Article 76 paragraph 1 letter b number 5, detention is ordered by the canton in which the the federal centres are located; if in accordance with Article 46 paragraph 1<sup>bis</sup> third sentence AsylA[^80-2] a canton other than the canton where the centres are located is responsible for executing removal, that canton is also responsible for ordering detention.[^80-3]
+<sup>1bis</sup> In cases under Article 76 paragraph 1 letter b number 5, detention is ordered by the canton in which the federal centres are located; if in accordance with Article 46 paragraph 1<sup>bis</sup> third sentence AsylA[^80-2] a canton other than the canton where the centres are located is responsible for executing removal, that canton is also responsible for ordering detention.[^80-3]
 
 <sup>2</sup> The legality and the appropriateness of detention must be reviewed at the latest within 96 hours by a judicial authority on the basis of an oral hearing. If detention pending deportation has been ordered in accordance with Article 77, the detention review procedure shall be carried out in writing.[^80-4]
 
@@ -2212,10 +2287,10 @@ The Federal Council shall determine what data must be reported to the authoritie
 - b. civil and criminal judgements;
 - c. changes in connection with civil status or in the case of refusal to permit a marriage;
 - d. a claim for social assistance;
-- [tab] d<sup>bis</sup>.[^97-2] a claim for unemployment benefit;
-- [tab] d<sup>ter</sup>.[^97-3] a claim for supplementary benefits in accordance with the SBA[^97-4];
-- [tab] d<sup>quater</sup>.[^97-5] disciplinary measures by school authorities;
-- [tab] d<sup>quinquies</sup>.[^97-6] measures taken by child and adult protection authorities;
+- d<sup>bis</sup>.[^97-2] a claim for unemployment benefit;
+- d<sup>ter</sup>.[^97-3] a claim for supplementary benefits in accordance with the SBA[^97-4];
+- d<sup>quater</sup>.[^97-5] disciplinary measures by school authorities;
+- d<sup>quinquies</sup>.[^97-6] measures taken by child and adult protection authorities;
 - e.[^97-7] other decisions indicating a special need for integration in accordance with the criteria set out in Article 58*a*;
 - f.[^97-8] ...
 
@@ -2282,6 +2357,14 @@ The FDFA in consultation with SEM may authorise third parties to carry out the f
 <sup>2</sup> It shall coordinate the measures within its sphere of responsibility with fedpol’s preventive police and administrative measures.
 
 [^98c-1]: Inserted by No I 2 of the FA of 25 Sept. 2020 on Police Counterterrorism Measures, in force since 1 June 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+
+#### Art. 98d
+
+**Security duties of the migration authorities**[^98d-1]
+
+SEM and the cantonal authorities that are responsible for implementing this Act shall assess within the scope of their duties and responsibilities whether foreign nationals pose a risk to Switzerland’s internal or external security or its international relations. In the case of police alerts, fedpol shall be notified. If required, further cantonal authorities that are involved may be notified.
+
+[^98d-1]: Inserted by Annex 1 No 1 of the FD of 18 Dec. 2020 on the Approval and Implementation of the Exchange of Notes between Switzerland and the EU relating to the Adoption of the Legislation on the Establishment, Operation and Use of the Schengen Information System (SIS), in force since 22 Nov. 2022 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 636](https://fedlex.data.admin.ch/eli/oc/2022/636); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
 
 #### Art. 99
 
@@ -2467,7 +2550,10 @@ The system shall contain the following data on persons who have been refused ent
 
 <sup>3</sup> The data recorded in the system shall be anonymised after two years.
 
+<sup>4</sup> At the border crossing, the data contained in the biometric passport or on the participation card may be compared with the data in the computerised police search system (RIPOL) and the SIS.[^103a-2]
+
 [^103a-1]: Originally Art. 103*b*. Inserted by No I of the FA of 20 June 2014 (Violations of the Duty of Care and to Report by Air Carriers, Information Systems), in force since 1 Oct. 2015 ([AS 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [BBl 2013 2561](https://fedlex.data.admin.ch/eli/fga/2013/451)).
+[^103a-2]: Inserted by Annex 1 No 1 of the FD of 18 Dec. 2020 on the Approval and Implementation of the Exchange of Notes between Switzerland and the EU relating to the Adoption of the Legislation on the Establishment, Operation and Use of the Schengen Information System (SIS), in force since 22 Nov. 2022 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 636](https://fedlex.data.admin.ch/eli/oc/2022/636); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
 
 #### Art. 103b
 
@@ -2834,19 +2920,20 @@ The national visa system contains the following categories of data on visa appli
 - b. the applicants' photographs and fingerprints;
 - c. the links between certain visa applications;
 - d.[^109b-2] the data from RIPOL and from the ASF-SLTD to which the visa authorities have access;
-- e.[^109b-3] the data from SIS to which the visa authorities have access, provided an alert has been issued under Chapter 4 of Regulation (EC) No 1987/2006[^109b-4] and the requirements of Article 32 paragraph 1 of this EC Regulation have been met.
+- e.[^109b-3] the data from SIS to which the visa authorities have access, provided an alert has been issued under Regulation (EU) 2018/1861[^109b-4] or Regulation (EU) 2018/1860[^109b-5].
 
-<sup>2bis</sup> The national visa system also contains a subsystem with the files on the visa applicants in electronic form.[^109b-5]
+<sup>2bis</sup> The national visa system also contains a subsystem with the files on the visa applicants in electronic form.[^109b-6]
 
-<sup>3</sup> SEM, Swiss representations abroad and missions, cantonal migration authorities responsible for visas and the communal authorities to which the cantons have delegated these responsibilities, the State Secretariat and the Directorate of Political Affairs of the FDFA and the Border Guard and the border posts of the cantonal police authorities that issue exceptional visas may enter, modify and delete data in the national visa system in order to fulfil their duties under the visa procedure.[^109b-6] They must enter and process the data transmitted to the C‑VIS in accordance with Regulation (EC) No 767/2008[^109b-7].
+<sup>3</sup> SEM, Swiss representations abroad and missions, cantonal migration authorities responsible for visas and the communal authorities to which the cantons have delegated these responsibilities, the State Secretariat and the Directorate of Political Affairs of the FDFA and the Border Guard and the border posts of the cantonal police authorities that issue exceptional visas may enter, modify and delete data in the national visa system in order to fulfil their duties under the visa procedure.[^109b-7] They must enter and process the data transmitted to the C‑VIS in accordance with Regulation (EC) No 767/2008[^109b-8].
 
 [^109b-1]: Inserted by Art. 2 No 1 of the FD of 11 Dec. 2009 on the Approval and Implementation of the Exchange of Notes between Switzerland and the EU on the Adoption of the Regulation and Decision concerning the Visa Information System (VIS), in force since 20 Jan. 2014 ([AS 2010 2063](https://fedlex.data.admin.ch/eli/oc/2010/272), [2014 1](https://fedlex.data.admin.ch/eli/oc/2014/1); [BBl 2009 4245](https://fedlex.data.admin.ch/eli/fga/2009/761)).
 [^109b-2]: Inserted by No I of the FA of 20 June 2014 (Violations of the Duty of Care and to Report by Air Carriers, Information Systems), in force since 1 Oct. 2015 ([AS 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [BBl 2013 2561](https://fedlex.data.admin.ch/eli/fga/2013/451)).
-[^109b-3]: Inserted by No I of the FA of 20 June 2014 (Violations of the Duty of Care and to Report by Air Carriers, Information Systems), in force since 1 Oct. 2015 ([AS 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [BBl 2013 2561](https://fedlex.data.admin.ch/eli/fga/2013/451)).
-[^109b-4]: Regulation (EC) No 1987/2006 of the European Parliament and of the Council of 20 December 2006 on the establishment, operation and use of the second generation Schengen Information System (SIS II), amended by OJ. L 381 of 28.12.2006, p. 4.
-[^109b-5]: Inserted by No I of the FA of 20 June 2014 (Violations of the Duty of Care and to Report by Air Carriers, Information Systems), in force since 1 Oct. 2015 ([AS 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [BBl 2013 2561](https://fedlex.data.admin.ch/eli/fga/2013/451)).
-[^109b-6]: Amended by No I of the FA of 26 Sept. 2014, in force since 1 March 2015 ([AS 2015 533](https://fedlex.data.admin.ch/eli/oc/2015/75); [BBl 2014 3373](https://fedlex.data.admin.ch/eli/fga/2014/708)).
-[^109b-7]: Regulation (EC) No 767/2008 of the European Parliament and the Council of 9 July 2008 concerning the Visa Information System (VIS) and the exchange of data between Member States on short-stay visas (VIS Regulation), OJ. L 218 of 13.8.2008, p. 60.
+[^109b-3]: Inserted by No I of the FA of 20 June 2014 (Violations of the Duty of Care and to Report by Air Carriers, Information Systems) ([AS 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [BBl 2013 2561](https://fedlex.data.admin.ch/eli/fga/2013/451)). Amended by Annex 1 No 1 of the FD of 18 Dec. 2020 on the Approval and Implementation of the Exchange of Notes between Switzerland and the EU relating to the Adoption of the Legislation on the Establishment, Operation and Use of the Schengen Information System (SIS), in force since 22 Nov. 2022 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 636](https://fedlex.data.admin.ch/eli/oc/2022/636); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^109b-4]: See footnote to Art. 68*a* Abs. 2.
+[^109b-5]: See footnote to Art. 68*e* Abs. 2.
+[^109b-6]: Inserted by No I of the FA of 20 June 2014 (Violations of the Duty of Care and to Report by Air Carriers, Information Systems), in force since 1 Oct. 2015 ([AS 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [BBl 2013 2561](https://fedlex.data.admin.ch/eli/fga/2013/451)).
+[^109b-7]: Amended by No I of the FA of 26 Sept. 2014, in force since 1 March 2015 ([AS 2015 533](https://fedlex.data.admin.ch/eli/oc/2015/75); [BBl 2014 3373](https://fedlex.data.admin.ch/eli/fga/2014/708)).
+[^109b-8]: Regulation (EC) No 767/2008 of the European Parliament and the Council of 9 July 2008 concerning the Visa Information System (VIS) and the exchange of data between Member States on short-stay visas (VIS Regulation), OJ. L 218 of 13.8.2008, p. 60.
 
 #### Art. 109c
 
@@ -2893,7 +2980,7 @@ The Federal Council shall regulate:
 
 - a. the administrative units under Article 109*a* paragraphs 2 and 3 and 109*b* paragraph 3 to which the powers mentioned therein apply;
 - b. the procedure by which authorities obtain C-VIS data under Article 109*a* paragraph 3;
-- c. the extent of online access to the C-VIS and auf das national visa system;
+- c. the extent of online access to the C-VIS and auf the national visa system;
 - d. the procedure for exchanging information under Article 109*d*;
 - f. the storage of the data and procedure for its deletion;
 - g. the modalities relating to data security;
@@ -3168,11 +3255,23 @@ The right to information is governed by the federal or cantonal data protection 
 
 [^111f-1]: Amended by No 1 of the FA of 19 March 2010 on the Implementation of Framework Decision 2008/977/JHA on the protection of personal data processed in the framework of police and judicial cooperation in criminal matters, in force since 1 Dec. 2010 ([AS 2010 3387](https://fedlex.data.admin.ch/eli/oc/2010/464)3418; [BBl 2009 6749](https://fedlex.data.admin.ch/eli/fga/2009/1207)).
 
-#### Art. 111g and 111h
+#### Art. 111g
 
-[^111g111h-1]
+**Supervision of data processing related to Schengen cooperation**[^111g-1]
 
-[^111g111h-1]: Repealed by No 1 of the FA of 19 March 2010 on the Implementation of Framework Decision 2008/977/JHA on the protection of personal data processed in the framework of police and judicial cooperation in criminal matters, with effect from 1 Dec. 2010 ([AS 2010 3387](https://fedlex.data.admin.ch/eli/oc/2010/464)3418; [BBl 2009 6749](https://fedlex.data.admin.ch/eli/fga/2009/1207)).
+<sup>1</sup> The cantonal data protection authorities and the Federal Data Protection and Information Commissioner (FDPIC) shall work together within the scope of their respective responsibilities.
+
+<sup>2</sup> The FDPIC shall supervise the processing of personal data related to Schengen cooperation. It shall coordinate its supervisory activities with the cantonal data protection authorities.
+
+<sup>3</sup> It shall work with the European Data Protection Supervisor in carrying out its duties; it is the national supervisory authority in this respect.
+
+[^111g-1]: Amended by Annex 1 No 1 of the FD of 18 Dec. 2020 on the Approval and Implementation of the Exchange of Notes between Switzerland and the EU relating to the Adoption of the Legislation on the Establishment, Operation and Use of the Schengen Information System (SIS), in force since 22 Nov. 2022 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 636](https://fedlex.data.admin.ch/eli/oc/2022/636); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+
+#### Art. 111h
+
+[^111h-1]
+
+[^111h-1]: Repealed by No 1 of the FA of 19 March 2010 on the Implementation of Framework Decision 2008/977/JHA on the protection of personal data processed in the framework of police and judicial cooperation in criminal matters, with effect from 1 Dec. 2010 ([AS 2010 3387](https://fedlex.data.admin.ch/eli/oc/2010/464)3418; [BBl 2009 6749](https://fedlex.data.admin.ch/eli/fga/2009/1207)).
 
 ## Chapter 14*c* Eurodac
 
@@ -3281,15 +3380,14 @@ Any person who:
 
 **Encouraging unlawful entry, exit or an unlawful period of stay**
 
-<sup>1</sup>
+<sup>1</sup> is liable on conviction to a custodial sentence not exceeding one year or to a monetary penalty.
 
 Any person who:
 
 - a. in Switzerland or abroad, facilitates the unlawful entry or departure or the unlawful period of stay in Switzerland of a foreign national or assists a foreign national to prepare for the same;
 - a<sup>bis</sup>.[^116-1] from within Switzerland facilitates the unlawful entry or departure or the unlawful period of stay in a Schengen State of a foreign national or assists a foreign national to prepare for the same;
-- b. finds foreign nationals employment in Switzerland without the required permit;
+- b. finds employment for a foreign national in Switzerland without the required permit;
 - c.[^116-2] facilitates the entry of a foreign national who has left Switzerland or the international transit zone of the airports into the sovereign territory of another state in violation of the entry provisions applicable there or assists that foreign national in preparing for such entry.
-- [tab] is liable on conviction to a custodial sentence not exceeding one year or to a monetary penalty.
 
 <sup>2</sup> In minor cases, a fine may be imposed.
 
@@ -3517,6 +3615,17 @@ Proceedings are governed by the Administrative Procedure Act of 20 December 1968
 <sup>1</sup> The Federal Council shall supervise the implementation of this Act.
 
 <sup>2</sup> The cantons shall issue the required provisions for the implementation of this Act.
+
+#### Art. 124a
+
+**Relationship between the order for expulsion from Switzerland and Directive 2008/115/EC**[^124a-1]
+
+Directive 2008/115/EC[^124a-2] does not apply to ordering and enforcing an order for expulsion from Switzerland in accordance with Article 66*a* or 66*a*<sup>bis</sup> SCC[^124a-3] or Article 49*a* or 49*a*<sup>bis</sup> MCC[^124a-4].
+
+[^124a-1]: Inserted by Annex 1 No 1 of the FD of 18 Dec. 2020 on the Approval and Implementation of the Exchange of Notes between Switzerland and the EU relating to the Adoption of the Legislation on the Establishment, Operation and Use of the Schengen Information System (SIS), in force since 22 Nov. 2022 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 636](https://fedlex.data.admin.ch/eli/oc/2022/636); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^124a-2]: Directive 2008/115/EC of the European Parliament and of the Council of 16 Dec. 2008 on common standards and procedures in Member States for returning illegally staying third-country nationals, last amended by OJ. L 348 of 24.12.2008, p. 98.
+[^124a-3]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^124a-4]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
 
 #### Art. 125
 

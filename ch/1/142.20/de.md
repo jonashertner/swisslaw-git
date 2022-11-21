@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 16. Dezember 2005 über die Ausländerinnen und Auslän
 short: AIG
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/758"
 language: de
-version: 2022-09-01
+version: 2022-11-22
 adopted: 2005-12-16
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20220901/de/xml/fedlex-data-admin-ch-eli-cc-2007-758-20220901-de-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20220901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20221122/de/xml/fedlex-data-admin-ch-eli-cc-2007-758-20221122-de-xml-12.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20221122/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20220901/de"
 
 (Ausländer- und Integrationsgesetz, AIG)[^t-1]
 
-vom 16. Dezember 2005 (Stand am 1. September 2022)
+vom 16. Dezember 2005 (Stand am 22. November 2022)
 
 [^t-1]: Fassung gemäss Ziff. I des BG vom 16. Dez. 2016 (Integration), in Kraft seit 1. Jan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 
@@ -1344,26 +1344,28 @@ Die zuständige Behörde kann Ausländerinnen und Ausländer nach der Eröffnung
 
 Das SEM verfügt unter Vorbehalt von Absatz 5 Einreiseverbote gegenüber weggewiesenen Ausländerinnen und Ausländern, wenn:
 
-- a. die Wegweisung nach Artikel 64*d* Absatz 2 Buchstaben a–c sofort vollstreckt wird;
-- b. diese nicht innerhalb der angesetzten Frist ausgereist sind.
+- a. die Wegweisung nach Artikel 64*d* Absatz 2 Buchstaben a–c sofort vollstreckbar ist;
+- b. diese nicht innerhalb der angesetzten Frist ausgereist sind;
+- c. sie gegen die öffentliche Sicherheit und Ordnung in der Schweiz oder im Ausland verstossen haben oder diese gefährden; oder
+- d. sie bestraft worden sind, weil sie Handlungen im Sinne von Artikel 115 Absatz 1, 116, 117 oder 118 begangen haben oder weil sie versucht haben, solche Handlungen zu begehen.[^67-2]
 
 <sup>2</sup>
 
-Es[^67-2] kann Einreiseverbote gegenüber Ausländerinnen und Ausländern verfügen, die:
+Es kann Einreiseverbote gegenüber Ausländerinnen und Ausländern verfügen, die:
 
-- a. gegen die öffentliche Sicherheit und Ordnung in der Schweiz oder im Ausland verstossen haben oder diese gefährden;
-- b. Sozialhilfekosten verursacht haben;
-- c. in Vorbereitungs-, Ausschaffungs- oder Durchsetzungshaft (Art. 75–78) genommen worden sind.
+- a. Sozialhilfekosten verursacht haben;
+- b. in Vorbereitungs-, Ausschaffungs- oder Durchsetzungshaft (Art. 75–78) genommen worden sind.[^67-3]
 
 <sup>3</sup> Das Einreiseverbot wird für eine Dauer von höchstens fünf Jahren verfügt. Es kann für eine längere Dauer verfügt werden, wenn die betroffene Person eine schwerwiegende Gefahr für die öffentliche Sicherheit und Ordnung darstellt*.*
 
 <sup>4</sup> Das Bundesamt für Polizei (fedpol) kann zur Wahrung der inneren oder der äusseren Sicherheit der Schweiz gegenüber Ausländerinnen und Ausländern ein Einreiseverbot verfügen; es hört den Nachrichtendienst des Bundes (NDB) vorgängig an. Das fedpol kann Einreiseverbote für eine Dauer von mehr als fünf Jahren und in schwerwiegenden Fällen unbefristet verfügen.
 
-<sup>5</sup> Die verfügende Behörde kann ausnahmsweise aus humanitären oder anderen wichtigen Gründen von der Verhängung eines Einreiseverbots absehen oder ein Einreiseverbot endgültig oder vorübergehend aufheben. Dabei sind namentlich die Gründe, die zum Einreiseverbot geführt haben, sowie der Schutz der öffentlichen Sicherheit und Ordnung und die Wahrung der inneren oder äusseren Sicherheit der Schweiz gegenüber den privaten Interessen der betroffenen Person an einer Aufhebung abzuwägen.[^67-3]
+<sup>5</sup> Die verfügende Behörde kann ausnahmsweise aus humanitären oder anderen wichtigen Gründen von der Verhängung eines Einreiseverbots absehen oder ein Einreiseverbot endgültig oder vorübergehend aufheben. Dabei sind namentlich die Gründe, die zum Einreiseverbot geführt haben, sowie der Schutz der öffentlichen Sicherheit und Ordnung und die Wahrung der inneren oder äusseren Sicherheit der Schweiz gegenüber den privaten Interessen der betroffenen Person an einer Aufhebung abzuwägen.[^67-4]
 
 [^67-1]: Fassung gemäss Art. 2 Ziff. 1 des BB vom 18. Juni 2010 betreffend die Übernahme der EG-Rückführungsrichtlinie (Richtlinie 2008/115/EG), in Kraft seit 1. Jan. 2011 ([AS 2010 5925](https://fedlex.data.admin.ch/eli/oc/2010/848); [BBl 2009 8881](https://fedlex.data.admin.ch/eli/fga/2009/1528)).
-[^67-2]: Ausdruck gemäss Ziff. I 1 Abs. 1 des BG vom 15. Juni 2012 über Massnahmen gegen Zwangsheiraten, in Kraft seit 1. Juli 2013 ([AS 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [BBl 2011 2185](https://fedlex.data.admin.ch/eli/fga/2011/292)).
-[^67-3]: Fassung gemäss Anhang Ziff. 1 des BG vom 20. März 2015 (Umsetzung von Art. 121 Abs. 3–6 BV über die Ausschaffung krimineller Ausländerinnen und Ausländer), in Kraft seit 1. Okt. 2016 ([AS 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [BBl 2013 5975](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
+[^67-2]: Fassung gemäss Anhang 1 Ziff. 1 des BB vom 18. Dez. 2020 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Rechtsgrundlagen über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems (SIS), in Kraft seit 22. Nov. 2022 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 636](https://fedlex.data.admin.ch/eli/oc/2022/636); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^67-3]: Fassung gemäss Anhang 1 Ziff. 1 des BB vom 18. Dez. 2020 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Rechtsgrundlagen über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems (SIS), in Kraft seit 22. Nov. 2022 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 636](https://fedlex.data.admin.ch/eli/oc/2022/636); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^67-4]: Fassung gemäss Anhang Ziff. 1 des BG vom 20. März 2015 (Umsetzung von Art. 121 Abs. 3–6 BV über die Ausschaffung krimineller Ausländerinnen und Ausländer), in Kraft seit 1. Okt. 2016 ([AS 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [BBl 2013 5975](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
 
 #### Art. 68
 
@@ -1383,17 +1385,90 @@ Es[^67-2] kann Einreiseverbote gegenüber Ausländerinnen und Ausländern verfü
 
 **Ausschreibung im Schengener Informationssystem**[^68a-1]
 
-<sup>1</sup> und <sup>2</sup> …
+<sup>1</sup>
+
+Die zuständige Behörde trägt in das Schengener Informationssystem (SIS) die Daten von Drittstaatsangehörigen, gegen die eine der folgenden Rückkehrentscheide verfügt wurde, ein:
+
+- a. eine Wegweisung nach Artikel 64;
+- b. eine Ausweisung nach Artikel 68;
+- c. eine Landesverweisung nach Artikel 66*a* oder 66*a*<sup>bis</sup> StGB[^68a-2] oder Artikel 49*a* oder 49*a*<sup>bis</sup> MStG[^68a-3] bei Vollzugsanordnung;
+- d. eine Wegweisung mit Vollzugsanordnung nach den Artikeln 44 und 45 AsylG[^68a-4].
+
+<sup>2</sup> Daten von Drittstaatsangehörigen, gegen die Einreiseverbote nach den Artikeln 67 und 68 Absatz 3 sowie eine Landesverweisung erlassen wurden, werden durch die zuständige Behörde in das SIS eingetragen, sofern die Voraussetzungen der Verordnung (EU) 2018/1861[^68a-5] erfüllt sind.
 
 <sup>3</sup> Das SEM kann biometrische Daten, die schon im automatisierten Fingerabdruck-Identifikationssystem nach Artikel 354 StGB (AFIS) oder im ZEMIS verfügbar sind, an das SIS liefern. Die Lieferung kann automatisiert erfolgen.
 
-<sup>4</sup> …
+<sup>4</sup> Die für die Ausschreibung der Entscheide nach den Absätzen 1 und 2 zuständigen Behörden erfassen im ZEMIS die Personendaten der auszuschreibenden Person. Sind das Gesichtsbild und die Fingerabdrücke nicht schon vorhanden, so erfassen sie zwecks Lieferung an das SIS diese Daten in AFIS oder lassen diese dort durch die berechtigten Behörden erfassen.
 
 <sup>5</sup> Fedpol kann bei seinen Ausschreibungen die schon im AFIS verfügbaren biometrischen Daten an das SIS liefern. Die Lieferung kann automatisiert erfolgen. Sind keine biometrischen Daten vorhanden, so kann fedpol deren nachträgliche Erhebung bei den Behörden, die einen Treffer auf diese Ausschreibungen feststellen, anordnen.
 
-<sup>6</sup> …
+<sup>6</sup> Der Bundesrat regelt das Verfahren und die Zuständigkeiten für die Erfassung und Übermittlung der Daten nach den Absätzen 1–5 zwecks Ausschreibungen im SIS. Er kann Ausnahmen bei der Erfassung und Lieferung hinsichtlich der biometrischen Daten vorsehen.
 
-[^68a-1]: Eingefügt durch Anhang 1 Ziff. 1 des BB vom 18. Dez. 2020 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Rechtsgrundlagen über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems (SIS), Abs. 3 und 5 in Kraft seit 1. Juli 2021 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^68a-1]: Eingefügt durch Anhang 1 Ziff. 1 des BB vom 18. Dez. 2020 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Rechtsgrundlagen über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems (SIS), in Kraft seit 1. Juli 2021, Abs. 1, 2, 4 und 6 in Kraft seit 22. Nov. 2022 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 636](https://fedlex.data.admin.ch/eli/oc/2022/636); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^68a-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^68a-3]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^68a-4]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^68a-5]: Verordnung (EU) 2018/1861 des Europäischen Parlaments und des Rates vom 28. November 2018 über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems (SIS) im Bereich der Grenzkontrollen, zur Änderung des Übereinkommens zur Durchführung des Übereinkommens von Schengen und zur Änderung und Aufhebung der Verordnung (EG) Nr. 1987/2006, Fassung gemäss ABl. L 312 vom 7.12.2018, S. 14.
+
+#### Art. 68b
+
+**Zuständige Behörde**[^68b-1]
+
+<sup>1</sup> Der Austausch von Zusatzinformationen im Zusammenhang mit einer Ausschreibung nach Artikel 68*a* Absätze 1 und 2 zwischen den Schengen-Staaten erfolgt über die Anlauf-, Koordinations- und Konsultationsstelle für den Informationsaustausch im Zusammenhang mit den Ausschreibungen im SIS (SIRENE-Büro).
+
+<sup>2</sup> Stellen das Bundesamt für Zoll und Grenzsicherheit[^68b-2] und die für die Kontrolle der Schengen-Aussengrenzen oder im Inland verantwortlichen kantonalen Polizeibehörden fest, dass eine von einem anderen Schengen-Staat zur Rückkehr ausgeschriebene Drittstaatsangehörige oder ein von einem anderen Schengen-Staat zur Rückkehr ausgeschriebener Drittstaatsangehöriger ihrer oder seiner Pflicht zur Rückkehr nicht nachgekommen ist, so benachrichtigen sie das SIRENE-Büro.
+
+<sup>3</sup> Ist im Zusammenhang mit einer Ausschreibung im SIS eine Konsultation der zuständigen Behörden anderer Schengen-Staaten erforderlich, so erfolgt diese über das SIRENE-Büro.
+
+[^68b-1]: Eingefügt durch Anhang 1 Ziff. 1 des BB vom 18. Dez. 2020 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Rechtsgrundlagen über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems (SIS), in Kraft seit 22. Nov. 2022 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 636](https://fedlex.data.admin.ch/eli/oc/2022/636); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^68b-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) angepasst.
+
+#### Art. 68c
+
+**Ausreise und Rückkehrbestätigung**[^68c-1]
+
+<sup>1</sup> Verlässt der oder die von einem anderen Schengen-Staat im SIS zur Rückkehr ausgeschriebene Drittstaatsangehörige den Schengen-Raum, so ist durch die zuständige Grenzkontrollbehörde zuhanden des SIRENE-Büros eine Rückkehrbestätigung auszustellen. Das SIRENE-Büro übermittelt die Bestätigung zwecks Löschung der Ausschreibung zur Rückkehr im SIS an den ausschreibenden Schengen-Staat.
+
+<sup>2</sup> Das SIRENE-Büro leitet Rückkehrbestätigungen von anderen Schengen-Staaten an die ausschreibende Behörde in der Schweiz weiter zwecks Löschung der Ausschreibung.
+
+[^68c-1]: Eingefügt durch Anhang 1 Ziff. 1 des BB vom 18. Dez. 2020 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Rechtsgrundlagen über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems (SIS), in Kraft seit 22. Nov. 2022 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 636](https://fedlex.data.admin.ch/eli/oc/2022/636); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+
+#### Art. 68d
+
+**Löschung von Schweizer Ausschreibungen im SIS**[^68d-1]
+
+<sup>1</sup>
+
+Ausschreibungen nach Artikel 68*a* Absatz 1 werden durch die ausschreibende Behörde gelöscht, sobald:
+
+- a. die ausgeschriebene Person den Schengen-Raum aus einem anderen Schengen-Staat verlassen hat;
+- b. die Entscheide widerrufen oder annulliert worden sind; oder
+- c. bekannt ist, dass die betroffene Person die Staatsangehörigkeit eines EU/EFTA-Staates erhalten hat.
+
+<sup>2</sup> Die Löschung von Ausschreibungen zur Rückkehr im SIS nach Artikel 68*a* Absatz 1 erfolgt durch die zuständige Grenzkontrollbehörde, sobald die ausgeschriebene Person den Schengen-Raum über die Schweiz verlässt.
+
+<sup>3</sup>
+
+Ausschreibungen zur Einreise- und Aufenthaltsverweigerung nach Artikel 68*a* Absatz 2 werden durch die ausschreibende Behörde gelöscht, sobald:
+
+- a. die Dauer des Einreiseverbots oder der Landesverweisung abgelaufen ist;
+- b. die Entscheide widerrufen oder annulliert worden sind; oder
+- c. bekannt ist, dass die betroffene Person die Staatsangehörigkeit eines EU/EFTA-Staates erhalten hat.
+
+<sup>4</sup> Bei der Löschung von Ausschreibungen zur Rückkehr nach Absatz 1 Buchstabe a oder Absatz 2 wird eine allfällige Ausschreibung zur Einreise- und Aufenthaltsverweigerung unverzüglich im SIS aktiviert.
+
+[^68d-1]: Eingefügt durch Anhang 1 Ziff. 1 des BB vom 18. Dez. 2020 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Rechtsgrundlagen über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems (SIS), in Kraft seit 22. Nov. 2022 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 636](https://fedlex.data.admin.ch/eli/oc/2022/636); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+
+#### Art. 68e
+
+**Bekanntgabe von SIS-Daten an Dritte**[^68e-1]
+
+<sup>1</sup> Die im SIS gespeicherten Daten sowie die dazu gehörenden Zusatzinformationen dürfen nicht an Drittstaaten, internationale Organisationen, private Stellen oder natürliche Personen übermittelt werden.
+
+<sup>2</sup> Das SEM kann diese Daten und Informationen an einen Drittstaat übermitteln, wenn in Bezug auf die Rückkehr einer Person aus einem Drittstaat, die sich illegal in der Schweiz aufhält, diese identifiziert oder für diese ein Reisedokument oder Ausweispapier ausgestellt werden soll, sofern der ausschreibende Staat sein Einverständnis gegeben hat und die Voraussetzungen von Artikel 15 der Verordnung (EU) 2018/1860[^68e-2] erfüllt sind.
+
+[^68e-1]: Eingefügt durch Anhang 1 Ziff. 1 des BB vom 18. Dez. 2020 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Rechtsgrundlagen über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems (SIS), in Kraft seit 22. Nov. 2022 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 636](https://fedlex.data.admin.ch/eli/oc/2022/636); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^68e-2]: Verordnung (EU) 2018/1860 des Europäischen Parlaments und des Rates vom 28. November 2018 über die Nutzung des Schengener Informationssystems für die Rückkehr illegal aufhältiger Drittstaatsangehöriger, Fassung gemäss ABl. L 312 vom 7.12.2018, S. 1.
 
 ### 4. Abschnitt: Ausschaffung und internationale Rückführungseinsätze
 
@@ -2216,8 +2291,8 @@ Der Bundesrat bestimmt, welche Daten den Behörden nach Absatz 1 gemeldet werden
 - d. dem Bezug von Sozialhilfe;
 - d<sup>bis</sup>.[^97-2] dem Bezug von Arbeitslosenentschädigung;
 - d<sup>ter</sup>.[^97-3] dem Bezug von Ergänzungsleistungen nach dem ELG[^97-4];
-- [tab] d<sup>quater</sup>.[^97-5] Disziplinarmassnahmen von Schulbehörden;
-- [tab] d<sup>quinquies</sup>.[^97-6] Massnahmen von Kindes- und Erwachsenenschutzbehörden;
+- d<sup>quater</sup>.[^97-5] Disziplinarmassnahmen von Schulbehörden;
+- d<sup>quinquies</sup>.[^97-6] Massnahmen von Kindes- und Erwachsenenschutzbehörden;
 - e.[^97-7] anderen Entscheiden, die auf einen besonderen Integrationsbedarf nach den Kriterien gemäss Artikel 58*a* hindeuten;
 - f.[^97-8] …
 
@@ -2284,6 +2359,14 @@ Das EDA kann im Einvernehmen mit dem SEM Dritte ermächtigen, folgende Aufgaben 
 <sup>2</sup> Es koordiniert die Massnahmen in seinem Zuständigkeitsbereich mit den vorbeugenden polizeilichen und administrativen Massnahmen von fedpol.
 
 [^98c-1]: Eingefügt durch Ziff. I 2 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+
+#### Art. 98d
+
+**Sicherheitsaufgaben der Migrationsbehörden**[^98d-1]
+
+Das SEM und die kantonalen Behörden, welche für den Vollzug dieses Gesetzes zuständig sind, prüfen im Rahmen ihrer Aufgaben und Zuständigkeiten, ob Ausländerinnen und Ausländer eine Gefahr für die innere oder die äussere Sicherheit oder die internationalen Beziehungen der Schweiz darstellen. Bei Ausschreibungen im Polizeibereich wird fedpol informiert. Bei Bedarf können weitere betroffene kantonale Behörden informiert werden.
+
+[^98d-1]: Eingefügt durch Anhang 1 Ziff. 1 des BB vom 18. Dez. 2020 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Rechtsgrundlagen über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems (SIS), in Kraft seit 22. Nov. 2022 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 636](https://fedlex.data.admin.ch/eli/oc/2022/636); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
 
 #### Art. 99
 
@@ -2469,7 +2552,10 @@ Das System enthält folgende Daten über Personen, denen die Einreise in den Sch
 
 <sup>3</sup> Die im System erfassten Daten werden nach zwei Jahren anonymisiert.
 
+<sup>4</sup> Beim Grenzübertritt können die auf dem biometrischen Pass oder auf der Teilnehmerkarte enthaltenen Daten mit dem automatisierten Polizeifahndungssystem (RIPOL) und dem SIS abgeglichen werden.[^103a-2]
+
 [^103a-1]: Ursprünglich: Art. 103*b*. Eingefügt durch Ziff. I des BG vom 20. Juni 2014 (Sorgfalts- und Meldepflichtverletzungen durch Luftverkehrsunternehmen, Informationssysteme), in Kraft seit 1. Okt. 2015 ([AS 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [BBl 2013 2561](https://fedlex.data.admin.ch/eli/fga/2013/451)).
+[^103a-2]: Eingefügt durch Anhang 1 Ziff. 1 des BB vom 18. Dez. 2020 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Rechtsgrundlagen über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems (SIS), in Kraft seit 22. Nov. 2022 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 636](https://fedlex.data.admin.ch/eli/oc/2022/636); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
 
 #### Art. 103b
 
@@ -2836,19 +2922,20 @@ Das nationale Visumsystem enthält folgende Kategorien von Daten über die Visum
 - b. die Fotografien und Fingerabdrücke der Gesuchstellerin oder des Gesuchstellers;
 - c. die Verbindungen zwischen bestimmten Visumgesuchen;
 - d.[^109b-2] die Daten aus dem RIPOL sowie aus dem ASF-SLTD, auf welche die Visumbehörden Zugriff haben;
-- e.[^109b-3] die Daten aus dem SIS, auf welche die Visumbehörden Zugriff haben, sofern eine Ausschreibung nach Kapitel 4 der Verordnung (EG) Nr. 1987/2006[^109b-4] vorliegt und die Voraussetzungen nach Artikel 32 Absatz 1 dieser EG-Verordnung erfüllt sind.
+- e.[^109b-3] die Daten aus dem SIS, auf welche die Visumbehörden Zugriff haben, sofern eine Ausschreibung nach der Verordnung (EU) 2018/1861[^109b-4] oder der Verordnung (EU) 2018/1860[^109b-5] vorliegt.
 
-<sup>2bis</sup> Das nationale Visumsystem enthält ausserdem ein Subsystem mit den Dossiers der Visumgesuchstellerinnen und Visumgesuchsteller in elektronischer Form.[^109b-5]
+<sup>2bis</sup> Das nationale Visumsystem enthält ausserdem ein Subsystem mit den Dossiers der Visumgesuchstellerinnen und Visumgesuchsteller in elektronischer Form.[^109b-6]
 
-<sup>3</sup> Das SEM, die schweizerischen Vertretungen im Ausland und die Missionen, die für die Visa zuständigen kantonalen Migrationsbehörden und die Gemeindebehörden, auf welche die Kantone diese Kompetenzen übertragen haben, das Staatssekretariat und die Politische Direktion des EDA sowie das Grenzwachtkorps und die Grenzposten der kantonalen Polizeibehörden, die Ausnahmevisa erteilen, können Daten im Informationssystem eingeben, ändern oder löschen, um die im Rahmen des Visumverfahrens erforderlichen Aufgaben zu erfüllen.[^109b-6] Sie müssen die Daten, die an das C‑VIS übermittelt werden, nach Massgabe der Verordnung (EG) Nr. 767/2008[^109b-7] eingeben und bearbeiten.
+<sup>3</sup> Das SEM, die schweizerischen Vertretungen im Ausland und die Missionen, die für die Visa zuständigen kantonalen Migrationsbehörden und die Gemeindebehörden, auf welche die Kantone diese Kompetenzen übertragen haben, das Staatssekretariat und die Politische Direktion des EDA sowie das Grenzwachtkorps und die Grenzposten der kantonalen Polizeibehörden, die Ausnahmevisa erteilen, können Daten im Informationssystem eingeben, ändern oder löschen, um die im Rahmen des Visumverfahrens erforderlichen Aufgaben zu erfüllen.[^109b-7] Sie müssen die Daten, die an das C‑VIS übermittelt werden, nach Massgabe der Verordnung (EG) Nr. 767/2008[^109b-8] eingeben und bearbeiten.
 
 [^109b-1]: Eingefügt durch Art. 2 Ziff. 1 des BB vom 11. Dez. 2009 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Verordnung und des Beschlusses über das Visa-Informationssystem (VIS), in Kraft seit 20. Jan. 2014 ([AS 2010 2063](https://fedlex.data.admin.ch/eli/oc/2010/272), [2014 1](https://fedlex.data.admin.ch/eli/oc/2014/1); [BBl 2009 4245](https://fedlex.data.admin.ch/eli/fga/2009/761)).
 [^109b-2]: Eingefügt durch Ziff. I des BG vom 20. Juni 2014 (Sorgfalts- und Meldepflichtverletzungen durch Luftverkehrsunternehmen, Informationssysteme), in Kraft seit 1. Okt. 2015 ([AS 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [BBl 2013 2561](https://fedlex.data.admin.ch/eli/fga/2013/451)).
-[^109b-3]: Eingefügt durch Ziff. I des BG vom 20. Juni 2014 (Sorgfalts- und Meldepflichtverletzungen durch Luftverkehrsunternehmen, Informationssysteme), in Kraft seit 1. Okt. 2015 ([AS 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [BBl 2013 2561](https://fedlex.data.admin.ch/eli/fga/2013/451)).
-[^109b-4]: Verordnung (EG) Nr. 1987/2006 des Europäischen Parlaments und des Rates vom 20. Dezember 2006 über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems der zweiten Generation (SIS II), Fassung gemäss ABl. L 381 vom 28.12.2006, S. 4.
-[^109b-5]: Eingefügt durch Ziff. I des BG vom 20. Juni 2014 (Sorgfalts- und Meldepflichtverletzungen durch Luftverkehrsunternehmen, Informationssysteme), in Kraft seit 1. Okt. 2015 ([AS 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [BBl 2013 2561](https://fedlex.data.admin.ch/eli/fga/2013/451)).
-[^109b-6]: Fassung gemäss Ziff. I des BG vom 26. Sept. 2014, in Kraft seit 1. März 2015 ([AS 2015 533](https://fedlex.data.admin.ch/eli/oc/2015/75); [BBl 2014 3373](https://fedlex.data.admin.ch/eli/fga/2014/708)).
-[^109b-7]: Verordnung (EG) Nr. 767/2008 des Europäischen Parlaments und des Rates vom 9. Juli 2008 über das Visa-Informationssystem (VIS) und den Datenaustausch zwischen den Mitgliedstaaten über Visa für einen kurzfristigen Aufenthalt (VIS-Verordnung), ABl. L 218 vom 13.8.2008, S. 60.
+[^109b-3]: Eingefügt durch Ziff. I des BG vom 20. Juni 2014 (Sorgfalts- und Meldepflichtverletzungen durch Luftverkehrsunternehmen, Informationssysteme) ([AS 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [BBl 2013 2561](https://fedlex.data.admin.ch/eli/fga/2013/451)). Fassung gemäss Anhang 1 Ziff. 1 des BB vom 18. Dez. 2020 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Rechtsgrundlagen über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems (SIS), in Kraft seit 22. Nov. 2022 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 636](https://fedlex.data.admin.ch/eli/oc/2022/636); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^109b-4]: Siehe Fussnote zu Art. 68*a* Abs. 2.
+[^109b-5]: Siehe Fussnote zu Art. 68*e* Abs. 2.
+[^109b-6]: Eingefügt durch Ziff. I des BG vom 20. Juni 2014 (Sorgfalts- und Meldepflichtverletzungen durch Luftverkehrsunternehmen, Informationssysteme), in Kraft seit 1. Okt. 2015 ([AS 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [BBl 2013 2561](https://fedlex.data.admin.ch/eli/fga/2013/451)).
+[^109b-7]: Fassung gemäss Ziff. I des BG vom 26. Sept. 2014, in Kraft seit 1. März 2015 ([AS 2015 533](https://fedlex.data.admin.ch/eli/oc/2015/75); [BBl 2014 3373](https://fedlex.data.admin.ch/eli/fga/2014/708)).
+[^109b-8]: Verordnung (EG) Nr. 767/2008 des Europäischen Parlaments und des Rates vom 9. Juli 2008 über das Visa-Informationssystem (VIS) und den Datenaustausch zwischen den Mitgliedstaaten über Visa für einen kurzfristigen Aufenthalt (VIS-Verordnung), ABl. L 218 vom 13.8.2008, S. 60.
 
 #### Art. 109c
 
@@ -3171,11 +3258,23 @@ Das Auskunftsrecht richtet sich nach den Datenschutzbestimmungen des Bundes oder
 
 [^111f-1]: Fassung gemäss Ziff. 1 des BG vom 19. März über die Umsetzung des Rahmenbeschlusses 2008/977/JI über den Schutz von Personendaten im Rahmen der polizeilichen und justiziellen Zusammenarbeit in Strafsachen, in Kraft seit 1. Dez. 2010 ([AS 2010 3387](https://fedlex.data.admin.ch/eli/oc/2010/464)3418; [BBl 2009 6749](https://fedlex.data.admin.ch/eli/fga/2009/1207)).
 
-#### Art. 111g und 111h
+#### Art. 111g
 
-[^111g111h-1]
+**Aufsicht über die Datenbearbeitung im Rahmen der Zusammenarbeit von Schengen**[^111g-1]
 
-[^111g111h-1]: Aufgehoben durch Ziff. 1 des BG vom 19. März über die Umsetzung des Rahmenbeschlusses 2008/977/JI über den Schutz von Personendaten im Rahmen der polizeilichen und justiziellen Zusammenarbeit in Strafsachen, mit Wirkung seit 1. Dez. 2010 ([AS 2010 3387](https://fedlex.data.admin.ch/eli/oc/2010/464)3418; [BBl 2009 6749](https://fedlex.data.admin.ch/eli/fga/2009/1207)).
+<sup>1</sup> Die kantonalen Datenschutzbehörden und der Eidgenössische Datenschutz- und Öffentlichkeitsbeauftragte (EDÖB) arbeiten im Rahmen ihrer jeweiligen Zuständigkeiten zusammen.
+
+<sup>2</sup> Der EDÖB übt die Aufsicht über die Bearbeitung von Personendaten im Rahmen der Zusammenarbeit von Schengen aus. Er koordiniert die Aufsichtstätigkeit mit den kantonalen Datenschutzbehörden.
+
+<sup>3</sup> Er arbeitet bei der Wahrnehmung seiner Aufgaben mit dem Europäischen Datenschutzbeauftragten zusammen; für diesen ist er nationale Aufsichtsbehörde.
+
+[^111g-1]: Fassung gemäss Anhang 1 Ziff. 1 des BB vom 18. Dez. 2020 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Rechtsgrundlagen über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems (SIS), in Kraft seit 22. Nov. 2022 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 636](https://fedlex.data.admin.ch/eli/oc/2022/636); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+
+#### Art. 111h
+
+[^111h-1]
+
+[^111h-1]: Aufgehoben durch Ziff. 1 des BG vom 19. März über die Umsetzung des Rahmenbeschlusses 2008/977/JI über den Schutz von Personendaten im Rahmen der polizeilichen und justiziellen Zusammenarbeit in Strafsachen, mit Wirkung seit 1. Dez. 2010 ([AS 2010 3387](https://fedlex.data.admin.ch/eli/oc/2010/464)3418; [BBl 2009 6749](https://fedlex.data.admin.ch/eli/fga/2009/1207)).
 
 ## 14*c*. Kapitel: Eurodac
 
@@ -3291,7 +3390,7 @@ Mit Freiheitsstrafe bis zu einem Jahr oder Geldstrafe wird bestraft, wer:
 Mit Freiheitsstrafe bis zu einem Jahr oder Geldstrafe wird bestraft, wer:
 
 - a. im In- oder Ausland einer Ausländerin oder einem Ausländer die rechtswidrige Ein- oder Ausreise oder den rechtswidrigen Aufenthalt in der Schweiz erleichtert oder vorbereiten hilft;
-- [tab] a<sup>bis</sup>.[^116-1] vom Inland aus einer Ausländerin oder einem Ausländer die rechtswidrige Ein-, Durch- oder Ausreise oder den rechtswidrigen Aufenthalt in einem Schengen-Staat erleichtert oder vorbereiten hilft;
+- a<sup>bis</sup>.[^116-1] vom Inland aus einer Ausländerin oder einem Ausländer die rechtswidrige Ein-, Durch- oder Ausreise oder den rechtswidrigen Aufenthalt in einem Schengen-Staat erleichtert oder vorbereiten hilft;
 - b. Ausländerinnen oder Ausländern eine Erwerbstätigkeit in der Schweiz ohne die dazu erforderliche Bewilligung verschafft;
 - c.[^116-2] einer Ausländerin oder einem Ausländer nach der Ausreise aus der Schweiz oder aus den internationalen Transitzonen der Flughäfen die Einreise in das Hoheitsgebiet eines anderen Staates unter Verletzung der dort geltenden Einreisebestimmungen erleichtert oder vorbereiten hilft.
 
@@ -3521,6 +3620,17 @@ Das Verfahren richtet sich nach dem Verwaltungsverfahrensgesetz vom 20. Dezember
 <sup>1</sup> Der Bundesrat beaufsichtigt den Vollzug dieses Gesetzes.
 
 <sup>2</sup> Die Kantone erlassen die notwendigen Bestimmungen zum Vollzug dieses Gesetzes.
+
+#### Art. 124a
+
+**Verhältnis Landesverweisung und Richtlinie 2008/115/EG**[^124a-1]
+
+Die Richtlinie 2008/115/EG[^124a-2] findet keine Anwendung auf die Anordnung und den Vollzug der Landesverweisung nach Artikel 66*a* oder 66*a*<sup>bis</sup> StGB[^124a-3] oder Artikel 49*a* oder 49*a*<sup>bis</sup> MStG[^124a-4].
+
+[^124a-1]: Eingefügt durch Anhang 1 Ziff. 1 des BB vom 18. Dez. 2020 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Rechtsgrundlagen über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems (SIS), in Kraft seit 22. Nov. 2022 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 636](https://fedlex.data.admin.ch/eli/oc/2022/636); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^124a-2]: Richtlinie 2008/115/EG des Europäischen Parlaments und des Rates vom 16. Dez. 2008 über gemeinsame Normen und Verfahren in den Mitgliedstaaten zur Rückführung illegal aufhältiger Drittstaatsangehöriger, Fassung gemäss ABl. L 348 vom 24.12.2008, S. 98.
+[^124a-3]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^124a-4]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
 
 #### Art. 125
 
