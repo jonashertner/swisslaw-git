@@ -3,18 +3,18 @@ sr: "361.3"
 title: Ordinanza del 6 dicembre 2013 sul trattamento dei dati segnaletici di natura biometrica
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/23"
 language: it
-version: 2022-01-01
+version: 2022-11-22
 adopted: 2013-12-06
 in_force: 2014-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/23/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2014-23-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/23/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/23/20221122/it/xml/fedlex-data-admin-ch-eli-cc-2014-23-20221122-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/23/20221122/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sul trattamento dei dati segnaletici di natura biometrica
 
-del 6 dicembre 2013 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
+del 6 dicembre 2013 (Stato 22 novembre 2022)
 
 Il Consiglio federale svizzero,
 
@@ -30,13 +30,13 @@ ordina:
 
 **Oggetto e scopo**
 
-<sup>1</sup> La presente ordinanza disciplina il trattamento dei dati segnaletici di natura biometrica da parte dell’Ufficio federale di polizia (fedpol) e della Segreteria di Stato della migrazione (SEM).[^1-1]
+<sup>1</sup> La presente ordinanza disciplina il trattamento dei dati segnaletici di natura biometrica da parte dell’Ufficio federale di polizia (fedpol) e il trattamento di dati segnaletici di natura biometrica da parte della Segreteria di Stato della migrazione (SEM) nell’ambito dei suoi compiti nel settore degli stranieri.[^1-1]
 
 <sup>2</sup> Il trattamento dei dati segnaletici ha lo scopo di permettere alle autorità della Confederazione e dei Cantoni di identificare persone vive e morte, di identificare le tracce rilevate sul luogo di un reato, nonché di individuare connessioni tra i reati.
 
 <sup>3</sup> Per altro, sono applicabili l’articolo 87 dell’ordinanza del 24 ottobre 2007[^1-2] sull’ammissione, il soggiorno e l’attività lucrativa (OASA) e l’articolo 226 dell’ordinanza del 1° novembre 2006[^1-3] sulle dogane (OD).
 
-[^1-1]: Nuovo testo giusta il n. I 2 dell’O del 3 apr. 2019 sulla fornitura di dati biometrici e sugli accessi in ambito migratorio al N-SIS, in vigore dal 6 mag. 2019 ([RU 2019 1257](https://fedlex.data.admin.ch/eli/oc/2019/241)).
+[^1-1]: Nuovo testo giusta il n. I dell’O del 19 ott. 2022, in vigore dal 22 nov. 2022 ([RU 2022 650](https://fedlex.data.admin.ch/eli/oc/2022/650)).
 [^1-2]: [RS 142.201](https://fedlex.data.admin.ch/eli/cc/2007/759)
 [^1-3]: [RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)
 
@@ -77,9 +77,9 @@ I servizi competenti di fedpol trattano dati segnaletici nell’ambito dei segue
 
 **Competenza della SEM**[^3a-1]
 
-In caso di segnalazioni ai fini della non ammissione e del divieto di soggiorno, la SEM può fornire in via automatizzata le impronte digitali e le immagini del viso al N-SIS a partire da AFIS. La persona interessata è informato sull’utilizzazione di questi dati conformemente all’articolo 14 della legge federale del 19 giugno 1992[^3a-2] sulla protezione dei dati (LPD).
+In caso di segnalazioni ai fini del rimpatrio o della non ammissione e del divieto di soggiorno, la SEM può fornire per via informatizzata le impronte digitali e le immagini del viso al N‑SIS a partire da AFIS. L’interessato è informato sull’utilizzazione di questi dati conformemente all’articolo 14 della legge federale del 19 giugno 1992[^3a-2] sulla protezione dei dati (LPD).
 
-[^3a-1]: Introdotto dal n. I 2 dell’O del 3 apr. 2019 sulla fornitura di dati biometrici e sugli accessi in ambito migratorio al N-SIS ([RU 2019 1257](https://fedlex.data.admin.ch/eli/oc/2019/241)). Nuovo testo giusta il n. III dell’O dell’11 giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 368](https://fedlex.data.admin.ch/eli/oc/2021/368)).
+[^3a-1]: Introdotto dal n. I 2 dell’O del 3 apr. 2019 sulla fornitura di dati biometrici e sugli accessi in ambito migratorio al N-SIS ([RU 2019 1257](https://fedlex.data.admin.ch/eli/oc/2019/241)). Nuovo testo giusta il n. I dell’O del 19 ott. 2022, in vigore dal 22 nov. 2022 ([RU 2022 650](https://fedlex.data.admin.ch/eli/oc/2022/650)).
 [^3a-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 #### Art. 4
@@ -401,7 +401,7 @@ Il servizio competente per la gestione di AFIS cancella, sulla base della comuni
 
 L’ordinanza del 21 novembre 2001[^24-1] sul trattamento dei dati segnaletici di natura biometrica è abrogata.
 
-[^24-1]: [[RU 2002 171](https://fedlex.data.admin.ch/eli/oc/2002/30), [2004 2577](https://fedlex.data.admin.ch/eli/oc/2004/307)[4813](https://fedlex.data.admin.ch/eli/oc/2004/728)all. n. 11, [2006 957](https://fedlex.data.admin.ch/eli/oc/2006/171)[1945](https://fedlex.data.admin.ch/eli/oc/2006/303)all. 3 n. 7, [2008 4943](https://fedlex.data.admin.ch/eli/oc/2008/694)n. I 13]
+[^24-1]: [[RU 2002 171](https://fedlex.data.admin.ch/eli/oc/2002/30); [2004 2577](https://fedlex.data.admin.ch/eli/oc/2004/307), [4813](https://fedlex.data.admin.ch/eli/oc/2004/728)all. n. 11; [2006 957](https://fedlex.data.admin.ch/eli/oc/2006/171), [1945](https://fedlex.data.admin.ch/eli/oc/2006/303)all. 3 n. 7; [2008 4943](https://fedlex.data.admin.ch/eli/oc/2008/694)n. I 13]
 
 #### Art. 25
 

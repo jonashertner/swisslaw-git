@@ -3,18 +3,18 @@ sr: "361.3"
 title: Ordonnance du 6 décembre 2013 sur le traitement des données signalétiques biométriques
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/23"
 language: fr
-version: 2022-01-01
+version: 2022-11-22
 adopted: 2013-12-06
 in_force: 2014-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/23/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2014-23-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/23/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/23/20221122/fr/xml/fedlex-data-admin-ch-eli-cc-2014-23-20221122-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/23/20221122/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance sur le traitement des données signalétiques biométriques
 
-du 6 décembre 2013 (Etat le 1<sup>er</sup> janvier 2022)
+du 6 décembre 2013 (État le 22 novembre 2022)
 
 Le Conseil fédéral suisse,
 
@@ -30,13 +30,13 @@ arrête:
 
 **Objet et but**
 
-<sup>1</sup> La présente ordonnance règle le traitement des données signalétiques biométriques par l’Office fédéral de la police (fedpol) et par le Secrétariat d’État aux migrations (SEM).[^1-1]
+<sup>1</sup> La présente ordonnance règle le traitement des données signalétiques biométriques par l’Office fédéral de la police (fedpol) et le traitement de données signalétiques biométriques par le Secrétariat d’État aux migrations (SEM) dans le cadre de ses tâches relevant du domaine des étrangers.[^1-1]
 
 <sup>2</sup> Le traitement des données signalétiques biométriques a pour but de permettre aux autorités fédérales et cantonales d’identifier des personnes vivantes ou décédées, d’identifier les traces relevées sur les lieux d’une infraction et d’établir des liens entre plusieurs infractions.
 
 <sup>3</sup> Pour le reste, sont applicables l’art. 87 de l’ordonnance du 24 octobre 2007 relative à l’admission, au séjour et à l’exercice d’une activité lucrative (OASA)[^1-2] et 226 de l’ordonnance du 1<sup>er</sup> novembre 2006 sur les douanes (OD)[^1-3].
 
-[^1-1]: Nouvelle teneur selon le ch. I 2 de l’O du 3 avr. 2019 sur la livraison de données biométriques et sur les accès dans le domaine migratoire au N-SIS, en vigueur depuis le 6 mai 2019 ([RO 2019 1257](https://fedlex.data.admin.ch/eli/oc/2019/241)).
+[^1-1]: Nouvelle teneur selon le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 22 nov. 2022 ([RO 2022 650](https://fedlex.data.admin.ch/eli/oc/2022/650)).
 [^1-2]: [RS 142.201](https://fedlex.data.admin.ch/eli/cc/2007/759)
 [^1-3]: [RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)
 
@@ -77,9 +77,9 @@ Les services compétents de fedpol traitent des données signalétiques lorsqu�
 
 **Compétence du SEM**[^3a-1]
 
-Lors de signalements aux fins de non-admission et d’interdiction de séjour, le SEM peut livrer de manière automatisée au N-SIS les empreintes digitales et les images faciales à partir du AFIS. La personne concernée est informée de l’utilisation de ces données conformément à l’art. 14 de la loi fédérale du 19 juin 1992 sur la protection des données (LPD)[^3a-2].
+Lors de signalements aux fins de retour ou de non-admission et d’interdiction de séjour, le SEM peut livrer de manière automatisée au N-SIS les empreintes digitales et les images faciales à partir d’AFIS. La personne concernée est informée de l’utilisation de ces données conformément à l’art. 14 de la loi fédérale du 19 juin 1992 sur la protection des données (LPD)[^3a-2].
 
-[^3a-1]: Introduit par le ch. I 2 de l’O du 3 avr. 2019 sur la livraison de données biométriques et sur les accès dans le domaine migratoire au N-SIS, en vigueur depuis le 6 mai 2019 ([RO 2019 1257](https://fedlex.data.admin.ch/eli/oc/2019/241)). Nouvelle teneur selon le ch. III de l’O du 11 juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 368](https://fedlex.data.admin.ch/eli/oc/2021/368)).
+[^3a-1]: Introduit par le ch. I 2 de l’O du 3 avr. 2019 sur la livraison de données biométriques et sur les accès dans le domaine migratoire au N-SIS ([RO 2019 1257](https://fedlex.data.admin.ch/eli/oc/2019/241)). Nouvelle teneur selon le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 22 nov. 2022 ([RO 2022 650](https://fedlex.data.admin.ch/eli/oc/2022/650)).
 [^3a-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 #### Art. 4

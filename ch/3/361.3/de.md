@@ -3,18 +3,18 @@ sr: "361.3"
 title: Verordnung vom 6. Dezember 2013 über die Bearbeitung biometrischer erkennungsdienstlicher Daten
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/23"
 language: de
-version: 2022-01-01
+version: 2022-11-22
 adopted: 2013-12-06
 in_force: 2014-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/23/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2014-23-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/23/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/23/20221122/de/xml/fedlex-data-admin-ch-eli-cc-2014-23-20221122-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/23/20221122/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über die Bearbeitung biometrischer erkennungsdienstlicher Daten
 
-vom 6. Dezember 2013 (Stand am 1. Januar 2022)
+vom 6. Dezember 2013 (Stand am 22. November 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -30,13 +30,13 @@ verordnet:
 
 **Gegenstand und Zweck**
 
-<sup>1</sup> Diese Verordnung regelt die Bearbeitung biometrischer erkennungsdienstlicher Daten durch das Bundesamt für Polizei (fedpol) und das Staatssekretariat für Migration (SEM).[^1-1]
+<sup>1</sup> Diese Verordnung regelt die Bearbeitung biometrischer erkennungsdienstlicher Daten durch das Bundesamt für Polizei (fedpol) und die Bearbeitung biometrischer erkennungsdienstlicher Daten durch das Staatssekretariat für Migration (SEM) im Rahmen seiner Aufgaben im Ausländerbereich.[^1-1]
 
 <sup>2</sup> Die Bearbeitung dient den Behörden des Bundes und der Kantone zur Identifikation von lebenden und toten Personen, zur Identifikation von Spuren, die an einem Tatort gesichert worden sind, sowie zum Erkennen von Tatzusammenhängen.
 
 <sup>3</sup> Im Übrigen gelten der Artikel 87 der Verordnung vom 24. Oktober 2007[^1-2] über Zulassung, Aufenthalt und Erwerbstätigkeit (VZAE) und der Artikel 226 der Zollverordnung vom 1. November 2006 (ZV)[^1-3].
 
-[^1-1]: Fassung gemäss Ziff. I 2 der V vom 3. April 2019 über die Lieferung von biometrischen Daten an und Zugriffe im Migrationsbereich auf das N-SIS, in Kraft seit 6. Mai 2019 ([AS 2019 1257](https://fedlex.data.admin.ch/eli/oc/2019/241)).
+[^1-1]: Fassung gemäss Ziff. I der V vom 19. Okt. 2022, in Kraft seit 22. Nov. 2022 ([AS 2022 650](https://fedlex.data.admin.ch/eli/oc/2022/650)).
 [^1-2]: [SR 142.201](https://fedlex.data.admin.ch/eli/cc/2007/759)
 [^1-3]: [SR 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)
 
@@ -77,9 +77,9 @@ Die zuständigen Dienste von fedpol bearbeiten erkennungsdienstliche Daten bei d
 
 **Befugnis des SEM**[^3a-1]
 
-Das SEM kann die Fingerabdrücke und Gesichtsbilder bei Ausschreibungen zur Einreise- und Aufenthaltsverweigerung aus dem AFIS dem N-SIS automatisch liefern. Die betreffende Person wird über die Verwendung dieser Daten informiert in Einklang mit Artikel 14 des Bundesgesetzes vom 19. Juni 1992[^3a-2] über den Datenschutz (DSG).
+Das SEM kann die Fingerabdrücke und Gesichtsbilder bei Ausschreibungen zur Rückkehr oder zur Einreise- und Aufenthaltsverweigerung aus dem AFIS dem N-SIS automatisch liefern. Die betreffende Person wird über die Verwendung dieser Daten informiert in Einklang mit Artikel 14 des Bundesgesetzes vom 19. Juni 1992[^3a-2] über den Datenschutz (DSG).
 
-[^3a-1]: Eingefügt durch Ziff. I 2 der V vom 3. April 2019 über die Lieferung von biometrischen Daten an und Zugriffe im Migrationsbereich auf das N-SIS ([AS 2019 1257](https://fedlex.data.admin.ch/eli/oc/2019/241)). Fassung gemäss Ziff. III der V vom 11. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 368](https://fedlex.data.admin.ch/eli/oc/2021/368)).
+[^3a-1]: Eingefügt durch Ziff. I 2 der V vom 3. April 2019 über die Lieferung von biometrischen Daten an und Zugriffe im Migrationsbereich auf das N-SIS ([AS 2019 1257](https://fedlex.data.admin.ch/eli/oc/2019/241)). Fassung gemäss Ziff. I der V vom 19. Okt. 2022, in Kraft seit 22. Nov. 2022 ([AS 2022 650](https://fedlex.data.admin.ch/eli/oc/2022/650)).
 [^3a-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
 #### Art. 4
@@ -431,6 +431,6 @@ Anhang
 
 Die nachstehenden Verordnungen werden wie folgt geändert:
 
-...[^annexu1-lvlu1-1]
+…[^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: Die Änderungen können unter [AS 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)konsultiert werden.
