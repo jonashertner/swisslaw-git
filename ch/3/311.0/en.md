@@ -4,11 +4,11 @@ title: Swiss Criminal Code of 21 December 1937
 short: SCC
 eli: "https://fedlex.data.admin.ch/eli/cc/54/757_781_799"
 language: en
-version: 2022-06-01
+version: 2022-11-22
 adopted: 1937-12-21
 in_force: 1942-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20220601/en/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20220601-en-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20220601/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20221122/en/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20221122-en-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20221122/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20220601/en"
 
 English is not an official language of the Swiss Confederation. This translation is provided for information purposes only and has no legal force.
 
-of 21 December 1937 (Status as of 1 June 2022)
+of 21 December 1937 (Status as of 22 November 2022)
 
 The Federal Assembly the Swiss Confederation,
 
@@ -29,13 +29,13 @@ decrees:
 [^ingress-2]: Amended by No I of the FA of 30 Sept. 2011 in force since 1 July 2012 ([AS 2012 2575](https://fedlex.data.admin.ch/eli/oc/2012/310); [BBl 2010 5651](https://fedlex.data.admin.ch/eli/fga/2010/992)[5677](https://fedlex.data.admin.ch/eli/fga/2010/994)).
 [^ingress-3]: [BBl 1918 IV 1](https://fedlex.data.admin.ch/eli/fga/1918/4_1_1_1)
 
-## Book One:**** General Provisions
+## Book One: General Provisions
 
 [^book1-1]
 
 [^book1-1]: Amended by No I of the FA of 13 Dec. 2002, in force since 1 Jan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549)3535; BBl **1999** 1979).
 
-### Part One: Felonies and Misdemeanour2743s
+### Part One: Felonies and Misdemeanour
 
 ### Title One: Scope of Application
 
@@ -78,7 +78,7 @@ If the person concerned has been prosecuted in a foreign country at the request 
 
 #### Art. 4
 
-<sup>1</sup> This Code also applies to any person who commits a felony or misdemeanour against the state or its national security (Art. 265–278).
+<sup>1</sup> This Code also applies to any person who commits a felony or misdemeanour in a foreign country against the Swiss state or its national security (Art. 265–278).
 
 <sup>2</sup> If the person concerned has been convicted of the offence and has served the sentence in full or in part in another country, the court shall take the sentence served into account in determining the sentence to be imposed.
 
@@ -108,9 +108,9 @@ Unless the offence involves a gross violation of the principles of the Federal C
 
 <sup>3</sup> If the person concerned has been convicted of the offence abroad and if the sentence imposed abroad has been partly served, the court shall take the part served into account in the sentence to be imposed. The court decides whether a measure ordered abroad but only partly executed there must be continued or taken into account in the sentence imposed in Switzerland.
 
-[^5-1]: Amended by Art. 2 No 1 of the Federal Decree of 24 March 2006 on the Approval and Implementation of the Optional Protocol of 25 May 2000 to the Convention on the Rights of the Child, on the Sale of Children, Child Prostitution and Child Pornography, in force since 1 Dec. 2006 ([AS 2006 5437](https://fedlex.data.admin.ch/eli/oc/2006/823)5440; [BBl 2005 2807](https://fedlex.data.admin.ch/eli/fga/2005/433)).
-[^5-2]: Inserted by Annex No 1 of the Federal Decree of 27 Sept. 2013 (Lanzarote Convention), in force since 1 July 2014 ([AS 2014 1159](https://fedlex.data.admin.ch/eli/oc/2014/248); [BBl 2012 7571](https://fedlex.data.admin.ch/eli/fga/2012/1181)).
-[^5-3]: Amended by Annex No 1 of the Federal Decree of 27 Sept. 2013 (Lanzarote Convention), in force since 1 July 2014 ([AS 2014 1159](https://fedlex.data.admin.ch/eli/oc/2014/248); [BBl 2012 7571](https://fedlex.data.admin.ch/eli/fga/2012/1181)).
+[^5-1]: Amended by Art. 2 No 1 of the FedD of 24 March 2006 on the Approval and Implementation of the Optional Protocol of 25 May 2000 to the Convention on the Rights of the Child, on the Sale of Children, Child Prostitution and Child Pornography, in force since 1 Dec. 2006 ([AS 2006 5437](https://fedlex.data.admin.ch/eli/oc/2006/823)5440; [BBl 2005 2807](https://fedlex.data.admin.ch/eli/fga/2005/433)).
+[^5-2]: Inserted by Annex No 1 of the FedD of 27 Sept. 2013 (Lanzarote Convention), in force since 1 July 2014 ([AS 2014 1159](https://fedlex.data.admin.ch/eli/oc/2014/248); [BBl 2012 7571](https://fedlex.data.admin.ch/eli/fga/2012/1181)).
+[^5-3]: Amended by Annex No 1 of the FedD of 27 Sept. 2013 (Lanzarote Convention), in force since 1 July 2014 ([AS 2014 1159](https://fedlex.data.admin.ch/eli/oc/2014/248); [BBl 2012 7571](https://fedlex.data.admin.ch/eli/fga/2012/1181)).
 [^5-4]: [SR 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
 
 ### Offences committed abroad prosecuted in terms of an international obligation
@@ -442,7 +442,7 @@ If an entitled person files a complaint against one person who participated in t
 
 ### Chapter One: Sentences
 
-### Section One: Monetary Penalties and Custodial Sentences****
+### Section One: Monetary Penalties and Custodial Sentences
 
 [^book1-part1-tit3-chap1-sec1-1]
 
@@ -663,7 +663,7 @@ When determining the sentence, the court shall take account of any time spent on
 
 [^51-1]: Second sentence amended by No I 1 of the FA of 19 June 2015 (Amendments to the Law of Criminal Sanctions), in force since 1 Jan. 2018 ([AS 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [BBl 2012 4721](https://fedlex.data.admin.ch/eli/fga/2012/670)).
 
-### Section Four: Exemption from Punishment and the Suspension and Abandonment of Proceedings****
+### Section Four: Exemption from Punishment and the Suspension and Abandonment of Proceedings
 
 [^book1-part1-tit3-chap1-sec4-1]
 
@@ -1051,7 +1051,7 @@ a. the offender, by committing the offence, caused or intended to cause serious 
 <sup>4</sup> Indefinite incarceration is executed in a therapeutic institution or in a penal institution in accordance with Article 76 paragraph 2. Public safety must be guaranteed. The offender receives psychiatric care if this is necessary.
 
 [^64-1]: Amended by No I of the FA of 24 March 2006 (Revision of the Law on Sanctions and the Register of Convictions), in force since 1 Jan. 2007 ([AS 2006 3539](https://fedlex.data.admin.ch/eli/oc/2006/550)3544; [BBl 2005 4689](https://fedlex.data.admin.ch/eli/fga/2005/735)).
-[^64-2]: Amended by Annex 2 No 1 of the Federal Decree of 18 Dec. 2015 on the Approval and Implementation of the International Convention for the Protection of All Persons from Enforced Disappearance, in force since 1 Jan. 2017 ([AS 2016 4687](https://fedlex.data.admin.ch/eli/oc/2016/756); [BBl 2014 453](https://fedlex.data.admin.ch/eli/fga/2014/95)).
+[^64-2]: Amended by Annex 2 No 1 of the FedD of 18 Dec. 2015 on the Approval and Implementation of the International Convention for the Protection of All Persons from Enforced Disappearance, in force since 1 Jan. 2017 ([AS 2016 4687](https://fedlex.data.admin.ch/eli/oc/2016/756); [BBl 2014 453](https://fedlex.data.admin.ch/eli/fga/2014/95)).
 [^64-3]: Inserted by No I of the FA of 21 Dec. 2007 (Indefinite Incarceration of Extremely Dangerous Offenders), in force since 1 Aug. 2008 ([AS 2008 2961](https://fedlex.data.admin.ch/eli/oc/2008/413)2964; [BBl 2006 889](https://fedlex.data.admin.ch/eli/fga/2006/104)).
 [^64-4]: Amended by No I of the FA of 24 March 2006 (Revision of the Law on Sanctions and the Register of Convictions), in force since 1 Jan. 2007 ([AS 2006 3539](https://fedlex.data.admin.ch/eli/oc/2006/550)3544; [BBl 2005 4689](https://fedlex.data.admin.ch/eli/fga/2005/735)).
 [^64-5]: Amended by No I of the FA of 24 March 2006 (Revision of the Law on Sanctions and the Register of Convictions), in force since 1 Jan. 2007 ([AS 2006 3539](https://fedlex.data.admin.ch/eli/oc/2006/550)3544; [BBl 2005 4689](https://fedlex.data.admin.ch/eli/fga/2005/735)).
@@ -1963,9 +1963,9 @@ The right to prosecute is subject to a time limit of:
 <sup>4</sup> The limitation of the right to prosecute in the case of sexual acts with children (Art. 187) and dependent minors (Art. 188) and offences under Articles 111–113, 122, 182, 189–191 and 195 involving a child under 16 is governed by paragraphs 1–3 if the offence was committed before the amendment of 5 October 2001[^97-3] came into force and the limitation of the right to prosecute had not yet taken effect.[^97-4]
 
 [^97-1]: Amended by No I 1 of the FA of 21 June 2013 (Extension of Prosecution Time Limits), in force since 1 Jan. 2014 ([AS 2013 4417](https://fedlex.data.admin.ch/eli/oc/2013/783); [BBl 2012 9253](https://fedlex.data.admin.ch/eli/fga/2012/1719)).
-[^97-2]: Amended by Annex No 1 of the Federal Decree of 27 Sept. 2013 (Lanzarote Convention), in force since 1 July 2014 ([AS 2014 1159](https://fedlex.data.admin.ch/eli/oc/2014/248); [BBl 2012 7571](https://fedlex.data.admin.ch/eli/fga/2012/1181)).
+[^97-2]: Amended by Annex No 1 of the FedD of 27 Sept. 2013 (Lanzarote Convention), in force since 1 July 2014 ([AS 2014 1159](https://fedlex.data.admin.ch/eli/oc/2014/248); [BBl 2012 7571](https://fedlex.data.admin.ch/eli/fga/2012/1181)).
 [^97-3]: [AS 2002 2993](https://fedlex.data.admin.ch/eli/oc/2002/430)
-[^97-4]: Amended by Art. 2 No 1 of the Federal Decree of 24 March 2006 on the Approval and Implementation of the Optional Protocol of 25 May 2000 to the Convention on the Rights of the Child, on the Sale of Children, Child Prostitution and Child Pornography, in force since 1 Dec. 2006 ([AS 2006 5437](https://fedlex.data.admin.ch/eli/oc/2006/823)5440; [BBl 2005 2807](https://fedlex.data.admin.ch/eli/fga/2005/433)).
+[^97-4]: Amended by Art. 2 No 1 of the FedD of 24 March 2006 on the Approval and Implementation of the Optional Protocol of 25 May 2000 to the Convention on the Rights of the Child, on the Sale of Children, Child Prostitution and Child Pornography, in force since 1 Dec. 2006 ([AS 2006 5437](https://fedlex.data.admin.ch/eli/oc/2006/823)5440; [BBl 2005 2807](https://fedlex.data.admin.ch/eli/fga/2005/433)).
 
 ### Commencement
 
@@ -2474,7 +2474,7 @@ Any person who administers or makes available for consumption to children under 
 
 [^136-1]: Amended by No I of the FA of 20 March 2008, in force since 1 July 2011 ([AS 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [BBl 2006 8573](https://fedlex.data.admin.ch/eli/fga/2006/1086)[8645](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
 
-### Title Two:**** Offences against Property
+### Title Two: Offences against Property
 
 [^book2-tit2-1]
 
@@ -2592,7 +2592,7 @@ Any person who for his own or another's benefit unlawfully uses financial assets
 
 <sup>2</sup> Any person who markets or makes accessible passwords, programs or other data that he knows or must assume are intended to be used to commit an offence under paragraph 1 shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.
 
-[^143bis-1]: Amended by Art. 2 No 1 of the Federal Decree of 18 March 2011 (Council of Europe Convention on Cybercrime), in force since 1 Jan. 2012 ([AS 2011 6293](https://fedlex.data.admin.ch/eli/oc/2011/887); [BBl 2010 4697](https://fedlex.data.admin.ch/eli/fga/2010/813)).
+[^143bis-1]: Amended by Art. 2 No 1 of the FedD of 18 March 2011 (Council of Europe Convention on Cybercrime), in force since 1 Jan. 2012 ([AS 2011 6293](https://fedlex.data.admin.ch/eli/oc/2011/887); [BBl 2010 4697](https://fedlex.data.admin.ch/eli/fga/2010/813)).
 
 ### Criminal damage
 
@@ -2959,7 +2959,7 @@ shall be liable to a custodial sentence not exceeding three years or to a moneta
 
 <sup>2</sup> This provision does not apply to aggravated theft (Art. 139 para. 2 and 3), robbery or extortion.
 
-### Title Three: Offences against Personal Honour and in Breach of Secrecy or Privacy****
+### Title Three: Offences against Personal Honour and in Breach of Secrecy or Privacy
 
 [^book2-tit3-1]
 
@@ -3224,7 +3224,7 @@ Any person who, by the use of force or the threat of serious detriment or other 
 
 <sup>4</sup> Any person who commits the act abroad is also guilty of an offence. Articles 5 and 6 apply.
 
-[^182-1]: Amended by Art. 2 No 1 of the Federal Decree of 24 March 2006 on the Approval and Implementation of the Optional Protocol of 25 May 2000 to the Convention on the Rights of the Child, on the Sale of Children, Child Prostitution and Child Pornography, in force since 1 Dec. 2006 ([AS 2006 5437](https://fedlex.data.admin.ch/eli/oc/2006/823)5440; [BBl 2005 2807](https://fedlex.data.admin.ch/eli/fga/2005/433)).
+[^182-1]: Amended by Art. 2 No 1 of the FedD of 24 March 2006 on the Approval and Implementation of the Optional Protocol of 25 May 2000 to the Convention on the Rights of the Child, on the Sale of Children, Child Prostitution and Child Pornography, in force since 1 Dec. 2006 ([AS 2006 5437](https://fedlex.data.admin.ch/eli/oc/2006/823)5440; [BBl 2005 2807](https://fedlex.data.admin.ch/eli/fga/2005/433)).
 [^182-2]: [AS 2012 7501](https://fedlex.data.admin.ch/eli/oc/2012/901)
 
 ### False imprisonment and abduction
@@ -3300,7 +3300,7 @@ Any person who with the intention of removing a person from the protection of th
 
 <sup>2</sup> Any person who commits the offence abroad is also liable to the foregoing penalty provided they are now in Switzerland and are not extradited. Article 7 paragraphs 4 and 5 apply.
 
-[^185bis-1]: Inserted by Annex 2 No 1 of the Federal Decree of 18 Dec. 2015 on the Approval and Implementation of the International Convention for the Protection of All Persons from Enforced Disappearance, in force since 1 Jan. 2017 ([AS 2016 4687](https://fedlex.data.admin.ch/eli/oc/2016/756); [BBl 2014 453](https://fedlex.data.admin.ch/eli/fga/2014/95)).
+[^185bis-1]: Inserted by Annex 2 No 1 of the FedD of 18 Dec. 2015 on the Approval and Implementation of the International Convention for the Protection of All Persons from Enforced Disappearance, in force since 1 Jan. 2017 ([AS 2016 4687](https://fedlex.data.admin.ch/eli/oc/2016/756); [BBl 2014 453](https://fedlex.data.admin.ch/eli/fga/2014/95)).
 
 ### Unlawful entry
 
@@ -3308,7 +3308,7 @@ Any person who with the intention of removing a person from the protection of th
 
 Any person who, against the will of the lawful occupants enters a building, an apartment, a self-contained room within a building, an enclosed area, courtyard or garden forming a direct part of a building, or a clearly demarcated workplace or, despite requests from the lawful occupants to leave, remains in such a location, shall be liable on complaint to a custodial sentence not exceeding three years or to a monetary penalty.
 
-### Title Five:**** Offences against Sexual Integrity
+### Title Five: Offences against Sexual Integrity
 
 [^book2-tit5-1]
 
@@ -3437,7 +3437,7 @@ shall be liable to a custodial sentence not exceeding ten years or to a monetary
 - c. restricts the freedom to act of a prostitute by supervising him or her in the course of his or her activities or by exercising control over the location, time, volume or other aspects of his or her work as a prostitute or,
 - d. makes a person remain a prostitute against his or her will,
 
-[^195-1]: Amended by Annex No 1 of the Federal Decree of 27 Sept. 2013 (Lanzarote Convention), in force since 1 July 2014 ([AS 2014 1159](https://fedlex.data.admin.ch/eli/oc/2014/248); [BBl 2012 7571](https://fedlex.data.admin.ch/eli/fga/2012/1181)).
+[^195-1]: Amended by Annex No 1 of the FedD of 27 Sept. 2013 (Lanzarote Convention), in force since 1 July 2014 ([AS 2014 1159](https://fedlex.data.admin.ch/eli/oc/2014/248); [BBl 2012 7571](https://fedlex.data.admin.ch/eli/fga/2012/1181)).
 
 ### Sexual acts with minors against payment
 
@@ -3447,7 +3447,7 @@ shall be liable to a custodial sentence not exceeding ten years or to a monetary
 
 Any person who carries out sexual acts with a minor or induces a minor to carry out such acts and who makes or promises payment in return shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.
 
-[^196-1]: Amended by Annex No 1 of the Federal Decree of 27 Sept. 2013 (Lanzarote Convention), in force since 1 July 2014 ([AS 2014 1159](https://fedlex.data.admin.ch/eli/oc/2014/248); [BBl 2012 7571](https://fedlex.data.admin.ch/eli/fga/2012/1181)).
+[^196-1]: Amended by Annex No 1 of the FedD of 27 Sept. 2013 (Lanzarote Convention), in force since 1 July 2014 ([AS 2014 1159](https://fedlex.data.admin.ch/eli/oc/2014/248); [BBl 2012 7571](https://fedlex.data.admin.ch/eli/fga/2012/1181)).
 
 ### 4. Pornography
 
@@ -3473,7 +3473,7 @@ Any person who carries out sexual acts with a minor or induces a minor to carry 
 
 <sup>9</sup> Items or recordings as described in paragraphs 1–5 above are not regarded as pornographic if they have a cultural or scientific value that justifies their protection by law.
 
-[^197-1]: Amended by Annex No 1 of the Federal Decree of 27 Sept. 2013 (Lanzarote Convention), in force since 1 July 2014 ([AS 2014 1159](https://fedlex.data.admin.ch/eli/oc/2014/248); [BBl 2012 7571](https://fedlex.data.admin.ch/eli/fga/2012/1181)).
+[^197-1]: Amended by Annex No 1 of the FedD of 27 Sept. 2013 (Lanzarote Convention), in force since 1 July 2014 ([AS 2014 1159](https://fedlex.data.admin.ch/eli/oc/2014/248); [BBl 2012 7571](https://fedlex.data.admin.ch/eli/fga/2012/1181)).
 
 ### 5. Contraventions against sexual integrity
 
@@ -4101,7 +4101,7 @@ Any person who, in accordance with a plan, carries out specific technical or org
 
 [^260bis-1]: Inserted by No I of the FA of 9 Oct. 1981, in force since 1 Oct. 1982 ([AS 1982 1530](https://fedlex.data.admin.ch/eli/oc/1982/1530_1530_1530)1534; [BBl 1980 I 1241](https://fedlex.data.admin.ch/eli/fga/1980/1_1241_1216_1032)).
 [^260bis-2]: Inserted by No I of the FA of 30 Sept. 2011 in force since 1 July 2012 ([AS 2012 2575](https://fedlex.data.admin.ch/eli/oc/2012/310); [BBl 2010 5651](https://fedlex.data.admin.ch/eli/fga/2010/992)[5677](https://fedlex.data.admin.ch/eli/fga/2010/994)).
-[^260bis-3]: Inserted by Annex 2 No 1 of the Federal Decree of 18 Dec. 2015 on the Approval and Implementation of the International Convention for the Protection of All Persons from Enforced Disappearance, in force since 1 Jan. 2017 ([AS 2016 4687](https://fedlex.data.admin.ch/eli/oc/2016/756); [BBl 2014 453](https://fedlex.data.admin.ch/eli/fga/2014/95)).
+[^260bis-3]: Inserted by Annex 2 No 1 of the FedD of 18 Dec. 2015 on the Approval and Implementation of the International Convention for the Protection of All Persons from Enforced Disappearance, in force since 1 Jan. 2017 ([AS 2016 4687](https://fedlex.data.admin.ch/eli/oc/2016/756); [BBl 2014 453](https://fedlex.data.admin.ch/eli/fga/2014/95)).
 [^260bis-4]: Amended by No I 1 of the FA of 18 June 2010 on the Amendment of Federal Legislation in Implementation of the Rome Statue of the International Criminal Court, in force since 1 Jan. 2011 ([AS 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [BBl 2008 3863](https://fedlex.data.admin.ch/eli/fga/2008/807)).
 [^260bis-5]: Wording of the sentence in accordance with No II 2 of the FA of 13 Dec. 2002, in force since 1 Jan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549)3535; BBl **1999** 1979).
 
@@ -4240,7 +4240,7 @@ shall be liable to a custodial sentence not exceeding three years or to a moneta
 [^263-1]: Penalties revised by No II 1 of the FA of 19 June 2015 (Amendment to the Law on Criminal Sanctions), in force since 1 Jan. 2018 ([AS 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [BBl 2012 4721](https://fedlex.data.admin.ch/eli/fga/2012/670)).
 [^263-2]: Amended by No II 1 para. 16 of the FA of 13 Dec. 2002, in force since 1 Jan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549)3535; BBl **1999** 1979).
 
-### Title Twelve<sup>bis</sup>:**** Genocide and Crimes against Humanity
+### Title Twelve<sup>bis</sup>: Genocide and Crimes against Humanity
 
 [^book2-tit12bis-1]
 
@@ -4308,7 +4308,7 @@ The penalty is a custodial sentence of not less than five years for any person w
 
 <sup>3</sup> In less serious cases under paragraph 1 letters c–j, a custodial sentence of not less than one year may be imposed.
 
-### Title Twelve<sup>ter</sup>:**** War Crimes
+### Title Twelve<sup>ter</sup>: War Crimes
 
 [^book2-tit12ter-1]
 
@@ -4445,7 +4445,7 @@ The penalty is a custodial sentence not exceeding three years or a monetary pena
 
 The penalty is a custodial sentence not exceeding three years or a monetary penalty for any person who in connection with an armed conflict violates a provision of international humanitarian law other than those mentioned in Articles 264*c*–264*i*, where such a violation is declared to be an offence under customary international law or an international treaty recognised as binding by Switzerland.
 
-### Title Twelve<sup>quater</sup>:**** Common Provisions for Title Twelve<sup>bis</sup> and Title Twelve<sup>ter</sup>
+### Title Twelve<sup>quater</sup>: Common Provisions for Title Twelve<sup>bis</sup> and Title Twelve<sup>ter</sup>
 
 [^book2-tit12quater-1]
 
@@ -5328,7 +5328,7 @@ Any person who, as the person responsible in terms of Article 28 paragraphs 2 an
 [^322bis-1]: Inserted by No I of the FA of 10 Oct. 1997, in force since 1 April 1998 ([AS 1998 852](https://fedlex.data.admin.ch/eli/oc/1998/852_852_852)856; [BBl 1996 IV 525](https://fedlex.data.admin.ch/eli/fga/1996/4_525_533_449)).
 [^322bis-2]: Part of sentence amended by No II 2 of the FA of 13 Dec. 2002, in force since 1 Jan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549)3535; BBl **1999** 1979).
 
-### Title Nineteen:**** Bribery
+### Title Nineteen: Bribery
 
 [^book2-tit19-1]
 
@@ -5382,7 +5382,7 @@ any person who as a member of a judicial or other authority, a public official, 
 
 shall be liable to a custodial sentence not exceeding five years or to a monetary penalty.
 
-[^322septies-1]: Paragraph inserted by Art. 2 No 2 of the Federal Decree of 7 Oct. 2005 on the Approval and Implementation of the Criminal Law Convention and the Additional Protocol of the Council of Europe on Corruption, in force since 1 July 2006 ([AS 2006 2371](https://fedlex.data.admin.ch/eli/oc/2006/366)2374; [BBl 2004 6983](https://fedlex.data.admin.ch/eli/fga/2004/1217)).
+[^322septies-1]: Paragraph inserted by Art. 2 No 2 of the FedD of 7 Oct. 2005 on the Approval and Implementation of the Criminal Law Convention and the Additional Protocol of the Council of Europe on Corruption, in force since 1 July 2006 ([AS 2006 2371](https://fedlex.data.admin.ch/eli/oc/2006/366)2374; [BBl 2004 6983](https://fedlex.data.admin.ch/eli/fga/2004/1217)).
 
 ### 3. Bribery of private individuals
 
@@ -5427,7 +5427,7 @@ The following are not undue advantages:
 
 [^322decies-1]: Inserted by No I of the FA of 25 Sept. 2015 (Criminal Law on Corruption), in force since 1 July 2016 ([AS 2016 1287](https://fedlex.data.admin.ch/eli/oc/2016/257); [BBl 2014 3591](https://fedlex.data.admin.ch/eli/fga/2014/787)).
 
-### Title Twenty:**** Contraventions of Federal Law
+### Title Twenty: Contraventions of Federal Law
 
 [^book2-tit20-1]
 
@@ -5680,7 +5680,7 @@ Any person who finds or comes into the possession of property and fails to make 
 [^332-1]: Amended by No III of the FA of 4 Oct. 2002 (Basic Article Animals), in force since 1 April 2003 ([AS 2003 463](https://fedlex.data.admin.ch/eli/oc/2003/100)466; [BBl 2002 4164](https://fedlex.data.admin.ch/eli/fga/2002/591)[5806](https://fedlex.data.admin.ch/eli/fga/2002/895)).
 [^332-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 
-## Book Three:**** Introduction and Application of the Code
+## Book Three: Introduction and Application of the Code
 
 [^book3-1]
 
@@ -5753,7 +5753,7 @@ If reference is made in federal legislation to provisions being amended or repea
 
 [^339348-1]: Repealed by Annex 1 No II 8 of the Criminal Procedure Code of 5 Oct. 2007, with effect from 1 Jan. 2011 ([AS 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 
-### Title Four: Administrative Assistance on Police Matters****
+### Title Four: Administrative Assistance on Police Matters
 
 [^book3-tit4-1]
 
@@ -6012,9 +6012,10 @@ The following authorities may use and process data in terms of paragraph 1:
 - a. the Computer Centre of the Federal Department of Justice and Police;
 - b. the Federal Office of Police;
 - c. the border posts;
-- d. the police authorities in the cantons.
+- d. the police authorities in the cantons;
+- e.[^354-1] the State Secretariat for Migration (SEM).
 
-<sup>3</sup> Personal data that relates to criminal records data in accordance with paragraph 1 is processed in separate information systems; the procedure is subject to the provisions of the Federal Act of 13 June 2008[^354-1] on Federal Police Information Systems, the Asylum Act of 26 June 1998[^354-2] and the Federal Act of 16 December 2005[^354-3] on Foreign Nationals. The DNA Profile Information System is subject to the provisions of the DNA Profiling Act of 20 June 2003[^354-4].[^354-5]
+<sup>3</sup> Personal data that relates to criminal records data in accordance with paragraph 1 is processed in separate information systems; the procedure is subject to the provisions of the Federal Act of 13 June 2008[^354-2] on Federal Police Information Systems, the Asylum Act of 26 June 1998[^354-3] and the Federal Act of 16 December 2005[^354-4] on Foreign Nationals. The DNA Profile Information System is subject to the provisions of the DNA Profiling Act of 20 June 2003[^354-5].[^354-6]
 
 <sup>4</sup>
 
@@ -6022,16 +6023,19 @@ The Federal Council:
 
 - a. regulates the details, and in particular responsibility for data processing, the categories of the data to be recorded, the retention period for the data and cooperation with the cantons;
 - b. designates the authorities that are authorised to enter and retrieve personal data by remote access or to which personal data may be disclosed in individual cases;
-- c. regulates the procedural rights of the persons concerned, and in particular the right to inspect their data as well as to correct, archive or destroy such data.
+- c. regulates the procedural rights of the persons concerned, and in particular the right to inspect their data as well as to correct, archive or destroy such data;
+- d.[^354-7] regulates the transmission of criminal records data by the competent federal authorities and the cantons.
 
-<sup>5</sup> The SEM or the Federal Office of Police (fedpol) may transmit the data to the national section of the Schengen Information System (N-SIS) and the Schengen Information System (SIS) in an automated procedure for the purpose of issuing SIS alerts in the SIS.[^354-6]
+<sup>5</sup> The SEM or the Federal Office of Police (fedpol) may transmit the data to the national section of the Schengen Information System (N-SIS) and the Schengen Information System (SIS) in an automated procedure for the purpose of issuing SIS alerts in the SIS.[^354-8]
 
-[^354-1]: [SR 361](https://fedlex.data.admin.ch/eli/cc/2008/698)
-[^354-2]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
-[^354-3]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^354-4]: [SR 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
-[^354-5]: Amended by Annex 1 No 5 of the FA of 13 June 2008 on the Federal Police Information System, in force since 5 Dec. 2008 ([AS 2008 4989](https://fedlex.data.admin.ch/eli/oc/2008/698); [BBl 2006 5061](https://fedlex.data.admin.ch/eli/fga/2006/611)).
-[^354-6]: Inserted by Annex 1 No 4 of the FedD of 18 Dec. 2020 on the Approval and Implementation of the Council of Europe Convention on the Prevention of Terrorism and its Additional Protocol and the Strengthening of Criminal Justice Instruments for combating Terrorism and Organised Crime (SIS), in force since 1 July 2021 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^354-1]: Inserted by Annex 1 No 4 of the FedD of 18 Dec. 2020 on the Approval and Implementation of the Exchange of Notes between Switzerland and the EU relating to the Adoption of the Legislation on the Establishment, Operation and Use of the Schengen Information System (SIS), in force since 22 Nov. 2022 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 638](https://fedlex.data.admin.ch/eli/oc/2022/638); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^354-2]: [SR 361](https://fedlex.data.admin.ch/eli/cc/2008/698)
+[^354-3]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^354-4]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^354-5]: [SR 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
+[^354-6]: Amended by Annex 1 No 5 of the FA of 13 June 2008 on the Federal Police Information System, in force since 5 Dec. 2008 ([AS 2008 4989](https://fedlex.data.admin.ch/eli/oc/2008/698); [BBl 2006 5061](https://fedlex.data.admin.ch/eli/fga/2006/611)).
+[^354-7]: Inserted by Annex 1 No 4 of the FedD of 18 Dec. 2020 on the Approval and Implementation of the Exchange of Notes between Switzerland and the EU relating to the Adoption of the Legislation on the Establishment, Operation and Use of the Schengen Information System (SIS), in force since 22 Nov. 2022 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 638](https://fedlex.data.admin.ch/eli/oc/2022/638); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^354-8]: Inserted by Annex 1 No 4 of the FedD of 18 Dec. 2020 on the Approval and Implementation of the Council of Europe Convention on the Prevention of Terrorism and its Additional Protocol and the Strengthening of Criminal Justice Instruments for combating Terrorism and Organised Crime (SIS), in force since 1 July 2021 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
 
 ### 4. ...
 
@@ -6053,7 +6057,7 @@ The Federal Council:
 
 [^355a-1]
 
-<sup>1</sup> The Federal Office of Police (fedpol) and the Federal Intelligence Service (FIS) may pass on personal data, including sensitive personal data and personality profiles to the European Police Office (Europol).[^355a-2]
+<sup>1</sup> fedpol and the Federal Intelligence Service (FIS) may pass on personal data, including sensitive personal data and personality profiles to the European Police Office (Europol).[^355a-2]
 
 <sup>2</sup> The passing on of such data is subject in particular to the requirements of Articles 3 and 10–13 of the Agreement of 24 September 2004[^355a-3] between the Swiss Confederation and the European Police Office.
 
@@ -6061,8 +6065,8 @@ The Federal Council:
 
 <sup>4</sup> The exchange of personal data with Europol is regarded as equivalent to an exchange with a competent authority of a Schengen State (Art. 349*b*).[^355a-4]
 
-[^355a-1]: Inserted by Art. 2 of the Federal Decree of 7 Oct. 2005 on the Approval and Implementation of the Agreement between Switzerland and Europol, in force since 1 April 2006 ([AS 2006 1017](https://fedlex.data.admin.ch/eli/oc/2006/180)1018; [BBl 2005 983](https://fedlex.data.admin.ch/eli/fga/2005/131)).
-[^355a-2]: Amended by No I 3 of the Ordinance of 4 Dec. 2009 on the Amendment of Legislation due to the Creation of the Federal Intelligence Service, in force since 1 Jan. 2010 ([AS 2009 6921](https://fedlex.data.admin.ch/eli/oc/2009/846)).
+[^355a-1]: Inserted by Art. 2 of the FedD of 7 Oct. 2005 on the Approval and Implementation of the Agreement between Switzerland and Europol, in force since 1 April 2006 ([AS 2006 1017](https://fedlex.data.admin.ch/eli/oc/2006/180)1018; [BBl 2005 983](https://fedlex.data.admin.ch/eli/fga/2005/131)).
+[^355a-2]: Amended by Annex 1 No 4 of the FedD of 18 Dec. 2020 on the Approval and Implementation of the Exchange of Notes between Switzerland and the EU relating to the Adoption of the Legislation on the Establishment, Operation and Use of the Schengen Information System (SIS), in force since 1 July 2021 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
 [^355a-3]: SR **0.360.268.2**
 [^355a-4]: Inserted by No II 2 of the FA of 28 Sept. 2018 on the implementation of Directive (EU) 2016/680 on the protection of natural persons with regard to the processing of personal data by competent authorities for the purposes of the prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties, in force since 1 March 2019 ([AS 2019 625](https://fedlex.data.admin.ch/eli/oc/2019/111); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
@@ -6078,7 +6082,7 @@ The Federal Council:
 
 The Federal Council is authorised to agree with Europol amendments to the scope of its mandate in accordance with Article 3 paragraph 3 of the Agreement of 24 September 2004[^355b-2] between the Swiss Confederation and the European Police Office.
 
-[^355b-1]: Inserted by Art. 2 of the Federal Decree of 7 Oct. 2005 on the Approval and Implementation of the Agreement between Switzerland and Europol, in force since 1 April 2006 ([AS 2006 1017](https://fedlex.data.admin.ch/eli/oc/2006/180)1018; [BBl 2005 983](https://fedlex.data.admin.ch/eli/fga/2005/131)).
+[^355b-1]: Inserted by Art. 2 of the FedD of 7 Oct. 2005 on the Approval and Implementation of the Agreement between Switzerland and Europol, in force since 1 April 2006 ([AS 2006 1017](https://fedlex.data.admin.ch/eli/oc/2006/180)1018; [BBl 2005 983](https://fedlex.data.admin.ch/eli/fga/2005/131)).
 [^355b-2]: SR **0.360.268.2**
 
 ### 5<sup>bis</sup>. Cooperation under the Schengen Association Agreement. Jurisdiction
@@ -6089,7 +6093,7 @@ The Federal Council is authorised to agree with Europol amendments to the scope 
 
 The federal and cantonal police authorities shall implement the provisions of the Schengen Association Agreement[^355c-2] in accordance with domestic law.
 
-[^355c-1]: Inserted by Art. 3 No 4 of the Federal Decree of 17 Dec. 2004 on the Adoption and Implementation of the Bilateral Agreements between Switzerland and the EU on the Association to Schengen and Dublin, in force since 1 June 2008 ([AS 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[2179](https://fedlex.data.admin.ch/eli/oc/2008/318); [BBl 2004 5965](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
+[^355c-1]: Inserted by Art. 3 No 4 of the FedD of 17 Dec. 2004 on the Adoption and Implementation of the Bilateral Agreements between Switzerland and the EU on the Association to Schengen and Dublin, in force since 1 June 2008 ([AS 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[2179](https://fedlex.data.admin.ch/eli/oc/2008/318); [BBl 2004 5965](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
 [^355c-2]: Agreement of 26 Oct. 2004 between the Swiss Confederation, the European Union and the European Community on the Association of that State with the Implementation, Application and Development of the Schengen Acquis ([SR 0.362.31](https://fedlex.data.admin.ch/eli/cc/2008/113)); Agreement of 28 April 2005 between the Swiss Confederation and the Kingdom of Denmark on the Establishment of Rights and Obligations between these two States with a view to Cooperation on Schengen ([SR 0.362.33](https://fedlex.data.admin.ch/eli/cc/2008/114)); Agreement of 17 Dec. 2004 between the Swiss Confederation, the Republic of Iceland and the Kingdom of Norway on the implementation, application and development of the Schengen Acquis and on the criteria and procedure for determining the State responsible for examining an application for asylum lodged in Switzerland, Iceland or Norway ([SR 0.362.32](https://fedlex.data.admin.ch/eli/cc/2008/116)).
 
 ### 5<sup>ter</sup>. ...
@@ -6098,7 +6102,7 @@ The federal and cantonal police authorities shall implement the provisions of th
 
 [^355d-1]
 
-[^355d-1]: Inserted by Art. 3 No 4 of the Federal Decree of 17 Dec. 2004 on the Adoption and Implementation of the Bilateral Agreements between Switzerland and the EU on the Association to Schengen and Dublin ([AS 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[2179](https://fedlex.data.admin.ch/eli/oc/2008/318); [BBl 2004 5965](https://fedlex.data.admin.ch/eli/fga/2004/1084)). Repealed by Annex 2 No II of the FA of 13 June 2008 on the Federal Police Information System, with effect from 5 Dec. 2008 ([AS 2008 4989](https://fedlex.data.admin.ch/eli/oc/2008/698); [BBl 2006 5061](https://fedlex.data.admin.ch/eli/fga/2006/611)).
+[^355d-1]: Inserted by Art. 3 No 4 of the FedD of 17 Dec. 2004 on the Adoption and Implementation of the Bilateral Agreements between Switzerland and the EU on the Association to Schengen and Dublin ([AS 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[2179](https://fedlex.data.admin.ch/eli/oc/2008/318); [BBl 2004 5965](https://fedlex.data.admin.ch/eli/fga/2004/1084)). Repealed by Annex 2 No II of the FA of 13 June 2008 on the Federal Police Information System, with effect from 5 Dec. 2008 ([AS 2008 4989](https://fedlex.data.admin.ch/eli/oc/2008/698); [BBl 2006 5061](https://fedlex.data.admin.ch/eli/fga/2006/611)).
 
 ### 5<sup>quater</sup>. SIRENE Office
 
@@ -6106,12 +6110,12 @@ The federal and cantonal police authorities shall implement the provisions of th
 
 [^355e-1]
 
-<sup>1</sup> The Federal Office of Police maintains a central office (SIRENE Office[^355e-2]) that is responsible for N-SIS.
+<sup>1</sup> fedpol manages the central office for the exchange of supplementary information with the Schengen states (SIRENE Office).[^355e-2]
 
 <sup>2</sup> Das SIRENE Office is the contact, coordination and consultation point for the exchange of information in connection with the alerts in the SIS. It reviews the formal admissibility of Swiss and foreign alerts in the SIS.
 
-[^355e-1]: Inserted by Art. 3 No 4 of the Federal Decree of 17 Dec. 2004 on the Adoption and Implementation of the Bilateral Agreements between Switzerland and the EU on the Association to Schengen and Dublin, in force since 1 June 2008 ([AS 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[2179](https://fedlex.data.admin.ch/eli/oc/2008/318); [BBl 2004 5965](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
-[^355e-2]: Supplementary Information Request at the National Entry.
+[^355e-1]: Inserted by Art. 3 No 4 of the FedD of 17 Dec. 2004 on the Adoption and Implementation of the Bilateral Agreements between Switzerland and the EU on the Association to Schengen and Dublin, in force since 1 June 2008 ([AS 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[2179](https://fedlex.data.admin.ch/eli/oc/2008/318); [BBl 2004 5965](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
+[^355e-2]: Amended by Annex 1 No 4 of the FedD of 18 Dec. 2020 on the Approval and Implementation of the Exchange of Notes between Switzerland and the EU relating to the Adoption of the Legislation on the Establishment, Operation and Use of the Schengen Information System (SIS), in force since 22 Nov. 2022 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365), [2022 638](https://fedlex.data.admin.ch/eli/oc/2022/638); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
 
 #### Art. 355f–355g
 
@@ -6133,7 +6137,7 @@ The federal and cantonal police authorities shall implement the provisions of th
 
 If an investigating authority establishes that pornographic articles (Art. 197 para. 4) have been produced in or imported from a foreign state, it shall immediately notify the Federal Central Office for Combating Pornography.
 
-[^362-1]: Amended by Annex No 1 of the Federal Decree of 27 Sept. 2013 (Lanzarote Convention), in force since 1 July 2014 ([AS 2014 1159](https://fedlex.data.admin.ch/eli/oc/2014/248); [BBl 2012 7571](https://fedlex.data.admin.ch/eli/fga/2012/1181)).
+[^362-1]: Amended by Annex No 1 of the FedD of 27 Sept. 2013 (Lanzarote Convention), in force since 1 July 2014 ([AS 2014 1159](https://fedlex.data.admin.ch/eli/oc/2014/248); [BBl 2012 7571](https://fedlex.data.admin.ch/eli/fga/2012/1181)).
 
 ### Title Five: ...
 
@@ -6629,7 +6633,7 @@ The offender shall contribute in an appropriate manner to the costs:
 
 [^380-1]: Amended by No I 1 of the FA of 19 June 2015 (Amendments to the Law of Criminal Sanctions), in force since 1 Jan. 2018 ([AS 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [BBl 2012 4721](https://fedlex.data.admin.ch/eli/fga/2012/670)).
 
-### Title 7*a*:**** Liability in Cases of Discharge from Lifelong Incarceration
+### Title 7*a*: Liability in Cases of Discharge from Lifelong Incarceration
 
 [^book3-tit7a-1]
 
@@ -6786,13 +6790,13 @@ The cantons shall notify the Confederation of the required transitional provisio
 
 This Code comes into force on 1 January 1942.
 
-## Final Provisions of the Amendment of 18 March 1971****
+## Final Provisions of the Amendment of 18 March 1971
 
 [^u1-1]
 
 [^u1-1]: FA of 18 March 1971, in force since 1 July 1971 ([AS 1971 777](https://fedlex.data.admin.ch/eli/oc/1971/777_777_777)807; [BBl 1965 I 561](https://fedlex.data.admin.ch/eli/fga/1965/1_561_569_474)) and for Art. 49 No 4 para. 2, 82–99, 370, 372, 373, 379 No 1 para. 2, 385 and 391 in force since 1 Jan. 1974 ([AS 1973 1840](https://fedlex.data.admin.ch/eli/oc/1973/1840_1840_1840)). Repealed by No IV of the FA of 13 Dec. 2002, with effect from 1 Jan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549)3535; BBl **1999** 1979).
 
-## Final Provisions of the Amendment of 13 December 2002****
+## Final Provisions of the Amendment of 13 December 2002
 
 [^u2-1]
 
@@ -6806,7 +6810,7 @@ This Code comes into force on 1 January 1942.
 
 <sup>3</sup> The provisions of the new law on the execution of custodial sentences (Art. 74–85, 91 and 92) and on probation assistance, conduct orders and the voluntary social supervision (Art. 93–96) also apply to offenders who were convicted under the previous law.
 
-2.*[^u2-6]* Imposition and execution of measures
+2.[^u2-6] Imposition and execution of measures
 
 <sup>2</sup> Until twelve months at the latest after the new law comes into force, the court shall assess whether persons indefinitely incarcerated under Articles 42 or 43 number 1 paragraph 2 of the previous law fulfil the requirements for imposing a therapeutic measure (Art. 59–61 or 63). If they do, the court shall impose the relevant; if not, indefinite incarceration is continued in accordance with the new law.
 
@@ -6841,7 +6845,7 @@ The cantons shall establish institutions for the implementation of measures unde
 [^u2-9]: [AS 1971 777](https://fedlex.data.admin.ch/eli/oc/1971/777_777_777)
 [^u2-10]: Amended by No I of the FA of 24 March 2006 (Revision of the Law on Sanctions and the Register of Convictions), in force since 1 Jan. 2007 ([AS 2006 3539](https://fedlex.data.admin.ch/eli/oc/2006/550)3544; [BBl 2005 4689](https://fedlex.data.admin.ch/eli/fga/2005/735)).
 
-## Transitional Provision to the Amendment of 12 December 2014****
+## Transitional Provision to the Amendment of 12 December 2014
 
 [^u3-1]
 
@@ -6849,7 +6853,7 @@ The cantons shall establish institutions for the implementation of measures unde
 
 Article 305<sup>bis</sup> does not apply to aggravated tax misdemeanours as defined in Article 305<sup>bis</sup> number 1<sup>bis</sup> that were committed before the amendment of 12 December 2014 comes into force.
 
-## Transitional Provision to the Amendment of 26 September 2014****
+## Transitional Provision to the Amendment of 26 September 2014
 
 [^u4-1]
 
@@ -6857,7 +6861,7 @@ Article 305<sup>bis</sup> does not apply to aggravated tax misdemeanours as defi
 
 The right to information under Article 92*a* also applies to the execution of sentences and measures that was ordered under the previous law.
 
-## Transitional Provision to the Amendment of 19 June 2015****
+## Transitional Provision to the Amendment of 19 June 2015
 
 [^u5-1]
 

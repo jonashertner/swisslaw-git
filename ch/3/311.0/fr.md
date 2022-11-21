@@ -4,18 +4,18 @@ title: Code pénal suisse du 21 décembre 1937
 short: CP
 eli: "https://fedlex.data.admin.ch/eli/cc/54/757_781_799"
 language: fr
-version: 2022-06-01
+version: 2022-11-22
 adopted: 1937-12-21
 in_force: 1942-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20220601/fr/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20220601-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20220601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20221122/fr/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20221122-fr-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20221122/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Code pénal suisse
 
-du 21 décembre 1937 (Etat le 1<sup>er</sup> juin 2022)
+du 21 décembre 1937 (État le 22 novembre 2022)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -24,10 +24,10 @@ vu l’art. 123, al. 1 et 3, de la Constitution[^ingress-1],[^ingress-2] vu le m
 arrête:
 
 [^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^ingress-2]: Nouvelle teneur selon le ch. I de la LF du 30 sept. 2011, en vigueur depuis le 1<sup>er</sup> juil. 2012 ([RO 2012 2575](https://fedlex.data.admin.ch/eli/oc/2012/310); [FF 2010 5125](https://fedlex.data.admin.ch/eli/fga/2010/992)[5151](https://fedlex.data.admin.ch/eli/fga/2010/994)).
+[^ingress-2]: Nouvelle teneur selon le ch. I de la LF du 30 sept. 2011, en vigueur depuis le 1<sup>er</sup> juil. 2012 ([RO 2012 2575](https://fedlex.data.admin.ch/eli/oc/2012/310); [FF 2010 5125](https://fedlex.data.admin.ch/eli/fga/2010/992), [5151](https://fedlex.data.admin.ch/eli/fga/2010/994)).
 [^ingress-3]: [FF 1918 IV 1](https://fedlex.data.admin.ch/eli/fga/1918/4_1_1_1)
 
-## Livre 1**** Dispositions générales
+## Livre 1 Dispositions générales
 
 [^book1-1]
 
@@ -436,7 +436,7 @@ Si un ayant droit a porté plainte contre un des participants à l’infraction,
 
 ### Chapitre 1 Peines
 
-### Section 1 Peine pécuniaire et peine privative de liberté****
+### Section 1 Peine pécuniaire et peine privative de liberté
 
 [^book1-part1-tit3-chap1-sec1-1]
 
@@ -657,7 +657,7 @@ Le juge impute sur la peine la détention avant jugement subie par l’auteur da
 
 [^51-1]: Nouvelle teneur de la phrase selon le ch. I 1 de la LF du 19 juin 2015 (Réforme du droit des sanctions), en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4385](https://fedlex.data.admin.ch/eli/fga/2012/670)).
 
-### Section 4 Exemption de peine et suspension et classement de la procédure****
+### Section 4 Exemption de peine et suspension et classement de la procédure
 
 [^book1-part1-tit3-chap1-sec4-1]
 
@@ -687,7 +687,7 @@ Lorsque l’auteur a réparé le dommage ou accompli tous les efforts que l’on
 - b. si l’intérêt public et l’intérêt du lésé à poursuivre l’auteur pénalement sont peu importants, et
 - c. si l’auteur a admis les faits.
 
-[^53-1]: Nouvelle teneur selon le ch. I 1 de la LF du 14 déc. 2018 modifiant la disposition sur la réparation, en vigueur depuis le 1<sup>er</sup> juil. 2019 ([RO 2019 1809](https://fedlex.data.admin.ch/eli/oc/2019/336); [FF 2018 3881](https://fedlex.data.admin.ch/eli/fga/2018/1409)[5029](https://fedlex.data.admin.ch/eli/fga/2018/1707)).
+[^53-1]: Nouvelle teneur selon le ch. I 1 de la LF du 14 déc. 2018 modifiant la disposition sur la réparation, en vigueur depuis le 1<sup>er</sup> juil. 2019 ([RO 2019 1809](https://fedlex.data.admin.ch/eli/oc/2019/336); [FF 2018 3881](https://fedlex.data.admin.ch/eli/fga/2018/1409), [5029](https://fedlex.data.admin.ch/eli/fga/2018/1707)).
 
 ### Atteinte subie par l’auteur à la suite de son acte
 
@@ -707,9 +707,9 @@ Si l’auteur a été directement atteint par les conséquences de son acte au p
 
 ### Conjoint, partenaire enregistré ou partenaire victime
 
-[^book1-part1-tit3-chap1-sec4-lvl2-lvlu3-1]
+[^book1-part1-tit3-chap1-sec4-lvlu3-lvlu1-1]
 
-[^book1-part1-tit3-chap1-sec4-lvl2-lvlu3-1]: Nouvelle teneur selon le ch. I 3 de la LF du 14 déc. 2018 sur l’amélioration de la protection des victimes de violence, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2019 2273](https://fedlex.data.admin.ch/eli/oc/2019/432); [FF 2017 6913](https://fedlex.data.admin.ch/eli/fga/2017/2095)).
+[^book1-part1-tit3-chap1-sec4-lvlu3-lvlu1-1]: Nouvelle teneur selon le ch. I 3 de la LF du 14 déc. 2018 sur l’amélioration de la protection des victimes de violence, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2019 2273](https://fedlex.data.admin.ch/eli/oc/2019/432); [FF 2017 6913](https://fedlex.data.admin.ch/eli/fga/2017/2095)).
 
 #### Art. 55a
 
@@ -744,7 +744,7 @@ La procédure ne peut pas être suspendue:
 
 <sup>5</sup> Avant la fin de la suspension, le ministère public ou le tribunal procède à une évaluation. Si la situation de la victime s’est stabilisée ou améliorée, il ordonne le classement de la procédure.[^55a-9]
 
-[^55a-1]: Introduit par le ch. I de la LF du 3 oct. 2003 (Poursuite des infractions entre conjoints ou partenaires), en vigueur depuis le 1<sup>er</sup> avr. 2004 ([RO 2004 1403](https://fedlex.data.admin.ch/eli/oc/2004/176); [FF 2003 1750](https://fedlex.data.admin.ch/eli/fga/2003/226)[1779](https://fedlex.data.admin.ch/eli/fga/2003/228)).
+[^55a-1]: Introduit par le ch. I de la LF du 3 oct. 2003 (Poursuite des infractions entre conjoints ou partenaires), en vigueur depuis le 1<sup>er</sup> avr. 2004 ([RO 2004 1403](https://fedlex.data.admin.ch/eli/oc/2004/176); [FF 2003 1750](https://fedlex.data.admin.ch/eli/fga/2003/226), [1779](https://fedlex.data.admin.ch/eli/fga/2003/228)).
 [^55a-2]: Nouvelle teneur selon le ch. I 3 de la LF du 14 déc. 2018 sur l’amélioration de la protection des victimes de violence, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2019 2273](https://fedlex.data.admin.ch/eli/oc/2019/432); [FF 2017 6913](https://fedlex.data.admin.ch/eli/fga/2017/2095)).
 [^55a-3]: Nouvelle teneur selon l’art. 37 ch. 1 de la LF du 18 juin 2004 sur le partenariat, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1192](https://fedlex.data.admin.ch/eli/fga/2003/194)).
 [^55a-4]: Nouvelle teneur selon le ch. I 3 de la LF du 14 déc. 2018 sur l’amélioration de la protection des victimes de violence, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2019 2273](https://fedlex.data.admin.ch/eli/oc/2019/432); [FF 2017 6913](https://fedlex.data.admin.ch/eli/fga/2017/2095)).
@@ -1886,7 +1886,7 @@ Les victimes et les proches de la victime au sens de l’art. 1, al. 1 et 2, de 
 
 <sup>4</sup> Si l’autorité d’exécution accepte la demande, elle rend son auteur attentif au caractère confidentiel des informations communiquées. Les personnes qui ont droit à une aide aux victimes selon la LAVI ne sont pas tenues à la confidentialité envers la personne chargée de les conseiller dans un centre de consultation au sens de l’art. 9 LAVI.
 
-[^92a-1]: Introduit par le ch. I 1 de la LF du 26 sept. 2014 sur le droit de la victime à être informée, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 1623](https://fedlex.data.admin.ch/eli/oc/2015/321); [FF 2014 863](https://fedlex.data.admin.ch/eli/fga/2014/136)[885](https://fedlex.data.admin.ch/eli/fga/2014/138)).
+[^92a-1]: Introduit par le ch. I 1 de la LF du 26 sept. 2014 sur le droit de la victime à être informée, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 1623](https://fedlex.data.admin.ch/eli/oc/2015/321); [FF 2014 863](https://fedlex.data.admin.ch/eli/fga/2014/136), [885](https://fedlex.data.admin.ch/eli/fga/2014/138)).
 [^92a-2]: [RS 312.5](https://fedlex.data.admin.ch/eli/cc/2008/232)
 
 ### Titre 5 Assistance de probation, règles de conduite et assistance sociale facultative
@@ -2224,9 +2224,9 @@ Celui qui, par négligence, aura causé la mort d’une personne sera puni d’u
 
 <sup>4</sup> Les actions pénales visées aux al. 1 et 3 se prescrivent par trois ans.[^118-3]
 
-[^118-1]: Nouvelle teneur selon le ch. I de la LF du 23 mars 2001 (Interruption de grossesse), en vigueur depuis le 1<sup>er</sup> oct. 2002 ([RO 2002 2989](https://fedlex.data.admin.ch/eli/oc/2002/429); FF **1998** 2629 4734).
+[^118-1]: Nouvelle teneur selon le ch. I de la LF du 23 mars 2001 (Interruption de grossesse), en vigueur depuis le 1<sup>er</sup> oct. 2002 ([RO 2002 2989](https://fedlex.data.admin.ch/eli/oc/2002/429); FF **1998** 2629, 4734).
 [^118-2]: Nouvelle expression selon le ch. II 1 al. 4 de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787). Il a été tenu compte de cette mod. dans tout le Livre.
-[^118-3]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2002 (Prescription de l’action pénale), en vigueur depuis le 1<sup>er</sup> oct. 2002 ([RO 2002 2986](https://fedlex.data.admin.ch/eli/oc/2002/428); [FF 2002 2512](https://fedlex.data.admin.ch/eli/fga/2002/342)[1579](https://fedlex.data.admin.ch/eli/fga/2002/204)).
+[^118-3]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2002 (Prescription de l’action pénale), en vigueur depuis le 1<sup>er</sup> oct. 2002 ([RO 2002 2986](https://fedlex.data.admin.ch/eli/oc/2002/428); [FF 2002 2512](https://fedlex.data.admin.ch/eli/fga/2002/342), [1579](https://fedlex.data.admin.ch/eli/fga/2002/204)).
 
 ### Interruption de grossesse non punissable
 
@@ -2244,7 +2244,7 @@ Celui qui, par négligence, aura causé la mort d’une personne sera puni d’u
 
 <sup>5</sup> À des fins statistiques, toute interruption de grossesse doit être annoncée à l’autorité de santé publique compétente; l’anonymat de la femme concernée est garanti et le secret médical doit être respecté.
 
-[^119-1]: Nouvelle teneur selon le ch. I de la LF du 23 mars 2001 (Interruption de grossesse), en vigueur depuis le 1<sup>er</sup> oct. 2002 ([RO 2002 2989](https://fedlex.data.admin.ch/eli/oc/2002/429); FF **1998** 2629 4734).
+[^119-1]: Nouvelle teneur selon le ch. I de la LF du 23 mars 2001 (Interruption de grossesse), en vigueur depuis le 1<sup>er</sup> oct. 2002 ([RO 2002 2989](https://fedlex.data.admin.ch/eli/oc/2002/429); FF **1998** 2629, 4734).
 
 ### Contraventions commises par le médecin
 
@@ -2269,14 +2269,14 @@ Sera puni d’une amende[^120-2] le médecin qui interrompt une grossesse en app
 
 <sup>2</sup> Sera puni de la même peine le médecin qui omet d’aviser l’autorité de santé publique compétente, conformément à l’art. 119, al. 5, de l’interruption de grossesse pratiquée.
 
-[^120-1]: Nouvelle teneur selon le ch. I de la LF du 23 mars 2001 (Interruption de grossesse), en vigueur depuis le 1<sup>er</sup> oct. 2002 ([RO 2002 2989](https://fedlex.data.admin.ch/eli/oc/2002/429); FF **1998** 2629 4734).
+[^120-1]: Nouvelle teneur selon le ch. I de la LF du 23 mars 2001 (Interruption de grossesse), en vigueur depuis le 1<sup>er</sup> oct. 2002 ([RO 2002 2989](https://fedlex.data.admin.ch/eli/oc/2002/429); FF **1998** 2629, 4734).
 [^120-2]: Nouvelle expression selon le ch. II 1 al. 5 de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787). Il a été tenu compte de cette mod. dans tout le Livre.
 
 #### Art. 121
 
 [^121-1]
 
-[^121-1]: Abrogé par le ch. I de la LF du 23 mars 2001 (Interruption de grossesse), avec effet au 1<sup>er</sup> oct. 2002 ([RO 2002 2989](https://fedlex.data.admin.ch/eli/oc/2002/429); FF **1998** 2629 4734).
+[^121-1]: Abrogé par le ch. I de la LF du 23 mars 2001 (Interruption de grossesse), avec effet au 1<sup>er</sup> oct. 2002 ([RO 2002 2989](https://fedlex.data.admin.ch/eli/oc/2002/429); FF **1998** 2629, 4734).
 
 ### 3. Lésions corporelles
 
@@ -2321,9 +2321,9 @@ si l’auteur est le partenaire hétérosexuel ou homosexuel de la victime pour 
 
 [^123-1]: Nouvelle teneur selon le ch. I de la LF du 23 juin 1989, en vigueur depuis le 1<sup>er</sup> janv. 1990 ([RO 1989 2449](https://fedlex.data.admin.ch/eli/oc/1989/2449_2449_2449); [FF 1985 II 1021](https://fedlex.data.admin.ch/eli/fga/1985/2_1009_1021_901)).
 [^123-2]: Nouvelle teneur du par. selon le ch. II 2 de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
-[^123-3]: Par. introduit par le ch. I de la LF du 3 oct. 2003 (Poursuite des infractions entre conjoints ou partenaires), en vigueur depuis le 1<sup>er</sup> avr. 2004 ([RO 2004 1403](https://fedlex.data.admin.ch/eli/oc/2004/176); [FF 2003 1750](https://fedlex.data.admin.ch/eli/fga/2003/226)[1779](https://fedlex.data.admin.ch/eli/fga/2003/228)).
+[^123-3]: Par. introduit par le ch. I de la LF du 3 oct. 2003 (Poursuite des infractions entre conjoints ou partenaires), en vigueur depuis le 1<sup>er</sup> avr. 2004 ([RO 2004 1403](https://fedlex.data.admin.ch/eli/oc/2004/176); [FF 2003 1750](https://fedlex.data.admin.ch/eli/fga/2003/226), [1779](https://fedlex.data.admin.ch/eli/fga/2003/228)).
 [^123-4]: Par. introduit par l’annexe ch. 18 de la LF du 18 juin 2004 sur le partenariat, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1192](https://fedlex.data.admin.ch/eli/fga/2003/194)).
-[^123-5]: Anciennement par. 4. Introduit par le ch. I de la LF du 3 oct. 2003 (Poursuite des infractions entre conjoints ou partenaires), en vigueur depuis le 1<sup>er</sup> avr. 2004 ([RO 2004 1403](https://fedlex.data.admin.ch/eli/oc/2004/176); [FF 2003 1750](https://fedlex.data.admin.ch/eli/fga/2003/226)[1779](https://fedlex.data.admin.ch/eli/fga/2003/228)).
+[^123-5]: Anciennement par. 4. Introduit par le ch. I de la LF du 3 oct. 2003 (Poursuite des infractions entre conjoints ou partenaires), en vigueur depuis le 1<sup>er</sup> avr. 2004 ([RO 2004 1403](https://fedlex.data.admin.ch/eli/oc/2004/176); [FF 2003 1750](https://fedlex.data.admin.ch/eli/fga/2003/226), [1779](https://fedlex.data.admin.ch/eli/fga/2003/228)).
 
 ### Mutilation d’organes génitaux féminins
 
@@ -2335,7 +2335,7 @@ si l’auteur est le partenaire hétérosexuel ou homosexuel de la victime pour 
 
 <sup>2</sup> Quiconque se trouve en Suisse et n’est pas extradé et commet la mutilation à l’étranger est punissable. L’art. 7, al. 4 et 5, est applicable.
 
-[^124-1]: Nouvelle teneur selon le ch. I de la LF du 30 sept. 2011, en vigueur depuis le 1<sup>er</sup> juil. 2012 ([RO 2012 2575](https://fedlex.data.admin.ch/eli/oc/2012/310); [FF 2010 5125](https://fedlex.data.admin.ch/eli/fga/2010/992)[5151](https://fedlex.data.admin.ch/eli/fga/2010/994)).
+[^124-1]: Nouvelle teneur selon le ch. I de la LF du 30 sept. 2011, en vigueur depuis le 1<sup>er</sup> juil. 2012 ([RO 2012 2575](https://fedlex.data.admin.ch/eli/oc/2012/310); [FF 2010 5125](https://fedlex.data.admin.ch/eli/fga/2010/992), [5151](https://fedlex.data.admin.ch/eli/fga/2010/994)).
 
 ### Lésions corporelles par négligence
 
@@ -2363,7 +2363,7 @@ La poursuite aura lieu d’office si l’auteur a agi à réitérées reprises:
 - c. contre son partenaire hétérosexuel ou homosexuel pour autant qu’ils fassent ménage commun pour une durée indéterminée et que les atteintes aient été commises durant cette période ou dans l’année qui a suivi la séparation.[^126-2]
 
 [^126-1]: Introduite par l’annexe ch. 18 de la LF du 18 juin 2004 sur le partenariat, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1192](https://fedlex.data.admin.ch/eli/fga/2003/194)).
-[^126-2]: Introduit par le ch. I de la LF du 23 juin 1989 ([RO 1989 2449](https://fedlex.data.admin.ch/eli/oc/1989/2449_2449_2449); [FF 1985 II 1021](https://fedlex.data.admin.ch/eli/fga/1985/2_1009_1021_901)). Nouvelle teneur selon le ch. I de la LF du 3 oct. 2003 (Poursuite des infractions entre conjoints ou partenaires), en vigueur depuis le 1<sup>er</sup> avr. 2004 ([RO 2004 1403](https://fedlex.data.admin.ch/eli/oc/2004/176); [FF 2003 1750](https://fedlex.data.admin.ch/eli/fga/2003/226)[1779](https://fedlex.data.admin.ch/eli/fga/2003/228)).
+[^126-2]: Introduit par le ch. I de la LF du 23 juin 1989 ([RO 1989 2449](https://fedlex.data.admin.ch/eli/oc/1989/2449_2449_2449); [FF 1985 II 1021](https://fedlex.data.admin.ch/eli/fga/1985/2_1009_1021_901)). Nouvelle teneur selon le ch. I de la LF du 3 oct. 2003 (Poursuite des infractions entre conjoints ou partenaires), en vigueur depuis le 1<sup>er</sup> avr. 2004 ([RO 2004 1403](https://fedlex.data.admin.ch/eli/oc/2004/176); [FF 2003 1750](https://fedlex.data.admin.ch/eli/fga/2003/226), [1779](https://fedlex.data.admin.ch/eli/fga/2003/228)).
 
 ### 4. Mise en danger de la vie ou de la santé d’autrui
 
@@ -2415,7 +2415,7 @@ Celui qui, sans scrupules, aura mis autrui en danger de mort imminent sera puni 
 
 [^130132-1]
 
-[^130132-1]: Abrogés parle ch. I de la LF du 23 juin 1989, avec effet au 1<sup>er</sup> janv. 1990 ([RO 1989 2449](https://fedlex.data.admin.ch/eli/oc/1989/2449_2449_2449); [FF 19851 II 1021](https://fedlex.data.admin.ch/eli/fga/19851/II 1021)).
+[^130132-1]: Abrogés parle ch. I de la LF du 23 juin 1989, avec effet au 1<sup>er</sup> janv. 1990 ([RO 1989 2449](https://fedlex.data.admin.ch/eli/oc/1989/2449_2449_2449); [FF 1985 II 1021](https://fedlex.data.admin.ch/eli/fga/1985/2_1009_1021_901)).
 
 ### Rixe
 
@@ -2467,9 +2467,9 @@ Celui qui aura participé à une agression dirigée contre une ou plusieurs pers
 
 Quiconque aura remis à un enfant de moins de seize ans ou aura mis à sa disposition des boissons alcooliques ou d’autres substances dans des quantités pouvant mettre en danger sa santé sera puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
 
-[^136-1]: Nouvelle teneur selon le ch. II de la LF du 20 mars 2008, en vigueur depuis le 1<sup>er</sup> juil. 2011 ([RO 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 8141](https://fedlex.data.admin.ch/eli/fga/2006/1086)[8211](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
+[^136-1]: Nouvelle teneur selon le ch. II de la LF du 20 mars 2008, en vigueur depuis le 1<sup>er</sup> juil. 2011 ([RO 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352); [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [FF 2006 8141](https://fedlex.data.admin.ch/eli/fga/2006/1086), [8211](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
 
-### Titre 2**** Infractions contre le patrimoine
+### Titre 2 Infractions contre le patrimoine
 
 [^book2-tit2-1]
 
@@ -2714,7 +2714,7 @@ Celui qui aura déterminé une autorité chargée du registre du commerce à pro
 
 #### Art. 154
 
-Abrogé
+*Abrogé*
 
 ### Falsification de marchandises
 
@@ -2954,7 +2954,7 @@ sera puni d’une peine privative de liberté de trois ans au plus ou d’une pe
 
 <sup>2</sup> Cette disposition n’est pas applicable au vol qualifié (art. 139, ch. 2 et 3), au brigandage ainsi qu’à l’extorsion et au chantage.
 
-### Titre 3 Infractions contre l’honneur et contre le domaine secret ou le domaine privé****
+### Titre 3 Infractions contre l’honneur et contre le domaine secret ou le domaine privé
 
 [^book2-tit3-1]
 
@@ -3036,7 +3036,7 @@ sera, sur plainte, puni d’une peine privative de liberté de trois ans au plus
 
 <sup>2</sup> L’art. 31 est applicable en ce qui concerne la plainte.[^178-2]
 
-[^178-1]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2002 (Prescription de l’action pénale), en vigueur depuis le 1<sup>er</sup> oct. 2002 ([RO 2002 2986](https://fedlex.data.admin.ch/eli/oc/2002/428); [FF 2002 2512](https://fedlex.data.admin.ch/eli/fga/2002/342)[1579](https://fedlex.data.admin.ch/eli/fga/2002/204)).
+[^178-1]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2002 (Prescription de l’action pénale), en vigueur depuis le 1<sup>er</sup> oct. 2002 ([RO 2002 2986](https://fedlex.data.admin.ch/eli/oc/2002/428); [FF 2002 2512](https://fedlex.data.admin.ch/eli/fga/2002/342), [1579](https://fedlex.data.admin.ch/eli/fga/2002/204)).
 [^178-2]: Nouvelle teneur selon le ch. II 2 de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
 
 ### 2. Infractions contre le domaine secret ou le domaine privé
@@ -3117,7 +3117,7 @@ N’est pas punissable en vertu des art. 179<sup>bis</sup>, al. 1, et 179<sup>te
 
 <sup>2</sup> Les art. 179<sup>bis</sup>, al. 2 et 3, et 179<sup>ter</sup>, al. 2, s’appliquent par analogie à l’utilisation des enregistrements.
 
-[^179quinquies-1]: Introduit par le ch. I de la LF du 20 déc. 1968 ([RO 1969 327](https://fedlex.data.admin.ch/eli/oc/1969/319_327_327); [FF 1968 I 609](https://fedlex.data.admin.ch/eli/fga/1968/1_585_609_427)). Nouvelle teneur selon le ch. I de la LF du 3 oct. 2003, en vigueur depuis le 1<sup>er</sup> mars 2004 ([RO 2004 823](https://fedlex.data.admin.ch/eli/oc/2004/92); [FF 2001 2502](https://fedlex.data.admin.ch/eli/fga/2001/528)[5556](https://fedlex.data.admin.ch/eli/fga/2001/920)).
+[^179quinquies-1]: Introduit par le ch. I de la LF du 20 déc. 1968 ([RO 1969 327](https://fedlex.data.admin.ch/eli/oc/1969/319_327_327); [FF 1968 I 609](https://fedlex.data.admin.ch/eli/fga/1968/1_585_609_427)). Nouvelle teneur selon le ch. I de la LF du 3 oct. 2003, en vigueur depuis le 1<sup>er</sup> mars 2004 ([RO 2004 823](https://fedlex.data.admin.ch/eli/oc/2004/92); [FF 2001 2502](https://fedlex.data.admin.ch/eli/fga/2001/528), [5556](https://fedlex.data.admin.ch/eli/fga/2001/920)).
 [^179quinquies-2]: Rectifié par la CdR de l’Ass. féd. (art. 33 LREC; [RO 1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)).
 
 ### Mise en circulation et réclame en faveur d’appareils d’écoute, de prise de son et de prise de vues
@@ -3157,7 +3157,7 @@ Celui qui, par méchanceté ou par espièglerie, aura utilisé abusivement une i
 <sup>2</sup> Les conditions de la surveillance de la correspondance par poste et télécommunication et la procédure sont régies par la loi fédérale du 6 octobre 2000 sur la surveillance de la correspondance par poste et télécommunication[^179octies-2].
 
 [^179octies-1]: Introduit par le ch. VII de la LF du 23 mars 1979 sur la protection de la vie privée ([RO 1979 1170](https://fedlex.data.admin.ch/eli/oc/1979/1170_1170_1170); [FF 1976 I 521](https://fedlex.data.admin.ch/eli/fga/1976/1__521_)II 1529). Nouvelle teneur selon l’annexe ch. 1 de la LF du 6 oct. 2000 sur la surveillance de la correspondance par poste et télécommunication, en vigueur depuis le 1<sup>er</sup> janv. 2002 ([RO 2001 3096](https://fedlex.data.admin.ch/eli/oc/2001/467); FF **1998** 3689).
-[^179octies-2]: [[RO 2001 3096](https://fedlex.data.admin.ch/eli/oc/2001/467), [2003 3043](https://fedlex.data.admin.ch/eli/oc/2003/417)ch. I 2, [2004 3693](https://fedlex.data.admin.ch/eli/oc/2004/511), [2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165)annexe ch. 3, [2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267)anexe [1](https://fedlex.data.admin.ch/eli/oc/2010/1)ch. II 26 [3267](https://fedlex.data.admin.ch/eli/oc/2010/444)annexe ch. II 14, **2017** 40195 annexe ch. II 12. [RO 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31)annexe ch. I]. Voir actuellement la LF du 18 mars 2016 ([RS 780.1](https://fedlex.data.admin.ch/eli/cc/2018/31)).
+[^179octies-2]: [[RO 2001 3096](https://fedlex.data.admin.ch/eli/oc/2001/467); [2003 3043](https://fedlex.data.admin.ch/eli/oc/2003/417)ch. I 2, [2004 3693](https://fedlex.data.admin.ch/eli/oc/2004/511); [2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165)annexe ch. 3, [2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267)anexe [1](https://fedlex.data.admin.ch/eli/oc/2010/1)ch. II 26 [3267](https://fedlex.data.admin.ch/eli/oc/2010/444)annexe ch. II 14, **2017** 40195 annexe ch. II 12. [RO 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31)annexe ch. I]. Voir actuellement la LF du 18 mars 2016 ([RS 780.1](https://fedlex.data.admin.ch/eli/cc/2018/31)).
 
 ### Soustraction de données personnelles
 
@@ -3186,7 +3186,7 @@ La poursuite aura lieu d’office:
 - b. si l’auteur est le partenaire hétérosexuel ou homosexuel de la victime pour autant qu’ils fassent ménage commun pour une durée indéterminée et que la menace ait été commise durant cette période ou dans l’année qui a suivi la séparation.[^180-2]
 
 [^180-1]: Introduite par l’annexe ch. 18 de la LF du 18 juin 2004 sur le partenariat, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1192](https://fedlex.data.admin.ch/eli/fga/2003/194)).
-[^180-2]: Introduit par le ch. I de la LF du 3 oct. 2003 (Poursuite des infractions entre conjoints ou partenaires), en vigueur depuis le 1<sup>er</sup> avr. 2004 ([RO 2004 1403](https://fedlex.data.admin.ch/eli/oc/2004/176); [FF 2003 1750](https://fedlex.data.admin.ch/eli/fga/2003/226)[1779](https://fedlex.data.admin.ch/eli/fga/2003/228)).
+[^180-2]: Introduit par le ch. I de la LF du 3 oct. 2003 (Poursuite des infractions entre conjoints ou partenaires), en vigueur depuis le 1<sup>er</sup> avr. 2004 ([RO 2004 1403](https://fedlex.data.admin.ch/eli/oc/2004/176); [FF 2003 1750](https://fedlex.data.admin.ch/eli/fga/2003/226), [1779](https://fedlex.data.admin.ch/eli/fga/2003/228)).
 
 ### Contrainte
 
@@ -3303,7 +3303,7 @@ Est puni d’une peine privative de liberté d’un an au moins quiconque, dans 
 
 Celui qui, d’une manière illicite et contre la volonté de l’ayant droit, aura pénétré dans une maison, dans une habitation, dans un local fermé faisant partie d’une maison, dans un espace, cour ou jardin clos et attenant à une maison, ou dans un chantier, ou y sera demeuré au mépris de l’injonction de sortir à lui adressée par un ayant droit sera, sur plainte, puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
 
-### Titre 5**** Infractions contre l’intégrité sexuelle
+### Titre 5 Infractions contre l’intégrité sexuelle
 
 [^book2-tit5-1]
 
@@ -3334,8 +3334,8 @@ sera puni d’une peine privative de liberté de cinq ans au plus ou d’une pei
 <sup>6.</sup> ...[^187-3]
 
 [^187-1]: Nouvelle teneur selon le ch. I 1 de la LF du 13 déc. 2013 sur l’interdiction d’exercer une activité, l’interdiction de contact et l’interdiction géographique, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355);[FF 2012 8151](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
-[^187-2]: Abrogé par le ch. I de la LF du 21 mars 1997, avec effet au 1<sup>er</sup> sept. 1997 ([RO 1997 1626](https://fedlex.data.admin.ch/eli/oc/1997/1626_1626_1626); [FF 1996 IV 1315](https://fedlex.data.admin.ch/eli/fga/1996/4_1318_1315_1135)1320)
-[^187-3]: Introduit par le ch. I de la LF du 21 mars 1997 ([RO 1997 1626](https://fedlex.data.admin.ch/eli/oc/1997/1626_1626_1626); [FF 1996 IV 1315](https://fedlex.data.admin.ch/eli/fga/1996/4_1318_1315_1135)1320). Abrogé par le ch. I de la LF du 5 oct. 2001 (Prescription de l’action pénale en général et en cas d’infraction contre l’intégrité sexuelle des enfants), avec effet au 1<sup>er</sup> oct. 2002 ([RO 2002 2993](https://fedlex.data.admin.ch/eli/oc/2002/430); [FF 2000 2769](https://fedlex.data.admin.ch/eli/fga/2000/612)).
+[^187-2]: Abrogé par le ch. I de la LF du 21 mars 1997, avec effet au 1<sup>er</sup> sept. 1997 ([RO 1997 1626](https://fedlex.data.admin.ch/eli/oc/1997/1626_1626_1626); [FF 1996 IV 1315](https://fedlex.data.admin.ch/eli/fga/1996/4_1318_1315_1135), 1320)
+[^187-3]: Introduit par le ch. I de la LF du 21 mars 1997 ([RO 1997 1626](https://fedlex.data.admin.ch/eli/oc/1997/1626_1626_1626); [FF 1996 IV 1315](https://fedlex.data.admin.ch/eli/fga/1996/4_1318_1315_1135), 1320). Abrogé par le ch. I de la LF du 5 oct. 2001 (Prescription de l’action pénale en général et en cas d’infraction contre l’intégrité sexuelle des enfants), avec effet au 1<sup>er</sup> oct. 2002 ([RO 2002 2993](https://fedlex.data.admin.ch/eli/oc/2002/430); [FF 2000 2769](https://fedlex.data.admin.ch/eli/fga/2000/612)).
 
 ### Actes d’ordre sexuel avec des personnes dépendantes
 
@@ -3363,8 +3363,8 @@ sera puni d’une peine privative de liberté de trois ans au plus ou d’une pe
 
 <sup>3</sup> Si l’auteur a agi avec cruauté, notamment s’il a fait usage d’une arme dangereuse ou d’un autre objet dangereux, la peine sera la peine privative de liberté de trois ans au moins.[^189-2]
 
-[^189-1]: Abrogé par le ch. I de la LF du 3 oct. 2003 (Poursuite des infractions entre conjoints ou partenaires), avec effet au 1<sup>er</sup> avr. 2004 ([RO 2004 1403](https://fedlex.data.admin.ch/eli/oc/2004/176); [FF 2003 1750](https://fedlex.data.admin.ch/eli/fga/2003/226)[1779](https://fedlex.data.admin.ch/eli/fga/2003/228)).
-[^189-2]: Nouvelle teneur selon le ch. I de la LF du 3 oct. 2003 (Poursuite des infractions entre conjoints ou partenaires), en vigueur depuis le 1<sup>er</sup> avr. 2004 ([RO 2004 1403](https://fedlex.data.admin.ch/eli/oc/2004/176); [FF 2003 1750](https://fedlex.data.admin.ch/eli/fga/2003/226)[1779](https://fedlex.data.admin.ch/eli/fga/2003/228)).
+[^189-1]: Abrogé par le ch. I de la LF du 3 oct. 2003 (Poursuite des infractions entre conjoints ou partenaires), avec effet au 1<sup>er</sup> avr. 2004 ([RO 2004 1403](https://fedlex.data.admin.ch/eli/oc/2004/176); [FF 2003 1750](https://fedlex.data.admin.ch/eli/fga/2003/226), [1779](https://fedlex.data.admin.ch/eli/fga/2003/228)).
+[^189-2]: Nouvelle teneur selon le ch. I de la LF du 3 oct. 2003 (Poursuite des infractions entre conjoints ou partenaires), en vigueur depuis le 1<sup>er</sup> avr. 2004 ([RO 2004 1403](https://fedlex.data.admin.ch/eli/oc/2004/176); [FF 2003 1750](https://fedlex.data.admin.ch/eli/fga/2003/226), [1779](https://fedlex.data.admin.ch/eli/fga/2003/228)).
 
 ### Viol
 
@@ -3376,8 +3376,8 @@ sera puni d’une peine privative de liberté de trois ans au plus ou d’une pe
 
 <sup>3</sup> Si l’auteur a agi avec cruauté, notamment s’il a fait usage d’une arme dangereuse ou d’un autre objet dangereux, la peine sera la peine privative de liberté de trois ans au moins.[^190-2]
 
-[^190-1]: Abrogé par le ch. I de la LF du 3 oct. 2003 (Poursuite des infractions entre conjoints ou partenaires), avec effet au 1<sup>er</sup> avr. 2004 ([RO 2004 1403](https://fedlex.data.admin.ch/eli/oc/2004/176); [FF 2003 1750](https://fedlex.data.admin.ch/eli/fga/2003/226)[1779](https://fedlex.data.admin.ch/eli/fga/2003/228)).
-[^190-2]: Nouvelle teneur selon le ch. I de la LF du 3 oct. 2003 (Poursuite des infractions entre conjoints ou partenaires), en vigueur depuis le 1<sup>er</sup> avr. 2004 ([RO 2004 1403](https://fedlex.data.admin.ch/eli/oc/2004/176); [FF 2003 1750](https://fedlex.data.admin.ch/eli/fga/2003/226)[1779](https://fedlex.data.admin.ch/eli/fga/2003/228)).
+[^190-1]: Abrogé par le ch. I de la LF du 3 oct. 2003 (Poursuite des infractions entre conjoints ou partenaires), avec effet au 1<sup>er</sup> avr. 2004 ([RO 2004 1403](https://fedlex.data.admin.ch/eli/oc/2004/176); [FF 2003 1750](https://fedlex.data.admin.ch/eli/fga/2003/226), [1779](https://fedlex.data.admin.ch/eli/fga/2003/228)).
+[^190-2]: Nouvelle teneur selon le ch. I de la LF du 3 oct. 2003 (Poursuite des infractions entre conjoints ou partenaires), en vigueur depuis le 1<sup>er</sup> avr. 2004 ([RO 2004 1403](https://fedlex.data.admin.ch/eli/oc/2004/176); [FF 2003 1750](https://fedlex.data.admin.ch/eli/fga/2003/226), [1779](https://fedlex.data.admin.ch/eli/fga/2003/228)).
 
 ### Actes d’ordre sexuel commis sur une personne incapable de discernement ou de résistance
 
@@ -4093,7 +4093,7 @@ Est puni d’une peine privative de liberté de cinq ans au plus ou d’une pein
 <sup>3</sup> Est également punissable celui qui commet les actes préparatoires à l’étranger lorsque les infractions doivent être commises en Suisse. L’art. 3, al. 2, est applicable.[^260bis-5]
 
 [^260bis-1]: Introduit par le ch. I de la LF du 9 oct. 1981, en vigueur depuis le 1<sup>er</sup> oct. 1982 ([RO 1982 1530](https://fedlex.data.admin.ch/eli/oc/1982/1530_1530_1530); [FF 1980 I 1216](https://fedlex.data.admin.ch/eli/fga/1980/1_1241_1216_1032)).
-[^260bis-2]: Introduite par le ch. I de la LF du 30 sept. 2011, en vigueur depuis le 1<sup>er</sup> juil. 2012 ([RO 2012 2575](https://fedlex.data.admin.ch/eli/oc/2012/310); [FF 2010 5125](https://fedlex.data.admin.ch/eli/fga/2010/992)[5151](https://fedlex.data.admin.ch/eli/fga/2010/994)).
+[^260bis-2]: Introduite par le ch. I de la LF du 30 sept. 2011, en vigueur depuis le 1<sup>er</sup> juil. 2012 ([RO 2012 2575](https://fedlex.data.admin.ch/eli/oc/2012/310); [FF 2010 5125](https://fedlex.data.admin.ch/eli/fga/2010/992), [5151](https://fedlex.data.admin.ch/eli/fga/2010/994)).
 [^260bis-3]: Introduite par l’annexe 2 ch. 1 de l’AF du 18 déc. 2015 portant approbation et mise en œuvre de la Convention internationale pour la protection de toutes les personnes contre les disparitions forcées, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4687](https://fedlex.data.admin.ch/eli/oc/2016/756); [FF 2014 437](https://fedlex.data.admin.ch/eli/fga/2014/95)).
 [^260bis-4]: Nouvelle teneur selon le ch. I 1 de la LF du 18 juin 2010 (Statut de Rome de la Cour pénale internationale), en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [FF 2008 3461](https://fedlex.data.admin.ch/eli/fga/2008/807)).
 [^260bis-5]: Nouvelle teneur de la phrase selon le ch. II 2 de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
@@ -4207,7 +4207,7 @@ quiconque refuse à une personne ou à un groupe de personnes, en raison de leur
 
 est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
 
-[^261bis-1]: Introduit par l’art. 1 de la LF du 18 juin 1993 ([RO 1994 2887](https://fedlex.data.admin.ch/eli/oc/1994/2887_2887_2887); [FF 1992 III 265](https://fedlex.data.admin.ch/eli/fga/1992/3_269_265_217)). Nouvelle teneur selon le ch. I 1 de la LF du 14 déc. 2018 (Discrimination et incitation à la haine en raison de l’orientation sexuelle), en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 1609](https://fedlex.data.admin.ch/eli/oc/2020/329); [FF 2018 3897](https://fedlex.data.admin.ch/eli/fga/2018/1411)[5327](https://fedlex.data.admin.ch/eli/fga/2018/1916)).
+[^261bis-1]: Introduit par l’art. 1 de la LF du 18 juin 1993 ([RO 1994 2887](https://fedlex.data.admin.ch/eli/oc/1994/2887_2887_2887); [FF 1992 III 265](https://fedlex.data.admin.ch/eli/fga/1992/3_269_265_217)). Nouvelle teneur selon le ch. I 1 de la LF du 14 déc. 2018 (Discrimination et incitation à la haine en raison de l’orientation sexuelle), en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 1609](https://fedlex.data.admin.ch/eli/oc/2020/329); [FF 2018 3897](https://fedlex.data.admin.ch/eli/fga/2018/1411), [5327](https://fedlex.data.admin.ch/eli/fga/2018/1916)).
 
 ### Atteinte à la paix des morts
 
@@ -4234,7 +4234,7 @@ sera puni d’une peine privative de liberté de trois ans au plus ou d’une pe
 [^263-1]: Nouvelle teneur de la peine selon le ch. II 1 de la LF du 19 juin 2015 (Réforme du droit des sanctions), en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4385](https://fedlex.data.admin.ch/eli/fga/2012/670)).
 [^263-2]: Nouvelle teneur selon le ch. II 1 al. 16 de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
 
-### Titre 12<sup>bis</sup> **** Génocide et crimes contre l’humanité
+### Titre 12<sup>bis</sup> Génocide et crimes contre l’humanité
 
 [^book2-tit12bis-1]
 
@@ -4300,7 +4300,7 @@ Est puni d’une peine privative de liberté de cinq ans au moins quiconque, dan
 
 <sup>3</sup> Dans les cas de moindre gravité relevant de l’al. 1, let. c à j, le juge peut prononcer une peine privative de liberté d’un an au moins.
 
-### Titre 12<sup>ter</sup>**** Crimes de guerre
+### Titre 12<sup>ter</sup> Crimes de guerre
 
 [^book2-tit12ter-1]
 
@@ -4437,7 +4437,7 @@ Est puni d’une peine privative de liberté de trois ans au plus ou d’une pei
 
 Quiconque, dans le contexte d’un conflit armé, enfreint, d’une manière qui n’est pas réprimée par les art. 264*c* à 264*i*, une norme du droit international humanitaire dont la violation est punissable en vertu du droit international coutumier ou d’une convention internationale reconnue comme contraignante par la Suisse est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
 
-### Titre 12<sup>quater</sup>**** Dispositions communes aux titres 12<sup>bis</sup> et 12<sup>ter</sup>
+### Titre 12<sup>quater</sup> Dispositions communes aux titres 12<sup>bis</sup> et 12<sup>ter</sup>
 
 [^book2-tit12quater-1]
 
@@ -4561,11 +4561,10 @@ sera puni d’une peine privative de liberté d’un an au moins.
 
 <sup>2.</sup> Celui qui, intentionnellement, aura révélé ou rendu accessible au public un secret que l’intérêt de la Confédération commandait de garder, sera puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire.[^267-2]
 
-<sup>3.</sup> La peine sera une peine privative de liberté de trois ans au plus ou une peine pécuniaire si le délinquant a agi par négligence.[^267-3]
+<sup>3.</sup> La peine sera une peine privative de liberté de trois ans au plus ou
 
 [^267-1]: Nouvelle teneur selon le ch. I de la LF du 10 oct. 1997, en vigueur depuis le 1<sup>er</sup> avr. 1998 ([RO 1998 852](https://fedlex.data.admin.ch/eli/oc/1998/852_852_852); [FF 1996 IV 533](https://fedlex.data.admin.ch/eli/fga/1996/4_525_533_449)).
 [^267-2]: Introduit par le ch. I de la LF du 10 oct. 1997, en vigueur depuis le 1<sup>er</sup> avr. 1998 ([RO 1998 852](https://fedlex.data.admin.ch/eli/oc/1998/852_852_852); [FF 1996 IV 533](https://fedlex.data.admin.ch/eli/fga/1996/4_525_533_449)).
-[^267-3]: Anciennement ch. 2.
 
 ### Déplacement de bornes officielles
 
@@ -4819,9 +4818,9 @@ Ceux d’entre eux qui auront commis des violences contre les personnes ou les p
 
 [^285-1]: [RS 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
 [^285-2]: [RS 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
-[^285-3]: [[RO 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679)[6019](https://fedlex.data.admin.ch/eli/oc/2009/737), [2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375). [RO 2016 1845](https://fedlex.data.admin.ch/eli/oc/2016/328)annexe ch. I 1]. Voir actuellement la LF du 25 sept. 2015 ([RS 742.41](https://fedlex.data.admin.ch/eli/cc/2016/328)).
+[^285-3]: [[RO 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679), [6019](https://fedlex.data.admin.ch/eli/oc/2009/737); [2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656); [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375). [RO 2016 1845](https://fedlex.data.admin.ch/eli/oc/2016/328)annexe ch. I 1]. Voir actuellement la LF du 25 sept. 2015 ([RS 742.41](https://fedlex.data.admin.ch/eli/cc/2016/328)).
 [^285-4]: [RS 745.2](https://fedlex.data.admin.ch/eli/cc/2011/565)
-[^285-5]: Nouvelle teneur du par. selon l’art. 11 al. 2 de la LF du 18 juin 2010 sur les organes de sécurité des entreprises de transports publics, en vigueur depuis le 1<sup>er</sup> oct. 2011 ([RO 2011 3961](https://fedlex.data.admin.ch/eli/oc/2011/565); [FF 2010 821](https://fedlex.data.admin.ch/eli/fga/2010/156)[845](https://fedlex.data.admin.ch/eli/fga/2010/158))
+[^285-5]: Nouvelle teneur du par. selon l’art. 11 al. 2 de la LF du 18 juin 2010 sur les organes de sécurité des entreprises de transports publics, en vigueur depuis le 1<sup>er</sup> oct. 2011 ([RO 2011 3961](https://fedlex.data.admin.ch/eli/oc/2011/565); [FF 2010 821](https://fedlex.data.admin.ch/eli/fga/2010/156), [845](https://fedlex.data.admin.ch/eli/fga/2010/158)).
 [^285-6]: Nouvelle teneur selon le ch. II 5 de la LF du 20 mars 2009 sur la réforme des chemins de fer 2, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [FF 2005 2269](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2517](https://fedlex.data.admin.ch/eli/fga/2007/425)).
 [^285-7]: Nouvelle teneur du membre de phrase selon le ch. II 1 al. 16 de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
 
@@ -4835,12 +4834,12 @@ Celui qui aura empêché une autorité, un membre d’une autorité ou un foncti
 
 Les employés des entreprises définies par la loi du 20 décembre 1957 sur les chemins de fer[^286-2], la loi du 20 mars 2009 sur le transport de voyageurs[^286-3] et la loi du 19 décembre 2008 sur le transport ferroviaire de marchandises[^286-4] ainsi que les employés des organisations mandatées conformément à la loi fédérale du 18 juin 2010 sur les organes de sécurité des entreprises de transports publics[^286-5] et pourvues d’une autorisation de l’Office fédéral des transports sont également considérés comme des fonctionnaires. [^286-6]
 
-[^286-1]: Nouvelle teneur selon le ch. II 5 de la LF du 20 mars 2009 sur la réforme des chemins de fer 2, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [FF 2005 2269](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2517](https://fedlex.data.admin.ch/eli/fga/2007/425)).
+[^286-1]: Nouvelle teneur selon le ch. II 5 de la LF du 20 mars 2009 sur la réforme des chemins de fer 2, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [FF 2005 2269](https://fedlex.data.admin.ch/eli/fga/2005/325); [2007 2517](https://fedlex.data.admin.ch/eli/fga/2007/425)).
 [^286-2]: [RS 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
 [^286-3]: [RS 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
-[^286-4]: [[RO 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679)[6019](https://fedlex.data.admin.ch/eli/oc/2009/737), [2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375). [RO 2016 1845](https://fedlex.data.admin.ch/eli/oc/2016/328)annexe ch. I 1]. Voir actuellement la LF du 25 sept. 2015 ([RS 742.41](https://fedlex.data.admin.ch/eli/cc/2016/328)).
+[^286-4]: [[RO 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679), [6019](https://fedlex.data.admin.ch/eli/oc/2009/737); [2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656); [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375). [RO 2016 1845](https://fedlex.data.admin.ch/eli/oc/2016/328)annexe ch. I 1]. Voir actuellement la LF du 25 sept. 2015 ([RS 742.41](https://fedlex.data.admin.ch/eli/cc/2016/328)).
 [^286-5]: [RS 745.2](https://fedlex.data.admin.ch/eli/cc/2011/565)
-[^286-6]: Nouvelle teneur selon l’art. 11 al. 2 de la LF du 18 juin 2010 sur les organes de sécurité des entreprises de transports publics, en vigueur depuis le 1<sup>er</sup> oct. 2011 ([RO 2011 3961](https://fedlex.data.admin.ch/eli/oc/2011/565); [FF 2010 821](https://fedlex.data.admin.ch/eli/fga/2010/156)[845](https://fedlex.data.admin.ch/eli/fga/2010/158))
+[^286-6]: Nouvelle teneur selon l’art. 11 al. 2 de la LF du 18 juin 2010 sur les organes de sécurité des entreprises de transports publics, en vigueur depuis le 1<sup>er</sup> oct. 2011 ([RO 2011 3961](https://fedlex.data.admin.ch/eli/oc/2011/565); [FF 2010 821](https://fedlex.data.admin.ch/eli/fga/2010/156), [845](https://fedlex.data.admin.ch/eli/fga/2010/158))
 
 ### Usurpation de fonctions
 
@@ -4890,8 +4889,8 @@ Celui qui ne se sera pas conformé à une décision à lui signifiée, sous la m
 
 <sup>3</sup> L’acte n’est pas punissable si aucun intérêt public ou privé prépondérant ne s’opposait à la publication.[^293-2]
 
-[^293-1]: Nouvelle teneur selon le ch. I de la LF du 16 juin 2017 (Publication de débats officiels secrets), en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 567](https://fedlex.data.admin.ch/eli/oc/2018/76); [FF 2016 7105](https://fedlex.data.admin.ch/eli/fga/2016/1580)[7359](https://fedlex.data.admin.ch/eli/fga/2016/1624)).
-[^293-2]: Introduit par le ch. I de la LF du 10 oct. 1997 ([RO 1998 852](https://fedlex.data.admin.ch/eli/oc/1998/852_852_852); [FF 1996 IV 533](https://fedlex.data.admin.ch/eli/fga/1996/4_525_533_449)). Nouvelle teneur selon le ch. I de la LF du 16 juin 2017 (Publication de débats officiels secrets), en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 567](https://fedlex.data.admin.ch/eli/oc/2018/76); [FF 2016 7105](https://fedlex.data.admin.ch/eli/fga/2016/1580)[7359](https://fedlex.data.admin.ch/eli/fga/2016/1624)).
+[^293-1]: Nouvelle teneur selon le ch. I de la LF du 16 juin 2017 (Publication de débats officiels secrets), en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 567](https://fedlex.data.admin.ch/eli/oc/2018/76); [FF 2016 7105](https://fedlex.data.admin.ch/eli/fga/2016/1580), [7359](https://fedlex.data.admin.ch/eli/fga/2016/1624)).
+[^293-2]: Introduit par le ch. I de la LF du 10 oct. 1997 ([RO 1998 852](https://fedlex.data.admin.ch/eli/oc/1998/852_852_852); [FF 1996 IV 533](https://fedlex.data.admin.ch/eli/fga/1996/4_525_533_449)). Nouvelle teneur selon le ch. I de la LF du 16 juin 2017 (Publication de débats officiels secrets), en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 567](https://fedlex.data.admin.ch/eli/oc/2018/76); [FF 2016 7105](https://fedlex.data.admin.ch/eli/fga/2016/1580), [7359](https://fedlex.data.admin.ch/eli/fga/2016/1624)).
 
 ### Infraction à l’interdiction d’exercer une activité, à l’interdiction de contact ou à l’interdiction géographique
 
@@ -4992,7 +4991,7 @@ sera puni d’une peine privative de liberté de trois ans au plus ou d’une pe
 <sup>3</sup> Dans les cas prévus aux art. 296 et 297, l’action pénale se prescrit par deux ans.[^302-2]
 
 [^302-1]: Nouvelle teneur selon le ch. I de la LF du 5 oct. 1950, en vigueur depuis le 5 janv. 1951 ([RO 1951 1](https://fedlex.data.admin.ch/eli/oc/1951/1_1_1); [FF 1949 I 1233](https://fedlex.data.admin.ch/eli/fga/1949/1_1249_1233_613)).
-[^302-2]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2002 (Prescription de l’action pénale), en vigueur depuis le 1<sup>er</sup> oct. 2002 ([RO 2002 2986](https://fedlex.data.admin.ch/eli/oc/2002/428); [FF 2002 2512](https://fedlex.data.admin.ch/eli/fga/2002/342)[1579](https://fedlex.data.admin.ch/eli/fga/2002/204)).
+[^302-2]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2002 (Prescription de l’action pénale), en vigueur depuis le 1<sup>er</sup> oct. 2002 ([RO 2002 2986](https://fedlex.data.admin.ch/eli/oc/2002/428); [FF 2002 2512](https://fedlex.data.admin.ch/eli/fga/2002/342), [1579](https://fedlex.data.admin.ch/eli/fga/2002/204)).
 
 ### Titre 17 Crimes ou délits contre l’administration de la justice
 
@@ -5222,7 +5221,7 @@ seront punis d’une peine privative de liberté de cinq ans au plus ou d’une 
 
 <sup>3</sup> Celui qui fabrique, modifie ou utilise des titres en exécution de la loi fédérale du 23 décembre 2011 sur la protection extraprocédurale des témoins[^317bis-5] n’est pas punissable en vertu des art. 251, 252, 255 et 317.[^317bis-6]
 
-[^317bis-1]: Introduit par l’art. 24 ch. 1 de la LF du 20 juin 2003 sur l’investigation secrète ([RO 2004 1409](https://fedlex.data.admin.ch/eli/oc/2004/177); FF **1998** 3689). Nouvelle teneur selon l’annexe ch. 3 de la LF du 23 déc. 2011, en vigueur depuis le 16 juil. 2012 ([RO 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [FF 2007 4773](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 7147](https://fedlex.data.admin.ch/eli/fga/2010/1444)).
+[^317bis-1]: Introduit par l’art. 24 ch. 1 de la LF du 20 juin 2003 sur l’investigation secrète ([RO 2004 1409](https://fedlex.data.admin.ch/eli/oc/2004/177); FF **1998** 3689). Nouvelle teneur selon l’annexe ch. 3 de la LF du 23 déc. 2011, en vigueur depuis le 16 juil. 2012 ([RO 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [FF 2007 4773](https://fedlex.data.admin.ch/eli/fga/2007/729); [2010 7147](https://fedlex.data.admin.ch/eli/fga/2010/1444)).
 [^317bis-2]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
 [^317bis-3]: Nouvelle teneur selon l’annexe ch. II 2 de l’AF du 25 sept. 2020 portant approbation et mise en œuvre de la Convention du Conseil de l’Europe pour la prévention du terrorisme et de son Protocole additionnel et concernant le renforcement des normes pénales contre le terrorisme et le crime organisé, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [FF 2018 6469](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 [^317bis-4]: Nouvelle teneur selon l’annexe ch. II 5 de la LF du 25 sept. 2017 sur le renseignement, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 2029](https://fedlex.data.admin.ch/eli/fga/2014/407)).
@@ -5333,7 +5332,7 @@ La personne responsable au sens de l’art. 28, al. 2 et 3, d’une publication 
 [^322bis-3]: Nouvelle du membre de phrase selon le ch. II 1 al. 16 de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
 [^322bis-4]: Nouvelle teneur de la phrase selon le ch. II 1 al. 16 de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
 
-### Titre 19**** Corruption
+### Titre 19 Corruption
 
 [^book2-tit19-1]
 
@@ -5436,7 +5435,7 @@ Ne constituent pas des avantages indus:
 
 [^322decies-1]: Introduit par le ch. I de la LF du 25 sept. 2015 (Dispositions pénales incriminant la corruption), en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1287](https://fedlex.data.admin.ch/eli/oc/2016/257); [FF 2014 3433](https://fedlex.data.admin.ch/eli/fga/2014/787)).
 
-### Titre 20**** Contraventions à des dispositions du droit fédéral
+### Titre 20 Contraventions à des dispositions du droit fédéral
 
 [^book2-tit20-1]
 
@@ -5591,7 +5590,7 @@ celui qui crée l’illusion qu’un sujet étranger non inscrit au registre du 
 
 est puni d’une amende[^326ter-2].
 
-[^326ter-1]: Introduit par le ch. I de la LF du 17 juin 1994 ([RO 1994 2290](https://fedlex.data.admin.ch/eli/oc/1994/2290_2290_2290); [FF 1991 II 933](https://fedlex.data.admin.ch/eli/fga/1991/2_969_933_797)). Nouvelle teneur selon l’annexe ch. 5 de la LF du 16 déc. 2005 (Droit de la société à responsabilité limitée; adaptation des droits de la société anonyme, de la société coopérative, du registre du commerce et des raisons de commerce), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2949](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3745](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^326ter-1]: Introduit par le ch. I de la LF du 17 juin 1994 ([RO 1994 2290](https://fedlex.data.admin.ch/eli/oc/1994/2290_2290_2290); [FF 1991 II 933](https://fedlex.data.admin.ch/eli/fga/1991/2_969_933_797)). Nouvelle teneur selon l’annexe ch. 5 de la LF du 16 déc. 2005 (Droit de la société à responsabilité limitée; adaptation des droits de la société anonyme, de la société coopérative, du registre du commerce et des raisons de commerce), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2949](https://fedlex.data.admin.ch/eli/fga/2002/443); [2004 3745](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 [^326ter-2]: Rectifié par la CdR de l’Ass. féd. (art. 58 al. 2 LParl; [RS [171.10](http://www.bk.admin.ch/ch/f/rs/c171_10.html)](https://fedlex.data.admin.ch/eli/cc/2003/510)).
 
 ### Faux renseignements émanant d’une institution de prévoyance en faveur du personnel
@@ -5678,10 +5677,10 @@ Celui qui aura porté d’une manière illicite l’uniforme de l’armée suiss
 
 Celui qui n’aura pas donné l’avis prescrit aux art. 720, al. 2, 720*a*, et 725, al. 1, du code civil suisse[^332-2], sera puni de l’amende.
 
-[^332-1]: Nouvelle teneur selon le ch. III de la LF du 4 oct. 2002 (Animaux), en vigueur depuis le 1<sup>er</sup> avr. 2003 ([RO 2003 463](https://fedlex.data.admin.ch/eli/oc/2003/100); [FF 2002 3885](https://fedlex.data.admin.ch/eli/fga/2002/591)[5418](https://fedlex.data.admin.ch/eli/fga/2002/895)).
+[^332-1]: Nouvelle teneur selon le ch. III de la LF du 4 oct. 2002 (Animaux), en vigueur depuis le 1<sup>er</sup> avr. 2003 ([RO 2003 463](https://fedlex.data.admin.ch/eli/oc/2003/100); [FF 2002 3885](https://fedlex.data.admin.ch/eli/fga/2002/591), [5418](https://fedlex.data.admin.ch/eli/fga/2002/895)).
 [^332-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 
-## Livre 3**** Entrée en vigueur et application du code pénal
+## Livre 3 Entrée en vigueur et application du code pénal
 
 [^book3-1]
 
@@ -5754,7 +5753,7 @@ Lorsqu’une prescription du droit fédéral renvoie à une disposition modifié
 
 [^339348-1]: Abrogé par l’annexe 1 ch. II 8 du CPP du 5 oct. 2007, avec effet au 1<sup>er</sup> janv. 2011 ([RO 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 
-### Titre 4 Entraide en matière de police****
+### Titre 4 Entraide en matière de police
 
 [^book3-tit4-1]
 
@@ -6013,9 +6012,10 @@ Les autorités suivantes peuvent comparer et traiter des données en vertu de l�
 - a. centre de calcul du Département fédéral de justice et police;
 - b. Office fédéral de la police;
 - c. postes frontière;
-- d. autorités de police des cantons.
+- d. autorités de police des cantons;
+- e.[^354-1] Secrétariat d’État aux migrations (SEM).
 
-<sup>3</sup> Les données personnelles se rapportant aux données signalétiques visées à l’al. 1 sont traitées dans des systèmes d’information séparés, à savoir les systèmes régis par la loi fédérale du 13 juin 2008 sur les systèmes d’information de police de la Confédération[^354-1], la loi fédérale du 26 juin 1998 sur l’asile[^354-2] et la loi fédérale du 16 décembre 2005 sur les étrangers[^354-3]. Le système d’information fondé sur les profils d’ADN est régi par la loi fédérale du 20 juin 2003 sur les profils d’ADN[^354-4].[^354-5]
+<sup>3</sup> Les données personnelles se rapportant aux données signalétiques visées à l’al. 1 sont traitées dans des systèmes d’information séparés, à savoir les systèmes régis par la loi fédérale du 13 juin 2008 sur les systèmes d’information de police de la Confédération[^354-2], la loi fédérale du 26 juin 1998 sur l’asile[^354-3] et la loi fédérale du 16 décembre 2005 sur les étrangers[^354-4]. Le système d’information fondé sur les profils d’ADN est régi par la loi fédérale du 20 juin 2003 sur les profils d’ADN[^354-5].[^354-6]
 
 <sup>4</sup>
 
@@ -6023,16 +6023,19 @@ Le Conseil fédéral:
 
 - a. règle les modalités, notamment la responsabilité en matière de traitement des données, les catégories de données saisies, la durée de conservation de ces données et la collaboration avec les cantons;
 - b. désigne les autorités qui peuvent introduire et consulter les données personnelles en ligne et les autorités auxquelles des données peuvent être communiquées cas par cas;
-- c. règle les droits de procédure des personnes concernées, notamment la consultation de leurs données ainsi que leur rectification, leur archivage et leur destruction.
+- c. règle les droits de procédure des personnes concernées, notamment la consultation de leurs données ainsi que leur rectification, leur archivage et leur destruction;
+- d.[^354-7] règle la transmission des données signalétiques par les autorités fédérales compétentes et les cantons.
 
-<sup>5</sup> Le SEM ou l’Office fédéral de la police (fedpol) peut transmettre de manière automatisée les données à la partie nationale du Système d’information Schengen (N-SIS) et au Système d’information Schengen (SIS) aux fins de signalements dans le SIS.[^354-6]
+<sup>5</sup> Le SEM ou l’Office fédéral de la police (fedpol) peut transmettre de manière automatisée les données à la partie nationale du Système d’information Schengen (N-SIS) et au Système d’information Schengen (SIS) aux fins de signalements dans le SIS.[^354-8]
 
-[^354-1]: [RS 361](https://fedlex.data.admin.ch/eli/cc/2008/698)
-[^354-2]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
-[^354-3]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^354-4]: [RS 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
-[^354-5]: Nouvelle teneur selon l’annexe 1 ch. 5 de la LF du 13 juin 2008 sur les systèmes d’information de police de la Confédération, en vigueur depuis le 5 déc. 2008 ([RO 2008 4989](https://fedlex.data.admin.ch/eli/oc/2008/698); [FF 2006 4819](https://fedlex.data.admin.ch/eli/fga/2006/611)).
-[^354-6]: Introduit par l’annexe 1 ch. 4 de l’AF du 18 déc. 2020 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des bases légales concernant l’établissement, le fonctionnement et l’utilisation du système d’information Schengen (SIS), en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [FF 2020 3361](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^354-1]: Introduite par l’annexe 1 ch. 4 de l’AF du 18 déc. 2020 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des bases légales concernant l’établissement, le fonctionnement et l’utilisation du système d’information Schengen (SIS), en vigueur depuis le 22 nov. 2022 ([RO 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 638](https://fedlex.data.admin.ch/eli/oc/2022/638); [FF 2020 3361](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^354-2]: [RS 361](https://fedlex.data.admin.ch/eli/cc/2008/698)
+[^354-3]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^354-4]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^354-5]: [RS 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
+[^354-6]: Nouvelle teneur selon l’annexe 1 ch. 5 de la LF du 13 juin 2008 sur les systèmes d’information de police de la Confédération, en vigueur depuis le 5 déc. 2008 ([RO 2008 4989](https://fedlex.data.admin.ch/eli/oc/2008/698); [FF 2006 4819](https://fedlex.data.admin.ch/eli/fga/2006/611)).
+[^354-7]: Introduite par l’annexe 1 ch. 4 de l’AF du 18 déc. 2020 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des bases légales concernant l’établissement, le fonctionnement et l’utilisation du système d’information Schengen (SIS), en vigueur depuis le 22 nov. 2022 ([RO 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 638](https://fedlex.data.admin.ch/eli/oc/2022/638); [FF 2020 3361](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^354-8]: Introduit par l’annexe 1 ch. 4 de l’AF du 18 déc. 2020 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des bases légales concernant l’établissement, le fonctionnement et l’utilisation du système d’information Schengen (SIS), en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [FF 2020 3361](https://fedlex.data.admin.ch/eli/fga/2020/794)).
 
 ### 4. ...
 
@@ -6054,7 +6057,7 @@ Le Conseil fédéral:
 
 [^355a-1]
 
-<sup>1</sup> L’Office fédéral de la police (fedpol) et le Service de renseignement de la Confédération (SRC) peuvent transmettre des données personnelles à l’Office européen de police (Europol), y compris des données sensibles et des profils de la personnalité.[^355a-2]
+<sup>1</sup> Fedpol et le Service de renseignement de la Confédération (SRC) peuvent transmettre des données personnelles à l’Office européen de police (Europol), y compris des données sensibles et des profils de la personnalité.[^355a-2]
 
 <sup>2</sup> La transmission de ces données est soumise notamment aux conditions prévues aux art. 3 et 10 à 13 de l’Accord du 24 septembre 2004 entre la Confédération suisse et l’Office européen de police[^355a-3].
 
@@ -6063,7 +6066,7 @@ Le Conseil fédéral:
 <sup>4</sup> Les échanges de données personnelles avec Europol sont assimilés à un échange avec une autorité compétente d’un État Schengen (art. 349*b*).[^355a-4]
 
 [^355a-1]: Introduit par l’art. 2 de l’AF du 7 oct. 2005 portant approbation et mise en œuvre de l’Ac. entre la Suisse et l’Office européen de police, en vigueur depuis le 1<sup>er</sup> avr. 2006 ([RO 2006 1017](https://fedlex.data.admin.ch/eli/oc/2006/180); [FF 2005 895](https://fedlex.data.admin.ch/eli/fga/2005/131)).
-[^355a-2]: Nouvelle teneur selon le ch. I 3 de l’O du 4 déc. 2009 concernant l’adaptation de disp. légales à la suite de la création du Service de renseignement de la Confédération, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 6921](https://fedlex.data.admin.ch/eli/oc/2009/846)).
+[^355a-2]: Nouvelle teneur selon l’annexe 1 ch. 4 de l’AF du 18 déc. 2020 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des bases légales concernant l’établissement, le fonctionnement et l’utilisation du système d’information Schengen (SIS), en vigueur depuis le 22 nov. 2022 ([RO 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 638](https://fedlex.data.admin.ch/eli/oc/2022/638); [FF 2020 3361](https://fedlex.data.admin.ch/eli/fga/2020/794)).
 [^355a-3]: [RS 0.362.2](https://fedlex.data.admin.ch/eli/cc/2006/181)
 [^355a-4]: Introduit par le ch. II 2 de la LF du 28 sept. 2018 mettant en œuvre la directive (UE) 2016/680 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel à des fins de prévention et de détection des infractions pénales, d’enquêtes et de poursuites en la matière ou d’exécution de sanctions pénales, en vigueur depuis le 1<sup>er</sup> mars 2019 ([RO 2019 625](https://fedlex.data.admin.ch/eli/oc/2019/111); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
@@ -6109,18 +6112,18 @@ Les organes de police fédéraux et cantonaux appliquent les dispositions des ac
 
 [^355e-1]
 
-<sup>1</sup> L’Office fédéral de la police gère un service centralisé (bureau SIRENE[^355e-2]) responsable du N-SIS.
+<sup>1</sup> Fedpol gère le service centralisé responsable de l’échange d’informations supplémentaires avec les États Schengen (bureau SIRENE).[^355e-2]
 
 <sup>2</sup> Le bureau SIRENE est l’autorité de contact, de coordination et de consultation pour l’échange d’informations en relation avec les signalements figurant dans le SIS. Il contrôle l’admissibilité formelle des signalements nationaux et étrangers dans le SIS.
 
 [^355e-1]: Introduit par l’art. 3 ch. 4 de l’AF du 17 déc. 2004 portant approbation et mise en œuvre des Ac. bilatéraux d’association à l’Espace Schengen et à l’Espace Dublin, en vigueur depuis le 1<sup>er</sup> juin 2008 ([RO 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112); [FF 2004 5593](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
-[^355e-2]: *Supplementary Information Request at the National Entry* (Supplément d’information requis à l’entrée nationale).
+[^355e-2]: Nouvelle teneur selon l’annexe 1 ch. 4 de l’AF du 18 déc. 2020 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des bases légales concernant l’établissement, le fonctionnement et l’utilisation du système d’information Schengen (SIS), en vigueur depuis le 22 nov. 2022 ([RO 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 638](https://fedlex.data.admin.ch/eli/oc/2022/638); [FF 2020 3361](https://fedlex.data.admin.ch/eli/fga/2020/794)).
 
 #### Art. 355fet 355g
 
 [^355f355g-1]
 
-[^355f355g-1]: Introduits par le ch. 4 de la LF du 19 mars 2010 portant mise en œuvre de la décision-cadre 2008/977/JAI relative à la protection des données à caractère personnel traitées dans le cadre de la coopération policière et judiciaire en matière pénale ([RO 2010 3387](https://fedlex.data.admin.ch/eli/oc/2010/464)3418; [FF 2009 6091](https://fedlex.data.admin.ch/eli/fga/2009/1207)). Abrogés par le ch. II 2 de la LF du 28 sept. 2018 mettant en œuvre la directive (UE) 2016/680 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel à des fins de prévention et de détection des infractions pénales, d’enquêtes et de poursuites en la matière ou d’exécution de sanctions pénales, avec effet au 1<sup>er</sup> mars 2019 ([RO 2019 625](https://fedlex.data.admin.ch/eli/oc/2019/111); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^355f355g-1]: Introduits par le ch. 4 de la LF du 19 mars 2010 portant mise en œuvre de la décision-cadre 2008/977/JAI relative à la protection des données à caractère personnel traitées dans le cadre de la coopération policière et judiciaire en matière pénale ([RO 2010 3387](https://fedlex.data.admin.ch/eli/oc/2010/464), 3418; [FF 2009 6091](https://fedlex.data.admin.ch/eli/fga/2009/1207)). Abrogés par le ch. II 2 de la LF du 28 sept. 2018 mettant en œuvre la directive (UE) 2016/680 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel à des fins de prévention et de détection des infractions pénales, d’enquêtes et de poursuites en la matière ou d’exécution de sanctions pénales, avec effet au 1<sup>er</sup> mars 2019 ([RO 2019 625](https://fedlex.data.admin.ch/eli/oc/2019/111); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 356 à 361
 
@@ -6188,7 +6191,7 @@ Le casier sert les autorités fédérales et cantonales dans l’accomplissement
 - v.[^365-22] déterminer le risque pour la sécurité dans le cadre de la vérification des antécédents visée à l’art. 108*b* de la loi fédérale du 21 décembre 1948 sur l’aviation (LA)[^365-23].
 
 [^365-1]: Nouvelle teneur selon l’annexe ch. 14 de la LF du 19 déc. 2008 (Protection de l’adulte, droit des personnes et droit de la filiation), en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6635](https://fedlex.data.admin.ch/eli/fga/2006/899)).
-[^365-2]: [RS **1** 113; [RO 1949 225](https://fedlex.data.admin.ch/eli/oc/1949/221_225_225), [1987 1665](https://fedlex.data.admin.ch/eli/oc/1987/1665_1665_1665), [1988 332](https://fedlex.data.admin.ch/eli/oc/1988/332_332_332), [1990 1587](https://fedlex.data.admin.ch/eli/oc/1990/1587_1587_1587)art. 3 al. 2, [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)ch. II 11 [1034](https://fedlex.data.admin.ch/eli/oc/1991/1034_1034_1034)ch. III, [1995 146](https://fedlex.data.admin.ch/eli/oc/1995/146_146_146), [1999 1111](https://fedlex.data.admin.ch/eli/oc/1999/148)[2253](https://fedlex.data.admin.ch/eli/oc/1999/356)[2262](https://fedlex.data.admin.ch/eli/oc/1999/358)annexe ch. 1, [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)ch. IV 2, [2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139)ch. I 1 [701](https://fedlex.data.admin.ch/eli/oc/2002/140)ch. I 1 [3988](https://fedlex.data.admin.ch/eli/oc/2002/639)annexe ch. 3, [2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)annexe ch. II 2, [2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200)ch. I 1 [4655](https://fedlex.data.admin.ch/eli/oc/2004/715)ch. I 1, [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)annexe ch. 2, [2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178)art. 2 ch. 1 [1931](https://fedlex.data.admin.ch/eli/oc/2006/301)art. 18 ch. 1 [2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 3 [3459](https://fedlex.data.admin.ch/eli/oc/2006/549)annexe ch. 1 [4745](https://fedlex.data.admin.ch/eli/oc/2006/727)annexe ch. 1, [2007 359](https://fedlex.data.admin.ch/eli/oc/2007/71)annexe ch. 1. [RO 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758)annexe ch. I]. Voir actuellement la LF du 16 déc. 2005 sur les étrangers ([RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)).
+[^365-2]: [RS **1** 113; [RO 1949 225](https://fedlex.data.admin.ch/eli/oc/1949/221_225_225); [1987 1665](https://fedlex.data.admin.ch/eli/oc/1987/1665_1665_1665); [1988 332](https://fedlex.data.admin.ch/eli/oc/1988/332_332_332); [1990 1587](https://fedlex.data.admin.ch/eli/oc/1990/1587_1587_1587)art. 3 al. 2, [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)ch. II 11 [1034](https://fedlex.data.admin.ch/eli/oc/1991/1034_1034_1034)ch. III, [1995 146](https://fedlex.data.admin.ch/eli/oc/1995/146_146_146); [1999 1111](https://fedlex.data.admin.ch/eli/oc/1999/148), [2253](https://fedlex.data.admin.ch/eli/oc/1999/356), [2262](https://fedlex.data.admin.ch/eli/oc/1999/358)annexe ch. 1, [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)ch. IV 2, [2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139)ch. I 1 [701](https://fedlex.data.admin.ch/eli/oc/2002/140)ch. I 1 [3988](https://fedlex.data.admin.ch/eli/oc/2002/639)annexe ch. 3, [2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)annexe ch. II 2, [2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200)ch. I 1 [4655](https://fedlex.data.admin.ch/eli/oc/2004/715)ch. I 1, [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)annexe ch. 2, [2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178)art. 2 ch. 1 [1931](https://fedlex.data.admin.ch/eli/oc/2006/301)art. 18 ch. 1 [2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 3 [3459](https://fedlex.data.admin.ch/eli/oc/2006/549)annexe ch. 1 [4745](https://fedlex.data.admin.ch/eli/oc/2006/727)annexe ch. 1, [2007 359](https://fedlex.data.admin.ch/eli/oc/2007/71)annexe ch. 1. [RO 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758)annexe ch. I]. Voir actuellement la LF du 16 déc. 2005 sur les étrangers ([RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)).
 [^365-3]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
 [^365-4]: [RS 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
 [^365-5]: [RS 431.01](https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080)
@@ -6342,13 +6345,13 @@ Le Conseil fédéral fixe les modalités, notamment en ce qui concerne:
 [^367-14]: Introduite par l’annexe ch. II 5 de la LF du 25 sept. 2017 sur le renseignement, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 2029](https://fedlex.data.admin.ch/eli/fga/2014/407)).
 [^367-15]: Introduite par le ch. I 6 de la LF du 25 sept. 2020 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565), [672](https://fedlex.data.admin.ch/eli/oc/2021/672); [FF 2019 4541](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 [^367-16]: [RS 748.0](https://fedlex.data.admin.ch/eli/cc/1950/471_491_479)
-[^367-17]: Nouvelle expression selon l’annexe ch. 2 de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^367-17]: Nouvelle expression selon l’annexe ch. 2 de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714); [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 [^367-18]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
 [^367-19]: Nouvelle teneur selon l’annexe ch. II 5 de la LF du 25 sept. 2017 sur le renseignement, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 2029](https://fedlex.data.admin.ch/eli/fga/2014/407)).
 [^367-20]: Introduit par l’annexe ch. 1 de la LF du 3 oct. 2008 sur les systèmes d’information de l’armée ([RO 2009 6617](https://fedlex.data.admin.ch/eli/oc/2009/823); [FF 2008 2841](https://fedlex.data.admin.ch/eli/fga/2008/701)). Nouvelle teneur selon l’annexe ch. 2 de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869), [2011 487](https://fedlex.data.admin.ch/eli/oc/2011/66); [FF 2009 5331](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
 [^367-21]: Introduit par le ch. I 1 de la LF du 20 mars 2015 (Mise en œuvre de l’art. 121, al. 3 à 6, Cst. relatif au renvoi des étrangers criminels), en vigueur depuis le 1<sup>er</sup> oct. 2016 ([RO 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [FF 2013 5373](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
-[^367-22]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^367-23]: Anciennement al. 2<sup>ter</sup>. Introduit par l’annexe ch. 1 de la LF du 3 oct. 2008 sur les systèmes d’information de l’armée ([RO 2009 6617](https://fedlex.data.admin.ch/eli/oc/2009/823); [FF 2008 2841](https://fedlex.data.admin.ch/eli/fga/2008/701)). Nouvelle teneur selon l’annexe ch. 2 de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869), [2011 487](https://fedlex.data.admin.ch/eli/oc/2011/66); [FF 2009 5331](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
+[^367-22]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714); [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^367-23]: Anciennement al. 2<sup>ter</sup>. Introduit par l’annexe ch. 1 de la LF du 3 oct. 2008 sur les systèmes d’information de l’armée ([RO 2009 6617](https://fedlex.data.admin.ch/eli/oc/2009/823); [FF 2008 2841](https://fedlex.data.admin.ch/eli/fga/2008/701)). Nouvelle teneur selon l’annexe ch. 2 de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [2011 487](https://fedlex.data.admin.ch/eli/oc/2011/66); [FF 2009 5331](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
 [^367-24]: Introduit par l’annexe ch. 2 de la LF du 19 mars 2010 ([RO 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5331](https://fedlex.data.admin.ch/eli/fga/2009/1057)). Nouvelle teneur selon le ch. I 1 de la LF du 20 mars 2015 (Mise en œuvre de l’art. 121, al. 3 à 6, Cst. relatif au renvoi des étrangers criminels), en vigueur depuis le 1<sup>er</sup> oct. 2016 ([RO 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [FF 2013 5373](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
 [^367-25]: Introduit par le ch. I 1 de la LF du 20 mars 2015 (Mise en œuvre de l’art. 121, al. 3 à 6, Cst. relatif au renvoi des étrangers criminels), en vigueur depuis le 1<sup>er</sup> oct. 2016 ([RO 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [FF 2013 5373](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
 [^367-26]: Anciennement al. 2<sup>sexies</sup>. Introduit par les art. 34 ch. 1 et 36 de la LF du 17 juin 2011 sur l’encouragement du sport et de l’activité physique, en vigueur depuis le 1<sup>er</sup> oct. 2012 ([RO 2012 3953](https://fedlex.data.admin.ch/eli/oc/2012/460); [FF 2009 7401](https://fedlex.data.admin.ch/eli/fga/2009/1425)).
@@ -6555,7 +6558,7 @@ Une fois passée en force, toute décision rendue en vertu des législations pé
 
 <sup>4</sup> Les dispositions de la loi fédérale du 19 mars 2004 sur le partage des valeurs patrimoniales confisquées[^374-2] sont réservées.[^374-3]
 
-[^374-1]: Nouvelle teneur selon le ch. II 2 de la L du 17 mars 2017 (Création d’une cour d’appel au TPF), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 5769](https://fedlex.data.admin.ch/eli/oc/2017/624); [FF 2013 6375](https://fedlex.data.admin.ch/eli/fga/2013/1333), [2016 5983](https://fedlex.data.admin.ch/eli/fga/2016/1190)).
+[^374-1]: Nouvelle teneur selon le ch. II 2 de la L du 17 mars 2017 (Création d’une cour d’appel au TPF), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 5769](https://fedlex.data.admin.ch/eli/oc/2017/624); [FF 2013 6375](https://fedlex.data.admin.ch/eli/fga/2013/1333); [2016 5983](https://fedlex.data.admin.ch/eli/fga/2016/1190)).
 [^374-2]: [RS 312.4](https://fedlex.data.admin.ch/eli/cc/2004/468)
 [^374-3]: Introduit par l’annexe ch. 1 de la LF du 19 mars 2004 sur le partage des valeurs patrimoniales confisquées, en vigueur depuis le 1<sup>er</sup> août 2004 ([RO 2004 3503](https://fedlex.data.admin.ch/eli/oc/2004/468); [FF 2002 423](https://fedlex.data.admin.ch/eli/fga/2002/69)).
 
@@ -6634,7 +6637,7 @@ Le condamné est astreint à participer aux frais de l’exécution dans une mes
 
 [^380-1]: Nouvelle teneur selon le ch. I 1 de la LF du 19 juin 2015 (Réforme du droit des sanctions), en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4385](https://fedlex.data.admin.ch/eli/fga/2012/670)).
 
-### Titre 7*a***** Responsabilité en cas de levée de l’internement à vie
+### Titre 7*a* Responsabilité en cas de levée de l’internement à vie
 
 [^book3-tit7a-1]
 
@@ -6664,7 +6667,7 @@ Pour les jugements rendus en vertu du présent code ou d’une autre loi fédér
 - a.[^381-1] par l’Assemblée fédérale, dans les causes jugées par la Cour des affaires pénales ou la Cour d’appel du Tribunal pénal fédéral ou par une autorité administrative fédérale;
 - b. par l’autorité compétente du canton, dans les causes jugées par les autorités cantonales.
 
-[^381-1]: Nouvelle teneur selon le ch. II 2 de la L du 17 mars 2017 (Création d’une cour d’appel au TPF), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 5769](https://fedlex.data.admin.ch/eli/oc/2017/624); [FF 2013 6375](https://fedlex.data.admin.ch/eli/fga/2013/1333), [2016 5983](https://fedlex.data.admin.ch/eli/fga/2016/1190)).
+[^381-1]: Nouvelle teneur selon le ch. II 2 de la L du 17 mars 2017 (Création d’une cour d’appel au TPF), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 5769](https://fedlex.data.admin.ch/eli/oc/2017/624); [FF 2013 6375](https://fedlex.data.admin.ch/eli/fga/2013/1333); [2016 5983](https://fedlex.data.admin.ch/eli/fga/2016/1190)).
 
 ### Recours en grâce
 
@@ -6791,13 +6794,13 @@ Les cantons communiquent à la Confédération les lois d’application du prés
 
 Le présent code entre en vigueur le 1<sup>er</sup> janvier 1942.
 
-## Dispositions finales de la modification du 18 mars 1971****
+## Dispositions finales de la modification du 18 mars 1971
 
 [^u1-1]
 
-[^u1-1]: LF du 18 mars 1971, en vigueur depuis le 1<sup>er</sup> juil. 1971 ([RO 1971 777](https://fedlex.data.admin.ch/eli/oc/1971/777_777_777); [FF 1965 I 569](https://fedlex.data.admin.ch/eli/fga/1965/1_561_569_474)) et, pour les art. 49 ch. 4 al. 2, 82 à 99, 370, 372, 373, 379 ch. 1 al. 2, 385 et 391, depuis le 1<sup>er</sup> janv. 1974 ([RO 1973 1840](https://fedlex.data.admin.ch/eli/oc/1973/1840_1840_1840)). Abrogées par le ch. IV de la LF du 13 déc. 2002, avec effet au 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549)3535; FF **1999** 1787).
+[^u1-1]: LF du 18 mars 1971, en vigueur depuis le 1<sup>er</sup> juil. 1971 ([RO 1971 777](https://fedlex.data.admin.ch/eli/oc/1971/777_777_777); [FF 1965 I 569](https://fedlex.data.admin.ch/eli/fga/1965/1_561_569_474)) et, pour les art. 49 ch. 4 al. 2, 82 à 99, 370, 372, 373, 379 ch. 1 al. 2, 385 et 391, depuis le 1<sup>er</sup> janv. 1974 ([RO 1973 1840](https://fedlex.data.admin.ch/eli/oc/1973/1840_1840_1840)). Abrogées par le ch. IV de la LF du 13 déc. 2002, avec effet au 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549), 3535; FF **1999** 1787).
 
-## Dispositions finales de la modification du 13 décembre 2002****
+## Dispositions finales de la modification du 13 décembre 2002
 
 [^u2-1]
 
@@ -6811,7 +6814,7 @@ Le présent code entre en vigueur le 1<sup>er</sup> janvier 1942.
 
 <sup>3</sup> Les dispositions du nouveau droit relatives à l’exécution des peines privatives de liberté (art. 74 à 85, 91 et 92), à l’assistance de probation, aux règles de conduite et à l’assistance sociale facultative (art. 93 à 96) s’appliquent aussi aux auteurs condamnés en vertu de l’ancien droit.
 
-2.*[^u2-6]* Prononcé et exécution des mesures
+2.[^u2-6] Prononcé et exécution des mesures
 
 <sup>2</sup> Dans un délai de douze mois à compter de l’entrée en vigueur du nouveau droit, le juge examine si les personnes qui sont internées selon les art. 42 ou 43, ch. 1, al. 2, de l’ancien droit remplissent les conditions d’une mesure thérapeutique (art. 59 à 61 ou 63). Dans l’affirmative, le juge ordonne cette mesure; dans le cas contraire, l’internement se poursuit conformément au nouveau droit.
 
@@ -6846,7 +6849,7 @@ Les cantons doivent créer des établissements pour l’exécution des mesures v
 [^u2-9]: [RO 1971 777](https://fedlex.data.admin.ch/eli/oc/1971/777_777_777)
 [^u2-10]: Nouvelle teneur selon le ch. I de la LF du 24 mars 2006 (Correctifs en matière de sanctions et casier judiciaire), en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3539](https://fedlex.data.admin.ch/eli/oc/2006/550); [FF 2005 4425](https://fedlex.data.admin.ch/eli/fga/2005/735)).
 
-## Disposition transitoire de la modification du 12 décembre 2014****
+## Disposition transitoire de la modification du 12 décembre 2014
 
 [^u3-1]
 
@@ -6858,9 +6861,9 @@ L’art. 305<sup>bis</sup> ne s’applique pas aux délits fiscaux qualifiés vi
 
 Le droit à l’information prévu à l’art. 92*a* s’applique aussi à l’exécution ordonnée en vertu de l’ancien droit.[^u4-1]
 
-[^u4-1]: [RO 2015 1623](https://fedlex.data.admin.ch/eli/oc/2015/321); [FF 2014 863](https://fedlex.data.admin.ch/eli/fga/2014/136)[885](https://fedlex.data.admin.ch/eli/fga/2014/138)
+[^u4-1]: [RO 2015 1623](https://fedlex.data.admin.ch/eli/oc/2015/321); [FF 2014 863](https://fedlex.data.admin.ch/eli/fga/2014/136), [885](https://fedlex.data.admin.ch/eli/fga/2014/138)
 
-## Disposition transitoire de la modification du 19 juin 2015****
+## Disposition transitoire de la modification du 19 juin 2015
 
 [^u5-1]
 

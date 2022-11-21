@@ -4,18 +4,18 @@ title: Codice penale svizzero del 21 dicembre 1937
 short: CP
 eli: "https://fedlex.data.admin.ch/eli/cc/54/757_781_799"
 language: it
-version: 2022-06-01
+version: 2022-11-22
 adopted: 1937-12-21
 in_force: 1942-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20220601/it/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20220601-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20220601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20221122/it/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20221122-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20221122/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Codice penale svizzero
 
-del 21 dicembre 1937 (Stato 1° giugno 2022)
+del 21 dicembre 1937 (Stato 22 novembre 2022)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -27,7 +27,7 @@ decreta:
 [^ingress-2]: Nuovo testo giusta il n. I della LF del 30 set. 2011, in vigore dal 1° lug. 2012 ([RU 2012 2575](https://fedlex.data.admin.ch/eli/oc/2012/310); [FF 2010 4941](https://fedlex.data.admin.ch/eli/fga/2010/992)[4967](https://fedlex.data.admin.ch/eli/fga/2010/994)).
 [^ingress-3]: FF **1918** II 1
 
-## Libro primo:**** Disposizioni generali
+## Libro primo: Disposizioni generali
 
 [^book1-1]
 
@@ -436,7 +436,7 @@ Quando l’avente diritto presenta querela contro uno dei compartecipi al reato,
 
 ### Capo primo: Delle pene
 
-### Sezione 1: Della pena pecuniaria e della pena detentiva****
+### Sezione 1: Della pena pecuniaria e della pena detentiva
 
 [^book1-part1-tit3-chap1-sec1-1]
 
@@ -657,7 +657,7 @@ Il giudice computa nella pena il carcere preventivo scontato nell’ambito del p
 
 [^51-1]: Nuovo testo del per. giusta il n. I 1 della LF del 19 giu. 2015 (Modifica della disciplina delle sanzioni), in vigore dal 1° gen. 2018 ([RU 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4181](https://fedlex.data.admin.ch/eli/fga/2012/670)).
 
-### Sezione 4: Dell’impunità nonché della sospensione e dell’abbandono del procedimento****
+### Sezione 4: Dell’impunità nonché della sospensione e dell’abbandono del procedimento
 
 [^book1-part1-tit3-chap1-sec4-1]
 
@@ -2472,7 +2472,7 @@ Chiunque somministra a una persona minore di sedici anni, o le mette a disposizi
 
 [^136-1]: Nuovo testo giusta il n. II della LF del 20 mar. 2008, in vigore dal 1° lug. 2011 ([RU 2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361), [2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352); [FF 2006 7879](https://fedlex.data.admin.ch/eli/fga/2006/1086)[7949](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
 
-### Titolo secondo:**** Dei reati contro il patrimonio
+### Titolo secondo: Dei reati contro il patrimonio
 
 [^book2-tit2-1]
 
@@ -2945,7 +2945,7 @@ il terzo che compie tali atti a vantaggio del debitore,
 
 <sup>2.</sup> Il presente disposto non è applicabile al furto aggravato (art. 139 n. 2 e 3), alla rapina e all’estorsione.
 
-### Titolo terzo: Dei delitti contro l’onore e la sfera personale riservata****
+### Titolo terzo: Dei delitti contro l’onore e la sfera personale riservata
 
 [^book2-tit3-1]
 
@@ -3289,7 +3289,7 @@ la salute della vittima è stata seriamente esposta a pericolo.
 
 Chiunque, indebitamente e contro la volontà dell’avente diritto, s’introduce in una casa, in un’abitazione, in un locale chiuso di una casa, od in uno spiazzo, corte o giardino cintati e attigui ad una casa, od in un cantiere, oppure vi si trattiene contro l’ingiunzione d’uscirne fatta da chi ne ha diritto, è punito, a querela di parte, con una pena detentiva sino a tre anni o con una pena pecuniaria.
 
-### Titolo quinto:**** Dei reati contro l’integrità sessuale
+### Titolo quinto: Dei reati contro l’integrità sessuale
 
 [^book2-tit5-1]
 
@@ -4216,7 +4216,7 @@ chiunque profana o pubblicamente insulta un cadavere umano,
 [^263-1]: Nuovo testo di parte del per. giusta il n. II 1 della LF del 19 giu. 2015 (Modifica della disciplina delle sanzioni), in vigore dal 1° gen. 2018 ([RU 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4181](https://fedlex.data.admin.ch/eli/fga/2012/670)).
 [^263-2]: Nuovo testo giusta il n. II 1 cpv. 16 della LF del 13 dic. 2002, in vigore dal 1° gen. 2007 ([RU 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1669).
 
-### Titolo dodicesimo<sup>bis</sup>:**** Genocidio e crimini contro l’umanità
+### Titolo dodicesimo<sup>bis</sup>: Genocidio e crimini contro l’umanità
 
 [^book2-tit12bis-1]
 
@@ -4284,7 +4284,7 @@ Chiunque, nell’ambito di un attacco esteso o sistematico contro popolazioni ci
 
 <sup>3</sup> Nei casi meno gravi rientranti nel campo d’applicazione del capoverso 1 lettere c–j il giudice non può pronunciare una pena detentiva inferiore a un anno.
 
-### Titolo dodicesimo<sup>ter</sup>:**** Crimini di guerra
+### Titolo dodicesimo<sup>ter</sup>: Crimini di guerra
 
 [^book2-tit12ter-1]
 
@@ -4421,7 +4421,7 @@ Chiunque, nel contesto di un conflitto armato:
 
 È punito con una pena detentiva sino a tre anni o con una pena pecuniaria chiunque, nel contesto di un conflitto armato e in modo diverso da quanto previsto dagli articoli 264*c*–264*i*, viola una disposizione del diritto internazionale umanitario, se tale violazione è dichiarata punibile dal diritto internazionale consuetudinario o da una convenzione riconosciuta come vincolante dalla Svizzera.
 
-### Titolo dodicesimo<sup>quater</sup>:**** Disposizioni comuni ai titoli dodicesimo<sup>bis</sup> e dodicesimo<sup>ter</sup>
+### Titolo dodicesimo<sup>quater</sup>: Disposizioni comuni ai titoli dodicesimo<sup>bis</sup> e dodicesimo<sup>ter</sup>
 
 [^book2-tit12quater-1]
 
@@ -5309,7 +5309,7 @@ Chiunque, in quanto responsabile giusta l’articolo 28 capoversi 2 e 3[^322bis-
 [^322bis-1]: Introdotto dal n. I della LF del 10 ott. 1997, in vigore dal 1° apr. 1998 ([RU 1998 852](https://fedlex.data.admin.ch/eli/oc/1998/852_852_852); [FF 1996 IV 449](https://fedlex.data.admin.ch/eli/fga/1996/4_525_533_449)).
 [^322bis-2]: Nuova testo di parte del per. giusta il n. II 2 della LF del 13 dic. 2002, in vigore dal 1° gen. 2007 ([RU 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1669).
 
-### Titolo diciannovesimo:**** Della corruzione
+### Titolo diciannovesimo: Della corruzione
 
 [^book2-tit19-1]
 
@@ -5407,7 +5407,7 @@ Non sono indebiti vantaggi:
 
 [^322decies-1]: Introdotto dal n. I della LF del 25 set. 2015 (Disposizioni penali sulla corruzione), in vigore dal 1° lug. 2016 ([RU 2016 1287](https://fedlex.data.admin.ch/eli/oc/2016/257); [FF 2014 3099](https://fedlex.data.admin.ch/eli/fga/2014/787)).
 
-### Titolo ventesimo:**** Delle contravvenzioni a disposizioni del diritto federale
+### Titolo ventesimo: Delle contravvenzioni a disposizioni del diritto federale
 
 [^book2-tit20-1]
 
@@ -5656,7 +5656,7 @@ Chiunque non dà l’avviso prescritto dall’articolo 720 capoverso 2, 720*a* e
 [^332-1]: Nuovo testo giusta il n. III della LF del 4 ott. 2002 (Articolo di principio sugli animali), in vigore dal 1° apr. 2003 ([RU 2003 463](https://fedlex.data.admin.ch/eli/oc/2003/100); [FF 2002 3734](https://fedlex.data.admin.ch/eli/fga/2002/591)[5207](https://fedlex.data.admin.ch/eli/fga/2002/895)).
 [^332-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 
-## Libro terzo:**** Dell’attuazione e dell’applicazione del Codice penale
+## Libro terzo: Dell’attuazione e dell’applicazione del Codice penale
 
 [^book3-1]
 
@@ -5729,7 +5729,7 @@ Se in una disposizione di diritto penale è fatto riferimento a norme modificate
 
 [^339348-1]: Abrogati dall’all. 1 n. II 8 del Codice di procedura penale del 5 ott. 2007, con effetto dal 1° gen. 2011 ([RU 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 
-### Titolo quarto: Dell’assistenza in materia di polizia****
+### Titolo quarto: Dell’assistenza in materia di polizia
 
 [^book3-tit4-1]
 
@@ -5877,9 +5877,7 @@ Comunica inoltre al destinatario qualsiasi informazione che permette di distingu
 
 [^349g-1]
 
-<sup>1</sup>
-
-L’interessato può chiedere all’Incaricato di verificare se gli eventuali dati che lo concernono sono trattati in modo lecito qualora:
+<sup>1</sup> L’interessato può chiedere all’Incaricato di verificare se gli eventuali dati che lo concernono sono trattati in modo lecito qualora:
 
 - a. il suo diritto di essere informato su uno scambio di dati che lo concernono sia limitato o differito (art. 18*a* e 18*b* della legge federale del 19 giugno 1992[^349g-2] sulla protezione dei dati);
 - b. il suo diritto d’accesso sia negato, limitato o differito (art. 17 e 18 LPDS[^349g-3]); o
@@ -5988,9 +5986,10 @@ Possono confrontare e trattare i dati di cui al capoverso 1:
 - a. il centro di calcolo del Dipartimento federale di giustizia e polizia;
 - b. l’Ufficio federale di polizia;
 - c. i posti di confine;
-- d. le autorità cantonali di polizia.
+- d. le autorità cantonali di polizia;
+- e.[^354-1] la Segreteria di Stato della migrazione (SEM).
 
-<sup>3</sup> I dati personali inerenti ai dati segnaletici secondo il capoverso 1 sono trattati in sistemi d’informazione separati, disciplinati dalla legge federale del 13 giugno 2008[^354-1] sui sistemi d’informazione di polizia della Confederazione, dalla legge federale del 26 giugno 1998[^354-2] sull’asilo e dalla legge federale del 16 dicembre 2005[^354-3] sugli stranieri. Il sistema d’informazione basato sui profili del DNA è disciplinato dalla legge del 20 giugno 2003[^354-4] sui profili del DNA.[^354-5]
+<sup>3</sup> I dati personali inerenti ai dati segnaletici secondo il capoverso 1 sono trattati in sistemi d’informazione separati, disciplinati dalla legge federale del 13 giugno 2008[^354-2] sui sistemi d’informazione di polizia della Confederazione, dalla legge federale del 26 giugno 1998[^354-3] sull’asilo e dalla legge federale del 16 dicembre 2005[^354-4] sugli stranieri. Il sistema d’informazione basato sui profili del DNA è disciplinato dalla legge del 20 giugno 2003[^354-5] sui profili del DNA.[^354-6]
 
 <sup>4</sup>
 
@@ -5998,16 +5997,19 @@ Il Consiglio federale:
 
 - a. disciplina le modalità, segnatamente la responsabilità del trattamento dei dati, le categorie dei dati da rilevare, la durata di conservazione dei dati e la collaborazione con i Cantoni;
 - b. designa le autorità che mediante procedura di richiamo possono immettere direttamente dati personali nel sistema, quelle che possono consultarli direttamente e quelle cui i dati personali possono essere comunicati nel singolo caso;
-- c. disciplina i diritti procedurali delle persone interessate, segnatamente la consultazione, la rettifica, l’archiviazione e la distruzione dei dati che le concernono.
+- c. disciplina i diritti procedurali delle persone interessate, segnatamente la consultazione, la rettifica, l’archiviazione e la distruzione dei dati che le concernono;
+- d.[^354-7] disciplina la trasmissione dei dati segnaletici da parte delle autorità federali competenti e dei Cantoni.
 
-<sup>5</sup> Ai fini delle segnalazioni nel sistema d’informazione Schengen (SIS) la SEM o l’Ufficio federale di polizia (fedpol) può trasferire i dati nella parte nazionale del Sistema d’informazione di Schengen (N-SIS) e nel SIS mediante procedura automatizzata.[^354-6]
+<sup>5</sup> Ai fini delle segnalazioni nel sistema d’informazione Schengen (SIS) la SEM o l’Ufficio federale di polizia (fedpol) può trasferire i dati nella parte nazionale del Sistema d’informazione di Schengen (N-SIS) e nel SIS mediante procedura automatizzata.[^354-8]
 
-[^354-1]: [RS 361](https://fedlex.data.admin.ch/eli/cc/2008/698)
-[^354-2]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
-[^354-3]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^354-4]: [RS 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
-[^354-5]: Nuovo testo giusta l’all. 1 n. 5 della LF del 13 giu. 2008 sui sistemi d’informazione di polizia della Confederazione, in vigore dal 5 dic. 2008 ([RU 2008 4989](https://fedlex.data.admin.ch/eli/oc/2008/698); [FF 2006 4631](https://fedlex.data.admin.ch/eli/fga/2006/611)).
-[^354-6]: Introdotto dall’all. 1 n. 4 del DF del 18 dic. 2020 approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento delle basi legali dell’istituzione, dell’esercizio e dell’uso del sistema d’informazione Schengen (SIS), in vigore dal 1° lug. 2021 ([RU 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [FF 2020 3117](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^354-1]: Introdotta dall’all. 1 n. 4 del DF del 18 dic. 2020 approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento delle basi legali dell’istituzione, dell’esercizio e dell’uso del sistema d’informazione Schengen (SIS), in vigore dal 22 nov. 2022 ([RU 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 638](https://fedlex.data.admin.ch/eli/oc/2022/638); [FF 2020 3117](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^354-2]: [RS 361](https://fedlex.data.admin.ch/eli/cc/2008/698)
+[^354-3]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^354-4]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^354-5]: [RS 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
+[^354-6]: Nuovo testo giusta l’all. 1 n. 5 della LF del 13 giu. 2008 sui sistemi d’informazione di polizia della Confederazione, in vigore dal 5 dic. 2008 ([RU 2008 4989](https://fedlex.data.admin.ch/eli/oc/2008/698); [FF 2006 4631](https://fedlex.data.admin.ch/eli/fga/2006/611)).
+[^354-7]: Introdotta dall’all. 1 n. 4 del DF del 18 dic. 2020 approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento delle basi legali dell’istituzione, dell’esercizio e dell’uso del sistema d’informazione Schengen (SIS), in vigore dal 22 nov. 2022 ([RU 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 638](https://fedlex.data.admin.ch/eli/oc/2022/638); [FF 2020 3117](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^354-8]: Introdotto dall’all. 1 n. 4 del DF del 18 dic. 2020 approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento delle basi legali dell’istituzione, dell’esercizio e dell’uso del sistema d’informazione Schengen (SIS), in vigore dal 1° lug. 2021 ([RU 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [FF 2020 3117](https://fedlex.data.admin.ch/eli/fga/2020/794)).
 
 ### 4. ...
 
@@ -6029,7 +6031,7 @@ Il Consiglio federale:
 
 [^355a-1]
 
-<sup>1</sup> L’Ufficio federale di polizia (fedpol) e il Servizio delle attività informative della Confederazione (SIC) possono trasmettere all’Ufficio europeo di polizia (Europol) dati personali, inclusi quelli degni di particolare protezione e profili della personalità.[^355a-2]
+<sup>1</sup> Fedpol e il Servizio delle attività informative della Confederazione (SIC) possono trasmettere all’Ufficio europeo di polizia (Europol) dati personali, inclusi quelli degni di particolare protezione e profili della personalità.[^355a-2]
 
 <sup>2</sup> La trasmissione di questi dati sottostà segnatamente alle condizioni indicate negli articoli 3 e 10–13 dell’Accordo del 24 settembre 2004[^355a-3] tra la Confederazione Svizzera e l’Ufficio europeo di polizia.
 
@@ -6038,7 +6040,7 @@ Il Consiglio federale:
 <sup>4</sup> Gli scambi di dati personali con Europol sono equiparati a uno scambio con un’autorità competente di uno Stato Schengen (art. 349*b*).[^355a-4]
 
 [^355a-1]: Introdotto dall’art. 2 del DF del 7 ott. 2005 che approva e traspone nel diritto svizzero l’Acc. tra la Confederazione Svizzera e l’Ufficio europeo di polizia, in vigore dal 1° apr. 2006 ([RU 2006 1017](https://fedlex.data.admin.ch/eli/oc/2006/180); [FF 2005 859](https://fedlex.data.admin.ch/eli/fga/2005/131)).
-[^355a-2]: Nuovo testo giusta il n. I 3 dell’O del 4 dic. 2009 sull’adeguamento di disposizioni legali in seguito all’istituzione del Servizio delle attività informative della Confederazione, in vigore dal 1° gen. 2010 ([RU 2009 6921](https://fedlex.data.admin.ch/eli/oc/2009/846)).
+[^355a-2]: Nuovo testo giusta l’all. 1 n. 4 del DF del 18 dic. 2020 approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento delle basi legali dell’istituzione, dell’esercizio e dell’uso del sistema d’informazione Schengen (SIS), in vigore dal 22 nov. 2022 ([RU 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 638](https://fedlex.data.admin.ch/eli/oc/2022/638); [FF 2020 3117](https://fedlex.data.admin.ch/eli/fga/2020/794)).
 [^355a-3]: [RS 0.362.2](https://fedlex.data.admin.ch/eli/cc/2006/181)
 [^355a-4]: Introdotto dal n. II 2 della LF del 28 set. 2018 che attua la direttiva (UE) 2016/680 relativa alla protezione delle persone fisiche con riguardo al trattamento dei dati personali a fini di prevenzione, indagine, accertamento e perseguimento di reati o esecuzione di sanzioni penali, in vigore dal 1° mar. 2019 ([RU 2019 625](https://fedlex.data.admin.ch/eli/oc/2019/111); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
@@ -6084,12 +6086,12 @@ Gli organi di polizia federali e cantonali eseguono le disposizioni contenute ne
 
 [^355e-1]
 
-<sup>1</sup> Presso l’Ufficio federale di polizia è istituito un servizio centrale (ufficio SIRENE[^355e-2]) responsabile del N-SIS.
+<sup>1</sup> Fedpol gestisce il servizio centrale per lo scambio di informazioni supplementari con gli Stati Schengen (ufficio SIRENE).[^355e-2]
 
 <sup>2</sup> L’ufficio SIRENE è il centro di contatto, di coordinamento e di consultazione per lo scambio di informazioni relative alle segnalazioni inserite nel SIS. L’ufficio esamina l’ammissibilità formale delle segnalazioni nazionali e estere presenti nel SIS.
 
 [^355e-1]: Introdotto dall’art. 3 n. 4 del DF del 17 dic. 2004 che approva e traspone nel diritto svizzero gli accordi bilaterali con l’UE per l’associazione della Svizzera alla normativa di Schengen e Dublino, in vigore dal 1° giu. 2008 ([RU 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[2179](https://fedlex.data.admin.ch/eli/oc/2008/318)[2227](https://fedlex.data.admin.ch/eli/oc/2008/324); [FF 2004 5273](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
-[^355e-2]: Supplementary information request at the national entry (richieste di informazioni supplementari presso il servizio nazionale).
+[^355e-2]: Nuovo testo giusta l’all. 1 n. 4 del DF del 18 dic. 2020 approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento delle basi legali dell’istituzione, dell’esercizio e dell’uso del sistema d’informazione Schengen (SIS), in vigore dal 22 nov. 2022 ([RU 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 638](https://fedlex.data.admin.ch/eli/oc/2022/638); [FF 2020 3117](https://fedlex.data.admin.ch/eli/fga/2020/794)).
 
 #### Art. 355f e 355g
 
@@ -6607,7 +6609,7 @@ Il condannato è tenuto a partecipare in modo adeguato alle spese di esecuzione:
 
 [^380-1]: Nuovo testo giusta il n. I 1 della LF del LF del 17 mar. 2017 (Modifica della disciplina delle sanzioni), in vigore dal 1° gen. 2018 ([RU 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4181](https://fedlex.data.admin.ch/eli/fga/2012/670)).
 
-### Titolo settimo *a*:**** Responsabilità in caso di soppressione dell’internamento a vita
+### Titolo settimo *a*: Responsabilità in caso di soppressione dell’internamento a vita
 
 [^book3-tit7a-1]
 
@@ -6764,13 +6766,13 @@ I Cantoni comunicano alla Confederazione le necessarie disposizioni di applicazi
 
 Il presente Codice entra in vigore il 1° gennaio 1942.
 
-## Disposizioni finali della modifica del 18 marzo 1971****
+## Disposizioni finali della modifica del 18 marzo 1971
 
 [^u1-1]
 
 [^u1-1]: DF del 18 mar. 1971, in vigore dal 1° lug. 1971 (RS **1971** 777 808; [FF 1965 I 474](https://fedlex.data.admin.ch/eli/fga/1965/1_561_569_474)) e per gli art. 49 n. 4 cpv. 2, 82–99, 370, 372, 373, 379 n. 1 cpv. 2, 385 e 391 in vigore dal 1° gen. 1974 ([RU 1973 1840](https://fedlex.data.admin.ch/eli/oc/1973/1840_1840_1840)). Abrogate dal n. IV della LF del 13 dic. 2002, con effetto dal 1° gen. 2006 ([RU 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549)3535; FF **1999** 1669).
 
-## Disposizioni finali della modifica del 13 dicembre 2002****
+## Disposizioni finali della modifica del 13 dicembre 2002
 
 [^u2-1]
 
@@ -6784,7 +6786,7 @@ Il presente Codice entra in vigore il 1° gennaio 1942.
 
 <sup>3</sup> Le disposizioni del nuovo diritto concernenti l’esecuzione delle pene detentive (art. 74–85, 91 e 92) nonché l’assistenza riabilitativa, le norme di condotta e l’assistenza sociale volontaria (art. 93–96) sono applicabili anche a chi è stato condannato secondo il diritto anteriore.
 
-2.*[^u2-6]* Misure: decisione e esecuzione
+2.[^u2-6] Misure: decisione e esecuzione
 
 <sup>2</sup> Al più tardi dodici mesi dopo l’entrata in vigore del nuovo diritto, il giudice esamina se le persone internate secondo gli articoli 42 o 43 numero 1 secondo comma del diritto anteriore adempiono le condizioni per essere sottoposte a una misura terapeutica (art. 59–61 o 63). Se tali condizioni sono realizzate, il giudice ordina la misura pertinente; in caso contrario l’internamento prosegue secondo il nuovo diritto.
 
@@ -6819,7 +6821,7 @@ Al più tardi dieci anni dopo l’entrata in vigore del nuovo diritto i Cantoni 
 [^u2-9]: [RU 1971 777](https://fedlex.data.admin.ch/eli/oc/1971/777_777_777)
 [^u2-10]: Nuovo testo giusta il n. I della LF del 24 mar. 2006 (Correttivi in materia di sanzioni e di casellario giudiziale), in vigore dal 1° gen. 2007 ([RU 2006 3539](https://fedlex.data.admin.ch/eli/oc/2006/550); [FF 2005 4197](https://fedlex.data.admin.ch/eli/fga/2005/735)).
 
-## Disposizione transitoria della modifica del 12 dicembre 2014****
+## Disposizione transitoria della modifica del 12 dicembre 2014
 
 [^u3-1]
 
@@ -6827,7 +6829,7 @@ Al più tardi dieci anni dopo l’entrata in vigore del nuovo diritto i Cantoni 
 
 L’articolo 305<sup>bis</sup> non è applicabile ai delitti fiscali qualificati ai sensi dell’articolo 305<sup>bis</sup> numero 1<sup>bis</sup> commessi prima dell’entrata in vigore della modifica del 12 dicembre 2014.
 
-## Disposizione transitoria della modifica del 26 settembre 2014****
+## Disposizione transitoria della modifica del 26 settembre 2014
 
 [^u4-1]
 
@@ -6835,7 +6837,7 @@ L’articolo 305<sup>bis</sup> non è applicabile ai delitti fiscali qualificati
 
 Il diritto d’informazione di cui all’articolo 92*a* si applica anche all’esecuzione ordinata secondo il diritto anteriore.
 
-## Disposizione transitoria della modifica del 19 giugno 2015****
+## Disposizione transitoria della modifica del 19 giugno 2015
 
 [^u5-1]
 

@@ -4,18 +4,18 @@ title: Schweizerisches Strafgesetzbuch vom 21. Dezember 1937
 short: StGB
 eli: "https://fedlex.data.admin.ch/eli/cc/54/757_781_799"
 language: de
-version: 2022-06-01
+version: 2022-11-22
 adopted: 1937-12-21
 in_force: 1942-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20220601/de/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20220601-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20220601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20221122/de/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20221122-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20221122/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Schweizerisches Strafgesetzbuch
 
-vom 21. Dezember 1937 (Stand am 1. Juni 2022)
+vom 21. Dezember 1937 (Stand am 22. November 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -27,7 +27,7 @@ beschliesst:
 [^ingress-2]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2011 in Kraft seit 1. Juli 2012 ([AS 2012 2575](https://fedlex.data.admin.ch/eli/oc/2012/310); [BBl 2010 5651](https://fedlex.data.admin.ch/eli/fga/2010/992)[5677](https://fedlex.data.admin.ch/eli/fga/2010/994)).
 [^ingress-3]: [BBl 1918 IV 1](https://fedlex.data.admin.ch/eli/fga/1918/4_1_1_1)
 
-## Erstes Buch:**** Allgemeine Bestimmungen
+## Erstes Buch: Allgemeine Bestimmungen
 
 [^book1-1]
 
@@ -440,7 +440,7 @@ Stellt eine antragsberechtigte Person gegen einen an der Tat Beteiligten Strafan
 
 ### Erstes Kapitel: Strafen
 
-### Erster Abschnitt: Geldstrafe und Freiheitsstrafe****
+### Erster Abschnitt: Geldstrafe und Freiheitsstrafe
 
 [^book1-part1-tit3-chap1-sec1-1]
 
@@ -661,7 +661,7 @@ Das Gericht rechnet die Untersuchungshaft, die der Täter während dieses oder e
 
 [^51-1]: Fassung des zweiten Satzes gemäss Ziff. I 1 des BG vom 19. Juni 2015 (Änderungen des Sanktionenrechts), in Kraft seit 1. Jan. 2018 ([AS 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [BBl 2012 4721](https://fedlex.data.admin.ch/eli/fga/2012/670)).
 
-### Vierter Abschnitt: Strafbefreiung sowie Sistierung und Einstellung des Verfahrens****
+### Vierter Abschnitt: Strafbefreiung sowie Sistierung und Einstellung des Verfahrens
 
 [^book1-part1-tit3-chap1-sec4-1]
 
@@ -2472,7 +2472,7 @@ Wer einem Kind unter 16 Jahren alkoholische Getränke oder andere Stoffe in eine
 
 [^136-1]: Fassung gemäss Ziff. II des BG vom 20. März 2008, in Kraft seit 1. Juli 2011 ([AS 2009 2623](https://fedlex.data.admin.ch/eli/oc/2009/352), [2011 2559](https://fedlex.data.admin.ch/eli/oc/2011/361); [BBl 2006 8573](https://fedlex.data.admin.ch/eli/fga/2006/1086)[8645](https://fedlex.data.admin.ch/eli/fga/2006/1088)).
 
-### Zweiter Titel:**** Strafbare Handlungen gegen das Vermögen
+### Zweiter Titel: Strafbare Handlungen gegen das Vermögen
 
 [^book2-tit2-1]
 
@@ -2959,7 +2959,7 @@ wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.
 
 <sup>2</sup> Diese Vorschrift gilt nicht bei qualifiziertem Diebstahl (Art. 139 Ziff. 2 und 3), bei Raub und Erpressung.
 
-### Dritter Titel: Strafbare Handlungen gegen die Ehre und den Geheim- oder Privatbereich****
+### Dritter Titel: Strafbare Handlungen gegen die Ehre und den Geheim- oder Privatbereich
 
 [^book2-tit3-1]
 
@@ -3308,7 +3308,7 @@ Mit Freiheitsstrafe nicht unter einem Jahr wird bestraft, wer in der Absicht, ei
 
 Wer gegen den Willen des Berechtigten in ein Haus, in eine Wohnung, in einen abgeschlossenen Raum eines Hauses oder in einen unmittelbar zu einem Hause gehörenden umfriedeten Platz, Hof oder Garten oder in einen Werkplatz unrechtmässig eindringt oder, trotz der Aufforderung eines Berechtigten, sich zu entfernen, darin verweilt, wird, auf Antrag, mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.
 
-### Fünfter Titel:**** Strafbare Handlungen gegen die sexuelle Integrität
+### Fünfter Titel: Strafbare Handlungen gegen die sexuelle Integrität
 
 [^book2-tit5-1]
 
@@ -4239,7 +4239,7 @@ wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.
 [^263-1]: Strafdrohungen neu umschrieben gemäss Ziff. II 1 des BG vom 19. Juni 2015 (Änderung des Sanktionenrechts), in Kraft seit 1. Jan. 2018 ([AS 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [BBl 2012 4721](https://fedlex.data.admin.ch/eli/fga/2012/670)).
 [^263-2]: Fassung gemäss Ziff. II 1 Abs. 16 des BG vom 13. Dez. 2002, in Kraft seit 1. Jan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979).
 
-### Zwölfter Titel<sup>bis</sup>:**** Völkermord und Verbrechen gegen die Menschlichkeit
+### Zwölfter Titel<sup>bis</sup>: Völkermord und Verbrechen gegen die Menschlichkeit
 
 [^book2-tit12bis-1]
 
@@ -4305,7 +4305,7 @@ Mit Freiheitsstrafe nicht unter fünf Jahren wird bestraft, wer im Rahmen eines 
 
 <sup>3</sup> In weniger schweren Fällen nach Absatz 1 Buchstaben c–j kann auf Freiheitsstrafe nicht unter einem Jahr erkannt werden.
 
-### Zwölfter Titel<sup>ter</sup>:**** Kriegsverbrechen
+### Zwölfter Titel<sup>ter</sup>: Kriegsverbrechen
 
 [^book2-tit12ter-1]
 
@@ -4442,7 +4442,7 @@ Mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe wird bestraft, wer:
 
 Mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe wird bestraft, wer im Zusammenhang mit einem bewaffneten Konflikt auf andere Weise als nach den Artikeln 264*c*–264*i* eine Vorschrift des humanitären Völkerrechts verletzt, deren Verletzung durch das Völkergewohnheitsrecht oder ein internationales, von der Schweiz als verbindlich anerkanntes Übereinkommen als strafbar erklärt wird.
 
-### Zwölfter Titel<sup>quater</sup>:**** Gemeinsame Bestimmungen für den zwölften Titel<sup>bis</sup> und den zwölften Titel<sup>ter</sup>
+### Zwölfter Titel<sup>quater</sup>: Gemeinsame Bestimmungen für den zwölften Titel<sup>bis</sup> und den zwölften Titel<sup>ter</sup>
 
 [^book2-tit12quater-1]
 
@@ -5329,7 +5329,7 @@ Wer als Verantwortlicher nach Artikel 28 Absätze 2 und 3 eine Veröffentlichung
 [^322bis-1]: Eingefügt durch Ziff. I des BG vom 10. Okt. 1997, in Kraft seit 1. April 1998 ([AS 1998 852](https://fedlex.data.admin.ch/eli/oc/1998/852_852_852); [BBl 1996 IV 525](https://fedlex.data.admin.ch/eli/fga/1996/4_525_533_449)).
 [^322bis-2]: Fassung des Halbsatzes gemäss Ziff. II 2 des BG vom 13. Dez. 2002, in Kraft seit 1. Jan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979).
 
-### Neunzehnter Titel:**** Bestechung
+### Neunzehnter Titel: Bestechung
 
 [^book2-tit19-1]
 
@@ -5428,7 +5428,7 @@ Keine nicht gebührenden Vorteile sind:
 
 [^322decies-1]: Eingefügt durch Ziff. I des BG vom 25. Sept. 2015 (Korruptionsstrafrecht), in Kraft seit 1. Juli 2016 ([AS 2016 1287](https://fedlex.data.admin.ch/eli/oc/2016/257); [BBl 2014 3591](https://fedlex.data.admin.ch/eli/fga/2014/787)).
 
-### Zwanzigster Titel:**** Übertretungen bundesrechtlicher Bestimmungen
+### Zwanzigster Titel: Übertretungen bundesrechtlicher Bestimmungen
 
 [^book2-tit20-1]
 
@@ -5681,7 +5681,7 @@ Wer beim Fund oder bei der Zuführung einer Sache nicht die in den Artikeln 720 
 [^332-1]: Fassung gemäss Ziff. III des BG vom 4. Okt. 2002 (Grundsatzartikel Tiere), in Kraft seit 1. April 2003 ([AS 2003 463](https://fedlex.data.admin.ch/eli/oc/2003/100); [BBl 2002 4164](https://fedlex.data.admin.ch/eli/fga/2002/591)[5806](https://fedlex.data.admin.ch/eli/fga/2002/895)).
 [^332-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 
-## Drittes Buch:**** Einführung und Anwendung des Gesetzes
+## Drittes Buch: Einführung und Anwendung des Gesetzes
 
 [^book3-1]
 
@@ -5754,7 +5754,7 @@ Wird in Bundesvorschriften auf Bestimmungen verwiesen, die durch dieses Gesetz g
 
 [^339348-1]: Aufgehoben durch Anhang 1 Ziff. II 8 der Strafprozessordnung vom 5. Okt. 2007, mit Wirkung seit 1. Jan. 2011 ([AS 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 
-### Vierter Titel: Amtshilfe im Bereich der Polizei****
+### Vierter Titel: Amtshilfe im Bereich der Polizei
 
 [^book3-tit4-1]
 
@@ -6013,9 +6013,10 @@ Folgende Behörden können Daten im Rahmen von Absatz 1 vergleichen und bearbeit
 - a. das Rechenzentrum des Eidgenössischen Justiz- und Polizeidepartementes;
 - b. das Bundesamt für Polizei;
 - c. die Grenzstellen;
-- d. die Polizeibehörden der Kantone.
+- d. die Polizeibehörden der Kantone;
+- e.[^354-1] das Staatssekretariat für Migration (SEM).
 
-<sup>3</sup> Die Personendaten, die sich auf erkennungsdienstliche Daten nach Absatz 1 beziehen, werden in getrennten Informationssystemen bearbeitet; dabei gelten die Bestimmungen des Bundesgesetzes vom 13. Juni 2008[^354-1] über die polizeilichen Informationssysteme des Bundes, des Asylgesetzes vom 26. Juni 1998[^354-2] und des Bundesgesetzes vom 16. Dezember 2005[^354-3] über die Ausländerinnen und Ausländer. Das DNA-Profil-Informationssystem unterliegt den Bestimmungen des DNA-Profil-Gesetzes vom 20. Juni 2003[^354-4].[^354-5]
+<sup>3</sup> Die Personendaten, die sich auf erkennungsdienstliche Daten nach Absatz 1 beziehen, werden in getrennten Informationssystemen bearbeitet; dabei gelten die Bestimmungen des Bundesgesetzes vom 13. Juni 2008[^354-2] über die polizeilichen Informationssysteme des Bundes, des Asylgesetzes vom 26. Juni 1998[^354-3] und des Bundesgesetzes vom 16. Dezember 2005[^354-4] über die Ausländerinnen und Ausländer. Das DNA-Profil-Informationssystem unterliegt den Bestimmungen des DNA-Profil-Gesetzes vom 20. Juni 2003[^354-5].[^354-6]
 
 <sup>4</sup>
 
@@ -6023,16 +6024,19 @@ Der Bundesrat:
 
 - a. regelt die Einzelheiten, insbesondere die Verantwortung für die Datenbearbeitung, die Kategorien der zu erfassenden Daten, die Aufbewahrungsdauer der Daten und die Zusammenarbeit mit den Kantonen;
 - b. bestimmt die Behörden, welche Personendaten im Abrufverfahren eingeben und abfragen oder denen Personendaten im Einzelfall bekannt gegeben werden können;
-- c. regelt die Verfahrensrechte der betroffenen Personen, insbesondere die Einsicht in ihre Daten sowie deren Berichtigung, Archivierung und Vernichtung.
+- c. regelt die Verfahrensrechte der betroffenen Personen, insbesondere die Einsicht in ihre Daten sowie deren Berichtigung, Archivierung und Vernichtung;
+- d.[^354-7] regelt die Übermittlung der erkennungsdienstlichen Daten durch die zuständigen Bundesbehörden und die Kantone.
 
-<sup>5</sup> Das SEM oder das Bundesamt für Polizei (fedpol) können die Daten zwecks SIS-Ausschreibungen im Schengener Informationssystem (SIS) in einem automatisierten Verfahren in den nationalen Teil des Schengener Informationssystems (N-SIS) und das SIS überführen.[^354-6]
+<sup>5</sup> Das SEM oder das Bundesamt für Polizei (fedpol) können die Daten zwecks SIS-Ausschreibungen im Schengener Informationssystem (SIS) in einem automatisierten Verfahren in den nationalen Teil des Schengener Informationssystems (N-SIS) und das SIS überführen.[^354-8]
 
-[^354-1]: [SR 361](https://fedlex.data.admin.ch/eli/cc/2008/698)
-[^354-2]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
-[^354-3]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^354-4]: [SR 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
-[^354-5]: Fassung gemäss Anhang 1 Ziff. 5 des BG vom 13. Juni 2008 über die polizeilichen Informationssysteme des Bundes, in Kraft seit 5. Dez. 2008 ([AS 2008 4989](https://fedlex.data.admin.ch/eli/oc/2008/698); [BBl 2006 5061](https://fedlex.data.admin.ch/eli/fga/2006/611)).
-[^354-6]: Eingefügt durch Anhang 1 Ziff. 4 des BB vom 18. Dez. 2020 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Rechtsgrundlagen über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems (SIS), in Kraft seit 1. Juli 2021 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^354-1]: Eingefügt durch Anhang 1 Ziff. 4 des BB vom 18. Dez. 2020 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Rechtsgrundlagen über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems (SIS), in Kraft seit 22. Nov. 2022 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 638](https://fedlex.data.admin.ch/eli/oc/2022/638); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^354-2]: [SR 361](https://fedlex.data.admin.ch/eli/cc/2008/698)
+[^354-3]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^354-4]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^354-5]: [SR 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
+[^354-6]: Fassung gemäss Anhang 1 Ziff. 5 des BG vom 13. Juni 2008 über die polizeilichen Informationssysteme des Bundes, in Kraft seit 5. Dez. 2008 ([AS 2008 4989](https://fedlex.data.admin.ch/eli/oc/2008/698); [BBl 2006 5061](https://fedlex.data.admin.ch/eli/fga/2006/611)).
+[^354-7]: Eingefügt durch Anhang 1 Ziff. 4 des BB vom 18. Dez. 2020 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Rechtsgrundlagen über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems (SIS), in Kraft seit 22. Nov. 2022 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 638](https://fedlex.data.admin.ch/eli/oc/2022/638); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^354-8]: Eingefügt durch Anhang 1 Ziff. 4 des BB vom 18. Dez. 2020 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Rechtsgrundlagen über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems (SIS), in Kraft seit 1. Juli 2021 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
 
 ### 4. …
 
@@ -6054,7 +6058,7 @@ Der Bundesrat:
 
 [^355a-1]
 
-<sup>1</sup> Das Bundesamt für Polizei (fedpol) und der Nachrichtendienst des Bundes (NDB) können dem Europäischen Polizeiamt (Europol) Personendaten, einschliesslich besonders schützenswerter Personendaten und Persönlichkeitsprofile, weitergeben.[^355a-2]
+<sup>1</sup> Das fedpol und der Nachrichtendienst des Bundes (NDB) können dem Europäischen Polizeiamt (Europol) Personendaten, einschliesslich besonders schützenswerter Personendaten und Persönlichkeitsprofile, weitergeben.[^355a-2]
 
 <sup>2</sup> Für die Weitergabe dieser Daten gelten insbesondere die Voraussetzungen nach den Artikeln 3 und 10–13 des Abkommens vom 24. September 2004[^355a-3] zwischen der Schweizerischen Eidgenossenschaft und dem Europäischen Polizeiamt.
 
@@ -6063,7 +6067,7 @@ Der Bundesrat:
 <sup>4</sup> Der Austausch von Personendaten mit Europol wird dem Austausch mit einer zuständigen Behörde eines Schengen-Staates gleichgesetzt (Art. 349*b*).[^355a-4]
 
 [^355a-1]: Eingefügt durch Art. 2 des BB vom 7. Okt. 2005 über die Genehmigung und die Umsetzung des Abk. zwischen der Schweiz und dem Europol, in Kraft seit 1. April 2006 ([AS 2006 1017](https://fedlex.data.admin.ch/eli/oc/2006/180); [BBl 2005 983](https://fedlex.data.admin.ch/eli/fga/2005/131)).
-[^355a-2]: Fassung gemäss Ziff. I 3 der V vom 4. Dez. 2009 über die Anpassung gesetzlicher Bestim-mungen infolge der Schaffung des Nachrichtendienstes des Bundes, in Kraft seit 1. Jan. 2010 ([AS 2009 6921](https://fedlex.data.admin.ch/eli/oc/2009/846)).
+[^355a-2]: Fassung gemäss Anhang 1 Ziff. 4 des BB vom 18. Dez. 2020 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Rechtsgrundlagen über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems (SIS), in Kraft seit 1. Juli 2021 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
 [^355a-3]: [SR 0.362.2](https://fedlex.data.admin.ch/eli/cc/2006/181)
 [^355a-4]: Eingefügt durch Ziff. II 2 des BG vom 28. Sept. 2018 über die Umsetzung der Richtlinie (EU) 2016/680 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten zum Zwecke der Verhütung, Ermittlung, Aufdeckung oder Verfolgung von Straftaten oder der Strafvollstreckung, in Kraft seit 1. März 2019 ([AS 2019 625](https://fedlex.data.admin.ch/eli/oc/2019/111); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
@@ -6109,12 +6113,12 @@ Die Polizeiorgane des Bundes und der Kantone vollziehen die Bestimmungen der Sch
 
 [^355e-1]
 
-<sup>1</sup> Das Bundesamt für Polizei führt eine zentrale Stelle (SIRENE-Büro[^355e-2]), die für den N-SIS zuständig ist.
+<sup>1</sup> Das fedpol führt die zentrale Stelle für den Austausch von Zusatzinformationen mit den Schengen Staaten (SIRENE-Büro).[^355e-2]
 
 <sup>2</sup> Das SIRENE-Büro ist Anlauf-, Koordinations- und Konsultationsstelle für den Informationsaustausch im Zusammenhang mit den Ausschreibungen im SIS. Es überprüft die formelle Zulässigkeit der in- und ausländischen Ausschreibungen im SIS.
 
 [^355e-1]: Eingefügt durch Art. 3 Ziff. 4 des BB vom 17. Dez. 2004 über die Genehmigung und die Umsetzung der bilateralen Abkommen zwischen der Schweiz und der EU über die Assoziierung an Schengen und an Dublin, in Kraft seit 1. Juni 2008 ([AS 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[2179](https://fedlex.data.admin.ch/eli/oc/2008/318)[2227](https://fedlex.data.admin.ch/eli/oc/2008/324); [BBl 2004 5965](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
-[^355e-2]: Supplementary Information REquest at the National Entry (Anträge auf Zusatzinformationen bei der nationalen Eingangsstelle).
+[^355e-2]: Fassung gemäss Anhang 1 Ziff. 4 des BB vom 18. Dez. 2020 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Rechtsgrundlagen über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems (SIS), in Kraft seit 22. Nov. 2022 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365), [2022 638](https://fedlex.data.admin.ch/eli/oc/2022/638); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
 
 #### Art. 355f und 355g
 
@@ -6632,7 +6636,7 @@ Der Verurteilte wird in angemessener Weise an den Kosten des Vollzugs beteiligt:
 
 [^380-1]: Fassung gemäss Ziff. I 1 des BG vom 19. Juni 2015 (Änderungen des Sanktionenrechts), in Kraft seit 1. Jan. 2018 ([AS 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [BBl 2012 4721](https://fedlex.data.admin.ch/eli/fga/2012/670)).
 
-### 7*a*. Titel:**** Haftung bei Aufhebung der lebenslänglichen Verwahrung
+### 7*a*. Titel: Haftung bei Aufhebung der lebenslänglichen Verwahrung
 
 [^book3-tit7a-1]
 
@@ -6789,13 +6793,13 @@ Die Kantone teilen dem Bund die nötigen Einführungsbestimmungen zum Schweizeri
 
 Dieses Gesetz tritt am 1. Januar 1942 in Kraft.
 
-## Schlussbestimmungen der Änderung vom 18. März 1971****
+## Schlussbestimmungen der Änderung vom 18. März 1971
 
 [^u1-1]
 
 [^u1-1]: BG vom 18. März 1971, in Kraft seit 1. Juli 1971 ([AS 1971 777](https://fedlex.data.admin.ch/eli/oc/1971/777_777_777); [BBl 1965 I 561](https://fedlex.data.admin.ch/eli/fga/1965/1_561_569_474)) und für die Art. 49 Ziff. 4 Abs. 2, 82–99, 370, 372, 373, 379 Ziff. 1 Abs. 2, 385 und 391 in Kraft seit 1. Jan. 1974 ([AS 1973 1840](https://fedlex.data.admin.ch/eli/oc/1973/1840_1840_1840)). Aufgehoben durch Ziff. IV des BG vom 13. Dez. 2002, mit Wirkung seit 1. Jan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979).
 
-## Schlussbestimmungen der Änderung vom 13. Dezember 2002****
+## Schlussbestimmungen der Änderung vom 13. Dezember 2002
 
 [^u2-1]
 
@@ -6809,7 +6813,7 @@ Dieses Gesetz tritt am 1. Januar 1942 in Kraft.
 
 <sup>3</sup> Die Bestimmungen des neuen Rechts über den Vollzug von Freiheitsstrafen (Art. 74–85, 91 und 92) sowie über die Bewährungshilfe, die Weisungen und die freiwillige soziale Betreuung (Art. 93–96) sind auch auf die Täter anwendbar, die nach bisherigem Recht verurteilt worden sind.
 
-2.*[^u2-6]* Anordnung und Vollzug von Massnahmen
+2.[^u2-6] Anordnung und Vollzug von Massnahmen
 
 <sup>2</sup> Bis spätestens zwölf Monate nach Inkrafttreten des neuen Rechts überprüft das Gericht, ob bei Personen, die nach den Artikeln 42 oder 43 Ziffer 1 Absatz 2 des bisherigen Rechts verwahrt sind, die Voraussetzungen für eine therapeutische Massnahme (Art. 59–61 oder 63) erfüllt sind. Trifft dies zu, so ordnet das Gericht die entsprechende Massnahme an; andernfalls wird die Verwahrung nach neuem Recht weitergeführt.
 
@@ -6844,7 +6848,7 @@ Die Kantone errichten bis spätestens zehn Jahre nach Inkrafttreten dieser Ände
 [^u2-9]: [AS 1971 777](https://fedlex.data.admin.ch/eli/oc/1971/777_777_777)
 [^u2-10]: Fassung gemäss Ziff. I des BG vom 24. März 2006 (Korrekturen am Sanktions- und Strafregisterrecht), in Kraft seit 1. Jan. 2007 ([AS 2006 3539](https://fedlex.data.admin.ch/eli/oc/2006/550); [BBl 2005 4689](https://fedlex.data.admin.ch/eli/fga/2005/735)).
 
-## Übergangsbestimmung der Änderung vom 12. Dezember 2014****
+## Übergangsbestimmung der Änderung vom 12. Dezember 2014
 
 [^u3-1]
 
@@ -6852,7 +6856,7 @@ Die Kantone errichten bis spätestens zehn Jahre nach Inkrafttreten dieser Ände
 
 Artikel 305<sup>bis</sup> ist nicht anwendbar auf qualifizierte Steuervergehen im Sinne von Artikel 305<sup>bis</sup> Ziffer 1<sup>bis</sup>, die vor dem Inkrafttreten der Änderung vom 12. Dezember 2014 begangen wurden.
 
-## Übergangsbestimmung zur Änderung vom 26. September 2014****
+## Übergangsbestimmung zur Änderung vom 26. September 2014
 
 [^u4-1]
 
@@ -6860,7 +6864,7 @@ Artikel 305<sup>bis</sup> ist nicht anwendbar auf qualifizierte Steuervergehen i
 
 Das Informationsrecht nach Artikel 92*a* ist auch auf den Vollzug anwendbar, der nach bisherigem Recht angeordnet worden ist.
 
-## Übergangsbestimmung zur Änderung vom 19. Juni 2015****
+## Übergangsbestimmung zur Änderung vom 19. Juni 2015
 
 [^u5-1]
 
