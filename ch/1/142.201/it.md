@@ -4,11 +4,11 @@ title: "Ordinanza del 24 ottobre 2007 sull'ammissione, il soggiorno e l'attivit�
 short: OASA
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/759"
 language: it
-version: 2022-03-12
+version: 2022-11-22
 adopted: 2007-10-24
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/759/20220312/it/xml/fedlex-data-admin-ch-eli-cc-2007-759-20220312-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/759/20220312/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/759/20221122/it/xml/fedlex-data-admin-ch-eli-cc-2007-759-20221122-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/759/20221122/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/759/20220312/it"
 
 (OASA)
 
-del 24 ottobre 2007 (Stato 12 marzo 2022)
+del 24 ottobre 2007 (Stato 22 novembre 2022)
 
 Il Consiglio federale svizzero,
 
@@ -29,7 +29,7 @@ ordina:
 [^ingress-2]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
 [^ingress-3]: Nuovo testo giusta il n. I dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
 
-## Capitolo 1: Campo d’applicazione e definizioni****
+## Capitolo 1: Campo d’applicazione e definizioni
 
 [^chap1-1]
 
@@ -439,7 +439,7 @@ Non v’è computo sui contingenti (art. 19–20*b*) se lo straniero:[^21-1]
 
 [^22b-1]: Originario art. 22*a*. Introdotto dal n. I dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
 
-### Sezione 2: Formazione e formazione continua****
+### Sezione 2: Formazione e formazione continua
 
 [^chap3-sec2-1]
 
@@ -1180,7 +1180,7 @@ Lo straniero titolare del permesso di domicilio deve presentare o consegnare, pe
 
 [^63-1]: Nuovo testo giusta il n. I dell’O del 12 dic. 2008, in vigore dal 1° gen. 2009 ([RU 2008 6273](https://fedlex.data.admin.ch/eli/oc/2008/856)).
 
-### Sezione 4: Richiedenti l’asilo, persone bisognose di protezione, stranieri ammessi provvisoriamente, rifugiati e apolidi esercitanti un’attività lucrativa****
+### Sezione 4: Richiedenti l’asilo, persone bisognose di protezione, stranieri ammessi provvisoriamente, rifugiati e apolidi esercitanti un’attività lucrativa
 
 [^chap4-sec4-1]
 
@@ -1348,7 +1348,7 @@ Nel caso di minorenni stranieri sotto tutela (art. 327*a*–327*c* del Codice ci
 [^70-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 [^70-3]: Nuovo testo giusta il n. I dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
 
-## Capitolo 5:**** Carta di soggiorno
+## Capitolo 5: Carta di soggiorno
 
 [^chap5-1]
 
@@ -1565,7 +1565,7 @@ La SEM è autorizzata a comunicare i diritti di lettura per le impronte digitali
 [^72a-1]: Nuovo testo giusta il n. II dell’O del 7 lug. 2016, in vigore dal 1° ago. 2016 ([RU 2016 2637](https://fedlex.data.admin.ch/eli/oc/2016/420)).
 [^72a-2]: Cfr. nota a piè di pagina relativa all’art. 71*c*.
 
-## Capitolo 5*a*:**** Centro incaricato di confezionare la carta di soggiorno biometrica
+## Capitolo 5*a*: Centro incaricato di confezionare la carta di soggiorno biometrica
 
 [^chap5a-1]
 
@@ -1744,7 +1744,7 @@ Come indizi di violenza coniugale valgono in particolare:
 [^77-7]: Introdotto dal n. I dell’O del 23 nov. 2011, in vigore dal 1° gen. 2012 ([RU 2011 5855](https://fedlex.data.admin.ch/eli/oc/2011/806)).
 [^77-8]: Nuovo testo giusta il n. I dell’O del 23 nov. 2011, in vigore dal 1° gen. 2012 ([RU 2011 5855](https://fedlex.data.admin.ch/eli/oc/2011/806)).
 
-## Capitolo 6*a*:**** Criteri d’integrazione
+## Capitolo 6*a*: Criteri d’integrazione
 
 [^chap6a-1]
 
@@ -1889,7 +1889,7 @@ Nel valutare i criteri d’integrazione di cui all’articolo 58*a* capoverso 1 
 
 Le autorità cantonali possono chiedere alla SEM di pronunciare un divieto d’entrare in Svizzera.
 
-## Capitolo 8: Obblighi di comunicare, assistenza amministrativa e trasmissione dei dati****
+## Capitolo 8: Obblighi di comunicare, assistenza amministrativa e trasmissione dei dati
 
 [^chap8-1]
 
@@ -2155,21 +2155,35 @@ I dati di cui al capoverso 1 lettere a e b possono essere rilevati al fine della
 - d. presenta documenti falsi o falsificati;
 - e. entra in Svizzera o lascia la Svizzera illegalmente o soggiorna illegalmente in Svizzera;
 - f.[^87-3] dichiara di avere cambiato cognome;
-- g.[^87-4] non dimostra che tutte le condizioni di ingresso di cui all’articolo 6 paragrafo 1 del codice frontiere Schengen[^87-5] sono soddisfatte.[^87-6]
+- g.[^87-4] non dimostra che tutte le condizioni di ingresso di cui all’articolo 6 paragrafo 1 del codice frontiere Schengen[^87-5] sono soddisfatte;
+- h.[^87-6] è tenuto a lasciare la Svizzera in seguito a una decisione di rimpatrio secondo l’articolo 68*a* capoverso 1 LStrI e tale decisione si applica all’intero spazio Schengen, oppure se è oggetto di un divieto d’entrata nello spazio Schengen e le sue impronte digitali non sono contenute nell’AFIS.[^87-7]
 
-<sup>1ter</sup> Allo scopo di accertare e assicurare l’identità dello straniero in questione, le autorità di cui all’articolo 4 capoverso 1 lettera e dell’ordinanza del 6 dicembre 2013[^87-7] sul trattamento dei dati segnaletici di natura biometrica possono far registrare i dati segnaletici di natura biometrica in AFIS.[^87-8]
+<sup>1ter</sup> Allo scopo di accertare e assicurare l’identità dello straniero in questione, le autorità di cui all’articolo 4 capoverso 1 lettera e dell’ordinanza del 6 dicembre 2013[^87-8] sul trattamento dei dati segnaletici di natura biometrica possono far registrare i dati segnaletici di natura biometrica in AFIS.[^87-9]
 
-<sup>1quater</sup> La SEM può autorizzare un’autorità di cui all’articolo 4 capoverso 1 lettera h dell’ordinanza del 6 dicembre 2013 sul trattamento dei dati segnaletici di natura biometrica (autorità committente) a eseguire confronti di dati in AFIS. L’autorità committente presenta prima una richiesta scritta alla SEM in cui spiega la necessità di eseguire i confronti dei dati per adempiere le sue mansioni.[^87-9]
+<sup>1quater</sup> La SEM può autorizzare un’autorità di cui all’articolo 4 capoverso 1 lettera h dell’ordinanza del 6 dicembre 2013 sul trattamento dei dati segnaletici di natura biometrica (autorità committente) a eseguire confronti di dati in AFIS. L’autorità committente presenta prima una richiesta scritta alla SEM in cui spiega la necessità di eseguire i confronti dei dati per adempiere le sue mansioni.[^87-10]
 
-<sup>1quinquies</sup> Il servizio competente per la gestione di AFIS inoltra i risultati dei confronti ai sensi del capoverso 1<sup>quater</sup> a un organo designato dalla SEM d’intesa con l’autorità committente. Detto organo prepara i risultati dei confronti e li inoltra all’autorità committente.[^87-10]
+<sup>1quinquies</sup> Il servizio competente per la gestione di AFIS inoltra i risultati dei confronti ai sensi del capoverso 1<sup>quater</sup> a un organo designato dalla SEM d’intesa con l’autorità committente. Detto organo prepara i risultati dei confronti e li inoltra all’autorità committente.[^87-11]
 
-<sup>1sexies</sup> I dati segnaletici di natura biometrica rilevati dalle autorità di cui all’articolo 4 capoverso 1 lettera h dell’ordinanza del 6 dicembre 2013 sul trattamento dei dati segnaletici di natura biometrica non sono registrati in AFIS.[^87-11]
+<sup>1sexies</sup> I dati segnaletici di natura biometrica rilevati dalle autorità di cui all’articolo 4 capoverso 1 lettera h dell’ordinanza del 6 dicembre 2013 sul trattamento dei dati segnaletici di natura biometrica non sono registrati in AFIS.[^87-12]
 
-<sup>2</sup> La trasmissione e la registrazione delle impronte digitali, nonché il trattamento dei dati personali corrispondenti sono effettuati conformemente all’ordinanza del 6 dicembre 2013 sul trattamento dei dati segnaletici di natura biometrica. Le impronte digitali sono cancellate due anni dopo il rilevamento segnaletico.[^87-12]
+<sup>2</sup> La trasmissione e la registrazione delle impronte digitali, nonché il trattamento dei dati personali corrispondenti sono effettuati conformemente all’ordinanza del 6 dicembre 2013 sul trattamento dei dati segnaletici di natura biometrica. Le impronte digitali sono cancellate due anni dopo il rilevamento segnaletico.[^87-13]
 
-<sup>3</sup> Il trattamento, la comunicazione e la registrazione dei dati nonché la loro sicurezza sono retti dalle pertinenti disposizioni dell’ordinanza del 12 aprile 2006[^87-13] concernente il sistema d’informazione centrale sulla migrazione (ordinanza SIMIC), in particolare dagli articoli 2, 4, 9, 11, nonché 16–19 dell’ordinanza SIMIC.
+<sup>2bis</sup> Il rilevamento dei dati di cui al capoverso 1<sup>bis</sup> lettera h è effettuato esclusivamente al fine della loro trasmissione alla parte nazionale del Sistema d’informazione Schengen. I dati sono cancellati dopo sei mesi. Non sono oggetto di confronti.[^87-14]
 
-<sup>4</sup> L’immagine del volto e le due impronte digitali di cui all’articolo 71*c* sono utilizzate per il rilascio di una carta di soggiorno conformemente al regolamento (CE) n. 1030/2002[^87-14]. L’accesso a tali dati è disciplinato dall’ordinanza SIMIC (allegato 1).[^87-15]
+<sup>2ter</sup>
+
+Nei casi seguenti si rinuncia al rilevamento dei dati di cui al capoverso 1<sup>bis</sup> lettera h:
+
+- a. la persona è di età inferiore ai 12 anni;
+- b. le condizioni fisiche o di salute della persona non permettono il rilevamento.[^87-15]
+
+<sup>2quater</sup> Si può eccezionalmente rinunciare al rilevamento dei dati di cui al capoverso 1<sup>bis</sup> lettera h se, sulla base di elementi concreti, vi è la certezza che la persona lascerà la Svizzera e lo spazio Schengen entro i termini previsti e non vi è una richiesta di non ammissione.[^87-16]
+
+<sup>2quinquies</sup> In caso di situazioni straordinarie, il DFGP è autorizzato a prevedere in un’ordinanza altre deroghe.[^87-17]
+
+<sup>3</sup> Il trattamento, la comunicazione e la registrazione dei dati nonché la loro sicurezza sono retti dalle pertinenti disposizioni dell’ordinanza del 12 aprile 2006[^87-18] concernente il sistema d’informazione centrale sulla migrazione (ordinanza SIMIC), in particolare dagli articoli 2, 4, 9, 11, nonché 16–19 dell’ordinanza SIMIC.
+
+<sup>4</sup> L’immagine del volto e le due impronte digitali di cui all’articolo 71*c* sono utilizzate per il rilascio di una carta di soggiorno conformemente al regolamento (CE) n. 1030/2002[^87-19]. L’accesso a tali dati è disciplinato dall’ordinanza SIMIC (allegato 1).[^87-20]
 
 <sup>5</sup>
 
@@ -2177,27 +2191,32 @@ I dati di cui al capoverso 1 lettere a e b possono essere rilevati sistematicame
 
 - a. i richiedenti un visto C o D titolari di documenti di viaggio in caso di dubbio fondato riguardo alla loro identità;
 - b. i richiedenti un visto D che fanno valere il ricongiungimento familiare in Svizzera;
-- c. i richiedenti un visto D per motivi umanitari ai sensi dell’articolo 4 capoverso 2 dell’ordinanza del 15 agosto 2018[^87-16] concernente l’entrata e il rilascio del visto.[^87-17]
+- c. i richiedenti un visto D per motivi umanitari ai sensi dell’articolo 4 capoverso 2 dell’ordinanza del 15 agosto 2018[^87-21] concernente l’entrata e il rilascio del visto.[^87-22]
 
 [^87-1]: [RS 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537)
 [^87-2]: Nuovo testo giusta il n. I dell’O del 19 feb. 2020, in vigore dal 1° apr. 2020 ([RU 2020 883](https://fedlex.data.admin.ch/eli/oc/2020/171)).
 [^87-3]: Introdotta dal n. I dell’O del 19 feb. 2020, in vigore dal 1° apr. 2020 ([RU 2020 883](https://fedlex.data.admin.ch/eli/oc/2020/171)).
 [^87-4]: Introdotta dal n. I dell’O del 19 feb. 2020, in vigore dal 1° apr. 2020 ([RU 2020 883](https://fedlex.data.admin.ch/eli/oc/2020/171)).
 [^87-5]: Regolamento (UE) 2016/399 del Parlamento europeo e del Consiglio, del 9 marzo 2016, che istituisce un codice unionale relativo al regime di attraversamento delle frontiere da parte delle persone (codice frontiere Schengen), GU L 77 del 23.3.2016, pag. 1; modificato da ultimo dal regolamento (UE) 2017/458, GU L 74 del 18.3.2017, p. 1.
-[^87-6]: Introdotto dall’all. n. 1 dell’O del 6 dic. 2013 sul trattamento dei dati segnaletici di natura biometrica, in vigore dal 1° set. 2014 ([RU 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
-[^87-7]: [RS 361.3](https://fedlex.data.admin.ch/eli/cc/2014/23)
-[^87-8]: Introdotto dall’all. n. 1 dell’O del 6 dic. 2013 sul trattamento dei dati segnaletici di natura biometrica, in vigore dal 1° set. 2014 ([RU 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
+[^87-6]: Introdotta dal n. I dell’O del 19 ott. 2022, in vigore dal 22 nov. 2022 ([RU 2022 645](https://fedlex.data.admin.ch/eli/oc/2022/645)).
+[^87-7]: Introdotto dall’all. n. 1 dell’O del 6 dic. 2013 sul trattamento dei dati segnaletici di natura biometrica, in vigore dal 1° set. 2014 ([RU 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
+[^87-8]: [RS 361.3](https://fedlex.data.admin.ch/eli/cc/2014/23)
 [^87-9]: Introdotto dall’all. n. 1 dell’O del 6 dic. 2013 sul trattamento dei dati segnaletici di natura biometrica, in vigore dal 1° set. 2014 ([RU 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
-[^87-10]: Introdotto dall’all. n. 1 dell’O del 6 dic. 2013 sul trattamento dei dati segnaletici di natura biometrica ([RU 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)). Nuovo testo giusta il n. I dell’O del 15 ago. 2018, in vigore dal 15 set. 2018 ([RU 2018 3085](https://fedlex.data.admin.ch/eli/oc/2018/492)).
-[^87-11]: Introdotto dall’all. n. 1 dell’O del 6 dic. 2013 sul trattamento dei dati segnaletici di natura biometrica, in vigore dal 1° set. 2014 ([RU 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
-[^87-12]: Nuovo testo giusta il n. I dell’O del 28 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4441](https://fedlex.data.admin.ch/eli/oc/2014/738)).
-[^87-13]: [RS 142.513](https://fedlex.data.admin.ch/eli/cc/2006/303)
-[^87-14]: Cfr. nota a piè di pagina relativa all’art. 71*c*.
-[^87-15]: Introdotto dal n. I dell’O del 17 dic. 2010 ([RU 2011 99](https://fedlex.data.admin.ch/eli/oc/2011/18)). Nuovo testo giusta il n. I 1 dell’O del 12 giu. 2005 sull’adeguamento di ordinanze in seguito a innovazioni concernenti l’acquis di Dublino/Eurodac, in vigore dal 1° lug. 2015 ([RU 2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)).
-[^87-16]: [RS 142.204](https://fedlex.data.admin.ch/eli/cc/2018/493)
-[^87-17]: Introdotto dal n. I dell’O del 19 feb. 2020, in vigore dal 1° apr. 2020 ([RU 2020 883](https://fedlex.data.admin.ch/eli/oc/2020/171)).
+[^87-10]: Introdotto dall’all. n. 1 dell’O del 6 dic. 2013 sul trattamento dei dati segnaletici di natura biometrica, in vigore dal 1° set. 2014 ([RU 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
+[^87-11]: Introdotto dall’all. n. 1 dell’O del 6 dic. 2013 sul trattamento dei dati segnaletici di natura biometrica ([RU 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)). Nuovo testo giusta il n. I dell’O del 15 ago. 2018, in vigore dal 15 set. 2018 ([RU 2018 3085](https://fedlex.data.admin.ch/eli/oc/2018/492)).
+[^87-12]: Introdotto dall’all. n. 1 dell’O del 6 dic. 2013 sul trattamento dei dati segnaletici di natura biometrica, in vigore dal 1° set. 2014 ([RU 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
+[^87-13]: Nuovo testo giusta il n. I dell’O del 28 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4441](https://fedlex.data.admin.ch/eli/oc/2014/738)).
+[^87-14]: Introdotto dal n. I dell’O del 19 ott. 2022, in vigore dal 22 nov. 2022 ([RU 2022 645](https://fedlex.data.admin.ch/eli/oc/2022/645)).
+[^87-15]: Introdotto dal n. I dell’O del 19 ott. 2022, in vigore dal 22 nov. 2022 ([RU 2022 645](https://fedlex.data.admin.ch/eli/oc/2022/645)).
+[^87-16]: Introdotto dal n. I dell’O del 19 ott. 2022, in vigore dal 22 nov. 2022 ([RU 2022 645](https://fedlex.data.admin.ch/eli/oc/2022/645)).
+[^87-17]: Introdotto dal n. I dell’O del 19 ott. 2022, in vigore dal 22 nov. 2022 ([RU 2022 645](https://fedlex.data.admin.ch/eli/oc/2022/645)).
+[^87-18]: [RS 142.513](https://fedlex.data.admin.ch/eli/cc/2006/303)
+[^87-19]: Cfr. nota a piè di pagina relativa all’art. 71*c*.
+[^87-20]: Introdotto dal n. I dell’O del 17 dic. 2010 ([RU 2011 99](https://fedlex.data.admin.ch/eli/oc/2011/18)). Nuovo testo giusta il n. I 1 dell’O del 12 giu. 2005 sull’adeguamento di ordinanze in seguito a innovazioni concernenti l’acquis di Dublino/Eurodac, in vigore dal 1° lug. 2015 ([RU 2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)).
+[^87-21]: [RS 142.204](https://fedlex.data.admin.ch/eli/cc/2018/493)
+[^87-22]: Introdotto dal n. I dell’O del 19 feb. 2020, in vigore dal 1° apr. 2020 ([RU 2020 883](https://fedlex.data.admin.ch/eli/oc/2020/171)).
 
-## Capitolo 10*a*:**** Eurodac
+## Capitolo 10*a*: Eurodac
 
 [^chap10a-1]
 
@@ -2307,7 +2326,7 @@ La SEM emana le istruzioni necessarie per l’esecuzione della presente ordinanz
 
 Nel calcolo dei termini di notificazione è computato il giorno dell’arrivo in Svizzera.
 
-## Capitolo 11*a*:**** Disposizioni penali
+## Capitolo 11*a*: Disposizioni penali
 
 [^chap11a-1]
 
@@ -2344,7 +2363,7 @@ Le seguenti ordinanze sono abrogate:
 [^91-2]: [[RU 1983 535](https://fedlex.data.admin.ch/eli/oc/1983/535_535_535), [1986 1482](https://fedlex.data.admin.ch/eli/oc/1986/1482_1482_1482), [1996 2243](https://fedlex.data.admin.ch/eli/oc/1996/2243_2243_2243)n. I 32, [1998 846](https://fedlex.data.admin.ch/eli/oc/1998/846_846_846), [2002 1769](https://fedlex.data.admin.ch/eli/oc/2002/268)n. III 2, [2006 1945](https://fedlex.data.admin.ch/eli/oc/2006/303)all. 3 n.1]
 [^91-3]: [[RU 1971 69](https://fedlex.data.admin.ch/eli/oc/1971/65_69_69), [1996 2243](https://fedlex.data.admin.ch/eli/oc/1996/2243_2243_2243)n. I 33]
 [^91-4]: [[RU 1965 62](https://fedlex.data.admin.ch/eli/oc/1965/58_62_62), [1996 2243](https://fedlex.data.admin.ch/eli/oc/1996/2243_2243_2243)n. I 34, [2002 1741](https://fedlex.data.admin.ch/eli/oc/2002/261)art. 35 n. 1]
-[^91-5]: [[RU 1986 1791](https://fedlex.data.admin.ch/eli/oc/1986/1791_1791_1791), [1987 518](https://fedlex.data.admin.ch/eli/oc/1987/__518)[1334](https://fedlex.data.admin.ch/eli/oc/1987/1334_1334_1334), [1989 2234](https://fedlex.data.admin.ch/eli/oc/1989/2234_2234_2234), [1990 1720](https://fedlex.data.admin.ch/eli/oc/1990/1720_1720_1720), [1991 2236](https://fedlex.data.admin.ch/eli/oc/1991/2236_2236_2236), [1992 2040](https://fedlex.data.admin.ch/eli/oc/1992/2040_2040_2040), [1993 1460](https://fedlex.data.admin.ch/eli/oc/1993/1460_1460_1460)[2944](https://fedlex.data.admin.ch/eli/oc/1993/2944_2944_2944), [1994 2310](https://fedlex.data.admin.ch/eli/oc/1994/2310_2310_2310), [1995 4869](https://fedlex.data.admin.ch/eli/oc/1995/4869_4869_4869)[5243](https://fedlex.data.admin.ch/eli/oc/1995/5243_5243_5243), [1997 2410](https://fedlex.data.admin.ch/eli/oc/1997/2410_2410_2410), [1998 860](https://fedlex.data.admin.ch/eli/oc/1998/860_860_860)[2726](https://fedlex.data.admin.ch/eli/oc/1998/2726_2726_2726), [2002 1769](https://fedlex.data.admin.ch/eli/oc/2002/268)[3571](https://fedlex.data.admin.ch/eli/oc/2002/537)[4167](https://fedlex.data.admin.ch/eli/oc/2002/672)n. II, [2004 4389](https://fedlex.data.admin.ch/eli/oc/2004/671)[5397](https://fedlex.data.admin.ch/eli/oc/2004/825), [2005 4841](https://fedlex.data.admin.ch/eli/oc/2005/654), [2006 1945](https://fedlex.data.admin.ch/eli/oc/2006/303)all. 3 n. 12 [4705](https://fedlex.data.admin.ch/eli/oc/2006/725)n. II 87 [4739](https://fedlex.data.admin.ch/eli/oc/2006/726)n. I 4 [4869](https://fedlex.data.admin.ch/eli/oc/2006/755)n. I 6, [2007 4967](https://fedlex.data.admin.ch/eli/oc/2007/693)]
+[^91-5]: [[RU 1986 1791](https://fedlex.data.admin.ch/eli/oc/1986/1791_1791_1791); [1987 518](https://fedlex.data.admin.ch/eli/oc/1987/__518), [1334](https://fedlex.data.admin.ch/eli/oc/1987/1334_1334_1334); [1989 2234](https://fedlex.data.admin.ch/eli/oc/1989/2234_2234_2234); [1990 1720](https://fedlex.data.admin.ch/eli/oc/1990/1720_1720_1720); [1991 2236](https://fedlex.data.admin.ch/eli/oc/1991/2236_2236_2236); [1992 2040](https://fedlex.data.admin.ch/eli/oc/1992/2040_2040_2040); [1993 1460](https://fedlex.data.admin.ch/eli/oc/1993/1460_1460_1460), [2944](https://fedlex.data.admin.ch/eli/oc/1993/2944_2944_2944); [1994 2310](https://fedlex.data.admin.ch/eli/oc/1994/2310_2310_2310); [1995 4869](https://fedlex.data.admin.ch/eli/oc/1995/4869_4869_4869), [5243](https://fedlex.data.admin.ch/eli/oc/1995/5243_5243_5243); [1997 2410](https://fedlex.data.admin.ch/eli/oc/1997/2410_2410_2410); [1998 860](https://fedlex.data.admin.ch/eli/oc/1998/860_860_860), [2726](https://fedlex.data.admin.ch/eli/oc/1998/2726_2726_2726); [2002 1769](https://fedlex.data.admin.ch/eli/oc/2002/268), [3571](https://fedlex.data.admin.ch/eli/oc/2002/537), [4167](https://fedlex.data.admin.ch/eli/oc/2002/672)n. II; [2004 4389](https://fedlex.data.admin.ch/eli/oc/2004/671), [5397](https://fedlex.data.admin.ch/eli/oc/2004/825); [2005 4841](https://fedlex.data.admin.ch/eli/oc/2005/654); [2006 1945](https://fedlex.data.admin.ch/eli/oc/2006/303)all. 3 n. 12, [4705](https://fedlex.data.admin.ch/eli/oc/2006/725)n. II 87, [4739](https://fedlex.data.admin.ch/eli/oc/2006/726)n. I 4, [4869](https://fedlex.data.admin.ch/eli/oc/2006/755)n. I 6; [2007 4967](https://fedlex.data.admin.ch/eli/oc/2007/693)]
 
 #### Art. 91a
 
@@ -2388,7 +2407,7 @@ I cittadini del Regno Unito rientranti nel campo d’applicazione dell’accordo
 
 La presente ordinanza entra in vigore il 1° gennaio 2008.
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 ((art. 19−19*b*)
 
@@ -2444,7 +2463,7 @@ Allegato 1*[^t-1]*
 
 [^annex1-lvlu1-1]: [RU 2020 5865](https://fedlex.data.admin.ch/eli/oc/2020/986)
 
-Allegato 2*[^t-2]*
+Allegato 2[^t-2]
 
 (art. 20−20*b*)
 
@@ -2500,7 +2519,7 @@ Allegato 2*[^t-2]*
 
 [^annex2-lvlu1-1]: [RU 2020 5865](https://fedlex.data.admin.ch/eli/oc/2020/986)
 
-Allegato 3*[^t-3]*
+Allegato 3[^t-3]
 
 (art. 1 cpv. 2)
 
@@ -2524,7 +2543,7 @@ Gli accordi di associazione a Schengen comprendono gli accordi seguenti:
 [^annex3-lvlu1-5]: [RS 0.362.33](https://fedlex.data.admin.ch/eli/cc/2008/114)
 [^annex3-lvlu1-6]: [RS 0.362.311](https://fedlex.data.admin.ch/eli/cc/2011/205)
 
-Allegato 4*[^t-4]*
+Allegato 4[^t-4]
 
 (art. 1 cpv. 3)
 

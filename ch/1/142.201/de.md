@@ -4,11 +4,11 @@ title: "Verordnung vom 24. Oktober 2007 über Zulassung, Aufenthalt und Erwerbst
 short: VZAE
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/759"
 language: de
-version: 2022-03-12
+version: 2022-11-22
 adopted: 2007-10-24
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/759/20220312/de/xml/fedlex-data-admin-ch-eli-cc-2007-759-20220312-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/759/20220312/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/759/20221122/de/xml/fedlex-data-admin-ch-eli-cc-2007-759-20221122-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/759/20221122/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/759/20220312/de"
 
 (VZAE)
 
-vom 24. Oktober 2007 (Stand am 12. März 2022)
+vom 24. Oktober 2007 (Stand am 22. November 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -29,7 +29,7 @@ verordnet:
 [^ingress-2]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
 [^ingress-3]: Fassung gemäss Ziff. I der V vom 15. Aug. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
 
-## 1. Kapitel: Geltungsbereich und Begriffe****
+## 1. Kapitel: Geltungsbereich und Begriffe
 
 [^chap1-1]
 
@@ -1161,7 +1161,7 @@ Der Ausweis für Personen mit Niederlassungsbewilligung muss spätestens 14 Tage
 
 [^63-1]: Fassung gemäss Ziff. I der V vom 12. Dez. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 6273](https://fedlex.data.admin.ch/eli/oc/2008/856)).
 
-### 4. Abschnitt: Erwerbstätige Asylsuchende, Schutzbedürftige, vorläufig Aufgenommene, Flüchtlinge und Staatenlose****
+### 4. Abschnitt: Erwerbstätige Asylsuchende, Schutzbedürftige, vorläufig Aufgenommene, Flüchtlinge und Staatenlose
 
 [^chap4-sec4-1]
 
@@ -1329,7 +1329,7 @@ Bei ausländischen Kindern unter Vormundschaft (Art. 327*a*–327*c* des Zivilge
 [^70-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 [^70-3]: Fassung gemäss Ziff. I der V vom 15. Aug. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
 
-## 5. Kapitel:**** Ausländerausweis
+## 5. Kapitel: Ausländerausweis
 
 [^chap5-1]
 
@@ -1544,7 +1544,7 @@ Das SEM ist berechtigt, die Leserechte für die Fingerabdrücke zu erteilen:
 [^72a-1]: Fassung gemäss Ziff. II der V vom 7. Juli 2016, in Kraft seit 1. Aug. 2016 ([AS 2016 2637](https://fedlex.data.admin.ch/eli/oc/2016/420)).
 [^72a-2]: Siehe Fussnote zu Art. 71*c*.
 
-## 5*a*. Kapitel:**** Stelle zur Ausfertigung des biometrischen Ausländerausweises
+## 5*a*. Kapitel: Stelle zur Ausfertigung des biometrischen Ausländerausweises
 
 [^chap5a-1]
 
@@ -1723,7 +1723,7 @@ Als Hinweise für eheliche Gewalt gelten insbesondere:
 [^77-7]: Eingefügt durch Ziff. I der V vom 23. Nov. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 5855](https://fedlex.data.admin.ch/eli/oc/2011/806)).
 [^77-8]: Fassung gemäss Ziff. I der V vom 23. Nov. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 5855](https://fedlex.data.admin.ch/eli/oc/2011/806)).
 
-## 6*a*. Kapitel:**** Integrationskriterien
+## 6*a*. Kapitel: Integrationskriterien
 
 [^chap6a-1]
 
@@ -1868,7 +1868,7 @@ Die zuständige Behörde berücksichtigt die persönlichen Verhältnisse der Aus
 
 Die kantonalen Behörden können dem SEM einen Antrag auf Erlass eines Einreiseverbots stellen.
 
-## 8. Kapitel: Meldepflichten, Amtshilfe und Datenbekanntgabe****
+## 8. Kapitel: Meldepflichten, Amtshilfe und Datenbekanntgabe
 
 [^chap8-1]
 
@@ -2134,21 +2134,35 @@ Die Daten nach Absatz 1 Buchstaben a und b können zwecks Speicherung in das aut
 - d. gefälschte oder verfälschte Belege einreicht;
 - e. rechtswidrig in die Schweiz ein- oder aus der Schweiz ausreist oder sich rechtswidrig in der Schweiz aufhält;
 - f.[^87-3] angibt, ihren Namen geändert zu haben;
-- g.[^87-4] nicht nachweist, dass alle Einreisevoraussetzungen nach Artikel 6 Absatz 1 des Schengener Grenzkodex[^87-5] erfüllt sind.[^87-6]
+- g.[^87-4] nicht nachweist, dass alle Einreisevoraussetzungen nach Artikel 6 Absatz 1 des Schengener Grenzkodex[^87-5] erfüllt sind;
+- h.[^87-6] aufgrund eines Rückkehrentscheids nach Artikel 68*a* Absatz 1 AIG verpflichtet ist, die Schweiz zu verlassen, wenn dieser Entscheid für den ganzen Schengen-Raum gilt, oder aufgrund eines Einreiseverbotes in den Schengen-Raum nicht mehr einreisen darf und ihre Fingerabdrücke im AFIS nicht enthalten sind.[^87-7]
 
-<sup>1ter</sup> Zur Feststellung und Sicherung der Identität der betroffenen Person können die Behörden nach Artikel 4 Absatz 1 Buchstabe e der Verordnung vom 6. Dezember 2013[^87-7] über die Bearbeitung biometrischer erkennungsdienstlicher Daten die biometrischen erkennungsdienstlichen Daten in das AFIS aufnehmen lassen.[^87-8]
+<sup>1ter</sup> Zur Feststellung und Sicherung der Identität der betroffenen Person können die Behörden nach Artikel 4 Absatz 1 Buchstabe e der Verordnung vom 6. Dezember 2013[^87-8] über die Bearbeitung biometrischer erkennungsdienstlicher Daten die biometrischen erkennungsdienstlichen Daten in das AFIS aufnehmen lassen.[^87-9]
 
-<sup>1quater</sup> Das SEM kann einer Behörde nach Artikel 4 Absatz 1 Buchstabe h der Verordnung vom 6. Dezember 2013 über die Bearbeitung biometrischer erkennungsdienstlicher Daten (auftraggebende Behörde) gestatten, im AFIS Datenabgleiche vorzunehmen. Die auftraggebende Behörde stellt dem SEM vorgängig einen schriftlichen Antrag, in dem sie darlegt, dass die Datenabgleiche für die Erfüllung ihrer Tätigkeit erforderlich sind.[^87-9]
+<sup>1quater</sup> Das SEM kann einer Behörde nach Artikel 4 Absatz 1 Buchstabe h der Verordnung vom 6. Dezember 2013 über die Bearbeitung biometrischer erkennungsdienstlicher Daten (auftraggebende Behörde) gestatten, im AFIS Datenabgleiche vorzunehmen. Die auftraggebende Behörde stellt dem SEM vorgängig einen schriftlichen Antrag, in dem sie darlegt, dass die Datenabgleiche für die Erfüllung ihrer Tätigkeit erforderlich sind.[^87-10]
 
-<sup>1quinquies</sup> Der für die Führung des AFIS zuständige Dienst übermittelt die Ergebnisse der Abgleiche nach Absatz 1<sup>quater</sup> einer vom SEM in Absprache mit der auftraggebenden Behörde bezeichneten Stelle. Diese bereitet die Abgleichergebnisse auf und leitet sie an die auftraggebende Behörde weiter.[^87-10]
+<sup>1quinquies</sup> Der für die Führung des AFIS zuständige Dienst übermittelt die Ergebnisse der Abgleiche nach Absatz 1<sup>quater</sup> einer vom SEM in Absprache mit der auftraggebenden Behörde bezeichneten Stelle. Diese bereitet die Abgleichergebnisse auf und leitet sie an die auftraggebende Behörde weiter.[^87-11]
 
-<sup>1sexies</sup> Die biometrischen erkennungsdienstlichen Daten, die von den Behörden nach Artikel 4 Absatz 1 Buchstabe h der Verordnung vom 6. Dezember 2013 über die Bearbeitung biometrischer erkennungsdienstlicher Daten erhoben worden sind, werden nicht in das AFIS aufgenommen.[^87-11]
+<sup>1sexies</sup> Die biometrischen erkennungsdienstlichen Daten, die von den Behörden nach Artikel 4 Absatz 1 Buchstabe h der Verordnung vom 6. Dezember 2013 über die Bearbeitung biometrischer erkennungsdienstlicher Daten erhoben worden sind, werden nicht in das AFIS aufgenommen.[^87-12]
 
-<sup>2</sup> Die Übermittlung und Speicherung der Fingerabdrücke sowie die Bearbeitung der zugehörigen Personendaten richten sich nach der Verordnung vom 6. Dezember 2013 über die Bearbeitung biometrischer erkennungsdienstlicher Daten. Die Fingerabdrücke werden zwei Jahre nach der erkennungsdienstlichen Erfassung gelöscht.[^87-12]
+<sup>2</sup> Die Übermittlung und Speicherung der Fingerabdrücke sowie die Bearbeitung der zugehörigen Personendaten richten sich nach der Verordnung vom 6. Dezember 2013 über die Bearbeitung biometrischer erkennungsdienstlicher Daten. Die Fingerabdrücke werden zwei Jahre nach der erkennungsdienstlichen Erfassung gelöscht.[^87-13]
 
-<sup>3</sup> Für die Bearbeitung, Bekanntgabe und Speicherung der Daten und für die Datensicherheit gelten die massgebenden Bestimmungen der Verordnung vom 12. April 2006[^87-13] über das Zentrale Migrationsinformationssystem (ZEMIS-Verordnung), insbesondere die Artikel 2, 4, 9, 11 sowie 16–19 ZEMIS-Verordnung.
+<sup>2bis</sup> Die Erfassung der Daten nach Absatz 1<sup>bis</sup> Buchstabe h erfolgt ausschliesslich zwecks Lieferung an den nationalen Teil des Schengener Informationssystems. Die entsprechenden Daten werden nach sechs Monaten gelöscht. Es findet kein Datenabgleich statt.[^87-14]
 
-<sup>4</sup> Das Gesichtsbild und die zwei Fingerabdrücke nach Artikel 71*c* zur Ausstellung eines Ausländerausweises werden nach Massgabe der Verordnung (EG) Nr. 1030/2002[^87-14] verwendet. Der Zugriff auf diese Daten ist in Anhang 1 der ZEMIS-Verordnung geregelt.[^87-15]
+<sup>2ter</sup>
+
+In den folgenden Fällen wird auf die Datenerfassung nach Absatz 1<sup>bis</sup> Buchstabe h verzichtet:
+
+- a. die Person hat das zwölfte Altersjahr noch nicht vollendet;
+- b. die körperliche Verfassung oder der Gesundheitszustand der Person erlaubt die Erfassung der Daten nicht.[^87-15]
+
+<sup>2quater</sup> Auf die Erfassung der Daten nach Absatz 1<sup>bis</sup> Buchstabe h kann ausnahmsweise verzichtet werden, wenn aufgrund konkreter Anhaltspunkte Gewissheit besteht, dass die Person aus der Schweiz und dem Schengen-Raum fristgerecht ausreist und keine Einreiseverweigerung beantragt wird.[^87-16]
+
+<sup>2quinqies</sup> Das Eidgenössische Justiz- und Polizeidepartment ist zudem befugt, in ausserordentlichen Situationen weitere Ausnahmen auf dem Verordnungsweg vorzusehen.[^87-17]
+
+<sup>3</sup> Für die Bearbeitung, Bekanntgabe und Speicherung der Daten und für die Datensicherheit gelten die massgebenden Bestimmungen der Verordnung vom 12. April 2006[^87-18] über das Zentrale Migrationsinformationssystem (ZEMIS-Verordnung), insbesondere die Artikel 2, 4, 9, 11 sowie 16–19 ZEMIS-Verordnung.
+
+<sup>4</sup> Das Gesichtsbild und die zwei Fingerabdrücke nach Artikel 71*c* zur Ausstellung eines Ausländerausweises werden nach Massgabe der Verordnung (EG) Nr. 1030/2002[^87-19] verwendet. Der Zugriff auf diese Daten ist in Anhang 1 der ZEMIS-Verordnung geregelt.[^87-20]
 
 <sup>5</sup>
 
@@ -2156,27 +2170,32 @@ Die Daten nach Absatz 1 Buchstaben a und b können für folgende Personengruppen
 
 - a. Personen, die ein Visum C oder D beantragen und bei denen aufgrund des Reisedokuments begründete Zweifel an ihrer tatsächlichen Identität bestehen;
 - b. Personen, die ein Visum D beantragen und um Familiennachzug in die Schweiz ersuchen;
-- c. Personen, die ein humanitäres Visum nach Artikel 4 Absatz 2 der Verordnung vom 15. August 2018[^87-16] über die Einreise und die Visumerteilung beantragen.[^87-17]
+- c. Personen, die ein humanitäres Visum nach Artikel 4 Absatz 2 der Verordnung vom 15. August 2018[^87-21] über die Einreise und die Visumerteilung beantragen.[^87-22]
 
 [^87-1]: [SR 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537)
 [^87-2]: Fassung gemäss Ziff. I der V vom 19. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 883](https://fedlex.data.admin.ch/eli/oc/2020/171)).
 [^87-3]: Eingefügt durch Ziff. I der V vom 19. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 883](https://fedlex.data.admin.ch/eli/oc/2020/171)).
 [^87-4]: Eingefügt durch Ziff. I der V vom 19. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 883](https://fedlex.data.admin.ch/eli/oc/2020/171)).
 [^87-5]: Verordnung (EU) 2016/399 des Europäischen Parlaments und des Rates vom 9. März 2016 über einen Gemeinschaftskodex für das Überschreiten der Grenze durch Personen (Schengener Grenzkodex), ABl. L 77 vom 23.3.2016, S. 1; zuletzt geändert durch Verordnung (EU) 2017/458, ABl. L 74 vom 18.03.2017, S. 1.
-[^87-6]: Eingefügt durch Anhang Ziff. 1 der V vom 6. Dez. 2013 über die Bearbeitung biometrischer erkennungsdienstlicher Daten, in Kraft seit 1. Sept. 2014 ([AS 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
-[^87-7]: [SR 361.3](https://fedlex.data.admin.ch/eli/cc/2014/23)
-[^87-8]: Eingefügt durch Anhang Ziff. 1 der V vom 6. Dez. 2013 über die Bearbeitung biometrischer erkennungsdienstlicher Daten, in Kraft seit 1. Sept. 2014 ([AS 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
+[^87-6]: Eingefügt durch Ziff. I der V vom 19. Okt. 2022, in Kraft seit 22. Nov. 2022 (AS **202****2** 645).
+[^87-7]: Eingefügt durch Anhang Ziff. 1 der V vom 6. Dez. 2013 über die Bearbeitung biometrischer erkennungsdienstlicher Daten, in Kraft seit 1. Sept. 2014 ([AS 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
+[^87-8]: [SR 361.3](https://fedlex.data.admin.ch/eli/cc/2014/23)
 [^87-9]: Eingefügt durch Anhang Ziff. 1 der V vom 6. Dez. 2013 über die Bearbeitung biometrischer erkennungsdienstlicher Daten, in Kraft seit 1. Sept. 2014 ([AS 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
-[^87-10]: Eingefügt durch Anhang Ziff. 1 der V vom 6. Dez. 2013 über die Bearbeitung biometrischer erkennungsdienstlicher Daten ([AS 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)). Fassung gemäss Ziff. 1 der V vom 15. Aug. 2018, in Kraft seit 15. Sept. 2018 ([AS 2018 3085](https://fedlex.data.admin.ch/eli/oc/2018/492)).
-[^87-11]: Eingefügt durch Anhang Ziff. 1 der V vom 6. Dez. 2013 über die Bearbeitung biometrischer erkennungsdienstlicher Daten, in Kraft seit 1. Sept. 2014 ([AS 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
-[^87-12]: Fassung gemäss Ziff. I der V vom 28. Nov. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 4441](https://fedlex.data.admin.ch/eli/oc/2014/738)).
-[^87-13]: [SR 142.513](https://fedlex.data.admin.ch/eli/cc/2006/303)
-[^87-14]: Siehe Fussnote zu Art. 71*c*.
-[^87-15]: Eingefügt durch Ziff. I der V vom 17. Dez. 2010 ([AS 2011 99](https://fedlex.data.admin.ch/eli/oc/2011/18)). Fassung gemäss Ziff. I 1 der V vom 12. Juni 2015 über die Anpassung von Verordnungen aufgrund von Neuerungen bezüglich des Dublin/Eurodac-Besitzstands, in Kraft seit 1. Juli 2015 ([AS 2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)).
-[^87-16]: [SR 142.204](https://fedlex.data.admin.ch/eli/cc/2018/493)
-[^87-17]: Eingefügt durch Ziff. I der V vom 19. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 883](https://fedlex.data.admin.ch/eli/oc/2020/171)).
+[^87-10]: Eingefügt durch Anhang Ziff. 1 der V vom 6. Dez. 2013 über die Bearbeitung biometrischer erkennungsdienstlicher Daten, in Kraft seit 1. Sept. 2014 ([AS 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
+[^87-11]: Eingefügt durch Anhang Ziff. 1 der V vom 6. Dez. 2013 über die Bearbeitung biometrischer erkennungsdienstlicher Daten ([AS 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)). Fassung gemäss Ziff. 1 der V vom 15. Aug. 2018, in Kraft seit 15. Sept. 2018 ([AS 2018 3085](https://fedlex.data.admin.ch/eli/oc/2018/492)).
+[^87-12]: Eingefügt durch Anhang Ziff. 1 der V vom 6. Dez. 2013 über die Bearbeitung biometrischer erkennungsdienstlicher Daten, in Kraft seit 1. Sept. 2014 ([AS 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
+[^87-13]: Fassung gemäss Ziff. I der V vom 28. Nov. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 4441](https://fedlex.data.admin.ch/eli/oc/2014/738)).
+[^87-14]: Eingefügt durch Ziff. I der V vom 19. Okt. 2022, in Kraft seit 22. Nov. 2022 ([AS 2022 645](https://fedlex.data.admin.ch/eli/oc/2022/645)).
+[^87-15]: Eingefügt durch Ziff. I der V vom 19. Okt. 2022, in Kraft seit 22. Nov. 2022 ([AS 2022 645](https://fedlex.data.admin.ch/eli/oc/2022/645)).
+[^87-16]: Eingefügt durch Ziff. I der V vom 19. Okt. 2022, in Kraft seit 22. Nov. 2022 ([AS 2022 645](https://fedlex.data.admin.ch/eli/oc/2022/645)).
+[^87-17]: Eingefügt durch Ziff. I der V vom 19. Okt. 2022, in Kraft seit 22. Nov. 2022 ([AS 2022 645](https://fedlex.data.admin.ch/eli/oc/2022/645)).
+[^87-18]: [SR 142.513](https://fedlex.data.admin.ch/eli/cc/2006/303)
+[^87-19]: Siehe Fussnote zu Art. 71*c*.
+[^87-20]: Eingefügt durch Ziff. I der V vom 17. Dez. 2010 ([AS 2011 99](https://fedlex.data.admin.ch/eli/oc/2011/18)). Fassung gemäss Ziff. I 1 der V vom 12. Juni 2015 über die Anpassung von Verordnungen aufgrund von Neuerungen bezüglich des Dublin/Eurodac-Besitzstands, in Kraft seit 1. Juli 2015 ([AS 2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)).
+[^87-21]: [SR 142.204](https://fedlex.data.admin.ch/eli/cc/2018/493)
+[^87-22]: Eingefügt durch Ziff. I der V vom 19. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 883](https://fedlex.data.admin.ch/eli/oc/2020/171)).
 
-## 10*a*. Kapitel:**** Eurodac
+## 10*a*. Kapitel: Eurodac
 
 [^chap10a-1]
 
@@ -2286,7 +2305,7 @@ Ein angemessener Schutz der betroffenen Person im Sinne von Artikel 111*d* AIG l
 
 Bei der Berechnung von Anmeldefristen wird der Tag der Einreise mitgezählt.
 
-## 11*a*. Kapitel:**** Strafbestimmungen
+## 11*a*. Kapitel: Strafbestimmungen
 
 [^chap11a-1]
 
@@ -2320,10 +2339,10 @@ Folgende Verordnungen werden aufgehoben:
 - 5\. Verordnung vom 6. Oktober 1986[^91-5] über die Begrenzung der Zahl der Ausländer.
 
 [^91-1]: [[AS 1949 228](https://fedlex.data.admin.ch/eli/oc/1949/228_232_233), [1980 1730](https://fedlex.data.admin.ch/eli/oc/1980/1730_1730_1730)Art. 16, [1983 534](https://fedlex.data.admin.ch/eli/oc/1983/534_534_534), [1986 1791](https://fedlex.data.admin.ch/eli/oc/1986/1791_1791_1791)Art. 57 Abs. 2, [1987 1669](https://fedlex.data.admin.ch/eli/oc/1987/1669_1669_1669)Art. 13 Ziff. 2, [1989 2234](https://fedlex.data.admin.ch/eli/oc/1989/2234_2234_2234)Art. 57 Abs. 2, [1996 2243](https://fedlex.data.admin.ch/eli/oc/1996/2243_2243_2243)Ziff. I 31, [2006 965](https://fedlex.data.admin.ch/eli/oc/2006/175)Anhang Ziff. 2 [4705](https://fedlex.data.admin.ch/eli/oc/2006/725)Anhang Ziff. II 2]
-[^91-2]: [[AS 1983 535](https://fedlex.data.admin.ch/eli/oc/1983/535_535_535), [1986 1482](https://fedlex.data.admin.ch/eli/oc/1986/1482_1482_1482), [1996 2243](https://fedlex.data.admin.ch/eli/oc/1996/2243_2243_2243)Ziff. I 32, [1998 846](https://fedlex.data.admin.ch/eli/oc/1998/846_846_846), [2002 1769](https://fedlex.data.admin.ch/eli/oc/2002/268)Ziff. III 2, [2006 1945](https://fedlex.data.admin.ch/eli/oc/2006/303)Anhang 3 Ziff. I]
-[^91-3]: [AS **1971** 69, [1996 2243](https://fedlex.data.admin.ch/eli/oc/1996/2243_2243_2243)Ziff. I 33]
-[^91-4]: [AS **1965** 62, [1996 2243](https://fedlex.data.admin.ch/eli/oc/1996/2243_2243_2243)Ziff. I 34, [2002 1741](https://fedlex.data.admin.ch/eli/oc/2002/261)Art. 35 Ziff. 1]
-[^91-5]: [[AS 1986 1791](https://fedlex.data.admin.ch/eli/oc/1986/1791_1791_1791), [1987 1334](https://fedlex.data.admin.ch/eli/oc/1987/1334_1334_1334), [1989 2234](https://fedlex.data.admin.ch/eli/oc/1989/2234_2234_2234), [1990 1720](https://fedlex.data.admin.ch/eli/oc/1990/1720_1720_1720), [1991 2236](https://fedlex.data.admin.ch/eli/oc/1991/2236_2236_2236), [1992 2040](https://fedlex.data.admin.ch/eli/oc/1992/2040_2040_2040), [1993 1460](https://fedlex.data.admin.ch/eli/oc/1993/1460_1460_1460)[2944](https://fedlex.data.admin.ch/eli/oc/1993/2944_2944_2944), [1994 2310](https://fedlex.data.admin.ch/eli/oc/1994/2310_2310_2310), [1995 4869](https://fedlex.data.admin.ch/eli/oc/1995/4869_4869_4869)[5243](https://fedlex.data.admin.ch/eli/oc/1995/5243_5243_5243), [1997 2410](https://fedlex.data.admin.ch/eli/oc/1997/2410_2410_2410), [1998 860](https://fedlex.data.admin.ch/eli/oc/1998/860_860_860)[2726](https://fedlex.data.admin.ch/eli/oc/1998/2726_2726_2726), [2002 1769](https://fedlex.data.admin.ch/eli/oc/2002/268)[1778](https://fedlex.data.admin.ch/eli/oc/2002/269)[3571](https://fedlex.data.admin.ch/eli/oc/2002/537)[4167](https://fedlex.data.admin.ch/eli/oc/2002/672)Ziff. II , [2004 4389](https://fedlex.data.admin.ch/eli/oc/2004/671)[5397](https://fedlex.data.admin.ch/eli/oc/2004/825), [2005 4841](https://fedlex.data.admin.ch/eli/oc/2005/654), [2006 1945](https://fedlex.data.admin.ch/eli/oc/2006/303)Anhang 3 Ziff. 12 [4225](https://fedlex.data.admin.ch/eli/oc/2006/637)[4705](https://fedlex.data.admin.ch/eli/oc/2006/725)Ziff. II 87 [4739](https://fedlex.data.admin.ch/eli/oc/2006/726)Ziff. I 4 [4869](https://fedlex.data.admin.ch/eli/oc/2006/755)Ziff. I 6, [2007 4967](https://fedlex.data.admin.ch/eli/oc/2007/693)]
+[^91-2]: [[AS 1983 535](https://fedlex.data.admin.ch/eli/oc/1983/535_535_535); [1986 1482](https://fedlex.data.admin.ch/eli/oc/1986/1482_1482_1482); [1996 2243](https://fedlex.data.admin.ch/eli/oc/1996/2243_2243_2243)Ziff. I 32; [1998 846](https://fedlex.data.admin.ch/eli/oc/1998/846_846_846); [2002 1769](https://fedlex.data.admin.ch/eli/oc/2002/268)Ziff. III 2; [2006 1945](https://fedlex.data.admin.ch/eli/oc/2006/303)Anhang 3 Ziff. I]
+[^91-3]: [AS **1971** 69; [1996 2243](https://fedlex.data.admin.ch/eli/oc/1996/2243_2243_2243)Ziff. I 33]
+[^91-4]: [AS **1965** 62; [1996 2243](https://fedlex.data.admin.ch/eli/oc/1996/2243_2243_2243)Ziff. I 34; [2002 1741](https://fedlex.data.admin.ch/eli/oc/2002/261)Art. 35 Ziff. 1]
+[^91-5]: [[AS 1986 1791](https://fedlex.data.admin.ch/eli/oc/1986/1791_1791_1791); [1987 1334](https://fedlex.data.admin.ch/eli/oc/1987/1334_1334_1334); [1989 2234](https://fedlex.data.admin.ch/eli/oc/1989/2234_2234_2234); [1990 1720](https://fedlex.data.admin.ch/eli/oc/1990/1720_1720_1720); [1991 2236](https://fedlex.data.admin.ch/eli/oc/1991/2236_2236_2236); [1992 2040](https://fedlex.data.admin.ch/eli/oc/1992/2040_2040_2040); [1993 1460](https://fedlex.data.admin.ch/eli/oc/1993/1460_1460_1460), [2944](https://fedlex.data.admin.ch/eli/oc/1993/2944_2944_2944); [1994 2310](https://fedlex.data.admin.ch/eli/oc/1994/2310_2310_2310); [1995 4869](https://fedlex.data.admin.ch/eli/oc/1995/4869_4869_4869), [5243](https://fedlex.data.admin.ch/eli/oc/1995/5243_5243_5243); [1997 2410](https://fedlex.data.admin.ch/eli/oc/1997/2410_2410_2410); [1998 860](https://fedlex.data.admin.ch/eli/oc/1998/860_860_860), [2726](https://fedlex.data.admin.ch/eli/oc/1998/2726_2726_2726); [2002 1769](https://fedlex.data.admin.ch/eli/oc/2002/268), [1778](https://fedlex.data.admin.ch/eli/oc/2002/269), [3571](https://fedlex.data.admin.ch/eli/oc/2002/537), [4167](https://fedlex.data.admin.ch/eli/oc/2002/672)Ziff. II; [2004 4389](https://fedlex.data.admin.ch/eli/oc/2004/671), [5397](https://fedlex.data.admin.ch/eli/oc/2004/825); [2005 4841](https://fedlex.data.admin.ch/eli/oc/2005/654); [2006 1945](https://fedlex.data.admin.ch/eli/oc/2006/303)Anhang 3 Ziff. 12, [4225](https://fedlex.data.admin.ch/eli/oc/2006/637), [4705](https://fedlex.data.admin.ch/eli/oc/2006/725)Ziff. II 87, [4739](https://fedlex.data.admin.ch/eli/oc/2006/726)Ziff. I 4, [4869](https://fedlex.data.admin.ch/eli/oc/2006/755)Ziff. I 6; [2007 4967](https://fedlex.data.admin.ch/eli/oc/2007/693)]
 
 #### Art. 91a
 
@@ -2367,7 +2386,7 @@ Staatsangehörige des Vereinigten Königreichs, die vom Geltungsbereich des Abko
 
 Diese Verordnung tritt am 1. Januar 2008 in Kraft.
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 19–19*b*)
 
@@ -2423,7 +2442,7 @@ Anhang 1*[^t-1]*
 
 [^annex1-lvlu1-1]: [AS 2020 5865](https://fedlex.data.admin.ch/eli/oc/2020/986)
 
-Anhang 2*[^t-2]*
+Anhang 2[^t-2]
 
 (Art. 20–20*b*)
 
@@ -2479,7 +2498,7 @@ Anhang 2*[^t-2]*
 
 [^annex2-lvlu1-1]: [AS 2020 5865](https://fedlex.data.admin.ch/eli/oc/2020/986)
 
-Anhang 3*[^t-3]*
+Anhang 3[^t-3]
 
 (Art. 1 Abs. 2)
 
@@ -2503,7 +2522,7 @@ Die Schengen-Assoziierungsabkommen umfassen:
 [^annex3-lvlu1-5]: [SR 0.362.33](https://fedlex.data.admin.ch/eli/cc/2008/114)
 [^annex3-lvlu1-6]: [SR 0.362.311](https://fedlex.data.admin.ch/eli/cc/2011/205)
 
-Anhang 4*[^t-4]*
+Anhang 4[^t-4]
 
 (Art. 1 Abs. 3)
 

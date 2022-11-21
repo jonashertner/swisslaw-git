@@ -4,11 +4,11 @@ title: "Ordonnance du 24 octobre 2007 relative à l'admission, au séjour et à 
 short: OASA
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/759"
 language: fr
-version: 2022-03-12
+version: 2022-11-22
 adopted: 2007-10-24
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/759/20220312/fr/xml/fedlex-data-admin-ch-eli-cc-2007-759-20220312-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/759/20220312/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/759/20221122/fr/xml/fedlex-data-admin-ch-eli-cc-2007-759-20221122-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/759/20221122/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/759/20220312/fr"
 
 (OASA)
 
-du 24 octobre 2007 (Etat le 12 mars 2022)
+du 24 octobre 2007 (État le 22 novembre 2022)
 
 Le Conseil fédéral suisse,
 
@@ -29,7 +29,7 @@ arrête:
 [^ingress-2]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
 [^ingress-3]: Nouvelle teneur selon le ch. I de l’O du 15 août 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
 
-## Chapitre 1 Champ d’application et définitions****
+## Chapitre 1 Champ d’application et définitions
 
 [^chap1-1]
 
@@ -439,7 +439,7 @@ Il n’y a pas imputation sur le nombre maximum d’autorisations (art. 19 à 20
 
 [^22b-1]: Anciennement art. 22*a*. Introduit par le ch. I de l’O du 15 août 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
 
-### Section 2 Formation et formation continue****
+### Section 2 Formation et formation continue
 
 [^chap3-sec2-1]
 
@@ -1182,7 +1182,7 @@ Le titre de séjour des personnes titulaires d’une autorisation d’établisse
 
 [^63-1]: Nouvelle teneur selon le ch. I de l’O du 12 déc. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 6273](https://fedlex.data.admin.ch/eli/oc/2008/856)).
 
-### Section 4 Requérants d’asile, personnes à protéger, personnes admises à titre provisoire, réfugiés et apatrides exerçant une activité lucrative ****
+### Section 4 Requérants d’asile, personnes à protéger, personnes admises à titre provisoire, réfugiés et apatrides exerçant une activité lucrative
 
 [^chap4-sec4-1]
 
@@ -1348,7 +1348,7 @@ Le canton dans lequel se trouve le siège de l’autorité de protection de l’
 [^70-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 [^70-3]: Nouvelle teneur selon le ch. I de l’O du 15 août 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
 
-## Chapitre 5**** Titre de séjour
+## Chapitre 5 Titre de séjour
 
 [^chap5-1]
 
@@ -1563,7 +1563,7 @@ Le SEM est autorisé à communiquer les droits de lecture pour les empreintes di
 [^72a-1]: Nouvelle teneur selon le ch. II de l’O du 7 juil. 2016, en vigueur depuis le 1<sup>er</sup> août 2016 ([RO 2016 2637](https://fedlex.data.admin.ch/eli/oc/2016/420)).
 [^72a-2]: Cf. note de bas de page relative à l’art. 71*c*.
 
-## Chapitre 5*a***** Centre chargé de produire le titre de séjour biométrique
+## Chapitre 5*a* Centre chargé de produire le titre de séjour biométrique
 
 [^chap5a-1]
 
@@ -1742,7 +1742,7 @@ Sont notamment considérés comme indices de violence conjugale:
 [^77-7]: Introduit par le ch. I de l’O du 23 nov. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5855](https://fedlex.data.admin.ch/eli/oc/2011/806)).
 [^77-8]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5855](https://fedlex.data.admin.ch/eli/oc/2011/806)).
 
-## Chapitre 6*a***** Critères d’intégration
+## Chapitre 6*a* Critères d’intégration
 
 [^chap6a-1]
 
@@ -1887,7 +1887,7 @@ L’autorité compétente tient compte de manière appropriée de la situation p
 
 Les autorités cantonales peuvent déposer une demande auprès du SEM pour qu’il ordonne une interdiction d’entrée.
 
-## Chapitre 8 Obligation de communiquer, entraide administrative et communication de données****
+## Chapitre 8 Obligation de communiquer, entraide administrative et communication de données
 
 [^chap8-1]
 
@@ -2152,21 +2152,35 @@ Les données visées à l’al. 1, let. a et b, peuvent être saisies en vue de 
 - d. présente des pièces justificatives fausses ou falsifiées;
 - e. entre en Suisse ou quitte la Suisse illégalement ou séjourne illégalement en Suisse;
 - f.[^87-3] déclare avoir changé de nom;
-- g.[^87-4] n’établit pas que toutes les conditions d’entrée visées à l’art. 6, par. 1, du code frontières Schengen[^87-5] sont remplies.[^87-6]
+- g.[^87-4] n’établit pas que toutes les conditions d’entrée visées à l’art. 6, par. 1, du code frontières Schengen[^87-5] sont remplies
+- h.[^87-6] a l’obligation de quitter la Suisse en raison d’une décision de retour au sens de l’art. 68*a*, al. 1, LEI qui s’applique à l’ensemble de l’espace Schengen ou n’est plus autorisée à entrer dans l’espace Schengen en raison d’une interdiction d’entrée, et ses empreintes digitales ne figurent pas dans AFIS.[^87-7]
 
-<sup>1ter</sup> Afin d’établir l’identité de la personne concernée et d’enregistrer ses données, les autorités mentionnées à l’art. 4, al. 1, let. e, de l’ordonnance du 6 décembre 2013 sur le traitement des données signalétiques biométriques[^87-7] peuvent faire enregistrer les données signalétiques biométriques dans AFIS.[^87-8]
+<sup>1ter</sup> Afin d’établir l’identité de la personne concernée et d’enregistrer ses données, les autorités mentionnées à l’art. 4, al. 1, let. e, de l’ordonnance du 6 décembre 2013 sur le traitement des données signalétiques biométriques[^87-8] peuvent faire enregistrer les données signalétiques biométriques dans AFIS.[^87-9]
 
-<sup>1quater</sup> Le SEM peut autoriser une autorité mentionnée à l’art. 4, al. 1, let. h, de l’ordonnance du 6 décembre 2013 sur le traitement des données signalétiques biométriques (autorité requérante) à effectuer des comparaisons de données dans AFIS. L’autorité requérante adresse au préalable une demande écrite au SEM dans laquelle elle expose les motifs pour lesquels elle a besoin d’effectuer ces comparaisons pour pouvoir exécuter ses tâches.[^87-9]
+<sup>1quater</sup> Le SEM peut autoriser une autorité mentionnée à l’art. 4, al. 1, let. h, de l’ordonnance du 6 décembre 2013 sur le traitement des données signalétiques biométriques (autorité requérante) à effectuer des comparaisons de données dans AFIS. L’autorité requérante adresse au préalable une demande écrite au SEM dans laquelle elle expose les motifs pour lesquels elle a besoin d’effectuer ces comparaisons pour pouvoir exécuter ses tâches.[^87-10]
 
-<sup>1quinquies</sup> Le service chargé de la gestion d’AFIS transmet les résultats des comparaisons visées à l’al. 1<sup>quater</sup> à un service désigné par le SEM en accord avec l’autorité requérante. Ce service prépare les résultats des comparaisons et les transmet à l’autorité requérante.[^87-10]
+<sup>1quinquies</sup> Le service chargé de la gestion d’AFIS transmet les résultats des comparaisons visées à l’al. 1<sup>quater</sup> à un service désigné par le SEM en accord avec l’autorité requérante. Ce service prépare les résultats des comparaisons et les transmet à l’autorité requérante.[^87-11]
 
-<sup>1sexies</sup> Les données signalétiques biométriques relevées par les autorités mentionnées à l’art. 4, al. 1, let. h, de l’ordonnance du 6 décembre 2013 sur le traitement des données signalétiques biométriques ne sont pas enregistrées dans AFIS.[^87-11]
+<sup>1sexies</sup> Les données signalétiques biométriques relevées par les autorités mentionnées à l’art. 4, al. 1, let. h, de l’ordonnance du 6 décembre 2013 sur le traitement des données signalétiques biométriques ne sont pas enregistrées dans AFIS.[^87-12]
 
-<sup>2</sup> La transmission et l’enregistrement des empreintes digitales, de même que le traitement des données personnelles correspondantes, sont effectués conformément aux dispositions de l’ordonnance du 6 décembre 2013 sur le traitement des données signalétiques biométriques. Les empreintes des doigts sont effacées deux ans après la saisie signalétique.[^87-12]
+<sup>2</sup> La transmission et l’enregistrement des empreintes digitales, de même que le traitement des données personnelles correspondantes, sont effectués conformément aux dispositions de l’ordonnance du 6 décembre 2013 sur le traitement des données signalétiques biométriques. Les empreintes des doigts sont effacées deux ans après la saisie signalétique.[^87-13]
 
-<sup>3</sup> Le traitement, la communication et l’enregistrement des données, ainsi que la sécurité des données sont régis par les dispositions correspondantes de l’ordonnance du 12 avril 2006 sur le système d’information central sur la migration (ordonnance SYMIC)[^87-13], notamment les art. 2, 4, 9, 11, 16 à 19 de l’ordonnance SYMIC.
+<sup>2bis</sup> La saisie des données au sens de l’al. 1<sup>bis</sup>, let. h, est effectuée exclusivement en vue de leur livraison à la partie nationale du Système d’information Schengen. Les données sont effacées après six mois. Elles ne font l’objet d’aucune comparaison.[^87-14]
 
-<sup>4</sup> L’image du visage et les empreintes digitales de deux doigts visées à l’art. 71*c* sont utilisées aux fins de l’émission d’un titre de séjour en conformité avec le règlement (CE) n° 1030/2002[^87-14]. L’accès à ces données est régi par l’ordonnance SYMIC (annexe 1).[^87-15]
+<sup>2ter</sup>
+
+Dans les cas suivants, il est renoncé à la saisie des données au sens de l’al. 1<sup>bis</sup>, let. h:
+
+- a. la personne n’a pas atteint l’âge de 12 ans;
+- b. la condition physique ou l’état de santé de la personne ne permet pas la saisie.[^87-15]
+
+<sup>2quater</sup> Il peut exceptionnellement être renoncé à la saisie des données au sens de l’al. 1<sup>bis</sup>, let. h, lorsqu’il est établi avec certitude, sur la base d’éléments concrets, que la personne quittera la Suisse et l’espace Schengen dans le délai imparti et qu’aucune interdiction d’entrée n’est demandée.[^87-16]
+
+<sup>2quinquies</sup> En cas de situation extraordinaire, le DFJP est autorisé à prévoir d’autres exceptions par voie d’ordonnance.[^87-17]
+
+<sup>3</sup> Le traitement, la communication et l’enregistrement des données, ainsi que la sécurité des données sont régis par les dispositions correspondantes de l’ordonnance du 12 avril 2006 sur le système d’information central sur la migration (ordonnance SYMIC)[^87-18], notamment les art. 2, 4, 9, 11, 16 à 19 de l’ordonnance SYMIC.
+
+<sup>4</sup> L’image du visage et les empreintes digitales de deux doigts visées à l’art. 71*c* sont utilisées aux fins de l’émission d’un titre de séjour en conformité avec le règlement (CE) n° 1030/2002[^87-19]. L’accès à ces données est régi par l’ordonnance SYMIC (annexe 1).[^87-20]
 
 <sup>5</sup>
 
@@ -2174,27 +2188,32 @@ Les données visées à l’al. 1, let. a et b, peuvent être saisies de manièr
 
 - a. demandeurs de visas C et D détenteurs de documents de voyage en cas de doute fondé sur leur identité;
 - b. demandeurs de visas D qui font valoir un regroupement familial en Suisse;
-- c. demandeurs de visas D humanitaires au sens de l’art. 4, al. 2, de l’ordonnance du 15 août 2018 sur l’entrée et l’octroi de visas[^87-16].[^87-17]
+- c. demandeurs de visas D humanitaires au sens de l’art. 4, al. 2, de l’ordonnance du 15 août 2018 sur l’entrée et l’octroi de visas[^87-21].[^87-22]
 
 [^87-1]: [RS 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537)
 [^87-2]: Nouvelle teneur selon le ch. I de l’O du 19 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 883](https://fedlex.data.admin.ch/eli/oc/2020/171)).
 [^87-3]: Introduite par le ch. I de l’O du 19 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 883](https://fedlex.data.admin.ch/eli/oc/2020/171)).
 [^87-4]: Introduite par le ch. I de l’O du 19 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 883](https://fedlex.data.admin.ch/eli/oc/2020/171)).
 [^87-5]: Règlement (UE) 2016/399 du Parlement européen et du Conseil du 9 mars 2016 concernant un code de l’Union relatif au régime de franchissement des frontières par les personnes (code frontières Schengen), JO L 77 du 23.3.2016, p. 1; modifié en dernier lieu par le règlement (UE) 2017/458, JO L 74 du 18.3.2017, p. 1.
-[^87-6]: Introduit par l’annexe ch. 1 de l’O du 6 déc. 2013 sur le traitement des données signalétiques biométriques, en vigueur depuis le 1<sup>er</sup> sept. 2014 ([RO 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
-[^87-7]: [RS 361.3](https://fedlex.data.admin.ch/eli/cc/2014/23)
-[^87-8]: Introduit par l’annexe ch. 1 de l’O du 6 déc. 2013 sur le traitement des données signalétiques biométriques, en vigueur depuis le 1<sup>er</sup> sept. 2014 ([RO 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
+[^87-6]: Introduite par le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 22 nov. 2022 ([RO 2022 645](https://fedlex.data.admin.ch/eli/oc/2022/645)).
+[^87-7]: Introduit par l’annexe ch. 1 de l’O du 6 déc. 2013 sur le traitement des données signalétiques biométriques, en vigueur depuis le 1<sup>er</sup> sept. 2014 ([RO 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
+[^87-8]: [RS 361.3](https://fedlex.data.admin.ch/eli/cc/2014/23)
 [^87-9]: Introduit par l’annexe ch. 1 de l’O du 6 déc. 2013 sur le traitement des données signalétiques biométriques, en vigueur depuis le 1<sup>er</sup> sept. 2014 ([RO 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
-[^87-10]: Introduit par l’annexe ch. 1 de l’O du 6 déc. 2013 sur le traitement des données signalétiques biométriques ([RO 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)). Nouvelle teneur selon le ch. I de l’O du 15 août 2018, en vigueur depuis le 15 sept. 2018 ([RO 2018 3085](https://fedlex.data.admin.ch/eli/oc/2018/492)).
-[^87-11]: Introduit par l’annexe ch. 1 de l’O du 6 déc. 2013 sur le traitement des données signalétiques biométriques, en vigueur depuis le 1<sup>er</sup> sept. 2014 ([RO 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
-[^87-12]: Nouvelle teneur selon le ch. I de l’O du 28 nov. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4441](https://fedlex.data.admin.ch/eli/oc/2014/738)).
-[^87-13]: [RS 142.513](https://fedlex.data.admin.ch/eli/cc/2006/303)
-[^87-14]: Cf. note de bas de page relative à l’art. 71*c*.
-[^87-15]: Introduit par le ch. I de l’O du 17 déc. 2010 ([RO 2011 99](https://fedlex.data.admin.ch/eli/oc/2011/18)). Nouvelle teneur selon le ch. I 1 de l’O du 12 juin 2015 portant adaptation d’actes en raison de nouveautés en lien avec l’acquis de Dublin/Eurodac, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)).
-[^87-16]: [RS 142.204](https://fedlex.data.admin.ch/eli/cc/2018/493)
-[^87-17]: Introduit par le ch. I de l’O du 19 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 883](https://fedlex.data.admin.ch/eli/oc/2020/171)).
+[^87-10]: Introduit par l’annexe ch. 1 de l’O du 6 déc. 2013 sur le traitement des données signalétiques biométriques, en vigueur depuis le 1<sup>er</sup> sept. 2014 ([RO 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
+[^87-11]: Introduit par l’annexe ch. 1 de l’O du 6 déc. 2013 sur le traitement des données signalétiques biométriques ([RO 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)). Nouvelle teneur selon le ch. I de l’O du 15 août 2018, en vigueur depuis le 15 sept. 2018 ([RO 2018 3085](https://fedlex.data.admin.ch/eli/oc/2018/492)).
+[^87-12]: Introduit par l’annexe ch. 1 de l’O du 6 déc. 2013 sur le traitement des données signalétiques biométriques, en vigueur depuis le 1<sup>er</sup> sept. 2014 ([RO 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
+[^87-13]: Nouvelle teneur selon le ch. I de l’O du 28 nov. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4441](https://fedlex.data.admin.ch/eli/oc/2014/738)).
+[^87-14]: Introduit par le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 22 nov. 2022 ([RO 2022 645](https://fedlex.data.admin.ch/eli/oc/2022/645)).
+[^87-15]: Introduit par le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 22 nov. 2022 ([RO 2022 645](https://fedlex.data.admin.ch/eli/oc/2022/645)).
+[^87-16]: Introduite par le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 22 nov. 2022 ([RO 2022 645](https://fedlex.data.admin.ch/eli/oc/2022/645)).
+[^87-17]: Introduite par le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 22 nov. 2022 ([RO 2022 645](https://fedlex.data.admin.ch/eli/oc/2022/645)).
+[^87-18]: [RS 142.513](https://fedlex.data.admin.ch/eli/cc/2006/303)
+[^87-19]: Cf. note de bas de page relative à l’art. 71*c*.
+[^87-20]: Introduit par le ch. I de l’O du 17 déc. 2010 ([RO 2011 99](https://fedlex.data.admin.ch/eli/oc/2011/18)). Nouvelle teneur selon le ch. I 1 de l’O du 12 juin 2015 portant adaptation d’actes en raison de nouveautés en lien avec l’acquis de Dublin/Eurodac, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)).
+[^87-21]: [RS 142.204](https://fedlex.data.admin.ch/eli/cc/2018/493)
+[^87-22]: Introduit par le ch. I de l’O du 19 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 883](https://fedlex.data.admin.ch/eli/oc/2020/171)).
 
-## Chapitre 10*a***** Eurodac
+## Chapitre 10*a* Eurodac
 
 [^chap10a-1]
 
@@ -2304,7 +2323,7 @@ Il y a protection adéquate de la personne concernée au sens de l’art. 111*d*
 
 Lors du calcul des délais pour la déclaration d’arrivée, le jour de l’arrivée en Suisse est compté.
 
-## Chapitre 11*a***** Dispositions pénales
+## Chapitre 11*a* Dispositions pénales
 
 [^chap11a-1]
 
@@ -2385,7 +2404,7 @@ Les ressortissants du Royaume-Uni qui sont couverts par le champ d’application
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2008.
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 (art. 19 à 19*b*)
 
@@ -2441,7 +2460,7 @@ Annexe 1*[^t-1]*
 
 [^annex1-lvlu1-1]: [RO 2020 5865](https://fedlex.data.admin.ch/eli/oc/2020/986)
 
-Annexe 2*[^t-2]*
+Annexe 2[^t-2]
 
 (art. 20 à 20*b*)
 
@@ -2497,7 +2516,7 @@ Annexe 2*[^t-2]*
 
 [^annex2-lvlu1-1]: [RO 2020 5865](https://fedlex.data.admin.ch/eli/oc/2020/986)
 
-Annexe 3*[^t-3]*
+Annexe 3[^t-3]
 
 (art. 1, al. 2)
 
@@ -2521,7 +2540,7 @@ Les accords d’association à Schengen comprennent les accords suivants:
 [^annex3-lvlu1-5]: [RS 0.362.33](https://fedlex.data.admin.ch/eli/cc/2008/114)
 [^annex3-lvlu1-6]: [RS 0.362.311](https://fedlex.data.admin.ch/eli/cc/2011/205)
 
-Annexe 4*[^t-4]*
+Annexe 4[^t-4]
 
 (art. 1, al. 3)
 
