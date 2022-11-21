@@ -4,11 +4,11 @@ title: Asylum Act of 26 June 1998 (AsylA)
 short: AsylA
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/358"
 language: en
-version: 2022-09-01
+version: 2022-11-22
 adopted: 1998-06-26
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/358/20220901/en/xml/fedlex-data-admin-ch-eli-cc-1999-358-20220901-en-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/358/20220901/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/358/20221122/en/xml/fedlex-data-admin-ch-eli-cc-1999-358-20221122-en-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/358/20221122/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (AsylA)
 
-of 26 June 1998 (Status as of 1 September 2022)
+of 26 June 1998 (Status as of 22 November 2022)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -91,6 +91,14 @@ Switzerland may grant temporary protection to persons in need of protection as l
 <sup>2</sup> It shall coordinate the measures for which it is responsible with fedpol’s preventive police and administrative measures.
 
 [^5a-1]: Inserted by No I 3 of the FA of 25 Sept. 2020 on Police Counterterrorism Measures, in force since 1 June 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+
+#### Art. 5b
+
+**Security duties of the migration authorities**[^5b-1]
+
+SEM shall within the scope of its duties and responsibilities assess whether foreign nationals pose a threat to Switzerland’s internal or external security or international relations. When issuing police alerts, it shall notify fedpol. If necessary, the cantonal authorities concerned may also be notified.
+
+[^5b-1]: Inserted by Annex 1 No 2 of the FD of 18 Dec. 2020 on the Approval and Implementation of the Exchange of Notes between Switzerland and the EU relating to the Adoption of the Legislation on the Establishment, Operation and Use of the Schengen Information System (SIS), in force since 22 Nov. 2022 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2023 16](https://fedlex.data.admin.ch/eli/oc/2023/16); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
 
 #### Art. 6
 
@@ -914,6 +922,20 @@ The removal order shall indicate:
 [^45-8]: Inserted by Art. 2 No 2 of the FD of 18 June 2010 on the Adoption of the EC Directive on the Return of Illegal Immigrants (Directive 2008/115/EC) ([AS 2010 5925](https://fedlex.data.admin.ch/eli/oc/2010/848); [BBl 2009 8881](https://fedlex.data.admin.ch/eli/fga/2009/1528)). Amended by No I of the FA of 1 Oct. 2021, in force since 1 Sept. 2022 ([AS 2022 459](https://fedlex.data.admin.ch/eli/oc/2022/459); [BBl 2022 7105](https://fedlex.data.admin.ch/eli/fga/2022/7105)).
 [^45-9]: Inserted by Art. 2 No 2 of the FD of 18 June 2010 on the Adoption of the EC Directive on the Return of Illegal Immigrants (Directive 2008/115/EC), in force since 1 Jan. 2011 ([AS 2010 5925](https://fedlex.data.admin.ch/eli/oc/2010/848); [BBl 2009 8881](https://fedlex.data.admin.ch/eli/fga/2009/1528)).
 
+#### Art. 45a
+
+**Alert in the Schengen Information System**[^45a-1]
+
+<sup>1</sup> The data on third-country nationals against whom a decision on return in terms of Directive 2008/115/EC[^45a-2] has been issued in accordance with Articles 44 and 45 of this Acts shall be recorded by SEM in the Schengen Information System (SIS).
+
+<sup>2</sup> The removal of refugees shall be recorded in the SIS by the authority that has issued the removal or expulsion order under Article 64 or 68 FNIA[^45a-3].
+
+<sup>3</sup> Articles 68*b*–68*e* FNIA apply mutatis mutandis.
+
+[^45a-1]: Inserted by Annex 1 No 2 of the FD of 18 Dec. 2020 on the Approval and Implementation of the Exchange of Notes between Switzerland and the EU relating to the Adoption of the Legislation on the Establishment, Operation and Use of the Schengen Information System (SIS), in force since 22 Nov. 2022 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2023 16](https://fedlex.data.admin.ch/eli/oc/2023/16); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^45a-2]: Directive 2008/115/EC of the European Parliament and the Council of 16 Dec. 2008 on common standards and procedures in Member States for returning illegally staying third-country nationals, last amended by OJ L 348 of 24.12.2008, p. 98.
+[^45a-3]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+
 #### Art. 46
 
 **Enforcement by the cantons**
@@ -1609,25 +1631,24 @@ It shall determine the structure and the duration of the flat-rate payments as w
 
 **Duty to cooperate for recipients of subsidies**[^89a-1]
 
-<sup>1</sup> SEM may require the cantons to collect the data required for financial supervision, determining and adjusting the financial compensatory payments from the Confederation under Articles 88 and 91 paragraph 2<sup>bis</sup> of this Act and 55 and 87 of the FNIA[^89a-2] and to make it available to SEM or record it in SEM's Central Migration Information System (ZEMIS).
+<sup>1</sup> SEM may require the cantons to collect the data required for financial supervision, determining and adjusting the financial compensatory payments from the Confederation under Articles 88 and 91 paragraph 2<sup>bis</sup> of this Act and 58 and 87 FNIA[^89a-2] and to make it available to SEM or record it in SEM's Central Migration Information System (ZEMIS).[^89a-3]
 
 <sup>2</sup> If a canton fails to comply with this requirement, SEM may reduce the financial compensatory payments made to this canton or determine the payments due on the basis of the data available.
 
 [^89a-1]: Inserted by No I of the FA of 14 Dec. 2012, in force since 1 Feb. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 [^89a-2]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^89a-3]: Amended by Annex 1 No 2 of the FD of 18 Dec. 2020 on the Approval and Implementation of the Exchange of Notes between Switzerland and the EU relating to the Adoption of the Legislation on the Establishment, Operation and Use of the Schengen Information System (SIS), in force since 22 Nov. 2022 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2023 16](https://fedlex.data.admin.ch/eli/oc/2023/16); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
 
 #### Art. 89b
 
 **Claiming back and declining to make flat-rate compensatory payments**[^89b-1]
 
-<sup>1</sup> The Confederation may claim back flat-rate compensatory payments already made under Article 88 of this Act and under Articles 55[^89b-2] and 87 FNIA[^89b-3] if a canton fails to carry out the enforcement tasks in accordance with Article 46 of this Act or carries out such tasks inadequately without excuse.
+<sup>1</sup> The Confederation may claim back flat-rate compensatory payments already made under Article 88 of this Act and under Articles 58 and 87 FNIA[^89b-2] if a canton fails to carry out the enforcement tasks in accordance with Article 46 of this Act or carries out such tasks inadequately without excuse.
 
-<sup>2</sup> If the non-fulfilment or inadequate fulfilment of enforcement tasks in accordance with Article 46 leads to the person concerned staying longer in Switzerland, the Confederation may decline to make flat-rate compensatory payments under Article 88 of this Act and under Articles 55[^89b-4] and 87 FNIA in respect of the related costs incurred by the canton.
+<sup>2</sup> If the non-fulfilment or inadequate fulfilment of enforcement tasks in accordance with Article 46 leads to the person concerned staying longer in Switzerland, the Confederation may decline to make flat-rate compensatory payments under Article 88 of this Act and under Articles 58 and 87 FNIA in respect of the related costs incurred by the canton.
 
-[^89b-1]: Inserted by No I of the FA of 25 Sept. 2015, in force since 1 Oct. 2016 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
-[^89b-2]: Now: Art. 58.
-[^89b-3]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^89b-4]: Now: Art. 58.
+[^89b-1]: Inserted by No I of the FA of 25 Sept. 2015 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)). Amended by Annex 1 No 2 of the FD of 18 Dec. 2020 on the Approval and Implementation of the Exchange of Notes between Switzerland and the EU relating to the Adoption of the Legislation on the Establishment, Operation and Use of the Schengen Information System (SIS), in force since 22 Nov. 2022 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2023 16](https://fedlex.data.admin.ch/eli/oc/2023/16); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^89b-2]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
 
 #### Art. 90
 
@@ -1682,7 +1703,7 @@ It shall determine the structure and the duration of the flat-rate payments as w
 
 <sup>3bis</sup> In the context of applying the Dublin Association Agreements[^92-2], it may provide subsidies towards expenditure incurred by the cantons that is directly connected with the transfer of persons to Switzerland.[^92-3]
 
-<sup>4</sup> The Federal Council shall regulate the requirements and the payment and accounting procedure for the contributions. If possible it shall determine flat-rate payments.
+<sup>4</sup> The Federal Council shall regulate the requirements and the payment and accounting procedure for the contributions. If possible, it shall determine flat-rate payments.
 
 [^92-1]: Amended by No I of the FA of 16 Dec. 2005, in force since 1 Jan. 2008 ([AS 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [BBl 2002 6845](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
 [^92-2]: These agreements are listed in Annex 1.
@@ -2250,9 +2271,15 @@ The data obtained from the Eurodac database may not be transmitted under any cir
 
 #### Art. 102d
 
-[^102d-1]
+**Supervision of data processing related to Dublin cooperation**[^102d-1]
 
-[^102d-1]: Repealed by No 2 of the FA of 19 March 2010 on the Implementation of Framework Decision 2008/977/JHA on the protection of personal data processed in the framework of police and judicial cooperation in criminal matters, with effect from 1 Dec. 2010 ([AS 2010 3387](https://fedlex.data.admin.ch/eli/oc/2010/464)3418; [BBl 2009 6749](https://fedlex.data.admin.ch/eli/fga/2009/1207)).
+<sup>1</sup> The cantonal data protection authorities and the Federal Data Protection and Information Commissioner (FDPIC) shall work together within the scope of their respective responsibilities.
+
+<sup>2</sup> The FDPIC shall supervise the processing of personal data related to Dublin cooperation. It shall coordinate this supervisory activity with the cantonal data protection authorities.
+
+<sup>3</sup> The FDPIC shall work with the European Data Protection Commissioner in order to carry out its tasks, for which it shall act as the national supervisory authority.
+
+[^102d-1]: Amended by Annex 1 No 2 of the FD of 18 Dec. 2020 on the Approval and Implementation of the Exchange of Notes between Switzerland and the EU relating to the Adoption of the Legislation on the Establishment, Operation and Use of the Schengen Information System (SIS), in force since 22 Nov. 2022 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2023 16](https://fedlex.data.admin.ch/eli/oc/2023/16); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
 
 #### Art. 102e
 

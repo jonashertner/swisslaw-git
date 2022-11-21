@@ -4,11 +4,11 @@ title: "Loi du 26 juin 1998 sur l'asile (LAsi)"
 short: LAsi
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/358"
 language: fr
-version: 2022-09-01
+version: 2022-11-22
 adopted: 1998-06-26
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/358/20220901/fr/xml/fedlex-data-admin-ch-eli-cc-1999-358-20220901-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/358/20220901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/358/20221122/fr/xml/fedlex-data-admin-ch-eli-cc-1999-358-20221122-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/358/20221122/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/358/20220901/fr"
 
 (LAsi)
 
-du 26 juin 1998 (État le 1<sup>er</sup> septembre 2022)
+du 26 juin 1998 (État le 22 novembre 2022)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -88,6 +88,14 @@ La Suisse peut accorder la protection provisoire à des personnes à protéger a
 <sup>2</sup> Il coordonne les mesures relevant de ses compétences avec les mesures de police préventive et les mesures administratives de fedpol.
 
 [^5a-1]: Introduit par le ch. I 3 de la LF du 25 sept. 2020 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 4541](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+
+#### Art. 5b
+
+**Tâches de sécurité des autorités migratoires**[^5b-1]
+
+Le SEM examine, dans le cadre de ses tâches et compétences, si un étranger représente un danger pour la sûreté intérieure ou extérieure ou pour les relations internationales de la Suisse. Lors de signalements relevant du domaine policier, fedpol est informé. Si nécessaire, les autorités cantonales concernées sont également informées.
+
+[^5b-1]: Introduit par l’annexe 1 ch. 2 de l’AF du 18 déc. 2020 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des bases légales concernant l’établissement, le fonctionnement et l’utilisation du système d’information Schengen (SIS), en vigueur depuis le 22 nov. 2022 ([RO 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2023 16](https://fedlex.data.admin.ch/eli/oc/2023/16); [FF 2020 3361](https://fedlex.data.admin.ch/eli/fga/2020/794)).
 
 #### Art. 6
 
@@ -911,6 +919,20 @@ La décision de renvoi indique:
 [^45-9]: Introduit par l’art. 2 ch. 2 de l’AF du 18 juin 2010 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et la CE concernant la reprise de la directive CE sur le retour (directive 2008/115/CE) ([RO 2010 5925](https://fedlex.data.admin.ch/eli/oc/2010/848); [FF 2009 8043](https://fedlex.data.admin.ch/eli/fga/2009/1528)). Nouvelle teneur selon le ch. I de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> sept. 2022 ([RO 2022 459](https://fedlex.data.admin.ch/eli/oc/2022/459); [FF 2020 6893](https://fedlex.data.admin.ch/eli/fga/2020/1902)).
 [^45-10]: Introduit par l’art. 2 ch. 2 de l’AF du 18 juin 2010 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et la CE concernant la reprise de la directive CE sur le retour (directive 2008/115/CE), en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5925](https://fedlex.data.admin.ch/eli/oc/2010/848); [FF 2009 8043](https://fedlex.data.admin.ch/eli/fga/2009/1528)).
 
+#### Art. 45a
+
+**Signalement dans le système d’information Schengen**[^45a-1]
+
+<sup>1</sup> Les données de ressortissants d’États tiers à l’encontre desquels une décision de retour au sens de la directive 2008/115/CE[^45a-2] a été prononcée en vertu des art. 44 et 45 de la présente loi sont inscrites par le SEM dans le système d’information Schengen (SIS).
+
+<sup>2</sup> Les renvois de réfugiés sont inscrits dans le SIS par l’autorité qui a prononcé la décision de renvoi ou d’expulsion au sens des art. 64 ou 68 LEI[^45a-3].
+
+<sup>3</sup> Les art. 68*b* à 68*e* LEI sont applicables par analogie.
+
+[^45a-1]: Introduit par l’annexe 1 ch. 2 de l’AF du 18 déc. 2020 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des bases légales concernant l’établissement, le fonctionnement et l’utilisation du système d’information Schengen (SIS), en vigueur depuis le 22 nov. 2022 ([RO 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2023 16](https://fedlex.data.admin.ch/eli/oc/2023/16); [FF 2020 3361](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^45a-2]: Directive 2008/115/CE du Parlement européen et du Conseil du 16 décembre 2008 relative aux normes et procédures communes applicables dans les États membres au retour des ressortissants de pays tiers en séjour irrégulier, version du JO L 348 du 24.12.2008, p. 98.
+[^45a-3]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+
 #### Art. 46
 
 **Exécution par les cantons**
@@ -1610,25 +1632,24 @@ Il définit la forme que revêtent les indemnités forfaitaires ainsi que la dur
 
 **Obligation de collaborer des bénéficiaires de subventions**[^89a-1]
 
-<sup>1</sup> Le SEM peut obliger les cantons à relever et à mettre à sa disposition, ou à saisir dans le système d’information central sur la migration (SYMIC), les données nécessaires à la surveillance financière ainsi qu’à la détermination et à l’adaptation des indemnités financières versées par la Confédération au titre des art. 88 et 91, al. 2<sup>bis</sup>, de la présente loi et des art. 55 et 87 LEI[^89a-2].
+<sup>1</sup> Le SEM peut obliger les cantons à relever et à mettre à sa disposition, ou à saisir dans le système d’information central sur la migration (SYMIC), les données nécessaires à la surveillance financière ainsi qu’à la détermination et à l’adaptation des indemnités financières versées par la Confédération au titre des art. 88 et 91, al. 2<sup>bis</sup>, de la présente loi et des art. 58 et 87 LEI[^89a-2].[^89a-3]
 
 <sup>2</sup> Le SEM peut réduire les indemnités financières du canton qui ne s’acquitte pas de cette obligation ou les fixer en se fondant sur les données disponibles.
 
 [^89a-1]: Introduit par le ch. I de la LF du 14 déc. 2012, en vigueur depuis le 1<sup>er</sup> fév. 2014 ([RO 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [FF 2010 4035](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 6735](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 [^89a-2]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^89a-3]: Nouvelle teneur selon l’annexe 1 ch. 2 de l’AF du 18 déc. 2020 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des bases légales concernant l’établissement, le fonctionnement et l’utilisation du système d’information Schengen (SIS), en vigueur depuis le 22 nov. 2022 ([RO 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2023 16](https://fedlex.data.admin.ch/eli/oc/2023/16); [FF 2020 3361](https://fedlex.data.admin.ch/eli/fga/2020/794)).
 
 #### Art. 89b
 
 **Remboursement et renonciation au versement d’indemnités forfaitaires**[^89b-1]
 
-<sup>1</sup> La Confédération peut réclamer le remboursement d’indemnités forfaitaires déjà versées conformément à l’art. 88 de la présente loi, ainsi qu’aux art. 55[^89b-2] et 87 LEI[^89b-3], lorsqu’un canton ne remplit pas ses obligations en matière d’exécution comme le prévoit l’art. 46 de la présente loi ou ne les remplit que partiellement et que rien ne justifie de tels manquements.
+<sup>1</sup> La Confédération peut réclamer le remboursement d’indemnités forfaitaires déjà versées conformément à l’art. 88 de la présente loi et aux art. 58 et 87 LEI[^89b-2], lorsqu’un canton ne remplit pas ses obligations en matière d’exécution comme le prévoit l’art. 46 de la présente loi ou ne les remplit que partiellement et que rien ne justifie de tels manquements.
 
-<sup>2</sup> Si le fait de ne pas remplir ses obligations en matière d’exécution comme le prévoit l’art. 46 ou de ne les remplir que partiellement entraîne une prolongation de la durée du séjour de l’intéressé en Suisse, la Confédération peut renoncer à verser au canton les indemnités forfaitaires visées à l’art. 88 de la présente loi et aux art. 55[^89b-4] et 87 LEI.
+<sup>2</sup> Si le fait de ne pas remplir ses obligations en matière d’exécution comme le prévoit l’art. 46 ou de ne les remplir que partiellement entraîne une prolongation de la durée du séjour de l’intéressé en Suisse, la Confédération peut renoncer à verser au canton les indemnités forfaitaires visées à l’art. 88 de la présente loi et aux art. 58 et 87 LEI.
 
-[^89b-1]: Introduit par le ch. I de la LF du 25 sept. 2015, en vigueur depuis le 1<sup>er</sup> oct. 2016 ([RO 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521); [FF 2014 7771](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
-[^89b-2]: Actuellement «art. 58».
-[^89b-3]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^89b-4]: Actuellement «art. 58».
+[^89b-1]: Introduit par le ch. I de la LF du 25 sept. 2015 ([RO 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521); [FF 2014 7771](https://fedlex.data.admin.ch/eli/fga/2014/1715)). Nouvelle teneur selon l’annexe 1 ch. 2 de l’AF du 18 déc. 2020 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des bases légales concernant l’établissement, le fonctionnement et l’utilisation du système d’information Schengen (SIS), en vigueur depuis le 22 nov. 2022 ([RO 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2023 16](https://fedlex.data.admin.ch/eli/oc/2023/16); [FF 2020 3361](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^89b-2]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
 
 #### Art. 90
 
@@ -2251,9 +2272,15 @@ Les données issues de la banque de données Eurodac ne peuvent en aucun cas êt
 
 #### Art. 102d
 
-[^102d-1]
+**Surveillance du traitement des données dans le cadre de la coopération Dublin**[^102d-1]
 
-[^102d-1]: Abrogé par le ch. 2 de la LF du 19 mars 2010 portant mise en œuvre de la décision-cadre 2008/977/JAI relative à la protection des données à caractère personnel traitées dans le cadre de la coopération policière et judiciaire en matière pénale, avec effet au 1<sup>er</sup> déc. 2010 ([RO 2010 3387](https://fedlex.data.admin.ch/eli/oc/2010/464)3418; [FF 2009 6091](https://fedlex.data.admin.ch/eli/fga/2009/1207)).
+<sup>1</sup> Les autorités cantonales de protection des données et le Préposé fédéral à la protection des données et à la transparence (PFPDT) coopèrent dans le cadre de leurs responsabilités respectives.
+
+<sup>2</sup> Le PFPDT exerce la surveillance du traitement des données personnelles dans le cadre de la coopération Dublin. Il coordonne l’activité de surveillance avec les autorités cantonales de protection des données.
+
+<sup>3</sup> Lors de l’exécution de ses tâches, il coopère avec le Contrôleur européen de la protection des données, pour lequel il a le titre d’autorité nationale de surveillance.
+
+[^102d-1]: Nouvelle teneur selon l’annexe 1 ch. 2 de l’AF du 18 déc. 2020 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des bases légales concernant l’établissement, le fonctionnement et l’utilisation du système d’information Schengen (SIS), en vigueur depuis le 22 nov. 2022 ([RO 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2023 16](https://fedlex.data.admin.ch/eli/oc/2023/16); [FF 2020 3361](https://fedlex.data.admin.ch/eli/fga/2020/794)).
 
 #### Art. 102e
 

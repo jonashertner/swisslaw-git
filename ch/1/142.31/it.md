@@ -4,11 +4,11 @@ title: "Legge del 26 giugno 1998 sull'asilo (LAsi)"
 short: LAsi
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/358"
 language: it
-version: 2022-09-01
+version: 2022-11-22
 adopted: 1998-06-26
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/358/20220901/it/xml/fedlex-data-admin-ch-eli-cc-1999-358-20220901-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/358/20220901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/358/20221122/it/xml/fedlex-data-admin-ch-eli-cc-1999-358-20221122-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/358/20221122/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/358/20220901/it"
 
 (LAsi)
 
-del 26 giugno 1998 (Stato 1° settembre 2022)
+del 26 giugno 1998 (Stato 22 novembre 2022)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -88,6 +88,14 @@ La Svizzera può accordare provvisoriamente protezione a persone bisognose di pr
 <sup>2</sup> Coordina le misure di sua competenza con le misure preventive di polizia e le misure amministrative di fedpol.
 
 [^5a-1]: Introdotto dal n. I 3 della LF del 25 set. 2020 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 3935](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+
+#### Art. 5b
+
+**Compiti di sicurezza delle autorità di migrazione**[^5b-1]
+
+Nell’ambito dei propri compiti e competenze la SEM verifica se uno straniero rappresenta un pericolo per la sicurezza interna o esterna o per le relazioni internazionali della Svizzera. In caso di segnalazioni di polizia è informato fedpol. Se necessario sono informate anche le autorità cantonali interessate.
+
+[^5b-1]: Introdotto dall’all. 1 n. 2 del DF del 18 dic. 2020 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento delle basi legali dell’istituzione, dell’esercizio e dell’uso del sistema d’informazione Schengen (SIS), in vigore dal 22 nov. 2022 ([RU 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2023 16](https://fedlex.data.admin.ch/eli/oc/2023/16); [FF 2020 3117](https://fedlex.data.admin.ch/eli/fga/2020/794)).
 
 #### Art. 6
 
@@ -911,6 +919,20 @@ La decisione d’allontanamento indica:
 [^45-8]: Introdotto dall’art. 2 n. 2 del DF del 18 giu. 2010 che approva e traspone nel diritto svizzero lo scambio di note tra la Svizzera e la CE concernente il recepimento della direttiva CE sul rimpatrio (direttiva 2008/115/CE) ([RU 2010 5925](https://fedlex.data.admin.ch/eli/oc/2010/848); [FF 2009 7737](https://fedlex.data.admin.ch/eli/fga/2009/1528)). Nuovo testo giusta il n. I della LF del 1° ott. 2021, in vigore dal 1° set. 2022 ([RU 2022 459](https://fedlex.data.admin.ch/eli/oc/2022/459); [FF 2020 6219](https://fedlex.data.admin.ch/eli/fga/2020/1902)).
 [^45-9]: Introdotto dall’art. 2 n. 2 del DF del 18 giu. 2010 che approva e traspone nel diritto svizzero lo scambio di note tra la Svizzera e la CE concernente il recepimento della direttiva CE sul rimpatrio (direttiva 2008/115/CE), in vigore dal 1° gen. 2011 ([RU 2010 5925](https://fedlex.data.admin.ch/eli/oc/2010/848); [FF 2009 7737](https://fedlex.data.admin.ch/eli/fga/2009/1528)).
 
+#### Art. 45a
+
+**Segnalazione nel sistema d’informazione Schengen**[^45a-1]
+
+<sup>1</sup> I dati dei cittadini di Stati terzi nei confronti dei quali in virtù degli articoli 44 e 45 della presente legge è stata pronunciata una decisione di rimpatrio ai sensi della direttiva 2008/115/CE[^45a-2] sono inseriti dalla SEM nel sistema d’informazione Schengen (SIS).
+
+<sup>2</sup> Gli allontanamenti di rifugiati sono inseriti nel SIS dall’autorità competente che ha emanato la decisione di allontanamento o di espulsione secondo l’articolo 64 o 68 LStrI[^45a-3].
+
+<sup>3</sup> Gli articoli 68*b*–68*e* LStrI si applicano per analogia.
+
+[^45a-1]: Introdotto dall’all. 1 n. 2 del DF del 18 dic. 2020 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento delle basi legali dell’istituzione, dell’esercizio e dell’uso del sistema d’informazione Schengen (SIS), in vigore dal 22 nov. 2022 ([RU 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [202](https://fedlex.data.admin.ch/eli/oc/2021/202)**3** 16; [FF 2020 3117](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^45a-2]: Direttiva 2008/115/CE del Parlamento europeo e del Consiglio, del 16 dicembre 2008, recante norme e procedure comuni applicabili negli Stati membri al rimpatrio di cittadini di paesi terzi il cui soggiorno è irregolare, versione della GU L 348 del 24.12.2008, pag. 98.
+[^45a-3]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+
 #### Art. 46
 
 **Esecuzione da parte dei Cantoni**
@@ -1078,7 +1100,7 @@ Le persone cui la Svizzera ha accordato asilo o che adempiono la qualità di rif
 
 **Attività lucrativa**[^61-1]
 
-<sup>6</sup> Se il richiedente è incarcerato in vista d’estradizione su richiesta dello Stato da cui cerca protezione in Svizzera, la SEM decide senza indugio e in via prioritaria. Lo stesso vale anche se nei suoi confronti è stata pronunciata l’espulsione secondo l’articolo 66*a* o 66*a*<sup>bis</sup> del Codice penale (CP)[^61-2], l’articolo 49*a* o 49*a*<sup>bis</sup> del Codice penale militare del 13 giugno 1927[^61-3] (CPM) o l’articolo 68 LStrI[^61-4].[^61-5]
+<sup>1</sup> Le persone a cui la Svizzera ha accordato asilo o che sono state ammesse provvisoriamente come rifugiati nonché i rifugiati nei confronti dei quali è stata ordinata, con sentenza passata in giudicato, l’espulsione ai sensi dell’articolo 66*a* o 66*a*<sup>bis</sup> CP[^61-2] o dell’articolo 49*a* o 49*a*<sup>bis</sup> CPM[^61-3] o, con decisione passata in giudicato, dell’articolo 68 LStrI[^61-4], sono autorizzati a esercitare un’attività lucrativa in tutta la Svizzera se sono osservate le condizioni di lavoro e di salario usuali nella località, nella professione e nel settore (art. 22 LStrI).[^61-5]
 
 <sup>2</sup> Il datore di lavoro notifica previamente all’autorità competente per il luogo di lavoro designata dal Cantone l’inizio e la fine dell’attività lucrativa come pure il cambiamento d’impiego. La procedura di notifica è retta dall’articolo 85*a* capoversi 2–6 LStrI.
 
@@ -1608,25 +1630,24 @@ Definisce l’assetto delle somme forfettarie, nonché la durata e le condizioni
 
 **Obbligo di collaborare dei beneficiari di sussidi**[^89a-1]
 
-<sup>1</sup> La SEM può obbligare i Cantoni a rilevare e mettere a sua disposizione i dati necessari per la vigilanza finanziaria, per la fissazione e l’adeguamento delle indennità finanziarie della Confederazione secondo gli articoli 88 e 91 capoverso 2<sup>bis</sup> della presente legge, nonché gli articoli 55 e 87 LStrI[^89a-2] oppure a registrarli nel Sistema d’informazione centrale sulla migrazione (SIMIC) della SEM.
+<sup>1</sup> La SEM può obbligare i Cantoni a rilevare e mettere a sua disposizione i dati necessari per la vigilanza finanziaria, nonché per la fissazione e l’adeguamento delle indennità finanziarie della Confederazione secondo gli articoli 88 e 91 capoverso 2<sup>bis</sup> della presente legge e gli articoli 58 e 87 LStrI[^89a-2] oppure a registrarli nel Sistema d’informazione centrale sulla migrazione (SIMIC) della SEM.[^89a-3]
 
 <sup>2</sup> Se un Cantone non adempie tale obbligo, la SEM può ridurre le indennità finanziarie destinate a tale Cantone o fissarle in funzione dei dati disponibili.
 
 [^89a-1]: Introdotto dal n. I della LF del 14 dic. 2012, in vigore dal 1° feb. 2014 ([RU 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [FF 2010 3889](https://fedlex.data.admin.ch/eli/fga/2010/794); [2011 6503](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 [^89a-2]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^89a-3]: Nuovo testo giusta l’all. 1 n. 2 del DF del 18 dic. 2020 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento delle basi legali dell’istituzione, dell’esercizio e dell’uso del sistema d’informazione Schengen (SIS), in vigore dal 22 nov. 2022 ([RU 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2023 16](https://fedlex.data.admin.ch/eli/oc/2023/16); [FF 2020 3117](https://fedlex.data.admin.ch/eli/fga/2020/794)).
 
 #### Art. 89b
 
-**Rimborso e rinuncia al versamento di indennizzi a titolo forfettario**[^89b-1]
+**Rimborso e rinuncia al versamento degli indennizzi a titolo forfettario**[^89b-1]
 
-<sup>1</sup> La Confederazione può chiedere il rimborso degli indennizzi a titolo forfettario già versati di cui all’articolo 88 della presente legge e agli articoli 55[^89b-2] e 87 LStrI[^89b-3] se un Cantone non adempie gli obblighi in materia d’esecuzione secondo l’articolo 46 della presente legge o li adempie solo parzialmente e niente giustifica tale inadempienza.
+<sup>1</sup> La Confederazione può chiedere il rimborso degli indennizzi a titolo forfettario già versati di cui all’articolo 88 della presente legge e agli articoli 58 e 87 LStrI[^89b-2] se un Cantone non adempie gli obblighi in materia d’esecuzione secondo l’articolo 46 della presente legge o li adempie solo parzialmente e niente giustifica tale inadempienza.
 
-<sup>2</sup> Se l’inadempimento o l’adempimento parziale degli obblighi in materia d’esecuzione secondo l’articolo 46 determina un prolungamento della durata del soggiorno in Svizzera dell’interessato, la Confederazione può rinunciare a versare al Cantone gli indennizzi a titolo forfettario di cui all’articolo 88 della presente legge e agli articoli 55[^89b-4] e 87 LStrI per coprire le spese corrispondenti.
+<sup>2</sup> Se l’inadempimento o l’adempimento parziale degli obblighi in materia d’esecuzione secondo l’articolo 46 determina un prolungamento della durata del soggiorno in Svizzera dell’interessato, la Confederazione può rinunciare a versare al Cantone gli indennizzi a titolo forfettario di cui all’articolo 88 della presente legge e agli articoli 58 e 87 LStrI destinati a coprire le spese corrispondenti.
 
-[^89b-1]: Introdotto dal n. I della LF del 25 set. 2015, in vigore dal 1° ott. 2016 ([RU 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521); [FF 2014 6917](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
-[^89b-2]: Ora: art. 58.
-[^89b-3]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^89b-4]: Ora: art. 58.
+[^89b-1]: Introdotto dal n. I della LF del 25 set. 2015 ([RU 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521); [FF 2014 6917](https://fedlex.data.admin.ch/eli/fga/2014/1715)). Nuovo testo giusta l’all. 1 n. 2 del DF del 18 dic. 2020 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento delle basi legali dell’istituzione, dell’esercizio e dell’uso del sistema d’informazione Schengen (SIS), in vigore dal 22 nov. 2022 ([RU 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2023 16](https://fedlex.data.admin.ch/eli/oc/2023/16); [FF 2020 3117](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^89b-2]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
 
 #### Art. 90
 
@@ -2249,9 +2270,15 @@ I dati provenienti dalla banca dati Eurodac non possono in nessun caso essere tr
 
 #### Art. 102d
 
-[^102d-1]
+**Vigilanza sul trattamento dei dati nell’ambito della cooperazione Dublino**[^102d-1]
 
-[^102d-1]: Abrogato dal n. 2 della LF del 19 mar. 2010 che traspone nel diritto svizzero la decisione quadro 2008/977/GAI sulla protezione dei dati personali trattati nell’ambito della cooperazione giudiziaria e di polizia in materia penale, con effetto dal 1° dic. 2010 ([RU 2010 3387](https://fedlex.data.admin.ch/eli/oc/2010/464), [3417](https://fedlex.data.admin.ch/eli/oc/2010/473); [FF 2009 5873](https://fedlex.data.admin.ch/eli/fga/2009/1207)).
+<sup>1</sup> Le autorità cantonali di protezione dei dati e l’Incaricato federale della protezione dei dati e della trasparenza (IFPDT) cooperano nell’ambito delle rispettive competenze.
+
+<sup>2</sup> L’IFPDT esercita la vigilanza sul trattamento dei dati personali nell’ambito della cooperazione Dublino. Coordina l’attività di vigilanza con le autorità cantonali di protezione dei dati.
+
+<sup>3</sup> Per l’esecuzione dei suoi compiti coopera con il Responsabile europeo della protezione dei dati, per il quale funge da autorità nazionale di vigilanza.
+
+[^102d-1]: Nuovo testo giusta l’all. 1 n. 2 del DF del 18 dic. 2020 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento delle basi legali dell’istituzione, dell’esercizio e dell’uso del sistema d’informazione Schengen (SIS), in vigore dal 22 nov. 2022 ([RU 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2023 16](https://fedlex.data.admin.ch/eli/oc/2023/16); [FF 2020 3117](https://fedlex.data.admin.ch/eli/fga/2020/794)).
 
 #### Art. 102e
 

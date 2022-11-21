@@ -4,11 +4,11 @@ title: Asylgesetz vom 26. Juni 1998 (AsylG)
 short: AsylG
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/358"
 language: de
-version: 2022-09-01
+version: 2022-11-22
 adopted: 1998-06-26
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/358/20220901/de/xml/fedlex-data-admin-ch-eli-cc-1999-358-20220901-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/358/20220901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/358/20221122/de/xml/fedlex-data-admin-ch-eli-cc-1999-358-20221122-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/358/20221122/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/358/20220901/de"
 
 (AsylG)
 
-vom 26. Juni 1998 (Stand am 1. September 2022)
+vom 26. Juni 1998 (Stand am 22. November 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -87,6 +87,14 @@ Die Schweiz kann Schutzbedürftigen für die Dauer einer schweren allgemeinen Ge
 <sup>2</sup> Es koordiniert die Massnahmen in seinem Zuständigkeitsbereich mit den vorbeugenden polizeilichen und administrativen Massnahmen von fedpol.
 
 [^5a-1]: Eingefügt durch Ziff. I 3 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+
+#### Art. 5b
+
+**Sicherheitsaufgaben der Migrationsbehörden**[^5b-1]
+
+Das SEM prüft im Rahmen seiner Aufgaben und Zuständigkeiten, ob Ausländerinnen und Ausländer eine Gefahr für die innere oder die äussere Sicherheit oder die internationalen Beziehungen der Schweiz darstellen. Bei Ausschreibungen im Polizeibereich wird fedpol informiert. Bei Bedarf können auch die betroffenen kantonalen Behörden informiert werden.
+
+[^5b-1]: Eingefügt durch Anhang 1 Ziff. 2 des BB vom 18. Dez. 2020 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Rechtsgrundlagen über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems (SIS), in Kraft seit 22. Nov. 2022 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2023 16](https://fedlex.data.admin.ch/eli/oc/2023/16); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
 
 #### Art. 6
 
@@ -910,6 +918,20 @@ Die Wegweisungsverfügung enthält:
 [^45-8]: Eingefügt durch Art. 2 Ziff. 2 des BB vom 18. Juni 2010 betreffend die Übernahme der EG-Rückführungsrichtlinie (Richtlinie 2008/115/EG) ([AS 2010 5925](https://fedlex.data.admin.ch/eli/oc/2010/848); [BBl 2009 8881](https://fedlex.data.admin.ch/eli/fga/2009/1528)). Fassung gemäss Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. Sept. 2022 ([AS 2022 459](https://fedlex.data.admin.ch/eli/oc/2022/459); [BBl 2022 7105](https://fedlex.data.admin.ch/eli/fga/2022/7105)).
 [^45-9]: Eingefügt durch Art. 2 Ziff. 2 des BB vom 18. Juni 2010 betreffend die Übernahme der EG-Rückführungsrichtlinie (Richtlinie 2008/115/EG), in Kraft seit 1. Jan. 2011 ([AS 2010 5925](https://fedlex.data.admin.ch/eli/oc/2010/848); [BBl 2009 8881](https://fedlex.data.admin.ch/eli/fga/2009/1528)).
 
+#### Art. 45a
+
+**Ausschreibung im Schengener Informationssystem**[^45a-1]
+
+<sup>1</sup> Die Daten von Drittstaatsangehörigen, gegen die ein Rückkehrentscheid im Sinne der Richtlinie 2008/115/EG[^45a-2] gemäss den Artikeln 44 und 45 des vorliegenden Gesetzes verfügt wurde, werden vom SEM in das Schengener Informationssystem (SIS) eingetragen.
+
+<sup>2</sup> Wegweisungen von Flüchtlingen werden von der zuständigen Behörde, die den Weg- oder Ausweisungsentscheid nach Artikel 64 oder 68 AIG[^45a-3] erlassen hat, im SIS erfasst.
+
+<sup>3</sup> Die Artikel 68*b*–68*e* des AIG sind sinngemäss anwendbar.
+
+[^45a-1]: Eingefügt durch Anhang 1 Ziff. 2 des BB vom 18. Dez. 2020 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Rechtsgrundlagen über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems (SIS), in Kraft seit 22. Nov. 2022 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2023 16](https://fedlex.data.admin.ch/eli/oc/2023/16); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^45a-2]: Richtlinie 2008/115/EG des Europäischen Parlaments und des Rates vom 16. Dez. 2008 über gemeinsame Normen und Verfahren in den Mitgliedstaaten zur Rückführung illegal aufhältiger Drittstaatsangehöriger, Fassung gemäss ABl. L 348 vom 24.12.2008, S. 98.
+[^45a-3]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+
 #### Art. 46
 
 **Vollzug durch die Kantone**
@@ -1606,25 +1628,24 @@ Er bestimmt die Ausgestaltung der Pauschalen sowie die Dauer ihrer Ausrichtung u
 
 **Mitwirkungspflicht der Subventionsempfänger**[^89a-1]
 
-<sup>1</sup> Das SEM kann die Kantone dazu verpflichten, die für die Finanzaufsicht, die Festsetzung und die Anpassung der finanziellen Abgeltungen des Bundes nach den Artikeln 88 und 91 Absatz 2<sup>bis</sup> des vorliegenden Gesetzes sowie 55 und 87 des AIG[^89a-2] notwendigen Daten zu erheben und dem SEM zur Verfügung zu stellen oder diese im Zentralen Migrationsinformationssystem (ZEMIS) des SEM zu erfassen.
+<sup>1</sup> Das SEM kann die Kantone dazu verpflichten, die für die Finanzaufsicht, die Festsetzung und die Anpassung der finanziellen Abgeltungen des Bundes nach den Artikeln 88 und 91 Absatz 2<sup>bis</sup> des vorliegenden Gesetzes sowie 58 und 87 AIG[^89a-2] notwendigen Daten zu erheben und dem SEM zur Verfügung zu stellen oder diese im Zentralen Migrationsinformationssystem (ZEMIS) des SEM zu erfassen.[^89a-3]
 
 <sup>2</sup> Kommt ein Kanton dieser Verpflichtung nicht nach, so kann das SEM die finanziellen Abgeltungen an diesen Kanton kürzen oder aufgrund der vorhandenen Daten festlegen.
 
 [^89a-1]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 [^89a-2]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^89a-3]: Fassung gemäss Anhang 1 Ziff. 2 des BB vom 18. Dez. 2020 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Rechtsgrundlagen über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems (SIS), in Kraft seit 22. Nov. 2022 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2023 16](https://fedlex.data.admin.ch/eli/oc/2023/16); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
 
 #### Art. 89b
 
 **Rückforderung und Verzicht auf die Ausrichtung von Pauschalabgeltungen**[^89b-1]
 
-<sup>1</sup> Der Bund kann bereits ausgerichtete Pauschalabgeltungen nach Artikel 88 des vorliegenden Gesetzes und nach den Artikeln 55[^89b-2] und 87 AIG[^89b-3] zurückfordern, wenn ein Kanton die Vollzugsaufgaben gemäss Artikel 46 des vorliegenden Gesetzes nicht oder nur mangelhaft erfüllt und keine entschuldbaren Gründe vorliegen.
+<sup>1</sup> Der Bund kann bereits ausgerichtete Pauschalabgeltungen nach Artikel 88 des vorliegenden Gesetzes und nach den Artikeln 58 und 87 AIG[^89b-2] zurückfordern, wenn ein Kanton die Vollzugsaufgaben gemäss Artikel 46 des vorliegenden Gesetzes nicht oder nur mangelhaft erfüllt und keine entschuldbaren Gründe vorliegen.
 
-<sup>2</sup> Führt die Nichterfüllung oder die mangelhafte Erfüllung von Vollzugsaufgaben nach Artikel 46 zu einer Verlängerung der Aufenthaltsdauer der betroffenen Person in der Schweiz, so kann der Bund darauf verzichten, die entsprechenden beim Kanton anfallenden Kosten durch Pauschalabgeltungen nach Artikel 88 des vorliegenden Gesetzes und nach den Artikeln 55[^89b-4] und 87 AIG zu entschädigen.
+<sup>2</sup> Führt die Nichterfüllung oder die mangelhafte Erfüllung von Vollzugsaufgaben nach Artikel 46 zu einer Verlängerung der Aufenthaltsdauer der betroffenen Person in der Schweiz, so kann der Bund darauf verzichten, die entsprechenden beim Kanton anfallenden Kosten durch Pauschalabgeltungen nach Artikel 88 des vorliegenden Gesetzes und nach den Artikeln 58 und 87 AIG zu entschädigen.
 
-[^89b-1]: Eingefügt durch Ziff. I des BG vom 25. Sept. 2015, in Kraft seit 1. Okt. 2016 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
-[^89b-2]: Heute: Art. 58.
-[^89b-3]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^89b-4]: Heute: Art. 58.
+[^89b-1]: Eingefügt durch Ziff. I des BG vom 25. Sept. 2015 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)). Fassung gemäss Anhang 1 Ziff. 2 des BB vom 18. Dez. 2020 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Rechtsgrundlagen über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems (SIS), in Kraft seit 22. Nov. 2022 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2023 16](https://fedlex.data.admin.ch/eli/oc/2023/16); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^89b-2]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
 
 #### Art. 90
 
@@ -2247,9 +2268,15 @@ Die aus der Datenbank Eurodac gewonnenen Daten dürfen unter keinen Umständen �
 
 #### Art. 102d
 
-[^102d-1]
+**Aufsicht über die Datenbearbeitung im Rahmen der Zusammenarbeit von Dublin**[^102d-1]
 
-[^102d-1]: Aufgehoben durch Ziff. 2 des BG vom 19. März über die Umsetzung des Rahmenbeschlusses 2008/977/JI über den Schutz von Personendaten im Rahmen der polizeilichen und justiziellen Zusammenarbeit in Strafsachen, mit Wirkung seit 1. Dez. 2010 ([AS 2010 3387](https://fedlex.data.admin.ch/eli/oc/2010/464)3418; [BBl 2009 6749](https://fedlex.data.admin.ch/eli/fga/2009/1207)).
+<sup>1</sup> Die kantonalen Datenschutzbehörden und der Eidgenössische Datenschutz- und Öffentlichkeitsbeauftragte (EDÖB) arbeiten im Rahmen ihrer jeweiligen Zuständigkeiten zusammen.
+
+<sup>2</sup> Der EDÖB übt die Aufsicht über die Bearbeitung von Personendaten im Rahmen der Zusammenarbeit von Dublin aus. Er koordiniert die Aufsichtstätigkeit mit den kantonalen Datenschutzbehörden.
+
+<sup>3</sup> Er arbeitet bei der Wahrnehmung seiner Aufgaben mit dem Europäischen Datenschutzbeauftragten zusammen; für diesen ist er nationale Aufsichtsbehörde.
+
+[^102d-1]: Fassung gemäss Anhang 1 Ziff. 2 des BB vom 18. Dez. 2020 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Rechtsgrundlagen über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems (SIS), in Kraft seit 22. Nov. 2022 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2023 16](https://fedlex.data.admin.ch/eli/oc/2023/16); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
 
 #### Art. 102e
 

@@ -4,11 +4,11 @@ title: "Lescha d'asil dals 26 da zercladur 1998 (LAsil)"
 short: LAsil
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/358"
 language: rm
-version: 2022-09-01
+version: 2022-11-22
 adopted: 1998-06-26
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/358/20220901/rm/xml/fedlex-data-admin-ch-eli-cc-1999-358-20220901-rm-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/358/20220901/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/358/20221122/rm/xml/fedlex-data-admin-ch-eli-cc-1999-358-20221122-rm-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/358/20221122/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (LAsil)
 
-dals 26 da zercladur 1998 (versiun dal 1. da settember 2022)
+dals 26 da zercladur 1998 (versiun dals 22 da november 2022)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -89,6 +89,14 @@ La Svizra po conceder protecziun provisorica a persunas cun basegn da protecziun
 <sup>2</sup> El coordinescha las mesiras da ses champ da cumpetenza cun las mesiras polizialas preventivas e cun las mesiras administrativas dal fedpol.
 
 [^5a-1]: Integrà tras la cifra I 3 da la LF dals 25 da sett. 2020 davart las mesiras polizialas per cumbatter cunter il terrorissem, en vigur dapi il 1. da zer. 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+
+#### Art. 5b
+
+**Incumbensas da segirezza da las autoritads da migraziun**[^5b-1]
+
+En il rom da sias incumbensas e cumpetenzas examinescha il SEM, sche persunas estras signifitgan in privel per la segirezza interna u externa u per las relaziuns internaziunalas da la Svizra. En cas da publicaziuns en il sectur da polizia vegn infurmà il fedpol. En cas da basegn pon vegnir infurmadas er las autoritads chantunalas pertutgadas.
+
+[^5b-1]: Integrà tras la cifra 2 da l’agiunta 1 dal COF dals 18 da dec. 2020 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da las basas giuridicas davart l’instituziun, il manaschi e l’utilisaziun dal sistem d’infurmaziun da Schengen (SIS), en vigur dapi ils 22 da nov. 2022 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2023 16](https://fedlex.data.admin.ch/eli/oc/2023/16); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
 
 #### Art. 6
 
@@ -912,6 +920,20 @@ La disposiziun da spedida cuntegna:
 [^45-8]: Integrà tras l’art. 2 cifra 2 dal COF dals 18 da zer. 2010 concernent la surpigliada da la Directiva da repatriament da la CE (Directiva 2008/115/CE) ([AS 2010 5925](https://fedlex.data.admin.ch/eli/oc/2010/848); [BBl 2009 8881](https://fedlex.data.admin.ch/eli/fga/2009/1528)). Versiun tenor la cifra I da la LF dal 1. d’oct. 2021, en vigur dapi il 1. da sett. 2022 ([AS 2022 459](https://fedlex.data.admin.ch/eli/oc/2022/459); [BBl 2020 7105](https://fedlex.data.admin.ch/eli/fga/2020/1902)).
 [^45-9]: Integrà tras l’art. 2 cifra 2 dal COF dals 18 da zer. 2010 concernent la surpigliada da la Directiva da repatriament da la CE (Directiva 2008/115/CE), en vigur dapi il 1. da schan. 2011 ([AS 2010 5925](https://fedlex.data.admin.ch/eli/oc/2010/848); [BBl 2009 8881](https://fedlex.data.admin.ch/eli/fga/2009/1528)).
 
+#### Art. 45a
+
+**Publicaziun en il sistem d’infurmaziun da Schengen**[^45a-1]
+
+<sup>1</sup> Las datas da burgais da terzs stadis, cunter ils quals è vegnida decretada ina decisiun da return en il senn da la Directiva 2008/115/CE[^45a-2] tenor ils artitgels 44 e 45 da questa lescha, vegnan inscrittas en il sistem d’infurmaziun da Schengen (SIS) tras il SEM.
+
+<sup>2</sup> Spedidas da fugitivs vegnan inscrittas en il SIS tras l’autoritad cumpetenta che ha decretà la decisiun da spedida u d’expulsiun tenor ils artitgels 64 u 68 LEI[^45a-3].
+
+<sup>3</sup> Ils artitgels 68*b*–68*e* LEI èn applitgabels tenor il senn.
+
+[^45a-1]: Integrà tras la cifra 2 da l’agiunta 1 dal COF dals 18 da dec. 2020 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da las basas giuridicas davart l’instituziun, il manaschi e l’utilisaziun dal sistem d’infurmaziun da Schengen (SIS), en vigur dapi ils 22 da nov. 2022 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2023 16](https://fedlex.data.admin.ch/eli/oc/2023/16); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^45a-2]: Directiva 2008/115/CE dal Parlament europeic e dal Cussegl dals 16 da dec. 2008 davart normas e proceduras cuminaivlas applitgablas en ils stadis commembers per repatriar burgais da terzs stadis cun ina dimora illegala, versiun tenor ABl. L 348 dals 24 da dec. 2008, p. 98.
+[^45a-3]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+
 #### Art. 46
 
 **Execuziun tras ils chantuns**
@@ -1608,25 +1630,24 @@ El fixescha la concepziun da las pauschalas sco er la durada da lur pajament e l
 
 **Obligaziun da cooperar dals retschaviders da subvenziuns**[^89a-1]
 
-<sup>1</sup> Il SEM po obligar ils chantuns da registrar e da metter a disposiziun las datas necessarias per la surveglianza da las finanzas sco er per la fixaziun e l’adattaziun da las indemnisaziuns finanzialas da la Confederaziun tenor ils artitgels 88 e 91 alinea 2<sup>bis</sup> da questa lescha e tenor ils artitgels 55 ed 87 LEI[^89a-2] u d’endatar quellas en il Sistem d’infurmaziun central davart la migraziun (SIMIC) dal SEM.
+<sup>1</sup> Il SEM po obligar ils chantuns da registrar e da metter a disposiziun las datas necessarias per la surveglianza da las finanzas sco er per la fixaziun e l’adattaziun da las indemnisaziuns finanzialas da la Confederaziun tenor ils artitgels 88 e 91 alinea 2<sup>bis</sup> da questa lescha e tenor ils artitgels 58 ed 87 LEI[^89a-2] u d’endatar quellas en il Sistem d’infurmaziun central davart la migraziun (SIMIC) dal SEM.[^89a-3]
 
 <sup>2</sup> Sch’in chantun n’ademplescha betg questa obligaziun, po il SEM reducir las indemnisaziuns finanzialas per quest chantun u fixar las indemnisaziuns sin basa da las datas disponiblas.
 
 [^89a-1]: Integrà tras la cifra I da la LF dals 14 da dec. 2012, en vigur dapi il 1. da favr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 [^89a-2]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^89a-3]: Versiun tenor la cifra 2 da l’agiunta 1 dal COF dals 18 da dec. 2020 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da las basas giuridicas davart l’instituziun, il manaschi e l’utilisaziun dal sistem d’infurmaziun da Schengen (SIS), en vigur dapi ils 22 da nov. 2022 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2023 16](https://fedlex.data.admin.ch/eli/oc/2023/16); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
 
 #### Art. 89b
 
 **Restituziun e renunzia al pajament d’indemnisaziuns pauschalas**[^89b-1]
 
-<sup>1</sup> La Confederaziun po pretender enavos indemnisaziuns pauschalas gia pajadas tenor l’artitgel 88 da questa lescha e tenor ils artitgels 55[^89b-2] ed 87 LEI[^89b-3], sch’in chantun n’ademplescha betg las incumbensas executivas tenor l’artitgel 46 da questa lescha u ademplescha quellas mo manglusamain, e sch’i n’existan nagins motivs perstgisabels.
+<sup>1</sup> La Confederaziun po pretender enavos indemnisaziuns pauschalas gia pajadas tenor l’artitgel 88 da questa lescha e tenor ils artitgels 58 ed 87 LEI[^89b-2], sch’in chantun n’ademplescha betg las incumbensas executivas tenor l’artitgel 46 da questa lescha u ademplescha quellas mo manglusamain, e sch’i n’existan nagins motivs perstgisabels.
 
-<sup>2</sup> Sch’il nunadempliment u l’adempliment manglus d’incumbensas executivas tenor l’artitgel 46 chaschuna ina prolungaziun da la durada da la dimora da la persuna pertutgada en Svizra, po la Confederaziun desister d’indemnisar cun pauschalas tenor l’artitgel 88 da questa lescha e tenor ils artitgels 55[^89b-4] ed 87 LEI ils custs correspundents che resultan tar il chantun.
+<sup>2</sup> Sch’il nunadempliment u l’adempliment manglus d’incumbensas executivas tenor l’artitgel 46 chaschuna ina prolungaziun da la durada da la dimora da la persuna pertutgada en Svizra, po la Confederaziun desister d’indemnisar cun pauschalas tenor l’artitgel 88 da questa lescha e tenor ils artitgels 58 ed 87 LEI ils custs correspundents che resultan tar il chantun.
 
-[^89b-1]: Integrà tras la cifra I da la LF dals 25 da sett. 2015, en vigur dapi il 1. d’oct. 2016 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
-[^89b-2]: Oz: art. 58.
-[^89b-3]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^89b-4]: Oz: art. 58.
+[^89b-1]: Integrà tras la cifra I da la LF dals 25 da sett. 2015 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)). Versiun tenor la cifra 2 da l’agiunta 1 dal COF dals 18 da dec. 2020 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da las basas giuridicas davart l’instituziun, il manaschi e l’utilisaziun dal sistem d’infurmaziun da Schengen (SIS), en vigur dapi ils 22 da nov. 2022 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2023 16](https://fedlex.data.admin.ch/eli/oc/2023/16); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^89b-2]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
 
 #### Art. 90
 
@@ -2249,9 +2270,15 @@ Las datas che derivan da la banca da datas Eurodac na dastgan vegnir transmessas
 
 #### Art. 102d
 
-[^102d-1]
+**Surveglianza da l’elavuraziun da datas en il rom da la collavuraziun da Dublin**[^102d-1]
 
-[^102d-1]: Abolì tras la cifra 2 da la LF dals 19 da mars 2010 davart la realisaziun dal conclus da basa 2008/977/JI davart la protecziun da datas persunalas en il rom da la collavuraziun poliziala e giudiziala en chaussas penalas, cun effect dapi il 1. da dec. 2010 ([AS 2010 3387](https://fedlex.data.admin.ch/eli/oc/2010/464)3418; [BBl 2009 6749](https://fedlex.data.admin.ch/eli/fga/2009/1207)).
+<sup>1</sup> Las autoritads chantunalas per la protecziun da datas e l’Incumbensà federal per la protecziun da datas e per la transparenza (IFPDT) collavuran en il rom da lur cumpetenzas respectivas.
+
+<sup>2</sup> Il IFPDT surveglia l’elavuraziun da datas persunalas en il rom da la collavuraziun da Dublin. El coordinescha l’activitad da surveglianza cun las autoritads chantunalas per la protecziun da datas.
+
+<sup>3</sup> Per ademplir sias incumbensas collavura el cun l’Incumbensà europeic per la protecziun da datas; per tal è el l’autoritad naziunala da surveglianza.
+
+[^102d-1]: Versiun tenor la cifra 2 da l’agiunta 1 dal COF dals 18 da dec. 2020 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da las basas giuridicas davart l’instituziun, il manaschi e l’utilisaziun dal sistem d’infurmaziun da Schengen (SIS), en vigur dapi ils 22 da nov. 2022 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2023 16](https://fedlex.data.admin.ch/eli/oc/2023/16); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
 
 #### Art. 102e
 
