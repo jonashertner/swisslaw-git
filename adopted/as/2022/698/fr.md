@@ -1,0 +1,2643 @@
+---
+status: "beschlossen, noch nicht in Kraft"
+reference: AS 2022 698
+title: "Ordonnance du 19 octobre 2022 sur le casier judiciaire informatique VOSTRA (Ordonnance sur le casier judiciaire, OCJ)"
+language: fr
+adopted: 2022-10-19
+published: 2022-11-23
+in_force: ["2023-01-23"]
+url: "https://www.fedlex.admin.ch/eli/oc/2022/698/fr"
+---
+
+> Reproduction non officielle du Recueil officiel (RO). L’acte est publié mais n’est pas encore en vigueur ; seule la publication au RO fait foi (art. 15 LPubl, RS 170.512).
+
+# Ordonnance sur le casier judiciaire informatique VOSTRA
+
+(Ordonnance sur le casier judiciaire, OCJ)
+
+du 19 octobre 2022
+
+Le Conseil fédéral suisse,
+
+vu la loi du 17 juin 2016 sur le casier judiciaire (LCJ)[^ingress-1],
+
+arrête:
+
+[^ingress-1]: [RS 330](https://fedlex.data.admin.ch/eli/cc/2022/600)
+
+## Chapitre 1 Objet et définitions
+
+#### Art. 1
+
+**Objet**
+
+La présente ordonnance contient les dispositions d’exécution de la LCJ.
+
+#### Art. 2
+
+**Définitions**
+
+On entend par:
+
+- a.
+
+  *autorité qui gère VOSTRA*: l’une des autorités responsables de VOSTRA suivantes:
+
+  - 1\. le service de l’Office fédéral de la justice chargé de VOSTRA visé à l’art. 3 LCJ (Service du casier judiciaire),
+  - 2\. les services de coordination cantonaux visés à l’art. 4 LCJ (SERCO),
+  - 3\. le service de coordination de la justice militaire visé à l’art. 5 LCJ (SERCO militaire);
+
+- b. *autorité raccordée:* toute autorité qui dispose d’un droit opérationnel de consultation ou de saisie en ligne;
+- c. *droit d’accès en ligne:* le droit de consulter des données (droit de consultation en ligne) ou de saisir, de modifier et d’éliminer des données (droit de saisie en ligne) via l’application Web de VOSTRA;
+- d. *données d’identification*: les données citées à l’art. 17, al. 1, LCJ, visant à identifier une personne déterminée.
+
+## Chapitre 2 Obligations de transmettre des données
+
+#### Art. 3
+
+**Données relevant de l’entraide judiciaire internationale**
+
+(art. 7 LCJ)
+
+Le service de l’Office fédéral de la justice chargé de l’entraide judiciaire internationale transmet au Service du casier judiciaire, en vue de leur saisie dans VOSTRA:
+
+- a. toutes les décisions ultérieures rendues à l’encontre de Suisses déclarant un jugement étranger exécutable en Suisse (exequatur);
+- b.
+
+  en cas d’extradition ou de transfèrement en vue d’une exécution de sanction à l’étranger:
+
+  - 1\. la date à laquelle la personne concernée a quitté la Suisse,
+  - 2\. la raison du départ (extradition ou transfèrement).
+
+#### Art. 4
+
+**Décisions de révocation**
+
+L’autorité qui saisit un jugement dans VOSTRA a les obligations suivantes:
+
+- a. si elle constate que le juge a révoqué un sursis sans fixer de peine d’ensemble au sens de l’art. 46, al. 1, du code pénal (CP)[^4-1], de l’art. 31, al. 2, du droit pénal des mineurs du 20 juin 2003 (DPMin)[^4-2] ou de l’art. 40, al. 1, du code pénal militaire du 13 juin 1927 (CPM)[^4-3], elle transmet la décision de révocation à l’autorité compétente pour l’exécution de la peine qui était assortie du sursis;
+- b. si elle constate que le juge a révoqué la libération conditionnelle de l’exécution d’une peine ou d’une mesure sans fixer de peine d’ensemble au sens de l’art. 62*a*, al. 2, ou 89, al. 6, CP, ou de l’art. 31, al. 2, DPMin, elle transmet la décision de révocation à l’autorité compétente pour l’exécution du solde de la peine.
+
+[^4-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^4-2]: [RS 311.1](https://fedlex.data.admin.ch/eli/cc/2006/551)
+[^4-3]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+
+## Chapitre 3 Droits d’accès en ligne
+
+#### Art. 5
+
+**Droit de saisie**
+
+<sup>1</sup> Le règlement sur le traitement des données définit le droit de saisie de chaque type d’autorité et son étendue.
+
+<sup>2</sup> Pour chaque type d’autorité, le droit de saisir des données pénales est limité au minimum nécessaire.
+
+<sup>3</sup> Les autorités qui n’ont pas le droit de saisir des données pénales n’ont pas non plus le droit de saisir des données d’identification, à l’exception des autorités qui gèrent VOSTRA, lesquelles peuvent saisir des données d’identification en leur propre nom.
+
+#### Art. 6
+
+**Droit de modifier et d’éliminer des données des autorités qui gèrent VOSTRA**
+
+(art. 11, al. 2, let. b, LCJ)
+
+<sup>1</sup> Les autorités qui gèrent VOSTRA ont le droit de modifier et d’éliminer toutes les données dans leur domaine de compétence respectif.
+
+<sup>2</sup> Elles peuvent, dans leur domaine de compétence respectif, se connecter au nom de l’autorité pour laquelle elles saisissent les données afin de modifier ou d’éliminer ces dernières. Le traitement des données d’identification relevant exclusivement du Service du casier judiciaire au sens de l’annexe 9 est réservé.
+
+#### Art. 7
+
+**Droit de modifier et d’éliminer les données d’identification**
+
+(art. 11, al. 3, LCJ)
+
+Le droit de modifier et d’éliminer les données d’identification est réglé à l’annexe 9.
+
+#### Art. 8
+
+**Octroi et retrait des droits d’accès en ligne**
+
+(art. 3, al. 2, let. b, LCJ)
+
+<sup>1</sup>
+
+Le Service du casier judiciaire octroie à l’utilisateur un droit de consultation en ligne lorsque les conditions suivantes sont réunies:
+
+- a. le droit de consultation en ligne de l’autorité concernée repose sur une base légale au sens formel;
+- b. l’utilisation prévue des données du casier judiciaire correspond aux buts de l’accès définis par la loi;
+- c. les données nécessaires à la gestion des utilisateurs et des autorités sont complètes et exactes;
+- d. le droit de consultation en ligne de l’utilisateur ne lui a pas été retiré;
+- e.
+
+  l’octroi du droit de consultation en ligne à l’utilisateur répond au principe de proportionnalité, notamment du fait:
+
+  - 1\. qu’il a besoin de pouvoir consulter souvent VOSTRA,
+  - 2\. que seuls quelques utilisateurs peuvent déjà consulter VOSTRA en ligne pour l’autorité concernée et que l’octroi du droit de consultation permettra de couvrir les besoins du service et notamment de compenser raisonnablement les absences,
+  - 3\. que l’autorité concernée a besoin de pouvoir agir rapidement en dehors des heures de bureau, ou
+  - 4\. que l’organisation de l’autorité concernée ne permet pas de centraliser les droits de consultation auprès de quelques utilisateurs;
+
+- f. l’utilisateur a fourni par écrit les indications nécessaires pour juger du respect des conditions énumérées aux let. a à c et e.
+
+<sup>2</sup>
+
+Lorsque les conditions supplémentaires suivantes sont réunies, le Service du casier judiciaire octroie à l’utilisateur un droit de saisie en ligne:
+
+- a. le droit de saisie en ligne de l’autorité concernée repose sur une base légale au sens formel;
+- b. une décision de principe de saisie décentralisée des données a été prise en vertu de l’art. 6, al. 2, LCJ; cette condition ne s’applique pas aux collaborateurs d’une autorité qui gère VOSTRA;
+- c. l’utilisateur est formé de manière adéquate à la saisie des données et a suivi avec succès les cours ordonnés par le Service du casier judiciaire;
+- d. son droit de saisie en ligne ne lui a pas été retiré;
+- e. il a fourni par écrit les indications nécessaires pour juger du respect des conditions énumérées aux al. 1, let. a à c et e, et 2, let. a et b.
+
+<sup>3</sup> Si les conditions fixées à l’al. 2 ne sont plus remplies, le Service du casier judiciaire rétrograde le droit de saisie en ligne de l’utilisateur en droit de consultation en ligne. Tel peut aussi être le cas si l’utilisateur a fait, de manière répétée, des erreurs graves en saisissant des données.
+
+<sup>4</sup> Si les conditions fixées à l’al. 1 ne sont plus remplies, le Service du casier judiciaire retire à l’utilisateur son droit de consultation en ligne. Tel est aussi le cas si l’utilisateur a fait un usage illicite de son droit de consultation, intentionnellement et de manière répétée. Le retrait du droit de consultation en ligne entraîne le retrait du droit de saisie en ligne.
+
+<sup>5</sup> La rétrogradation et le retrait des droits sont communiqués au supérieur hiérarchique de l’utilisateur concerné.
+
+<sup>6</sup> Le Service du casier judiciaire peut inscrire tout utilisateur fautif et les mesures prises à son encontre dans une banque de données à part dans la mesure où cela lui est nécessaire pour octroyer et retirer les droits d’accès en ligne.
+
+#### Art. 9
+
+**Contrôle des finalités de la consultation de données**
+
+(art. 3, al. 2, let. g, et 9 LCJ)
+
+<sup>1</sup> Le Service du casier judiciaire contrôle par sondage les finalités des consultations en ligne de données du casier judiciaire et des demandes d’extraits du casier judiciaire.
+
+<sup>2</sup> Il annonce et mène les contrôles en accord avec l’organe suprême de l’autorité qui doit être contrôlée.
+
+<sup>3</sup> L’organe suprême de l’autorité concernée vérifie à quels documents le Service du casier judiciaire doit avoir accès dans un cas concret pour retracer la finalité d’une consultation de données.
+
+<sup>4</sup> Si un intérêt public prépondérant s’oppose à ce que le contrôle annoncé soit mené par le Service du casier judiciaire, celui-ci transmet à l’organe suprême de l’autorité concernée les données journalisées sur lesquelles porte le contrôle. L’organe suprême procède alors lui-même au contrôle; il confirme au Service du casier judiciaire que les données sont traitées dans les règles ou lui signale les utilisateurs fautifs.
+
+<sup>5</sup> Le Service du casier judiciaire mène au maximum deux contrôles par an et par autorité raccordée. Il peut augmenter la fréquence des contrôles si des abus ont été constatés.
+
+#### Art. 10
+
+**Utilisation des interfaces standard**
+
+(art. 3, al. 2, let. e, 6 et 43 à 48 LCJ)
+
+<sup>1</sup> Toute autorité ayant un droit de saisie en ligne dans VOSTRA peut utiliser l’interface standard de VOSTRA servant à y importer les données depuis son application (application externe). La demande de relier l’application d’une autorité à cette interface peut être considérée comme une décision de principe de saisie décentralisée des données du casier judiciaire au sens de l’art. 6, al. 2, LCJ.
+
+<sup>2</sup>
+
+Toute autorité ayant un droit de consultation en ligne de VOSTRA peut utiliser les interfaces standard de VOSTRA suivantes:
+
+- a. l’interface servant à exporter les données figurant sur les extraits du casier judiciaire vers les applications externes;
+- b. l’interface servant à lancer des recherches dans VOSTRA depuis une application externe (système de concordance/non-concordance).
+
+<sup>3</sup> Toute autorité suisse peut utiliser le service Web des données de base de VOSTRA pour se procurer des données de base de VOSTRA sans caractère personnel. Le raccordement à ce service Web est obligatoire pour importer des données dans VOSTRA via l’interface visée à l’al. 1 ou pour en exporter des données structurées via l’interface visée à l’al. 2, let. a.
+
+<sup>4</sup>
+
+L’application externe est reliée à une interface de VOSTRA si les conditions suivantes sont réunies:
+
+- a. l’application doit satisfaire aux conditions techniques des spécifications de l’interface et aux prescriptions applicables aux services Web du Département fédéral de justice et police (DFJP);
+- b. le bon fonctionnement de l’interface doit avoir été testé; le Service du casier judiciaire détermine les tests à mener et le résultat à atteindre;
+- c. le Service du casier judiciaire doit avoir activé l’interface pour l’autorité concernée;
+- d. l’autorité concernée doit supporter les coûts que lui occasionne la connexion à l’interface.
+
+<sup>5</sup> L’autorité qui importe des données pénales dans VOSTRA via l’interface standard doit vérifier que ces données sont complètes et exactes après l’importation.
+
+## Chapitre 4 Sécurité des données, exigences techniques, journalisation et communication de données anonymisées
+
+#### Art. 11
+
+**Sécurité des données**
+
+(art. 14 LCJ)
+
+<sup>1</sup>
+
+La sécurité des données est régie notamment par:
+
+- a. l’ordonnance du 14 juin 1993 relative à la loi fédérale sur la protection des données (OLPD)[^11-1];
+- b. l’ordonnance du 27 mai 2020 sur les cyberrisques[^11-2].
+
+<sup>2</sup> Les autorités raccordées prennent dans leur domaine des mesures organisationnelles et techniques appropriées pour garantir la sécurité des données. Les autorités cantonales raccordées veillent notamment à la mise en œuvre, dans leur domaine de compétence, de prescriptions minimales en matière de sécurité informatique (protection informatique de base) équivalentes à celles de l’administration fédérale.
+
+<sup>3</sup> Le Service du casier judiciaire veille au respect des prescriptions en matière de sécurité des données.
+
+[^11-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/1993/1962_1962_1962)
+[^11-2]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+
+#### Art. 12
+
+**Exigences techniques**
+
+(art. 14 LCJ)
+
+<sup>1</sup> Les moyens informatiques utilisés par les cantons pour le traitement de données dans VOSTRA doivent satisfaire aux exigences techniques applicables à l’informatique au niveau fédéral.
+
+<sup>2</sup> Le DFJP peut édicter des instructions pour régler les détails.
+
+#### Art. 13
+
+**Journalisation**
+
+<sup>1</sup> Tout traitement de données dans VOSTRA est journalisé conformément à l’art. 10 OLPD[^13-1].
+
+<sup>2</sup> Les consultations sont journalisées conformément à l’art. 25 LCJ, en sus de la journalisation prévue à l’art. 10 OLPD.
+
+[^13-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/1993/1962_1962_1962)
+
+#### Art. 14
+
+**Communication de données anonymisées**
+
+(art. 15 LCJ)
+
+<sup>1</sup> Le traitement de données personnelles anonymisées de VOSTRA à des fins de recherche, de planification et de statistique est régi par l’art. 22 de la loi fédérale du 19 juin 1992 sur la protection des données[^14-1].
+
+<sup>2</sup> Le Service du casier judiciaire statue sur les demandes correspondantes.
+
+<sup>3</sup> Il fixe par contrat les conditions que doit remplir le destinataire en matière de traitement des données anonymisées lorsque cela est nécessaire pour garantir que les données sont utilisées de manière sûre et à des fins ne se rapportant pas à des personnes.
+
+[^14-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/1993/1945_1945_1945)
+
+## Chapitre 5 Contenu de VOSTRA
+
+### Section 1 Données saisies dans le système de gestion des données pénales
+
+#### Art. 15
+
+**Données d’identification**
+
+(art. 17, al. 2, LCJ)
+
+Les catégories et champs de données d’identification sont énumérés à l’annexe 1.
+
+#### Art. 16
+
+**Conditions applicables à la saisie des infractions en cas de verdict de culpabilité sans peine**
+
+<sup>e</sup> (art. 18, al. 1, let. c, ch. 1 et 3, 3 tiret, et al. 2, LCJ)
+
+<sup>1</sup> Si, en application de l’art. 52 CP[^16-1] ou d’une disposition analogue d’une loi spéciale, l’auteur d’un crime ou d’un délit est reconnu coupable, mais qu’aucune peine n’est prononcée parce que sa culpabilité et les conséquences de son acte sont peu importantes, ni l’infraction ni ses conséquences juridiques ne sont enregistrées dans VOSTRA.
+
+<sup>2</sup> Si l’auteur d’une contravention est reconnu coupable, mais qu’aucune peine n’est prononcée parce que sa culpabilité et les conséquences de son acte sont peu importantes, ni la contravention ni ses conséquences juridiques ne sont enregistrées dans VOSTRA, même si le jugement porte aussi sur d’autres infractions donnant lieu à la saisie dans VOSTRA.
+
+[^16-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+
+#### Art. 17
+
+**Conditions applicables à la saisie des jugements portant sur des infractions commises partie avant et partie après l’âge de 18 ans**
+
+(art. 18 et 19 LCJ)
+
+<sup>1</sup> Un jugement portant sur des infractions commises partie avant et partie après les 18 ans de l’auteur est saisi dans son intégralité dès lors qu’il remplit les conditions applicables à la saisie d’infractions commises par un adulte (art. 18, al. 1, et 19, let. d, ch. 1, LCJ) ou celles applicables à la saisie d’infractions commises par un mineur (art. 18, al. 2, et 19, let. d, ch. 2, LCJ).
+
+<sup>2</sup> Si des sanctions donnant lieu à la saisie sont prononcées dans un jugement rendu à l’étranger, l’autorité qui le saisit présume que les sanctions donnant lieu à la saisie se rapportent aux infractions commises en tant que mineur si elles relèvent du droit des mineurs et aux infractions commises en tant qu’adulte si elles relèvent du droit des adultes*.* Cette présomption peut être infirmée par la présentation d’une copie du jugement.
+
+#### Art. 18
+
+**Conditions applicables à la saisie des jugements portant sur une peine complémentaire, une peine partiellement complémentaire ou une peine d’ensemble**
+
+(art. 18, 19 et 20, al. 4, LCJ)
+
+La saisie d’un jugement dans lequel est prononcée une peine complémentaire, une peine partiellement complémentaire ou une peine d’ensemble est régie par les art. 18 et 19 LCJ quelles que soient les conditions de saisie des prononcés auxquels ce jugement se rapporte.
+
+#### Art. 19
+
+**Saisie des infractions sanctionnées par un jugement étranger**
+
+(art. 20, al. 1, let. e, et 5, LCJ)
+
+<sup>1</sup>
+
+L’infraction analogue en droit suisse à celle sanctionnée par le jugement étranger est saisie dans VOSTRA si:
+
+- a. elle appartient à la liste de l’art. 30, al. 2, let. c, LCJ;
+- b. l’infraction a été commise durant le délai d’épreuve visé à l’art. 40, al. 3, let. c, LCJ;
+- c. la personne concernée a expressément requis la transposition en droit suisse dans sa demande d’extrait destiné aux particuliers ou d’extrait spécial;
+- d. une transposition fidèle est possible sans travail excessif, ou
+- e. le Service du casier judiciaire a reçu uniquement une copie de jugement, qui ne doit pas être enregistrée dans VOSTRA, sans formulaire de communication étranger.
+
+<sup>2</sup>
+
+Si aucune des conditions de l’al. 1 n’est remplie, la mention de l’infraction analogue en droit suisse est remplacée dans VOSTRA par:
+
+- a. la mention «infraction à une loi étrangère», avec un renvoi à la copie du formulaire de communication reçu de l’étranger qui contient la qualification concrète de l’infraction relevant du droit étranger, et
+- b. une catégorie de référence au sens des al. 3 à 5.
+
+<sup>3</sup> La catégorie de référence désigne la classe d’infractions à laquelle appartient l’acte sanctionné dans le jugement étranger, à titre d’aide à l’interprétation des formulaires de communication, souvent remplis dans une langue étrangère.
+
+<sup>4</sup> Le Service du casier judiciaire définit les catégories de référence en se basant sur les titres du CP[^19-1] et du CPM[^19-2] et sur les autres domaines du droit.
+
+<sup>5</sup> Aucune catégorie de référence n’est enregistrée pour les jugements étrangers saisis dans VOSTRA avant l’entrée en vigueur de la LCJ.
+
+[^19-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^19-2]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+
+#### Art. 20
+
+**Saisie des sanctions**
+
+(art. 20, al. 1, let. f, LCJ)
+
+<sup>1</sup> Si un jugement doit être saisi, toutes les sanctions prévues par le CP[^20-1], le CPM[^20-2] ou le DPMin[^20-3] et toutes les peines accessoires prévues par d’autres lois fédérales qui y sont prononcées doivent être enregistrées, sous réserve de l’al. 2.
+
+<sup>2</sup>
+
+Ne doivent pas être enregistrées:
+
+- a. la publication du jugement (art. 68 CP et art. 50*f* CPM);
+- b. les confiscations au sens des art. 69 à 72 CP ordonnées dans un jugement suisse dont la valeur brute effective ou estimée est inférieure à 100 000 francs, les confiscations au sens des art. 51 à 52 CPM et les confiscations prononcées dans un jugement étranger;
+- c. les allocations au lésé (art. 73 CP et art. 53 CPM);
+- d. les expulsions prononcées dans un jugement étranger;
+- e. l’astreinte à un travail d’intérêt public au sens de l’art. 81, al. 3 ou 4, CPM;
+- f. les peines disciplinaires prévues par le CPM;
+- g. les peines d’ordre.
+
+<sup>3</sup> Dans les cas visés à l’al. 2, let. e à g, l’infraction correspondante ne doit pas non plus être enregistrée.
+
+<sup>4</sup> Si un verdict de culpabilité sans peine ou l’exemption de toute peine complémentaire est prononcé dans un jugement qui doit être saisi, cette donnée doit aussi être enregistrée, à l’exception des cas visés à l’art. 16.
+
+[^20-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^20-2]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^20-3]: [RS 311.1](https://fedlex.data.admin.ch/eli/cc/2006/551)
+
+#### Art. 21
+
+**Structure des données relatives aux jugements**
+
+(art. 20, al. 5, LCJ)
+
+Les catégories et champs de données relatifs aux jugements qui doivent être saisis sont énumérés à l’annexe 2.
+
+#### Art. 22
+
+**Saisie des décisions ultérieures et structure des données**
+
+(art. 21, al. 1, let. f, et 2, LCJ)
+
+<sup>1</sup>
+
+Les décisions ultérieures suivantes doivent être saisies dans VOSTRA:
+
+- a. la libération conditionnelle de l’exécution d’une peine privative de liberté ou d’une privation de liberté, y compris les peines de substitution (art. 86 CP[^22-1], art. 28, al. 1, DPMin[^22-2]);
+- b.
+
+  les décisions relatives à la mise à l’épreuve dont est assortie la libération conditionnelle de l’exécution d’une peine au sens de la let. a, soit:
+
+  - 1\. la révocation de la libération conditionnelle (art. 89, al. 1, CP, art. 89, al. 2, 4<sup>e</sup> phrase, CP en relation avec l’art. 95, al. 5, CP, art. 89, al. 3, CP en relation avec l’art. 95, al. 5, CP, art. 95, al. 5, CP, art. 31, al. 1, DPMin),
+  - 2\. la non-révocation de la libération conditionnelle (art. 89, al. 2, 1<sup>re</sup> phrase, CP, art. 31, al. 3, DPMin),
+  - 3\. la révocation partielle de la libération conditionnelle (art. 31, al. 1, DPMin),
+  - 4\. la fixation ultérieure d’une peine d’ensemble (art. 89, al. 6, CP en relation avec l’art. 49 CP, art. 31, al. 2, DPMin); elle est enregistrée dans VOSTRA sous forme de modification du jugement prononçant la sanction ainsi redéfinie,
+  - 5\. l’avertissement (art. 89, al. 2, 2<sup>e</sup> phrase, CP, art. 31, al. 3, DPMin),
+  - 6\. la prolongation du délai d’épreuve (art. 87, al. 3, CP, art. 89, al. 2, 2<sup>e</sup> phrase, CP, art. 89, al. 3, CP en relation avec l’art. 95, al. 4, let. a, CP, art. 95, al. 4, let. a, CP, art. 31, al. 3, DPMin),
+  - 7\. la prescription d’une assistance de probation (art. 87, al. 2, CP, art. 89, al. 2, 4<sup>e</sup> phrase, CP en relation avec l’art. 95, al. 4, let. b, CP, art. 89, al. 3, CP en relation avec l’art. 95, al. 4, let. b, CP, art. 95, al. 4, let. b, CP),
+  - 8\. la levée de l’assistance de probation (art. 89, al. 2, 4<sup>e</sup> phrase, CP en relation avec l’art. 95, al. 4, let. b, CP, art. 89, al. 3, CP en relation avec l’art. 95, al. 4, let. b, CP, art. 95, al. 4, let. b, CP),
+  - 9\. la désignation d’une personne d’accompagnement (art. 29, al. 3, DPMin),
+  - 10\. la levée de l’accompagnement,
+  - 11\. la prescription de règles de conduite (art. 89, al. 2, 4<sup>e</sup> phrase, CP en relation avec l’art. 95, al. 4, let. c, CP, art. 87, al. 2, CP, art. 89, al. 3, CP en relation avec l’art. 95, al. 4, let. c, CP, art. 95, al. 4, let. c, CP, art. 29, al. 2, DPMin),
+  - 12\. la levée des règles de conduite (art. 89, al. 2, 4<sup>e</sup> phrase, CP en relation avec l’art. 95, al. 4, let. c, CP, art. 89, al. 3, CP en relation avec l’art. 95, al. 4, let. c, CP, art. 95, al. 4, let. c, CP),
+  - 13\. la modification des règles de conduite (art. 89, al. 2, 4<sup>e</sup> phrase, CP en relation avec l’art. 95, al. 4, let. c, CP, art. 89, al. 3, CP en relation avec l’art. 95, al. 4, let. c, CP, art. 95, al. 4, let. c, CP);
+
+- c. la libération conditionnelle de l’exécution d’une mesure thérapeutique institutionnelle (art. 62, al. 1, CP) ou d’un internement (art. 64*a*, al. 1, CP);
+- d.
+
+  les décisions relatives à la mise à l’épreuve dont est assortie la libération conditionnelle de l’exécution d’une mesure au sens de la let. c, soit:
+
+  - 1\. la révocation de la libération conditionnelle (art. 62*a*, al. 1, let. a, CP, art. 62*a,* al. 3, CP, art. 62*a,* al. 6, CP en relation avec l’art. 95, al. 5, CP, art. 64*a,* al. 3, CP, art. 64*a,* al. 4, CP en relation avec l’art. 95, al. 5, CP, art. 64*c,* al. 4, 2<sup>e</sup> phrase, CP en relation avec l’art. 95, al. 5, CP, art. 95, al. 5, CP),
+  - 2\. la non-révocation de la libération conditionnelle (art. 62*a,* al. 5, CP),
+  - 3\. la fixation ultérieure d’une peine d’ensemble (art. 62*a,* al. 2, CP); elle est enregistrée dans VOSTRA sous forme de modification du jugement prononçant la sanction ainsi redéfinie,
+  - 4\. l’avertissement (art. 62*a,* al. 5, let. a, CP),
+  - 5\. la prolongation du délai d’épreuve (art. 62*a,* al. 5, let. d, CP, art. 62*a,* al. 6, CP en relation avec l’art. 95, al. 4, let. a, CP, art. 64*a,* al. 2, CP, art. 64*a,* al. 4, CP en relation avec l’art. 95, al. 4, let. a, CP, art. 64*c,* al. 4, 2<sup>e</sup> phrase, CP en relation avec l’art. 95, al. 4, let. a, CP, art. 95, al. 4, let. a, CP),
+  - 6\. la prescription d’une assistance de probation (art. 62, al. 3, CP, art. 62*a,* al. 5, let. b, CP, art. 62*a,* al. 6, CP en relation avec l’art. 95, al. 4, let. b, CP, art. 64*a,* al. 1, art. 64*a,* al. 4, CP en relation avec l’art. 95, al. 4, let. b, CP, art. 64*c,* al. 4, 2<sup>e</sup> phrase, CP en relation avec l’art. 95, al. 4, let. b, CP, art. 95, al. 4, let. b, CP),
+  - 7\. la levée de l’assistance de probation (art. 62*a,* al. 6, CP en relation avec l’art. 95, al. 4, let. b, CP, art. 64*a,* al. 4, CP en relation avec l’art. 95, al. 4, let. b, CP, art. 64*c,* al. 4, 2<sup>e</sup> phrase, CP en relation avec l’art. 95, al. 4, let. b, CP, art. 95, al. 4, let. b, CP),
+  - 8\. la prescription de règles de conduite (art. 62, al. 3, CP, art. 62*a,* al. 5, let. c, CP, art. 62*a,* al. 6, CP en relation avec l’art. 95, al. 4, let. c, CP, art. 64*a,* al. 1, CP, art. 64*a,* al. 4, CP en relation avec l’art. 95, al. 4, let. c, CP, art. 64*c,* al. 4, 2<sup>e</sup> phrase, CP en relation avec l’art. 95, al. 4, let. c, CP, art. 95, al. 4, let. c, CP),
+  - 9\. la levée des règles de conduite (art. 62*a,* al. 6, CP en relation avec l’art. 95, al. 4, let. c, CP, art. 64*a,* al. 4, CP en relation avec l’art. 95, al. 4, let. c, CP, art. 64*c,* al. 4, 2<sup>e</sup> phrase, CP en relation avec l’art. 95, al. 4, let. c, CP, art. 95, al. 4, let. c, CP),
+  - 10\. la modification des règles de conduite (art. 62*a,* al. 6, CP en relation avec l’art. 95, al. 4, let. c, CP, art. 64*a,* al. 4, CP en relation avec l’art. 95, al. 4, let. c, CP, art. 64*c,* al. 4, 2<sup>e</sup> phrase, CP en relation avec l’art. 95, al. 4, let. c, CP, art. 95, al. 4, let. c, CP),
+  - 11\. la prescription d’un traitement ambulatoire (art. 62, al. 3, CP, art. 62*a,* al. 5, let. b, CP),
+  - 12\. la modification de la mesure (art. 62*a,* al. 1, let. b, CP),
+  - 13\. la levée de la mesure avec ordre d’exécution de la peine privative de liberté (art. 62*a,* al. 1, let. c, CP);
+
+- e.
+
+  la libération définitive:
+
+  - 1\. d’une peine privative de liberté entièrement exécutée (art. 88 CP), si une interdiction d’exercer une activité, une interdiction de contact ou une interdiction géographique au sens du CP ou du CPM[^22-3] est prononcée dans le jugement ou dans une décision ultérieure se rapportant à ce jugement et que le sursis ou le sursis partiel a été révoqué au cours de l’exécution du jugement,
+  - 2\. d’une mesure thérapeutique institutionnelle (art. 62*b,* al. 1, CP, art. 62*b,* al. 2, CP, art. 47, al. 1, CPM),
+  - 3\. d’un internement (art. 64*a,* al. 5, CP);
+
+- f.
+
+  les décisions relatives à une peine avec sursis ou sursis partiel rendues par suite de l’échec de la mise à l’épreuve ou pour d’autres motifs, soit:
+
+  - 1\. la révocation du sursis (art. 46, al. 1, CP, art. 46, al. 4, CP en relation avec l’art. 95, al. 5, CP, art. 95, al. 5, CP, art. 40, al. 1, CPM, art. 54 CPM, art. 35, al. 2, DPMin en relation avec l’art. 31, al. 1, DPMin),
+  - 2\. la non-révocation du sursis (art. 46, al. 2, CP, art. 55, al. 1, CP, art. 40, al. 2, CPM, art. 46*a* CPM, art. 35, al. 2, DPMin en relation avec l’art. 31, al. 3, DPMin),
+  - 3\. la révocation partielle du sursis (art. 35, al. 2, DPMin en relation avec l’art. 31, al. 1, DPMin),
+  - 4\. la fixation a posteriori d’une peine d’ensemble (art. 46, al. 1, 2<sup>e</sup> phrase, CP en relation avec l’art. 49 CP, art. 40, al. 1, 2<sup>e</sup> phrase, CPM en relation avec l’art. 43 CPM, art. 35, al. 2, DPMin en relation avec l’art. 31, al. 2, DPMin); elle est enregistrée dans VOSTRA sous forme de modification du jugement prononçant la sanction ainsi redéfinie,
+  - 5\. l’avertissement (art. 46, al. 2, CP, art. 40, al. 2, CPM, art. 35, al. 2, DPMin en relation avec l’art. 31, al. 3, DPMin),
+  - 6\. la prolongation du délai d’épreuve (art. 46, al. 2, CP, art. 46, al. 4, CP en relation avec l’art. 95, al. 4, let. a, CP, art. 95, al. 4, let. a, CP, art. 40, al. 2, CPM, art. 54, CPM, art. 35, al. 2, DPMin en relation avec l’art. 31, al. 3, DPMin),
+  - 7\. la prescription d’une assistance de probation (art. 46, al. 2, 3<sup>e</sup> phrase, CP, art. 46, al. 4, CP en relation avec l’art. 95, al. 4, let. b, CP, art. 95, al. 4, let. b, CP, art. 40, al. 2, 3<sup>e</sup> phrase, CPM, art. 54 CPM),
+  - 8\. la levée de l’assistance de probation (art. 46, al. 4, CP en relation avec l’art. 95, al. 4, let. b, CP, art. 95, al. 4, let. b, CP, art. 54 CPM),
+  - 9\. la prescription de règles de conduite (art. 46, al. 2, 3<sup>e</sup> phrase, CP, art. 46, al. 4, CP en relation avec l’art. 95, al. 4, let. c, CP, art. 95, al. 4, let. c, CP, art. 40, al. 2, 3<sup>e</sup> phrase, CPM, art. 54 CPM),
+  - 10\. la levée des règles de conduite (art. 46, al. 4, CP en relation avec l’art. 95, al. 4, let. c, CP, art. 95, al. 4, let. c, CP, art. 54 CPM),
+  - 11\. la modification des règles de conduite (art. 46, al. 4, CP en relation avec l’art. 95, al. 4, let. c, CP, art. 95, al. 4, let. c, CP, art. 54 CPM);
+
+- g. la levée d’une mesure thérapeutique, d’un internement ou d’une mesure de protection ordonnée en application du DPMin et qui doit être saisie (art. 56, al. 6, CP, art. 61, al. 4, 3<sup>e</sup> phrase, CP, art. 62*a,* al. 1, let. b, CP, art. 62*a,* al. 1, let. c, CP, art. 62*c,* al. 1, let. a à c, CP, art. 63*a,* al. 2, let. a à c, CP, art. 63*a,* al. 3, CP, art. 64, al. 3, CP, art. 64*c,* al. 6, CP, art. 47, al. 1, CPM, art. 19, al. 1, 2<sup>e</sup> phrase, DPMin, art. 19, al. 2, DPMin);
+- h. la modification d’une mesure thérapeutique, d’un internement ou d’une mesure de protection ordonnée en application du DPMin et qui doit être saisie (art. 62*a,* al. 1, let. b, CP, art. 62*c,* al. 3, CP, art. 62*c,* al. 4, CP, art. 62*c,* al. 6, CP, art. 63*b,* al. 5, CP, art. 64*c,* al. 3, CP, art. 65, al. 1, 1<sup>re</sup> phrase, CP, art. 47, al. 1, CPM, art. 18, al. 1, 1<sup>re</sup> phrase, DPMin);
+- i. la décision d’ordonner a posteriori une mesure thérapeutique ou un internement (art. 65, al. 1, 1<sup>re</sup> et 2<sup>e</sup> phrases, CP, art. 65, al. 2, CP, art. 47, al. 1, CPM);
+- j.
+
+  les décisions relatives à une mesure accessoire au traitement ambulatoire, soit:
+
+  - 1\. la prescription d’une assistance de probation (art. 63*a,* al. 4, CP en relation avec l’art. 95, al. 4, let. b, CP),
+  - 2\. la levée de l’assistance de probation (art. 63*a,* al. 4, CP en relation avec l’art. 95, al. 4, let. b, CP),
+  - 3\. la prescription de règles de conduite (art. 63*a,* al. 4, CP en relation avec l’art. 95, al. 4, let. c, CP),
+  - 4\. la levée des règles de conduite (art. 63*a,* al. 4, CP en relation avec l’art. 95, al. 4, let. c, CP),
+  - 5\. la modification des règles de conduite (art. 63*a,* al. 4, CP en relation avec l’art. 95, al. 4, let. c, CP);
+
+- k.
+
+  les décisions ultérieures autonomes concernant la relation entre une mesure institutionnelle et une peine entraînant une privation de liberté, soit:
+
+  - 1\. l’exécution du solde de la peine (art. 62*a,* al. 1, let. c, CP, art. 62*c,* al. 2, 1<sup>re</sup> phrase, CP, art. 63*b,* al. 2, CP, art. 63*b,* al. 3, CP, art. 32, al. 3, DPMin, art. 32, al. 4, 2<sup>e</sup> phrase, DPMin en relation avec l’art. 32, al. 3, DPMin),
+  - 2\. l’exemption de l’exécution du solde de la peine (art. 63*b,* al. 1, CP, art. 62*b,* al. 3, CP, art. 32, al. 2, DPMin, art. 32, al. 3, DPMin, art. 32, al. 4, 2<sup>e</sup> phrase, DPMin en relation avec l’art. 32, al. 2 et 3, DPMin),
+  - 3\. la suspension ultérieure de l’exécution du solde de la peine (art. 62*c,* al. 2, 2<sup>e</sup> phrase, CP, art. 63*b,* al. 4, 2<sup>e</sup> phrase, CP),
+  - 4\. la suspension de l’exécution du solde de la peine au profit de la mesure en cours (art. 65, al. 1, 3<sup>e</sup> phrase, CP, art. 32, al. 4, 1<sup>re</sup> phrase, DPMin);
+
+- l.
+
+  les décisions relatives à une interdiction d’exercer une activité, une interdiction de contact ou une interdiction géographique, soit:
+
+  - 1\. la levée de l’interdiction (art. 67*c,* al. 4 à 6, CP, art. 50*c,* al. 4 à 6, CPM, art. 19, al. 1, 2<sup>e</sup> phrase, DPMin, art. 19, al. 2, DPMin),
+  - 2\. la limitation du contenu de l’interdiction (art. 67*c,* al. 4 et 5, CP, art. 50*c,* al. 4 et 5, CPM, art. 18, al. 1, 1<sup>re</sup> phrase, DPMin),
+  - 3\. la limitation de la durée de l’interdiction (art. 67*c,* al. 4 et 5, CP, art. 50*c,* al. 4 et 5, CPM, art. 18, al. 1, 1<sup>re</sup> phrase, DPMin),
+  - 4\. l’extension du contenu de l’interdiction (art. 67*d,* al. 1, CP, art. 50*d,* al. 1, CPM, art. 18, al. 1, 1<sup>re</sup> phrase, DPMin),
+  - 5\. la prolongation de l’interdiction (art. 67, al. 2<sup>bis</sup>, CP et 67*b,* al. 5, CP, art. 50, al. 2<sup>bis</sup>, CPM et 50*b,* al. 5, CPM, art. 18, al. 1, 1<sup>re</sup> phrase, DPMin),
+  - 6\. une nouvelle interdiction (art. 67*d,* al. 1 et 2, CP, art. 50*d,* al. 1 et 2, CPM, art. 18, al. 1, 1<sup>re</sup> phrase, DPMin, art. 19, al. 4, DPMin),
+  - 7\. la révocation du sursis ou du sursis partiel ou bien de la libération conditionnelle (art. 67*c,* al. 8, CP en relation avec l’art. 95, al. 5, CP, art. 50*c,* al. 8, CPM en relation avec l’art. 95, al. 5, CP),
+  - 8\. la prolongation de la mise à l’épreuve dont est assorti un sursis ou un sursis partiel ou bien une libération conditionnelle (art. 67*c,* al. 8, CP en relation avec l’art. 95, al. 4, let. a, CP, art. 50*c,* al. 8, CPM en relation avec l’art. 95, al. 4, let. a, CP),
+  - 9\. la prescription d’une assistance de probation (art. 67*c*, al. 7 et 7<sup>bis</sup>, CP, art. 50*c*, al. 7 et 7<sup>bis</sup>, CPM),
+  - 10\. la levée de l’assistance de probation (art. 67*c,* al. 7, CP, art. 50*c,* al. 7, CPM, art. 67*c,* al. 8, CP en relation avec l’art. 95, al. 4, let. b, CP, art. 50*c,* al. 8, CPM en relation avec l’art. 95, al. 4, let. b, CP),
+  - 11\. la prescription de règles de conduite (art. 67*c,* al. 8, CP, en relation avec l’art. 95, al. 4, let. c, CP, art. 50*c,* al. 8, CPM en relation avec l’art. 95, al. 4, let. c, CP),
+  - 12\. la levée des règles de conduite (art. 67*c,* al. 8, CP en relation avec l’art. 95, al. 4, let. c, CP, art. 50*c,* al. 8, CPM en relation avec l’art. 95, al. 4, let. c, CP),
+  - 13\. la modification des règles de conduite (art. 67*c,* al. 8, CP en relation avec l’art. 95, al. 4, let. c, CP, art. 50*c,* al. 8, CPM en relation avec l’art. 95, al. 4, let. c, CP);
+
+- m. la grâce (art. 383 CP, art. 232*a* CPM) et l’amnistie (art. 384 CP, art. 232*e* CPM);
+- n. l’exequatur (art. 106 de la loi du 20 mars 1981 sur l’entraide pénale internationale[^22-4]);
+- o.
+
+  les décisions relatives à une expulsion, soit:
+
+  - 1\. le report de l’exécution de l’expulsion (art. 66*d* CP),
+  - 2\. la levée du report de l’exécution de l’expulsion (art. 66*d* CP);
+
+- p. l’infliction ultérieure d’une peine au sens de l’art. 100<sup>ter</sup>, ch. 4, CP dans la version du 18 mars 1971[^22-5].
+
+<sup>2</sup> Les catégories et champs de données relatifs aux décisions ultérieures qui doivent être saisies sont énumérés à l’annexe 3 avec les profils de consultation correspondants.
+
+<sup>3</sup> Les décisions ultérieures étrangères qui ont la même fonction que les décisions énumérées à l’al. 1 sont également saisies dans VOSTRA.
+
+<sup>4</sup> Si une date théorique de fin de l’exécution est fixée en vertu de l’art. 44, elle est enregistrée dans VOSTRA tant qu’aucune décision ultérieure proprement dite ne permet d’arrêter la date à laquelle l’exécution prendra effectivement fin.
+
+[^22-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^22-2]: [RS 311.1](https://fedlex.data.admin.ch/eli/cc/2006/551)
+[^22-3]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^22-4]: [RS 351.1](https://fedlex.data.admin.ch/eli/cc/1982/846_846_846)
+[^22-5]: [RO 1971 777](https://fedlex.data.admin.ch/eli/oc/1971/777_777_777)
+
+#### Art. 23
+
+**Enregistrement des copies électroniques des jugements et des décisions ultérieures**
+
+(art. 22, al. 1, LCJ)
+
+<sup>1</sup>
+
+Une copie électronique doit être enregistrée dans VOSTRA au sens de l’art. 22, al. 1, LCJ aux conditions suivantes:
+
+- a. la copie d’un jugement est enregistrée si la personne concernée avait 18 ans au moins au moment où elle a commis une des infractions;
+- b. la copie d’une décision ultérieure est enregistrée si la personne concernée avait 18 ans au moins au moment où la décision a été rendue.
+
+<sup>2</sup> S’il existe un prononcé motivé au moment où l’entrée en force est constatée, une copie en est enregistrée. À défaut, une copie du dispositif du prononcé est enregistrée dans VOSTRA. Si le prononcé est motivé ultérieurement et que la motivation concerne l’infraction ou la peine, la copie du dispositif du prononcé est remplacée par la copie de ce prononcé motivé.
+
+<sup>3</sup> Lorsque les prononcés entrent en force de manière échelonnée, une copie de chacun d’eux est enregistrée.
+
+<sup>4</sup> La copie d’une décision de rectification d’un prononcé saisi doit être enregistrée.
+
+<sup>5</sup> Les copies sont enregistrées dans leur intégralité et sans caviardage, même si elles contiennent des données qui n’ont pas de lien avec les données pénales qui doivent être saisies.
+
+<sup>6</sup> Elles ne doivent pas être munies d’une signature.
+
+#### Art. 24
+
+**Données système figurant sur les extraits du casier judiciaire**
+
+(art. 23, al. 2, LCJ)
+
+Les catégories et champs de données générées par le système qui sont enregistrées dans VOSTRA et qui figurent sur les extraits en ligne ou imprimés du casier judiciaire sont énumérés:
+
+- a. à l’annexe 1, pour celles qui se rapportent aux données d’identification;
+- b. à l’annexe 2, pour celles qui se rapportent aux jugements;
+- c. à l’annexe 3, pour celles qui se rapportent aux décisions ultérieures;
+- d. à l’annexe 4, pour celles qui se rapportent aux procédures pénales en cours.
+
+#### Art. 25
+
+**Avis automatiques servant à la gestion des données**
+
+(art. 23, al. 2, LCJ)
+
+<sup>1</sup> VOSTRA génère des avis adressés à des autorités spécifiques, afin qu’elles procèdent comme suit:
+
+<table>
+<tr><td>a. quotidiennement, aux autorités judiciaires pénales, aux autorités d’exécution, aux autorités compétentes en matière de grâce et aux autorités pénales administratives, des avis au sens de l’art. 23, al. 1, let. b, LCJ, lorsqu’est nouvellement saisi un crime, un délit ou une infraction à une loi étrangère commis durant une mise à l’épreuve dont est assorti un sursis, un sursis partiel ou une libération conditionnelle qui n’a pas été révoqué, à moins que 3 ans n’aient passé depuis la fin du délai d’épreuve et que l’autorité à qui l’avis est destiné selon VOSTRA n’ait déjà rendu et saisi une décision ultérieure relative à l’échec de la mise à l’épreuve:</td><td>pour que ces autorités vérifient s’il y a eu échec de la mise à l’épreuve et que, si l’échec de la mise à l’épreuve n’a pas été prononcé, elles prennent la décision et la saisissent dans VOSTRA (décision ultérieure) ou que, si l’avis révèle des données erronées, elles les rectifient;</td></tr>
+<tr><td>b. quotidiennement, à la direction de la procédure compétente, des avis au sens de l’art. 23, al. 1, let. c, LCJ, lorsqu’une procédure pénale en cours est enregistrée depuis plus de 2 ans, puis, si la procédure n’est pas éliminée manuellement, le même avis à intervalles d’un an au plus:</td><td>pour que cette autorité vérifie si la procédure pénale est toujours pendante et mette à jour les données au besoin;</td></tr>
+<tr><td>c. toutes les semaines, aux autorités d’exécution des mesures compétentes, des avis au sens de l’art. 23, al. 1, let. c, LCJ, lorsque la fin d’une mesure institutionnelle ou d’un traitement ambulatoire n’est pas encore enregistrée dans VOSTRA 5 ans après que la mesure ou le traitement a été ordonné, puis, au besoin, le même avis à intervalles de 5 ans:</td><td>pour que ces autorités vérifient si la mesure est encore en cours d’exécution et saisissent a posteriori une décision relative à la fin de la mesure, si elle fait défaut (décision ultérieure), en vue du calcul des délais au terme desquels le jugement cesse de figurer sur l’extrait du casier judiciaire au sens de l’art. 30, al. 3, let. b, ou 38, al. 4, let. b, LCJ;</td></tr>
+<tr><td>d. tous les ans, au Service du casier judiciaire, des avis signalant qu’une personne inscrite dans VOSTRA a atteint l’âge de 80, 85, 90 ou 95 ans durant l’année concernée:</td><td>pour que ce service vérifie si la personne concernée est encore en vie conformément à l’art. 29, al. 3, LCJ et élimine au besoin son dossier conformément à l’art. 29, al. 1, LCJ;</td></tr>
+<tr><td>e. sans délai, au Service du casier judiciaire, des avis au sens de l’art. 23, al. 1, let. d, LCJ, lorsque la Centrale de compensation (CdC) refuse l’attribution automatique d’un numéro AVS à une identité principale saisie dans VOSTRA ou refuse la modification d’attributs principaux:</td><td>pour que ce service corrige les données d’identification ou attribue les données pénales à une autre personne;</td></tr>
+<tr><td>f. toutes les semaines, à toutes les autorités chargées de l’exécution de jugements ou de décisions ultérieures concernant une sanction privative de liberté saisis dans VOSTRA, des avis au sens de l’art. 23, al. 1, let. e, LCJ, lorsqu’est nouvellement saisie une interdiction d’exercer une activité, une interdiction de contact ou une interdiction géographique prévue par le CP[^25-1] ou le CPM[^25-2] prononcée en Suisse à l’encontre de la personne concernée, à l’exception des interdictions au sens de l’art. 67, al. 3 ou 4, CP ou de l’art. 50, al. 3 ou 4, CPM prononcées à vie et sans possibilité d’en réduire la durée, ou lorsqu’est nouvellement saisie une sanction privative de liberté ou la fin de l’exécution d’une sanction privative de liberté à l’encontre d’une personne déjà frappée d’une telle interdiction:</td><td>pour que ces autorités saisissent dans VOSTRA les dates de début et de fin d’exécution de toutes les sanctions privatives de liberté du dossier au sens de l’art. 20, al. 2, LCJ, afin que le système puisse calculer le temps pendant lequel l’interdiction ne court pas selon l’art. 67*c,* al. 2, CP ou l’art. 50*c,* al. 2, CPM;</td></tr>
+<tr><td>g. toutes les semaines, au Service du casier judiciaire, les avis signalant l’élimination d’un dossier contenant l’indication visée à l’annexe 2, ch. 3.4.5.5:</td><td>pour que ce service détruise les documents qu’il conserve concernant l’approbation de la demande visant le calcul d’un délai pour l’élimination au sens de l’art. 30, al. 2, let. n, *in fine*, LCJ;</td></tr>
+<tr><td>h. au moins tous les ans, aux autorités compétentes en matière d’exécution des expulsions, les avis signalant tous les jugements suisses dans lesquels est prononcée une expulsion et pour lesquels aucune date de départ n’est enregistrée dans VOSTRA 5 ans après que l’expulsion a été ordonnée:</td><td>pour que ces autorités saisissent dans VOSTRA les données relatives à l’exécution concernant le début de la durée de l’expulsion (annexe 2, ch. 3.4.5.2 et 3.4.5.3);</td></tr>
+<tr><td>i. toutes les semaines, au Service du casier judiciaire, les avis signalant qu’une nouvelle confiscation a été enregistrée:</td><td>pour que ce service vérifie les conditions d’enregistrement au sens de l’art. 20, al. 2, let. b, et transmette les copies électroniques des jugements au sens de l’art. 61 LCJ et de l’art. 57 de la présente ordonnance;</td></tr>
+<tr><td>j. toutes les semaines, au Service du casier judiciaire, les avis signalant qu’un jugement a été saisi sans qu’aucune règle de calcul du délai pour l’élimination des données ait été programmée:</td><td>pour que ce service vérifie que les données sont complètes;</td></tr>
+<tr><td>k. toutes les semaines, aux autorités qui ont saisi un jugement ou une décision ultérieure après l’entrée en vigueur de la présente ordonnance, les avis signalant qu’il manque une copie devant être enregistrée selon l’art. 22 LCJ et l’art. 23, al. 1, de la présente ordonnance:</td><td>pour que ces autorités enregistrent a posteriori les copies visées par l’art. 22 LCJ et par l’art. 23 de la présente ordonnance;</td></tr>
+<tr><td>l. tous les deux mois, au Service du casier judiciaire, les avis signalant qu’une infraction enregistrée dans VOSTRA comme «infraction à une loi étrangère» a été commise pendant un délai d’épreuve au sens de l’art. 40, al. 3, let. c, LCJ:</td><td>pour que ce service transpose l’infraction en droit suisse, afin que le système reconnaisse correctement un échec de la mise à l’épreuve par suite d’un crime ou d’un délit, dans le cas des jugements dans lesquels est prononcée une amende visés à l’art. 40, al. 3, let. c, LCJ;</td></tr>
+<tr><td>m. quotidiennement, au Service du casier judiciaire, les avis signalant qu’un verdict de culpabilité sans peine ou l’exemption de toute peine complémentaire a été prononcé en même temps qu’une autre sanction ayant un effet sur le calcul des délais dans un jugement suisse rendu à l’encontre d’un adulte ou portant sur des infractions commises avant et après les 18 ans de l’auteur sanctionnant au moins un crime ou un délit et au moins une contravention:</td><td>pour que ce service vérifie les conditions d’enregistrement au sens de l’art. 40, al. 1, let. b, ch. 1, LCJ;</td></tr>
+<tr><td>n. quotidiennement, au Service du casier judiciaire, les avis signalant qu’une interdiction d’exercer une activité, une interdiction de contact ou une interdiction géographique a été prononcée dans un jugement suisse portant sur des infractions commises avant et après les 18 ans de l’auteur et dont celles commises en tant qu’adulte ne sont que des contraventions:</td><td>pour que ce service vérifie les conditions d’enregistrement au sens de l’art. 40, al. 1, let. b, ch. 2, LCJ;</td></tr>
+<tr><td>o. quotidiennement, à la direction de la procédure qui mène une procédure pénale en cours déjà saisie, les avis signalant qu’une autre direction de la procédure a nouvellement saisi dans VOSTRA une procédure pénale à l’encontre de la même personne:</td><td>pour améliorer la coordination des procédures et pour que cette autorité vérifie l’exactitude des données dont elle dispose.</td></tr>
+</table>
+
+<sup>2</sup> Les catégories et champs de données relatifs aux avis générés par le système sont énumérés à l’annexe 5.
+
+<sup>3</sup> Les autorités à qui les avis sont destinés selon l’al. 1 transmettent à l’autorité compétente les avis qui ne sont pas de leur ressort.
+
+<sup>4</sup> Les autorités qui gèrent VOSTRA envoient les avis reçus aux autorités à qui ils sont destinés et qui sont de leur ressort.
+
+[^25-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^25-2]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+
+#### Art. 26
+
+**Saisie des données relatives aux procédures pénales en cours**
+
+(art. 24, al. 3, LCJ)
+
+Les catégories et champs de données relatifs aux procédures pénales en cours qui doivent être saisies sont énumérés à l’annexe 4 avec les profils de consultation correspondants.
+
+#### Art. 27
+
+**Autorité compétente pour enregistrer une délégation de procédure**
+
+(art. 24, al. 3, LCJ)
+
+<sup>1</sup> L’autorité qui délègue une procédure pénale enregistre le changement de direction de la procédure.
+
+<sup>2</sup> Elle informe la nouvelle autorité compétente qu’elle lui a délégué la procédure. La nouvelle autorité met à jour immédiatement les informations relatives à la procédure pénale en cours.
+
+### Section 2 Données saisies en dehors du système de gestion des données pénales
+
+#### Art. 28
+
+**Journalisation des consultations effectuées par les autorités**
+
+(art. 25, al. 3, LCJ)
+
+<sup>1</sup> Les catégories et champs de données relatifs aux consultations en ligne automatiquement enregistrées au sens de l’art. 25 LCJ sont énumérés à l’annexe 6.
+
+<sup>2</sup> Le Service du casier judiciaire peut consulter toutes les données journalisées mentionnées à l’annexe 6.
+
+<sup>3</sup> Toute personne peut consulter uniquement les données journalisées la concernant mentionnées à l’annexe 6 qui doivent lui être communiquées en application de l’art. 57 LCJ.
+
+#### Art. 29
+
+**Données concernant les demandes en ligne d’extraits d’un casier judiciaire étranger**
+
+(art. 26, al. 2, LCJ)
+
+Les catégories et champs de données relatifs aux demandes en ligne d’extraits d’un casier judiciaire étranger sont énumérés à l’annexe 7.
+
+#### Art. 30
+
+**Données concernant les demandes d’extraits destinés aux particuliers et d’extraits spéciaux**
+
+<sup>e</sup> (art. 27, al. 2, 3 phrase, et 3, LCJ)
+
+<sup>1</sup> Les catégories et champs de données de la banque de données auxiliaire relatifs aux demandes d’extraits destinés aux particuliers et d’extraits spéciaux sont énumérés à l’annexe 8.
+
+<sup>2</sup> Lors de l’établissement d’un extrait destiné aux particuliers ou d’un extrait spécial, les données nécessaires à cette fin sont transférées dans VOSTRA depuis la banque de données auxiliaire. Des données supplémentaires peuvent être générées dans VOSTRA durant le processus de traitement. Les données relatives aux demandes d’extrait qui sont enregistrées dans VOSTRA sont énumérées à l’annexe 8.
+
+#### Art. 31
+
+**Recherches à des fins d’analyse des données par le Service du casier judiciaire**
+
+<sup>1</sup> Le Service du casier judiciaire peut lancer des recherches dans VOSTRA à des fins d’analyse des données, dans la mesure où l’accomplissement de ses tâches l’exige.
+
+<sup>2</sup> Il peut notamment effectuer les analyses de données suivantes, dans les buts mentionnés ci-après:
+
+<table>
+<tr><td>a. analyse de la fréquence d’utilisation de VOSTRA, sur la base du nombre de consultations et de saisies effectuées par une autorité et par ses utilisateurs sur une période donnée:</td><td>pour contrôler les conditions d’octroi des raccordements en ligne au sens de l’art. 8, al. 1, let. e;</td></tr>
+<tr><td>b. analyse des jugements et décisions ultérieures saisis, sur la base d’une liste de toutes les données saisies par un utilisateur sur une période donnée:</td><td>pour contrôler la conformité de la saisie de données au sens de l’art. 3, al. 2, let. g, LCJ;</td></tr>
+<tr><td>c. analyse des dates de saisie des jugements, des décisions ultérieures ou des procédures pénales en cours, sur la base d’une liste de ceux qui ont été enregistrés en dehors du délai prescrit:</td><td>pour contrôler le respect des délais de saisie prévus aux art. 33 et 34.</td></tr>
+</table>
+
+### Section 3 Délais de saisie des données dans VOSTRA
+
+(art. 28 LCJ)
+
+#### Art. 32
+
+**Délai de saisie des données d’identification**
+
+<sup>1</sup> Les données d’identification visées à l’art. 17 LCJ sont saisies en même temps que les données auxquelles elles se rapportent, dans les délais fixés pour ces dernières.
+
+<sup>2</sup> Toute modification touchant uniquement des données d’identification doit être saisie immédiatement.
+
+#### Art. 33
+
+**Délai de saisie des jugements, des décisions ultérieures et des données relatives à l’exécution**
+
+Les jugements, les décisions ultérieures et les données relatives à l’exécution sont saisis dans les délais suivants:
+
+<table>
+<tr><td>a. les jugements et les décisions ultérieures rendus en Suisse:</td><td>dans les 10 jours ouvrables suivant la constatation de leur entrée en force;</td></tr>
+<tr><td>b. les jugements et les décisions ultérieures rendus à l’étranger:</td><td>dans les 2 mois suivant la réception de leur communication, à moins que, exceptionnellement, des éclaircissements auprès de l’État concerné ne soient nécessaires ou qu’il ne soit pas possible de trouver suffisamment de traducteurs spécialisés en raison du nombre de communications reçues;</td></tr>
+<tr><td>c. les jugements et les décisions ultérieures qui ne sont entrés en force qu’en partie:</td><td>en tant que partie intégrante du jugement ou de la décision ultérieure rendu par l’instance supérieure et entré en force, dans les délais prévus pour la saisie de ce jugement ou de cette décision;</td></tr>
+<tr><td>d. la traduction, dans les autres langues utilisées dans VOSTRA, de la version originale déjà enregistrée des interdictions d’exercer une activité, des interdictions de contact et des interdictions géographiques:</td><td>dans les 10 jours ouvrables suivant la réception du jugement par les services de traduction compétents de la Confédération;</td></tr>
+<tr><td>e. les copies électroniques visées à l’art. 22 LCJ:</td><td>en même temps que les données structurées auxquelles elles se rapportent;</td></tr>
+<tr><td>f. les copies électroniques des prononcés motivés après leur entrée en force au sens de l’art. 23, al. 2:</td><td>dans les 10 jours ouvrables suivant la rédaction du prononcé;</td></tr>
+<tr><td>g. les données relatives au temps pendant lequel une interdiction d’exercer une activité, une interdiction de contact ou une interdiction géographique au sens du CP[^33-1] ou du CPM[^33-2] ne court pas au sens de l’art. 20, al. 2, LCJ:</td><td>dans les 10 jours ouvrables suivant le début ou la fin de l’exécution de la sanction privative de liberté ou, si l’autorité compétente ignorait qu’une interdiction avait été prononcée, dans les 10 jours ouvrables suivant la réception de l’avis généré par VOSTRA;</td></tr>
+<tr><td>h. les données nécessaires pour calculer la durée d’une expulsion de Suisse et visées à l’art. 20, al. 3, let. a, LCJ:</td><td>dans les 10 jours ouvrables suivant le jour où l’autorité compétente a eu connaissance de la raison du départ;</td></tr>
+<tr><td>i. l’approbation d’une demande visant le calcul d’un délai pour l’élimination au sens de l’art. 30, al. 2, let. n, *in fine*, LCJ:</td><td>immédiatement.</td></tr>
+</table>
+
+[^33-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^33-2]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+
+#### Art. 34
+
+**Délai de saisie des procédures pénales en cours**
+
+<sup>1</sup> Les procédures pénales en cours sont saisies dans les 10 jours ouvrables suivant l’ouverture formelle de l’instruction.
+
+<sup>2</sup> Si aucune instruction n’a été ouverte, elles sont saisies dans les 10 jours ouvrables suivant la rédaction de l’ordonnance pénale.
+
+<sup>3</sup> Les modifications importantes visées à l’art. 24, al. 2, let. e, LCJ sont saisies dans les 10 jours ouvrables.
+
+<sup>4</sup> La direction de la procédure peut ajourner la saisie d’une procédure pénale en cours aussi longtemps que sa saisie est susceptible de compromettre les objectifs de cette procédure.
+
+#### Art. 35
+
+**Délai de saisie des données système, des recherches à des fins d’analyse des données et des consultations journalisées**
+
+<sup>1</sup> Les données système visées aux art. 24 et 25 et celles afférant aux recherches à des fins d’analyse des données visées à l’art. 31 sont automatiquement enregistrées dans VOSTRA au moment où elles sont générées.
+
+<sup>2</sup> Les données relatives aux consultations journalisées visées à l’art. 28 sont automatiquement enregistrées dans VOSTRA comme suit:
+
+<table>
+<tr><td>a. concernant la première saisie des données pénales par un utilisateur d’une autorité qui gère VOSTRA:</td><td>au moment du premier enregistrement complet d’un jugement, d’une décision ultérieure ou d’une procédure pénale en cours;</td></tr>
+<tr><td>b. concernant l’établissement d’un extrait par un utilisateur d’une autorité qui gère VOSTRA à la demande écrite d’une autre autorité:</td><td>au moment où l’extrait au format PDF est généré;</td></tr>
+<tr><td>c. concernant une consultation en ligne par un utilisateur d’une autre autorité:</td><td>au moment où les données pénales sont affichées.</td></tr>
+</table>
+
+#### Art. 36
+
+**Délai de saisie des données concernant les demandes en ligne d’extraits d’un casier judiciaire étranger**
+
+Les données concernant les demandes en ligne d’extraits d’un casier judiciaire étranger sont enregistrées comme suit:
+
+<table>
+<tr><td>a. les indications fournies par le demandeur et mentionnées à l’annexe 7, ch. 1 à 3:</td><td>au moment de la saisie de la demande dans VOSTRA;</td></tr>
+<tr><td>b. les informations visées à l’annexe 7, ch. 4 et 5, enregistrées par le Service du casier judiciaire:</td><td>dans les 3 jours ouvrables à compter du moment où elles sont portées à sa connaissance;</td></tr>
+<tr><td>c. les données visées à l’annexe 7, ch. 4 et 5, que génère automatiquement le processus de demande et de traitement des extraits:</td><td>à la fin de chaque étape du processus.</td></tr>
+</table>
+
+#### Art. 37
+
+**Délai de saisie des données concernant les demandes d’extraits destinés aux particuliers et d’extraits spéciaux**
+
+Les données concernant les demandes d’extraits destinés aux particuliers et d’extraits spéciaux sont enregistrées dans la banque de données auxiliaire ou dans VOSTRA à la fin de chaque étape du traitement.
+
+### Section 4 Élimination des données du casier judiciaire et délai pendant lequel elles figurent sur les extraits
+
+#### Art. 38
+
+**Élimination d’un jugement dont la seule conséquence juridique est l’exemption de toute peine complémentaire**
+
+(art. 30 LCJ)
+
+<sup>1</sup> Lorsque leur seule conséquence juridique est l’exemption de toute peine complémentaire, les jugements mentionnés ci-après sont éliminés au terme des délais suivants:
+
+<table>
+<tr><td>a. les jugements rendus en Suisse à l’encontre d’un adulte:</td><td>15 ans à partir de leur entrée en force;</td></tr>
+<tr><td>b. les jugements rendus à l’étranger à l’encontre d’un adulte et adaptés par un exequatur suisse:</td><td>15 ans à partir de leur entrée en force;</td></tr>
+<tr><td>c. les jugements rendus à l’étranger à l’encontre d’un mineur et adaptés par un exequatur suisse:</td><td>8 ans à partir de leur entrée en force.</td></tr>
+</table>
+
+<sup>2</sup> Une prolongation du délai visé à l’art. 30, al. 1, LCJ en raison d’un autre jugement qui ne doit pas encore être éliminé est réservée.
+
+#### Art. 39
+
+**Date à laquelle un jugement dont la seule conséquence juridique est l’exemption de toute peine complémentaire cesse de figurer sur les extraits 2 et 3 destinés aux autorités**
+
+(art. 38, al. 3 à 5, LCJ)
+
+Lorsque leur seule conséquence juridique est l’exemption de toute peine complémentaire, les jugements mentionnés ci-après cessent de figurer sur les extraits 2 et 3 destinés aux autorités au terme des délais suivants:
+
+<table>
+<tr><td>a. les jugements rendus en Suisse à l’encontre d’un adulte:</td><td>10 ans à partir de leur entrée en force;</td></tr>
+<tr><td>b. les jugements rendus à l’étranger à l’encontre d’un adulte et adaptés par un exequatur suisse:</td><td>10 ans à partir de leur entrée en force;</td></tr>
+<tr><td>c. les jugements rendus à l’étranger à l’encontre d’un mineur et adaptés par un exequatur suisse:</td><td>5 ans à partir de leur entrée en force.</td></tr>
+</table>
+
+#### Art. 40
+
+**Calcul des délais en cas de jugement portant sur une peine complémentaire, une peine partiellement complémentaire ou une peine d’ensemble**
+
+(art. 30, 38, al. 3 à 5, 40, al. 3, et 42, al. 3, LCJ)
+
+Si une peine complémentaire, une peine partiellement complémentaire ou une peine d’ensemble est prononcée, seules les infractions et les sanctions sur lesquelles porte le jugement dans lequel cette peine est prononcée sont déterminantes pour le calcul des délais au terme desquels il est éliminé ou cesse de figurer sur les extraits.
+
+#### Art. 41
+
+**Élimination des données à l’âge de 100 ans**
+
+(art. 29, al. 1, LCJ)
+
+Lorsqu’une personne inscrite dans VOSTRA atteint l’âge de 100 ans, son décès est présumé pour ce qui est de VOSTRA et toutes les données se rapportant à elle sont automatiquement éliminées.
+
+#### Art. 42
+
+**Élimination des avis générés par le système, des recherches à des fins d’analyse des données et d’autres communications**
+
+<sup>1</sup>
+
+Les données suivantes sont automatiquement éliminées deux semaines après que l’autorité compétente les a marquées comme traitées:
+
+- a. les avis générés par le système visés à l’art. 25;
+- b. les recherches à des fins d’analyse des données visées à l’art. 31;
+- c. les communications visées aux art. 56, 58 et 61.
+
+<sup>2</sup> Elles sont éliminées automatiquement par VOSTRA au plus tard un an après leur création.
+
+#### Art. 43
+
+**Demandes visant le calcul d’un délai pour l’élimination du jugement**
+
+(art. 30, al. 2, let. n, *in fine*, LCJ)
+
+<sup>1</sup>
+
+La personne qui fait une demande visant le calcul d’un délai pour l’élimination du jugement au sens de l’art. 30, al. 2, let. n, *in fine*, LCJ doit présenter les documents suivants:
+
+- a. une preuve de son identité;
+- b. un document attestant que la nationalité suisse lui a été octroyée depuis au moins 8 ans.
+
+<sup>2</sup> Si la demande visant le calcul d’un délai pour l’élimination du jugement au sens de l’art. 30, al. 2, let. n, *in fine*, LCJ est approuvée, le Service du casier judiciaire en fait mention dans VOSTRA selon l’annexe 2, ch. 3.4.5.5. La mention est éliminée dès que VOSTRA ne contient plus de données pénales relatives à la personne concernée.
+
+<sup>3</sup> Le Service du casier judiciaire conserve le dossier de demande dans une banque de données à part. Il le détruit lorsque la personne concernée n’est plus inscrite dans VOSTRA.
+
+#### Art. 44
+
+**Fixation d’une date théorique de fin de l’exécution**
+
+<sup>1</sup>
+
+Le Service du casier judiciaire peut fixer une date de fin de l’exécution théorique appropriée, d’office ou à la demande de la personne concernée, et l’enregistrer dans VOSTRA, lorsque les conditions suivantes sont réunies:
+
+- a. l’enregistrement de la fin effective de l’exécution serait nécessaire pour le calcul des délais au terme desquels le jugement sera éliminé ou cessera de figurer sur les extraits;
+- b. la fin effective de l’exécution n’est pas enregistrée dans VOSTRA;
+- c.
+
+  il est très invraisemblable que la fin effective de l’exécution soit jamais enregistrée:
+
+  - 1\. parce qu’elle n’a pas été arrêtée dans une décision ultérieure devant être saisie, ou
+  - 2\. parce que l’autorité compétente n’est pas prête à informer le Service du casier judiciaire, à sa demande, des données qui doivent être saisies relatives à une décision ultérieure dans laquelle la fin de l’exécution serait arrêtée;
+
+- d. la sanction visée n’est manifestement plus en cours d’exécution.
+
+<sup>2</sup> La date théorique de fin de l’exécution est fixée compte tenu des données disponibles concernant le cas considéré. Elle sert exclusivement au calcul des délais et n’a pas d’incidence sur la durée effective de l’exécution de la sanction.
+
+<sup>3</sup> S’il peut déterminer le lieu où réside la personne concernée, le Service du casier judiciaire lui notifie la date théorique de fin de l’exécution sous la forme d’une décision sujette à recours. Cette décision est saisie dans VOSTRA après son entrée en force de la même manière qu’une décision ultérieure.
+
+<sup>4</sup> Si le Service du casier judiciaire ne peut pas déterminer le lieu où réside la personne concernée, il renonce à notifier sa décision. Celle-ci est immédiatement saisie dans VOSTRA de la même manière qu’une décision ultérieure. La personne concernée peut exiger, au plus tard 30 jours après avoir eu connaissance de la décision, qu’une décision sujette à recours lui soit notifiée.
+
+<sup>5</sup> La décision fixant une date théorique de fin de l’exécution est éliminée de VOSTRA dès qu’y est saisie une décision attestant la date à laquelle l’exécution prendra effectivement fin.
+
+## Chapitre 6 Communication des données du casier judiciaire
+
+### Section 1 Profils de consultation et types d’extraits dans le domaine de la gestion des données pénales
+
+#### Art. 45
+
+**Différences entre l’extrait imprimé et l’extrait en ligne**
+
+(art. 35, al. 2, LCJ)
+
+<sup>1</sup> Les données du casier judiciaire qui figurent sur l’extrait imprimé et celles qui figurent sur l’extrait consulté en ligne sont énumérées aux annexes 1 à 4.
+
+<sup>2</sup>
+
+Les extraits imprimés contiennent en outre les données suivantes:
+
+- a.
+
+  l’extrait destiné aux autorités:
+
+  - 1\. la désignation de l’extrait,
+  - 2\. l’autorité au nom de laquelle il est établi,
+  - 3\. le but dans lequel il est établi,
+  - 4\. les nom et prénoms de l’utilisateur qui l’établit,
+  - 5\. la date et l’heure d’établissement,
+  - 6\. le nombre de pages,
+  - 7\. le numéro de dossier de la procédure pour laquelle l’extrait est requis, s’il a été enregistré manuellement au préalable;
+
+- b.
+
+  l’extrait destiné aux particuliers ou l’extrait spécial:
+
+  - 1\. la désignation de l’extrait,
+  - 2\. les nom et prénoms et l’adresse de la personne à qui l’extrait est destiné,
+  - 3\. la date et l’heure d’établissement,
+  - 4\. un numéro d’ordre,
+  - 5\. si l’extrait comprend des données pénales, une mention concernant le calcul des délais au terme desquels le jugement n’y figurera plus;
+
+- c.
+
+  l’extrait spécial:
+
+  - 1\. le nom de l’employeur, de l’organisation ou de l’autorité compétente pour lequel l’attestation prévue par l’art. 55, al. 4, LCJ est établie,
+  - 2\. les nom, prénoms et coordonnées du collaborateur responsable de l’établissement de l’attestation prévue par l’art. 55, al. 4, LCJ.
+
+#### Art. 46
+
+**Extraits imprimés vierges**
+
+(art. 35, al. 2, LCJ)
+
+<sup>1</sup>
+
+Si la recherche d’une personne dans VOSTRA ne donne pas de résultat avec le profil de consultation utilisé, l’extrait imprimé contient les mentions suivantes concernant les données pénales:
+
+- a. l’extrait destiné aux autorités et l’extrait destiné aux particuliers: l’indication que la personne recherchée n’est pas inscrite au casier judiciaire;
+- b. l’extrait spécial: l’indication qu’il n’existe à l’encontre de la personne concernée aucune interdiction d’exercer une profession ou une activité, aucune interdiction de contact ou géographique visant à protéger les mineurs et les autres personnes particulièrement vulnérables, ni aucune interdiction d’exercer une activité relevant du domaine de la santé qui implique des contacts directs avec des patients;
+- c. l’extrait destiné aux particuliers et l’extrait spécial: la mention de la possibilité de valider l’extrait au sens de l’art. 49.
+
+<sup>2</sup>
+
+Si la recherche d’une personne dans VOSTRA ne donne pas de résultat avec le profil de consultation utilisé, mais que cette personne est inscrite dans la base de données UPI (Unique Personal Identifier Database) de la CdC, l’extrait imprimé contient les données d’identification suivantes:
+
+- a. l’extrait destiné aux autorités: les attributs principaux de la personne concernée tirés de l’UPI et énumérés à l’annexe 1, ch. 1.1, à l’exception du numéro AVS;
+- b. l’extrait destiné aux particuliers et l’extrait spécial: les nom et prénoms, la date de naissance, la nationalité et le lieu d’origine suisse de la personne concernée, conformément à l’annexe 8, ch. 1.2 à 1.5 et 1.11.
+
+<sup>3</sup>
+
+Si la personne recherchée n’est inscrite ni dans VOSTRA ni dans l’UPI, l’extrait imprimé contient les données d’identification suivantes:
+
+- a.
+
+  l’extrait destiné aux autorités:
+
+  - 1\. les données indiquées pour la recherche, soit les nom et prénoms et la date de naissance de la personne recherchée,
+  - 2\. une indication concernant la présence ou l’absence de résultats proposés par le système;
+
+- b. l’extrait destiné aux particuliers et l’extrait spécial: les nom et prénoms, la date de naissance, la nationalité et le lieu d’origine suisse de la personne concernée, conformément à l’annexe 8, ch. 1.2 à 1.5 et 1.11.
+
+#### Art. 47
+
+**Données système qui peuvent être consultées**
+
+(art. 37, al. 2, 38, al. 2, 40, al. 2, et 42, al. 2, LCJ)
+
+Les données système visées à l’art. 24 qui peuvent être consultées sont énumérées aux annexes 1 à 4, avec les profils de consultation correspondants.
+
+#### Art. 48
+
+**Extraits destinés aux particuliers et extraits spéciaux munis d’une signature électronique**
+
+<sup>RS 943.03</sup> Toute personne qui demande un extrait destiné aux particuliers ou un extrait spécial peut exiger, au lieu d’un extrait imprimé, un extrait muni d’une signature électronique règlementée ou d’un cachet électronique règlementé au sens de la loi du 18 mars 2016 sur la signature électronique.
+
+#### Art. 49
+
+**Validation des extraits destinés aux particuliers et des extraits spéciaux vierges**
+
+<sup>1</sup> Tout détenteur d’un extrait destiné aux particuliers ou d’un extrait spécial vierge imprimé peut vérifier qu’aucun jugement ne figure sur l’original au moyen d’un service Web mis à la disposition du public par le Service du casier judiciaire.
+
+<sup>2</sup> Le Service du casier judiciaire détermine le délai pendant lequel un extrait peut être vérifié.
+
+### Section 2 Droit de consultation des autorités
+
+#### Art. 50
+
+**Précisions concernant certains buts de la consultation par les services cantonaux des migrations et par le Secrétariat d’État aux migrations**
+
+(art. 46, let. f, ch. 2 et 3, et h, et art. 62, al. 2, LCJ)
+
+<sup>1</sup>
+
+Dans le cadre de la mise en œuvre de la loi fédérale du 16 décembre 2005 sur les étrangers et l’intégration (LEI)[^50-1] et en application de l’art. 46, let. f, ch. 2, et h, LCJ, les services cantonaux des migrations et le Secrétariat d’État aux migrations (SEM) peuvent utiliser les données du casier judiciaire dans les buts suivants:
+
+- a. pour examiner les conditions d’entrée en Suisse et l’octroi de visas;
+- b. pour examiner l’octroi, la prolongation et la révocation des autorisations de séjour de courte durée, des autorisations de séjour, des autorisations d’établissement et des autorisations pour les frontaliers;
+- c. pour examiner les autorisations soumises à l’approbation du SEM;
+- d. pour octroyer l’autorisation d’exercer une activité lucrative ou de participer à un programme d’occupation pour les requérants d’asile;
+- e. pour examiner le prononcé ou la suspension de l’interdiction d’entrée en Suisse;
+- f. pour examiner le prononcé ou la levée de l’admission provisoire;
+- g. pour exécuter les renvois et les expulsions au sens de l’art. 68 LEI ainsi que les expulsions au sens des art. 66*a* ou 66*a*<sup>bis</sup> CP[^50-2] ou 49*a* ou 49*a*<sup>bis</sup> CPM[^50-3], et notamment pour examiner les mesures de contrainte;
+- h. pour examiner les demandes d’établissement de documents de voyage et d’octroi de visas de retour.
+
+<sup>2</sup>
+
+Dans le cadre de la mise en œuvre de la loi du 26 juin 1998 sur l’asile[^50-4] et en application de l’art. 46, let. f, ch. 3, LCJ, le SEM peut utiliser les données du casier judiciaire dans les buts suivants:
+
+- a. pour examiner l’octroi, la révocation ou l’extinction de l’asile ou de la qualité de réfugié;
+- b. pour examiner l’octroi, la révocation ou l’extinction de la protection provisoire;
+- c. pour examiner le droit à une aide au retour dans le cadre d’un retour volontaire ou d’un retour conforme aux obligations légales.
+
+<sup>3</sup> Les communications visées à l’art. 62, al. 2, LCJ peuvent être traitées dans les buts mentionnés aux al. 1 et 2.
+
+[^50-1]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^50-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^50-3]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^50-4]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+
+#### Art. 51
+
+**Vérification préalable à la demande d’extrait d’un casier judiciaire étranger**
+
+(art. 49, al. 2, LCJ)
+
+<sup>1</sup>
+
+Une autorité raccordée peut vérifier, en saisissant dans VOSTRA une demande d’extrait d’un casier judiciaire étranger conformément à l’art. 49, al. 1, LCJ, si, d’expérience, pour ce type d’autorité et ce but:
+
+- a. l’État concerné fournit des extraits du casier judiciaire;
+- b. le traitement de la demande est susceptible de prendre plus de temps car l’État concerné n’a encore jamais reçu de demande d’extrait, ou
+- c. l’État concerné ne fournit pas d’extrait du casier judiciaire***.***
+
+<sup>2</sup> Si l’autorité compétente d’un État étranger refuse de fournir un extrait du casier judiciaire à l’intention d’un certain type d’autorité et dans un but donné, aucune nouvelle demande au sens de l’art. 49, al. 1, LCJ émanant d’une autorité de ce type et visant ce but ne peut plus être saisie pendant 3 ans.
+
+### Section 3 Droit de consultation des particuliers
+
+#### Art. 52
+
+**Demande d’extraits destinés aux particuliers et d’extraits spéciaux**
+
+(art. 54 et 55 LCJ)
+
+<sup>1</sup> Les demandes d’extraits destinés aux particuliers et d’extraits spéciaux peuvent être faites directement en ligne auprès du Service du casier judiciaire ou au guichet d’un fournisseur de prestations actif dans toute la Suisse qui a été mandaté à cet effet.
+
+<sup>2</sup> Sont admis comme preuves de l’identité au sens de l’art. 54, al. 3, LCJ les passeports, les cartes d’identité et les titres de séjour. Dans le cas d’une demande en ligne, sont également admises les e-ID reconnues et les copies des documents d’identité.
+
+<sup>3</sup>
+
+À défaut du document d’identité requis, il est possible de demander un extrait en ligne si le service des migrations compétent complète le formulaire de demande en confirmant:
+
+- a. que l’extrait doit être remis à une autorité;
+- b. que les données d’identification correspondent à celles enregistrées dans le Système d’information central sur la migration (SYMIC);
+- c. que le numéro SYMIC indiqué est bien celui de la personne concernée.
+
+<sup>4</sup> En cas de demande relative à un tiers au sens de l’art. 54, al. 3, LCJ, les documents attestant le pouvoir de représentation ne doivent pas dater de plus de 6 mois.
+
+#### Art. 53
+
+**Contenu, durée de validité et contrôle de l’attestation prévue à l’art. 55, al. 4, LCJ**
+
+(art. 55, al. 4, LCJ)
+
+<sup>1</sup>
+
+L’attestation, prévue à l’art. 55, al. 4, LCJ, que doit présenter l’employeur, l’organisation ou l’autorité compétente qui exige la production d’un extrait spécial doit contenir les données suivantes:
+
+- a. le nom et l’adresse de l’employeur, de l’organisation ou de l’autorité compétente;
+- b. les nom et prénoms, le numéro de téléphone, l’adresse de courrier électronique et la signature d’un collaborateur de l’employeur, de l’organisation ou de l’autorité compétente ayant part à la procédure d’engagement;
+- c. la date d’établissement de l’attestation;
+- d. les nom et prénoms et la date de naissance du particulier;
+- e. la description de l’activité pour laquelle l’extrait spécial est demandé selon l’art. 55, al. 1 ou 1<sup>bis</sup>, LCJ.
+
+<sup>2</sup> L’attestation est valable 3 mois à compter de son établissement.
+
+<sup>3</sup> Le Service du casier judiciaire contrôle par sondage le contenu des attestations.
+
+#### Art. 54
+
+**Émoluments dus pour les extraits destinés aux particuliers et les extraits spéciaux**
+
+(art. 56, al. 2, LCJ)
+
+<sup>1</sup> Le Service du casier judiciaire perçoit des émoluments de 17 francs pour l’établissement d’un extrait destiné aux particuliers ou d’un extrait spécial.
+
+<sup>2</sup> Si plusieurs extraits sont demandés pour la même personne, les émoluments sont de 17 francs par extrait.
+
+<sup>3</sup>
+
+Les émoluments sont majorés:
+
+- a. en cas d’envoi recommandé: de 5 francs par envoi;
+- b. en cas d’envoi par un service d’expédition à l’étranger: de 40 francs par envoi;
+- c. en cas de légalisation de l’extrait par la Chancellerie fédérale: pour chaque extrait, des émoluments prévus à l’art. 18 de l’ordonnance du 10 septembre 1969 sur les frais et indemnités en procédure administrative[^54-1].
+
+<sup>4</sup> Tous les autres débours sont inclus dans le montant des émoluments, notamment les frais afférents aux prestations de tiers, ceux liés au trafic des paiements et au recouvrement, les frais de transmission et de communication et le coût de l’exécution des demandes.
+
+<sup>5</sup> Les émoluments versés ne sont pas remboursés.
+
+<sup>6</sup> Les dispositions de l’ordonnance générale du 8 septembre 2004 sur les émoluments[^54-2] s’appliquent au demeurant.
+
+[^54-1]: [RS 172.041.0](https://fedlex.data.admin.ch/eli/cc/1969/760_780_777)
+[^54-2]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+
+### Section 4 Communication automatique de données du casier judiciaire à des autorités
+
+#### Art. 55
+
+**Communication au Groupement Défense**
+
+(art. 59 LCJ)
+
+<sup>1</sup> Le système d’information sur le personnel de l’armée et de la protection civile (SIPA) communique chaque jour à VOSTRA, via une interface électronique, la liste actualisée des numéros AVS des conscrits, des militaires et des personnes astreintes à la protection civile.
+
+<sup>2</sup>
+
+Sur la base de cette liste, VOSTRA signale chaque jour au SIPA via l’interface, sous forme de données structurées, les jugements, décisions ultérieures et procédures pénales en cours nouvellement saisis ou modifiés qui doivent être communiqués en vertu de l’art. 59, al. 1, LCJ, soit les données suivantes:
+
+- a. pour les jugements: les données qui peuvent être consultées en ligne sur l’extrait 2 destiné aux autorités selon l’annexe 2, à l’exception des données enregistrées dans la rubrique «informations complémentaires» (annexe 2, ch. 1.9) et des copies électroniques des formulaires de communication étrangers (annexe 2, ch. 4.2);
+- b. pour les décisions ultérieures: les données qui peuvent être consultées en ligne sur l’extrait 2 destiné aux autorités selon l’annexe 3, à l’exception des données enregistrées dans la rubrique «informations complémentaires» (annexe 3, ch. 1.6) et des copies électroniques des formulaires de communication étrangers (annexe 3, ch. 1.7.2);
+- c. pour les procédures pénales en cours: les données qui peuvent être consultées en ligne sur l’extrait 2 destiné aux autorités selon l’annexe 4, à l’exception des données enregistrées dans la rubrique «informations complémentaires» (annexe 4, ch. 1.4) et des notes à la direction de la procédure (annexe 4, ch. 3).
+- <sup>3</sup> La personne concernée est identifiée uniquement par son numéro AVS dans les communications au SIPA.
+
+#### Art. 56
+
+**Communication aux autorités compétentes en matière de circulation routière**
+
+(art. 60 LCJ)
+
+<sup>1</sup> VOSTRA signale chaque jour au Service du casier judiciaire les jugements suisses dans lesquels est prononcée une interdiction de conduire au sens de l’art. 67*e* CP[^56-1] ou de l’art. 50*e* CPM[^56-2], lorsque cette interdiction est nouvellement saisie ou modifiée.
+
+<sup>2</sup> La communication apparaît dans VOSTRA au même endroit que les avis générés par le système visés à l’art. 25.
+
+<sup>3</sup>
+
+Elle comprend les données suivantes:
+
+- a. les données visées à l’annexe 5, ch. 1;
+- b. les données relatives aux jugements concernés qui figurent sur l’extrait 3 destiné aux autorités au format PDF (annexe 2), à l’exception de la date à laquelle les jugements devraient cesser de figurer sur les extraits (annexe 2, ch. 5.3) et des copies électroniques des formulaires de communication étrangers (annexe 2, ch. 4.2.1).
+
+<sup>4</sup> Le Service du casier judiciaire transmet la communication manuellement et sans délai aux autorités compétentes en matière de circulation routière du canton de domicile de la personne sous le coup d’une interdiction de conduire.
+
+<sup>5</sup>
+
+Si la personne concernée n’a pas de domicile en Suisse, il transmet la communication:
+
+- a. lorsque le jugement a été rendu par une autorité civile de droit pénal: aux autorités compétentes en matière de circulation routière du canton où est située cette autorité;
+- b. lorsque le jugement a été rendu par une autorité militaire de droit pénal: à l’autorité compétente en matière de circulation routière du canton où est situé le service de coordination de la justice militaire.
+
+[^56-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^56-2]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+
+#### Art. 57
+
+**Communication des confiscations**
+
+(art. 61 LCJ)
+
+<sup>1</sup> VOSTRA signale au Service du casier judiciaire les confiscations nouvellement saisies par un avis généré par le système au sens de l’art. 25, al. 1, let. i.
+
+<sup>2</sup> Le Service du casier judiciaire communique les copies des jugements manuellement et sans délai au service chargé du partage des valeurs patrimoniales confisquées.
+
+#### Art. 58
+
+**Communication aux services cantonaux des migrations**
+
+(art. 62, al. 1, LCJ)
+
+<sup>1</sup> VOSTRA signale chaque jour au Service du casier judiciaire les jugements et procédures pénales en cours suisses nouvellement saisis à l’encontre d’un étranger domicilié en Suisse.
+
+<sup>2</sup> La communication apparaît dans VOSTRA au même endroit que les avis générés par le système au sens de l’art. 25.
+
+<sup>3</sup>
+
+Elle est au format PDF et comprend les données suivantes:
+
+- a. les données visées à l’annexe 5, ch. 1;
+- b. le numéro AVS;
+- c. pour les jugements: les données relatives aux jugements concernés qui figurent sur l’extrait 2 destiné aux autorités au format PDF (annexe 2), à l’exception de la date à laquelle les jugements devraient cesser de figurer sur les extraits (annexe 2, ch. 5.2);
+- d. pour les procédures pénales en cours: les données relatives aux procédures concernées qui figurent sur l’extrait 2 destiné aux autorités au format PDF (annexe 4).
+
+<sup>4</sup> Le Service du casier judiciaire transmet la communication manuellement et sans délai au service des migrations du canton de domicile de la personne concernée.
+
+#### Art. 59
+
+**Communication au SEM**
+
+<sup>bis</sup> (art. 62, al. 1, LCJ)
+
+VOSTRA communique chaque jour au SYMIC, via une interface électronique, les données suivantes concernant les étrangers, sous forme de données structurées:
+
+- a. pour tout jugement suisse nouvellement saisi ou modifié au sens de l’art. 62, al. 1<sup>bis</sup>, let. a et f, LCJ: les données relatives au jugement concerné selon l’annexe 2 qui peuvent être consultées en ligne sur l’extrait 2 destiné aux autorités, à l’exception des données enregistrées dans la rubrique «informations complémentaires» (annexe 2, ch. 1.9);
+- b. pour toute procédure pénale en cours nouvellement saisie ou modifiée au sens de l’art. 62, al. 1<sup>bis</sup>, let. b et f, LCJ: les données relatives à la procédure pénale en cours concernée selon l’annexe 4 qui peuvent être consultées en ligne sur l’extrait 2 destiné aux autorités, à l’exception des données enregistrées dans la rubrique «informations complémentaires» (annexe 4, ch. 1.4) et des notes à la direction de la procédure (annexe 4, ch. 3);
+- c. pour toute donnée nouvellement saisie ou modifiée relative à l’exécution d’une expulsion au sens de l’art. 62, al. 1<sup>bis</sup>, let. c et f, LCJ: les données visées à l’annexe 2, ch. 3.4.5.2 et 3.4.5.3;
+- d. pour toute décision ultérieure nouvellement saisie ou modifiée relative à une expulsion au sens de l’art. 62, al. 1<sup>bis</sup>, let. d, e et f, LCJ: les indications générales qui peuvent être consultées en ligne sur l’extrait 2 destiné aux autorités (annexe 3, ch. 1.1 à 1.5);
+- e. le numéro AVS comme seule donnée d’identification concernant les communications visées aux let. a à d.
+
+#### Art. 60
+
+**Communication aux offices cantonaux des armes**
+
+(art. 63 LCJ)
+
+<sup>1</sup> Le système d’information harmonisé relatif à l’acquisition et à la possession d’armes à feu visé à l’art. 32*a*, al. 3, de la loi du 20 juin 1997 sur les armes (LArm)[^60-1] communique chaque jour à VOSTRA, via une interface électronique, la liste actualisée des numéros AVS des personnes qui y sont enregistrées, avec pour chacune de ces personnes le canton dont les offices des armes traitent des données la concernant.
+
+<sup>2</sup>
+
+VOSTRA signale chaque jour aux offices cantonaux des armes compétents, via une interface électronique avec leurs systèmes d’information visés à l’art. 32*a*, al. 2, LArm, les jugements et les procédures pénales en cours nouvellement saisis ou modifiés à l’encontre des personnes de la liste visée à l’al. 1, soit les données suivantes:
+
+- a.
+
+  pour les jugements qui doivent être communiqués:
+
+  - 1\. sous forme de données structurées, les données au sens de l’annexe 2 qui peuvent être consultées en ligne sur l’extrait 1 destiné aux autorités, à l’exception des données enregistrées dans la rubrique «informations complémentaires» (annexe 2, ch. 1.9), des données relatives au temps pendant lequel une interdiction ne court pas (annexe 2, ch. 3.4.4.2.3) et des copies électroniques (annexe 2, ch. 4),
+  - 2\. au format PDF, les données au sens de l’annexe 2 qui peuvent être consultées sur l’extrait 1 destiné aux autorités au format PDF, à l’exception de la date prévue pour l’élimination (annexe 2, ch. 5.1) et des copies électroniques (annexe 2, ch. 4);
+
+- b.
+
+  pour les procédures pénales en cours qui doivent être communiquées:
+
+  - 1\. sous forme de données structurées, les données qui peuvent être consultées en ligne sur l’extrait 1 destiné aux autorités au sens de l’annexe 4, à l’exception des données enregistrées dans la rubrique «informations complémentaires» (annexe 4, ch. 1.4) et des notes à la direction de la procédure (annexe 4, ch. 3),
+  - 2\. au format PDF, les données qui peuvent être consultées sur l’extrait 1 destiné aux autorités au format PDF au sens de l’annexe 4;
+
+- c.
+
+  pour les données d’identification qui sont associées aux données visées aux let. a et b:
+
+  - 1\. sous forme de données structurées, le numéro AVS consultable en ligne sur l’extrait 1 destiné aux autorités au sens de l’annexe 1, ch. 1.1.1,
+  - 2\. au format PDF, les données qui figurent sur l’extrait 1 destiné aux autorités au format PDF au sens de l’annexe 1, à l’exception des notes à usage interne (annexe 1, ch. 2), mais numéro AVS compris (annexe 1, ch. 1.1.1).
+
+[^60-1]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+
+#### Art. 61
+
+**Communication à l’État d’origine**
+
+(art. 64 LCJ)
+
+<sup>1</sup> VOSTRA signale chaque jour au Service du casier judiciaire les jugements et décisions ultérieures rendus en Suisse à l’encontre d’étrangers qui ont été saisis dans les deux semaines précédentes. Il émet une communication par jugement ou par décision ultérieure.
+
+<sup>2</sup> Toutes les communications du jour apparaissent dans VOSTRA dans un fichier unique au format PDF, classées par État, au même endroit que les avis générés par le système au sens de l’art. 25.
+
+<sup>3</sup>
+
+La communication comprend les données suivantes:
+
+- a. les données visées à l’annexe 5, ch. 1;
+- b. pour les jugements qui doivent être communiqués: les données au sens de l’annexe 2 qui figurent sur l’extrait 1 destiné aux autorités au format PDF, à l’exception de la date prévue pour l’élimination (annexe 2, ch. 5.1), des copies électroniques (annexe 2, ch. 4.1) et des infractions qui ne doivent pas être communiquées selon l’art. 64, al. 2, LCJ;
+- c.
+
+  pour les décisions ultérieures qui doivent être communiquées:
+
+  - 1\. les données au sens de l’annexe 3 qui figurent sur l’extrait 1 destiné aux autorités au format PDF, à l’exception des copies électroniques (annexe 3, ch. 1.7.1),
+  - 2\. les données visées à la let. b et relatives au jugement auquel se rapporte la nouvelle décision ultérieure,
+  - 3\. les données visées au ch. 1 et relatives aux autres décisions ultérieures qui ont déjà été saisies dans VOSTRA en rapport avec le jugement au sens du ch. 2.
+
+<sup>4</sup> L’autorité compétente de l’État d’origine peut indiquer si elle doit recevoir les communications en allemand, français ou italien.
+
+<sup>5</sup> Le Service du casier judiciaire transmet manuellement, chaque mois au moins, les communications à l’autorité compétente de l’État d’origine.
+
+## Chapitre 7 Communication des décès à VOSTRA
+
+(art. 66 LCJ)
+
+#### Art. 62
+
+<sup>1</sup> Le registre de l’état civil communique les décès à VOSTRA via l’interface électronique entre l’UPI et VOSTRA.
+
+<sup>2</sup> La totalité du dossier de la personne concernée est éliminée automatiquement de VOSTRA après l’enregistrement automatique de la date du décès.
+
+## Chapitre 8 Dispositions finales
+
+#### Art. 63
+
+**Abrogation et modification d’autres actes**
+
+L’abrogation et la modification d’autres actes sont réglées dans l’annexe 10.
+
+#### Art. 64
+
+**Entrée en vigueur**
+
+La présente ordonnance entre en vigueur le 23 janvier 2023.
+
+<table>
+<tr><td>19 octobre 2022</td><td>Au nom du Conseil fédéral suisse: Le président de la Confédération, Ignazio Cassis Le chancelier de la Confédération, Walter Thurnherr</td></tr>
+</table>
+
+Annexe 1
+
+(Art. 15, 24, let. a, 45, al. 1, et 47)
+
+## Catégories et champs de données d’identification, selon le profil de consultation (avec données pénales)
+
+**Extrait 1** = champ de données figurant sur l’extrait 1 destiné aux autorités
+
+**Extraits 1 à 4** = champ de données figurant sur les extraits 1, 2, 3 et 4 destinés aux autorités
+
+**Extrait P** = champ de données figurant sur l’extrait destiné aux particuliers
+
+**Extrait S** = champ de données figurant sur l’extrait spécial destiné aux particuliers
+
+**Tous les extraits** = champ de données figurant sur tous les extraits (extraits 1 à 4, extrait destiné aux particuliers et extrait spécial)
+
+**Aucun extrait** = champ de données ne figurant pas sur les extraits imprimés
+
+**X** = oui
+
+— = non
+
+<table>
+<tr><th>**Données d’identification (art. 15)**</th><th>**Données système** générées automatiquement (à partir d’autres données) (art. 24, let. a)</th><th>**Données** figurant sur les extraits destinés aux autorités **consultés** **en ligne** (art. 45, al. 1)</th><th>**Données** figurant sur les extraits (imprimés) **au** **format PDF** (art. 45, al. 1)</th></tr>
+<tr><td>1. **Identité principale:** (identité attribuée à une personne, par laquelle elle est principalement identifiée)</td><td></td><td></td><td></td></tr>
+<tr><td>1.1 Attributs principaux (soit les attributs contenus dans l’UPI):</td><td></td><td></td><td></td></tr>
+<tr><td>1.1.1 N<sup>o</sup> AVS ou statut de l’attribution du n<sup>o</sup> AVS, soit: attribution demandée ou attribution refusée</td><td>X</td><td>Extraits 1 à 4</td><td>Aucun extrait</td></tr>
+<tr><td>1.1.2 Nom</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>1.1.3 Prénoms</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>1.1.4 Date de naissance</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>1.1.5 Sexe</td><td>—</td><td>Extraits 1 à 4</td><td>Extraits 1 à 4</td></tr>
+<tr><td>1.1.6 Nationalité (principale)</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits (extraits P et S: telle qu’elle figure sur la demande)</td></tr>
+<tr><td>1.1.7 Autre nationalité</td><td>—</td><td>Extraits 1 à 4</td><td>Extraits 1 à 4</td></tr>
+<tr><td>1.1.8 Nom de célibataire</td><td>—</td><td>Extraits 1 à 4</td><td>Extraits 1 à 4</td></tr>
+<tr><td>1.1.9 État de naissance</td><td>—</td><td>Extraits 1 à 4</td><td>Extraits 1 à 4</td></tr>
+<tr><td>1.1.10 Lieu de naissance</td><td>—</td><td>Extraits 1 à 4</td><td>Extraits 1 à 4</td></tr>
+<tr><td>1.1.11 Nom de la mère</td><td>—</td><td>Extraits 1 à 4</td><td>Extraits 1 à 4</td></tr>
+<tr><td>1.1.12 Prénoms de la mère</td><td>—</td><td>Extraits 1 à 4</td><td>Extraits 1 à 4</td></tr>
+<tr><td>1.1.13 Nom du père</td><td>—</td><td>Extraits 1 à 4</td><td>Extraits 1 à 4</td></tr>
+<tr><td>1.1.14 Prénoms du père</td><td>—</td><td>Extraits 1 à 4</td><td>Extraits 1 à 4</td></tr>
+<tr><td>1.2 Attributs complémentaires:</td><td></td><td></td><td></td></tr>
+<tr><td>1.2.1 Pour les ressortissants suisses: lieu(x) d’origine</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>1.2.2 État de domicile</td><td>—</td><td>Extraits 1 à 4</td><td>Extraits 1 à 4</td></tr>
+<tr><td>1.2.3 Lieu de domicile</td><td>—</td><td>Extraits 1 à 4</td><td>Extraits 1 à 4</td></tr>
+<tr><td>1.2.4 Nationalité supplémentaire</td><td>—</td><td>Extraits 1 à 4</td><td>Aucun extrait</td></tr>
+<tr><td>1.2.5 Pour les non-ressortissants suisses: catégorie d’étranger</td><td>—</td><td>Extraits 1 à 4</td><td>Extraits 1 à 4</td></tr>
+<tr><td>1.3 Source des données (source d’où proviennent les principaux attributs de l’identité principale):</td><td></td><td></td><td></td></tr>
+<tr><td>1.3.1 Source de données manuelle</td><td>—</td><td>Extraits 1 à 4</td><td>Extraits 1 à 4</td></tr>
+<tr><td>1.3.2 Source de données automatique</td><td>X</td><td>Extraits 1 à 4</td><td>Extraits 1 à 4</td></tr>
+<tr><td>1.4 Informations complémentaires:</td><td></td><td></td><td></td></tr>
+<tr><td>1.4.1 ID du dossier et PSN repris de l’ancien système VOSTRA</td><td>X</td><td>Extraits 1 à 4</td><td>ID du dossier: extraits 1 à 4 PSN: aucun extrait</td></tr>
+<tr><td>1.4.2 Numéro attribué par le système à l’identité principale et PSS de l’identité principale repris de l’ancien système VOSTRA</td><td>X</td><td>Extraits 1 à 4</td><td>Aucun extrait</td></tr>
+<tr><td>1.4.3 Indications sur la première saisie (informations sur le premier enregistrement de l’identité principale):</td><td></td><td></td><td></td></tr>
+<tr><td>1.4.3.1 Date et heure</td><td>X</td><td>Extraits 1 à 4</td><td>Aucun extrait</td></tr>
+<tr><td>1.4.3.2 Utilisateur soit son numéro d’utilisateur, ses nom et prénoms et son numéro de téléphone ou code du système qui a déclenché le traitement de données</td><td>X</td><td>Extraits 1 à 4</td><td>Aucun extrait</td></tr>
+<tr><td>1.4.4 Indications sur la dernière modification (informations sur la dernière modification d’un champ de données de l’identité principale):</td><td></td><td></td><td></td></tr>
+<tr><td>1.4.4.1 Date et heure</td><td>X</td><td>Extraits 1 à 4</td><td>Aucun extrait</td></tr>
+<tr><td>1.4.4.2 Utilisateur soit son numéro d’utilisateur, ses nom et prénoms et son numéro de téléphone ou code du système qui a déclenché le traitement de données</td><td>X</td><td>Extraits 1 à 4</td><td>Aucun extrait</td></tr>
+<tr><td>1.4.5 Autorité ayant fait la première saisie soit sa désignation</td><td>X</td><td>Extraits 1 à 4</td><td>Aucun extrait</td></tr>
+<tr><td>1.4.6 Date probable de l’élimination des données de l’extrait 1 (identique à l’indication visée à l’annexe 2, ch. 5.1) soit la date ou l’indication que le calcul n’est pas encore possible ou l’indication que les données seront éliminées dès que la personne concernée sera réputée décédée</td><td>X</td><td>Extrait 1</td><td>En tant qu’élément de l’identité principale: aucun extrait (dépend des règles applicables au jugement selon l’annexe 2, ch. 5.1)</td></tr>
+<tr><td>1.4.7 Autres données concernant le calcul des délais (données visant à retracer les étapes du calcul) Liste des jugements comprenant la date du jugement, l’autorité qui l’a rendu, le numéro de dossier et les indications suivantes:</td><td></td><td></td><td></td></tr>
+<tr><td>1.4.7.1 Date à laquelle le jugement devrait cesser de figurer sur les extraits soit la date ou l’indication que le calcul n’est pas encore possible ou l’indication que les données ne figureront plus sur les extraits dès que la personne concernée sera réputée décédée:</td><td></td><td></td><td></td></tr>
+<tr><td>1.4.7.1.1 Date à laquelle il cesserait de figurer sur l’extrait 1 s’il n’y avait que ce jugement («délai intermédiaire de l’extrait 1»)</td><td>X</td><td>Extrait 1</td><td>Aucun extrait</td></tr>
+<tr><td>1.4.7.1.2 Date à laquelle il devrait cesser de figurer sur l’extrait 2 (identique à l’indication visée à l’annexe 2, ch. 5.2)</td><td>X</td><td>Extrait 1</td><td>En tant qu’élément de l’identité principale: aucun extrait (dépend des règles applicables au jugement selon l’annexe 2, ch. 5.2)</td></tr>
+<tr><td>1.4.7.1.3 Date à laquelle il devrait cesser de figurer sur l’extrait 3 (identique à l’indication visée à l’annexe 2, ch. 5.3)</td><td>X</td><td>Extrait 1</td><td>En tant qu’élément de l’identité principale: aucun extrait (dépend des règles applicables au jugement selon l’annexe 2, ch. 5.3)</td></tr>
+<tr><td>1.4.7.1.4 Date à laquelle il devrait cesser de figurer sur l’extrait 4 (identique à l’indication visée à l’annexe 2, ch. 5.4)</td><td>X</td><td>Extrait 1</td><td>En tant qu’élément de l’identité principale: aucun extrait (dépend des règles applicables au jugement selon l’annexe 2, ch. 5.4)</td></tr>
+<tr><td>1.4.7.1.5 Date à laquelle il devrait cesser de figurer sur l’extrait destiné aux particuliers (identique à l’indication visée à l’annexe 2, ch. 5.5)</td><td>X</td><td>Extrait 1</td><td>En tant qu’élément de l’identité principale: aucun extrait (dépend des règles applicables au jugement selon l’annexe 2, ch. 5.5)</td></tr>
+<tr><td>1.4.7.1.6 Le cas échéant, date à laquelle il devrait cesser de figurer sur l’extrait spécial (identique à l’indication visée à l’annexe 2, ch. 5.6)</td><td>X</td><td>Extrait 1</td><td>En tant qu’élément de l’identité principale: aucun extrait (dépend des règles applicables au jugement selon l’annexe 2, ch. 5.6)</td></tr>
+<tr><td>1.4.7.2 Indication de la règle de calcul des délais pendant lesquels les données figureront sur les extraits selon le ch. 1.4.7.1 avec référence au diagramme prévu par le concept du produit informatique:</td><td></td><td></td><td></td></tr>
+<tr><td>1.4.7.2.1 Pour l’extrait 1</td><td>X</td><td>Extrait 1</td><td>Aucun extrait</td></tr>
+<tr><td>1.4.7.2.2 Pour l’extrait 2</td><td>X</td><td>Extrait 1</td><td>Aucun extrait</td></tr>
+<tr><td>1.4.7.2.3 Pour l’extrait 3</td><td>X</td><td>Extrait 1</td><td>Aucun extrait</td></tr>
+<tr><td>1.4.7.2.4 Pour l’extrait 4</td><td>X</td><td>Extrait 1</td><td>Aucun extrait</td></tr>
+<tr><td>1.4.7.2.5 Pour l’extrait destiné aux particuliers</td><td>X</td><td>Extrait 1</td><td>Aucun extrait</td></tr>
+<tr><td>1.4.7.2.6 Pour l’extrait spécial, si c’est possible</td><td>X</td><td>Extrait 1</td><td>Aucun extrait</td></tr>
+<tr><td>1.4.7.3 Liste des interdictions d’exercer une activité, des interdictions de contact et des interdictions géographiques prononcées dans le jugement ou dans une décision ultérieure se rapportant au jugement, soit le type d’interdiction et les données suivantes:</td><td></td><td></td><td></td></tr>
+<tr><td>1.4.7.3.1 Début de l’interdiction pertinent pour le calcul soit la date d’entrée en force visée à l’annexe 2, ch. 3.4.4.2.2 ou la nouvelle date pertinente pour le calcul visée à l’annexe 2, ch. 3.4.4.2.4</td><td>X</td><td>Extrait 1</td><td>En tant qu’élément de l’identité principale: aucun extrait (dépend des règles applicables au jugement selon l’annexe 2, ch. 3.4.4.2.2 et 3.4.4.2.4)</td></tr>
+<tr><td>1.4.7.3.2 Temps pendant lequel l’interdiction ne court pas, visé à l’annexe 2, ch. 3.4.4.2.3 soit la date de début et de fin de l’exécution (le cas échéant)</td><td>X</td><td>Extrait 1</td><td>Aucun extrait</td></tr>
+<tr><td>1.4.7.3.3 Date probable de la fin de l’interdiction, visée à l’annexe 2, ch. 3.4.4.2.5 soit la date à laquelle l’interdiction n’aura plus effet compte tenu de toutes les informations disponibles</td><td>X</td><td>Extrait 1</td><td>En tant qu’élément de l’identité principale: aucun extrait (dépend des règles applicables au jugement selon l’annexe 2, ch. 3.4.4.2.5)</td></tr>
+<tr><td>2. **Notes à usage interne concernant l’identification des personnes:** (visant à éviter des confusions entre personnes)</td><td></td><td></td><td></td></tr>
+<tr><td>2.1 Mention standard</td><td>—</td><td>Extraits 1 à 4</td><td>Extraits 1 à 4</td></tr>
+<tr><td>2.2 Ajout sous forme de champ de texte</td><td>—</td><td>Extraits 1 à 4</td><td>Extraits 1 à 4</td></tr>
+<tr><td>2.3 Informations complémentaires:</td><td></td><td></td><td></td></tr>
+<tr><td>2.3.1 Numéro attribué par le système aux notes à usage interne</td><td>X</td><td>Extraits 1 à 4</td><td>Aucun extrait</td></tr>
+<tr><td>2.3.2 Indications sur la première saisie (information sur le premier enregistrement de la note à usage interne):</td><td></td><td></td><td></td></tr>
+<tr><td>2.3.2.1 Date et heure</td><td>X</td><td>Extraits 1 à 4</td><td>Aucun extrait</td></tr>
+<tr><td>2.3.2.2 Utilisateur soit son numéro d’utilisateur, ses nom et prénoms et son numéro de téléphone ou code du système qui a déclenché le traitement de données</td><td>X</td><td>Extraits 1 à 4</td><td>Aucun extrait</td></tr>
+<tr><td>2.3.3 Indications sur la dernière modification (informations sur la dernière modification d’un champ de données de la note à usage interne):</td><td></td><td></td><td></td></tr>
+<tr><td>2.3.3.1 Date et heure</td><td>X</td><td>Extraits 1 à 4</td><td>Aucun extrait</td></tr>
+<tr><td>2.3.3.2 Utilisateur soit son numéro d’utilisateur, ses nom et prénoms et son numéro de téléphone ou code du système qui a déclenché le traitement de données</td><td>X</td><td>Extraits 1 à 4</td><td>Aucun extrait</td></tr>
+<tr><td>2.3.4 Autorité ayant fait la première saisie soit sa désignation</td><td>X</td><td>Extraits 1 à 4</td><td>Aucun extrait</td></tr>
+<tr><td>3. **Anciennes identités:** (identités sous lesquelles la personne a été identifiée dans le passé)</td><td></td><td></td><td></td></tr>
+<tr><td>3.1 Attributs de l’ancienne identité:</td><td></td><td></td><td></td></tr>
+<tr><td>3.1.1 Nom</td><td>—</td><td>Extraits 1 à 4</td><td>Extraits 1 à 4</td></tr>
+<tr><td>3.1.2 Prénoms</td><td>—</td><td>Extraits 1 à 4</td><td>Extraits 1 à 4</td></tr>
+<tr><td>3.1.3 Date de naissance</td><td>—</td><td>Extraits 1 à 4</td><td>Extraits 1 à 4</td></tr>
+<tr><td>3.1.4 Sexe</td><td>—</td><td>Extraits 1 à 4</td><td>Aucun extrait</td></tr>
+<tr><td>3.1.5. Nationalité (principale)</td><td>—</td><td>Extraits 1 à 4</td><td>Aucun extrait</td></tr>
+<tr><td>3.1.6 Autre nationalité</td><td>—</td><td>Extraits 1 à 4</td><td>Aucun extrait</td></tr>
+<tr><td>3.1.7 Nom de célibataire</td><td>—</td><td>Extraits 1 à 4</td><td>Aucun extrait</td></tr>
+<tr><td>3.1.8 État de naissance</td><td>—</td><td>Extraits 1 à 4</td><td>Aucun extrait</td></tr>
+<tr><td>3.1.9 Lieu de naissance</td><td>—</td><td>Extraits 1 à 4</td><td>Aucun extrait</td></tr>
+<tr><td>3.1.10 Nom de la mère</td><td>—</td><td>Extraits 1 à 4</td><td>Aucun extrait</td></tr>
+<tr><td>3.1.11 Prénoms de la mère</td><td>—</td><td>Extraits 1 à 4</td><td>Aucun extrait</td></tr>
+<tr><td>3.1.12 Nom du père</td><td>—</td><td>Extraits 1 à 4</td><td>Aucun extrait</td></tr>
+<tr><td>3.1.13 Prénoms du père</td><td>—</td><td>Extraits 1 à 4</td><td>Aucun extrait</td></tr>
+<tr><td>3.2 Source des données (source d’où proviennent les principaux attributs de l’ancienne identité):</td><td></td><td></td><td></td></tr>
+<tr><td>3.2.1 Source de données manuelle</td><td>—</td><td>Extraits 1 à 4</td><td>Aucun extrait</td></tr>
+<tr><td>3.2.2 Source de données automatique</td><td>X</td><td>Extraits 1 à 4</td><td>Aucun extrait</td></tr>
+<tr><td>3.3 Informations complémentaires:</td><td></td><td></td><td></td></tr>
+<tr><td>3.3.1 Numéro attribué par le système à l’ancienne identité et PSS repris de l’ancien système VOSTRA</td><td>X</td><td>Extraits 1 à 4</td><td>Aucun extrait</td></tr>
+<tr><td>3.3.2 Indications sur la première saisie (informations sur le premier enregistrement de l’ancienne identité):</td><td></td><td></td><td></td></tr>
+<tr><td>3.3.2.1 Date et heure</td><td>X</td><td>Extraits 1 à 4</td><td>Aucun extrait</td></tr>
+<tr><td>3.3.2.2 Utilisateur soit son numéro d’utilisateur, ses nom et prénoms et son numéro de téléphone ou code du système qui a déclenché le traitement de données</td><td>X</td><td>Extraits 1 à 4</td><td>Aucun extrait</td></tr>
+<tr><td>3.3.3 Indications sur la dernière modification (informations sur la dernière modification d’un champ de données de l’ancienne identité):</td><td></td><td></td><td></td></tr>
+<tr><td>3.3.3.1 Date et heure</td><td>X</td><td>Extraits 1 à 4</td><td>Aucun extrait</td></tr>
+<tr><td>3.3.3.2 Utilisateur soit son numéro d’utilisateur, ses nom et prénoms et son numéro de téléphone ou code du système qui a déclenché le traitement de données</td><td>X</td><td>Extraits 1 à 4</td><td>Aucun extrait</td></tr>
+<tr><td>3.3.4 Autorité ayant fait la première saisie soit sa désignation</td><td>X</td><td>Extraits 1 à 4</td><td>Aucun extrait</td></tr>
+<tr><td>4. **Identités secondaires:** (autres identités qui ne peuvent pas être classées parmi les identités définies aux ch. 1, 3 et 5)</td><td></td><td></td><td></td></tr>
+<tr><td>4.1 Attributs de l’identité secondaire:</td><td></td><td></td><td></td></tr>
+<tr><td>4.1.1 Nom</td><td>—</td><td>Extraits 1 à 4</td><td>Extraits 1 à 4</td></tr>
+<tr><td>4.1.2 Prénoms</td><td>—</td><td>Extraits 1 à 4</td><td>Extraits 1 à 4</td></tr>
+<tr><td>4.1.3 Date de naissance</td><td>—</td><td>Extraits 1 à 4</td><td>Extraits 1 à 4</td></tr>
+<tr><td>4.1.4 Sexe</td><td>—</td><td>Extraits 1 à 4</td><td>Aucun extrait</td></tr>
+<tr><td>4.1.5 Nationalité (principale)</td><td>—</td><td>Extraits 1 à 4</td><td>Aucun extrait</td></tr>
+<tr><td>4.1.6 Autre nationalité</td><td>—</td><td>Extraits 1 à 4</td><td>Aucun extrait</td></tr>
+<tr><td>4.1.7 Nom de célibataire</td><td>—</td><td>Extraits 1 à 4</td><td>Aucun extrait</td></tr>
+<tr><td>4.1.8 État de naissance</td><td>—</td><td>Extraits 1 à 4</td><td>Aucun extrait</td></tr>
+<tr><td>4.1.9 Lieu de naissance</td><td>—</td><td>Extraits 1 à 4</td><td>Aucun extrait</td></tr>
+<tr><td>4.1.10 Nom de la mère</td><td>—</td><td>Extraits 1 à 4</td><td>Aucun extrait</td></tr>
+<tr><td>4.1.11 Prénoms de la mère</td><td>—</td><td>Extraits 1 à 4</td><td>Aucun extrait</td></tr>
+<tr><td>4.1.12 Nom du père</td><td>—</td><td>Extraits 1 à 4</td><td>Aucun extrait</td></tr>
+<tr><td>4.1.13 Prénoms du père</td><td>—</td><td>Extraits 1 à 4</td><td>Aucun extrait</td></tr>
+<tr><td>4.2. Source des données (source d’où proviennent les principaux attributs de l’identité secondaire):</td><td></td><td></td><td></td></tr>
+<tr><td>4.2.1 Source de données manuelle</td><td>—</td><td>Extraits 1 à 4</td><td>Aucun extrait</td></tr>
+<tr><td>4.2.2 Source de données automatique</td><td>X</td><td>Extraits 1 à 4</td><td>Aucun extrait</td></tr>
+<tr><td>4.3 Informations complémentaires:</td><td></td><td></td><td></td></tr>
+<tr><td>4.3.1 Numéro attribué par le système à l’identité secondaire et PSS de l’identité secondaire repris de l’ancien système VOSTRA</td><td>X</td><td>Extraits 1 à 4</td><td>Aucun extrait</td></tr>
+<tr><td>4.3.2 Indications sur la première saisie (informations sur le premier enregistrement de l’identité secondaire):</td><td></td><td></td><td></td></tr>
+<tr><td>4.3.2.1 Date et heure</td><td>X</td><td>Extraits 1 à 4</td><td>Aucun extrait</td></tr>
+<tr><td>4.3.2.2 Utilisateur soit son numéro d’utilisateur, ses nom et prénoms et son numéro de téléphone ou code du système qui a déclenché le traitement de données</td><td>X</td><td>Extraits 1 à 4</td><td>Aucun extrait</td></tr>
+<tr><td>4.3.3 Indications sur la dernière modification (informations sur la dernière modification d’un champ de données de l’identité secondaire):</td><td></td><td></td><td></td></tr>
+<tr><td>4.3.3.1 Date et heure</td><td>X</td><td>Extraits 1 à 4</td><td>Aucun extrait</td></tr>
+<tr><td>4.3.3.2 Utilisateur soit son numéro d’utilisateur, ses nom et prénoms et son numéro de téléphone ou code du système qui a déclenché le traitement de données</td><td>X</td><td>Extraits 1 à 4</td><td>Aucun extrait</td></tr>
+<tr><td>4.3.4 Autorité ayant fait la première saisie soit sa désignation</td><td>X</td><td>Extraits 1 à 4</td><td>Aucun extrait</td></tr>
+<tr><td>5. **Fausses identités:** (identités fallacieuses que la personne a utilisées abusivement)</td><td></td><td></td><td></td></tr>
+<tr><td>5.1 Attributs de la fausse identité:</td><td></td><td></td><td></td></tr>
+<tr><td>5.1.1 Nom</td><td>—</td><td>Extraits 1 à 4</td><td>Extraits 1 à 4</td></tr>
+<tr><td>5.1.2 Prénoms</td><td>—</td><td>Extraits 1 à 4</td><td>Extraits 1 à 4</td></tr>
+<tr><td>5.1.3 Date de naissance</td><td>—</td><td>Extraits 1 à 4</td><td>Extraits 1 à 4</td></tr>
+<tr><td>5.2 Source des données (source d’où proviennent les principaux attributs de la fausse identité):</td><td></td><td></td><td></td></tr>
+<tr><td>5.2.1 Source de données manuelle</td><td>—</td><td>Extraits 1 à 4</td><td>Aucun extrait</td></tr>
+<tr><td>5.2.2 Source de données automatique</td><td>X</td><td>Extraits 1 à 4</td><td>Aucun extrait</td></tr>
+<tr><td>5.3. Informations complémentaires:</td><td></td><td></td><td></td></tr>
+<tr><td>5.3.1 Numéro attribué par le système à la fausse identité et PSS de la fausse identité repris de l’ancien système VOSTRA</td><td>X</td><td>Extraits 1 à 4</td><td>Aucun extrait</td></tr>
+<tr><td>5.3.2 Indications sur la première saisie (informations sur le premier enregistrement de la fausse identité):</td><td></td><td></td><td></td></tr>
+<tr><td>5.3.2.1 Date et heure</td><td>X</td><td>Extraits 1 à 4</td><td>Aucun extrait</td></tr>
+<tr><td>5.3.2.2 Utilisateur soit son numéro d’utilisateur, ses nom et prénoms et son numéro de téléphone ou code du système qui a déclenché le traitement de données</td><td>X</td><td>Extraits 1 à 4</td><td>Aucun extrait</td></tr>
+<tr><td>5.3.3 Indications sur la dernière modification (informations sur la dernière modification d’un champ de données de la fausse identité):</td><td></td><td></td><td></td></tr>
+<tr><td>5.3.3.1 Date et heure</td><td>X</td><td>Extraits 1 à 4</td><td>Aucun extrait</td></tr>
+<tr><td>5.3.3.2 Utilisateur soit son numéro d’utilisateur, ses nom et prénoms et son numéro de téléphone ou code du système qui a déclenché le traitement de données</td><td>X</td><td>Extraits 1 à 4</td><td>Aucun extrait</td></tr>
+<tr><td>5.3.4 Autorité ayant fait la première saisie soit sa désignation</td><td>X</td><td>Extraits 1 à 4</td><td>Aucun extrait</td></tr>
+<tr><td>6. **Numéros de contrôle de processus (PCN)** (soit les numéros utilisés pour marquer des données signalétiques lorsqu’un jugement ou une procédure pénale en cours est saisi dans VOSTRA)</td><td>—</td><td>Extraits 1 à 4</td><td>Aucun extrait</td></tr>
+</table>
+
+Annexe 2
+
+(Art. 21, 24, let. b, 45, al. 1, et 47)
+
+## Catégories et champs de données relatifs aux jugements qui doivent être saisis, selon le profil de consultation (sans les données d’identification)
+
+**Extrait 1** = champ de données figurant sur l’extrait 1 destiné aux autorités
+
+**Extrait 2** = champ de données figurant sur l’extrait 2 destiné aux autorités
+
+**Extrait 3** = champ de données figurant sur l’extrait 3 destiné aux autorités
+
+**Extrait 4** = champ de données figurant sur l’extrait 4 destiné aux autorités
+
+**Extraits 1 à 4** = champ de données figurant sur les extraits 1, 2, 3 et 4 destinés aux autorités
+
+**Extrait P** = champ de données figurant sur l’extrait destiné aux particuliers
+
+**Extrait S** = champ de données figurant sur l’extrait spécial destiné aux particuliers
+
+**Tous les extraits** = champ de données figurant sur tous les extraits (extraits 1 à 4, extrait destiné aux particuliers et extrait spécial)
+
+**Aucun extrait** = champ de données ne figurant pas sur les extraits imprimés
+
+**X** = oui
+
+— = non
+
+<table>
+<tr><th>**Jugements**</th><th>**Données système** générées automatiquement (à partir d’autres données) (art. 24, let. b)</th><th>**Données** figurant sur les extraits destinés aux autorités **consultés en ligne** (art. 45, al. 1)</th><th>**Données** figurant sur les extraits (imprimés) **au** **format PDF** (art. 45, al. 1)</th></tr>
+<tr><td>1. **Indications générales:**</td><td></td><td></td><td></td></tr>
+<tr><td>1.1 Date du jugement</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>1.2 Autorité qui a rendu le jugement</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>1.3 Numéro de dossier (numéro associé au jugement par l’autorité qui l’a rendu)</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>1.4 Date de notification</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>1.5 Date d’entrée en force</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>1.6 Pour les jugements de la justice militaire: canton d’exécution avec son abréviation</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>1.7 Indication «pas de type de procédure particulier» dans les cas autres que ceux visés au ch. 1.8</td><td>—</td><td>Extraits 1 à 4</td><td>Aucun extrait</td></tr>
+<tr><td>1.8 En cas de révision et de nouveau jugement, reprise de la procédure ou relevé de défaut à la suite de la procédure par défaut:</td><td></td><td></td><td></td></tr>
+<tr><td>1.8.1 Révision</td><td>—</td><td>Extraits 1 à 4</td><td>Aucun extrait</td></tr>
+<tr><td>1.8.2 Nouveau jugement, reprise de la procédure ou relevé de défaut à la suite de la procédure par défaut</td><td>—</td><td>Extraits 1 à 4</td><td>Aucun extrait</td></tr>
+<tr><td>1.8.3 Indications sur le jugement annulé soit date du jugement, autorité qui l’a rendu, date de notification et date d’entrée en force</td><td>—</td><td>Extraits 1 à 4</td><td>Aucun extrait</td></tr>
+<tr><td>1.9 Informations complémentaires:</td><td></td><td></td><td></td></tr>
+<tr><td>1.9.1 Indications sur la première saisie (informations sur le premier enregistrement des données structurées relatives au jugement):</td><td></td><td></td><td></td></tr>
+<tr><td>1.9.1.1 Date et heure</td><td>X</td><td>Extraits 1 à 4</td><td>Aucun extrait</td></tr>
+<tr><td>1.9.1.2 Utilisateur soit son numéro d’utilisateur, ses nom et prénoms et son numéro de téléphone</td><td>X</td><td>Extraits 1 à 4</td><td>Aucun extrait</td></tr>
+<tr><td>1.9.2 Indications sur la dernière modification (informations sur la dernière modification des données structurées relatives au jugement):</td><td></td><td></td><td></td></tr>
+<tr><td>1.9.2.1 Date et heure</td><td>X</td><td>Extraits 1 à 4</td><td>Aucun extrait</td></tr>
+<tr><td>1.9.2.2 Utilisateur soit son numéro d’utilisateur, ses nom et prénoms et son numéro de téléphone</td><td>X</td><td>Extraits 1 à 4</td><td>Aucun extrait</td></tr>
+<tr><td>1.10 Indication qu’un jugement qui remplit les critères de l’art. 25, al. 1, let. m et n, doit ou non figurer sur l’extrait 4 destiné aux autorités ou sur l’extrait destiné aux particuliers</td><td>—</td><td>— (visible seulement pour le Service du casier judiciaire)</td><td>Aucun extrait</td></tr>
+<tr><td>2. **Infractions:**</td><td></td><td></td><td></td></tr>
+<tr><td>2.1 Données relatives à l’infraction elle-même (données se référant à l’énoncé de fait légal):</td><td></td><td></td><td></td></tr>
+<tr><td>2.1.1 Abréviation de référence (abréviation spécifique à VOSTRA de la référence légale visée au ch. 2.1.2, servant à accélérer la saisie)</td><td>—</td><td>Extraits 1 à 4</td><td>Aucun extrait</td></tr>
+<tr><td>2.1.2 Référence légale (référence exacte à la disposition normative)</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>2.1.3 Désignation (expression désignant les faits constitutifs de l’infraction)</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>2.1.4 Durée de validité de la référence légale (à des fins de détermination de la version de l’article et de l’acte normatif auxquels il est fait référence) soit le début et la fin (le cas échéant) de la durée de validité de la disposition</td><td>—</td><td>Extraits 1 à 4</td><td>Aucun extrait</td></tr>
+<tr><td>2.1.5 Données relatives aux jugements étrangers (au lieu des données visées aux ch. 2.1.2 à 2.1.4 et 2.2):</td><td></td><td></td><td></td></tr>
+<tr><td>2.1.5.1 Mention «infraction à une loi étrangère» ou «infractions à une loi étrangère» avec renvoi à la copie du formulaire de communication reçu de l’étranger (ch. 4.2)</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>2.1.5.2 Indication de la catégorie de référence au sens de l’art. 19, al. 3 à 5 (pour les jugements saisis après l’entrée en vigueur de la LCJ)</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>2.2 Données relatives aux combinaisons possibles (sauf avec les données visées au ch. 2.1.5.1) (par ex. tentative, complicité, commission répétée):</td><td></td><td></td><td></td></tr>
+<tr><td>2.2.1 Abréviation de référence (abréviation spécifique à VOSTRA de la référence légale visée au ch. 2.2.2 ou de la désignation visée au ch. 2.2.3, servant à accélérer la saisie)</td><td>—</td><td>Extraits 1 à 4</td><td>Aucun extrait</td></tr>
+<tr><td>2.2.2 Référence légale (référence exacte à la disposition normative)</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>2.2.3 Désignation (expression désignant les faits constitutifs de l’infraction)</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>2.2.4 Durée de validité de la référence légale (à des fins de détermination de la version de l’article et de l’acte normatif auxquels il est fait référence) soit le début et la fin (le cas échéant) de la durée de validité de la disposition</td><td>—</td><td>Extraits 1 à 4</td><td>Aucun extrait</td></tr>
+<tr><td>2.3 Dates de l’infraction sous forme de date ou de plage de temps</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>2.4 Données sur le taux d’alcoolémie (pour toutes les infractions au droit de la circulation punies en cas de conduite en état d’ébriété) en ‰ ou en milligrammes</td><td>—</td><td>Extraits 1 à 4</td><td>Extraits 1 à 4</td></tr>
+<tr><td>3. **Sanctions:**</td><td></td><td></td><td></td></tr>
+<tr><td>3.1 Désignation de la sanction (expression désignant la sanction; avec la référence légale dans le cas des mesures)</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>3.2 Données qui doivent être saisies sous «sanctions» au sens du ch. 3.1 lorsque l’autorité renonce explicitement à une sanction:</td><td></td><td></td><td></td></tr>
+<tr><td>3.2.1 Indication «verdict de culpabilité sans peine» avec la référence légale du motif de l’exemption de peine</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>3.2.2 Exemption de toute peine complémentaire (voir ch. 3.6.1)</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>3.3 Données complémentaires relatives à des peines:</td><td></td><td></td><td></td></tr>
+<tr><td>3.3.1 En cas de privation de liberté: durée totale soit «à vie» ou nombre de jours, mois, années et heures</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>3.3.2 En cas de peine à caractère pécuniaire: montant total:</td><td></td><td></td><td></td></tr>
+<tr><td>3.3.2.1 Dans le cas d’une amende, montant et devise</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>3.3.2.2 Dans le cas d’une peine pécuniaire, nombre de jours-amendes, montant du jour-amende et devise</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>3.3.3 Conditionnalité de l’exécution de la peine soit ferme, avec sursis ou avec sursis partiel</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>3.3.4 En cas de sursis ou de sursis partiel: données relatives au délai d’épreuve:</td><td></td><td></td><td></td></tr>
+<tr><td>3.3.4.1 Date de début et durée (en jours, mois et années) du délai d’épreuve ou date de début et date de fin du délai d’épreuve</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>3.3.4.2 Autres mesures accessoires au sursis soit assistance de probation, personne d’accompagnement, règles de conduite ou traitement ambulatoire</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>3.3.5 En cas de sursis partiel: quotité de la partie de la peine avec sursis (comme aux ch. 3.3.1 et 3.3.2)</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>3.3.6 En cas d’amende: peine privative de liberté de substitution prononcée dans le jugement et sa durée totale au sens du ch. 3.3.1</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>3.3.7 En cas de réprimande qualifiée au sens de l’art. 22, al. 1, DPMin[^annex2-lvlu1-1]: données relatives au délai d’épreuve au sens du ch. 3.3.4.1 et indication de la désignation d’une personne d’accompagnement ou de l’imposition de règles de conduite</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>3.3.7 En cas d’interdiction d’exercer une profession ordonnée en application de l’art. 54, al. 1, CP dans la version du 5 octobre 1950[^annex2-lvlu1-2]: données visées au ch. 3.4.4</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>3.4 Données complémentaires relatives à des mesures (en plus des indications visées au ch. 3.1):</td><td></td><td></td><td></td></tr>
+<tr><td>3.4.1 En cas de mesure thérapeutique ordonnée à l’encontre d’un adulte, d’internement au sens de l’art. 43, ch. 1, par. 2, CP dans la version du 18 mars 1971[^annex2-lvlu1-3] ou de mesure ordonnée en application des art. 12 à 15 DPMin: indication selon laquelle l’exécution de la peine est ou non suspendue au profit de la mesure</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>3.4.2 En cas de traitement ambulatoire: indication de l’imposition d’une assistance de probation, de l’assignation d’une personne d’accompagnement ou de l’imposition de règles de conduite</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>3.4.3 En cas d’interdiction de conduire: durée de l’interdiction (en jours, mois et années)</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>3.4.4 En cas d’interdiction d’exercer une activité, d’interdiction de contact et d’interdiction géographique:</td><td></td><td></td><td></td></tr>
+<tr><td>3.4.4.1 Spécification matérielle:</td><td></td><td></td><td></td></tr>
+<tr><td>3.4.4.1.1 Indication selon laquelle l’interdiction vise ou non à protéger les mineurs et les autres personnes particulièrement vulnérables ou à protéger les patients dans le domaine de la santé</td><td>—</td><td>Extraits 1 à 4</td><td>Aucun extrait</td></tr>
+<tr><td>3.4.4.1.2 Extrait du dispositif de la décision (dans le cas des interdictions de contact et des interdictions géographiques, les indications relatives à des personnes ou à des lieux qui pourraient permettre de déduire qui sont les personnes protégées sont anonymisées; l’extrait destiné aux autorités contient la clef de décodage)</td><td>—</td><td>Extraits 1 à 4 (non anonymisé)</td><td>Tous les extraits (anonymisé)</td></tr>
+<tr><td>3.4.4.2 Données relatives à la durée de l’interdiction:</td><td></td><td></td><td></td></tr>
+<tr><td>3.4.4.2.1 Durée initiale selon le dispositif du jugement soit le nombre d’années, de mois, de semaines, de jours et d’heures, ou «à vie», ou «durée indéterminée»</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>3.4.4.2.2 Données relatives à la période de validité de l’interdiction soit la date à laquelle l’interdiction entre en force et la date jusqu’à laquelle elle aura effet selon le dispositif du jugement</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>3.4.4.2.3 Le cas échéant, données relatives au temps pendant lequel l’interdiction ne court pas selon l’art. 67*c,* al. 2, CP ou l’art. 50*c,* al. 2, CPM[^annex2-lvlu1-4] soit la date de début de l’exécution, la date de fin de l’exécution et l’autorité qui saisit les données</td><td>—</td><td>Extrait 1 (les dates pertinentes peuvent aussi être consultées dans la rubrique «Informations complémentaires» de l’identité principale selon l’annexe 1, ch. 1.4.7.3.2)</td><td>Aucun extrait</td></tr>
+<tr><td>3.4.4.2.4 Le cas échéant, nouvelle date fixée pour le début de l’interdiction selon l’art. 67*c*, al. 3, CP ou l’art. 50*c*, al. 3, CPM, si elle influe sur le calcul des délais</td><td>X</td><td>— (peut être consultée dans la rubrique «Informations complémentaires» de l’identité principale selon l’annexe 1, ch. 1.4.7.3.1)</td><td>Aucun extrait</td></tr>
+<tr><td>3.4.4.2.5 Date à laquelle l’interdiction devrait cesser d’avoir effet soit la date à laquelle l’interdiction n’aura plus effet selon les indications disponibles ou l’indication selon laquelle la date de fin de l’interdiction ne peut pas être calculée</td><td>X</td><td>— (peut être consultée dans la rubrique «Informations complémentaires» de l’identité principale selon l’annexe 1, ch. 1.4.7.3.3)</td><td>Tous les extraits</td></tr>
+<tr><td>3.4.4.3 Autres mesures ordonnées (pendant la durée de l’interdiction) soit l’indication de l’imposition d’une assistance de probation, de l’assignation d’une personne d’accompagnement ou de l’imposition de règles de conduite</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>3.4.5 En cas d’expulsion:</td><td></td><td></td><td></td></tr>
+<tr><td>3.4.5.1 Durée selon le dispositif du jugement soit «à vie» ou nombre d’années, de mois, de semaines et de jours</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>3.4.5.2 Début de la durée de l’expulsion:</td><td>—</td><td>Extrait 1</td><td>Tous les extraits</td></tr>
+<tr><td>3.4.5.2.1 Date de départ saisie a posteriori (date effective de sortie du territoire ou, si elle n’est pas connue, date fixée par l’autorité d’exécution) ou date d’entrée en vigueur de l’expulsion saisie a posteriori (si le départ de Suisse a eu lieu avant l’entrée en vigueur de l’expulsion)</td><td>—</td><td>Extrait 1</td><td>Tous les extraits</td></tr>
+<tr><td>3.4.5.2.2 Mention que la date de départ saisie n’est plus valable («pas de départ»)</td><td>—</td><td>Extrait 1</td><td>Tous les extraits</td></tr>
+<tr><td>3.4.5.3 Raison du départ soit expulsion, extradition, transfèrement en vue de l’exécution d’une sanction à l’étranger ou départ volontaire</td><td>—</td><td>Extrait 1</td><td>Tous les extraits</td></tr>
+<tr><td>3.4.5.4 Date à laquelle l’expulsion devrait cesser d’avoir effet soit la date à laquelle l’expulsion n’aura plus effet ou l’indication selon laquelle cette date ne peut pas être calculée</td><td>X</td><td>—</td><td>Tous les extraits</td></tr>
+<tr><td>3.4.5.5 En cas de demande visant le calcul d’un délai pour l’élimination au sens de l’art. 30, al. 2, let. n, *in fine*, LCJ, indication de l’approbation ou du rejet de la demande</td><td>—</td><td>— (visible seulement pour le Service du casier judiciaire)</td><td>Aucun extrait</td></tr>
+<tr><td>3.5 Motifs de la fixation de la peine (hormis les indications enregistrées comme combinaisons possibles):</td><td></td><td></td><td></td></tr>
+<tr><td>3.5.1 Référence légale (référence exacte à la disposition normative)</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>3.5.2 Désignation du motif de la fixation de la peine</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>3.5.3 Durée de validité de la référence légale (à des fins de détermination de la version de l’article et de l’acte normatif auxquels il est fait référence) soit le début et la fin (le cas échéant) de la durée de validité de la disposition</td><td>—</td><td>Extraits 1 à 4</td><td>Aucun extrait</td></tr>
+<tr><td>3.6 Données complémentaires relatives aux peines ayant une fonction spéciale:</td><td></td><td></td><td></td></tr>
+<tr><td>3.6.1 En cas de peine complémentaire ou partiellement complémentaire:</td><td></td><td></td><td></td></tr>
+<tr><td>3.6.1.1 Type de peine (complémentaire ou partiellement complémentaire)</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>3.6.1.2 Référence aux jugements auxquels se rapporte la peine: (jugement dans lequel est prononcée la peine de référence) soit la date du jugement, l’autorité qui l’a rendu et le numéro de dossier ou l’indication que le jugement ne doit pas être saisi</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits (sans le numéro de dossier)</td></tr>
+<tr><td>3.6.2 En cas de peine d’ensemble:</td><td></td><td></td><td></td></tr>
+<tr><td>3.6.2.1 Type de peine (peine d’ensemble)</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>3.6.2.2 Référence aux jugements auxquels se rapporte la peine: (jugement dans lequel est prononcée la peine de référence) soit la date du jugement, l’autorité qui l’a rendu et le numéro de dossier ou l’indication que le jugement ne doit pas être saisi</td><td>—</td><td></td><td>Tous les extraits (sans le numéro de dossier)</td></tr>
+<tr><td>3.6.2.3 Référence aux libérations conditionnelles auxquelles se rapporte la peine (décision ultérieure sur la base de laquelle se calcule le solde de la peine à exécuter) soit la date de la décision, l’autorité qui l’a rendue et le numéro de dossier</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits (sans le numéro de dossier)</td></tr>
+<tr><td>3.7. Temps de détention imputé sur la peine (temps de détention déjà subi selon le dispositif du jugement, qui doit être imputé sur la durée de la sanction à exécuter) en années, mois, semaines, jours et heures</td><td>—</td><td>Extraits 1 à 4</td><td>Aucun extrait</td></tr>
+<tr><td>4. **Copies électroniques:**</td><td></td><td></td><td></td></tr>
+<tr><td>4.1 Pour les jugements suisses:</td><td></td><td></td><td></td></tr>
+<tr><td>4.1.1 Copies électroniques des jugements rendus en Suisse à l’encontre d’un adulte</td><td>—</td><td>Extrait 1</td><td>— (peuvent être imprimées à part à la demande d’une autorité ayant un droit de consultation de l’extrait 1)</td></tr>
+<tr><td>4.1.2 Numéro d’ordre, nom du fichier, auteur et date de l’enregistrement</td><td>X</td><td>Extrait 1</td><td>Aucun extrait</td></tr>
+<tr><td>4.2 Pour les jugements étrangers:</td><td></td><td></td><td></td></tr>
+<tr><td>4.2.1 Copies électroniques du formulaire de communication étranger</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits (comme annexe)</td></tr>
+<tr><td>4.2.2 Numéro d’ordre, nom du fichier, auteur et date de l’enregistrement</td><td>X</td><td>Extraits 1 à 4</td><td>Aucun extrait</td></tr>
+<tr><td>5. **Dates auxquelles les jugements devraient cesser de figurer sur les extraits:** soit la date ou l’indication que le calcul n’est pas encore possible ou l’indication que les données ne figureront plus sur les extraits dès que la personne concernée sera réputée décédée</td><td></td><td></td><td></td></tr>
+<tr><td>5.1 Date à laquelle le jugement devrait être éliminé (ne figure plus sur l’extrait 1)</td><td>X</td><td>—</td><td>Extrait 1</td></tr>
+<tr><td>5.2 Date à laquelle le jugement devrait cesser de figurer sur l’extrait 2</td><td>X</td><td>—</td><td>Extrait 2</td></tr>
+<tr><td>5.3 Date à laquelle le jugement devrait cesser de figurer sur l’extrait 3</td><td>X</td><td>—</td><td>Extrait 3</td></tr>
+<tr><td>5.4 Date à laquelle le jugement devrait cesser de figurer sur l’extrait 4</td><td>X</td><td>—</td><td>Extrait 4</td></tr>
+<tr><td>5.5 Date à laquelle le jugement devrait cesser de figurer sur l’extrait destiné aux particuliers</td><td>X</td><td>—</td><td>Extrait P</td></tr>
+<tr><td>5.6 Date à laquelle le jugement devrait cesser de figurer sur l’extrait spécial</td><td>X</td><td>—</td><td>Extrait S</td></tr>
+</table>
+
+[^annex2-lvlu1-1]: [RS 311.1](https://fedlex.data.admin.ch/eli/cc/2006/551)
+[^annex2-lvlu1-2]: [RO 1951 1](https://fedlex.data.admin.ch/eli/oc/1951/1_1_1)
+[^annex2-lvlu1-3]: [RO 1971 777](https://fedlex.data.admin.ch/eli/oc/1971/777_777_777)
+[^annex2-lvlu1-4]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+
+Annexe 3
+
+(Art. 22, 24, let. c, 45, al. 1, et 47)
+
+## Catégories et champs de données relatifs aux décisions ultérieures qui doivent être saisies, selon le profil de consultation (sans les données d’identification)
+
+**Extrait 1** = champ de données figurant sur l’extrait 1 destiné aux autorités
+
+**Extraits 1 à 4** = champ de données figurant sur les extraits 1, 2, 3 et 4 destinés aux autorités
+
+**Tous les extraits** = champ de données figurant sur tous les extraits (extraits 1 à 4, extrait destiné aux particuliers et extrait spécial)
+
+**Aucun extrait** = champ de données ne figurant pas sur les extraits imprimés
+
+**X** = oui
+
+— = non
+
+<table>
+<tr><th>**Décisions ultérieures**</th><th>**Données système** générées automatiquement (à partir d’autres données) (art. 24, let. c)</th><th>**Données** figurant sur les extraits destinés aux autorités **consultés en ligne** (art. 45, al. 1)</th><th>**Données** figurant sur les extraits (imprimés) **au format PDF** (art. 45, al. 1)</th></tr>
+<tr><td>1. **Indications communes à toutes les décisions ultérieures:**</td><td></td><td></td><td></td></tr>
+<tr><td>1.1 Date de la décision</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>1.2 Autorité qui a rendu la décision</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>1.3 Numéro de dossier (numéro associé à la décision ultérieure par l’autorité qui l’a rendue)</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>1.4 Désignation de la décision ultérieure</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>1.5 Forme abrégée (forme abrégée de la désignation du ch. 1.4)</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>1.6 Informations complémentaires:</td><td></td><td></td><td></td></tr>
+<tr><td>1.6.1 Indications sur la première saisie (informations sur le premier enregistrement des données structurées relatives à la décision ultérieure):</td><td></td><td></td><td></td></tr>
+<tr><td>1.6.1.1 Date et heure</td><td>X</td><td>Extraits 1 à 4</td><td>Aucun extrait</td></tr>
+<tr><td>1.6.1.2 Utilisateur soit son numéro d’utilisateur, ses nom et prénoms et son numéro de téléphone</td><td>X</td><td>Extraits 1 à 4</td><td>Aucun extrait</td></tr>
+<tr><td>1.6.2 Indications sur la dernière modification (informations sur la dernière modification des données structurées relatives à la décision ultérieure):</td><td></td><td></td><td></td></tr>
+<tr><td>1.6.2.1 Date et heure</td><td>X</td><td>Extraits 1 à 4</td><td>Aucun extrait</td></tr>
+<tr><td>1.6.2.2 Utilisateur soit son numéro d’utilisateur, ses nom et prénoms et son numéro de téléphone</td><td>X</td><td>Extraits 1 à 4</td><td>Aucun extrait</td></tr>
+<tr><td>1.7 Copies électroniques:</td><td></td><td></td><td></td></tr>
+<tr><td>1.7.1 Pour les décisions ultérieures suisses:</td><td></td><td></td><td></td></tr>
+<tr><td>1.7.1.1 Copies électroniques des décisions ultérieures rendues en Suisse à l’encontre d’un adulte</td><td>—</td><td>Extrait 1</td><td>— (peuvent être imprimées à part à la demande d’une autorité ayant un droit de consultation de l’extrait 1)</td></tr>
+<tr><td>1.7.1.2 Numéro d’ordre, nom du fichier, auteur et date de l’enregistrement</td><td>X</td><td>Extrait 1</td><td>Aucun extrait</td></tr>
+<tr><td>1.7.2 Pour les décisions ultérieures étrangères:</td><td></td><td></td><td></td></tr>
+<tr><td>1.7.2.1 Copies électroniques du formulaire de communication étranger</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits (comme annexe)</td></tr>
+<tr><td>1.7.2.2 Numéro d’ordre, nom du fichier, auteur et date de l’enregistrement</td><td>X</td><td>Extraits 1 à 4</td><td>Aucun extrait</td></tr>
+<tr><td>2. Pour les décisions ultérieures «**Exemption de l’exécution du solde de la peine**»:</td><td></td><td></td><td></td></tr>
+<tr><td>2.1 Si la décision ultérieure la mentionne: durée du solde de la peine en années, mois, semaines et jours</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>2.2 Si la décision ultérieure ne la mentionne pas: indication selon laquelle la durée du solde de la peine est inconnue</td><td>—</td><td>Extraits 1 à 4</td><td>Aucun extrait</td></tr>
+<tr><td>3. Pour les décisions ultérieures «**Amnistie**»:</td><td></td><td></td><td></td></tr>
+<tr><td>3.1 Indication selon laquelle l’amnistie entraîne ou non la libération immédiate (en vue du calcul de la nouvelle date à laquelle commence à courir l’interdiction selon l’art. 67*c*, al. 3, CP[^annex3-lvlu1-1])</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>4. Pour les décisions ultérieures «**Modification de la mesure**»: (nouvelle mesure prononcée en même temps que la levée de l’ancienne mesure; ne s’applique pas aux interdictions d’exercer une activité, interdictions de contact et interdictions géographiques)</td><td></td><td></td><td></td></tr>
+<tr><td>4.1 Désignation de la mesure levée</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>4.2 Désignation de la nouvelle mesure</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>4.3 Présence ou absence d’un solde de la peine ou absence de toute donnée à ce sujet</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits (sauf si «pas de données»)</td></tr>
+<tr><td>4.4 En cas de solde de la peine:</td><td></td><td></td><td></td></tr>
+<tr><td>4.4.1 Durée du solde de la peine en années, mois, semaines et jours</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>4.4.2 Conséquences sur l’exécution du solde de la peine soit la suspension de l’exécution du solde de la peine au profit de la mesure, l’exemption de l’exécution du solde de la peine, l’exécution du solde de la peine ou le sursis à l’exécution du solde de la peine</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>4.4.3 En cas de sursis à l’exécution du solde de la peine: données relatives au délai d’épreuve:</td><td></td><td></td><td></td></tr>
+<tr><td>4.4.3.1 Durée de la mise à l’épreuve en années, mois, semaines et jours</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>4.4.3.2 Date de notification de la décision (début du délai d’épreuve)</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>4.4.3.3 Fin du délai d’épreuve</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>4.4.3.4 Autres mesures accessoires au sursis soit assistance de probation, personne d’accompagnement, règles de conduite ou traitement ambulatoire</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>5. Pour les décisions ultérieures «**Modification des règles de conduite**»:</td><td></td><td></td><td></td></tr>
+<tr><td>5.1 Le cas échéant, mention que la décision n’a pas été prononcée par suite de l’échec de la mise à l’épreuve</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>6. Pour les décisions ultérieures «**Désignation d’une personne d’accompagnement**»: (pas de champs supplémentaires)</td><td></td><td></td><td></td></tr>
+<tr><td>7. Pour les décisions ultérieures «**Prescription d’une assistance de probation**»:</td><td></td><td></td><td></td></tr>
+<tr><td>7.1 Le cas échéant, mention que la décision n’a pas été prononcée par suite de l’échec de la mise à l’épreuve</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>8. Pour les décisions ultérieures «**Prescription de règles de conduite**»:</td><td></td><td></td><td></td></tr>
+<tr><td>8.1 Le cas échéant, mention que la décision n’a pas été prononcée par suite de l’échec de la mise à l’épreuve</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>9. Pour les décisions ultérieures «**Nouvelle interdiction**»: (se réfère aux interdictions d’exercer une activité, interdictions de contact et interdictions géographiques)</td><td></td><td></td><td></td></tr>
+<tr><td>9.1 Désignation de l’interdiction</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>9.2 Données énumérées à l’annexe 2, ch. 3.4.4</td><td>(voir annexe 2, ch. 3.4.4)</td><td>(voir annexe 2, ch. 3.4.4)</td><td>(voir annexe 2, ch. 3.4.4)</td></tr>
+<tr><td>10. Pour les décisions ultérieures «**Levée de l’accompagnement**»: (pas de champs supplémentaires)</td><td></td><td></td><td></td></tr>
+<tr><td>11. Pour les décisions ultérieures «**Levée de l’assistance de probation**»:</td><td></td><td></td><td></td></tr>
+<tr><td>11.1 Le cas échéant, mention que la décision n’a pas été prononcée par suite de l’échec de la mise à l’épreuve</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>12. Pour les décisions ultérieures «**Levée de la mesure**»: (sauf les interdictions d’exercer une activité, interdictions de contact et interdictions géographiques)</td><td></td><td></td><td></td></tr>
+<tr><td>12.1 Désignation de la mesure levée</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>12.2 Date de la libération</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>12.3 Indication de la présence ou de l’absence d’un solde de la peine, ou de l’absence de toute donnée à ce sujet</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits (sauf si «pas de données»)</td></tr>
+<tr><td>12.4 En cas de solde de la peine:</td><td></td><td></td><td></td></tr>
+<tr><td>12.4.1 Durée du solde de la peine en années, mois, semaines, jours</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>12.4.2 Conséquences sur l’exécution du solde de la peine soit l’exemption de l’exécution du solde de la peine, l’exécution du solde de la peine ou le sursis à l’exécution du solde de la peine</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>12.4.3 En cas de sursis à l’exécution du solde de la peine données relatives au délai d’épreuve:</td><td></td><td></td><td></td></tr>
+<tr><td>12.4.3.1 Durée de la mise à l’épreuve en années, mois, semaines et jours</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>12.4.3.2 Date de notification de la décision (début du délai d’épreuve)</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>12.4.3.3 Fin du délai d’épreuve</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>12.4.3.4 Autres mesures accessoires au sursis soit assistance de probation, personne d’accompagnement, règles de conduite ou traitement ambulatoire</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>13. Pour les décisions ultérieures «**Levée des règles de conduite**»:</td><td></td><td></td><td></td></tr>
+<tr><td>13.1 Le cas échéant, mention que la décision n’a pas été prononcée par suite de l’échec de la mise à l’épreuve</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>14. Pour les décisions ultérieures «**Levée du report de l’exécution de l’expulsion**»: (pas de champs supplémentaires)</td><td></td><td></td><td></td></tr>
+<tr><td>15. Pour les décisions ultérieures «**Levée de l’interdiction**»: (se réfère aux interdictions d’exercer une activité, interdictions de contact et interdictions géographiques)</td><td></td><td></td><td></td></tr>
+<tr><td>15.1 Désignation de l’interdiction levée</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>15.2 Date à partir de laquelle l’interdiction n’aura plus effet</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>16. Pour les décisions ultérieures «**Report de l’exécution de l’expulsion**»: (pas de champs supplémentaires)</td><td></td><td></td><td></td></tr>
+<tr><td>17. Pour les décisions ultérieures «**Suspension de l’exécution** **de la peine** **au profit de la mesure en cours**»: (pas de champs supplémentaires)</td><td></td><td></td><td></td></tr>
+<tr><td>18. Pour les décisions «**Date de fin de l’exécution appropriée fixée exceptionnellement** **afin** **de déterminer** **les délais**»: (décision au sens de l’art. 44 visant à gérer le calcul des délais dans les cas où les données nécessaires ne sont pas disponibles)</td><td></td><td></td><td></td></tr>
+<tr><td>18.1 Désignation de la sanction concernée</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>18.2 Date de fin de l’exécution (d’une mesure institutionnelle, d’un traitement ambulatoire ou d’une peine privative de liberté après révocation du sursis en cas d’interdiction d’exercer une activité, d’interdiction de contact ou d’interdiction géographique)</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>19. Pour les décisions ultérieures «**Libération conditionnelle**»: (de l’exécution d’une peine ou d’une mesure)</td><td></td><td></td><td></td></tr>
+<tr><td>19.1 Référence aux jugements auxquels se rapporte la libération conditionnelle soit la date du jugement, l’autorité qui l’a rendu et le numéro de dossier</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits (sans le numéro de dossier)</td></tr>
+<tr><td>19.2 Désignation de la sanction dont la personne concernée est libérée conditionnellement</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>19.3 Date de la libération</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>19.4 Données relatives au délai d’épreuve:</td><td></td><td></td><td></td></tr>
+<tr><td>19.4.1 Durée de la mise à l’épreuve en années, mois, semaines et jours</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>19.4.2 Date de notification de la décision (début du délai d’épreuve)</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>19.4.3 Fin du délai d’épreuve</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>19.4.4 Autres mesures accessoires à la libération conditionnelle soit assistance de probation, personne d’accompagnement, règles de conduite ou traitement ambulatoire</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>19.5 Présence ou absence d’un solde de la peine ou absence de toute donnée à ce sujet</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits (sauf si «pas de données»)</td></tr>
+<tr><td>19.6 Le cas échéant, durée du solde de la peine en années, mois, semaines et jours</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>20. Pour les décisions ultérieures «**Grâce**»: (se réfère aux peines commuées en une peine plus douce en vue de l’exécution)</td><td></td><td></td><td></td></tr>
+<tr><td>20.1 Référence aux jugements auxquels se rapporte la grâce soit la date du jugement, l’autorité qui l’a rendu et le numéro de dossier</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits (sans le numéro de dossier)</td></tr>
+<tr><td>20.2 Désignation de la peine à laquelle se rapporte la grâce</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>20.3 Désignation de la peine plus douce en laquelle est commuée la peine initiale avec indication des données visées à l’annexe 2, ch. 3.1 à 3.3</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>20.4 Indication selon laquelle la grâce entraîne ou non la libération immédiate (en vue du calcul de la nouvelle date à laquelle commence à courir l’interdiction selon l’art. 67*c*, al. 3, CP)</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>21. Pour les décisions ultérieures «**Libération définitive**»:</td><td></td><td></td><td></td></tr>
+<tr><td>21.1 Désignation de la sanction dont la personne concernée est libérée définitivement</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>21.2 Date de la libération</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>21.3 Présence ou absence d’un solde de la peine ou absence de toute donnée à ce sujet</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits (sauf si «pas de données»)</td></tr>
+<tr><td>21.4 En cas de solde de la peine:</td><td></td><td></td><td></td></tr>
+<tr><td>21.4.1 Durée du solde de la peine en années, mois, semaines et jours</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>21.4.2 Conséquences sur l’exécution du solde de la peine soit l’exemption de l’exécution du solde de la peine, l’exécution du solde de la peine ou le sursis à l’exécution du solde de la peine</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>21.4.3 En cas de sursis à l’exécution du solde de la peine: données relatives au délai d’épreuve:</td><td></td><td></td><td></td></tr>
+<tr><td>21.4.3.1 Durée de la mise à l’épreuve en années, mois, semaines et jours</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>21.4.3.2 Date de notification de la décision (début du délai d’épreuve)</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>21.4.3.3 Fin du délai d’épreuve</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>21.4.3.4 Autres mesures accessoires au sursis soit assistance de probation, personne d’accompagnement, règles de conduite ou traitement ambulatoire</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>22. Pour les décisions ultérieures «**Déclaration d’exécutabilité du jugement en Suisse** (exequatur)»: (seulement pour les jugements étrangers qui doivent être exécutés en Suisse)</td><td></td><td></td><td></td></tr>
+<tr><td>22.1 Indication selon laquelle la sanction a ou non été adaptée</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>22.2 Si la sanction a été adaptée:</td><td></td><td></td><td></td></tr>
+<tr><td>22.2.1 Désignation de la sanction prononcée dans le jugement et qui est adaptée</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>22.2.2 Contenu de l’adaptation: désignation de la sanction adaptée y compris les caractéristiques énumérées à l’annexe 2, ch. 3.3 et 3.4</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>23. Pour les décisions ultérieures «**Avertissement formel**»: (décision relevant de l’ancien droit; se réfère à l’échec de la mise à l’épreuve pendant l’exécution d’une peine ou d’une mesure assortie d’un sursis ou d’un sursis partiel; il n’y a pas de champs supplémentaires)</td><td></td><td></td><td></td></tr>
+<tr><td>24. Pour les décisions ultérieures «**Limitation du contenu de l’interdiction**»: (se réfère à une interdiction d’exercer une activité, interdiction de contact ou interdiction géographique, à l’exclusion de la transformation d’un type d’interdiction en un autre)</td><td></td><td></td><td></td></tr>
+<tr><td>24.1 Désignation de l’interdiction dont le contenu est limité</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>24.2 Nouvelle spécification matérielle selon le dispositif du jugement (dans le cas des interdictions de contact et des interdictions géographiques, les indications relatives à des personnes ou à des lieux qui pourraient permettre de déduire qui sont les personnes protégées sont anonymisées; l’extrait destiné aux autorités consulté en ligne contient la clef de décodage)</td><td>—</td><td>Extraits 1 à 4 (non anonymisée)</td><td>Tous les extraits (anonymisée)</td></tr>
+<tr><td>24.3 Date à laquelle la nouvelle spécification prend effet (en règle générale la date d’entrée en vigueur de la décision ultérieure)</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>25. Pour les décisions ultérieures «**Extension du contenu de l’interdiction**»: (se réfère à une interdiction d’exercer une activité, interdiction de contact ou interdiction géographique, à l’exclusion de la transformation d’un type d’interdiction en un autre)</td><td></td><td></td><td></td></tr>
+<tr><td>25.1 Désignation de l’interdiction dont le contenu est étendu</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>25.2 Nouvelle spécification matérielle selon le dispositif de la décision (dans le cas des interdictions de contact et des interdictions géographiques, les indications relatives à des personnes ou à des lieux qui pourraient permettre de déduire qui sont les personnes protégées sont anonymisées; l’extrait destiné aux autorités consulté en ligne contient la clef de décodage)</td><td>—</td><td>Extraits 1 à 4 (non anonymisée)</td><td>Tous les extraits (anonymisée)</td></tr>
+<tr><td>25.3 Date à laquelle la nouvelle spécification prend effet (en règle générale la date d’entrée en force de la décision ultérieure)</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>26. Pour les décisions ultérieures «**Suspension ultérieure de l’exécution du solde de la peine**»:</td><td></td><td></td><td></td></tr>
+<tr><td>26.1 Durée du solde de la peine en années, mois, semaines et jours</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>26.2 Données relatives au délai d’épreuve:</td><td></td><td></td><td></td></tr>
+<tr><td>26.2.1 Durée de la mise à l’épreuve en années, mois, semaines et jours</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>26.2.2 Date de notification de la décision (début du délai d’épreuve)</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>26.2.3 Fin du délai d’épreuve</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>26.2.4 Autres mesures accessoires au sursis soit assistance de probation, personne d’accompagnement, règles de conduite ou traitement ambulatoire</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>27. Pour les décisions ultérieures «**Prescription d’une mesure ultérieure**»: (sauf les interdictions d’exercer une activité, interdiction de contact et interdiction géographique; voir ch. 9)</td><td></td><td></td><td></td></tr>
+<tr><td>27.1 Désignation de la mesure ordonnée a posteriori</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>27.2 Conséquences sur l’exécution du solde de la peine soit la suspension de l’exécution du solde de la peine au profit de cette mesure ultérieure, l’exemption de l’exécution du solde de la peine, l’exécution du solde de la peine ou la mention de l’absence de toute donnée à ce sujet</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits (sauf si «pas de données»)</td></tr>
+<tr><td>27.3 Autres mesures accessoires à la mesure ultérieure soit assistance de probation, personne d’accompagnement ou règles de conduite</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>28. Pour les décisions ultérieures «**Infliction ultérieure d’une peine au sens de l’art. 100****<sup>ter</sup>****, ch. 4, CP dans la version du 18 mars 1971**[^annex3-lvlu1-2]»: (décision ultérieure relevant de l’ancien droit)</td><td></td><td></td><td></td></tr>
+<tr><td>28.1 Durée de la peine privative de liberté ferme relevant de l’ancien droit en années, mois, semaines et jours</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>29. Pour les décisions ultérieures «**Non-révocation**»: (se réfère à la décision de ne pas révoquer le sursis ou le sursis partiel à l’exécution d’une peine ou d’une mesure malgré l’échec de la mise à l’épreuve)</td><td></td><td></td><td></td></tr>
+<tr><td>29.1 Désignation de la sanction que l’on renonce à révoquer</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>30. Pour les décisions ultérieures «**Révocation partielle**»: (se réfère à la décision de révoquer le sursis ou le sursis partiel à l’exécution d’une peine ou d’une mesure par suite de l’échec de la mise à l’épreuve)</td><td></td><td></td><td></td></tr>
+<tr><td>30.1 Désignation de la sanction qui est partiellement révoquée</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>30.2 Partie suspendue de la sanction: soit la durée (en années, mois, semaines, jours et heures) ou le montant et la devise</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>30.3 Indication selon laquelle la peine est ou non suspendue au profit d’une mesure y compris la désignation de la mesure</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>31. Pour les décisions ultérieures «**Prolongation du délai d’épreuve**»: (se réfère à des incidents qui ont eu lieu pendant le sursis ou le sursis partiel à l’exécution d’une peine ou d’une mesure)</td><td></td><td></td><td></td></tr>
+<tr><td>31.1 Désignation de la sanction suspendue</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>31.2 Données relatives au nouveau délai d’épreuve:</td><td></td><td></td><td></td></tr>
+<tr><td>31.2.1 Temps dont le délai d’épreuve est prolongé en années, mois, semaines et jours</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>31.2.2 Date de notification de la décision ultérieure (début de la prolongation si cette date est postérieure à la fin du délai d’épreuve précédent)</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>31.2.3 Fin du nouveau délai d’épreuve</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>31.2.4 Autres mesures accessoires au sursis durant le nouveau délai d’épreuve soit assistance de probation, personne d’accompagnement, règles de conduite ou traitement ambulatoire</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>31.3 Le cas échéant, mention que la décision n’a pas été prononcée par suite de l’échec de la mise à l’épreuve</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>32. Pour les décisions ultérieures «**Avertissement**»: (se réfère à l’échec de la mise à l’épreuve pendant le sursis ou le sursis partiel à l’exécution d’une peine ou d’une mesure)</td><td></td><td></td><td></td></tr>
+<tr><td>32.1 Désignation de la sanction à laquelle se rapporte l’avertissement</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>33. Pour les décisions ultérieures «**Exécution du solde de la peine**»:</td><td></td><td></td><td></td></tr>
+<tr><td>33.1 En cas de mention du solde de la peine dans la décision ultérieure: durée du solde de la peine en années, mois, semaines et jours</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>33.2 En cas d’absence de mention du solde de la peine dans la décision ultérieure: mention «pas de données»</td><td>—</td><td>Extraits 1 à 4</td><td>Aucun extrait</td></tr>
+<tr><td>34. Pour les décisions ultérieures «**Révocation**»: (se réfère à la révocation du sursis ou du sursis partiel à l’exécution d’une peine ou d’une mesure)</td><td></td><td></td><td></td></tr>
+<tr><td>34.1 Désignation de la sanction révoquée</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>34.2 Indication selon laquelle la peine est ou non suspendue au profit d’une mesure y compris la désignation de la mesure</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>34.3 Le cas échéant, mention que la décision ultérieure n’a pas été prononcée par suite de l’échec de la mise à l’épreuve</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>35. Pour les décisions ultérieures «**Limitation de la durée de l’interdiction**»: (se réfère à une interdiction d’exercer une activité, interdiction de contact ou interdiction géographique)</td><td></td><td></td><td></td></tr>
+<tr><td>35.1 Désignation de l’interdiction dont la durée est limitée</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>35.2 Indication selon laquelle l’autorité a fixé une nouvelle durée initiale ou a réduit la durée de l’interdiction</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>35.3 En cas de nouvelle durée initiale: durée (en années, mois, semaines et jours) qui servira de nouvelle valeur de base, les prolongations ou réductions prononcées auparavant n’étant plus prises en considération</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>35.4 En cas de réduction de la durée de l’interdiction: durée (en années, mois, semaines et jours) qui doit être soustraite de la fin de l’interdiction calculée précédemment</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>36. Pour les décisions ultérieures «**Prolongation de l’interdiction**»: (se réfère à une interdiction d’exercer une activité, interdiction de contact ou interdiction géographique)</td><td></td><td></td><td></td></tr>
+<tr><td>36.1 Désignation de l’interdiction prolongée</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>36.2 Durée de la prolongation: soit le temps dont l’interdiction est prolongée (en années, mois, semaines et jours), ou la mention «durée indéterminée» ou «à vie»</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+<tr><td>36.3 Date d’entrée en force de la décision ultérieure (date à partir de laquelle la prolongation entre en force, si l’interdiction n’a déjà plus effet)</td><td>—</td><td>Extraits 1 à 4</td><td>Tous les extraits</td></tr>
+</table>
+
+[^annex3-lvlu1-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^annex3-lvlu1-2]: [RO 1971 777](https://fedlex.data.admin.ch/eli/oc/1971/777_777_777)
+
+Annexe 4
+
+(Art. 24, let. d, 26, 45, al. 1, et 47)
+
+## Catégories et champs de données relatifs aux procédures pénales en cours qui doivent être saisies, selon le profil de consultation (sans les données d’identification)
+
+**Extrait 1** = champ de données figurant sur l’extrait 1 destiné aux autorités
+
+**Extrait 2** = champ de données figurant sur l’extrait 2 destiné aux autorités
+
+**Extrait 4** = champ de données figurant sur l’extrait 4 destiné aux autorités
+
+**Aucun extrait** = champ de données ne figurant pas sur les extraits imprimés
+
+**X** = oui
+
+— = non
+
+<table>
+<tr><th>**Procédures pénales en cours**</th><th>**Données système** générées automatiquement (à partir d’autres données) (art. 24, let. d)</th><th>**Données** figurant sur les extraits destinés aux autorités **consultés en ligne** (art. 45, al. 1)</th><th>**Données** figurant sur les extraits (imprimés) **au format PDF** (art. 45, al. 1)</th></tr>
+<tr><td>1. **Indications générales:**</td><td></td><td></td><td></td></tr>
+<tr><td>1.1 Date de la litispendance soit la date d’ouverture de l’instruction ou, à défaut, la date de l’ordonnance pénale</td><td>—</td><td>Extraits 1, 2 et 4</td><td>Extraits 1, 2 et 4</td></tr>
+<tr><td>1.2 Direction de la procédure</td><td>—</td><td>Extraits 1, 2 et 4</td><td>Extraits 1, 2 et 4</td></tr>
+<tr><td>1.3 Numéro de dossier (numéro associé au cas considéré par la direction de la procédure)</td><td>—</td><td>Extraits 1, 2 et 4</td><td>Extraits 1, 2 et 4</td></tr>
+<tr><td>1.4 Informations complémentaires:</td><td></td><td></td><td></td></tr>
+<tr><td>1.4.1 Indications sur la première saisie (informations sur le premier enregistrement des données structurées relatives à la procédure pénale en cours):</td><td></td><td></td><td></td></tr>
+<tr><td>1.4.1.1 Date et heure</td><td>X</td><td>Extraits 1, 2 et 4</td><td>Aucun extrait</td></tr>
+<tr><td>1.4.1.2 Utilisateur soit son numéro d’utilisateur, ses nom et prénoms et son numéro de téléphone</td><td>X</td><td>Extraits 1, 2 et 4</td><td>Aucun extrait</td></tr>
+<tr><td>1.4.2 Indications sur la dernière modification (informations sur la dernière modification d’un champ de données de la procédure pénale en cours):</td><td></td><td></td><td></td></tr>
+<tr><td>1.4.2.1 Date et heure</td><td>X</td><td>Extraits 1, 2 et 4</td><td>Aucun extrait</td></tr>
+<tr><td>1.4.2.2 Utilisateur soit son numéro d’utilisateur, ses nom et prénoms et son numéro de téléphone</td><td>X</td><td>Extraits 1, 2 et 4</td><td>Aucun extrait</td></tr>
+<tr><td>1.4.3 Ancienne(s) direction(s) de la procédure (en cas de changement de la direction de la procédure après l’entrée en vigueur de la présente ordonnance):</td><td></td><td></td><td></td></tr>
+<tr><td>1.4.3.1 Désignation de l’ancienne autorité compétente</td><td>X</td><td>Extraits 1, 2 et 4</td><td>Aucun extrait</td></tr>
+<tr><td>1.4.3.2 Numéro de dossier de l’ancienne procédure</td><td>X</td><td>Extraits 1, 2 et 4</td><td>Aucun extrait</td></tr>
+<tr><td>1.4.3.3 Date d’enregistrement du changement de direction de la procédure dans VOSTRA</td><td>X</td><td>Extraits 1, 2 et 4</td><td>Aucun extrait</td></tr>
+<tr><td>2. **Infractions reprochées au prévenu:**</td><td></td><td></td><td></td></tr>
+<tr><td>2.1 Données relatives à l’infraction elle-même (données se référant à l’énoncé de fait légal):</td><td></td><td></td><td></td></tr>
+<tr><td>2.1.1 Abréviation de référence (abréviation spécifique à VOSTRA de la référence légale visée au ch. 2.1.2, servant à accélérer la saisie)</td><td>—</td><td>Extraits 1, 2 et 4</td><td>Aucun extrait</td></tr>
+<tr><td>2.1.2 Référence légale (référence exacte à la disposition normative)</td><td>—</td><td>Extraits 1, 2 et 4</td><td>Extraits 1, 2 et 4</td></tr>
+<tr><td>2.1.3 Désignation (expression désignant les faits constitutifs de l’infraction)</td><td>—</td><td>Extraits 1, 2 et 4</td><td>Extraits 1, 2 et 4</td></tr>
+<tr><td>2.1.4 Durée de validité de la référence légale (à des fins de détermination de la version de l’article et de l’acte normatif auxquels il est fait référence) soit le début et la fin (le cas échéant) de la durée de validité de la disposition</td><td>—</td><td>Extraits 1, 2 et 4</td><td>Aucun extrait</td></tr>
+<tr><td>2.2 Données relatives aux combinaisons possibles (par ex. tentative, complicité, commission répétée):</td><td></td><td></td><td></td></tr>
+<tr><td>2.2.1 Abréviation de référence (abréviation spécifique à VOSTRA de la référence légale visée au ch. 2.2.2 ou de la désignation visée au ch. 2.2.3, servant à accélérer la saisie)</td><td>—</td><td>Extraits 1, 2 et 4</td><td>Aucun extrait</td></tr>
+<tr><td>2.2.2 Référence légale (si possible, référence exacte à la disposition normative)</td><td>—</td><td>Extraits 1, 2 et 4</td><td>Extraits 1, 2 et 4</td></tr>
+<tr><td>2.2.3 Désignation (expression désignant les faits constitutifs de l’infraction)</td><td>—</td><td>Extraits 1, 2 et 4</td><td>Extraits 1, 2 et 4</td></tr>
+<tr><td>2.2.4 Durée de validité de la référence légale (à des fins de détermination de la version de l’article et de l’acte normatif auxquels il est fait référence) soit le début et la fin (le cas échéant) de la durée de validité de la disposition</td><td>—</td><td>Extraits 1, 2 et 4</td><td>Aucun extrait</td></tr>
+<tr><td>3. **Notes à la direction de la procédure** soit la date à laquelle l’avis visé à l’art. 25, al. 1, let. b, a été envoyé pour la dernière fois et la date à laquelle il doit être renvoyé</td><td>X</td><td>Extraits 1, 2 et 4</td><td>Aucun extrait</td></tr>
+</table>
+
+Annexe 5
+
+(Art. 25)
+
+## Catégories et champs de données des avis générés automatiquement par le système qui peuvent être consultés par les autorités qui gèrent VOSTRA dans leur domaine de compétence
+
+**X** = oui
+
+— = non
+
+<table>
+<tr><th>**Avis générés automatiquement par le système**</th><th>Données figurant dans l’avis</th></tr>
+<tr><td>1. **Données communes:**</td><td></td></tr>
+<tr><td>1.1 Catégorie d’avis</td><td>—</td></tr>
+<tr><td>1.2 Titre de l’avis</td><td>X</td></tr>
+<tr><td>1.3 Tâche (soit le motif de l’avis et la tâche à accomplir par le destinataire)</td><td>X</td></tr>
+<tr><td>1.4 Date et heure d’établissement de l’avis</td><td>X</td></tr>
+<tr><td>1.5 Destinataire de l’avis:</td><td></td></tr>
+<tr><td>1.5.1 Désignation du destinataire final de l’avis qui devra contrôler la tâche visée au ch. 1.3</td><td>X</td></tr>
+<tr><td>1.5.2 Désignation du Service du casier judiciaire, du SERCO ou du SERCO militaire qui voit l’avis dans sa boîte de réception VOSTRA Pour les SERCO: y compris l’indication du canton</td><td>—</td></tr>
+<tr><td>1.6 Statut de l’avis soit nouveau ou liquidé</td><td>—</td></tr>
+<tr><td>1.7 Utilisateur qui traite l’avis soit son numéro d’utilisateur et ses nom et prénoms</td><td>—</td></tr>
+<tr><td>1.8 Date du traitement (date à laquelle l’avis a été lu pour la première fois)</td><td>—</td></tr>
+<tr><td>1.9 Personne concernée par un avis individuel:</td><td></td></tr>
+<tr><td>1.9.1 ID du dossier</td><td>X</td></tr>
+<tr><td>1.9.2 Attributs principaux de l’identité principale au sens de l’annexe 1, ch. 1.1, à l’exception du numéro AVS (annexe 1, ch. 1.1.1)</td><td>X</td></tr>
+<tr><td>1.9.3 Attributs complémentaires de l’identité principale au sens de l’annexe 1, ch. 1.2</td><td>X</td></tr>
+<tr><td>1.9.4 Source des données relatives à l’identité principale au sens de l’annexe 1, ch. 1.3</td><td>X</td></tr>
+<tr><td>1.10 Personnes concernées par une liste y compris leur ID du dossier au sens de l’annexe 1, ch. 1.4.1</td><td>X</td></tr>
+<tr><td>1.11 Nombre de pages de l’avis</td><td>X</td></tr>
+<tr><td>1.12 Nombre de nouveaux avis dans la boîte de réception</td><td>—</td></tr>
+<tr><td>2. **Données spécifiques aux avis de récidive:** (art. 25, al. 1, let. a)</td><td></td></tr>
+<tr><td>2.1 Jugement ou décision ultérieure dans lequel la mise à l’épreuve avait été ordonnée soit les données relatives à ce jugement ou cette décision ultérieure qui figurent sur l’extrait 1 destiné aux autorités au format PDF, à l’exception de la date prévue pour l’élimination (annexe 2, ch. 5.1) et des copies électroniques (annexe 2, ch. 4, et annexe 3, ch. 1.7)</td><td>X</td></tr>
+<tr><td>2.2 Jugement dans lequel est constatée la date à laquelle a été commise l’infraction pendant le délai d’épreuve visé au ch. 2.1 soit les données relatives à ce jugement qui figurent sur l’extrait 1 destiné aux autorités au format PDF, à l’exception de la date prévue pour l’élimination (annexe 2, ch. 5.1) et des copies électroniques (annexe 2, ch. 4)</td><td>X</td></tr>
+<tr><td>3. **Données spécifiques à l’avis de contrôle de la litispendance concernant les procédures pénales en cours:** (art. 25, al. 1, let. b)</td><td></td></tr>
+<tr><td>3.1 Procédure pénale en cours à vérifier soit toutes les données relatives à cette procédure qui figurent sur l’extrait 1 destiné aux autorités au format PDF</td><td></td></tr>
+<tr><td>3.2 Champ réservé au message à l’autorité qui doit saisir la modification (si la direction de la procédure ne procède pas elle-même aux correctifs nécessaires)</td><td></td></tr>
+<tr><td>4. **Données spécifiques à l’avis de contrôle de l’absence de la fin d’une mesure:** (art. 25, al. 1, let. c) Jugement et décisions ultérieures qui s’y rapportent, dans le cadre desquels la mesure a été ordonnée soit les données relatives à ces jugements et décisions ultérieures qui figurent sur l’extrait 1 destiné aux autorités au format PDF, à l’exception de la date prévue pour l’élimination (annexe 2, ch. 5.1) et des copies électroniques (annexe 2, ch. 4, et annexe 3, ch. 1.7)</td><td></td></tr>
+<tr><td>5. **Données spécifiques aux avis de contrôle des décès éventuels:** (art. 25, al. 1, let. d)</td><td></td></tr>
+<tr><td>5.1 Date de naissance de l’identité principale (annexe 1, ch. 1.1.4)</td><td></td></tr>
+<tr><td>5.2 Nationalités (annexe 1, ch. 1.1.6, 1.1.7 et 1.2.4)</td><td></td></tr>
+<tr><td>5.3 État de domicile (annexe 1, ch. 1.2.2)</td><td></td></tr>
+<tr><td>5.4 Lieu de domicile (annexe 1, ch. 1.2.3)</td><td></td></tr>
+<tr><td>6. **Données spécifiques aux avis de contrôle en cas de refus d’attribution d’un numéro AVS ou de refus de la modification d’attributs principaux:** (art. 25, al. 1, let. e) Motivation du refus par la CdC</td><td></td></tr>
+<tr><td>7. **Données spécifiques aux avis de contrôle des dates d’exécution:** (art. 25, al. 1, let. f)</td><td></td></tr>
+<tr><td>7.1 Si l’exécution institutionnelle de la sanction a été ordonnée dans le jugement: date du jugement, autorité qui l’a rendu, numéro de dossier, date de notification et date d’entrée en force</td><td>X</td></tr>
+<tr><td>7.2 Si l’exécution institutionnelle de la sanction a été ordonnée dans une décision ultérieure: désignation et date de la décision ultérieure, autorité qui l’a rendue et numéro de dossier; date du jugement auquel elle se rapporte, autorité qui l’a rendu, numéro de dossier, date de notification et date d’entrée en force</td><td>X</td></tr>
+<tr><td>8. **Données spécifiques aux avis de contrôle de destruction des documents en cas de demande de calcul d’un délai pour l’élimination:** (art. 25, al. 1, let. g) Liste des anciennes identités soit les attributs visés à l’annexe 1, ch. 3.1 et 3.2</td><td></td></tr>
+<tr><td>9. **Données spécifiques aux avis de contrôle de la saisie des données relatives à l’exécution concernant le début de la durée d’une expulsion:** (art. 25, al. 1, let. h) Liste des jugements dans lesquels est prononcée une expulsion soit la date du jugement, l’autorité qui l’a rendu et le numéro de dossier</td><td>X</td></tr>
+<tr><td>10. **Données spécifiques aux avis de contrôle concernant la transmission des copies électroniques des jugements en cas des confiscations nouvelles au sens de l’art. 61 LCJ:** (art. 25, al. 1, let. i) Liste des nouveaux jugements dans lesquels une confiscation a été ordonnée soit la date du jugement, l’autorité qui l’a rendu et le numéro de dossier</td><td>X (à remplir par la direction de la procédure après réception de l’avis)</td></tr>
+<tr><td>11. **Données spécifiques aux avis de contrôle des jugements sans règle de calcul du délai pour l’élimination:** (art. 25, al. 1, let. j) Liste des jugements saisis sans qu’aucune règle de calcul du délai pour l’élimination ait été programmée soit la date du jugement, l’autorité qui l’a rendu et le numéro de dossier</td><td>X</td></tr>
+<tr><td>12. **Données spécifiques aux avis de contrôle des copies manquantes:** (art. 25, al. 1, let. k)</td><td></td></tr>
+<tr><td>12.1 Liste des jugements d’une autorité pour lesquels manque une copie qui doit être saisie soit la date du jugement, l’autorité qui l’a rendu et le numéro de dossier</td><td>X</td></tr>
+<tr><td>12.2 Liste des décisions ultérieures d’une autorité pour lesquelles manque une copie qui doit être saisie soit la date de la décision, l’autorité qui l’a rendue et le numéro de dossier, ainsi que la date du jugement auquel elle se rapporte, l’autorité qui l’a rendu et le numéro de dossier</td><td>X</td></tr>
+<tr><td>13. **Données spécifiques aux avis de contrôle de la mise à l’épreuve en cas de jugement dans lequel est prononcée une amende au sens de l’art. 40, al. 3, let. c, LCJ:** (art. 25, al. 1, let. l) Liste des jugements étrangers nécessitant une transposition soit la date du jugement, l’autorité qui l’a rendu et le numéro de dossier</td><td>X</td></tr>
+<tr><td>14. **Données spécifiques aux avis de contrôle des conditions de l’enregistrement au sens de l’art. 40, al. 1, let. b, LCJ:** (art. 25, al. 1, let. m et n) Liste des jugements qui remplissent les critères soit la date du jugement, l’autorité qui l’a rendu et le numéro de dossier</td><td>X</td></tr>
+<tr><td>15. **Données spécifiques aux avis de contrôle des nouvelles procédures pénales en cours:** (art. 25, al. 1, let. o) Procédure pénale en cours nouvellement saisie à l’encontre d’une même personne soit toutes les données relatives à la procédure qui figurent sur l’extrait 1 destiné aux autorités au format PDF</td><td>X</td></tr>
+</table>
+
+Annexe 6
+
+(Art. 28)
+
+## Catégories et champs de données découlant de la journalisation des consultations visée à l’art. 25 LCJ
+
+**X** = oui
+
+— = non
+
+<table>
+<tr><th>**Données relatives aux consultations journalisées dans VOSTRA**</th><th>**Données qui peuvent être consultées par les personnes concernées** au titre du droit d’accès visé à l’art. 57 LCJ</th></tr>
+<tr><td>1. Autorité au nom de laquelle a lieu la consultation soit désignation et ID de l’autorité</td><td>X</td></tr>
+<tr><td>2. Utilisateur qui a effectué la consultation:</td><td></td></tr>
+<tr><td>2.1 Numéro d’utilisateur</td><td>X</td></tr>
+<tr><td>2.2 Nom, prénoms et numéro de téléphone</td><td>—</td></tr>
+<tr><td>3. But de la consultation</td><td>X</td></tr>
+<tr><td>4. Contexte de la consultation sous forme de champ de texte (le cas échéant)</td><td>X</td></tr>
+<tr><td>5. Date et heure de la consultation:</td><td></td></tr>
+<tr><td>5.1 Si l’utilisateur relève d’une autorité qui gère VOSTRA: date et heure de la première saisie des données pénales (soit l’enregistrement d’un cas complet) ou date et heure de l’établissement d’un extrait pour une autre autorité (soit la production d’un extrait au format PDF au nom d’une autre autorité)</td><td>X</td></tr>
+<tr><td>5.2 Si l’utilisateur ne relève pas d’une autorité qui gère VOSTRA: date et heure de l’affichage des données pénales</td><td>X</td></tr>
+<tr><td>6. Attributs principaux au sens de l’annexe 1, ch. 1.1.1 à 1.1.4, et ID du dossier de la personne recherchée, tels qu’ils existent au moment de la consultation au sens du ch. 5</td><td>X</td></tr>
+<tr><td>7. Données pénales, telles qu’elles existent au moment de la consultation au sens du ch. 5, qui figureraient sur l’extrait au format PDF correspondant au profil de l’autorité</td><td>X</td></tr>
+</table>
+
+Annexe 7
+
+(Art. 29)
+
+## Catégories et champs de données des demandes en ligne d’extraits d’un casier judiciaire étranger
+
+<table>
+<tr><th>**Données enregistrées et traitées dans VOSTRA concernant les demandes en ligne d’extraits d’un casier judiciaire étranger**</th></tr>
+<tr><td>1. **Données relatives au contexte de la demande:**</td></tr>
+<tr><td>1.1 Autorité qui fait la demande</td></tr>
+<tr><td>1.2 Collaborateur compétent de l’autorité soit ses nom et prénoms, son numéro de téléphone et son adresse de courrier électronique</td></tr>
+<tr><td>1.3 Numéro de dossier de la procédure pour laquelle l’extrait d’un casier judiciaire étranger est nécessaire</td></tr>
+<tr><td>1.4 But de la demande</td></tr>
+<tr><td>1.5 Si l’extrait est nécessaire pour une affaire pénale:</td></tr>
+<tr><td>1.5.1 Données relatives à l’infraction soit la référence légale et la désignation de l’infraction</td></tr>
+<tr><td>1.5.2 Lieu de l’infraction</td></tr>
+<tr><td>2. **Données relatives à l’État étranger concerné:**</td></tr>
+<tr><td>2.1 Nom des États souhaités</td></tr>
+<tr><td>2.2 Informations supplémentaires requises par l’État concerné</td></tr>
+<tr><td>3. **Données d’identification de la personne concernée:** (reprise automatique des données de l’UPI ou de VOSTRA)</td></tr>
+<tr><td>3.1 Attributs principaux au sens de l’annexe 1, ch. 1.1, à l’exception du numéro AVS (annexe 1, ch. 1.1.1)</td></tr>
+<tr><td>3.2 État de domicile</td></tr>
+<tr><td>3.3 Si la personne est inscrite dans VOSTRA:</td></tr>
+<tr><td>3.3.1 ID du dossier au sens de l’annexe 1, ch. 1.4.1</td></tr>
+<tr><td>3.3.2 Fausses identités au sens de l’annexe 1, ch. 5.1</td></tr>
+<tr><td>4. **Données relatives à la pratique de l’État étranger:** (selon le type d’autorité, le but et l’État)</td></tr>
+<tr><td>4.1 Mention que l’État répond aux demandes d’extrait (si l’État a déjà fourni des extraits du casier judiciaire)</td></tr>
+<tr><td>4.2 Mention que l’on ne sait pas si l’État répond aux demandes d’extrait (si aucune demande d’extrait n’a encore jamais été adressée à cet État)</td></tr>
+<tr><td>4.3 Mention qu’il est impossible de faire une demande, avec indication du délai d’attente visé à l’art. 51, al. 2 (si les demandes précédentes n’ont pas abouti)</td></tr>
+<tr><td>5. **Données relatives au traitement des demandes par le Service du casier judiciaire:**</td></tr>
+<tr><td>5.1 Date de la demande faite par l’autorité</td></tr>
+<tr><td>5.2 Étape du traitement, avec la date du dernier changement de statut:</td></tr>
+<tr><td>5.2.1 Date depuis laquelle la demande est en cours</td></tr>
+<tr><td>5.2.2 Date de l’envoi à l’État étranger</td></tr>
+<tr><td>5.2.3 Date à laquelle l’autorité étrangère compétente a reçu un rappel</td></tr>
+<tr><td>5.2.4 Date à laquelle la demande a été annulée</td></tr>
+<tr><td>5.2.5 Date de l’accusé de réception et de la transmission</td></tr>
+<tr><td>5.3 Mention que l’extrait a été reçu ou non par le Service du casier judiciaire</td></tr>
+<tr><td>5.4 Demande envoyée à l’État étranger (au format Word)</td></tr>
+</table>
+
+Annexe 8
+
+(Art. 30)
+
+## Catégories et champs de données relatifs aux demandes d’extraits destinés aux particuliers et d’extraits spéciaux
+
+**X** = oui
+
+— = non
+
+<table>
+<tr><th>**Demandes d’extraits au sens de l’art. 27 LCJ**</th><th>Données enregistrées dans la banque de données auxiliaire CREX</th><th>Données enregistrées dans VOSTRA</th></tr>
+<tr><td>1. **Coordonnées du demandeur à des fins d’identification et de localisation**</td><td></td><td></td></tr>
+<tr><td>1.1 Numéro AVS</td><td>X</td><td>X</td></tr>
+<tr><td>1.2 Nom</td><td>X</td><td>X</td></tr>
+<tr><td>1.3 Prénoms</td><td>X</td><td>X</td></tr>
+<tr><td>1.4 Date de naissance</td><td>X</td><td>X</td></tr>
+<tr><td>1.5 Nationalité</td><td>X</td><td>X</td></tr>
+<tr><td>1.6 Nom de célibataire</td><td>X</td><td>—</td></tr>
+<tr><td>1.7 Nom de la mère</td><td>X</td><td>X</td></tr>
+<tr><td>1.8 Prénoms de la mère</td><td>X</td><td>X</td></tr>
+<tr><td>1.9 Nom du père</td><td>X</td><td>X</td></tr>
+<tr><td>1.10 Prénoms du père</td><td>X</td><td>X</td></tr>
+<tr><td>1.11 Pour les ressortissants suisses: lieu(x) d’origine</td><td>X</td><td>X</td></tr>
+<tr><td>1.12 Adresse de courrier électronique</td><td>X</td><td>—</td></tr>
+<tr><td>1.13 Numéro de téléphone</td><td>X</td><td>—</td></tr>
+<tr><td>1.14 Adresse de résidence</td><td>X</td><td>X (à défaut d’adresse de livraison)</td></tr>
+<tr><td>1.15 Adresse de livraison</td><td>X</td><td>X</td></tr>
+<tr><td>1.16 Document d’identité (envoyé en copie pour une demande sur Internet ou présenté au guichet postal):</td><td></td><td></td></tr>
+<tr><td>1.16.1 Numéro du document d’identité</td><td>X</td><td>—</td></tr>
+<tr><td>1.16.2 Type de document soit passeport suisse, carte d’identité suisse, passeport étranger, carte d’identité étrangère, titre de séjour ou apatride</td><td>X</td><td>—</td></tr>
+<tr><td>2. **Données relatives à la demande et à son processus:**</td><td></td><td></td></tr>
+<tr><td>2.1 Numéro d’ordre généré automatiquement</td><td>X</td><td>X</td></tr>
+<tr><td>2.2 Date et heure de la demande</td><td>X</td><td>—</td></tr>
+<tr><td>2.3 Date et heure de l’impression du formulaire de demande par le demandeur</td><td>X</td><td>—</td></tr>
+<tr><td>2.4 En cas de demande au guichet postal: office de poste, numéro du guichet et agent qui réceptionne la demande</td><td>X</td><td>—</td></tr>
+<tr><td>2.5 État de la demande: soit complète ou incomplète</td><td>X</td><td>—</td></tr>
+<tr><td>2.6 Nombre d’extraits demandés</td><td>X</td><td>—</td></tr>
+<tr><td>2.7 Forme de la demande: soit avec ou sans signature électronique</td><td>X</td><td>X</td></tr>
+<tr><td>2.8 Langue de l’extrait</td><td>X</td><td>—</td></tr>
+<tr><td>2.9 Type d’extrait: soit extrait destiné aux particuliers ou extrait spécial destiné aux particuliers</td><td>X</td><td>—</td></tr>
+<tr><td>2.10 Données relatives aux gros clients (demandes en ligne avec factures mensuelles):</td><td></td><td></td></tr>
+<tr><td>2.10.1 Désignation et abréviation du client en vue de la facturation</td><td>X</td><td>X</td></tr>
+<tr><td>2.10.2 Désignation et sigle de l’unité du client à laquelle les extraits doivent être envoyés</td><td>X</td><td>—</td></tr>
+<tr><td>2.10.3 Hyperlien par lequel le client pourra faire ses demandes en ligne (attribué automatiquement)</td><td>X</td><td>—</td></tr>
+<tr><td>2.10.4 Mot de passe avec lequel le client pourra faire ses demandes en ligne</td><td>X</td><td>—</td></tr>
+<tr><td>2.10.5 Mode d’envoi des extraits: soit papier ou numérique</td><td>X</td><td>—</td></tr>
+<tr><td>2.10.6 Pour les demandes d’extraits papier:</td><td></td><td></td></tr>
+<tr><td>2.10.6.1 Indication du fait que le client peut ou non demander plus d’un extrait par personne</td><td>X</td><td>—</td></tr>
+<tr><td>2.10.6.2 Indication du fait qu’un extrait peut ou non être légalisé</td><td>X</td><td>—</td></tr>
+<tr><td>2.10.6.3 Adresse de livraison</td><td>X</td><td>—</td></tr>
+<tr><td>2.10.7 Indication du fait que l’adresse de la personne concernée doit ou non être enregistrée</td><td>X</td><td>—</td></tr>
+<tr><td>2.10.8 Pour les demandes d’extraits numériques:</td><td></td><td></td></tr>
+<tr><td>2.10.8.1 Adresse de courrier électronique pour l’envoi des extraits</td><td>X</td><td>—</td></tr>
+<tr><td>2.10.8.2 Mot de passe (chiffré) avec lequel le client peut récupérer les extraits</td><td>X</td><td>—</td></tr>
+<tr><td>2.10.9 Adresse de correspondance du client (en cas de question):</td><td></td><td></td></tr>
+<tr><td>2.10.9.1 Postale</td><td>X</td><td>—</td></tr>
+<tr><td>2.10.9.2 Électronique</td><td>X</td><td>—</td></tr>
+<tr><td>2.10.10 Coordonnées des collaborateurs habilités à viser les demandes au nom du client soit unité à laquelle le collaborateur est rattaché, nom, prénoms, numéro de téléphone et adresse de courrier électronique</td><td>X</td><td>—</td></tr>
+<tr><td>2.10.11 Langue de correspondance pour les décomptes au sens du ch. 4.9</td><td>—</td><td>X</td></tr>
+<tr><td>3. **Données relatives au traitement des mandats reçus:**</td><td></td><td></td></tr>
+<tr><td>3.1 Étape de traitement du mandat:</td><td></td><td></td></tr>
+<tr><td>3.1.1 Mention que le formulaire de demande n’est pas arrivé («en attente»)</td><td>X</td><td>—</td></tr>
+<tr><td>3.1.2 Mention que le formulaire de demande est arrivé et a été examiné («reçu»)</td><td>X</td><td>—</td></tr>
+<tr><td>3.1.3 Mention que l’extrait est en cours de légalisation («légalisation»)</td><td>X</td><td>—</td></tr>
+<tr><td>3.1.4 Mention que le formulaire de demande a été renvoyé pour être complété («renvoyé»)</td><td>X</td><td>—</td></tr>
+<tr><td>3.1.5 Mention que l’extrait a été établi et envoyé («envoyé»)</td><td>X</td><td>—</td></tr>
+<tr><td>3.2 Date et heure de la saisie électronique de l’arrivée de la demande par le Service du casier judiciaire</td><td>X</td><td>—</td></tr>
+<tr><td>3.3 Commentaire de l’assistance technique (champ de texte)</td><td>X</td><td>—</td></tr>
+<tr><td>3.4 En cas de renvoi:</td><td></td><td></td></tr>
+<tr><td>3.4.1 Motif du renvoi:</td><td></td><td></td></tr>
+<tr><td>3.4.1.1 La copie du document d’identité manque, est incomplète ou est illisible</td><td>X</td><td>—</td></tr>
+<tr><td>3.4.1.2 Le nom de célibataire manque</td><td>X</td><td>—</td></tr>
+<tr><td>3.4.1.3 Le nom et/ou les prénoms des parents manquent</td><td>X</td><td>—</td></tr>
+<tr><td>3.4.1.4 La signature du demandeur ou de la personne concernée manque</td><td>X</td><td>—</td></tr>
+<tr><td>3.4.1.5 Le visa ou le cachet du destinataire de la facture mensuelle manque</td><td>X</td><td>—</td></tr>
+<tr><td>3.4.1.6 La signature électronique manque ou n’a pas été reconnue</td><td>X</td><td>—</td></tr>
+<tr><td>3.4.1.7 Pour les extraits spéciaux: l’attestation de l’employeur manque</td><td>X</td><td>—</td></tr>
+<tr><td>3.4.1.8 Pour les extraits spéciaux: l’attestation de l’employeur ne porte pas de signature</td><td>X</td><td>—</td></tr>
+<tr><td>3.4.1.9 Pour les extraits spéciaux: l’employeur n’est pas autorisé</td><td>X</td><td>—</td></tr>
+<tr><td>3.4.2 Date et heure du renvoi</td><td>X</td><td>—</td></tr>
+<tr><td>3.5 En cas de légalisation:</td><td></td><td></td></tr>
+<tr><td>3.5.1 État pour lequel la légalisation doit avoir lieu</td><td>X</td><td>X</td></tr>
+<tr><td>3.5.2 Date et heure de la transmission de l’extrait pour légalisation</td><td>X</td><td>—</td></tr>
+<tr><td>3.5.3 Feuille d’accompagnement pour envoi à la Chancellerie fédérale</td><td>X</td><td>—</td></tr>
+<tr><td>3.6 Messages techniques générés automatiquement pour le traitement de la demande</td><td>X</td><td>—</td></tr>
+<tr><td>3.7 Dernier utilisateur ayant vérifié l’exactitude de l’extrait lors du traitement individuel de ce dernier soit son numéro d’utilisateur</td><td>—</td><td>X</td></tr>
+<tr><td>4. **Données relatives au paiement des émoluments:**</td><td></td><td></td></tr>
+<tr><td>4.1 Coûts des extraits demandés (à l’exception des frais visés aux ch. 4.2 et 4.3)</td><td>X</td><td>—</td></tr>
+<tr><td>4.2 Frais de légalisation</td><td>X</td><td>—</td></tr>
+<tr><td>4.3 Frais d’envoi</td><td>X</td><td>—</td></tr>
+<tr><td>4.4 Mode de paiement:</td><td></td><td></td></tr>
+<tr><td>4.4.1 Paiement en ligne: y compris l’indication du moyen de paiement utilisé</td><td>X</td><td>—</td></tr>
+<tr><td>4.4.2 Pour les gros clients: facturation mensuelle</td><td>X</td><td>—</td></tr>
+<tr><td>4.4.3 Paiement au guichet</td><td>X</td><td>—</td></tr>
+<tr><td>4.5 État du paiement soit payé, non payé ou paiement annulé</td><td>X</td><td>—</td></tr>
+<tr><td>4.6 Numéro d’ordre</td><td>X</td><td>—</td></tr>
+<tr><td>4.7 Date et heure de la fin du processus de paiement</td><td>X</td><td>—</td></tr>
+<tr><td>4.8 Informations sur le remboursement</td><td>X</td><td>—</td></tr>
+<tr><td>4.9 Décompte pour les gros clients:</td><td></td><td></td></tr>
+<tr><td>4.9.1 Désignation et abréviation du client au sens du ch. 2.10.1</td><td>—</td><td>X</td></tr>
+<tr><td>4.9.2 Période de décompte en mois et années</td><td>—</td><td>X</td></tr>
+<tr><td>4.9.3 Date de l’impression ou de la signature de l’extrait au sens du ch. 5.11</td><td>—</td><td>X</td></tr>
+<tr><td>4.9.4 Nombre d’extraits par demandeur au sens du ch. 2.6</td><td>—</td><td>X</td></tr>
+<tr><td>4.9.5 Nombre d’extraits par gros client</td><td>—</td><td>X</td></tr>
+<tr><td>4.9.6 Nom, prénoms et date de naissance du demandeur au sens des ch. 1.2 à 1.4</td><td>—</td><td>X</td></tr>
+<tr><td>4.9.7 Numéro de facture (attribué automatiquement)</td><td>—</td><td>X</td></tr>
+<tr><td>5. **Données relatives à l’envoi des extraits:**</td><td></td><td></td></tr>
+<tr><td>5.1 Date prévue pour l’envoi de l’extrait (envoyée automatiquement au demandeur selon la durée de traitement saisie)</td><td>X</td><td>—</td></tr>
+<tr><td>5.2 Date d’envoi de l’extrait</td><td>X</td><td>—</td></tr>
+<tr><td>5.3 Mode d’envoi:</td><td></td><td></td></tr>
+<tr><td>5.3.1 Papier</td><td>X</td><td>X</td></tr>
+<tr><td>5.3.2 Recommandé</td><td>X</td><td>X</td></tr>
+<tr><td>5.3.3 Service d’expédition à l’étranger</td><td>X</td><td>X</td></tr>
+<tr><td>5.3.4 Électronique</td><td>X</td><td>X</td></tr>
+<tr><td>5.4 État de l’envoi des extraits numériques soit prêt à être réceptionné ou réceptionné</td><td>X</td><td>—</td></tr>
+<tr><td>5.5 Pour les extraits numériques: date et heure de la réception</td><td>X</td><td>—</td></tr>
+<tr><td>5.6 En cas d’envoi par un service d’expédition à l’étranger:</td><td></td><td></td></tr>
+<tr><td>5.6.1 Numéro d’envoi automatique</td><td>X</td><td>—</td></tr>
+<tr><td>5.6.2 Nom du service d’expédition</td><td>X</td><td>X</td></tr>
+<tr><td>5.7 En cas d’envoi recommandé: numéro de l’envoi</td><td>X</td><td>—</td></tr>
+<tr><td>5.8 Date et heure de l’envoi de l’extrait légalisé</td><td>X</td><td>—</td></tr>
+<tr><td>5.9 En cas d’envoi électronique: adresse électronique de livraison</td><td>X</td><td>—</td></tr>
+<tr><td>5.10 Numéro de l’extrait</td><td>—</td><td>X</td></tr>
+<tr><td>5.11 Date de l’impression ou de la signature</td><td>—</td><td>X</td></tr>
+<tr><td>5.12 Type d’extrait soit l’indication que la personne est ou non inscrite au casier judiciaire</td><td>—</td><td>X</td></tr>
+<tr><td>5.13 État du traitement soit prêt pour l’impression, imprimé ou annulé</td><td>—</td><td>X</td></tr>
+<tr><td>5.14 Copie au format PDF de l’extrait destiné aux particuliers ou de l’extrait spécial y compris, le cas échéant, la feuille d’accompagnement en vue de l’envoi d’un extrait légalisé, d’un extrait envoyé par un service d’expédition ou d’un extrait muni d’une signature électronique ou la feuille d’accompagnement en vue de l’examen de l’opportunité de transposer en droit suisse les infractions mentionnées sur le formulaire de communication reçu de l’étranger au sens de l’art. 22, al. 2, LCJ</td><td>—</td><td>X</td></tr>
+<tr><td>6. **Données relatives à l’attestation de l’employeur, de l’organisation ou de l’autorité compétente** **en cas de demande d’extrait spécial:** (attestation visée à l’art. 55, al. 4, LCJ)</td><td></td><td></td></tr>
+<tr><td>6.1 Demandeur (personne concernée) soit ses nom et prénoms et sa date de naissance</td><td>X</td><td>— (voir ch. 1.2 à 1.4)</td></tr>
+<tr><td>6.2 Désignation de l’employeur, de l’organisation ou de l’autorité compétente</td><td>X</td><td>X</td></tr>
+<tr><td>6.3 Personne ayant part à la procédure d’engagement auprès de l’employeur, de l’organisation ou de l’autorité compétente:</td><td></td><td></td></tr>
+<tr><td>6.3.1 Nom et prénoms</td><td>X</td><td>X</td></tr>
+<tr><td>6.3.2 Fonction</td><td>X</td><td>—</td></tr>
+<tr><td>6.3.3 Adresse de courrier électronique</td><td>X</td><td>—</td></tr>
+<tr><td>6.3.4 Numéro de téléphone</td><td>X</td><td>—</td></tr>
+<tr><td>6.4 Date de l’attestation</td><td>X</td><td>—</td></tr>
+<tr><td>6.5 Description de l’activité qu’exerce ou doit exercer la personne concernant laquelle l’extrait spécial est demandé au sens de l’art. 55, al. 1 et 1<sup>bis</sup>, LCJ</td><td>X</td><td>—</td></tr>
+<tr><td>6.6 Numéro d’ordre de l’attestation</td><td>X</td><td>—</td></tr>
+</table>
+
+Annexe 9
+
+(Art. 7)
+
+## Droits de traitement des données d’identification
+
+**toutes** = toutes les autorités ayant un droit de saisie des données d’identification
+
+**OFJ** = réservé au Service du casier judiciaire de l’Office fédéral de la justice
+
+**enr.** = réservé à l’autorité qui a enregistré les données (sur la base d’un droit de saisie des données d’identification)
+
+**enr.+OFJ** = réservé à l’autorité qui a enregistré les données (sur la base d’un droit de saisie des données d’identification) et au Service du casier judiciaire de l’Office fédéral de la justice
+
+**aucune** = aucune autorité
+
+**auto.** = automatique (le système enregistre ou modifie automatiquement les données)
+
+— = le cas ne se présente jamais
+
+<table>
+<tr><td>1. **Identités principales**</td><td>En­registrer</td><td>Modifier</td><td>Éliminer</td></tr>
+<tr><td>1.1 Attributs principaux avec numéro AVS et UPI comme source des données</td><td>toutes</td><td>auto.</td><td>aucune, si des données pénales sont enregistrées toutes, en l’absence de données pénales</td></tr>
+<tr><td>1.2 Attributs principaux sans numéro AVS (avant le processus d’attribution de ce dernier)</td><td>toutes</td><td>—</td><td>—</td></tr>
+<tr><td>1.3 Attributs principaux sans numéro AVS (pendant le processus d’attribution de ce dernier, état «attribution demandée»)</td><td>—</td><td>OFJ</td><td>OFJ, en l’absence de données pénales</td></tr>
+<tr><td>1.4 Attributs principaux sans numéro AVS (après le refus du numéro AVS, état «attribution refusée»)</td><td>—</td><td>OFJ</td><td>OFJ, en l’absence de données pénales</td></tr>
+<tr><td>1.5 Attributs principaux avec numéro AVS et VOSTRA comme source des données</td><td>toutes</td><td>OFJ</td><td>aucune, si des données pénales sont enregistrées toutes, en l’absence de données pénales</td></tr>
+<tr><td>1.6 Attributs complémentaires</td><td>toutes</td><td>toutes</td><td>toutes</td></tr>
+<tr><td>1.7 Source de données automatique</td><td>auto.</td><td>aucune</td><td>aucune</td></tr>
+<tr><td>1.8 Source de données manuelle</td><td>toutes</td><td>toutes</td><td>toutes</td></tr>
+</table>
+
+<table>
+<tr><td>2. **Notes à usage interne**</td><td>Enregistrer</td><td>Modifier</td><td>**Éliminer**</td></tr>
+<tr><td>2.1 Mention standard (sans ajout)</td><td>toutes</td><td>enr.+OFJ</td><td>enr.+OFJ</td></tr>
+<tr><td>2.2 Mention standard (avec ajout)</td><td>—</td><td>OFJ</td><td>aucune</td></tr>
+<tr><td>2.3 Ajout (sans mention standard)</td><td>aucune</td><td>aucune</td><td>aucune</td></tr>
+<tr><td>2.4 Ajout (avec mention standard)</td><td>OFJ</td><td>OFJ</td><td>OFJ</td></tr>
+<tr><td>2.5 Note à usage interne complète</td><td>OFJ</td><td>OFJ</td><td>OFJ</td></tr>
+</table>
+
+<table>
+<tr><td>3. **Anciennes identités**</td><td>Enregistrer</td><td>Modifier</td><td>Éliminer</td></tr>
+<tr><td>3.1 Attributs d’une ancienne identité (sauf si l’identité principale a été modifiée par suite d’une comparaison avec l’UPI)</td><td>toutes</td><td>enr.</td><td>enr.</td></tr>
+<tr><td>3.2 Attributs d’une ancienne identité (si l’identité principale a été modifiée par suite d’une comparaison avec l’UPI)</td><td>auto.</td><td>OFJ</td><td>OFJ</td></tr>
+<tr><td>3.3 Source de données automatique</td><td>auto.</td><td>aucune</td><td>aucune</td></tr>
+<tr><td>3.4 Source de données manuelle</td><td>toutes</td><td>toutes</td><td>toutes</td></tr>
+</table>
+
+<table>
+<tr><td>4. **Identités secondaires**</td><td>Enregistrer</td><td>Modifier</td><td>Éliminer</td></tr>
+<tr><td>4.1 Attributs d’une identité secondaire</td><td>toutes</td><td>enr.</td><td>enr.</td></tr>
+<tr><td>4.2 Source de données automatique</td><td>auto.</td><td>aucune</td><td>aucune</td></tr>
+<tr><td>4.3 Source de données manuelle</td><td>toutes</td><td>toutes</td><td>toutes</td></tr>
+</table>
+
+<table>
+<tr><td>5. **Fausses identités**</td><td>Enregistrer</td><td>Modifier</td><td>Éliminer</td></tr>
+<tr><td>5.1 Attributs d’une fausse identité</td><td>toutes</td><td>enr.</td><td>enr.</td></tr>
+<tr><td>5.2 Source de données automatique</td><td>auto.</td><td>aucune</td><td>aucune</td></tr>
+<tr><td>5.3 Source de données manuelle</td><td>toutes</td><td>toutes</td><td>toutes</td></tr>
+</table>
+
+Annexe 10
+
+(Art. 63)
+
+## Abrogation et modification d’autres actes
+
+I
+
+L’ordonnance du 29 septembre 2006 sur le casier judiciaire[^annex10-lvlu1-1] est abrogée.
+
+II
+
+Les ordonnances mentionnées ci-après sont modifiées comme suit:
+
+### 1. Ordonnance du 4 mars 2011 sur les contrôles de sécurité relatifs aux personnes
+
+[^annex10-lvlu1-lvl1-1]
+
+[^annex10-lvlu1-1]: [RO 2006 4503](https://fedlex.data.admin.ch/eli/oc/2006/694); [2008 51](https://fedlex.data.admin.ch/eli/oc/2008/23), [6305](https://fedlex.data.admin.ch/eli/oc/2008/858); [2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848); [2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858); [2011 3637](https://fedlex.data.admin.ch/eli/oc/2011/505); [2012 6071](https://fedlex.data.admin.ch/eli/oc/2012/715); [2014 4461](https://fedlex.data.admin.ch/eli/oc/2014/744); [2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100), [4151](https://fedlex.data.admin.ch/eli/oc/2017/495); [2018 4779](https://fedlex.data.admin.ch/eli/oc/2018/766); [2020 2929](https://fedlex.data.admin.ch/eli/oc/2020/546); [2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132), [2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)
+[^annex10-lvlu1-lvl1-1]: [RS 120.4](https://fedlex.data.admin.ch/eli/cc/2011/155)
+
+Art. 19, al. 1, phrase introductive et let. a
+
+<sup>1</sup> Pour mener à bien ses tâches, le Service spécialisé CSP DDPS dispose d’un accès en ligne direct aux registres et aux bases de données ci-après, dans la limite prescrite par les lois et les ordonnances édictées à cet effet:
+
+- a. le casier judiciaire informatique VOSTRA, conformément à la loi du 17 juin 2016 sur le casier judiciaire[^annex10-lvlu1-lvl1-2];
+
+[^annex10-lvlu1-lvl1-2]: [RS 330](https://fedlex.data.admin.ch/eli/cc/2022/600)
+
+### 2. Tarif des émoluments LEI du 24 octobre 2007
+
+[^annex10-lvlu1-lvl2-1]
+
+[^annex10-lvlu1-lvl2-1]: [RS 142.209](https://fedlex.data.admin.ch/eli/cc/2007/763)
+
+Art. 8, al. 1, let. i
+
+<sup>1</sup> Les tarifs maximaux des émoluments cantonaux liés à des autorisations relevant du droit des étrangers s’élèvent à:
+
+<table>
+<tr><th></th><th>Fr.</th></tr>
+<tr><td>i. pour la demande d’un extrait du casier judiciaire informatique VOSTRA ou d’un casier judiciaire étranger</td><td>25</td></tr>
+</table>
+
+### 3. Ordonnance du 20 septembre 2002 sur les documents d’identité
+
+[^annex10-lvlu1-lvl3-1]
+
+[^annex10-lvlu1-lvl3-1]: [RS 143.11](https://fedlex.data.admin.ch/eli/cc/2002/468)
+
+Art. 15, al. 1, let. a
+
+<sup>1</sup> Pour établir la preuve de la bonne réputation, l’office peut demander, en plus du contrôle de sécurité des personnes, que les personnes physiques ou morales visées à l’art. 6*a*, al. 1 et 2, LDI ou leurs organes lui fournissent notamment les documents suivants:
+
+- a. extrait du casier judiciaire destiné aux particuliers;
+
+### 4. Ordonnance du 24 octobre 2007 relative à l’admission, au séjour et à l’exercice d’une activité lucrative
+
+[^annex10-lvlu1-lvl4-1]
+
+[^annex10-lvlu1-lvl4-1]: [RS 142.201](https://fedlex.data.admin.ch/eli/cc/2007/759)
+
+Art. 72b, al. 1, phrase introductive et let. a
+
+<sup>1</sup> Pour établir la preuve de la bonne réputation du centre chargé de produire le titre de séjour biométrique, le SEM peut demander, en plus du contrôle de sécurité des personnes, que les personnes physiques ou morales ou leurs organes lui fournissent, conformément à l’art. 41*b* LEI, notamment les documents suivants:
+
+- a. extrait du casier judiciaire destiné aux particuliers;
+
+### 5. Émoluments OFJ du 5 juillet 2006
+
+[^annex10-lvlu1-lvl5-1]
+
+[^annex10-lvlu1-lvl5-1]: [RS 172.041.14](https://fedlex.data.admin.ch/eli/cc/2006/533)
+
+[Art. 1, al. 2, let. c](https://www.admin.ch/opc/de/classified-compilation/20061900/index.html)
+
+<sup>2</sup> La présente ordonnance ne s’applique pas aux décisions et aux prestations:
+
+- c. du Service du casier judiciaire;
+
+### 6. Ordonnance du 12 février 2020 sur les marchés publics
+
+[^annex10-lvlu1-lvl6-1]
+
+[^annex10-lvlu1-lvl6-1]: [RS 172.056.11](https://fedlex.data.admin.ch/eli/cc/2020/127)
+
+Annexe 3, ch. 17
+
+- 17\. extrait destiné aux particuliers du casier judiciaire des dirigeants et des responsables prévus pour l’exécution du marché.
+
+### 7. Ordonnance du 17 novembre 1999 sur l’organisation du Département fédéral de justice et police
+
+[^annex10-lvlu1-lvl7-1]
+
+[^annex10-lvlu1-lvl7-1]: [RS 172.213.1](https://fedlex.data.admin.ch/eli/cc/2000/57)
+
+Art. 8, al. 1, let. d
+
+<sup>1</sup> L’OFJ gère entre autres:
+
+- d. le casier judiciaire informatique VOSTRA, en collaboration avec d’autres autorités fédérales et avec les cantons.
+
+### 8. Ordonnance du 29 juin 2011 sur l’adoption
+
+[^annex10-lvlu1-lvl8-1]
+
+[^annex10-lvlu1-lvl8-1]: [RS 211.221.36](https://fedlex.data.admin.ch/eli/cc/2011/505)
+
+[Art. 5, al. 6](https://www.admin.ch/opc/de/classified-compilation/20091244/index.html)
+
+<sup>6</sup> Pour vérifier que les futurs parents adoptifs remplissent la condition prévue à l’al. 2, let. d, ch. 3, l’autorité cantonale demande un extrait 2 du casier judiciaire destiné aux autorités. Les requérants étrangers doivent présenter un extrait du casier judiciaire de leur État d’origine ou un document équivalent. Si une procédure pénale ayant pour objet une infraction incompatible avec l’adoption est en cours, l’autorité cantonale suspend l’examen de l’aptitude jusqu’à la clôture définitive de la procédure.
+
+### 9.[Ordonnance du 19 octobre 1977 sur le placement d’enfants ](https://www.admin.ch/opc/de/classified-compilation/19770243/index.html)
+
+[^annex10-lvlu1-lvl9-1]
+
+[^annex10-lvlu1-lvl9-1]: [RS 211.222.338](https://fedlex.data.admin.ch/eli/cc/1977/1931_1931_1931)
+
+#### Art. 7
+
+L’autorité doit déterminer de manière appropriée si les conditions d’accueil sont remplies, surtout en procédant à des visites à domicile et en prenant, s’il le faut, l’avis d’experts. Elle demande un extrait 2 du casier judiciaire destiné aux autorités pour s’assurer de la réputation des parents nourriciers. Elle peut demander un extrait destiné aux particuliers du casier judiciaire des personnes vivant dans le ménage.
+
+Art. 10, al. 2
+
+<sup>2</sup> Il examine si les conditions auxquelles le placement est subordonné sont remplies. Il demande notamment un extrait 2 du casier judiciaire destiné aux autorités pour s’assurer de la réputation des parents nourriciers. Il peut demander un extrait destiné aux particuliers du casier judiciaire des personnes vivant dans le ménage. Au besoin, il conseille les parents nourriciers.
+
+Art. 12, al. 2
+
+<sup>2</sup> Les dispositions concernant le placement d’enfants chez des parents nourriciers s’appliquent par analogie à la surveillance qu’exerce l’autorité en cas de placement à la journée (art. 5, 7 et 10).
+
+Art. 14, al. 1, let. c
+
+<sup>1</sup> Art. 15, al. 2
+
+La demande d’autorisation doit contenir tout élément utile à son appréciation, mais indiquer pour le moins:
+
+- c. les données d’identité et la formation du directeur et du personnel;
+
+<sup>2</sup> Avant de délivrer l’autorisation, l’autorité détermine de manière appropriée si les conditions d’accueil sont remplies, notamment en procédant à des visites, en ayant des entretiens, en prenant des renseignements et, s’il le faut, en recourant à des experts. Elle demande un extrait 2 du casier judiciaire destiné aux autorités pour s’assurer de la réputation du directeur et du personnel.
+
+Art. 17, titre et al. 3
+
+Listes
+
+<sup>3</sup> La direction ou l’organisme responsable de l’institution présente chaque année à l’autorité de surveillance une liste des données d’identité du directeur et du personnel.
+
+Art. 18, al. 1 et 4
+
+<sup>1</sup> Le directeur et, le cas échéant, l’organisme ayant la charge de l’institution communiquent en temps utile à l’autorité toute modification importante qu’ils ont l’intention d’apporter à l’organisation, à l’équipement ou à l’activité de l’établissement, notamment l’engagement de nouveaux collaborateurs ainsi que les décisions d’agrandir, de transférer ou de cesser l’exploitation.
+
+<sup>4</sup> L’autorité demande un extrait 2 du casier judiciaire destiné aux autorités pour s’assurer de la réputation des nouveaux collaborateurs.
+
+Art. 19, al. 4
+
+<sup>4</sup> Chaque année, l’autorité s’assure de la réputation des personnes mentionnées dans la liste que lui remet l’établissement en vertu de l’art. 17, al. 3, sur la base d’un extrait 2 du casier judiciaire destiné aux autorités.
+
+Art. 20b, al. 1, let. b et c, et 3
+
+<sup>1</sup>
+
+L’annonce faite par le prestataire doit être accompagnée au minimum des indications et des justificatifs suivants:
+
+- b. identité du gérant, identité et qualifications professionnelles du prestataire;
+- c. *abrogée*
+
+<sup>3</sup> À la réception de l’annonce, l’autorité demande un extrait 2 du casier judiciaire destiné aux autorités pour s’assurer de la réputation du gérant et du prestataire.
+
+Art. 20c, al. 2, let. b, et 3
+
+<sup>2</sup>
+
+Il communique en particulier:
+
+- b. tout changement de gérant ou de prestataire;
+
+<sup>3</sup> L’autorité contrôle les modifications qui lui sont communiquées et demande, dans le cas de l’al. 2, let. b, un extrait 2 du casier judiciaire destiné aux autorités.
+
+<sup>bis</sup> Art. 20d, al. 3
+
+<sup>3bis</sup> Le prestataire tient en outre une liste de l’identité des gérants et des personnes auxquelles les tâches sont confiées.
+
+Art. 20e, al. 3
+
+<sup>3</sup> Chaque année, l’autorité vérifie la réputation des personnes mentionnées dans la liste visée à l’art. 20*d*, al. 3<sup>bis</sup>, sur la base d’un extrait 2 du casier judiciaire destiné aux autorités.
+
+### 10. Ordonnance du 21 mai 2008 sur les géomètres
+
+[^annex10-lvlu1-lvl10-1]
+
+[^annex10-lvlu1-lvl10-1]: [RS 211.432.261](https://fedlex.data.admin.ch/eli/cc/2008/387)
+
+Art. 17, let. c
+
+Peut être inscrite au registre des ingénieurs géomètres (registre des géomètres) toute personne:
+
+- c. dont l’extrait du casier judiciaire destiné aux particuliers ne comporte pas de condamnation pénale pour des actes incompatibles avec l’exercice de la profession, et
+
+Art. 18, al. 2, let. c
+
+<sup>2</sup> Elle joint les documents suivants à sa demande:
+
+- c. un extrait actuel du casier judiciaire destiné aux particuliers;
+
+### 11. Ordonnance du 10 novembre 1999 sur l’activité à titre professionnel de mandataire visant à la conclusion d’un mariage ou à l’établissement d’un partenariat stable entre des personnes venant de l’étranger ou s’y rendant
+
+[^annex10-lvlu1-lvl11-1]
+
+[^annex10-lvlu1-lvl11-1]: [RS 221.218.2](https://fedlex.data.admin.ch/eli/cc/1999/493)
+
+Art. 5, al. 3, let. a
+
+<sup>3</sup> Elle doit être accompagnée:
+
+- a. d’un extrait destiné aux particuliers du casier judiciaire de la personne qui sollicite l’autorisation et des personnes responsables de l’activité;
+
+[Art. 6, let. b](https://www.admin.ch/opc/de/classified-compilation/19995759/index.html)
+
+L’autorisation est accordée:
+
+- b. si la demande d’autorisation et les documents qui l’accompagnent, notamment les extraits du casier judiciaire destinés aux particuliers, permettent de penser que l’activité sera exercée consciencieusement et conformément au droit;
+
+### 12. Ordonnance du 24 octobre 1979 concernant la justice pénale militaire
+
+[^annex10-lvlu1-lvl12-1]
+
+[^annex10-lvlu1-lvl12-1]: [RS 322.2](https://fedlex.data.admin.ch/eli/cc/1979/1880_1880_1880)
+
+Art. 60, al. 2, let. b, ch. 1
+
+<sup>2</sup> Le dispositif du jugement doit être notifié aux offices suivants:
+
+- b.
+
+  Sans retard après l’entrée en force:
+
+  - 1\. au service de coordination de la justice militaire pour saisie dans le casier judiciaire informatique VOSTRA,
+
+### 13. Ordonnance du 3 décembre 2004 sur les profils d’ADN
+
+[^annex10-lvlu1-lvl13-1]
+
+[^annex10-lvlu1-lvl13-1]: [RS 363.1](https://fedlex.data.admin.ch/eli/cc/2004/812)
+
+Art. 2a, let. d
+
+Les documents suivants doivent être joints à la demande de reconnaissance:
+
+- d. l’extrait destiné aux particuliers du casier judiciaire et l’extrait du registre des poursuites pour dettes et faillites de chaque membre de la direction;
+
+### 14. Ordonnance IPAS du 15 octobre 2008[](https://www.admin.ch/opc/de/classified-compilation/20081754/index.html)
+
+[^annex10-lvlu1-lvl14-1]
+
+[^annex10-lvlu1-lvl14-1]: [RS 361.2](https://fedlex.data.admin.ch/eli/cc/2008/700)
+
+Art. 7, al. 1, let. h
+
+<sup>1</sup> Fedpol peut, dans le cadre de l’entraide administrative, communiquer sur demande des informations enregistrées dans IPAS aux autorités suivantes, pour autant que cela soit nécessaire à l’accomplissement de leurs tâches légales:
+
+- h. le Service du casier judiciaire de l’Office fédéral de la justice pour l’identification de personnes enregistrées dans le casier judiciaire informatique VOSTRA lorsque l’on soupçonne une erreur dans la mise en relation entre des données et des personnes;
+
+### 15. Ordonnance du 6 décembre 2013 sur le traitement des données signalétiques biométriques
+
+[^annex10-lvlu1-lvl15-1]
+
+[^annex10-lvlu1-lvl15-1]: [RS 361.3](https://fedlex.data.admin.ch/eli/cc/2014/23)
+
+#### Art. 17
+
+**Effacement des données signalétiques étrangères**
+
+<sup>RS 363</sup> Les données signalétiques étrangères sont effacées 30 ans après leur saisie dans IPAS, à moins qu’elles n’aient déjà été effacées en application des art. 16 à 19 de la loi du 20 juin 2003 sur les profils d’ADN.
+
+Art. 19 à 21
+
+Abrogés
+
+### 16. Ordonnance du 12 octobre 2016 sur les systèmes d’information de la Confédération dans le domaine du sport
+
+[^annex10-lvlu1-lvl16-1]
+
+[^annex10-lvlu1-lvl16-1]: [RS 415.11](https://fedlex.data.admin.ch/eli/cc/2016/597)
+
+Art. 5, al. 3, let. a
+
+<sup>3</sup> Les données suivantes sont conservées pour une durée réduite:
+
+- a. données pénales, pour autant qu’elles soient nécessaires pour justifier une décision d’attribution, de suspension ou de retrait de reconnaissance de cadre J+S et qu’elles ne figurent plus dans l’extrait 2 du casier judiciaire destiné aux autorités: jusqu’à ce que la personne concernée demande leur destruction;
+
+### 17. Ordonnance du 30 juin 1993 sur les relevés statistiques
+
+[^annex10-lvlu1-lvl17-1]
+
+[^annex10-lvlu1-lvl17-1]: [RS 431.012.1](https://fedlex.data.admin.ch/eli/cc/1993/2100_2100_2100)
+
+Annexe, ch. 88
+
+<table>
+<tr><td>Organe responsable de l’enquête:</td><td>Office fédéral de la statistique</td></tr>
+<tr><td>Objet de l’enquête:</td><td>jugements et décisions ultérieures à l’encontre des personnes de plus de 18 ans ayant force exécutoire et saisis dans le casier judiciaire informatique VOSTRA; codes d’identification, caractères socio-démo­graphiques, infractions et sanctions</td></tr>
+<tr><td>Type et méthode d’enquête:</td><td>tous les jugements et décisions ultérieures saisis dans VOSTRA; appariement avec des données de la statistique de la population et des ménages (STATPOP), exclusivement pour indiquer le statut de séjour s’il fait défaut</td></tr>
+</table>
+
+### 18. Ordonnance du 22 novembre 2017 sur les obligations militaires
+
+[^annex10-lvlu1-lvl18-1]
+
+[^annex10-lvlu1-lvl18-1]: [RS 512.21](https://fedlex.data.admin.ch/eli/cc/2017/810)
+
+[Art. 22,](https://www.admin.ch/opc/de/classified-compilation/20010418/index.html)al. 3, let. c, ch. 2
+
+<sup>3</sup> Le requérant:
+
+- c.
+
+  joint à sa demande les documents suivants:
+
+  - 2\. un extrait actuel destiné aux particuliers de son casier judiciaire,
+
+### 19. Ordonnance du 2 juillet 2008 sur les armes[](https://www.admin.ch/opc/de/classified-compilation/20081148/index.html)
+
+[^annex10-lvlu1-lvl19-1]
+
+[^annex10-lvlu1-lvl19-1]: [RS 514.541](https://fedlex.data.admin.ch/eli/cc/2008/767)
+
+Remplacement d’une expression
+
+*Dans tout l’acte,* «extrait du casier judiciaire suisse» *est remplacé par* «extrait du casier judiciaire destiné aux particuliers»*.*
+
+Art. 11, al. 3, let. b
+
+Abrogée
+
+Art. 12, al. 3, let. a
+
+Abrogée
+
+Art. 13d, al. 2, let. a
+
+Abrogée
+
+Art. 13h, al. 2, let. a
+
+Abrogée
+
+Art. 15, al. 2, let. a
+
+Abrogée
+
+Art. 28, al. 1, let. a
+
+Abrogée
+
+Art. 35, al. 2, let. a
+
+Abrogée
+
+Art. 39, al. 1, let. b
+
+Abrogée
+
+Art. 46, al. 3, let. a
+
+Abrogée
+
+Art. 48, al. 1, let. a
+
+Abrogée
+
+### 20. Ordonnance du 27 octobre 1976 réglant l’admission à la circulation routière
+
+[^annex10-lvlu1-lvl20-1]
+
+[^annex10-lvlu1-lvl20-1]: [RS 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
+
+Art. 11b, al. 2
+
+<sup>2</sup> Elle peut se procurer un extrait 3 du casier judiciaire destiné aux autorités et, en cas de doute, un rapport de police.
+
+### 21. Ordonnance du 2 septembre 2015 sur la licence d’entreprise de transport de voyageurs et de marchandises par route
+
+[^annex10-lvlu1-lvl21-1]
+
+[^annex10-lvlu1-lvl21-1]: [RS 744.103](https://fedlex.data.admin.ch/eli/cc/2015/597)
+
+#### Art. 2
+
+Pour prouver son honorabilité, le gestionnaire de transport doit présenter un extrait destiné aux particuliers de son casier judiciaire. Cet extrait ne doit pas être antérieur à trois mois.
+
+### 22. Ordonnance du 6 juillet 1951 sur les trolleybus[](https://www.admin.ch/opc/de/classified-compilation/19510131/index.html)
+
+[^annex10-lvlu1-lvl22-1]
+
+[^annex10-lvlu1-lvl22-1]: [RS 744.211](https://fedlex.data.admin.ch/eli/cc/1951/671_669_691)
+
+Art. 17, al. 3
+
+<table>
+<tr><td></td><td><sup>3</sup> Le permis de conduire pour trolleybus constitue une catégorie particulière du permis de conduire. Il ne peut être délivré qu’à des conducteurs ayant atteint l’âge de 21 ans qui remplissent les conditions médicales minimums requises pour la conduite des voitures automobiles lourdes servant au transport de personnes. Le requérant doit présenter un certificat d’un médecin reconnu par l’autorité cantonale, ainsi qu’un certificat de bonnes mœurs et un extrait du casier judiciaire destiné aux particuliers.</td></tr>
+</table>
+
+### 23. Ordonnance du 25 mai 2011 sur le contrôle des stupéfiants
+
+[^annex10-lvlu1-lvl23-1]
+
+[^annex10-lvlu1-lvl23-1]: [RS 812.121.1](https://fedlex.data.admin.ch/eli/cc/2011/362)
+
+Art. 15, al. 2, let. b
+
+<sup>2</sup> Les documents suivants doivent être joints à la demande d’autorisation:
+
+- b. un extrait destiné aux particuliers du casier judiciaire de la personne responsable ne datant pas de plus de six mois; si celle-ci est domiciliée à l’étranger, l’autorité peut demander un extrait du casier judiciaire de l’État concerné;
+
+### 24. Ordonnance du 14 novembre 2018 sur les autorisations dans le domaine des médicaments
+
+[^annex10-lvlu1-lvl24-1]
+
+[^annex10-lvlu1-lvl24-1]: [RS 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786)
+
+Art. 39, al. 4
+
+<sup>4</sup> Swissmedic peut exiger un extrait destiné aux particuliers du casier judiciaire suisse ou un extrait d’un casier judiciaire étranger.
+
+### 25. Ordonnance du 11 septembre 2002 sur la partie générale du droit des assurances sociales
+
+[^annex10-lvlu1-lvl25-1]
+
+[^annex10-lvlu1-lvl25-1]: [RS 830.11](https://fedlex.data.admin.ch/eli/cc/2002/569)
+
+Art. 7b, al. 1, let. a
+
+<sup>1</sup> L’autorisation est accordée si:
+
+- a. l’extrait destiné aux particuliers du casier judiciaire du requérant au sens de l’art. 41 de la loi du 17 juin 2016 sur le casier judiciaire[^annex10-lvlu1-lvl25-2] est exempt de toute infraction faisant apparaître un lien avec l’activité soumise à autorisation;
+
+[^annex10-lvlu1-lvl25-2]: [RS 330](https://fedlex.data.admin.ch/eli/cc/2022/600)
+
+### 26. Ordonnance des 10 et 22 juin 2011 sur la surveillance dans la prévoyance professionnelle
+
+[^annex10-lvlu1-lvl26-1]
+
+[^annex10-lvlu1-lvl26-1]: [RS 831.435.1](https://fedlex.data.admin.ch/eli/cc/2011/460)
+
+Art. 12, al. 3, let. a
+
+<sup>3</sup> Elles soumettent en outre à l’autorité de surveillance, pour l’examen de l’intégrité et de la loyauté des responsables, les documents suivants:
+
+- a. pour les personnes physiques: des informations sur la nationalité, le domicile, les participations qualifiées détenues dans d’autres entités et d’éventuelles procédures judiciaires et administratives pendantes, ainsi qu’un curriculum vitæ signé, des références et un extrait du casier judiciaire destiné aux particuliers;
+
+Art. 13, al. 3, let. a
+
+<sup>3</sup> Lorsqu’elle examine l’intégrité et la loyauté des responsables, elle prend notamment en considération:
+
+- a. les condamnations pénales qui figurent sur l’extrait du casier judiciaire destiné aux particuliers;
+
+### 27. Ordonnance du 8 mai 1934 sur le contrôle des métaux précieux[](https://www.admin.ch/opc/de/classified-compilation/19340042/index.html)
+
+[^annex10-lvlu1-lvl27-1]
+
+[^annex10-lvlu1-lvl27-1]: [RS 941.311](https://fedlex.data.admin.ch/eli/cc/50/363_375_420)
+
+Remplacement d’une expression
+
+*Dans tout l’acte,* «extrait du casier judiciaire suisse» *est remplacé par* «extrait du casier judiciaire destiné aux particuliers»*.*
+
+### 28. Ordonnance du 4 septembre 2002 sur le commerce itinérant
+
+[^annex10-lvlu1-lvl28-1]
+
+[^annex10-lvlu1-lvl28-1]: [RS 943.11](https://fedlex.data.admin.ch/eli/cc/2002/509)
+
+Art. 7, al. 1, let. c
+
+<sup>1</sup> Les documents exigés à l’art. 4, al. 2, de la loi doivent répondre aux exigences suivantes:
+
+- c. l’extrait du casier judiciaire destiné aux particuliers doit avoir été établi au cours du dernier mois;
+
+Art. 8, al. 2
+
+<sup>2</sup> L’autorité cantonale compétente demande un préavis au Secrétariat d’État à l’économie (SECO) lorsqu’elle estime qu’il y a lieu de refuser l’autorisation en vertu de l’art. 4, al. 1, de la loi sur la base de l’examen de l’extrait du casier judiciaire destiné aux particuliers. Elle lui transmet sans retard la demande du requérant ainsi que l’extrait du casier judiciaire destiné aux particuliers et lui indique la date à laquelle le requérant souhaite commencer son activité.
+
+Art. 15, al. 2, et 4, let. b
+
+<sup>2</sup> Si les entreprises et les associations économiques habilitées envisagent de refuser la carte de légitimation conformément à l’art. 4, al. 1, de la loi, elles transmettent à l’autorité cantonale compétente le formulaire de demande et l’extrait destiné aux particuliers du casier judiciaire de la personne concernée. L’autorité cantonale compétente les transmet au SECO.
+
+<sup>4</sup> Elles communiquent à l’autorité cantonale compétente, dans les sept jours à compter de la date d’établissement ou de renouvellement de la carte de légitimation:
+
+- b. une copie de l’extrait destiné aux particuliers du casier judiciaire du commerçant itinérant;
+
+Art. 17, al. 1
+
+<sup>1</sup> L’autorité cantonale compétente procède à des contrôles par sondage pour vérifier si les entreprises et les associations économiques habilitées répondent aux conditions légales. À cet effet, elle examine périodiquement les copies des extraits du casier judiciaire destinés aux particuliers et des cartes de légitimation.
+
+#### Art. 27
+
+L’autorité cantonale compétente peut exiger d’une personne qu’elle remette un extrait destiné aux particuliers actuel de son casier judiciaire lorsqu’il existe des indices qu’elle ne répond plus aux conditions légales.
+
+### 29. Ordonnance du 30 avril 2014 sur les banques
+
+[^annex10-lvlu1-lvl29-1]
+
+[^annex10-lvlu1-lvl29-1]: [RS 952.02](https://fedlex.data.admin.ch/eli/cc/2014/273)
+
+Art. 8, al. 1, let. a, ch. 4
+
+<sup>1</sup> Les demandes d’autorisation pour l’ouverture de nouvelles banques doivent contenir notamment les indications et documents suivants sur les personnes chargées d’administrer et de gérer la banque ou la personne visée à l’art. 1*b* LB au sens de l’art. 3, al. 2, let. c, LB, et sur les détenteurs de participations qualifiées au sens de l’art. 3, al. 2, let. c<sup>bis</sup>, LB:
+
+- a.
+
+  pour les personnes physiques:
+
+  - 4\. un extrait du casier judiciaire destiné aux particuliers et un extrait du registre des poursuites ou, si elles sont domiciliées à l’étranger, des attestations analogues;
+
+### 30. Ordonnance du 6 novembre 2019 sur les établissements financiers
+
+[^annex10-lvlu1-lvl30-1]
+
+[^annex10-lvlu1-lvl30-1]: [RS 954.11](https://fedlex.data.admin.ch/eli/cc/2019/763)
+
+Art. 13, al. 1, let. a, ch. 4
+
+<sup>1</sup> La demande d’autorisation pour un nouvel établissement financier doit contenir notamment les indications et les documents suivants sur les personnes chargées d’administrer et de gérer l’établissement au sens de l’art. 11, al. 1 et 2, LEFin et sur les détenteurs de participations qualifiées au sens de l’art. 11, al. 3, LEFin:
+
+- a.
+
+  pour les personnes physiques:
+
+  - 4\. un extrait du casier judiciaire destiné aux particuliers et un extrait du registre des poursuites ou, si elles sont domiciliées à l’étranger, des attestations analogues;
+
+### 31. Ordonnance du 9 novembre 2005 sur la surveillance
+
+[^annex10-lvlu1-lvl31-1]
+
+[^annex10-lvlu1-lvl31-1]: [RS 961.011](https://fedlex.data.admin.ch/eli/cc/2005/735)
+
+Art. 185, let. b
+
+L’intermédiaire doit remplir les conditions personnelles suivantes:
+
+- b. l’extrait du casier judiciaire destiné aux particuliers ou, s’il a son domicile à l’étranger, une attestation équivalente des autorités étrangères ne comporte aucune condamnation pénale pour des faits qui ne sont pas compatibles avec l’activité d’intermédiaire;
+
+Art. 189, al. 1, let. i
+
+<sup>1</sup> Les intermédiaires inscrits communiquent les modifications suivantes à la FINMA, dans les 15 jours à compter de celui où ils en ont connaissance:
+
+- i. une condamnation pénale inscrite au casier judiciaire informatique VOSTRA pour l’une des infractions contre le patrimoine visées aux art. 137 à 172<sup>ter</sup> du code pénal[^annex10-lvlu1-lvl31-2];
+
+[^annex10-lvlu1-lvl31-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
