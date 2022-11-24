@@ -3,11 +3,11 @@ sr: "0.732.321.2"
 title: "Convention du 26 septembre 1986 sur l'assistance en cas d'accident nucléaire ou de situation d'urgence radiologique"
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/1371_1371_1371"
 language: fr
-version: 2020-05-26
+version: 2022-11-25
 adopted: 1986-09-26
 in_force: 1988-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1371_1371_1371/20200526/fr/xml/fedlex-data-admin-ch-eli-cc-1988-1371_1371_1371-20200526-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/1371_1371_1371/20200526/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1371_1371_1371/20221125/fr/xml/fedlex-data-admin-ch-eli-cc-1988-1371_1371_1371-20221125-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/1371_1371_1371/20221125/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 31 mai 1988
 
 Entrée en vigueur pour la Suisse le 1<sup>er</sup> juillet 1988
 
-(Etat le 26 mai 2020)
+(État le 25 novembre 2022)
 
 [^t-1]: [RO 1988 1370](https://fedlex.data.admin.ch/eli/oc/1988/1370_1370_1370)
 
@@ -317,7 +317,7 @@ L’original de la présente Convention, dont les versions anglaise, arabe, chin
 
 *En foi de quoi,* les soussignés, dûment habilités, ont signé la présente Convention, ouverte à la signature conformément aux dispositions du par. 1 de l’art. 14. Adoptée par la Conférence générale de l’Agence internationale de l’énergie atomique réunie en session extraordinaire à Vienne le vingt‑six septembre mil neuf cent quatre‑vingt‑six. (Suivent les signatures)
 
-Champ d’application le 26 mai 2020**[^t-2]**
+Champ d’application le 25 novembre 2022[^t-2]
 
 <table>
 <tr><th colspan="2">États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S) Signature sans réserve de ratification (Si)</th><th colspan="2"></th><th>Entrée en vigueur</th><th></th></tr>
@@ -340,6 +340,7 @@ Champ d’application le 26 mai 2020**[^t-2]**
 <tr><td>Brésil</td><td colspan="3">4 décembre</td><td>1990</td><td>4 janvier</td><td>1991</td></tr>
 <tr><td>Bulgarie</td><td colspan="3">24 février</td><td>1988</td><td>26 mars</td><td>1988</td></tr>
 <tr><td>Burkina Faso</td><td colspan="3">7 août</td><td>2014 A</td><td>6 septembre</td><td>2014</td></tr>
+<tr><td>Cambodge<sup>\*</sup></td><td colspan="3">26 septembre</td><td>2022 A</td><td>26 octobre</td><td>2022</td></tr>
 <tr><td>Cameroun</td><td colspan="3">17 janvier</td><td>2006</td><td>16 février</td><td>2006</td></tr>
 <tr><td>Canada\*</td><td colspan="3">12 août</td><td>2002</td><td>12 septembre</td><td>2002</td></tr>
 <tr><td>Chili</td><td colspan="3">22 septembre</td><td>2004</td><td>23 octobre</td><td>2004</td></tr>
@@ -349,6 +350,7 @@ Champ d’application le 26 mai 2020**[^t-2]**
 <tr><td>[tab] Communauté européenne de l’énergie atomique (CEEA/EURATOM)\*</td><td colspan="3">14 novembre</td><td>2006 A</td><td>14 décembre</td><td>2006</td></tr>
 <tr><td>Corée (Sud)\*</td><td colspan="3">8 juin</td><td>1990 A</td><td>9 juillet</td><td>1990</td></tr>
 <tr><td>Costa Rica</td><td colspan="3">16 septembre</td><td>1991</td><td>17 octobre</td><td>1991</td></tr>
+<tr><td>Côte d’Ivoire</td><td colspan="3">21 septembre</td><td>2020</td><td>21 octobre</td><td>2020</td></tr>
 <tr><td>Croatie</td><td colspan="3">29 septembre</td><td>1992 S</td><td>8 octobre</td><td>1991</td></tr>
 <tr><td>Cuba\*</td><td colspan="3">8 janvier</td><td>1991</td><td>8 février</td><td>1991</td></tr>
 <tr><td>Danemark\* <sup>a</sup></td><td colspan="3">26 septembre</td><td>2008</td><td>26 octobre</td><td>2008</td></tr>
@@ -381,7 +383,7 @@ Champ d’application le 26 mai 2020**[^t-2]**
 <tr><td>Kazakhstan</td><td colspan="3">10 mars</td><td>2010 A</td><td>9 avril</td><td>2010</td></tr>
 <tr><td>Koweït</td><td colspan="3">13 mai</td><td>2003 A</td><td>13 juin</td><td>2003</td></tr>
 <tr><td>Laos</td><td colspan="3">10 mai</td><td>2013 A</td><td>9 juin</td><td>2013</td></tr>
-<tr><td>Lesotho</td><td colspan="3">17 septembre</td><td>2013</td><td>17 octobre</td><td>2013</td></tr>
+<tr><td>Lesotho</td><td colspan="3">17 septembre</td><td>2013 A</td><td>17 octobre</td><td>2013</td></tr>
 <tr><td>Lettonie</td><td colspan="3">28 décembre</td><td>1992 A</td><td>28 janvier</td><td>1993</td></tr>
 <tr><td>Liban</td><td colspan="3">17 avril</td><td>1997</td><td>18 mai</td><td>1997</td></tr>
 <tr><td>Libye</td><td colspan="3">27 juin</td><td>1990 A</td><td>28 juillet</td><td>1990</td></tr>
@@ -391,6 +393,7 @@ Champ d’application le 26 mai 2020**[^t-2]**
 <tr><td>Macédoine du Nord</td><td colspan="3">20 septembre</td><td>1996 S</td><td>17 novembre</td><td>1991</td></tr>
 <tr><td>Madagascar</td><td colspan="3">3 mars</td><td>2017 A</td><td>2 avril</td><td>2017</td></tr>
 <tr><td>Malaisie\*</td><td colspan="3">1<sup>er</sup> septembre</td><td>1987 Si</td><td>2 octobre</td><td>1987</td></tr>
+<tr><td>Malawi</td><td colspan="3">11 février</td><td>2022 A</td><td>13 mars</td><td>2022</td></tr>
 <tr><td>Mali</td><td colspan="3">1<sup>er</sup> octobre</td><td>2007</td><td>31 octobre</td><td>2007</td></tr>
 <tr><td>Maroc</td><td colspan="3">7 octobre</td><td>1993</td><td>7 novembre</td><td>1993</td></tr>
 <tr><td>Maurice\*</td><td colspan="3">17 août</td><td>1992 A</td><td>17 septembre</td><td>1992</td></tr>
@@ -401,11 +404,15 @@ Champ d’application le 26 mai 2020**[^t-2]**
 <tr><td>Mongolie</td><td colspan="3">11 juin</td><td>1987</td><td>12 juillet</td><td>1987</td></tr>
 <tr><td>Monténégro</td><td colspan="3">21 mars</td><td>2007 S</td><td>3 juin</td><td>2006</td></tr>
 <tr><td>Mozambique</td><td colspan="3">30 octobre</td><td>2009 A</td><td>29 novembre</td><td>2009</td></tr>
+<tr><td>Myanmar<sup>\*</sup></td><td colspan="3">4 octobre</td><td>2022 A</td><td>3 novembre</td><td>2022</td></tr>
+<tr><td>Namibie<sup>\*</sup></td><td colspan="3">27 juillet</td><td>2020 A</td><td>26 août</td><td>2020</td></tr>
 <tr><td>Nicaragua\*</td><td colspan="3">11 novembre</td><td>1993 A</td><td>12 décembre</td><td>1993</td></tr>
 <tr><td>Niger</td><td colspan="3">5 décembre</td><td>2016</td><td>4 janvier</td><td>2017</td></tr>
 <tr><td>Nigéria</td><td colspan="3">10 août</td><td>1990</td><td>10 septembre</td><td>1990</td></tr>
 <tr><td>Norvège\*</td><td colspan="3">26 septembre</td><td>1986 Si</td><td>26 février</td><td>1987</td></tr>
 <tr><td>Nouvelle-Zélande\*</td><td colspan="3">11 mars</td><td>1987 A</td><td>11 avril</td><td>1987</td></tr>
+<tr><td>Nioué</td><td colspan="3">11 mars</td><td>1987 A</td><td>11 avril</td><td>1987</td></tr>
+<tr><td>Îles Cook</td><td colspan="3">11 mars</td><td>1987 A</td><td>11 avril</td><td>1987</td></tr>
 <tr><td>Oman\*</td><td colspan="3">9 juillet</td><td>2009 A</td><td>8 août</td><td>2009</td></tr>
 <tr><td>[tab] Organisation des Nations Unies pour l’alimentation et l’agriculture (FAO)\*</td><td colspan="3">19 octobre</td><td>1990 A</td><td>19 novembre</td><td>1990</td></tr>
 <tr><td>[tab] Organisation météorologique mondiale (OMM)\*</td><td colspan="3">17 avril</td><td>1990 A</td><td>18 mai</td><td>1990</td></tr>
@@ -423,6 +430,7 @@ Champ d’application le 26 mai 2020**[^t-2]**
 <tr><td>Pologne</td><td colspan="3">24 mars</td><td>1988</td><td>24 avril</td><td>1988</td></tr>
 <tr><td>Portugal</td><td colspan="3">23 octobre</td><td>2003</td><td>23 novembre</td><td>2003</td></tr>
 <tr><td>Qatar</td><td colspan="3">4 novembre</td><td>2005 A</td><td>4 décembre</td><td>2005</td></tr>
+<tr><td>Rwanda</td><td colspan="3">23 septembre</td><td>2021 A</td><td>23 octobre</td><td>2021</td></tr>
 <tr><td>République tchèque</td><td colspan="3">24 mars</td><td>1993 S</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
 <tr><td>Roumanie\*</td><td colspan="3">12 juin</td><td>1990 A</td><td>13 juillet</td><td>1990</td></tr>
 <tr><td>Royaume-Uni\*</td><td colspan="3">9 février</td><td>1990</td><td>12 mars</td><td>1990</td></tr>
@@ -431,7 +439,7 @@ Champ d’application le 26 mai 2020**[^t-2]**
 <tr><td>Sénégal</td><td colspan="3">24 décembre</td><td>2008</td><td>23 janvier</td><td>2009</td></tr>
 <tr><td>Serbie</td><td colspan="3">5 février</td><td>2002 S</td><td>27 avril</td><td>1992</td></tr>
 <tr><td>Singapour</td><td colspan="3">15 décembre</td><td>1997 A</td><td>15 janvier</td><td>1998</td></tr>
-<tr><td>Slovaquie\*</td><td colspan="3">10 février</td><td>1993 S</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
+<tr><td>Slovaquie</td><td colspan="3">10 février</td><td>1993 S</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
 <tr><td>Slovénie</td><td colspan="3">7 juillet</td><td>1992 S</td><td>28 juin</td><td>1991</td></tr>
 <tr><td>Sri Lanka\*</td><td colspan="3">11 janvier</td><td>1991 A</td><td>11 février</td><td>1991</td></tr>
 <tr><td>Suède\*</td><td colspan="3">24 juin</td><td>1992</td><td>25 juillet</td><td>1992</td></tr>
@@ -445,7 +453,8 @@ Champ d’application le 26 mai 2020**[^t-2]**
 <tr><td>Ukraine\*</td><td colspan="3">26 janvier</td><td>1987</td><td>26 février</td><td>1987</td></tr>
 <tr><td>Uruguay</td><td colspan="3">21 décembre</td><td>1989 A</td><td>21 janvier</td><td>1990</td></tr>
 <tr><td>Vietnam\*</td><td colspan="3">29 septembre</td><td>1987 A</td><td>30 octobre</td><td>1987</td></tr>
+<tr><td>Zimbabwe</td><td colspan="3">20 septembre</td><td>2021</td><td>20 octobre</td><td>2021</td></tr>
 <tr><td colspan="7">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en anglais peuvent être consultés à l’adresse du site Internet de l’Agence internationale de l’énergie atomique (AIEA): www.iaea.org/ &gt; Resources &gt; Treaties, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> La Convention ne s’applique pas aux îles Féroé et au Groenland</td></tr>
 </table>
 
-[^t-2]: [RO 1988 1371](https://fedlex.data.admin.ch/eli/oc/1988/1371_1371_1371), [1989 400](https://fedlex.data.admin.ch/eli/oc/1989/400_400_400), [1990 1625](https://fedlex.data.admin.ch/eli/oc/1990/1625_1625_1625), [1991 2220](https://fedlex.data.admin.ch/eli/oc/1991/2220_2220_2220), [2005 2231](https://fedlex.data.admin.ch/eli/oc/2005/373), [2007 3597](https://fedlex.data.admin.ch/eli/oc/2007/443), [2010 1631](https://fedlex.data.admin.ch/eli/oc/2010/239), [2013 2311](https://fedlex.data.admin.ch/eli/oc/2013/482), [2016 507](https://fedlex.data.admin.ch/eli/oc/2016/90), [2018 3011](https://fedlex.data.admin.ch/eli/oc/2018/467), [2020 2177](https://fedlex.data.admin.ch/eli/oc/2020/431). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 1988 1371](https://fedlex.data.admin.ch/eli/oc/1988/1371_1371_1371); [1989 400](https://fedlex.data.admin.ch/eli/oc/1989/400_400_400); [1990 1625](https://fedlex.data.admin.ch/eli/oc/1990/1625_1625_1625); [1991 2220](https://fedlex.data.admin.ch/eli/oc/1991/2220_2220_2220); [2005 2231](https://fedlex.data.admin.ch/eli/oc/2005/373); [2007 3597](https://fedlex.data.admin.ch/eli/oc/2007/443); [2010 1631](https://fedlex.data.admin.ch/eli/oc/2010/239); [2013 2311](https://fedlex.data.admin.ch/eli/oc/2013/482); [2016 507](https://fedlex.data.admin.ch/eli/oc/2016/90); [2018 3011](https://fedlex.data.admin.ch/eli/oc/2018/467); [2020 2177](https://fedlex.data.admin.ch/eli/oc/2020/431); [2022 762](https://fedlex.data.admin.ch/eli/oc/2022/762). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: https://www.fedlex.admin.ch/fr/treaty
