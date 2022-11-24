@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Droit d’exécution de la loi sur la sécurité de l’information
 document: Projet mis en consultation
 language: fr

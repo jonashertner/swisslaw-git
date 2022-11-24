@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Ausführungsrecht zum Informationssicherheitsgesetz
 document: Vernehmlassungsvorlage
 language: de

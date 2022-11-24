@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Diritto d’esecuzione della legge sulla sicurezza delle informazioni
 document: Progetto posto in consultazione-4
 language: it
