@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Standesinitiativen. ZG. Politisches Mandat auch bei Mutterschaft. Änderung der Bundesgesetzgebung. BL. Teilnahme an Parlamentssitzungen während des Mutterschaftsurlaubs. LU. Politikerinnen im Mutterschaftsurlaub. BS Wahrnehmung des Parlamentsmandates während des Mutterschaftsurlaubs
 document: Vernehmlassungsvorlage
 language: de

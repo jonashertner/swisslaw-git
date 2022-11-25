@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Iniziative cantonali. ZG. Mandato politico anche in caso di maternità. Modifica della legislazione federale. BL. Partecipazione a sedute parlamentari durante il congedo di maternità. LU. Donne in politica in congedo di maternità. BS. Adempimento del mandato parlamentare durante il congedo di maternità
 document: Progetto posto in consultazione
 language: it

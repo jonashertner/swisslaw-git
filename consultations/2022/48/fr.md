@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Initiatives cantonales. ZG. Exercer un mandat politique en cas de maternité. Modification de la législation fédérale. BL. Participation aux séances parlementaires pendant le congé de maternité. LU. Femmes politiques en congé maternité. BS. Exercice du mandat parlementaire pendant le congé de maternité
 document: Projet mis en consultation
 language: fr
