@@ -3,18 +3,18 @@ sr: "916.443.116"
 title: Verordnung des BLV vom 24. November 2022 über Massnahmen zur Verhinderung der Weiterverbreitung der Aviären Influenza
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/713"
 language: de
-version: 2022-11-25
+version: 2022-11-28
 adopted: 2022-11-24
 in_force: 2022-11-25
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/713/20221125/de/xml/fedlex-data-admin-ch-eli-cc-2022-713-20221125-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/713/20221125/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/713/20221128/de/xml/fedlex-data-admin-ch-eli-cc-2022-713-20221128-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/713/20221128/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des BLV über Massnahmen zur Verhinderung der Weiterverbreitung der Aviären Influenza
 
-vom 24. November 2022 (Stand am 25. November 2022)
+vom 24. November 2022 (Stand am 28. November 2022)
 
 Das Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV),
 
@@ -103,13 +103,75 @@ Die Ausfuhr von Tierprodukten nach Artikel 1 Absatz 1 Buchstaben c–e aus den S
 - e. die Durchfuhrbedingungen allfälliger Durchfuhrstaaten eingehalten werden; und
 - f. aufgrund der aktuellen Seuchenlage keine Gründe gegen eine Ausfuhr sprechen.
 
-## 3. Abschnitt: …
+## 3. Abschnitt: Kontrollgebiet
 
-#### Art. 7–12
+#### Art. 7
 
-[^712-1]
+**Umfang des Kontrollgebietes**
 
-[^712-1]: Treten am 28. Nov. 2022 in Kraft.
+Das Kontrollgebiet umfasst die ganze Schweiz.
+
+#### Art. 8
+
+**Massnahmen der Tierhalterinnen und Tierhalter**
+
+<sup>1</sup>
+
+Tierhalterinnen und Tierhalter im Kontrollgebiet müssen ihre Tierhaltung vor einer Einschleppung der Aviären Influenza schützen. Zu diesem Zweck treffen sie eine der folgenden Massnahmen:
+
+- a. Sie beschränken den Auslauf des Hausgeflügels auf den geschlossenen Aussenklimabereich.
+- b. Sie stellen sicher, dass im Aussenbereich Futter- und Tränkestellen nicht zugänglich sind für Wildvögel und dass die Auslaufflächen und Wasserbecken durch Zäune oder Netze mit einer Maschenweite von höchstens 4 cm gegen den Zuflug von Wildvögeln gesichert sind.
+- c. Sie halten das Hausgeflügel in einem geschlossenen Stall oder in einem anderen geschlossenen Haltungssystem, das für Wildvögel nicht zugänglich ist.
+
+<sup>2</sup> Sie müssen die Vögel der Ordnung Hühnervögel (*Galliformes*) von den Vögeln der Ordnungen Gänsevögel (*An**seriformes*) und Laufvögel (S*truthioniformes*) getrennt halten.
+
+<sup>3</sup>
+
+Sie müssen die Einschleppung des Virus in die Tierhaltung über Personen und Geräte verhindern, indem sie:
+
+- a. die Anzahl Personen mit Zutritt zur Tierhaltung auf das Notwendige beschränken;
+- b. eine Hygieneschleuse einrichten;
+- c.
+
+  dafür sorgen, dass:
+
+  - 1\. die Tierhaltung ausschliesslich mit Kleidern und Schuhen betreten wird, die nur für die Arbeiten in der Tierhaltung verwendet und die regelmässig gewaschen beziehungsweise gereinigt werden, und
+  - 2\. alle Personen vor dem Betreten der Tierhaltung und nach Abschluss der Arbeiten die Hände waschen und desinfizieren.
+
+#### Art. 9
+
+**Melde- und Aufzeichnungspflicht von Tierhalterinnen und Tierhaltern**
+
+<sup>1</sup> Tierhalterinnen und Tierhalter müssen ausgeprägte respiratorische Symptome bei Tieren in ihrer Geflügelhaltung, einen Rückgang der Legeleistung oder eine Abnahme der Futter- und Wasseraufnahme einer Tierärztin oder einem Tierarzt melden.
+
+<sup>2</sup> Tierhalterinnen und Tierhalter, die 100 und mehr Stück Geflügel halten, müssen zusätzlich Aufzeichnungen zu umgestandenen Tieren und besonderen Krankheitsanzeichen machen.
+
+#### Art. 10
+
+**Meldepflichten von Tierärztinnen und Tierärzten**
+
+<sup>1</sup>
+
+Tierärztinnen und Tierärzten müssen der zuständigen kantonalen Veterinärbehörde Geflügelhaltungen melden mit:
+
+- a. Tieren mit respiratorischen Symptomen;
+- b. einem Rückgang der Legeleistung um mehr als 20 Prozent während 3 Tagen;
+- c. einer Abnahme der Futter- und Wasseraufnahme von mehr als 20 Prozent während 3 Tagen; oder
+- d. einem Anstieg der Mortalitätsrate auf mehr als drei Prozent in einer Woche.
+
+<sup>2</sup> Abweichend von Absatz 1 Buchstabe d müssen Tierärztinnen und Tierärzte Geflügelhaltungen mit weniger als 100 Tieren der zuständigen kantonalen Veterinärbehörde melden, wenn mehr als zwei Tiere in einer Woche gestorben sind.
+
+#### Art. 11
+
+**Märkte und Ausstellungen**
+
+An Märkten, Ausstellungen und ähnlichen Veranstaltungen im Kontrollgebiet darf kein Geflügel aufgeführt werden.
+
+#### Art. 12
+
+**Überwachung der Geflügelhaltungen**
+
+Auf Anordnung des BLV sorgt die Kantonstierärztin oder der Kantonstierarzt dafür, dass im Kontrollgebiet stichprobenweise Untersuchungen auf Influenza-A-Viren in Geflügelhaltungen durchgeführt werden.
 
 ## 4. Abschnitt: Inkrafttreten und Geltungsdauer
 

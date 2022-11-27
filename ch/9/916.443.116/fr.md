@@ -3,18 +3,18 @@ sr: "916.443.116"
 title: Ordonnance de l’OSAV du 24 novembre 2022 instituant des mesures destinées à prévenir la propagation de l’influenza aviaire
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/713"
 language: fr
-version: 2022-11-25
+version: 2022-11-28
 adopted: 2022-11-24
 in_force: 2022-11-25
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/713/20221125/fr/xml/fedlex-data-admin-ch-eli-cc-2022-713-20221125-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/713/20221125/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/713/20221128/fr/xml/fedlex-data-admin-ch-eli-cc-2022-713-20221128-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/713/20221128/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance de l’OSAV instituant des mesures destinées à prévenir la propagation de l’influenza aviaire
 
-du 24 novembre 2022 (État le 25 novembre 2022)
+du 24 novembre 2022 (État le 28 novembre 2022)
 
 L’Office fédéral de la sécurité alimentaire et des affaires vétérinaires (OSAV),
 
@@ -103,13 +103,75 @@ L’exportation des produits animaux visés à l’art. 1, al. 1, let. c à e, d
 - e. les conditions de transit d’éventuels pays tiers sont respectées, et que
 - f. au vu de la situation épizootique actuelle, rien ne s’oppose à une exportation.
 
-## Section 3 ...
+## Section 3 Région de contrôle
 
-#### Art. 7 à 12
+#### Art. 7
 
-[^712-1]
+**Étendue de la région de contrôle**
 
-[^712-1]: Entrent en vigueur le 28 nov. 2022.
+La région de contrôle englobe toute la Suisse.
+
+#### Art. 8
+
+**Mesures que doivent prendre les détenteurs d’animaux**
+
+<sup>1</sup>
+
+Dans la région de contrôle, les détenteurs d’animaux doivent protéger leur unité d’élevage contre l’introduction de l’influenza aviaire. À cet effet, ils prennent l’une des mesures suivantes:
+
+- a. ils limitent la sortie des volailles domestiques à l’aire à climat extérieur fermée;
+- b. ils s’assurent que, à l’extérieur, les emplacements d’alimentation et d’abreuvement ne sont pas accessibles aux oiseaux sauvages, et que les aires de sortie et les bassins sont protégés contre l’intrusion d’oiseaux sauvages par des clôtures ou des filets dont le maillage ne dépasse pas 4 cm;
+- c. ils détiennent les volailles domestiques dans un poulailler fermé ou dans un autre système de détention fermé qui n’est pas accessible aux oiseaux sauvages.
+
+<sup>2</sup> Ils doivent détenir les oiseaux de l’ordre des galliformes (*Galliformes*) séparément des ansériformes (*Anseriformes*) et des struthioniformes (*Struthioniformes*).
+
+<sup>3</sup>
+
+Ils doivent empêcher que le virus ne soit introduit dans l’unité d’élevage par l’intermédiaire de personnes et d’équipements en:
+
+- a. limitant au strict nécessaire le nombre de personnes ayant accès à l’unité d’élevage;
+- b. installant un sas d’hygiène;
+- c.
+
+  veillant à ce que les personnes qui accèdent à l’unité d’élevage:
+
+  - 1\. portent des vêtements et des chaussures réservés aux tâches effectuées dans l’unité d’élevage et régulièrement lavés ou nettoyés, et
+  - 2\. se lavent et se désinfectent les mains avant d’entrer dans l’unité d’élevage et après y avoir accompli leur tâche.
+
+#### Art. 9
+
+**Obligation d’annoncer et de consigner des détenteurs d’animaux**
+
+<sup>1</sup> Les détenteurs doivent annoncer à un vétérinaire les animaux présentant des symptômes respiratoires aigus dans leur unité d’élevage, une baisse de la performance de ponte ou une diminution de la consommation de nourriture et d’eau.
+
+<sup>2</sup> Les personnes qui détiennent au moins 100 volailles doivent en plus consigner les animaux trouvés morts et les signes particuliers de maladie.
+
+#### Art. 10
+
+**Obligation d’annoncer des vétérinaires**
+
+<sup>1</sup>
+
+Les vétérinaires doivent annoncer les unités d’élevages de volailles à l’autorité vétérinaire cantonale compétente lorsqu’ils constatent:
+
+- a. des animaux présentant des symptômes respiratoires;
+- b. une baisse de la performance de ponte de plus de 20 % pendant 3 jours;
+- c. une diminution de la consommation de nourriture et d’eau de plus de 20 % pendant 3 jours, ou
+- d. une augmentation du taux de mortalité de plus de 3 % en 1 semaine.
+
+<sup>2</sup> En dérogation à l’al. 1, let. d, les vétérinaires doivent annoncer à l’autorité vétérinaire cantonale compétente les unités d’élevage de volailles de moins de 100 animaux qui constatent la mort de plus de 2 animaux en 1 semaine.
+
+#### Art. 11
+
+**Marchés et expositions**
+
+La présentation de volailles à des marchés, des expositions et autres manifestations semblables organisés dans la région de contrôle est interdite.
+
+#### Art. 12
+
+**Surveillance des unités d’élevage de volailles**
+
+Sur ordre de l’OSAV, le vétérinaire cantonal veille à ce qu’un dépistage par sondage des virus de l’influenza A soit réalisé dans les unités d’élevage de volaille situées dans la région de contrôle.
 
 ## Section 4 Entrée en vigueur et durée de validité
 
