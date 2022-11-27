@@ -4,11 +4,11 @@ title: Règlement du Conseil des États du 20 juin 2003 (RCE)
 short: RCE
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/515"
 language: fr
-version: 2022-02-28
+version: 2022-11-28
 adopted: 2003-06-20
 in_force: 2003-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/515/20220228/fr/xml/fedlex-data-admin-ch-eli-cc-2003-515-20220228-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/515/20220228/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/515/20221128/fr/xml/fedlex-data-admin-ch-eli-cc-2003-515-20221128-fr-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/515/20221128/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/515/20220228/fr"
 
 (RCE)
 
-du 20 juin 2003 (Etat le 28 février 2022)
+du 20 juin 2003 (État le 28 novembre 2022)
 
 Le Conseil des États,
 
@@ -181,9 +181,11 @@ Sauf disposition contraire de la loi ou d’une ordonnance de l’Assemblée fé
 
 **Sous-commissions**
 
-<sup>1</sup> Chaque commission peut instituer en son sein, avec l’approbation du bureau, une ou plusieurs sous-commissions.
+<sup>1</sup> Chaque commission peut instituer en son sein une ou plusieurs sous-commissions.[^11-1]
 
 <sup>2</sup> Lorsqu’elle institue une sous-commission, la commission lui confie un mandat précis et lui fixe un délai pour la remise de son rapport.
+
+[^11-1]: Nouvelle teneur selon le ch. I de la D du CE du 30 sept. 2022 (Institution de sous-commissions), en vigueur depuis le 28 nov. 2022 ([RO 2022 677](https://fedlex.data.admin.ch/eli/oc/2022/677); [FF 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
 
 #### Art. 12
 
@@ -389,7 +391,7 @@ Le destinataire d’une intervention y répond par écrit avant le début de la 
 
 <sup>2</sup> Sur proposition d’un député, le conseil peut décider de débattre de la déclaration.
 
-### c.**** Immunité
+### c. Immunité
 
 [^chap3-sec2-lvlc-1]
 

@@ -4,11 +4,11 @@ title: Regolamento del Consiglio degli Stati del 20 giugno 2003 (RCS)
 short: RCS
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/515"
 language: it
-version: 2022-02-28
+version: 2022-11-28
 adopted: 2003-06-20
 in_force: 2003-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/515/20220228/it/xml/fedlex-data-admin-ch-eli-cc-2003-515-20220228-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/515/20220228/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/515/20221128/it/xml/fedlex-data-admin-ch-eli-cc-2003-515-20221128-it-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/515/20221128/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/515/20220228/it"
 
 (RCS)
 
-del 20 giugno 2003 (Stato 28 febbraio 2022) (Stato 28 febbraio 2022)
+del 20 giugno 2003 (Stato 28 novembre 2022)
 
 Il Consiglio degli Stati,
 
@@ -181,9 +181,11 @@ Nella prima sessione di ogni legislatura è istituita una commissione speciale i
 
 **Sottocommissioni**
 
-<sup>1</sup> Con il consenso dell’Ufficio, ogni commissione può istituire sottocommissioni al proprio interno.
+<sup>1</sup> Ogni commissione può istituire sottocommissioni al proprio interno.[^11-1]
 
 <sup>2</sup> La commissione definisce il mandato delle sue sottocommissioni precisandone i compiti e i termini entro cui riferire al plenum.
+
+[^11-1]: Nuovo testo giusta il n. I del D del CS del 30 set. 2022 (Istituzione di sottocommissioni), in vigore dal 28 nov. 2022 ([RU 2022 677](https://fedlex.data.admin.ch/eli/oc/2022/677); [FF 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
 
 #### Art. 12
 
@@ -389,7 +391,7 @@ Il destinatario di un intervento parlamentare vi risponde per scritto per la ses
 
 <sup>2</sup> Su proposta di un deputato, la Camera può decidere d’aprire la discussione su una tale dichiarazione.
 
-### c.**** Soppressione dell’immunità
+### c. Soppressione dell’immunità
 
 [^chap3-sec2-lvlc-1]
 
@@ -692,7 +694,7 @@ Durante le sessioni hanno accesso all’aula della Camera e alle sale laterali:
 
 Il regolamento del Consiglio degli Stati del 24 settembre 1986[^49-1] è abrogato.
 
-[^49-1]: [[RU 1987 2](https://fedlex.data.admin.ch/eli/oc/1987/2_2_2), [1991 2340](https://fedlex.data.admin.ch/eli/oc/1991/2340_2340_2340), [1994 2151](https://fedlex.data.admin.ch/eli/oc/1994/2151_2151_2151), [1995 4360](https://fedlex.data.admin.ch/eli/oc/1995/4360_4360_4360), [1997 1475](https://fedlex.data.admin.ch/eli/oc/1997/1475_1475_1475), [1998 785](https://fedlex.data.admin.ch/eli/oc/1998/785_785_785), [1999 2614](https://fedlex.data.admin.ch/eli/oc/1999/406), [2000 1](https://fedlex.data.admin.ch/eli/oc/2000/1)e [241](https://fedlex.data.admin.ch/eli/oc/2000/42)]
+[^49-1]: [[RU 1987 2](https://fedlex.data.admin.ch/eli/oc/1987/2_2_2); [1991 2340](https://fedlex.data.admin.ch/eli/oc/1991/2340_2340_2340); [1994 2151](https://fedlex.data.admin.ch/eli/oc/1994/2151_2151_2151); [1995 4360](https://fedlex.data.admin.ch/eli/oc/1995/4360_4360_4360); [1997 1475](https://fedlex.data.admin.ch/eli/oc/1997/1475_1475_1475); [1998 785](https://fedlex.data.admin.ch/eli/oc/1998/785_785_785); [1999 2614](https://fedlex.data.admin.ch/eli/oc/1999/406); [2000 1](https://fedlex.data.admin.ch/eli/oc/2000/1), [241](https://fedlex.data.admin.ch/eli/oc/2000/42)]
 
 #### Art. 50
 

@@ -4,11 +4,11 @@ title: Standing Orders of the Council of States of 20 June 2003 (SO-CS)
 short: SO-CS
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/515"
 language: en
-version: 2022-02-28
+version: 2022-11-28
 adopted: 2003-06-20
 in_force: 2003-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/515/20220228/en/xml/fedlex-data-admin-ch-eli-cc-2003-515-20220228-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/515/20220228/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/515/20221128/en/xml/fedlex-data-admin-ch-eli-cc-2003-515-20221128-en-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/515/20221128/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (SO-CS)
 
-of 20 June 2003 (Status as of 28 February 2022)
+of 20 June 2003 (Status as of 28 November 2022)
 
 The Council of States,
 
@@ -52,15 +52,15 @@ The Council acknowledges the notifications by the Cantons concerning the results
 
 ## Chapter 2 Organs
 
-### Section 1 Election of the Presiding College and of the Bureau
+### Section 1 Election of the Presiding College and of the Office
 
 #### Art. 3
 
-<sup>1</sup> The Council shall elect the members of the Presiding College and of the Bureau individually at the beginning of each winter session.
+<sup>1</sup> The Council shall elect the members of the Presiding College and of the Office individually at the beginning of each winter session.
 
 <sup>2</sup> Immediate re-election to the same office is not possible, apart from to the office in accordance with Article 5 paragraph 1 letter d.
 
-<sup>3</sup> If the office of a member of the Bureau becomes vacant during the term of office, the Council shall elect a substitute member for the remaining period; if the post of President becomes vacant, the Council shall hold a substitute election if the President leaves office before the start of the summer session.
+<sup>3</sup> If the office of a member of the Office becomes vacant during the term of office, the Council shall elect a substitute member for the remaining period; if the post of President becomes vacant, the Council shall hold a substitute election if the President leaves office before the start of the summer session.
 
 ### Section 2 President and Presiding College
 
@@ -71,11 +71,11 @@ The Council acknowledges the notifications by the Cantons concerning the results
 The President shall fulfil the tasks conferred on him or her by law and:
 
 - a. chair the Council meetings;
-- b. establish the agenda, subject to Council decisions to the contrary, taking into consideration the programme of the parliamentary session established by the Bureau;
-- c. chair the Presiding College and the Council Bureau;
+- b. establish the agenda, subject to Council decisions to the contrary, taking into consideration the programme of the parliamentary session established by the Office;
+- c. chair the Presiding College and the Council Office;
 - d. represent the Council in its external dealings.
 
-<sup>2</sup> If the President is unable to chair the meeting, or wishes by way of exception to participate in a debate, he or she shall be replaced provisionally by the First Vice-President, or if need be by the Second Vice-President.
+<sup>2</sup> If the President is unable to chair the meeting, or wishes by way of exception to participate in a debate, he or she shall be replaced provisionally by the First Vice-President, or if need be, by the Second Vice-President.
 
 <sup>3</sup>
 
@@ -93,7 +93,7 @@ The Vice-Presidents:
 
 <sup>5</sup> Decisions of the Presiding College require the approval of at least two of its members.
 
-### Section 3 The Bureau
+### Section 3 The Office
 
 #### Art. 5
 
@@ -101,14 +101,14 @@ The Vice-Presidents:
 
 <sup>1</sup>
 
-The Bureau comprises:
+The Office comprises:
 
 - a. the three members of the Presiding College;
 - b. a Teller;
 - c. a Deputy Teller;
-- d. a further member from each group of the Federal Assembly with at least five members in the Council of States which is not represented among the members of the Bureau under letters a–c.
+- d. a further member from each group of the Federal Assembly with at least five members in the Council of States which is not represented among the members of the Office under letters a–c.
 
-<sup>2</sup> The Bureau is subject to the procedural rules of the committees.
+<sup>2</sup> The Office is subject to the procedural rules of the committees.
 
 #### Art. 6
 
@@ -116,7 +116,7 @@ The Bureau comprises:
 
 <sup>1</sup>
 
-The Bureau:
+The Office:
 
 - a. plans the activities of the Council and establishes the session programme, subject to decisions by the Council to modify the list of items of business, or to add or withdraw such items;
 - b. sets the remit of the standing committees and institutes special committees;
@@ -129,7 +129,7 @@ The Bureau:
 - i. examines whether incompatibilities exist under Article 14 letters b–f ParlA, and, if necessary, requests the Council to confirm the existence of any incompatibility;
 - j. handles all other issues of organisation and procedure in the Council.
 
-<sup>2</sup> The Bureau shall consult the presidents of the committees before taking decisions on matters concerning paragraph 1 letters b, c, and f.
+<sup>2</sup> The Office shall consult the presidents of the committees before taking decisions on matters concerning paragraph 1 letters b, c, and f.
 
 <sup>3</sup> Council members have three days in which to contest an election under paragraph 1 letter g and propose the nomination of another member of the Council; the decision rests with the Council.
 
@@ -165,7 +165,7 @@ The following standing committees exist:
 
 **Special committees**
 
-In exceptional cases, the Bureau may institute special committees. Prior to doing so, it shall consult the presidents of the standing committees whose area of competence may be affected.
+In exceptional cases, the Office may institute special committees. Prior to doing so, it shall consult the presidents of the standing committees whose area of competence may be affected.
 
 #### Art. 9
 
@@ -183,9 +183,11 @@ The Legislature Planning Committee is constituted in the first session of the le
 
 **Sub-committees**
 
-<sup>1</sup> Every committee may, with the approval of the Bureau, establish its own sub-committees.
+<sup>1</sup> Every committee may establish its own sub-committees from its members.[^11-1]
 
 <sup>2</sup> The committee shall issue the sub-committee with an assignment that specifies its task and sets a deadline for the submission of its reports.
+
+[^11-1]: Amended by No I of the Decree of 30 Sept. 2022 (Appointing Subcommittees), in force since 28 Nov. 2022 ([AS 2022 677](https://fedlex.data.admin.ch/eli/oc/2022/677); [BBl 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
 
 #### Art. 12
 
@@ -222,7 +224,7 @@ The President of the committee:
 
 <sup>1</sup> A committee member may be substituted for a single meeting or individual meeting days.
 
-<sup>2</sup> If a committee member leaves the Council, the parliamentary group shall nominate a replacement, as long as the Bureau has not assigned another member to the position.
+<sup>2</sup> If a committee member leaves the Council, the parliamentary group shall nominate a replacement, as long as the Office has not assigned another member to the position.
 
 <sup>3</sup> The committee secretariat shall be notified of the replacement member under paragraphs 1 and 2 without delay.
 
@@ -282,7 +284,7 @@ Items of business under Article 71 ParlA is subject to preliminary examination b
 
 <sup>1</sup> New items of business are generally allocated to a committee for preliminary examination as soon as possible.
 
-<sup>2</sup> A Federal Council report may be allocated directly to the responsible committee. The committee may request the Bureau to include the report in the session programme.
+<sup>2</sup> A Federal Council report may be allocated directly to the responsible committee. The committee may request the Office to include the report in the session programme.
 
 #### Art. 19
 
@@ -292,7 +294,7 @@ Items of business under Article 71 ParlA is subject to preliminary examination b
 
 <sup>2</sup> The evaluation of formal legality according to Article 71 ParlA is only conducted by the President on request. If the item of business is pending in the Federal Assembly, the President of the National Council shall be consulted.
 
-<sup>3</sup> If an item of items of business is declared inadmissible by the President, the author may appeal to the Bureau. The decision of the Bureau is final.
+<sup>3</sup> If an item of items of business is declared inadmissible by the President, the author may appeal to the Office. The decision of the Office is final.
 
 #### Art. 20
 
@@ -300,7 +302,7 @@ Items of business under Article 71 ParlA is subject to preliminary examination b
 
 <sup>1</sup> Legislative bills produced by a committee or proposals submitted by the committee responsible for the preliminary examination of a legislative bill put forward by the Federal Council must be sent to members of the Council at least fourteen days before they are due to come before the Council; this rule does not apply to legislative bills examined by both chambers in the same session (Art. 85 ParlA).
 
-<sup>2</sup> If the documents are not submitted in time, the Bureau shall consider removing the item of business from the session programme.
+<sup>2</sup> If the documents are not submitted in time, the Office shall consider removing the item of business from the session programme.
 
 #### Art. 20a
 
@@ -332,7 +334,7 @@ A member of the Council may submit a parliamentary initiative or a procedural re
 
 **Answering of procedural requests**
 
-The addressee of a procedural request shall respond to the request in writing by the next ordinary session following submission of the request. If the addressee of a procedural request is unable to respond to the request within the specified period, he or she shall inform the Bureau and the author stating a reason for the delay.
+The addressee of a procedural request shall respond to the request in writing by the next ordinary session following submission of the request. If the addressee of a procedural request is unable to respond to the request within the specified period, he or she shall inform the Office and the author stating a reason for the delay.
 
 #### Art. 24
 
@@ -362,11 +364,11 @@ The addressee of a procedural request shall respond to the request in writing by
 
 <sup>1</sup> An interpellation or a question may be declared urgent.
 
-<sup>2</sup> The Bureau is responsible for the declaration of urgency.
+<sup>2</sup> The Office is responsible for the declaration of urgency.
 
 <sup>3</sup> An urgent question must be submitted at the latest one week before the close of the session, and in one-week sessions on the first day. It shall be answered by the Federal Council in writing within three weeks.[^26-1]
 
-<sup>4</sup> The Bureau may with the consent of its author convert an urgent interpellation into an urgent question.[^26-2]
+<sup>4</sup> The Office may with the consent of its author convert an urgent interpellation into an urgent question.[^26-2]
 
 [^26-1]: Amended by No I of the Decree of 21 June 2013 (Improvements in the Organisation and Procedures of Parliament), in force since 25 Nov. 2013 ([AS 2013 3695](https://fedlex.data.admin.ch/eli/oc/2013/691); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
 [^26-2]: Amended by No I of the Decree of 21 June 2013 (Improvements in the Organisation and Procedures of Parliament), in force since 25 Nov. 2013 ([AS 2013 3695](https://fedlex.data.admin.ch/eli/oc/2013/691); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
@@ -393,13 +395,13 @@ The addressee of a procedural request shall respond to the request in writing by
 
 ### c. Lifting Immunity
 
+[^chap3-sec2-lvlc-1]
+
+[^chap3-sec2-lvlc-1]: Inserted by No I of the Decree of 17 June 2011 (Council body responsible for application to lift immunity), in force since 5 Dec. 2011 ([AS 2011 4635](https://fedlex.data.admin.ch/eli/oc/2011/665); [BBl 2010 7345](https://fedlex.data.admin.ch/eli/fga/2010/1294)[7385](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
+
 #### Art. 28a
 
-[^28a-1]
-
 The Legal Affairs Committee is responsible for dealing with requests to lift the immunity of a Council member, a member of the Federal Council, the Federal Chancellor or federal judges, or similar requests.
-
-[^28a-1]: Inserted by No I of the Decree of 17 June 2011 (Council body responsible for application to lift immunity), in force since 5 Dec. 2011 ([AS 2011 4635](https://fedlex.data.admin.ch/eli/oc/2011/665); [BBl 2010 7345](https://fedlex.data.admin.ch/eli/fga/2010/1294)[7385](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
 
 ### Section 3 Organisation of Council Sittings
 
@@ -694,7 +696,7 @@ The following persons are allowed access to the Chamber and its anterooms (the L
 
 The Standing Orders of the Council of States of 24 September 1986[^49-1] are repealed.
 
-[^49-1]: [[AS 1987 2](https://fedlex.data.admin.ch/eli/oc/1987/2_2_2); [1991 2340](https://fedlex.data.admin.ch/eli/oc/1991/2340_2340_2340); [1994 2151](https://fedlex.data.admin.ch/eli/oc/1994/2151_2151_2151); [1995 4360](https://fedlex.data.admin.ch/eli/oc/1995/4360_4360_4360); [1997 1475](https://fedlex.data.admin.ch/eli/oc/1997/1475_1475_1475); [1998 785](https://fedlex.data.admin.ch/eli/oc/1998/785_785_785); [1999 2614](https://fedlex.data.admin.ch/eli/oc/1999/406); [2000 1](https://fedlex.data.admin.ch/eli/oc/2000/1)and 241]
+[^49-1]: [[AS 1987 2](https://fedlex.data.admin.ch/eli/oc/1987/2_2_2); [1991 2340](https://fedlex.data.admin.ch/eli/oc/1991/2340_2340_2340); [1994 2151](https://fedlex.data.admin.ch/eli/oc/1994/2151_2151_2151); [1995 4360](https://fedlex.data.admin.ch/eli/oc/1995/4360_4360_4360); [1997 1475](https://fedlex.data.admin.ch/eli/oc/1997/1475_1475_1475); [1998 785](https://fedlex.data.admin.ch/eli/oc/1998/785_785_785); [1999 2614](https://fedlex.data.admin.ch/eli/oc/1999/406); [2000 1](https://fedlex.data.admin.ch/eli/oc/2000/1)and 241].
 
 #### Art. 50
 

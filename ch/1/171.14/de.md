@@ -4,11 +4,11 @@ title: Geschäftsreglement des Ständerates vom 20. Juni 2003 (GRS)
 short: GRS
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/515"
 language: de
-version: 2022-02-28
+version: 2022-11-28
 adopted: 2003-06-20
 in_force: 2003-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/515/20220228/de/xml/fedlex-data-admin-ch-eli-cc-2003-515-20220228-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/515/20220228/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/515/20221128/de/xml/fedlex-data-admin-ch-eli-cc-2003-515-20221128-de-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/515/20221128/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/515/20220228/de"
 
 (GRS)
 
-vom 20. Juni 2003 (Stand am 28. Februar 2022)
+vom 20. Juni 2003 (Stand am 28. November 2022)
 
 Der Ständerat,
 
@@ -156,8 +156,8 @@ Es bestehen folgende ständige Kommissionen:
 
 <sup>2</sup> Die ständigen Kommissionen haben 13 Mitglieder.[^7-2]
 
-[^7-1]: Aufgehoben durch Ziff. I des Beschlusses vom 20. März 2008, mit Wirkung seit 1. April 2008 ([AS 2008 1215](https://fedlex.data.admin.ch/eli/oc/2008/222); [BBl 2008 1861](https://fedlex.data.admin.ch/eli/fga/2008/420)[1863](https://fedlex.data.admin.ch/eli/fga/2008/421)).
-[^7-2]: Fassung gemäss Ziff. I des Beschlusses vom 20. März 2008, in Kraft seit 1. April 2008 ([AS 2008 1215](https://fedlex.data.admin.ch/eli/oc/2008/222); [BBl 2008 1861](https://fedlex.data.admin.ch/eli/fga/2008/420)[1863](https://fedlex.data.admin.ch/eli/fga/2008/421)).
+[^7-1]: Aufgehoben durch Ziff. I des Beschlusses vom 20. März 2008, mit Wirkung seit 1. April 2008 ([AS 2008 1215](https://fedlex.data.admin.ch/eli/oc/2008/222); [BBl 2008 1861](https://fedlex.data.admin.ch/eli/fga/2008/420), [1863](https://fedlex.data.admin.ch/eli/fga/2008/421)).
+[^7-2]: Fassung gemäss Ziff. I des Beschlusses vom 20. März 2008, in Kraft seit 1. April 2008 ([AS 2008 1215](https://fedlex.data.admin.ch/eli/oc/2008/222); [BBl 2008 1861](https://fedlex.data.admin.ch/eli/fga/2008/420), [1863](https://fedlex.data.admin.ch/eli/fga/2008/421)).
 
 #### Art. 8
 
@@ -181,9 +181,11 @@ Die Legislaturplanungskommission wird in der ersten Session einer Legislaturperi
 
 **Subkommissionen**
 
-<sup>1</sup> Jede Kommission kann mit Zustimmung des Büros aus ihrer Mitte Subkommissionen einsetzen.
+<sup>1</sup> Jede Kommission kann aus ihrer Mitte Subkommissionen einsetzen.[^11-1]
 
 <sup>2</sup> Die Kommission erteilt ihrer Subkommission einen Auftrag, der ihre Aufgabe umschreibt und ihr eine Frist für die Berichterstattung an die Kommission setzt.
+
+[^11-1]: Fassung gemäss Ziff. I des Beschlusses vom 30. Sept. 2022 (Einsetzung von Subkommissionen), in Kraft seit 28. Nov. 2022 ([AS 2022 677](https://fedlex.data.admin.ch/eli/oc/2022/677); [BBl 2022 301](https://fedlex.data.admin.ch/eli/fga/2022/301), [433](https://fedlex.data.admin.ch/eli/fga/2022/433)).
 
 #### Art. 12
 
@@ -272,7 +274,7 @@ Die Beratungsgegenstände nach Artikel 71 ParlG werden von den zuständigen Komm
 
 <sup>4</sup> …[^17-1]
 
-[^17-1]: Aufgehoben durch Ziff. I des Beschlusses vom 17. Juni 2011 (Für die Behandlung von Gesuchen um die Aufhebung der Immunität zuständiges Ratsorgan), mit Wirkung seit 5. Dez. 2011 ([AS 2011 4635](https://fedlex.data.admin.ch/eli/oc/2011/665); [BBl 2010 7345](https://fedlex.data.admin.ch/eli/fga/2010/1294)[7385](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
+[^17-1]: Aufgehoben durch Ziff. I des Beschlusses vom 17. Juni 2011 (Für die Behandlung von Gesuchen um die Aufhebung der Immunität zuständiges Ratsorgan), mit Wirkung seit 5. Dez. 2011 ([AS 2011 4635](https://fedlex.data.admin.ch/eli/oc/2011/665); [BBl 2010 7345](https://fedlex.data.admin.ch/eli/fga/2010/1294), [7385](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
 
 #### Art. 18
 
@@ -324,7 +326,7 @@ Ein Ratsmitglied kann eine parlamentarische Initiative oder einen Vorstoss währ
 
 <sup>2</sup> Das Ratsmitglied muss einer parlamentarischen Initiative, einer Motion oder einem Postulat eine Begründung beifügen.[^22-1]
 
-[^22-1]: Fassung gemäss Ziff. I des Beschlusses vom 21. Juni 2013 (Verbesserungen der Organisation und der Verfahren des Parlamentes), in Kraft seit 25. Nov. 2013 ([AS 2013 3695](https://fedlex.data.admin.ch/eli/oc/2013/691); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^22-1]: Fassung gemäss Ziff. I des Beschlusses vom 21. Juni 2013 (Verbesserungen der Organisation und der Verfahren des Parlamentes), in Kraft seit 25. Nov. 2013 ([AS 2013 3695](https://fedlex.data.admin.ch/eli/oc/2013/691); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
 
 #### Art. 23
 
@@ -366,8 +368,8 @@ Der Adressat eines Vorstosses beantwortet diesen schriftlich auf die nächste or
 
 <sup>4</sup> Das Büro kann eine dringliche Interpellation im Einverständnis mit deren Urheberin oder Urheber in eine dringliche Anfrage umwandeln.[^26-2]
 
-[^26-1]: Fassung gemäss Ziff. I des Beschlusses vom 21. Juni 2013 (Verbesserungen der Organisation und der Verfahren des Parlamentes), in Kraft seit 25. Nov. 2013 ([AS 2013 3695](https://fedlex.data.admin.ch/eli/oc/2013/691); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
-[^26-2]: Fassung gemäss Ziff. I des Beschlusses vom 21. Juni 2013 (Verbesserungen der Organisation und der Verfahren des Parlamentes), in Kraft seit 25. Nov. 2013 ([AS 2013 3695](https://fedlex.data.admin.ch/eli/oc/2013/691); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^26-1]: Fassung gemäss Ziff. I des Beschlusses vom 21. Juni 2013 (Verbesserungen der Organisation und der Verfahren des Parlamentes), in Kraft seit 25. Nov. 2013 ([AS 2013 3695](https://fedlex.data.admin.ch/eli/oc/2013/691); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^26-2]: Fassung gemäss Ziff. I des Beschlusses vom 21. Juni 2013 (Verbesserungen der Organisation und der Verfahren des Parlamentes), in Kraft seit 25. Nov. 2013 ([AS 2013 3695](https://fedlex.data.admin.ch/eli/oc/2013/691); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
 
 ### b. Erklärungen
 
@@ -391,13 +393,13 @@ Der Adressat eines Vorstosses beantwortet diesen schriftlich auf die nächste or
 
 ### c. Aufhebung der Immunität
 
+[^chap3-sec2-lvlc-1]
+
+[^chap3-sec2-lvlc-1]: Eingefügt durch Ziff. I des Beschlusses vom 17. Juni 2011 (Für die Behandlung von Gesuchen um die Aufhebung der Immunität zuständiges Ratsorgan), in Kraft seit 5. Dez. 2011 ([AS 2011 4635](https://fedlex.data.admin.ch/eli/oc/2011/665); [BBl 2010 7345](https://fedlex.data.admin.ch/eli/fga/2010/1294), [7385](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
+
 #### Art. 28a
 
-[^28a-1]
-
 Die Kommission für Rechtsfragen ist zuständig für die Behandlung von Gesuchen um Aufhebung der Immunität eines Ratsmitgliedes oder einer Magistratsperson und von ähnlichen Gesuchen.
-
-[^28a-1]: Eingefügt durch Ziff. I des Beschlusses vom 17. Juni 2011 (Für die Behandlung von Gesuchen um die Aufhebung der Immunität zuständiges Ratsorgan), in Kraft seit 5. Dez. 2011 ([AS 2011 4635](https://fedlex.data.admin.ch/eli/oc/2011/665); [BBl 2010 7345](https://fedlex.data.admin.ch/eli/fga/2010/1294)[7385](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
 
 ### 3. Abschnitt: Organisation der Ratssitzungen
 
