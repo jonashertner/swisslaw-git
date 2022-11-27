@@ -4,20 +4,20 @@ title: Verordnung des EDI vom 16. Dezember 2016 über die Höchstgehalte für R�
 short: VRLtH
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/154"
 language: de
-version: 2022-03-15
+version: 2022-11-28
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/154/20220315/de/xml/fedlex-data-admin-ch-eli-cc-2017-154-20220315-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/154/20220315/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/154/20221128/de/xml/fedlex-data-admin-ch-eli-cc-2017-154-20221128-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/154/20221128/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Verordnung des EDI über die Höchstgehalte für Rückstände von pharmakologisch wirksamen Stoffen und von Futtermittelzusatzstoffen in Lebensmitteln tierischer Herkunft****
+# Verordnung des EDI über die Höchstgehalte für Rückstände von pharmakologisch wirksamen Stoffen und von Futtermittelzusatzstoffen in Lebensmitteln tierischer Herkunft
 
 (VRLtH)[^t-1]
 
-vom 16. Dezember 2016 (Stand am 15. März 2022)
+vom 16. Dezember 2016 (Stand am 28. November 2022)
 
 [^t-1]: Fassung gemäss Ziff. I der V des EDI vom 28. März 2018, in Kraft seit 1. Mai 2018 ([AS 2018 1245](https://fedlex.data.admin.ch/eli/oc/2018/200)).
 
@@ -140,13 +140,13 @@ Rückstände von Wirkstoffen, die der Änderung des Anhangs Liste 1 vom 14. Febr
 
 Diese Verordnung tritt am 1. Mai 2017 in Kraft.
 
-Anhang*[^t-2]*
+Anhang[^t-2]
 
 (Art. 3 Abs. 1–5 und 4 Abs. 2 Bst. a)
 
 ## Listen der Rückstandshöchstgehalte
 
-[^t-2]: Bereinigt gemäss gemäss Ziff. I der V des BLV vom 12. März 2018 ([AS 2018 1529](https://fedlex.data.admin.ch/eli/oc/2018/231)), Ziff. II der V des BLV vom 23. Okt. 2019 ([AS 2019 3359](https://fedlex.data.admin.ch/eli/oc/2019/613)) und vom 14. Febr. 2022, in Kraft seit 15. März 2022 ([AS 2022 123](https://fedlex.data.admin.ch/eli/oc/2022/123)).
+[^t-2]: Bereinigt gemäss gemäss Ziff. I der V des BLV vom 12. März 2018 ([AS 2018 1529](https://fedlex.data.admin.ch/eli/oc/2018/231)), Ziff. II der V des BLV vom 23. Okt. 2019 ([AS 2019 3359](https://fedlex.data.admin.ch/eli/oc/2019/613)) und vom 14. Febr. 2022, in Kraft seit 15. März 2022, Liste 5 in Kraft seit 28. Nov. 2022 ([AS 2022 123](https://fedlex.data.admin.ch/eli/oc/2022/123)).
 
 ### 1 Liste der zulässigen Höchstgehalte für Rückstände von pharmakologisch wirksamen Stoffen in Lebensmitteln tierischer Herkunft sowie der Einstufung dieser Stoffe
 
@@ -1996,9 +1996,9 @@ Anwendungszweck:
 ### 5 Liste der Referenzwerte für Massnahmen
 
 <table>
-<tr><td>Pharmakologsich wirksame Stoffe</td><td>Matrix</td><td>Referenzwert für Massnahmen</td></tr>
-<tr><td>Chloramphenicol</td><td>Fleisch Eier Milch Urin Fleisch von Erzeugnissen der Aquakultur Honig</td><td>0,3 μg/kg</td></tr>
-<tr><td>Medroxy-Progesteron-Acetat</td><td>Schweinenierenfett</td><td>1 μg/kg</td></tr>
-<tr><td>Nitrofuranmetaboliten: – Furazolidon – Furaltadon – Nitrofurantoin – Nitrofural</td><td>Geflügelfleisch Fleisch von Erzeugnissen der Aquakultur</td><td>1 μg/kg für die einzelnen Nitrofuranmetaboliten</td></tr>
-<tr><td>Summe von Malachit- und Leukomalachitgrün</td><td>Fleisch von Erzeugnissen der Aquakultur</td><td>2 μg/kg</td></tr>
+<tr><td>Pharmakologisch wirksame Stoffe</td><td>Referenzwert für Massnahmen</td><td>Sonstige Bestimmungen</td></tr>
+<tr><td>Chloramphenicol</td><td>0.15 µg/kg</td><td></td></tr>
+<tr><td>Malachitgrün</td><td>0.5 µg/kg</td><td>0.5 µg/kg für die Summe von Malachitgrün und Leukomalachitgrün</td></tr>
+<tr><td>Nitrofurane und deren Metaboliten</td><td>0.5 µg/kg\*</td><td>0.5 µg/kg für jeden der Metaboliten von Furazolidon (AOZ oder 3-Amino-2-oxazolidinon), Furaltadon (AMOZ oder 3‑Amino-5-methylmorpholino-2-oxazolidinon), Nitrofurantoin (AHD oder 1‑Aminohydantoin), Nitrofurazon (SEM oder Semicarbazid) und Nifursol (DNSH oder 3.5-Dinitrosalicylsäurehydrazid)</td></tr>
+<tr><td colspan="3">\* Da bei Flusskrebsen der natürlich vorkommende Gehalt an SEM den RWM überschreitet, sind nur Gehalte an AOZ, AMOZ, AHD und DNSH, die über dem RWM liegen, ein eindeutiger Hinweis auf die illegale Verwendung von Nitrofuranen und deren Metaboliten. Der RWM von 0.5 µg/kg für SEM bei Flusskrebsen findet nur Anwendung, wenn die illegale Verwendung von Nitrofurazon bei Flusskrebsen nachgewiesen wurde.</td></tr>
 </table>

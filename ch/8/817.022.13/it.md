@@ -4,20 +4,20 @@ title: Ordinanza del DFI del 16 dicembre 2016 concernente i limiti massimi per i
 short: ORDOA
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/154"
 language: it
-version: 2022-03-15
+version: 2022-11-28
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/154/20220315/it/xml/fedlex-data-admin-ch-eli-cc-2017-154-20220315-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/154/20220315/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/154/20221128/it/xml/fedlex-data-admin-ch-eli-cc-2017-154-20221128-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/154/20221128/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza del DFI concernente i limiti massimi per i residui di sostanze farmacologicamente attive e di additivi per alimenti per animali nelle derrate alimentari di origine animale
 
-(ORDOA)**[^t-1]**
+(ORDOA)[^t-1]
 
-del 16 dicembre 2016 (Stato 15 marzo 2022)
+del 16 dicembre 2016 (Stato 28 novembre 2022)
 
 [^t-1]: Nuovo testo giusta il n. I dell’O del DFI del 28 mar. 2018, in vigore dal 1° mag. 2018 ([RU 2018 1245](https://fedlex.data.admin.ch/eli/oc/2018/200)).
 
@@ -27,7 +27,7 @@ visti gli articoli 10 capoverso 4 lettera e nonché 95 capoverso 3 dell’ordina
 
 ordina:
 
-[^ingress-1]: RS **8****17.02**
+[^ingress-1]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
 
 #### Art. 1
 
@@ -140,13 +140,13 @@ I residui delle sostanze attive non conformi alla modifica dell’allegato elenc
 
 La presente ordinanza entra in vigore il 1° maggio 2017.
 
-Allegato*[^t-2]*
+Allegato[^t-2]
 
 (art. 3 cpv. 1–5 e 4 cpv. 2 lett. a)
 
 ## Elenco dei limiti massimi per i residui
 
-[^t-2]: Aggiornato dal n. I dell’O dell’USAV del 12 mar. 2018 ([RU 2018 1529](https://fedlex.data.admin.ch/eli/oc/2018/231)) e dai n. II delle O del USAV del 23 ott. 2019 ([RU 2019 3359](https://fedlex.data.admin.ch/eli/oc/2019/613)) e del 14 feb. 2022, in vigore dal 15 mar. 2022 ([RU 2022 123](https://fedlex.data.admin.ch/eli/oc/2022/123)).
+[^t-2]: Aggiornato dal n. I dell’O dell’USAV del 12 mar. 2018 ([RU 2018 1529](https://fedlex.data.admin.ch/eli/oc/2018/231)), dai n. II delle O del USAV del 23 ott. 2019 ([RU 2019 3359](https://fedlex.data.admin.ch/eli/oc/2019/613)) e del 14 feb. 2022, in vigore dal 15 mar. 2022, l’elenco 5 dal 28 nov. 2022 ([RU 2022 123](https://fedlex.data.admin.ch/eli/oc/2022/123)).
 
 ### 1 Elenco dei limiti massimi autorizzati per i residui di sostanze farmacologicamente attive nelle derrate alimentari di origine animale e classificazione di tali sostanze
 
@@ -1996,9 +1996,9 @@ Campo di applicazione
 ### 5 Elenco dei valori di riferimento per interventi
 
 <table>
-<tr><td>Sostanze farmacologicamente attive</td><td>Matrice</td><td>Valore di riferimento per interventi</td></tr>
-<tr><td>Cloramfenicolo</td><td>carne uova latte urina carne di prodotti d’acquacoltura miele</td><td>0,3 μg/kg</td></tr>
-<tr><td>Medrossiprogesterone acetato</td><td>grasso di rognone di maiale</td><td>1 μg/kg</td></tr>
-<tr><td>Metaboliti di nitrofurani: – furazolidone – furaltadone – nitrofurantoina – nitrofurazone</td><td>carne di pollame carne di prodotti d’acquacoltura</td><td>1 μg/kg per i singoli metaboliti di nitrofurani</td></tr>
-<tr><td>Somma di verde malachite e di verde leucomalachite</td><td>carne di prodotti d’acquacoltura</td><td>2 μg/kg</td></tr>
+<tr><td>Sostanze farmacologicamente attive</td><td>Valore di riferimento per interventi</td><td>Altre disposizioni</td></tr>
+<tr><td>Cloramfenicolo</td><td>0.15 µg/kg</td><td></td></tr>
+<tr><td>Verde malachite</td><td>0.5 µg/kg</td><td>0.5 µg/kg per la somma di verde malachite e di verde leucomalachite</td></tr>
+<tr><td>Nitrofurani e loro metaboliti</td><td>0.5 µg/kg\*</td><td>0.5 µg/kg per ognuno dei metaboliti di furazolidone (AOZo 3-ammino-2- ossazolidinone), furaltadone (AMOZ o 3-ammino- 5-metilmorfolino-2-ossazolidinone),nitrofurantoina (AHD o 1-amminohidantoina), nitrofurazone (SEM o semicarbazide) e nifursol (DNSH oidrazite dell’acido 3,5-dinitrosalicilico)</td></tr>
+<tr><td colspan="3">\* A causa della presenza naturale di SEM nei gamberi di fiume a livelli superiori all’RPA, solo i livelli di AOZ, AMOZ, AHD e DNSH superiori all’RPA indicano chiaramente un impiego illegale di nitrofurani e dei loro metaboliti. L’RPA di 0,5 µg/kg per il SEM nei gamberi di fiume si applica solo se è stato accertato l’impiego illegale di nitrofurazone per i gamberi di fiume.</td></tr>
 </table>

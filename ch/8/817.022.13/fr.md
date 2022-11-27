@@ -4,20 +4,20 @@ title: "Ordonnance du DFI du 16 décembre 2016 sur les limites maximales applica
 short: ORésDAlan
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/154"
 language: fr
-version: 2022-03-15
+version: 2022-11-28
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/154/20220315/fr/xml/fedlex-data-admin-ch-eli-cc-2017-154-20220315-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/154/20220315/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/154/20221128/fr/xml/fedlex-data-admin-ch-eli-cc-2017-154-20221128-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/154/20221128/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du DFI sur les limites maximales applicables aux résidus de substances pharmacologiquement actives et d’additifs pour l’alimentation animale dans les denrées alimentaires d’origine animale
 
-(ORésDAlan)**[^t-1]**
+(ORésDAlan)[^t-1]
 
-du 16 décembre 2016 (Etat le 15 mars 2022)
+du 16 décembre 2016 (Etat le 28 novembre 2022)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 28 mars 2018, en vigueur depuis le 1<sup>er</sup> mai 2018 ([RO 2018 1245](https://fedlex.data.admin.ch/eli/oc/2018/200)).
 
@@ -140,13 +140,13 @@ Les résidus de substances actives non conformes à la modification du 14 févri
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> mai 2017.
 
-Annexe*[^t-2]*
+Annexe[^t-2]
 
 (art. 3, al. 1 à 5, et 4, al. 2, let. a)
 
 ## Listes des limites maximales de résidus
 
-[^t-2]: Mise à jour par le ch. I de l’O de l’OSAV du 12 mars 2018 ([RO 2018 1529](https://fedlex.data.admin.ch/eli/oc/2018/231)), le ch. II des O de l’OSAV du 23 oct.2019 ([RO 2019 3359](https://fedlex.data.admin.ch/eli/oc/2019/613)) et du 14 fév. 2022, en vigueur depuis le 15 mars 2022 ([RO 2022 123](https://fedlex.data.admin.ch/eli/oc/2022/123)).
+[^t-2]: Mise à jour par le ch. I de l’O de l’OSAV du 12 mars 2018 ([RO 2018 1529](https://fedlex.data.admin.ch/eli/oc/2018/231)), le ch. II des O de l’OSAV du 23 oct.2019 ([RO 2019 3359](https://fedlex.data.admin.ch/eli/oc/2019/613)) et du 14 fév. 2022, en vigueur depuis le 15 mars 2022, sauf la liste 5, en vigueur depuis le 28 nov. 2022 ([RO 2022 123](https://fedlex.data.admin.ch/eli/oc/2022/123)).
 
 ### 1 Liste des limites maximales de résidus de substances pharmacologiquement actives dans des denrées alimentaires d’origine animale et classification de ces substances
 
@@ -1996,9 +1996,9 @@ Champ d’application
 ### 5 Liste des valeurs de référence
 
 <table>
-<tr><td>Substances pharmacologiquement actives</td><td>Matrice</td><td>Valeur de référence</td></tr>
-<tr><td>Chloramphénicol</td><td>Viande Œufs Lait Urine Chair des produits de l’aquaculture Miel</td><td>0,3 μg/kg</td></tr>
-<tr><td>Médroxyprogestéroneacétate</td><td>Graisse de rognons de porcs</td><td>1 μg/kg</td></tr>
-<tr><td>Métabolites des nitrofuranes: – Furazolidone – Furaltadone – Nitrofurantoine – Nitrofural</td><td>Viande de volaille Chair des produits de l’aquaculture</td><td>1 μg/kg pour les différents métabolites du nitrofurane</td></tr>
-<tr><td>Somme du vert malachite et du vert leucomalachite</td><td>Chair des produits de l’aquaculture</td><td>2 g/kg</td></tr>
+<tr><td>Substances pharmacologiquement actives</td><td>Valeur de référence</td><td>Autres dispositions</td></tr>
+<tr><td>Chloramphénicol</td><td>0,15 µg/kg</td><td></td></tr>
+<tr><td>Vert de malachite</td><td>0,5 µg/kg</td><td>0,5 µg/kg pour la somme du vert de malachite et du vert de leucomalachite</td></tr>
+<tr><td>Nitrofuranes et leurs métabolites</td><td>0,5 µg/kg\*</td><td>0,5 µg/kg pour chacun des métabolites de la furazolidone (AOZ ou 3-amino-2-oxazolidinone), de la furaltadone (AMOZ ou 3-amino-5-méthylmorpholino2-oxazolidinone), de la nitrofurantoïne (AHD ou 1-aminohydantoïne), de la nitrofurazone (SEM ou semicarbazide) et du nifursol (DNSH ou hydrazide de l’acide 3,5-dinitrosalicylique)</td></tr>
+<tr><td colspan="3">\* Compte tenu de la présence naturelle de SEM dans les écrevisses à des niveaux supérieurs à la VR, seuls les niveaux d’AOZ, d’AMOZ, d’AHD et de DNSH supérieurs à la VR constituent un indicateur clair de l’utilisation illégale de nitrofuranes et de leurs métabolites. La VR de 0,5 µg/kg pour le SEM dans les écrevisses n’est appliquée que lorsque l’utilisation illégale de nitrofurazone en ce qui concerne ces animaux a été établie.</td></tr>
 </table>
