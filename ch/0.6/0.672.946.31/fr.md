@@ -3,11 +3,11 @@ sr: "0.672.946.31"
 title: "Convention du 19 janvier 1971 entre la Suisse et le Japon en vue d'éviter les doubles impositions en matière d'impôts sur le revenu (avec échange de notes et échanges de lettres)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1971/1720_1725_1725"
 language: fr
-version: 2012-09-07
+version: 2022-11-30
 adopted: 1971-01-19
 in_force: 1971-12-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1971/1720_1725_1725/20120907/fr/xml/fedlex-data-admin-ch-eli-cc-1971-1720_1725_1725-20120907-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1971/1720_1725_1725/20120907/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1971/1720_1725_1725/20221130/fr/xml/fedlex-data-admin-ch-eli-cc-1971-1720_1725_1725-20221130-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1971/1720_1725_1725/20221130/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,24 +16,28 @@ url: "https://www.fedlex.admin.ch/eli/cc/1971/1720_1725_1725/20120907/fr"
 
 RO **1971** 1725; FF **1971** I 677
 
-Traduction*[^t-1]*
+Traduction[^t-1]
 
 Conclue le 19 janvier 1971 Approuvée par l’Assemblée fédérale le 20 septembre 1971[^t-2] Instruments de ratification échangés le 26 novembre 1971 Entrée en vigueur le 26 décembre 1971
 
-(Etat le 7 septembre 2012)
+(État le 30 novembre 2022)
 
 [^t-1]: Le texte original allemand est publié, sous le même chiffre, dans l’édition allemande du présent recueil.
 [^t-2]: [RO 1971 1724](https://fedlex.data.admin.ch/eli/oc/1971/1719_1724_1724)
 
 Le Conseil fédéral suisse et le Gouvernement du Japon,
 
-Désireux de conclure une convention en vue d’éviter les doubles impositions en matière d’impôts sur le revenu,
+désireux de promouvoir leurs relations économiques et d’améliorer leur coopération en matière fiscale,
+
+entendant conclure une Convention en vue d’éviter les doubles impositions en matière d’impôts sur le revenu sans créer de possibilités de non-imposition ou d’imposition réduite par la fraude ou l’évasion fiscales (y compris par des mécanismes de chalandage fiscal destinés à obtenir les allégements prévus dans la présente Convention au bénéfice indirect de résidents d’États tiers),[^ingress-1]
 
 sont convenus des dispositions suivantes:
 
+[^ingress-1]: Nouvelle teneur selon l’art. 1 du Prot. du 16 juil. 2021, approuvé par l’Ass. féd. le 17 juin 2022, en vigueur depuis le 30 nov. 2022 ([RO 2022 686](https://fedlex.data.admin.ch/eli/oc/2022/686), [685](https://fedlex.data.admin.ch/eli/oc/2022/685); [FF 2021 2830](https://fedlex.data.admin.ch/eli/fga/2021/2830)).
+
 #### Art. 1
 
-La présente convention s’applique aux personnes qui sont des résidents d’un Etat contractant ou de chacun des deux Etats contractants.
+La présente convention s’applique aux personnes qui sont des résidents d’un État contractant ou de chacun des deux États contractants.
 
 #### Art. 2
 
@@ -41,14 +45,26 @@ La présente convention s’applique aux personnes qui sont des résidents d’u
 
 Les impôts auxquels s’applique la présente convention sont:
 
-- a. au Japon: l’impôt sur le revenu, l’impôt sur les sociétés et les impôts locaux sur les habitants (ci‑après désignés «impôt japonais»),
+- a.[^2-1]
+
+  au Japon:
+
+  - i. l’impôt sur le revenu,
+  - ii. l’impôt sur les sociétés,
+  - iii. l’impôt spécial sur le revenu pour les reconstructions,
+  - iv. l’impôt local sur les sociétés,
+  - v. l’impôt local sur les habitants,
+  - [tab] (ci-après désignés «impôt japonais»);
+
 - b. en Suisse: les impôts fédéraux, cantonaux et communaux sur le revenu (revenu total, produit du travail, rendement de la fortune, bénéfices industriels et commerciaux, gains en capital et autres revenus, ci‑après désignés: «impôt suisse»).
 
-<sup>2.</sup> La présente convention s’appliquera aussi à tous autres impôts de nature analogue à ceux mentionnés au paragraphe 1 et qui seraient institués par l’un des Etats contractants ou l’une (le ses subdivisions politiques ou collectivités locales après la date de signature de cette convention. Les autorités compétentes des Etats contractants se communiqueront les modifications apportées à leurs législations fiscales respectives dans un délai raisonnable à compter de l’introduction de telles modifications.
+<sup>2.</sup> La présente convention s’appliquera aussi à tous autres impôts de nature analogue à ceux mentionnés au paragraphe 1 et qui seraient institués par l’un des États contractants ou l’une (le ses subdivisions politiques ou collectivités locales après la date de signature de cette convention. Les autorités compétentes des États contractants se communiqueront les modifications apportées à leurs législations fiscales respectives dans un délai raisonnable à compter de l’introduction de telles modifications.
 
 <sup>3.</sup> La présente convention ne s’applique pas à l’impôt anticipé perçu à la source sur les gains faits dans les loteries.
 
 <sup>4.</sup> En ce qui concerne le par. 2 de l’art. 8 uniquement, la convention s’applique aussi à l’impôt mentionné audit paragraphe.
+
+[^2-1]: Nouvelle teneur selon l’art. 2 du Prot. du 16 juil. 2021, approuvé par l’Ass. féd. le 17 juin 2022, en vigueur depuis le 30 nov. 2022 ([RO 2022 686](https://fedlex.data.admin.ch/eli/oc/2022/686), [685](https://fedlex.data.admin.ch/eli/oc/2022/685); [FF 2021 2830](https://fedlex.data.admin.ch/eli/fga/2021/2830)).
 
 #### Art. 3
 
@@ -58,12 +74,12 @@ Au sens de la présente convention, à moins que le contexte n’exige une inter
 
 - a.[^3-1] le terme «Japon», utilisé dans un sens géographique, désigne l’ensemble du territoire du Japon, y compris sa mer territoriale, dans lequel les lois relatives à l’impôt japonais sont en vigueur, et toute la zone située au-delà de la mer territoriale, y compris le lit de la mer et son sous-sol, sur laquelle le Japon exerce ses droits souverains conformément au droit international et dans laquelle les lois relatives à l’impôt japonais sont en vigueur;
 - b. le terme «Suisse» désigne la Confédération suisse;
-- c. les expressions «un Etat contractant» et «l’autre Etat contractant» désignent, suivant le contexte, le Japon ou la Suisse;
+- c. les expressions «un État contractant» et «l’autre État contractant» désignent, suivant le contexte, le Japon ou la Suisse;
 - d. le terme «impôt» désigne, suivant le contexte, l’impôt japonais ou l’impôt suisse;
 - e. le terme «personne» comprend les personnes physiques, les sociétés et tous autres groupements de personnes;
 - f. le terme «société» désigne toute personne morale ou toute entité qui est considérée comme une personne morale aux fins d’imposition;
-- g. les expressions «entreprise d’un Etat contractant» et «entreprise de l’autre Etat contractant» désignent respectivement une entreprise exploitée par un résident d’un Etat contractant et une entreprise exploitée par un résident de l’autre Etat contractant;
-- h.[^3-2] l’expression «trafic international» désigne tout transport effectué par un navire ou un aéronef exploité par une entreprise d’un Etat contractant, sauf lorsque le navire ou l’aéronef n’est exploité qu’entre des points situés dans l’autre Etat contractant;
+- g. les expressions «entreprise d’un État contractant» et «entreprise de l’autre État contractant» désignent respectivement une entreprise exploitée par un résident d’un État contractant et une entreprise exploitée par un résident de l’autre État contractant;
+- h.[^3-2] l’expression «trafic international» désigne tout transport effectué par un navire ou un aéronef, sauf lorsque le navire ou l’aéronef n’est exploité qu’entre des points situés dans un État contractant et que l’entreprise qui exploite le navire ou l’aéronef n’est pas une entreprise de cet État contractant;
 - i.[^3-3]
 
   le terme «national» désigne:
@@ -76,44 +92,45 @@ Au sens de la présente convention, à moins que le contexte n’exige une inter
   l’expression «autorité compétente» désigne:
 
   - i. dans le cas du Japon, le Ministre des Finances ou son représentant autorisé, et
-  - ii. dans le cas de la Suisse, le Directeur de l’Administration fédérale des contributions ou son représentant autorisé; et
+  - ii.[^3-5] dans le cas de la Suisse, le chef du Département fédéral des finances ou son représentant autorisé, et
 
-- k.[^3-5]
+- k.[^3-6]
 
   l’expression «fonds de pension ou institution de prévoyance» désigne toute personne qui:
 
-  - i. est constituée en vertu de la législation en vigueur dans un Etat contractant,
+  - i. est constituée en vertu de la législation en vigueur dans un État contractant,
   - ii. sert essentiellement à administrer et à verser des pensions, des retraites ou d’autres rémunérations similaires ou à réaliser des revenus pour d’autres fonds de pension ou institutions de prévoyance, et
-  - iii. est exonéré de l’impôt dans cet Etat contractant sur le revenu provenant des activités décrites à l’al. ii.
+  - iii. est exonéré de l’impôt dans cet État contractant sur le revenu provenant des activités décrites à l’al. ii.
 
-<sup>2.</sup> Pour l’application de la présente convention par un Etat contractant, toute expression qui n’est pas autrement définie a le sens qui lui est attribué par la législation dudit Etat régissant les impôts faisant l’objet de la présente Convention, à moins que le contexte n’exige une interprétation différente.
+<sup>2.</sup> Pour l’application de la présente convention par un État contractant, toute expression qui n’est pas autrement définie a le sens qui lui est attribué par la législation dudit État régissant les impôts faisant l’objet de la présente Convention, à moins que le contexte n’exige une interprétation différente.
 
-[^3-1]: Nouvelle teneur selon l’art. 1 du Prot. du 21 mai 2010, approuvé par l’Ass. féd. le 17 juin 2011, en vigueur depuis le 30 déc. 2011 ([RO 2011 6381](https://fedlex.data.admin.ch/eli/oc/2011/891)[6379](https://fedlex.data.admin.ch/eli/oc/2011/890); [FF 2010 5377](https://fedlex.data.admin.ch/eli/fga/2010/1051)).
-[^3-2]: Nouvelle teneur selon l’art. 1 du Prot. du 21 mai 2010, approuvé par l’Ass. féd. le 17 juin 2011, en vigueur depuis le 30 déc. 2011 ([RO 2011 6381](https://fedlex.data.admin.ch/eli/oc/2011/891)[6379](https://fedlex.data.admin.ch/eli/oc/2011/890); [FF 2010 5377](https://fedlex.data.admin.ch/eli/fga/2010/1051)).
-[^3-3]: Introduite par l’art. 1 du Prot. du 21 mai 2010, approuvé par l’Ass. féd. le 17 juin 2011, en vigueur depuis le 30 déc. 2011 ([RO 2011 6381](https://fedlex.data.admin.ch/eli/oc/2011/891)[6379](https://fedlex.data.admin.ch/eli/oc/2011/890); [FF 2010 5377](https://fedlex.data.admin.ch/eli/fga/2010/1051)).
-[^3-4]: Introduite par l’art. 1 du Prot. du 21 mai 2010, approuvé par l’Ass. féd. le 17 juin 2011, en vigueur depuis le 30 déc. 2011 ([RO 2011 6381](https://fedlex.data.admin.ch/eli/oc/2011/891)[6379](https://fedlex.data.admin.ch/eli/oc/2011/890); [FF 2010 5377](https://fedlex.data.admin.ch/eli/fga/2010/1051)).
-[^3-5]: Introduite par l’art. 1 du Prot. du 21 mai 2010, approuvé par l’Ass. féd. le 17 juin 2011, en vigueur depuis le 30 déc. 2011 ([RO 2011 6381](https://fedlex.data.admin.ch/eli/oc/2011/891)[6379](https://fedlex.data.admin.ch/eli/oc/2011/890); [FF 2010 5377](https://fedlex.data.admin.ch/eli/fga/2010/1051)).
+[^3-1]: Nouvelle teneur selon l’art. 1 du Prot. du 21 mai 2010, approuvé par l’Ass. féd. le 17 juin 2011, en vigueur depuis le 30 déc. 2011 ([RO 2011 6381](https://fedlex.data.admin.ch/eli/oc/2011/891), [6379](https://fedlex.data.admin.ch/eli/oc/2011/890); [FF 2010 5377](https://fedlex.data.admin.ch/eli/fga/2010/1051)).
+[^3-2]: Nouvelle teneur selon l’art. 3 par. 1 du Prot. du 16 juil. 2021, approuvé par l’Ass. féd. le 17 juin 2022, en vigueur depuis le 30 nov. 2022 ([RO 2022 686](https://fedlex.data.admin.ch/eli/oc/2022/686), [685](https://fedlex.data.admin.ch/eli/oc/2022/685); [FF 2021 2830](https://fedlex.data.admin.ch/eli/fga/2021/2830)).
+[^3-3]: Introduite par l’art. 1 du Prot. du 21 mai 2010, approuvé par l’Ass. féd. le 17 juin 2011, en vigueur depuis le 30 déc. 2011 ([RO 2011 6381](https://fedlex.data.admin.ch/eli/oc/2011/891), [6379](https://fedlex.data.admin.ch/eli/oc/2011/890); [FF 2010 5377](https://fedlex.data.admin.ch/eli/fga/2010/1051)).
+[^3-4]: Introduite par l’art. 1 du Prot. du 21 mai 2010, approuvé par l’Ass. féd. le 17 juin 2011, en vigueur depuis le 30 déc. 2011 ([RO 2011 6381](https://fedlex.data.admin.ch/eli/oc/2011/891), [6379](https://fedlex.data.admin.ch/eli/oc/2011/890); [FF 2010 5377](https://fedlex.data.admin.ch/eli/fga/2010/1051)).
+[^3-5]: Nouvelle teneur selon l’art. 3 par. 2 du Prot. du 16 juil. 2021, approuvé par l’Ass. féd. le 17 juin 2022, en vigueur depuis le 30 nov. 2022 ([RO 2022 686](https://fedlex.data.admin.ch/eli/oc/2022/686), [685](https://fedlex.data.admin.ch/eli/oc/2022/685); [FF 2021 2830](https://fedlex.data.admin.ch/eli/fga/2021/2830)).
+[^3-6]: Introduite par l’art. 1 du Prot. du 21 mai 2010, approuvé par l’Ass. féd. le 17 juin 2011, en vigueur depuis le 30 déc. 2011 ([RO 2011 6381](https://fedlex.data.admin.ch/eli/oc/2011/891), [6379](https://fedlex.data.admin.ch/eli/oc/2011/890); [FF 2010 5377](https://fedlex.data.admin.ch/eli/fga/2010/1051)).
 
 #### Art. 4
 
-Toutefois, cette expression ne comprend pas les personnes qui ne sont assujetties à l’impôt dans cet Etat contractant que pour les revenus de sources situées dans cet Etat.
+Toutefois, cette expression ne comprend pas les personnes qui ne sont assujetties à l’impôt dans cet État contractant que pour les revenus de sources situées dans cet État.
 
-1.[^4-1] Au sens de la présente Convention, l’expression «résident d’un Etat contractant» désigne toute personne qui, en vertu de la législation de cet Etat, est assujettie à l’impôt dans cet Etat, en raison de son domicile, de sa résidence, de son siège de direction, de son siège de direction effective ou de tout autre critère de nature analogue, et comprend également:
+1.[^4-1] Au sens de la présente Convention, l’expression «résident d’un État contractant» désigne toute personne qui, en vertu de la législation de cet État, est assujettie à l’impôt dans cet État, en raison de son domicile, de sa résidence, de son siège de direction, de son siège de direction effective ou de tout autre critère de nature analogue, et comprend également:
 
-- a. cet Etat et toutes ses subdivisions politiques ou collectivités locales;
-- b. un fonds de pension ou une institution de prévoyance constitués en vertu de la législation de cet Etat contractant; et
-- c. une organisation constituée en vertu de la législation de cet Etat contractant et qui poursuit exclusivement un but religieux, d’utilité publique, pédagogique, scientifique, artistique, sportif, culturel ou de service public (ou plusieurs de ces buts), seulement si tout ou partie de son revenu peut être exempté d’impôt en vertu de la législation de cet Etat.
+- a. cet État et toutes ses subdivisions politiques ou collectivités locales;
+- b. un fonds de pension ou une institution de prévoyance constitués en vertu de la législation de cet État contractant, et
+- c. une organisation constituée en vertu de la législation de cet État contractant et qui poursuit exclusivement un but religieux, d’utilité publique, pédagogique, scientifique, artistique, sportif, culturel ou de service public (ou plusieurs de ces buts), seulement si tout ou partie de son revenu peut être exempté d’impôt en vertu de la législation de cet État.
 
-2.[^4-2] Lorsque, selon les dispositions du par. 1, une personne physique est un résident des deux Etats contractants, sa situation est réglée de la manière suivante:
+2.[^4-2] Lorsque, selon les dispositions du par. 1, une personne physique est un résident des deux États contractants, sa situation est réglée de la manière suivante:
 
-- a. cette personne est considérée comme un résident seulement de l’Etat contractant où elle dispose d’un foyer d’habitation permanent; si elle dispose d’un foyer d’habitation permanent dans les deux Etats contractants, elle est considérée comme un résident seulement de l’Etat contractant avec lequel ses liens personnels et économiques sont les plus étroits (centre des intérêts vitaux);
-- b. si l’Etat contractant où cette personne a le centre de ses intérêts vitaux ne peut pas être déterminé, ou si elle ne dispose d’un foyer d’habitation permanent dans aucun des Etats contractants, elle est considérée comme un résident seulement de l’Etat contractant où elle séjourne de façon habituelle;
-- c. si cette personne séjourne de façon habituelle dans les deux Etats contractants ou si elle ne séjourne de façon habituelle dans aucun d’eux, elle est considérée comme un résident seulement de l’Etat contractant dont elle possède la nationalité;
-- d. si cette personne possède la nationalité des deux Etats contractants ou si elle ne possède la nationalité d’aucun d’eux, les autorités compétentes des Etats contractants tranchent la question d’un commun accord.
+- a. cette personne est considérée comme un résident seulement de l’État contractant où elle dispose d’un foyer d’habitation permanent; si elle dispose d’un foyer d’habitation permanent dans les deux États contractants, elle est considérée comme un résident seulement de l’État contractant avec lequel ses liens personnels et économiques sont les plus étroits (centre des intérêts vitaux);
+- b. si l’État contractant où cette personne a le centre de ses intérêts vitaux ne peut pas être déterminé, ou si elle ne dispose d’un foyer d’habitation permanent dans aucun des États contractants, elle est considérée comme un résident seulement de l’État contractant où elle séjourne de façon habituelle;
+- c. si cette personne séjourne de façon habituelle dans les deux États contractants ou si elle ne séjourne de façon habituelle dans aucun d’eux, elle est considérée comme un résident seulement de l’État contractant dont elle possède la nationalité;
+- d. si cette personne possède la nationalité des deux États contractants ou si elle ne possède la nationalité d’aucun d’eux, les autorités compétentes des États contractants tranchent la question d’un commun accord.
 
-<sup>3.</sup> Lorsque, selon la disposition du par. 1, une personne autre qu’une personne physique, est considérée comme résident de chacun des Etats contractants, elle est réputée résident de l’Etat contractant où se trouve son siège principal.
+<sup>3.</sup> Lorsque, selon la disposition du par. 1, une personne autre qu’une personne physique, est considérée comme résident de chacun des États contractants, elle est réputée résident de l’État contractant où se trouve son siège principal.
 
-4.[^4-3] Lorsque, en vertu d’une disposition de la présente Convention, un Etat contractant réduit le taux d’impôt ou exonère un revenu d’un résident de l’autre Etat contractant et que, suivant la législation en vigueur dans cet autre Etat contractant, le résident n’est soumis à l’impôt par cet autre Etat contractant que sur la partie de ce revenu qui est transférée ou obtenue dans cet autre Etat, le dégrèvement ou l’exonération ne s’applique qu’à la partie de ce revenu transférée ou obtenue dans cet autre Etat contractant.
+4.[^4-3] Lorsque, en vertu d’une disposition de la présente Convention, un État contractant réduit le taux d’impôt ou exonère un revenu d’un résident de l’autre État contractant et que, suivant la législation en vigueur dans cet autre État contractant, le résident n’est soumis à l’impôt par cet autre État contractant que sur la partie de ce revenu qui est transférée ou obtenue dans cet autre État, le dégrèvement ou l’exonération ne s’applique qu’à la partie de ce revenu transférée ou obtenue dans cet autre État contractant.
 
 5.[^4-4] Aux fins de l’application de la présente Convention:
 
@@ -121,31 +138,31 @@ Toutefois, cette expression ne comprend pas les personnes qui ne sont assujettie
 
   un élément de revenu:
 
-  - i. provenant d’un Etat contractant par l’intermédiaire d’une entité organisée dans l’autre Etat contractant, et
-  - ii. traité, en vertu de la législation fiscale de cet autre Etat contractant, comme le revenu de bénéficiaires, membres ou participants de cette entité,
+  - i. provenant d’un État contractant par l’intermédiaire d’une entité organisée dans l’autre État contractant, et
+  - ii. traité, en vertu de la législation fiscale de cet autre État contractant, comme le revenu de bénéficiaires, membres ou participants de cette entité,
 
-- est mis au bénéfice des avantages de la Convention qui seraient accordés s’il était obtenu directement par un bénéficiaire, membre ou participant de cette entité résident de cet autre Etat contractant, dans la mesure où ces bénéficiaires, membres ou participants sont des résidents de cet autre Etat contractant et remplissent toutes les autres conditions prévues par la Convention et ce, indépendamment du fait que le revenu est ou non traité comme le revenu des bénéficiaires, membres ou participants de cette entité en vertu de la législation fiscale du premier Etat contractant mentionné;
+- est mis au bénéfice des avantages de la Convention qui seraient accordés s’il était obtenu directement par un bénéficiaire, membre ou participant de cette entité résident de cet autre État contractant, dans la mesure où ces bénéficiaires, membres ou participants sont des résidents de cet autre État contractant et remplissent toutes les autres conditions prévues par la Convention et ce, indépendamment du fait que le revenu est ou non traité comme le revenu des bénéficiaires, membres ou participants de cette entité en vertu de la législation fiscale du premier État contractant mentionné;
 - b.
 
   un élément de revenu:
 
-  - i. provenant d’un Etat contractant par l’intermédiaire d’une entité organisée dans l’autre Etat contractant, et
-  - ii. traité, en vertu de la législation fiscale de cet autre Etat contractant, comme le revenu de cette entité,
+  - i. provenant d’un État contractant par l’intermédiaire d’une entité organisée dans l’autre État contractant, et
+  - ii. traité, en vertu de la législation fiscale de cet autre État contractant, comme le revenu de cette entité,
 
-- est mis au bénéfice des avantages de la Convention qui seraient accordés à un résident de cet autre Etat contractant et ce, indépendamment du fait que le revenu est ou non traité comme le revenu de cette entité en vertu de la législation fiscale du premier Etat contractant mentionné, si cette entité est résidente de cet autre Etat contractant et remplit toutes les autres conditions prévues par la Convention;
+- est mis au bénéfice des avantages de la Convention qui seraient accordés à un résident de cet autre État contractant et ce, indépendamment du fait que le revenu est ou non traité comme le revenu de cette entité en vertu de la législation fiscale du premier État contractant mentionné, si cette entité est résidente de cet autre État contractant et remplit toutes les autres conditions prévues par la Convention;
 - c.
 
   un élément de revenu:
 
-  - i. provenant d’un Etat contractant par l’intermédiaire d’une entité organisée dans cet Etat contractant, et
-  - ii. traité comme le revenu de cette entité en vertu de la législation fiscale de l’autre Etat contractant,
+  - i. provenant d’un État contractant par l’intermédiaire d’une entité organisée dans cet État contractant, et
+  - ii. traité comme le revenu de cette entité en vertu de la législation fiscale de l’autre État contractant,
 
 - n’est pas mis au bénéfice des avantages de la Convention.
 
-[^4-1]: Nouvelle teneur selon l’art. 2 du Prot. du 21 mai 2010, approuvé par l’Ass. féd. le 17 juin 2011, en vigueur depuis le 30 déc. 2011 ([RO 2011 6381](https://fedlex.data.admin.ch/eli/oc/2011/891)[6379](https://fedlex.data.admin.ch/eli/oc/2011/890); [FF 2010 5377](https://fedlex.data.admin.ch/eli/fga/2010/1051)).
-[^4-2]: Nouvelle teneur selon l’art. 2 du Prot. du 21 mai 2010, approuvé par l’Ass. féd. le 17 juin 2011, en vigueur depuis le 30 déc. 2011 ([RO 2011 6381](https://fedlex.data.admin.ch/eli/oc/2011/891)[6379](https://fedlex.data.admin.ch/eli/oc/2011/890); [FF 2010 5377](https://fedlex.data.admin.ch/eli/fga/2010/1051)).
-[^4-3]: Introduit par l’art. 2 du Prot. du 21 mai 2010, approuvé par l’Ass. féd. le 17 juin 2011, en vigueur depuis le 30 déc. 2011 ([RO 2011 6381](https://fedlex.data.admin.ch/eli/oc/2011/891)[6379](https://fedlex.data.admin.ch/eli/oc/2011/890); [FF 2010 5377](https://fedlex.data.admin.ch/eli/fga/2010/1051)).
-[^4-4]: Introduit par l’art. 2 du Prot. du 21 mai 2010, approuvé par l’Ass. féd. le 17 juin 2011, en vigueur depuis le 30 déc. 2011 ([RO 2011 6381](https://fedlex.data.admin.ch/eli/oc/2011/891)[6379](https://fedlex.data.admin.ch/eli/oc/2011/890); [FF 2010 5377](https://fedlex.data.admin.ch/eli/fga/2010/1051)).
+[^4-1]: Nouvelle teneur selon l’art. 2 du Prot. du 21 mai 2010, approuvé par l’Ass. féd. le 17 juin 2011, en vigueur depuis le 30 déc. 2011 ([RO 2011 6381](https://fedlex.data.admin.ch/eli/oc/2011/891), [6379](https://fedlex.data.admin.ch/eli/oc/2011/890); [FF 2010 5377](https://fedlex.data.admin.ch/eli/fga/2010/1051)).
+[^4-2]: Nouvelle teneur selon l’art. 2 du Prot. du 21 mai 2010, approuvé par l’Ass. féd. le 17 juin 2011, en vigueur depuis le 30 déc. 2011 ([RO 2011 6381](https://fedlex.data.admin.ch/eli/oc/2011/891), [6379](https://fedlex.data.admin.ch/eli/oc/2011/890); [FF 2010 5377](https://fedlex.data.admin.ch/eli/fga/2010/1051)).
+[^4-3]: Introduit par l’art. 2 du Prot. du 21 mai 2010, approuvé par l’Ass. féd. le 17 juin 2011, en vigueur depuis le 30 déc. 2011 ([RO 2011 6381](https://fedlex.data.admin.ch/eli/oc/2011/891), [6379](https://fedlex.data.admin.ch/eli/oc/2011/890); [FF 2010 5377](https://fedlex.data.admin.ch/eli/fga/2010/1051)).
+[^4-4]: Introduit par l’art. 2 du Prot. du 21 mai 2010, approuvé par l’Ass. féd. le 17 juin 2011, en vigueur depuis le 30 déc. 2011 ([RO 2011 6381](https://fedlex.data.admin.ch/eli/oc/2011/891), [6379](https://fedlex.data.admin.ch/eli/oc/2011/890); [FF 2010 5377](https://fedlex.data.admin.ch/eli/fga/2010/1051)).
 
 #### Art. 5
 
@@ -155,19 +172,17 @@ Toutefois, cette expression ne comprend pas les personnes qui ne sont assujettie
 
 L’expression «établissement stable» comprend notamment:
 
-- a. un siège de direction,
+- a. un siège de direction;
 - b. une succursale;
 - c. un bureau;
 - d. une usine;
 - e. un atelier;
 - f. une mine, une carrière ou tout autre lieu d’extraction de ressources naturelles;
-- g. un chantier de construction ou de montage dont la durée dépasse douze mois.
+- g.[^5-1] …
 
-<sup>3.</sup> 4.[^5-1] Nonobstant les dispositions des par. 1 et 2, lorsqu’une personne – autre qu’un agent jouissant d’un statut indépendant auquel s’applique le par. 5 – agit pour le compte d’une entreprise et dispose dans un Etat contractant de pouvoirs qu’elle y exerce habituellement lui permettant de conclure des contrats au nom de l’entreprise, cette entreprise est considérée comme ayant un établissement stable dans cet Etat pour toutes les activités que cette personne exerce pour l’entreprise, à moins que les activités de cette personne ne soient limitées à celles qui sont mentionnées au par. 3 et qui, si elles étaient exercées par l’intermédiaire d’une installation fixe d’affaires, ne permettraient pas de considérer cette installation comme un établissement stable selon les dispositions de ce paragraphe.
+<sup>3.</sup> Un chantier de construction ou de montage ne constitue un établissement stable que si sa durée dépasse douze mois.[^5-2]
 
-5.[^5-2] On ne considère pas qu’une entreprise d’un Etat contractant a un établissement stable dans l’autre Etat contractant du seul fait qu’elle y exerce son activité par l’entremise d’un courtier, d’un commissionnaire général ou de tout autre intermédiaire jouissant d’un statut indépendant, à condition que ces personnes agissent dans le cadre ordinaire de leur activité.
-
-6.[^5-3] Le fait qu’une société qui est un résident d’un Etat contractant contrôle ou est contrôlée par une société qui est un résident de l’autre Etat contractant ou qui y exerce son activité (que ce soit par l’intermédiaire d’un établissement stable ou non) ne suffit pas, en lui‑même, à faire de l’une quelconque de ces sociétés, un établissement stable de l’autre.
+<sup>4.</sup>
 
 On ne considère pas qu’il y a établissement stable si:
 
@@ -176,48 +191,55 @@ On ne considère pas qu’il y a établissement stable si:
 - c. des marchandises appartenant à l’entreprise sont entreposées aux seules fins de transformation par une autre entreprise;
 - d. une installation fixe d’affaires est utilisée aux seules fins d’acheter des marchandises ou de réunir des informations pour l’entreprise;
 - e. une installation fixe d’affaires est utilisée, pour l’entreprise, aux seules fins de publicité, de fourniture d’informations, de recherches scientifiques ou d’activités analogues qui ont un caractère préparatoire ou auxiliaire;
-- f.[^5-4] une installation fixe d’affaires est utilisée aux seules fins de l’exercice cumulé d’activités mentionnées aux al. a à e, à condition que l’activité d’ensemble de l’installation fixe d’affaires résultant de ce cumul garde un caractère préparatoire ou auxiliaire.
+- f.[^5-3] une installation fixe d’affaires est utilisée aux seules fins de l’exercice cumulé d’activités mentionnées aux al. a à e, à condition que l’activité d’ensemble de l’installation fixe d’affaires résultant de ce cumul garde un caractère préparatoire ou auxiliaire.[^5-4]
 
-[^5-1]: Nouvelle teneur selon l’art. 3 du Prot. du 21 mai 2010, approuvé par l’Ass. féd. le 17 juin 2011, en vigueur depuis le 30 déc. 2011 ([RO 2011 6381](https://fedlex.data.admin.ch/eli/oc/2011/891)[6379](https://fedlex.data.admin.ch/eli/oc/2011/890); [FF 2010 5377](https://fedlex.data.admin.ch/eli/fga/2010/1051)).
-[^5-2]: Anciennement par. 6
-[^5-3]: Anciennement par. 7
-[^5-4]: Introduite par l’art. 3 du Prot. du 21 mai 2010, approuvé par l’Ass. féd. le 17 juin 2011, en vigueur depuis le 30 déc. 2011 ([RO 2011 6381](https://fedlex.data.admin.ch/eli/oc/2011/891)[6379](https://fedlex.data.admin.ch/eli/oc/2011/890); [FF 2010 5377](https://fedlex.data.admin.ch/eli/fga/2010/1051)).
+<sup>5.</sup> Nonobstant les dispositions des par. 1 et 2, lorsqu’une personne – autre qu’un agent jouissant d’un statut indépendant auquel s’applique le par. 6 – agit pour le compte d’une entreprise et dispose dans un État contractant de pouvoirs qu’elle y exerce habituellement lui permettant de conclure des contrats au nom de l’entreprise, cette entreprise est considérée comme ayant un établissement stable dans cet État pour toutes les activités que cette personne exerce pour l’entreprise, à moins que les activités de cette personne ne soient limitées à celles qui sont mentionnées au par. 4 et qui, si elles étaient exercées par l’intermédiaire d’une installation fixe d’affaires, ne permettraient pas de considérer cette installation comme un établissement stable selon les dispositions de ce paragraphe.[^5-5]
+
+<sup>6.</sup> On ne considère pas qu’une entreprise d’un État contractant a un établissement stable dans l’autre État contractant du seul fait qu’elle y exerce son activité par l’entremise d’un courtier, d’un commissionnaire général ou de tout autre intermédiaire jouissant d’un statut indépendant, à condition que ces personnes agissent dans le cadre ordinaire de leur activité.[^5-6]
+
+<sup>7.</sup> Le fait qu’une société qui est un résident d’un État contractant contrôle ou est contrôlée par une société qui est un résident de l’autre État contractant ou qui y exerce son activité (que ce soit par l’intermédiaire d’un établissement stable ou non) ne suffit pas, en lui‑même, à faire de l’une quelconque de ces sociétés, un établissement stable de l’autre.[^5-7]
+
+[^5-1]: Abrogée par l’art. 4 par. 1 du Prot. du 16 juil. 2021, approuvé par l’Ass. féd. le 17 juin 2022, avec effet au 30 nov. 2022 ([RO 2022 686](https://fedlex.data.admin.ch/eli/oc/2022/686), [685](https://fedlex.data.admin.ch/eli/oc/2022/685); [FF 2021 2830](https://fedlex.data.admin.ch/eli/fga/2021/2830)).
+[^5-2]: Introduit par l’art. 4 par. 2 du Prot. du 16 juil. 2021, approuvé par l’Ass. féd. le 17 juin 2022, en vigueur depuis le 30 nov. 2022 ([RO 2022 686](https://fedlex.data.admin.ch/eli/oc/2022/686), [685](https://fedlex.data.admin.ch/eli/oc/2022/685); [FF 2021 2830](https://fedlex.data.admin.ch/eli/fga/2021/2830)).
+[^5-3]: Introduite par l’art. 3 du Prot. du 21 mai 2010, approuvé par l’Ass. féd. le 17 juin 2011, en vigueur depuis le 30 déc. 2011 ([RO 2011 6381](https://fedlex.data.admin.ch/eli/oc/2011/891), [6379](https://fedlex.data.admin.ch/eli/oc/2011/890); [FF 2010 5377](https://fedlex.data.admin.ch/eli/fga/2010/1051)).
+[^5-4]: Anciennement par. 3.
+[^5-5]: Anciennement par. 4. Introduit par l’art. 3 du Prot. du 21 mai 2010, approuvé par l’Ass. féd. le 17 juin 2011 ([RO 2011 6381](https://fedlex.data.admin.ch/eli/oc/2011/891), [6379](https://fedlex.data.admin.ch/eli/oc/2011/890); [FF 2010 5377](https://fedlex.data.admin.ch/eli/fga/2010/1051)). Mis à jour par l’art. 4 par. 3 du Prot. du 16 juil. 2021, approuvé par l’Ass. féd. le 17 juin 2022, en vigueur depuis le 30 nov. 2022 ([RO 2022 686](https://fedlex.data.admin.ch/eli/oc/2022/686), [685](https://fedlex.data.admin.ch/eli/oc/2022/685); [FF 2021 2830](https://fedlex.data.admin.ch/eli/fga/2021/2830)).
+[^5-6]: Anciennement par. 5.
+[^5-7]: Anciennement par. 6.
 
 #### Art. 6
 
-1.[^6-1] Les revenus qu’un résident d’un Etat contractant tire de biens immobiliers (y compris les revenus des exploitations agricoles ou forestières) situés dans l’autre Etat contractant, sont imposables dans cet autre Etat.
+<sup>1.</sup> Les revenus qu’un résident d’un État contractant tire de biens immobiliers (y compris les revenus des exploitations agricoles ou forestières) situés dans l’autre État contractant, sont imposables dans cet autre État.[^6-1]
 
-<sup>2.</sup> L’expression «biens immobiliers» est définie conformément au droit de l’Etat contractant où les biens considérés sont situés. L’expression englobe en tous cas les accessoires, le cheptel mort ou vif des exploitations agricoles et forestières, les droits auxquels s’appliquent les dispositions du droit privé concernant la propriété foncière, l’usufruit des biens immobiliers et les droits à des redevances variables ou fixes pour l’exploitation ou la concession de l’exploitation de gisements minéraux, sources et autres richesses du sol; les navires et aéronefs ne sont pas considérés comme biens immobiliers.
+<sup>2.</sup> L’expression «biens immobiliers» est définie conformément au droit de l’État contractant où les biens considérés sont situés. L’expression englobe en tous cas les accessoires, le cheptel mort ou vif des exploitations agricoles et forestières, les droits auxquels s’appliquent les dispositions du droit privé concernant la propriété foncière, l’usufruit des biens immobiliers et les droits à des redevances variables ou fixes pour l’exploitation ou la concession de l’exploitation de gisements minéraux, sources et autres richesses du sol; les navires et aéronefs ne sont pas considérés comme biens immobiliers.
 
 <sup>3.</sup> Les dispositions du par. 1 s’appliquent aux revenus provenant de l’exploitation directe, de la location ou de l’affermage, ainsi que de toute autre forme d’exploitation de biens immobiliers.
 
 <sup>4.</sup> Les dispositions des par. 1 et 3 s’appliquent également aux revenus provenant des biens immobiliers d’une entreprise ainsi qu’aux revenus des biens immobiliers servant à l’exercice d’une profession libérale.
 
-[^6-1]: Nouvelle teneur selon l’art. 4 du Prot. du 21 mai 2010, approuvé par l’Ass. féd. le 17 juin 2011, en vigueur depuis le 30 déc. 2011 ([RO 2011 6381](https://fedlex.data.admin.ch/eli/oc/2011/891)[6379](https://fedlex.data.admin.ch/eli/oc/2011/890); [FF 2010 5377](https://fedlex.data.admin.ch/eli/fga/2010/1051)).
+[^6-1]: Nouvelle teneur selon l’art. 4 du Prot. du 21 mai 2010, approuvé par l’Ass. féd. le 17 juin 2011, en vigueur depuis le 30 déc. 2011 ([RO 2011 6381](https://fedlex.data.admin.ch/eli/oc/2011/891), [6379](https://fedlex.data.admin.ch/eli/oc/2011/890); [FF 2010 5377](https://fedlex.data.admin.ch/eli/fga/2010/1051)).
 
 #### Art. 7
 
-<sup>1.</sup> Les bénéfices d’une entreprise d’un Etat contractant ne sont imposables que dans cet Etat contractant, à moins que l’entreprise n’exerce son activité dans l’autre Etat contractant par l’intermédiaire d’un établissement stable qui y est situé. Si l’entreprise exerce son activité d’une telle façon, les bénéfices de l’entreprise sont imposables dans l’autre Etat contractant mais uniquement dans la mesure où ils sont imputables audit établissement stable.
+[^7-1]
 
-<sup>2.</sup> Lorsqu’une entreprise d’un Etat contractant exerce son activité dans l’autre Etat contractant par l’intermédiaire d’un établissement stable qui y est situé, il est imputé dans chaque Etat contractant à cet établissement stable les bénéfices qu’il aurait pu réaliser s’il avait constitué une entreprise distincte et séparée exerçant des activités identiques ou analogues dans des conditions identiques ou analogues et traitant en toute indépendance avec l’entreprise dont il constitue un établissement stable.
+<sup>1.</sup> Les bénéfices d’une entreprise d’un État contractant ne sont imposables que dans cet État, à moins que l’entreprise n’exerce son activité dans l’autre État contractant par l’intermédiaire d’un établissement stable qui y est situé. Si l’entreprise exerce son activité d’une telle façon, les bénéfices qui sont attribuables à l’établissement stable conformément aux dispositions du par. 2 sont imposables dans l’autre État.
 
-<sup>3.</sup> Dans le calcul des bénéfices d’un établissement stable sont admises en déduction les dépenses exposées aux fins poursuivies par cet établissement stable, y compris les dépenses de direction et les frais généraux d’administration ainsi exposés, soit dans l’Etat contractant où est situé cet établissement stable, soit ailleurs.
+<sup>2.</sup> Aux fins de cet article et de l’art. 23, les bénéfices qui sont attribuables dans chaque État contractant à l’établissement stable mentionné au par. 1 sont ceux qu’il aurait pu réaliser, en particulier dans ses opérations internes avec d’autres parties de l’entreprise, s’il avait constitué une entreprise distincte et indépendante exerçant des activités identiques ou analogues dans des conditions identiques ou analogues, compte tenu des fonctions exercées, des actifs utilisés et des risques assumés par l’entreprise par l’intermédiaire de l’établissement stable et des autres parties de l’entreprise.
 
-<sup>4.</sup> S’il est d’usage, dans un Etat contractant, de déterminer les bénéfices imputables à un établissement stable sur la base d’une répartition des bénéfices totaux de l’entreprise entre ses diverses parties, aucune disposition du par. 2 n’empêche cet Etat contractant de déterminer les bénéfices imposables selon la répartition en usage; la méthode de répartition adoptée doit cependant être telle que le résultat obtenu soit conforme aux principes énoncés dans le présent article.
+<sup>3.</sup> Lorsque, conformément au par. 2, un État contractant ajuste les bénéfices qui sont attribuables à un établissement stable d’une entreprise d’un des États contractants et impose en conséquence des bénéfices de l’entreprise qui ont été imposés dans l’autre État, cet autre État procède à un ajustement approprié du montant de l’impôt qui a été perçu sur ces bénéfices dans la mesure nécessaire pour éliminer la double imposition de ces bénéfices. Pour déterminer cet ajustement, les autorités compétentes des États contractants se consultent si nécessaire.
 
-<sup>5.</sup> Aucun bénéfice n’est imputé à un établissement stable du fait que cet établissement stable a simplement acheté des marchandises pour l’entreprise.
+<sup>4.</sup> Lorsque les bénéfices comprennent des éléments de revenus traités séparément dans d’autres articles de la présente Convention, les dispositions de ces articles ne sont pas affectés par les dispositions du présent article.
 
-<sup>6.</sup> Aux fins des paragraphes précédents, les bénéfices à imputer à l’établissement stable sont calculés chaque année selon la même méthode, à moins qu’il n’existe des motifs valables et suffisants de procéder autrement.
-
-<sup>7.</sup> Lorsque les bénéfices comprennent des éléments de revenu traités séparément dans d’autres articles de la, présente convention, les dispositions de ces articles ne sont pas affectées par les dispositions du présent article.
+[^7-1]: Nouvelle teneur selon l’art. 5 du Prot. du 16 juil. 2021, approuvé par l’Ass. féd. le 17 juin 2022, en vigueur depuis le 30 nov. 2022 ([RO 2022 686](https://fedlex.data.admin.ch/eli/oc/2022/686), [685](https://fedlex.data.admin.ch/eli/oc/2022/685); [FF 2021 2830](https://fedlex.data.admin.ch/eli/fga/2021/2830)).
 
 #### Art. 8
 
-<sup>1.</sup> Les bénéfices qu’une entreprise d’un Etat contractant retire de l’exploitation, en trafic international, de navires ou d’aéronefs, ne sont imposables que dans cet Etat contractant.
+<sup>1.</sup> Les bénéfices qu’une entreprise d’un État contractant retire de l’exploitation, en trafic international, de navires ou d’aéronefs, ne sont imposables que dans cet État contractant.
 
-<sup>2.</sup> Une entreprise d’un Etat contractant est exonérée dans l’autre Etat contractant de l’impôt sur les entreprises en ce qui concerne l’exploitation en trafic international des navires ou aéronefs.
+<sup>2.</sup> Une entreprise d’un État contractant est exonérée dans l’autre État contractant de l’impôt sur les entreprises en ce qui concerne l’exploitation en trafic international des navires ou aéronefs.
 
-<sup>3.</sup> Les dispositions des par. 1 et 2 s’appliquent également aux participations d’une entreprise d’un Etat contractant exploitant des navires ou aéronefs en trafic international dans un pool, une exploitation en commun ou un organisme international d’exploitation quelconque.
+<sup>3.</sup> Les dispositions des par. 1 et 2 s’appliquent également aux participations d’une entreprise d’un État contractant exploitant des navires ou aéronefs en trafic international dans un pool, une exploitation en commun ou un organisme international d’exploitation quelconque.
 
 #### Art. 9
 
@@ -227,325 +249,291 @@ On ne considère pas qu’il y a établissement stable si:
 
 Lorsque:
 
-- a. une entreprise d’un Etat contractant participe directement ou indirectement à la direction, au contrôle ou au capital d’une entreprise de l’autre Etat contractant; ou que
-- b. les mêmes personnes participent directement ou indirectement à la direction, au contrôle ou au capital d’une entreprise d’un Etat contractant et d’une entreprise de l’autre Etat contractant;
+- a. une entreprise d’un État contractant participe directement ou indirectement à la direction, au contrôle ou au capital d’une entreprise de l’autre État contractant, ou que
+- b. les mêmes personnes participent directement ou indirectement à la direction, au contrôle ou au capital d’une entreprise d’un État contractant et d’une entreprise de l’autre État contractant;
 
-<sup>2.</sup> Lorsqu’un Etat contractant inclut, en conformité avec le par. 1, dans les bénéfices d’une entreprise de cet Etat – et impose en conséquence – des bénéfices sur lesquels une entreprise de l’autre Etat contractant a été imposée dans cet autre Etat, et que les autorités compétentes des Etats contractants admettent, après consultation, que tout ou partie des bénéfices ainsi inclus sont des bénéfices qui auraient été réalisés par l’entreprise du premier Etat contractant mentionné si les conditions convenues entre les deux entreprises avaient été celles qui auraient été convenues entre des entreprises indépendantes, cet autre Etat contractant procède à un ajustement approprié du montant de l’impôt qui y a été perçu sur ces bénéfices. Pour déterminer cet ajustement, il est tenu compte des autres dispositions de la présente Convention.
+<sup>2.</sup> Lorsqu’un État contractant inclut dans les bénéfices d’une entreprise de cet État contractant, et impose en conséquence, des bénéfices sur lesquels une entreprise de l’autre État contractant a été imposée dans cet autre État contractant, et que les bénéfices ainsi inclus sont des bénéfices qui auraient été réalisés par l’entreprise du premier État contractant si les conditions convenues entre les deux entreprises avaient été celles qui auraient été convenues entre des entreprises indépendantes, l’autre État contractant procède à un ajustement approprié du montant de l’impôt qui y a été perçu sur ces bénéfices. Pour déterminer cet ajustement, il est tenu compte des autres dispositions de la présente Convention et, si c’est nécessaire, les autorités compétentes des États contractants se consultent.[^9-2]
 
-<sup>3.</sup> Nonobstant les dispositions du par. 1, un Etat contractant ne rectifiera pas les bénéfices d’une entreprise de cet Etat contractant dans les cas visés au par. 1 après l’expiration des délais prévus par sa législation et, en aucun cas, après l’expiration de sept ans à dater de la fin de l’année fiscale au cours de laquelle les bénéfices qui feraient l’objet d’une telle rectification auraient été réalisés par cette entreprise. Le présent paragraphe ne s’applique pas en cas de fraude ou d’omission volontaire.
+<sup>3.</sup> Nonobstant les dispositions du par. 1, un État contractant ne rectifiera pas les bénéfices d’une entreprise de cet État contractant dans les cas visés au par. 1 après l’expiration des délais prévus par sa législation et, en aucun cas, après l’expiration de sept ans à dater de la fin de l’année fiscale au cours de laquelle les bénéfices qui feraient l’objet d’une telle rectification auraient été réalisés par cette entreprise. Le présent paragraphe ne s’applique pas en cas de fraude ou d’omission volontaire.
 
-[^9-1]: Nouvelle teneur selon l’art. 5 du Prot. du 21 mai 2010, approuvé par l’Ass. féd. le 17 juin 2011, en vigueur depuis le 30 déc. 2011 ([RO 2011 6381](https://fedlex.data.admin.ch/eli/oc/2011/891)[6379](https://fedlex.data.admin.ch/eli/oc/2011/890); [FF 2010 5377](https://fedlex.data.admin.ch/eli/fga/2010/1051)).
+[^9-1]: Nouvelle teneur selon l’art. 5 du Prot. du 21 mai 2010, approuvé par l’Ass. féd. le 17 juin 2011, en vigueur depuis le 30 déc. 2011 ([RO 2011 6381](https://fedlex.data.admin.ch/eli/oc/2011/891), [6379](https://fedlex.data.admin.ch/eli/oc/2011/890); [FF 2010 5377](https://fedlex.data.admin.ch/eli/fga/2010/1051)).
+[^9-2]: Nouvelle teneur selon l’art. 6 du Prot. du 16 juil. 2021, approuvé par l’Ass. féd. le 17 juin 2022, en vigueur depuis le 30 nov. 2022 ([RO 2022 686](https://fedlex.data.admin.ch/eli/oc/2022/686), [685](https://fedlex.data.admin.ch/eli/oc/2022/685); [FF 2021 2830](https://fedlex.data.admin.ch/eli/fga/2021/2830)).
 
 #### Art. 10
 
 [^10-1]
 
-<sup>1.</sup> Les dividendes payés par une société qui est un résident d’un Etat contractant à un résident de l’autre Etat contractant sont imposables dans cet autre Etat.
+<sup>1.</sup> Les dividendes payés par une société qui est un résident d’un État contractant à un résident de l’autre État contractant sont imposables dans cet autre État.
 
-<sup>2.</sup>
-
-Toutefois, ces dividendes sont aussi imposables dans l’Etat contractant dont la société qui paie les dividendes est un résident, et selon la législation de cet Etat, mais si le bénéficiaire effectif des dividendes est un résident de l’autre Etat contractant, l’impôt ainsi établi ne peut excéder:
-
-- a.
-
-  5 % du montant brut des dividendes si le bénéficiaire effectif est une société qui a détenu, directement ou indirectement, pendant la période de six mois qui s’achève à la date de fixation des droits aux dividendes:
-
-  - i. des actions représentant au moins 10 % des droits de vote de la société qui paie les dividendes lorsque celle-ci est un résident du Japon, ou
-  - ii. des actions représentant au moins 10 % du capital ou des droits de vote de la société qui paie les dividendes lorsque celle-ci est un résident de Suisse;
-
-- b. 10 % du montant brut des dividendes dans tous les autres cas.
+<sup>2.</sup> Toutefois, les dividendes payés par une société qui est un résident d’un État contractant sont aussi imposables dans cet État contractant selon la législation de cet État contractant, mais si le bénéficiaire effectif des dividendes est un résident de l’autre État contractant, l’impôt ainsi établi ne peut excéder 10 % du montant brut des dividendes.[^10-2]
 
 <sup>3.</sup>
 
-Nonobstant les dispositions du par. 2, les dividendes ne sont pas imposables dans l’Etat contractant dont la société qui paie les dividendes est un résident si le bénéficiaire effectif des dividendes est un résident de l’autre Etat contractant et est:
+Nonobstant les dispositions du par. 2, les dividendes payés par une société qui est un résident d’un État contractant ne sont imposables que dans l’autre État contractant si le bénéficiaire effectif de ces dividendes est un résident de l’autre État contractant et est:
 
 - a.
 
-  une société qui a détenu, directement ou indirectement, pendant la période de six mois qui s’achève à la date de fixation des droits à dividendes:
+  une société qui détient, directement ou indirectement, durant une période de 365 jours qui inclut la date à laquelle le droit au dividende est déterminé (pour le calcul de cette période, il n’est pas tenu compte des changements de détention qui résulteraient directement d’une fusion, de scission ou d’un changement de forme juridique, de la société qui est le bénéficiaire effectif des dividendes ou qui paie les dividendes), au moins 10 %:
 
-  - i. des actions représentant au moins 50 % des droits de vote de la société qui paie les dividendes lorsque celle-ci est un résident du Japon, ou
-  - ii. des actions représentant au moins 50 % du capital ou des droits de vote de la société qui paie les dividendes lorsque celle-ci est un résident de Suisse; ou
+  - i. dans le cas où la société qui paie les dividendes est un résident du Japon, des droits de vote de cette société;
+  - ii. dans le cas où la société qui paie les dividendes est un résident de Suisse, du capital ou des droits de vote de cette société, ou
 
-- b. un fonds de pension ou une institution de prévoyance, pour autant que ces dividendes proviennent d’activités décrites à l’al. ii de la let. k du par. 1 de l’art. 3.
+- b. un fonds de pension ou institution de prévoyance, à condition que ces dividendes proviennent des activités décrites au chiffre ii de la lettre k du par. 1 de l’art. 3.[^10-3]
 
 <sup>4.</sup> Les dispositions des par. 2 et 3 n’affectent pas l’imposition de la société au titre des bénéfices qui servent au paiement des dividendes.
 
-<sup>5.</sup> Le terme «dividendes» employé dans le présent article désigne les revenus provenant d’actions ou d’ d’autres droits ou de parts bénéficiaires, à l’exception des créances, ainsi que les revenus soumis au même régime fiscal que les revenus d’actions par la législation fiscale de l’Etat contractant dont la société distributrice est un résident.
+<sup>5.</sup> Le terme «dividendes» employé dans le présent article désigne les revenus provenant d’actions ou d’ d’autres droits ou de parts bénéficiaires, à l’exception des créances, ainsi que les revenus soumis au même régime fiscal que les revenus d’actions par la législation fiscale de l’État contractant dont la société distributrice est un résident.
 
-<sup>6.</sup> Les dispositions des par. 1, 2 et 3 ne s’appliquent pas lorsque le bénéficiaire effectif des dividendes, résident d’un Etat contractant, exerce dans l’autre Etat contractant dont la société qui paie les dividendes est un résident, soit une activité industrielle ou commerciale par l’intermédiaire d’un établissement stable qui y est situé, soit une profession indépendante au moyen d’une base fixe qui y est située, et que la participation génératrice des dividendes se rattache effectivement à cet établissement stable ou à cette base fixe. Dans ce cas, les dispositions des art. 7 ou 14, suivant les cas, sont applicables.
+<sup>6.</sup> Les dispositions des par. 1, 2 et 3 ne s’appliquent pas lorsque le bénéficiaire effectif des dividendes, résident d’un État contractant, exerce dans l’autre État contractant dont la société qui paie les dividendes est un résident, soit une activité industrielle ou commerciale par l’intermédiaire d’un établissement stable qui y est situé, soit une profession indépendante au moyen d’une base fixe qui y est située, et que la participation génératrice des dividendes se rattache effectivement à cet établissement stable ou à cette base fixe. Dans ce cas, les dispositions des art. 7 ou 14, suivant les cas, sont applicables.
 
-<sup>7.</sup> Lorsqu’une société qui est un résident d’un Etat contractant tire des bénéfices ou des revenus de l’autre Etat contractant, cet autre Etat contractant ne peut percevoir aucun impôt sur les dividendes payés par la société, sauf dans la mesure où ces dividendes sont payés à un résident de cet autre Etat contractant ou dans la mesure où la participation génératrice des dividendes se rattache effectivement à un établissement stable ou à une base fixe situés dans cet autre Etat contractant, ni prélever aucun impôt, au titre de l’imposition des bénéfices non distribués, sur les bénéfices non distribués de la société, même si les dividendes payés ou les bénéfices non distribués consistent en tout ou en partie en bénéfices ou revenus provenant de cet autre Etat contractant.
+<sup>7.</sup> Lorsqu’une société qui est un résident d’un État contractant tire des bénéfices ou des revenus de l’autre État contractant, cet autre État contractant ne peut percevoir aucun impôt sur les dividendes payés par la société, sauf dans la mesure où ces dividendes sont payés à un résident de cet autre État contractant ou dans la mesure où la participation génératrice des dividendes se rattache effectivement à un établissement stable ou à une base fixe situés dans cet autre État contractant, ni prélever aucun impôt, au titre de l’imposition des bénéfices non distribués, sur les bénéfices non distribués de la société, même si les dividendes payés ou les bénéfices non distribués consistent en tout ou en partie en bénéfices ou revenus provenant de cet autre État contractant.
 
 <sup>8.</sup> détienne des actions ou d’autres intérêts similaires équivalents du premier résident.
 
-Un résident d’un Etat contractant n’est pas considéré comme le bénéficiaire effectif des dividendes payés par un résident de l’autre Etat contractant au titre d’actions ou d’autres intérêts similaires, si la constitution ou l’acquisition de ces actions ou autres intérêts similaires était subordonnée au fait qu’une personne:
+Un résident d’un État contractant n’est pas considéré comme le bénéficiaire effectif des dividendes payés par un résident de l’autre État contractant au titre d’actions ou d’autres intérêts similaires, si la constitution ou l’acquisition de ces actions ou autres intérêts similaires était subordonnée au fait qu’une personne:
 
-- a. n’ayant pas droit, au titre des dividendes payés par un résident de l’autre Etat contractant, à des avantages au moins équivalents à ceux accordés par la présente Convention à un résident du premier Etat contractant; et
-- b. qui n’est pas un résident d’un des deux Etats contractants;
+- a. n’ayant pas droit, au titre des dividendes payés par un résident de l’autre État contractant, à des avantages au moins équivalents à ceux accordés par la présente Convention à un résident du premier État contractant, et
+- b. qui n’est pas un résident d’un des deux États contractants;
 
-[^10-1]: Nouvelle teneur selon l’art. 6 du Prot. du 21 mai 2010, approuvé par l’Ass. féd. le 17 juin 2011, en vigueur depuis le 30 déc. 2011 ([RO 2011 6381](https://fedlex.data.admin.ch/eli/oc/2011/891)[6379](https://fedlex.data.admin.ch/eli/oc/2011/890); [FF 2010 5377](https://fedlex.data.admin.ch/eli/fga/2010/1051)).
+[^10-1]: Nouvelle teneur selon l’art. 6 du Prot. du 21 mai 2010, approuvé par l’Ass. féd. le 17 juin 2011, en vigueur depuis le 30 déc. 2011 ([RO 2011 6381](https://fedlex.data.admin.ch/eli/oc/2011/891), [6379](https://fedlex.data.admin.ch/eli/oc/2011/890); [FF 2010 5377](https://fedlex.data.admin.ch/eli/fga/2010/1051)).
+[^10-2]: Nouvelle teneur selon l’art. 7 du Prot. du 16 juil. 2021, approuvé par l’Ass. féd. le 17 juin 2022, en vigueur depuis le 30 nov. 2022 ([RO 2022 686](https://fedlex.data.admin.ch/eli/oc/2022/686), [685](https://fedlex.data.admin.ch/eli/oc/2022/685); [FF 2021 2830](https://fedlex.data.admin.ch/eli/fga/2021/2830)).
+[^10-3]: Nouvelle teneur selon l’art. 7 du Prot. du 16 juil. 2021, approuvé par l’Ass. féd. le 17 juin 2022, en vigueur depuis le 30 nov. 2022 ([RO 2022 686](https://fedlex.data.admin.ch/eli/oc/2022/686), [685](https://fedlex.data.admin.ch/eli/oc/2022/685); [FF 2021 2830](https://fedlex.data.admin.ch/eli/fga/2021/2830)).
 
 #### Art. 11
 
 [^11-1]
 
-<sup>1.</sup> Les intérêts provenant d’un Etat contractant et payés à un résident de l’autre Etat contractant sont imposables dans cet autre Etat contractant.
+<sup>1.</sup> Les intérêts provenant d’un État contractant et dont le bénéficiaire effectif est un résident de l’autre État contractant ne sont imposables que dans cet autre État contractant.[^11-2]
 
-<sup>2.</sup> Toutefois, ces intérêts sont aussi imposables dans l’Etat contractant d’où ils proviennent et selon la législation de cet Etat, mais si le bénéficiaire effectif des intérêts est un résident de l’autre Etat contractant, l’impôt ainsi établi ne peut excéder 10 % du montant brut des intérêts.
+<sup>2.</sup> Nonobstant les dispositions du par. 1, les intérêts provenant d’un État contractant qui sont déterminés en référence aux recettes, ventes, revenus, bénéfices ou autres flux de trésorerie du débiteur ou d’une personne liée, à toute variation de la valeur d’un bien du débiteur ou d’une personne liée ou à tout dividende, distribution d’une société de personne ou paiement similaire effectué par le débiteur ou une personne liée, ou tout autre intérêt semblable provenant d’un État contractant, est imposable dans cet État contractant conformément à la législation de cet État contractant, mais si le bénéficiaire effectif des intérêts est un résident de l’autre État contractant, l’impôt ainsi établi ne peut excéder 10 % du montant brut des intérêts.[^11-3]
 
-<sup>3.</sup>
+<sup>3.</sup> Le terme «intérêt» employé dans le présent article désigne les revenus des créances de toute nature, assorties ou non de garanties hypothécaires ou d’une clause de participation aux bénéfices du débiteur, et notamment les revenus des fonds publics et des obligations d’emprunts, y compris les primes et lots attachés à ces titres, et tout autre revenu soumis, par la législation fiscale de l’État contractant d’où il provient, au même traitement fiscal que le revenu provenant d’argent prêté. Le revenu visé à l’art. 10 n’est pas considéré comme intérêt aux fins de la présente Convention.[^11-4]
 
-Nonobstant les dispositions du par. 2, les intérêts provenant d’un Etat contractant ne sont imposables que dans l’autre Etat contractant si:
+<sup>4.</sup> Les dispositions des par. 1 et 2 ne s’appliquent pas lorsque le bénéficiaire effectif des intérêts, résident d’un État contractant, exerce dans l’autre État contractant d’où proviennent les intérêts, soit une activité industrielle ou commerciale par l’intermédiaire d’un établissement stable qui y est situé, soit une profession indépendante au moyen d’une base fixe qui y est située, et que la créance génératrice des intérêts se rattache effectivement à cet établissement stable ou à cette base fixe. Dans ce cas, les dispositions des art. 7 ou 14, suivant les cas, sont applicables.[^11-5]
 
-- a. ils bénéficient effectivement au Gouvernement de cet autre Etat contractant, à l’une des subdivisions politiques ou collectivités locales de cet autre Etat contractant, à la banque centrale de cet autre Etat contractant ou à toute institution détenue par ce Gouvernement;
-- b. ils bénéficient effectivement à un résident de cet autre Etat contractant au titre de créances garanties, assurées ou indirectement financées par le Gouvernement de cet autre Etat contractant, l’une des subdivisions politiques ou collectivités locales de cet autre Etat contractant, la banque centrale de cet autre Etat contractant ou toute institution détenue par ce Gouvernement;
-- c.
+<sup>5.</sup> Les intérêts sont considérés comme provenant d’un État contractant lorsque le débiteur est un résident de cet État contractant. Toutefois, lorsque le débiteur des intérêts, que cette personne soit ou non un résident d’un État contractant, a dans un État contractant un établissement stable, ou une base fixe, pour lequel la dette donnant lieu au paiement des intérêts a été contractée et qui supporte la charge de ces intérêts, ceux-ci sont considérés comme provenant de l’État contractant où l’établissement stable, ou la base fixe, est situé.[^11-6]
 
-  ils bénéficient effectivement à un résident de cet autre Etat contractant qui est soit:
+<sup>6.</sup> Lorsque, en raison de relations spéciales existant entre le débiteur et le bénéficiaire effectif ou que l’un et l’autre entretiennent avec de tierces personnes, le montant des intérêts, compte tenu de la créance pour laquelle ils sont payés, excède celui dont seraient convenus le débiteur et le bénéficiaire effectif en l’absence de pareilles relations, les dispositions du présent article ne s’appliquent qu’à ce dernier montant. Dans ce cas, la partie excédentaire des paiements reste imposable selon la législation de chaque État contractant et compte tenu des autres dispositions de la présente Convention.[^11-7]
 
-  - i. une banque,
-  - ii. une compagnie d’assurance,
-  - iii. un commerçant de titres, ou
-  - iv. toute autre entreprise, pour autant que pendant les trois années fiscales précédant l’année fiscale durant laquelle l’intérêt est payé, plus de 50 % du passif de l’entreprise soit dû à l’émission d’obligations sur les marchés financiers ou à la rémunération de dépôts donnant lieu à intérêts, et que plus de 50 % des actifs de l’entreprise soit constitué de créances envers des personnes n’entretenant pas avec l’entreprise des relations décrites à la let. a ou b du par. 1 de l’art. 9;
+<sup>7.</sup> détienne une créance équivalente à l’encontre du premier résident.[^11-8]
 
-- d. ils bénéficient effectivement à un fonds de pension ou à une institution de prévoyance qui est un résident de cet autre Etat contractant, pour autant que ces intérêts proviennent d’activités décrites à l’al. ii de la let. k du par. 1 de l’art. 3; ou
-- e. ils bénéficient effectivement à un résident de cet autre Etat contractant et sont payés au titre de la dette née de la vente à crédit d’un équipement ou de marchandises par un résident de cet autre Etat contractant.
+Un résident d’un État contractant n’est pas considéré comme le bénéficiaire effectif des intérêts provenant de l’autre État contractant au titre d’une créance, si la constitution de cette créance était subordonnée au fait qu’une personne:
 
-<sup>4.</sup>
+- a. n’ayant pas droit, au titre des intérêts provenant de l’autre État contractant, à des avantages au moins équivalents à ceux accordés par la présente Convention à un résident du premier État contractant, et
+- b. qui n’est pas un résident d’un des deux États contractants;
 
-Aux fins du par. 3, les expressions «banque centrale» et «institution détenue par ce Gouvernement» désignent:
-
-- a.
-
-  dans le cas du Japon:
-
-  - i. la Banque du Japon,
-  - ii. la Société financière japonaise,
-  - iii. l’Agence japonaise pour la coopération internationale,
-  - iv. l’Assurance japonaise pour l’exportation et l’investissement, et
-  - v. toute autre institution similaire dont le capital est détenu par le Gouvernement du Japon, ainsi que peuvent en convenir de cas en cas les Gouvernements des Etats contractants par échange de notes diplomatiques;
-
-- b.
-
-  dans le cas de la Suisse:
-
-  - i. la Banque Nationale Suisse,
-  - ii. l’Assurance suisse contre les risques à l’exportation,
-  - iii. la Caisse nationale suisse en cas d’accidents (SUVA),
-  - iv. toute institution appliquant la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants[^11-2], et
-  - v. toute autre institution similaire dont le capital est détenu par le Gouvernement de la Suisse, ainsi que peuvent en convenir de cas en cas les Gouvernements des Etats contractants par échange de notes diplomatique.
-
-<sup>5.</sup> Le terme «intérêt» employé dans le présent article désigne les revenus des créances de toute nature, assorties ou non de garanties hypothécaires ou d’une clause de participation aux bénéfices du débiteur, et notamment les revenus des fonds publics et des obligations d’emprunts, y compris les primes et lots attachés à ces titres, et tout autre revenu soumis, par la législation fiscale de l’Etat contractant d’où il provient, au même traitement fiscal que le revenu provenant d’argent prêté. Le revenu visé à l’art. 10 n’est pas considéré comme intérêt aux fins de la présente Convention.
-
-<sup>6.</sup> Les dispositions des par. 1, 2 et 3 ne s’appliquent pas lorsque le bénéficiaire effectif des intérêts, résident d’un Etat contractant, exerce dans l’autre Etat contractant d’où proviennent les intérêts, soit une activité industrielle ou commerciale par l’intermédiaire d’un établissement stable qui y est situé, soit une profession indépendante au moyen d’une base fixe qui y est située, et que la créance génératrice des intérêts se rattache effectivement à cet établissement stable ou à cette base fixe. Dans ce cas, les dispositions des art. 7 ou 14, suivant les cas, sont applicables.
-
-<sup>7.</sup> Les intérêts sont considérés comme provenant d’un Etat contractant lorsque le débiteur est un résident de cet Etat contractant. Toutefois, lorsque le débiteur des intérêts, que cette personne soit ou non un résident d’un Etat contractant, a dans un Etat contractant un établissement stable, ou une base fixe, pour lequel la dette donnant lieu au paiement des intérêts a été contractée et qui supporte la charge de ces intérêts, ceux-ci sont considérés comme provenant de l’Etat contractant où l’établissement stable, ou la base fixe, est situé.
-
-<sup>8.</sup> Lorsque, en raison de relations spéciales existant entre le débiteur et le bénéficiaire effectif ou que l’un et l’autre entretiennent avec de tierces personnes, le montant des intérêts, compte tenu de la créance pour laquelle ils sont payés, excède celui dont seraient convenus le débiteur et le bénéficiaire effectif en l’absence de pareilles relations, les dispositions du présent article ne s’appliquent qu’à ce dernier montant. Dans ce cas, la partie excédentaire des paiements reste imposable selon la législation de chaque Etat contractant et compte tenu des autres dispositions de la présente Convention.
-
-<sup>9.</sup> détienne une créance équivalente à l’encontre du premier résident.
-
-Un résident d’un Etat contractant n’est pas considéré comme le bénéficiaire effectif des intérêts provenant de l’autre Etat contractant au titre d’une créance, si la constitution de cette créance était subordonnée au fait qu’une personne:
-
-- a. n’ayant pas droit, au titre des intérêts provenant de l’autre Etat contractant, à des avantages au moins équivalents à ceux accordés par la présente Convention à un résident du premier Etat contractant; et
-- b. qui n’est pas un résident d’un des deux Etats contractants;
-
-[^11-1]: Nouvelle teneur selon l’art. 7 du Prot. du 21 mai 2010, approuvé par l’Ass. féd. le 17 juin 2011, en vigueur depuis le 30 déc. 2011 ([RO 2011 6381](https://fedlex.data.admin.ch/eli/oc/2011/891)[6379](https://fedlex.data.admin.ch/eli/oc/2011/890); [FF 2010 5377](https://fedlex.data.admin.ch/eli/fga/2010/1051)).
-[^11-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^11-1]: Nouvelle teneur selon l’art. 7 du Prot. du 21 mai 2010, approuvé par l’Ass. féd. le 17 juin 2011, en vigueur depuis le 30 déc. 2011 ([RO 2011 6381](https://fedlex.data.admin.ch/eli/oc/2011/891), [6379](https://fedlex.data.admin.ch/eli/oc/2011/890); [FF 2010 5377](https://fedlex.data.admin.ch/eli/fga/2010/1051)).
+[^11-2]: Nouvelle teneur selon l’art. 8 par. 1 du Prot. du 16 juil. 2021, approuvé par l’Ass. féd. le 17 juin 2022, en vigueur depuis le 30 nov. 2022 ([RO 2022 686](https://fedlex.data.admin.ch/eli/oc/2022/686), [685](https://fedlex.data.admin.ch/eli/oc/2022/685); [FF 2021 2830](https://fedlex.data.admin.ch/eli/fga/2021/2830)).
+[^11-3]: Nouvelle teneur selon l’art. 8 par. 2 du Prot. du 16 juil. 2021, approuvé par l’Ass. féd. le 17 juin 2022, en vigueur depuis le 30 nov. 2022 ([RO 2022 686](https://fedlex.data.admin.ch/eli/oc/2022/686), [685](https://fedlex.data.admin.ch/eli/oc/2022/685); [FF 2021 2830](https://fedlex.data.admin.ch/eli/fga/2021/2830)).
+[^11-4]: Anciennement par. 5.
+[^11-5]: Anciennement par. 6. Mis à jour par l’art. 8 par. 2 du Prot. du 16 juil. 2021, approuvé par l’Ass. féd. le 17 juin 2022, en vigueur depuis le 30 nov. 2022 ([RO 2022 686](https://fedlex.data.admin.ch/eli/oc/2022/686), [685](https://fedlex.data.admin.ch/eli/oc/2022/685); [FF 2021 2830](https://fedlex.data.admin.ch/eli/fga/2021/2830)).
+[^11-6]: Anciennement par. 7.
+[^11-7]: Anciennement par. 8.
+[^11-8]: Anciennement par. 9.
 
 #### Art. 12
 
 [^12-1]
 
-<sup>1.</sup> Les redevances provenant d’un Etat contractant et dont le bénéficiaire effectif est un résident de l’autre Etat contractant ne sont imposables que dans cet autre Etat contractant.
+<sup>1.</sup> Les redevances provenant d’un État contractant et dont le bénéficiaire effectif est un résident de l’autre État contractant ne sont imposables que dans cet autre État contractant.
 
 <sup>2.</sup> Le terme «redevances» employé dans le présent article désigne les rémunérations de toute nature payées pour l’usage ou la concession de l’usage d’un droit d’auteur sur une œuvre littéraire, artistique ou scientifique, y compris les films cinématographiques et les films ou les enregistrements magnétiques conçus pour la télévision ou la radio, d’un brevet, d’une marque de fabrique ou de commerce, d’un dessin ou d’un modèle, d’un plan, d’une formule ou d’un procédé secrets et pour des informations ayant trait à une expérience acquise dans le domaine industriel, commercial ou scientifique.
 
-<sup>3.</sup> Les dispositions du par. 1 ne s’appliquent pas lorsque le bénéficiaire effectif des redevances, résident d’un Etat contractant, exerce dans l’autre Etat contractant d’où proviennent les redevances, soit une activité industrielle ou commerciale par l’intermédiaire d’un établissement stable qui y est situé, soit une profession indépendante au moyen d’une base fixe qui y est située, et que le droit ou le bien générateur des redevances s’y rattache effectivement. Dans ce cas, les dispositions des art. 7 ou 14, suivant les cas, sont applicables.
+<sup>3.</sup> Les dispositions du par. 1 ne s’appliquent pas lorsque le bénéficiaire effectif des redevances, résident d’un État contractant, exerce dans l’autre État contractant d’où proviennent les redevances, soit une activité industrielle ou commerciale par l’intermédiaire d’un établissement stable qui y est situé, soit une profession indépendante au moyen d’une base fixe qui y est située, et que le droit ou le bien générateur des redevances s’y rattache effectivement. Dans ce cas, les dispositions des art. 7 ou 14, suivant les cas, sont applicables.
 
-<sup>4.</sup> Lorsque, en raison de relations spéciales existant entre le débiteur et le bénéficiaire effectif ou que l’un et l’autre entretiennent avec de tierces personnes, le montant des redevances, compte tenu de la prestation pour laquelle elles sont payées, excède celui dont seraient convenus le débiteur et le bénéficiaire effectif en l’absence de pareilles relations, les dispositions du présent article ne s’appliquent qu’à ce dernier montant. Dans ce cas, la partie excédentaire des paiements reste imposable selon la législation de chaque Etat contractant et compte tenu des autres dispositions de la présente Convention.
+<sup>4.</sup> Lorsque, en raison de relations spéciales existant entre le débiteur et le bénéficiaire effectif ou que l’un et l’autre entretiennent avec de tierces personnes, le montant des redevances, compte tenu de la prestation pour laquelle elles sont payées, excède celui dont seraient convenus le débiteur et le bénéficiaire effectif en l’absence de pareilles relations, les dispositions du présent article ne s’appliquent qu’à ce dernier montant. Dans ce cas, la partie excédentaire des paiements reste imposable selon la législation de chaque État contractant et compte tenu des autres dispositions de la présente Convention.
 
 <sup>5.</sup>
 
-Un résident d’un Etat contractant n’est pas considéré comme le bénéficiaire effectif des redevances provenant de l’autre Etat contractant au titre de l’usage du droit ou du bien générateur des redevances, si le paiement de ces redevances était subordonné au paiement de redevances, au titre de l’usage des mêmes biens incorporels à une personne:
+Un résident d’un État contractant n’est pas considéré comme le bénéficiaire effectif des redevances provenant de l’autre État contractant au titre de l’usage du droit ou du bien générateur des redevances, si le paiement de ces redevances était subordonné au paiement de redevances, au titre de l’usage des mêmes biens incorporels à une personne:
 
-- a. n’ayant pas droit, au titre des redevances provenant de l’autre Etat contractant, à des avantages au moins équivalents à ceux accordés par la présente Convention à un résident du premier Etat contractant; et
-- b. qui n’est pas un résident d’un des deux Etats contractants.
+- a. n’ayant pas droit, au titre des redevances provenant de l’autre État contractant, à des avantages au moins équivalents à ceux accordés par la présente Convention à un résident du premier État contractant, et
+- b. qui n’est pas un résident d’un des deux États contractants.
 
-[^12-1]: Nouvelle teneur selon l’art. 8 du Prot. du 21 mai 2010, approuvé par l’Ass. féd. le 17 juin 2011, en vigueur depuis le 30 déc. 2011 ([RO 2011 6381](https://fedlex.data.admin.ch/eli/oc/2011/891)[6379](https://fedlex.data.admin.ch/eli/oc/2011/890); [FF 2010 5377](https://fedlex.data.admin.ch/eli/fga/2010/1051)).
+[^12-1]: Nouvelle teneur selon l’art. 8 du Prot. du 21 mai 2010, approuvé par l’Ass. féd. le 17 juin 2011, en vigueur depuis le 30 déc. 2011 ([RO 2011 6381](https://fedlex.data.admin.ch/eli/oc/2011/891), [6379](https://fedlex.data.admin.ch/eli/oc/2011/890); [FF 2010 5377](https://fedlex.data.admin.ch/eli/fga/2010/1051)).
 
 #### Art. 13
 
 [^13-1]
 
-<sup>1.</sup> Les gains qu’un résident d’un Etat contractant tire de l’aliénation de biens immobiliers visés à l’art. 6, et situés dans l’autre Etat contractant, sont imposables dans cet autre Etat contractant.
+<sup>1.</sup> Les gains qu’un résident d’un État contractant tire de l’aliénation de biens immobiliers visés à l’art. 6, et situés dans l’autre État contractant, sont imposables dans cet autre État contractant.
 
-<sup>2.</sup> Les gains qu’un résident d’un Etat contractant tire de l’aliénation d’actions dans une société ou d’intérêts dans un trust constitués, directement ou indirectement, à raison d’au moins 50 % de leur valeur de biens immobiliers visés à l’art. 6 et situés dans l’autre Etat contractant, sont imposables dans cet autre Etat contractant.
+<sup>2.</sup> Les gains qu’un résident d’un État contractant tire de l’aliénation d’actions dans une société ou d’intérêts dans un trust constitués, directement ou indirectement, à raison d’au moins 50 % de leur valeur de biens immobiliers visés à l’art. 6 et situés dans l’autre État contractant, sont imposables dans cet autre État contractant.
 
 - 3\. a.
 
   Lorsque:
 
-  - i. un Etat contractant (comprenant, à cette fin et dans le cas du Japon, la Société de garantie des dépôts japonaise) fournit, conformément à sa législation concernant des situations de cessation de paiement imminente d’institutions financières de cet Etat contractant, une assistance financière substantielle à une institution financière qui est un résident de cet Etat contractant, et
-  - ii. qu’un résident de l’autre Etat contractant acquiert des actions de l’institution financière du premier Etat contractant mentionné,
+  - i. un État contractant (comprenant, à cette fin et dans le cas du Japon, la Société de garantie des dépôts japonaise) fournit, conformément à sa législation concernant des situations de cessation de paiement imminente d’institutions financières de cet État contractant, une assistance financière substantielle à une institution financière qui est un résident de cet État contractant, et
+  - ii. qu’un résident de l’autre État contractant acquiert des actions de l’institution financière du premier État contractant mentionné,
 
-- le premier Etat contractant mentionné peut imposer les gains tirés par le résident de l’autre Etat contractant de l’aliénation de ces actions, pour autant que l’aliénation intervienne durant cinq ans à compter de la première date à laquelle cette assistance financière a été fournie.
-- b. Les dispositions de la let. a ne sont pas applicables si le résident de cet autre Etat contractant a acquis des actions de l’institution financière du premier Etat contractant mentionné avant l’entrée en vigueur des dispositions du présent paragraphe ou conformément à un contrat conclu avant l’entrée en vigueur des dispositions du présent paragraphe.
+- le premier État contractant mentionné peut imposer les gains tirés par le résident de l’autre État contractant de l’aliénation de ces actions, pour autant que l’aliénation intervienne durant cinq ans à compter de la première date à laquelle cette assistance financière a été fournie.
+- b. Les dispositions de la let. a ne sont pas applicables si le résident de cet autre État contractant a acquis des actions de l’institution financière du premier État contractant mentionné avant l’entrée en vigueur des dispositions du présent paragraphe ou conformément à un contrat conclu avant l’entrée en vigueur des dispositions du présent paragraphe.
 
-<sup>4.</sup> Les gains provenant de l’aliénation de biens, autres que des biens immobiliers, qui font partie de l’actif d’un établissement stable qu’une entreprise d’un Etat contractant a dans l’autre Etat contractant, ou de biens, autres que des biens immobiliers, qui appartiennent à une base fixe dont un résident d’un Etat contractant dispose dans l’autre Etat contractant pour l’exercice d’une profession indépendante, y compris les gains provenant de l’aliénation de cet établissement stable (seul ou avec l’ensemble de l’entreprise) ou de cette base fixe, sont imposables dans cet autre Etat contractant.
+<sup>4.</sup> Les gains provenant de l’aliénation de biens, autres que des biens immobiliers, qui font partie de l’actif d’un établissement stable qu’une entreprise d’un État contractant a dans l’autre État contractant, ou de biens, autres que des biens immobiliers, qui appartiennent à une base fixe dont un résident d’un État contractant dispose dans l’autre État contractant pour l’exercice d’une profession indépendante, y compris les gains provenant de l’aliénation de cet établissement stable (seul ou avec l’ensemble de l’entreprise) ou de cette base fixe, sont imposables dans cet autre État contractant.
 
-<sup>5.</sup> Les gains d’une entreprise d’un Etat contractant provenant de l’aliénation de navires ou aéronefs exploités par cette entreprise en trafic international ou de biens, autres que des biens immobiliers, affectés à l’exploitation de ces navires ou aéronefs, ne sont imposables que dans cet Etat.
+<sup>5.</sup> Les gains d’une entreprise d’un État contractant provenant de l’aliénation de navires ou aéronefs exploités par cette entreprise en trafic international ou de biens, autres que des biens immobiliers, affectés à l’exploitation de ces navires ou aéronefs, ne sont imposables que dans cet État.
 
-<sup>6.</sup> Les gains provenant de l’aliénation de tous biens autres que ceux visés aux paragraphes précédents du présent article ne sont imposables que dans l’Etat contractant dont le cédant est un résident.
+<sup>6.</sup> Les gains provenant de l’aliénation de tous biens autres que ceux visés aux paragraphes précédents du présent article ne sont imposables que dans l’État contractant dont le cédant est un résident.
 
-[^13-1]: Nouvelle teneur selon l’art. 9 du Prot. du 21 mai 2010, approuvé par l’Ass. féd. le 17 juin 2011, en vigueur depuis le 30 déc. 2011 ([RO 2011 6381](https://fedlex.data.admin.ch/eli/oc/2011/891)[6379](https://fedlex.data.admin.ch/eli/oc/2011/890); [FF 2010 5377](https://fedlex.data.admin.ch/eli/fga/2010/1051)).
+[^13-1]: Nouvelle teneur selon l’art. 9 du Prot. du 21 mai 2010, approuvé par l’Ass. féd. le 17 juin 2011, en vigueur depuis le 30 déc. 2011 ([RO 2011 6381](https://fedlex.data.admin.ch/eli/oc/2011/891), [6379](https://fedlex.data.admin.ch/eli/oc/2011/890); [FF 2010 5377](https://fedlex.data.admin.ch/eli/fga/2010/1051)).
 
 #### Art. 14
 
-<sup>1.</sup> Les revenus qu’un résident d’un Etat contractant tire d’une profession libérale ou d’autres activités indépendantes de caractère analogue ne sont imposables que dans cet Etat contractant, à moins que ce résident ne dispose de façon habituelle dans l’autre Etat contractant d’une base fixe pour l’exercice de ses activités. S’il dispose d’une telle base, les revenus sont imposables dans cet autre Etat contractant mais uniquement dans la mesure où ils sont imputables à ladite base fixe.
+<sup>1.</sup> Les revenus qu’un résident d’un État contractant tire d’une profession libérale ou d’autres activités indépendantes de caractère analogue ne sont imposables que dans cet État contractant, à moins que ce résident ne dispose de façon habituelle dans l’autre État contractant d’une base fixe pour l’exercice de ses activités. S’il dispose d’une telle base, les revenus sont imposables dans cet autre État contractant mais uniquement dans la mesure où ils sont imputables à ladite base fixe.
 
 <sup>2.</sup> L’expression «professions libérales» comprend en particulier les activités indépendantes d’ordre scientifique, littéraire, artistique, éducatif ou pédagogique, ainsi que les activités indépendantes des médecins, avocats, ingénieurs, architectes, dentistes et comptables.
 
 #### Art. 15
 
-<sup>1.</sup> Sous réserve des dispositions des art. 16, 18, et 19[^15-1], les salaires, traitements et autres rémunérations similaires qu’un résident d’un Etat contractant reçoit au titre d’un emploi salarié ne sont imposables que dans cet Etat contractant, à moins que l’emploi ne soit exercé dans l’autre Etat contractant. Si l’emploi y est exercé, les rémunérations reçues à ce titre sont imposables dans cet autre Etat contractant.
+<sup>1.</sup> Sous réserve des dispositions des art. 16, 18, et 19[^15-1], les salaires, traitements et autres rémunérations similaires qu’un résident d’un État contractant reçoit au titre d’un emploi salarié ne sont imposables que dans cet État contractant, à moins que l’emploi ne soit exercé dans l’autre État contractant. Si l’emploi y est exercé, les rémunérations reçues à ce titre sont imposables dans cet autre État contractant.
 
 <sup>2.</sup>
 
-Nonobstant les dispositions du par. 1, les rémunérations qu’un résident d’un Etat contractant reçoit au titre d’un emploi salarié exercé dans l’autre Etat contractant ne sont imposables que dans le premier Etat contractant si:
+Nonobstant les dispositions du par. 1, les rémunérations qu’un résident d’un État contractant reçoit au titre d’un emploi salarié exercé dans l’autre État contractant ne sont imposables que dans le premier État contractant si:
 
-- a. le bénéficiaire séjourne dans cet autre Etat contractant pendant une période ou des périodes n’excédant pas au total 183 jours au cours de l’année civile considérée;
-- b. les rémunérations sont payées par un employeur ou au nom d’un employeur qui n’est pas résident de cet autre Etat contractant; et
-- c. la charge des rémunérations n’est pas supportée par un établissement stable ou une base fixe que l’employeur a dans cet autre Etat contractant.
+- a.[^15-2] le bénéficiaire séjourne dans cet autre État contractant pendant une période ou des périodes n’excédant pas au total 183 jours durant toute période de douze mois commençant ou se terminant durant l’année fiscale considérée;
+- b. les rémunérations sont payées par un employeur ou au nom d’un employeur qui n’est pas résident de cet autre État contractant, et
+- c. la charge des rémunérations n’est pas supportée par un établissement stable ou une base fixe que l’employeur a dans cet autre État contractant.
 
-<sup>3.</sup> Nonobstant les dispositions précédentes du présent article, les rémunérations au titre d’un emploi salarié exe’rcé à bord d’un navire ou d’un aéronef exploité en trafic international, par une entreprise d’un Etat contractant, sont imposables dans cet Etat contractant.
+<sup>3.</sup> Nonobstant les dispositions précédentes du présent article, les rémunérations perçues par un résident d’un État contractant au titre d’un emploi salarié exercé, en tant que membre de l’équipage régulier d’un navire ou aéronef, à bord d’un navire ou d’un aéronef exploité en trafic international, ne sont imposable que dans cet État contractant. Toutefois, lorsque le navire ou l’aéronef est exploité par une entreprise de l’autre État contractant, ces rémunérations peuvent également être imposées dans l’autre État contractant.[^15-3]
 
-[^15-1]: Nouvelle expression selon l’art. 10 du Prot. du 21 mai 2010, approuvé par l’Ass. féd. le 17 juin 2011, en vigueur depuis le 30 déc. 2011 ([RO 2011 6381](https://fedlex.data.admin.ch/eli/oc/2011/891)[6379](https://fedlex.data.admin.ch/eli/oc/2011/890); [FF 2010 5377](https://fedlex.data.admin.ch/eli/fga/2010/1051)).
+[^15-1]: Nouvelle expression selon l’art. 10 du Prot. du 21 mai 2010, approuvé par l’Ass. féd. le 17 juin 2011, en vigueur depuis le 30 déc. 2011 ([RO 2011 6381](https://fedlex.data.admin.ch/eli/oc/2011/891), [6379](https://fedlex.data.admin.ch/eli/oc/2011/890); [FF 2010 5377](https://fedlex.data.admin.ch/eli/fga/2010/1051)).
+[^15-2]: Nouvelle teneur selon l’art. 9 par. 1 du Prot. du 16 juil. 2021, approuvé par l’Ass. féd. le 17 juin 2022, en vigueur depuis le 30 nov. 2022 ([RO 2022 686](https://fedlex.data.admin.ch/eli/oc/2022/686), [685](https://fedlex.data.admin.ch/eli/oc/2022/685); [FF 2021 2830](https://fedlex.data.admin.ch/eli/fga/2021/2830)).
+[^15-3]: Nouvelle teneur selon l’art. 9 par. 2 du Prot. du 16 juil. 2021, approuvé par l’Ass. féd. le 17 juin 2022, en vigueur depuis le 30 nov. 2022 ([RO 2022 686](https://fedlex.data.admin.ch/eli/oc/2022/686), [685](https://fedlex.data.admin.ch/eli/oc/2022/685); [FF 2021 2830](https://fedlex.data.admin.ch/eli/fga/2021/2830)).
 
 #### Art. 16
 
-Les rétributions qu’un résident d’un Etat contractant reçoit en sa qualité de membre du conseil d’administration ou de surveillance d’une société qui est un résident de l’autre Etat contractant sont imposables dans cet autre Etat contractant.
+[^16-1]
+
+Les tantièmes, jetons de présence et autres rétributions similaires qu’un résident d’un État contractant reçoit en sa qualité de membre du conseil d’administration, ou d’un organe similaire, d’une société qui est un résident de l’autre État contractant sont imposables dans cet autre État contractant.
+
+[^16-1]: Nouvelle teneur selon l’art. 10 du Prot. du 16 juil. 2021, approuvé par l’Ass. féd. le 17 juin 2022, en vigueur depuis le 30 nov. 2022 ([RO 2022 686](https://fedlex.data.admin.ch/eli/oc/2022/686), [685](https://fedlex.data.admin.ch/eli/oc/2022/685); [FF 2021 2830](https://fedlex.data.admin.ch/eli/fga/2021/2830)).
 
 #### Art. 17
 
 [^17-1]
 
-<sup>1.</sup> Nonobstant les dispositions des art. 14 et 15, les revenus qu’un résident d’un Etat contractant tire de ses activités personnelles exercées dans l’autre Etat contractant en tant qu’artiste du spectacle, tel qu’un artiste de théâtre, de cinéma, de la radio ou de la télévision, ou qu’un musicien, ou en tant que sportif, sont imposables dans cet autre Etat.
+<sup>1.</sup> Nonobstant les dispositions des art. 14 et 15, les revenus qu’un résident d’un État contractant tire de ses activités personnelles exercées dans l’autre État contractant en tant qu’artiste du spectacle, tel qu’un artiste de théâtre, de cinéma, de la radio ou de la télévision, ou qu’un musicien, ou en tant que sportif, sont imposables dans cet autre État.
 
-<sup>2.</sup> Lorsque les revenus d’activités qu’un artiste du spectacle ou un sportif exerce personnellement et en cette qualité sont attribués non pas à l’artiste ou au sportif lui-même mais à une autre personne, ces revenus sont imposables, nonobstant les dispositions des art. 7, 14 et 15, dans l’Etat contractant où les activités de l’artiste ou du sportif sont exercées.
+<sup>2.</sup> Lorsque les revenus d’activités qu’un artiste du spectacle ou un sportif exerce personnellement et en cette qualité sont attribués non pas à l’artiste ou au sportif lui-même mais à une autre personne, ces revenus sont imposables, nonobstant les dispositions des art. 7, 14 et 15, dans l’État contractant où les activités de l’artiste ou du sportif sont exercées.
 
-[^17-1]: Nouvelle teneur selon l’art. 11 du Prot. du 21 mai 2010, approuvé par l’Ass. féd. le 17 juin 2011, en vigueur depuis le 30 déc. 2011 ([RO 2011 6381](https://fedlex.data.admin.ch/eli/oc/2011/891)[6379](https://fedlex.data.admin.ch/eli/oc/2011/890); [FF 2010 5377](https://fedlex.data.admin.ch/eli/fga/2010/1051)).
+[^17-1]: Nouvelle teneur selon l’art. 11 du Prot. du 21 mai 2010, approuvé par l’Ass. féd. le 17 juin 2011, en vigueur depuis le 30 déc. 2011 ([RO 2011 6381](https://fedlex.data.admin.ch/eli/oc/2011/891), [6379](https://fedlex.data.admin.ch/eli/oc/2011/890); [FF 2010 5377](https://fedlex.data.admin.ch/eli/fga/2010/1051)).
 
 #### Art. 18
 
-Sous réserve des dispositions du par. 1 de l’art. 19, les pensions et autres rémunérations similaires, versées à un résident d’un Etat contractant au titre d’un emploi antérieur, ne sont imposables que dans cet Etat contractant.
+Sous réserve des dispositions du par. 1 de l’art. 19, les pensions et autres rémunérations similaires, versées à un résident d’un État contractant au titre d’un emploi antérieur, ne sont imposables que dans cet État contractant.
 
 #### Art. 19
 
-<sup>1.</sup> Les rémunérations, y compris les pensions, versées par un Etat contractant ou l’une de ses subdivisions politiques ou collectivités locales, soit directement, soit par prélèvement sur des fonds auxquels ils ont contribué, à une personne physique qui est un ressortissant de cet Etat contractant, au titre de services rendus à cet Etat contractant ou à l’une de ses subdivisions politiques ou collectivités locales dans l’exercice de fonctions de caractère public, ne sont imposables que dans cet Etat contractant.
+<sup>1.</sup> Les rémunérations, y compris les pensions, versées par un État contractant ou l’une de ses subdivisions politiques ou collectivités locales, soit directement, soit par prélèvement sur des fonds auxquels ils ont contribué, à une personne physique qui est un ressortissant de cet État contractant, au titre de services rendus à cet État contractant ou à l’une de ses subdivisions politiques ou collectivités locales dans l’exercice de fonctions de caractère public, ne sont imposables que dans cet État contractant.
 
-<sup>2.</sup> Les dispositions des art. 15, 16, 17 et 18 s’appliquent aux rémunérations ou pensions versées au titre d’un emploi dans le cadre d’une activité lucrative commerciale ou industrielle, exercée par l’un des Etats contractants ou l’une de ses subdivisions politiques ou collectivités locales.
+<sup>2.</sup> Les dispositions des art. 15, 16, 17 et 18 s’appliquent aux rémunérations ou pensions versées au titre d’un emploi dans le cadre d’une activité lucrative commerciale ou industrielle, exercée par l’un des États contractants ou l’une de ses subdivisions politiques ou collectivités locales.
 
 #### Art. 20
 
 [^20-1]
 
-[^20-1]: Abrogé par l’art. 12 du Prot. du 21 mai 2010, approuvé par l’Ass. féd. le 17 juin 2011, en vigueur depuis le 30 déc. 2011 ([RO 2011 6381](https://fedlex.data.admin.ch/eli/oc/2011/891)[6379](https://fedlex.data.admin.ch/eli/oc/2011/890); [FF 2010 5377](https://fedlex.data.admin.ch/eli/fga/2010/1051)).
+[^20-1]: Abrogé par l’art. 12 du Prot. du 21 mai 2010, approuvé par l’Ass. féd. le 17 juin 2011, en vigueur depuis le 30 déc. 2011 ([RO 2011 6381](https://fedlex.data.admin.ch/eli/oc/2011/891), [6379](https://fedlex.data.admin.ch/eli/oc/2011/890); [FF 2010 5377](https://fedlex.data.admin.ch/eli/fga/2010/1051)).
 
 #### Art. 21
 
-Les sommes qu’un étudiant ou un stagiaire qui séjourne dans un Etat contractant à la seule fin d’y poursuivre ses études ou sa formation et qui est, ou qui était avant son séjour, un résident de l’autre Etat contractant, reçoit pour couvrir ses frais d’entretien, d’études ou de formation, sont exonérées de l’impôt dans le premier Etat contractant, à la condition que ces sommes proviennent de sources situées en dehors de ce premier Etat contractant.
+[^21-1]
 
-#### Art. 21a
+Les sommes qu’un étudiant ou un stagiaire qui est, ou qui était immédiatement avant de se rendre dans un État contractant, un résident de l’autre État contractant et qui séjourne dans le premier État contractant à la seule fin d’y poursuivre ses études ou sa formation, reçoit pour couvrir ses frais d’entretien, d’études ou de formation ne sont pas imposables dans cet État contractant, à condition qu’elles proviennent de sources situées en dehors de cet État contractant. Dans le cas d’un stagiaire, l’exonération prévue par le présent article ne s’applique que pendant une période n’excédant pas quatre ans à compter de la date à laquelle il commence sa formation dans cet État contractant.
 
-[^21a-1]
+[^21-1]: Nouvelle teneur selon l’art. 11 du Prot. du 16 juil. 2021, approuvé par l’Ass. féd. le 17 juin 2022, en vigueur depuis le 30 nov. 2022 ([RO 2022 686](https://fedlex.data.admin.ch/eli/oc/2022/686), [685](https://fedlex.data.admin.ch/eli/oc/2022/685); [FF 2021 2830](https://fedlex.data.admin.ch/eli/fga/2021/2830)).
 
-Nonobstant toute autre disposition de la présente Convention, les revenus et gains tirés par un bailleur de fonds («sleeping partner») d’un contrat de société de personnes («Tokumei Kumiai») ou d’un autre contrat similaire sont imposables dans l’Etat contractant d’où proviennent ces revenus et gains et selon la législation de cet Etat contractant.
+#### Art. 21A
 
-[^21a-1]: Introduit par l’art. 13 du Prot. du 21 mai 2010, approuvé par l’Ass. féd. le 17 juin 2011, en vigueur depuis le 30 déc. 2011 ([RO 2011 6381](https://fedlex.data.admin.ch/eli/oc/2011/891)[6379](https://fedlex.data.admin.ch/eli/oc/2011/890); [FF 2010 5377](https://fedlex.data.admin.ch/eli/fga/2010/1051)).
+[^21A-1]
+
+Nonobstant toutes autres dispositions de la présente Convention, les revenus qu’un associé tacite qui est un résident d’un État contractant tire d’un contrat de société tacite (dans le cas du Japon, Tokumei Kumiai) ou d’un autre contrat similaire sont imposables dans l’autre État contractant conformément à la législation de cet autre État contractant, pourvu que ces revenus proviennent de cet autre État contractant et soient déductibles dans le calcul du revenu imposable du payeur dans cet autre État contractant.
+
+[^21A-1]: Introduit par l’art. 13 du Prot. du 21 mai 2010, approuvé par l’Ass. féd. le 17 juin 2011, ([RO 2011 6381](https://fedlex.data.admin.ch/eli/oc/2011/891), [6379](https://fedlex.data.admin.ch/eli/oc/2011/890); [FF 2010 5377](https://fedlex.data.admin.ch/eli/fga/2010/1051)). Nouvelle teneur selon l’art. 12 du Prot. du 16 juil. 2021, approuvé par l’Ass. féd. le 17 juin 2022, en vigueur depuis le 30 nov. 2022 ([RO 2022 686](https://fedlex.data.admin.ch/eli/oc/2022/686), [685](https://fedlex.data.admin.ch/eli/oc/2022/685); [FF 2021 2830](https://fedlex.data.admin.ch/eli/fga/2021/2830)).
 
 #### Art. 22
 
 [^22-1]
 
-<sup>1.</sup> Les éléments du revenu d’un résident d’un Etat contractant, d’où qu’ils proviennent, dont ce résident est le bénéficiaire effectif et qui ne sont pas traités dans les articles précédents de la présente Convention (ci-après dénommés «autres revenus» dans le présent article) ne sont imposables que dans cet Etat contractant.
+<sup>1.</sup> Les éléments du revenu d’un résident d’un État contractant, d’où qu’ils proviennent, dont ce résident est le bénéficiaire effectif et qui ne sont pas traités dans les articles précédents de la présente Convention (ci-après dénommés «autres revenus» dans le présent article) ne sont imposables que dans cet État contractant.
 
-<sup>2.</sup> Les dispositions du par. 1 ne s’appliquent pas aux revenus autres que les revenus provenant de biens immobiliers tels qu’ils sont définis au par. 2 de l’art. 6, lorsque le bénéficiaire effectif de tels revenus, résident d’un Etat contractant, exerce dans l’autre Etat contractant, soit une activité industrielle ou commerciale par l’intermédiaire d’un établissement stable qui y est situé, soit une profession indépendante au moyen d’une base fixe qui y est située, et que le droit ou le bien générateur des revenus s’y rattache effectivement. Dans ce cas, les dispositions des art. 7 ou 14, suivant les cas, sont applicables.
+<sup>2.</sup> Les dispositions du par. 1 ne s’appliquent pas aux revenus autres que les revenus provenant de biens immobiliers tels qu’ils sont définis au par. 2 de l’art. 6, lorsque le bénéficiaire effectif de tels revenus, résident d’un État contractant, exerce dans l’autre État contractant, soit une activité industrielle ou commerciale par l’intermédiaire d’un établissement stable qui y est situé, soit une profession indépendante au moyen d’une base fixe qui y est située, et que le droit ou le bien générateur des revenus s’y rattache effectivement. Dans ce cas, les dispositions des art. 7 ou 14, suivant les cas, sont applicables.
 
-<sup>3.</sup> Lorsque, en raison de relations spéciales existant entre le résident visé au par. 1 et le payeur, ou que l’un et l’autre entretiennent avec une tierce personne, le montant du revenu visé au même paragraphe excède le montant dont elles seraient convenues en l’absence de pareilles relations, les dispositions du présent article ne s’appliquent qu’à ce dernier montant. Dans ce cas, la partie excédentaire du revenu est imposable selon la législation de chaque Etat contractant et compte tenu des autres dispositions de la présente Convention.
+<sup>3.</sup> Lorsque, en raison de relations spéciales existant entre le résident visé au par. 1 et le payeur, ou que l’un et l’autre entretiennent avec une tierce personne, le montant du revenu visé au même paragraphe excède le montant dont elles seraient convenues en l’absence de pareilles relations, les dispositions du présent article ne s’appliquent qu’à ce dernier montant. Dans ce cas, la partie excédentaire du revenu est imposable selon la législation de chaque État contractant et compte tenu des autres dispositions de la présente Convention.
 
 <sup>4.</sup>
 
-Un résident d’un Etat contractant n’est pas considéré comme le bénéficiaire effectif d’autres revenus provenant de l’autre Etat contractant au titre d’un droit ou d’un bien, si le paiement de ces autres revenus était subordonné au paiement, au titre du même droit ou bien, à une personne:
+Un résident d’un État contractant n’est pas considéré comme le bénéficiaire effectif d’autres revenus provenant de l’autre État contractant au titre d’un droit ou d’un bien, si le paiement de ces autres revenus était subordonné au paiement, au titre du même droit ou bien, à une personne:
 
-- a. n’ayant pas droit, au titre des autres revenus provenant de l’autre Etat contractant, à des avantages au moins équivalents à ceux accordés par la présente Convention à un résident du premier Etat contractant; et
-- b. qui n’est pas un résident d’un des deux Etats contractants.
+- a. n’ayant pas droit, au titre des autres revenus provenant de l’autre État contractant, à des avantages au moins équivalents à ceux accordés par la présente Convention à un résident du premier État contractant, et
+- b. qui n’est pas un résident d’un des deux États contractants.
 
-[^22-1]: Nouvelle teneur selon l’art. 14 du Prot. du 21 mai 2010, approuvé par l’Ass. féd. le 17 juin 2011, en vigueur depuis le 30 déc. 2011 ([RO 2011 6381](https://fedlex.data.admin.ch/eli/oc/2011/891)[6379](https://fedlex.data.admin.ch/eli/oc/2011/890); [FF 2010 5377](https://fedlex.data.admin.ch/eli/fga/2010/1051)).
+[^22-1]: Nouvelle teneur selon l’art. 14 du Prot. du 21 mai 2010, approuvé par l’Ass. féd. le 17 juin 2011, en vigueur depuis le 30 déc. 2011 ([RO 2011 6381](https://fedlex.data.admin.ch/eli/oc/2011/891), [6379](https://fedlex.data.admin.ch/eli/oc/2011/890); [FF 2010 5377](https://fedlex.data.admin.ch/eli/fga/2010/1051)).
 
-#### Art. 22a
+#### Art. 22A
 
-[^22a-1]
+[^22A-1]
 
-<sup>1.</sup> Sauf dispositions contraires du présent article, un résident d’un Etat contractant qui reçoit de l’autre Etat contractant des revenus visés au par. 3 de l’art. 10, aux let. c, d ou e du par. 3 de l’art. 11, à l’art. 12, au par. 6 de l’art. 13 ou à l’art. 22 ne peut bénéficier pour une année fiscale des avantages accordés par les dispositions de ces lettres, paragraphes ou articles que si ce résident est une personne qualifiée au sens du par. 2 et s’il remplit toutes les autres conditions prévues par ces lettres, paragraphes ou articles pour bénéficier de ces avantages.
+<sup>1.</sup> Sauf dispositions contraires du présent article, un résident d’un État contractant qui reçoit de l’autre État contractant des revenus visés au par. 3 de l’art. 10, au par. 1 de l’art. 11, à l’art. 12, au par. 6 de l’art. 13 ou à l’art. 22 ne peut bénéficier pour une année fiscale des avantages accordés par les dispositions de ces paragraphes ou articles que si ce résident est une personne qualifiée au sens du par. 2 et s’il remplit toutes les autres conditions prévues par ces paragraphes ou articles pour bénéficier de ces avantages.
 
 <sup>2.</sup>
 
-Un résident d’un Etat contractant est une personne qualifiée pour une année fiscale seulement si ce résident est:
+Un résident d’un État contractant est une personne qualifiée pour une année fiscale seulement si ce résident est:
 
 - a. une personne physique;
 - b. une entité publique qualifiée;
 - c. une société dont la principale catégorie d’actions est cotée ou inscrite sur un marché boursier reconnu tel que défini aux al. i ou ii de la let. c du par. 8 et fait régulièrement l’objet de transactions sur un ou plusieurs marchés boursiers reconnus;
-- d. une banque, une compagnie d’assurance ou un commerçant de titres qui a été créé et est soumis à surveillance en cette qualité en vertu de la législation de l’Etat contractant dont il est un résident;
-- e. une personne désignée aux let. b ou c du par. 1 de l’art. 4, pour autant que, dans le cas d’une personne visée à la let. b de ce paragraphe, plus de 50 % des bénéficiaires, membres ou participants de cette personne sont des personnes physiques résidentes de l’un ou de l’autre Etat contractant à la fin de l’année fiscale précédente; ou
-- f. une personne autre qu’une personne physique, si des résidents de l’un ou de l’autre des Etats contractants qui sont des personnes qualifiées en vertu des let. a, b, c, d ou e du présent paragraphe détiennent, directement ou indirectement, des actions ou d’autres intérêts effectifs représentant au moins 50 % du capital ou des droits de vote de cette personne.
+- d. une banque, une compagnie d’assurance ou un commerçant de titres qui a été créé et est soumis à surveillance en cette qualité en vertu de la législation de l’État contractant dont il est un résident;
+- e. une personne désignée aux let. b ou c du par. 1 de l’art. 4, pour autant que, dans le cas d’une personne visée à la let. b de ce paragraphe, plus de 50 % des bénéficiaires, membres ou participants de cette personne sont des personnes physiques résidentes de l’un ou de l’autre État contractant à la fin de l’année fiscale précédente, ou
+- f. une personne autre qu’une personne physique, si des résidents de l’un ou de l’autre des États contractants qui sont des personnes qualifiées en vertu des let. a, b, c, d ou e du présent paragraphe détiennent, directement ou indirectement, des actions ou d’autres intérêts effectifs représentant au moins 50 % du capital ou des droits de vote de cette personne.
 
-<sup>3.</sup> Bien que n’étant pas une personne qualifiée, une société qui est un résident d’un Etat contractant peut toutefois bénéficier des avantages accordés par les dispositions du par. 3 de l’art. 10, des let. c, d ou e du par. 3 de l’art. 11, de l’art. 12, du par. 6 de l’art. 13 ou de l’art. 22, au titre d’un élément de revenu visé par ces lettres, paragraphes ou articles provenant de l’autre Etat contractant, si ce résident remplit toutes les autres conditions prévues par ces lettres, paragraphes ou articles pour bénéficier de ces avantages et si des actions représentant au moins 75 % du capital ou des droits de vote de la société sont détenues, directement ou indirectement, par au plus sept personnes qui sont des bénéficiaires équivalents.
+<sup>3.</sup> Bien que n’étant pas une personne qualifiée, une société qui est un résident d’un État contractant peut toutefois bénéficier des avantages accordés par les dispositions du par. 3 de l’art. 10, du par. 1 de l’art. 11, de l’art. 12, du par. 6 de l’art. 13 ou de l’art. 22, au titre d’un élément de revenu visé par ces lettres, paragraphes ou articles provenant de l’autre État contractant, si ce résident remplit toutes les autres conditions prévues par ces lettres, paragraphes ou articles pour bénéficier de ces avantages et si des actions représentant au moins 75 % du capital ou des droits de vote de la société sont détenues, directement ou indirectement, par au plus sept personnes qui sont des bénéficiaires équivalents.
 
 <sup>4.</sup>
 
 Lorsque les dispositions de la let. f du par. 2 ou les dispositions du par. 3 s’appliquent:
 
-- a. en matière d’impôt à la source, un résident d’un Etat contractant est considéré comme remplissant les conditions décrites à la lettre ou au paragraphe concerné pour l’année fiscale durant laquelle le paiement est effectué, si ce résident remplit ces conditions pendant la période de douze mois précédant la date du paiement d’un élément de revenu ou, dans le cas de dividendes, la date à laquelle le droit aux dividendes est déterminé;
-- b. dans tous les autres cas, un résident d’un Etat contractant est considéré comme remplissant les conditions décrites à la lettre ou au paragraphe concerné pour l’année fiscale durant laquelle le paiement est effectué, si ce résident remplit ces conditions pendant la moitié, au moins, de l’année fiscale.
+- a. en matière d’impôt à la source, un résident d’un État contractant est considéré comme remplissant les conditions décrites à la lettre ou au paragraphe concerné pour l’année fiscale durant laquelle le paiement est effectué, si ce résident remplit ces conditions pendant la période de douze mois précédant la date du paiement d’un élément de revenu ou, dans le cas de dividendes, la date à laquelle le droit aux dividendes est déterminé;
+- b. dans tous les autres cas, un résident d’un État contractant est considéré comme remplissant les conditions décrites à la lettre ou au paragraphe concerné pour l’année fiscale durant laquelle le paiement est effectué, si ce résident remplit ces conditions pendant la moitié, au moins, de l’année fiscale.
 - 5\. a.
 
-  Bien que n’étant pas une personne qualifiée, un résident d’un Etat contractant peut toutefois bénéficier des avantages accordés par les dispositions du par. 3 de l’art. 10, des let. c, d ou e du par. 3 de l’art. 11, de l’art. 12, du par. 6 de l’art. 13 ou de l’art. 22, au titre d’un élément de revenu visé par ces lettres, paragraphes ou articles provenant de l’autre Etat contractant, si:
+  Bien que n’étant pas une personne qualifiée, un résident d’un État contractant peut toutefois bénéficier des avantages accordés par les dispositions du par. 3 de l’art. 10, du par. 1 de l’art. 11, de l’art. 12, du par. 6 de l’art. 13 ou de l’art. 22, au titre d’un élément de revenu visé par ces lettres, paragraphes ou articles provenant de l’autre État contractant, si:
 
   - i. ce résident est une société qui est le siège administratif principal d’un groupe multinational,
-  - ii. l’élément de revenu provenant de cet autre Etat contractant est lié ou est accessoire à une activité industrielle ou commerciale visée à l’al. ii de la let. b, et
+  - ii. l’élément de revenu provenant de cet autre État contractant est lié ou est accessoire à une activité industrielle ou commerciale visée à l’al. ii de la let. b, et
   - iii. ce résident remplit toutes les autres conditions prévues par ces lettres, paragraphes ou articles pour bénéficier de ces avantages.
 
 - b.
 
-  Un résident d’un Etat contractant est considéré comme siège administratif principal d’un groupe multinational aux fins de la let. a seulement si:
+  Un résident d’un État contractant est considéré comme siège administratif principal d’un groupe multinational aux fins de la let. a seulement si:
 
   - i. ce résident exerce une part substantielle du contrôle et de la gestion du groupe or fournit le financement du groupe,
-  - ii. le groupe est constitué de sociétés, qui sont des résidents d’au moins cinq Etats et qui y exercent effectivement une activité industrielle ou commerciale et si l’activité industrielle ou commerciale exercée dans chacun des cinq Etats génère au moins 5 % du revenu brut du groupe,
-  - iii. l’activité industrielle ou commerciale exercée dans chacun des Etats, à l’exception de l’Etat contractant de résidence, génère moins de 50 % du revenu brut du groupe,
-  - iv. au maximum 50 % du revenu brut provient de l’autre Etat contractant,
+  - ii. le groupe est constitué de sociétés, qui sont des résidents d’au moins cinq États et qui y exercent effectivement une activité industrielle ou commerciale et si l’activité industrielle ou commerciale exercée dans chacun des cinq États génère au moins 5 % du revenu brut du groupe,
+  - iii. l’activité industrielle ou commerciale exercée dans chacun des États, à l’exception de l’État contractant de résidence, génère moins de 50 % du revenu brut du groupe,
+  - iv. au maximum 50 % du revenu brut provient de l’autre État contractant,
   - v. ce résident dispose de manière indépendante et discrétionnaire de la compétence, et l’exerce, de remplir les tâches désignées à l’al. i, et
-  - vi. ce résident est soumis aux mêmes règles d’imposition du revenu dans cet Etat contractant que les personnes décrites au par. 6.
+  - vi. ce résident est soumis aux mêmes règles d’imposition du revenu dans cet État contractant que les personnes décrites au par. 6.
 
-- c. Aux fins de la let. b, un résident d’un Etat contractant est considéré comme remplissant la condition du revenu brut désignée aux al. ii, iii ou iv de cette lettre pour l’année fiscale durant laquelle l’élément de revenu est obtenu, si ce résident remplit chacune de ces conditions du revenu brut en faisant la moyenne des revenus bruts des trois années fiscales précédent l’année fiscale considérée.
+- c. Aux fins de la let. b, un résident d’un État contractant est considéré comme remplissant la condition du revenu brut désignée aux al. ii, iii ou iv de cette lettre pour l’année fiscale durant laquelle l’élément de revenu est obtenu, si ce résident remplit chacune de ces conditions du revenu brut en faisant la moyenne des revenus bruts des trois années fiscales précédent l’année fiscale considérée.
 - 6\. a.
 
-  Bien que n’étant pas une personne qualifiée, un résident d’un Etat contractant peut toutefois bénéficier des avantages accordés par les dispositions du par. 3 de l’art. 10, des let. c, d ou e du par. 3 de l’art. 11, de l’art. 12, du par. 6 de l’art. 13 ou de l’art. 22, au titre d’un élément de revenu visé par ces lettres, paragraphes ou articles provenant de l’autre Etat contractant, si:
+  Bien que n’étant pas une personne qualifiée, un résident d’un État contractant peut toutefois bénéficier des avantages accordés par les dispositions du par. 3 de l’art. 10, du par. 1 de l’art. 11, de l’art. 12, du par. 6 de l’art. 13 ou de l’art. 22, au titre d’un élément de revenu visé par ces lettres, paragraphes ou articles provenant de l’autre État contractant, si:
 
-  - i. ce résident exerce une activité d’entreprise dans le premier Etat contractant (autre que l’activité consistant à effectuer ou à gérer des investissements pour son propre compte, à moins qu’il ne s’agisse d’activités bancaires, d’assurance ou de commerce de titres exercées par une banque, une compagnie d’assurance ou un commerçant de titres),
-  - ii. l’élément de revenu provenant de l’autre Etat contractant est lié ou est accessoire à cette activité, et
+  - i. ce résident exerce une activité d’entreprise dans le premier État contractant (autre que l’activité consistant à effectuer ou à gérer des investissements pour son propre compte, à moins qu’il ne s’agisse d’activités bancaires, d’assurance ou de commerce de titres exercées par une banque, une compagnie d’assurance ou un commerçant de titres),
+  - ii. l’élément de revenu provenant de l’autre État contractant est lié ou est accessoire à cette activité, et
   - iii. ce résident remplit toutes les autres conditions prévues par ces lettres, paragraphes ou articles pour bénéficier de ces avantages.
 
-- b. Si un résident d’un Etat contractant tire un élément de revenu d’une activité d’entreprise qu’il exerce dans l’autre Etat contractant ou tire dans ce dernier un élément de revenu provenant d’une personne entretenant avec le résident une relation visée aux let. a ou b du par. 1 de l’art. 9, les conditions décrites à la let. a du présent paragraphe ne sont considérées comme remplies en ce qui concerne cet élément de revenu que si l’activité d’entreprise exercée dans le premier Etat contractant est substantielle par rapport à celle exercée dans l’autre Etat contractant. Aux fins du présent paragraphe, le caractère substantiel ou non de l’activité d’entreprise sera déterminé en prenant en compte l’ensemble des faits et des circonstances du cas particulier.
-- c. Afin de déterminer si une personne exerce une activité d’entreprise dans un Etat contractant au sens de la let. a du présent paragraphe, l’activité exercée par une société de personnes dans laquelle cette personne est associée et l’activité exercée par des personnes liées à cette personne sont considérées comme étant exercées par cette personne. Une personne est réputée être liée à une autre si cette personne détient, directement ou indirectement, des actions ou des intérêts effectifs représentant au moins 50 % du capital ou des droits de vote de l’autre personne, ou si une tierce personne détient, directement ou indirectement, des actions ou des intérêts effectifs représentant au moins 50 % du capital ou des droits de vote de chacune des personnes. Dans tous les cas, une personne est considérée comme liée à une autre si, en prenant en compte l’ensemble des faits et des circonstances du cas particulier, l’une contrôle l’autre ou elles sont toutes les deux contrôlées par la même ou par les mêmes personnes.
+- b. Si un résident d’un État contractant tire un élément de revenu d’une activité d’entreprise qu’il exerce dans l’autre État contractant ou tire dans ce dernier un élément de revenu provenant d’une personne entretenant avec le résident une relation visée aux let. a ou b du par. 1 de l’art. 9, les conditions décrites à la let. a du présent paragraphe ne sont considérées comme remplies en ce qui concerne cet élément de revenu que si l’activité d’entreprise exercée dans le premier État contractant est substantielle par rapport à celle exercée dans l’autre État contractant. Aux fins du présent paragraphe, le caractère substantiel ou non de l’activité d’entreprise sera déterminé en prenant en compte l’ensemble des faits et des circonstances du cas particulier.
+- c. Afin de déterminer si une personne exerce une activité d’entreprise dans un État contractant au sens de la let. a du présent paragraphe, l’activité exercée par une société de personnes dans laquelle cette personne est associée et l’activité exercée par des personnes liées à cette personne sont considérées comme étant exercées par cette personne. Une personne est réputée être liée à une autre si cette personne détient, directement ou indirectement, des actions ou des intérêts effectifs représentant au moins 50 % du capital ou des droits de vote de l’autre personne, ou si une tierce personne détient, directement ou indirectement, des actions ou des intérêts effectifs représentant au moins 50 % du capital ou des droits de vote de chacune des personnes. Dans tous les cas, une personne est considérée comme liée à une autre si, en prenant en compte l’ensemble des faits et des circonstances du cas particulier, l’une contrôle l’autre ou elles sont toutes les deux contrôlées par la même ou par les mêmes personnes.
 
-<sup>7.</sup> Un résident d’un Etat contractant qui n’est pas une personne qualifiée ou qui ne peut pas bénéficier en vertu des par. 3, 5 ou 6 des avantages accordés par les dispositions du par. 3 de l’art. 10, des let. c, d ou e du par. 3 de l’art. 11, de l’art. 12, du par. 6 de l’art. 13 ou de l’art. 22, au titre d’un élément de revenu visé par ces lettres, paragraphes ou articles, peut toutefois bénéficier de ces avantages si l’autorité compétente de l’autre Etat contractant décide, conformément à la législation ou à la pratique administrative de cet autre Etat contractant, que la constitution, l’acquisition ou le maintien de ce résident et l’exercice des activités de ce résident n’ont pas parmi leurs buts principaux d’obtenir ces avantages.
+<sup>7.</sup> Un résident d’un État contractant qui n’est pas une personne qualifiée ou qui ne peut pas bénéficier en vertu des par. 3, 5 ou 6 des avantages accordés par les dispositions du par. 3 de l’art. 10, du par. 1 de l’art. 11, de l’art. 12, du par. 6 de l’art. 13 ou de l’art. 22, au titre d’un élément de revenu visé par ces lettres, paragraphes ou articles, peut toutefois bénéficier de ces avantages si l’autorité compétente de l’autre État contractant décide, conformément à la législation ou à la pratique administrative de cet autre État contractant, que la constitution, l’acquisition ou le maintien de ce résident et l’exercice des activités de ce résident n’ont pas parmi leurs buts principaux d’obtenir ces avantages.
 
 <sup>8.</sup>
 
 Aux fins du présent article:
 
-- a. l’expression «entité publique qualifiée» désigne le Gouvernement d’un Etat contractant, les subdivisions politiques ou les collectivités locales d’un Etat contractant, la Banque du Japon, la Banque Nationale Suisse ou une personne dont la majorité du capital est détenue, directement ou indirectement, par le Gouvernement d’un Etat contractant ou l’une des subdivisions politiques ou l’une des collectivités locales d’un Etat contractant;
+- a. l’expression «entité publique qualifiée» désigne le Gouvernement d’un État contractant, les subdivisions politiques ou les collectivités locales d’un État contractant, la Banque du Japon, la Banque Nationale Suisse ou une personne dont la majorité du capital est détenue, directement ou indirectement, par le Gouvernement d’un État contractant ou l’une des subdivisions politiques ou l’une des collectivités locales d’un État contractant;
 - b. l’expression «principale catégorie d’actions» désigne la catégorie ou les catégories d’actions d’une société représentant la majorité du capital ou des droits de vote d’une société;
 - c.
 
@@ -554,7 +542,7 @@ Aux fins du présent article:
   - i. toute marché boursier institué par une Bourse ou une association de sociétés d’instruments financiers agréée conformément à la loi japonaise relative aux marchés et instruments financiers (loi no 25 de 1948),
   - ii. tout marché boursier Suisse sur lequel a lieu un commerce de titres enregistré,
   - iii. la bourse de Londres, la bourse irlandaise, et les bourses d’Amsterdam, Bruxelles, Düsseldorf, Francfort, Hambourg, Johannesburg, Lisbonne, Luxembourg, Madrid, Mexico, Milan, New York, Paris, Seoul, Singapour, Stockholm, Sydney, Toronto et Vienne, ainsi que le système NASDAQ,
-  - iv. tout autre marché boursier que les autorités compétentes des Etats contractants conviennent de reconnaître aux fins du présent article;
+  - iv. tout autre marché boursier que les autorités compétentes des États contractants conviennent de reconnaître aux fins du présent article;
 
 - d.
 
@@ -562,23 +550,23 @@ Aux fins du présent article:
 
   - i.
 
-    un résident d’un Etat ayant une convention en vue d’éviter les doubles impositions avec l’Etat contractant auquel il est demandé d’accorder les avantages de la présente Convention, à condition que:
+    un résident d’un État ayant une convention en vue d’éviter les doubles impositions avec l’État contractant auquel il est demandé d’accorder les avantages de la présente Convention, à condition que:
 
     - aa. cette convention contienne des dispositions pour un échange de renseignements effectif,
     - bb. ce résident soit une personne qualifiée au sens de la clause de limitation des avantages conventionnels contenue dans cette convention ou, à défaut de telles dispositions dans cette dernière, serait une personne qualifiée dès lors que cette convention est interprétée comme incluant des dispositions correspondantes au par. 2 du présent article, et
-    - cc. s’agissant d’un élément de revenu visé au par. 3 de l’art. 10, aux let. c, d ou e du par. 3 de l’art. 11, à l’art. 12, au par. 6 de l’art. 13 ou à l’art. 22, ce résident ait droit, en vertu de cette convention, pour la catégorie de revenu au titre de laquelle les avantages de la présente Convention sont demandés, à un taux d’impôt au moins aussi bas que le taux applicable en vertu de la présente Convention; ou
+    - cc. s’agissant d’un élément de revenu visé au par. 3 de l’art. 10, au par. 1 de l’art. 11, à l’art. 12, au par. 6 de l’art. 13 ou à l’art. 22, ce résident ait droit, en vertu de cette convention, pour la catégorie de revenu au titre de laquelle les avantages de la présente Convention sont demandés, à un taux d’impôt au moins aussi bas que le taux applicable en vertu de la présente Convention, ou
 
   - ii. une personne qualifiée au sens des let. a, b, c, d ou e du par. 2;
 
 - e. l’expression «revenu brut» désigne le total des revenus qu’une entreprise tire de son activité, diminué des coûts directs engagés pour réaliser ce revenu.
 
-[^22a-1]: Introduit par l’art. 15 du Prot. du 21 mai 2010, approuvé par l’Ass. féd. le 17 juin 2011, en vigueur depuis le 30 déc. 2011 ([RO 2011 6381](https://fedlex.data.admin.ch/eli/oc/2011/891)[6379](https://fedlex.data.admin.ch/eli/oc/2011/890); [FF 2010 5377](https://fedlex.data.admin.ch/eli/fga/2010/1051)).
+[^22A-1]: Introduit par l’art. 15 du Prot. du 21 mai 2010, approuvé par l’Ass. féd. le 17 juin 2011 ([RO 2011 6381](https://fedlex.data.admin.ch/eli/oc/2011/891), [6379](https://fedlex.data.admin.ch/eli/oc/2011/890); [FF 2010 5377](https://fedlex.data.admin.ch/eli/fga/2010/1051)). Mis à jour par l’art. 13 du Prot. du 16 juil. 2021, approuvé par l’Ass. féd. le 17 juin 2022, en vigueur depuis le 30 nov. 2022 ([RO 2022 686](https://fedlex.data.admin.ch/eli/oc/2022/686), [685](https://fedlex.data.admin.ch/eli/oc/2022/685); [FF 2021 2830](https://fedlex.data.admin.ch/eli/fga/2021/2830)).
 
 #### Art. 23
 
 [^23-1]
 
-<sup>1.</sup> Conformément aux dispositions de la législation japonaise concernant l’imputation sur l’impôt japonais des impôts perçus dans un autre Etat que le Japon, lorsqu’un résident du Japon reçoit un revenu de Suisse qui, conformément aux dispositions de la présente Convention, est imposable en Suisse, le montant de l’impôt suisse payable sur ce revenu est imputé sur l’impôt japonais dû par ce résident. Le montant de ce crédit ne peut toutefois excéder la fraction de l’impôt japonais correspondant à ce revenu.
+<sup>1.</sup> Conformément aux dispositions de la législation japonaise concernant l’imputation sur l’impôt japonais des impôts perçus dans un autre État que le Japon, lorsqu’un résident du Japon reçoit un revenu de Suisse qui, conformément aux dispositions de la présente Convention, est imposable en Suisse, le montant de l’impôt suisse payable sur ce revenu est imputé sur l’impôt japonais dû par ce résident. Le montant de ce crédit ne peut toutefois excéder la fraction de l’impôt japonais correspondant à ce revenu.
 
 <sup>2.</sup> Aux fins du par. 1, un élément de revenu dont un résident du Japon est le bénéficiaire effectif et qui, conformément aux dispositions de la présente Convention, est imposable en Suisse, est considéré comme provenant de sources suisses.
 
@@ -588,68 +576,124 @@ Aux fins du présent article:
 
 Lorsqu’un résident de Suisse reçoit des dividendes ou intérêts qui, conformément aux dispositions des art. 10 ou 11, sont imposables au Japon, la Suisse accorde un dégrèvement à ce résident à sa demande. Ce dégrèvement consiste:
 
-- a. en l’imputation de l’impôt sur le revenu payé au Japon conformément aux dispositions des art. 10 ou 11 sur l’impôt suisse qui frappe les revenus de ce résident; la somme ainsi imputée ne peut toutefois excéder la fraction de l’impôt suisse, calculé avant l’imputation, correspondant aux revenus imposables au Japon; ou
-- b. en une réduction forfaitaire de l’impôt suisse déterminée par des formules standardisées prenant en compte les principes généraux du dégrèvement auxquels il est fait référence à la let. a ci-devant; ou
+- a. en l’imputation de l’impôt sur le revenu payé au Japon conformément aux dispositions des art. 10 ou 11 sur l’impôt suisse qui frappe les revenus de ce résident; la somme ainsi imputée ne peut toutefois excéder la fraction de l’impôt suisse, calculé avant l’imputation, correspondant aux revenus imposables au Japon, ou
+- b. en une réduction forfaitaire de l’impôt suisse déterminée par des formules standardisées prenant en compte les principes généraux du dégrèvement auxquels il est fait référence à la let. a ci-devant, ou
 - c. en une exemption partielle de ces revenus de l’impôt suisse, mais au moins en une déduction de l’impôt payé au Japon du montant brut des revenus provenant du Japon.
 
 <sup>5.</sup> Une société qui est un résident de Suisse et reçoit des dividendes d’une société qui est un résident du Japon bénéficie, pour l’application de l’impôt suisse sur ces dividendes, des mêmes avantages que ceux dont elle bénéficierait si la société qui paie les dividendes était un résident de Suisse.
 
 <sup>6.</sup> Lorsqu’un résident de Suisse reçoit des revenus visés par la let. a du par. 3 de l’art. 13, la Suisse accordera, sur demande, une déduction sur l’impôt suisse équivalente à l’impôt payé au Japon conformément au par. 3 de l’art. 13; la somme ainsi imputée ne peut toutefois excéder la fraction de l’impôt suisse, calculé avant l’imputation, correspondant aux revenus imposables au Japon.
 
-[^23-1]: Nouvelle teneur selon l’art. 16 du Prot. du 21 mai 2010, approuvé par l’Ass. féd. le 17 juin 2011, en vigueur depuis le 30 déc. 2011 ([RO 2011 6381](https://fedlex.data.admin.ch/eli/oc/2011/891)[6379](https://fedlex.data.admin.ch/eli/oc/2011/890); [FF 2010 5377](https://fedlex.data.admin.ch/eli/fga/2010/1051)).
+<sup>7.</sup> Les dispositions du par. 3 ne s’appliquent pas aux revenus qu’un résident de Suisse reçoit lorsque le Japon applique les dispositions de la présente Convention pour exonérer ces revenus de l’impôt ou applique à ces revenus les dispositions du par. 2 de l’art. 10 ou du par. 2 de l’art. 11.[^23-2]
+
+[^23-1]: Nouvelle teneur selon l’art. 16 du Prot. du 21 mai 2010, approuvé par l’Ass. féd. le 17 juin 2011, en vigueur depuis le 30 déc. 2011 ([RO 2011 6381](https://fedlex.data.admin.ch/eli/oc/2011/891), [6379](https://fedlex.data.admin.ch/eli/oc/2011/890); [FF 2010 5377](https://fedlex.data.admin.ch/eli/fga/2010/1051)).
+[^23-2]: Introduit par l’art. 14 du Prot. du 16 juil. 2021, approuvé par l’Ass. féd. le 17 juin 2022, en vigueur depuis le 30 nov. 2022 ([RO 2022 686](https://fedlex.data.admin.ch/eli/oc/2022/686), [685](https://fedlex.data.admin.ch/eli/oc/2022/685); [FF 2021 2830](https://fedlex.data.admin.ch/eli/fga/2021/2830)).
 
 #### Art. 24
 
-<sup>1.</sup> Les nationaux d’un Etat contractant ne sont soumis dans l’autre Etat contractant à aucune imposition ou obligation y relative, qui est autre ou plus lourde que celle à laquelle sont ou pourront être assujettis les nationaux de cet autre Etat contractant se trouvant dans la même situation.
+<sup>1.</sup> Les nationaux d’un État contractant ne sont soumis dans l’autre État contractant à aucune imposition ou obligation y relative, qui est autre ou plus lourde que celle à laquelle sont ou pourront être assujettis les nationaux de cet autre État contractant se trouvant dans la même situation.
 
-2.[^24-1] L’imposition d’un établissement stable qu’une entreprise d’un Etat contractant a dans l’autre Etat contractant n’est pas établie dans cet autre Etat contractant d’une façon moins favorable que l’imposition des entreprises de cet autre Etat contractant qui exercent la même activité. Les dispositions du présent paragraphe ne peuvent être interprétées comme obligeant un Etat contractant à accorder aux résidents de l’autre Etat contractant les déductions personnelles, abattements et réductions d’impôt en fonction de la situation ou des charges de famille qu’il accorde à ses propres résidents.
+<sup>2.</sup> L’imposition d’un établissement stable qu’une entreprise d’un État contractant a dans l’autre État contractant n’est pas établie dans cet autre État contractant d’une façon moins favorable que l’imposition des entreprises de cet autre État contractant qui exercent la même activité. Les dispositions du présent paragraphe ne peuvent être interprétées comme obligeant un État contractant à accorder aux résidents de l’autre État contractant les déductions personnelles, abattements et réductions d’impôt en fonction de la situation ou des charges de famille qu’il accorde à ses propres résidents.[^24-1]
 
-3.[^24-2] A moins que les dispositions du par. 1 de l’art. 9, du par. 8 de l’art. 11, du par. 4 de l’art. 12, ou du par. 3 de l’art. 22 ne soient applicables, les intérêts, redevances et autres dépenses payés par une entreprise d’un Etat contractant à un résident de l’autre Etat contractant sont déductibles, pour la détermination des bénéfices imposables de cette entreprise, dans les mêmes conditions que s’ils avaient été payés à un résident du premier Etat contractant.
+<sup>3.</sup> À moins que les dispositions du par. 1 de l’art. 9, du par. 6 de l’art. 11, du par. 4 de l’art. 12, ou du par. 3 de l’art. 22 ne soient applicables, les intérêts, redevances et autres dépenses payés par une entreprise d’un État contractant à un résident de l’autre État contractant sont déductibles, pour la détermination des bénéfices imposables de cette entreprise, dans les mêmes conditions que s’ils avaient été payés à un résident du premier État contractant.[^24-2]
 
-Cette disposition ne peut être interprétée comme obligeant un Etat contractant à accorder aux résidents de l’autre Etat contractant les déductions personnelles, abattements et réductions d’impôt en fonction de la situation ou des charges de famille qu’il accorde à ses propres résidents.
+Cette disposition ne peut être interprétée comme obligeant un État contractant à accorder aux résidents de l’autre État contractant les déductions personnelles, abattements et réductions d’impôt en fonction de la situation ou des charges de famille qu’il accorde à ses propres résidents.
 
-<sup>4.</sup> Les entreprises d’un Etat contractant, dont le capital est en totalité ou en partie, directement ou indirectement, détenu ou contrôlé par un ou plusieurs résidents de l’autre Etat contractant, ne sont soumises dans le premier Etat contractant à aucune imposition ou obligation y relative, qui est autre ou plus lourde que celle à laquelle sont ou pourront être assujetties les autres entreprises de même nature de ce premier Etat contractant.
+<sup>4.</sup> Les entreprises d’un État contractant, dont le capital est en totalité ou en partie, directement ou indirectement, détenu ou contrôlé par un ou plusieurs résidents de l’autre État contractant, ne sont soumises dans le premier État contractant à aucune imposition ou obligation y relative, qui est autre ou plus lourde que celle à laquelle sont ou pourront être assujetties les autres entreprises de même nature de ce premier État contractant.
 
 <sup>5.</sup> Le terme «imposition» désigne dans le présent article les impôts de toute nature ou dénomination.
 
 <sup>6.</sup> L’application des dispositions du présent article n’est pas limitée par les dispositions de l’article premier.
 
-[^24-1]: Nouvelle teneur selon l’art. 17 du Prot. du 21 mai 2010, approuvé par l’Ass. féd. le 17 juin 2011, en vigueur depuis le 30 déc. 2011 ([RO 2011 6381](https://fedlex.data.admin.ch/eli/oc/2011/891)[6379](https://fedlex.data.admin.ch/eli/oc/2011/890); [FF 2010 5377](https://fedlex.data.admin.ch/eli/fga/2010/1051)).
-[^24-2]: Nouvelle teneur selon l’art. 17 du Prot. du 21 mai 2010, approuvé par l’Ass. féd. le 17 juin 2011, en vigueur depuis le 30 déc. 2011 ([RO 2011 6381](https://fedlex.data.admin.ch/eli/oc/2011/891)[6379](https://fedlex.data.admin.ch/eli/oc/2011/890); [FF 2010 5377](https://fedlex.data.admin.ch/eli/fga/2010/1051)).
+[^24-1]: Nouvelle teneur selon l’art. 17 du Prot. du 21 mai 2010, approuvé par l’Ass. féd. le 17 juin 2011, en vigueur depuis le 30 déc. 2011 ([RO 2011 6381](https://fedlex.data.admin.ch/eli/oc/2011/891), [6379](https://fedlex.data.admin.ch/eli/oc/2011/890); [FF 2010 5377](https://fedlex.data.admin.ch/eli/fga/2010/1051)).
+[^24-2]: Nouvelle teneur selon l’art. 17 du Prot. du 21 mai 2010, approuvé par l’Ass. féd. le 17 juin 2011 ([RO 2011 6381](https://fedlex.data.admin.ch/eli/oc/2011/891), [6379](https://fedlex.data.admin.ch/eli/oc/2011/890); [FF 2010 5377](https://fedlex.data.admin.ch/eli/fga/2010/1051)). Mis à jour par l’art. 15 du Prot. du 16 juil. 2021, approuvé par l’Ass. féd. le 17 juin 2022, en vigueur depuis le 30 nov. 2022 ([RO 2022 686](https://fedlex.data.admin.ch/eli/oc/2022/686), [685](https://fedlex.data.admin.ch/eli/oc/2022/685); [FF 2021 2830](https://fedlex.data.admin.ch/eli/fga/2021/2830)).
 
 #### Art. 25
 
-1.[^25-1] Lorsqu’une personne estime que les mesures prises par un Etat contractant ou par les deux Etats contractants entraînent ou entraîneront pour elle une imposition non conforme aux dispositions de la présente Convention, elle peut, indépendamment des recours prévus par le droit interne de ces Etats contractants, soumettre son cas à l’autorité compétente de l’Etat contractant dont elle est un résident ou, si son cas relève du par. 1 de l’art. 24, à celle de l’Etat contractant dont elle possède la nationalité. Le cas doit être soumis dans les trois ans qui suivent la première notification de la mesure qui entraîne une imposition non conforme aux dispositions de la Convention.
+<sup>1.</sup> Lorsqu’une personne estime que les mesures prises par un État contractant ou par les deux État contractants entraînent ou entraîneront pour elle une imposition non conforme aux dispositions de la présente Convention, elle peut, indépendamment des recours prévus par le droit interne de ces États, soumettre son cas à l’autorité compétente de l’un ou l’autre État contractant. Le cas doit être soumis dans les trois ans qui suivent la première notification de la mesure qui entraîne une imposition non conforme aux dispositions de la Convention.[^25-1]
 
-<sup>2.</sup> Cette autorité compétente s’efforcera, si la réclamation lui paraît fondée et si elle n’est pas elle‑même en mesure d’apporter une solution satisfaisante, de régler la question par voie d’accord amiable avec l’autorité compétente de l’autre Etat contractant, en vue d’éviter une imposition non conforme à la convention.
+<sup>2.</sup> Cette autorité compétente s’efforcera, si la réclamation lui paraît fondée et si elle n’est pas elle‑même en mesure d’apporter une solution satisfaisante, de régler la question par voie d’accord amiable avec l’autorité compétente de l’autre État contractant, en vue d’éviter une imposition non conforme à la convention.
 
-<sup>3.</sup> Les autorités compétentes des Etats contractants s’efforcent, par voie d’accord amiable, de résoudre les difficultés ou de dissiper les doutes auxquels peuvent donner lieu l’interprétation ou l’application de la convention. Elles peuvent aussi se concerter en vue d’éviter la double imposition dans les cas non prévus par la convention.
+<sup>3.</sup> Les autorités compétentes des États contractants s’efforcent, par voie d’accord amiable, de résoudre les difficultés ou de dissiper les doutes auxquels peuvent donner lieu l’interprétation ou l’application de la convention. Elles peuvent aussi se concerter en vue d’éviter la double imposition dans les cas non prévus par la convention.
 
-<sup>4.</sup> Les autorités compétentes des Etats contractants peuvent communiquer directement entre elles en vue de parvenir à un accord comme il est indiqué aux paragraphes précédents.
+<sup>4.</sup> Les autorités compétentes des États contractants peuvent communiquer directement entre elles en vue de parvenir à un accord comme il est indiqué aux paragraphes précédents.
 
-[^25-1]: Nouvelle teneur selon l’art. 18 du Prot. du 21 mai 2010, approuvé par l’Ass. féd. le 17 juin 2011, en vigueur depuis le 30 déc. 2011 ([RO 2011 6381](https://fedlex.data.admin.ch/eli/oc/2011/891)[6379](https://fedlex.data.admin.ch/eli/oc/2011/890); [FF 2010 5377](https://fedlex.data.admin.ch/eli/fga/2010/1051)).
+<sup>5.</sup> Lorsque,
 
-#### Art 25a
+les questions non résolues soulevées par ce cas doivent être soumises à arbitrage si la personne en fait la demande par écrit. Ces questions non résolues ne doivent toutefois pas être soumises à arbitrage si une décision sur ces questions a déjà été rendue par un tribunal judiciaire ou administratif de l’un des États. À moins qu’une personne directement concernée par le cas n’accepte pas l’accord amiable par lequel la décision d’arbitrage est appliquée, cette décision lie les deux États contractants et doit être appliquée quels que soient les délais prévus par le droit interne de ces États. Les autorités compétentes des États contractants règlent par accord amiable les modalités d’application de ce paragraphe.[^25-2]
 
-[^25a-1]
+- a) en vertu du par. 1, une personne a soumis un cas à l’autorité compétente d’un État contractant en se fondant sur le fait que les mesures prises par un État contractant ou par les deux États contractants ont entraîné pour cette personne une imposition non conforme aux dispositions de cette Convention, et que
+- b) les autorités compétentes ne parviennent pas à un accord permettant de résoudre ce cas en vertu du par. 2 dans un délai de trois ans à compter de la date à laquelle toutes les informations demandées par les autorités compétentes pour pouvoir traiter le cas ont été communiquées aux deux autorités compétentes,
 
-<sup>1.</sup> Les autorités compétentes des Etats contractants échangent les renseignements vraisemblablement pertinents pour appliquer les dispositions de la présente Convention ou pour l’administration ou l’application de la législation interne relative aux impôts de toute nature ou dénomination perçus pour le compte des Etats contractants, de leurs subdivisions politiques ou de leurs collectivités locales dans la mesure où l’imposition qu’elle prévoit n’est pas contraire à la Convention. L’échange de renseignements n’est pas restreint par les art. 1 et 2.
+- 6\. a) Lorsqu’une autorité compétente d’un État contractant a suspendu la procédure pour résoudre un cas par accord amiable selon les par. 1 et 2 (ci-après «procédure amiable») parce qu’un cas portant sur une ou plusieurs questions identiques est en instance devant un tribunal judiciaire ou administratif, le délai prévu à la lettre b du par. 5 cesse de courir jusqu’à ce que le cas soit suspendu ou retiré.
+- b) Lorsque la personne qui soumet le cas et une autorité compétente d’un État contractant ont convenu de suspendre la procédure amiable, le délai prévu à la lettre b du par. 5 cesse de courir jusqu’à la levée de cette suspension.
+- c) Lorsque les deux autorités compétentes des États contractants conviennent qu’une personne directement concernée par le cas n’a pas communiqué en temps opportun les informations pertinentes complémentaires requises par l’une ou l’autre des autorités compétentes après le début du délai prévu à la lettre b du par. 5, ce délai est prolongé d’une durée égale à celle séparant la date à laquelle ces informations ont été demandées et la date à laquelle elles ont été communiquées.[^25-3]
+- 7\. a)
 
-<sup>2.</sup> Les renseignements reçus en vertu du par. 1 par un Etat contractant sont tenus secrets de la même manière que les renseignements obtenus en application de la législation interne de cet Etat contractant et ne sont communiqués qu’aux personnes ou autorités (y compris les tribunaux et organes administratifs) concernées par l’établissement ou le recouvrement des impôts mentionnés au par. 1, par les procédures ou poursuites concernant ces impôts, ou par les décisions sur les recours relatifs à ces impôts. Ces personnes ou autorités n’utilisent ces renseignements qu’à ces fins. Elles peuvent révéler ces renseignements au cours d’audiences publiques de tribunaux ou dans des jugements.
+  Les règles ci-après régissent la désignation des membres de la commission d’arbitrage:
+
+  - (i) La commission d’arbitrage se compose de trois personnes physiques possédant une expertise ou une expérience en matière de fiscalité internationale.
+  - (ii) L’autorité compétente de chaque État contractant doit désigner un membre de la commission d’arbitrage. Les deux membres de la commission d’arbitrage ainsi désignés nomment un troisième membre de la commission d’arbitrage qui assume la fonction de président de la commission d’arbitrage. Le président ne doit pas être un ressortissant ou un résident de l’une ou l’autre des États contractants.
+  - (iii) Chaque membre de la commission d’arbitrage doit être impartial et indépendant des autorités compétentes, des administrations fiscales et des ministères des Finances des États contractants et de toutes les personnes directement concernées par le cas (ainsi que de leurs conseils) au moment où il accepte la désignation, demeurer impartial et indépendant tout au long de la procédure, et éviter ensuite, pendant une durée raisonnable, toute conduite pouvant entacher l’apparence de son impartialité et de son indépendance concernant la procédure d’arbitrage.
+
+- b) Les autorités compétentes des États contractants veillent à ce que les membres de la commission d’arbitrage et leurs collaborateurs s’engagent par écrit, avant de participer à la procédure d’arbitrage, à traiter tout renseignement en lien avec la procédure d’arbitrage conformément aux obligations de confidentialité et de non-divulgation prévues au par. 2 de l’art. 25A et à celles résultant du droit applicable des États contractants.
+- c) Aux seules fins de l’application des dispositions de cet article, de l’art. 25A et du droit interne des États contractants relatives à l’échange de renseignements, à la confidentialité et à l’assistance administrative, les membres de la commission d’arbitrage ainsi qu’un maximum de trois de leurs collaborateurs (et les membres pressentis de la commission d’arbitrage seulement dans la mesure où cela est nécessaire pour apprécier leur capacité à exercer la fonction d’arbitre) doivent être considérés comme des personnes ou des autorités à qui des renseignements peuvent être communiqués. Les renseignements reçus par la commission d’arbitrage et par les membres pressentis de la commission d’arbitrage, et ceux que les autorités compétentes reçoivent de la commission d’arbitrage sont considérés comme des renseignements échangés en vertu du par. 1 de l’art. 25A.[^25-4]
+- 8\. a) La décision de la commission d’arbitrage est définitive.
+- b) La décision de la commission d’arbitrage n’est pas contraignante pour les deux États contractants lorsqu’une décision définitive des tribunaux de l’un des États contractants déclare que la décision de la commission d’arbitrage est invalide. En pareil cas, la demande d’arbitrage couverte au par. 5 est considérée comme n’ayant pas été formulée et la procédure d’arbitrage est considérée comme n’ayant pas eu lieu (sauf aux fins des lettres b et c du par. 7, et du par. 11). Dans ce cas, une nouvelle demande d’arbitrage peut être soumise, à moins que les autorités compétentes des États contractant conviennent que cette nouvelle demande n’est pas permise.
+- c) La décision de la commission d’arbitrage n’a aucune valeur de précédent.[^25-5]
+- 9\. a) Si une personne directement concernée par le cas n’accepte pas l’accord amiable qui met en œuvre la décision de la commission d’arbitrage, le cas ne peut faire l’objet d’un examen complémentaire par les autorités compétentes des États contractants.
+- b) L’accord mettant en œuvre la décision de la commission d’arbitrage concernant le cas est considéré comme n’étant pas accepté par une personne directement concernée par le cas lorsque dans les 60 jours suivant la notification de l’accord amiable, une personne directement concernée par le cas ne retire pas ou ne met pas un terme définitif à toute action devant un tribunal judiciaire ou administratif ou à toute autre procédure administrative ou juridictionnelle en cours et relative à l’une des questions soumises à l’arbitrage et résolues par l’accord amiable, d’une manière conforme à cet accord amiable.[^25-6]
+
+<sup>10.</sup>
+
+Au sens du présent article, la procédure d’arbitrage ainsi que, dans le cas des lettres a et b, la procédure amiable portant sur le cas prennent fin si, à tout moment après qu’une demande d’arbitrage a été formulée et avant que la commission d’arbitrage ait communiqué sa décision aux autorités compétentes des États contractants:
+
+- a. les autorités compétentes des États contractants parviennent à un accord amiable permettant de résoudre le cas conformément au par. 2;
+- b. la personne qui a soumis le cas retire sa demande d’arbitrage ou de procédure amiable, ou
+- c. une décision concernant les questions non résolues soulevées par ce cas est rendue par un tribunal judiciaire ou administratif de l’un des États contractants.[^25-7]
+
+<sup>11.</sup> Chacune des autorités compétentes de chaque État contractant supporte ses propres dépenses et celles du membre de la commission d’arbitrage qu’elle a désigné. Sauf convention contraire entre les autorités compétentes des États contractants, les coûts afférents au président de la commission d’arbitrage et les autres dépenses liées à la conduite de la procédure d’arbitrage sont supportés par les États contractants à parts égales.[^25-8]
+
+<sup>12.</sup>
+
+Les dispositions des par. 5 à 11 ne sont pas applicables dans les cas suivants:
+
+- a. les cas relevant du par. 3 de l’art. 4, et
+- b. les cas concernant une modification des bénéfices dans les circonstances visées au par. 1 de l’art. 9 concernant les biens incorporels difficiles à évaluer, à condition que cette modification soit effectuée au titre d’une année fiscale pour laquelle les bénéfices peuvent être soumis à cette modification en vertu des dispositions relatives aux délais de la législation de l’État contractant qui effectue cette modification et des dispositions du par. 3 de l’art. 9, mais concerne toute transaction portant sur des biens incorporels difficiles à évaluer effectuée au cours d’une autre année fiscale pour laquelle les bénéfices ne doivent pas être soumis à cette modification en vertu de ces dispositions.[^25-9]
+
+[^25-1]: Nouvelle teneur selon l’art. 16 par. 1 du Prot. du 16 juil. 2021, approuvé par l’Ass. féd. le 17 juin 2022, en vigueur depuis le 30 nov. 2022 ([RO 2022 686](https://fedlex.data.admin.ch/eli/oc/2022/686), [685](https://fedlex.data.admin.ch/eli/oc/2022/685); [FF 2021 2830](https://fedlex.data.admin.ch/eli/fga/2021/2830)).
+[^25-2]: Introduit par l’art. 16 par. 2 du Prot. du 16 juil. 2021, approuvé par l’Ass. féd. le 17 juin 2022, en vigueur depuis le 30 nov. 2022 ([RO 2022 686](https://fedlex.data.admin.ch/eli/oc/2022/686), [685](https://fedlex.data.admin.ch/eli/oc/2022/685); [FF 2021 2830](https://fedlex.data.admin.ch/eli/fga/2021/2830)).
+[^25-3]: Introduit par l’art. 16 par. 2 du Prot. du 16 juil. 2021, approuvé par l’Ass. féd. le 17 juin 2022, en vigueur depuis le 30 nov. 2022 ([RO 2022 686](https://fedlex.data.admin.ch/eli/oc/2022/686), [685](https://fedlex.data.admin.ch/eli/oc/2022/685); [FF 2021 2830](https://fedlex.data.admin.ch/eli/fga/2021/2830)).
+[^25-4]: Introduit par l’art. 16 par. 2 du Prot. du 16 juil. 2021, approuvé par l’Ass. féd. le 17 juin 2022, en vigueur depuis le 30 nov. 2022 ([RO 2022 686](https://fedlex.data.admin.ch/eli/oc/2022/686), [685](https://fedlex.data.admin.ch/eli/oc/2022/685); [FF 2021 2830](https://fedlex.data.admin.ch/eli/fga/2021/2830)).
+[^25-5]: Introduit par l’art. 16 par. 2 du Prot. du 16 juil. 2021, approuvé par l’Ass. féd. le 17 juin 2022, en vigueur depuis le 30 nov. 2022 ([RO 2022 686](https://fedlex.data.admin.ch/eli/oc/2022/686), [685](https://fedlex.data.admin.ch/eli/oc/2022/685); [FF 2021 2830](https://fedlex.data.admin.ch/eli/fga/2021/2830)).
+[^25-6]: Introduit par l’art. 16 par. 2 du Prot. du 16 juil. 2021, approuvé par l’Ass. féd. le 17 juin 2022, en vigueur depuis le 30 nov. 2022 ([RO 2022 686](https://fedlex.data.admin.ch/eli/oc/2022/686), [685](https://fedlex.data.admin.ch/eli/oc/2022/685); [FF 2021 2830](https://fedlex.data.admin.ch/eli/fga/2021/2830)).
+[^25-7]: Introduit par l’art. 16 par. 2 du Prot. du 16 juil. 2021, approuvé par l’Ass. féd. le 17 juin 2022, en vigueur depuis le 30 nov. 2022 ([RO 2022 686](https://fedlex.data.admin.ch/eli/oc/2022/686), [685](https://fedlex.data.admin.ch/eli/oc/2022/685); [FF 2021 2830](https://fedlex.data.admin.ch/eli/fga/2021/2830)).
+[^25-8]: Introduit par l’art. 16 par. 2 du Prot. du 16 juil. 2021, approuvé par l’Ass. féd. le 17 juin 2022, en vigueur depuis le 30 nov. 2022 ([RO 2022 686](https://fedlex.data.admin.ch/eli/oc/2022/686), [685](https://fedlex.data.admin.ch/eli/oc/2022/685); [FF 2021 2830](https://fedlex.data.admin.ch/eli/fga/2021/2830)).
+[^25-9]: Introduit par l’art. 16 par. 2 du Prot. du 16 juil. 2021, approuvé par l’Ass. féd. le 17 juin 2022, en vigueur depuis le 30 nov. 2022 ([RO 2022 686](https://fedlex.data.admin.ch/eli/oc/2022/686), [685](https://fedlex.data.admin.ch/eli/oc/2022/685); [FF 2021 2830](https://fedlex.data.admin.ch/eli/fga/2021/2830)).
+
+#### Art 25A
+
+[^25A-1]
+
+<sup>1.</sup> Les autorités compétentes des États contractants échangent les renseignements vraisemblablement pertinents pour appliquer les dispositions de la présente Convention ou pour l’administration ou l’application de la législation interne relative aux impôts de toute nature ou dénomination perçus pour le compte des États contractants, de leurs subdivisions politiques ou de leurs collectivités locales dans la mesure où l’imposition qu’elle prévoit n’est pas contraire à la Convention. L’échange de renseignements n’est pas restreint par les art. 1 et 2.
+
+<sup>2.</sup> Les renseignements reçus en vertu du par. 1 par un État contractant sont tenus secrets de la même manière que les renseignements obtenus en application de la législation interne de cet État et ne sont communiqués qu’aux personnes ou autorités (y compris les tribunaux et organes administratifs) concernées par l’établissement ou le recouvrement des impôts mentionnés au par. 1, par les procédures ou poursuites concernant ces impôts, par les décisions sur les recours relatifs à ces impôts, ou par le contrôle de ce qui précède. Ces personnes ou autorités n’utilisent ces renseignements qu’à ces fins. Elles peuvent révéler ces renseignements au cours d’audiences publiques de tribunaux ou dans des jugements. Nonobstant ce qui précède, les renseignements reçus par un État contractant peuvent être utilisés à d’autres fins si la législation des deux États contractants l’autorise et si l’autorité compétente de l’État contractant qui fournit ces renseignements autorise cette utilisation.[^25A-2]
 
 <sup>3.</sup>
 
-Les dispositions des par. 1 et 2 ne peuvent en aucun cas être interprétées comme imposant à un Etat contractant l’obligation:
+Les dispositions des par. 1 et 2 ne peuvent en aucun cas être interprétées comme imposant à un État contractant l’obligation:
 
-- a. de prendre des mesures administratives dérogeant à sa législation et à sa pratique administrative ou à celles de l’autre Etat contractant;
-- b. de fournir des renseignements qui ne pourraient être obtenus sur la base de sa législation ou dans le cadre de sa pratique administrative normale ou de celles de l’autre Etat contractant;
+- a. de prendre des mesures administratives dérogeant à sa législation et à sa pratique administrative ou à celles de l’autre État contractant;
+- b. de fournir des renseignements qui ne pourraient être obtenus sur la base de sa législation ou dans le cadre de sa pratique administrative normale ou de celles de l’autre État contractant;
 - c. de fournir des renseignements qui révéleraient un secret commercial, industriel, professionnel ou un procédé commercial ou des renseignements dont la communication serait contraire à l’ordre public.
 
-<sup>4.</sup> Si des renseignements sont demandés par un Etat contractant conformément à cet article, l’autre Etat contractant utilise les pouvoirs dont il dispose pour obtenir les renseignements demandés, même s’il n’en a pas besoin à ses propres fins fiscales. L’obligation qui figure dans la phrase précédente est soumise aux limitations prévues au par. 3 sauf si ces limitations sont susceptibles d’empêcher un Etat contractant de communiquer des renseignements uniquement parce que ceux-ci ne présentent pas d’intérêt pour lui dans le cadre national.
+<sup>4.</sup> Si des renseignements sont demandés par un État contractant conformément à cet article, l’autre État contractant utilise les pouvoirs dont il dispose pour obtenir les renseignements demandés, même s’il n’en a pas besoin à ses propres fins fiscales. L’obligation qui figure dans la phrase précédente est soumise aux limitations prévues au par. 3 sauf si ces limitations sont susceptibles d’empêcher un État contractant de communiquer des renseignements uniquement parce que ceux-ci ne présentent pas d’intérêt pour lui dans le cadre national.
 
-<sup>5.</sup> En aucun cas les dispositions du par. 3 ne peuvent être interprétées comme permettant à un Etat contractant de refuser de communiquer des renseignements uniquement parce que ceux-ci sont détenus par une banque, un autre établissement financier, un mandataire ou une personne agissant en tant qu’agent ou fiduciaire ou parce que ces renseignements se rattachent aux droits de propriété d’une personne. Nonobstant les dispositions du par. 3 ou des dispositions équivalentes dans la législation interne d’un Etat contractant, les autorités fiscales de cet Etat ont le pouvoir d’exiger la divulgation des renseignements précités, pour autant que cela soit nécessaire à l’accomplissement des obligations citées dans ce paragraphe.»
+<sup>5.</sup> En aucun cas les dispositions du par. 3 ne peuvent être interprétées comme permettant à un État contractant de refuser de communiquer des renseignements uniquement parce que ceux-ci sont détenus par une banque, un autre établissement financier, un mandataire ou une personne agissant en tant qu’agent ou fiduciaire ou parce que ces renseignements se rattachent aux droits de propriété d’une personne. …[^25A-3]
 
-[^25a-1]: Introduit par l’art. 19 du Prot. du 21 mai 2010, approuvé par l’Ass. féd. le 17 juin 2011, en vigueur depuis le 30 déc. 2011 ([RO 2011 6381](https://fedlex.data.admin.ch/eli/oc/2011/891)[6379](https://fedlex.data.admin.ch/eli/oc/2011/890); [FF 2010 5377](https://fedlex.data.admin.ch/eli/fga/2010/1051)).
+[^25A-1]: Introduit par l’art. 19 du Prot. du 21 mai 2010, approuvé par l’Ass. féd. le 17 juin 2011, en vigueur depuis le 30 déc. 2011 ([RO 2011 6381](https://fedlex.data.admin.ch/eli/oc/2011/891), [6379](https://fedlex.data.admin.ch/eli/oc/2011/890); [FF 2010 5377](https://fedlex.data.admin.ch/eli/fga/2010/1051)).
+[^25A-2]: Nouvelle teneur selon l’art. 17 par. 1 du Prot. du 16 juil. 2021, approuvé par l’Ass. féd. le 17 juin 2022, en vigueur depuis le 30 nov. 2022 ([RO 2022 686](https://fedlex.data.admin.ch/eli/oc/2022/686), [685](https://fedlex.data.admin.ch/eli/oc/2022/685); [FF 2021 2830](https://fedlex.data.admin.ch/eli/fga/2021/2830)).
+[^25A-3]: Phrase abrogée par l’art. 17 par. 2 du Prot. du 16 juil. 2021, approuvé par l’Ass. féd. le 17 juin 2022, avec effet au 30 nov. 2022 ([RO 2022 686](https://fedlex.data.admin.ch/eli/oc/2022/686), [685](https://fedlex.data.admin.ch/eli/oc/2022/685); [FF 2021 2830](https://fedlex.data.admin.ch/eli/fga/2021/2830)).
 
 #### Art. 26
 
@@ -659,14 +703,14 @@ Les dispositions des par. 1 et 2 ne peuvent en aucun cas être interprétées co
 
 <sup>2.</sup>
 
-Nonobstant les dispositions de l’art. 4, toute personne physique qui est membre d’une mission diplomatique, d’un poste consulaire ou d’une délégation permanente d’un Etat contractant qui est situé dans l’autre Etat contractant ou dans un Etat tiers est considérée, aux fins de la présente Convention, comme un résident de l’Etat accréditant, à condition:
+Nonobstant les dispositions de l’art. 4, toute personne physique qui est membre d’une mission diplomatique, d’un poste consulaire ou d’une délégation permanente d’un État contractant qui est situé dans l’autre État contractant ou dans un État tiers est considérée, aux fins de la présente Convention, comme un résident de l’État accréditant, à condition:
 
-- a. que, conformément au droit international, elle ne soit pas assujettie à l’impôt dans l’Etat accréditaire pour les revenus de sources extérieures à cet Etat; et
-- b. qu’elle soit soumise dans l’Etat accréditant aux mêmes obligations, en matière d’impôts sur l’ensemble de son revenu, que les résidents de cet Etat.
+- a. que, conformément au droit international, elle ne soit pas assujettie à l’impôt dans l’État accréditaire pour les revenus de sources extérieures à cet État, et
+- b. qu’elle soit soumise dans l’État accréditant aux mêmes obligations, en matière d’impôts sur l’ensemble de son revenu, que les résidents de cet État.
 
-<sup>3.</sup> La Convention ne s’applique pas aux organisations internationales, à leurs organes ou à leurs fonctionnaires, ni aux personnes qui sont membres d’une mission diplomatique, d’un poste consulaire ou d’une délégation permanente d’un Etat tiers, lorsqu’ils se trouvent sur le territoire d’un Etat contractant et ne sont pas traités comme des résidents dans l’un ou l’autre Etat contractant en matière d’impôts sur le revenu.»
+<sup>3.</sup> La Convention ne s’applique pas aux organisations internationales, à leurs organes ou à leurs fonctionnaires, ni aux personnes qui sont membres d’une mission diplomatique, d’un poste consulaire ou d’une délégation permanente d’un État tiers, lorsqu’ils se trouvent sur le territoire d’un État contractant et ne sont pas traités comme des résidents dans l’un ou l’autre État contractant en matière d’impôts sur le revenu.»
 
-[^26-1]: Nouvelle teneur selon l’art. 20 du Prot. du 21 mai 2010, approuvé par l’Ass. féd. le 17 juin 2011, en vigueur depuis le 30 déc. 2011 ([RO 2011 6381](https://fedlex.data.admin.ch/eli/oc/2011/891)[6379](https://fedlex.data.admin.ch/eli/oc/2011/890); [FF 2010 5377](https://fedlex.data.admin.ch/eli/fga/2010/1051)).
+[^26-1]: Nouvelle teneur selon l’art. 20 du Prot. du 21 mai 2010, approuvé par l’Ass. féd. le 17 juin 2011, en vigueur depuis le 30 déc. 2011 ([RO 2011 6381](https://fedlex.data.admin.ch/eli/oc/2011/891), [6379](https://fedlex.data.admin.ch/eli/oc/2011/890); [FF 2010 5377](https://fedlex.data.admin.ch/eli/fga/2010/1051)).
 
 #### Art. 27
 
@@ -676,12 +720,12 @@ Nonobstant les dispositions de l’art. 4, toute personne physique qui est membr
 
 La présente convention entrera en vigueur trente jours après la date de l’échange des instruments de ratification et ses dispositions seront applicables:
 
-- a. au Japon: aux revenus reçus pendant toute année d’imposition commençant à partir du 1<sup>er</sup> janvier de l’année civile au cours de laquelle la présente convention entrera en vigueur ou après cette date; et
+- a. au Japon: aux revenus reçus pendant toute année d’imposition commençant à partir du 1<sup>er</sup> janvier de l’année civile au cours de laquelle la présente convention entrera en vigueur ou après cette date, et
 - b. en Suisse: pour les années fiscales commençant le 1<sup>er</sup> janvier de l’année civile au cours de laquelle la présente convention entrera en vigueur, ou après cette date.
 
 #### Art. 28
 
-La présente convention demeurera en vigueur pour une durée illimitée, mais elle peut être dénoncée par chacun des Etats contractants, moyennant notification écrite adressée à l’autre Etat contractant par la vole diplomatique, jusqu’au 30 juin de chaque année civile après une période de cinq ans à partir de la date de son entrée en vigueur. Dans ce cas, la présente convention cessera de s’appliquer:
+La présente convention demeurera en vigueur pour une durée illimitée, mais elle peut être dénoncée par chacun des États contractants, moyennant notification écrite adressée à l’autre État contractant par la vole diplomatique, jusqu’au 30 juin de chaque année civile après une période de cinq ans à partir de la date de son entrée en vigueur. Dans ce cas, la présente convention cessera de s’appliquer:
 
 - a. au Japon: aux revenus reçus pendant toute année d’imposition commençant le 1<sup>er</sup> janvier de l’année civile suivant celle de la dénonciation, ou après cette date;
 - b. en Suisse: pour les années fiscales commençant le 1<sup>er</sup> janvier de l’année civile suivant celle de la dénonciation, ou après cette date.
@@ -693,53 +737,90 @@ La présente convention demeurera en vigueur pour une durée illimitée, mais el
 \2. Le Protocole d’amendement sera applicable:
 
 - a. s’agissant des impôts perçus à la source, aux montants imposables le 1<sup>er</sup> janvier de l’année civile suivant celle de l’entrée en vigueur du Protocole d’amendement ou ultérieurement;
-- b. s’agissant des impôts sur le revenu qui ne sont pas perçus à la source, aux revenus pour toute année fiscale commençant le 1<sup>er</sup> janvier de l’année civile suivant celle de l’entrée en vigueur du Protocole d’amendement ou ultérieurement; et
+- b. s’agissant des impôts sur le revenu qui ne sont pas perçus à la source, aux revenus pour toute année fiscale commençant le 1<sup>er</sup> janvier de l’année civile suivant celle de l’entrée en vigueur du Protocole d’amendement ou ultérieurement, et
 - c. s’agissant des autres impôts, pour toute année fiscale commençant le 1<sup>er</sup> janvier de l’année civile suivant celle de l’entrée en vigueur du Protocole d’amendement ou ultérieurement.
 
-\3. L’échange de renseignements en vertu des dispositions de l’art. 25*a* de la Convention tel qu’amendé par le Protocole d’amendement sera accordé pour les années fiscales commençant le 1<sup>er</sup> janvier de l’année civile suivant celle de l’entrée en vigueur du Protocole d’amendement ou ultérieurement.
+\3. L’échange de renseignements en vertu des dispositions de l’art. 25A de la Convention tel qu’amendé par le Protocole d’amendement sera accordé pour les années fiscales commençant le 1<sup>er</sup> janvier de l’année civile suivant celle de l’entrée en vigueur du Protocole d’amendement ou ultérieurement.
 
-## Protocole****
+#### Art. 19
 
-[^annex21-lvlu2-1]
+****ch. 2 à 4 du Protocole conclu le 16 juillet 2021**[^annex21-19-1]**
 
-[^t-3]: [RO 2011 6381](https://fedlex.data.admin.ch/eli/oc/2011/891)[6379](https://fedlex.data.admin.ch/eli/oc/2011/890); [FF 2010 5377](https://fedlex.data.admin.ch/eli/fga/2010/1051)
-[^annex21-lvlu2-1]: [RO 2011 6381](https://fedlex.data.admin.ch/eli/oc/2011/891)[6379](https://fedlex.data.admin.ch/eli/oc/2011/890); [FF 2010 5377](https://fedlex.data.admin.ch/eli/fga/2010/1051)
+<sup>2.</sup>
 
-A l’occasion de la signature du Protocole modifiant la Convention entre le Japon et la Suisse en vue d’éviter les doubles impositions en matière d’impôts sur le revenu signée le 19 janvier 1971, le Gouvernement du Japon et le Conseil fédéral suisse sont convenus des dispositions suivantes qui font partie intégrante de la Convention:
+Le Protocole prend effet:
+
+- a.
+
+  au Japon:
+
+  - i. à l’égard des impôts prélevés sur la base d’une année fiscal, pour les impôts relatifs à tout année fiscale commençant à partir du 1er janvier de l’année civile qui suit immédiatement celle de l’entrée en vigueur du Protocole,
+  - ii. à l’égard des impôts qui ne sont pas prélevés sur la base d’une année d’imposition, pour les impôts perçus à partir du 1er janvier de l’année civile suivant celle de l’entrée en vigueur du Protocole;
+
+- b.
+
+  en Suisse:
+
+  - i. à l’égard des impôts retenus à la source, sur les montants payés ou crédités à partir du 1<sup>er</sup> janvier de l’année civile qui suit immédiatement celle de l’entrée en vigueur du Protocole,
+  - ii. à l’égard des autres impôts, pour les années fiscales commençant le 1<sup>er</sup> janvier de l’année civile qui suit immédiatement celle de l’entrée en vigueur du Protocole ou après cette date.
+
+<sup>3.</sup> Nonobstant les dispositions du par. 2, les dispositions du par. 1 de l’art. 25 de la Convention, telles que modifiées par le par. 1 de l’art. 16 du présent Protocole, prennent effet à la date d’entrée en vigueur du Protocole, quelle que soit la date à laquelle les impôts sont perçus ou l’année d’imposition à laquelle ils se rapportent.
+
+<sup>4.</sup>
+
+Nonobstant les dispositions du par. 2, les dispositions des par. 5 à 12 de l’art. 25 de la Convention, telles que modifiées par le par. 2 de l’art. 16 du présent Protocole, prennent effet à la date d’entrée en vigueur du Protocole en ce qui concerne:
+
+- a. les cas qui sont en cours d’examen par les autorités compétentes des États contractants à la date d’entrée en vigueur du protocole. Pour ces cas, aucune question non résolue qui en découle n’est soumise à l’arbitrage avant l’expiration d’un délai de trois ans à compter de la date d’entrée en vigueur du Protocole;
+- b. les cas qui sont examinés par les autorités compétentes des États contractants après la date d’entrée en vigueur du Protocole.
+
+[^t-3]: [RO 2011 6381](https://fedlex.data.admin.ch/eli/oc/2011/891), [6379](https://fedlex.data.admin.ch/eli/oc/2011/890); [FF 2010 5377](https://fedlex.data.admin.ch/eli/fga/2010/1051)
+[^annex21-19-1]: [RO 2022 686](https://fedlex.data.admin.ch/eli/oc/2022/686), [685](https://fedlex.data.admin.ch/eli/oc/2022/685); [FF 2021 2830](https://fedlex.data.admin.ch/eli/fga/2021/2830)
+
+## Protocole
+
+[^annex21-lvlu3-1]
+
+[^annex21-lvlu3-1]: [RO 2011 6381](https://fedlex.data.admin.ch/eli/oc/2011/891), [6379](https://fedlex.data.admin.ch/eli/oc/2011/890); [FF 2010 5377](https://fedlex.data.admin.ch/eli/fga/2010/1051). Mis à jour par l’art. 18 du Prot. du 16 juil. 2021, approuvé par l’Ass. féd. le 17 juin 2022, en vigueur depuis le 30 nov. 2022 ([RO 2022 686](https://fedlex.data.admin.ch/eli/oc/2022/686), [685](https://fedlex.data.admin.ch/eli/oc/2022/685); [FF 2021 2830](https://fedlex.data.admin.ch/eli/fga/2021/2830)).
+
+À l’occasion de la signature du Protocole modifiant la Convention entre le Japon et la Suisse en vue d’éviter les doubles impositions en matière d’impôts sur le revenu signée le 19 janvier 1971, le Gouvernement du Japon et le Conseil fédéral suisse sont convenus des dispositions suivantes qui font partie intégrante de la Convention:
 
 \1. Concernant toute la Convention:
 
-Aucun dégrèvement ne sera accordé en vertu de la Convention si le but principal d’une personne concernée par la création ou la cession d’un droit ou d’une propriété au titre duquel un revenu est payé était d’obtenir ainsi les avantages de la Convention.
+Nonobstant les dispositions de la Convention, un avantage au titre de celle-ci ne sera pas accordé au titre d’un élément de revenu ou de fortune s’il est raisonnable de conclure, compte tenu de l’ensemble des faits et circonstances propres à la situation, que l’octroi de cet avantage était l’un des objets principaux d’un montage ou d’une transaction ayant permis, directement ou indirectement, de l’obtenir, à moins qu’il soit établi que l’octroi de cet avantage dans ces circonstances serait conforme à l’objet et au but des dispositions pertinentes de la présente Convention.
 
 \2. Concernant la let. k du par. 1 de l’art. 3 de la Convention:
 
 Il est entendu qu’un fonds de pension ou une institution de prévoyance est exonéré d’impôt sur le revenu au titre des activités décrites à l’al. ii de cette lettre même si ce revenu est soumis à l’impôt visé par l’art. 8 ou 10-2 de la loi japonaise sur les impôts des sociétés (loi n<sup>o</sup> 34 de 1965) ou par le par. 1 de l’art. 20 des dispositions complémentaires à ladite loi.
 
-\3. Concernant l’art. 10 de la Convention:
+*3. Concernant le par. 3 de l’art. 7 et le par. 2 de l’art. 9 de la Convention:*
 
-Les dispositions de la let. a du par. 2 et celles de la let. a du par. 3 de cet article ne sont pas applicables dans le cas de dividendes payés par une société qui a le droit de déduire les dividendes versés lors de la détermination de son bénéfice imposable dans l’Etat contractant duquel elle est un résident.
+Il est entendu qu’un État contractant n’est tenu d’effectuer un ajustement en vertu du par. 3 de l’art. 7 ou du par. 2 de l’art. 9 de la Convention que si cet État contractant considère que l’ajustement effectué par l’autre État contractant est justifié à la fois dans le principe contenu au par. 2 de l’art. 7 ou au par. 1 de l’art. 9 de la Convention et en ce qui concerne le montant déterminé selon ce principe.
 
-\4. Concernant le par. 3 de l’art. 11 et l’art. 22a de la Convention:
+\4. Concernant l’art. 10 de la Convention:
+
+Les dispositions de la let. a du par. 3 de cet article ne sont pas applicables dans le cas de dividendes payés par une société qui a le droit de déduire les dividendes versés lors de la détermination de son bénéfice imposable dans l’État contractant duquel elle est un résident.
+
+\5. Concernant l’art. 22A de la Convention:
 
 Il est entendu que le terme «assurance» comprend la réassurance.
 
-\5. Concernant l’art. 25a de la Convention:
+\6. Concernant l’art. 25A de la Convention:
 
-- (a) Les dispositions de cet article ne peuvent en aucun cas être interprétées comme imposant à un Etat contractant l’obligation de fournir des renseignements si l’autre Etat contractant n’a pas pris toutes les mesures raisonnables aux fins d’obtenir ces renseignements prévues par sa législation ou dans le cadre de sa pratique administrative, à l’exception des mesures qui donneraient lieu à des difficultés disproportionnées.
+- (a) Les dispositions de cet article ne peuvent en aucun cas être interprétées comme imposant à un État contractant l’obligation de fournir des renseignements si l’autre État contractant n’a pas pris toutes les mesures raisonnables aux fins d’obtenir ces renseignements prévues par sa législation ou dans le cadre de sa pratique administrative, à l’exception des mesures qui donneraient lieu à des difficultés disproportionnées.
 - (b) Il est entendu que l’échange de renseignements prévu par cet article ne comprend pas les mesures destinées uniquement à la simple collecte d’éléments de preuve («pêche aux renseignements»).
 - (c)
 
-  Il est entendu que, lorsque des renseignements sont requis par un Etat contractant en conformité avec cet article, l’autorité compétente de cet Etat contractant fournit les informations suivantes à l’autorité compétente de l’autre Etat contractant:
+  Il est entendu que, lorsque des renseignements sont requis par un État contractant en conformité avec cet article, l’autorité compétente de cet État contractant fournit les informations suivantes à l’autorité compétente de l’autre État contractant:
 
   - (i) les données nécessaires à l’identification de la personne qui fait l’objet d’un contrôle (typiquement le nom et, pour autant qu’ils soient connus, l’adresse et le numéro de compte, ou des informations semblables permettant l’identification),
   - (ii) la période concernée par la demande de renseignements,
-  - (iii) une description des renseignements demandés et l’indication de la forme sous laquelle le premier Etat contractant mentionné souhaite recevoir ces renseignements de la part de l’autre Etat contractant,
+  - (iii) une description des renseignements demandés et l’indication de la forme sous laquelle le premier État contractant mentionné souhaite recevoir ces renseignements de la part de l’autre État contractant,
   - (iv) le but fiscal de la demande de renseignements, et
   - (v) le nom et, si elle est connue, l’adresse du détenteur présumé des renseignements demandés.
 
-- (d) Même si l’art. 25*a* de la Convention ne restreint pas les procédures servant à l’échange de renseignements, les Etats contractants ne sont pas tenus d’échanger des renseignements automatiquement ou spontanément.
-- (e) Un Etat contractant peut refuser de fournir des renseignements relatifs aux communications confidentielles entre avocats ou autres représentants légaux agréés agissant dans l’exercice de leurs fonctions et leurs clients dans la mesure où ces communications sont préservées de toute divulgation en vertu de la législation interne de cet Etat contractant.
-- (f) Il est entendu que, lorsqu’un Etat contractant demande des renseignements en conformité avec cet article, les dispositions du droit régissant la procédure administrative dans l’autre Etat contractant demeurent réservées s’agissant des droits des contribuables dans la mesure où elles n’empêchent pas ou ne retardent pas de manière indue un échange efficace des renseignements.
+- (d) Même si l’art. 25A de la Convention ne restreint pas les procédures servant à l’échange de renseignements, les États contractants ne sont pas tenus d’échanger des renseignements automatiquement ou spontanément.
+- (e) Un État contractant peut refuser de fournir des renseignements relatifs aux communications confidentielles entre avocats ou autres représentants légaux agréés agissant dans l’exercice de leurs fonctions et leurs clients dans la mesure où ces communications sont préservées de toute divulgation en vertu de la législation interne de cet État contractant.
+- (f) Il est entendu que, lorsqu’un État contractant demande des renseignements en conformité avec cet article, les dispositions du droit régissant la procédure administrative dans l’autre État contractant demeurent réservées s’agissant des droits des contribuables dans la mesure où elles n’empêchent pas ou ne retardent pas de manière indue un échange efficace des renseignements.
 
 Le présent Protocole entre en vigueur le même jour que le Protocole modifiant la Convention entre le Japon et la Suisse en vue d’éviter les doubles impositions en matière d’impôts sur le revenu signée le 19 janvier 1971.
 
@@ -752,11 +833,9 @@ Fait le 21 mai 2010 à Berne, en deux exemplaires, en langues allemande, japonai
 <tr><td>Hans-Rudolf Merz</td><td>Ichiro Komatsu</td></tr>
 </table>
 
-Echange de lettres du 21 mai 2010**[^annex21-lvlu2-2]**
+Échange de lettres du 21 mai 2010[^t-4] entre le Conseil fédéral suisse et le Gouvernement du Japon concernant la Convention en vue d’éviter les doubles impositions en matière d’impôts sur le revenu signée à Tokyo le 19 janvier 1971 modifiées par le protocole signé à Berne ce jour
 
-entre le Conseil fédéral suisse et le Gouvernement du Japon concernant la Convention en vue d’éviter les doubles impositions en matière d’impôts sur le revenu signée à Tokio le 19 janvier 1971 modifiées par le protocole signé à Berne ce jour
-
-Traduction*[^annex21-lvlu2-3]*
+Traduction[^t-5]
 
 Berne, le 21 mai 2010
 
@@ -794,27 +873,27 @@ Il est entendu que l’expression «fonds de pension ou institution de prévoyan
   - x. Corporate Tax Law (Law No. 34 of 1965),
   - xi. Small and Medium Enterprises Retirement Allowance Mutual Aid Law (Law No. 160 of 1959),
   - xii. Small Enterprise Mutual Relief Projects Law (Law No. 102 of 1965), et
-  - [tab] xiii. Cabinet Order of Income Tax Law (Cabinet Order No. 96 of 1965); et
+  - [tab] xiii. Cabinet Order of Income Tax Law (Cabinet Order No. 96 of 1965), et
 
 - b)
 
   en Suisse, les plans et institutions qui entrent dans le champ d’application de:
 
-  - i. la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants[^annex21-lvlu2-4],
-  - ii. la loi fédérale du 19 juin 1959 sur l’assurance-invalidité[^annex21-lvlu2-5],
-  - iii. la loi fédérale du 6 octobre 2006 sur les prestations complémentaires à l’AVS et à l’AI[^annex21-lvlu2-6],
-  - iv. la loi fédérale du 25 juin 1982 sur la prévoyance professionnelle vieillesse, survivants et invalidité[^annex21-lvlu2-7], y compris les institutions de prévoyance non enregistrées qui offrent des plans de prévoyance professionnelle, et
+  - i. la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants[^t-6],
+  - ii. la loi fédérale du 19 juin 1959 sur l’assurance-invalidité[^t-7],
+  - iii. la loi fédérale du 6 octobre 2006 sur les prestations complémentaires à l’AVS et à l’AI[^t-8],
+  - iv. la loi fédérale du 25 juin 1982 sur la prévoyance professionnelle vieillesse, survivants et invalidité[^t-9], y compris les institutions de prévoyance non enregistrées qui offrent des plans de prévoyance professionnelle, et
   - v. les formes de prévoyance individuelle reconnues comparables aux plans de prévoyance professionnelle, conformément à l’art. 82 de la loi fédérale du 25 juin 1982 sur la prévoyance professionnelle vieillesse, survivants et invalidité.
 
 Il est également entendu que l’expression «fonds de pension ou institution de prévoyance» comprend les fonds d’investissement ou les trusts dont la totalité des parts est détenue par des fonds de pension ou des institutions de prévoyance.
 
 \2. Concernant la let. (b) du par. 3 de l’art. 11 de la Convention:
 
-Il est entendu que les dispositions de cette lettre sont applicables aux intérêts provenant d’un Etat contractant, dont le bénéficiaire effectif est une institution qui est un résident de l’autre Etat contractant et qui est entièrement détenue par la banque centrale de cet autre Etat contractant, s’agissant de créances indirectement financées par cette banque centrale.
+Il est entendu que les dispositions de cette lettre sont applicables aux intérêts provenant d’un État contractant, dont le bénéficiaire effectif est une institution qui est un résident de l’autre État contractant et qui est entièrement détenue par la banque centrale de cet autre État contractant, s’agissant de créances indirectement financées par cette banque centrale.
 
-\3. Concernant l’al. (i) de la let. (b) du par. 5 de l’art. 22a de la Convention:
+\3. Concernant l’al. (i) de la let. (b) du par. 5 de l’art. 22A de la Convention:
 
-Il est entendu que, lorsqu’un résident d’un Etat contractant exerce une part substantielle du contrôle et de la gestion d’un groupe de sociétés faisant partie d’un groupe multinational de sociétés ou fournit le financement pour un tel groupe, ce résident est considéré comme satisfaisant aux conditions décrites dans cet alinéa en relation avec ce groupe de sociétés.
+Il est entendu que, lorsqu’un résident d’un État contractant exerce une part substantielle du contrôle et de la gestion d’un groupe de sociétés faisant partie d’un groupe multinational de sociétés ou fournit le financement pour un tel groupe, ce résident est considéré comme satisfaisant aux conditions décrites dans cet alinéa en relation avec ce groupe de sociétés.
 
 \4. Le présent échange de lettres remplace l’échange de notes du 19 janvier 1971.
 
@@ -830,13 +909,22 @@ Je saisis cette occasion pour renouveler à Votre Excellence l’assurance de ma
 <tr><td></td><td>Hans-Rudolf Merz Chef du Département fédéral des finances de la Confédération suisse</td></tr>
 </table>
 
-Echange de lettres du 15 mai 2012**[^annex21-lvlu2-8]**
+[^t-4]: [RO 2011 6381](https://fedlex.data.admin.ch/eli/oc/2011/891), [6379](https://fedlex.data.admin.ch/eli/oc/2011/890); [FF 2010 5377](https://fedlex.data.admin.ch/eli/fga/2010/1051)
+[^t-5]: Traduction du texte original anglais.
+[^t-6]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^t-7]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^t-8]: [RS 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
+[^t-9]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
 
-entre le Conseil fédéral suisse et le Gouvernement du Japon concernant la Convention entre la Suisse et le Japon en vue d’éviter les doubles impositions en matière d’impôts sur le revenu, signée à Tokyo le 19 janvier 1971, dans sa version conforme au protocole signé à Berne le 21 mai 2010
+## Échange de lettres du 15 mai 2012 entre le Conseil fédéral suisse et le Gouvernement du Japon concernant la Convention entre la Suisse et le Japon en vue d’éviter les doubles impositions en matière d’impôts sur le revenu,signée à Tokyo le 19 janvier 1971, dans sa version conforme au protocole signé à Berne le 21 mai 2010
+
+[^annex21-lvlu2-1]
+
+[^annex21-lvlu2-1]: [RO 2012 4475](https://fedlex.data.admin.ch/eli/oc/2012/521)
 
 Entré en vigueur le 15 mai 2012
 
-Traduction*[^annex21-lvlu2-9]*
+Traduction[^annex21-lvlu2-2]
 
 <table>
 <tr><td>Kazuyoshi Umemoto</td><td>Berne, le 15 mai 2012</td></tr>
@@ -852,11 +940,11 @@ Madame la Présidente,
 
 J’ai l’honneur d’accuser réception de votre lettre de ce jour dont la teneur est la suivante:
 
-«Me référant à la Convention entre la Suisse et le Japon en vue d’éviter les doubles impositions en matière d’impôts sur le revenu, signée à Tokyo le 19 janvier 1971, dans sa version conforme au protocole[^annex21-lvlu2-10] signé à Berne le 21 mai 2010 (désignée ci-après par «convention»), ainsi qu’au protocole signé à Berne le 21 mai 2010, qui fait partie intégrante de la convention (désigné ci-après par «protocole»), j’ai l’honneur de vous confirmer, au nom du Conseil fédéral suisse, l’accord suivant entre le Conseil fédéral suisse et le Gouvernement du Japon:
+«Me référant à la Convention entre la Suisse et le Japon en vue d’éviter les doubles impositions en matière d’impôts sur le revenu, signée à Tokyo le 19 janvier 1971, dans sa version conforme au protocole[^annex21-lvlu2-3] signé à Berne le 21 mai 2010 (désignée ci-après par «convention»), ainsi qu’au protocole signé à Berne le 21 mai 2010, qui fait partie intégrante de la convention (désigné ci-après par «protocole»), j’ai l’honneur de vous confirmer, au nom du Conseil fédéral suisse, l’accord suivant entre le Conseil fédéral suisse et le Gouvernement du Japon:
 
-En ce qui concerne les demandes d’assistance administrative conformément à l’art. 25*a* de la convention, il est entendu que:
+En ce qui concerne les demandes d’assistance administrative conformément à l’art. 25A de la convention, il est entendu que:
 
-- (1) la référence, au paragraphe 1 de cet article, aux renseignements vraisemblablement pertinents vise à garantir un échange de renseignements en matière fiscale aussi étendu que possible, sans permettre aux Etats contractants de demander des renseignements dont la pertinence concernant les affaires fiscales d’un contribuable précis est douteuse;
+- (1) la référence, au paragraphe 1 de cet article, aux renseignements vraisemblablement pertinents vise à garantir un échange de renseignements en matière fiscale aussi étendu que possible, sans permettre aux États contractants de demander des renseignements dont la pertinence concernant les affaires fiscales d’un contribuable précis est douteuse;
 - (2) la let. c du par. 5 du protocole contient certes des conditions d’ordre procédural importantes pour empêcher la «pêche aux renseignements», mais elles ne doivent pas être interprétées de manière à faire obstacle à un échange effectif de renseignements.
 
 J’ai également l’honneur de vous prier de bien vouloir confirmer l’accord qui précède au nom de votre Gouvernement.»
@@ -869,13 +957,18 @@ Je saisis cette occasion pour vous renouveler, Madame la Présidente, l’assura
 <tr><td></td><td>Kazuyoshi Umemoto</td></tr>
 </table>
 
-Echange de lettres**[^annex21-lvlu2-11]**
+[^annex21-lvlu2-2]: Traduction du texte original anglais.
+[^annex21-lvlu2-3]: [RO 2011 6381](https://fedlex.data.admin.ch/eli/oc/2011/891)
 
-entre le Conseil fédéral suisse et le Gouvernement du Japon concernant la Convention entre la Suisse et le Japon en vue d’éviter les doubles impositions en matière d’impôts sur le revenu, signée à Tokyo le 19 janvier 1971, dans sa version conforme au protocole signé à Berne le 21 mai 2010
+## Échange de lettres entre le Conseil fédéral suisse et le Gouvernement du Japon concernant la Convention entre la Suisse et le Japon en vue d’éviter les doubles impositions en matière d’impôts sur le revenu, signée à Tokyo le 19 janvier 1971, dans sa version conforme au protocole signé à Berne le 21 mai 2010
+
+[^annex21-lvlu3-2]
+
+[^annex21-lvlu3-2]: [RO 2012 6267](https://fedlex.data.admin.ch/eli/oc/2012/737)
 
 Conclu le 7 septembre 2012 Entré en vigueur le 7 septembre 2012
 
-Traduction*[^annex21-lvlu2-12]*
+Traduction[^annex21-lvlu3-3]
 
 <table>
 <tr><td>Eveline Widmer-Schlumpf Présidente de la Confédération Cheffe du Département fédéral des finances</td><td>Berne, le 7 septembre 2012</td></tr>
@@ -886,7 +979,7 @@ Excellence,
 
 J’ai l’honneur d’accuser réception de votre lettre de ce jour, dont la teneur est la suivante:
 
-«Me référant à la Convention entre la Suisse et le Japon en vue d’éviter les doubles impositions en matière d’impôts sur le revenu[^annex21-lvlu2-13], signée à Tokyo le 19 janvier 1971, dans sa version conforme au protocole[^annex21-lvlu2-14] signé à Berne le 21 mai 2010 (désignée ci‑après par «Convention»), j’ai l’honneur de vous confirmer, au nom du Gouvernement du Japon, l’accord suivant entre les deux gouvernements:
+«Me référant à la Convention entre la Suisse et le Japon en vue d’éviter les doubles impositions en matière d’impôts sur le revenu[^annex21-lvlu3-4], signée à Tokyo le 19 janvier 1971, dans sa version conforme au protocole[^annex21-lvlu3-5] signé à Berne le 21 mai 2010 (désignée ci‑après par «Convention»), j’ai l’honneur de vous confirmer, au nom du Gouvernement du Japon, l’accord suivant entre les deux gouvernements:
 
 S’agissant de l’art. 11, par. 4 de la Convention, il est entendu que la «Japan Bank for International Cooperation» est une institution au sens de l’art. 11, par. 4, al. a, sous-par. (v) de la Convention.
 
@@ -900,13 +993,19 @@ Je saisis cette occasion pour vous renouveler, Excellence, l’assurance de ma h
 <tr><td></td><td>Eveline Widmer-Schlumpf</td></tr>
 </table>
 
-Echange de lettres**[^annex21-lvlu2-15]**
+[^annex21-lvlu3-3]: Traduction du texte original anglais.
+[^annex21-lvlu3-4]: [RS 0.672.946.31](https://fedlex.data.admin.ch/eli/cc/1971/1720_1725_1725)
+[^annex21-lvlu3-5]: [RO 2011 6381](https://fedlex.data.admin.ch/eli/oc/2011/891)
 
-entre le Conseil fédéral suisse et le Gouvernement du Japon concernant la Convention entre la Suisse et le Japon en vue d’éviter les doubles impositions en matière d’impôts sur le revenu, signée à Tokyo le 19 janvier 1971, dans sa version conforme au protocole signé à Berne le 21 mai 2010
+## Échange de lettres entre le Conseil fédéral suisse et le Gouvernement du Japon concernant la Convention entre la Suisse et le Japon en vue d’éviter les doubles impositions en matière d’impôts sur le revenu, signée à Tokyo le 19 janvier 1971, dans sa version conforme au protocole signé à Berne le 21 mai 2010
+
+[^annex21-lvlu4-1]
+
+[^annex21-lvlu4-1]: [RO 2012 6269](https://fedlex.data.admin.ch/eli/oc/2012/738)
 
 Conclu le 7 septembre 2012 Entré en vigueur le 7 septembre 2012
 
-Traduction*[^annex21-lvlu2-16]*
+Traduction[^annex21-lvlu4-2]
 
 <table>
 <tr><td>Kazuyoshi Umemoto Ambassadeur du Japon en Suisse Berne</td><td>Berne, le 7 septembre 2012</td></tr>
@@ -917,9 +1016,9 @@ Madame la Présidente,
 
 J’ai l’honneur d’accuser réception de votre lettre de ce jour dont la teneur est la suivante:
 
-«Me référant à la Convention entre la Suisse et le Japon en vue d’éviter les doubles impositions en matière d’impôts sur le revenu[^annex21-lvlu2-17], signée à Tokyo le 19 janvier 1971, dans sa version conforme au protocole[^annex21-lvlu2-18] signé à Berne le 21 mai 2010 (désignée ci‑après par «Convention»), ainsi qu’au protocole signé à Berne le 21 mai 2010, qui fait partie intégrante de la convention (désigné ci-après par «protocole»), j’ai l’honneur de vous confirmer, au nom du Conseil fédéral suisse, l’accord suivant entre les deux gouvernements:
+«Me référant à la Convention entre la Suisse et le Japon en vue d’éviter les doubles impositions en matière d’impôts sur le revenu[^annex21-lvlu4-3], signée à Tokyo le 19 janvier 1971, dans sa version conforme au protocole[^annex21-lvlu4-4] signé à Berne le 21 mai 2010 (désignée ci‑après par «Convention»), ainsi qu’au protocole signé à Berne le 21 mai 2010, qui fait partie intégrante de la convention (désigné ci-après par «protocole»), j’ai l’honneur de vous confirmer, au nom du Conseil fédéral suisse, l’accord suivant entre les deux gouvernements:
 
-Concernant le par. 5, let. c, du protocole, il est entendu qu’une demande d’assistance administrative doit aussi être satisfaite lorsque le détenteur présumé de renseignements peut être identifié au moyen d’autres données fournies par l’Etat requérant en plus des informations requises selon le par. 5, let. c, points (i) à (iv) du protocole.
+Concernant le par. 5, let. c, du protocole, il est entendu qu’une demande d’assistance administrative doit aussi être satisfaite lorsque le détenteur présumé de renseignements peut être identifié au moyen d’autres données fournies par l’État requérant en plus des informations requises selon le par. 5, let. c, points (i) à (iv) du protocole.
 
 J’ai l’honneur de vous proposer que la présente note et la réponse de Votre Excellence, qui confirme l’accord qui précède au nom du gouvernement japonais, soient considérées comme un accord entre nos deux gouvernements, qui entre en vigueur le jour de la réponse de Votre Excellence et s’applique à partir du 1<sup>er</sup> janvier 2012.»
 
@@ -931,20 +1030,42 @@ Je saisis cette occasion pour vous renouveler, Madame la Présidente, l’assura
 <tr><td></td><td>Kazuyoshi Umemoto</td></tr>
 </table>
 
-[^annex21-lvlu2-2]: [RO 2011 6381](https://fedlex.data.admin.ch/eli/oc/2011/891)[6379](https://fedlex.data.admin.ch/eli/oc/2011/890); [FF 2010 5377](https://fedlex.data.admin.ch/eli/fga/2010/1051)
-[^annex21-lvlu2-3]: Traduction du texte original anglais.
-[^annex21-lvlu2-4]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^annex21-lvlu2-5]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
-[^annex21-lvlu2-6]: [RS 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
-[^annex21-lvlu2-7]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
-[^annex21-lvlu2-8]: [RO 2012 4475](https://fedlex.data.admin.ch/eli/oc/2012/521)
-[^annex21-lvlu2-9]: Traduction du texte original anglais.
-[^annex21-lvlu2-10]: [RO 2011 6381](https://fedlex.data.admin.ch/eli/oc/2011/891)
-[^annex21-lvlu2-11]: [RO 2012 6267](https://fedlex.data.admin.ch/eli/oc/2012/737)
-[^annex21-lvlu2-12]: Traduction du texte original anglais.
-[^annex21-lvlu2-13]: [RS 0.672.946.31](https://fedlex.data.admin.ch/eli/cc/1971/1720_1725_1725)
-[^annex21-lvlu2-14]: [RO 2011 6381](https://fedlex.data.admin.ch/eli/oc/2011/891)
-[^annex21-lvlu2-15]: [RO 2012 6269](https://fedlex.data.admin.ch/eli/oc/2012/738)
-[^annex21-lvlu2-16]: Traduction du texte original anglais.
-[^annex21-lvlu2-17]: [RS 0.672.946.31](https://fedlex.data.admin.ch/eli/cc/1971/1720_1725_1725)
-[^annex21-lvlu2-18]: [RO 2011 6381](https://fedlex.data.admin.ch/eli/oc/2011/891)
+[^annex21-lvlu4-2]: Traduction du texte original anglais.
+[^annex21-lvlu4-3]: [RS 0.672.946.31](https://fedlex.data.admin.ch/eli/cc/1971/1720_1725_1725)
+[^annex21-lvlu4-4]: [RO 2011 6381](https://fedlex.data.admin.ch/eli/oc/2011/891)
+
+## Échange de lettres du 16 juillet 2021 entre le Conseil fédéral suisse et le Gouvernement du Japon concernant la Convention en vue d’éviter les doubles impositions en matière d’impôts sur le revenu, signée à Tokyo le 19 janvier 1971, modifiée par le protocole signé à Berne ce jour
+
+[^annex21-lvlu5-1]
+
+[^annex21-lvlu5-1]: [RO 2022 686](https://fedlex.data.admin.ch/eli/oc/2022/686)
+
+Entré en vigueur le 30 novembre 2022
+
+Traduction
+
+<table>
+<tr><td>Kojiro Shiraishi Ambassadeur extraordinaire et plénipotentiaire du Japon en Suisse</td><td>Berne, le 16 juillet 2021</td></tr>
+</table>
+
+Votre Excellence
+
+J’ai l’honneur d’accuser réception de votre lettre de ce jour dont la teneur est la suivante:
+
+«J’ai l’honneur de me référer au Protocole signé ce jour («le Protocole de 2021»), à la Convention entre la Suisse et le Japon en vue d’éviter les doubles impositions en matière d’impôts sur le revenu, signée à Tokyo le 19 janvier 1971, telle que modifiée par le Protocole signé à Berne le 21 mai 2010 et par le Protocole de 2021 («la Convention»), et à l’accord convenu dans le cadre de l’échange de lettres du 21 mai 2010 entre le Conseil fédéral suisse et le Gouvernement du Japon concernant l’imposition («les Lettres de 2010»), et de soumettre, au nom du Gouvernement du Japon, les propositions suivantes:
+
+\1. Les dispositions du par. 2 des Lettres de 2010 cessent d’être applicables à l’égard des impôts auxquels le Protocole de 2021 est applicable conformément aux dispositions du par. 2 de son art. 19.
+
+\2. En référence à la lettre b du par. 12 de l’art. 25 de la Convention:
+
+Il est entendu qu’une modification de bénéfices dans les circonstances visées au par. 1 de l’art. 9 de la Convention concernant des actifs incorporels difficiles à valoriser se réfère à une telle modification de bénéfices effectuée conformément au Chapitre VI D.4 des Principes de l’OCDE applicables en matière de prix de transfert à l’intention des entreprises multinationales et des administrations fiscales de juillet 2017 ou des mises à jour de ces principes.
+
+Dans la mesure où le Conseil fédéral suisse approuve les propositions formulées ci-devant, j’ai l’honneur de proposer que la présente lettre et la réponse de Votre Excellence soient considérées comme un accord entre les deux gouvernements qui entrera en vigueur à la date de l’entrée en vigueur du Protocole de 2021.»
+
+Le Conseil fédéral suisse approuve les propositions formulées ci-dessus. J’ai l’honneur de vous confirmer que votre lettre ainsi que la présente lettre constituent un accord entre nos gouvernements qui entrera en vigueur à la même date que le Protocole signé ce jour.
+
+Je saisis cette occasion pour renouveler à Votre Excellence l’assurance de ma haute considération.
+
+<table>
+<tr><td></td><td>Stefan Flückiger Ambassadeur Secrétaire d’État adjoint aux questions financières internationales</td></tr>
+</table>
