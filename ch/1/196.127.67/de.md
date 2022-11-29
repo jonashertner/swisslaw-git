@@ -3,11 +3,11 @@ sr: "196.127.67"
 title: Verordnung vom 25. Mai 2016 über die Sperrung von Vermögenswerten im Zusammenhang mit der Ukraine (Ukraine-Verordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/325"
 language: de
-version: 2022-09-15
+version: 2022-11-30
 adopted: 2016-05-25
 in_force: 2016-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/325/20220915/de/xml/fedlex-data-admin-ch-eli-cc-2016-325-20220915-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/325/20220915/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/325/20221130/de/xml/fedlex-data-admin-ch-eli-cc-2016-325-20221130-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/325/20221130/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/325/20220915/de"
 
 (Ukraine-Verordnung)
 
-vom 25. Mai 2016 (Stand am 15. September 2022)
+vom 25. Mai 2016 (Stand am 30. November 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -79,7 +79,7 @@ Anhang[^t-1]
 
 ## Ausländische politisch exponierte Personen und ihnen nahestehende Personen, deren Vermögenswerte nach Artikel 1 gesperrt sind
 
-[^t-1]: Bereinigt gemäss Ziff. I der V des EDA vom 27. Juli 2016 ([AS 2016 2929](https://fedlex.data.admin.ch/eli/oc/2016/485)), der Berichtigung vom 22. Nov. 2016 ([AS 2016 4141](https://fedlex.data.admin.ch/eli/oc/2016/683)), Ziff. I der V des EDA vom 21. Dez. 2016 ([AS 2017 603](https://fedlex.data.admin.ch/eli/oc/2017/102)), vom 16. Jan. 2018 ([AS 2018 565](https://fedlex.data.admin.ch/eli/oc/2018/75)), vom 12. Febr. 2019 ([AS 2019 623](https://fedlex.data.admin.ch/eli/oc/2019/110)), vom 20. Sept. 2019 ([AS 2019 2955](https://fedlex.data.admin.ch/eli/oc/2019/539)), vom 3. März 2020 ([AS 2020 709](https://fedlex.data.admin.ch/eli/oc/2020/129)), vom 27. Nov. 2020 ([AS 2020 5909](https://fedlex.data.admin.ch/eli/oc/2020/992)), vom 8. Dez. 2021 ([AS 2021 854](https://fedlex.data.admin.ch/eli/oc/2021/854)) und vom 29. Aug. 2022, in Kraft seit 15. Sept. 2022 (AS **202****2** 495).
+[^t-1]: Bereinigt gemäss Ziff. I der V des EDA vom 27. Juli 2016 ([AS 2016 2929](https://fedlex.data.admin.ch/eli/oc/2016/485)), der Berichtigung vom 22. Nov. 2016 ([AS 2016 4141](https://fedlex.data.admin.ch/eli/oc/2016/683)), Ziff. I der V des EDA vom 21. Dez. 2016 ([AS 2017 603](https://fedlex.data.admin.ch/eli/oc/2017/102)), vom 16. Jan. 2018 ([AS 2018 565](https://fedlex.data.admin.ch/eli/oc/2018/75)), vom 12. Febr. 2019 ([AS 2019 623](https://fedlex.data.admin.ch/eli/oc/2019/110)), vom 20. Sept. 2019 ([AS 2019 2955](https://fedlex.data.admin.ch/eli/oc/2019/539)), vom 3. März 2020 ([AS 2020 709](https://fedlex.data.admin.ch/eli/oc/2020/129)), vom 27. Nov. 2020 ([AS 2020 5909](https://fedlex.data.admin.ch/eli/oc/2020/992)), vom 8. Dez. 2021 ([AS 2021 854](https://fedlex.data.admin.ch/eli/oc/2021/854)), vom 29. Aug. 2022 ([AS 2022 495](https://fedlex.data.admin.ch/eli/oc/2022/495)) und vom 16. Nov. 2022, in Kraft seit 30. Nov. 2022 ([AS 2022 709](https://fedlex.data.admin.ch/eli/oc/2022/709)).
 
 *Mykola (Nikolai) Yanovych AZAROV (geboren als Nikolai Yanovich Pakhlo),* geboren am 17. Dezember 1947, Premierminister bis Januar 2014
 
@@ -88,8 +88,6 @@ Anhang[^t-1]
 *Oleksandr (Aleksandr) Viktorovych YANUKOVYCH,* geboren am 10. Juli 1973, Sohn des ehemaligen Präsidenten, Geschäftsmann
 
 *Viktor Fedorovych YANUKOVYCH,* geboren am 9. Juli 1950, ehemaliger Präsident
-
-*Oleksandr (Aleksandr) Serhiyovych YEFREMOV,* geboren am 22. August 1954, Fraktionschef der Partei der Regionen
 
 *Vitaliy Yuriyovych ZAKHARCHENKO,* geboren am 20. Januar 1963, ehemaliger Innenminister
 

@@ -3,11 +3,11 @@ sr: "196.127.67"
 title: "Ordonnance du 25 mai 2016 de blocage de valeurs patrimoniales dans le contexte de l'Ukraine (O-Ukraine)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/325"
 language: fr
-version: 2022-09-15
+version: 2022-11-30
 adopted: 2016-05-25
 in_force: 2016-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/325/20220915/fr/xml/fedlex-data-admin-ch-eli-cc-2016-325-20220915-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/325/20220915/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/325/20221130/fr/xml/fedlex-data-admin-ch-eli-cc-2016-325-20221130-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/325/20221130/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/325/20220915/fr"
 
 (O-Ukraine)
 
-du 25 mai 2016 (État le 15 septembre 2022)
+du 25 mai 2016 (État le 30 novembre 2022)
 
 Le Conseil fédéral suisse,
 
@@ -79,7 +79,7 @@ Annexe[^t-1]
 
 ## Personnes politiquement exposées à l’étranger et proches dont les valeurs patrimoniales font l’objet d’un blocage en vertu de l’art. 1
 
-[^t-1]: Mise à jour par le ch. I de l’O du DFAE du 27 juil. 2016 ([RO 2016 2929](https://fedlex.data.admin.ch/eli/oc/2016/485)), l’erratum du 22 nov. 2016 ([RO 2016 4141](https://fedlex.data.admin.ch/eli/oc/2016/683)), le ch. I des O du DFAE du 21 déc. 2017 ([RO 2017 603](https://fedlex.data.admin.ch/eli/oc/2017/102)), du 16 janv. 2018 ([RO 2018 565](https://fedlex.data.admin.ch/eli/oc/2018/75)), du 12 fév. 2019 ([RO 2019 623](https://fedlex.data.admin.ch/eli/oc/2019/110)), du 20 sept. 2019 ([RO 2019 2955](https://fedlex.data.admin.ch/eli/oc/2019/539)), du 3 mars 2020 ([RO 2020 709](https://fedlex.data.admin.ch/eli/oc/2020/129)), du 27 nov. 2020 ([RO 2020 5909](https://fedlex.data.admin.ch/eli/oc/2020/992)), du 8 déc. 2021 ([RO 2021 854](https://fedlex.data.admin.ch/eli/oc/2021/854)) et du 29 août 2022, en vigueur depuis le 15 sept. 2022 ([RO 2022 495](https://fedlex.data.admin.ch/eli/oc/2022/495)).
+[^t-1]: Mise à jour par le ch. I de l’O du DFAE du 27 juil. 2016 ([RO 2016 2929](https://fedlex.data.admin.ch/eli/oc/2016/485)), l’erratum du 22 nov. 2016 ([RO 2016 4141](https://fedlex.data.admin.ch/eli/oc/2016/683)), le ch. I des O du DFAE du 21 déc. 2017 ([RO 2017 603](https://fedlex.data.admin.ch/eli/oc/2017/102)), du 16 janv. 2018 ([RO 2018 565](https://fedlex.data.admin.ch/eli/oc/2018/75)), du 12 fév. 2019 ([RO 2019 623](https://fedlex.data.admin.ch/eli/oc/2019/110)), du 20 sept. 2019 ([RO 2019 2955](https://fedlex.data.admin.ch/eli/oc/2019/539)), du 3 mars 2020 ([RO 2020 709](https://fedlex.data.admin.ch/eli/oc/2020/129)), du 27 nov. 2020 ([RO 2020 5909](https://fedlex.data.admin.ch/eli/oc/2020/992)), du 8 déc. 2021 ([RO 2021 854](https://fedlex.data.admin.ch/eli/oc/2021/854)), du 29 août 2022 ([RO 2022 495](https://fedlex.data.admin.ch/eli/oc/2022/495)) et du 16 nov. 2022, en vigueur depuis le 30 nov. 2022 ([RO 2022 709](https://fedlex.data.admin.ch/eli/oc/2022/709)).
 
 *Mykola (Nikolai) Yanovych AZAROV (né Nikolai Yanovich Pakhlo),* né le 17 décembre 1947, Premier Ministre jusqu’en janvier 2014
 
@@ -88,8 +88,6 @@ Annexe[^t-1]
 *Oleksandr (Aleksandr) Viktorovych YANUKOVYCH,* né le 10 juillet 1973, fils de l’ancien Président, homme d’affaires
 
 *Viktor Fedorovych YANUKOVYCH,* né le 9 juillet 1950, ancien Président
-
-*Oleksandr (Aleksandr) Serhiyovych YEFREMOV,* né le 22 août 1954, Chef du groupe politique du parti des régions
 
 *Vitaliy Yuriyovych ZAKHARCHENKO,* né le 20 janvier 1963, ancien Ministre de l’intérieur
 
