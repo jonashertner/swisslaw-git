@@ -1,0 +1,52 @@
+---
+status: "beschlossen, noch nicht in Kraft"
+reference: AS 2022 740
+title: Ordinanza dell’UFCOM sui servizi di telecomunicazione e gli elementi d’indirizzo
+language: it
+adopted: 2022-11-23
+published: 2022-11-30
+in_force: ["2023-01-01"]
+url: "https://www.fedlex.admin.ch/eli/oc/2022/740/it"
+---
+
+> Riproduzione non ufficiale della Raccolta ufficiale (RU). L’atto è pubblicato ma non ancora in vigore; fa stato la pubblicazione nella RU (art. 15 LPubb, RS 170.512).
+
+# Ordinanza dell’UFCOM sui servizi di telecomunicazione e gli elementi d’indirizzo
+
+Modifica del 23 novembre 2022
+
+L’Ufficio federale delle comunicazioni (UFCOM)
+
+ordina:
+
+## I
+
+L’allegato 1 dell’ordinanza dell’UFCOM del 9 dicembre 1997[^lvlI-1] sui servizi di telecomunicazione e gli elementi d’indirizzo è modificato secondo la versione qui annessa.
+
+[^lvlI-1]: [RS 784.101.113](https://fedlex.data.admin.ch/eli/cc/1998/480_480_480)
+
+## II
+
+La presente ordinanza entra in vigore il 1° gennaio 2023.
+
+<table>
+<tr><td>23 novembre 2022</td><td>Ufficio federale delle comunicazioni: Bernard Maissen</td></tr>
+</table>
+
+Allegato 1
+
+(art. 1)
+
+Nota a piè di pagina nel titolo
+
+## Prescrizioni tecniche e amministrative relative ai servizi di telecomunicazione
+
+[^annex1-lvlu1-1]
+
+[^annex1-lvlu1-1]: Il contenuto delle prescrizioni tecniche e amministrative è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo www.ufcom.admin.ch &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+
+N. 8, 12 e 13
+
+- 8\. Prescrizioni tecniche e amministrative relative alla segnalazione di interferenze sulle reti (2<sup>a</sup> edizione)
+- 12\. Prescrizioni tecniche e amministrative relative a manipolazioni non autorizzate di impianti di telecomunicazione commesse con trasmissione mediante telecomunicazione (1<sup>a</sup> edizione)
+- 13\. Prescrizioni tecniche e amministrative relative alla sicurezza delle reti e dei servizi esercitati dai concessionari di radiocomunicazione mobile (1<sup>a</sup> edizione)
