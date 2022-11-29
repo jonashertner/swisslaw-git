@@ -4,13 +4,13 @@ number: "131.11"
 title: Geschäftsreglement des Kantonsrates
 short: GeschKR
 language: de
-version: 2022-06-01
-valid_until: 2022-11-29
-version_adopted: 2021-12-01
+version: 2022-11-30
+valid_until: 2023-06-30
+version_adopted: 2022-11-30
 adopted: 1979-10-24
 in_force: 1980-05-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/131.11"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3303/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3411/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3303/pdf_file"
 
 (GeschKR)
 
-vom 24.10.1979 (Stand 01.06.2022)
+vom 24.10.1979 (Stand 30.11.2022)
 
 Der Grosse Rat des Kantons St.Gallen
 
@@ -929,7 +929,15 @@ als Reglement:[^ingress-7]
 
 **Sessionen a) ordentliche**
 
-<sup>1</sup> Der Kantonsrat versammelt sich zu ordentlichen Sessionen in der Regel im Juni, im September, im November, im Februar und im April.
+<sup>1</sup> Der Kantonsrat versammelt sich viermal jährlich zu ordentlichen Sessionen, im letzten Jahr der Amtsdauer zusätzlich zu einer Aufräumsession.
+
+<sup>1<sup>bis</sup></sup> Die ordentlichen Sessionen finden in der Regel wie folgt statt:
+
+- a) Frühjahrssession: Anfang März;
+- b) Sommersession: Anfang Juni;
+- c) Herbstsession: Mitte September;
+- d) Wintersession: Anfang Dezember;
+- e) Aufräumsession: Anfang Mai.
 
 <sup>2</sup> Das Präsidium legt auf wenigstens vier Jahre fest, wann die ordentlichen Sessionen beginnen.
 
@@ -961,17 +969,17 @@ als Reglement:[^ingress-7]
 
 <sup>1</sup> Die Session dauert höchstens drei Tage.
 
-<sup>2</sup> Das Präsidium gibt die Sessionsdauer frühzeitig, spätestens mit dem Geschäftsverzeichnis bekannt.
+<sup>2</sup> Das Präsidium gibt spätestens an der Session die maximale Dauer der nächsten Session bekannt.
 
 #### Art. 72
 
 **Sitzungen a) Dauer**
 
-<sup>1</sup> Die erste Sitzung der Session beginnt am Montag um 14.15 Uhr und dauert bis 18.00 Uhr. Zur ersten Sitzung einer Amtsdauer versammelt sich der Kantonsrat um 10.00 Uhr, um die Rechtspflegekommission zu bestellen.
+<sup>1</sup> Die erste Sitzung der Session beginnt am Montag um 14.00 Uhr und dauert bis 18.00 Uhr. Zur ersten Sitzung einer Amtsdauer versammelt sich der Kantonsrat um 10.00 Uhr, um die Rechtspflegekommission zu bestellen.
 
-<sup>2</sup> An den folgenden Tagen beginnen die Sitzungen um 08.30 Uhr und dauern bis 17.00 Uhr. Sie können durch Pausen unterbrochen werden.
+<sup>2</sup> An den folgenden Tagen beginnen die Sitzungen um 08.30 Uhr und dauern bis 17.00 Uhr, ausgenommen vom Präsidium verkürzte Sitzungen. Die Sitzungen können durch Pausen unterbrochen werden.
 
-<sup>3</sup> Der Präsident kann die Sitzung um höchstens eine Stunde verlängern. Der Rat kann weitere Verlängerungen und zusätzliche Sitzungen beschliessen.
+<sup>3</sup> Der Rat kann Verlängerungen und zusätzliche Sitzungen beschliessen.
 
 <sup>4</sup> Eine halbe Stunde vor Beginn der Sitzung wird mit einer Glocke der Kathedrale geläutet.
 
@@ -1892,7 +1900,7 @@ als Reglement:[^ingress-7]
 - a) ausserhalb der Sitzungstage des Kantonsrates;
 - b) an einem Sitzungstag des Kantonsrates.
 
-<sup>2</sup> Sie werden für eine Fort- und Weiterbildung der Fraktion von einem Tag je Jahr entschädigt.
+<sup>2</sup> Sie werden für eine Fort- und Weiterbildung der Fraktion von einem Tag sowie eine zusätzliche Fraktionssitzung je Jahr entschädigt.
 
 <sup>3</sup> Zur Vorbereitung der Beratung anspruchsvoller Vorlagen kann das Präsidium die Ausrichtung der Entschädigung für eine zusätzliche Fraktionssitzung beschliessen.
 
