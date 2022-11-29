@@ -5,40 +5,34 @@ title: Gesetz zur Erhaltung und Förderung der Gesundheit
 short: "Gesundheitsgesetz, GesG"
 language: de
 version: 2020-01-01
-valid_until: 2024-06-30
+corrected: 2022-11-30
 version_adopted: 2019-09-25
 adopted: 2007-05-30
 in_force: 2009-03-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/711.1"
-pdf: "https://gesetze.nw.ch/api/de/versions/1067/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/267/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Gesetz zur Erhaltung und Förderung der Gesundheit
+# Gesetz zur Erhaltung und Förderung der Gesundheit (Gesundheitsgesetz, GesG)
 
-(Gesundheitsgesetz, GesG)
-
-vom 30.05.2007 (Stand 01.01.2020)
+vom 30. Mai 2007[^t-1]
 
 Der Landrat von Nidwalden,
 
-gestützt auf Art. 28 und 60 der Kantonsverfassung, in Ausführung des Bundesgesetzes vom 23. Juni 2006 über die universitären Medizinalberufe (Medizinalberufegesetz, MedBG)[^ingress-1], des Bundesgesetzes vom 18. März 2011 über die Psychologieberufe (Psychologieberufegesetz, PsyG)[^ingress-2], des Bundesgesetzes vom 30. September 2016 über die Gesundheitsberufe (Gesundheitsberufegesetz, GesBG)[^ingress-3], des Bundesgesetzes vom 18. März 1994 über die Krankenversicherung (KVG)[^ingress-4], des Bundesgesetzes vom 30. September 2011 über die Forschung am Menschen (Humanforschungsgesetz, HFG)[^ingress-5], des Bundesgesetzes vom 8. Oktober 2004 über die Transplantation von Organen, Geweben und Zellen (Transplantationsgesetz)[^ingress-6], des Bundesgesetzes vom 19. Juni 2015 über das elektronische Patientendossier (EPDG)[^ingress-7], des Bundesgesetzes vom 18. März 2016 über die Registrierung von Krebserkrankungen (Krebsregistrierungsgesetz, KRG)[^ingress-8], des Bundesgesetzes vom 28. September 2012 über die Bekämpfung übertragbarer Krankheiten des Menschen (Epidemiengesetz, EpG)[^ingress-9] und des Bundesgesetzes vom 15. Dezember 2000 über Arzneimittel und Medizinprodukte (Heilmittelgesetz, HMG)[^ingress-10],
+gestützt auf Art. 28 und 60 der Kantonsverfassung, in Ausführung des Bundesgesetzes vom 23. Juni 2006 über die universitären Medizinalberufe (Medizinalberufegesetz, MedBG)[^t-2], des Bundesgesetzes vom 18. März 2011 über die Psychologieberufe (Psychologieberufegesetz, PsyG)<sup>32</sup>, des Bundesgesetzes vom 30. September 2016 über die Gesundheitsberufe (Gesundheitsberufegesetz, GesBG)<sup>33</sup>, des Bundesgesetzes vom 18. März 1994 über die Krankenversicherung (KVG)[^t-3], des Bundesgesetzes vom 30. September 2011 über die Forschung am Menschen (Humanforschungsgesetz, HFG)<sup>28</sup>, des Bundesgesetzes vom 8. Oktober 2004 über die Transplantation von Organen, Geweben und Zellen (Transplantationsgesetz)<sup>27</sup>, des Bundesgesetzes vom 19. Juni 2015 über das elektronische Patientendossier (EPDG)<sup>34</sup>, des Bundesgesetzes vom 18. März 2016 über die Registrierung von Krebserkrankungen (Krebsregistrierungsgesetz, KRG)<sup>35</sup>, des Bundesgesetzes vom 28. September 2012 über die Bekämpfung übertragbarer Krankheiten des Menschen (Epidemiengesetz, EpG)[^t-4] und des Bundesgesetzes vom 15. Dezember 2000 über Arzneimittel und Medizinprodukte (Heilmittelgesetz, HMG)[^t-5],<sup>31</sup>
 
 beschliesst:
 
-[^ingress-1]: SR 811.11
-[^ingress-2]: SR 935.81
-[^ingress-3]: SR 811.21
-[^ingress-4]: SR 832.10
-[^ingress-5]: SR 810.30
-[^ingress-6]: SR 810.21
-[^ingress-7]: SR 816.1
-[^ingress-8]: SR 818.33
-[^ingress-9]: SR 818.101
-[^ingress-10]: SR 812.21
+[^t-1]: A 2007, 889; Volksabstimmung vom 28. September 2008, A 2008, 1943, 1944, 2127; A 2009, 199; Datum des Inkrafttretens: 1. März 2009
+[^t-2]: SR 811.11
+[^t-3]: SR 832.10
+[^t-4]: SR 818.101
+[^t-5]: SR 812.21
 
-## 1 Allgemeine Bestimmungen
+### I. ALLGEMEINE BESTIMMUNGEN
 
 #### Art. 1
 
@@ -55,47 +49,62 @@ beschliesst:
 <sup>1</sup> Dieses Gesetz regelt:
 
 - 1\. die Organisation und Zuständigkeit von Kanton und Gemeinden im Gesundheitswesen;
+
 - 2\. die Berufe im Gesundheitswesen;
+
 - 3\. die Institutionen im Gesundheitswesen;
-- 4\. die Patientenrechte und ‑pflichten;
+
+- 4\. die Patientenrechte und –pflichten;
+
 - 5\. die Gesundheitsförderung und Prävention;
+
 - 6\. die Krankheitsbekämpfung;
+
 - 7\. die Kontrolle und das Inverkehrbringen der Heilmittel.
 
 <sup>2</sup> Vorbehalten bleiben die Bestimmungen zum Gesundheitswesen in anderen kantonalen Erlassen sowie im interkantonalen, eidgenössischen und internationalen Recht.
 
-## 2 Organisation und Zuständigkeit
+### II. ORGANISATION UND ZUSTÄNDIGKEIT
 
-### 2.1 Kanton
+### A. Kanton
 
 #### Art. 3
 
 **Instanzen auf kantonaler Ebene**
 
-<sup>1</sup> Die Gesundheitsgesetzgebung wird beim Kanton insbesondere von folgenden Instanzen vollzogen:
+Die Gesundheitsgesetzgebung wird beim Kanton insbesondere von folgenden Instanzen vollzogen:
 
 - 1\. Regierungsrat;
+
 - 2\. Direktion;
+
 - 3\. Amt;
+
 - 4\. Kantonsärztin oder Kantonsarzt;
-- 4a. Kantonszahnärztin oder Kantonszahnarzt;
+
+4a.<sup>26</sup>Kantonszahnärztin oder Kantonszahnarzt;
+
 - 5\. Kantonsapothekerin oder Kantonsapotheker;
+
 - 6\. Kantonstierärztin oder Kantonstierarzt;
+
 - 7\. Kantonschemikerin oder Kantonschemiker;
+
 - 8\. Fachstelle für Gesundheitsförderung und Prävention;
+
 - 9\. Ethikkommission.
 
 #### Art. 4
 
 **Regierungsrat**
 
-<sup>1</sup> Das öffentliche Gesundheitswesen steht unter der Aufsicht des Regierungsrates.
+Das öffentliche Gesundheitswesen steht unter der Aufsicht des Regierungsrates.
 
 #### Art. 5
 
 **Direktion**
 
-<sup>1</sup> Die Direktion leitet, koordiniert und überwacht im Rahmen der eidgenössischen und kantonalen Gesetzgebung das öffentliche Gesundheitswesen. Sie vollzieht internationale und interkantonale Vereinbarungen.
+<sup>1</sup> Die Direktion leitet, koordiniert und überwacht im Rahmen der eidgenössischen und kantonalen Gesetzgebung das öffentliche Gesundheitswesen. Sie vollzieht internationale und interkantonale Vereinbarungen.<sup>26</sup>
 
 <sup>2</sup> Sie ist für alle Massnahmen, Verfügungen und Entscheide auf dem Gebiet des Gesundheitswesens zuständig, die nicht ausdrücklich einer anderen Instanz übertragen sind.
 
@@ -111,61 +120,69 @@ beschliesst:
 
 **Kantonsärztin oder Kantonsarzt**
 
-<sup>1</sup> Die Kantonsärztin oder der Kantonsarzt unterstützt die Direktion in humanmedizinischen Fragen und hat insbesondere:
+Die Kantonsärztin oder der Kantonsarzt unterstützt die Direktion in humanmedizinischen Fragen und hat insbesondere:
 
 - 1\. Massnahmen gegen übertragbare und andere Krankheiten zu ergreifen oder anzuordnen;
+
 - 2\. die Gesundheitsbehörden der Gemeinden in humanmedizinischen Belangen zu unterstützen und zu beraten;
+
 - 3\. das Amt bei der Überwachung der Berufsausübung zu unterstützen;
+
 - 4\. Massnahmen zur Sicherung der Gesundheitsförderung und Prävention zu unterstützen;
+
 - 5\. die Aufgaben im Rahmen des schulärztlichen Dienstes gemäss der Volksschulgesetzgebung[^7-1] zu erfüllen;
+
 - 6\. die amtsärztlichen Aufgaben zu Gunsten der Untersuchungs- und Gerichtsbehörden zu erfüllen.
 
 [^7-1]: NG 312.1, 312.11
 
 #### Art. 7a
 
-**Kantonszahnärztin oder Kantonszahnarzt**
+**Kantonszahnärztin oder Kantonszahnarzt<sup>26</sup>**
 
-<sup>1</sup> Die Kantonszahnärztin oder der Kantonszahnarzt unterstützt die Direktion in zahnmedizinischen Fragen und hat insbesondere die folgenden Aufgaben:
+Die Kantonszahnärztin oder der Kantonszahnarzt unterstützt die Direktion in zahnmedizinischen Fragen und hat insbesondere die folgenden Aufgaben:
 
 - 1\. die Aufsicht über die Schulzahnpflege;
+
 - 2\. die Begutachtung von zahnärztlichen Behandlungsvorschlägen bei Bezügerinnen und Bezügern von Ergänzungsleistungen oder wirtschaftlicher Sozialhilfe sowie bei Gefängnisinsassen;
+
 - 3\. die Unterstützung und Beratung der kommunalen Gesundheitsbehörden in zahnmedizinischen Belangen;
+
 - 4\. die Unterstützung des Amtes bei der Überwachung der Berufsausübung.
 
 #### Art. 8
 
 **Kantonsapothekerin oder Kantonsapotheker**
 
-<sup>1</sup> Die Kantonsapothekerin oder der Kantonsapotheker unterstützt die Direktion in pharmazeutischen Fragen und ist insbesondere zuständig für:
+Die Kantonsapothekerin oder der Kantonsapotheker unterstützt die Direktion in pharmazeutischen Fragen und ist insbesondere zuständig für:
 
 - 1\. die Heilmittelkontrolle mittels Betriebsinspektionen sowie Überwachung von Verkehr und Abgabe von Heilmitteln;
+
 - 2\. die Überprüfung der Berufsausübungen im Zusammenhang mit Heilmitteln.
 
 #### Art. 9
 
 **Kantonstierärztin oder Kantonstierarzt**
 
-<sup>1</sup> Die Kantonstierärztin oder der Kantonstierarzt unterstützt die Direktion in veterinärmedizinischen Fragen und ist insbesondere zuständig für:
+Die Kantonstierärztin oder der Kantonstierarzt unterstützt die Direktion in veterinärmedizinischen Fragen und ist insbesondere zuständig für:
 
 - 1\. die Aufsicht, Kontrolle und den Vollzug der Heilmittelgesetzgebung für den Tierarzneimittelbereich;
+
 - 2\. die Erteilung der Berufsausübungsbewilligung der Veterinärmedizinerinnen und Veterinärmediziner und anderer Berufe zur Gesundheitspflege am Tier.
 
 #### Art. 10
 
 **Kantonschemikerin oder Kantonschemiker**
 
-<sup>1</sup> Die Kantonschemikerin oder der Kantonschemiker unterstützt die Direktion insbesondere in Fragen betreffend Lebensmittel, Gebrauchsgegenstände und gefährliche Stoffe und nimmt die Aufgaben gemäss der kantonalen und eidgenössischen Gesetzgebung wahr.
+Die Kantonschemikerin oder der Kantonschemiker unterstützt die Direktion insbesondere in Fragen betreffend Lebensmittel, Gebrauchsgegenstände und gefährliche Stoffe und nimmt die Aufgaben gemäss der kantonalen und eidgenössischen Gesetzgebung wahr.
 
 #### Art. 10a
 
-**Ethikkommission**
+**Ethikkommission<sup>26</sup>**
 
-<sup>1</sup> Die Direktion ernennt gestützt auf Art. 54 HFG[^10a-1] eine Ethikkommission.
+<sup>1</sup> Die Direktion ernennt gestützt auf Art. 54 HFG<sup>28</sup> eine Ethikkommission.
 
 <sup>2</sup> Der Regierungsrat kann den Beitritt zu einer überregionalen Ethikkommission beschliessen. Dabei nimmt die Direktion die dem Kanton zugewiesenen Aufgaben wahr.
-
-[^10a-1]: SR 810.30
 
 #### Art. 11
 
@@ -185,26 +202,29 @@ beschliesst:
 
 #### Art. 12a
 
-**Gemeinwirtschaftliche Leistungen 1. Organisationen der Krankenpflege und Hilfe zu Hause**
+<sup>26</sup>Gemeinwirtschaftliche Leistungen
+
+### 1. Organisationen der Krankenpflege und Hilfe zu Hause
 
 <sup>1</sup> Der Kanton leistet Beiträge zur Sicherstellung der Grundversorgung mit Pflegeleistungen der Organisationen der Krankenpflege und Hilfe zu Hause auf dem gesamten Kantonsgebiet.
 
 <sup>2</sup> Er kann gestützt auf eine Leistungsvereinbarung mit einer oder mehreren Organisationen der Krankenpflege und Hilfe zu Hause Kosten für gemeinwirtschaftliche Leistungen übernehmen, insbesondere für:
 
 - 1\. den Zusatzweg bei Pflege von Personen in abgelegenen Gebieten durch Organisationen mit einer Behandlungspflicht;
+
 - 2\. die Bereitstellung eines 24-Stundendienstes;
+
 - 3\. die Gewährleistung eines Notfalldienstes;
+
 - 4\. Sicherstellung der Ausbildung.
 
 <sup>3</sup> Der Regierungsrat schliesst unter dem Vorbehalt der vom Landrat bewilligten Kredite die Leistungsvereinbarung ab.
 
-<sup>4</sup> Die Kosten für anerkannte Pflegeleistungen, die von Organisationen der Krankenpflege und Hilfe zu Hause erbracht werden und nicht in Zusammenhang mit der Erfüllung des Grundversorgungsauftrages stehen, sind durch die Pflegetaxe gemäss Art. 28f des kantonalen Krankenversicherungsgesetzes[^12a-1] gedeckt.
-
-[^12a-1]: NG 742.1
+<sup>4</sup> Die Kosten für anerkannte Pflegeleistungen, die von Organisationen der Krankenpflege und Hilfe zu Hause erbracht werden und nicht in Zusammenhang mit der Erfüllung des Grundversorgungsauftrages stehen, sind durch die Pflegetaxe gemäss Art. 28f des kantonalen Krankenversicherungsgesetzes<sup>20</sup> gedeckt.
 
 #### Art. 12b
 
-**2. psychiatrische Versorgung**
+**2. psychiatrische Versorgung<sup>26</sup>**
 
 <sup>1</sup> Der Kanton kann zur Sicherstellung der psychiatrischen Versorgung gestützt auf eine Leistungsvereinbarung Kosten für gemeinwirtschaftliche Leistungen übernehmen.
 
@@ -212,7 +232,9 @@ beschliesst:
 
 #### Art. 12c
 
-**Kantonale Massnahmen 1. Sicherstellung der medizinischen Grundversorgung**
+**Kantonale Massnahmen<sup>31</sup>**
+
+### 1. Sicherstellung der medizinischen Grundversorgung
 
 <sup>1</sup> Der Kanton kann den Aufbau und Betrieb ambulanter medizinischer Einrichtungen mit Beiträgen oder anderen geeigneten Massnahmen unterstützen, wenn die ambulante medizinische Grundversorgung der Bevölkerung nicht hinreichend gewährleistet ist.
 
@@ -225,6 +247,7 @@ beschliesst:
 <sup>1</sup> Der Kanton kann befristet Projekte unterstützen, wenn sie:
 
 - 1\. Massnahmen vorsehen, die voraussichtlich geeignet sind, kostendämpfend oder kostensenkend auf die Gesundheitskosten einzuwirken; und
+
 - 2\. sachlich hinreichend umschrieben sowie begründet sind.
 
 <sup>2</sup> Die Projekte sind mit einem Bericht abzuschliessen, der insbesondere die Wirkung der Massnahmen aufzeigt.
@@ -237,13 +260,15 @@ beschliesst:
 
 <sup>1</sup> Der Kanton kann für die Pflege von Angehörigen zu Hause Entlastungsangebote sowie Informations- und Anlaufstellen mit Beiträgen oder anderen geeigneten Massnahmen unterstützen.
 
-<sup>2</sup> Der Regierungsrat entscheidet im Rahmen der bewilligten Kredite über die Unterstützung; er kann mit Dritten Leistungsvereinbarungen abschliessen.
+Der Regierungsrat entscheidet im Rahmen der bewilligten Kredite über die Unterstützung; er kann mit Dritten Leistungsvereinbarungen abschliessen.
 
-### 2.2 Gemeinden
+### B. Gemeinden
 
 #### Art. 13
 
-**Politische Gemeinden 1. Gesundheitsbehörde**
+**Politische Gemeinden**
+
+### 1. Gesundheitsbehörde
 
 <sup>1</sup> Der Gemeinderat ist die örtliche Gesundheitsbehörde.
 
@@ -253,14 +278,20 @@ beschliesst:
 
 **2. Aufgaben**
 
-<sup>1</sup> Die politischen Gemeinden haben insbesondere folgende Aufgaben:
+Die politischen Gemeinden haben insbesondere folgende Aufgaben:
 
 - 1\. Schutz der Wohnbevölkerung vor Gesundheitsgefährdungen;
+
 - 2\. Anordnung von Massnahmen gegen gesundheitsschädliche Immissionen;
+
 - 3\. Ausführung von Massnahmen gegen übertragbare Krankheiten, einschliesslich Tierseuchen;
+
 - 4\. Durchführung von Massnahmen und Projekten im Bereich Gesundheitsförderung und Prävention;
+
 - 5\. Sicherstellung der bedarfsgerechten Pflegeversorgung aufgrund der kantonalen Pflegeheimplanung gemäss Art. 39 KVG[^14-1];
-- 6\. Gewährleistung der spitalexternen Gesundheitspflege und der Hilfe zu Hause;
+
+6.<sup>19</sup> Gewährleistung der spitalexternen Gesundheitspflege und der Hilfe zu Hause;
+
 - 7\. Sicherstellung der Bestattungen.
 
 [^14-1]: SR 832.10
@@ -275,44 +306,50 @@ beschliesst:
 
 [^15-1]: NG 312.1, 312.11
 
-### 2.3 Dritte
+### C. Dritte
 
 #### Art. 16
 
 **Aufgabenübertragung an Dritte**
 
-<sup>1</sup> Regierungsrat und der administrative Rat können Vollzugsaufgaben unter Vorbehalt der Verfügungsgewalt in Form von Leistungsaufträgen an Dritte übertragen.
+Regierungsrat und der administrative Rat können Vollzugsaufgaben unter Vorbehalt der Verfügungsgewalt in Form von Leistungsaufträgen an Dritte übertragen.
 
-## 3 Berufe im Gesundheitswesen
+### III. BERUFE IM GESUNDHEITSWESEN
 
-### 3.1 Gemeinsame Bestimmungen
+### A. Gemeinsame Bestimmungen
 
 #### Art. 17
 
 **Gesundheitsfachpersonen**
 
-<sup>1</sup> Gesundheitsfachpersonen im Sinne dieses Gesetzes sind Personen, die einen bewilligungspflichtigen Beruf ausüben.
+Gesundheitsfachpersonen im Sinne dieses Gesetzes sind Personen, die einen bewilligungspflichtigen Beruf ausüben.
 
 #### Art. 18
 
 **Bewilligungspflicht**
 
-<sup>1</sup> Eine Bewilligung benötigt, wer privatwirtschaftlich in eigener fachlicher Verantwortung:
+Eine Bewilligung benötigt, wer privatwirtschaftlich in eigener fachlicher Verantwortung:<sup>31</sup> 1. Krankheiten, Verletzungen oder sonstige Störungen der physischen und psychischen Gesundheit von Menschen und Tieren nach den Erkenntnissen der anerkannten Wissenschaften oder im Rahmen der wissenschaftlichen Forschung feststellt und behandelt;
 
-- 1\. Krankheiten, Verletzungen oder sonstige Störungen der physischen und psychischen Gesundheit von Menschen und Tieren nach den Erkenntnissen der anerkannten Wissenschaften oder im Rahmen der wissenschaftlichen Forschung feststellt und behandelt;
 - 2\. Gelenkmanipulationen mit Impulsen vornimmt oder kranke, verletzte oder sonst gesundheitlich beeinträchtigte Menschen mit instrumentellen Eingriffen behandelt, welche die Haut verletzen;
+
 - 3\. die Geburtshilfe ausübt;
+
 - 4\. komplementärmedizinische Tätigkeiten ausübt;
+
 - 5\. Arzneimittel anwendet, abgibt und herstellt; davon ausgenommen ist die Anwendung nicht verschreibungspflichtiger Arzneimittel.
 
 #### Art. 19
 
-**Ausnahmen von der Bewilligungspflicht 1. Fachassistenz**
+**Ausnahmen von der Bewilligungspflicht**
+
+### 1. Fachassistenz<sup>31</sup>
 
 <sup>1</sup> Fachlich ausgebildete Personen bedürfen keiner Berufsausübungsbewilligung, wenn:
 
 - 1\. sie unselbständig tätig sind;
+
 - 2\. die Anforderungen an eine Berufsausübungsbewilligung noch nicht erfüllen; und
+
 - 3\. unter der Verantwortung und Aufsicht einer Gesundheitsfachperson mit der entsprechenden Bewilligung stehen.
 
 <sup>2</sup> Die Gesundheitsfachperson hat dem Amt den Einsatz der Fachassistenz binnen 20 Tagen nach Beginn des Arbeitsverhältnisses zu melden.
@@ -321,37 +358,40 @@ beschliesst:
 
 **2. bei Zulassung in anderem Kanton**
 
-<sup>1</sup> Gesundheitsfachpersonen, die zur Berufsausübung in anderen Kantonen zugelassen sind, benötigen keine Bewilligung:
+Gesundheitsfachpersonen, die zur Berufsausübung in anderen Kantonen zugelassen sind, benötigen keine Bewilligung:
 
 - 1\. wenn sie von der behandelnden Fachperson im Kanton Nidwalden in Einzelfällen zugezogen werden;
+
 - 2\. für die berufliche Besuchstätigkeit von ihrem Wohnort aus;
-- 3\. wenn sie privatwirtschaftlich in eigener fachlicher Verantwortung eine der folgenden Tätigkeiten ausüben:
-  - a) einen universitären Medizinalberuf im Rahmen von Art. 35 Abs. 2 MedBG[^20-1];
-  - b) den Beruf der Psychotherapeutin oder des Psychotherapeuten im Rahmen von Art. 23 Abs. 1 PsyG[^20-2]; oder
-  - c) einen Gesundheitsfachberuf im Rahmen von Art. 15 Abs. 2 GesBG[^20-3].
+
+3.<sup>31</sup> wenn sie privatwirtschaftlich in eigener fachlicher Verantwortung eine der folgenden Tätigkeiten ausüben:
+
+- a) einen universitären Medizinalberuf im Rahmen von Art. 35 Abs. 2 MedBG[^20-1];
+
+- b) den Beruf der Psychotherapeutin oder des Psychotherapeuten im Rahmen von Art. 23 Abs. 1 PsyG<sup>32</sup>; oder
+
+- c) einen Gesundheitsfachberuf im Rahmen von Art. 15 Abs. 2 GesBG<sup>33</sup>.
 
 [^20-1]: SR 811.11
-[^20-2]: SR 935.81
-[^20-3]: SR 811.21
 
 #### Art. 21
 
 **Bewilligungspflichtige Berufe**
 
-<sup>1</sup> Unter die Bewilligungspflicht fallen namentlich folgende Berufe:
+<sup>1</sup> Unter die Bewilligungspflicht fallen namentlich folgende Berufe:<sup>31</sup> 1. die universitären Medizinalberufe gemäss MedBG[^21-1];
 
-- 1\. die universitären Medizinalberufe gemäss MedBG[^21-1];
-- 2\. die Psychotherapeutinnen und Psychotherapeuten gemäss PsyG[^21-2];
-- 3\. die Gesundheitsfachberufe gemäss GesBG[^21-3];
-- 4\. weitere Leistungserbringer gemäss KVG[^21-4];
+- 2\. die Psychotherapeutinnen und Psychotherapeuten gemäss PsyG<sup>32</sup>;
+
+- 3\. die Gesundheitsfachberufe gemäss GesBG<sup>33</sup>,
+
+- 4\. weitere Leistungserbringer gemäss KVG[^21-2];
+
 - 5\. die vom Regierungsrat durch Verordnung bezeichneten Berufe mit besonderem Gefährdungspotential.
 
 <sup>2</sup> Der Regierungsrat regelt durch Verordnung die fachlichen Voraussetzungen für die Erteilung der Berufsausübungsbewilligung und die Berufsausübung.
 
 [^21-1]: SR 811.11
-[^21-2]: SR 935.81
-[^21-3]: SR 811.21
-[^21-4]: SR 832.10
+[^21-2]: SR 832.10
 
 #### Art. 22
 
@@ -367,28 +407,33 @@ beschliesst:
 
 **Meldepflichtige Tätigkeiten**
 
-<sup>1</sup> Der Regierungsrat kann nicht bewilligungspflichtige Tätigkeiten beziehungsweise Berufe:
+Der Regierungsrat kann nicht bewilligungspflichtige Tätigkeiten beziehungsweise Berufe:
 
 - 1\. einer Meldepflicht unterstellen;
+
 - 2\. verbieten, wenn diese eine Gefährdung von Leib und Leben zur Folge haben.
 
 #### Art. 24
 
 **Bewilligungsvoraussetzungen**
 
-<sup>1</sup> Die Bewilligung wird erteilt, sofern die Bewerberin oder der Bewerber:
+Die Bewilligung wird erteilt, sofern die Bewerberin oder der Bewerber:
 
 - 1\. die erforderlichen beruflichen Fähigkeiten ausweist;
+
 - 2\. vertrauenswürdig ist;
+
 - 3\. physisch und psychisch Gewähr für eine einwandfreie Berufsausübung bietet;
+
 - 4\. die geeigneten Räume und Einrichtungen zur Ausübung der Tätigkeit nachweist;
+
 - 5\. eine Berufshaftpflichtversicherung nach Massgabe der Art und des Umfangs der Risiken abgeschlossen hat.
 
 #### Art. 25
 
 **Einschränkung der Bewilligung**
 
-<sup>1</sup> Die Bewilligung zur Berufsausübung kann mit bestimmten Einschränkungen fachlicher, zeitlicher und räumlicher Art oder mit Auflagen verbunden werden, soweit dies zur Sicherung einer qualitativ hochstehenden und zuverlässigen medizinischen Versorgung erforderlich ist.
+Die Bewilligung zur Berufsausübung kann mit bestimmten Einschränkungen fachlicher, zeitlicher und räumlicher Art oder mit Auflagen verbunden werden, soweit dies zur Sicherung einer qualitativ hochstehenden und zuverlässigen medizinischen Versorgung erforderlich ist.
 
 #### Art. 26
 
@@ -397,20 +442,22 @@ beschliesst:
 <sup>1</sup> Die Bewilligung ist zu entziehen, wenn:
 
 - 1\. ihre Voraussetzungen nicht mehr erfüllt sind;
+
 - 2\. nachträglich Tatsachen bekannt werden, die eine Verweigerung der Bewilligung zur Folge gehabt hätten;
+
 - 3\. die Inhaberin oder der Inhaber die Berufspflicht schwerwiegend verletzt und dabei Patientinnen oder Patienten gefährdet hat;
+
 - 4\. wiederholte oder schwerwiegende Verstösse gegen dieses Gesetz oder die darauf stützenden Erlasse sowie gegen die in der Bewilligung enthaltenen Bedingungen und Auflagen vorkommen;
+
 - 5\. eine missbräuchliche Ausnützung der beruflichen Stellung vorliegt.
 
 <sup>2</sup> Der Entzug kann für die Berufsausübung ganz oder teilweise sowie auf bestimmte oder unbestimmte Zeit erfolgen.
 
-<sup>3</sup> Bei den Tatbeständen gemäss Abs. 1 Ziff. 3–5 kann in leichten Fällen ein schriftlicher Verweis erteilt werden.
+<sup>3</sup> Bei den Tatbeständen gemäss Abs. 1 Ziff. 3-5 kann in leichten Fällen ein schriftlicher Verweis erteilt werden.
 
-<sup>4</sup> Die Disziplinarmassnahmen für die bundesrechtlich geregelten Berufsgruppen gemäss Art. 43 MedBG[^26-1], Art. 30 PsyG[^26-2] und Art. 19 GesBG[^26-3] bleiben vorbehalten.
+<sup>4</sup> Die Disziplinarmassnahmen für die bundesrechtlich geregelten Berufsgruppen gemäss Art. 43 MedBG[^26-1], Art. 30 PsyG<sup>32</sup> und Art. 19 GesBG<sup>33</sup> bleiben vorbehalten.<sup>31</sup>
 
 [^26-1]: SR 811.11
-[^26-2]: SR 935.81
-[^26-3]: SR 811.21
 
 #### Art. 27
 
@@ -419,8 +466,11 @@ beschliesst:
 <sup>1</sup> Die Bewilligung erlischt:
 
 - 1\. mit dem Tod;
-- 2\. mit der Vollendung des 70. Altersjahres; die Bewilligung kann auf Gesuch hin um jeweils zwei Jahre verlängert werden, sofern die Voraussetzungen für deren Erteilung gegeben sind;
+
+2.<sup>26</sup> mit der Vollendung des 70. Altersjahres; die Bewilligung kann auf Gesuch hin um jeweils zwei Jahre verlängert werden, sofern die Voraussetzungen für deren Erteilung gegeben sind;
+
 - 3\. bei schriftlicher Verzichtserklärung gegenüber der Bewilligungsinstanz;
+
 - 4\. aufgrund eines rechtskräftig verfügten Entzugs.
 
 <sup>2</sup> Gesundheitsfachpersonen haben der Bewilligungsinstanz das vorübergehende Einstellen sowie die Wiederaufnahme der Tätigkeit mitzuteilen.
@@ -429,15 +479,15 @@ beschliesst:
 
 **Veröffentlichung**
 
-<sup>1</sup> Erteilung und Entzug der Bewilligung werden durch die Bewilligungsinstanz im Amtsblatt veröffentlicht.
+Erteilung und Entzug der Bewilligung werden durch die Bewilligungsinstanz im Amtsblatt veröffentlicht.
 
 #### Art. 29
 
 **Aufsicht**
 
-<sup>1</sup> Die Bewilligungsinstanz hat die Aufsicht über die bewilligungspflichtigen Tätigkeiten. Sie führt die nötigen Kontrollen durch und trifft die notwendigen Massnahmen. Dazu ist ihr der Zugang zu den Räumlichkeiten, Einrichtungen und Aufzeichnungen zu gewähren.
+Die Bewilligungsinstanz hat die Aufsicht über die bewilligungspflichtigen Tätigkeiten. Sie führt die nötigen Kontrollen durch und trifft die notwendigen Massnahmen. Dazu ist ihr der Zugang zu den Räumlichkeiten, Einrichtungen und Aufzeichnungen zu gewähren.
 
-### 3.2 Rechte und Pflichten bei der Berufsausübung
+### B. Rechte und Pflichten bei der Berufsausübung
 
 #### Art. 30
 
@@ -457,11 +507,11 @@ beschliesst:
 
 #### Art. 32
 
-**Meldepflicht, Melderecht**
+<sup>26</sup>Meldepflicht, Melderecht
 
 <sup>1</sup> Gesundheitsfachpersonen haben aussergewöhnliche Todesfälle unverzüglich der Kantonspolizei zu melden.
 
-<sup>2</sup> Sie sind berechtigt, Wahrnehmungen, die auf ein Verbrechen gegen Leib und Leben, die sexuelle Integrität oder die öffentliche Gesundheit schliessen lassen, der Kantonspolizei zu melden.
+<sup>2</sup> Sie sind berechtigt, Wahrnehmungen, die auf ein Verbrechen gegen Leib und Leben, die sexuelle Integrität oder die öffentliche Gesundheit schliessen lassen, der Kantonspolizei zu melden.<sup>26</sup>
 
 #### Art. 33
 
@@ -479,23 +529,25 @@ beschliesst:
 
 <sup>2</sup> Verboten sind aufdringliche und irreführende Werbung sowie das Verwenden falscher oder irreführender Bezeichnungen.
 
-### 3.3 Besondere Bestimmungen für universitäre Medizinalberufe
+### C. Besondere Bestimmungen für universitäre Medizinalberufe
 
 #### Art. 35
 
 **Meldepflicht**
 
-<sup>1</sup> Personen, die einen universitären Medizinalberuf ausüben, haben ansteckende Krankheiten und aussergewöhnliche Vorkommnisse betreffend die Gesundheit unverzüglich der Kantonsärztin oder dem Kantonsarzt beziehungsweise der Kantonstierärztin oder dem Kantonstierarzt zu melden.
+Personen, die einen universitären Medizinalberuf ausüben, haben ansteckende Krankheiten und aussergewöhnliche Vorkommnisse betreffend die Gesundheit unverzüglich der Kantonsärztin oder dem Kantonsarzt beziehungsweise der Kantonstierärztin oder dem Kantonstierarzt zu melden.
 
 #### Art. 36
 
 **Beistandspflicht**
 
-<sup>1</sup> Personen, die einen universitären Medizinalberuf ausüben, sind verpflichtet, bei ernster und unmittelbarer Gefährdung von Personen Beistand zu leisten.
+Personen, die einen universitären Medizinalberuf ausüben, sind verpflichtet, bei ernster und unmittelbarer Gefährdung von Personen Beistand zu leisten.
 
 #### Art. 37
 
-**Notfalldienst 1. Pflicht**
+**Notfalldienst<sup>26</sup>**
+
+### 1. Pflicht
 
 <sup>1</sup> Ärztinnen und Ärzte, Zahnärztinnen und Zahnärzte, Tierärztinnen und Tierärzte sowie Apothekerinnen und Apotheker mit einer Berufsausübungsbewilligung sind verpflichtet, sich persönlich an einem Notfalldienst zu beteiligen.
 
@@ -511,12 +563,13 @@ beschliesst:
 
 <sup>1</sup> Pflichtige Personen, die keinen Notfalldienst leisten, haben dem Berufsverband eine Ersatzabgabe zu entrichten.
 
-<sup>2</sup> Die Ersatzabgabe beträgt Fr. 500.– je Notfalldienst, höchstens jedoch Fr. 15'000.– je Jahr.
+<sup>2</sup> Die Ersatzabgabe beträgt Fr. 500.- je Notfalldienst, höchstens jedoch Fr. 15‘000.- je Jahr.
 
 <sup>3</sup> Sie wird verwendet für:
 
 - 1\. die Organisation und Sicherstellung des Notfalldienstes des jeweiligen Berufsverbandes; und
-- 2\. die Qualitätssicherung und ‑förderung des Notfalldienstes.
+
+- 2\. die Qualitätssicherung und –förderung des Notfalldienstes.
 
 #### Art. 37b
 
@@ -530,22 +583,28 @@ beschliesst:
 
 <sup>4</sup> Das Amt übt die Aufsicht über den Notfalldienst aus und entscheidet über Streitigkeiten im Zusammenhang mit diesem.
 
-## 4 Institutionen im Gesundheitswesen
+### IV. INSTITUTIONEN IM GESUNDHEITSWESEN
 
-### 4.1 Betriebsbewilligung
+### A.<sup>22</sup> Betriebsbewilligung
 
 #### Art. 38
 
-**Bewilligungspflicht**
+<sup>22</sup>Bewilligungspflicht
 
 <sup>1</sup> Eine Betriebsbewilligung benötigen:
 
 - 1\. Spitäler;
-- 2\. Pflegeheime;
-- 3\. die weiteren Organisationen und Einrichtungen gemäss Art. 35 KVG[^38-1];
+
+2.<sup>31</sup> Pflegeheime;
+
+3.<sup>31</sup> die weiteren Organisationen und Einrichtungen gemäss Art. 35 KVG[^38-1];
+
 - 4\. öffentliche Apotheken, Spitalapotheken, Heimapotheken sowie im Versandhandel von Heilmitteln tätige Unternehmen;
+
 - 5\. Drogerien;
+
 - 6\. Detailhandelsgeschäfte, wenn sie Arzneimittel abgeben;
+
 - 7\. Betriebe, welche Blut oder Blutprodukte nur lagern.
 
 <sup>2</sup> Vorbehalten bleiben Betriebsbewilligungen für Privatapotheken gemäss Art. 84 sowie aufgrund der Spezialgesetzgebung.
@@ -556,7 +615,7 @@ beschliesst:
 
 **Aufsicht**
 
-<sup>1</sup> Die Bewilligungsinstanz hat die Aufsicht über die bewilligungspflichtigen Betriebe. Sie führt die nötigen Kontrollen durch und trifft die notwendigen Massnahmen. Dazu ist ihr der Zugang zu den Räumlichkeiten, Einrichtungen und Aufzeichnungen zu gewähren.
+Die Bewilligungsinstanz hat die Aufsicht über die bewilligungspflichtigen Betriebe. Sie führt die nötigen Kontrollen durch und trifft die notwendigen Massnahmen. Dazu ist ihr der Zugang zu den Räumlichkeiten, Einrichtungen und Aufzeichnungen zu gewähren.
 
 #### Art. 40
 
@@ -565,8 +624,11 @@ beschliesst:
 <sup>1</sup> Die Bewilligung wird erteilt, wenn:
 
 - 1\. eine oder mehrere verantwortliche Personen bezeichnet werden, welche über die notwendige berufliche und fachliche Eignung verfügen;
+
 - 2\. das erforderliche fachliche und qualifizierte Personal zur Ausübung der Leistungserbringung gewährleistet ist;
+
 - 3\. die Institution über die zweckentsprechenden medizinischen Einrichtungen verfügt sowie die erforderlichen betrieblichen und hygienischen Voraussetzungen erfüllt sind;
+
 - 4\. ein geeignetes Qualitätssicherungssystem vorhanden ist.
 
 <sup>2</sup> Der Regierungsrat regelt die weiteren Voraussetzungen, die Pflichten und das Verfahren für die Bewilligungserteilung durch Verordnung.
@@ -579,7 +641,7 @@ beschliesst:
 
 <sup>2</sup> Sie kann bei Verletzung der Pflichten oder bei anderen Unregelmässigkeiten die Bewilligung befristen.
 
-### 4.2 Investitionsdarlehen für Pflegebetten
+### B. Investitionsdarlehen für Pflegebetten<sup>22</sup>
 
 #### Art. 41a
 
@@ -598,7 +660,9 @@ beschliesst:
 <sup>1</sup> Investitionsdarlehen sind zu leisten, wenn:
 
 - 1\. die Pflegebetten dem Bedarf gemäss kantonaler Pflegeheimplanung entspricht;
+
 - 2\. das Projekt ausgearbeitet ist und das Baugesuch bei der Baubewilligungsbehörde eingereicht werden kann; und
+
 - 3\. die neue Baute beziehungsweise die Erweiterung den Bedürfnissen der Pflegebedürftigen entspricht.
 
 <sup>2</sup> Mit dem Bau darf erst nach Beitragszusicherung durch den Kanton begonnen werden. Der Regierungsrat kann ausnahmsweise bewilligen, dass mit dem Bau bereits vor Zusicherung der Investitionsbeiträge begonnen werden darf.
@@ -607,7 +671,7 @@ beschliesst:
 
 **Darlehenshöhe**
 
-<sup>1</sup> Der Kanton entrichtet je Pflegebett ein Investitionsdarlehen in der Höhe von Fr. 300'000.–.
+<sup>1</sup> Der Kanton entrichtet je Pflegebett ein Investitionsdarlehen in der Höhe von Fr. 300‘000.-.
 
 <sup>2</sup> Diese Darlehenshöhe entspricht dem Stand des Zürcher Baukostenindexes von 100 Punkten (Basis April 2012 = 100 Punkte). Das auszubezahlende Darlehen ist jeweils gestützt auf den Stand des Baukostenindexes bei Einreichung des Gesuchs um Zusicherung von Investitionsdarlehen festzulegen.
 
@@ -633,7 +697,7 @@ beschliesst:
 
 **Verfahren**
 
-<sup>1</sup> Der Regierungsrat erlässt die erforderlichen Bestimmungen zum Verfahren, insbesondere zur Gesuchseinreichung und zur Auszahlung der Investitionsdarlehen, in einer Verordnung.
+Der Regierungsrat erlässt die erforderlichen Bestimmungen zum Verfahren, insbesondere zur Gesuchseinreichung und zur Auszahlung der Investitionsdarlehen, in einer Verordnung.
 
 #### Art. 41g
 
@@ -642,6 +706,7 @@ beschliesst:
 <sup>1</sup> Die Leistungserbringer haben die bestehende Restschuld vollumfänglich und sofort zurückzuzahlen, wenn:
 
 - 1\. die Baute, für die der Kanton Investitionsdarlehen geleistet hat, für einen anderen Zweck verwendet, zweckwidrig umgebaut, abgerissen oder Bedingungen und Auflagen nicht eingehalten werden; und
+
 - 2\. diese Zweckentfremdung vor Ablauf von 33 Betriebsjahren erfolgt.
 
 <sup>2</sup> Die Restschuld ist am Ende desjenigen Monats fällig, in dem die Zweckentfremdung erfolgt.
@@ -649,17 +714,18 @@ beschliesst:
 <sup>3</sup> Der Regierungsrat kann von der sofortigen Rückzahlung der Restschuld aus dem Investitionsdarlehen absehen, wenn:
 
 - 1\. die Baute weiterhin für die Betreuung von Pflegebedürftigen verwendet wird; oder
+
 - 2\. ein Härtefall vorliegt.
 
-## 5 Patientenrechte und ‑pflichten
+### V. PATIENTENRECHTE UND -PFLICHTEN
 
-### 5.1 Allgemeine Bestimmungen
+### A. Allgemeine Bestimmungen
 
 #### Art. 42
 
 **Geltungsbereich**
 
-<sup>1</sup> Dieses Kapitel regelt die Rechte und Pflichten der Personen, welche durch Gesundheitsfachpersonen oder in Institutionen des Gesundheitswesens behandelt werden.
+Dieses Kapitel regelt die Rechte und Pflichten der Personen, welche durch Gesundheitsfachpersonen oder in Institutionen des Gesundheitswesens behandelt werden.
 
 #### Art. 43
 
@@ -673,7 +739,7 @@ beschliesst:
 
 #### Art. 43a
 
-**Palliative Behandlung und Betreuung**
+**Palliative Behandlung und Betreuung<sup>26</sup>**
 
 <sup>1</sup> Unheilbar kranke und sterbende Menschen haben Anspruch auf eine angemessene Behandlung und Betreuung mittels medizinischer, pflegerischer und begleitender Palliativmassnahmen, wenn eine kurative Behandlung als aussichtslos erscheint.
 
@@ -689,16 +755,17 @@ beschliesst:
 
 #### Art. 45
 
-**Aufzeichnungen 1. Grundsatz**
+**Aufzeichnungen<sup>26</sup>**
+
+### 1. Grundsatz
 
 <sup>1</sup> Im Rahmen der beruflichen Tätigkeit sind über die Behandlung Aufzeichnungen zu führen.
 
 <sup>2</sup> Diese haben Angaben zur behandelten Person sowie über die Dauer und Art der Behandlung zu enthalten.
 
-<sup>3</sup> Die Aufzeichnungen sind während zehn Jahren aufzubewahren; vorbehalten bleiben längere Aufbewahrungsfristen, insbesondere gemäss Art. 40 HMG[^45-1] und Art. 35 Transplantationsgesetz[^45-2].
+<sup>3</sup> Die Aufzeichnungen sind während zehn Jahren aufzubewahren; vorbehalten bleiben längere Aufbewahrungsfristen, insbesondere gemäss Art. 40 HMG[^h1Grundsatz-1] und Art. 35 Transplantationsgesetz<sup>27</sup>.
 
-[^45-1]: SR 812.21
-[^45-2]: SR 810.21
+[^h1Grundsatz-1]: SR 812.21
 
 #### Art. 45a
 
@@ -709,6 +776,7 @@ beschliesst:
 <sup>2</sup> Mit der Mitteilung ist der Hinweis auf die Wahlmöglichkeit der Patientinnen und Patienten zu verbinden, dass die sie betreffenden Aufzeichnungen entweder:
 
 - 1\. an sie auszuhändigen sind; oder
+
 - 2\. an eine von den Patientinnen und Patienten bezeichnete Gesundheitsfachperson weiterzuleiten sind.
 
 #### Art. 45b
@@ -719,20 +787,20 @@ beschliesst:
 
 <sup>2</sup> Dieses ist unter Vorbehalt von Art. 46 Abs. 2 zuständig für die Mitteilung sowie die Aushändigung oder Weiterleitung gemäss Art. 45a. Die Mitteilung an die Patientinnen und Patienten kann durch Veröffentlichung im Amtsblatt oder in weiteren geeigneten Medien erfolgen.
 
-<sup>3</sup> Die Aufwendungen des Amtes werden in der Regel nach der Gebührengesetzgebung[^45b-1] dem Nachlass belastet.
-
-[^45b-1]: NG 265.5
+<sup>3</sup> Die Aufwendungen des Amtes werden in der Regel nach der Gebührengesetzgebung<sup>30</sup> dem Nachlass belastet.
 
 #### Art. 45c
 
-**Elektronisches Patientendossier**
+**Elektronisches Patientendossier<sup>31</sup>**
 
 <sup>1</sup> Der Regierungsrat trifft im Hinblick auf die Einführung des elektronischen Patientendossiers geeignete Massnahmen zur Steuerung, Koordination und Förderung der Zusammenarbeit im Gesundheitswesen.
 
 <sup>2</sup> Er kann zu diesem Zweck:
 
 - 1\. sich an Trägerschaften und Projekten beteiligen;
+
 - 2\. Organisation und Vernetzung von Gemeinschaften steuern, koordinieren und fördern; oder
+
 - 3\. im Rahmen der bewilligten Kredite finanzielle Mittel sprechen.
 
 #### Art. 46
@@ -752,14 +820,19 @@ beschliesst:
 <sup>2</sup> Sie sind vom Berufsgeheimnis befreit:
 
 - 1\. bei Einwilligung der oder des Berechtigten;
+
 - 2\. bei schriftlicher Bewilligung der Direktion als Aufsichtsbehörde im Sinne des Schweizerischen Strafgesetzbuches[^47-1];
+
 - 3\. gegenüber den Strafverfolgungsbehörden in Bezug auf Wahrnehmungen, die auf ein Delikt gegen Leib und Leben, die sexuelle Integrität oder die öffentliche Gesundheit schliessen lassen;
+
 - 4\. im Rahmen ihrer Meldepflicht gemäss Art. 32;
-- 5\. …
+
+5.<sup>26</sup> …
 
 <sup>3</sup> Sofern die Patientin oder der Patient nicht andere Anweisungen gegeben hat oder aus den Umständen nicht auf einen Geheimhaltungswillen geschlossen werden muss, wird die Einwilligung vermutet für:
 
-- 1\. Auskünfte an die nächsten Angehörigen und die vertretungsberechtigten Personen gemäss Art. 378 ZGB[^47-2];
+1.<sup>21</sup> Auskünfte an die nächsten Angehörigen und die vertretungsberechtigten Personen gemäss Art. 378 ZGB[^47-2];
+
 - 2\. medizinisch notwendige Auskünfte an Gesundheitsfachpersonen, die zuweisen, mitbehandeln, nachbehandeln oder an der Therapie beteiligt sind.
 
 [^47-1]: SR 311.0
@@ -769,14 +842,17 @@ beschliesst:
 
 **Nächste Angehörige**
 
-<sup>1</sup> Nächste Angehörige sind:
+Nächste Angehörige sind:
 
 - 1\. die Ehegattin oder der Ehegatte, die Lebenspartnerin oder der Lebenspartner beziehungsweise die Partnerin oder der Partner bei einer eingetragenen Partnerschaft;
+
 - 2\. die Nachkommen;
+
 - 3\. die Mutter und der Vater;
+
 - 4\. die Geschwister.
 
-### 5.2 Untersuchung, Behandlung und Pflege
+### B. Untersuchung, Behandlung und Pflege
 
 #### Art. 49
 
@@ -785,9 +861,13 @@ beschliesst:
 <sup>1</sup> Die behandelnden Personen haben unaufgefordert die Patientinnen und Patienten mit der gebotenen Sorgfalt sowie in verständlicher und geeigneter Form aufzuklären über:
 
 - 1\. die diagnostischen Untersuchungen und die Diagnosen;
+
 - 2\. die vorgeschlagene sowie andere mögliche Therapien;
+
 - 3\. die Risiken und die Nebenwirkungen;
+
 - 4\. die voraussichtliche Entwicklung des Gesundheitszustandes mit oder ohne vorgeschlagene Therapie;
+
 - 5\. die Kostenfolgen und die Deckung durch die Krankenversicherung.
 
 <sup>2</sup> Wenn sofortiges Handeln notwendig ist, kann die Aufklärung anschliessend erfolgen.
@@ -802,15 +882,17 @@ beschliesst:
 
 #### Art. 51
 
-**Urteilsunfähige Patientinnen und Patienten**
+**Urteilsunfähige Patientinnen und Patienten<sup>21</sup>**
 
-<sup>1</sup> Bei urteilsunfähigen Patientinnen und Patienten richtet sich die Reihenfolge der vertretungsberechtigten Personen, die Behandlung in dringlichen Fällen, die Behandlung einer psychischen Störung und das Einschreiten der Kindes- und Erwachsenenschutzbehörde nach den Art. 378–381 ZGB[^51-1].
+Bei urteilsunfähigen Patientinnen und Patienten richtet sich die Reihenfolge der vertretungsberechtigten Personen, die Behandlung in dringlichen Fällen, die Behandlung einer psychischen Störung und das Einschreiten der Kindes- und Erwachsenenschutzbehörde nach den Art. 378 – 381 ZGB[^51-1].
 
 [^51-1]: SR 210
 
 #### Art. 52
 
-**Urteilsfähige, nicht handlungsfähige Patientinnen und Patienten**
+**Urteilsfähige, nicht handlungsfähige Patientinnen und**
+
+### Patienten<sup>21</sup>
 
 <sup>1</sup> Sind Patientinnen oder Patienten urteilsfähig, aber minderjährig oder umfassend verbeiständet, ist bei grösseren oder mit erheblichem Risiko verbundenen Eingriffen auch deren gesetzliche Vertretung zu informieren.
 
@@ -826,13 +908,13 @@ beschliesst:
 
 #### Art. 54
 
-**Sterbehilfe**
+**Sterbehilfe<sup>21</sup>**
 
-<sup>1</sup> Bei Fragen der Sterbehilfe sind die Richtlinien und Empfehlungen der Schweizerischen Akademie der Medizinischen Wissenschaften zu beachten.
+Bei Fragen der Sterbehilfe sind die Richtlinien und Empfehlungen der Schweizerischen Akademie der Medizinischen Wissenschaften zu beachten.
 
 #### Art. 55
 
-**…**
+**…<sup>21</sup>**
 
 #### Art. 56
 
@@ -840,13 +922,13 @@ beschliesst:
 
 <sup>1</sup> Urteilsfähige Patientinnen und Patienten sind auf Antrag vorzeitig zu entlassen, wenn nicht anzunehmen ist, dass sie sich oder andere gefährden.
 
-<sup>2</sup> Die vorzeitige Entlassung umfassend verbeiständeter oder urteilsunfähiger minderjähriger Patientinnen oder Patienten bedarf der Zustimmung der vertretungsberechtigten Person gemäss Art. 378 ZGB[^56-1].
+<sup>2</sup> Die vorzeitige Entlassung umfassend verbeiständeter oder urteilsunfähiger minderjähriger Patientinnen oder Patienten bedarf der Zustimmung der vertretungsberechtigten Person gemäss Art. 378 ZGB[^56-1].<sup>21</sup>
 
 <sup>3</sup> Die vorzeitige Entlassung von Patientinnen oder Patienten, die von einer Behörde eingewiesen wurden, ist nur mit deren Zustimmung zulässig.
 
 <sup>4</sup> Die Patientin oder der Patient, die gesetzliche Vertretung oder die einweisende Behörde haben schriftlich die Übernahme der Verantwortung für die vorzeitige Entlassung zu erklären.
 
-<sup>5</sup> Vorschriften anderer Erlasse, insbesondere diejenigen über die fürsorgerische Unterbringung und über die übertragbaren Krankheiten bleiben vorbehalten.
+<sup>5</sup> Vorschriften anderer Erlasse, insbesondere diejenigen über die fürsorgerische Unterbringung und über die übertragbaren Krankheiten bleiben vorbehalten.<sup>21</sup>
 
 [^56-1]: SR 210
 
@@ -857,6 +939,7 @@ beschliesst:
 <sup>1</sup> Die zuständige ärztliche Person kann die vorzeitige Entlassung anordnen, wenn die Patientin oder der Patient:
 
 - 1\. für den Behandlungserfolg ausschlaggebende Anordnungen der behandelnden Personen wiederholt grob missachtet;
+
 - 2\. den Betrieb in schwerwiegender Weise vorsätzlich stört.
 
 <sup>2</sup> Für die vorzeitige Entlassung behördlich eingewiesener Patientinnen oder Patienten ist die Einweisungsbehörde zuständig.
@@ -865,25 +948,27 @@ beschliesst:
 
 #### Art. 58
 
-**Freiwilliger Eintritt und Austritt psychisch kranker und suchtkranker Personen**
+**Freiwilliger Eintritt und Austritt psychisch kranker und**
+
+suchtkranker Personen
 
 <sup>1</sup> Psychisch kranke oder suchtkranke Patientinnen und Patienten, die auf eigenen Wunsch in stationäre Einrichtungen eintreten, haben ihren Willen, sich untersuchen, behandeln und pflegen zu lassen, schriftlich zu erklären.
 
-<sup>2</sup> Die Zurückbehaltung freiwillig eingetretener Personen richtet sich nach Art. 427 ZGB[^58-1].
+<sup>2</sup> Die Zurückbehaltung freiwillig eingetretener Personen richtet sich nach Art. 427 ZGB[^58-1].<sup>21</sup>
 
 [^58-1]: SR 210
 
 #### Art. 59
 
-**Zwangsweise Einweisung und Entlassung**
+**Zwangsweise Einweisung und Entlassung<sup>21</sup>**
 
-<sup>1</sup> Für die zwangsweise Einweisung sowie die Entlassung zwangsweise eingewiesener Patientinnen oder Patienten gelten die Bestimmungen des ZGB[^59-1] über die fürsorgerische Unterbringung.
+Für die zwangsweise Einweisung sowie die Entlassung zwangsweise eingewiesener Patientinnen oder Patienten gelten die Bestimmungen des ZGB[^59-1] über die fürsorgerische Unterbringung.
 
 [^59-1]: SR 210
 
 #### Art. 60
 
-**Einschränkung der Freiheit**
+**Einschränkung der Freiheit<sup>21</sup>**
 
 <sup>1</sup> Die Voraussetzungen für die Einschränkung der Bewegungsfreiheit, die Protokollierung der Einschränkung sowie die Information darüber richten sich nach Art. 383 f. ZGB[^60-1].
 
@@ -895,11 +980,11 @@ beschliesst:
 
 **Rechtsschutz**
 
-<sup>1</sup> Die Anordnung einer Massnahme gemäss Art. 60 kann mittels Beschwerde bei der für die gerichtliche Beurteilung von fürsorgerischen Unterbringungen zuständigen Instanz angefochten werden.
+<sup>1</sup> Die Anordnung einer Massnahme gemäss Art. 60 kann mittels Beschwerde bei der für die gerichtliche Beurteilung von fürsorgerischen Unterbringungen zuständigen Instanz angefochten werden.<sup>21</sup>
 
 <sup>2</sup> Bei Zwangsmassnahmen kann die Patientin oder der Patient eine nachträgliche gerichtliche Überprüfung verlangen.
 
-### 5.3 Transplantation und Obduktion
+### C. Transplantation und Obduktion
 
 #### Art. 62
 
@@ -920,11 +1005,12 @@ beschliesst:
 <sup>2</sup> Vorbehalten bleibt die Obduktion auf Anordnung:
 
 - 1\. der Strafverfolgungsbehörden;
+
 - 2\. der Direktion zur Sicherung der Diagnose, insbesondere bei Verdacht auf eine übertragbare Krankheit.
 
 <sup>3</sup> Die nächsten Angehörigen und die gesetzliche Vertretung können Einsicht in den Obduktionsbefund verlangen.
 
-## 6 Gesundheitsförderung und Prävention
+### VI. GESUNDHEITSFÖRDERUNG UND PRÄVENTION
 
 #### Art. 64
 
@@ -940,10 +1026,12 @@ beschliesst:
 
 **Beiträge**
 
-<sup>1</sup> Der Kanton gewährt Beiträge im Rahmen des Voranschlags:
+Der Kanton gewährt Beiträge im Rahmen des Voranschlags:
 
 - 1\. an Projekte zur Gesundheitsförderung und Prävention;
+
 - 2\. an die Erhebung von Grundlagen betreffend den Gesundheitszustand der Bevölkerung;
+
 - 3\. an Institutionen, die einen wichtigen Beitrag an die Gesundheitsförderung oder Prävention leisten.
 
 #### Art. 66
@@ -960,14 +1048,16 @@ beschliesst:
 
 **Fachstelle für Gesundheitsförderung und Prävention**
 
-<sup>1</sup> Der Kanton führt eine Fachstelle für Gesundheitsförderung und Prävention (Fachstelle) für die Bereiche Strategie, Projektentwicklung, ‑förderung und ‑umsetzung sowie Bildungs- und Öffentlichkeitsarbeit.
+<sup>1</sup> Der Kanton führt eine Fachstelle für Gesundheitsförderung und Prävention (Fachstelle) für die Bereiche Strategie, Projektentwicklung, -förderung und -umsetzung sowie Bildungs- und Öffentlichkeitsarbeit.
 
 <sup>2</sup> Er kann die Fachstelle zusammen mit anderen Kantonen führen oder Dritte damit beauftragen.
 
 <sup>3</sup> Die Fachstelle:
 
 - 1\. erarbeitet unter Beizug von Vertreterinnen und Vertretern von Gemeinden sowie von Fachpersonen die kantonale Strategie für Gesundheitsförderung und Prävention zuhanden des Regierungsrates und sorgt für deren Umsetzung;
+
 - 2\. berät und unterstützt die Gemeinden bei der Umsetzung von Massnahmen;
+
 - 3\. vernetzt die relevanten Stellen und Personen.
 
 #### Art. 68
@@ -1004,22 +1094,23 @@ beschliesst:
 
 #### Art. 71
 
-**…**
+**…<sup>26</sup>**
 
 #### Art. 72
 
-**Verkauf von Tabak**
+<sup>26</sup>Verkauf von Tabak
 
 <sup>1</sup> Es ist verboten, Tabak und Tabakerzeugnisse zu verkaufen:
 
 - 1\. an Personen unter 18 Jahren;
+
 - 2\. durch Automaten.
 
 <sup>2</sup> Vom Verbot ausgenommen sind Automaten, bei denen geeignete Massnahmen den Verkauf an Kinder und Jugendliche unter 18 Jahren ausschliessen.
 
-## 7 Krankheitsbekämpfung
+### VII. KRANKHEITSBEKÄMPFUNG
 
-### 7.1 Übertragbare Krankheiten
+### A. Übertragbare Krankheiten
 
 #### Art. 73
 
@@ -1033,59 +1124,67 @@ beschliesst:
 
 #### Art. 74
 
-**Massnahmen des Regierungsrates**
+**Massnahmen des Regierungsrates<sup>26</sup>**
 
-<sup>1</sup> Der Regierungsrat:
+Der Regierungsrat:
 
 - 1\. sorgt für Impfungen gemäss Art. 21 Abs. 1 lit. c i.V.m. Art. 21 Abs. 2 EpG[^74-1];
+
 - 2\. erklärt Impfungen gestützt auf Art. 22 EpG für obligatorisch;
+
 - 3\. ordnet gestützt auf Art. 40 EpG Massnahmen gegenüber der Bevölkerung und bestimmten Personengruppen an.
 
 [^74-1]: SR 818.101
 
 #### Art. 75
 
-**Durchführung von Massnahmen**
+**Durchführung von Massnahmen<sup>26</sup>**
 
 <sup>1</sup> Die Kantonsärztin oder der Kantonsarzt vollzieht alle dem Kanton aufgrund der Epidemiengesetzgebung[^75-1] zufallenden Aufgaben, soweit diese nicht einer anderen Instanz übertragen sind.
 
 <sup>2</sup> Die Direktion kann die Durchführung von Massnahmen zur Verhütung und Bekämpfung übertragbarer Krankheiten übertragen an:
 
 - 1\. die Gesundheitsbehörde der Gemeinden;
+
 - 2\. die Ärztinnen und Ärzte;
+
 - 3\. die Apothekerinnen und Apotheker;
+
 - 4\. Institutionen des Gesundheitswesens;
+
 - 5\. weitere Organisationen.
 
-<sup>3</sup> Der Kanton leistet Beiträge an die Kosten, die den Beauftragten durch die Aufgabenübertragung entstanden sind.
+Der Kanton leistet Beiträge an die Kosten, die den Beauftragten durch die Aufgabenübertragung entstanden sind.
 
 [^75-1]: SR 818.101
 
-#### Art. 76–77
+#### Art. 76
 
-**…**
+**…<sup>26</sup>**
 
-### 7.2 Nicht übertragbare Krankheiten
+#### Art. 77
+
+**…<sup>26</sup>**
+
+### B. Nicht übertragbare Krankheiten<sup>31</sup>
 
 #### Art. 77a
 
-**Krebsregister 1. allgemein**
+**Krebsregister**
 
-<sup>1</sup> Der Kanton führt das kantonale Krebsregister nach dem Krebsregistrierungsgesetz[^77a-1] selbständig oder gemeinsam mit anderen Kantonen aufgrund einer Leistungsvereinbarung.
+### 1. allgemein
 
-[^77a-1]: SR 818.33
+Der Kanton führt das kantonale Krebsregister nach dem Krebsregistrierungsgesetz<sup>35</sup> selbständig oder gemeinsam mit anderen Kantonen aufgrund einer Leistungsvereinbarung.
 
 #### Art. 77b
 
 **2. Datenbekanntgabe**
 
-<sup>1</sup> Die Gemeinden geben den Instanzen, die das kantonale Krebsregister oder das Schweizer Kinderkrebsregister führen, Daten nach Massgabe von Art. 32 Abs. 2 KRG[^77b-1] jährlich unentgeltlich bekannt, soweit dies zum Nachweis der Qualität und zur Ergänzung der für die Registrierung erforderlichen Daten notwendig ist.
+<sup>1</sup> Die Gemeinden geben den Instanzen, die das kantonale Krebsregister oder das Schweizer Kinderkrebsregister führen, Daten nach Massgabe von Art. 32 Abs. 2 KRG<sup>35</sup> jährlich unentgeltlich bekannt, soweit dies zum Nachweis der Qualität und zur Ergänzung der für die Registrierung erforderlichen Daten notwendig ist.
 
 <sup>2</sup> Die Übermittlung erfolgt über eine gesicherte elektronische Datenverbindung im elektronischen Abrufverfahren
 
-[^77b-1]: SR 818.33
-
-### 7.3 Bestattungen
+### C. Bestattungen
 
 #### Art. 78
 
@@ -1107,24 +1206,25 @@ beschliesst:
 
 #### Art. 79a
 
-**Kosten**
+**Kosten<sup>26</sup>**
 
 <sup>1</sup> Die notwendigen Kosten im Zusammenhang mit einer einfachen, schicklichen Bestattung gehen zu Lasten der Wohnsitzgemeinde beziehungsweise zu Lasten der Politischen Gemeinde gemäss Art. 79 Abs. 3, sofern diese:
 
 - 1\. nicht aus dem Nachlass der verstorbenen Person beglichen werden können; und
+
 - 2\. nicht anderweitig übernommen werden.
 
 <sup>2</sup> Diese Kosten umfassen die Ausgaben für den Leichentransport, einen Standardsarg mit einfacher Ausstattung, die Kremation inklusive einfacher Urne sowie die eigentliche Bestattung.
 
 <sup>3</sup> Machen mit der Bestattung beauftragte Dritte gegenüber der Politischen Gemeinde ausstehende Forderungen gemäss Abs. 1 geltend, haben sie hinreichende Inkassobemühungen darzutun.
 
-<sup>4</sup> Werden Kosten Dritter übernommen, geht deren Anspruch von Gesetzes wegen auf die Politische Gemeinde über.
+Werden Kosten Dritter übernommen, geht deren Anspruch von Gesetzes wegen auf die Politische Gemeinde über.
 
-## 8 Heilmittel
+### VIII. HEILMITTEL
 
-### 8.1 Arzneimittel
+### A. Arzneimittel
 
-### 8.1.1 Herstellung
+### 1. Herstellung
 
 #### Art. 80
 
@@ -1134,38 +1234,39 @@ beschliesst:
 
 <sup>2</sup> Bewilligungen zur Herstellung von Arzneimitteln nach Formula magistralis, Formula officinalis oder nach eigener Formel werden auf Antrag der Kantonsapothekerin oder des Kantonsapothekers vom Amt erteilt.
 
-<sup>3</sup> Apotheken und Drogerien melden der Kantonsapothekerin oder dem Kantonsapotheker vor dem Inverkehrbringen die Zusammensetzung der nach eigener Formel in kleinen Mengen hergestellten Arzneimittel; die Arzneimittelinformationen und die dafür verwendeten Anpreisungen sind beizulegen.
+<sup>3</sup> Apotheken und Drogerien melden der Kantonsapothekerin oder dem Kantonsapotheker vor dem Inverkehrbringen die Zusammensetzung der nach eigener Formel in kleinen Mengen hergestellten Arzneimittel; die Arzneimittelinformationen und die dafür verwendeten Anpreisungen sind beizulegen.<sup>26</sup>
+
+- 2\. Verschreibung, Anwendung und Abgabe
 
 [^80-1]: SR 812.21
-
-### 8.1.2 Verschreibung, Anwendung und Abgabe
 
 #### Art. 81
 
 **Verschreibung**
 
-<sup>1</sup> Verschreibungspflichtige Arzneimittel dürfen nur von Ärztinnen und Ärzten, Zahnärztinnen und Zahnärzten, Chiropraktorinnen und Chiropraktoren sowie Tierärztinnen und Tierärzten im Rahmen ihrer Zuständigkeit verschrieben werden.
+Verschreibungspflichtige Arzneimittel dürfen nur von Ärztinnen und Ärzten, Zahnärztinnen und Zahnärzten, Chiropraktorinnen und Chiropraktoren sowie Tierärztinnen und Tierärzten im Rahmen ihrer Zuständigkeit verschrieben werden.
 
 #### Art. 82
 
-**…**
+**…<sup>26</sup>**
 
 #### Art. 83
 
-**Abgabe und Anwendung verschreibungspflichtiger Arzneimittel**
+**Abgabe und Anwendung verschreibungspflichtiger**
 
-<sup>1</sup> Die Abgabe und Anwendung verschreibungspflichtiger Arzneimittel richtet sich nach Art. 24 HMG[^83-1] sowie Art. 41 und 42 der eidgenössischen Verordnung über die Arzneimittel (Arzneimittelverordnung, VAM)[^83-2].
+### Arzneimittel<sup>31</sup>
+
+<sup>1</sup> Die Abgabe und Anwendung verschreibungspflichtiger Arzneimittel richtet sich nach Art. 24 HMG[^hArzneimittelsup31-1] sowie Art. 41 und 42 der eidgenössischen Verordnung über die Arzneimittel (Arzneimittelverordnung, VAM)<sup>36</sup>.
 
 <sup>2</sup> Die Direktion bestimmt in einer Ausführungsbestimmung die verschreibungspflichtigen Arzneimittel, die von Berufskategorien gemäss Art. 52 VAM angewendet werden dürfen.
 
 <sup>3</sup> Die Kantonsapothekerin oder der Kantonsapotheker kann Personen gemäss Art. 25 Abs. 1 lit. c HMG die Anwendung bestimmter verschreibungspflichtiger Arzneimittel gemäss Art. 24 Abs. 3 HMG bewilligen.
 
-[^83-1]: SR 812.21
-[^83-2]: SR 812.212.21
+[^hArzneimittelsup31-1]: SR 812.21
 
 #### Art. 84
 
-**Privatapotheke von Medizinalpersonen**
+<sup>26</sup>Privatapotheke von Medizinalpersonen
 
 <sup>1</sup> Ärztinnen und Ärzte sowie Zahnärztinnen und Zahnärzte sind mit Bewilligung des Amtes berechtigt, zur Abgabe von Arzneimitteln eine Privatapotheke zu führen.
 
@@ -1177,20 +1278,19 @@ beschliesst:
 
 #### Art. 85
 
-**Abgabe nicht verschreibungspflichtiger Arzneimitte**
+**Abgabe nicht verschreibungspflichtiger Arzneimitte<sup>31</sup>**
 
-<sup>1</sup> Die Abgabe nicht verschreibungspflichtiger Arzneimittel richtet sich nach den Art. 25 HMG[^85-1] sowie Art. 43 und 44 VAM[^85-2].
+Die Abgabe nicht verschreibungspflichtiger Arzneimittel richtet sich nach den Art. 25 HMG[^85-1] sowie Art. 43 und 44 VAM<sup>36</sup>.
 
 [^85-1]: SR 812.21
-[^85-2]: SR 812.212.21
 
 #### Art. 86
 
-**…**
+**…<sup>31</sup>**
 
 #### Art. 86a
 
-**Datenaustausch**
+**Datenaustausch<sup>26</sup>**
 
 <sup>1</sup> Zur Bekämpfung des Missbrauchs von Betäubungsmitteln und psychotropen Stoffen sowie des Missbrauchs mit gefälschten oder mehrfach beschafften Rezepten können die Kantonsapothekerin oder der Kantonsapotheker sowie die Kantonsärztin oder der Kantonsarzt mit den Apothekerinnen und Apothekern sowie den Ärztinnen und Ärzten Informationen über Personen, die Betäubungsmittel oder Heilmittel beziehen, austauschen.
 
@@ -1198,57 +1298,55 @@ beschliesst:
 
 <sup>3</sup> Der Regierungsrat regelt den Umfang des Datenaustausches, den Kreis der empfangs- oder zugriffsberechtigten Personen sowie die organisatorischen und technischen Massnahmen gegen unbefugtes Bearbeiten.
 
-### 8.2 Gemeinsame Bestimmungen für Arzneimittel und Medizinprodukte
+### B. Gemeinsame Bestimmungen für Arzneimittel und Medizin-
+
+produkte
 
 #### Art. 87
 
-**…**
+**…<sup>26</sup>**
 
 #### Art. 88
 
 **Aufsicht**
 
-<sup>1</sup> Die Kantonsapothekerin oder der Kantonsapotheker und die Kantonstierärztin oder der Kantonstierarzt sind je in ihrem Aufgabenbereich zuständig für die Marktüberwachung im Kompetenzbereich des Kantons.
+Die Kantonsapothekerin oder der Kantonsapotheker und die Kantonstierärztin oder der Kantonstierarzt sind je in ihrem Aufgabenbereich zuständig für die Marktüberwachung im Kompetenzbereich des Kantons.
 
-## 9 Rechtsschutz und Strafbestimmungen
+### IX. RECHTSSCHUTZ UND STRAFBESTIMMUNGEN
 
 #### Art. 89
 
-**Beschwerdeverfahren**
+**Beschwerdeverfahren<sup>24</sup>**
 
 <sup>1</sup> Beschwerden gegen Verfügungen oder Entscheide, die in Anwendung dieses Erlasses ergehen, haben keine aufschiebende Wirkung.
 
-<sup>2</sup> Im Übrigen richtet sich das Verfahren nach dem Verwaltungsrechtspflegegesetz[^89-1].
+<sup>2</sup> Im Übrigen richtet sich das Verfahren nach dem Verwaltungsrechtspflegegesetz<sup>25</sup>.
 
 <sup>3</sup> Vorbehalten bleiben die Rechtsmittel der Spezialgesetzgebung.
-
-[^89-1]: NG 265.1
 
 #### Art. 90
 
 **Strafbestimmungen**
 
-<sup>1</sup> Unter Vorbehalt der Strafbestimmungen des Bundesrechts wird mit Busse bis 100'000 Franken bestraft, wer vorsätzlich oder fahrlässig gegen Art. 18, 19, 30, 32, 34–38, 45, 47, 49, 50, 60, 63, 72, 80–81 oder 83–85 verstösst.
+<sup>1</sup> Unter Vorbehalt der Strafbestimmungen des Bundesrechts wird mit Busse bis 100'000 Franken bestraft, wer vorsätzlich oder fahrlässig gegen Art. 18, 19, 30, 32, 34-38, 45, 47, 49, 50, 60, 63, 72, 80-81 oder 83-85 verstösst.<sup>31</sup>
 
 <sup>2</sup> Versuch und Gehilfenschaft sind strafbar.
 
 <sup>3</sup> Anstelle einer juristischen Person sind die natürlichen Personen strafbar, die für sie gehandelt haben oder hätten handeln sollen. Können diese nicht festgestellt werden, wird die juristische Person oder die Gesellschaft zur Bezahlung der Busse verurteilt.
 
-## 10 Übergangs- und Schlussbestimmungen
+### X. ÜBERGANGS- UND SCHLUSSBESTIMMUNGEN
 
 #### Art. 91
 
 **Vollzug**
 
-<sup>1</sup> Der Regierungsrat erlässt die zum Vollzug dieses Gesetzes erforderlichen Bestimmungen.
+Der Regierungsrat erlässt die zum Vollzug dieses Gesetzes erforderlichen Bestimmungen.
 
 #### Art. 92
 
 **Änderung des Sozialhilfegesetzes**
 
-<sup>1</sup> Das Gesetz vom 29. Januar 1997 über die Sozialhilfe (Sozialhilfegesetz)[^92-1] wird wie folgt geändert: …
-
-[^92-1]: NG 761.1, A 1997, 165, 626
+Das Gesetz vom 29. Januar 1997 über die Sozialhilfe (Sozialhilfegesetz)<sup>14</sup> wird wie folgt geändert: ...
 
 #### Art. 93
 
@@ -1268,66 +1366,63 @@ beschliesst:
 
 #### Art. 93a
 
-**Übergangsbestimmung zur Änderung vom 22. Oktober 2014 1. Investitionsdarlehen für Pflegebetten**
+**Übergangsbestimmung zur Änderung**
+
+vom 22. Oktober 2014
+
+### 1. Investitionsdarlehen für Pflegebetten<sup>22</sup>
 
 <sup>1</sup> Der Kanton hat den Leistungserbringern die jährlich geschuldete Rückzahlungsrate für Investitionsdarlehen für Pflegebetten gemäss Art. 41c zu erlassen:
 
 - 1\. zu 100 Prozent in den Jahren 2015 bis 2021;
+
 - 2\. zu zwei Dritteln in den Jahren 2022 bis 2026;
+
 - 3\. zu einem Drittel in den Jahren 2027 bis 2031.
 
 <sup>2</sup> Bei einer Zweckentfremdung gemäss Art. 41g hat der Leistungserbringer zusätzlich die jährlich geschuldeten Rückzahlungsraten, die der Kanton gemäss Abs. 1 erlassen hat, nachträglich ohne Zinsen dem Kanton zurückzuzahlen. Die Rückzahlungsraten sind am Ende desjenigen Monats fällig, in dem die Zweckentfremdung erfolgt.
 
 #### Art. 93b
 
-**2. Investitionsbeiträge an Pflegeheime**
+**2. Investitionsbeiträge an Pflegeheime<sup>22</sup>**
 
-<sup>1</sup> Wurden an Pflegeheime vor Inkrafttreten der Änderung vom 22. Oktober 2014 Investitionsbeiträge ausgerichtet, gelten für diese Beiträge weiterhin die Bestimmungen des Gesetzes vom 29. Januar 1997 über die Sozialhilfe (Sozialhilfegesetz)[^93b-1] und der Vollziehungsverordnung vom 28. Mai 1991 zum Sozialhilfegesetz betreffend die Leistungen von Investitionsbeiträgen an Heime (Sozialhilfeverordnung 2)[^93b-2], insbesondere die Bestimmungen zur Zweckentfremdung.
-
-[^93b-1]: NG 761.1, A 1997, 165, 626
-[^93b-2]: A 1991, 991, 1588
+Wurden an Pflegeheime vor Inkrafttreten der Änderung vom 22. Oktober 2014 Investitionsbeiträge ausgerichtet, gelten für diese Beiträge weiterhin die Bestimmungen des Gesetzes vom 29. Januar 1997 über die Sozialhilfe (Sozialhilfegesetz)<sup>14</sup> und der Vollziehungsverordnung vom 28. Mai 1991 zum Sozialhilfegesetz betreffend die Leistungen von Investitionsbeiträgen an Heime (Sozialhilfeverordnung 2)<sup>23</sup>, insbesondere die Bestimmungen zur Zweckentfremdung.
 
 #### Art. 93c
 
-**3. bedingt rückzahlbare, zinslose Darlehen an Heime für Betagte**
+**3. bedingt rückzahlbare, zinslose Darlehen an Heime**
 
-<sup>1</sup> Wurden an Heime für Betagte vor Inkrafttreten der Änderung vom 22. Oktober 2014 bedingt rückzahlbare, zinslose Darlehen ausgerichtet, gelten unter Vorbehalt von Abs. 2 und 3 weiterhin die Bestimmungen des Gesetzes vom 29. Januar 1997 über die Sozialhilfe (Sozialhilfegesetz)[^93c-1] und der Vollziehungsverordnung vom 28. Mai 1991 zum Sozialhilfegesetz betreffend die Leistungen von Investitionsbeiträgen an Heime (Sozialhilfeverordnung 2)[^93c-2].
+für Betagte<sup>22</sup>
+
+<sup>1</sup> Wurden an Heime für Betagte vor Inkrafttreten der Änderung vom 22. Oktober 2014 bedingt rückzahlbare, zinslose Darlehen ausgerichtet, gelten unter Vorbehalt von Abs. 2 und 3 weiterhin die Bestimmungen des Gesetzes vom 29. Januar 1997 über die Sozialhilfe (Sozialhilfegesetz)<sup>14</sup> und der Vollziehungsverordnung vom 28. Mai 1991 zum Sozialhilfegesetz betreffend die Leistungen von Investitionsbeiträgen an Heime (Sozialhilfeverordnung 2)<sup>23</sup>.
 
 <sup>2</sup> Die bisherigen Bestimmungen kommen nur für diejenigen Pflegebetten zur Anwendung, die vor Inkrafttreten dieses Gesetzes erstellt wurden.
 
-<sup>3</sup> Die Amortisation der Darlehen hat ab Inkrafttreten der Änderung vom 22. Oktober 2014 in jährlichen Raten zu erfolgen. Die Raten sind derart zu bemessen, dass die Darlehen per 31. Dezember 2032 vollständig getilgt sind. § 16 der Sozialhilfeverordnung 2[^93c-3] ist nicht mehr anwendbar.
-
-[^93c-1]: NG 761.1, A 1997, 165, 626
-[^93c-2]: A 1991, 991, 1588
-[^93c-3]: A 1991, 991, 1588
+<sup>3</sup> Die Amortisation der Darlehen hat ab Inkrafttreten der Änderung vom 22. Oktober 2014 in jährlichen Raten zu erfolgen. Die Raten sind derart zu bemessen, dass die Darlehen per 31. Dezember 2032 vollständig getilgt sind. § 16 der Sozialhilfeverordnung 2<sup>23</sup> ist nicht mehr anwendbar.
 
 #### Art. 93d
 
-**4. Investitionsdarlehen an Ersatzbauten**
+**4. Investitionsdarlehen an Ersatzbauten<sup>22</sup>**
 
-<sup>1</sup> An Ersatzbauten von Leistungserbringern, die gemäss Art. 62 ff. des Gesetzes vom 29. Januar 1997 über die Sozialhilfe (Sozialhilfegesetz)[^93d-1] bedingt rückzahlbare, zinslose Darlehen erhalten haben, werden einmalig Investitionsdarlehen gemäss Art. 41a ff. ausgerichtet.
+<sup>1</sup> An Ersatzbauten von Leistungserbringern, die gemäss Art. 62 ff. des Gesetzes vom 29. Januar 1997 über die Sozialhilfe (Sozialhilfegesetz)<sup>14</sup> bedingt rückzahlbare, zinslose Darlehen erhalten haben, werden einmalig Investitionsdarlehen gemäss Art. 41a ff. ausgerichtet.
 
 <sup>2</sup> Die bei Gewährung der Investitionsdarlehen bestehende Restschuld aus dem bedingt rückzahlbaren, zinslosen Darlehen ist mit Inbetriebnahme des Ersatzbaus dem Kanton zurückzuzahlen.
 
 <sup>3</sup> Der Anspruch auf Investitionsdarlehen erlischt, wenn nicht binnen fünf Jahren nach Inkrafttreten der Änderung vom 22. Oktober 2014 eine rechtskräftige Baubewilligung für die Ersatzbaute vorliegt. Bei Erlöschen des Anspruchs sind bereits geleistete Investitionsdarlehen zurückzuzahlen.
 
-[^93d-1]: NG 761.1, A 1997, 165, 626
-
 #### Art. 94
 
 **Aufhebung bisherigen Rechts**
 
-<sup>1</sup> Alle mit diesem Gesetz in Widerspruch stehenden Bestimmungen sind aufgehoben, insbesondere:
+Alle mit diesem Gesetz in Widerspruch stehenden Bestimmungen sind aufgehoben, insbesondere:
 
-- 1\. das Gesetz vom 29. April 1973 über das Gesundheitswesen (Gesundheitsgesetz)[^94-1];
-- 2\. die Verordnung vom 10. Dezember 1997 über die Berufe der Gesundheitspflege (Gesundheitsverordnung)[^94-2];
-- 3\. die Vollziehungsverordnung vom 27. März 1981 zum Gesetz über das Kantonsspital (Spitalverordnung)[^94-3];
-- 4\. Art. 3 Abs. 2 Ziff. 3 und Art. 8 Abs. 1 des Gesetzes vom 27. April 1969 über das Veterinärwesen[^94-4].
+- 1\. das Gesetz vom 29. April 1973 über das Gesundheitswesen (Gesundheitsgesetz)<sup>15</sup>;
 
-[^94-1]: A 1973, 673
-[^94-2]: A 1997, 2125; A 1998, 261
-[^94-3]: A 1981, 394, 730
-[^94-4]: NG 826.1
+- 2\. die Verordnung vom 10. Dezember 1997 über die Berufe der Gesundheitspflege (Gesundheitsverordnung)<sup>16</sup>;
+
+- 3\. die Vollziehungsverordnung vom 27. März 1981 zum Gesetz über das Kantonsspital (Spitalverordnung)<sup>17</sup>;
+
+- 4\. Art. 3 Abs. 2 Ziff. 3 und Art. 8 Abs. 1 des Gesetzes vom 27. April 1969 über das Veterinärwesen<sup>18</sup>.
 
 #### Art. 95
 
@@ -1339,6 +1434,58 @@ beschliesst:
 
 <sup>3</sup> Der Regierungsrat legt den Zeitpunkt des Inkrafttretens[^95-1] fest.
 
-[^95-1]: Volksabstimmung vom 28. September 2008, A 2008, 1943, 1944, 2127; A 2009, 199; Datum des Inkrafttretens: 1. März 2009
+<sup>13</sup> Art. 25b VAM, SR 812.212.21
 
-A 2007, 889; A 2008, 1943, 1944, 2127; A 2009, 199
+<sup>14</sup> NG 761.1, A 1997, 165, 626
+
+<sup>15</sup> A 1973, 673
+
+<sup>16</sup> A 1997, 2125; A 1998, 261
+
+<sup>17</sup> A 1981, 394, 730
+
+<sup>18</sup> NG 826.1
+
+<sup>19</sup> Fassung gemäss Landratsbeschluss vom 9. Juni 2010; A 2010, 1093, 1575, in Kraft seit 1. Januar 2011
+
+<sup>20</sup> NG 742.1
+
+<sup>21</sup> Fassung gemäss Landratsbeschluss vom 14. Dezember 2011, A 2011, 1743; A 2012, 558; in Kraft seit 1. Januar 2013
+
+<sup>22</sup> Fassung gemäss Landratsbeschluss vom 22. Oktober 2014, A 2014, 1856, A 2015, 52; in Kraft seit 1. Januar 2015
+
+<sup>23</sup> A 1991, 991, 1588
+
+<sup>24</sup> Fassung gemäss Landratsbeschluss vom 27. Mai 2015, A 2015, 881, 1338; in Kraft seit 1. Januar 2016
+
+<sup>25</sup> NG 265.1
+
+<sup>26</sup> Fassung gemäss Landratsbeschluss vom 20. April 2016, A 2016, 707; in Kraft seit 1. Juli 2016, A 2016, 1201
+
+<sup>27</sup> SR 810.21
+
+<sup>28</sup> SR 810.30
+
+<sup>29</sup> SR 832.105
+
+<sup>30</sup> NG 265.5
+
+<sup>31</sup> Fassung gemäss Landratsbeschluss vom 25. September 2019, A 2019, 1624, 2215; in Kraft seit 1. Januar 2020
+
+<sup>32</sup> SR 935.81
+
+<sup>33</sup> SR 811.21
+
+<sup>34</sup> SR 816.1
+
+<sup>35</sup> SR 818.33
+
+<sup>36</sup> SR 812.212.21
+
+[^95-1]: A 2007, 889; Volksabstimmung vom 28. September 2008, A 2008, 1943, 1944, 2127; A 2009, 199; Datum des Inkrafttretens: 1. März 2009
+
+## Weitere Fussnoten
+
+- [8] Art. 55a KVG, SR 832.10
+- [10] www.samw.ch
+- [12] Art.27 a Abs. 2 VAM, SR 812.212.21
