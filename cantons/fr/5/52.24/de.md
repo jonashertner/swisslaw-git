@@ -3,13 +3,13 @@ canton: FR
 number: "52.24"
 title: Verordnung über die Kommunikation bei ausserordentlichen Ereignissen
 language: de
-version: 2016-03-14
-valid_until: 2022-11-30
-version_adopted: 2016-03-14
+version: 2022-12-01
+valid_until: 2026-09-30
+version_adopted: 2022-11-08
 adopted: 2016-03-14
 in_force: 2016-03-14
 url: "https://bdlf.fr.ch/app/de/texts_of_law/52.24"
-pdf: "https://bdlf.fr.ch/api/de/versions/5259/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8611/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/5259/pdf_file"
 
 Kommunikation bei ausserordentlichen Ereignissen – V
 
-vom 14.03.2016 (Fassung in Kraft getreten am 14.03.2016)
+vom 14.03.2016 (Fassung in Kraft getreten am 01.12.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -52,7 +52,7 @@ beschliesst:
 
 **Definitionen**
 
-<sup>1</sup> Als ausserordentliche Ereignisse gelten Katastrophen, Notlagen sowie Grossunfälle und andere grössere Schadenfälle (Art. 2 BevSG).
+<sup>1</sup> Als ausserordentliche Ereignisse gelten Katastrophen, Notlagen sowie Grossunfälle und andere grössere Schadenfälle (Art. 2 BevSG[^2-1]).
 
 <sup>2</sup> Als Warnung gilt der Gefahrenhinweis zur vorgängigen Information der Behörden und/oder Partnerorganisationen und zur Bereitstellung der Führungsorgane für den Einsatz.
 
@@ -61,6 +61,8 @@ beschliesst:
 <sup>4</sup> Als Information gilt die Verbreitung (Bekanntgabe) von Sachverhalten, Verfügungen, Verhaltensempfehlungen oder -anweisungen im Rahmen der Prävention, der Vorsorge und der Bewältigung von ausserordentlichen Ereignissen.
 
 <sup>5</sup> Als Bevölkerung gelten die (ansässigen und fremden) Einwohnerinnen und Einwohner, die Unternehmen und die Institutionen.
+
+[^2-1]: SGF [52.2](https://bdlf.fr.ch/data/52.2/de)
 
 #### Art. 3
 
@@ -102,7 +104,7 @@ beschliesst:
 
 - a) den Inhalt und die Form der Warnungen und der Alarmierungen sowie der Informationen (Art. 2);
 - b) die Mittel zur Warnung, Alarmierung und Information (Art. 5);
-- c) die Aufteilung der Informationsaufgaben zwischen dem KFO und dem Amt für Bevölkerungsschutz und Militär (ABSM) (Art. 8 Abs. 2);
+- c) die Aufteilung der Informationsaufgaben zwischen dem KFO und dem Amt für zivile Sicherheit und Militär (AZSM) (Art. 8 Abs. 2);
 - d) die Zusammenarbeit mit den Unternehmen im Bereich der Information (Art. 3 Abs.1).
 
 ## 2 Kantonale Organisation
@@ -145,7 +147,9 @@ beschliesst:
 
 <sup>1</sup> Wenn mehrere Gemeinden von einem ausserordentlichen Ereignis betroffen sind, stellt die Oberamtsperson die Koordination der Information auf lokaler Ebene sicher.
 
-<sup>2</sup> Artikel 16 Abs. 2 in fine BevSG bleibt vorbehalten.
+<sup>2</sup> Artikel 16 Abs. 2 in fine BevSG[^10-1] bleibt vorbehalten.
+
+[^10-1]: SGF [52.2](https://bdlf.fr.ch/data/52.2/de)
 
 ## 3 Kommunale Organisation
 

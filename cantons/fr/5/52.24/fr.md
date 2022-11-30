@@ -3,13 +3,13 @@ canton: FR
 number: "52.24"
 title: "Ordonnance sur la communication en cas d'événement extraordinaire"
 language: fr
-version: 2016-03-14
-valid_until: 2022-11-30
-version_adopted: 2016-03-14
+version: 2022-12-01
+valid_until: 2026-09-30
+version_adopted: 2022-11-08
 adopted: 2016-03-14
 in_force: 2016-03-14
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/52.24"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5259/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8611/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/5259/pdf_file"
 
 Communication en cas d'événement extraordinaire – O
 
-du 14.03.2016 (version entrée en vigueur le 14.03.2016)
+du 14.03.2016 (version entrée en vigueur le 01.12.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -52,7 +52,7 @@ Arrête:
 
 **Définitions**
 
-<sup>1</sup> Par événements extraordinaires, on entend les catastrophes, les situations d'urgence ainsi que les accidents et les sinistres majeurs (art. 2 LProtPop).
+<sup>1</sup> Par événements extraordinaires, on entend les catastrophes, les situations d'urgence ainsi que les accidents et les sinistres majeurs (art. 2 LProtPop[^2-1]).
 
 <sup>2</sup> Par alerte, on entend l'avertissement destiné à informer préalablement les autorités et/ou les organisations partenaires ainsi qu'à mettre en disponibilité opérationnelle les organes de conduite.
 
@@ -61,6 +61,8 @@ Arrête:
 <sup>4</sup> Par information, on entend la diffusion (communication) de faits, de décisions, de recommandations ou de consignes de comportement dans le cadre de la prévention et de la préparation ainsi que lors de la gestion d'événements extraordinaires.
 
 <sup>5</sup> Par population, on entend les habitants (résidants et non-résidants), les entreprises et les institutions.
+
+[^2-1]: RSF [52.2](https://bdlf.fr.ch/data/52.2/fr)
 
 #### Art. 3
 
@@ -102,7 +104,7 @@ Arrête:
 
 - a) le contenu et la forme des messages d'alerte et d'alarme ainsi que de l'information (art. 2);
 - b) les moyens d'alerte, d'alarme et d'information (art. 5);
-- c) la répartition des tâches d'information entre l'OCC et le Service de la protection de la population et des affaires militaires (SPPAM) (art. 8 al. 2);
+- c) la répartition des tâches d'information entre l'OCC et le Service de la sécurité civile et militaire (SSCM) (art. 8 al. 2);
 - d) la collaboration avec les entreprises en matière d'information (art. 3 al. 1).
 
 ## 2 Organisation cantonale
@@ -145,7 +147,9 @@ Arrête:
 
 <sup>1</sup> Si plusieurs communes sont concernées par un événement extraordinaire, le préfet assure la coordination de l'information sur le plan local.
 
-<sup>2</sup> L'article 16 al. 2 in fine LProtPop est réservé.
+<sup>2</sup> L'article 16 al. 2 in fine LProtPop[^10-1] est réservé.
+
+[^10-1]: RSF [52.2](https://bdlf.fr.ch/data/52.2/fr)
 
 ## 3 Organisation communale
 
