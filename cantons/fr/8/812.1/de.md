@@ -4,13 +4,13 @@ number: "812.1"
 title: Gewässergesetz
 short: GewG
 language: de
-version: 2020-03-01
-valid_until: 2022-11-30
-version_adopted: 2020-02-04
+version: 2022-12-01
+valid_until: 2022-12-31
+version_adopted: 2022-10-14
 adopted: 2009-12-18
 in_force: 2011-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/812.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/7212/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7649/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Gewässergesetz
 
 (GewG)
 
-vom 18.12.2009 (Fassung in Kraft getreten am 01.03.2020)
+vom 18.12.2009 (Fassung in Kraft getreten am 01.12.2022)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -531,7 +531,7 @@ beschliesst:
 
 <sup>2</sup> Die Kosten der Ausbau-, Instandsetzungs- und Unterhaltsarbeiten gehen zu Lasten der betroffenen Gemeinde. Diese kann von den betroffenen Drittpersonen eine Beteiligung verlangen.
 
-<sup>3</sup> Die Kosten der Arbeiten nach Artikel 27 Abs. 3 und 4 werden von der Betreiberin oder vom Betreiber des künstlichen Sees getragen.
+<sup>3</sup> Die Kosten für die Arbeiten nach Artikel 27 Abs. 3 und 4 sind von denjenigen zu tragen, denen die Ausführung obliegt.
 
 #### Art. 46
 
@@ -555,7 +555,19 @@ beschliesst:
 
 <sup>3</sup> Wenn die Kosten der Ausbau- und Instandsetzungsarbeiten im Verhältnis zu den Schutzgütern unverhältnismässig hoch sind, wird keine Subvention gewährt; die Revitalisierungsarbeiten und Notfallmassnahmen werden dabei nicht berücksichtigt.
 
-<sup>4</sup> Der Staatsrat kann über Beiträge bis 500'000 Franken je Projekt entscheiden.
+<sup>3a</sup> Für die Verwaltung der Subventionen und die Nachkontrolle gelten die Bestimmungen der Subventionsgesetzgebung.
+
+<sup>4</sup> …
+
+#### Art. 47a
+
+**Subventionen: Zuständigkeiten**
+
+<sup>1</sup> In den Grenzen des Gesetzes vom 25. November 1994 über den Finanzhaushalt des Staates fallen die Verfügungen über die Gewährung und die Höhe von Subventionen in die Zuständigkeit des Staatsrats.
+
+<sup>2</sup> Der Staatsrat kann der Direktion die Kompetenz zur Gewährung von Subventionen bis zu 500'000 Franken übertragen.
+
+<sup>3</sup> Bei Projekten, die Bestandteil einer Programmvereinbarung sind, umfasst der für die Festlegung der Zuständigkeit berücksichtigte Subventionsbetrag den Anteil des Staates und die Beträge, die er vom Bund erhält. Bei Projekten, die nicht Bestandteil einer Programmvereinbarung sind, ist allein die Höhe der staatlichen Subventionen massgebend.
 
 #### Art. 48
 
@@ -726,6 +738,8 @@ beschliesst:
 <sup>2</sup> Wasserbauunternehmen, die wichtige Wasserbauarbeiten durchführen, werden nach Abschluss dieser Arbeiten aufgelöst.
 
 <sup>3</sup> In jedem Fall werden die Wasserbauunternehmen 10 Jahre nach dem Inkrafttreten dieses Gesetzes aufgelöst.
+
+<sup>3a</sup> Der Staatsrat kann nach Anhörung der betroffenen Gemeinden die Auflösung von Wasserbauunternehmen aus wichtigen Gründen und für einen begrenzten Zeitraum aufschieben. Der Staatsrat kann seinen Entscheid rückwirkend auf den 1. Januar 2021 gelten lassen.
 
 <sup>4</sup> Die Gemeinden können diese Aufgaben im Rahmen eines Gemeindeverbands übernehmen, wenn das Wasserbauunternehmen für ein gemeindeübergreifendes Gebiet zuständig war. Die Tabelle der Beitragssätze des Wasserbauunternehmens bleibt auch für den Gemeindeverband gültig. Das Reglement regelt die Beiträge der Eigentümerschaft.
 

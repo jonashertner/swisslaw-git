@@ -4,13 +4,13 @@ number: "812.1"
 title: Loi sur les eaux
 short: LCEaux
 language: fr
-version: 2020-03-01
-valid_until: 2022-11-30
-version_adopted: 2020-02-04
+version: 2022-12-01
+valid_until: 2022-12-31
+version_adopted: 2022-10-14
 adopted: 2009-12-18
 in_force: 2011-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/812.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7212/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7649/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Eaux – L
 
 (LCEaux)
 
-du 18.12.2009 (version entrée en vigueur le 01.03.2020)
+du 18.12.2009 (version entrée en vigueur le 01.12.2022)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -555,7 +555,19 @@ Décrète:
 
 <sup>3</sup> Toute subvention est refusée si le coût des travaux d'aménagement ou de réfection, à l'exclusion des travaux de revitalisation et des mesures d'urgence, est disproportionné par rapport à la valeur des biens à protéger.
 
-<sup>4</sup> La compétence du Conseil d'Etat en matière de subvention est limitée à 500'000 francs par projet.
+<sup>3a</sup> La gestion et le suivi des subventions sont assurés conformément aux dispositions de la législation sur les subventions.
+
+<sup>4</sup> …
+
+#### Art. 47a
+
+**Subventions: compétences**
+
+<sup>1</sup> Dans les limites fixées par la loi du 25 novembre 1994 sur les finances de l'Etat, les décisions sur l'octroi et le montant des subventions sont de la compétence du Conseil d'Etat.
+
+<sup>2</sup> Le Conseil d'Etat peut déléguer à la Direction la compétence d'octroyer des subventions jusqu'à 500'000 francs.
+
+<sup>3</sup> Pour les projets intégrés aux conventions-programmes, le montant de la subvention considéré pour définir les compétences d'octroi comprend la part de l'Etat et les montants qu'il reçoit de la Confédération. Pour les projets hors conventions-programmes, seul le montant de la subvention de l'Etat est considéré.
 
 #### Art. 48
 
@@ -726,6 +738,8 @@ Décrète:
 <sup>2</sup> Les entreprises d'endiguement qui mènent d'importants travaux d'aménagement seront dissoutes au terme de ces travaux.
 
 <sup>3</sup> Dans tous les cas, les entreprises d'endiguement sont dissoutes de plein droit dix ans après l'entrée en vigueur de la présente loi.
+
+<sup>3a</sup> Après consultation des communes concernées, le Conseil d'Etat peut prolonger l'existence des entreprises d'endiguement pour de justes motifs et pour une période limitée. Le Conseil d'Etat peut donner à sa décision un effet rétroactif au 1<sup>er</sup> janvier 2021.
 
 <sup>4</sup> Les communes peuvent reprendre ces tâches dans le cadre d'une association intercommunale lorsque l'entreprise d'endiguement concernait un périmètre intercommunal. Le tableau des taux de contributions de l'entreprise d'endiguement reste valable pour l'association intercommunale. Le règlement fixe les modalités concernant les contributions des propriétaires.
 
