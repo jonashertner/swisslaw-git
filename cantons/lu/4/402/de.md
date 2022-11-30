@@ -3,20 +3,20 @@ canton: LU
 number: "402"
 title: Kulturförderungsgesetz
 language: de
-version: 2015-01-01
-valid_until: 2022-11-30
-version_adopted: 2015-03-16
+version: 2022-12-01
+valid_until: 2022-12-31
+version_adopted: 2022-09-12
 adopted: 1994-09-13
 in_force: 1995-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/402"
-pdf: "https://srl.lu.ch/api/de/versions/2753/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3990/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Kulturförderungsgesetz
 
-vom 13.09.1994 (Stand 01.01.2015)
+vom 13.09.1994 (Stand 01.12.2022)
 
 Der Grosse Rat des Kantons Luzern,
 
@@ -65,7 +65,7 @@ beschliesst:
 - h. Unterstützung von Kulturbetrieben und -organisationen,
 - i. Beteiligung an Kulturbetrieben.
 
-<sup>2</sup> Der Kanton führt das Historische Museum und das Natur-Museum. Er kann weitere Anstalten errichten oder eigene kulturelle Sammlungen unterhalten.
+<sup>2</sup> Der Kanton führt ein Museum zu den Themen Natur, Geschichte und Gesellschaft. Er kann weitere Anstalten errichten oder eigene kulturelle Sammlungen unterhalten.
 
 <sup>3</sup> Der Kanton bemüht sich um gute Rahmenbedingungen für das Kulturschaffen und die Kulturförderung.
 
