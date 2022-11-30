@@ -4,11 +4,11 @@ title: "Verordnung vom 23. Mai 2012 über die Förderung von Sport und Bewegung 
 short: SpoFöV
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/461"
 language: de
-version: 2022-01-01
+version: 2022-12-01
 adopted: 2012-05-23
 in_force: 2012-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/461/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2012-461-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/461/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/461/20221201/de/xml/fedlex-data-admin-ch-eli-cc-2012-461-20221201-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/461/20221201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/461/20220101/de"
 
 (Sportförderungsverordnung, SpoFöV)
 
-vom 23. Mai 2012 (Stand am 1. Januar 2022)
+vom 23. Mai 2012 (Stand am 1. Dezember 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -49,7 +49,7 @@ Der Bund unterstützt Sport- und Bewegungsförderungsprogramme und -projekte, we
 - a. J+S gestaltet und fördert kinder- und jugendgerechten Sport und berücksichtigt dabei die Grundsätze der Fairness und der Sicherheit.
 - b. J+S ermöglicht Kindern und Jugendlichen, Sport ganzheitlich zu erleben und mitzugestalten, und fördert ihre Einbettung in eine Sportgemeinschaft.
 - c. J+S unterstützt unter pädagogischen, sozialen und gesundheitlichen Gesichtspunkten die Entwicklung und Entfaltung junger Menschen.
-- d.[^2-1] ...
+- d.[^2-1] …
 - e. J+S bereitet Sportleiterinnen und Sportleiter mit einer spezifischen Ausbildung auf ihre Aufgaben als J+S-Kader vor, bildet sie bedürfnisgerecht weiter und begleitet sie in der Ausübung ihrer J+S-Kaderfunktion.
 
 <sup>2</sup> Das Bundesamt für Sport (BASPO) kann zum Zweck der sozialen Integration, der Geschlechtergleichstellung, der Gesundheitsförderung oder der Promotion von J+S Massnahmen zur verstärkten Förderung von einzelnen J+S-Sportarten oder von J+S insgesamt bei bestimmten Gruppen von Kindern und Jugendlichen treffen.
@@ -140,7 +140,7 @@ In keinem Fall aufgenommen werden:
 
 In J+S werden sechs Nutzergruppen (NG) unterschieden. Das BASPO weist die J+S-Angebote den folgenden Nutzergruppen zu:[^8-1]
 
-- a.[^8-2] J+S-Angebote der NG 1 sind Angebote von Sportvereinen oder ähnlich funktionierenden Organisationen, die eine oder mehrere J+S-Sportarten mit Kindern oder Jugendlichen im Rahmen von Kursen regelmässig, zielgerichtet und unter Anleitung in einer beständigen Gruppe üben und anwenden.
+- a.[^8-2] J+S-Angebote der NG 1 sind Angebote von Sportvereinen oder ähnlich funktionierenden Organisationen, die eine oder mehrere J+S-Sportarten mit Kindern oder Jugendlichen im Rahmen von Kursen regelmässig, zielgerichtet und unter Anleitung in einer beständigen Gruppe üben und anwenden oder im Rahmen von Lagern zum Erleben von Sport und zur Pflege der sozialen Aspekte anleiten.
 - b. J+S-Angebote der NG 2 sind Angebote nach Buchstabe a, deren Regelmässigkeit jedoch abhängig ist von den äusseren Bedingungen, namentlich von Wind, Wasser oder Schnee.
 - c.[^8-3] J+S-Angebote der NG 3 sind Angebote von Jugendverbänden und -vereinen, die darin bestehen, dass Kinder oder Jugendliche im Rahmen von Lagern zu Spiel und Sport und zur Pflege der sozialen Aspekte angeleitet werden.
 - d. J+S-Angebote der NG 4 sind Angebote von Kantonen, Gemeinden oder nationalen Sportverbänden. Die Arbeit mit den Kindern oder Jugendlichen besteht darin, die Kinder und Jugendlichen im Rahmen von Lagern zum Erleben von Sport und zur Pflege der sozialen Aspekte anzuleiten oder sie dazu anzuleiten, eine oder mehrere J+S-Sportarten im Rahmen von Kursen regelmässig, zielgerichtet in einer beständigen Gruppe zu üben und anzuwenden.
@@ -149,15 +149,15 @@ In J+S werden sechs Nutzergruppen (NG) unterschieden. Das BASPO weist die J+S-An
 
   J+S-Angebote der NG 6 sind Angebote von Kantonen, Gemeinden, Sportverbänden, Sportvereinen oder ähnlich funktionierenden Organisationen:
 
-  - 1\.[^8-4] ...
+  - 1\.[^8-4] …
   - 2\. für besondere Fördermassnahmen nach Artikel 22 Absatz 4.
 
-- g.[^8-5] ...
+- g.[^8-5] …
 
-<sup>2</sup> ...[^8-6]
+<sup>2</sup> …[^8-6]
 
 [^8-1]: Fassung gemäss Ziff. I der V vom 15. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6589](https://fedlex.data.admin.ch/eli/oc/2017/729)).
-[^8-2]: Fassung gemäss Ziff. I der V vom 11. Sept. 2015, in Kraft seit 1. Dez. 2015 ([AS 2015 3701](https://fedlex.data.admin.ch/eli/oc/2015/615)).
+[^8-2]: Fassung gemäss Ziff. I der V vom 30. März 2022, in Kraft seit 1. Dez. 2022 ([AS 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
 [^8-3]: Fassung gemäss Ziff. I der V vom 20. Aug. 2014, in Kraft seit 1. Okt. 2014 ([AS 2014 2841](https://fedlex.data.admin.ch/eli/oc/2014/489)).
 [^8-4]: Aufgehoben durch Ziff. I der V vom 3. April 2020, mit Wirkung seit 1. Juli 2020 ([AS 2020 1513](https://fedlex.data.admin.ch/eli/oc/2020/303)).
 [^8-5]: Aufgehoben durch Ziff. I der V vom 15. Nov. 2017, mit Wirkung seit 1. Jan. 2018 ([AS 2017 6589](https://fedlex.data.admin.ch/eli/oc/2017/729)).
@@ -172,17 +172,19 @@ In J+S werden sechs Nutzergruppen (NG) unterschieden. Das BASPO weist die J+S-An
 Das VBS legt für die einzelnen Nutzergruppen fest:
 
 - a. die Minimaldauer von Kursen und Lagern;
-- b. die Mindestanzahl der Lektionen oder Aktivitäten pro Kurs und Lager;
-- c. die Minimaldauer der einzelnen Lektionen oder Aktivitäten.
+- b.[^9-1] die Mindestanzahl der Aktivitäten pro Kurs und Lager;
+- c.[^9-2] die Minimaldauer der einzelnen Aktivitäten.
 
 <sup>2</sup> Es legt für die J+S-Kurse und -Lager in einzelnen Sportarten die höchstens zulässige Anzahl Teilnehmerinnen und Teilnehmer pro J+S-Leiterin und -Leiter fest.
 
-<sup>3</sup> Das BASPO kann innerhalb der Grenzen von Artikel 6 Absatz 3 SpoFöG das Teilnahmealter für bestimmte Sportarten, Aktivitäten oder Nutzergruppen einschränken.[^9-1]
+<sup>3</sup> Das BASPO kann innerhalb der Grenzen von Artikel 6 Absatz 3 SpoFöG das Teilnahmealter für bestimmte Sportarten, Aktivitäten oder Nutzergruppen einschränken.[^9-3]
 
-<sup>4</sup> Es legt die weiteren spezifischen Anforderungen für die Durchführung von J+S-Angeboten in den einzelnen Sportarten, Aktivitäten und Nutzergruppen fest.[^9-2]
+<sup>4</sup> Es legt die weiteren spezifischen Anforderungen für die Durchführung von J+S-Angeboten in den einzelnen Sportarten, Aktivitäten und Nutzergruppen fest.[^9-4]
 
-[^9-1]: Fassung gemäss Ziff. I der V vom 3. April 2020, in Kraft seit 1. Juli 2020 ([AS 2020 1513](https://fedlex.data.admin.ch/eli/oc/2020/303)).
-[^9-2]: Fassung gemäss Ziff. I der V vom 3. April 2020, in Kraft seit 1. Juli 2020 ([AS 2020 1513](https://fedlex.data.admin.ch/eli/oc/2020/303)).
+[^9-1]: Fassung gemäss Ziff. I der V vom 30. März 2022, in Kraft seit 1. Dez. 2022 ([AS 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
+[^9-2]: Fassung gemäss Ziff. I der V vom 30. März 2022, in Kraft seit 1. Dez. 2022 ([AS 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
+[^9-3]: Fassung gemäss Ziff. I der V vom 3. April 2020, in Kraft seit 1. Juli 2020 ([AS 2020 1513](https://fedlex.data.admin.ch/eli/oc/2020/303)).
+[^9-4]: Fassung gemäss Ziff. I der V vom 3. April 2020, in Kraft seit 1. Juli 2020 ([AS 2020 1513](https://fedlex.data.admin.ch/eli/oc/2020/303)).
 
 ### 4. Abschnitt: Organisatoren
 
@@ -232,11 +234,14 @@ Das BASPO legt in seinem Entscheid fest:
 
 **Pflichten der Organisatoren von J+S-Angeboten**
 
-<sup>1</sup> Die Organisatoren von J+S-Angeboten stellen sicher, dass die notwendigen Vorkehren zur Gewährleistung der Sicherheit und der Gesundheit der Teilnehmerinnen und Teilnehmer und zur Verhinderung von Unfällen getroffen und während des ganzen Kurses oder Lagers eingehalten werden.
+<sup>1</sup> Die Organisatoren von J+S-Angeboten stellen sicher, dass die Grundsätze des fairen und sicheren Sports umgesetzt, die notwendigen Vorkehren zur Gewährleistung der Sicherheit und der Gesundheit der Teilnehmerinnen und Teilnehmer und zur Verhinderung von Unfällen getroffen und während des ganzen Kurses oder Lagers eingehalten werden.[^11-1]
 
-<sup>2</sup> Stellt ein Organisator eines J+S-Angebots fest, dass die verantwortlichen J+S-Kadermitglieder bei der Durchführung des Angebots ihren Aufsichts- und Betreuungspflichten nicht genügend nachkommen, so ergreift er die erforderlichen Massnahmen und informiert die kantonale Behörde, die für die Durchführung von J+S zuständig ist. Stellt er die Begehung von Vergehen oder Verbrechen fest, so informiert er die Strafverfolgungsbehörden.
+<sup>2</sup> Stellt ein Organisator eines J+S-Angebots fest, dass die verantwortlichen J+S-Kadermitglieder bei der Durchführung des Angebots ihren Aufsichts- und Betreuungspflichten nicht genügend nachkommen, so ergreift er die erforderlichen Massnahmen und informiert das BASPO. Stellt er Vergehen oder Verbrechen fest, so informiert er das BASPO und die Strafverfolgungsbehörden.[^11-2]
 
 <sup>3</sup> Die Organisatoren von J+S-Angeboten informieren Teilnehmerinnen und Teilnehmer, deren gesetzliche Vertreterinnen und Vertreter sowie die Kadermitglieder der Organisatoren über mögliche Risiken im Zusammenhang mit der Sportausübung und machen sie auf den Zweck einer Unfall- und Haftpflichtversicherung aufmerksam.
+
+[^11-1]: Fassung gemäss Ziff. I der V vom 30. März 2022, in Kraft seit 1. Dez. 2022 ([AS 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
+[^11-2]: Fassung gemäss Ziff. I der V vom 30. März 2022, in Kraft seit 1. Dez. 2022 ([AS 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
 
 #### Art. 12
 
@@ -263,20 +268,21 @@ Das BASPO legt in seinem Entscheid fest:
 
 Das J+S-Kader umfasst alle Personen mit einer Anerkennung als:
 
-- a.[^13-1] J+S-Leiterin oder -Leiter, einschliesslich der Anerkennung als J+S-Leiterin oder -Leiter Schulsport;
+- a.[^13-1] J+S-Leiterin oder -Leiter in einer J+S-Sportart oder als J+S-Leiterin oder -Leiter Schulsport;
 - b. J+S-Coach;
-- c.[^13-2] ...
-- d. J+S-Expertin oder -Experte.
+- c.[^13-2] …
+- d.[^13-3] J+S-Expertin oder -Experte in einer J+S-Sportart oder als J+S-Expertin oder -Experte Schulsport.
 
-<sup>1bis</sup> Soweit diese Verordnung oder untergeordnete Verordnungen nichts anderes vorsehen, gelten die Bestimmungen für J+S-Leiterinnen und -Leiter gleichermassen für J+S-Leiterinnen und -Leiter Schulsport.[^13-3]
+<sup>1</sup> <sup>bis</sup> Soweit diese Verordnung oder untergeordnete Verordnungen nichts anderes vorsehen, gelten die Bestimmungen für J+S-Leiterinnen und -Leiter gleichermassen für J+S-Leiterinnen und -Leiter Schulsport und die Bestimmungen für J+S-Expertinnen und -Experten gleichermassen für J+S-Expertinnen und -Experten Schulsport.[^13-4]
 
 <sup>2</sup> Wer die entsprechende Ausbildung erfolgreich absolviert hat, kann als J+S-Kadermitglied anerkannt werden. Das BASPO erteilt die Anerkennung auf Antrag des Organisators der Kaderbildung. Es kann in begründeten Fällen vom Antrag abweichen.
 
 <sup>3</sup> Die Anerkennung ist alle zwei Jahre zu erneuern. Dazu muss die betreffende Person einen Weiterbildungskurs absolvieren.
 
-[^13-1]: Fassung gemäss Ziff. I der V vom 11. Sept. 2015, in Kraft seit 1. Dez. 2015 ([AS 2015 3701](https://fedlex.data.admin.ch/eli/oc/2015/615)).
+[^13-1]: Fassung gemäss Ziff. I der V vom 30. März 2022, in Kraft seit 1. Dez. 2022 ([AS 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
 [^13-2]: Aufgehoben durch Ziff. I der V vom 15. Nov. 2017, mit Wirkung seit 1. Jan. 2018 ([AS 2017 6589](https://fedlex.data.admin.ch/eli/oc/2017/729)).
-[^13-3]: Eingefügt durch Ziff. I der V vom 11. Sept. 2015, in Kraft seit 1. Dez. 2015 ([AS 2015 3701](https://fedlex.data.admin.ch/eli/oc/2015/615)).
+[^13-3]: Fassung gemäss Ziff. I der V vom 30. März 2022, in Kraft seit 1. Dez. 2022 ([AS 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
+[^13-4]: Eingefügt durch Ziff. I der V vom 11. Sept. 2015 ([AS 2015 3701](https://fedlex.data.admin.ch/eli/oc/2015/615)). Fassung gemäss Ziff. I der V vom 30. März 2022, in Kraft seit 1. Dez. 2022 ([AS 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
 
 #### Art. 14
 
@@ -306,9 +312,11 @@ Die J+S-Kadermitglieder setzen in ihrer Tätigkeit die Grundsätze des fairen un
 
 **J+S-Leiterinnen und -Leiter**
 
-<sup>1</sup> J+S-Leiterinnen und -Leiter können J+S-Kurse und J+S-Lager oder einzelne Aktivitäten innerhalb von Kursen und Lagern eines Organisators leiten, soweit sie durch ihre Ausbildung dazu berechtigt sind.
+<sup>1</sup> J+S-Leiterinnen und -Leiter können J+S-Kurse und J+S-Lager oder einzelne Aktivitäten innerhalb von Kursen und Lagern eines Organisators leiten, soweit sie durch ihre Ausbildung dazu berechtigt sind und das 18. Altersjahr vollendet haben. Das VBS kann für einzelne Sportarten ein abweichendes Alter festlegen.[^16-1]
 
 <sup>2</sup> Das BASPO legt für die einzelnen Leitertätigkeiten die erforderlichen Ausbildungen fest.
+
+[^16-1]: Fassung gemäss Ziff. I der V vom 30. März 2022, in Kraft seit 1. Dez. 2022 ([AS 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
 
 #### Art. 17
 
@@ -332,33 +340,66 @@ J+S-Expertinnen und -Experten bilden J+S-Leiterinnen und -Leiter, J+S-Coaches so
 
 #### Art. 20
 
-**Wegfall von Anerkennungen**
+**Wegfall von Anerkennungen**[^20-1]
 
-<sup>1</sup> Die Anerkennung als J+S Kadermitglied ist gültig bis zum Ende des übernächsten Kalenderjahres nach ihrer Ausstellung oder nach der letzten Weiterbildung; sie fällt dahin, wenn die Weiterbildungspflicht nicht erfüllt wird.
+<sup>1</sup> Die Anerkennung als J+S Kadermitglied ist gültig bis zum Ende des übernächsten Kalenderjahres nach ihrer Ausstellung oder nach der letzten Weiterbildung; sie fällt weg, wenn die Weiterbildungspflicht nicht erfüllt wird.
 
-<sup>2</sup> Die Anerkennung kann wiedererlangt werden, wenn die Weiterbildungspflicht innert vier Jahren erfüllt wird. Für Personen, deren Anerkennung mehr als vier Jahre weggefallen ist, kann das BASPO Wiedereinstiegsmodule vorsehen.
+<sup>2</sup> Eine weggefallene Anerkennung kann durch Absolvierung einer Weiterbildung wiedererlangt werden.
 
-<sup>3</sup> Fällt die Anerkennung eines J+S-Kadermitglieds während eines laufenden J+S-Angebots dahin, so kann dieses bis zum Ende bereits begonnener Kurse oder Lager eingesetzt bleiben; handelt es sich beim betroffenen Kadermitglied um einen J+S-Coach, so kann dieser bis zum Ende des Angebots eingesetzt bleiben.
+<sup>3</sup> Fällt die Anerkennung eines J+S-Kadermitglieds während eines laufenden J+S-Angebots weg, so kann das Kadermitglied bis zum Ende bereits begonnener Kurse oder Lager eingesetzt bleiben; handelt es sich beim betroffenen Kadermitglied um einen J+S-Coach, so kann dieser bis zum Ende des Angebots eingesetzt bleiben.
 
-<sup>4</sup> J+S-Leiterinnen und -Leiter, die zuletzt im Jahr 2019 eine J+S-Aus- oder -Weiterbildung erfolgreich absolviert haben, bleiben vorläufig berechtigt, J+S-Angebote durchzuführen.[^20-1]
+[^20-1]: Fassung gemäss Ziff. I der V vom 30. März 2022, in Kraft seit 1. Dez. 2022 ([AS 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
 
-[^20-1]: Eingefügt durch Ziff. I der V vom 20. Mai 2020 ([AS 2020 1757](https://fedlex.data.admin.ch/eli/oc/2020/345)). Fassung gemäss Ziff. I der V vom 30. Juni 2021, in Kraft vom 1. Jan. 2022 bis zum 31. Dez. 2022 ([AS 2021 417](https://fedlex.data.admin.ch/eli/oc/2021/417)).
+#### Art. 20a
+
+**Sistierung und Entzug von Anerkennungen im Zusammenhang mit Straftaten**[^20a-1]
+
+<sup>1</sup> In Fällen nach Artikel 10 Absatz 2 SpoFöG sistiert das BASPO auf Anzeige oder von Amtes wegen die Kaderanerkennung ohne Verzug.
+
+<sup>2</sup> Es entscheidet nach Abschluss des Strafverfahrens über die Aufhebung der Sistierung oder über den Entzug der Anerkennung.
+
+[^20a-1]: Eingefügt durch Ziff. I der V vom 30. März 2022, in Kraft seit 1. Dez. 2022 ([AS 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
 
 #### Art. 21
 
-**Sistierung und Entzug von Anerkennungen**
+**Sistierung und Entzug von Anerkennungen bei Pflichtverletzungen[^21-1]**
 
 <sup>1</sup>
 
-Das BASPO kann die Anerkennung von Kadermitgliedern sistieren oder entziehen wenn:
+Das BASPO kann die Anerkennung eines Kadermitgliedes sistieren oder entziehen, wenn:[^21-2]
 
 - a. das Kadermitglied gegen die im Gesetz, in dieser Verordnung oder in den darauf abgestützten Ausführungsbestimmungen festgelegten Verpflichtungen verstösst;
 - b. die Eignung des Kadermitglieds zur Ausübung seiner Aufgabe wegfällt; oder
-- c. die Zusammenarbeit zwischen dem Kadermitglied und dem BASPO oder der kantonalen Amtsstelle für J+S aufgrund eines zerrütteten Vertrauensverhältnisses nicht mehr möglich ist.
+- c. die Zusammenarbeit zwischen dem Kadermitglied und dem BASPO oder der kantonalen Amtsstelle für J+S aufgrund eines zerrütteten Vertrauensverhältnisses nicht mehr möglich ist;
+- d.[^21-3] das Kadermitglied zu Dopingzwecken Mittel nach Artikel 19 Absatz 3 SpoFöG konsumiert oder Methoden nach Artikel 19 Absatz 3 SpoFöG an sich selber angewendet hat;
+- e.[^21-4] das Kadermitglied an Online-Sportwetten teilgenommen hat, deren Zugang nach Artikel 86 des Geldspielgesetzes vom 29. September 2017[^21-5] gesperrt ist;
+- f.[^21-6] das Kadermitglied in das Informationssystem nach Artikel 24*a* des Bundesgesetzes vom 21. März 1997[^21-7] über Massnahmen zur Wahrung der inneren Sicherheit aufgenommen worden ist, weil es sich anlässlich von Sportveranstaltungen im In- oder Ausland gewalttätig verhalten hat; oder
+- g.[^21-8] das Kadermitglied (in seiner Eigenschaft als Mitglied oder als Beauftragte oder Beauftragter einer Sportorganisation) durch eine dafür zuständige Stelle eines Sportverbandes wegen Verstosses gegen die Bestimmungen des fairen und sicheren Sports disziplinarisch sanktioniert worden ist.
 
 <sup>2</sup> Anstelle einer Sistierung oder eines Entzugs kann das BASPO die weitere Tätigkeit des Kadermitglieds mit Auflagen verbinden.
 
 <sup>3</sup> In leichteren Fällen kann es eine Verwarnung aussprechen.
+
+[^21-1]: Fassung gemäss Ziff. I der V vom 30. März 2022, in Kraft seit 1. Dez. 2022 ([AS 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
+[^21-2]: Fassung gemäss Ziff. I der V vom 30. März 2022, in Kraft seit 1. Dez. 2022 ([AS 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
+[^21-3]: Eingefügt durch Ziff. I der V vom 30. März 2022, in Kraft seit 1. Dez. 2022 ([AS 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
+[^21-4]: Eingefügt durch Ziff. I der V vom 30. März 2022, in Kraft seit 1. Dez. 2022 ([AS 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
+[^21-5]: [SR 935.51](https://fedlex.data.admin.ch/eli/cc/2018/795)
+[^21-6]: Eingefügt durch Ziff. I der V vom 30. März 2022, in Kraft seit 1. Dez. 2022 ([AS 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
+[^21-7]: [SR 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
+[^21-8]: Eingefügt durch Ziff. I der V vom 30. März 2022, in Kraft seit 1. Dez. 2022 ([AS 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
+
+#### Art. 21a
+
+**Zusatzanerkennung Sicherheit**[^21a-1]
+
+<sup>1</sup> Wer eine J+S-Aktivität mit erhöhten Sicherheitsanforderungen leiten will, braucht eine Zusatzanerkennung Sicherheit. Diese wird erlangt durch das Absolvieren einer spezifischen Zusatzausbildung.
+
+<sup>2</sup> Das BASPO legt die Aktivitäten fest, die nur von Personen geleitet werden dürfen, die über die Zusatzanerkennung Sicherheit verfügen.
+
+<sup>3</sup> Die Zusatzanerkennung Sicherheit ist gültig bis am Ende des vierten Kalenderjahres nach Ausstellung.
+
+[^21a-1]: Eingefügt durch Ziff. I der V vom 30. März 2022, in Kraft seit 1. Dez. 2022 ([AS 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
 
 ### 6. Abschnitt: Beitragsgewährung
 
@@ -394,7 +435,7 @@ Bewilligungsinstanzen sind:
 - a. für Angebote der NG 1, 2, 3 und 5 sowie für Angebote von Gemeinden in der NG 4: die kantonale Behörde, die für die Durchführung von J+S zuständig ist, des Kantons, in dem die Organisation niedergelassen ist;
 - b.[^22-3] für Angebote von Kantonen und nationalen Sportverbänden in der NG 4 sowie für Angebote der NG 6: das BASPO.
 
-<sup>6</sup> ...[^22-4]
+<sup>6</sup> …[^22-4]
 
 [^22-1]: Eingefügt durch Ziff. I der V vom 20. Mai 2020 ([AS 2020 1757](https://fedlex.data.admin.ch/eli/oc/2020/345)). Fassung gemäss Ziff. I der V vom 30. Juni 2021, in Kraft vom 1. Jan. 2022 bis zum 31. Dez. 2022 ([AS 2021 417](https://fedlex.data.admin.ch/eli/oc/2021/417)).
 [^22-2]: Fassung gemäss Ziff. I der V vom 3. April 2020, in Kraft seit 1. Juli 2020 ([AS 2020 1513](https://fedlex.data.admin.ch/eli/oc/2020/303)).
@@ -413,7 +454,7 @@ Die Beiträge richten sich nach:
 - b. der Anzahl, der Häufigkeit und dem Umfang von Trainings und Wettkämpfen innerhalb einer Zeitspanne;
 - c. der Nutzergruppe;
 - c<sup>bis</sup>.[^23-1] der Sportart;
-- d.[^23-2] ...
+- d.[^23-2] …
 
 <sup>2</sup> Für Sportarten, zu deren Ausübung besondere Sicherheitsvorkehrungen zu treffen oder besonders qualifizierte Leiterinnen und Leiter beizuziehen sind, können zusätzliche Beiträge ausgerichtet werden. Das VBS legt die Sportarten fest.
 
@@ -424,7 +465,7 @@ Zusätzliche Beiträge können ausgerichtet werden an:
 - a. J+S-Angebote mit Kindern in der Nutzergruppe 5.
 - b. J+S-Angebote mit Kindern und Jugendlichen mit einer Behinderung.
 
-<sup>4</sup> ...[^23-3]
+<sup>4</sup> …[^23-3]
 
 <sup>5</sup> Das VBS legt den Umfang der Beiträge fest. Es passt die Beiträge periodisch der Teuerung an.
 
@@ -454,7 +495,7 @@ Zusätzliche Beiträge können ausgerichtet werden an:
 
 <sup>1</sup> Die Beiträge für J+S-Coaches richten sich nach dem Umfang der Beiträge für die Durchführung der J+S-Angebote. Sie beträgt höchstens 10 Prozent der Gesamtsumme.
 
-<sup>2</sup> Zuschläge nach Artikel 23 Absätze 2 und 3 werden für die Berechnung der Gesamtsumme nicht berücksichtigt. ...[^24-1]
+<sup>2</sup> Zuschläge nach Artikel 23 Absätze 2 und 3 werden für die Berechnung der Gesamtsumme nicht berücksichtigt. …[^24-1]
 
 <sup>3</sup> Das VBS legt den Umfang der Beiträge fest.
 
@@ -529,7 +570,7 @@ Das BASPO schliesst mit dem nationalen Sport- und Jugendverband einen Leistungsv
 
 <sup>4</sup> Es kann die Kosten der Reise mit öffentlichen Verkehrsmitteln von Teilnehmerinnen und Teilnehmern, Leiterinnen und Leitern sowie Hilfspersonen der Kaderbildung zu den Aus- und Weiterbildungen übernehmen.[^28-1]
 
-<sup>5</sup> ...[^28-2]
+<sup>5</sup> …[^28-2]
 
 [^28-1]: Fassung gemäss Ziff. I der V vom 3. April 2020, in Kraft seit 1. Juli 2020 ([AS 2020 1513](https://fedlex.data.admin.ch/eli/oc/2020/303)).
 [^28-2]: Aufgehoben durch Ziff. I der V vom 20. Aug. 2014, mit Wirkung seit 1. Okt. 2014 ([AS 2014 2841](https://fedlex.data.admin.ch/eli/oc/2014/489)).
@@ -642,9 +683,9 @@ ESA-Leiterinnen und -Leiter können Sportangebote für Erwachsene leiten. Ausges
 
 **Wegfall und Entzug von Anerkennungen**
 
-<sup>1</sup> Die Anerkennung als ESA-Kaderperson ist gültig bis zum Ende des übernächsten Kalenderjahres nach ihrer Ausstellung oder nach der letzten bestandenen Weiterbildung; sie fällt dahin, wenn die Weiterbildungspflicht nicht erfüllt wird.
+<sup>1</sup> Die Anerkennung als ESA-Kaderperson ist gültig bis zum Ende des übernächsten Kalenderjahres nach ihrer Ausstellung oder nach der letzten bestandenen Weiterbildung; sie fällt weg, wenn die Weiterbildungspflicht nicht erfüllt wird.[^39-1]
 
-<sup>2</sup> Die Anerkennung kann wiedererlangt werden, wenn ein Weiterbildungskurs erfolgreich absolviert wird.[^39-1]
+<sup>2</sup> Die Anerkennung kann wiedererlangt werden, wenn ein Weiterbildungskurs erfolgreich absolviert wird.[^39-2]
 
 <sup>3</sup>
 
@@ -653,12 +694,13 @@ Das BASPO entzieht die Anerkennung von Kadermitgliedern bei:
 - a. einer strafrechtlichen Verurteilung, welche begründete Zweifel an der Fähigkeit des ESA-Kadermitglieds hinterlässt, weiter seine Aufgaben korrekt wahrnehmen zu können;
 - b. wiederholten Verstössen gegen die Pflichten nach Artikel 35.
 
-<sup>4</sup> ...[^39-2]
+<sup>4</sup> …[^39-3]
 
-[^39-1]: Fassung gemäss Ziff. I der V vom 11. Sept. 2015, in Kraft seit 1. Dez. 2015 ([AS 2015 3701](https://fedlex.data.admin.ch/eli/oc/2015/615)).
-[^39-2]: Eingefügt durch Ziff. I der V vom 20. Mai 2020, in Kraft vom 1. Juni 2020 bis zum 31. Dez. 2021 ([AS 2020 1757](https://fedlex.data.admin.ch/eli/oc/2020/345)).
+[^39-1]: Fassung gemäss Ziff. I der V vom 30. März 2022, in Kraft seit 1. Dez. 2022 ([AS 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
+[^39-2]: Fassung gemäss Ziff. I der V vom 11. Sept. 2015, in Kraft seit 1. Dez. 2015 ([AS 2015 3701](https://fedlex.data.admin.ch/eli/oc/2015/615)).
+[^39-3]: Eingefügt durch Ziff. I der V vom 20. Mai 2020, in Kraft vom 1. Juni 2020 bis zum 31. Dez. 2021 ([AS 2020 1757](https://fedlex.data.admin.ch/eli/oc/2020/345)).
 
-### 2. Abschnitt: Weitere Massnahmen der Sport- und Bewegungsförderung****
+### 2. Abschnitt: Weitere Massnahmen der Sport- und Bewegungsförderung
 
 [^tit1-chap3-sec2-1]
 
@@ -684,7 +726,7 @@ Das BASPO entzieht die Anerkennung von Kadermitgliedern bei:
 
 #### Art. 41
 
-**...[^41-1]**
+**…[^41-1]**
 
 <sup>1</sup> Der Dachverband des Schweizer Sports erhält einen jährlichen Beitrag zur Förderung, Entwicklung und Unterstützung des Schweizer Sports.
 
@@ -884,7 +926,7 @@ Bei betrieblich organisierter Grundbildung umfasst der Sportunterricht:
 
 Die Berufsfachschulen stellen sicher, dass im Sportunterricht pro Schuljahr mindestens eine Qualifizierung der Lernenden stattfindet und dass die Qualifizierung ausgewiesen wird.
 
-### 4. Abschnitt:**** Unterstützung der Aus- und Weiterbildung von Lehrerinnen und Lehrern
+### 4. Abschnitt: Unterstützung der Aus- und Weiterbildung von Lehrerinnen und Lehrern
 
 [^tit2-chap1-sec4-1]
 
@@ -936,7 +978,7 @@ Die Finanzhilfen bemessen sich nach:
 - c. den Eigenleistungen und Beiträgen von Bundesstellen oder Dritten;
 - d. dem Aufwand für die Qualitätssicherung.
 
-### 2. Kapitel: Eidgenössische Hochschule für Sport Magglingen****
+### 2. Kapitel: Eidgenössische Hochschule für Sport Magglingen
 
 [^tit2-chap2-1]
 
@@ -1051,7 +1093,7 @@ Sie kann im Bereich Sportwissenschaften folgende Weiterbildungen anbieten:
 
 [^59-1]: Aufgehoben durch Ziff. I der V vom 11. Aug. 2021, mit Wirkung seit 1. Okt. 2021 ([AS 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
 
-### 2. Abschnitt: Studiengänge****
+### 2. Abschnitt: Studiengänge
 
 [^tit2-chap2-sec2-1]
 
@@ -1191,7 +1233,7 @@ Die betroffene Person hat insbesondere das Recht:
 [^65-1]: Eingefügt durch Ziff. I der V vom 3. April 2020, in Kraft seit 1. Juli 2020 ([AS 2020 1513](https://fedlex.data.admin.ch/eli/oc/2020/303)).
 [^65-2]: Eingefügt durch Ziff. I der V vom 3. April 2020, in Kraft seit 1. Juli 2020 ([AS 2020 1513](https://fedlex.data.admin.ch/eli/oc/2020/303)).
 
-### 3. Kapitel: Sportwissenschaftliche Forschung und Monitoring****
+### 3. Kapitel: Sportwissenschaftliche Forschung und Monitoring
 
 [^tit2-chap3-1]
 
@@ -1205,7 +1247,7 @@ Die betroffene Person hat insbesondere das Recht:
 
 <sup>2</sup> Es erarbeitet ein Forschungskonzept für eine Dauer von jeweils vier Jahren. Das Konzept berücksichtigt die Forschungsstrategie der EHSM.
 
-[^66-1]: [[AS 1984 28](https://fedlex.data.admin.ch/eli/oc/1984/28_28_28), [1992 1027](https://fedlex.data.admin.ch/eli/oc/1992/1027_1027_1027)Art. 19, [1993 901](https://fedlex.data.admin.ch/eli/oc/1993/901_901_901)Anhang Ziff. 4 [2080](https://fedlex.data.admin.ch/eli/oc/1993/2080_2080_2080)Anhang Ziff. 9, [1996 99](https://fedlex.data.admin.ch/eli/oc/1996/99_99_99), [2000 1858](https://fedlex.data.admin.ch/eli/oc/2000/286), [2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634), [2004 4261](https://fedlex.data.admin.ch/eli/oc/2004/638), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 39, [2008 433](https://fedlex.data.admin.ch/eli/oc/2008/109), [2010 651](https://fedlex.data.admin.ch/eli/oc/2010/99), [2011 4497](https://fedlex.data.admin.ch/eli/oc/2011/624)Ziff. I 1, [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)Ziff. I 13, [2013 2639](https://fedlex.data.admin.ch/eli/oc/2013/532). [AS 2013 4425](https://fedlex.data.admin.ch/eli/oc/2013/786)Art. 57 Abs. 1]. Siehe heute: das BG vom 14. Dez. 2012 über die Förderung der Forschung und der Innovation ([SR 420.1](https://fedlex.data.admin.ch/eli/cc/2013/786)).
+[^66-1]: [[AS 1984 28](https://fedlex.data.admin.ch/eli/oc/1984/28_28_28); [1992 1027](https://fedlex.data.admin.ch/eli/oc/1992/1027_1027_1027)Art. 19; [1993 901](https://fedlex.data.admin.ch/eli/oc/1993/901_901_901)Anhang Ziff. 4, [2080](https://fedlex.data.admin.ch/eli/oc/1993/2080_2080_2080)Anhang Ziff. 9; [1996 99](https://fedlex.data.admin.ch/eli/oc/1996/99_99_99); [2000 1858](https://fedlex.data.admin.ch/eli/oc/2000/286); [2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [2004 4261](https://fedlex.data.admin.ch/eli/oc/2004/638); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 39; [2008 433](https://fedlex.data.admin.ch/eli/oc/2008/109); [2010 651](https://fedlex.data.admin.ch/eli/oc/2010/99); [2011 4497](https://fedlex.data.admin.ch/eli/oc/2011/624)Ziff. I 1; [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)Ziff. I 13; [2013 2639](https://fedlex.data.admin.ch/eli/oc/2013/532). [AS 2013 4425](https://fedlex.data.admin.ch/eli/oc/2013/786)Art. 57 Abs. 1]. Siehe heute: das BG vom 14. Dez. 2012 über die Förderung der Forschung und der Innovation ([SR 420.1](https://fedlex.data.admin.ch/eli/cc/2013/786)).
 
 #### Art. 67
 
@@ -1300,13 +1342,13 @@ Die Höhe des Beitrags richtet sich nach:
 
 [^72a-1]: Eingefügt durch Ziff. I der V vom 11. Aug. 2021, in Kraft seit 1. Okt. 2021 ([AS 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
 
-## 4. Titel: Fairness und Sicherheit****
+## 4. Titel: Fairness und Sicherheit
 
 [^tit4-1]
 
 [^tit4-1]: Fassung gemäss Anhang 2 Ziff. II 1 der Geldspielverordnung vom 7. Nov. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 5155](https://fedlex.data.admin.ch/eli/oc/2018/796)).
 
-### 1. Kapitel: Doping****
+### 1. Kapitel: Doping
 
 [^tit4-chap1-1]
 
@@ -1415,7 +1457,7 @@ Sie dürfen die Informationen nur weitergeben, wenn dadurch:
 - a. die Persönlichkeitsrechte Dritter nicht beeinträchtigt werden; und
 - b. der Zweck der Strafuntersuchung nicht gefährdet wird.
 
-### 2. Kapitel:**** Manipulation von Sportwettkämpfen
+### 2. Kapitel: Manipulation von Sportwettkämpfen
 
 [^tit4-chap2-1]
 
@@ -1459,7 +1501,7 @@ Unter Vorbehalt widersprechender Bestimmungen in Artikel 32 SpoFöG sowie abweic
 
 **Gebühren und Preise für Leistungen des BASPO**
 
-<sup>1</sup> ...[^80-1]
+<sup>1</sup> …[^80-1]
 
 <sup>2</sup> Das BASPO beachtet bei der Festsetzung der Preise für Weiterbildungen nach Artikel 57 Absatz 2 die Grundsätze von Artikel 9 des Bundesgesetzes vom 20. Juni 2014[^80-2] über die Weiterbildung.[^80-3]
 
@@ -1496,14 +1538,14 @@ Folgende Verordnungen werden aufgehoben:
 
 [^81-1]: [[AS 1987 1703](https://fedlex.data.admin.ch/eli/oc/1987/1703_1703_1703); [1990 981](https://fedlex.data.admin.ch/eli/oc/1990/981_981_981); [1994 1392](https://fedlex.data.admin.ch/eli/oc/1994/1392_1392_1392); [1996 3018](https://fedlex.data.admin.ch/eli/oc/1996/3018_3018_3018); [1998 1472](https://fedlex.data.admin.ch/eli/oc/1998/1472_1472_1472); [2000 2427](https://fedlex.data.admin.ch/eli/oc/2000/387), [2966](https://fedlex.data.admin.ch/eli/oc/2000/533); [2002 723](https://fedlex.data.admin.ch/eli/oc/2002/141)Anhang 2 Ziff. 2, [4003](https://fedlex.data.admin.ch/eli/oc/2002/642), [2004 4593](https://fedlex.data.admin.ch/eli/oc/2004/703); [2005 257](https://fedlex.data.admin.ch/eli/oc/2005/39); [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)Ziff. II 28; [2007 4297](https://fedlex.data.admin.ch/eli/oc/2007/571), [5823](https://fedlex.data.admin.ch/eli/oc/2007/789)Ziff. I 3; [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)Ziff. I 4.2]
 [^81-2]: [[AS 1976 1403](https://fedlex.data.admin.ch/eli/oc/1976/1403_1403_1403); [1998 1822](https://fedlex.data.admin.ch/eli/oc/1998/1822_1822_1822)Art. 24 Abs. 1 Bst. e]
-[^81-3]: [[AS 1987 1464](https://fedlex.data.admin.ch/eli/oc/1987/1464_1464_1464);[1996 2243](https://fedlex.data.admin.ch/eli/oc/1996/2243_2243_2243)Ziff. I 22 [3021](https://fedlex.data.admin.ch/eli/oc/1996/3021_3021_3021)]
+[^81-3]: [[AS 1987 1464](https://fedlex.data.admin.ch/eli/oc/1987/1464_1464_1464);[1996 2243](https://fedlex.data.admin.ch/eli/oc/1996/2243_2243_2243)Ziff. I 22, [3021](https://fedlex.data.admin.ch/eli/oc/1996/3021_3021_3021)]
 [^81-4]: [[AS 2001 2971](https://fedlex.data.admin.ch/eli/oc/2001/437); [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)Anhang 4 Ziff. 6]
 
 #### Art. 82
 
 **Änderung bisherigen Rechts**
 
-...[^82-1]
+…[^82-1]
 
 [^82-1]: Die Änderungen können unter [AS 2012 3967](https://fedlex.data.admin.ch/eli/oc/2012/461)konsultiert werden.
 
@@ -1515,9 +1557,10 @@ Folgende Verordnungen werden aufgehoben:
 
 <sup>2</sup> J+S-Angebote der NG 7, die bei Inkraftsetzung dieser Verordnung bereits begonnen haben, werden ab Inkraftsetzung dieser Verordnung nach den neuen Bestimmungen durchgeführt. Das BASPO kann mit den Organisatoren Vereinbarungen über eine pauschalisierte Unterstützung abschliessen. Diese Vereinbarungen haben Gültigkeit bis längstens zum 30. September 2014[^83-1].
 
-<sup>3</sup> Der Rahmenlehrplan nach Artikel 53 ist innert zwei Jahren nach Inkrafttreten dieser Verordnung zu erlassen. Die Lehrpläne Sport sind innert zwei Jahren nach Inkrafttreten des Rahmenlehrplans zu erlassen.
+<sup>3</sup> …[^83-2]
 
 [^83-1]: S. auch: Art. 83*a*.
+[^83-2]: Aufgehoben durch Ziff. I der V vom 30. März 2022, mit Wirkung seit 1. Dez. 2022 ([AS 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
 
 #### Art. 83a
 
@@ -1537,17 +1580,25 @@ Die Vereinbarungen nach Artikel 83 Absatz 2 sind längstens bis zum 31. Dezember
 
 #### Art. 83c
 
-**Übergangsbestimmung zur Änderung vom 3. April 2020**[^83c-1]
+[^83c-1]
 
-J+S-Angebote von Organisatoren, die zwischen dem 1. Oktober 2018 und dem 30. September 2021 ein J+S-Angebot abgeschlossen haben, werden bis zum 31. Dezember 2023 auch dann bewilligt, wenn die Organisatoren nicht nach Artikel 10*a* registriert sind.
-
-[^83c-1]: Eingefügt durch Ziff. I der V vom 3. April 2020, in Kraft seit 1. Juli 2020 ([AS 2020 1513](https://fedlex.data.admin.ch/eli/oc/2020/303)).
+[^83c-1]: Eingefügt durch Ziff. I der V vom 3. April 2020 ([AS 2020 1513](https://fedlex.data.admin.ch/eli/oc/2020/303)). Aufgehoben durch Ziff. I der V vom 30. März 2022, mit Wirkung seit 1. Dez. 2022 ([AS 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
 
 #### Art. 83d
 
 [^83d-1]
 
 [^83d-1]: Eingefügt durch Ziff. I der V vom 20. Mai 2020, in Kraft vom 1. Juni 2020 bis zum 31. Dez. 2021 ([AS 2020 1757](https://fedlex.data.admin.ch/eli/oc/2020/345)).
+
+#### Art. 83e
+
+**Übergangsbestimmung zur Änderung vom 30. März 2022**[^83e-1]
+
+<sup>1</sup> J+S-Angebote von Organisatoren, die zwischen dem 1. Dezember 2019 und dem 30. November 2022 ein J+S-Angebot abgeschlossen haben, werden bis zum 30. November 2025 auch dann bewilligt, wenn die Organisatoren nicht nach Artikel 10*a* registriert sind.
+
+<sup>2</sup> Das BASPO kann die Zusatzanerkennung Sicherheit an Personen vergeben, die vor dem 31. Dezember 2025 eine Weiterbildung zu Themen der Sicherheit in der jeweiligen Sportart abgeschlossen haben.
+
+[^83e-1]: Eingefügt durch Ziff. I der V vom 30. März 2022, in Kraft seit 1. Dez. 2022 ([AS 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
 
 #### Art. 84
 
@@ -1571,7 +1622,7 @@ Pharmakologisch wirksame Substanzen, die nachfolgend nicht aufgeführt sind und 
 
 a. Exogene anabol-androgene Steroide
 
-**1-Androstendiol** (5α-androst-1-en-3β,17β-diol), **1-Androstendion** (5α-androst-1-en-3,17-dion), **Bolandiol** (estr-4-en-3β,17β-diol), **Bolasteron**, **Boldenon**, **Boldion** (androsta-1,4-dien-3,17-dion), **Calusteron**, **Clostebol**, **Danazol** (17α-ethynyl-17β-hydroxyandrost-4-eno[2,3-d]isoxazol), **Dehydrochlormethyltestosteron** (4-chloro-17β-hydroxy-17α-methylandrosta-1,4-dien-3-on), **Desoxymethyltestosteron** (17α-methyl-5α-androst-2-en-17β-ol), **Drostanolon**, **Ethylestrenol** (19-nor-17α-pregn-4-en-17-ol), **Fluoxymesteron**, **Formebolon**, **Furazabol** (17β-hydroxy-17α-methyl-5α-androstano[2,3-c]-furazan), **Gestrinon**, **4-Hydroxytestosteron** (4,17β-dihydroxy-androst-4-en-3-on), **Mestanolon**, **Mesterolon**, **Metenolon**, **Methandi****e****non** (17β-hydroxy-17α-methylandrosta-1,4-dien-3-on), **Methandriol**, **Methast****e****ron** (2α,17α-dimethyl-5α-androstan-3-on-17β-ol), **Methyldienolon** (17β-hydroxy-17α-methylestra-4,9-dien-3-on), **Methyl-1-testosteron** (17β-hydroxy-17α-methyl-5α-androst-1-en-3-on), **Methylnortestosteron** (17β-hydroxy-17α-methylestr-4-en-3-on), **Methyltestosteron**, **Metribolon** (Methyltrienolon 17β-hydroxy-17α-methylestra-4,9,11-trien-3-on), **Miboleron**, **Nandrolon**, **19-Norandrostendion** (estr-4-en-3,17-dion), **Norboleton**, **Norclostebol**, **Norethandrolon**, **Oxabolon**, **Oxandrolon**, **Oxymesteron**, **Oxymetholon**, **Prostanozol** (17β-hydroxy-5α-androstano[3,2-c]pyrazol), **Quinbolon**, **Stanozolol**, **Stenbolon**, **1-Testosteron** (17β-hydroxy-5α-androst-1-en-3-on), **Tetrahydrogestrinon** (18a-homo-pregna-4,9,11-trien-17β-ol-3-on), **Trenbolon**
+**1-Androstendiol** (5α-androst-1-en-3β,17β-diol), **1-Androstendion** (5α-androst-1-en-3,17-dion), **Bolandiol** (estr-4-en-3β,17β-diol), **Bolasteron**, **Boldenon**, **Boldion** (androsta-1,4-dien-3,17-dion), **Calusteron**, **Clostebol**, **Danazol** (17α-ethynyl-17β-hydroxyandrost-4-eno[2,3-d]isoxazol), **Dehydrochlormethyltestosteron** (4-chloro-17β-hydroxy-17α-methylandrosta-1,4-dien-3-on), **Desoxymethyltestosteron** (17α-methyl-5α-androst-2-en-17β-ol), **Drostanolon**, **Ethylestrenol** (19-nor-17α-pregn-4-en-17-ol), **Fluoxymesteron**, **Formebolon**, **Furazabol** (17β-hydroxy-17α-methyl-5α-androstano[2,3-c]-furazan), **Gestrinon**, **4-Hydroxytestosteron** (4,17β-dihydroxy-androst-4-en-3-on), **Mestanolon**, **Mesterolon**, **Metenolon**, **Methandienon** (17β-hydroxy-17α-methylandrosta-1,4-dien-3-on), **Methandriol**, **Methasteron** (2α,17α-dimethyl-5α-androstan-3-on-17β-ol), **Methyldienolon** (17β-hydroxy-17α-methylestra-4,9-dien-3-on), **Methyl-1-testosteron** (17β-hydroxy-17α-methyl-5α-androst-1-en-3-on), **Methylnortestosteron** (17β-hydroxy-17α-methylestr-4-en-3-on), **Methyltestosteron**, **Metribolon** (Methyltrienolon 17β-hydroxy-17α-methylestra-4,9,11-trien-3-on), **Miboleron**, **Nandrolon**, **19-Norandrostendion** (estr-4-en-3,17-dion), **Norboleton**, **Norclostebol**, **Norethandrolon**, **Oxabolon**, **Oxandrolon**, **Oxymesteron**, **Oxymetholon**, **Prostanozol** (17β-hydroxy-5α-androstano[3,2-c]pyrazol), **Quinbolon**, **Stanozolol**, **Stenbolon**, **1-Testosteron** (17β-hydroxy-5α-androst-1-en-3-on), **Tetrahydrogestrinon** (18a-homo-pregna-4,9,11-trien-17β-ol-3-on), **Trenbolon**
 
 b. Endogene anabol androgene Steroide
 

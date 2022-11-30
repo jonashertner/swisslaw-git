@@ -4,11 +4,11 @@ title: "Ordinanza del 23 maggio 2012 sulla promozione dello sport e dell'attivit
 short: OPSpo
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/461"
 language: it
-version: 2022-01-01
+version: 2022-12-01
 adopted: 2012-05-23
 in_force: 2012-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/461/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2012-461-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/461/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/461/20221201/it/xml/fedlex-data-admin-ch-eli-cc-2012-461-20221201-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/461/20221201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/461/20220101/it"
 
 (Ordinanza sulla promozione dello sport, OPSpo)
 
-del 23 maggio 2012 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
+del 23 maggio 2012 (Stato 1° dicembre 2022) (Stato 1° dicembre 2022)
 
 Il Consiglio federale svizzero,
 
@@ -50,11 +50,12 @@ Gioventù e Sport (G+S) persegue i seguenti obiettivi:
 - b. consentire ai bambini e ai giovani di vivere lo sport in tutte le sue dimensioni e di collaborare alla realizzazione delle attività e incoraggiare il loro inserimento in una comunità sportiva;
 - c. sostenere lo sviluppo e la realizzazione dei giovani sotto gli aspetti pedagogico, sociale e della salute;
 - d.[^2-1] ...
-- e. preparare con una formazione specifica gli sportivi ai propri compiti di quadri G+S, provvedere al loro perfezionamento in funzione delle necessità e accompagnarli nell’esercizio della loro funzione di quadro G+S.
+- e. preparare con una formazione specifica gli sportivi ai propri compiti di quadri G+S, provvedere alla loro formazione continua[^2-2] in funzione delle necessità e accompagnarli nell’esercizio della loro funzione di quadro G+S.
 
 <sup>2</sup> Per favorire l’integrazione sociale, la parità tra i sessi, la salute pubblica o la promozione di G+S, l’Ufficio federale dello sport (UFSPO) può adottare misure per facilitare l’accesso di determinati gruppi di bambini e giovani a singole discipline sportive G+S o al programma G+S nel complesso.
 
 [^2-1]: Abrogata dal n. I dell’O del 15 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6589](https://fedlex.data.admin.ch/eli/oc/2017/729)).
+[^2-2]: Nuova espr. giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 ### Sezione 2: Offerte G+S
 
@@ -111,7 +112,7 @@ Una disciplina sportiva può essere ammessa come disciplina sportiva G+S se:
   è sostenuta da una federazione d’importanza nazionale che:
 
   - 1\. è affiliata all’associazione mantello dello sport svizzero, e
-  - 2\. ha la volontà e i mezzi per assumersi compiti nello sviluppo della disciplina sportiva in questione come pure nella formazione e nel perfezionamento dei monitori delle organizzazioni affiliate.
+  - 2\. ha la volontà e i mezzi per assumersi compiti nello sviluppo della disciplina sportiva in questione come pure nella formazione e nella formazione continua dei monitori delle organizzazioni affiliate.
 
 <sup>2</sup>
 
@@ -140,7 +141,7 @@ In nessun caso sono ammessi:
 
 In G+S si distinguono sei gruppi di utenti (GU). L’UFSPO ripartisce le diverse offerte nei seguenti gruppi di utenti:[^8-1]
 
-- a.[^8-2] le offerte G+S del GU 1 sono offerte proposte da società sportive o da organizzazioni dal funzionamento analogo in cui nell’ambito di corsi con bambini o giovani si allenano e si praticano, in seno a un gruppo stabile, una o più discipline sportive G+S in modo regolare, mirato e guidato;
+- a.[^8-2] le offerte G+S del GU 1 sono offerte proposte da società sportive o da organizzazioni dal funzionamento analogo in cui nell’ambito di corsi con bambini o giovani si allenano e si praticano, in seno a un gruppo stabile, una o più discipline sportive G+S in modo regolare, mirato e guidato o si fa vivere, nel quadro di campi, la pratica delle attività sportive e la cura degli aspetti sociali;
 - b. le offerte G+S del GU 2 sono offerte di cui alla lettera a, per le quali però lo svolgimento regolare delle attività dipende da condizioni esterne, segnatamente dal vento, dall’acqua e dalla neve;
 - c.[^8-3] le offerte G+S del GU 3 sono offerte proposte da federazioni e associazioni giovanili, che consistono nell’avviare bambini e giovani verso il gioco e lo sport nel quadro di campi e nell’insegnare loro a curare gli aspetti sociali;
 - d. le offerte G+S del GU 4 sono offerte proposte da Cantoni, Comuni o federazioni sportive. Il lavoro con i bambini o i giovani consiste nel far vivere a bambini e giovani, nel quadro di campi, la pratica delle attività sportive e la cura degli aspetti sociali o nell’avviarli ad allenare e praticare nel quadro di corsi una o più discipline sportive G+S in modo regolare e mirato, in seno a un gruppo stabile;
@@ -157,7 +158,7 @@ In G+S si distinguono sei gruppi di utenti (GU). L’UFSPO ripartisce le diverse
 <sup>2</sup> ...[^8-6]
 
 [^8-1]: Nuovo testo giusta il n. I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6589](https://fedlex.data.admin.ch/eli/oc/2017/729)).
-[^8-2]: Nuovo testo giusta il n. I dell’O dell’11 set. 2015, in vigore dal 1° dic. 2015 ([RU 2015 3701](https://fedlex.data.admin.ch/eli/oc/2015/615)).
+[^8-2]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
 [^8-3]: Nuovo testo giusta il n. I dell’O del 20 ago. 2014, in vigore dal 1° ott. 2014 ([RU 2014 2841](https://fedlex.data.admin.ch/eli/oc/2014/489)).
 [^8-4]: Abrogato dal n. I dell’O del 3 apr. 2020, con effetto dal 1° lug. 2020 ([RU 2020 1513](https://fedlex.data.admin.ch/eli/oc/2020/303)).
 [^8-5]: Abrogata dal n. I dell’O del 15 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6589](https://fedlex.data.admin.ch/eli/oc/2017/729)).
@@ -172,17 +173,19 @@ In G+S si distinguono sei gruppi di utenti (GU). L’UFSPO ripartisce le diverse
 Per i singoli gruppi di utenti il DDPS stabilisce:
 
 - a. la durata minima dei corsi e dei campi;
-- b. il numero minimo di lezioni o attività per ciascun corso o campo;
-- c. la durata minima delle singole lezioni o attività.
+- b.[^9-1] il numero minimo di attività per ciascun corso o campo;
+- c.[^9-2] la durata minima delle singole attività.
 
 <sup>2</sup> Per i corsi e i campi G+S delle singole discipline sportive stabilisce il numero massimo di partecipanti ammessi per ogni monitore G+S.
 
-<sup>3</sup> Nei limiti previsti dall*’*articolo 6 capoverso 3 LPSpo, l*’*UFSPO può limitare l*’*età dei partecipanti per determinate discipline sportive, attività o gruppi di utenti.[^9-1]
+<sup>3</sup> Nei limiti previsti dall*’*articolo 6 capoverso 3 LPSpo, l*’*UFSPO può limitare l*’*età dei partecipanti per determinate discipline sportive, attività o gruppi di utenti.[^9-3]
 
-<sup>4</sup> L*’*UFSPO definisce gli altri requisiti specifici per lo svolgimento di offerte G+S nelle singole discipline sportive, attività o nei singoli gruppi di utenti.[^9-2]
+<sup>4</sup> L*’*UFSPO definisce gli altri requisiti specifici per lo svolgimento di offerte G+S nelle singole discipline sportive, attività o nei singoli gruppi di utenti.[^9-4]
 
-[^9-1]: Nuovo testo giusta il n. I dell’O del 3 apr. 2020, in vigore dal 1° lug. 2020 ([RU 2020 1513](https://fedlex.data.admin.ch/eli/oc/2020/303)).
-[^9-2]: Nuovo testo giusta il n. I dell’O del 3 apr. 2020, in vigore dal 1° lug. 2020 ([RU 2020 1513](https://fedlex.data.admin.ch/eli/oc/2020/303)).
+[^9-1]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
+[^9-2]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
+[^9-3]: Nuovo testo giusta il n. I dell’O del 3 apr. 2020, in vigore dal 1° lug. 2020 ([RU 2020 1513](https://fedlex.data.admin.ch/eli/oc/2020/303)).
+[^9-4]: Nuovo testo giusta il n. I dell’O del 3 apr. 2020, in vigore dal 1° lug. 2020 ([RU 2020 1513](https://fedlex.data.admin.ch/eli/oc/2020/303)).
 
 ### Sezione 4: Organizzatori
 
@@ -232,11 +235,14 @@ Nella sua decisione l’UFSPO stabilisce:
 
 **Obblighi degli organizzatori di offerte G+S**
 
-<sup>1</sup> Gli organizzatori di offerte G+S si assicurano che siano adottate le misure necessarie per garantire la sicurezza e la salute dei partecipanti nonché per impedire incidenti e che tali misure siano rispettate per tutta la durata del corso o del campo.
+<sup>1</sup> Gli organizzatori di offerte G+S si assicurano che siano attuati i principi dello sport corretto e sicuro, che siano adottate le misure necessarie per garantire la sicurezza e la salute dei partecipanti nonché per impedire incidenti e che tali misure siano rispettate per tutta la durata del corso o del campo.[^11-1]
 
-<sup>2</sup> Se constata che i quadri G+S responsabili trascurano il proprio obbligo di vigilanza e assistenza nella realizzazione dell’offerta, l’organizzatore di un’offerta G+S adotta i provvedimenti che ritiene necessari e informa l’autorità cantonale competente per lo svolgimento delle attività G+S. Se constata un crimine o un delitto, informa le autorità di perseguimento penale.
+<sup>2</sup> Se constata che i quadri G+S responsabili trascurano il proprio obbligo di vigilanza e assistenza durante lo svolgimento dell’offerta, l’organizzatore di un’offerta G+S adotta i provvedimenti necessari e informa l’UFSPO. Se constata un delitto o un crimine, informa l’UFSPO e le autorità di perseguimento penale.[^11-2]
 
 <sup>3</sup> Gli organizzatori di offerte G+S informano i partecipanti, i loro rappresentanti legali e i quadri interessati sui possibili rischi correlati allo svolgimento dell’attività sportiva e richiamano la loro attenzione sull’utilità di un’assicurazione contro gli infortuni e di responsabilità civile.
+
+[^11-1]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
+[^11-2]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
 
 #### Art. 12
 
@@ -263,28 +269,29 @@ Nella sua decisione l’UFSPO stabilisce:
 
 Fanno parte dei quadri G+S tutti i titolari di un riconoscimento quale:
 
-- a.[^13-1] monitore G+S, ivi compresi i monitori G+S di sport scolastico;
+- a.[^13-1] monitore G+S in una disciplina sportiva G+S o monitore G+S Sport scolastico;
 - b. coach G+S;
 - c.[^13-2] ...
-- d. esperto G+S.
+- d.[^13-3] esperto G+S in una disciplina sportiva G+S o esperto G+S Sport scolastico.
 
-<sup>1bis</sup> Se la presente ordinanza o le ordinanze subordinate non prevedono altrimenti, le disposizioni per i monitori G+S valgono egualmente per i monitori G+S di sport scolastico.[^13-3]
+<sup>1bis</sup> Se la presente ordinanza o le ordinanze subordinate non prevedono altrimenti, le disposizioni per i monitori G+S valgono egualmente per i monitori G+S Sport scolastico e le disposizioni per gli esperti G+S valgono egualmente per gli esperti G+S Sport scolastico.[^13-4]
 
 <sup>2</sup> Può essere riconosciuto come quadro G+S chi ha assolto con successo la relativa formazione. L’UFSPO attribuisce il riconoscimento su richiesta degli organizzatori della formazione dei quadri. In casi motivati l’ufficio può derogare alla richiesta.
 
-<sup>3</sup> Il riconoscimento deve essere rinnovato ogni due anni. A tale scopo le persone interessate devono frequentare un corso di perfezionamento.
+<sup>3</sup> Il riconoscimento deve essere rinnovato ogni due anni. A tale scopo le persone interessate devono frequentare un corso di formazione continua.
 
-[^13-1]: Nuovo testo giusta il n. I dell’O dell’11 set. 2015, in vigore dal 1° dic. 2015 ([RU 2015 3701](https://fedlex.data.admin.ch/eli/oc/2015/615)).
+[^13-1]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
 [^13-2]: Abrogata dal n. I dell’O del 15 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6589](https://fedlex.data.admin.ch/eli/oc/2017/729)).
-[^13-3]: Introdotto dal n. I dell’O dell’11 set. 2015, in vigore dal 1° dic. 2015 ([RU 2015 3701](https://fedlex.data.admin.ch/eli/oc/2015/615)).
+[^13-3]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
+[^13-4]: Introdotto dal n. I dell’O dell’11 set. 2015 ([RU 2015 3701](https://fedlex.data.admin.ch/eli/oc/2015/615)). Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
 
 #### Art. 14
 
 **Formazione dei quadri**
 
-<sup>1</sup> Il DDPS disciplina l’ammissione alla formazione dei quadri, gli aspetti essenziali della formazione e il perfezionamento necessario per prolungare il riconoscimento quale quadro.
+<sup>1</sup> Il DDPS disciplina l’ammissione alla formazione dei quadri, gli aspetti essenziali della formazione e la formazione continua necessaria per prolungare il riconoscimento quale quadro.
 
-<sup>2</sup> L’UFSPO definisce la struttura della formazione e del perfezionamento e mette a disposizione programmi quadro di formazione per le singole offerte della formazione dei quadri.
+<sup>2</sup> L’UFSPO definisce la struttura della formazione e della formazione continua e mette a disposizione programmi quadro di formazione per le singole offerte della formazione dei quadri.
 
 <sup>3</sup>
 
@@ -292,7 +299,7 @@ Esso può:
 
 - a. prevedere per singole funzioni di quadro, specializzazioni, formazioni e perfezionamenti su temi specifici;
 - b. prevedere per i gruppi di destinatari «bambini» e «giovani» formazioni e perfezionamenti diversi;
-- c. definire in maniera differenziata la durata del perfezionamento per le diverse discipline sportive, temi e gruppi di destinatari.
+- c. definire in maniera differenziata la durata della formazione continua per le diverse discipline sportive, temi e gruppi di destinatari.
 
 <sup>4</sup> Non sussiste alcun diritto all’ammissione alla formazione dei quadri o a un determinato corso o modulo. L’UFSPO decide in merito all’ammissione nel singolo caso.
 
@@ -306,9 +313,11 @@ Nella loro attività i quadri G+S attuano i principi fondamentali dello sport co
 
 **Monitori G+S**
 
-<sup>1</sup> I monitori G+S possono dirigere corsi e campi G+S o attività isolate nel quadro di corsi o campi di un organizzatore, a condizione che dispongano della formazione necessaria.
+<sup>1</sup> I monitori G+S possono dirigere corsi e campi G+S o singole attività nel quadro di corsi o campi di un organizzatore, a condizione che dispongano della formazione necessaria e che abbiano compiuto 18 anni. Il DDPS può stabilire un’età diversa per singole discipline sportive.[^16-1]
 
 <sup>2</sup> L’UFSPO stabilisce la formazione necessaria per le singole attività di monitore.
+
+[^16-1]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
 
 #### Art. 17
 
@@ -332,21 +341,29 @@ Gli esperti G+S formano i monitori G+S, i coach G+S e altri esperti G+S.
 
 #### Art. 20
 
-**Decadenza dei riconoscimenti G+S**
+**Decadenza dei riconoscimenti G+S**[^20-1]
 
-<sup>1</sup> Il riconoscimento quale quadro G+S è valido fino alla fine del secondo anno civile successivo a quello in cui è stato rilasciato o in cui si è frequentato l’ultimo perfezionamento; esso decade se non si è adempiuto l’obbligo in materia di perfezionamento.
+<sup>1</sup> Il riconoscimento quale quadro G+S è valido fino alla fine del secondo anno civile successivo a quello in cui è stato rilasciato o in cui si è frequentata l’ultima formazione continua; esso decade se non si è adempiuto l’obbligo in materia di formazione continua.
 
-<sup>2</sup> Il riconoscimento può essere riottenuto se entro quattro anni si adempie l’obbligo in materia di perfezionamento. Nel caso in cui il riconoscimento sia scaduto da oltre quattro anni, l’UFSPO può prevedere moduli di reinserimento.
+<sup>2</sup> Un riconoscimento decaduto può essere riottenuto assolvendo una formazione continua.
 
-<sup>3</sup> Se il riconoscimento di un quadro G+S decade mentre è in corso un’attività G+S egli può continuare a essere impiegato fino al termine dei corsi o dei campi già iniziati; se il quadro in questione è un coach G+S può essere impiegato fino al termine dell’attività.
+<sup>3</sup> Se il riconoscimento di un quadro G+S decade mentre è in corso un’offerta G+S, il quadro può continuare a essere impiegato fino al termine dei corsi o dei campi già iniziati; se il quadro in questione è un coach G+S può essere impiegato fino al termine dell’offerta.
 
-<sup>4</sup> I monitori G+S che hanno completato con successo una formazione e un perfezionamento G+S l’ultima volta nel 2019, continuano a poter svolgere offerte G+S.[^20-1]
+[^20-1]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
 
-[^20-1]: Introdotto dal n. I dell’O del 20 mag. 2020 ([RU 2020 1757](https://fedlex.data.admin.ch/eli/oc/2020/345)). Nuovo testo giusta il n. I dell’O del 30 giu. 2021, in vigore dal 1° gen. 2022 al 31 dic. 2022 ([RU 2021 417](https://fedlex.data.admin.ch/eli/oc/2021/417)).
+#### Art. 20a
+
+**Sospensione e revoca dei riconoscimenti in relazione a reati**[^20a-1]
+
+<sup>1</sup> Nei casi di cui all’articolo 10 capoverso 2 LPSpo l’UFSPO, su denuncia o d’ufficio, sospende con effetto immediato il riconoscimento quale quadro.
+
+<sup>2</sup> Al termine del procedimento penale l’UFSPO decide per l’abolizione della sospensione o per la revoca del riconoscimento.
+
+[^20a-1]: Introdotto dal n. I dell’O del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
 
 #### Art. 21
 
-**Sospensione e revoca dei riconoscimenti**
+**Sospensione e revoca di riconoscimenti in caso di violazioni degli obblighi[^21-1]**
 
 <sup>1</sup>
 
@@ -354,11 +371,35 @@ L’UFSPO può sospendere o revocare il riconoscimento quale quadro se:
 
 - a. il quadro viola obblighi sanciti dalla legge, dalla presente ordinanza o da disposizioni di attuazione fondate su di esse;
 - b. il quadro non è più idoneo a svolgere il proprio compito;
-- c. la collaborazione del quadro con l’UFSPO o l’ufficio cantonale G+S non è più possibile a causa del deterioramento del rapporto di fiducia.
+- c. la collaborazione del quadro con l’UFSPO o l’ufficio cantonale G+S non è più possibile a causa del deterioramento del rapporto di fiducia;
+- d.[^21-2] il quadro, a scopo di doping, ha fatto uso di prodotti di cui all’articolo 19 capoverso 3 LPSpo o ha impiegato su di sé metodi di cui all’articolo 19 capoverso 3 LPSpo;
+- e.[^21-3] il quadro ha partecipato a scommesse sportive in linea il cui accesso è bloccato secondo l’articolo 86 della legge federale del 29 settembre 2017[^21-4] sui giochi in denaro;
+- f.[^21-5] il quadro è stato registrato nel sistema d’informazione di cui all’articolo 24*a* della legge federale del 21 marzo 1997[^21-6] sulle misure per la salvaguardia della sicurezza interna poiché ha avuto un comportamento violento in occasione di manifestazioni sportive in Svizzera o all’estero;
+- g.[^21-7] il quadro (in qualità di membro o delegato di un’organizzazione sportiva) è stato oggetto di una sanzione disciplinare da parte di un organo di una federazione sportiva competente in tale ambito a causa di una violazione delle disposizioni in materia di sport corretto e sicuro.
 
 <sup>2</sup> Invece di una sospensione o di una revoca l’UFSPO può subordinare la prosecuzione dell’attività del quadro a determinate condizioni.
 
 <sup>3</sup> Nei casi di scarsa importanza può pronunciare un avvertimento.
+
+[^21-1]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
+[^21-2]: Introdotta dal n. I dell’O del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
+[^21-3]: Introdotta dal n. I dell’O del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
+[^21-4]: [RS 935.51](https://fedlex.data.admin.ch/eli/cc/2018/795)
+[^21-5]: Introdotta dal n. I dell’O del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
+[^21-6]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
+[^21-7]: Introdotta dal n. I dell’O del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
+
+#### Art. 21a
+
+**Riconoscimento complementare «sicurezza*»**[^21a-1]*
+
+<sup>1</sup> Chi vuole dirigere attività G+S con elevate disposizioni di sicurezza necessita di un riconoscimento complementare «sicurezza». Tale riconoscimento si ottiene assolvendo una formazione complementare specifica.
+
+<sup>2</sup> L’UFSPO stabilisce quali attività possono essere dirette solo da persone che dispongono del riconoscimento complementare «sicurezza».
+
+<sup>3</sup> Il riconoscimento complementare «sicurezza» è valido fino al termine del quarto anno successivo a quello in cui è stato rilasciato.
+
+[^21a-1]: Introdotto dal n. I dell’O del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
 
 ### Sezione 6: Concessione dei contributi
 
@@ -527,7 +568,7 @@ L’UFSPO stipula un contratto di prestazione con la federazione sportiva e giov
 
 <sup>3</sup> Può mettere a disposizione materiale per lo svolgimento di offerte G+S e per la formazione dei quadri e offrire prestazioni in natura.
 
-<sup>4</sup> Può assumersi le spese di viaggio con i mezzi di trasporto pubblici sostenute dai partecipanti, dai monitori e dal personale ausiliario della formazione dei quadri per recarsi ai corsi di formazione e perfezionamento.[^28-1]
+<sup>4</sup> Può assumersi le spese di viaggio con i mezzi di trasporto pubblici sostenute dai partecipanti, dai monitori e dal personale ausiliario della formazione dei quadri per recarsi ai corsi di formazione e formazione continua.[^28-1]
 
 <sup>5</sup> ...[^28-2]
 
@@ -580,7 +621,7 @@ L’UFSPO stipula un contratto di prestazione con la federazione sportiva e giov
 
 **Programma Sport per gli adulti Svizzera**
 
-<sup>1</sup> La Confederazione promuove lo sport per gli adulti, sostenendo organizzazioni che offrono corsi di formazione e di perfezionamento per quadri che dirigono un’offerta di attività sportiva per persone in età adulta.
+<sup>1</sup> La Confederazione promuove lo sport per gli adulti, sostenendo organizzazioni che offrono corsi di formazione e di formazione continua per quadri che dirigono un’offerta di attività sportiva per persone in età adulta.
 
 <sup>2</sup> Il sostegno avviene tramite il programma Sport per gli adulti Svizzera (ESA).
 
@@ -592,15 +633,15 @@ L’UFSPO stipula un contratto di prestazione con la federazione sportiva e giov
 
 <sup>1</sup> Fanno parte dei quadri tutte le persone con riconoscimento quale monitore ESA o di esperto ESA.
 
-<sup>2</sup> Chi ha superato la formazione e il perfezionamento corrispondenti può essere riconosciuto come monitore ESA o esperto ESA. L’UFSPO conferisce il riconoscimento su richiesta dell’organizzatore della formazione dei quadri. In casi motivati può derogare alla richiesta.
+<sup>2</sup> Chi ha superato la formazione e la formazione continua corrispondenti può essere riconosciuto come monitore ESA o esperto ESA. L’UFSPO conferisce il riconoscimento su richiesta dell’organizzatore della formazione dei quadri. In casi motivati può derogare alla richiesta.
 
 #### Art. 34
 
 **Formazione dei quadri**
 
-<sup>1</sup> Il DDPS disciplina l’ammissione alla formazione dei quadri e il perfezionamento necessario per mantenere e per riottenere il riconoscimento.[^34-1]
+<sup>1</sup> Il DDPS disciplina l’ammissione alla formazione dei quadri e alla formazione continua necessarie per mantenere e per riottenere il riconoscimento.[^34-1]
 
-<sup>2</sup> Definisce la durata e i contenuti della formazione e del perfezionamento.
+<sup>2</sup> Definisce la durata e i contenuti della formazione e della formazione continua.
 
 [^34-1]: Nuovo testo giusta il n. I dell’O dell’11 set. 2015, in vigore dal 1° dic. 2015 ([RU 2015 3701](https://fedlex.data.admin.ch/eli/oc/2015/615)).
 
@@ -620,11 +661,11 @@ I monitori ESA possono dirigere offerte di attività sportive destinate agli adu
 
 #### Art. 37
 
-**Organizzatori della formazione e del perfezionamento dei monitori ESA**
+**Organizzatori della formazione e della formazione continua dei monitori ESA**
 
-<sup>1</sup> La formazione e il perfezionamento dei monitori ESA possono essere organizzati dall’UFSPO, dai Cantoni o da persone giuridiche di diritto privato, in particolare federazioni sportive e altre organizzazioni attive a livello sovraregionale e che si occupano di questioni relative allo sport per gli adulti.
+<sup>1</sup> La formazione e la formazione continua dei monitori ESA possono essere organizzate dall’UFSPO, dai Cantoni o da persone giuridiche di diritto privato, in particolare federazioni sportive e altre organizzazioni attive a livello sovraregionale e che si occupano di questioni relative allo sport per gli adulti.
 
-<sup>2</sup> L’UFSPO stipula contratti di prestazione con gli organizzatori della formazione e del perfezionamento.
+<sup>2</sup> L’UFSPO stipula contratti di prestazione con gli organizzatori della formazione e della formazione continua.
 
 #### Art. 38
 
@@ -632,9 +673,9 @@ I monitori ESA possono dirigere offerte di attività sportive destinate agli adu
 
 <sup>1</sup> Gli esperti ESA formano monitori ESA ed esperti ESA e adempiono in tal modo i compiti ad essi attribuiti dalla presente ordinanza e da altre disposizioni di attuazione.
 
-<sup>2</sup> L’UFSPO organizza la formazione e il perfezionamento degli esperti ESA.
+<sup>2</sup> L’UFSPO organizza la formazione e la formazione continua degli esperti ESA.
 
-<sup>3</sup> Tramite accordi può fa capo a organizzatori secondo l’articolo 37 capoverso 1 o incaricarli della formazione e del perfezionamento.
+<sup>3</sup> Tramite accordi può fa capo a organizzatori secondo l’articolo 37 capoverso 1 o incaricarli della formazione e della formazione continua.
 
 <sup>4</sup> Gli organizzatori della formazione dei quadri chiedono ai partecipanti un’adeguata partecipazione alle spese.
 
@@ -642,9 +683,9 @@ I monitori ESA possono dirigere offerte di attività sportive destinate agli adu
 
 **Decadenza e revoca di riconoscimenti**
 
-<sup>1</sup> Il riconoscimento quale monitore o quale esperto ESA è valido fino alla fine del secondo anno civile successivo a quello in cui è stato rilasciato o in cui si è frequentato l’ultimo perfezionamento; esso decade se non si è adempiuto l’obbligo in materia di perfezionamento.
+<sup>1</sup> Il riconoscimento quale monitore o quale esperto ESA è valido fino alla fine del secondo anno civile successivo a quello in cui è stato rilasciato o in cui si è frequentata l’ultima formazione continua; esso decade se non si è adempiuto l’obbligo in materia di formazione continua.[^39-1]
 
-<sup>2</sup> Il riconoscimento può essere riottenuto se si è assolto con successo un corso di perfezionamento.[^39-1]
+<sup>2</sup> Il riconoscimento può essere riottenuto se si è assolto con successo un corso di formazione continua.[^39-2]
 
 <sup>3</sup>
 
@@ -653,12 +694,13 @@ L’UFSPO revoca il riconoscimento a un membro dei quadri in caso di:
 - a. condanna penale che suscita dubbi giustificati sulla capacità del quadro ESA di continuare a svolgere in modo corretto i propri compiti;
 - b. reiterate violazioni degli obblighi di cui all’articolo 35.
 
-<sup>4</sup> ...[^39-2]
+<sup>4</sup> ...[^39-3]
 
-[^39-1]: Nuovo testo giusta il n. I dell’O dell’11 set. 2015, in vigore dal 1° dic. 2015 ([RU 2015 3701](https://fedlex.data.admin.ch/eli/oc/2015/615)).
-[^39-2]: Introdotto dal n. I dell’O del 20 mag. 2020, in vigore dal 1° giu. 2020 al 31 dic. 2021 ([RU 2020 1757](https://fedlex.data.admin.ch/eli/oc/2020/345)).
+[^39-1]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
+[^39-2]: Nuovo testo giusta il n. I dell’O dell’11 set. 2015, in vigore dal 1° dic. 2015 ([RU 2015 3701](https://fedlex.data.admin.ch/eli/oc/2015/615)).
+[^39-3]: Introdotto dal n. I dell’O del 20 mag. 2020, in vigore dal 1° giu. 2020 al 31 dic. 2021 ([RU 2020 1757](https://fedlex.data.admin.ch/eli/oc/2020/345)).
 
-### Sezione 2: Ulteriori misure di promozione dello sport e dell’attività fisica****
+### Sezione 2: Ulteriori misure di promozione dello sport e dell’attività fisica
 
 [^tit1-chap3-sec2-1]
 
@@ -783,7 +825,7 @@ Nei limiti in cui non siano necessari per uso proprio, a pagamento e secondo la 
 - a. federazioni sportive nazionali svizzere e loro quadri per attività volte al raggiungimento degli obiettivi della federazione;
 - b. organizzatori di offerte G+S e di offerte della formazione dei quadri G+S, per lo svolgimento delle relative offerte;
 - c. scuole svizzere, per lo svolgimento dei propri corsi di educazione fisica;
-- d. alte scuole universitarie svizzere e organizzatori privati, per lo svolgimento di offerte di formazione e di perfezionamento destinate a docenti di educazione fisica;
+- d. alte scuole universitarie svizzere e organizzatori privati, per lo svolgimento di offerte di formazione e di formazione continua destinate a docenti di educazione fisica;
 - e. organizzatori di offerte della formazione dei quadri ESA per lo svolgimento delle relative offerte;
 - f. società sportive e federazioni sportive regionali con sede in Svizzera, per lo svolgimento delle attività sociali.
 
@@ -884,7 +926,7 @@ Per la formazione di base a impostazione aziendale l’insegnamento dell’educa
 
 Le scuole professionali di base garantiscono che per ogni anno scolastico nell’insegnamento dell’educazione fisica sia fatta almeno una qualifica degli apprendisti e che essa venga attestata.
 
-### Sezione 4:**** Sostegno alla formazione e al perfezionamento dei docenti
+### Sezione 4: Sostegno alla formazione e alla formazione continua dei docenti
 
 [^tit2-chap1-sec4-1]
 
@@ -892,11 +934,11 @@ Le scuole professionali di base garantiscono che per ogni anno scolastico nell�
 
 #### Art. 54a
 
-**Aiuti finanziari per le offerte di formazione e perfezionamento**
+**Aiuti finanziari per le offerte di formazione e formazione continua**
 
-<sup>1</sup> La Confederazione può concedere aiuti finanziari a istituzioni pubbliche e private senza scopo di lucro per la concezione, lo sviluppo, la coordinazione, lo svolgimento e la valutazione di offerte di formazione e perfezionamento destinate ai docenti di educazione fisica come pure dei relativi media didattici.
+<sup>1</sup> La Confederazione può concedere aiuti finanziari a istituzioni pubbliche e private senza scopo di lucro per la concezione, lo sviluppo, la coordinazione, lo svolgimento e la valutazione di offerte di formazione e formazione continua destinate ai docenti di educazione fisica come pure dei relativi media didattici.
 
-<sup>2</sup> Le offerte di formazione e perfezionamento devono essere intese ad ampliare o sviluppare le competenze professionali dei docenti di educazione fisica. Possono concernere uno o più gradi di formazione.
+<sup>2</sup> Le offerte di formazione e formazione continua devono essere intese ad ampliare o sviluppare le competenze professionali dei docenti di educazione fisica. Possono concernere uno o più gradi di formazione.
 
 <sup>3</sup>
 
@@ -911,11 +953,11 @@ Esse devono:
 
 <sup>1</sup> L’istituzione deve presentare la domanda di aiuti finanziari all’UFSPO.
 
-<sup>2</sup> L’UFSPO verifica il rispetto delle condizioni di cui all’articolo 54*a*. Nel caso di domande di istituzioni private, prima di decidere chiede una valutazione all’autorità cantonale competente per la formazione e il perfezionamento dei docenti di educazione fisica o alla Conferenza svizzera dei direttori cantonali della pubblica educazione.
+<sup>2</sup> L’UFSPO verifica il rispetto delle condizioni di cui all’articolo 54*a*. Nel caso di domande di istituzioni private, prima di decidere chiede una valutazione all’autorità cantonale competente per la formazione e la formazione continua dei docenti di educazione fisica o alla Conferenza svizzera dei direttori cantonali della pubblica educazione.
 
 <sup>3</sup> Non sussiste alcun diritto agli aiuti finanziari.
 
-<sup>4</sup> Se gli aiuti finanziari richiesti superano i mezzi disponibili, l’UFSPO istituisce un ordine di priorità per la valutazione delle domande ai sensi dell’articolo 13 capoverso 2 della legge del 5 ottobre 1990[^54b-1] sui sussidi. È sostenuto in primo luogo lo svolgimento di offerte che servono direttamente al perfezionamento dei docenti di educazione fisica.
+<sup>4</sup> Se gli aiuti finanziari richiesti superano i mezzi disponibili, l’UFSPO istituisce un ordine di priorità per la valutazione delle domande ai sensi dell’articolo 13 capoverso 2 della legge del 5 ottobre 1990[^54b-1] sui sussidi. È sostenuto in primo luogo lo svolgimento di offerte che servono direttamente alla formazione continua dei docenti di educazione fisica.
 
 [^54b-1]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
 
@@ -925,18 +967,18 @@ Esse devono:
 
 <sup>1</sup> Gli aiuti finanziari ammontano al massimo al 50 per cento dei costi computabili.
 
-<sup>2</sup> Sono computabili i costi direttamente collegati alla preparazione e allo svolgimento delle offerte di formazione e perfezionamento che danno diritto agli aiuti finanziari.
+<sup>2</sup> Sono computabili i costi direttamente collegati alla preparazione e allo svolgimento delle offerte di formazione e formazione continua che danno diritto agli aiuti finanziari.
 
 <sup>3</sup>
 
 Gli aiuti finanziari sono calcolati in base a:
 
-- a. la natura e l’importanza di un’offerta di formazione o perfezionamento;
-- b. l’interesse della Confederazione all’offerta di formazione o perfezionamento;
+- a. la natura e l’importanza di un’offerta di formazione o formazione continua;
+- b. l’interesse della Confederazione all’offerta di formazione o formazione continua;
 - c. le prestazioni proprie e i contributi di organi federali o di terzi;
 - d. l’onere per la garanzia della qualità.
 
-### Capitolo 2: Scuola universitaria federale dello sport di Macolin****
+### Capitolo 2: Scuola universitaria federale dello sport di Macolin
 
 [^tit2-chap2-1]
 
@@ -954,7 +996,7 @@ Gli aiuti finanziari sono calcolati in base a:
 
 Essa fornisce le seguenti prestazioni nel campo delle scienze dello sport:
 
-- a. formazione e perfezionamento orientati alla pratica;
+- a. formazione e formazione continua orientate alla pratica;
 - b. ricerca applicata e sviluppo;
 - c. prestazioni di servizio.
 
@@ -1030,8 +1072,8 @@ La SUFSM propone i seguenti livelli di studio nel settore scienze dello sport:
 
 Essa può proporre i seguenti perfezionamenti nel campo delle scienze dello sport:
 
-- a. cicli di studio di perfezionamento;
-- b. altre proposte di perfezionamento.
+- a. cicli di studio di formazione continua;
+- b. altre proposte di formazione continua.
 
 [^57-1]: Nuovo testo giusta il n. I dell’O dell’11 ago. 2021, in vigore dal 1° ott. 2021 ([RU 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
 
@@ -1051,7 +1093,7 @@ Essa può proporre i seguenti perfezionamenti nel campo delle scienze dello spor
 
 [^59-1]: Abrogato dal n. I dell’O dell’11 ago. 2021, con effetto dal 1° ott. 2021 ([RU 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
 
-### Sezione 2: Cicli di studio****
+### Sezione 2: Cicli di studio
 
 [^tit2-chap2-sec2-1]
 
@@ -1109,21 +1151,21 @@ I diplomati possono utilizzare i titoli protetti di:
 
 #### Art. 63
 
-**Cicli di studio di perfezionamento**[^63-1]
+**Cicli di studio di formazione continua**[^63-1]
 
 <sup>1</sup>
 
-La SUFSM può proporre cicli di studio di perfezionamento che portano al conseguimento di uno dei seguenti diplomi:
+La SUFSM può proporre cicli di studio di formazione continua che portano al conseguimento di uno dei seguenti diplomi:
 
 - a. Certificate of Advanced Studies (CAS);
 - b. Diploma of Advanced Studies (DAS);
 - c. Master of Advanced Studies (MAS).
 
-<sup>2</sup> Sono ammessi ai cicli di studio di perfezionamento i titolari di un diploma di scuola universitaria.
+<sup>2</sup> Sono ammessi ai cicli di studio di formazione continua i titolari di un diploma di scuola universitaria.
 
 <sup>3</sup> Le persone che non sono titolari di un diploma di scuola universitaria possono essere ammesse se sono in grado di provare in altro modo la loro idoneità alla frequenza.
 
-<sup>4</sup> Il DDPS disciplina gli indirizzi e le prestazioni di studio dei cicli di studio di perfezionamento nonché i requisiti per l’ottenimento del diploma conformemente alle disposizioni d’esecuzione relative alla LPSU[^63-2].
+<sup>4</sup> Il DDPS disciplina gli indirizzi e le prestazioni di studio dei cicli di studio di formazione continua nonché i requisiti per l’ottenimento del diploma conformemente alle disposizioni d’esecuzione relative alla LPSU[^63-2].
 
 [^63-1]: Nuovo testo giusta il n. I dell’O dell’11 ago. 2021, in vigore dal 1° ott. 2021 ([RU 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
 [^63-2]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
@@ -1191,7 +1233,7 @@ La persona interessata ha in particolare il diritto di:
 [^65-1]: Introdotta dal n. I dell’O del 3 apr. 2020, in vigore dal 1° lug. 2020 ([RU 2020 1513](https://fedlex.data.admin.ch/eli/oc/2020/303)).
 [^65-2]: Introdotta dal n. I dell’O del 3 apr. 2020, in vigore dal 1° lug. 2020 ([RU 2020 1513](https://fedlex.data.admin.ch/eli/oc/2020/303)).
 
-### Capitolo 3: Ricerca scientifica e monitoraggio nel campo dello sport****
+### Capitolo 3: Ricerca scientifica e monitoraggio nel campo dello sport
 
 [^tit2-chap3-1]
 
@@ -1205,7 +1247,7 @@ La persona interessata ha in particolare il diritto di:
 
 <sup>2</sup> Elabora un piano direttore della ricerca per un periodo di quattro anni. Tale piano considera anche la strategia di ricerca della SUFSM.
 
-[^66-1]: [[RU 1984 28](https://fedlex.data.admin.ch/eli/oc/1984/28_28_28), [1992 1027](https://fedlex.data.admin.ch/eli/oc/1992/1027_1027_1027)art. 29, [1993 901](https://fedlex.data.admin.ch/eli/oc/1993/901_901_901)all. 3 n. 3 [2080](https://fedlex.data.admin.ch/eli/oc/1993/2080_2080_2080)all. n. 9, [1996 99](https://fedlex.data.admin.ch/eli/oc/1996/99_99_99), [2000 1858](https://fedlex.data.admin.ch/eli/oc/2000/286), [2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634), [2004 4261](https://fedlex.data.admin.ch/eli/oc/2004/638), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 39, [2008 433](https://fedlex.data.admin.ch/eli/oc/2008/109), [2010 651](https://fedlex.data.admin.ch/eli/oc/2010/99), [2011 4497](https://fedlex.data.admin.ch/eli/oc/2011/624)[4565](https://fedlex.data.admin.ch/eli/oc/2011/644)n. II cpv. 1, [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419). [RU 2013 4425](https://fedlex.data.admin.ch/eli/oc/2013/786)art. 57 cpv. 1 e 2]. Vedi ora la LF del 14 dic. 2012 ([RS 420.1](https://fedlex.data.admin.ch/eli/cc/2013/786)).
+[^66-1]: [[RU 1984 28](https://fedlex.data.admin.ch/eli/oc/1984/28_28_28); [1992 1027](https://fedlex.data.admin.ch/eli/oc/1992/1027_1027_1027)art. 29; [1993 901](https://fedlex.data.admin.ch/eli/oc/1993/901_901_901)all. 3 n. 3, [2080](https://fedlex.data.admin.ch/eli/oc/1993/2080_2080_2080)all. n. 9; [1996 99](https://fedlex.data.admin.ch/eli/oc/1996/99_99_99); [2000 1858](https://fedlex.data.admin.ch/eli/oc/2000/286); [2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [2004 4261](https://fedlex.data.admin.ch/eli/oc/2004/638); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 39; [2008 433](https://fedlex.data.admin.ch/eli/oc/2008/109); [2010 651](https://fedlex.data.admin.ch/eli/oc/2010/99); [2011 4497](https://fedlex.data.admin.ch/eli/oc/2011/624), [4565](https://fedlex.data.admin.ch/eli/oc/2011/644)n. II cpv. 1; [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419). [RU 2013 4425](https://fedlex.data.admin.ch/eli/oc/2013/786)art. 57 cpv. 1 e 2]. Vedi ora la LF del 14 dic. 2012 ([RS 420.1](https://fedlex.data.admin.ch/eli/cc/2013/786)).
 
 #### Art. 67
 
@@ -1288,9 +1330,9 @@ L’ammontare dell’importo si fonda su:
 
 #### Art. 72a
 
-**Formazione e perfezionamento degli allenatori**[^72a-1]
+**Formazione e formazione continua degli allenatori**[^72a-1]
 
-<sup>1</sup> L’UFSPO dirige un centro di competenze per la formazione e il perfezionamento degli allenatori nello sport giovanile di competizione e nello sport di punta.
+<sup>1</sup> L’UFSPO dirige un centro di competenze per la formazione e la formazione continua degli allenatori nello sport giovanile di competizione e nello sport di punta.
 
 <sup>2</sup> Propone formazioni e perfezionamenti nel settore della formazione degli allenatori.
 
@@ -1300,13 +1342,13 @@ L’ammontare dell’importo si fonda su:
 
 [^72a-1]: Introdotto dal n. I dell’O dell’11 ago. 2021, in vigore dal 1° ott. 2021 ([RU 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
 
-## Titolo 4: Correttezza e sicurezza****
+## Titolo 4: Correttezza e sicurezza
 
 [^tit4-1]
 
 [^tit4-1]: Nuovo testo giusta l’all. 2 n. II 1 dell’O del 7 nov. 2018 sui giochi in denaro, in vigore dal 1° gen. 2019 ([RU 2018 5155](https://fedlex.data.admin.ch/eli/oc/2018/796)).
 
-### Capitolo 1: Doping****
+### Capitolo 1: Doping
 
 [^tit4-chap1-1]
 
@@ -1415,7 +1457,7 @@ Le autorità giudiziarie e di perseguimento penale possono trasmettere le inform
 - a. non si ledono i diritti della personalità di terzi; e
 - b. non si compromette lo scopo dell’inchiesta penale.
 
-### Capitolo 2:**** Manipolazione delle competizioni nello sport
+### Capitolo 2: Manipolazione delle competizioni nello sport
 
 [^tit4-chap2-1]
 
@@ -1494,9 +1536,9 @@ Sono abrogate le seguenti ordinanze:
 - 3\. ordinanza del 21 ottobre 1987[^81-3] sulla preparazione dei maestri di ginnastica e sport nelle università;
 - 4\. ordinanza del 17 ottobre 2001[^81-4] sui requisiti minimi per l’esecuzione di controlli antidoping.
 
-[^81-1]: [[RU 1987 1703](https://fedlex.data.admin.ch/eli/oc/1987/1703_1703_1703), [1990 981](https://fedlex.data.admin.ch/eli/oc/1990/981_981_981), [1994 1392](https://fedlex.data.admin.ch/eli/oc/1994/1392_1392_1392), [1996 3018](https://fedlex.data.admin.ch/eli/oc/1996/3018_3018_3018), [1998 1472](https://fedlex.data.admin.ch/eli/oc/1998/1472_1472_1472), [2000 2427](https://fedlex.data.admin.ch/eli/oc/2000/387)[2966](https://fedlex.data.admin.ch/eli/oc/2000/533), [2002 723](https://fedlex.data.admin.ch/eli/oc/2002/141)all. 2 n. 2 [4003](https://fedlex.data.admin.ch/eli/oc/2002/642), [2004 4593](https://fedlex.data.admin.ch/eli/oc/2004/703), [2005 257](https://fedlex.data.admin.ch/eli/oc/2005/39), [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)n. II 28, [2007 4297](https://fedlex.data.admin.ch/eli/oc/2007/571)[5823](https://fedlex.data.admin.ch/eli/oc/2007/789)n. I 3, [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)n. I 4.2]
+[^81-1]: [[RU 1987 1703](https://fedlex.data.admin.ch/eli/oc/1987/1703_1703_1703); [1990 981](https://fedlex.data.admin.ch/eli/oc/1990/981_981_981); [1994 1392](https://fedlex.data.admin.ch/eli/oc/1994/1392_1392_1392); [1996 3018](https://fedlex.data.admin.ch/eli/oc/1996/3018_3018_3018); [1998 1472](https://fedlex.data.admin.ch/eli/oc/1998/1472_1472_1472); [2000 2427](https://fedlex.data.admin.ch/eli/oc/2000/387), [2966](https://fedlex.data.admin.ch/eli/oc/2000/533); [2002 723](https://fedlex.data.admin.ch/eli/oc/2002/141)all. 2 n. 2, [4003](https://fedlex.data.admin.ch/eli/oc/2002/642); [2004 4593](https://fedlex.data.admin.ch/eli/oc/2004/703); [2005 257](https://fedlex.data.admin.ch/eli/oc/2005/39); [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)n. II 28; [2007 4297](https://fedlex.data.admin.ch/eli/oc/2007/571), [5823](https://fedlex.data.admin.ch/eli/oc/2007/789)n. I 3; [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)n. I 4.2]
 [^81-2]: [[RU 1976 1403](https://fedlex.data.admin.ch/eli/oc/1976/1403_1403_1403), [1998 1822](https://fedlex.data.admin.ch/eli/oc/1998/1822_1822_1822)art. 24 cpv. 1 lett. e]
-[^81-3]: [[RU 1987 1464](https://fedlex.data.admin.ch/eli/oc/1987/1464_1464_1464),[1996 2243](https://fedlex.data.admin.ch/eli/oc/1996/2243_2243_2243)n. I 22 [3021](https://fedlex.data.admin.ch/eli/oc/1996/3021_3021_3021)]
+[^81-3]: [[RU 1987 1464](https://fedlex.data.admin.ch/eli/oc/1987/1464_1464_1464),[1996 2243](https://fedlex.data.admin.ch/eli/oc/1996/2243_2243_2243)n. I 22, [3021](https://fedlex.data.admin.ch/eli/oc/1996/3021_3021_3021)]
 [^81-4]: [[RU 2001 2971](https://fedlex.data.admin.ch/eli/oc/2001/437), [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)all. 4 n. 6]
 
 #### Art. 82
@@ -1537,17 +1579,25 @@ Gli accordi di cui all’articolo 83 capoverso 2 sono validi fino al 31 dicembre
 
 #### Art. 83c
 
-**Disposizione transitoria della modifica del 3 aprile 2020**[^83c-1]
+[^83c-1]
 
-Le offerte G+S di organizzatori che hanno chiuso un’offerta fra il 1° ottobre 2018 e il 30 settembre 2021 sono autorizzate fino al 31 dicembre 2023 anche se gli organizzatori non sono registrati ai sensi dell’articolo 10*a*.
-
-[^83c-1]: Introdotto dal n. I dell’O del 3 apr. 2020, in vigore dal 1° lug. 2020 ([RU 2020 1513](https://fedlex.data.admin.ch/eli/oc/2020/303)).
+[^83c-1]: Introdotto dal n. I dell’O del 3 apr. 2020 ([RU 2020 1513](https://fedlex.data.admin.ch/eli/oc/2020/303)). Abrogato dal n. I dell’O del 30 mar. 2022, con effetto dal 1° dic. 2022 ([RU 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
 
 #### Art. 83d
 
 [^83d-1]
 
 [^83d-1]: Introdotto dal n. I dell’O del 20 mag. 2020, in vigore dal 1° giu. 2020 al 31 dic. 2021 ([RU 2020 1757](https://fedlex.data.admin.ch/eli/oc/2020/345)).
+
+#### Art. 83e
+
+**Disposizione transitoria della modifica del 30 marzo 2022**[^83e-1]
+
+<sup>1</sup> Le offerte G+S di organizzatori che hanno chiuso un’offerta fra il 1° dicembre 2019 e il 30 novembre 2022 sono autorizzate fino al 30 novembre 2025 anche se gli organizzatori non sono registrati ai sensi dell’articolo 10*a*.
+
+<sup>2</sup> L’UFSPO può conferire il riconoscimento complementare «sicurezza» alle persone che hanno assolto una formazione continua sui temi della sicurezza nelle rispettive discipline sportive entro il 31 dicembre 2025.
+
+[^83e-1]: Introdotto dal n. I dell’O del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
 
 #### Art. 84
 
@@ -1571,7 +1621,7 @@ Qualsiasi sostanza farmacologica non compresa nella lista sottostante e non appr
 
 a) Steroidi anabolizzanti androgeni esogeni
 
-**1-Androstendiolo** (5α-androst-1-en-3 ,17β-diol), **1-Androstendione** (5α-androst-1-en-3,17-dion), **Bolandiolo** (estr-4-ene-3β,17β-diol), **Bolasterone**, **Boldenone**, **Bo****l****dione** (androsta-1,4-dien-3,17-dion), **Calusterone**, **Clostebolo**, **Danazolo** (17α-etinil-17β-idrossiandrost-4-eno[2,3-d]isossazolo), **Deidroclormeti****l****testosterone** (4-cloro-17β-idrossi-17α-metilandrosta-1,4-dien-3-on), **Desossimeti****l****testosterone** (17α-metil-5α-androst-2-en-17β-ol), **Drostanolone**, **Etilestrenolo** (19-nor-17α-pregn-4-en-17-ol), **Fluossimesterone**, **Formebolone**, **Furazabolo** (17β-idrossi-17α-metil-5α-androstano[2,3-c]-furazano), **Gestrinone**, **4-Idrossitestosterone** (4,17β-diidrossi-androst-4-en-3-on), **Mestanolone**, **Mesterolone**, **Metenolone**, **Metandi****e****none** (17β-idrossi-17α-metilandrosta-1,4-dien-3-on), **Metandriolo**, **Metasterone** (2α,17α-dimetil-5α-androstan-3-on-17β-ol), **Metildi****e****nolone** (17β-idrossi-17α-metilestra-4,9-dien-3-on), **Metil-1-testosterone** (17β-idrossi-17α-metil-5α-androst-1-en-3-on), **Metilnortestosterone**, (17β-idrossi-17α-metilestr-4-en-3-on), **Metilt****e****stosterone**, **Metribolone** (Metiltrienolone 17β-idrossi-17α-metilestra-4,9,11-trien-3-on), **Mibolerone**, **Nandrolone**, **19-Norandrostendione** (estr-4-en-3,17-dion), **Norboletone**, **Norclostebolo**, **Noretandrolone**, **Ossabolone**, **Ossandrolone**, **Oss****i****mesterone**, **Ossimetolone**, **Prostanoz****o****lo** (17β-idrossi-5α-androstano[3,2-c]pyrazol), **Quinbolone**, **Stanozololo**, **Stenbol****o****ne**, **1-Testosterone** (17β-idrossi-5α-androst-1-en-3-on), **Tetraidrogestrinone**(18a-homo-pregna-4,9,11-trien-17β-ol-3-on), **Trenbolone**.
+**1-Androstendiolo** (5α-androst-1-en-3 ,17β-diol), **1-Androstendione** (5α-androst-1-en-3,17-dion), **Bolandiolo** (estr-4-ene-3β,17β-diol), **Bolasterone**, **Boldenone**, **Boldione** (androsta-1,4-dien-3,17-dion), **Calusterone**, **Clostebolo**, **Danazolo** (17α-etinil-17β-idrossiandrost-4-eno[2,3-d]isossazolo), **Deidroclormetiltestosterone** (4-cloro-17β-idrossi-17α-metilandrosta-1,4-dien-3-on), **Desossimetiltestosterone** (17α-metil-5α-androst-2-en-17β-ol), **Drostanolone**, **Etilestrenolo** (19-nor-17α-pregn-4-en-17-ol), **Fluossimesterone**, **Formebolone**, **Furazabolo** (17β-idrossi-17α-metil-5α-androstano[2,3-c]-furazano), **Gestrinone**, **4-Idrossitestosterone** (4,17β-diidrossi-androst-4-en-3-on), **Mestanolone**, **Mesterolone**, **Metenolone**, **Metandienone** (17β-idrossi-17α-metilandrosta-1,4-dien-3-on), **Metandriolo**, **Metasterone** (2α,17α-dimetil-5α-androstan-3-on-17β-ol), **Metildienolone** (17β-idrossi-17α-metilestra-4,9-dien-3-on), **Metil-1-testosterone** (17β-idrossi-17α-metil-5α-androst-1-en-3-on), **Metilnortestosterone**, (17β-idrossi-17α-metilestr-4-en-3-on), **Metiltestosterone**, **Metribolone** (Metiltrienolone 17β-idrossi-17α-metilestra-4,9,11-trien-3-on), **Mibolerone**, **Nandrolone**, **19-Norandrostendione** (estr-4-en-3,17-dion), **Norboletone**, **Norclostebolo**, **Noretandrolone**, **Ossabolone**, **Ossandrolone**, **Ossimesterone**, **Ossimetolone**, **Prostanozolo** (17β-idrossi-5α-androstano[3,2-c]pyrazol), **Quinbolone**, **Stanozololo**, **Stenbolone**, **1-Testosterone** (17β-idrossi-5α-androst-1-en-3-on), **Tetraidrogestrinone**(18a-homo-pregna-4,9,11-trien-17β-ol-3-on), **Trenbolone**.
 
 b. Steroidi anabolizzanti androgeni endogeni
 

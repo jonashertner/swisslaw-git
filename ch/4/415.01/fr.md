@@ -4,11 +4,11 @@ title: "Ordonnance du 23 mai 2012 sur l'encouragement du sport et de l'activité
 short: OESp
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/461"
 language: fr
-version: 2022-01-01
+version: 2022-12-01
 adopted: 2012-05-23
 in_force: 2012-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/461/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2012-461-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/461/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/461/20221201/fr/xml/fedlex-data-admin-ch-eli-cc-2012-461-20221201-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/461/20221201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/461/20220101/fr"
 
 (Ordonnance sur l’encouragement du sport, OESp)
 
-du 23 mai 2012 (Etat le 1<sup>er</sup> janvier 2022)
+du 23 mai 2012 (Etat le 1<sup>er</sup> décembre 2022)
 
 Le Conseil fédéral suisse,
 
@@ -52,7 +52,7 @@ La Confédération soutient des programmes et des projets d’encouragement du s
 - d.[^2-1] ...
 - e. de préparer les moniteurs de sport à leurs tâches de cadres J+S en leur offrant une formation spécifique, une formation continue adaptée à leurs besoins et un suivi dans l’exercice de leur fonction.
 
-<sup>2</sup> A des fins d’intégration sociale ou de santé publique, pour réaliser l’égalité entre les sexes ou pour assurer la promotion du programme J+S, l’Office fédéral du sport (OFSPO) peut prendre des mesures encourageant des groupes spécifiques d’enfants et de jeunes à pratiquer certains sports J+S, ou propres à promouvoir J+S auprès de ces groupes.
+<sup>2</sup> À des fins d’intégration sociale ou de santé publique, pour réaliser l’égalité entre les sexes ou pour assurer la promotion du programme J+S, l’Office fédéral du sport (OFSPO) peut prendre des mesures encourageant des groupes spécifiques d’enfants et de jeunes à pratiquer certains sports J+S, ou propres à promouvoir J+S auprès de ces groupes.
 
 [^2-1]: Abrogée par le ch. I de l’O du 15 nov. 2017, avec effet au 1<sup>er</sup> janv. 2018 ([RO 2017 6589](https://fedlex.data.admin.ch/eli/oc/2017/729)).
 
@@ -86,7 +86,7 @@ La Confédération soutient des programmes et des projets d’encouragement du s
 
 **Lieu du cours ou du camp**
 
-<sup>1</sup> Les cours J+S doivent avoir lieu en principe en Suisse. A titre exceptionnel, certains entraînements ou compétitions peuvent avoir lieu à l’étranger.
+<sup>1</sup> Les cours J+S doivent avoir lieu en principe en Suisse. À titre exceptionnel, certains entraînements ou compétitions peuvent avoir lieu à l’étranger.
 
 <sup>2</sup> Les camps J+S doivent se dérouler en principe en Suisse. Ils peuvent se dérouler à l’étranger s’ils sont proposés par un organisateur assurant l’essentiel de ses cours et de ses camps J+S en Suisse.
 
@@ -137,7 +137,7 @@ Ne sont admis en aucun cas:
 
 On distingue 6 groupes d’utilisateurs (GU) au sein de J+S. L’OFSPO répartit les offres entre eux selon la classification suivante:[^8-1]
 
-- a.[^8-2] les offres J+S du GU 1 sont des offres proposées par des clubs sportifs ou des organisations au fonctionnement analogue, qui permettent aux enfants ou aux jeunes d’acquérir et d’appliquer des habiletés dans un ou plusieurs sports J+S de manière régulière, ciblée et dirigée au sein d’un groupe stable;
+- a.[^8-2] les offres J+S du GU 1 sont des offres proposées par des clubs sportifs ou des organisations au fonctionnement analogue, qui permettent aux enfants ou aux jeunes d’acquérir et d’appliquer des habiletés dans un ou plusieurs sports J+S de manière régulière, ciblée et dirigée au sein d’un groupe stable ou qui les amènent à découvrir le sport en développant des aspects sociaux dans le cadre d’un camp;
 - b. les offres J+S du GU 2 sont des offres au sens de la let. a; leur régularité dépend toutefois des conditions extérieures, notamment du vent, de l’eau ou de la neige;
 - c.[^8-3] les offres J+S du GU 3 sont des offres proposées par des fédérations ou des associations de jeunesse qui amènent les enfants ou les jeunes, dans le cadre d’un camp, à découvrir le jeu et le sport en développant des aspects sociaux;
 - d. les offres J+S du GU 4 sont des offres proposées par la Confédération, des cantons, des communes ou des fédérations sportives nationales; ces offres amènent les enfants ou les jeunes, dans le cadre d’un camp, à découvrir le sport en développant des aspects sociaux ou, dans le cadre de cours, à acquérir et à appliquer des habiletés dans un ou plusieurs sports J+S de manière régulière et ciblée au sein d’un groupe stable;
@@ -154,7 +154,7 @@ On distingue 6 groupes d’utilisateurs (GU) au sein de J+S. L’OFSPO répartit
 <sup>2</sup> ...[^8-6]
 
 [^8-1]: Nouvelle teneur selon le ch. I de l’O du 15 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6589](https://fedlex.data.admin.ch/eli/oc/2017/729)).
-[^8-2]: Nouvelle teneur selon le ch. I de l’O du 11 sept. 2015, en vigueur depuis le 1<sup>er</sup> déc. 2015 ([RO 2015 3701](https://fedlex.data.admin.ch/eli/oc/2015/615)).
+[^8-2]: Nouvelle teneur selon le ch. I de l’O du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
 [^8-3]: Nouvelle teneur selon le ch. I de l’O du 20 août 2014, en vigueur depuis le 1<sup>er</sup> oct. 2014 ([RO 2014 2841](https://fedlex.data.admin.ch/eli/oc/2014/489)).
 [^8-4]: Abrogé par le ch. I de l’O du 3 avr. 2020, avec effet au 1<sup>er</sup> juil. 2020 ([RO 2020 1513](https://fedlex.data.admin.ch/eli/oc/2020/303)).
 [^8-5]: Abrogée par le ch. I de l’O du 15 nov. 2017, avec effet au 1<sup>er</sup> janv. 2018 ([RO 2017 6589](https://fedlex.data.admin.ch/eli/oc/2017/729)).
@@ -169,17 +169,19 @@ On distingue 6 groupes d’utilisateurs (GU) au sein de J+S. L’OFSPO répartit
 Le DDPS fixe pour chaque groupe d’utilisateurs:
 
 - a. la durée minimale des cours et des camps;
-- b. le nombre minimal de leçons ou activités par cours et par camp;
-- c. la durée minimale d’une leçon ou activité.
+- b.[^9-1] le nombre minimal d’activités par cours et par camp;
+- c.[^9-2] la durée minimale d’une activité.
 
 <sup>2</sup> Il fixe le nombre maximal de participants autorisé par moniteur J+S pour les cours et les camps J+S dans chaque sport.
 
-<sup>3</sup> L’OFSPO peut, dans la limite de l’art. 6, al. 3, LESp, limiter l’âge de participation à un sport, à une activité ou à un groupe d’utilisateurs.[^9-1]
+<sup>3</sup> L’OFSPO peut, dans la limite de l’art. 6, al. 3, LESp, limiter l’âge de participation à un sport, à une activité ou à un groupe d’utilisateurs.[^9-3]
 
-<sup>4</sup> Il détermine les autres exigences spécifiques qui régissent la réalisation des offres J+S selon les sports, les activités et les groupes d’utilisateurs.[^9-2]
+<sup>4</sup> Il détermine les autres exigences spécifiques qui régissent la réalisation des offres J+S selon les sports, les activités et les groupes d’utilisateurs.[^9-4]
 
-[^9-1]: Nouvelle teneur selon le ch. I de l’O du 3 avr. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 1513](https://fedlex.data.admin.ch/eli/oc/2020/303)).
-[^9-2]: Nouvelle teneur selon le ch. I de l’O du 3 avr. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 1513](https://fedlex.data.admin.ch/eli/oc/2020/303)).
+[^9-1]: Nouvelle teneur selon le ch. I de l’O du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
+[^9-2]: Nouvelle teneur selon le ch. I de l’O du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
+[^9-3]: Nouvelle teneur selon le ch. I de l’O du 3 avr. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 1513](https://fedlex.data.admin.ch/eli/oc/2020/303)).
+[^9-4]: Nouvelle teneur selon le ch. I de l’O du 3 avr. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 1513](https://fedlex.data.admin.ch/eli/oc/2020/303)).
 
 ### Section 4 Organisateurs
 
@@ -229,11 +231,14 @@ L’OFSPO indique dans sa décision:
 
 **Obligations des organisateurs des offres J+S**
 
-<sup>1</sup> Les organisateurs des offres J+S veillent à ce que les mesures nécessaires soient prises pour assurer la sécurité des participants, pour protéger leur santé et pour prévenir les accidents, et à ce qu’elles soient appliquées pendant toute la durée du cours ou du camp.
+<sup>1</sup> Les organisateurs des offres J+S veillent à ce que les principes de l’éthique et de la sécurité dans le sport soient mis en œuvre et à ce que les mesures nécessaires soient prises pour assurer la sécurité des participants, pour protéger leur santé et pour prévenir les accidents, et ce pendant toute la durée du cours ou du camp.[^11-1]
 
-<sup>2</sup> Si l’organisateur d’une offre J+S constate que les cadres J+S responsables négligent leur devoir de surveillance et d’encadrement lors de la réalisation de cette offre, il prend les mesures requises et en informe l’autorité cantonale responsable de la réalisation de l’offre J+S. S’il constate un délit ou un crime, il en informe l’autorité de poursuite pénale.
+<sup>2</sup> Si l’organisateur d’une offre J+S constate que les cadres J+S responsables négligent leur devoir de surveillance et d’encadrement lors de la réalisation de cette offre, il prend les mesures requises et en informe l’OFSPO. S’il constate un délit ou un crime, il en informe l’OFSPO et l’autorité de poursuite pénale.[^11-2]
 
 <sup>3</sup> Les organisateurs des offres J+S informent les participants, leurs représentants légaux et les cadres J+S concernés des risques que peut comporter la pratique du sport et ils attirent leur attention sur l’utilité d’une assurance-accidents et d’une assurance de responsabilité civile.
+
+[^11-1]: Nouvelle teneur selon le ch. I de l’O du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
+[^11-2]: Nouvelle teneur selon le ch. I de l’O du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
 
 #### Art. 12
 
@@ -260,21 +265,22 @@ L’OFSPO indique dans sa décision:
 
 Font partie des cadres J+S toutes les personnes titulaires d’un certificat:[^13-1]
 
-- a.[^13-2] de moniteur J+S, y compris de moniteur J+S Sport scolaire;
+- a.[^13-2] de moniteur J+S dans un sport J+S ou de moniteur J+S Sport scolaire;
 - b. de coach J+S;
 - c.[^13-3] ...
-- d. d’expert J+S.
+- d.[^13-4] d’expert J+S dans un sport J+S ou d’expert J+S Sport scolaire.
 
-<sup>1bis</sup> Sauf disposition contraire de la présente ordonnance ou d’ordonnances qui lui sont subordonnées, les dispositions s’appliquant aux moniteurs J+S s’appliquent également aux moniteurs J+S Sport scolaire.[^13-4]
+<sup>1bis</sup> Sauf disposition contraire de la présente ordonnance ou d’ordonnances qui lui sont subordonnées, les dispositions s’appliquant aux moniteurs J+S dans un sport s’appliquent également aux moniteurs J+S Sport scolaire, et les dispositions s’appliquant aux experts J+S dans un sport s’appliquent également aux experts J+S Sport scolaire.[^13-5]
 
 <sup>2</sup> Quiconque a suivi avec succès la formation *ad hoc* peut être reconnu cadre J+S. L’OFSPO décerne la reconnaissance de cadre sur la proposition de l’organisateur de la formation des cadres. Dans des cas justifiés, l’OFSPO peut s’écarter de cette proposition.
 
 <sup>3</sup> La reconnaissance doit être renouvelée tous les 2 ans. Pour ce faire, la personne concernée doit suivre un cours de formation continue.
 
 [^13-1]: Nouvelle teneur selon le ch. I de l’O du 11 sept. 2015, en vigueur depuis le 1<sup>er</sup> déc. 2015 ([RO 2015 3701](https://fedlex.data.admin.ch/eli/oc/2015/615)).
-[^13-2]: Nouvelle teneur selon le ch. I de l’O du 11 sept. 2015, en vigueur depuis le 1<sup>er</sup> déc. 2015 ([RO 2015 3701](https://fedlex.data.admin.ch/eli/oc/2015/615)).
+[^13-2]: Nouvelle teneur selon le ch. I de l’O du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
 [^13-3]: Abrogée par le ch. I de l’O du 15 nov. 2017, avec effet au 1<sup>er</sup> janv. 2018 ([RO 2017 6589](https://fedlex.data.admin.ch/eli/oc/2017/729)).
-[^13-4]: Introduit par le ch. I de l’O du 11 sept. 2015, en vigueur depuis le 1<sup>er</sup> déc. 2015 ([RO 2015 3701](https://fedlex.data.admin.ch/eli/oc/2015/615)).
+[^13-4]: Nouvelle teneur selon le ch. I de l’O du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
+[^13-5]: Introduit par le ch. I de l’O du 11 sept. 2015 ([RO 2015 3701](https://fedlex.data.admin.ch/eli/oc/2015/615)). Nouvelle teneur selon le ch. I de l’O du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
 
 #### Art. 14
 
@@ -304,9 +310,11 @@ Les cadres J+S appliquent, dans le cadre de leur activité, les principes de l�
 
 **Moniteurs J+S**
 
-<sup>1</sup> Les moniteurs J+S peuvent diriger des cours et des camps J+S ou certaines activités dans le cadre des cours et des camps J+S d’un organisateur si leur formation les y autorise.
+<sup>1</sup> Les moniteurs J+S peuvent diriger des cours et des camps J+S ou certaines activités dans le cadre des cours et des camps J+S d’un organisateur si leur formation les y autorise et qu’ils ont atteint l’âge de 18 ans. Le DDPS peut fixer un âge différent pour certains sports.[^16-1]
 
 <sup>2</sup> L’OFSPO fixe les formations nécessaires à l’exercice des différentes activités en qualité de moniteur.
+
+[^16-1]: Nouvelle teneur selon le ch. I de l’O du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
 
 #### Art. 17
 
@@ -330,33 +338,66 @@ Les experts J+S forment les moniteurs J+S, les coachs J+S, les entraîneurs de l
 
 #### Art. 20
 
-**Suppression de reconnaissances**
+**Caducité des reconnaissances**[^20-1]
 
-<sup>1</sup> La reconnaissance de cadre J+S est valable jusqu’à la fin de la deuxième année civile suivant son obtention ou suivant la dernière formation continue; la reconnaissance est supprimée si l’obligation de formation continue n’est pas remplie.
+<sup>1</sup> La reconnaissance de cadre J+S est valable jusqu’à la fin de la deuxième année civile suivant son obtention ou suivant la dernière formation continue; elle devient caduque si l’obligation de formation continue n’est pas remplie.
 
-<sup>2</sup> La reconnaissance de cadre J+S peut être recouvrée si l’obligation de formation continue est remplie dans les 4 ans. Pour les personnes dont la reconnaissance est supprimée depuis plus de 4 ans, l’OFSPO peut prévoir des modules de réintégration.
+<sup>2</sup> Le cadre J+S dont la reconnaissance est caduque peut réactiver celle-ci en suivant une formation continue.
 
-<sup>3</sup> Si la reconnaissance d’un cadre J+S échoit pendant la durée d’une offre J+S, celui-ci peut continuer d’exercer son activité jusqu’à la fin des cours ou des camps commencés; si le cadre concerné est un coach J+S, il peut exercer son activité jusqu’à la fin de l’offre.
+<sup>3</sup> Si la reconnaissance d’un cadre J+S échoit au cours d’une offre J+S, celui-ci peut continuer d’exercer son activité jusqu’à la fin des cours ou des camps commencés; si le cadre concerné est un coach J+S, il peut exercer son activité jusqu’à la fin de l’offre.
 
-<sup>4</sup> Les moniteurs J+S qui ont suivi avec succès une formation ou une formation continue pour la dernière fois en 2019 conservent provisoirement le droit de réaliser des offres J+S.[^20-1]
+[^20-1]: Nouvelle teneur selon le ch. I de l’O du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
 
-[^20-1]: Introduit par le ch. I de l’O du 20 mai 2020 ([RO 2020 1757](https://fedlex.data.admin.ch/eli/oc/2020/345)). Nouvelle teneur selon le ch. I de l’O du 30 juin 2021, en vigueur du 1<sup>er</sup> janv. 2022 au 31 déc. 2022 ([RO 2021 417](https://fedlex.data.admin.ch/eli/oc/2021/417)).
+#### Art. 20a
+
+**Suspension et retrait de reconnaissances en cas de procédure pénale**[^20a-1]
+
+<sup>1</sup> L’OFSPO suspend immédiatement la reconnaissance d’un cadre J+S, sur dénonciation ou d’office, dans les cas visés à l’art. 10, al. 2, LESp.
+
+<sup>2</sup> Au terme de la procédure pénale, il statue sur la levée de la suspension ou le retrait de la reconnaissance.
+
+[^20a-1]: Introduit par le ch. I de l’O du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
 
 #### Art. 21
 
-**Suspension et retrait de reconnaissances**
+**Suspension et retrait de reconnaissances en cas de manquement aux obligations[^21-1]**
 
 <sup>1</sup>
 
-L’OFSPO peut suspendre ou retirer la reconnaissance d’un cadre dans les cas suivants:
+L’OFSPO peut suspendre ou retirer la reconnaissance d’un cadre J+S dans les cas suivants:[^21-2]
 
 - a. non-respect des obligations inscrites dans la loi, dans la présente ordonnance ou dans les dispositions d’exécution qui en découlent;
 - b. inaptitude de ce cadre à accomplir sa tâche, ou
-- c. collaboration impossible entre ce cadre, d’une part, et l’OFSPO ou le service cantonal J+S, d’autre part, en raison de la dégradation de leurs rapports de confiance.
+- c. collaboration impossible entre ce cadre, d’une part, et l’OFSPO ou le service cantonal J+S, d’autre part, en raison de la dégradation de leurs rapports de confiance;
+- d.[^21-3] consommation ou application à soi-même, à des fins de dopage, de produits ou de méthodes visés à l’art. 19, al. 3 de la LESp;
+- e.[^21-4] participation à des paris sportifs en ligne auxquels l’accès est bloqué en vertu de l’art. 86 de la loi du 29 septembre 2017 sur les jeux d’argent[^21-5];
+- f.[^21-6] fichage dans le système d’information électronique visé à l’art. 24*a* de la loi fédérale du 21 mars 1997 instituant des mesures visant au maintien de la sûreté intérieure[^21-7] en raison d’un comportement violent affiché lors de manifestations sportives organisées en Suisse ou à l’étranger, ou
+- g.[^21-8] sanction disciplinaire prononcée à l’encontre du cadre J+S (en sa qualité de membre ou de mandataire d’une organisation sportive) par un organe compétent d’une fédération sportive en raison d’une violation des dispositions relatives à l’éthique et à la sécurité dans le sport.
 
 <sup>2</sup> Au lieu de suspendre la reconnaissance d’un cadre ou de la lui retirer, l’OFSPO peut lier la poursuite de son activité de cadre à des charges.
 
 <sup>3</sup> Dans des cas moins graves, il peut émettre un avertissement.
+
+[^21-1]: Nouvelle teneur selon le ch. I de l’O du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
+[^21-2]: Nouvelle teneur selon le ch. I de l’O du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
+[^21-3]: Introduite par le ch. I de l’O du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
+[^21-4]: Introduite par le ch. I de l’O du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
+[^21-5]: [RS 935.51](https://fedlex.data.admin.ch/eli/cc/2018/795)
+[^21-6]: Introduite par le ch. I de l’O du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
+[^21-7]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
+[^21-8]: Introduite par le ch. I de l’O du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
+
+#### Art. 21a
+
+**Reconnaissance supplémentaire Sécurité**[^21a-1]
+
+<sup>1</sup> Les personnes qui souhaitent diriger une activité J+S présentant des exigences accrues en termes de sécurité doivent posséder une reconnaissance supplémentaire Sécurité. Elles obtiennent cette reconnaissance en suivant une formation complémentaire spécifique.
+
+<sup>2</sup> L’OFSPO détermine les activités qui ne peuvent être dirigées que par des personnes possédant une reconnaissance supplémentaire Sécurité.
+
+<sup>3</sup> La reconnaissance supplémentaire Sécurité est valable jusqu’à la fin de la quatrième année civile suivant son obtention.
+
+[^21a-1]: Introduit par le ch. I de l’O du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
 
 ### Section 6 Allocation de subventions
 
@@ -640,9 +681,9 @@ Les moniteurs ESA peuvent diriger des offres sportives destinées aux adultes. S
 
 **Suppression et retrait de reconnaissances**
 
-<sup>1</sup> La reconnaissance de cadre ESA est valable jusqu’à la fin de la deuxième année civile suivant son obtention ou suivant la dernière formation continue réussie; la reconnaissance est supprimée si l’obligation de formation continue n’est pas remplie.
+<sup>1</sup> La reconnaissance de cadre ESA est valable jusqu’à la fin de la deuxième année civile suivant son obtention ou suivant la dernière formation continue réussie; elle devient caduque si l’obligation de formation continue n’est pas remplie.[^39-1]
 
-<sup>2</sup> Le certificat peut être recouvré si un cours de formation continue est suivi avec succès.[^39-1]
+<sup>2</sup> Le certificat peut être recouvré si un cours de formation continue est suivi avec succès.[^39-2]
 
 <sup>3</sup>
 
@@ -651,12 +692,13 @@ L’OFSPO retire la reconnaissance d’un cadre ESA dans les cas suivants:
 - a. condamnation pénale inspirant des doutes fondés sur la capacité de ce cadre à assumer sa tâche correctement;
 - b. manquements répétés aux obligations visées à l’art. 35.
 
-<sup>4</sup> ...[^39-2]
+<sup>4</sup> ...[^39-3]
 
-[^39-1]: Nouvelle teneur selon le ch. I de l’O du 11 sept. 2015, en vigueur depuis le 1<sup>er</sup> déc. 2015 ([RO 2015 3701](https://fedlex.data.admin.ch/eli/oc/2015/615)).
-[^39-2]: Introduit par le ch. I de l’O du 20 mai 2020, en vigueur du 1<sup>er</sup> juin 2020 au 31 déc. 2021 ([RO 2020 1757](https://fedlex.data.admin.ch/eli/oc/2020/345)).
+[^39-1]: Nouvelle teneur selon le ch. I de l’O du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
+[^39-2]: Nouvelle teneur selon le ch. I de l’O du 11 sept. 2015, en vigueur depuis le 1<sup>er</sup> déc. 2015 ([RO 2015 3701](https://fedlex.data.admin.ch/eli/oc/2015/615)).
+[^39-3]: Introduit par le ch. I de l’O du 20 mai 2020, en vigueur du 1<sup>er</sup> juin 2020 au 31 déc. 2021 ([RO 2020 1757](https://fedlex.data.admin.ch/eli/oc/2020/345)).
 
-### Section 2 Autres mesures d’encouragement du sport et de l’activité physique****
+### Section 2 Autres mesures d’encouragement du sport et de l’activité physique
 
 [^tit1-chap3-sec2-1]
 
@@ -882,7 +924,7 @@ Pour la formation initiale en entreprise, l’éducation physique est répartie 
 
 Les écoles professionnelles veillent à ce que l’éducation physique donne lieu à au moins une qualification des apprenants par année scolaire et à ce que celle-ci soit attestée.
 
-### Section 4**** Soutien de la formation et de la formation continue des enseignants
+### Section 4 Soutien de la formation et de la formation continue des enseignants
 
 [^tit2-chap1-sec4-1]
 
@@ -934,7 +976,7 @@ Les aides financières sont calculées en fonction:
 - c. des propres prestations et des subventions des offices fédéraux ou de tiers;
 - d. des charges liées à l’assurance qualité.
 
-### Chapitre 2 Haute école fédérale de sport de Macolin****
+### Chapitre 2 Haute école fédérale de sport de Macolin
 
 [^tit2-chap2-1]
 
@@ -1049,7 +1091,7 @@ Elle peut aussi proposer les formations continues suivantes dans le domaine des 
 
 [^59-1]: Abrogé par le ch. I de l’O du 11 août 2021, avec effet au 1<sup>er</sup> oct. 2021 ([RO 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
 
-### Section 2 Filières d’études****
+### Section 2 Filières d’études
 
 [^tit2-chap2-sec2-1]
 
@@ -1095,7 +1137,7 @@ Les lauréats peuvent porter les titres protégés suivants:
 
 <sup>4</sup> Ils peuvent compléter le titre par l’ajout «Haute école fédérale de sport de Macolin, HEFSM».
 
-<sup>5</sup> Le titre de «maître de sport HES/maîtresse de sport HES» décerné précédemment reste protégé. Les titulaires de ce titre ont également le droit de porter le titre de «*Bachelor of Science* Haute école fédérale de sport de Macolin in Sport» ou «*Bach**e**lor of Science* Haute école fédérale de sport de Macolin in Sports».
+<sup>5</sup> Le titre de «maître de sport HES/maîtresse de sport HES» décerné précédemment reste protégé. Les titulaires de ce titre ont également le droit de porter le titre de «*Bachelor of Science* Haute école fédérale de sport de Macolin in Sport» ou «*Bachelor of Science* Haute école fédérale de sport de Macolin in Sports».
 
 <sup>6</sup> Le DDPS règle l’orientation des études, les exigences liées aux diplômes et la durée des études.
 
@@ -1189,7 +1231,7 @@ La personne concernée a en particulier le droit:
 [^65-1]: Introduite par le ch. I de l’O du 3 avr. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 1513](https://fedlex.data.admin.ch/eli/oc/2020/303)).
 [^65-2]: Introduite par le ch. I de l’O du 3 avr. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 1513](https://fedlex.data.admin.ch/eli/oc/2020/303)).
 
-### Chapitre 3 Recherche en sciences du sport et monitorage****
+### Chapitre 3 Recherche en sciences du sport et monitorage
 
 [^tit2-chap3-1]
 
@@ -1298,17 +1340,17 @@ Le montant de la participation dépend:
 
 [^72a-1]: Introduit par le ch. I de l’O du 11 août 2021, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
 
-## Titre 4 Éthique et sécurité****
+## Titre 4 Éthique et sécurité
 
 [^tit4-1]
 
-[^tit4-1]: Nouvelle teneur selon le ch. II 1 de l’annexe 2 à l’O du 7 nov. 2018 sur les jeux d’argent, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5155](https://fedlex.data.admin.ch/eli/oc/2018/796)).
+[^tit4-1]: Nouvelle teneur selon l’annexe 2 ch. II 1 de l’O du 7 nov. 2018 sur les jeux d’argent, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5155](https://fedlex.data.admin.ch/eli/oc/2018/796)).
 
-### Chapitre 1 Dopage****
+### Chapitre 1 Dopage
 
 [^tit4-chap1-1]
 
-[^tit4-chap1-1]: Introduit par le ch. II 1 de l’annexe 2 à l’O du 7 nov. 2018 sur les jeux d’argent, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5155](https://fedlex.data.admin.ch/eli/oc/2018/796)).
+[^tit4-chap1-1]: Introduit par l’annexe 2 ch. II 1 de l’O du 7 nov. 2018 sur les jeux d’argent, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5155](https://fedlex.data.admin.ch/eli/oc/2018/796)).
 
 #### Art. 73
 
@@ -1367,7 +1409,7 @@ L’agence nationale de lutte contre le dopage établit chaque année une planif
 
 <sup>2</sup> Le choix des athlètes soumis à un contrôle antidopage s’effectue selon une procédure indépendante du sport pratiqué; il doit avoir un caractère imprévisible pour la personne à contrôler ainsi que pour son entourage.
 
-<sup>3</sup> Les contrôles sont effectués de manière inopinée. A titre exceptionnel, à savoir lors d’analyses complémentaires, ils peuvent être annoncés. La sphère privée de la personne contrôlée doit être protégée.
+<sup>3</sup> Les contrôles sont effectués de manière inopinée. À titre exceptionnel, à savoir lors d’analyses complémentaires, ils peuvent être annoncés. La sphère privée de la personne contrôlée doit être protégée.
 
 <sup>4</sup> Les contrôles impliquant une intervention dans le corps des athlètes (p. ex. prélèvement de sang ou de tissus) doivent être effectués par des personnes disposant des connaissances nécessaires, acquises dans le cadre d’une formation professionnelle.
 
@@ -1413,11 +1455,11 @@ Les autorités judiciaires et les autorités de poursuite pénale ne peuvent tra
 - a. elles ne lèsent pas les droits de la personnalité de tiers;
 - b. elles ne compromettent pas l’instruction pénale.
 
-### Chapitre 2**** Manipulation de compétitions sportives
+### Chapitre 2 Manipulation de compétitions sportives
 
 [^tit4-chap2-1]
 
-[^tit4-chap2-1]: Introduit par le ch. II 1 de l’annexe 2 à l’O du 7 nov. 2018 sur les jeux d’argent, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5155](https://fedlex.data.admin.ch/eli/oc/2018/796)).
+[^tit4-chap2-1]: Introduit par l’annexe 2 ch. II 1 de l’O du 7 nov. 2018 sur les jeux d’argent, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5155](https://fedlex.data.admin.ch/eli/oc/2018/796)).
 
 #### Art. 78a
 
@@ -1535,17 +1577,25 @@ Les conventions visées à l’art. 83, al. 2, ont effet jusqu’au 31 décembre
 
 #### Art. 83c
 
-**Disposition transitoire relative à la modification du 3 avril 2020**[^83c-1]
+[^83c-1]
 
-Les offres J+S proposées par des organisateurs qui ont réalisé une offre J+S ayant pris fin entre le 1<sup>er</sup> octobre 2018 et le 30 septembre 2021 sont autorisées jusqu’au 31 décembre 2023 même si ces organisateurs ne sont pas encore enregistrés selon les modalités prévues par l’art. 10*a*.
-
-[^83c-1]: Introduit par le ch. I de l’O du 3 avr. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 1513](https://fedlex.data.admin.ch/eli/oc/2020/303)).
+[^83c-1]: Introduit par le ch. I de l’O du 3 avr. 2020 ([RO 2020 1513](https://fedlex.data.admin.ch/eli/oc/2020/303)). Abrogé par le ch. I de l’O du 30 mars 2022, avec effet au 1<sup>er</sup> déc. 2022 ([RO 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
 
 #### Art. 83d
 
 [^83d-1]
 
 [^83d-1]: Introduit par le ch. I de l’O du 20 mai 2020, en vigueur du 1<sup>er</sup> juin 2020 au 31 déc. 2021 ([RO 2020 1757](https://fedlex.data.admin.ch/eli/oc/2020/345)).
+
+#### Art. 83e
+
+**Disposition transitoire relative à la modification du 30 mars 2022**[^83e-1]
+
+<sup>1</sup> Jusqu’au 30 novembre 2025, les offres J+S proposées par des organisateurs qui ont clôturé une offre J+S entre le 1<sup>er</sup> décembre 2019 et le 30 novembre 2022 bénéficient d’autorisations même si ceux-ci ne sont pas encore enregistrés selon les modalités prévues par l’art. 10*a*.
+
+<sup>2</sup> L’OFSPO peut délivrer la reconnaissance supplémentaire Sécurité aux personnes qui ont achevé une formation continue sur des thèmes en lien avec la sécurité dans le sport concerné avant le 31 décembre 2025.
+
+[^83e-1]: Introduit par le ch. I de l’O du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
 
 #### Art. 84
 
@@ -1569,7 +1619,7 @@ Les substances pharmacologiques qui ne sont pas incluses dans la liste ci-après
 
 a. Stéroïdes anabolisants exogènes
 
-**1-androstènediol** (5α-androst-1-ène-3β,17β-diol), **1-androstènedione** (5α-androst-1-ène-3,17-dione), **bolandiol** (estr-4-ène-3β,17β-diol), **bolastérone**, **boldénone**, **bo****l****dione** (androsta-1,4-diène-3,17-dione), **calustérone**, **clostébol**, **danazol** (17α-ethynyl-17β-hydroxyandrost-4-eno[2,3-d]isoxazole), **déhydrochlorméthyltestost****é****rone** (4-chloro-17β-hydroxy-17α-methylandrosta-1,4-diène-3-one), **désoxyméthy****l****testostérone** (17α-methyl-5α-androst-2-en-17β-ol), **drost****a****nolone**, **éthylestrénol** (19-nor-17α-pregn-4-en-17-ol), **fluoxymestérone**, **formébolone**, **furazabol** (17β-hydroxy-17α-methyl-5α-androstano[2,3-c]-furazan), **gestrinone**, **4-hydroxytestos****térone** (4,17β-dihydroxy-androst-4-en-3-one), **mestanolone**, **mestérolone**, **métén****o****lone**, **méthandiénone** (17β-hydroxy-17α-methylandrosta-1,4-diène-3-one), **m****é****thandriol**, **méthastérone** (2α,17α-dimethyl-5α-androstane-3-one-17β-ol), **méthyldién****o****lone** (17β-hydroxy-17α-methylestra-4,9-diène-3-one), **méthyl-1-testostérone** (17β-hydroxy-17α-methyl-5α-androst-1-en-3-one), **méthylnortesto****s****térone** (17β-hydroxy-17α-methylestr-4-en-3-one), **méthyltestostérone**, **métribol****o****ne** (méthyltriénolone 17β-hydroxy-17α-methylestra-4,9,11-triène-3-one), **mibol****é****rone**, **nandrolone**, **19-norandrostènedione** (estr-4-ène-3,17-dione), **norbolétone**, **norclostébol**, **noréthandrolone**, **oxabolone**, **oxandrolone**, **oxymestérone**, **oxym****é****tholone**, **prostanozol** (17β-hydroxy-5α-androstano[3,2-c]pyrazole), **quinbolone**, **stanozolol**, **stenbolone**, **1-testostérone** (17β-hydroxy-5α-androst-1-ène-3-one), **tétrah****y****drogestrinone** (18a-homo-pregna-4,9,11-triène-17β-ol-3-one), **trenbolone**
+**1-androstènediol** (5α-androst-1-ène-3β,17β-diol), **1-androstènedione** (5α-androst-1-ène-3,17-dione), **bolandiol** (estr-4-ène-3β,17β-diol), **bolastérone**, **boldénone**, **boldione** (androsta-1,4-diène-3,17-dione), **calustérone**, **clostébol**, **danazol** (17α-ethynyl-17β-hydroxyandrost-4-eno[2,3-d]isoxazole), **déhydrochlorméthyltestostérone** (4-chloro-17β-hydroxy-17α-methylandrosta-1,4-diène-3-one), **désoxyméthyltestostérone** (17α-methyl-5α-androst-2-en-17β-ol), **drostanolone**, **éthylestrénol** (19-nor-17α-pregn-4-en-17-ol), **fluoxymestérone**, **formébolone**, **furazabol** (17β-hydroxy-17α-methyl-5α-androstano[2,3-c]-furazan), **gestrinone**, **4-hydroxytestos****térone** (4,17β-dihydroxy-androst-4-en-3-one), **mestanolone**, **mestérolone**, **méténolone**, **méthandiénone** (17β-hydroxy-17α-methylandrosta-1,4-diène-3-one), **méthandriol**, **méthastérone** (2α,17α-dimethyl-5α-androstane-3-one-17β-ol), **méthyldiénolone** (17β-hydroxy-17α-methylestra-4,9-diène-3-one), **méthyl-1-testostérone** (17β-hydroxy-17α-methyl-5α-androst-1-en-3-one), **méthylnortestostérone** (17β-hydroxy-17α-methylestr-4-en-3-one), **méthyltestostérone**, **métribolone** (méthyltriénolone 17β-hydroxy-17α-methylestra-4,9,11-triène-3-one), **mibolérone**, **nandrolone**, **19-norandrostènedione** (estr-4-ène-3,17-dione), **norbolétone**, **norclostébol**, **noréthandrolone**, **oxabolone**, **oxandrolone**, **oxymestérone**, **oxymétholone**, **prostanozol** (17β-hydroxy-5α-androstano[3,2-c]pyrazole), **quinbolone**, **stanozolol**, **stenbolone**, **1-testostérone** (17β-hydroxy-5α-androst-1-ène-3-one), **tétrahydrogestrinone** (18a-homo-pregna-4,9,11-triène-17β-ol-3-one), **trenbolone**
 
 b. Stéroïdes anabolisants endogènes
 
