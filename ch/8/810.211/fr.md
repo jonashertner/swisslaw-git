@@ -3,11 +3,11 @@ sr: "810.211"
 title: "Ordonnance du 16 mars 2007 sur la transplantation d'organes, de tissus et de cellules d'origine humaine (Ordonnance sur la transplantation)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/280"
 language: fr
-version: 2022-01-01
+version: 2022-12-01
 adopted: 2007-03-16
 in_force: 2007-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/280/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-280-20220101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/280/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/280/20221201/fr/xml/fedlex-data-admin-ch-eli-cc-2007-280-20221201-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/280/20221201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/280/20220101/fr"
 
 (Ordonnance sur la transplantation)
 
-du 16 mars 2007 (Etat le 1<sup>er</sup> janvier 2022)
+du 16 mars 2007 (État le 1<sup>er</sup> décembre 2022)
 
 Le Conseil fédéral suisse,
 
@@ -693,7 +693,7 @@ Il est tenu de déclarer à l’OFSP, au plus tard à la fin du mois d’avril, 
 
 Les organes, tissus ou cellules génétiquement modifiés doivent porter la mention «génétiquement modifiés».
 
-## Chapitre 5**** Essais cliniques
+## Chapitre 5 Essais cliniques
 
 [^chap5-1]
 
@@ -921,7 +921,7 @@ Les organes chargés de l’exécution de la législation prennent les mesures t
 
 [^49-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
 
-### Section 2*a***** Délégation de tâches à l’Institut suisse des produits thérapeutiques
+### Section 2*a* Délégation de tâches à l’Institut suisse des produits thérapeutiques
 
 [^chap8-sec2a-1]
 
@@ -937,7 +937,7 @@ Les organes chargés de l’exécution de la législation prennent les mesures t
 
 [^49a-1]: [[RO 2012 705](https://fedlex.data.admin.ch/eli/oc/2012/108). RO 2018 3719 art. 15]. Voir actuellement l’O du 14 septembre 2018 de l’Institut suisse des produits thérapeutiques sur ses émoluments ([RS 812.214.5](https://fedlex.data.admin.ch/eli/cc/2018/593)).
 
-### Section 2*b***** Registre du service chargé du suivi des donneurs vivants
+### Section 2*b* Registre du service chargé du suivi des donneurs vivants
 
 [^chap8-sec2b-1]
 
@@ -986,6 +986,20 @@ Pour accomplir les tâches qui leur incombent, les services suivants enregistren
 
 <sup>2</sup> Le service chargé du suivi des donneurs vivants enregistre les données relatives au don de cellules souches hématopoïétiques provenant de donneurs vivants.
 
+<sup>3</sup>
+
+En outre:
+
+- a. les donneurs de cellules souches hématopoïétiques peuvent enregistrer leurs propres données pour le suivi de leur état de santé;
+- b.
+
+  les centres de prélèvement peuvent:
+
+  - 1\. enregistrer les données visées à l’annexe 2, ch. 1.2, let. a à f, h et j, et ch. 2.2, let. a et c, et
+  - 2\. compléter les données enregistrées par les donneurs de cellules souches hématopoïétiques pour le suivi de leur état de santé avec les données des contrôles médicaux.[^49d-1]
+
+[^49d-1]: Introduit par l’annexe 6 ch. II 3 de l’O du 23 sept. 2022 sur l’analyse génétique humaine, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 585](https://fedlex.data.admin.ch/eli/oc/2022/585)).
+
 #### Art. 49e
 
 **Consultation des données**
@@ -1011,7 +1025,20 @@ Pour accomplir les tâches qui leur incombent, les services suivants peuvent con
   - 1\. les données anonymisées de tous les donneurs,
   - 2\. les évaluations et les statistiques.
 
-<sup>2</sup> Seul le service chargé du suivi des donneurs vivants peut consulter les données relatives aux dons de cellules souches hématopoïétiques provenant de donneurs vivants.
+<sup>2</sup>
+
+Pour accomplir les tâches qui leur incombent, les services suivants peuvent consulter en ligne les données du registre ci-après relatives aux dons de cellules souches hématopoïétiques faits par des donneurs vivants:
+
+- a.
+
+  les centres de prélèvement:
+
+  - 1\. les données concernant les donneurs qu’ils ont eux-mêmes enregistrées,
+  - 2\. les données enregistrées par les donneurs de cellules souches hématopoïétiques pour le suivi de leur état de santé;
+
+- b. le service chargé du suivi des donneurs vivants: toutes les données.[^49e-1]
+
+[^49e-1]: Nouvelle teneur selon l’annexe 6 ch. II 3 de l’O du 23 sept. 2022 sur l’analyse génétique humaine, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 585](https://fedlex.data.admin.ch/eli/oc/2022/585)).
 
 #### Art. 49f
 
@@ -1042,7 +1069,20 @@ Les personnes ci-après ont accès en ligne aux données relatives aux dons d’
 - c. au sein de l’institution commune: les collaborateurs gérant le fonds chargé du suivi des donneurs vivants;
 - d. à l’OFSP: les collaborateurs de la section Transplantation et procréation médicalement assistée chargés de l’exécution.
 
-<sup>2</sup> Au sein du service chargé du suivi des donneurs vivants, ont accès aux données relatives aux dons de cellules souches hématopoïétiques: les collaborateurs chargés du suivi de donneurs et les collaborateurs du secteur Swiss Blood Stem Cells.
+<sup>2</sup>
+
+Les personnes ci-après ont accès en ligne aux données relatives aux dons de cellules souches hématopoïétiques faits par des donneurs vivants saisies dans le registre:
+
+- a. au sein du service chargé du suivi des donneurs vivants: les collaborateurs chargés du suivi des donneurs du secteur Swiss Blood Stem Cells;
+- b.
+
+  dans les centres de prélèvement:
+
+  - 1\. les personnes en charge de la coordination locale,
+  - 2\. les médecins en charge des prélèvements de cellules souches hématopoïétiques et du suivi,
+  - 3\. les personnes chargées de communiquer les données relatives aux dons de cellules souches hématopoïétiques faits par des donneurs vivants.[^49f-1]
+
+[^49f-1]: Nouvelle teneur selon l’annexe 6 ch. II 3 de l’O du 23 sept. 2022 sur l’analyse génétique humaine, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 585](https://fedlex.data.admin.ch/eli/oc/2022/585)).
 
 #### Art. 49g
 
@@ -1167,7 +1207,7 @@ Elles présentent en même temps à ce fonds un décompte indiquant les moyens f
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> juillet 2007.
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 (art. 7 et 8*a*)
 
@@ -1179,7 +1219,7 @@ Ch. II. 3. et ch. III. C.-H. des directives médico-éthiques de l’Académie S
 
 [^annex1-lvlu1-1]: Ce texte peut être consulté gratuitement auprès de l’OFSP, division Biomédecine, 3003 Berne. Il peut aussi être obtenu auprès de l’Académie Suisse des Sciences Médicales, Laupenstrasse 7, 3001 Berne, ou à l’adresse Internet www.samw.ch &gt; Publications &gt; Directives.
 
-Annexe 2*[^t-2]*
+Annexe 2[^t-2]
 
 (art. 10*a*, al. 1, let. a, 15*b*, al. 1 à 3 et 6, 15*c*)
 
@@ -1249,7 +1289,7 @@ Pour ce qui est de l’assurance, les données suivantes doivent être communiqu
 - b. si l’assurance-accidents est compétente: le nom de l’assureur-accidents, le numéro de sinistre et le nom de l’employeur;
 - c. si l’assurance-invalidité est compétente: le numéro AVS.
 
-Annexe 3*[^t-3]*
+Annexe 3[^t-3]
 
 (art. 12*a*, al. 1, et 12*f*, al. 3)
 
@@ -1262,11 +1302,11 @@ En vertu de l’art. 15*a*, al. 4, de la loi sur la transplantation, les assureu
 - a. 9700 francs pour un don d’organes;
 - b. 2150 francs pour un don de cellules souches hématopoïétiques.
 
-Annexe 4*[^t-4]*
+Annexe 4[^t-4]
 
 [^t-4]: Abrogée par ch. II al. 2 de l’O du 18 oct. 2017, avec effet au 15 nov. 2017 ([RO 2017 5631](https://fedlex.data.admin.ch/eli/oc/2017/608)).
 
-Annexe 5*[^t-5]*
+Annexe 5[^t-5]
 
 (art. 14, al. 3, et 23, al. 2)
 

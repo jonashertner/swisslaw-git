@@ -3,11 +3,11 @@ sr: "810.211"
 title: "Ordinanza del 16 marzo 2007 concernente il trapianto di organi, tessuti e cellule umani (Ordinanza sui trapianti)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/280"
 language: it
-version: 2022-01-01
+version: 2022-12-01
 adopted: 2007-03-16
 in_force: 2007-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/280/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2007-280-20220101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/280/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/280/20221201/it/xml/fedlex-data-admin-ch-eli-cc-2007-280-20221201-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/280/20221201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/280/20220101/it"
 
 (Ordinanza sui trapianti)
 
-del 16 marzo 2007 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
+del 16 marzo 2007 (Stato 1° dicembre 2022) (Stato 1° dicembre 2022)
 
 Il Consiglio federale svizzero,
 
@@ -694,7 +694,7 @@ Egli notifica annualmente all’UFSP, entro la fine di aprile, i seguenti dati p
 
 Gli organi, i tessuti o le cellule che sono stati geneticamente modificati devono essere contrassegnati in quanto tali con i termini «geneticamente modificati».
 
-## Capitolo 5:**** Sperimentazioni cliniche
+## Capitolo 5: Sperimentazioni cliniche
 
 [^chap5-1]
 
@@ -922,7 +922,7 @@ I servizi incaricati dell’esecuzione prendono le misure organizzative e tecnic
 
 [^49-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
 
-### Sezione 2*a*:**** Delega di compiti all’Istituto svizzero per gli agenti terapeutici
+### Sezione 2*a*: Delega di compiti all’Istituto svizzero per gli agenti terapeutici
 
 [^chap8-sec2a-1]
 
@@ -938,7 +938,7 @@ I servizi incaricati dell’esecuzione prendono le misure organizzative e tecnic
 
 [^49a-1]: [RS 812.214.5](https://fedlex.data.admin.ch/eli/cc/2018/593)
 
-### Sezione 2*b*:**** Registro del servizio dei controlli postdonazione dei donatori viventi
+### Sezione 2*b*: Registro del servizio dei controlli postdonazione dei donatori viventi
 
 [^chap8-sec2b-1]
 
@@ -987,6 +987,20 @@ Per adempiere i loro compiti, i servizi qui appresso inseriscono online nel regi
 
 <sup>2</sup> Il servizio dei controlli postdonazione inserisce nel registro i dati sulla donazione di cellule staminali del sangue da parte di persone viventi.
 
+<sup>3</sup>
+
+In aggiunta:
+
+- a. i donatori di cellule staminali del sangue possono inserire nel registro i propri dati per il controllo postoperatorio del proprio stato di salute;
+- b.
+
+  i centri di prelievo possono:
+
+  - 1\. inserire nel registro i dati di cui all’allegato 2 numero 1.2 lettere a–f, h e j e numero 2.2 lettere a e c,
+  - 2\. integrare con i dati del controllo medico i dati registrati dai donatori di cellule staminali del sangue per il controllo postoperatorio del proprio stato di salute.[^49d-1]
+
+[^49d-1]: Introdotto dall’all. 6 n. II 3 dell’O del 23 set. 2022 concernente gli esami genetici sull’essere umano, in vigore dal 1° dic. 2022 ([RU 2022 585](https://fedlex.data.admin.ch/eli/oc/2022/585)).
+
 #### Art. 49e
 
 **Consultazione dei dati**
@@ -1012,7 +1026,20 @@ Per adempiere i loro compiti, i servizi qui appresso possono consultare online n
   - 1\. i dati anonimizzati di tutti i donatori,
   - 2\. le analisi e statistiche.
 
-<sup>2</sup> Soltanto il servizio dei controlli postdonazione può consultare i dati sulla donazione di cellule staminali del sangue da parte di persone viventi.
+<sup>2</sup>
+
+Per adempiere i loro compiti, i servizi qui appresso possono consultare online nel registro i seguenti dati sulla donazione di cellule staminali del sangue da parte di persone viventi:
+
+- a.
+
+  i centri di prelievo:
+
+  - 1\. i dati di donatori da loro inseriti nel registro,
+  - 2\. i dati registrati dai donatori di cellule staminali del sangue per il controllo postoperatorio del proprio stato di salute;
+
+- b. il servizio dei controlli postdonazione: tutti i dati.[^49e-1]
+
+[^49e-1]: Nuovo testo giusta l’all. 6 n. II 3 dell’O del 23 set. 2022 concernente gli esami genetici sull’essere umano, in vigore dal 1° dic. 2022 ([RU 2022 585](https://fedlex.data.admin.ch/eli/oc/2022/585)).
 
 #### Art. 49f
 
@@ -1043,7 +1070,20 @@ Hanno accesso online ai dati contenuti nel registro relativi alla donazione di o
 - c. presso l’istituzione comune: i collaboratori che gestiscono il fondo per i controlli postdonazione;
 - d. presso l’UFSP: i collaboratori della Sezione trapianti e medicina della procreazione responsabili dell’esecuzione.
 
-<sup>2</sup> Hanno accesso ai dati sulla donazione di cellule staminali del sangue da parte di persone viventi presso il servizio dei controlli postdonazione: i collaboratori del settore Swiss Blood Stem Cells responsabili dei controlli postdonazione.
+<sup>2</sup>
+
+Hanno accesso online ai dati contenuti nel registro relativi alla donazione di cellule staminali del sangue da parte di persone viventi:
+
+- a. presso il servizio dei controlli postdonazione: i collaboratori della divisione Swiss Blood Stem Cells responsabili dei controlli postdonazione;
+- b.
+
+  presso i centri di prelievo:
+
+  - 1\. le persone responsabili del coordinamento a livello locale,
+  - 2\. i medici responsabili del prelievo di cellule staminali del sangue e dei controlli postdonazione,
+  - 3\. le persone responsabili della notifica di dati sulla donazione di cellule staminali del sangue da parte di persone viventi.[^49f-1]
+
+[^49f-1]: Nuovo testo giusta l’all. 6 n. II 3 dell’O del 23 set. 2022 concernente gli esami genetici sull’essere umano, in vigore dal 1° dic. 2022 ([RU 2022 585](https://fedlex.data.admin.ch/eli/oc/2022/585)).
 
 #### Art. 49g
 
@@ -1120,7 +1160,7 @@ La notifica ha luogo in forma pseudonimizzata e include segnatamente:
 
 L’ordinanza del 26 giugno 1996[^54-1] concernente il controllo degli espianti è abrogata.
 
-[^54-1]: [[RU 1996 2309](https://fedlex.data.admin.ch/eli/oc/1996/2309_2309_2309), [1999 1403](https://fedlex.data.admin.ch/eli/oc/1999/204), [2001 1508](https://fedlex.data.admin.ch/eli/oc/2001/221)[3294](https://fedlex.data.admin.ch/eli/oc/2001/490)n. II 10, [2002 82](https://fedlex.data.admin.ch/eli/oc/2002/17)]
+[^54-1]: [[RU 1996 2309](https://fedlex.data.admin.ch/eli/oc/1996/2309_2309_2309); [1999 1403](https://fedlex.data.admin.ch/eli/oc/1999/204); [2001 1508](https://fedlex.data.admin.ch/eli/oc/2001/221), [3294](https://fedlex.data.admin.ch/eli/oc/2001/490)n. II 10; [2002 82](https://fedlex.data.admin.ch/eli/oc/2002/17)]
 
 #### Art. 55
 
@@ -1168,7 +1208,7 @@ Esse presentano nel contempo al fondo per i controlli postdonazione un conteggio
 
 La presente ordinanza entra in vigore il 1° luglio 2007.
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 (art. 7 e 8*a*)
 
@@ -1180,7 +1220,7 @@ Numero II. 3. nonché numero III. C–H delle Direttive medico-etiche dell’Acc
 
 [^annex1-lvlu1-1]: Il testo delle Direttive può essere consultato gratuitamente presso l’UFSP, Divisione biomedicina, 3003 Berna. Può inoltre essere ottenuto presso l’Accademia svizzera delle scienze mediche, Laupenstrasse 7, 3001 Berna o all’indirizzo www.samw.ch &gt; Pubblicazioni &gt; Direttive.
 
-Allegato 2*[^t-2]*
+Allegato 2[^t-2]
 
 (art. 10*a* cpv. 1 lett. a, 15*b* cpv. 1–3 e 6, 15*c*)
 
@@ -1250,7 +1290,7 @@ All’istituzione comune devono essere notificati i seguenti dati concernenti gl
 - b. se la competenza è dell’assicurazione contro gli infortuni: il nome dell’assicuratore-infortuni, il numero del danno e il datore di lavoro;
 - c. se la competenza è dell’assicurazione per l’invalidità: il numero AVS sull’assicurazione per la vecchiaia e per i superstiti.
 
-Allegato 3*[^t-3]*
+Allegato 3[^t-3]
 
 (art. 12*a* cpv. 1 e 12*f* cpv. 3)
 
@@ -1263,11 +1303,11 @@ Gli importi forfettari di cui all’articolo 15*a* capoverso 2 della legge sui t
 - a. per gli organi: 9700 franchi;
 - b. per le cellule staminali del sangue: 2150 franchi.
 
-Allegato 4*[^t-4]*
+Allegato 4[^t-4]
 
 [^t-4]: Abrogato dal n. II cpv. 2 dell’O del 18 ott. 2017, con effetto dal 15 nov. 2017 ([RU 2017 5631](https://fedlex.data.admin.ch/eli/oc/2017/608)).
 
-Allegato 5*[^t-5]*
+Allegato 5[^t-5]
 
 (art. 23 cpv. 2)
 

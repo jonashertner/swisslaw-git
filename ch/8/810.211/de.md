@@ -3,11 +3,11 @@ sr: "810.211"
 title: "Verordnung vom 16. März 2007 über die Transplantation von menschlichen Organen, Geweben und Zellen (Transplantationsverordnung)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/280"
 language: de
-version: 2022-01-01
+version: 2022-12-01
 adopted: 2007-03-16
 in_force: 2007-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/280/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2007-280-20220101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/280/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/280/20221201/de/xml/fedlex-data-admin-ch-eli-cc-2007-280-20221201-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/280/20221201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/280/20220101/de"
 
 (Transplantationsverordnung)
 
-vom 16. März 2007 (Stand am 1. Januar 2022)
+vom 16. März 2007 (Stand am 1. Dezember 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -396,7 +396,7 @@ Der Stand von Wissenschaft und Technik ergibt sich insbesondere aus:
 
 [^14-1]: Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 15. Nov. 2017 ([AS 2017 5631](https://fedlex.data.admin.ch/eli/oc/2017/608)).
 
-### 2. Abschnitt: Meldepflichten****
+### 2. Abschnitt: Meldepflichten
 
 [^chap4-sec2-1]
 
@@ -696,7 +696,7 @@ Sie oder er muss dem BAG für das vergangene Kalenderjahr jeweils bis Ende April
 
 Organe, Gewebe oder Zellen, die gentechnisch verändert wurden, müssen mit den Worten «gentechnisch verändert» oder «genetisch verändert» gekennzeichnet werden.
 
-## 5. Kapitel:**** Klinische Versuche
+## 5. Kapitel: Klinische Versuche
 
 [^chap5-1]
 
@@ -924,7 +924,7 @@ Die mit dem Vollzug beauftragten Stellen treffen die nach den datenschutzrechtli
 
 [^49-1]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
 
-### 2*a**.* Abschnitt:**** Übertragung von Aufgaben an das Schweizerische Heilmittelinstitut
+### 2*a**.* Abschnitt: Übertragung von Aufgaben an das Schweizerische Heilmittelinstitut
 
 [^chap8-sec2a-1]
 
@@ -940,7 +940,7 @@ Die mit dem Vollzug beauftragten Stellen treffen die nach den datenschutzrechtli
 
 [^49a-1]: [SR 812.214.5](https://fedlex.data.admin.ch/eli/cc/2018/593)
 
-### 2*b*. Abschnitt:**** Register der Lebendspende-Nachsorgestelle
+### 2*b*. Abschnitt: Register der Lebendspende-Nachsorgestelle
 
 [^chap8-sec2b-1]
 
@@ -989,6 +989,20 @@ Die folgenden Stellen tragen zur Erfüllung ihrer Aufgaben die nachstehenden Dat
 
 <sup>2</sup> Die Lebendspende-Nachsorgestelle trägt die Daten zur Lebendspende von Blut-Stammzellen im Register ein.
 
+<sup>3</sup>
+
+Zusätzlich können:
+
+- a. Spenderinnen und Spender von Blut-Stammzellen ihre eigenen Daten zur Nachverfolgung ihres Gesundheitszustands im Register eintragen;
+- b.
+
+  Entnahmezentren:
+
+  - 1\. die Daten nach Anhang 2 Ziffer 1.2 Buchstaben a–f, h und j sowie Ziffer 2.2 Buchstaben a und c eintragen,
+  - 2\. die von den Spenderinnen und Spendern von Blut-Stammzellen zur Nachverfolgung ihres Gesundheitszustands erfassten Daten mit den Daten der medizinischen Kontrolle ergänzen.[^49d-1]
+
+[^49d-1]: Eingefügt durch Anhang 6 Ziff. II 3 der V vom 23. Sept. 2022 über genetische Untersuchungen beim Menschen, in Kraft seit 1. Dez. 2022 ([AS 2022 585](https://fedlex.data.admin.ch/eli/oc/2022/585)).
+
 #### Art. 49e
 
 **Einsicht in Daten**
@@ -1014,7 +1028,20 @@ Die folgenden Stellen können zur Erfüllung ihrer Aufgaben die nachstehenden Da
   - 1\. die anonymisierten Daten aller Spenderinnen und Spender,
   - 2\. die Auswertungen und Statistiken.
 
-<sup>2</sup> Nur die Lebendspende-Nachsorgestelle hat Einsicht in die Daten zur Lebendspende von Blut-Stammzellen.
+<sup>2</sup>
+
+Die folgenden Stellen können zur Erfüllung ihrer Aufgaben die nachstehenden Daten zur Lebendspende von Blut-Stammzellen online im Register einsehen:
+
+- a.
+
+  die Entnahmezentren:
+
+  - 1\. die Daten von Spenderinnen und Spendern, die sie selber in das Register eingetragen haben,
+  - 2\. die von den Spenderinnen und Spendern von Blut-Stammzellen zur Nachverfolgung ihres Gesundheitszustands erfassten Daten;
+
+- b. die Lebendspende-Nachsorgestelle: alle Daten.[^49e-1]
+
+[^49e-1]: Fassung gemäss Anhang 6 Ziff. II 3 der V vom 23. Sept. 2022 über genetische Untersuchungen beim Menschen, in Kraft seit 1. Dez. 2022 ([AS 2022 585](https://fedlex.data.admin.ch/eli/oc/2022/585)).
 
 #### Art. 49f
 
@@ -1045,7 +1072,20 @@ Online-Zugriff auf die im Register erfassten Daten zur Lebendspende von Organen 
 - c. bei der gemeinsamen Einrichtung: die Mitarbeiterinnen und Mitarbeiter, die den Lebendspende-Nachsorgefonds führen;
 - d. im BAG: die für den Vollzug zuständigen Mitarbeiterinnen und Mitarbeiter der Sektion Transplantation und Fortpflanzungsmedizin.
 
-<sup>2</sup> Zugriff auf die Daten zur Lebendspende von Blut-Stammzellen haben bei der Lebendspende-Nachsorgestelle: die für die Nachsorge zuständigen Mitarbeiterinnen und Mitarbeiter der Abteilung Swiss Blood Stem Cells.
+<sup>2</sup>
+
+Online-Zugriff auf die im Register erfassten Daten zur Lebendspende von Blut-Stammzellen haben:
+
+- a. bei der Lebendspende-Nachsorgestelle: die für die Nachsorge zuständigen Mitarbeiterinnen und Mitarbeiter der Abteilung Swiss Blood Stem Cells;
+- b.
+
+  in den Entnahmezentren:
+
+  - 1\. die für die lokale Koordination zuständigen Personen,
+  - 2\. die für die Blut-Stammzellentnahme und die Nachsorge zuständigen Ärztinnen und Ärzte,
+  - 3\. die für die Meldung von Daten über die Lebendspende von Blut-Stammzellen zuständigen Personen.[^49f-1]
+
+[^49f-1]: Fassung gemäss Anhang 6 Ziff. II 3 der V vom 23. Sept. 2022 über genetische Untersuchungen beim Menschen, in Kraft seit 1. Dez. 2022 ([AS 2022 585](https://fedlex.data.admin.ch/eli/oc/2022/585)).
 
 #### Art. 49g
 
@@ -1122,7 +1162,7 @@ Die Meldung erfolgt in pseudonymisierter Form und umfasst namentlich:
 
 Die Verordnung vom 26. Juni 1996[^54-1] über die Kontrolle von Transplantaten wird aufgehoben.
 
-[^54-1]: [[AS 1996 2309](https://fedlex.data.admin.ch/eli/oc/1996/2309_2309_2309), [1999 1403](https://fedlex.data.admin.ch/eli/oc/1999/204), [2001 1508](https://fedlex.data.admin.ch/eli/oc/2001/221)[3294](https://fedlex.data.admin.ch/eli/oc/2001/490)Ziff. II 10, [2002 82](https://fedlex.data.admin.ch/eli/oc/2002/17)]
+[^54-1]: [[AS 1996 2309](https://fedlex.data.admin.ch/eli/oc/1996/2309_2309_2309); [1999 1403](https://fedlex.data.admin.ch/eli/oc/1999/204); [2001 1508](https://fedlex.data.admin.ch/eli/oc/2001/221), [3294](https://fedlex.data.admin.ch/eli/oc/2001/490)Ziff. II 10; [2002 82](https://fedlex.data.admin.ch/eli/oc/2002/17)]
 
 #### Art. 55
 
@@ -1170,7 +1210,7 @@ Sie legen dem Lebendspende-Nachsorgefonds gleichzeitig eine Abrechnung über die
 
 Diese Verordnung tritt am 1. Juli 2007 in Kraft.
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 7 und 8*a*)
 
@@ -1182,7 +1222,7 @@ Ziffer II. 3. sowie Ziffer III. C–H der Medizinisch-ethischen Richtlinien der 
 
 [^annex1-lvlu1-1]: Der Text der Richtlinien kann beim BAG, Abteilung Biomedizin, 3003 Bern, kostenlos eingesehen werden. Er kann zudem bezogen werden bei der Schweizerischen Akademie der Medizinischen Wissenschaften, Laupenstrasse 7, 3001 Bern, oder unter www.samw.ch &gt; Publikationen &gt; Richtlinien.
 
-Anhang 2*[^t-2]*
+Anhang 2[^t-2]
 
 (Art. 10*a* Abs. 1 Bst. a, 15*b* Abs. 1–3 und 6, 15*c*)
 
@@ -1252,7 +1292,7 @@ Der gemeinsamen Einrichtung müssen folgende Angaben zur Versicherung gemeldet w
 - b. bei Zuständigkeit der Unfallversicherung: Name des Unfallversicherers, Schadennummer und Arbeitgeber;
 - c. bei Zuständigkeit der Invalidenversicherung: AHV-Nummer.
 
-Anhang 3*[^t-3]*
+Anhang 3[^t-3]
 
 (Art. 12*a* Abs. 1 und 12*f* Abs. 3)
 
@@ -1266,11 +1306,11 @@ Die Pauschale nach Artikel 15*a* Absatz 2 des Transplantationsgesetzes für die 
 - b. für Blut-Stammzellen: 2150 Franken.
 - [tab]
 
-Anhang 4*[^t-4]*
+Anhang 4[^t-4]
 
 [^t-4]: Aufgehoben durch Ziff. II Abs. 2 der V vom 18. Okt. 2017, mit Wirkung seit 15. Nov. 2017 ([AS 2017 5631](https://fedlex.data.admin.ch/eli/oc/2017/608)).
 
-Anhang 5*[^t-5]*
+Anhang 5[^t-5]
 
 (Art. 23 Abs. 2)
 
