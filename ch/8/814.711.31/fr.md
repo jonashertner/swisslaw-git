@@ -3,18 +3,18 @@ sr: "814.711.31"
 title: Ordonnance du DFI du 26 juin 2020 sur les validations de compétences et les attestations de compétences requises pour les manifestations avec rayonnement laser
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/501"
 language: fr
-version: 2020-08-01
+version: 2022-12-01
 adopted: 2020-06-26
 in_force: 2020-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/501/20200801/fr/xml/fedlex-data-admin-ch-eli-cc-2020-501-20200801-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/501/20200801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/501/20221201/fr/xml/fedlex-data-admin-ch-eli-cc-2020-501-20221201-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/501/20221201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du DFI sur les validations de compétences et les attestations de compétences requises pour les manifestations avec rayonnement laser
 
-du 26 juin 2020 (Etat le 1<sup>er</sup> août 2020)
+du 26 juin 2020 (État le 1<sup>er</sup> décembre 2022)
 
 Le Département fédéral de l’intérieur (DFI),
 
@@ -66,18 +66,20 @@ L’OFSP vérifie tous les cinq ans au moins que les documents de formation et d
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> août 2020.
 
-Annexe
+Annexe[^t-1]
 
 (art. 1)
 
 ## Validation de compétences et attestation de compétences
 
+[^t-1]: Mise à jour par le ch. I de l’O du DFI du 19 oct. 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 594](https://fedlex.data.admin.ch/eli/oc/2022/594)).
+
 - 1\. La validation de compétences prévue à l’art. 16, al. 1, let. a, O-LRNIS (VC) et l’attestation de compétences prévue à l’art. 16, al. 1, let. b, O-LRNIS (AC) autorisent leurs titulaires à utiliser des installations laser des classes 1M, 2M, 3R, 3B et 4 lors de manifestations avec rayonnement laser:
 
 <table>
-<tr><td>Désignation</td><td>Organismes d’responsables de l’examen habilités à délivrer le titre de qualification</td></tr>
-<tr><td>VC pour les manifestations sans rayonnement laser dans la zone réservée au public</td><td>– Technische Berufsschule Zürich; Ausstellungsstrasse 70, 8090 Zurich – Laserworld Switzerland SA; Kreuzlingerstrasse 5, 8574 Lengwil</td></tr>
-<tr><td>AC pour les manifestations avec rayonnement laser dans la zone réservée au public</td><td>– Technische Berufsschule Zürich; Ausstellungsstrasse 70, 8090 Zurich – Laserworld Switzerland SA; Kreuzlingerstrasse 5, 8574 Lengwil</td></tr>
+<tr><td>Désignation</td><td>Organismes responsables de l’examen habilités à délivrer le titre de qualification</td></tr>
+<tr><td>VC pour les manifestations sans rayonnement laser dans la zone réservée au public</td><td>– LASERwerk Laser- und Projektionstechnik, Fellenbergstrasse 14, 3012 Berne – Laserworld Switzerland AG, Kreuzlingerstrasse 5, 8574 Lengwil</td></tr>
+<tr><td>AC pour les manifestations avec rayonnement laser dans la zone réservée au public</td><td>– Laserworld Switzerland AG, Kreuzlingerstrasse 5, 8574 Lengwil</td></tr>
 </table>
 
 - 2\.

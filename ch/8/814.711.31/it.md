@@ -3,18 +3,18 @@ sr: "814.711.31"
 title: "Ordinanza del DFI del 26 giugno 2020 sulle conferme di competenza e gli attestati di competenza per le manifestazioni che prevedono l'impiego di radiazione laser"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/501"
 language: it
-version: 2020-08-01
+version: 2022-12-01
 adopted: 2020-06-26
 in_force: 2020-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/501/20200801/it/xml/fedlex-data-admin-ch-eli-cc-2020-501-20200801-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/501/20200801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/501/20221201/it/xml/fedlex-data-admin-ch-eli-cc-2020-501-20221201-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/501/20221201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza del DFI sulle conferme di competenza e gli attestati di competenza per le manifestazioni che prevedono l’impiego di radiazione laser
 
-del 26 giugno 2020 (Stato 1° agosto 2020)
+del 26 giugno 2020 (Stato 1° dicembre 2022) (Stato 1° dicembre 2022)
 
 Il Dipartimento federale dell’interno (DFI),
 
@@ -66,18 +66,20 @@ L’UFSP verifica almeno ogni cinque anni se i documenti relativi alla formazion
 
 La presente ordinanza entra in vigore il 1° agosto 2020.
 
-Allegato
+Allegato[^t-1]
 
 (art. 1)
 
 ## Conferme di competenza e attestati di competenza
 
+[^t-1]: Aggiornato dal n. I dell’O del DFI del 19 ott. 2022, in vigore dal 1° dic. 2022 ([RU 2022 594](https://fedlex.data.admin.ch/eli/oc/2022/594)).
+
 - 1\. Le conferme di competenza secondo l’articolo 16 capoverso 1 lettera a O-LRNIS (CC) e gli attestati di competenza secondo l’articolo 16 capoverso 1 lettera b O-LRNIS (AC) menzionati qui di seguito autorizzano a utilizzare apparecchi laser delle classi 1M, 2M, 3R, 3B e 4 durante manifestazioni che prevedono l’impiego di radiazione laser:
 
 <table>
 <tr><td>Denominazione</td><td>Organi d’esame preposti al rilascio di CC e AC</td></tr>
-<tr><td>CC per le manifestazioni in cui la radiazione laser non raggiunge il settore destinato al pubblico</td><td>– Technische Berufsschule Zürich; Ausstellungsstrasse 70, 8090 Zurigo – Laserworld Switzerland AG; Kreuzlingerstrasse 5, 8574 Lengwil</td></tr>
-<tr><td>AC per le manifestazioni in cui la radiazione laser raggiunge il settore destinato al pubblico</td><td>– Technische Berufsschule Zürich; Ausstellungsstrasse 70, 8090 Zurigo – Laserworld Switzerland AG; Kreuzlingerstrasse 5, 8574 Lengwil</td></tr>
+<tr><td>CC per le manifestazioni in cui la radiazione laser non raggiunge il settore destinato al pubblico</td><td>– LASERwerk Laser- und Projektionstechnik, Fellenbergstrasse 14, 3012 Berna – Laserworld Switzerland AG, Kreuzlingerstrasse 5, 8574 Lengwil</td></tr>
+<tr><td>AC per le manifestazioni in cui la radiazione laser raggiunge il settore destinato al pubblico</td><td>– Laserworld Switzerland AG, Kreuzlingerstrasse 5, 8574 Lengwil</td></tr>
 </table>
 
 - 2\.

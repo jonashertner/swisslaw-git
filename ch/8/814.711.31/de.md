@@ -3,18 +3,18 @@ sr: "814.711.31"
 title: Verordnung des EDI vom 26. Juni 2020 über die Sachkundebestätigungen und Sachkundenachweise für Veranstaltungen mit Laserstrahlung
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/501"
 language: de
-version: 2020-08-01
+version: 2022-12-01
 adopted: 2020-06-26
 in_force: 2020-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/501/20200801/de/xml/fedlex-data-admin-ch-eli-cc-2020-501-20200801-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/501/20200801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/501/20221201/de/xml/fedlex-data-admin-ch-eli-cc-2020-501-20221201-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/501/20221201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des EDI über die Sachkundebestätigungen und Sachkundenachweise für Veranstaltungen mit Laserstrahlung
 
-vom 26. Juni 2020 (Stand am 1. August 2020)
+vom 26. Juni 2020 (Stand am 1. Dezember 2022)
 
 Das Eidgenössische Departement des Innern (EDI),
 
@@ -66,18 +66,20 @@ Das BAG überprüft mindestens alle fünf Jahre, ob die Ausbildungs- und Prüfun
 
 Diese Verordnung tritt am 1. August 2020 in Kraft.
 
-Anhang
+Anhang[^t-1]
 
 (Art. 1)
 
 ## Sachkundebestätigungen und Sachkundenachweise
 
+[^t-1]: Bereinigt gemäss Ziff. I der V des EDI vom 19. Okt. 2022, in Kraft seit 1. Dez. 2022 ([AS 2022 594](https://fedlex.data.admin.ch/eli/oc/2022/594)).
+
 - 1\. Die nachstehenden Sachkundebestätigungen nach Artikel 16 Absatz 1 Buchstabe a V-NISSG (SB) und Sachkundenachweise nach Artikel 16 Absatz 1 Buchstabe b V-NISSG (SN) berechtigen an Veranstaltungen mit Laserstrahlung zum Betrieb von Lasereinrichtungen der Klassen 1M, 2M, 3R, 3B und 4:
 
 <table>
 <tr><td>Bezeichnung</td><td>Ausstellende Prüfungsstellen</td></tr>
-<tr><td>SB für Veranstaltungen ohne Laserstrahlung im Publikumsbereich</td><td>– Technische Berufsschule Zürich, Ausstellungsstrasse 70, 8090 Zürich – Laserworld Switzerland AG, Kreuzlingerstrasse 5, 8574 Lengwil</td></tr>
-<tr><td>SN für Veranstaltungen mit Laserstrahlung im Publikumsbereich</td><td>– Technische Berufsschule Zürich, Ausstellungsstrasse 70, 8090 Zürich – Laserworld Switzerland AG, Kreuzlingerstrasse 5, 8574 Lengwil</td></tr>
+<tr><td>SB für Veranstaltungen ohne Laserstrahlung im Publikumsbereich</td><td>– LASERwerk Laser- und Projektionstechnik, Fellenbergstrasse 14, 3012 Bern – Laserworld Switzerland AG, Kreuzlingerstrasse 5, 8574 Lengwil</td></tr>
+<tr><td>SN für Veranstaltungen mit Laserstrahlung im Publikumsbereich</td><td>– Laserworld Switzerland AG, Kreuzlingerstrasse 5, 8574 Lengwil</td></tr>
 </table>
 
 - 2\.
