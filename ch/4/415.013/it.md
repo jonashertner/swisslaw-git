@@ -4,11 +4,11 @@ title: "Ordinanza del 15 novembre 2017 sugli emolumenti dell'Ufficio federale de
 short: OEm UFSPO
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/732"
 language: it
-version: 2021-10-01
+version: 2022-12-01
 adopted: 2017-11-15
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/732/20211001/it/xml/fedlex-data-admin-ch-eli-cc-2017-732-20211001-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/732/20211001/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/732/20221201/it/xml/fedlex-data-admin-ch-eli-cc-2017-732-20221201-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/732/20221201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,24 +17,26 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/732/20211001/it"
 
 (OEm UFSPO)
 
-del 15 novembre 2017 (Stato 1° ottobre 2021)
+del 15 novembre 2017 (Stato 1° dicembre 2022)
 
 Il Consiglio federale svizzero,
 
-visto l’articolo 30 capoverso 1 della legge del 17 giugno 2011[^ingress-1] sulla promozione dello sport (LPSpo); visto l’articolo 46*a* della legge del 21 marzo 1997[^ingress-2] sull’organizzazione del Governo e dell’Amministrazione,
+visto l’articolo 46*a* della legge del 21 marzo 1997[^ingress-1] sull’organizzazione del Governo e dell’Amministrazione,[^ingress-2]
 
 ordina:
 
-[^ingress-1]: [RS 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)
-[^ingress-2]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^ingress-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^ingress-2]: Nuovo testo giusta il n. II dell’O del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
 
 #### Art. 1
 
 **Oggetto**
 
-<sup>1</sup> La presente ordinanza disciplina gli emolumenti per le prestazioni ufficiali dell’Ufficio federale dello sport (UFSPO). Essa non si applica alle prestazioni commerciali ai sensi dell’articolo 29 LPSpo.
+<sup>1</sup> La presente ordinanza disciplina gli emolumenti per le prestazioni ufficiali dell’Ufficio federale dello sport (UFSPO). Essa non si applica alle prestazioni commerciali ai sensi dell’articolo 29 della legge del 17 giugno 2011[^1-1] sulla promozione dello sport (LPSpo).
 
 <sup>2</sup> Per prestazioni ufficiali si intendono le prestazioni che l’UFSPO deve effettuare nel quadro del mandato legale per la promozione dello sport e dell’attività fisica.
+
+[^1-1]: [RS 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)
 
 #### Art. 2
 
@@ -53,7 +55,7 @@ Chi ottiene una prestazione o causa l’emanazione di una decisione deve pagare 
 - a. l’uso di impianti sportivi e di spazi infrastrutturali;
 - b. l’uso di apparecchiature, segnatamente attrezzi sportivi, veicoli a motore e infrastrutture sportive mobili;
 - c. i servizi riguardanti l’alloggio e la ristorazione;
-- d. la partecipazione a formazioni e perfezionamenti dell’UFSPO nei programmi «Gioventù+Sport» (G+S) e Sport per gli adulti (ESA), nonché in altri programmi del sostegno generale dello sport e dell’attività fisica;
+- d. la partecipazione a formazioni e formazioni continue dell’UFSPO nei programmi «Gioventù+Sport» (G+S) e Sport per gli adulti (ESA), nonché in altri programmi del sostegno generale dello sport e dell’attività fisica;
 - e. la decisione relativa alla revoca, alla sospensione e al riottenimento del riconoscimento di quadri in G+S ed ESA;
 - f. la redazione di perizie e resoconti;
 - g. le prestazioni nei campi della medicina, della psicologia, della fisioterapia e del massaggio sportivi;
@@ -69,9 +71,14 @@ Non sono riscossi emolumenti per:
 
 - a. decisioni concernenti la concessione di aiuti finanziari;
 - b. riconoscimenti dei quadri di G+S ed ESA;
-- c. la partecipazione a corsi e moduli di formazione e perfezionamento degli esperti G+S;
-- d. la partecipazione a corsi e moduli di formazione e perfezionamento dei coach G+S;
-- e. la consegna di materiale didattico ai coach G+S.
+- c. la partecipazione a corsi e moduli di formazione e formazione continua[^4-1] degli esperti G+S;
+- d. la partecipazione a corsi e moduli di formazione e formazione continua dei coach G+S;
+- e. la consegna di materiale didattico ai coach G+S;
+- f.[^4-2] decisioni concernenti le registrazioni approvate come organizzatore secondo l’articolo 10*a* dell’ordinanza del 23 maggio 2012[^4-3] sulla promozione dello sport.
+
+[^4-1]: Nuova espr. giusta il n. II dell’O del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^4-2]: Introdotta dall n. II dell’O del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
+[^4-3]: [RS 415.01](https://fedlex.data.admin.ch/eli/cc/2012/461)
 
 #### Art. 5
 
@@ -105,12 +112,14 @@ Per ottenere le prestazioni di cui all’articolo 3 lettere a–c, g ed h è nec
 
 L’UFSPO può ridurre o condonare gli emolumenti per la fornitura di prestazioni per le quali sussiste un interesse pubblico preponderante, nella misura in cui vengono fornite:
 
-- a. a persone od organizzazioni che ricevono aiuti finanziari ai sensi delle disposizioni della LPSpo;
+- a. a persone od organizzazioni che ricevono aiuti finanziari ai sensi delle disposizioni della LPSpo[^8-1];
 - b. per sostenere programmi e progetti secondo l’articolo 3 LPSpo o volti alla promozione di G+S.
 
 <sup>2</sup> Nei casi di cui al capoverso 1 lettera a l’UFSPO regola con le persone od organizzazioni interessate la riduzione o il condono degli emolumenti in un contratto di diritto pubblico.
 
 <sup>3</sup> Se le prestazioni prenotate non vengono ottenute per motivi scusabili, l’UFSPO può ridurre l’emolumento.
+
+[^8-1]: [RS 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)
 
 #### Art. 9
 
@@ -124,7 +133,7 @@ L’ordinanza del DDPS del 14 settembre 2012[^9-1] concernente gli emolumenti de
 
 **Modifica di un altro atto normativo**
 
-...*[^10-1]*
+...[^10-1]
 
 [^10-1]: La mod. può essere consultata alla [RU 2017 6601](https://fedlex.data.admin.ch/eli/oc/2017/732).
 
@@ -134,7 +143,7 @@ L’ordinanza del DDPS del 14 settembre 2012[^9-1] concernente gli emolumenti de
 
 La presente ordinanza entra in vigore il 1° gennaio 2018.
 
-Allegato*[^t-1]*
+Allegato[^t-1]
 
 (art. 6 cpv. 1)
 
@@ -158,15 +167,12 @@ Allegato*[^t-1]*
 <tr><td>Pranzo (in base all’offerta)</td><td>12–21</td><td colspan="3">a persona</td></tr>
 <tr><td>Cena (in base all’offerta)</td><td>10–21</td><td colspan="3">a persona</td></tr>
 <tr><td>Pranzo al sacco/merenda (in base all’offerta)</td><td>7–15</td><td colspan="3">a persona</td></tr>
-<tr><td>4. Formazione e perfezionamento</td><td></td><td colspan="3"></td></tr>
+<tr><td>4. Formazione e formazione continua</td><td></td><td colspan="3"></td></tr>
 <tr><td>Corsi e moduli della formazione dei quadri G+S ed ESA, forfait giornaliero per lezioni e trasporti nell’ambito di corsi e moduli (a seconda di dimensioni, tempo impiegato e importanza nel quadro del programma G+S)</td><td>max. 140</td><td colspan="3">per giorno di corso</td></tr>
-<tr><td>Documentazione G+S (manuale completo)</td><td>50</td><td colspan="3">a esemplare</td></tr>
-<tr><td>Documentazione G+S (solo documento di base)</td><td>15</td><td colspan="3">a esemplare</td></tr>
-<tr><td>Documentazione G+S (manuale senza documento di base)</td><td>35</td><td colspan="3">a esemplare</td></tr>
-<tr><td>Manuale G+S Sport di campo/Trekking, se ritirato presso le federazioni giovanili incaricate della formazione dei quadri</td><td>25</td><td colspan="3">a esemplare</td></tr>
-<tr><td>Manuale ESA</td><td>50</td><td colspan="3">a esemplare</td></tr>
+<tr><td>Documentazione didattica completa G+S per disciplina sportiva</td><td>50</td><td colspan="3">a esemplare (stampato o in forma elettronica)</td></tr>
+<tr><td>Documentazione didattica completa ESA</td><td>50</td><td colspan="3">a esemplare (stampato o in forma elettronica)</td></tr>
 <tr><td>Materiale G+S in prestito</td><td>0,60</td><td colspan="3">al chilo (lordo)</td></tr>
-<tr><td>Corsi e moduli della formazione degli allenatori (a seconda di dimensioni e tempo)</td><td>50–250</td><td colspan="3">per giorno di corso</td></tr>
+<tr><td>Corsi e moduli della formazione degli allenatori (a seconda di dimensioni e tempo)</td><td>50– 250</td><td colspan="3">per giorno di corso</td></tr>
 <tr><td>5. Diagnostica delle prestazioni</td><td></td><td colspan="3"></td></tr>
 <tr><td>Test della resistenza, in particolare test del lattato, accertamenti in altitudine, misurazione del VO<sub>2max</sub> e misurazione del volume sanguigno</td><td>120–400</td><td colspan="3">a persona/test</td></tr>
 <tr><td>Test della forza, in particolare delle prestazioni muscolari e della forza di base (a seconda delle prove)</td><td>80–240</td><td colspan="3">a persona/test</td></tr>
@@ -190,5 +196,5 @@ Allegato*[^t-1]*
 <tr><td colspan="3">\* Nel caso di installazioni fisse, nell’emolumento è compreso l’uso di impianti sportivi.</td><td>[tab]</td><td>[tab]</td></tr>
 </table>
 
-[^t-1]: Aggiornato dal n. II dell’O dell’11 ago. 2021, in vigore dal 1 ott. 2021 ([RU 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
+[^t-1]: Aggiornato dai n. II delle O dell’11 ago. 2021 ([RU 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)) e del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
 [^t-2]: [RS 172.041.11](https://fedlex.data.admin.ch/eli/cc/2014/711)

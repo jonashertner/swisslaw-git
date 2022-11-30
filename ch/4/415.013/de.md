@@ -4,11 +4,11 @@ title: Verordnung vom 15. November 2017 über die Gebühren des Bundesamts für 
 short: GebV-BASPO
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/732"
 language: de
-version: 2021-10-01
+version: 2022-12-01
 adopted: 2017-11-15
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/732/20211001/de/xml/fedlex-data-admin-ch-eli-cc-2017-732-20211001-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/732/20211001/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/732/20221201/de/xml/fedlex-data-admin-ch-eli-cc-2017-732-20221201-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/732/20221201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,24 +17,26 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/732/20211001/de"
 
 (GebV-BASPO)
 
-vom 15. November 2017 (Stand am 1. Oktober 2021)
+vom 15. November 2017 (Stand am 1. Dezember 2022)
 
 Der Schweizerische Bundesrat,
 
-gestützt auf Artikel 30 Absatz 1 des Sportförderungsgesetzes vom 17. Juni 2011[^ingress-1] (SpoFöG) und auf Artikel 46*a* des Regierungs- und Verwaltungsorganisationsgesetzes vom 21. März 1997[^ingress-2],
+gestützt auf Artikel 46*a* des Regierungs- und Verwaltungsorganisationsgesetzes vom 21. März 1997[^ingress-1],[^ingress-2]
 
 verordnet:
 
-[^ingress-1]: [SR 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)
-[^ingress-2]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^ingress-1]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^ingress-2]: Fassung gemäss Ziff. II der V vom 30. März 2022, in Kraft seit 1. Dez. 2022 ([AS 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
 
 #### Art. 1
 
 **Gegenstand**
 
-<sup>1</sup> Diese Verordnung regelt die Gebühren für die amtlichen Leistungen des Bundesamts für Sport (BASPO). Sie ist nicht anwendbar auf gewerbliche Leistungen nach Artikel 29 SpoFöG.
+<sup>1</sup> Diese Verordnung regelt die Gebühren für die amtlichen Leistungen des Bundesamts für Sport (BASPO). Sie ist nicht anwendbar auf gewerbliche Leistungen nach Artikel 29 des Sportförderungsgesetzes vom 17. Juni 2011[^1-1] (SpoFöG).
 
 <sup>2</sup> Als amtliche Leistungen gelten Leistungen, die das BASPO im Rahmen des gesetzlichen Auftrags zur Förderung von Sport und Bewegung zu erbringen hat.
+
+[^1-1]: [SR 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)
 
 #### Art. 2
 
@@ -71,7 +73,11 @@ Keine Gebühren werden erhoben für:
 - b. Anerkennungen von Kaderpersonen bei J+S und ESA;
 - c. die Teilnahme an Kursen und Modulen der J+S-Experten-Aus- und -Weiterbildung, die vom BASPO durchgeführt werden;
 - d. die Teilnahme an Kursen und Modulen der J+S-Coach-Aus- und -Weiterbildung;
-- e. die Abgabe von Lehrmaterial an J+S-Coaches.
+- e. die Abgabe von Lehrmaterial an J+S-Coaches;
+- f.[^4-1] Verfügungen über gutgeheissene Registrierungen als Organisator nach Artikel 10*a* Sportförderungsverordnung vom 23. Mai 2012[^4-2].
+
+[^4-1]: Eingefügt durch Ziff. II der V vom 30. März 2022, in Kraft seit 1. Dez. 2022 ([AS 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
+[^4-2]: [SR 415.01](https://fedlex.data.admin.ch/eli/cc/2012/461)
 
 #### Art. 5
 
@@ -105,10 +111,14 @@ Für die Beanspruchung von Dienstleistungen nach Artikel 3 Buchstaben a–c, g u
 
 Das BASPO kann die Gebühren für die Erbringung von Dienstleistungen, an denen ein erhebliches öffentliches Interesse besteht, herabsetzen oder erlassen, sofern sie erbracht werden:
 
-- a. für Personen und Organisationen, die nach den Bestimmungen des SpoFöG Finanzhilfen erhalten;
+- a. für Personen und Organisationen, die nach den Bestimmungen des SpoFöG[^8-1] Finanzhilfen erhalten;
 - b. zur Förderung von Programmen und Projekten nach Artikel 3 SpoFöG oder zur Promotion von J+S.
-- [tab] <sup>2</sup> In den Fällen nach Absatz 1 Buchstabe a regelt das BASPO mit den betroffenen Personen und Organisationen die Herabsetzung oder den Erlass der Gebühren in einem öffentlich-rechtlichen Vertrag.
-- [tab] <sup>3</sup> Werden reservierte Dienstleistungen aus entschuldbaren Gründen nicht beansprucht, so kann das BASPO die Gebühr herabsetzen.
+
+<sup>2</sup> In den Fällen nach Absatz 1 Buchstabe a regelt das BASPO mit den betroffenen Personen und Organisationen die Herabsetzung oder den Erlass der Gebühren in einem öffentlich-rechtlichen Vertrag.
+
+<sup>3</sup> Werden reservierte Dienstleistungen aus entschuldbaren Gründen nicht beansprucht, so kann das BASPO die Gebühr herabsetzen.
+
+[^8-1]: [SR 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)
 
 #### Art. 9
 
@@ -122,7 +132,7 @@ Die Verordnung des VBS vom 14. September 2012[^9-1] über die Gebühren des Bund
 
 **Änderung eines anderen Erlasses**
 
-...[^10-1]
+…[^10-1]
 
 [^10-1]: Die Änderung kann unter [AS 2017 6601](https://fedlex.data.admin.ch/eli/oc/2017/732)konsultiert werden.
 
@@ -132,7 +142,7 @@ Die Verordnung des VBS vom 14. September 2012[^9-1] über die Gebühren des Bund
 
 Diese Verordnung tritt am 1. Januar 2018 in Kraft.
 
-Anhang*[^t-1]*
+Anhang[^t-1]
 
 (Art. 6 Abs. 1)
 
@@ -158,11 +168,8 @@ Anhang*[^t-1]*
 <tr><td>Lunchpaket/Zwischenverpflegung (je nach Angebot)</td><td>7–15</td><td colspan="3">je Person</td></tr>
 <tr><td>4. Aus- und Weiterbildung</td><td></td><td colspan="3"></td></tr>
 <tr><td>Kurse und Module der Kaderbildung J+S/ESA, Tagespauschale für Unterricht und Transporte innerhalb der Kurse und Module (je nach Umfang, Aufwand und Bedeutung im Programm J+S)</td><td>max. 140</td><td colspan="3">je Kurstag</td></tr>
-<tr><td>Lehrunterlagen J+S (komplettes Handbuch)</td><td>50</td><td colspan="3">je Exemplar</td></tr>
-<tr><td>Lehrunterlagen J+S (nur Grundlagendokument)</td><td>15</td><td colspan="3">je Exemplar</td></tr>
-<tr><td>Lehrunterlagen J+S (Handbuch ohne Grundlagendokument)</td><td>35</td><td colspan="3">je Exemplar</td></tr>
-<tr><td>J+S-Handbuch Lagersport/Trekking beim Bezug durch Jugendverbände, die mit der Kaderbildung beauftragt sind</td><td>25</td><td colspan="3">je Exemplar</td></tr>
-<tr><td>Handbuch ESA</td><td>50</td><td colspan="3">je Exemplar</td></tr>
+<tr><td>Komplette Lernunterlagen J+S je Sportart</td><td>50</td><td colspan="3">je Exemplar (gedruckt oder elektronisch)</td></tr>
+<tr><td>Komplette Lernunterlagen ESA</td><td>50</td><td colspan="3">je Exemplar (gedruckt oder elektronisch)</td></tr>
 <tr><td>Leihmaterial J+S</td><td>0,60</td><td colspan="3">je Kilogramm (brutto)</td></tr>
 <tr><td>Kurse und Module der Trainerbildung (je nach Umfang und Aufwand)</td><td>50–250</td><td colspan="3">je Kurstag</td></tr>
 <tr><td>5. Leistungsdiagnostik</td><td></td><td colspan="3"></td></tr>
@@ -188,5 +195,5 @@ Anhang*[^t-1]*
 <tr><td colspan="3">\* Bei festinstallierten Einrichtungen ist die Sportanlagenutzung in der Gebühr eingeschlossen.</td><td>[tab]</td><td>[tab]</td></tr>
 </table>
 
-[^t-1]: Bereinigt gemäss Ziff. II der V vom 11. Aug. 2021, in Kraft seit 1. Okt. 2021 ([AS 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
+[^t-1]: Bereinigt gemäss Ziff. II der V vom 30. März 2022, in Kraft seit 1. Dez. 2022 ([AS 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
 [^t-2]: [SR 172.041.11](https://fedlex.data.admin.ch/eli/cc/2014/711)

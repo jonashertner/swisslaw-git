@@ -4,11 +4,11 @@ title: "Ordonnance du 15 novembre 2017 sur les émoluments de l'Office fédéral
 short: OEmol-OFSPO
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/732"
 language: fr
-version: 2021-10-01
+version: 2022-12-01
 adopted: 2017-11-15
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/732/20211001/fr/xml/fedlex-data-admin-ch-eli-cc-2017-732-20211001-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/732/20211001/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/732/20221201/fr/xml/fedlex-data-admin-ch-eli-cc-2017-732-20221201-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/732/20221201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,24 +17,26 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/732/20211001/fr"
 
 (OEmol-OFSPO)
 
-du 15 novembre 2017 (Etat le 1<sup>er</sup> octobre 2021)
+du 15 novembre 2017 (Etat le 1<sup>er</sup> décembre 2022)
 
 Le Conseil fédéral suisse,
 
-vu l’art. 30, al. 1 de la loi du 17 juin 2011 sur l’encouragement du sport (LESp)[^ingress-1], vu l’art. 46*a* de la loi du 21 mars 1997 sur l’organisation du gouvernement et de l’administration[^ingress-2],
+vu l’art. 46*a* de la loi du 21 mars 1997 sur l’organisation du gouvernement et de l’administration[^ingress-1],[^ingress-2]
 
 arrête:
 
-[^ingress-1]: [RS 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)
-[^ingress-2]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^ingress-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^ingress-2]: Nouvelle teneur selon le ch. II de l’O du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
 
 #### Art. 1
 
 **Objet**
 
-<sup>1</sup> La présente ordonnance régit les émoluments requis pour les prestations officielles de l’Office fédéral du sport (OFSPO). Elle ne s’applique pas aux prestations commerciales visées à l’art. 29 LESp.
+<sup>1</sup> La présente ordonnance régit les émoluments requis pour les prestations officielles de l’Office fédéral du sport (OFSPO). Elle ne s’applique pas aux prestations commerciales visées à l’art. 29 de la loi du 17 juin 2011 sur l’encouragement du sport (LESp)[^1-1].
 
 <sup>2</sup> Sont considérées comme prestations officielles les prestations que l’OFSPO doit fournir dans le cadre de son mandat légal d’encouragement du sport et de l’activité physique.
+
+[^1-1]: [RS 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)
 
 #### Art. 2
 
@@ -71,7 +73,11 @@ Aucun émolument n’est perçu pour:
 - b. les reconnaissances de cadres J+S et ESA;
 - c. la participation à des cours et des modules de la formation de base et de la formation continue des experts J+S réalisés par l’OFSPO;
 - d. la participation à des cours et des modules de la formation de base et de la formation continue des coachs J+S;
-- e. la remise de matériel didactique aux coachs J+S.
+- e. la remise de matériel didactique aux coachs J+S;
+- f.[^4-1] les décisions concernant les demandes d’enregistrement en tant qu’organisateur approuvées conformément à l’art. 10*a* de l’ordonnance du 23 mai 2012 sur l’encouragement du sport[^4-2].
+
+[^4-1]: Introduite par le ch. II de l’O du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
+[^4-2]: [RS 415.01](https://fedlex.data.admin.ch/eli/cc/2012/461)
 
 #### Art. 5
 
@@ -105,12 +111,14 @@ Les prestations visées à l’art. 3, let. a à c, g et h, sont soumises à ré
 
 L’OFSPO peut accorder une remise ou réduire le montant des émoluments pour la fourniture de prestations présentant un intérêt public particulier, pour autant que ces prestations aient été fournies:
 
-- a. à des personnes et des organisations qui reçoivent des aides financières selon les dispositions de la LESp;
+- a. à des personnes et des organisations qui reçoivent des aides financières selon les dispositions de la LESp[^8-1];
 - b. dans le but de promouvoir des programmes et des projets au sens de l’art. 3 LESp ou de promouvoir le programme J+S.
 
 <sup>2</sup> Dans les cas prévus à l’al. 1, let. a, l’OFSPO règle la réduction ou la remise des émoluments avec les personnes et organisations concernées dans un contrat de droit public.
 
 <sup>3</sup> Si des prestations réservées ne sont pas utilisées pour des motifs excusables, l’OFSPO peut réduire le montant de l’émolument.
+
+[^8-1]: [RS 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)
 
 #### Art. 9
 
@@ -134,7 +142,7 @@ L’ordonnance du DDPS du 14 septembre 2012 sur les émoluments de l’Office f�
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2018.
 
-Annexe*[^t-1]*
+Annexe[^t-1]
 
 (art. 6, al. 1)
 
@@ -160,13 +168,10 @@ Annexe*[^t-1]*
 <tr><td>Collation/en-cas (en fonction de l’offre)</td><td colspan="2">7 à 15</td><td colspan="3">par personne</td></tr>
 <tr><td>4. Formation et formation continue</td><td colspan="2"></td><td colspan="3"></td></tr>
 <tr><td>Cours et modules de la formation des cadres J+S/ESA, forfaits journaliers pour l’enseignement et les transports dans le cadre de ces cours et de ces modules (en fonction de la durée, du travail que cela représente et de l’importance de ces cours et modules dans le programme J+S)</td><td colspan="2">max. 140</td><td colspan="3">par journée de cours</td></tr>
-<tr><td>Documents didactiques J+S (manuel complet)</td><td colspan="2">50</td><td colspan="3">par exemplaire</td></tr>
-<tr><td>Documents didactiques J+S (seulement document de base)</td><td colspan="2">15</td><td colspan="3">par exemplaire</td></tr>
-<tr><td>Documents didactiques J+S (manuel sans le document de base)</td><td colspan="2">35</td><td colspan="3">par exemplaire</td></tr>
-<tr><td>Manuel J+S Sport de camp/Trekking commandé auprès d’associations de jeunesse chargées de la formation des cadres</td><td colspan="2">25</td><td colspan="3">par exemplaire</td></tr>
-<tr><td>Manuel ESA</td><td colspan="2">50</td><td colspan="3">par exemplaire</td></tr>
+<tr><td>Supports didactiques J+S complets par sport</td><td colspan="2">50</td><td colspan="3">par exemplaire (imprimé ou électronique)</td></tr>
+<tr><td>Supports didactiques ESA complets</td><td colspan="2">50</td><td colspan="3">par exemplaire (imprimé ou électronique)</td></tr>
 <tr><td>Matériel de prêt J+S</td><td colspan="2">0,60</td><td colspan="3">par kilogramme (brut)</td></tr>
-<tr><td>Cours et modules de la formation des entraîneurs (en fonction de la durée et du travail que cela représente)</td><td colspan="2">de 50 à 250</td><td colspan="3">par journée de cours</td></tr>
+<tr><td>Cours et modules de la Formation des entraîneurs (en fonction de la durée et du travail que cela représente)</td><td colspan="2">50–250</td><td colspan="3">par journée de cours</td></tr>
 <tr><td>5. Diagnostic de la performance</td><td colspan="2"></td><td colspan="3"></td></tr>
 <tr><td>Tests d’endurance, notamment détermination du lactate, test d’altitude, mesure de la VO<sub>2max</sub> et mesure du volume sanguin (en fonction de la prestation convenue)</td><td colspan="2">120 à 400</td><td colspan="3">par personne et par test</td></tr>
 <tr><td>Tests de force, notamment test de la force musculaire et test de la force de base (en fonction de la prestation convenue)</td><td colspan="2">80 à 240</td><td colspan="3">par personne et par test</td></tr>
@@ -190,5 +195,5 @@ Annexe*[^t-1]*
 <tr><td colspan="4">\* Pour les équipements fixes, l’utilisation de l’installation sportive est incluse dans l’émolument.</td><td>[tab]</td><td>[tab]</td></tr>
 </table>
 
-[^t-1]: Mise à jour par le ch. II de l’O du 11 août 2021, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
+[^t-1]: Mise à jour par le ch. II de l’O du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
 [^t-2]: [RS 172.041.11](https://fedlex.data.admin.ch/eli/cc/2014/711)
