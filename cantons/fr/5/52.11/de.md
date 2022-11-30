@@ -4,13 +4,13 @@ number: "52.11"
 title: Reglement über den Zivilschutz
 short: ZSR
 language: de
-version: 2022-02-01
-valid_until: 2022-11-30
-version_adopted: 2022-03-11
+version: 2022-12-01
+valid_until: 2026-09-30
+version_adopted: 2022-11-08
 adopted: 2004-06-23
 in_force: 2004-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/52.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/7329/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7630/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Zivilschutz – R
 
 (ZSR)
 
-vom 23.06.2004 (Fassung in Kraft getreten am 01.02.2022)
+vom 23.06.2004 (Fassung in Kraft getreten am 01.12.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -55,7 +55,7 @@ beschliesst:
 
 **Sicherheits-, Justiz- und Sportdirektion (Art. 4 ZSG)**
 
-<sup>1</sup> Die Sicherheits-, Justiz- und Sportdirektion (die Direktion) ist die zuständige kantonale Behörde im Bereich des Zivilschutzes. Für die Erfüllung ihrer Aufgaben und für die Wahrnehmung ihrer Kompetenzen gemäss den Bestimmungen dieses Reglements verfügt sie über das Amt für Bevölkerungsschutz und Militär (das Amt).
+<sup>1</sup> Die Sicherheits-, Justiz- und Sportdirektion (die Direktion) ist die zuständige kantonale Behörde im Bereich des Zivilschutzes. Für die Erfüllung ihrer Aufgaben und für die Wahrnehmung ihrer Kompetenzen gemäss den Bestimmungen dieses Reglements verfügt sie über das Amt für zivile Sicherheit und Militär (das Amt).
 
 <sup>2</sup> Sie ernennt die Kommandanten der Einsatzkompanien, die stellvertretenden Kommandanten sowie die Stabsoffiziere dieser Kompanien. Die betroffenen Oberamtmänner nehmen dazu Stellung.
 

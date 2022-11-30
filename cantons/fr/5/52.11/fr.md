@@ -4,13 +4,13 @@ number: "52.11"
 title: Règlement sur la protection civile
 short: RPCi
 language: fr
-version: 2022-02-01
-valid_until: 2022-11-30
-version_adopted: 2022-03-11
+version: 2022-12-01
+valid_until: 2026-09-30
+version_adopted: 2022-11-08
 adopted: 2004-06-23
 in_force: 2004-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/52.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7329/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7630/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Protection civile – R
 
 (RPCi)
 
-du 23.06.2004 (version entrée en vigueur le 01.02.2022)
+du 23.06.2004 (version entrée en vigueur le 01.12.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -55,7 +55,7 @@ Arrête:
 
 **Direction de la sécurité, de la justice et du sport (art. 4 LPCi)**
 
-<sup>1</sup> La Direction de la sécurité, de la justice et du sport (ci-après: la Direction) est l'autorité cantonale compétente en matière de protection civile. Elle exerce ses tâches et compétences par le Service de la protection de la population et des affaires militaires (ci-après: le Service), conformément aux dispositions du présent règlement.
+<sup>1</sup> La Direction de la sécurité, de la justice et du sport (ci-après: la Direction) est l'autorité cantonale compétente en matière de protection civile. Elle exerce ses tâches et compétences par le Service de la sécurité civile et militaire (ci-après: le Service), conformément aux dispositions du présent règlement.
 
 <sup>2</sup> Elle nomme les commandants des compagnies d'intervention, les commandants remplaçants et les officiers de l'état-major de ces compagnies. Les préfets concernés donnent leur préavis.
 
