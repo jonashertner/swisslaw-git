@@ -4,13 +4,13 @@ number: "914.10.11"
 title: Ordonnance sur les épizooties
 short: OEpiz
 language: fr
-version: 2022-01-01
-valid_until: 2022-11-30
-version_adopted: 2022-03-08
+version: 2022-12-01
+valid_until: 2026-09-30
+version_adopted: 2022-11-08
 adopted: 2014-04-08
 in_force: 2014-05-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/914.10.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7831/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7832/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Epizooties – O
 
 (OEpiz)
 
-du 08.04.2014 (version entrée en vigueur le 01.01.2022)
+du 08.04.2014 (version entrée en vigueur le 01.12.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -166,9 +166,9 @@ Arrête:
 
 #### Art. 12
 
-**Service de la protection de la population et des affaires militaires**
+**Service de la sécurité civile et militaire**
 
-<sup>1</sup> Le Service de la protection de la population et des affaires militaires accomplit les tâches suivantes:
+<sup>1</sup> Le Service de la sécurité civile et militaire accomplit les tâches suivantes:
 
 - a) il collabore aux mesures du Service en matière de prévention, de préparation et de lutte;
 - b) il planifie, en collaboration avec le Service, les mesures à mettre en œuvre en temps de crise;
@@ -209,7 +209,7 @@ Arrête:
 
 **Collaboration**
 
-<sup>1</sup> Les agents ou agentes de la police des épizooties, dans l'exécution de leurs missions, peuvent obtenir l'appui des unités administratives cantonales, en particulier celui de la Police cantonale, du Service de la protection de la population et des affaires militaires, du Service de la santé publique, du Service du médecin cantonal, du Service de l'environnement, du Service des forêts et de la nature et de Sanima, pour éliminer une épizootie ou empêcher sa propagation. Ils peuvent également faire appel aux préposé-e-s locaux à l'agriculture et demander le soutien des préfectures et des communes.
+<sup>1</sup> Les agents ou agentes de la police des épizooties, dans l'exécution de leurs missions, peuvent obtenir l'appui des unités administratives cantonales, en particulier celui de la Police cantonale, du Service de la sécurité civile et militaire, du Service de la santé publique, du Service du médecin cantonal, du Service de l'environnement, du Service des forêts et de la nature et de Sanima, pour éliminer une épizootie ou empêcher sa propagation. Ils peuvent également faire appel aux préposé-e-s locaux à l'agriculture et demander le soutien des préfectures et des communes.
 
 <sup>2</sup> En présence d'une situation extraordinaire au sens de la législation sur la protection de la population, ils peuvent également obtenir l'appui des Organes communaux de conduite (ORCOC) dans le cadre de l'exécution de leurs missions sur le plan communal.
 

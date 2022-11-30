@@ -4,13 +4,13 @@ number: "914.10.11"
 title: Tierseuchenverordnung
 short: TiersV
 language: de
-version: 2022-01-01
-valid_until: 2022-11-30
-version_adopted: 2022-03-08
+version: 2022-12-01
+valid_until: 2026-09-30
+version_adopted: 2022-11-08
 adopted: 2014-04-08
 in_force: 2014-05-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/914.10.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/7831/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7832/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Tierseuchen – V
 
 (TiersV)
 
-vom 08.04.2014 (Fassung in Kraft getreten am 01.01.2022)
+vom 08.04.2014 (Fassung in Kraft getreten am 01.12.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -166,9 +166,9 @@ beschliesst:
 
 #### Art. 12
 
-**Amt für Bevölkerungsschutz und Militär**
+**Amt für zivile Sicherheit und Militär**
 
-<sup>1</sup> Das Amt für Bevölkerungsschutz und Militär nimmt folgende Aufgaben wahr:
+<sup>1</sup> Das Amt für zivile Sicherheit und Militär nimmt folgende Aufgaben wahr:
 
 - a) Es wirkt bei den vorbeugenden Massnahmen, den Vorbereitungs- und den Bekämpfungsmassnahmen des Amts mit.
 - b) Es plant die Massnahmen für Notlagen in Zusammenarbeit mit dem Amt.
@@ -209,7 +209,7 @@ beschliesst:
 
 **Zusammenarbeit**
 
-<sup>1</sup> Die Organe der Tierseuchenpolizei können bei der Ausübung ihres Auftrags Unterstützung von den kantonalen Verwaltungseinheiten, insbesondere der Kantonspolizei, des Amts für Bevölkerungsschutz und Militär, des Amts für Gesundheit, des Kantonsarztamts, des Amts für Umwelt, des Amts für Wald und Natur und der Sanima erhalten, um eine Tierseuche zu bekämpfen oder eine Ausbreitung der Seuche zu verhindern. Sie können zudem die örtlichen Landwirtschaftsverantwortlichen beiziehen und die Unterstützung der Oberämter und der Gemeinden anfordern.
+<sup>1</sup> Die Organe der Tierseuchenpolizei können bei der Ausübung ihres Auftrags Unterstützung von den kantonalen Verwaltungseinheiten, insbesondere der Kantonspolizei, des Amts für zivile Sicherheit und Militär, des Amts für Gesundheit, des Kantonsarztamts, des Amts für Umwelt, des Amts für Wald und Natur und der Sanima erhalten, um eine Tierseuche zu bekämpfen oder eine Ausbreitung der Seuche zu verhindern. Sie können zudem die örtlichen Landwirtschaftsverantwortlichen beiziehen und die Unterstützung der Oberämter und der Gemeinden anfordern.
 
 <sup>2</sup> In ausserordentlichen Situationen im Sinne der Gesetzgebung über den Bevölkerungsschutz können sie zudem Unterstützung der kommunalen Führungsorgane (GFO) im Rahmen der Ausübung ihres Auftrags auf Gemeindeebene erhalten.
 
