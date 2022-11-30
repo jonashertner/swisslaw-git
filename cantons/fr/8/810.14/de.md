@@ -3,13 +3,12 @@ canton: FR
 number: "810.14"
 title: Ausführungsbeschluss zur Störfallverordnung des Bundes
 language: de
-version: 2022-02-01
-valid_until: 2022-11-30
-version_adopted: 2022-04-01
+version: 2022-12-01
+version_adopted: 2022-11-08
 adopted: 1992-06-23
 in_force: 1992-07-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/810.14"
-pdf: "https://bdlf.fr.ch/api/de/versions/7394/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7634/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/7394/pdf_file"
 
 Störfallverordnung – B
 
-vom 23.06.1992 (Fassung in Kraft getreten am 01.02.2022)
+vom 23.06.1992 (Fassung in Kraft getreten am 01.12.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -38,7 +37,7 @@ beschliesst:
 - b) das Amt für Umwelt (das Amt),
 - c) die Koordinationsgruppe für Störfälle (KOST),
 - d) die Kantonale Gebäudeversicherung (KGV),
-- e) das Amt für Bevölkerungsschutz und Militär, durch das kantonale Führungsorgan.
+- e) das Amt für zivile Sicherheit und Militär, durch das kantonale Führungsorgan.
 
 #### Art. 2
 
@@ -61,7 +60,7 @@ beschliesst:
 - c) zwei Vertreter der Kantonalen Gebäudeversicherung, von denen einer das kantonale Feuerinspektorat und der andere das kantonale Feuerwehrinspektorat vertritt;
 - d) ein Vertreter der Stelle für den Arbeitnehmerschutz beim Amt für den Arbeitsmarkt;
 - e) ein Vertreter der Konferenz der Stützpunktkommandanten;
-- f) ein Vertreter des Amtes für Bevölkerungsschutz und Militär.
+- f) ein Vertreter des Amtes für zivile Sicherheit und Militär.
 
 <sup>2</sup> Wenn nötig kann sie weitere Fachleute beiziehen.
 

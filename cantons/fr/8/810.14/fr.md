@@ -3,13 +3,12 @@ canton: FR
 number: "810.14"
 title: "Arrêté d'exécution de dispositions fédérales sur la protection contre les accidents majeurs"
 language: fr
-version: 2022-02-01
-valid_until: 2022-11-30
-version_adopted: 2022-04-01
+version: 2022-12-01
+version_adopted: 2022-11-08
 adopted: 1992-06-23
 in_force: 1992-07-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/810.14"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7394/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7634/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/7394/pdf_file"
 
 Protection contre les accidents majeurs – A
 
-du 23.06.1992 (version entrée en vigueur le 01.02.2022)
+du 23.06.1992 (version entrée en vigueur le 01.12.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -38,7 +37,7 @@ Arrête:
 - b) le Service de l'environnement (ci-après: Service),
 - c) le Groupe de coordination pour les accidents majeurs (ci-après: GROPAM),
 - d) l'Etablissement cantonal d'assurance des bâtiments (ci-après: ECAB),
-- e) le Service de la protection de la population et des affaires militaires, par l'Organe cantonal de conduite.
+- e) le Service de la sécurité civile et militaire, par l'Organe cantonal de conduite.
 
 #### Art. 2
 
@@ -61,7 +60,7 @@ Arrête:
 - c) deux représentants de l'Etablissement cantonal d'assurance des bâtiments, soit un représentant de l'Inspection cantonale du feu et un représentant de l'Inspection cantonale des sapeurs-pompiers;
 - d) un représentant de la structure chargée de la protection des travailleurs auprès du Service public de l'emploi;
 - e) un représentant de la Conférence des commandants des centres de renfort du canton;
-- f) un représentant du Service de la protection de la population et des affaires militaires.
+- f) un représentant du Service de la sécurité civile et militaire.
 
 <sup>2</sup> Il peut, au besoin, s'adjoindre la collaboration d'autres spécialistes.
 
