@@ -3,13 +3,12 @@ canton: FR
 number: "464.12"
 title: Verordnung über die Sportschiessanlagen
 language: de
-version: 2022-03-01
-valid_until: 2022-11-30
-version_adopted: 2022-02-22
+version: 2022-12-01
+version_adopted: 2022-11-08
 adopted: 2022-02-22
 in_force: 2022-03-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/464.12"
-pdf: "https://bdlf.fr.ch/api/de/versions/7265/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8572/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/7265/pdf_file"
 
 Sportschiessanlagen – V
 
-vom 22.02.2022 (Fassung in Kraft getreten am 01.03.2022)
+vom 22.02.2022 (Fassung in Kraft getreten am 01.12.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -46,7 +45,7 @@ beschliesst:
 
 **Zuständiges Organ**
 
-<sup>1</sup> Das Amt für Bevölkerungsschutz und Militär (BSMA) ist für die Sicherheit der Sportschiessanlagen zuständig.
+<sup>1</sup> Das Amt für zivile Sicherheit und Militär (AZSM) ist für die Sicherheit der Sportschiessanlagen zuständig.
 
 #### Art. 3
 
@@ -65,7 +64,7 @@ beschliesst:
 
 **Verzeichnis der Sportschiessanlagen**
 
-<sup>1</sup> Das BSMA führt das Verzeichnis der Sportschiessanlagen im Kanton Freiburg. Das Register enthält folgende Angaben:
+<sup>1</sup> Das AZSM führt das Verzeichnis der Sportschiessanlagen im Kanton Freiburg. Das Register enthält folgende Angaben:
 
 - a) Art der Anlage;
 - b) zugelassene Disziplinen;
@@ -85,7 +84,7 @@ beschliesst:
 
 **Betriebsbewilligungsverfahren – Abnahmebericht**
 
-<sup>1</sup> Die kantonale Schiessanlagenexpertin oder der kantonale Schiessanlagenexperte erstellt den Abnahmebericht zuhanden des BSMA.
+<sup>1</sup> Die kantonale Schiessanlagenexpertin oder der kantonale Schiessanlagenexperte erstellt den Abnahmebericht zuhanden des AZSM.
 
 <sup>2</sup> Der Abnahmebericht wird den folgenden Stellen und Verantwortlichen zugestellt:
 
@@ -99,7 +98,7 @@ beschliesst:
 
 **Betriebsbewilligung**
 
-<sup>1</sup> Das BSMA erteilt die Betriebsbewilligung, wenn:
+<sup>1</sup> Das AZSM erteilt die Betriebsbewilligung, wenn:
 
 - a) der Abnahmebericht bestätigt, dass die Schiessanlage die sicherheitstechnischen Anforderungen der Dachorganisationen, die den Schiesssport regeln, erfüllt;
 - b) die Betreiberin oder der Betreiber einen gültigen Versicherungsnachweis vorlegt.
@@ -122,14 +121,14 @@ beschliesst:
 
 **Entzug der Betriebsbewilligung und Sperrung**
 
-<sup>1</sup> Aus Sicherheitsgründen kann das BSMA von Amtes wegen:
+<sup>1</sup> Aus Sicherheitsgründen kann das AZSM von Amtes wegen:
 
 - a) die Betriebsbewilligung einer Sportschiessanlage entziehen;
 - b) die teilweise oder vollständige Sperrung einer Sportschiessanlage anordnen.
 
 <sup>2</sup> Der Entzug der Betriebsbewilligung und die Sperrung einer Sportschiessanlage können auch auf Ersuchen der Betreiberin bzw. des Betreibers oder der Eigentümerschaft verfügt werden.
 
-<sup>3</sup> Die kantonale Schiessanlagenexpertin oder der kantonale Schiessanlagenexperte kann aus Sicherheitsgründen die provisorische Sperrung einer Sportschiessanlage bis zum Entscheid des BSMA verfügen.
+<sup>3</sup> Die kantonale Schiessanlagenexpertin oder der kantonale Schiessanlagenexperte kann aus Sicherheitsgründen die provisorische Sperrung einer Sportschiessanlage bis zum Entscheid des AZSM verfügen.
 
 #### Art. 10
 
@@ -163,12 +162,16 @@ beschliesst:
 
 **Entschädigungen**
 
-<sup>1</sup> Die Entschädigungen der kantonalen Schiessanlagenexpertin oder des kantonalen Schiessanlagenexperten richten sich nach der Verordnung des VBS über die eidgenössischen Schiessoffiziere und die kantonalen Schiesskommissionen.
+<sup>1</sup> Die Entschädigungen der kantonalen Schiessanlagenexpertin oder des kantonalen Schiessanlagenexperten richten sich nach der Verordnung des VBS über die eidgenössischen Schiessoffiziere und die kantonalen Schiesskommissionen[^13-1].
+
+[^13-1]: SR [512.313](https://db.clex.ch/link/Bund/512.313/de)
 
 #### Art. 14
 
 **Rechtsmittel**
 
-<sup>1</sup> Die in Anwendung dieser Verordnung getroffenen Entscheide können mit Beschwerde gemäss dem Gesetz über die Verwaltungsrechtspflege angefochten werden.
+<sup>1</sup> Die in Anwendung dieser Verordnung getroffenen Entscheide können mit Beschwerde gemäss dem Gesetz über die Verwaltungsrechtspflege[^14-1] angefochten werden.
+
+[^14-1]: SGF [150.1](https://bdlf.fr.ch/data/150.1/de)
 
 2022\_021

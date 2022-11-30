@@ -3,13 +3,12 @@ canton: FR
 number: "464.12"
 title: Ordonnance sur les installations de tir sportif
 language: fr
-version: 2022-03-01
-valid_until: 2022-11-30
-version_adopted: 2022-02-22
+version: 2022-12-01
+version_adopted: 2022-11-08
 adopted: 2022-02-22
 in_force: 2022-03-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/464.12"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7265/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8572/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/7265/pdf_file"
 
 Installations de tir sportif – O
 
-du 22.02.2022 (version entrée en vigueur le 01.03.2022)
+du 22.02.2022 (version entrée en vigueur le 01.12.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -48,7 +47,7 @@ Arrête:
 
 **Organe compétent**
 
-<sup>1</sup> Le service compétent en matière de sécurité des installations de tir sportif est le Service de la protection de la population et des affaires militaires (SPPAM).
+<sup>1</sup> Le service compétent en matière de sécurité des installations de tir sportif est le Service de la sécurité civile et militaire (SSCM).
 
 #### Art. 3
 
@@ -67,7 +66,7 @@ Arrête:
 
 **Registre des installations de tir sportif**
 
-<sup>1</sup> Le SPPAM tient un registre des installations de tir sportif sises dans le canton de Fribourg. Ce registre contient les informations suivantes:
+<sup>1</sup> Le SSCM tient un registre des installations de tir sportif sises dans le canton de Fribourg. Ce registre contient les informations suivantes:
 
 - a) le type de l'installation;
 - b) les disciplines admises;
@@ -87,7 +86,7 @@ Arrête:
 
 **Procédure d'autorisation de l'exploitation – Procès-verbal de réception**
 
-<sup>1</sup> L'expert ou l'experte cantonal-e établit un procès-verbal de réception à l'intention du SPPAM.
+<sup>1</sup> L'expert ou l'experte cantonal-e établit un procès-verbal de réception à l'intention du SSCM.
 
 <sup>2</sup> Ce procès-verbal est transmis aux instances et aux responsables suivants:
 
@@ -101,7 +100,7 @@ Arrête:
 
 **Autorisation d'exploiter**
 
-<sup>1</sup> Le SPPAM délivre l'autorisation d'exploiter l'installation de tir sportif si:
+<sup>1</sup> Le SSCM délivre l'autorisation d'exploiter l'installation de tir sportif si:
 
 - a) le procès-verbal de réception atteste la conformité de l'installation avec les exigences techniques et de sécurité émises par les organisations faîtières régissant la pratique du tir sportif;
 - b) l'exploitant ou l'exploitante présente une attestation d'assurance valable.
@@ -124,14 +123,14 @@ Arrête:
 
 **Retrait de l'autorisation d'exploiter et fermeture**
 
-<sup>1</sup> Pour des motifs de sécurité, le SPPAM peut d'office:
+<sup>1</sup> Pour des motifs de sécurité, le SSCM peut d'office:
 
 - a) retirer l'autorisation d'exploitation d'une installation de tir sportif;
 - b) ordonner la fermeture complète ou partielle d'une installation de tir sportif.
 
 <sup>2</sup> Le retrait de l'autorisation d'exploitation et la fermeture d'une installation de tir sportif peuvent également être prononcés à la demande de l'exploitant ou de l'exploitante, ou du ou de la propriétaire de l'installation.
 
-<sup>3</sup> L'expert ou l'experte cantonal-e peut, pour des raisons de sécurité, ordonner la fermeture provisoire d'une installation de tir jusqu'à la décision du SPPAM.
+<sup>3</sup> L'expert ou l'experte cantonal-e peut, pour des raisons de sécurité, ordonner la fermeture provisoire d'une installation de tir jusqu'à la décision du SSCM.
 
 #### Art. 10
 
@@ -165,12 +164,16 @@ Arrête:
 
 **Indemnités**
 
-<sup>1</sup> Les indemnités de l'expert ou l'experte cantonal-e sont calculées conformément à l'ordonnance du DDPS sur les officiers fédéraux de tir et les commissions cantonales de tir.
+<sup>1</sup> Les indemnités de l'expert ou l'experte cantonal-e sont calculées conformément à l'ordonnance du DDPS sur les officiers fédéraux de tir et les commissions cantonales de tir[^13-1].
+
+[^13-1]: RS [512.313](https://db.clex.ch/link/Bund/512.313/fr)
 
 #### Art. 14
 
 **Voies de droit**
 
-<sup>1</sup> Les décisions prises en application de la présente ordonnance peuvent faire l'objet d'un recours conformément au code de procédure et de juridiction administrative.
+<sup>1</sup> Les décisions prises en application de la présente ordonnance peuvent faire l'objet d'un recours conformément au code de procédure et de juridiction administrative[^14-1].
+
+[^14-1]: RSF [150.1](https://bdlf.fr.ch/data/150.1/fr)
 
 2022\_021
