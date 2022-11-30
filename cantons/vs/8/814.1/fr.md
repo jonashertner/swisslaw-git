@@ -4,21 +4,21 @@ number: "814.1"
 title: "Loi sur la protection de l'environnement"
 short: LcPE
 language: fr
-version: 2014-01-01
-corrected: 2017-06-12
-version_adopted: 2013-05-16
+version: 2022-12-01
+version_adopted: 2019-12-12
 adopted: 2010-11-18
 in_force: 2011-04-26
 url: "https://lex.vs.ch/app/fr/texts_of_law/814.1"
-pdf: "https://lex.vs.ch/api/fr/versions/224/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/fr/versions/3503/pdf_file"
 ---
 
-> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi. Le canton ne publie cette version qu’en PDF : le texte en est extrait, la structure déduite de la mise en page.
+> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
-# Loi sur la protection de l'environnement (LcPE)
+# Loi sur la protection de l'environnement
 
-du 18 novembre 2010
+(LcPE)
+
+du 18.11.2010 (état 01.12.2022)
 
 Le Grand Conseil du canton du Valais
 
@@ -30,13 +30,13 @@ vu les articles 43 et 94 de la loi sur l'organisation des Conseils et les rappor
 
 sur la proposition du Conseil d'Etat,
 
-ordonne:[^t-1]
+ordonne:[^ingress-1]
 
-[^t-1]: Dans la présente loi, toute désignation de personne, de statut ou de fonction vise indifféremment l'homme ou la femme.
+[^ingress-1]: Dans la présente loi, toute désignation de personne, de statut ou de fonction vise indifféremment l'homme ou la femme.
 
-### Chapitre 1: Dispositions générales
+## 1 Dispositions générales
 
-### Section 1: But, champ d'application et organisation générale
+### 1.1 But, champ d'application et organisation générale
 
 #### Art. 1
 
@@ -50,7 +50,7 @@ ordonne:[^t-1]
 
 **Conseil d'Etat**
 
-Le Conseil d'Etat exerce la haute surveillance sur l'application de la législation fédérale et cantonale en matière de protection de l'environnement.
+<sup>1</sup> Le Conseil d'Etat exerce la haute surveillance sur l'application de la législation fédérale et cantonale en matière de protection de l'environnement.
 
 #### Art. 3
 
@@ -66,47 +66,37 @@ Le Conseil d'Etat exerce la haute surveillance sur l'application de la législat
 
 <sup>1</sup> Le service en charge de la protection de l'environnement (ci-après: le service) est le service spécialisé en la matière au sens de la législation fédérale. L'accomplissement de certaines tâches spécifiques par d'autres autorités cantonales ou communales spécialisées demeure réservé.
 
-<sup>2</sup> Il enquête sur les nuisances grevant l’environnement. Il a accès à tous les documents officiels et autres données concernant la protection de l’environnement.[^4-1]
+<sup>2</sup> Il enquête sur les nuisances grevant l’environnement. Il a accès à tous les documents officiels et autres données concernant la protection de l’environnement.
 
 <sup>3</sup> Il assure la coordination dans l'établissement des différents cadastres des sources de pollution, des plans de mesures et des plans d'assainissement. Il contrôle l'efficacité des mesures prises.
 
-<sup>4</sup> Il peut exiger du détenteur qu’il fournisse des informations sur les atteintes environnementales causées par son installation ou son site. Il a droit au libre accès sur le domaine privé pour toutes les tâches découlant de la législation en matière de protection de l’environnement.[^4-1]
+<sup>4</sup> Il peut exiger du détenteur qu’il fournisse des informations sur les atteintes environnementales causées par son installation ou son site. Il a droit au libre accès sur le domaine privé pour toutes les tâches découlant de la législation en matière de protection de l’environnement.
 
-[^4-1]: Dans la présente loi, toute désignation de personne, de statut ou de fonction vise indifféremment l'homme ou la femme.
-
-### Section 2: Autorisation, coordination et collaboration
+### 1.2 Autorisation, coordination et collaboration
 
 #### Art. 5
 
-<sup>1</sup> Prise en compte des exigences de la protection de l’environnement
+**Prise en compte des exigences de la protection de l'environnement dans la procédure décisive**
 
-dans la procédure décisive
-
-<sup>1</sup> Avant de délivrer une autorisation de construire, d’approuver des plans, d’octroyer une concession, une autorisation d’exploiter ou d’homologuer des plans d’affectation ou des règlements des constructions et des zones ou d’approuver des plans directeurs, l’autorité compétente de la procédure décisive vérifie que le projet est conforme aux dispositions de la législation fédérale et cantonale en matière de protection de l’environnement.[^5-1]
+<sup>1</sup> Avant de délivrer une autorisation de construire, d’approuver des plans, d’octroyer une concession, une autorisation d’exploiter ou d’homologuer des plans d’affectation ou des règlements des constructions et des zones ou d’approuver des plans directeurs, l’autorité compétente de la procédure décisive vérifie que le projet est conforme aux dispositions de la législation fédérale et cantonale en matière de protection de l’environnement.
 
 <sup>2</sup> Le requérant est tenu de démontrer que son projet respecte les exigences légales environnementales.
 
-<sup>3</sup> Pour les projets qui pourraient provoquer des atteintes nuisibles ou incommodantes, l’autorité de la procédure décisive consulte immédiatement le service avant de rendre sa décision.[^5-1]
+<sup>3</sup> Pour les projets qui pourraient provoquer des atteintes nuisibles ou incommodantes, l’autorité de la procédure décisive consulte immédiatement le service avant de rendre sa décision.
 
-<sup>4</sup> L’autorité de la procédure décisive vérifie que les conditions fixées sont respectées lors de la réalisation du projet, le cas échéant lors de son exploitation.[^5-1]
-
-[^5-1]: Dans la présente loi, toute désignation de personne, de statut ou de fonction vise indifféremment l'homme ou la femme.
+<sup>4</sup> L’autorité de la procédure décisive vérifie que les conditions fixées sont respectées lors de la réalisation du projet, le cas échéant lors de son exploitation.
 
 #### Art. 6
 
-<sup>1</sup> Coordination des autorisations spéciales cantonales en matière de
+**Coordination des autorisations spéciales cantonales en matière de protection de l'environnement avec la procédure décisive**
 
-protection de l’environnement avec la procédure décisive
-
-<sup>1</sup> Lorsqu’un projet implique plusieurs autorisations environnementales relevant d’autorités distinctes, les décisions spéciales sont intégrées dans une décision globale rendue par l’autorité cantonale de la procédure décisive, contre laquelle une seule voie de recours est ouverte.[^6-1]
+<sup>1</sup> Lorsqu’un projet implique plusieurs autorisations environnementales relevant d’autorités distinctes, les décisions spéciales sont intégrées dans une décision globale rendue par l’autorité cantonale de la procédure décisive, contre laquelle une seule voie de recours est ouverte.
 
 <sup>2</sup> Ce système d'attraction de compétences est applicable à toutes les procédures relevant de la législation sur l'environnement au sens large, notamment la protection de l'eau, les domaines forestiers, naturels et paysagers.
 
-<sup>3</sup> En cas de contradiction et à défaut de conciliation, l’autorité compétente de la procédure décisive tranche.[^6-1]
+<sup>3</sup> En cas de contradiction et à défaut de conciliation, l’autorité compétente de la procédure décisive tranche.
 
-<sup>4</sup> Les décisions sont notifiées séparément, mais de manière simultanée, quand une attraction de compétences n’est pas réalisable, notamment quand la décision de la procédure décisive est communale.[^6-1]
-
-[^6-1]: Dans la présente loi, toute désignation de personne, de statut ou de fonction vise indifféremment l'homme ou la femme.
+<sup>4</sup> Les décisions sont notifiées séparément, mais de manière simultanée, quand une attraction de compétences n’est pas réalisable, notamment quand la décision de la procédure décisive est communale.
 
 #### Art. 7
 
@@ -114,11 +104,11 @@ protection de l’environnement avec la procédure décisive
 
 <sup>1</sup> Dans l'exécution de leurs tâches spécifiques, les autorités compétentes consultent toutes autres autorités concernées et tiennent compte des avis que celles-ci formulent. Elles peuvent également faire appel à des tiers pour l'exécution de leurs tâches.
 
-<sup>2</sup> En cas d’inexécution des obligations légales et s’il en résulte un péril sérieux pour l’environnement, l’autorité compétente selon la matière ordonne ou prend les mesures nécessaires aux frais du défaillant.<sup>1</sup>
+<sup>2</sup> En cas d’inexécution des obligations légales et s’il en résulte un péril sérieux pour l’environnement, l’autorité compétente selon la matière ordonne ou prend les mesures nécessaires aux frais du défaillant.
 
-<sup>3</sup> Lorsqu’une autorité n’exécute pas ses tâches et qu’il en résulte un péril sérieux pour l’environnement, le département compétent en la matière ordonne ou prend les mesures nécessaires aux frais de la défaillante.<sup>1</sup>
+<sup>3</sup> Lorsqu’une autorité n’exécute pas ses tâches et qu’il en résulte un péril sérieux pour l’environnement, le département compétent en la matière ordonne ou prend les mesures nécessaires aux frais de la défaillante.
 
-### Section 3: Formation, information et conseil
+### 1.3 Formation, information et conseil
 
 #### Art. 8
 
@@ -136,13 +126,13 @@ protection de l’environnement avec la procédure décisive
 
 <sup>2</sup> Il est l'autorité cantonale compétente pour l'exécution de l'ordonnance fédérale sur le registre des rejets de polluants et de transferts de déchets et de polluants dans les eaux usées.
 
-### Section 4: Financement
+### 1.4 Financement
 
 #### Art. 10
 
 **Principe de causalité**
 
-Celui qui est à l'origine d'une mesure fondée sur les dispositions fédérales ou de la présente loi en supporte les frais.
+<sup>1</sup> Celui qui est à l'origine d'une mesure fondée sur les dispositions fédérales ou de la présente loi en supporte les frais.
 
 #### Art. 11
 
@@ -150,9 +140,9 @@ Celui qui est à l'origine d'une mesure fondée sur les dispositions fédérales
 
 <sup>1</sup> Le Conseil d'Etat adopte un tarif des frais et émoluments perçus par les autorités cantonales pour les préavis, autorisations, mesures de contrôle et autres prestations spéciales prévues par la législation fédérale et la présente loi. Il prend pour base les coûts effectifs des prestations offertes. Le conseil municipal établit le tarif des frais et émoluments perçus par la commune.
 
-<sup>2</sup> L’autorité peut exiger que le requérant fasse l’avance des frais prévisibles, y compris en cas d’exécution par substitution.<sup>1</sup>
+<sup>2</sup> L’autorité peut exiger que le requérant fasse l’avance des frais prévisibles, y compris en cas d’exécution par substitution.
 
-<sup>3</sup> Pour garantir l’exécution des obligations liées à l’application de la présente loi, l’autorité peut exiger des sûretés (caution, garantie bancaire, assurance, etc.). Les taxes, frais et émoluments ainsi que les coûts de l’exécution par substitution sont garantis par une hypothèque légale non inscrite, en premier rang en concours avec les autres hypothèques légales de droit public et priment tout autre gage immobilier. L’hypothèque peut être inscrite au registre foncier, à titre déclaratif, sur réquisition du service.<sup>1</sup>
+<sup>3</sup> Pour garantir l’exécution des obligations liées à l’application de la présente loi, l’autorité peut exiger des sûretés (caution, garantie bancaire, assurance, etc.). Les taxes, frais et émoluments ainsi que les coûts de l’exécution par substitution sont garantis par une hypothèque légale non inscrite, en premier rang en concours avec les autres hypothèques légales de droit public et priment tout autre gage immobilier. L’hypothèque peut être inscrite au registre foncier, à titre déclaratif, sur réquisition du service.
 
 #### Art. 12
 
@@ -164,9 +154,9 @@ Celui qui est à l'origine d'une mesure fondée sur les dispositions fédérales
 
 <sup>3</sup> Le Conseil d'Etat règle les modalités de gestion du fonds.
 
-### Chapitre 2: Dispositions spéciales
+## 2 Dispositions spéciales
 
-### Section 1: Etude de l'impact sur l'environnement
+### 2.1 Etude de l'impact sur l'environnement
 
 #### Art. 13
 
@@ -192,23 +182,21 @@ Celui qui est à l'origine d'une mesure fondée sur les dispositions fédérales
 
 <sup>2</sup> Les autorités cantonales ayant la compétence d'accorder des subventions pour la construction ou la modification d'installations soumises à une EIE ne prennent leur décision qu'une fois l'EIE achevée, en tenant compte des résultats de celle-ci. Elles ne versent les subventions que si le projet est réalisé conformément aux conditions fixées dans la décision.
 
-### Section 2: Protection contre les accidents majeurs et autres
-
-catastrophes
+### 2.2 Protection contre les accidents majeurs et autres catastrophes
 
 #### Art. 16
 
 **Protection contre les accidents majeurs**
 
-Le Conseil d'Etat désigne les organes administratifs chargés de l'application de l'ordonnance fédérale sur la protection contre les accidents majeurs.
+<sup>1</sup> Le Conseil d'Etat désigne les organes administratifs chargés de l'application de l'ordonnance fédérale sur la protection contre les accidents majeurs.
 
 #### Art. 17
 
 **Protection contre les autres catastrophes**
 
-Les législations réglant la protection des installations contre les dangers naturels et les autres catastrophes désignent les organes administratifs chargés de leur application.
+<sup>1</sup> Les législations réglant la protection des installations contre les dangers naturels et les autres catastrophes désignent les organes administratifs chargés de leur application.
 
-### Section 3: Protection de l'air
+### 2.3 Protection de l'air
 
 #### Art. 18
 
@@ -234,7 +222,7 @@ Les législations réglant la protection des installations contre les dangers na
 
 <sup>1</sup> Le service ordonne l'assainissement des installations stationnaires et des machines de chantier non conformes et décide des mesures à réaliser ainsi que des délais à respecter.
 
-<sup>2</sup> La commune est compétente dans les cas bagatelles d’assainissement d’installations à l’origine d’odeurs, de fumées ou de poussières incommodantes.<sup>1</sup>
+<sup>2</sup> La commune est compétente dans les cas bagatelles d’assainissement d’installations à l’origine d’odeurs, de fumées ou de poussières incommodantes.
 
 <sup>3</sup> Sur requête et après avoir entendu la commune, le département peut octroyer, au détenteur de l'installation, un allégement aux conditions prévues par la législation fédérale.
 
@@ -252,13 +240,13 @@ Les législations réglant la protection des installations contre les dangers na
 
 **Mesures d'urgence**
 
-Le Conseil d'Etat ordonne les mesures d'urgence nécessaires, lorsque les conditions météorologiques favorisent des immissions excessives.
+<sup>1</sup> Le Conseil d'Etat ordonne les mesures d'urgence nécessaires, lorsque les conditions météorologiques favorisent des immissions excessives.
 
 #### Art. 23
 
 **Plan de mesures**
 
-S'il est établi ou à prévoir que des pollutions atmosphériques entraînent des atteintes nuisibles ou incommodantes, le Conseil d'Etat adopte un plan de mesures au sens de l'ordonnance fédérale, permettant de prévenir, de réduire ou d'éliminer ces atteintes. Il décide de toutes les mesures nécessaires à sa mise en oeuvre.
+<sup>1</sup> S'il est établi ou à prévoir que des pollutions atmosphériques entraînent des atteintes nuisibles ou incommodantes, le Conseil d'Etat adopte un plan de mesures au sens de l'ordonnance fédérale, permettant de prévenir, de réduire ou d'éliminer ces atteintes. Il décide de toutes les mesures nécessaires à sa mise en oeuvre.
 
 #### Art. 24
 
@@ -284,19 +272,19 @@ S'il est établi ou à prévoir que des pollutions atmosphériques entraînent d
 
 **Taxe d'incitation sur les composés organiques volatils**
 
-Le service est l'autorité cantonale compétente pour l'exécution de l'ordonnance sur la taxe d'incitation sur les composés organiques volatils.
+<sup>1</sup> Le service est l'autorité cantonale compétente pour l'exécution de l'ordonnance sur la taxe d'incitation sur les composés organiques volatils.
 
-### Section 4: Protection contre le bruit
+### 2.4 Protection contre le bruit
 
 #### Art. 27
 
 **Détermination des immissions**
 
-<sup>1</sup> L’autorité qui veille à la détermination des emmissions d’une installation fixe est celle de la procédure décisive au sens de l’article 5.<sup>1</sup>
+<sup>1</sup> L’autorité qui veille à la détermination des emmissions d’une installation fixe est celle de la procédure décisive au sens de l’article 5.
 
-<sup>2</sup> Elle peut exiger du détenteur de l’installation qu’il détermine les emmissions de bruit engendrées par celle-ci et qu’il les consigne dans un cadastre.<sup>1</sup>
+<sup>2</sup> Elle peut exiger du détenteur de l’installation qu’il détermine les emmissions de bruit engendrées par celle-ci et qu’il les consigne dans un cadastre.
 
-<sup>3</sup> En cas de nécessité, le service met à disposition des communes les instruments de mesure adéquats.<sup>1</sup>
+<sup>3</sup> En cas de nécessité, le service met à disposition des communes les instruments de mesure adéquats.
 
 #### Art. 28
 
@@ -332,9 +320,7 @@ Le service est l'autorité cantonale compétente pour l'exécution de l'ordonnan
 
 #### Art. 31
 
-**Autorisation de construire des bâtiments avec des locaux à usage**
-
-sensible au bruit dans des secteurs exposés au bruit
+**Autorisation de construire des bâtiments avec des locaux à usage sensible au bruit dans des secteurs exposés au bruit**
 
 <sup>1</sup> Avant de délivrer une autorisation de construire, l'autorité de la procédure décisive contrôle si les valeurs limites d'immission sont respectées.
 
@@ -344,7 +330,7 @@ sensible au bruit dans des secteurs exposés au bruit
 
 #### Art. 32
 
-**Appareils et machines mobiles - bruits assimilés**
+**Appareils et machines mobiles - Bruits assimilés**
 
 <sup>1</sup> Les communes sont compétentes pour limiter les émissions d'appareils et machines mobiles ainsi que les bruits assimilés, par le biais de leur réglementation, au moyen d'horaires d'exploitation ou de mesures de construction.
 
@@ -352,7 +338,7 @@ sensible au bruit dans des secteurs exposés au bruit
 
 #### Art. 33
 
-Subventions fédérales à l'assainissement et aux mesures d'isolation acoustique des routes existantes
+**Subventions fédérales à l'assainissement et aux mesures d'isolation acoustique des routes existantes**
 
 <sup>1</sup> Le Conseil d'Etat conclut, sous réserve de ses compétences financières, la convention-programme négociée par le département en charge des routes avec la Confédération en vue de l'obtention de subventions fédérales à l'assainissement et aux mesures d'isolation acoustique des routes existantes.
 
@@ -362,17 +348,13 @@ Subventions fédérales à l'assainissement et aux mesures d'isolation acoustiqu
 
 <sup>4</sup> Le département en charge des routes rend compte à l'autorité fédérale compétente de l'utilisation des subventions.
 
-### Section 5: Protection contre les sons et lasers
+### 2.5
 
 #### Art. 34
 
-**Compétence**
+**…**
 
-<sup>1</sup> Les communes sont chargées de l'exécution de l'ordonnance sur la protection contre les nuisances sonores et les rayons laser lors de manifestations.
-
-<sup>2</sup> Le service met à disposition des communes les instruments de mesure adéquats.
-
-### Section 6: Protection contre le rayonnement non ionisant
+### 2.6 Protection contre le rayonnement non ionisant
 
 #### Art. 35
 
@@ -402,7 +384,7 @@ Subventions fédérales à l'assainissement et aux mesures d'isolation acoustiqu
 
 <sup>4</sup> Font exception les installations de compétence fédérale.
 
-### Section 7: Déchets
+### 2.7 Déchets
 
 #### Art. 38
 
@@ -426,15 +408,13 @@ Subventions fédérales à l'assainissement et aux mesures d'isolation acoustiqu
 
 #### Art. 40
 
-<sup>1</sup> Décharges contrôlées et installations de valorisation de déchets
+**Décharges contrôlées et installations de valorisation de déchets minéraux**
 
-minéraux
+<sup>1</sup> Le département délivre l’autorisation d’aménager des décharges contrôlées et des installations de valorisation de déchets minéraux.
 
-<sup>1</sup> Le département délivre l’autorisation d’aménager des décharges contrôlées et des installations de valorisation de déchets minéraux.<sup>1</sup>
+<sup>2</sup> Le service délivre l’autorisation d’exploiter des décharges contrôlées et des installations de valorisation de déchets minéraux, renouvelable et d’une validité maximale de cinq ans.
 
-<sup>2</sup> Le service délivre l’autorisation d’exploiter des décharges contrôlées et des installations de valorisation de déchets minéraux, renouvelable et d’une validité maximale de cinq ans.<sup>1</sup>
-
-<sup>3</sup> Le service ordonne la fermeture et la remise en état des lieux des décharges et des installations de valorisation de déchets minéraux non autorisées.<sup>1</sup>
+<sup>3</sup> Le service ordonne la fermeture et la remise en état des lieux des décharges et des installations de valorisation de déchets minéraux non autorisées.
 
 #### Art. 41
 
@@ -451,24 +431,21 @@ minéraux
 <sup>1</sup> Le canton participe aux dépenses incombant aux communes engendrées par les extensions de capacité et les étapes complémentaires de traitement pour:
 
 - a) les installations pour le traitement des boues d'épuration et des déchets provenant de l'entretien des routes;
-
 - b) les installations pour le traitement des déchets urbains;
-
 - c) les décharges contrôlées pour les résidus d'incinération des déchets urbains et des boues d'épuration des step communales.
 
 <sup>2</sup> Cette participation se concrétise:
 
 - a) par une subvention de 50 pour cent aux frais d'études;
-
 - b) par une subvention de 25 pour cent aux frais de projets d'exécution et aux frais de construction.
 
-### Section 8: Sites pollués
+### 2.8 Sites pollués
 
 #### Art. 43
 
 **Cadastre**
 
-Le service établit et tient à jour un cadastre des sites pollués accessible au public.
+<sup>1</sup> Le service établit et tient à jour un cadastre des sites pollués accessible au public.
 
 #### Art. 44
 
@@ -482,7 +459,7 @@ Le service établit et tient à jour un cadastre des sites pollués accessible a
 
 **Mention au registre foncier**
 
-<sup>1</sup> Un site pollué peut faire l'objet d'une mention « site inscrit dans le cadastre cantonal des sites pollués» au registre foncier.
+<sup>1</sup> Un site pollué peut faire l'objet d'une mention "site inscrit dans le cadastre cantonal des sites pollués" au registre foncier.
 
 <sup>2</sup> La réquisition émane du service et est accompagnée des renseignements prescrits par l'ordonnance fédérale.
 
@@ -496,8 +473,7 @@ Le service établit et tient à jour un cadastre des sites pollués accessible a
 
 <sup>2</sup> Le département peut octroyer une autorisation exceptionnelle aux conditions suivantes:
 
-- a) il réside un intérêt prépondérant ou
-
+- a) il réside un intérêt prépondérant, ou
 - b) par le biais du morcellement, l'assainissement ou les mesures de surveillance ne sont pas compromis et la couverture des frais à cette fin est assurée.
 
 #### Art. 47
@@ -512,7 +488,7 @@ Le service établit et tient à jour un cadastre des sites pollués accessible a
 
 #### Art. 48
 
-Financement de l'investigation, de la surveillance et de l'assainissement
+**Financement de l'investigation, de la surveillance et de l'assainissement**
 
 <sup>1</sup> Les coûts occasionnés par l'investigation, la surveillance et l'assainissement des sites pollués incombent aux responsables.
 
@@ -523,6 +499,8 @@ Financement de l'investigation, de la surveillance et de l'assainissement
 <sup>4</sup> En sus des indemnités fédérales concernées, le canton participe aux frais des investigations préalables à charge des communes par une subvention de 50 pour cent.
 
 <sup>5</sup> La part des coûts à la charge d'un responsable inconnu ou insolvable incombe aux communes. En sus des indemnités fédérales concernées, le canton participe à la part communale de ces frais, par une subvention de 40 pour cent des coûts imputables. Les mesures d'investigation, de surveillance et d'assainissement respectent les exigences fédérales.
+
+<sup>5<sup>bis</sup></sup> …
 
 <sup>6</sup> Les montants sont attribués en fonction d'une liste de priorités établie par le département.
 
@@ -538,11 +516,9 @@ Financement de l'investigation, de la surveillance et de l'assainissement
 
 #### Art. 50
 
-<sup>1</sup>
+**…**
 
-Abrogé
-
-### Section 9: Atteintes portées au sol
+### 2.9 Atteintes portées au sol
 
 #### Art. 51
 
@@ -558,11 +534,9 @@ Abrogé
 
 **Mesures complémentaires**
 
-Les mesures complémentaires pour les sols menacés ou dégradés, au sens de la loi fédérale, sont arrêtées par le Conseil d'Etat.
+<sup>1</sup> Les mesures complémentaires pour les sols menacés ou dégradés, au sens de la loi fédérale, sont arrêtées par le Conseil d'Etat.
 
-### Section 10: Utilisation d'organismes dans l'environnement ou en
-
-milieu confiné
+### 2.10 Utilisation d'organismes dans l'environnement ou en milieu confiné
 
 #### Art. 53
 
@@ -574,29 +548,27 @@ milieu confiné
 
 <sup>3</sup> Le service en charge de la protection des travailleurs est compétent pour l'exécution de l'ordonnance sur l'utilisation d'organismes en milieu confiné.
 
-### Chapitre 3: Dispositions d'exécution, dispositions transitoires et
-
-finales
+## 3 Dispositions d'exécution, dispositions transitoires et finales
 
 #### Art. 54
 
 **Procédure**
 
-La loi sur la procédure et la juridiction administratives (LPJA) est applicable dans la mesure où la procédure n’est pas réglée par les dispositions fédérales ou par celles des procédures décisives.<sup>1</sup>
+<sup>1</sup> La loi sur la procédure et la juridiction administratives (LPJA) est applicable dans la mesure où la procédure n’est pas réglée par les dispositions fédérales ou par celles des procédures décisives.
 
 #### Art. 55
 
 **Répression pénale**
 
-<sup>1</sup> Le service réprime les contraventions prévues par la législation fédérale. Sont applicables les dispositions du Code de procédure pénale suisse (CPP), respectivement de la LPJA.<sup>1</sup>
+<sup>1</sup> Le service réprime les contraventions prévues par la législation fédérale. Sont applicables les dispositions du Code de procédure pénale suisse (CPP), respectivement de la LPJA.
 
-<sup>2</sup> La répression des délits prévus par la législation fédérale relève des autorités pénales ordinaires qui statuent en application du CPP. Le service a qualité de partie à la procédure. L’autorité judiciaire a l’obligation de lui communiquer les rapports de police et de lui notifier la décision qu’elle a rendue suite à sa dénonciation.<sup>1</sup>
+<sup>2</sup> La répression des délits prévus par la législation fédérale relève des autorités pénales ordinaires qui statuent en application du CPP. Le service a qualité de partie à la procédure. L’autorité judiciaire a l’obligation de lui communiquer les rapports de police et de lui notifier la décision qu’elle a rendue suite à sa dénonciation.
 
 <sup>3</sup> Demeurent réservées les infractions de droit communal.
 
-#### Art. 55bis
+#### Art. 55a
 
-<sup>1</sup> Police
+**Police**
 
 <sup>1</sup> Les polices cantonale et municipale prêtent leur aide aux autorités chargées de l’application de la présente loi qui le demandent.
 
@@ -614,67 +586,13 @@ La loi sur la procédure et la juridiction administratives (LPJA) est applicable
 
 **Abrogation - Modification**
 
-La présente loi abroge la loi concernant l'application de la législation fédérale sur la protection de l'environnement du 21 juin 1990 et modifie les dispositions ci-après:
+<sup>1</sup> La présente loi abroge la loi concernant l’application de la législation fédérale sur la protection de l’environnement du 21 juin 1990 et modifie:
 
-- a) La loi concernant l'application de la loi fédérale sur la protection des eaux contre la pollution du 16 novembre 1978:
-
-#### Art. 23
-
-**al. 1 let. a et c Subventions cantonales, aux frais d'étude au projet**
-
-d'exécution et à la construction
-
-<sup>1</sup> Le canton participe aux dépenses incombant aux communes:
-
-- a) par une subvention de 50 pour cent aux frais d'études:
-
-- 3\. du projet général des installations de traitements des eaux usées;
-
-- b) par une subvention différentielle de 25 pour cent à 45 pour cent aux frais de projets d'exécution et aux frais de constructions: chiffres 7 à 9 abrogés
-
-- b) La loi sur les routes du 3 septembre 1965:
-
-#### Art. 203 bis
-
-**Coordination des procédures**
-
-<sup>1</sup> Lorsqu'un projet implique plusieurs autorisations relevant d'autorités distinctes, les décisions spéciales sont recueillies simultanément dans un délai de 60 jours et intégrées dans une décision globale rendue par l'autorité cantonale de la procédure décisive, contre laquelle une seule voie de recours est ouverte.
-
-<sup>2</sup> En cas de contradictions et à défaut de conciliation, les décisions sont notifiées séparément, mais de manière simultanée.
-
-<sup>3</sup> Une telle notification a également lieu, quand une attraction de compétences n'est pas réalisable, notamment quand la décision de la procédure décisive est communale.
-
-- c) La loi sur les constructions du 8 février 1996:
-
-#### Art. 16
-
-**al. 3bis et 3ter Coordination**
-
-<sup>3bis</sup> En cas de contradictions et à défaut de conciliation, les décisions sont notifiées séparément, mais de manière simultanée.
-
-<sup>3ter</sup> Une telle notification a également lieu, quand une attraction de compétences n'est pas réalisable, notamment quand la décision de la procédure décisive est communale.
-
-- d) La loi sur l'aménagement des cours d'eau du 15 mars 2007:
-
-#### Art. 35bis
-
-**Coordination des procédures**
-
-<sup>1</sup> Lorsqu'un projet implique plusieurs autorisations relevant d'autorités distinctes, les décisions spéciales sont recueillies simultanément dans un délai de 60 jours et intégrées dans une décision globale rendue par l'autorité cantonale de la procédure décisive, contre laquelle une seule voie de recours est ouverte.
-
-<sup>2</sup> En cas de contradictions et à défaut de conciliation, les décisions sont notifiées séparément, mais de manière simultanée.
-
-<sup>3</sup> Une telle notification a également lieu, quand une attraction de compétences n'est pas réalisable, notamment quand la décision de la procédure décisive est communale.
-
-- e) La loi sur la protection de la nature, du paysage et des sites du 13 novembre 1998:
-
-#### Art. 34
-
-**al. 3 et 4 Dispositions pénales**
-
-<sup>3</sup> Le Département réprime les contraventions prévues par la législation fédérale et cantonale. La décision rendue par le Département est susceptible de réclamation, puis d'appel auprès du Tribunal cantonal qui se prononce en dernière instance cantonale.
-
-<sup>4</sup> Les délits font l'objet d'une dénonciation pénale aux autorités judiciaires par le Département.
+- a) la loi concernant l’application de la loi fédérale sur la protection des eaux contre la pollution du 16 novembre 1978;
+- b) la loi sur les routes du 3 septembre 1965;
+- c) la loi sur les constructions du 8 février 1996;
+- d) la loi sur l’aménagement des cours d’eau du 15 mars 2007;
+- e) la loi sur la protection de la nature, du paysage et des sites du 13 novembre 1998.
 
 #### Art. 58
 
@@ -686,20 +604,4 @@ d'exécution et à la construction
 
 <sup>3</sup> Le Conseil d'Etat fixe la date de son entrée en vigueur.
 
-Ainsi adopté en deuxième lecture en séance du Grand Conseil, à Sion, le 18 novembre 2010.
-
-Le président du Grand Conseil: Jean-François Copt Le chef du Service parlementaire: Claude Bumann
-
-**Entrée en**
-
-### Intitulé et modifications Publication
-
-**26.04.11**
-
-vigueur Loi sur la protection de l'environnement du BO No 48/2010, BO
-
-## Autres notes
-
-- [18] novembre 2010 No 17/2011
-- [1] Modification du 16 mai 2013 (loi cantonale BO No 36/2013, BO 01.01.14 sur la protection des eaux du 16 mai 2013, art. No 52/2013
-- [51]
+RCV BO/Abl 48/2010, 17/2011
