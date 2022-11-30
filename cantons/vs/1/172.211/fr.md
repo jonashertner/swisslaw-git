@@ -1,56 +1,57 @@
 ---
 canton: VS
 number: "172.211"
-title: Règlement sur le temps de travail dans l’administration cantonale
+title: "Règlement sur le temps de travail dans l'administration cantonale"
 short: RTTr
 language: fr
-version: 2012-01-01
-corrected: 2017-09-01
-version_adopted: 2011-11-29
+version: 2022-12-01
+valid_until: 2023-12-31
+version_adopted: 2022-11-02
 adopted: 2011-11-29
 in_force: 2012-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/172.211"
-pdf: "https://lex.vs.ch/api/fr/versions/662/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/fr/versions/3082/pdf_file"
 ---
 
-> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi. Le canton ne publie cette version qu’en PDF : le texte en est extrait, la structure déduite de la mise en page.
+> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
 # Règlement sur le temps de travail dans l'administration cantonale
 
-du 29 novembre 2011
+(RTTr)
+
+du 29.11.2011 (état 01.12.2022)
 
 Le Conseil d'Etat du canton du Valais
 
-vu la loi sur le personnel de l’Etat du Valais du 19 novembre 2010;
+vu la loi sur le personnel de l'Etat du Valais du 19 novembre 2010;
 
-vu la loi fixant le traitement des employés de l’Etat du Valais du 12 novembre 1982;
+vu la loi fixant le traitement des employés de l'Etat du Valais du 12 novembre 1982;
 
-vu l’ordonnance concernant le traitement des employés de l’Etat du Valais du 10 juillet 1997;
+vu l'ordonnance concernant le traitement des employés de l'Etat du Valais du 10 juillet 1997;
 
-vu l’ordonnance sur le personnel de l’Etat du Valais du 22 juin 2011;
+vu l'ordonnance sur le personnel de l’Etat du Valais du 22 juin 2011;
 
-vu le règlement sur la formation continue pour l’Administration cantonale (règlement sur la formation) du 26 janvier 2011;
+vu le règlement sur la formation continue pour l’Administration cantonale du 26 janvier 2011 (Règlement sur la formation);
 
 sur la proposition du Département des finances, des institutions et de la santé,
 
-ordonne:[^t-1]
+ordonne:[^ingress-1]
 
-[^t-1]: Dans le présent règlement, toute désignation de personne, de statut ou de fonction vise indifféremment l’homme ou la femme
+[^ingress-1]: Dans le présent règlement, toute désignation de personne, de statut ou de fonction vise indifféremment l'homme ou la femme.
 
-### Section 1: Dispositions générales
+## 1 Dispositions générales
 
 #### Art. 1
 
 **Objet**
 
-Le présent règlement a pour but d’arrêter les horaires de travail ainsi que le contrôle de ceux-ci.
+<sup>1</sup> Le présent règlement a pour but d’arrêter les horaires de travail ainsi que le contrôle de ceux-ci.
 
 #### Art. 2
 
-**Champ d’application**
+**Champ d'application**
 
-Le présent règlement est applicable, sous réserve des dispositions spéciales, aux personnes engagées par l’administration cantonale et les établissements de l’Etat, ainsi qu’au corps de la Police cantonale, au personnel administratif et d’exploitation des écoles cantonales, au personnel administratif et aux greffiers des tribunaux et du ministère public (ci-après les employés).
+<sup>1</sup> Le présent règlement est applicable, sous réserve des dispositions spéciales, aux personnes engagées par l’administration cantonale et les établissements de l’Etat, ainsi qu’au corps de la Police cantonale, au personnel administratif et d’exploitation des écoles cantonales, au personnel administratif et aux greffiers des tribunaux et du ministère public (ci-après: les employés).
 
 #### Art. 3
 
@@ -58,7 +59,7 @@ Le présent règlement est applicable, sous réserve des dispositions spéciales
 
 <sup>1</sup> Le nombre d’heures à accomplir par année sert de base de calcul.
 
-<sup>2</sup> Le Service des ressources humaines (ci-après SRH) remet aux chefs de service les heures dues par année selon le plan de travail annuel approuvé par le Conseil d’Etat.
+<sup>2</sup> Le Service des ressources humaines (ci-après: SRH) remet aux chefs de service les heures dues par année selon le plan de travail annuel approuvé par le Conseil d’Etat.
 
 <sup>3</sup> Les heures représentant la durée annuelle de travail peuvent être accomplies en moins de douze mois.
 
@@ -68,9 +69,9 @@ Le présent règlement est applicable, sous réserve des dispositions spéciales
 
 #### Art. 4
 
-**Modèles d’horaires**
+**Modèles d'horaires**
 
-<sup>1</sup> L’horaire annuel de travail est l’horaire standard appliqué au sein de l’administration cantonale..
+<sup>1</sup> L’horaire annuel de travail est l’horaire standard appliqué au sein de l’administration cantonale.
 
 <sup>2</sup> L’application d’un horaire de groupe lié à des fonctions particulières au sein de différents services ou établissements est régie par une décision spéciale du Conseil d’Etat. Les employés concernés sont consultés avant la mise en vigueur d’un horaire de groupe.
 
@@ -92,7 +93,7 @@ Le présent règlement est applicable, sous réserve des dispositions spéciales
 
 <sup>5</sup> Le gestionnaire-temps est chargé de mettre à jour les horaires des collaborateurs de son service, d’appliquer les décisions prises par le chef de service et de l’informer en cas d’abus ou de non-respect du règlement.
 
-### Section 2: Horaire annuel de travail
+## 2 Horaire annuel de travail
 
 #### Art. 6
 
@@ -101,6 +102,8 @@ Le présent règlement est applicable, sous réserve des dispositions spéciales
 <sup>1</sup> La durée hebdomadaire du travail est effectuée en principe du lundi au vendredi, voire au samedi, avec l’autorisation du chef de service.
 
 <sup>2</sup> La durée de travail ordinaire est de 8h24 par jour (heures industrielles 8h40), respectivement 42 heures par semaine.
+
+<sup>2<sup>bis</sup></sup> La durée hebdomadaire du travail est réduite pro rata temporis d’une heure pour les collaborateurs qui ont atteint l’âge flexible de la retraite.
 
 <sup>3</sup> Le SRH est l’instance de référence en matière de temps de travail.
 
@@ -131,11 +134,8 @@ Le présent règlement est applicable, sous réserve des dispositions spéciales
 <sup>4</sup> Il faut enregistrer:
 
 - a) chaque début de travail;
-
 - b) chaque fin de travail;
-
 - c) chaque interruption de travail (sans les pauses de courte durée);
-
 - d) chaque absence comptant comme temps de travail.
 
 <sup>5</sup> L’employé appelé à sortir du bâtiment de service pour exercer ses fonctions n’a pas besoin d’enregistrer le temps d’absence, s’il regagne sa place de travail avant la fin du travail (à midi ou le soir) et qu’il reste sur le lieu ordinaire de travail.
@@ -200,7 +200,7 @@ Le présent règlement est applicable, sous réserve des dispositions spéciales
 
 <sup>5</sup> Le temps de pause effectif de midi ne compte pas comme temps de travail.
 
-<sup>6</sup> Si l’employé décide de participer à une formation interne désignée comme « facultative » par son chef de service, celle-ci est à prendre sur son temps libre.
+<sup>6</sup> Si l’employé décide de participer à une formation interne désignée comme "facultative" par son chef de service, celle-ci est à prendre sur son temps libre.
 
 #### Art. 14
 
@@ -227,13 +227,9 @@ Le présent règlement est applicable, sous réserve des dispositions spéciales
 <sup>1</sup> Selon les droits légaux, les absences suivantes comptent comme temps de travail:
 
 - a) maladie et accident;
-
 - b) maternité et adoption;
-
 - c) service militaire et service de la protection civile;
-
 - d) vacances, congés spéciaux et congés fidélité;
-
 - e) autres absences sur préavis du SRH.
 
 <sup>2</sup> Les jours d’absence comptent pour 8h24, les demi-jours pour 4h12.
@@ -284,9 +280,9 @@ Le présent règlement est applicable, sous réserve des dispositions spéciales
 
 <sup>1</sup> La différence entre les heures de travail dues quotidiennement et celles réellement effectuées peut s’exprimer en un crédit (solde positif) ou un débit (solde négatif).
 
-<sup>2</sup> Au 31 décembre de chaque année, le solde positif ne peut dépasser 60 heures et le solde négatif 20 heures.
+<sup>2</sup> Au 31 décembre de chaque année, le solde positif ne peut dépasser 60 heures et le solde négatif 20 heures. Les heures excédant 60 heures sont abandonnées sans indemnités ni compensations d'aucune sorte.
 
-<sup>3</sup> Au 31 décembre de chaque année, les heures excédant 60 heures sont abandonnées sans indemnités ni compensations d’aucune sorte, sauf si elles sont admises ultérieurement comme heures supplémentaires par le chef de service et qu’il est démontré que, pour des raisons de service, l’employé n’a pu compenser son solde auparavant.
+<sup>3</sup> …
 
 <sup>4</sup> Les chefs de service veillent à ce qu’un éventuel solde négatif supérieur à 20 heures au 31 décembre de chaque année soit compensé dans un délai raisonnable. Dans le cas contraire, le SRH pourra notamment procéder à une retenue sur salaire afin de compenser ce débit.
 
@@ -309,9 +305,7 @@ Le présent règlement est applicable, sous réserve des dispositions spéciales
 <sup>2</sup> Peuvent être considérées comme heures supplémentaires:
 
 - a) les heures excédant la durée quotidienne maximale de travail (sauf en cas de service extérieur et de cours de formation);
-
 - b) les heures accomplies entre 19 heures et 6 heures pour autant que les heures effectuées durant la journée dépassent la durée de travail réglementaire;
-
 - c) les heures accomplies le dimanche, les jours fériés et chômés (8h24).
 
 <sup>3</sup> Les heures supplémentaires sont ordonnées ou admises ultérieurement par le chef de service qui vise les justificatifs s’y rapportant.
@@ -340,7 +334,7 @@ Le présent règlement est applicable, sous réserve des dispositions spéciales
 
 <sup>5</sup> Au 31 décembre de chaque année, le solde ne peut dépasser 30 heures en positif et 10 heures en négatif pour l’employé travaillant à un taux d’activité égal ou inférieur à 50 pour cent.
 
-<sup>6</sup> Au 31 décembre de chaque année, les heures excédant les limites citées aux alinéas 4 et 5 sont abandonnées sans indemnités ni compensations d’aucune sorte, sauf si elles sont admises ultérieurement comme heures supplémentaires par le chef de service et qu’il est démontré que, pour des raisons de service, l’employé n’a pu compenser son solde auparavant.
+<sup>6</sup> Au 31 décembre de chaque année, les heures excédant les limites citées aux alinéas 4 et 5 sont abandonnées sans indemnités ni compensations d'aucune sorte.
 
 <sup>7</sup> Les chefs de service veillent à ce qu’un éventuel solde négatif supérieur à 20 heures, respectivement 10 heures, au 31 décembre de chaque année, soit compensé dans un délai raisonnable. Dans le cas contraire, le SRH pourra notamment procéder à une retenue sur salaire afin de compenser ce débit.
 
@@ -350,13 +344,13 @@ Le présent règlement est applicable, sous réserve des dispositions spéciales
 
 **Règles particulières**
 
-<sup>1</sup> Les chefs de service, les secrétaires généraux des états-majors et les délégués des départements gèrent librement leur temps de travail.
+<sup>1</sup> Les chefs de service, les secrétaires généraux des états-majors, les délégués des départements et les conseillers personnels des chefs de départements gèrent leur temps de travail en fonction de l’activité professionnelle.
 
 <sup>2</sup> Ils bénéficient de l’horaire de travail annuel et ne sont pas soumis au dispositif d’enregistrement du temps de travail.
 
-<sup>3</sup> Les heures de travail effectuées par les chefs de service et les secrétaires généraux des états-majors en sus de la durée du temps de référence ne donnent droit à aucune compensation financière et ne peuvent pas être comptabilisées.
+<sup>3</sup> Les heures de travail effectuées en sus de la durée du temps de référence ne donnent droit à aucune compensation financière et ne peuvent pas être comptabilisées.
 
-<sup>4</sup> Le chef de département peut, afin de compenser les éventuelles heures supplémentaires effectuées par les chefs de service et les secrétaires généraux des états-majors non soumis au dispositif d’enregistrement, et sur demande dûment motivée de ceux-ci, leur accorder jusqu’à cinq jours de vacances supplémentaires par année civile. La décision du chef de département est transmise au SRH pour enregistrement.
+<sup>4</sup> Le chef de département peut, afin de compenser les éventuelles heures supplémentaires effectuées par le personnel non soumis au dispositif d’enregistrement, et sur demande dûment motivée de celui-ci, lui accorder jusqu’à cinq jours de vacances supplémentaires par année civile. La décision du chef de département est transmise au SRH pour enregistrement.
 
 #### Art. 24
 
@@ -366,7 +360,7 @@ Le présent règlement est applicable, sous réserve des dispositions spéciales
 
 <sup>2</sup> Demeurent réservées les dispositions y relatives sur le traitement des employés.
 
-### Section 3: Horaire de travail de groupe
+## 3 Horaire de travail de groupe
 
 #### Art. 25
 
@@ -386,22 +380,20 @@ Le présent règlement est applicable, sous réserve des dispositions spéciales
 
 <sup>2</sup> Les employés sont entendus avant la prise de décision par le Conseil d’Etat.
 
-### Section 4: Dispositions transitoires et finales
+## 4 Dispositions transitoires et finales
 
 #### Art. 27
 
 **Sanctions**
 
-L’employé qui enfreint les dispositions du présent règlement encourt des mesures disciplinaires au sens des articles 29 et suivants de la loi sur le personnel de l’Etat du Valais du 19 novembre 2010.
+<sup>1</sup> L’employé qui enfreint les dispositions du présent règlement encourt des mesures disciplinaires au sens des articles 29 et suivants de la loi sur le personnel de l’Etat du Valais du 19 novembre 2010.
 
 #### Art. 28
 
 **Dispositions finales**
 
-<sup>1</sup> Le présent règlement est publié dans le Bulletin officiel pour entrer en vigueur le 1er janvier 2012.
+<sup>1</sup> Le présent règlement est publié dans le Bulletin officiel pour entrer en vigueur le 1<sup>er</sup> janvier 2012.
 
 <sup>2</sup> Il abroge toutes les dispositions et décisions antérieures en la matière qui lui sont contraires, notamment le règlement sur le temps de travail dans l’administration cantonale du 14 novembre 2001.
 
-Ainsi arrêté en séance du Conseil d’Etat à Sion, le 29 novembre 2011.
-
-Le président du Conseil d’Etat: Jacques Melly Le Chancelier d’Etat: Philipp Spörri
+RCV BO/Abl. 50/2011

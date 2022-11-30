@@ -1,24 +1,25 @@
 ---
 canton: VS
 number: "172.211"
-title: Reglement über die Arbeitszeit in der kantonalen Verwaltung
+title: "Reglement über die Arbeitszeit in der kantonalen Verwaltung *"
 short: RAZ
 language: de
-version: 2012-01-01
-corrected: 2017-09-01
-version_adopted: 2011-11-29
+version: 2022-12-01
+valid_until: 2023-12-31
+version_adopted: 2022-11-02
 adopted: 2011-11-29
 in_force: 2012-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/172.211"
-pdf: "https://lex.vs.ch/api/de/versions/662/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/de/versions/3082/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement über die Arbeitszeit in der kantonalen Verwaltung
 
-vom 29. November 2011
+(RAZ)
+
+vom 29.11.2011 (Stand 01.12.2022)
 
 Der Staatsrat des Kantons Wallis
 
@@ -30,25 +31,27 @@ eingesehen die Verordnung über die Besoldung der Angestellten des Staates Walli
 
 eingesehen die Verordnung über das Personal des Staates Wallis vom 22. Juni 2011;
 
-eingesehen das Reglement über die Weiterbildung des Personals der kantonalen Verwaltung (Weiterbildungsreglement) vom 26. Januar 2011; auf Antrag des Departements für Finanzen, Institutionen und Gesundheit,
+eingesehen das Reglement über die Weiterbildung des Personals der kantonalen Verwaltung vom 26. Januar 2011 (Weiterbildungsreglement);
 
-beschliesst:[^t-1]
+auf Antrag des Departements für Finanzen, Institutionen und Gesundheit,
 
-[^t-1]: Die im vorliegenden Reglement zur Bezeichnung von Personen, Status oder Funktion verwendeten Begriffe zielen gleichermassen auf Männer und Frauen ab
+beschliesst:[^ingress-1]
 
-### 1. Abschnitt: Allgemeine Bestimmungen
+[^ingress-1]: Die im vorliegenden Reglement zur Bezeichnung von Personen, Status oder Funktion verwendeten Begriffe zielen gleichermassen auf Männer und Frauen ab.
+
+## 1 Allgemeine Bestimmungen
 
 #### Art. 1
 
 **Gegenstand**
 
-Das vorliegende Reglement bezweckt die Festlegung der Arbeitszeit und die Kontrolle derselben.
+<sup>1</sup> Das vorliegende Reglement bezweckt die Festlegung der Arbeitszeit und die Kontrolle derselben.
 
 #### Art. 2
 
 **Geltungsbereich**
 
-Das vorliegende Reglement ist, unter Vorbehalt von Sonderbestimmungen, anwendbar auf die Angestellten der Kantonsverwaltung und der staatlichen Anstalten, auf das Korps der Kantonspolizei, auf das Administrativ- und Betriebspersonal der kantonalen Schulen, auf das administrative Personal und die Gerichtsschreiber der Gerichte und der Staatsanwaltschaft (nachfolgend die Angestellten).
+<sup>1</sup> Das vorliegende Reglement ist, unter Vorbehalt von Sonderbestimmungen, anwendbar auf die Angestellten der Kantonsverwaltung und der staatlichen Anstalten, auf das Korps der Kantonspolizei, auf das Administrativ- und Betriebspersonal der kantonalen Schulen, auf das administrative Personal und die Gerichtsschreiber der Gerichte und der Staatsanwaltschaft (nachfolgend: die Angestellten).
 
 #### Art. 3
 
@@ -56,7 +59,7 @@ Das vorliegende Reglement ist, unter Vorbehalt von Sonderbestimmungen, anwendbar
 
 <sup>1</sup> Die jährlich zu leistende Anzahl an Stunden dient als Berechnungsgrundlage.
 
-<sup>2</sup> Die Dienststelle für Personalmanagement (nachfolgend DPM) gibt den Dienstchefs die jährlich zu leistenden Sollstunden gemäss dem vom Staatsrat genehmigten Jahresarbeitsplan bekannt.
+<sup>2</sup> Die Dienststelle für Personalmanagement (nachfolgend: DPM) gibt den Dienstchefs die jährlich zu leistenden Sollstunden gemäss dem vom Staatsrat genehmigten Jahresarbeitsplan bekannt.
 
 <sup>3</sup> Die Stunden, welche die jährliche Arbeitszeitdauer bilden, können in weniger als zwölf Monaten geleistet werden.
 
@@ -90,7 +93,7 @@ Das vorliegende Reglement ist, unter Vorbehalt von Sonderbestimmungen, anwendbar
 
 <sup>5</sup> Der Zeitwirtschaftsverantwortliche wird beauftragt, die Arbeitszeit der Mitarbeiter seiner Dienststelle zu aktualisieren, die vom Dienstchef gefällten Entscheide anzuwenden und ihn bei Missbrauchsfällen oder Nichtbefolgen des Reglements zu informieren.
 
-### 2. Abschnitt: Jahresarbeitszeit
+## 2 Jahresarbeitszeit
 
 #### Art. 6
 
@@ -98,9 +101,11 @@ Das vorliegende Reglement ist, unter Vorbehalt von Sonderbestimmungen, anwendbar
 
 <sup>1</sup> Die wöchentliche Arbeitszeit wird grundsätzlich von Montag bis Freitag geleistet, mit Genehmigung des Dienstchefs auch am Samstag.
 
-<sup>2</sup> Die normale Arbeitszeit beträgt 8 Std. 24 pro Tag (indsutrielle Zeit 8.4 Std.) bzw. 42 Stunden pro Woche.
+<sup>2</sup> Die normale Arbeitszeit beträgt 8 Std. 24 pro Tag (indsutrielle Zeit 8.4 Std.) beziehungsweise 42 Stunden pro Woche.
 
-<sup>3</sup> Die DPM ist die Bezugsinstanz für die Arbeitszeit.
+<sup>2<sup>bis</sup></sup> Für Angestellte, die das flexible Rentenalter erreicht haben, wird die Wochenarbeitszeit pro rata temporis um eine Stunde herabgesetzt.
+
+<sup>3</sup> Die Dienststelle für Personalmanagement ist die Bezugsinstanz für die Arbeitszeit.
 
 #### Art. 7
 
@@ -129,11 +134,8 @@ Das vorliegende Reglement ist, unter Vorbehalt von Sonderbestimmungen, anwendbar
 <sup>4</sup> Erfasst werden muss:
 
 - a) jeder Arbeitsbeginn;
-
 - b) jedes Arbeitsende;
-
 - c) jede Arbeitsunterbrechung (mit Ausnahme der kurzen Arbeitspausen);
-
 - d) jede als Arbeitszeit geltende Abwesenheit.
 
 <sup>5</sup> Verlässt der Angestellte das Dienstgebäude für eine dienstliche Verrichtung, so braucht er die Abwesenheit nicht zu erfassen, sofern er vor Arbeitsschluss (Mittag oder Abend) an seinen Arbeitsplatz zurückkehrt und an seinem ordentlichen Arbeitsort verbleibt.
@@ -172,7 +174,7 @@ Das vorliegende Reglement ist, unter Vorbehalt von Sonderbestimmungen, anwendbar
 
 <sup>1</sup> Bei Aussendienst setzt sich die Arbeitszeit grundsätzlich aus der tatsächlich geleisteten Arbeitszeit und der anrechenbaren Reisezeit zusammen, höchstens aber bis zur maximalen täglichen Arbeitszeit (10 Std. 24).
 
-<sup>2</sup> Als anrechenbare Reisezeit gilt die Fahrzeit zwischen Reiseziel und dem normalen Dienstort bzw. dem Wohnort, wenn dieser dem Reiseziel näher liegt.
+<sup>2</sup> Als anrechenbare Reisezeit gilt die Fahrzeit zwischen Reiseziel und dem normalen Dienstort beziehungsweise dem Wohnort, wenn dieser dem Reiseziel näher liegt.
 
 <sup>3</sup> Bei Anwesenheit am Arbeitsort vor und/oder nach dem Aussendienst wird die tatsächlich geleistete Arbeitszeit zum Total der im Aussendienst geleisteten Stunden hinzugezählt, höchstens aber bis zur maximalen täglichen Arbeitszeit (10 Std. 24).
 
@@ -198,7 +200,7 @@ Das vorliegende Reglement ist, unter Vorbehalt von Sonderbestimmungen, anwendbar
 
 <sup>5</sup> Die tatsächliche Mittagspause darf nicht als Arbeitszeit angerechnet werden.
 
-<sup>6</sup> Beschliesst der Angestellte an einer internen Weiterbildung, die von seinem Dienstchef als „fakultativ“ bezeichnet wird, teilzunehmen, hat dies in seiner Freizeit zu geschehen.
+<sup>6</sup> Beschliesst der Angestellte an einer internen Weiterbildung, die von seinem Dienstchef als "fakultativ" bezeichnet wird, teilzunehmen, hat dies in seiner Freizeit zu geschehen.
 
 #### Art. 14
 
@@ -225,13 +227,9 @@ Das vorliegende Reglement ist, unter Vorbehalt von Sonderbestimmungen, anwendbar
 <sup>1</sup> Im Umfang der gesetzlichen Ansprüche gelten folgende Abwesenheiten als Arbeitszeit:
 
 - a) Krankheit und Unfall;
-
 - b) Mutterschaft und Adoption;
-
 - c) Militär- und Zivilschutzdienst;
-
 - d) Ferien, Sonderurlaub und Diensttreueurlaub;
-
 - e) andere Absenzen auf Vormeinung der DPM.
 
 <sup>2</sup> Ganze Abwesenheitstage zählen 8 Std. 24, halbe 4 Std. 12.
@@ -282,9 +280,9 @@ Das vorliegende Reglement ist, unter Vorbehalt von Sonderbestimmungen, anwendbar
 
 <sup>1</sup> Die Differenz zwischen den täglich zu leistenden und den tatsächlich geleisteten Arbeitsstunden kann ein ständiges Zeitguthaben (positiver Saldo) oder eine ständige Zeitschuld (negativer Saldo) aufweisen.
 
-<sup>2</sup> Am 31. Dezember jeden Jahres dürfen der positive Saldo 60 Stunden und der negative Saldo 20 Stunden nicht übersteigen.
+<sup>2</sup> Am 31. Dezember jeden Jahres dürfen der positive Saldo 60 Stunden und der negative Saldo 20 Stunden nicht übersteigen. Arbeitsstunden, welche 60 Stunden übersteigen, verfallen ohne Entschädigung oder Ausgleich jeglicher Art.
 
-<sup>3</sup> Am 31. Dezember jeden Jahres verfallen Arbeitsstunden, welche 60 Stunden übersteigen, ohne Entschädigung oder Ausgleich jeglicher Art, ausser wenn sie nachträglich vom Dienstchef als Überzeit anerkannt werden und wenn aufgezeigt wird, dass der Angestellte sie aus dienstlichen Gründen nicht vorgängig kompensieren konnte.
+<sup>3</sup> …
 
 <sup>4</sup> Die Dienstchefs haben dafür zu sorgen, dass ein allfälliger negativer Saldo, der am 31. Dezember 20 Stunden übersteigt, innert nützlicher Frist ausgeglichen wird. Andernfalls ist die DPM insbesondere dazu befugt, zur Kompensation dieser Schuld einen Lohnabzug vorzunehmen.
 
@@ -307,18 +305,14 @@ Das vorliegende Reglement ist, unter Vorbehalt von Sonderbestimmungen, anwendbar
 <sup>2</sup> Als Überzeit gelten:
 
 - a) die Arbeitsstunden, welche die tägliche Höchstarbeitszeit übersteigen (ausser bei Aussendienst und Ausbildungskursen);
-
 - b) die zwischen 19 Uhr und 6 Uhr geleisteten Arbeitsstunden, soweit die während des Tages tatsächlich geleisteten Arbeitsstunden die reglementarische Arbeitszeit übersteigen (ausser bei Aussendienst und Ausbildungskursen);
-
 - c) die an Sonntagen-, Feiertagen und arbeitsfreien Tagen geleisteten Arbeitsstunden (8 Std. 24).
 
 <sup>3</sup> Überzeit wird durch den Dienstchef angeordnet oder nachträglich anerkannt, welcher auch die diesbezüglichen Belege visiert.
 
 <sup>4</sup> Überzeit muss in Form von Tagen, Halbtagen oder einzelnen Stunden kompensiert werden.
 
-<sup>5</sup> Bei Kompensation in Form von Tagen oder Halbtagen werden 8 Std. 24 bzw.
-
-4 Std. 12 vom Saldo der Überzeit in Abzug gebracht. Bei Kompensation durch einzelne Stunden werden nur die zur Erbringung der ordentlichen täglichen Arbeitszeit fehlenden Stunden abgezogen.
+<sup>5</sup> Bei Kompensation in Form von Tagen oder Halbtagen werden 8 Std. 24 beziehungsweise 4 Std. 12 vom Saldo der Überzeit in Abzug gebracht. Bei Kompensation durch einzelne Stunden werden nur die zur Erbringung der ordentlichen täglichen Arbeitszeit fehlenden Stunden abgezogen.
 
 <sup>6</sup> Der Angestellte kann Überzeit dazu verwenden, einen negativen Saldo der jährlichen Arbeitszeit zu kompensieren.
 
@@ -340,9 +334,9 @@ Das vorliegende Reglement ist, unter Vorbehalt von Sonderbestimmungen, anwendbar
 
 <sup>5</sup> Am 31. Dezember jeden Jahres darf für jene Angestellten, deren Beschäftigungsgrad 50 Prozent oder weniger beträgt, der positive Saldo 30 Stunden und der negative Saldo 10 Stunden nicht überschreiten.
 
-<sup>6</sup> Am 31. Dezember jeden Jahres verfallen Arbeitsstunden, welche die in den Absätzen 4 und 5 festgelegten Grenzwerte übersteigen, ohne Entschädigung oder Ausgleich jeglicher Art, ausser wenn sie nachträglich vom Dienstchef als Überzeit anerkannt werden und wenn aufgezeigt wird, dass der Angestellte sie aus dienstlichen Gründen nicht vorgängig kompensieren konnte.
+<sup>6</sup> Am 31. Dezember jeden Jahres verfallen Arbeitsstunden, welche die in den Absätzen 4 und 5 festgelegten Grenzwerte übersteigen, ohne Entschädigung oder Ausgleich jeglicher Art.
 
-<sup>7</sup> Die Dienstchefs haben dafür zu sorgen, dass ein allfälliger negativer Saldo, der am 31. Dezember 20 Stunden bzw. 10 Stunden übersteigt, innert nützlicher Frist ausgeglichen wird. Andernfalls ist die DPM insbesondere dazu befugt, zur Kompensation dieser Schuld einen Lohnabzug vorzunehmen.
+<sup>7</sup> Die Dienstchefs haben dafür zu sorgen, dass ein allfälliger negativer Saldo, der am 31. Dezember 20 Stunden beziehungsweise 10 Stunden übersteigt, innert nützlicher Frist ausgeglichen wird. Andernfalls ist die DPM insbesondere dazu befugt, zur Kompensation dieser Schuld einen Lohnabzug vorzunehmen.
 
 <sup>8</sup> Der Dienstchef achtet in Zusammenarbeit mit der DPM darauf, dass die Überzeit kompensiert wird. Überzeit, welche 100 Stunden übersteigt, wird, unabhängig vom Beschäftigungsgrad, ohne Entschädigung und Umbuchung jährlich am 31. Dezember gestrichen.
 
@@ -350,13 +344,13 @@ Das vorliegende Reglement ist, unter Vorbehalt von Sonderbestimmungen, anwendbar
 
 **Besondere Bestimmungen**
 
-<sup>1</sup> Die Dienstchefs, die Generalsekretäre des Führungsstabes und die Departementsdelegierten verwalten ihre Arbeitszeit selbständig.
+<sup>1</sup> Die Dienstchefs, die Generalsekretäre des Führungsstabes, die Departementsdelegierten und die persönlichen Mitarbeiter der Departementsvorsteher verwalten ihre Arbeitszeit entsprechend der beruflichen Tätigkeit.
 
 <sup>2</sup> Sie kommen in den Genuss der Jahresarbeitszeit und unterstehen keiner Zeitererfassungspflicht.
 
-<sup>3</sup> Die Arbeitsstunden der Dienstchefs und der Generalsekretäre des Führungsstabes, welche die Referenzarbeitszeit übersteigen, geben keinen Anspruch auf jegliche finanzielle Entschädigung.
+<sup>3</sup> Die Arbeitsstunden, welche die Referenzarbeitszeit übersteigen, geben keinen Anspruch auf jegliche finanzielle Entschädigung und können nicht verbucht werden.
 
-<sup>4</sup> Zur Kompensation von allfälliger Überzeit von Dienstchefs und Generalsekretären im Führungsstab, die dem Kontrollsystem nicht unterstellt sind, kann ihnen der Departementsvorsteher auf ihr hinreichend begründetes Gesuch hin bis zu fünf zusätzliche Ferientage pro Kalenderjahr gewähren. Der Entscheid des Departementsvorstehers wird zur Erfassung an die DPM übermittelt.
+<sup>4</sup> Der Departementsvorsteher kann zum Ausgleich allfälliger Überstunden des nicht registrierungspflichtigen Personals und auf dessen begründeten Antrag hin bis zu fünf zusätzliche Ferientage pro Kalenderjahr gewähren. Der Entscheid des Departementsvorstehers wird zur Registrierung an die DPM weitergeleitet.
 
 #### Art. 24
 
@@ -366,7 +360,7 @@ Das vorliegende Reglement ist, unter Vorbehalt von Sonderbestimmungen, anwendbar
 
 <sup>2</sup> Vorbehalten bleiben die Bestimmungen über die Besoldung der Angestellten.
 
-### 3. Abschnitt: Gruppenarbeitszeit
+## 3 Gruppenarbeitszeit
 
 #### Art. 25
 
@@ -386,13 +380,13 @@ Das vorliegende Reglement ist, unter Vorbehalt von Sonderbestimmungen, anwendbar
 
 <sup>2</sup> Vor der Entscheidfällung durch den Staatsrat werden die Angestellten angehört.
 
-### 4. Abschnitt: Übergangs- und Schlussbestimmungen
+## 4 Übergangs- und Schlussbestimmungen
 
 #### Art. 27
 
 **Sanktionen**
 
-Der Angestellte, der die Bestimmungen dieses Reglements missachtet, unterliegt den disziplinarischen Massnahmen im Sinne der Artikel 29 fortfolgende des Gesetzes über die Angestellten des Staates Wallis vom 19. November 2010.
+<sup>1</sup> Der Angestellte, der die Bestimmungen dieses Reglements missachtet, unterliegt den disziplinarischen Massnahmen im Sinne der Artikel 29 fortfolgende des Gesetzes über die Angestellten des Staates Wallis vom 19. November 2010.
 
 #### Art. 28
 
@@ -402,6 +396,4 @@ Der Angestellte, der die Bestimmungen dieses Reglements missachtet, unterliegt d
 
 <sup>2</sup> Es hebt alle vorgängigen, ihm widersprechenden Bestimmungen und Entscheide auf, insbesondere das Reglement über die Arbeitszeit in der kantonalen Verwaltung vom 14. November 2001.
 
-So beschlossen im Staatsrat zu Sitten, den 29. November 2011.
-
-Der Präsident des Staatsrates: Jacques Melly Der Staatskanzler: Philipp Spörri
+CSW BO/Abl. 50/2011
