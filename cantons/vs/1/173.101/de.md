@@ -3,20 +3,19 @@ canton: VS
 number: "173.101"
 title: Reglement der Staatsanwaltschaft des Kantons Wallis
 language: de
-version: 2021-09-01
-valid_until: 2022-11-30
-version_adopted: 2021-09-01
+version: 2022-12-01
+version_adopted: 2022-12-01
 adopted: 2011-01-03
 in_force: 2011-01-03
 url: "https://lex.vs.ch/app/de/texts_of_law/173.101"
-pdf: "https://lex.vs.ch/api/de/versions/2983/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3101/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement der Staatsanwaltschaft des Kantons Wallis
 
-vom 03.01.2011 (Stand 01.09.2021)
+vom 03.01.2011 (Stand 01.12.2022)
 
 Das Büro der Staatsanwaltschaft
 
@@ -288,6 +287,18 @@ beschliesst:
 <sup>8</sup> Für dringende Einsätze (Pikett-Einsätze) kann das administrative Personal jederzeit zur Arbeit aufgeboten werden.
 
 <sup>9</sup> Für das administrative Personal gelten die kantonalen Bestimmungen über die Beamten und Angestellten des Staates Wallis.
+
+#### Art. 20a
+
+**Schutz gegen Drohungen und Angriffe sowie Rechtsschutz**
+
+<sup>1</sup> Das Büro der Staatsanwaltschaft trifft alle notwendigen Massnahmen zum Schutz von Magistraten und Mitarbeitern, die aufgrund vorschriftsmässiger Ausübung ihrer Funktion Drohungen oder Angriffen ausgesetzt sind.
+
+<sup>2</sup> Auf Antrag können die Verfahrenskosten und Anwaltshonorare, die einem Magistraten oder einem Mitarbeiter aufgrund eines zivil-, straf-, verwaltungs- oder disziplinarrechtlichen Verfahrens entstehen, das von Dritten gegen ihn wegen Tatsachen im Zusammenhang mit seiner beruflichen Tätigkeit eingeleitet wurde, von der Staatsanwaltschaft übernommen werden. Dasselbe gilt, wenn die angemessene Verteidigung der Interessen eines Magistraten oder Mitarbeiters, der bedroht oder angegriffen wurde, die Einleitung eines Gerichtsverfahrens erfordert.
+
+<sup>3</sup> Der Magistrat oder Mitarbeiter richtet sein Gesuch um Kostenübernahme an das Büro der Staatsanwaltschaft. Das Gesuch enthält insbesondere eine detaillierte Beschreibung des Sachverhalts sowie sämtliche zweckdienlichen Unterlagen, andernfalls tritt das Büro der Staatsanwaltschaft darauf nicht ein. Die Übernahme der Verfahrenskosten und Anwaltshonorare erfolgt in der Regel in Form von Vorschüssen während des Verfahrens gestützt auf einen Entscheid des Büros der Staatsanwaltschaft. Die Magistraten oder Mitarbeiter informieren das Büro der Staatsanwaltschaft über den Verlauf des Verfahrens und übermitteln ihm alle Verfügungen, Urteile oder Entscheide, die im Verfahren ergangen sind, für das die Staatsanwaltschaft die Verfahrenskosten und Anwaltshonorare übernimmt.
+
+<sup>4</sup> Die Kosten dieses Rechtsschutzes werden dem Magistraten oder Mitarbeiter ganz oder teilweise auferlegt, wenn er seine Amtspflichten vorsätzlich oder grobfahrlässig verletzt hat.
 
 ## 3 Aufsicht und einheitliche Kriminalitätsbekämpfung
 

@@ -3,20 +3,19 @@ canton: VS
 number: "173.101"
 title: Règlement du ministère public du canton du Valais
 language: fr
-version: 2021-09-01
-valid_until: 2022-11-30
-version_adopted: 2021-09-01
+version: 2022-12-01
+version_adopted: 2022-12-01
 adopted: 2011-01-03
 in_force: 2011-01-03
 url: "https://lex.vs.ch/app/fr/texts_of_law/173.101"
-pdf: "https://lex.vs.ch/api/fr/versions/2983/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3101/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
 # Règlement du ministère public du canton du Valais
 
-du 03.01.2011 (état 01.09.2021)
+du 03.01.2011 (état 01.12.2022)
 
 Le bureau du ministère public du canton du Valais
 
@@ -288,6 +287,18 @@ arrête:
 <sup>8</sup> En cas d'engagement commandé par l'urgence (permanence), il peut en tout temps être fait appel au personnel administratif.
 
 <sup>9</sup> Les dispositions cantonales régissant le statut des fonctionnaires et les employés de l'Etat du Valais s'appliquent au personnel administratif.
+
+#### Art. 20a
+
+**Protection contre les menaces ou attaques et assistance juridique**
+
+<sup>1</sup> Le bureau du ministère public prend toutes les mesures nécessaires à assurer la protection des magistrats et collaborateurs qui font l'objet de menaces ou d'attaques pour des motifs liés à l'exercice conforme de leur fonction.
+
+<sup>2</sup> Sur requête, les frais de procédure et honoraires d'avocat à la charge d'un magistrat ou d’un collaborateur en raison d'une procédure de nature civile, pénale, administrative ou disciplinaire initiée contre lui par des tiers pour des faits en relation avec son activité professionnelle peuvent être pris en charge par le ministère public. Il en est de même si la défense adéquate des intérêts d'un magistrat ou collaborateur, menacé ou agressé, nécessite que celui-ci intente une action en justice.
+
+<sup>3</sup> Le magistrat ou collaborateur adresse sa requête de prise en charge au bureau du ministère public, laquelle contient, notamment, la description détaillée des faits, ainsi que tout document utile, à défaut de quoi le bureau du ministère public n'entrera pas en matière. La prise en charge des frais de procédure et honoraires d’avocat intervient en principe sous forme d’avances en cours de procédure, sur la base d’une décision du bureau du ministère public. Le magistrat ou le collaborateur renseigne le bureau du ministère public sur le déroulement des procédures et lui transmet toute ordonnance, jugement ou arrêt rendu dans la procédure dont le ministère public prend en charge les frais de procédure et honoraires d'avocat.
+
+<sup>4</sup> Les frais d'assistance sont mis totalement ou partiellement à la charge du magistrat ou collaborateur si celui-ci a violé intentionnellement ou par négligence grave ses devoirs de fonction.
 
 ## 3 Surveillance et lutte uniforme contre la criminalité
 
