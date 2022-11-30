@@ -4,13 +4,13 @@ number: "111.12"
 title: Verordnung über das kantonale Gebäude- und Wohnungsregister
 short: VkGWR
 language: de
-version: 2021-11-01
-valid_until: 2022-11-30
-version_adopted: 2021-10-26
+version: 2022-12-01
+valid_until: 2024-05-31
+version_adopted: 2022-11-29
 adopted: 2021-10-26
 in_force: 2021-11-01
 url: "https://bl.clex.ch/app/de/texts_of_law/111.12"
-pdf: "https://bl.clex.ch/api/de/versions/3121/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3917/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3121/pdf_file"
 
 (VkGWR)
 
-Vom 26.10.2021 (Stand 01.11.2021)
+Vom 26.10.2021 (Stand 01.12.2022)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -64,7 +64,7 @@ beschliesst:
 - b. Schätzwert der Gebäude;
 - c. Projektkosten.
 
-<sup>2</sup> Die im kGWR geführten Informationen mit den zugehörigen Merkmalen sind im Anhang I aufgeführt.
+<sup>2</sup> Die im kGWR geführten Informationen mit den zugehörigen Merkmalen sind im Anhang 1 aufgeführt.
 
 ## 2 Datenmeldungen ans kGWR
 
@@ -74,13 +74,13 @@ beschliesst:
 
 <sup>1</sup> Meldepflichtige Institutionen für die Gebäude- und Wohnungsdaten des kGWR sind:
 
-- a. das Statistische Amt;
+- a. das Amt für Daten und Statistik;
 - b. das Amt für Geoinformation;
 - c. die Baubewilligungsbehörde.
 
 <sup>2</sup> Meldepflichtige Institutionen für die Vervollständigung und Nachführung der Gebäude- und Wohnungsdaten des kGWR sind:
 
-- a. das Statistische Amt;
+- a. das Amt für Daten und Statistik;
 - b. das Amt für Geoinformation;
 - c. die Baubewilligungsbehörde;
 - d. das Amt für Umweltschutz und Energie;
@@ -88,7 +88,7 @@ beschliesst:
 - f. die Basellandschaftliche Gebäudeversicherung;
 - g. die Einwohnergemeinden.
 
-<sup>3</sup> Die meldepflichtigen Institutionen liefern die Daten gemäss Anhang II.
+<sup>3</sup> Die meldepflichtigen Institutionen liefern die Daten gemäss Anhang 2.
 
 #### § 5
 
@@ -96,13 +96,13 @@ beschliesst:
 
 <sup>1</sup> Die meldepflichtigen Institutionen gemäss § 4 Abs. 1 melden die Daten verzugslos.
 
-<sup>2</sup> Diejenigen gemäss § 4 Abs. 2 melden die Daten gemäss den Vereinbarungen zwischen ihnen und dem Statistischen Amt, jedoch mindestens einmal pro Kalenderjahr.
+<sup>2</sup> Diejenigen gemäss § 4 Abs. 2 melden die Daten gemäss den Vereinbarungen zwischen ihnen und dem Amt für Daten und Statistik, jedoch mindestens einmal pro Kalenderjahr.
 
 #### § 6
 
 **Anforderungen (§ 17d Abs. 2 Bst. c [ARG](https://bl.clex.ch/data/111/de/art17c))**
 
-<sup>1</sup> Die Anforderungen an die elektronischen Datenmeldungen werden vom Statistischen Amt in Absprache mit der meldepflichtigen Institution festgelegt.
+<sup>1</sup> Die Anforderungen an die elektronischen Datenmeldungen werden vom Amt für Daten und Statistik in Absprache mit der meldepflichtigen Institution festgelegt.
 
 ## 3 Datenmeldungen des kGWR
 
@@ -120,7 +120,7 @@ beschliesst:
 
 **Öffentlich zugängliche Datenabfrage (§ 17f Abs. 1 und 4 Bst. a [ARG](https://bl.clex.ch/data/111/de/art173))**
 
-<sup>1</sup> Die Daten aus dem kGWR gemäss Anhang III sind der Öffentlichkeit voraussetzungslos zugänglich.
+<sup>1</sup> Die Daten aus dem kGWR gemäss Anhang 3 sind der Öffentlichkeit voraussetzungslos zugänglich.
 
 <sup>2</sup> Die Daten der öffentlichen Datenabfrage werden über das kantonale Geoportal zugänglich gemacht.
 
@@ -128,7 +128,7 @@ beschliesst:
 
 **Dauernde Datenabfrage (§ 17f Abs. 2 und 4 Bst. a [ARG](https://bl.clex.ch/data/111/de/art17e))**
 
-<sup>1</sup> Die kantonalen Stellen, die kantonalen öffentlich-rechtlichen Anstalten, die Einwohnergemeinden sowie Dritte, die im Anhang IV b aufgeführt sind, dürfen dauernd die Daten gemäss den Anhängen IV a und IV b aus dem kGWR abfragen oder sich systematisch melden lassen (dauernde Datenabfrage).
+<sup>1</sup> Die kantonalen Stellen, die kantonalen öffentlich-rechtlichen Anstalten, die Einwohnergemeinden sowie Dritte, die im Anhang 4b aufgeführt sind, dürfen dauernd die Daten gemäss den Anhängen 4a und 4b aus dem kGWR abfragen oder sich systematisch melden lassen (dauernde Datenabfrage).
 
 <sup>2</sup> Die Daten der dauernden Datenabfrage können über das kantonale Geoportal abgefragt werden.
 
@@ -156,11 +156,11 @@ beschliesst:
 
 **Gesuch um einmalige Datenabfrage (§ 17f Abs. 3 und 4 Bst. b [ARG](https://bl.clex.ch/data/111/de/art17e))**
 
-<sup>1</sup> Das Gesuch der Stellen und Dritten gemäss § 17f Abs. 3 ARG, einmalig Daten aus dem kGWR abzufragen (einmalige Datenabfrage), ist dem Statistischen Amt einzureichen.
+<sup>1</sup> Das Gesuch der Stellen und Dritten gemäss § 17f Abs. 3 ARG, einmalig Daten aus dem kGWR abzufragen (einmalige Datenabfrage), ist dem Amt für Daten und Statistik einzureichen.
 
 <sup>2</sup> Die einmalige Datenabfrage ist unter Vorbehalt von Abs. 3 kostenlos.
 
-<sup>3</sup> Das Statistische Amt kann Gesuchstellenden Daten aus dem kGWR individuell aufbereiten. Der Arbeitsaufwand ist bis zu 1 Stunde kostenlos. Für jede weitere Stunde wird eine Gebühr von CHF 150.– erhoben.
+<sup>3</sup> Das Amt für Daten und Statistik kann Gesuchstellenden Daten aus dem kGWR individuell aufbereiten. Der Arbeitsaufwand ist bis zu 1 Stunde kostenlos. Für jede weitere Stunde wird eine Gebühr von CHF 150.– erhoben.
 
 ## 5 Aktualisierung der Daten aus dem Gebäude- und Wohnungsregister (GWR) bei den Einwohnergemeinden
 
