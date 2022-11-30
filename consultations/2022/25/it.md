@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Revisione parziale della legge federale sui prodotti del tabacco e sulle sigarette elettroniche (LPTab, FF 2021 2327)"
 document: Progetto posto in consultazione
 language: it
