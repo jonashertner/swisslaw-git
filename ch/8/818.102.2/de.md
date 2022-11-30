@@ -3,11 +3,11 @@ sr: "818.102.2"
 title: "Verordnung vom 4. Juni 2021 über Zertifikate zum Nachweis einer Covid-19-Impfung, einer Covid-19-Genesung oder eines Covid-19-Testergebnisses (Covid-19-Verordnung Zertifikate)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/325"
 language: de
-version: 2022-10-10
+version: 2022-12-01
 adopted: 2021-06-04
 in_force: 2021-06-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20221010/de/xml/fedlex-data-admin-ch-eli-cc-2021-325-20221010-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20221010/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/325/20221201/de/xml/fedlex-data-admin-ch-eli-cc-2021-325-20221201-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20221201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/325/20221010/de"
 
 (Covid-19-Verordnung Zertifikate)
 
-vom 4. Juni 2021 (Stand am 10. Oktober 2022)
+vom 4. Juni 2021 (Stand am 1. Dezember 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -1007,7 +1007,7 @@ Anhang 5[^t-6]
 
 ## Liste der anerkannten ausländischen Zertifikate
 
-[^t-6]: Fassung gemäss Ziff. I der V vom 7. Juli 2021 ([AS 2021 428](https://fedlex.data.admin.ch/eli/oc/2021/428)). Bereinigt gemäss Ziff. II der V vom 17. Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)), vom 19. Jan. 2022 (Covid-Genesungsertifikate für Antigen-Schnelltests) ([AS 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20)), vom 27. April 2022 (EU-kompatible Covid-19-Genesungszertifikate für Antigen-Schnelltests) ([AS 2022 258](https://fedlex.data.admin.ch/eli/oc/2022/258)), vom 10. Juni 2022 ([AS 2022 374](https://fedlex.data.admin.ch/eli/oc/2022/374), [382](https://fedlex.data.admin.ch/eli/oc/2022/382)) und Ziff. I der V des EDI vom 12. Aug. 2022, in Kraft seit 22. Aug. 2022 ([AS 2022 446](https://fedlex.data.admin.ch/eli/oc/2022/446)).
+[^t-6]: Fassung gemäss Ziff. I der V vom 7. Juli 2021 ([AS 2021 428](https://fedlex.data.admin.ch/eli/oc/2021/428)). Bereinigt gemäss Ziff. II der V vom 17. Sept. 2021 ([AS 2021 564](https://fedlex.data.admin.ch/eli/oc/2021/564)), vom 19. Jan. 2022 (Covid-Genesungsertifikate für Antigen-Schnelltests) ([AS 2022 20](https://fedlex.data.admin.ch/eli/oc/2022/20)), vom 27. April 2022 (EU-kompatible Covid-19-Genesungszertifikate für Antigen-Schnelltests) ([AS 2022 258](https://fedlex.data.admin.ch/eli/oc/2022/258)), vom 10. Juni 2022 ([AS 2022 374](https://fedlex.data.admin.ch/eli/oc/2022/374), [382](https://fedlex.data.admin.ch/eli/oc/2022/382)), Ziff. I der V des EDI vom 12. Aug. 2022 ([AS 2022 446](https://fedlex.data.admin.ch/eli/oc/2022/446)) und vom 11. Nov. 2022, in Kraft seit 1. Dez. 2022 ([AS 2022 678](https://fedlex.data.admin.ch/eli/oc/2022/678)).
 
 ### 1 Anerkannte Zertifikate, die von einem Mitgliedstaat der EU oder der EFTA ausgestellt wurden
 
@@ -1071,6 +1071,7 @@ Anhang 5[^t-6]
 
   Anerkannt sind die Impfzertifikate, die in Übereinstimmung mit der Verordnung (EU) 2021/953 interoperabel sind und die von den folgenden Staaten und Regionen ausgestellt wurden:
 
+  - – Brasilien
   - – Ecuador
   - – Indonesien
   - – Jordanien
