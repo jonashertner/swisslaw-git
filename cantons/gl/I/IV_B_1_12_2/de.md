@@ -3,20 +3,20 @@ canton: GL
 number: IV B/1/12/2
 title: Interkantonale Vereinbarung über die Anerkennung von Ausbildungsabschlüssen
 language: de
-version: 2022-02-01
-valid_until: 2022-11-30
-version_adopted: 2021-10-21
+version: 2022-12-01
+valid_until: 2025-06-30
+version_adopted: 2022-11-24
 adopted: 1993-02-18
 in_force: 1995-01-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/IV-B.1.12.2"
-pdf: "https://gesetze.gl.ch/api/de/versions/2252/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2579/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Interkantonale Vereinbarung über die Anerkennung von Ausbildungsabschlüssen
 
-Vom 18.02.1993 (Stand 01.02.2022)
+Vom 18.02.1993 (Stand 01.12.2022)
 
 (Beschlossen von der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren)
 
@@ -228,6 +228,7 @@ Vom 18.02.1993 (Stand 01.02.2022)
 - b. Diplomierte Logopädin und diplomierter Logopäde (EDK)
 - c. …
 - d. Master of Science FH in Ergotherapie
+- d1. Master of Science FH in Ernährung und Diätetik
 - e. Master of Science FH in Hebamme
 - f. Master of Science FH in Physiotherapie
 - g. …
