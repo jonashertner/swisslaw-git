@@ -4,13 +4,13 @@ number: "114.1.11"
 title: Reglement über das freiburgische Bürgerrecht
 short: BRR
 language: de
-version: 2022-01-01
-valid_until: 2022-11-30
-version_adopted: 2021-11-03
+version: 2022-12-01
+valid_until: 2024-11-30
+version_adopted: 2022-11-08
 adopted: 2018-03-19
 in_force: 2018-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/114.1.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/6959/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7623/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Freiburgisches Bürgerrecht – R
 
 (BRR)
 
-vom 19.03.2018 (Fassung in Kraft getreten am 01.01.2022)
+vom 19.03.2018 (Fassung in Kraft getreten am 01.12.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -335,7 +335,7 @@ beschliesst:
 
 <sup>1</sup> Die Entscheide der Kantonsbehörde über Einbürgerung, Wiedereinbürgerung oder Entlassung aus dem Bürgerrecht werden namentlich folgenden Stellen mitgeteilt:
 
-- a) dem Amt für Bevölkerungsschutz und Militär;
+- a) dem Amt für zivile Sicherheit und Militär;
 - b) dem Amt für Bevölkerung und Migration;
 - c) der Wohnsitzgemeinde;
 - d) den zuständigen Zivilstandsbehörden.

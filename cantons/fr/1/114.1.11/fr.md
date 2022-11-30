@@ -4,13 +4,13 @@ number: "114.1.11"
 title: Règlement sur le droit de cité fribourgeois
 short: RDCF
 language: fr
-version: 2022-01-01
-valid_until: 2022-11-30
-version_adopted: 2021-11-03
+version: 2022-12-01
+valid_until: 2024-11-30
+version_adopted: 2022-11-08
 adopted: 2018-03-19
 in_force: 2018-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/114.1.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6959/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7623/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Droit de cité fribourgeois – R
 
 (RDCF)
 
-du 19.03.2018 (version entrée en vigueur le 01.01.2022)
+du 19.03.2018 (version entrée en vigueur le 01.12.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -335,7 +335,7 @@ Arrête:
 
 <sup>1</sup> Les décisions de naturalisation, de réintégration ou de libération prononcées par l'autorité cantonale sont communiquées notamment:
 
-- a) au Service de la protection de la population et des affaires militaires;
+- a) au Service de la sécurité civile et militaire;
 - b) au Service de la population et des migrants;
 - c) à la commune de domicile;
 - d) aux autorités d'état civil compétentes.
