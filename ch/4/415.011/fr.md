@@ -4,11 +4,11 @@ title: "Ordonnance du DDPS du 25 mai 2012 sur les programmes et les projets d'en
 short: OPESp
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/462"
 language: fr
-version: 2021-10-01
+version: 2022-12-01
 adopted: 2012-05-25
 in_force: 2012-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/462/20211001/fr/xml/fedlex-data-admin-ch-eli-cc-2012-462-20211001-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/462/20211001/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/462/20221201/fr/xml/fedlex-data-admin-ch-eli-cc-2012-462-20221201-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/462/20221201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/462/20211001/fr"
 
 (OPESp)
 
-du 25 mai 2012 (Etat le 1<sup>er</sup> octobre 2021)
+du 25 mai 2012 (Etat le 1<sup>er</sup> décembre 2022)
 
 Le Département fédéral de la défense, de la protection de la population et des sports (DDPS),
 
@@ -68,12 +68,12 @@ Dans la présente ordonnance, on entend par:
 
 <sup>2</sup> Le sport Allround ne peut être proposé qu’aux enfants.
 
-<sup>3</sup> Toute activité dans l’un des sports visés à l’art. 6, al. 2, OESp est interdite dans les offres J+S. Dans les cours et les camps de canoë-kayak J+S, les descentes en eaux vives sont autorisées, y compris celles qui sont effectuées sur des cours d’eau présentant un degré de difficulté supérieur à II conformément à l’annexe 3 de l’ordonnance du 30 janvier 2019 sur les activités à risque[^3-3], à condition que ces descentes soient dirigées par des personnes titulaires d’une reconnaissance de moniteur J+S Canoë-kayak valable et ayant suivi une formation continue spécifique.[^3-4]
+<sup>3</sup> Toute activité dans l’un des sports visés à l’art. 6, al. 2, OESp est interdite dans les offres J+S. Dans les cours et les camps de canoë-kayak J+S, les descentes en eaux vives sont autorisées, y compris celles qui sont effectuées sur des cours d’eau présentant un degré de difficulté supérieur à II conformément à l’annexe 3 de l’ordonnance du 30 janvier 2019 sur les activités à risque[^3-3], à condition que ces descentes soient dirigées par des personnes titulaires d’une reconnaissance de moniteur J+S Canoë-kayak valable et d’une reconnaissance supplémentaire Sécurité.[^3-4]
 
 [^3-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 8 avr. 2020, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)[1883](https://fedlex.data.admin.ch/eli/oc/2020/390)).
 [^3-2]: Introduit par le ch. I de l’O du DDPS du 26 oct. 2015 ([RO 2015 4119](https://fedlex.data.admin.ch/eli/oc/2015/692)). Abrogé par le ch. I de l’O du DDPS du 8 avr. 2020, avec effet au 1<sup>er</sup> oct. 2021 ([RO 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)[1883](https://fedlex.data.admin.ch/eli/oc/2020/390)).
 [^3-3]: [RS 935.911](https://fedlex.data.admin.ch/eli/cc/2019/124)
-[^3-4]: Nouvelle teneur selon le ch. I de l’O du DDPS du 8 avr. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)).
+[^3-4]: Nouvelle teneur selon le ch. I de l’O du DDPS du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 218](https://fedlex.data.admin.ch/eli/oc/2022/218)).
 
 ### Section 2 Cours J+S
 
@@ -112,19 +112,9 @@ Un cours J+S comprend des activités dans les sports J+S, pratiquées régulièr
 
 #### Art. 7
 
-**Camps d’entraînement**
+[^7-1]
 
-<sup>1</sup> Des camps d’entraînement peuvent être proposés en complément des cours J+S.
-
-<sup>2</sup> Un camp d’entraînement réunit des enfants ou des jeunes issus d’un ou de plusieurs cours du même organisateur. Tous les enfants et les jeunes doivent participer à l’un des cours de l’offre actuelle de l’organisateur.
-
-<sup>3</sup> Tout jour de camp doit comporter au moins deux unités d’activités J+S: une le matin et une l’après-midi, ou une le matin et une le soir, ou une l’après-midi et une le soir. Au total, les activités J+S doivent durer au moins quatre heures.[^7-1]
-
-<sup>4</sup> Le jour d’arrivée et le jour de départ équivalent à un jour de camp s’ils totalisent à eux deux quatre heures d’activités J+S au moins.
-
-<sup>5</sup> Les enfants et les jeunes qui participent seulement au camp d’entraînement ne sont pas pris en compte dans le calcul des subventions.
-
-[^7-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 5 sept. 2014, en vigueur depuis le 1<sup>er</sup> oct. 2014 ([RO 2014 2843](https://fedlex.data.admin.ch/eli/oc/2014/490)).
+[^7-1]: Abrogé par le ch. I de l’O du DDPS du 30 mars 2022, avec effet au 1<sup>er</sup> déc. 2022 ([RO 2022 218](https://fedlex.data.admin.ch/eli/oc/2022/218)).
 
 #### Art. 8
 
@@ -140,11 +130,15 @@ Un cours J+S comprend des activités dans les sports J+S, pratiquées régulièr
 
 <sup>5</sup> Si un cours des groupes d’utilisateurs 4 ou 5 porte exclusivement sur des sports relevant du groupe d’utilisateurs 2, ce cours est régi par l’art. 9.
 
-<sup>6</sup> L’organisateur peut comptabiliser une activité de 90 minutes au plus par jour et par cours pour l’obtention de subventions. Pour les camps d’entraînement, il peut comptabiliser 300 minutes au plus.
+<sup>6</sup> L’organisateur peut comptabiliser une activité de 90 minutes au plus par jour et par cours pour l’obtention de subventions.[^8-2]
+
+<sup>6bis</sup> L’organisateur peut, par semaine calendaire pour laquelle il comptabilise des activités selon l’al. 6, comptabiliser une activité supplémentaire de 240 à 300 minutes réalisée dans le cadre du même cours.[^8-3]
 
 <sup>7</sup> L’Office fédéral du sport (OFSPO) peut exceptionnellement autoriser des cours d’une durée moindre et un nombre d’entraînements inférieur.
 
 [^8-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 26 oct. 2015, en vigueur depuis le 1<sup>er</sup> déc. 2015 ([RO 2015 4119](https://fedlex.data.admin.ch/eli/oc/2015/692)).
+[^8-2]: Nouvelle teneur selon le ch. I de l’O du DDPS du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 218](https://fedlex.data.admin.ch/eli/oc/2022/218)).
+[^8-3]: Introduit par le ch. I de l’O du DDPS du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 218](https://fedlex.data.admin.ch/eli/oc/2022/218)).
 
 #### Art. 9
 
@@ -156,11 +150,12 @@ Un cours J+S comprend des activités dans les sports J+S, pratiquées régulièr
 
 <sup>3</sup> Une activité dure au moins 60 minutes. L’organisateur peut comptabiliser 300 minutes au plus par activité pour l’obtention de subventions.
 
-<sup>4</sup> L’organisateur est tenu de réaliser cinq activités distinctes en l’espace de cinq mois, réparties sur cinq semaines calendaires au moins.
+<sup>4</sup> L’organisateur est tenu de réaliser cinq activités distinctes en l’espace de cinq mois, réparties sur cinq semaines calendaires au moins. Les compétitions ne sont pas prises en compte.[^9-2]
 
 <sup>5</sup> Si un cours du groupe d’utilisateurs 2 porte sur plusieurs sports relevant partiellement du groupe d’utilisateurs 1, ce cours est régi par l’art. 8.
 
 [^9-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 26 oct. 2015, en vigueur depuis le 1<sup>er</sup> déc. 2015 ([RO 2015 4119](https://fedlex.data.admin.ch/eli/oc/2015/692)).
+[^9-2]: Nouvelle teneur selon le ch. I de l’O du DDPS du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 218](https://fedlex.data.admin.ch/eli/oc/2022/218)).
 
 #### Art. 10
 
@@ -178,11 +173,12 @@ Un cours J+S comprend des activités dans les sports J+S, pratiquées régulièr
 
 <sup>1</sup> Un camp J+S comprend des activités dans les sports J+S, pratiquées en groupe et dans un cadre de vie communautaire sous la direction de moniteurs J+S.
 
-<sup>2</sup> Par cadre de vie communautaire, on entend une cohabitation et des nuitées en commun en un lieu défini.
+<sup>2</sup> Par cadre de vie communautaire, on entend une cohabitation dans une structure de jour en un lieu défini avec ou sans nuitée en commun.[^11-1]
 
-<sup>3</sup> Les camps du groupe d’utilisateurs 4 qui sont organisés par des communes et s’adressent en priorité aux enfants et aux jeunes de celles-ci peuvent être réalisés sans nuitées en commun.
+<sup>3</sup> et <sup>4</sup> …[^11-2]
 
-<sup>4</sup> Les camps qui ne réunissent que des enfants peuvent être réalisés sans nuitées en commun.
+[^11-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 218](https://fedlex.data.admin.ch/eli/oc/2022/218)).
+[^11-2]: Abrogés par le ch. I de l’O du DDPS du 30 mars 2022, avec effet au 1<sup>er</sup> déc. 2022 ([RO 2022 218](https://fedlex.data.admin.ch/eli/oc/2022/218)).
 
 #### Art. 12
 
@@ -210,13 +206,15 @@ Tout camp J+S doit être dirigé par au moins deux moniteurs J+S titulaires d’
 
 <sup>3</sup> Tout jour de camp doit comporter au moins deux unités d’activités J+S: une le matin et une l’après-midi, ou une le matin et une le soir, ou une l’après-midi et une le soir. Au total, les activités J+S doivent durer au moins quatre heures.[^14-1]
 
-<sup>4</sup> Le jour d’arrivée et le jour de départ équivalent à un jour de camp s’ils totalisent à eux deux quatre heures d’activités J+S au moins.
+<sup>4</sup> Le premier et le dernier jour équivalent à un jour de camp s’ils totalisent à eux deux quatre heures d’activités J+S au moins.[^14-2]
 
-<sup>5</sup> L’al. 4 ne s’applique pas aux camps du groupe d’utilisateurs 4 organisés par des communes, ni aux camps qui réunissent des enfants lorsqu’ils sont réalisés sans nuitées en commun.
+<sup>5</sup> …[^14-3]
 
 <sup>6</sup> Tout camp de plus de quatre jours peut comporter une journée sans entraînement. Celle-ci n’est pas comptabilisée dans le calcul des subventions.
 
 [^14-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 5 sept. 2014, en vigueur depuis le 1<sup>er</sup> oct. 2014 ([RO 2014 2843](https://fedlex.data.admin.ch/eli/oc/2014/490)).
+[^14-2]: Nouvelle teneur selon le ch. I de l’O du DDPS du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 218](https://fedlex.data.admin.ch/eli/oc/2022/218)).
+[^14-3]: Abrogé par le ch. I de l’O du DDPS du 30 mars 2022, avec effet au 1<sup>er</sup> déc. 2022 ([RO 2022 218](https://fedlex.data.admin.ch/eli/oc/2022/218)).
 
 #### Art. 15
 
@@ -247,8 +245,8 @@ Tout camp J+S doit être dirigé par au moins deux moniteurs J+S titulaires d’
 Sont admis à la formation des cadres les candidats:
 
 - a. de nationalité suisse ou liechtensteinoise, ainsi que les ressortissants étrangers domiciliés en Suisse;
-- b. âgés de 18 ans révolus dans l’année du cours;
-- c.[^21-1] remplissant les conditions spécifiques d’admission aux offres de la formation des cadres (art. 30, 33 et 42).
+- b.[^21-1] âgés de 17 ans révolus dans l’année du cours;
+- c.[^21-2] remplissant les conditions spécifiques d’admission aux offres de la formation des cadres (art. 30, 33 et 42).
 
 <sup>1bis</sup>
 
@@ -256,7 +254,7 @@ Sont admis à la formation des moniteurs J+S Sport scolaire:
 
 - a. les étudiants et les diplômés des hautes écoles pédagogiques qui suivent ou ont suivi une filière axée sur l’enseignement du sport et de l’activité physique;
 - b. les étudiants et les diplômés des hautes écoles universitaires qui suivent ou ont suivi une filière de sciences du sport ou d’une discipline apparentée;
-- c. les personnes qui ont achevé une formation pédagogique et qui exercent des tâches d’encadrement périscolaire.[^21-2]
+- c. les personnes qui ont achevé une formation pédagogique et qui exercent des tâches d’encadrement périscolaire.[^21-3]
 
 <sup>2</sup> Les ressortissants étrangers non domiciliés en Suisse sont également admis à condition qu’ils exercent régulièrement une activité pour un organisateur d’offres J+S ou d’offres de la formation des cadres.
 
@@ -270,14 +268,16 @@ L’admission aux cours et aux modules de la formation des cadres peut dépendre
 - d. de la réussite de tests d’aptitude;
 - e. de qualifications acquises en dehors du programme J+S, à savoir la réussite d’un cours de premiers secours ou de natation de sauvetage.
 
-<sup>4</sup> Sont admises à la formation de moniteur J+S Sport de camp/Trekking les personnes âgées de 17 ans révolus dans l’année du cours.
+<sup>4</sup> …[^21-4]
 
 <sup>5</sup> Ne sont pas admises à la formation des cadres les personnes dont la reconnaissance peut, pour des raisons fondées, être suspendue ou retirée, ou ayant à plusieurs reprises contrevenu aux prescriptions de J+S dans le cadre de leurs activités J+S.
 
 <sup>6</sup> L’OFSPO décide de l’admission à la formation des cadres sur proposition de l’organisateur de la formation des cadres.
 
-[^21-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 16 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6591](https://fedlex.data.admin.ch/eli/oc/2017/730)).
-[^21-2]: Introduit par le ch. I de l’O du DDPS du 26 oct. 2015, en vigueur depuis le 1<sup>er</sup> déc. 2015 ([RO 2015 4119](https://fedlex.data.admin.ch/eli/oc/2015/692)).
+[^21-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 218](https://fedlex.data.admin.ch/eli/oc/2022/218)).
+[^21-2]: Nouvelle teneur selon le ch. I de l’O du DDPS du 16 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6591](https://fedlex.data.admin.ch/eli/oc/2017/730)).
+[^21-3]: Introduit par le ch. I de l’O du DDPS du 26 oct. 2015, en vigueur depuis le 1<sup>er</sup> déc. 2015 ([RO 2015 4119](https://fedlex.data.admin.ch/eli/oc/2015/692)).
+[^21-4]: Abrogé par le ch. I de l’O du DDPS du 30 mars 2022, avec effet au 1<sup>er</sup> déc. 2022 ([RO 2022 218](https://fedlex.data.admin.ch/eli/oc/2022/218)).
 
 #### Art. 22
 
@@ -297,15 +297,9 @@ L’OFSPO surveille la formation des cadres assurée par les cantons, par les f�
 
 #### Art. 24
 
-**Retrait et suspension de reconnaissances de cadres**
+[^24-1]
 
-<sup>1</sup> L’OFSPO suspend immédiatement la reconnaissance d’un cadre, sur dénonciation ou d’office, dans les cas visés à l’art. 10, al. 2, de la loi du 17 juin 2011 sur l’encouragement du sport (LESp)[^24-1].
-
-<sup>2</sup> Dans les cas visés à l’art. 10, al. 3, LESp, l’OFSPO décide si la reconnaissance doit être retirée pour une durée déterminée ou indéterminée. La durée de la suspension est comptabilisée dans le retrait de durée déterminée.
-
-<sup>3</sup> Au terme d’un retrait de durée déterminée, le cadre peut demander le renouvellement de sa reconnaissance. L’OFSPO peut assortir sa décision de charges et de conditions, en particulier de l’obligation de suivre une formation continue.
-
-[^24-1]: [RS 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)
+[^24-1]: Abrogé par le ch. I de l’O du DDPS du 30 mars 2022, avec effet au 1<sup>er</sup> déc. 2022 ([RO 2022 218](https://fedlex.data.admin.ch/eli/oc/2022/218)).
 
 #### Art. 25
 
@@ -325,6 +319,14 @@ Il est possible d’engager aussi des personnes qui ne sont pas titulaires d’u
 ### Section 6 Moniteurs J+S
 
 ### (art. 16 OESp)
+
+#### Art. 26a
+
+**Moniteurs J+S mineurs**[^26a-1]
+
+Les moniteurs J+S Sport de camp/Trekking peuvent diriger des cours et des camps J+S ou certaines activités dans le cadre de cours et de camps d’un organisateur même s’ils ne sont pas âgés de 18 ans révolus.
+
+[^26a-1]: Introduit par le ch. I de l’O du DDPS du 30 mars 2022, en vigueur du 1<sup>er</sup> déc. 2022 au 31 déc. 2025 ([RO 2022 218](https://fedlex.data.admin.ch/eli/oc/2022/218)).
 
 #### Art. 27
 
@@ -510,17 +512,13 @@ Sont admis à la formation et à la formation continue les candidats:
 
 #### Art. 45
 
-**Subventions pour les camps J+S**
+**Subventions pour les camps J+S**[^45-1]
 
-<sup>1</sup> Les subventions pour les camps J+S des groupes d’utilisateurs 3, 4 et 5 se calculent à partir du nombre de participants, du nombre de moniteurs J+S requis et du nombre de jours de camp déterminants pour l’octroi de subventions en vertu de l’art. 14.
+<sup>1</sup> Les subventions pour les camps J+S se calculent à partir du nombre de participants, du nombre de moniteurs J+S requis et du nombre de jours de camp déterminants pour l’octroi de subventions en vertu de l’art. 14; elles diffèrent selon que les camps sont avec ou sans nuitée.
 
 <sup>2</sup> Les subventions maximales sont définies dans l’annexe 3.
 
-<sup>3</sup> Pour les camps J+S réalisés selon l’art. 11, al. 3 ou 4, les subventions sont réduites de moitié.
-
-<sup>4</sup> ...[^45-1]
-
-[^45-1]: Introduit par le ch. I de l’O du DDPS du 5 sept. 2014 ([RO 2014 2843](https://fedlex.data.admin.ch/eli/oc/2014/490)). Abrogé par le ch. I de l’O du DDPS du 8 avr. 2020, avec effet au 1<sup>er</sup> juil. 2020 ([RO 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)).
+[^45-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 218](https://fedlex.data.admin.ch/eli/oc/2022/218)).
 
 #### Art. 46
 
@@ -544,12 +542,11 @@ Sont admis à la formation et à la formation continue les candidats:
 
 #### Art. 48
 
-**Subventions supplémentaires pour les guides de montagne[^48-2]**[^48-1]
+**Subventions supplémentaires pour les guides de montagne**[^48-1]
 
-Les organisateurs des offres J+S et des offres de formation des cadres J+S peuvent recevoir une subvention supplémentaire conformément à l’annexe 5 pour l’engagement de guides de montagne titulaires d’un brevet fédéral dans une discipline des sports de montagne.
+Les organisateurs des offres J+S et des offres de formation des cadres J+S peuvent recevoir une subvention supplémentaire conformément à l’annexe 5 pour l’engagement de guides de montagne titulaires d’un brevet fédéral dans les sports alpinisme et excursions à skis ainsi que dans les activités sur rocher dans le sport escalade sportive.
 
-[^48-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 26 oct. 2015, en vigueur depuis le 1<sup>er</sup> déc. 2015 ([RO 2015 4119](https://fedlex.data.admin.ch/eli/oc/2015/692)).
-[^48-2]: Nouvelle teneur selon le ch. I de l’O du DDPS du 8 avr. 2020, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)[1883](https://fedlex.data.admin.ch/eli/oc/2020/390)).
+[^48-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 218](https://fedlex.data.admin.ch/eli/oc/2022/218)).
 
 #### Art. 49
 
@@ -657,9 +654,12 @@ Les offres J+S ainsi que les cours et les modules de la formation des cadres son
 
 <sup>1</sup> Les organisateurs d’offres J+S désignent, pour chacune de leurs offres, un coach J+S chargé de les représenter auprès des services cantonaux J+S et de l’OFSPO.[^57-1]
 
+<sup>1bis</sup> Le coach J+S responsable doit être majeur.[^57-2]
+
 <sup>2</sup> Le coach J+S représente l’organisation pour tout ce qui concerne J+S.
 
 [^57-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 26 oct. 2015, en vigueur depuis le 1<sup>er</sup> déc. 2015 ([RO 2015 4119](https://fedlex.data.admin.ch/eli/oc/2015/692)).
+[^57-2]: Introduit par le ch. I de l’O du DDPS du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 218](https://fedlex.data.admin.ch/eli/oc/2022/218)).
 
 #### Art. 58
 
@@ -911,7 +911,7 @@ L’OFSPO finance les cours de la formation des cadres ESA qu’il réalise.
 
 La Confédération peut fournir des imprimés, des médias didactiques et des distinctions. L’OFSPO détermine la part des coûts supportée par les destinataires des imprimés, des médias didactiques et des distinctions.
 
-## Chapitre 3*a***** Journée suisse de sport scolaire
+## Chapitre 3*a* Journée suisse de sport scolaire
 
 [^chap3a-1]
 
@@ -1048,146 +1048,136 @@ Sont abrogées:
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> octobre 2012.
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 (art. 3, al. 1)
 
 ## Sports J+S
 
-[^t-1]: Nouvelle teneur selon le ch. II al. 1 de l’O du DDPS du 8 avr. 2020, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)[1883](https://fedlex.data.admin.ch/eli/oc/2020/390)).
+[^t-1]: Nouvelle teneur selon le ch. II de l’O du DDPS du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 218](https://fedlex.data.admin.ch/eli/oc/2022/218)).
 
-### A. Sports généraux (sports A)
+Aïkido, allround, alpinisme, arbalète, arc, athlétisme, aviron, badminton, balle à la corbeille, balle au poing, baseball/softball, basketball, BMX, biathlon, boxe light-contact, canoë-kayak, carabine, course nautique, course d’orientation, curling, cyclisme artistique, cyclisme sur piste, cyclisme sur route, cycle-balle, cyclo-cross, danses standard et latines, équitation, escalade sportive, escrime, excursions à skis, football, football américain, golf, gymnastique, gymnastique acrobatique, gymnastique artistique, gymnastique aux agrès, gymnastique et danse, gymnastique rythmique, handball, hockey inline, hockey sur gazon, hockey sur glace, hornuss, jeux nationaux, judo, ju-jitsu, karaté, kick-boxing light, lutte, lutte suisse, monocycle, natation, natation artistique, natation de sauvetage, parkour, patinage artistique sur glace, patinage artistique sur roulettes, patinage de vitesse sur glace, patinage de vitesse sur roulettes, patinage synchronisé sur glace, pistolet, planche à voile, plongeon, rhönrad, rink-hockey, rock’n’roll, rugby, saut à skis, ski, ski de fond, snowboard, sport de camp/trekking, squash, street-hockey, tchoukball, tennis, tennis de table, trampoline, trial, triathlon, unihockey, voile, volleyball, voltige, VTT, waterpolo, wushu/kung-fu.
 
-Allround, athlétisme, badminton, balle à la corbeille, balle au poing, baseball/softball, basketball, BMX, boxe light-contact, course d’orientation, curling, cyclisme artistique, cyclisme sur piste, cyclisme sur route, cycle-balle, cyclo-cross, danses standard et latines, escrime, football, football américain, golf, gymnastique, gymnastique acrobatique, gymnastique artistique, gymnastique aux agrès, gymnastique et danse, gymnastique rythmique, handball, hockey inline, hockey sur gazon, hockey sur glace, hornuss, jeux nationaux, judo, ju-jitsu, karaté, lutte, lutte suisse, monocycle, patinage artistique sur glace, parkour, patinage artistique sur roulettes, patinage de vitesse sur glace, patinage de vitesse sur roulettes, patinage synchronisé sur glace, rhönrad, rink-hockey, rock’n’roll, rugby, ski de fond, squash, street-hockey, tchoukball, tennis, tennis de table, trampoline, trial, unihockey, volleyball, VTT.
-
-### B. Sports soumis à des dispositions de sécurité particulières (sports B)
-
-Alpinisme, arbalète, arc, aviron, biathlon, canoë-kayak, carabine, équitation, escalade sportive, excursions à skis, natation, natation artistique, natation de sauvetage, pistolet, planche à voile, plongeon, saut à skis, ski, snowboard, sport de camp/trekking, triathlon, voile, voltige, waterpolo.
-
-Annexe 1a*[^t-2]*
+Annexe 1a[^t-2]
 
 [^t-2]: Introduit par le ch. II al. 1 de l’O du DDPS du 26 oct. 2015 ([RO 2015 4119](https://fedlex.data.admin.ch/eli/oc/2015/692)). Abrogée par le ch. II al. 2 de l’O du DDPS du 8 avr. 2020, avec effet au 1<sup>er</sup> oct. 2021 ([RO 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)[1883](https://fedlex.data.admin.ch/eli/oc/2020/390)).
 
-Annexe 2*[^t-3]*
+Annexe 2[^t-3]
 
 (art. 5, al. 2, 6, al. 1, et 13, al. 2)
 
-## Dispositions spécifiques pour l’engagement de moniteurs J+S selon la taille des groupes
+## Dispositions spécifiques pour l’engagement de moniteurs J+S selon la taille des groupe
 
-[^t-3]: Nouvelle teneur selon le ch. II al. 1 de l’O du DDPS du 8 avr. 2020, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)[1883](https://fedlex.data.admin.ch/eli/oc/2020/390)).
+[^t-3]: Nouvelle teneur selon le ch. II de l’O du DDPS du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 218](https://fedlex.data.admin.ch/eli/oc/2022/218)).
 
-### A. Dispositions pour les sports A
+### A. Dispositions pour les sports J+S
 
-- 1\. Pour le baseball/softball, le basketball, le football, le football américain, le handball, le hockey inline, le hockey sur gazon, le hockey sur glace, le hornuss, le rink-hockey, le rugby, le street-hockey, le tchoukball, le unihockey et le volleyball, la taille des groupes ne doit pas dépasser 24 participants par moniteur. Pour les groupes de 25 participants ou plus, une personne habilitée à diriger doit être engagée en plus par tranche de douze participants supplémentaires.
-- 2\. Pour l’allround, l’athlétisme, le badminton, la balle à la corbeille, la balle au poing, le BMX, la boxe light-contact, la course d’orientation, le curling, le cyclisme artistique, le cyclisme sur piste, le cyclisme sur route, le cycle-balle, le cyclo-cross, les danses standard et latines, l’escrime, le golf, la gymnastique, la gymnastique acrobatique, la gymnastique artistique, la gymnastique aux agrès, la gymnastique et danse, la gymnastique rythmique, les jeux nationaux, le judo, le ju-jitsu, le karaté, la lutte, la lutte suisse, le monocycle, le parkour, le patinage artistique sur glace, le patinage artistique sur roulettes, le patinage de vitesse sur glace, le patinage de vitesse sur roulettes, le patinage synchronisé sur glace, le rhönrad, le rock’n’roll, le ski de fond, le squash, le tennis, le tennis de table, le trampoline, le trial et le VTT, la taille des groupes ne doit pas dépasser seize participants par moniteur. Pour les groupes de 17 participants ou plus, une personne habilitée à diriger doit être engagée en plus par tranche de douze participants supplémentaires.
-- 3\. Si une activité relevant d’un des sports visés à la lettre B est organisée dans le cadre d’un cours ou d’un camp ou dans le cadre de la pratique d’un sport, les dispositions de sécurité visées à la lettre B sont applicables.
+- 1\. Pour le baseball/softball, le basketball, le football, le football américain, le handball, le hockey inline, le hockey sur gazon, le hockey sur glace, le hornuss, le rink-hockey, le rugby, le sport de camp/trekking, le street-hockey, le tchoukball, le unihockey et le volleyball, la taille des groupes ne doit pas dépasser 24 participants par moniteur. Pour les groupes de 25 participants ou plus, une personne habilitée à diriger doit être engagée en plus par tranche de douze participants supplémentaires.
+- 2\. Pour l’aïkido, l’allround, l’arbalète, l’arc, l’athlétisme, le badminton, la balle à la corbeille, la balle au poing, le biathlon, le BMX, la boxe light-contact, la carabine, la course d’orientation, le curling, le cyclisme artistique, le cyclisme sur piste, le cyclisme sur route, le cycle-balle, le cyclo-cross, les danses standard et latines, l’escrime, le golf, la gymnastique, la gymnastique acrobatique, la gymnastique artistique, la gymnastique aux agrès, la gymnastique rythmique, le kick-boxing light, les jeux nationaux, le judo, le ju-jitsu, le karaté, la lutte, la lutte suisse, le monocycle, la natation, la natation artistique, la natation de sauvetage, le parkour, le patinage artistique sur glace, le patinage artistique sur roulettes, le patinage de vitesse sur glace, le patinage de vitesse sur roulettes, le patinage synchronisé sur glace, le pistolet, le plongeon, le rhönrad, le rock’n’roll, le ski de fond, le squash, le tennis, le tennis de table, le trampoline, le trial, le triathlon, le VTT, le waterpolo et le wushu/kung-fu, la taille des groupes ne doit pas dépasser seize participants par moniteur. Pour les groupes de 17 participants ou plus, une personne habilitée à diriger doit être engagée en plus par tranche de douze participants supplémentaires.
+- 3\. Dans les sports alpinisme, aviron, canoë-kayak, course nautique, équitation, escalade sportive, excursions à skis, planche à voile, saut à skis, ski, snowboard, voile et voltige, la taille des groupes ne doit pas dépasser douze participants par moniteur. Pour les groupes de treize participants ou plus, une personne habilitée à diriger doit être engagée en plus par tranche de douze participants supplémentaires.
 
-### B. Dispositions de sécurité particulières pour les sports B
+### B. Dispositions particulières pour le groupe d’utilisateurs 5
 
-- 1\. Dans les sports alpinisme et excursions à skis ainsi que pour les activités sur rocher dans le sport escalade sportive, la taille des groupes ne doit pas dépasser six participants par moniteur. Pour les groupes de sept participants ou plus, une personne habilitée à diriger doit être engagée en plus par tranche de six participants supplémentaires.
-- 2\. Dans les sports aviron, canoë-kayak, équitation, planche à voile, saut à skis, ski, snowboard, voile et voltige ainsi que pour les activités d’escalade sportive sur mur artificiel, la taille des groupes ne doit pas dépasser douze participants par moniteur. Pour les groupes de treize participants ou plus, une personne habilitée à diriger doit être engagée en plus par tranche de douze participants supplémentaires.
-- 3\. Dans les sports arbalète, arc, biathlon, carabine, natation, natation artistique, natation de sauvetage, pistolet, plongeon, triathlon et waterpolo, la taille des groupes ne doit pas dépasser seize participants par moniteur. Pour les groupes de 17 participants ou plus, une personne habilitée à diriger doit être engagée en plus par tranche de douze participants supplémentaires.
-- 4\. Dans les offres J+S sport de camp/trekking, la taille des groupes ne doit pas dépasser 24 participants pour deux moniteurs. Pour les groupes de 25 participants ou plus, une personne habilitée à diriger doit être engagée en plus par tranche de douze participants supplémentaires. Dans les camps J+S, il est possible d’engager des personnes majeures et capables de discernement dépourvues de reconnaissance J+S en lieu et place de moniteurs J+S supplémentaires. Ces personnes ne sont pas prises en compte dans le calcul de la subvention.
+- 1\. Dans toutes les activités des sports visés à la lettre A, ch. 1 et 2, la taille des groupes ne doit pas dépasser 24 participants par moniteur. Pour les groupes de 25 participants ou plus, une personne habilitée à diriger doit être engagée en plus par tranche de douze participants supplémentaires.
+- 2\. Toutes les activités des sports visés à la lettre A, ch. 3 sont soumises aux dispositions particulières régissant les sports concernés.
 
-### C. Dispositions particulières pour le groupe d’utilisateurs 5
+### C. Dispositions particulières pour les entraînements de condition physique et les entraînements mentaux
 
-- 1\. Dans toutes les activités des sports visés à la lettre A, la taille des groupes ne doit pas dépasser 24 participants par moniteur. Pour les groupes de 25 participants ou plus, une personne habilitée à diriger doit être engagée en plus par tranche de douze participants supplémentaires au maximum.
-- 2\. Toutes les activités des sports visés à la lettre B sont soumises aux dispositions particulières régissant les sports concernés.
-- 3\. Si plus de deux moniteurs sont nécessaires pour assurer la réalisation d’une activité, il est permis d’engager, en qualité de moniteur supplémentaire, une personne majeure et capable de discernement même si elle ne possède pas de reconnaissance de moniteur J+S. Cette personne n’est pas prise en compte dans le calcul de la subvention.
+Dans les entraînements de condition physique et les entraînements mentaux, la taille des groupes ne doit pas dépasser 24 participants par moniteur quel que soit le sport pratiqué. Pour les groupes de 25 participants ou plus, une personne habilitée à diriger doit être engagée en plus par tranche de douze participants supplémentaires.
 
-### D. Dispositions particulières pour les entraînements de condition physique et les entraînements mentaux
+### D. Nombre insuffisant de moniteurs J+S
 
-Dans les entraînements de condition physique et les entraînements mentaux, la taille des groupes ne doit pas dépasser 24 participants par moniteur quel que soit le sport pratiqué. Pour les groupes de 25 participants ou plus, une personne habilitée à diriger doit être engagée en plus par tranche de douze participants supplémentaires au maximum.
+Si le nombre de moniteurs J+S qualifiés engagés dans des activités relevant des sports J+S ne suffit pas, le montant de la subvention est calculé sur la base de la taille maximale du groupe que les moniteurs engagés sont habilités à diriger.
 
-### E. Nombre insuffisant de moniteurs J+S dans les activités visées à la lettre A
-
-Si le nombre de moniteurs J+S qualifiés engagés dans des activités relevant des sports visés à la lettre A ainsi que dans des entraînements de condition physique et des entraînements mentaux visés à la lettre D ne suffit pas, le montant de la subvention est calculé sur la base de la taille maximale du groupe que les moniteurs engagés sont habilités à diriger.
-
-### F. Nombre insuffisant de moniteurs J+S dans les activités visées à la lettre B
-
-Si le nombre de moniteurs J+S qualifiés engagés dans des activités relevant des sports visés à la lettre B ne suffit pas, aucune subvention n’est versée pour les activités considérées.
-
-Annexe 3*[^t-4]*
+Annexe 3[^t-4]
 
 (art. 44, al. 5, et 45, al. 2)
 
 ## Montants maximaux des subventions pour les offres J+S
 
-[^t-4]: Nouvelle teneur selon le ch. II al. 1 de l’O du DDPS du 8 avr. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)).
+[^t-4]: Nouvelle teneur selon le ch. II de l’O du DDPS du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 218](https://fedlex.data.admin.ch/eli/oc/2022/218)).
 
 ### A. Subventions pour les cours J+S des groupes d’utilisateurs 1, 2, 4 et 5
 
 <table>
-<tr><td>Montant de base par moniteur J+S<sup>1)</sup> requis conformément à l’annexe 2, en francs</td><td>Montant par heure-participant<sup>2)</sup>, en francs</td><td>Supplément pour les cours J+S du groupe d’utilisateurs 5 intégrant des enfants<sup>3)</sup></td></tr>
+<tr><th>Montant de base par moniteur J+S<sup>1)</sup> requis conformément à l’annexe 2, en francs</th><th>Montant par heure-participant<sup>2)</sup>, en francs</th><th>Supplément pour les cours J+S du groupe d’utilisateurs 5 intégrant des enfants<sup>3)</sup></th></tr>
 <tr><td>150,00</td><td>1,80</td><td>100 %</td></tr>
 </table>
 
 ### B. Subventions pour la participation à des compétitions relevant de cours J+S du groupe d’utilisateurs 1
 
 <table>
-<tr><td>Nombre de compétitions</td><td>Pour des cours durant moins de 30 semaines, forfait unique, en francs</td><td>Pour des cours durant 30 semaines ou plus, forfait unique, en francs</td></tr>
+<tr><th>Nombre de compétitions</th><th>Pour des cours durant moins de 30 semaines, forfait unique, en francs</th><th>Pour des cours durant 30 semaines ou plus, forfait unique, en francs</th></tr>
 <tr><td>Catégorie 1<sup>4)</sup></td><td>100,00</td><td>200,00</td></tr>
 <tr><td>Catégorie 2<sup>4)</sup></td><td>200,00</td><td>400,00</td></tr>
 <tr><td>Catégorie 3<sup>4)</sup></td><td>300,00</td><td>600,00</td></tr>
 </table>
 
-### C. Subventions pour les camps J+S
+### C. Subventions pour les camps J+S avec nuitée
 
 <table>
 <tr><td>Par jour et par participant, en francs</td></tr>
-<tr><td>16,00</td></tr>
+<tr><td>16.00</td></tr>
+</table>
+
+### D. Subventions pour les camps J+S sans nuitée
+
+<table>
+<tr><td>Par jour et par participant, en francs</td></tr>
+<tr><td>6.50</td></tr>
 <tr><td><sup>1)</sup> Lorsqu’un cours porte sur plusieurs sports, le montant de base est fixé en fonction du nombre de moniteurs J+S requis dans le sport autorisant la taille de groupe la plus grande. <sup>2)</sup> Les heures entamées sont arrondies à l’unité inférieure. <sup>3)</sup> Pour les groupes d’entraînement réunissant des enfants et des jeunes, le supplément se calcule exclusivement sur la base des heures-participants des enfants. <sup>4)</sup> Catégories définies dans l’annexe 4.</td></tr>
 </table>
 
-Annexe 4
+Annexe 4[^t-5]
 
 (art. 46, al. 1)
 
 ## Catégories de compétitions J+S du groupe d’utilisateurs 1
 
+[^t-5]: Nouvelle teneur selon le ch. II de l’O du DDPS du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 218](https://fedlex.data.admin.ch/eli/oc/2022/218)).
+
 <table>
 <tr><td>Durée du cours</td><td>Catégorie 1 Nombre de compétitions</td><td>Catégorie 2 Nombre de compétitions</td><td>Catégorie 3 Nombre de compétitions</td></tr>
 <tr><td>&lt; 30 sem.</td><td>2–4</td><td>5– 7</td><td>≥ 8</td></tr>
-<tr><td>≥ 30 sem.</td><td>4–9</td><td>10–15</td><td>16</td></tr>
+<tr><td>≥ 30 sem.</td><td>4–9</td><td>10–15</td><td>≥ 16</td></tr>
 </table>
 
-Annexe 5*[^t-5]*
+Annexe 5[^t-6]
 
 (art. 48)
 
 ## Subventions supplémentaires pour les guides de montagne titulaires d’un brevet fédéral et d’une reconnaissance J+S
 
-[^t-5]: Nouvelle teneur selon le ch. II al. 1 de l’O du DDPS du 8 avr. 2020, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)[1883](https://fedlex.data.admin.ch/eli/oc/2020/390)).
+[^t-6]: Nouvelle teneur selon le ch. II de l’O du DDPS du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 218](https://fedlex.data.admin.ch/eli/oc/2022/218)).
 
 - 1\.
 
   Un forfait de 260 francs au maximum est versé aux organisateurs qui engagent des guides de montagne titulaires d’un brevet fédéral si ceux-ci:
 
   - a. exercent une activité de moniteur J+S dans les sports alpinisme et excursions à skis ainsi que dans des activités sur rocher dans le sport escalade sportive et assument l’entière responsabilité de la sécurité dans les activités considérées;
-  - b. exercent une activité d’expert J+S dans la formation des cadres des sports alpinisme, escalade sportive et excursions à skis.
+  - b. exercent une activité d’expert J+S dans la formation des cadres des sports alpinisme et excursions à skis ainsi que dans des activités sur rocher dans le sport escalade sportive.
 
 - 2\. Pour les cours et les camps J+S, un forfait est versé par tranche de 45 heures-participants. Seules sont prises en compte les heures correspondant aux activités réalisées sous la responsabilité du guide et en sa présence. Les fractions de ce nombre sont arrondies à l’unité supérieure.
-- 3\. Pour les offres de formation des cadres dans le sport escalade sportive, un forfait est versé par tranche de douze participants pour chaque jour durant lequel le guide dispense effectivement un enseignement. Les fractions de ce nombre sont arrondies à l’unité supérieure.
-- 4\. Pour les offres de formation des cadres dans les sports alpinisme et excursions à skis, un forfait est versé par tranche de six participants pour chaque jour durant lequel le guide dispense effectivement un enseignement. Les fractions de ce nombre sont arrondies à l’unité supérieure.
+- 3\. Pour les offres de formation des cadres dans les sports alpinisme, escalade sportive et excursions à skis, un forfait est versé par tranche de six participants pour chaque jour durant lequel le guide dispense effectivement un enseignement. Les fractions de ce nombre sont arrondies à l’unité supérieure.
 
-Annexe 6*[^t-6]*
+Annexe 6[^t-7]
 
 (art. 49, al. 1)
 
 ## Subventions supplémentaires pour les offres J+S intégrant des participants handicapés
 
-[^t-6]: Nouvelle teneur selon le ch. II al. 1 de l’O du DDPS du 8 avr. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)).
+[^t-7]: Nouvelle teneur selon le ch. II al. 1 de l’O du DDPS du 8 avr. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)).
 
 - 1\. Un forfait de 60 francs au maximum par journée de camp et par participant handicapé est versé aux organisateurs de camps. La subvention totale allouée pour le camp ne peut toutefois pas dépasser le double de celle qui serait versée pour un camp de même durée, comptant le même nombre de participants mais sans participants handicapés.
 - 2\. Un forfait de 10 francs au maximum par heure et par participant handicapé est versé aux organisateurs de cours. La subvention totale allouée pour le cours ne peut toutefois pas dépasser le double de celle qui serait versée pour un cours de même durée, comptant le même nombre de participants mais sans participants handicapés.
 
-Annexe 7*[^t-7]*
+Annexe 7[^t-8]
 
 (art. 50, al. 2)
 
 ## Subventions pour la réalisation de la formation des cadres J+S
 
-[^t-7]: Nouvelle teneur selon le ch. II al. 1 de l’O du DDPS du 8 avr. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)).
+[^t-8]: Nouvelle teneur selon le ch. II de l’O du DDPS du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 218](https://fedlex.data.admin.ch/eli/oc/2022/218)).
 
 ### 1 Formation des cadres par la Confédération
 
@@ -1208,7 +1198,7 @@ Annexe 7*[^t-7]*
 
 - 2\.2 La Confédération fournit pour les participants qui remplissent les conditions d’admission aux cours, pour les moniteurs ainsi que pour les auxiliaires de la formation des cadres, des bons donnant droit à un voyage aller-retour gratuit du domicile jusqu’au lieu du cours en 2<sup>e</sup> classe avec les transports publics.
 - 2\.3 Si moins de huit personnes sont inscrites à une offre de formation des cadres proposée par un canton et dont la réalisation revêt un intérêt particulier pour l’OFSPO, ce dernier peut porter le montant défini au ch. 2.1.1 à 400 francs au maximum par journée de cours.
-- 2\.4 Aucune subvention n’est versée pour les participants à des modules de formation continue n’ayant exercé aucune activité de cadre durant les deux années précédant le début des modules. Font exception les modules de formation continue spécifiquement destinés aux personnes qui souhaitent réintégrer J+S et qui ont perdu leur reconnaissance de moniteur depuis plus de quatre ans.
+- 2\.4 Aucune subvention n’est versée pour les participants à des modules de formation continue n’ayant exercé aucune activité de cadre durant les deux années précédant le début des modules.
 - 2\.5 La Confédération verse des allocations conformément à la loi fédérale du 25 septembre 1952 sur les allocations pour perte de gain.
 
 ### 3 Formation des cadres par les fédérations et les institutions désignées à l’art. 12, al. 2, OESp
@@ -1221,15 +1211,15 @@ Annexe 7*[^t-7]*
   - 3.1.2 50 francs par jour au maximum par participant aux cours de formation de moniteurs J+S réalisés par des institutions de formation.
 
 - 3\.2 La Confédération fournit pour les participants qui remplissent les conditions d’admission aux cours, pour les moniteurs ainsi que pour les auxiliaires de la formation des cadres, des bons donnant droit à un voyage aller-retour gratuit du domicile jusqu’au lieu du cours en 2<sup>e</sup> classe avec les transports publics.
-- 3\.3 Aucune subvention n’est versée pour les participants à des modules de formation continue n’ayant exercé aucune activité de cadre durant les deux années précédant le début des modules. Font exception les modules de formation continue spécifiquement destinés aux personnes qui souhaitent réintégrer J+S et qui ont perdu leur reconnaissance de moniteur depuis plus de quatre ans.
+- 3\.3 Aucune subvention n’est versée pour les participants à des modules de formation continue n’ayant exercé aucune activité de cadre durant les deux années précédant le début des modules.
 
-Annexe 8*[^t-8]*
+Annexe 8[^t-9]
 
 (art. 51, al. 3)
 
 ## Subventions aux fédérations nationales pour leurs prestations en matière de formation des cadres J+S: tâches des responsables de la formation
 
-[^t-8]: Nouvelle teneur selon le ch. II al. 1 de l’O du DDPS du 8 avr. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)).
+[^t-9]: Nouvelle teneur selon le ch. II al. 1 de l’O du DDPS du 8 avr. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 1521](https://fedlex.data.admin.ch/eli/oc/2020/304)).
 
 - 1\. Assurer un nombre suffisant de places de formation dans les offres de la formation des cadres J+S du sport J+S concerné sur la base d’une analyse des besoins annuelle.
 - 2\. Participer activement aux séances et conférences spécialisées requises par l’OFSPO.
