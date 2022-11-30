@@ -4,13 +4,13 @@ number: "922.11"
 title: Ordonnance concernant la chasse
 short: OCha
 language: fr
-version: 2022-07-08
-valid_until: 2022-11-30
-version_adopted: 2022-06-28
+version: 2022-12-01
+valid_until: 2024-06-30
+version_adopted: 2022-11-08
 adopted: 2016-06-06
 in_force: 2016-07-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/922.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7511/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7637/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Chasse – O
 
 (OCha)
 
-du 06.06.2016 (version entrée en vigueur le 08.07.2022)
+du 06.06.2016 (version entrée en vigueur le 01.12.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -542,7 +542,7 @@ Arrête:
 
 <sup>1</sup> Les essais d'armes de chasse ne sont autorisés que sur les places de tir reconnues par l'expert ou l'experte cantonal-e des installations de tir sportif et sous réserve de l'accord des responsables desdites places et des propriétaires des terrains.
 
-<sup>2</sup> L'organisation d'un tir de chasse hors d'un stand de tir permanent est soumise à l'autorisation du Service de la protection de la population et des affaires militaires; celui-ci requiert l'avis de l'expert ou l'experte cantonal-e des installations de tir sportif.
+<sup>2</sup> L'organisation d'un tir de chasse hors d'un stand de tir permanent est soumise à l'autorisation du Service de la sécurité civile et militaire; celui-ci requiert l'avis de l'expert ou l'experte cantonal-e des installations de tir sportif.
 
 ### 4.6 Chiens de chasse et chiens de rouge
 

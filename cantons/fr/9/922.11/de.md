@@ -4,13 +4,13 @@ number: "922.11"
 title: Jagdverordnung
 short: JaV
 language: de
-version: 2022-07-08
-valid_until: 2022-11-30
-version_adopted: 2022-06-28
+version: 2022-12-01
+valid_until: 2024-06-30
+version_adopted: 2022-11-08
 adopted: 2016-06-06
 in_force: 2016-07-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/922.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/7511/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7637/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Jagdverordnung
 
 (JaV)
 
-vom 06.06.2016 (Fassung in Kraft getreten am 08.07.2022)
+vom 06.06.2016 (Fassung in Kraft getreten am 01.12.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -542,7 +542,7 @@ beschliesst:
 
 <sup>1</sup> Jagdwaffen dürfen nur auf den von der kantonalen Schiessanlagenexpertin oder vom kantonalen Schiessanlagenexperten anerkannten Schiessplätzen und unter Vorbehalt der Zustimmung der Verantwortlichen dieser Plätze und der Grundeigentümerinnen und ‑eigentümer erprobt werden.
 
-<sup>2</sup> Die Durchführung eines Jagdschiessens ausserhalb eines ständigen Schiessstandes bedarf der Bewilligung des Amts für Bevölkerungsschutz und Militär; dieses holt die Stellungnahme der kantonalen Schiessanlagenexpertin oder des kantonalen Schiessanlagenexperten ein.
+<sup>2</sup> Die Durchführung eines Jagdschiessens ausserhalb eines ständigen Schiessstandes bedarf der Bewilligung des Amts für zivile Sicherheit und Militär; dieses holt die Stellungnahme der kantonalen Schiessanlagenexpertin oder des kantonalen Schiessanlagenexperten ein.
 
 ### 4.6 Jagdhunde und Schweisshunde
 
