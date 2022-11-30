@@ -4,11 +4,11 @@ title: Reproductive Medicine Ordinance of 4 December 2000 (RMO)
 short: RMO
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/555"
 language: en
-version: 2022-07-01
+version: 2022-12-01
 adopted: 2000-12-04
 in_force: 2001-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/555/20220701/en/xml/fedlex-data-admin-ch-eli-cc-2000-555-20220701-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/555/20220701/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/555/20221201/en/xml/fedlex-data-admin-ch-eli-cc-2000-555-20221201-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/555/20221201/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (RMO)
 
-of 4 December 2000 (Status as of 1 July 2022)
+of 4 December 2000 (Status as of 1 December 2022)
 
 The Swiss Federal Council,
 
@@ -50,11 +50,15 @@ A licence as specified in Article 8 paragraph 1 of the Act is required by any pe
 
 **Evidence of qualifications for the use of assisted reproductive techniques**[^2-1]
 
-<sup>1</sup> Any person who uses assisted reproductive techniques requires:
+Any person who uses assisted reproductive techniques requires:
 
-the Swiss obstetrics and gynaecology specialist title with the gynaecological endocrinology and reproductive medicine specialty or an equivalent recognised foreign specialist title; and
+- a. a Swiss obstetrics and gynaecology specialist title or a corresponding recognised foreign specialist title;
+- b. the qualifications to use the techniques according to the state of the art; and
+- c. the cantonal licence to practise as an independent professional.[^2-2]
 
-the cantonal licence to practise as an independent professional.
+<sup>1bis</sup> It may be assumed that a person has the qualifications specified in paragraph 1 letter b if he or she meets the requirements of Annex 3.[^2-3]
+
+<sup>1ter</sup> The Federal Department of Home Affairs may amend Annex 3 if amendments to the professional requirements for the use of assisted reproductive techniques so require.[^2-4]
 
 <sup>2</sup> Any person who limits the activity to insemination with sperm cells from a third party requires:
 
@@ -63,6 +67,9 @@ the Swiss obstetrics and gynaecology specialist title or an equivalent recognise
 the cantonal licence to practise as an independent professional.
 
 [^2-1]: Amended by No I of the O of 21 June 2017, in force since 1 Sept. 2017 ([AS 2017 3651](https://fedlex.data.admin.ch/eli/oc/2017/411)).
+[^2-2]: Amended by Annex 6 No II 2 of the O of 23 Sept. 2022 on Human Genetic Testing, in force since 1 Dec. 2022 ([AS 2022 585](https://fedlex.data.admin.ch/eli/oc/2022/585)).
+[^2-3]: Inserted by Annex 6 No II 2 of the O of 23 Sept. 2022 on Human Genetic Testing, in force since 1 Dec. 2022 ([AS 2022 585](https://fedlex.data.admin.ch/eli/oc/2022/585)).
+[^2-4]: Inserted by Annex 6 No II 2 of the O of 23 Sept. 2022 on Human Genetic Testing, in force since 1 Dec. 2022 ([AS 2022 585](https://fedlex.data.admin.ch/eli/oc/2022/585)).
 
 #### Art. 3
 
@@ -210,7 +217,7 @@ The supervisory authority shall on request send the Federal Office of Public Hea
 
 ## Chapter 2 Data on Biological Origins
 
-### Section 1 Donor Data Register****
+### Section 1 Donor Data Register
 
 [^chap2-sec1-1]
 
@@ -238,7 +245,7 @@ The supervisory authority shall on request send the Federal Office of Public Hea
 
 The electronic system for the management of the register and for storing the data must meet the following requirements:
 
-- a. the long-term existence and quality of the data are guaranteed.
+- a. the long-term existence and quality of the data are guaranteed;
 - b. the data are secured in accordance with recognised standards and the current state of the art;
 - c. the programming and the file format for the data are documented.
 
@@ -476,7 +483,7 @@ The charges and expenses in the disclosure procedure shall be based on the Ordin
 
 This Ordinance comes into force on 1 January 2001.
 
-Annex 1*[^t-1]* Annex 2*[^t-2]*
+Annex 1[^t-1] Annex 2[^t-2]
 
 (Art. 4 para. 1 let. c)
 
@@ -488,3 +495,18 @@ Annex 1*[^t-1]* Annex 2*[^t-2]*
 European Standard ISO/IEC 17025:2005 (General Requirements for the Competence of Testing and Calibration Laboratories) or ISO 15189:2012 (Medical Laboratories – Requirements for Quality and Competence)[^annex1-lvlu1-1].
 
 [^annex1-lvlu1-1]: The standards may be inspected at the Federal Office of Public Health, Schwarzenburgstrasse 157, 3003 Bern, or obtained from the Swiss Association for Standardisation, Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+
+Annex 3[^t-3]
+
+(Art. 2 para. 1<sup>bis</sup> and 1<sup>ter</sup>)
+
+## Qualification requirements for using assisted reproductive techniques according to the state of the art
+
+[^t-3]: Inserted by Annex 6 No II 2 of the O of 23 Sept. 2022 on Human Genetic Testing, in force since 1 Dec. 2022 ([AS 2022 585](https://fedlex.data.admin.ch/eli/oc/2022/585)).
+
+Persons are qualified to use assisted reproductive techniques according to the state of the art if they hold:
+
+- a. the gynaecological endocrinology and reproductive medicine specialty under the continuing education and training programme of the Swiss Institute for Medical Education of 23 June 2022[^annex2-lvlu1-1] or an earlier version of this programme; or
+- b. an equivalent foreign continuing education and training qualification.
+
+[^annex2-lvlu1-1]: Available at www.siwf.ch &gt; Facharzttitel und Schwerpunkte &gt; Gynäkologie und Geburtshilfe &gt; Anhänge zum Weiterbildungsprogramm &gt; Annex 4 / Schwerpunkt Reproduktionsmedizin und gynäkologische Endokrinologie.

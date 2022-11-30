@@ -4,11 +4,11 @@ title: Ordinanza del 4 dicembre 2000 sulla medicina della procreazione (OMP)
 short: OMP
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/555"
 language: it
-version: 2022-07-01
+version: 2022-12-01
 adopted: 2000-12-04
 in_force: 2001-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/555/20220701/it/xml/fedlex-data-admin-ch-eli-cc-2000-555-20220701-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/555/20220701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/555/20221201/it/xml/fedlex-data-admin-ch-eli-cc-2000-555-20221201-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/555/20221201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/555/20220701/it"
 
 (OMP)
 
-del 4 dicembre 2000 (Stato 1° luglio 2022)
+del 4 dicembre 2000 (Stato 1° dicembre 2022)
 
 Il Consiglio federale svizzero,
 
@@ -52,8 +52,13 @@ Necessita dell’autorizzazione di cui all’articolo 8 capoverso 1 della legge 
 
 Chi applica metodi di procreazione necessita:
 
-- a. del titolo federale di perfezionamento in ginecologia e ostetricia con una formazione approfondita in endocrinologia ginecologica e medicina della riproduzione oppure deve disporre di un titolo estero di perfezionamento equivalente e riconosciuto; e
-- b. dell’autorizzazione cantonale all’esercizio della professione sotto la propria responsabilità professionale.
+- a. di un titolo federale di perfezionamento in ginecologia e ostetricia o di un titolo estero di perfezionamento corrispondente e riconosciuto;
+- b. delle qualifiche richieste per applicare i metodi di procreazione secondo lo stato della scienza e della pratica; e
+- c. dell’autorizzazione cantonale all’esercizio della professione sotto la propria responsabilità professionale.[^2-2]
+
+<sup>1bis</sup> Si può presumere il possesso delle qualifiche di cui al capoverso 1 lettera b se i requisiti di cui all’allegato 3 sono soddisfatti.[^2-3]
+
+<sup>1ter</sup> Il Dipartimento federale dell’interno può aggiornare l’allegato 3 qualora lo richiedano modifiche dei requisiti professionali per l’applicazione dei metodi di procreazione.[^2-4]
 
 <sup>2</sup>
 
@@ -63,6 +68,9 @@ Chi limita l’attività all’inseminazione mediante sperma di un donatore nece
 - b. dell’autorizzazione cantonale all’esercizio della professione sotto la propria responsabilità professionale.
 
 [^2-1]: Nuovo testo giusta il n. I dell’O del 21 giu. 2017, in vigore dal 1° set. 2017 ([RU 2017 3651](https://fedlex.data.admin.ch/eli/oc/2017/411)).
+[^2-2]: Nuovo testo giusta l’all. 6 n. II 2 dell’O del 23 set. 2022 concernente gli esami genetici sull’essere umano, in vigore dal 1° dic. 2022 ([RU 2022 585](https://fedlex.data.admin.ch/eli/oc/2022/585)).
+[^2-3]: Introdotto dall’all. 6 n. II 2 dell’O del 23 set. 2022 concernente gli esami genetici sull’essere umano, in vigore dal 1° dic. 2022 ([RU 2022 585](https://fedlex.data.admin.ch/eli/oc/2022/585)).
+[^2-4]: Introdotto dall’all. 6 n. II 2 dell’O del 23 set. 2022 concernente gli esami genetici sull’essere umano, in vigore dal 1° dic. 2022 ([RU 2022 585](https://fedlex.data.admin.ch/eli/oc/2022/585)).
 
 #### Art. 3
 
@@ -467,11 +475,11 @@ Gli emolumenti e i disborsi della procedura di rilascio delle informazioni sono 
 
 La presente ordinanza entra in vigore il 1° gennaio 2001.
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 [^t-1]: Originario all. Abrogato dal n. II dell’O del 31 ott. 2012, con effetto dal 1° gen. 2013 ([RU 2012 6097](https://fedlex.data.admin.ch/eli/oc/2012/723)).
 
-Allegato 2*[^t-2]*
+Allegato 2[^t-2]
 
 (art. 4 cpv. 1 lett. c)
 
@@ -482,3 +490,18 @@ Allegato 2*[^t-2]*
 Norma europea ISO/IEC 17025:2005 (Requisiti generali per la competenza dei laboratori di prova e di taratura) o ISO 15189:2012 (Laboratori medici – Requisiti riguardanti la qualità e la competenza)[^annex2-lvlu1-1]
 
 [^annex2-lvlu1-1]: Le norme ISO sono consultabili gratuitamente presso l’Ufficio federale della sanità pubblica, Schwarzenburgstrasse 157, 3003 Berna, o possono essere ottenute a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+
+Allegato 3[^t-3]
+
+(art. 2 cpv. 1<sup>bis</sup> e 1<sup>ter</sup>)
+
+## Qualifiche richieste per applicare metodi di procreazione secondo lo stato della scienza e della pratica
+
+[^t-3]: Introdotto dall’all. 6 n. II 2 dell’O del 23 set. 2022 concernente gli esami genetici sull’essere umano, in vigore dal 1° dic. 2022 ([RU 2022 585](https://fedlex.data.admin.ch/eli/oc/2022/585)).
+
+Sono in possesso delle qualifiche richieste per applicare metodi di procreazione secondo lo stato della scienza e della pratica le persone con:
+
+- a. la formazione approfondita in medicina della riproduzione ed endocrinologia ginecologica secondo il programma di perfezionamento professionale dell’Istituto svizzero per la formazione medica del 23 giugno 2022[^annex3-lvlu1-1] o secondo una versione anteriore di questo programma; oppure
+- b. un perfezionamento professionale estero equivalente.
+
+[^annex3-lvlu1-1]: Consultabile in lingua tedesca all’indirizzo [www.siwf.ch](http://www.siwf.ch) &gt; Facharzttitel und Schwerpunkte &gt; Gynäkologie und Geburtshilfe &gt; Anhänge zum Weiterbildungsprogramm &gt; Anhang 4 / Schwerpunkt Reproduktionsmedizin und gynäkologische Endokrinologie o in lingua francese all’indirizzo [www.siwf.ch](http://www.siwf.ch) &gt; Titres de spécialiste et formations approfondies &gt; Gynécologie et obstétrique &gt; Annexes aux programmes de formation postgraduée &gt; Annexe 4 / Formation approfondie en médecine de la reproduction et endocrinologie gynécologique.

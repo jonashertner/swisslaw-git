@@ -4,11 +4,11 @@ title: Fortpflanzungsmedizinverordnung vom 4. Dezember 2000 (FMedV)
 short: FMedV
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/555"
 language: de
-version: 2022-07-01
+version: 2022-12-01
 adopted: 2000-12-04
 in_force: 2001-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/555/20220701/de/xml/fedlex-data-admin-ch-eli-cc-2000-555-20220701-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/555/20220701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/555/20221201/de/xml/fedlex-data-admin-ch-eli-cc-2000-555-20221201-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/555/20221201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/555/20220701/de"
 
 (FMedV)
 
-vom 4. Dezember 2000 (Stand am 1. Juli 2022)
+vom 4. Dezember 2000 (Stand am 1. Dezember 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -52,8 +52,13 @@ Eine Bewilligung nach Artikel 8 Absatz 1 des Gesetzes benötigt, wer als Inhaber
 
 Wer Fortpflanzungsverfahren anwendet, benötigt:
 
-- a. den eidgenössischen Weiterbildungstitel für Gynäkologie und Geburtshilfe mit Schwerpunkt für gynäkologische Endokrinologie und Reproduktionsmedizin oder einen gleichwertigen anerkannten ausländischen Weiterbildungstitel; und
-- b. die kantonale Bewilligung zur Berufsausübung in eigener fachlicher Verantwortung.
+- a. einen eidgenössischen Weiterbildungstitel für Gynäkologie und Geburtshilfe oder einen entsprechenden anerkannten ausländischen Weiterbildungstitel;
+- b. die Befähigung, die Verfahren nach dem Stand von Wissenschaft und Praxis durchzuführen; und
+- c. die kantonale Bewilligung zur Berufsausübung in eigener fachlicher Verantwortung.[^2-2]
+
+<sup>1bis</sup> Von der Befähigung nach Absatz 1 Buchstabe b ist auszugehen, wenn die Anforderungen nach Anhang 3 erfüllt sind.[^2-3]
+
+<sup>1ter</sup> Das Eidgenössische Departement des Innern kann Anhang 3 nachführen, wenn Änderungen der fachlichen Anforderungen an die Anwendung von Fortpflanzungsverfahren dies erfordern.[^2-4]
 
 <sup>2</sup>
 
@@ -63,6 +68,9 @@ Wer die Tätigkeit auf die Insemination mit Samenzellen eines Dritten beschränk
 - b. die kantonale Bewilligung zur Berufsausübung in eigener fachlicher Verantwortung.
 
 [^2-1]: Fassung gemäss Ziff. I der V vom 21. Juni 2017, in Kraft seit 1. Sept. 2017 ([AS 2017 3651](https://fedlex.data.admin.ch/eli/oc/2017/411)).
+[^2-2]: Fassung gemäss Anhang 6 Ziff. II 2 der V vom 23. Sept. 2022 über genetische Untersuchungen beim Menschen, in Kraft seit 1. Dez. 2022 ([AS 2022 585](https://fedlex.data.admin.ch/eli/oc/2022/585)).
+[^2-3]: Eingefügt durch Anhang 6 Ziff. II 2 der V vom 23. Sept. 2022 über genetische Untersuchungen beim Menschen, in Kraft seit 1. Dez. 2022 ([AS 2022 585](https://fedlex.data.admin.ch/eli/oc/2022/585)).
+[^2-4]: Eingefügt durch Anhang 6 Ziff. II 2 der V vom 23. Sept. 2022 über genetische Untersuchungen beim Menschen, in Kraft seit 1. Dez. 2022 ([AS 2022 585](https://fedlex.data.admin.ch/eli/oc/2022/585)).
 
 #### Art. 3
 
@@ -473,11 +481,11 @@ Die Gebühren und Auslagen im Auskunftsverfahren richten sich nach der Verordnun
 
 Diese Verordnung tritt am 1. Januar 2001 in Kraft.
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 [^t-1]: Ursprünglich: Anhang. Aufgehoben durch Ziff. II der V vom 31. Okt. 2012, mit Wirkung seit 1. Jan. 2013 ([AS 2012 6097](https://fedlex.data.admin.ch/eli/oc/2012/723)).
 
-Anhang 2*[^t-2]*
+Anhang 2[^t-2]
 
 (Art. 4 Abs. 1 Bst. c)
 
@@ -488,3 +496,18 @@ Anhang 2*[^t-2]*
 Europäische Norm ISO/IEC 17025:2005 (Allgemeine Anforderungen an die Kompetenz von Prüf- und Kalibrierlaboratorien) oder ISO 15189:2012 (Medizinische Laboratorien – Anforderungen an die Qualität und Kompetenz)[^annex2-lvlu1-1].
 
 [^annex2-lvlu1-1]: Die Normen können beim Bundesamt für Gesundheit, Schwarzenburgstrasse 157, 3003 Bern, eingesehen oder gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+
+Anhang 3[^t-3]
+
+(Art. 2 Abs. 1<sup>bis</sup> und 1<sup>ter</sup>)
+
+## Anforderungen an die Befähigung, Fortpflanzungsverfahren nach dem Stand von Wissenschaft und Praxis durchzuführen
+
+[^t-3]: Eingefügt durch Anhang 6 Ziff. II 2 der V vom 23. Sept. 2022 über genetische Untersuchungen beim Menschen, in Kraft seit 1. Dez. 2022 ([AS 2022 585](https://fedlex.data.admin.ch/eli/oc/2022/585)).
+
+Die Befähigung, Fortpflanzungsverfahren nach dem Stand von Wissenschaft und Praxis durchzuführen, liegt vor bei Personen mit:
+
+- a. dem Schwerpunkt Reproduktionsmedizin und gynäkologische Endokrinologie gemäss dem Weiterbildungsprogramm des Schweizerischen Instituts für ärztliche Weiter- und Fortbildung vom 23. Juni 2022[^annex3-lvlu1-1] oder einer früheren Fassung dieses Programms; oder
+- b. einer gleichwertigen ausländischen Weiterbildung.
+
+[^annex3-lvlu1-1]: Abrufbar unter www.siwf.ch &gt; Facharzttitel und Schwerpunkte &gt; Gynäkologie und Geburtshilfe &gt; Anhänge zum Weiterbildungsprogramm &gt; Anhang 4 / Schwerpunkt Reproduktionsmedizin und gynäkologische Endokrinologie.

@@ -4,11 +4,11 @@ title: Ordonnance du 4 décembre 2000 sur la procréation médicalement assisté
 short: OPMA
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/555"
 language: fr
-version: 2022-07-01
+version: 2022-12-01
 adopted: 2000-12-04
 in_force: 2001-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/555/20220701/fr/xml/fedlex-data-admin-ch-eli-cc-2000-555-20220701-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/555/20220701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/555/20221201/fr/xml/fedlex-data-admin-ch-eli-cc-2000-555-20221201-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/555/20221201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/555/20220701/fr"
 
 (OPMA)
 
-du 4 décembre 2000 (Etat le 1<sup>er</sup> juillet 2022)
+du 4 décembre 2000 (État le 1<sup>er</sup> décembre 2022)
 
 Le Conseil fédéral suisse,
 
@@ -52,8 +52,13 @@ Doit être en possession de l’autorisation visée à l’art. 8, al. 1, de la 
 
 Toute personne qui entend pratiquer la procréation médicalement assistée doit:
 
-- a. être titulaire du titre postgrade fédéral en gynécologie et obstétrique avec une formation approfondie en endocrinologie gynécologique et en médecine de la procréation ou être titulaire d’un titre postgrade étranger équivalent et reconnu, et
-- b. avoir l’autorisation cantonale d’exercer une activité sous sa propre responsabilité professionnelle.
+- a. être titulaire du titre postgrade fédéral en gynécologie et obstétrique ou d’un titre postgrade étranger reconnu comme équivalent;
+- b. disposer des qualifications requises pour appliquer les méthodes conformément à l’état des connaissances scientifiques et de la pratique, et
+- c. disposer de l’autorisation cantonale d’exercer une activité sous sa propre responsabilité professionnelle.[^2-2]
+
+<sup>1bis</sup> Les qualifications visées à l’al. 1, let. b, sont réputées acquises lorsque la personne remplit les exigences prévues à l’annexe 3.[^2-3]
+
+<sup>1ter</sup> Le Département fédéral de l’intérieur peut adapter l’annexe 3 si des modifications touchant les exigences professionnelles requises pour la pratique de la procréation médicalement assistée l’exigent.[^2-4]
 
 <sup>2</sup>
 
@@ -63,6 +68,9 @@ Toute personne qui pratique uniquement l’insémination avec du sperme provenan
 - b. disposer de l’autorisation cantonale d’exercer une activité sous sa propre responsabilité professionnelle.
 
 [^2-1]: Nouvelle teneur selon le ch. I de l’O du 21 juin 2017, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 3651](https://fedlex.data.admin.ch/eli/oc/2017/411)).
+[^2-2]: Nouvelle teneur selon l’annexe 6 ch. II 2 de l’O du 23 sept. 2022 sur l’analyse génétique humaine, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 585](https://fedlex.data.admin.ch/eli/oc/2022/585)).
+[^2-3]: Introduit par l’annexe 6 ch. II 2 de l’O du 23 sept. 2022 sur l’analyse génétique humaine, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 585](https://fedlex.data.admin.ch/eli/oc/2022/585)).
+[^2-4]: Introduit par l’annexe 6 ch. II 2 de l’O du 23 sept. 2022 sur l’analyse génétique humaine, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 585](https://fedlex.data.admin.ch/eli/oc/2022/585)).
 
 #### Art. 3
 
@@ -467,11 +475,11 @@ Les émoluments et les débours perçus pour la communication des informations s
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2001.
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 [^t-1]: Anciennement annexe. Abrogée par le ch. II de l’O du 31 oct. 2012, avec effet au 1<sup>er</sup> janv. 2013 ([RO 2012 6097](https://fedlex.data.admin.ch/eli/oc/2012/723)).
 
-Annexe 2*[^t-2]*
+Annexe 2[^t-2]
 
 (art. 4, al. 1, let. c)
 
@@ -482,3 +490,18 @@ Annexe 2*[^t-2]*
 Norme européenne ISO/IEC 17025:2005 (Exigences générales concernant la compétence des laboratoires d’étalonnages et d’essais) ou ISO 15189:2012 (Laboratoires de biologie médicale – Exigences concernant la qualité et la compétence)[^annex2-lvlu1-1].
 
 [^annex2-lvlu1-1]: Ces normes peuvent être consultées auprès de l’Office fédéral de la santé publique, Schwarzenburgstrasse 157, 3003 Berne ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch.
+
+Annexe 3[^t-3]
+
+(art. 2, al. 1<sup>bis</sup> et 1<sup>ter</sup>)
+
+## Exigences relatives à la qualification requise pour appliquer les méthodes de procréation médicalement assistée conformément à l’état des connaissances scientifiques et de la pratique
+
+[^t-3]: Introduite par l’annexe 6 ch. II 2 de l’O du 23 sept. 2022 sur l’analyse génétique humaine, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 585](https://fedlex.data.admin.ch/eli/oc/2022/585)).
+
+Sont réputées qualifiées pour appliquer les méthodes de procréation médicalement assistée conformément à l’état des connaissances scientifiques et de la pratique les personnes ayant:
+
+- a. une formation approfondie en médecine de la reproduction et en endocrinologie gynécologique conforme au programme de formation postgraduée de l’Institut suisse pour la formation médicale postgraduée et continue du 23 juin 2022[^annex3-lvlu1-1] ou à une version antérieure de ce programme, ou
+- b. une formation étrangère équivalente.
+
+[^annex3-lvlu1-1]: Ce texte peut être consulté à l’adresse suivante: www.isfm.ch &gt; Titres de spécialistes et formations approfondies &gt; Gynécologie et obstétrique &gt; Annexes au programme de formation postgraduée &gt; Annexe 4 / Formation approfondie en médecine de reproduction et endocrinologie gynécologique.
