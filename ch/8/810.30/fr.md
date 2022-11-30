@@ -4,11 +4,11 @@ title: "Loi fédérale du 30 septembre 2011 relative à la recherche sur l'être
 short: LRH
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/617"
 language: fr
-version: 2021-05-26
+version: 2022-12-01
 adopted: 2011-09-30
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/617/20210526/fr/xml/fedlex-data-admin-ch-eli-cc-2013-617-20210526-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/617/20210526/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/617/20221201/fr/xml/fedlex-data-admin-ch-eli-cc-2013-617-20221201-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/617/20221201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/617/20210526/fr"
 
 (Loi relative à la recherche sur l’être humain, LRH)
 
-du 30 septembre 2011 (Etat le 26 mai 2021)
+du 30 septembre 2011 (État le 1<sup>er</sup> décembre 2022)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -70,6 +70,21 @@ Elle ne s’applique pas à la recherche pratiquée:
 
 [^2-1]: [RS 810.31](https://fedlex.data.admin.ch/eli/cc/2005/104)
 
+#### Art. 2a
+
+**Application de la loi fédérale sur l’analyse génétique humaine**[^2a-1]
+
+Le Conseil fédéral peut, après avoir entendu la Commission fédérale pour l’analyse génétique humaine visée à l’art. 54 de la loi fédérale du 15 juin 2018 sur l’analyse génétique humaine (LAGH)[^2a-2], déclarer applicables à la recherche sur l’être humain les dispositions de la LAGH régissant les aspects suivants:
+
+- a. le conseil génétique;
+- b. la limitation et l’utilisation des données excédentaires;
+- c. les analyses génétiques réalisées sur des personnes incapables de discernement;
+- d. les analyses prénatales;
+- e. la réalisation d’analyses génétiques et l’utilisation des données génétiques dans le cadre de rapports de travail ou de rapports d’assurance et dans les cas de responsabilité civile.
+
+[^2a-1]: Introduit par l’annexe ch. II 3 de la LF du 15 juin 2018 sur l’analyse génétique humaine, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 537](https://fedlex.data.admin.ch/eli/oc/2022/537); [FF 2017 5253](https://fedlex.data.admin.ch/eli/fga/2017/1501)).
+[^2a-2]: [RS 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537)
+
 #### Art. 3
 
 **Définitions**
@@ -82,14 +97,15 @@ Au sens de la présente loi, on entend par:
 - d. *projet de recherche avec bénéfice direct escompté:* tout projet de recherche dont les résultats permettent d’escompter une amélioration de l’état de santé des personnes y participant;
 - e. *matériel biologique:* les substances du corps provenant de personnes vivantes;
 - f. *données personnelles liées à la santé:* les informations concernant une personne déterminée ou déterminable qui ont un lien avec son état de santé ou sa maladie, données génétiques comprises;
-- g. *données génétiques:* les informations relatives au patrimoine génétique d’une personne, obtenues par une analyse génétique;
+- g.[^3-1] *données génétiques:* les informations obtenues par une analyse génétique portant sur les caractéristiques héréditaires ou acquises pendant la phase embryonnaire;
 - h. *matériel biologique codé et données personnelles codées liées à la santé:* le matériel biologique et les données qui ne peuvent être mis en relation avec une personne déterminée qu’au moyen d’une clé;
 - i. *matériel biologique anonymisé et données anonymisées liées à la santé:* le matériel biologique et les données liées à la santé qui ne peuvent être mis en relation avec une personne déterminée ou ne peuvent l’être sans engager des efforts démesurés;
 - j. *enfant:* le mineur âgé de moins de 14 ans;
 - k. *adolescent:* le mineur âgé d’au moins 14 ans;
-- l.[^3-1] ...
+- l.[^3-2] ...
 
-[^3-1]: Abrogée par l’annexe de la LF du 22 mars 2019, avec effet au 26 mai 2021 ([RO 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^3-1]: Nouvelle teneur selon l’annexe ch. II 3 de la LF du 15 juin 2018 sur l’analyse génétique humaine, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 537](https://fedlex.data.admin.ch/eli/oc/2022/537); [FF 2017 5253](https://fedlex.data.admin.ch/eli/fga/2017/1501)).
+[^3-2]: Abrogée par l’annexe de la LF du 22 mars 2019, avec effet au 26 mai 2021 ([RO 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 
 ### Section 2 Principes
 

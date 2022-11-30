@@ -4,11 +4,11 @@ title: "Federal Act of 30 September 2011 on Research involving Human Beings (Hum
 short: HRA
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/617"
 language: en
-version: 2021-05-26
+version: 2022-12-01
 adopted: 2011-09-30
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/617/20210526/en/xml/fedlex-data-admin-ch-eli-cc-2013-617-20210526-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/617/20210526/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/617/20221201/en/xml/fedlex-data-admin-ch-eli-cc-2013-617-20221201-en-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/617/20221201/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Human Research Act, HRA)
 
-of 30 September 2011 (Status as of 26 May 2021)
+of 30 September 2011 (Status as of 1 December 2022)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -72,6 +72,21 @@ It does not apply to research which involves:
 
 [^2-1]: [SR 810.31](https://fedlex.data.admin.ch/eli/cc/2005/104)
 
+#### Art. 2a
+
+**Applicability of the Federal Act on Human Genetic Testing**[^2a-1]
+
+After consulting the Federal Commission for Human Genetic Testing, the Federal Council may in accordance with Article 54 of the Federal Act of 15 June 2018[^2a-2] on Human Genetic Testing (HGTA) declare that the HGTA applies to research involving human beings in the following fields:
+
+- a. genetic counselling;
+- b. avoiding excess information and handling such information;
+- c. genetic testing on persons lacking capacity of judgement;
+- d. prenatal testing;
+- e. conducting genetic testing and handling genetic data in connection with employment and insurance matters and in personal liability cases.
+
+[^2a-1]: Inserted by Annex No II 3 of the FA of 15 June 2018 on Human Genetic Testing, in force since 1 Dec. 2022 ([AS 2022 537](https://fedlex.data.admin.ch/eli/oc/2022/537); [BBl 2017 5597](https://fedlex.data.admin.ch/eli/fga/2017/1501)).
+[^2a-2]: [SR 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537)
+
 #### Art. 3
 
 **Definitions**
@@ -84,15 +99,15 @@ In this Act:
 - d. *Research project with an expected direct benefit* means a research project whose results can be expected to improve the health of the participants;
 - e. *Biological material* means bodily substances derived from living persons;
 - f. *Health-related personal data* means information concerning the health or disease of a specific or identifiable person, including genetic data;
-- g. *Genetic data* means information on a person's genes, obtained by genetic testing;
+- g.[^3-1] *G**enetic data* means information on hereditary properties or properties acquired during the embryonic phase obtained by genetic testing;
 - h. *Coded biological material and coded health-related personal data* means biological material and data linked to a specific person via a code;
 - i. *Anonymised biological material and anonymised health-related data* means biological material and health-related data which cannot (without disproportionate effort) be traced to a specific person;
 - j. *Child* means a legal minor under 14 years of age;
 - k. *Adolescent* means a legal minor aged 14 years or more;
-- l.[^3-1] ...
-- [tab]
+- l.[^3-2] ...
 
-[^3-1]: Repealed by Annex of the FA of 22 March 2019, with effect from 26 May 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^3-1]: Amended by Annex No II 3 of the FA of 15 June 2018 on Human Genetic Testing, in force since 1 Dec. 2022 ([AS 2022 537](https://fedlex.data.admin.ch/eli/oc/2022/537); [BBl 2017 5597](https://fedlex.data.admin.ch/eli/fga/2017/1501)).
+[^3-2]: Repealed by Annex of the FA of 22 March 2019, with effect from 26 May 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 
 ### Section 2 Principles
 
@@ -929,6 +944,6 @@ Annex
 
 The federal acts below are amended as follows:
 
-...**[^annexu1-lvlu1-1]**
+...[^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: The amendments may be consulted under [AS 2013 3215](https://fedlex.data.admin.ch/eli/oc/2013/617).

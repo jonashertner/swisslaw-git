@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 30. September 2011 über die Forschung am Menschen (Hum
 short: HFG
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/617"
 language: de
-version: 2021-05-26
+version: 2022-12-01
 adopted: 2011-09-30
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/617/20210526/de/xml/fedlex-data-admin-ch-eli-cc-2013-617-20210526-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/617/20210526/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/617/20221201/de/xml/fedlex-data-admin-ch-eli-cc-2013-617-20221201-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/617/20221201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/617/20210526/de"
 
 (Humanforschungsgesetz, HFG)
 
-vom 30. September 2011 (Stand am 26. Mai 2021)
+vom 30. September 2011 (Stand am 1. Dezember 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -70,6 +70,21 @@ Es ist nicht anwendbar auf Forschung:
 
 [^2-1]: [SR 810.31](https://fedlex.data.admin.ch/eli/cc/2005/104)
 
+#### Art. 2a
+
+**Anwendbarkeit des Bundesgesetzes über genetische Untersuchungen beim Menschen**[^2a-1]
+
+Der Bundesrat kann nach Anhörung der Eidgenössischen Kommission für genetische Untersuchungen beim Menschen nach Artikel 54 des Bundesgesetzes vom 15. Juni 2018[^2a-2] über genetische Untersuchungen beim Menschen (GUMG) die Bestimmungen des GUMG betreffend die folgenden Bereiche für die Forschung am Menschen für anwendbar erklären:
+
+- a. genetische Beratung;
+- b. Vermeidung von Überschussinformationen und Umgang mit diesen;
+- c. genetische Untersuchungen bei urteilsunfähigen Personen;
+- d. pränatale Untersuchungen;
+- e. Durchführung von genetischen Untersuchungen und Umgang mit genetischen Daten bei Arbeits- und Versicherungsverhältnissen sowie in Haftpflichtfällen.
+
+[^2a-1]: Eingefügt durch Anhang Ziff. II 3 des BG vom 15. Juni 2018 über genetische Untersuchungen beim Menschen, in Kraft seit 1. Dez. 2022 ([AS 2022 537](https://fedlex.data.admin.ch/eli/oc/2022/537); [BBl 2017 5597](https://fedlex.data.admin.ch/eli/fga/2017/1501)).
+[^2a-2]: [SR 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537)
+
 #### Art. 3
 
 **Begriffe**
@@ -82,14 +97,15 @@ Im Sinne dieses Gesetzes gelten als:
 - d. *Forschungsprojekt mit erwartetem direktem Nutzen:* ein Forschungsprojekt, dessen Ergebnisse eine Verbesserung der Gesundheit der teilnehmenden Personen erwarten lassen;
 - e. *biologisches Material:* Körpersubstanzen, die von lebenden Personen stammen;
 - f. *gesundheitsbezogene Personendaten:* Informationen über eine bestimmte oder bestimmbare Person, die sich auf deren Gesundheit oder Krankheit beziehen, einschliesslich ihrer genetischen Daten;
-- g. *genetische Daten:* Informationen über das Erbgut einer Person, die durch eine genetische Untersuchung gewonnen werden;
+- g.[^3-1] *genetische Daten:* durch eine genetische Untersuchung gewonnene Informationen über ererbte oder während der Embryonalphase erworbene Eigenschaften;
 - h. *verschlüsseltes biologisches Material und verschlüsselte gesundheitsbe**zogene Personendaten:* biologisches Material und Daten, die mit einer bestimmten Person über einen Schlüssel verknüpft sind;
 - i. *anonymisiertes biologisches Material und anonymisierte gesundheitsbe**zogene Daten:* biologisches Material und gesundheitsbezogene Daten, die nicht oder nur mit unverhältnismässigem Aufwand auf eine bestimmte Person zurückgeführt werden können;
 - j. *Kind:* minderjährige Person bis zur Vollendung des 14. Altersjahres;
 - k. *Jugendliche* oder *Jugendlicher:* minderjährige Person ab der Vollendung des 14. Altersjahres;
-- l.[^3-1] ...
+- l.[^3-2] …
 
-[^3-1]: Aufgehoben durch Anhang des BG vom 22. März 2019, mit Wirkung seit 26. Mai 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^3-1]: Fassung gemäss Anhang Ziff. II 3 des BG vom 15. Juni 2018 über genetische Untersuchungen beim Menschen, in Kraft seit 1. Dez. 2022 ([AS 2022 537](https://fedlex.data.admin.ch/eli/oc/2022/537); [BBl 2017 5597](https://fedlex.data.admin.ch/eli/fga/2017/1501)).
+[^3-2]: Aufgehoben durch Anhang des BG vom 22. März 2019, mit Wirkung seit 26. Mai 2021 ([AS 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [BBl 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 
 ### 2. Abschnitt: Grundsätze
 
@@ -926,6 +942,6 @@ Anhang
 
 Die nachstehenden Bundesgesetze werden wie folgt geändert:
 
-...[^annexu1-lvlu1-1]
+…[^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: Die Änd. können unter [AS 2013 3215](https://fedlex.data.admin.ch/eli/oc/2013/617)konsultiert werden.

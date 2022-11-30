@@ -4,11 +4,11 @@ title: "Legge federale del 30 settembre 2011 concernente la ricerca sull'essere 
 short: LRUm
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/617"
 language: it
-version: 2021-05-26
+version: 2022-12-01
 adopted: 2011-09-30
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/617/20210526/it/xml/fedlex-data-admin-ch-eli-cc-2013-617-20210526-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/617/20210526/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/617/20221201/it/xml/fedlex-data-admin-ch-eli-cc-2013-617-20221201-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/617/20221201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/617/20210526/it"
 
 (Legge sulla ricerca umana, LRUm)
 
-del 30 settembre 2011 (Stato 26 maggio 2021)
+del 30 settembre 2011 (Stato 1° dicembre 2022)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -71,6 +71,21 @@ La presente legge non è applicabile alla ricerca condotta:
 
 [^2-1]: [RS 810.31](https://fedlex.data.admin.ch/eli/cc/2005/104)
 
+#### Art. 2a
+
+**Applicabilità della legge federale sugli esami genetici sull’essere umano**[^2a-1]
+
+Il Consiglio federale, sentita la Commissione federale per gli esami genetici sull’essere umano di cui all’articolo 54 della legge federale del 15 giugno 2018[^2a-2] concernente gli esami genetici sull’essere umano (LEGU), può dichiarare applicabili alla ricerca sull’essere umano le disposizioni della LEGU relative ai seguenti settori:
+
+- a. consulenza genetica;
+- b. principio secondo cui nell’ambito dell’esecuzione degli esami vanno evitate le informazioni eccedenti e loro utilizzazione;
+- c. esami genetici su persone incapaci di discernimento;
+- d. esami prenatali;
+- e. esecuzione di esami genetici e operazioni relative ai dati genetici nell’ambito di rapporti di lavoro e assicurativi e nei casi di responsabilità civile.
+
+[^2a-1]: Introdotto dall’all. n. II 3 della LF del 15 giu. 2018 concernente gli esami genetici sull’essere umano, in vigore dal 1° dic. 2022 ([RU 2022 537](https://fedlex.data.admin.ch/eli/oc/2022/537); [FF 2017 4807](https://fedlex.data.admin.ch/eli/fga/2017/1501)).
+[^2a-2]: [RS 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537)
+
 #### Art. 3
 
 **Definizioni**
@@ -83,14 +98,15 @@ Ai sensi della presente legge si intende per:
 - d. *progetto di ricerca con presumibile beneficio diretto:* un progetto di ricerca i cui risultati fanno sperare in un miglioramento della salute delle persone che vi partecipano;
 - e. *materiale biologico:* le sostanze corporee che provengono da persone viventi;
 - f. *dati sanitari personali:* le informazioni relative a una persona determinata o determinabile che fanno riferimento alla sua salute o malattia, ivi compresi i suoi dati genetici;
-- g. *dati genetici:* le informazioni relative al patrimonio genetico di una persona, ottenute mediante un esame genetico;
+- g.[^3-1] *dati genetici:* le informazioni, ottenute mediante un esame genetico, relative a caratteristiche ereditate o acquisite durante la fase embrionale;
 - h. *materiale biologico codificato e dati sanitari personali codificati:* il materiale biologico e i dati riferibili a una determinata persona tramite un codice;
 - i. *materiale biologico anonimizzato e dati sanitari anonimizzati:* il materiale biologico e i dati sanitari che non sono riferibili a una determinata persona o possono esserlo soltanto con un onere eccessivo;
 - j. *bambino:* un minore di età inferiore ai 14 anni;
 - k. *adolescente*: un minore di almeno 14 anni;
-- l.[^3-1] ...
+- l.[^3-2] ...
 
-[^3-1]: Abrogata dall’all. della LF del 22 mar. 2019, con effetto dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
+[^3-1]: Nuovo testo giusta l’all. n. II 3 della LF del 15 giu. 2018 concernente gli esami genetici sull’essere umano, in vigore dal 1° dic. 2022 ([RU 2022 537](https://fedlex.data.admin.ch/eli/oc/2022/537); [FF 2017 4807](https://fedlex.data.admin.ch/eli/fga/2017/1501)).
+[^3-2]: Abrogata dall’all. della LF del 22 mar. 2019, con effetto dal 26 mag. 2021 ([RU 2020 2961](https://fedlex.data.admin.ch/eli/oc/2020/550); [FF 2019 1](https://fedlex.data.admin.ch/eli/fga/2019/1)).
 
 ### Sezione 2: Principi
 
