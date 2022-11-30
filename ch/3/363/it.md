@@ -3,11 +3,11 @@ sr: "363"
 title: "Legge federale del 20 giugno 2003 sull'utilizzo di profili del DNA nel procedimento penale e per l'identificazione di persone sconosciute o scomparse (Legge sui profili del DNA)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/811"
 language: it
-version: 2016-10-01
+version: 2022-12-01
 adopted: 2003-06-20
 in_force: 2005-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/811/20161001/it/xml/fedlex-data-admin-ch-eli-cc-2004-811-20161001-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/811/20161001/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/811/20221201/it/xml/fedlex-data-admin-ch-eli-cc-2004-811-20221201-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/811/20221201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/811/20161001/it"
 
 (Legge sui profili del DNA)
 
-del 20 giugno 2003 (Stato 1° ottobre 2016)
+del 20 giugno 2003 (Stato 1° dicembre 2022)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -57,8 +57,8 @@ La presente legge ha in particolare lo scopo di accrescere l’efficacia del per
 
 <sup>3</sup> ...[^1-2]
 
-[^1-1]: Nuovo testo giusta il n. 4 dell’all. alla Procedura penale minorile del 20 mar. 2009, in vigore dal 1° gen. 2011 ([RU 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 2607](https://fedlex.data.admin.ch/eli/fga/2008/675)).
-[^1-2]: Abrogato dal n. 4 dell’all. alla Procedura penale minorile del 20 mar. 2009, con effetto dal 1° gen. 2011 ([RU 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 2607](https://fedlex.data.admin.ch/eli/fga/2008/675)).
+[^1-1]: Nuovo testo giusta l’all. n. 4 della Procedura penale minorile del 20 mar. 2009, in vigore dal 1° gen. 2011 ([RU 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 2607](https://fedlex.data.admin.ch/eli/fga/2008/675)).
+[^1-2]: Abrogato dall’all. n. 4 della Procedura penale minorile del 20 mar. 2009, con effetto dal 1° gen. 2011 ([RU 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 2607](https://fedlex.data.admin.ch/eli/fga/2008/675)).
 
 #### Art. 1a
 
@@ -66,18 +66,20 @@ La presente legge ha in particolare lo scopo di accrescere l’efficacia del per
 
 Le disposizioni della sezione 2 della presente legge concernenti il procedimento penale non sono applicabili laddove il perseguimento o il giudizio di un reato sia disciplinato dal Codice di procedura penale del 5 ottobre 2007[^1a-2].
 
-[^1a-1]: Introdotto dal n. 4 dell’all. alla Procedura penale minorile del 20 mar. 2009, in vigore dal 1° gen. 2011 ([RU 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 2607](https://fedlex.data.admin.ch/eli/fga/2008/675)).
+[^1a-1]: Introdotto dall’all. n. 4 della Procedura penale minorile del 20 mar. 2009, in vigore dal 1° gen. 2011 ([RU 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 2607](https://fedlex.data.admin.ch/eli/fga/2008/675)).
 [^1a-2]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
 
 #### Art. 2
 
 **Profilo del DNA e uso previsto**
 
-<sup>1</sup> Il profilo del DNA è un codice alfanumerico specifico di un individuo, determinato mediante tecniche di biologia molecolare a partire da sequenze non codificanti del patrimonio genetico DNA.
+<sup>1</sup> Il profilo del DNA contiene informazioni su caratteristiche del patrimonio genetico specifiche di una persona, determinate mediante un esame genetico e utilizzate per identificare tale persona.[^2-1]
 
 <sup>2</sup> L’analisi del DNA non può essere utilizzata per accertare né lo stato di salute, né altre caratteristiche individuali della persona implicata, ad eccezione del sesso.
 
 <sup>3</sup> Il profilo del DNA e il relativo materiale d’analisi possono essere utilizzati soltanto per gli scopi previsti dalla presente legge (art. 1).
+
+[^2-1]: Nuovo testo giusta l’all. n. II 1 della LF del 15 giu. 2018 concernente gli esami genetici sull’essere umano, in vigore dal 1° dic. 2022 ([RU 2022 537](https://fedlex.data.admin.ch/eli/oc/2022/537); [FF 2017 4807](https://fedlex.data.admin.ch/eli/fga/2017/1501)).
 
 ## Sezione 2: Prelievo di campioni e analisi del DNA
 
@@ -112,8 +114,8 @@ Immediatamente dopo il passaggio in giudicato della sentenza, ai fini dell’all
 - b. che sono state condannate per un crimine o delitto intenzionale contro la vita o l’integrità della persona o contro l’integrità sessuale; oppure
 - c.[^5-2] nei cui confronti sono stati ordinati una misura terapeutica (art. 59–63 del Codice penale, CP[^5-3]), l’internamento (art. 64 CP) o un collocamento (art. 15 della L del 20 giu. 2003[^5-4] sul diritto penale minorile.
 
-[^5-1]: Nuovo testo giusta il n. 4 dell’all. alla Procedura penale minorile del 20 mar. 2009, in vigore dal 1° gen. 2011 ([RU 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 2607](https://fedlex.data.admin.ch/eli/fga/2008/675)).
-[^5-2]: Nuovo testo giusta il n. 4 dell’all. alla Procedura penale minorile del 20 mar. 2009, in vigore dal 1° gen. 2011 ([RU 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 2607](https://fedlex.data.admin.ch/eli/fga/2008/675)).
+[^5-1]: Nuovo testo giusta l’all. n. 4 della Procedura penale minorile del 20 mar. 2009, in vigore dal 1° gen. 2011 ([RU 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 2607](https://fedlex.data.admin.ch/eli/fga/2008/675)).
+[^5-2]: Nuovo testo giusta l’all. n. 4 della Procedura penale minorile del 20 mar. 2009, in vigore dal 1° gen. 2011 ([RU 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 2607](https://fedlex.data.admin.ch/eli/fga/2008/675)).
 [^5-3]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^5-4]: [RS 311.1](https://fedlex.data.admin.ch/eli/cc/2006/551)
 
@@ -195,7 +197,12 @@ L’autorità competente dispone la distruzione del campione prelevato su una pe
 
 <sup>1</sup> Il sistema d’informazione basato sui profili del DNA consente il confronto di profili del DNA ai fini del procedimento penale e dell’identificazione di persone ignote o scomparse.
 
-<sup>2</sup> Il sistema d’informazione è gestito esclusivamente dalla Confederazione.
+<sup>2</sup> Il sistema d’informazione è gestito esclusivamente dalla Confederazione. Il Consiglio federale può affidare la gestione operativa del sistema e i relativi compiti a uno dei laboratori riconosciuti (Ufficio di coordinamento). Per finanziare le proprie attività, quest’ultimo riscuote emolumenti.[^10-1]
+
+<sup>3</sup> Il Consiglio federale stabilisce i compiti dell’Ufficio di coordinamento e l’importo degli emolumenti.[^10-2]
+
+[^10-1]: Nuovo testo giusta l’all. n. II 1 della LF del 15 giu. 2018 concernente gli esami genetici sull’essere umano, in vigore dal 1° dic. 2022 ([RU 2022 537](https://fedlex.data.admin.ch/eli/oc/2022/537); [FF 2017 4807](https://fedlex.data.admin.ch/eli/fga/2017/1501)).
+[^10-2]: Introdotto dall’all. n. II 1 della LF del 15 giu. 2018 concernente gli esami genetici sull’essere umano, in vigore dal 1° dic. 2022 ([RU 2022 537](https://fedlex.data.admin.ch/eli/oc/2022/537); [FF 2017 4807](https://fedlex.data.admin.ch/eli/fga/2017/1501)).
 
 #### Art. 11
 
@@ -300,18 +307,18 @@ L’Ufficio federale cancella i profili del DNA di persone allestiti giusta gli 
 
 <sup>4</sup> In caso di esecuzione di una pena detentiva, di internamento, di misure terapeutiche o di espulsione ai sensi dell’articolo 66*a* o 66*a*<sup>bis</sup> CP o dell’articolo 49*a* o 49*a*<sup>bis</sup> del Codice penale militare del 13 giugno 1927, l’Ufficio federale cancella il profilo del DNA 20 anni dopo la liberazione dalla pena detentiva o dall’internamento o dopo l’esecuzione della misura o dell’espulsione.[^16-12]
 
-[^16-1]: Nuovo testo giusta il n. 4 dell’all. alla Procedura penale minorile del 20 mar. 2009, in vigore dal 1° gen. 2011 ([RU 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 2607](https://fedlex.data.admin.ch/eli/fga/2008/675)).
-[^16-2]: Nuovo testo giusta il n. 4 dell’all. alla Procedura penale minorile del 20 mar. 2009, in vigore dal 1° gen. 2011 ([RU 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 2607](https://fedlex.data.admin.ch/eli/fga/2008/675)).
-[^16-3]: Introdotta dal n. 4 dell’all. alla Procedura penale minorile del 20 mar. 2009, in vigore dal 1° gen. 2011 ([RU 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 2607](https://fedlex.data.admin.ch/eli/fga/2008/675)).
+[^16-1]: Nuovo testo giusta l’all. n. 4 della Procedura penale minorile del 20 mar. 2009, in vigore dal 1° gen. 2011 ([RU 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 2607](https://fedlex.data.admin.ch/eli/fga/2008/675)).
+[^16-2]: Nuovo testo giusta l’all. n. 4 della Procedura penale minorile del 20 mar. 2009, in vigore dal 1° gen. 2011 ([RU 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 2607](https://fedlex.data.admin.ch/eli/fga/2008/675)).
+[^16-3]: Introdotto dall’all. n. 4 della Procedura penale minorile del 20 mar. 2009, in vigore dal 1° gen. 2011 ([RU 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 2607](https://fedlex.data.admin.ch/eli/fga/2008/675)).
 [^16-4]: [RS 311.1](https://fedlex.data.admin.ch/eli/cc/2006/551)
-[^16-5]: Introdotta dal n. 4 dell’all. alla Procedura penale minorile del 20 mar. 2009, in vigore dal 1° gen. 2011 ([RU 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 2607](https://fedlex.data.admin.ch/eli/fga/2008/675)).
-[^16-6]: Introdotta dal n. 4 dell’all. alla Procedura penale minorile del 20 mar. 2009, in vigore dal 1° gen. 2011 ([RU 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 2607](https://fedlex.data.admin.ch/eli/fga/2008/675)).
-[^16-7]: Introdotta dal n. 4 dell’all. alla Procedura penale minorile del 20 mar. 2009, in vigore dal 1° gen. 2011 ([RU 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 2607](https://fedlex.data.admin.ch/eli/fga/2008/675)).
-[^16-8]: Introdotta dal n. 4 dell’all. alla Procedura penale minorile del 20 mar. 2009, in vigore dal 1° gen. 2011 ([RU 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 2607](https://fedlex.data.admin.ch/eli/fga/2008/675)).
-[^16-9]: Introdotta dal n. 4 dell’all. alla LF del 13 dic. 2013 sullʼinterdizione di esercitare unʼattività e sul divieto di avere contatti e di accedere ad aree determinate, in vigore dal 1° gen. 2015 ([RU 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355); [FF 2012 7765](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
+[^16-5]: Introdotta dall’all. n. 4 della Procedura penale minorile del 20 mar. 2009, in vigore dal 1° gen. 2011 ([RU 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 2607](https://fedlex.data.admin.ch/eli/fga/2008/675)).
+[^16-6]: Introdotta dall’all. n. 4 della Procedura penale minorile del 20 mar. 2009, in vigore dal 1° gen. 2011 ([RU 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 2607](https://fedlex.data.admin.ch/eli/fga/2008/675)).
+[^16-7]: Introdotta dall’all. n. 4 della Procedura penale minorile del 20 mar. 2009, in vigore dal 1° gen. 2011 ([RU 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 2607](https://fedlex.data.admin.ch/eli/fga/2008/675)).
+[^16-8]: Introdotta dall’all. n. 4 della Procedura penale minorile del 20 mar. 2009, in vigore dal 1° gen. 2011 ([RU 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 2607](https://fedlex.data.admin.ch/eli/fga/2008/675)).
+[^16-9]: Introdotta dall’all. n. 4 della LF del 13 dic. 2013 sullʼinterdizione di esercitare unʼattività e sul divieto di avere contatti e di accedere ad aree determinate, in vigore dal 1° gen. 2015 ([RU 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355); [FF 2012 7765](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
 [^16-10]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^16-11]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^16-12]: Nuovo testo giusta il n. 9 dell’all. alla LF del 20 mar. 2015 (Attuazione dell’art. 121 cpv. 3–6 Cost. sull’espulsione di stranieri che commettono reati), in vigore dal 1° ott. 2016 ([RU 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [FF 2013 5163](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
+[^16-12]: Nuovo testo giusta l’all. n. 9 della LF del 20 mar. 2015 (Attuazione dell’art. 121 cpv. 3–6 Cost. sull’espulsione di stranieri che commettono reati), in vigore dal 1° ott. 2016 ([RU 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [FF 2013 5163](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
 
 #### Art. 17
 
@@ -321,7 +328,7 @@ L’Ufficio federale cancella i profili del DNA di persone allestiti giusta gli 
 
 <sup>2</sup> Si può prescindere dal chiedere il consenso a un’autorità estera.
 
-[^17-1]: Nuovo testo giusta il n. 4 dell’all. alla Procedura penale minorile del 20 mar. 2009, in vigore dal 1° gen. 2011 ([RU 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 2607](https://fedlex.data.admin.ch/eli/fga/2008/675)).
+[^17-1]: Nuovo testo giusta l’all. n. 4 della Procedura penale minorile del 20 mar. 2009, in vigore dal 1° gen. 2011 ([RU 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 2607](https://fedlex.data.admin.ch/eli/fga/2008/675)).
 
 #### Art. 18
 

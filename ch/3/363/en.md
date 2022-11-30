@@ -3,11 +3,11 @@ sr: "363"
 title: Federal Act of 20 June 2003 on the Use of DNA Profiles in Criminal Proceedings and for Identifying Unidentified or Missing Persons (DNA Profiles Act)
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/811"
 language: en
-version: 2016-10-01
+version: 2022-12-01
 adopted: 2003-06-20
 in_force: 2005-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/811/20161001/en/xml/fedlex-data-admin-ch-eli-cc-2004-811-20161001-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/811/20161001/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/811/20221201/en/xml/fedlex-data-admin-ch-eli-cc-2004-811-20221201-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/811/20221201/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (DNA Profiles Act)
 
-of 20 June 2003 (Status as of 1 October 2016)
+of 20 June 2003 (Status as of 1 December 2022)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -75,11 +75,13 @@ If the prosecution or adjudication of an offence is regulated by the Criminal Pr
 
 **DNA profile and use**
 
-<sup>1</sup> A DNA profile is a combination of letters and numbers unique to an individual that is obtained from the non-coding parts of DNA genetic material with the help of molecular biology techniques.
+<sup>1</sup> A DNA profile contains information about specific characteristics of the genetic material of a person that are determined by genetic testing and used to identify that person.[^2-1]
 
 <sup>2</sup> DNA analysis may only be used to determine the gender of the person concerned; it may not be used to determine their health or other personal characteristics.
 
 <sup>3</sup> A DNA profile and its underlying analysis material may not be used for any purposes other than those provided for under this Act (Art. 1).
+
+[^2-1]: Amended by Annex No II 1 of the FA of 15 June 2018 on Human Genetic Testing, in force since 1 Dec. 2022 ([AS 2022 537](https://fedlex.data.admin.ch/eli/oc/2022/537); [BBl 2017 5597](https://fedlex.data.admin.ch/eli/fga/2017/1501)).
 
 ## Section 2 Taking Samples and DNA Analysis
 
@@ -197,7 +199,12 @@ The ordering authority shall arrange to have the sample taken from a person dest
 
 <sup>1</sup> The DNA profile information system facilitates the comparison of DNA profiles for the purpose of law enforcement and the identification of unidentified or missing persons.
 
-<sup>2</sup> The information system is operated exclusively by the Confederation.
+<sup>2</sup> The information system is operated exclusively by the Confederation. The Federal Council may delegate the operational management of the system and the related tasks to a recognised laboratory (coordination centre). This shall charge fees in order to finance its activities.[^10-1]
+
+<sup>3</sup> The Federal Council shall determine the tasks of the coordination centre and the level of its fees.[^10-2]
+
+[^10-1]: Amended by Annex No II 1 of the FA of 15 June 2018 on Human Genetic Testing, in force since 1 Dec. 2022 ([AS 2022 537](https://fedlex.data.admin.ch/eli/oc/2022/537); [BBl 2017 5597](https://fedlex.data.admin.ch/eli/fga/2017/1501)).
+[^10-2]: Inserted by Annex No II 1 of the FA of 15 June 2018 on Human Genetic Testing, in force since 1 Dec. 2022 ([AS 2022 537](https://fedlex.data.admin.ch/eli/oc/2022/537); [BBl 2017 5597](https://fedlex.data.admin.ch/eli/fga/2017/1501)).
 
 #### Art. 11
 
@@ -368,6 +375,7 @@ The Federal Council shall issue the implementing provisions, in which it shall r
 - b. the details concerning the identification of unidentified living or deceased persons and missing persons;
 - c. the arrangements and processes for generating DNA profiles;
 - d. the conditions and the procedure for approving the laboratories;
+
 - e. the notification of the Federal Office on procedure completion;
 - f. the registration of DNA profiles generated abroad.
 

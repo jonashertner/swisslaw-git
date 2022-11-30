@@ -3,11 +3,11 @@ sr: "363"
 title: "Loi fédérale du 20 juin 2003 sur l'utilisation de profils d'ADN dans les procédures pénales et sur l'identification de personnes inconnues ou disparues (Loi sur les profils d'ADN)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/811"
 language: fr
-version: 2016-10-01
+version: 2022-12-01
 adopted: 2003-06-20
 in_force: 2005-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/811/20161001/fr/xml/fedlex-data-admin-ch-eli-cc-2004-811-20161001-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/811/20161001/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/811/20221201/fr/xml/fedlex-data-admin-ch-eli-cc-2004-811-20221201-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/811/20221201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/811/20161001/fr"
 
 (Loi sur les profils d’ADN)
 
-du 20 juin 2003 (Etat le 1<sup>er</sup> octobre 2016)
+du 20 juin 2003 (État le 1<sup>er</sup> décembre 2022)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -57,8 +57,8 @@ Elle vise notamment à accroître l’efficacité des poursuites pénales en per
 
 <sup>3</sup> …[^1-2]
 
-[^1-1]: Nouvelle teneur selon le ch. 3 de l’annexe à la Procédure pénale applicable aux mineurs du 20 mars 2009, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 2759](https://fedlex.data.admin.ch/eli/fga/2008/675)).
-[^1-2]: Abrogé par le ch. 3 de l’annexe à la Procédure pénale applicable aux mineurs du 20 mars 2009, avec effet au 1<sup>er</sup> janv. 2011 ([RO 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 2759](https://fedlex.data.admin.ch/eli/fga/2008/675)).
+[^1-1]: Nouvelle teneur selon l’annexe ch. 3 de la Procédure pénale applicable aux mineurs du 20 mars 2009, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 2759](https://fedlex.data.admin.ch/eli/fga/2008/675)).
+[^1-2]: Abrogé par l’annexe ch. 3 de la Procédure pénale applicable aux mineurs du 20 mars 2009, avec effet au 1<sup>er</sup> janv. 2011 ([RO 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 2759](https://fedlex.data.admin.ch/eli/fga/2008/675)).
 
 #### Art. 1a
 
@@ -66,18 +66,20 @@ Elle vise notamment à accroître l’efficacité des poursuites pénales en per
 
 Lorsque la poursuite ou le jugement d’une infraction est régi par le code de procédure pénale du 5 octobre 2007[^1a-2], les dispositions de la section 2 de la présente loi concernant les procédures pénales ne sont pas applicables.
 
-[^1a-1]: Introduit par le ch. 3 de l’annexe à la Procédure pénale applicable aux mineurs du 20 mars 2009, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 2759](https://fedlex.data.admin.ch/eli/fga/2008/675)).
+[^1a-1]: Introduit par l’annexe ch. 3 de la Procédure pénale applicable aux mineurs du 20 mars 2009, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 2759](https://fedlex.data.admin.ch/eli/fga/2008/675)).
 [^1a-2]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
 
 #### Art. 2
 
 **Profil d’ADN et but de son utilisation**
 
-<sup>1</sup> Le profil d’ADN est un code alphanumérique propre à chaque individu qui est établi, à l’aide de techniques de biologie moléculaire, à partir des séquences non codantes du matériel génétique ADN.
+<sup>1</sup> Le profil d’ADN contient des informations sur les caractéristiques du patrimoine génétique spécifiques à une personne, qui sont déterminées à l’aide de techniques génétiques et utilisées en vue d’identifier cette personne.[^2-1]
 
 <sup>2</sup> Il est interdit, lors de l’analyse de l’ADN, de chercher à déterminer l’état de santé ou d’autres caractéristiques propres à la personne en cause, à l’exception de son sexe.
 
 <sup>3</sup> Le profil d’ADN et l’échantillon de base ne peuvent être utilisés à d’autres fins que celles prévues dans la présente loi (art. 1).
+
+[^2-1]: Nouvelle teneur selon l’annexe ch. II 1 de la LF du 15 juin 2018 sur l’analyse génétique humaine, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 537](https://fedlex.data.admin.ch/eli/oc/2022/537); [FF 2017 5253](https://fedlex.data.admin.ch/eli/fga/2017/1501)).
 
 ## Section 2 Prélèvement des échantillons et analyse de l’ADN
 
@@ -112,8 +114,8 @@ Immédiatement après l’entrée en force du jugement, un échantillon peut êt
 - b. qui ont été condamnées pour un crime ou un délit commis intentionnellement contre la vie et l’intégrité corporelle ou contre l’intégrité sexuelle;
 - c.[^5-2] contre lesquelles une mesure thérapeutique (art. 59 à 63 du Code pénal, CP[^5-3]), l’internement (art. 64 CP) ou le placement (art. 15 du droit pénal des mineurs du 20 juin 2003[^5-4]) a été prononcé.
 
-[^5-1]: Nouvelle teneur selon le ch. 3 de l’annexe à la Procédure pénale applicable aux mineurs du 20 mars 2009, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 2759](https://fedlex.data.admin.ch/eli/fga/2008/675)).
-[^5-2]: Nouvelle teneur selon le ch. 3 de l’annexe à la Procédure pénale applicable aux mineurs du 20 mars 2009, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 2759](https://fedlex.data.admin.ch/eli/fga/2008/675)).
+[^5-1]: Nouvelle teneur selon l’annexe ch. 3 de la Procédure pénale applicable aux mineurs du 20 mars 2009, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 2759](https://fedlex.data.admin.ch/eli/fga/2008/675)).
+[^5-2]: Nouvelle teneur selon l’annexe ch. 3 de la Procédure pénale applicable aux mineurs du 20 mars 2009, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 2759](https://fedlex.data.admin.ch/eli/fga/2008/675)).
 [^5-3]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^5-4]: [RS 311.1](https://fedlex.data.admin.ch/eli/cc/2006/551)
 
@@ -195,7 +197,12 @@ L’autorité qui a ordonné la mesure fait procéder à la destruction de l’�
 
 <sup>1</sup> Le système d’information fondé sur les profils d’ADN permet d’effectuer la comparaison de profils d’ADN à des fins de poursuite pénale et d’identification de personnes inconnues ou disparues.
 
-<sup>2</sup> Le système d’information est géré exclusivement par la Confédération.
+<sup>2</sup> Le système d’information est exclusivement exploité par la Confédération. Le Conseil fédéral peut confier la gestion opérationnelle du système et les tâches correspondantes à l’un des laboratoires reconnus (service de coordination). Le service de coordination perçoit des émoluments pour financer ses activités.[^10-1]
+
+<sup>3</sup> Le Conseil fédéral fixe les tâches du service de coordination et le montant des émoluments.[^10-2]
+
+[^10-1]: Nouvelle teneur selon l’annexe ch. II 1 de la LF du 15 juin 2018 sur l’analyse génétique humaine, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 537](https://fedlex.data.admin.ch/eli/oc/2022/537); [FF 2017 5253](https://fedlex.data.admin.ch/eli/fga/2017/1501)).
+[^10-2]: Introduit par l’annexe ch. II 1 de la LF du 15 juin 2018 sur l’analyse génétique humaine, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 537](https://fedlex.data.admin.ch/eli/oc/2022/537); [FF 2017 5253](https://fedlex.data.admin.ch/eli/fga/2017/1501)).
 
 #### Art. 11
 
@@ -300,19 +307,19 @@ L’office efface les profils d’ADN établis en vertu des art. 3 et 5:[^16-1]
 
 <sup>4</sup> Lorsque la personne purge une peine privative de liberté, est internée, se voit appliquer une mesure thérapeutique ou est expulsée au sens des art. 66*a* ou 66*a*<sup>bis</sup> du code pénal ou 49*a* ou 49*a*<sup>bis</sup> du code pénal militaire du 13 juin 1927, l’office efface son profil d’ADN 20 ans après la libération de la peine privative de liberté ou de l’internement, après l’exécution de la mesure thérapeutique ou l’exécution de l’expulsion.[^16-13]
 
-[^16-1]: Nouvelle teneur selon le ch. 3 de l’annexe à la Procédure pénale applicable aux mineurs du 20 mars 2009, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 2759](https://fedlex.data.admin.ch/eli/fga/2008/675)).
-[^16-2]: Nouvelle teneur selon le ch. 3 de l’annexe à la Procédure pénale applicable aux mineurs du 20 mars 2009, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 2759](https://fedlex.data.admin.ch/eli/fga/2008/675)).
-[^16-3]: Nouvelle teneur selon le ch. 3 de l’annexe à la Procédure pénale applicable aux mineurs du 20 mars 2009, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 2759](https://fedlex.data.admin.ch/eli/fga/2008/675)).
-[^16-4]: Introduite par le ch. 3 de l’annexe à la Procédure pénale applicable aux mineurs du 20 mars 2009, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 2759](https://fedlex.data.admin.ch/eli/fga/2008/675)).
+[^16-1]: Nouvelle teneur selon l’annexe ch. 3 de la Procédure pénale applicable aux mineurs du 20 mars 2009, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 2759](https://fedlex.data.admin.ch/eli/fga/2008/675)).
+[^16-2]: Nouvelle teneur selon l’annexe ch. 3 de la Procédure pénale applicable aux mineurs du 20 mars 2009, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 2759](https://fedlex.data.admin.ch/eli/fga/2008/675)).
+[^16-3]: Nouvelle teneur selon l’annexe ch. 3 de la Procédure pénale applicable aux mineurs du 20 mars 2009, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 2759](https://fedlex.data.admin.ch/eli/fga/2008/675)).
+[^16-4]: Introduite par l’annexe ch. 3 de la Procédure pénale applicable aux mineurs du 20 mars 2009, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 2759](https://fedlex.data.admin.ch/eli/fga/2008/675)).
 [^16-5]: [RS 311.1](https://fedlex.data.admin.ch/eli/cc/2006/551)
-[^16-6]: Introduite par le ch. 3 de l’annexe à la Procédure pénale applicable aux mineurs du 20 mars 2009, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 2759](https://fedlex.data.admin.ch/eli/fga/2008/675)).
-[^16-7]: Introduite par le ch. 3 de l’annexe à la Procédure pénale applicable aux mineurs du 20 mars 2009, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 2759](https://fedlex.data.admin.ch/eli/fga/2008/675)).
-[^16-8]: Introduite par le ch. 3 de l’annexe à la Procédure pénale applicable aux mineurs du 20 mars 2009, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 2759](https://fedlex.data.admin.ch/eli/fga/2008/675)).
-[^16-9]: Introduite par le ch. 3 de l’annexe à la Procédure pénale applicable aux mineurs du 20 mars 2009, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 2759](https://fedlex.data.admin.ch/eli/fga/2008/675)).
-[^16-10]: Introduite par le ch. 4 de l’annexe à la LF du 13 déc. 2013 sur l’interdiction d’exercer une activité, l’interdiction de contact et l’interdiction géographique en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355); [FF 2012 8151](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
+[^16-6]: Introduite par l’annexe ch. 3 de la Procédure pénale applicable aux mineurs du 20 mars 2009, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 2759](https://fedlex.data.admin.ch/eli/fga/2008/675)).
+[^16-7]: Introduite par l’annexe ch. 3 de la Procédure pénale applicable aux mineurs du 20 mars 2009, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 2759](https://fedlex.data.admin.ch/eli/fga/2008/675)).
+[^16-8]: Introduite par l’annexe ch. 3 de la Procédure pénale applicable aux mineurs du 20 mars 2009, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 2759](https://fedlex.data.admin.ch/eli/fga/2008/675)).
+[^16-9]: Introduite par l’annexe ch. 3 de la Procédure pénale applicable aux mineurs du 20 mars 2009, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 2759](https://fedlex.data.admin.ch/eli/fga/2008/675)).
+[^16-10]: Introduite par l’annexe ch. 4 de la LF du 13 déc. 2013 sur l’interdiction d’exercer une activité, l’interdiction de contact et l’interdiction géographique en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355); [FF 2012 8151](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
 [^16-11]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^16-12]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^16-13]: Nouvelle teneur selon le ch. 9 de l’annexe à la LF du 20 mars 2015 (Mise en oeuvre de l’art. 121, al. 3 à 6, Cst. relatif au renvoi des étrangers criminels), en vigueur depuis le 1<sup>er</sup> oct. 2016 ([RO 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [FF 2013 5373](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
+[^16-13]: Nouvelle teneur selon l’annexe ch. 9 de la LF du 20 mars 2015 (Mise en oeuvre de l’art. 121, al. 3 à 6, Cst. relatif au renvoi des étrangers criminels), en vigueur depuis le 1<sup>er</sup> oct. 2016 ([RO 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [FF 2013 5373](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
 
 #### Art. 17
 
@@ -322,7 +329,7 @@ L’office efface les profils d’ADN établis en vertu des art. 3 et 5:[^16-1]
 
 <sup>2</sup> L’office peut renoncer à demander l’approbation d’une autorité étrangère.
 
-[^17-1]: Nouvelle teneur selon le ch. 3 de l’annexe à la Procédure pénale applicable aux mineurs du 20 mars 2009, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 2759](https://fedlex.data.admin.ch/eli/fga/2008/675)).
+[^17-1]: Nouvelle teneur selon l’annexe ch. 3 de la Procédure pénale applicable aux mineurs du 20 mars 2009, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1573](https://fedlex.data.admin.ch/eli/oc/2010/226); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124), [2008 2759](https://fedlex.data.admin.ch/eli/fga/2008/675)).
 
 #### Art. 18
 

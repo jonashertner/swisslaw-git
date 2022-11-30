@@ -3,11 +3,11 @@ sr: "363"
 title: Bundesgesetz vom 20. Juni 2003 über die Verwendung von DNA-Profilen im Strafverfahren und zur Identifizierung von unbekannten oder vermissten Personen (DNA-Profil-Gesetz)
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/811"
 language: de
-version: 2016-10-01
+version: 2022-12-01
 adopted: 2003-06-20
 in_force: 2005-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/811/20161001/de/xml/fedlex-data-admin-ch-eli-cc-2004-811-20161001-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/811/20161001/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/811/20221201/de/xml/fedlex-data-admin-ch-eli-cc-2004-811-20221201-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/811/20221201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/811/20161001/de"
 
 (DNA-Profil-Gesetz)
 
-vom 20. Juni 2003 (Stand am 1. Oktober 2016)
+vom 20. Juni 2003 (Stand am 1. Dezember 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -73,11 +73,13 @@ Ist die Verfolgung oder Beurteilung einer Straftat durch die Strafprozessordnung
 
 **DNA-Profil und Verwendungszweck**
 
-<sup>1</sup> Das DNA-Profil ist die für ein Individuum spezifische Buchstaben- Zahlen-Kombination, die mit Hilfe molekularbiologischer Techniken aus den nicht-codierenden Abschnitten der Erbsubstanz DNA gewonnen wird.
+<sup>1</sup> Das DNA-Profil enthält Informationen über spezifische Eigenschaften des Erbguts einer Person, die mit einer genetischen Untersuchung abgeklärt und zur Identifizierung dieser Person verwendet werden.[^2-1]
 
 <sup>2</sup> Bei der DNA-Analyse darf weder nach dem Gesundheitszustand noch nach anderen persönlichen Eigenschaften mit Ausnahme des Geschlechtes der betroffenen Person geforscht werden.
 
 <sup>3</sup> Das DNA-Profil und das zugrundeliegende Analysematerial dürfen zu keinen anderen als den in diesem Gesetz vorgesehenen Zwecken (Art. 1) verwendet werden.
+
+[^2-1]: Fassung gemäss Anhang Ziff. II 1 des BG vom 15. Juni 2018 über genetische Untersuchungen beim Menschen, in Kraft seit 1. Dez. 2022 ([AS 2022 537](https://fedlex.data.admin.ch/eli/oc/2022/537); [BBl 2017 5597](https://fedlex.data.admin.ch/eli/fga/2017/1501)).
 
 ## 2. Abschnitt: Probenahme und DNA-Analyse
 
@@ -195,7 +197,12 @@ Die anordnende Behörde veranlasst die Vernichtung der Probe, die einer Person g
 
 <sup>1</sup> Das DNA-Profil-Informationssystem ermöglicht den Vergleich von DNA-Profilen zum Zwecke der Strafverfolgung und der Identifizierung unbekannter oder vermisster Personen.
 
-<sup>2</sup> Das Informationssystem wird ausschliesslich durch den Bund betrieben.
+<sup>2</sup> Das Informationssystem wird ausschliesslich durch den Bund betrieben. Der Bundesrat kann die operative Führung des Systems und die damit zusammenhängenden Aufgaben einem der anerkannten Labors übertragen (Koordinationsstelle). Dieses erhebt zur Finanzierung seiner Tätigkeiten Gebühren.[^10-1]
+
+<sup>3</sup> Der Bundesrat legt die Aufgaben der Koordinationsstelle und die Höhe der Gebühren fest.[^10-2]
+
+[^10-1]: Fassung gemäss Anhang Ziff. II 1 des BG vom 15. Juni 2018 über genetische Untersuchungen beim Menschen, in Kraft seit 1. Dez. 2022 ([AS 2022 537](https://fedlex.data.admin.ch/eli/oc/2022/537); [BBl 2017 5597](https://fedlex.data.admin.ch/eli/fga/2017/1501)).
+[^10-2]: Eingefügt durch Anhang Ziff. II 1 des BG vom 15. Juni 2018 über genetische Untersuchungen beim Menschen, in Kraft seit 1. Dez. 2022 ([AS 2022 537](https://fedlex.data.admin.ch/eli/oc/2022/537); [BBl 2017 5597](https://fedlex.data.admin.ch/eli/fga/2017/1501)).
 
 #### Art. 11
 
@@ -379,7 +386,7 @@ Der Bundesrat erlässt die Vollzugsbestimmungen; darin regelt er insbesondere:
 
 <sup>3</sup> Von Personen, die vor Inkrafttreten dieses Gesetzes entweder zu einer unbedingten Freiheitsstrafe von mehr als einem Jahr verurteilt worden sind, oder gegenüber denen eine freiheitsentziehende Massnahme nach den Artikeln 59, 61 oder 64 StGB[^23-2] angeordnet worden ist, kann eine Probe genommen sowie ein DNA-Profil erstellt und in das Informationssystem aufgenommen werden, solange die Freiheitsstrafe oder die freiheitsentziehende Massnahme andauert, jedoch längstens bis ein Jahr nach Inkrafttreten dieses Gesetzes.
 
-[^23-1]: [[AS 2000 1715](https://fedlex.data.admin.ch/eli/oc/2000/258), [2002 111](https://fedlex.data.admin.ch/eli/oc/2002/20)Art. 19 Ziff. 1]
+[^23-1]: [[AS 2000 1715](https://fedlex.data.admin.ch/eli/oc/2000/258); [2002 111](https://fedlex.data.admin.ch/eli/oc/2002/20)Art. 19 Ziff. 1]
 [^23-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
 #### Art. 24
