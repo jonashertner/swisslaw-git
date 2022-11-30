@@ -3,13 +3,13 @@ canton: FR
 number: "52.22"
 title: Verordnung über die Ausbildung und die Übungen der für den Bevölkerungsschutz zuständigen Organe
 language: de
-version: 2010-07-01
-valid_until: 2022-11-30
-version_adopted: 2010-06-29
+version: 2022-12-01
+valid_until: 2026-09-30
+version_adopted: 2022-11-08
 adopted: 2010-02-09
 in_force: 2010-03-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/52.22"
-pdf: "https://bdlf.fr.ch/api/de/versions/5257/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7631/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/5257/pdf_file"
 
 Bevölkerungsschutz, Ausbildung und Übungen der Organe – V
 
-vom 09.02.2010 (Fassung in Kraft getreten am 01.07.2010)
+vom 09.02.2010 (Fassung in Kraft getreten am 01.12.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -67,7 +67,7 @@ beschliesst:
 
 <sup>1</sup> Die Chefin oder der Chef und die Mitglieder des kommunalen Führungsorgans müssen sich im Hinblick auf die Erfüllung ihrer Aufgaben ausbilden.
 
-<sup>2</sup> Sie besuchen die Kurse, die vom Amt für Bevölkerungsschutz und Militär (das Amt) unter der Leitung des kantonalen Führungsorgans durchgeführt werden.
+<sup>2</sup> Sie besuchen die Kurse, die vom Amt für zivile Sicherheit und Militär (das Amt) unter der Leitung des kantonalen Führungsorgans durchgeführt werden.
 
 <sup>3</sup> Sie können weitere Kurse, insbesondere solche zu Risikoanalyse und Prävention, besuchen.
 

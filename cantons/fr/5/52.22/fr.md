@@ -3,13 +3,13 @@ canton: FR
 number: "52.22"
 title: Ordonnance sur la formation et les exercices des organes de la protection de la population
 language: fr
-version: 2010-07-01
-valid_until: 2022-11-30
-version_adopted: 2010-06-29
+version: 2022-12-01
+valid_until: 2026-09-30
+version_adopted: 2022-11-08
 adopted: 2010-02-09
 in_force: 2010-03-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/52.22"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5257/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7631/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/5257/pdf_file"
 
 Protection de la population, formation et exercices des organes – O
 
-du 09.02.2010 (version entrée en vigueur le 01.07.2010)
+du 09.02.2010 (version entrée en vigueur le 01.12.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -67,7 +67,7 @@ Arrête:
 
 <sup>1</sup> Le ou la chef-fe et les membres de l'organe communal de conduite se forment à l'exercice de leurs fonctions.
 
-<sup>2</sup> Ils suivent à cet effet les cours qui sont dispensés, sous la direction de l'organe cantonal de conduite, par le Service de la protection de la population et des affaires militaires (ci-après: le Service).
+<sup>2</sup> Ils suivent à cet effet les cours qui sont dispensés, sous la direction de l'organe cantonal de conduite, par le Service de la sécurité civile et militaire (ci-après: le Service).
 
 <sup>3</sup> Ils peuvent suivre d'autres cours, particulièrement en matière d'analyse des risques et de prévention.
 
