@@ -4,11 +4,11 @@ title: "Legge federale del 18 dicembre 1998 concernente la procreazione con assi
 short: LPAM
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/554"
 language: it
-version: 2022-07-01
+version: 2022-12-01
 adopted: 1998-12-18
 in_force: 2001-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/554/20220701/it/xml/fedlex-data-admin-ch-eli-cc-2000-554-20220701-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/554/20220701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/554/20221201/it/xml/fedlex-data-admin-ch-eli-cc-2000-554-20221201-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/554/20221201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/554/20220701/it"
 
 (Legge sulla medicina della procreazione, LPAM)
 
-del 18 dicembre 1998 (Stato 1° luglio 2022)
+del 18 dicembre 1998 (Stato 1° dicembre 2022)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -173,7 +173,7 @@ Prima dell’applicazione di un metodo di procreazione che prevede l’esame del
 - c. i possibili modi di organizzare la vita con un figlio affetto da tale malattia;
 - d. il valore indicativo e il rischio di errore dell’esame del patrimonio genetico;
 - e. i rischi che il metodo può presentare per i discendenti;
-- f. le associazioni di genitori di bambini disabili, i gruppi di mutua assistenza nonché i centri d’informazione e i consultori di cui all’articolo 17 della legge federale dell’8 ottobre 2004[^6a-2] sugli esami genetici sull’essere umano (LEGU).
+- f.[^6a-2] le associazioni di genitori di bambini disabili, i gruppi di mutua assistenza nonché i centri d’informazione e i consultori di cui all’articolo 24 della legge federale del 15 giugno 2018[^6a-3] concernente gli esami genetici sull’essere umano (LEGU).
 
 <sup>2</sup> La consulenza tiene conto unicamente della situazione individuale e familiare della coppia interessata e non di interessi sociali generali.
 
@@ -182,15 +182,21 @@ Prima dell’applicazione di un metodo di procreazione che prevede l’esame del
 <sup>4</sup> Il medico è tenuto a documentare i colloqui di consulenza.
 
 [^6a-1]: Introdotto dal n. I della LF del 12 dic. 2014, in vigore dal 1° set. 2017 ([RU 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5041](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
-[^6a-2]: [RS 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537)
+[^6a-2]: Nuovo testo giusta l’all. n. II 2 della LF del 15 giu. 2018 concernente gli esami genetici sull’essere umano, in vigore dal 1° dic. 2022 ([RU 2022 537](https://fedlex.data.admin.ch/eli/oc/2022/537); [FF 2017 4807](https://fedlex.data.admin.ch/eli/fga/2017/1501)).
+[^6a-3]: [RS 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537)
 
 #### Art. 6b
 
-**Protezione e comunicazione dei dati genetici**[^6b-1]
+**Disposizioni applicabili della LEGU**[^6b-1]
 
-La protezione e la comunicazione dei dati genetici sono disciplinate dagli articoli 7 e 19 LEGU[^6b-2].
+Ai metodi di procreazione che prevedono l’esame del patrimonio genetico di cellule germinali o embrioni *in vitro* si applicano per analogia le seguenti disposizioni della LEGU[^6b-2]:
 
-[^6b-1]: Introdotto dal n. I della LF del 12 dic. 2014, in vigore dal 1° set. 2017 ([RU 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5041](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+- a. in merito al diritto di essere informati e al diritto di non essere informati sui dati genetici, gli articoli 7 e 8 LEGU;
+- b. in merito al principio secondo cui nell’ambito dell’esecuzione degli esami vanno evitate le informazioni eccedenti, l’articolo 9 LEGU;
+- c. in merito alla protezione dei campioni e dei dati genetici, alla durata della loro conservazione e alla loro utilizzazione per un altro scopo, gli articoli 10–12 LEGU;
+- d. in merito alle operazioni relative ai dati genetici nell’ambito di rapporti di lavoro e assicurativi e nei casi di responsabilità civile, gli articoli 39 lettera b, 43 capoverso 3 e 45 LEGU.
+
+[^6b-1]: Introdotto dal n. I della LF del 12 dic. 2014 ([RU 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5041](https://fedlex.data.admin.ch/eli/fga/2013/1075)). Nuovo testo giusta l’all. n. II 2 della LF del 15 giu. 2018 concernente gli esami genetici sull’essere umano, in vigore dal 1° dic. 2022 ([RU 2022 537](https://fedlex.data.admin.ch/eli/oc/2022/537); [FF 2017 4807](https://fedlex.data.admin.ch/eli/fga/2017/1501)).
 [^6b-2]: [RS 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537)
 
 #### Art. 7
@@ -212,12 +218,13 @@ Necessita di un’autorizzazione cantonale chiunque:
 - a. applica metodi di procreazione;
 - b. prende in consegna gameti, oociti impregnati o embrioni *in vitro* allo scopo di conservarli o procura spermatozoi donati, senza applicare egli stesso metodi di procreazione.
 
-<sup>2</sup> I laboratori che eseguono esami del patrimonio genetico ai sensi dell’articolo 5*a* nell’ambito di metodi di procreazione necessitano di un’autorizzazione secondo l’articolo 8 capoverso 1 LEGU[^8-2].
+<sup>2</sup> I laboratori che eseguono esami del patrimonio genetico ai sensi dell’articolo 5*a* nell’ambito di metodi di procreazione necessitano di un’autorizzazione secondo l’articolo 28 capoverso 1 LEGU[^8-2].[^8-3]
 
 <sup>3</sup> L’inseminazione con spermatozoi del partner non soggiace ad autorizzazione.
 
 [^8-1]: Nuovo testo giusta il n. I della LF del 12 dic. 2014, in vigore dal 1° set. 2017 ([RU 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5041](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
 [^8-2]: [RS 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537)
+[^8-3]: Nuovo testo giusta l’all. n. II 2 della LF del 15 giu. 2018 concernente gli esami genetici sull’essere umano, in vigore dal 1° dic. 2022 ([RU 2022 537](https://fedlex.data.admin.ch/eli/oc/2022/537); [FF 2017 4807](https://fedlex.data.admin.ch/eli/fga/2017/1501)).
 
 #### Art. 9
 
@@ -323,7 +330,7 @@ L’autorità preposta all’autorizzazione controlla che:
 
 Il Consiglio federale emana le disposizioni d’esecuzione concernenti il rilascio e la revoca dell’autorizzazione, nonché il rapporto e la vigilanza.
 
-### Sezione 2*a*:**** Valutazione
+### Sezione 2*a*: Valutazione
 
 [^chap2-sec2a-1]
 

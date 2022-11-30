@@ -4,11 +4,11 @@ title: "Federal Act of 18 December 1998 on Medically Assisted Reproduction (Repr
 short: RMA
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/554"
 language: en
-version: 2022-07-01
+version: 2022-12-01
 adopted: 1998-12-18
 in_force: 2001-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/554/20220701/en/xml/fedlex-data-admin-ch-eli-cc-2000-554-20220701-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/554/20220701/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/554/20221201/en/xml/fedlex-data-admin-ch-eli-cc-2000-554-20221201-en-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/554/20221201/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Reproductive Medicine Act, RMA)
 
-of 18 December 1998 (Status as of 1 July 2022)
+of 18 December 1998 (Status as of 1 December 2022)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -87,7 +87,7 @@ They may only be used in couples:
 
 <sup>4</sup> Reproductive cells or impregnated ova may not be used after the death of the person from whom they were obtained. The foregoing does not apply to sperm cells from sperm donors.[^3-3]
 
-<sup>5</sup> Impregnated ova and embryos in vitro may no longer be used following the death of any one oft he couple concerned.[^3-4]
+<sup>5</sup> Impregnated ova and embryos *in vitro* may no longer be used following the death of any one oft he couple concerned.[^3-4]
 
 [^3-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 [^3-2]: Amended by Annex No 20 of the FA of 19 Dec. 2008 (Adult Protection, Law of Persons and Law of Children), in force since 1 Jan. 2013 ([AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [BBl 2006 7001](https://fedlex.data.admin.ch/eli/fga/2006/899)).
@@ -113,13 +113,13 @@ Assisted reproductive techniques may be used only if:
 
 #### Art. 5a
 
-**Analysis of the genetic material of reproductive cells and embryos in vitro and their selection**[^5a-1]
+**Analysis of the genetic material of reproductive cells and embryos *in vitro* and their selection**[^5a-1]
 
 <sup>1</sup> The analysis of the genetic material of reproductive cells and their selection to influence the sex or other characteristics of the child are only permitted in order to identify chromosomal properties that may inhibit the development capacity of the embryo to be created, or if there is no other way of avoiding the risk of transmitting a predisposition for a serious disease. Article 22 paragraph 4 is reserved.
 
 <sup>2</sup>
 
-The analysis of the genetic material of embryos in vitro and their selection according to sex or according to other characteristics are only permitted if:
+The analysis of the genetic material of embryos *in vitro* and their selection according to sex or according to other characteristics are only permitted if:
 
 - a. there is no other way of avoiding the risk of an embryo with a hereditary predisposition for a serious disease from implanting in the uterus;
 - b. it is probable that the serious disease will occur before the age of 50;
@@ -170,14 +170,14 @@ Before an assisted reproductive technique is used, the physician must adequately
 
 <sup>1</sup>
 
-Before reproductive techniques with the analysis of the genetic material of reproductive cells or embryos in vitro or with the selection of donor sperm cells to prevent the transmission of a serious disease are carried out, the physician shall, in addition to the provision of information and counselling in accordance with Article 6, ensure that the couple concerned receive non-directive, expert genetic counselling. In this connection, the couple must receive sufficient information on:
+Before reproductive techniques with the analysis of the genetic material of reproductive cells or embryos *in vitro* or with the selection of donor sperm cells to prevent the transmission of a serious disease are carried out, the physician shall, in addition to the provision of information and counselling in accordance with Article 6, ensure that the couple concerned receive non-directive, expert genetic counselling. In this connection, the couple must receive sufficient information on:
 
 - a. the frequency, significance and probability of contracting the disease and its potential symptoms;
 - b. prophylactic and therapeutic measures that may be taken against the disease;
 - c. ways of organising the life of a child that suffers from the disease;
 - d. the informative value of and risk of error in the analysis of the genetic material;
 - e. risks that reproductive techniques carry for offspring;
-- f. associations for parents of children with disabilities, self-help groups and information and counselling centres in terms of Article 17 of the Federal Act of 8 October 2004[^6a-2] on Human Genetic Testing (HGTA).
+- f.[^6a-2] associations for parents of children with disabilities, self-help groups and information and counselling centres in terms of Article 24 of the Federal Act of 15 June 2018[^6a-3] on Human Genetic Testing (HGTA).
 
 <sup>2</sup> Counselling may only concern the individual and family situation of the couple concerned and not the interests of society as a whole.
 
@@ -186,15 +186,21 @@ Before reproductive techniques with the analysis of the genetic material of repr
 <sup>4</sup> The physician must keep records of the counselling sessions.
 
 [^6a-1]: Inserted by No I of the FA of 12 Dec. 2014, in force since 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
-[^6a-2]: [SR 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537)
+[^6a-2]: Amended by Annex No II 2 of the FA of 15 June 2018 on Human Genetic Testing, in force since 1 Dec. 2022 ([AS 2022 537](https://fedlex.data.admin.ch/eli/oc/2022/537); [BBl 2017 5597](https://fedlex.data.admin.ch/eli/fga/2017/1501)).
+[^6a-3]: [SR 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537)
 
 #### Art. 6b
 
-**Protection and disclosure of genetic data**[^6b-1]
+**Applicable Provisions of the HGTA**[^6b-1]
 
-The protection and disclosure of genetic data is governed by Articles 7 and 19 HGTA[^6b-2].
+The following provisions of the HGTA[^6b-2] apply *mutatis mutandis* to assisted reproductive techniques with the analysis of the genetic material of reproductive cells or embryos *in vitro*:
 
-[^6b-1]: Inserted by No I of the FA of 12 Dec. 2014, in force since 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+- a. with regard to the right to information and the right not to know genetic data: Articles 7 and 8 HGTA;
+- b. with regard to avoiding an excess of information when conducting analyses: Article 9 HGTA;
+- c. with regard to protecting samples and genetic data, the duration of their retention and their use for a different purpose: Articles 10–12 HGTA;
+- d. with regard to handling genetic data in relation to employment and insurance and in liability cases: Articles 39 letter b, 43 paragraph 3 and 45 HGTA.
+
+[^6b-1]: Inserted by No I of the FA of 12 Dec. 2014 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)). Amended by Annex No II 2 of the FA of 15 June 2018 on Human Genetic Testing, in force since 1 Dec. 2022 ([AS 2022 537](https://fedlex.data.admin.ch/eli/oc/2022/537); [BBl 2017 5597](https://fedlex.data.admin.ch/eli/fga/2017/1501)).
 [^6b-2]: [SR 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537)
 
 #### Art. 7
@@ -214,13 +220,14 @@ The protection and disclosure of genetic data is governed by Articles 7 and 19 H
 A cantonal licence is required by any person who:
 
 - a. uses assisted reproductive techniques;
-- b. receives reproductive cells, impregnated ova or embryos in vitro for preservation or arranges the supply of donated sperm cells without personally using assisted reproductive techniques.
-- [tab] <sup>2</sup> Laboratories that conduct analyses of genetic material in connection with reproductive techniques in terms of Article 5*a* require a licence in terms of Article 8 paragraph 1 HGTA[^8-2].
+- b. receives reproductive cells, impregnated ova or embryos *in vitro* for preservation or arranges the supply of donated sperm cells without personally using assisted reproductive techniques.
+- [tab] <sup>2</sup> Laboratories that conduct analyses of genetic material in connection with reproductive techniques in terms of Article 5*a* require a licence in terms of Article 28 paragraph 1 HGTA[^8-2].[^8-3]
 
 <sup>3</sup> No licence is required for insemination using a partner’s sperm cells.
 
 [^8-1]: Amended by No I of the FA of 12 Dec. 2014, in force since 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
 [^8-2]: [SR 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537)
+[^8-3]: Amended by Annex No II 2 of the FA of 15 June 2018 on Human Genetic Testing, in force since 1 Dec. 2022 ([AS 2022 537](https://fedlex.data.admin.ch/eli/oc/2022/537); [BBl 2017 5597](https://fedlex.data.admin.ch/eli/fga/2017/1501)).
 
 #### Art. 9
 
@@ -236,11 +243,11 @@ They must:
 - b. ensure that such activities are carried out with due care and in compliance with the law;
 - c. together with staff, ensure that the persons to be treated receive comprehensive counselling and support with regard to the medical, reproductive biological and socio-psychological aspects of the procedure;
 - d. have the necessary laboratory equipment;
-- e.[^9-2] ensure that the reproductive cells, impregnated ova and embryos in vitro are preserved according to the state of the art in science and practice.
+- e.[^9-2] ensure that the reproductive cells, impregnated ova and embryos *in vitro* are preserved according to the state of the art in science and practice.
 
 <sup>3</sup>
 
-If the genetic material from reproductive cells or embryos in vitro is analysed as part of the reproductive technique, they must also:
+If the genetic material from reproductive cells or embryos *in vitro* is analysed as part of the reproductive technique, they must also:
 
 - a. demonstrate they have sufficient knowledge of medical genetics; and
 - b. guarantee that the procedure and cooperation with the laboratories concerned accords with the state of the art in science and practice.[^9-3]
@@ -251,7 +258,7 @@ If the genetic material from reproductive cells or embryos in vitro is analysed 
 
 #### Art. 10
 
-**Preservation and supply of reproductive cells, impregnated ova and embryos in vitro[^10-1]**
+**Preservation and supply of reproductive cells, impregnated ova and embryos *in vitro*[^10-1]**
 
 <sup>1</sup> A licence in accordance with Article 8 paragraph 1 letter b shall only be granted to physicians.[^10-2]
 
@@ -261,7 +268,7 @@ They must:
 
 - a. ensure that such activities are carried out with due care and in compliance with the law;
 - b. together with staff, ensure that sperm donors are carefully selected; and
-- c.[^10-3] ensure that reproductive cells, impregnated ova and embryos in vitro are preserved according to the state of science and practice.
+- c.[^10-3] ensure that reproductive cells, impregnated ova and embryos *in vitro* are preserved according to the state of science and practice.
 
 [^10-1]: Amended by No I of the FA of 12 Dec. 2014, in force since 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
 [^10-2]: Amended by No I of the FA of 12 Dec. 2014, in force since 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
@@ -281,7 +288,7 @@ The report must provide information on:
 - b. the type of indications;
 - c. the use of donated sperm cells;
 - d. the number of pregnancies and their outcome;
-- e.[^11-2] the preservation and use of reproductive cells, impregnated ova and embryos in vitro;
+- e.[^11-2] the preservation and use of reproductive cells, impregnated ova and embryos *in vitro*;
 - f. the number of surplus embryos.
 
 <sup>3</sup> It must not contain any information revealing the identity of specific people.
@@ -323,7 +330,7 @@ The licensing authority shall verify whether:
 
 The Federal Council shall enact the implementing provisions concerning the granting and withdrawal of licences, and reporting and supervision.
 
-### Section 2*a***** Evaluation
+### Section 2*a* Evaluation
 
 [^chap2-sec2a-1]
 
@@ -331,7 +338,7 @@ The Federal Council shall enact the implementing provisions concerning the grant
 
 #### Art. 14a
 
-<sup>1</sup> The Federal Office of Public Health (FOPH) shall ensure that the impact of the provisions of this Act relating to the analysis of the genetic material of embryos in vitro and their selection is evaluated.
+<sup>1</sup> The Federal Office of Public Health (FOPH) shall ensure that the impact of the provisions of this Act relating to the analysis of the genetic material of embryos *in vitro* and their selection is evaluated.
 
 <sup>2</sup>
 
@@ -364,11 +371,11 @@ The evaluation shall relate in particular to:
 
 #### Art. 16
 
-**Preservation of impregnated ova and embryos in vitro[^16-1]**
+**Preservation of impregnated ova and embryos *in vitro*[^16-1]**
 
 <sup>1</sup>
 
-Impregnated ova and embryos in vitro may only be preserved if:[^16-2]
+Impregnated ova and embryos *in vitro* may only be preserved if:[^16-2]
 
 - a.[^16-3] the couple concerned give their written consent; and
 - b. preservation is intended to permit subsequent establishment of a pregnancy.
@@ -377,7 +384,7 @@ Impregnated ova and embryos in vitro may only be preserved if:[^16-2]
 
 <sup>3</sup> Either partner may revoke his or her consent at any time in writing.[^16-5]
 
-<sup>4</sup> If consent is revoked and the preservation period expires, then the impregnated ova and the embryos in vitro shall be be destroyed immediately. The provisions of the Stem Cell Research Act of 19 December 2003[^16-6] are reserved.[^16-7]
+<sup>4</sup> If consent is revoked and the preservation period expires, then the impregnated ova and the embryos *in vitro* shall be be destroyed immediately. The provisions of the Stem Cell Research Act of 19 December 2003[^16-6] are reserved.[^16-7]
 
 <sup>5</sup> ...[^16-8]
 
@@ -580,9 +587,9 @@ In particular, the commission shall have the following tasks:
 
 #### Art. 33
 
-**Analysis of the genetic material and selection of reproductive cells and embryos in vitro**[^33-1]
+**Analysis of the genetic material and selection of reproductive cells and embryos *in vitro**[^33-1]*
 
-Any person who in the course of a reproductive technique analyses the genetic material of reproductive cells or embryos in vitro and selects them according to their sex or according to other characteristics without overcoming infertility or avoiding the transmission of the predisposition to a serious disease to the offspring shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.
+Any person who in the course of a reproductive technique analyses the genetic material of reproductive cells or embryos *in vitro* and selects them according to their sex or according to other characteristics without overcoming infertility or avoiding the transmission of the predisposition to a serious disease to the offspring shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.
 
 [^33-1]: Amended by No I of the FA of 12 Dec. 2014, in force since 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
 
@@ -592,7 +599,7 @@ Any person who in the course of a reproductive technique analyses the genetic ma
 
 <sup>1</sup> Any person who uses an assisted reproductive technique without the consent of the person from whom the reproductive cells are obtained or of the couple being treated shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.
 
-<sup>2</sup> The same penalty shall apply to any person who, acting without a licence or having obtained a licence by fraudulent means, uses assisted reproductive techniques or preserves or supplies reproductive cells, impregnated ova or embryos in vitro or arranges analyses of the genetic material of embryos in vitro.
+<sup>2</sup> The same penalty shall apply to any person who, acting without a licence or having obtained a licence by fraudulent means, uses assisted reproductive techniques or preserves or supplies reproductive cells, impregnated ova or embryos *in vitro* or arranges analyses of the genetic material of embryos *in vitro*.
 
 [^34-1]: Amended by No I of the FA of 12 Dec. 2014, in force since 1 Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
 
@@ -628,7 +635,7 @@ Any person who wilfully:
 
 - a. uses an assisted reproductive technique in a woman in contravention of Article 3 paragraph 2 letter a and paragraph 3;
 - b.[^37-2] uses reproductive cells obtained from a person who is deceased, with the exception of the sperm cells of a deceased sperm donor;
-- b<sup>bis</sup>.[^37-3] uses impregnated ova or embryos in vitro obtained from a couple one of whom is deceased;
+- b<sup>bis</sup>.[^37-3] uses impregnated ova or embryos *in vitro* obtained from a couple one of whom is deceased;
 - c. uses donated ova, develops an embryo using donated ova and donated sperm cells, or transfers a donated embryo to a woman;
 - d. uses assisted reproductive techniques in the absence of a permissible indication;
 - e.[^37-4] ...

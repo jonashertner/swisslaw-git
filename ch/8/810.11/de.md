@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 18. Dezember 1998 über die medizinisch unterstützte F
 short: FMedG
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/554"
 language: de
-version: 2022-07-01
+version: 2022-12-01
 adopted: 1998-12-18
 in_force: 2001-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/554/20220701/de/xml/fedlex-data-admin-ch-eli-cc-2000-554-20220701-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/554/20220701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/554/20221201/de/xml/fedlex-data-admin-ch-eli-cc-2000-554-20221201-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/554/20221201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/554/20220701/de"
 
 (Fortpflanzungsmedizingesetz, FMedG)
 
-vom 18. Dezember 1998 (Stand am 1. Juli 2022)
+vom 18. Dezember 1998 (Stand am 1. Dezember 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -49,7 +49,7 @@ beschliesst:
 
 In diesem Gesetz bedeuten:
 
-- a. *Verfahren der medizinisch unterstützten Fortpflanzung (Fortpflanzungsve**r**fahren):* Methoden zur Herbeiführung einer Schwangerschaft ohne Geschlechtsverkehr, insbesondere Insemination, In-vitro-Fertilisation mit Embryotransfer sowie Gametentransfer;
+- a. *Verfahren der medizinisch unterstützten Fortpflanzung (Fortpflanzungsverfahren):* Methoden zur Herbeiführung einer Schwangerschaft ohne Geschlechtsverkehr, insbesondere Insemination, In-vitro-Fertilisation mit Embryotransfer sowie Gametentransfer;
 - b. *Insemination:* das instrumentelle Einbringen von Samenzellen in die Geschlechtsorgane der Frau;
 - c. *In-vitro-Fertilisation:* die Vereinigung einer Eizelle mit Samenzellen ausserhalb des Körpers der Frau;
 - d. *Gametentransfer:* das instrumentelle Einbringen von Samen- und Eizellen in die Gebärmutter oder in einen Eileiter der Frau;
@@ -175,7 +175,7 @@ Bevor ein Fortpflanzungsverfahren mit Untersuchung des Erbguts von Keimzellen od
 - c. Möglichkeiten der Lebensgestaltung mit einem Kind, das von dieser Krankheit betroffen ist;
 - d. Aussagekraft und Fehlerrisiko der Untersuchung des Erbguts;
 - e. Risiken, die das Fortpflanzungsverfahren für die Nachkommen mit sich bringen kann;
-- f. Vereinigungen von Eltern von Kindern mit Behinderungen, Selbsthilfegruppen sowie Informations- und Beratungsstellen nach Artikel 17 des Bundesgesetzes vom 8. Oktober 2004[^6a-2] über genetische Untersuchungen beim Menschen (GUMG).
+- f.[^6a-2] Vereinigungen von Eltern von Kindern mit Behinderungen, Selbsthilfegruppen sowie Informations- und Beratungsstellen nach Artikel 24 des Bundesgesetzes vom 15. Juni 2018[^6a-3] über genetische Untersuchungen beim Menschen (GUMG).
 
 <sup>2</sup> Die Beratung darf sich nur auf die individuelle und familiäre Situation des betroffenen Paares beziehen, nicht aber auf allgemeine gesellschaftliche Interessen.
 
@@ -184,15 +184,21 @@ Bevor ein Fortpflanzungsverfahren mit Untersuchung des Erbguts von Keimzellen od
 <sup>4</sup> Die Beratungsgespräche sind von der Ärztin oder vom Arzt zu dokumentieren.
 
 [^6a-1]: Eingefügt durch Ziff. I des BG vom 12. Dez. 2014, in Kraft seit 1. Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
-[^6a-2]: [SR 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537)
+[^6a-2]: Fassung gemäss Anhang Ziff. II 2 des BG vom 15. Juni 2018 über genetische Untersuchungen beim Menschen, in Kraft seit 1. Dez. 2022 ([AS 2022 537](https://fedlex.data.admin.ch/eli/oc/2022/537); [BBl 2017 5597](https://fedlex.data.admin.ch/eli/fga/2017/1501)).
+[^6a-3]: [SR 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537)
 
 #### Art. 6b
 
-**Schutz und Mitteilung genetischer Daten**[^6b-1]
+**Anwendbare Bestimmungen des GUMG**[^6b-1]
 
-Der Schutz und die Mitteilung genetischer Daten richten sich nach den Artikeln 7 und 19 GUMG[^6b-2].
+Bei Fortpflanzungsverfahren mit Untersuchung des Erbguts von Keimzellen oder Embryonen *in vitro* sind folgende Bestimmungen des GUMG[^6b-2] sinngemäss anwendbar:
 
-[^6b-1]: Eingefügt durch Ziff. I des BG vom 12. Dez. 2014, in Kraft seit 1. Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+- a. betreffend das Recht auf Information und das Recht auf Nichtwissen genetischer Daten: die Artikel 7 und 8 GUMG;
+- b. betreffend die Vermeidung von Überschussinformationen im Rahmen der Durchführung der Untersuchungen: Artikel 9 GUMG;
+- c. betreffend den Schutz von Proben und genetischen Daten, die Dauer ihrer Aufbewahrung und ihre Verwendung zu einem anderen Zweck: die Artikel 10–12 GUMG;
+- d. betreffend den Umgang mit genetischen Daten bei Arbeits- und Versicherungsverhältnissen sowie in Haftpflichtfällen: die Artikel 39 Buchstabe b, 43 Absatz 3 und 45 GUMG.
+
+[^6b-1]: Eingefügt durch Ziff. I des BG vom 12. Dez. 2014 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)). Fassung gemäss Anhang Ziff. II 2 des BG vom 15. Juni 2018 über genetische Untersuchungen beim Menschen, in Kraft seit 1. Dez. 2022 ([AS 2022 537](https://fedlex.data.admin.ch/eli/oc/2022/537); [BBl 2017 5597](https://fedlex.data.admin.ch/eli/fga/2017/1501)).
 [^6b-2]: [SR 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537)
 
 #### Art. 7
@@ -214,12 +220,13 @@ Eine Bewilligung des Kantons benötigt, wer:
 - a. Fortpflanzungsverfahren anwendet;
 - b. Keimzellen, imprägnierte Eizellen oder Embryonen *in vitro* zur Konservierung entgegennimmt oder gespendete Samenzellen vermittelt, ohne selber Fortpflanzungsverfahren anzuwenden.
 
-<sup>2</sup> Laboratorien, die bei Fortpflanzungsverfahren nach Artikel 5*a* Untersuchungen des Erbguts durchführen, benötigen eine Bewilligung nach Artikel 8 Absatz 1 GUMG[^8-2].
+<sup>2</sup> Laboratorien, die bei Fortpflanzungsverfahren nach Artikel 5*a* Untersuchungen des Erbguts durchführen, benötigen eine Bewilligung nach Artikel 28 Absatz 1 GUMG[^8-2].[^8-3]
 
 <sup>3</sup> Für die Insemination mit Samenzellen des Partners ist keine Bewilligung erforderlich.
 
 [^8-1]: Fassung gemäss Ziff. I des BG vom 12. Dez. 2014, in Kraft seit 1. Sept. 2017 ([AS 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [BBl 2013 5853](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
 [^8-2]: [SR 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537)
+[^8-3]: Fassung gemäss Anhang Ziff. II 2 des BG vom 15. Juni 2018 über genetische Untersuchungen beim Menschen, in Kraft seit 1. Dez. 2022 ([AS 2022 537](https://fedlex.data.admin.ch/eli/oc/2022/537); [BBl 2017 5597](https://fedlex.data.admin.ch/eli/fga/2017/1501)).
 
 #### Art. 9
 
@@ -322,7 +329,7 @@ Die Bewilligungsbehörde kontrolliert, ob:
 
 Der Bundesrat erlässt die Ausführungsbestimmungen über Erteilung und Entzug der Bewilligung sowie über Berichterstattung und Aufsicht.
 
-### 2*a*. Abschnitt:**** Evaluation
+### 2*a*. Abschnitt: Evaluation
 
 [^chap2-sec2a-1]
 

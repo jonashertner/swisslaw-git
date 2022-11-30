@@ -4,20 +4,20 @@ title: Loi fédérale du 18 décembre 1998 sur la procréation médicalement ass
 short: LPMA
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/554"
 language: fr
-version: 2022-07-01
+version: 2022-12-01
 adopted: 1998-12-18
 in_force: 2001-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/554/20220701/fr/xml/fedlex-data-admin-ch-eli-cc-2000-554-20220701-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/554/20220701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/554/20221201/fr/xml/fedlex-data-admin-ch-eli-cc-2000-554-20221201-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/554/20221201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Loi fédérale sur la procréation médicalement assistée\*****
+# Loi fédérale sur la procréation médicalement assistée\*
 
 (LPMA)[^t-1]
 
-du 18 décembre 1998 (Etat le 1<sup>er</sup> juillet 2022)
+du 18 décembre 1998 (État le 1<sup>er</sup> décembre 2022)
 
 [^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes. Note de pied de page introduite par le ch. I de la LF du 12 déc. 2014, en vigueur depuis le 1<sup>er</sup> sept. 2017 (RO **2017** 3641; FF **2013** 5253).
 
@@ -175,7 +175,7 @@ Avant l’application d’une méthode de procréation médicalement assistée c
 - c. les projets de vie pouvant être envisagés avec un enfant atteint par cette maladie;
 - d. la valeur probante et le risque d’erreur de l’analyse du patrimoine génétique;
 - e. les risques que la méthode de procréation médicalement assistée peut présenter pour les descendants;
-- f. les associations de parents d’enfants handicapés, les groupes d’entraide ainsi que les services d’information et de conseil visés à l’art. 17 de la loi fédérale du 8 octobre 2004 sur l’analyse génétique humaine (LAGH)[^6a-2].
+- f.[^6a-2] les associations de parents d’enfants handicapés, les groupes d’entraide ainsi que les services d’information et de conseil visés à l’art. 24 de la loi fédérale du 15 juin 2018 sur l’analyse génétique humaine (LAGH)[^6a-3].
 
 <sup>2</sup> Le conseil porte uniquement sur la situation individuelle et familiale du couple concerné et ne prend pas en considération l’intérêt général de la société.
 
@@ -184,15 +184,21 @@ Avant l’application d’une méthode de procréation médicalement assistée c
 <sup>4</sup> Le médecin est tenu de consigner les entretiens qu’il a eus avec le couple.
 
 [^6a-1]: Introduit par le ch. I de la LF du 12 déc. 2014, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5253](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
-[^6a-2]: [RS 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537)
+[^6a-2]: Nouvelle teneur selon l’annexe ch. II 2 de la LF du 15 juin 2018 sur l’analyse génétique humaine, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 537](https://fedlex.data.admin.ch/eli/oc/2022/537); [FF 2017 5253](https://fedlex.data.admin.ch/eli/fga/2017/1501)).
+[^6a-3]: [RS 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537)
 
 #### Art. 6b
 
-**Protection et communication des données génétiques**[^6b-1]
+**Dispositions applicables de la LAGH**[^6b-1]
 
-La protection et la communication des données génétiques sont régies par les art. 7 et 19 LAGH[^6b-2].
+Les dispositions suivantes de la LAGH[^6b-2] s’appliquent par analogie aux méthodes de procréation médicalement assistée qui comprennent une analyse du patrimoine génétique de gamètes ou d’embryons *in vitro*:
 
-[^6b-1]: Introduit par le ch. I de la LF du 12 déc. 2014, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5253](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
+- a. art. 7 et 8 LAGH, en ce qui concerne le droit à l’information et le droit de ne pas être informé sur des données génétiques;
+- b. art. 9 LAGH, en ce qui concerne la limitation des informations excédentaires dans le cadre de la réalisation des analyses;
+- c. art. 10 à 12 LAGH, en ce qui concerne la protection des échantillons et des données génétiques, la durée de leur conservation et leur utilisation à une autre fin;
+- d. art. 39, let. b, 43, al. 3, et 45, LAGH, en ce qui concerne les opérations relatives aux données génétiques dans le cadre de rapports de travail ou de rapports d’assurance et dans les cas de responsabilité civile.
+
+[^6b-1]: Introduit par le ch. I de la LF du 12 déc. 2014 ([RO 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5253](https://fedlex.data.admin.ch/eli/fga/2013/1075)). Nouvelle teneur selon l’annexe ch. II 2 de la LF du 15 juin 2018 sur l’analyse génétique humaine, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 537](https://fedlex.data.admin.ch/eli/oc/2022/537); [FF 2017 5253](https://fedlex.data.admin.ch/eli/fga/2017/1501)).
 [^6b-2]: [RS 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537)
 
 #### Art. 7
@@ -214,12 +220,13 @@ Doit être en possession d’une autorisation cantonale toute personne qui:
 - a. pratique la procréation médicalement assistée;
 - b. conserve des gamètes, des ovules imprégnés ou des embryons *in vitro* ou pratique la cession de sperme provenant de dons sans mettre elle-même en œuvre les méthodes de procréation médicalement assistée.
 
-<sup>2</sup> Les laboratoires qui effectuent des analyses du patrimoine génétique dans le cadre de la procréation médicalement assistée en vertu de l’art. 5*a* doivent être titulaires de l’autorisation visée à l’art. 8, al. 1, LAGH[^8-2].
+<sup>2</sup> Les laboratoires qui effectuent des analyses du patrimoine génétique dans le cadre de la procréation médicalement assistée en vertu de l’art. 5*a* doivent être titulaires de l’autorisation visée à l’art. 28, al. 1, LAGH[^8-2].[^8-3]
 
 <sup>3</sup> L’insémination au moyen du sperme du partenaire n’est pas soumise à autorisation.
 
 [^8-1]: Nouvelle teneur selon le ch. I de la LF du 12 déc. 2014, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 3641](https://fedlex.data.admin.ch/eli/oc/2017/410); [FF 2013 5253](https://fedlex.data.admin.ch/eli/fga/2013/1075)).
 [^8-2]: [RS 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537)
+[^8-3]: Nouvelle teneur selon l’annexe ch. II 2 de la LF du 15 juin 2018 sur l’analyse génétique humaine, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 537](https://fedlex.data.admin.ch/eli/oc/2022/537); [FF 2017 5253](https://fedlex.data.admin.ch/eli/fga/2017/1501)).
 
 #### Art. 9
 
@@ -325,7 +332,7 @@ L’autorité qui délivre l’autorisation contrôle que:
 
 Le Conseil fédéral édicte les dispositions d’exécution concernant l’octroi et le retrait de l’autorisation, le rapport d’activité et la surveillance.
 
-### Section 2*a***** Évaluation
+### Section 2*a* Évaluation
 
 [^chap2-sec2a-1]
 
