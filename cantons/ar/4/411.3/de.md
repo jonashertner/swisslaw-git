@@ -3,19 +3,18 @@ canton: AR
 number: "411.3"
 title: Interkantonale Vereinbarung über die Anerkennung von Ausbildungsabschlüssen
 language: de
-version: 2015-07-01
-valid_until: 2022-11-30
-version_adopted: 2015-03-23
+version: 2022-12-01
+version_adopted: 2022-11-24
 adopted: 1993-02-18
 in_force: 1995-01-01
 url: "https://ar.clex.ch/app/de/texts_of_law/411.3"
-pdf: "https://ar.clex.ch/api/de/versions/912/pdf_file"
+pdf: "https://ar.clex.ch/api/de/versions/1454/pdf_file"
 text: pdf
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Interkantonale Vereinbarung über die Anerkennung von Ausbildungsabschlüssen
+# Interkantonale Vereinbarung über die Anerkennung von Ausbildungs-abschlüssen
 
 vom 18. Februar 1993<sup>1)</sup>
 
@@ -163,9 +162,9 @@ Schweizerische Konferenz der kantonalen Erziehungsdirektoren (EDK) Schweizerisch
 
 **Rechtsschutz<sup>12)</sup>**
 
-<sup>1</sup> Über die Anfechtung von Reglementen und Entscheiden der Anerkennungsbehörden durch einen Kanton und über andere Streitigkeiten zwischen
+<sup>1</sup> Über die Anfechtung von Reglementen und Entscheiden der Anerkennungsbehörden durch einen Kanton und über andere Streitigkeiten zwischen den
 
-<sup>12)</sup> Änderung vom 16. Juni 2005 4 den Kantonen entscheidet auf Klage hin das Bundesgericht gemäss Artikel 120 des Bundesgerichtsgesetzes<sup>13)</sup>.
+<sup>12)</sup> Änderung vom 16. Juni 2005 4 Kantonen entscheidet auf Klage hin das Bundesgericht gemäss Artikel 120 des Bundesgerichtsgesetzes<sup>13)</sup>.
 
 <sup>2</sup> Gegen Entscheide der Anerkennungsbehörden sowie gegen Entscheide betreffend die Gebühren gemäss Artikel 12ter Absatz 8 kann von betroffenen Privaten binnen 30 Tagen seit Eröffnung bei einer vom Vorstand der jeweiligen Konferenz eingesetzten Rekurskommission schriftlich und begründet Beschwerde erhoben werden. Die Vorschriften des Verwaltungsgerichtsgesetzes<sup>14)</sup> finden sinngemäss Anwendung. Entscheide der Rekurskommissionen können von den Anerkennungsbehörden wie auch von den betroffenen Privaten gestützt auf die Artikel 82ff des Bundesgerichtsgesetzes<sup>15)</sup> beim Bundesgericht mit Beschwerde angefochten werden.<sup>16)</sup>
 
@@ -183,7 +182,7 @@ Wer einen im Sinne von Artikel 8 Absatz 4 geschützten Titel führt, ohne über 
 
 <sup>1</sup> Die Kosten, die sich aus dieser Vereinbarung ergeben, werden unter Vorbehalt von Absätzen 2, 3 und 4 von den Vereinbarungskantonen nach Massgabe der Einwohnerzahl getragen.
 
-<sup>2</sup> Für das Ausstellen von Bescheinigungen über die nachträgliche gesamtschweizerische Anerkennung eines kantonalen Diploms und von Bescheinigungen im Zusammenhang mit der Meldepflicht der Dienstleistungserbringerinnen und -erbringer sowie für die Erfassung der gemäss Artikel 12ter Absatz 5 notwendigen Daten und für die Erteilung von Auskünften aus dem
+<sup>2</sup> Für das Ausstellen von Bescheinigungen über die nachträgliche gesamtschweizerische Anerkennung eines kantonalen Diploms und von Bescheinigungen im Zusammenhang mit der Meldepflicht der Dienstleistungserbringerinnen und -erbringer sowie für die Erfassung der gemäss Artikel 12ter Absatz 5 notwendigen Daten und für die Erteilung von Auskünften aus dem Register
 
 <sup>13)</sup> Bundesgesetz über das Bundesgericht vom 17. Juni 2005 (Bundesgerichtsgesetz, BGG); SR 173.110
 
@@ -193,7 +192,7 @@ Wer einen im Sinne von Artikel 8 Absatz 4 geschützten Titel führt, ohne über 
 
 <sup>16)</sup> Änderung vom 24. Oktober 2013/21. November 2013
 
-<sup>17)</sup> Änderung vom 24. Oktober 2013/21. November 2013 5 Register der Gesundheitsfachpersonen gemäss Artikel 12ter Absatz 8 können Gebühren in der Höhe von mindestens CHF 100.-- bis höchstens CHF 1000.-- erhoben werden.
+<sup>17)</sup> Änderung vom 24. Oktober 2013/21. November 2013 5 der Gesundheitsfachpersonen gemäss Artikel 12ter Absatz 8 können Gebühren in der Höhe von mindestens CHF 100.-- bis höchstens CHF 1000.-- erhoben werden.
 
 <sup>3</sup> Für Entscheide und Beschwerdeentscheide betreffend
 
@@ -341,8 +340,8 @@ Hans Ambühl
 
 Anhang gemäss Artikel 12<sup>ter</sup> Absatz 1 IKV:
 
-Osteopathin und Osteopath mit interkantonalem Diplom GDK Diplomierte Logopädin und diplomierter Logopäde (EDK) Ernährungsberaterin und Ernährungsberater FH\* Ergotherapeutin und Ergotherapeut FH\* Hebamme FH\* Physiotherapeutin und Physiotherapeut FH\* Pflegefachfrau und Pflegefachmann (HF/FH\*) Aktivierungsfachfrau und Aktivierungsfachmann HF Biomedizinische Analytikerin und biomedizinischer Analytiker HF Dentalhygienikerin und Deantalhygieniker HF Drogistin und Drogist HF Fachfrau und Fachmann für medizinisch-technische Radiologie HF/Bachelor of Science HES-SO en Technique en radiologie médicale\* \*\* Fachfrau und Fachmann Operationstechnik HF Orthoptistin und Orthoptist HF Podologin und Podologe HF Rettungssanitäterin und Rettungssanitäter HF Medizinische Masseurin und medizinischer Masseur mit eidg. Fachausweis Augenoptikerin und Augenoptiker EFZ Gesundheitsschwester und Gesundheitspfleger\* \*\*\*
+Osteopathin und Osteopath mit interkantonalem Diplom GDK Dipl. Logopäde/-pädin (EDK) Master of Science FH in Ergotherapie Master of Science FH in Ernährung und Diätetik Master of Science FH in Hebamme Master of Science FH in Physiotherapie Master of Science FH in Pflege / Master of Science in Nursing Augenoptikerin und Augenoptiker HFP Naturheilpraktikerin und Naturheilpraktiker mit eidgenössischem Diplom Aktivierungsfachfrau und Aktivierungsfachmann HF Biomedizinische Analytikerin und biomedizinischer Analytiker HF Dentalhygienikerin und Dentalhygieniker HF Drogistin und Drogist HF Radiologiefachfrau und Radiologiefachmann HF Bachelor of Science HES-SO en technique en radiologie médicale Fachfrau und Fachmann Operationstechnik HF Orthoptistin und Orthoptist HF Podologin und Podologe HF Rettungssanitäterin und Rettungssanitäter HF Augenoptikerin und Augenoptiker EFZ mit kantonaler Berufsausübungsbewilligung Podologin und Podologe EFZ mit kantonaler Berufsausübungsbewilligung Medizinische Masseurin und medizinischer Masseur mit eidg. Fachausweis
 
-<sup>24)</sup> Beschluss der Schweizerischen Konferenz der kantonalen Gesundheitsdirektorinnen und -direktoren vom 8. März 2012; Inkrafttreten per 1. Januar 2013 \* Erfassung aktuell nur im Register des Schweizerischen Roten Kreuzes (SRK) \*\* Bis zum Beginn des Wintersemesters 2014/15 befristet bewilligter, z.Zt. ausschliesslich an der Fachhochschule Westschweiz (HES-SO) angebotener Studiengang.
+Das Register über Gesundheitsfachpersonen gemäss Art. 12ter IKV umfasst zudem Angaben zu Personen mit Ausbildungsabschlüssen gemäss Art. 8 bis Art. 14 der Gesundheitsberufeanerkennungsverordnung (SR 811.214), die über keine Berufsausübungsbewilligung verfügen.
 
-\*\*\* Erteilung von Diplomen läuft Ende 2013 aus 12
+<sup>24)</sup> Beschluss der Schweizerischen Konferenz der kantonalen Gesundheitsdirektorinnen und -direktoren vom 24. November 2022; Inkrafttreten per 1. Dezember 2022. 12
