@@ -3,20 +3,19 @@ canton: FR
 number: "511.52"
 title: Beschluss über die Zuweisung der Kompetenzen für militärische Disziplinarstrafen
 language: de
-version: 2010-07-01
-valid_until: 2022-11-30
-version_adopted: 2010-06-29
+version: 2022-12-01
+version_adopted: 2022-11-08
 adopted: 1991-12-03
 in_force: 1992-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/511.52"
-pdf: "https://bdlf.fr.ch/api/de/versions/5250/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7627/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Beschluss über die Zuweisung der Kompetenzen für militärische Disziplinarstrafen
 
-vom 03.12.1991 (Fassung in Kraft getreten am 01.07.2010)
+vom 03.12.1991 (Fassung in Kraft getreten am 01.12.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -32,7 +31,7 @@ beschliesst:
 
 #### Art. 1
 
-<sup>1</sup> Das Amt für Bevölkerungsschutz und Militär ist zuständig, die Disziplinarstrafen zu verhängen, die die Militärgesetzgebung des Bundes bei ausserdienstlich begangenen Disziplinarfehlern und bei der Verletzung von Vorschriften über das militärische Kontrollwesen vorsieht.
+<sup>1</sup> Das Amt für zivile Sicherheit und Militär ist zuständig, die Disziplinarstrafen zu verhängen, welche die Militärgesetzgebung des Bundes bei ausserdienstlich begangenen Disziplinarfehlern und bei der Verletzung von Vorschriften über das militärische Kontrollwesen vorsieht.
 
 #### Art. 2
 
