@@ -3,13 +3,13 @@ canton: FR
 number: "122.0.13"
 title: Verordnung zur Bezeichnung der Verwaltungseinheiten der Direktionen des Staatsrats und der Staatskanzlei
 language: de
-version: 2022-02-01
-valid_until: 2022-11-30
-version_adopted: 2022-02-18
+version: 2022-12-01
+valid_until: 2024-02-29
+version_adopted: 2022-11-08
 adopted: 2002-07-09
 in_force: 2003-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/122.0.13"
-pdf: "https://bdlf.fr.ch/api/de/versions/7236/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7624/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/7236/pdf_file"
 
 Verwaltungseinheiten der Direktionen und der Staatskanzlei – V
 
-vom 09.07.2002 (Fassung in Kraft getreten am 01.02.2022)
+vom 09.07.2002 (Fassung in Kraft getreten am 01.12.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -62,7 +62,7 @@ beschliesst:
 
 - a) das Generalsekretariat (GS-SJSD);
 - b) die Kantonspolizei (Pol);
-- c) das Amt für Bevölkerungsschutz und Militär (BSMA);
+- c) das Amt für zivile Sicherheit und Militär (AZSM);
 - d) das Amt für Bevölkerung und Migration (BMA);
 - e) das Amt für Gewerbepolizei (GePoA);
 - f) das Amt für Justiz (AJ);

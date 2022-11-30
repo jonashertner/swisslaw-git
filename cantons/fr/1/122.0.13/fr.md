@@ -3,13 +3,13 @@ canton: FR
 number: "122.0.13"
 title: "Ordonnance désignant les unités administratives des Directions du Conseil d'Etat et de la Chancellerie d'Etat"
 language: fr
-version: 2022-02-01
-valid_until: 2022-11-30
-version_adopted: 2022-02-18
+version: 2022-12-01
+valid_until: 2024-02-29
+version_adopted: 2022-11-08
 adopted: 2002-07-09
 in_force: 2003-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/122.0.13"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7236/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7624/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/7236/pdf_file"
 
 Unités administratives des Directions et de la Chancellerie – O
 
-du 09.07.2002 (version entrée en vigueur le 01.02.2022)
+du 09.07.2002 (version entrée en vigueur le 01.12.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -62,7 +62,7 @@ Arrête:
 
 - a) le Secrétariat général (SG-DSJS);
 - b) la Police cantonale (Pol);
-- c) le Service de la protection de la population et des affaires militaires (SPPAM);
+- c) le Service de la sécurité civile et militaire (SSCM);
 - d) le Service de la population et des migrants (SPoMi);
 - e) le Service de la police du commerce (SPoCo);
 - f) le Service de la justice (SJ);
