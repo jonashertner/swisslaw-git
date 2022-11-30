@@ -3,69 +3,59 @@ canton: SH
 number: "410.220"
 title: Interkantonale Vereinbarung über die Anerkennung von Ausbildungsabschlüssen
 language: de
-version: 2008-01-01
-valid_until: 2022-11-30
-version_adopted: 2005-06-16
+version: 2022-12-01
+version_adopted: 2022-11-24
 adopted: 1993-02-18
 in_force: 1995-01-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/410.220"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/153/pdf_file"
-text: pdf
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/1815/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Schweizerische Konferenz der kantonalen Erziehungsdirektoren (Erziehungsdirektorenkonferenz) Schweizerische Konferenz der kantonalen Gesundheitsdirektorinnen und -direktoren (Gesundheitsdirektorenkonferenz) <sup>1)</sup>
+# Interkantonale Vereinbarung über die Anerkennung von Ausbildungsabschlüssen
 
-## Interkantonale Vereinbarung über die Anerkennung von Ausbildungsabschlüssen
-
-vom 18. Februar 1993
+Vom 18.02.1993 (Stand 01.12.2022)
 
 #### Art. 1
 
 **Zweck**
 
-<sup>1</sup> Die Vereinbarung regelt die Anerkennung kantonaler Ausbildungsabschlüsse, die Führung einer Liste über Lehrpersonen ohne Unterrichtsberechtigung sowie eines Registers über Gesundheitsfachpersonen. <sup>1)</sup>
+<sup>1</sup> Die Vereinbarung regelt die Anerkennung kantonaler Ausbildungsabschlüsse, die Führung einer Liste über Lehrpersonen ohne Unterrichtsberechtigung sowie eines Registers über Gesundheitsfachpersonen.
 
-<sup>2</sup> Sie regelt in Anwendung nationalen und internationalen Rechts die Anerkennung ausländischer Ausbildungsabschlüsse. <sup>1)</sup>
+<sup>2</sup> Sie regelt in Anwendung nationalen und internationalen Rechts die Anerkennung ausländischer Ausbildungsabschlüsse sowie die Umsetzung der Meldepflicht von Dienstleistungserbringerinnen und ‑erbringern.
 
 <sup>3</sup> Sie fördert den freien Zugang zu weiterführenden Schulen und zur Berufsausübung. Sie hilft mit, die Qualität der Ausbildungen für die gesamte Schweiz sicherzustellen.
 
-<sup>4</sup> Sie bildet die Grundlage für Vereinbarungen zwischen Bund und Kantonen gemäss Artikel 16 Absatz 2 des Fachhochschulgesetzes des Bundes. <sup>1)</sup>
+<sup>4</sup> Sie bildet die Grundlage für Vereinbarungen zwischen Bund und Kantonen gemäss Art. 16 Abs. 2 des Fachhochschulgesetzes des Bundes.
 
 #### Art. 2
 
 **Geltungsbereich**
 
-Die Vereinbarung gilt für alle Ausbildungen und Berufe, deren Regelung in die Zuständigkeit der Kantone fällt.
+<sup>1</sup> Die Vereinbarung gilt für alle Ausbildungen und Berufe, deren Regelung in die Zuständigkeit der Kantone fällt.
 
 #### Art. 3
-
-<sup>1)</sup>
 
 **Zusammenarbeit mit dem Bund**
 
 <sup>1</sup> In den Bereichen, in denen sowohl der Bund wie die Kantone zuständig sind, sind gemeinsame Lösungen anzustreben.
 
-Amtsblatt 2006, S. 613
+<sup>2</sup> Die Zusammenarbeit mit dem Bund erfolgt insbesondere in den Bereichen:
 
-<sup>2</sup> Die Zusammenarbeit mit dem Bund erfolgt insbesondere in den Bereichen a) Anerkennung der Maturität (allgemeine Hochschulreife),
-
-- b) Anerkennung der Fachmaturität im Besonderen und der Fachhochschulreife im Allgemeinen,
-
-- c) Anerkennung der Lehrdiplome für Berufsfachschulen,
-
+- a) Anerkennung der Maturität (allgemeine Hochschulreife)
+- b) Anerkennung der Fachmaturität im Besonderen und der Fachhochschulreife im Allgemeinen
+- c) Anerkennung der Lehrdiplome für Berufsfachschulen
 - d) Festlegung der Grundsätze für das Angebot an Diplomstudiengängen im Fachhochschulbereich und
+- e) Mitsprache und Mitwirkung der Kantone in internationalen Angelegenheiten
 
-- e) Mitsprache und Mitwirkung der Kantone in internationalen Angelegenheiten.
-
-<sup>3</sup> Die Zuständigkeit für den Abschluss von Vereinbarungen gemäss Artikel 1 Absatz 4 liegt bei der Plenarversammlung der Erziehungsdirektorenkonferenz (EDK). Im Bereich der Gesundheitsberufe ist die Gesundheitsdirektorenkonferenz (GDK) in die Verhandlungen zum Abschluss einer Vereinbarung einzubeziehen.
+<sup>3</sup> Die Zuständigkeit für den Abschluss von Vereinbarungen gemäss Art. 1 Abs. 4 liegt bei der Plenarversammlung der Erziehungsdirektorenkonferenz (EDK). Im Bereich der Gesundheitsberufe ist die Gesundheitsdirektorenkonferenz (GDK) in die Verhandlungen zum Abschluss einer Vereinbarung einzubeziehen.
 
 #### Art. 4
 
 **Anerkennungsbehörde**
 
-<sup>1</sup> Anerkennungsbehörde ist die EDK. Die GDK anerkennt Ausbildungsabschlüsse in ihrem Zuständigkeitsbereich, sofern nicht der Bund zuständig ist. <sup>1)</sup>
+<sup>1</sup> Anerkennungsbehörde ist die EDK. Die GDK anerkennt Ausbildungsabschlüsse in ihrem Zuständigkeitsbereich, sofern nicht der Bund zuständig ist.
 
 <sup>2</sup> Jeder Kanton, der der Vereinbarung beitritt, hat eine Stimme. Die übrigen Kantone haben beratende Stimme.
 
@@ -75,25 +65,26 @@ Amtsblatt 2006, S. 613
 
 <sup>1</sup> Die Erziehungsdirektorenkonferenz vollzieht die Vereinbarung.
 
-<sup>2</sup> Sie arbeitet dabei zusammen mit dem Bund und mit der Schweizerischen Universitätskonferenz in allen Fragen der universitären Ausbildungsabschlüsse. <sup>1)</sup>
+<sup>2</sup> Sie arbeitet dabei zusammen mit dem Bund und mit der Schweizerischen Universitätskonferenz in allen Fragen der universitären Ausbildungsabschlüsse.
 
-<sup>3</sup> Die Gesundheitsdirektorenkonferenz vollzieht die Vereinbarung in ihrem Zuständigkeitsbereich. Sie kann den Vollzug an Dritte übertragen; in jedem Fall obliegt ihr die Oberaufsicht. <sup>1)</sup>
+<sup>3</sup> Die Gesundheitsdirektorenkonferenz vollzieht die Vereinbarung in ihrem Zuständigkeitsbereich. Sie kann den Vollzug an Dritte übertragen; in jedem Fall obliegt ihr die Oberaufsicht.
 
 #### Art. 6
 
 **Anerkennungsreglemente**
 
-<sup>1</sup> Anerkennungsreglemente <sup>2)</sup> legen für einzelne Ausbildungsabschlüsse oder für Gruppen verwandter Ausbildungsabschlüsse insbesondere fest:
+<sup>1</sup> Anerkennungsreglemente[^6-1]) legen für einzelne Ausbildungsabschlüsse oder für Gruppen verwandter Ausbildungsabschlüsse insbesondere fest:
 
-- a) die Voraussetzungen der Anerkennung (Artikel 7),
+- a) die Voraussetzungen der Anerkennung (Art. 7)
+- b) das Anerkennungsverfahren
+- c) die Voraussetzungen für die Anerkennung ausländischer Ausbildungsabschlüsse und
+- d) das Verfahren betreffend die Meldepflicht und die Nachprüfung der Berufsqualifikationen von Dienstleistungserbringerinnen und ‑erbringern
 
-- b) das Anerkennungsverfahren und
-
-- c) die Voraussetzungen für die Anerkennung ausländischer Ausbildungsabschlüsse.
-
-<sup>2</sup> Die Anerkennungsbehörde erlässt nach Anhören der unmittelbar beteiligten Berufsorganisationen und Berufsverbände das Anerkennungsreglement. Im Fall einer Delegation des Vollzugs gemäss Artikel 5 Absatz 3 obliegt ihr die Genehmigung des Anerkennungsreglements.
+<sup>2</sup> Die Anerkennungsbehörde erlässt nach Anhören der unmittelbar beteiligten Berufsorganisationen und Berufsverbände das Anerkennungsreglement. Im Fall einer Delegation des Vollzugs gemäss Art. 5 Abs. 3 obliegt ihr die Genehmigung des Anerkennungsreglements.
 
 <sup>3</sup> Das Anerkennungsreglement, bzw. dessen Genehmigung, bedarf der Zustimmung von zwei Dritteln der stimmberechtigten Mitglieder der zuständigen Anerkennungsbehörde.
+
+[^6-1]: Publiziert unter [www.edk.ch.](https://www.edk.ch/)
 
 #### Art. 7
 
@@ -104,18 +95,14 @@ Amtsblatt 2006, S. 613
 <sup>2</sup> Die folgenden Anforderungen sind zwingend festzuhalten:
 
 - a) die mit dem Abschluss ausgewiesene Qualifikation und
-
-- b) das Prüfungsverfahren für diese Qualifikation.
+- b) das Prüfungsverfahren für diese Qualifikation
 
 <sup>3</sup> Weitere Anforderungen können festgehalten werden, wie:
 
-- a) die Dauer der Ausbildung,
-
-- b) die Zulassungsvoraussetzungen zur Ausbildung,
-
+- a) die Dauer der Ausbildung
+- b) die Zulassungsvoraussetzungen zur Ausbildung
 - c) die Lehrgegenstände und
-
-- d) die Qualifikation des Lehrpersonals.
+- d) die Qualifikation des Lehrpersonals
 
 #### Art. 8
 
@@ -139,41 +126,46 @@ Amtsblatt 2006, S. 613
 
 #### Art. 10
 
-<sup>1)</sup>
+**Rechtsschutz**
 
-**Rechtsschutz 1)**
+<sup>1</sup> Über die Anfechtung von Reglementen und Entscheiden der Anerkennungsbehörden durch einen Kanton und über andere Streitigkeiten zwischen den Kantonen entscheidet auf Klage hin das Bundesgericht gemäss Art. 120 des Bundesgerichtsgesetzes[^10-1].
 
-<sup>1</sup> Über die Anfechtung von Reglementen und Entscheiden der Anerkennungsbehörden durch einen Kanton und über andere Streitigkeiten zwischen den Kantonen entscheidet auf staatsrechtliche Klagen hin das Bundesgericht gemäss Artikel 83 lit. b des Bundesgesetzes über die Organisation der Bundesrechtspflege vom 16. Dezember 1943.
-
-<sup>2</sup> Gegen Entscheide der Anerkennungsbehörden kann von betroffenen Privaten binnen 30 Tagen seit Eröffnung bei einer vom Vorstand der jeweiligen Konferenz eingesetzten Rekurskommission schriftlich und begründet Beschwerde erhoben werden. Die allgemeinen Verfahrensgrundsätze des Bundesgesetzes über das Verwaltungsverfahren vom 20. Dezember 1968 finden sinngemäss Anwendung. Entscheide der Rekurskommissionen können gemäss Artikel 84 Absatz 1 lit. a und b des Bundesgesetzes über die Organisation der Bundesrechtspflege vom 16. Dezember 1943 beim Bundesgericht mit staatsrechtlicher Beschwerde angefochten werden.
+<sup>2</sup> Gegen Entscheide der Anerkennungsbehörden sowie gegen Entscheide betreffend die Gebühren gemäss Art. 12<sup>ter</sup> Abs. 8 kann von betroffenen Privaten binnen 30 Tagen seit Eröffnung bei einer vom Vorstand der jeweiligen Konferenz eingesetzten Rekurskommission schriftlich und begründet Beschwerde erhoben werden. Die Vorschriften des Verwaltungsgerichtsgesetzes[^10-2] finden sinngemäss Anwendung. Entscheide der Rekurskommission können von den Anerkennungsbehörden wie auch von den betroffenen Privaten gestützt auf die Art. 82 ff. des Bundesgerichtsgesetzes[^10-3] beim Bundesgericht mit Beschwerde angefochten werden.
 
 <sup>3</sup> Der Vorstand der jeweiligen Konferenz regelt die Zusammensetzung und die Organisation der Rekurskommission in einem Reglement.
+
+[^10-1]: Bundesgesetz über das Bundesgericht vom 17. Juni 2005 (Bundesgerichtsgesetz, BGG), SR [173.110](http://db.clex.ch/link/Bund/173.110/de).
+[^10-2]: Bundesgesetz über das Bundesverwaltungsgericht vom 17. Juni 2005 (Verwaltungsgerichtsgesetz, VGG), SR [173.32](http://db.clex.ch/link/Bund/173.32/de).
+[^10-3]: Bundesgesetz über das Bundesgericht vom 17. Juni 2005 (Bundesgerichtsgesetz, BGG), SR [173.110](http://db.clex.ch/link/Bund/173.110/de).
 
 #### Art. 11
 
 **Strafbestimmung**
 
-Wer einen im Sinne von Artikel 8 Absatz 4 geschützten Titel führt, ohne über einen anerkannten Ausbildungsabschluss zu verfügen, oder wer einen Titel verwendet, der den Eindruck erweckt, er habe einen anerkannten Ausbildungsabschluss erworben, wird mit Haft oder Busse bestraft. Fahrlässigkeit ist strafbar. Die Strafverfolgung obliegt den Kantonen.
+<sup>1</sup> Wer einen im Sinne von Art. 8 Abs. 4 geschützten Titel führt, ohne über einen anerkannten Ausbildungsabschluss zu verfügen, oder wer einen Titel verwendet, der den Eindruck erweckt, er habe einen anerkannten Ausbildungsabschluss erworben, wird mit Haft oder Busse bestraft. Fahrlässigkeit ist strafbar. Die Strafverfolgung obliegt den Kantonen.
 
 #### Art. 12
 
-<sup>1)</sup>
+**Kosten und Gebühren**
 
-**Kosten 1)**
+<sup>1</sup> Die Kosten, die sich aus dieser Vereinbarung ergeben, werden unter Vorbehalt von Abs. 2 bis Abs. 4 von den Vereinbarungskantonen nach Massgabe der Einwohnerzahl getragen.
 
-<sup>1</sup> Die Kosten, die sich aus dieser Vereinbarung ergeben, werden unter Vorbehalt von Absatz 2 und 3 von den Vereinbarungskantonen nach Massgabe der Einwohnerzahl getragen.
+<sup>2</sup> Für das Ausstellen von Bescheinigungen über die nachträgliche gesamtschweizerische Anerkennung eines kantonalen Diploms und von Bescheinigungen im Zusammenhang mit der Meldepflicht der Dienstleistungserbringerinnen und ‑erbringer sowie für die Erfassung der gemäss Art. 12<sup>ter</sup> Abs. 5 notwendigen Daten und für die Erteilung von Auskünften aus dem Register der Gesundheitsfachpersonen gemäss Art. 12<sup>ter</sup> Abs. 8 können Gebühren in der Höhe von mindestens Fr. 100.00 bis höchstens Fr. 1'000.00 erhoben werden.
 
-<sup>2</sup> Für Entscheide und Beschwerdeentscheide betreffend die nachträgliche gesamtschweizerische Anerkennung eines kantonalen Diploms oder die Anerkennung ausländischer Berufsdiplome können Entscheidgebühren in der Höhe von mindestens Fr. 100.-- bis höchstens Fr. 2000.-- erhoben werden. Die Entscheidgebühr bemisst sich nach dem Zeit- und Arbeitsaufwand für die Bearbeitung des Anerkennungsgesuchs.
+<sup>3</sup> Für Entscheide und Beschwerdeentscheide betreffend:
 
-<sup>3</sup> Der Vorstand der jeweiligen Konferenz legt die einzelnen Entscheidgebühren in einem Gebührenreglement fest.
+- a) die nachträgliche gesamtschweizerische Anerkennung eines kantonalen Diploms
+- b) die Anerkennung ausländischer Ausbildungsabschlüsse
+- c) die Meldepflicht für Dienstleistungserbringerinnen und ‑erbringer und
+- d) die Nachprüfung der beruflichen Qualifikationen der Dienstleistungserbringerinnen und ‑erbringer können Gebühren in der Höhe von mindestens Fr. 100.00 bis höchstens Fr. 3'000.00 erhoben werden
+
+<sup>4</sup> Der Vorstand der jeweiligen Konferenz legt die einzelnen Gebühren in einem Gebührenreglement fest. Sie bemisst sich nach dem jeweiligen Zeit- und Arbeitsaufwand sowie nach dem öffentlichen Interesse an der jeweiligen Tätigkeit.
 
 #### Art. 12bis
 
-<sup>1)</sup>
-
 **Liste über Lehrpersonen ohne Unterrichtsberechtigung**
 
-<sup>1</sup> Die EDK führt eine Liste über Lehrpersonen, denen im Rahmen eines kantonalen Entscheides die Unterrichtsberechtigung oder die Berufsausübungsbewilligung entzogen wurde. Die Kantone sind verpflichtet, die Personendaten gemäss Absatz 2 dem Generalsekretariat der EDK nach Rechtskraft des entsprechenden Entscheides mitzuteilen.
+<sup>1</sup> Die EDK führt eine Liste über Lehrpersonen, denen im Rahmen eines kantonalen Entscheides die Unterrichtsberechtigung oder die Berufsausübungsbewilligung entzogen wurde. Die Kantone sind verpflichtet, die Personendaten gemäss Abs. 2 dem Generalsekretariat der EDK nach Rechtskraft des entsprechenden Entscheides mitzuteilen.
 
 <sup>2</sup> Die Liste enthält den Namen der Lehrperson, das Datum des Diploms oder der Berufsausübungsbewilligung, das Datum der Entzugsverfügung, die Entzugsbehörde und die Dauer des Entzugs, gegebenenfalls das Datum des Entzugs des Lehrdiploms. Kantonale und kommunale Behörden im Bildungsbereich erhalten auf schriftliche Anfrage hin Auskunft über eine allfällige Eintragung, wenn sie ein berechtigtes Interesse nachweisen und sich die Anfrage auf eine bestimmte Person bezieht.
 
@@ -181,39 +173,42 @@ Wer einen im Sinne von Artikel 8 Absatz 4 geschützten Titel führt, ohne über 
 
 <sup>4</sup> Nach Ablauf der Entzugsdauer, bei Wiedererteilung der Unterrichtsberechtigung oder nach Vollendung des 70. Altersjahrs wird der Eintrag gelöscht.
 
-<sup>5</sup> Betroffene Lehrpersonen können sich gegen den Listeneintrag innert 30 Tagen seit Zustellung des Eintragungsbescheides bei der Rekurskommission gemäss Artikel 10 Absatz 2 schriftlich und begründet beschweren.
+<sup>5</sup> Betroffene Lehrpersonen können sich gegen den Listeneintrag innert 30 Tagen seit Zustellung des Eintragungsbescheides bei der Rekurskommission gemäss Art. 10 Abs. 2 schriftlich und begründet beschweren.
 
 <sup>6</sup> Im Übrigen finden die Grundsätze des Datenschutzrechtes des Kantons Bern sinngemäss Anwendung.
 
 #### Art. 12ter
 
-<sup>1)</sup>
-
 **Register über Gesundheitsfachpersonen**
 
-<sup>1</sup> Die GDK führt ein Register über die Inhaberinnen und Inhaber von in- und ausländischen Ausbildungsabschlüssen in den im Anhang zu dieser Vereinbarung aufgeführten Gesundheitsberufen. Sie kann diese Aufgabe an Dritte delegieren.
+<sup>1</sup> Die GDK führt ein Register über die Inhaberinnen und Inhaber von inländischen, im Anhang zu dieser Vereinbarung aufgeführten nichtuniversitären Ausbildungsabschlüssen in Gesundheitsberufen sowie die Inhaberinnen und Inhaber entsprechender als gleichwertig anerkannter ausländischer Ausbildungsabschlüsse. Das Register erfasst ausserdem Personen, die sich nach dem BGMD[^12ter-1] gemeldet haben und über den Abschluss in einem Beruf gemäss Anhang verfügen.
 
-<sup>2</sup> Das Zentralsekretariat der GDK passt den Anhang jeweils dem neuesten Stand an.
+<sup>2</sup> Die GDK kann die Führung des Registers an Dritte delegieren.
 
-<sup>3</sup> Das Register dient dem Schutz und der Information von Patientinnen und Patienten, der Information von in- und ausländischen Stellen, der Qualitätssicherung sowie zu statistischen Zwecken.
+<sup>3</sup> Der Vorstand der GDK passt den Anhang jeweils dem neuesten Stand an.
 
-<sup>4</sup> Das Register enthält die Personendaten (Name, Mädchenname, Geburtsdatum und Geburtsort, Nationalität) der Diplominhaberinnen und -inhaber. Es enthält ausserdem die Diplomart, das Datum und den Ort der Diplomausstellung sowie Angaben zu allfälligen von den zuständigen Behörden erteilten Berufsausübungsbewilligungen einschliesslich deren Erlöschen. Entzug, Verweigerung und Änderungen der Bewilligungen sowie andere rechtskräftige aufsichtsrechtliche Massnahmen werden unter Nennung der verfügenden Behörde und Angabe des Verfügungsdatums im Register eingetragen.
+<sup>4</sup> Das Register dient dem Schutz und der Information von Patientinnen und Patienten, der Information von in- und ausländischen Stellen, der Qualitätssicherung sowie zu statistischen Zwecken. Es dient ausserdem der Vereinfachung der für die Erteilung der Berufsausübungsbewilligungen notwendigen Abläufe.
 
-<sup>5</sup> Die für die Diplomerteilung zuständigen und die in den Kantonen mit der Aufsicht über die Berufe des Gesundheitswesens betrauten Stellen sorgen für die unverzügliche Übermittlung der Daten.
+<sup>5</sup> Das Register enthält die Daten, die zur Erreichung des Zwecks nach Abs. 4 benötigt werden. Dazu gehören auch die in Abs. 7 Satz 2 genannten besonders schützenswerte Personendaten. Im Register wird ebenfalls die Versichertennummer gemäss Art. 50e Abs. 3 des Bundesgesetzes vom 20. Dezember 1946 über die Alters- und Hinterlassenenversicherung[^12ter-2]) zur eindeutigen Identifizierung der im Register aufgeführten Personen sowie der Aktualisierung der Personendaten systematisch verwendet. Der Vorstand der GDK erlässt nähere Bestimmungen.
 
-<sup>6</sup> Bei Nachweis eines berechtigten Interesses werden auf schriftliche Anfrage Auskünfte über konkrete Einträge gemäss Absatz 4 Satz 1 und 2, insbesondere an kantonale und ausländische Behörden, Krankenversicherer und Arbeitgeber erteilt. Auskünfte über Einträge betreffend aufsichtsrechtliche Massnahmen werden nur den für die Erteilung von Berufsausübungsbewillligungen zuständigen Behörden erteilt.
+<sup>6</sup> Die für die Erteilung von inländischen und die für die Anerkennung von ausländischen Ausbildungsabschlüssen zuständigen Stellen teilen der registerführenden Stelle unverzüglich jeden erteilten beziehungsweise anerkannten Ausbildungsabschluss mit. Die zuständigen kantonalen Behörden teilen der registerführenden Stelle unverzüglich die Erteilung, die Verweigerung, den Entzug und jede Änderung der Bewilligung zur Berufsausübung, namentlich jede Einschränkung der Berufsausübung, jede andere aufsichtsrechtliche Massnahme sowie die Personen mit, die sich nach dem BGMD gemeldet haben und ihre Tätigkeit ausüben dürfen. Die in Abs. 1 genannten Personen liefern der registerführenden Stelle alle im Sinne des Abs. 5 erforderlichen Daten, soweit sie über diese verfügen und nicht andere Stellen zur Datenlieferung verpflichtet sind.
 
-<sup>7</sup> Für die Erteilung von Auskünften an Private und ausserkantonale Stellen wird eine Kanzleigebühr erhoben.
+<sup>7</sup> Die im Register enthaltenen Daten werden durch ein Abrufverfahren bekannt gegeben. Gründe für den Entzug beziehungsweise die Verweigerung der Berufsausübungsbewilligungen sowie Daten zu aufgehobenen Einschränkungen und zu anderen aufsichtsrechtlichen Massnahmen stehen nur den für die Erteilung von Berufsausübungsbewilligungen sowie den für die Aufsicht zuständigen Behörden zur Verfügung. Die Versichertennummer steht nur der registerführenden Stelle sowie den für die Erteilung von Berufsausübungsbewilligungen zuständigen Behörden zur Verfügung. Alle anderen Daten sind öffentlich zugänglich.
 
-<sup>8</sup> Alle Eintragungen zu einer Person werden mit Vollendung des 70. Lebensjahres oder wenn eine Behörde deren Ableben meldet aus dem Register entfernt. Verwarnungen, Verweise und Bussen werden fünf Jahre nach deren Anordnung, der Eintrag von Einschränkungen der Berufsausübung fünf Jahre nach deren Aufhebung im Register mit dem Vermerk "gelöscht" versehen. Beim Eintrag eines befristeten Berufsausübungsverbotes wird zehn Jahre nach dessen Aufhebung der Vermerk "gelöscht" angebracht.
+<sup>8</sup> Für die Erfassung der nach Abs. 5 notwendigen Daten werden bei den in Abs. 1 genannten Personen, für die Erteilung von Auskünften an Private und ausserkantonale Stellen von den Auskunftsersuchenden Gebühren gemäss Art. 12 erhoben.
 
-<sup>9</sup> Das Einsichtsrecht der betroffenen Gesundheitsfachpersonen ist jederzeit gewährleistet.
+<sup>9</sup> Alle Einträge zu einer Person werden aus dem Register entfernt, sobald eine Behörde deren Ableben meldet. Die Daten können danach in anonymisierter Form für statistische Zwecke verwendet werden. Der Eintrag von Verwarnungen, Verweisen und Bussen wird fünf Jahre nach ihrer Anordnung, der Eintrag von Einschränkungen der Bewilligung fünf Jahre nach deren Aufhebung entfernt. Beim Eintrag eines befristeten Berufsausübungsverbotes wird zehn Jahre nach seiner Aufhebung im Register der Vermerk «gelöscht» angebracht.
 
-<sup>10</sup> Im Übrigen finden die Grundsätze des Datenschutzrechtes des Kantons Bern sinngemäss Anwendung.
+<sup>10</sup> Das Einsichtsrecht der betroffenen Gesundheitsfachpersonen ist jederzeit gewährleistet.
+
+<sup>11</sup> Im Übrigen finden die Grundsätze des Datenschutzrechtes des Kantons Bern sinngemäss Anwendung.
+
+[^12ter-1]: Bundesgesetz über die Meldepflicht und die Nachprüfung der Berufsqualifikationen von Dienstleistungserbringerinnen und ‑erbringern in reglementierten Berufen (BGMD), SR [935.01](http://db.clex.ch/link/Bund/935.01/de).
+[^12ter-2]: SR [831.10](http://db.clex.ch/link/Bund/831.10/de).
 
 #### Art. 13
 
-**Beitritt/ Kündigung**
+**Beitritt / Kündigung**
 
 <sup>1</sup> Der Beitritt zu dieser Vereinbarung wird dem Vorstand der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren gegenüber erklärt. Dieser teilt die Beitrittserklärung dem Bundesrat mit.
 
@@ -223,30 +218,41 @@ Wer einen im Sinne von Artikel 8 Absatz 4 geschützten Titel führt, ohne über 
 
 **In-Kraft-Treten**
 
-Der Vorstand der Erziehungsdirektorenkonferenz setzt die Vereinbarung in Kraft, wenn ihr mindestens 17 Kantone beigetreten sind und wenn sie vom Bund genehmigt worden ist.
+<sup>1</sup> Der Vorstand der Erziehungsdirektorenkonferenz setzt die Vereinbarung in Kraft, wenn ihr mindestens 17 Kantone beigetreten sind und wenn sie vom Bund genehmigt worden ist[^14-1]).
 
-Von der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren im Einvernehmen mit der Schweizerischen Konferenz der kantonalen Gesundheitsdirektorinnen und -direktoren <sup>1)</sup> und der Konferenz der kantonalen Sozialdirektoren <sup>1)</sup> beschlossen.
+[^14-1]: Die Genehmigung des Bundes (Eidgenössisches Departement des Innern) erfolgte am 24. November 1994; die Vereinbarung ist am 1. Januar 1995 in Kraft getreten.
 
-Die Genehmigung des Bundes (Eidgenössisches Departement des Innern) erfolgte am 24. November 1994.
+## A1 Anhang 1: Anhang gemäss Art. 12<sup>ter</sup> Abs. 1
 
-Die Vereinbarung ist am 1. Januar 1995 in Kraft getreten.
+#### Art. A1-1
 
-Der Vereinbarung gehören alle Kantone an.
+<sup>1</sup> Gesundheitsberufe:
 
-### Änderungen vom 16. Juni 2005
+- a) Osteopathin und Osteopath mit interkantonalem Diplom GDK
+- b) Diplomierte Logopädin und diplomierter Logopäde (EDK)
+- c) Master of Science FH in Ergotherapie
+- d) Master of Science FH in Ernährung und Diätetik
+- e) Master of Science FH in Hebamme
+- f) Master of Science FH in Physiotherapie
+- g) Master of Science FH in Pflege / Master of Science in Nursing
+- h) Augenoptikerin und Augenoptiker HFP
+- i) Naturheilpraktikerin und Naturheilpraktiker mit eidgenössischem Diplom
+- j) Aktivierungsfachfrau und Aktivierungsfachmann HF
+- k) Biomedizinische Analytikerin und biomedizinischer Analytiker HF
+- l) Dentalhygienikerin und Dentalhygieniker HF
+- m) Drogistin und Drogist HF
+- n) Radiologiefachfrau und Radiologiefachmann HF
+- o) Bachelor of Science HES-SO en technique en radiologie médicale
+- p) Fachfrau und Fachmann Operationstechnik HF
+- q) Orthoptistin und Orthoptist HF
+- r) Podologin und Podologe HF
+- s) Rettungssanitäterin und Rettungssanitäter HF
+- t) Augenoptikerin und Augenoptiker EFZ mit kantonaler Berufsausübungsbewilligung
+- u) Podologin und Podologe EFZ mit kantonaler Berufsausübungsbewilligung
+- v) Medizinische Masseurin und medizinischer Masseur mit eidg. Fachausweis
 
-Die Änderungen wurden von der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren und der Schweizerischen Konferenz der kantonalen Gesundheitsdirektorinnen und -direktoren im Einvernehmen mit der Konferenz der kantonalen Sozialdirektoren beschlossen.
+<sup>2</sup> Das Register über Gesundheitsfachpersonen gemäss Art. 12<sup>ter</sup> der Interkantonalen Vereinbarung über die Anerkennung von Ausbildungsabschlüssen umfasst zudem Angaben zu Personen mit Ausbildungsabschlüssen gemäss Art. 8 bis 14 der Gesundheitsberufeanerkennungsverordnung (GesBAV) vom 13. Dezember 2019[^A11-1], die über keine Berufsausübungsbewilligung verfügen.
 
-Die Änderungen vom 16. Juni 2005 sind am 1. Januar 2008 in Kraft getreten.
+[^A11-1]: SR [811.214](http://db.clex.ch/link/Bund/811.214/de).
 
-### Anhang
-
-### Anhang gemäss Art. 12<sup>ter</sup> Abs. 1
-
-Chiropraktorinnen und Chiropraktoren Osteopathinnen und Osteopathen Pflegefachfrauen und -fachmänner Krankenschwestern und -pfleger in allgemeiner Krankenpflege Krankenschwestern und -pfleger in psychiatrischer Krankenpflege Krankenschwestern und -pfleger in Kinderkrankenpflege, Wochen- und Säuglingspflege Krankenschwestern und -pfleger in integrierter Krankenpflege Pflegefachfrauen und -fachmänner DNI Krankenpflegerinnen und -pfleger FA SRK Gesundheitsschwestern und -pfleger Technische Operationsfachfrauen und -fachmänner Rettungssanitäterinnen und Rettungssanitäter Hebammen Medizinische Laborantinnen und Laboranten Podologinnen und Podologen Medizinische Masseurinnen und Masseure Fachleute in medizinisch-technischer Radiologie Orthoptistinnen und Orthoptisten Ernährungsberaterinnen und -berater Ergotherapeutinnen und Ergotherapeuten Physiotherapeutinnen und Physiotherapeuten Dentalhygienikerinnen und Dentalhygieniker Fachangestellte Gesundheit
-
-Fussnoten:
-
-- 1) Fassung gemäss B vom 16. Juni 2005.
-
-- 2) Publiziert unter www.edk.ch.
+-
