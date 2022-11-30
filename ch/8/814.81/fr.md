@@ -4,11 +4,11 @@ title: "Ordonnance du 18 mai 2005 sur la réduction des risques liés à l'utili
 short: ORRChim
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/478"
 language: fr
-version: 2022-10-06
+version: 2022-12-01
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20221006/fr/xml/fedlex-data-admin-ch-eli-cc-2005-478-20221006-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20221006/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20221201/fr/xml/fedlex-data-admin-ch-eli-cc-2005-478-20221201-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20221201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20221006/fr"
 
 (Ordonnance sur la réduction des risques liés aux produits chimiques, ORRChim)
 
-du 18 mai 2005 (État le 6 octobre 2022)
+du 18 mai 2005 (État le 1<sup>er</sup> décembre 2022)
 
 Le Conseil fédéral suisse,
 
@@ -1311,7 +1311,7 @@ Il est interdit:
 - b. une mise en garde quant aux dangers de l’amiante pour l’homme et l’environnement et aux mesures de protection à prendre, conformément au modèle suivant:
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20221006/fr/xml/image/image1.png)</td><td colspan="3">Chapeau H = 5 cm au moins</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20221201/fr/xml/image/image1.png)</td><td colspan="3">Chapeau H = 5 cm au moins</td></tr>
 <tr><td></td><td colspan="3">B = 2,5 cm au moins</td></tr>
 <tr><td></td><td colspan="3">h<sub>1</sub> = 40 % de H</td></tr>
 <tr><td></td><td colspan="3">h<sub>2</sub> = 60 % de H</td></tr>
@@ -3970,7 +3970,7 @@ Annexe 2.9[^t-28]
 
 <sup>2</sup> Les préparations et les objets contenant du PVC valorisé doivent porter la mention «Contient du PVC valorisé» ou le pictogramme suivant:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20221006/fr/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20221201/fr/xml/image/image2.png)
 
 <sup>3</sup> Les préparations dont la teneur en diisocyanate de méthylènediphényle est égale ou supérieure à 0,1 % masse et qui sont destinées au grand public doivent porter la mention suivante: «Les personnes déjà sensibilisées aux diisocyanates peuvent développer des réactions allergiques en utilisant ce produit. – Il est conseillé aux personnes souffrant d’asthme, d’eczéma ou de réactions cutanées d’éviter le contact, y compris cutané, avec ce produit. – Ce produit ne peut pas être utilisé dans les lieux insuffisamment ventilés, sauf avec un masque de protection équipé d’un filtre antigaz adapté (de type A1 répondant à la norme EN 14387)».
 
@@ -5131,7 +5131,7 @@ Annexe 2.18[^t-37]
 
 ## Équipements électriques et électroniques
 
-[^t-37]: Introduite par le ch. II al. 1 de l’O du 7 nov. 2012 ([RO 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Mise à jour par le ch. I de l’O de l’OFEV du 27 oct. 2016 ([RO 2016 4051](https://fedlex.data.admin.ch/eli/oc/2016/672)), le ch. I de l’O du 17 avr. 2019 ([RO 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) et le ch. I de l’O de l’OFEV du 9 sept. 2021, en vigueur depuis le 1<sup>er</sup> nov. 2021 ([RO 2021 550](https://fedlex.data.admin.ch/eli/oc/2021/550)).
+[^t-37]: Introduite par le ch. II al. 1 de l’O du 7 nov. 2012 ([RO 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Mise à jour par le ch. I de l’O de l’OFEV du 27 oct. 2016 ([RO 2016 4051](https://fedlex.data.admin.ch/eli/oc/2016/672)), le ch. I de l’O du 17 avr. 2019 ([RO 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), le ch. I des O de l’OFEV du 9 sept. 2021 ([RO 2021 550](https://fedlex.data.admin.ch/eli/oc/2021/550)) et du 28 oct. 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 632](https://fedlex.data.admin.ch/eli/oc/2022/632)).
 
 ### 1 Définitions
 
@@ -5189,7 +5189,7 @@ Annexe 2.18[^t-37]
 
 Les interdictions au sens du ch. 2 ne s’appliquent pas aux équipements électriques et électroniques, aux câbles et aux pièces détachées qui contiennent des substances énumérées aux annexes III et IV de la directive 2011/65/UE[^annex218-lvlu1-lvl3-1] pour les applications qui y sont mentionnées.
 
-[^annex218-lvlu1-lvl3-1]: Directive 2011/65/UE du Parlement européen et du Conseil du 8 juin 2011 relative à la limitation de l’utilisation de certaines substances dangereuses dans les équipements électriques et électroniques, JO L 174 du 1.7.2011, p. 88; modifiée en dernier lieu par la directive déléguée (UE) 2021/884, JO L 194 du 2.6.2021, p. 37.
+[^annex218-lvlu1-lvl3-1]: Directive 2011/65/UE du Parlement européen et du Conseil du 8 juin 2011 relative à la limitation de l’utilisation de certaines substances dangereuses dans les équipements électriques et électroniques, JO L 174 du 1.7.2011, p. 88; modifiée en dernier lieu par la directive déléguée (UE) 2022/1632, JO L 245 du 22.9.2022, p. 48.
 
 ### 4 Prescriptions pour les opérateurs économiques
 

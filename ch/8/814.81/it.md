@@ -4,11 +4,11 @@ title: "Ordinanza del 18 maggio 2005 concernente la riduzione dei rischi nell'ut
 short: ORRPChim
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/478"
 language: it
-version: 2022-10-06
+version: 2022-12-01
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20221006/it/xml/fedlex-data-admin-ch-eli-cc-2005-478-20221006-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20221006/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20221201/it/xml/fedlex-data-admin-ch-eli-cc-2005-478-20221201-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20221201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20221006/it"
 
 (Ordinanza sulla riduzione dei rischi inerenti ai prodotti chimici, ORRPChim)
 
-del 18 maggio 2005 (Stato 6 ottobre 2022)
+del 18 maggio 2005 (Stato 1° dicembre 2022)
 
 Il Consiglio federale svizzero,
 
@@ -1315,7 +1315,7 @@ Sono vietati:
 - b. un’indicazione dei pericoli per l’uomo e per l’ambiente e delle misure protettive, conforme al modello seguente:
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20221006/it/xml/image/image1.png)</td><td>Testa</td><td colspan="2">H = almeno 5 cm</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20221201/it/xml/image/image1.png)</td><td>Testa</td><td colspan="2">H = almeno 5 cm</td></tr>
 <tr><td></td><td></td><td colspan="2">B = almeno 2,5 cm</td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>1</sub> = 40 per cento di H</td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>2</sub> = 60 per cento di H</td></tr>
@@ -2428,7 +2428,7 @@ L’immissione sul mercato per l’impiego delle sostanze elencate al numero 5 e
 
 <sup>4bis</sup> D’intesa con gli organi di valutazione dell’UFAM, dell’UFSP e della SECO, l’organo di notifica può rinunciare, ove appropriato, a presentare determinate informazioni ai sensi del capoverso 4.
 
-<sup>5</sup> Le domande secondo il capoverso 4 devono essere inoltrate almeno 18 mesi prima della scadenza del periodo transitorio di cui al numero 5 capoverso 1. L’ufficio di notifica concede una proroga adeguata del termine se al più tardi 18 mesi dalla scadenza del termine del periodo transitorio può essere reso verosimile che la documentazione necessaria non può essere prodotta nel rispetto del termine.
+<sup>5</sup> Le domande secondo il capoverso 4 devono essere inoltrate almeno 18 mesi prima della scadenza del periodo transitorio di cui al numero 5 capoverso 1. L’organo di notifica concede una proroga adeguata del termine se al più tardi 18 mesi dalla scadenza del termine del periodo transitorio può essere reso verosimile che la documentazione necessaria non può essere prodotta nel rispetto del termine.
 
 <sup>6</sup> Per gli impieghi per cui la Commissione europea ha rifiutato l’autorizzazione in virtù dell’articolo 60 capoverso 1 del regolamento (CE) n. 1907/2006, può ancora essere inoltrata una domanda secondo il capoverso 4 entro un termine di 3 mesi da tale rifiuto. Oltre alla documentazione secondo il capoverso 4 lettera a, alla domanda devono essere allegati:
 
@@ -3976,7 +3976,7 @@ Allegato 2.9[^t-28]
 
 <sup>2</sup> Preparati e oggetti contenenti PVC riciclato devono essere muniti di un’etichetta con la dicitura «Contiene PVC riciclato» o del seguente pittogramma:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20221006/it/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20221201/it/xml/image/image2.png)
 
 <sup>3</sup> I preparati, il cui contenuto in massa di diisocianato di metilendifenile è pari o superiore allo 0,1 per cento e che sono destinati al grande pubblico, devono essere muniti di etichette con la seguente dicitura: «L’uso di questo prodotto può provocare reazioni allergiche nei soggetti già sensibilizzati ai diisocianati. – I soggetti affetti da asma, eczema o problemi della pelle dovrebbero evitare il contatto, incluso il contatto dermico, con questo prodotto. – Questo prodotto non dovrebbe essere utilizzato in condizioni di scarsa ventilazione, a meno che non venga utilizzata una maschera protettiva con un idoneo filtro antigas (di tipo A1 conforme alla norma EN 14387)».
 
@@ -5140,7 +5140,7 @@ Allegato 2.18[^t-37]
 
 ## Apparecchiature elettriche ed elettroniche
 
-[^t-37]: Introdotto dal n. II cpv. 1 dell’O del 7 nov. 2012 ([RU 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Aggiornato dal n. I dell’O dell’UFAM del 27 ott. 2016 ([RU 2016 4051](https://fedlex.data.admin.ch/eli/oc/2016/672)), dal n. I dell’O del 17 apr. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), dal n. I dell’O dell’UFAM) del 9 set. 2021, in vigore dal 1° nov. 2021 ([RU 2021 550](https://fedlex.data.admin.ch/eli/oc/2021/550)).
+[^t-37]: Introdotto dal n. II cpv. 1 dell’O del 7 nov. 2012 ([RU 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Aggiornato dal n. I dell’O dell’UFAM del 27 ott. 2016 ([RU 2016 4051](https://fedlex.data.admin.ch/eli/oc/2016/672)), dal n. I dell’O del 17 apr. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), dal n. I delle O dell’UFAM del 9 set. 2021 ([RU 2021 550](https://fedlex.data.admin.ch/eli/oc/2021/550)) e del 28 ott. 2022, in vigore dal 1° dic. 2022 ([RU 2022 632](https://fedlex.data.admin.ch/eli/oc/2022/632)).
 
 ### 1 Definizioni
 
@@ -5198,7 +5198,7 @@ Allegato 2.18[^t-37]
 
 I divieti di cui al numero 2 non si applicano alle apparecchiature elettriche ed elettroniche, ai cavi e alle parti di ricambio che contengono le sostanze menzionate negli allegati III e IV della direttiva 2011/65/UE[^annex218-lvlu1-lvl3-1] per le applicazioni ivi riportate.
 
-[^annex218-lvlu1-lvl3-1]: Direttiva 2011/65/UE del Parlamento europeo e del Consiglio, dell’8 giugno 2011, sulla restrizione dell’uso di determinate sostanze pericolose nelle apparecchiature elettriche ed elettroniche, GU L 174 dell’1.7.2011, pag. 88; modificata da ultimo dalla direttiva delegata (UE) 2021/884, GU L 194 del 2.6.2021, pag. 37.
+[^annex218-lvlu1-lvl3-1]: Direttiva 2011/65/UE del Parlamento europeo e del Consiglio, dell’8 giugno 2011, sulla restrizione dell’uso di determinate sostanze pericolose nelle apparecchiature elettriche ed elettroniche, GU L 174 dell’1.7.2011, pag. 88; modificata da ultimo dalla direttiva delegata (UE) 2022/1632, GU L 245 del 22.9.2022, pag. 48.
 
 ### 4 Prescrizioni per gli attori economici
 

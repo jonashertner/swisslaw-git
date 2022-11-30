@@ -4,11 +4,11 @@ title: "Ordinance of 18 May 2005 on the Reduction of Risks relating to the Use o
 short: ORRChem
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/478"
 language: en
-version: 2022-10-06
+version: 2022-12-01
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20221006/en/xml/fedlex-data-admin-ch-eli-cc-2005-478-20221006-en-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20221006/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20221201/en/xml/fedlex-data-admin-ch-eli-cc-2005-478-20221201-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20221201/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Chemical Risk Reduction Ordinance, ORRChem)
 
-of 18 May 2005 (Status as of 6 October 2022)
+of 18 May 2005 (Status as of 1 December 2022)
 
 The Swiss Federal Council,
 
@@ -880,7 +880,7 @@ The FOEN shall decide on complete applications within two months of receiving th
 
 ### 7 Transitional provision
 
-Preparations and articles which were manufactured with substances that deplete the ozone layer and are listed in an Annex to the Montreal Protocol (No. 3.2.1 let. b) may continue to be imported for one year after the relevant Annex to the Montreal Protocol comes into force.
+Preparations and articles which were manufactured with substances that deplete the ozone layer and are listed in an Annex to the Montreal Protocol (No 3.2.1 let. b) may continue to be imported for one year after the relevant Annex to the Montreal Protocol comes into force.
 
 Annex 1.5[^t-27]
 
@@ -1256,7 +1256,7 @@ It is prohibited:
 - b. a warning about the dangers of asbestos to human health and the environment and reference to protective measures; it must comply with the following specifications:
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20221006/en/xml/image/image1.png)</td><td>Head</td><td colspan="2">H = at least 5 cm</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20221201/en/xml/image/image1.png)</td><td>Head</td><td colspan="2">H = at least 5 cm</td></tr>
 <tr><td></td><td></td><td colspan="2">B = at least 2.5 cm</td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>1</sub> = 40% of H</td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>2</sub> = 60% of H</td></tr>
@@ -3917,7 +3917,7 @@ Annex 2.9[^t-49]
 
 <sup>2</sup> Preparations and articles containing recovered PVC must be marked with the text «Contains recovered PVC» or with the following pictogram:
 
-<sup>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20221006/en/xml/image/image2.png)</sup>
+<sup>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20221201/en/xml/image/image2.png)</sup>
 
 <sup>3</sup> Preparations containing methylenediphenyl diisocyanate in a concentration of 0.1% or more by mass ofd intended for supply to the general public must be marked as follows: «Persons already sensitised to diisocyanates may develop allergic reactions when using this product. – Persons suffering from asthma, eczema or skin problems should avoid contact, including dermal contact, with this product. – This product should not be used under conditions of poor ventilation unless a protective mask with an appropriate gas filter (i.e. type A1 according to standard EN 14387) is used.»
 
@@ -4412,7 +4412,7 @@ Owners of appliances containing more than 8kg of ozone-depleting extinguishing a
 - c. the quantity of extinguishing agents supplied for appliances and systems;
 - d. the quantity of extinguishing agents received from owners of decommissioned appliances and systems;
 - e. the quantity of extinguishing agents no longer needed which were submitted for treatment;
-- f. the quantity of extinguishing agents re-imported after being recycled abroad (No. 2.2 let. c).
+- f. the quantity of extinguishing agents re-imported after being recycled abroad (No 2.2 let. c).
 
 <sup>2</sup> The information must be classified by:
 
@@ -5076,7 +5076,7 @@ Annex 2.18[^t-58]
 
 ## Electrical and electronic equipment
 
-[^t-58]: Inserted by No II para. 1 of the O of 7 Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Revised by No 1 of the FOEN Ordinances of 27 Oct. 2016 ([AS 2016 4051](https://fedlex.data.admin.ch/eli/oc/2016/672)), No I of the O of 17 April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) and No I of the FOEN O of 9 Sept. 2021, in force since 1 Nov. 2021 ([AS 2021 550](https://fedlex.data.admin.ch/eli/oc/2021/550)).
+[^t-58]: Inserted by No II para. 1 of the O of 7 Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Revised by No 1 of the FOEN Ordinances of 27 Oct. 2016 ([AS 2016 4051](https://fedlex.data.admin.ch/eli/oc/2016/672)), No I of the O of 17 April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), No I of the FOEN O of 9 Sept. 2021 ([AS 2021 550](https://fedlex.data.admin.ch/eli/oc/2021/550)) and of 28 Oct. 2022, in force since 1 Dec. 2022 ([AS 2022 632](https://fedlex.data.admin.ch/eli/oc/2022/632)).
 
 ### 1 Definitions
 
@@ -5134,7 +5134,7 @@ Annex 2.18[^t-58]
 
 The prohibitions specified in Number 2 do not apply to electrical and electronic equipment, cables and spare parts which contain substances included in Annexes III and IV to Directive 2011/65/EU[^annexu1-lvlu1-lvl3-1] in the applications listed therein.
 
-[^annexu1-lvlu1-lvl3-1]: Directive 2011/65/EU of the European Parliament and of the Council of 8 June 2011 on the restriction of the use of certain hazardous substances in electrical and electronic equipment, OJ L 174, 1.7.2011, p. 88; last amended by Commission Delegated Directive (EU) 2021/884, OJ L 194 of 2.6.2021, p. 37.
+[^annexu1-lvlu1-lvl3-1]: Directive 2011/65/EU of the European Parliament and of the Council of 8 June 2011 on the restriction of the use of certain hazardous substances in electrical and electronic equipment, OJ L 174, 1.7.2011, p. 88; last amended by Commission Delegated Directive (EU) 2022/1632, OJ L 245 of 22.9.2022, p. 48.
 
 ### 4 Requirements for economic operators
 
