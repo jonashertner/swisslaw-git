@@ -4,13 +4,13 @@ number: "921.11"
 title: Règlement sur les forêts et la protection contre les catastrophes naturelles
 short: RFCN
 language: fr
-version: 2022-01-01
-valid_until: 2022-11-30
-version_adopted: 2021-12-14
+version: 2022-12-01
+valid_until: 2024-02-29
+version_adopted: 2022-11-08
 adopted: 2001-12-11
 in_force: 2002-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/921.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7051/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7636/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Forêts et protection contre les catastrophes naturelles – R
 
 (RFCN)
 
-du 11.12.2001 (version entrée en vigueur le 01.01.2022)
+du 11.12.2001 (version entrée en vigueur le 01.12.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -463,7 +463,7 @@ Arrête:
 
 **Feux en forêt (art. 32 LFCN)**
 
-<sup>1</sup> Le Service est chargé d'évaluer le degré de danger d'incendie de forêt. Il élabore la stratégie cantonale de prévention contre les incendies de forêts. Il collabore avec l'Etablissement cantonal d'assurance des bâtiments ainsi qu'avec le Service de la protection de la population et des affaires militaires.
+<sup>1</sup> Le Service est chargé d'évaluer le degré de danger d'incendie de forêt. Il élabore la stratégie cantonale de prévention contre les incendies de forêts. Il collabore avec l'Etablissement cantonal d'assurance des bâtiments ainsi qu'avec le Service de la sécurité civile et militaire.
 
 <sup>2</sup> Les feux ne peuvent être allumés qu'à distance raisonnable des arbres de façon à éviter tout dégât.
 

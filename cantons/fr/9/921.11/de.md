@@ -4,13 +4,13 @@ number: "921.11"
 title: Reglement über den Wald und den Schutz vor Naturereignissen
 short: WSR
 language: de
-version: 2022-01-01
-valid_until: 2022-11-30
-version_adopted: 2021-12-14
+version: 2022-12-01
+valid_until: 2024-02-29
+version_adopted: 2022-11-08
 adopted: 2001-12-11
 in_force: 2002-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/921.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/7051/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7636/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Wald und Schutz vor Naturereignissen – R
 
 (WSR)
 
-vom 11.12.2001 (Fassung in Kraft getreten am 01.01.2022)
+vom 11.12.2001 (Fassung in Kraft getreten am 01.12.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -463,7 +463,7 @@ beschliesst:
 
 **Feuer im Wald (Art. 32 WSG)**
 
-<sup>1</sup> Das Amt ist zuständig für die Einschätzung der Waldbrandgefahr. Es erarbeitet die kantonale Strategie zur Waldbrandverhütung. Es arbeitet mit der Kantonalen Gebäudeversicherung und mit dem Amt für Bevölkerungsschutz und Militär zusammen.
+<sup>1</sup> Das Amt ist zuständig für die Einschätzung der Waldbrandgefahr. Es erarbeitet die kantonale Strategie zur Waldbrandverhütung. Es arbeitet mit der Kantonalen Gebäudeversicherung und mit dem Amt für zivile Sicherheit und Militär zusammen.
 
 <sup>2</sup> Feuer darf nur in einem vernünftigen Abstand zu den Bäumen entfacht werden, um jegliche Schäden zu vermeiden.
 
