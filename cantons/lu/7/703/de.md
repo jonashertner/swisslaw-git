@@ -4,13 +4,12 @@ number: "703"
 title: Vollzugsverordnung zum Einführungsgesetz zum Bundesgesetz über den Schutz der Gewässer
 short: "Kantonale Gewässerschutzverordnung, KGSchV"
 language: de
-version: 2020-01-01
-valid_until: 2022-11-30
-version_adopted: 2019-10-15
+version: 2022-12-01
+version_adopted: 2022-10-18
 adopted: 1997-09-23
 in_force: 1998-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/703"
-pdf: "https://srl.lu.ch/api/de/versions/3483/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3974/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3483/pdf_file"
 
 (Kantonale Gewässerschutzverordnung, KGSchV)
 
-vom 23.09.1997 (Stand 01.01.2020)
+vom 23.09.1997 (Stand 01.12.2022)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -169,11 +168,16 @@ beschliesst:
 
 #### § 11bbis
 
-**Gewässerraum bei grossen Fliessgewässern**
+**Gewässerraum und Baulinien bei grossen Fliessgewässern**
 
 <sup>1</sup> Ausserhalb der Bauzone kann der Gewässerraum bei Fliessgewässern mit einer natürlichen Gerinnesohlenbreite von über 15 m zur Differenzierung der zulässigen Bewirtschaftung gemäss § 11e aufgeteilt werden in einen inneren Korridor, in dem das Gewässer verläuft, und beidseitig je einen äusseren Korridor.
 
 <sup>2</sup> Die Breite des inneren Korridors hat mindestens die aktuelle Gerinnesohlenbreite zuzüglich 30 m (beidseitiger Uferstreifen von je 15 m ab Uferlinie) zu betragen. Bei Vorliegen wichtiger Gründe ist der innere Korridor angemessen zu verbreitern.
+
+<sup>3</sup> Statt mittels Nutzungszone kann der äussere Korridor zur Sicherung des für eine Revitalisierung erforderlichen Raums auch durch eine Baulinie festgelegt werden. Zwischen dieser Baulinie und dem inneren Korridor sind nur Bauten und Anlagen gemäss Artikel 41c Absätze 1 und 2 GSchV[^11bbis-1] zulässig. Die Nutzungseinschränkungen von Artikel 41c Absätze 3 und 4 GSchV sowie von § 30 Absatz 4 des Planungs- und Baugesetzes vom 7. März 1989[^11bbis-2] kommen nicht zur Anwendung. Im Rahmen einer Revitalisierung des Gewässers ist der Gewässerraum bei Bedarf dem Projekt entsprechend auszuweiten und die Baulinie aufzuheben.
+
+[^11bbis-1]: SR [814.201](https://db.clex.ch/link/Bund/814.201/de)
+[^11bbis-2]: SRL Nr. [735](https://srl.lu.ch/data/735/de)
 
 #### § 11c
 
