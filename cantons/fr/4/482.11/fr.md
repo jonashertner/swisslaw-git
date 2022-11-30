@@ -4,13 +4,12 @@ number: "482.11"
 title: "Règlement d'exécution de la loi sur la protection des biens culturels"
 short: RELPBC
 language: fr
-version: 2022-02-01
-valid_until: 2022-11-30
-version_adopted: 2022-03-04
+version: 2022-12-01
+version_adopted: 2022-11-08
 adopted: 1993-08-17
 in_force: 1993-09-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/482.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7322/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8584/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Protection des biens culturels – R
 
 (RELPBC)
 
-du 17.08.1993 (version entrée en vigueur le 01.02.2022)
+du 17.08.1993 (version entrée en vigueur le 01.12.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -34,6 +33,10 @@ Arrête:
 ## 1 Mesures d'encouragement
 
 ### 1.1 Aide (art. 11 al. 2 LPBC)
+
+[^t-1]
+
+[^t-1]: RSF [482.1](https://bdlf.fr.ch/data/482.1/fr)
 
 #### Art. 1
 
@@ -58,6 +61,10 @@ Arrête:
 <sup>4</sup> La Direction fixe le montant de la subvention, jusqu'à concurrence de 20'000 francs. Au-delà de cette somme, le Conseil d'Etat décide.
 
 ### 1.2 Aide financière (art. 13 à 18 LPBC)
+
+[^2-1]
+
+[^2-1]: RSF [482.1](https://bdlf.fr.ch/data/482.1/fr)
 
 #### Art. 3
 
@@ -140,12 +147,14 @@ Arrête:
 
 <sup>1</sup> L'autorité peut demander au bénéficiaire d'une aide financière de respecter les devoirs particuliers suivants:
 
-- a) procéder, à ses frais, à l'inscription de la mention au registre foncier, pour une durée de dix ans, de la subvention octroyée, en tant que restriction de droit public à la propriété au sens de l'article 702 du code civil suisse;
+- a) procéder, à ses frais, à l'inscription de la mention au registre foncier, pour une durée de dix ans, de la subvention octroyée, en tant que restriction de droit public à la propriété au sens de l'article 702 du code civil suisse[^9-1];
 - b) remettre au Service des biens culturels une documentation, avec photographies, sur les travaux de restauration du bien culturel;
 - c) permettre un examen du bien culturel après l'achèvement des travaux;
 - d) annoncer au Service des biens culturels une éventuelle aliénation du bien culturel protégé intervenant dans les dix ans dès l'octroi de l'aide financière.
 
 <sup>2</sup> D'autres charges peuvent être fixées par l'autorité qui a octroyé l'aide financière.
+
+[^9-1]: RS [210](https://db.clex.ch/link/Bund/210/fr)
 
 #### Art. 10
 
@@ -159,11 +168,14 @@ Arrête:
 
 <sup>1<sup>bis</sup></sup> Ces taux sont réduits de moitié lorsque le propriétaire est une personne morale de droit public, y compris les personnes morales de droit public canonique, à l'exception toutefois des couvents et des cas visés par l'alinéa 4.
 
-<sup>2</sup> Le taux fixé conformément à l'alinéa 1 peut exceptionnellement être augmenté ou réduit jusqu'à 5 % dans les cas visés par l'article 16 al. 2 LPBC. Il ne peut toutefois être supérieur à 22 %, hormis dans les cas visés par l'alinéa 4.
+<sup>2</sup> Le taux fixé conformément à l'alinéa 1 peut exceptionnellement être augmenté ou réduit jusqu'à 5 % dans les cas visés par l'article 16 al. 2 LPBC[^10-1]. Il ne peut toutefois être supérieur à 22 %, hormis dans les cas visés par l'alinéa 4.
 
 <sup>3</sup> Le Conseil d'Etat détermine de cas en cas le montant des aides financières qui ne revêtent pas la forme de la subvention.
 
-<sup>4</sup> Il détermine le taux de la subvention cantonale pour les projets bénéficiant d'une aide financière fédérale dans le cadre d'une convention-programme, conformément à l'article 16 al. 3 LPBC.
+<sup>4</sup> Il détermine le taux de la subvention cantonale pour les projets bénéficiant d'une aide financière fédérale dans le cadre d'une convention-programme, conformément à l'article 16 al. 3 LPBC[^10-2].
+
+[^10-1]: RSF [482.1](https://bdlf.fr.ch/data/482.1/fr)
+[^10-2]: RSF [482.1](https://bdlf.fr.ch/data/482.1/fr)
 
 #### Art. 11
 
@@ -216,6 +228,10 @@ Arrête:
 
 ### 2.1 Mise sous protection (art. 21 LPBC)
 
+[^16-1]
+
+[^16-1]: RSF [482.1](https://bdlf.fr.ch/data/482.1/fr)
+
 #### Art. 17
 
 **Compétence**
@@ -256,9 +272,11 @@ Arrête:
 
 <sup>1</sup> Les meubles sont mis sous protection par voie de décision. Ils peuvent toutefois l'être par voie contractuelle lorsque l'intérêt de la protection l'exige, notamment lorsque celle-ci appelle des solutions négociées.
 
-<sup>2</sup> La décision ou le contrat mentionne expressément la teneur des articles 23 al. 1, 24, 25 al. 1, 26 al. 2 et 30 LPBC ainsi que les autres effets de la mise sous protection.
+<sup>2</sup> La décision ou le contrat mentionne expressément la teneur des articles 23 al. 1, 24, 25 al. 1, 26 al. 2 et 30 LPBC[^21-1] ainsi que les autres effets de la mise sous protection.
 
 <sup>3</sup> La mise sous protection d'un meuble par une mesure relevant de l'aménagement du territoire demeure réservée.
+
+[^21-1]: RSF [482.1](https://bdlf.fr.ch/data/482.1/fr)
 
 #### Art. 22
 
@@ -273,6 +291,10 @@ Arrête:
 <sup>4</sup> La décision est révoquée lorsqu'il apparaît que la protection n'est pas ou plus justifiée. S'il s'agit d'un contrat, celui-ci peut être révisé. A défaut d'accord, la voie de l'action de droit administratif est réservée.
 
 ### 2.2 Aliénation par des personnes morales de droit public (art. 24 LPBC)
+
+[^22-1]
+
+[^22-1]: RSF [482.1](https://bdlf.fr.ch/data/482.1/fr)
 
 #### Art. 23
 
@@ -295,6 +317,10 @@ Arrête:
 <sup>1</sup> La Direction autorise l'aliénation dans les soixante jours à compter du dépôt de la demande.
 
 ### 2.3 Droit de préemption (art. 25 et 26 LPBC)
+
+[^25-1]
+
+[^25-1]: RSF [482.1](https://bdlf.fr.ch/data/482.1/fr)
 
 #### Art. 26
 
@@ -328,6 +354,10 @@ Arrête:
 
 ### 2.4 Contrôle de la restauration et du commerce (art. 30 et 31 LPBC)
 
+[^28-1]
+
+[^28-1]: RSF [482.1](https://bdlf.fr.ch/data/482.1/fr)
+
 #### Art. 29
 
 **Contrôle de la restauration**
@@ -351,11 +381,17 @@ Arrête:
 
 ## 3 Protection en cas de conflit armé et de crise(art. 32 et 33 LPBC)
 
+[^30-1]
+
+[^30-1]: RSF [482.1](https://bdlf.fr.ch/data/482.1/fr)
+
 #### Art. 31
 
 **Notion**
 
-<sup>1</sup> Le terme de crise, au sens de la loi, englobe également les situations de catastrophe.
+<sup>1</sup> Le terme de crise, au sens de la loi[^31-1], englobe également les situations de catastrophe.
+
+[^31-1]: RSF [482.1](https://bdlf.fr.ch/data/482.1/fr)
 
 #### Art. 32
 
@@ -369,7 +405,7 @@ Arrête:
 
 **Attributions du Service des biens culturels**
 
-<sup>1</sup> Dans le cadre des tâches dévolues à l'Etat par la loi (art. 33 LPBC), le Service des biens culturels exerce notamment les attributions suivantes:
+<sup>1</sup> Dans le cadre des tâches dévolues à l'Etat par la loi (art. 33 LPBC[^33-1]), le Service des biens culturels exerce notamment les attributions suivantes:
 
 - a) il propose au Comité suisse de la protection des biens culturels la mise à jour de l'«Inventaire suisse des biens culturels» d'importance nationale et régionale du canton;
 - b) il crée une documentation de sécurité pour les biens culturels d'importance nationale et régionale et il collabore avec les communes à l'établissement d'une documentation des biens culturels d'importance locale;
@@ -377,9 +413,15 @@ Arrête:
 - d) il collabore avec les responsables de la protection des biens culturels, désignés par les communes et les groupements de communes, dans l'exécution de leurs tâches;
 - e) il contrôle l'exécution des tâches de protection des biens culturels par les communes et les groupements de communes.
 
-<sup>2</sup> Le Service des biens culturels peut requérir le concours du Service de la protection de la population et des affaires militaires pour l'exécution de certaines de ses attributions.
+<sup>2</sup> Le Service des biens culturels peut requérir le concours du Service de la sécurité civile et militaire pour l'exécution de certaines de ses attributions.
+
+[^33-1]: RSF [482.1](https://bdlf.fr.ch/data/482.1/fr)
 
 ## 4 Obligation d'avis (art. 34 LPBC)
+
+[^33-2]
+
+[^33-2]: RSF [482.1](https://bdlf.fr.ch/data/482.1/fr)
 
 #### Art. 34
 
@@ -392,6 +434,10 @@ Arrête:
 <sup>3</sup> Le Service des biens culturels ou le Service archéologique procède à une identification de l'objet et informe la Direction, qui prend, au besoin, les mesures provisoires nécessaires.
 
 ## 5 Fouilles archéologiques (art. 37 à 43 LPBC)
+
+[^34-1]
+
+[^34-1]: RSF [482.1](https://bdlf.fr.ch/data/482.1/fr)
 
 #### Art. 35
 
@@ -450,11 +496,13 @@ Arrête:
 
 - a) la durée présumée des fouilles est supérieure à quinze jours;
 - b) l'éventualité des fouilles n'a pas été réservée dans le cadre de la procédure du permis de construire;
-- c) les fouilles sont programmées et décidées en application de l'article 38 al. 2 LPBC.
+- c) les fouilles sont programmées et décidées en application de l'article 38 al. 2 LPBC[^40-1].
 
 <sup>2</sup> Le contrat définit les engagements réciproques de l'Etat et du propriétaire concerné. Il indique en particulier le déroulement et la durée présumée des fouilles et fixe, s'il y a lieu, le montant de l'indemnité ou en détermine le mode de calcul.
 
 <sup>3</sup> Les contrats stipulant une indemnité supérieure à 10'000 francs doivent être ratifiés par le Conseil d'Etat.
+
+[^40-1]: RSF [482.1](https://bdlf.fr.ch/data/482.1/fr)
 
 #### Art. 41
 
@@ -515,13 +563,19 @@ Arrête:
 
 ### 6.1 Recensement (art. 44 à 47 LPBC)
 
+[^46-1]
+
+[^46-1]: RSF [482.1](https://bdlf.fr.ch/data/482.1/fr)
+
 #### Art. 47
 
 **Principe – Contenu**
 
-<sup>1</sup> La Commission charge les services concernés de préparer le recensement, en établissant une documentation sur les biens culturels énoncés à l'article 3 LPBC.
+<sup>1</sup> La Commission charge les services concernés de préparer le recensement, en établissant une documentation sur les biens culturels énoncés à l'article 3 LPBC[^47-1].
 
 <sup>2</sup> Le recensement contient des données sur la valeur de l'objet comme bien culturel, sur l'état de sa conservation et, de plus, pour les immeubles, sur leur implantation dans le site.
+
+[^47-1]: RSF [482.1](https://bdlf.fr.ch/data/482.1/fr)
 
 #### Art. 48
 
@@ -596,6 +650,10 @@ C = Qualité moyenne: objet représentatif par certains éléments essentiels do
 
 ### 6.2 Inventaire (art. 48 LPBC)
 
+[^53-1]
+
+[^53-1]: RSF [482.1](https://bdlf.fr.ch/data/482.1/fr)
+
 #### Art. 54
 
 <sup>1</sup> Il est tenu des inventaires distincts pour les immeubles et pour les meubles protégés.
@@ -607,6 +665,10 @@ C = Qualité moyenne: objet représentatif par certains éléments essentiels do
 ## 7 Organisation
 
 ### 7.1 Les Services de la Direction (art. 55 al. 1 LPBC)
+
+[^54-1]
+
+[^54-1]: RSF [482.1](https://bdlf.fr.ch/data/482.1/fr)
 
 #### Art. 55
 
@@ -630,10 +692,13 @@ C = Qualité moyenne: objet représentatif par certains éléments essentiels do
 - d) il prodigue, dans la mesure des moyens disponibles, les conseils de ses spécialistes sur les modes et les techniques de conservation et de restauration des biens culturels;
 - e) il veille, en accord avec l'autorité compétente, au respect des devoirs incombant aux propriétaires de biens culturels protégés;
 - f) il élabore, à l'intention de la Commission, le recensement des biens culturels et l'inventaire des biens culturels protégés, à l'exception de ceux qui relèvent du Service archéologique et des institutions culturelles de l'Etat;
-- g) il propose à la Direction des mesures de protection provisoires, au sens des articles 35 LPBC et 76 de la loi du 2 décembre 2008 sur l'aménagement du territoire et les constructions (LATeC);
+- g) il propose à la Direction des mesures de protection provisoires, au sens des articles 35 LPBC[^56-1] et 76 de la loi du 2 décembre 2008 sur l'aménagement du territoire et les constructions (LATeC)[^56-2];
 - h) il encourage la création de commissions locales pour la protection des biens culturels;
 - i) il assure le secrétariat de la Commission, et de son bureau, et de la sous-commission;
 - j) il effectue toute autre tâche qui lui est attribuée par la Direction et exerce les autres attributions qui lui sont dévolues par la législation relative à la protection des biens culturels.
+
+[^56-1]: RSF [482.1](https://bdlf.fr.ch/data/482.1/fr)
+[^56-2]: RSF [710.1](https://bdlf.fr.ch/data/710.1/fr)
 
 #### Art. 57
 
@@ -651,10 +716,13 @@ C = Qualité moyenne: objet représentatif par certains éléments essentiels do
 - d) il collabore avec les propriétaires et les communes dans l'exercice de leurs tâches en matière de protection des biens culturels archéologiques;
 - e) il prodigue, dans la mesure des moyens disponibles, les conseils de ses spécialistes sur les modes et les techniques de conservation et de restauration des biens culturels archéologiques;
 - f) il élabore, à l'intention de la Commission, le recensement des biens archéologiques, mobiliers et immobiliers, et l'inventaire des biens archéologiques protégés, notamment l'inventaire des sites archéologiques;
-- g) il propose à la Direction des mesures de protection provisoires, au sens des articles 35 LPBC et 76 LATeC;
+- g) il propose à la Direction des mesures de protection provisoires, au sens des articles 35 LPBC[^57-1] et 76 LATeC[^57-2];
 - h) il examine et prépare les dossiers relatifs aux biens culturels archéologiques soumis à la Commission et à sa sous-commission;
 - i) il préavise les demandes d'autorisation d'effectuer des fouilles;
 - j) il effectue toute autre tâche qui lui est attribuée par la Direction et exerce les autres attributions qui lui sont dévolues par la législation relative à la protection des biens culturels.
+
+[^57-1]: RSF [482.1](https://bdlf.fr.ch/data/482.1/fr)
+[^57-2]: RSF [710.1](https://bdlf.fr.ch/data/710.1/fr)
 
 ### 7.2 La Commission des biens culturels
 
@@ -723,6 +791,10 @@ C = Qualité moyenne: objet représentatif par certains éléments essentiels do
 <sup>4</sup> Lorsque l'appréciation de l'intérêt historique, esthétique ou archéologique s'avère délicate ou lorsque l'objet pose une question de principe, le bureau transmet le dossier à la Commission qui décide.
 
 ### 7.3 La sous-commission des biens culturels mobiliers (art. 57 al. 3 LPBC)
+
+[^61-1]
+
+[^61-1]: RSF [482.1](https://bdlf.fr.ch/data/482.1/fr)
 
 #### Art. 62
 

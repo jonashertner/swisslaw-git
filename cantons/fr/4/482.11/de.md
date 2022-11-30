@@ -4,13 +4,12 @@ number: "482.11"
 title: Ausführungsreglement zum Gesetz über den Schutz der Kulturgüter
 short: ARKGSG
 language: de
-version: 2022-02-01
-valid_until: 2022-11-30
-version_adopted: 2022-03-04
+version: 2022-12-01
+version_adopted: 2022-11-08
 adopted: 1993-08-17
 in_force: 1993-09-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/482.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/7322/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8584/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Kulturgüterschutz – R
 
 (ARKGSG)
 
-vom 17.08.1993 (Fassung in Kraft getreten am 01.02.2022)
+vom 17.08.1993 (Fassung in Kraft getreten am 01.12.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -34,6 +33,10 @@ beschliesst:
 ## 1 Unterstützungsmassnahmen
 
 ### 1.1 Unterstützung (Art. 11 Abs. 2 KGSG)
+
+[^t-1]
+
+[^t-1]: SGF [482.1](https://bdlf.fr.ch/data/482.1/de)
 
 #### Art. 1
 
@@ -58,6 +61,10 @@ beschliesst:
 <sup>4</sup> Bis 20'000 Franken legt die Direktion die Höhe der Subvention fest. Über höhere Beträge entscheidet der Staatsrat.
 
 ### 1.2 Finanzielle Unterstützung (Art. 13–18 KGSG)
+
+[^2-1]
+
+[^2-1]: SGF [482.1](https://bdlf.fr.ch/data/482.1/de)
 
 #### Art. 3
 
@@ -140,12 +147,14 @@ beschliesst:
 
 <sup>1</sup> Die Behörde kann vom Beitragsempfänger verlangen, dass er:
 
-- a) auf eigene Kosten die Anmerkung über den gewährten Beitrag im Sinne einer öffentlich-rechtlichen Beschränkung des Grundeigentums gemäss Artikel 702 des Schweizerischen Zivilgesetzbuches im Grundbuch für zehn Jahre eintragen lässt;
+- a) auf eigene Kosten die Anmerkung über den gewährten Beitrag im Sinne einer öffentlich-rechtlichen Beschränkung des Grundeigentums gemäss Artikel 702 des Schweizerischen Zivilgesetzbuches[^9-1] im Grundbuch für zehn Jahre eintragen lässt;
 - b) dem Amt für Kulturgüter eine Dokumentation mit Fotografien über die Restaurationsarbeiten am Kulturgut einreicht;
 - c) nach Abschluss der Arbeiten eine Kontrolle des Kulturgutes gewährt;
 - d) dem Amt für Kulturgüter eine allfällige Veräusserung des geschützten Kulturgutes meldet, die innerhalb von zehn Jahren nach der Gewährung der finanziellen Unterstützung erfolgt.
 
 <sup>2</sup> Weitere Auflagen können von der Behörde, die die finanzielle Unterstützung gewährt, festgelegt werden.
+
+[^9-1]: SR [210](https://db.clex.ch/link/Bund/210/de)
 
 #### Art. 10
 
@@ -159,11 +168,14 @@ beschliesst:
 
 <sup>1<sup>bis</sup></sup> Diese Beitragssätze werden auf die Hälfte reduziert, wenn der Eigentümer eine juristische Person des öffentlichen Rechts oder eine juristische Person des Kirchenrechts ist; eine Ausnahme bilden jedoch die Klöster und die Fälle nach Absatz 4.
 
-<sup>2</sup> Der gemäss Absatz 1 festgelegte Satz kann in den Fällen nach Artikel 16 Abs. 2 KGSG ausnahmsweise um bis zu 5 % erhöht oder herabgesetzt werden. Er kann jedoch 22 % nicht übersteigen ausser in den Fällen nach Absatz 4.
+<sup>2</sup> Der gemäss Absatz 1 festgelegte Satz kann in den Fällen nach Artikel 16 Abs. 2 KGSG[^10-1] ausnahmsweise um bis zu 5 % erhöht oder herabgesetzt werden. Er kann jedoch 22 % nicht übersteigen ausser in den Fällen nach Absatz 4.
 
 <sup>3</sup> Der Staatsrat legt von Fall zu Fall die Höhe der finanziellen Unterstützung fest, die nicht die Form einer Subvention hat.
 
-<sup>4</sup> Er legt den kantonalen Beitragssatz für Projekte fest, denen gemäss Artikel 16 Abs. 3 KGSG im Rahmen einer Programmvereinbarung eine Bundeshilfe gewährt wird.
+<sup>4</sup> Er legt den kantonalen Beitragssatz für Projekte fest, denen gemäss Artikel 16 Abs. 3 KGSG[^10-2] im Rahmen einer Programmvereinbarung eine Bundeshilfe gewährt wird.
+
+[^10-1]: SGF [482.1](https://bdlf.fr.ch/data/482.1/de)
+[^10-2]: SGF [482.1](https://bdlf.fr.ch/data/482.1/de)
 
 #### Art. 11
 
@@ -216,6 +228,10 @@ beschliesst:
 
 ### 2.1 Unterschutzstellung (Art. 21 KGSG)
 
+[^16-1]
+
+[^16-1]: SGF [482.1](https://bdlf.fr.ch/data/482.1/de)
+
 #### Art. 17
 
 **Zuständigkeit**
@@ -256,9 +272,11 @@ beschliesst:
 
 <sup>1</sup> Die beweglichen Kulturgüter werden durch Verfügung unter Schutz gestellt. Im Interesse des Schutzes kann dies auch durch Vertrag erfolgen, insbesondere wenn Lösungen ausgehandelt werden müssen.
 
-<sup>2</sup> Die Verfügung oder der Vertrag erwähnt ausdrücklich die Wirkungen der Unterschutzstellung nach den Artikeln 23 Abs. 1, 24, 25 Abs. 1, 26 Abs. 2 und 30 KGSG sowie die übrigen Wirkungen der Unterschutzstellung.
+<sup>2</sup> Die Verfügung oder der Vertrag erwähnt ausdrücklich die Wirkungen der Unterschutzstellung nach den Artikeln 23 Abs. 1, 24, 25 Abs. 1, 26 Abs. 2 und 30 KGSG[^21-1] sowie die übrigen Wirkungen der Unterschutzstellung.
 
 <sup>3</sup> Die Unterschutzstellung eines beweglichen Kulturgutes durch eine Massnahme der Raumplanung bleibt vorbehalten.
+
+[^21-1]: SGF [482.1](https://bdlf.fr.ch/data/482.1/de)
 
 #### Art. 22
 
@@ -273,6 +291,10 @@ beschliesst:
 <sup>4</sup> Die Verfügung wird widerrufen, wenn der Schutz nicht oder nicht mehr gerechtfertigt ist. Wenn ein Vertrag vorliegt, kann dieser abgeändert werden. Wird keine Einigung erzielt, bleibt die verwaltungsrechtliche Klage vorbehalten.
 
 ### 2.2 Veräusserung durch juristische Personen des öffentlichen Rechts (Art. 24 KGSG)
+
+[^22-1]
+
+[^22-1]: SGF [482.1](https://bdlf.fr.ch/data/482.1/de)
 
 #### Art. 23
 
@@ -295,6 +317,10 @@ beschliesst:
 <sup>1</sup> Die Direktion bewilligt die Veräusserung innert 60 Tagen ab Einreichung des Gesuchs.
 
 ### 2.3 Vorkaufsrecht (Art. 25 und 26 KGSG)
+
+[^25-1]
+
+[^25-1]: SGF [482.1](https://bdlf.fr.ch/data/482.1/de)
 
 #### Art. 26
 
@@ -328,6 +354,10 @@ beschliesst:
 
 ### 2.4 Kontrolle der Restauration und des Handels (Art. 30 und 31 KGSG)
 
+[^28-1]
+
+[^28-1]: SGF [482.1](https://bdlf.fr.ch/data/482.1/de)
+
 #### Art. 29
 
 **Kontrolle der Restauration**
@@ -351,11 +381,17 @@ beschliesst:
 
 ## 3 Schutz bei bewaffneten Konflikten und im Krisenfall (Art. 32 und 33 KGSG)
 
+[^30-1]
+
+[^30-1]: SGF [482.1](https://bdlf.fr.ch/data/482.1/de)
+
 #### Art. 31
 
 **Begriff**
 
-<sup>1</sup> Der Begriff Krisenfall umfasst im Sinne des Gesetzes auch Katastrophensituationen.
+<sup>1</sup> Der Begriff Krisenfall umfasst im Sinne des Gesetzes[^31-1] auch Katastrophensituationen.
+
+[^31-1]: SGF [482.1](https://bdlf.fr.ch/data/482.1/de)
 
 #### Art. 32
 
@@ -369,7 +405,7 @@ beschliesst:
 
 **Befugnisse des Amts für Kulturgüter**
 
-<sup>1</sup> Im Rahmen der Aufgaben, die das Gesetz dem Staat übertragt (Art. 33 KGSG), hat das Amt für Kulturgüter insbesondere folgende Befugnisse:
+<sup>1</sup> Im Rahmen der Aufgaben, die das Gesetz dem Staat übertragt (Art. 33 KGSG[^33-1]), hat das Amt für Kulturgüter insbesondere folgende Befugnisse:
 
 - a) Es beantragt beim «Schweizerischen Komitee für Kulturgüterschutz» die Nachführung des Schweizerischen Inventars der Kulturgüter von nationaler und regionaler Bedeutung im Kanton.
 - b) Es erstellt eine Sicherheitsdokumentation über die Kulturgüter von nationaler und regionaler Bedeutung und arbeitet für die Erstellung einer Dokumentation der Kulturgüter von lokaler Bedeutung mit den Gemeinden zusammen.
@@ -377,9 +413,15 @@ beschliesst:
 - d) Es arbeitet mit den Verantwortlichen des Kulturgüterschutzes, die von Gemeinden und Gemeindeverbindungen bezeichnet werden, bei der Ausführung ihrer Aufgabe zusammen.
 - e) Es überwacht die Ausführung der Aufgaben zum Schutz der Kulturgüter durch die Gemeinden und die Gemeindeverbindungen.
 
-<sup>2</sup> Das Amt für Kulturgüter kann für die Ausübung bestimmter Befugnisse die Mithilfe des Amts für Bevölkerungsschutz und Militär anfordern.
+<sup>2</sup> Das Amt für Kulturgüter kann für die Ausübung bestimmter Befugnisse die Mithilfe des Amts für zivile Sicherheit und Militär anfordern.
+
+[^33-1]: SGF [482.1](https://bdlf.fr.ch/data/482.1/de)
 
 ## 4 Meldepflicht (Art. 34 KGSG)
+
+[^33-2]
+
+[^33-2]: SGF [482.1](https://bdlf.fr.ch/data/482.1/de)
 
 #### Art. 34
 
@@ -392,6 +434,10 @@ beschliesst:
 <sup>3</sup> Das Amt für Kulturgüter oder das Amt für Archäologie identifiziert das Objekt und informiert die Direktion, die nach Bedarf die nötigen vorsorglichen Massnahmen trifft.
 
 ## 5 Archäologische Ausgrabungen (Art. 37–43 KGSG)
+
+[^34-1]
+
+[^34-1]: SGF [482.1](https://bdlf.fr.ch/data/482.1/de)
 
 #### Art. 35
 
@@ -450,11 +496,13 @@ beschliesst:
 
 - a) die Ausgrabungen voraussichtlich länger dauern als zwei Wochen;
 - b) im Rahmen des Baubewilligungsverfahrens allfällige Ausgrabungen nicht vorbehalten wurden;
-- c) die Ausgrabungen in Anwendung des Artikels 38 Abs. 2 KGSG geplant und beschlossen wurden.
+- c) die Ausgrabungen in Anwendung des Artikels 38 Abs. 2 KGSG[^40-1] geplant und beschlossen wurden.
 
 <sup>2</sup> Der Vertrag hält die gegenseitigen Verpflichtungen des Staates und des betreffenden Eigentümers fest. Insbesondere werden darin der Ablauf und die voraussichtliche Dauer der Ausgrabungen und gegebenenfalls die Höhe der Entschädigung oder die Art ihrer Berechnung festgehalten.
 
 <sup>3</sup> Die Verträge, welche Entschädigungen über 10'000 Franken vorsehen, müssen vom Staatsrat genehmigt werden.
+
+[^40-1]: SGF [482.1](https://bdlf.fr.ch/data/482.1/de)
 
 #### Art. 41
 
@@ -515,13 +563,19 @@ beschliesst:
 
 ### 6.1 Verzeichnis (Art. 44–47 KGSG)
 
+[^46-1]
+
+[^46-1]: SGF [482.1](https://bdlf.fr.ch/data/482.1/de)
+
 #### Art. 47
 
 **Grundsatz – Inhalt**
 
-<sup>1</sup> Die Kulturgüterkommission beauftragt die zuständigen Dienststellen, das Verzeichnis vorzubereiten, indem eine Dokumentation über die Kulturgüter gemäss Artikel 3 KGSG erstellt wird.
+<sup>1</sup> Die Kulturgüterkommission beauftragt die zuständigen Dienststellen, das Verzeichnis vorzubereiten, indem eine Dokumentation über die Kulturgüter gemäss Artikel 3 KGSG[^47-1] erstellt wird.
 
 <sup>2</sup> Das Verzeichnis enthält Angaben zum Wert des Objektes als Kulturgut, zu seinem Zustand und bei unbeweglichen Kulturgütern zu deren Standort innerhalb der Stätte.
+
+[^47-1]: SGF [482.1](https://bdlf.fr.ch/data/482.1/de)
 
 #### Art. 48
 
@@ -596,6 +650,10 @@ C = Durchschnittliche Qualität: repräsentatives Objekt aufgrund gewisser wesen
 
 ### 6.2 Inventar (Art. 48 KGSG)
 
+[^53-1]
+
+[^53-1]: SGF [482.1](https://bdlf.fr.ch/data/482.1/de)
+
 #### Art. 54
 
 <sup>1</sup> Für die geschützten beweglichen und unbeweglichen Kulturgüter werden getrennte Inventare geführt.
@@ -607,6 +665,10 @@ C = Durchschnittliche Qualität: repräsentatives Objekt aufgrund gewisser wesen
 ## 7 Organisation
 
 ### 7.1 Die Dienststellen der Direktion (Art. 55 Abs. 1 KGSG)
+
+[^54-1]
+
+[^54-1]: SGF [482.1](https://bdlf.fr.ch/data/482.1/de)
 
 #### Art. 55
 
@@ -630,10 +692,13 @@ C = Durchschnittliche Qualität: repräsentatives Objekt aufgrund gewisser wesen
 - d) Es macht, im Rahmen der verfügbaren Mittel, das Wissen seiner Fachleute über Verfahren und Techniken der Erhaltung und der Restauration von Kulturgütern bekannt.
 - e) Es wacht im Einvernehmen mit der zuständigen Behörde über die Einhaltung der Pflichten, die den Eigentümern geschützter Kulturgüter obliegen.
 - f) Es erstellt zuhanden der Kommission das Verzeichnis der Kulturgüter und das Inventar der geschützten Kulturgüter, mit Ausnahme derjenigen, für die das Amt für Archäologie oder die kulturellen Institutionen des Staates zuständig sind.
-- g) Es schlägt der Direktion vorsorgliche Schutzmassnahmen vor im Sinne der Artikel 35 KGSG und 76 des Raumplanungs– und Baugesetzes vom 2. Dezember 2008 (RPBG).
+- g) Es schlägt der Direktion vorsorgliche Schutzmassnahmen vor im Sinne der Artikel 35 KGSG[^56-1] und 76 des Raumplanungs– und Baugesetzes vom 2. Dezember 2008 (RPBG)[^56-2].
 - h) Es fördert die Schaffung lokaler Kommissionen für den Kulturgüterschutz.
 - i) Es besorgt das Sekretariat der Kommission, des Büros und der Unterkommission.
 - j) Es führt alle weiteren Aufgaben aus, die ihm von der Direktion übertragen werden, und übt die übrigen Befugnisse aus, die ihm aus der Gesetzgebung über den Kulturgüterschutz erwachsen.
+
+[^56-1]: SGF [482.1](https://bdlf.fr.ch/data/482.1/de)
+[^56-2]: SGF [710.1](https://bdlf.fr.ch/data/710.1/de)
 
 #### Art. 57
 
@@ -651,10 +716,13 @@ C = Durchschnittliche Qualität: repräsentatives Objekt aufgrund gewisser wesen
 - d) Es arbeitet mit den Eigentümern und den Gemeinden zusammen bei der Ausführung ihrer Aufgaben für den Schutz der archäologischen Kulturgüter.
 - e) Es macht, im Rahmen der verfügbaren Mittel, das Wissen seiner Fachleute über Arten und Techniken der Erhaltung und der Restauration der archäologischen Kulturgüter bekannt.
 - f) Es erstellt zuhanden der Kommission das Verzeichnis der beweglichen und der unbeweglichen archäologischen Kulturgüter und das Inventar der geschützten archäologischen Kulturgüter, namentlich das Inventar der archäologischen Stätten.
-- g) Es schlägt der Direktion vorsorgliche Schutzmassnahmen im Sinne der Artikel 35 KGSG und 76 RPBG vor.
+- g) Es schlägt der Direktion vorsorgliche Schutzmassnahmen im Sinne der Artikel 35 KGSG[^57-1] und 76 RPBG[^57-2] vor.
 - h) Akten betreffend den archäologischen Kulturgüterschutz, die der Kommission und der Unterkommission vorgelegt werden, werden von ihm geprüft und vorbereitet.
 - i) Es nimmt Stellung zu den Bewilligungsgesuchen für die Durchführung von Ausgrabungen.
 - j) Es führt alle übrigen Aufgaben aus, die ihm von der Direktion übertragen werden, und übt die übrigen Befugnisse aus, die ihm aus der Gesetzgebung über den Kulturgüterschutz erwachsen.
+
+[^57-1]: SGF [482.1](https://bdlf.fr.ch/data/482.1/de)
+[^57-2]: SGF [710.1](https://bdlf.fr.ch/data/710.1/de)
 
 ### 7.2 Die Kulturgüterkommission
 
@@ -723,6 +791,10 @@ C = Durchschnittliche Qualität: repräsentatives Objekt aufgrund gewisser wesen
 <sup>4</sup> Wenn sich die Einschätzung des historischen, ästhetischen oder archäologischen Interesses als heikel erweist oder der Gegenstand eine Grundsatzfrage berührt, leitet das Büro die Akte zum Entscheid an die Kommission weiter.
 
 ### 7.3 Die Unterkommission für bewegliche Kulturgüter (Art. 57 Abs. 3 KGSG)
+
+[^61-1]
+
+[^61-1]: SGF [482.1](https://bdlf.fr.ch/data/482.1/de)
 
 #### Art. 62
 
