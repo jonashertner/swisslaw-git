@@ -3,13 +3,13 @@ canton: FR
 number: "52.23"
 title: Verordnung über die Koordination und die Zusammenarbeit im Bereich des Bevölkerungsschutzes (Risikoanalyse und Prävention)
 language: de
-version: 2011-04-01
-valid_until: 2022-11-30
-version_adopted: 2011-02-22
+version: 2022-12-01
+valid_until: 2026-09-30
+version_adopted: 2022-11-08
 adopted: 2011-02-22
 in_force: 2011-04-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/52.23"
-pdf: "https://bdlf.fr.ch/api/de/versions/5258/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7632/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/5258/pdf_file"
 
 Bevölkerungsschutz, Koordination und Zusammenarbeit – V
 
-vom 22.02.2011 (Fassung in Kraft getreten am 01.04.2011)
+vom 22.02.2011 (Fassung in Kraft getreten am 01.12.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -39,11 +39,11 @@ beschliesst:
 - a) Gravitative Naturgefahren (Hochwasser, Lawinen, Erdrutsche): Naturgefahrenkommission, die dafür die in ihr vertretenen Einheiten beizieht;
 - b) Unwetter (Orkane, starke Niederschläge): Kantonale Gebäudeversicherung;
 - c) Hitzewelle: Kantonsarztamt;
-- d) Dürre: Amt für Bevölkerungsschutz und Militär, das dafür über eine Koordinationsgruppe verfügt, in der die betroffenen Einheiten vertreten sind;
+- d) Dürre: Amt für zivile Sicherheit und Militär, das dafür über eine Koordinationsgruppe verfügt, in der die betroffenen Einheiten vertreten sind;
 - e) Erdbeben: Kantonale Gebäudeversicherung;
 - f) Störfälle im Sinne der Umweltschutzgesetzgebung des Bundes (stationäre Anlagen und Verkehrswege): Amt für Umwelt, das dafür über die Koordinationsgruppe für Störfälle KOST verfügt;
-- g) ABC-Ereignisse (nuklear, radiologisch, biologisch, chemisch): Amt für Bevölkerungsschutz und Militär, das dafür die Fachleute des Amtes für Umwelt und der Hochschulen beizieht;
-- h) Netzausfälle und Versorgungsunterbrüche (Elektrizität, Erdgas, Informatik- und Telekommunikationsnetze): Amt für Bevölkerungsschutz und Militär, das dafür die Betreiber beizieht.
+- g) ABC-Ereignisse (nuklear, radiologisch, biologisch, chemisch): Amt für zivile Sicherheit und Militär, das dafür die Fachleute des Amtes für Umwelt und der Hochschulen beizieht;
+- h) Netzausfälle und Versorgungsunterbrüche (Elektrizität, Erdgas, Informatik- und Telekommunikationsnetze): Amt für zivile Sicherheit und Militär, das dafür die Betreiber beizieht.
 
 #### Art. 2
 
@@ -57,7 +57,7 @@ beschliesst:
 
 **Risikobeobachtungsstelle**
 
-<sup>1</sup> Das Amt für Bevölkerungsschutz und Militär nimmt bei der Beobachtung und Beurteilung der Risiken eine allgemeine Aufsichts- und Koordinationsfunktion wahr.
+<sup>1</sup> Das Amt für zivile Sicherheit und Militär nimmt bei der Beobachtung und Beurteilung der Risiken eine allgemeine Aufsichts- und Koordinationsfunktion wahr.
 
 <sup>2</sup> Aufgrund der Informationen, die es von den Fachstellen erhält, erstellt es periodisch eine Gesamtsicht der Risiken, denen die Bevölkerung und deren Lebensgrundlagen ausgesetzt sind.
 

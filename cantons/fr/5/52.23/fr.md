@@ -3,13 +3,13 @@ canton: FR
 number: "52.23"
 title: Ordonnance sur la coordination et la collaboration dans le domaine de la protection de la population (analyse des risques et prévention)
 language: fr
-version: 2011-04-01
-valid_until: 2022-11-30
-version_adopted: 2011-02-22
+version: 2022-12-01
+valid_until: 2026-09-30
+version_adopted: 2022-11-08
 adopted: 2011-02-22
 in_force: 2011-04-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/52.23"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5258/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7632/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/5258/pdf_file"
 
 Protection de la population, coordination et collaboration – O
 
-du 22.02.2011 (version entrée en vigueur le 01.04.2011)
+du 22.02.2011 (version entrée en vigueur le 01.12.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -39,11 +39,11 @@ Arrête:
 - a) Dangers naturels gravitaires (crues, avalanches, mouvements de terrain): la Commission des dangers naturels, qui dispose à cet effet de la collaboration des unités qui y sont représentées;
 - b) Intempéries (ouragans, précipitations violentes): l'Etablissement cantonal d'assurance des bâtiments;
 - c) Vague de chaleur (canicule): le Service du médecin cantonal;
-- d) Sécheresse: le Service de la protection de la population et des affaires militaires, qui dispose à cet effet d'un groupe de coordination réunissant les représentants des unités concernées;
+- d) Sécheresse: le Service de la sécurité civile et militaire, qui dispose à cet effet d'un groupe de coordination réunissant les représentants des unités concernées;
 - e) Séismes: l'Etablissement cantonal d'assurance des bâtiments;
 - f) Accidents majeurs, au sens de la législation fédérale sur la protection de l'environnement (installations stationnaires et voies de communication): le Service de l'environnement, qui dispose à cet effet du Groupe de coordination pour les accidents majeurs GROPAM;
-- g) Evénements ABC (nucléaire, radiologique, biologique, chimique): le Service de la protection de la population et des affaires militaires, qui dispose à cet effet de la collaboration des spécialistes du Service de l'environnement et des hautes écoles;
-- h) Pannes de réseau et rupture d'approvisionnement (électricité, gaz naturel, réseaux informatiques et télécom): le Service de la protection de la population et des affaires militaires, qui dispose à cet effet de la collaboration des exploitants.
+- g) Evénements ABC (nucléaire, radiologique, biologique, chimique): le Service de la sécurité civile et militaire, qui dispose à cet effet de la collaboration des spécialistes du Service de l'environnement et des hautes écoles;
+- h) Pannes de réseau et rupture d'approvisionnement (électricité, gaz naturel, réseaux informatiques et télécom): le Service de la sécurité civile et militaire, qui dispose à cet effet de la collaboration des exploitants.
 
 #### Art. 2
 
@@ -57,7 +57,7 @@ Arrête:
 
 **Observatoire des risques**
 
-<sup>1</sup> Le Service de la protection de la population et des affaires militaires exerce, en ce qui concerne l'observation et l'évaluation des risques, une fonction générale de veille et de coordination.
+<sup>1</sup> Le Service de la sécurité civile et militaire exerce, en ce qui concerne l'observation et l'évaluation des risques, une fonction générale de veille et de coordination.
 
 <sup>2</sup> Il établit périodiquement, sur la base des informations qui lui sont fournies par les unités spécialisées, une vue d'ensemble des risques auxquels sont exposées la population et ses bases d'existence.
 
