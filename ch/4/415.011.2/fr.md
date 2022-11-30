@@ -4,11 +4,11 @@ title: "Ordonnance de l'OFSPO du 12 juillet 2012 concernant «Jeunesse et sport�
 short: O OFSPO J+S
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/463"
 language: fr
-version: 2021-10-01
+version: 2022-12-01
 adopted: 2012-07-12
 in_force: 2012-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/463/20211001/fr/xml/fedlex-data-admin-ch-eli-cc-2012-463-20211001-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/463/20211001/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/463/20221201/fr/xml/fedlex-data-admin-ch-eli-cc-2012-463-20221201-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/463/20221201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/463/20211001/fr"
 
 (O OFSPO J+S)
 
-du 12 juillet 2012 (Etat le 1<sup>er</sup> octobre 2021)
+du 12 juillet 2012 (Etat le 1<sup>er</sup> décembre 2022)
 
 L’Office fédéral du sport (OFSPO),
 
@@ -42,9 +42,9 @@ arrête:
 
 **Répartition des sports dans les groupes d’utilisateurs**
 
-<sup>1</sup> Les sports du groupe d’utilisateurs 1 sont l’allround, l’arbalète, l’arc, l’athlétisme, le badminton, la balle à la corbeille, la balle au poing, le baseball/softball, le basketball, le BMX, la boxe light-contact, la carabine, la course d’orientation, le curling, le cycle-balle, le cyclisme artistique, le cyclisme sur piste, le cyclisme sur route, le cyclo-cross, les danses standard/latines, l’équitation, l’escrime, le football, le football américain, le golf, la gymnastique, la gymnastique acrobatique, la gymnastique artistique, la gymnastique aux agrès, la gymnastique et danse, la gymnastique rythmique, le handball, le hockey inline, le hockey sur gazon, le hockey sur glace, le hornuss, les jeux nationaux, le judo, le ju-jitsu, le karaté, la lutte, la lutte suisse, le monocycle, la natation, la natation artistique, la natation de sauvetage, le parkour, le patinage artistique sur glace, le patinage artistique sur roulettes, le patinage de vitesse sur glace, le patinage de vitesse sur roulettes, le patinage synchronisé sur glace, le pistolet, le plongeon, le rhönrad, le rink-hockey, le rock’n’roll, le rugby, le squash, le street-hockey, le tchoukball, le tennis, le tennis de table, le trampoline, le trial, le triathlon, l’unihockey, le volleyball, la voltige, le VTT et le waterpolo.[^2-1]
+<sup>1</sup> Les sports du groupe d’utilisateurs 1 sont l’aïkido, l’allround, l’arbalète, l’arc, l’athlétisme, le badminton, la balle à la corbeille, la balle au poing, le baseball/softball, le basketball, le BMX, la boxe light-contact, la carabine, la course d’orientation, le curling, le cycle-balle, le cyclisme artistique, le cyclisme sur piste, le cyclisme sur route, le cyclo-cross, les danses standard/latines, l’équitation, l’escrime, le football, le football américain, le golf, la gymnastique, la gymnastique acrobatique, la gymnastique artistique, la gymnastique aux agrès, la gymnastique et danse, la gymnastique rythmique, le handball, le hockey inline, le hockey sur gazon, le hockey sur glace, le hornuss, les jeux nationaux, le judo, le ju-jitsu, le karaté, le kick-boxing light, la lutte, la lutte suisse, le monocycle, la natation, la natation artistique, la natation de sauvetage, le parkour, le patinage artistique sur glace, le patinage artistique sur roulettes, le patinage de vitesse sur glace, le patinage de vitesse sur roulettes, le patinage synchronisé sur glace, le pistolet, le plongeon, le rhönrad, le rink-hockey, le rock’n’roll, le rugby, le squash, le street-hockey, le tchoukball, le tennis, le tennis de table, le trampoline, le trial, le triathlon, le unihockey, le volleyball, la voltige, le VTT, le waterpolo et le wushu/kung-fu.[^2-1]
 
-<sup>2</sup> Les sports du groupe d’utilisateurs 2 sont l’alpinisme, l’aviron, le biathlon, l’escalade sportive, le canoë-kayak, les excursions à skis, la planche à voile, le saut à skis, le ski, le ski de fond, le snowboard et la voile.[^2-2]
+<sup>2</sup> Les sports du groupe d’utilisateurs 2 sont l’alpinisme, l’aviron, le biathlon, la course nautique, le canoë-kayak, l’escalade sportive, les excursions à skis, la planche à voile, le saut à skis, le ski, le ski de fond, le snowboard et la voile.[^2-2]
 
 <sup>3</sup> Le sport du groupe d’utilisateurs 3 est le sport de camp/trekking.[^2-3]
 
@@ -52,8 +52,8 @@ arrête:
 
 <sup>5</sup> ...[^2-4]
 
-[^2-1]: Nouvelle teneur selon le ch. I de l’O de l’OFSPO du 8 avr. 2020, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2020 1537](https://fedlex.data.admin.ch/eli/oc/2020/305)).
-[^2-2]: Nouvelle teneur selon le ch. I de l’O de l’OFSPO du 8 avr. 2020, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2020 1537](https://fedlex.data.admin.ch/eli/oc/2020/305)).
+[^2-1]: Nouvelle teneur selon le ch. I de l’O de l’OFSPO du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 219](https://fedlex.data.admin.ch/eli/oc/2022/219)).
+[^2-2]: Nouvelle teneur selon le ch. I de l’O de l’OFSPO du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 219](https://fedlex.data.admin.ch/eli/oc/2022/219)).
 [^2-3]: Nouvelle teneur selon le ch. I de l’O de l’OFSPO du 26 oct. 2015, en vigueur depuis le 1<sup>er</sup> déc. 2015 ([RO 2015 4129](https://fedlex.data.admin.ch/eli/oc/2015/693)).
 [^2-4]: Abrogé par le ch. I de l’O de l’OFSPO du 16 nov. 2017, avec effet au 1<sup>er</sup> janv. 2018 ([RO 2017 6595](https://fedlex.data.admin.ch/eli/oc/2017/731)).
 
@@ -90,11 +90,14 @@ Les activités J+S suivantes doivent, avant d’être réalisées, être autoris
   - 2\. eau,
   - 3\. hiver.
 
+<sup>1bis</sup> Les activités J+S dirigées par un moniteur J+S titulaire d’un brevet fédéral de guide de montagne ne sont pas soumises à autorisation.[^4-4]
+
 <sup>2</sup> Les experts J+S qui octroient les autorisations visées à l’al. 1, let. c, doivent avoir suivi un module de formation continue spécifique.
 
 [^4-1]: Nouvelle teneur selon le ch. I de l’O de l’OFSPO du 8 avr. 2020, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2020 1537](https://fedlex.data.admin.ch/eli/oc/2020/305)).
 [^4-2]: Abrogée selon le ch. I de l’O de l’OFSPO du 26 oct. 2015, avec effet au 1<sup>er</sup> déc. 2015 ([RO 2015 4129](https://fedlex.data.admin.ch/eli/oc/2015/693)).
 [^4-3]: Nouvelle teneur selon le ch. I de l’O de l’OFSPO du 26 oct. 2015, en vigueur depuis le 1<sup>er</sup> déc. 2015 ([RO 2015 4129](https://fedlex.data.admin.ch/eli/oc/2015/693)).
+[^4-4]: Introduit par le ch. I de l’O de l’OFSPO du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 219](https://fedlex.data.admin.ch/eli/oc/2022/219)).
 
 #### Art. 5
 
@@ -125,9 +128,9 @@ L’organisateur n’a pas le droit de subdiviser un groupe qui s’entraîne ou
 
 **Interdiction de participation des enfants**[^8-1]
 
-Dans le sport de camp/trekking, aucun enfant n’a le droit de participer aux activités dans les domaines soumis à des dispositions de sécurité particulières «montagne», «eau» et «hiver».
+Dans le sport de camp/trekking, aucun enfant n’a le droit de participer aux activités dont la réalisation nécessite une reconnaissance supplémentaire Sécurité ou une formation continue Sécurité conformément à l’annexe 3.
 
-[^8-1]: Nouvelle teneur selon le ch. I de l’O de l’OFSPO du 26 oct. 2015, en vigueur depuis le 1<sup>er</sup> déc. 2015 ([RO 2015 4129](https://fedlex.data.admin.ch/eli/oc/2015/693)).
+[^8-1]: Nouvelle teneur selon le ch. I de l’O de l’OFSPO du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 219](https://fedlex.data.admin.ch/eli/oc/2022/219)).
 
 ## Section 3 Formation des cadres J+S
 
@@ -151,13 +154,15 @@ La structure de la formation de base et de la formation continue des moniteurs J
 
 **Expert (spécialisation)**
 
-**Expert** ***coach*** **(spécialisation)**
+**Expert coach (spécialisation)**
 
 <table>
 <tr><th>Niveaux de formation</th><th>Durée de chaque cours/module (jours)</th></tr>
-<tr><td>Formation de base</td><td>Cours: de 5 à 6</td></tr>
+<tr><td>Formation de base</td><td>Cours: de 5 à 12</td></tr>
 <tr><td>Formation continue 1</td><td>Modules: de 1 à 6</td></tr>
 <tr><td>Formation continue 2</td><td>Modules: de 1 à 6</td></tr>
+<tr><td>Formation complémentaire Sécurité</td><td>Cours: de 2 à 6</td></tr>
+<tr><td>Formation continue Sécurité</td><td>Modules: de 1 à 6</td></tr>
 </table>
 
 <table>
@@ -175,7 +180,7 @@ La structure de la formation de base et de la formation continue des moniteurs J
 <table>
 <tr><th>Niveaux de formation</th><th>Durée de chaque cours/module (jours)</th></tr>
 <tr><td>Formation de base</td><td>Cours: 2</td></tr>
-<tr><td>Formation continue</td><td>Modules: de 1 à 2</td></tr>
+<tr><td>Formation continue</td><td>Modules: de 1 à 2.[^10-2]</td></tr>
 </table>
 
 <sup>2</sup> Les formations abrégées sous forme de cours d’introduction durent de 1 à 4 jours.
@@ -185,6 +190,7 @@ La structure de la formation de base et de la formation continue des moniteurs J
 <sup>4</sup> La durée d’enseignement par journée de formation est de 6 heures au moins, et de 3 heures au moins par demi-journée.
 
 [^10-1]: Nouvelle teneur selon le ch. I de l’O de l’OFSPO du 16 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6595](https://fedlex.data.admin.ch/eli/oc/2017/731)).
+[^10-2]: Nouvelle teneur selon le ch. I de l’O de l’OFSPO du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 219](https://fedlex.data.admin.ch/eli/oc/2022/219)).
 
 #### Art. 11
 
@@ -255,60 +261,37 @@ Les appréciations fournies sont les suivantes:
 
 #### Art. 15
 
-**Reconnaissance de moniteurs J+S**[^15-1]
+**Reconnaissance de moniteur J+S**[^15-1]
 
-<sup>1</sup>
+La reconnaissance de moniteur J+S est attribuée pour un sport J+S nommément désigné ou pour le sport scolaire et pour le groupe cible des enfants ou le groupe cible des jeunes.
 
-Les reconnaissances de moniteur J+S sont attribuées:
-
-- a. dans les sports A et B énumérés à l’annexe 1 OPESp: pour le groupe cible des enfants ou le groupe cible des jeunes;
-- b. dans le sport scolaire: pour le groupe cible des enfants ou le groupe cible des jeunes, ou
-- c. dans le sport pour enfants.
-
-<sup>2</sup> ...[^15-2]
-
-<sup>3</sup> Aucune reconnaissance n’est attribuée pour le sport allround.
-
-<sup>4</sup> ...[^15-3]
-
-[^15-1]: Nouvelle teneur selon le ch. I de l’O de l’OFSPO du 26 oct. 2015, en vigueur depuis le 1<sup>er</sup> déc. 2015 ([RO 2015 4129](https://fedlex.data.admin.ch/eli/oc/2015/693)).
-[^15-2]: Abrogé par le ch. I de l’O de l’OFSPO du 8 avr. 2020, avec effet au 1<sup>er</sup> oct. 2021 ([RO 2020 1537](https://fedlex.data.admin.ch/eli/oc/2020/305)).
-[^15-3]: Abrogé par le ch. I de l’O de l’OFSPO du 8 avr. 2020, avec effet au 1<sup>er</sup> oct. 2021 ([RO 2020 1537](https://fedlex.data.admin.ch/eli/oc/2020/305)).
+[^15-1]: Nouvelle teneur selon le ch. I de l’O de l’OFSPO du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 219](https://fedlex.data.admin.ch/eli/oc/2022/219)).
 
 #### Art. 16
 
-**Reconnaissance de moniteur de sport scolaire**[^16-1]
+**Reconnaissance de moniteur J+S Sport scolaire**[^16-1]
 
-<sup>1</sup> La reconnaissance de moniteur de sport scolaire donne le droit de réaliser des activités dans les sports A énumérés à l’annexe 1 OPESp ainsi que dans les sports natation, natation artistique, natation de sauvetage, plongeon, triathlon et waterpolo.
+<sup>1</sup> La reconnaissance de moniteur J+S Sport scolaire donne le droit de diriger des activités dans les sports J+S suivants: aïkido, allround, athlétisme, badminton, balle à la corbeille, balle au poing, baseball/softball, basketball, BMX, boxe light-contact, course d’orientation, curling, cycle-balle, cyclisme artistique, cyclisme sur piste, cyclisme sur route, cyclo-cross, danses standard/latines, escrime, football, football américain, golf, gymnastique, gymnastique acrobatique, gymnastique artistique, gymnastique aux agrès, gymnastique et danse, gymnastique rythmique, handball, hockey inline, hockey sur gazon, hockey sur glace, hornuss, jeux nationaux, judo, ju-jitsu, karaté, kick-boxing light, lutte, lutte suisse, monocycle, natation, natation artistique, natation de sauvetage, parkour, patinage artistique sur glace, patinage artistique sur roulettes, patinage de vitesse sur glace, patinage de vitesse sur roulettes, patinage synchronisé sur glace, plongeon, rhönrad, rink-hockey, rock’n’roll, rugby, ski de fond, squash, street-hockey, tchoukball, tennis, tennis de table, trampoline, trial, triathlon, unihockey, volleyball, VTT, waterpolo et wushu/kung-fu.
 
-<sup>2</sup> Les moniteurs J+S de sport scolaire reconnus qui souhaitent exercer une activité de moniteur J+S pour des groupes d’utilisateurs autres que les groupes 4 et 5 dans l’un des sports A énumérés à l’annexe 1 OPESp ou dans les sports natation, natation artistique, natation de sauvetage, plongeon, triathlon ou waterpolo, peuvent demander la reconnaissance de moniteur J+S dans le sport concerné pour leur groupe cible s’ils remplissent les conditions de participation au cours de moniteurs correspondant.
+<sup>2</sup> Les moniteurs J+S Sport scolaire qui disposent d’une reconnaissance valable et qui souhaitent encadrer des activités en dehors des groupes d’utilisateurs 4 et 5 dans des sports visés à l’al. 1 peuvent demander la reconnaissance de moniteur J+S dans le sport concerné pour leur groupe cible. L’OFSPO la leur attribue s’ils remplissent les conditions d’admission à la formation de base de moniteur J+S dans le sport concerné.
 
-[^16-1]: Nouvelle teneur selon le ch. I de l’O de l’OFSPO du 8 avr. 2020, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2020 1537](https://fedlex.data.admin.ch/eli/oc/2020/305)).
+[^16-1]: Nouvelle teneur selon le ch. I de l’O de l’OFSPO du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 219](https://fedlex.data.admin.ch/eli/oc/2022/219)).
 
 #### Art. 17
 
-**Reconnaissance de moniteur de sport des enfants**[^17-1]
+[^17-1]
 
-<sup>1</sup>
-
-La reconnaissance de moniteur J+S de sport des enfants requiert:
-
-- a. la réussite d’une formation de moniteur J+S dans les sports A et B énumérés à l’annexe 1 OPESp pour le groupe cible des enfants;
-- b. la réussite d’une formation spécifique au sport des enfants J+S.
-
-<sup>2</sup> Elle donne le droit de réaliser des activités destinées à des enfants dans tous les sports A énumérés à l’annexe 1 OPESp.
-
-[^17-1]: Nouvelle teneur selon le ch. I de l’O de l’OFSPO du 26 oct. 2015, en vigueur depuis le 1<sup>er</sup> déc. 2015 ([RO 2015 4129](https://fedlex.data.admin.ch/eli/oc/2015/693)).
+[^17-1]: Abrogé par le ch. I de l’O de l’OFSPO du 30 mars 2022, avec effet au 1<sup>er</sup> déc. 2022 ([RO 2022 219](https://fedlex.data.admin.ch/eli/oc/2022/219)).
 
 #### Art. 18
 
-**Reconnaissance supplémentaire de moniteur de sport militaire**[^18-1]
+**Reconnaissance de moniteur J+S pour les moniteurs de sport militaire**[^18-1]
 
-<sup>1</sup> Les moniteurs de sport militaire reconnus au sens de l’annexe 2 qui souhaitent exercer une activité de moniteur J+S peuvent demander une reconnaissance de moniteur J+S pour le groupe cible des jeunes dans les sports A énumérés à l’annexe 1 OPESp ainsi que dans les sports natation, natation artistique, natation de sauvetage, plongeon, triathlon et waterpolo.
+<sup>1</sup> Les moniteurs de sport militaire visés à l’annexe 2 qui souhaitent exercer une activité de moniteur J+S peuvent demander la reconnaissance de moniteur J+S pour le groupe cible des jeunes dans les sports suivants: aïkido, athlétisme, badminton, balle à la corbeille, balle au poing, baseball/softball, basketball, biathlon, BMX, boxe light-contact, course d’orientation, curling, cycle-balle, cyclisme artistique, cyclisme sur piste, cyclisme sur route, cyclo-cross, danses standard/latines, escrime, football, football américain, golf, gymnastique, gymnastique acrobatique, gymnastique artistique, gymnastique aux agrès, gymnastique et danse, gymnastique rythmique, handball, hockey inline, hockey sur gazon, hockey sur glace, hornuss, jeux nationaux, judo, ju-jitsu, karaté, kick-boxing light, lutte, lutte suisse, monocyle, natation artistique, natation, natation de sauvetage, parkour, patinage artistique sur glace, patinage artistique sur roulettes, patinage de vitesse sur glace, patinage de vitesse sur roulettes, patinage synchronisé sur glace, plongeon, rhönrad, rink-hockey, rock’n’roll, rugby, ski de fond, squash, street-hockey, tchoukball, tennis, tennis de table, trampoline, trial, triathlon, unihockey, volleyball, VTT, waterpolo et wushu/kung-fu.
 
-<sup>2</sup> Le coach J+S de l’organisateur pour lequel le moniteur exercera sa fonction dans le sport supplémentaire dépose la demande correspondante à l’autorité cantonale responsable de la réalisation du programme J+S. Cette dernière la transmet à l’OFSPO pour décision.
+<sup>2</sup> L’OFSPO délivre la reconnaissance visée à l’al. 1 aux personnes qui en font la demande lorsque celles-ci remplissent les conditions d’admission à la formation de base de moniteur J+S dans le sport concerné.
 
-[^18-1]: Nouvelle teneur selon le ch. I de l’O de l’OFSPO du 8 avr. 2020, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2020 1537](https://fedlex.data.admin.ch/eli/oc/2020/305)).
+[^18-1]: Nouvelle teneur selon le ch. I de l’O de l’OFSPO du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 219](https://fedlex.data.admin.ch/eli/oc/2022/219)).
 
 #### Art. 19
 
@@ -322,26 +305,19 @@ Les experts J+S reconnus doivent être titulaires d’une reconnaissance de moni
 
 **Conditions à remplir pour diriger des activités J+S**[^20-1]
 
-<sup>1</sup> Pour diriger des activités réalisées dans le cadre de cours ou de camps J+S, les moniteurs J+S engagés doivent avoir suivi l’une des formations visées à l’annexe 3 pour le groupe cible concerné. L’art. 17, al. 2, est réservé.
+<sup>1</sup> Pour diriger des activités réalisées dans le cadre de cours ou de camps J+S, les moniteurs J+S engagés doivent avoir suivi l’une des formations visées à l’annexe 3 pour le groupe cible concerné.
 
-<sup>2</sup> Si un moniteur J+S ne possède pas toutes les formations requises pour diriger des activités J+S avec des enfants dans les sports B énumérés à l’annexe 1 OPESp, un moniteur J+S supplémentaire ayant suivi la formation requise doit être engagé.
+<sup>2</sup> Si un moniteur J+S ne possède pas toutes les formations requises pour diriger des activités J+S dans lesquelles des enfants et des jeunes s’entraînent ensemble, un moniteur J+S supplémentaire ayant suivi la formation requise doit être engagé.
 
-<sup>3</sup> Si un moniteur J+S ne possède pas toutes les formations requises pour diriger des activités J+S dans lesquelles des enfants et des jeunes s’entraînent ensemble, un moniteur J+S supplémentaire ayant suivi la formation requise doit être engagé.
+<sup>3</sup> Les moniteurs J+S requis en vertu de l’al. 2 ne sont pas assimilés à des moniteurs supplémentaires au sens de l’annexe 2 OPESp et aucun montant de base au sens de l’annexe 3, let. A, OPESp n’est alloué à ce titre.
 
-<sup>4</sup> Les moniteurs J+S requis en vertu des al. 2 ou 3 ne sont pas assimilés à des moniteurs supplémentaires au sens de l’annexe 2 OPESp et aucun montant de base au sens de l’annexe 3, let. A, OPESp n’est alloué à ce titre.
-
-[^20-1]: Nouvelle teneur selon le ch. I de l’O de l’OFSPO du 26 oct. 2015, en vigueur depuis le 1<sup>er</sup> déc. 2015 ([RO 2015 4129](https://fedlex.data.admin.ch/eli/oc/2015/693)).
+[^20-1]: Nouvelle teneur selon le ch. I de l’O de l’OFSPO du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 219](https://fedlex.data.admin.ch/eli/oc/2022/219)).
 
 #### Art. 21
 
-**Chefs de cours et de camp**[^21-1]
+[^21-1]
 
-<sup>1</sup> Pour réaliser un camp pour le sport de camp/trekking, au moins un moniteur ayant suivi une formation complémentaire «chef de camp» doit être engagé.
-
-<sup>2</sup> Pour réaliser des excursions dans les sports alpinisme et excursions à skis, ainsi que des activités sur rocher dans le sport escalade sportive, au moins un moniteur ayant suivi une formation complémentaire «chef de cours» doit être engagé.[^21-2]
-
-[^21-1]: Nouvelle teneur selon le ch. I de l’O de l’OFSPO du 26 oct. 2015, en vigueur depuis le 1<sup>er</sup> déc. 2015 ([RO 2015 4129](https://fedlex.data.admin.ch/eli/oc/2015/693)).
-[^21-2]: Nouvelle teneur selon le ch. I de l’O de l’OFSPO du 8 avr. 2020, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2020 1537](https://fedlex.data.admin.ch/eli/oc/2020/305)).
+[^21-1]: Abrogé par le ch. I de l’O de l’OFSPO du 30 mars 2022, avec effet au 1<sup>er</sup> déc. 2022 ([RO 2022 219](https://fedlex.data.admin.ch/eli/oc/2022/219)).
 
 #### Art. 22
 
@@ -392,12 +368,12 @@ Des entraînements complémentaires du mental et de la condition physique peuven
 
 Dans les offres suivantes de la formation et de la formation continue des moniteurs J+S, le nombre maximum de participants par expert J+S est, par dérogation:
 
-- a. de douze pour l’aviron, le canoë-kayak, l’escalade sportive, la planche à voile, le ski, le snowboard, le sport de camp/trekking et la voile;
-- b. de six pour l’alpinisme et les excursions à skis.[^28-1]
+- a. de douze pour l’aviron, le canoë-kayak, la planche à voile, le ski, le snowboard, le sport de camp/trekking et la voile;
+- b. de six pour l’alpinisme, l’escalade sportive et les excursions à skis.[^28-1]
 
 <sup>2</sup> Les experts J+S engagés dans une offre de la formation des cadres peuvent être engagés à titre complémentaire pour donner ponctuellement des leçons dans une autre offre qui se déroule simultanément ou qui se chevauche avec la première. Leur activité n’est soutenue par des subventions qu’une seule fois en tout.
 
-[^28-1]: Nouvelle teneur selon le ch. I de l’O de l’OFSPO du 8 avr. 2020, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2020 1537](https://fedlex.data.admin.ch/eli/oc/2020/305)).
+[^28-1]: Nouvelle teneur selon le ch. I de l’O de l’OFSPO du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 219](https://fedlex.data.admin.ch/eli/oc/2022/219)).
 
 ## Section 7 Droit aux indemnités pour perte de gain
 
@@ -405,22 +381,25 @@ Dans les offres suivantes de la formation et de la formation continue des monite
 
 <sup>1</sup>
 
-Il est versé une indemnité au sens de l’art. 1*a*, al. 4, de la loi du 25 septembre 1952 sur les allocations pour perte de gain[^29-1] pour la participation aux cours et aux modules de la formation des cadres J+S suivants:
+Il est versé une indemnité au sens de l’art. 1*a*, al. 4 de la loi du 25 septembre 1952 sur les allocations pour perte de gain[^29-1] pour la participation aux cours et aux modules de la formation des cadres J+S suivants, ayant lieu sur place ou en ligne en mode synchrone:[^29-2]
 
 - a. cours de moniteurs J+S réalisés par l’OFSPO ou par les cantons;
 - b. cours de coachs J+S réalisés par l’OFSPO ou par les cantons;
-- c.[^29-2] ...
+- c.[^29-3] ...
 - d. cours d’experts J+S réalisés par l’OFSPO;
 - e. cours de cadres au sens de l’art. 43, al. 4, OPESp, à raison de 5 jours par année civile au maximum;
 - f. modules de formation continue pour les cadres J+S réalisés par l’OFSPO ou par les cantons, à raison de 30 jours par année civile au maximum;
-- g. cours de la formation des entraîneurs de la Haute école fédérale de sport de Macolin permettant d’obtenir le titre d’«entraîneur de sport de performance avec brevet fédéral» ou le titre d’«entraîneur de sport d’élite avec examen professionnel supérieur», à raison de 6 jours par cours au maximum.
+- g.[^29-4] cursus de la Formation des entraîneurs de la Haute école fédérale de sport de Macolin préparant à un examen professionnel fédéral ou à un examen professionnel supérieur en vue de l’obtention du titre d’«entraîneur de sport de performance avec brevet fédéral» ou du titre d’«entraîneur de sport d’élite avec diplôme fédéral», à raison de 6 jours par cours au maximum.
 
 <sup>2</sup> Les offres de formation des cadres J+S qui font partie de filières de formation d’institutions de formation cantonales et qui sont réalisées par ces dernières ne donnent pas lieu au versement d’indemnités pour perte de gain, par dérogation à l’al. 1.
 
-<sup>3</sup> Il n’est pas versé d’indemnités pour perte de gain aux personnes qui ont été autorisées à exercer une activité de cadre J+S en vertu de l’art. 21, al. 2, OPESp.
+<sup>3</sup> Il n’est pas versé d’allocation pour perte de gain aux personnes qui ont été autorisées à exercer une activité de cadre J+S en vertu de l’art. 21, al. 2 OPESp mais qui n’exercent pas d’activité lucrative en Suisse.[^29-5]
 
 [^29-1]: [RS 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
-[^29-2]: Abrogée par le ch. I de l’O de l’OFSPO du 16 nov. 2017, avec effet au 1<sup>er</sup> janv. 2018 ([RO 2017 6595](https://fedlex.data.admin.ch/eli/oc/2017/731)).
+[^29-2]: Nouvelle teneur selon le ch. I de l’O de l’OFSPO du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 219](https://fedlex.data.admin.ch/eli/oc/2022/219)).
+[^29-3]: Abrogée par le ch. I de l’O de l’OFSPO du 16 nov. 2017, avec effet au 1<sup>er</sup> janv. 2018 ([RO 2017 6595](https://fedlex.data.admin.ch/eli/oc/2017/731)).
+[^29-4]: Nouvelle teneur selon le ch. I de l’O de l’OFSPO du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 219](https://fedlex.data.admin.ch/eli/oc/2022/219)).
+[^29-5]: Nouvelle teneur selon le ch. I de l’O de l’OFSPO du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 219](https://fedlex.data.admin.ch/eli/oc/2022/219)).
 
 ## Section 8 Disposition finale
 
@@ -428,86 +407,87 @@ Il est versé une indemnité au sens de l’art. 1*a*, al. 4, de la loi du 25 se
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> octobre 2012.
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 (art. 9)
 
 ## Structure de la formation et de la formation continue
 
-[^t-1]: Nouvelle teneur seoln le ch. II de l’O de l’OFSPO du 16 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6595](https://fedlex.data.admin.ch/eli/oc/2017/731)).
+[^t-1]: Nouvelle teneur selon le ch. II de l’O de l’OFSPO du 16 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6595](https://fedlex.data.admin.ch/eli/oc/2017/731)).
 
 ### 1. Formation et formation continue des moniteurs J+S et des experts J+S
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/463/20211001/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/463/20221201/fr/xml/image/image1.png)
 
 Les modules de formation continue permettent de conserver une reconnaissance de moniteur J+S, de recouvrer une reconnaissance de moniteur J+S devenue caduque ou d’approfondir les compétences de moniteur J+S. Les modules de la formation continue 2 font suite à ceux de la formation continue 1.
 
 ### 2. Formation et formation continue des coachs J+S
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/463/20211001/fr/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/463/20221201/fr/xml/image/image2.png)
 
-Annexe 2*[^t-2]*
+Annexe 2[^t-2]
 
-(art. 18, al. 2)
+(art. 18, al. 1)
 
 ## Moniteurs de sport militaire
 
-[^t-2]: Mise à jour selon le ch. II al. 1 de l’O de l’OFSPO du 26 oct. 2015, en vigueur depuis le 1<sup>er</sup> déc. 2015 ([RO 2015 4129](https://fedlex.data.admin.ch/eli/oc/2015/693)).
+[^t-2]: Nouvelle teneur selon le ch. II de l’O de l’OFSPO du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 219](https://fedlex.data.admin.ch/eli/oc/2022/219)).
 
 ### 1. Formations de moniteurs de sport militaire
 
 <table>
-<tr><td>Désignation</td><td colspan="2">Compétences d’instruction</td><td>Instruction MSM</td></tr>
-<tr><td>Moniteur de sport militaire 1 (MSM 1)</td><td>Appui de l’instruction du sport dans l’IBG, l’IBF et l’IFO, dans tous les stages de formation et dans l’IFO 2 (SP trp).</td><td></td><td>Of carr pendant leur instruction d’officier. Sof carr pendant leur IB à l’ESCA. Officiers de milice pendant leur instruction pour devenir officiers. Sportifs d’élite dans l’ER pour sportifs d’élite. Of carr spéc/sof carr spéc en cas de besoin. Sportifs qualifiés dans des cours spéciaux MSM.</td></tr>
-<tr><td>Moniteur de sport militaire 2 (MSM 2)</td><td>Responsable de l’instruction du sport dans l’IBG, l’IBF, l’IFO, dans les stages de formation sof et sof sup. Appui des MSM 3 dans l’instruction du sport dans les stages de formation des cadres.</td><td></td><td>Of carr/sof carr sélectionnés pendant leur instruction de base pour devenir militaires de carrière. Of sport des GU/C trp. Of carr spéc/sof carr spéc si nécessaire. Enseignants spécialisés si nécessaire.</td></tr>
-<tr><td>Moniteur de sport militaire 3 (MSM 3)</td><td>Responsable de l’instruction des MSM 1 dans les stages de formation de l’école des sous-officiers de carrière (ESCA), dans les stages de formation des officiers et dans l’ER des sportifs d’élite. Dispense de l’instruction du sport à l’académie militaire (ACAMIL).</td><td></td><td>Of carr/sof carr qui ont suivi l’instruction complémentaire à l’OFSPO et qui sont titulaires du brevet SSS II.</td></tr>
-<tr><td>Moniteurs de sport militaire, experts Responsables sportifs de la FOAP</td><td>Responsables de l’accomplissement du sport dans les formations d’application.</td><td></td><td>Sof carr (exp MSM) Brevet SSS II</td></tr>
+<tr><td>Désignation</td><td>Compétence d’instruction</td><td>Instruction</td></tr>
+<tr><td>Moniteur de sport militaire (MSM)</td><td>Dirige l’instruction du sport dans l’IBG/IBE, l’IBF, l’IFO 1, tous les SF et l’IFO 2 (SIF). Soutien du MSM-I.</td><td>Officier pendant l’EO. Sof carr pendant l’instruction de base à l’ESCA. Sof sport pendant l’ESO/le S prat. Sdt sport à l’ER sportifs d’élite. Sdt (milice) disposant des qualifications requises pour les cours spéciaux pour MSM</td></tr>
+<tr><td>Moniteur de sport militaire – instructeur (MSM-I)</td><td>Responsable de la formation des MSM: – à l’EO – à l’ESO/ER (sof sport) – à l’ER sportifs d’élite – durant les cours MSM – à l’ESCA (aspirants sof carr)</td><td>Condition préalable: formation de MSM et nomination (y c. prévue) comme chef sport (ou remplaçant)</td></tr>
+<tr><td></td><td>Chef sport FOAP: responsable de l’application réglementaire du sport dans la formation d’application et soutien/conseiller du chef sport écoles/U org/ cdmt dans ses activités.</td><td>Exigence: – chef sport FOAP (évaluation de fonction: E3) – chef sport école / U org / cdmt</td></tr>
+<tr><td></td><td>Chef sport écoles/U org/cdmt: responsable de l’application réglementaire du sport dans les écoles et soutien/conseiller des MSM. Responsable de la formation continue des MSM dans leur U org</td><td>Fonction: – formation de MSM-I – brevet de MSM-I à titre exceptionnel: possibilité de rattraper la formation en une année</td></tr>
+<tr><td>Moniteur de sport militaire – expert (MSM-E)</td><td>Responsable de la formation des MSM-I comme: – chef sport FOAP – chef sport écoles/U org/cmdt</td><td>Collaborateur du cen comp sport A</td></tr>
 </table>
 
-### 2. ...
-
-Annexe 3*[^t-3]*
+Annexe 3[^t-3]
 
 (art. 20)
 
 ## Formations requises pour les moniteurs J+S
 
-[^t-3]: Nouvelle teneur selon le ch. II de l’O de l’OFSPO du 8 avr. 2020, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2020 1537](https://fedlex.data.admin.ch/eli/oc/2020/305)).
+[^t-3]: Nouvelle teneur selon le ch. II de l’O de l’OFSPO du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 219](https://fedlex.data.admin.ch/eli/oc/2022/219)).
 
-### 1. Exigences de formation
+### 1. Reconnaissances requises dans les sports J+S
 
-Tout moniteur J+S engagé pour diriger des activités dans les sports suivants doit avoir suivi une des formations mentionnées ci-après:
+1.1 Tout moniteur J+S engagé pour diriger des activités dans les sports suivants doit disposer de l’une des reconnaissances correspondantes:
 
 <table>
-<tr><th>Sport</th><th>Formation requise</th></tr>
-<tr><td>Allround</td><td>Reconnaissance en vertu de l’art. 15, al. 1, pour le groupe cible des enfants</td></tr>
-<tr><td>Alpinisme</td><td>Alpinisme, escalade sportive, excursions à skis</td></tr>
+<tr><th>Sport</th><th>Reconnaissance requise</th></tr>
+<tr><td>Aïkido</td><td>Aïkido</td></tr>
+<tr><td>Allround</td><td>Aïkido, allround, athlétisme, badminton, balle à la corbeille, balle au poing, baseball/softball, basketball, BMX, boxe light-contact, course d’orientation, curling, cycle-balle, cyclisme artistique, cyclisme sur piste, cyclisme sur route, cyclo-cross, danses standard/latines, escrime, football, football américain, golf, gymnastique, gymnastique acrobatique, gymnastique artistique, gymnastique rythmique, gymnastique aux agrès, gymnastique et danse, handball, hockey inline, hockey sur gazon, hockey sur glace, hornuss, judo, ju-jitsu, karaté, kick-boxing light, jeux nationaux, lutte, lutte suisse, monocycle, patinage artistique sur glace, patinage artistique sur roulettes, patinage de vitesse sur glace, patinage de vitesse sur roulettes, patinage synchronisé sur glace, parkour, rhönrad, rink-hockey, rock’n’roll, rugby, ski de fond, squash, street-hockey, tchoukball, tennis, tennis de table, trampoline, trial, unihockey, volleyball, VTT, wushu/kung-fu.</td></tr>
+<tr><td>Alpinisme</td><td>Alpinisme</td></tr>
 <tr><td>Arbalète</td><td>Arbalète, arc, carabine, pistolet</td></tr>
 <tr><td>Arc</td><td>Arbalète, arc, carabine, pistolet</td></tr>
 <tr><td>Athlétisme</td><td>Athlétisme, gymnastique, triathlon</td></tr>
 <tr><td>Aviron</td><td>Aviron</td></tr>
 <tr><td>Badminton</td><td>Badminton</td></tr>
-<tr><td>Balle à la corbeille</td><td>Balle à la corbeille, balle au poing, basketball, gymnastique, handball</td></tr>
+<tr><td>Balle à la corbeille</td><td>Balle à la corbeille, balle au poing, basketball, handball, gymnastique</td></tr>
 <tr><td>Balle au poing</td><td>Balle à la corbeille, balle au poing, gymnastique, volleyball</td></tr>
-<tr><td>Baseball/Softball</td><td>Baseball/Softball</td></tr>
-<tr><td>Basketball</td><td>Basketball, balle à la corbeille</td></tr>
+<tr><td>Baseball/softball</td><td>Baseball/softball</td></tr>
+<tr><td>Basketball</td><td>Balle à la corbeille, basketball</td></tr>
 <tr><td>Biathlon</td><td>Biathlon</td></tr>
 <tr><td>BMX</td><td>BMX, cycle-balle, cyclisme artistique, cyclisme sur piste, cyclisme sur route, cyclo-cross, monocycle, trial, VTT</td></tr>
 <tr><td>Boxe light-contact</td><td>Boxe light-contact</td></tr>
 <tr><td>Canoë-kayak</td><td>Canoë-kayak</td></tr>
 <tr><td>Carabine</td><td>Arbalète, arc, carabine, pistolet</td></tr>
 <tr><td>Course d’orientation</td><td>Course d’orientation, cyclisme sur route, cyclo-cross, ski de fond, VTT</td></tr>
+<tr><td>Course nautique</td><td>Course nautique</td></tr>
 <tr><td>Curling</td><td>Curling</td></tr>
 <tr><td>Cycle-balle</td><td>BMX, cycle-balle, cyclisme artistique, cyclisme sur piste, cyclisme sur route, cyclo-cross, monocycle, trial, VTT</td></tr>
 <tr><td>Cyclisme artistique</td><td>BMX, cycle-balle, cyclisme artistique, cyclisme sur piste, cyclisme sur route, cyclo-cross, monocycle, trial, VTT</td></tr>
-<tr><td>Cyclisme sur piste</td><td>BMX, cycle-balle, cyclisme artistique, cyclisme sur piste, cyclisme sur route, cyclo-cross, monocycle, trial, triathlon, VTT</td></tr>
+<tr><td>Cyclisme sur piste</td><td>BMX, cycle-balle, cyclisme artistique, cyclisme sur piste, cyclisme sur route, cyclo-cross, monocycle, trial, VTT</td></tr>
 <tr><td>Cyclisme sur route</td><td>BMX, cycle-balle, cyclisme artistique, cyclisme sur piste, cyclisme sur route, cyclo-cross, monocycle, trial, triathlon, VTT</td></tr>
 <tr><td>Cyclo-cross</td><td>BMX, cycle-balle, cyclisme artistique, cyclisme sur piste, cyclisme sur route, cyclo-cross, monocycle, trial, VTT</td></tr>
 <tr><td>Danses standard/latines</td><td>Danses standard/latines, gymnastique rythmique, gymnastique et danse, rock’n’roll</td></tr>
-<tr><td>Équitation</td><td>Équitation, voltige</td></tr>
-<tr><td>Escalade sportive</td><td>Alpinisme, escalade sportive, excursions à skis</td></tr>
+<tr><td>Equitation</td><td>Equitation, voltige</td></tr>
+<tr><td>Escalade sportive</td><td>Alpinisme, escalade sportive</td></tr>
 <tr><td>Escrime</td><td>Escrime</td></tr>
-<tr><td>Excursions à skis</td><td>Alpinisme, escalade sportive, excursions à skis</td></tr>
+<tr><td>Excursions à skis</td><td>Excursions à skis</td></tr>
 <tr><td>Football</td><td>Football</td></tr>
 <tr><td>Football américain</td><td>Football américain</td></tr>
 <tr><td>Golf</td><td>Golf</td></tr>
@@ -516,7 +496,7 @@ Tout moniteur J+S engagé pour diriger des activités dans les sports suivants d
 <tr><td>Gymnastique artistique</td><td>Gymnastique, gymnastique artistique, gymnastique rythmique, gymnastique aux agrès, gymnastique et danse, rhönrad, trampoline</td></tr>
 <tr><td>Gymnastique rythmique</td><td>Gymnastique, gymnastique artistique, gymnastique rythmique, gymnastique aux agrès, gymnastique et danse, rhönrad, trampoline</td></tr>
 <tr><td>Gymnastique aux agrès</td><td>Gymnastique, gymnastique artistique, gymnastique rythmique, gymnastique aux agrès, gymnastique et danse, rhönrad, trampoline</td></tr>
-<tr><td>Gymnastique et danse</td><td>Danses standard/latines, gymnastique, gymnastique artistique, gymnastique rythmique, gymnastique aux agrès, gymnastique et danse, patinage artistique sur glace, patinage synchronisé sur glace, rhönrad, rock’n roll</td></tr>
+<tr><td>Gymnastique et danse</td><td>Danses standard/latines, gymnastique, gymnastique artistique, gymnastique rythmique, gymnastique aux agrès, gymnastique et danse, patinage artistique sur glace, patinage synchronisé sur glace, rhönrad, rock’n’roll</td></tr>
 <tr><td>Handball</td><td>Handball, balle à la corbeille</td></tr>
 <tr><td>Hockey inline</td><td>Hockey inline, hockey sur glace, patinage artistique sur roulettes, patinage de vitesse sur roulettes, rink-hockey, street-hockey</td></tr>
 <tr><td>Hockey sur gazon</td><td>Hockey sur gazon</td></tr>
@@ -524,26 +504,27 @@ Tout moniteur J+S engagé pour diriger des activités dans les sports suivants d
 <tr><td>Hornuss</td><td>Hornuss</td></tr>
 <tr><td>Jeux nationaux</td><td>Gymnastique, jeux nationaux, lutte, lutte suisse</td></tr>
 <tr><td>Judo</td><td>Judo, ju-jitsu</td></tr>
-<tr><td>Ju-Jitsu</td><td>Judo, ju-jitsu</td></tr>
+<tr><td>Ju-jitsu</td><td>Judo, ju-jitsu</td></tr>
 <tr><td>Karaté</td><td>Karaté</td></tr>
+<tr><td>Kick-boxing light</td><td>Kick-boxing light</td></tr>
 <tr><td>Lutte</td><td>Jeux nationaux, lutte</td></tr>
 <tr><td>Lutte suisse</td><td>Jeux nationaux, lutte suisse</td></tr>
 <tr><td>Monocycle</td><td>BMX, cycle-balle, cyclisme artistique, cyclisme sur piste, cyclisme sur route, cyclo-cross, monocycle, trial, VTT</td></tr>
-<tr><td>Natation</td><td>Natation, natation artistique, natation de sauvetage, plongeon, triathlon, waterpolo</td></tr>
-<tr><td>Natation artistique</td><td>Gymnastique rythmique, gymnastique et danse, natation, natation artistique, natation de sauvetage, plongeon, waterpolo</td></tr>
-<tr><td>Natation de sauvetage</td><td>Natation, natation artistique, natation de sauvetage, plongeon, waterpolo</td></tr>
+<tr><td>Natation</td><td>Natation, natation artistique, natation de sauvetage, plongeon, triathlon, water-polo</td></tr>
+<tr><td>Natation artistique</td><td>Gymnastique rythmique, gymnastique et danse, natation, natation artistique, natation de sauvetage, plongeon, water-polo</td></tr>
+<tr><td>Natation de sauvetage</td><td>Natation, natation artistique, natation de sauvetage, plongeon, water-polo</td></tr>
 <tr><td>Parkour</td><td>Parkour</td></tr>
-<tr><td>Patinage artistique sur glace</td><td>Hockey sur glace, gymnastique et danse, patinage artistique sur glace, patinage synchronisé sur glace,</td></tr>
-<tr><td>Patinage artistique sur roulettes</td><td>Hockey inline, patinage artistique sur roulettes, patinage de vitesse sur roulettes, rink-hockey</td></tr>
-<tr><td>Patinage de vitesse sur glace</td><td>Hockey sur glace, patinage de vitesse sur glace, Patinage de vitesse sur roulettes</td></tr>
+<tr><td>Patinage artistique sur glace</td><td>Hockey sur glace, gymnastique et danse, patinage artistique sur glace, patinage synchronisé sur glace, patinage de vitesse sur glace</td></tr>
+<tr><td>Patinage artistique sur roulettes</td><td>Hockey inline, patinage artistique sur roulettes, patinage de vitesse sur glace, rink-hockey</td></tr>
+<tr><td>Patinage de vitesse sur glace</td><td>Hockey sur glace, patinage artistique sur glace, patinage de vitesse sur glace, patinage de vitesse, patinage synchronisé sur glace</td></tr>
 <tr><td>Patinage de vitesse sur roulettes</td><td>Hockey inline, patinage artistique sur roulettes, patinage de vitesse sur glace, patinage de vitesse sur roulettes, rink-hockey</td></tr>
-<tr><td>Patinage synchronisé sur glace</td><td>Hockey sur glace, gymnastique et danse, patinage artistique sur glace, patinage synchronisé sur glace</td></tr>
+<tr><td>Patinage synchronisé sur glace</td><td>Hockey sur glace, gymnastique et danse, patinage artistique sur glace, patinage synchronisé sur glace, patinage de vitesse sur glace</td></tr>
 <tr><td>Pistolet</td><td>Arbalète, arc, carabine, pistolet</td></tr>
 <tr><td>Planche à voile</td><td>Planche à voile</td></tr>
-<tr><td>Plongeon</td><td>Natation, natation artistique, natation de sauvetage, plongeon, trampoline, waterpolo</td></tr>
-<tr><td>Rhönrad</td><td>Gymnastique, gymnastique artistique, gymnastique rythmique, gymnastique et danse, gymnastique aux agrès, rhönrad, trampoline</td></tr>
+<tr><td>Plongeon</td><td>Plongeon, natation, natation artistique, natation de sauvetage, water-polo</td></tr>
+<tr><td>Rhönrad</td><td>Gymnastique, gymnastique artistique, gymnastique rythmique, gymnastique aux agrès, gymnastique et danse, rhönrad, trampoline</td></tr>
 <tr><td>Rink-hockey</td><td>Hockey inline, hockey sur glace, patinage artistique sur roulettes, patinage de vitesse sur roulettes, rink-hockey, street-hockey</td></tr>
-<tr><td>Rock’n’Roll</td><td>Danses standard/latines, gymnastique rythmique, gymnastique et danse, rock’n’roll</td></tr>
+<tr><td>Rock’n’roll</td><td>Danses standard/latines, gymnastique rythmique, gymnastique et danse, rock’n’roll</td></tr>
 <tr><td>Rugby</td><td>Rugby</td></tr>
 <tr><td>Saut à skis</td><td>Saut à skis</td></tr>
 <tr><td>Ski</td><td>Ski, snowboard</td></tr>
@@ -555,26 +536,46 @@ Tout moniteur J+S engagé pour diriger des activités dans les sports suivants d
 <tr><td>Tchoukball</td><td>Tchoukball</td></tr>
 <tr><td>Tennis</td><td>Tennis</td></tr>
 <tr><td>Tennis de table</td><td>Tennis de table</td></tr>
-<tr><td>Trampoline</td><td>Trampoline, reconnaissance J+S avec le complément «trampoline»</td></tr>
+<tr><td>Trampoline</td><td>Trampoline</td></tr>
 <tr><td>Trial</td><td>BMX, cycle-balle, cyclisme artistique, cyclisme sur piste, cyclisme sur route, cyclo-cross, monocycle, trial, VTT</td></tr>
-<tr><td>Triathlon</td><td>Athlétisme, cyclisme sur route, cyclisme sur piste, natation, triathlon, VTT</td></tr>
+<tr><td>Triathlon</td><td>Athlétisme, cyclisme sur piste, cyclisme sur route, natation, triathlon, VTT</td></tr>
 <tr><td>Unihockey</td><td>Unihockey, gymnastique</td></tr>
 <tr><td>Voile</td><td>Voile</td></tr>
-<tr><td>Volleyball</td><td>Volleyball, gymnastique, balle au poing</td></tr>
-<tr><td>Voltige</td><td>Équitation, voltige</td></tr>
-<tr><td>VTT</td><td>BMX, cycle-balle, cyclisme artistique, cyclisme sur piste, cyclisme sur route, cyclo-cross, monocycle, trial, VTT</td></tr>
-<tr><td>Waterpolo</td><td>Natation, natation artistique, natation de sauvetage, plongeon, waterpolo</td></tr>
+<tr><td>Volleyball</td><td>Balle au poing, gymnastique, volleyball</td></tr>
+<tr><td>Voltige</td><td>Equitation, voltige</td></tr>
+<tr><td>VTT</td><td>BMX, cycle-balle, cyclo-cross, cyclisme artistique, cyclisme sur piste, cyclisme sur route, monocycle, trial, VTT</td></tr>
+<tr><td>Water-polo</td><td>Natation, natation artistique, natation de sauvetage, plongeon, water-polo,</td></tr>
+<tr><td>Wushu/kung-fu</td><td>Wushu/kung-fu</td></tr>
 </table>
 
-### 2. Formations complémentaires requises
+1.2 Jusqu’au 31 décembre 2025, pour diriger une activité J+S dans les sports alpinisme, sport de camp/trekking et excursions à skis, au moins un des moniteurs engagés devra, en complément au chiffre 1.1, avoir suivi:
 
-Pour diriger des activités spécifiques dans les sports suivants, au moins un moniteur J+S ayant suivi les formations complémentaires mentionnées, en plus de celle prescrite au ch. 1, doit être engagé:
+- a) une formation de base de plus de 8 jours; ou
+- b) une formation complémentaire de chef de cours ou de chef de camp.
+
+### 2. Reconnaissance supplémentaire Sécurité
+
+Pour diriger des activités J+S soumises à des dispositions de sécurité particulières dans les sports suivants, au moins un des moniteurs engagés doit disposer non seulement de la ou des reconnaissances visées au chiffre 1 mais aussi de la reconnaissance supplémentaire Sécurité:
 
 <table>
-<tr><th>Sport</th><th>Activité spécifique</th><th>Formation complémentaire requise</th></tr>
+<tr><th>Sport</th><th>Activité spécifique</th><th>Reconnaissance supplémentaire Sécurité requise</th></tr>
 <tr><td>Canoë-kayak</td><td>Descentes de rivières d’eaux vives présentant un degré de difficulté égal ou inférieur à II (excursions)</td><td>Canoë-kayak avec complément «excursions» ou Canoë-kayak avec complément «eaux vives»</td></tr>
 <tr><td>Canoë-kayak</td><td>Descentes de rivières d’eaux vives présentant un degré de difficulté supérieur à II (eaux vives)</td><td>Canoë-kayak avec complément «eaux vives»</td></tr>
+<tr><td>Ski/snowboard</td><td>Descentes hors-piste autonomes sur des pentes correspondant au degré de difficulté PD</td><td>Ski avec complément «freeride»</td></tr>
+</table>
+
+### 3. Formation continue Sécurité
+
+Pour diriger des activités J+S soumises à des dispositions de sécurité particulières dans les sports suivants, au moins un des moniteurs engagés doit non seulement disposer de la ou des reconnaissances visées au chiffre 1 mais aussi avoir suivi la formation continue Sécurité:
+
+<table>
+<tr><th>Sport</th><th>Activité spécifique</th><th>Formation continue Sécurité</th></tr>
+<tr><td>Alpinisme</td><td>– Course en haute montagne jusqu’au degré de difficulté PD+ – Parcours d’escalade sportive équipés nécessitant plus d’une longueur de corde – Jardins d’escalade</td><td>Chef de cours 1</td></tr>
+<tr><td>Alpinisme</td><td>Courses en haute montagne sans limite de difficulté</td><td>Chef de cours 2</td></tr>
+<tr><td>Escalade sportive</td><td>Escalade sportive sur rocher</td><td>Chef de cours</td></tr>
+<tr><td>Excursions à skis</td><td>Excursions à skis sans glaciers ni arrêtes nécessitant l’utilisation de cordes</td><td>Chef de cours 1</td></tr>
+<tr><td>Excursions à skis</td><td>Excursions à skis sans limite de difficulté</td><td>Chef de cours 2</td></tr>
 <tr><td>Sport de camp/trekking</td><td>Excursions avec bivouac au-dessus de la limite forestière, présentant un degré de difficulté égal ou inférieur à T3</td><td>Sport de camp/trekking avec complément domaine soumis à des dispositions de sécurité particulières «montagne»</td></tr>
-<tr><td>Sport de camp/trekking</td><td>– Activités en rivières d’eaux vives présentant un degré de difficulté égal ou inférieur à II en embarcation ouverte ou en radeau – Trekkings en rivière difficiles – Descentes de rivière à la nage difficiles – Surf en rivière</td><td>Sport de camp/trekking avec complément domaine soumis à des dispositions de sécurité particulières «eau»</td></tr>
+<tr><td>Sport de camp/trekking</td><td>– Activités en rivières d’eaux vives présentant un degré de difficulté égal ou inférieur à II en embarcation ouverte ou en radeau – Trekkings en rivières difficiles – Descentes de rivières à la nage difficiles – Surf en rivière</td><td>Sport de camp/trekking avec complément domaine soumis à des dispositions de sécurité particulières «eau»</td></tr>
 <tr><td>Sport de camp/trekking</td><td>– Camps d’hiver dans une région isolée sans garantie d’accès en hiver – Bivouacs sous tente, dans un igloo, etc. sans abri en dur bénéficiant d’un accès garanti en hiver – Randonnées à raquettes, difficiles ou longues</td><td>Sport de camp/trekking avec complément domaine soumis à des dispositions de sécurité particulières «hiver»</td></tr>
 </table>

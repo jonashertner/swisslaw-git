@@ -4,11 +4,11 @@ title: Verordnung des BASPO vom 12. Juli 2012 über «Jugend und Sport» (J+S-V-
 short: J+S-V-BASPO
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/463"
 language: de
-version: 2021-10-01
+version: 2022-12-01
 adopted: 2012-07-12
 in_force: 2012-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/463/20211001/de/xml/fedlex-data-admin-ch-eli-cc-2012-463-20211001-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/463/20211001/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/463/20221201/de/xml/fedlex-data-admin-ch-eli-cc-2012-463-20221201-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/463/20221201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/463/20211001/de"
 
 (J+S-V-BASPO)
 
-vom 12. Juli 2012 (Stand am 1. Oktober 2021)
+vom 12. Juli 2012 (Stand am 1. Dezember 2022)
 
 Das Bundesamt für Sport (BASPO),
 
@@ -42,9 +42,9 @@ verordnet:
 
 **Zuteilung der Sportarten zu den Nutzergruppen**
 
-<sup>1</sup> Sportarten der Nutzergruppe 1 sind Akrobatik, Allround, American Football, Armbrust, Artistic Swimming, Badminton, Bahnradsport, Baseball/Softball, Basketball, BMX, Bogenschiessen, Curling, Einrad, Eishockey, Eiskunstlauf, Eisschnelllauf, Faustball, Fechten, Fussball, Geräteturnen, Gewehr, Golf, Gymnastik und Tanz, Handball, Hornussen, Inlinehockey, Judo, Ju-Jitsu, Karate, Korbball, Kunstradfahren, Kunstturnen, Landhockey, Leichtathletik, Light Contact Boxing, Mountainbike, Nationalturnen, Orientierungslauf, Parkour, Pistole, Radball, Radquer, Reiten, Rettungsschwimmen, Rhönrad, Rhythmische Gymnastik, Ringen, Rock’n’Roll, Rollhockey, Rollkunstlauf, Rugby, Schwimmen, Schwingen, Speedskating, Squash, Standardtanz/Latein, Strassenradsport, Streethockey, Synchronized Skating, Tchoukball, Tennis, Tischtennis, Trialradsport, Trampolin, Triathlon, Turnen, Unihockey, Volleyball, Voltigieren, Wasserball und Wasserspringen.[^2-1]
+<sup>1</sup> Sportarten der Nutzergruppe 1 sind Aikido, Akrobatikturnen, Allround, American Football, Armbrust, Artistic Swimming, Badminton, Bahnradsport, Baseball/Softball, Basketball, BMX, Bogenschiessen, Curling, Einrad, Eishockey, Eiskunstlauf, Eisschnelllauf, Faustball, Fechten, Fussball, Geräteturnen, Gewehr, Golf, Gymnastik und Tanz, Handball, Hornussen, Inline Hockey, Judo, Ju-Jitsu, Karate, Kickboxing Light, Korbball, Kunstradfahren, Kunstturnen, Landhockey, Leichtathletik, Light-Contact Boxing, Mountainbike, Nationalturnen, Orientierungslauf, Parkour, Pistole, Radball, Radquer, Reiten, Rettungsschwimmen, Rhönrad, Rhythmische Gymnastik, Ringen, Rock’n’Roll, Rollhockey, Rollkunstlauf, Rugby, Schwimmen, Schwingen, Speedskating, Squash, Strassenradsport, Streethockey, Synchronized Skating, Tanzen Standard/Latein, Tchoukball, Tennis, Tischtennis, Trialradsport, Trampolin, Triathlon, Turnen, Unihockey, Volleyball, Voltige, Wasserball, Wasserspringen und Wushu/Kung Fu.[^2-1]
 
-<sup>2</sup> Sportarten der Nutzergruppe 2 sind Bergsteigen, Biathlon, Kanusport, Rudern, Segeln, Skifahren, Skilanglauf, Skispringen, Skitouren, Snowboard, Sportklettern und Windsurfen.[^2-2]
+<sup>2</sup> Sportarten der Nutzergruppe 2 sind Bergsteigen, Biathlon, Kanusport, Rudern, Segeln, Skifahren, Skilanglauf, Skispringen, Skitouren, Snowboard, Sportklettern, Wasserfahren und Windsurfen.[^2-2]
 
 <sup>3</sup> Sportart der Nutzergruppe 3 ist Lagersport/Trekking.
 
@@ -52,8 +52,8 @@ verordnet:
 
 <sup>5</sup> …[^2-3]
 
-[^2-1]: Fassung gemäss Ziff. I der V des BASPO vom 8. April 2020, in Kraft seit 1. Okt. 2021 ([AS 2020 1537](https://fedlex.data.admin.ch/eli/oc/2020/305)).
-[^2-2]: Fassung gemäss Ziff. I der V des BASPO vom 8. April 2020, in Kraft seit 1. Okt. 2021 ([AS 2020 1537](https://fedlex.data.admin.ch/eli/oc/2020/305)).
+[^2-1]: Fassung gemäss Ziff. I der V des BASPO vom 30. März 2022, in Kraft seit 1. Dez. 2022 ([AS 2022 219](https://fedlex.data.admin.ch/eli/oc/2022/219)).
+[^2-2]: Fassung gemäss Ziff. I der V des BASPO vom 30. März 2022, in Kraft seit 1. Dez. 2022 ([AS 2022 219](https://fedlex.data.admin.ch/eli/oc/2022/219)).
 [^2-3]: Aufgehoben durch Ziff. I der V des BASPO vom 16. Nov. 2017, mit Wirkung seit 1. Jan. 2018 ([AS 2017 6595](https://fedlex.data.admin.ch/eli/oc/2017/731)).
 
 ## 2. Abschnitt: J+S-Angebote
@@ -88,10 +88,13 @@ Folgende J+S-Aktivitäten müssen vor ihrer Durchführung durch eine J+S-Experti
   - 2\. «Wasser»,
   - 3\. «Winter».
 
+<sup>1bis</sup> J+S-Aktivitäten, die von einer J+S-Leiterin oder einem J+S-Leiter durchgeführt werden, die über einen eidgenössischen Fachausweis als Bergführerin und Bergführer verfügen, durchgeführt werden, brauchen keine Bewilligung.[^4-3]
+
 <sup>2</sup> J+S-Expertinnen und -Experten, die Bewilligungen nach Absatz 1 Buchstabe c erteilen, müssen über ein spezifisches Weiterbildungsmodul verfügen.
 
 [^4-1]: Fassung gemäss Ziff. I der V des BASPO vom 8. April 2020, in Kraft seit 1. Okt. 2021 ([AS 2020 1537](https://fedlex.data.admin.ch/eli/oc/2020/305)).
 [^4-2]: Aufgehoben durch Ziff. I der V des BASPO vom 26. Okt. 2015, mit Wirkung seit 1. Dez. 2015 ([AS 2015 4129](https://fedlex.data.admin.ch/eli/oc/2015/693)).
+[^4-3]: Eingefügt durch Ziff. I der V des BASPO vom 30. März 2022, in Kraft seit 1. Dez. 2022 ([AS 2022 219](https://fedlex.data.admin.ch/eli/oc/2022/219)).
 
 #### Art. 5
 
@@ -122,9 +125,9 @@ Der Organisator darf eine Gruppe, die üblicherweise gemeinsam trainiert oder We
 
 **Verbot der Teilnahme von Kindern**[^8-1]
 
-In der Sportart Lagersport/Trekking dürfen keine Kinder an Aktivitäten in den Sicherheitsbereichen «Berg», «Wasser» und «Winter» teilnehmen.
+In der Sportart Lagersport/Trekking dürfen keine Kinder an Aktivitäten teilnehmen, zu deren Durchführung eine Zusatzanerkennung Sicherheit oder eine Weiterbildung Sicherheit nach Anhang 3 erforderlich ist.
 
-[^8-1]: Fassung gemäss Ziff. I der V des BASPO vom 26. Okt. 2015, in Kraft seit 1. Dez. 2015 ([AS 2015 4129](https://fedlex.data.admin.ch/eli/oc/2015/693)).
+[^8-1]: Fassung gemäss Ziff. I der V des BASPO vom 30. März 2022, in Kraft seit 1. Dez. 2022 ([AS 2022 219](https://fedlex.data.admin.ch/eli/oc/2022/219)).
 
 ## 3. Abschnitt: J+S-Kaderbildung
 
@@ -152,14 +155,16 @@ Die Struktur für die Aus- und Weiterbildung der J+S-Leiterinnen und -Leiter, de
 
 <table>
 <tr><th>Ausbildungsstufen</th><th>Dauer der einzelnen Kurse/Module (Tage)</th></tr>
-<tr><td>Grundausbildung</td><td>Kurs: 5–6</td></tr>
+<tr><td>Grundausbildung</td><td>Kurs: 5–12</td></tr>
 <tr><td>Weiterbildung 1</td><td>Module: 1–6</td></tr>
 <tr><td>Weiterbildung 2</td><td>Module: 1–6</td></tr>
+<tr><td>Zusatzausbildung Sicherheit</td><td>Kurs: 2–6</td></tr>
+<tr><td>Weiterbildung Sicherheit</td><td>Modul: 1–6</td></tr>
 </table>
 
 <table>
 <tr><th>Ausbildungsstufen</th><th>Dauer der einzelnen Kurse/Module (Tage)</th></tr>
-<tr><td>Grundausbildung</td><td>Kurs: 0.5–2</td></tr>
+<tr><td>Grundausbildung</td><td>Kurs: 0,5–2</td></tr>
 <tr><td>Weiterbildung</td><td>Module: 0,5–1</td></tr>
 </table>
 
@@ -172,7 +177,7 @@ Die Struktur für die Aus- und Weiterbildung der J+S-Leiterinnen und -Leiter, de
 <table>
 <tr><th>Ausbildungsstufen</th><th>Dauer der einzelnen Kurse/Module (Tage)</th></tr>
 <tr><td>Grundausbildung</td><td>Kurs: 2</td></tr>
-<tr><td>Weiterbildung</td><td>Module: 1–2</td></tr>
+<tr><td>Weiterbildung</td><td>Module: 1–2.[^10-2]</td></tr>
 </table>
 
 <sup>2</sup> Die verkürzten Ausbildungen in der Form von Einführungskursen dauern 1–4 Tage.
@@ -182,6 +187,7 @@ Die Struktur für die Aus- und Weiterbildung der J+S-Leiterinnen und -Leiter, de
 <sup>4</sup> Die Unterrichtszeit pro Ausbildungstag beträgt mindestens 6 Stunden, pro Halbtag mindestens 3 Stunden.
 
 [^10-1]: Fassung gemäss Ziff. I der V des BASPO vom 16. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6595](https://fedlex.data.admin.ch/eli/oc/2017/731)).
+[^10-2]: Fassung gemäss Ziff. I der V des BASPO vom 30. März 2022, in Kraft seit 1. Dez. 2022 ([AS 2022 219](https://fedlex.data.admin.ch/eli/oc/2022/219)).
 
 #### Art. 11
 
@@ -252,60 +258,37 @@ Es werden folgende Einschätzungen abgegeben:
 
 #### Art. 15
 
-**Anerkennung von J+S-Leiterinnen und -Leitern**[^15-1]
+**Anerkennung als J+S-Leiterin oder -Leiter**[^15-1]
 
-<sup>1</sup>
+Die Anerkennungen als J+S-Leiterin oder -Leitern wird für eine bestimmte J+S-Sportart oder im Schulsport und in den Zielgruppen Kinder oder Jugendliche erteilt.
 
-Die Anerkennungen der J+S-Leiterinnen und -leiter werden erteilt:
-
-- a. in den A- und B-Sportarten nach Anhang 1 VSpoFöP: bezogen auf die Zielgruppe Kinder oder Jugendliche;
-- b. im Schulsport: bezogen auf die Zielgruppe Kinder oder Jugendliche; oder
-- c. im Kindersport.
-
-<sup>2</sup> ...[^15-2]
-
-<sup>3</sup> In der Sportart Allround wird keine Anerkennung erteilt.
-
-<sup>4</sup> ...[^15-3]
-
-[^15-1]: Fassung gemäss Ziff. I der V des BASPO vom 26. Okt. 2015, in Kraft seit 1. Dez. 2015 ([AS 2015 4129](https://fedlex.data.admin.ch/eli/oc/2015/693)).
-[^15-2]: Aufgehoben durch Ziff. I der V des BASPO vom 8. April 2020, mit Wirkung seit 1. Okt. 2021 ([AS 2020 1537](https://fedlex.data.admin.ch/eli/oc/2020/305)).
-[^15-3]: Aufgehoben durch Ziff. I der V des BASPO vom 8. April 2020, mit Wirkung seit 1. Okt. 2021 ([AS 2020 1537](https://fedlex.data.admin.ch/eli/oc/2020/305)).
+[^15-1]: Fassung gemäss Ziff. I der V des BASPO vom 30. März 2022, in Kraft seit 1. Dez. 2022 ([AS 2022 219](https://fedlex.data.admin.ch/eli/oc/2022/219)).
 
 #### Art. 16
 
-**Leiteranerkennung Schulsport**[^16-1]
+**Anerkennung als J+S-Leiterin oder -Leiter Schulsport**[^16-1]
 
-<sup>1</sup> Die Leiteranerkennung Schulsport berechtigt zur Durchführung von Aktivitäten in den A-Sportarten nach Anhang 1 VSpoFöP sowie in den Sportarten Artistic Swimming, Rettungsschwimmen, Schwimmen, Triathlon, Wasserball und Wasserspringen.
+<sup>1</sup> Die Anerkennung als J+S-Leiterin oder -Leiter Schulsport berechtigt zur Durchführung von Aktivitäten in folgenden J+S-Sportarten: Aikido, Akrobatikturnen, Allround, American Football, Artistic Swimming, Badminton, Bahnradsport, Baseball/Softball, Basketball, BMX, Curling, Einrad, Eishockey, Eiskunstlauf, Eisschnelllauf, Faustball, Fechten, Fussball, Geräteturnen, Golf, Gymnastik und Tanz, Handball, Hornussen, Inline Hockey, Judo, Ju-Jitsu, Karate, Kickboxing Light, Korbball, Kunstradfahren, Kunstturnen, Landhockey, Leichtathletik, Light-Contact Boxing, Mountainbike, Nationalturnen, Orientierungslauf, Parkour, Radball, Radquer, Rettungsschwimmen, Rhönrad, Rhythmische Gymnastik, Ringen, Rock’n’Roll, Rollhockey, Rollkunstlauf, Rugby, Schwimmen, Schwingen, Skilanglauf, Speedskating, Squash, Strassenradsport, Streethockey, Synchronized Skating, Tanzen Standard/Latein, Tchoukball, Tennis, Tischtennis, Trampolin, Trialradsport, Triathlon, Turnen, Unihockey, Volleyball, Wasserball, Wasserspringen und Wushu/Kung Fu.
 
-<sup>2</sup> Anerkannte J+S-Leiterinnen und -Leiter Schulsport, die eine J+S-Leitertätigkeit ausserhalb der Nutzergruppen 4 und 5 in einer A-Sportart nach Anhang 1 VSpoFöP oder in der Sportart Artistic Swimming, Rettungsschwimmen, Schwimmen, Triathlon, Wasserball oder Wasserspringen ausüben wollen, können die J+S-Leiteranerkennung in der entsprechenden Sportart in ihrer Zielgruppe beantragen, sofern sie die Voraussetzungen für die Teilnahme am entsprechenden Leiterkurs erfüllen.
+<sup>2</sup> J+S-Leiterinnen und -Leiter Schulsport, die über eine gültige Anerkennung verfügen und eine J+S-Leitertätigkeit ausserhalb der Nutzergruppen 4 und 5 von J+S-Sportarten gemäss Absatz 1 ausüben wollen, können die J+S-Leiteranerkennung in der entsprechenden Sportart in ihrer Zielgruppe beantragen. Das BASPO erteilt die Anerkennung, wenn die gesuchstellende Person die Voraussetzungen für die Zulassung zur Grundausbildung als J+S-Leiterin oder J+S-Leiter in der entsprechenden Sportart erfüllt.
 
-[^16-1]: Fassung gemäss Ziff. I der V des BASPO vom 8. April 2020, in Kraft seit 1. Okt. 2021 ([AS 2020 1537](https://fedlex.data.admin.ch/eli/oc/2020/305)).
+[^16-1]: Fassung gemäss Ziff. I der V des BASPO vom 30. März 2022, in Kraft seit 1. Dez. 2022 ([AS 2022 219](https://fedlex.data.admin.ch/eli/oc/2022/219)).
 
 #### Art. 17
 
-**Leiteranerkennung Kindersport**[^17-1]
+[^17-1]
 
-<sup>1</sup>
-
-Die J+S-Leiteranerkennung Kindersport wird erworben durch:
-
-- a. die erfolgreiche Absolvierung einer J+S-Leiterausbildung in den A- und B‑Sportarten nach Anhang 1 VSpoFöP in der Zielgruppe Kinder;
-- b. die erfolgreiche Absolvierung einer spezifischen Ausbildung J+S-Kindersport.
-
-<sup>2</sup> Sie berechtigt zur Durchführung von Aktivitäten mit Kindern in sämtlichen A‑Sportarten nach Anhang 1 VSpoFöP.
-
-[^17-1]: Fassung gemäss Ziff. I der V des BASPO vom 26. Okt. 2015, in Kraft seit 1. Dez. 2015 ([AS 2015 4129](https://fedlex.data.admin.ch/eli/oc/2015/693)).
+[^17-1]: Aufgehoben durch Ziff. I der V des BASPO vom 30. März 2022, mit Wirkung seit 1. Dez. 2022 ([AS 2022 219](https://fedlex.data.admin.ch/eli/oc/2022/219)).
 
 #### Art. 18
 
-**Zusätzliche Anerkennung als Militärsportleiterin und -leiter**[^18-1]
+**J+S- Leiteranerkennung für Militärsportleiterinnen und -leiter**[^18-1]
 
-<sup>1</sup> Anerkannte Militärsportleiterinnen und -leiter nach Anhang 2, die eine J+S-Leitertätigkeit ausüben wollen, können in den A-Sportarten nach Anhang 1 VSpoFöP sowie in den J+S-Sportarten Artistic Swimming, Rettungsschwimmen, Schwimmen, Triathlon, Wasserball oder Wasserspringen eine J+S-Leiteranerkennung in der Zielgruppe Jugendliche beantragen.
+<sup>1</sup> Militärsportleiterinnen und -leiter nach Anhang 2, die eine J+S-Leitertätigkeit ausüben wollen, können die Anerkennung als J+S-Leiterin und-leiter für die Zielgruppe Jugendliche in den folgenden Sportarten beantragen: Aikido, Akrobatikturnen, American Football, Artistic Swimming, Badminton, Bahnradsport, Baseball/Softball, Basketball, Biathlon, BMX, Curling, Einrad, Eishockey, Eiskunstlauf, Eisschnelllauf, Faustball, Fechten, Fussball, Geräteturnen, Golf, Gymnastik und Tanz, Handball, Hornussen, Inline Hockey, Judo, Ju-Jitsu, Karate, Kickboxing Light, Korbball, Kunstradfahren, Kunstturnen, Landhockey, Leichtathletik, Light-Contact Boxing, Mountainbike, Nationalturnen, Orientierungslauf, Parkour, Radball, Radquer, Rettungsschwimmen, Rhönrad, Rhythmische Gymnastik, Ringen, Rock’n’Roll, Rollhockey, Rollkunstlauf, Rugby, Schwimmen, Schwingen, Skilanglauf, Speedskating, Squash, Strassenradsport, Streethockey, Synchronized Skating, Tanzen Standard/Latein, Tchoukball, Tennis, Tischtennis, Trampolin, Trialradsport, Triathlon, Turnen, Unihockey, Volleyball, Wasserball, Wasserspringen und Wushu/Kung Fu.
 
-<sup>2</sup> Der J+S-Coach des Organisators, für den die Leiterin oder der Leiter in der zusätzlichen Sportart tätig sein wird, reicht den Antrag der für die Durchführung von J+S zuständigen kantonalen Behörde ein. Diese leitet sie an das BASPO zum Entscheid weiter.
+<sup>2</sup> Das BASPO erteilt die Anerkennung nach Absatz 1, wenn die gesuchstellende Person die Voraussetzungen für die Zulassung zur Grundausbildung als J+S-Leiterin oder J+S-Leiter in der entsprechenden Sportart erfüllt.
 
-[^18-1]: Fassung gemäss Ziff. I der V des BASPO vom 8. April 2020, in Kraft seit 1. Okt. 2021 ([AS 2020 1537](https://fedlex.data.admin.ch/eli/oc/2020/305)).
+[^18-1]: Fassung gemäss Ziff. I der V des BASPO vom 30. März 2022, in Kraft seit 1. Dez. 2022 ([AS 2022 219](https://fedlex.data.admin.ch/eli/oc/2022/219)).
 
 #### Art. 19
 
@@ -319,26 +302,19 @@ Anerkannte J+S-Expertinnen und -Experten sind in ihrer jeweiligen Sportart und i
 
 **Anforderungen für die Leitung von J+S-Aktivitäten**[^20-1]
 
-<sup>1</sup> Zur Leitung von Aktivitäten in J+S-Kursen und J+S-Lagern müssen die eingesetzten J+S-Leiterinnen und J+S-Leiter über eine Ausbildung nach Anhang 3 für die jeweilige Zielgruppe verfügen. Vorbehalten bleibt Artikel 17 Absatz 2.
+<sup>1</sup> Zur Leitung von Aktivitäten in J+S-Kursen und J+S-Lagern müssen die eingesetzten J+S-Leiterinnen und J+S-Leiter über eine Ausbildung nach Anhang 3 für die jeweilige Zielgruppe verfügen.
 
-<sup>2</sup> Verfügt in J+S-Aktivitäten mit Kindern in den B-Sportarten nach Anhang 1 VSpoFöP eine J+S-Leiterin oder ein J+S-Leiter nicht über sämtliche erforderlichen Ausbildungen, so muss eine weitere J+S-Leiterin oder ein weiterer J+S-Leiter eingesetzt werden, die oder der zusätzlich über die erforderliche Ausbildung verfügt.
+<sup>2</sup> Verfügt in J+S-Aktivitäten, in denen Kinder und Jugendliche gemeinsam trainieren, eine J+S-Leiterin oder ein J+S-Leiter nicht über sämtliche erforderlichen Ausbildungen, so muss eine weitere J+S-Leiterin oder ein weiterer J+S-Leiter eingesetzt werden, die oder der zusätzlich über die erforderliche Ausbildung verfügt.
 
-<sup>3</sup> Verfügt in J+S-Aktivitäten, in denen Jugendliche und Kinder gemeinsam trainieren, eine J+S-Leiterin oder ein J+S-Leiter nicht über sämtliche erforderlichen Ausbildungen, so muss eine weitere J+S-Leiterin oder ein weiterer J+S-Leiter eingesetzt werden, die oder der zusätzlich über die erforderliche Ausbildung verfügt.
+<sup>3</sup> Die nach Absatz 2 erforderlichen weiteren J+S-Leiterinnen und J+S-Leiter werden nicht als zusätzliche Leiterinnen und Leiter nach Anhang 2 VSpoFöP gerechnet und es wird für sie kein Grundbetrag nach Anhang 3 Buchstabe A VSpoFöP ausgerichtet.
 
-<sup>4</sup> Die nach Absatz 2 oder 3 erforderlichen weiteren J+S-Leiterinnen und J+S-Leiter werden nicht als zusätzliche Leiterinnen und Leiter nach Anhang 2 VSpoFöP gerechnet und es wird für sie kein Grundbetrag nach Anhang 3 Buchstabe A VSpoFöP ausgerichtet.
-
-[^20-1]: Fassung gemäss Ziff. I der V des BASPO vom 26. Okt. 2015, in Kraft seit 1. Dez. 2015 ([AS 2015 4129](https://fedlex.data.admin.ch/eli/oc/2015/693)).
+[^20-1]: Fassung gemäss Ziff. I der V des BASPO vom 30. März 2022, in Kraft seit 1. Dez. 2022 ([AS 2022 219](https://fedlex.data.admin.ch/eli/oc/2022/219)).
 
 #### Art. 21
 
-**Lager- und Kursleiterinnen und -leiter**[^21-1]
+[^21-1]
 
-<sup>1</sup> Zur Durchführung eines Lagers in der Sportart Lagersport/Trekking muss zumindest eine eingesetzte Leiterin oder ein eingesetzter Leiter über eine Zusatzausbildung «Lagerleiter/in» verfügen.
-
-<sup>2</sup> Zur Durchführung von Touren in den Sportarten Bergsteigen und Skitouren sowie von Aktivitäten am Fels in der Sportart Sportklettern muss zumindest eine eingesetzte Leiterin oder ein eingesetzter Leiter über eine Zusatzausbildung «Kursleiter/in» verfügen.[^21-2]
-
-[^21-1]: Fassung gemäss Ziff. I der V des BASPO vom 26. Okt. 2015, in Kraft seit 1. Dez. 2015 ([AS 2015 4129](https://fedlex.data.admin.ch/eli/oc/2015/693)).
-[^21-2]: Fassung gemäss Ziff. I der V des BASPO vom 8. April 2020, in Kraft seit 1. Okt. 2021 ([AS 2020 1537](https://fedlex.data.admin.ch/eli/oc/2020/305)).
+[^21-1]: Aufgehoben durch Ziff. I der V des BASPO vom 30. März 2022, mit Wirkung seit 1. Dez. 2022 ([AS 2022 219](https://fedlex.data.admin.ch/eli/oc/2022/219)).
 
 #### Art. 22
 
@@ -389,12 +365,12 @@ Ergänzende Konditions- und Mentaltrainings können in J+S-Kursen erteilt werden
 
 Für folgende Angebote der Aus- und Weiterbildung von J+S-Leiterinnen und -Leitern gelten Ausnahmen von der maximalen Teilnehmerzahl je J+S-Expertin oder -Experte:
 
-- a. in den Sportarten Lagersport/Trekking, Kanusport, Rudern, Segeln, Skifahren, Snowboard, Sportklettern und Windsurfen maximal 12 Teilnehmerinnen und Teilnehmer je J+S-Expertin oder -Experte;
-- b. in den Sportarten Bergsteigen und Skitouren: maximal 6 Teilnehmerinnen und Teilnehmer je J+S-Expertin oder -Experte.[^28-1]
+- a. in den Sportarten Lagersport/Trekking, Kanusport, Rudern, Segeln, Skifahren, Snowboard und Windsurfen maximal 12 Teilnehmerinnen und Teilnehmer je J+S-Expertin oder -Experte;
+- b. in den Sportarten Bergsteigen, Skitouren und Sportklettern: maximal 6 Teilnehmerinnen und Teilnehmer je J+S-Expertin oder -Experte.[^28-1]
 
 <sup>2</sup> J+S-Expertinnen und -Experten, die in einem Angebot der Kaderbildung eingesetzt werden, dürfen ergänzend in einem anderen, zeitgleich stattfindenden oder sich zeitlich überschneidenden Angebot für die Durchführung einzelner Lektionen eingesetzt werden. Ihre Tätigkeit wird gesamthaft nur einmal durch Beiträge unterstützt.
 
-[^28-1]: Fassung gemäss Ziff. I der V des BASPO vom 8. April 2020, in Kraft seit 1. Okt. 2021 ([AS 2020 1537](https://fedlex.data.admin.ch/eli/oc/2020/305)).
+[^28-1]: Fassung gemäss Ziff. I der V des BASPO vom 30. März 2022, in Kraft seit 1. Dez. 2022 ([AS 2022 219](https://fedlex.data.admin.ch/eli/oc/2022/219)).
 
 ## 7. Abschnitt: Anspruch auf Erwerbsausfallentschädigung
 
@@ -402,22 +378,25 @@ Für folgende Angebote der Aus- und Weiterbildung von J+S-Leiterinnen und -Leite
 
 <sup>1</sup>
 
-Eine Entschädigung nach Artikel 1*a* Absatz 4 des Erwerbsersatzgesetzes vom 25. September 1952[^29-1] wird für die Teilnahme an folgenden Kursen und Modulen der J+S-Kaderbildung ausgerichtet:
+Eine Entschädigung nach Artikel 1*a* Absatz 4 des Erwerbsersatzgesetzes vom 25. September 1952[^29-1] wird für die Teilnahme an folgenden Kursen und Modulen der J+S-Kaderbildung ausgerichtet, sofern sie entweder vor Ort oder als zeitlich synchrone Online-Veranstaltung durchgeführt werden:[^29-2]
 
 - a. J+S-Leiterkurse, die vom BASPO oder von den Kantonen durchgeführt werden;
 - b. J+S-Coachkurse, die vom BASPO oder von den Kantonen durchgeführt werden;
-- c.[^29-2] …
+- c.[^29-3] …
 - d. J+S-Expertenkurse, die vom BASPO durchgeführt werden;
 - e. Kaderkurse nach Artikel 43 Absatz 4 VSpoFöP während maximal 5 Tagen je Kalenderjahr.
 - f. Weiterbildungsmodule für J+S-Kader, die vom BASPO oder von den Kantonen durchgeführt werden, während maximal 30 Tagen je Kalenderjahr;
-- g. Ausbildungsgänge der Trainerbildung der Eidgenössischen Hochschule für Sport Magglingen, die zum Abschluss «Trainerin/Trainer Leistungsport mit eidgenössischem Fachausweis» oder «Trainerin/Trainer Spitzensport mit höherer Fachprüfung» führen, während maximal 6 Tagen je Ausbildungsgang.
+- g.[^29-4] Ausbildungsgänge der Trainerbildung der Eidgenössischen Hochschule für Sport Magglingen, die auf die eidgenössischen Berufsprüfungen bzw. höheren Fachprüfungen zur Erlangung der Titel «Trainerin/Trainer Leistungssport mit eidgenössischem Fachausweis» und «Trainerin/Trainer Spitzensport mit eidgenössischem Diplom» vorbereiten, während maximal 6 Tagen je Ausbildungsgang.
 
 <sup>2</sup> Wird ein Angebot der J+S-Kaderbildung durch eine Bildungsinstitution eines Kantons als integrierter Teil eines Ausbildungslehrgangs durchgeführt, so wird in Abweichung von Absatz 1 für die Teilnahme keine Entschädigung ausgerichtet.
 
-<sup>3</sup> Keine Entschädigung wird für Personen ausgerichtet, die gestützt auf Artikel 21 Absatz 2 VSpoFöP zu einer J+S-Kadertätigkeit zugelassen worden sind.
+<sup>3</sup> Keine Entschädigung wird für Personen ausgerichtet, die zwar gestützt auf Artikel 21 Absatz 2 VSpoFöP zu einer J+S-Kadertätigkeit zugelassen worden sind, aber in der Schweiz keine Erwerbstätigkeit ausüben.[^29-5]
 
 [^29-1]: [SR 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
-[^29-2]: Aufgehoben durch Ziff. I der V des BASPO vom 16. Nov. 2017, mit Wirkung seit 1. Jan. 2018 ([AS 2017 6595](https://fedlex.data.admin.ch/eli/oc/2017/731)).
+[^29-2]: Fassung gemäss Ziff. I der V des BASPO vom 30. März 2022, in Kraft seit 1. Dez. 2022 ([AS 2022 219](https://fedlex.data.admin.ch/eli/oc/2022/219)).
+[^29-3]: Aufgehoben durch Ziff. I der V des BASPO vom 16. Nov. 2017, mit Wirkung seit 1. Jan. 2018 ([AS 2017 6595](https://fedlex.data.admin.ch/eli/oc/2017/731)).
+[^29-4]: Fassung gemäss Ziff. I der V des BASPO vom 30. März 2022, in Kraft seit 1. Dez. 2022 ([AS 2022 219](https://fedlex.data.admin.ch/eli/oc/2022/219)).
+[^29-5]: Fassung gemäss Ziff. I der V des BASPO vom 30. März 2022, in Kraft seit 1. Dez. 2022 ([AS 2022 219](https://fedlex.data.admin.ch/eli/oc/2022/219)).
 
 ## 8. Abschnitt: Schlussbestimmung
 
@@ -425,7 +404,7 @@ Eine Entschädigung nach Artikel 1*a* Absatz 4 des Erwerbsersatzgesetzes vom 25.
 
 Diese Verordnung tritt am 1. Oktober 2012 in Kraft.
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 9)
 
@@ -435,50 +414,50 @@ Anhang 1*[^t-1]*
 
 ### 1. Aus- und Weiterbildung der J+S-Leiterinnen und -Leiter und der J+S-Expertinnen und ‑Experten
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/463/20211001/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/463/20221201/de/xml/image/image1.png)
 
 Die Module der Weiterbildung dienen dem Erhalt der Leiteranerkennung, der Wiedererlangung einer weggefallenen Leiteranerkennung oder der Vertiefung der Leiterkompetenzen. Die Module der Weiterbildungsstufe 2 bauen auf denjenigen der Weiterbildungsstufe 1 auf.
 
 ### 2. Aus- und Weiterbildung der J+S-Coaches
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/463/20211001/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/463/20221201/de/xml/image/image2.png)
 
-Anhang 2*[^t-2]*
+Anhang 2[^t-2]
 
-(Art. 18 Abs. 2)
+(Art. 18 Abs. 1)
 
 ## Militärsportleiterinnen und -leiter
 
-[^t-2]: Bereinigt gemäss Ziff. II Abs. 1 der V des BASPO vom 26. Okt. 2015, in Kraft seit 1. Dez. 2015 ([AS 2015 4129](https://fedlex.data.admin.ch/eli/oc/2015/693)).
+[^t-2]: Fassung gemäss Ziff. II der V des BASPO vom 30. März 2022, in Kraft seit 1. Dez. 2022 ([AS 2022 219](https://fedlex.data.admin.ch/eli/oc/2022/219)).
 
 ### 1. Militärsportleiterausbildungen
 
 <table>
-<tr><td>Bezeichnung</td><td>Ausbildungskompetenz</td><td>Ausbildung zum MSL</td></tr>
-<tr><td>Militärsportleiter/in 1 (MSL 1)</td><td>Unterstützen die Sportausbil- dung in AGA, FGA und VBA, allen Lehrgängen sowie in der VBA 2 (FDT).</td><td>BO während ihrer Offiziersausbildung. BU während ihrer Grundausbildung an der BUSA. Milizoffiziere in der Ausbildung zum Offizier. Spitzensportler/in in der Spitzensport-RS. FBO/FBU bei Bedarf. Geeignete Sportler/innen (Miliz) in speziellen MSL-Kursen.</td></tr>
-<tr><td>Militärsportleiter/in 2 (MSL 2)</td><td>Sind verantwortlich für die Sportausbildung in der AGA, FGA, VBA, Uof LG und höh Uof LG. Sie unterstützen den MSL 3 in der Sportausbil- dung in den Kaderlehrgängen.</td><td>Selektionierte BO/BU während ihrer Grundausbildung zum Berufsmilitär. Sportoffiziere der Gs Vb/ Trp Kö. FBO/FBU bei Bedarf, Fachlehrer/innen bei Bedarf.</td></tr>
-<tr><td>Militärsportleiter/in 3 (MSL 3)</td><td>Sind verantwortlich für die MSL 1-Ausbildung in den Lehrgängen der Berufsunteroffiziersschule (BUSA), den Offizierslehr- gängen und in der Spitzensport-RS. Erteilen die Sportausbildung an der Militärakademie (MILAK).</td><td>BO/BU, welche die Zusatzausbildung am BASPO sowie die Prüfung SLRG Brevet II bestanden haben.</td></tr>
-<tr><td>Militärsportleiter/in Experte/Expertin, Sportverantwortliche/r des LVb</td><td>Sind verantwortlich für die Umsetzung des Sports in den Lehrverbänden.</td><td>BU (MSL Exp) SLRG Brevet II</td></tr>
+<tr><td>Bezeichnung</td><td>Ausbildungskompetenz</td><td>Ausbildung</td></tr>
+<tr><td>Militärsportleiter (MSL)</td><td>Leiten die Sportausbildung in der AGA/EGA, FGA und VBA 1, allen Lehrgängen sowie in der VBA 2 (ADF). Sie können als Unterstützung der MSL-I eingesetzt werden.</td><td>Offiziere während der OS. BU während der Grundausbildung an der BUSA. Sport Uof während der UOS/im Prakt D. Sportsoldaten in der Spitzensport RS. Geeignete AdA (Miliz) in speziellen MSL Kursen.</td></tr>
+<tr><td>Militärsportleiter- Instruktor (MSL-I)</td><td>Sind verantwortlich für die MSL Ausbildung: – in der OS; – der Sport Uof in der UOS/RS; – in der Spitzensport RS; – in den MSL Kursen; – der BU Anw in der Berufsunteroffiziersschule (BUSA).</td><td>Voraussetzung: Abgeschlossene MSL Ausbildung inkl. Stellenzuweisung/-planung als Chef Sport oder Stv</td></tr>
+<tr><td></td><td>Chef Sport LVb: Sind verantwortlich für die reglementarische Umsetzung des Sportes in den Lehrverbänden und unterstützen/beraten die C Sport Schule/OE/Kdo in ihren Tätigkeiten.</td><td>Zulassung: – Chef Sport LVb (Funktionsbewertung E3) – Chef Sport Schule/OE/Kdo</td></tr>
+<tr><td></td><td>Chef Sport Schule/OE/Kdo: Sind verantwortlich für die reglementarische Umsetzung des Sportes in den Schulen und unterstützen/beraten die MSL in ihren Tätigkeiten. Sie sind für die Weiterausbildungen der MSL in ihrer OE verantwortlich</td><td>Funktion: Um die Funktion Chef Sport ausüben zu können, muss die Ausbildung zum MSL-I erfolgreich absolviert und das Brevet MSL-I «gültig» sein. In Ausnahmefällen muss die Ausbildung innerhalb eines Jahres nachgeholt werden.</td></tr>
+<tr><td>Militärsportleiter- Experte (MSL-E)</td><td>Sind verantwortlich für die MSL-I Ausbildung der: – Chef Sport LVb – Chef Sport Schulde/OE/Kdo</td><td>Mitarbeiter des Komp Zen Sport A</td></tr>
 </table>
 
-### 2. …
-
-Anhang 3*[^t-3]*
+Anhang 3[^t-3]
 
 (Art. 20)
 
 ## Erforderliche Ausbildungen der J+S-Leiterinnen und -Leiter
 
-[^t-3]: Fassung gemäss Ziff. II der V des BASPO vom 8. April 2020, in Kraft seit 1. Okt. 2021 ([AS 2020 1537](https://fedlex.data.admin.ch/eli/oc/2020/305)).
+[^t-3]: Fassung gemäss Ziff. II der V des BASPO vom 30. März 2022, in Kraft seit 1. Dez. 2022 ([AS 2022 219](https://fedlex.data.admin.ch/eli/oc/2022/219)).
 
-### 1. Ausbildungsanforderungen
+### 1. Erforderliche Anerkennungen in J+S-Sportarten
 
-Zur Leitung von Aktivitäten in den folgenden Sportarten muss jede eingesetzte J+S-Leiterin oder jeder eingesetzte J+S-Leiter über eine der aufgeführten Ausbildungen verfügen:
+1.1 Zur Durchführung von Aktivitäten in den folgenden Sportarten muss jede eingesetzte J+S-Leiterin oder jeder eingesetzte J+S-Leiter über eine der aufgeführten Anerkennungen verfügen:
 
 <table>
-<tr><th>Sportart</th><th>Erforderliche Ausbildung</th></tr>
-<tr><td>Akrobatik</td><td>Akrobatik</td></tr>
-<tr><td>Allround</td><td>Anerkennung nach Art. 15 Abs. 1 bezogen auf die Zielgruppe Kinder</td></tr>
+<tr><th>Sportart</th><th>Erforderliche Anerkennung</th></tr>
+<tr><td>Aikido</td><td>Aikido</td></tr>
+<tr><td>Akrobatikturnen</td><td>Akrobatikturnen</td></tr>
+<tr><td>Allround</td><td>Aikido, Allround, Akrobatikturnen American Football, Badminton, Bahnradsport, Baseball/Softball, Basketball, BMX, Curling, Einrad, Eishockey, Eiskunstlauf, Eisschnelllauf, Faustball, Fechten, Fussball, Geräteturnen, Golf, Gymnastik und Tanz, Handball, Hornussen, Inline Hockey, Judo, Ju-Jitsu, Karate, Kickboxing Light, Korbball, Kunstradfahren, Kunstturnen, Landhockey, Leichtathletik, Light-Contact Boxing, Mountainbike, Nationalturnen, Orientierungslauf, Parkour, Radball, Radquer, Rhönrad, Rhythmische Gymnastik, Ringen, Rock’n’Roll, Rollhockey, Rollkunstlauf, Rugby, Schwingen, Skilanglauf, Speedskating, Squash, Strassenradsport, Streethockey, Synchronized Skating, Tanzen Standard/Latein, Tchoukball, Tennis, Tischtennis, Trampolin, Trialradsport, Turnen, Unihockey, Volleyball und Wushu/Kung Fu.</td></tr>
 <tr><td>American Football</td><td>American Football</td></tr>
 <tr><td>Armbrust</td><td>Armbrust, Bogenschiessen, Gewehr, Pistole</td></tr>
 <tr><td>Artistic Swimming</td><td>Artistic Swimming, Gymnastik und Tanz, Rettungsschwimmen, Rhythmische Gymnastik, Schwimmen, Wasserball, Wasserspringen</td></tr>
@@ -486,36 +465,37 @@ Zur Leitung von Aktivitäten in den folgenden Sportarten muss jede eingesetzte J
 <tr><td>Bahnradsport</td><td>Bahnradsport, BMX, Einrad, Kunstradfahren, Mountainbike, Radball, Radquer, Strassenradsport, Trialradsport,</td></tr>
 <tr><td>Baseball/Softball</td><td>Baseball/Softball</td></tr>
 <tr><td>Basketball</td><td>Basketball, Korbball</td></tr>
-<tr><td>Bergsteigen</td><td>Bergsteigen, Skitouren, Sportklettern</td></tr>
+<tr><td>Bergsteigen</td><td>Bergsteigen</td></tr>
 <tr><td>Biathlon</td><td>Biathlon</td></tr>
 <tr><td>BMX</td><td>BMX, Bahnradsport, Einrad, Kunstradfahren, Mountainbike, Radball, Radquer, Strassenradsport, Trialradsport</td></tr>
 <tr><td>Bogenschiessen</td><td>Bogenschiessen, Armbrust, Gewehr, Pistole</td></tr>
 <tr><td>Curling</td><td>Curling</td></tr>
 <tr><td>Einrad</td><td>Einrad, Bahnradsport, BMX, Kunstradfahren, Mountainbike, Radball, Radquer, Strassenradsport, Trialradsport</td></tr>
-<tr><td>Eishockey</td><td>Eishockey, Eiskunstlauf, Eisschnelllauf, Inlinehockey, Rollhockey, Streethockey, Synchronized Skating</td></tr>
-<tr><td>Eiskunstlauf</td><td>Eishockey, Eiskunstlauf, Gymnastik und Tanz, Synchronized Skating</td></tr>
-<tr><td>Eisschnelllauf</td><td>Eishockey, Eisschnelllauf, Speedskating</td></tr>
+<tr><td>Eishockey</td><td>Eishockey, Eiskunstlauf, Eisschnelllauf, Inline Hockey, Rollhockey, Streethockey, Synchronized Skating</td></tr>
+<tr><td>Eiskunstlauf</td><td>Eishockey, Eiskunstlauf, Eisschnelllauf, Gymnastik und Tanz, Synchronized Skating</td></tr>
+<tr><td>Eisschnelllauf</td><td>Eishockey, Eiskunstlauf, Eisschnelllauf, Speedskating, Synchronized Skating</td></tr>
 <tr><td>Faustball</td><td>Faustball, Korbball, Volleyball, Turnen</td></tr>
 <tr><td>Fechten</td><td>Fechten</td></tr>
 <tr><td>Fussball</td><td>Fussball</td></tr>
 <tr><td>Geräteturnen</td><td>Geräteturnen, Gymnastik und Tanz, Kunstturnen, Rhönrad, Rhythmische Gymnastik, Trampolin, Turnen</td></tr>
 <tr><td>Gewehr</td><td>Armbrust, Bogenschiessen, Gewehr, Pistole</td></tr>
 <tr><td>Golf</td><td>Golf</td></tr>
-<tr><td>Gymnastik und Tanz</td><td>Gymnastik und Tanz, Eiskunstlauf, Geräteturnen, Kunstturnen, Rhythmische Gymnastik, Rhönrad, Rock’n’Roll, Standardtanz/Latein, Synchronized Skating, Turnen</td></tr>
+<tr><td>Gymnastik und Tanz</td><td>Gymnastik und Tanz, Eiskunstlauf, Geräteturnen, Kunstturnen, Rhythmische Gymnastik, Rhönrad, Rock’n’Roll, Synchronized Skating, Tanzen Standard/Latein, Turnen</td></tr>
 <tr><td>Handball</td><td>Handball, Korbball</td></tr>
 <tr><td>Hornussen</td><td>Hornussen</td></tr>
-<tr><td>Inlinehockey</td><td>Inlinehockey, Eishockey, Rollhockey, Rollkunstlauf, Speedskating, Streethockey</td></tr>
+<tr><td>Inline Hockey</td><td>Inline Hockey, Eishockey, Rollhockey, Rollkunstlauf, Speedskating, Streethockey</td></tr>
 <tr><td>Judo</td><td>Judo, Ju-Jitsu</td></tr>
 <tr><td>Ju-Jitsu</td><td>Judo, Ju-Jitsu</td></tr>
 <tr><td>Kanusport</td><td>Kanusport</td></tr>
 <tr><td>Karate</td><td>Karate</td></tr>
+<tr><td>Kickboxing Light</td><td>Kickboxing Light</td></tr>
 <tr><td>Korbball</td><td>Korbball, Basketball, Faustball, Handball, Turnen</td></tr>
 <tr><td>Kunstradfahren</td><td>Kunstradfahren, Bahnradsport, BMX, Einrad, Mountainbike, Radball, Radquer, Strassenradsport, Trialradsport</td></tr>
 <tr><td>Kunstturnen</td><td>Kunstturnen, Geräteturnen, Gymnastik und Tanz, Rhönrad, Rhythmische Gymnastik, Trampolin, Turnen</td></tr>
 <tr><td>Lagersport/Trekking</td><td>Lagersport/Trekking</td></tr>
 <tr><td>Landhockey</td><td>Landhockey</td></tr>
 <tr><td>Leichtathletik</td><td>Leichtathletik, Triathlon, Turnen</td></tr>
-<tr><td>Light Contact Boxing</td><td>Light Contact Boxing</td></tr>
+<tr><td>Light-Contact Boxing</td><td>Light-Contact Boxing</td></tr>
 <tr><td>Mountainbike</td><td>Mountainbike, Bahnradsport, BMX, Einrad, Kunstradfahren, Radball, Radquer, Strassenradsport, Trialradsport</td></tr>
 <tr><td>Nationalturnen</td><td>Nationalturnen, Ringen, Schwingen, Turnen</td></tr>
 <tr><td>Orientierungslauf</td><td>Orientierungslauf, Mountainbike, Strassenradsport, Radquer, Skilanglauf</td></tr>
@@ -528,9 +508,9 @@ Zur Leitung von Aktivitäten in den folgenden Sportarten muss jede eingesetzte J
 <tr><td>Rhönrad</td><td>Rhönrad, Geräteturnen, Gymnastik und Tanz, Kunstturnen, Rhythmische Gymnastik, Trampolin, Turnen</td></tr>
 <tr><td>Rhythmische Gymnastik</td><td>Rhythmische Gymnastik, Geräteturnen, Gymnastik und Tanz, Kunstturnen, Rhönrad, Trampolin, Turnen</td></tr>
 <tr><td>Ringen</td><td>Ringen, Nationalturnen</td></tr>
-<tr><td>Rock’n’Roll</td><td>Rock’n’Roll, Gymnastik und Tanz, Rhythmische Gymnastik, Standardtanz/Latein</td></tr>
-<tr><td>Rollhockey</td><td>Rollhockey, Eishockey, Inlinehockey, Rollkunstlauf, Speedskating, Streethockey</td></tr>
-<tr><td>Rollkunstlauf</td><td>Rollkunstlauf, Inlinehockey, Rollhockey, Speedskating</td></tr>
+<tr><td>Rock’n’Roll</td><td>Rock’n’Roll, Gymnastik und Tanz, Rhythmische Gymnastik, Tanzen Standard/Latein</td></tr>
+<tr><td>Rollhockey</td><td>Rollhockey, Eishockey, Inline Hockey, Rollkunstlauf, Speedskating, Streethockey</td></tr>
+<tr><td>Rollkunstlauf</td><td>Rollkunstlauf, Inline Hockey, Rollhockey, Speedskating</td></tr>
 <tr><td>Rudern</td><td>Rudern</td></tr>
 <tr><td>Rugby</td><td>Rugby</td></tr>
 <tr><td>Schwimmen</td><td>Schwimmen, Artistic Swimming, Rettungsschwimmen, Triathlon, Wasserball, Wasserspringen</td></tr>
@@ -539,39 +519,60 @@ Zur Leitung von Aktivitäten in den folgenden Sportarten muss jede eingesetzte J
 <tr><td>Skifahren</td><td>Skifahren, Snowboard</td></tr>
 <tr><td>Skilanglauf</td><td>Skilanglauf, Orientierungslauf</td></tr>
 <tr><td>Skispringen</td><td>Skispringen</td></tr>
-<tr><td>Skitouren</td><td>Bergsteigen, Skitouren, Sportklettern</td></tr>
+<tr><td>Skitouren</td><td>Skitouren</td></tr>
 <tr><td>Snowboard</td><td>Skifahren, Snowboard</td></tr>
-<tr><td>Speedskating</td><td>Speedskating, Eisschnelllauf, Inlinehockey, Rollhockey, Rollkunstlauf</td></tr>
-<tr><td>Sportklettern</td><td>Sportklettern, Bergsteigen, Skitouren</td></tr>
+<tr><td>Speedskating</td><td>Speedskating, Eisschnelllauf, Inline Hockey, Rollhockey, Rollkunstlauf</td></tr>
+<tr><td>Sportklettern</td><td>Sportklettern, Bergsteigen</td></tr>
 <tr><td>Squash</td><td>Squash</td></tr>
-<tr><td>Standardtanz/Latein</td><td>Standardtanz/Latein, Gymnastik und Tanz, Rhythmische Gymnastik, Rock’n’Roll</td></tr>
 <tr><td>Strassenradsport</td><td>Strassenradsport, Bahnradsport, BMX, Einrad, Kunstradfahren, Mountainbike, Radball, Radquer, Trialradsport, Triathlon</td></tr>
-<tr><td>Streethockey</td><td>Streethockey, Eishockey, Inlinehockey, Rollhockey</td></tr>
-<tr><td>Synchronized Skating</td><td>Synchronized Skating, Eishockey, Eiskunstlauf, Gymnastik und Tanz</td></tr>
+<tr><td>Streethockey</td><td>Streethockey, Eishockey, Inline Hockey, Rollhockey</td></tr>
+<tr><td>Synchronized Skating</td><td>Synchronized Skating, Eishockey, Eiskunstlauf, Eisschnelllauf, Gymnastik und Tanz</td></tr>
+<tr><td>Tanzen Standard/Latein</td><td>Tanzen Standard/Latein, Gymnastik und Tanz, Rhythmische Gymnastik, Rock’n’Roll</td></tr>
 <tr><td>Tchoukball</td><td>Tchoukball</td></tr>
 <tr><td>Tennis</td><td>Tennis</td></tr>
 <tr><td>Tischtennis</td><td>Tischtennis</td></tr>
-<tr><td>Trampolin</td><td>Trampolin, J+S-Anerkennung mit dem Zusatz Trampolin</td></tr>
+<tr><td>Trampolin</td><td>Trampolin</td></tr>
 <tr><td>Trialradsport</td><td>Trialradsport, Bahnradsport, BMX, Einrad, Kunstradfahren, Mountainbike, Radball, Radquer, Strassenradsport</td></tr>
-<tr><td>Triathlon</td><td>Triathlon, Bahnradsport, Leichtathletik, Mountainbike, Schwimmen, Strassenradsport, Triathlon</td></tr>
-<tr><td>Turnen</td><td>Turnen, Baseball/Softball, Basketball, Faustball, Fussball, Geräteturnen, Gymnastik und Tanz, Handball, Korbball, Kunstturnen, Leichtathletik, Nationalturnen, Rhönrad, Rhythmische Gymnastik, Rock’n’Roll, Standardtanz/Latein, Tchoukball, Trampolin, Unihockey, Volleyball</td></tr>
+<tr><td>Triathlon</td><td>Bahnradsport, Leichtathletik, Mountainbike, Schwimmen, Strassenradsport, Triathlon</td></tr>
+<tr><td>Turnen</td><td>Turnen, Baseball/Softball, Basketball, Faustball, Fussball, Geräteturnen, Gymnastik und Tanz, Handball, Korbball, Kunstturnen, Leichtathletik, Nationalturnen, Rhönrad, Rhythmische Gymnastik, Rock’n’Roll, Tanzen Standard/Latein, Tchoukball, Trampolin, Unihockey, Volleyball</td></tr>
 <tr><td>Unihockey</td><td>Unihockey, Turnen</td></tr>
 <tr><td>Volleyball</td><td>Volleyball, Turnen, Faustball</td></tr>
-<tr><td>Voltigieren</td><td>Voltigieren, Reiten</td></tr>
+<tr><td>Voltige</td><td>Voltige, Reiten</td></tr>
 <tr><td>Wasserball</td><td>Wasserball, Artistic Swimming, Rettungsschwimmen, Schwimmen, Wasserspringen</td></tr>
-<tr><td>Wasserspringen</td><td>Wasserspringen, Artistic Swimming, Rettungsschwimmen, Schwimmen, Wasserball, Trampolin</td></tr>
+<tr><td>Wasserfahren</td><td>Wasserfahren</td></tr>
+<tr><td>Wasserspringen</td><td>Wasserspringen, Artistic Swimming, Rettungsschwimmen, Schwimmen, Wasserball</td></tr>
 <tr><td>Windsurfen</td><td>Windsurfen</td></tr>
+<tr><td>Wushu/Kung Fu</td><td>Wushu/Kung Fu</td></tr>
 </table>
 
-### 2. Erforderliche Zusatzausbildungen
+1.2 Zur Durchführung einer J+S-Aktivität in den Sportarten Bergsteigen, Lagersport/Trekking und Skitouren muss bis zum 31. Dezember 2025 zumindest eine eingesetzte J+S-Leiterin oder ein eingesetzter J+S-Leiter in Ergänzung zu Ziffer 1.1 verfügen über:
 
-Zur Leitung von spezifischen Aktivitäten in den folgenden Sportarten muss zumindest eine eingesetzte J+S-Leiterin oder ein eingesetzter J+S-Leiter in Ergänzung zu Ziffer 1 über die aufgeführte Zusatzausbildung verfügen:
+- a) eine Grundausbildung von mehr als 8 Tagen; oder
+- b) eine Zusatzausbildung Kurs- oder Lagerleiter/in.
+
+### 2. Erforderliche Zusatzanerkennung Sicherheit
+
+Zur Durchführung von J+S-Aktivitäten mit erhöhten Sicherheitsanforderungen in den folgenden Sportarten muss zumindest eine eingesetzte J+S-Leiterin oder ein eingesetzter J+S-Leiter in Ergänzung zu Ziffer 1 über die aufgeführte Zusatzanerkennung Sicherheit verfügen:
 
 <table>
-<tr><th>Sportart</th><th>Spezifische Aktivität</th><th>Erforderliche Zusatzausbildung</th></tr>
+<tr><th>Sportart</th><th>Spezifische Aktivität</th><th>Erforderliche Zusatzanerkennung Sicherheit</th></tr>
 <tr><td>Kanusport</td><td>Fahren auf Fliessgewässern mit Schwierigkeitsgrad bis Wildwasser II (Touring)</td><td>Kanusport mit Zusatz Touring oder Kanusport mit Zusatz Wildwasser</td></tr>
 <tr><td>Kanusport</td><td>Fahren auf Fliessgewässern mit Schwierigkeitsgrad grösser als Wildwasser II (Wildwasser)</td><td>Kanusport mit Zusatz Wildwasser</td></tr>
+<tr><td>Skifahren/Snowboard</td><td>Selbständige Variantenabfahrten im freien Gelände mit Schwierigkeitsgrad bis WS</td><td>Skifahren mit Zusatz Freeride</td></tr>
+</table>
+
+### 3. Erforderliche Weiterbildung Sicherheit
+
+Zur Durchführung von J+S-Aktivitäten mit erhöhten Sicherheitsanforderungen in den folgenden Sportarten muss zumindest eine eingesetzte J+S-Leiterin oder ein eingesetzter J+S-Leiter in Ergänzung zu Ziffer 1 über die aufgeführte Weiterbildung Sicherheit verfügen:
+
+<table>
+<tr><th>Sportart</th><th>Spezifische Aktivität</th><th>Erforderliche Weiterbildung Sicherheit</th></tr>
+<tr><td>Bergsteigen</td><td>– Hochtouren bis Schwierigkeitsgrad WS+ – Ausgerüstete Mehrseillängen Sportkletterrouten – Klettergärten</td><td>Kursleiter 1</td></tr>
+<tr><td>Bergsteigen</td><td>Hochtouren ohne Schwierigkeitsbegrenzung</td><td>Kursleiter 2</td></tr>
 <tr><td>Lagersport/Trekking</td><td>Wanderungen mit Übernachtung im Biwak oberhalb der Waldgrenze, die im Bereich bis und mit T3 stattfinden</td><td>Lagersport/Trekking mit Zusatz Sicherheitsbereich «Berg»</td></tr>
 <tr><td>Lagersport/Trekking</td><td>– Aktivitäten auf Fliessgewässern mit Schwierigkeitsgrad bis Wildwasser II mit offenen Booten oder einem Floss – Anspruchsvolle Bach- und Flusstrekkings – Anspruchsvolles Flussschwimmen – Flusssurfen</td><td>Lagersport/Trekking mit Zusatz Sicherheitsbereich «Wasser»</td></tr>
 <tr><td>Lagersport/Trekking</td><td>– Winterlager, in einer abgelegenen Gegend ohne wintersichere Zufahrt – Winterübernachtungen, die im Zelt, Iglu usw. stattfinden, ohne dass ein Lagerhaus mit wintersicherer Zufahrt schnell erreicht werden kann – Anspruchsvolle oder lange Schneeschuhwanderungen</td><td>Lagersport/Trekking mit Zusatz Sicherheitsbereich «Winter»</td></tr>
+<tr><td>Skitouren</td><td>Skitouren ohne Gletscher und Grate, die Seileinsatz erfordern</td><td>Kursleiter 1</td></tr>
+<tr><td>Skitouren</td><td>Skitouren ohne Schwierigkeitsbegrenzung</td><td>Kursleiter 2</td></tr>
+<tr><td>Sportklettern</td><td>Sportklettern Fels</td><td>Kursleiter</td></tr>
 </table>
