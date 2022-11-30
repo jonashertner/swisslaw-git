@@ -4,13 +4,13 @@ number: "111.11"
 title: Anmeldungs- und Registerverordnung
 short: ARV
 language: de
-version: 2022-07-01
-valid_until: 2022-11-30
-version_adopted: 2021-05-25
+version: 2022-12-01
+valid_until: 2022-12-31
+version_adopted: 2022-11-29
 adopted: 2014-05-13
 in_force: 2014-06-01
 url: "https://bl.clex.ch/app/de/texts_of_law/111.11"
-pdf: "https://bl.clex.ch/api/de/versions/3336/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3447/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3336/pdf_file"
 
 (ARV)
 
-Vom 13.05.2014 (Stand 01.07.2022)
+Vom 13.05.2014 (Stand 01.12.2022)
 
 Der Regierungsrat des Kantons Basel-Landschaft beschliesst:
 
@@ -403,7 +403,7 @@ Der Regierungsrat des Kantons Basel-Landschaft beschliesst:
 
 **Antrag auf Erteilung von Abfragerechten**
 
-<sup>1</sup> Die für die Stelle zuständige Direktion stellt dem Regierungsrat Antrag auf Erteilung von Abfragerechten. Die Zuständigkeit richtet sich nach § 19.
+<sup>1</sup> Die für die Stelle zuständige Direktion bzw. die Landeskanzlei stellt dem Regierungsrat Antrag auf Erteilung von Abfragerechten. Die Zuständigkeit richtet sich nach § 19.
 
 <sup>2</sup> Der Antrag umfasst formell die Ergänzung des Anhangs II, in der pro abfrageberechtigter Stelle oder Aufgabenbereich beantragt wird:
 
@@ -415,27 +415,27 @@ Der Regierungsrat des Kantons Basel-Landschaft beschliesst:
 
 #### § 19
 
-**Zuständige Direktionen für die Antragstellung**
+**Zuständigkeit für die Antragstellung**
 
-<sup>1</sup> Diejenige Direktion ist für die Antragstellung gemäss § 18 zuständig, der die Stelle gemäss der Verordnung vom 6. April 1999[^19-1] über die Zuordnung der Dienststellen zugeordnet ist.
+<sup>1</sup> Diejenige Direktion bzw. die Landeskanzlei ist für die Antragstellung gemäss § 18 zuständig, der die Stelle gemäss der Regierungs- und Verwaltungsorganisationsverordnung Basel-Landschaft vom 19. Dezember 2017[^19-1] zugeordnet ist.
 
 <sup>2</sup> Zudem sind für die Antragstellung zuständig:
 
 - a. die Finanz- und Kirchendirektion für die Sozialversicherungsanstalt Basel-Landschaft, die Basellandschaftliche Pensionskasse, die Basellandschaftliche Gebäudeversicherung, die Verwaltungen und die Zweckverbände der Einwohnergemeinden und der Bürgergemeinden, die gemeinsamen Sozialhilfebehörden sowie für die Verwaltungen der Kirchgemeinden der Landeskirchen;
 - b. die Volkswirtschafts- und Gesundheitsdirektion für das Krebsregister beider Basel;
 - c. die Bau- und Umweltschutzdirektion für die Geschäftsleitung des Tarifverbunds Nordwestschweiz;
-- d. die Sicherheitsdirektion für die Landeskanzlei, das Staatsarchiv, die Kindes- und Erwachsenenschutzbehörden sowie für die Gerichte;
+- d. die Sicherheitsdirektion für die Kindes- und Erwachsenenschutzbehörden sowie für die Gerichte;
 - e. die Bildungs-, Kultur- und Sportdirektion für die Schulen in kantonaler Trägerschaft.
 
-<sup>3</sup> Für Stellen, die nicht von den Abs. 1 oder 2 erfasst sind, ist diejenige Direktion für die Antragstellung zuständig, der die Stelle administrativ zugeordnet ist oder die den engsten Sachbezug zur Stelle aufweist.
+<sup>3</sup> Für Stellen, die nicht von den Abs. 1 oder 2 erfasst sind, ist diejenige Direktion oder die Landeskanzlei für die Antragstellung zuständig, der die Stelle administrativ zugeordnet ist oder die den engsten Sachbezug zur Stelle aufweist.
 
-[^19-1]: GS 33.641, [SGS 140.11](https://bl.clex.ch/data/140.11/de), neu seit 1. Januar 2018: Verordnung zum Regierungs- und Verwaltungsorganisationsgesetz Basel-Landschaft.
+[^19-1]: [SGS 140.11](https://bl.clex.ch/data/140.11/de)
 
 #### § 20
 
 **Begründung**
 
-<sup>1</sup> Die antragstellende Direktion fasst die Begründung des Antrags wie folgt ab:
+<sup>1</sup> Die antragstellende Direktion bzw. die Landeskanzlei fasst die Begründung des Antrags wie folgt ab:
 
 - a. detaillierte Beschreibung der datenrelevanten Gesetzesvollzugsaufgaben und -tätigkeiten,
 - b. präzise Angabe der gesetzlichen Grundlage der datenrelevanten Gesetzesvollzugsaufgaben und -tätigkeiten,
@@ -453,7 +453,7 @@ Der Regierungsrat des Kantons Basel-Landschaft beschliesst:
 
 <sup>1</sup> Vor der Einleitung des Mitberichtsverfahrens führt die Fachstelle Register mit der anschlusswilligen Stelle eine Besprechung über die Details der Antragstellung durch.
 
-<sup>2</sup> Die Direktionen begrüssen im Mitberichtsverfahren mindestens das Statistische Amt, die Zentrale Informatik, den Rechtsdienst von Regierungsrat und Landrat, die Finanzverwaltung sowie die Landeskanzlei.
+<sup>2</sup> Die Direktionen bzw. die Landeskanzlei begrüssen im Mitberichtsverfahren mindestens die 5 Stellen gemäss Abs. 3.
 
 <sup>3</sup> Die 5 Stellen nehmen im Mitbericht folgende Prüfung vor:
 
@@ -573,14 +573,6 @@ Der Regierungsrat des Kantons Basel-Landschaft beschliesst:
 
 #### § 30
 
-**Einführung des eUmzugs**
-
-<sup>1</sup> Die technische Einführung des eUmzugs bei den Einwohnergemeinden und beim Kanton wird durch den externen Dritten durchgeführt. Der Kanton schliesst den entsprechenden Einführungsvertrag mit dem externen Dritten ab.
-
-<sup>2</sup> Der Kanton belastet den Einwohnergemeinden die Kosten weiter, die ihm vertraglich aus der Einführung des eUmzugs bei den Einwohnergemeinden entstehen. Die Aufteilung der Kosten unter den Einwohnergemeinden erfolgt nach deren Einwohnerzahl. Diese richtet sich nach der mittleren Wohnbevölkerung gemäss der kantonalen Bevölkerungsstatistik.
-
-<sup>3</sup> Der Kanton beauftragt auf seine Kosten eine Fachperson, die das Projekt des Anschlusses der Einwohnerregister an die Plattform des externen Dritten leitet.
-
-<sup>4</sup> Der Kanton trägt im Rahmen des Projekts die Kosten der Einführung des Supports.
+**…**
 
 GS 2014.043
