@@ -3,20 +3,19 @@ canton: FR
 number: "514.21"
 title: "Arrêté sur l'aide financière accordée aux sociétés de tir"
 language: fr
-version: 2010-07-01
-valid_until: 2022-11-30
-version_adopted: 2010-06-29
+version: 2022-12-01
+version_adopted: 2022-11-08
 adopted: 2001-12-11
 in_force: 2002-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/514.21"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5253/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8586/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
 
 # Arrêté sur l'aide financière accordée aux sociétés de tir
 
-du 11.12.2001 (version entrée en vigueur le 01.07.2010)
+du 11.12.2001 (version entrée en vigueur le 01.12.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -36,7 +35,9 @@ Arrête:
 
 #### Art. 1
 
-<sup>1</sup> Le présent arrêté détermine les conditions et les modalités de l'octroi de la subvention pour les exercices de tir, fixée par le budget de l'Etat en application de la loi du 31 décembre 1913 sur la subvention des exercices de tir.
+<sup>1</sup> Le présent arrêté détermine les conditions et les modalités de l'octroi de la subvention pour les exercices de tir, fixée par le budget de l'Etat en application de la loi du 31 décembre 1913 sur la subvention des exercices de tir[^1-1].
+
+[^1-1]: RSF [514.2](https://bdlf.fr.ch/data/514.2/fr)
 
 #### Art. 2
 
@@ -62,7 +63,7 @@ Arrête:
 
 #### Art. 5
 
-<sup>1</sup> Le Service de la protection de la population et des affaires militaires établit chaque année le décompte des aides financières et procède à leur versement.
+<sup>1</sup> Le Service de la sécurité civile et militaire établit chaque année le décompte des aides financières et procède à leur versement.
 
 <sup>2</sup> Le montant des aides financières émarge au budget du Service.
 

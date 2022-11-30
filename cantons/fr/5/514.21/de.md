@@ -3,20 +3,19 @@ canton: FR
 number: "514.21"
 title: Beschluss über eine Finanzhilfe an Schützengesellschaften
 language: de
-version: 2010-07-01
-valid_until: 2022-11-30
-version_adopted: 2010-06-29
+version: 2022-12-01
+version_adopted: 2022-11-08
 adopted: 2001-12-11
 in_force: 2002-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/514.21"
-pdf: "https://bdlf.fr.ch/api/de/versions/5253/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8586/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Beschluss über eine Finanzhilfe an Schützengesellschaften
 
-vom 11.12.2001 (Fassung in Kraft getreten am 01.07.2010)
+vom 11.12.2001 (Fassung in Kraft getreten am 01.12.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -36,7 +35,9 @@ beschliesst:
 
 #### Art. 1
 
-<sup>1</sup> Dieser Beschluss definiert die Bedingungen und Modalitäten der Subvention für die Schiessübungen, die im Staatsvoranschlag in Anwendung des Gesetzes vom 31. Dezember 1913 zur Subventionierung der Schiessübungen vorgesehen ist.
+<sup>1</sup> Dieser Beschluss definiert die Bedingungen und Modalitäten der Subvention für die Schiessübungen, die im Staatsvoranschlag in Anwendung des Gesetzes vom 31. Dezember 1913 zur Subventionierung der Schiessübungen[^1-1] vorgesehen ist.
+
+[^1-1]: SGF [514.2](https://bdlf.fr.ch/data/514.2/de)
 
 #### Art. 2
 
@@ -62,7 +63,7 @@ beschliesst:
 
 #### Art. 5
 
-<sup>1</sup> Das Amt für Bevölkerungsschutz und Militär erstellt jedes Jahr eine Zusammenstellung der Finanzhilfen und veranlasst deren Zahlung.
+<sup>1</sup> Das Amt für zivile Sicherheit und Militär erstellt jedes Jahr eine Zusammenstellung der Finanzhilfen und veranlasst deren Zahlung.
 
 <sup>2</sup> Der für die Finanzhilfen bestimmte Kredit wird im Voranschlag des Amtes aufgeführt.
 
