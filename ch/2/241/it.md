@@ -4,11 +4,11 @@ title: Legge federale del 19 dicembre 1986 contro la concorrenza sleale (LCSl)
 short: LCSl
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/223_223_223"
 language: it
-version: 2022-01-01
+version: 2022-12-01
 adopted: 1986-12-19
 in_force: 1988-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/223_223_223/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1988-223_223_223-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/223_223_223/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/223_223_223/20221201/it/xml/fedlex-data-admin-ch-eli-cc-1988-223_223_223-20221201-it-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/223_223_223/20221201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1988/223_223_223/20220101/it"
 
 (LCSl)
 
-del 19 dicembre 1986 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
+del 19 dicembre 1986 (Stato 1° dicembre 2022)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -95,10 +95,10 @@ Agisce in modo sleale, segnatamente, chiunque:
 <sup>2</sup> Il capoverso 1 lettera s non si applica alla telefonia vocale e ai contratti che si concludono esclusivamente mediante lo scambio di messaggi elettronici o mediante mezzi di comunicazione individuale analoghi.[^3-15]
 
 [^3-1]: Nuovo testo giusta il n. I della LF del 24 mar. 1995, in vigore dal 1° nov. 1995 ([RU 1995 4086](https://fedlex.data.admin.ch/eli/oc/1995/4086_4086_4086); [FF 1994 III 403](https://fedlex.data.admin.ch/eli/fga/1994/3_442_449_403)).
-[^3-2]: Nuovo testo giusta l’all. 2 n. II 2 della LF del 23 mar. 2001 sul credito al consumo, in vigore dal 1° gen. 2003 ([RU 2002 3846](https://fedlex.data.admin.ch/eli/oc/2002/593); FF **1999** 2697).
-[^3-3]: Nuovo testo giusta l’all. 2 n. II 2 della LF del 23 mar. 2001 sul credito al consumo, in vigore dal 1° gen. 2003 ([RU 2002 3846](https://fedlex.data.admin.ch/eli/oc/2002/593); FF **1999** 2697).
+[^3-2]: Nuovo testo giusta l’all. 2 n. II 2 della LF del 23 mar. 2001 sul credito al consumo, in vigore dal 1° gen. 2003 ([RU 2002 3846](https://fedlex.data.admin.ch/eli/oc/2002/593); [FF 1999 III 2697](https://fedlex.data.admin.ch/eli/fga/1999/1_3155_2879_2697)).
+[^3-3]: Nuovo testo giusta l’all. 2 n. II 2 della LF del 23 mar. 2001 sul credito al consumo, in vigore dal 1° gen. 2003 ([RU 2002 3846](https://fedlex.data.admin.ch/eli/oc/2002/593); [FF 1999 III 2697](https://fedlex.data.admin.ch/eli/fga/1999/1_3155_2879_2697)).
 [^3-4]: Nuovo testo giusta il n. II della LF del 13 dic. 2013 (Abrogazione delle disposizioni concernenti il contratto di vendita a rate anticipate), in vigore dal 1° lug. 2014 ([RU 2014 869](https://fedlex.data.admin.ch/eli/oc/2014/184); [FF 2013 3959](https://fedlex.data.admin.ch/eli/fga/2013/864)[5017](https://fedlex.data.admin.ch/eli/fga/2013/1039)).
-[^3-5]: Introdotta dall’all. 2 n. II 2 della LF del 23 mar. 2001 sul credito al consumo, in vigore dal 1° gen. 2003 ([RU 2002 3846](https://fedlex.data.admin.ch/eli/oc/2002/593); FF **1999** 2697).
+[^3-5]: Introdotta dall’all. 2 n. II 2 della LF del 23 mar. 2001 sul credito al consumo, in vigore dal 1° gen. 2003 ([RU 2002 3846](https://fedlex.data.admin.ch/eli/oc/2002/593); [FF 1999 III 2697](https://fedlex.data.admin.ch/eli/fga/1999/1_3155_2879_2697)).
 [^3-6]: Introdotta dall’all. n. 1 della LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
 [^3-7]: Introdotta dal n. I della LF del 17 giu. 2011, in vigore dal 1° apr. 2012 ([RU 2011 4909](https://fedlex.data.admin.ch/eli/oc/2011/703); [FF 2009 5337](https://fedlex.data.admin.ch/eli/fga/2009/1106)).
 [^3-8]: Introdotta dal n. I della LF del 17 giu. 2011, in vigore dal 1° apr. 2012 ([RU 2011 4909](https://fedlex.data.admin.ch/eli/oc/2011/703); [FF 2009 5337](https://fedlex.data.admin.ch/eli/fga/2009/1106)).
@@ -186,7 +186,15 @@ Agisce segnatamente in modo sleale chiunque utilizza condizioni commerciali gene
 
 [^8-1]: Nuovo testo giusta il n. I della LF del 17 giu. 2011, in vigore dal 1° lug. 2012 ([RU 2011 4909](https://fedlex.data.admin.ch/eli/oc/2011/703); [FF 2009 5337](https://fedlex.data.admin.ch/eli/fga/2009/1106)).
 
-### Sezione 2: Disposizioni di procedura****
+#### Art. 8a
+
+**Utilizzo di clausole di parità nei confronti delle aziende alberghiere**[^8a-1]
+
+Agisce in modo sleale, segnatamente, chiunque, in quanto gestore di una piattaforma in linea per la prenotazione di servizi di alloggio, utilizza condizioni commerciali generali che limitano direttamente o indirettamente la fissazione dei prezzi e dell’offerta da parte delle aziende alberghiere mediante clausole di parità, in particolare mediante clausole di parità di tariffe, disponibilità e condizioni.
+
+[^8a-1]: Introdotto dal n. I della LF del 17 giu. 2022, in vigore dal 1° dic. 2022 ([RU 2022 690](https://fedlex.data.admin.ch/eli/oc/2022/690); [FF 2021 2858](https://fedlex.data.admin.ch/eli/fga/2021/2858)).
+
+### Sezione 2: Disposizioni di procedura
 
 [^chap2-sec2-1]
 
@@ -273,7 +281,7 @@ Se la concorrenza sleale è stata fatta da un lavoratore o da un altro ausiliari
 
 [^1415-1]: Abrogati dall’all. 1 n. II 15 del Codice di procedura civile del 19 dic. 2008, con effetto dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
-## Capitolo 3: Disposizioni di diritto amministrativo****
+## Capitolo 3: Disposizioni di diritto amministrativo
 
 [^chap3-1]
 
@@ -420,7 +428,7 @@ Chiunque, intenzionalmente:[^24-2]
 
 <sup>2</sup> Se l’autore ha agito per negligenza, la pena è della multa.
 
-[^24-1]: Nuovo testo giusta l’art. 333 del Codice penale, nella versione della LF del 13 dic. 2002, in vigore dal 1° gen. 2007 ([RU 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1669).
+[^24-1]: Nuovo testo giusta l’art. 333 del Codice penale, nella versione della LF del 13 dic. 2002, in vigore dal 1° gen. 2007 ([RU 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); [FF 1999 II 1669](https://fedlex.data.admin.ch/eli/fga/1999/1_1979_1787_1669)).
 [^24-2]: Nuovo testo giusta l’art. 26 della LF del 17 giu. 2011 sulla metrologia, in vigore dal 1° gen. 2013 ([RU 2012 6235](https://fedlex.data.admin.ch/eli/oc/2012/734); [FF 2010 7073](https://fedlex.data.admin.ch/eli/fga/2010/1470)).
 [^24-3]: Nuovo testo giusta l’art. 26 della LF del 17 giu. 2011 sulla metrologia, in vigore dal 1° gen. 2013 ([RU 2012 6235](https://fedlex.data.admin.ch/eli/oc/2012/734); [FF 2010 7073](https://fedlex.data.admin.ch/eli/fga/2010/1470)).
 [^24-4]: Nuovo testo giusta l’art. 26 della LF del 17 giu. 2011 sulla metrologia, in vigore dal 1° gen. 2013 ([RU 2012 6235](https://fedlex.data.admin.ch/eli/oc/2012/734); [FF 2010 7073](https://fedlex.data.admin.ch/eli/fga/2010/1470)).

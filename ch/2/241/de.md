@@ -4,11 +4,11 @@ title: Bundesgesetz vom 19. Dezember 1986 gegen den unlauteren Wettbewerb (UWG)
 short: UWG
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/223_223_223"
 language: de
-version: 2022-01-01
+version: 2022-12-01
 adopted: 1986-12-19
 in_force: 1988-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/223_223_223/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1988-223_223_223-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/223_223_223/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/223_223_223/20221201/de/xml/fedlex-data-admin-ch-eli-cc-1988-223_223_223-20221201-de-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/223_223_223/20221201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1988/223_223_223/20220101/de"
 
 (UWG)
 
-vom 19. Dezember 1986 (Stand am 1. Januar 2022)
+vom 19. Dezember 1986 (Stand am 1. Dezember 2022)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -97,10 +97,10 @@ Unlauter handelt insbesondere, wer:
 <sup>2</sup> Absatz 1 Buchstabe s findet keine Anwendung auf die Sprachtelefonie und auf Verträge, die ausschliesslich durch den Austausch von elektronischer Post oder durch vergleichbare individuelle Kommunikation geschlossen werden.[^3-15]
 
 [^3-1]: Fassung gemäss Ziff. I des BG vom 24. März 1995, in Kraft seit 1. Nov. 1995 ([AS 1995 4086](https://fedlex.data.admin.ch/eli/oc/1995/4086_4086_4086); [BBl 1994 III 442](https://fedlex.data.admin.ch/eli/fga/1994/3_442_449_403)).
-[^3-2]: Fassung gemäss Anhang 2 Ziff. II 2 des BG vom 23. März 2001 über den Konsumkredit, in Kraft seit 1. Jan. 2003 ([AS 2002 3846](https://fedlex.data.admin.ch/eli/oc/2002/593); BBl **1999** 3155).
-[^3-3]: Fassung gemäss Anhang 2 Ziff. II 2 des BG vom 23. März 2001 über den Konsumkredit, in Kraft seit 1. Jan. 2003 ([AS 2002 3846](https://fedlex.data.admin.ch/eli/oc/2002/593); BBl **1999** 3155).
+[^3-2]: Fassung gemäss Anhang 2 Ziff. II 2 des BG vom 23. März 2001 über den Konsumkredit, in Kraft seit 1. Jan. 2003 ([AS 2002 3846](https://fedlex.data.admin.ch/eli/oc/2002/593); [BBl 1999 III 3155](https://fedlex.data.admin.ch/eli/fga/1999/1_3155_2879_2697)).
+[^3-3]: Fassung gemäss Anhang 2 Ziff. II 2 des BG vom 23. März 2001 über den Konsumkredit, in Kraft seit 1. Jan. 2003 ([AS 2002 3846](https://fedlex.data.admin.ch/eli/oc/2002/593); [BBl 1999 III 3155](https://fedlex.data.admin.ch/eli/fga/1999/1_3155_2879_2697)).
 [^3-4]: Fassung gemäss Ziff. II des BG vom 13. Dez. 2013 (Aufhebung der Bestimmungen zum Vorauszahlungsvertrag), in Kraft seit 1. Juli 2014 ([AS 2014 869](https://fedlex.data.admin.ch/eli/oc/2014/184); [BBl 2013 4631](https://fedlex.data.admin.ch/eli/fga/2013/864)[5793](https://fedlex.data.admin.ch/eli/fga/2013/1039)).
-[^3-5]: Eingefügt durch Anhang 2 Ziff. II 2 des BG vom 23. März 2001 über den Konsumkredit, in Kraft seit 1. Jan. 2003 ([AS 2002 3846](https://fedlex.data.admin.ch/eli/oc/2002/593); BBl **1999** 3155).
+[^3-5]: Eingefügt durch Anhang 2 Ziff. II 2 des BG vom 23. März 2001 über den Konsumkredit, in Kraft seit 1. Jan. 2003 ([AS 2002 3846](https://fedlex.data.admin.ch/eli/oc/2002/593); [BBl 1999 III 3155](https://fedlex.data.admin.ch/eli/fga/1999/1_3155_2879_2697)).
 [^3-6]: Eingefügt durch Anhang Ziff. 1 des BG vom 24. März 2006, in Kraft seit 1. April 2007 ([AS 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [BBl 2003 7951](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
 [^3-7]: Eingefügt durch Ziff. I des BG vom 17. Juni 2011, in Kraft seit 1. April 2012 ([AS 2011 4909](https://fedlex.data.admin.ch/eli/oc/2011/703); [BBl 2009 6151](https://fedlex.data.admin.ch/eli/fga/2009/1106)).
 [^3-8]: Eingefügt durch Ziff. I des BG vom 17. Juni 2011, in Kraft seit 1. April 2012 ([AS 2011 4909](https://fedlex.data.admin.ch/eli/oc/2011/703); [BBl 2009 6151](https://fedlex.data.admin.ch/eli/fga/2009/1106)).
@@ -135,7 +135,7 @@ Unlauter handelt insbesondere, wer im Fernhandel ohne sachliche Rechtfertigung e
 Unlauter handelt insbesondere, wer:
 
 - a. Abnehmer zum Vertragsbruch verleitet, um selber mit ihnen einen Vertrag abschliessen zu können;
-- b.[^4-1] ...
+- b.[^4-1] …
 - c. Arbeitnehmer, Beauftragte oder andere Hilfspersonen zum Verrat oder zur Auskundschaftung von Fabrikations- oder Geschäftsgeheimnissen ihres Arbeitgebers oder Auftraggebers verleitet;
 - d.[^4-2] einen Konsumenten, der einen Konsumkreditvertrag abgeschlossen hat, veranlasst, den Vertrag zu widerrufen, um selber mit ihm einen solchen Vertrag abzuschliessen.
 
@@ -188,7 +188,15 @@ Unlauter handelt insbesondere, wer allgemeine Geschäftsbedingungen verwendet, d
 
 [^8-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2011, in Kraft seit 1. Juli 2012 ([AS 2011 4909](https://fedlex.data.admin.ch/eli/oc/2011/703); [BBl 2009 6151](https://fedlex.data.admin.ch/eli/fga/2009/1106)).
 
-### 2. Abschnitt: Prozessrechtliche Bestimmungen****
+#### Art. 8a
+
+**Verwendung von Paritätsklauseln gegenüber Beherbergungsbetrieben**[^8a-1]
+
+Unlauter handelt insbesondere, wer als Betreiber einer Online-Plattform zur Buchung von Beherbergungsdienstleistungen allgemeine Geschäftsbedingungen verwendet, welche die Preis- und Angebotssetzung von Beherbergungsbetrieben durch Paritätsklauseln, namentlich bezüglich Preis, Verfügbarkeit oder Konditionen, direkt oder indirekt einschränken.
+
+[^8a-1]: Eingefügt durch Ziff. I des BG vom 17. Juni 2022, in Kraft seit 1. Dez. 2022 ([AS 2022 690](https://fedlex.data.admin.ch/eli/oc/2022/690); [BBl 2021 2858](https://fedlex.data.admin.ch/eli/fga/2021/2858)).
+
+### 2. Abschnitt: Prozessrechtliche Bestimmungen
 
 [^chap2-sec2-1]
 
@@ -225,7 +233,7 @@ Ferner können nach Artikel 9 Absätze 1 und 2 klagen:
 
 - a. Berufs- und Wirtschaftsverbände, die nach den Statuten zur Wahrung der wirtschaftlichen Interessen ihrer Mitglieder befugt sind;
 - b. Organisationen von gesamtschweizerischer oder regionaler Bedeutung, die sich statutengemäss dem Konsumentenschutz widmen;
-- c.[^10-2] ...
+- c.[^10-2] …
 
 <sup>3</sup>
 
@@ -263,7 +271,7 @@ Ist der unlautere Wettbewerb von Arbeitnehmern oder anderen Hilfspersonen bei di
 
 <sup>1</sup> Der Richter kann vom Werbenden den Beweis für die Richtigkeit von in der Werbung enthaltenen Tatsachenbehauptungen verlangen, wenn dies unter Berücksichtigung der berechtigten Interessen des Werbenden und anderer am Verfahren beteiligter Personen im Einzelfall angemessen erscheint.
 
-<sup>2</sup> ...[^13a-2]
+<sup>2</sup> …[^13a-2]
 
 [^13a-1]: Eingefügt durch Ziff. I des BG vom 18. Juni 1993, in Kraft seit 1. April 1994 ([AS 1994 375](https://fedlex.data.admin.ch/eli/oc/1994/375_375_375); [BBl 1993 I 805](https://fedlex.data.admin.ch/eli/fga/1993/1_805_757_609)).
 [^13a-2]: Aufgehoben durch Anhang 1 Ziff. II 15 der Zivilprozessordnung vom 19. Dez. 2008, mit Wirkung seit 1. Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
@@ -274,7 +282,7 @@ Ist der unlautere Wettbewerb von Arbeitnehmern oder anderen Hilfspersonen bei di
 
 [^1415-1]: Aufgehoben durch Anhang 1 Ziff. II 15 der Zivilprozessordnung vom 19. Dez. 2008, mit Wirkung seit 1. Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
-## 3. Kapitel: Verwaltungsrechtliche Bestimmungen****
+## 3. Kapitel: Verwaltungsrechtliche Bestimmungen
 
 [^chap3-1]
 
@@ -288,7 +296,7 @@ Ist der unlautere Wettbewerb von Arbeitnehmern oder anderen Hilfspersonen bei di
 
 <sup>2</sup> Der Bundesrat regelt die Bekanntgabe von Preisen und Trinkgeldern.
 
-<sup>3</sup> ...[^16-1]
+<sup>3</sup> …[^16-1]
 
 [^16-1]: Aufgehoben durch Art. 26 des Messgesetzes vom 17. Juni 2011, mit Wirkung seit 1. Jan. 2013 ([AS 2012 6235](https://fedlex.data.admin.ch/eli/oc/2012/734); [BBl 2010 8013](https://fedlex.data.admin.ch/eli/fga/2010/1470)).
 
@@ -349,7 +357,7 @@ Der Auskunftspflicht unterstehen:
 
 <sup>2</sup> Der Bundesrat erlässt die Ausführungsbestimmungen.
 
-## 3*a*. Kapitel:**** Zusammenarbeit mit ausländischen Aufsichtsbehörden
+## 3*a*. Kapitel: Zusammenarbeit mit ausländischen Aufsichtsbehörden
 
 [^chap3a-1]
 
@@ -419,7 +427,7 @@ Wer vorsätzlich:
 
 <sup>2</sup> Handelt der Täter fahrlässig, so ist die Strafe Busse.
 
-[^24-1]: Fassung gemäss Art. 333 des Strafgesetzbuches in der Fassung des BG vom 13. Dez. 2002, in Kraft seit 1. Jan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979).
+[^24-1]: Fassung gemäss Art. 333 des Strafgesetzbuches in der Fassung des BG vom 13. Dez. 2002, in Kraft seit 1. Jan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); [BBl 1999 II 1979](https://fedlex.data.admin.ch/eli/fga/1999/1_1979_1787_1669)).
 [^24-2]: Fassung gemäss Art. 26 des Messgesetzes vom 17. Juni 2011, in Kraft seit 1. Jan. 2013 ([AS 2012 6235](https://fedlex.data.admin.ch/eli/oc/2012/734); [BBl 2010 8013](https://fedlex.data.admin.ch/eli/fga/2010/1470)).
 [^24-3]: Fassung gemäss Art. 26 des Messgesetzes vom 17. Juni 2011, in Kraft seit 1. Jan. 2013 ([AS 2012 6235](https://fedlex.data.admin.ch/eli/oc/2012/734); [BBl 2010 8013](https://fedlex.data.admin.ch/eli/fga/2010/1470)).
 
@@ -471,7 +479,7 @@ Wenn für eine strafbare Handlung nach Artikel 23 in Verbindung mit Artikel 3 od
 
 Das Bundesgesetz vom 30. September 1943[^28-1] über den unlauteren Wettbewerb wird aufgehoben.
 
-[^28-1]: [BS **2** 951; [AS 1962 1047](https://fedlex.data.admin.ch/eli/oc/1962/1047_1082_1085)Art. 2, [1978 2057](https://fedlex.data.admin.ch/eli/oc/1978/2057_2057_2057)]
+[^28-1]: [BS **2** 951; [AS 1962 1047](https://fedlex.data.admin.ch/eli/oc/1962/1047_1082_1085)Art. 2; [1978 2057](https://fedlex.data.admin.ch/eli/oc/1978/2057_2057_2057)]
 
 #### Art. 29
 

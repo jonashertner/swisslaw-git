@@ -4,11 +4,11 @@ title: Loi fédérale du 19 décembre 1986 contre la concurrence déloyale (LCD)
 short: LCD
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/223_223_223"
 language: fr
-version: 2022-01-01
+version: 2022-12-01
 adopted: 1986-12-19
 in_force: 1988-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/223_223_223/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1988-223_223_223-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/223_223_223/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/223_223_223/20221201/fr/xml/fedlex-data-admin-ch-eli-cc-1988-223_223_223-20221201-fr-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/223_223_223/20221201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1988/223_223_223/20220101/fr"
 
 (LCD)
 
-du 19 décembre 1986 (Etat le 1<sup>er</sup> janvier 2022)
+du 19 décembre 1986 (État le 1<sup>er</sup> décembre 2022)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -97,10 +97,10 @@ Agit de façon déloyale celui qui, notamment:
 <sup>2</sup> L’al. 1, let. s, ne s’applique pas à la téléphonie vocale et aux contrats conclus uniquement par l’échange de courriers électroniques ou de moyens de communication analogues.[^3-15]
 
 [^3-1]: Nouvelle teneur selon le ch. I de la LF du 24 mars 1995, en vigueur depuis le 1<sup>er</sup> nov. 1995 ([RO 1995 4086](https://fedlex.data.admin.ch/eli/oc/1995/4086_4086_4086); [FF 1994 III 449](https://fedlex.data.admin.ch/eli/fga/1994/3_442_449_403)).
-[^3-2]: Nouvelle teneur selon l’annexe 2 ch. II 2 de la LF du 23 mars 2001 sur le crédit à la consommation, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3846](https://fedlex.data.admin.ch/eli/oc/2002/593); FF **1999** 2879).
-[^3-3]: Nouvelle teneur selon l’annexe 2 ch. II 2 de la LF du 23 mars 2001 sur le crédit à la consommation, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3846](https://fedlex.data.admin.ch/eli/oc/2002/593); FF **1999** 2879).
+[^3-2]: Nouvelle teneur selon l’annexe 2 ch. II 2 de la LF du 23 mars 2001 sur le crédit à la consommation, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3846](https://fedlex.data.admin.ch/eli/oc/2002/593); [FF 1999 III 2879](https://fedlex.data.admin.ch/eli/fga/1999/1_3155_2879_2697)).
+[^3-3]: Nouvelle teneur selon l’annexe 2 ch. II 2 de la LF du 23 mars 2001 sur le crédit à la consommation, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3846](https://fedlex.data.admin.ch/eli/oc/2002/593); [FF 1999 III 2879](https://fedlex.data.admin.ch/eli/fga/1999/1_3155_2879_2697)).
 [^3-4]: Nouvelle teneur selon le ch. II de la LF du 13 déc. 2013 (Abrogation des dispositions sur la vente avec paiements préalables), en vigueur depuis le 1<sup>er</sup> juil. 2014 ([RO 2014 869](https://fedlex.data.admin.ch/eli/oc/2014/184); [FF 2013 4139](https://fedlex.data.admin.ch/eli/fga/2013/864)[5221](https://fedlex.data.admin.ch/eli/fga/2013/1039)).
-[^3-5]: Introduite par l’annexe 2 ch. II 2 de la LF du 23 mars 2001 sur le crédit à la consommation, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3846](https://fedlex.data.admin.ch/eli/oc/2002/593); FF **1999** 2879).
+[^3-5]: Introduite par l’annexe 2 ch. II 2 de la LF du 23 mars 2001 sur le crédit à la consommation, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3846](https://fedlex.data.admin.ch/eli/oc/2002/593); [FF 1999 III 2879](https://fedlex.data.admin.ch/eli/fga/1999/1_3155_2879_2697)).
 [^3-6]: Introduite par l’annexe ch. 1 de la loi du 24 mars 2006, en vigueur depuis le 1<sup>er</sup> avr. 2007 ([RO 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 7245](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
 [^3-7]: Introduite par le ch. I de la LF du 17 juin 2011, en vigueur depuis le 1<sup>er</sup> avr. 2012 ([RO 2011 4909](https://fedlex.data.admin.ch/eli/oc/2011/703); [FF 2009 5539](https://fedlex.data.admin.ch/eli/fga/2009/1106)).
 [^3-8]: Introduite par le ch. I de la LF du 17 juin 2011, en vigueur depuis le 1<sup>er</sup> avr. 2012 ([RO 2011 4909](https://fedlex.data.admin.ch/eli/oc/2011/703); [FF 2009 5539](https://fedlex.data.admin.ch/eli/fga/2009/1106)).
@@ -188,6 +188,14 @@ Agit de façon déloyale celui qui, notamment, utilise des conditions générale
 
 [^8-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2011, en vigueur depuis le 1<sup>er</sup> juil. 2012 ([RO 2011 4909](https://fedlex.data.admin.ch/eli/oc/2011/703); [FF 2009 5539](https://fedlex.data.admin.ch/eli/fga/2009/1106)).
 
+#### Art. 8a
+
+**Utilisation de clauses de parité limitant la liberté des établissements d’hébergement**[^8a-1]
+
+Agit de façon déloyale celui qui, notamment, utilise en tant qu’exploitant d’une plateforme en ligne de réservation de prestations d’hébergement des conditions générales restreignant directement ou indirectement la fixation des prix et de l’offre par les établissements d’hébergement au moyen de clauses de parité concernant en particulier les tarifs, la disponibilité ou les conditions.
+
+[^8a-1]: Introduit par le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 690](https://fedlex.data.admin.ch/eli/oc/2022/690); [FF 2021 2858](https://fedlex.data.admin.ch/eli/fga/2021/2858)).
+
 ### Section 2 Dispositions de procédure
 
 [^chap2-sec2-1]
@@ -263,7 +271,7 @@ Lorsque l’acte de concurrence déloyale a été commis par un travailleur ou p
 
 <sup>1</sup> Le juge peut exiger que l’annonceur apporte des preuves concernant l’exactitude matérielle des données de fait contenues dans la publicité si, compte tenu des intérêts légitimes de l’annonceur et de toute autre partie à la procédure, une telle exigence paraît appropriée en l’espèce.
 
-<sup>2</sup> ...[^13a-2]
+<sup>2</sup> …[^13a-2]
 
 [^13a-1]: Introduit par le ch. I de la LF du 18 juin 1993, en vigueur depuis le 1<sup>er</sup> avr. 1994 ([RO 1994 375](https://fedlex.data.admin.ch/eli/oc/1994/375_375_375); [FF 1993 I 757](https://fedlex.data.admin.ch/eli/fga/1993/1_805_757_609)).
 [^13a-2]: Abrogé par l’annexe 1 ch. II 15 du CPC du 19 déc. 2008, avec effet au 1<sup>er</sup> janv. 2011 ([RO 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6841](https://fedlex.data.admin.ch/eli/fga/2006/914)).
@@ -288,7 +296,7 @@ Lorsque l’acte de concurrence déloyale a été commis par un travailleur ou p
 
 <sup>2</sup> Le Conseil fédéral règle l’indication des prix et des pourboires.
 
-<sup>3</sup> ...[^16-2]
+<sup>3</sup> …[^16-2]
 
 [^16-1]: Nouvelle teneur selon l’art. 26 de la LF du 17 juin 2011 sur la métrologie, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6235](https://fedlex.data.admin.ch/eli/oc/2012/734); [FF 2010 7305](https://fedlex.data.admin.ch/eli/fga/2010/1470)).
 [^16-2]: Abrogé par l’art. 26 de la LF du 17 juin 2011 sur la métrologie, avec effet au 1<sup>er</sup> janv. 2013 ([RO 2012 6235](https://fedlex.data.admin.ch/eli/oc/2012/734); [FF 2010 7305](https://fedlex.data.admin.ch/eli/fga/2010/1470)).
@@ -423,7 +431,7 @@ Quiconque, intentionnellement:
 
 <sup>2</sup> Si l’auteur a agi par négligence, la peine sera l’amende.
 
-[^24-1]: Nouvelle teneur selon l’art. 333 du CP, dans la teneur de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1787).
+[^24-1]: Nouvelle teneur selon l’art. 333 du CP, dans la teneur de la LF du 13 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); [FF 1999 II 1787](https://fedlex.data.admin.ch/eli/fga/1999/1_1979_1787_1669)).
 [^24-2]: Nouvelle teneur selon l’art. 26 de la LF du 17 juin 2011 sur la métrologie, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6235](https://fedlex.data.admin.ch/eli/oc/2012/734); [FF 2010 7305](https://fedlex.data.admin.ch/eli/fga/2010/1470)).
 [^24-3]: Nouvelle teneur selon l’art. 26 de la LF du 17 juin 2011 sur la métrologie, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6235](https://fedlex.data.admin.ch/eli/oc/2012/734); [FF 2010 7305](https://fedlex.data.admin.ch/eli/fga/2010/1470)).
 
