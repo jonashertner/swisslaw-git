@@ -3,7 +3,7 @@ canton: VD
 number: "172.30.160322.1"
 title: "ARRÊTÉ du 16.03.2022 relatif aux modalités applicables à titre transitoire à la procédure d'investigation en matière de harcèlement au travail "
 language: fr
-version: 2022-04-01
+version: 2022-12-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/172.30.160322.1?id=65ad88f0-82cc-4cf3-83ee-86b3de99a67a"
 ---
 
@@ -151,9 +151,9 @@ arrête
 
 **Durée de validité [^14-1]**
 
-<sup>1</sup> Le présent arrêté entre en vigueur le 1er avril 2022 et échoit le 31 décembre 2022, sous réserve de l'alinéa 2.
+<sup>1</sup> Le présent arrêté entre en vigueur le 1er avril 2022 et échoit le 30 juin 2023, sous réserve de l'alinéa 2.
 
-<sup>2</sup> Les investigations basées sur le présent arrêté qui sont pendantes au 31 décembre 2022 restent soumises aux dispositions du présent arrêté jusqu'à l'issue de la procédure.
+<sup>2</sup> Les investigations basées sur le présent arrêté qui sont pendantes au 30 juin 2023 restent soumises aux dispositions du présent arrêté jusqu'à l'issue de la procédure.
 
 [^14-1]: Modif. 1 du 30.11.2022: Modification Al. 1-2; entrée en vigueur au 01.12.2022 · Modif. 2 du 31.05.2023: Modification Al. 1-2; entrée en vigueur au 01.06.2023 · Modif. 3 du 01.11.2023: Modification Al. 1-2; entrée en vigueur au 01.01.2024 · Modif. 4 du 19.06.2024: Modification Al. 1-2; entrée en vigueur au 01.07.2024
 
