@@ -3,20 +3,20 @@ canton: SO
 number: "411.251"
 title: Interkantonale Vereinbarung über die Anerkennung von Ausbildungsabschlüssen
 language: de
-version: 2017-01-01
-valid_until: 2022-11-30
-version_adopted: 2013-11-21
+version: 2022-12-01
+valid_until: 2025-06-30
+version_adopted: 2022-11-24
 adopted: 1993-02-18
 in_force: 1995-02-15
 url: "https://bgs.so.ch/app/de/texts_of_law/411.251"
-pdf: "https://bgs.so.ch/api/de/versions/5297/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5299/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Interkantonale Vereinbarung über die Anerkennung von Ausbildungsabschlüssen
 
-Vom 18.02.1993 (Stand 01.01.2017)
+Vom 18.02.1993 (Stand 01.12.2022)
 
 #### Art. 1
 
