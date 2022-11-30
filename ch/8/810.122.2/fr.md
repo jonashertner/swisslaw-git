@@ -4,11 +4,11 @@ title: "Ordonnance du 14 février 2007 sur l'établissement de profils d'ADN en 
 short: OACA
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/134"
 language: fr
-version: 2007-04-01
+version: 2022-12-01
 adopted: 2007-02-14
 in_force: 2007-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/134/20070401/fr/xml/fedlex-data-admin-ch-eli-cc-2007-134-20070401-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/134/20070401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/134/20221201/fr/xml/fedlex-data-admin-ch-eli-cc-2007-134-20221201-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/134/20221201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,15 +17,16 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/134/20070401/fr"
 
 (OACA)
 
-du 14 février 2007 (Etat le 1<sup>er</sup> avril 2007)
+du 14 février 2007 (État le 1<sup>er</sup> décembre 2022)
 
 Le Conseil fédéral suisse,
 
-vu l’art. 8, al. 4, de la loi fédérale du 8 octobre 2004 sur l’analyse génétique humaine (LAGH)[^ingress-1],
+vu l’art. 53, al. 3, de la loi fédérale du 15 juin 2018 sur l’analyse génétique humaine (LAGH)[^ingress-1],[^ingress-2]
 
 arrête:
 
 [^ingress-1]: [RS 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537)
+[^ingress-2]: Nouvelle teneur selon le ch. I de l’O du 23 sept. 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 586](https://fedlex.data.admin.ch/eli/oc/2022/586)).
 
 ## Chapitre 1 Disposition générales
 
@@ -35,17 +36,22 @@ arrête:
 
 La présente ordonnance règle:
 
-- a. les conditions et la procédure de la reconnaissance des laboratoires qui établissent des profils d’ADN visant à déterminer le lien de parenté ou l’identité d’une personne selon les art. 31 à 34 LAGH;
+- a.[^1-1] les conditions et la procédure de la reconnaissance des laboratoires qui établissent des profils d’ADN visant à déterminer la filiation ou l’identité d’une personne selon les art. 47 à 53 LAGH;
 - b. les obligations à respecter par les laboratoires pour conserver la reconnaissance;
-- c. la surveillance.
+- c.[^1-2] la surveillance des laboratoires reconnus.
+
+[^1-1]: Nouvelle teneur selon le ch. I de l’O du 23 sept. 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 586](https://fedlex.data.admin.ch/eli/oc/2022/586)).
+[^1-2]: Nouvelle teneur selon le ch. I de l’O du 23 sept. 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 586](https://fedlex.data.admin.ch/eli/oc/2022/586)).
 
 #### Art. 2
 
-**Compétences**
+**Compétences**[^2-1]
 
-<sup>1</sup> La reconnaissance des laboratoires et le retrait de la reconnaissance sont de la compétence du Département fédéral de justice et police (département).
+<sup>1</sup> La reconnaissance des laboratoires et le retrait de la reconnaissance sont de la compétence du Département fédéral de justice et police (DFJP).
 
-<sup>2</sup> Les autres tâches prévues par la présente ordonnance sont de la compétence de l’Office fédéral de la police (office).
+<sup>2</sup> Les autres tâches prévues par la présente ordonnance sont de la compétence de l’Office fédéral de la police (fedpol).
+
+[^2-1]: Nouvelle teneur selon le ch. I de l’O du 23 sept. 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 586](https://fedlex.data.admin.ch/eli/oc/2022/586)).
 
 ## Chapitre 2 Reconnaissance
 
@@ -53,9 +59,12 @@ La présente ordonnance règle:
 
 #### Art. 3
 
-Les laboratoires d’essais en génétique forensique reconnus par le département conformément à l’ordonnance du 3 décembre 2004 sur les profils d’ADN[^3-1] sont considérés comme laboratoires reconnus par la Confédération selon l’art. 8, al. 4, LAGH.
+[^3-1]
 
-[^3-1]: [RS 363.1](https://fedlex.data.admin.ch/eli/cc/2004/812)
+Les laboratoires d’essais en génétique forensique reconnus par le DFJP conformément à l’art. 8, al. 1, de la loi du 20 juin 2003 sur les profils d’ADN[^3-2] sont considérés comme laboratoires reconnus par la Confédération selon l’art. 53, al. 1, LAGH.
+
+[^3-1]: Nouvelle teneur selon le ch. I de l’O du 23 sept. 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 586](https://fedlex.data.admin.ch/eli/oc/2022/586)).
+[^3-2]: [RS 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
 
 ### Section 2 Autres laboratoires
 
@@ -65,18 +74,21 @@ Les laboratoires d’essais en génétique forensique reconnus par le départeme
 
 <sup>1</sup>
 
-Les laboratoires qui veulent établir des profils d’ADN visant à déterminer le lien de parenté ou l’identité d’une personne et qui ne sont pas reconnus comme laboratoires d’essais en génétique forensique sont reconnus:
+Les laboratoires qui veulent établir des profils d’ADN visant à déterminer la filiation[^4-1] ou l’identité d’une personne et qui ne sont pas reconnus comme laboratoires d’essais en génétique forensique sont reconnus:
 
-- a. s’ils sont accrédités par le Service d’accréditation suisse (SAS) dans le domaine des profils d’ADN visant à déterminer le lien de parenté ou l’identité d’une personne et dans l’un des champs d’application prévus par l’art. 5, conformément à l’ordonnance du 17 juin 1996 sur l’accréditation et la désignation[^4-1];
+- a. s’ils sont accrédités par le Service d’accréditation suisse (SAS) dans le domaine des profils d’ADN visant à déterminer la filiation ou l’identité d’une personne et dans l’un des champs d’application prévus par l’art. 5, conformément à l’ordonnance du 17 juin 1996 sur l’accréditation et la désignation[^4-2];
 - b. si le responsable du domaine possède le titre exigé par l’art. 6 et s’il exerce la gestion effective et la surveillance de son domaine au siège du laboratoire.
 
-<sup>2</sup> La norme européenne applicable à l’accréditation prévue à l’al. 1, let. a, est réglée dans l’annexe. Le département met à jour l’annexe afin de l’adapter aux évolutions internationales et aux progrès techniques.
+<sup>2</sup> La norme applicable à l’accréditation prévue à l’al. 1, let. a, est réglée dans l’annexe 1. Le DFJP met à jour l’annexe afin de l’adapter aux évolutions internationales et aux progrès techniques.[^4-3]
 
 <sup>3</sup> La reconnaissance est octroyée pour le champ d’application correspondant à celui de l’accréditation.
 
-<sup>4</sup> La demande de reconnaissance doit être déposée auprès de l’office.
+<sup>4</sup> La demande de reconnaissance doit être déposée auprès de fedpol[^4-4].
 
-[^4-1]: [RS 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
+[^4-1]: Nouvelle expression selon le ch. I de l’O du 23 sept. 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 586](https://fedlex.data.admin.ch/eli/oc/2022/586)). Il a été tenu compte de cette mod. dans tout le texte.
+[^4-2]: [RS 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
+[^4-3]: Nouvelle teneur selon le ch. I de l’O du 23 sept. 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 586](https://fedlex.data.admin.ch/eli/oc/2022/586)).
+[^4-4]: Nouvelle expression selon le ch. I de l’O du 23 sept. 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 586](https://fedlex.data.admin.ch/eli/oc/2022/586)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 5
 
@@ -85,7 +97,9 @@ Les laboratoires qui veulent établir des profils d’ADN visant à déterminer 
 Les laboratoires peuvent être accrédités dans l’un des champs d’application suivants:
 
 - a. l’établissement de profils d’ADN sur la base d’échantillons prélevés directement sur la personne concernée;
-- b. l’établissement de profils d’ADN au sens de la let. a, ainsi que l’établissement de profils d’ADN sur la base de traces ou d’échantillons provenant de cadavres.
+- b.[^5-1] l’établissement de profils d’ADN au sens de la let. a, ainsi que l’établissement de profils d’ADN sur la base d’échantillons provenant de cadavres.
+
+[^5-1]: Nouvelle teneur selon le ch. I de l’O du 23 sept. 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 586](https://fedlex.data.admin.ch/eli/oc/2022/586)).
 
 #### Art. 6
 
@@ -113,7 +127,7 @@ Pour les laboratoires accrédités selon l’art. 5, let. b, le responsable du d
 
 **Reconnaissance provisoire**
 
-<sup>1</sup> Les laboratoires qui ne sont pas accrédités selon l’art. 4, al. 1, let. a, peuvent déposer une demande de reconnaissance provisoire auprès de l’office, à condition qu’ils présentent en même temps une demande d’accréditation auprès du SAS.
+<sup>1</sup> Les laboratoires qui ne sont pas accrédités selon l’art. 4, al. 1, let. a, peuvent déposer une demande de reconnaissance provisoire auprès de fedpol, à condition qu’ils présentent en même temps une demande d’accréditation auprès du SAS.
 
 <sup>2</sup>
 
@@ -121,14 +135,17 @@ La reconnaissance provisoire est accordée:
 
 - a. si le responsable du domaine remplit les conditions prévues par l’art. 6;
 - b. si les laboratoires disposent des locaux et des installations nécessaires;
-- c. s’il existe un concept suffisant pour la protection et la sécurité des données; et
+- c.[^7-1] s’il existe un concept tel que mentionné à l’art. 16*b*, al. 3, et
 - d. si les laboratoires ont, au cours des douze derniers mois, participé avec succès à au moins un contrôle de qualité externe se rapportant au champ d’application de l’accréditation demandée.
 
-<sup>3</sup> L’office peut charger le SAS de contrôler la réalisation des conditions.
+<sup>3</sup> fedpol peut charger le SAS de contrôler la réalisation des conditions.
 
-<sup>4</sup> Le Préposé fédéral à la protection des données et à la transparence examine le concept pour la protection et la sécurité des données.
+<sup>4</sup> ...[^7-2]
 
-<sup>5</sup> La reconnaissance provisoire est assortie de la charge pour les laboratoires d’obtenir, dans les 18 mois à compter du dépôt de la demande de reconnaissance provisoire, l’accréditation par le SAS. L’office peut, sur demande du SAS, prolonger le délai de six mois au maximum.
+<sup>5</sup> La reconnaissance provisoire est assortie de la charge pour les laboratoires d’obtenir, dans les 18 mois à compter du dépôt de la demande de reconnaissance provisoire, l’accréditation par le SAS. fedpol peut, sur demande du SAS, prolonger le délai de six mois au maximum.
+
+[^7-1]: Nouvelle teneur selon le ch. I de l’O du 23 sept. 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 586](https://fedlex.data.admin.ch/eli/oc/2022/586)).
+[^7-2]: Abrogé par le ch. I de l’O du 23 sept. 2022, avec effet au 1<sup>er</sup> déc. 2022 ([RO 2022 586](https://fedlex.data.admin.ch/eli/oc/2022/586)).
 
 #### Art. 8
 
@@ -142,74 +159,113 @@ La reconnaissance et la reconnaissance provisoire peuvent être assorties de con
 
 #### Art. 9
 
-**Contrôle de qualité externe**
+**Contrôle de qualité externe**[^9-1]
 
-<sup>1</sup> Les laboratoires reconnus doivent participer avec succès deux fois par année à un contrôle de qualité externe se rapportant au champ d’application de leur reconnaissance.
+<sup>1</sup> Les laboratoires reconnus doivent participer avec succès deux fois par an à un contrôle de qualité externe se rapportant au champ d’application de leur reconnaissance.
 
-<sup>2</sup> Ils doivent présenter les résultats de ces contrôles à l’office jusqu’à la fin du mois de février de l’année suivante.
+<sup>2</sup> Ils communiquent immédiatement le résultat de ce contrôle à fedpol.
+
+<sup>3</sup> Si la participation au contrôle n’est pas couronnée de succès, le laboratoire est tenu de fournir un rapport à fedpol dans un délai approprié. Ce rapport doit analyser les défauts et indiquer les mesures à prendre pour y remédier, ainsi que les délais prévus pour chacune d’entre elles.
+
+[^9-1]: Nouvelle teneur selon le ch. I de l’O du 23 sept. 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 586](https://fedlex.data.admin.ch/eli/oc/2022/586)).
 
 #### Art. 10
 
-**Sous-traitance**
+**Sous-traitance**[^10-1]
 
-<sup>1</sup> Un laboratoire ne peut confier l’établissement d’un profil d’ADN qu’à un autre laboratoire reconnu selon la présente ordonnance et qu’avec le consentement du mandant.
+<sup>1</sup> Un laboratoire ne peut transférer un mandat relatif à l’établissement de profils d’ADN qu’à un autre laboratoire reconnu; il doit au préalable obtenir le consentement du mandant.
 
-<sup>2</sup> Si aucun laboratoire reconnu ne dispose des connaissances nécessaires pour exécuter une analyse spéciale, il peut, exceptionnellement, confier l’exécution à un laboratoire non reconnu à l’étranger.
+<sup>2</sup> Si le laboratoire ne dispose pas des connaissances ou des installations techniques nécessaires pour exécuter une analyse génétique moléculaire déterminée, il peut confier l’exécution en sous-traitance à un autre laboratoire reconnu en Suisse.
+
+<sup>3</sup> Si aucun laboratoire reconnu ne dispose des connaissances et des installations techniques nécessaires pour exécuter une analyse génétique moléculaire déterminée, l’exécution peut être confiée en sous-traitance à un laboratoire non reconnu en Suisse ou à un laboratoire à l’étranger. Le laboratoire confiant l’exécution en sous-traitance doit pseudonymiser le mandat et pouvoir apporter la preuve que le laboratoire sous-traitant dispose d’un système de gestion de la qualité remplissant les exigences d’une des normes visées à l’annexe 2. Il doit veiller à ce que le laboratoire sous-traitant exécute le mandat sur la base des connaissances scientifiques et techniques les plus récentes.
+
+<sup>4</sup> Si un laboratoire confie l’exécution en sous-traitance au sens de l’al. 2 ou 3, il doit au préalable obtenir le consentement du mandant.
+
+[^10-1]: Nouvelle teneur selon le ch. I de l’O du 23 sept. 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 586](https://fedlex.data.admin.ch/eli/oc/2022/586)).
 
 #### Art. 11
 
-**Obligation de communiquer**
+**Obligation de communiquer**[^11-1]
 
-<sup>1</sup> Chaque année, les laboratoires doivent, jusqu’à la fin février, communiquer à l’office le nombre des rapports d’expertise effectués au cours de l’année précédente pour établir un lien de parenté ou pour identifier une personne.
+<sup>1</sup> Les laboratoires doivent transmettre spontanément à fedpol la confirmation du renouvellement de leur accréditation.
 
-<sup>2</sup>
+<sup>2</sup> Si des changements de personnel interviennent dans la direction du domaine, les laboratoires doivent en informer immédiatement fedpol.
 
-Ils doivent distinguer:
-
-- a. les rapports établis sur la base des art. 32 et 33 LAGH;
-- b. les rapports établis sur la base de l’art. 34, al. 1 à 3, LAGH;
-- c. les rapports établis sur la base de l’art. 34, al. 4, LAGH;
-- d. les rapports établis sur la base de l’art. 10, al. 2.
-
-<sup>3</sup> Les laboratoires doivent, de leur propre chef, fournir à l’office la confirmation du renouvellement de l’accréditation.
-
-<sup>4</sup> Le laboratoire communique immédiatement à l’office tout changement du responsable du domaine.
+[^11-1]: Nouvelle teneur selon le ch. I de l’O du 23 sept. 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 586](https://fedlex.data.admin.ch/eli/oc/2022/586)).
 
 ### Section 2 Obligations relatives à l’établissement de profils d’ADN
 
 #### Art. 12
 
-**Examen de l’identité des personnes concernées**
+**Méthodes d’analyse permettant de déterminer la filiation**[^12-1]
 
-<sup>1</sup> Le mandat prescrivant l’établissement d’un profil d’ADN doit désigner les personnes concernées par leur nom de famille, leur prénom, leur date de naissance, leur adresse et leur lieu d’origine ou leur nationalité.
+<sup>1</sup> La filiation doit être recherchée sur la base des connaissances scientifiques et techniques les plus récentes. Peuvent être utilisés uniquement des marqueurs ADN validés et publiés. Pour le reste, les Recommandations de la Société suisse de médecine légale du 7 juin 2019 pour les expertises génétiques en filiation s’appliquent[^12-2].
 
-<sup>2</sup> Lors du prélèvement de l’échantillon, la personne concernée doit justifier de son identité au moyen d’une pièce d’identité officielle valable avec photo. Cette pièce doit être photocopiée. Le laboratoire peut renoncer à exiger la présentation d’une pièce d’identité pour un nourrisson ou un enfant en bas âge.
+<sup>2</sup> La filiation d’un enfant est déterminée sur la base de la comparaison de son profil d’ADN avec celui de la mère et du père présumés.
 
-<sup>3</sup> Lors du prélèvement de l’échantillon, la personne concernée doit être photogra-phiée. La photo doit être signée par la personne concernée ou par son représentant légal.
+<sup>3</sup> Dans des cas particuliers dûment motivés, la filiation peut être déterminée sur la base de la comparaison du profil d’ADN de l’enfant avec celui de la mère présumée ou du père présumé.
 
-<sup>4</sup> L’examen de l’identité doit être consigné et les documents y relatifs doivent être joints au rapport d’expertise prévu à l’art. 16.
+[^12-1]: Nouvelle teneur selon le ch. I de l’O du 23 sept. 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 586](https://fedlex.data.admin.ch/eli/oc/2022/586)).
+[^12-2]: Le texte des recommandations peut être consulté gratuitement sur le site de la SSML à l’adresse suivante: www.sgrm.ch &gt; Génétique forensique &gt; La section Génétique forensique.
 
-<sup>5</sup> Si l’échantillon est prélevé par un médecin mandaté par le laboratoire, celui-ci est responsable de l’instruction du médecin relative à l’examen de l’identité ainsi qu’au prélèvement et à la conservation de l’échantillon.
+#### Art. 12a
+
+**Examen de l’identité des personnes concernées**[^12a-1]
+
+<sup>1</sup> Le mandat prescrivant l’établissement d’un profil d’ADN doit comporter le nom de famille, le prénom, la date de naissance, l’adresse et le lieu d’origine ou la nationalité des personnes concernées.
+
+<sup>2</sup> Avant le prélèvement de l’échantillon, l’identité des personnes concernées doit être vérifiée au moyen d’une pièce d’identité officielle valable avec photo. Cette pièce doit être copiée. Le laboratoire peut renoncer à exiger la présentation d’une pièce d’identité pour les enfants qui n’ont pas plus de 4 ans.
+
+<sup>3</sup> Avant le prélèvement de l’échantillon, la personne concernée doit être photographiée. La photo doit être signée par la personne concernée ou par son représentant légal.
+
+<sup>4</sup> L’examen de l’identité doit être consigné et la documentation y relative doit être jointe au rapport d’expertise prévu à l’art. 16.
+
+<sup>5</sup> La personne qui procède à l’examen d’identité et au prélèvement de l’échantillon doit confirmer par sa signature l’exactitude des données.
+
+<sup>6</sup> Si le prélèvement de l’échantillon est confié à un autre laboratoire approprié, à un médecin ou à une autre personne appropriée, le laboratoire mandant est responsable de l’instruction du personnel compétent relative à l’examen de l’identité ainsi qu’au prélèvement et à la conservation de l’échantillon.
+
+[^12a-1]: Introduit par le ch. I de l’O du 23 sept. 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 586](https://fedlex.data.admin.ch/eli/oc/2022/586)).
+
+#### Art. 12b
+
+**Proches**[^12b-1]
+
+<sup>1</sup>
+
+Sont réputés proches selon l’art. 48, al. 1, let. b, LAGH:
+
+- a. le conjoint, le partenaire enregistré ou la personne ayant mené de fait une vie de couple avec la personne décédée;
+- b. les enfants, les parents, les frères et sœurs.
+
+<sup>2</sup> La personne qui demande à déterminer la filiation doit communiquer par écrit au laboratoire que les personnes visées à l’al. 1 ont donné le consentement requis.
+
+[^12b-1]: Introduit par le ch. I de l’O du 23 sept. 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 586](https://fedlex.data.admin.ch/eli/oc/2022/586)).
+
+#### Art. 12c
+
+**Prélèvement provisionnel d’échantillons**[^12c-1]
+
+<sup>1</sup> Si le consentement des proches d’une personne décédée ne peut pas être obtenu à temps, le laboratoire peut prélever un échantillon sur la personne si le juge compétent l’a ordonné.
+
+<sup>2</sup> Il met l’échantillon en sûreté jusqu’à ce que les proches aient donné leur consentement ou que le juge se soit déterminé quant à l’établissement du profil d’ADN.
+
+[^12c-1]: Introduit par le ch. I de l’O du 23 sept. 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 586](https://fedlex.data.admin.ch/eli/oc/2022/586)).
 
 #### Art. 13
 
-**Echantillon**
-
-<sup>1</sup> L’échantillon doit être marqué de manière durable et de façon à ne pas pouvoir être confondu avec d’autres échantillons.
-
-<sup>2</sup> Les transplantations de moelle osseuse et les gémellités doivent être signalées.
-
-<sup>3</sup> La personne qui procède à l’examen d’identité et du prélèvement de l’échantillon doit confirmer par sa signature l’exactitude des données.
-
-<sup>4</sup> L’échantillon doit être conservé et traité de manière à exclure toute détérioration, tout échange ou toute perte.
-
-#### Art. 14
-
-**Exécution de l’analyse**
+**Traitement des échantillons**[^13-1]
 
 <sup>1</sup> L’échantillon doit faire l’objet de deux analyses indépendantes l’une de l’autre.
 
-<sup>2</sup> Les marqueurs utilisés doivent satisfaire aux critères de transmissibilité et de stabilité reconnus scientifiquement.
+<sup>2</sup> Les transplantations de cellules souches du sang et les gémellités univitellines doivent être signalées.
+
+[^13-1]: Nouvelle teneur selon le ch. I de l’O du 23 sept. 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 586](https://fedlex.data.admin.ch/eli/oc/2022/586)).
+
+#### Art. 14
+
+[^14-1]
+
+[^14-1]: Abrogé par le ch. I de l’O du 23 sept. 2022, avec effet au 1<sup>er</sup> déc. 2022 ([RO 2022 586](https://fedlex.data.admin.ch/eli/oc/2022/586)).
 
 #### Art. 15
 
@@ -238,17 +294,52 @@ Le rapport d’analyse doit contenir au minimum les indications suivantes:
 
 <sup>3</sup> La Commission d’experts pour l’analyse génétique humaine peut émettre des recommandations sur la manière d’établir le rapport d’expertise.
 
+#### Art. 16a
+
+**Conservation des échantillons hors procédure**[^16a-1]
+
+En dehors d’une procédure, le laboratoire détruit l’échantillon au plus tôt trois mois mais au plus tard douze mois après l’envoi du rapport d’expertise au mandant, pour autant que celui-ci ne souhaite pas prolonger la durée de conservation.
+
+[^16a-1]: Introduit par le ch. I de l’O du 23 sept. 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 586](https://fedlex.data.admin.ch/eli/oc/2022/586)).
+
+#### Art. 16b
+
+**Protection des échantillons et des données génétiques**[^16b-1]
+
+<sup>1</sup> Quiconque traite des données génétiques doit veiller à protéger les données, notamment contre toute communication, modification, suppression, destruction ou copie non autorisée ou involontaire, et contre leur perte.
+
+<sup>2</sup>
+
+Cette protection est assurée au moyen de mesures techniques et organisationnelles adéquates, notamment les mesures suivantes:
+
+- a. la limitation du traitement des données génétiques aux personnes qui ont besoin des données pour accomplir leurs tâches;
+- b. l’enregistrement de l’ensemble des processus de traitement des données qui permettent de garantir la traçabilité;
+- c. la transmission sécurisée des données génétiques;
+- d. la pseudonymisation des données génétiques lorsque ces dernières sont transférées vers un pays dont la législation n’assure pas un niveau de protection adéquat.
+
+<sup>3</sup> Les mesures doivent être déterminées et mises à jour sur la base d’une évaluation des risques et des connaissances techniques les plus récentes. Elles doivent figurer dans un concept fondé sur l’annexe 3.
+
+<sup>4</sup> Si les données au sens de l’al. 2, let. d, sont pseudonymisées et transférées vers un pays dont la législation n’assure pas un niveau de protection adéquat, la personne concernée doit en être informée dans le cadre de son information.
+
+<sup>5</sup> Les dispositions des al. 1 à 4 s’appliquent par analogie aux échantillons.
+
+[^16b-1]: Introduit par le ch. I de l’O du 23 sept. 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 586](https://fedlex.data.admin.ch/eli/oc/2022/586)).
+
 ## Chapitre 4 Surveillance
 
 #### Art. 17
 
-**Inspection**
+**Surveillance**[^17-1]
 
-<sup>1</sup> L’office peut effectuer ou ordonner des inspections annoncées ou inopinées dans le but de contrôler si les prescriptions de la LAGH et de la présente ordonnance sont respectées.
+<sup>1</sup> fedpol contrôle si les laboratoires respectent les prescriptions de la présente ordonnance.
 
-<sup>2</sup> Il peut confier ces inspections à la Commission d’experts pour l’analyse génétique humaine, à d’autres experts qualifiés ou au SAS.
+<sup>2</sup> Il peut à tout moment effectuer ou ordonner des inspections annoncées ou inopinées.
 
-<sup>3</sup> Les laboratoires doivent communiquer aux personnes chargées d’effectuer l’inspection toutes les informations nécessaires pour accomplir leur tâche et leur garantir l’accès aux locaux et aux installations utilisés pour établir les profils d’ADN visant à déterminer le lien de parenté ou l’identité d’une personne. Les personnes chargées de l’inspection ont le droit de consulter les dossiers.
+<sup>3</sup> Il peut recourir à des experts ou au SAS pour ces inspections ou les leur confier.
+
+<sup>4</sup> Les laboratoires doivent permettre à fedpol ainsi qu’aux experts et au SAS d’accéder à leurs locaux, à leurs installations, à tous leurs documents et à tous leurs systèmes d’information; de même, ils doivent fournir tout renseignement nécessaire aux inspections ou à la surveillance.
+
+[^17-1]: Nouvelle teneur selon le ch. I de l’O du 23 sept. 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 586](https://fedlex.data.admin.ch/eli/oc/2022/586)).
 
 #### Art. 18
 
@@ -256,49 +347,64 @@ Le rapport d’analyse doit contenir au minimum les indications suivantes:
 
 <sup>1</sup>
 
-Le département retire la reconnaissance si le laboratoire:
+Le DFJP[^18-1] retire la reconnaissance si le laboratoire:
 
 - a. ne remplit plus les conditions liées à la reconnaissance;
 - b. viole de manière grave ou répétée les charges ou les conditions assorties à la reconnaissance;
 - c. viole de manière grave ou répétée les obligations prévues par la présente ordonnance ou par la LAGH.
 
-<sup>2</sup> En cas d’infractions de peu d’importance, l’office donne un avertissement au laboratoire.
+<sup>2</sup> En cas d’infractions de peu d’importance, fedpol donne un avertissement au laboratoire.
+
+[^18-1]: Nouvelle expression selon le ch. I de l’O du 23 sept. 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 586](https://fedlex.data.admin.ch/eli/oc/2022/586)).
 
 #### Art. 19
 
 **Dénonciation et consultation du dossier**
 
-<sup>1</sup> Le SAS communique à l’office les infractions aux obligations prévues par la présente ordonnance ou par la LAGH qu’il constate dans le cadre de son activité. Il informe immédiatement l’office du retrait ou de la suspension d’une accréditation dans le domaine des profils d’ADN visant à établir le lien de parenté ou l’identité d’une personne.
+<sup>1</sup> Le SAS communique à fedpol les infractions aux obligations prévues par la présente ordonnance ou par la LAGH qu’il constate dans le cadre de son activité. Il informe immédiatement fedpol du retrait ou de la suspension d’une accréditation dans le domaine des profils d’ADN visant à établir la filiation ou l’identité d’une personne.
 
-<sup>2</sup> L’office peut consulter le dossier du SAS concernant l’accréditation d’un laboratoire en vertu de la présente ordonnance.
+<sup>2</sup> fedpol peut consulter le dossier du SAS concernant l’accréditation d’un laboratoire en vertu de la présente ordonnance.
 
 <sup>3</sup> Il dénonce les faits relevant du droit pénal aux autorités compétentes en matière de poursuite pénale.
 
 #### Art. 20
 
-**Emoluments**
+**Émoluments**[^20-1]
 
-<sup>1</sup> La perception des émoluments pour la reconnaissance et la surveillance est régie par l’ordonnance générale du 8 septembre 2004 sur les émoluments[^20-1].
+<sup>1</sup> Les émoluments perçus par le DFJP pour le prononcé d’une décision en lien avec la reconnaissance d’un laboratoire se montent à:
 
-<sup>2</sup> Les émoluments perçus par le SAS pour les tâches accomplies dans le cadre de la présente ordonnance sont régis par l’ordonnance du 10 mars 2006 sur les émoluments du Secrétariat d’Etat à l’économie dans le domaine de l’accréditation[^20-2].
+<table>
+<tr><td></td><td>Francs</td></tr>
+<tr><td>a. pour l’octroi de la reconnaissance</td><td>500.–</td></tr>
+<tr><td>b. pour son rejet</td><td>500.–</td></tr>
+<tr><td>c. pour sa modification</td><td>200.–</td></tr>
+<tr><td>d. pour sa suspension</td><td>200.–</td></tr>
+<tr><td>e. pour son retrait</td><td>500.–</td></tr>
+</table>
 
-[^20-1]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+<sup>2</sup> Le tarif horaire de fedpol relatif à la surveillance des laboratoires ADN se monte à:
+
+<table>
+<tr><td></td><td>Francs</td></tr>
+<tr><td>a. pour le personnel administratif</td><td>97.–</td></tr>
+<tr><td>b. pour les collaborateurs du Domaine Planification, MQ et surveillance des laboratoires ADN</td><td>128.–</td></tr>
+</table>
+
+<sup>3</sup> Les émoluments perçus par le SAS pour les tâches accomplies dans le cadre de la présente ordonnance sont régis par l’ordonnance du 10 mars 2006 sur les émoluments du Secrétariat d’État à l’économie dans le domaine de l’accréditation[^20-2].
+
+<sup>4</sup> Pour le reste, les dispositions de l’ordonnance générale du 8 septembre 2004 sur les émoluments[^20-3] sont applicables.
+
+[^20-1]: Nouvelle teneur selon le ch. I de l’O du 23 sept. 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 586](https://fedlex.data.admin.ch/eli/oc/2022/586)).
 [^20-2]: [RS 946.513.7](https://fedlex.data.admin.ch/eli/cc/2006/177)
+[^20-3]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
 
 ## Chapitre 5 Dispositions finales
 
 #### Art. 21
 
-**Reconnaissance des laboratoires existants**
+[^21-1]
 
-<sup>1</sup> Les laboratoires qui ne sont pas reconnus conformément à l’ordonnance du 3 décembre 2004 sur les profils d’ADN[^21-1] et qui ont déjà établi des profils d’ADN visant à déterminer le lien de parenté ou l’identité d’une personne selon l’ancien droit doivent demander l’accréditation selon l’art. 4 ou 7 auprès de l’office dans un délai de trois mois à compter de l’entrée en vigueur de la présente ordonnance.
-
-<sup>2</sup> Ils peuvent poursuivre leur activité aussi longtemps que leur demande n’a pas été rejetée définitivement. Les laboratoires qui ne présentent pas leur demande dans le délai prescrit doivent suspendre leur activité à l’échéance de ce délai.
-
-<sup>3</sup> Le laboratoire accrédité par le SAS avant le 1<sup>er</sup> avril 2007 conformément à l’ordonnance du 17 juin 1996 sur l’accréditation et la désignation[^21-2] dans le domaine des profils d’ADN visant à déterminer le lien de parenté ou l’identité d’une personne peut exceptionnellement être reconnu selon l’art. 5, let. a, même si le responsable du domaine n’a pas la formation exigée par l’art. 6, al. 1. En cas de changement du responsable du domaine, le nouveau responsable du domaine doit remplir les conditions prévues par l’art. 6, al. 1 et 2.
-
-[^21-1]: [RS 363.1](https://fedlex.data.admin.ch/eli/cc/2004/812)
-[^21-2]: [RS 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
+[^21-1]: Abrogé par le ch. I de l’O du 23 sept. 2022, avec effet au 1<sup>er</sup> déc. 2022 ([RO 2022 586](https://fedlex.data.admin.ch/eli/oc/2022/586)).
 
 #### Art. 22
 
@@ -314,12 +420,86 @@ Le département retire la reconnaissance si le laboratoire:
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> avril 2007.
 
-Annexe
+Annexe 1[^t-1]
 
 (art. 4, al. 2)
 
-## Norme européenne applicable à l’accréditation des laboratoires selon l’art. 4, al. 1, let. a
+## Norme applicable à l’accréditation des laboratoires selon l’art. 4, al. 1, let. a
 
-Norme européenne EN ISO/IEC 17025 (2005) (Exigences générales concernant la compétence des laboratoires d’étalonnages et d’essais)[^annexu1-lvlu1-1]
+[^t-1]: Nouvelle teneur selon le ch. II al. 1 de l’O du 23 sept. 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 586](https://fedlex.data.admin.ch/eli/oc/2022/586)).
 
-[^annexu1-lvlu1-1]: La norme mentionnée peut être obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch.
+SN EN ISO/IEC 17025:2018, Exigences générales concernant la compétence des laboratoires d’étalonnages et d’essais[^annex1-lvlu1-1]
+
+[^annex1-lvlu1-1]: Cette norme peut être consultée gratuitement à l’un des quatre sites de l’Association suisse de normalisation (SNV) mentionnés à l’adresse www.snv.ch. Elle peut aussi être obtenue auprès de la SNV, Sulzerallee 70, 8404 Winterthour.
+
+Annexe 2[^t-2]
+
+(art. 10, al. 3)
+
+## Normes applicables au système de gestion de la qualité lors de l’octroi d’un mandat en sous-traitance à un laboratoire non reconnu en Suisse ou à un laboratoire à l’étranger
+
+[^t-2]: Introduite par le ch. II al. 2 de l’O du 23 sept. 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 586](https://fedlex.data.admin.ch/eli/oc/2022/586)).
+
+- 1\. ISO/IEC 17025:2017, Exigences générales concernant la compétence des laboratoires d’étalonnages et d’essais[^annex2-lvlu1-1]
+- 2\. ISO 15189:2012, Laboratoires de biologie médicale – Exigences concernant la qualité et la compétence[^annex2-lvlu1-2]
+
+[^annex2-lvlu1-1]: Cette norme correspond à la norme SN EN ISO/IEC 17025:2018. Les deux normes peuvent être consultées gratuitement à l’un des quatre sites de l’Association suisse de normalisation (SNV) mentionnés à l’adresse www.snv.ch. Elles peuvent être obtenues contre paiement auprès de la SNV, Sulzerallee 70, 8404 Winterthour.
+[^annex2-lvlu1-2]: Cette norme correspond à la norme SN EN ISO 15189:2013. Les deux normes peuvent être consultées gratuitement à l’un des quatre sites de l’Association suisse de normalisation (SNV) mentionnés à l’adresse www.snv.ch. Elles peuvent être obtenues contre paiement auprès de la SNV, Sulzerallee 70, 8404 Winterthour.
+
+Annexe 3[^t-3]
+
+(art. 16*b*, al. 3)
+
+## Mesures techniques et organisationnelles destinées à garantir la sécurité de l’utilisation des échantillons et des données génétiques
+
+[^t-3]: Introduite par le ch. II al. 2 de l’O du 23 sept. 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 586](https://fedlex.data.admin.ch/eli/oc/2022/586)).
+
+Afin de garantir la sécurité de l’utilisation des échantillons et des données génétiques, le laboratoire doit prendre en particulier les mesures techniques et organisationnelles suivantes:
+
+### 1. Accès aux locaux
+
+1.1 L’accès aux locaux et aux alentours du laboratoire, y compris les bureaux et le local des serveurs, doit être réservé à des personnes autorisées. L’entrée et la sortie des personnes non titulaires d’une autorisation sont surveillées. Le motif d’accès et les heures d’entrée et de sortie sont consignés.
+
+1.2 Les personnes qui ne sont titulaires d’une autorisation d’accès qu’à titre exceptionnel sont informées des règles de conduite et de confidentialité du laboratoire.
+
+1.3 Les droits d’accès aux locaux sont tenus à jour.
+
+### 2. Accès aux données et aux échantillons
+
+2.1 Le laboratoire protège les données d’un accès non autorisé au moyen d’une pseudonymisation et de contrôles d’accès. Le choix de la méthode de pseudonymisation tient compte de la durée de conservation des données génétiques.
+
+2.2 Les droits d’accès aux échantillons et aux données génétiques sont tenus à jour.
+
+### 3. Personnel
+
+Le laboratoire définit, consigne par écrit et communique les responsabilités, les compétences et les relations de travail au sein de l’organisation.
+
+### 4. Informations et formations destinées aux collaborateurs
+
+4.1 Tous les collaborateurs ont facilement accès aux règles concernant la sécurité de l’utilisation des échantillons et des données génétiques.
+
+4.2 Les collaborateurs bénéficient de formations régulières sur la sécurité de l’utilisation des échantillons et des données génétiques et sont informés des changements importants en la matière.
+
+### 5. Documentation de l’activité et traçabilité des modifications
+
+5.1 Les activités du laboratoire ayant trait à un résultat d’analyse, à un rapport d’analyse ou à d’autres informations déterminantes sont enregistrées.
+
+5.2 Ces enregistrements mentionnent l’identité des personnes responsables de l’activité de laboratoire concernée, de l’analyse des échantillons, des données génétiques et des résultats. Ils incluent la date de l’activité de laboratoire concernée et du contrôle.
+
+5.3 Les modifications apportées à ces enregistrements sont traçables; l’identité de la personne qui a effectué ces modifications ainsi que la date de la modification sont indiquées.
+
+5.4 Le laboratoire assure l’étiquetage, la conservation, la protection, la sauvegarde, l’archivage, le délai de conservation et la destruction des enregistrements et des échantillons; il doit également veiller à ce que les enregistrements et échantillons puissent être facilement retrouvés.
+
+### 6. Garantie de la confidentialité des données génétiques
+
+Avant d’utiliser des systèmes visant à traiter des données génétiques, et notamment à les saisir, à les enregistrer, à les conserver ou à les communiquer, le laboratoire évalue le fonctionnement et les faiblesses desdits systèmes.
+
+### 7. Gestion des risques
+
+Le laboratoire identifie, analyse et évalue les risques découlant d’opérations relatives aux échantillons et aux données génétiques. Il applique des mesures pour réduire, pallier et surveiller les risques.
+
+### 8. Incidents de sécurité
+
+8.1 Le laboratoire prend des dispositions techniques et organisationnelles pour déceler, analyser et évaluer les incidents de sécurité. Sur cette base, il définit et met en œuvre les mesures requises.
+
+8.2 Il documente les incidents de sécurité.

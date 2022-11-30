@@ -4,11 +4,11 @@ title: "Ordinanza del 14 febbraio 2007 sull'allestimento di profili del DNA in m
 short: ODCA
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/134"
 language: it
-version: 2007-04-01
+version: 2022-12-01
 adopted: 2007-02-14
 in_force: 2007-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/134/20070401/it/xml/fedlex-data-admin-ch-eli-cc-2007-134-20070401-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/134/20070401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/134/20221201/it/xml/fedlex-data-admin-ch-eli-cc-2007-134-20221201-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/134/20221201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,15 +17,16 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/134/20070401/it"
 
 (ODCA)
 
-del 14 febbraio 2007 (Stato 1° aprile 2007)
+del 14 febbraio 2007 (Stato 1° dicembre 2022)
 
 Il Consiglio federale svizzero,
 
-visto l’articolo 8 capoverso 4 della legge federale dell’8 ottobre 2004[^ingress-1] sugli esami genetici sull’essere umano (LEGU),
+visto l’articolo 53 capoverso 3 della legge federale del 15 giugno 2018[^ingress-1] concernente gli esami genetici sull’essere umano (LEGU),[^ingress-2]
 
 ordina:
 
 [^ingress-1]: [RS 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537)
+[^ingress-2]: Nuovo testo giusta il n. I dell’O del 23 set. 2022, in vigore dal 1° dic. 2022 ([RU 2022 586](https://fedlex.data.admin.ch/eli/oc/2022/586)).
 
 ## Capitolo 1: Disposizioni generali
 
@@ -35,17 +36,22 @@ ordina:
 
 La presente ordinanza disciplina:
 
-- a. le condizioni e la procedura di riconoscimento dei laboratori che allestiscono profili del DNA volti a determinare la filiazione o l’identità di una persona giusta gli articoli 31–34 LEGU;
+- a.[^1-1] le condizioni e la procedura di riconoscimento dei laboratori che allestiscono profili del DNA volti a determinare la filiazione o l’identità di una persona giusta gli articoli 47–53 LEGU;
 - b. gli obblighi che i laboratori devono rispettare per mantenere il loro riconoscimento;
-- c. la vigilanza.
+- c.[^1-2] la vigilanza sui laboratori riconosciuti.
+
+[^1-1]: Nuovo testo giusta il n. I dell’O del 23 set. 2022, in vigore dal 1° dic. 2022 ([RU 2022 586](https://fedlex.data.admin.ch/eli/oc/2022/586)).
+[^1-2]: Nuovo testo giusta il n. I dell’O del 23 set. 2022, in vigore dal 1° dic. 2022 ([RU 2022 586](https://fedlex.data.admin.ch/eli/oc/2022/586)).
 
 #### Art. 2
 
-**Competenze**
+**Competenze**[^2-1]
 
-<sup>1</sup> Il Dipartimento federale di giustizia e polizia (Dipartimento) è competente per il riconoscimento dei laboratori e per la revoca dello stesso.
+<sup>1</sup> Il Dipartimento federale di giustizia e polizia (DFGP) è competente per il riconoscimento dei laboratori e per la revoca dello stesso.
 
-<sup>2</sup> I restanti compiti previsti dalla presente ordinanza sono di competenza dell’Ufficio federale di polizia (Ufficio federale).
+<sup>2</sup> I restanti compiti previsti dalla presente ordinanza sono di competenza dell’Ufficio federale di polizia (fedpol).
+
+[^2-1]: Nuovo testo giusta il n. I dell’O del 23 set. 2022, in vigore dal 1° dic. 2022 ([RU 2022 586](https://fedlex.data.admin.ch/eli/oc/2022/586)).
 
 ## Capitolo 2: Riconoscimento
 
@@ -53,9 +59,12 @@ La presente ordinanza disciplina:
 
 #### Art. 3
 
-I laboratori riconosciuti dal Dipartimento come laboratori di genetica forense in base all’ordinanza del 3 dicembre 2004[^3-1] sui profili del DNA sono considerati laboratori riconosciuti dalla Confederazione giusta l’articolo 8 capoverso 4 LEGU.
+[^3-1]
 
-[^3-1]: [RS 363.1](https://fedlex.data.admin.ch/eli/cc/2004/812)
+I laboratori riconosciuti dal DFGP come laboratori di genetica forense in base all’articolo 8 capoverso 1 della legge del 20 giugno 2003[^3-2] sui profili del DNA sono considerati laboratori riconosciuti dalla Confederazione giusta l’articolo 53 capoverso 1 LEGU.
+
+[^3-1]: Nuovo testo giusta il n. I dell’O del 23 set. 2022, in vigore dal 1° dic. 2022 ([RU 2022 586](https://fedlex.data.admin.ch/eli/oc/2022/586)).
+[^3-2]: [RS 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
 
 ### Sezione 2: Altri laboratori
 
@@ -70,13 +79,15 @@ I laboratori che vogliono allestire profili del DNA volti a determinare la filia
 - a. sono accreditati dal Servizio d’accreditamento svizzero (SAS) nel settore dei profili del DNA volti a determinare la filiazione o l’identità di una persona per uno dei campi d’applicazione di cui all’articolo 5, conformemente all’ordinanza del 17 giugno 1996[^4-1] sull’accreditamento e sulla designazione;
 - b. il responsabile del settore è in possesso del titolo richiesto giusta l’articolo 6 ed esercita la gestione effettiva e responsabile nonché la vigilanza del suo settore presso la sede del laboratorio.
 
-<sup>2</sup> La norma europea determinante per l’accreditamento giusta il capoverso 1 lettera a è stabilita nell’allegato. Il Dipartimento aggiorna l’allegato a seconda degli sviluppi internazionali e dei progressi della tecnica.
+<sup>2</sup> La norma determinante per l’accreditamento giusta il capoverso 1 lettera a è stabilita nell’allegato 1. Il DFGP aggiorna l’allegato a seconda degli sviluppi internazionali e dei progressi della tecnica.[^4-2]
 
 <sup>3</sup> Il riconoscimento è accordato per il campo d’applicazione corrispondente a quello dell’accreditamento.
 
-<sup>4</sup> La domanda di riconoscimento è presentata all’Ufficio federale.
+<sup>4</sup> La domanda di riconoscimento è presentata a fedpol[^4-3].
 
 [^4-1]: [RS 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
+[^4-2]: Nuovo testo giusta il n. I dell’O del 23 set. 2022, in vigore dal 1° dic. 2022 ([RU 2022 586](https://fedlex.data.admin.ch/eli/oc/2022/586)).
+[^4-3]: Nuova espr. giusta il n. I dell’O del 23 set. 2022, in vigore dal 1° dic. 2022 ([RU 2022 586](https://fedlex.data.admin.ch/eli/oc/2022/586)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 #### Art. 5
 
@@ -85,7 +96,9 @@ I laboratori che vogliono allestire profili del DNA volti a determinare la filia
 I laboratori possono essere accreditati in uno dei campi d’applicazione seguenti:
 
 - a. allestimento di profili del DNA in base a campioni prelevati direttamente sulle persone interessate; o
-- b. allestimento di profili del DNA secondo la lettera a nonché in base a tracce e campioni provenienti da cadaveri.
+- b.[^5-1] allestimento di profili del DNA secondo la lettera a nonché in base a campioni prelevati da cadaveri.
+
+[^5-1]: Nuovo testo giusta il n. I dell’O del 23 set. 2022, in vigore dal 1° dic. 2022 ([RU 2022 586](https://fedlex.data.admin.ch/eli/oc/2022/586)).
 
 #### Art. 6
 
@@ -113,7 +126,7 @@ Il responsabile del settore di un laboratorio di cui si chiede l’accreditament
 
 **Riconoscimento provvisorio**
 
-<sup>1</sup> I laboratori che non sono accreditati giusta l’articolo 4 capoverso 1 lettera a possono presentare all’Ufficio federale una domanda di riconoscimento provvisorio, nella misura in cui presentino contemporaneamente al SAS la domanda di accreditamento.
+<sup>1</sup> I laboratori che non sono accreditati giusta l’articolo 4 capoverso 1 lettera a possono presentare a fedpol una domanda di riconoscimento provvisorio, nella misura in cui presentino contemporaneamente al SAS la domanda di accreditamento.
 
 <sup>2</sup>
 
@@ -121,14 +134,17 @@ Il riconoscimento provvisorio è accordato se:
 
 - a. il responsabile del settore soddisfa le condizioni di cui all’articolo 6;
 - b. il laboratorio dispone dei locali e delle apparecchiature necessarie;
-- c. esiste un piano adeguato per la protezione e la sicurezza dei dati; e
+- c.[^7-1] esiste un piano secondo l’articolo 16*b* capoverso 3; e
 - d. nel corso degli ultimi dodici mesi il laboratorio ha partecipato con successo ad almeno una prova interlaboratorio nell’ambito del campo d’applicazione dell’accreditamento richiesto.
 
-<sup>3</sup> L’Ufficio federale può incaricare il SAS di controllare l’adempimento delle condizioni.
+<sup>3</sup> Fedpol può incaricare il SAS di controllare l’adempimento delle condizioni.
 
-<sup>4</sup> L’Incaricato federale della protezione dei dati e della trasparenza dà il suo parere sul piano per la protezione e la sicurezza dei dati.
+<sup>4</sup> ... [^7-2]
 
-<sup>5</sup> Il riconoscimento provvisorio è vincolato all’onere per i laboratori di disporre del necessario accreditamento del SAS, al più tardi entro 18 mesi dalla presentazione della domanda di riconoscimento provvisorio. Su richiesta del SAS, l’Ufficio federale può prorogare tale termine di sei mesi al massimo.
+<sup>5</sup> Il riconoscimento provvisorio è vincolato all’onere per i laboratori di disporre del necessario accreditamento del SAS, al più tardi entro 18 mesi dalla presentazione della domanda di riconoscimento provvisorio. Su richiesta del SAS, fedpol può prorogare tale termine di sei mesi al massimo.
+
+[^7-1]: Nuovo testo giusta il n. I dell’O del 23 set. 2022, in vigore dal 1° dic. 2022 ([RU 2022 586](https://fedlex.data.admin.ch/eli/oc/2022/586)).
+[^7-2]: Abrogato dal n. I dell’O del 23 set. 2022, con effetto dal 1° dic. 2022 ([RU 2022 586](https://fedlex.data.admin.ch/eli/oc/2022/586)).
 
 #### Art. 8
 
@@ -142,74 +158,113 @@ Il riconoscimento e il riconoscimento provvisorio possono essere vincolati a con
 
 #### Art. 9
 
-**Prove interlaboratorio**
+**Prove interlaboratorio**[^9-1]
 
 <sup>1</sup> Due volte l’anno i laboratori riconosciuti partecipano con successo a una prova interlaboratorio nell’ambito del campo d’applicazione del loro riconoscimento.
 
-<sup>2</sup> Presentano all’Ufficio federale i risultati delle prove interlaboratorio entro la fine di febbraio dell’anno successivo.
+<sup>2</sup> Trasmettono immediatamente a fedpol il risultato della prova interlaboratorio.
+
+<sup>3</sup> Se la prova interlaboratorio non è stata superata, il laboratorio allestisce un rapporto all’attenzione di fedpol entro un termine congruo. Il rapporto deve contenere un’analisi delle lacune e indicare le misure che saranno adottate per colmarle ed entro quale termine.
+
+[^9-1]: Nuovo testo giusta il n. I dell’O del 23 set. 2022, in vigore dal 1° dic. 2022 ([RU 2022 586](https://fedlex.data.admin.ch/eli/oc/2022/586)).
 
 #### Art. 10
 
-**Delega di incarichi**
+**Delega di incarichi**[^10-1]
 
-<sup>1</sup> Un laboratorio riconosciuto può delegare l’allestimento di profili del DNA unicamente a un altro laboratorio riconosciuto secondo la presente ordinanza e unicamente con il consenso del mandante.
+<sup>1</sup> Un laboratorio può delegare l’allestimento di profili del DNA unicamente a un altro laboratorio riconosciuto; deve ottenere previamente il consenso del mandante.
 
-<sup>2</sup> Se nessun laboratorio riconosciuto dispone delle conoscenze necessarie per effettuare un’analisi speciale, il laboratorio riconosciuto può, in via eccezionale, delegare tale analisi a un laboratorio non riconosciuto all’estero.
+<sup>2</sup> Se un laboratorio non dispone delle conoscenze o delle apparecchiature tecniche necessarie per effettuare un determinato esame genetico‑molecolare, può affidare il mandato in subappalto a un altro laboratorio riconosciuto in Svizzera.
+
+<sup>3</sup> Se nessun laboratorio riconosciuto dispone delle conoscenze e delle apparecchiature tecniche necessarie per effettuare un determinato esame genetico‑molecolare, il mandato può essere affidato in subappalto a un laboratorio non riconosciuto in Svizzera o a un laboratorio all’estero. Il laboratorio subappaltante deve pseudonimizzare il mandato ed essere in grado di fornire la prova che il laboratorio incaricato dispone di un sistema di gestione della qualità che adempie i requisiti di una delle norme di cui all’allegato 2. Provvede affinché il mandato venga eseguito conformemente allo stato della scienza e della tecnica.
+
+<sup>4</sup> Se un laboratorio affida un mandato in subappalto giusta il capoverso 2 o 3, deve ottenere previamente il consenso del mandante.
+
+[^10-1]: Nuovo testo giusta il n. I dell’O del 23 set. 2022, in vigore dal 1° dic. 2022 ([RU 2022 586](https://fedlex.data.admin.ch/eli/oc/2022/586)).
 
 #### Art. 11
 
-**Obbligo di comunicazione**
+**Obbligo di comunicazione**[^11-1]
 
-<sup>1</sup> Entro la fine di febbraio i laboratori comunicano all’Ufficio federale il numero delle perizie volte a determinare la filiazione e l’identità di una persona allestite l’anno precedente.
+<sup>1</sup> I laboratori presentano spontaneamente a fedpol la conferma del rinnovo dell’accreditamento.
 
-<sup>2</sup>
+<sup>2</sup> I laboratori comunicano immediatamente a fedpol i cambiamenti del personale concernenti la direzione del settore.
 
-Nelle comunicazioni indicano separatamente le perizie allestite sulla base:
-
-- a. degli articoli 32 e 33 LEGU;
-- b. dell’articolo 34 capoversi 1–3 LEGU;
-- c. dell’articolo 34 capoverso 4 LEGU;
-- d. dell’articolo 10 capoverso 2.
-
-<sup>3</sup> I laboratori presentano spontaneamente all’Ufficio federale la conferma del rinnovo dell’accreditamento.
-
-<sup>4</sup> I laboratori comunicano immediatamente all’Ufficio federale i cambiamenti concernenti il responsabile del settore.
+[^11-1]: Nuovo testo giusta il n. I dell’O del 23 set. 2022, in vigore dal 1° dic. 2022 ([RU 2022 586](https://fedlex.data.admin.ch/eli/oc/2022/586)).
 
 ### Sezione 2: Obblighi in relazione all’allestimento di profili del DNA
 
 #### Art. 12
 
-**Esame dell’identità delle persone interessate**
+**Metodi d’analisi per determinare il rapporto di filiazione**[^12-1]
 
-<sup>1</sup> Sul mandato di allestimento del profilo del DNA figurano il cognome, il nome, la data di nascita, l’indirizzo, il luogo d’origine o la cittadinanza delle persone interessate.
+<sup>1</sup> Il rapporto di filiazione deve essere ricercato basandosi sullo stato della scienza e della tecnica. Possono essere utilizzati unicamente marcatori del DNA convalidati e pubblicati. Per il resto, si applicano le direttive della Società svizzera di medicina legale del 7 giugno 2019[^12-2] relative all’esecuzione di esami genetici di filiazione.
 
-<sup>2</sup> In occasione del prelievo del campione, la persona interessata certifica la propria identità per mezzo di un documento di legittimazione ufficiale valido corredato di una fotografia. Tale documento deve essere fotocopiato. I laboratori possono rinunciare alla produzione di un documento di legittimazione ufficiale di un neonato o di un bambino in tenera età.
+<sup>2</sup> La determinazione della filiazione di un bambino avviene tramite il confronto del profilo del DNA del bambino con quelli della presunta madre e del presunto padre.
 
-<sup>3</sup> In occasione del prelievo del campione, la persona interessata è fotografata. La fotografia è firmata da quest’ultima o dal suo rappresentante legale.
+<sup>3</sup> In singoli casi debitamente motivati, la determinazione della filiazione può avvenire sulla base del confronto del profilo del DNA del bambino con quello della presunta madre o del presunto padre.
 
-<sup>4</sup> L’esame dell’identità va documentato e il relativo documento è allegato alla perizia giusta l’articolo 16.
+[^12-1]: Nuovo testo giusta il n. I dell’O del 23 set. 2022, in vigore dal 1° dic. 2022 ([RU 2022 586](https://fedlex.data.admin.ch/eli/oc/2022/586)).
+[^12-2]: Il testo delle direttive può essere consultato all’indirizzo www.sgrm.ch &gt; Forensische Genetik &gt; Über die Sektion &gt; Dokumente.
 
-<sup>5</sup> Se il prelievo del campione è effettuato da un medico incaricato da un laboratorio, quest’ultimo è responsabile dell’accurata istruzione del medico sull’esame dell’identità, sul prelievo e sulla conservazione del campione.
+#### Art. 12a
+
+**Esame dell’identità delle persone interessate**[^12a-1]
+
+<sup>1</sup> Sul mandato di allestimento del profilo del DNA occorre indicare il cognome, il nome, la data di nascita, l’indirizzo, il luogo d’origine o la cittadinanza delle persone interessate.
+
+<sup>2</sup> Prima del prelievo del campione, occorre accertare l’identità delle persone interessate per mezzo di un documento di legittimazione ufficiale valido corredato di una fotografia. Tale documento deve essere fotocopiato. I laboratori possono rinunciare alla produzione di un documento di legittimazione ufficiale di bambini di età inferiore ai quattro anni.
+
+<sup>3</sup> Prima del prelievo del campione, la persona interessata è fotografata. La fotografia è firmata da quest’ultima o dal suo rappresentante legale.
+
+<sup>4</sup> L’esame dell’identità deve essere documentato. La documentazione deve essere allegata alla perizia giusta l’articolo 16.
+
+<sup>5</sup> La persona che effettua l’esame dell’identità e il prelievo del campione conferma l’esattezza dei dati con la sua firma.
+
+<sup>6</sup> Se il prelievo del campione è affidato a un altro laboratorio idoneo, a un medico o a un’altra persona idonea, il laboratorio committente è responsabile dell’istruzione del personale competente sull’esame dell’identità, sul prelievo e sulla conservazione del campione.
+
+[^12a-1]: Introdotto dal n. I dell’O del 23 set. 2022, in vigore dal 1° dic. 2022 ([RU 2022 586](https://fedlex.data.admin.ch/eli/oc/2022/586)).
+
+#### Art. 12b
+
+**Stretti congiunti**[^12b-1]
+
+<sup>1</sup>
+
+Sono considerati stretti congiunti ai sensi dell’articolo 48 capoverso 1 lettera b LEGU:
+
+- a. il coniuge, il partner registrato o il convivente;
+- b. i figli, i genitori, i fratelli e le sorelle.
+
+<sup>2</sup> La persona che richiede la determinazione del rapporto di filiazione deve comunicare per scritto al laboratorio che le persone di cui al capoverso 1 hanno dato il loro consenso.
+
+[^12b-1]: Introdotto dal n. I dell’O del 23 set. 2022, in vigore dal 1° dic. 2022 ([RU 2022 586](https://fedlex.data.admin.ch/eli/oc/2022/586)).
+
+#### Art. 12c
+
+**Prelievo del campione a titolo cautelare**[^12c-1]
+
+<sup>1</sup> Se non è possibile ottenere tempestivamente il consenso degli stretti congiunti di una persona deceduta, il laboratorio può prelevare un campione dal cadavere se il giudice competente lo ha ordinato.
+
+<sup>2</sup> Il laboratorio mette al sicuro il campione fino all’ottenimento del consenso da parte degli stretti congiunti o alla decisione del giudice in merito all’ammissibilità dell’allestimento del profilo del DNA.
+
+[^12c-1]: Introdotto dal n. I dell’O del 23 set. 2022, in vigore dal 1° dic. 2022 ([RU 2022 586](https://fedlex.data.admin.ch/eli/oc/2022/586)).
 
 #### Art. 13
 
-**Campione**
-
-<sup>1</sup> Ogni campione è contrassegnato durevolmente in modo inconfondibile.
-
-<sup>2</sup> I campioni provenienti da persone che hanno subito trapianti di midollo osseo e provenienti da gemelli sono espressamente caratterizzati.
-
-<sup>3</sup> La persona che effettua l’esame dell’identità e il prelievo del campione conferma l’esattezza dei dati con la sua firma.
-
-<sup>4</sup> Il campione è conservato e trattato in modo tale da escludere qualsiasi contaminazione, scambio o perdita.
-
-#### Art. 14
-
-**Esecuzione dell’analisi**
+**Trattamento dei campioni**[^13-1]
 
 <sup>1</sup> Il campione è sottoposto a due analisi indipendenti l’una dall’altra.
 
-<sup>2</sup> I marcatori impiegati devono adempiere i criteri di trasmissibilità e di stabilità riconosciuti scientificamente.
+<sup>2</sup> I campioni provenienti da persone che hanno subito trapianti di cellule staminali del sangue e i campioni provenienti da gemelli monozigoti sono espressamente caratterizzati.
+
+[^13-1]: Nuovo testo giusta il n. I dell’O del 23 set. 2022, in vigore dal 1° dic. 2022 ([RU 2022 586](https://fedlex.data.admin.ch/eli/oc/2022/586)).
+
+#### Art. 14
+
+[^14-1]
+
+[^14-1]: Abrogato dal n. I dell’O del 23 set. 2022, con effetto dal 1° dic. 2022 ([RU 2022 586](https://fedlex.data.admin.ch/eli/oc/2022/586)).
 
 #### Art. 15
 
@@ -238,17 +293,52 @@ Nel rapporto d’analisi figurano almeno le seguenti indicazioni:
 
 <sup>3</sup> La Commissione di esperti per gli esami genetici sull’essere umano può formulare raccomandazioni per l’allestimento di perizie.
 
+#### Art. 16a
+
+**Conservazione dei campioni al di fuori di procedure ufficiali**[^16a-1]
+
+Al di fuori di una procedura ufficiale, il laboratorio distrugge il campione non prima di tre mesi, ma al più tardi dodici mesi dopo l’invio della perizia al mandante, sempreché quest’ultimo non chieda di prorogare la data di conservazione.
+
+[^16a-1]: Introdotto dal n. I dell’O del 23 set. 2022, in vigore dal 1° dic. 2022 ([RU 2022 586](https://fedlex.data.admin.ch/eli/oc/2022/586)).
+
+#### Art. 16b
+
+**Protezione dei campioni e dei dati genetici**[^16b-1]
+
+<sup>1</sup> Chi tratta dati genetici deve assicurare che sia garantita la protezione dei dati in particolare dalla comunicazione, dalla modifica, dalla cancellazione, dalla distruzione o dalla produzione di copie illecita o involontaria, nonché dalla perdita.
+
+<sup>2</sup>
+
+La protezione deve essere garantita mediante misure tecniche e organizzative adeguate, in particolare mediante:
+
+- a. la limitazione del trattamento dei dati genetici alle persone che necessitano dei dati per l’adempimento dei propri compiti;
+- b. la verbalizzazione di tutti i processi di trattamento determinanti per garantire la tracciabilità;
+- c. la trasmissione sicura di dati genetici;
+- d. la pseudonimizzazione di dati genetici se sono trasmessi a un Paese la cui legislazione non garantisce una protezione adeguata.
+
+<sup>3</sup> Le misure vanno determinate e aggiornate sulla base di un’analisi dei rischi e tenendo conto dello stato della tecnica. Vanno stabilite all’interno di un piano secondo l’allegato 3.
+
+<sup>4</sup> Se i dati di cui al capoverso 2 lettera d vengono pseudonimizzati e trasmessi a un Paese la cui legislazione non garantisce una protezione adeguata, la persona interessata deve esserne informata nell’ambito dell’informazione.
+
+<sup>5</sup> Alle operazioni relative ai campioni si applicano per analogia i capoversi 1–4.
+
+[^16b-1]: Introdotto dal n. I dell’O del 23 set. 2022, in vigore dal 1° dic. 2022 ([RU 2022 586](https://fedlex.data.admin.ch/eli/oc/2022/586)).
+
 ## Capitolo 4: Vigilanza
 
 #### Art. 17
 
-**Ispezione**
+**Vigilanza**[^17-1]
 
-<sup>1</sup> L’Ufficio federale può effettuare o far effettuare ispezioni con o senza preavviso per verificare se sono rispettate le disposizioni della LEGU e della presente ordinanza.
+<sup>1</sup> Fedpol verifica se i laboratori rispettano le disposizioni della presente ordinanza.
 
-<sup>2</sup> L’Ufficio federale può conferire l’incarico di effettuare ispezioni alla Commissione di esperti per gli esami genetici sull’essere umano, ad altri esperti qualificati o al SAS.
+<sup>2</sup> Può effettuare o far effettuare ispezioni in ogni momento con o senza preavviso.
 
-<sup>3</sup> I laboratori comunicano alle persone incaricate dell’ispezione tutte le informazioni necessarie ai fini della stessa e consentono loro l’accesso ai locali e alle apparecchiature impiegati per l’allestimento di profili del DNA volti a determinare la filiazione o l’identità di una persona. Le persone incaricate dell’ispezione hanno il diritto di consultare gli atti.
+<sup>3</sup> Per le ispezioni può ricorrere a esperti esterni o al SAS oppure conferire loro il pertinente incarico.
+
+<sup>4</sup> I laboratori devono consentire a fedpol, agli esperti e al SAS l’accesso ai loro locali e alle loro apparecchiature, la consultazione di tutti i documenti e i sistemi d’informazione, nonché fornire tutte le informazioni necessarie per le ispezioni o l’attività di vigilanza.
+
+[^17-1]: Nuovo testo giusta il n. I dell’O del 23 set. 2022, in vigore dal 1° dic. 2022 ([RU 2022 586](https://fedlex.data.admin.ch/eli/oc/2022/586)).
 
 #### Art. 18
 
@@ -256,49 +346,64 @@ Nel rapporto d’analisi figurano almeno le seguenti indicazioni:
 
 <sup>1</sup>
 
-Il Dipartimento revoca il riconoscimento se il laboratorio:
+Il DFGP[^18-1] revoca il riconoscimento se il laboratorio:
 
 - a. non adempie più le condizioni per il riconoscimento;
 - b. viola gravemente o reiteratamente gli oneri e le condizioni legati al riconoscimento;
 - c. viola gravemente o reiteratamente gli obblighi previsti dalla presente ordinanza o dalla LEGU.
 
-<sup>2</sup> In caso di violazioni di lieve entità l’Ufficio federale ammonisce il laboratorio.
+<sup>2</sup> In caso di violazioni di lieve entità fedpol ammonisce il laboratorio.
+
+[^18-1]: Nuova espr. giusta il n. I dell’O del 23 set. 2022, in vigore dal 1° dic. 2022 ([RU 2022 586](https://fedlex.data.admin.ch/eli/oc/2022/586)).
 
 #### Art. 19
 
 **Obbligo di comunicazione da parte delle autorità e consultazione degli atti**
 
-<sup>1</sup> Il SAS comunica all’Ufficio federale le violazioni contro gli obblighi previsti dalla presente ordinanza o dalla LEGU constatate nell’ambito della sua attività di servizio d’accreditamento. Informa senza indugio l’Ufficio federale sulla revoca o sulla sospensione di un accreditamento nel settore dei profili del DNA volti a determinare la filiazione o l’identità di una persona.
+<sup>1</sup> Il SAS comunica a fedpol le violazioni contro gli obblighi previsti dalla presente ordinanza o dalla LEGU constatate nell’ambito della sua attività di servizio d’accreditamento. Informa senza indugio fedpol sulla revoca o sulla sospensione di un accreditamento nel settore dei profili del DNA volti a determinare la filiazione o l’identità di una persona.
 
-<sup>2</sup> L’Ufficio federale può consultare l’incarto del SAS concernente l’accreditamento di un laboratorio secondo la presente ordinanza.
+<sup>2</sup> Fedpol può consultare l’incarto del SAS concernente l’accreditamento di un laboratorio secondo la presente ordinanza.
 
 <sup>3</sup> Comunica all’autorità competente per il perseguimento penale i fatti penalmente rilevanti.
 
 #### Art. 20
 
-**Emolumenti**
+**Emolumenti**[^20-1]
 
-<sup>1</sup> Gli emolumenti per il riconoscimento e la vigilanza sono retti dall’ordinanza generale dell’8 settembre 2004[^20-1] sugli emolumenti.
+<sup>1</sup> Gli emolumenti riscossi dal DFGP per l’emanazione di decisioni relative al riconoscimento dei laboratori ammontano a:
 
-<sup>2</sup> Gli emolumenti per le attività del SAS svolte nel quadro della presente ordinanza sono retti dall’ordinanza del 10 marzo 2006[^20-2] sugli emolumenti della Segreteria di Stato dell’economia nel campo dell’accreditamento.
+<table>
+<tr><td></td><td>franchi</td></tr>
+<tr><td>a. per il rilascio del riconoscimento</td><td>500.–</td></tr>
+<tr><td>b. per il suo rifiuto</td><td>500.–</td></tr>
+<tr><td>c. per la sua modifica</td><td>200.–</td></tr>
+<tr><td>d. per la sua sospensione</td><td>200.–</td></tr>
+<tr><td>e. per la sua revoca</td><td>500.–</td></tr>
+</table>
 
-[^20-1]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+<sup>2</sup> La tariffa oraria di fedpol per la vigilanza sui laboratori di analisi del DNA ammonta a:
+
+<table>
+<tr><td></td><td>franchi</td></tr>
+<tr><td>a. per il personale del settore amministrativo</td><td>97.–</td></tr>
+<tr><td>b. per il personale del settore Pianificazione, gestione della qualità e vigilanza sui laboratori di analisi del DNA</td><td>128.–</td></tr>
+</table>
+
+<sup>3</sup> Gli emolumenti per le attività del SAS svolte nel quadro della presente ordinanza sono retti dall’ordinanza del 10 marzo 2006[^20-2] sugli emolumenti della Segreteria di Stato dell’economia nel campo dell’accreditamento.
+
+<sup>4</sup> Per il resto si applica l’ordinanza generale dell’8 settembre 2004[^20-3] sugli emolumenti.
+
+[^20-1]: Nuovo testo giusta il n. I dell’O del 23 set. 2022, in vigore dal 1° dic. 2022 ([RU 2022 586](https://fedlex.data.admin.ch/eli/oc/2022/586)).
 [^20-2]: [RS 946.513.7](https://fedlex.data.admin.ch/eli/cc/2006/177)
+[^20-3]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
 
 ## Capitolo 5: Disposizioni finali
 
 #### Art. 21
 
-**Riconoscimento dei laboratori esistenti**
+[^21-1]
 
-<sup>1</sup> I laboratori non riconosciuti ai sensi dell’ordinanza sui profili del DNA del 3 dicembre 2004[^21-1] che hanno già allestito profili del DNA volti a determinare la filiazione o l’identità di una persona secondo il diritto previgente devono presentare all’Ufficio federale la domanda di riconoscimento giusta l’articolo 4 o giusta l’articolo 7 entro tre mesi dall’entrata in vigore della presente ordinanza.
-
-<sup>2</sup> I laboratori possono continuare a esercitare la loro attività finché la loro domanda non è stata definitivamente respinta. I laboratori che non presentano la domanda entro i termini prescritti cessano l’attività dopo la scadenza del termine.
-
-<sup>3</sup> I laboratori accreditati dal SAS prima del 1° aprile 2007 ai sensi dell’ordinanza del 17 giugno 1996[^21-2] sull’accreditamento e sulla designazione nel settore dei profili del DNA volti a determinare la filiazione o l’identità di una persona possono, in via eccezionale, essere riconosciuti nel campo d’applicazione giusta l’articolo 5 lettera a anche se il responsabile del settore non dispone della formazione richiesta giusta l’articolo 6 capoverso 1. Qualora fosse nominato un nuovo responsabile del settore, quest’ultimo deve soddisfare le condizioni di cui all’articolo 6 capoversi 1 e 2.
-
-[^21-1]: [RS 363.1](https://fedlex.data.admin.ch/eli/cc/2004/812)
-[^21-2]: [RS 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
+[^21-1]: Abrogato dal n. I dell’O del 23 set. 2022, con effetto dal 1° dic. 2022 ([RU 2022 586](https://fedlex.data.admin.ch/eli/oc/2022/586)).
 
 #### Art. 22
 
@@ -312,12 +417,86 @@ Il Dipartimento revoca il riconoscimento se il laboratorio:
 
 La presente ordinanza entra in vigore il 1° aprile 2007.
 
-Allegato
+Allegato 1[^t-1]
 
 (art. 4 cpv. 2)
 
-## Norma europea determinante per l’accreditamento dei laboratori giusta l’articolo 4 capoverso 1 lettera a
+## Norma determinante per l’accreditamento dei laboratori giusta l’articolo 4 capoverso 1 lettera a
 
-Norma europea EN ISO/IEC 17025 (2005) (Requisiti generali per la competenza dei laboratori di prova e di taratura)[^annexu1-lvlu1-1]
+[^t-1]: Nuovo testo giusta il n. II cpv. 1 dell’O del 23 set. 2022, in vigore dal 1° dic. 2022 ([RU 2022 586](https://fedlex.data.admin.ch/eli/oc/2022/586)).
 
-[^annexu1-lvlu1-1]: La norma può essere ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+SN EN ISO/IEC 17025:2018, Requisiti generali per la competenza dei laboratori di prova e taratura[^annex1-lvlu1-1]
+
+[^annex1-lvlu1-1]: Il testo di questa norma può essere consultato gratuitamente presso una delle quattro sedi dell’Associazione svizzera di normalizzazione (SNV). Può essere ottenuto a pagamento presso la SNV, Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+
+Allegato 2[^t-2]
+
+(art. 10 cpv. 3)
+
+## Norme applicabili al sistema di gestione della qualità determinanti ai fini dell’affidamento di un mandato in subappalto a un laboratorio non riconosciuto in Svizzera o a un laboratorio all’estero
+
+[^t-2]: Introdotto dal n. II cpv. 2 dell’O del 23 set. 2022, in vigore dal 1° dic. 2022 ([RU 2022 586](https://fedlex.data.admin.ch/eli/oc/2022/586)).
+
+- 1\. ISO/IEC 17025:2017, Requisiti generali per la competenza dei laboratori di prova e taratura[^annex2-lvlu1-1]
+- 2\. ISO 15189:2012, Laboratori medici – Requisiti riguardanti la qualità e la competenza[^annex2-lvlu1-2]
+
+[^annex2-lvlu1-1]: Questa norma corrisponde alla norma SN EN ISO/IEC 17025:2018. Entrambe le norme possono essere consultate gratuitamente presso una delle quattro sedi dell’Associazione svizzera di normalizzazione (SNV). Possono essere ottenute a pagamento presso la SNV, Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^annex2-lvlu1-2]: Questa norma corrisponde alla norma SN EN ISO 15189:2013. Entrambe le norme possono essere consultate gratuitamente presso una delle quattro sedi dell’Associazione svizzera di normalizzazione (SNV). Possono essere ottenute a pagamento presso la SNV, Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+
+Allegato 3[^t-3]
+
+(art. 16*b* cpv. 3)
+
+## Misure tecniche e organizzative per garantire operazioni sicure relative ai campioni e ai dati genetici
+
+[^t-3]: Introdotto dal n. II cpv. 2 dell’O del 23 set. 2022, in vigore dal 1° dic. 2022 ([RU 2022 586](https://fedlex.data.admin.ch/eli/oc/2022/586)).
+
+Per garantire operazioni sicure relative ai campioni e ai dati genetici, il laboratorio deve adottare in particolare le seguenti misure tecniche e organizzative:
+
+### 1. Accesso ai locali
+
+1.1 L’accesso ai locali e all’area circostante il laboratorio, compresi i locali degli uffici e dei server, è riservato alle persone autorizzate. Le persone che entrano o escono dal laboratorio senza autorizzazione sono sorvegliate. Il motivo dell’accesso e il momento dell’entrata o dell’uscita sono documentati.
+
+1.2 Le persone autorizzate all’accesso soltanto in via eccezionale sono informate in merito alle regole di comportamento e di riservatezza del laboratorio.
+
+1.3 Le autorizzazioni di accesso ai locali sono mantenute costantemente aggiornate.
+
+### 2. Accesso ai dati e ai campioni
+
+2.1 Il laboratorio protegge i dati dall’accesso non autorizzato mediante la pseudonimizzazione e il controllo degli accessi. Nella scelta della pseudonimizzazione si tiene conto della durata di conservazione dei dati genetici.
+
+2.2 Le autorizzazioni di accesso ai campioni e ai dati genetici sono mantenute costantemente aggiornate.
+
+### 3. Personale
+
+Il laboratorio stabilisce, documenta e comunica le responsabilità, le competenze e i rapporti di lavoro all’interno dell’organizzazione.
+
+### 4. Informazione e formazione dei collaboratori
+
+4.1 Le disposizioni sulle operazioni sicure relative ai campioni e ai dati genetici sono facilmente accessibili a tutti i collaboratori.
+
+4.2 I collaboratori ricevono una formazione regolare in merito alle operazioni sicure relative ai campioni e ai dati genetici e vengono informati sulle principali modifiche in materia.
+
+### 5. Documentazione dell’attività e tracciabilità delle modifiche
+
+5.1 Le attività di laboratorio legate al risultato di un esame, a un rapporto d’esame o ad altre informazioni determinanti sono registrate.
+
+5.2 Le registrazioni contengono i dati sull’identità delle persone responsabili per l’attività di laboratorio esercitata nonché per l’analisi dei campioni e per i dati genetici e i risultati. Esse contengono inoltre la data dell’attività di laboratorio e dell’esame.
+
+5.3 Le modifiche apportate alle registrazioni sono tracciabili e completate dai dati sull’identità della persona che ha effettuato la modifica e dalla data della modifica.
+
+5.4 Il laboratorio garantisce la caratterizzazione, la conservazione, la protezione, la sicurezza, l’archiviazione, la reperibilità, il termine di conservazione e la distruzione delle registrazioni e dei campioni.
+
+### 6. Garanzia della riservatezza dei dati genetici
+
+I sistemi utilizzati per trattare, in particolare per rilevare, registrare, conservare o comunicare dati genetici sono valutati dal laboratorio in materia di efficienza e di punti deboli prima della loro introduzione.
+
+### 7. Gestione del rischio
+
+Il laboratorio identifica, analizza e valuta possibili rischi nelle operazioni relative ai campioni e ai dati genetici. Esso adotta misure per ridurre al minimo, eliminare e sorvegliare i rischi.
+
+### 8. Incidenti legati alla sicurezza
+
+8.1. Il laboratorio adotta provvedimenti tecnici e organizzativi per riconoscere, analizzare e valutare gli incidenti legati alla sicurezza. Su questa base, stabilisce e attua le misure necessarie.
+
+8.2 Il laboratorio documenta gli incidenti legati alla sicurezza.

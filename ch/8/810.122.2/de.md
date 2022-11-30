@@ -4,11 +4,11 @@ title: Verordnung vom 14. Februar 2007 über die Erstellung von DNA-Profilen im 
 short: VDZV
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/134"
 language: de
-version: 2007-04-01
+version: 2022-12-01
 adopted: 2007-02-14
 in_force: 2007-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/134/20070401/de/xml/fedlex-data-admin-ch-eli-cc-2007-134-20070401-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/134/20070401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/134/20221201/de/xml/fedlex-data-admin-ch-eli-cc-2007-134-20221201-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/134/20221201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,15 +17,16 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/134/20070401/de"
 
 (VDZV)
 
-vom 14. Februar 2007 (Stand am 1. April 2007)
+vom 14. Februar 2007 (Stand am 1. Dezember 2022)
 
 Der Schweizerische Bundesrat,
 
-gestützt auf Artikel 8 Absatz 4 des Bundesgesetzes vom 8. Oktober 2004[^ingress-1] über genetische Untersuchungen beim Menschen (GUMG),
+gestützt auf Artikel 53 Absatz 3 des Bundesgesetzes vom 15. Juni 2018[^ingress-1] über genetische Untersuchungen beim Menschen (GUMG),[^ingress-2]
 
 verordnet:
 
 [^ingress-1]: [SR 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537)
+[^ingress-2]: Fassung gemäss Ziff. I der V vom 23. Sept. 2022, in Kraft seit 1. Dez. 2022 ([AS 2022 586](https://fedlex.data.admin.ch/eli/oc/2022/586)).
 
 ## 1. Kapitel: Allgemeine Bestimmungen
 
@@ -35,17 +36,22 @@ verordnet:
 
 Diese Verordnung regelt:
 
-- a. die Voraussetzungen und das Verfahren zur Anerkennung von Laboratorien, die DNA-Profile zur Klärung der Abstammung oder zur Identifizierung nach den Artikeln 31–34 GUMG erstellen;
+- a.[^1-1] die Voraussetzungen und das Verfahren zur Anerkennung von Laboratorien, die DNA-Profile zur Klärung der Abstammung oder zur Identifizierung nach den Artikeln 47–53 GUMG erstellen;
 - b. die Pflichten, welche die anerkannten Laboratorien erfüllen müssen, damit sie anerkannt bleiben; und
-- c. die Aufsicht.
+- c.[^1-2] die Aufsicht über die anerkannten Laboratorien.
+
+[^1-1]: Fassung gemäss Ziff. I der V vom 23. Sept. 2022, in Kraft seit 1. Dez. 2022 ([AS 2022 586](https://fedlex.data.admin.ch/eli/oc/2022/586)).
+[^1-2]: Fassung gemäss Ziff. I der V vom 23. Sept. 2022, in Kraft seit 1. Dez. 2022 ([AS 2022 586](https://fedlex.data.admin.ch/eli/oc/2022/586)).
 
 #### Art. 2
 
-**Zuständigkeiten**
+**Zuständigkeiten**[^2-1]
 
-<sup>1</sup> Das Eidgenössische Justiz- und Polizeidepartement (Departement) ist für die Anerkennung von Laboratorien und den Entzug der Anerkennung zuständig.
+<sup>1</sup> Das Eidgenössische Justiz- und Polizeidepartement (EJPD) ist für die Anerkennung von Laboratorien und den Entzug der Anerkennung zuständig.
 
-<sup>2</sup> Zuständig für die übrigen Aufgaben nach dieser Verordnung ist das Bundesamt für Polizei (Bundesamt).
+<sup>2</sup> Für die übrigen Aufgaben nach dieser Verordnung ist das Bundesamt für Polizei (fedpol) zuständig.
+
+[^2-1]: Fassung gemäss Ziff. I der V vom 23. Sept. 2022, in Kraft seit 1. Dez. 2022 ([AS 2022 586](https://fedlex.data.admin.ch/eli/oc/2022/586)).
 
 ## 2. Kapitel: Anerkennung
 
@@ -53,9 +59,12 @@ Diese Verordnung regelt:
 
 #### Art. 3
 
-Die vom Departement als Prüflaboratorien für forensische Genetik nach der DNA-Profil-Verordnung vom 3. Dezember 2004[^3-1] anerkannten Laboratorien gelten als vom Bund anerkannte Laboratorien im Sinne von Artikel 8 Absatz 4 GUMG.
+[^3-1]
 
-[^3-1]: [SR 363.1](https://fedlex.data.admin.ch/eli/cc/2004/812)
+Laboratorien, die vom EJPD als Prüflaboratorien für forensische Genetik nach Artikel 8 Absatz 1 des DNA-Profil-Gesetzes vom 20. Juni 2003[^3-2] anerkannt sind, gelten als vom Bund anerkannte Laboratorien nach Artikel 53 Absatz 1 GUMG.
+
+[^3-1]: Fassung gemäss Ziff. I der V vom 23. Sept. 2022, in Kraft seit 1. Dez. 2022 ([AS 2022 586](https://fedlex.data.admin.ch/eli/oc/2022/586)).
+[^3-2]: [SR 363](https://fedlex.data.admin.ch/eli/cc/2004/811)
 
 ### 2. Abschnitt: Andere Laboratorien
 
@@ -70,13 +79,15 @@ Ein Laboratorium, das DNA-Profile zur Klärung der Abstammung oder zur Identifiz
 - a. es von der Schweizerischen Akkreditierungsstelle (SAS) gemäss der Akkreditierungs- und Bezeichnungsverordnung vom 17. Juni 1996[^4-1] auf dem Gebiet der DNA-Profile zur Klärung der Abstammung oder zur Identifizierung für einen der Geltungsbereiche nach Artikel 5 akkreditiert ist; und
 - b. die verantwortliche Fachbereichsleiterin oder der verantwortliche Fachbereichsleiter über die nach Artikel 6 erforderliche Ausbildung verfügt und die Aufsicht am Sitz des Laboratoriums tatsächlich und verantwortlich ausübt.
 
-<sup>2</sup> Die für die Akkreditierung nach Absatz 1 Buchstabe a massgebende europäische Norm ist im Anhang festgelegt. Das Departement führt den Anhang entsprechend der internationalen und der technischen Entwicklung nach.
+<sup>2</sup> Die für die Akkreditierung nach Absatz 1 Buchstabe a massgebende Norm ist in Anhang 1 festgelegt. Das EJPD führt den Anhang entsprechend der internationalen und der technischen Entwicklung nach.[^4-2]
 
 <sup>3</sup> Die Anerkennung wird entsprechend dem Geltungsbereich der Akkreditierung erteilt.
 
-<sup>4</sup> Das Anerkennungsgesuch ist beim Bundesamt einzureichen.
+<sup>4</sup> Das Anerkennungsgesuch ist bei fedpol[^4-3] einzureichen.
 
 [^4-1]: [SR 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
+[^4-2]: Fassung gemäss Ziff. I der V vom 23. Sept. 2022, in Kraft seit 1. Dez. 2022 ([AS 2022 586](https://fedlex.data.admin.ch/eli/oc/2022/586)).
+[^4-3]: Ausdruck gemäss Ziff. I der V vom 23. Sept. 2022, in Kraft seit 1. Dez. 2022 ([AS 2022 586](https://fedlex.data.admin.ch/eli/oc/2022/586)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 
 #### Art. 5
 
@@ -85,7 +96,9 @@ Ein Laboratorium, das DNA-Profile zur Klärung der Abstammung oder zur Identifiz
 Das Laboratorium kann in einem der folgenden Geltungsbereiche akkreditiert sein:
 
 - a. Erstellung von DNA-Profilen anhand von Proben, die direkt den betroffenen Personen entnommen werden; oder
-- b. Erstellung von DNA-Profilen nach Buchstabe a sowie anhand von Spuren und Proben aus Leichen.
+- b.[^5-1] Erstellung von DNA-Profilen nach Buchstabe a sowie anhand von Proben von Leichen.
+
+[^5-1]: Fassung gemäss Ziff. I der V vom 23. Sept. 2022, in Kraft seit 1. Dez. 2022 ([AS 2022 586](https://fedlex.data.admin.ch/eli/oc/2022/586)).
 
 #### Art. 6
 
@@ -113,7 +126,7 @@ Bei Laboratorien, die für den Geltungsbereich von Artikel 5 Buchstabe b anerkan
 
 **Provisorische Anerkennung**
 
-<sup>1</sup> Laboratorien, die noch nicht über die Akkreditierung nach Artikel 4 Absatz 1 Buchstabe a verfügen, können beim Bundesamt ein Gesuch um provisorische Anerkennung einreichen, sofern sie gleichzeitig bei der SAS das Gesuch um Akkreditierung stellen.
+<sup>1</sup> Laboratorien, die noch nicht über die Akkreditierung nach Artikel 4 Absatz 1 Buchstabe a verfügen, können bei fedpol ein Gesuch um provisorische Anerkennung einreichen, sofern sie gleichzeitig bei der SAS das Gesuch um Akkreditierung stellen.
 
 <sup>2</sup>
 
@@ -121,14 +134,17 @@ Die provisorische Anerkennung wird erteilt, wenn:
 
 - a. die verantwortliche Fachbereichsleiterin oder der verantwortliche Fachbereichsleiter die Voraussetzungen nach Artikel 6 erfüllt;
 - b. das Laboratorium über die erforderlichen Räumlichkeiten und Einrichtungen verfügt;
-- c. ein ausreichendes Konzept für Datenschutz und Datensicherheit vorliegt; und
+- c.[^7-1] ein Konzept nach Artikel 16*b* Absatz 3 vorliegt; und
 - d. das Laboratorium in den letzten zwölf Monaten mindestens einmal erfolgreich an einem Ringversuch im Geltungsbereich der beantragten Anerkennung teilgenommen hat.
 
-<sup>3</sup> Das Bundesamt kann die SAS mit Abklärungen beauftragen.
+<sup>3</sup> Fedpol kann die SAS mit Abklärungen beauftragen.
 
-<sup>4</sup> Das Konzept für Datenschutz und Datensicherheit bedarf der Begutachtung durch den Eidgenössischen Datenschutz- und Öffentlichkeitsbeauftragten.
+<sup>4</sup> …[^7-2]
 
-<sup>5</sup> Die provisorische Anerkennung ist mit der Auflage zu verbinden, dass das Laboratorium spätestens 18 Monate nach Einreichung des Gesuchs um provisorische Anerkennung von der SAS die erforderliche Akkreditierung erhalten haben muss. Das Bundesamt kann die Frist auf Antrag der SAS um höchstens sechs Monate verlängern.
+<sup>5</sup> Die provisorische Anerkennung ist mit der Auflage zu verbinden, dass das Laboratorium spätestens 18 Monate nach Einreichung des Gesuchs um provisorische Anerkennung von der SAS die erforderliche Akkreditierung erhalten haben muss. Fedpol kann die Frist auf Antrag der SAS um höchstens sechs Monate verlängern.
+
+[^7-1]: Fassung gemäss Ziff. I der V vom 23. Sept. 2022, in Kraft seit 1. Dez. 2022 ([AS 2022 586](https://fedlex.data.admin.ch/eli/oc/2022/586)).
+[^7-2]: Aufgehoben durch Ziff. I der V vom 23. Sept. 2022, mit Wirkung seit 1. Dez. 2022 ([AS 2022 586](https://fedlex.data.admin.ch/eli/oc/2022/586)).
 
 #### Art. 8
 
@@ -142,74 +158,113 @@ Die Anerkennung und die provisorische Anerkennung von Laboratorien können mit B
 
 #### Art. 9
 
-**Ringversuche**
+**Ringversuche**[^9-1]
 
 <sup>1</sup> Die anerkannten Laboratorien müssen zweimal im Jahr erfolgreich an einem Ringversuch im Geltungsbereich ihrer Anerkennung teilnehmen.
 
-<sup>2</sup> Sie müssen die Ergebnisse der Ringversuche jeweils bis Ende Februar des folgenden Jahres dem Bundesamt melden.
+<sup>2</sup> Sie stellen das Ergebnis des Ringversuchs umgehend fedpol zu.
+
+<sup>3</sup> War die Teilnahme am Ringversuch nicht erfolgreich, so muss das Labor innerhalb einer angemessenen Frist zuhanden von fedpol einen Bericht erstellen. Dieser muss eine Analyse der Mängel enthalten und aufzeigen, welche Massnahmen innerhalb welcher Frist zur Behebung der Mängel getroffen werden.
+
+[^9-1]: Fassung gemäss Ziff. I der V vom 23. Sept. 2022, in Kraft seit 1. Dez. 2022 ([AS 2022 586](https://fedlex.data.admin.ch/eli/oc/2022/586)).
 
 #### Art. 10
 
-**Weitergabe von Aufträgen**
+**Weitergabe von Aufträgen**[^10-1]
 
-<sup>1</sup> Die Laboratorien dürfen Aufträge zur Erstellung von DNA-Profilen nur an ein anderes anerkanntes Laboratorium und nur im Einverständnis mit der Auftraggeberin oder dem Auftraggeber weitergeben.
+<sup>1</sup> Die Laboratorien dürfen Aufträge zur Erstellung von DNA-Profilen nur an ein anderes anerkanntes Laboratorium weitergeben; sie müssen vorgängig die Zustimmung der Auftraggeberin oder des Auftraggebers einholen.
 
-<sup>2</sup> Verfügt kein anerkanntes Laboratorium über das nötige Fachwissen für eine spezielle Untersuchung, so darf der Auftrag ausnahmsweise an ein nicht anerkanntes Laboratorium im Ausland weitergegeben werden.
+<sup>2</sup> Verfügt ein Laboratorium nicht über das nötige Fachwissen oder die nötige technische Einrichtung für eine bestimmte molekulargenetische Untersuchung, so kann es diese als Unterauftrag an ein anderes anerkanntes Laboratorium im Inland weitergeben.
+
+<sup>3</sup> Verfügt kein anerkanntes Laboratorium über das nötige Fachwissen und die nötige technische Einrichtung für eine bestimmte molekulargenetische Untersuchung, so kann es den Unterauftrag an ein nicht anerkanntes Laboratorium im Inland oder an ein Laboratorium im Ausland weitergeben. Es muss den Auftrag pseudonymisieren und den Nachweis erbringen können, dass das beauftragte Laboratorium über ein Qualitätsmanagementsystem verfügt, das die Anforderungen einer der Normen nach Anhang 2 erfüllt. Es ist dafür verantwortlich, dass der Auftrag nach dem Stand von Wissenschaft und Technik durchgeführt wird.
+
+<sup>4</sup> Erteilt ein Laboratorium einen Unterauftrag nach Absatz 2 oder 3, so muss es vorgängig die Zustimmung der Auftraggeberin oder des Auftraggebers einholen.
+
+[^10-1]: Fassung gemäss Ziff. I der V vom 23. Sept. 2022, in Kraft seit 1. Dez. 2022 ([AS 2022 586](https://fedlex.data.admin.ch/eli/oc/2022/586)).
 
 #### Art. 11
 
-**Meldepflichten**
+**Meldepflichten**[^11-1]
 
-<sup>1</sup> Die Laboratorien müssen dem Bundesamt jeweils bis Ende Februar die Zahl der im Vorjahr erstellten Gutachten zur Klärung der Abstammung und zur Identifizierung melden.
+<sup>1</sup> Die Laboratorien müssen fedpol unaufgefordert die Bestätigung der Erneuerung der Akkreditierung einreichen.
 
-<sup>2</sup>
+<sup>2</sup> Sie müssen fedpol personelle Veränderungen der Leitung des Fachbereichs unverzüglich melden.
 
-In den Meldungen sind gesondert aufzulisten:
-
-- a. Gutachten nach den Artikeln 32 und 33 GUMG;
-- b. Gutachten nach Artikel 34 Absätze 1–3 GUMG;
-- c. Gutachten nach Artikel 34 Absatz 4 GUMG;
-- d. Gutachten, die nach Artikel 10 Absatz 2 unter Beizug eines nicht anerkannten Laboratoriums erstellt wurden.
-
-<sup>3</sup> Die Laboratorien müssen dem Bundesamt unaufgefordert die Bestätigung der Erneuerung der Akkreditierung einreichen.
-
-<sup>4</sup> Wechselt die verantwortliche Fachbereichsleiterin oder der verantwortliche Fachbereichsleiter, so müssen die Laboratorien dies unverzüglich dem Bundesamt melden.
+[^11-1]: Fassung gemäss Ziff. I der V vom 23. Sept. 2022, in Kraft seit 1. Dez. 2022 ([AS 2022 586](https://fedlex.data.admin.ch/eli/oc/2022/586)).
 
 ### 2. Abschnitt: Pflichten im Zusammenhang mit der Erstellung von DNA-Profilen
 
 #### Art. 12
 
-**Identitätsprüfung**
+**Analysemethoden zur Feststellung des Abstammungsverhältnisses**[^12-1]
 
-<sup>1</sup> Im Auftrag zur Erstellung von DNA-Profilen müssen die zu untersuchenden Personen mit Familienname, Vorname, Geburtsdatum, Adresse sowie Heimatort oder Staatsangehörigkeit bezeichnet werden.
+<sup>1</sup> Das Abstammungsverhältnis muss nach dem Stand von Wissenschaft und Technik ermittelt werden. Es dürfen nur validierte und publizierte DNA-Marker verwendet werden. Im Übrigen gelten die Richtlinien der Schweizerischen Gesellschaft für Rechtsmedizin vom 7. Juni 2019[^12-2] für die Durchführung von genetischen Abstammungsuntersuchungen.
 
-<sup>2</sup> Bei der Probeentnahme muss sich die zu untersuchende Person durch einen gültigen amtlichen Ausweis mit Foto legitimieren. Das Ausweispapier ist zu fotokopieren. Bei einem Säugling oder Kleinkind kann auf die Vorlage eines amtlichen Ausweises verzichtet werden.
+<sup>2</sup> Die Klärung der Abstammung eines Kindes erfolgt durch den Vergleich des DNA-Profils des Kindes mit demjenigen der mutmasslichen Mutter und des mutmasslichen Vaters.
 
-<sup>3</sup> Die zu untersuchende Person ist bei der Probeentnahme zu fotografieren. Das Foto ist von ihr oder von ihrem gesetzlichen Vertreter zu unterschreiben.
+<sup>3</sup> In begründeten Einzelfällen kann die Klärung der Abstammung auf der Grundlage des Vergleichs des DNA-Profils des Kindes mit demjenigen der mutmasslichen Mutter oder des mutmasslichen Vaters erfolgen.
 
-<sup>4</sup> Die Identitätsprüfung ist zu dokumentieren, und das entsprechende Dokument ist dem Gutachten nach Artikel 16 beizulegen.
+[^12-1]: Fassung gemäss Ziff. I der V vom 23. Sept. 2022, in Kraft seit 1. Dez. 2022 ([AS 2022 586](https://fedlex.data.admin.ch/eli/oc/2022/586)).
+[^12-2]: Der Text der Richtlinie ist abrufbar unter: www.sgrm.ch &gt; Forensische Genetik &gt; Über die Sektion.
 
-<sup>5</sup> Beauftragt das Laboratorium eine Ärztin oder einen Arzt mit der Probeentnahme, so ist es für eine sorgfältige Instruktion über die Identitätsprüfung sowie die Entnahme und Aufbewahrung der Probe verantwortlich.
+#### Art. 12a
+
+**Identitätsprüfung**[^12a-1]
+
+<sup>1</sup> Im Auftrag zur Erstellung von DNA-Profilen ist von den zu untersuchenden Personen die Angabe von Familienname, Vorname, Geburtsdatum, Adresse sowie Heimatort oder Staatsangehörigkeit erforderlich.
+
+<sup>2</sup> Vor der Probeentnahme muss die Identität der zu untersuchenden Personen mit einem gültigen amtlichen Ausweis mit Foto festgestellt werden. Der Ausweis muss kopiert werden. Bei Kindern bis vier Jahren kann auf die Vorlage eines amtlichen Ausweises verzichtet werden.
+
+<sup>3</sup> Die zu untersuchende Person ist vor Probeentnahme zu fotografieren. Das Foto ist von ihr oder von ihrer gesetzlichen Vertreterin oder von ihrem gesetzlichen Vertreter zu unterschreiben.
+
+<sup>4</sup> Die Identitätsprüfung muss dokumentiert werden. Die Dokumentation muss dem Gutachten nach Artikel 16 beigelegt werden.
+
+<sup>5</sup> Die Person, welche die Identitätsprüfung durchführt und die Probe entnimmt, muss die Richtigkeit der Angaben mit ihrer Unterschrift bestätigen.
+
+<sup>6</sup> Wird die Probeentnahme einem anderen geeigneten Laboratorium, einer Ärztin oder einem Arzt oder einer anderen geeigneten Person übertragen, so ist das auftraggebende Laboratorium für die Instruktion des zuständigen Personals über die Identitätsprüfung sowie die Entnahme und Aufbewahrung der Probe verantwortlich.
+
+[^12a-1]: Eingefügt durch Ziff. I der V vom 23. Sept. 2022, in Kraft seit 1. Dez. 2022 ([AS 2022 586](https://fedlex.data.admin.ch/eli/oc/2022/586)).
+
+#### Art. 12b
+
+**Nächste Angehörige**[^12b-1]
+
+<sup>1</sup>
+
+Nächste Angehörige nach Artikel 48 Absatz 1 Buchstabe b GUMG sind:
+
+- a. Ehefrau oder Ehemann, eingetragene Partnerin oder eingetragener Partner, Lebenspartnerin oder Lebenspartner;
+- b. Kinder, Eltern und Geschwister.
+
+<sup>2</sup> Die Person, die die Abklärung des Abstammungsverhältnisses verlangt, muss dem Laboratorium schriftlich mitteilen, dass die Personen nach Absatz 1 der Untersuchung zugestimmt haben.
+
+[^12b-1]: Eingefügt durch Ziff. I der V vom 23. Sept. 2022, in Kraft seit 1. Dez. 2022 ([AS 2022 586](https://fedlex.data.admin.ch/eli/oc/2022/586)).
+
+#### Art. 12c
+
+**Vorsorgliche Probeentnahme**[^12c-1]
+
+<sup>1</sup> Kann die Zustimmung der nächsten Angehörigen einer verstorbenen Person nicht rechtzeitig eingeholt werden, so kann das Laboratorium von der Leiche eine Probe entnehmen, wenn das zuständige Gericht dies angeordnet hat.
+
+<sup>2</sup> Es stellt die Probe sicher, bis die nächsten Angehörigen zugestimmt haben oder das Gericht über die Zulässigkeit der Erstellung des DNA-Profils entschieden hat.
+
+[^12c-1]: Eingefügt durch Ziff. I der V vom 23. Sept. 2022, in Kraft seit 1. Dez. 2022 ([AS 2022 586](https://fedlex.data.admin.ch/eli/oc/2022/586)).
 
 #### Art. 13
 
-**Probe**
+**Bearbeitung der Proben**[^13-1]
 
-<sup>1</sup> Die Probe ist unverwechselbar und dauerhaft zu beschriften.
+<sup>1</sup> Proben sind doppelt und voneinander unabhängig zu analysieren.
 
-<sup>2</sup> Proben von Personen mit Knochenmarktransplantationen und von Zwillingen sind eigens zu kennzeichnen.
+<sup>2</sup> Proben von Personen, denen Blut-Stammzellen transplantiert wurden, und Proben von eineiigen Zwillingen sind eigens zu kennzeichnen.
 
-<sup>3</sup> Die Person, welche die Identitätsprüfung durchführt und die Probe entnimmt, muss die Richtigkeit der Angaben mit ihrer Unterschrift bestätigen.
-
-<sup>4</sup> Die Probe ist so zu lagern und zu behandeln, dass Verunreinigungen und Verwechslungen oder ein Verlust ausgeschlossen sind.
+[^13-1]: Fassung gemäss Ziff. I der V vom 23. Sept. 2022, in Kraft seit 1. Dez. 2022 ([AS 2022 586](https://fedlex.data.admin.ch/eli/oc/2022/586)).
 
 #### Art. 14
 
-**Durchführung von Analysen**
+[^14-1]
 
-<sup>1</sup> Proben sind doppelt und unabhängig voneinander zu analysieren.
-
-<sup>2</sup> Die Kriterien zur Beurteilung der Vererblichkeit und der Stabilität der untersuchten Marker müssen wissenschaftlich anerkannt sein.
+[^14-1]: Aufgehoben durch Ziff. I der V vom 23. Sept. 2022, mit Wirkung seit 1. Dez. 2022 ([AS 2022 586](https://fedlex.data.admin.ch/eli/oc/2022/586)).
 
 #### Art. 15
 
@@ -238,17 +293,52 @@ Der Analysebericht muss mindestens folgende Punkte enthalten:
 
 <sup>3</sup> Die Expertenkommission für genetische Untersuchungen beim Menschen kann Empfehlungen zur Erstellung von Gutachten abgeben.
 
+#### Art. 16a
+
+**Aufbewahrung der Proben bei ausserbehördlichen Verfahren**[^16a-1]
+
+Handelt es sich um ein ausserbehördliches Verfahren, so vernichtet das Laboratorium die Probe frühestens drei, spätestens aber zwölf Monate nach dem Versand des Gutachtens an die Auftraggeberin oder den Auftraggeber, es sei denn, diese oder dieser verlangt eine längere Aufbewahrungsdauer.
+
+[^16a-1]: Eingefügt durch Ziff. I der V vom 23. Sept. 2022, in Kraft seit 1. Dez. 2022 ([AS 2022 586](https://fedlex.data.admin.ch/eli/oc/2022/586)).
+
+#### Art. 16b
+
+**Schutz von Proben und genetischen Daten**[^16b-1]
+
+<sup>1</sup> Wer genetische Daten bearbeitet, muss sicherstellen, dass der Schutz der Daten insbesondere vor unbefugter oder unbeabsichtigter Bekanntgabe, Veränderung, Löschung, Vernichtung oder Erstellung von Kopien sowie vor Verlust gewährleistet ist.
+
+<sup>2</sup>
+
+Der Schutz ist durch angemessene technische und organisatorische Massnahmen zu gewährleisten, insbesondere durch:
+
+- a. die Beschränkung der Bearbeitung der genetischen Daten auf diejenigen Personen, die die Daten zur Erfüllung ihrer Aufgaben benötigen;
+- b. die Protokollierung aller zur Gewährleistung der Rückverfolgbarkeit massgeblichen Bearbeitungsvorgänge;
+- c. die sichere Übermittlung genetischer Daten;
+- d. die Pseudonymisierung genetischer Daten, wenn sie in ein Land übermittelt werden, dessen Gesetzgebung keinen angemessenen Schutz gewährleistet.
+
+<sup>3</sup> Die Massnahmen sind anhand einer Risikoabschätzung und unter Berücksichtigung des Stands der Technik zu bestimmen und zu aktualisieren. Sie sind in einem Konzept nach Anhang 3 festzulegen.
+
+<sup>4</sup> Werden Daten nach Absatz 2 Buchstabe d pseudonymisiert und in ein Land übermittelt, dessen Gesetzgebung keinen angemessenen Schutz gewährleistet, so muss die betroffene Person im Rahmen ihrer Aufklärung darüber informiert werden.
+
+<sup>5</sup> Für den Umgang mit Proben gelten die Absätze 1–4 sinngemäss.
+
+[^16b-1]: Eingefügt durch Ziff. I der V vom 23. Sept. 2022, in Kraft seit 1. Dez. 2022 ([AS 2022 586](https://fedlex.data.admin.ch/eli/oc/2022/586)).
+
 ## 4. Kapitel: Aufsicht
 
 #### Art. 17
 
-**Inspektion**
+**Aufsicht**[^17-1]
 
-<sup>1</sup> Das Bundesamt kann angemeldete oder unangemeldete Inspektionen durchführen oder anordnen, um zu prüfen, ob die Vorschriften des GUMG und dieser Verordnung eingehalten werden.
+<sup>1</sup> Fedpol prüft, ob die Laboratorien die Vorgaben dieser Verordnung einhalten.
 
-<sup>2</sup> Es kann die Expertenkommission für genetische Untersuchungen beim Menschen, andere geeignete Expertinnen oder Experten oder die SAS mit Inspektionen beauftragen.
+<sup>2</sup> Es kann Inspektionen angemeldet oder unangemeldet jederzeit durchführen oder anordnen.
 
-<sup>3</sup> Die Laboratorien müssen den mit der Inspektion beauftragten Personen alle für die Inspektion erforderlichen Auskünfte erteilen und ihnen Zugang zu den Räumlichkeiten und Einrichtungen gewähren, die der Erstellung von DNA-Profilen zur Klärung der Abstammung oder zur Identifizierung dienen. Die mit der Inspektion beauftragten Personen haben das Recht, in die Akten Einsicht zu nehmen.
+<sup>3</sup> Es kann externe Expertinnen und Experten oder die SAS zu Inspektionen beiziehen oder mit Inspektionen beauftragen.
+
+<sup>4</sup> Die Laboratorien müssen fedpol sowie den Expertinnen und Experten und der SAS Zutritt zu ihren Räumlichkeiten und Einrichtungen, Einsicht in sämtliche Unterlagen und Zugriff auf alle Informationssysteme gewähren sowie alle Auskünfte erteilen, die für die Inspektionen oder die Aufsichtstätigkeit notwendig sind.
+
+[^17-1]: Fassung gemäss Ziff. I der V vom 23. Sept. 2022, in Kraft seit 1. Dez. 2022 ([AS 2022 586](https://fedlex.data.admin.ch/eli/oc/2022/586)).
 
 #### Art. 18
 
@@ -256,49 +346,64 @@ Der Analysebericht muss mindestens folgende Punkte enthalten:
 
 <sup>1</sup>
 
-Das Departement entzieht einem Laboratorium die Anerkennung, wenn dieses:
+Das EJPD[^18-1] entzieht einem Laboratorium die Anerkennung, wenn dieses:
 
 - a. die Voraussetzungen für die Anerkennung nicht mehr erfüllt;
 - b. gegen Bedingungen und Auflagen, die mit der Anerkennung verbunden sind, schwer oder wiederholt verstösst; oder
 - c. gegen die Pflichten nach dieser Verordnung oder nach dem GUMG schwer oder wiederholt verstösst.
 
-<sup>2</sup> Bei geringfügigen Verstössen verwarnt das Bundesamt das Laboratorium.
+<sup>2</sup> Bei geringfügigen Verstössen verwarnt fedpol das Laboratorium.
+
+[^18-1]: Ausdruck gemäss Ziff. I der V vom 23. Sept. 2022, in Kraft seit 1. Dez. 2022 ([AS 2022 586](https://fedlex.data.admin.ch/eli/oc/2022/586)).
 
 #### Art. 19
 
 **Behördliche Meldepflicht und Akteneinsicht**
 
-<sup>1</sup> Die SAS meldet dem Bundesamt die im Rahmen ihrer Tätigkeit festgestellten Verstösse gegen die Pflichten nach dieser Verordnung oder nach dem GUMG. Sie informiert das Bundesamt unverzüglich über den Entzug oder die Suspendierung einer Akkreditierung auf dem Gebiet der DNA-Profile zur Klärung der Abstammung oder zur Identifizierung.
+<sup>1</sup> Die SAS meldet fedpol die im Rahmen ihrer Tätigkeit festgestellten Verstösse gegen die Pflichten nach dieser Verordnung oder nach dem GUMG. Sie informiert fedpol unverzüglich über den Entzug oder die Suspendierung einer Akkreditierung auf dem Gebiet der DNA-Profile zur Klärung der Abstammung oder zur Identifizierung.
 
-<sup>2</sup> Das Bundesamt kann in die Unterlagen der SAS über die nach dieser Verordnung erforderliche Akkreditierung eines Laboratoriums Einsicht nehmen.
+<sup>2</sup> Fedpol kann in die Unterlagen der SAS über die nach dieser Verordnung erforderliche Akkreditierung eines Laboratoriums Einsicht nehmen.
 
-<sup>3</sup> Es meldet strafrechtlich relevante Sachverhalte der für die Strafverfolgung zuständigen Behörde.
+<sup>3</sup> Fedpol meldet strafrechtlich relevante Sachverhalte der für die Strafverfolgung zuständigen Behörde.
 
 #### Art. 20
 
-**Gebühren**
+**Gebühren**[^20-1]
 
-<sup>1</sup> Die Gebühren für die Anerkennung und die Aufsicht richten sich nach der Allgemeinen Gebührenverordnung vom 8. September 2004[^20-1].
+<sup>1</sup> Die Gebühren des EJPD für den Erlass von Verfügungen im Zusammenhang mit der Laboranerkennung betragen:
 
-<sup>2</sup> Die Gebühren für die Tätigkeit der SAS im Rahmen dieser Verordnung richten sich nach der Verordnung vom 10. März 2006[^20-2] über die Gebühren des Staatssekretariats für Wirtschaft im Bereich der Akkreditierung.
+<table>
+<tr><td></td><td>Franken</td></tr>
+<tr><td>a. für die Erteilung der Anerkennung</td><td>500.–</td></tr>
+<tr><td>b. für die Ablehnung</td><td>500.–</td></tr>
+<tr><td>c. für die Änderung</td><td>200.–</td></tr>
+<tr><td>d. für die Sistierung</td><td>200.–</td></tr>
+<tr><td>e. für den Entzug</td><td>500.–</td></tr>
+</table>
 
-[^20-1]: [SR 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+<sup>2</sup> Der Gebührenansatz von fedpol für eine Arbeitsstunde zur Erfüllung der DNA-Labor-Aufsicht beträgt:
+
+<table>
+<tr><td></td><td>Franken</td></tr>
+<tr><td>a. für Mitarbeiterinnen und Mitarbeiter des administrativen Bereichs</td><td>97.–</td></tr>
+<tr><td>b. für Mitarbeiterinnen und Mitarbeiter des Bereichs Planung, Qualitätsmanagement und DNA-Labor-Aufsicht</td><td>128.–</td></tr>
+</table>
+
+<sup>3</sup> Die Gebühren für die Tätigkeit der SAS im Rahmen dieser Verordnung richten sich nach der Verordnung vom 10. März 2006[^20-2] über die Gebühren des Staatssekretariats für Wirtschaft im Bereich der Akkreditierung.
+
+<sup>4</sup> Im Übrigen gilt die Allgemeine Gebührenverordnung vom 8. September 2004[^20-3].
+
+[^20-1]: Fassung gemäss Ziff. I der V vom 23. Sept. 2022, in Kraft seit 1. Dez. 2022 ([AS 2022 586](https://fedlex.data.admin.ch/eli/oc/2022/586)).
 [^20-2]: [SR 946.513.7](https://fedlex.data.admin.ch/eli/cc/2006/177)
+[^20-3]: [SR 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
 
 ## 5. Kapitel: Schlussbestimmungen
 
 #### Art. 21
 
-**Anerkennung bestehender Laboratorien**
+[^21-1]
 
-<sup>1</sup> Laboratorien, die nicht nach der DNA-Profil-Verordnung vom 3. Dezember 2004[^21-1] anerkannt sind und nach bisherigem Recht bereits DNA-Profile zur Abklärung der Abstammung oder zur Identifizierung erstellt haben, müssen das Gesuch um Anerkennung nach Artikel 4 oder 7 der vorliegenden Verordnung innerhalb von drei Monaten nach deren Inkrafttreten beim Bundesamt einreichen.
-
-<sup>2</sup> Solange das Gesuch nicht rechtskräftig abgewiesen ist, darf die Tätigkeit weiterhin ausgeübt werden. Wer das Gesuch nicht fristgerecht stellt, muss die Tätigkeit nach Ablauf der Frist einstellen.
-
-<sup>3</sup> Ein Laboratorium, das vor dem 1. April 2007 von der SAS gemäss der Akkreditierungs- und Bezeichnungsverordnung vom 17. Juni 1996[^21-2] auf dem Gebiet der DNA-Profile zur Klärung der Abstammung oder zur Identifizierung akkreditiert worden ist, kann ausnahmsweise für den Geltungsbereich nach Artikel 5 Buchstabe a anerkannt werden, auch wenn die verantwortliche Fachbereichsleiterin oder der verantwortliche Fachbereichsleiter nicht über die nach Artikel 6 Absatz 1 erforderliche Ausbildung verfügt. Bei einem Wechsel der Fachbereichsleiterin oder des Fachbereichsleiters müssen die Voraussetzungen nach Artikel 6 Absätze 1 und 2 erfüllt werden.
-
-[^21-1]: [SR 363.1](https://fedlex.data.admin.ch/eli/cc/2004/812)
-[^21-2]: [SR 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
+[^21-1]: Aufgehoben durch Ziff. I der V vom 23. Sept. 2022, mit Wirkung seit 1. Dez. 2022 ([AS 2022 586](https://fedlex.data.admin.ch/eli/oc/2022/586)).
 
 #### Art. 22
 
@@ -314,12 +419,87 @@ Das Departement entzieht einem Laboratorium die Anerkennung, wenn dieses:
 
 Diese Verordnung tritt am 1. April 2007 in Kraft.
 
-Anhang
+Anhang 1[^t-1]
 
 (Art. 4 Abs. 2)
 
-## Massgebende europäische Norm für die Akkreditierung von Laboratorien nach Artikel 4 Absatz 1 Buchstabe a
+## Massgebende Norm für die Akkreditierung von Laboratorien nach Artikel 4 Absatz 1 Buchstabe a
 
-Europäische Norm EN ISO/IEC 17025 (2005) (Allgemeine Anforderungen an die Kompetenz von Prüf- und Kalibrierlaboratorien)[^annexu1-lvlu1-1]
+[^t-1]: Fassung gemäss Ziff. II Abs. 1 der V vom 23. Sept. 2022, in Kraft seit 1. Dez. 2022 ([AS 2022 586](https://fedlex.data.admin.ch/eli/oc/2022/586)).
 
-[^annexu1-lvlu1-1]: Die aufgeführte Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+SN EN ISO/IEC 17025:2018, Allgemeine Anforderungen an die Kompetenz von Prüf- und Kalibrierlaboratorien[^annex1-lvlu1-1]
+
+[^annex1-lvlu1-1]: Der Text dieser Norm kann kostenlos an einem der vier Standorte der Schweizerischen Normen-Vereinigung (SNV) eingesehen werden. Er kann gegen Bezahlung bezogen werden bei der SNV, Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+
+Anhang 2[^t-2]
+
+(Art. 10 Abs. 3)
+
+## Massgebende Normen für das Qualitätsmanagementsystem bei der Erteilung eines Unterauftrags an ein nicht anerkanntes Laboratorium im Inland oder an ein Laboratorium im Ausland
+
+[^t-2]: Eingefügt durch Ziff. II Abs. 2 der V vom 23. Sept. 2022, in Kraft seit 1. Dez. 2022 ([AS 2022 586](https://fedlex.data.admin.ch/eli/oc/2022/586)).
+
+- 1\. ISO/IEC 17025:2017, Allgemeine Anforderungen an die Kompetenz von Prüf- und Kalibrierlaboratorien[^annex2-lvlu1-1]
+- 2\. ISO 15189:2012, Medizinische Laboratorien – Anforderungen an die Qualität und Kompetenz[^annex2-lvlu1-2]
+- [tab]
+
+[^annex2-lvlu1-1]: Diese Norm entspricht der Norm SN EN ISO/IEC 17025:2018. Beide Normen können kostenlos an einem der vier Standorte der Schweizerischen Normen-Vereinigung (SNV) eingesehen werden. Sie können gegen Bezahlung bezogen werden bei der SNV, Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^annex2-lvlu1-2]: Diese Norm entspricht der Norm SN EN ISO 15189:2013. Beide Normen können kostenlos an einem der vier Standorte der Schweizerischen Normen-Vereinigung (SNV) eingesehen werden. Sie können gegen Bezahlung bezogen werden bei der SNV, Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+
+Anhang 3[^t-3]
+
+(Art. 16*b* Abs. 3)
+
+## Technische und organisatorische Massnahmen zur Gewährleistung des sicheren Umgangs mit Proben und genetischen Daten
+
+[^t-3]: Eingefügt durch Ziff. II Abs. 2 der V vom 23. Sept. 2022, in Kraft seit 1. Dez. 2022 ([AS 2022 586](https://fedlex.data.admin.ch/eli/oc/2022/586)).
+
+Das Laboratorium muss zur Gewährleistung des sicheren Umgangs mit Proben und genetischen Daten insbesondere die folgenden technischen und organisatorischen Massnahmen treffen:
+
+### 1. Zugang zu den Räumlichkeiten
+
+1.1 Der Zugang zu den Räumlichkeiten und zur Umgebung des Laboratoriums einschliesslich der Büro- und Serverräume ist berechtigten Personen vorbehalten. Das Betreten und Verlassen des Laboratoriums durch Personen, die keine Zugangsberechtigung haben, wird überwacht. Der Anlass des Zutritts und der Zeitpunkt des Betretens bzw. Verlassens werden dokumentiert.
+
+1.2 Personen, die nur ausnahmsweise zutrittsberechtigt sind, sind über die Verhaltens- und Vertraulichkeitsregeln des Laboratoriums informiert.
+
+1.3 Die Zugangsrechte zu den Räumlichkeiten werden aktuell gehalten.
+
+### 2. Zugriff auf Daten und Proben
+
+2.1 Das Laboratorium schützt die Daten durch Pseudonymisierung und Zugriffskontrolle vor unerlaubtem Zugriff. Bei der Wahl der Pseudonymisierung ist der Aufbewahrungsdauer der genetischen Daten Rechnung zu tragen.
+
+2.2 Die Zugriffsrechte zu den Proben und genetischen Daten werden aktuell gehalten.
+
+### 3. Personal
+
+Das Laboratorium legt die Verantwortlichkeiten, Befugnisse und Arbeitsbeziehungen innerhalb der Organisation fest, dokumentiert und kommuniziert sie.
+
+### 4. Information und Schulung der Mitarbeiterinnen und Mitarbeiter
+
+4.1 Die Vorgaben zum sicheren Umgang mit Proben und genetischen Daten sind für alle Mitarbeiterinnen und Mitarbeiter leicht zugänglich.
+
+4.2 Die Mitarbeiterinnen und Mitarbeiter werden bezüglich des sicheren Umgangs mit Proben und genetischen Daten regelmässig geschult und über grössere diesbezügliche Änderungen informiert.
+
+### 5. Dokumentation der Tätigkeit und Rückverfolgbarkeit von Änderungen
+
+5.1 Labortätigkeiten im Zusammenhang mit einem Untersuchungsresultat, einem Untersuchungsbericht oder anderen massgeblichen Informationen werden aufgezeichnet.
+
+5.2 Die Aufzeichnungen enthalten Angaben zur Identität der Personen, die für die ausgeübte Labortätigkeit sowie die Analyse der Proben und die genetischen Daten und Ergebnisse verantwortlich sind. Sie enthalten zudem das Datum der Labortätigkeit und der Prüfung.
+
+5.3 Änderungen an den Aufzeichnungen sind rückverfolgbar und werden mit den Angaben zur Identität der Person, die die Änderung vorgenommen hat, sowie dem Datum der Änderung versehen.
+
+5.4 Das Laboratorium gewährleistet die Kennzeichnung, die Aufbewahrung, den Schutz, die Sicherung, die Archivierung, die Wiederauffindbarkeit, die Aufbewahrungsfrist und die Vernichtung der Aufzeichnungen und Proben.
+
+### 6. Gewährleistung der Vertraulichkeit von genetischen Daten
+
+Systeme, die verwendet werden, um genetische Daten zu bearbeiten, insbesondere zu erfassen, aufzuzeichnen, aufzubewahren oder bekanntzugeben, werden vor ihrer Einführung vom Laboratorium auf ihre Funktionsfähigkeit und Schwachstellen hin bewertet.
+
+### 7. Risikomanagement
+
+Das Laboratorium identifiziert, analysiert und bewertet mögliche Risiken im Umgang mit Proben und genetischen Daten. Es trifft Massnahmen zur Minimierung, Behebung und Überwachung der Risiken.
+
+### 8. Sicherheitsvorfälle
+
+8.1 Das Laboratorium trifft technische und organisatorische Vorkehrungen, um Sicherheitsvorfälle zu erkennen, zu analysieren und zu bewerten. Es legt gestützt darauf die erforderlichen Massnahmen fest und setzt sie um.
+
+8.2 Es dokumentiert Sicherheitsvorfälle.
