@@ -3,18 +3,18 @@ sr: "818.101.32"
 title: Verordnung vom 29. April 2015 über mikrobiologische Laboratorien
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/299"
 language: de
-version: 2022-02-17
+version: 2022-12-01
 adopted: 2015-04-29
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/299/20220217/de/xml/fedlex-data-admin-ch-eli-cc-2015-299-20220217-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/299/20220217/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/299/20221201/de/xml/fedlex-data-admin-ch-eli-cc-2015-299-20221201-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/299/20221201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über mikrobiologische Laboratorien
 
-vom 29. April 2015 (Stand am 17. Februar 2022)
+vom 29. April 2015 (Stand am 1. Dezember 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -651,20 +651,22 @@ Bei der Ausführung von Unteraufträgen wie zum Unterhalt der EDV oder anderer U
 - 7\.2 Die Laborleiterin oder der Laborleiter sorgt dafür, dass die Richtlinien des Qualitätssicherungshandbuchs jederzeit eingehalten und systematisch überprüft werden. Sie oder er unterstützt das Personal in der Erfüllung seiner Aufgaben. Spezielles Augenmerk ist auf die Zweckmässigkeit der Korrekturmassnahmen zu richten, auf die Bearbeitung von Beschwerden und Klagen sowie auf die datierte und signierte Eintragung aller Vorkommnisse, die die Qualität der Dienstleistungen beeinflussen.
 - 7\.3 Die einzelnen Korrekturmassnahmen werden so bald als möglich im Qualitätssicherungshandbuch berücksichtigt.
 
-Anhang 2
+Anhang 2[^t-1]
 
 (Art. 17)
 
 ## Qualitätsmanagementsysteme in Laboratorien
 
-\1. Laboratorien, die diagnostische oder epidemiologische Untersuchungen und Untersuchungen zum Ausschluss von übertragbaren Krankheiten durchführen, berücksichtigen bei der Erstellung der Qualitätsmanagementsysteme die folgenden ISO-Normen[^annex2-lvlu1-1]:
+[^t-1]: Fassung gemäss Anhang 6 Ziff. II 4 der V vom 23. Sept. 2022 über genetische Untersuchungen beim Menschen, in Kraft seit 1. Dez. 2022 ([AS 2022 585](https://fedlex.data.admin.ch/eli/oc/2022/585)).
 
-- a. SN EN ISO/IEC 17025, 2005, (Allgemeine Anforderungen an die Kompetenz von Prüf- und Kalibrierlaboratorien);
-- b. SN EN ISO/IEC 15189, 2012, (Medizinische Laboratorien – Anforderungen an die Qualität und Kompetenz)
+\1. Laboratorien, die diagnostische oder epidemiologische Untersuchungen und Untersuchungen zum Ausschluss von übertragbaren Krankheiten durchführen, müssen bei der Erstellung der Qualitätsmanagementsysteme die Vorgaben der folgenden Normen[^annex2-lvlu1-1] erfüllen:
 
-\2. Laboratorien, die Untersuchungen von Umweltproben durchführen, berücksichtigen bei der Erstellung der Qualitätsmanagmentsysteme die folgende ISO-Norm[^annex2-lvlu1-2]:
+- a. SN EN ISO/IEC 17025:2018 (Allgemeine Anforderungen an die Kompetenz von Prüf- und Kalibrierlaboratorien);
+- b. SN EN ISO 15189:2012 (Medizinische Laboratorien – Anforderungen an die Qualität und Kompetenz).
 
-- SN EN ISO/IEC 17025, 2005, (Allgemeine Anforderungen an die Kompetenz von Prüf- und Kalibrierlaboratorien)
+\2. Laboratorien, die Untersuchungen von Umweltproben durchführen, müssen bei der Erstellung der Qualitätsmanagementsysteme die Vorgaben der folgenden Norm[^annex2-lvlu1-2] erfüllen:
 
-[^annex2-lvlu1-1]: Der Text dieser Normen kann beim Schweizerischen Heilmittelinstitut, Hallerstrasse 7, 3000 Bern 9, eingesehen werden; er kann auch gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
-[^annex2-lvlu1-2]: Der Text dieser Norm kann beim Schweizerischen Heilmittelinstitut, Hallerstrasse 7, 3000 Bern 9, eingesehen werden; er kann auch gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+- SN EN ISO/IEC 17025:2018 (Allgemeine Anforderungen an die Kompetenz von Prüf- und Kalibrierlaboratorien).
+
+[^annex2-lvlu1-1]: Der Text dieser Normen kann kostenlos an einem der vier Standorte der Schweizerischen Normen-Vereinigung (SNV) eingesehen werden. Die Normen können gegen Bezahlung bezogen werden bei der SNV, Sulzerallee 70, 8404 Winterthur, www.snv.ch.
+[^annex2-lvlu1-2]: Der Text dieser Normen kann kostenlos an einem der vier Standorte der Schweizerischen Normen-Vereinigung (SNV) eingesehen werden. Die Normen können gegen Bezahlung bezogen werden bei der SNV, Sulzerallee 70, 8404 Winterthur, www.snv.ch.

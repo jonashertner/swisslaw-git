@@ -3,18 +3,18 @@ sr: "818.101.32"
 title: Ordinanza del 29 aprile 2015 concernente i laboratori di microbiologia
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/299"
 language: it
-version: 2022-02-17
+version: 2022-12-01
 adopted: 2015-04-29
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/299/20220217/it/xml/fedlex-data-admin-ch-eli-cc-2015-299-20220217-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/299/20220217/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/299/20221201/it/xml/fedlex-data-admin-ch-eli-cc-2015-299-20221201-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/299/20221201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza concernente i laboratori di microbiologia
 
-del 29 aprile 2015 (Stato 17 febbraio 2022)
+del 29 aprile 2015 (Stato 1° dicembre 2022)
 
 Il Consiglio federale svizzero,
 
@@ -375,7 +375,7 @@ Allegato 1
 - 1\.1 La buona prassi nei laboratori di microbiologia deve permettere ai laboratori di lavorare secondo regole fondamentali comparabili e norme misurabili.
 - 1\.2 La buona prassi nei laboratori di microbiologia si basa sulle norme europee SN EN ISO/IEC 17025, 2005, «Requisiti generali per la competenza dei laboratori di prova e di taratura» e SN EN ISO/IEC 15189, 2012, «Laboratori medici – Requisiti riguardanti la qualità e la competenza»[^annex1-lvlu1-lvl1-1].
 
-[^annex1-lvlu1-lvl1-1]: Il testo delle presenti norme può essere visionato presso l’Istituto svizzero per gli agenti terapeutici (Swissmedic), Hallerstrasse 7, 3000 Berna 9 od ottenuto a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^annex1-lvlu1-lvl1-1]: Il testo delle presenti norme può essere visionato presso l’Istituto svizzero per gli agenti terapeutici (Swissmedic), Hallerstrasse 7, 3000 Berna 9 od ottenuto a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch
 
 ### 2 Direzione
 
@@ -651,20 +651,22 @@ Nell’esecuzione di subappalti di lavori di manutenzione di elaboratori elettro
 - 7\.2 Il dirigente di laboratorio provvede affinché le direttive del manuale per la garanzia della qualità siano sempre rispettate e verificate sistematicamente. Sostiene il personale nell’adempimento dei suoi compiti. Deve essere riservata un’attenzione particolare all’adeguatezza delle misure correttive, al trattamento di reclami e contestazioni nonché alla registrazione datata e firmata di tutti gli eventi che influenzano la qualità delle prestazioni.
 - 7\.3 Le singole misure correttive sono incluse quanto prima nel manuale per la garanzia della qualità.
 
-Allegato 2
+Allegato 2[^t-1]
 
 (art. 17)
 
 ## Sistemi di gestione della qualità nei laboratori
 
-\1. I laboratori che effettuano analisi diagnostiche o epidemiologiche e analisi per escludere la presenza di malattie trasmissibili, nell’elaborazione dei sistemi di gestione della qualità rispettano le seguenti norme ISO[^annex2-lvlu1-1]:
+[^t-1]: Nuovo testo giusta l’all. 6 n. II 4 dell’O del 23 set. 2022 concernente gli esami genetici sull’essere umano, in vigore dal 1° dic. 2022 ([RU 2022 585](https://fedlex.data.admin.ch/eli/oc/2022/585)).
 
-- a. SN EN ISO/IEC 17025, 2005, (Requisiti generali per la competenza dei laboratori di prova e di taratura);
-- b. SN EN ISO/IEC 15189, 2012, (Laboratori medici – Requisiti particolari riguardanti la qualità e la competenza).
+\1. I laboratori che effettuano analisi diagnostiche o epidemiologiche e analisi per escludere la presenza di malattie trasmissibili, nell’allestimento dei sistemi di gestione della qualità devono adempiere le disposizioni delle seguenti norme[^annex2-lvlu1-1]:
 
-\2. I laboratori che effettuano analisi di campioni ambientali, nell’elaborazione dei sistemi di gestione della qualità, rispettano la seguente norma ISO[^annex2-lvlu1-2]:
+- a. SN EN ISO/IEC 17025:2018 (Requisiti generali per la competenza dei laboratori di prova e di taratura);
+- b. SN EN ISO/IEC 15189:2012 (Laboratori medici – Requisiti riguardanti la qualità e la competenza).
 
-- SN EN ISO/IEC 17025, 2005, (Requisiti generali per la competenza dei laboratori di prova e di taratura)
+\2. I laboratori che effettuano analisi di campioni ambientali, nell’allestimento dei sistemi di gestione della qualità devono adempiere le disposizioni della seguente norma[^annex2-lvlu1-2]:
 
-[^annex2-lvlu1-1]: Il testo delle presenti norme può essere visionato presso l’Istituto svizzero per gli agenti terapeutici (Swissmedic), Hallerstrasse 7, 3000 Berna 9 od ottenuto a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
-[^annex2-lvlu1-2]: Il testo della presente norma può essere visionato presso l’Istituto svizzero per gli agenti terapeutici (Swissmedic), Hallerstrasse 7, 3000 Berna 9 od ottenuto a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+- SN EN ISO/IEC 17025:2018 (Requisiti generali per la competenza dei laboratori di prova e di taratura).
+
+[^annex2-lvlu1-1]: Il testo di queste norme può essere consultato gratuitamente presso una delle quattro sedi dell’Associazione svizzera di normalizzazione (SNV). Le norme possono essere ottenute a pagamento presso la SNV, Sulzerallee 70, 8404 Winterthur; www.snv.ch
+[^annex2-lvlu1-2]: Il testo di queste norme può essere consultato gratuitamente presso una delle quattro sedi dell’Associazione svizzera di normalizzazione (SNV). Le norme possono essere ottenute a pagamento presso la SNV, Sulzerallee 70, 8404 Winterthur; www.snv.ch

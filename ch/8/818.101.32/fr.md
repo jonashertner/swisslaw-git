@@ -3,18 +3,18 @@ sr: "818.101.32"
 title: Ordonnance du 29 avril 2015 sur les laboratoires de microbiologie
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/299"
 language: fr
-version: 2022-02-17
+version: 2022-12-01
 adopted: 2015-04-29
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/299/20220217/fr/xml/fedlex-data-admin-ch-eli-cc-2015-299-20220217-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/299/20220217/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/299/20221201/fr/xml/fedlex-data-admin-ch-eli-cc-2015-299-20221201-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/299/20221201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance sur les laboratoires de microbiologie
 
-du 29 avril 2015 (Etat le 17 février 2022)
+du 29 avril 2015 (État le 1<sup>er</sup> décembre 2022)
 
 Le Conseil fédéral suisse,
 
@@ -651,20 +651,22 @@ Lors de réalisation de travaux de sous-traitance tels que l’entretien du syst
 - 7\.2 Le chef du laboratoire s’assure du respect permanent des instructions du manuel d’assurance qualité et du caractère systématique des contrôles en la matière. Il soutient le personnel dans l’accomplissement de ses tâches. Il porte une attention particulière à l’adéquation des mesures de correction, au traitement des plaintes et doléances ainsi qu’à l’enregistrement, daté et signé, de tout événement influençant la qualité des prestations.
 - 7\.3 Chaque mesure de correction est intégrée dès que possible dans le manuel d’assurance qualité.
 
-Annexe 2
+Annexe 2[^t-1]
 
 (art. 17)
 
 ## Systèmes de gestion de la qualité dans les laboratoires
 
-\1. Lorsqu’ils élaborent les systèmes de gestion de la qualité, les laboratoires qui effectuent des analyses diagnostiques ou épidémiologique et des analyses visant à exclure des maladies transmissibles tiennent compte des normes ISO[^annex2-lvlu1-1] suivantes:
+[^t-1]: Nouvelle teneur selon l’annexe 6 ch. II 4 de l’O du 23 sept. 2022 sur l’analyse génétique humaine, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 585](https://fedlex.data.admin.ch/eli/oc/2022/585)).
 
-- a. SN EN ISO/CEI 17025: 2005 (Exigences générales concernant la compétence des laboratoires d’étalonnage et d’essais);
-- b. SN EN ISO/CEI 15189: 2012 (Laboratoires d’analyses de biologie médicale – Exigences particulières concernant la qualité et la compétence)
+\1. Lorsqu’ils élaborent les systèmes de gestion de la qualité, les laboratoires qui effectuent des analyses diagnostiques ou épidémiologiques et des analyses visant à exclure des maladies transmissibles doivent satisfaire aux exigences des normes suivantes[^annex2-lvlu1-1]:
 
-\2. Lorsqu’ils élaborent les systèmes de gestion de la qualité, les laboratoires qui effectuent des analyses d’échantillons prélevés dans l’environnement tiennent compte de la norme ISO[^annex2-lvlu1-2] suivante:
+- a. SN EN ISO/CEI 17025:2018 (Exigences générales concernant la compétence des laboratoires d’étalonnages et d’essais);
+- b. SN EN ISO 15189:2012 (Laboratoires d’analyses de biologie médicale – Exigences concernant la qualité et la compétence).
 
-- SN EN ISO/CEI 17025: 2005 (Exigences générales concernant la compétence des laboratoires d’étalonnage et d’essais).
+\2. Lorsqu’ils élaborent les systèmes de gestion de la qualité, les laboratoires qui effectuent des analyses d’échantillons prélevés dans l’environnement doivent satisfaire aux exigences de la norme suivante[^annex2-lvlu1-2]:
 
-[^annex2-lvlu1-1]: Ces normes peuvent être consultées auprès de l’Institut suisse des produits thérapeutiques (Swissmedic), Hallerstrasse 7, 3000 Berne 9 ou obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch.
-[^annex2-lvlu1-2]: Cette norme peut être consultée auprès de l’Institut suisse des produits thérapeutiques (Swissmedic), Hallerstrasse 7, 3000 Berne 9 ou obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch.
+- SN EN ISO/CEI 17025:2018 (Exigences générales concernant la compétence des laboratoires d’étalonnages et d’essais).
+
+[^annex2-lvlu1-1]: Ces normes peuvent être consultées gratuitement auprès de l’un des quatre sites de l’Association suisse de normalisation (SNV). Elles peuvent aussi être obtenues contre paiement auprès de la SNV, Sulzerallee 70, 8404 Winterthour; www.snv.ch.
+[^annex2-lvlu1-2]: Ces normes peuvent être consultées gratuitement auprès de l’un des quatre sites de l’Association suisse de normalisation (SNV). Elles peuvent aussi être obtenues contre paiement auprès de la SNV, Sulzerallee 70, 8404 Winterthour; www.snv.ch.
