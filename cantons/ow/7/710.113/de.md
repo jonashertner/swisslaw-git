@@ -1,25 +1,25 @@
 ---
 canton: OW
 number: "710.113"
-title: Ausführungsbestimmungen zum Bundesgesetz über die Raumplanung
-short: "Zuständigkeiten, Verfahren und Gestaltungsvorschriften für Solaranlagen"
+title: Ausführungsbestimmungen über die Solaranlagen
+short: AB Solar
 language: de
-version: 2016-04-01
-valid_until: 2022-11-30
-version_adopted: 2016-03-01
+version: 2022-12-01
+valid_until: 2024-06-30
+version_adopted: 2022-11-22
 adopted: 2022-11-22
 in_force: 2022-12-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/710.113"
-pdf: "http://gdb.ow.ch/api/de/versions/1055/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1753/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Ausführungsbestimmungen zum Bundesgesetz über die Raumplanung
+# Ausführungsbestimmungen über die Solaranlagen
 
-(Zuständigkeiten, Verfahren und Gestaltungsvorschriften für Solaranlagen)
+(AB Solar)
 
-vom 01.03.2016 (Stand 01.04.2016)
+vom 22.11.2022 (Stand 01.12.2022)
 
 Der Regierungsrat des Kantons Obwalden,
 
@@ -38,71 +38,55 @@ beschliesst:
 
 **Geltungsbereich und Zweck**
 
-<sup>1</sup> Diese Ausführungsbestimmungen gelten für alle Solaranlagen nach Art. 18a RPG. Sie gehen den Bestimmungen über das vereinfachte Baubewilligungsverfahren und die bewilligungsfreien Bauvorhaben nach der Verordnung zum Baugesetz[^1-1], vor.
+<sup>1</sup> Diese Ausführungsbestimmungen
 
-<sup>2</sup> Sie:
-
-- a. bestimmen die Gebiete und Zonen, innerhalb welchen eine Baubewilligungspflicht für Solaranlagen nach Art. 18a Abs. 2 und 3 RPG gilt;
-- b. regeln das Meldeverfahren nach Art. 18a Abs. 1 RPG, die Prüfung und die Berichterstattung für bewilligungsfreie, meldepflichtige Solaranlagen sowie die Zuständigkeiten und
-- c. legen die kantonalen Gestaltungsvorschriften fest.
-
-[^1-1]: GDB [710.11](http://gdb.ow.ch/data/710.11/de) (Art. 25 und 26)
+- a. bestimmen die Schutzgebiete, in denen eine Baubewilligungspflicht für Solaranlagen gilt (Art. 18a Abs. 2 Bst. b RPG),
+- b. regeln das Meldeverfahren und die Prüfung für bewilligungsfreie Solaranlagen sowie die Zuständigkeiten nach Art. 32a Abs. 3 RPV und
+- c. legen die kantonalen Gestaltungsvorschriften für Solaranlagen fest (Art. 32a Abs. 2 RPV).
 
 #### Art. 2
 
 **Gebiete und Objekte mit Baubewilligungspflicht für Solaranlagen**
 
-<sup>1</sup> Bewilligungspflichtig sind Solaranlagen auf Kulturdenkmälern von kantonaler und nationaler Bedeutung gemäss Art. 18a Abs. 3 RPG und solche, die folgende Gebiete und Objekte betreffen:
+<sup>1</sup> Bewilligungspflichtig gemäss Art. 18a Abs. 2 Bst. b RPG sind Anlagen, die folgende Gebiete bzw. Objekte betreffen:
 
 - a. Umgebungsschutzgebiete von Kulturobjekten, Ortsbildschutzgebiete sowie Schutzobjekte gemäss der Denkmalschutzverordnung[^2-1];
-- b. kantonale Landschaftsschutzgebiete[^2-2], Landschaften und Naturdenkmäler von nationaler Bedeutung und besonderer Schönheit[^2-3] sowie Moorlandschaften[^2-4] von besonderer Schönheit und nationaler Bedeutung gemäss dem Bundesgesetz über den Natur- und Heimatschutz[^2-5].
+- b. kantonale Landschaftsschutzgebiete, Landschaften und Naturdenkmäler von nationaler Bedeutung sowie Moorlandschaften von besonderer Schönheit und nationaler Bedeutung gemäss dem Bundesgesetz über den Natur- und Heimatschutz[^2-2].
 
 [^2-1]: GDB [451.21](http://gdb.ow.ch/data/451.21/de)
-[^2-2]: GDB [786.11](http://gdb.ow.ch/data/786.11/de)
-[^2-3]: SR [451.11](https://db.clex.ch/link/Bund/451.11/de)
-[^2-4]: SR [451.35](https://db.clex.ch/link/Bund/451.35/de)
-[^2-5]: SR [451](https://db.clex.ch/link/Bund/451/de)
+[^2-2]: SR [451](https://db.clex.ch/link/Bund/451/de)
 
 #### Art. 3
 
-**Meldepflicht für Solaranlagen a. Bestandteil der Meldung**
+**Meldepflicht für Solaranlagen a. Inhalt der Meldung**
 
-<sup>1</sup> Die Errichtung bewilligungsfreier aber meldepflichtiger Solaranlagen nach Art. 18a Abs. 1 RPG muss dem Bauamt der Gemeinde auf einem besonderen Meldeformular durch die Bauherrschaft vor Beginn der Bauarbeiten gemeldet werden.
+<sup>1</sup> Die Errichtung bewilligungsfreier Solaranlagen nach Art. 18a Abs. 1 RPG ist dem Bauamt der Gemeinde mit dem Meldeformular für Solaranlagen durch die Bauherrschaft vor Beginn der Bauarbeiten zu melden.
 
-<sup>2</sup> Bestandteil der Meldungen von Solaranlagen mittels Meldeformular sind insbesondere:
+<sup>2</sup> Zusammen mit dem Meldeformular gemäss Absatz 1 sind die folgenden Unterlagen einzureichen:
 
-- a. Angaben über die gesuchstellende Person, die betroffenen Parzellen und Gebäude, die massgebende Zone gemäss Zonenplan und Baureglement der Gemeinde sowie den geplanten Baubeginn und den voraussichtlichen Termin für den Abschluss der Installationen;
-- b. Grundriss und Ansichten mit Vermassung der Lage und Abmessung der Anlage auf dem Gebäude;
-- c. Querschnitt durch Anlage und Gebäude, aus dem die Montageart ersichtlich wird;
-- d. Fotografie/n der betroffenen Gebäudepartie/n vor der Montage der Anlage;
-- e. Technische Angaben/Produktbeschriebe des vorgesehenen Anlagetyps mit Illustrationen über das Erscheinungsbild der flächigen Elemente und der vorgesehenen Befestigungen entsprechend den Vorschriften des Bundes[^3-1] und den kantonalen Gestaltungsvorschriften.
-
-[^3-1]: SR [700.1](https://db.clex.ch/link/Bund/700.1/de) (Art. 32a, Abs. 1)
+- a. Grundriss und Ansichten mit Vermassung der Lage und Abmessung der Anlage auf dem Gebäude;
+- b. Querschnitt durch Anlage und Dach, aus dem die Montageart ersichtlich wird;
+- c. Fotografien bzw. Luftbild oder Satellitenbild der betroffenen Gebäudepartien vor der Montage der Anlage;
+- d. Technische Angaben/Produktbeschriebe zur vorgesehenen Anlage mit einer Darstellung zum Erscheinungsbild der flächigen Elemente und der vorgesehenen Befestigungen entsprechend den Vorschriften des Bundes und den kantonalen Gestaltungsvorschriften.
 
 #### Art. 4
 
 **b. Meldeverfahren**
 
-<sup>1</sup> Das Bauamt der Gemeinde prüft die Meldungen für bewilligungsfreie Anlagen innerhalb der Bauzonen, Meldungen betreffend Anlagen ausserhalb der Bauzonen leitet das Bauamt innert fünf Arbeitstagen der kantonalen Baukoordination weiter, welche für die Prüfung zuständig ist.
+<sup>1</sup> Das Bauamt der Gemeinde beurteilt die Meldungen für bewilligungsfreie Anlagen innerhalb der Bauzonen. Meldungen betreffend Anlagen ausserhalb der Bauzonen sind innert fünf Arbeitstagen der kantonalen Baukoordination zur Beurteilung weiterzuleiten.
 
-<sup>2</sup> Die Prüfung klärt ab, ob die geplante Anlage auf einem Dach als genügend angepasst im Sinne von Art. 32a Abs. 1 RPV bzw. im Sinne der kantonalen Gestaltungsvorgaben (Anhang 1 und 2) und damit als bewilligungsfrei gilt. Nach durchgeführter Prüfung erhält die Bauherrschaft in der Regel innert 20 Tagen vom bzw. via Bauamt der Gemeinde die Bestätigung, ob die bewilligungsfreie Errichtung der Anlage zulässig ist.
+<sup>2</sup> Sind die Voraussetzungen für eine bewilligungsfreie Anlage gemäss den Anhängen 1 bis 3 erfüllt, erhält die Bauherrschaft vom Bauamt der Gemeinde innert 30 Tagen eine schriftliche Bestätigung.
 
-<sup>3</sup> Erfüllt die geplante Solaranlage die Anforderungen an eine bewilligungsfreie Errichtung nicht, teilt die kantonale Baukoordination bzw. das Bauamt der Bauherrschaft mit, in welcher Art die Anlage zu ändern ist oder dass die Anlage als baubewilligungspflichtig gilt. Auf Verlangen wird darüber durch den Gemeinderat (für Anlagen innerhalb der Bauzone) bzw. das Bau- und Raumentwicklungsdepartement (in den übrigen Fällen) eine Verfügung erlassen.
+<sup>3</sup> Erfüllt die geplante Solaranlage die Anforderungen an eine bewilligungsfreie Errichtung nicht, teilt die kantonale Baukoordination bzw. das Bauamt der Bauherrschaft innert 30 Tagen mit, in welcher Art die Anlage zu ändern ist oder dass die Anlage als baubewilligungspflichtig gilt.
 
 #### Art. 5
 
 **c. Beginn der Bauarbeiten und Kontrolle**
 
-<sup>1</sup> Mit den Bauarbeiten darf erst begonnen werden, wenn die zuständige Behörde auf dem Meldeformular bestätigt hat, dass die Anlage den geltenden Anforderungen entspricht.
+<sup>1</sup> Mit den Bauarbeiten darf erst begonnen werden, wenn das Bauamt der Gemeinde schriftlich bestätigt hat, dass die Solaranlage bewilligungsfrei ist.
 
-<sup>2</sup> Nach Ausführung bewilligungsfreier Solaranlagen muss die Bauherrschaft dem zuständigen Bauamt innert 30 Tagen eine Fotodokumentation zustellen, mit welcher sich die Einhaltung der massgebenden Bestimmungen (Anordnung, Montageweise, Materialien, Farben und Zuleitungen) überprüfen lässt.
+<sup>2</sup> Nach Ausführung bewilligungsfreier Solaranlagen stellt die Bauherrschaft dem Bauamt der Gemeinde innert 30 Tagen eine Fotodokumentation zu, mit welcher sich die Einhaltung der massgebenden Vorgaben (Anordnung, Montageweise, Materialien, Farben und Zuleitungen) überprüfen lässt.
 
-<sup>3</sup> Das Bauamt kontrolliert die Ausführung der meldepflichtigen Anlage gemäss den massgebenden Bestimmungen anhand der von der Bauherrschaft einzureichenden Fotodokumentation. Werden bei dieser Prüfung Mängel festgestellt oder wird keine Dokumentation eingereicht, so ordnet das Bauamt nötige Änderungen oder Ersatzmassnahmen an.
+<sup>3</sup> Das Bauamt kontrolliert die Ausführung der bewilligungsfreien Anlage anhand der eingereichten Fotodokumentation. Werden dabei Mängel festgestellt, so ordnet das Bauamt nötige Änderungen oder Ersatzmassnahmen an.
 
-#### Art. 6
-
-**d. Berichterstattung**
-
-<sup>1</sup> Die Gemeinden erstatten dem Bau- und Raumentwicklungsdepartement jährlich auf einer besonderen Liste Bericht über die Kontrollergebnisse.
-
-OGS 2016, 13
+OGS 2022, 28
