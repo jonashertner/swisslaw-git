@@ -4,11 +4,11 @@ title: "Accord temporaire du 14 décembre 2020 entre la Confédération suisse e
 short: AMFS
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/1073"
 language: fr
-version: 2021-01-01
+version: 2022-12-01
 adopted: 2020-12-14
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1073/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-1073-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/1073/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1073/20221201/fr/xml/fedlex-data-admin-ch-eli-cc-2020-1073-20221201-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/1073/20221201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -25,7 +25,11 @@ Conclu le 14 décembre 2020
 
 Appliqué provisoirement dès le 1<sup>er</sup> janvier 2021
 
-(Etat le 1<sup>er</sup> janvier 2021)
+Entré en vigueur par échange de notes le 1<sup>er</sup> décembre 2022[^t-1]
+
+(État le 1<sup>er</sup> décembre 2022)
+
+[^t-1]: [RO 2022 621](https://fedlex.data.admin.ch/eli/oc/2022/621)
 
 La Confédération suisse (la «Suisse») et le Royaume-Uni de Grande-Bretagne et d’Irlande du Nord (le «Royaume-Uni»), dénommés collectivement les «Parties»;
 
@@ -274,7 +278,9 @@ Jusqu’à l’entrée en vigueur du présent Accord, les Parties peuvent appliq
 
 <sup>5.</sup> Une Partie peut dénoncer le présent Accord en notifiant à l’autre Partie ses intentions. Le présent Accord cesse d’être en vigueur 6 mois après la réception de cette notification.
 
-<sup>6.</sup> Le présent Accord prend fin 2 ans après son entrée en vigueur, à moins que les Parties n’en conviennent autrement.
+<sup>6.</sup> Le présent Accord prend fin 2 ans après son entrée en vigueur, à moins que les Parties n’en conviennent autrement.[^19-1]
+
+[^19-1]: Par échange de notes des 14 et 17 nov. 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022, les Parties ont convenu de prolonger l’accord jusqu’au 31 déc. 2025, à moins qu’elles n’en conviennent autrement ([RO 2022 717](https://fedlex.data.admin.ch/eli/oc/2022/717)).
 
 *En foi de quoi,* les soussignés, dûment autorisés à cet effet par leurs gouvernements respectifs, ont signé le présent Accord. Fait à Londres, le 14 décembre 2020, en deux exemplaires originaux en langue anglaise. Pour le Gouvernement de la Confédération suisse: Guy Parmelin Pour le Gouvernement du Royaume-Uni de Grande-Bretagne et d’Irlande du Nord: Elizabeth Truss
 

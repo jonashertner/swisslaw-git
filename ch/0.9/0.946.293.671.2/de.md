@@ -4,11 +4,11 @@ title: Befristetes Abkommen vom 14. Dezember 2020 zwischen der Schweizerischen E
 short: SMA
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/1073"
 language: de
-version: 2021-01-01
+version: 2022-12-01
 adopted: 2020-12-14
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1073/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2020-1073-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/1073/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1073/20221201/de/xml/fedlex-data-admin-ch-eli-cc-2020-1073-20221201-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/1073/20221201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -23,7 +23,11 @@ Abgeschlossen am 14. Dezember 2020
 
 Vorläufig angewendet ab 1. Januar 2021
 
-(Stand am 1. Januar 2021)
+Inkrafttreten durch Notenaustausch am 1. Dezember 2022[^t-1]
+
+(Stand am 1. Dezember 2022)
+
+[^t-1]: [AS 2022 621](https://fedlex.data.admin.ch/eli/oc/2022/621)
 
 Die Schweizerische Eidgenossenschaft (die «Schweiz») und das Vereinigte Königreich von Grossbritannien und Nordirland (das «Vereinigte Königreich»),
 
@@ -272,7 +276,9 @@ Bis zum Inkrafttreten dieses Abkommens können die Vertragsparteien dieses Abkom
 
 <sup>5.</sup> Eine Vertragspartei kann dieses Abkommen beenden, indem sie die andere Vertragspartei über ihre Absicht notifiziert. Es tritt sechs Monate nach Erhalt dieser Notifikation ausser Kraft.
 
-<sup>6.</sup> Dieses Abkommen endet zwei Jahre nach seinem Inkrafttreten, sofern die Vertragsparteien nichts anderes vereinbaren.
+<sup>6.</sup> Dieses Abkommen endet zwei Jahre nach seinem Inkrafttreten, sofern die Vertragsparteien nichts anderes vereinbaren.[^19-1]
+
+[^19-1]: Mit Notenaustausch vom 14. und 17. Nov. 2022, in Kraft seit 1. Dez 2022 haben die Vertragsparteien vereinbart, das Abk. bis zum 31. Dez. 2025 zu verlängern, sofern die Parteien nichts anders vereinbaren ([AS 2022 717](https://fedlex.data.admin.ch/eli/oc/2022/717)).
 
 *Zu Urkund dessen* haben die hierzu von ihrer jeweiligen Regierung gehörig befugten Unterzeichnenden dieses Abkommen unterzeichnet. Geschehen zu London am 14. Dezember 2020 in zwei Urschriften in englischer Sprache. Für die Regierung der Schweizerischen Eidgenossenschaft: Guy Parmelin Für die Regierung des Vereinigten Königreichs von Grossbritannien und Nordirland: Elizabeth Truss
 
