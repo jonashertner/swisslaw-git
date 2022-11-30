@@ -1,29 +1,28 @@
 ---
 canton: GR
 number: "800.110"
-title: Ordinaziun davart las immobiglias dal chantun
+title: Ordinaziun davart las immobiglias
 short: OIm
 language: rm
-version: 2009-01-01
-corrected: 2020-04-01
-version_adopted: 2008-10-28
+version: 2022-12-01
+version_adopted: 2022-11-22
 adopted: 2022-11-22
 in_force: 2022-12-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/800.110"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2247/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3278/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Ordinaziun davart las immobiglias dal chantun
+# Ordinaziun davart las immobiglias
 
 (OIm)
 
-dals 04-07-2006 (versiun dals 01-01-2009)
+dals 22-11-2022 (versiun dals 01-12-2022)
 
-sa basond sin l'art. 43 al. 2 e sin l'art. 49 al. 1 da la constituziun chantunala[^ingress-1]
+Sa basond sin l'art. 43 al. 2 e l'art. 49 al. 1 da la Constituziun chantunala[^ingress-1]
 
-relaschada da la regenza ils 4 da fanadur 2006
+relaschada da la Regenza ils 22 da november 2022
 
 [^ingress-1]: DG [110.100](https://www.gr-lex.gr.ch/data/110.100/rm)
 
@@ -33,202 +32,136 @@ relaschada da la regenza ils 4 da fanadur 2006
 
 **Object**
 
-<sup>1</sup> Questa ordinaziun regla:
+<sup>1</sup> Questa ordinaziun regla las incumbensas e las cumpetenzas dal management d'immobiglias dal chantun en ils suandants secturs:
 
-- a) las incumbensas e las cumpetenzas sco er las dumondas da la coordinaziun e da la collavuraziun en il sectur da la planisaziun, da la realisaziun e da l'administraziun da las immobiglias da l'administraziun chantunala, da las dretgiras e dals instituts dependents dal chantun;
-- b) la collavuraziun da l'uffizi da construcziun auta dal Grischun (uffizi da construcziun auta) en connex cun edifizis e cun stabiliments subvenziunads dal chantun.
-
-<sup>2</sup> Questa ordinaziun na vegn betg applitgada per las immobiglias da la cassa da pensiun chantunala ed er betg per l'acquist da terren per construir vias.
+- a) planisaziun e direcziun strategica dal portfolio d'immobiglias;
+- b) management da projects da construcziun;
+- c) gestiun d'immobiglias;
+- d) furniziun d'ulteriurs servetschs.
 
 #### Art. 2
 
-**Noziuns**
+**Champ d'applicaziun**
 
-<sup>1</sup> Il manaschament d'immobiglias cumpiglia tut las mesiras per cuvrir il basegn da spazi da l'administraziun chantunala, da las dretgiras e dals instituts dependents dal chantun sco er per mantegnair ils interess dal chantun sco proprietari e sco possessur d'immobiglias u sco patrun da construcziun. El cuntegna spezialmain l'analisa e la structuraziun dal portfolio d'immobiglias, il svilup da strategias per optimar quel sco er la planisaziun, la realisaziun e l'administraziun da las immobiglias.
+<sup>1</sup> Questa ordinaziun vala per las immobiglias dal chantun ch'èn en la facultad administrativa e finanziala sco er per las immobiglias ch'il chantun ha prendì en locaziun.
 
-<sup>2</sup> Sco immobiglias en il senn da questa ordinaziun valan tut ils bains immobigliars, tut ils edifizis e tut ils stabiliments ch'èn u en proprietad u en possess dal chantun, cunzunt en locaziun, en fittanza u en leasing.
+<sup>2</sup> Ella na vegn betg applitgada per las immobiglias dals instituts autonoms da dretg public e da las dretgiras ed er betg per ils bains immobigliars ch'èn vegnids acquistads en connex cun la Lescha davart las vias dal chantun Grischun[^2-1] u cun la Lescha per promover il svilup economic en il chantun Grischun[^2-2]. Cunvegnas divergentas restan resalvadas.
 
-<sup>3</sup> Sco projects da construcziun valan construcziuns novas, midadas da construcziun ed engrondiments da construcziuns sco er reparaziuns e la disfatga d'edifizis dal chantun u d'edifizis prendids en locaziun dal chantun.
-
-<sup>4</sup> Sco projects gronds en il senn da questa ordinaziun valan:
-
-- a) projects da construcziun ch'èn suttamess al referendum;
-- b) mesiras architectonicas da mantegniment che vegnan regladas sur il quint d'investiziun.
-
-<sup>5</sup> Sco fatschentas d'immobiglias valan:
-
-- a) la cumpra, la vendita ed il barat d'immobiglias sco er la fundaziun, la midada, l'execuziun e l'aboliziun da dretgs da precumpra, da cumpra e da recumpra d'immobiglias;
-- b) la fundaziun, la midada e l'aboliziun da dretgs da construcziun e d'auters dretgs reals restrenschids;
-- c) la locaziun, la fittanza ed il leasing d'immobiglias;
-- d) la prenotaziun da la locaziun e da la fittanza.
-
-<sup>6</sup> Sco organisaziun utilisadra vegnan designadas las unitads organisatoricas che utiliseschan ina immobiglia.
+[^2-1]: DG [807.100](https://www.gr-lex.gr.ch/data/807.100/rm)
+[^2-2]: DG [932.100](https://www.gr-lex.gr.ch/data/932.100/rm)
 
 #### Art. 3
 
-**Cumpetenzas**
+**Princips**
 
-<sup>1</sup> Il manaschament d'immobiglias è suttamess a l'uffizi da construcziun auta.
+<sup>1</sup> Il chantun ha ina funcziun d'exempel cun ses management d'immobiglias e s'engascha per la promoziun da la cultura architectonica sco er da soluziuns innovativas.
 
-<sup>2</sup> L'uffizi da construcziun auta po delegar singulas incumbensas en il rom da cunvegnas.
+<sup>2</sup> El agescha tenor ils princips da la necessitad, da la commensurabladad, da la persistenza e resguardond particularmain l'orientaziun als basegns dals utilisaders.
 
-<sup>3</sup> Per represchentar il chantun en connex cun fatschentas d'immobiglias sco er tar ils uffizis dal register funsil designescha il departament da construcziun, traffic e selvicultura (departament) la persuna autorisada.
+<sup>3</sup> El ha la finamira da procurar per la transparenza dals custs, per la conscienza per ils custs sco er per in cumportament economic resguardond particularmain ils custs dals ciclus da vita.
 
 #### Art. 4
 
-**Basa**
+**Noziuns**
 
-<sup>1</sup> Per cuntanscher soluziuns equilibradas areguard il manaschi, areguard l'economia ed areguard l'architectura elavurescha l'uffizi da construcziun auta – observond las normas spezialisadas respectivas sco er resguardond la persistenza ed ils basegns da persunas cun impediments – la basa correspundenta e las directivas correspundentas per:
+<sup>1</sup> En questa ordinaziun signifitgan:
 
-- a) l'acquist, la planisaziun, la realisaziun e l'administraziun d'immobiglias e da lur equipament;
-- b) ils projects da construcziun dal chantun;
-- c) l'examinaziun specifica d'edifizis e da stabiliments subvenziunads u confinanziads en il rom da las legislaziuns spezialas correspundentas;
-- d) las organisaziuns utilisadras.
+- a) immobiglias: edifizis e stabiliments ch'èn colliads fermamain e permanentamain cun il terren, singulas parts d'edifizis sco er bains immobigliars en il senn da l'artitgel 655 dal Cudesch civil svizzer[^4-1];
+- b) management d'immobiglias: totalitad da tut las mesiras per cuvrir il basegn da surfatscha e da spazi da l'administraziun chantunala sco er per defender ils interess dal chantun sco proprietari e possessur d'immobiglias u sco patrun da construcziun;
+- c) fatschentas d'immobiglias: cumpra, utilisaziun e barat d'immobiglias, constituziun, modificaziun, execuziun ed aboliziun da dretgs da precumpra, da cumpra e da recumpra sco er da dretgs da construcziun e d'auters dretgs reals limitads d'immobiglias, locaziun e fittanza d'immobiglias inclusiv prenotaziun;
+- d) projects da construcziun: edifizis novs, midadas d'edifizis, engrondiments, reparaziuns, renovaziuns sco er demontaschas d'immobiglias;
+- e) projects gronds: projects da construcziun ch'èn suttamess al referendum da finanzas obligatoric;
+- f) gestiun: administraziun, manaschi e mantegniment d'immobiglias;
+- g) mantegniment: mesiras che servan a mantegnair l'utilisabladad da l'immobiglia e dals indrizs respectivs da la tecnica da manaschi, en spezial il service e la tgira;
+- h) reparaziun: mesiras per restabilir l'utilisabladad e la segirezza da l'immobiglia e dals indrizs respectivs da la tecnica da manaschi;
+- i) renovaziun: restabiliment d'in entir edifizi u da parts da tal en in stadi cumparegliabel cun l'edifizi nov oriund;
+- j) cumprova dal basegn: deducziun e descripziun dal basegn da spazi e d'equipament a maun da concepts da manaschi e d'utilisaziun sco er da programs da spazi;
+- k) patrun da construcziun: incumbensader u purtader da decisiuns suprem che ha la responsabladad etica, giuridica ed economica tar la realisaziun da projects da construcziun;
+- l) utilisaders: unitads organisatoricas che utiliseschan ina immobiglia.
 
-<sup>2</sup> L'uffizi da construcziun auta po relaschar normas e directivas tecnic-professiunalas supplementaras.
-
-## 2. Planisaziun e realisaziun da projects da construcziun (manaschament da projects)
+[^4-1]: CS [210](https://db.clex.ch/link/Bund/210/rm)
 
 #### Art. 5
 
-**Organisaziun dal project**
+**Cumpetenzas**
 
-<sup>1</sup> Tar projects gronds fixescha il departament sin proposta da l'uffizi da construcziun auta l'organisaziun dal project per manar in project da construcziun davent da la planisaziun fin a la fin da la realisaziun. El decida spezialmain davart la furmaziun, davart la nominaziun e davart la schliaziun d'ina cumissiun da planisaziun e da construcziun.
+<sup>1</sup> Il management d'immobiglias è chaussa da l'Uffizi da construcziun auta.
 
-<sup>2</sup> Tar tut ils auters projects da construcziun fixescha l'uffizi da construcziun auta l'organisaziun adattada.
+<sup>2</sup> L'Uffizi da construcziun auta po delegar incumbensas en il rom da cunvegnas, salva dentant il dretg da dar directivas tecnicas specificas.
+
+<sup>3</sup> Per las fatschentas d'immobiglias valan las suandantas cumpetenzas:
+
+- a) per represchentar il chantun en connex cun fatschentas d'immobiglias sco er davant ils uffizis dal register funsil designescha il Departament d'infrastructura, energia e mobilitad u la Regenza las persunas autorisadas;
+- b) l'Uffizi da construcziun auta è autorisà da prender definitivamain ed autonomamain decisiuns da cumpra e da vendita en fatschentas d'immobiglias da fin e cun 50 000 francs sco er da procurar precedentamain il transferiment necessari da la facultad administrativa en la facultad finanziala.
+
+<sup>4</sup> Per ils projects da construcziun valan las suandantas cumpetenzas:
+
+- a) en cas da projects gronds represchenta il Departament d'infrastructura, energia e mobilitad il chantun sco patrun da construcziun, nominescha ina cumissiun da planisaziun e da construcziun e surveglia ils projects da construcziun. El po delegar la funcziun da patrun da construcziun a l'Uffizi da construcziun auta;
+- b) en cas da projects da construcziun che n'èn betg suttamess al referendum da finanzas obligatoric, represchenta l'Uffizi da construcziun auta il chantun sco patrun da construcziun;
+- c) il basegn per in project da construcziun sto vegnir cumprovà e motivà dals utilisaders en moda chapaivla en enclegientscha cun lur departament superiur;
+- d) ils utilisaders collavuran en l'organisaziun dal project en il rom da las prescripziuns dal patrun da construcziun e da l'Uffizi da construcziun auta;
+- e) en cas da projects gronds u da studis pretensius vegn la planisaziun instradada dal patrun da construcziun;
+- f) l'utilisaziun dals credits sa drizza tenor las disposiziuns da la legislaziun davart las finanzas;
+- g) il patrun da construcziun po concluder divergenzas dal project approvà, sch'ellas s'imponan sin fundament da la planisaziun detagliada u èn necessarias per motivs dal manaschi, per motivs economics u per motivs architectonics e sch'il credit na vegn betg surpassà.
 
 #### Art. 6
 
-**Patrun da construcziun**
+**Prescripziuns e directivas**
 
-<sup>1</sup> Tar projects gronds represchenta il departament il chantun sco patrun da construcziun e surveglia ils projects da construcziun. Il departament po designar l'uffizi da construcziun auta sco patrun da construcziun.
+<sup>1</sup> Per observar ils princips davart las immobiglias elavura l'Uffizi da construcziun auta las prescripziuns necessarias e relascha directivas per procurar, planisar, realisar, administrar, utilisar ed equipar las immobiglias. En quest connex vegnan ils basegns dals utilisaders resguardads adequatamain.
 
-<sup>2</sup> Tar tut ils auters projects da construcziun represchenta l'uffizi da construcziun auta il chantun sco patrun da construcziun.
+## 2. Incumbensas
 
 #### Art. 7
 
-**Planisaziun e realisaziun dal project**
+**Planisaziun e direcziun strategica dal portfolio d'immobiglias**
 
-<sup>1</sup> En il rom da la planisaziun e da la realisaziun dal project ademplescha l'uffizi da construcziun auta spezialmain las suandantas incumbensas:
+<sup>1</sup> En il rom da la planisaziun e da la direcziun strategica dal portfolio d'immobiglias ademplescha l'Uffizi da construcziun auta las suandantas incumbensas:
 
-- a) examinar ils basegns annunziads areguard lur legitimitad, areguard lur opportunitad ed areguard lur rentabilitad;
-- b) cussegliar las instanzas participadas vi dal project da construcziun, spezialmain la regenza, il departament e l'organisaziun utilisadra;
-- c) coordinar tut las instanzas, tut las autoritads sco er tut las incumbensadras e tut ils incumbensaders involvids al project da construcziun;
-- d) survegliar tut las fasas da la planisaziun e da la realisaziun;
-- e) controllar ils custs, ils termins e la qualitad;
-- f) orientar il departament davart eveniments spezials;
-- g) procurar per l'exposiziun publica d'incaricas da construcziun, da furniziun e da prestaziuns da servetsch;
-- h) collaudar e controllar il rendaquint;
-- i) archivar.
+- a) planisar il portfolio e las investiziuns en moda proactiva ed a lunga vista;
+- b) structurar il portfolio sco er optimar e regular ils portfolios parzials;
+- c) definir ils standards da spazi e d'equipament per l'administraziun chantunala;
+- d) examinar ils basegns annunziads dals utilisaders areguard la realisabladad ed areguard la concordanza cun las finamiras e cun ils princips strategics davart las immobiglias;
+- e) evaluar ils lieus e planisar l'occupaziun da las immobiglias;
+- f) concluder ed annullar contracts d'immobiglias, sco contracts da cumpra e da locaziun, servituts, contracts da service e da mantegniment e chaussas sumegliantas.
 
 #### Art. 8
 
-**Organisaziun utilisadra**
+**Management da projects da construcziun**
 
-<sup>1</sup> L'organisaziun utilisadra collavurescha en il rom da las directivas dal patrun da construcziun e da l'uffizi da construcziun auta en l'organisaziun dal project.
+<sup>1</sup> En il rom da projects da construcziun ademplescha l'Uffizi da construcziun auta las suandantas incumbensas:
+
+- a) fixar las finamiras dals projects e survegliar tut las fasas dals projects;
+- b) fixar furmas adattadas per l'organisaziun dals projects per diriger ils projects da construcziun;
+- c) preparar e realisar proceduras che garanteschan la qualitad per acquistar las prestaziuns da construcziun, las prestaziuns da servetsch sco er las furniziuns necessarias;
+- d) far la dumonda da credit a las instanzas cumpetentas;
+- e) approvar e deliberar ils resultats resguardond las finamiras dal project fixadas;
+- f) resguardar l'art en la construcziun tar ils projects;
+- g) collaudar e controllar il rendaquint final;
+- h) terminar e documentar ils projects.
 
 #### Art. 9
 
-**Introducziun**
+**Gestiun d'immobiglias**
 
-<sup>1</sup> L'introducziun da la planisaziun succeda tar projects gronds u tar studis pretensius tras il patrun da construcziun.
+<sup>1</sup> En il rom da la gestiun d'immobiglias ademplescha l'Uffizi da construcziun auta las suandantas incumbensas:
+
+- a) fixar ils standards manaschials ed ils nivels da service;
+- b) survegliar il stadi, il manaschi ed il mantegniment;
+- c) administrar ed actualisar ils contracts d'immobiglias;
+- d) nettegiar, garantir il provediment e la dismessa, tgirar ils conturns sco er furnir il servetsch d'enviern;
+- e) administrar ils sistems da controlla d'access;
+- f) planisar ed organisar midadas da biros;
+- g) procurar e controllar l'energia;
+- h) acquistar il mobigliar;
+- i) scuntrar ils custs da locaziun calculatorics entaifer l'administraziun.
 
 #### Art. 10
 
-**Cumprova dal basegn**
+**Furniziun d'ulteriurs servetschs**
 
-<sup>1</sup> La cumprova dal basegn per in project da construcziun sto vegnir fatga da l'organisaziun utilisadra en enclegientscha cun il departament superiur tenor las directivas da l'uffizi da construcziun auta.
+<sup>1</sup> L'Uffizi da construcziun auta cooperescha en la procedura legala per l'approvaziun da contribuziuns da construcziun per edifizis subvenziunads e cusseglia ils posts cumpetents en dumondas da la tecnica da construcziun.
 
-#### Art. 11
+<sup>2</sup> El po furnir ulteriurs servetschs per patruns da construcziun publics e concluda cunvegnas correspundentas per quest intent.
 
-**Approvaziun dal project**
-
-<sup>1</sup> Per regla vegn il project approvà da las instanzas cumpetentas sin basa d'in preproject che cuntegna la calculaziun dals custs sco er sin basa d'in quint dals custs da gestiun.
-
-<sup>2</sup> Per l'art a l'edifizi po vegnir previs in import commensurà per l'ovra da construcziun.
-
-#### Art. 12
-
-**Concessiun dal credit e diever dal credit**
-
-<sup>1</sup> La concessiun dal credit ed il diever dal credit sa drizzan tenor las disposiziuns da la legislaziun davart las finanzas.
-
-#### Art. 13
-
-**Divergenzas dal project**
-
-<sup>1</sup> La represchentanza dal patrun da construcziun po concluder divergenzas dal project approvà, sche quellas èn necessarias sin fundament da la planisaziun detagliada u per motivs dal manaschi, per motivs economics u per motivs architectonics e sch'il credit na vegn betg surpassà.
-
-<sup>2</sup> Midadas da l'intent ston avair il consentiment da l'instanza che ha approvà il project.
-
-## 3. Administraziun d'immobiglias (facility-management)
-
-#### Art. 14
-
-**Noziun ed incumbensas**
-
-<sup>1</sup> Per in'administraziun optimala da las immobiglias ademplescha l'uffizi da construcziun auta en il rom dal facility-management spezialmain las suandantas incumbensas:
-
-- a) examinar e far propostas tar fatschentas d'immobiglias sco er far ils contracts correspundents e las cunvegnas correspundentas;
-- b) survegliar, manar, mantegnair, reparar e renovar las immobiglias;
-- c) examinar ils basegns annunziads areguard lur legitimitad, areguard lur opportunitad ed areguard lur rentabilitad;
-- d) reparter las immobiglias e las localitads a las organisaziuns utilisadras;
-- e) planisar ed organisar midadas da biros;
-- f) administrar las locaziuns;
-- g) administrar da las plazzas da parcar;
-- h) administrar l'inventari da las immobiglias e da las mobiglias;
-- i) administrar ils indicaturs dals edifizis ed ils documents da planisaziun;
-- j) procurar per il mantegniment, per il nettegiament e per la dismessa;
-- k) procurar ed administrar las clavs, il mobigliar ed ils utensils;
-- l) procurar per l'energia;
-- m) archivar.
-
-#### Art. 15
-
-**Lavurs da mantegniment**
-
-<sup>1</sup> L'uffizi da construcziun auta ha il dretg da dar directivas specificas a las persunas che fan lavurs da mantegniment.
-
-## 4. Prestaziuns da servetsch spezialas da l'uffizi da construcziun auta
-
-#### Art. 16
-
-**Cussegliaziun**
-
-<sup>1</sup> L'uffizi da construcziun auta po cussegliar ed accumpagnar vischnancas, autras corporaziuns ed instituziuns da dretg public sco er instituziuns responsablas d'utilitad publica tar la planisaziun e tar la realisaziun d'edifizis e da stabiliments.
-
-<sup>2</sup> L'uffizi da construcziun auta po er prestar ulteriurs servetschs per terzas persunas.
-
-#### Art. 17
-
-**Facturaziun**
-
-<sup>1</sup> Sch'i n'èn betg avant maun tariffas d'onurari recumandadas da las federaziuns spezialisadas, vegnan duvradas per prestaziuns da servetsch a terzas persunas las tariffas che vegnan fixadas mintg'onn dal departament da finanzas.
-
-<sup>2</sup> L'ulteriura facturaziun interna da prestaziuns ad auters posts da servetsch sa drizza tenor ils princips fixads da la regenza.
-
-## 5. Disposiziuns finalas
-
-#### Art. 18
-
-**Aboliziun dal dretg vertent**
-
-<sup>1</sup> Abolids vegnan:
-
-- a) il reglament per l'uffizi chantunal da construcziun auta dals 19 da matg 1998[^18-1];
-- b) l'ordinaziun davart la planisaziun e l'execuziun da construcziuns autas chantunalas (ordinaziun davart construcziuns autas) dals 7 da december 1981[^18-2].
-
-<sup>2</sup> Sche relaschs vertents renvieschan a disposiziuns che stattan en cuntradicziun cun questa ordinaziun, vegnan applitgadas las disposiziuns correspundentas da questa ordinaziun.
-
-[^18-1]: CUL 1998, 4071
-[^18-2]: CUL 1981, 928; CUL 1994, 2930; CUL 1997, 3958 e CUL 2003, FUC 2258
-
-#### Art. 19
-
-**Entrada en vigur e dretg transitoric**
-
-<sup>1</sup> Questa ordinaziun entra en vigur il 1. da zercladur 2006.
-
-<sup>2</sup> Ella vegn applitgada per tut ils projects da construcziun currents e per tut ils projects da construcziun novs.
-
--
+2022-038

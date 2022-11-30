@@ -1,29 +1,28 @@
 ---
 canton: GR
 number: "800.110"
-title: Verordnung über die Immobilien des Kantons
+title: Verordnung über die Immobilien
 short: ImV
 language: de
-version: 2009-01-01
-corrected: 2020-04-01
-version_adopted: 2008-10-28
+version: 2022-12-01
+version_adopted: 2022-11-22
 adopted: 2022-11-22
 in_force: 2022-12-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/800.110"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/2247/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3278/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung über die Immobilien des Kantons
+# Verordnung über die Immobilien
 
 (ImV)
 
-Vom 04.07.2006 (Stand 01.01.2009)
+Vom 22.11.2022 (Stand 01.12.2022)
 
 Gestützt auf Art. 43 Abs. 2 und Art. 49 Abs. 1 der Kantonsverfassung[^ingress-1]
 
-von der Regierung erlassen am 4. Juli 2006
+von der Regierung erlassen am 22. November 2022
 
 [^ingress-1]: BR [110.100](https://www.gr-lex.gr.ch/data/110.100/de)
 
@@ -33,202 +32,136 @@ von der Regierung erlassen am 4. Juli 2006
 
 **Gegenstand**
 
-<sup>1</sup> Diese Verordnung regelt:
+<sup>1</sup> Diese Verordnung regelt die Aufgaben und Zuständigkeiten im Immobilienmanagement des Kantons in den folgenden Bereichen:
 
-- a) die Aufgaben und Zuständigkeiten sowie die Fragen der Koordination und Zusammenarbeit im Bereich der Planung, Realisierung und Bewirtschaftung von Immobilien der kantonalen Verwaltung, der Gerichte und der unselbständigen Anstalten des Kantons;
-- b) die Mitwirkung des Hochbauamtes Graubünden (Hochbauamt) bei vom Kanton subventionierten Bauten und Anlagen.
-
-<sup>2</sup> Diese Verordnung findet keine Anwendung auf die Immobilien der Kantonalen Pensionskasse sowie auf den Landerwerb des Strassenbaus.
+- a) strategische Planung und Steuerung des Immobilienportfolios;
+- b) Projektmanagement bei Bauvorhaben;
+- c) Bewirtschaftung von Immobilien;
+- d) Erbringung von weiteren Dienstleistungen.
 
 #### Art. 2
 
-**Begriffe**
+**Geltungsbereich**
 
-<sup>1</sup> Das Immobilienmanagement umfasst die Gesamtheit aller Massnahmen zur Deckung des Raumbedarfs der kantonalen Verwaltung, der Gerichte und der unselbständigen Anstalten des Kantons sowie zur Wahrung der Interessen des Kantons als Immobilieneigentümer und -besitzer oder als Bauherrschaft. Es beinhaltet insbesondere die Analyse und Strukturierung des Immobilienportfolios, die Entwicklung von Strategien zu dessen Optimierung sowie die Planung, die Realisierung und die Bewirtschaftung von Immobilien.
+<sup>1</sup> Diese Verordnung gilt für kantonseigene Immobilien im Verwaltungs- und im Finanzvermögen sowie für Immobilien, die vom Kanton gemietet werden.
 
-<sup>2</sup> Als Immobilien im Sinne dieser Verordnung gelten alle Grundstücke, Bauten und Anlagen, die entweder im Eigentum oder im Besitze, namentlich Miete, Pacht oder Leasing, des Kantons stehen.
+<sup>2</sup> Sie findet keine Anwendung auf Immobilien der selbständigen öffentlich-rechtlichen Anstalten und der Gerichte sowie auf Grundstücke, deren Erwerb im Zusammenhang mit dem Strassengesetz des Kantons Graubünden[^2-1] oder dem Gesetz über die Förderung der wirtschaftlichen Entwicklung in Graubünden[^2-2] steht. Abweichende Vereinbarungen bleiben vorbehalten.
 
-<sup>3</sup> Als Bauvorhaben gelten Neu-, Um- und Erweiterungsbauten sowie Instandsetzungen und der Rückbau von kantonseigenen oder gemieteten Bauten.
-
-<sup>4</sup> Als Grossprojekte im Sinne dieser Verordnung gelten:
-
-- a) Bauvorhaben, die dem Referendum unterstehen;
-- b) bauliche Unterhaltsmassnahmen, die über die Investitionsrechnung abgewickelt werden.
-
-<sup>5</sup> Als Immobiliengeschäfte gelten:
-
-- a) der Kauf, Verkauf und Tausch von Immobilien sowie die Begründung, Änderung, Ausübung und Aufhebung von Vorkaufs-, Kaufs- und Rückkaufsrechten an Immobilien;
-- b) die Begründung, Änderung und Aufhebung von Baurechten und anderen beschränkten dinglichen Rechten;
-- c) die Miete, Pacht und das Leasing von Immobilien;
-- d) die Vormerkung von Miete und Pacht.
-
-<sup>6</sup> Als Benutzerorganisation werden die organisatorischen Einheiten bezeichnet, die eine Immobilie nutzen.
+[^2-1]: BR [807.100](https://www.gr-lex.gr.ch/data/807.100/de)
+[^2-2]: BR [932.100](https://www.gr-lex.gr.ch/data/932.100/de)
 
 #### Art. 3
+
+**Grundsätze**
+
+<sup>1</sup> Der Kanton nimmt mit seinem Immobilienmanagement eine Vorbildfunktion ein und setzt sich für die Förderung der Baukultur sowie innovativer Lösungen ein.
+
+<sup>2</sup> Er handelt nach den Grundsätzen der Erforderlichkeit, der Zweckmässigkeit, der Nachhaltigkeit und unter besonderer Berücksichtigung der Nutzerorientierung.
+
+<sup>3</sup> Er strebt Kostentransparenz, Kostenbewusstsein sowie wirtschaftliches Verhalten unter besonderer Berücksichtigung der Lebenszykluskosten an.
+
+#### Art. 4
+
+**Begriffe**
+
+<sup>1</sup> In dieser Verordnung bedeuten:
+
+- a) Immobilien: Mit dem Boden fest und dauernd verbundene Bauten und Anlagen, einzelne Gebäudebestandteile sowie Grundstücke im Sinne von Artikel 655 des Schweizerischen Zivilgesetzbuchs[^4-1];
+- b) Immobilienmanagement: Gesamtheit aller Massnahmen zur Deckung des Flächen- und Raumbedarfs der kantonalen Verwaltung sowie zur Wahrung der Interessen des Kantons als Immobilieneigentümer und -besitzer oder als Bauherrschaft;
+- c) Immobiliengeschäfte: Kauf, Verwertung und Tausch von Immobilien, Begründung, Änderung, Ausübung und Aufhebung von Vorkaufs-, Kaufs- und Rückkaufsrechten sowie von Baurechten und anderen beschränkten dinglichen Rechten an Immobilien, Miete und Pacht von Immobilien samt Vormerkung;
+- d) Bauvorhaben: Neu-, Um- und Erweiterungsbauten, Instandsetzungen, Erneuerungen sowie Rückbau von Immobilien;
+- e) Grossprojekte: Bauvorhaben, die dem obligatorischen Finanzreferendum unterstehen;
+- f) Bewirtschaftung: Verwaltung, Betrieb und Instandhaltung von Immobilien;
+- g) Instandhaltung: Massnahmen, die der Bewahrung der Gebrauchstauglichkeit der Immobilie und der zugehörigen betriebstechnischen Anlagen dienen, insbesondere die Wartung und Pflege;
+- h) Instandsetzung: Massnahmen zur Wiederherstellung der Gebrauchstauglichkeit und Sicherheit der Immobilie und der zugehörigen betriebstechnischen Anlagen;
+- i) Erneuerung: Wiederherstellung eines gesamten Bauwerks oder von Teilen desselben in einen mit dem ursprünglichen Neubau vergleichbaren Zustand;
+- j) Bedarfsnachweis: Herleitung und Beschreibung von Raum- und Ausstattungsbedarf anhand von Betriebs- und Nutzungskonzepten sowie Raumprogrammen;
+- k) Bauherrschaft: Ethisch, rechtlich und wirtschaftlich verantwortlicher Auftraggeber und oberster Entscheidungsträger bei der Durchführung von Bauvorhaben;
+- l) Nutzer: Organisatorische Einheiten, die eine Immobilie nutzen.
+
+[^4-1]: SR [210](https://db.clex.ch/link/Bund/210/de)
+
+#### Art. 5
 
 **Zuständigkeiten**
 
 <sup>1</sup> Das Immobilienmanagement obliegt dem Hochbauamt.
 
-<sup>2</sup> Das Hochbauamt kann im Rahmen von Vereinbarungen einzelne Aufgaben delegieren.
+<sup>2</sup> Das Hochbauamt kann im Rahmen von Vereinbarungen Aufgaben delegieren, behält aber das fachtechnische Weisungsrecht.
 
-<sup>3</sup> Für die Vertretung des Kantons bei Immobiliengeschäften sowie vor den Grundbuchämtern bezeichnet das Bau-, Verkehrs- und Forstdepartement (Departement) die bevollmächtigten Personen.
+<sup>3</sup> Für Immobiliengeschäfte gelten folgende Zuständigkeiten:
 
-#### Art. 4
+- a) für die Vertretung des Kantons bei Immobiliengeschäften sowie vor den Grundbuchämtern bezeichnet das Departement für Infrastruktur, Energie und Mobilität oder die Regierung die bevollmächtigten Personen;
+- b) das Hochbauamt ist ermächtigt, Kauf- und Verkaufsentscheide von Immobiliengeschäften bis und mit 50 000 Franken abschliessend und autonom zu tätigen sowie den vorgängig notwendigen Übertrag vom Verwaltungs- in das Finanzvermögen zu veranlassen.
 
-**Grundlagen**
+<sup>4</sup> Für Bauvorhaben gelten folgende Zuständigkeiten:
 
-<sup>1</sup> Zur Erzielung von betrieblich, wirtschaftlich und architektonisch ausgewogenen Lösungen erarbeitet das Hochbauamt unter Beachtung der einschlägigen Fachnormen sowie unter Berücksichtigung der Nachhaltigkeit und der Anliegen von Menschen mit Behinderungen die entsprechenden Grundlagen und Vorgaben für:
-
-- a) die Beschaffung, Planung, Realisierung und Bewirtschaftung von Immobilien und deren Ausstattung;
-- b) die kantonseigenen Bauvorhaben;
-- c) die fachtechnische Prüfung von subventionierten und mitfinanzierten Bauten und Anlagen im Rahmen der entsprechenden Spezialgesetzgebungen;
-- d) die Benutzerorganisationen.
-
-<sup>2</sup> Das Hochbauamt kann zusätzliche fachtechnische Normen und Weisungen erlassen.
-
-## 2. Planung und Realisierung von Bauvorhaben (Projektmanagement)
-
-#### Art. 5
-
-**Projektorganisation**
-
-<sup>1</sup> Das Departement bestimmt bei Grossprojekten auf Antrag des Hochbauamtes die Projektorganisation für die Führung eines Bauvorhabens von der Planung bis zum Abschluss der Realisierung. Es entscheidet insbesondere über die Bildung, Einsetzung und Auflösung einer Planungs- und Baukommission.
-
-<sup>2</sup> Bei allen anderen Bauvorhaben legt das Hochbauamt die geeignete Organisation fest.
+- a) bei Grossprojekten vertritt das Departement für Infrastruktur, Energie und Mobilität den Kanton als Bauherrschaft, setzt eine Planungs- und Baukommission ein und übt die Aufsicht über die Bauvorhaben aus. Es kann dem Hochbauamt die Bauherrschaft übertragen;
+- b) bei Bauvorhaben, die nicht dem obligatorischen Finanzreferendum unterstehen, vertritt das Hochbauamt den Kanton als Bauherrschaft;
+- c) der Bedarfsnachweis für ein Bauvorhaben ist von den Nutzern im Einvernehmen mit ihrem vorgesetzten Departement begründet und nachvollziehbar zu erbringen;
+- d) die Nutzer wirken nach den Vorgaben der Bauherrschaft und des Hochbauamts in der Projektorganisation mit;
+- e) die Einleitung der Planung erfolgt bei Grossprojekten oder bei anspruchsvollen Studien durch die Bauherrschaft;
+- f) die Kreditverwendung richtet sich nach den Bestimmungen der Finanzhaushaltsgesetzgebung;
+- g) die Bauherrschaft kann Abweichungen vom genehmigten Projekt beschliessen, soweit sich diese aus der Detailplanung aufdrängen oder aus betrieblichen, wirtschaftlichen oder architektonischen Gründen notwendig sind und der Kredit nicht überschritten wird.
 
 #### Art. 6
 
-**Bauherrschaft**
+**Vorgaben und Weisungen**
 
-<sup>1</sup> Bei Grossprojekten vertritt das Departement den Kanton als Bauherrschaft und übt die Aufsicht über die Bauvorhaben aus. Das Departement kann dem Hochbauamt die Bauherrschaft übertragen.
+<sup>1</sup> Zur Einhaltung der Immobiliengrundsätze erarbeitet das Hochbauamt die erforderlichen Vorgaben und erlässt Weisungen für die Beschaffung, Planung, Realisierung, Bewirtschaftung, Nutzung und Ausstattung von Immobilien. Dabei werden die Nutzerbedürfnisse angemessen berücksichtigt.
 
-<sup>2</sup> Bei allen anderen Bauvorhaben vertritt das Hochbauamt den Kanton als Bauherrschaft.
+## 2. Aufgaben
 
 #### Art. 7
 
-**Projektplanung und -realisierung**
+**Strategische Planung und Steuerung des Immobilienportfolios**
 
-<sup>1</sup> Im Rahmen der Projektplanung und -realisierung nimmt das Hochbauamt insbesondere folgende Aufgaben wahr:
+<sup>1</sup> Das Hochbauamt nimmt im Rahmen der strategischen Planung und Steuerung des Immobilienportfolios folgende Aufgaben wahr:
 
-- a) Überprüfung der angemeldeten Bedürfnisse auf Rechtmässigkeit, Zweckmässigkeit und Wirtschaftlichkeit;
-- b) Beratung der am Bauvorhaben beteiligten Instanzen, insbesondere der Regierung, des Departements und der Benutzerorganisation;
-- c) Koordination zwischen allen am Bauvorhaben involvierten Instanzen, Behörden und Beauftragten;
-- d) Überwachung sämtlicher Phasen der Planung und der Realisierung;
-- e) Kosten-, Termin- und Qualitätskontrolle;
-- f) Orientierung des Departementes über besondere Vorkommnisse;
-- g) Ausschreibung von Bau-, Liefer- und Dienstleistungsaufträgen;
-- h) Bauabnahme und Kontrolle der Schlussabrechnung;
-- i) Archivierung.
+- a) proaktive und langfristig ausgerichtete Portfolio- und Investitionsplanung;
+- b) Portfoliostrukturierung sowie Optimierung und Steuerung der Teilportfolios;
+- c) Definition von Raum- und Ausstattungsstandards für die kantonale Verwaltung;
+- d) Überprüfung von angemeldeten Nutzerbedürfnissen auf Realisierbarkeit und Übereinstimmung mit den strategischen Zielen und Immobiliengrundsätzen;
+- e) Standortevaluation und Belegungsplanung von Immobilien;
+- f) Abschluss und Auflösung von Immobilienverträgen wie Kauf- und Mietverträge, Dienstbarkeiten, Service- und Wartungsverträge und dergleichen.
 
 #### Art. 8
 
-**Benutzerorganisation**
+**Projektmanagement bei Bauvorhaben**
 
-<sup>1</sup> Die Benutzerorganisation wirkt im Rahmen der Vorgaben der Bauherrschaft und des Hochbauamtes in der Projektorganisation mit.
+<sup>1</sup> Das Hochbauamt nimmt im Rahmen von Bauvorhaben folgende Aufgaben wahr:
+
+- a) Festlegung der Projektziele und Überwachung sämtlicher Projektphasen;
+- b) Festlegung geeigneter Projektorganisationsformen für die Steuerung der Bau-vorhaben;
+- c) Vorbereitung und Durchführung von qualitätssichernden Verfahren zur Beschaffung der erforderlichen Bau- und Dienstleistungen sowie Lieferungen;
+- d) Erstellung des Kreditantrags an die zuständigen Instanzen;
+- e) Genehmigung und Freigabe von Ergebnissen unter Berücksichtigung der festgelegten Projektziele;
+- f) projektbezogene Berücksichtigung von Kunst am Bau;
+- g) Bauabnahme und Kontrolle der Schlussabrechnung;
+- h) Projektabschluss und Dokumentation.
 
 #### Art. 9
 
-**Einleitung**
+**Bewirtschaftung von Immobilien**
 
-<sup>1</sup> Die Einleitung der Planung erfolgt bei Grossprojekten oder bei anspruchsvollen Studien durch die Bauherrschaft.
+<sup>1</sup> Das Hochbauamt nimmt im Rahmen der Bewirtschaftung von Immobilien folgende Aufgaben wahr:
+
+- a) Festlegung von betrieblichen Standards und Servicelevels;
+- b) Zustandsüberwachung, Betrieb und Instandhaltung;
+- c) Verwaltung und Nachführung von Immobilienverträgen;
+- d) Reinigung, Ver- und Entsorgung, Umgebungspflege sowie Winterdienst;
+- e) Bewirtschaftung von Zutrittskontrollsystemen;
+- f) Planung und Organisation von Umzügen;
+- g) Energiebeschaffung und -controlling;
+- h) Beschaffung von Mobiliar;
+- i) verwaltungsinterne Verrechnung von kalkulatorischen Raummieten.
 
 #### Art. 10
 
-**Bedarfsnachweis**
+**Erbringung von weiteren Dienstleistungen**
 
-<sup>1</sup> Der Bedarfsnachweis für ein Bauvorhaben ist von der Benutzerorganisation im Einvernehmen mit dem vorgesetzten Departement nach den Vorgaben des Hochbauamtes zu erbringen.
+<sup>1</sup> Das Hochbauamt wirkt im gesetzlichen Genehmigungsverfahren für Baubeiträge subventionierter Bauten mit und berät die zuständigen Dienststellen in bautechnischen Belangen.
 
-#### Art. 11
+<sup>2</sup> Es kann weitere Dienstleistungen für öffentliche Bauherrschaften erbringen und schliesst hierfür entsprechende Vereinbarungen ab.
 
-**Projektgenehmigung**
-
-<sup>1</sup> Für die Projektgenehmigung durch die zuständigen Instanzen bilden in der Regel ein Vorprojekt mit Kostenermittlung sowie eine Betriebskostenrechnung die Grundlagen.
-
-<sup>2</sup> Für die Kunst am Bau kann ein dem Bauwerk angemessener Betrag vorgesehen werden.
-
-#### Art. 12
-
-**Kreditgewährung und -verwendung**
-
-<sup>1</sup> Die Kreditgewährung und -verwendung richtet sich nach den Bestimmungen der Finanzhaushaltsgesetzgebung.
-
-#### Art. 13
-
-**Abweichungen vom Projekt**
-
-<sup>1</sup> Die Bauherrschaftsvertretung kann Abweichungen vom genehmigten Projekt beschliessen, soweit sich diese aus der Detailplanung aufdrängen oder aus betrieblichen, wirtschaftlichen oder architektonischen Gründen notwendig sind und der Kredit nicht überschritten wird.
-
-<sup>2</sup> Zweckänderungen bedürfen der Zustimmung der Instanz, die das Projekt genehmigt hat.
-
-## 3. Bewirtschaftung von Immobilien (Facility-Management)
-
-#### Art. 14
-
-**Begriff und Aufgaben**
-
-<sup>1</sup> Für eine optimale Bewirtschaftung von Immobilien nimmt das Hochbauamt im Rahmen des Facility-Managements insbesondere folgende Aufgaben wahr:
-
-- a) Prüfung und Antragstellung bei Immobiliengeschäften sowie Abschluss der entsprechenden Verträge und Vereinbarungen;
-- b) Überwachung, Betrieb, Instandhaltung, Instandsetzung und Erneuerung der Immobilien;
-- c) Überprüfung der angemeldeten Bedürfnisse auf Rechtmässigkeit, Zweckmässigkeit und Wirtschaftlichkeit;
-- d) Zuteilung von Immobilien und Räumlichkeiten an die Benutzerorganisationen;
-- e) Planung und Organisation von Büroumzügen;
-- f) Mietverwaltung;
-- g) Parkplatzbewirtschaftung;
-- h) Inventarverwaltung der Immobilien und Mobilien;
-- i) Bewirtschaftung von Gebäudekennzahlen und Planunterlagen;
-- j) Hauswartung, Reinigung und Entsorgung;
-- k) Schlüssel-, Mobiliar- und Gerätebeschaffung und Bewirtschaftung;
-- l) Energiebeschaffung;
-- m) Archivierung.
-
-#### Art. 15
-
-**Hauswartung**
-
-<sup>1</sup> Gegenüber Personen, die Hauswartungsarbeiten an Immobilien ausführen, hat das Hochbauamt fachtechnisches Weisungsrecht.
-
-## 4. Besondere Dienstleistungen des Hochbauamtes
-
-#### Art. 16
-
-**Beratung**
-
-<sup>1</sup> Das Hochbauamt kann Gemeinden, andere öffentlich-rechtliche Körperschaften sowie gemeinnützige Trägerschaften bei der Planung und Realisierung von Bauten und Anlagen beraten und begleiten.
-
-<sup>2</sup> Das Hochbauamt kann weitere Dienstleistungen für Dritte erbringen.
-
-#### Art. 17
-
-**Verrechnung**
-
-<sup>1</sup> Sofern für Dienstleistungen an Dritte keine von Fachverbänden empfohlenen Honorierungsansätze vorhanden sind, werden die vom Finanzdepartement jährlich festgelegten Ansätze verwendet.
-
-<sup>2</sup> Die interne Weiterverrechnung von Leistungen an andere Dienststellen richtet sich nach den von der Regierung festgelegten Grundsätzen.
-
-## 5. Schlussbestimmungen
-
-#### Art. 18
-
-**Aufhebung bisherigen Rechts**
-
-<sup>1</sup> Es werden aufgehoben:
-
-- a) das Reglement für das kantonale Hochbauamt vom 19. Mai 1998[^18-1];
-- b) die Verordnung über die Planung und Ausführung von kantonalen Hochbauten (Hochbautenverordnung) vom 7. Dezember 1981[^18-2].
-
-<sup>2</sup> Verweisen geltende Erlasse auf Bestimmungen, welche mit dieser Verordnung im Widerspruch stehen, so finden die entsprechenden Bestimmungen dieser Verordnung Anwendung.
-
-[^18-1]: AGS 1998, 4071
-[^18-2]: AGS 1981, 928, AGS 1994, 2930, AGS 1997, 3958 und AGS 2003, KA 2258
-
-#### Art. 19
-
-**In-Kraft-Treten und Übergangsrecht**
-
-<sup>1</sup> Diese Verordnung tritt am 1. Juni 2006 in Kraft.
-
-<sup>2</sup> Sie findet Anwendung auf alle laufenden und neuen Bauvorhaben.
-
--
+2022-038
