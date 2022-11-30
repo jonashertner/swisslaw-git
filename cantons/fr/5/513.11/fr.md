@@ -3,20 +3,20 @@ canton: FR
 number: "513.11"
 title: "Ordonnance concernant la taxe d'exemption de l'obligation de servir"
 language: fr
-version: 2010-07-01
-valid_until: 2022-11-30
-version_adopted: 2010-11-09
+version: 2022-12-01
+valid_until: 2026-10-31
+version_adopted: 2022-11-08
 adopted: 2008-10-06
 in_force: 2009-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/513.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5251/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7628/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
 
 # Ordonnance concernant la taxe d'exemption de l'obligation de servir
 
-du 06.10.2008 (version entrée en vigueur le 01.07.2010)
+du 06.10.2008 (version entrée en vigueur le 01.12.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -38,7 +38,7 @@ Arrête:
 
 **Autorité compétente**
 
-<sup>1</sup> Le Service de la protection de la population et des affaires militaires est l'autorité compétente pour prendre toutes les mesures et décisions en matière de taxe d'exemption de l'obligation de servir.
+<sup>1</sup> Le Service de la sécurité civile et militaire est l'autorité compétente pour prendre toutes les mesures et décisions en matière de taxe d'exemption de l'obligation de servir.
 
 #### Art. 3
 
@@ -60,7 +60,7 @@ Arrête:
 
 **Emoluments**
 
-<sup>1</sup> Les décisions prises par le Service de la protection de la population et des affaires militaires sont exemptes d'émoluments.
+<sup>1</sup> Les décisions prises par le Service de la sécurité civile et militaire sont exemptes d'émoluments.
 
 #### Art. 6
 

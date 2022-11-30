@@ -3,20 +3,20 @@ canton: FR
 number: "513.11"
 title: Verordnung über die Wehrpflichtersatzabgabe
 language: de
-version: 2010-07-01
-valid_until: 2022-11-30
-version_adopted: 2010-11-09
+version: 2022-12-01
+valid_until: 2026-10-31
+version_adopted: 2022-11-08
 adopted: 2008-10-06
 in_force: 2009-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/513.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/5251/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7628/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Wehrpflichtersatzabgabe
 
-vom 06.10.2008 (Fassung in Kraft getreten am 01.07.2010)
+vom 06.10.2008 (Fassung in Kraft getreten am 01.12.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -38,7 +38,7 @@ beschliesst:
 
 **Zuständige Behörde**
 
-<sup>1</sup> Das Amt für Bevölkerungsschutz und Militär ist die für alle Massnahmen und Entscheide im Bereich der Wehrpflichtersatzabgabe zuständige Behörde.
+<sup>1</sup> Das Amt für zivile Sicherheit und Militär ist die für alle Massnahmen und Entscheide im Bereich der Wehrpflichtersatzabgabe zuständige Behörde.
 
 #### Art. 3
 
@@ -60,7 +60,7 @@ beschliesst:
 
 **Gebühren**
 
-<sup>1</sup> Die Verfügungen und Entscheide des Amtes für Bevölkerungsschutz und Militär sind gebührenfrei.
+<sup>1</sup> Die Verfügungen und Entscheide des Amtes für zivile Sicherheit und Militär sind gebührenfrei.
 
 #### Art. 6
 
