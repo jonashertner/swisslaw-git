@@ -1,0 +1,1747 @@
+---
+status: "beschlossen, noch nicht in Kraft"
+reference: AS 2022 754
+title: "Ordinanza del 2 novembre 2022 sui miglioramenti strutturali nell’agricoltura (Ordinanza sui miglioramenti strutturali, OMSt)"
+language: it
+adopted: 2022-11-02
+published: 2022-12-01
+in_force: ["2023-01-01"]
+url: "https://www.fedlex.admin.ch/eli/oc/2022/754/it"
+---
+
+> Riproduzione non ufficiale della Raccolta ufficiale (RU). L’atto è pubblicato ma non ancora in vigore; fa stato la pubblicazione nella RU (art. 15 LPubb, RS 170.512).
+
+# Ordinanza sui miglioramenti strutturali nell’agricoltura
+
+(Ordinanza sui miglioramenti strutturali, OMSt)
+
+del 2 novembre 2022
+
+Il Consiglio federale svizzero,
+
+visti gli articoli 89 capoverso 2, 93 capoverso 4, 95 capoverso 2, 96 capoverso 3, 97 capoverso 6, 104 capoverso 3, 105 capoverso 3, 106 capoverso 5, 107 capoverso 3, 107*a* capoverso 2, 108 capoverso 1, 166 capoverso 4 e 177 della legge del 29 aprile 1998[^ingress-1] sull’agricoltura (LAgr),
+
+ordina:
+
+[^ingress-1]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
+
+## Capitolo 1: Oggetto e forme degli aiuti finanziari
+
+#### Art. 1
+
+**Oggetto**
+
+<sup>1</sup>
+
+La presente ordinanza disciplina le condizioni e la procedura per la concessione di aiuti finanziari per:
+
+- a.
+
+  i seguenti provvedimenti del genio rurale nell’ambito dei miglioramenti strutturali:
+
+  - 1\. migliorie fondiarie,
+  - 2\. infrastrutture di trasporto utili per l’agricoltura,
+  - 3\. impianti e provvedimenti nel settore del suolo e del bilancio idrico,
+  - 4\. infrastrutture di base nello spazio rurale;
+
+- b.
+
+  i seguenti provvedimenti edilizi nell’ambito dei miglioramenti strutturali:
+
+  - 1\. edifici e impianti per la trasformazione, lo stoccaggio o la commercializzazione di prodotti agricoli regionali,
+  - 2\. edifici di economia rurale, edifici abitativi agricoli e impianti,
+  - 3\. diversificazione dell’attività nei settori affini all’agricoltura;
+
+- c.
+
+  i seguenti provvedimenti supplementari nell’ambito dei miglioramenti strutturali:
+
+  - 1\. provvedimenti tesi a promuovere la salute degli animali nonché una produzione particolarmente rispettosa dell’ambiente e degli animali,
+  - 2\. provvedimenti tesi a promuovere la collaborazione interaziendale,
+  - 3\. provvedimenti tesi a promuovere l’acquisto di aziende e fondi agricoli;
+
+- d. progetti di sviluppo regionale (PSR).
+
+<sup>2</sup> Stabilisce i provvedimenti di vigilanza e i controlli.
+
+#### Art. 2
+
+**Forme degli aiuti finanziari**
+
+<sup>1</sup> Gli aiuti finanziari sono versati sotto forma di contributi non rimborsabili e di crediti di investimento.
+
+<sup>2</sup>
+
+Sono versati aiuti finanziari a favore di:
+
+- a. provvedimenti individuali;
+- b. provvedimenti collettivi e provvedimenti collettivi di ampia portata.
+
+## Capitolo 2: Disposizioni comuni
+
+### Sezione 1: Condizioni per gli aiuti finanziari
+
+#### Art. 3
+
+**Beneficiari degli aiuti finanziari**
+
+<sup>1</sup> Le persone fisiche e giuridiche nonché i Comuni e altri enti di diritto pubblico possono ricevere aiuti finanziari se per il loro progetto esiste comprovatamente un interesse agricolo e il progetto fornisce un contributo alla creazione di valore aggiunto nell’agricoltura, al potenziamento della collaborazione regionale o alla produzione di prodotti valorizzabili della produzione vegetale e della detenzione di animali da reddito.
+
+<sup>2</sup> Le persone fisiche e giuridiche devono avere domicilio civile o sede in Svizzera.
+
+<sup>3</sup> Prima dell’approvazione del provvedimento, le persone fisiche non possono aver già raggiunto l’età ordinaria di pensionamento. Il limite d’età non si applica per provvedimenti nella regione d’estivazione e per provvedimenti collettivi.
+
+<sup>4</sup> Le istituzioni delle quali il Cantone o un istituto cantonale detiene una partecipazione maggioritaria ricevono aiuti finanziari se si tratta di provvedimenti per studi di base o accertamenti preliminari oppure di provvedimenti per la direzione generale del progetto nel quadro di un PSR.
+
+#### Art. 4
+
+**Luogo di attuazione dei provvedimenti**
+
+Gli aiuti finanziari sono versati soltanto per provvedimenti che vengono attuati in Svizzera. Fanno eccezione i provvedimenti di cui all’articolo 1 capoverso 1 lettera a per i quali è opportuno che parti di essi siano attuate in un Paese confinante.
+
+#### Art. 5
+
+**Proprietà dell’azienda e degli edifici e impianti sostenuti nonché rapporti di locazione**
+
+<sup>1</sup> L’azienda e gli edifici e impianti sostenuti devono essere di proprietà dei beneficiari di aiuti finanziari. Gli edifici e gli impianti possono essere trasferiti a terzi a condizione che non ne venga modificata la destinazione.
+
+<sup>2</sup>
+
+Gli affittuari di aziende possono beneficiare di aiuti finanziari a condizione che sia costituito un diritto di superficie per almeno 20 anni. Non è necessario costituire un diritto di superficie per:
+
+- a. provvedimenti di cui all’articolo 1 capoverso 1 lettere a e c;
+- b. provvedimenti per i quali vengono concessi esclusivamente crediti di investimento.
+
+<sup>3</sup> Se vengono concessi contributi ad affittuari, deve essere concluso un contratto d’affitto di almeno 20 anni. Il contratto d’affitto va annotato nel registro fondiario se non è parte integrante del contratto di diritto di superficie.
+
+<sup>4</sup> Se è concesso soltanto un credito di investimento, la durata del contratto d’affitto e del pegno immobiliare è fissata in base al termine di rimborso del credito di investimento.
+
+<sup>5</sup> Per i PSR, la condizione di cui al capoverso 1 è ritenuta adempiuta anche nel caso in cui gli edifici o gli impianti sostenuti sono di proprietà di un membro dell’ente promotore.
+
+#### Art. 6
+
+**Dimensioni minime dell’azienda**
+
+<sup>1</sup>
+
+Gli aiuti finanziari sono versati alle seguenti aziende soltanto se nell’azienda vi è un volume di lavoro di almeno 1 unità standard di manodopera (USM):
+
+- a. aziende agricole;
+- b. aziende dell’ortoflorovivaismo esercitato a titolo professionale;
+- c. aziende produttrici di funghi, germogli e prodotti simili;
+- d. comunità di aziende di cui alle lettere a–c.
+
+<sup>2</sup>
+
+Nei seguenti casi sono sufficienti dimensioni dell’azienda di almeno 0,60 USM:
+
+- a. per provvedimenti nei settori affini all’agricoltura;
+- b. per provvedimenti nelle zone di montagna III e IV tesi a garantire la gestione;
+- c. per provvedimenti in aree della regione di montagna e di quella collinare tesi a garantire una sufficiente densità d’insediamento.
+
+<sup>3</sup> Nel caso di provvedimenti collettivi, almeno due aziende agricole o due aziende dell’ortoflorovivaismo esercitato a titolo professionale devono comprovare dimensioni dell’azienda di 0,60 USM ciascuna.
+
+<sup>4</sup> I criteri per valutare se la densità d’insediamento di cui al capoverso 2 lettera c è a rischio sono stabiliti nell’allegato 1.
+
+<sup>5</sup> Per determinare le dimensioni dell’azienda, oltre ai coefficienti USM di cui all’articolo 3 dell’ordinanza del 7 dicembre 1998[^6-1] sulla terminologia agricola si applicano anche i coefficienti USM di cui all’articolo 2*a* dell’ordinanza del 4 ottobre 1993[^6-2] sul diritto fondiario rurale.
+
+[^6-1]: [RS 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
+[^6-2]: [RS 211.412.110](https://fedlex.data.admin.ch/eli/cc/1993/2904_2904_2904)
+
+#### Art. 7
+
+**Autofinanziamento**
+
+<sup>1</sup> Sono concessi aiuti finanziari soltanto se la quota di autofinanziamento ammonta almeno al 15 per cento.
+
+<sup>2</sup> Il capoverso 1 non si applica per provvedimenti collettivi e collettivi di ampia portata del genio rurale di cui all’articolo 14 capoverso 1 nonché per crediti di investimento per l’aiuto iniziale di cui all’articolo 40 capoverso 2 lettera a.
+
+#### Art. 8
+
+**Contributo del Cantone**
+
+<sup>1</sup> La concessione di aiuti finanziari da parte della Confederazione presuppone un contributo cantonale. Questo contributo cantonale viene concesso sotto forma di prestazione pecuniaria non rimborsabile.
+
+<sup>2</sup>
+
+Il contributo cantonale minimo ammonta:
+
+- a. nel caso di provvedimenti individuali: al 100 per cento del contributo federale;
+- b. nel caso di provvedimenti collettivi: al 90 per cento del contributo federale;
+- c. nel caso di provvedimenti collettivi di ampia portata e di PSR: all’80 per cento del contributo federale.
+
+<sup>3</sup> Il contributo cantonale minimo di cui al capoverso 2 lettere a e b si applica anche per provvedimenti di cui all’articolo 2 capoverso 2 realizzati nel quadro di un PSR.
+
+<sup>4</sup>
+
+Il Cantone può far computare nel contributo cantonale i seguenti contributi:
+
+- a. i contributi di enti di diritto pubblico nonché di istituti che svolgono compiti sovrani e non partecipano direttamente al progetto;
+- b. i contributi di Comuni che questi sono obbligati a versare come quota sul contributo cantonale in base a disposizioni del diritto cantonale.
+
+<sup>5</sup> Per rimediare alle conseguenze di avvenimenti naturali straordinari nonché per studi di base e accertamenti preliminari, l’Ufficio federale dell’agricoltura (UFAG) può ridurre l’importo del contributo cantonale o rinunciare a tale contributo.
+
+#### Art. 9
+
+**Neutralità concorrenziale**
+
+<sup>1</sup>
+
+Per i seguenti provvedimenti sono concessi aiuti finanziari soltanto se, al momento della pubblicazione della domanda, nessuna azienda artigianale direttamente interessata nella zona d’attività determinante sul piano economico è disposta ed è in grado di adempiere in modo equivalente il compito previsto:
+
+- a. PSR;
+- b. edifici e impianti per la trasformazione, lo stoccaggio e la commercializzazione di prodotti agricoli regionali;
+- c. diversificazione dell’attività nei settori affini all’agricoltura;
+- d.
+
+  i provvedimenti seguenti tesi a promuovere la collaborazione interaziendale:
+
+  - 1\. costituzione di organizzazioni contadine di solidarietà nell’ambito della produzione conforme al mercato e della gestione aziendale;
+  - 2\. acquisto congiunto di macchine e veicoli.
+
+<sup>2</sup> Prima dell’approvazione del progetto il Cantone pubblica le domande relative a provvedimenti di cui al capoverso 1 nell’organo di pubblicazione del Cantone.
+
+<sup>3</sup> Le aziende artigianali direttamente interessate nella zona d’attività determinante sul piano economico possono fare opposizione contro il cofinanziamento statale presso il servizio cantonale competente.
+
+<sup>4</sup> La determinazione della neutralità concorrenziale si fonda sul diritto cantonale.
+
+### Sezione 2: Costi computabili
+
+#### Art. 10
+
+<sup>1</sup>
+
+Sono computabili i seguenti costi:
+
+- a. i costi di costruzione, incluse le prestazioni proprie e le forniture di materiale nonché i costi di pianificazione, di progettazione e di direzione dei lavori;
+- b. i costi per l’aggiornamento della misurazione ufficiale;
+- c. le tasse fondate su leggi federali nonché le tasse cantonali causate dal progetto;
+- d. le spese notarili;
+- e. le tasse di allacciamento idrico.
+
+<sup>2</sup> L’importo dei costi computabili dipende dalla portata dell’interesse agricolo e dell’interesse della collettività all’attuazione del provvedimento previsto. Per gli interessi non agricoli si applicano deduzioni ai costi computabili.
+
+### Sezione 3: Disposizioni comuni per crediti di investimento
+
+#### Art. 11
+
+**Principio**
+
+<sup>1</sup> Non sono concessi crediti di investimento inferiori a 20 000 franchi. I crediti di investimento concessi contemporaneamente per diversi provvedimenti vengono sommati.
+
+<sup>2</sup> Se è concesso contemporaneamente un contributo di cui alla presente ordinanza, possono essere concessi anche crediti di investimento inferiori a 20 000 franchi.
+
+<sup>3</sup>
+
+I crediti di investimento sono concessi per:
+
+- a. il finanziamento parziale del progetto;
+- b. l’agevolazione del finanziamento nella fase di costruzione (credito di costruzione);
+- c. il finanziamento dei costi residui dopo la fase di costruzione (credito di consolidamento).
+
+<sup>4</sup> I crediti di costruzione e di consolidamento sono concessi soltanto per provvedimento collettivi.
+
+<sup>5</sup> I crediti di costruzione e di consolidamento non sono concessi contemporaneamente per lo stesso progetto. Se per un progetto vengono concessi consecutivamente più crediti di costruzione, questi devono essere computati.
+
+#### Art. 12
+
+**Garanzie**
+
+<sup>1</sup> I crediti di investimento devono essere concessi con garanzie reali, purché queste non siano escluse.
+
+<sup>2</sup> Se il beneficiario del credito non può trasferire al Cantone un pegno immobiliare esistente, il Cantone è autorizzato a ordinare, con la decisione di concessione del credito, la costituzione di un pegno immobiliare. Tale decisione vale come prova per l’Ufficio del registro fondiario ai fini dell’iscrizione del pegno immobiliare nel registro fondiario.
+
+#### Art. 13
+
+**Termini di rimborso per crediti di investimento**
+
+<sup>1</sup> I crediti di investimento devono essere rimborsati al più tardi 20 anni, il credito di investimento per l’aiuto iniziale al più tardi 14 anni dopo il pagamento finale. Il termine inizia a decorrere al più tardi due anni dopo il primo pagamento parziale.
+
+<sup>2</sup> Il Cantone fissa il termine per il rimborso entro i termini di cui al capoverso 1.
+
+<sup>3</sup> In caso di difficoltà finanziarie, il beneficiario del credito può chiedere al Cantone un differimento del primo rimborso o una sospensione del rimborso. Va rispettato il termine di rimborso massimo di cui al capoverso 1.
+
+<sup>4</sup> Un credito di costruzione deve essere rimborsato entro tre anni. Per provvedimenti realizzati a tappe il termine di rimborso decorre dall’inizio dell’ultima tappa.
+
+<sup>5</sup> Il Cantone può computare i rimborsi annui nei contributi di cui alla presente ordinanza e all’ordinanza del 23 ottobre 2013[^13-1] sui pagamenti diretti (OPD).
+
+[^13-1]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+
+## Capitolo 3: Provvedimenti del genio rurale
+
+### Sezione 1: Provvedimenti
+
+#### Art. 14
+
+**Provvedimenti sostenuti**
+
+<sup>1</sup>
+
+Sono concessi aiuti finanziari per i seguenti provvedimenti:
+
+- a. migliorie fondiarie: migliorie integrali, ricomposizioni particellari, raggrup­pamento di terreni in affitto e altri provvedimenti tesi a migliorare la struttura della gestione;
+- b. infrastrutture di trasporto utili per l’agricoltura: impianti di collegamento, come strade agricole, impianti a fune e impianti di trasporto analoghi;
+- c. impianti e provvedimenti nel settore del suolo e del bilancio idrico, come irrigazioni, evacuazione delle acque e miglioramenti della struttura e della composizione del suolo;
+- d. infrastrutture di base nello spazio rurale, come approvvigionamento idrico ed elettrico, collegamenti del servizio universale in luoghi non serviti da una tecnica di telecomunicazione.
+
+<sup>2</sup> I provvedimenti di cui al capoverso 1 lettera a sono esclusivamente collettivi. I provvedimenti di cui al capoverso 1 lettere b–d possono essere individuali o collettivi.
+
+<sup>3</sup> Sono considerati provvedimenti individuali quelli che vanno prevalentemente a beneficio di una singola azienda.
+
+<sup>4</sup> Sono considerati provvedimenti collettivi quelli che vanno a beneficio di più aziende nonché quelli per le aziende d’estivazione.
+
+<sup>5</sup>
+
+Sono considerati provvedimenti collettivi di ampia portata quelli collettivi che inoltre si estendono su una regione delimitata naturalmente o economicamente e promuovono la compensazione ecologica e l’interconnessione di biotopi. Questa condizione è considerata adempiuta nel caso di:
+
+- a. migliorie integrali con misure per la promozione della biodiversità;
+- b. provvedimenti di cui al capoverso 1 nel cui comprensorio non è indicata una miglioria integrale ma che richiedono un considerevole coordinamento, sono almeno d’importanza regionale per l’agricoltura e comprendono misure per la promozione della biodiversità.
+
+<sup>6</sup> Gli edifici e gli impianti nella zona edificabile non sono sostenuti; fanno eccezione le infrastrutture utili per l’agricoltura che devono essere necessariamente realizzate nelle zone edificabili o al loro limitare.
+
+<sup>7</sup> I crediti di investimento sono concessi soltanto sotto forma di crediti di costruzione e di consolidamento.
+
+#### Art. 15
+
+**Aiuti finanziari per provvedimenti di accompagnamento**
+
+Ad accompagnamento dei provvedimenti di cui all’articolo 14 sono concessi aiuti finanziari per:
+
+- a. provvedimenti di ripristino o di sostituzione in caso di pregiudizio a biotopi degni di protezione secondo l’articolo 18 capoverso 1<sup>ter</sup> della legge del 1° luglio 1966[^15-1] sulla protezione della natura e del paesaggio nonché provvedimenti di sostituzione di cui all’articolo 7 della legge del 4 ottobre 1985[^15-2] sui percorsi pedonali e i sentieri;
+- b. altri provvedimenti per la valorizzazione della natura e del paesaggio o per l’adempimento di altre esigenze della legislazione sulla protezione dell’ambiente, sulla protezione della natura e del paesaggio nonché sulla caccia, in particolare la promozione della biodiversità, della qualità del paesaggio e della gestione dei grandi predatori.
+
+[^15-1]: [RS 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+[^15-2]: [RS 704](https://fedlex.data.admin.ch/eli/cc/1986/2506_2506_2506)
+
+#### Art. 16
+
+**Aiuti finanziari per studi di base e accertamenti preliminari**
+
+In vista della preparazione di provvedimenti di cui all’articolo 14 sono concessi aiuti finanziari per:
+
+- a. studi di base per chiarire la fattibilità e per preparare progetti concreti;
+- b. strategie di sviluppo con obiettivi e provvedimenti per lo spazio rurale;
+- c. inchieste nonché studi di interesse nazionale e d’importanza pratica per i miglioramenti strutturali.
+
+#### Art. 17
+
+**Lavori sostenuti per edifici e impianti**
+
+<sup>1</sup>
+
+Nel caso di provvedimenti di cui all’articolo 14, per edifici e impianti sono concessi aiuti finanziari nel corso del loro ciclo di vita per:
+
+- a. la costruzione e il risanamento, la trasformazione per l’adeguamento a esigenze più elevate o la sostituzione una volta scaduta la durata di vita tecnica;
+- b. il ripristino dopo danni causati dagli elementi naturali e la messa in sicurezza di edifici e impianti agricoli nonché di terreno coltivo;
+- c. il ripristino periodico di strade, impianti a fune, impianti per l’evacuazione delle acque in agricoltura, muri a secco e suonen.
+
+<sup>2</sup>
+
+Il ripristino periodico di cui al capoverso 1 lettera c comprende:
+
+- a. per le strade: il rinnovo dello strato di copertura della carreggiata di strade in ghiaia e di strade pavimentate nonché il ripristino dei drenaggi e di manufatti;
+- b. per gli impianti a fune: le revisioni periodiche;
+- c. per l’evacuazione delle acque in agricoltura: lo spurgo di condotte di evacuazione e l’ispezione televisiva delle canalizzazioni;
+- d. per i muri a secco utili per un’utilizzazione agricola: il ripristino e il consolidamento delle fondamenta, del corpo murario, della corona e delle scale;
+- e. per le suonen: il ripristino e il consolidamento dei bordi e dei muri di sostegno, l’impermeabilizzazione, la protezione contro l’erosione nonché lo sfoltimento della vegetazione.
+
+### Sezione 2: Condizioni
+
+#### Art. 18
+
+**Condizioni generali**
+
+<sup>1</sup> I provvedimenti sono sostenuti se vanno a beneficio di aziende agricole, aziende d’estivazione, aziende produttrici di funghi, germogli e prodotti simili, aziende dell’ortoflorovivaismo esercitato a titolo professionale oppure aziende dedite alla pesca o alla piscicoltura.
+
+<sup>2</sup> Il finanziamento e la sopportabilità degli investimenti previsti devono essere comprovati. Come valore indicativo per la valutazione della sopportabilità si applica l’onere dei costi residui di cui all’allegato 2.
+
+<sup>3</sup> I costi computabili di cui all’articolo 10 capoverso 1 lettera a sono determinati in una procedura di gara pubblica secondo il diritto cantonale. L’offerta economicamente più vantaggiosa costituisce la base per stabilire i costi computabili.
+
+<sup>4</sup> Mediante crediti di investimento sono sostenuti soltanto provvedimenti collettivi.
+
+<sup>5</sup> Occorre applicare la norma SIA 406 del 1° dicembre 1991[^18-1] «Contenuto e presentazione dei progetti di migliorie fondiarie».
+
+[^18-1]: La norma può essere richiesta a pagamento alla Società svizzera degli ingegneri e degli architetti, [www.sia.ch](http://www.sia.ch) &gt; Servizi &gt; SIA-norm. È consultabile gratuitamente presso l’Ufficio federale dell’agricoltura, Schwarzenburgstrasse 165, 3003 Berna.
+
+#### Art. 19
+
+**Condizioni per provvedimenti individuali**
+
+<sup>RS 910.13</sup> Nel caso di provvedimenti individuali, sono concessi contributi se sono adempiute le condizioni per ricevere pagamenti diretti ai sensi dell’OPD.
+
+#### Art. 20
+
+**Condizioni per provvedimenti collettivi**
+
+Nel caso di provvedimenti collettivi, sono concessi aiuti finanziari se i provvedimenti rappresentano un’unità dal profilo funzionale o organizzativo.
+
+#### Art. 21
+
+**Condizioni supplementari per aiuti finanziari nel settore del suolo e del bilancio idrico**
+
+<sup>1</sup> Sono concessi aiuti finanziari per impianti di irrigazione se il progetto è orientato alla disponibilità idrica a medio termine.
+
+<sup>2</sup>
+
+Sono concessi aiuti finanziari per impianti di evacuazione delle acque se:
+
+- a. viene ripristinato un impianto esistente su una superficie agricola utile importante sul piano regionale;
+- b. viene costruito un nuovo impianto in un’area a rischio di erosione o in combinazione con una valorizzazione del suolo tesa a garantire la qualità di superfici per l’avvicendamento delle colture.
+
+<sup>3</sup>
+
+Sono concessi aiuti finanziari per il miglioramento della struttura e della composizione del suolo se:
+
+- a. si tratta di suoli che hanno subito un degrado antropico;
+- b. la gestione è difficile e vi sono perdite comprovate; e
+- c. il provvedimento comporta un miglioramento duraturo della struttura, della composizione e del bilancio idrico del suolo.
+
+#### Art. 22
+
+**Condizioni supplementari per infrastrutture di base nello spazio rurale**
+
+Sono concessi aiuti finanziari per impianti di approvvigionamento idrico ed elettrico soltanto se gli edifici e gli impianti si trovano nella regione di montagna, in quella collinare o nella regione d’estivazione. Ad aziende con colture speciali e a insediamenti agricoli sono concessi aiuti finanziari anche se si trovano nella zona di pianura.
+
+### Sezione 3: Importo dei contributi e dei crediti di investimento
+
+#### Art. 23
+
+**Costi computabili e non computabili**
+
+<sup>1</sup>
+
+Oltre ai costi di cui all’articolo 10 sono computabili:
+
+- a. i costi per l’acquisto di terreni in relazione a provvedimenti di accompagnamento di cui all’articolo 15 fino a un massimo di otto volte il valore di reddito agricolo;
+- b. i costi per lavori geometrici nel caso di ricomposizioni particellari, comprese la picchettazione e la terminazione, purché tali lavori soddisfino le esigenze minime della Confederazione e siano necessari per identificare e gestire le nuove particelle;
+- c. un’indennità unica fino a un massimo di 1200 franchi per ettaro ai locatori che concedono a un’organizzazione che gestisce terreni in affitto il diritto di affittarli a terzi, a condizione che i terreni siano messi a disposizione per almeno 12 anni.
+
+<sup>2</sup>
+
+Non sono computabili in particolare:
+
+- a. i costi per lavori eseguiti in modo non conforme al progetto o non a regola d’arte;
+- b. i costi causati da una progettazione palesemente trascurata, da lacune nella direzione dei lavori o da modifiche progettuali non autorizzate;
+- c. i costi per l’acquisto di terreni che non rientrano nel capoverso 1 lettera a;
+- d. le indennità ai partecipanti per diritti di condotta e di sorgente, diritti di passo e simili nonché le indennità di coltura e per inconvenienti;
+- e. i costi per l’acquisto di pertinenze mobili e di impianti interni nonché d’esercizio e di manutenzione;
+- f. le spese amministrative, i gettoni di presenza, i premi d’assicurazione e gli interessi;
+- g. nel caso di impianti di approvvigionamento elettrico, il contributo per i costi di rete per l’allacciamento alla rete di distribuzione a monte.
+
+<sup>3</sup> Nel caso di collegamenti del servizio universale nel settore delle telecomunicazioni in luoghi non serviti da una tecnica di telecomunicazione, sono computabili soltanto i costi che si deve assumere il cliente secondo l’articolo 18 capoverso 2 dell’ordinanza del 9 marzo 2007[^23-1] sui servizi di telecomunicazione.
+
+<sup>4</sup> Nel caso di impianti per l’evacuazione delle acque e di miglioramento della struttura e della composizione del suolo, è computabile al massimo otto volte il valore di reddito agricolo del fondo.
+
+[^23-1]: [RS 784.101.1](https://fedlex.data.admin.ch/eli/cc/2007/166)
+
+#### Art. 24
+
+**Costi computabili per il ripristino periodico**
+
+<sup>1</sup> Per il ripristino periodico di cui all’articolo 17 capoverso 2 sono computabili al massimo i seguenti costi:
+
+<table>
+<tr><td></td><td>franchi</td></tr>
+<tr><td>a. per le strade agricole, per km di strada:</td><td></td></tr>
+<tr><td>strade in ghiaia:</td><td></td></tr>
+<tr><td>1. situazione normale</td><td>25 000</td></tr>
+<tr><td>2. con costi suppletivi moderati</td><td>40 000</td></tr>
+<tr><td>3. con costi suppletivi elevati</td><td>50 000</td></tr>
+<tr><td>strade pavimentate:</td><td></td></tr>
+<tr><td>1. situazione normale</td><td>40 000</td></tr>
+<tr><td>2. con costi suppletivi moderati</td><td>50 000</td></tr>
+<tr><td>3. con costi suppletivi elevati</td><td>60 000</td></tr>
+<tr><td>b. per l’evacuazione delle acque in agricoltura, per km</td><td>5000</td></tr>
+<tr><td>c. per i muri a secco con utilizzazione agricola, per m<sup>2</sup> di muro:</td><td></td></tr>
+<tr><td>1. muro a secco di terrazzi: – muro fino a 1,5 m di altezza – muro di 1,5 fino a 3 m di altezza</td><td>650 1000</td></tr>
+<tr><td>2. altri muri a secco</td><td>200</td></tr>
+<tr><td>d. per le suonen, per m di canale</td><td>100</td></tr>
+</table>
+
+<sup>2</sup> Sono considerati costi suppletivi ai sensi del capoverso 1 lettera a il ripristino e le integrazioni puntuali di manufatti e di impianti per l’evacuazione delle acque nonché condizioni difficili dovute alla struttura del terreno o del sottosuolo oppure a grandi distanze. L’allegato 3 stabilisce come devono essere determinati i costi suppletivi.
+
+<sup>3</sup> I costi computabili non possono essere superiori ai costi effettivi.
+
+<sup>4</sup> Nel caso di provvedimenti per il ripristino periodico di impianti a fune, sono computabili i costi effettivi di cui agli articoli 10 e 23.
+
+<sup>5</sup> Se i provvedimenti per il ripristino periodico di impianti di evacuazione delle acque sono realizzati nell’ambito di un piano globale, anziché i costi di cui al capoverso 1 lettera b sono computabili i costi effettivi di cui agli articoli 10 e 23.
+
+<sup>6</sup> Nel caso dei muri a secco e delle suonen, gli edifici e gli impianti da ripristinare sono stabiliti sulla base di un piano globale. La sua realizzazione è sostenuta come studio di base.
+
+<sup>7</sup> Per gli interessi non agricoli non va applicata alcuna deduzione ai costi computabili. Presupposto per il sostegno è che l’interesse agricolo ammonti almeno al 50 per cento.
+
+<sup>8</sup> Nel caso di rispristino periodico di strade in biotopi palustri, si deve porre rimedio a una compromissione preesistente del bilancio idrico naturale. I corrispettivi provvedimenti sono considerati provvedimenti di accompagnamento ai sensi dell’articolo 15. Sono computabili i costi effettivi di cui agli articoli 10 e 23.
+
+#### Art. 25
+
+**Aliquote di contributo**
+
+<sup>1</sup> Si applicano le seguenti aliquote di contributo massime in riferimento ai costi computabili:
+
+<table>
+<tr><td></td><td>per cento</td></tr>
+<tr><td>a. per provvedimenti collettivi di ampia portata:</td><td></td></tr>
+<tr><td>1. zona di pianura</td><td>34</td></tr>
+<tr><td>2. zona collinare e zona di montagna I</td><td>37</td></tr>
+<tr><td>3. zone di montagna II–IV e regione d’estivazione</td><td>40</td></tr>
+<tr><td>b. per provvedimenti collettivi:</td><td></td></tr>
+<tr><td>1. zona di pianura</td><td>27</td></tr>
+<tr><td>2. zona collinare e zona di montagna I</td><td>30</td></tr>
+<tr><td>3. zone di montagna II–IV e regione d’estivazione</td><td>33</td></tr>
+<tr><td>c. per provvedimenti individuali:</td><td></td></tr>
+<tr><td>1. zona di pianura</td><td>20</td></tr>
+<tr><td>2. zona collinare e zona di montagna I</td><td>23</td></tr>
+<tr><td>3. zone di montagna II–IV e regione d’estivazione</td><td>26</td></tr>
+</table>
+
+<sup>2</sup> Per i ripristini dopo danni causati dagli elementi naturali e per i ripristini periodici si applicano le aliquote di contributo di cui al capoverso 1 lettera b.
+
+<sup>3</sup> Onde ridurre il dispendio amministrativo, il contributo può essere anche stabilito e versato come importo forfettario. Questo non può superare il contributo di cui al capoverso 1.
+
+#### Art. 26
+
+**Contributi supplementari**
+
+<sup>1</sup>
+
+Le aliquote di contributo, su richiesta del Cantone, possono essere aumentate al massimo di 3 punti percentuali per le prestazioni supplementari seguenti:
+
+- a. valorizzazione dei piccoli corsi d’acqua nella zona agricola;
+- b. provvedimenti di protezione del suolo o tesi a garantire la qualità di superfici per l’avvicendamento delle colture;
+- c. provvedimenti ecologici particolari;
+- d. salvaguardia e valorizzazione di paesaggi rurali o edifici d’importanza storico-culturale;
+- e. produzione di energie rinnovabili o impiego di tecnologie rispettose delle risorse.
+
+<sup>2</sup> Per i ripristini dopo danni causati dagli elementi naturali e per la messa in sicurezza di edifici e impianti nonché di terreni coltivi, le aliquote di contributo, su richiesta del Cantone, possono essere aumentate al massimo di 6 punti percentuali.
+
+<sup>3</sup> Nella regione di montagna, in quella collinare e nella regione d’estivazione, su richiesta del Cantone, le aliquote di contributo possono essere aumentate al massimo di 4 punti percentuali per condizioni particolarmente difficili quali costi di trasporto straordinari, problemi dell’area edificabile, configurazione particolare del terreno o esigenze legate alla protezione della natura e del paesaggio.
+
+<sup>4</sup> Per i ripristini periodici e i provvedimenti non edilizi non sono concessi contributi supplementari.
+
+<sup>5</sup> L’aumento delle aliquote di contributo di cui ai capoversi 1–3 può essere cumulativo. Non viene tenuto in considerazione nella determinazione del contributo cantonale di cui all’articolo 8.
+
+<sup>6</sup> Le prestazioni supplementari e la graduazione dei contributi supplementari si fondano sull’allegato 4.
+
+<sup>7</sup> Le aliquote di contributo maggiorate non possono superare complessivamente il 40 per cento dei costi computabili nella regione di pianura e il 50 per cento nella regione di montagna e in quella d’estivazione.
+
+#### Art. 27
+
+**Riduzione di contributi in base alla sostanza nel caso di provvedimenti individuali**
+
+<sup>1</sup> Se prima dell’investimento la sostanza imponibile tassata del richiedente supera 1 000 000 di franchi, il contributo è ridotto di 5000 franchi per ogni 20 000 franchi di sostanza supplementare.
+
+<sup>2</sup> Nel caso di persone giuridiche, di una società di persone e di richiedenti coniugati o in unione domestica registrata, è determinante la media aritmetica della sostanza imponibile tassata delle persone fisiche partecipanti.
+
+#### Art. 28
+
+**Importo dei crediti di investimento**
+
+<sup>1</sup> I crediti di costruzione sono concessi fino a concorrenza del 75 per cento dei contributi pubblici decisi. Nel caso di assegnazioni parziali, il credito di costruzione può essere calcolato sulla base del contributo pubblico totale del progetto autorizzato.
+
+<sup>2</sup> Nel caso di provvedimenti realizzati a tappe, il credito di costruzione non può superare il 75 per cento della somma dei contributi pubblici non ancora versati per tutte le tappe già autorizzate.
+
+<sup>3</sup> L’importo dei crediti di consolidamento ammonta al massimo al 50 per cento dei costi computabili dopo la deduzione di eventuali contributi pubblici. Nel caso di progetti di cui all’allegato 2 difficilmente sopportabili ma assolutamente necessari, l’aliquota può essere aumentata fino al massimo al 65 per cento.
+
+## Capitolo 4: Provvedimenti edilizi
+
+### Sezione 1: Provvedimenti
+
+#### Art. 29
+
+**Provvedimenti individuali**
+
+<sup>1</sup> Sono considerati provvedimenti individuali quelli che sono realizzati da almeno un’azienda agricola o da una piccola azienda artigianale e che servono per la produzione nonché la valorizzazione di prodotti della produzione vegetale e della detenzione di animali da reddito.
+
+<sup>2</sup>
+
+Sono concessi aiuti finanziari per provvedimenti individuali ai gestori di aziende agricole, aziende dell’ortoflorovivaismo esercitato a titolo professionale e di aziende produttrici di funghi, germogli e prodotti simili per:
+
+- a. la costruzione o l’acquisto sul libero mercato di edifici, impianti o installazioni nell’azienda di produzione per la trasformazione, lo stoccaggio o la commercializzazione di prodotti agricoli di produzione propria e regionali;
+- b. la costruzione o l’acquisto sul libero mercato di edifici di economia rurale e di edifici abitativi;
+- c. la realizzazione di impianti per migliorare la produzione di colture speciali nonché il rinnovo di colture perenni;
+- d. provvedimenti edilizi o installazioni per l’attività nei settori affini all’agricoltura.
+
+<sup>3</sup> Ai gestori a titolo principale di un’azienda dedita alla pesca o alla piscicoltura sono concessi aiuti finanziari a favore di provvedimenti individuali per provvedimenti edilizi o installazioni per una produzione conforme alle prescrizioni determinanti della legislazione sulla protezione degli animali, nonché per la trasformazione e la commercializzazione dei prodotti della pesca indigena.
+
+#### Art. 30
+
+**Provvedimenti collettivi**
+
+<sup>1</sup> Sono considerati provvedimenti collettivi quelli realizzati da più aziende e che non servono per la produzione di prodotti della produzione vegetale e della detenzione di animali da reddito. I progetti nelle aziende d’estivazione sono considerati provvedimenti collettivi.
+
+<sup>2</sup>
+
+Sono concessi aiuti finanziari per provvedimenti collettivi ai gestori di almeno due aziende, siano esse agricole o aziende dell’ortoflorovivaismo esercitato a titolo professionale o aziende produttrici di funghi, germogli e prodotti simili per:
+
+- a. la costruzione o l’acquisto sul libero mercato di edifici, impianti o installazioni per la trasformazione, lo stoccaggio o la commercializzazione di prodotti agricoli regionali;
+- b. la costruzione o l’acquisto sul libero mercato di edifici e installazioni nonché di capanne mobili per i pastori per le aziende d’estivazione;
+- c. la costruzione o l’acquisto sul libero mercato di impianti per la produzione di energia rinnovabile a partire dalla biomassa;
+- d. studi di base per chiarire la fattibilità e preparare provvedimenti concreti.
+
+<sup>3</sup> Alle aziende d’estivazione sono concessi solamente aiuti finanziari per provvedimenti di cui al capoverso 2 lettere b e d.
+
+### Sezione 2: Condizioni
+
+#### Art. 31
+
+**Requisiti personali**
+
+<sup>1</sup> Gli aiuti finanziari sono concessi a persone fisiche che gestiscono personalmente l’azienda. Per provvedimenti nella regione d’estivazione le persone fisiche non devono gestire personalmente l’azienda d’estivazione.
+
+<sup>2</sup> Nel caso di richiedenti coniugati o in unione domestica registrata, gli aiuti finanziari sono concessi anche se l’azienda è gestita dal partner.
+
+<sup>3</sup> Alle persone giuridiche sono concessi aiuti finanziari se per due terzi sono di proprietà di persone fisiche che possono ricevere aiuti finanziari in virtù della presente ordinanza e se queste persone fisiche detengono almeno due terzi dei diritti di voto e, nel caso di società di capitali, anche due terzi del capitale.
+
+<sup>4</sup> Gli aiuti finanziari per provvedimenti nella regione d’estivazione sono concessi a persone giuridiche, Comuni e altri enti di diritto pubblico a prescindere dall’inadempimento delle prescrizioni sui rapporti di proprietà di cui al capoverso 3.
+
+<sup>5</sup>
+
+Il gestore di un’azienda agricola deve possedere una delle seguenti qualifiche:
+
+- a. una formazione professionale di base come agricoltore con attestato federale di capacità conformemente all’articolo 38 della legge del 13 dicembre 2002[^31-1] sulla formazione professionale (LFPr);
+- b. una formazione professionale come contadina/responsabile d’economia domestica rurale con un attestato professionale conformemente all’articolo 43 LFPr; o
+- c. una qualifica equivalente in una professione agricola speciale.
+
+<sup>6</sup> Nel caso di richiedenti coniugati o in unione domestica registrata, una delle due persone deve adempiere i requisiti di cui al capoverso 5.
+
+<sup>7</sup> È equiparata alle qualifiche di cui al capoverso 5 una gestione aziendale efficiente durante un periodo di almeno tre anni, debitamente documentata.
+
+<sup>8</sup> L’UFAG stabilisce i contenuti e i criteri di valutazione per la gestione efficace dell’azienda.
+
+[^31-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
+
+#### Art. 32
+
+**Onere sopportabile**
+
+<sup>1</sup> Il finanziamento e la sopportabilità dell’investimento previsto devono essere dimostrati prima della concessione dell’aiuto finanziario.
+
+<sup>2</sup> Nel caso di investimenti superiori a 100 000 franchi, il richiedente deve comprovare, con strumenti di pianificazione adatti, per un periodo di almeno cinque anni dopo la concessione degli aiuti finanziari, che la sopportabilità è data anche con future condizioni quadro economiche. Va eseguita anche una valutazione del rischio.
+
+#### Art. 33
+
+**Esigenze in materia di protezione della natura, delle acque e degli animali**
+
+Sono concessi aiuti finanziari se dopo l’investimento sono adempiute le prescrizioni determinanti della legislazione sulla protezione della natura, delle acque e degli animali.
+
+#### Art. 34
+
+**Condizioni supplementari per edifici di economia rurale**
+
+<sup>1</sup> Gli aiuti finanziari per edifici di economia rurale sono concessi soltanto per le poste di animali da reddito agricoli la cui produzione di sostanze nutritive, ovvero azoto e fosforo, è utilizzabile per coprire il fabbisogno della propria produzione vegetale. La prova va fornita con il metodo «Suisse-Bilanz». È applicabile la versione della Guida «Suisse-Bilanz»[^34-1] dell’UFAG in vigore al momento dell’inoltro della richiesta. È determinante la sostanza nutritiva per la quale si raggiunge prima il limite.
+
+<sup>2</sup> L’assenza di animali da reddito estivati va presa in considerazione nel calcolo della produzione di sostanze nutritive.
+
+<sup>3</sup> Per valutare se il fabbisogno delle piante è coperto dalla produzione di sostanze nutritive, la produzione di sostanze nutritive degli animali da reddito che consumano foraggio grezzo va considerata in via prioritaria.
+
+<sup>4</sup> Per il calcolo del fabbisogno delle piante si considerano le superfici agricole utili garantite a lungo termine ubicate a una distanza di percorso inferiore a 15 km dal centro aziendale. Non si applica alcun limite di distanza di percorso per le aziende tradizionali a più livelli.
+
+<sup>5</sup>
+
+Due o più aziende che realizzano congiuntamente un edificio di economia rurale sono sostenute se:
+
+- a. la comunità è riconosciuta dal servizio cantonale competente;
+- b. viene concluso un contratto di collaborazione la cui durata minima in caso di sostegno con contributi è di 15 anni e in caso di sostegno esclusivamente con crediti di investimento corrisponde alla durata del credito di investimento.
+
+[^34-1]: Le rispettive versioni della guida in vigore sono consultabili su: www.blw.admin.ch &gt; Strumenti &gt; Pagamenti diretti &gt; Prova che le esigenze ecologiche sono rispettate &gt; Bilancio di concimazione equilibrato e analisi del suolo (art. 13 OPD).
+
+#### Art. 35
+
+**Condizioni supplementari per le piccole aziende artigianali**
+
+Alle piccole aziende artigianali sono concessi aiuti finanziari per provvedimenti di cui all’articolo 29 capoverso 2 lettera a se adempiono in via suppletiva le seguenti condizioni:
+
+- a. si tratta di imprese economicamente indipendenti o di rapporti società madre-filiale a livello unico, fermo restando che l’intero gruppo deve soddisfare le condizioni del presente articolo e il proprietario dell’immobile deve essere il beneficiario dell’aiuto finanziario;
+- b. la loro attività comprende almeno il primo livello di trasformazione di materie prime agricole;
+- c. prima dell’investimento, i collaboratori non superano un tasso di occupazione complessivo del 2000 per cento o la cifra d’affari complessiva non è superiore a 10 milioni di franchi;
+- d. la cifra d’affari proviene principalmente dalla trasformazione di materie prime agricole prodotte a livello regionale o dalla loro vendita.
+
+### Sezione 3: Importo dei contributi e dei crediti di investimento
+
+#### Art. 36
+
+**Costi computabili**
+
+Oltre ai costi di cui all’articolo 10 sono computabili i costi per le inchieste e per la consulenza.
+
+#### Art. 37
+
+**Importo dei contributi e disposizioni specifiche sui provvedimenti**
+
+<sup>1</sup> Le aliquote dei contributi e le disposizioni specifiche sui provvedimenti sono stabilite nell’allegato 5. Nel caso di rincaro dei costi di costruzione o per contribuire al raggiungimento degli obiettivi ambientali per l’agricoltura 2008[^37-1], l’UFAG può aumentare le aliquote dell’allegato 5 nella misura del 10 per cento al massimo.
+
+<sup>2</sup> Nel caso di sostegno di edifici esistenti mediante aliquote forfettarie di cui all’allegato 5, i contributi forfettari sono ridotti in modo adeguato. Nel caso di edifici già sostenuti in precedenza, dai contributi massimi viene dedotto almeno il contributo federale *pro rata temporis* di cui all’articolo 67 capoverso 5 lettera c.
+
+<sup>3</sup> Per edifici di economia rurale per animali che consumano foraggio grezzo ed edifici alpestri sono concessi contributi per i costi suppletivi dovuti a condizioni particolarmente difficili. Questi non sono considerati nel calcolo del contributo cantonale. Per condizioni particolarmente difficili s’intendono costi di trasporto straordinari, problemi dell’area edificabile, configurazione particolare del terreno, pericoli naturali e particolarità climatiche.
+
+[^37-1]: Gli obiettivi ambientali per l’agricoltura sono consultabili su: www. bafu.admin.ch &gt; Temi &gt; Biodiversità &gt; Pubblicazioni e studi &gt; Ricerca «UW-0820-D».
+
+#### Art. 38
+
+**Riduzione di contributi in base alla sostanza nel caso di provvedimenti individuali**
+
+<sup>1</sup> Se prima dell’investimento la sostanza imponibile tassata del richiedente supera 1 000 000 di franchi, il contributo per provvedimenti individuali è ridotto di 5000 franchi per ogni 20 000 franchi di sostanza supplementare.
+
+<sup>2</sup> Nel caso di persone giuridiche, di società di persone e di richiedenti coniugati o in unione domestica registrata, è determinante la media aritmetica della sostanza imponibile tassata delle persone fisiche partecipanti.
+
+<sup>3</sup> I contributi per le piccole aziende artigianali non vengono ridotti in base alla sostanza.
+
+#### Art. 39
+
+**Importo dei crediti di investimento e disposizioni specifiche sui provvedimenti**
+
+<sup>1</sup> Le aliquote dei crediti di investimento e le disposizioni specifiche sui provvedimenti sono stabilite nell’allegato 5. Nel caso di rincaro dei costi di costruzione o per contribuire al raggiungimento degli obiettivi ambientali per l’agricoltura 2008[^39-1], l’UFAG può aumentare le aliquote dell’allegato 5 nella misura del 10 per cento al massimo.
+
+<sup>2</sup> Per il calcolo del credito di investimento, dai costi computabili vengono dedotti i contributi pubblici.
+
+<sup>3</sup> Nel caso di sostegno di edifici esistenti mediante aliquote forfettarie di cui all’allegato 5, i crediti di investimento forfettari sono ridotti in modo adeguato. Nel caso di edifici già sostenuti in precedenza, dai contributi massimi viene dedotto almeno il saldo dell’attuale credito di investimento.
+
+<sup>4</sup> I crediti di costruzione sono concessi fino a concorrenza del 75 per cento dei costi computabili.
+
+[^39-1]: Gli obiettivi ambientali per l’agricoltura sono consultabili su: www. bafu.admin.ch &gt; Temi &gt; Biodiversità &gt; Pubblicazioni e studi &gt; Ricerca «UW-0820-D».
+
+## Capitolo 5: Provvedimenti supplementari nell’ambito dei miglioramenti strutturali
+
+### Sezione 1: Provvedimenti e condizioni
+
+#### Art. 40
+
+**Provvedimenti individuali**
+
+<sup>1</sup> Sono considerati provvedimenti individuali i provvedimenti realizzati da almeno un’azienda e che servono per la produzione nonché la valorizzazione di prodotti della produzione vegetale e della detenzione di animali da reddito.
+
+<sup>2</sup>
+
+Sono concessi aiuti finanziari per provvedimenti individuali ai gestori di aziende agricole, aziende dedite all’ortoflorovivaismo esercitato a titolo professionale e aziende produttrici di funghi, germogli e prodotti simili, per:
+
+- a. un aiuto iniziale unico per promuovere l’acquisto di aziende agricole e fondi agricoli;
+- b. l’acquisto di aziende agricole sul libero mercato da parte degli affittuari per promuovere l’acquisto di aziende agricole e fondi agricoli;
+- c.
+
+  la costruzione o l’acquisto sul libero mercato di edifici e installazioni nonché la piantagione di alberi e arbusti per promuovere la salute degli animali e una produzione particolarmente rispettosa dell’ambiente e degli animali attraverso:
+
+  - 1\. la riduzione delle emissioni di ammoniaca,
+  - 2\. la riduzione del carico di sostanze nocive,
+  - 3\. provvedimenti per la protezione del patrimonio culturale e del paesaggio,
+  - 4\. provvedimenti per la protezione del clima.
+
+<sup>3</sup> Ai gestori a titolo principale di un’azienda dedita alla pesca o alla piscicoltura sono concessi aiuti finanziari per il provvedimento di cui al capoverso 2 lettera a.
+
+<sup>4</sup> Alle aziende d’estivazione sono concessi aiuti finanziari per provvedimenti di cui al capoverso 2 lettera c.
+
+#### Art. 41
+
+**Provvedimenti collettivi**
+
+<sup>1</sup> Sono considerati provvedimenti collettivi quelli realizzati da più aziende e che non sono edifici e impianti.
+
+<sup>2</sup>
+
+Sono concessi aiuti finanziari ai gestori di almeno due aziende agricole, aziende dedite all’ortoflorovivaismo esercitato a titolo professionale o aziende produttrici di funghi, germogli e prodotti simili per promuovere la collaborazione interaziendale mediante:
+
+- a. iniziative collettive che possono comportare una riduzione dei costi di produzione;
+- b. la costituzione di organizzazioni di solidarietà attive nell’agricoltura e nell’ortoflorovivaismo nell’ambito della produzione e della gestione aziendale agri­cola e ortoflorovivaistica conforme al mercato o l’estensione dell’attività di queste organizzazioni di solidarietà;
+- c. l’acquisto di macchine e veicoli.
+
+#### Art. 42
+
+**Requisiti personali**
+
+<sup>1</sup> I requisiti personali si fondano sull’articolo 31.
+
+<sup>2</sup> L’aiuto iniziale di cui all’articolo 40 capoverso 2 lettera a è concesso soltanto se il gestore non ha ancora compiuto 35 anni.
+
+#### Art. 43
+
+**Onere sopportabile**
+
+Le disposizioni sul finanziamento e sulla sopportabilità di cui all’articolo 32 devono essere adempiute. Sono eccettuate le iniziative collettive di cui all’articolo 41 capo­verso 2 lettera a.
+
+### Sezione 2: Importo dei contributi e dei crediti di investimento
+
+#### Art. 44
+
+**Costi computabili**
+
+Oltre ai costi di cui all’articolo 10 sono computabili:
+
+- a. i costi per le inchieste e la consulenza;
+- b. nel caso di crediti di investimento: i costi di fondazione, i costi per l’acquisto di mobilio e mezzi ausiliari nonché i costi salariali durante il primo anno della nuova attività.
+
+#### Art. 45
+
+**Importo dei contributi e disposizioni specifiche sui provvedimenti**
+
+<sup>1</sup> Le aliquote dei contributi e le disposizioni specifiche sui provvedimenti sono stabilite nell’allegato 6. Nel caso di rincaro dei costi di costruzione o per contribuire al raggiungimento degli obiettivi ambientali dell’agricoltura 2008[^45-1], l’UFAG può aumentare le aliquote dell’allegato 6 nella misura del 10 per cento al massimo.
+
+<sup>2</sup> Nel caso di sostegno di edifici esistenti mediante aliquote forfettarie di cui all’allegato 6, i contributi forfettari sono ridotti in modo adeguato. Nel caso di edifici già sostenuti in precedenza, dai contributi massimi viene dedotto almeno il contributo federale *pro rata temporis* di cui all’articolo 67 capoverso 5 lettera c.
+
+<sup>3</sup> Per i provvedimenti tesi a promuovere la salute degli animali e una produzione particolarmente rispettosa dell’ambiente e degli animali può essere concesso un supplemento a tempo determinato. Questo non è considerato nel calcolo del contributo cantonale. I provvedimenti nonché la durata e l’importo del supplemento sono stabiliti nell’allegato 6.
+
+<sup>4</sup> La bonifica di edifici di economia rurale contaminati da policlorobifenili (PCB) è sostenuta mediante contributi fino al 2030.
+
+<sup>5</sup> L’UFAG può stabilire provvedimenti a tempo determinato per ridurre le emissioni di ammoniaca e le rispettive aliquote di contributo.
+
+[^45-1]: Gli obiettivi ambientali per l’agricoltura sono consultabili su: www. bafu.admin.ch &gt; Temi &gt; Biodiversità &gt; Pubblicazioni e studi &gt; Ricerca «UW-0820-D».
+
+#### Art. 46
+
+**Importo dei crediti di investimento e disposizioni specifiche sui provvedimenti**
+
+<sup>1</sup> Le aliquote dei crediti di investimento e le disposizioni specifiche sui provvedimenti sono stabilite nell’allegato 6. Nel caso di rincaro dei costi di costruzione o per contribuire al raggiungimento degli obiettivi ambientali dell’agricoltura 2008[^46-1], l’UFAG può aumentare le aliquote dell’allegato 6 nella misura del 10 per cento al massimo.
+
+<sup>2</sup> Per il calcolo del credito di investimento, dai costi computabili vengono dedotti i contributi pubblici.
+
+<sup>3</sup> Nel caso di sostegno di edifici esistenti mediante aliquote forfettarie di cui all’allegato 6, i crediti di investimento forfettari sono ridotti in modo adeguato. Nel caso di edifici già sostenuti in precedenza, dagli importi massimi viene dedotto almeno il saldo dell’attuale credito di investimento.
+
+[^46-1]: Gli obiettivi ambientali per l’agricoltura sono consultabili su: www. bafu.admin.ch &gt; Temi &gt; Biodiversità &gt; Pubblicazioni e studi &gt; Ricerca «UW-0820-D».
+
+## Capitolo 6: Progetti di sviluppo regionale
+
+### Sezione 1: Provvedimenti e condizioni
+
+#### Art. 47
+
+**Provvedimenti**
+
+<sup>1</sup>
+
+Sono considerati PSR:
+
+- a. i progetti comprendenti più catene del valore e riguardanti anche settori non agricoli;
+- b. i progetti comprendenti più attori all’interno di una catena del valore.
+
+<sup>2</sup>
+
+Nell’ambito dei PSR vengono sostenuti i seguenti provvedimenti:
+
+- a. i provvedimenti del genio rurale secondo il capitolo 3, quelli edilizi secondo il capitolo 4 e i provvedimenti supplementari nell’ambito dei miglioramenti strutturali secondo il capitolo 5 della presente ordinanza;
+- b. la creazione e lo sviluppo di un’attività affine all’agricoltura;
+- c. edifici e impianti per la trasformazione, lo stoccaggio e la commercializzazione di prodotti agricoli regionali;
+- d. gli investimenti collettivi nell’interesse del PSR;
+- e. altri provvedimenti nell’interesse del PSR.
+
+<sup>3</sup> Durante la fase di attuazione il PSR può essere integrato con altri provvedimenti.
+
+<sup>4</sup> I PSR sono provvedimenti collettivi.
+
+#### Art. 48
+
+**Condizioni**
+
+<sup>1</sup>
+
+Vengono concessi aiuti finanziari per PSR se sono adempiute le seguenti condizioni:
+
+- a. il progetto contribuisce alla creazione di valore aggiunto nell’agricoltura e al potenziamento della collaborazione regionale;
+- b. il progetto è composto da almeno tre provvedimenti, ciascuno dei quali con la propria contabilità e il proprio ente promotore nonché un diverso indirizzo;
+- c. i provvedimenti si fondano su un piano globale dal punto di vista del contenuto e sono coordinati con lo sviluppo regionale, i parchi d’importanza nazionale e la pianificazione del territorio;
+- d. i membri dell’ente promotore del progetto sono per la maggior parte gestori aventi diritto ai pagamenti diretti in virtù dell’OPD[^48-1]; questi detengono la maggioranza dei voti.
+
+<sup>2</sup> Il finanziamento e la sopportabilità dell’investimento previsto devono essere dimostrati prima della concessione dell’aiuto finanziario. La sopportabilità deve essere comprovata con strumenti di pianificazione adeguati per un periodo di almeno sette anni dopo la concessione degli aiuti finanziari.
+
+<sup>3</sup> Se nel quadro di un PSR vengono attuati provvedimenti del genio rurale secondo il capitolo 3, provvedimenti edilizi secondo il capitolo 4 o provvedimenti supplementari nell’ambito dei miglioramenti strutturali secondo il capitolo 5, si applicano le condizioni dei rispettivi capitoli.
+
+[^48-1]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+
+### Sezione 2: Importo dei contributi e dei crediti di investimento
+
+#### Art. 49
+
+**Costi computabili**
+
+Oltre ai costi di cui all’articolo 10 sono computabili:
+
+- a. i costi computabili in virtù degli articoli 23, 24, 36 e 44;
+- b. i costi per l’elaborazione dei documenti in vista di una convenzione;
+- c. i costi per le installazioni;
+- d. i costi per le macchine e i veicoli nell’interesse del PSR;
+- e. i costi per il marketing nel quadro del piano globale;
+- f. i costi dell’attività economico-imprenditoriale nel quadro del PSR;
+- g. i costi per la consulenza.
+
+#### Art. 50
+
+**Aliquote di contributo**
+
+<sup>1</sup>
+
+Se nel quadro di un PSR vengono attuati provvedimenti del genio rurale secondo il capitolo 3, provvedimenti edilizi secondo il capitolo 4 o provvedimenti supplementari nell’ambito dei miglioramenti strutturali secondo il capitolo 5 della presente ordi­nanza, le aliquote di contributo per i singoli provvedimenti sono aumentate come segue:
+
+- a. per progetti di cui all’articolo 47 capoverso 1 lettera a: del 20 per cento;
+- b. per progetti di cui all’articolo 47 capoverso 1 lettera b: del 10 per cento.
+
+<sup>2</sup> Per i costi computabili in virtù dell’articolo 49 lettere b–g, si applicano le seguenti aliquote di contributo:
+
+<table>
+<tr><td></td><td>per cento</td></tr>
+<tr><td>a. zona di pianura</td><td>34</td></tr>
+<tr><td>b. zona collinare e zona di montagna I</td><td>37</td></tr>
+<tr><td>c. zone di montagna II–IV e regione d’estivazione</td><td>40</td></tr>
+</table>
+
+<sup>3</sup>
+
+I costi computabili di cui al capoverso 2 sono ridotti nei casi seguenti:
+
+- a. creazione e sviluppo di un’attività affine all’agricoltura;
+- b. trasformazione, stoccaggio e commercializzazione di prodotti agricoli regionali;
+- c. altri provvedimenti nell’interesse del progetto globale;
+- d. provvedimenti integrati durante la fase di attuazione.
+
+<sup>4</sup> La riduzione in termini percentuali dei costi computabili è stabilita nell’allegato 7.
+
+#### Art. 51
+
+**Importo dei crediti di investimento**
+
+<sup>1</sup> Il credito di investimento per provvedimento ammonta al massimo al 50 per cento dei costi computabili, dedotti i contributi pubblici.
+
+<sup>2</sup> Per i singoli provvedimenti del genio rurale secondo il capitolo 2, quelli edilizi secondo il capitolo 3 e i provvedimenti supplementari nell’ambito dei miglioramenti strutturali secondo il capitolo 5, l’importo dei crediti di investimento, inclusi i crediti di consolidamento, è stabilito in base ai rispettivi capitoli.
+
+<sup>3</sup> I crediti di costruzione sono concessi fino a concorrenza del 75 per cento dei costi computabili.
+
+## Capitolo 7: Procedura
+
+### Sezione 1: Trattamento della domanda
+
+#### Art. 52
+
+**Parere dell’UFAG prima della presentazione della domanda**
+
+<sup>1</sup>
+
+L’UFAG esprime un parere ai sensi dell’articolo 97 capoverso 2 LAgr sotto forma di:
+
+- a. informazione, se esiste unicamente uno studio preliminare con una stima approssimativa dei costi o se non si può stabilire quando verrà realizzato il progetto;
+- b. preavviso con l’indicazione degli oneri e delle condizioni nonché degli aiuti finanziari previsti, se esiste un progetto di massima con una stima dei costi;
+- c. corapporto vincolante, se viene effettuata una procedura di esame dell’impatto sull’ambiente ai sensi dell’articolo 22 dell’ordinanza del 19 ottobre 1988[^52-1] concernente l’esame dell’impatto sull’ambiente.
+
+<sup>2</sup> Il Cantone trasmette all’UFAG la richiesta di parere corredata dei documenti necessari e dei dati pertinenti tramite il sistema d’informazione sui miglioramenti strutturali.
+
+<sup>3</sup>
+
+Un parere dell’UFAG non è necessario se:
+
+- a. il progetto non tange alcun oggetto di un inventario federale d’importanza nazionale;
+- b. il progetto non sottostà ad alcun obbligo di coordinamento o di compartecipazione a livello federale.
+
+[^52-1]: [RS 814.011](https://fedlex.data.admin.ch/eli/cc/1988/1931_1931_1931)
+
+#### Art. 53
+
+**Domande di aiuti finanziari**
+
+<sup>1</sup> Le domande di aiuti finanziari vanno presentate al Cantone.
+
+<sup>2</sup> Il Cantone esamina la domanda, valuta tra le altre cose la sopportabilità e l’opportunità dei provvedimenti previsti, fissa l’importo del contributo cantonale e del credito di investimento e stabilisce nel singolo caso oneri e condizioni.
+
+#### Art. 54
+
+**Richiesta del Cantone all’UFAG**
+
+<sup>1</sup> La richiesta del Cantone all’UFAG per contributi e crediti di investimento superiori a 500 000 franchi deve essere presentata tramite il sistema d’informazione sui miglioramenti strutturali.
+
+<sup>2</sup>
+
+Deve contenere tutta la documentazione e le informazioni utili, tuttavia almeno i seguenti documenti:
+
+- a. le decisioni cantonali passate in giudicato sull’approvazione del progetto;
+- b. la decisione dei servizi cantonali competenti in merito all’importo totale dell’aiuto finanziario del Cantone per un progetto;
+- c. le decisioni relative agli aiuti finanziari di enti territoriali di diritto pubblico di cui all’articolo 8 capoverso 4, nella misura in cui il Cantone li computa nel contributo cantonale;
+- d. la documentazione tecnica come piani corografici, piani dettagliati e delle opere, rapporti tecnici, preventivi dei costi;
+- e. la documentazione economica aziendale, come i piani finanziari e il calcolo della sopportabilità.
+
+<sup>3</sup> Se riguardano provvedimenti di cui all’articolo 9 capoverso 1, le richieste di aiuti finanziari devono contenere la prova della pubblicazione nell’organo di pubblicazione del Cantone ai sensi dell’articolo 89*a* LAgr.
+
+<sup>4</sup> Se vengono chiesti contributi ed è necessaria un’autorizzazione edilizia secondo la legislazione sulla pianificazione del territorio, le richieste devono contenere la prova della pubblicazione nell’organo di pubblicazione del Cantone ai sensi dell’articolo 97 LAgr.
+
+<sup>5</sup> Il saldo di precedenti crediti di investimento e mutui a titolo di aiuto per la conduzione aziendale è preso in considerazione nel caso del capoverso 1.
+
+#### Art. 55
+
+**Procedura di approvazione**
+
+<sup>1</sup> L’UFAG esamina la richiesta del Cantone e verifica se questo ha tenuto conto degli oneri e delle condizioni stabiliti nel suo parere.
+
+<sup>2</sup> L’UFAG concede al Cantone il contributo sotto forma di una decisione o, nel caso di un PSR, sotto forma di una convenzione. Se una richiesta di contributo viene combinata con una richiesta di un credito di investimento, esso approva contemporaneamente il credito di investimento.
+
+<sup>3</sup> Per i crediti di investimento superiori a 500 000 franchi, l’UFAG decide entro 30 giorni dalla trasmissione elettronica del fascicolo completo da parte del Cantone. Il Cantone notifica la sua decisione al richiedente soltanto dopo l’approvazione da parte dell’UFAG.
+
+<sup>4</sup> L’UFAG stabilisce gli oneri e le condizioni nella decisione di contribuzione o nella convenzione. Fissa i termini per la realizzazione del progetto e per la presentazione del conteggio.
+
+<sup>5</sup> Nel caso di progetti eseguiti a tappe, o su proposta del Cantone, l’UFAG emette previamente una decisione di principio. In quest’ultima stabilisce se il progetto adempie le esigenze per gli aiuti finanziari. La decisione di contribuzione avviene per le singole tappe. La decisione di principio non è considerata una decisione di contribuzione.
+
+<sup>6</sup> Se il contributo federale supera presumibilmente 5 milioni di franchi, la decisione di principio, la decisione di contribuzione o la convenzione è emessa d’intesa con l’Amministrazione federale delle finanze.
+
+#### Art. 56
+
+**Convenzione per progetti di sviluppo regionale**
+
+<sup>1</sup> Per PSR tra la Confederazione, il Cantone ed eventualmente i fornitori di prestazioni è conclusa una convenzione sotto forma di contratto di diritto pubblico.
+
+<sup>2</sup>
+
+La convenzione disciplina in particolare:
+
+- a. gli obiettivi del PSR;
+- b. i provvedimenti che consentono di realizzare il piano globale;
+- c. i costi computabili, l’aliquota di contributo e il contributo della Confederazione per provvedimento;
+- d. il controlling;
+- e. il versamento dei contributi;
+- f. la garanzia delle opere che beneficiano di un sostegno finanziario;
+- g. gli oneri e le condizioni della Confederazione;
+- h. le disposizioni da prendere se gli obiettivi non sono raggiunti;
+- i. la durata e la risoluzione della convenzione.
+
+<sup>3</sup> È possibile adeguare la convenzione e integrarla con nuovi provvedimenti.
+
+### Sezione 2: Inizio dei lavori, acquisti ed esecuzione
+
+#### Art. 57
+
+**Inizio dei lavori e acquisti**
+
+<sup>1</sup> È possibile iniziare i lavori ed effettuare acquisti soltanto se l’aiuto finanziario di cui all’articolo 55 capoversi 2 e 3 è stato stabilito mediante una decisione passata in giudicato o se è stata conclusa una convenzione ai sensi dell’articolo 55. I progetti che sono eseguiti a tappe possono iniziare soltanto se la decisione di contribuzione delle singole tappe è passata in giudicato.
+
+<sup>2</sup> L’autorità cantonale competente può autorizzare un inizio anticipato dei lavori o un acquisto anticipato se l’attesa del passaggio in giudicato della decisione o della conclusione della convenzione recherebbe grave pregiudizio. Ciò non tange la decisione sulla concessione del contributo o sull’approvazione del credito di investimento.
+
+<sup>3</sup> Per i provvedimenti sostenuti mediante contributi, l’autorità cantonale competente può autorizzare un inizio anticipato dei lavori o un acquisto anticipato soltanto previa approvazione dell’UFAG.
+
+<sup>4</sup> I costi per provvedimenti non edilizi che sorgono già durante l’elaborazione dei documenti nonché per prestazioni pianificatorie possono essere computati in un secondo tempo a condizione che il progetto venga attuato.
+
+<sup>5</sup> In caso di inizio anticipato dei lavori o di acquisti anticipati senza autorizzazione scritta preliminare non è concesso alcun aiuto finanziario.
+
+#### Art. 58
+
+**Esecuzione del progetto**
+
+<sup>1</sup> L’esecuzione del progetto deve corrispondere ai documenti presentati nella procedura di approvazione.
+
+<sup>2</sup>
+
+Le modifiche progettuali sostanziali necessitano dell’approvazione preliminare dell’UFAG. Sono sostanziali le modifiche concernenti:
+
+- a. aspetti e documenti che erano stati determinanti per la decisione sugli aiuti finanziari;
+- b. progetti che interessano inventari della Confederazione d’importanza nazionale; o
+- c. progetti sottoposti a un obbligo legale di coordinamento o di compartecipazione a livello federale.
+
+<sup>3</sup> I costi suppletivi che superano 100 000 franchi e ammontano a oltre il 20 per cento del preventivo approvato necessitano dell’approvazione dell’UFAG se per essi è richiesto un contributo.
+
+<sup>4</sup> Il progetto deve essere eseguito entro i termini fissati dall’UFAG. I ritardi devono essere annunciati e motivati.
+
+#### Art. 59
+
+**Versamento dei contributi**
+
+<sup>1</sup> Per ogni progetto il Cantone può richiedere pagamenti parziali in funzione dell’avanzamento dei lavori tramite il sistema d’informazione sui miglioramenti strutturali dell’UFAG.
+
+<sup>2</sup> È versato sotto forma di pagamenti parziali al massimo l’80 per cento del contributo totale approvato.
+
+<sup>3</sup> Il pagamento finale è effettuato per ogni progetto su richiesta del Cantone.
+
+### Sezione 3: Garanzia dei provvedimenti
+
+#### Art. 60
+
+**Obbligo di manutenzione e di gestione**
+
+Le superfici, gli edifici, le installazioni, le macchine e i veicoli per i quali sono stati concessi aiuti finanziari devono essere mantenuti, curati e gestiti in modo adeguato.
+
+#### Art. 61
+
+**Inizio del divieto di modificare la destinazione e di frazionare ai sensi dell’articolo 102 LAgr**
+
+<sup>1</sup> Il divieto di modificare la destinazione vige a partire dall’assegnazione di un contributo federale.
+
+<sup>2</sup> Il divieto di frazionare vige a partire dall’acquisto della proprietà dei nuovi fondi.
+
+#### Art. 62
+
+**Menzione nel registro fondiario nel caso di contributi**
+
+<sup>1</sup> Per progetti per i quali sono versati contributi il Cantone menziona nel registro fondiario l’obbligo di manutenzione e di gestione nonché il divieto di modificare la destinazione e di frazionare in relazione ai fondi interessati.
+
+<sup>2</sup>
+
+Si può rinunciare alla menzione nel registro fondiario se:
+
+- a. manca un registro fondiario;
+- b. la menzione comporterebbe un onere sproporzionato;
+- c. si attuano provvedimenti del genio rurale non vincolati alle superfici, segnatamente approvvigionamento idrico ed elettrico;
+- d. si attuano provvedimenti tesi a promuovere la salute degli animali e una produzione particolarmente rispettosa dell’ambiente e degli animali;
+- e. si attuano ripristini periodici;
+- f. si attuano iniziative collettive tese a ridurre i costi di produzione;
+- g. si acquistano installazioni, macchine o veicoli.
+
+<sup>3</sup> Nei casi menzionati nel capoverso 2 lettere a–d, invece della menzione nel registro fondiario subentra una dichiarazione del proprietario dell’opera, con la quale questi si impegna a rispettare il divieto di modificare la destinazione, l’obbligo di gestione e di manutenzione, l’obbligo di restituzione e altri eventuali condizioni e oneri.
+
+<sup>4</sup> La prova della menzione nel registro fondiario o la dichiarazione di cui al capo­verso 3 devono essere presentate all’UFAG al più tardi con la domanda di pagamento finale o, per progetti eseguiti a tappe, con la prima domanda di pagamento finale di una tappa.
+
+<sup>5</sup> Il Cantone notifica all’ufficio del registro fondiario competente la data alla quale spirano il divieto di modificare la destinazione e l’obbligo di restituzione. L’ufficio del registro fondiario integra tale data nella menzione.
+
+<sup>6</sup> L’ufficio del registro fondiario radia d’ufficio, al loro spirare, la menzione del divieto di modificare la destinazione e quella dell’obbligo di restituzione.
+
+<sup>7</sup> Su richiesta della persona gravata e con il consenso del Cantone, la menzione nel registro fondiario può essere radiata per le superfici la cui modifica della destinazione o il cui frazionamento è stato autorizzato o per le quali i contributi sono stati restituiti.
+
+### Sezione 4: Richiesta di restituzione dei contributi e revoca dei crediti di investimento
+
+#### Art. 63
+
+**Condizioni per la richiesta di restituzione dei contributi**
+
+Nel caso di modifica della destinazione o di frazionamento, il Cantone richiede la restituzione di tutti i contributi se non ha rilasciato una corrispettiva autorizzazione eccezionale.
+
+#### Art. 64
+
+**Procedura per la richiesta di restituzione dei contributi e responsabilità**
+
+<sup>1</sup> Il Cantone dispone la restituzione dei contributi nei confronti dei beneficiari degli aiuti finanziari. Nel caso di provvedimenti collettivi, i beneficiari sono responsabili fino a concorrenza della loro partecipazione.
+
+<sup>2</sup> Se gli originari beneficiari degli aiuti finanziari non esistono più o non sono più proprietari, il Cantone dispone la restituzione nei confronti dei proprietari dell’opera o del fondo che hanno preso il loro posto.
+
+<sup>3</sup> Il Cantone può rinunciare a richiedere la restituzione di importi inferiori a 1000 franchi e dei contributi per ripristini periodici.
+
+#### Art. 65
+
+**Conteggio dei contributi di cui è stata richiesta la restituzione**
+
+Ogni anno, entro il 30 aprile, i Cantoni effettuano con la Confederazione il conteggio dei contributi di cui è stata richiesta la restituzione nell’anno precedente. Il conteggio include:
+
+- a. il numero del caso di sostegno secondo il sistema d’informazione sui miglioramenti strutturali dell’UFAG;
+- b. l’importo del contributo di cui è stata richiesta la restituzione;
+- c. una copia delle decisioni concernenti la richiesta di restituzione.
+
+#### Art. 66
+
+**Eccezioni al divieto di modificare la destinazione**
+
+Possono essere autorizzate eccezioni al divieto di modificare la destinazione per i motivi seguenti:
+
+- a. azzonamento passato in giudicato di fondi in zone edificabili, zone di protezione delle acque S1, zone di protezione contro le piene o in altre zone protette e di utilizzazione non agricole;
+- b. autorizzazioni eccezionali passate in giudicato ai sensi dell’articolo 24 della legge del 22 giugno 1979[^66-1] sulla pianificazione del territorio (LPT);
+- c. riconversioni della produzione, purché il pagamento finale risalga a oltre dieci anni;
+- d. assenza del fabbisogno agricolo o costi sproporzionati come motivo della rinuncia al ripristino di edifici e impianti agricoli o di superfici agricole utili distrutti da incendi o dalla furia degli elementi;
+- e. fabbisogno in edifici e impianti nell’interesse pubblico della Confederazione, del Cantone o del Comune, nonché per le Ferrovie federali o per le strade nazionali.
+
+[^66-1]: [RS 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+
+#### Art. 67
+
+**Richiesta di restituzione dei contributi nel caso di una modifica della destinazione**
+
+<sup>1</sup> Se autorizza una modifica della destinazione, il Cantone decide contemporaneamente in merito alla richiesta di restituzione del contributo pagato.
+
+<sup>2</sup> Può richiedere la restituzione del contributo soltanto fino alla scadenza della durata di utilizzazione conforme di cui al capoverso 5, tuttavia al massimo fino a 20 anni dopo il pagamento finale della Confederazione.
+
+<sup>3</sup> Una richiesta di restituzione è esclusa se il Cantone ha rilasciato un’autorizzazione ai sensi dell’articolo 66 lettera c, d o e.
+
+<sup>4</sup>
+
+Sono determinanti per l’importo di cui è richiesta la restituzione:
+
+- a. la superficie di cui è stata modificata la destinazione;
+- b. l’entità dell’utilizzazione non agricola; e
+- c. il rapporto tra la durata di utilizzazione effettiva e quella conforme.
+
+<sup>5</sup> La durata di utilizzazione conforme è di:
+
+<table>
+<tr><td>a. per i provvedimenti del genio rurale</td><td>40 anni</td></tr>
+<tr><td>b. per gli edifici e gli impianti a fune</td><td>20 anni</td></tr>
+<tr><td>c. per le installazioni, le macchine e i veicoli nonché per i provvedimenti tesi a promuovere la salute degli animali e una produzione particolarmente rispettosa dell’ambiente e degli animali</td><td>10 anni</td></tr>
+</table>
+
+#### Art. 68
+
+**Eccezioni al divieto di frazionare**
+
+Possono essere autorizzate eccezioni al divieto di frazionare per i motivi seguenti:
+
+- a. azzonamenti passati in giudicato in zone di protezione delle acque S1, zone di protezione contro le piene e in zone di protezione della natura nonché delimitazione dello spazio riservato alle acque;
+- b. azzonamenti passati in giudicato in zone edificabili o in altre zone nelle quali un’utilizzazione agricola non è più consentita;
+- c. autorizzazioni eccezionali passate in giudicato ai sensi degli articoli 24, 24*c* e 24*d* LPT[^68-1], anche con il necessario terreno circostante gli edifici;
+- d. delimitazione lungo i margini del bosco;
+- e. permuta di porzioni di fondi di un’azienda agricola con terreni, edifici o impianti ubicati in una posizione più favorevole o più idonea per la gestione dell’azienda;
+- f. trasferimento di un edificio agricolo non più necessario, con il relativo terreno circostante, al proprietario di un’azienda agricola o di un fondo agricolo adiacente per un uso conforme alla zona, se in tal modo è possibile evitare la realizzazione di un edificio;
+- g. costituzione di un diritto di superficie a sé stante e permanente a favore dell’affittuario dell’azienda agricola;
+- h. costituzione di un diritto di superficie a sé stante e permanente a favore di un edificio o di un impianto agricolo gestito congiuntamente;
+- i. correzione o rettifica dei confini all’atto della realizzazione di un’opera;
+- j. accorpamento di tutte le porzioni della particella frazionata con particelle adiacenti o miglioramento del raggruppamento tramite la frammentazione;
+- k. fabbisogno in edifici e impianti nell’interesse pubblico della Confederazione, del Cantone o del Comune.
+
+[^68-1]: [RS 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+
+#### Art. 69
+
+**Richiesta di restituzione dei contributi nel caso di un frazionamento**
+
+<sup>1</sup> Le autorità cantonali notificano all’UFAG immediatamente e gratuitamente l’autorizzazione dell’eccezione al divieto di frazionare. Possono notificare periodicamente i casi d’importanza esigua all’UFAG sotto forma di elenco.
+
+<sup>2</sup> Se autorizza un frazionamento, il Cantone decide contemporaneamente in merito alla richiesta di restituzione del contributo pagato.
+
+<sup>3</sup> Può richiedere la restituzione del contributo al massimo fino a 20 anni dopo il pagamento finale della Confederazione.
+
+<sup>4</sup> Una richiesta di restituzione è esclusa se il Cantone ha rilasciato un’autorizzazione ai sensi dell’articolo 68 lettere d–k.
+
+<sup>5</sup> Sono determinanti per l’importo di cui è richiesta la restituzione la superficie frazionata e il rapporto tra la durata di utilizzazione effettiva e quella conforme di 40 anni.
+
+<sup>6</sup> L’autorità cantonale competente ad accordare l’autorizzazione secondo la legge del 4 ottobre 1991[^69-1] sul diritto fondiario rurale (LDFR) può autorizzare eccezioni al divieto di frazionare ai sensi dell’articolo 60 LDFR soltanto se esiste una decisione passata in giudicato ai sensi della presente ordinanza.
+
+[^69-1]: [RS 211.412.11](https://fedlex.data.admin.ch/eli/cc/1993/1410_1410_1410)
+
+#### Art. 70
+
+**Richiesta di restituzione dei contributi e revoca dei crediti di investimento per motivi diversi dalla modifica della destinazione e dal frazionamento**
+
+<sup>1</sup>
+
+Il Cantone richiede la restituzione del contributo o revoca il credito di investimento per i motivi seguenti:
+
+- a. riduzione della base foraggera di oltre il 20 per cento, se ciò comporta che le condizioni per un sostegno ai sensi dell’articolo 34 non sono più adempiute;
+- b. sottoutilizzo della capacità sostenuta finanziariamente di un edificio o di un impianto nella misura di oltre il 20 per cento;
+- c. nel caso di approvvigionamento idrico ed elettrico: cessazione dell’utilizzazione agricola di edifici allacciati o di terreni coltivi o allacciamento di edifici non agricoli, se tale allacciamento non era previsto nel progetto determinante ai fini della decisione di contribuzione;
+- d. utilizzazione di terreno coltivo per lo sfruttamento di risorse del suolo o come discarica, se la fase di smantellamento, compresa la ricoltivazione, dura più di 5 anni;
+- e. alienazione con utile;
+- f. inadempimento di condizioni e oneri;
+- g. mancata rimozione dell’incuria nell’obbligo di gestione e di manutenzione constatata dal Cantone entro il termine concesso;
+- h. mancato pagamento nonostante diffida di una quota d’ammortamento di un credito di investimento entro sei mesi dopo la scadenza;
+- i. concessione di un aiuto finanziario sulla base di indicazioni fallaci;
+- j. cessazione della gestione in proprio dopo la concessione del credito di investimento, tranne in caso di affitto a un discendente;
+- k. rinuncia all’utilizzazione di edifici, installazioni, macchine e veicoli conforme alla domanda inoltrata;
+- l. nel caso di PSR: fine anticipata della collaborazione stabilita nella convenzione.
+
+<sup>2</sup> Invece di una revoca ai sensi del capoverso 1 lettera j, in caso di affitto al di fuori della famiglia o di vendita dell’azienda o dell’impresa, il Cantone può trasferire il credito di investimento alle stesse condizioni al successore, purché questi adempia le condizioni di cui all’articolo 32, offra la garanzia richiesta, non vi sia alcun motivo di esclusione secondo l’articolo 3 e non si tratti di un’alienazione con utile.
+
+<sup>3</sup> In caso di richiesta di restituzione dei contributi e di revoca dei crediti di investimento ai sensi del capoverso 1 lettera e, l’importo di cui è richiesta la restituzione o la revoca equivale all’utile da alienazione. Quest’ultimo si calcola in base alla differenza tra il prezzo d’alienazione e il valore d’imputazione. È consentito dedurre compensi in natura, imposte e tasse di diritto pubblico. I valori d’imputazione sono stabiliti nell’allegato 8. L’UFAG può modificare i valori d’imputazione dell’allegato 8.
+
+<sup>4</sup> La richiesta di restituzione di un contributo ai sensi del capoverso 1 lettere a–d può essere calcolata in base al rapporto tra la durata di utilizzazione effettiva e quella conforme di cui all’articolo 67 capoverso 5.
+
+<sup>5</sup> La richiesta di restituzione di un contributo ai sensi del capoverso 1 lettere f–l non può essere ridotta.
+
+<sup>6</sup> Nei casi di rigore, per i crediti di investimento può essere richiesto, invece della revoca, il pagamento di interessi del 3 per cento del credito.
+
+## Capitolo 8: Gestione dei crediti di investimento
+
+#### Art. 71
+
+**Gestione del fondo di rotazione**
+
+<sup>1</sup> Il Cantone presenta all’UFAG la richiesta di fondi federali in funzione del fabbisogno tramite il sistema d’informazione sui miglioramenti strutturali.
+
+<sup>2</sup> L’UFAG esamina la richiesta di ciascun Cantone e gli versa i fondi federali rimborsabili nell’ambito dei crediti autorizzati.
+
+<sup>3</sup>
+
+Il Cantone notifica all’UFAG entro il 10 gennaio, tramite il sistema d’informazione sui miglioramenti strutturali, i seguenti saldi al 31 dicembre dell’esercizio contabile precedente:
+
+- a. il saldo totale dei fondi federali;
+- b. gli interessi maturati;
+- c. la liquidità;
+- d. la somma dei crediti di investimento concessi ma non ancora versati.
+
+<sup>4</sup> Il Cantone gestisce mediante contabilità separata i fondi messi a disposizione dalla Confederazione ed entro fine aprile presenta il consuntivo annuale all’UFAG tramite il sistema d’informazione sui miglioramenti strutturali.
+
+<sup>5</sup>
+
+Notifica all’UFAG entro il 15 luglio, tramite il sistema d’informazione sui miglioramenti strutturali, i seguenti saldi al 30 giugno:
+
+- a. la liquidità;
+- b. la somma dei crediti di investimento concessi ma non ancora versati.
+
+#### Art. 72
+
+**Richiesta di restituzione e nuova ripartizione dei fondi federali**
+
+<sup>1</sup>
+
+Dopo aver sentito il Cantone, l’UFAG può richiedere la restituzione dei fondi non utilizzati superiori al doppio del fondo cassa minimo sull’arco di un anno e:
+
+- a. assegnarli a un altro Cantone; oppure
+- b. in caso di bisogno comprovato, trasferirli all’aiuto per la conduzione aziendale, purché venga fornita la corrispettiva prestazione cantonale.
+
+<sup>2</sup> Il fondo cassa minimo ammonta ad almeno 2 milioni di franchi o al 2 per cento del fondo di rotazione.
+
+<sup>3</sup> Se i fondi federali sono assegnati a un altro Cantone, il termine di preavviso è di tre mesi.
+
+## Capitolo 9: Vigilanza
+
+#### Art. 73
+
+**Alta vigilanza della Confederazione**
+
+<sup>1</sup> L’UFAG esercita l’alta vigilanza. Effettua controlli a campione sulla realizzazione del provvedimento e sull’utilizzazione dei fondi federali versati. Può effettuare controlli in loco.
+
+<sup>2</sup> Se nell’ambito della sua alta vigilanza l’UFAG constata modifiche della destinazione non autorizzate, incurie di manutenzione o di gestione, violazioni di prescrizioni giuridiche, aiuti finanziari indebitamente concessi oppure altri motivi di restituzione o di revoca, può ordinare che il Cantone gli restituisca l’importo indebitamente concesso.
+
+#### Art. 74
+
+**Vigilanza dei Cantoni**
+
+<sup>1</sup> I Cantoni informano l’UFAG, su richiesta di quest’ultimo, in merito alle loro prescrizioni e al modo in cui hanno organizzato il controllo sul divieto di modificare la destinazione e di frazionare nonché la sorveglianza in materia di manutenzione e di gestione.
+
+<sup>2</sup> Su richiesta dell’UFAG, gli presentano un rapporto riguardante il numero di controlli effettuati, i risultati nonché eventuali disposizioni e provvedimenti.
+
+## Capitolo 10: Disposizioni finali
+
+#### Art. 75
+
+**Abrogazione di un altro atto normativo**
+
+<sup>RU 1998 3092; 2000 382: 2003 5369; 2006 4839; 2007 6187; 2008 3651; 2011 2385; 2013 3909, 4545; 2015 1755, 4529; 2017 6097; 2020 5495.</sup> L’ordinanza del 7 dicembre 1998 sui miglioramenti strutturali è abrogata.
+
+#### Art. 76
+
+**Modifica di altri atti normativi**
+
+La modifica di altri atti normativi è disciplinata nell’allegato 9.
+
+#### Art. 77
+
+**Entrata in vigore**
+
+La presente ordinanza entra in vigore il 1° gennaio 2023.
+
+<table>
+<tr><td>2 novembre 2022</td><td>In nome del Consiglio federale svizzero: Il presidente della Confederazione, Ignazio Cassis Il cancelliere della Confederazione, Walter Thurnherr</td></tr>
+</table>
+
+Allegato 1
+
+(art. 6 cpv. 4)
+
+## Messa a rischio della densità d’insediamento
+
+La densità d’insediamento in un’area della regione di montagna e di quella collinare è a rischio se a lungo termine non è più assicurato il mantenimento di un tessuto sociale o di una comunità paesana. La valutazione del rischio avviene secondo la matrice seguente:
+
+Matrice per la valutazione del rischio d’insediamento
+
+<table>
+<tr><td>Criterio</td><td>Unità</td><td>Difficoltà contenuta</td><td>Difficoltà moderata</td><td>Difficoltà elevata</td><td>Peso</td><td>Punti</td></tr>
+<tr><td>Capacità finanziaria del Comune</td><td>Quota pro capite dell’imposta federale diretta in % della CH</td><td>&gt; 70</td><td>60–70</td><td>&lt; 60</td><td>1</td><td></td></tr>
+<tr><td></td><td></td><td>1</td><td>2</td><td>3</td><td></td><td></td></tr>
+<tr><td>Calo demografico nel Comune</td><td>Percentuale degli ultimi 10 anni</td><td>&lt; 2</td><td>2–5</td><td>&gt; 5</td><td>2</td><td></td></tr>
+<tr><td></td><td></td><td>1</td><td>2</td><td>3</td><td></td><td></td></tr>
+<tr><td>Dimensioni della località in cui l’azienda viene classificata</td><td>Numero di abitanti</td><td>&gt; 1000</td><td>500–1000</td><td>&lt; 500</td><td>1</td><td></td></tr>
+<tr><td></td><td></td><td>1</td><td>2</td><td>3</td><td></td><td></td></tr>
+<tr><td>Accessibilità con mezzi di trasporto pubblici</td><td>Frequenza dei collegamenti giornalieri</td><td>&gt;12</td><td>6–12</td><td>&lt; 6</td><td>1</td><td></td></tr>
+<tr><td></td><td></td><td>1</td><td>2</td><td>3</td><td></td><td></td></tr>
+<tr><td>Accessibilità con mezzi di trasporto privati</td><td>Qualità delle strade (su tutto l’arco dell’anno): accesso per auto e mezzi pesanti</td><td>nessun problema</td><td>possibile</td><td>limitato</td><td>2</td><td></td></tr>
+<tr><td></td><td></td><td>1</td><td>2</td><td>3</td><td></td><td></td></tr>
+<tr><td>Distanza di percorso per la scuola primaria</td><td>km</td><td>&lt; 3</td><td>3–6</td><td>&gt; 6</td><td>1</td><td></td></tr>
+<tr><td></td><td></td><td>1</td><td>2</td><td>3</td><td></td><td></td></tr>
+<tr><td>Distanza di percorso per i negozi di prima necessità</td><td>km</td><td>&lt; 5</td><td>5–10</td><td>&gt; 10</td><td>2</td><td></td></tr>
+<tr><td></td><td></td><td>1</td><td>2</td><td>3</td><td></td><td></td></tr>
+<tr><td>Distanza di percorso per il centro più vicino</td><td>km</td><td>&lt; 15</td><td>15–20</td><td>&gt; 20</td><td>1</td><td></td></tr>
+<tr><td></td><td></td><td>1</td><td>2</td><td>3</td><td></td><td></td></tr>
+<tr><td>Peculiarità della regione:</td><td></td><td></td><td></td><td></td><td>2</td><td></td></tr>
+<tr><td></td><td></td><td>1</td><td>2</td><td>3</td><td></td><td></td></tr>
+<tr><td colspan="6">Punteggio totale (punteggio max. = 39)</td><td></td></tr>
+<tr><td colspan="6">Punteggio minimo necessario per il sostegno finanziario di un’azienda in virtù dell’articolo 89 capoverso 2 LAgr</td><td>26</td></tr>
+</table>
+
+Allegato 2
+
+(art. 18 cpv. 2 e 28 cpv. 3)
+
+## Valori indicativi per la sopportabilità di provvedimenti del genio rurale
+
+I provvedimenti del genio rurale sono considerati difficilmente sopportabili se i costi residui dell’agricoltura superano i seguenti valori indicativi:
+
+Onere relativo ai costi residui dell’agricoltura
+
+<table>
+<tr><th>Costi residui in franchi per unità</th><th>Unità</th><th>Campo d’applicazione, unità di misura</th></tr>
+<tr><td>6600</td><td>ha</td><td>provvedimenti collettivi di ampia portata: comprensorio; provvedimenti collettivi e individuali per aziende campicole: superficie agricola utile degli agricoltori interessati.</td></tr>
+<tr><td>4500</td><td>UBG</td><td>provvedimenti collettivi e individuali per aziende detentrici di animali: effettivo medio di bestiame degli agricoltori interessati.</td></tr>
+<tr><td>2400</td><td>carico normale (CN)</td><td>bonifiche fondiarie nella regione d’estivazione: carico medio delle aziende interessate.</td></tr>
+<tr><td>33 000</td><td>allacciamento</td><td>approvvigionamento idrico ed elettrico nella regione di montagna: numero di allacciamenti su cui si basa il dimensionamento.</td></tr>
+</table>
+
+Allegato 3
+
+(art. 24 cpv. 2)
+
+## Costi computabili per il ripristino periodico di strade agricole
+
+### 1. Onere del provvedimento
+
+<table>
+<tr><th>Criteri</th><th>Punti 0</th><th>1</th><th>2</th></tr>
+<tr><td>a. Declività del terreno (pendenza media)</td><td>&lt; 20 %</td><td>20–40 %</td><td>&gt; 40 %</td></tr>
+<tr><td>b. Sottosuolo</td><td>buono</td><td>umido</td><td>bagnato/ instabile</td></tr>
+<tr><td>c. Materiale da costruzione, distanza</td><td>&lt; 10 km</td><td>≥ 10 km</td><td>–</td></tr>
+<tr><td>d. Ripristino / integrazione dell’evacuazione delle acque</td><td>no</td><td>sì</td><td></td></tr>
+<tr><td>e. Ripristino di manufatti (ponti, muri, scarpate)</td><td>no</td><td>sì</td><td>–</td></tr>
+</table>
+
+La somma dei punti ottenuti per i criteri di cui alle lettere a–e equivale all’onere del provvedimento.
+
+### 2. Graduazione dei costi computabili secondo l’onere
+
+<table>
+<tr><th>Onere</th><th>Punti totali</th><th>Costi computabili in franchi per km Strada in ghiaia</th><th>Costi computabili in franchi per km Strada pavimentata</th></tr>
+<tr><td>Normale</td><td>0–1</td><td>25 000</td><td>40 000</td></tr>
+<tr><td>Onere supplementare moderato</td><td>2–4</td><td>40 000</td><td>50 000</td></tr>
+<tr><td>Onere supplementare elevato</td><td>5–7</td><td>50 000</td><td>60 000</td></tr>
+</table>
+
+Allegato 4
+
+(art. 26 cpv. 6)
+
+## Contributi supplementari per provvedimenti del genio rurale
+
+### 1. Graduazione dei contributi supplementari per prestazioni supplementari
+
+<table>
+<tr><th>Lett.</th><th>+ 1 %</th><th>+ 2 %</th><th>+ 3 %</th><th>Esempi</th></tr>
+<tr><td>a. Valorizzazione dei piccoli corsi d’acqua</td><td>Rivitalizzazioni isolate</td><td>Rivitalizzazioni locali o ripristini isolati dello scorrimento a cielo aperto</td><td>Rivitalizzazioni estese o ripristini locali dello scorrimento a cielo aperto</td><td>Rivitalizzazioni: valorizzazione ecologica di ruscelli rettificati</td></tr>
+<tr><td>b. Protezione del suolo o garanzia della qualità delle superfici per l’avvicendamento delle colture</td><td>Superficie interessata: 10–33 % del comprensorio</td><td>Superficie interessata: 34–66 % del comprensorio</td><td>Superficie interessata: 67–100 % del comprensorio</td><td>Adeguamento di provvedimenti di gestione, siepi, strisce inerbite, realizzazione del progetto generale di evacuazione delle acque PGEA, ecc. oppure: provvedimenti per la garanzia della qualità delle superfici per l’avvicendamento delle colture SAC (p. es. rinnovo di drenaggi su SAC, ripristino di SAC, miglioramento della fertilità del suolo)</td></tr>
+<tr><td>c. Provvedimenti ecologici particolari</td><td>Elementi ecologici locali fissi\*</td><td>Elementi ecologici estesi fissi\*</td><td>Elementi ecologici estesi fissi\* con interconnessione</td><td>Impianto/protezione di biotopi, habitat, alberi da frutto ad alto fusto, alberi nei campi o muri a secco, realizzazione di margini boschivi stratificati al di fuori della superficie agricola utile, ecc.</td></tr>
+<tr><td>d. Paesaggi rurali o edifici d’importanza storico-culturale</td><td>Salvaguardia e valorizzazione isolata di elementi paesaggistici caratteristici</td><td>Piccoli ripristini di edifici tradizionali o valorizzazione locale di elementi paesaggistici caratteristici</td><td>Grandi ripristini di edifici tradizionali o valorizzazione estesa di elementi paesaggistici caratteristici</td><td>Edifici caratteristici per il paesaggio e meritevoli di essere salvaguardati, vie storiche, paesaggi terrazzati, paesaggi con siepi, selve castanili, foresta-pascolo, siti dell’Inventario federale dei paesaggi, siti e monumenti naturali, ecc.</td></tr>
+<tr><td>e. Produzione di energie rinnovabili</td><td>Copertura &gt; 50 % del fabbisogno in elettricità o calore del settore agricolo nel comprensorio</td><td>Copertura &gt; 75 % del fabbisogno in elettricità o calore del settore agricolo nel comprensorio</td><td>Copertura &gt; 100 % del fabbisogno in elettricità o calore del settore agricolo nel comprensorio</td><td>Elettricità prodotta da impianti quali collettori solari, centrali idroelettriche, pale eoliche, impianti di biogas, impianti termici alimentati a legna, ecc. Sostegno dei costi dell’impianto giusta gli art. 106 cpv. 1 lett. c, cpv. 2 lett. d e 107 cpv. 1 lett. b LAgr.</td></tr>
+<tr><td>f. Impiego di tecnologie rispettose delle risorse</td><td>Superficie interessata: 10–33 % del comprensorio</td><td>Superficie interessata: 34–66 % del comprensorio</td><td>Superficie interessata: 67–100 % del comprensorio</td><td>Tecnologie rispettose delle risorse con tecnica a basso consumo di energia o acqua, p. es. irrigazione a goccia, pompa solare, impianti regolati in funzione del fabbisogno</td></tr>
+</table>
+
+\*fisso = garantito a lungo termine, p. es. mediante menzione nel registro fondiario o delimitazione nel piano d’utilizzazione
+
+isolato: provvedimento individuale
+
+locale: provvedimenti in una parte del comprensorio
+
+esteso: provvedimenti distribuiti sull’intero comprensorio
+
+### 2. Graduazione dei contributi supplementari per i ripristini
+
+Criterio per l’aumento è l’implicazione (portata/ripartizione) in riferimento al territorio comunale.
+
+<table>
+<tr><th>Volume</th><th>Contributo supplementare</th></tr>
+<tr><td>Ripristini isolati</td><td>+ 2 %</td></tr>
+<tr><td>Ripristini locali</td><td>+ 4 %</td></tr>
+<tr><td>Ripristini estesi</td><td>+ 6 %</td></tr>
+</table>
+
+### 3. Graduazione dei contributi supplementari per condizioni particolarmente difficili
+
+<table>
+<tr><th>Numero di criteri adempiuti</th><th>Contributo supplementare</th></tr>
+<tr><td>1 criterio</td><td>+ 1 %</td></tr>
+<tr><td>2 criteri</td><td>+ 2 %</td></tr>
+<tr><td>3 criteri</td><td>+ 3 %</td></tr>
+<tr><td>Almeno 4 criteri</td><td>+ 4 %</td></tr>
+</table>
+
+Criteri:
+
+- a. costruzione di strade: mancanza di materiale da costruzione idoneo (ghiaia) in prossimità del progetto (distanza &gt; 5 km dal limite del comprensorio);
+- b. condizioni di trasporto difficili (limitazioni di peso, elitrasporti, ecc.);
+- c. portanza del sottosuolo moderata (indice «California Bearing Ratio» [CBR] medio &lt; 10 %) o sottosuolo umido (necessità di condotte di drenaggio) oppure evacuazione delle acque oltre il profilo possibile soltanto in misura limitata;
+- d. gran parte del sottosuolo soggetta a scoscendimenti o assestamenti («Flysch»);
+- e. terreno declive (pendenza media &gt; 20 %) o molto terrazzato;
+- f. costi suppletivi dovuti al considerevole scavo di roccia;
+- g. costi suppletivi dovuti a provvedimenti per la protezione del paesaggio o del patrimonio culturale;
+- h. costi suppletivi per provvedimenti per la protezione della natura (protezione di biotopi);
+- i. costi suppletivi per provvedimenti di sicurezza speciali (reti di protezione, ecc.).
+
+Allegato 5
+
+(art. 37 cpv. 1 e 2 nonché 39 cpv. 1 e 3)
+
+## Aliquote e disposizioni in relazione agli aiuti finanziari per provvedimenti edilizi
+
+### 1. Aiuti finanziari per edifici di economia rurale per animali che consumano foraggio grezzo
+
+### 1.1 Aliquote
+
+<table>
+<tr><th>Provvedimento</th><th>Indicazione in</th><th>Contributo</th><th></th><th>Credito di investimento</th></tr>
+<tr><th></th><th></th><th>Zona collinare e zona di montagna I</th><th>Zone di montagna II–IV</th><th>Tutte le zone</th></tr>
+<tr><td>Contributi massimi per azienda</td><td>fr.</td><td>155 000</td><td>215 000</td><td>–</td></tr>
+<tr><td>Stalla per UBG</td><td>fr.</td><td>1 700</td><td>2 700</td><td>6 000</td></tr>
+<tr><td>Magazzini per foraggio e paglia per m<sup>3</sup></td><td>fr.</td><td>15</td><td>20</td><td>90</td></tr>
+<tr><td>Impianto per il deposito di concimi aziendali per m<sup>3</sup></td><td>fr.</td><td>22,50</td><td>30</td><td>110</td></tr>
+<tr><td>Rimessa per m<sup>2</sup></td><td>fr.</td><td>25</td><td>35</td><td>190</td></tr>
+<tr><td>Costi suppletivi a causa di condizioni particolarmente difficili</td><td>%</td><td>40</td><td>50</td><td>–</td></tr>
+</table>
+
+### 1.2 Disposizioni specifiche
+
+- 1\.2.1 Se la superficie agricola utile computabile è situata in diverse zone, per il calco­lo degli aiuti finanziari si applica l’aliquota della zona nella quale sono situa­ti più di due terzi della superficie agricola utile oppure, se la superficie agricola utile non è situata per più di due terzi in una zona, il valore medio delle aliquote delle zone maggiormente interessate.
+- 1\.2.2 I costi suppletivi dovuti a condizioni particolarmente difficili non sono consi­de­rati per i contributi massimi per azienda.
+- 1\.2.3 Le rimesse e i magazzini per foraggio e paglia sono sostenuti anche nelle aziende senza animali che consumano foraggio grezzo.
+- 1\.2.4 Le conigliere sono sostenute con le stesse aliquote applicate agli edifici di economia rurale per animali che consumano foraggio grezzo.
+
+### 2. Aiuti finanziari per edifici alpestri
+
+### 2.1 Aliquote
+
+<table>
+<tr><th>Provvedimento</th><th>Indicazione in</th><th>Contributo</th><th>Credito di investimento</th></tr>
+<tr><td>Parte abitativa</td><td>fr.</td><td>30 360</td><td>79 000</td></tr>
+<tr><td>Parte abitativa; a partire da 50 UBG animali munti</td><td>fr.</td><td>45 600</td><td>115 000</td></tr>
+<tr><td>Locali e installazioni per la fabbricazione e lo stoccaggio di formaggio per UBG animali munti</td><td>fr.</td><td>920</td><td>2 500</td></tr>
+<tr><td>Stalla, incl. impianto per il deposito di concimi aziendali per UBG</td><td>fr.</td><td>920</td><td>2 900</td></tr>
+<tr><td>Porcile, incl. impianto per il deposito di concimi aziendali per posta di suini da ingrasso</td><td>fr.</td><td>280</td><td>650</td></tr>
+<tr><td>Stand di mungitura per UBG animali munti</td><td>fr.</td><td>240</td><td>860</td></tr>
+<tr><td>Area di mungitura per UBG animali munti</td><td>fr.</td><td>110</td><td>290</td></tr>
+<tr><td>Costi suppletivi a causa di condizioni particolarmente difficili</td><td>%</td><td>50</td><td>–</td></tr>
+</table>
+
+### 2.2 Disposizioni specifiche
+
+- 2\.2.1 Per sostenere finanziariamente locali e installazioni per la fabbricazione e lo stoccaggio di formaggio devono essere trasformati almeno 800 kg di latte per UBG animali munti.
+- 2\.2.2 Per UBG animali munti è sostenuta finanziariamente al massimo una posta di suini da ingrasso.
+
+### 3. Aliquote per crediti di investimento per edifici di economia rurale particolarmente rispettosi degli animali per suini e pollame
+
+<table>
+<tr><th>Provvedimento</th><th>Credito di investimento in fr.</th></tr>
+<tr><td>Suini riproduttori, incl. discendenti e verri per UBG</td><td>6 600</td></tr>
+<tr><td>Suini da ingrasso e suinetti svezzati per UBG</td><td>3 200</td></tr>
+<tr><td>Galline ovaiole per UBG</td><td>4 800</td></tr>
+<tr><td>Pollame da allevamento e da ingrasso, nonché tacchini per UBG</td><td>5 700</td></tr>
+</table>
+
+### 4. Crediti di investimento per edifici abitativi
+
+### 4.1 Aliquote
+
+<table>
+<tr><th>Provvedimento</th><th>Credito di investimento in fr.</th></tr>
+<tr><td>Nuova abitazione del capoazienda con alloggio per anziani</td><td>200 000</td></tr>
+<tr><td>Nuova abitazione del capoazienda</td><td>160 000</td></tr>
+<tr><td>Nuovo alloggio per anziani</td><td>120 000</td></tr>
+</table>
+
+### 4.2 Disposizioni specifiche
+
+- 4\.2.1 Il credito di investimento ammonta al massimo al 50 per cento dei costi computabili, tuttavia al massimo all’importo forfettario in caso di nuova costruzione.
+- 4\.2.2 Il sostegno finanziario è limitato al massimo a due abitazioni per azienda (abitazione del capoazienda e alloggio per anziani).
+
+### 5. Aliquote per aiuti finanziari per la trasformazione, lo stoccaggio o la commercializzazione
+
+<table>
+<tr><th>Provvedimento</th><th>Indicazione in</th><th>Contributo</th><th></th><th>Credito di investimento</th></tr>
+<tr><th></th><th></th><th>Zona di montagna I</th><th>Zone di montagna II–IV e regione d’estivazione</th><th>Tutte le zone</th></tr>
+<tr><td>Trasformazione, stoccaggio o com­mercializzazione di prodotti agricoli di produzione propria e regionali (provvedimento individuale)</td><td>%</td><td>28</td><td>31</td><td>50</td></tr>
+<tr><td>Trasformazione, stoccaggio o com­mercializzazione di prodotti agricoli regionali (provvedimento collettivo)</td><td>%</td><td>30</td><td>33</td><td>50</td></tr>
+</table>
+
+### 6. Aliquote per crediti di investimento per altri provvedimenti edilizi
+
+Il credito di investimento per i seguenti provvedimenti ammonta al massimo al 50 per cento dei costi computabili per investimenti:
+
+- a. nella produzione di colture speciali, nonché in aziende produttrici di funghi, germogli e prodotti simili;
+- b. in aziende dedite alla pesca e alla piscicoltura;
+- c. nell’attività in settori affini all’agricoltura;
+- d. nella produzione collettiva di energie rinnovabili a partire dalla biomassa.
+
+### 7. Aliquote per aiuti finanziari per studi di base
+
+<table>
+<tr><th>Provvedimento</th><th>Indicazione in</th><th>Contributo</th><th></th><th></th><th>Credito di investimento</th></tr>
+<tr><th></th><th></th><th>Zona di pianura</th><th>Zona collinare e zona di montagna I</th><th>Zone di montagna II–IV e regione d’estivazione</th><th>Tutte le zone</th></tr>
+<tr><td>Studio di base per provvedimenti collettivi</td><td>%</td><td>27</td><td>30</td><td>33</td><td>50</td></tr>
+</table>
+
+Allegato 6
+
+(art. 45 cpv. 1–3 e 46 cpv. 1 e 3)
+
+## Aiuti finanziari per provvedimenti supplementari nell’ambito dei miglioramenti strutturali
+
+### 1. Credito di investimento per l’aiuto iniziale per promuovere l’acquisto di aziende agricole e fondi agricoli (art. 40 cpv. 2 lett. a)
+
+- 1\.1 L’importo del credito di investimento per l’aiuto iniziale è graduato in base alle dimensioni dell’azienda. Per le aziende con 1 USM, l’importo forfettario ammonta a 125 000 franchi e aumenta di 25 000 franchi per ogni 0,5 USM supplementare.
+- 1\.2 Nelle aree di cui all’articolo 6 capoverso 2 lettere b e c, anche le aziende con meno di 1 USM ricevono un credito di investimento per l’aiuto iniziale di 100 000 franchi.
+- 1\.3 I gestori a titolo principale di un’azienda dedita alla pesca o alla piscicoltura ricevono un credito di investimento per l’aiuto iniziale di 110 000 franchi.
+
+### 2. Aliquote per crediti di investimento per provvedimenti per promuovere l’acquisto di aziende agricole e fondi agricoli (art. 40 cpv. 2 lett. b)
+
+<table>
+<tr><th>Provvedimento</th><th colspan="2">Credito di investimento in %</th></tr>
+<tr><td>Acquisto di aziende agricole sul libero mercato da parte degli affittuari</td><td colspan="2">50</td></tr>
+</table>
+
+### 3. Aiuti finanziari per provvedimenti tesi a promuovere la salute degli animali e una produzione particolarmente rispettosa dell’ambiente e degli animali (art. 40 cpv. 2 lett. c)
+
+### 3.1 Riduzione delle emissioni di ammoniaca
+
+### 3.1.1 Aliquote
+
+<table>
+<tr><th>Provvedimento</th><th>Contributo in fr.</th><th>Credito di investimento in fr.</th><th colspan="2">Supplemento a tempo determinato</th></tr>
+<tr><th></th><th></th><th></th><th>Contributo in fr.</th><th>Scadenza a fine</th></tr>
+<tr><td>Superfici di camminamento con pendenza trasversale e canaletta di raccolta dell’urina per UBG</td><td>120</td><td>120</td><td>120</td><td>2024</td></tr>
+<tr><td>Mangiatoie rialzate per UBG</td><td>70</td><td>70</td><td>70</td><td>2024</td></tr>
+<tr><td>Impianti di depurazione dell’aria di scarico per UBG</td><td>500</td><td>500</td><td>500</td><td>2024</td></tr>
+<tr><td>Impianti di acidificazione del liquame per UBG</td><td>500</td><td>500</td><td>500</td><td>2028</td></tr>
+<tr><td>Copertura di depositi per liquame esistenti per m<sup>2</sup></td><td>30</td><td>–</td><td>–</td><td>–</td></tr>
+</table>
+
+### 3.1.2 Disposizioni specifiche
+
+Gli impianti di depurazione dell’aria di scarico e per l’acidificazione del liquame sono sostenuti soltanto se è adempiuta una delle condizioni seguenti:
+
+- a. la stalla in questione è stata realizzata prima del 31 dicembre 2020;
+- b. anche dopo la costruzione della stalla, le quantità di fosforo e azoto prodotte nell’azienda non superano il comprovato fabbisogno delle piante;
+- c. dopo la realizzazione della stalla le emissioni di ammoniaca per ettaro di superficie agricola utile possono essere ridotte almeno del 10 per cento rispetto a prima della realizzazione secondo il modello di calcolo Agrammon.
+
+### 3.2 Riduzione del carico di sostanze nocive
+
+### 3.2.1 Aliquote
+
+<table>
+<tr><th>Provvedimento</th><th>Indica­zione in</th><th>Contributo</th><th>Credito di investimento</th><th colspan="2">Supplemento a tempo determinato</th></tr>
+<tr><th></th><th></th><th></th><th></th><th>Contributo</th><th>Scadenza a fine</th></tr>
+<tr><td>Area di riempimento e piazzale di lavaggio di irroratrici e nebulizzatori per m<sup>2</sup></td><td>fr.</td><td>75</td><td>75</td><td>–</td><td>–</td></tr>
+<tr><td>Copertura dell’area di riempimento e del piazzale di lavaggio per m<sup>2</sup></td><td>fr.</td><td>25</td><td>25</td><td>–</td><td>–</td></tr>
+<tr><td>Impianto per lo stoccaggio dell’acqua di lavaggio in aree di riempimento e piazzali di lavaggio per m<sup>3</sup> di volume di stoccaggio</td><td>fr.</td><td>250</td><td>250</td><td>–</td><td>–</td></tr>
+<tr><td>Impianto per l’evaporazione dell’acqua di lavaggio in aree di riempimento e piazzali di lavaggio per m<sup>2</sup> di superficie di evaporazione</td><td>fr.</td><td>250</td><td>250</td><td>–</td><td>–</td></tr>
+<tr><td>Impianto di varietà robuste di frutta a nocciolo e a granelli per ha</td><td>fr.</td><td>7 000</td><td>7 000</td><td>7 000</td><td>2030</td></tr>
+<tr><td>Impianto di varietà robuste di vite per ha</td><td>fr.</td><td>10 000</td><td>10 000</td><td>10 000</td><td>2030</td></tr>
+<tr><td>Bonifica di edifici di economia rurale contaminati da policlorobifenili (PCB)</td><td>%</td><td>25</td><td>50</td><td>25</td><td>2026</td></tr>
+</table>
+
+### 3.2.2 Disposizioni specifiche
+
+- a. La superficie computabile per un’area di riempimento e un piazzale di lavaggio ammonta al massimo a 80 m<sup>2</sup>.
+- b. La superficie computabile per la copertura corrisponde al massimo alla superficie coperta dell’area di riempimento e del piazzale di lavaggio.
+- c. Il contributo federale per lo stoccaggio e l’evaporazione dell’acqua di lavaggio ammonta al massimo a 5 000 franchi.
+- d. Se, anziché essere fatta evaporare, l’acqua di lavaggio viene filtrata, il contributo forfettario per l’impianto di filtraggio ammonta al massimo a 5 000 franchi.
+- e. Le esigenze per la realizzazione tecnico-edilizia e per la gestione dell’area di riempimento e del piazzale di lavaggio vanno applicate secondo le indicazioni del servizio fitosanitario cantonale o del servizio cantonale della protezione delle acque.
+- f. L’UFAG determina le varietà che danno diritto agli aiuti finanziari, le pubblica e ne tiene costantemente aggiornata la lista secondo le nuove conoscenze nel campo della ricerca.
+- g. L’impianto di varietà di frutta a nocciolo e a granelli è sostenuto soltanto se si tratta di frutteti ai sensi dell’articolo 22 capoverso 2 dell’ordinanza del 7 dicembre 1998[^annex6-lvlu1-lvl3-lvlu2-lvlu2-1] sulla terminologia agricola.
+- h. La superficie minima per l’impianto è di 25 are.
+- i. Per la bonifica di edifici di economia rurale contaminati da PCB sono computabili i costi del campionamento delle sostanze nocive, dei lavori per gli interventi edilizi di bonifica e dello smaltimento.
+
+[^annex6-lvlu1-lvl3-lvlu2-lvlu2-1]: [RS 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
+
+### 3.3 Provvedimenti per la protezione del patrimonio culturale e del paesaggio
+
+### 3.3.1 Aliquote
+
+<table>
+<tr><th>Provvedimento</th><th>Indicazione in</th><th>Contributo</th><th>Credito di investimento</th></tr>
+<tr><td>Costi suppletivi sul piano edilizio per l’integrazione ideale degli edifici agricoli nel paesaggio e per esigenze nel campo della conservazione dei monumenti</td><td>%</td><td>25</td><td>50</td></tr>
+<tr><td>Demolizione di edifici di economia rurale giuridicamente conformi al di fuori della zona edificabile per m<sup>3</sup> di spazio trasformato</td><td>fr.</td><td>5</td><td>5</td></tr>
+</table>
+
+### 3.3.2 Disposizioni specifiche
+
+I costi suppletivi per l’integrazione ideale degli edifici nel paesaggio devono essere comprovati in base a un confronto dei costi. Gli interessi della protezione del paesaggio al di fuori di un inventario federale sono presi in considerazione a condizione che esista una strategia cantonale corrispondente.
+
+### 3.4 Provvedimenti per la protezione del clima
+
+### 3.4.1 Aliquote
+
+<table>
+<tr><th>Provvedimento</th><th>Contributo in %</th><th>Credito di investimento in %</th></tr>
+<tr><td>Edifici, impianti e installazioni per la produzione o lo stoccaggio di energia sostenibile prevalentemente per l’autoapprovvigionamento</td><td>25</td><td>50</td></tr>
+</table>
+
+### 3.4.2 Disposizioni specifiche
+
+I contributi sono versati solo per edifici, impianti e installazioni che non sono sostenuti mediante altri programmi di promozione della Confederazione, come la rimunerazione per l’immissione di elettricità orientata ai costi.
+
+### 4. Aliquote per aiuti finanziari per provvedimenti di promozione della collaborazione interaziendale (art. 41 cpv. 2)
+
+<table>
+<tr><th>Provvedimento</th><th>Indicazione in</th><th>Contributo</th><th></th><th></th><th>Credito di investimento</th></tr>
+<tr><th></th><th></th><th>Zona di pianura</th><th>Zona collinare e zona di montagna I</th><th>Zone di montagna II–IV e regione d’estivazione</th><th>Tutte le zone</th></tr>
+<tr><td>Iniziative collettive tese a ridurre i costi di produzione</td><td>%</td><td>27</td><td>30</td><td>33</td><td>–</td></tr>
+<tr><td>Costituzione di organizzazioni di solidarietà attive nell’agricoltura e nell’ortoflorovivaismo nell’ambito della produzione e della gestione aziendale agricola o ortoflorovivaistica conforme al mercato o l’estensione della loro attività</td><td>%</td><td>–</td><td>–</td><td>–</td><td>50</td></tr>
+<tr><td>Acquisto congiunto di macchine e veicoli</td><td>%</td><td>–</td><td>–</td><td>–</td><td>50</td></tr>
+</table>
+
+Allegato 7
+
+(art. 50 cpv. 4)
+
+## Costi computabili determinanti per progetti di sviluppo regionale
+
+Riduzione in termini percentuali dei costi computabili per provvedimento
+
+<table>
+<tr><th>Provvedimento</th><th>Riduzione dei costi computabili in per cento</th></tr>
+<tr><td>Creazione e sviluppo di un’attività affine all’agricoltura</td><td>20</td></tr>
+<tr><td>Trasformazione, stoccaggio e commercializzazione di prodotti agricoli regionali</td><td>33</td></tr>
+<tr><td>Altri provvedimenti nell’interesse del progetto globale</td><td>min. 50</td></tr>
+<tr><td>Provvedimenti integrati durante la fase di attuazione</td><td>min. 5</td></tr>
+</table>
+
+Allegato 8
+
+(art. 70 cpv. 3)
+
+## Richiesta di restituzione in caso di alienazione con utile
+
+Calcolo del valore d’imputazione determinante
+
+<table>
+<tr><th>Oggetto</th><th></th><th>Calcolo</th></tr>
+<tr><td>Superficie agricola utile, bosco e diritti d’alpeggio</td><td></td><td>Valore di reddito moltiplicato per 8</td></tr>
+<tr><td>Edifici agricoli, edifici e impianti non sostenuti mediante aiuti finanziari</td><td></td><td>Costi di realizzazione, più gli investimenti che ne aumentano il valore</td></tr>
+<tr><td>Edifici agricoli, edifici e impianti sostenuti mediante contributi in caso di nuova costruzione</td><td></td><td>Costi di realizzazione, più gli investimenti che ne aumentano il valore, meno i contributi della Confederazione e del Cantone</td></tr>
+<tr><td>Edifici agricoli, edifici e impianti sostenuti mediante contributi in caso di trasformazione</td><td></td><td>Valore contabile prima dell’investimento, più i costi di realizzazione e gli investimenti che ne aumentano il valore, meno i contributi della Confede­razione e del Cantone</td></tr>
+<tr><td>Edifici agricoli, edifici e impianti sostenuti mediante crediti di investimento</td><td></td><td>Costi di realizzazione, più gli investimenti che ne aumentano il valore</td></tr>
+</table>
+
+I valori d’imputazione si applicano per l’alienazione di un’azienda o di una parte di essa. In caso di alienazione di un’azienda si sommano i valori d’imputazione.
+
+Allegato 9
+
+(art. 76)
+
+## Modifica di altri atti normativi
+
+Gli atti normativi qui appresso sono modificati come segue:
+
+### 1. Ordinanza del 21 maggio 2008 sulla geoinformazione
+
+[^annex9-lvlu1-lvl1-1]
+
+[^annex9-lvlu1-lvl1-1]: [RS 510.620](https://fedlex.data.admin.ch/eli/cc/2008/389)
+
+Allegato 1
+
+Inserire alla fine del catalogo
+
+<table>
+<tr><th>Denominazione</th><th>Base giuridica</th><th>Servizio competente (RS *510.62* art. 8 cpv. 1) [servizio specializzato della Confederazione]</th><th>Geodati di riferimento</th><th>Catasto RDPP</th><th>Livello di autorizzazione all’accesso</th><th>Servizio di telecaricamento</th><th>Identificatore</th></tr>
+<tr><td>Infrastrutture agricole</td><td>RS *913.1* art. 59</td><td>Cantoni [UFAG]</td><td></td><td></td><td>A</td><td>X</td><td>227</td></tr>
+</table>
+
+### 2. Ordinanza del 7 novembre 2007 sulle strade nazionali
+
+[^annex9-lvlu1-lvl2-1]
+
+[^annex9-lvlu1-lvl2-1]: [RS 725.111](https://fedlex.data.admin.ch/eli/cc/2007/796)
+
+#### Art. 24
+
+**Eccezioni al divieto di cambiare destinazione e di frazionamento nonché all’obbligo di restituzione**
+
+<sup>RS 913.1</sup> Per le eccezioni al divieto di cambiare la destinazione dei fondi e di frazionamento nonché all’obbligo di restituire i contributi si applicano gli articoli 66 lettera e, 67 capoverso 4, 68 lettera k e 69 capoverso 5 dell’ordinanza del 2 novembre 2022 sui miglioramenti strutturali.
+
+### 3. Ordinanza dell’11 settembre 1996 sul servizio civile
+
+[^annex9-lvlu1-lvl3-1]
+
+[^annex9-lvlu1-lvl3-1]: [RS 824.01](https://fedlex.data.admin.ch/eli/cc/1996/2685_2685_2685)
+
+Art. 5 cpv. 1
+
+<sup>1</sup> Le aziende agricole possono essere riconosciute quali istituti d’impiego se i gestori ricevono pagamenti diretti secondo gli articoli 43, 44, 47 o 55 dell’ordinanza del 23 ottobre 2013[^annex9-lvlu1-lvl3-2] sui pagamenti diretti (OPD), aiuti finanziari secondo l’ordinanza del 2 novembre 2022[^annex9-lvlu1-lvl3-3] sui miglioramenti strutturali (OMSt) o contributi del Cantone secondo gli articoli 63 e 64 OPD.
+
+Art. 6 cpv. 1 lett. c
+
+<sup>1</sup> Il CIVI impiega le persone soggette al servizio civile:
+
+- c. in aziende agricole che ricevono aiuti finanziari per miglioramenti strutturali nel quadro di progetti di cui all’articolo 1 capoverso 1 lettere a e b OMSt[^annex9-lvlu1-lvl3-4].
+
+[^annex9-lvlu1-lvl3-2]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^annex9-lvlu1-lvl3-3]: [RS 913.1](https://fedlex.data.admin.ch/eli/cc/1998/3092_3092_3092)
+[^annex9-lvlu1-lvl3-4]: [RS 913.1](https://fedlex.data.admin.ch/eli/cc/1998/3092_3092_3092)
