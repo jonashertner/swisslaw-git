@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Ordinanza del 4 marzo 2022 che istituisce provvedimenti in relazione alla situazione in Ucraina
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: it
-version: 2022-11-23
+version: 2022-12-08
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20221123/it/xml/fedlex-data-admin-ch-eli-cc-2022-151-20221123-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20221123/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20221208/it/xml/fedlex-data-admin-ch-eli-cc-2022-151-20221208-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20221208/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti in relazione alla situazione in Ucraina
 
-del 4 marzo 2022 (Stato 23 novembre 2022)
+del 4 marzo 2022 (Stato 8 dicembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -1531,11 +1531,13 @@ Zone nella regione ucraina di Kherson non controllate dal governo ucraino
 
 Zone nella regione ucraina di Zaporizhzhia non controllate dal governo ucraino
 
-Allegato 7
+Allegato 7[^t-7]
 
 (art. 14 cpv. 1 e 2)
 
 ## Beni vietati
+
+[^t-7]: Nuovo testo giusta il n. I cpv. 2 dell’O del DEFR del 7 dic. 2022, in vigore dall’8 dic. 2022 alle ore 18.00 ([RU 2022 780](https://fedlex.data.admin.ch/eli/oc/2022/780)).
 
 <table>
 <tr><th>**Capitoli/Codice NC**</th><th>**Designazione delle merci**</th></tr>
@@ -1619,7 +1621,7 @@ Allegato 7
 <tr><td>8466</td><td>Parti e accessori riconoscibili come destinati esclusivamente o principalmente alle macchine delle voci da 8456 a 8465, compresi i portapezzi e i portautensili, le filiere a scatto automatico, i dispositivi divisori e altri dispositivi speciali da applicare su macchine utensili; portautensili per utensileria a mano di qualsiasi specie</td></tr>
 <tr><td>8467</td><td>Utensili pneumatici, idraulici o a motore (elettrico o non elettrico) incorporato, per l’impiego a mano</td></tr>
 <tr><td>8468</td><td>Macchine e apparecchi per la brasatura o la saldatura, anche in grado di tagliare, diversi da quelli della voce 8515; macchine e apparecchi a gas per la tempera superficiale</td></tr>
-<tr><td>8467 9030</td><td>Macchine da scrivere diverse dalle stampanti della voce 8443; macchine per l’elaborazione di testi</td></tr>
+<tr><td>8472 9030</td><td>Macchine da scrivere diverse dalle stampanti della voce 8443; macchine per l’elaborazione di testi</td></tr>
 <tr><td>8470</td><td>Macchine calcolatrici e macchine tascabili che permettono la registrazione, la riproduzione e la visualizzazione delle informazioni, con funzione di calcoli; macchine contabili, macchine affrancatrici, macchine per la compilazione dei biglietti e simili macchine, con dispositivo di calcoli; registratori di cassa</td></tr>
 <tr><td>8471</td><td>Macchine automatiche per l’elaborazione dell’informazione e loro unità; lettori magnetici e ottici, macchine per l’inserimento di informazioni su supporto in forma codificata e macchine per l’elaborazione di queste informazioni, non nominate né comprese altrove</td></tr>
 <tr><td>8472</td><td>Altre macchine e apparecchi per ufficio (per esempio, duplicatori ettografici o a matrice (stencil), macchine per stampare gli indirizzi, distributori automatici di biglietti di banca, macchine per selezionare, contare o incartocciare i pezzi di moneta, apparecchi per temperare le matite, apparecchi per forare o per aggraffare)</td></tr>
@@ -1704,7 +1706,7 @@ Allegato 7
 <tr><td>9033</td><td>Parti e accessori, non nominati né compresi altrove in questo capitolo, di macchine, apparecchi, strumenti o oggetti del capitolo 90</td></tr>
 </table>
 
-Allegato 8[^t-7]
+Allegato 8[^t-8]
 
 (art. 15 cpv. 1 e 4, 29 cpv. 1)
 
@@ -1712,8 +1714,8 @@ Allegato 8[^t-7]
 
 [^annex8-lvlu1-1]
 
-[^t-7]: Aggiornato dai n. I delle O del DEFR del 16 mar. ([RU 2022 173](https://fedlex.data.admin.ch/eli/oc/2022/173)), del 13 apr. 2022 ([RU 2022 237](https://fedlex.data.admin.ch/eli/oc/2022/237)), del 3 mag. 2022 ([RU 2022 270](https://fedlex.data.admin.ch/eli/oc/2022/270)), dal n. I cpv. 1 delle O del DEFR del 10 giu. 2022 ([RU 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)), del 28 lug. 2022 ([RU 2022 432](https://fedlex.data.admin.ch/eli/oc/2022/432)), dal n. II cpv. 1 dell’O del 3 ago. 2022 ([RU 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)), dal n. I delle O del DEFR del 16 ago. 2022 ([RU 2022 451](https://fedlex.data.admin.ch/eli/oc/2022/451)), dell’8 set. 2022 ([RU 2022 500](https://fedlex.data.admin.ch/eli/oc/2022/500)), del 26 set. 2022 ([RU 2022 533](https://fedlex.data.admin.ch/eli/oc/2022/533)), dal n. I cpv. 1 dell’O del DEFR dell’11 ott. 2022 ([RU 2022 578](https://fedlex.data.admin.ch/eli/oc/2022/578)) e dal n. I dell’O del DEFR del 31 ott. 2022, in vigore dal 1° nov. 2022 alle ore 18.00 ([RU 2022 631](https://fedlex.data.admin.ch/eli/oc/2022/631)).
-[^annex8-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2022/631](https://fedlex.data.admin.ch/eli/oc/2022/631) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando
+[^t-8]: Aggiornato dai n. I delle O del DEFR del 16 mar. ([RU 2022 173](https://fedlex.data.admin.ch/eli/oc/2022/173)), del 13 apr. 2022 ([RU 2022 237](https://fedlex.data.admin.ch/eli/oc/2022/237)), del 3 mag. 2022 ([RU 2022 270](https://fedlex.data.admin.ch/eli/oc/2022/270)), dal n. I cpv. 1 delle O del DEFR del 10 giu. 2022 ([RU 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)), del 28 lug. 2022 ([RU 2022 432](https://fedlex.data.admin.ch/eli/oc/2022/432)), dal n. II cpv. 1 dell’O del 3 ago. 2022 ([RU 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)), dal n. I delle O del DEFR del 16 ago. 2022 ([RU 2022 451](https://fedlex.data.admin.ch/eli/oc/2022/451)), dell’8 set. 2022 ([RU 2022 500](https://fedlex.data.admin.ch/eli/oc/2022/500)), del 26 set. 2022 ([RU 2022 533](https://fedlex.data.admin.ch/eli/oc/2022/533)), dal n. I cpv. 1 dell’O del DEFR dell’11 ott. 2022 ([RU 2022 578](https://fedlex.data.admin.ch/eli/oc/2022/578)), dal n. I dell’O del DEFR del 31 ott. 2022 ([RU 2022 631](https://fedlex.data.admin.ch/eli/oc/2022/631)) e dal n. I cpv. 1 dell’O del DEFR del 7 dic. 2022, in vigore dall’8 dic. 2022 alle ore 18.00 ([RU 2022 780](https://fedlex.data.admin.ch/eli/oc/2022/780)).
+[^annex8-lvlu1-1]: Il contenuto del presente allegato è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2022/780](https://fedlex.data.admin.ch/eli/oc/2022/780) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 9
 
@@ -1735,7 +1737,7 @@ Allegato 10
 
 [^annex10-lvlu1-1]: Questo allegato non è pubblicato né nella RU né nella RS. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2022/432](https://fedlex.data.admin.ch/eli/oc/2022/432) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
-Allegato 11[^t-8]
+Allegato 11[^t-9]
 
 (art. 18 cpv. 2 lett. a e b)
 
@@ -1743,7 +1745,7 @@ Allegato 11[^t-8]
 
 [^annex11-lvlu1-1]
 
-[^t-8]: Aggiornato dal n. II cpv. 1 dell’O del 25 mar. 2022, in vigore dal 25 mar. 2022 alle ore 23.00 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
+[^t-9]: Aggiornato dal n. II cpv. 1 dell’O del 25 mar. 2022, in vigore dal 25 mar. 2022 alle ore 23.00 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
 [^annex11-lvlu1-1]: Questo allegato non è pubblicato né nella RU né nella RS. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2022/432](https://fedlex.data.admin.ch/eli/oc/2022/432) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 12
@@ -1766,7 +1768,7 @@ Allegato 13
 
 [^annex13-lvlu1-1]: Questo allegato non è pubblicato né nella RU né nella RS. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2022/432](https://fedlex.data.admin.ch/eli/oc/2022/432) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
-Allegato 14[^t-9]
+Allegato 14[^t-10]
 
 (art. 27)
 
@@ -1774,10 +1776,10 @@ Allegato 14[^t-9]
 
 [^annex14-lvlu1-1]
 
-[^t-9]: Aggiornato dal n. I cpv. 1 dell’O del DEFR del 10 giu. 2022, in vigore dal 10 giu. 2022 alle 18.00 ([RU 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)).
+[^t-10]: Aggiornato dal n. I cpv. 1 dell’O del DEFR del 10 giu. 2022, in vigore dal 10 giu. 2022 alle 18.00 ([RU 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)).
 [^annex14-lvlu1-1]: Questo allegato non è pubblicato né nella RU né nella RS. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2022/432](https://fedlex.data.admin.ch/eli/oc/2022/432) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
-Allegato 15[^t-10]
+Allegato 15[^t-11]
 
 (art. 24*a* cpv. 1 lett. a)
 
@@ -1785,16 +1787,16 @@ Allegato 15[^t-10]
 
 [^annex15-lvlu1-1]
 
-[^t-10]: Introdotto dal n. II cpv. 2 dell’O del 25 mar. 2022 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)) e dal n. II cpv. 1 dell’O del 23 nov. 2022, in vigore dal 23 nov. 2022 alle ore 18.00 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
+[^t-11]: Introdotto dal n. II cpv. 2 dell’O del 25 mar. 2022 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)) e dal n. II cpv. 1 dell’O del 23 nov. 2022, in vigore dal 23 nov. 2022 alle ore 18.00 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
 [^annex15-lvlu1-1]: Questo allegato non è pubblicato né nella RU né nella RS. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2022/708](https://fedlex.data.admin.ch/eli/oc/2022/708) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
-Allegato 16[^t-11]
+Allegato 16[^t-12]
 
 (art. 9*a* cpv. 1)
 
 ## Beni e tecnologie per la navigazione marittima
 
-[^t-11]: Introdotto dal n. II cpv. 2 dell’O del 25 mar. 2022, in vigore dal 25 mar. 2022 alle ore 23.00 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
+[^t-12]: Introdotto dal n. II cpv. 2 dell’O del 25 mar. 2022, in vigore dal 25 mar. 2022 alle ore 23.00 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
 
 Categoria VI –Materiale navale
 
@@ -1815,13 +1817,13 @@ Categoria VI –Materiale navale
 <tr><td>ex 8517</td><td>Apparecchi telefonici, compresi i telefoni intelligenti (smartphones) e gli altri telefoni per reti cellulari e per altre reti senza filo; altri apparecchi per l’emissione, per la trasmissione o la ricezione della voce, di immagini o di altri dati, compresi gli apparecchi per la comunicazione in una rete su filo o senza filo (come una rete locale o estesa), diversi da quelli delle voci 8443, 8525, 8527 o 8528 (parti comprese)</td></tr>
 </table>
 
-Allegato 17[^t-12]
+Allegato 17[^t-13]
 
 (art. 14*a* cpv. 1 e 2)
 
 ## Prodotti siderurgici
 
-[^t-12]: Introdotto dal n. II cpv. 2 dell’O del 25 mar. 2022 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)). Nuovo testo giusta il n. II cpv. 3 dell’O del 23 nov. 2022, in vigore dal 23 nov. 2022 alle ore 18.00 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
+[^t-13]: Introdotto dal n. II cpv. 2 dell’O del 25 mar. 2022 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)). Nuovo testo giusta il n. II cpv. 3 dell’O del 23 nov. 2022, in vigore dal 23 nov. 2022 alle ore 18.00 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
 
 ### 1. Beni che sono stati inseriti nell’allegato prima del 23 novembre 2022
 
@@ -1912,13 +1914,13 @@ Allegato 17[^t-12]
 <tr><td>7326</td><td>Lavori di ferro o di acciaio, non nominati né compresi altrove (escl. gettati in forma)</td></tr>
 </table>
 
-Allegato 18[^t-13]
+Allegato 18[^t-14]
 
-(art. 14b cpv. 1 e 2 lett. c)
+(art. 14*b* cpv. 1 e 2 lett. c)
 
 ## Beni di lusso
 
-[^t-13]: Introdotto dal n. II cpv. 2 dell’O del 25 mar. 2022 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)). Nuovo testo giusta il n. II dell’O del 31 ago. 2022, in vigore dal 31 ago. 2022 alle ore 18.00 ([RU 2022 477](https://fedlex.data.admin.ch/eli/oc/2022/477)).
+[^t-14]: Introdotto dal n. II cpv. 2 dell’O del 25 mar. 2022 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)). Nuovo testo giusta il n. I cpv. 2 dell’O del DEFR del 7 dic. 2022, in vigore dall’8 dic. 2022 alle ore 18.00 ([RU 2022 780](https://fedlex.data.admin.ch/eli/oc/2022/780)).
 
 Il divieto di cui all’articolo 14*b* si applica ai beni di lusso di valore superiore a 300 franchi per articolo, salvo diversamente specificato in questo allegato.
 
@@ -1948,7 +1950,7 @@ Il divieto di cui all’articolo 14*b* si applica ai beni di lusso di valore sup
 <tr><td>ex</td><td>0712 39 00</td><td>Altri</td></tr>
 <tr><td>ex</td><td>2001 90 98</td><td>Altri</td></tr>
 <tr><td></td><td>2003 90 10</td><td>Tartufi</td></tr>
-<tr><td>ex</td><td>2103 90 90</td><td>Altri</td></tr>
+<tr><td>ex</td><td>2103 90 00</td><td>Altri</td></tr>
 <tr><td>ex</td><td>2104 10 00</td><td>Preparazioni per zuppe, minestre o brodi; zuppe, minestre o brodi, preparati</td></tr>
 <tr><td>ex</td><td>2106 90</td><td>Preparazioni alimentari non nominate né comprese altrove</td></tr>
 </table>
@@ -2360,13 +2362,13 @@ Il divieto di cui all’articolo 14*b* si applica ai beni di lusso di valore sup
 <tr><th></th><th>9015 10 00</th><th>Telemetri</th></tr>
 </table>
 
-Allegato 19[^t-14]
+Allegato 19[^t-15]
 
 (art. 9*b* cpv. 1)
 
 ## Carboturbi e additivi per carburanti
 
-[^t-14]: Introdotto dal n. II cpv. 3 dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^t-15]: Introdotto dal n. II cpv. 3 dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
 
 <table>
 <tr><th></th><th>Voce di tariffa doganale</th><th>Denominazione</th></tr>
@@ -2398,13 +2400,13 @@ Allegato 19[^t-14]
 <tr><td>ex</td><td>3811 90</td><td>Miglioratori della stabilità termica per altri liquidi adoperati per gli stessi scopi degli oli minerali</td></tr>
 </table>
 
-Allegato 20[^t-15]
+Allegato 20[^t-16]
 
 (art. 14*c* cpv. 1)
 
 ## Beni economicamente importanti
 
-[^t-15]: Introdotto dal n. II cpv. 3 dell’O del 27 apr. 2022 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). ). Nuovo testo giusta il n. II cpv. 3 dell’O del 23 nov. 2022, in vigore dal 23 nov. 2022 alle ore 18.00 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
+[^t-16]: Introdotto dal n. II cpv. 3 dell’O del 27 apr. 2022 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). ). Nuovo testo giusta il n. II cpv. 3 dell’O del 23 nov. 2022, in vigore dal 23 nov. 2022 alle ore 18.00 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
 
 ### 1. Beni che sono stati inseriti nell’allegato prima del 23 novembre 2022
 
@@ -2596,13 +2598,13 @@ Allegato 20[^t-15]
 <tr><td></td><td>9406</td><td>Costruzioni prefabbricate, anche incomplete o non ancora montate</td></tr>
 </table>
 
-Allegato 21[^t-16]
+Allegato 21[^t-17]
 
 (art. 14*c* cpv. 3 e 4)
 
 ## Contingenti di importazione di determinati beni
 
-[^t-16]: Introdotto dal n. II cpv. 3 dell’O del 27 apr. 2022 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). Nuovo testo giusta il n. II cpv. 3 dell’O del 23 nov. 2022, in vigore dal 23 nov. 2022 alle ore 18.00 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
+[^t-17]: Introdotto dal n. II cpv. 3 dell’O del 27 apr. 2022 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). Nuovo testo giusta il n. II cpv. 3 dell’O del 23 nov. 2022, in vigore dal 23 nov. 2022 alle ore 18.00 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
 
 <table>
 <tr><th>Voce di tariffa doganale</th><th>Designazione</th><th>Quantità</th><th>Periodo</th></tr>
@@ -2610,13 +2612,13 @@ Allegato 21[^t-16]
 <tr><td>3105 20, 3105 60, 3105 90</td><td>Concimi minerali o chimici contenenti i tre elementi fertilizzanti: azoto, fosforo e potassio; Concimi minerali o chimici contenenti i due elementi fertilizzanti fosforo e potassio; altri concimi contenenti cloruro di potassio</td><td>1636 tonnellate</td><td>dal 29 luglio al 28 luglio dell’anno successivo</td></tr>
 </table>
 
-Allegato 22[^t-17]
+Allegato 22[^t-18]
 
 (art. 12 cpv. 1)
 
 ## Carbone e prodotti del carbone
 
-[^t-17]: Introdotto dal n. II cpv. 3 dell’O del 27 apr. 2022 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). Aggiornato dal n. II cpv. 2 dell’O del 23 nov. 2022, in vigore dal 23 nov. 2022 alle ore 18.00 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
+[^t-18]: Introdotto dal n. II cpv. 3 dell’O del 27 apr. 2022 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). Aggiornato dal n. II cpv. 2 dell’O del 23 nov. 2022, in vigore dal 23 nov. 2022 alle ore 18.00 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
 
 <table>
 <tr><td>Voce di tariffa doganale</td><td>Denominazione</td></tr>
@@ -2630,7 +2632,7 @@ Allegato 22[^t-17]
 <tr><td>2708</td><td>Pece e coke di pece di catrame di carbon fossile o di altri catrami minerali</td></tr>
 </table>
 
-Allegato 23[^t-18]
+Allegato 23[^t-19]
 
 (art. 11*a* cpv. 1)
 
@@ -2638,16 +2640,16 @@ Allegato 23[^t-18]
 
 [^annex23-lvlu1-1]
 
-[^t-18]: Introdotto dal n. II cpv. 3 dell’O del 27 apr. 2022 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). Aggiornato dal n. I cpv. 1 dell’O del DEFR del 28 lug. 2022 ([RU 2022 432](https://fedlex.data.admin.ch/eli/oc/2022/432)) e dell’8 set. 2022 ([RU 2022 500](https://fedlex.data.admin.ch/eli/oc/2022/500)) e dal n. II cpv. 1 dell’O del 23 nov. 2022, in vigore dal 23 nov. 2022 alle ore 18.00 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
+[^t-19]: Introdotto dal n. II cpv. 3 dell’O del 27 apr. 2022 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). Aggiornato dal n. I cpv. 1 dell’O del DEFR del 28 lug. 2022 ([RU 2022 432](https://fedlex.data.admin.ch/eli/oc/2022/432)) e dell’8 set. 2022 ([RU 2022 500](https://fedlex.data.admin.ch/eli/oc/2022/500)) e dal n. II cpv. 1 dell’O del 23 nov. 2022, in vigore dal 23 nov. 2022 alle ore 18.00 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
 [^annex23-lvlu1-1]: Il contenuto del presente allegato è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2022/708](https://fedlex.data.admin.ch/eli/oc/2022/708) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
-Allegato 24[^t-19]
+Allegato 24[^t-20]
 
 (art. 12*a* e 12*b*)
 
 ## Petrolio greggio e prodotti petroliferi
 
-[^t-19]: Introdotto dal n. II dell’O del 29 giu. 2022, in vigore dal 29 giu. 2022 alle ore 18.00 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
+[^t-20]: Introdotto dal n. II dell’O del 29 giu. 2022, in vigore dal 29 giu. 2022 alle ore 18.00 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
 
 <table>
 <tr><td>Voce di tariffa doganale</td><td>Designazione</td></tr>
@@ -2655,7 +2657,7 @@ Allegato 24[^t-19]
 <tr><td>2710</td><td>Oli di petrolio o di minerali bituminosi, diversi dagli oli greggi; preparazioni non nominate né comprese altrove contenenti, in peso, il 70 % o più di oli di petrolio o di minerali bituminosi e delle quali tali oli costituiscono il componente base; oli usati</td></tr>
 </table>
 
-Allegato 25[^t-20]
+Allegato 25[^t-21]
 
 (art. 29*b*)
 
@@ -2663,16 +2665,16 @@ Allegato 25[^t-20]
 
 [^annex25-lvlu1-1]
 
-[^t-20]: Introdotto dal n. II dell’O del 29 giu. 2022, in vigore dal 29 giu. 2022 alle ore 18.00 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
+[^t-21]: Introdotto dal n. II dell’O del 29 giu. 2022, in vigore dal 29 giu. 2022 alle ore 18.00 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
 [^annex25-lvlu1-1]: Questo allegato non è pubblicato né nella RU né nella RS. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2022/432](https://fedlex.data.admin.ch/eli/oc/2022/432) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
-Allegato 26[^t-21]
+Allegato 26[^t-22]
 
 (art. 14*d* cpv. 1 e 2)
 
 ## Oro
 
-[^t-21]: Introdotto dal n. II cpv. 2 dell’O del 3 ago. 2022, in vigore dal 3 ago. 2022 alle ore 18.00 ([RU 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)).
+[^t-22]: Introdotto dal n. II cpv. 2 dell’O del 3 ago. 2022, in vigore dal 3 ago. 2022 alle ore 18.00 ([RU 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)).
 
 <table>
 <tr><td>Voce di tariffa doganale</td><td>Designazione</td></tr>
@@ -2681,13 +2683,13 @@ Allegato 26[^t-21]
 <tr><td>ex 7118 90</td><td>Monete di oro</td></tr>
 </table>
 
-Allegato 27[^t-22]
+Allegato 27[^t-23]
 
 (art. 14*d* cpv. 3)
 
 ## Prodotti in oro
 
-[^t-22]: Introdotto dal n. II cpv. 2 dell’O del 3 ago. 2022, in vigore dal 3 ago. 2022 alle ore 18.00 ([RU 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)).
+[^t-23]: Introdotto dal n. II cpv. 2 dell’O del 3 ago. 2022, in vigore dal 3 ago. 2022 alle ore 18.00 ([RU 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)).
 
 <table>
 <tr><td>Voce di tariffa doganale</td><td>Designazione</td></tr>
@@ -2695,23 +2697,26 @@ Allegato 27[^t-22]
 <tr><td>ex 7114</td><td>Oggetti di oreficeria e loro parti, di metalli preziosi o di placcati o doppiati di metalli preziosi</td></tr>
 </table>
 
-Allegato 28[^t-23]
+Allegato 28[^t-24]
 
 (art. 12*b* cpv. 3 e 4 lett. b)
 
 ## Limiti massimi di prezzo per petrolio e prodotti petroliferi
 
-[^t-23]: Introdotto dal n. II cpv. 4 dell’O del 23 nov. 2022, in vigore dal 23 nov. 2022 alle ore 18.00 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
+[^t-24]: Introdotto dal n. II cpv. 4 dell’O del 23 nov. 2022 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)). Nuovo testo giusta il n. I cpv. 2 dell’O del DEFR del 7 dic. 2022, in vigore dall’8 dic. 2022 alle ore 18.00 ([RU 2022 780](https://fedlex.data.admin.ch/eli/oc/2022/780)).
 
-Il presente allegato non contiene attualmente alcun limite massimo di prezzo.
+<table>
+<tr><th>Voce di tariffa doganale</th><th>Designazione</th><th>Prezzo al barile (USD)</th></tr>
+<tr><td>2709 00</td><td>Oli greggi di petrolio o di minerali bituminosi</td><td>60</td></tr>
+</table>
 
-Allegato 29[^t-24]
+Allegato 29[^t-25]
 
 (art. 12*b* cpv. 4 lett. c)
 
 ## Trasporto consentito di petrolio greggio e prodotti petroliferi in Paesi terzi
 
-[^t-24]: Introdotto dal n. II cpv. 4 dell’O del 23 nov. 2022, in vigore dal 23 nov. 2022 alle ore 18.00 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
+[^t-25]: Introdotto dal n. II cpv. 4 dell’O del 23 nov. 2022, in vigore dal 23 nov. 2022 alle ore 18.00 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
 
 <table>
 <tr><th>Oggetto</th><th>Luogo di destinazione (Paese terzo)</th><th>Periodo</th></tr>

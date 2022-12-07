@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Ordonnance du 4 mars 2022 instituant des mesures en lien avec la situation en Ukraine
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: fr
-version: 2022-11-23
+version: 2022-12-08
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20221123/fr/xml/fedlex-data-admin-ch-eli-cc-2022-151-20221123-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20221123/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20221208/fr/xml/fedlex-data-admin-ch-eli-cc-2022-151-20221208-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20221208/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures en lien avec la situation en Ukraine
 
-du 4 mars 2022 (État le 23 novembre 2022)
+du 4 mars 2022 (État le 8 décembre 2022)
 
 Le Conseil fédéral suisse,
 
@@ -1528,11 +1528,13 @@ Zones de l’oblast ukrainien de Kherson non contrôlées par le gouvernement uk
 
 Zones de l’oblast ukrainien de Zaporijia non contrôlées par le gouvernement ukrainien
 
-Annexe 7
+Annexe 7[^t-7]
 
 (art. 14, al. 1 et 2)
 
 ## Biens interdits
+
+[^t-7]: Nouvelle teneur selon le ch. I al. 2 de l’O du DEFR du 7 déc. 2022, en vigueur depuis le 8 déc. 2022 à 18 heures ([RO 2022 780](https://fedlex.data.admin.ch/eli/oc/2022/780)).
 
 <table>
 <tr><th>**Chapitre/Code NC**</th><th>**Désignation de la marchandise**</th></tr>
@@ -1616,7 +1618,7 @@ Annexe 7
 <tr><td>8466</td><td>Parties et accessoires reconnaissables comme étant exclusivement ou principalement destinés aux machines des n<sup>os</sup> 8456 à 8465, y compris les porte-pièces et porte-outils, les filières à déclenchement automatique, les dispositifs diviseurs et autres dispositifs spéciaux se montant sur machines-outils; porte-outils pour outils ou outillage à main, de tous types</td></tr>
 <tr><td>8467</td><td>Outils pneumatiques, hydrauliques ou à moteur (électrique ou non électrique) incorporé, pour emploi à la main</td></tr>
 <tr><td>8468</td><td>Machines et appareils pour le brasage ou le soudage, même pouvant couper, autres que ceux du n<sup>o</sup> 8515; machines et appareils aux gaz pour la trempe superficielle</td></tr>
-<tr><td>8467 9030</td><td>Machines à écrire autres que les imprimantes du n<sup>o</sup> 8443; machines pour le traitement des textes</td></tr>
+<tr><td>8472 9030</td><td>Machines à écrire autres que les imprimantes du n<sup>o</sup> 8443; machines pour le traitement des textes</td></tr>
 <tr><td>8470</td><td>Machines à calculer et machines de poche permettant d’enregistrer, de reproduire et d’afficher des informations, comportant une fonction de calcul; machines comptables, machines à affranchir, à établir les tickets et machines similaires, comportant un dispositif de calcul; caisses enregistreuses</td></tr>
 <tr><td>8471</td><td>Machines automatiques de traitement de l’information et leurs unités; lecteurs magnétiques ou optiques, machines de mise d’informations sur support sous forme codée et machines de traitement de ces informations, non dénommés ni compris ailleurs</td></tr>
 <tr><td>8472</td><td>Autres machines et appareils de bureau (duplicateurs hectographiques ou à stencils, machines à imprimer les adresses, distributeurs automatiques de billets de banque, machines à trier, à compter ou à encartoucher les pièces de monnaie, appareils à tailler les crayons, appareils à perforer ou à agrafer, par exemple)</td></tr>
@@ -1701,7 +1703,7 @@ Annexe 7
 <tr><td>9033</td><td>Parties et accessoires non dénommés ni compris ailleurs dans le présent chapitre, pour machines, appareils, instruments ou articles du chapitre 90</td></tr>
 </table>
 
-Annexe 8[^t-7]
+Annexe 8[^t-8]
 
 (art. 15, al. 1 et 4, et 29, al. 1)
 
@@ -1709,8 +1711,8 @@ Annexe 8[^t-7]
 
 [^annex8-lvlu1-1]
 
-[^t-7]: Mise à jour par le ch. I des O du DEFR du 15 mars 2022 ([RO 2022 173](https://fedlex.data.admin.ch/eli/oc/2022/173)), du 13 avr. 2022 ([RO 2022 237](https://fedlex.data.admin.ch/eli/oc/2022/237)), du 3 mai 2022 ([RO 2022 270](https://fedlex.data.admin.ch/eli/oc/2022/270)), le ch. I al. 1 des O du DEFR du 10 juin 2022 ([RO 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)), du 28 juil. 2022 ([RO 2022 432](https://fedlex.data.admin.ch/eli/oc/2022/432)), le ch. II al. 1 de l’O du 3 août 2022 ([RO 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)) et le ch. I des O du DEFR du 16 août 2022 ([RO 2022 451](https://fedlex.data.admin.ch/eli/oc/2022/451)), du 8 sept. 2022 ([RO 2022 500](https://fedlex.data.admin.ch/eli/oc/2022/500)), du 26 sept. 2022 ([RO 2022 533](https://fedlex.data.admin.ch/eli/oc/2022/533)), le ch. I al. 1 de l’O du DEFR du 11 oct. 2022 ([RO 2022 578](https://fedlex.data.admin.ch/eli/oc/2022/578)) et le ch. I de l’O du DEFR du 31 oct. 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 à 18 heures ([RO 2022 631](https://fedlex.data.admin.ch/eli/oc/2022/631)).
-[^annex8-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2022/631](https://fedlex.data.admin.ch/eli/oc/2022/631) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
+[^t-8]: Mise à jour par le ch. I des O du DEFR du 15 mars 2022 ([RO 2022 173](https://fedlex.data.admin.ch/eli/oc/2022/173)), du 13 avr. 2022 ([RO 2022 237](https://fedlex.data.admin.ch/eli/oc/2022/237)), du 3 mai 2022 ([RO 2022 270](https://fedlex.data.admin.ch/eli/oc/2022/270)), le ch. I al. 1 des O du DEFR du 10 juin 2022 ([RO 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)), du 28 juil. 2022 ([RO 2022 432](https://fedlex.data.admin.ch/eli/oc/2022/432)), le ch. II al. 1 de l’O du 3 août 2022 ([RO 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)) et le ch. I des O du DEFR du 16 août 2022 ([RO 2022 451](https://fedlex.data.admin.ch/eli/oc/2022/451)), du 8 sept. 2022 ([RO 2022 500](https://fedlex.data.admin.ch/eli/oc/2022/500)), du 26 sept. 2022 ([RO 2022 533](https://fedlex.data.admin.ch/eli/oc/2022/533)), le ch. I al. 1 de l’O du DEFR du 11 oct. 2022 ([RO 2022 578](https://fedlex.data.admin.ch/eli/oc/2022/578)), le ch. I de l’O du DEFR du 31 oct. 2022 ([RO 2022 631](https://fedlex.data.admin.ch/eli/oc/2022/631)) et le ch. I al. 1 de l’O du DEFR du 7 déc. 2022, en vigueur depuis le 8 déc. 2022 à 18 heures ([RO 2022 780](https://fedlex.data.admin.ch/eli/oc/2022/780)).
+[^annex8-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement par renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2022/780](https://fedlex.data.admin.ch/eli/oc/2022/780) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
 Annexe 9
 
@@ -1732,7 +1734,7 @@ Annexe 10
 
 [^annex10-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2022/432](https://fedlex.data.admin.ch/eli/oc/2022/432) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
-Annexe 11[^t-8]
+Annexe 11[^t-9]
 
 (art. 18, al. 2, let. a et b)
 
@@ -1740,7 +1742,7 @@ Annexe 11[^t-8]
 
 [^annex11-lvlu1-1]
 
-[^t-8]: Mise à jour par le ch. II al. 1 de l’O du 25 mars 2022, en vigueur depuis le 25 mars 2022 à 23 heures ([RO 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
+[^t-9]: Mise à jour par le ch. II al. 1 de l’O du 25 mars 2022, en vigueur depuis le 25 mars 2022 à 23 heures ([RO 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
 [^annex11-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2022/432](https://fedlex.data.admin.ch/eli/oc/2022/432) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
 Annexe 12
@@ -1763,7 +1765,7 @@ Annexe 13
 
 [^annex13-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2022/432](https://fedlex.data.admin.ch/eli/oc/2022/432) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
-Annexe 14[^t-9]
+Annexe 14[^t-10]
 
 (art. 27)
 
@@ -1771,10 +1773,10 @@ Annexe 14[^t-9]
 
 [^annex14-lvlu1-1]
 
-[^t-9]: Mise à jour par le ch. I al. 1 de l’O du DEFR du 10 juin 2022, en vigueur depuis le 10 juin 2022 à 18 heures ([RO 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)).
+[^t-10]: Mise à jour par le ch. I al. 1 de l’O du DEFR du 10 juin 2022, en vigueur depuis le 10 juin 2022 à 18 heures ([RO 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)).
 [^annex14-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2022/432](https://fedlex.data.admin.ch/eli/oc/2022/432) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
-Annexe 15[^t-10]
+Annexe 15[^t-11]
 
 (art. 24*a*, al. 1, let. a)
 
@@ -1782,16 +1784,16 @@ Annexe 15[^t-10]
 
 [^annex15-lvlu1-1]
 
-[^t-10]: Introduite par le ch. II al. 2 de l’O du 25 mars 2022 ([RO 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)). Mise à jour par le ch. II al. 1 de l’O du 23 nov. 2022, en vigueur depuis le 23 nov. 2022 à 18 heures ([RO 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
+[^t-11]: Introduite par le ch. II al. 2 de l’O du 25 mars 2022 ([RO 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)). Mise à jour par le ch. II al. 1 de l’O du 23 nov. 2022, en vigueur depuis le 23 nov. 2022 à 18 heures ([RO 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
 [^annex15-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2022/708](https://fedlex.data.admin.ch/eli/oc/2022/708) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
-Annexe 16[^t-11]
+Annexe 16[^t-12]
 
 (art. 9*a*, al. 1)
 
 ## Biens et technologies de navigation maritime
 
-[^t-11]: Introduite par le ch. II al. 2 de l’O du 25 mars 2022, en vigueur depuis le 25 mars 2022 à 23 heures ([RO 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
+[^t-12]: Introduite par le ch. II al. 2 de l’O du 25 mars 2022, en vigueur depuis le 25 mars 2022 à 23 heures ([RO 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
 
 Catégorie VI – Marine
 
@@ -1812,13 +1814,13 @@ Catégorie VI – Marine
 <tr><td>ex 8517</td><td>Postes téléphoniques d’usagers, y compris les téléphones intelligents et autres téléphones pour réseaux cellulaires et pour autres réseaux sans fil; autres appareils pour l’émission, la transmission ou la réception de la voix, d’images ou d’autres données, y compris les appareils pour la communication dans un réseau filaire ou sans fil (tel qu’un réseau local ou étendu), autres que ceux des n<sup>os</sup> 8443, 8525, 8527 ou 8528: (y compris parties)</td></tr>
 </table>
 
-Annexe 17[^t-12]
+Annexe 17[^t-13]
 
 (art. 14*a*, al. 1 et 2)
 
 ## Produits sidérurgiques
 
-[^t-12]: Introduite par le ch. II al. 2 de l’O du 25 mars 2022 ([RO 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)). Nouvelle teneur selon le ch. II al. 3 de l’O du 23 nov. 2022, en vigueur depuis le 23 nov. 2022 à 18 heures ([RO 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
+[^t-13]: Introduite par le ch. II al. 2 de l’O du 25 mars 2022 ([RO 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)). Nouvelle teneur selon le ch. II al. 3 de l’O du 23 nov. 2022, en vigueur depuis le 23 nov. 2022 à 18 heures ([RO 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
 
 ### 1. Biens inclus dans l’annexe avant le 23 novembre 2022
 
@@ -1909,13 +1911,13 @@ Annexe 17[^t-12]
 <tr><td>7326</td><td>Ouvrages en fer ou en acier, n.d.a. (à l’exclusion des produits moulés)</td></tr>
 </table>
 
-Annexe 18[^t-13]
+Annexe 18[^t-14]
 
 (art. 14*b*, al. 1 et 2, let. c)
 
 ## Biens de luxe
 
-[^t-13]: Introduite par le ch. II al. 2 de l’O du 25 mars 2022 ([RO 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)). Nouvelle teneur selon le ch. II de l’O du 31 août 2022, en vigueur depuis le 31 août 2022 à 18 heures ([RO 2022 477](https://fedlex.data.admin.ch/eli/oc/2022/477)).
+[^t-14]: Introduite par le ch. II al. 2 de l’O du 25 mars 2022 ([RO 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)). Nouvelle teneur selon le ch. I al. 2 de l’O du DEFR du 7 déc. 2022, en vigueur depuis le 8 déc. 2022 à 18 heures ([RO 2022 780](https://fedlex.data.admin.ch/eli/oc/2022/780)).
 
 Sauf indication contraire dans la présente annexe, l’interdiction prévue à l’art. 14*b* s’applique aux biens de luxe dont le coût unitaire est supérieur à 300 francs.
 
@@ -1945,7 +1947,7 @@ Sauf indication contraire dans la présente annexe, l’interdiction prévue à 
 <tr><td>ex</td><td>0712 39 00</td><td>Autres</td></tr>
 <tr><td>ex</td><td>2001 90 98</td><td>Autres</td></tr>
 <tr><td></td><td>2003 90 10</td><td>Truffes</td></tr>
-<tr><td>ex</td><td>2103 90 90</td><td>Autres</td></tr>
+<tr><td>ex</td><td>2103 90 00</td><td>Autres</td></tr>
 <tr><td>ex</td><td>2104 10 00</td><td>Préparations pour soupes, potages ou bouillons; soupes, potages ou bouillons préparés</td></tr>
 <tr><td>ex</td><td>2106 90</td><td>Préparations alimentaires non dénommées ni comprises ailleurs</td></tr>
 </table>
@@ -2291,7 +2293,7 @@ Sauf indication contraire dans la présente annexe, l’interdiction prévue à 
 ### 20. Objets d’art, de collection ou d’antiquité
 
 <table>
-<tr><td></td><td>Position tarifaire</td><td>Désignation</td></tr>
+<tr><th></th><th>Position tarifaire</th><th>Désignation</th></tr>
 <tr><td>ex</td><td>97</td><td>Objets d’art, de collection ou d’antiquité</td></tr>
 </table>
 
@@ -2357,13 +2359,13 @@ Sauf indication contraire dans la présente annexe, l’interdiction prévue à 
 <tr><th></th><th>9015 10 00</th><th>Télémètres</th></tr>
 </table>
 
-Annexe 19[^t-14]
+Annexe 19[^t-15]
 
 (art. 9*b*, al. 1)
 
 ## Carburéacteurs et additifs pour carburants
 
-[^t-14]: Introduite par le ch. II al. 3 de l’O du 27 avr. 2022, en vigueur depuis le 27 avr. 2022 à 18 heures ([RO 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^t-15]: Introduite par le ch. II al. 3 de l’O du 27 avr. 2022, en vigueur depuis le 27 avr. 2022 à 18 heures ([RO 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
 
 <table>
 <tr><th></th><th>Position tarifaire</th><th>Désignation</th></tr>
@@ -2402,13 +2404,13 @@ Annexe 19[^t-14]
 <tr><td>ex</td><td>3811 90</td><td>Améliorants de stabilité thermique pour d’autres liquides utilisés aux mêmes fins que les huiles minérales</td></tr>
 </table>
 
-Annexe 20[^t-15]
+Annexe 20[^t-16]
 
 (art. 14*c*, al. 1)
 
 ## Biens importants sur le plan économique
 
-[^t-15]: Introduite par le ch. II al. 3 de l’O du 27 avr. 2022 ([RO 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). Nouvelle teneur selon le ch. II al. 3 de l’O du 23 nov. 2022, en vigueur depuis le 23 nov. 2022 à 18 heures ([RO 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
+[^t-16]: Introduite par le ch. II al. 3 de l’O du 27 avr. 2022 ([RO 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). Nouvelle teneur selon le ch. II al. 3 de l’O du 23 nov. 2022, en vigueur depuis le 23 nov. 2022 à 18 heures ([RO 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
 
 ### 1. Biens inclus dans l’annexe avant le 23 novembre 2022
 
@@ -2600,13 +2602,13 @@ Annexe 20[^t-15]
 <tr><td></td><td>9406</td><td>Constructions préfabriquées, même incomplètes ou non encore montées</td></tr>
 </table>
 
-Annexe 21[^t-16]
+Annexe 21[^t-17]
 
 (art. 14*c*, al. 3 et 4)
 
 ## Quotas de volume d’importation de certains biens
 
-[^t-16]: Introduite par le ch. II al. 3 de l’O du 27 avr. 2022 ([RO 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). Nouvelle teneur selon le ch. II al. 3 de l’O du 23 nov. 2022, en vigueur depuis le 23 nov. 2022 à 18 heures ([RO 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
+[^t-17]: Introduite par le ch. II al. 3 de l’O du 27 avr. 2022 ([RO 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). Nouvelle teneur selon le ch. II al. 3 de l’O du 23 nov. 2022, en vigueur depuis le 23 nov. 2022 à 18 heures ([RO 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
 
 <table>
 <tr><th>Position tarifaire</th><th>Désignation</th><th>Quantité</th><th>Durée de validité</th></tr>
@@ -2614,13 +2616,13 @@ Annexe 21[^t-16]
 <tr><td>3105 20, 3105 60, 3105 90</td><td>Engrais minéraux ou chimiques contenant les trois éléments fertilisants: azote, phosphore et potassium Engrais minéraux ou chimiques contenant les deux éléments fertilisants: phosphore et potassium Autres engrais contenant du chlorure de potassium</td><td>1636 tonnes métriques combinées</td><td>du 29 juillet d’une année donnée au 28 juillet de l’année suivante</td></tr>
 </table>
 
-Annexe 22[^t-17]
+Annexe 22[^t-18]
 
 (art. 12, al. 1)
 
 ## Charbon et produits houillers
 
-[^t-17]: Introduite par le ch. II al. 3 de l’O du 27 avr. 2022 ([RO 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). Mise à jour par le ch. II al. 2 de l’O du 23 nov. 2022, en vigueur depuis le 23 nov. 2022 à 18 heures ([RO 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
+[^t-18]: Introduite par le ch. II al. 3 de l’O du 27 avr. 2022 ([RO 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). Mise à jour par le ch. II al. 2 de l’O du 23 nov. 2022, en vigueur depuis le 23 nov. 2022 à 18 heures ([RO 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
 
 <table>
 <tr><td>Position tarifaire</td><td>Désignation</td></tr>
@@ -2634,7 +2636,7 @@ Annexe 22[^t-17]
 <tr><td>2708</td><td>Brai et coke de brai de goudron de houille ou d’autres goudrons minéraux</td></tr>
 </table>
 
-Annexe 23[^t-18]
+Annexe 23[^t-19]
 
 (art. 11*a*, al. 1)
 
@@ -2642,16 +2644,16 @@ Annexe 23[^t-18]
 
 [^annex23-lvlu1-1]
 
-[^t-18]: Introduite par le ch. II al. 3 de l’O du 27 avr. 2022 ([RO 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). Mise à jour par le ch. I al. 1 de l’O du DEFR du 28 juil. 2022 ([RO 2022 432](https://fedlex.data.admin.ch/eli/oc/2022/432)), le ch. I de l’O du DEFR du 8 sept. 2022 ([RO 2022 500](https://fedlex.data.admin.ch/eli/oc/2022/500)) et le ch. II al. 1 de l’O du 23 nov. 2022, en vigueur depuis le 23 nov. 2022 à 18 heures ([RO 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
+[^t-19]: Introduite par le ch. II al. 3 de l’O du 27 avr. 2022 ([RO 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). Mise à jour par le ch. I al. 1 de l’O du DEFR du 28 juil. 2022 ([RO 2022 432](https://fedlex.data.admin.ch/eli/oc/2022/432)), le ch. I de l’O du DEFR du 8 sept. 2022 ([RO 2022 500](https://fedlex.data.admin.ch/eli/oc/2022/500)) et le ch. II al. 1 de l’O du 23 nov. 2022, en vigueur depuis le 23 nov. 2022 à 18 heures ([RO 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
 [^annex23-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2022/708](https://fedlex.data.admin.ch/eli/oc/2022/708) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
-Annexe 24[^t-19]
+Annexe 24[^t-20]
 
 (art. 12*a* et 12*b*)
 
 ## Pétrole brut et produits pétroliers
 
-[^t-19]: Introduite par le ch. II de l’O du 29 juin 2022, en vigueur depuis le 29 juin 2022 à 18 heures ([RO 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
+[^t-20]: Introduite par le ch. II de l’O du 29 juin 2022, en vigueur depuis le 29 juin 2022 à 18 heures ([RO 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
 
 <table>
 <tr><td>Numéro du tarif</td><td>Désignation</td></tr>
@@ -2659,7 +2661,7 @@ Annexe 24[^t-19]
 <tr><td>2710</td><td>Huiles de pétrole ou de minéraux bitumineux, autres que les huiles brutes; préparations non dénommées ni comprises ailleurs, contenant en poids 70 % ou plus d’huiles de pétrole ou de minéraux bitumineux et dont ces huiles constituent l’élément de base; déchets d’huiles</td></tr>
 </table>
 
-Annexe 25[^t-20]
+Annexe 25[^t-21]
 
 (art. 29*b*)
 
@@ -2667,16 +2669,16 @@ Annexe 25[^t-20]
 
 [^annex25-lvlu1-1]
 
-[^t-20]: Introduite par le ch. II de l’O du 29 juin 2022, en vigueur depuis le 29 juin 2022 à 18 heures ([RO 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
+[^t-21]: Introduite par le ch. II de l’O du 29 juin 2022, en vigueur depuis le 29 juin 2022 à 18 heures ([RO 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
 [^annex25-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2022/432](https://fedlex.data.admin.ch/eli/oc/2022/432) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
-Annexe 26[^t-21]
+Annexe 26[^t-22]
 
 (art. 14*d*, al. 1 et 2)
 
 ## Or
 
-[^t-21]: Introduite par le ch. II al. 2 de l’O du 3 août 2022, en vigueur depuis le 3 août 2022 à 18 heures ([RO 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)).
+[^t-22]: Introduite par le ch. II al. 2 de l’O du 3 août 2022, en vigueur depuis le 3 août 2022 à 18 heures ([RO 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)).
 
 <table>
 <tr><td>Position tarifaire</td><td>Désignation</td></tr>
@@ -2685,13 +2687,13 @@ Annexe 26[^t-21]
 <tr><td>ex 7118 90</td><td>Pièces d’or</td></tr>
 </table>
 
-Annexe 27[^t-22]
+Annexe 27[^t-23]
 
 (art. 14*d*, al. 3)
 
 ## Produits en or
 
-[^t-22]: Introduite par le ch. II al. 2 de l’O du 3 août 2022, en vigueur depuis le 3 août 2022 à 18 heures ([RO 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)).
+[^t-23]: Introduite par le ch. II al. 2 de l’O du 3 août 2022, en vigueur depuis le 3 août 2022 à 18 heures ([RO 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)).
 
 <table>
 <tr><td>Position tarifaire</td><td>Désignation</td></tr>
@@ -2699,23 +2701,26 @@ Annexe 27[^t-22]
 <tr><td>ex 7114</td><td>Articles d’orfèvrerie et leurs parties, en métaux précieux ou en plaqués ou doublés de métaux précieux</td></tr>
 </table>
 
-Annexe 28[^t-23]
+Annexe 28[^t-24]
 
 (art. 12*b*, al. 3 et 4, let. b)
 
 ## Prix-plafond du pétrole et des produits pétroliers
 
-[^t-23]: Introduite par le ch. II al. 4 de l’O du 23 nov. 2022, en vigueur depuis le 23 nov. 2022 à 18 heures ([RO 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
+[^t-24]: Introduite par le ch. II al. 4 de l’O du 23 nov. 2022 ([RO 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)). Nouvelle teneur selon le ch. I al. 2 de l’O du DEFR du 7 déc. 2022, en vigueur depuis le 8 déc. 2022 à 18 heures ([RO 2022 780](https://fedlex.data.admin.ch/eli/oc/2022/780)).
 
-La présente annexe ne contient actuellement aucun prix-plafond.
+<table>
+<tr><th>Position tarifaire</th><th>Désignation</th><th>Prix du baril (USD)</th></tr>
+<tr><td>2709 00</td><td>Huiles brutes de pétrole ou de minéraux bitumineux</td><td>60</td></tr>
+</table>
 
-Annexe 29[^t-24]
+Annexe 29[^t-25]
 
 (art. 12*b*, al. 4, let. c)
 
 ## Transport autorisé de pétrole brut et de dérivés du pétrole dans des États tiers
 
-[^t-24]: Introduite par le ch. II al. 4 de l’O du 23 nov. 2022, en vigueur depuis le 23 nov. 2022 à 18 heures ([RO 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
+[^t-25]: Introduite par le ch. II al. 4 de l’O du 23 nov. 2022, en vigueur depuis le 23 nov. 2022 à 18 heures ([RO 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
 
 <table>
 <tr><th>Objet</th><th>Lieu de destination (État tiers)</th><th>Durée de validité</th></tr>

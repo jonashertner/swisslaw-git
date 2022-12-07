@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Verordnung vom 4. März 2022 über Massnahmen im Zusammenhang mit der Situation in der Ukraine
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: de
-version: 2022-11-23
+version: 2022-12-08
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20221123/de/xml/fedlex-data-admin-ch-eli-cc-2022-151-20221123-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20221123/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20221208/de/xml/fedlex-data-admin-ch-eli-cc-2022-151-20221208-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20221208/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen im Zusammenhang mit der Situation in der Ukraine
 
-vom 4. März 2022 (Stand am 23. November 2022)
+vom 4. März 2022 (Stand am 8. Dezember 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -1533,11 +1533,13 @@ Gebiete des ukrainischen Oblast Cherson, die nicht von der ukrainischen Regierun
 
 Gebiete des ukrainischen Oblast Saporischschja, die nicht von der ukrainischen Regierung kontrolliert werden
 
-Anhang 7
+Anhang 7[^t-7]
 
 (Art. 14 Abs. 1 und 2)
 
 ## Verbotene Güter
+
+[^t-7]: Fassung gemäss Ziff. I Abs. 2 der V des WBF vom 7. Dez. 2022, in Kraft seit 8. Dez. 2022 um 18.00 Uhr ([AS 2022 780](https://fedlex.data.admin.ch/eli/oc/2022/780)).
 
 <table>
 <tr><th>**Kapitel/KN-Code**</th><th>**Warenbezeichnung**</th></tr>
@@ -1546,7 +1548,7 @@ Anhang 7
 <tr><td>Kapitel 27</td><td>Mineralische Brennstoffe, Mineralöle und Erzeugnisse ihrer Destillation; bituminöse Stoffe; Mineralwachse</td></tr>
 <tr><td>Kapitel 28</td><td>Anorganische chemische Erzeugnisse; anorganische oder organische Verbindungen von Edelmetallen, von Seltenerdmetallen, von radioaktiven Elementen oder von Isotopen</td></tr>
 <tr><td>Kapitel 29</td><td>Organische chemische Erzeugnisse</td></tr>
-<tr><td>3824</td><td>Zubereitete Bindemittel für Giessereiformen oder -kerne; chemische Erzeugnisse und Zubereitungen der chemischen Industrie oder verwandter Industrien (einschliesslich Mischungen von Naturprodukten), anderweit weder genannt noch inbegriffen</td></tr>
+<tr><td>3824</td><td>Zubereitete Bindemittel für Giessereiformen oder -kerne; chemische Erzeugnisse und Zubereitungen der chemischen Industrie oder verwandter Industrien (einschl. Mischungen von Naturprodukten), anderweit weder genannt noch inbegriffen</td></tr>
 <tr><td>3826</td><td>Biodiesel und Biodieselmischungen, kein Erdöl oder Öl aus bituminösen Mineralien enthaltend oder mit einem Gehalt an Erdöl oder Öl aus bituminösen Materialien von weniger als 70 GHT</td></tr>
 <tr><td>Kapitel 72</td><td>Eisen und Stahl</td></tr>
 <tr><td>Kapitel 73</td><td>Waren aus Eisen oder Stahl</td></tr>
@@ -1577,10 +1579,10 @@ Anhang 7
 <tr><td>8416</td><td>Brenner für Feuerungen, die mit flüssigem Brennstoff, pulverisiertem festem Brennstoff oder Gas betrieben werden; automatische Feuerungen, einschliesslich ihrer mechanischen Beschicker, mechanischen Roste, mechanischen Entascher und ähnlichen Vorrichtungen</td></tr>
 <tr><td>8417</td><td>Nicht elektrische Industrie- und Laboratoriumsöfen, einschliesslich Verbrennungsöfen</td></tr>
 <tr><td>8418</td><td>Kühl- und Gefrierschränke, Gefrier- und Tiefkühltruhen und andere Einrichtungen, Maschinen, Apparate und Geräte zur Kälteerzeugung, mit elektrischer oder anderer Ausrüstung; Wärmepumpen, ausgenommen Klimageräte der Position 8415</td></tr>
-<tr><td>8420</td><td>Kalander und Walzwerke (ausgenommen Metallwalzwerke und Glaswalzmaschinen) sowie Walzen für diese Maschinen</td></tr>
+<tr><td>8420</td><td>Kalander und Walzwerke (ausg. Metallwalzwerke und Glaswalzmaschinen) sowie Walzen für diese Maschinen</td></tr>
 <tr><td>8421</td><td>Zentrifugen, einschliesslich Zentrifugaltrockner; Apparate zum Filtrieren oder Reinigen von Flüssigkeiten oder Gasen</td></tr>
-<tr><td>8422</td><td>Geschirrspülmaschinen; Maschinen und Apparate zum Reinigen oder Trocknen von Flaschen oder anderen Behältnissen; Maschinen und Apparate zum Füllen, Verschliessen, Versiegeln oder Etikettieren von Flaschen, Dosen, Schachteln, Säcken oder anderen Behältnissen; Maschinen und Apparate zum Verkapseln von Flaschen, Gläsern, Tuben oder ähnlichen Behältnissen; andere Maschinen und Apparate zum Verpacken oder Umhüllen von Waren (einschliesslich Schrumpffolienverpackungsmaschinen); Maschinen und Apparate zum Versetzen von Getränken mit Kohlensäure</td></tr>
-<tr><td>8423</td><td>Waagen (einschliesslich Zähl- und Kontrollwaagen), ausgenommen Waagen mit einer Empfindlichkeit von 50 mg oder feiner; Gewichte für Waagen aller Art</td></tr>
+<tr><td>8422</td><td>Geschirrspülmaschinen; Maschinen und Apparate zum Reinigen oder Trocknen von Flaschen oder anderen Behältnissen; Maschinen und Apparate zum Füllen, Verschliessen, Versiegeln oder Etikettieren von Flaschen, Dosen, Schachteln, Säcken oder anderen Behältnissen; Maschinen und Apparate zum Verkapseln von Flaschen, Gläsern, Tuben oder ähnlichen Behältnissen; andere Maschinen und Apparate zum Verpacken oder Umhüllen von Waren (einschl. Schrumpffolienverpackungsmaschinen); Maschinen und Apparate zum Versetzen von Getränken mit Kohlensäure</td></tr>
+<tr><td>8423</td><td>Waagen (einschl. Zähl- und Kontrollwaagen), ausgenommen Waagen mit einer Empfindlichkeit von 50 mg oder feiner; Gewichte für Waagen aller Art</td></tr>
 <tr><td>8424</td><td>Mechanische Apparate, auch handbetrieben, zum Verteilen, Verspritzen oder Zerstäuben von Flüssigkeiten oder Pulver; Feuerlöscher, auch mit Füllung; Spritzpistolen und ähnliche Apparate; Sandstrahlmaschinen, Dampfstrahlapparate und ähnliche Strahlapparate</td></tr>
 <tr><td>8425</td><td>Flaschenzüge; Zugwinden und Spille; Hubwinden</td></tr>
 <tr><td>8426</td><td>Derrickkrane; Kabelkrane, Laufkrane, Verladebrücken und andere Krane; fahrbare Hubportale, Portalhubkraftkarren und Krankraftkarren</td></tr>
@@ -1596,10 +1598,10 @@ Anhang 7
 <tr><td>8439</td><td>Maschinen und Apparate zum Herstellen von Halbstoff aus cellulosehaltigen Faserstoffen oder zum Herstellen oder Fertigstellen von Papier oder Pappe</td></tr>
 <tr><td>8440</td><td>Buchbindereimaschinen und -apparate, einschliesslich Fadenheftmaschinen</td></tr>
 <tr><td>8441</td><td>Andere Maschinen und Apparate zum Be- oder Verarbeiten von Papierhalbstoff, Papier oder Pappe, einschliesslich Schneidemaschinen aller Art</td></tr>
-<tr><td>8442</td><td>Maschinen, Apparate und Geräte (ausgenommen Werkzeugmaschinen der Positionen 8456–8465) zum Zurichten oder Herstellen von Druckplatten, Druckformzylindern oder anderen Druckformen; Druckplatten, Druckformzylinder und andere Druckformen; Lithografiesteine, Platten und Zylinder, für den Druck zugerichtet (z. B. geschliffen, gekörnt, poliert)</td></tr>
+<tr><td>8442</td><td>Maschinen, Apparate und Geräte (ausg. Werkzeugmaschinen der Pos. 8456–8465) zum Zurichten oder Herstellen von Druckplatten, Druckformzylindern oder anderen Druckformen; Druckplatten, Druckformzylinder und andere Druckformen; Lithografiesteine, Platten und Zylinder, für den Druck zugerichtet (z. B. geschliffen, gekörnt, poliert)</td></tr>
 <tr><td>8443</td><td>Maschinen, Apparate und Geräte zum Drucken mittels Druckplatten, Druckformzylindern und anderen Druckformen der Position 8442; andere Drucker, Kopiergeräte und Fernkopierer, auch miteinander kombiniert; Teile und Zubehör für diese Maschinen, Apparate oder Geräte</td></tr>
 <tr><td>8444 00 00</td><td>Maschinen zum Düsenspinnen, Verstrecken, Texturieren oder Schneiden von synthetischen oder künstlichen Spinnstoffen</td></tr>
-<tr><td>8445</td><td>Maschinen zum Vorbereiten oder Aufbereiten von Spinnstoffen; Maschinen zum Spinnen, Dublieren oder Zwirnen von Spinnstoffen und andere Maschinen und Apparate zum Herstellen von Spinnstoffgarnen; Maschinen zum Spulen (einschliesslich Schussspulmaschinen), Wickeln oder Haspeln von Spinnstoffen sowie Maschinen zum Vorbereiten von Spinnstoffgarnen zur Verwendung auf Maschinen der Position 8446 oder 8447</td></tr>
+<tr><td>8445</td><td>Maschinen zum Vorbereiten oder Aufbereiten von Spinnstoffen; Maschinen zum Spinnen, Dublieren oder Zwirnen von Spinnstoffen und andere Maschinen und Apparate zum Herstellen von Spinnstoffgarnen; Maschinen zum Spulen (einschl. Schussspulmaschinen), Wickeln oder Haspeln von Spinnstoffen sowie Maschinen zum Vorbereiten von Spinnstoffgarnen zur Verwendung auf Maschinen der Position 8446 oder 8447</td></tr>
 <tr><td>8447</td><td>Wirk-, Strick-, Nähwirk-, Gimpen-, Tüll-, Spitzen-, Stick-, Posamentier-, Flecht-, Netzknüpf- und Tuftingmaschinen</td></tr>
 <tr><td>8448</td><td>Hilfsmaschinen und -apparate für Maschinen der Position 8444, 8445, 8446 oder 8447 (z. B. Schaftmaschinen, Jacquardmaschinen, Kett- und Schussfadenwächter und Webschützenwechsler); Teile und Zubehör, erkennbar ausschliesslich oder hauptsächlich für Maschinen und Apparate dieser Position oder der Position 8444, 8445, 8446 oder 8447 bestimmt (z. B. Spindeln, Spindelflügel, Kratzengarnituren, Webeblätter, Nadelstäbe, Spinndüsen, Webschützen, Weblitzen, Webschäfte, Nadeln und Platinen)</td></tr>
 <tr><td>8449 00 00</td><td>Maschinen und Apparate zum Herstellen oder Ausrüsten von Filz oder Vliesstoffen (als Meterware oder geformt), einschliesslich Maschinen und Apparate zum Herstellen von Filzhüten; Formen für die Hutmacherei</td></tr>
@@ -1610,22 +1612,22 @@ Anhang 7
 <tr><td>8455</td><td>Metallwalzwerke und Walzen dafür</td></tr>
 <tr><td>8456</td><td>Werkzeugmaschinen zum Abtragen von Stoffen aller Art durch Laser-, Licht- oder anderen Photonenstrahl, Ultraschall, Elektroerosion, elektrochemische Verfahren oder Elektronen-, Ionen- oder Plasmastrahl; Wasserstrahlschneidemaschinen</td></tr>
 <tr><td>8457</td><td>Bearbeitungszentren, Mehrwegemaschinen und Transfermaschinen, zum Bearbeiten von Metallen</td></tr>
-<tr><td>8458</td><td>Drehmaschinen (einschliesslich Drehzentren) zur spanabhebenden Metallbearbeitung</td></tr>
-<tr><td>8459</td><td>Spanabhebende Werkzeugmaschinen (einschliesslich Bearbeitungseinheiten auf Schlitten) zum Bohren, Ausbohren, Fräsen oder Aussen- oder Innengewindeschneiden von Metallen, ausgenommen Drehmaschinen (einschliesslich Drehzentren) der Position 8458</td></tr>
+<tr><td>8458</td><td>Drehmaschinen (einschl. Drehzentren) zur spanabhebenden Metallbearbeitung</td></tr>
+<tr><td>8459</td><td>Spanabhebende Werkzeugmaschinen (einschl. Bearbeitungseinheiten auf Schlitten) zum Bohren, Ausbohren, Fräsen oder Aussen- oder Innengewindeschneiden von Metallen, ausgenommen Drehmaschinen (einschl. Drehzentren) der Position 8458</td></tr>
 <tr><td>8460</td><td>Werkzeugmaschinen zum Entgraten, Schärfen, Schleifen, Honen, Läppen, Polieren oder zu anderem Fertigbearbeiten von Metallen oder Cermets mit Hilfe von Schleifscheiben, Schleifstoffen oder Poliermitteln, ausgenommen Verzahnmaschinen und Zahnfertigbearbeitungsmaschinen der Position 8461</td></tr>
 <tr><td>8461</td><td>Hobelmaschinen, Waagerecht- und Senkrechtstossmaschinen, Räummaschinen, Verzahnmaschinen, Zahnfertigbearbeitungsmaschinen, Sägemaschinen, Trennmaschinen und andere Werkzeugmaschinen zur spanabhebenden Bearbeitung von Metallen oder Cermets, anderweit weder genannt noch inbegriffen</td></tr>
-<tr><td>8462</td><td>Werkzeugmaschinen (einschliesslich Pressen) zum Freiformschmieden, Gesenkschmieden oder Hämmern von Metallen; Werkzeugmaschinen (einschliesslich Pressen) zum Biegen, Abkanten, Richten, Scheren, Lochstanzen oder Ausklinken von Metallen; Pressen zum Bearbeiten von Metallen oder Metallcarbiden, vorstehend nicht genannt</td></tr>
+<tr><td>8462</td><td>Werkzeugmaschinen (einschl. Pressen) zum Freiformschmieden, Gesenkschmieden oder Hämmern von Metallen; Werkzeugmaschinen (einschl. Pressen) zum Biegen, Abkanten, Richten, Scheren, Lochstanzen oder Ausklinken von Metallen; Pressen zum Bearbeiten von Metallen oder Metallcarbiden, vorstehend nicht genannt</td></tr>
 <tr><td>8463</td><td>Andere Werkzeugmaschinen zum spanlosen Be- oder Verarbeiten von Metallen oder Cermets</td></tr>
 <tr><td>8464</td><td>Werkzeugmaschinen zum Bearbeiten von Steinen, keramischen Waren, Beton, Asbestzement oder ähnlichen mineralischen Stoffen oder zum Kaltbearbeiten von Glas</td></tr>
-<tr><td>8465</td><td>Werkzeugmaschinen (einschliesslich Nagel-, Heft-, Klebe-, Verleim- und andere Zusammenfügemaschinen) zum Bearbeiten von Holz, Kork, Bein, Hartkautschuk, harten Kunststoffen oder ähnlichen harten Stoffen</td></tr>
+<tr><td>8465</td><td>Werkzeugmaschinen (einschl. Nagel-, Heft-, Klebe-, Verleim- und andere Zusammenfügemaschinen) zum Bearbeiten von Holz, Kork, Bein, Hartkautschuk, harten Kunststoffen oder ähnlichen harten Stoffen</td></tr>
 <tr><td>8466</td><td>Teile und Zubehör, erkennbar ausschliesslich oder hauptsächlich für Maschinen der Positionen 8456–8465 bestimmt, einschliesslich Werkstück- und Werkzeughalter, selbstöffnende Gewindeschneidköpfe, Teilköpfe und andere Spezialvorrichtungen für Werkzeugmaschinen; Werkzeughalter für von Hand zu führende Werkzeuge aller Art</td></tr>
 <tr><td>8467</td><td>Pneumatische, hydraulische oder von eingebautem Motor (elektrisch oder nicht elektrisch) betriebene Werkzeuge, von Hand zu führen</td></tr>
 <tr><td>8468</td><td>Maschinen, Apparate und Geräte zum Löten oder Schweissen, auch wenn sie zum Brennschneiden verwendbar sind, jedoch ausgenommen solche der Position 8515; Maschinen und Apparate zum autogenen Oberflächenhärten</td></tr>
-<tr><td>8467 9030</td><td>Schreibmaschinen, ausgenommen Drucker der Position 8443; Textverarbeitungsmaschinen</td></tr>
+<tr><td>8472 9030</td><td>Schreibmaschinen, ausgenommen Drucker der Position 8443; Textverarbeitungsmaschinen</td></tr>
 <tr><td>8470</td><td>Rechenmaschinen und Geräte im Taschenformat, zum Aufzeichnen, Wiedergeben und Anzeigen von Daten, mit Rechenfunktionen; Abrechnungsmaschinen, Frankiermaschinen, Fahrkarten- oder Eintrittskarten-Ausgabemaschinen und ähnliche Maschinen, mit eingebautem Rechenwerk; Registrierkassen</td></tr>
 <tr><td>8471</td><td>Automatische Datenverarbeitungsmaschinen und ihre Einheiten; magnetische oder optische Leser, Maschinen zum Aufzeichnen von Daten auf Datenträger in codierter Form und Maschinen zum Verarbeiten solcher Daten, anderweit weder genannt noch inbegriffen</td></tr>
 <tr><td>8472</td><td>Andere Büromaschinen und -apparate (z. B. Hektografen, Schablonenvervielfältiger, Adressiermaschinen, automatische Banknotenausgabegeräte, Geldsortier-, Geldzähl- oder Geldeinwickelmaschinen, Bleistiftspitzmaschinen, Perforiermaschinen und Büroheftmaschinen)</td></tr>
-<tr><td>8473</td><td>Teile und Zubehör (ausgenommen Koffer, Schutzhüllen und dergleichen), erkennbar ausschliesslich oder hauptsächlich für Maschinen, Apparate oder Geräte der Positionen 8469–8472 bestimmt</td></tr>
+<tr><td>8473</td><td>Teile und Zubehör (ausg. Koffer, Schutzhüllen und dergleichen), erkennbar ausschliesslich oder hauptsächlich für Maschinen, Apparate oder Geräte der Positionen 8469–8472 bestimmt</td></tr>
 <tr><td>8474</td><td>Maschinen und Apparate zum Sortieren, Sieben, Trennen, Waschen, Zerkleinern, Mahlen, Mischen oder Kneten von Erden, Steinen, Erzen oder anderen festen (auch pulver- oder breiförmigen) mineralischen Stoffen; Maschinen zum Pressen oder Formen von festen mineralischen Brennstoffen, keramischen Massen, Zement, Gips oder anderen pulver- oder breiförmigen mineralischen Stoffen; Maschinen zum Herstellen von Giessformen aus Sand</td></tr>
 <tr><td>8475</td><td>Maschinen zum Zusammenbauen von mit Glaskolben oder Glasröhre ausgestatteten elektrischen Lampen, Elektronenröhren oder Blitzlampen; Maschinen zum Herstellen oder Warmbearbeiten von Glas oder Glaswaren</td></tr>
 <tr><td>8476</td><td>Warenverkaufsautomaten (z. B. Briefmarken-, Zigaretten-, Lebensmittel- oder Getränkeautomaten), einschliesslich Geldwechselautomaten</td></tr>
@@ -1635,7 +1637,7 @@ Anhang 7
 <tr><td>8480</td><td>Giesserei-Formkästen; Grundplatten für Formen; Giessereimodelle; Formen für Metalle (andere als solche zum Giessen von Ingots, Masseln oder dergl.), Metallcarbide, Glas, mineralische Stoffe, Kautschuk oder Kunststoff</td></tr>
 <tr><td>8481</td><td>Armaturen und ähnliche Apparate für Rohr- oder Schlauchleitungen, Dampfkessel, Sammelbehälter, Wannen oder ähnliche Behälter, einschliesslich Druckminderventile und thermostatisch gesteuerte Ventile</td></tr>
 <tr><td>8482</td><td>Wälzlager (Kugellager, Rollenlager und Nadellager)</td></tr>
-<tr><td>8483</td><td>Wellen (einschliesslich Nockenwellen und Kurbelwellen) und Kurbeln; Lagergehäuse mit eingebautem Wälzlager; Gleitlager; Lagergehäuse und Lagerschalen; Zahnräder, Zahnstangen, Friktionsräder, Kettenräder und Getriebe, auch in Form von Wechsel- oder Schaltgetrieben oder Drehmomentwandlern; Kugel- oder Rollenrollspindeln; Schwungräder, Riemen- und Seilscheiben (einschliesslich Seilrollenblöcke für Flaschenzüge); Schaltkupplungen und andere Wellenkupplungen (einschliesslich Universalkupplungen)</td></tr>
+<tr><td>8483</td><td>Wellen (einschl. Nockenwellen und Kurbelwellen) und Kurbeln; Lagergehäuse mit eingebautem Wälzlager; Gleitlager; Lagergehäuse und Lagerschalen; Zahnräder, Zahnstangen, Friktionsräder, Kettenräder und Getriebe, auch in Form von Wechsel- oder Schaltgetrieben oder Drehmomentwandlern; Kugel- oder Rollenrollspindeln; Schwungräder, Riemen- und Seilscheiben (einschl. Seilrollenblöcke für Flaschenzüge); Schaltkupplungen und andere Wellenkupplungen (einschl. Universalkupplungen)</td></tr>
 <tr><td>8484</td><td>Metalloplastische Dichtungen; Sätze oder Zusammenstellungen von Dichtungen verschiedener stofflicher Beschaffenheit, in Beuteln, Kartons oder ähnlichen Umschliessungen; mechanische Dichtungen</td></tr>
 <tr><td>8486</td><td>Maschinen, Apparate und Geräte von der ausschliesslich oder hauptsächlich zum Herstellen von Halbleiterbarren (boules), Halbleiterscheiben (wafers) oder Halbleiterbauelementen, elektronischen integrierten Schaltungen oder Flachbildschirmen verwendeten Art; in Anmerkung 9 C zu diesem Kapitel genannte Maschinen, Apparate und Geräte; Teile und Zubehör</td></tr>
 <tr><td>8487</td><td>Teile von Maschinen, Apparaten oder Geräten, in diesem Kapitel anderweit weder genannt noch inbegriffen, ausgenommen Teile mit elektrischer Isolierung, elektrischen Anschlussstücken, Wicklungen, Kontakten oder anderen charakteristischen Merkmalen elektrotechnischer Waren</td></tr>
@@ -1644,7 +1646,7 @@ Anhang 7
 <tr><td>8503</td><td>Teile, erkennbar ausschliesslich oder hauptsächlich für Elektromotoren, elektrische Generatoren, Stromerzeugungsaggregate oder elektrische rotierende Umformer bestimmt a.n.g.</td></tr>
 <tr><td>8504</td><td>Elektrische Transformatoren, elektrische Stromrichter (z. B. Gleichrichter) sowie Drossel- und andere Selbstinduktionsspulen, Teile davon</td></tr>
 <tr><td>8505</td><td>Elektromagnete (ausg. für medizinische Zwecke); Dauermagnete und Waren, die dazu bestimmt sind, nach Magnetisierung Dauermagnete zu werden; Spannplatten, Spannfutter und ähnl. dauermagnetische oder elektromagnetische Aufspannvorrichtungen; elektromagnetische Kupplungen und Bremsen; elektromagnetische Hebeköpfe; Teile davon</td></tr>
-<tr><td>8507</td><td>Akkumulatoren, elektrisch, einschl. Scheider (Separatoren) dafür, auch in quadratischer oder rechteckiger Form; Teile davon (ausg. ausgebrauchte sowie aus Weichkautschuk oder Spinnstoffen)</td></tr>
+<tr><td>8507</td><td>Akkumulatoren, elektrisch, einschliesslich Scheider (Separatoren) dafür, auch in quadratischer oder rechteckiger Form; Teile davon (ausg. ausgebrauchte sowie aus Weichkautschuk oder Spinnstoffen)</td></tr>
 <tr><td>8511</td><td>Elektrische Zündapparate, Zündvorrichtungen und Anlasser, für Verbrennungsmotoren mit Fremd- oder Selbstzündung (z. B. Magnetzünder, Lichtmagnetzünder, Zündspulen, Zündkerzen und Glühkerzen); mit den vorstehend genannten Motoren verwendete Lichtmaschinen (z. B. Gleich- und Wechselstrommaschinen) und Lade- oder Rückstromschalter, Teile davon</td></tr>
 <tr><td>8514</td><td>Elektrische Industrieöfen oder Laboratoriumsöfen, einschliesslich Induktionsöfen oder Öfen mit dielektrischer Erwärmung (ausg. Trockenöfen); andere Industrie- oder Laboratoriumsapparate zum Warmbehandeln von Stoffen mittels Induktion oder dielektrischer Erwärmung; Teile davon</td></tr>
 <tr><td>8515</td><td>Löt- und Schweissmaschinen, Schweissapparate und Schweissgeräte (auch wenn sie zum Schneiden verwendbar sind), elektrisch (auch mit elektrisch beheiztem Gas) oder mit Laserstrahl, Lichtstrahl oder anderem Photonenstrahl, mit Ultraschall, Elektronenstrahl, magnetischen Impulsen oder Plasmastrahl arbeitend; elektrische Maschinen, Apparate und Geräte zum Spritzen schmelzflüssiger Metalle, Hartmetalle oder Cermets; Teile davon (ausg. Warmspritzpistolen der Pos. 8424)</td></tr>
@@ -1656,13 +1658,13 @@ Anhang 7
 <tr><td>8530</td><td>Elektrische Verkehrssignal-, Verkehrssicherungs-, Verkehrsüberwachungs- und Verkehrssteuergeräte für Schienenwege oder dergleichen, Strassen, Binnenwasserstrassen, Parkplätze oder Parkhäuser, Hafenanlagen oder Flughäfen; Teile davon (ausg. mechanische oder elektromechanische Geräte der Pos. 8608)</td></tr>
 <tr><td>8531</td><td>Elektrische Hör- und Sichtsignalgeräte, (z. B. Läutewerke, Sirenen, Anzeigetafeln, Einbruchsalarmgeräte oder Diebstahlalarmgeräte und Feuermelder); Teile davon (ausg. von der für Kraftfahrzeuge, Fahrräder oder Verkehrswege verwendeten Art)</td></tr>
 <tr><td>8532</td><td>Elektrische Festkondensatoren, Drehkondensatoren und andere einstellbare Kondensatoren; Teile davon</td></tr>
-<tr><td>8533</td><td>Elektrische Widerstände, Teile davon (einschliesslich Rheostate und Potenziometer), ausgenommen Heizwiderstände</td></tr>
+<tr><td>8533</td><td>Elektrische Widerstände, Teile davon (einschl. Rheostate und Potenziometer), ausgenommen Heizwiderstände</td></tr>
 <tr><td>8534</td><td>Gedruckte Schaltungen</td></tr>
 <tr><td>8535</td><td>Elektrische Geräte zum Schliessen, Unterbrechen, Schützen oder Verbinden von elektrischen Stromkreisen (z. B. Schalter, Sicherungen, Blitzschutzvorrichtungen, Spannungsbegrenzer, Überspannungsableiter, Steckvorrichtungen und Verbindungskästen), für eine Spannung von mehr als 1 000 V (ausg. Schaltschränke, Schaltpulte, Steuerungen usw. der Pos. 8537)</td></tr>
 <tr><td>8536</td><td>Elektrische Geräte zum Schliessen, Unterbrechen, Schützen oder Verbinden von elektrischen Stromkreisen (z. B. Schalter, Relais, Sicherungen, Überspannungsableiter, Steckvorrichtungen, Lampenfassungen und Verbindungskästen), für eine Spannung von 1 000 V oder weniger (ausg. Schaltschränke, Schaltpulte, Steuerungen usw. der Pos. 8537)</td></tr>
-<tr><td>8537</td><td>Tafeln, Felder, Konsolen, Pulte, Schränke und andere Träger, mit mehreren Geräten der Pos. 8535 oder 8536, einschl. solcher mit eingebauten Instrumenten oder Geräten des Kapitels 90, zum elektrischen Schalten oder Steuern oder für die Stromverteilung sowie numerische Steuerungen (ausg. Vermittlungseinrichtungen für die drahtgebundene Fernsprechtechnik oder Telegrafentechnik oder Telegrafentechnik)</td></tr>
+<tr><td>8537</td><td>Tafeln, Felder, Konsolen, Pulte, Schränke und andere Träger, mit mehreren Geräten der Pos. 8535 oder 8536, einschliesslich solcher mit eingebauten Instrumenten oder Geräten des Kapitels 90, zum elektrischen Schalten oder Steuern oder für die Stromverteilung sowie numerische Steuerungen (ausg. Vermittlungseinrichtungen für die drahtgebundene Fernsprechtechnik oder Telegrafentechnik oder Telegrafentechnik)</td></tr>
 <tr><td>8538</td><td>Teile, erkennbar ausschliesslich oder hauptsächlich für Geräte der Pos. 8535, 8536 oder 8537 bestimmt, a.n.g.</td></tr>
-<tr><td>8539</td><td>Elektrische Glühlampen und Entladungslampen, einschl. innenverspiegelter Scheinwerferlampen (sealed beam lamp units), Ultraviolettlampen und Infrarotlampen sowie Bogenlampen; Teile davon</td></tr>
+<tr><td>8539</td><td>Elektrische Glühlampen und Entladungslampen, einschliesslich innenverspiegelter Scheinwerferlampen (sealed beam lamp units), Ultraviolettlampen und Infrarotlampen sowie Bogenlampen; Teile davon</td></tr>
 <tr><td>8540</td><td>Glühkathoden-, Kaltkathoden- und Fotokathoden-Elektronenröhren (z. B. Vakuumröhren, dampf- oder gasgefüllte Röhren, Quecksilberdampfgleichrichterröhren, Kathodenstrahlröhren und Bildaufnahmeröhren für Fernsehkameras), Teile davon</td></tr>
 <tr><td>8541</td><td>Dioden, Transistoren und ähnl. Halbleiterbauelemente; lichtempfindliche Halbleiterbauelemente (einschl. Fotoelemente, auch zu Modulen zusammengesetzt oder in Form von Tafeln) (ausg. fotovoltaische Generatoren); Leuchtdioden; gefasste oder montierte piezoelektrische Kristalle; Teile davon</td></tr>
 <tr><td>8542</td><td>Elektronische integrierte Schaltungen, Teile davon</td></tr>
@@ -1674,7 +1676,7 @@ Anhang 7
 <tr><td>8548</td><td>Abfälle und Schrott von elektrischen Primärelementen, Primärbatterien und Akkumulatoren; ausgebrauchte elektrische Primärelemente, Primärbatterien und Akkumulatoren; elektrische Teile von Maschinen, Apparaten oder Geräten, in Kapitel 85 anderweit weder genannt noch inbegriffen</td></tr>
 <tr><td></td><td>Vertrauliche Produkte des Kapitels 85; Waren des Kapitels 85, die als Post- oder Paketpostsendung (extra) versandt werden/zusammengesetzter Kode zur Verbreitung von Statistiken</td></tr>
 <tr><td>Kapitel 86</td><td>Schienenfahrzeuge und ortsfestes Gleismaterial, Teile davon; mechanische (auch elektromechanische) Signalgeräte für Verkehrswege</td></tr>
-<tr><td>8701</td><td>Zugmaschinen (ausgenommen Zugkraftkarren der Position 8709)</td></tr>
+<tr><td>8701</td><td>Zugmaschinen (ausg. Zugkraftkarren der Pos. 8709)</td></tr>
 <tr><td>8702</td><td>Kraftfahrzeuge zum Befördern von 10 oder mehr Personen, einschliesslich Fahrer:</td></tr>
 <tr><td>8704</td><td>Lastkraftwagen</td></tr>
 <tr><td>8705</td><td>Kraftfahrzeuge zu besonderen Zwecken, ihrer Beschaffenheit nach nicht hauptsächlich zur Personen- oder Güterbeförderung bestimmt (z. B. Abschleppwagen, Kranwagen, Feuerwehrwagen, Betonmischwagen, Strassenkehrwagen, Strassensprengwagen, Werkstattwagen, Wagen mit Röntgenanlage)</td></tr>
@@ -1685,9 +1687,9 @@ Anhang 7
 <tr><td>Kapitel 88</td><td>Luftfahrzeuge und Raumfahrzeuge, Teile davon</td></tr>
 <tr><td>Kapitel 89</td><td>Wasserfahrzeuge und schwimmende Vorrichtungen</td></tr>
 <tr><td>Kapitel 98</td><td>Vollständige Fabrikationsanlagen</td></tr>
-<tr><td>7106</td><td>Silber (einschliesslich vergoldetes oder platiniertes Silber), in Rohform oder als Halbzeug oder Pulver</td></tr>
+<tr><td>7106</td><td>Silber (einschl. vergoldetes oder platiniertes Silber), in Rohform oder als Halbzeug oder Pulver</td></tr>
 <tr><td>7107</td><td>Silberplattierungen auf unedlen Metallen, in Rohform oder als Halbzeug</td></tr>
-<tr><td>7108</td><td>Gold (einschliesslich platiniertes Gold), in Rohform oder als Halbzeug oder Pulver</td></tr>
+<tr><td>7108</td><td>Gold (einschl. platiniertes Gold), in Rohform oder als Halbzeug oder Pulver</td></tr>
 <tr><td>7109</td><td>Goldplattierungen auf unedlen Metallen oder auf Silber, in Rohform oder als Halbzeug</td></tr>
 <tr><td>7110</td><td>Platin, in Rohform oder als Halbzeug oder Pulver</td></tr>
 <tr><td>7111</td><td>Platinplattierungen auf unedlen Metallen, auf Silber oder auf Gold, in Rohform oder als Halbzeug</td></tr>
@@ -1697,7 +1699,7 @@ Anhang 7
 <tr><td>9015</td><td>Instrumente, Apparate und Geräte für die Geodäsie, Topografie, Fotogrammmetrie, Hydrografie, Ozeanografie, Hydrologie, Meteorologie oder Geophysik, ausgenommen Kompasse; Entfernungsmesser</td></tr>
 <tr><td>9025</td><td>Dichtemesser (Aräometer, Senkwaagen) und ähnliche schwimmende Instrumente, Thermometer, Pyrometer, Barometer, Hygrometer und Psychrometer, auch mit Registriervorrichtung, auch miteinander kombiniert</td></tr>
 <tr><td>9026</td><td>Instrumente, Apparate und Geräte zum Messen oder Überwachen von Durchfluss, Füllhöhe, Druck oder anderen veränderlichen Grössen von Flüssigkeiten oder Gasen (z. B. Durchflussmesser, Flüssigkeitsstand- oder Gasstandanzeiger, Manometer, Wärmemengenzähler), ausgenommen Instrumente, Apparate und Geräte der Position 9014, 9015, 9028 oder 9032</td></tr>
-<tr><td>9027</td><td>Instrumente, Apparate und Geräte für physikalische oder chemische Untersuchungen (z. B. Polarimeter, Refraktometer, Spektrometer und Untersuchungsgeräte für Gase oder Rauch); Instrumente, Apparate und Geräte zum Bestimmen der Viskosität, Porosität, Dilatation, Oberflächenspannung oder dergleichen oder für kalorimetrische, akustische oder fotometrische Messungen (einschliesslich Belichtungsmesser); Mikrotome</td></tr>
+<tr><td>9027</td><td>Instrumente, Apparate und Geräte für physikalische oder chemische Untersuchungen (z. B. Polarimeter, Refraktometer, Spektrometer und Untersuchungsgeräte für Gase oder Rauch); Instrumente, Apparate und Geräte zum Bestimmen der Viskosität, Porosität, Dilatation, Oberflächenspannung oder dergleichen oder für kalorimetrische, akustische oder fotometrische Messungen (einschl. Belichtungsmesser); Mikrotome</td></tr>
 <tr><td>9028</td><td>Gaszähler, Flüssigkeitszähler oder Elektrizitätszähler, einschliesslich Eichzähler dafür</td></tr>
 <tr><td>9029</td><td>Andere Zähler (z. B. Tourenzähler, Produktionszähler, Taxameter, Kilometerzähler oder Schrittzähler); Tachometer und andere Geschwindigkeitsmesser, ausgenommen solche der Position 9014 oder 9015; Stroboskope</td></tr>
 <tr><td>9030</td><td>Oszilloskope, Spektralanalysatoren und andere Instrumente, Apparate und Geräte zum Messen oder Prüfen elektrischer Grössen; ausgenommen Zähler der Position 9028, Instrumente, Apparate und Geräte zum Messen oder zum Nachweis von Alpha-, Beta-, Gamma-, Röntgenstrahlen, kosmischen oder anderen ionisierenden Strahlen</td></tr>
@@ -1706,7 +1708,7 @@ Anhang 7
 <tr><td>9033</td><td>Teile und Zubehör (in Kapitel 90 anderweit weder genannt noch inbegriffen) für Maschinen, Apparate, Geräte, Instrumente oder andere Waren des Kapitels 90</td></tr>
 </table>
 
-Anhang 8[^t-7]
+Anhang 8[^t-8]
 
 (Art. 15 Abs. 1 und 4 sowie 29 Abs. 1)
 
@@ -1714,8 +1716,8 @@ Anhang 8[^t-7]
 
 [^annex8-lvlu1-1]
 
-[^t-7]: Bereinigt gemäss Ziff. I der V des WBF vom 15. März 2022 ([AS 2022 173](https://fedlex.data.admin.ch/eli/oc/2022/173)), vom 13. April 2022 ([AS 2022 237](https://fedlex.data.admin.ch/eli/oc/2022/237)), vom 3. Mai 2022 ([AS 2022 270](https://fedlex.data.admin.ch/eli/oc/2022/270)), Ziff. I Abs. 1 der V des WBF vom 10. Juni 2022 ([AS 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)), vom 28. Juli 2022 ([AS 2022 432](https://fedlex.data.admin.ch/eli/oc/2022/432)), Ziff. II Abs. 1 der V vom 3. Aug. 2022, in Kraft seit 3. Aug. 2022 um 18.00 Uhr ([AS 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)), Ziff. I der V des WBF vom 16. Aug. 2022 ([AS 2022 451](https://fedlex.data.admin.ch/eli/oc/2022/451)), vom 8. Sept. 2022 ([AS 2022 500](https://fedlex.data.admin.ch/eli/oc/2022/500)), vom 26. Sept. 2022 ([AS 2022 533](https://fedlex.data.admin.ch/eli/oc/2022/533)), Ziff. I Abs. 1 der V des WBF vom 11. Okt. 2022 ([AS 2022 578](https://fedlex.data.admin.ch/eli/oc/2022/578)) und Ziff. I der V des WBF vom 31. Okt. 2022, in Kraft seit 1. Nov. 2022 um 18.00 Uhr ([AS 2022 631](https://fedlex.data.admin.ch/eli/oc/2022/631)).
-[^annex8-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter [https://fedlex.data.admin.ch/eli/oc/2022/631](https://fedlex.data.admin.ch/eli/oc/2022/631) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-8]: Bereinigt gemäss Ziff. I der V des WBF vom 15. März 2022 ([AS 2022 173](https://fedlex.data.admin.ch/eli/oc/2022/173)), vom 13. April 2022 ([AS 2022 237](https://fedlex.data.admin.ch/eli/oc/2022/237)), vom 3. Mai 2022 ([AS 2022 270](https://fedlex.data.admin.ch/eli/oc/2022/270)), Ziff. I Abs. 1 der V des WBF vom 10. Juni 2022 ([AS 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)), vom 28. Juli 2022 ([AS 2022 432](https://fedlex.data.admin.ch/eli/oc/2022/432)), Ziff. II Abs. 1 der V vom 3. Aug. 2022, in Kraft seit 3. Aug. 2022 um 18.00 Uhr ([AS 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)), Ziff. I der V des WBF vom 16. Aug. 2022 ([AS 2022 451](https://fedlex.data.admin.ch/eli/oc/2022/451)), vom 8. Sept. 2022 ([AS 2022 500](https://fedlex.data.admin.ch/eli/oc/2022/500)), vom 26. Sept. 2022 ([AS 2022 533](https://fedlex.data.admin.ch/eli/oc/2022/533)), Ziff. I Abs. 1 der V des WBF vom 11. Okt. 2022 ([AS 2022 578](https://fedlex.data.admin.ch/eli/oc/2022/578)), Ziff. I der V des WBF vom 31. Okt. 2022 ([AS 2022 631](https://fedlex.data.admin.ch/eli/oc/2022/631)) und Ziff. I Abs. 1 der V des WBF vom 7. Dez. 2022, in Kraft seit 8. Dez. 2022 um 18.00 Uhr ([AS 2022 780](https://fedlex.data.admin.ch/eli/oc/2022/780)).
+[^annex8-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/ eli/oc/2022/780](https://fedlex.data.admin.ch/eli/oc/2022/780)&gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 9
 
@@ -1737,7 +1739,7 @@ Anhang 10
 
 [^annex10-lvlu1-1]: Der Anhang wird weder in der AS noch in der SR veröffentlicht. Der Inhalt kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2022/432](https://fedlex.data.admin.ch/eli/oc/2022/432) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
-Anhang 11[^t-8]
+Anhang 11[^t-9]
 
 (Art. 18 Abs. 2 Bst. a und b)
 
@@ -1745,7 +1747,7 @@ Anhang 11[^t-8]
 
 [^annex11-lvlu1-1]
 
-[^t-8]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 25. März 2022, in Kraft seit 25. März 2022 um 23.00 Uhr ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
+[^t-9]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 25. März 2022, in Kraft seit 25. März 2022 um 23.00 Uhr ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
 [^annex11-lvlu1-1]: Der Anhang wird weder in der AS noch in der SR veröffentlicht. Der Inhalt kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2022/432](https://fedlex.data.admin.ch/eli/oc/2022/432) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 12
@@ -1768,7 +1770,7 @@ Anhang 13
 
 [^annex13-lvlu1-1]: Der Anhang wird weder in der AS noch in der SR veröffentlicht. Der Inhalt kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2022/432](https://fedlex.data.admin.ch/eli/oc/2022/432) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
-Anhang 14[^t-9]
+Anhang 14[^t-10]
 
 (Art. 27)
 
@@ -1776,10 +1778,10 @@ Anhang 14[^t-9]
 
 [^annex14-lvlu1-1]
 
-[^t-9]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 27. April 2022 ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)) und Ziff. I Abs. 1 der V des WBF vom 10. Juni 2022, in Kraft seit 10. Juni 2022 um 18.00 Uhr ([AS 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)).
+[^t-10]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 27. April 2022 ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)) und Ziff. I Abs. 1 der V des WBF vom 10. Juni 2022, in Kraft seit 10. Juni 2022 um 18.00 Uhr ([AS 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)).
 [^annex14-lvlu1-1]: Der Anhang wird weder in der AS noch in der SR veröffentlicht. Der Inhalt kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2022/432](https://fedlex.data.admin.ch/eli/oc/2022/432) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
-Anhang 15[^t-10]
+Anhang 15[^t-11]
 
 (Art. 24*a* Abs. 1 Bst. a)
 
@@ -1787,16 +1789,16 @@ Anhang 15[^t-10]
 
 [^annex15-lvlu1-1]
 
-[^t-10]: Eingefügt durch Ziff. II Abs. 2 der V vom 25. März 2022 ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)). Bereinigt gemäss Ziff. II Abs. 1 der V vom 23. Nov. 2022, in Kraft seit 23. Nov. 2022 um 18.00 Uhr ([AS 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
+[^t-11]: Eingefügt durch Ziff. II Abs. 2 der V vom 25. März 2022 ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)). Bereinigt gemäss Ziff. II Abs. 1 der V vom 23. Nov. 2022, in Kraft seit 23. Nov. 2022 um 18.00 Uhr ([AS 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
 [^annex15-lvlu1-1]: Der Inhalt dieser Anhänge wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2022/708](https://fedlex.data.admin.ch/eli/oc/2022/708) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
-Anhang 16[^t-11]
+Anhang 16[^t-12]
 
 (Art. 9*a* Abs. 1)
 
 ## Güter und Technologien der Seeschifffahrt
 
-[^t-11]: Eingefügt durch Ziff. II Abs. 2 der V vom 25. März 2022, in Kraft seit 25. März 2022 um 23.00 Uhr ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
+[^t-12]: Eingefügt durch Ziff. II Abs. 2 der V vom 25. März 2022, in Kraft seit 25. März 2022 um 23.00 Uhr ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
 
 Kategorie VI – Meeres- und Schiffstechnik
 
@@ -1817,13 +1819,13 @@ Kategorie VI – Meeres- und Schiffstechnik
 <tr><td>ex 8517</td><td>Telefonapparate, einschliesslich Smartphones und andere Telefone für zellulare Netze und für andere drahtlose Netze; andere Sende-, Übermittlungs- oder Empfangsgeräte für Sprache, Bilder oder andere Daten, einschliesslich Apparate für den Informationsaustausch in einem drahtgebundenen oder drahtlosen Netz (wie ein lokales Netz (LAN) oder ein Weitverkehrsnetz (WAN)), andere als solche der Nrn. 8443, 8525, 8527 oder 8528 (einschliesslich Teile)</td></tr>
 </table>
 
-Anhang 17[^t-12]
+Anhang 17[^t-13]
 
 (Art. 14*a* Abs. 1 und 2)
 
 ## Eisen- und Stahlerzeugnisse
 
-[^t-12]: Eingefügt durch Ziff. II Abs. 2 der V vom 25. März 2022 ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)). Fassung gemäss Ziff. II Abs. 3 der V vom 23. Nov. 2022, in Kraft seit 23. Nov. 2022 um 18.00 Uhr ([AS 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
+[^t-13]: Eingefügt durch Ziff. II Abs. 2 der V vom 25. März 2022 ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)). Fassung gemäss Ziff. II Abs. 3 der V vom 23. Nov. 2022, in Kraft seit 23. Nov. 2022 um 18.00 Uhr ([AS 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
 
 ### 1. Güter, die vor dem 23. November 2022 in den Anhang aufgenommen wurden
 
@@ -1914,13 +1916,13 @@ Anhang 17[^t-12]
 <tr><td>7326</td><td>Waren aus Eisen oder Stahl, a.n.g. (ausg. gegossen)</td></tr>
 </table>
 
-Anhang 18[^t-13]
+Anhang 18[^t-14]
 
 (Art. 14*b* Abs. 1 und 2 Bst. c)
 
 ## Luxusgüter
 
-[^t-13]: Eingefügt durch Ziff. II Abs. 2 der V vom 25. März 2022 ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)). Fassung gemäss Ziff. II der V vom 31. Aug. 2022, in Kraft seit 31. Aug. 2022 um 18.00 Uhr ([AS 2022 477](https://fedlex.data.admin.ch/eli/oc/2022/477)).
+[^t-14]: Eingefügt durch Ziff. II Abs. 2 der V vom 25. März 2022 ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)). Fassung gemäss Ziff. I Abs. 2 der V des WBF vom 7. Dez. 2022, in Kraft seit 8. Dez. 2022 um 18.00 Uhr ([AS 2022 780](https://fedlex.data.admin.ch/eli/oc/2022/780)).
 
 Sofern in diesem Anhang nichts anderes angegeben ist, gilt das Verbot nach Artikel 14*b* für Luxusgüter mit einem Stückpreis von über 300 Franken.
 
@@ -1950,12 +1952,12 @@ Sofern in diesem Anhang nichts anderes angegeben ist, gilt das Verbot nach Artik
 <tr><td>ex</td><td>0712 39 00</td><td>andere</td></tr>
 <tr><td>ex</td><td>2001 90 98</td><td>andere</td></tr>
 <tr><td></td><td>2003 90 10</td><td>Trüffel</td></tr>
-<tr><td>ex</td><td>2103 90 90</td><td>andere</td></tr>
+<tr><td>ex</td><td>2103 90 00</td><td>andere</td></tr>
 <tr><td>ex</td><td>2104 10 00</td><td>Zubereitungen zum Herstellen von Suppen oder Brühen; Suppen und Brühen, zubereitet</td></tr>
 <tr><td>ex</td><td>2106 90</td><td>Lebensmittelzubereitungen, anderweit weder genannt noch inbegriffen</td></tr>
 </table>
 
-### 4. Weine (einschliesslich Schaumweine), Biere, Branntweine und andere alkoholhaltige Getränke
+### 4. Weine (einschl. Schaumweine), Biere, Branntweine und andere alkoholhaltige Getränke
 
 <table>
 <tr><th></th><th>Zolltarifnummer</th><th>Bezeichnung</th></tr>
@@ -1973,7 +1975,7 @@ Sofern in diesem Anhang nichts anderes angegeben ist, gilt das Verbot nach Artik
 
 <table>
 <tr><th></th><th>Zolltarifnummer</th><th>Bezeichnung</th></tr>
-<tr><td></td><td>2402 10</td><td>Zigarren (einschliesslich Stumpen) und Zigarillos, Tabak enthaltend</td></tr>
+<tr><td></td><td>2402 10</td><td>Zigarren (einschl. Stumpen) und Zigarillos, Tabak enthaltend</td></tr>
 <tr><td>ex</td><td>2402 90</td><td>andere</td></tr>
 </table>
 
@@ -1992,8 +1994,8 @@ Sofern in diesem Anhang nichts anderes angegeben ist, gilt das Verbot nach Artik
 
 <table>
 <tr><th></th><th>Zolltarifnummer</th><th>Bezeichnung</th></tr>
-<tr><td></td><td>4201</td><td>Sattlerwaren für alle Tiere (einschliesslich Zugtaue, Leinen, Kniekappen, Maulkörbe, Satteldecken, Satteltaschen, Hundedecken und ähnliche Waren), aus Stoffen aller Art</td></tr>
-<tr><td></td><td>4202</td><td>Reisekoffer, Handkoffer aller Art, einschliesslich Toiletten- und Dokumentenkoffer, Aktenmappen, Schulsäcke, Brillenetuis, Etuis für Ferngläser, Fotoapparate, Filmkameras, Musikinstrumente oder Waffen und ähnliche Behältnisse; Reisetaschen, Isoliertaschen für Lebensmittel und Getränke, Toilette-Necessaires, Rucksäcke, Handtaschen, Einkaufstaschen, Brieftaschen, Geldbeutel, Kartentaschen, Zigarettenetuis, Tabakbeutel, Werkzeugtaschen, Taschen für Sportgeräte, Schachteln für Flakons oder Schmuck, Puderdosen, Etuis für Gold- und Silberschmiedewaren und ähnliche Behältnisse aus Leder, rekonstituiertem Leder, Kunststofffolien, Spinnstoffen, Vulkanfiber oder Pappe, oder ganz oder vorwiegend mit diesen Stoffen oder Papier überzogen</td></tr>
+<tr><td></td><td>4201</td><td>Sattlerwaren für alle Tiere (einschl. Zugtaue, Leinen, Kniekappen, Maulkörbe, Satteldecken, Satteltaschen, Hundedecken und ähnliche Waren), aus Stoffen aller Art</td></tr>
+<tr><td></td><td>4202</td><td>Reisekoffer, Handkoffer aller Art, einschliesslich Toiletten- und Dokumentenkoffer, Aktenmappen, Schulsäcke, Brillenetuis, Etuis für Ferngläser, Fotoapparate, Filmkameras, Musikinstrumente oder Waffen und ähnliche Behältnisse; Reisetaschen, Isoliertaschen für Lebensmittel und Getränke, Toilette-Necessaires, Rucksäcke, Handtaschen, Einkaufstaschen, Brieftaschen, Geldbeutel, Kartentaschen, Zigarettenetuis, Tabakbeutel, Werkzeugtaschen, Taschen für Sportgeräte, Schachteln für Flakons oder Schmuck, Puderdosen, Etuis für Gold- und Silberschmiedewaren und ähnliche Behältnisse aus Leder, rekonstituiertem Leder, Kunststofffolien, Spinnstoffen, Vulkanfiber oder Pappe oder ganz oder vorwiegend mit diesen Stoffen oder Papier überzogen</td></tr>
 <tr><td></td><td>4205 00</td><td>andere Waren aus Leder oder rekonstituiertem Leder</td></tr>
 <tr><td></td><td>9605</td><td>Reisezusammenstellungen (Necessaires) von Waren zur Körperpflege, zum Nähen oder zum Reinigen von Schuhen oder Bekleidungen</td></tr>
 </table>
@@ -2016,9 +2018,9 @@ Sofern in diesem Anhang nichts anderes angegeben ist, gilt das Verbot nach Artik
 <tr><td></td><td>6110</td><td>Pullover, Westen (Cardigans), Gilets und ähnliche Waren, einschliesslich Unterziehpullis, gewirkt oder gestrickt</td></tr>
 <tr><td></td><td>6111</td><td>Bekleidung und Bekleidungszubehör, gewirkt oder gestrickt, für Kleinkinder</td></tr>
 <tr><td></td><td>6112</td><td>Trainingsanzüge, Skianzüge und Skiensembles, Badeanzüge und -hosen, gewirkt oder gestrickt</td></tr>
-<tr><td></td><td>6113</td><td>Bekleidung aus gewirkten oder gestrickten Stoffen der Nrn. 5903, 5906 oder 5907</td></tr>
+<tr><td></td><td>6113</td><td>Bekleidung aus gewirkten oder gestrickten Stoffen der Nr. 5903, 5906 oder 5907</td></tr>
 <tr><td></td><td>6114</td><td>Andere Bekleidung, gewirkt oder gestrickt</td></tr>
-<tr><td></td><td>6115</td><td>Strumpfhosen, Strümpfe, Kniestrümpfe, Socken und andere Strumpfwaren, einschliesslich Strumpfhosen, Strümpfe und Kniestrümpfe mit degressiver Kompression (z.B. Krampfadernstrümpfe), gewirkt oder gestrickt</td></tr>
+<tr><td></td><td>6115</td><td>Strumpfhosen, Strümpfe, Kniestrümpfe, Socken und andere Strumpfwaren, einschliesslich Strumpfhosen, Strümpfe und Kniestrümpfe mit degressiver Kompression (z. B. Krampfadernstrümpfe), gewirkt oder gestrickt</td></tr>
 <tr><td></td><td>6116</td><td>Handschuhe, Halbhandschuhe (Handschuhe ohne Fingerspitzen) und Fausthandschuhe, gewirkt oder gestrickt</td></tr>
 <tr><td></td><td>6117</td><td>Anderes konfektioniertes Bekleidungszubehör, gewirkt oder gestrickt; Teile von Bekleidung oder von Bekleidungszubehör, gewirkt oder gestrickt</td></tr>
 <tr><td></td><td>6201</td><td>Mäntel, Cabans, ärmellose Umhänge (Capes), Anoraks, Blousons (Windjacken) und ähnliche Waren, für Männer oder Knaben, ausgenommen Waren der Nr. 6203</td></tr>
@@ -2030,7 +2032,7 @@ Sofern in diesem Anhang nichts anderes angegeben ist, gilt das Verbot nach Artik
 <tr><td></td><td>6207</td><td>Unterleibchen, Slips und andere Unterhosen, Nachthemden, Schlafanzüge (Pyjamas), Bademäntel, Hauskleider und ähnliche Waren, für Männer oder Knaben</td></tr>
 <tr><td></td><td>6208</td><td>Unterleibchen und Unterhemden, Unterröcke, Halbunterröcke, Slips und andere Unterhosen, Nachthemden, Schlafanzüge (Pyjamas), Negligés, Bademäntel, Hauskleider und ähnliche Waren, für Frauen oder Mädchen</td></tr>
 <tr><td></td><td>6209</td><td>Bekleidung und Bekleidungszubehör, für Kleinkinder</td></tr>
-<tr><td></td><td>6210</td><td>Bekleidung aus Erzeugnissen der Nrn. 5602, 5603, 5903, 5906 oder 5907</td></tr>
+<tr><td></td><td>6210</td><td>Bekleidung aus Erzeugnissen der Nr. 5602, 5603, 5903, 5906 oder 5907</td></tr>
 <tr><td></td><td>6211</td><td>Trainingsanzüge, Skianzüge und Skiensembles, Badeanzüge und -hosen; andere Bekleidung</td></tr>
 <tr><td></td><td>6212</td><td>Büstenhalter, Hüftgürtel, Korsette, Hosenträger, Strumpfhalter, Strumpfbänder und ähnliche Waren, und Teile davon, auch gewirkt oder gestrickt</td></tr>
 <tr><td></td><td>6213</td><td>Taschentücher und Ziertaschentücher</td></tr>
@@ -2053,7 +2055,7 @@ Sofern in diesem Anhang nichts anderes angegeben ist, gilt das Verbot nach Artik
 <tr><td></td><td>6404 20</td><td>Schuhe mit Laufsohlen aus Leder oder rekonstituiertem Leder</td></tr>
 <tr><td></td><td>6405</td><td>Andere Schuhe</td></tr>
 <tr><td></td><td>6504</td><td>Hüte und andere Kopfbedeckungen, geflochten oder durch Verbindung von Streifen hergestellt, aus Stoffen aller Art, auch ausgestattet</td></tr>
-<tr><td></td><td>6505</td><td>Hüte und andere Kopfbedeckungen, gewirkt oder gestrickt oder aus Stücken (ausgenommen Streifen) von Spitzen, Filz oder anderen Spinnstofferzeugnissen hergestellt, auch ausgestattet; Haarnetze aus Stoffen aller Art, auch ausgestattet</td></tr>
+<tr><td></td><td>6505</td><td>Hüte und andere Kopfbedeckungen, gewirkt oder gestrickt oder aus Stücken (ausg. Streifen) von Spitzen, Filz oder anderen Spinnstofferzeugnissen hergestellt, auch ausgestattet; Haarnetze aus Stoffen aller Art, auch ausgestattet</td></tr>
 <tr><td></td><td>6506 99</td><td>Andere Hüte und Kopfbedeckungen, auch ausgestattet, aus anderen Stoffen</td></tr>
 <tr><td></td><td>6601 91</td><td>Schirme mit teleskopischem Unter- oder Griffstock</td></tr>
 <tr><td></td><td>6601 99</td><td>andere</td></tr>
@@ -2077,7 +2079,7 @@ Sofern in diesem Anhang nichts anderes angegeben ist, gilt das Verbot nach Artik
 <tr><td></td><td>5702 91</td><td>andere, ohne Flor, konfektioniert, aus Wolle oder feinen Tierhaaren</td></tr>
 <tr><td></td><td>5702 92</td><td>andere, ohne Flor, konfektioniert, aus synthetischen oder künstlichen Spinnstoffen</td></tr>
 <tr><td></td><td>5702 99</td><td>andere, ohne Flor, konfektioniert, aus anderen Spinnstoffen</td></tr>
-<tr><td></td><td>5703 00 00</td><td>Teppiche und andere Bodenbeläge aus Spinnstoffen (einschliesslich Rasen), getuftet, auch konfektioniert</td></tr>
+<tr><td></td><td>5703 00 00</td><td>Teppiche und andere Bodenbeläge aus Spinnstoffen (einschl. Rasen), getuftet, auch konfektioniert</td></tr>
 <tr><td></td><td>5704</td><td>Teppiche und andere Bodenbeläge, aus Filz, weder getuftet noch beflockt, auch konfektioniert</td></tr>
 <tr><td></td><td>5705</td><td>Andere Teppiche und Bodenbeläge aus Spinnstoffen, auch konfektioniert</td></tr>
 <tr><td></td><td>5805</td><td>Tapisserien, handgewebt (Gobelins, Flandres, Aubusson, Beauvais und ähnliche) und Tapisserien als Nadelarbeit (z. B. Petit-Point, Kreuzstich), auch konfektioniert</td></tr>
@@ -2092,9 +2094,9 @@ Sofern in diesem Anhang nichts anderes angegeben ist, gilt das Verbot nach Artik
 <tr><td></td><td>7103</td><td>Edelsteine und Schmucksteine, andere als Diamanten, auch bearbeitet oder assortiert, jedoch weder aufgereiht noch montiert oder gefasst; Edelsteine und Schmucksteine, andere als Diamanten, nicht assortiert, zur Erleichterung des Transportes vorübergehend aufgereiht</td></tr>
 <tr><td>ex</td><td>7104 91 00</td><td>Diamanten, ausgenommen zu industriellen Zwecken</td></tr>
 <tr><td>ex</td><td>7105</td><td>Staub und Pulver von Edelsteinen, Schmucksteinen oder synthetischen Steinen, ausgenommen zu industriellen Zwecken</td></tr>
-<tr><td></td><td>7106</td><td>Silber (einschliesslich vergoldetes oder platiniertes Silber), in Rohform oder in Form von Halbzeug oder Pulver</td></tr>
+<tr><td></td><td>7106</td><td>Silber (einschl. vergoldetes oder platiniertes Silber), in Rohform oder in Form von Halbzeug oder Pulver</td></tr>
 <tr><td></td><td>7107</td><td>Silberplattierungen auf unedlen Metallen, in Rohform oder in Form von Halbzeug</td></tr>
-<tr><td></td><td>7108</td><td>Gold (einschliesslich platiniertes Gold), in Rohform oder in Form von Halbzeug oder Pulver</td></tr>
+<tr><td></td><td>7108</td><td>Gold (einschl. platiniertes Gold), in Rohform oder in Form von Halbzeug oder Pulver</td></tr>
 <tr><td></td><td>7109</td><td>Goldplattierungen auf unedlen Metallen oder auf Silber, in Rohform oder in Form von Halbzeug</td></tr>
 <tr><td></td><td>7110</td><td>Platin (inkl. Iridium, Osmium, Palladium, Rhodium und Ruthenium), in Rohform oder in Form von Halbzeug oder Pulver</td></tr>
 <tr><td></td><td>7111</td><td>Platinplattierungen auf unedlen Metallen, auf Silber oder auf Gold, in Rohform oder in Form von Halbzeug</td></tr>
@@ -2109,7 +2111,7 @@ Sofern in diesem Anhang nichts anderes angegeben ist, gilt das Verbot nach Artik
 <table>
 <tr><th></th><th>Zolltarifnummer</th><th>Bezeichnung</th></tr>
 <tr><td>ex</td><td>4907</td><td>Banknoten</td></tr>
-<tr><td></td><td>7118 10</td><td>Münzen (ausgenommen Goldmünzen), andere als gesetzliche Zahlungsmittel</td></tr>
+<tr><td></td><td>7118 10</td><td>Münzen (ausg. Goldmünzen), andere als gesetzliche Zahlungsmittel</td></tr>
 <tr><td></td><td>7118 90</td><td>andere</td></tr>
 </table>
 
@@ -2117,7 +2119,7 @@ Sofern in diesem Anhang nichts anderes angegeben ist, gilt das Verbot nach Artik
 
 <table>
 <tr><th></th><th>Zolltarifnummer</th><th>Bezeichnung</th></tr>
-<tr><td>ex</td><td>8214</td><td>Andere Messerschmiedewaren (z. B. Haarschneide- und Schermaschinen, Spaltmesser, Hackmesser und Wiegemesser für Metzger und zum Küchengebrauch und Papiermesser); Messerschmiedewaren und Zusammenstellungen, zur Hand- oder Fusspflege (einschliesslich Nagelfeilen)</td></tr>
+<tr><td>ex</td><td>8214</td><td>Andere Messerschmiedewaren (z. B. Haarschneide- und Schermaschinen, Spaltmesser, Hackmesser und Wiegemesser für Metzger und zum Küchengebrauch und Papiermesser); Messerschmiedewaren und Zusammenstellungen, zur Hand- oder Fusspflege (einschl. Nagelfeilen)</td></tr>
 <tr><td>ex</td><td>8215</td><td>Löffel, Gabeln, Schöpfkellen, Schaumlöffel, Tortenschaufeln, Fischmesser, Buttermesser, Zuckerzangen und ähnliche Waren</td></tr>
 <tr><td>ex</td><td>9307</td><td>Säbel, Degen, Bajonette, Lanzen und andere blanke Waffen, Teile davon sowie Scheiden</td></tr>
 </table>
@@ -2226,7 +2228,7 @@ Sofern in diesem Anhang nichts anderes angegeben ist, gilt das Verbot nach Artik
 
 <table>
 <tr><th></th><th>Zolltarifnummer</th><th>Bezeichnung</th></tr>
-<tr><td>ex</td><td>4011 10</td><td>neue Luftreifen, aus Kautschuk, der für Personenautomobile (einschliesslich «Breaks» und Rennwagen) verwendeten Art</td></tr>
+<tr><td>ex</td><td>4011 10</td><td>neue Luftreifen, aus Kautschuk, der für Personenautomobile (einschl. «Breaks» und Rennwagen) verwendeten Art</td></tr>
 <tr><td>ex</td><td>4011 20</td><td>neue Luftreifen, aus Kautschuk, der für Gesellschaftswagen oder Lastwagen verwendeten Art</td></tr>
 <tr><td>ex</td><td>4011 30</td><td>neue Luftreifen, aus Kautschuk, von der für Luftfahrzeuge verwendeten Art</td></tr>
 <tr><td>ex</td><td>4011 40</td><td>neue Luftreifen, aus Kautschuk, der für Motorräder verwendeten Art</td></tr>
@@ -2234,11 +2236,11 @@ Sofern in diesem Anhang nichts anderes angegeben ist, gilt das Verbot nach Artik
 <tr><td>ex</td><td>7009 10</td><td>Rückspiegel für Fahrzeuge</td></tr>
 <tr><td>ex</td><td>8407</td><td>Hubkolben- oder Kreiskolbenmotoren mit Funkenzündung (Verbrennungsmotoren)</td></tr>
 <tr><td>ex</td><td>8408</td><td>Hubkolben- oder Kreiskolbenmotoren mit Funkenzündung (Verbrennungsmotoren)</td></tr>
-<tr><td>ex</td><td>8409</td><td>Teile, erkennbar als ausschliesslich oder hauptsächlich für Motoren der Nrn. 8407 oder 8408 bestimmt</td></tr>
+<tr><td>ex</td><td>8409</td><td>Teile, erkennbar als ausschliesslich oder hauptsächlich für Motoren der Nr. 8407 oder 8408 bestimmt</td></tr>
 <tr><td>ex</td><td>8411</td><td>Turbostrahltriebwerke, Turbopropellertriebwerke und andere Gasturbinen</td></tr>
-<tr><td>ex</td><td>8428 60</td><td>Seilschwebebahnen (einschliesslich Sessellifte und Schlepplifte); Zugmechanismen für Standseilbahnen</td></tr>
+<tr><td>ex</td><td>8428 60</td><td>Seilschwebebahnen (einschl. Sessellifte und Schlepplifte); Zugmechanismen für Standseilbahnen</td></tr>
 <tr><td>ex</td><td>8431 39</td><td>Zubehör und Ersatzteile für Seilschwebebahnen, Sessellifte und Schlepplifte; Zugmechanismen für Standseilbahnen</td></tr>
-<tr><td>ex</td><td>8483</td><td>Transmissionswellen (einschliesslich Nockenwellen und Kurbelwellen) und Kurbeln; Lagergehäuse und Lagerschalen; Zahnradgetriebe und Friktionsräder; Umlaufspindeln mit Kugeln oder Rollen; Untersetzungs-, Übersetzungs- und Wechselgetriebe, einschliesslich Drehmomentwandler; Schwungräder, Riemen- und Seilscheiben, einschliesslich Rollenblöcke für Flaschenzüge; Schaltkupplungen und andere Wellenkupplungen, einschliesslich Gelenkverbindungen</td></tr>
+<tr><td>ex</td><td>8483</td><td>Transmissionswellen (einschl. Nockenwellen und Kurbelwellen) und Kurbeln; Lagergehäuse und Lagerschalen; Zahnradgetriebe und Friktionsräder; Umlaufspindeln mit Kugeln oder Rollen; Untersetzungs-, Übersetzungs- und Wechselgetriebe, einschliesslich Drehmomentwandler; Schwungräder, Riemen- und Seilscheiben, einschliesslich Rollenblöcke für Flaschenzüge; Schaltkupplungen und andere Wellenkupplungen, einschliesslich Gelenkverbindungen</td></tr>
 <tr><td>ex</td><td>8511</td><td>Elektrische Zündapparate, Zündvorrichtungen und Anlasser für Motoren mit Funken- oder Kompressionszündung (z. B. Magnetzünder, Lichtmagnetzünder, Zündspulen, Zünd- oder Glühkerzen); mit diesen Motoren verwendete Generatoren (z. B. Gleich- und Wechselstromerzeuger) und Lade- oder Rückstromschalter</td></tr>
 <tr><td>ex</td><td>8512 20</td><td>andere Beleuchtungsgeräte oder Geräte zum Geben von sichtbaren Signalen</td></tr>
 <tr><td>ex</td><td>8512 30</td><td>Diebstahlalarmanlagen von der für Kraftfahrzeuge verwendeten Art</td></tr>
@@ -2246,16 +2248,16 @@ Sofern in diesem Anhang nichts anderes angegeben ist, gilt das Verbot nach Artik
 <tr><td>ex</td><td>8512 40</td><td>Scheibenwischer, Scheibenentfroster und Vorrichtungen gegen das Beschlagen der Fensterscheiben</td></tr>
 <tr><td>ex</td><td>8544 30</td><td>Zündkabelsätze und andere Kabelsätze der für Beförderungsmittel verwendeten Art</td></tr>
 <tr><td>ex</td><td>8603</td><td>Triebwagen und Schienenbusse, ausgenommen solche der Nr. 8604</td></tr>
-<tr><td>ex</td><td>8605</td><td>Personenwagen, Gepäckwagen, Postwagen und andere schienengebundene Spezialwagen (ausgenommen Wagen der Nr. 8604 )</td></tr>
+<tr><td>ex</td><td>8605</td><td>Personenwagen, Gepäckwagen, Postwagen und andere schienengebundene Spezialwagen (ausg. Wagen der Nr. 8604)</td></tr>
 <tr><td>ex</td><td>8607</td><td>Teile von Schienenfahrzeugen</td></tr>
 <tr><td>ex</td><td>8702</td><td>Automobile zum Befördern von 10 Personen oder mehr, einschliesslich Fahrer</td></tr>
 <tr><td>ex</td><td>8703</td><td>Personenautomobile und andere hauptsächlich zum Befördern von Personen gebaute Automobile (andere als solche der Nr. 8702), einschliesslich «Breaks» und Rennwagen</td></tr>
-<tr><td>ex</td><td>8706</td><td>Chassis für Motorfahrzeuge der Nrn. 8701 bis 8705, mit Motor</td></tr>
-<tr><td>ex</td><td>8707</td><td>Karosserien für Motorfahrzeuge der Nrn. 8701 bis 8705, einschliesslich Führerkabinen</td></tr>
-<tr><td>ex</td><td>8708</td><td>Teile und Zubehör für Motorfahrzeuge der Nrn. 8701 bis 8705</td></tr>
-<tr><td>ex</td><td>8711</td><td>Motorräder (einschliesslich Motorfahrräder) und Fahrräder mit Hilfsmotor, auch mit Seitenwagen; Seitenwagen</td></tr>
-<tr><td>ex</td><td>8712</td><td>Zweiräder und andere Fahrräder (einschliesslich Lastendreiräder), ohne Motor</td></tr>
-<tr><td>ex</td><td>8714</td><td>Teile und Zubehör für Fahrzeuge der Nrn. 8711 bis 8713</td></tr>
+<tr><td>ex</td><td>8706</td><td>Chassis für Motorfahrzeuge der Nrn. 8701–8705, mit Motor</td></tr>
+<tr><td>ex</td><td>8707</td><td>Karosserien für Motorfahrzeuge der Nrn. 8701–8705, einschliesslich Führerkabinen</td></tr>
+<tr><td>ex</td><td>8708</td><td>Teile und Zubehör für Motorfahrzeuge der Nrn. 8701–8705</td></tr>
+<tr><td>ex</td><td>8711</td><td>Motorräder (einschl. Motorfahrräder) und Fahrräder mit Hilfsmotor, auch mit Seitenwagen; Seitenwagen</td></tr>
+<tr><td>ex</td><td>8712</td><td>Zweiräder und andere Fahrräder (einschl. Lastendreiräder), ohne Motor</td></tr>
+<tr><td>ex</td><td>8714</td><td>Teile und Zubehör für Fahrzeuge der Nrn. 8711–8713</td></tr>
 <tr><td>ex</td><td>8716 10</td><td>Anhänger, einschliesslich Sattelanhänger, in der Art von Caravans, zu Wohn- oder Campingzwecken</td></tr>
 <tr><td>ex</td><td>8716 40</td><td>andere Anhänger, einschliesslich Sattelanhänger</td></tr>
 <tr><td>ex</td><td>8716 90</td><td>Teile</td></tr>
@@ -2268,15 +2270,15 @@ Sofern in diesem Anhang nichts anderes angegeben ist, gilt das Verbot nach Artik
 
 <table>
 <tr><th></th><th>Zolltarifnummer</th><th>Bezeichnung</th></tr>
-<tr><td>ex</td><td>9101</td><td>Armbanduhren, Taschenuhren und ähnliche Uhren (einschliesslich Stoppuhren vom gleichen Typ), mit Gehäuse aus Edelmetallen oder Edelmetallplattierungen</td></tr>
-<tr><td>ex</td><td>9102</td><td>Armbanduhren, Taschenuhren und ähnliche Uhren (einschliesslich Stoppuhren vom gleichen Typ), andere als solche der Nr. 9101</td></tr>
+<tr><td>ex</td><td>9101</td><td>Armbanduhren, Taschenuhren und ähnliche Uhren (einschl. Stoppuhren vom gleichen Typ), mit Gehäuse aus Edelmetallen oder Edelmetallplattierungen</td></tr>
+<tr><td>ex</td><td>9102</td><td>Armbanduhren, Taschenuhren und ähnliche Uhren (einschl. Stoppuhren vom gleichen Typ), andere als solche der Nr. 9101</td></tr>
 <tr><td>ex</td><td>9103</td><td>Wecker und Standührchen (Pendulettes), mit Kleinuhrwerk</td></tr>
 <tr><td>ex</td><td>9104 00 00</td><td>Armaturenbrettuhren und ähnliche Uhren, für Automobile, Luftfahrzeuge, Schiffe oder andere Fahrzeuge</td></tr>
 <tr><td>ex</td><td>9105</td><td>Wecker, Pendulen, Uhren und ähnliche Apparate der Uhrenindustrie, mit anderem als Kleinuhrwerk</td></tr>
 <tr><td>ex</td><td>9108</td><td>Kleinuhrwerke, vollständig und zusammengesetzt</td></tr>
 <tr><td>ex</td><td>9109</td><td>Uhrwerke, vollständig und zusammengesetzt, andere als Kleinuhrwerke</td></tr>
 <tr><td>ex</td><td>9110</td><td>Uhrwerke, vollständig, nicht zusammengesetzt oder teilweise zusammengesetzt (Schablonen); Uhrwerke, unvollständig, zusammengesetzt; Rohwerke von Uhren</td></tr>
-<tr><td>ex</td><td>9111</td><td>Gehäuse für Uhren der Nrn. 9101 oder 9102, und Teile davon</td></tr>
+<tr><td>ex</td><td>9111</td><td>Gehäuse für Uhren der Nr. 9101 oder 9102, und Teile davon</td></tr>
 <tr><td>ex</td><td>9112</td><td>Gehäuse für andere Uhren oder Apparate der Uhrenindustrie, und Teile davon</td></tr>
 <tr><td>ex</td><td>9113</td><td>Uhrenarmbänder und Teile davon</td></tr>
 <tr><td>ex</td><td>9114</td><td>Andere Uhrenbestandteile</td></tr>
@@ -2336,7 +2338,7 @@ Sofern in diesem Anhang nichts anderes angegeben ist, gilt das Verbot nach Artik
 <tr><td>ex</td><td>9506 70</td><td>Schlittschuhe und Rollschuhe, einschliesslich Schuhe mit fest angebrachten Schlittschuhen oder Rollschuhen</td></tr>
 <tr><td>ex</td><td>9506 91 00</td><td>Geräte und Ausrüstungsgegenstände für Leibesübungen, Gymnastik oder Athletik</td></tr>
 <tr><td>ex</td><td>9506 99 00</td><td>andere</td></tr>
-<tr><td>ex</td><td>9507</td><td>Angelruten, Angelhaken und andere Angelgeräte; Handnetze zu Zwecken aller Art; Lockgeräte (andere als solche der Nrn. 9208 oder 9705) und ähnliche Jagdartikel</td></tr>
+<tr><td>ex</td><td>9507</td><td>Angelruten, Angelhaken und andere Angelgeräte; Handnetze zu Zwecken aller Art; Lockgeräte (andere als solche der Nr. 9208 oder 9705) und ähnliche Jagdartikel</td></tr>
 </table>
 
 ### 22. Artikel und Ausrüstung für Billardspiele, automatische Kegelanlagen (z. B. Bowlingbahnen), Glücksspiele und mit Münzen oder Banknoten betriebene Spiele
@@ -2362,13 +2364,13 @@ Sofern in diesem Anhang nichts anderes angegeben ist, gilt das Verbot nach Artik
 <tr><td></td><td>9015 10 00</td><td>Entfernungsmesser</td></tr>
 </table>
 
-Anhang 19[^t-14]
+Anhang 19[^t-15]
 
 (Art. 9*b* Abs. 1)
 
 ## Flugturbinenkraftstoffe und Kraftstoffadditive
 
-[^t-14]: Eingefügt durch Ziff. II Abs. 3 der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
+[^t-15]: Eingefügt durch Ziff. II Abs. 3 der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
 
 <table>
 <tr><th></th><th>Zolltarifnummer</th><th>Bezeichnung</th></tr>
@@ -2400,13 +2402,13 @@ Anhang 19[^t-14]
 <tr><td></td><td>ex 3811 90</td><td>Thermostabilitätsverbesserer für andere, zu denselben Zwecken wie Mineralöle verwendete Flüssigkeiten</td></tr>
 </table>
 
-Anhang 20[^t-15]
+Anhang 20[^t-16]
 
 (Art. 14*c* Abs. 1)
 
 ## Wirtschaftlich bedeutende Güter
 
-[^t-15]: Eingefügt durch Ziff. II Abs. 3 der V vom 27. April 2022 ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). Fassung gemäss Ziff. II Abs. 3 der V vom 23. Nov. 2022, in Kraft seit 23. Nov. 2022 um 18.00 Uhr ([AS 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
+[^t-16]: Eingefügt durch Ziff. II Abs. 3 der V vom 27. April 2022 ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). Fassung gemäss Ziff. II Abs. 3 der V vom 23. Nov. 2022, in Kraft seit 23. Nov. 2022 um 18.00 Uhr ([AS 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
 
 ### 1. Güter, die vor dem 23. November 2022 in den Anhang aufgenommen wurden
 
@@ -2599,13 +2601,13 @@ Anhang 20[^t-15]
 <tr><td></td><td colspan="2">9406</td><td>Gebäude, vorgefertigt, auch unvollständig oder noch nichtmontiert</td></tr>
 </table>
 
-Anhang 21[^t-16]
+Anhang 21[^t-17]
 
 (Art. 14*c* Abs. 3 und 4)
 
 ## Einfuhrkontingente für bestimmte Güter
 
-[^t-16]: Eingefügt durch Ziff. II Abs. 3 der V vom 27. April 2022 ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). Fassung gemäss Ziff. II Abs. 3 der V vom 23. Nov. 2022, in Kraft seit 23. Nov. 2022 um 18.00 Uhr ([AS 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
+[^t-17]: Eingefügt durch Ziff. II Abs. 3 der V vom 27. April 2022 ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). Fassung gemäss Ziff. II Abs. 3 der V vom 23. Nov. 2022, in Kraft seit 23. Nov. 2022 um 18.00 Uhr ([AS 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
 
 <table>
 <tr><th>Zolltarifnummer</th><th>Bezeichnung</th><th>Menge</th><th>Geltungsdauer</th></tr>
@@ -2613,13 +2615,13 @@ Anhang 21[^t-16]
 <tr><td>3105 20, 3105 60, 3105 90</td><td>Mineralische oder chemische Düngemittel, die drei düngenden Stoffe Stickstoff, Phosphor und Kalium enthaltend; Mineralische oder chemische Düngemittel, die beiden düngenden Stoffe Phosphor und Kalium enthaltend; andere Düngemittel, Kaliumchlorid enthaltend</td><td>1636 Tonnen kombiniert</td><td>vom 29. Juli bis zum 28. Juli des darauffolgenden Jahres</td></tr>
 </table>
 
-Anhang 22[^t-17]
+Anhang 22[^t-18]
 
 (Art. 12 Abs. 1)
 
 ## Kohle und Kohleerzeugnisse
 
-[^t-17]: Eingefügt durch Ziff. II Abs. 3 der V vom 27. April 2022 ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). Bereinigt gemäss Ziff. II Abs. 2 der V vom 23. Nov. 2022, in Kraft seit 23. Nov. 2022 um 18.00 Uhr ([AS 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
+[^t-18]: Eingefügt durch Ziff. II Abs. 3 der V vom 27. April 2022 ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). Bereinigt gemäss Ziff. II Abs. 2 der V vom 23. Nov. 2022, in Kraft seit 23. Nov. 2022 um 18.00 Uhr ([AS 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
 
 <table>
 <tr><td>Zolltarifnummer</td><td>Bezeichnung</td></tr>
@@ -2633,7 +2635,7 @@ Anhang 22[^t-17]
 <tr><td>2708</td><td>Pech und Pechkoks aus Steinkohlenteer oder anderen Mineralteeren</td></tr>
 </table>
 
-Anhang 23[^t-18]
+Anhang 23[^t-19]
 
 (Art. 11*a* Abs. 1)
 
@@ -2641,16 +2643,16 @@ Anhang 23[^t-18]
 
 [^annex23-lvlu1-1]
 
-[^t-18]: Eingefügt durch Ziff. II Abs. 3 der V vom 27. April 2022 ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). Bereinigt gemäss Ziff. I der V des WBF vom 28. Aug. 2022 ([AS 2022 432](https://fedlex.data.admin.ch/eli/oc/2022/432)), vom 8. Sept. 2022 ([AS 2022 500](https://fedlex.data.admin.ch/eli/oc/2022/500)) und Ziff. II Abs. 1 der V vom 23. Nov. 2022, in Kraft seit 23. Nov. 2022 um 18.00 Uhr ([AS 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
+[^t-19]: Eingefügt durch Ziff. II Abs. 3 der V vom 27. April 2022 ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)). Bereinigt gemäss Ziff. I der V des WBF vom 28. Aug. 2022 ([AS 2022 432](https://fedlex.data.admin.ch/eli/oc/2022/432)), vom 8. Sept. 2022 ([AS 2022 500](https://fedlex.data.admin.ch/eli/oc/2022/500)) und Ziff. II Abs. 1 der V vom 23. Nov. 2022, in Kraft seit 23. Nov. 2022 um 18.00 Uhr ([AS 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
 [^annex23-lvlu1-1]: Der Inhalt dieser Anhänge wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2022/708](https://fedlex.data.admin.ch/eli/oc/2022/708) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
-Anhang 24[^t-19]
+Anhang 24[^t-20]
 
 (Art. 12*a* und 12*b*)
 
 ## Rohöl und Erdölerzeugnisse
 
-[^t-19]: Eingefügt durch Ziff. II der V vom 29. Juni 2022, in Kraft seit 29. Juni 2022 um 18.00 Uhr ([AS 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
+[^t-20]: Eingefügt durch Ziff. II der V vom 29. Juni 2022, in Kraft seit 29. Juni 2022 um 18.00 Uhr ([AS 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
 
 <table>
 <tr><td>Zolltarifnummer</td><td>Bezeichnung</td></tr>
@@ -2658,7 +2660,7 @@ Anhang 24[^t-19]
 <tr><td>2710</td><td>Erdöle oder Öle aus bituminösen Mineralien, andere als rohe Öle; anderweit weder genannte noch inbegriffene Zubereitungen mit einem Gewichtsanteil an Erdölen oder Ölen aus bituminösen Mineralien von 70 % oder mehr, in denen diese Öle den wesentlichen Bestandteil bilden; Ölabfälle.</td></tr>
 </table>
 
-Anhang 25[^t-20]
+Anhang 25[^t-21]
 
 (Art. 29*b*)
 
@@ -2666,16 +2668,16 @@ Anhang 25[^t-20]
 
 [^annex25-lvlu1-1]
 
-[^t-20]: Eingefügt durch Ziff. II der V vom 29. Juni 2022, in Kraft seit 29. Juni 2022 um 18.00 Uhr ([AS 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
+[^t-21]: Eingefügt durch Ziff. II der V vom 29. Juni 2022, in Kraft seit 29. Juni 2022 um 18.00 Uhr ([AS 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
 [^annex25-lvlu1-1]: Der Anhang wird weder in der AS noch in der SR veröffentlicht. Der Inhalt kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2022/432](https://fedlex.data.admin.ch/eli/oc/2022/432) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
-Anhang 26[^t-21]
+Anhang 26[^t-22]
 
 (Art. 14*d* Abs. 1 und 2)
 
 ## Gold
 
-[^t-21]: Eingefügt durch Ziff. II Abs. 2 der V vom 3. Aug. 2022, in Kraft seit 3. Aug. 2022 um 18.00 Uhr ([AS 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)).
+[^t-22]: Eingefügt durch Ziff. II Abs. 2 der V vom 3. Aug. 2022, in Kraft seit 3. Aug. 2022 um 18.00 Uhr ([AS 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)).
 
 <table>
 <tr><td>Zolltarifnummer</td><td>Bezeichnung</td></tr>
@@ -2684,13 +2686,13 @@ Anhang 26[^t-21]
 <tr><td>ex 7118 90</td><td>Goldmünzen</td></tr>
 </table>
 
-Anhang 27[^t-22]
+Anhang 27[^t-23]
 
 (Art. 14*d* Abs. 3)
 
 ## Golderzeugnisse
 
-[^t-22]: Eingefügt durch Ziff. II Abs. 2 der V vom 3. Aug. 2022, in Kraft seit 3. Aug. 2022 um 18.00 Uhr ([AS 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)).
+[^t-23]: Eingefügt durch Ziff. II Abs. 2 der V vom 3. Aug. 2022, in Kraft seit 3. Aug. 2022 um 18.00 Uhr ([AS 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)).
 
 <table>
 <tr><td>Zolltarifnummer</td><td>Bezeichnung</td></tr>
@@ -2698,23 +2700,26 @@ Anhang 27[^t-22]
 <tr><td>ex 7114</td><td>Gold- und Silberschmiedewaren und Teile davon, aus Edelmetallen oder Edelmetallplattierungen</td></tr>
 </table>
 
-Anhang 28[^t-23]
+Anhang 28[^t-24]
 
 (Art. 12*b* Abs. 3 und 4 Bst. b)
 
-## Preisobergrenzen für Erdöl und Erdölerzeugnisse
+## Preise für Erdöl und Erdölerzeugnisse
 
-[^t-23]: Eingefügt durch Ziff. II Abs. 4 der V vom 23. Nov. 2022, in Kraft seit 23. Nov. 2022 um 18.00 Uhr ([AS 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
+[^t-24]: Eingefügt durch Ziff. II Abs. 4 der V vom 23. Nov. 2022 ([AS 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)). Fassung gemäss Ziff. I Abs. 2 der V des WBF vom 7. Dez. 2022, in Kraft seit 8. Dez. 2022 um 18.00 Uhr ([AS 2022 780](https://fedlex.data.admin.ch/eli/oc/2022/780)).
 
-*Dieser Anhang enthält zurzeit keine Einträge.*
+<table>
+<tr><th>Zolltarifnummer</th><th>Bezeichnung</th><th>Preis je Barrel (USD)</th></tr>
+<tr><td>2709 00</td><td>Erdöle oder Öle aus bituminösen Mineralien, roh</td><td>60</td></tr>
+</table>
 
-Anhang 29[^t-24]
+Anhang 29[^t-25]
 
 (Art. 12*b* Abs. 4 Bst. c)
 
 ## Erlaubte Beförderung von Rohöl und Erdölerzeugnissen in Drittstaaten
 
-[^t-24]: Eingefügt durch Ziff. II Abs. 4 der V vom 23. Nov. 2022, in Kraft seit 23. Nov. 2022 um 18.00 Uhr ([AS 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
+[^t-25]: Eingefügt durch Ziff. II Abs. 4 der V vom 23. Nov. 2022, in Kraft seit 23. Nov. 2022 um 18.00 Uhr ([AS 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
 
 <table>
 <tr><th>Gegenstand</th><th>Bestimmungsort (Drittstaat)</th><th>Geltungsdauer</th></tr>
