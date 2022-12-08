@@ -3,69 +3,64 @@ sr: "0.916.421.30"
 title: Gründungsakte der Europäischen Kommission vom 11. Dezember 1953/12. Juni 1957 zur Bekämpfung der Maul- und Klauenseuche
 eli: "https://fedlex.data.admin.ch/eli/cc/1961/389_399_409"
 language: de
-version: 2018-07-27
+version: 2022-12-09
 adopted: 1953-12-11
 in_force: 1961-02-23
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1961/389_399_409/20180727/de/xml/fedlex-data-admin-ch-eli-cc-1961-389_399_409-20180727-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1961/389_399_409/20180727/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1961/389_399_409/20221209/de/xml/fedlex-data-admin-ch-eli-cc-1961-389_399_409-20221209-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1961/389_399_409/20221209/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Gründungsakte der Europäischen Kommission zur Bekämpfung der Maul- und Klauenseuche
+# Gründungsakte der Europäischen Kommission zur Bekämpfung der Maul‑ und Klauenseuche
 
-AS **1975** 1469; BBl **1960** II 21
+AS **1961** 389; BBl **1960** II 21
 
 Übersetzung
 
-Abgeschlossen in Rom am 11. Dezember 1953
+Abgeschlossen in Rom am 11. Dezember 1953 Geändert im April 1957 Von der Bundesversammlung genehmigt am 6. Oktober 1960[^t-1] Schweizerische Beitrittsurkunde hinterlegt am 23. Februar 1961 In Kraft getreten für die Schweiz am 23. Februar 1961 Geändert im März 1962, April 1973, April 1977, Mai 1989, April 1997, April 2015 und April 2022[^t-2]
 
-Geändert im April 1957
-
-Von der Bundesversammlung genehmigt am 6. Oktober 1960[^t-1]
-
-Schweizerische Beitrittsurkunde hinterlegt am 23. Februar 1961
-
-In Kraft getreten für die Schweiz am 23. Februar 1961
-
-Geändert im März 1962 und April 1973
-
-(Stand am 27. Juli 2018)
+(Stand am 9. Dezember 2022)
 
 [^t-1]: [AS 1961 387](https://fedlex.data.admin.ch/eli/oc/1961/387_397_407)
+[^t-2]: Konsolidierte Version, in Kraft seit 9. Dez. 2022 ([AS 2025 488](https://fedlex.data.admin.ch/eli/oc/2025/488)).
 
-## *Einleitung*
+*Einleitung*
 
-In Anbetracht der dringenden Notwendigkeit, die europäische Landwirtschaft vor erneuten schweren Verlusten durch Maul- und Klauenseucheausbrüche zu bewahren, gründen die vertragschliessenden Staaten hierdurch im Rahmen der Ernährungs- und Landwirtschaftsorganisation der Vereinten Nationen eine Kommission, genannt Europäische Kommission zur Bekämpfung der Maul- und Klauenseuche, deren Aufgabe es ist, auf nationaler und internationaler Ebene die Massnahmen zur Bekämpfung der Maul- und Klauenseuche in Europa zu fördern.
+In Anbetracht der dringenden Notwendigkeit, die europäische Landwirtschaft vor erneuten schweren Verlusten durch Maul- und Klauenseucheausbrüche zu bewahren, gründen die vertragschliessenden Staaten hierdurch im Rahmen der Ernährungs- und Landwirtschaftsorganisation der Vereinten Nationen eine Kommission, genannt Europäische Kommission zur Bekämpfung der Maul- und Klauenseuche, deren Hauptziel es ist, auf nationaler und internationaler Ebene die Massnahmen zur Verhütung und Bekämpfung der Maul- und Klauenseuche in Europa zu fördern. Die Vertragsstaaten kommen überein, dass die von der Kommission durchgeführten Massnahmen zur Risikovorbereitung und -minderung auf ähnliche grenzüberschreitende Tierkrankheiten, die regelmässig erfasst werden, ausgeweitet werden können, ohne das Hauptziel zu beeinträchtigen, wobei die Aussicht auf die Umsetzung eines vertretbaren und kostengünstigen Massnahmenpakets berücksichtigt wird.
 
 #### Art. I
 
 **Mitgliedschaft**
 
-<sup>1.</sup> Mitglieder der Europäischen Kommission zur Bekämpfung der Maul- und Klauenseuche (nachstehend «Kommission» genannt) können europäische Staaten werden, welche Mitglieder der Ernährungs- und Landwirtschaftsorganisation der Vereinten Nationen sind, sodann Staaten, die als Mitglieder an der Regionalkonferenz für Europa der Ernährungs- und Landwirtschaftsorganisation der Vereinten Nationen teilnehmen und die zum Einzugsgebiet des regionalen Büros für Europa der Ernährungs- und Landwirtschaftsorganisation der Vereinten Nationen gehören, ferner europäische Staaten, welche Mitglieder des Internationalen Tierseuchenamtes sind, der Organisation der Vereinten Nationen angehören und gemäss den Bedingungen in Artikel XV die vorliegende Gründungsakte anerkennen. Die Kommission kann mit Zweidrittelmehrheit ihrer Mitglieder jeden anderen den Vereinten Nationen, irgendeiner Spezialorganisation oder der Internationalen Atomenergie-Agentur angehörenden europäischen Staat als Mitglied aufnehmen, der ein Aufnahmegesuch stellt und mittels Urkunde die zum Zeitpunkt der Aufnahme sich in Kraft befindenden Bestimmungen der Gründungsakte anerkennt.[^I-1]
+<sup>1.</sup> Mitglieder der Europäischen Kommission zur Bekämpfung der Maul- und Klauenseuche (nachstehend «Kommission» genannt) können europäische Staaten werden, welche Mitglieder der Ernährungs- und Landwirtschaftsorganisation der Vereinten Nationen sind, sodann Staaten, die als Mitglieder an der Regionalkonferenz für Europa und Zentralasien der Ernährungs- und Landwirtschaftsorganisation der Vereinten Nationen teilnehmen und die zum Einzugsgebiet des regionalen Büros für Europa der Ernährungs- und Landwirtschaftsorganisation der Vereinten Nationen gehören, und europäische Staaten, die Mitglieder der Weltorganisation für Tiergesundheit (nachstehend «WOAH» genannt) sind, der Organisation der Vereinten Nationen angehören und gemäss den Bedingungen in Artikel XV die vorliegende Gründungsakte anerkennen. Die Kommission kann mit Zweidrittelmehrheit ihrer Mitglieder jeden anderen den Vereinten Nationen, irgendeiner Spezialorganisation oder der Internationalen Atomenergie-Agentur angehörenden europäischen Staat als Mitglied aufnehmen, der ein Aufnahmegesuch stellt und mittels Urkunde die zum Zeitpunkt der Aufnahme sich in Kraft befindenden Bestimmungen der Gründungsakte anerkennt.
 
-<sup>2.</sup> Die Ernährungs- und Landwirtschaftsorganisation der Vereinten Nationen (nachstehend als «Organisation» bezeichnet), das Internationale Tierseuchenamt (nachstehend als «Amt» bezeichnet), und die Organisation für Europäische wirtschaftliche Zusammen- und Entwicklungsarbeit haben das Recht, sich an allen Sitzungen der Kommission und ihrer Ausschüsse vertreten zu lassen. Ihre Vertreter haben jedoch kein Stimmrecht.
-
-[^I-1]: Fassung gemäss der im Mai 1989 angenommenen Änderung, in Kraft getreten für die Schweiz am 10. Nov. 1989 ([AS 1990 744](https://fedlex.data.admin.ch/eli/oc/1990/744_744_744)).
+<sup>2.</sup> Die Ernährungs- und Landwirtschaftsorganisation der Vereinten Nationen (nachstehend als «Organisation» bezeichnet), die WOAH, die Europäische Union und die Organisation für europäische wirtschaftliche Zusammen- und Entwicklungsarbeit haben das Recht, sich an allen Sitzungen der Kommission und ihrer Ausschüsse vertreten zu lassen. Ihre Vertreter haben jedoch kein Stimmrecht.
 
 #### Art. II
 
-**Verpflichtungen der Mitglieder in bezug auf die eigene Seuchenpolizei und die internationale Zusammenarbeit bei der Bekämpfung der Maul- und Klauenseuche**
+**Verpflichtungen der Mitglieder in Bezug auf die eigene Seuchenpolizei und die internationale Zusammenarbeit bei der Bekämpfung der Maul‑ und Klauenseuche und ähnlicher grenzüberschreitender Tierkrankheiten**
 
-<sup>1.</sup> Die gewählten Methoden sind strikte durchzuführen.
+<sup>1.</sup> Die gewählten Vorgehen sind strikte durchzuführen. Für Mitglieder, die gemäss WOAH nicht als frei von Maul- und Klauenseuche gelten, muss ein nationales Programm zur progressiven Bekämpfung der Krankheit vorliegen, es sei denn, dieser Status wurde vorübergehend ausgesetzt.
 
-Die Mitglieder verpflichten sich, die Maul- und Klauenseuche zu bekämpfen und das Ziel der endgültigen Tilgung anzustreben, indem sie wirksame Sperrvorschriften erlassen, sanitätspolizeiliche Massnahmen anordnen sowie eine oder mehrere der folgenden Methoden anwenden:
+Die Mitglieder verpflichten sich, die Maul- und Klauenseuche zu bekämpfen und das Ziel der endgültigen Tilgung anzustreben, indem sie wirksame Sperrvorschriften erlassen, sanitätspolizeiliche Massnahmen anordnen sowie ein oder mehrere der folgenden Vorgehen anwenden:
 
-- 1\.1 Abschlachtung,
-- 1\.2 Abschlachtung, kombiniert mit Schutzimpfungen,
-- 1\.3 Schutzimpfung des gesamten Viehbestandes,
+- 1\.1 Abschlachtung;
+- 1\.2 Abschlachtung, kombiniert mit Schutzimpfungen;
+- 1\.3 Schutzimpfung des gesamten Viehbestandes, weitere gefährdete Tiere können geimpft werden;
 - 1\.4 Schutzimpfung der Viehbestände rings um die Maul- und Klauenseucheherde.
 
-<sup>2.</sup> Mitglieder, welche die unter Ziffer 1.2 oder 1.4 erwähnten Methoden anwenden, verpflichten sich zur Haltung eines Vorrates an Virus für die Vakzineproduktion sowie eines genügenden Vorrates an Vakzine zum Schutz gegen die Ausbreitung der Seuche im Falle eines Ausbruchs. Die Mitglieder verpflichten sich zur Zusammenarbeit und gegenseitigen Unterstützung in allen Bekämpfungsmassnahmen gegen die Maul- und Klauenseuche, nötigenfalls besonders bei der Abgabe von Vakzine und Virus. Die notwendigen Mengen an Virus- und Vakzinevorräten für den nationalen und internationalen Bedarf werden von den Mitgliedern entsprechend den Beschlüssen der Kommission und den Empfehlungen des Amtes festgesetzt.
+<sup>2.</sup> Mitglieder, welche die unter Ziffer 1.2 oder 1.4 erwähnte Methode anwenden, verpflichten sich zur Beschaffung einer Menge an Vakzin oder Antigenen für eine ausreichende Impfstoffproduktion zum Schutz des Viehbestands, falls die Ausbreitung der Krankheit nicht ausschliesslich durch Gesundheitsmassnahmen gestoppt werden kann. Die Mitglieder verpflichten sich zur Zusammenarbeit und gegenseitigen Unterstützung in allen Bekämpfungsmassnahmen gegen die Maul- und Klauenseuche, nötigenfalls besonders bei der Lieferung von Vakzinen oder Antigenen für die Impfstoffproduktion. Die notwendigen Mengen an Antigen- und Vakzinevorräten für den nationalen und internationalen Bedarf werden von den Mitgliedern entsprechend den Beschlüssen der Kommission und den Empfehlungen der WOAH festgesetzt.
 
-<sup>3.</sup> Die Mitglieder treffen Anordnungen, damit bei Maul- und Klauenseucheausbrüchen der Virustyp ermittelt und das Ergebnis unverzüglich der Kommission sowie dem Amt gemeldet wird.
+<sup>3.</sup> Die Mitglieder müssen über Einsatzpläne für die sofortige Bewältigung von Ausbrüchen der Maul- und Klauenseuche und ähnlicher grenzüberschreitender Tierkrankheiten verfügen und sicherstellen, dass ausreichende finanzielle, personelle und technische Ressourcen für die sofortige Anwendung der in Absatz 1 dieses Artikels genannten Methoden zur Bekämpfung der Krankheit zur Verfügung stehen.
 
-<sup>4.</sup> Die Mitglieder lassen der Kommission jede ihr zur Erfüllung der Aufgaben dienende Information zukommen. Im Besonderen haben die Mitglieder die Kommission und das Amt unverzüglich von jedem Ausbruch von Maul- und Klauenseuche sowie dessen Ausdehnung in Kenntnis zu setzen und der Kommission weitere von ihr angeforderte detaillierte Berichte zuzustellen.
+<sup>4.</sup> Die Mitglieder treffen Anordnungen, damit bei Ausbrüchen der Maul- und Klauenseuche oder ähnlicher grenzüberschreitender Tierkrankheiten der Virustyp ermittelt und das Ergebnis unverzüglich der Kommission sowie der WOAH gemeldet wird.
+
+<sup>5.</sup> Die Mitglieder ergreifen Massnahmen, um den schnellen Versand repräsentativer Proben von Maul- und Klauenseuche und ähnlichen grenzüberschreitenden Tierkrankheiten an ein Mitglied des Referenzlabor-Netzwerks der FAO und der WOAH zur Nachcharakterisierung sicherzustellen.
+
+<sup>6.</sup> Die Mitglieder lassen der Kommission jede ihr zur Erfüllung der Aufgaben dienende Information zukommen. Im Besonderen haben die Mitglieder die Kommission und die WOAH unverzüglich von jedem Ausbruch von Maul- und Klauenseuche oder ähnlichen grenzüberschreitenden Tierkrankheiten sowie deren Ausdehnung in Kenntnis zu setzen und der Kommission weitere von ihr angeforderte detaillierte Berichte zuzustellen.
+
+<sup>7.</sup> Die Mitglieder stellen sicher, dass alle Laboratorien, die über Maul- und Klauenseuche arbeiten, mindestens die von der Kommission regelmässig aktualisierten Mindeststandards für den Umgang mit biologischen Gefahren erfüllen.
 
 #### Art. III
 
@@ -79,22 +74,31 @@ Die Mitglieder verpflichten sich, die Maul- und Klauenseuche zu bekämpfen und d
 
 **Allgemeine Aufgaben**
 
-Die Kommission hat folgende allgemeine Aufgaben:
+<sup>1.</sup> Durch den Generaldirektor der Organisation wird im Rahmen der zwischen der Organisation und der WOAH bestehenden Vereinbarungen eine Übereinkunft getroffen, die garantiert, dass
 
-- 1\. Durch den Generaldirektor der Organisation wird im Rahmen der zwischen der Organisation und dem Amt bestehenden Vereinbarungen eine Übereinkunft getroffen, die garantiert, dass
-  - 1\.1 alle Mitglieder bezüglich der Probleme der Maul‑ und Klauenseuchebekämpfung in technischer Hinsicht beraten werden;
-  - 1\.2 über Seuchenausbrüche und die Feststellung des Virus unverzüglich eingehend orientiert werden;
-  - 1\.3 spezielle Forschungsarbeiten zur Maul‑ und Klauenseuche durchgeführt werden.
+- 1\.1 alle Mitglieder bezüglich der Probleme der Bekämpfung der Maul‑ und Klauenseuche oder ähnlicher grenzüberschreitender Tierkrankheiten in technischer Hinsicht beraten werden;
+- 1\.2 über Ausbrüche der Maul- und Klauenseuche oder ähnlicher grenzüberschreitender Tierkrankheiten und die Feststellung des Virus unverzüglich eingehend orientiert werden;
+- 1\.3 spezielle Forschungsarbeiten zur Maul‑ und Klauenseuche und zu ähnlichen grenzüberschreitenden Tierkrankheiten durchgeführt werden.
 
-- 2\. Sammeln von Informationen über nationale Bekämpfungspläne und über Forschungen.
-- 3\. Bestimmung, in Verbindung mit den betreffenden Mitgliedern, von Art und Umfang der von Mitgliedern benötigten Unterstützung zur Durchführung ihres nationalen Bekämpfungsplanes.
-- 4\. Anregung und Organisation gemeinsamer Aktionen, wo immer dies erforderlich ist, um Schwierigkeiten bei der Durchführung des Bekämpfungsplanes zu überwinden. Zu diesem Zweck sind Massnahmen anzuordnen, damit hinreichende Hilfsmittel zur Verfügung stehen, zum Beispiel durch Vereinbarung zwischen den Mitgliedern für die Produktion und Lagerhaltung von Vakzine.
-- 5\. Vorbereitungen zur Erleichterung der Virustypenbestimmung.
-- 6\. Prüfung der Möglichkeiten für die Erstellung internationaler Laboratorien für die Virustypenbestimmung und die Vakzineproduktion.
-- 7\. Führung einer genauen und fortlaufenden Kontrolle über die Virus‑ und Vakzinevorräte in den verschiedenen Ländern.
-- 8\. Beratung anderer Organisationen über die Verwendung aller verfügbaren Fonds für die Bekämpfung der Maul‑ und Klauenseuche in Europa.
-- 9\. Abschluss von Übereinkommen durch den Generaldirektor der Organisation mit andern Organisationen, regionalen Gruppen oder mit Nichtmitgliedstaaten der Kommission zwecks Mitwirkung bei der Arbeit der Kommission oder ihrer Komitees oder zur gemeinsamen Unterstützung bei Problemen der Maul- und Klauenseuchebekämpfung. Diese Übereinkommen können die Gründung von Komitees oder die Beteiligung an solchen in sich schliessen.
-- 10\. Prüfung und Genehmigung des Berichtes des Arbeitsausschusses über die Tätigkeit der Kommission, der Abrechnung des abgelaufenen Geschäftsjahres sowie des Arbeitsplanes und des Budgets für die nächste Zweijahresperiode zur Übermittlung durch den Generaldirektor an den Rat der Organisation.
+<sup>2.</sup> Sammeln von Informationen über nationale Bekämpfungspläne und über Forschungen betreffend die Maul‑ und Klauenseuche und ähnliche grenzüberschreitende Tierkrankheiten.
+
+<sup>3.</sup> Bestimmung, in Verbindung mit den betreffenden Mitgliedern, von Art und Umfang der von Mitgliedern benötigten Unterstützung zur Durchführung ihres nationalen Bekämpfungsplanes.
+
+<sup>4.</sup> Anregung und Organisation gemeinsamer Aktionen, wo immer dies erforderlich ist, um Schwierigkeiten bei der Durchführung des Präventions- und Bekämpfungsplanes zu überwinden. Zu diesem Zweck sind Massnahmen anzuordnen, damit hinreichende Hilfsmittel zur Verfügung stehen, zum Beispiel durch Vereinbarung zwischen den Mitgliedern für die Produktion und Lagerhaltung von Vakzinen, und um die weltweite Bekämpfung der Maul- und Klauenseuche voranzubringen.
+
+<sup>5.</sup> Vorbereitungen zur Erleichterung der Virustypenbestimmung und -Charakterisierung.
+
+<sup>6.</sup> Sicherstellung eines internationalen Labors (Welt-Referenzlabor) mit eigenen Mitteln, um eine schnelle Charakterisierung des Maul- und Klauenseuche-Virus durch geeignete Methoden zu ermöglichen.
+
+<sup>7.</sup> Informationen über die Verfügbarkeit von Antigenen und Vakzinen gegen die Maul- und Klauenseuche und ähnliche grenzüberschreitende Tierkrankheiten in den Mitgliedstaaten und anderen Staaten auf dem neusten Stand halten und die Situation ständig überwachen.
+
+<sup>8.</sup> Beratung anderer Organisationen über die Verwendung aller verfügbaren Fonds für die Bekämpfung und Prävention der Maul‑ und Klauenseuche und ähnlicher grenzüberschreitender Tierkrankheiten in Europa.
+
+<sup>9.</sup> Abschluss von Übereinkommen durch den Generaldirektor der Organisation mit anderen Organisationen, regionalen Gruppen oder mit Nichtmitgliedstaaten der Kommission zwecks Mitwirkung bei der Arbeit der Kommission oder ihrer Komitees oder zur gemeinsamen Unterstützung bei Problemen der Maul- und Klauenseuchebekämpfung. Diese Übereinkommen können die Gründung von Komitees oder die Beteiligung an solchen in sich schliessen.
+
+<sup>10.</sup> Prüfung und Genehmigung des Berichtes des Finanzausschusses über die Tätigkeit der Kommission, der Abrechnung des abgelaufenen Geschäftsjahres sowie des Arbeitsplanes und des Budgets für die nächste Zweijahresperiode zur Übermittlung an den Rat der Organisation.
+
+<sup>11.</sup> Massnahmen zur Vorbereitung und Risikominderung in Bezug auf andere grenzüberschreitende, der Maul- und Klauenseuche ähnliche Tierkrankheiten, die eine unmittelbare Bedrohung für die Hoheitsgebiete der Mitglieder darstellen. Die in dieser Akte als der Maul- und Klauenseuche ähnlich betrachteten grenzüberschreitenden Tierkrankheiten sind die Lumpy Skin Disease, die Pest der kleinen Wiederkäuer, das Rifttalfieber, die Rinderpest, die Schafpocken und die Ziegenpocken. Weitere Krankheiten werden aufgrund ihrer Ähnlichkeiten mit der Maul- und Klauenseuche bestimmt, die das Hauptziel der Kommission bleibt, sowie anhand von Kriterien, die von der Kommission ausgearbeitet und genehmigt werden.
 
 #### Art. V
 
@@ -102,13 +106,15 @@ Die Kommission hat folgende allgemeine Aufgaben:
 
 Die Kommission hat folgende besonderen Aufgaben:
 
-- 1\. Hilfe bei der Bekämpfung von gefährlichen Ausbrüchen der Maul‑ und Klauenseuche, soweit die Kommission und die betreffenden Mitglieder dies als nützlich erachten. Zu diesem Zweck kann die Kommission oder ihr Arbeitsausschuss, in Einklang mit den Bestimmungen von Artikel XI Absatz 5, jeden nicht zweckgebundenen Betrag des Administrativbudgets nach Artikel XIII Absatz 7 benützen, ebenso jeden Überschussbetrag, welcher nach Artikel XIII Absatz 4 für Notfälle bestimmt ist.
+- 1\. Hilfe bei der Bekämpfung und Verhütung von gefährlichen Ausbrüchen der Maul‑ und Klauenseuche, soweit die Kommission und die betreffenden Mitglieder dies als nützlich erachten. Zu diesem Zweck kann die Kommission oder ihr Arbeitsausschuss, in Einklang mit den Bestimmungen von Artikel XI Absatz 5, jeden nicht zweckgebundenen Betrag des Administrativbudgets nach Artikel XIII Absatz 7 benützen, ebenso jeden Überschussbetrag, welcher nach Artikel XIII Absatz 4 für Notfälle bestimmt ist.
 - 2\.
 
   Anordnung entsprechender Massnahmen auf folgenden Gebieten:
 
-  - 2\.1 Produktion und Lagerung von Virus und Vakzine durch die Kommission oder auf ihre Rechnung zwecks Abgabe an die Mitglieder im Bedarfsfall.
-  - 2\.2 Nötigenfalls Unterstützung bei der Anlegung von Impfschutzringen zur Verhinderung der Seuchenausbreitung.
+  - 2\.1 Lagerung von Antigenen und Vakzine durch die Kommission oder auf ihre Rechnung zwecks Abgabe an die Mitglieder im Bedarfsfall.
+  - 2\.2 Nötigenfalls Unterstützung bei der Anlegung von Impfschutzringen zur Verhinderung der Seuchenausbreitung in Anwendung der Empfehlungen der WOAH und gegebenenfalls der Europäischen Union.
+  - 2\.3 Schulung der Mitarbeitenden der Mitglieder für das Management von Notfalleinsätzen und Schaffung eines Rahmens für geschulte Mitarbeitende, die im Bedarfsfall andere Mitglieder unterstützen können.
+  - 2\.4 Aufrechterhaltung und Förderung angemessener Bio-Sicherheitsstandards und entsprechende Schulung für den Umgang mit dem Maul- und Klauenseuchevirus.
 
 - 3\. Ausführung weiterer spezieller Projekte von Mitgliedern oder des Arbeitsausschusses, die von der Kommission genehmigt werden und der Erreichung der Ziele der Kommission, wie sie in dieser Gründungsakte niedergelegt sind, dienen.
 - 4\. Das Guthaben des Verwaltungsbudgets kann für die in den Absätzen 2 und 3 dieses Artikels beschriebenen Zwecke verwendet werden, sofern dies durch die Kommission oder eine Zweidrittelsmehrheit bewilligt wird, vorausgesetzt, dass sie mehr als die Hälfte der Kommissionsmitglieder darstellt.
@@ -121,7 +127,7 @@ Die Kommission hat folgende besonderen Aufgaben:
 
 <sup>2.</sup> Jedes Mitglied hat eine Stimme. Beschlüsse der Kommission werden von der Stimmenmehrheit gefasst, ausgenommen in den in dieser Gründungsakte erwähnten Fällen. Eine Mehrheit der Kommissionsmitglieder bildet das Quorum.
 
-<sup>3.</sup> Am Ende jeder ordentlichen Sitzung wählt die Kommission einen Präsidenten sowie zwei Vizepräsidenten unter den Delegierten. Diese Funktionäre bleiben im Amt bis zum Ende der nächsten ordentlichen Sitzung. Sie sind wieder wählbar.
+<sup>3.</sup> Am Ende jeder ordentlichen Sitzung wählt die Kommission einen Präsidenten, einen Ersten Vizepräsidenten und einen Zweiten Vizepräsidenten sowie die Mitglieder des Arbeitsausschusses unter den Delegierten. Die Kommission ernennt auch die Mitglieder der Sonderkomitees oder der ständigen Komitees.
 
 <sup>4.</sup> Der Generaldirektor der Organisation beruft im Einvernehmen mit dem Präsidenten der Kommission mindestens alle zwei Jahre eine ordentliche Sitzung ein. Ausserordentliche Sitzungen kann er im Einverständnis mit dem Präsidenten der Kommission oder auf gestelltes Begehren auf Grund eines Kommissionsbeschlusses an ordentlichen Sitzungen oder auf Wunsch mindestens eines Drittels der Mitglieder während der Intervalle zwischen den ordentlichen Sitzungen einberufen.
 
@@ -131,43 +137,39 @@ Die Kommission hat folgende besonderen Aufgaben:
 
 <sup>1.</sup> Die Kommission kann temporäre, Sonder‑ oder ständige Komitees ernennen, die die von der Kommission zu bearbeitenden Fragen prüfen und Bericht erstatten, unter Vorbehalt, dass ihr das genehmigte Kommissionsbudget die nötigen Mittel zur Verfügung stellt.
 
-<sup>2.</sup> Diese Komitees werden durch den Generaldirektor der Organisation im Einvernehmen mit dem Präsidenten der Kommission einberufen, und zwar zu einem Zeitpunkt und an Orten, die dem Zweck entsprechen, wofür sie bestellt wurden.
+<sup>2.</sup> Diese Komitees werden durch den Generaldirektor der Organisation im Einvernehmen mit dem Präsidenten der Kommission und dem Präsidenten des Sonderkomitees oder des betreffenden ständigen Komitees einberufen, und zwar zu einem Zeitpunkt und an Orten, die dem Zweck entsprechen, wofür sie bestellt wurden.
 
-<sup>3.</sup> Diesem Komitee können alle Mitglieder der Kommission, bestimmte Mitglieder dieser Kommission oder Personen angehören, die in Anbetracht ihrer besonderen Zuständigkeit in technischen Fragen durch Verfügung der Kommission persönlich ernannt werden.
+<sup>3.</sup> Diesem Komitee können alle Mitglieder der Kommission, bestimmte Mitglieder dieser Kommission oder Personen angehören, die in Anbetracht ihrer besonderen Zuständigkeit in technischen Fragen durch Verfügung der Kommission persönlich ernannt werden. Auf Antrag des Präsidenten können Beobachter zur Teilnahme an den Sitzungen des Sonderkomitees und des ständigen Komitees eingeladen werden.
 
-<sup>4.</sup> Jedes Komitee wählt seinen Präsidenten.
+<sup>4.</sup> Die Mitglieder der Komitees werden an der ordentlichen Sitzung der Kommission ernannt und jedes Komitee wählt seinen Präsidenten.
 
 #### Art. VIII
 
-**Interne Richtlinien und Finanzreglement**[^VIII-1]
+**Interne Richtlinien und Finanzreglement**
 
-Unter Vorbehalt der Bestimmungen dieser Akte kann die Kommission mit Zweidrittelmehrheit ihrer Mitglieder eigene interne Richtlinien sowie ein Finanzreglement aufstellen oder ändern; diese müssen den von der Konferenz erlassenen Richtlinien und dem Finanzreglement der Organisation entsprechen. Die von der Kommission erlassenen internen Richtlinien sowie alle von ihr vorgenommenen Änderungen treten nach Genehmigung durch den Generaldirektor der Organisation in Kraft; das Finanzreglement sowie alle vorgenommenen Änderungen treten nach Genehmigung durch den Generaldirektor unter Ratifikationsvorbehalt durch den Rat der Organisation in Kraft.
-
-[^VIII-1]: Fassung gemäss der im April 1977 angenommenen Änderung, in Kraft getreten für die Schweiz am 11. Nov. 1977 ([AS 1983 329](https://fedlex.data.admin.ch/eli/oc/1983/329_329_329)).
+Unter Vorbehalt der Bestimmungen dieser Akte kann die Kommission mit Zweidrittelmehrheit ihrer Mitglieder eigene interne Richtlinien sowie ein Finanzreglement aufstellen oder ändern; diese müssen den allgemeinen Richtlinien und dem Finanzreglement der Organisation entsprechen. Die von der Kommission erlassenen internen Richtlinien sowie alle von ihr vorgenommenen Änderungen treten nach Genehmigung durch den Generaldirektor der Organisation in Kraft; das Finanzreglement sowie alle vorgenommenen Änderungen treten nach Genehmigung durch den Generaldirektor unter Ratifikationsvorbehalt durch den Rat der Organisation in Kraft.
 
 #### Art. IX
 
 **Beobachter**
 
-<sup>1.</sup> Jeder Mitgliedstaat der Organisation, der nicht der Kommission angehört, oder jedes angeschlossene Mitglied, kann sich auf Gesuch hin an den Sitzungen der Kommission durch einen Beobachter vertreten lassen. Er kann Eingaben einreichen sowie den Verhandlungen ohne Stimmrecht beiwohnen.
+<sup>1.</sup> Jeder Mitgliedstaat der Organisation, der nicht der Kommission angehört, oder jedes angeschlossene Mitglied der Organisation, kann sich auf Gesuch hin an den Sitzungen der Kommission durch einen Beobachter vertreten lassen. Er kann Eingaben einreichen sowie den Verhandlungen ohne Stimmrecht beiwohnen.
 
-<sup>2.</sup> Die Staaten, die weder Kommissionsmitglieder noch Mitglieder oder angeschlossene Mitglieder der Organisation sind, aber der Organisation der Vereinten Nationen, irgendeiner Spezialorganisation oder der Internationalen Atomenergie-Agentur angehören, können auf Gesuch hin mit der Zustimmung der Kommission, die durch Vermittlung ihres Präsidenten erteilt wird, in der Eigenschaft eines Beobachters zu den Sitzungen der Kommission eingeladen werden. Vorbehalten bleiben die von der Konferenz der Organisation erlassenen Bestimmungen über die Verleihung des Beobachterstatus an die Staaten.[^IX-1]
+<sup>2.</sup> Die Staaten, die weder Kommissionsmitglieder noch Mitglieder oder angeschlossene Mitglieder der Organisation sind, aber der Organisation der Vereinten Nationen, irgendeiner Spezialorganisation oder der Internationalen Atomenergie-Agentur angehören, können auf Gesuch hin mit der Zustimmung der Kommission, die durch Vermittlung ihres Präsidenten erteilt wird, in der Eigenschaft eines Beobachters zu den Sitzungen der Kommission eingeladen werden. Vorbehalten bleiben die von der Konferenz der Organisation erlassenen Bestimmungen über die Verleihung des Beobachterstatus an die Staaten.
 
-<sup>3.</sup> Die Teilnahme der internationalen Organisationen an den Arbeiten der Kommission und die Beziehungen zwischen der Kommission und den Organisationen, sind durch die entsprechenden Bestimmungen der Gründungsakte, das allgemeine Reglement der Organisation sowie durch die Anordnung geregelt, die die Konferenz oder der Organisationsrat in bezug auf die Beziehung zu den internationalen Organisationen erlassen hat. Diese Beziehungen werden durch die Vermittlung des Generaldirektors der Organisation gewährleistet. Die Beziehungen zwischen Organisation und Amt erfolgen auf Grund der in Kraft stehenden Abmachungen zwischen der Organisation und dem Amt.
-
-[^IX-1]: Fassung gemäss der im April 1977 angenommemen Änderung, in Kraft getreten für die Schweiz am 11. Nov. 1977 ([AS 1983 329](https://fedlex.data.admin.ch/eli/oc/1983/329_329_329)).
+<sup>3.</sup> Die Teilnahme der internationalen Organisationen an den Arbeiten der Kommission und die Beziehungen zwischen der Kommission und den Organisationen, sind durch die entsprechenden Bestimmungen der Gründungsakte, das allgemeine Reglement der Organisation sowie durch die Anordnung geregelt, die die Konferenz oder der Organisationsrat in Bezug auf die Beziehung zu den internationalen Organisationen erlassen hat. Diese Beziehungen werden durch die Vermittlung des Generaldirektors der Organisation gewährleistet. Die Beziehungen zwischen Organisation und WOAH erfolgen auf Grund der in Kraft stehenden Abmachungen zwischen der Organisation und der WOAH.
 
 #### Art. X
 
 **Arbeitsausschuss**
 
-<sup>1.</sup> Am Schluss jeder ordentlichen Sitzung wählt die Kommission einen Arbeitsausschuss, der sich aus dem Präsidenten und zwei Vizepräsidenten der Kommission sowie fünf Delegierten von Mitgliedstaaten zusammensetzt. Der Präsident der Kommission ist Präsident des Arbeitsausschusses.
+<sup>1.</sup> Am Schluss jeder ordentlichen Sitzung wählt die Kommission einen Arbeitsausschuss, der sich aus dem Präsidenten und dem Ersten und dem Zweiten Vizepräsidenten der Kommission sowie sechs von der Kommission gewählten Delegierten von Mitgliedstaaten zusammensetzt. Bei der Wahl der Mitglieder des Arbeitsausschusses wird auf eine ausgewogene geografische Vertretung geachtet. Der Präsident und die Vizepräsidenten der Kommission sind der Präsident und die Vizepräsidenten des Arbeitsausschusses.
 
-<sup>2.</sup> Die Amtsdauer der Mitglieder des Arbeitsausschusses läuft bis zum Ende der nächsten ordentlichen Sitzung der Kommission. Sie sind wieder wählbar.
+<sup>2.</sup> Die Amtsdauer der Mitglieder des Arbeitsausschusses läuft bis zum Ende der folgenden ordentlichen Sitzung der Kommission. Sie sind wieder wählbar.
 
-<sup>3.</sup> Wenn im Arbeitsausschuss vor Ablauf des festgesetzten Termins eine Vakanz eintritt, kann das Komitee einen der Kommission angehörenden Mitgliedstaat ersuchen, einen Vertreter bis zum Ende der Amtsdauer zu ernennen.
+<sup>3.</sup> Wenn ein Delegierter des Arbeitsausschusses aus Gründen, die sich seinem Einfluss entziehen, dauerhaft nicht mehr zur Verfügung steht, wird das von diesem Delegierten vertretene Mitglied ersucht, einen neuen Delegierten für die verbleibende Amtsdauer zu ernennen.
 
-<sup>4.</sup> Der Arbeitsausschuss tritt mindestens einmal zwischen zwei ordentlichen Sitzungen zusammen.
+<sup>4.</sup> Der Arbeitsausschuss tritt mindestens zweimal, in angemessenen Abständen, zwischen zwei ordentlichen Sitzungen zusammen.
 
 <sup>5.</sup> Das Sekretariat der Kommission übernimmt auch dasjenige des Komitees.
 
@@ -207,9 +209,9 @@ Der Arbeitsausschuss hat die Aufgaben:
 
 <sup>5.</sup> Die Mitgliederbeiträge sind zahlbar in der von der Kommission mit dem betreffenden Mitglied vereinbarten Währung.
 
-<sup>6.</sup> Die eingehenden Beiträge gelangen in einen Einlagefonds, der vom Generaldirektor der Organisation gemäss der Finanzordnung der Organisation verwaltet wird.
+<sup>6.</sup> Die eingehenden Beiträge gelangen in einen Treuhandfonds, der vom Generaldirektor der Organisation gemäss der Finanzordnung der Organisation verwaltet wird.
 
-<sup>7.</sup> Auf Ende jedes Finanzjahres wird jeder unbenützte Saldo des Verwaltungsbudgets auf eine besondere Rechnung übertragen und steht für die in Artikel IV und V umschriebenen Zwecke zur Verfügung.
+<sup>7.</sup> Auf Ende jedes Finanzjahres verbleibt jeder unbenützte Saldo des Verwaltungsbudgets im Treuhandfonds und wird zur Finanzierung des Budgets der Folgejahre bereitgestellt.
 
 #### Art. XIV
 
@@ -223,7 +225,7 @@ Der Arbeitsausschuss hat die Aufgaben:
 
 <sup>4.</sup> Änderungen treten erst in Kraft, wenn sie vom Organisationsrat genehmigt worden sind.
 
-<sup>5.</sup> Eine Änderung, die den Mitgliedern keine neue Verpflichtungen auferlegt, wird am Tage, an dem der Rat die Genehmigung erteilt, rechtskräftig.
+<sup>5.</sup> Eine Änderung, die den Mitgliedern keine neuen Verpflichtungen auferlegt, wird am Tage, an dem der Rat die Genehmigung erteilt, rechtskräftig.
 
 <sup>6.</sup> Eine Änderung, die nach Auffassung der Kommission die Mitglieder mit zusätzlichen Verpflichtungen belastet, wird nach Genehmigung durch den Rat für die Mitglieder der Kommission, die diese Änderung annehmen, mit dem Tage rechtskräftig, an dem die Zahl der Mitglieder, die sie angenommen haben, zwei Drittel der Kommissionsmitglieder erreicht; nach diesem Datum wird sie für jedes Kommissionsmitglied verbindlich mit dem Tage, an dem es dem Generaldirektor die Annahme dieser Änderung erklärt.
 
@@ -237,11 +239,11 @@ Der Arbeitsausschuss hat die Aufgaben:
 
 **Beitritt**
 
-<sup>1.</sup> Der Beitritt zu dieser Gründungsakte erfolgt durch Meldung an den Generaldirektor der Organisation. Handelt es sich um Mitglieder der Organisation oder des Amtes, so wird sie nach Eingang beim Generaldirektor wirksam; dieser setzt unverzüglich alle Kommissionsmitglieder davon in Kenntnis.
+<sup>1.</sup> Der Beitritt zu dieser Gründungsakte erfolgt durch Meldung an den Generaldirektor der Organisation. Handelt es sich um Mitglieder der Organisation oder der WOAH, so wird sie nach Eingang beim Generaldirektor wirksam; dieser setzt unverzüglich alle Kommissionsmitglieder davon in Kenntnis.
 
-<sup>2.</sup> Die Zulassung als Kommissionsmitglied von Staaten, die die Bedingungen des Artikels I erfüllen, aber nicht Angehörige der Organisation oder des Amtes sind, wird wirksam vom Datum an, an welchem die Kommission das Zulassungsgesuch nach den Bestimmungen des Artikels I genehmigt hat. Der Generaldirektor setzt alle Kommissionsmitglieder von jeder Genehmigung eines Zulassungsgesuches in Kenntnis.
+<sup>2.</sup> Die Zulassung als Kommissionsmitglied von Staaten, die die Bedingungen des Artikels I erfüllen, aber nicht Angehörige der Organisation oder der WOAH sind, wird wirksam vom Datum an, an welchem die Kommission das Zulassungsgesuch nach den Bestimmungen von Artikel I genehmigt hat. Der Generaldirektor setzt alle Kommissionsmitglieder von jeder Genehmigung eines Zulassungsgesuches in Kenntnis.
 
-<sup>3.</sup> Der Beitritt zu dieser Gründungsakte kann Vorbehalten unterliegen. Der Generaldirektor teilt sofort allen Kommissionsmitgliedem den Erhalt eines Zulassungsgesuches oder Meldung zu dieser Akte mit, die einen Vorbehalt enthält. Dieser wird erst wirksam nach der einstimmigen Genehmigung der Kommissionsmitglieder. Von Kommissionsmitgliedern, die innert einer Frist von drei Monaten vom Datum der Anzeige an zum Vorbehalt keinen Einwand erhoben haben, wird angenommen, dass sie ihn genehmigt haben. Wird ein Vorbehalt von den Kommissionsmitgliedern nicht einstimmig genehmigt, so wird der Staat, der diesen Vorbehalt angebracht hat, nicht Mitglied dieser Gründungsakte.
+<sup>3.</sup> Der Beitritt zu dieser Gründungsakte kann Vorbehalten unterliegen. Der Generaldirektor teilt sofort allen Kommissionsmitgliedern den Erhalt eines Zulassungsgesuches oder Meldung zu dieser Akte mit, die einen Vorbehalt enthält. Dieser wird erst wirksam nach der einstimmigen Genehmigung der Kommissionsmitglieder. Von Kommissionsmitgliedern, die innert einer Frist von drei Monaten vom Datum der Anzeige an zum Vorbehalt keinen Einwand erhoben haben, wird angenommen, dass sie ihn genehmigt haben. Wird ein Vorbehalt von den Kommissionsmitgliedern nicht einstimmig genehmigt, so wird der Staat, der diesen Vorbehalt angebracht hat, nicht Mitglied dieser Gründungsakte.
 
 #### Art. XVI
 
@@ -251,7 +253,7 @@ Der Arbeitsausschuss hat die Aufgaben:
 
 <sup>2.</sup> Die Nichtbezahlung von zwei aufeinanderfolgenden Jahresbeiträgen wird als Austritt des seinen Verpflichtungen nicht nachkommenden Mitgliedes aus der Kommission betrachtet.
 
-<sup>3.</sup> Jedes Kommissionsmitglied, das aus der Organisation oder dem Amt ausgetreten ist und somit diesen beiden Institutionen nicht mehr angehört, wird gleichzeitig als aus der Kommission ausgetreten betrachtet.
+<sup>3.</sup> Jedes Kommissionsmitglied, das aus der Organisation oder der WOAH ausgetreten ist und somit diesen beiden Institutionen nicht mehr angehört, wird gleichzeitig als aus der Kommission ausgetreten betrachtet.
 
 #### Art. XVII
 
@@ -277,7 +279,7 @@ Der Arbeitsausschuss hat die Aufgaben:
 
 **Inkraftsetzung**
 
-<sup>1.</sup> Die vorliegende Gründungsakte tritt in Kraft, sobald der Generaldirektor der Organisation die Aufnahmegesuche von 6 Mitgliedstaaten der Organisation oder des Amtes erhalten hat, vorausgesetzt ihre Beiträge machen mindestens 30 Prozent des in Artikel XIII Absatz 1 vorgesehenen Verwaltungsbudgets aus.
+<sup>1.</sup> Die vorliegende Gründungsakte tritt in Kraft, sobald der Generaldirektor der Organisation die Aufnahmegesuche von 6 Mitgliedstaaten der Organisation oder der WOAH erhalten hat, vorausgesetzt ihre Beiträge machen mindestens 30 Prozent des in Artikel XIII Absatz 1 vorgesehenen Verwaltungsbudgets aus.
 
 <sup>2.</sup> Der Generaldirektor teilt allen Staaten, die eine Beitrittsurkunde vorgelegt haben, den Zeitpunkt des Inkrafttretens dieser Gründungsakte mit.
 
@@ -285,7 +287,7 @@ Der Arbeitsausschuss hat die Aufgaben:
 
 <sup>4.</sup> Zwei Kopien des Textes der Gründungsakte werden vom Präsidenten der Konferenz und dem Generaldirektor der Organisation beglaubigt. Eine Kopie wird beim Generalsekretariat der Vereinigten Nationen und die andere in den Archiven der Organisation hinterlegt. Weitere Kopien dieses Textes werden durch den Generaldirektor beglaubigt und den Kommissionsmitgliedern mit Angabe des Datums des Inkrafttretens der Gründungsakte zugestellt.
 
-Geltungsbereich am 27. Juli 2018**[^t-2]**
+Geltungsbereich am 27. Juli 2018[^t-3]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Annahme Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -309,7 +311,7 @@ Geltungsbereich am 27. Juli 2018**[^t-2]**
 <tr><td>Litauen</td><td>27. Mai</td><td>1993</td><td>27. Mai</td><td>1993</td></tr>
 <tr><td>Luxemburg</td><td>1. Juni</td><td>1959 B</td><td>1. Juni</td><td>1959</td></tr>
 <tr><td>Malta</td><td>13. März</td><td>1970 B</td><td>13. März</td><td>1970</td></tr>
-<tr><td>Mazedonien</td><td>24. Februar</td><td>1997</td><td>24. Februar</td><td>1997</td></tr>
+<tr><td>Nordmazedonien</td><td>24. Februar</td><td>1997</td><td>24. Februar</td><td>1997</td></tr>
 <tr><td>Montenegro</td><td>18. Dezember</td><td>2017 B</td><td>18. Dezember</td><td>2017</td></tr>
 <tr><td>Niederlande</td><td>12. Juni</td><td>1954</td><td>12. Juni</td><td>1954</td></tr>
 <tr><td>Norwegen</td><td>11. Dezember</td><td>1953</td><td>12. Juni</td><td>1954</td></tr>
@@ -330,4 +332,4 @@ Geltungsbereich am 27. Juli 2018**[^t-2]**
 <tr><td>Zypern</td><td>11. Januar</td><td>1971</td><td>11. Januar</td><td>1971</td></tr>
 </table>
 
-[^t-2]: [AS 1975 1469](https://fedlex.data.admin.ch/eli/oc/1975/1469_1469_1469), [1983 328](https://fedlex.data.admin.ch/eli/oc/1983/328_328_328), [1985 310](https://fedlex.data.admin.ch/eli/oc/1985/310_310_310), [1986 1428](https://fedlex.data.admin.ch/eli/oc/1986/1428_1428_1428), [2010 3617](https://fedlex.data.admin.ch/eli/oc/2010/523), [2018 2945](https://fedlex.data.admin.ch/eli/oc/2018/449). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-3]: [AS 1975 1469](https://fedlex.data.admin.ch/eli/oc/1975/1469_1469_1469); [1983 328](https://fedlex.data.admin.ch/eli/oc/1983/328_328_328); [1985 310](https://fedlex.data.admin.ch/eli/oc/1985/310_310_310); [1986 1428](https://fedlex.data.admin.ch/eli/oc/1986/1428_1428_1428); [2010 3617](https://fedlex.data.admin.ch/eli/oc/2010/523); [2018 2945](https://fedlex.data.admin.ch/eli/oc/2018/449). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty)
