@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Ordinanza del 4 marzo 2022 che istituisce provvedimenti in relazione alla situazione in Ucraina
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: it
-version: 2022-12-08
+version: 2022-12-09
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20221208/it/xml/fedlex-data-admin-ch-eli-cc-2022-151-20221208-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20221208/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20221209/it/xml/fedlex-data-admin-ch-eli-cc-2022-151-20221209-it-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20221209/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti in relazione alla situazione in Ucraina
 
-del 4 marzo 2022 (Stato 8 dicembre 2023)
+del 4 marzo 2022 (Stato 9 dicembre 2023)
 
 Il Consiglio federale svizzero,
 
@@ -858,11 +858,13 @@ D’intesa con i servizi competenti del DFAE e del DFF, la SECO può autorizzare
 - b.[^24a-2] una banca, un’impresa o un’organizzazione situata al di fuori della Svizzera o di uno Stato membro dello SEE e controllata per oltre il 50 per cento da banche o imprese di cui alla lettera a;
 - c. un’impresa o un’organizzazione che agisce per conto o sotto la direzione di una banca, di un’impresa o di un’organizzazione di cui alle lettere a o b.
 
+<sup>1bis</sup> È vietato ricoprire una funzione negli organi direttivi di qualsivoglia persona giuridica, entità od organismo di cui al capoverso 1.[^24a-3]
+
 <sup>2</sup>
 
 Il divieto di cui al capoverso 1 non si applica:
 
-- a.[^24a-3] alle transazioni necessarie per l’acquisto, l’importazione o il trasporto di gas, titanio, alluminio, rame, nichel, palladio e minerali di ferro dalla Federazione Russa, o attraverso la Federazione Russa, in Svizzera, in uno Stato membro dello SEE o in Albania, Bosnia ed Erzegovina, Macedonia del Nord, Montenegro, Kosovo o Serbia;
+- a.[^24a-4] alle transazioni necessarie per l’acquisto, l’importazione o il trasporto di gas, titanio, alluminio, rame, nichel, palladio e minerali di ferro dalla Federazione Russa, o attraverso la Federazione Russa, in Svizzera, in uno Stato membro dello SEE o in Albania, Bosnia ed Erzegovina, Macedonia del Nord, Montenegro, Kosovo o Serbia;
 - b. alle transazioni relative a progetti energetici al di fuori della Federazione Russa in cui una banca, un’impresa o un’organizzazione elencata nell’allegato 15 è un azionista di minoranza;
 - c.
 
@@ -871,20 +873,21 @@ Il divieto di cui al capoverso 1 non si applica:
   - 1\. permettere lo svolgimento di attività umanitarie o di aiuto alla popolazione civile in relazione alla situazione in Ucraina da parte di organismi pubblici o di imprese e organizzazioni che ricevono un finanziamento dalla Confederazione per svolgere attività umanitarie o fornire aiuto alla popolazione civile, oppure
   - 2\. permettere lo svolgimento delle attività ufficiali delle rappresentanze diplomatiche o consolari della Svizzera e l’adempimento di missioni ufficiali della Confederazione;
 
-- d.[^24a-4] alle transazioni relative alla fornitura di servizi di telecomunicazione o dei centri di dati oppure alla prestazione di servizi e alla fornitura di apparecchiature necessarie per il funzionamento, la manutenzione e la sicurezza dei servizi di telecomunicazione, compresa la messa a disposizione di firewall e di servizi di call center per una banca, un’impresa o un’organizzazione elencata nell’allegato 15;
-- e.[^24a-5] alle transazioni necessarie per l’acquisto, l’importazione o il trasporto, diretti o indiretti, di petrolio, compresi i prodotti derivanti dalla raffinazione del petrolio, dalla Federazione Russa o attraverso la Federazione Russa;
-- f.[^24a-6] alle transazioni necessarie per l’acquisto, l’importazione o il trasporto di prodotti farmaceutici, dispositivi medici e prodotti agricoli e alimentari, compresi il frumento e i concimi;
-- g.[^24a-7] alle transazioni necessarie per garantire l’accesso a procedimenti giudiziari, amministrativi o arbitrali in Svizzera o in uno Stato membro del SEE o per il riconoscimento o l’esecuzione di una sentenza o di un lodo arbitrale resi in Svizzera o in uno Stato membro del SEE.
+- d.[^24a-5] alle transazioni relative alla fornitura di servizi di telecomunicazione o dei centri di dati oppure alla prestazione di servizi e alla fornitura di apparecchiature necessarie per il funzionamento, la manutenzione e la sicurezza dei servizi di telecomunicazione, compresa la messa a disposizione di firewall e di servizi di call center per una banca, un’impresa o un’organizzazione elencata nell’allegato 15;
+- e.[^24a-6] alle transazioni necessarie per l’acquisto, l’importazione o il trasporto, diretti o indiretti, di petrolio, compresi i prodotti derivanti dalla raffinazione del petrolio, dalla Federazione Russa o attraverso la Federazione Russa;
+- f.[^24a-7] alle transazioni necessarie per l’acquisto, l’importazione o il trasporto di prodotti farmaceutici, dispositivi medici e prodotti agricoli e alimentari, compresi il frumento e i concimi;
+- g.[^24a-8] alle transazioni necessarie per garantire l’accesso a procedimenti giudiziari, amministrativi o arbitrali in Svizzera o in uno Stato membro del SEE o per il riconoscimento o l’esecuzione di una sentenza o di un lodo arbitrale resi in Svizzera o in uno Stato membro del SEE.
 
 <sup>3</sup> D’intesa con i servizi competenti del DFAE e del DFF, la SECO può, in via eccezionale, autorizzare deroghe al divieto di cui al capoverso 1 per permettere lo svolgimento di attività umanitarie o di aiuto alla popolazione civile in relazione alla situazione in Ucraina.
 
 [^24a-1]: Introdotto dal n. I dell’O del 25 mar. 2022, in vigore dal 25 mar. 2022 alle ore 23.00 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
 [^24a-2]: Nuovo testo giusta il n. I dell’O del 29 giu. 2022, in vigore dal 29 giu. 2022 alle ore 18.00 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
-[^24a-3]: Nuovo testo giusta il n. I dell’O del 3 ago. 2022, in vigore dal 3 ago. 2022 alle ore 18.00 ([RU 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)).
-[^24a-4]: Introdotta dal n. I dell’O del 29 giu. 2022, in vigore dal 29 giu. 2022 alle ore 18.00 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
-[^24a-5]: Introdotta dal n. I dell’O del 3 ago. 2022 ([RU 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)). Nuovo testo giusta il n. I dell’O del 31 ago. 2022, in vigore dal 31 ago. 2022 alle ore 18.00 ([RU 2022 477](https://fedlex.data.admin.ch/eli/oc/2022/477)).
+[^24a-3]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 9 dic. 2022 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
+[^24a-4]: Nuovo testo giusta il n. I dell’O del 3 ago. 2022, in vigore dal 3 ago. 2022 alle ore 18.00 ([RU 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)).
+[^24a-5]: Introdotta dal n. I dell’O del 29 giu. 2022, in vigore dal 29 giu. 2022 alle ore 18.00 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
 [^24a-6]: Introdotta dal n. I dell’O del 3 ago. 2022 ([RU 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)). Nuovo testo giusta il n. I dell’O del 31 ago. 2022, in vigore dal 31 ago. 2022 alle ore 18.00 ([RU 2022 477](https://fedlex.data.admin.ch/eli/oc/2022/477)).
-[^24a-7]: Introdotta dal n. I dell’O del 3 ago. 2022, in vigore dal 3 ago. 2022 alle ore 18.00 ([RU 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)).
+[^24a-7]: Introdotta dal n. I dell’O del 3 ago. 2022 ([RU 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)). Nuovo testo giusta il n. I dell’O del 31 ago. 2022, in vigore dal 31 ago. 2022 alle ore 18.00 ([RU 2022 477](https://fedlex.data.admin.ch/eli/oc/2022/477)).
+[^24a-8]: Introdotta dal n. I dell’O del 3 ago. 2022, in vigore dal 3 ago. 2022 alle ore 18.00 ([RU 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)).
 
 #### Art. 25
 
@@ -1714,7 +1717,7 @@ Allegato 8[^t-8]
 
 [^annex8-lvlu1-1]
 
-[^t-8]: Aggiornato dai n. I delle O del DEFR del 16 mar. ([RU 2022 173](https://fedlex.data.admin.ch/eli/oc/2022/173)), del 13 apr. 2022 ([RU 2022 237](https://fedlex.data.admin.ch/eli/oc/2022/237)), del 3 mag. 2022 ([RU 2022 270](https://fedlex.data.admin.ch/eli/oc/2022/270)), dal n. I cpv. 1 delle O del DEFR del 10 giu. 2022 ([RU 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)), del 28 lug. 2022 ([RU 2022 432](https://fedlex.data.admin.ch/eli/oc/2022/432)), dal n. II cpv. 1 dell’O del 3 ago. 2022 ([RU 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)), dal n. I delle O del DEFR del 16 ago. 2022 ([RU 2022 451](https://fedlex.data.admin.ch/eli/oc/2022/451)), dell’8 set. 2022 ([RU 2022 500](https://fedlex.data.admin.ch/eli/oc/2022/500)), del 26 set. 2022 ([RU 2022 533](https://fedlex.data.admin.ch/eli/oc/2022/533)), dal n. I cpv. 1 dell’O del DEFR dell’11 ott. 2022 ([RU 2022 578](https://fedlex.data.admin.ch/eli/oc/2022/578)), dal n. I dell’O del DEFR del 31 ott. 2022 ([RU 2022 631](https://fedlex.data.admin.ch/eli/oc/2022/631)) e dal n. I cpv. 1 dell’O del DEFR del 7 dic. 2022, in vigore dall’8 dic. 2022 alle ore 18.00 ([RU 2022 780](https://fedlex.data.admin.ch/eli/oc/2022/780)).
+[^t-8]: Aggiornato dal n. I delle O del DEFR del 16 mar. ([RU 2022 173](https://fedlex.data.admin.ch/eli/oc/2022/173)), del 13 apr. 2022 ([RU 2022 237](https://fedlex.data.admin.ch/eli/oc/2022/237)), del 3 mag. 2022 ([RU 2022 270](https://fedlex.data.admin.ch/eli/oc/2022/270)), dal n. I cpv. 1 delle O del DEFR del 10 giu. 2022 ([RU 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)), del 28 lug. 2022 ([RU 2022 432](https://fedlex.data.admin.ch/eli/oc/2022/432)), dal n. II cpv. 1 dell’O del 3 ago. 2022 ([RU 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)), dal n. I delle O del DEFR del 16 ago. 2022 ([RU 2022 451](https://fedlex.data.admin.ch/eli/oc/2022/451)), dell’8 set. 2022 ([RU 2022 500](https://fedlex.data.admin.ch/eli/oc/2022/500)), del 26 set. 2022 ([RU 2022 533](https://fedlex.data.admin.ch/eli/oc/2022/533)), dal n. I cpv. 1 dell’O del DEFR dell’11 ott. 2022 ([RU 2022 578](https://fedlex.data.admin.ch/eli/oc/2022/578)), dal n. I dell’O del DEFR del 31 ott. 2022 ([RU 2022 631](https://fedlex.data.admin.ch/eli/oc/2022/631)) e dal n. I cpv. 1 dell’O del DEFR del 7 dic. 2022, in vigore dall’8 dic. 2022 alle ore 18.00 ([RU 2022 780](https://fedlex.data.admin.ch/eli/oc/2022/780)).
 [^annex8-lvlu1-1]: Il contenuto del presente allegato è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2022/780](https://fedlex.data.admin.ch/eli/oc/2022/780) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 9

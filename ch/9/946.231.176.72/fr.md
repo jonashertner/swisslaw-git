@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Ordonnance du 4 mars 2022 instituant des mesures en lien avec la situation en Ukraine
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: fr
-version: 2022-12-08
+version: 2022-12-09
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20221208/fr/xml/fedlex-data-admin-ch-eli-cc-2022-151-20221208-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20221208/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20221209/fr/xml/fedlex-data-admin-ch-eli-cc-2022-151-20221209-fr-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20221209/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures en lien avec la situation en Ukraine
 
-du 4 mars 2022 (État le 8 décembre 2022)
+du 4 mars 2022 (État le 9 décembre 2022)
 
 Le Conseil fédéral suisse,
 
@@ -856,11 +856,13 @@ Il est interdit de participer directement ou indirectement à toute transaction 
 - b.[^24a-2] une banque, une entreprise ou une entité sise en dehors de la Suisse ou d’un État membre de l’EEE et contrôlée à plus de 50 % par des banques ou des entreprises visées à la let. a;
 - c. une entreprise ou une entité agissant pour le compte ou selon les instructions d’une banque, d’une entreprise ou d’une entité visée à la let. a ou b.
 
+<sup>1bis</sup> Il est interdit d’exercer une fonction au sein des organes directeurs d’une personne morale, d’une entité ou d’un organisme visé à l’al. 1.[^24a-3]
+
 <sup>2</sup>
 
 L’interdiction visée à l’al. 1 ne s’applique pas:
 
-- a.[^24a-3] aux transactions nécessaires à l’achat, à l’importation ou au transport de gaz naturel, de titane, d’aluminium, de cuivre, de nickel, de palladium et de minerai de fer, depuis ou via la Fédération de Russie vers la Suisse, un État membre de l’EEE, l’Albanie, la Bosnie et Herzégovine, le Kosovo, le Monténégro, la Macédoine du Nord ou la Serbie;
+- a.[^24a-4] aux transactions nécessaires à l’achat, à l’importation ou au transport de gaz naturel, de titane, d’aluminium, de cuivre, de nickel, de palladium et de minerai de fer, depuis ou via la Fédération de Russie vers la Suisse, un État membre de l’EEE, l’Albanie, la Bosnie et Herzégovine, le Kosovo, le Monténégro, la Macédoine du Nord ou la Serbie;
 - b. aux transactions liées à des projets énergétiques hors de la Fédération de Russie dans lesquels une banque, une entreprise ou une entité visée à l’annexe 15 est un actionnaire minoritaire;
 - c.
 
@@ -869,20 +871,21 @@ L’interdiction visée à l’al. 1 ne s’applique pas:
   - 1\. de réaliser des activités humanitaires ou de fournir une aide à la population civile en lien avec la situation en Ukraine par des organismes publics ou par des entreprises et entités qui reçoivent un financement de la Confédération pour mener des activités humanitaires ou fournir une aide à la population civile, ou
   - 2\. de permettre l’exercice des activités officielles de représentations diplomatiques ou consulaires de la Suisse et l’accomplissement de missions officielles de la Confédération;
 
-- d.[^24a-4] aux transactions liées à la fourniture de services de télécommunication ou de services et d’équipements nécessaires au fonctionnement, à l’entretien, à la sécurité des services de télécommunication, y compris la fourniture de pare-feu et de services de centres d’appel, à une banque, à une entreprise ou à une entité visée à l’annexe 15;
-- e.[^24a-5] aux transactions qui sont nécessaires, directement ou indirectement, à l’achat, à l’importation ou au transport, de pétrole, y compris les produits pétroliers raffinés, depuis ou via la Fédération de Russie;
-- f.[^24a-6] aux transactions qui sont nécessaires à l’achat, à l’importation ou au transport de produits pharmaceutiques, médicaux, agricoles et alimentaires, y compris le blé et les engrais;
-- g.[^24a-7] aux transactions qui sont nécessaires pour garantir l’accès aux procédures judiciaires, administratives ou arbitrales en Suisse ou dans un État membre de l’EEE, ou à la reconnaissance ou à l’exécution d’un jugement ou d’une sentence arbitrale rendus en Suisse ou dans un État membre de l’EEE.
+- d.[^24a-5] aux transactions liées à la fourniture de services de télécommunication ou de services et d’équipements nécessaires au fonctionnement, à l’entretien, à la sécurité des services de télécommunication, y compris la fourniture de pare-feu et de services de centres d’appel, à une banque, à une entreprise ou à une entité visée à l’annexe 15;
+- e.[^24a-6] aux transactions qui sont nécessaires, directement ou indirectement, à l’achat, à l’importation ou au transport, de pétrole, y compris les produits pétroliers raffinés, depuis ou via la Fédération de Russie;
+- f.[^24a-7] aux transactions qui sont nécessaires à l’achat, à l’importation ou au transport de produits pharmaceutiques, médicaux, agricoles et alimentaires, y compris le blé et les engrais;
+- g.[^24a-8] aux transactions qui sont nécessaires pour garantir l’accès aux procédures judiciaires, administratives ou arbitrales en Suisse ou dans un État membre de l’EEE, ou à la reconnaissance ou à l’exécution d’un jugement ou d’une sentence arbitrale rendus en Suisse ou dans un État membre de l’EEE.
 
 <sup>3</sup> Le SECO peut, exceptionnellement, après avoir consulté les services compétents du DFAE et du DFF, autoriser des dérogations à l’interdiction prévue à l’al. 1 pour permettre la réalisation d’activités humanitaires ou la fourniture d’une aide à la population civile en lien avec la situation en Ukraine.
 
 [^24a-1]: Introduit par le ch. I de l’O du 25 mars 2022, en vigueur depuis le 25 mars 2022 à 23 heures ([RO 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
 [^24a-2]: Nouvelle teneur selon le ch. I de l’O du 29 juin 2022, en vigueur depuis le 29 juin 2022 à 18 heures ([RO 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
-[^24a-3]: Nouvelle teneur selon le ch. I de l’O du 3 août 2022, en vigueur depuis le 3 août 2022 à 18 heures ([RO 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)).
-[^24a-4]: Introduite par le ch. I de l’O du 29 juin 2022, en vigueur depuis le 29 juin 2022 à 18 heures ([RO 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
-[^24a-5]: Introduite par le ch. I de l’O du 3 août 2022 ([RO 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)). Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 31 août 2022 à 18 heures ([RO 2022 477](https://fedlex.data.admin.ch/eli/oc/2022/477)).
-[^24a-6]: Introduite par le ch. I de l’O du 3 août 2022,([RO 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)). Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 31 août 2022 à 18 heures ([RO 2022 477](https://fedlex.data.admin.ch/eli/oc/2022/477)).
-[^24a-7]: Introduite par le ch. I de l’O du 3 août 2022, en vigueur depuis le 3 août 2022 à 18 heures ([RO 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)).
+[^24a-3]: Introduit par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 9 déc. 2022 ([RO 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
+[^24a-4]: Nouvelle teneur selon le ch. I de l’O du 3 août 2022, en vigueur depuis le 3 août 2022 à 18 heures ([RO 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)).
+[^24a-5]: Introduite par le ch. I de l’O du 29 juin 2022, en vigueur depuis le 29 juin 2022 à 18 heures ([RO 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
+[^24a-6]: Introduite par le ch. I de l’O du 3 août 2022 ([RO 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)). Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 31 août 2022 à 18 heures ([RO 2022 477](https://fedlex.data.admin.ch/eli/oc/2022/477)).
+[^24a-7]: Introduite par le ch. I de l’O du 3 août 2022,([RO 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)). Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 31 août 2022 à 18 heures ([RO 2022 477](https://fedlex.data.admin.ch/eli/oc/2022/477)).
+[^24a-8]: Introduite par le ch. I de l’O du 3 août 2022, en vigueur depuis le 3 août 2022 à 18 heures ([RO 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)).
 
 #### Art. 25
 
