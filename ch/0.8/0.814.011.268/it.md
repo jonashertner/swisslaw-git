@@ -3,11 +3,11 @@ sr: "0.814.011.268"
 title: "Accordo del 23 novembre 2017 tra la Confederazione Svizzera e l'Unione europea sul collegamento dei rispettivi sistemi di scambio di quote di emissioni di gas a effetto serra (con allegati)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/124"
 language: it
-version: 2021-12-15
+version: 2022-12-09
 adopted: 2017-11-23
 in_force: 2017-11-23
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/124/20211215/it/xml/fedlex-data-admin-ch-eli-cc-2018-124-20211215-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/124/20211215/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/124/20221209/it/xml/fedlex-data-admin-ch-eli-cc-2018-124-20221209-it-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/124/20221209/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ RU **2018** 895; FF **2019** 2299
 
 Concluso a Berna il 23 novembre 2017 Applicazione provvisoria degli articoli 11–13 dal 23 novembre 2017 Approvato dall’Assemblea federale il 22 marzo 2019[^t-1] Istrumento di ratificazione depositato dalla Svizzera il 6 dicembre 2019 In vigore dal 1° gennaio 2020[^t-2] [^t-3]
 
-(Stato 15 dicembre 2021)
+(Stato 9 dicembre 2022)
 
 [^t-1]: [RU 2019 4327](https://fedlex.data.admin.ch/eli/oc/2019/752)
 [^t-2]: [RU 2019 5013](https://fedlex.data.admin.ch/eli/oc/2019/790)
@@ -65,7 +65,7 @@ hanno convenuto quanto segue:
 [^ingress-1]: [RS 0.814.01](https://fedlex.data.admin.ch/eli/cc/1994/1052_1052_1052)
 [^ingress-2]: [RS 0.814.011](https://fedlex.data.admin.ch/eli/cc/2004/802)
 [^ingress-3]: [RS 0.748.131.934.92](https://fedlex.data.admin.ch/eli/cc/1950/1299_1334_1312)
-[^ingress-4]: RS **0****.**[814.012](https://fedlex.data.admin.ch/eli/cc/1991/748_748_748)
+[^ingress-4]: [RS 0.814.012](https://fedlex.data.admin.ch/eli/cc/2017/619)
 
 ## Capitolo I: Disposizioni generali
 
@@ -351,7 +351,7 @@ Fatto a Berna il 23 novembre 2017.
 <tr><td>Per la Confederazione Svizzera: Marc Chardonnens</td><td>Per l’Unione europea: Rein Oidekivi Michael Matthiessen</td></tr>
 </table>
 
-Allegato I*[^t-4]*
+Allegato I[^t-4]
 
 ## CRITERI FONDAMENTALI
 
@@ -384,7 +384,7 @@ La presente sezione è sottoposta a revisione conformemente all’articolo 13 pa
 <tr><td>13 La verifica e l’accreditamento nell’ambito del SSQE sono rigorosi almeno quanto quelli di cui a:</td><td>– Articolo 15 e allegato V della direttiva 2003/87/CE – Regolamento (UE) n. 600/2012 della Commissione, del 21 giugno 2012, sulla verifica delle comunicazioni delle emissioni dei gas a effetto serra e delle tonnellate-chilometro e sull’accreditamento dei verificatori a norma della direttiva 2003/87/CE del Parlamento europeo e del Consiglio – Regolamento di esecuzione (UE) 2018/2067 della Commissione, del 19 dicembre 2018, concernente la verifica dei dati e l’accreditamento dei verificatori a norma della direttiva 2003/87/CE del Parlamento europeo e del Consiglio, in vigore alla data di entrata in vigore del presente Accordo.</td><td>– gli articoli 51–54 dell’ordinanza sul CO<sub>2</sub>, in vigore alla data di entrata in vigore del presente Accordo.</td></tr>
 </table>
 
-[^annexI-lvlu1-lvlA-1]: RS **956****.****1**
+[^annexI-lvlu1-lvlA-1]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
 [^annexI-lvlu1-lvlA-2]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
 [^annexI-lvlu1-lvlA-3]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
 [^annexI-lvlu1-lvlA-4]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
@@ -513,7 +513,7 @@ Il criterio fondamentale 3 si applica unitamente alla seguente disposizione: l�
 
 La Svizzera può incaricare enti ubicati nello SEE di condurre le aste.
 
-Allegato II*[^t-5]*
+Allegato II[^t-5]
 
 ## Norme tecniche di collegamento
 
@@ -555,9 +555,11 @@ Le NTC prevedono due ambienti di prova oltre all’ambiente di produzione: un am
 
 Le parti dimostrano, tramite l’amministratore del registro della Svizzera e l’amministratore centrale dell’Unione, che è stata effettuata una valutazione indipendente della sicurezza dei loro sistemi nei dodici mesi precedenti, in conformità delle prescrizioni di sicurezza di cui alle NTC. Le prove di sicurezza, in particolare i test di penetrazione, sono effettuate su tutte le nuove versioni rilevanti del software in conformità delle prescrizioni di sicurezza di cui alle NTC. I test di penetrazione non sono eseguiti dallo sviluppatore del software né da un suo subappaltatore.
 
-Allegato III
+Allegato III[^t-6]
 
 ## Livelli di riservatezza e istruzioni di trattamento
+
+[^t-6]: Nuovo testo giusta l’art. 1 della Dec. n. 1/2022 del comitato misto del 9 dic. 2022, in vigore dal 9 dic. 2022 ([RU 2023 547](https://fedlex.data.admin.ch/eli/oc/2023/547)).
 
 Le Parti contraenti applicano i livelli di riservatezza seguenti al fine di individuare le informazioni riservate che sono trattate e scambiate nell’ambito del presente Accordo:
 
@@ -604,9 +606,11 @@ La normativa di ciascuna Parte contraente include requisiti di sicurezza essenzi
   - – Archiviazione
   - – Eliminazione e distruzione
 
-Allegato IV
+Allegato IV[^t-7]
 
 ## Definizione dei livelli di riservatezza dei SSQE
+
+[^t-7]: Nuovo testo giusta l’art. 1 della Dec. n. 1/2022 del comitato misto del 9 dic. 2022, in vigore dal 9 dic. 2022 ([RU 2023 547](https://fedlex.data.admin.ch/eli/oc/2023/547)).
 
 ### A.1Valutazione della riservatezza e dell’integrità
 
@@ -673,5 +677,3 @@ Sulla base dei livelli di riservatezza e d’integrità ai sensi della precedent
 <tr><td>**Alto**</td><td>SSQE riservatissimo</td><td>SSQE riservatissimo</td><td>SSQE riservatissimo</td></tr>
 <tr><td colspan="4">\* Variazione possibile da valutare caso per caso.</td></tr>
 </table>
-
-- [tab]

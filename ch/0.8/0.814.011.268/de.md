@@ -3,24 +3,24 @@ sr: "0.814.011.268"
 title: Abkommen vom 23. November 2017 zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Union zur Verknüpfung ihrer jeweiligen Systeme für den Handel mit Treibhausgasemissionen (mit Anhängen)
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/124"
 language: de
-version: 2021-12-15
+version: 2022-12-09
 adopted: 2017-11-23
 in_force: 2017-11-23
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/124/20211215/de/xml/fedlex-data-admin-ch-eli-cc-2018-124-20211215-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/124/20211215/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/124/20221209/de/xml/fedlex-data-admin-ch-eli-cc-2018-124-20221209-de-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/124/20221209/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Abkommen zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Union zur Verknüpfung ihrer jeweiligen Systeme für den Handel mit Treibhausgasemissionen
 
-AS **2****018** 895; BBl **2018** 411
+AS **2018** 895; BBl **2018** 411
 
 *Originaltext*
 
 Abgeschlossen in Bern am 23. November 2017 Provisorische Anwendung der Artikel 11–13 ab 23. November 2017 Von der Bundesversammlung genehmigt am 22. März 2019[^t-1] Ratifikationsurkunde hinterlegt am 6. Dezember 2019 In Kraft getreten am 1. Januar 2020[^t-2] [^t-3]
 
-(Stand am 15. Dezember 2021)
+(Stand am 9. Dezember 2022)
 
 [^t-1]: [AS 2019 4327](https://fedlex.data.admin.ch/eli/oc/2019/752)
 [^t-2]: [AS 2019 5013](https://fedlex.data.admin.ch/eli/oc/2019/790)
@@ -349,7 +349,7 @@ Geschehen zu Bern am 23. November 2017.
 <tr><td>Für die Schweizerische Eidgenossenschaft: Marc Chardonnens</td><td>Für die Europäische Union: Rein Oidekivi Michael Matthiessen</td></tr>
 </table>
 
-Anhang I*[^t-4]*
+Anhang I[^t-4]
 
 ## Wesentliche Kriterien
 
@@ -510,7 +510,7 @@ Das wesentliche Kriterium 3 gilt in Verbindung mit der folgenden Bestimmung: Zur
 
 Die Schweiz kann Einrichtungen, die im EWR ansässig sind, mit der Durchführung der Versteigerungen beauftragen.
 
-Anhang II*[^t-5]*
+Anhang II[^t-5]
 
 ## Technische Verknüpfungsstandards
 
@@ -552,9 +552,11 @@ In den LTS sind neben der Produktionsumgebung zwei Testumgebungen vorgesehen: ei
 
 Die Vertragsparteien legen durch den Schweizer Registerverwalter und den Zentralverwalter der Union den Nachweis vor, dass ihre Systeme im Einklang mit den in den LTS festgelegten Sicherheitsanforderungen in den vorhergehenden 12 Monaten einer unabhängigen Sicherheitsbewertung unterzogen wurden. Alle wichtigen neuen Versionen der Software werden im Einklang mit den in den LTS festgelegten Sicherheitsanforderungen einer Sicherheitsprüfung und insbesondere Penetrationstests unterzogen. Der Penetrationstest darf nicht vom Entwickler der Software oder einem Subunternehmer des Softwareentwicklers durchgeführt werden.
 
-Anhang III
+Anhang III[^t-6]
 
 ## Vertraulichkeitsstufen und Handhabungsvorschriften
+
+[^t-6]: Fassung gemäss Art. 1 des Beschlusses Nr. 1/2022 des Gemeinsamen Ausschusses vom 9. Dez. 2022, in Kraft seit 9. Dez. 2022 ([AS 2023 547](https://fedlex.data.admin.ch/eli/oc/2023/547)).
 
 Die Vertragsparteien kommen überein, die folgenden Vertraulichkeitsstufen zur Kennzeichnung vertraulicher Informationen, die im Rahmen dieses Abkommens bearbeitet und ausgetauscht werden, zu verwenden:
 
@@ -601,9 +603,11 @@ Die Rechtsvorschriften der Vertragsparteien enthalten für die nachstehend genan
   - – Archivierung
   - – Löschung und Vernichtung
 
-Anhang IV
+Anhang IV[^t-7]
 
 ## Festlegung der EHS-Vertraulichkeitsstufen
+
+[^t-7]: Fassung gemäss Art. 1 des Beschlusses Nr. 1/2022 des Gemeinsamen Ausschusses vom 9. Dez. 2022, in Kraft seit 9. Dez. 2022 ([AS 2023 547](https://fedlex.data.admin.ch/eli/oc/2023/547)).
 
 ### A.1Vertraulichkeits- und Integritätseinstufung
 

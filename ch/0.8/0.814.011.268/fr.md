@@ -3,11 +3,11 @@ sr: "0.814.011.268"
 title: "Accord du 23 novembre 2017 entre la Confédération suisse et l'Union européenne sur le couplage de leurs systèmes d'échange de quotas d'émission de gaz à effet de serre (avec annexes)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/124"
 language: fr
-version: 2021-12-15
+version: 2022-12-09
 adopted: 2017-11-23
 in_force: 2017-11-23
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/124/20211215/fr/xml/fedlex-data-admin-ch-eli-cc-2018-124-20211215-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/124/20211215/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/124/20221209/fr/xml/fedlex-data-admin-ch-eli-cc-2018-124-20221209-fr-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/124/20221209/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,11 +16,11 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/124/20211215/fr"
 
 RO **2018** 895; FF **2018** 399
 
-*Texte original*
+Texte original
 
 Conclu à Berne le 23 novembre 2017 Application provisoire des art. 11 à 13 dès le 23 novembre 2017 Approuvé par l’Assemblée fédérale le 22 mars 2019[^t-1] Instrument de ratification suisse déposé le 6 décembre 2019 Entré en vigueur le 1<sup>er</sup> janvier 2020[^t-2] [^t-3]
 
-(Etat le 15 décembre 2021)
+(État le 9 décembre 2022)
 
 [^t-1]: [RO 2019 4327](https://fedlex.data.admin.ch/eli/oc/2019/752)
 [^t-2]: [RO 2019 5013](https://fedlex.data.admin.ch/eli/oc/2019/790)
@@ -351,7 +351,7 @@ Fait à Berne, le 23 novembre 2017.
 <tr><td>Pour la Confédération suisse: Marc Chardonnens</td><td>Pour l’Union européenne: Rein Oidekivi Michael Matthiessen</td></tr>
 </table>
 
-Annexe I*[^t-4]*
+Annexe I[^t-4]
 
 ## Critères essentiels
 
@@ -511,7 +511,7 @@ Le critère essentiel 3 s’applique, avec la disposition suivante: l’admissio
 
 La Suisse peut mandater des entités de vente aux enchères qui sont situées dans l’EEE.
 
-Annexe II*[^t-5]*
+Annexe II[^t-5]
 
 ## Normes techniques de couplage
 
@@ -553,9 +553,11 @@ Les normes techniques de couplage prévoient deux environnements d’essai en pl
 
 Par l’intermédiaire de l’administrateur du registre suisse et de l’administrateur central de l’Union, les parties fournissent la preuve qu’une évaluation indépendante de la sécurité de leurs systèmes a été effectuée au cours des douze mois précédents, conformément aux exigences de sécurité établies dans les normes techniques de couplage. Des essais de sécurité, et plus précisément des essais d’intrusion, sont effectués sur toutes les nouvelles versions majeures du logiciel, conformément aux exigences de sécurité énoncées dans les normes techniques de couplage. L’essai d’intrusion n’est pas effectué par le développeur du logiciel ni par un sous-traitant du développeur du logiciel.
 
-Annexe III
+Annexe III[^t-6]
 
 ## Niveaux de sensibilité et instructions de traitement
+
+[^t-6]: Nouvelle teneur selon l’art. 1 de la D n<sup>o</sup> 1/2022 du comité mixte du 9 déc. 2022, en vigueur depuis le 9 déc. 2022 ([RO 2023 547](https://fedlex.data.admin.ch/eli/oc/2023/547)).
 
 Les parties conviennent d’utiliser les niveaux de sensibilité suivants pour identifier les informations sensibles qui sont traitées et échangées dans le cadre du présent Accord:
 
@@ -602,9 +604,11 @@ La législation de chaque partie inclut des exigences essentielles de sécurité
   - – Archivage
   - – Suppression et destruction
 
-Annexe IV
+Annexe IV[^t-7]
 
 ## Définition des niveaux de sensibilité SEQE
+
+[^t-7]: Nouvelle teneur selon l’art. 1 de la D n<sup>o</sup> 1/2022 du comité mixte du 9 déc. 2022, en vigueur depuis le 9 déc. 2022 ([RO 2023 547](https://fedlex.data.admin.ch/eli/oc/2023/547)).
 
 ### A.1Niveau de confidentialité et d’intégrité
 
