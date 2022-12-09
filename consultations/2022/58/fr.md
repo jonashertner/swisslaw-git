@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Iv.pa. Regroupement familial. Supprimer toute discrimination subie en raison du droit interne
 document: Projet mis en consultation
 language: fr

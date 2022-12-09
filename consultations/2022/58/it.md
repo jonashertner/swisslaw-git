@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Iv.pa. Eliminare e impedire le discriminazioni degli svizzeri nell’ambito del ricongiungimento familiare
 document: Progetto posto in consultazione
 language: it

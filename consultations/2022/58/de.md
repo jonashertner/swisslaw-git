@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Pa.Iv. Beseitigung und Verhinderung der Inländerinnen- und Inländerdiskriminierung beim Familiennachzug
 document: Vernehmlassungsvorlage
 language: de
