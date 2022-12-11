@@ -1,28 +1,28 @@
 ---
 canton: FR
 number: "431.1.16"
-title: "Ordonnance limitant le nombre de places d'études en Master of Medicine (MMed) à l'Université de Fribourg pour l'année académique 2022/23"
+title: "Ordonnance limitant le nombre de places d'études en Master of Medicine (MMed) à l'Université de Fribourg pour l'année académique 2023/24"
 language: fr
-version: 2021-11-03
-valid_until: 2022-12-11
-version_adopted: 2021-11-03
+version: 2022-12-12
+valid_until: 2023-11-06
+version_adopted: 2022-12-12
 adopted: 2026-01-27
 in_force: 2026-06-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/431.1.16"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7666/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7678/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
 
-# Ordonnance limitant le nombre de places d'études en Master of Medicine (MMed) à l'Université de Fribourg pour l'année académique 2022/23
+# Ordonnance limitant le nombre de places d'études en Master of Medicine (MMed) à l'Université de Fribourg pour l'année académique 2023/24
 
 Université, Master of Medicine (MMed) – O
 
-du 03.11.2021 (version entrée en vigueur le 03.11.2021)
+du 12.12.2022 (version entrée en vigueur le 12.12.2022)
 
 Le Conseil d'Etat du canton de Fribourg
 
-Vu l'article 24 de la loi du 19 novembre 1997 sur l'Université (LUni);
+Vu la loi du 19 novembre 1997 sur l'Université (LUni);
 
 Considérant:
 
@@ -30,9 +30,9 @@ Le Grand Conseil du canton de Fribourg a approuvé, le 7 septembre 2016, la cré
 
 La filière d'études a commencé au semestre d'automne 2019. Le nombre de places d'études disponibles est limité, en particulier en raison des exigences inhérentes à la formation clinique. Etant donné que l'on peut s'attendre à ce que les capacités d'accueil soient dépassées, les critères pour l'attribution des places d'études doivent être fixés.
 
-La présente ordonnance a été préavisée favorablement par le Rectorat de l'Université de Fribourg, en sa séance du 13 septembre 2021.
+La présente ordonnance a été préavisée favorablement par le Rectorat de l'Université de Fribourg, en sa séance du 28 novembre 2022.
 
-Sur la proposition de la Direction de l'instruction publique, de la culture et du sport,
+Sur la proposition de la Direction de la formation et des affaires culturelles,
 
 Arrête:
 
@@ -40,7 +40,7 @@ Arrête:
 
 **Champ d'application**
 
-<sup>1</sup> La présente ordonnance s'applique aux étudiants et étudiantes qui effectuent le master en médecine humaine (Master of Medicine – MMed) à l'Université de Fribourg à partir du semestre d'automne 2022.
+<sup>1</sup> La présente ordonnance s'applique aux étudiants et étudiantes qui effectuent le master en médecine humaine (Master of Medicine – MMed) à l'Université de Fribourg à partir du semestre d'automne 2023.
 
 #### Art. 2
 
@@ -91,4 +91,4 @@ Arrête:
 
 <sup>3</sup> Les décisions du Rectorat ou de la Commission de recours interne de l'Université de Fribourg peuvent faire l'objet d'un recours auprès de la Commission de recours de l'Université de Fribourg.
 
-2021\_134
+2022\_138
