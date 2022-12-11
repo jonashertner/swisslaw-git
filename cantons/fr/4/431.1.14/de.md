@@ -1,24 +1,24 @@
 ---
 canton: FR
 number: "431.1.14"
-title: Verordnung über die Zulassung ausländischer Kandidatinnen und Kandidaten zum Medizinstudium an der Universität Freiburg im akademischen Jahr 2022/23
+title: Verordnung über die Zulassung ausländischer Kandidatinnen und Kandidaten zum Medizinstudium an der Universität Freiburg im akademischen Jahr 2023/24
 language: de
-version: 2021-12-14
-valid_until: 2022-12-11
-version_adopted: 2021-12-14
+version: 2022-12-12
+valid_until: 2023-11-06
+version_adopted: 2022-12-12
 adopted: 2026-01-27
 in_force: 2026-06-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/431.1.14"
-pdf: "https://bdlf.fr.ch/api/de/versions/7070/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7676/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung über die Zulassung ausländischer Kandidatinnen und Kandidaten zum Medizinstudium an der Universität Freiburg im akademischen Jahr 2022/23
+# Verordnung über die Zulassung ausländischer Kandidatinnen und Kandidaten zum Medizinstudium an der Universität Freiburg im akademischen Jahr 2023/24
 
 Universität, Zulassung der Ausländer zum Medizinstudium – V
 
-vom 14.12.2021 (Fassung in Kraft getreten am 14.12.2021)
+vom 12.12.2022 (Fassung in Kraft getreten am 12.12.2022)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -34,9 +34,9 @@ In ihrer Sitzung vom 12. Oktober 2006 hat die SHK den betroffenen Universitätsk
 
 Vorbehalten bleiben die allgemeinen Zulassungsbedingungen der Universität Freiburg.
 
-Das Rektorat der Universität Freiburg hat in seiner Sitzung vom 8. November 2021 dieser Verordnung zugestimmt.
+Das Rektorat der Universität Freiburg hat in seiner Sitzung vom 28. November 2022 dieser Verordnung zugestimmt.
 
-Auf Antrag der Direktion für Erziehung, Kultur und Sport,
+Auf Antrag der Direktion für Bildung und kulturelle Angelegenheiten,
 
 beschliesst:
 
@@ -44,7 +44,7 @@ beschliesst:
 
 **Geltungsbereich und Zweck**
 
-<sup>1</sup> Diese Verordnung gilt für das Studium der Humanmedizin an der Universität Freiburg im akademischen Jahr 2022/23.
+<sup>1</sup> Diese Verordnung gilt für das Studium der Humanmedizin an der Universität Freiburg im akademischen Jahr 2023/24.
 
 <sup>2</sup> In ihr wird die Zugangsbeschränkung zum Studium der Humanmedizin für ausländische Kandidatinnen und Kandidaten geregelt.
 
@@ -56,19 +56,19 @@ beschliesst:
 
 - a) Staatsangehörige des Fürstentums Liechtenstein;
 - b) in der Schweiz oder im Fürstentum Liechtenstein niedergelassene Ausländerinnen und Ausländer;
-- c) Staatsangehörige eines Mitgliedstaates der Europäischen Union, von Island und Norwegen, mit einer Schweizer Aufenthaltsbewilligung EU/EFTA mit dem Vermerk «Erwerbstätigkeit», die eine berufliche Tätigkeit in engem Zusammenhang mit dem Medizinstudium nachweisen können (gemäss Freizügigkeitsabkommen mit der EU, Anhang I, Art. 9 Abs. 3 [FZA; SR 0.142.112.681]); als berufliche Tätigkeit in engem Zusammenhang mit dem Medizinstudium gilt eine mindestens einjährige Erwerbstätigkeit in der Schweiz in einem der Berufe gemäss Artikel 2 des Bundesgesetzes über die universitären Medizinalberufe (MedBG; SR 811.11);
+- c) Staatsangehörige eines Mitgliedstaates der Europäischen Union, von Island oder Norwegen, mit einer Schweizer Aufenthaltsbewilligung EU/EFTA mit dem Vermerk «Erwerbstätigkeit», die eine berufliche Tätigkeit in engem Zusammenhang mit dem Medizinstudium nachweisen können (gemäss Freizügigkeitsabkommen mit der EU, Anhang I, Art. 9 Abs. 3 [FZA; SR 0.142.112.681]); als berufliche Tätigkeit in engem Zusammenhang mit dem Medizinstudium gilt eine mindestens einjährige Erwerbstätigkeit in der Schweiz in einem der Berufe gemäss Artikel 2 des Bundesgesetzes über die universitären Medizinalberufe (MedBG);
 - d) Kinder, ungeachtet ihrer Staatsangehörigkeit, von Staatsangehörigen eines Mitgliedstaates der Europäischen Union, von Island, Norwegen und des Fürstentums Liechtenstein, mit einer Schweizer Aufenthaltsbewilligung als Familienmitglied einer Bürgerin oder eines Bürgers der EU/EFTA in der Schweiz mit dem Vermerk «Familiennachzug» (gemäss FZA Anhang I, Art. 3 Abs. 6);
-- e) Ausländerinnen und Ausländer mit Wohnsitz in der Schweiz, gemäss Artikel 23–26 des Schweizerischen Zivilgesetzbuches (ZGB; SR 210):
+- e) Ausländerinnen und Ausländer mit Wohnsitz in der Schweiz, gemäss Artikel 23–26 des Schweizerischen Zivilgesetzbuches (ZGB):
   - 1\. die seit mindestens fünf Jahren ununterbrochen über eine Aufenthaltsbewilligung in der Schweiz mit dem Hauptaufenthaltszweck «Erwerbstätigkeit» verfügen;
   - 2\. die über einen schweizerischen oder kantonalen, schweizerisch anerkannten Maturitätsausweis (nach der Verordnung vom 15. Februar 1995 über die Anerkennung von gymnasialen Maturitätsausweisen und dem Reglement der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren vom 16. Januar 1995 über die Anerkennung von gymnasialen Maturitätsausweisen) verfügen;
-  - 3\. die über eines der folgenden Zeugnisse verfügen: Eidgenössisches Berufsmaturitätszeugnis, vom Staatssekretariat für Bildung, Forschung und Innovation (SBFI) anerkanntes liechtensteinisches Berufsmaturitätszeugnis, gesamtschweizerisch anerkanntes Fachmaturitätszeugnis; die genannten Zeugnisse müssen mit dem Ausweis über die bestandene Ergänzungsprüfung (nach der Verordnung vom 2. Februar 2011 über die Ergänzungsprüfung für die Zulassung von Inhaberinnen und Inhabern eines eidgenössischen Berufsmaturitätszeugnisses oder eines gesamtschweizerisch anerkannten Fachmaturitätszeugnisses zu den universitären Hochschulen; SR 413.14) ergänzt werden;
+  - 3\. die über eines der folgenden Zeugnisse verfügen: Eidgenössisches Berufsmaturitätszeugnis, vom Staatssekretariat für Bildung, Forschung und Innovation (SBFI) anerkanntes liechtensteinisches Berufsmaturitätszeugnis, gesamtschweizerisch anerkanntes Fachmaturitätszeugnis; die genannten Zeugnisse müssen mit dem Ausweis über die bestandene Ergänzungsprüfung (nach der Verordnung vom 2. Februar 2011 über die Ergänzungsprüfung für die Zulassung von Inhaberinnen und Inhabern eines eidgenössischen Berufsmaturitätszeugnisses oder eines gesamtschweizerisch anerkannten Fachmaturitätszeugnisses zu den universitären Hochschulen) ergänzt werden;
   - 4\. die mit einer Schweizerin oder einem Schweizer verheiratet oder eine eingetragene Partnerschaft eingegangen sind;
   - 5\. deren Ehegattinnen bzw. Ehegatten oder deren eingetragene Partnerinnen bzw. Partner in der Schweiz niedergelassen sind;
   - 6\. deren Ehegattinnen bzw. Ehegatten oder deren eingetragene Partnerinnen bzw. Partner seit mindestens fünf Jahren Wohnsitz in der Schweiz haben und ununterbrochen über eine Aufenthaltsbewilligung mit dem Hauptaufenthaltszweck «Erwerbstätigkeit» verfügen;
-- f) Ausländerinnen und Ausländer mit Wohnsitz in der Schweiz seit mindestens zwei Jahren gemäss Artikel 23–26 ZGB seit:
+- f) Ausländerinnen und Ausländer mit Wohnsitz in der Schweiz seit mindestens zwei Jahren gemäss Artikel 23–26 ZGB:
   - 1\. deren Eltern in der Schweiz niedergelassen sind;
   - 2\. deren Eltern seit mindestens fünf Jahren Wohnsitz in der Schweiz haben und ununterbrochen über eine Aufenthaltsbewilligung mit dem Hauptaufenthaltszweck «Erwerbstätigkeit» verfügen;
-- g) Kinder, deren Eltern in der Schweiz über einen Diplomatenstatus verfügen (Legitimationskarte des Eidgenössischen Departements für auswärtige Angelegenheiten Typ «B», «C» oder «D blau»);
+- g) Kinder, deren Eltern in der Schweiz über einen Diplomatenstatus verfügen (Legitimationskarte des Eidgenössischen Departements für auswärtige Angelegenheiten Typ «B», «C» und «D blau»);
 - h) von der Schweiz anerkannte Flüchtlinge.
 
 <sup>2</sup> Es gelten folgende Voraussetzungen:
@@ -78,4 +78,4 @@ beschliesst:
 
 <sup>3</sup> Die allgemeinen Zulassungsbedingungen der Universität Freiburg sowie eine allfällige Beschränkung aufgrund eines Eignungstests bleiben vorbehalten.
 
-2021\_181
+2022\_136
