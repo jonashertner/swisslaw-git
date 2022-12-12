@@ -3,18 +3,18 @@ sr: "916.443.107"
 title: "Ordonnance de l’OSAV du 6 août 2021 instituant des mesures contre la propagation de la peste porcine africaine par les échanges d’importation, de transit et d’exportation avec les États membres de l’Union européenne, l’Islande et la Norvège"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/474"
 language: fr
-version: 2022-11-05
+version: 2022-12-13
 adopted: 2021-08-06
 in_force: 2021-08-10
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/474/20221105/fr/xml/fedlex-data-admin-ch-eli-cc-2021-474-20221105-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/474/20221105/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/474/20221213/fr/xml/fedlex-data-admin-ch-eli-cc-2021-474-20221213-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/474/20221213/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance de l’OSAV instituant des mesures contre la propagation de la peste porcine africaine par les échanges d’importation, de transit et d’exportation avec les États membres de l’Union européenne, l’Islande et la Norvège
 
-du 6 août 2021 (État le 5 novembre 2022)
+du 6 août 2021 (État le 13 décembre 2022)
 
 L’Office fédéral de la sécurité alimentaire et des affaires vétérinaires (OSAV),
 
@@ -64,9 +64,9 @@ Il est interdit d’importer les animaux et produits animaux visés à l’art. 
 
 <sup>2</sup> Il est interdit d’importer des sangliers vivants en provenance de l’entier du territoire des États membres de l’UE, de Norvège et d’Islande.
 
-[^2-1]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 3 nov. 2022, en vigueur depuis le 5 nov. 2022 ([RO 2022 641](https://fedlex.data.admin.ch/eli/oc/2022/641)).
-[^2-2]: Règlement d’exécution (UE) 2021/605 de la Commission du 7 avril 2021 établissant des mesures spéciales de lutte contre la peste porcine africaine, JO L 129 du 15.4.2021, p. 1; modifié en dernier lieu par le règlement d’exécution (UE) 2022/2067, JO L 277 du 27.10.2022, p. 106
-[^2-3]: Règlement délégué (UE) 2020/687 de la Commission du 17 décembre 2019 complétant le règlement (UE) 2016/429 du Parlement européen et du Conseil en ce qui concerne les règles relatives à la prévention de certaines maladies répertoriées et à la lutte contre celles-ci, JO L 174 du 3.6.2020, p. 64; modifié par le règlement délégué (UE) 2021/1140, JO L 247 du 13.7.2021, p. 50
+[^2-1]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 9 déc. 2022, en vigueur depuis le 13 déc. 2022 ([RO 2022 793](https://fedlex.data.admin.ch/eli/oc/2022/793)).
+[^2-2]: Règlement d’exécution (UE) 2021/605 de la Commission du 7 avril 2021 établissant des mesures spéciales de lutte contre la peste porcine africaine, JO L 129 du 15.4.2021, p. 1; modifié en dernier lieu par le règlement d’exécution (UE) 2022/2348, JO L 311 du 2.12.2022, p. 97.
+[^2-3]: Règlement délégué (UE) 2020/687 de la Commission du 17 décembre 2019 complétant le règlement (UE) 2016/429 du Parlement européen et du Conseil en ce qui concerne les règles relatives à la prévention de certaines maladies répertoriées et à la lutte contre celles-ci, JO L 174 du 3.6.2020, p. 64; modifié par le règlement délégué (UE) 2021/1140, JO L 247 du 13.7.2021, p. 50.
 
 #### Art. 3
 
@@ -135,7 +135,7 @@ Annexe[^t-1]
 
 ## États membres et zones concernés
 
-[^t-1]: Nouvelle teneur selon le ch. II de l’O de l’OSAV du 13 oct. 2022 ([RO 2022 584](https://fedlex.data.admin.ch/eli/oc/2022/584)). Mise à jour par le ch. II de l’O de l’OSAV du 3 nov. 2022, en vigueur depuis le 5 nov. 2022 ([RO 2022 641](https://fedlex.data.admin.ch/eli/oc/2022/641)).
+[^t-1]: Nouvelle teneur selon le ch. II de l’O de l’OSAV du 13 oct. 2022 ([RO 2022 584](https://fedlex.data.admin.ch/eli/oc/2022/584)). Mise à jour par le ch. II de l’O de l’OSAV du 9 déc. 2022, en vigueur depuis le 13 déc. 2022 ([RO 2022 793](https://fedlex.data.admin.ch/eli/oc/2022/793)).
 
 ### 1 Zones réglementées conformément au règlement d’exécution (UE) 2021/605
 
@@ -143,7 +143,7 @@ Les États membres de l’UE et les zones réglementées visées à l’art. 2, 
 
 <table>
 <tr><th>Acte de l’UE</th><th>Titre et date de publication de l’acte et dates de publication des actes modificateurs</th></tr>
-<tr><td>Règlement d’exécution (UE) 2021/605</td><td>Règlement d’exécution (UE) 2021/605 de la Commission du 7 avril 2021 établissant des mesures spéciales de lutte contre la peste porcine africaine, JO L 129 du 15.4.2021, p. 1; modifié en dernier lieu par le règlement d’exécution (UE) 2022/2067, JO L 277 du 27.10.2022, p. 106</td></tr>
+<tr><td>Règlement d’exécution (UE) 2021/605</td><td>Règlement d’exécution (UE) 2021/605 de la Commission du 7 avril 2021 établissant des mesures spéciales de lutte contre la peste porcine africaine, JO L 129 du 15.4.2021, p. 1; modifié en dernier lieu par le règlement d’exécution (UE) 2022/2348, JO L 311 du 2.12.2022, p. 97</td></tr>
 </table>
 
 L’annexe I du règlement d’exécution précité classe certaines zones des États membres concernés dans les trois parties ci-après en fonction du risque d’introduction du virus de la peste porcine africaine:

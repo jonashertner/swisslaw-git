@@ -3,18 +3,18 @@ sr: "916.443.107"
 title: "Verordnung des BLV vom 6. August 2021 über Massnahmen gegen die Verschleppung der Afrikanischen Schweinepest im Verkehr mit den Mitgliedstaaten der Europäischen Union, Island und Norwegen"
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/474"
 language: de
-version: 2022-11-05
+version: 2022-12-13
 adopted: 2021-08-06
 in_force: 2021-08-10
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/474/20221105/de/xml/fedlex-data-admin-ch-eli-cc-2021-474-20221105-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/474/20221105/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/474/20221213/de/xml/fedlex-data-admin-ch-eli-cc-2021-474-20221213-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/474/20221213/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des BLV über Massnahmen gegen die Verschleppung der Afrikanischen Schweinepest im Verkehr mit den Mitgliedstaaten der Europäischen Union, Island und Norwegen
 
-vom 6. August 2021 (Stand am 5. November 2022)
+vom 6. August 2021 (Stand am 13. Dezember 2022)
 
 Das Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV),
 
@@ -64,8 +64,8 @@ Die Einfuhr von lebenden Tieren und Tierprodukten nach Artikel 1 Absatz 2 aus de
 
 <sup>2</sup> Die Einfuhr von lebenden Wildschweinen aus dem gesamten Hoheitsgebiet von Mitgliedstaaten der EU, Island und Norwegen ist verboten.
 
-[^2-1]: Fassung gemäss Ziff. I der V des BLV vom 3. Nov. 2022, in Kraft seit 5. Nov. 2022 ([AS 2022 641](https://fedlex.data.admin.ch/eli/oc/2022/641)).
-[^2-2]: Durchführungsverordnung (EU) 2021/605 der Kommission vom 7. April 2021 mit besonderen Massnahmen zur Bekämpfung der Afrikanischen Schweinepest, ABl. L 129 vom 15.4.2021, S. 1; zuletzt geändert durch Durchführungsverordnung (EU) 2022/2067, ABl. L 277 vom 27.10.2022, S. 106.
+[^2-1]: Fassung gemäss Ziff. I der V des BLV vom 9. Dez. 2022, in Kraft seit 13. Dez. 2022 ([AS 2022 793](https://fedlex.data.admin.ch/eli/oc/2022/793)).
+[^2-2]: Durchführungsverordnung (EU) 2021/605 der Kommission vom 7. April 2021 mit besonderen Massnahmen zur Bekämpfung der Afrikanischen Schweinepest, ABl. L 129 vom 15.4.2021, S. 1; zuletzt geändert durch Durchführungsverordnung (EU) 2022/2348, ABl. L 311 vom 2.12.2022, S. 97.
 [^2-3]: Delegierte Verordnung (EU) 2020/687 der Kommission vom 17. Dezember 2019 zur Ergänzung der Verordnung (EU) 2016/429 des Europäischen Parlaments und des Rates hinsichtlich Vorschriften für die Prävention und Bekämpfung bestimmter gelisteter Seuchen, ABl. L 174 vom 3.6.2020, S. 64; geändert durch Delegierte Verordnung (EU) 2021/1140, ABl. L 247 vom 13.7.2021, S. 50.
 
 #### Art. 3
@@ -135,7 +135,7 @@ Anhang[^t-1]
 
 ## Betroffene Mitgliedstaaten und Gebiete
 
-[^t-1]: Fassung gemäss Ziff. II der V des BLV vom 13. Okt. 2022 ([AS 2022 584](https://fedlex.data.admin.ch/eli/oc/2022/584)). Bereinigt gemäss Ziff. II der V des BLV vom 3. Nov. 2022, in Kraft seit 5. Nov. 2022 ([AS 2022 641](https://fedlex.data.admin.ch/eli/oc/2022/641)).
+[^t-1]: Fassung gemäss Ziff. II der V des BLV vom 13. Okt. 2022 ([AS 2022 584](https://fedlex.data.admin.ch/eli/oc/2022/584)). Bereinigt gemäss Ziff. II der V des BLV vom 9. Dez. 2022, in Kraft seit 13. Dez. 2022 ([AS 2022 793](https://fedlex.data.admin.ch/eli/oc/2022/793)).
 
 ### 1 Sperrzonen nach der Durchführungsverordnung (EU) 2021/605
 
@@ -143,7 +143,7 @@ Die Mitgliedstaaten der EU und die dort geltenden Sperrzonen nach Artikel 2 Absa
 
 <table>
 <tr><td>EU-Grunderlass</td><td>Titel und Publikationsdatum des Grunderlasses sowie Änderungserlasse mit Publikationsdaten</td></tr>
-<tr><td>Durchführungsverordnung (EU) 2021/605</td><td>Durchführungsverordnung (EU) 2021/605 der Kommission vom 7. April 2021 mit besonderen Massnahmen zur Bekämpfung der Afrikanischen Schweinepest, ABl. L 129 vom 15.4.2021, S. 1; zuletzt geändert durch Durchführungsverordnung (EU) 2022/2067, ABl. L 277 vom 27.10.2022, S. 106</td></tr>
+<tr><td>Durchführungsverordnung (EU) 2021/605</td><td>Durchführungsverordnung (EU) 2021/605 der Kommission vom 7. April 2021 mit besonderen Massnahmen zur Bekämpfung der Afrikanischen Schweinepest, ABl. L 129 vom 15.4.2021, S. 1; zuletzt geändert durch Durchführungsverordnung (EU) 2022/2348, ABl. L 311 vom 2.12.2022, S. 97</td></tr>
 </table>
 
 Im Anhang I des obengenannten Durchführungsbeschlusses werden bestimmte Gebiete von betroffenen Mitgliedstaaten entsprechend dem Risiko der Verschleppung des Virus der Afrikanischen Schweinepest in die folgenden drei Teile eingeteilt:
