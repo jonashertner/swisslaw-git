@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "ÉNERGIE: mesures de gestion réglementée en cas de pénurie d’électricité"
 document: Projet mis en consultation-4
 language: fr

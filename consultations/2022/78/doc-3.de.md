@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "ENERGIE: Bewirtschaftungsmassnahmen Strom"
 document: Vernehmlassungsvorlage-3
 language: de

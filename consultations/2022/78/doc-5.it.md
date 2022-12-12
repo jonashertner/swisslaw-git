@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "ENERGIA: misure di gestione nel settore elettrico"
 document: Progetto posto in consultazione-5
 language: it
