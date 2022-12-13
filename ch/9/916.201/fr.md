@@ -4,11 +4,11 @@ title: "Ordonnance du DEFR et du DETEC du 14 novembre 2019 relative à l'ordonna
 short: OSaVé-DEFR-DETEC
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/787"
 language: fr
-version: 2022-12-01
+version: 2022-12-14
 adopted: 2019-11-14
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/787/20221201/fr/xml/fedlex-data-admin-ch-eli-cc-2019-787-20221201-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/787/20221201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/787/20221214/fr/xml/fedlex-data-admin-ch-eli-cc-2019-787-20221214-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/787/20221214/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/787/20221201/fr"
 
 (OSaVé-DEFR-DETEC)
 
-du 14 novembre 2019 (État le 1<sup>er</sup> décembre 2022)
+du 14 novembre 2019 (État le 14 décembre 2022)
 
 Le Département fédéral de l’économie, de la formation et de la recherche (DEFR) et le Département fédéral de l’environnement, des transports, de l’énergie et de la communication (DETEC),
 
@@ -2229,7 +2229,7 @@ Annexe 7[^t-7]
 
 ## Conditions spécifiques que des marchandises déterminées doivent remplir en plus pour l’importation en provenance de pays tiers déterminés
 
-[^t-7]: Nouvelle teneur selon le ch. I al. 2 de l’O du DEFR et du DETEC du 31 oct. 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 702](https://fedlex.data.admin.ch/eli/oc/2022/702)).
+[^t-7]: Nouvelle teneur selon le ch. I al. 2 de l’O du DEFR et du DETEC du 31 oct. 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 702](https://fedlex.data.admin.ch/eli/oc/2022/702)). Mise à jour par l’erratum du 14 déc. 2022, ne concerne que les textes allemand et italien ([RO 2022 805](https://fedlex.data.admin.ch/eli/oc/2022/805)).
 
 Dans le tableaus suivant, l’Irlande du Nord n’est pas considérée comme un pays tiers. La désignation Royaume-Uni concerne l’Angleterre, le Pays de Galles et l’Écosse.
 
@@ -2543,45 +2543,45 @@ Annexe 10
 ### 2. Passeport phytosanitaire pour l’importation depuis l’UE et pour la mise en circulation
 
 <table>
-<tr><td>2.1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/787/20221201/fr/xml/image/image1.png)</td></tr>
-<tr><td>2.2</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/787/20221201/fr/xml/image/image2.png)</td></tr>
-<tr><td>2.3</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/787/20221201/fr/xml/image/image3.png)</td></tr>
-<tr><td>2.4</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/787/20221201/fr/xml/image/image4.png)</td></tr>
-<tr><td>2.5</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/787/20221201/fr/xml/image/image5.png)</td></tr>
-<tr><td>2.6</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/787/20221201/fr/xml/image/image6.png)</td></tr>
-<tr><td>2.7</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/787/20221201/fr/xml/image/image7.png)</td></tr>
-<tr><td>2.8</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/787/20221201/fr/xml/image/image8.png)</td></tr>
+<tr><td>2.1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/787/20221214/fr/xml/image/image1.png)</td></tr>
+<tr><td>2.2</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/787/20221214/fr/xml/image/image2.png)</td></tr>
+<tr><td>2.3</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/787/20221214/fr/xml/image/image3.png)</td></tr>
+<tr><td>2.4</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/787/20221214/fr/xml/image/image4.png)</td></tr>
+<tr><td>2.5</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/787/20221214/fr/xml/image/image5.png)</td></tr>
+<tr><td>2.6</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/787/20221214/fr/xml/image/image6.png)</td></tr>
+<tr><td>2.7</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/787/20221214/fr/xml/image/image7.png)</td></tr>
+<tr><td>2.8</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/787/20221214/fr/xml/image/image8.png)</td></tr>
 </table>
 
 ### 3. Passeport phytosanitaire pour les zones protégées
 
 <table>
-<tr><td>3.1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/787/20221201/fr/xml/image/image9.png)</td></tr>
-<tr><td>3.2</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/787/20221201/fr/xml/image/image10.png)</td></tr>
-<tr><td>3.3</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/787/20221201/fr/xml/image/image11.png)</td></tr>
-<tr><td>3.4</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/787/20221201/fr/xml/image/image12.png)</td></tr>
-<tr><td>3.5</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/787/20221201/fr/xml/image/image13.png)</td></tr>
-<tr><td>3.6</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/787/20221201/fr/xml/image/image14.png)</td></tr>
-<tr><td>3.7</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/787/20221201/fr/xml/image/image15.png)</td></tr>
-<tr><td>3.8</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/787/20221201/fr/xml/image/image16.png)</td></tr>
+<tr><td>3.1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/787/20221214/fr/xml/image/image9.png)</td></tr>
+<tr><td>3.2</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/787/20221214/fr/xml/image/image10.png)</td></tr>
+<tr><td>3.3</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/787/20221214/fr/xml/image/image11.png)</td></tr>
+<tr><td>3.4</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/787/20221214/fr/xml/image/image12.png)</td></tr>
+<tr><td>3.5</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/787/20221214/fr/xml/image/image13.png)</td></tr>
+<tr><td>3.6</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/787/20221214/fr/xml/image/image14.png)</td></tr>
+<tr><td>3.7</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/787/20221214/fr/xml/image/image15.png)</td></tr>
+<tr><td>3.8</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/787/20221214/fr/xml/image/image16.png)</td></tr>
 </table>
 
 ### 4. Passeport phytosanitaire pour l’importation depuis l’UE et pour la mise en circulation associé à une étiquette de certification
 
 <table>
-<tr><td>4.1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/787/20221201/fr/xml/image/image17.png)</td></tr>
-<tr><td>4.2</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/787/20221201/fr/xml/image/image18.png)</td></tr>
-<tr><td>4.3</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/787/20221201/fr/xml/image/image19.png)</td></tr>
-<tr><td>4.4</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/787/20221201/fr/xml/image/image20.png)</td></tr>
+<tr><td>4.1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/787/20221214/fr/xml/image/image17.png)</td></tr>
+<tr><td>4.2</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/787/20221214/fr/xml/image/image18.png)</td></tr>
+<tr><td>4.3</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/787/20221214/fr/xml/image/image19.png)</td></tr>
+<tr><td>4.4</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/787/20221214/fr/xml/image/image20.png)</td></tr>
 </table>
 
 ### 5. Passeport phytosanitaire pour les zones protégées associé à une étiquette de certification
 
 <table>
-<tr><td>5.1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/787/20221201/fr/xml/image/image21.png)</td></tr>
-<tr><td>5.2</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/787/20221201/fr/xml/image/image22.png)</td></tr>
-<tr><td>5.3</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/787/20221201/fr/xml/image/image23.png)</td></tr>
-<tr><td>5.4</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/787/20221201/fr/xml/image/image24.png)</td></tr>
+<tr><td>5.1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/787/20221214/fr/xml/image/image21.png)</td></tr>
+<tr><td>5.2</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/787/20221214/fr/xml/image/image22.png)</td></tr>
+<tr><td>5.3</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/787/20221214/fr/xml/image/image23.png)</td></tr>
+<tr><td>5.4</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/787/20221214/fr/xml/image/image24.png)</td></tr>
 </table>
 
 Annexe 11[^t-11]
