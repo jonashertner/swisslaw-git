@@ -4,11 +4,11 @@ title: "Ordinanza dell'Autorità federale di sorveglianza dei revisori del 17 ma
 short: OS-ASR
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/188"
 language: it
-version: 2017-10-01
+version: 2022-12-15
 adopted: 2008-03-17
 in_force: 2008-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/188/20171001/it/xml/fedlex-data-admin-ch-eli-cc-2008-188-20171001-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/188/20171001/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/188/20221215/it/xml/fedlex-data-admin-ch-eli-cc-2008-188-20221215-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/188/20221215/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/188/20171001/it"
 
 (Ordinanza sulla sorveglianza ASR, OS-ASR)
 
-del 17 marzo 2008 (Stato 1° ottobre 2017) (Stato 1° ottobre 2017)
+del 17 marzo 2008 (Stato 15 dicembre 2022)
 
 L’Autorità federale di sorveglianza dei revisori (ASR),
 
@@ -53,11 +53,18 @@ Essa disciplina:
 
 #### Art. 2
 
-**Standard svizzeri di revisione**
+**Standard svizzeri di revisione contabile**[^2-1]
 
-I conti annuali e i conti di gruppo allestiti in conformità alle disposizioni del codice delle obbligazioni (CO)[^2-1] o alle norme contabili svizzere della Fondazione per le raccomandazioni relative alla presentazione dei conti (Swiss GAAP RPC) devono essere sottoposti a verifica secondo gli standard di revisione emanati dalla Camera fiduciaria svizzera (standard svizzeri di revisione), riconosciuti dall’autorità di sorveglianza.
+I conti annuali e i conti di gruppo allestiti in conformità al Codice delle obbligazioni (CO)[^2-2] oppure in conformità a una delle seguenti raccomandazioni e disposizioni contabili sono verificati secondo gli standard svizzeri di revisione contabile dell’associazione di esperti contabili, fiscali e fiduciari «Expertsuisse» (SR-CH), riconosciuti dall’autorità di sorveglianza:
 
-[^2-1]: [<sup>RS</sup> <sup>220</sup>](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+- a. le raccomandazioni sulla presentazione dei conti della Fondazione per le raccomandazioni relative alla presentazione dei conti (Swiss GAAP RPC);
+- b. le disposizioni sulla presentazione dei conti dell’Autorità federale di vigilanza sui mercati finanziari (FINMA) per banche e società di intermediazione mobiliare (art. 25–42 dell’ordinanza del 30 aprile 2014[^2-3] sulle banche); o
+- c. le disposizioni sulla presentazione dei conti della FINMA per gli investimenti collettivi di capitale (art. 91 della legge del 23 giugno 2006[^2-4] sugli investimenti collettivi di capitale).
+
+[^2-1]: Nuovo testo giusta il n. I dell’O dell’ASR del 18 nov. 2022, in vigore dal 15 dic. 2022 (RU **20****22** 724).
+[^2-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^2-3]: [RS 952.02](https://fedlex.data.admin.ch/eli/cc/2014/273)
+[^2-4]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
 
 #### Art. 3
 
@@ -67,39 +74,47 @@ I conti annuali e i conti di gruppo allestiti in conformità alle disposizioni d
 
 <sup>2</sup> L'autorità di sorveglianza può riconoscere altri standard di revisione equivalenti.
 
-<sup>3</sup> Per la verifica di conti annuali e conti di gruppo di società con sede in Svizzera allestiti in conformità ai principi contabili esteri è necessario applicare anche gli standard svizzeri di revisione.
+<sup>3</sup> I conti annuali e i conti di gruppo di società con sede in Svizzera allestiti in conformità a principi contabili esteri sono verificati anche secondo gli SR-CH.[^3-1]
+
+[^3-1]: Nuovo testo giusta il n. I dell’O dell’ASR del 18 nov. 2022, in vigore dal 15 dic. 2022 ([RU 2022 724](https://fedlex.data.admin.ch/eli/oc/2022/724)).
 
 #### Art. 4
 
 **Revisioni speciali**
 
-<sup>1</sup> Tutti i servizi di revisione previsti dalla legge forniti da società con sede in Svizzera che non hanno per oggetto la verifica di un conto annuale o di un conto di gruppo (revisioni speciali) devono essere sottoposti a verifica secondo gli standard svizzeri di revisione.
+<sup>1</sup> I servizi di revisione secondo l’articolo 2 lettera a numero 1 della legge federale del 16 dicembre 2005[^4-1] sull’abilitazione e la sorveglianza dei revisori (LSR) di società con sede in Svizzera che non hanno per oggetto la verifica di un conto annuale o di un conto di gruppo (revisioni speciali) sono verificati secondo gli SR-CH e gli standard svizzeri di revisione di Expertsuisse (SR).[^4-2]
 
 <sup>2</sup> Tutti i servizi di revisione previsti dalla legge forniti da società con sede all’estero che non hanno per oggetto la verifica di un conto annuale o di un conto di gruppo (revisioni speciali) devono essere sottoposti a verifica per analogia secondo gli standard di revisione esteri di cui all’articolo 3 capoversi 1 e 2.
+
+[^4-1]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
+[^4-2]: Nuovo testo giusta il n. I dell’O dell’ASR del 18 nov. 2022, in vigore dal 15 dic. 2022 ([RU 2022 724](https://fedlex.data.admin.ch/eli/oc/2022/724)).
 
 #### Art. 5
 
 **Misure di assicurazione della qualità interna all’impresa**[^5-1]
 
-<sup>1</sup> Le imprese di revisione che applicano gli standard svizzeri di revisione per la verifica di conti annuali e conti di gruppo devono assicurare la qualità dei loro servizi di revisione secondo quanto prescritto dallo Standard svizzero di controllo della qualità 1 (SQ 1).
+<sup>1</sup> Le imprese di revisione che effettuano servizi di revisione secondo l’articolo 2 lettera a numero 1 LSR[^5-2] e applicano gli SR-CH e gli SR assicurano la qualità dei loro servizi di revisione secondo le disposizioni dello Standard svizzero di controllo della qualità 1 (ISQC-CH 1).
 
-<sup>2</sup> Le imprese di revisione che applicano gli standard di revisione dell’IAASB per la verifica di conti annuali e conti di gruppo devono assicurare la qualità dei loro servizi di revisione sia secondo la SQ 1 sia secondo gli International Standards on Quality Control 1 (ISQC 1).
+<sup>2</sup> Le imprese di revisione che applicano gli standard di revisione dell’IAASB per la verifica di conti annuali e conti di gruppo assicurano la qualità dei loro servizi di revisione sia secondo lo ISQC-CH 1 sia secondo gli standard internazionali di gestione della qualità «International Standards on Quality Management 1 e 2» (ISQM 1 e 2).
 
-[^5-1]: Nuovo testo giusta il n. I dell’O dell’ASR del 10 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4093](https://fedlex.data.admin.ch/eli/oc/2014/686)).
+[^5-1]: Nuovo testo giusta il n. I dell’O dell’ASR del 18 nov. 2022, in vigore dal 15 dic. 2022 ([RU 2022 724](https://fedlex.data.admin.ch/eli/oc/2022/724)).
+[^5-2]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
 
 #### Art. 6
 
-**Pubblicazione degli standard di revisione riconosciuti**
+**Pubblicazione degli standard riconosciuti per la revisione e l’assicurazione della qualità**[^6-1]
 
-L’autorità di sorveglianza pubblica un elenco degli standard di revisione riconosciuti.
+L’autorità di sorveglianza pubblica un elenco degli standard riconosciuti per la revisione e l’assicurazione della qualità.
+
+[^6-1]: Nuovo testo giusta il n. I dell’O dell’ASR del 18 nov. 2022, in vigore dal 15 dic. 2022 ([RU 2022 724](https://fedlex.data.admin.ch/eli/oc/2022/724)).
 
 #### Art. 6a
 
 **Standard di revisione per la verifica secondo le leggi sui mercati finanziari**[^6a-1]
 
-Nel fornire servizi di revisione ai sensi dell’articolo 2 lettera a numero 2 della legge del 16 dicembre 2005[^6a-2] sui revisori (LSR), le società di audit si attengono ai principi di verifica stabiliti dall’Autorità federale di vigilanza sui mercati finanziari (FINMA).
+Quando forniscono servizi di revisione secondo l’articolo 2 lettera a numero 2 LSR[^6a-2], le società di audit si attengono ai principi di verifica emanati o riconosciuti dalla FINMA.
 
-[^6a-1]: Introdotta dal n. I dell’O dell’ASR del 10 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4093](https://fedlex.data.admin.ch/eli/oc/2014/686)).
+[^6a-1]: Introdotto dal n. I dell’O dell’ASR del 10 nov. 2014 ([RU 2014 4093](https://fedlex.data.admin.ch/eli/oc/2014/686)). Nuovo testo giusta il n. I dell’O dell’ASR del 18 nov. 2022, in vigore dal 15 dic. 2022 ([RU 2022 724](https://fedlex.data.admin.ch/eli/oc/2022/724)).
 [^6a-2]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
 
 ## Sezione 3: Procedura per il controllo delle imprese di revisione sotto sorveglianza statale (ispezioni)

@@ -4,11 +4,11 @@ title: "Verordnung der Eidgenössischen Revisionsaufsichtsbehörde vom 17. März
 short: ASV-RAB
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/188"
 language: de
-version: 2017-10-01
+version: 2022-12-15
 adopted: 2008-03-17
 in_force: 2008-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/188/20171001/de/xml/fedlex-data-admin-ch-eli-cc-2008-188-20171001-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/188/20171001/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/188/20221215/de/xml/fedlex-data-admin-ch-eli-cc-2008-188-20221215-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/188/20221215/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/188/20171001/de"
 
 (Aufsichtsverordnung RAB, ASV-RAB)
 
-vom 17. März 2008 (Stand am 1. Oktober 2017)
+vom 17. März 2008 (Stand am 15. Dezember 2022)
 
 Die Eidgenössische Revisionsaufsichtsbehörde (RAB),
 
@@ -53,11 +53,18 @@ Sie regelt:
 
 #### Art. 2
 
-**Schweizer Prüfungsstandards**
+**Schweizer Standards zur Abschlussprüfung**[^2-1]
 
-Jahres- und Konzernrechnungen, die nach den Bestimmungen des Obligationenrechts (OR)[^2-1] oder nach den Fachempfehlungen zur Rechnungslegung der Stiftung für Fachempfehlungen zur Rechnungslegung (Swiss GAAP FER) erstellt wurden, müssen in Übereinstimmung mit den von der Aufsichtsbehörde anerkannten Prüfungsstandards der Schweizer Treuhandkammer (Schweizer Prüfungsstandards) geprüft werden.
+Jahres- und Konzernrechnungen, die nach den Bestimmungen des Obligationenrechts (OR)[^2-2] oder nach einer der folgenden Empfehlungen und Vorschriften zur Rechnungslegung erstellt wurden, müssen in Übereinstimmung mit den von der Aufsichtsbehörde anerkannten Schweizer Standards zur Abschlussprüfung des Expertenverbands für Wirtschaftsprüfung, Steuern und Treuhand «Expertsuisse» (SA-CH) geprüft werden:
 
-[^2-1]: [<sup>SR</sup> <sup>220</sup>](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+- a. Empfehlungen zur Rechnungslegung der Stiftung für Fachempfehlungen zur Rechnungslegung (Swiss GAAP FER);
+- b. Rechnungslegungsvorschriften der Eidgenössischen Finanzmarktaufsicht (FINMA) für Banken und Wertpapierhäuser (Art. 25–42 der Bankenverordnung vom 30. April 2014[^2-3]); oder
+- c. Rechnungslegungsvorschriften der FINMA für kollektive Kapitalanlagen (Art. 91 des Kollektivanlagengesetzes vom 23. Juni 2006[^2-4]).
+
+[^2-1]: Fassung gemäss Ziff. I der V der RAB vom 18. Nov. 2022, in Kraft seit 15. Dez. 2022 ([AS 2022 724](https://fedlex.data.admin.ch/eli/oc/2022/724)).
+[^2-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^2-3]: [SR 952.02](https://fedlex.data.admin.ch/eli/cc/2014/273)
+[^2-4]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
 
 #### Art. 3
 
@@ -67,39 +74,47 @@ Jahres- und Konzernrechnungen, die nach den Bestimmungen des Obligationenrechts 
 
 <sup>2</sup> Die Aufsichtsbehörde kann weitere gleichwertige Prüfungsstandards anerkennen.
 
-<sup>3</sup> Jahres- und Konzernrechnungen von Gesellschaften mit Sitz in der Schweiz, die nach ausländischen Rechnungslegungsstandards erstellt und nach ausländischen Prüfungsstandards geprüft wurden, müssen zusätzlich nach den Schweizer Prüfungsstandards geprüft werden.
+<sup>3</sup> Jahres- und Konzernrechnungen von Gesellschaften mit Sitz in der Schweiz, die nach ausländischen Rechnungslegungsstandards erstellt und nach ausländischen Prüfungsstandards geprüft wurden, müssen zusätzlich nach den SA-CH geprüft werden.[^3-1]
+
+[^3-1]: Fassung gemäss Ziff. I der V der RAB vom 18. Nov. 2022, in Kraft seit 15. Dez. 2022 ([AS 2022 724](https://fedlex.data.admin.ch/eli/oc/2022/724)).
 
 #### Art. 4
 
 **Spezialprüfungen**
 
-<sup>1</sup> Alle gesetzlich vorgeschriebenen Revisionsdienstleistungen von Gesellschaften mit Sitz in der Schweiz, die nicht die Prüfung einer Jahres- oder Konzernrechnung zum Gegenstand haben (Spezialprüfungen), müssen nach den Schweizer Prüfungsstandards geprüft werden.
+<sup>1</sup> Revisionsdienstleistungen nach Artikel 2 Buchstabe a Ziffer 1 des Revisionsaufsichtsgesetzes vom 16. Dezember 2005[^4-1] (RAG) von Gesellschaften mit Sitz in der Schweiz, die nicht die Prüfung einer Jahres- oder Konzernrechnung zum Gegenstand haben (Spezialprüfungen), müssen nach den SA-CH und den Schweizer Prüfungsstandards von «Expertsuisse» (PS) geprüft werden.[^4-2]
 
 <sup>2</sup> Alle gesetzlich vorgeschriebenen Revisionsdienstleistungen von Gesellschaften mit Sitz im Ausland, die nicht die Prüfung einer Jahres- oder Konzernrechnung zum Gegenstand haben (Spezialprüfungen), müssen sinngemäss nach den ausländischen Prüfungsstandards gemäss Artikel 3 Absätze 1 und 2 geprüft werden.
+
+[^4-1]: [SR 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
+[^4-2]: Fassung gemäss Ziff. I der V der RAB vom 18. Nov. 2022, in Kraft seit 15. Dez. 2022 ([AS 2022 724](https://fedlex.data.admin.ch/eli/oc/2022/724)).
 
 #### Art. 5
 
 **Unternehmensbezogene Massnahmen zur Qualitätssicherung**[^5-1]
 
-<sup>1</sup> Revisionsunternehmen, die bei der Prüfung von Jahres- und Konzernrechnungen die Schweizer Prüfungsstandards anwenden, müssen die Qualität ihrer Revisionsdienstleistungen nach den Vorschriften des Schweizer Qualitätssicherungsstandards 1 (QS 1) sichern.
+<sup>1</sup> Revisionsunternehmen, die bei der Erbringung von Revisionsdienstleistungen nach Artikel 2 Buchstabe a Ziffer 1 RAG[^5-2] die SA-CH und die PS anwenden, müssen die Qualität ihrer Revisionsdienstleistungen nach den Vorschriften des Schweizer Standards zur Qualitätssicherung 1 (ISQC-CH 1) sichern.
 
-<sup>2</sup> Revisionsunternehmen, die bei der Prüfung von Jahres- und Konzernrechnungen die Prüfungsstandards des IAASB anwenden, müssen die Qualität ihrer Revisionsdienstleistungen sowohl nach QS 1 als auch nach den International Standards on Quality Control 1 (ISQC 1) sichern.
+<sup>2</sup> Revisionsunternehmen, die bei der Prüfung von Jahres- und Konzernrechnungen die Prüfungsstandards des IAASB anwenden, müssen die Qualität ihrer Revisionsdienstleistungen sowohl nach ISQC-CH 1 als auch nach den internationalen Standards zur Qualitätssicherung «International Standards on Quality Management 1 und 2» (ISQM 1 und 2) sichern.
 
-[^5-1]: Fassung gemäss Ziff. I der V der RAB vom 10. Nov. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 4093](https://fedlex.data.admin.ch/eli/oc/2014/686)).
+[^5-1]: Fassung gemäss Ziff. I der V der RAB vom 18. Nov. 2022, in Kraft seit 15. Dez. 2022 ([AS 2022 724](https://fedlex.data.admin.ch/eli/oc/2022/724)).
+[^5-2]: [SR 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
 
 #### Art. 6
 
-**Veröffentlichung der anerkannten Prüfungsstandards**
+**Veröffentlichung der anerkannten Standards zur Prüfung und zur Qualitätssicherung**[^6-1]
 
-Die Aufsichtsbehörde veröffentlicht eine Liste der anerkannten Prüfungsstandards.
+Die Aufsichtsbehörde veröffentlicht eine Liste der anerkannten Standards zur Prüfung und zur Qualitätssicherung.
+
+[^6-1]: Fassung gemäss Ziff. I der V der RAB vom 18. Nov. 2022, in Kraft seit 15. Dez. 2022 ([AS 2022 724](https://fedlex.data.admin.ch/eli/oc/2022/724)).
 
 #### Art. 6a
 
 **Prüfungsstandards für die Prüfung nach den Finanzmarktgesetzen**[^6a-1]
 
-Bei der Erbringung von Revisionsdienstleistungen nach Artikel 2 Buchstabe a Ziffer 2 des Revisionsaufsichtsgesetzes vom 16. Dezember 2005[^6a-2] (RAG) müssen die Prüfgesellschaften die von der Eidgenössischen Finanzmarktaufsicht (FINMA) erstellten Prüfungsgrundsätze einhalten.
+Bei der Erbringung von Revisionsdienstleistungen nach Artikel 2 Buchstabe a Ziffer 2 RAG[^6a-2] müssen die Prüfgesellschaften die von der FINMA erlassenen oder anerkannten Prüfungsgrundsätze einhalten.
 
-[^6a-1]: Eingefügt durch Ziff. I der V der RAB vom 10. Nov. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 4093](https://fedlex.data.admin.ch/eli/oc/2014/686)).
+[^6a-1]: Eingefügt durch Ziff. I der V der RAB vom 10. Nov. 2014 ([AS 2014 4093](https://fedlex.data.admin.ch/eli/oc/2014/686)). Fassung gemäss Ziff. I der V der RAB vom 18. Nov. 2022, in Kraft seit 15. Dez. 2022 ([AS 2022 724](https://fedlex.data.admin.ch/eli/oc/2022/724)).
 [^6a-2]: [SR 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
 
 ## 3. Abschnitt: Verfahren zur Überprüfung der staatlich beaufsichtigten Revisionsunternehmen (Inspektionen)

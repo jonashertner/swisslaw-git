@@ -4,11 +4,11 @@ title: "Ordonnance de l'Autorité fédérale de surveillance en matière de rév
 short: OSur-ASR
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/188"
 language: fr
-version: 2017-10-01
+version: 2022-12-15
 adopted: 2008-03-17
 in_force: 2008-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/188/20171001/fr/xml/fedlex-data-admin-ch-eli-cc-2008-188-20171001-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/188/20171001/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/188/20221215/fr/xml/fedlex-data-admin-ch-eli-cc-2008-188-20221215-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/188/20221215/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/188/20171001/fr"
 
 (Ordonnance ASR sur la surveillance, OSur-ASR)
 
-du 17 mars 2008 (Etat le 1<sup>er</sup> octobre 2017)
+du 17 mars 2008 (État le 15 décembre 2022)
 
 L’Autorité fédérale de surveillance en matière de révision (ASR),
 
@@ -45,7 +45,7 @@ La présente ordonnance s’applique:
 Elle règle:
 
 - a. les normes de révision auxquelles les entreprises de révision doivent se conformer lorsqu’elles fournissent des prestations en matière de révision;
-- b. la procédure de contrôle appliquée par l’autorité de surveillance aux entreprises de révision soumises à la surveillance de l’Etat (inspections).
+- b. la procédure de contrôle appliquée par l’autorité de surveillance aux entreprises de révision soumises à la surveillance de l’État (inspections).
 
 [^1-1]: Nouvelle teneur selon le ch. I de l’O de l’ASR du 10 nov. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4093](https://fedlex.data.admin.ch/eli/oc/2014/686)).
 
@@ -53,11 +53,18 @@ Elle règle:
 
 #### Art. 2
 
-**Normes de révision suisses**
+**Normes de révision suisses**[^2-1]
 
-Les comptes annuels et les comptes consolidés établis d’après le code des obligations (CO)[^2-1] ou d’après les normes comptables suisses éditées par la Fondation pour les Recommandations relatives à la présentation des comptes (Swiss GAAP RPC) doivent être révisés d’après les normes de révision de la Chambre fiduciaire suisse qui ont été reconnues par l’autorité de surveillance (normes d’audit suisses, NAS).
+Les comptes annuels et les comptes consolidés établis d’après le code des obligations (CO)[^2-2] ou d’après l’une des recommandations ou normes comptables suivantes doivent être révisés selon les Normes suisses d’audit des états financiers (NA-CH) de l’Association des experts en audit, fiscalité et fiduciaire «Expertsuisse», qui ont été reconnues par l’autorité de surveillance:
 
-[^2-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+- a. Recommandations relatives à la présentation des comptes de la Fondation pour les recommandations relatives à la présentation des comptes (Swiss GAAP RPC);
+- b. Normes comptables de l’Autorité fédérale de surveillance des marchés financiers (FINMA) pour les banques, les maisons de titres (art. 25 à 42 de l’ordonnance du 30 avril 2014 sur les banques[^2-3]);
+- c. Normes comptables de la FINMA pour les placements collectifs de capitaux (art. 91 de la loi du 23 juin 2006 sur les placements collectifs[^2-4]).
+
+[^2-1]: Nouvelle teneur selon le ch. I de l’O de l’ASR du 18 nov. 2022, en vigueur depuis le 15 déc. 2022 ([RO 2022 724](https://fedlex.data.admin.ch/eli/oc/2022/724)).
+[^2-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^2-3]: [RS 952.02](https://fedlex.data.admin.ch/eli/cc/2014/273)
+[^2-4]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
 
 #### Art. 3
 
@@ -67,42 +74,50 @@ Les comptes annuels et les comptes consolidés établis d’après le code des o
 
 <sup>2</sup> L’autorité de surveillance peut reconnaître d’autres normes de révision comme équivalentes.
 
-<sup>3</sup> Les comptes annuels et les comptes consolidés qu’une société sise en Suisse a établis d’après des normes comptables étrangères et qui ont été révisés d’après des normes de révision étrangères doivent en plus être révisés d’après les normes de révision suisses.
+<sup>3</sup> Les comptes annuels et les comptes consolidés qu’une société sise en Suisse a établis d’après des normes comptables étrangères et qui ont été révisés d’après des normes de révision étrangères doivent en outre être révisés selon les NA-CH.[^3-1]
+
+[^3-1]: Nouvelle teneur selon le ch. I de l’O de l’ASR du 18 nov. 2022, en vigueur depuis le 15 déc. 2022 ([RO 2022 724](https://fedlex.data.admin.ch/eli/oc/2022/724)).
 
 #### Art. 4
 
 **Révisions spéciales**
 
-<sup>1</sup> Toutes les prestations de révision fournies par des sociétés sises en Suisse en vertu de dispositions légales et dont l’objet n’est pas la révision de comptes annuels ni de comptes consolidés (révisions spéciales) doivent être vérifiées selon les normes de révision suisses.
+<sup>1</sup> Les prestations en matière de révision au sens de l’art. 2, let. a, ch. 1, de la loi du 16 décembre 2005 sur la surveillance de la révision (LSR)[^4-1] qui sont fournies par des sociétés sises en Suisse et qui n’ont pas pour objet la révision de comptes annuels ou de comptes consolidés (révisions spéciales) doivent être vérifiées selon les NA-CH et les Normes d’audit suisses d’Expertsuisse (NAS).[^4-2]
 
 <sup>2</sup> Toutes les prestations de révision fournies par des sociétés sises à l’étranger en vertu de dispositions légales et dont l’objet n’est pas la révision de comptes annuels ni de comptes consolidés (révisions spéciales) doivent être vérifiées par analogie selon les normes de révision étrangères visées à l’art. 3, al. 1 et 2.
+
+[^4-1]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
+[^4-2]: Nouvelle teneur selon le ch. I de l’O de l’ASR du 18 nov. 2022, en vigueur depuis le 15 déc. 2022 ([RO 2022 724](https://fedlex.data.admin.ch/eli/oc/2022/724)).
 
 #### Art. 5
 
 **Mesure d’assurance-qualité interne à l’entreprise**[^5-1]
 
-<sup>1</sup> Les entreprises de révision qui révisent des comptes annuels ou des comptes consolidés d’après les normes de révision suisses doivent garantir la qualité de leurs prestations conformément aux dispositions de la Norme Suisse de Contrôle Qualité 1 (NCQ 1).
+<sup>1</sup> Les entreprises de révision qui appliquent les NA-CH et les NAS lorsqu’elles fournissent des prestations de révision au sens de l’art. 2, let. a, ch. 1, LSR[^5-2] doivent garantir la qualité de leurs prestations conformément à la Norme suisse de contrôle qualité 1 (ISQC-CH 1).
 
-<sup>2</sup> Les entreprises de révision qui révisent des comptes annuels ou des comptes consolidés d’après les normes de révision de l’IAASB doivent garantir la qualité de leurs prestations aussi bien conformément à la NCQ 1 que conformément aux International Standards on Quality Control 1 (ISQC 1).
+<sup>2</sup> Les entreprises de révision qui révisent des comptes annuels ou des comptes consolidés d’après les normes de révision de l’IAASB doivent garantir la qualité de leurs prestations conformément et à la norme ISQC-CH 1 et aux normes internationales de contrôle qualité «International Standards on Quality Management 1 et 2» (ISQM 1 et 2).
 
-[^5-1]: Nouvelle teneur selon le ch. I de l’O de l’ASR du 10 nov. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4093](https://fedlex.data.admin.ch/eli/oc/2014/686)).
+[^5-1]: Nouvelle teneur selon le ch. I de l’O de l’ASR du 18 nov. 2022, en vigueur depuis le 15 déc. 2022 ([RO 2022 724](https://fedlex.data.admin.ch/eli/oc/2022/724)).
+[^5-2]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
 
 #### Art. 6
 
-**Publication des normes de révision reconnues**
+**Publication des normes de révision et de contrôle qualité reconnues**[^6-1]
 
-L’autorité de surveillance publie une liste des normes de révision reconnues.
+L’autorité de surveillance publie une liste des normes de révision et de contrôle qualité reconnues.
+
+[^6-1]: Nouvelle teneur selon le ch. I de l’O de l’ASR du 18 nov. 2022, en vigueur depuis le 15 déc. 2022 ([RO 2022 724](https://fedlex.data.admin.ch/eli/oc/2022/724)).
 
 #### Art. 6a
 
 **Normes de révision pour l’audit selon les lois sur les marchés financiers**[^6a-1]
 
-Lorsqu’elles fournissent des prestations en matière de révision au sens de l’art. 2, let. a, ch. 2, de la loi du 16 décembre 2005 sur la surveillance de la révision (LSR)[^6a-2], les sociétés d’audit se conforment aux principes d’audit établis par l’autorité fédérale de surveillance des marchés financiers (FINMA).
+Lorsqu’elles fournissent des prestations en matière de révision au sens de l’art. 2, let. a, ch. 2, LSR[^6a-2], les sociétés d’audit se conforment aux principes d’audit édictés ou reconnus par la FINMA.
 
-[^6a-1]: Introduit par le ch. I de l’O de l’ASR du 10 nov. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4093](https://fedlex.data.admin.ch/eli/oc/2014/686)).
+[^6a-1]: Introduit par le ch. I de l’O de l’ASR du 10 nov. 2014 ([RO 2014 4093](https://fedlex.data.admin.ch/eli/oc/2014/686)). Nouvelle teneur selon le ch. I de l’O de l’ASR du 18 nov. 2022, en vigueur depuis le 15 déc. 2022 ([RO 2022 724](https://fedlex.data.admin.ch/eli/oc/2022/724)).
 [^6a-2]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
 
-## Section 3 Procédure de contrôle des entreprises de révision soumises à la surveillance de l’Etat (inspections)
+## Section 3 Procédure de contrôle des entreprises de révision soumises à la surveillance de l’État (inspections)
 
 #### Art. 7
 
@@ -110,13 +125,13 @@ Lorsqu’elles fournissent des prestations en matière de révision au sens de l
 
 - [tab] <sup>1</sup> L’autorité de surveillance vérifie en particulier si:
 - a. les documents joints à la demande d’agrément et le rapport annuel remis à l’autorité de surveillance sont complets et corrects;
-- b. l’entreprise de révision soumise à la surveillance de l’Etat respecte les dispositions et les normes applicables en matière d’indépendance, d’assurance-qualité interne et d’assurance-qualité quant aux prestations de révision fournies;
+- b. l’entreprise de révision soumise à la surveillance de l’État respecte les dispositions et les normes applicables en matière d’indépendance, d’assurance-qualité interne et d’assurance-qualité quant aux prestations de révision fournies;
 
 <sup>2</sup> Dans la mesure où des mesures ont été convenues ou des directives pour régulariser la situation ont été données lors du contrôle précédent, l’autorité de surveillance vérifie leur respect et leur mise en œuvre.
 
 #### Art. 8
 
-**Etendue du contrôle**
+**Étendue du contrôle**
 
 L’autorité de surveillance vérifie en principe le respect des dispositions et des normes applicables en fonction des risques.
 
