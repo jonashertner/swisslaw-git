@@ -3,11 +3,11 @@ sr: "0.192.122.51"
 title: Abkommen vom 29. November 1996 zwischen dem Schweizerischen Bundesrat und der Internationalen Föderation der Rotkreuz- und Rothalbmond-Gesellschaften zur Festlegung der rechtlichen Stellung der Internationalen Föderation in der Schweiz
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/151"
 language: de
-version: 2017-10-18
+version: 2022-12-15
 adopted: 1996-11-29
 in_force: 1996-11-29
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/151/20171018/de/xml/fedlex-data-admin-ch-eli-cc-2001-151-20171018-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/151/20171018/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/151/20221215/de/xml/fedlex-data-admin-ch-eli-cc-2001-151-20221215-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/151/20221215/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -22,7 +22,7 @@ Abgeschlossen am 29. November 1996
 
 In Kraft getreten am 29. November 1996
 
-(Stand am 18. Oktober 2017)
+(Stand am 15. Dezember 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -133,7 +133,7 @@ Die Internationale Föderation kann jede Art von Guthaben, Gold, sämtliche Devi
 
 <sup>5.</sup> Der Betrieb von Fernmeldeeinrichtungen (leitungsgebundene oder drahtlose Verbindungen) muss, was den technischen Bereich betrifft, mit dem Bundesamt für Kommunikation und den schweizerischen PTT-Betrieben koordiniert werden.
 
-[^10-1]: In der AS nicht veröffentlicht
+[^10-1]: Der Text dieser Änderungen kann in Französisch und Englisch auf der Internetseite der Internationalen Fernmeldeunion: www.itu.int &gt; Portail Histoire de l’UIT &gt; Explore the digital collections &gt; Constitution and Convention eingesehen werden, oder ist erhältlich bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern.
 [^10-2]: [SR 0.784.02](https://fedlex.data.admin.ch/eli/cc/1996/1284_1284_1284)
 
 #### Art. 11
@@ -164,16 +164,17 @@ Die Internationale Föderation unterliegt als Arbeitgeber nicht der schweizerisc
 
 <sup>1.</sup> Unter Vorbehalt von Artikel 21 des vorliegenden Abkommens geniessen der Präsident der Internationalen Föderation, der Generalsekretär, oder wenn er verhindert ist, sein Stellvertreter, und die Mitarbeiter der Hohen Direktion die Vorrechte und Immunitäten, die gemäss Völkerrecht und internationalen Gebräuchen den diplomatischen Vertretern eingeräumt werden.[^14-1]
 
-<sup>2.</sup> Die oben genannten Personen, die nicht das Schweizer Bürgerrecht besitzen, sind von allen Bundes-, Kantons- und Gemeindesteuern auf die ihnen von der Internationalen Föderation ausbezahlten Gehälter, Zulagen und Entschädigungen befreit. Kapitalleistungen, die aus irgendeinem Grunde von einer Pensionskasse oder Fürsorgeeinrichtung im Sinne von Artikel 12 dieses Abkommens geschuldet werden, sind in der Schweiz im Zeitpunkt ihrer Auszahlung von Steuern befreit; dasselbe gilt für alle Kapitalleistungen, die diesen Personen als Entschädigung für Krankheit, Unfall, usw. ausgerichtet werden; hingegen sind die Erträge von ausgerichteten Kapitalien sowie die Renten und Pensionen von diesen Personen, die ihre Tätigkeit bei der Internationalen Föderation eingestellt haben, von der Steuerpflicht nicht ausgenommen.
+<sup>2.</sup> Die oben genannten Personen, die nicht das Schweizer Bürgerrecht besitzen, sind von allen Bundes-, Kantons- und Gemeindesteuern auf die ihnen von der Internationalen Föderation ausbezahlten Gehältern, Zulagen und Entschädigungen befreit; diese Befreiung wird, sofern die Internationale Föderation eine interne Besteuerung vor-sieht, auch Personen mit schweizerischer Staatsangehörigkeit gewährt.[^14-2] Kapitalleistungen, die aus irgendeinem Grunde von einer Pensionskasse oder Fürsorgeeinrichtung im Sinne von Artikel 12 dieses Abkommens geschuldet werden, sind in der Schweiz im Zeitpunkt ihrer Auszahlung von Steuern befreit; dasselbe gilt für alle Kapitalleistungen, die diesen Personen als Entschädigung für Krankheit, Unfall, usw. ausgerichtet werden; hingegen sind die Erträge von ausgerichteten Kapitalien sowie die Renten und Pensionen von diesen Personen, die ihre Tätigkeit bei der Internationalen Föderation eingestellt haben, von der Steuerpflicht nicht ausgenommen.
 
 Überdies versteht es sich, dass die Schweiz die Möglichkeit wahrt, bei der Bestimmung des anwendbaren Steuersatzes für die anderen, normal steuerbaren Einkommensbestandteile dieser Personen den von der Steuerpflicht befreiten Salären, Gehältern und andern Bestandteilen des Einkommens Rechnung zu tragen.
 
 <sup>3.</sup> Die vorgenannten Personen, die nicht das Schweizer Bürgerrecht besitzen, sind für Bezüge zu ihrem ausschliesslich persönlichen Gebrauch und für alle Dienst-leistungen zu ihrem ausschliesslich persönlichen Gebrauch gemäss schweizerischer Gesetzgebung von der Mehrwertsteuer (MWST) befreit.
 
-<sup>4.</sup> Zollvorrechte werden gemäss der Verordnung vom 13. November 1985[^14-2] über Zollvorrechte der internationalen Organisationen, der Staaten in ihren Beziehungen zu diesen Organisationen und der Sondermissionen fremder Staaten gewährt.
+<sup>4.</sup> Zollvorrechte werden gemäss der Verordnung vom 13. November 1985[^14-3] über Zollvorrechte der internationalen Organisationen, der Staaten in ihren Beziehungen zu diesen Organisationen und der Sondermissionen fremder Staaten gewährt.
 
 [^14-1]: Fassung gemäss Briefwechsel vom 5./18. Okt. 2017, in Kraft seit 18. Okt. 2017 ([AS 2017 6003](https://fedlex.data.admin.ch/eli/oc/2017/657)).
-[^14-2]: [SR 631.145.0](https://fedlex.data.admin.ch/eli/cc/1985/1819_1819_1819)
+[^14-2]: Fassung gemäss Briefwechsel vom 12./15. Dez. 2022, in Kraft seit 15. Dez. 2022 ([AS 2022 855](https://fedlex.data.admin.ch/eli/oc/2022/855)).
+[^14-3]: [SR 631.145.0](https://fedlex.data.admin.ch/eli/cc/1985/1819_1819_1819)
 
 #### Art. 15
 
@@ -192,7 +193,11 @@ Die Vertreter der Nationalen Rotkreuz- und Rothalbmond-Gesellschaften, welche Mi
 Die Mitarbeiter der Internationalen Föderation geniessen, ohne Rücksicht auf ihre Staatsangehörigkeit, folgende Vorrechte und Immunitäten:
 
 - a) Immunität von der Gerichtsbarkeit, auch nach Beendigung ihres Amtes, bezüglich der von ihnen in Ausübung ihres Amtes vorgenommenen Handlungen, einschliesslich ihrer schriftlichen und mündlichen Äusserungen, unter Vorbehalt von Artikel 21 dieses Abkommens;
-- b) Unverletzlichkeit aller ihrer amtlichen Schriftstücke, Datenträger und Urkunden.
+- b) Unverletzlichkeit aller ihrer amtlichen Schriftstücke, Datenträger und Urkunden;
+- c)[^16-1] Befreiung von allen Bundes-, Kantons- und Gemeindesteuern auf den ihnen von der Internationalen Föderation ausbezahlten Gehältern, Zulagen und Entschädigungen; diese Befreiung wird, sofern die Internationale Föderation eine interne Besteuerung vorsieht, auch Beamten mit schweizerischer Staatsangehörigkeit gewährt. Kapitalleistungen, die von einer Pensionskasse oder Fürsorgeeinrichtung im Sinne von Artikel 12 dieses Abkommens ungeachtet der Umstände geschuldet werden, sind in der Schweiz im Zeitpunkt ihrer Auszahlung von Steuern befreit; dasselbe gilt für alle Kapitalleistungen, die den Mitarbeitern der Internationalen Föderation als Entschädigung für Krankheit, Unfall und dergleichen ausbezahlt werden; dagegen sind die Erträge von Kapitalleistungen sowie die Renten und Pensionen von ehemaligen Mitarbeitern, die ihre Tätigkeit bei der Internationalen Föderation eingestellt haben, nicht von der Besteuerung befreit.
+- Überdies versteht es sich, dass die Schweiz die Möglichkeit wahrt, bei der Bestimmung des anwendbaren Steuersatzes für die anderen, normal steuerbaren Einkommensbestandteile dieser Personen den von der Steuerpflicht befreiten Salären, Gehältern und anderen Bestandteilen des Einkommens Rechnung zu tragen.
+
+[^16-1]: Eingefügt durch Briefwechsel vom 12./15. Dez. 2022, in Kraft seit 15. Dez. 2022 ([AS 2022 855](https://fedlex.data.admin.ch/eli/oc/2022/855)).
 
 #### Art. 17
 
@@ -204,8 +209,9 @@ Die Mitarbeiter der Internationalen Föderation, die nicht die schweizerische St
 - b) sie sind, wie auch ihre Ehegatten und die von ihnen unterhaltenen Familienmitglieder den die Einwanderung einschränkenden Bestimmungen und den Formalitäten der Ausländerregistrierung nicht unterstellt;
 - c) sie geniessen mit Bezug auf die Erleichterungen des Geldwechsels die gleichen Vorrechte wie sie den Beamten der internationalen Organisationen zuerkannt werden;
 - d) sie geniessen, ebenso wie die von ihnen unterhaltenen Familienmitglieder mit Bezug auf die Rückkehr in die Heimat die gleichen Erleichterungen wie die Beamten der internationalen Organisationen;
-- e) sie sind von allen Bundes-, Kantons- und Gemeindesteuern auf die ihnen von der Internationalen Föderation ausbezahlten Gehälter, Zulagen und Entschädigungen befreit. Kapitalleistungen, die aus irgendeinem Grunde von einer Pensionskasse oder Fürsorgeeinrichtung im Sinne von Artikel 12 dieses Abkommens geschuldet werden, sind in der Schweiz im Zeitpunkt ihrer Auszahlung ebenfalls von Steuern befreit; dasselbe gilt für alle Kapital-leistungen, die den Mitarbeitern der Internationalen Föderation als Entschädigung für Krankheit, Unfall, usw. ausgerichtet werden; hingegen sind die Erträge von ausgerichteten Kapitalien sowie die Renten und Pensionen von ehemaligen Mitarbeitern der Internationalen Föderation von der Steuerpflicht nicht ausgenommen.
-- Überdies versteht es sich, dass die Schweiz die Möglichkeit wahrt, bei der Bestimmung des anwendbaren Steuersatzes für die anderen, normal steuerbaren Einkommensbestandteile dieser Personen den von der Steuerpflicht befreiten Salären, Gehältern und andern Bestandteilen des Einkommens Rechnung zu tragen.
+- e)[^17-1] …
+
+[^17-1]: Aufgehoben durch Briefwechsel vom 12./15. Dez. 2022, mit Wirkung seit 15. Dez. 2022 ([AS 2022 855](https://fedlex.data.admin.ch/eli/oc/2022/855)).
 
 #### Art. 18
 

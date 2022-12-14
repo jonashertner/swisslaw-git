@@ -3,11 +3,11 @@ sr: "0.192.122.51"
 title: Accordo del 29 novembre 1996 tra il Consiglio federale svizzero e la Federazione internazionale delle Società della Croce Rossa e della Mezzaluna Rossa per determinare lo statuto giuridico della Federazione internazionale in Svizzera
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/151"
 language: it
-version: 2017-10-18
+version: 2022-12-15
 adopted: 1996-11-29
 in_force: 1996-11-29
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/151/20171018/it/xml/fedlex-data-admin-ch-eli-cc-2001-151-20171018-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/151/20171018/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/151/20221215/it/xml/fedlex-data-admin-ch-eli-cc-2001-151-20221215-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/151/20221215/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,11 +20,9 @@ Traduzione
 
 tra il Consiglio federale svizzero e la Federazione internazionale delle Società della Croce Rossa e della Mezzaluna Rossa per determinare lo statuto giuridico della Federazione internazionale in Svizzera
 
-Concluso il 29 novembre 1996
+Concluso il 29 novembre 1996 Entrata in vigore il 29 novembre 1996
 
-Entrata in vigore il 29 novembre 1996
-
-(Stato 18 ottobre 2017)
+(Stato 15 dicembre 2022)
 
 Il Consiglio federale svizzero,
 
@@ -136,7 +134,7 @@ La Federazione internazionale può ricevere, detenere, convertire e trasferire f
 <sup>5.</sup> L’utilizzazione degli impianti di telecomunicazione (collegamenti via cavo e senza filo) deve essere coordinato sul piano tecnico con l’Ufficio federale delle comunicazioni e l’Azienda svizzera delle PTT.
 
 [^10-1]: [RS 0.784.02](https://fedlex.data.admin.ch/eli/cc/1996/1284_1284_1284)
-[^10-2]: Non pubblicata nella RU
+[^10-2]: I testi, francese ed inglese, possono essere consultati sul sito Internet dell’UIT: www.itu.int &gt; Portail Histoire de l’UIT &gt; Explore the digital collections &gt; Constitution and Convention, oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.
 
 #### Art. 11
 
@@ -166,16 +164,17 @@ La Federazione internazionale non è soggetta, nella qualità di datore di lavor
 
 <sup>1.</sup> Fatto salvo l’articolo 21 del presente Accordo, il Presidente della Federazione internazionale, il Segretario generale, o, in caso di impedimento di questi, il suo sostituto, nonché gli alti funzionari del Segretariato godono dei privilegi, delle immunità e delle agevolazioni riconosciuti agli agenti diplomatici conformemente al diritto internazionale pubblico e agli usi internazionali.[^14-1]
 
-<sup>2.</sup> Le persone summenzionate non aventi la nazionalità svizzera sono esentate da ogni imposta federale, cantonale e comunale sulle retribuzioni, gratifiche e indennità versate loro dalla Federazione internazionale. Sono esenti in Svizzera al momento del loro versamento le prestazioni in capitale dovute in qualsiasi circostanza da una cassa pensione o da un istituto di previdenza ai sensi dell’articolo 12 del presente Accordo, nonché tutte le prestazioni in capitale eventualmente corrisposte alle suddette persone a titolo di indennità in seguito a malattia, infortunio, ecc.; per contro, non godono dell’esenzione i redditi dei capitali versati, nonché le rendite e le pensioni pagate alle persone che hanno smesso di esercitare le loro funzioni presso la Federazione internazionale.
+<sup>2.</sup> Le persone summenzionate non aventi la nazionalità svizzera sono esentate da ogni imposta federale, cantonale e comunale sulle retribuzioni, gratifiche e indennità versate loro dalla Federazione internazionale; tale esenzione si applica alle persone di nazionalità svizzera a condizione che la Federazione internazionale preveda un’imposizione interna.[^14-2] Sono esenti in Svizzera al momento del loro versamento le prestazioni in capitale dovute in qualsiasi circostanza da una cassa pensione o da un istituto di previdenza ai sensi dell’articolo 12 del presente Accordo, nonché tutte le prestazioni in capitale eventualmente corrisposte alle suddette persone a titolo di indennità in seguito a malattia, infortunio, ecc.; per contro, non godono dell’esenzione i redditi dei capitali versati, nonché le rendite e le pensioni pagate alle persone che hanno smesso di esercitare le loro funzioni presso la Federazione internazionale.
 
 La Svizzera si riserva, tuttavia, la possibilità di tener conto dei salari, delle retribuzioni e degli altri elementi del reddito oggetto dell’esenzione per determinare l’aliquota dell’imposta applicabile agli altri elementi, normalmente imponibili, del reddito di dette persone.
 
 <sup>3.</sup> Le persone summenzionate non aventi la nazionalità svizzera sono esentate dall’imposta sul valore aggiunto (IVA) conformemente alla legislazione svizzera per gli acquisti destinati all’uso strettamente personale e per tutte le prestazioni di servizi effettuate ad uso strettamente personale.
 
-<sup>4.</sup> I privilegi doganali sono concessi conformemente all’ordinanza del 13 novembre 1985[^14-2] concernente i privilegi doganali delle organizzazioni internazionali, degli Stati nelle loro relazioni con tali organizzazioni e delle missioni speciali di Stati esteri.
+<sup>4.</sup> I privilegi doganali sono concessi conformemente all’ordinanza del 13 novembre 1985[^14-3] concernente i privilegi doganali delle organizzazioni internazionali, degli Stati nelle loro relazioni con tali organizzazioni e delle missioni speciali di Stati esteri.
 
 [^14-1]: Nuovo testo giusta lo scambio di note del 5/18 ott. 2017, in vigore dal 18 ott. 2017 ([RU 2017 6003](https://fedlex.data.admin.ch/eli/oc/2017/657)).
-[^14-2]: [RS 631.145.0](https://fedlex.data.admin.ch/eli/cc/1985/1819_1819_1819)
+[^14-2]: Nuovo testo giusta lo scambio di note del 12/15 dic. 2022, in vigore dal 15 dic. 2022 ([RU 2022 855](https://fedlex.data.admin.ch/eli/oc/2022/855)).
+[^14-3]: [RS 631.145.0](https://fedlex.data.admin.ch/eli/cc/1985/1819_1819_1819)
 
 #### Art. 15
 
@@ -194,7 +193,11 @@ I rappresentanti delle Società nazionali della Croce Rossa e della Mezzaluna Ro
 I collaboratori della Federazione internazionale beneficiano, indipendentemente dalla loro nazionalità, dei privilegi e delle immunità seguenti:
 
 - a) immunità di giurisdizione, per gli atti da essi compiuti nell’esercizio delle loro funzioni, comprese le espressioni verbali e scritte, anche dopo il termine delle loro funzioni, salvo quanto previsto all’articolo 21 del presente Accordo;
-- b) inviolabilità di tutte le carte, supporti di dati e documenti ufficiali.
+- b) inviolabilità di tutte le carte, supporti di dati e documenti ufficiali;
+- c)[^16-1] esenzione da ogni imposta federale, cantonale e comunale sulle retribuzioni, gratifiche e indennità versate loro dalla Federazione internazionale; tale esenzione si applica ai funzionari di nazionalità svizzera a condizione che la Federazione internazionale preveda un’imposizione interna. Sono parimenti esenti in Svizzera al momento del loro versamento le prestazioni in capitale dovute in qualsiasi circostanza da una cassa pensione o da un istituto di previdenza ai sensi dell’articolo 12 del presente Accordo, nonché tutte le prestazioni in capitale eventualmente corrisposte a collaboratori della Federazione internazionale a titolo di indennità in seguito a malattia, infortunio, ecc.; per contro, non godono dell’esenzione i redditi dei capitali versati, nonché le rendite e le pensioni pagate a ex collaboratori della Federazione internazionale.
+- La Svizzera si riserva, tuttavia, la possibilità di tener conto dei salari, delle retribuzioni e degli altri elementi del reddito oggetto dell’esenzione per determinare l’aliquota dell’imposta applicabile agli altri elementi, normalmente imponibili, del reddito dei collaboratori.
+
+[^16-1]: Introdotta dallo scambio di note del 12/15 dic. 2022, in vigore dal 15 dic. 2022 ([RU 2022 855](https://fedlex.data.admin.ch/eli/oc/2022/855)).
 
 #### Art. 17
 
@@ -206,8 +209,9 @@ Oltre ai privilegi e alle immunità di cui all’articolo 16, i collaboratori de
 - b) non sono soggetti, e con essi il loro congiunto o i familiari a loro carico, alle disposizioni restrittive di immigrazione e alle formalità di registrazione degli stranieri;
 - c) godono, per quanto riguarda le agevolazioni di cambio, degli stessi privilegi riconosciuti ai funzionari delle organizzazioni internazionali;
 - d) godono, e con essi i familiari a loro carico, delle stesse agevolazioni di rimpatrio dei funzionari delle organizzazioni internazionali;
-- e) sono esentati da ogni imposta federale, cantonale e comunale sulle retribuzioni, gratifiche e indennità versate loro dalla Federazione internazionale. Sono parimenti esenti in Svizzera al momento del loro versamento le prestazioni in capitale dovute in qualsiasi circostanza da una cassa pensione o da un istituto di previdenza ai sensi dell’articolo 12 del presente Accordo, nonché tutte le prestazioni in capitale eventualmente corrisposte a collaboratori della Federazione internazionale a titolo di indennità in seguito a malattia, infortunio, ecc.; per contro, non beneficiano dell’esenzione i redditi dei capitali versati, nonché le rendite e le pensioni pagate agli ex collaboratori della Federazione internazionale.
-- La Svizzera si riserva, tuttavia, la possibilità di tener conto dei salari, delle retribuzioni e degli altri elementi del reddito oggetto dell’esenzione per determinare l’aliquota dell’imposta applicabile agli altri elementi, normalmente imponibili, del reddito dei collaboratori.
+- e)[^17-1] ...
+
+[^17-1]: Abrogata dallo scambio di note del 12/15 dic. 2022, con effetto dal 15 dic. 2022 ([RU 2022 855](https://fedlex.data.admin.ch/eli/oc/2022/855)).
 
 #### Art. 18
 

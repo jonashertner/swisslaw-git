@@ -3,11 +3,11 @@ sr: "0.192.122.51"
 title: Accord du 29 novembre 1996 entre le Conseil fédéral suisse et la Fédération internationale des Sociétés de la Croix-Rouge et du Croissant-Rouge en vue de déterminer le statut juridique de la Fédération internationale en Suisse
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/151"
 language: fr
-version: 2017-10-18
+version: 2022-12-15
 adopted: 1996-11-29
 in_force: 1996-11-29
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/151/20171018/fr/xml/fedlex-data-admin-ch-eli-cc-2001-151-20171018-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/151/20171018/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/151/20221215/fr/xml/fedlex-data-admin-ch-eli-cc-2001-151-20221215-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/151/20221215/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -22,7 +22,7 @@ Conclu le 29 novembre 1996
 
 Entré en vigueur le 29 novembre 1996
 
-(Etat le 18 octobre 2017)
+(État le 15 décembre 2022)
 
 Le Conseil fédéral suisse, d’une part, et la Fédération internationale des Sociétés de la Croix-Rouge et du Croissant-Rouge, d’autre part,
 
@@ -126,7 +126,7 @@ La Fédération internationale peut recevoir, détenir, convertir et transférer
 <sup>5.</sup> L’exploitation des installations de télécommunications (communications par fil et sans fil) doit être coordonnée sur le plan technique avec l’Office fédéral de la communication et l’Entreprise des PTT suisses.
 
 [^10-1]: [RS 0.784.02](https://fedlex.data.admin.ch/eli/cc/1996/1284_1284_1284)
-[^10-2]: Non publié au RO.
+[^10-2]: Les textes en français et en anglais peuvent être consultés sur le site Internet de l’UIT: www.itu.int &gt; Portail Histoire de l’UIT &gt; Explore the digital collections &gt; Constitution and Convention, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.
 
 #### Art. 11
 
@@ -156,16 +156,17 @@ La Fédération internationale n’est pas soumise, en qualité d’employeur, �
 
 <sup>1.</sup> Sous réserve de l’art. 21 du présent Accord, le Président de la Fédération internationale, le Secrétaire général, ou, en cas d’empêchement de ce dernier, son remplaçant, et les collaborateurs faisant partie de la haute direction jouissent des privilèges, immunités et facilités reconnus aux agents diplomatiques conformément au droit des gens et aux usages internationaux.[^14-1]
 
-<sup>2.</sup> Les personnes mentionnées ci-dessus qui n’ont pas la nationalité suisse sont exemptes de tous impôts fédéraux, cantonaux et communaux sur les traitements, émoluments et indemnités qui leur sont versés par la Fédération internationale. Les prestations en capital, dues en quelque circonstance que ce soit par une caisse de pension ou une institution de prévoyance au sens de l’art. 12 du présent Accord, sont exemptes en Suisse au moment de leur versement; il en sera de même à l’égard de toutes les prestations en capital qui pourraient être versées à ces personnes à titre d’indemnité à la suite de maladie, accident, etc.; en revanche, les revenus des capitaux versés, ainsi que les rentes et pensions payées à ces personnes qui ont cessé d’exercer leurs fonctions auprès de la Fédération internationale ne bénéficient pas de l’exemption.
+<sup>2.</sup> Les personnes mentionnées ci-dessus qui n’ont pas la nationalité suisse sont exemptes de tous impôts fédéraux, cantonaux et communaux sur les traitements, émoluments et indemnités qui leur sont versés par la Fédération internationale; cette exemption s’applique aux personnes de nationalité suisse, à condition que la Fédération internationale prévoie une imposition interne.[^14-2] Les prestations en capital, dues en quelque circonstance que ce soit par une caisse de pension ou une institution de prévoyance au sens de l’art. 12 du présent Accord, sont exemptes en Suisse au moment de leur versement; il en sera de même à l’égard de toutes les prestations en capital qui pourraient être versées à ces personnes à titre d’indemnité à la suite de maladie, accident, etc.; en revanche, les revenus des capitaux versés, ainsi que les rentes et pensions payées à ces personnes qui ont cessé d’exercer leurs fonctions auprès de la Fédération internationale ne bénéficient pas de l’exemption.
 
 Il demeure au surplus entendu que la Suisse conserve la possibilité de tenir compte des salaires, traitements et autres éléments de revenu exonérés pour déterminer le taux d’impôt applicable aux autres éléments, normalement imposables, du revenu de ces personnes.
 
 <sup>3.</sup> Les personnes mentionnées ci-dessus qui n’ont pas la nationalité suisse sont exonérées de la taxe sur la valeur ajoutée (TVA) conformément à la législation suisse pour les acquisitions destinées à leur usage strictement personnel et pour toutes les prestations de services faites pour leur usage strictement personnel.
 
-<sup>4.</sup> Les privilèges douaniers sont accordés conformément à l’ordonnance du 13 novembre 1985 concernant les privilèges douaniers des organisations, internationales, des Etats dans leurs relations avec ces organisations et des missions spéciales d’Etats étrangers[^14-2].
+<sup>4.</sup> Les privilèges douaniers sont accordés conformément à l’ordonnance du 13 novembre 1985 concernant les privilèges douaniers des organisations, internationales, des Etats dans leurs relations avec ces organisations et des missions spéciales d’Etats étrangers[^14-3].
 
 [^14-1]: Nouvelle teneur selon l’échange de lettres des 5/18 oct. 2017, en vigueur depuis le 18 oct. 2017 ([RO 2017 6003](https://fedlex.data.admin.ch/eli/oc/2017/657)).
-[^14-2]: [RS 631.145.0](https://fedlex.data.admin.ch/eli/cc/1985/1819_1819_1819)
+[^14-2]: Nouvelle teneur selon l’échange de lettres des 12/15 déc. 2022, en vigueur depuis le 15 déc. 2022 ([RO 2022 855](https://fedlex.data.admin.ch/eli/oc/2022/855)).
+[^14-3]: [RS 631.145.0](https://fedlex.data.admin.ch/eli/cc/1985/1819_1819_1819)
 
 #### Art. 15
 
@@ -184,7 +185,11 @@ Les représentants des Sociétés nationales de la Croix-Rouge et du Croissant-R
 Les collaborateurs de la Fédération internationale, quelle que soit leur nationalité, bénéficient des privilèges et immunités suivants:
 
 - a) immunité de juridiction pour les actes accomplis dans l’exercice de leurs fonctions, y compris leurs paroles et leurs écrits, même après que les personnes auront cessé leurs fonctions, sous réserve de l’art. 21 du présent Accord;
-- b) inviolabilité de tous papiers, supports de données et documents officiels.
+- b) inviolabilité de tous papiers, supports de données et documents officiels;
+- c)[^16-1] exemption de tous impôts fédéraux, cantonaux et communaux sur les traitements, émoluments et indemnités qui leur sont versés par la Fédération internationale; cette exemption s’étend aux fonctionnaires de nationalité suisse, à condition que la Fédération internationale prévoie une imposition interne. Sont également exemptes en Suisse, au moment de leur versement, les prestations en capital dues en quelque circonstance que ce soit par une caisse de pension ou une institution de prévoyance au sens de l’art. 12 du présent Accord; il en sera de même à l’égard de toutes les prestations en capital qui pourraient être versées à des collaborateurs de la Fédération internationale à titre d’indemnité à la suite de maladie, accident, etc.; en revanche, les revenus des capitaux versés, ainsi que les rentes et pensions payées aux anciens collaborateurs de la Fédération internationale ne bénéficient pas de l’exemption.
+- Il demeure au surplus entendu que la Suisse conserve la possibilité de tenir compte des salaires, traitements et autres éléments de revenu exonérés, pour déterminer le taux d’impôt applicable aux autres éléments, normalement imposables, du revenu des collaborateurs.
+
+[^16-1]: Introduite par l’échange de lettres des 12/15 déc. 2022, en vigueur depuis le 15 déc. 2022 ([RO 2022 855](https://fedlex.data.admin.ch/eli/oc/2022/855)).
 
 #### Art. 17
 
@@ -196,8 +201,9 @@ En sus des privilèges et immunités énumérés à l’art. 16, les collaborate
 - b) ne sont pas soumis, non plus que leur conjoint et les membres de leur famille vivant à leur charge, aux dispositions limitant l’immigration et aux formalités d’enregistrement des étrangers;
 - c) jouissent, en ce qui concerne les facilités de change, des mêmes privilèges que ceux reconnus aux fonctionnaires des organisations internationales;
 - d) jouissent, ainsi que les membres de leur famille vivant à leur charge, des mêmes facilités de rapatriement que les fonctionnaires des organisations internationales;
-- e) sont exempts de tous impôts fédéraux, cantonaux et communaux sur les traitements, émoluments et indemnités qui leur sont versés par la Fédération internationale. Sont également exemptes en Suisse, au moment de leur versement, les prestations en capital dues en quelque circonstance que ce soit par une caisse de pension ou une institution de prévoyance au sens de l’art. 12 du présent Accord; il en sera de même à l’égard de toutes les prestations en capital qui pourraient être versées à des collaborateurs de la Fédération internationale à titre d’indemnité à la suite de maladie, accident, etc.; en revanche, les revenus des capitaux versés, ainsi que les rentes et pensions payées aux anciens collaborateurs de la Fédération internationale ne bénéficient pas de l’exemption.
-- Il demeure au surplus entendu que la Suisse conserve la possibilité de tenir compte des salaires, traitements et autres éléments de revenu exonérés, pour déterminer le taux d’impôt applicable aux autres éléments, normalement imposables, du revenu des collaborateurs.
+- e)[^17-1] …
+
+[^17-1]: Abrogée par l’échange de lettres des 12/15 déc. 2022, avec effet au 15 déc. 2022 ([RO 2022 855](https://fedlex.data.admin.ch/eli/oc/2022/855)).
 
 #### Art. 18
 
