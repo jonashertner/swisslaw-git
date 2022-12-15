@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Verordnung vom 4. März 2022 über Massnahmen im Zusammenhang mit der Situation in der Ukraine
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: de
-version: 2022-12-09
+version: 2022-12-16
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20221209/de/xml/fedlex-data-admin-ch-eli-cc-2022-151-20221209-de-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20221209/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20221216/de/xml/fedlex-data-admin-ch-eli-cc-2022-151-20221216-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20221216/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen im Zusammenhang mit der Situation in der Ukraine
 
-vom 4. März 2022 (Stand am 9. Dezember 2022)
+vom 4. März 2022 (Stand am 16. Dezember 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -419,25 +419,26 @@ Die Verbote nach den Absätzen 1 und 2 gelten nicht:
 
 #### Art. 12b
 
-**Transport von Rohöl und Erdölerzeugnissen nach Drittstaaten**[^12b-1]
+**Handel, Vermittlung und Transport von Rohöl und Erdölerzeugnissen mit oder nach Drittstaaten**[^12b-1]
 
-<sup>1</sup> Der Transport, einschliesslich des Umladens zwischen Schiffen, von Rohöl und Erdölerzeugnissen gemäss Anhang 24 aus der Russischen Föderation oder mit Ursprung in der Russischen Föderation nach Staaten ausserhalb der Schweiz und des EWR ist verboten.
+<sup>1</sup> Der Handel, die Vermittlung und der Transport, einschliesslich des Umladens zwischen Schiffen, von Rohöl und Erdölerzeugnissen gemäss Anhang 24 aus der Russischen Föderation oder mit Ursprung in der Russischen Föderation mit oder nach Staaten ausserhalb der Schweiz und des EWR sind verboten.
 
-<sup>2</sup> Die Erbringung von technischer Hilfe, die Vermittlung und Finanzdienstleistungen sowie die Gewährung von Finanzmitteln im Zusammenhang mit dem Transport von Rohöl und Erdölerzeugnissen gemäss Anhang 24 aus der Russischen Föderation oder mit Ursprung in der Russischen Föderation nach Staaten ausserhalb der Schweiz und des EWR sind verboten.
+<sup>2</sup> Die Erbringung von technischer Hilfe, Vermittlungsdiensten und Finanzdienstleistungen sowie die Gewährung von Finanzmitteln im Zusammenhang mit Tätigkeiten nach Absatz 1 sind verboten.
 
-<sup>3</sup> Die Erbringung von Dienstleistungen gemäss Absatz 2 für Schiffe, die Rohöl und Erdölerzeugnisse gemäss Anhang 24 befördert haben, deren Einkaufspreis zum Zeitpunkt des Vertragsabschlusses für einen solchen Kauf die in Anhang 28 festgelegte Preisobergrenze überstieg, ist verboten.
+<sup>3</sup> Die Erbringung von Dienstleistungen nach Absatz 2 für Schiffe, die Rohöl und Erdölerzeugnisse gemäss Anhang 24 befördert haben, deren Einkaufspreis zum Zeitpunkt des Vertragsabschlusses die in Anhang 28 festgelegte Preisobergrenze überstieg, ist während 90 Tagen ab der Entladung dieser Güter verboten, sofern der für die Beförderung verantwortliche Betreiber wusste oder Grund zur Annahme hatte, dass der Einkaufspreis zum Zeitpunkt des Vertragsabschlusses die in Anhang 28 festgelegte Preisobergrenze überstieg.
 
 <sup>4</sup>
 
 Die Verbote nach den Absätzen 1 und 2 gelten nicht für:
 
-- a. Güter, die lediglich durch die Russische Föderation transportiert werden und sich nicht in russischem Eigentum befinden;
+- a. Güter, die lediglich in der Russischen Föderation verladen werden, durch die Russische Föderation transportiert werden oder aus der Russischen Föderation abgehen, ihren Ursprung nicht in der Russischen Föderation haben und sich nicht in russischem Eigentum befinden;
 - b. Güter, deren Einkaufspreis die in Anhang 28 festgelegte Preisobergrenze nicht übersteigt;
-- c. Güter gemäss Anhang 29, die während der dort genannten Dauer in die dort genannten Drittstaaten befördert werden.
+- c. Güter gemäss Anhang 29, die während der dort genannten Dauer in die dort genannten Drittstaaten befördert werden;
+- d. die dringende Abwendung oder Eindämmung eines Ereignisses, das voraussichtlich schwerwiegende und wesentliche Auswirkungen auf die Gesundheit und Sicherheit von Menschen oder die Umwelt haben wird, oder die Bewältigung von Naturkatastrophen, sofern das SECO unverzüglich nach Feststellung des Ereignisses oder der Naturkatastrophe unterrichtet wurde.
 
 <sup>5</sup> Das Verbot nach Absatz 1 gilt nicht für die Erbringung von Lotsendiensten, die aus Gründen der Sicherheit des Seeverkehrs erforderlich sind.
 
-[^12b-1]: Eingefügt durch Ziff. I der V vom 29. Juni 2022 ([AS 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)). Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 23. Nov. 2022 um 18.00 Uhr ([AS 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
+[^12b-1]: Eingefügt durch Ziff. I der V vom 29. Juni 2022 ([AS 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)). Fassung gemäss Ziff. I der V vom 16. Dez. 2022, in Kraft seit 16. Dez. 2022 um 18.00 Uhr ([AS 2022 824](https://fedlex.data.admin.ch/eli/oc/2022/824)).
 
 #### Art. 13
 
@@ -1333,21 +1334,23 @@ Artikel 12*b* Absätze 1 und 2 ist nicht anwendbar auf:
 
 - a. den Transport von Rohöl der Zolltarifnummer 2709 00, wenn dieser bis zum 5. Dezember 2022 erfolgt;
 - b. den Transport von Erdölerzeugnissen der Zolltarifnummer 2710, wenn dieser bis zum 5. Februar 2023 erfolgt;
-- c.
+- c.[^35-24]
 
-  den Transport von Rohöl und Erdölerzeugnissen während 90 Tagen nach einer Änderung von Anhang 28, wenn:
+  den Transport von Rohöl und Erdölerzeugnissen während 90 Tagen nach einer Änderung von Anhang 28 und die Erbringung von technischer Hilfe, Vermittlungsdiensten und Finanzdienstleistungen sowie die Gewährung von Finanzmitteln im Zusammenhang mit einem solchen Transport, wenn:
 
-  - 1\. der Transport auf der Grundlage eines Vertrags erfolgt, der vor der Änderung von Anhang 28 geschlossen wurde, und
-  - 2\. der Einkaufspreis zum Zeitpunkt des Vertragsabschlusses die in Anhang 28 festgelegte Preisobergrenze nicht überstieg.[^35-24]
+  - 1\. die genannten Tätigkeiten auf der Grundlage eines Vertrags erfolgen, der vor der Änderung von Anhang 28 geschlossen wurde, und
+  - 2\. der Einkaufspreis zum Zeitpunkt des Vertragsabschlusses die in Anhang 28 festgelegte Preisobergrenze nicht überstieg;
+
+- d.[^35-25] den Transport von Rohöl der Zolltarifnummer 2709 00 aus der Russischen Föderation oder mit Ursprung in der Russischen Föderation, das vor dem 16. Dezember 2022 im Verladehafen auf ein Schiff verladen und vor dem 19. Januar 2023 im Endbestimmungshafen entladen wird und dessen Einkaufspreis die in Anhang 28 festgelegte Preisobergrenze nicht übersteigt.[^35-26]
 
 <sup>26</sup>
 
 Artikel 24*a* Absatz 1 ist nicht anwendbar auf:
 
 - a. die Entgegennahme von Zahlungen, die von der in Anhang 15 unter der SSID-Nummer 175-57347 genannten Organisation aufgrund eines Vertrags geschuldet werden, der bis zum 4. Februar 2023 erfüllt wurde;
-- b. Transaktionen, die vor dem 24. November 2022 mit der in Anhang 15 unter der SSID-Nummer 175-57347 genannten Organisation vertraglich vereinbart wurden und bis zum 4. Februar 2023 erfüllt sind.[^35-25]
+- b. Transaktionen, die vor dem 24. November 2022 mit der in Anhang 15 unter der SSID-Nummer 175-57347 genannten Organisation vertraglich vereinbart wurden und bis zum 4. Februar 2023 erfüllt sind.[^35-27]
 
-<sup>27</sup> Artikel 28*e* Absatz 1<sup>bis</sup> ist nicht auf die Erbringung von Dienstleistungen anwendbar, die erforderlich sind, um Verträge, die vor dem 24. November 2022 geschlossen wurden und mit den Bestimmungen von Artikel 28*e* nicht vereinbar sind, bis zum 4. Februar 2023 zu beenden.[^35-26]
+<sup>27</sup> Artikel 28*e* Absatz 1<sup>bis</sup> ist nicht auf die Erbringung von Dienstleistungen anwendbar, die erforderlich sind, um Verträge, die vor dem 24. November 2022 geschlossen wurden und mit den Bestimmungen von Artikel 28*e* nicht vereinbar sind, bis zum 4. Februar 2023 zu beenden.[^35-28]
 
 [^35-1]: Eingefügt durch Ziff. I der V vom 25. März 2022, in Kraft seit 25. März 2022 um 23.00 Uhr ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
 [^35-2]: Eingefügt durch Ziff. I der V vom 25. März 2022, in Kraft seit 25. März 2022 um 23.00 Uhr ([AS 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
@@ -1372,9 +1375,11 @@ Artikel 24*a* Absatz 1 ist nicht anwendbar auf:
 [^35-21]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 23. Nov. 2022 um 18.00 Uhr ([AS 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
 [^35-22]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 23. Nov. 2022 um 18.00 Uhr ([AS 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
 [^35-23]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 23. Nov. 2022 um 18.00 Uhr ([AS 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
-[^35-24]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 23. Nov. 2022 um 18.00 Uhr ([AS 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
-[^35-25]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 23. Nov. 2022 um 18.00 Uhr ([AS 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
+[^35-24]: Fassung gemäss Ziff. I der V vom 16. Dez. 2022, in Kraft seit 16. Dez. 2022 um 18.00 Uhr ([AS 2022 824](https://fedlex.data.admin.ch/eli/oc/2022/824)).
+[^35-25]: Eingefügt durch Ziff. I der V vom 16. Dez. 2022, in Kraft seit 16. Dez. 2022 um 18.00 Uhr ([AS 2022 824](https://fedlex.data.admin.ch/eli/oc/2022/824)).
 [^35-26]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 23. Nov. 2022 um 18.00 Uhr ([AS 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
+[^35-27]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 23. Nov. 2022 um 18.00 Uhr ([AS 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
+[^35-28]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 23. Nov. 2022 um 18.00 Uhr ([AS 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
 
 #### Art. 36
 

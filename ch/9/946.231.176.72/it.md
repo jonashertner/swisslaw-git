@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Ordinanza del 4 marzo 2022 che istituisce provvedimenti in relazione alla situazione in Ucraina
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: it
-version: 2022-12-09
+version: 2022-12-16
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20221209/it/xml/fedlex-data-admin-ch-eli-cc-2022-151-20221209-it-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20221209/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20221216/it/xml/fedlex-data-admin-ch-eli-cc-2022-151-20221216-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20221216/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti in relazione alla situazione in Ucraina
 
-del 4 marzo 2022 (Stato 9 dicembre 2023)
+del 4 marzo 2022 (Stato 16 dicembre 2022)
 
 Il Consiglio federale svizzero,
 
@@ -411,32 +411,34 @@ D’intesa con i servizi competenti del DFAE e del DFF, la SECO può autorizzare
 
 I divieti di cui ai capoversi 1 e 2 non si applicano:
 
-- a. al petrolio greggio trasportato via mare e ai prodotti petroliferi di cui all’allegato 24 se questi beni sono trasportati soltanto attraverso la Federazione Russa e non sono di proprietà russa;
+- a.[^12a-2] al petrolio greggio trasportato via mare e ai prodotti petroliferi di cui all’allegato 24 se questi beni sono solo in transito attraverso la Federazione Russa e non sono di proprietà russa;
 - b. al petrolio greggio e ai prodotti petroliferi di cui all’allegato 24 originari o provenienti dalla Federazione Russa introdotti legalmente in uno Stato membro dell’UE.
 
 [^12a-1]: Introdotto dal n. I dell’O del 29 giu. 2022, in vigore dal 29 giu. 2022 alle ore 18.00 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
+[^12a-2]: Nuovo testo giusta il n. I dell’O del 16 dic. 2022, in vigore dal 16 dic. 2022 alle ore 18.00 ([RU 2022 824](https://fedlex.data.admin.ch/eli/oc/2022/824)).
 
 #### Art. 12b
 
-**Trasporto di petrolio greggio e di prodotti petroliferi verso Paesi terzi**[^12b-1]
+**Scambi, intermediazione e trasporto di petrolio greggio e di prodotti petroliferi con o verso Paesi terzi**[^12b-1]
 
-<sup>1</sup> È vietato il trasporto, incluso il trasbordo da nave a nave, di petrolio greggio e di prodotti petroliferi di cui all’allegato 24 originari della Federazione Russa o provenienti dalla Federazione Russa verso Stati al di fuori della Svizzera e dello SEE.
+<sup>1</sup> Sono vietati gli scambi, l’intermediazione e il trasporto, incluso il trasbordo da nave a nave, di petrolio greggio e di prodotti petroliferi di cui all’allegato 24 originari della Federazione Russa o provenienti dalla Federazione Russa con o verso Stati al di fuori della Svizzera e dello SEE.
 
-<sup>2</sup> Sono vietati la fornitura di assistenza tecnica, l’intermediazione e i servizi finanziari nonché la concessione di mezzi finanziari in relazione con il trasporto di petrolio greggio e di prodotti petroliferi di cui all’allegato 24 originari della Federazione Russa o provenienti dalla Federazione Russa verso Stati al di fuori della Svizzera e dello SEE.
+<sup>2</sup> Sono vietati la fornitura di assistenza tecnica, di servizi di intermediazione e di servizi finanziari nonché la concessione di mezzi finanziari in relazione con le attività di cui al capoverso 1.
 
-<sup>3</sup> È vietata la fornitura dei servizi di cui al capoverso 2 per navi che hanno trasportato petrolio greggio o prodotti petroliferi di cui all’allegato 24 il cui prezzo di acquisto al barile superava il limite massimo di prezzo fissato nell’allegato 28 alla data della conclusione di tale contratto.
+<sup>3</sup> La fornitura dei servizi di cui al capoverso 2 per navi che hanno trasportato petrolio greggio o prodotti petroliferi di cui all’allegato 24 il cui prezzo di acquisto superava il limite massimo fissato nell’allegato 28 alla data di conclusione del contratto è vietata nei 90 giorni successivi alla data di scarico di tali beni se l’operatore responsabile del trasporto sapeva o aveva motivo di ritenere che alla data di conclusione del contratto tali beni erano stati acquistati a un prezzo superiore al limite massimo fissato nell’allegato 28.
 
 <sup>4</sup>
 
 I divieti di cui ai capoversi 1 e 2 non si applicano:
 
-- a. ai beni che sono solo in transito attraverso la Federazione Russa e non sono di proprietà russa;
-- b. ai beni il cui prezzo di acquisto al barile non supera il limite massimo di prezzo fissato nell’allegato 28;
-- c. ai beni di cui all’allegato 29 trasportati verso i Paesi terzi ivi menzionati per il periodo specificato in tale allegato.
+- a. ai beni che sono solo caricati nella Federazione Russa, sono trasportati dalla Federazione Russa o sono in partenza dalla Federazione Russa, non sono originari della Federazione Russa e non sono di proprietà russa;
+- b. ai beni il cui prezzo di acquisto non supera il limite massimo fissato nell’allegato 28;
+- c. ai beni di cui all’allegato 29 trasportati verso i Paesi terzi ivi menzionati per il periodo specificato in tale allegato;
+- d. alla prevenzione o mitigazione urgente di un evento che potrebbe avere conseguenze gravi e rilevanti sulla salute e sulla sicurezza delle persone o sull’ambiente, o alla risposta a catastrofi naturali, a condizione che la SECO sia stata informata senza indugio una volta constatato l’evento o la catastrofe naturale.
 
 <sup>5</sup> Il divieto di cui al capoverso 1 non si applica alla prestazione di servizi di pilotaggio necessari per motivi di sicurezza marittima.
 
-[^12b-1]: Introdotto dal n. I dell’O del 29 giu. 2022 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)). Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 23 nov. 2022 alle ore 18.00 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
+[^12b-1]: Introdotto dal n. I dell’O del 29 giu. 2022 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)). Nuovo testo giusta il n. I dell’O del 16 dic. 2022, in vigore dal 16 dic. 2022 alle ore 18.00 ([RU 2022 824](https://fedlex.data.admin.ch/eli/oc/2022/824)).
 
 #### Art. 13
 
@@ -1331,21 +1333,23 @@ L’articolo 12*b* capoversi 1 e 2 non si applica:
 
 - a. al trasporto del petrolio greggio della voce di tariffa doganale 2709 00, se il trasporto avviene entro il 5 dicembre 2022;
 - b. al trasporto dei prodotti petroliferi della voce di tariffa doganale 2710, se il trasporto avviene entro il 5 febbraio 2023;
-- c.
+- c.[^35-24]
 
-  al trasporto di petrolio greggio e di prodotti petroliferi per un periodo di 90 giorni dopo la modifica dell’allegato 28 se:
+  al trasporto di petrolio greggio e di prodotti petroliferi per un periodo di 90 giorni dopo una modifica dell’allegato 28 né alla fornitura di assistenza tecnica, di servizi di intermediazione e di servizi finanziari né alla concessione di mezzi finanziari in relazione con tale trasporto, se:
 
-  - 1\. il trasporto avviene sulla base di un contratto concluso prima della modifica dell’allegato 28, e
-  - 2\. il prezzo di acquisto al barile non supera il limite massimo di prezzo fissato nell’allegato 28 alla data della conclusione di tale contratto.[^35-24]
+  - 1\. le attività menzionate sono svolte sulla base di un contratto concluso prima della modifica dell’allegato 28, e
+  - 2\. il prezzo di acquisto non supera il limite massimo fissato nell’allegato 28 alla data di conclusione di tale contratto;
+
+- d.[^35-25] al trasporto di petrolio greggio della voce di tariffa doganale 2709 00, originario della Federazione Russa o proveniente dalla Federazione Russa, caricato su una nave nel porto di carico prima del 16 dicembre 2022 e scaricato nel porto di destinazione finale prima del 19 gennaio 2023, e il cui prezzo di acquisto non supera il limite massimo fissato nell’allegato 28.[^35-26]
 
 <sup>26</sup>
 
 L’articolo 24*a* capoverso 1 non si applica:
 
 - a. all’accettazione dei pagamenti dovuti dall’organizzazione menzionata nell’allegato 15 al numero SSID 175-57347 nell’ambito di contratti eseguiti entro il 4 febbraio 2023;
-- b. alle transazioni concordate in via contrattuale dall’organizzazione menzionata nell’allegato 15 al numero SSID 175-57347 prima del 24 novembre 2022 ed eseguite entro il 4 febbraio 2023.[^35-25]
+- b. alle transazioni concordate in via contrattuale dall’organizzazione menzionata nell’allegato 15 al numero SSID 175-57347 prima del 24 novembre 2022 ed eseguite entro il 4 febbraio 2023.[^35-27]
 
-<sup>27</sup> L’articolo 28*e* capoverso 1<sup>bis</sup> non si applica alla fornitura dei servizi necessari per porre fine entro il 4 febbraio 2023 ai contratti stipulati prima del 24 novembre 2022 incompatibili con l’articolo 28*e*.[^35-26]
+<sup>27</sup> L’articolo 28*e* capoverso 1<sup>bis</sup> non si applica alla fornitura dei servizi necessari per porre fine entro il 4 febbraio 2023 ai contratti stipulati prima del 24 novembre 2022 incompatibili con l’articolo 28*e*.[^35-28]
 
 [^35-1]: Introdotto dal n. I dell’O del 25 mar. 2022, in vigore dal 25 mar. 2022 alle ore 23.00 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
 [^35-2]: Introdotto dal n. I dell’O del 25 mar. 2022, in vigore dal 25 mar. 2022 alle ore 23.00 ([RU 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
@@ -1370,9 +1374,11 @@ L’articolo 24*a* capoverso 1 non si applica:
 [^35-21]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 23 nov. 2022 alle ore 18.00 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
 [^35-22]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 23 nov. 2022 alle ore 18.00 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
 [^35-23]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 23 nov. 2022 alle ore 18.00 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
-[^35-24]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 23 nov. 2022 alle ore 18.00 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
-[^35-25]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 23 nov. 2022 alle ore 18.00 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
+[^35-24]: Nuovo testo giusta il n. I dell’O del 16 dic. 2022, in vigore dal 16 dic. 2022 alle ore 18.00 ([RU 2022 824](https://fedlex.data.admin.ch/eli/oc/2022/824)).
+[^35-25]: Introdotta dal n. I dell’O del 16 dic. 2022, in vigore dal 16 dic. 2022 alle ore 18.00 ([RU 2022 824](https://fedlex.data.admin.ch/eli/oc/2022/824)).
 [^35-26]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 23 nov. 2022 alle ore 18.00 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
+[^35-27]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 23 nov. 2022 alle ore 18.00 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
+[^35-28]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 23 nov. 2022 alle ore 18.00 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
 
 #### Art. 36
 

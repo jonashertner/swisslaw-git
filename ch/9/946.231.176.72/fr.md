@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Ordonnance du 4 mars 2022 instituant des mesures en lien avec la situation en Ukraine
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: fr
-version: 2022-12-09
+version: 2022-12-16
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20221209/fr/xml/fedlex-data-admin-ch-eli-cc-2022-151-20221209-fr-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20221209/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20221216/fr/xml/fedlex-data-admin-ch-eli-cc-2022-151-20221216-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20221216/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures en lien avec la situation en Ukraine
 
-du 4 mars 2022 (État le 9 décembre 2022)
+du 4 mars 2022 (État le 16 décembre 2022)
 
 Le Conseil fédéral suisse,
 
@@ -418,25 +418,26 @@ Les interdictions prévues aux al. 1 et 2 ne s’appliquent pas:
 
 #### Art. 12b
 
-**Transport de pétrole brut et de produits pétroliers vers des États tiers**[^12b-1]
+**Commerce, courtage et transport de pétrole brut et de produits pétroliers avec ou vers des États tiers**[^12b-1]
 
-<sup>1</sup> Le transport hors de la Suisse et de l’EEE de pétrole brut et de produits pétroliers visés à l’annexe 24 originaires ou provenant de la Fédération de Russie est interdit, y compris par transbordement de navire à navire.
+<sup>1</sup> Le commerce, le courtage et le transport avec ou vers des États hors de la Suisse et de l’EEE de pétrole brut et de produits pétroliers visés à l’annexe 24 originaires ou provenant de la Fédération de Russie sont interdits, y compris par transbordement de navire à navire.
 
-<sup>2</sup> La fourniture d’une assistance technique, de services de courtage et de services financiers ainsi que l’octroi de moyens financiers en lien avec le transport hors de la Suisse et de l’EEE de pétrole brut ou de produits pétroliers visés à l’annexe 24 originaires ou provenant de la Fédération de Russie sont interdits.
+<sup>2</sup> La fourniture d’une assistance technique, de services de courtage et de services financiers ainsi que l’octroi de moyens financiers en lien avec les activités visées à l’al. 1 sont interdits.
 
-<sup>3</sup> La fourniture de services visés à l’al. 2 à des navires ayant transporté du pétrole brut ou des produits pétroliers visés à l’annexe 24 dont le prix d’achat excédait le prix-plafond fixé à l’annexe 28 à la date de la conclusion du contrat pour cet achat est interdite.
+<sup>3</sup> La fourniture de services visés à l’al. 2 à des navires ayant transporté du pétrole brut ou des produits pétroliers visés à l’annexe 24 dont le prix d’achat excédait le prix-plafond fixé à l’annexe 28 à la date de la conclusion du contrat pour cet achat est interdite pendant 90 jours à compter de la date de déchargement de ces biens, si l’opérateur responsable du transport savait ou pouvait raisonnablement soupçonner que le prix d’achat excédait le prix-plafond fixé à l’annexe 28 à la date de la conclusion du contrat pour cet achat.
 
 <sup>4</sup>
 
 Les interdictions prévues aux al. 1 et 2 ne s’appliquent pas:
 
-- a. aux biens qui ne font que transiter par la Fédération de Russie et dont le propriétaire n’est pas russe;
+- a. aux biens dont la Fédération de Russie n’est que le lieu de chargement, de départ ou de transit, à condition que ni l’origine ni le propriétaire de ces biens ne soient russes;
 - b. aux biens dont le prix d’achat n’excède pas le prix-plafond fixé à l’annexe 28;
-- c. aux biens visés à l’annexe 29 transportés dans les pays qui y sont mentionnés pendant la période qui y est fixée.
+- c. aux biens visés à l’annexe 29 transportés dans les États tiers qui y sont mentionnés pendant la période qui y est fixée;
+- d. à la prévention ou à l’atténuation à titre urgent d’un événement susceptible d’avoir des effets graves et importants sur la santé et la sécurité humaines ou sur l’environnement, ou en réaction à des catastrophes naturelles, pour autant que le SECO ait été informé immédiatement après la constatation de l’événement ou de la catastrophe naturelle.
 
 <sup>5</sup> L’interdiction prévue à l’al. 1 ne s’applique pas à la fourniture des services de pilotage nécessaires pour des raisons de sécurité maritime.
 
-[^12b-1]: Introduit par le ch. I de l’O du 29 juin 2022 ([RO 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)). Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 23 nov. 2022 à 18 heures ([RO 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
+[^12b-1]: Introduit par le ch. I de l’O du 29 juin 2022 ([RO 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)). Nouvelle teneur selon le ch. I de l’O du 16 déc. 2022, en vigueur depuis le 16 déc. 2022 à 18 heures ([RO 2022 824](https://fedlex.data.admin.ch/eli/oc/2022/824)).
 
 #### Art. 13
 
@@ -1328,21 +1329,23 @@ L’art. 12*b*, al. 1 et 2, ne s’applique pas:
 
 - a. au transport de pétrole brut de la position tarifaire 2709 00 effectué jusqu’au 5 décembre 2022;
 - b. au transport de produits pétroliers de la position tarifaire 2710 effectué jusqu’au 5 février 2023;
-- c.
+- c.[^35-24]
 
-  au transport de pétrole brut ou de produits pétroliers effectué dans les 90 jours suivant une modification de l’annexe 28, pour autant que:
+  au transport de pétrole brut ou de produits pétroliers effectué dans les 90 jours suivant une modification de l’annexe 28 ni à la fourniture d’une assistance technique, de services de courtage ou de services financiers ou à l’octroi de moyens financiers en lien avec ce transport, pour autant que:
 
-  - 1\. le transport soit fondé sur un contrat conclu avant la modification de l’annexe 28, et que
-  - 2\. le prix d’achat à la date de la conclusion du contrat n’excède pas le prix-plafond fixé à l’annexe 28.[^35-24]
+  - 1\. les activités visées soient fondées sur un contrat conclu avant la modification de l’annexe 28, et que
+  - 2\. le prix d’achat à la date de la conclusion du contrat n’ait pas excédé le prix-plafond fixé à l’annexe 28;
+
+- d.[^35-25] au transport de pétrole brut de la position tarifaire 2709 00 originaire ou provenant de la Fédération de Russie qui est chargé à bord d’un navire au port de chargement avant le 16 décembre 2022 et déchargé au port de destination finale avant le 19 janvier 2023 et dont le prix d’achat n’excède pas le prix-plafond fixé à l’annexe 28.[^35-26]
 
 <sup>26</sup>
 
 L’art. 24*a*, al. 1, ne s’applique pas:
 
 - a. à la réception de paiements dus par l’entité visée à l’annexe 15 sous le numéro SSID 175-57347, sur la base d’un contrat exécuté jusqu’au 4 février 2023;
-- b. aux transactions régies par un contrat conclu avant le 24 novembre 2022 avec l’entité visée à l’annexe 15 sous le numéro SSID 175-57347 et exécuté jusqu’au 4 février 2023.[^35-25]
+- b. aux transactions régies par un contrat conclu avant le 24 novembre 2022 avec l’entité visée à l’annexe 15 sous le numéro SSID 175-57347 et exécuté jusqu’au 4 février 2023.[^35-27]
 
-<sup>27</sup> L’art. 28*e*, al. 1<sup>bis</sup>, ne s’applique pas à la fourniture de services nécessaires pour mettre fin, au plus tard le 4 février 2023, aux contrats conclus avant le 24 novembre 2022 qui ne sont pas conformes aux dispositions dudit article.[^35-26]
+<sup>27</sup> L’art. 28*e*, al. 1<sup>bis</sup>, ne s’applique pas à la fourniture de services nécessaires pour mettre fin, au plus tard le 4 février 2023, aux contrats conclus avant le 24 novembre 2022 qui ne sont pas conformes aux dispositions dudit article.[^35-28]
 
 [^35-1]: Introduit par le ch. I de l’O du 25 mars 2022, en vigueur depuis le 25 mars 2022 à 23 heures ([RO 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
 [^35-2]: Introduit par le ch. I de l’O du 25 mars 2022, en vigueur depuis le 25 mars 2022 à 23 heures ([RO 2022 198](https://fedlex.data.admin.ch/eli/oc/2022/198)).
@@ -1367,9 +1370,11 @@ L’art. 24*a*, al. 1, ne s’applique pas:
 [^35-21]: Introduit par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 23 nov. 2022 à 18 heures ([RO 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
 [^35-22]: Introduit par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 23 nov. 2022 à 18 heures ([RO 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
 [^35-23]: Introduit par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 23 nov. 2022 à 18 heures ([RO 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
-[^35-24]: Introduit par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 23 nov. 2022 à 18 heures ([RO 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
-[^35-25]: Introduit par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 23 nov. 2022 à 18 heures ([RO 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
+[^35-24]: Nouvelle teneur selon le ch. I de l’O du 16 déc. 2022, en vigueur depuis le 16 déc. 2022 à 18 heures ([RO 2022 824](https://fedlex.data.admin.ch/eli/oc/2022/824)).
+[^35-25]: Introduite par le ch. I de l’O du 16 déc. 2022, en vigueur depuis le 16 déc. 2022 à 18 heures ([RO 2022 824](https://fedlex.data.admin.ch/eli/oc/2022/824)).
 [^35-26]: Introduit par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 23 nov. 2022 à 18 heures ([RO 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
+[^35-27]: Introduit par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 23 nov. 2022 à 18 heures ([RO 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
+[^35-28]: Introduit par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 23 nov. 2022 à 18 heures ([RO 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
 
 #### Art. 36
 
