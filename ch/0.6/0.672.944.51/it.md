@@ -3,11 +3,11 @@ sr: "0.672.944.51"
 title: "Convenzione del 10 luglio 2014 tra la Confederazione Svizzera e l'Islanda per evitare le doppie imposizioni in materia di imposte sul reddito e sul patrimonio (con prot.)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/793"
 language: it
-version: 2015-11-06
+version: 2022-12-16
 adopted: 2014-07-10
 in_force: 2015-11-06
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/793/20151106/it/xml/fedlex-data-admin-ch-eli-cc-2015-793-20151106-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/793/20151106/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/793/20221216/it/xml/fedlex-data-admin-ch-eli-cc-2015-793-20221216-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/793/20221216/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,20 +16,23 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/793/20151106/it"
 
 RU **2015** 4841; FF **2014** 7725
 
-Traduzione*[^t-1]*
+Traduzione
 
-Conclusa il 10 luglio 2014 Approvata dall’Assemblea federale il 19 giugno 2015[^t-2] Entrata in vigore il 6 novembre 2015
+Conclusa il 10 luglio 2014 Approvata dall’Assemblea federale il 19 giugno 2015[^t-1] Entrata in vigore il 6 novembre 2015
 
-(Stato 6 novembre 2015)
+(Stato 16 dicembre 2022)
 
-[^t-1]: Dal testo originale tedesco.
-[^t-2]: [RU 2015 4839](https://fedlex.data.admin.ch/eli/oc/2015/792)
+[^t-1]: [RU 2015 4839](https://fedlex.data.admin.ch/eli/oc/2015/792)
 
 Il Consiglio federale svizzero e il Governo dell’Islanda,
 
-desiderosi di concludere una Convenzione per evitare le doppie imposizioni in materia di imposte sul reddito e sul patrimonio,
+desiderosi di concludere una convenzione per evitare le doppie imposizioni in materia di imposte sul reddito e sul patrimonio,
 
-hanno convenuto quanto segue:
+nell’intento di eliminare la doppia imposizione con riferimento alle imposte oggetto della presente Convenzione senza creare opportunità di non imposizione o di ridotta imposizione attraverso l’evasione o l’elusione fiscale (incluse le strategie di abuso dei trattati fiscali («treaty-shopping») finalizzate a ottenere i benefici previsti dalla presente Convenzione a beneficio indiretto di residenti in Stati e Giurisdizioni terzi),
+
+hanno convenuto quanto segue: [^ingress-1]
+
+[^ingress-1]: Nuovo testo giusta l’all. I n. I dell’Acc. del 15 dic. 2022, in vigore dal 16 dic. 2022 ([RU 2023 110](https://fedlex.data.admin.ch/eli/oc/2023/110)).
 
 #### Art. 1
 
@@ -57,7 +60,6 @@ Le imposte attuali cui si applica la Convenzione sono in particolare:
   - (ii) le imposte sul reddito comunali (útsvar til sveitarfélaganna),
   - [tab] (di seguito «imposta islandese»);
 
-- [tab]
 - b) per quanto concerne la Svizzera:
 - le imposte riscosse da Confederazione, Cantoni e Comuni
   - (i) sul reddito (reddito complessivo, reddito del lavoro, reddito del patrimonio, utili industriali e commerciali, utili di capitale e altri redditi), e
@@ -412,6 +414,10 @@ Per quanto concerne la Svizzera, la doppia imposizione sarà evitata nel modo se
 
 <sup>3.</sup> Se una società residente di uno Stato contraente percepisce dividendi da una società residente dell’altro Stato contraente, essa fruisce, per quanto riguarda l’imposta del primo Stato afferente a detti dividendi, dei medesimi vantaggi di cui beneficerebbe se la società che paga i dividendi fosse un residente del primo Stato.
 
+<sup>4.</sup> Le disposizioni della lettera a del paragrafo 2 non si applicano ai redditi o al patrimonio di un residente della Svizzera se l’Islanda applica le disposizioni della presente Convenzione per esentare questi redditi o questo patrimonio dall’imposta oppure applica a questi redditi le disposizioni di cui al paragrafo 2 dell’articolo 10 o le disposizioni di cui al paragrafo 2 dell’articolo 12.[^23-1]
+
+[^23-1]: Introdotto dall’all. I n. II dell’Acc. del 15 dic. 2022, in vigore dal 16 dic. 2022 ([RU 2023 110](https://fedlex.data.admin.ch/eli/oc/2023/110)).
+
 #### Art. 24
 
 **Non discriminazione**
@@ -430,7 +436,7 @@ Per quanto concerne la Svizzera, la doppia imposizione sarà evitata nel modo se
 
 **Procedura amichevole**
 
-<sup>1.</sup> Se ritiene che le misure adottate da uno o da entrambi gli Stati contraenti comportino o comporteranno per lei un’imposizione non conforme alle disposizioni della presente Convenzione, una persona può, indipendentemente dai rimedi giuridici previsti dalla legislazione nazionale di detti Stati, sottoporre il suo caso all’autorità competente dello Stato contraente di cui è residente o, se il suo caso rientra nell’ambito di applicazione del paragrafo 1 dell’articolo 24, a quella dello Stato contraente di cui possiede la cittadinanza. Il caso dovrà essere sottoposto entro i tre anni che seguono la prima notificazione della misura che comporta un’imposizione non conforme alle disposizioni della presente Convenzione.
+<sup>1.</sup> Se ritiene che le misure adottate da uno o da entrambi gli Stati contraenti comportano o comporteranno per lei un’imposizione non conforme alle disposizioni della presente Convenzione, una persona può, indipendentemente dai mezzi giuridici previsti dalla legislazione nazionale di detti Stati, sottoporre il suo caso all’autorità competente di uno dei due Stati contraenti.[^25-1] Il caso dovrà essere sottoposto entro i tre anni che seguono la prima notificazione della misura che comporta un’imposizione non conforme alle disposizioni della presente Convenzione.
 
 <sup>2.</sup> Se considera il reclamo fondato e non è in grado di giungere autonomamente a una soluzione soddisfacente, l’autorità competente si adopera per regolare il caso per via di amichevole composizione con l’autorità competente dell’altro Stato contraente, al fine di evitare una tassazione non conforme alla Convenzione.
 
@@ -446,6 +452,8 @@ Se:
 - b) le autorità competenti non giungono a un accordo che possa risolvere questo caso in virtù del paragrafo 2 entro tre anni dalla presentazione del caso all’autorità competente dell’altro Stato contraente,
 
 <sup>6.</sup> Gli Stati contraenti possono mettere a disposizione del tribunale arbitrale costituito secondo il paragrafo 5 le informazioni necessarie per l’esecuzione della procedura d’arbitrato. I membri di questo tribunale sono vincolati alle prescrizioni del segreto d’ufficio menzionate nel paragrafo 2 dell’articolo 26 della Convenzione.
+
+[^25-1]: Nuovo testo giusta l’all. I n. III dell’Acc. del 15 dic. 2022, in vigore dal 16 dic. 2022 ([RU 2023 110](https://fedlex.data.admin.ch/eli/oc/2023/110)).
 
 #### Art. 26
 
@@ -481,6 +489,14 @@ Nonostante le disposizioni dell’articolo 4, ogni persona fisica che è membro 
 - b) abbia, nello Stato accreditante, gli stessi obblighi in materia di imposte sul reddito complessivo o sul patrimonio cui sono assoggettati i residenti di detto Stato.
 
 <sup>3.</sup> La Convenzione non si applica alle organizzazioni internazionali, ai loro organi o ai loro funzionari, né ai membri di una missione diplomatica, di un posto consolare o di una delegazione permanente di uno Stato terzo, qualora si trovino sul territorio di uno Stato contraente o non siano trattati, in materia di imposte sul reddito, come residenti dell’uno o dell’altro Stato contraente.
+
+#### Art. 27a
+
+**Diritto ai benefici**[^27a-1]
+
+Nonostante le altre disposizioni della presente Convenzione, un beneficio ai sensi della presente Convenzione non è concesso in relazione a un elemento di reddito o di patrimonio, se è ragionevole concludere, tenuto conto di tutti i fatti e di tutte le circostanze pertinenti, che l’ottenimento di tale beneficio era uno degli scopi principali di qualsiasi accordo, strumento o transazione che ha portato direttamente o indirettamente a tale beneficio, a meno che venga stabilito che la concessione di tale beneficio in dette circostanze sarebbe conforme all’oggetto e allo scopo delle pertinenti disposizioni della presente Convenzione.
+
+[^27a-1]: Introdotto dall’all. I n. IV dell’Acc. del 15 dic. 2022, in vigore dal 16 dic. 2022 ([RU 2023 110](https://fedlex.data.admin.ch/eli/oc/2023/110)).
 
 #### Art. 28
 
@@ -518,7 +534,7 @@ La presente Convenzione rimane in vigore sino alla denuncia da parte di uno Stat
 
 *In fede di che*, i sottoscritti, debitamente autorizzati a tale scopo, hanno firmato il presente Accordo. Fatto a Berna, il 10 luglio 2014, in due esemplari in lingua tedesca, islandese e inglese ciascun testo facente egualmente fede. In caso di divergenze d’interpretazione fa stato il testo inglese. Per il Consiglio federale svizzero: Fabrice Filliez Per il Governo dell’Islanda: Einar Gunnarsson
 
-Protocollo
+Protocollo[^t-2]
 
 Il Consiglio federale svizzero e il Governo dell’Islanda,
 
@@ -549,21 +565,15 @@ Con riferimento al paragrafo 1 dell’articolo 4, resta inteso che, l’espressi
 
 Se la durata minima di detenzione di cui alla lettera a del paragrafo 3 dell’articolo 10 al momento del pagamento dei dividendi non è stata rispettata e pertanto l’imposta di cui al paragrafo 2 dell’articolo 10 è stata trattenuta in occasione del pagamento e la durata minima di detenzione è stata rispettata successivamente, il beneficiario effettivo dei dividendi è autorizzato a richiedere il rimborso dell’imposta trattenuta.
 
-\4. Ad art. 10, 11, 12 e 21
-
-- a) Gli articoli 10, 11, 12 e 21 non si applicano ai redditi risultanti da un’operazione, da una parte di operazione o da una sequenza di operazioni oppure incassati da un ente, se lo scopo principale della conclusione di queste o dell’istituzione dell’ente consiste nel beneficiare dei vantaggi degli articoli 10, 11, 12 e 21 e se, facendo astrazione dell’operazione, della parte di operazione o della sequenza di operazioni oppure dell’ente, tali redditi sarebbero imputati a una persona non residente in alcuno dei due Stati contraenti.
-- b) Il paragrafo 3 dell’articolo 10 non si applica ai dividendi risultanti da un’operazione, da una parte di operazione o da una sequenza di operazioni oppure incassati da un ente, se lo scopo principale della conclusione di queste o dell’istituzione dell’ente consiste nel beneficiare dei vantaggi del paragrafo 3 dell’articolo 10 e se, facendo astrazione dell’operazione, della parte di operazione o della sequenza di operazioni oppure dell’ente, tali dividendi sarebbero imputati a una persona che non soddisfa le condizioni del paragrafo 3 dell’articolo 10 in merito a tali dividendi.
-- c) Se, facendo astrazione dell’operazione, della parte di operazione o della sequenza di operazioni oppure dell’ente, i redditi sarebbero imputati a una persona che, in base a una convenzione per evitare le doppie imposizioni tra il suo Stato di residenza e lo Stato da cui provengono i redditi oppure in base a un altro accordo, trarrebbe in relazione a tali redditi vantaggi equivalenti o più favorevoli rispetto ai vantaggi di cui gode un residente di uno Stato contraente della presente Convenzione, allora lo scopo principale dell’operazione, della parte di operazione o della sequenza di operazioni oppure dell’ente non consiste nel beneficiare dei vantaggi degli articoli 10, 11, 12 e 21.
-
-\5. Ad art. 18
+\4. Ad art. 18
 
 Resta inteso che il termine «pensioni» di cui all’articolo 18 non comprende soltanto pagamenti ricorrenti, ma anche prestazioni in capitale.
 
-\6. Ad art. 18 e 24
+\5. Ad art. 18 e 24
 
 Con riferimento agli articoli 18 e 24 i contributi pagati da o per conto di una persona che presta servizi in uno Stato contraente, a un’istituzione di previdenza o a un’altra istituzione simile che offre piani di previdenza e riconosciuta ai fini fiscali nell’altro Stato contraente, sono trattati, per la determinazione dell’imposta dovuta da tale persona fisica in questo primo Stato menzionato e per la determinazione degli utili aziendali ivi imponibili, secondo le stesse condizioni e limitazioni dei contributi pagati a un’istituzione di previdenza riconosciuta ai fini fiscali nel primo Stato contraente, se la persona fisica non era residente di questo Stato immediatamente prima di iniziarvi la sua attività e già allora era affiliata a questa istituzione di previdenza.
 
-\7. Ad art. 26
+\6. Ad art. 26
 
 - a) Resta inteso che lo Stato richiedente deve sfruttare tutte le fonti d’informazione abituali previste dalla sua procedura fiscale interna prima di richiedere informazioni.
 - b)
@@ -586,7 +596,19 @@ Fatto a Berna, il 10 luglio 2014, in due esemplari in lingua tedesca, islandese 
 <tr><td>Per il Consiglio federale svizzero: Fabrice Filliez</td><td>Per il Governo dell’Islanda: Einar Gunnarsson</td></tr>
 </table>
 
+## Par. 4 dell’Accordo del 15 dicembre 2022
+
+[^annexu1-lvlu2-1]
+
+[^t-2]: Aggiornato dall’all. I n. IV e V dell’Acc. del 15 dic. 2022, in vigore dal 16 dic. 2022 ([RU 2023 110](https://fedlex.data.admin.ch/eli/oc/2023/110)).
 [^t-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 [^t-4]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
 [^t-5]: [RS 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
 [^t-6]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^annexu1-lvlu2-1]: [RU 2023 110](https://fedlex.data.admin.ch/eli/oc/2023/110)
+
+L’Accordo amichevole si applica:
+
+- a) con riferimento alle imposte trattenute alla fonte sulle somme pagate o accreditate, quando il fatto generatore di tali imposte si verifica il, o successivamente al 1° gennaio 2024;
+- b) con riferimento a tutte le altre imposte, per le imposte prelevate con riferimento ai periodi d’imposta che iniziano il, o dopo il, 15 luglio 2023;
+- c) nonostante le lettere a) e b), le disposizioni del paragrafo 1 dell’articolo 25 (Procedura amichevole) della Convenzione entrano in vigore per le richieste formulate il, o successivamente al 15 gennaio 2023.

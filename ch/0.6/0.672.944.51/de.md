@@ -3,11 +3,11 @@ sr: "0.672.944.51"
 title: Abkommen vom 10. Juli 2014 zwischen der Schweizerischen Eidgenossenschaft und Island zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen (mit Prot.)
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/793"
 language: de
-version: 2015-11-06
+version: 2022-12-16
 adopted: 2014-07-10
 in_force: 2015-11-06
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/793/20151106/de/xml/fedlex-data-admin-ch-eli-cc-2015-793-20151106-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/793/20151106/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/793/20221216/de/xml/fedlex-data-admin-ch-eli-cc-2015-793-20221216-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/793/20221216/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,15 +20,19 @@ Originaltext
 
 Abgeschlossen am 10. Juli 2014 Von der Bundesversammlung genehmigt am 19. Juni 2015[^t-1] In Kraft getreten am 6. November 2015
 
-(Stand am 6. November 2015)
+(Stand am 16. Dezember 2022)
 
 [^t-1]: [AS 2015 4839](https://fedlex.data.admin.ch/eli/oc/2015/792)
 
 Der Schweizerische Bundesrat und die Regierung von Island,
 
-vom Wunsch geleitet, ein Abkommen zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen abzuschliessen,
+von dem Wunsch geleitet, ein Abkommen zur Vermeidung der Doppelbesteuerung auf dem Gebiete der Steuern vom Einkommen und vom Vermögen abzuschliessen,
 
-haben Folgendes vereinbart:
+in der Absicht, in Bezug auf die unter dieses Abkommen fallenden Steuern eine Doppelbesteuerung zu beseitigen, ohne Möglichkeiten zur Nichtbesteuerung oder reduzierten Besteuerung durch Steuerhinterziehung oder -umgehung (unter anderem durch missbräuchliche Gestaltungen mit dem Ziel des Erhalts von in diesem Abkommen vorgesehenen Erleichterungen zum mittelbaren Nutzen von in Drittstaaten oder gebieten ansässigen Personen) zu schaffen,
+
+haben Folgendes vereinbart:[^ingress-1]
+
+[^ingress-1]: Fassung gemäss Anhang I Ziff. I der Verständigungsvereinbarung vom 15. Dez. 2022, in Kraft seit 16. Dez. 2022 ([AS 2023 110](https://fedlex.data.admin.ch/eli/oc/2023/110)).
 
 #### Art. 1
 
@@ -410,6 +414,10 @@ In der Schweiz wird die Doppelbesteuerung wie folgt vermieden:
 
 <sup>3.</sup> Bezieht eine in einem Vertragsstaat ansässige Gesellschaft Dividenden einer im anderen Vertragsstaat ansässigen Gesellschaft, so geniesst sie bei der Erhebung der Steuer des erstgenannten Staates auf diesen Dividenden die gleichen Vergünstigungen, wie wenn die die Dividenden zahlende Gesellschaft im erstgenannten Staat ansässig wäre.
 
+<sup>4.</sup> Buchstabe a von Absatz 2 gilt nicht für Einkünfte oder Vermögen einer in der Schweiz ansässigen Person, wenn Island dieses Abkommen so anwendet, dass diese Einkünfte oder dieses Vermögen von der Steuer befreit sind, oder wenn es Artikel 10 Absatz 2 oder Artikel 12 Absatz 2 für solche Einkünfte anwendet.[^23-1]
+
+[^23-1]: Eingefügt durch Anhang I Ziff. II der Verständigungsvereinbarung vom 15. Dez. 2022, in Kraft seit 16. Dez. 2022 ([AS 2023 110](https://fedlex.data.admin.ch/eli/oc/2023/110)).
+
 #### Art. 24
 
 **Gleichbehandlung**
@@ -428,7 +436,7 @@ In der Schweiz wird die Doppelbesteuerung wie folgt vermieden:
 
 **Verständigungsverfahren**
 
-<sup>1.</sup> Ist eine Person der Auffassung, dass Massnahmen eines Vertragsstaats oder beider Vertragsstaaten für sie zu einer Besteuerung führen oder führen werden, die diesem Abkommen nicht entspricht, so kann sie ungeachtet der nach dem innerstaatlichen Recht dieser Staaten vorgesehenen Rechtsmittel ihren Fall der zuständigen Behörde des Vertragsstaats, in dem sie ansässig ist, oder, sofern ihr Fall von Artikel 24 Absatz 1 erfasst wird, der zuständigen Behörde des Vertragsstaats unterbreiten, dessen Staatsangehörige sie ist. Der Fall muss innerhalb von drei Jahren nach der ersten Mitteilung der Massnahme unterbreitet werden, die zu einer dem Abkommen nicht entsprechenden Besteuerung führt.
+<sup>1.</sup> Ist eine Person der Auffassung, dass Massnahmen eines Vertragsstaats oder beider Vertragsstaaten für sie zu einer Besteuerung führen oder führen werden, die diesem Abkommen nicht entspricht, so kann sie ungeachtet der nach dem innerstaatlichen Recht dieser Staaten vorgesehenen Rechtsmittel ihren Fall der zuständigen Behörde eines der beiden Vertragsstaaten unterbreiten.[^25-1] Der Fall muss innerhalb von drei Jahren nach der ersten Mitteilung der Massnahme unterbreitet werden, die zu einer dem Abkommen nicht entsprechenden Besteuerung führt.
 
 <sup>2.</sup> Hält die zuständige Behörde die Einwendung für begründet und kann sie nicht selbst eine befriedigende Lösung herbeiführen, so bemüht sie sich, den Fall durch Verständigung mit der zuständigen Behörde des anderen Vertragsstaats so zu regeln, dass eine dem Abkommen nicht entsprechende Besteuerung vermieden wird.
 
@@ -444,6 +452,8 @@ Wenn:
 - b) die zuständigen Behörden nicht in der Lage sind, innerhalb von drei Jahren ab der Vorlage des Falls an die zuständige Behörde des anderen Vertragsstaats eine einvernehmliche Lösung im Sinne des Absatzes 2 herbeizuführen;
 
 <sup>6.</sup> Die Vertragsstaaten können der nach Absatz 5 gebildeten Schiedsstelle die für die Durchführung des Schiedsverfahrens erforderlichen Informationen zugänglich machen. Die Mitglieder der Schiedsstelle unterliegen hinsichtlich dieser Informationen den Geheimhaltungsvorschriften nach Artikel 26 Absatz 2.
+
+[^25-1]: Fassung gemäss Anhang I Ziff. III der Verständigungsvereinbarung vom 15. Dez. 2022, in Kraft seit 16. Dez. 2022 ([AS 2023 110](https://fedlex.data.admin.ch/eli/oc/2023/110)).
 
 #### Art. 26
 
@@ -479,6 +489,14 @@ Ungeachtet des Artikels 4 gilt eine natürliche Person, die Mitglied einer diplo
 - b) im Entsendestaat den gleichen Verpflichtungen bezüglich der Steuer von ihrem gesamten Einkommen oder vom Vermögen unterworfen ist wie in diesem Staat ansässige Personen.
 
 <sup>3.</sup> Das Abkommen gilt weder für internationale Organisationen, deren Organe oder Beamte noch für Mitglieder einer diplomatischen Mission, einer konsularischen Vertretung oder einer ständigen Vertretung eines Drittstaats, die sich in einem Vertragsstaat aufhalten und in keinem der Vertragsstaaten für die Zwecke der Steuern vom Einkommen oder vom Vermögen als ansässig gelten.
+
+#### Art. 27a
+
+**Anspruch auf Vorteile**[^27a-1]
+
+Ungeachtet der anderen Bestimmungen dieses Abkommens wird eine Vergünstigung nach diesem Abkommen nicht für bestimmte Einkünfte oder Vermögenswerte gewährt, wenn unter Berücksichtigung aller massgebenden Tatsachen und Umstände die Feststellung gerechtfertigt ist, dass der Erhalt dieser Vergünstigung einer der Hauptzwecke einer Gestaltung oder Transaktion war, die unmittelbar oder mittelbar zu dieser Vergünstigung geführt hat, es sei denn, es wird nachgewiesen, dass die Gewährung dieser Vergünstigung unter diesen Umständen mit dem Ziel und Zweck der einschlägigen Bestimmungen dieses Abkommens im Einklang steht.
+
+[^27a-1]: Eingefügt durch Anhang I Ziff. IV der Verständigungsvereinbarung vom 15. Dez. 2022, in Kraft seit 16. Dez. 2022 ([AS 2023 110](https://fedlex.data.admin.ch/eli/oc/2023/110)).
 
 #### Art. 28
 
@@ -517,7 +535,7 @@ Dieses Abkommen bleibt in Kraft, solange es nicht von einem Vertragsstaat gekün
 
 *Zu Urkund dessen* haben die hierzu gehörig bevollmächtigten Unterzeichneten dieses Abkommen unterschrieben. Geschehen zu Bern, am 10. Juli 2014, im Doppel in deutscher, isländischer und englischer Sprache, wobei jeder Wortlaut gleicherweise verbindlich ist. In Zweifelsfällen ist der englische Wortlaut massgebend. Für den Schweizerischen Bundesrat: Fabrice Filliez Für die Regierung von Island: Einar Gunnarsson
 
-Protokoll
+Protokoll[^t-2]
 
 Der Schweizerische Bundesrat und die Regierung von Island,
 
@@ -532,10 +550,10 @@ Es besteht Einvernehmen darüber, dass der Ausdruck «Vorsorgeeinrichtung» folg
 
   in der Schweiz, sämtliche Pläne und Modelle nach:
 
-  - (i) dem Bundesgesetz vom 20. Dezember 1946[^t-2] über die Alters- und Hinterlassenenversicherung,
-  - (ii) dem Bundesgesetz vom 19. Juni 1959[^t-3] über die Invalidenversicherung,
-  - (iii) dem Bundesgesetz vom 6. Oktober 2006[^t-4] über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung,
-  - (iv) dem Bundesgesetz vom 25. Juni 1982[^t-5] über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge, einschliesslich der nicht registrierten Vorsorgeeinrichtungen, die berufliche Vorsorgepläne anbieten, und der mit der beruflichen Vorsorge vergleichbaren anerkannten Formen der gebundenen Selbstvorsorge.
+  - (i) dem Bundesgesetz vom 20. Dezember 1946[^t-3] über die Alters- und Hinterlassenenversicherung,
+  - (ii) dem Bundesgesetz vom 19. Juni 1959[^t-4] über die Invalidenversicherung,
+  - (iii) dem Bundesgesetz vom 6. Oktober 2006[^t-5] über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung,
+  - (iv) dem Bundesgesetz vom 25. Juni 1982[^t-6] über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge, einschliesslich der nicht registrierten Vorsorgeeinrichtungen, die berufliche Vorsorgepläne anbieten, und der mit der beruflichen Vorsorge vergleichbaren anerkannten Formen der gebundenen Selbstvorsorge.
 
 \2. Zu Art. 4
 
@@ -548,21 +566,15 @@ Hinsichtlich Artikel 4 Absatz 1 besteht Einvernehmen darüber, dass der Ausdruck
 
 Wurde die Mindesthaltedauer nach Artikel 10 Absatz 3 Buchstabe a zum Zeitpunkt der Zahlung der Dividende nicht eingehalten und deshalb die Steuer gemäss Artikel 10 Absatz 2 anlässlich der Zahlung zurückbehalten und wird die Mindesthaltedauer nachträglich erfüllt, so kann die zur Nutzung der Dividende berechtigte Person die Rückerstattung der zurückbehaltenen Steuer verlangen.
 
-\4. Zu den Art. 10, 11, 12 und 21
-
-- a) Die Artikel 10, 11, 12 und 21 gelten nicht für Einkünfte, die aus einem Geschäft, einem Teil eines Geschäfts oder einer Abfolge von Geschäften resultieren oder von einem Rechtsträger vereinnahmt werden, wenn der hauptsächliche Zweck des Abschlusses des Geschäfts, des Teils des Geschäfts, der Abfolge der Geschäfte oder der Errichtung des Rechtsträgers darin besteht, die Vorteile der Artikel 10, 11, 12 und 21 in Anspruch zu nehmen, und wenn bei Ausklammerung des Geschäfts, des Teils des Geschäfts, der Abfolge von Geschäften oder des Rechtsträgers diese Einkünfte einer Person zugerechnet würden, die in keinem der beiden Vertragsstaaten ansässig ist.
-- b) Artikel 10 Absatz 3 gilt nicht für Dividenden, die aus einem Geschäft, einem Teil eines Geschäfts oder einer Abfolge von Geschäften resultieren oder von einem Rechtsträger vereinnahmt werden, wenn der hauptsächliche Zweck des Abschlusses des Geschäfts, des Teils des Geschäfts, der Abfolge der Geschäfte oder der Errichtung des Rechtsträgers darin besteht, die Vorteile von Artikel 10 Absatz 3 in Anspruch zu nehmen, und wenn bei Ausklammerung des Geschäfts, des Teils des Geschäfts, der Abfolge von Geschäften oder des Rechtsträgers diese Dividenden einer Person zugerechnet würden, die die Voraussetzungen von Artikel 10 Absatz 3 in Bezug auf diese Dividenden nicht erfüllt.
-- c) Würden die Einkünfte bei Ausklammerung des Geschäfts, des Teils des Geschäfts, der Abfolge von Geschäften oder des Rechtsträgers einer Person zugerechnet, die nach einem Doppelbesteuerungsabkommen zwischen ihrem Ansässigkeitsstaat und dem Staat, aus dem die Einkünfte stammen, oder nach einem anderen Abkommen zu Vorteilen in Bezug auf diese Einkünfte berechtigt wäre, die gleichwertig oder günstiger sind als die einer in einem Vertragsstaat ansässigen Person nach dem vorliegenden Abkommen zustehenden Vorteile, so liegt der Hauptzweck des Geschäfts, des Teils des Geschäfts, der Abfolge von Geschäften oder des Rechtsträgers nicht in der Inanspruchnahme der Vorteile der Artikel 10, 11, 12 und 21.
-
-\5. Zu Art. 18
+\4. Zu Art. 18
 
 Es besteht Einvernehmen darüber, dass der in Artikel 18 verwendete Begriff «Ruhegehälter» nicht nur periodische Zahlungen, sondern auch Kapitalleistungen einschliesst.
 
-\6. Zu den Art. 18 und 24
+\5. Zu den Art. 18 und 24
 
 Hinsichtlich der Artikel 18 und 24 sind Beiträge, die von oder für Rechnung einer natürlichen Person, die in einem Vertragsstaat Dienste leistet, an eine im anderen Vertragsstaat errichtete und dort steuerlich anerkannte Vorsorgeeinrichtung entrichtet werden, für Zwecke der Ermittlung der im erstgenannten Staat von der natürlichen Person zu zahlenden Steuer und der Ermittlung der Unternehmensgewinne, die dort besteuert werden können, in gleicher Weise und unter den gleichen Bedingungen und Einschränkungen zu behandeln wie Beiträge, die an eine im erstgenannten Staat steuerlich anerkannte Vorsorgeeinrichtung gezahlt werden, sofern die natürliche Person unmittelbar vor der Aufnahme ihrer Tätigkeit in diesem Staat dort nicht ansässig war und schon zu diesem Zeitpunkt der Vorsorgeeinrichtung angehört hatte.
 
-\7. Zu Art. 26
+\6. Zu Art. 26
 
 - a) Es besteht Einvernehmen darüber, dass der ersuchende Vertragsstaat ein Begehren um Austausch von Informationen erst dann stellt, wenn er alle in seinem innerstaatlichen Steuerverfahren vorgesehenen üblichen Mittel zur Beschaffung der Informationen ausgeschöpft hat.
 - b)
@@ -585,7 +597,19 @@ Geschehen zu Bern, am 10. Juli 2014, im Doppel in deutscher, isländischer und e
 <tr><td>Für den Schweizerischen Bundesrat: Fabrice Filliez</td><td>Für die Regierung von Island: Einar Gunnarsson</td></tr>
 </table>
 
-[^t-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^t-3]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
-[^t-4]: [SR 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
-[^t-5]: [SR 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+## Ziff. 4 der Verständigungsvereinbarung vom 15. Dez. 2022
+
+[^annexu1-lvlu2-1]
+
+[^t-2]: Bereinigt gemäss Anhang I Ziff. IV und V der Verständigungsvereinbarung vom 15. Dez. 2022, in Kraft seit 16. Dez. 2022 ([AS 2023 110](https://fedlex.data.admin.ch/eli/oc/2023/110)).
+[^t-3]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^t-4]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^t-5]: [SR 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
+[^t-6]: [SR 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^annexu1-lvlu2-1]: [AS 2023 110](https://fedlex.data.admin.ch/eli/oc/2023/110)
+
+\4. Die Verständigungsvereinbarung findet Anwendung:
+
+- a) bei an der Quelle erhobenen Steuern auf Beträge, die gezahlt oder gutgeschrieben werden, wenn das Ereignis, das zu diesen Steuern führt, am oder nach dem 1. Januar 2024 eintritt;
+- b) bei allen anderen Steuern für Steuern, die für Veranlagungszeiträume erhoben werden, die am oder nach dem 15. Juli 2023 beginnen.
+- c) Ungeachtet der Buchstaben a und b tritt Absatz 1 von Artikel 25 (Verständigungsverfahren) des Abkommens für Gesuche in Kraft, die ab dem 15. Januar 2023 gestellt werden.
