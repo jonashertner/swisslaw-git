@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Iv.pa. Diritto di voto e di elezione attivo per i sedicenni
 document: Progetto posto in consultazione
 language: it

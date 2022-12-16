@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Iv.pa. Le droit de vote dès 16 ans
 document: Projet mis en consultation
 language: fr

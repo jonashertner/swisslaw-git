@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Pa.Iv. Aktives Stimm- und Wahlrecht für 16-Jährige
 document: Vernehmlassungsvorlage
 language: de
