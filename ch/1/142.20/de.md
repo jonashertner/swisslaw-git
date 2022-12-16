@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 16. Dezember 2005 über die Ausländerinnen und Auslän
 short: AIG
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/758"
 language: de
-version: 2022-11-22
+version: 2022-12-17
 adopted: 2005-12-16
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20221122/de/xml/fedlex-data-admin-ch-eli-cc-2007-758-20221122-de-xml-12.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20221122/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20221217/de/xml/fedlex-data-admin-ch-eli-cc-2007-758-20221217-de-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20221217/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20221122/de"
 
 (Ausländer- und Integrationsgesetz, AIG)[^t-1]
 
-vom 16. Dezember 2005 (Stand am 22. November 2022)
+vom 16. Dezember 2005 (Stand am 17. Dezember 2022)
 
 [^t-1]: Fassung gemäss Ziff. I des BG vom 16. Dez. 2016 (Integration), in Kraft seit 1. Jan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 
@@ -1582,7 +1582,7 @@ Die behandelnde medizinische Fachperson gibt auf Anfrage die für die Beurteilun
 
 <sup>4</sup> Die Covid-19-Tests werden durch dafür spezifisch geschultes medizinisches Personal durchgeführt. Dieses verwendet die für die betroffene Person mildeste Testart. Ist es der Ansicht, dass die Durchführung des Tests die Gesundheit der betroffenen Person gefährden könnte, so führt es den Test nicht durch.
 
-[^72-1]: Fassung gemäss Ziff. I des BG vom 1. Okt. 2021, in Kraft vom 2. Okt. 2021 bis zum 31. Dez. 2022 ([AS 2021 587](https://fedlex.data.admin.ch/eli/oc/2021/587); [BBl 2021 1901](https://fedlex.data.admin.ch/eli/fga/2021/1901)).
+[^72-1]: Fassung gemäss Ziff. I des BG vom 1. Okt. 2021, in Kraft vom 2. Okt. 2021 bis zum 31. Dez. 2022 ([AS 2021 587](https://fedlex.data.admin.ch/eli/oc/2021/587); [BBl 2021 1901](https://fedlex.data.admin.ch/eli/fga/2021/1901)), gemäss Ziff. I des BG vom 16. Dez. 2022 (Covid-19-Test bei der Ausschaffung) verlängert vom 17. Dez. 2022 bis zum 30. Juni 2024 ([AS 2022 818](https://fedlex.data.admin.ch/eli/oc/2022/818); [BBl 2022 1359](https://fedlex.data.admin.ch/eli/fga/2022/1359)).
 [^72-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^72-3]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
 

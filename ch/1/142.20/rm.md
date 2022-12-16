@@ -4,11 +4,11 @@ title: Lescha federala dals 16 da december 2005 davart las persunas estras (LEst
 short: LEst
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/758"
 language: rm
-version: 2022-11-22
+version: 2022-12-17
 adopted: 2005-12-16
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20221122/rm/xml/fedlex-data-admin-ch-eli-cc-2007-758-20221122-rm-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20221122/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20221217/rm/xml/fedlex-data-admin-ch-eli-cc-2007-758-20221217-rm-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20221217/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (LEI)[^t-1]
 
-dals 16 da december 2005 (versiun dals 22 da november 2022)
+dals 16 da december 2005 (versiun dals 17 da december 2022)
 
 [^t-1]: Versiun tenor la cifra I da la LF dals 16 da dec. 2016 (integraziun), en vigur dapi il 1. da schan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 
@@ -1418,12 +1418,12 @@ L’autoritad cumpetenta inscriva en il sistem d’infurmaziun da Schengen (SIS)
 
 <sup>1</sup> Las infurmaziuns supplementaras en connex cun ina publicaziun tenor l’artitgel 68*a* alineas 1 e 2 tranter ils stadis da Schengen vegnan barattadas sur il post da contact, da coordinaziun e da consultaziun per il barat d’infurmaziuns en connex cun las publicaziuns en il SIS (biro SIRENE).
 
-<sup>2</sup> Sche l’Uffizi federal de la duana e de la segirezza dals cunfins[^68b-2] e las autoritads chantunalas da polizia, ch’èn responsablas per la controlla dals cunfins exteriurs da Schengen u cumpetentas sin il territori svizzer, constateschan ch’in burgais d’in terz stadi, ch’è vegnì publitgà d’in auter stadi da Schengen per il return, n’ha betg ademplì sia obligaziun da return, infurmeschan ellas il biro SIRENE.
+<sup>2</sup> Sche l’Uffizi federal da la duana e da la segirezza dals cunfins[^68b-2] e las autoritads chantunalas da polizia, ch’èn responsablas per la controlla dals cunfins exteriurs da Schengen u cumpetentas sin il territori svizzer, constateschan ch’in burgais d’in terz stadi, ch’è vegnì publitgà d’in auter stadi da Schengen per il return, n’ha betg ademplì sia obligaziun da return, infurmeschan els il biro SIRENE.
 
 <sup>3</sup> Sch’igl è necessari da consultar las autoritads cumpetentas d’auters stadis da Schengen en connex cun ina publicaziun en il SIS, ha la consultaziun lieu sur il biro SIRENE.
 
 [^68b-1]: Integrà tras la cifra 1 da l’agiunta 1 dal COF dals 18 da dec. 2020 davart l’approvaziun e la realisaziun dals barats da notas tranter la Svizra e la UE concernent la surpigliada da las basas giuridicas davart l’instituziun, il manaschi e l’utilisaziun dal sistem d’infurmaziun da Schengen (SIS), en vigur dapi ils 22 da nov. 2022 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 636](https://fedlex.data.admin.ch/eli/oc/2022/636); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
-[^68b-2]: La denominaziun da l’unitad d’administraziun è vegnida adattada per il 1. da schaner 2022 ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)) applitgond l’art. 20 al. 2 da l’Ordinaziun dals 7 d’october 2015 davart las publicaziuns uffizialas ([AS 2015 3989](https://fedlex.data.admin.ch/eli/oc/2015/670)).
+[^68b-2]: La designaziun da l’unitad administrativa è vegnida adattada applitgond l’art. 20 al. 2 da l’O dals 7 d’oct. 2015 davart las publicaziuns uffizialas ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)).
 
 #### Art. 68c
 
@@ -1584,7 +1584,7 @@ La persuna medicinala spezialisada che fa il tractament transmetta sin dumonda l
 
 <sup>4</sup> Ils tests da COVID-19 vegnan exequids da persunal medical ch’è scolà specificamain per quest intent. Il persunal medical applitgescha il tip da test il pli miaivel per la persuna pertutgada. Sch’el è da l’avis che l’execuziun dal test pudess periclitar la sanadad da la persuna pertutgada, na fa el betg il test.
 
-[^72-1]: Versiun tenor la cifra I da la LF dal 1. d’oct. 2021, en vigur dals 2. d’oct. 2021 fin ils 31 da dec. 2022 ([AS 2021 587](https://fedlex.data.admin.ch/eli/oc/2021/587); [BBl 2021 1901](https://fedlex.data.admin.ch/eli/fga/2021/1901)).
+[^72-1]: Versiun tenor la cifra I da la LF dal 1. d’oct. 2021, en vigur dals 2 d’oct. 2021 fin ils 31 da dec. 2022 ([AS 2021 587](https://fedlex.data.admin.ch/eli/oc/2021/587); [BBl 2021 1901](https://fedlex.data.admin.ch/eli/fga/2021/1901)), prolungà dals 17 da dec. 2022 fin ils 30 da zer. 2024 tenor la cifra I da la LF dals 16 da dec. 2022 (test da COVID-19 tar l’expulsiun) ([AS 2022 818](https://fedlex.data.admin.ch/eli/oc/2022/818); [BBl 2022 1359](https://fedlex.data.admin.ch/eli/fga/2022/1359)).
 [^72-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^72-3]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
 

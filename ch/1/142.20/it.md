@@ -4,11 +4,11 @@ title: Legge federale del 16 dicembre 2005 sugli stranieri e la loro integrazion
 short: LStrI
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/758"
 language: it
-version: 2022-11-22
+version: 2022-12-17
 adopted: 2005-12-16
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20221122/it/xml/fedlex-data-admin-ch-eli-cc-2007-758-20221122-it-xml-12.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20221122/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20221217/it/xml/fedlex-data-admin-ch-eli-cc-2007-758-20221217-it-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20221217/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20221122/it"
 
 (LStrI)[^t-1]
 
-del 16 dicembre 2005 (Stato 22 novembre 2022)
+del 16 dicembre 2005 (Stato 17 dicembre 2022)
 
 [^t-1]: Nuovo testo giusta il n. I della LF del 16 dic. 2016 (Integrazione), in vigore dal 1° gen. 2019 ([RU 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [FF 2013 2045](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2471](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 
@@ -1588,7 +1588,7 @@ Lo specialista competente per l’esame medico trasmette, su richiesta, i dati m
 
 <sup>4</sup> I test COVID-19 sono eseguiti da personale medico appositamente formato. Il personale medico utilizza il tipo di test meno gravoso per l’interessato. Non esegue il test se ritiene che questo potrebbe mettere in pericolo la salute dell’interessato.
 
-[^72-1]: Nuovo testo giusta il n. I del LF del 1° ott. 2021, in vigore dal 2 ott. 2021 al 31 dic. 2022 ([RU 2021 587](https://fedlex.data.admin.ch/eli/oc/2021/587); [FF 2021 1901](https://fedlex.data.admin.ch/eli/fga/2021/1901)).
+[^72-1]: Nuovo testo giusta il n. I del LF del 1° ott. 2021, in vigore dal 2 ott. 2021 al 31 dic. 2022 ([RU 2021 587](https://fedlex.data.admin.ch/eli/oc/2021/587); [FF 2021 1901](https://fedlex.data.admin.ch/eli/fga/2021/1901)). Validità prorogata dal n.I della LF del 16 dic. 2022 (Test COVID-19 in caso di rinvio coatto), in vigore dal 17 dic. 2022 al 30 giu. 2024 ([RU 2022 818](https://fedlex.data.admin.ch/eli/oc/2022/818); [FF 2022 1359](https://fedlex.data.admin.ch/eli/fga/2022/1359)).
 [^72-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^72-3]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
 

@@ -4,11 +4,11 @@ title: Federal Act of 16 December 2005 on Foreign Nationals (FNA)
 short: FNA
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/758"
 language: en
-version: 2022-11-22
+version: 2022-12-17
 adopted: 2005-12-16
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20221122/en/xml/fedlex-data-admin-ch-eli-cc-2007-758-20221122-en-xml-10.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20221122/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20221217/en/xml/fedlex-data-admin-ch-eli-cc-2007-758-20221217-en-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20221217/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Foreign Nationals and Integration Act, FNIA)[^t-1]
 
-of 16 December 2005 (Status as of 22 November 2022)
+of 16 December 2005 (Status as of 17 December 2022)
 
 [^t-1]: Amended by No I of the FA of 16 Dec. 2016 (Integration), in force since 1 Jan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 
@@ -1581,7 +1581,7 @@ The attending medical professional shall on request disclose the medical data re
 
 <sup>4</sup> The COVID-19 tests shall be conducted by medical personnel who have been specifically trained for the purpose. They shall use the least invasive form of test suitable for the person concerned. If the personnel take the view that conducting the test could harm the health of the person concerned, they shall not conduct the test.
 
-[^72-1]: Amended by No I of the FA of 1 Oct. 2021, in force since 2 Oct. 2021 till 31 Dec. 2022 ([AS 2021 587](https://fedlex.data.admin.ch/eli/oc/2021/587); [BBl 2021 1901](https://fedlex.data.admin.ch/eli/fga/2021/1901)).
+[^72-1]: Amended by No I of the FA of 1 Oct. 2021, in force since 2 Oct. 2021 to 31 Dec. 2022 ([AS 2021 587](https://fedlex.data.admin.ch/eli/oc/2021/587); [BBl 2021 1901](https://fedlex.data.admin.ch/eli/fga/2021/1901)), extended from 17 Dec. 2022 to 30 June 2024 in accordance with No I of the FA of 16 Dec. 2022 (Covid-19 Test on Deportation) ([AS 2022 818](https://fedlex.data.admin.ch/eli/oc/2022/818); [BBl 2022 1359](https://fedlex.data.admin.ch/eli/fga/2022/1359)).
 [^72-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^72-3]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
 
@@ -3197,7 +3197,7 @@ In this capacity, it may use automated procedures to disclose and retrieve in pa
 - c. information about the identity documents;
 - d. information about the places of stay and routes travelled.
 
-<sup>3</sup> The Swiss foreign representations may exchange data required at their location for consular cooperation with their partners from states that are bound by a Schengen Association Agreement, and in particular information about the use of forged or falsified documents and about human trafficking networks as well as data of the categories mentioned in paragraph 2.
+<sup>3</sup> The Swiss foreign representations may exchange data required at their location for consular cooperation with their partners from states that are bound by a Schengen Association Agreement, and in particular information about the use of forged or falsified documents and about human smuggling networks as well as data of the categories mentioned in paragraph 2.
 
 <sup>4</sup> The Federal Council may adapt the categories of personal data mentioned in paragraph 2 to the latest developments of the Schengen Acquis. For this purpose, it shall consult the Federal Data Protection Commissioner.
 

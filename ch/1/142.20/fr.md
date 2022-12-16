@@ -4,11 +4,11 @@ title: "Loi fédérale du 16 décembre 2005 sur les étrangers et l'intégration
 short: LEI
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/758"
 language: fr
-version: 2022-11-22
+version: 2022-12-17
 adopted: 2005-12-16
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20221122/fr/xml/fedlex-data-admin-ch-eli-cc-2007-758-20221122-fr-xml-12.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20221122/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/758/20221217/fr/xml/fedlex-data-admin-ch-eli-cc-2007-758-20221217-fr-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20221217/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/758/20221122/fr"
 
 (LEI)[^t-2][^t-1]
 
-du 16 décembre 2005 (État le 22 novembre 2022)
+du 16 décembre 2005 (État le 17 décembre 2022)
 
 [^t-1]: <sup>∗</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 [^t-2]: Nouvelle teneur selon le ch. I de la LF du 16 déc. 2016 (Intégration), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [FF 2013 2131](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2665](https://fedlex.data.admin.ch/eli/fga/2016/524)).
@@ -1591,7 +1591,7 @@ Les professionnels de la santé compétents transmettent aux autorités ci-aprè
 
 <sup>4</sup> Les tests COVID-19 sont effectués par du personnel médical spécifiquement instruit à cette fin. Celui-ci utilise le type de test le plus favorable pour la personne concernée. S’il estime que le test est susceptible de mettre en danger la santé de la personne concernée, il ne l’effectue pas.
 
-[^72-1]: Nouvelle teneur selon le ch. I de la LF du 1<sup>er</sup> oct. 2021, en vigueur du 2 oct. 2021 au 31 déc. 2022 ([RO 2021 587](https://fedlex.data.admin.ch/eli/oc/2021/587); [FF 2021 1901](https://fedlex.data.admin.ch/eli/fga/2021/1901)).
+[^72-1]: Nouvelle teneur selon le ch. I de la LF du 1<sup>er</sup> oct. 2021, en vigueur du 2 oct. 2021 au 31 déc. 2022 ([RO 2021 587](https://fedlex.data.admin.ch/eli/oc/2021/587); [FF 2021 1901](https://fedlex.data.admin.ch/eli/fga/2021/1901)) et prolongé par le ch. I de la LF du 16 déc. 2022 (Test COVID-19 en cas de renvoi ou d’expulsion) du 17 déc. 2022 au 30 juin 2024 ([RO 2022 818](https://fedlex.data.admin.ch/eli/oc/2022/818); [FF 2022 1359](https://fedlex.data.admin.ch/eli/fga/2022/1359)).
 [^72-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^72-3]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
 
