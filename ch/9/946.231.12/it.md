@@ -3,18 +3,18 @@ sr: "946.231.12"
 title: Ordinanza del 22 giugno 2005 che istituisce provvedimenti nei confronti della Repubblica democratica del Congo
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/442"
 language: it
-version: 2022-09-20
+version: 2022-12-20
 adopted: 2005-06-22
 in_force: 2005-06-23
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/442/20220920/it/xml/fedlex-data-admin-ch-eli-cc-2005-442-20220920-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/442/20220920/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/442/20221220/it/xml/fedlex-data-admin-ch-eli-cc-2005-442-20221220-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/442/20221220/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti nei confronti della Repubblica democratica del Congo
 
-del 22 giugno 2005 (Stato 20 settembre 2022)
+del 22 giugno 2005 (Stato 20 dicembre 2022)
 
 Il Consiglio federale svizzero,
 
@@ -115,7 +115,7 @@ Essa può concedere deroghe alle persone fisiche di cui all’allegato 2:
 
 <sup>2</sup> La Segreteria di Stato della migrazione[^5-2] sorveglia l’esecuzione del divieto di entrata e di transito di cui all’articolo 4.
 
-<sup>3</sup> Il controllo al confine è di competenza dell’ dell’Ufficio federale della dogana e della sicurezza dei confini[^5-3].
+<sup>3</sup> Il controllo al confine è di competenza dell’Ufficio federale della dogana e della sicurezza dei confini[^5-3].
 
 <sup>4</sup> Su indicazione della SECO, le autorità competenti adottano i provvedimenti necessari al blocco delle risorse economiche, ad esempio la menzione nel registro fondiario di un divieto di disporre dei beni, oppure il pignoramento o il suggellamento di beni di lusso.
 
@@ -187,5 +187,5 @@ Allegato 2[^t-2]
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Introdotto dal n. I dell’O del 21 feb. 2018 ([RU 2018 863](https://fedlex.data.admin.ch/eli/oc/2018/114)). Aggiornato dai n. I delle O del DEFR del 23 apr. 2018 ([RU 2018 1655](https://fedlex.data.admin.ch/eli/oc/2018/244)), del 17 gen. 2019 ([RU 2019 225](https://fedlex.data.admin.ch/eli/oc/2019/35)), del 19 dic. 2019 ([RU 2019 4731](https://fedlex.data.admin.ch/eli/oc/2019/769)), del 21 dic. 2020 ([RU 2020 6411](https://fedlex.data.admin.ch/eli/oc/2020/1050)), del 22 dic. 2021 ([RU 2021 908](https://fedlex.data.admin.ch/eli/oc/2021/908)) e del 19 set. 2022, in vigore dal 20 set. 2022 ([RU 2022 512](https://fedlex.data.admin.ch/eli/oc/2022/512)).
-[^annex2-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2022/512](https://www.fedlex.admin.ch/eli/oc/2022/512/it)&gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando
+[^t-2]: Introdotto dal n. I dell’O del 21 feb. 2018 ([RU 2018 863](https://fedlex.data.admin.ch/eli/oc/2018/114)). Aggiornato dai n. I delle O del DEFR del 23 apr. 2018 ([RU 2018 1655](https://fedlex.data.admin.ch/eli/oc/2018/244)), del 17 gen. 2019 ([RU 2019 225](https://fedlex.data.admin.ch/eli/oc/2019/35)), del 19 dic. 2019 ([RU 2019 4731](https://fedlex.data.admin.ch/eli/oc/2019/769)), del 21 dic. 2020 ([RU 2020 6411](https://fedlex.data.admin.ch/eli/oc/2020/1050)), del 22 dic. 2021 ([RU 2021 908](https://fedlex.data.admin.ch/eli/oc/2021/908)), del 19 set. 2022 ([RU 2022 512](https://fedlex.data.admin.ch/eli/oc/2022/512)) e del 19 dic. 2022, in vigore dal 20 dic. 2022 alle ore 18.00 ([RU 2022 831](https://fedlex.data.admin.ch/eli/oc/2022/831)).
+[^annex2-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2022/831](https://fedlex.data.admin.ch/eli/oc/2022/831) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
