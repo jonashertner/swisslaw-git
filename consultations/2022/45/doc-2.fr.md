@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modification d’ordonnances relevant de l’Office fédéral de l’énergie (OFEN) avec entrée en vigueur le 1er juillet 2023
 document: Projet mis en consultation OGOM
 language: fr
