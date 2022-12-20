@@ -3,16 +3,16 @@ sr: "0.740.72"
 title: Accord du 21 juin 1999 entre la Confédération suisse et la Communauté européenne sur le transport de marchandises et de voyageurs par rail et par route (avec annexes et acte final)
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/257"
 language: fr
-version: 2021-12-17
+version: 2022-12-21
 adopted: 1999-06-21
 in_force: 2002-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/257/20211217/fr/xml/fedlex-data-admin-ch-eli-cc-2002-257-20211217-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/257/20211217/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/257/20221221/fr/xml/fedlex-data-admin-ch-eli-cc-2002-257-20221221-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/257/20221221/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Accord entre la Confédération suisse et la Communauté européenne**** sur le transport de marchandises et de voyageurs par rail et par route
+# Accord entre la Confédération suisse et la Communauté européenne sur le transport de marchandises et de voyageurs par rail et par route
 
 RO **2002** 1649; FF **1999** 5440[^t-1]
 
@@ -26,7 +26,7 @@ Instrument de ratification suisse déposé le 16 octobre 2000
 
 Entré en vigueur le 1<sup>er</sup> juin 2002
 
-(Etat le 17 décembre 2021)
+(État le 21 décembre 2022)
 
 [^t-1]: Actuellement: Union européenne.
 [^t-2]: Art. 1 al. 1 let. f de l’AF du 8 oct. 1999 ([RO 2002 1527](https://fedlex.data.admin.ch/eli/oc/2002/242)).
@@ -841,11 +841,11 @@ paramètres de qualité des services de transport ferroviaire et combiné
 
 modalités d’application des redevances prévues à l’art. 40
 
-Annexe 1*[^t-3]*
+Annexe 1[^t-3]
 
 ## Dispositions applicables
 
-[^t-3]: Nouvelle teneur selon l’art. 1 de la D n<sup>o</sup> 1/2021 du Comité des transports terrestres Communauté/Suisse du 30 juin 2021 ([RO 2021 477](https://fedlex.data.admin.ch/eli/oc/2021/477)). Mise à jour par l’art. 1 de la D n<sup>o</sup> 2/2021 du Comité des transports terrestres Communauté/Suisse du 17 déc. 2021, en vigueur pour la Suisse depuis le 17 déc. 2021 ([RO 2022 93](https://fedlex.data.admin.ch/eli/oc/2022/93)).
+[^t-3]: Nouvelle teneur selon l’art. 1 de la D n<sup>o</sup> 1/2021 du Comité des transports terrestres Communauté/Suisse du 30 juin 2021 ([RO 2021 477](https://fedlex.data.admin.ch/eli/oc/2021/477)). Mise à jour par l’art. 1 de la D n<sup>o</sup> 2/2021 du Comité des transports terrestres Communauté/Suisse du 17 déc. 2021 ([RO 2022 93](https://fedlex.data.admin.ch/eli/oc/2022/93)) et l’art. 1 de la D n<sup>o</sup> 1/2022 du Comité des transports terrestres Communauté/Suisse du 21 déc. 2022, en vigueur pour la Suisse depuis le 21 déc. 2022 ([RO 2023 15](https://fedlex.data.admin.ch/eli/oc/2023/15)).
 
 Conformément à l’art. 52, par. 6, du présent Accord, la Suisse applique des dispositions légales équivalentes aux dispositions mentionnées ci-dessous:
 
@@ -933,15 +933,15 @@ Règlement (UE) n<sup>o</sup> 540/2014 du Parlement européen et du Conseil du 1
 
 Transport de marchandises dangereuses
 
-Directive 95/50/CEE du Conseil du 6 octobre 1995 concernant des procédures uniformes en matière de contrôle des transports de marchandises dangereuses par route (JO L 249 du 17.10.1995, p. 35), modifiée en dernier lieu par la directive 2008/54/CE du Parlement européen et du Conseil du 17 juin 2008 (JO L 162 du 21.6.2008, p. 11).
+Directive (UE) 2022/1999 du Parlement européen et du Conseil du 19 octobre 2022 concernant des procédures uniformes en matière de contrôle des transports de marchandises dangereuses par route (texte codifié; JO L 274 du 24.10.2022, p. 1).
 
-Directive 2008/68/CE du Parlement européen et du Conseil du 24 septembre 2008 relative au transport intérieur des marchandises dangereuses (JO L 260 du 30.9.2008, p. 13), modifiée en dernier lieu par la directive déléguée (UE) 2020/1833 de la Commission du 2 octobre 2020 (JO L 408 du 4.12.2020, p. 1).
+Directive 2008/68/CE du Parlement européen et du Conseil du 24 septembre 2008 relative au transport intérieur des marchandises dangereuses (JO L 260 du 30.9.2008, p. 13), modifiée en dernier lieu par la décision d’exécution (UE) 2022/1095 de la Commission du 29 juin 2022 (JO L 176 du 1.7.2022, p. 33).
 
-Aux fins du présent Accord, les dérogations suivantes à la directive 2008/68/CE s’appliquent en Suisse:
+Aux fins du présent accord, les dérogations suivantes à la directive 2008/68/CE s’appliquent en Suisse:
 
 ### 1. Transport routier
 
-Dérogations pour la Suisse fondées sur l’art. 6, par. 2, point a), de la directive 2008/68/CE:
+Dérogations pour la Suisse, fondées sur l’art. 6, par. 2, point a), de la directive 2008/68/CE relative au transport intérieur des marchandises dangereuses
 
 RO-a-CH-1
 
@@ -953,23 +953,23 @@ Contenu de l’annexe de la directive: exemptions liées aux quantités transpor
 
 Contenu de la législation nationale: les conteneurs-citernes de chantier construits non pas selon les dispositions du point 6.8 mais selon la législation nationale, de contenance inférieure ou égale à 1210 l et utilisés pour le transport d’huile de chauffe ou de carburant diesel du numéro ONU 1202, peuvent bénéficier des exemptions du point 1.1.3.6 ADR.
 
-Référence initiale à la législation nationale: points 1.1.3.6.3, let. b) et 6.14 de l’appendice 1 de l’ordonnance du 29 novembre 2002 relative au transport de marchandises dangereuses par route (SDR; RS *741.621*).
+Référence initiale à la législation nationale: points 1.6.14.4, 4.8 et 6.14 de l’appendice 1 de l’ordonnance du 29 novembre 2002 relative au transport de marchandises dangereuses par route (SDR; RS *741.621*).
 
-Date d’expiration: 1<sup>er</sup> janvier 2023.
+Date d’expiration: 1<sup>er</sup> janvier 2029.
 
 RO-a-CH-2
 
-Objet: exemption de l’exigence d’emporter un document de transport pour certaines quantités de marchandises dangereuses définies sous 1.1.3.6.
+Objet: exemption à l’exigence d’emporter un document de transport pour certaines quantités de marchandises dangereuses définies sous 1.1.3.6.
 
 Référence à l’annexe I, section I.1, de ladite directive: points 1.1.3.6 et 5.4.1.
 
 Contenu de l’annexe de la directive: obligation d’avoir un document de transport.
 
-Contenu de la législation nationale: le transport d’emballages vides non nettoyés appartenant à la catégorie de transport 4 et de bouteilles à gaz remplies ou vides pour les appareils respiratoires des services d’urgence et pour les appareils de plongée, en quantités n’excédant pas les limites fixées au point 1.1.3.6, n’est pas soumis à l’obligation du document de transport prévu au point 5.4.1.
+Contenu de la législation nationale: le transport d’emballages vides non nettoyés appartenant à la catégorie de transport 4, à l’exception du n<sup>o</sup> ONU 3509 et de bouteilles à gaz remplies ou vides pour les appareils respiratoires des services d’urgence et pour les appareils de plongée, en quantités n’excédant pas les limites fixées au point 1.1.3.6, n’est pas soumis à l’obligation du document de transport prévu au point 5.4.1.
 
-Référence initiale à la législation nationale: point 1.1.3.6.3, let. c) de l’appendice 1 de l’ordonnance du 29 novembre 2002 relative au transport de marchandises dangereuses par route (SDR; RS *741.621*).
+Référence initiale à la législation nationale: point 8.1.2.1, let. a de l’appendice 1 de l’ordonnance du 29 novembre 2002 relative au transport de marchandises dangereuses par route (SDR; RS *741.621*).
 
-Date d’expiration: 1<sup>er</sup> janvier 2023.
+Date d’expiration: 1<sup>er</sup> janvier 2029.
 
 RO-a-CH-3
 
@@ -981,11 +981,11 @@ Contenu de l’annexe de la directive: construction, équipement et contrôle de
 
 Contenu de la législation nationale: les véhicules et les réservoirs/récipients transportés vides non nettoyés qui sont utilisés par des entreprises de révision d’installations d’entreposage de liquides pouvant polluer les eaux pour le dépotage lors des opérations de révision des citernes stationnaires ne sont pas soumis aux dispositions de construction, d’équipement et de contrôle, d’étiquetage et de signalisation orange prescrites par l’ADR. Ils sont soumis à des prescriptions spécifiques d’étiquetage et de signalisation, et le conducteur du véhicule n’est pas soumis à la formation prescrite au point 8.2.
 
-Référence initiale à la législation nationale: point 1.1.3.6.3.10 de l’appendice 1 de l’ordonnance du 29 novembre 2002 relative au transport de marchandises dangereuses par route (SDR; RS *741.621*).
+Référence initiale à la législation nationale: point 1.1.3.6.6 de l’appendice 1 de l’ordonnance du 29 novembre 2002 relative au transport de marchandises dangereuses par route (SDR; RS *741.621*).
 
-Date d’expiration: 1<sup>er</sup> janvier 2023.
+Date d’expiration: 1<sup>er</sup> janvier 2029.
 
-Dérogations pour la Suisse fondées sur l’art. 6, par. 2, point b) i), de la directive 2008/68/CE:
+Dérogations pour la Suisse, fondées sur l’art. 6, par. 2, point b) i), de la directive 2008/68/CE.
 
 RO-bi-CH-1
 
@@ -997,11 +997,11 @@ Contenu de l’annexe de la directive: classification, emballage en commun, marq
 
 Contenu de la législation nationale: la réglementation contient des dispositions relatives à la classification simplifiée, à réaliser par un expert agréé par l’autorité compétente, des déchets ménagers contenant des marchandises dangereuses (déchets ménagers), à l’utilisation de récipients collecteurs appropriés et à l’instruction du conducteur. Les déchets ménagers ne pouvant pas être classés par l’expert peuvent être acheminés jusqu’au centre de traitement en petites quantités définies par colis et par unité de transport.
 
-Référence initiale à la législation nationale: point 1.1.3.7 de l’appendice 1 de l’ordonnance du 29 novembre 2002 relative au transport de marchandises dangereuses par route (SDR; RS *741.621*).
+Référence initiale à la législation nationale: point 1.1.3.11 de l’appendice 1 de l’ordonnance du 29 novembre 2002 relative au transport de marchandises dangereuses par route (SDR; RS *741.621*).
 
 Observations: ces règles ne peuvent être appliquées qu’au transport de déchets ménagers contenant des marchandises dangereuses entre des sites publics de traitement et des installations d’élimination.
 
-Date d’expiration: 1<sup>er</sup> janvier 2023.
+Date d’expiration: 1<sup>er</sup> janvier 2029.
 
 RO-bi-CH-2
 
@@ -1013,11 +1013,11 @@ Contenu de l’annexe de la directive: classification et documentation.
 
 Contenu de la législation nationale: dans le but de faciliter les transports de retour des artifices de divertissement des numéros ONU 0335, 0336 et 0337 depuis les commerces de détail vers leurs fournisseurs, des dérogations sont prévues concernant l’indication dans le document de transport de la masse nette et la classification des produits.
 
-Référence initiale à la législation nationale: point 1.1.3.8 de l’appendice 1 de l’ordonnance du 29 novembre 2002 relative au transport de marchandises dangereuses par route (SDR; RS *741.621*).
+Référence initiale à la législation nationale: point 1.1.3.12 de l’appendice 1 de l’ordonnance du 29 novembre 2002 relative au transport de marchandises dangereuses par route (SDR; RS *741.621*).
 
 Observations: la vérification détaillée pour chaque colis du contenu exact d’invendu de chaque type de rubrique est pratiquement impossible à réaliser par les commerces destinés à la vente à des privés.
 
-Date d’expiration: 1<sup>er</sup> janvier 2023.
+Date d’expiration: 1<sup>er</sup> janvier 2029.
 
 RO-bi-CH-3
 
@@ -1029,31 +1029,31 @@ Contenu de l’annexe de la directive: les conducteurs doivent suivre des cours 
 
 Contenu de la législation nationale: les courses de transfert de véhicules en panne ou les courses d’essai liées à une réparation, celles effectuées avec des véhicules-citernes en vue de l’expertise du véhicule ou de sa citerne ainsi que celles réalisées par des experts chargés de l’examen de véhicules-citernes sont autorisées sans cours ni certificat de formation ADR.
 
-Référence initiale à la législation nationale: instructions du 30 septembre 2008 du Département fédéral de l’environnement, des transports, de l’énergie et de la communication (DETEC) concernant le transport de marchandises dangereuses par route.
+Référence initiale à la législation nationale: point 8.2.1 de l’appendice 1 de l’ordonnance du 29 novembre 2002 relative au transport de marchandises dangereuses par route (SDR; RS *741.621*).
 
 Observations: il arrive que des véhicules en panne ou en réparation ainsi que des véhicules-citernes en préparation en vue de l’inspection technique ou ceux contrôlés à l’occasion de l’inspection technique contiennent encore des marchandises dangereuses.
 
 Les prescriptions figurant aux points 1.3 et 8.2.3 restent applicables.
 
-Date d’expiration: 1<sup>er</sup> janvier 2023.
+Date d’expiration: 1<sup>er</sup> janvier 2029.
 
 ### 2. Transport ferroviaire
 
-Dérogations pour la Suisse fondées sur l’art. 6, par. 2, point a), de la directive 2008/68/CE:
+Dérogations pour la Suisse, fondées sur l’art. 6, par. 2, point a), de la directive 2008/68/CE:
 
 RA-a-CH-1
 
-Objet: transports de carburant diesel et d’huile de chauffe du numéro ONU 1202 avec des conteneurs-citernes de chantier.
+Objet: transports de carburant diesel du numéro ONU 1202 avec des conteneurs-citernes de chantier.
 
 Référence à l’annexe II, section II.1, de ladite directive: point 6.8.
 
 Contenu de l’annexe de la directive: prescriptions relatives à la construction de citernes.
 
-Contenu de la législation nationale: les conteneurs-citernes de chantier construits non pas selon les dispositions du point 6.8 mais selon la législation nationale, de contenance inférieure ou égale à 1210 l et transportant de l’huile de chauffe ou du carburant diesel du numéro ONU 1202, sont autorisés.
+Contenu de la législation nationale: les conteneurs-citernes de chantier construits non pas selon les dispositions du point 6.8 mais selon la législation nationale, sont autorisés pour le transport de carburant diesel du numéro ONU 1202.
 
-Référence initiale à la législation nationale: annexe à l’ordonnance du DETEC du 3 décembre 1996 relative au transport des marchandises dangereuses par chemin de fer et par installation à câbles (RSD; RS *742.401.6*) et chap. 6.14 de l’appendice 1 de l’ordonnance du 29 novembre 2002 relative au transport de marchandises dangereuses par route (SDR; RS *741.621*).
+Référence initiale à la législation nationale: annexe 2.1 de l’ordonnance du 31 octobre 2012 sur le transport de marchandises dangereuses par chemin de fer et par installation à câbles (RSD; RS *742.412*) et ch. 1.6, 4.8 et 6.14 de l’appendice 1 de l’ordonnance du 29 novembre 2002 relative au transport de marchandises dangereuses par route (SDR; RS *741.621*).
 
-Date d’expiration: 1<sup>er</sup> janvier 2023.
+Date d’expiration: 1<sup>er</sup> janvier 2029.
 
 RA-a-CH-2
 
@@ -1065,9 +1065,9 @@ Contenu de l’annexe de la directive: renseignements généraux devant figurer 
 
 Contenu de la législation nationale: on peut utiliser un terme collectif dans le document de transport si une liste sur laquelle figurent les indications prescrites selon la référence ci-dessus accompagne ledit document de transport.
 
-Référence initiale à la législation nationale: annexe à l’ordonnance du DETEC du 3 décembre 1996 relative au transport des marchandises dangereuses par chemin de fer et par installation à câbles (RSD; RS *742.401.6*).
+Référence initiale à la législation nationale: annexe 2.1 de l’ordonnance du 31 octobre 2012 sur le transport de marchandises dangereuses par chemin de fer et par installation à câbles (RSD; RS *742.412*).
 
-Date d’expiration: 1<sup>er</sup> janvier 2023.
+Date d’expiration: 1<sup>er</sup> janvier 2029.
 
 Directive 2010/35/UE du Parlement européen et du Conseil du 16 juin 2010 relative aux équipements sous pression transportables et abrogeant les directives du Conseil 76/767/CEE, 84/525/CEE, 84/526/CEE, 84/527/CEE et 1999/36/CE (JO L 165 du 30.6.2010, p. 1).
 
@@ -1196,23 +1196,22 @@ Les règles nationales suivantes visées à l’art. 6 de la décision n<sup>o</
 - – CH-TSI LOC&PAS-003 (version 2.0 de juin 2021): Petits rayons r &lt; 250 m;
 - – CH-TSI LOC&PAS-006 (version 2.0 de juin 2021): Homologation de véhicules pendulaires selon catégorie N;
 - – CH-TSI LOC&PAS-007 (version 2.0 de juin 2021): Dispositif de graissage de boudin;
-- – CH-TSI LOC&PAS-009 (version 1.0 de juin 2015): Emissions de gaz d’échappement des véhicules à moteur thermique (règle potentiellement non compatible avec le règlement (UE) 2016/1628, la règle est à réexaminer avant le 31 décembre 2022);
+- – CH-TSI LOC&PAS-009 (version 1.0 de juin 2015): Emissions de gaz d’échappement des véhicules à moteur thermique (règle potentiellement non compatible avec le règlement (UE) 2016/1628, la règle est à réexaminer avant le 31 décembre 2023);
 - – CH-TSI LOC&PAS-011 (version 2.0 de juin 2021): Limitation de la prestation de traction;
 - – CH-TSI LOC&PAS-012 (version 1.0 de juillet 2016): Admittance;
 - – CH-TSI LOC&PAS-013 (version 1.0 de juillet 2016): Interaction pantographe / ligne de contact;
 - – CH-TSI LOC&PAS-014*a* (version 2.0 de juin 2021): Caractéristiques du matériel roulant nécessaires pour assurer la compatibilité avec les systèmes de détection des trains par circuits de voie;
 - – CH-TSI LOC&PAS-014*b* (version 2.0 de juin 2021): Caractéristiques du matériel roulant nécessaires pour assurer la compatibilité avec les systèmes de détection des trains par compteurs d’essieux;
-- – CH-TSI LOC&PAS-019 (version 2.0 de juin 2019): Signal «non leading input» pour le véhicule de tête (règle potentiellement non compatible avec le règlement (UE) n<sup>o</sup> 1302/2014, la règle est à réexaminer avant le 31 décembre 2022);
-- – CH-TSI LOC&PAS-020 (version 2.0 de juin 2019): Signal «sleeping input» en conduite multiple (règle potentiellement non compatible avec le règlement (UE) n<sup>o</sup> 1302/2014, la règle est à réexaminer avant le 31 décembre 2022);
+- – CH-TSI LOC&PAS-019 (version 2.0 de juin 2019): Signal «non leading input» pour le véhicule de tête (règle potentiellement non compatible avec le règlement (UE) n<sup>o</sup> 1302/2014, la règle est à réexaminer avant le 31 décembre 2023);
+- – CH-TSI LOC&PAS-020 (version 2.0 de juin 2019): Signal «sleeping input» en conduite multiple (règle potentiellement non compatible avec le règlement (UE) n<sup>o</sup> 1302/2014, la règle est à réexaminer avant le 31 décembre 2023);
 - – CH-TSI LOC&PAS-022 (version 2.1 de juin 2021): Réinitialisation du freinage d’urgence;
-- – CH-TSI LOC&PAS-025 (version 2.0 de juin 2019): Sécurisation du dispositif de déconnexion de l’équipement ETCS embarqué (règle potentiellement non compatible avec le règlement (UE) n<sup>o</sup> 1302/2014, la règle est à réexaminer avant le 31 décembre 2022);
+- – CH-TSI LOC&PAS-025 (version 2.0 de juin 2019): Sécurisation du dispositif de déconnexion de l’équipement ETCS embarqué (règle potentiellement non compatible avec le règlement (UE) n<sup>o</sup> 1302/2014, la règle est à réexaminer avant le 31 décembre 2023);
 - – CH-TSI LOC&PAS-026 (version 2.0 de juin 2019): Interdiction de SIGNUM/ZUB sur les véhicules équipés de l’ERTMS/ETCS Baseline 3;
-- – CH-TSI LOC&PAS-027 (version 2.0 de juin 2019): Radiocommande manuelle lors des manœuvres (mode d’exploitation «shunting») (règle potentiellement non compatible avec le règlement (UE) n<sup>o</sup> 1302/2014, la règle est à réexaminer avant le 31 décembre 2022);
+- – CH-TSI LOC&PAS-027 (version 2.0 de juin 2019): Radiocommande manuelle lors des manœuvres (mode d’exploitation «shunting») (règle potentiellement non compatible avec le règlement (UE) n<sup>o</sup> 1302/2014, la règle est à réexaminer avant le 31 décembre 2023);
 - – CH-TSI LOC&PAS-030 (version 2.0 de juin 2021): Utilisation de systèmes de freinage n’agissant pas sur l’adhérence;
-- – CH-TSI LOC&PAS-031 (version 2.1 de novembre 2020): Coupure de la traction en toute sécurité (règle potentiellement non compatible avec le règlement (UE) n<sup>o</sup> 1302/2014, la règle est à réexaminer avant le 31 décembre 2022);
-- – CH-TSI LOC&PAS-035 (version 2.1 de novembre 2020): Puissance suffisante du freinage d’urgence (règle potentiellement non compatible avec le règlement (UE) n<sup>o</sup> 1302/2014, la règle est à réexaminer avant le 31 décembre 2022);
-- – CH-TSI LOC&PAS-036 (version 2.0 de juin 2019): Véhicules dotés d’un pupitre de commande pour les deux sens de marche (règle potentiellement non compatible avec le règlement (UE) n<sup>o</sup> 1302/2014, la règle est à réexaminer avant le 31 décembre 2022);
-- – CH-TSI LOC&PAS-037: (version 1.0 de juin 2019): Frein de service (service brake) ETCS (règle potentiellement non compatible avec le règlement (UE) n<sup>o</sup> 1302/2014, la règle est à réexaminer avant le 31 décembre 2022).
+- – CH-TSI LOC&PAS-031 (version 2.1 de novembre 2020): Coupure de la traction en toute sécurité (règle potentiellement non compatible avec le règlement (UE) n<sup>o</sup> 1302/2014, la règle est à réexaminer avant le 31 décembre 2023);
+- – CH-TSI LOC&PAS-035 (version 2.1 de novembre 2020): Puissance suffisante du freinage d’urgence (règle potentiellement non compatible avec le règlement (UE) n<sup>o</sup> 1302/2014, la règle est à réexaminer avant le 31 décembre 2023);
+- – CH-TSI LOC&PAS-036 (version 2.0 de juin 2019): Véhicules dotés d’un pupitre de commande pour les deux sens de marche (règle potentiellement non compatible avec le règlement (UE) n<sup>o</sup> 1302/2014, la règle est à réexaminer avant le 31 décembre 2023).
 
 Règlement (UE) n<sup>o</sup> 1303/2014 de la Commission du 18 novembre 2014 concernant la spécification technique d’interopérabilité relative à la sécurité dans les tunnels ferroviaires du système ferroviaire de l’Union européenne (JO L 356 du 12.12.2014, p. 394), modifié en dernier lieu par le règlement d’exécution (UE) 2019/776 de la Commission du 16 mai 2019 (JO L 139 I du 27.5.2019, p. 108).
 
@@ -1233,25 +1232,23 @@ Règlement (UE) 2016/919 de la Commission du 27 mai 2016 relatif à la spécific
 Les règles nationales suivantes visées à l’art. 6 de la décision n<sup>o</sup> 2/2019 du Comité mixte s’appliquent en Suisse:
 
 - – CH-TSI CCS-003 (version 2.0 de juin 2019): Activation / désactivation de la transmission du paquet 44 aux systèmes ZUB / SIGNUM;
-- – CH-TSI CCS-006 (version 2.1 de novembre 2020): Perte du signal «non leading permitted» en mode d’exploitation «Non Leading» (règle potentiellement non compatible avec le règlement (UE) 2016/919, la règle est à réexaminer avant le 31 décembre 2022);
+- – CH-TSI CCS-006 (version 2.1 de novembre 2020): Perte du signal «non leading permitted» en mode d’exploitation «Non Leading» (règle potentiellement non compatible avec le règlement (UE) 2016/919, la règle est à réexaminer avant le 31 décembre 2023);
 - – CH-TSI CCS-007 (version 3.0 de novembre 2020): Règle sur les courbes de freinage pour ERTMS/ETCS Baseline 2;
 - – CH-TSI CCS-008 (version 3.0 de juin 2021): Implémentation minimale des «Change Requests»;
 - – CH-TSI CCS-011 (version 2.0 de juin 2019): Fonction Euroloop;
 - – CH-TSI CCS-015 (version 2.0 de juin 2019): Gestion simultanée de deux canaux de données GSM-R;
 - – CH-TSI CCS-016 (version 3.0 de juin 2021): Utilisation de paramètres et de fonctions spécifiques au pays;
 - – CH-TSI CCS-018 (version 2.0 de juin 2019): Interdiction des Levels STM/NTC pour ZUB/SIGNUM;
-- – CH-TSI CCS-019 (version 3.0 de novembre 2020): Reprise et affichage automatiques des données du train (règle potentiellement non compatible avec le règlement (UE) 2016/919, la règle est à réexaminer avant le 31 décembre 2022);
+- – CH-TSI CCS-019 (version 3.0 de novembre 2020): Reprise et affichage automatiques des données du train (règle potentiellement non compatible avec le règlement (UE) 2016/919, la règle est à réexaminer avant le 31 décembre 2023);
 - – CH-TSI CCS-022 (version 2.0 de juin 2019): Marche arrière en mode d’exploitation «Unfitted»;
 - – CH-TSI CCS-023 (version 2.0 de juin 2019): Affichage des messages texte;
 - – CH-TSI CCS-024 (version 3.0 de juin 2021): Saisie flexible des données;
-- – CH-TSI CCS-026 (version 2.1 de novembre 2020): Monitoring en ligne de l’équipement de voie à partir du véhicule (règle potentiellement non compatible avec le règlement (UE) 2016/919, la règle est à réexaminer avant le 31 décembre 2022);
-- – CH-TSI CCS-032 (version 2.1 de novembre 2020): Saisie du numéro de train unique pour l’équipement ETCS embarqué et la radio cabine GSM-R (règle potentiellement non compatible avec le règlement (UE) 2016/919, la règle est à réexaminer avant le 31 décembre 2022);
-- – CH-TSI CCS-033 (version 1.1 de novembre 2020): Fonctionnalités GSM-R Voice (règle potentiellement non compatible avec le règlement (UE) 2016/919, la règle est à réexaminer avant le 31 décembre 2022);
+- – CH-TSI CCS-026 (version 2.1 de novembre 2020): Monitoring en ligne de l’équipement de voie à partir du véhicule (règle potentiellement non compatible avec le règlement (UE) 2016/919, la règle est à réexaminer avant le 31 décembre 2023);
+- – CH-TSI CCS-032 (version 2.1 de novembre 2020): Saisie du numéro de train unique pour l’équipement ETCS embarqué et la radio cabine GSM-R (règle potentiellement non compatible avec le règlement (UE) 2016/919, la règle est à réexaminer avant le 31 décembre 2023);
+- – CH-TSI CCS-033 (version 1.1 de novembre 2020): Fonctionnalités GSM-R Voice (règle potentiellement non compatible avec le règlement (UE) 2016/919, la règle est à réexaminer avant le 31 décembre 2023);
 - – CH-TSI CCS-034 (version 1.0 de juin 2019): Mode d’exploitation «Non Leading»;
-- – CH-TSI CCS-035 (version 1.0 de juin 2019): Textes à afficher sur le DMI (règle potentiellement non compatible avec le règlement (UE) 2016/919, la règle est à réexaminer avant le 31 décembre 2022);
-- – CH-TSI CCS-038 (version 1.1 de novembre 2020): Message signalant un élargissement important de l’intervalle de confiance en odométrie (règle potentiellement non compatible avec le règlement (UE) 2016/919, la règle est à réexaminer avant le 31 décembre 2022);
-- – CH-CSM-RA-001 (version 1.0 de juin 2019): Concept de dossier de sécurité pour l’obtention de l’homologation ETCS en Suisse (règle potentiellement non compatible avec le règlement (UE) 2016/919, la règle est à réexaminer avant le 31 décembre 2022);
-- – CH-CSM-RA-002 (version 1.0 de juin 2019): Exigences pour les vitesses supérieures à 200 km/h (règle potentiellement non compatible avec le règlement (UE) 2016/919, la règle est à réexaminer avant le 31 décembre 2022).
+- – CH-TSI CCS-038 (version 1.1 de novembre 2020): Message signalant un élargissement important de l’intervalle de confiance en odométrie (règle potentiellement non compatible avec le règlement (UE) 2016/919, la règle est à réexaminer avant le 31 décembre 2023);
+- – CH-CSM-RA-001 (version 1.0 de juin 2019): Concept de dossier de sécurité pour l’obtention de l’homologation ETCS en Suisse (règle potentiellement non compatible avec le règlement (UE) 2016/919, la règle est à réexaminer avant le 31 décembre 2023).
 
 Règlement d’exécution (UE) 2018/545 de la Commission du 4 avril 2018 établissant les modalités pratiques du processus d’autorisation des véhicules ferroviaires et d’autorisation par type de véhicule ferroviaire conformément à la directive (UE) 2016/797 du Parlement européen et du Conseil (JO L 90 du 6.4.2018, p. 66).
 
@@ -1298,7 +1295,7 @@ Annexe 2
 
 \3. La redevance suisse maximale pour les véhicules disposant de l’autorisation visée à l’art. 8, par. 4, et dont le poids total effectif en charge dépasse 34 t mais ne dépasse pas 40 t, et qui parcourent un trajet de 300 km traversant la chaîne alpine, s’élèvera à 300 CHF pour un véhicule ne respectant pas les normes EURO, 240 CHF pour un véhicule respectant la norme EURO I et 210 CHF pour un véhicule respectant au moins la norme EURO II. La redevance est appliquée selon les modalités définies à l’art. 40.
 
-Annexe 3*[^t-4]*
+Annexe 3[^t-4]
 
 ## Communauté européenne
 
@@ -1316,7 +1313,7 @@ Annexe 3*[^t-4]*
 <tr><td>Signe distinctif de l’État membre[^annex3-lvlu1-1] qui délivre la licence</td><td></td><td>Dénomination de l’autorité ou de l’organisme compétent</td></tr>
 </table>
 
-**Licence n° ...** **ou** **copie certifiée con****forme n° ...**
+**Licence n° ...** **ou** **copie certifiée conforme n° ...**
 
 pour le transport international de marchandises par route pour compte d’autrui
 
@@ -1373,7 +1370,7 @@ Le titulaire est tenu de respecter sur le territoire de chaque État membre les 
 [^annex3-lvlu1-3]: Signature et cachet de l’autorité ou de l’organisme compétent qui délivre la licence.
 [^annex3-lvlu1-4]: Par «véhicule», on entend un véhicule à moteur immatriculé dans un Etat membre ou un ensemble de véhicules couplés dont au moins le véhicule à moteur est immatriculé dans un Etat membre, destinés exclusivement au transport de marchandises.
 
-Annexe 4*[^t-5]*
+Annexe 4[^t-5]
 
 ## Transports et déplacements à vide effectués en relation avec ces transports qui sont libérés de tout régime de licence et de toute autorisation de transport
 
@@ -1406,7 +1403,7 @@ Annexe 5
 <tr><th>Pays</th><th>Accord signé le</th><th>Entrée en vigueur le</th><th>Conditions</th></tr>
 <tr><td>Allemagne</td><td>17.12.1953[^annex5-lvlu1-1]</td><td>1.2.1954</td><td>*art. 7* selon le droit national: trafic triangulaire proprement dit autorisé; trafic triangulaire improprement dit interdit.</td></tr>
 <tr><td>Autriche</td><td>22.10.1958[^annex5-lvlu1-2]</td><td>4.4.1959</td><td>*art. 8* Les entrepreneurs ayant le droit d’effectuer des transports de marchandises sont autorisés à transporter, au moyen de véhicules immatriculés dans l’un des États contractants: a. Des marchandises à destination ou en provenance d’un des États. Trafic triangulaire proprement dit autorisé; trafic triangulaire improprement dit interdit.</td></tr>
-<tr><td>Belgique</td><td>25.2.1975[^annex5-lvlu1-3]</td><td>24.7.1975</td><td>*ar**t. 4, ch. 1, let. b* Trafic triangulaire proprement dit autorisé; trafic triangulaire improprement dit interdit.</td></tr>
+<tr><td>Belgique</td><td>25.2.1975[^annex5-lvlu1-3]</td><td>24.7.1975</td><td>*art. 4, ch. 1, let. b* Trafic triangulaire proprement dit autorisé; trafic triangulaire improprement dit interdit.</td></tr>
 <tr><td>Danemark</td><td>27.8.1981[^annex5-lvlu1-4]</td><td>25.3.1982</td><td>*art. 4, ch. 2* Les transports au départ d’un pays tiers à destination de l’autre Partie contractante ou au départ de l’autre Partie contractante à destination d’un pays tiers sont soumis à autorisation délivrée au cas par cas par l’autre Partie contractante.</td></tr>
 <tr><td>Espagne</td><td>23.1.1963[^annex5-lvlu1-5]</td><td>21.8.1963</td><td>*Protocole du 29 octobre 1971* Transport triangulaire proprement dit admis; transport triangulaire improprement dit interdit.</td></tr>
 <tr><td>Finlande</td><td>16.1.1980[^annex5-lvlu1-6]</td><td>28.5.1981</td><td>*art. 6, ch. 2, et Procès-verbal* de la réunion de la Commission mixte helvético-finlandaise des 23 et 24 mai 1989 ad point 2.2: trafics triangulaires proprement dit et improprement dit admis moyennant autorisation.</td></tr>
@@ -1482,7 +1479,7 @@ Les exceptions suivantes à l’interdiction de circuler le dimanche et la nuit 
 
 En vue de faciliter les procédures d’autorisation, des autorisations valables jusqu’à 12 mois pour n’importe quel nombre de courses peuvent être délivrées pour autant que toutes les courses soient de même nature.
 
-Annexe 7*[^t-6]*
+Annexe 7[^t-6]
 
 ## Transport international de passagers en autocar et autobus
 
@@ -1607,7 +1604,7 @@ L’autorisation est accordée à moins que:
 
 <sup>2.</sup> Le rejet d’une demande doit être motivé. Les Parties contractantes garantissent aux transporteurs la possibilité de faire valoir leurs intérêts en cas de rejet de leur demande.
 
-<sup>3.</sup> L’art. 4 de la présente annexe s’applique, *mutatis mutan**dis*, aux demandes de renouvellement d’une autorisation ou de modification des conditions dans lesquelles les services soumis à autorisation doivent être effectués.
+<sup>3.</sup> L’art. 4 de la présente annexe s’applique, *mutatis mutandis*, aux demandes de renouvellement d’une autorisation ou de modification des conditions dans lesquelles les services soumis à autorisation doivent être effectués.
 
 Dans les cas d’une modification de moindre importance des conditions d’exploitation, en particulier d’une adaptation des fréquences, des tarifs et des horaires, il suffit que l’autorité délivrante communique l’information relative à la modification aux autorités compétentes de l’autre Partie contractante.
 
@@ -1785,7 +1782,7 @@ Sous réserve des dispositions des par. 3*b* et 5 de l’art. 40, les redevances
 
 et
 
-*de la* *Communauté européenne*,
+*de la Communauté européenne*,
 
 réunis le vingt et un juin de l’an mil neuf cent quatre-vingt dix neuf à Luxembourg pour la signature de l’accord entre la Communauté européenne et la Confédération suisse sur le transport de marchandises et de voyageurs par rail et par route ont adopté les déclarations communes mentionnées ci-après et jointes au présent acte final:
 

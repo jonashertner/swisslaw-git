@@ -3,11 +3,11 @@ sr: "0.740.72"
 title: Abkommen vom 21. Juni 1999 zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über den Güter- und Personenverkehr auf Schiene und Strasse (mit Anhängen und Schlussakte)
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/257"
 language: de
-version: 2021-12-17
+version: 2022-12-21
 adopted: 1999-06-21
 in_force: 2002-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/257/20211217/de/xml/fedlex-data-admin-ch-eli-cc-2002-257-20211217-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/257/20211217/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/257/20221221/de/xml/fedlex-data-admin-ch-eli-cc-2002-257-20221221-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/257/20221221/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ Originaltext
 
 Abgeschlossen am 21. Juni 1999 Von der Bundesversammlung genehmigt am 8. Oktober 1999[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 16. Oktober 2000 In Kraft getreten am 1. Juni 2002
 
-(Stand am 17. Dezember 2021)
+(Stand am 21. Dezember 2022)
 
 [^t-1]: Art. 1 Abs. 1 Bst. f des BB vom 8. Okt. 1999 ([AS 2002 1527](https://fedlex.data.admin.ch/eli/oc/2002/242))
 
@@ -28,7 +28,7 @@ Die Schweizerische Eidgenossenschaft,
 
 nachstehend «Schweiz» genannt,
 
-die Europäische Gemeinschaft*[^ingress-1]*,
+die Europäische Gemeinschaft[^ingress-1],
 
 nachstehend «Gemeinschaft» genannt,
 
@@ -78,7 +78,7 @@ sind wie folgt übereingekommen:
 Im Sinne dieses Abkommens gilt als:
 
 - *–* *Beruf des Güterkraftverkehrsunternehmers* die Tätigkeit jedes Unternehmens, das im gewerblichen Verkehr die Güterbeförderung mit einem Kraftfahrzeug oder mit einer Fahrzeugkombination ausführt;
-- – *Beruf des Personenkraftv**erkehrsunternehmers* die Tätigkeit jedes Unternehmens, das im gewerblichen Verkehr die grenzüberschreitende Personenbeförderung mit Kraftomnibussen ausführt;
+- – *Beruf des Personenkraftverkehrsunternehmers* die Tätigkeit jedes Unternehmens, das im gewerblichen Verkehr die grenzüberschreitende Personenbeförderung mit Kraftomnibussen ausführt;
 - *–* *Unternehmen* jede natürliche Person, jede juristische Person mit oder ohne Erwerbszweck, jede Vereinigung oder jeder Zusammenschluss von Personen ohne Rechtspersönlichkeit und mit oder ohne Erwerbszweck sowie jedes staatliche Organ, unabhängig davon, ob dieses über eine eigene Rechtspersönlichkeit verfügt oder von einer Behörde mit Rechtspersönlichkeit abhängt;
 - *–* *Fahrzeug* ein im Gebiet einer Vertragspartei amtlich zugelassenes Kraftfahrzeug oder eine Fahrzeugkombination, bei der zumindest das Kraftfahrzeug im Gebiet einer Vertragspartei amtlich zugelassen ist, welche ausschliesslich für die Güterbeförderung bestimmt sind; oder jedes Kraftfahrzeug, das nach seiner Bauart und Ausstattung dazu bestimmt und geeignet ist, mehr als neun Personen, einschliesslich des Fahrers, zu befördern;
 - *–* *grenzüberschreitender Verkehr* Fahrten eines Fahrzeugs, bei denen sich der Ausgangspunkt im Gebiet einer Vertragspartei und der Bestimmungsort im Gebiet der anderen Vertragspartei oder in einem Drittland oder umgekehrt befinden, sowie Leerfahrten in Verbindung mit den vorgenannten Strecken; befindet sich der Ausgangspunkt oder der Bestimmungsort in einem Drittland, ist die Beförderung mit einem Fahrzeug durchzuführen, das im Gebiet der Vertragspartei zugelassen ist, in dem sich der Ausgangspunkt oder der Bestimmungsort der Fahrt befindet;
@@ -99,7 +99,7 @@ Im Sinne dieses Abkommens gilt als:
 - *–* *Zugtrasse* die Fahrwegkapazität, die erforderlich ist, damit ein Zug zu einer bestimmten Zeit zwischen zwei Orten eingesetzt werden kann;
 - *–* *Zuweisung* die Zuteilung von Fahrwegkapazität durch eine Zuweisungsstelle;
 - *–* *Zuweisungsstelle* die Behörde und/oder der Fahrwegbetreiber, die bzw. der von einer der Vertragsparteien mit der Vergabe von Fahrwegkapazität beauftragt ist;
-- *–* *Stadt- und Vorortv**erkehr* Verkehrsleistungen, die den Verkehrsbedarf eines Stadtgebietes oder eines Ballungsraumes sowie den Verkehrsbedarf zwischen einem Stadtgebiet oder Ballungsraum und dem Umland decken;
+- *–* *Stadt- und Vorortverkehr* Verkehrsleistungen, die den Verkehrsbedarf eines Stadtgebietes oder eines Ballungsraumes sowie den Verkehrsbedarf zwischen einem Stadtgebiet oder Ballungsraum und dem Umland decken;
 - *–* *Regionalverkehr* Verkehrsleistungen, die den Verkehrsbedarf einer Region decken;
 - *–* *kombinierter Verkehr* die Beförderung von Waren mit Strassenfahrzeugen oder Ladeeinheiten, die einen Teil der Strecke auf der Schiene und die Zu- und/oder Ablaufstrecke auf der Strasse zurücklegen;
 - *–* *wettbewerbsfähige Preise der Eisenbahn* die Preise der Eisenbahn, wenn die mittleren Preise auf der Schiene in der Schweiz nicht höher sind als die Kosten auf der Strasse für eine ähnliche Strecke gemäss Anhang 9.
@@ -194,7 +194,7 @@ Ab dem 1. Januar 2005 passt die Schweiz ihre Rechtsvorschriften über die höchs
 
 **Transit durch Österreich**
 
-Ein Ökopunktesystem, das dem in Artikel 11 des Protokolls Nr. 9 der Akte über den Beitritt Österreichs zur Europäischen Union vorgesehenen Ökopunktesystem gleichwertig ist, findet im Rahmen der Gültigkeit des Protokolls Nr. 9 Anwendung auf den Transit der schweizerischen Verkehrsunternehmer durch das Gebiet Österreichs. Das Berechnungsverfahren und die detaillierten Regeln und Verfahren zur Verwaltung und Kontrolle der Ökopunkte werden zum Zeitpunkt des Abschlusses dieses Abkommens durch eine in gegenseitigem Einvernehmen zwischen den Vertragsparteien ausgearbeitete Verwaltungsvereinbarung festgelegt, die *mutatis m**u**tandis* den Bestimmungen des Protokolls Nr. 9 entspricht.
+Ein Ökopunktesystem, das dem in Artikel 11 des Protokolls Nr. 9 der Akte über den Beitritt Österreichs zur Europäischen Union vorgesehenen Ökopunktesystem gleichwertig ist, findet im Rahmen der Gültigkeit des Protokolls Nr. 9 Anwendung auf den Transit der schweizerischen Verkehrsunternehmer durch das Gebiet Österreichs. Das Berechnungsverfahren und die detaillierten Regeln und Verfahren zur Verwaltung und Kontrolle der Ökopunkte werden zum Zeitpunkt des Abschlusses dieses Abkommens durch eine in gegenseitigem Einvernehmen zwischen den Vertragsparteien ausgearbeitete Verwaltungsvereinbarung festgelegt, die *mutatis mutandis* den Bestimmungen des Protokolls Nr. 9 entspricht.
 
 #### Art. 12
 
@@ -852,11 +852,11 @@ Geschehen zu Luxemburg am einundzwanzigsten Juni neunzehnhundertneunundneunzig i
 
   - [tab] Anwendungsmodalitäten für die Gebühren gemäss Artikel 40
 
-Anhang 1*[^t-2]*
+Anhang 1[^t-2]
 
 ## Anwendbare Bestimmungen
 
-[^t-2]: Fassung gemäss Art. 1 des Beschlusses Nr. 1/2021 des Gemischten Landverkehrsausschusses Gemeinschaft/Schweiz vom 30. Juni 2021 ([AS 2021 477](https://fedlex.data.admin.ch/eli/oc/2021/477)). Bereinigt gemäss Art. 1 des Beschlusses Nr. 2/2021 des Gemischten Landverkehrsausschusses Gemeinschaft/Schweiz vom 17. Dez. 2021, in Kraft für die Schweiz seit 17. Dez. 2021 ([AS 2022 93](https://fedlex.data.admin.ch/eli/oc/2022/93)).
+[^t-2]: Fassung gemäss Art. 1 des Beschlusses Nr. 1/2021 des Gemischten Landverkehrsausschusses Gemeinschaft/Schweiz vom 30. Juni 2021 ([AS 2021 477](https://fedlex.data.admin.ch/eli/oc/2021/477)). Bereinigt gemäss Art. 1 der Beschlüsse des Gemischten Landverkehrsausschusses Gemeinschaft/Schweiz Nr. 2/2021 vom 17. Dez. 2021 ([AS 2022 93](https://fedlex.data.admin.ch/eli/oc/2022/93)) und Nr. 1/2022 vom 21. Dez. 2022, in Kraft für die Schweiz seit 21. Dez. 2022 (AS **202****3** 15).
 
 Gemäss Artikel 52 Absatz 6 dieses Abkommens wendet die Schweiz Rechtsvorschriften an, die den nachstehend genannten Rechtsvorschriften gleichwertig sind:
 
@@ -944,7 +944,7 @@ Verordnung (EU) Nr. 540/2014 des Europäischen Parlaments und des Rates vom 16. 
 
 Gefahrguttransporte
 
-Richtlinie 95/50/EG des Rates vom 6. Oktober 1995 über einheitliche Verfahren für die Kontrolle von Gefahrguttransporten auf der Strasse, ABl. L 249 vom 17.10.1995, S. 35; zuletzt geändert durch Richtlinie (EU) 2008/54/EG des Europäischen Parlaments und des Rates vom 17. Juni 2008, ABl. L 162 vom 21.6.2008, S. 11.
+Richtlinie (EU) 2022/1999 des Europäischen Parlaments und des Rates vom 19. Oktober 2022 über einheitliche Verfahren für die Kontrolle von Gefahrguttransporten auf der Strasse (kodifizierter Text; ABl. L 274, 24.10.2022, S. 1).
 
 Richtlinie 2008/68/EG des Europäischen Parlaments und des Rates vom 24. September 2008 über die Beförderung gefährlicher Güter im Binnenland, ABl. L 260 vom 30.9.2008, S. 13; zuletzt geändert durch Delegierte Richtlinie (EU) 2020/1833 der Kommission vom 2. Oktober 2020, ABl. L 408 vom 4.12.2020, S. 1.
 
@@ -962,11 +962,11 @@ Bezugnahme auf Anhang I Abschnitt I.1 der Richtlinie: 1.1.3.6 und 6.8.
 
 Inhalt des Anhangs der Richtlinie: Ausnahmen bezüglich der je Beförderungseinheit transportierten Mengen, Bauvorschriften für Tanks.
 
-Inhalt der nationalen Rechtsvorschriften: Für Tankcontainer, die nicht gemäss Abschnitt 6.8, jedoch im Einklang mit den nationalen Rechtsvorschriften gebaut sind und über einen Fassungsraum von höchstens 1210 l verfügen, mit denen Heizöl oder Dieselkraftstoff mit der UN-Nummer 1202 transportiert wird, können die Ausnahmeregelungen gemäss 1.1.3.6 ADR gelten.
+Inhalt der nationalen Rechtsvorschriften: Für Tankcontainer, die nicht gemäss Ab-schnitt 6.8, jedoch im Einklang mit den nationalen Rechtsvorschriften gebaut sind und über einen Fassungsraum von höchstens 1210 l verfügen, mit denen Heizöl oder Dieselkraftstoff mit der UN-Nummer 1202 transportiert wird, können die Ausnahmeregelungen gemäss 1.1.3.6 ADR gelten.
 
-Ursprüngliche Bezugnahme auf die nationalen Rechtsvorschriften: Anhang 1 Absätze 1.1.3.6.3 (b) und 6.14 der Verordnung vom 29. November 2002 über die Beförderung gefährlicher Güter auf der Strasse (SDR; SR *741.621*).
+Ursprüngliche Bezugnahme auf die nationalen Rechtsvorschriften: Anhang 1 Absätze 1.6.14.4, 4.8 und 6.14 der Verordnung vom 29. November 2002 über die Beförderung gefährlicher Güter auf der Strasse (SDR; SR *741.621*).
 
-Ablauf der Geltungsdauer: 1. Januar 2023.
+Ablauf der Geltungsdauer: 1. Januar 2029.
 
 RO-a-CH-2
 
@@ -976,25 +976,25 @@ Bezugnahme auf Anhang I Abschnitt I.1 der Richtlinie: 1.1.3.6 und 5.4.1.
 
 Inhalt des Anhangs der Richtlinie: Vorschrift, ein Beförderungspapier mitzuführen.
 
-Inhalt der nationalen Rechtsvorschriften: Die Beförderung von ungereinigten leeren Containern der Beförderungsklasse 4 sowie gefüllter oder leerer Gasflaschen für Atemgeräte, die von Rettungsdiensten oder als Tauchausrüstung eingesetzt werden, in Mengen, die die in 1.1.3.6 festgelegten Obergrenzen nicht übersteigen, unterliegt nicht der Verpflichtung nach 5.4.1, ein Beförderungspapier mitzuführen.
+Inhalt der nationalen Rechtsvorschriften: Die Beförderung von ungereinigten leeren Containern der Beförderungsklasse 4, mit Ausnahme der UN-Nummer 3509; sowie gefüllter oder leerer Gasflaschen für Atemgeräte, die von Rettungsdiensten oder als Tauchausrüstung eingesetzt werden, in Mengen, die die in 1.1.3.6 festgelegten Obergrenzen nicht übersteigen, unterliegt nicht der Verpflichtung nach 5.4.1, ein Beförderungspapier mitzuführen.
 
-Ursprüngliche Bezugnahme auf die nationalen Rechtsvorschriften: Anhang 1 Absatz 1.1.3.6.3 (c) der Verordnung vom 29. November 2002 über die Beförderung gefährlicher Güter auf der Strasse (SDR; SR *741.621*).
+Ursprüngliche Bezugnahme auf die nationalen Rechtsvorschriften: Anhang 1 Absatz 8.1.2.1, (a) der Verordnung vom 29. November 2002 über die Beförderung gefährlicher Güter auf der Strasse (SDR; SR *741.621*).
 
-Ablauf der Geltungsdauer: 1. Januar 2023.
+Ablauf der Geltungsdauer: 1. Januar 2029.
 
 RO-a-CH-3
 
-Betrifft: Beförderung leerer ungereinigter Tanks durch Unternehmen, die Lagereinrichtungen für wassergefährdende Flüssigkeiten warten.
+Betrifft: Beförderung leerer ungereinigter Tanks durch Unternehmen, die Lagerein-richtungen für wassergefährdende Flüssigkeiten warten.
 
 Bezugnahme auf Anhang I Abschnitt I.1 der Richtlinie: 6.5, 6.8, 8.2 und 9.
 
 Inhalt des Anhangs der Richtlinie: Bau, Ausrüstung und Inspektion von Tanks und Fahrzeugen; Ausbildung der Fahrer/der Fahrerinnen.
 
-Inhalt der nationalen Rechtsvorschriften: Fahrzeuge und leere ungereinigte Tanks/Container, die von Unternehmen, die Lagereinrichtungen für wassergefährdende Flüssigkeiten warten, zur Aufnahme von Flüssigkeiten während der Wartung der ortsfesten Tanks eingesetzt werden, unterliegen nicht den Bau-, Ausrüstungs- und Inspektionsvorschriften sowie den Kennzeichnungsvorschriften und den Vorschriften für die orangefarbene Kennzeichnung des ADR. Für sie gelten besondere Kennzeichnungsvorschriften; ferner ist für den Fahrer/die Fahrerin eines solchen Fahrzeugs die Schulung nach 8.2 nicht vorgeschrieben.
+Inhalt der nationalen Rechtsvorschriften: Fahrzeuge und leere ungereinigte Tanks/ Container, die von Unternehmen, die Lagereinrichtungen für wassergefährdende Flüssigkeiten warten, zur Aufnahme von Flüssigkeiten während der Wartung der ortsfesten Tanks eingesetzt werden, unterliegen nicht den Bau-, Ausrüstungs- und Inspektionsvorschriften sowie den Kennzeichnungsvorschriften und den Vorschriften für die orangefarbene Kennzeichnung des ADR. Für sie gelten besondere Kennzeichnungsvorschriften; ferner ist für den Fahrer/die Fahrerin eines solchen Fahrzeugs die Schulung nach 8.2 nicht vorgeschrieben.
 
-Ursprüngliche Bezugnahme auf die nationalen Rechtsvorschriften: Anhang 1 Absatz 1.1.3.6.3.10 der Verordnung vom 29. November 2002 über die Beförderung gefährlicher Güter auf der Strasse (SDR; SR *741.621*).
+Ursprüngliche Bezugnahme auf die nationalen Rechtsvorschriften: Anhang 1 Absatz 1.1.3.6.6 der Verordnung vom 29. November 2002 über die Beförderung gefährlicher Güter auf der Strasse (SDR; SR *741.621*).
 
-Ablauf der Geltungsdauer: 1. Januar 2023.
+Ablauf der Geltungsdauer: 1. Januar 2029.
 
 Ausnahmeregelungen für die Schweiz auf der Grundlage von Artikel 6 Absatz 2 Buchstabe b Ziffer i der Richtlinie 2008/68/EG:
 
@@ -1008,11 +1008,11 @@ Inhalt des Anhangs der Richtlinie: Einstufung, Zusammenpackung, Kennzeichnung un
 
 Inhalt der nationalen Rechtsvorschriften: Die Rechtsvorschriften beinhalten u. a. Vorschriften für eine vereinfachte Einstufung von Haushaltsabfällen, die gefährliche (Haushalts-)Güter enthalten, durch eine/n von der zuständigen Behörde anerkannte/n Sachverständige/n sowie für den Einsatz geeigneter Behälter und für die Schulung der Fahrer/der Fahrerinnen. Haushaltsabfälle, die der oder die Sachverständige nicht einstufen kann, können in kleinen Mengen zu einer Behandlungsanlage transportiert werden, mit entsprechenden Angaben zu Paketen und Beförderungseinheiten.
 
-Ursprüngliche Bezugnahme auf die nationalen Rechtsvorschriften: Anhang 1 Absatz 1.1.3.7 der Verordnung vom 29. November 2002 über die Beförderung gefährlicher Güter auf der Strasse (SDR; SR *741.621*).
+Ursprüngliche Bezugnahme auf die nationalen Rechtsvorschriften: Anhang 1 Absatz 1.1.3.11 der Verordnung vom 29. November 2002 über die Beförderung gefährlicher Güter auf der Strasse (SDR; SR *741.621*).
 
-Anmerkungen: Diese Vorschriften gelten nur für die Beförderung von Haushaltsabfällen, die gefährliche Güter enthalten, zwischen öffentlichen Behandlungsanlagen und Abfallentsorgungsanlagen.
+Anmerkungen: Diese Vorschriften gelten nur für die Beförderung von Haushalts-abfällen, die gefährliche Güter enthalten, zwischen öffentlichen Behandlungsanlagen und Abfallentsorgungsanlagen.
 
-Ablauf der Geltungsdauer: 1. Januar 2023.
+Ablauf der Geltungsdauer: 1. Januar 2029.
 
 RO-bi-CH-2
 
@@ -1024,15 +1024,15 @@ Inhalt des Anhangs der Richtlinie: Einstufung, Begleitpapiere.
 
 Inhalt der nationalen Rechtsvorschriften: Zur Erleichterung des Rücktransports von Feuerwerkskörpern mit den UN-Nummern 0335, 0336 und 0337 von Einzelhändlern zu Herstellern sind Ausnahmen in Bezug auf die Angabe der Nettomasse und der Produkteinstufung im Beförderungspapier vorgesehen.
 
-Ursprüngliche Bezugnahme auf die nationalen Rechtsvorschriften: Anhang 1 Absatz 1.1.3.8 der Verordnung vom 29. November 2002 über die Beförderung gefährlicher Güter auf der Strasse (SDR; SR *741.621*).
+Ursprüngliche Bezugnahme auf die nationalen Rechtsvorschriften: Anhang 1 Absatz 1.1.3.12 der Verordnung vom 29. November 2002 über die Beförderung gefährlicher Güter auf der Strasse (SDR; SR *741.621*).
 
 Anmerkungen: Die detaillierte Prüfung des genauen Inhalts jedes unverkauften Produkts in jedem einzelnen Paket ist bei für den Einzelhandel bestimmten Produkten praktisch unmöglich.
 
-Ablauf der Geltungsdauer: 1. Januar 2023.
+Ablauf der Geltungsdauer: 1. Januar 2029.
 
 RO-bi-CH-3
 
-Betrifft: ADR-Ausbildungsbescheinigung für Fahrten zum Transport liegengebliebener Fahrzeuge, Fahrten im Zusammenhang mit Reparaturen, Fahrten zur Überprüfung von Tankfahrzeugen/Tanks sowie Fahrten von Sachverständigen mit Tankfahrzeugen, die sie überprüfen sollen.
+Betrifft: ADR-Ausbildungsbescheinigung für Fahrten zum Transport liegengebliebener Fahrzeuge, Fahrten im Zusammenhang mit Reparaturen, Fahrten zur Überprüfung von Tankfahrzeugen/Tanks sowie Fahrten von Sachverständigen mit Tankfahr-zeugen, die sie überprüfen sollen.
 
 Bezugnahme auf Anhang I Abschnitt I.1 der Richtlinie: 8.2.1.
 
@@ -1040,13 +1040,13 @@ Inhalt des Anhangs der Richtlinie: Die Fahrzeugführer/die Fahrzeugführerinnen 
 
 Inhalt der nationalen Rechtsvorschriften: ADR-Ausbildungen und entsprechende Bescheinigungen sind nicht erforderlich für Fahrten zum Transport liegengebliebener Fahrzeuge, Testfahrten im Zusammenhang mit Reparaturen, Fahrten zur Überprüfung von Tankfahrzeugen oder ihrer Tanks sowie Fahrten von Sachverständigen mit Tankfahrzeugen, die sie überprüfen sollen.
 
-Ursprüngliche Bezugnahme auf die nationalen Rechtsvorschriften: Anweisungen des Eidgenössischen Departements für Umwelt, Verkehr, Energie und Kommunikation (UVEK) vom 30. September 2008 betreffend die Beförderung gefährlicher Güter auf der Strasse.
+Ursprüngliche Bezugnahme auf die nationalen Rechtsvorschriften: Anhang 1 Absatz 8.2.1 der Verordnung vom 29. November 2002 über die Beförderung gefährlicher Güter auf der Strasse (SDR; SR *741.621*).
 
 Anmerkungen: In einigen Fällen enthalten liegengebliebene oder in Reparatur befindliche Fahrzeuge oder Tankfahrzeuge bei der technischen Inspektion oder bei der Vorbereitung dafür noch gefährliche Güter.
 
 Die Vorschriften unter 1.3 und 8.2.3 finden weiter Anwendung.
 
-Ablauf der Geltungsdauer: 1. Januar 2023.
+Ablauf der Geltungsdauer: 1. Januar 2029.
 
 ### 2. Schienenverkehr
 
@@ -1054,17 +1054,17 @@ Ausnahmeregelungen für die Schweiz auf der Grundlage von Artikel 6 Absatz 2 Buc
 
 RA-a-CH-1
 
-Betrifft: Transport von Dieselkraftstoff und Heizöl mit der UN-Nummer 1202 in Tankcontainern.
+Betrifft: Transport von Dieselkraftstoff mit der UN-Nummer 1202 in Tankcontainern.
 
 Bezugnahme auf Anhang II Abschnitt II.1 der Richtlinie: 6.8.
 
 Inhalt des Anhangs der Richtlinie: Vorschriften für den Bau von Tanks.
 
-Inhalt der nationalen Rechtsvorschriften: Tankcontainer, die nicht gemäss Abschnitt 6.8, jedoch im Einklang mit den nationalen Rechtsvorschriften gebaut sind und über einen Fassungsraum von höchstens 1210 l verfügen, mit denen Heizöl oder Dieselkraftstoff mit der UN-Nummer 1202 transportiert wird, sind zugelassen.
+Inhalt der nationalen Rechtsvorschriften: Tankcontainer, die nicht gemäss Abschnitt 6.8, jedoch im Einklang mit den nationalen Rechtsvorschriften gebaut sind, sind für den Transport von Dieselkraftstoff mit der UN-Nummer 1202 zugelassen.
 
-Ursprüngliche Bezugnahme auf die nationalen Rechtsvorschriften: Anhang der Verordnung des UVEK vom 3. Dezember 1996 über die Beförderung gefährlicher Güter mit der Eisenbahn und mit Seilbahnen (RSD; SR *742.401.6*) und Anhang 1 Kapitel 6.14 der Verordnung vom 29. November 2002 über die Beförderung gefährlicher Güter auf der Strasse (SDR; SR *741.621*).
+Ursprüngliche Bezugnahme auf die nationalen Rechtsvorschriften: Anhang 2.1 der Verordnung vom 31. Oktober 2012 über die Beförderung gefährlicher Güter mit Eisenbahnen und Seilbahnen (RSD; SR *742.412*) sowie die Absätze 1.6, 4.8 und 6.14 in Anhang 1 der Verordnung vom 29. November 2002 über die Beförderung gefährlicher Güter auf der Strasse (SDR; SR *741.621*).
 
-Ablauf der Geltungsdauer: 1. Januar 2023.
+Ablauf der Geltungsdauer: 1. Januar 2029.
 
 RA-a-CH-2
 
@@ -1076,11 +1076,11 @@ Inhalt des Anhangs der Richtlinie: Für das Beförderungsdokument vorgeschrieben
 
 Inhalt der nationalen Rechtsvorschriften: Es darf eine Sammelbezeichnung im Beförderungspapier verwendet werden, wenn diesem eine Liste mit den vorgeschriebenen Informationen (s. Bezugnahme oben) beigefügt wird.
 
-Ursprüngliche Bezugnahme auf die nationalen Rechtsvorschriften: Anhang der Verordnung des UVEK vom 3. Dezember 1996 über die Beförderung gefährlicher Güter mit der Eisenbahn und mit Seilbahnen (RSD; SR *742.401.6*).
+Ursprüngliche Bezugnahme auf die nationalen Rechtsvorschriften: Anhang 2.1 der Verordnung vom 31. Oktober 2012 über die Beförderung gefährlicher Güter mit Eisenbahnen und Seilbahnen (RSD; SR *742.412*).
 
-Ablauf der Geltungsdauer: 1. Januar 2023.
+Ablauf der Geltungsdauer: 1. Januar 2029.
 
-Richtlinie 2010/35/EU des Europäischen Parlaments und des Rates vom 16. Juni 2010 über ortsbewegliche Druckgeräte und zur Aufhebung der Richtlinien des Rates 76/767/EWG, 84/525/EWG, 84/526/EWG, 84/527/EWG und 1999/36/EG, ABl. L 165 vom 30.6.2010, S. 1.
+Richtlinie 2010/35/EU des Europäischen Parlaments und des Rates vom 16. Juni 2010 über ortsbewegliche Druckgeräte und zur Aufhebung der Richtlinien des Rates 76/ 767/EWG, 84/525/EWG, 84/526/EWG, 84/527/EWG und 1999/36/EG, ABl. L 165 vom 30.6.2010, S. 1.
 
 ### Abschnitt 4: Zugangs- und Transitrechte im Eisenbahnverkehr
 
@@ -1143,7 +1143,7 @@ In der Schweiz gelten die folgenden Sonderfälle nach Artikel 6 des Beschlusses 
 - – Permanenter Sonderfall CH-TSI ENE-001: Stromabnehmerbegrenzungslinie, referenzierter Artikel der TSI 4.2.10 (2)
 -
 
-  Für alle neuen, aktualisierten oder erneuerten Teilsysteme «Energie» im interoperablen Netz der Schweiz ist die Stromabnehmerbegrenzungslinie gemäss den Ausführungsbestimmungen zur Eisenbahnverordnung vom 15. Dezember 1983 (AB-EBV; SR *742.14**1.11*), Ausgabe 1.11.2020, zu Art. 18, Normalspur, AB 18, Bilder, Bild 12, und zu Art. 18/47, AB 18.2/47.2 Bezugslinie, Ziff. 14, wie folgt spezifiziert:
+  Für alle neuen, aktualisierten oder erneuerten Teilsysteme «Energie» im interoperablen Netz der Schweiz ist die Stromabnehmerbegrenzungslinie gemäss den Ausführungsbestimmungen zur Eisenbahnverordnung vom 15. Dezember 1983 (AB-EBV; SR *742.141.11*), Ausgabe 1.11.2020, zu Art. 18, Normalspur, AB 18, Bilder, Bild 12, und zu Art. 18/47, AB 18.2/47.2 Bezugslinie, Ziff. 14, wie folgt spezifiziert:
 
   - – EBV S1: maximale Wippenbreite 1450 mm mit isolierenden Endhörnern
   - – EBV S2: maximale Wippenbreite 1450 mm oder 1600 mm mit isolierenden Endhörnern
@@ -1207,23 +1207,22 @@ In der Schweiz gelten die folgenden nationalen Vorschriften nach Artikel 6 des B
 - – CH-TSI LOC&PAS-003 (Version 2.0, Juni 2021): Enge Radien r &lt; 250 m;
 - – CH-TSI LOC&PAS-006 (Version 2.0, Juni 2021): Zulassung von Fahrzeugen mit Neigeeinrichtung nach Reihe N;
 - – CH-TSI LOC&PAS-007 (Version 2.0, Juni 2021): Spurkranzschmierung;
-- – CH-TSI LOC&PAS-009 (Version 1.0, Juni 2015): Abgasemissionen thermischer Fahrzeuge (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) Nr. 2016/1628 vereinbar ist; sie ist vor dem 31. Dezember 2022 zu überprüfen);
+- – CH-TSI LOC&PAS-009 (Version 1.0, Juni 2015): Abgasemissionen thermischer Fahrzeuge (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) Nr. 2016/1628 vereinbar ist; sie ist vor dem 31. Dezember 2023 zu überprüfen);
 - – CH-TSI LOC&PAS-011 (Version 2.0, Juni 2021): Traktionsleistungsbegrenzung;
 - – CH-TSI LOC&PAS-012 (Version 1.0, Juli 2016): Admittanz;
 - – CH-TSI LOC&PAS-013 (Version 1.0, Juli 2016): Stromabnehmer/Fahrleitung-Interaktion;
 - – CH-TSI LOC&PAS-014*a* (Version 2.0, Juni 2021): Kompatibilität der Fahrzeugmerkmale mit Zugortungsanlagen/Gleisfreimeldeeinrichtungen auf der Basis von Gleisstromkreisen;
 - – CH-TSI LOC&PAS-014*b* (Version 2.0, Juni 2021): Kompatibilität der Fahrzeugmerkmale mit Zugortungsanlagen/Gleisfreimeldeeinrichtungen auf der Basis von Achszählern;
-- – CH-TSI LOC&PAS-019 (Version 2.0, Juni 2019): Das «non leading input signal» (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) Nr. 1302/2014 vereinbar ist; sie ist vor dem 31. Dezember 2022 zu überprüfen);
-- – CH-TSI LOC&PAS-020 (Version 2.0, Juni 2019): Das «sleeping input signal» bei Vielfachsteuerung (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) Nr. 1302/2014 vereinbar ist; sie ist vor dem 31. Dezember 2022 zu überprüfen);
+- – CH-TSI LOC&PAS-019 (Version 2.0, Juni 2019): Das «non leading input signal» (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) Nr. 1302/2014 vereinbar ist; sie ist vor dem 31. Dezember 2023 zu überprüfen);
+- – CH-TSI LOC&PAS-020 (Version 2.0, Juni 2019): Das «sleeping input signal» bei Vielfachsteuerung (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) Nr. 1302/2014 vereinbar ist; sie ist vor dem 31. Dezember 2023 zu überprüfen);
 - – CH-TSI LOC&PAS-022 (Version 2.1, Juni 2021): Rückstellung der Zwangsbremse;
-- – CH-TSI LOC&PAS-025 (Version 2.0, Juni 2019): Gehemmte Bedienbarkeit zum Abtrennen der ETCS-Fahrzeugausrüstung (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) Nr. 1302/2014 vereinbar ist; sie ist vor dem 31. Dezember 2022 zu überprüfen);
+- – CH-TSI LOC&PAS-025 (Version 2.0, Juni 2019): Gehemmte Bedienbarkeit zum Abtrennen der ETCS-Fahrzeugausrüstung (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) Nr. 1302/2014 vereinbar ist; sie ist vor dem 31. Dezember 2023 zu überprüfen);
 - – CH-TSI LOC&PAS-026 (Version 2.0, Juni 2019): Verbot von SIGNUM/ZUB auf Fahrzeugen mit ERTMS/ETCS Baseline 3;
-- – CH-TSI LOC&PAS-027 (Version 2.0, Juni 2019): Manuelle Funkfernsteuerung im Rangierbetrieb (Betriebsart «Shunting») (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) Nr. 1302/2014 vereinbar ist; sie ist vor dem 31. Dezember 2022 zu überprüfen);
+- – CH-TSI LOC&PAS-027 (Version 2.0, Juni 2019): Manuelle Funkfernsteuerung im Rangierbetrieb (Betriebsart «Shunting») (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) Nr. 1302/2014 vereinbar ist; sie ist vor dem 31. Dezember 2023 zu überprüfen);
 - – CH-TSI LOC&PAS-030 (Version 2.0, Juni 2021): Einsatz haftreibungsfreier Bremssysteme;
-- – CH-TSI LOC&PAS-031 (Version 2.1, November 2020): Sichere Traktionsabschaltung (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) Nr. 1302/2014 vereinbar ist; sie ist vor dem 31. Dezember 2022 zu überprüfen);
-- – CH-TSI LOC&PAS-035 (Version 2.1, November 2020): Ausreichende Bremsleistung bei Zwangsbremsung (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) Nr. 1302/2014 vereinbar ist; sie ist vor dem 31. Dezember 2022 zu überprüfen);
-- – CH-TSI LOC&PAS-036 (Version 2.0, Juni 2019): Fahrzeuge mit einem Führerpult für beide Fahrrichtungen (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) Nr. 1302/2014 vereinbar ist; sie ist vor dem 31. Dezember 2022 zu überprüfen);
-- – CH-TSI LOC&PAS-037 (Version 1.0, Juni 2019): ETCS Service Brake (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) Nr. 1302/2014 vereinbar ist; sie ist vor dem 31. Dezember 2022 zu überprüfen).
+- – CH-TSI LOC&PAS-031 (Version 2.1, November 2020): Sichere Traktionsabschaltung (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) Nr. 1302/2014 vereinbar ist; sie ist vor dem 31. Dezember 2023 zu überprüfen);
+- – CH-TSI LOC&PAS-035 (Version 2.1, November 2020): Ausreichende Bremsleistung bei Zwangsbremsung (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) Nr. 1302/2014 vereinbar ist; sie ist vor dem 31. Dezember 2023 zu überprüfen);
+- – CH-TSI LOC&PAS-036 (Version 2.0, Juni 2019): Fahrzeuge mit einem Führerpult für beide Fahrrichtungen (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) Nr. 1302/2014 vereinbar ist; sie ist vor dem 31. Dezember 2023 zu überprüfen).
 
 Verordnung (EU) Nr. 1303/2014 der Kommission vom 18. November 2014 über die technische Spezifikation für die Interoperabilität bezüglich der «Sicherheit in Eisenbahntunneln» im Eisenbahnsystem der Europäischen Union, ABl. L 356 vom 12.12.2014, S. 394; zuletzt geändert durch Durchführungsverordnung (EU) 2019/776 der Kommission vom 16. Mai 2019, ABl. L 139 I vom 27.5.2019, S. 108.
 
@@ -1244,25 +1243,23 @@ Verordnung (EU) 2016/919 der Kommission vom 27. Mai 2016 über die technische Sp
 In der Schweiz gelten die folgenden nationalen Vorschriften nach Artikel 6 des Beschlusses Nr. 2/2019 des Gemischten Ausschusses:
 
 - – CH-TSI CCS-003 (Version 2.0, Juni 2019): Aktivierung/Deaktivierung der Weiterleitung des Pakets 44 an SIGNUM/ZUB;
-- – CH-TSI CCS-006 (Version 2.1, November 2020): Verlust «non leading permitted» in der Betriebsart «Non Leading» (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) 2016/919 vereinbar ist; sie ist vor dem 31. Dezember 2022 zu überprüfen);
+- – CH-TSI CCS-006 (Version 2.1, November 2020): Verlust «non leading permitted» in der Betriebsart «Non Leading» (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) 2016/919 vereinbar ist; sie ist vor dem 31. Dezember 2023 zu überprüfen);
 - – CH-TSI CCS-007 (Version 3.0, November 2020): Bremskurvenvorgabe für ERTMS/ETCS Baseline 2;
 - – CH-TSI CCS-008 (Version 3.0, Juni 2021): Minimal implementierte Change Requests;
 - – CH-TSI CCS-011 (Version 2.0, Juni 2019): Euroloop-Funktionalität;
 - – CH-TSI CCS-015 (Version 2.0, Juni 2019): Gleichzeitiges Beherrschen von zwei GSM-R-Datenkanälen;
 - – CH-TSI CCS-016 (Version 3.0, Juni 2021): Verwendung länderspezifischer Projektierung und Funktionen;
 - – CH-TSI CCS-018 (Version 2.0, Juni 2019): Verbot von Level STM/NTC für SIGNUM/ZUB;
-- – CH-TSI CCS-019 (Version 3.0, November 2020): Übernahme und Anzeige von Zugdaten (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) 2016/919 vereinbar ist; sie ist vor dem 31. Dezember 2022 zu überprüfen);
+- – CH-TSI CCS-019 (Version 3.0, November 2020): Übernahme und Anzeige von Zugdaten (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) 2016/919 vereinbar ist; sie ist vor dem 31. Dezember 2023 zu überprüfen);
 - – CH-TSI CCS-022 (Version 2.0, Juni 2019): Rückwärtsfahren in der Betriebsart «Unfitted»;
 - – CH-TSI CCS-023 (Version 2.0, Juni 2019): Anzeige von Textmeldungen;
 - – CH-TSI CCS-024 (Version 3.0, Juni 2021): Zugdaten: NC\_TRAIN, M\_AXLELOAD, V\_MAXTRAIN;
-- – CH-TSI CCS-026 (Version 2.1, November 2020): Online-Monitoring der Streckenausrüstung auf Fahrzeugen (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) 2016/919 vereinbar ist; sie ist vor dem 31. Dezember 2022 zu überprüfen);
-- – CH-TSI CCS-032 (Version 2.1, November 2020): Einmalige Zugnummerneingabe für die ETCS-Fahrzeugausrüstung und das GSM-R-CabRadio (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) 2016/919 vereinbar ist; sie ist vor dem 31. Dezember 2022 zu überprüfen);
-- – CH-TSI CCS-033 (Version 1.1, November 2020): GSM-R Voice Funktionalitäten (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) 2016/919 vereinbar ist; sie ist vor dem 31. Dezember 2022 zu überprüfen);
+- – CH-TSI CCS-026 (Version 2.1, November 2020): Online-Monitoring der Streckenausrüstung auf Fahrzeugen (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) 2016/919 vereinbar ist; sie ist vor dem 31. Dezember 2023 zu überprüfen);
+- – CH-TSI CCS-032 (Version 2.1, November 2020): Einmalige Zugnummerneingabe für die ETCS-Fahrzeugausrüstung und das GSM-R-CabRadio (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) 2016/919 vereinbar ist; sie ist vor dem 31. Dezember 2023 zu überprüfen);
+- – CH-TSI CCS-033 (Version 1.1, November 2020): GSM-R Voice Funktionalitäten (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) 2016/919 vereinbar ist; sie ist vor dem 31. Dezember 2023 zu überprüfen);
 - – CH-TSI CCS-034 (Version 1.0, Juni 2019): Betriebsart «Non Leading»;
-- – CH-TSI CCS-035 (Version 1.0, Juni 2019): Am DMI anzuzeigende Texte *(Vorschrift, die möglicherweise nicht mit der Verordnung (EU) 2016/919 vereinbar ist;* sie ist vor dem 31. Dezember 2022 zu überprüfen*)*;
-- – CH-TSI CCS-038 (Version 1.1, November 2020): Offenbarung bei grosser Aufweitung des Odometrie-Vertrauensintervalls (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) 2016/919 vereinbar ist; sie ist vor dem 31. Dezember 2022 zu überprüfen);
-- – CH-CSM-RA-001 (Version 1.0, Juni 2019): Sicherheitsnachweiskonzept für die Erlangung einer ETCS-Zulassung in der Schweiz (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) 2016/919 vereinbar ist; sie ist vor dem 31. Dezember 2022 zu überprüfen);
-- – CH-CSM-RA-002 (Version 1.0, Juni 2019): Anforderungen bei Geschwindigkeiten grösser 200 km/h (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) 2016/919 vereinbar ist; sie ist vor dem 31. Dezember 2022 zu überprüfen).
+- – CH-TSI CCS-038 (Version 1.1, November 2020): Offenbarung bei grosser Aufweitung des Odometrie-Vertrauensintervalls (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) 2016/919 vereinbar ist; sie ist vor dem 31. Dezember 2023 zu überprüfen);
+- – CH-CSM-RA-001 (Version 1.0, Juni 2019): Sicherheitsnachweiskonzept für die Erlangung einer ETCS-Zulassung in der Schweiz (Vorschrift, die möglicherweise nicht mit der Verordnung (EU) 2016/919 vereinbar ist; sie ist vor dem 31. Dezember 2023 zu überprüfen).
 
 Durchführungsverordnung (EU) 2018/545 der Kommission vom 4. April 2018 über die praktischen Modalitäten für die Genehmigung für das Inverkehrbringen von Schienenfahrzeugen und die Genehmigung von Schienenfahrzeugtypen gemäss der Richtlinie (EU) 2016/797 des Europäischen Parlaments und des Rates, ABl. L 90 vom 6.4.2018, S. 66.
 
@@ -1309,7 +1306,7 @@ Anhang 2
 
 \3. Die von der Schweiz erhobene Höchstgebühr für Fahrzeuge mit einem tatsächlichen Gesamtgewicht in beladenem Zustand von mehr als 34 t und nicht mehr als 40 t, die über eine Genehmigung gemäss Artikel 8 Absatz 4 verfügen und eine alpenquerende Strecke von 300 km zurücklegen, beträgt 300 SFR, wenn die Fahrzeuge den EURO-Normen nicht entsprechen, 240 SFR, wenn die Fahrzeuge der EURO-Norm I entsprechen und 210 SFR, wenn die Fahrzeuge mindestens der EURO-Norm II entsprechen. Die Modalitäten für die Erhebung der Gebühren sind in Artikel 40 festgelegt.
 
-Anhang 3*[^t-3]*
+Anhang 3[^t-3]
 
 ## Europäische Gemeinschaft
 
@@ -1329,7 +1326,7 @@ Anhang 3*[^t-3]*
 
 [^annex3-lvlu1-1]: Nationalitätszeichen: (B) Belgien, (BG) Bulgarien, (CZ) Tschechische Republik (DK) Dänemark, (D) Deutschland, (EST) Estland, (IRL) Irland, (GR) Griechenland, (E) Spanien, (F) Frankreich, (HR) Kroatien, (I) Italien, (CY) Zypern, (LV) Lettland, (LT) Litauen, (L) Luxemburg, (H) Ungarn, (MT) Malta, (NL) Niederlande, (A) Österreich, (PL) Polen, (P) Portugal, (RO) Rumänien, (SLO) Slowenien, (SK) Slowakische Republik, (FIN) Finnland, (S) Schweden, (UK) Vereinigtes Königreich.
 
-## Lizenz Nr. ........ oder beglaubigte Kopie der Gemeinschaftslizenz Nr. ........
+## Lizenz Nr. …….. oder beglaubigte Kopie der Gemeinschaftslizenz Nr. ……..
 
 ## für den grenzüberschreitenden gewerblichen Güterkraftverkehr
 
@@ -1338,10 +1335,10 @@ Diese Lizenz berechtigt[^annex3-lvlu3-1]
 auf allen Verkehrsverbindungen für die Wegstrecken in der Gemeinschaft zum grenzüberschreitenden gewerblichen Güterkraftverkehr im Sinne der Verordnung (EG) Nr. 1072/2009 des Europäischen Parlaments und des Rates vom 21. Oktober 2009 über gemeinsame Regeln für den Zugang zum Markt des grenzüberschreitenden Güterkraftverkehrs und der allgemeinen Bestimmungen dieser Lizenz.
 
 <table>
-<tr><td colspan="2">Besondere Anmerkungen: ..................................................................................................................................... ..................................................................................................................................... .....................................................................................................................................</td></tr>
-<tr><td>Dieses Lizenz ist gültig vom .......................................................................</td><td>bis ....................................................</td></tr>
-<tr><td>Erteilt in ......................................................</td><td>am ............................................................</td></tr>
-<tr><td colspan="2">...................................................................................[^annex3-lvlu3-2]</td></tr>
+<tr><td colspan="2">Besondere Anmerkungen: ……………………………………………………………………………………………………………………. ……………………………………………………………………………………………………………………. …………………………………………………………………………………………………………………….</td></tr>
+<tr><td>Dieses Lizenz ist gültig vom ……………………………………………………………..</td><td>bis …………………………………………….</td></tr>
+<tr><td>Erteilt in ………………………………………………</td><td>am ……………………………………………………</td></tr>
+<tr><td colspan="2">………………………………………………………………………..[^annex3-lvlu3-2]</td></tr>
 </table>
 
 (b)
@@ -1383,7 +1380,7 @@ Der Lizenzinhaber ist verpflichtet, im Gebiet jedes Mitgliedstaats die im jeweil
 
 [^annex3-lvlu4-1]: «Fahrzeug» ist ein in einem Mitgliedstaat amtlich zugelassenes Kraftfahrzeug oder eine Fahrzeugkombination, bei der zumindest das Kraftfahrzeug in einem Mitgliedstaat amtlich zugelassen ist, sofern sie ausschliesslich für die Güterbeförderung verwendet werden.
 
-Anhang 4*[^t-4]*
+Anhang 4[^t-4]
 
 ## Beförderungen und Leerfahrten im Zusammenhang mit diesen Beförderungen, die von allen Lizenzregelungen und sonstigen Genehmigungspflichten befreit sind
 
@@ -1419,11 +1416,11 @@ Anhang 5
 <tr><td>Belgien</td><td>25.2.1975[^annex5-lvlu1-3]</td><td>24.7.1975</td><td>Art. 4 Ziff. 1 Bst. b Echter Dreiländerverkehr zugelassen, unechter Dreiländerverkehr untersagt.</td></tr>
 <tr><td>Dänemark</td><td>27.8.1981[^annex5-lvlu1-4]</td><td>25.3.1982</td><td>Art. 4 Ziff. 2 Fahrten mit Ausgangsort in einem Drittland und Bestimmungsort im Land der anderen Vertragspartei oder mit Ausgangsort im Land der anderen Vertragspartei und Bestimmungsort in einem Drittland bedürfen von Fall zu Fall der Genehmigung durch die andere Vertragspartei.</td></tr>
 <tr><td>Spanien</td><td>23.1.1963[^annex5-lvlu1-5]</td><td>21.8.1963</td><td>Protokoll vom 29. Oktober 1971 Echter Dreiländerverkehr zugelassen, unechter Dreiländerverkehr untersagt.</td></tr>
-<tr><td>Finnland</td><td>16.1.1980[^annex5-lvlu1-6]</td><td>28.5.1981</td><td>*Art. 6 Ziff. 2 und* *Protokoll* der Sitzung des Gemischten Ausschusses Finnland-Schweiz vom 23. und 24 Mai 1989 zu Punkt 2.2: echter und unechter Dreiländerverkehr sind mit Genehmigung zulässig.</td></tr>
-<tr><td>Frankreich</td><td>20.11.1951[^annex5-lvlu1-7]</td><td>1.4.1952</td><td>Nach nationalem Recht. *Schweizerische Verkeh**rsunternehmen:* echter und unechter Dreiländerverkehr in Frankreich untersagt.</td></tr>
+<tr><td>Finnland</td><td>16.1.1980[^annex5-lvlu1-6]</td><td>28.5.1981</td><td>*Art. 6 Ziff. 2 und Protokoll* der Sitzung des Gemischten Ausschusses Finnland-Schweiz vom 23. und 24 Mai 1989 zu Punkt 2.2: echter und unechter Dreiländerverkehr sind mit Genehmigung zulässig.</td></tr>
+<tr><td>Frankreich</td><td>20.11.1951[^annex5-lvlu1-7]</td><td>1.4.1952</td><td>Nach nationalem Recht. *Schweizerische Verkehrsunternehmen:* echter und unechter Dreiländerverkehr in Frankreich untersagt.</td></tr>
 <tr><td></td><td></td><td></td><td>*Französische Verkehrsunternehmen:* echter und unechter Dreiländerverkehr in der Schweiz zulässig.</td></tr>
 <tr><td>Griechenland</td><td>8.8.1970[^annex5-lvlu1-8]</td><td>6.9.1971</td><td>*Art. 3 und Protokoll* der Sitzung des Gemischten Ausschusses Schweiz-Griechenland vom 11. bis 13. Dezember 1972: echter und unechter Dreiländerverkehr zugelassen (Kontingentierte Sondergenehmigungen)</td></tr>
-<tr><td>Italien</td><td>–</td><td>–</td><td>Protokoll der Sitzung des Gemischten Ausschusses Schweiz-Italien vom 14. Juni 1993 *Schw**eizerische Verkehrsunternehmen:* Kontingentierte Genehmigungen für den echten Dreiländerverkehr. Der unechte Dreiländerverkehr ist untersagt. *Italienische Verkehrsunternehmen*: Echter Dreiländerverkehr ohne Genehmigung zulässig. Kontingentierte Genehmigungen für den unechten Dreiländerverkehr.</td></tr>
+<tr><td>Italien</td><td>–</td><td>–</td><td>Protokoll der Sitzung des Gemischten Ausschusses Schweiz-Italien vom 14. Juni 1993 *Schweizerische Verkehrsunternehmen:* Kontingentierte Genehmigungen für den echten Dreiländerverkehr. Der unechte Dreiländerverkehr ist untersagt. *Italienische Verkehrsunternehmen*: Echter Dreiländerverkehr ohne Genehmigung zulässig. Kontingentierte Genehmigungen für den unechten Dreiländerverkehr.</td></tr>
 <tr><td>Irland</td><td>–</td><td>–</td><td>Nach nationalem Recht. *Schweizerische Verkehrsunternehmen:* Echter und unechter Dreiländerverkehr nur mit Genehmigung der irischen Behörden zulässig. *Irische Verkehrsunternehmen:* Echter und unechter Dreiländerverkehr mit der Schweiz zulässig.</td></tr>
 <tr><td>Luxemburg</td><td>17.5.1972[^annex5-lvlu1-9]</td><td>1.6.1972</td><td>Das Abkommen gilt nur für die Personenbeförderung. Für die Güterbeförderung wurde keine Regelung getroffen. Der Dreiländerverkehr ist nach dem nationalen Recht zulässig (Anwendung des Grundsatzes der Gegenseitigkeit). Echter und unechter Dreiländerverkehr zulässig.</td></tr>
 <tr><td>Niederlande</td><td>20.5.1952[^annex5-lvlu1-10]</td><td>15.6.1952</td><td>Das Abkommen gilt nur für die Personenbeförderung. Für die Güterbeförderung wurde keine Regelung getroffen. Der Dreiländerverkehr ist nach dem nationalen Recht zulässig (Anwendung des Grundsatzes der Gegenseitigkeit). Echter und unechter Dreiländerverkehr zulässig.</td></tr>
@@ -1496,7 +1493,7 @@ Vom Sonntags- und Nachtfahrverbot sollen ausgenommen sein:
 
 Zur Vereinfachung der Genehmigungsverfahren können für eine beliebige Zahl von Fahrten Genehmigungen mit einer Geltungsdauer von bis zu zwölf Monaten erteilt werden, sofern alle diese Fahrten gleichartig sind.
 
-Anhang 7*[^t-5]*
+Anhang 7[^t-5]
 
 ## Grenzüberschreitender Personenverkehr mit Kraftomnibussen
 
