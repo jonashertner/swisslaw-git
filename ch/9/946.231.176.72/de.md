@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Verordnung vom 4. März 2022 über Massnahmen im Zusammenhang mit der Situation in der Ukraine
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: de
-version: 2022-12-16
+version: 2022-12-21
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20221216/de/xml/fedlex-data-admin-ch-eli-cc-2022-151-20221216-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20221216/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20221221/de/xml/fedlex-data-admin-ch-eli-cc-2022-151-20221221-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20221221/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen im Zusammenhang mit der Situation in der Ukraine
 
-vom 4. März 2022 (Stand am 16. Dezember 2022)
+vom 4. März 2022 (Stand am 21. Dezember 2022)
 
 Der Schweizerische Bundesrat,
 
@@ -43,8 +43,8 @@ In dieser Verordnung bedeuten:
 
   - 1\. Aktien und andere Wertpapiere, Wertrechte, Derivate und Bucheffekten, die Aktien oder Anteilen an Gesellschaften, Personengesellschaften oder anderen Rechtspersönlichkeiten gleichzustellen sind, sowie Aktienzertifikate,
   - 2\. Schuldverschreibungen oder andere verbriefte Schuldtitel, einschliesslich Aktienzertifikate, für solche Wertpapiere,
+  - 3\. sonstige Wertpapiere, Wertrechte, Derivate und Bucheffekten, die zum Kauf oder Verkauf solcher Effekten berechtigen oder zu einer Barzahlung führen, die anhand von Effekten bestimmt wird;
 
-- 3\. sonstige Wertpapiere, Wertrechte, Derivate und Bucheffekten, die zum Kauf oder Verkauf solcher Effekten berechtigen oder zu einer Barzahlung führen, die anhand von Effekten bestimmt wird;
 - h. *Geldmarktinstrumente:* üblicherweise auf dem Geldmarkt gehandelte Gattungen von Instrumenten, wie Schatzanweisungen, Einlagenzertifikate und Commercial Papers, mit Ausnahme von Zahlungsinstrumenten;
 - i.
 
@@ -1041,7 +1041,7 @@ Das SECO kann nach Rücksprache mit den zuständigen Stellen des EDA und des EFD
 
 **Verbote betreffend Dienstleistungen**[^28e-1]
 
-<sup>1</sup> 1 Die direkte und indirekte Erbringung von Dienstleistungen in den Bereichen Wirtschaftsprüfung, einschliesslich Abschlussprüfung, Buchführung und Steuerberatung, sowie Unternehmens- und Public-Relations-Beratung für die Regierung der Russischen Föderation oder in der Russischen Föderation niedergelassene juristische Personen, Unternehmen oder Organisationen ist verboten.
+<sup>1</sup> Die direkte und indirekte Erbringung von Dienstleistungen in den Bereichen Wirtschaftsprüfung, einschliesslich Abschlussprüfung, Buchführung und Steuerberatung, sowie Unternehmens- und Public-Relations-Beratung für die Regierung der Russischen Föderation oder in der Russischen Föderation niedergelassene juristische Personen, Unternehmen oder Organisationen ist verboten.
 
 <sup>1bis</sup> Die direkte und indirekte Erbringung von Dienstleistungen in den Bereichen Architektur und Ingenieurwesen, Rechtsberatung und IT-Beratung für die Regierung der Russischen Föderation oder in der Russischen Föderation niedergelassene juristische Personen, Unternehmen oder Organisationen ist verboten.[^28e-2]
 
@@ -1724,8 +1724,8 @@ Anhang 8[^t-8]
 
 [^annex8-lvlu1-1]
 
-[^t-8]: Bereinigt gemäss Ziff. I der V des WBF vom 15. März 2022 ([AS 2022 173](https://fedlex.data.admin.ch/eli/oc/2022/173)), vom 13. April 2022 ([AS 2022 237](https://fedlex.data.admin.ch/eli/oc/2022/237)), vom 3. Mai 2022 ([AS 2022 270](https://fedlex.data.admin.ch/eli/oc/2022/270)), Ziff. I Abs. 1 der V des WBF vom 10. Juni 2022 ([AS 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)), vom 28. Juli 2022 ([AS 2022 432](https://fedlex.data.admin.ch/eli/oc/2022/432)), Ziff. II Abs. 1 der V vom 3. Aug. 2022, in Kraft seit 3. Aug. 2022 um 18.00 Uhr ([AS 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)), Ziff. I der V des WBF vom 16. Aug. 2022 ([AS 2022 451](https://fedlex.data.admin.ch/eli/oc/2022/451)), vom 8. Sept. 2022 ([AS 2022 500](https://fedlex.data.admin.ch/eli/oc/2022/500)), vom 26. Sept. 2022 ([AS 2022 533](https://fedlex.data.admin.ch/eli/oc/2022/533)), Ziff. I Abs. 1 der V des WBF vom 11. Okt. 2022 ([AS 2022 578](https://fedlex.data.admin.ch/eli/oc/2022/578)), Ziff. I der V des WBF vom 31. Okt. 2022 ([AS 2022 631](https://fedlex.data.admin.ch/eli/oc/2022/631)) und Ziff. I Abs. 1 der V des WBF vom 7. Dez. 2022, in Kraft seit 8. Dez. 2022 um 18.00 Uhr ([AS 2022 780](https://fedlex.data.admin.ch/eli/oc/2022/780)).
-[^annex8-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/ eli/oc/2022/780](https://fedlex.data.admin.ch/eli/oc/2022/780)&gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-8]: Bereinigt gemäss Ziff. I der V des WBF vom 15. März 2022 ([AS 2022 173](https://fedlex.data.admin.ch/eli/oc/2022/173)), vom 13. April 2022 ([AS 2022 237](https://fedlex.data.admin.ch/eli/oc/2022/237)), vom 3. Mai 2022 ([AS 2022 270](https://fedlex.data.admin.ch/eli/oc/2022/270)), Ziff. I Abs. 1 der V des WBF vom 10. Juni 2022 ([AS 2022 347](https://fedlex.data.admin.ch/eli/oc/2022/347)), vom 28. Juli 2022 ([AS 2022 432](https://fedlex.data.admin.ch/eli/oc/2022/432)), Ziff. II Abs. 1 der V vom 3. Aug. 2022, in Kraft seit 3. Aug. 2022 um 18.00 Uhr ([AS 2022 436](https://fedlex.data.admin.ch/eli/oc/2022/436)), Ziff. I der V des WBF vom 16. Aug. 2022 ([AS 2022 451](https://fedlex.data.admin.ch/eli/oc/2022/451)), vom 8. Sept. 2022 ([AS 2022 500](https://fedlex.data.admin.ch/eli/oc/2022/500)), vom 26. Sept. 2022 ([AS 2022 533](https://fedlex.data.admin.ch/eli/oc/2022/533)), Ziff. I Abs. 1 der V des WBF vom 11. Okt. 2022 ([AS 2022 578](https://fedlex.data.admin.ch/eli/oc/2022/578)), Ziff. I der V des WBF vom 31. Okt. 2022 ([AS 2022 631](https://fedlex.data.admin.ch/eli/oc/2022/631)), Ziff. I Abs. 1 der V des WBF vom 7. Dez. 2022 ([AS 2022 780](https://fedlex.data.admin.ch/eli/oc/2022/780)) und Ziff. I der V des WBF vom 20. Dez. 2022, in Kraft seit 21. Dez. 2022 um 18.00 Uhr ([AS 2022 833](https://fedlex.data.admin.ch/eli/oc/2022/833)).
+[^annex8-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2022/833](https://fedlex.data.admin.ch/eli/oc/2022/833) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 9
 
