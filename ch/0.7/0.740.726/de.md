@@ -3,11 +3,11 @@ sr: "0.740.726"
 title: Beschluss Nr. 2/2019 vom 13. Dezember 2019 des Gemischten Landverkehrsausschusses Gemeinschaft/Schweiz zu den Übergangsmassnahmen zur Aufrechterhaltung eines reibungslosen Eisenbahnverkehrs zwischen der Schweiz und der Europäischen Union
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/53"
 language: de
-version: 2021-12-17
+version: 2022-12-21
 adopted: 2019-12-13
 in_force: 2019-12-13
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/53/20211217/de/xml/fedlex-data-admin-ch-eli-cc-2020-53-20211217-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/53/20211217/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/53/20221221/de/xml/fedlex-data-admin-ch-eli-cc-2020-53-20221221-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/53/20221221/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ Angenommen am 13. Dezember 2019
 
 In Kraft getreten für die Schweiz am 13. Dezember 2019
 
-(Stand am 17. Dezember 2021)
+(Stand am 21. Dezember 2022)
 
 Originaltext
 
@@ -140,10 +140,10 @@ Die Kommission veröffentlicht die Liste der notifizierten schweizerischen Stell
 
 <sup>2.</sup> Die Schweiz notifiziert der Agentur die in Absatz 1 genannten nationalen Vorschriften zwecks Veröffentlichung über das IT-System nach Artikel 27 der Verordnung (EU) 2016/796.
 
-<sup>3.</sup> Anhang 1 des Abkommens führt die nationalen Vorschriften und Sonderfälle auf, die möglicherweise nicht mit dem Recht der Europäischen Union vereinbar sind. Ist die Vereinbarkeit mit dem Unionsrecht bis zum 31. Dezember 2022 nicht hergestellt, dürfen diese nationalen Vorschriften und Sonderfälle nicht mehr angewandt werden, es sei denn, der Gemeinsame Ausschuss beschliesst etwas anderes.[^6-2]
+<sup>3.</sup> Anhang 1 des Abkommens führt die nationalen Vorschriften und Sonderfälle auf, die möglicherweise nicht mit dem Recht der Europäischen Union vereinbar sind. Ist die Vereinbarkeit mit dem Unionsrecht bis zum 31. Dezember 2023 nicht hergestellt, dürfen diese nationalen Vorschriften und Sonderfälle nicht mehr angewandt werden, es sei denn, der Gemeinsame Ausschuss beschliesst etwas anderes.[^6-2]
 
 [^6-1]: Fassung gemäss Art. 2 des Beschlusses 2/2020 des Gemischten Landverkehrsausschusses vom 11. Dez. 2020, in Kraft für die Schweiz seit 11. Dez. 2020 ([AS 2021 14](https://fedlex.data.admin.ch/eli/oc/2021/14)).
-[^6-2]: Fassung gemäss Art. 2 des Beschlusses 2/2021 des Gemischten Landverkehrsausschusses Gemeinschaft/Schweiz vom 17. Dez. 2021, in Kraft für die Schweiz seit 17. Dez. 2021 ([AS 2022 93](https://fedlex.data.admin.ch/eli/oc/2022/93)).
+[^6-2]: Fassung gemäss Art. 2 des Beschlusses 1/2022 des Gemischten Landverkehrsausschusses Gemeinschaft/Schweiz vom 21. Dez. 2022, in Kraft für die Schweiz seit 21. Dez. 2022 ([AS 2023 15](https://fedlex.data.admin.ch/eli/oc/2023/15)).
 
 #### Art. 7
 
@@ -164,7 +164,7 @@ Die Kommission veröffentlicht die Liste der notifizierten schweizerischen Stell
 
 Dieser Beschluss tritt am 13. Dezember 2019 in Kraft.
 
-Die Artikel 2, 3, 4 und 5 gelten bis zum 31. Dezember 2022.[^8-1]
+Die Artikel 2, 3, 4 und 5 gelten bis zum 31. Dezember 2023.[^8-1]
 
 Brüssel, 13. Dezember 2019
 
@@ -172,10 +172,10 @@ Brüssel, 13. Dezember 2019
 <tr><td>Für die Europäische Union Die Vorsitzende: Elisabeth Werner</td><td>Für die Schweizerische Eidgenossenschaft Der Chef der schweizerischen Delegation: Peter Füglistaler</td></tr>
 </table>
 
-[^8-1]: Fassung gemäss Art. 3 des Beschlusses 2/2021 des Gemischten Landverkehrsausschusses Gemeinschaft/Schweiz vom 17. Dez. 2021, in Kraft für die Schweiz seit 17. Dez. 2021 ([AS 2022 93](https://fedlex.data.admin.ch/eli/oc/2022/93)).
+[^8-1]: Fassung gemäss Art. 2 des Beschlusses 1/2022 des Gemischten Landverkehrsausschusses Gemeinschaft/Schweiz vom 21. Dez. 2022, in Kraft für die Schweiz seit 21. Dez. 2022 ([AS 2023 15](https://fedlex.data.admin.ch/eli/oc/2023/15)).
 
 Anhang 1
 
-...[^t-1]
+…[^t-1]
 
 [^t-1]: Der Inhalt des Anhangs wurde in [SR 0.740.72](https://fedlex.data.admin.ch/eli/cc/2002/257)eingefügt und kann auch unter [AS 2020 287](https://fedlex.data.admin.ch/eli/oc/2020/53)konsultiert werden.
