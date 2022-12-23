@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modifica dell’ordinanza sugli investimenti collettivi
 document: Progetto posto in consultazione
 language: it
