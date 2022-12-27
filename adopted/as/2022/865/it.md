@@ -1,0 +1,522 @@
+---
+status: "beschlossen, noch nicht in Kraft"
+reference: AS 2022 865
+title: Ordinanza del DATEC del 24 novembre 2022 concernente l’autorizzazione speciale per l’impiego di erbicidi in settori particolari (OAS-SP)
+language: it
+adopted: 2022-11-24
+published: 2022-12-28
+in_force: ["2026-01-01"]
+url: "https://www.fedlex.admin.ch/eli/oc/2022/865/it"
+---
+
+> Riproduzione non ufficiale della Raccolta ufficiale (RU). L’atto è pubblicato ma non ancora in vigore; fa stato la pubblicazione nella RU (art. 15 LPubb, RS 170.512).
+
+# Ordinanza del DATEC concernente l’autorizzazione speciale per l’impiego di erbicidi in settori particolari
+
+(OAS-SP)
+
+del 24 novembre 2022
+
+Il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni (DATEC),
+
+visti gli articoli 7 capoverso 3, 8 capoversi 1 e 2, 9 capoverso 2, 10 capoverso 2, 12 capoversi 3–6, 12*a* nonché 23 capoverso 1 dell’ordinanza del 18 maggio 2005[^ingress-1] sulla riduzione dei rischi inerenti ai prodotti chimici (ORRPChim); visti gli articoli 1, 2 capoversi 1, 3, 4 e 5 dell’ordinanza del 16 novembre 2022[^ingress-2] concernente il registro delle autorizzazioni speciali per l’impiego di prodotti fitosanitari
+
+ordina:
+
+[^ingress-1]: [RS 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
+[^ingress-2]: [RS 814.88](https://fedlex.data.admin.ch/eli/cc/2022/792)
+
+## Sezione 1: Campo d’applicazione dell’autorizzazione speciale e condizioni per il rilascio
+
+#### Art. 1
+
+**Campo d’applicazione dell’autorizzazione speciale**
+
+<sup>1</sup>
+
+L’autorizzazione speciale disciplinata dalla presente ordinanza autorizza il suo titolare a impiegare, a titolo professionale o commerciale, erbicidi secondo l’articolo 2 capoverso 1 dell’ordinanza del 12 maggio 2010[^1-1] sui prodotti fitosanitari per il trattamento di singole piante in settori particolari (autorizzazione speciale Settori particolari), per esempio per:
+
+- a. la manutenzione di infrastrutture ferroviarie e stradali, terreni militari e l’area esterna di edifici residenziali o di servizi nonché di edifici commerciali, industriali o pubblici;
+- b. l’agricoltura.
+
+<sup>2</sup> L’autorizzazione speciale consente inoltre di istruire altre persone per attività di cui al capoverso 1.
+
+<sup>3</sup> Le persone che non possiedono un’autorizzazione speciale possono impiegare erbicidi soltanto se sono o sono state preliminarmente istruite sul posto dal titolare di un’autorizzazione speciale.
+
+<sup>4</sup>
+
+Una persona è considerata istruita ai sensi del capoverso 3 se ha ottenuto almeno le seguenti informazioni sugli erbicidi che deve impiegare:
+
+- a. nomi e impieghi previsti degli erbicidi;
+- b. modi e condizioni d’uso;
+- c. pericoli legati agli erbicidi utilizzati, misure precauzionali e restrizioni applicabili;
+- d. persona da contattare in caso di domande o di emergenza.
+
+<sup>5</sup> Il titolare di un’autorizzazione speciale che istruito una persona è responsabile delle azioni di quest’ultima. La violazione delle prescrizioni della legislazione sulla protezione dell’ambiente e della salute da parte della persona istruita sarà considerata come una violazione da parte del titolare dell’autorizzazione speciale che ha impartito l’istruzione con le conseguenze che ne derivano ai sensi dell’articolo 11 ORRPChim.
+
+[^1-1]: [RS 916.161](https://fedlex.data.admin.ch/eli/cc/2010/340)
+
+#### Art. 2
+
+**Competenze e conoscenze**
+
+<sup>1</sup> L’autorizzazione speciale è rilasciata alle persone in possesso delle competenze e delle conoscenze richieste secondo l’allegato 1.
+
+<sup>2</sup> Le competenze e conoscenze richieste sono convalidate mediante il superamento di un esame secondo l’articolo 3.
+
+<sup>3</sup> Per le autorizzazioni speciali rilasciate da uno Stato membro dell’Unione europea o dell’Associazione europea di libero scambio (UE/AELS) si applicano gli articoli 8 capoverso 2 e 8*a* ORRPChim. Gli emolumenti per l’organizzazione di misure di compensazione sono a carico del titolare dell’autorizzazione speciale conformemente all’allegato dell’ordinanza del 18 maggio 2005[^2-1] sugli emolumenti in materia di prodotti chimici.
+
+[^2-1]: [RS 813.153.1](https://fedlex.data.admin.ch/eli/cc/2005/469)
+
+## Sezione 2: Esame e formazione continua
+
+#### Art. 3
+
+**Esame**
+
+<sup>1</sup> L’esame permette di controllare che i candidati possiedano le competenze e le conoscenze richieste secondo l’allegato 1 per ottenere un’autorizzazione speciale.
+
+<sup>2</sup> L’esame è disciplinato nell’allegato 2.
+
+#### Art. 4
+
+**Formazione continua**
+
+Il contenuto e l’organizzazione della formazione continua secondo l’articolo 10 ORRPChim, i diritti e i doveri dei titolari delle autorizzazioni speciali e degli organi incaricati della formazione continua sono disciplinati nell’allegato 3.
+
+## Sezione 3: Compiti dei servizi competenti
+
+#### Art. 5
+
+**Ufficio federale dell’ambiente**
+
+L’Ufficio federale dell’ambiente (UFAM) ha segnatamente i compiti e le competenze seguenti:
+
+- a. istituisce una commissione d’esame e una commissione per il rilascio delle autorizzazioni speciali;
+- b. riconosce gli organi incaricati degli esami e della formazione continua previa consultazione della commissione per il rilascio delle autorizzazioni speciali;
+- c. tiene e pubblica un elenco degli organi incaricati degli esami e della formazione continua;
+- d. approva il catalogo degli esercizi d’esame secondo l’allegato 2 numero 3.3, proposto dalla commissione d’esame, previa consultazione della commissione per il rilascio delle autorizzazioni speciali;
+- e. rilascia le autorizzazioni speciali alle persone che hanno superato l’esame nonché ai titolari di autorizzazioni UE/AELS che abbiano convalidato le proprie qualifiche professionali secondo l’articolo 2 capoverso 3;
+- f. esercita la vigilanza sulla commissione d’esame e sugli organi incaricati degli esami e della formazione continua ed esige misure correttive sulla base di tale vigilanza;
+- g. sceglie ogni cinque anni tra gli argomenti indicati nell’elenco dell’allegato 1 numero 2 quelli che devono essere insegnati nella formazione continua su argomenti obbligatori secondo l’allegato 3, previa consultazione della commissione d’esame e della commissione per il rilascio delle autorizzazioni speciali.
+
+#### Art. 6
+
+**Commissione d’esame**
+
+<sup>1</sup>
+
+Le organizzazioni e le autorità seguenti sono rappresentate da un delegato nella commissione d’esame:
+
+- a. sanu future learning sa (sanu);
+- b. la Segreteria di Stato dell’economia;
+- c. le autorità esecutive cantonali;
+- d. le Ferrovie federali svizzere;
+- e. l’organizzazione del mondo del lavoro delle professioni agricole speciali, delle professioni legate alla trasformazione di prodotti agricoli e delle professioni equestri (oml AgriAliForm);
+- f. l’Union suisse des services des parcs et promenades;
+- g. il rappresentante delle associazioni ambientali designato dall’UFAM.
+
+<sup>2</sup> La sanu presiede la commissione.
+
+<sup>3</sup> Il quorum è raggiunto se è presente la maggioranza dei membri. La commissione d’esame prende le decisioni a maggioranza semplice dei membri presenti, ciascuno dei quali dispone di un voto. Il voto del presidente è decisivo in caso di parità dei voti.
+
+<sup>4</sup>
+
+La commissione d’esame ha i compiti e le competenze seguenti:
+
+- a. controlla che siano offerti corsi di preparazione agli esami che soddisfano la domanda;
+- b. fornisce consulenza all’UFAM per l’aggiornamento degli allegati, se del caso;
+- c. propone un catalogo di esercizi per gli esami secondo l’allegato 2 numero 3.4;
+- d. sceglie ogni cinque anni quali obiettivi indicati nell’allegato 1 numero 2 debbano essere insegnati durante la formazione continua su argomenti facoltativi secondo l’allegato 3.
+
+<sup>5</sup>
+
+La sanu assume i compiti e le competenze seguenti all’interno della commissione d’esame:
+
+- a. sostiene la commissione d’esame nei suoi compiti amministrativi e nell’organizzazione delle sue riunioni;
+- b. coordina gli esami;
+- c. redige annualmente un rapporto destinato all’UFAM sulle attività della commissione d’esame, degli organi incaricati degli esami e della formazione continua.
+
+#### Art. 7
+
+**Organi incaricati degli esami**
+
+Gli organi incaricati degli esami hanno i compiti e le competenze seguenti:
+
+- a. tengono gli esami secondo l’allegato 2;
+- b. offrono corsi di preparazione agli esami, di concerto con la commissione d’esame;
+- c. designano gli esaminatori e li formano per svolgere i loro compiti;
+- d. conservano le prove d’esame per almeno cinque anni.
+
+#### Art. 8
+
+**Organi incaricati della formazione continua**
+
+<sup>1</sup>
+
+Un organo è riconosciuto come organo incaricato della formazione continua se soddisfa le condizioni seguenti:
+
+- a. non persegue alcun interesse particolare legato alla vendita o alla promozione dei prodotti fitosanitari;
+- b. è una persona giuridica con sede in Svizzera;
+- c. propone le formazioni continue in presenza e alle stesse condizioni a tutte le persone interessate;
+- d. propone le formazioni continue secondo l’allegato 3;
+- e. ha accesso a un’infrastruttura e a strumenti d’insegnamento adeguati e ricorre a insegnanti che possiedono le qualifiche didattiche e specifiche appropriate.
+
+<sup>2</sup> Gli organi che dispongono di un sistema di garanzia della qualità nell’ambito della formazione e gli organi cantonali o federali che offrono formazioni continue devono fornire all’UFAM le informazioni di cui all’articolo 4 capoverso 1 dell’ordinanza del 16 novembre 2022 concernente il registro delle autorizzazioni speciali per l’impiego di prodotti fitosanitari Sono esentati dal presentare le prove delle condizioni richieste di cui al capoverso 1.
+
+<sup>3</sup>
+
+Gli organi incaricati della formazione continua hanno i compiti e le competenze seguenti:
+
+- a. garantiscono un’organizzazione e un insegnamento impeccabili;
+- b. informano immediatamente l’UFAM se una delle condizioni indicate al capoverso 1 non è più soddisfatta;
+- c. propongono formazioni continue su argomenti obbligatori;
+- d. tengono aggiornato il programma di formazione continua e comunicano le relative offerte secondo l’allegato 3 numero 1;
+- e. eseguono un controllo delle presenze e indicano nel Registro Autorizzazioni speciali PF le informazioni sulle formazioni continue seguite da ogni partecipante entro trenta giorni lavorativi successivi alla formazione;
+- f. conservano per cinque anni tutti i dati di cui all’articolo 4 capoverso 2 dell’ordinanza del 16 novembre 2022 concernente il registro delle autorizzazioni speciali per l’impiego di prodotti fitosanitari.
+
+#### Art. 9
+
+**Commissione per il rilascio delle autorizzazioni speciali**
+
+<sup>1</sup>
+
+Nella commissione per il rilascio delle autorizzazioni speciali sono rappresentati da un delegato le autorità seguenti:
+
+- a. l’UFAM;
+- b. l’Ufficio federale della sanità pubblica;
+- c. l’Ufficio federale della sicurezza alimentare e di veterinaria;
+- d. la Segreteria di Stato dell’economia;
+- e. le autorità esecutive cantonali.
+
+<sup>2</sup> L’UFAM presiede la commissione.
+
+<sup>3</sup> La commissione per il rilascio delle autorizzazioni speciali fornisce consulenza all’UFAM sulle questioni concernenti l’esecuzione della presente ordinanza.
+
+## Sezione 4: Emolumenti
+
+#### Art. 10
+
+<sup>1</sup> Gli emolumenti riscossi per gli esami sono fissati nell’allegato 2 numero 2.3, mentre gli emolumenti riscossi per la formazione continua sono fissati nell’allegato 3 numero 6.
+
+<sup>2</sup> Gli emolumenti prelevati dall’UFAM nell’ambito dell’esecuzione della presente ordinanza sono fissati secondo l’ordinanza del 18 maggio 2005[^10-1] sugli emolumenti in materia di prodotti chimici. L’emolumento per il rilascio e la proroga di un’autorizzazione speciale è a carico del titolare dell’autorizzazione.
+
+<sup>3</sup> L’autorizzazione speciale è rilasciata e rinnovata solo dopo il pagamento dell’emolumento.
+
+[^10-1]: [RS 813.153.1](https://fedlex.data.admin.ch/eli/cc/2005/469)
+
+## Sezione 5: Disposizioni finali
+
+#### Art. 11
+
+**Abrogazione di un altro atto**
+
+<sup>RU 2005 3477; 2007 357; 2015 2005</sup> L’ordinanza del DATEC del 28 giugno 2005 concernente l’autorizzazione speciale per l’impiego di prodotti fitosanitari in settori particolari è abrogata.
+
+#### Art. 12
+
+**Disposizione transitoria**
+
+Ai titolari di un’autorizzazione speciale per l’impiego di prodotti fitosanitari in settori particolari secondo il diritto previgente è rilasciata un’autorizzazione speciale secondo l’articolo 23*a* capoverso 2 ORRPChim sia per l’impiego di prodotti fitosanitari nell’orticoltura sia per l’impiego di erbicidi nei settori particolari.
+
+#### Art. 13
+
+**Entrata in vigore**
+
+La presente ordinanza entra in vigore come segue:
+
+- a. gli articoli 1–3, 5–7, 9–12: il 1° gennaio 2026;
+- b. gli articoli 4 e 8: il 1° gennaio 2027.
+
+<table>
+<tr><td>24 novembre 2022</td><td>Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni: Simonetta Sommaruga</td></tr>
+</table>
+
+Allegato 1
+
+(art. 2 cpv. 1 e 3 cpv. 1)
+
+## Competenze e conoscenze richieste per l’ottenimento dell’autorizzazione speciale
+
+Chiunque intenda ottenere un’autorizzazione speciale secondo la presente ordinanza deve possedere le competenze e le conoscenze seguenti.
+
+### 1. Classificazione dei livelli di competenze e conoscenze
+
+I livelli di competenze e conoscenze richiesti sono espressi secondo la tassonomia di Bloom:
+
+<table>
+<tr><th>Livello</th><th>Definizione</th><th>Descrizione del livello richiesto</th></tr>
+<tr><td>C1</td><td>Sapere</td><td>I candidati all’autorizzazione speciale ripetono le nozioni apprese e le richiamano in situazioni simili.</td></tr>
+<tr><td>C2</td><td>Comprendere</td><td>I candidati all’autorizzazione speciale spiegano o descrivono le nozioni apprese con parole proprie.</td></tr>
+<tr><td>C3</td><td>Applicare</td><td>I candidati all’autorizzazione speciale applicano le competenze o le tecnologie apprese in diverse situazioni.</td></tr>
+<tr><td>C4</td><td>Analizzare</td><td>I candidati all’autorizzazione speciale analizzano una situazione complessa scomponendola in singoli elementi e individuando la relazione fra gli elementi e le caratteristiche strutturali.</td></tr>
+<tr><td>C5</td><td>Sintetizzare</td><td>I candidati all’autorizzazione speciale combinano i diversi elementi di una situazione e li riuniscono in un insieme.</td></tr>
+<tr><td>C6</td><td>Valutare</td><td>I candidati all’autorizzazione speciale valutano una situazione più o meno complessa in base a determinati criteri.</td></tr>
+</table>
+
+### 2. Competenze e conoscenze richieste
+
+Le competenze e conoscenze richieste sono definite dagli obiettivi seguenti:
+
+### 1 Effetti dei prodotti fitosanitari negli ecosistemi
+
+<table>
+<tr><td>1.1 Sviluppare la propria sensibilità all’importanza della biodiversità e degli ecosistemi intatti</td></tr>
+<tr><td>1.1.1 Spiegare l’importanza della biodiversità con esempi di organismi ausiliari (C2)</td></tr>
+<tr><td>1.1.2 Dimostrare gli effetti dell’assenza di determinate specie nella catena alimentare con esempi (C2)</td></tr>
+</table>
+
+<table>
+<tr><td>1.2</td><td>Sviluppare la consapevolezza dei pericoli e degli effetti secondari dei prodotti fitosanitari</td></tr>
+<tr><td colspan="2">1.2.1 Elencare i rischi ambientali per l’acqua e gli organismi non bersaglio dovuti all’impiego di prodotti fitosanitari (C1)</td></tr>
+<tr><td colspan="2">1.2.2 Spiegare le vie di immissione nelle acque nonché le situazioni in cui l’impiego di prodotti fitosanitari danneggia numerosi organismi non bersaglio (C2)</td></tr>
+<tr><td colspan="2">1.2.3 Distinguere gli effetti cronici e gli effetti acuti dei prodotti fitosanitari sugli organismi e descrivere i pericoli legati all’impiego di prodotti fitosanitari che possono portare a una contaminazione cronica o acuta degli organismi (C2)</td></tr>
+<tr><td colspan="2">1.2.4 Rilevare sulle etichette o nella documentazione appropriata le informazioni sui pericoli e sulle condizioni da rispettare e spiegare le restrizioni d’impiego di un prodotto a scelta (C3)</td></tr>
+<tr><td colspan="2">1.2.5 Rilevare le condizioni e restrizioni d’impiego dei prodotti fitosanitari da rispettare per proteggere le api e gli organismi non bersaglio; descriverne l’attuazione in situazioni concrete (C3)</td></tr>
+<tr><td colspan="2">1.2.6 Spiegare con esempi il meccanismo di formazione delle resistenze ai prodotti fitosanitari e proporre misure per evitare tali resistenze (C3)</td></tr>
+<tr><td colspan="2">1.2.7 Spiegare l’importanza dell’accumulo e della degradabilità dei prodotti fitosanitari (bilancio ambientale) (C2)</td></tr>
+</table>
+
+### 2 Leggi e ordinanze
+
+<table>
+<tr><td>2.1 Applicare le leggi e ordinanze sulla sicurezza sul posto di lavoro e sulla protezione dell’ambiente e della salute</td></tr>
+<tr><td>2.1.1 Descrivere la legislazione in materia di protezione dell’ambiente e della salute e di sicurezza sul posto di lavoro, rilevare sulle etichette o nella documentazione appropriata le disposizioni concernenti l’impiego dei prodotti fitosanitari e applicarle correttamente (C3)</td></tr>
+<tr><td>2.1.2 Spiegare e rispettare le prescrizioni concernenti le zone di protezione delle acque, le acque e le superfici impermeabilizzate nonché altre restrizioni d’impiego possibili (C3)</td></tr>
+<tr><td>2.1.3 Elencare i servizi specializzati competenti per le questioni giuridiche e tecniche nonché per gli incidenti (C1)</td></tr>
+<tr><td>2.1.4 Spiegare le nozioni seguenti: obbligo di diligenza, principio di precauzione, principio di causalità e costi esterni nell’impiego di prodotti fitosanitari (C2.</td></tr>
+</table>
+
+### 3 Sicurezza sul posto di lavoro e protezione sanitaria
+
+<table>
+<tr><td>3.1 Identificare e prevenire i rischi d’esposizione legati al deposito, all’impiego e all’eliminazione dei prodotti fitosanitari</td></tr>
+<tr><td>3.1.1 Descrivere le vie d’assorbimento nel corpo umano (via orale, via cutanea, inalazione) e gli eventuali danni per la salute (C2)</td></tr>
+<tr><td>3.1.2 Spiegare la differenza tra rischio acuto e rischio cronico (C2)</td></tr>
+<tr><td>3.1.3 Indicare i rischi dovuti all’esposizione ai prodotti fitosanitari sul posto di lavoro e seguire le prescrizioni (C3)</td></tr>
+<tr><td>3.1.4 Valutare la pericolosità delle sostanze indicate sulle etichette e sui foglietti illustrativi e adottare le misure di protezione prescritte (C3)</td></tr>
+</table>
+
+<table>
+<tr><td>3.2 Adottare misure di prevenzione per evitare gli incidenti, i danni alla salute e le intossicazioni di persone, animali e ambiente</td></tr>
+<tr><td>3.2.1 Indicare e attuare le misure secondo il principio S.T.O.P. (Sostituzione della sostanza pericolosa, misure Tecniche, misure Organizzative, misure e dispositivi di Protezione individuale DPI) (C3)</td></tr>
+<tr><td>3.2.2 Immagazzinare i prodotti fitosanitari in luoghi adeguati e protetti e utilizzare o eliminare nel rispetto delle regole i resti di prodotti (C3)</td></tr>
+<tr><td>3.2.3 Indicare e applicare le precauzioni d’impiego dei prodotti fitosanitari, segnatamente immagazzinamento e preparazione, spargimento e applicazione, manutenzione e lavori successivi (C3)</td></tr>
+</table>
+
+<table>
+<tr><td>3.3 Utilizzare il dispositivo di sicurezza durante l’impiego dei prodotti fitosanitari per proteggere la salute</td></tr>
+<tr><td>3.3.1 Scegliere e utilizzare il dispositivo di sicurezza corretto durante l’impiego dei prodotti chimici per proteggere la salute (pelle, occhi, vie respiratorie) (C3)</td></tr>
+<tr><td>3.3.2 Assicurare la manutenzione, custodire ed eliminare i dispositivi di prote­zione nel rispetto delle regole (C3)</td></tr>
+</table>
+
+<table>
+<tr><td>3.4 Attuare la prevenzione degli incidenti e l’organizzazione dei soccorsi</td></tr>
+<tr><td>3.4.1 In caso di incidente legato a prodotti chimici, applicare la regola ORA (Osservare, Riflettere, Agire), prestare le prime cure conformemente alla scheda d’emergenza e ricorrere ai mezzi adeguati (C3)</td></tr>
+<tr><td>3.4.2 Scegliere e utilizzare gli agenti estintori specifici per i prodotti fitosanitari per combattere gli incendi (C3)</td></tr>
+</table>
+
+### 4 Misure fitosanitarie preventive e alternative
+
+<table>
+<tr><td>4.1 Applicare le misure preventive e la documentazione appropriata</td></tr>
+<tr><td>4.1.1 Indicare le misure preventive che agiscono contro l’invasione delle malerbe (C2)</td></tr>
+<tr><td>4.1.2 Identificare le malerbe più frequenti e indicare il potenziale di danno e le soglie di intervento (C3)</td></tr>
+</table>
+
+<table>
+<tr><td>4.2 Ricorrere a misure alternative.</td></tr>
+<tr><td>4.2.1 Scegliere e applicare processi fisici, biologici e biotecnologici adeguati per regolare gli organismi nocivi, le malattie e le malerbe (C4)</td></tr>
+<tr><td>4.2.2 Elencare i vantaggi e gli svantaggi delle diverse misure di lotta e valutarle in base al loro impatto ambientale e alla loro efficacia (C4)</td></tr>
+</table>
+
+### 5 Impiego sostenibile di prodotti fitosanitari
+
+<table>
+<tr><td>5.1 Impiegare i prodotti fitosanitari</td></tr>
+<tr><td>5.1.1 Confrontare l’impiego di prodotti fitosanitari con le altre misure possibili e giustificare la lotta diretta contro le malerbe (C4)</td></tr>
+<tr><td>5.1.2 Ricorrendo alla documentazione adeguata, scegliere gli erbicidi adeguati per regolare le malerbe e calcolare la quantità esatta di prodotti e di acqua (C3)</td></tr>
+<tr><td>5.1.3 Miscelare i prodotti fitosanitari in completa sicurezza e applicare il prodotto nel rispetto delle regole con la tecnica appropriata (C3)</td></tr>
+<tr><td>5.1.4 Descrivere ricorrendo a documentazione la modalità d’azione dei prodotti fitosanitari e impiegarli di conseguenza nelle migliori condizioni e nel momento migliore (C3)</td></tr>
+<tr><td>5.1.5 Descrivere le differenze di degradabilità dei prodotti fitosanitari e i tempi di attesa corrispondenti e analizzare la compatibilità con le piante (C2)</td></tr>
+</table>
+
+### 6 Utilizzo degli apparecchi
+
+<table>
+<tr><td>6.1 Utilizzare correttamente gli apparecchi</td></tr>
+<tr><td>6.1.1 Spiegare il funzionamento nonché i vantaggi e gli svantaggi delle diverse irroratrici (C2)</td></tr>
+<tr><td>6.1.2 Determinare secondo le istruzioni la pressione corretta rispetto alla dimensione dell’ugello, alla velocità di spostamento dell’apparecchio e alla quantità applicata per evitare le perdite e raggiungere la massima efficacia con la quantità minima di sostanze attive (C3)</td></tr>
+<tr><td>6.1.3 Calcolare la quantità da applicare e la concentrazione corretta della poltiglia ed evitare i residui (C3)</td></tr>
+<tr><td>6.1.4 Evitare deriva, evaporazione e ruscellamento durante l’applicazione dei prodotti fitosanitari (C3)</td></tr>
+<tr><td>6.1.5 Pulire le irroratrici e i filtri in luoghi adeguati ed eliminare i residui dei prodotti, l’acqua di risciacquo e gli imballaggi conformemente alle prescrizioni (C3)</td></tr>
+<tr><td>6.1.6 Documentare l’impiego dei prodotti fitosanitari (C3)</td></tr>
+<tr><td>6.1.7 Assicurare la manutenzione delle irroratrici conformemente alle istruzioni d’uso (C3)</td></tr>
+</table>
+
+### 7 Istruzione di altre persone all’impiego di prodotti fitosanitari
+
+<table>
+<tr><td>7.1 Istruire altre persone in modo corretto e responsabile sull’impiego di prodotti fitosanitari</td></tr>
+<tr><td>7.1.1 Fornire istruzioni chiare e complete ad altre persone (C3)</td></tr>
+<tr><td>7.1.2 Indicare chiaramente ad altre persone le misure che permettono di evitare gli incidenti, i danni alla salute e le intossicazioni di persone, animali e ambiente e spiegare loro la relativa attuazione (C3)</td></tr>
+<tr><td>7.1.3 Controllare i lavori svolti e valutare che la loro esecuzione sia conforme alle istruzioni (C3)</td></tr>
+</table>
+
+Allegato 2
+
+(art. 2 cpv. 2)
+
+## Regolamento concernente gli esami per l’ottenimento dell’autorizzazione speciale
+
+Il presente regolamento definisce l’organizzazione degli esami per l’ottenimento dell’autorizzazione speciale per l’impiego di erbicidi in settori particolari, i diritti e i doveri dei candidati nonché i compiti degli organi incaricati degli esami nell’ambito dell’organizzazione e dello svolgimento degli esami. I diritti e i doveri dei candidati e degli organi incaricati degli esami che non rientrano nel campo d’applicazione della presente ordinanza sono disciplinati nell’ordinanza del 16 novembre 2022 concernente il registro delle autorizzazioni speciali per l’impiego di prodotti fitosanitari.
+
+### 1 Scopo degli esami
+
+Gli esami permettono di verificare se i candidati hanno acquisito le competenze e le conoscenze richieste secondo l’allegato 1 per l’ottenimento dell’autorizzazione speciale.
+
+### 2 Annuncio degli esami, iscrizione, ritiro ed emolumenti
+
+### 2.1 Annuncio degli esami
+
+<sup>1</sup> Gli esami sono annunciati in forma adeguata conformemente alle condizioni fissate dall’organo incaricato degli esami.
+
+<sup>2</sup> L’annuncio indica le date d’esame, il termine per l’iscrizione, i mezzi ammessi e gli emolumenti.
+
+### 2.2 Iscrizione e ritiro
+
+<sup>1</sup> Chiunque intenda sostenere un esame deve presentare una domanda scritta o in formato elettronico conformemente alle condizioni fissate dall’organo incaricato degli esami.
+
+<sup>2</sup> I candidati possono ritirare la loro iscrizione conformemente alle condizioni fissate dall’organo incaricato degli esami.
+
+### 2.3 Emolumenti
+
+L’organo incaricato degli esami può prelevare un emolumento d’esame volto a coprire al massimo il tempo dedicato alla pianificazione, all’organizzazione, alla preparazione nonché allo svolgimento degli esami. Gli emolumenti sono a carico dei candidati all’esame.
+
+### 3 Svolgimento e valutazione
+
+### 3.1 Frequenza e lingua degli esami
+
+La commissione d’esame provvede affinché, a seconda delle necessità, siano svolti esami in italiano, francese e tedesco.
+
+### 3.2 Organi incaricati degli esami
+
+Gli organi incaricati degli esami tengono gli esami.
+
+### 3.3 Forma, durata e obiettivi
+
+L’esame è composto da due parti, una parte teorica e una pratica, ed è organizzato nel modo seguente:
+
+<table>
+<tr><th>Forma</th><th>Durata</th><th>Obiettivi secondo l’allegato 1</th><th>Scelta casuale degli esercizi</th></tr>
+<tr><td>Esame teorico</td><td>60 min.</td><td>1. Effetto dei prodotti fitosanitari negli ecosistemi 2. Disposizioni normative 3. Sicurezza sul posto di lavoro e protezione sanitaria 4. Misure fitosanitarie preventive e alternative 5. Impiego sostenibile di prodotti fitosanitari 6. Impiego corretto degli apparecchi</td><td>L’esame teorico comprende almeno cinque obiettivi.</td></tr>
+<tr><td>Esame pratico</td><td>30 min.</td><td></td><td>L’esame pratico comprende almeno due obiettivi.</td></tr>
+</table>
+
+### 3.4 Prove d’esame
+
+<sup>1</sup> L’UFAM convalida il catalogo degli esercizi degli esami teorici e pratici proposto dalla commissione d’esame. Il catalogo viene aggiornato ogni anno.
+
+<sup>2</sup> La sanu e l’UFAM conservano il catalogo con tutti gli esercizi e i criteri di valutazione per ogni obiettivo degli esami teorici e pratici.
+
+<sup>3</sup> Per gli esami teorici, gli organi incaricati degli esami ricevono da parte del Registro Autorizzazioni speciali PF una serie di cinque esercizi selezionati dal catalogo in modo casuale conformemente alla tabella del numero 3.3. Per ogni sessione d’esame, agli organi incaricati degli esami viene fornita una nuova serie di esercizi selezionati dal catalogo da parte del Registro Autorizzazioni speciali PF.
+
+<sup>4</sup> Per gli esami pratici, gli organi incaricati degli esami hanno a disposizione il catalogo con tutti gli esercizi e i criteri di valutazione. Gli esaminatori scelgono in modo casuale due esercizi per candidato conformemente alla tabella del numero 3.3.
+
+dall’organo incaricato degli esami.
+
+### 3.5 Esaminatori
+
+<sup>1</sup> L’esame pratico è valutato da almeno due esaminatori che stabiliscono la nota in comune.
+
+<sup>2</sup> Gli esami teorici sono valutati da un esaminatore conformemente ai criteri di valutazione. Nei casi limite, le prove devono essere valutate da un secondo esaminatore.
+
+<sup>3</sup> I parenti stretti dei candidati o i loro superiori gerarchici attuali o precedenti si astengono dal ricoprire il ruolo di esaminatori negli esami.
+
+dall’organo incaricato degli esami.
+
+### 3.6 Valutazione
+
+<sup>1</sup> Gli esami sono valutati con una nota da 6 a 1. Sono considerati sufficienti se ricevono una nota di almeno 4,0. Vengono utilizzate esclusivamente note intere o mezze note.
+
+<sup>2</sup> L’esame è considerato superato se le due note corrispondenti alla parte teorica e alla parte pratica sono pari o superiori a 4,0.
+
+<sup>3</sup> In caso di mancato superamento di una delle parti dell’esame, soltanto tale parte deve essere sostenuta nuovamente entro un termine di due anni.
+
+dall’organo incaricato degli esami.
+
+### 3.7 Esclusione
+
+<sup>1</sup> L’organo incaricato degli esami esclude dall’esame i candidati che, durante una o più prove, utilizzano mezzi non ammessi o tentano di ingannare gli esaminatori.
+
+<sup>2</sup> Tale caso equivale al mancato superamento dell’esame.
+
+dall’organo incaricato degli esami.
+
+### 3.8 Rilascio dell’autorizzazione speciale
+
+Le persone che superano l’esame ricevono un’autorizzazione speciale.
+
+### 4 Diritto di consultare i fascicoli
+
+<sup>1</sup> La persona esaminata che non ha superato l’esame può consultare la valutazione delle prove presso l’organo incaricato degli esami entro venti giorni successivi alla notifica della decisione.
+
+<sup>2</sup> L’organo incaricato degli esami stabilisce la data della consultazione; a tal fine tiene conto delle disponibilità della persona interessata.
+
+Allegato 3
+
+(art. 4 cpv. 1)
+
+## Regolamento per la formazione continua
+
+Il presente regolamento definisce l’organizzazione della formazione continua per il rinnovo dell’autorizzazione speciale per l’impiego di erbicidi in settori particolari, i diritti e i doveri dei titolari delle suddette autorizzazioni speciali nonché degli organi incaricati della formazione continua. I diritti e i doveri dei titolari di autorizzazioni speciali e degli organi incaricati della formazione continua che non rientrano nel campo d’applicazione della presente ordinanza sono disciplinati nell’ordinanza del 16 novembre 2022 concernente il registro delle autorizzazioni speciali per l’impiego di prodotti fitosanitari.
+
+### 1 Pubblicazione e iscrizione
+
+<sup>1</sup> Gli organi incaricati della formazione continua pubblicano sul loro sito Internet le proprie offerte di formazione continua per il rinnovo dell’autorizzazione speciale. L’offerta deve indicare esplicitamente:
+
+- a. il titolo;
+- b. il tipo di formazione continua su argomenti obbligatori e/o facoltativi con l’indicazione del numero di ore computabili per il rinnovo dell’autorizzazione speciale;
+- c. l’autorizzazione speciale oggetto della formazione continua;
+- d. l’obiettivo o gli obiettivi elencati nell’allegato 1 oggetto della formazione;
+- e. il calendario completo (data, ora di inizio e fine) e il luogo della formazione continua;
+- f. il metodo e la lingua d’insegnamento ;
+- g. il pubblico destinatario;
+- h. la presentazione dei partecipanti;
+- i. il prezzo.
+
+<sup>2</sup> Le iscrizioni si effettuano direttamente presso l’organo incaricato della formazione continua.
+
+### 2 Svolgimento
+
+La formazione continua è organizzata esclusivamente dagli organi riconosciuti dall’UFAM.
+
+### 3 Contenuto
+
+<sup>1</sup> Il contenuto della formazione continua verte su uno o più obiettivi dell’allegato 1. Gli obiettivi della formazione continua su argomenti obbligatori sono determinati dall’UFAM per cinque anni, mentre quelli della formazione continua su argomenti facoltativi sono scelti dalla commissione d’esame.
+
+<sup>2</sup> Il rinnovo dell’autorizzazione speciale è subordinato alla partecipazione alla formazione continua richiesta su argomenti obbligatori e facoltativi.
+
+### 4 Forma
+
+<sup>1</sup> La formazione continua viene impartita secondo il metodo della partecipazione attiva. La formazione continua su argomenti obbligatori è limitata a 30 partecipanti per insegnante. La formazione continua su argomenti facoltativi può superare i 30 partecipanti per insegnante.
+
+<sup>2</sup> Non si escludono altre forme di formazione continua, purché siano riconosciute dall’UFAM.
+
+### 5 Durata
+
+<sup>1</sup> La formazione continua per il rinnovo dell’autorizzazione speciale dura quattro ore, di cui due ore di formazione continua su argomenti obbligatori e due ore di formazione continua su argomenti facoltativi.
+
+<sup>2</sup> La formazione continua può essere ripartita su più giornate. Ogni formazione dura almeno un’ora. I pasti non sono computati nel numero di ore richieste per il rinnovo dell’autorizzazione speciale.
+
+<sup>3</sup> È possibile organizzare una formazione continua per il rinnovo dell’autorizzazione speciale con altre formazioni continue non specifiche per il rinnovo dell’autorizzazione speciale in una stessa giornata.
+
+### 6 Emolumenti
+
+L’organo incaricato della formazione continua può prelevare un emolumento per la formazione continua volta a coprire al massimo il tempo dedicato alla pianificazione, all’organizzazione, alla preparazione nonché allo svolgimento della formazione continua. Gli emolumenti sono a carico dei titolari dell’autorizzazione speciale.
+
+### 7 Proroga dell’autorizzazione speciale
+
+<sup>1</sup> L’autorizzazione speciale è rinnovata ogni cinque anni a decorrere dal rilascio dell’autorizzazione speciale o dal suo rinnovo.
+
+<sup>2</sup> Le ore di formazione continua seguite sono computate non appena l’organo incaricato della formazione continua conferma la partecipazione del titolare dell’autorizzazione speciale nel Registro Autorizzazioni speciali PF.

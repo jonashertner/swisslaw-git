@@ -1,0 +1,506 @@
+---
+status: "beschlossen, noch nicht in Kraft"
+reference: AS 2022 865
+title: Ordonnance du DETEC du 24 novembre 2022 relative au permis pour l’emploi d’herbicides dans des domaines spéciaux (OPer-S)
+language: fr
+adopted: 2022-11-24
+published: 2022-12-28
+in_force: ["2026-01-01"]
+url: "https://www.fedlex.admin.ch/eli/oc/2022/865/fr"
+---
+
+> Reproduction non officielle du Recueil officiel (RO). L’acte est publié mais n’est pas encore en vigueur ; seule la publication au RO fait foi (art. 15 LPubl, RS 170.512).
+
+# Ordonnance du DETEC relative au permis pour l’emploi d’herbicides dans des domaines spéciaux
+
+(OPer-S)
+
+du 24 novembre 2022
+
+Le Département fédéral de l’environnement, des transports, de l’énergie et de la communication (DETEC),
+
+vu les art. 7, al. 3, 8, al. 1 et 2, 9, al. 2, 10, al. 2, 12, al. 3 à 6, 12*a*, et 23, al. 1 de l’ordonnance du 18 mai 2005 sur la réduction des risques liés aux produits chimiques (ORRChim)[^ingress-1]*,* vu les art. 1, 2 al. 1, 3, 4 et 5 de l’ordonnance du 16 novembre 2022 relative au registre des permis pour l’emploi des produits phytosanitaires[^ingress-2]*,*
+
+arrête:
+
+[^ingress-1]: [RS 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
+[^ingress-2]: [RS 814.88](https://fedlex.data.admin.ch/eli/cc/2022/792)
+
+## Section 1 Champ d’application du permis et conditions d’obtention
+
+#### Art. 1
+
+**Champ d’application du permis**
+
+<sup>1</sup>
+
+Le permis visé par la présente ordonnance autorise son titulaire à employer, à titre professionnel ou commercial, des herbicides en vertu de l’art. 2, al. 1, de l’ordonnance du 12 mai 2010 sur les produits phytosanitaires[^1-1] pour le traitement plante par plante dans des domaines spéciaux (permis domaines Spéciaux), à savoir:
+
+- a. pour l’entretien des infrastructures ferroviaires et routières, des terrains militaires ainsi que de l’environnement d’immeubles d’habitation ou de services et de bâtiments commerciaux, industriels ou publics;
+- b. dans l’agriculture.
+
+<sup>2</sup> Il l’autorise également à instruire d’autres personnes lors d’activités au sens de l’al. 1.
+
+<sup>3</sup> Les personnes qui ne disposent pas de permis ne peuvent employer des herbicides que si elles sont préalablement instruites sur place par le titulaire d’un permis.
+
+<sup>4</sup>
+
+Une personne est instruite au sens de l’al. 3 si elle a reçu au moins les informations suivantes sur les herbicides qu’elle doit employer:
+
+- a. noms et usages prévus des herbicides;
+- b. modes et conditions d’application;
+- c. dangers liés aux herbicides utilisés, mesures de précaution et restrictions applicables;
+- d. personne à contacter en cas de question ou d’urgence.
+
+<sup>5</sup> Le titulaire de permis qui a instruit une personne est responsable des actes de cette dernière. La violation des prescriptions des législations sur la protection de l’environnement et de la santé par la personne instruite sera considérée comme une violation par le titulaire de permis qui l’a instruite avec les conséquences qui en découlent au sens de l’art. 11 ORRChim.
+
+[^1-1]: [RS 916.161](https://fedlex.data.admin.ch/eli/cc/2010/340)
+
+#### Art. 2
+
+**Compétences et connaissances**
+
+<sup>1</sup> Le permis est délivré à la personne qui dispose des compétences et des connaissances requises à l’annexe 1.
+
+<sup>2</sup> Les compétences et les connaissances requises sont validées par la réussite à un examen en vertu de l’art. 3.
+
+<sup>3</sup> Les permis délivrés par un pays membre de l’Union européenne ou de l’Association européenne de libre échange (UE/AELE) sont régis par les art. 8, al. 2, et 8*a* ORRChim. Les émoluments relatifs à l’organisation de mesures de compensation sont à la charge du titulaire de permis conformément à l’annexe de l’ordonnance du 18 mai 2005 sur les émoluments relatifs aux produits chimiques[^2-1].
+
+[^2-1]: [RS 813.153.1](https://fedlex.data.admin.ch/eli/cc/2005/469)
+
+## Section 2 Examen et formations continues
+
+#### Art. 3
+
+**Examen**
+
+<sup>1</sup> L’examen permet de contrôler que les candidats disposent des compétences et des connaissances requises à l’annexe 1 pour obtenir un permis.
+
+<sup>2</sup> L’examen est réglementé à l’annexe 2.
+
+#### Art. 4
+
+**Formations continues**
+
+Le contenu et l’organisation des formations continues en vertu de l’art. 10 ORRChim ainsi que les droits et devoirs des titulaires de permis et des organes chargés des formations continues sont réglementés à l’annexe 3.
+
+## Section 3 Tâches des services compétents
+
+#### Art. 5
+
+**Office fédéral de l’environnement**
+
+Les tâches et les compétences de l’Office fédéral de l’environnement (OFEV) sont notamment les suivantes:
+
+- a. instituer une commission des examens et une commission des permis;
+- b. reconnaître les organes chargés des examens et des formations continues après consultation de la commission des permis;
+- c. établir et publier une liste des organes chargés des examens et des formations continues;
+- d. approuver le catalogue des exercices des examens conformément à l’annexe 2, ch. 3.3, proposé par la commission des examens, après consultation de la commission des permis;
+- e. délivrer les permis aux personnes ayant réussi l’examen et aux titulaires de permis UE/AELE ayant validé leurs qualifications professionnelles conformément à l’art. 2, al. 3;
+- f. exercer la surveillance sur la commission des examens, les organes chargés des examens et des formations continues et exiger des mesures correctives sur la base de cette surveillance;
+- g. choisir tous les cinq ans parmi les thèmes listés à l’annexe 1, ch. 2, ceux qui devront être enseignés dans les formations continues à thèmes imposés, après consultation de la commission des examens et de la commission des permis.
+
+#### Art. 6
+
+**Commission des examens**
+
+<sup>1</sup>
+
+Les organisations et les autorités suivantes sont représentées par un délégué au sein de la commission des examens par un délégué:
+
+- a. sanu future learning sa (sanu);
+- b. le Secrétariat d’État à l’économie;
+- c. les autorités cantonales d’exécution;
+- d. les Chemins de fer fédéraux suisses;
+- e. l’organisation du monde du travail des professions de l’agriculture, des professions de la transformation des produits agricoles et des professions liées au cheval (OrTra AgriAliForm);
+- f. l’Union suisse des services des parcs et promenades;
+- g. le représentant des associations environnementales désigné par l’OFEV.
+
+<sup>2</sup> sanu assure la présidence.
+
+<sup>3</sup> Le quorum est atteint lorsque la majorité des membres sont présents. La commission des examens prend ses décisions à la majorité simple des membres présents, chaque membre disposant d’une voix. La voix du président est prépondérante en cas d’égalité des voix.
+
+<sup>4</sup>
+
+Les tâches et les compétences de la commission des examens sont les suivantes:
+
+- a. veiller à ce que soient proposés des cours de préparation aux examens répondant à la demande;
+- b. conseiller l’OFEV pour ce qui est de la mise à jour des annexes, le cas échéant;
+- c. proposer un catalogue d’exercices pour les examens visés à l’annexe 2, ch. 3.4;
+- d. choisir tous les cinq ans parmi les thèmes listés à l’annexe 1, ch. 2, ceux qui devront être enseignés dans les formations continues à thèmes à option en vertu de l’annexe 3.
+
+<sup>5</sup>
+
+sanu assume les tâches et compétences suivantes au sein de la commission des examens:
+
+- a. soutenir la commission des examens dans ses tâches administratives et l’organisation de ses réunions;
+- b. coordonner les examens;
+- c. établir annuellement à l’intention de l’OFEV un rapport sur les activités de la commission des examens, des organes chargés des examens et des formations continues.
+
+#### Art. 7
+
+**Organes chargés des examens**
+
+Les tâches et compétences des organes chargés des examens sont les suivantes:
+
+- a. faire passer les examens conformément à l’annexe 2;
+- b. proposer des cours préparatoires aux examens, en accord avec la commission des examens;
+- c. choisir les examinateurs et les former à leurs tâches;
+- d. conserver les épreuves d’examen au minimum cinq ans.
+
+#### Art. 8
+
+**Organes chargés des formations continues**
+
+<sup>1</sup>
+
+Une organisation est reconnue comme organe chargé des formations continues si elle remplit les conditions suivantes:
+
+- a. elle ne poursuit aucun intérêt particulier lié à la vente ou à la promotion des produits phytosanitaires;
+- b. elle est une personne morale ayant son siège en Suisse;
+- c. elle propose des formations continues présentielles et ouvertes aux mêmes conditions à toutes les personnes intéressées;
+- d. elle propose des formations continues en vertu de l’annexe 3;
+- e. elle a accès à une infrastructure et à un équipement d’enseignement adéquats et fait appel à des intervenants qui possèdent les qualifications didactiques et spécifiques appropriées.
+
+<sup>2</sup> Les organes qui disposent d’un système d’assurance qualité dans le domaine de la formation et les organes cantonaux ou fédéraux proposant des formations continues doivent fournir à l’OFEV les informations mentionnées à l’art. 4, al. 1, de l’ordonnance du 16 novembre 2022 relative au registre des permis pour l’emploi des produits phytosanitaires. Ils sont exemptés d’apporter les preuves des conditions requises à l’al. 1.
+
+<sup>3</sup>
+
+Les tâches et compétences des organes chargés des formations continues sont les suivantes:
+
+- a. garantir une organisation et un enseignement irréprochables;
+- b. informer immédiatement l’OFEV si l’une des conditions mentionnées à l’al. 1 n’est plus remplie;
+- c. effectuer des formations continues à thèmes imposés;
+- d. tenir à jour le programme des formations continues et communiquer les offres de formation continue en vertu de l’annexe 3, ch. 1;
+- e. effectuer un contrôle des présences et indiquer dans le Registre Permis PPh les informations sur les formations continues suivies par chaque participant dans les trente jours ouvrables suivant la formation;
+- f. conserver pendant cinq ans toutes les données conformément à l’art. 4, al. 2, de l’ordonnance du 16 novembre 2022 relative au registre des permis pour l’emploi des produits phytosanitaires.
+
+#### Art. 9
+
+**Commission des permis**
+
+<sup>1</sup>
+
+Les autorités suivantes sont notamment représentées par un délégué au sein de la commission des permis par un délégué:
+
+- a. l’OFEV;
+- b. l’Office fédéral de la santé publique;
+- c. l’Office fédéral de la sécurité alimentaire et des affaires vétérinaires;
+- d. le Secrétariat d’État à l’économie;
+- e. les autorités cantonales d’exécution.
+
+<sup>2</sup> L’OFEV assure la présidence.
+
+<sup>3</sup> La commission des permis conseille l’OFEV sur les questions d’exécution de la présente ordonnance.
+
+## Section 4 Émoluments
+
+#### Art. 10
+
+<sup>1</sup> Les émoluments sont fixés à l’annexe 2, ch. 2.3, pour ce qui est des examens et à l’annexe 3, ch. 6, pour ce qui est des formations continues.
+
+<sup>2</sup> Les émoluments prélevés par l’OFEV dans le cadre de l’exécution de la présente ordonnance sont fixés conformément à l’ordonnance du 18 mai 2005 sur les émoluments relatifs aux produits chimiques[^10-1]. L’émolument relatif à la délivrance et à la prolongation d’un permis est à la charge du titulaire de permis.
+
+<sup>3</sup> Le permis n’est délivré ou renouvelé qu’après paiement de l’émolument.
+
+[^10-1]: [RS 813.153.1](https://fedlex.data.admin.ch/eli/cc/2005/469)
+
+## Section 5 Dispositions finales
+
+#### Art. 11
+
+**Abrogation d’un autre acte**
+
+## L’ordonnance du DETEC du 28 juin 2005 relative au permis pour l’emploi de produits phytosanitaires dans des domaines spéciaux est abrogée.
+
+[^lvlLa-1]
+
+[^lvlLa-1]: [RO 2005 3477](https://fedlex.data.admin.ch/eli/oc/2005/502); [2007 357](https://fedlex.data.admin.ch/eli/oc/2007/70); [2015 2005](https://fedlex.data.admin.ch/eli/oc/2015/372)
+
+#### Art. 12
+
+**Disposition transitoire**
+
+Les titulaires d’un permis pour l’emploi de produits phytosanitaires dans les domaines spéciaux selon l’ancien droit se voient délivrer conformément à l’art. 23*a*, al. 2, ORRChim un permis soit pour l’emploi de produits phytosanitaires dans l’horticulture soit pour l’emploi d’herbicides dans les domaines spéciaux.
+
+#### Art. 13
+
+**Entrée en vigueur**
+
+La présente ordonnance entre en vigueur comme suit:
+
+- a. les art. 1 à 3, 5 à 7 et 9 à 12, le 1<sup>er</sup> janvier 2026;
+- b. les art. 4 et 8, le 1<sup>er</sup> janvier 2027.
+
+<table>
+<tr><td>24 novembre 2022</td><td>Département fédéral de l’environnement, des transports, de l’énergie et de la communication: Simonetta Sommaruga</td></tr>
+</table>
+
+Annexe 1
+
+(art. 2, al. 1, et 3, al. 1)
+
+## Compétences et connaissances requises pour l’obtention du permis
+
+Toute personne désirant obtenir un permis en vertu de la présente ordonnance doit disposer des compétences et des connaissances mentionnées ci-dessous.
+
+### 1. Classification des niveaux de compétences et de connaissances
+
+Les niveaux des compétences et des connaissances requises sont exprimés selon la taxonomie de Bloom:
+
+<table>
+<tr><th>Niveau</th><th>Opération</th><th>Description du niveau d’exigence</th></tr>
+<tr><td>C1</td><td>Savoir</td><td>Les candidats au permis restituent des informations mémorisées et s’y réfèrent dans des situations similaires.</td></tr>
+<tr><td>C2</td><td>Comprendre</td><td>Les candidats au permis expliquent ou décrivent les informations mémorisées avec leurs propres mots.</td></tr>
+<tr><td>C3</td><td>Appliquer</td><td>Les candidats au permis mettent en pratique les technologies/aptitudes acquises dans des situations nouvelles.</td></tr>
+<tr><td>C4</td><td>Analyser</td><td>Les candidats au permis analysent une situation complexe: ils la décomposent en éléments distincts, relèvent les rapports entre ces éléments et identifient les caractéristiques structurelles.</td></tr>
+<tr><td>C5</td><td>Synthétiser</td><td>Les candidats au permis combinent les différents éléments d’une situation et les assemblent en un tout.</td></tr>
+<tr><td>C6</td><td>Évaluer</td><td>Les candidats au permis évaluent une situation plus ou moins complexe en fonction de critères donnés.</td></tr>
+</table>
+
+### 2. Compétences et connaissances requises
+
+Les compétences et connaissances requises sont définies par les objectifs ci-dessous:
+
+### 1 Effets des produits phytosanitaires dans les écosystèmes
+
+### 1.1 Développer sa sensibilité à l’importance de la biodiversité et des écosystèmes intacts
+
+- 1\.1.1 Expliquer l’importance de la biodiversité à l’aide d’exemples d’auxiliaires (C2)
+- 1\.1.2 Démontrer les effets de l’absence de certaines espèces dans la chaîne alimentaire à l’aide d’exemples (C2)
+
+### 1.2 Développer la conscience des dangers et des effets secondaires des produits phytosanitaires
+
+- 1\.2.1 Citer les risques environnementaux pour l’eau et les organismes non cibles dus à l’emploi de produits phytosanitaires (C1)
+- 1\.2.2 Expliquer les voies d’entrée dans l’eau ainsi que les situations où l’emploi de produits phytosanitaires porte atteinte à de très nombreux organismes non cibles (C2)
+- 1\.2.3 Différencier effets chroniques et effets aigus des produits phytosanitaires sur les organismes et décrire les dangers liés à l’emploi de produits phytosanitaires qui peuvent aboutir à une contamination chronique ou aiguë des organismes (C2)
+- 1\.2.4 Relever sur les étiquettes ou dans la documentation appropriée les informations sur les dangers et les conditions à respecter et expliquer les restrictions d’emploi d’un produit au choix (C3)
+- 1\.2.5 Relever les conditions et restrictions d’emploi des produits phytosanitaires à respecter pour protéger les abeilles et les organismes non cibles et en décrire la mise en œuvre dans des situations concrètes (C3)
+- 1\.2.6 Expliquer à l’aide d’exemples le mécanisme de formation des résistances aux produits phytosanitaires et proposer des mesures pour éviter ces résistances (C3)
+- 1\.2.7 Expliquer l’importance de l’accumulation et de la dégradabilité des produits phytosanitaires (bilan environnemental) (C2)
+
+### 2 Lois et ordonnances
+
+### 2.1 Appliquer les lois et ordonnances sur la sécurité au travail et sur la protection de l’environnement et de la santé
+
+- 2\.1.1 Décrire la législation en matière de protection de l’environnement et de la santé ainsi qu’en matière de sécurité au travail, relever sur les étiquettes ou dans la documentation appropriée les dispositions concernant l’emploi des produits phytosanitaires et les appliquer correctement (C3)
+- 2\.1.2 Expliquer et respecter les prescriptions concernant les zones de protection des eaux, les eaux et les surfaces imperméabilisées ainsi que d’autres restrictions d’emploi possibles (C3)
+- 2\.1.3 Citer les services spécialisés compétents pour les questions juridiques et techniques ainsi que pour les accidents (C1)
+- 2\.1.4 Expliquer les notions suivantes: obligation de diligence, principe de précaution, principe de causalité et coûts externes dans l’emploi de produits phytosanitaires (C2)
+
+### 3 Sécurité au travail et protection sanitaire
+
+### 3.1 Identifier et prévenir les risques d’exposition liés à l’entreposage, à l’emploi et à l’élimination des produits phytosanitaires
+
+- 3\.1.1 Décrire les voies d’absorption dans le corps humain (voie orale, voie cutanée, inhalation) et les éventuels dommages pour la santé (C2)
+- 3\.1.2 Expliquer la différence entre risque aigu et risque chronique (C2)
+- 3\.1.3 Indiquer les risques dus à l’exposition aux produits phytosanitaires au travail et suivre les prescriptions (C3)
+- 3\.1.4 Évaluer la dangerosité des substances indiquée sur les étiquettes et les notices d’emballage et prendre les mesures de protection prescrites (C3)
+
+### 3.2 Prendre des mesures de prévention pour éviter les accidents, les atteintes à la santé et les empoisonnements des personnes, des animaux et de l’environnement
+
+- 3\.2.1 Indiquer et mettre en œuvre les mesures suivant le principe S.T.O.P. (Substitution de la substance dangereuse, mesures Techniques, mesures Organisationnelles, mesures et équipement de Protection individuelle EPI) (C3)
+- 3\.2.2 Entreposer les produits phytosanitaires dans des endroits appropriés et sécurisés et utiliser ou éliminer dans les règles les restes de produits (C3)
+- 3\.2.3 Indiquer et appliquer les précautions d’emploi des produits phytosanitaires, notamment entreposage et préparation, épandage et application, entretien et travaux de suivi (C3)
+
+### 3.3 Utiliser l’équipement de sécurité lors de l’emploi des produits phytosanitaires pour protéger la santé
+
+- 3\.3.1 Choisir et utiliser l’équipement de sécurité qui convient lors de l’emploi des produits chimiques pour protéger la santé (peau, yeux, voies respiratoires) (C3)
+- 3\.3.2 Entretenir, entreposer et éliminer les équipements de protection dans les règles (C3)
+
+### 3.4 Mettre en œuvre la prévention des accidents et l’organisation des secours
+
+- 3\.4.1 En cas d’accident lié à des produits chimiques, appliquer la règle ORA (Observer, Réfléchir, Agir), prodiguer les premiers soins conformément à la fiche d’urgence et recourir aux moyens appropriés (C3)
+- 3\.4.2 Choisir et utiliser les agents extincteurs spécifiques aux produits phytosanitaires pour lutter contre les incendies (C3)
+
+### 4 Mesures phytosanitaires préventives et alternatives
+
+### 4.1 Appliquer les mesures préventives et la documentation appropriée
+
+- 4\.1.1 Indiquer les mesures de prévention qui agissent contre l’envahissement des adventices (C2)
+- 4\.1.2 Identifier les adventices les plus fréquentes et indiquer le potentiel de dommages et les seuils d’intervention (C3)
+
+### 4.2 Recourir à des mesures alternatives
+
+- 4\.2.1 Choisir et appliquer des procédés physiques, biologiques et biotechnologiques appropriés pour réguler les adventices (C4)
+- 4\.2.2 Indiquer les avantages et les inconvénients des différentes mesures de lutte et évaluer leur impact sur l’environnement et leur efficacité (C4)
+
+### 5 Utilisation durable de produits phytosanitaires
+
+### 5.1 Employer les produits phytosanitaires
+
+- 5\.1.1 Comparer l’emploi de produits phytosanitaires aux autres mesures possibles et justifier une lutte directe contre les adventices (C4)
+- 5\.1.2 Choisir à l’aide de la documentation adaptée les herbicides appropriés pour réguler les adventices et calculer la quantité exacte de produits et d’eau (C3)
+- 5\.1.3 Mélanger les produits phytosanitaires en toute sécurité et appliquer le produit dans les règles avec la technique appropriée (C3)
+- 5\.1.4 Décrire à l’aide d’une documentation le mode d’action des produits phytosanitaires et les employer en conséquence dans les meilleures conditions et au meilleur moment (C3)
+- 5\.1.5 Décrire les différences de dégradabilité des produits phytosanitaires et les délais d’attente correspondants et analyser la compatibilité avec les plantes (C2)
+
+### 6 Utilisation des appareils
+
+### 6.1 Utiliser correctement les appareils
+
+- 6\.1.1 Expliquer le fonctionnement ainsi que les avantages et inconvénients des différents pulvérisateurs (C2)
+- 6\.1.2 Déterminer selon les instructions la pression correcte par rapport à la taille de la buse, à la vitesse de déplacement de l’engin et à la quantité épandue pour éviter les pertes et atteindre le maximum d’efficacité avec le minimum de substances actives (C3)
+- 6\.1.3 Calculer la quantité à appliquer et la concentration correcte de la bouillie et éviter les résidus (C3)
+- 6\.1.4 Éviter dérive, évaporation et ruissellement lors de l’épandage des produits phytosanitaires (C3)
+- 6\.1.5 Nettoyer les pulvérisateurs et les filtres en des endroits appropriés et éliminer les résidus de produits, l’eau de rinçage et les emballages conformément aux prescriptions (C3)
+- 6\.1.6 Documenter l’utilisation des produits phytosanitaires (C3)
+- 6\.1.7 Entretenir les pulvérisateurs conformément au mode d’emploi (C3)
+
+### 7 Instruction d’autres personnes à l’utilisation de produits phytosanitaires
+
+### 7.1 Instruire d’autres personnes de manière correcte et responsable à l’utilisation de produits phytosanitaires
+
+- 7\.1.1 Donner des instructions claires et complètes à d’autres personnes (C3)
+- 7\.1.2 Indiquer clairement à d’autres personnes les mesures permettant d’éviter les accidents, les atteintes à la santé et les empoisonnements des personnes, des animaux et de l’environnement, et leur expliquer leur mise en œuvre (C3)
+- 7\.1.3 Contrôler les travaux effectués et en évaluer l’exécution conforme aux instructions (C3)
+
+Annexe 2
+
+(art. 2, al. 2)
+
+## Règlement des examens pour l’obtention du permis
+
+Le présent règlement définit l’organisation des examens pour l’obtention du permis pour l’emploi d’herbicides dans des domaines spéciaux, les droits et devoirs des candidats ainsi que les tâches incombant aux organes chargés des examens en rapport avec l’organisation et le déroulement des examens. Les droits et devoirs des candidats et des organes chargés des examens qui n’entrent pas dans le champ d’application de la présente ordonnance sont réglés dans l’ordonnance du 16 novembre 2022 relative au registre des permis pour l’emploi des produits phytosanitaires.
+
+### 1 But des examens
+
+Les examens permettent de vérifier si les candidats ont acquis les compétences et connaissances requises à l’annexe 1 pour l’obtention du permis.
+
+### 2 Annonce des examens, inscription, désistement et émoluments
+
+### 2.1 Annonce des examens
+
+<sup>1</sup> Les examens sont annoncés sous une forme appropriée conformément aux conditions fixées par l’organe chargé des examens.
+
+<sup>2</sup> L’annonce indique les dates d’examen, le délai d’inscription, les moyens autorisés et les émoluments.
+
+### 2.2 Inscription et désistement
+
+<sup>1</sup> Toute personne désirant prendre part à un examen doit s’y inscrire par écrit ou par voie électronique conformément aux conditions fixées par l’organe chargé des examens.
+
+<sup>2</sup> Les candidats peuvent retirer leur inscription conformément aux conditions fixées par l’organe chargé des examens.
+
+### 2.3 Émoluments
+
+L’organe chargé des examens peut prélever des émoluments d’examen qui couvrent tout au plus le temps consacré à la conception, l’organisation, la préparation ainsi que l’exécution des examens. Les émoluments sont à la charge des candidats à l’examen.
+
+### 3 Déroulement et évaluation
+
+### 3.1 Fréquence et langue des examens
+
+La commission des examens veille à ce que les examens aient lieu en italien, en français et en allemand selon les besoins.
+
+### 3.2 Organes chargés des examens
+
+Les organes chargés des examens font passer les examens.
+
+### 3.3 Forme, durée et objectifs
+
+L’examen est composé de deux parties, une partie théorique et une partie pratique, et est organisé comme suit:
+
+<table>
+<tr><th>Forme</th><th>Durée</th><th>Objectifs selon annexe 1</th><th>Choix aléatoire des exercices</th></tr>
+<tr><td>Examen théorique</td><td>60 min.</td><td>1. Effets des produits phytosanitaires dans les écosystèmes 2. Dispositions légales 3. Sécurité au travail et protection sanitaire 4. Mesures phytosanitaires préventives et alternatives 5. Utilisation durable de produits phytosanitaires 6. Utilisation correcte des appareils</td><td>L’examen théorique comprend au moins cinq objectifs.</td></tr>
+<tr><td>Examen pratique</td><td>30 min.</td><td></td><td>L’examen pratique comprend au moins deux objectifs.</td></tr>
+</table>
+
+### 3.4 Épreuves d’examen
+
+<sup>1</sup> L’OFEV valide le catalogue des exercices des examens théoriques et pratiques proposé par la commission des examens. Le catalogue est mis à jour tous les ans.
+
+<sup>2</sup> sanu et l’OFEV conservent le catalogue avec l’ensemble des exercices et des critères de notation pour chacun des objectifs des examens théoriques et pratiques.
+
+<sup>3</sup> S’agissant des examens théoriques, les organes chargés des examens reçoivent de la part du Registre Permis PPh une série de cinq exercices du catalogue sélectionnés de manière aléatoire conformément au tableau du ch. 3.3. Pour chaque session d’examen, une nouvelle série d’exercices sélectionnés à partir du catalogue par le Registre Permis PPh est fournie aux organes chargés des examens.
+
+<sup>4</sup> S’agissant des examens pratiques, les organes chargés des examens ont à disposition le catalogue avec l’ensemble des exercices et des critères de notation. Les examinateurs choisissent de manière aléatoire deux exercices par candidat conformément au tableau du ch. 3.3.
+
+### 3.5 Examinateurs
+
+<sup>1</sup> Deux examinateurs au moins évaluent l’examen pratique et fixent la note en commun.
+
+<sup>2</sup> Les examens théoriques sont notés par un examinateur conformément aux critères de notation. Dans les cas limites, les épreuves doivent être évaluées par un second examinateur.
+
+<sup>3</sup> Les parents proches des candidats ou leurs supérieurs hiérarchiques actuels ou passés se récusent des examens en tant qu’examinateurs.
+
+### 3.6 Évaluation
+
+<sup>1</sup> Les examens sont notés de 6 à 1. Les notes égales ou supérieures à 4,0 sont jugées suffisantes. Seules les notes entières ou les demi-notes sont utilisées.
+
+<sup>2</sup> L’examen est considéré comme réussi lorsque les deux notes correspondant à la partie théorique et à la partie pratique sont égales ou supérieures à 4,0.
+
+<sup>3</sup> En cas d’échec à l’une des parties de l’examen, seule cette partie doit être repassée dans un délai de deux ans.
+
+### 3.7 Exclusion
+
+<sup>1</sup> L’organe chargé des examens exclut de l’examen les candidats qui, au cours d’une ou de plusieurs épreuves, ont recours à des moyens illicites ou tentent de tromper les examinateurs.
+
+<sup>2</sup> Ce cas est assimilé à un échec à l’examen.
+
+### 3.8 Octroi du permis
+
+Les personnes qui ont réussi l’examen se voient délivrer un permis.
+
+### 4 Droit de consulter les dossiers
+
+<sup>1</sup> Toute personne ayant échoué à l’examen a le droit de consulter la notation des épreuves auprès de l’organe chargé des examens, dans les 20 jours qui suivent la notification de la décision.
+
+<sup>2</sup> L’organe chargé des examens fixe la date de consultation; il tient compte des disponibilités de la personne concernée.
+
+Annexe 3
+
+(art. 4, al. 1)
+
+## Règlement des formations continues
+
+Le présent règlement définit l’organisation des formations continues pour le renouvellement du permis pour l’emploi d’herbicides dans des domaines spéciaux, les droits et devoirs des titulaires desdits permis ainsi que ceux des organes chargés des formations continues. Les droits et devoirs des titulaires de permis et des organes chargés des formations continues qui n’entrent pas dans le champ d’application de la présente ordonnance sont réglés dans l’ordonnance du 16 novembre 2022 relative au registre des permis pour l’emploi des produits phytosanitaires.
+
+### 1 Publication et inscription
+
+<sup>1</sup> Les organes chargés des formations continues publient sur leur site Internet leurs offres de formations continues pour le renouvellement du permis. L’offre doit mentionner explicitement:
+
+- a. le titre;
+- b. le type de formation continue à thèmes imposés et/ou à option avec la mention du nombre d’heures qui peuvent être comptabilisées pour le renouvellement du permis;
+- c. le permis visé par la formation continue;
+- d. le ou les objectifs de l’annexe 1 visés par la formation;
+- e. le calendrier complet (la date, l’heure de début et de fin) et le lieu de la formation continue;
+- f. la méthode et la langue d’enseignement;
+- g. le public cible;
+- h. la présentation des intervenants;
+- i. le prix.
+
+<sup>2</sup> Les inscriptions se font directement auprès de l’organe chargé des formations continues.
+
+### 2 Déroulement
+
+Les formations continues sont organisées exclusivement par les organes reconnus par l’OFEV.
+
+### 3 Contenu
+
+<sup>1</sup> Le contenu des formations continues porte sur un ou plusieurs objectifs de l’annexe 1. Les objectifs des formations continues à thèmes imposés sont déterminés par l’OFEV pour cinq ans et ceux des formations continues à thèmes à option sont choisis par la commission des examens.
+
+<sup>2</sup> Le suivi des formations continues à thèmes imposés et à option requises conditionne le renouvellement du permis.
+
+### 4 Forme
+
+<sup>1</sup> Les formations continues sont enseignées selon la méthode de participation active. Les formations continues à thèmes imposés sont limitées à 30 participants par enseignant. Les formations à thèmes à option peuvent réunir plus de 30 participants par enseignant.
+
+<sup>2</sup> D’autres formes de formation continue, à condition qu’elles soient reconnues par l’OFEV, ne sont pas exclues.
+
+### 5 Durée
+
+<sup>1</sup> Les formations continues durent quatre heures pour le renouvellement du permis, dont deux heures de formations continues à thèmes imposés et deux heures de formations continues à thèmes à option.
+
+<sup>2</sup> Les formations continues peuvent être réparties sur plusieurs journées. Chaque formation dure au minimum une heure. Les repas ne sont pas comptabilisés dans le nombre d’heures requises pour le renouvellement du permis.
+
+<sup>3</sup> Une formation continue pour le renouvellement du permis peut être organisée avec d’autres formations continues non spécifiques au renouvellement du permis dans une même journée.
+
+### 6 Émoluments
+
+L’organe chargé des formations continues peut prélever des émoluments pour la formation continue qui couvrent tout au plus le temps consacré à la conception, à l’organisation, à la préparation et à l’exécution des formations continues. Les émoluments sont à la charge des titulaires de permis.
+
+### 7 Prolongation du permis
+
+<sup>1</sup> Le permis est renouvelé tous les cinq ans à compter de sa délivrance ou de son renouvellement.
+
+<sup>2</sup> Les heures de formation continue suivies sont prises en compte dès que l’organe chargé des formations continues a confirmé la participation du titulaire du permis dans le Registre Permis PPh.
