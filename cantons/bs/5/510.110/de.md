@@ -4,13 +4,13 @@ number: "510.110"
 title: Verordnung betreffend die Kantonspolizei des Kantons Basel-Stadt
 short: "Polizeiverordnung, PolV"
 language: de
-version: 2022-07-01
-valid_until: 2022-12-28
-version_adopted: 2020-06-16
+version: 2022-12-29
+valid_until: 2024-03-31
+version_adopted: 2022-12-20
 adopted: 1997-06-03
 in_force: 1997-07-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/510.110"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5572/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5765/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Polizeiverordnung | Polizei[^t-1]
 
 (Polizeiverordnung, PolV)
 
-Vom 3. Juni 1997 (Stand 1. Juli 2022)
+Vom 3. Juni 1997 (Stand 29. Dezember 2022)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -82,7 +82,17 @@ beschliesst:
 
 <sup>1</sup> Über die nötige Beziehungsnähe zu unserem Gemeinwesen verfügt, wer mit den schweizerischen Lebensgewohnheiten, Sitten und Gebräuchen sowie mit Sprache und Recht vertraut ist und eine innere Verbundenheit mit der gesellschaftlichen und kulturellen Eigenart unseres Kantons beweist.
 
-<sup>2</sup> Die Vorsteherin oder der Vorsteher des zuständigen Departementes entscheidet über die Aufnahme von Polizeibeamtinnen und Polizeibeamten in das Polizeikorps.
+<sup>2</sup> …
+
+#### § 2a
+
+**Körperliche Leistungsfähigkeit**
+
+<sup>1</sup> Die Angehörigen des Polizeikorps müssen in einer zur polizeilichen Aufgabenerfüllung adäquaten körperlichen Verfassung sein.
+
+<sup>2</sup> Die Kantonspolizei legt für sportliche Betätigungen der Korpsangehörigen während der Arbeitszeit ein Zeitkontingent fest. Dessen Bezug erfolgt unter Berücksichtigung der betrieblichen Verhältnisse.
+
+<sup>3</sup> Die Rahmenbedingungen werden in einer Dienstvorschrift festgelegt.
 
 #### § 3
 
@@ -98,21 +108,17 @@ beschliesst:
 
 **Pflichten ausser Dienst**
 
-<sup>1</sup> Die Angehörigen des Polizeikorps nehmen auch ausserhalb des Dienstes, sofern es ihnen zumutbar ist, polizeiliche Handlungen vor, namentlich
+<sup>1</sup> Die Angehörigen des Polizeikorps nehmen auch ausserhalb des Dienstes, sofern es ihnen zumutbar ist, polizeiliche Handlungen vor, namentlich:
 
 - 1\. wenn eine Person unmittelbar an Leib und Leben bedroht ist;
 - 2\. zur unmittelbaren Verhinderung von schweren Straftaten und zur Verfolgung der Täterschaft solcher Delikte;
 - 3\. wenn eine erhebliche Störung der öffentlichen Sicherheit und Ordnung unmittelbar droht;
 - 4\. zur Beseitigung einer erheblichen Störung der öffentlichen Sicherheit und Ordnung, falls im Dienst befindliche Beamtinnen und Beamte nicht innert nützlicher Frist verfügbar sind;
-- 5\. zur Unterstützung im Dienst befindlicher Polizeibeamtinnen oder Polizeibeamten, welche Hilfe benötigen.
+- 5\. zur Unterstützung im Dienst befindlicher Polizistinnen oder Polizisten, welche Hilfe benötigen.
 
 #### § 5
 
-**Kein Anspruch auf Beförderung**
-
-<sup>1</sup> Aus dem Bestehen eines Ausbildungskurses entsteht kein Anspruch auf Beförderung.
-
-<sup>2</sup> Ein Ausbildungskurs gilt als bestanden, wenn die vorgeschriebenen Prüfungen erfolgreich abgelegt wurden.
+**…**
 
 #### § 6
 
@@ -126,13 +132,15 @@ beschliesst:
 
 **Erstattung der Ausbildungskosten**
 
-<sup>1</sup> Die maximale Rückerstattungssumme beträgt 30'000 Franken.
+<sup>1</sup> Wird das Arbeitsverhältnis innerhalb der Verpflichtungsdauer von vier Jahren nach Abschluss der Grundausbildung durch Mitarbeitende der Kantonspolizei gekündigt, beträgt die Rückerstattungssumme für Polizistinnen und Polizisten 100'000 Franken und für Sicherheitsassistentinnen und Sicherheitsassistenten sowie bewaffnete Sicherheitsassistentinnen und Sicherheitsassistenten 20'000 Franken. Die Höhe der Rückerstattung richtet sich nach der geleisteten Dienstzeit und reduziert sich monatlich pro rata temporis. Vorbehalten bleiben allfällige interkantonale Vereinbarungen.
+
+<sup>2</sup> Bei einem Abbruch der Polizeiausbildung vor Abschluss der Grundausbildung ohne triftigen Grund sind die bis dahin entstandenen Ausbildungskosten, begrenzt auf den Maximalbetrag von 100'000 Franken, zurückzubezahlen. Vorbehalten bleiben allfällige interkantonale Vereinbarungen.
+
+<sup>3</sup> Bei einem Abbruch der Ausbildung zur Sicherheitsassistentin und zum Sicherheitsassistenten mit Fachrichtung Verkehr sowie zur bewaffneten Sicherheitsassistentin bzw. zum bewaffneten Sicherheitsassistenten vor Abschluss der Grundausbildung ohne triftigen Grund sind die bis dahin entstandenen Ausbildungskosten, begrenzt auf den Maximalbetrag von 20'000 Franken, zurückzubezahlen. Vorbehalten bleiben allfällige interkantonale Vereinbarungen.
 
 #### § 8
 
-**Bewaffnung**
-
-<sup>1</sup> Die Kantonspolizei bestimmt, wann der Dienst von Polizeibeamtinnen und Polizeibeamten unbewaffnet versehen werden kann.
+**…**
 
 ## II. Polizeiliche Massnahmen und polizeilicher Zwang
 
@@ -330,7 +338,7 @@ beschliesst:
 
 <sup>2</sup> Die Gebühr nach Ziff. 2 beinhaltet die jährliche Aufschaltgebühr sowie die Stammdatenpflege. Wird diese Stammdatenpflege überdurchschnittlich beansprucht, so kann die Kantonspolizei den effektiven Aufwand in Rechnung stellen.
 
-<sup>3</sup> Für private Sicherheitseinrichtungen, die nicht direkt bei der Kantonspolizei angeschlossen sind, sondern über einen privaten Sicherheitsdienstleister bewirtschaftet werden, wird im Falle eines Fehlalarms für das Erstellen des Einsatzdispositivs eine Gebühr von Fr. 300 erhoben.
+<sup>3</sup> Für private Sicherheitseinrichtungen, die nicht direkt bei der Kantonspolizei angeschlossen sind, wird im Falle eines Fehlalarms für das Erstellen des Einsatzdispositivs eine Gebühr von Fr. 300 erhoben.
 
 <sup>4</sup> Im Falle eines Fehlalarms wird zusätzlich zu allfälligen Gebühren nach Abs. 1 und 3 eine Gebühr nach § 18a Abs. 1 erhoben.
 
