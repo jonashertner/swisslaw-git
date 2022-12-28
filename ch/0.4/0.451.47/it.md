@@ -3,11 +3,11 @@ sr: "0.451.47"
 title: "Accordo del 15 agosto 1996 sulla conservazione degli uccelli acquatici migratori dell'Africa-Eurasia (con allegati)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/420"
 language: it
-version: 2022-05-31
+version: 2022-12-29
 adopted: 1996-08-15
 in_force: 1999-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/420/20220531/it/xml/fedlex-data-admin-ch-eli-cc-2004-420-20220531-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/420/20220531/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/420/20221229/it/xml/fedlex-data-admin-ch-eli-cc-2004-420-20221229-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/420/20221229/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Concluso all’Aia il 15 agosto 1996 Firmato dalla Svizzera il 15 ottobre 1996[^t-1] Entrato in vigore per la Svizzera il 1° novembre 1999
 
-(Stato 31 maggio 2022)
+(Stato 29 dicembre 2022)
 
 [^t-1]: Senza riserva di ratifica.
 
@@ -352,17 +352,17 @@ Allegato 1
 
 I limiti della zona dell’Accordo sono definiti nel modo seguente: dal Polo Nord verso sud lungo il 130° di longitudine ovest sino al 75° di latitudine nord; da lì verso est e sud-est attraverso il canale di Viscount Melville, il Prince Regent Inlet, il golfo di Boothia, il bacino di Foxe, il canale di Foxe, lo stretto di Hudson fino a un punto situato nell’Atlantico del nord-ovest le cui coordinate sono 60° di latitudine nord e 60° di longitudine ovest; da lì verso sud-est attraverso l’Atlantico del nord-ovest fino a un punto le cui coordinate sono 50° di latitudine nord e 30° di longitudine ovest; da lì, lungo il 30° di longitudine ovest sino al 10° di latitudine nord; da lì verso sud-est fino all’intersezione dell’Equatore con il 20° di longitudine ovest; da lì verso sud lungo il 20° di longitudine ovest fino al 40° di latitudine sud; da lì, verso est lungo il 40° di latitudine sud fino al 60° di longitudine est; da lì verso nord lungo il 60° di longitudine est fino al 35° di latitudine nord; da lì verso nord-est seguendo un arco di cerchio massimo fino a un punto situato nell’Altai occidentale, le cui coordinate sono 49° di latitudine nord e 87° 27’ di longitudine est; da lì seguendo un arco di cerchio massimo attraverso la Siberia centrale fino alla costa dell’Oceano Artico a 130° di longitudine est; da lì lungo il 130° di longitudine est fino al Polo Nord. La carta geografica della pagina seguente fornisce una rappresentazione della zona dell’Accordo.
 
-### Area coperta dall’Accordo****
+### Area coperta dall’Accordo
 
 [^annex1-lvlu1-lvlu1-1]
 
 [^annex1-lvlu1-lvlu1-1]: La carta non è pubblicata nella RU.
 
-Allegato 2*[^t-2]*
+Allegato 2[^t-2]
 
 ## Specie di uccelli alle quali si applica il presente Accordo
 
-[^t-2]: Nuovo testo giusta l’em. dell’8 dic. 2019, in vigore dal 9 mar. 2019 ([RU 2019 1139](https://fedlex.data.admin.ch/eli/oc/2019/217)).
+[^t-2]: Nuovo testo giusta l’em. del 30 set. 2022, in vigore dal 29 dic. 2022 ([RU 2023 127](https://fedlex.data.admin.ch/eli/oc/2023/127)).
 
 <table>
 <tr><td colspan="2">Famiglia ANATIDAE (Anatre, oche, cigni)</td></tr>
@@ -445,7 +445,7 @@ Allegato 2*[^t-2]*
 <tr><td>Amaurornis marginalis</td><td>Schiribilla striata</td></tr>
 <tr><td>Porphyrio alleni</td><td>Pollo sultano di Allen</td></tr>
 <tr><td>Gallinula chloropus</td><td>Gallinella d’acqua</td></tr>
-<tr><td>Gallinula angulata</td><td>Gallinella d’acqua minore</td></tr>
+<tr><td>Paragallinula angulata</td><td>Gallinella d’acqua minore</td></tr>
 <tr><td>Fulica cristata</td><td>Folaga crestata</td></tr>
 <tr><td>Fulica atra</td><td>Folaga</td></tr>
 <tr><td colspan="2">Famiglia GRUIDAE (Gru)</td></tr>
@@ -511,7 +511,7 @@ Allegato 2*[^t-2]*
 <tr><td colspan="2">Famiglia PHALACROCORACIDAE (Cormorani)</td></tr>
 <tr><td>Microcarbo coronatus</td><td>Cormorano coronato</td></tr>
 <tr><td>Microcarbo pygmaeus</td><td>Marangone minore</td></tr>
-<tr><td>Phalacrocorax aristotelis</td><td>Marangone dal ciuffo</td></tr>
+<tr><td>Gulosus aristotelis</td><td>Marangone dal ciuffo</td></tr>
 <tr><td>Phalacrocorax carbo</td><td>Cormorano comune</td></tr>
 <tr><td>Phalacrocorax capensis</td><td>Cormorano del Capo</td></tr>
 <tr><td>Phalacrocorax nigrogularis</td><td>Cormorano di Socotra</td></tr>
@@ -649,11 +649,11 @@ Allegato 2*[^t-2]*
 <tr><td>Uria aalge</td><td>Uria comune</td></tr>
 </table>
 
-Allegato 3*[^t-3]*
+Allegato 3[^t-3]
 
 ## Piano d’azione
 
-[^t-3]: Nuovo testo giusta l’em. dell’8 dic. 2018 ([RU 2019 1139](https://fedlex.data.admin.ch/eli/oc/2019/217)). Aggiornato dalla correzione del 2 lug. 2019, in vigore dal 2 lug. 2019 ([RU 2019 2015](https://fedlex.data.admin.ch/eli/oc/2019/371)).
+[^t-3]: Nuovo testo giusta l’em. del 30 set. 2022, in vigore dal 29 dic. 2022 ([RU 2023 127](https://fedlex.data.admin.ch/eli/oc/2023/127)).
 
 ### 1 Campo d’applicazione
 
@@ -736,7 +736,7 @@ Allegato 3*[^t-3]*
 - 3\.1.2 Le Parti contraenti si impegnano, prioritariamente, a identificare tutti i siti d’importanza internazionale o nazionale per le popolazioni che figurano nella tabella 1.
 - 3\.2 *Conservazione degli spazi*
 - 3\.2.1 Le Parti contraenti si impegnano a proseguire la costituzione di aree protette al fine di conservare habitat importanti per le popolazioni che figurano nella tabella 1 e di elaborare e applicare piani di gestione per tali aree.
-- 3\.2.2 Le Parti contraenti si impegnano ad assicurare una protezione speciale alle zone umide che rispondono ai criteri d’importanza internazionale accettati a livello internazionale.
+- 3\.2.2 Le Parti contraenti si impegnano ad assicurare una protezione speciale alle zone umide[^annex3-lvlu1-lvl3-1] che rispondono ai criteri d’importanza internazionale accettati a livello internazionale.
 - 3\.2.3
 
   Le Parti contraenti si impegnano a utilizzare in modo razionale e sostenibile tutte le zone umide del loro territorio. Si impegnano in particolare a evitare il degrado e la perdita di habitat ospitanti popolazioni che figurano nella tabella 1, mediante l’adozione di regolamentazioni, norme e misure di controllo adeguate. Si impegnano segnatamente a:
@@ -748,6 +748,8 @@ Allegato 3*[^t-3]*
 - 3\.3 *Riabilitazione e ripristino*
 - Ogni volta che è possibile e opportuno, le Parti contraenti si impegnano a riabilitare e ripristinare le zone che precedentemente erano importanti per le popolazioni che figurano nella tabella 1, ossia le zone che hanno subito degradi a seguito dell’impatto di fattori quali i cambiamenti climatici, i cambiamenti a livello idrologico, l’agricoltura, la propagazione di specie acquatiche esotiche invasive, la successione naturale, fuochi incontrollati, l’utilizzazione non sostenibile, l’eutrofizzazione e l’inquinamento.
 
+[^annex3-lvlu1-lvl3-1]: Ai fini dell’attuazione del presente Acc. si applica la definizione di «zone umide» di cui all’art. 1.1 della Convenzione del 2 feb. 1971 sulle zone umide sulle zone umide d’importanza internazionale segnatamente come habitat degli uccelli acquatici e palustri ([RS 0.451.45](https://fedlex.data.admin.ch/eli/cc/1976/1139_1139_1139)).
+
 ### 4 Gestione delle attività umane
 
 - 4\.1 *Caccia*
@@ -755,7 +757,7 @@ Allegato 3*[^t-3]*
 - 4\.1.2 Il Segretariato dell’Accordo è informato dalle Parti contraenti in merito alla loro legislazione sulla caccia delle popolazioni che figurano nella tabella 1.
 - 4\.1.3 Le Parti cooperano al fine di sviluppare un sistema affidabile e armonizzato di raccolta di dati sui prelievi per valutare il prelievo annuo effettuato sulle popolazioni che figurano nella tabella 1. Esse forniscono al Segretariato dell’Accordo stime sulla totalità dei prelievi annuali per ciascuna popolazione, quando tali informazioni sono disponibili.
 - 4\.1.4 Le Parti contraenti si impegnano a sopprimere l’utilizzazione dei pallini di piombo per la caccia nelle zone umide, al più presto e conformemente a calendari che si saranno autoimposte e che avranno provveduto a pubblicare.
-- 4\.1.5[^annex3-lvlu1-lvl4-1] ......
+- 4\.1.5[^annex3-lvlu1-lvl4-1] ...
 - 4\.1.6 Le Parti contraenti elaborano e applicano misure per ridurre e, nella misura del possibile, eliminare i prelievi illegali.
 - 4\.1.7 Se del caso, le Parti contraenti incoraggiano i cacciatori, a livello locale, nazionale e internazionale, a costituire le loro proprie associazioni od organizzazioni, al fine di coordinare le attività e realizzare il concetto di utilizzazione sostenibile.
 - 4\.1.8 Se del caso, le Parti contraenti promuovono l’esigenza di prove di competenza per i cacciatori, compresa, fra l’altro, l’identificazione degli uccelli.
@@ -841,11 +843,11 @@ Allegato 3*[^t-3]*
 - 7\.6 Il Comitato tecnico valuta le direttive e gli studi preparati ai sensi dei paragrafi 7.3 e 7.4 ed elabora progetti di raccomandazioni e di risoluzioni relativi alla loro elaborazione, al loro contenuto e alla loro applicazione, che saranno presentati alle sessioni della Conferenza delle Parti.
 - 7\.7 Il Segretariato dell’Accordo procede regolarmente all’esame dei meccanismi suscettibili di fornire risorse supplementari (crediti e assistenza tecnica) per l’attuazione del Piano d’azione e sottopone un rapporto in merito alla Conferenza delle Parti, durante ognuna delle sue sedute ordinarie.
 
-Tabella 1*[^annex3-lvlu1-lvl7-1]*
+Tabella 1[^t-4]
 
-[^annex3-lvlu1-lvl7-1]: La tabella 1 «Stato delle popolazioni di uccelli acquatici migratori» è parte integrante del piano d’azione secondo l’all. 3 del presente Acc.
+## Stato delle popolazioni di uccelli acquatici migratori
 
-### Stato delle popolazioni di uccelli acquatici migratori
+[^t-4]: La tabella 1 «Stato delle popolazioni di uccelli acquatici migratori» è parte integrante del piano d’azione secondo l’all. 3 del presente Acc.
 
 ### Spiegazioni relative alla classificazione
 
@@ -856,7 +858,7 @@ Colonna A
 <table>
 <tr><td>Categoria 1:</td><td>(a) specie citate nell’Allegato 1 della Convenzione sulla conservazione delle specie migratrici della fauna selvatica; (b) specie che figurano tra le specie minacciate nella Lista rossa delle specie minacciate dell’UICN, come riportato da BirdLife International nel suo ultimo compendio; oppure (c) popolazioni che contano meno di 10 000 individui circa.</td></tr>
 <tr><td>Categoria 2:</td><td>popolazioni che contano tra 10 000 e 25 000 individui circa.</td></tr>
-<tr><td>Categoria 3:</td><td>popolazioni che contano tra 25 000 e 100 000 individui circa e che sono considerate minacciate in ragione: (a) di una concentrazione su un numero esiguo di siti a uno stadio qualunque del loro ciclo annuale; (b) della dipendenza da un tipo di habitat gravemente minacciato; (c) della manifestazione di un declino a lungo termine; (d) di forti fluttuazioni nell’importanza della loro popolazione o tendenza in tal senso; oppure (e) della manifestazione di un rapido declino a breve termine.</td></tr>
+<tr><td>Categoria 3:</td><td>popolazioni che contano tra 25 000 e 100 000 individui circa e che sono considerate minacciate in ragione: (a) di una concentrazione su un numero esiguo di siti a uno stadio qualunque del loro ciclo annuale; (b) della dipendenza da un tipo di habitat gravemente minacciato; (c) della manifestazione di un declino a lungo termine; (d) di forti fluttuazioni nell’importanza della loro popolazione o tendenza in tal senso; (e) della manifestazione di un rapido declino a breve termine; oppure (f) dati insufficienti.</td></tr>
 <tr><td>Categoria 4:</td><td>specie quasi minacciate che figurano nella Lista rossa delle specie minacciate dell’UICN, come riportato da BirdLife International nel suo ultimo compendio, ma che non adempiono le condizioni per far parte delle categorie 1, 2 o 3 descritte in precedenza e per le quali è opportuna un’azione internazionale.</td></tr>
 </table>
 
@@ -866,7 +868,7 @@ Colonna B
 
 <table>
 <tr><td>Categoria 1:</td><td>popolazioni che contano tra 25 000 e 100 000 individui circa e che non soddisfano i criteri della colonna A summenzionata.</td></tr>
-<tr><td>Categoria 2:</td><td>popolazioni che contano più di 100 000 individui circa, e che non soddisfano i criteri della colonna A summenzionata, e che sono considerate come bisognose di un’attenzione particolare in ragione: (a) di una concentrazione su un numero esiguo di siti a uno stadio qualunque del loro ciclo annuale; (b) della dipendenza da un tipo di habitat gravemente minacciato; (c) della manifestazione di un declino a lungo termine; (d) di forti fluttuazioni nell’importanza della loro popolazione o tendenza in tal senso; oppure (e) della manifestazione di un rapido declino a breve termine.</td></tr>
+<tr><td>Categoria 2:</td><td>popolazioni che contano più di 100 000 individui circa, e che non soddisfano i criteri della colonna A summenzionata, e che sono considerate come bisognose di un’attenzione particolare in ragione: (a) di una concentrazione su un numero esiguo di siti a uno stadio qualunque del loro ciclo annuale; (b) della dipendenza da un tipo di habitat gravemente minacciato; (c) della manifestazione di un declino a lungo termine; (d) di forti fluttuazioni nell’importanza della loro popolazione o tendenza in tal senso, (e) della manifestazione di un rapido declino a breve termine, oppure (f) dati insufficienti.</td></tr>
 </table>
 
 Colonna C
@@ -884,11 +886,11 @@ La presente tabella sarà:
 
 ### Definizione dei termini geografici utilizzati nelle descrizioni delle aree di ripartizione
 
-Occorre ricordare che le aree di ripartizione degli uccelli acquatici conoscono frontiere biologiche ma non politiche e che la corrispondenza perfetta fra entità biologiche e politiche è estremamente rara. Le descrizioni delle aree di ripartizione utilizzate non hanno alcun significato politico e sono fornite solo quale indicazione di ordine generale. Per rilevamenti sintetici e cartografati delle aree di ripartizione degli uccelli acquatici si rimanda allo strumento della Rete dei siti critici (http://wow.wetlands.org/informationflyway/criticalsitenetworktool/tabid/1349/language/en-US/Default.aspx).
+Occorre ricordare che le aree di ripartizione degli uccelli acquatici conoscono frontiere biologiche ma non politiche e che la corrispondenza perfetta fra entità biologiche e politiche è estremamente rara. Le descrizioni delle aree di ripartizione utilizzate non hanno alcun significato politico e sono fornite solo quale indicazione di ordine generale. Per rilevamenti sintetici e cartografati delle aree di ripartizione degli uccelli acquatici si rimanda allo strumento della Rete dei siti critici [http://criticalsites.wetlands.org/fr](http://criticalsites.wetlands.org/fr).
 
 <table>
 <tr><td>Africa settentrionale</td><td>Algeria, Egitto, Libia, Marocco, Tunisia.</td></tr>
-<tr><td>Africa occidentale</td><td>Benin, Burkina Faso, Camerun, Cabo Verde, Ciad, Costa d’Avorio, Gambia, Ghana, Guinea, Guinea-Bissau, Liberia, Mali, Mauritania, Niger, Nigeria, Senegal, Sierra Leone, Togo.</td></tr>
+<tr><td>Africa occidentale</td><td>Benin, Burkina Faso, Camerun, Capo Verde, Ciad, Costa d’Avorio, Gambia, Ghana, Guinea, Guinea-Bissau, Liberia, Mali, Mauritania, Niger, Nigeria, Senegal, Sierra Leone, Togo.</td></tr>
 <tr><td>Africa orientale</td><td>Burundi, Eritrea, Etiopia, Gibuti, Kenya, Repubblica Unita di Tanzania, Ruanda, Somalia, Sudan, Sudan del Sud, Uganda.</td></tr>
 <tr><td>Africa nord-occidentale</td><td>Algeria, Marocco, Tunisia.</td></tr>
 <tr><td>Africa nord-orientale</td><td>Egitto, Eritrea, Etiopia, Gibuti, Somalia, Sudan, Sudan del Sud.</td></tr>
@@ -896,7 +898,7 @@ Occorre ricordare che le aree di ripartizione degli uccelli acquatici conoscono 
 <tr><td>Africa centrale</td><td>Camerun, Congo, Gabon, Guinea equatoriale, Repubblica Centrafricana, Repubblica Democratica del Congo, São Tomé e Principe.</td></tr>
 <tr><td>Africa subsahariana</td><td>Tutti gli Stati africani a sud del Sahara.</td></tr>
 <tr><td>Africa tropicale</td><td>Africa subsahariana esclusi Eswatini, Lesotho, Namibia, Sudafrica.</td></tr>
-<tr><td>Paleartico occidentale</td><td>Cfr. definizione *dell’Handbook of the Birds of Europe, the Middle East and North Africa* (Cramp e Simmons, 1977).</td></tr>
+<tr><td>Paleartico occidentale</td><td>Cfr. definizione dell’*Handbook of the Birds of Europe, the Middle East and North Africa* (Cramp e Simmons, 1977).</td></tr>
 <tr><td>Europa nord-occidentale</td><td>Belgio, Danimarca, Finlandia, Francia, Germania, Irlanda, Islanda, Lussemburgo, Norvegia, Paesi Bassi, Regno Unito di Gran Bretagna e Irlanda del Nord, Svezia.</td></tr>
 <tr><td>Europa occidentale</td><td>Europa nord-occidentale con Portogallo e Spagna.</td></tr>
 <tr><td>Europa nord-orientale</td><td>Parte settentrionale della Federazione Russa a ovest degli Urali.</td></tr>
@@ -930,7 +932,7 @@ Occorre ricordare che le aree di ripartizione degli uccelli acquatici conoscono 
 <tr><td>S: Sud</td><td>O: Ovest</td></tr>
 <tr><td>NE: Nord-Est</td><td>NO: Nord-Ovest</td></tr>
 <tr><td>SE: Sud-Est</td><td>SO: Sud-Ovest</td></tr>
-<tr><td colspan="2">(): Stato di conservazione della popolazione sconosciuto. Stato di conservazione valutato</td></tr>
+<tr><td colspan="2">(): Lo stato della popolazione è incerto. Lo stato di conservazione è stimato sulla base di tendenze statisticamente incerte o di dimensioni sconosciute della popolazione.</td></tr>
 <tr><td colspan="2">\*: In deroga alle norme vigenti, le popolazioni figuranti nelle categorie 2 e 3 della colonna A e contrassegnate con un asterisco possono continuare a essere cacciate sulla base di un’utilizzazione sostenibile. Detta utilizzazione sostenibile deve essere eseguita nel quadro delle disposizioni speciali di un piano d’azione internazionale stabilito per specie che cercherà di realizzare i principi di gestione adattativa dei prelievi (cfr. paragrafo 2.1.1 dell’Allegato 3 dell’Accordo).</td></tr>
 </table>
 
@@ -948,23 +950,24 @@ Note
 
 <table>
 <tr><th>Popolazioni</th><th>A</th><th>B</th><th>C</th></tr>
-<tr><td colspan="4">**Famiglia ANATIDAE (Anatre, oche, cigni)**</td></tr>
+<tr><td colspan="4">Famiglia ANATIDAE (Anatre, oche, cigni)</td></tr>
 <tr><td>*Dendrocygna viduata* (Anatra fischiatrice facciabianca)</td><td></td><td></td><td></td></tr>
-<tr><td>– Africa O (dal Senegal al Ciad)</td><td></td><td></td><td>1</td></tr>
+<tr><td>– Africa O (dal Senegal al Ciad)</td><td></td><td>(2e)</td><td></td></tr>
 <tr><td>– Africa E e S</td><td></td><td></td><td>1</td></tr>
 <tr><td>*Dendrocygna bicolor* (Anatra fischiatrice fulva)</td><td></td><td></td><td></td></tr>
-<tr><td>– Africa O (dal Senegal al Ciad)</td><td></td><td>1</td><td></td></tr>
-<tr><td>– Africa E e S</td><td></td><td>2c</td><td></td></tr>
+<tr><td>– Africa O (dal Senegal al Ciad)</td><td></td><td>(1)</td><td></td></tr>
+<tr><td>– Africa E e S</td><td></td><td></td><td>(1)</td></tr>
 <tr><td>*Thalassornis leuconotus leuconotus* (Anatra dorso bianco)</td><td></td><td></td><td></td></tr>
 <tr><td>– Africa O</td><td>1c</td><td></td><td></td></tr>
 <tr><td>– Africa E e S</td><td>2\*</td><td></td><td></td></tr>
 <tr><td>*Oxyura maccoa* (Gobbo maccoa)</td><td></td><td></td><td></td></tr>
-<tr><td>– Africa E</td><td>1b/1c</td><td></td><td></td></tr>
+<tr><td>– Altopiani etiopi</td><td>1b/1c</td><td></td><td></td></tr>
+<tr><td>[tab]</td><td></td><td></td><td></td></tr>
 <tr><td>– Africa S</td><td>1b/1c</td><td></td><td></td></tr>
 <tr><td>*Oxyura leucocephala* (Gobbo rugginoso)</td><td></td><td></td><td></td></tr>
 <tr><td>– Mediterraneo O (Spagna e Marocco)</td><td>1a/1b/1c</td><td></td><td></td></tr>
 <tr><td>– Algeria e Tunisia</td><td>1a/1b/1c</td><td></td><td></td></tr>
-<tr><td>– Mediterraneo E, Turchia e Asia SO</td><td>1a/1b/1c</td><td></td><td></td></tr>
+<tr><td>– Mediterraneo E, Turchia e Asia SO</td><td>1a/1b/2</td><td></td><td></td></tr>
 <tr><td>*Cygnus olor* (Cigno reale)</td><td></td><td></td><td></td></tr>
 <tr><td>– Europa continentale NO ed Europa centrale</td><td></td><td></td><td>1</td></tr>
 <tr><td>– Mar Nero</td><td></td><td>1</td><td></td></tr>
@@ -981,7 +984,7 @@ Note
 <tr><td>– Siberia O/Europa O</td><td></td><td>2b</td><td></td></tr>
 <tr><td>*Branta bernicla hrota* (Oca colombaccio)</td><td></td><td></td><td></td></tr>
 <tr><td>– Svalbard, Danimarca e Regno Unito</td><td>2</td><td></td><td></td></tr>
-<tr><td>– Canada e Groenlandia/Irlanda</td><td>3a</td><td></td><td></td></tr>
+<tr><td>– Canada e Groenlandia/Irlanda</td><td>3a/3e</td><td></td><td></td></tr>
 <tr><td>*Branta leucopsis* (Oca facciabianca)</td><td></td><td></td><td></td></tr>
 <tr><td>– Groenlandia E/Scozia e Irlanda</td><td></td><td>1</td><td></td></tr>
 <tr><td>– Svalbard/Scozia SO</td><td>3a</td><td></td><td></td></tr>
@@ -989,18 +992,20 @@ Note
 <tr><td>*Branta ruficollis* (Oca collorosso)</td><td></td><td></td><td></td></tr>
 <tr><td>– Siberia N/Mar Nero e Mar Caspio</td><td>1a/1b/3a</td><td></td><td></td></tr>
 <tr><td>*Anser anser anser* (Oca selvatica)</td><td></td><td></td><td></td></tr>
-<tr><td>– Islanda/Regno Unito e Irlanda</td><td></td><td>1</td><td></td></tr>
+<tr><td>– Islanda/Regno Unito e Irlanda</td><td>3e\*</td><td></td><td></td></tr>
 <tr><td>– Europa NO/Europa SO</td><td></td><td></td><td>1</td></tr>
 <tr><td>– Europa centrale/Africa N</td><td></td><td>1</td><td></td></tr>
 <tr><td>*Anser anser rubrirostris* (Oca selvatica)</td><td></td><td></td><td></td></tr>
-<tr><td>– Mar Nero e Turchia</td><td></td><td>1</td><td></td></tr>
-<tr><td>– Siberia O/Mar Caspio e Iraq</td><td></td><td></td><td>1</td></tr>
+<tr><td>– Mar Nero e Turchia</td><td>3c</td><td></td><td></td></tr>
+<tr><td>– Siberia O/Mar Caspio e Iraq</td><td></td><td>2c/2e</td><td></td></tr>
 <tr><td>*Anser fabalis fabalis* (Oca granaiola)</td><td></td><td></td><td></td></tr>
-<tr><td>– Europa NE/Europa NO</td><td>3c\*</td><td></td><td></td></tr>
+<tr><td>– Scandinavia/Danimarca e Regno Unito</td><td>1c</td><td></td><td></td></tr>
+<tr><td>– Finlandia e Russia NO/Svezia, Danimarca e Germania</td><td>3c\*</td><td></td><td></td></tr>
+<tr><td>– Siberia O/Polonia e Germania</td><td>2</td><td></td><td></td></tr>
 <tr><td>*Anser fabalis johanseni* (Oca granaiola)</td><td></td><td></td><td></td></tr>
 <tr><td>– Siberia O e centrale/dal Turkmenistan alla Cina O</td><td>1c</td><td></td><td></td></tr>
 <tr><td>*Anser fabalis rossicus* (Oca granaiola)</td><td></td><td></td><td></td></tr>
-<tr><td>– Siberia O e centrale/Europa NE e SO</td><td></td><td></td><td>(1)</td></tr>
+<tr><td>– Siberia O e centrale/Europa NE e SO</td><td></td><td></td><td>1</td></tr>
 <tr><td>*Anser brachyrhynchus* (Oca zamperosse)</td><td></td><td></td><td></td></tr>
 <tr><td>– Groenlandia E e Islanda/Regno Unito</td><td></td><td></td><td>1</td></tr>
 <tr><td>– Svalbard/Europa NO</td><td></td><td>1</td><td></td></tr>
@@ -1008,7 +1013,7 @@ Note
 <tr><td>– Siberia NO ed Europa NE/Europa NO</td><td></td><td></td><td>1</td></tr>
 <tr><td>– Siberia O/Europa centrale</td><td></td><td></td><td>1</td></tr>
 <tr><td>– Siberia O/Mar Nero e Turchia</td><td></td><td></td><td>1</td></tr>
-<tr><td>– Siberia N/Mar Caspio e Iraq</td><td></td><td>1</td><td></td></tr>
+<tr><td>– Siberia N/Mar Caspio e Iraq</td><td></td><td></td><td>(1)</td></tr>
 <tr><td>*Anser albifrons flavirostris* (Oca lombardella)</td><td></td><td></td><td></td></tr>
 <tr><td>– Groenlandia/Irlanda e Regno Unito</td><td>2\*</td><td></td><td></td></tr>
 <tr><td>*Anser erythropus* (Oca lombardella minore)</td><td></td><td></td><td></td></tr>
@@ -1018,12 +1023,13 @@ Note
 <tr><td>– Islanda e Groenlandia (Br)</td><td>1b</td><td></td><td></td></tr>
 <tr><td>– Siberia O/Europa N (Br)</td><td>1b</td><td></td><td></td></tr>
 <tr><td>*Somateria spectabilis* (Re degli edredoni)</td><td></td><td></td><td></td></tr>
-<tr><td>– Groenlandia E, Europa NE e Siberia O</td><td></td><td></td><td>1</td></tr>
+<tr><td>– Groenlandia E, Europa NE e Siberia O</td><td></td><td>(2e)</td><td></td></tr>
 <tr><td>*Somateria mollissima mollissima* (Edredone)</td><td></td><td></td><td></td></tr>
-<tr><td>– Baltico, Danimarca e Paesi Bassi</td><td>4</td><td></td><td></td></tr>
+<tr><td>– Mar Baltico, Mare del Nord e Mar Celtico</td><td>4</td><td></td><td></td></tr>
 <tr><td>– Norvegia e Russia</td><td>4</td><td></td><td></td></tr>
 <tr><td>*Somateria mollissima borealis* (Edredone)</td><td></td><td></td><td></td></tr>
 <tr><td>– Svalbard e Terra di Francesco Giuseppe (rip)</td><td>4</td><td></td><td></td></tr>
+<tr><td>– Groenlandia E/Islanda</td><td>4</td><td></td><td></td></tr>
 <tr><td>*Polysticta stelleri* (Edredone di Steller)</td><td></td><td></td><td></td></tr>
 <tr><td>– Siberia O/Europa NE</td><td>1a/1b</td><td></td><td></td></tr>
 <tr><td>*Melanitta fusca* (Orco marino)</td><td></td><td></td><td></td></tr>
@@ -1032,20 +1038,20 @@ Note
 <tr><td>*Melanitta nigra* (Orchetto marino)</td><td></td><td></td><td></td></tr>
 <tr><td>– Siberia O ed Europa N/Europa O e Africa NO</td><td></td><td>2a</td><td></td></tr>
 <tr><td>*Bucephala clangula clangula* (Quattrocchi)</td><td></td><td></td><td></td></tr>
-<tr><td>– Europa NO ed Europa centrale (svern)</td><td></td><td></td><td>1</td></tr>
-<tr><td>– Europa NE/Adriatico</td><td></td><td></td><td>1</td></tr>
+<tr><td>– Europa NO ed Europa centrale (svern)</td><td></td><td>2c</td><td></td></tr>
+<tr><td>– Europa NE/Adriatico</td><td></td><td>2e</td><td></td></tr>
 <tr><td>– Siberia O ed Europa NE</td><td></td><td>1</td><td></td></tr>
-<tr><td>– Siberia O/Mar Caspio</td><td></td><td>1</td><td></td></tr>
+<tr><td>– Siberia O/Mar Caspio</td><td>(3c/3e)</td><td></td><td></td></tr>
 <tr><td>*Mergellus albellus* (Pesciaiola)</td><td></td><td></td><td></td></tr>
 <tr><td>– Europa NO ed Europa centrale (svern)</td><td></td><td>1</td><td></td></tr>
 <tr><td>– Europa NE/Mar Nero e Mediterraneo E</td><td>2</td><td></td><td></td></tr>
-<tr><td>– Siberia O/Asia SO</td><td></td><td>1</td><td></td></tr>
+<tr><td>– Siberia O/Asia SO</td><td></td><td>(1)</td><td></td></tr>
 <tr><td>*Mergus merganser merganser* (Smergo maggiore)</td><td></td><td></td><td></td></tr>
 <tr><td>– Europa NO ed Europa centrale (svern)</td><td></td><td></td><td>1</td></tr>
 <tr><td>– Europa NE/Mar Nero</td><td>2</td><td></td><td></td></tr>
-<tr><td>– Siberia O/Mar Caspio</td><td>2</td><td></td><td></td></tr>
+<tr><td>– Siberia O/Mar Caspio</td><td>(2)</td><td></td><td></td></tr>
 <tr><td>*Mergus serrator* (Smergo minore)</td><td></td><td></td><td></td></tr>
-<tr><td>– Europa NO e centrale (svern)</td><td>3c</td><td></td><td></td></tr>
+<tr><td>– Europa NO e centrale (svern)</td><td></td><td>2c</td><td></td></tr>
 <tr><td>– Europa NE/Mar Nero e Mediterraneo</td><td>3c</td><td></td><td></td></tr>
 <tr><td>– Siberia O/Asia SO e Asia centrale</td><td>1c</td><td></td><td></td></tr>
 <tr><td>*Alopochen aegyptiaca* (Oca egiziana)</td><td></td><td></td><td></td></tr>
@@ -1054,13 +1060,13 @@ Note
 <tr><td>*Tadorna tadorna* (Volpoca)</td><td></td><td></td><td></td></tr>
 <tr><td>– Europa NO</td><td></td><td>2a</td><td></td></tr>
 <tr><td>– Mar Nero e Mediterraneo</td><td></td><td></td><td>1</td></tr>
-<tr><td>– Asia O e Mar Caspio/Iran e Iraq</td><td>3c</td><td></td><td></td></tr>
+<tr><td>– Asia O e Mar Caspio/Iran e Iraq</td><td>3c/(3e)</td><td></td><td></td></tr>
 <tr><td>*Tadorna ferruginea* (Casarca)</td><td></td><td></td><td></td></tr>
 <tr><td>– Africa NO</td><td>1c</td><td></td><td></td></tr>
 <tr><td>– Mediterraneo E e Mar Nero/Africa NE</td><td></td><td>1</td><td></td></tr>
 <tr><td>– Westasien und Kaspisches Meer/Iran und Irak</td><td>3c</td><td></td><td></td></tr>
 <tr><td>*Tadorna cana* (Casarca sudafricana)</td><td></td><td></td><td></td></tr>
-<tr><td>– Africa S</td><td></td><td>1</td><td></td></tr>
+<tr><td>– Africa S</td><td>3c/(3e)</td><td></td><td></td></tr>
 <tr><td>*Plectropterus gambensis gambensis* (Oca dello sperone)</td><td></td><td></td><td></td></tr>
 <tr><td>– Africa O</td><td></td><td>1</td><td></td></tr>
 <tr><td>– Africa E (dal Sudan allo Zambia)</td><td></td><td></td><td>1</td></tr>
@@ -1068,46 +1074,46 @@ Note
 <tr><td>– Africa S</td><td></td><td>(1)</td><td></td></tr>
 <tr><td>*Sarkidiornis melanotos* (Oca dal bernoccolo)</td><td></td><td></td><td></td></tr>
 <tr><td>– Africa O</td><td>3c</td><td></td><td></td></tr>
-<tr><td>– Africa S ed E</td><td></td><td>(2c)</td><td></td></tr>
+<tr><td>– Africa S ed E</td><td></td><td>(2c/2e)</td><td></td></tr>
 <tr><td>*Nettapus auritus* (Oca pigmea africana)</td><td></td><td></td><td></td></tr>
 <tr><td>– Africa O</td><td>1c</td><td></td><td></td></tr>
-<tr><td>– Africa S ed E</td><td></td><td></td><td>(1)</td></tr>
+<tr><td>– Africa S ed E</td><td></td><td></td><td>1</td></tr>
 <tr><td>*Marmaronetta angustirostris* (Anatra marmorizzata)</td><td></td><td></td><td></td></tr>
 <tr><td>– Mediterraneo O/Mediterraneo O e Africa O</td><td>1a/1b/1c</td><td></td><td></td></tr>
 <tr><td>– Mediterraneo E</td><td>1a/1b/1c</td><td></td><td></td></tr>
 <tr><td>– Asia SO</td><td>1a/1b/3c</td><td></td><td></td></tr>
 <tr><td>*Netta rufina* (Fistione turco)</td><td></td><td></td><td></td></tr>
 <tr><td>– Europa SO ed Europa centrale/Mediterraneo O</td><td></td><td>1</td><td></td></tr>
-<tr><td>– Mar Nero e Mediterraneo E</td><td></td><td>1</td><td></td></tr>
-<tr><td>– Asia O e centrale/Asia SO</td><td></td><td>2c</td><td></td></tr>
+<tr><td>– Mar Nero e Mediterraneo E</td><td>3e</td><td></td><td></td></tr>
+<tr><td>– Asia O e centrale/Asia SO</td><td></td><td>(2c/2e)</td><td></td></tr>
 <tr><td>*Netta erythrophthalma brunnea* (Fistione meridionale)</td><td></td><td></td><td></td></tr>
 <tr><td>– Africa S ed E</td><td>3c</td><td></td><td></td></tr>
 <tr><td>*Aythya ferina* (Moriglione)</td><td></td><td></td><td></td></tr>
 <tr><td>– Europa NE/Europa NO</td><td>1b</td><td></td><td></td></tr>
-<tr><td>– Europa centrale e NE/Mar Nero e Mediterraneo</td><td>1b[^annex3-lvlu1-lvlu8-lvlu4-1]</td><td></td><td></td></tr>
+<tr><td>– Europa centrale e NE/Mar Nero e Mediterraneo</td><td>1b[^annexu1-lvlu1-lvlu4-1]</td><td></td><td></td></tr>
 <tr><td>– Siberia O/Asia SO</td><td>1b</td><td></td><td></td></tr>
 <tr><td>*Aythya nyroca* (Moretta tabaccata)</td><td></td><td></td><td></td></tr>
 <tr><td>– Mediterraneo O/Africa N e O</td><td>1a/1c</td><td></td><td></td></tr>
 <tr><td>– Europa E/Mediterraneo E e Africa saheliana</td><td>1a</td><td></td><td></td></tr>
 <tr><td>– Asia O/Asia SO e Africa NE</td><td>1a</td><td></td><td></td></tr>
 <tr><td>*Aythya fuligula* (Moretta)</td><td></td><td></td><td></td></tr>
-<tr><td>– Europa NO (svern)</td><td></td><td></td><td>1</td></tr>
+<tr><td>– Europa NO (svern)</td><td></td><td>(2c)</td><td></td></tr>
 <tr><td>– Europa centrale, Mar Nero e Mediterraneo (svern)</td><td></td><td></td><td>1</td></tr>
-<tr><td>– Siberia O/Asia SO e Africa NE</td><td></td><td>2c</td><td></td></tr>
+<tr><td>– Siberia O/Asia SO e Africa NE</td><td></td><td>2c/(2e)</td><td></td></tr>
 <tr><td>*Aythya marila marila* (Moretta grigia)</td><td></td><td></td><td></td></tr>
-<tr><td>– Europa N/Europa O</td><td></td><td>2c</td><td></td></tr>
-<tr><td>– Siberia O/Mar Nero e Mar Caspio</td><td></td><td>2c</td><td></td></tr>
+<tr><td>– Europa N/Europa O</td><td></td><td></td><td>1</td></tr>
+<tr><td>– Siberia O/Mar Nero e Mar Caspio</td><td>(2c/2e)</td><td></td><td></td></tr>
 <tr><td>*Spatula querquedula* (Marzaiola)</td><td></td><td></td><td></td></tr>
 <tr><td>– Siberia O ed Europa/Africa O</td><td></td><td></td><td>1</td></tr>
-<tr><td>– Siberia O/Asia SO, Africa NE ed E</td><td></td><td></td><td>(1)</td></tr>
+<tr><td>– Siberia O/Asia SO, Africa NE ed E</td><td></td><td>(2c/2e)</td><td></td></tr>
 <tr><td>*Spatula hottentota* (Anatra ottentotta)</td><td></td><td></td><td></td></tr>
 <tr><td>– Bacino del lago Ciad</td><td>1c</td><td></td><td></td></tr>
 <tr><td>– Africa E (da sud allo Zambia N)</td><td></td><td>1</td><td></td></tr>
-<tr><td>– Africa S (da nord allo Zambia S)</td><td></td><td>1</td><td></td></tr>
+<tr><td>– Africa S (da nord allo Zambia S)</td><td>3c/3e</td><td></td><td></td></tr>
 <tr><td>*Spatula clypeata* (Mestolone)</td><td></td><td></td><td></td></tr>
 <tr><td>– Europa NO ed Europa centrale (svern)</td><td></td><td>1</td><td></td></tr>
 <tr><td>– Siberia O, Europa NE ed E/Europa S e Africa O</td><td></td><td></td><td>1</td></tr>
-<tr><td>– Siberia O/Asia SO, Africa NE ed E</td><td></td><td></td><td>1</td></tr>
+<tr><td>– Siberia O/Asia SO, Africa NE ed E</td><td></td><td>2c</td><td></td></tr>
 <tr><td>*Mareca strepera strepera* (Canapiglia)</td><td></td><td></td><td></td></tr>
 <tr><td>– Europa NO</td><td></td><td></td><td>1</td></tr>
 <tr><td>– Europa NE/Mar Nero e Mediterraneo</td><td></td><td></td><td>1</td></tr>
@@ -1117,39 +1123,39 @@ Note
 <tr><td>– Siberia O ed Europa NE/Mar Nero e Mediterraneo</td><td></td><td>2c</td><td></td></tr>
 <tr><td>– Siberia O/Asia SO e Africa NE</td><td></td><td>2c</td><td></td></tr>
 <tr><td>*Anas undulata undulata* (Anatra ondulata)</td><td></td><td></td><td></td></tr>
-<tr><td>– Africa S</td><td></td><td></td><td>1</td></tr>
+<tr><td>– Africa S</td><td></td><td></td><td>(1)</td></tr>
 <tr><td>*Anas platyrhynchos platyrhynchos* (Germano reale)</td><td></td><td></td><td></td></tr>
 <tr><td>– Europa NO</td><td></td><td></td><td>1</td></tr>
-<tr><td>– Europa N/Mediterraneo O</td><td></td><td></td><td>1</td></tr>
+<tr><td>– Europa N/Mediterraneo O</td><td></td><td>2c</td><td></td></tr>
 <tr><td>– Europa E/Mar Nero e Mediterraneo E</td><td></td><td></td><td>1</td></tr>
-<tr><td>– Siberia O/Asia SO</td><td></td><td></td><td>1</td></tr>
+<tr><td>– Siberia O/Asia SO</td><td></td><td>2c</td><td></td></tr>
 <tr><td>*Anas capensis* (Alzavola del capo)</td><td></td><td></td><td></td></tr>
 <tr><td>– Africa E (Rift Valley)</td><td>1c</td><td></td><td></td></tr>
 <tr><td>– Bacino del lago Ciad</td><td>1c</td><td></td><td></td></tr>
-<tr><td>– Africa S (a N di Angola e Zambia)</td><td></td><td>1</td><td></td></tr>
+<tr><td>– Africa S (a N di Angola e Zambia)</td><td>3c</td><td></td><td></td></tr>
 <tr><td>*Anas erythrorhyncha* (Anatra beccorosso)</td><td></td><td></td><td></td></tr>
-<tr><td>– Africa S</td><td></td><td></td><td>1</td></tr>
+<tr><td>– Africa S</td><td></td><td>(2c/2e)</td><td></td></tr>
 <tr><td>– Africa E</td><td></td><td></td><td>1</td></tr>
 <tr><td>– Madagascar</td><td>2</td><td></td><td></td></tr>
 <tr><td>*Anas acuta* (Codone)</td><td></td><td></td><td></td></tr>
 <tr><td>– Europa NO</td><td></td><td>1</td><td></td></tr>
-<tr><td>– Siberia O, Europa NE ed E/Europa S e Africa O</td><td></td><td></td><td>1</td></tr>
+<tr><td>– Siberia O, Europa NE ed E/Europa S e Africa O</td><td></td><td>2e</td><td></td></tr>
 <tr><td>– Siberia O/Asia SO e Africa E</td><td></td><td>2c</td><td></td></tr>
 <tr><td>*Anas crecca crecca* (Alzavola)</td><td></td><td></td><td></td></tr>
 <tr><td>– Europa NO</td><td></td><td></td><td>1</td></tr>
 <tr><td>– Siberia O ed Europa NE/Mar Nero e Mediterraneo</td><td></td><td></td><td>1</td></tr>
 <tr><td>– Siberia O/Asia SO e Africa NE</td><td></td><td>2c</td><td></td></tr>
-<tr><td colspan="4">**Famiglia** **PODICIPEDIDAE** **(Svassi)**</td></tr>
+<tr><td colspan="4">Famiglia PODICIPEDIDAE (Svassi)</td></tr>
 <tr><td>*Tachybaptus ruficollis ruficollis* (Tuffetto)</td><td></td><td></td><td></td></tr>
 <tr><td>– Europa e Africa NO</td><td></td><td></td><td>1</td></tr>
 <tr><td>*Podiceps grisegena grisegena* (Svasso collorosso)</td><td></td><td></td><td></td></tr>
-<tr><td>– Europa NO (svern)</td><td></td><td>1</td><td></td></tr>
-<tr><td>– Mar Nero e Mediterraneo (svern)</td><td></td><td>1</td><td></td></tr>
+<tr><td>– Europa NO (svern)</td><td>3c</td><td></td><td></td></tr>
+<tr><td>– Mar Nero e Mediterraneo (svern)</td><td>3c</td><td></td><td></td></tr>
 <tr><td>– Mar Caspio (svern)</td><td>2</td><td></td><td></td></tr>
 <tr><td>*Podiceps cristatus cristatus* (Svasso maggiore)</td><td></td><td></td><td></td></tr>
 <tr><td>– Europa NO e O</td><td></td><td></td><td>1</td></tr>
 <tr><td>– Mar Nero e Mediterraneo (svern)</td><td></td><td></td><td>1</td></tr>
-<tr><td>– Mar Caspio e Asia SO (svern)</td><td>3c</td><td></td><td></td></tr>
+<tr><td>– Mar Caspio e Asia SO (svern)</td><td>3c/3e</td><td></td><td></td></tr>
 <tr><td>*Podiceps cristatus infuscatus* (Svasso maggiore)</td><td></td><td></td><td></td></tr>
 <tr><td>– Africa E (dall’Etiopia al N dello Zambia)</td><td>1c</td><td></td><td></td></tr>
 <tr><td>– Africa S</td><td>1c</td><td></td><td></td></tr>
@@ -1158,23 +1164,23 @@ Note
 <tr><td>– Europa NE (becco piccolo)</td><td>1b/2</td><td></td><td></td></tr>
 <tr><td>– Mar Caspio e Asia S (svern)</td><td>1b/1c</td><td></td><td></td></tr>
 <tr><td>*Podiceps nigricollis nigricollis* (Svasso piccolo)</td><td></td><td></td><td></td></tr>
-<tr><td>– Europa/Europa S e O e Africa N</td><td></td><td></td><td>1</td></tr>
+<tr><td>– Europa/Europa S e O e Africa N</td><td></td><td>2c</td><td></td></tr>
 <tr><td>– Asia O/Asia SO e S</td><td>3c</td><td></td><td></td></tr>
 <tr><td>*Podiceps nigricollis gurneyi* (Svasso piccolo)</td><td></td><td></td><td></td></tr>
 <tr><td>– Africa S</td><td>2</td><td></td><td></td></tr>
-<tr><td colspan="4">**Famiglia** **PHOENICOPTERIDAE (Fenicotteri)**</td></tr>
+<tr><td colspan="4">Famiglia PHOENICOPTERIDAE (Fenicotteri)</td></tr>
 <tr><td>*Phoenicopterus roseus* (Fenicottero)</td><td></td><td></td><td></td></tr>
-<tr><td>– Africa O</td><td>3a</td><td></td><td></td></tr>
-<tr><td>– Africa E</td><td>3a/3c</td><td></td><td></td></tr>
+<tr><td>– Africa O</td><td></td><td>2a</td><td></td></tr>
+<tr><td>– Africa E</td><td>3a/3c/(3e)</td><td></td><td></td></tr>
 <tr><td>– Africa S (fino al Madagascar)</td><td></td><td>2a</td><td></td></tr>
 <tr><td>– Mediterraneo O</td><td></td><td>2a</td><td></td></tr>
 <tr><td>– Mediterraneo E</td><td></td><td>2a</td><td></td></tr>
-<tr><td>– Asia SO e S</td><td></td><td>2a</td><td></td></tr>
+<tr><td>– Asia SO e S</td><td></td><td>2a/2c/(2e)</td><td></td></tr>
 <tr><td>*Phoeniconaias minor* (Fenicottero minore)</td><td></td><td></td><td></td></tr>
 <tr><td>– Africa O</td><td>3a</td><td></td><td></td></tr>
-<tr><td>– Africa E</td><td>(3c)</td><td></td><td></td></tr>
+<tr><td>– Africa E</td><td>4</td><td></td><td></td></tr>
 <tr><td>– Africa S (fino al Madagascar)</td><td>4</td><td></td><td></td></tr>
-<tr><td colspan="4">**Famiglia** **PHAETHONTIDAE** **(Fetonti)**</td></tr>
+<tr><td colspan="4">Famiglia PHAETHONTIDAE (Fetonti)</td></tr>
 <tr><td>*Phaethon aetherus aethereus* (Fetonte beccorosso)</td><td></td><td></td><td></td></tr>
 <tr><td>– Atlantico S</td><td>1c</td><td></td><td></td></tr>
 <tr><td>*Phaethon aetherus indicus* (Fetonte beccorosso)</td><td></td><td></td><td></td></tr>
@@ -1183,7 +1189,7 @@ Note
 <tr><td>– Oceano Indiano</td><td></td><td>1</td><td></td></tr>
 <tr><td>*Phaethon lepturus lepturus* (Fetonte codabianca)</td><td></td><td></td><td></td></tr>
 <tr><td>– Oceano Indiano O</td><td></td><td>1</td><td></td></tr>
-<tr><td colspan="4">**Famiglia RALLIDAE (Rallidi, folaga, gallinella d’acqua e simili)**</td></tr>
+<tr><td colspan="4">Famiglia RALLIDAE (Rallidi, folaga, gallinella d’acqua e simili)</td></tr>
 <tr><td>*Sarothrura elegans reichenovi* (Schiribilla macchiefulve)</td><td></td><td></td><td></td></tr>
 <tr><td>– dall’Africa SO all’Africa centrale</td><td></td><td></td><td>(1)</td></tr>
 <tr><td>*Sarothrura elegans elegans* (Schiribilla macchiefulve)</td><td></td><td></td><td></td></tr>
@@ -1194,7 +1200,7 @@ Note
 <tr><td>– Etiopia</td><td>1a/1b/1c</td><td></td><td></td></tr>
 <tr><td>– Africa S</td><td>1a/1b/1c</td><td></td><td></td></tr>
 <tr><td>*Rallus aquaticus aquaticus* (Porciglione)</td><td></td><td></td><td></td></tr>
-<tr><td>– Europa e Africa N</td><td></td><td></td><td>(1)</td></tr>
+<tr><td>– Europa e Africa N</td><td></td><td></td><td>1</td></tr>
 <tr><td>*Rallus aquaticus korejewi* (Porciglione)</td><td></td><td></td><td></td></tr>
 <tr><td>– Siberia O/Asia SO</td><td></td><td></td><td>(1)</td></tr>
 <tr><td>*Rallus caerulescens* (Porciglione africano)</td><td></td><td></td><td></td></tr>
@@ -1204,7 +1210,7 @@ Note
 <tr><td>*Crex crex* (Re di quaglie)</td><td></td><td></td><td></td></tr>
 <tr><td>– Europa e Asia O/Africa subsahariana</td><td></td><td></td><td>1</td></tr>
 <tr><td>*Porzana porzana* (Voltolino)</td><td></td><td></td><td></td></tr>
-<tr><td>– Europa/Africa</td><td></td><td></td><td>1</td></tr>
+<tr><td>– Europa/Africa</td><td></td><td>2c</td><td></td></tr>
 <tr><td>*Zapornia flavirostra* (Schiribilla nera africana)</td><td></td><td></td><td></td></tr>
 <tr><td>– Africa subsahariana</td><td></td><td></td><td>1</td></tr>
 <tr><td>*Zapornia parva* (Schiribilla)</td><td></td><td></td><td></td></tr>
@@ -1216,18 +1222,18 @@ Note
 <tr><td>*Porphyrio alleni* (Pollo sultano di Allen)</td><td></td><td></td><td></td></tr>
 <tr><td>– Africa subsahariana</td><td></td><td>(2c)</td><td></td></tr>
 <tr><td>*Gallinula chloropus chloropus* (Gallinella d’acqua)</td><td></td><td></td><td></td></tr>
-<tr><td>– Europa e Africa N</td><td></td><td></td><td>1</td></tr>
-<tr><td>– Asia O e SO</td><td></td><td></td><td>(1)</td></tr>
+<tr><td>– Europa e Africa N</td><td></td><td>2c</td><td></td></tr>
+<tr><td>– Asia O e SO</td><td></td><td></td><td>1</td></tr>
 <tr><td>*Gallinula angulata* (Gallinella d’acqua minore)</td><td></td><td></td><td></td></tr>
-<tr><td>– Africa subsahariana</td><td></td><td></td><td>(1)</td></tr>
+<tr><td>– Africa subsahariana</td><td>(3c/3e)</td><td></td><td>1</td></tr>
 <tr><td>*Fulica cristata* (Folaga crestata)</td><td></td><td></td><td></td></tr>
-<tr><td>– Africa subsahariana</td><td></td><td></td><td>1</td></tr>
+<tr><td>– Africa subsahariana</td><td></td><td>2c</td><td></td></tr>
 <tr><td>– Spagna e Marocco</td><td>1c</td><td></td><td></td></tr>
 <tr><td>*Fulica atra atra* (Folaga)</td><td></td><td></td><td></td></tr>
 <tr><td>– Europa NO (svern)</td><td></td><td>2c</td><td></td></tr>
-<tr><td>– Mar Nero e Mediterraneo (svern)</td><td></td><td></td><td>1</td></tr>
-<tr><td>– Asia SO (svern)</td><td></td><td></td><td>(1)</td></tr>
-<tr><td colspan="4">**Famiglia GRUIDAE (Gru)**</td></tr>
+<tr><td>– Mar Nero e Mediterraneo (svern)</td><td></td><td>2c/2e</td><td></td></tr>
+<tr><td>– Asia SO (svern)</td><td></td><td>2c/2e</td><td></td></tr>
+<tr><td colspan="4">Famiglia GRUIDAE (Gru)</td></tr>
 <tr><td>*Balearica regulorum regulorum* (Gru coronata grigia)</td><td></td><td></td><td></td></tr>
 <tr><td>– Africa S (a N di Angola e Zimbabwe S)</td><td>1b/1c</td><td></td><td></td></tr>
 <tr><td>*Balearica regulorum gibbericeps* (Gru coronata grigia)</td><td></td><td></td><td></td></tr>
@@ -1244,8 +1250,8 @@ Note
 <tr><td>– Estremità Africa S</td><td>1b</td><td></td><td></td></tr>
 <tr><td>*Anthropoides virgo* (Gru damigella)</td><td></td><td></td><td></td></tr>
 <tr><td>– Mar Nero (Ucraina)/Africa NE</td><td>1c</td><td></td><td></td></tr>
-<tr><td>[tab]</td><td></td><td></td><td></td></tr>
-<tr><td>– Kalmykia/Africa NE</td><td></td><td>1</td><td></td></tr>
+<tr><td>– Kalmykia/Africa NE</td><td>2</td><td></td><td></td></tr>
+<tr><td>– Asia centrale O (rip)</td><td></td><td>1</td><td></td></tr>
 <tr><td>*Grus grus grus* (Gru)</td><td></td><td></td><td></td></tr>
 <tr><td>– Europa NO/Penisola Iberica</td><td></td><td></td><td>1</td></tr>
 <tr><td>– Europa NO ed Europa centrale/Africa N</td><td></td><td></td><td>1</td></tr>
@@ -1253,9 +1259,9 @@ Note
 <tr><td>– Siberia O/Asia S</td><td></td><td>(1)</td><td></td></tr>
 <tr><td>*Grus grus archibaldi* (Gru)</td><td></td><td></td><td></td></tr>
 <tr><td>[tab] Turchia e Georgia (rip)</td><td>1c</td><td></td><td></td></tr>
-<tr><td colspan="4">**Famiglia GAVIIDAE (Strolaghe)**</td></tr>
+<tr><td colspan="4">Famiglia GAVIIDAE (Strolaghe)</td></tr>
 <tr><td>*Gavia stellata* (Strolaga minore)</td><td></td><td></td><td></td></tr>
-<tr><td>– Europa NO (svern)</td><td></td><td></td><td>(1)</td></tr>
+<tr><td>– Europa NO (svern)</td><td></td><td>2e</td><td></td></tr>
 <tr><td>– Mar Caspio, Mar Nero e Mediterraneo E (svern)</td><td>1c</td><td></td><td></td></tr>
 <tr><td>*Gavia arctica arctica* (Strolaga mezzana)</td><td></td><td></td><td></td></tr>
 <tr><td>– Europa N e Siberia O/Europa</td><td></td><td>2c</td><td></td></tr>
@@ -1264,22 +1270,22 @@ Note
 <tr><td>– Europa (svern)</td><td>1c</td><td></td><td></td></tr>
 <tr><td>*Gavia adamsii* (Strolaga beccogiallo)</td><td></td><td></td><td></td></tr>
 <tr><td>– Europa N (svern)</td><td>1c</td><td></td><td></td></tr>
-<tr><td colspan="4">**Famiglia SPHENISCIDAE (Pinguini)**</td></tr>
+<tr><td colspan="4">Famiglia SPHENISCIDAE (Pinguini)</td></tr>
 <tr><td>*Spheniscus demersus* (Pinguino africano; pinguino del Capo)</td><td></td><td></td><td></td></tr>
 <tr><td>– Africa S</td><td>1b/3c</td><td></td><td></td></tr>
-<tr><td colspan="4">**Famiglia CICONIIDAE (Cigogne)**</td></tr>
+<tr><td colspan="4">Famiglia CICONIIDAE (Cigogne)</td></tr>
 <tr><td>*Leptoptilos crumenifer* (Marabù africano)</td><td></td><td></td><td></td></tr>
 <tr><td>– Africa subsahariana</td><td></td><td></td><td>1</td></tr>
 <tr><td>*Mycteria ibis* (Tantalo africano)</td><td></td><td></td><td></td></tr>
-<tr><td>– Africa subsahariana (escluso il Madagascar)</td><td></td><td></td><td>1</td></tr>
+<tr><td>– Africa subsahariana (escluso il Madagascar)</td><td></td><td>2e</td><td></td></tr>
 <tr><td>*Anastomus lamelligerus lamelligerus* (Anastomo africano)</td><td></td><td></td><td></td></tr>
-<tr><td>– Africa subsahariana</td><td></td><td></td><td>1</td></tr>
+<tr><td>– Africa subsahariana</td><td></td><td>2e</td><td></td></tr>
 <tr><td>*Ciconia nigra* (Cicogna nera)</td><td></td><td></td><td></td></tr>
 <tr><td>– Africa S</td><td>1c</td><td></td><td></td></tr>
 <tr><td>– Europa SO/Africa O</td><td>1c</td><td></td><td></td></tr>
 <tr><td>– Europa centrale ed E/Africa subsahariana</td><td></td><td>1</td><td></td></tr>
 <tr><td>*Ciconia abdimii* (Cicogna di Abdim)</td><td></td><td></td><td></td></tr>
-<tr><td>– Africa subsahariana e Arabia SO</td><td></td><td>(2c)</td><td></td></tr>
+<tr><td>– Africa subsahariana e Arabia SO</td><td></td><td>(2c/2e)</td><td></td></tr>
 <tr><td>*Ciconia microscelis* (Cicogna collolanoso)</td><td></td><td></td><td></td></tr>
 <tr><td>– Africa subsahariana</td><td></td><td>(1)</td><td></td></tr>
 <tr><td>*Ciconia ciconia ciconia* (Cicogna bianca)</td><td></td><td></td><td></td></tr>
@@ -1287,13 +1293,14 @@ Note
 <tr><td>– Europa O e Africa NO/Africa subsahariana</td><td></td><td>2b</td><td></td></tr>
 <tr><td>– Europa centrale ed E/Africa subsahariana</td><td></td><td></td><td>1</td></tr>
 <tr><td>– Asia O/Asia SO</td><td>3c</td><td></td><td></td></tr>
-<tr><td colspan="4">**Famiglia THRESKIORNITHIDAE (Ibis, Spatole)**</td></tr>
+<tr><td colspan="4">Famiglia THRESKIORNITHIDAE (Ibis, Spatole)</td></tr>
 <tr><td>*Platalea alba* (Spatola bianca)</td><td></td><td></td><td></td></tr>
-<tr><td>– Africa subsahariana</td><td></td><td>1</td><td></td></tr>
+<tr><td>– Africa subsahariana</td><td>(3c/3e)</td><td></td><td></td></tr>
 <tr><td>*Platalea leucorodia leucorodia* (Spatola)</td><td></td><td></td><td></td></tr>
 <tr><td>– Europa O/Mediterraneo O e Africa O</td><td>2</td><td></td><td></td></tr>
-<tr><td>– Europa centrale e SE/Mediterraneo e Africa tropicale</td><td>2</td><td></td><td></td></tr>
-<tr><td>– Asia O/Asia SO e S</td><td>2</td><td></td><td></td></tr>
+<tr><td>– Europa centrale Mediterraneo centrale e Africa tropicale</td><td>1c</td><td></td><td></td></tr>
+<tr><td>– Europa SE/Mediterraneo, Asia SO e Africa E</td><td>1c</td><td></td><td></td></tr>
+<tr><td>– Asia O/Asia SO e S</td><td></td><td>1</td><td></td></tr>
 <tr><td>*Platalea leucorodia balsaci* (Spatola)</td><td></td><td></td><td></td></tr>
 <tr><td>– Africa costiera O (Mauritania)</td><td>1c</td><td></td><td></td></tr>
 <tr><td>*Platalea leucorodia archeri* (Spatola)</td><td></td><td></td><td></td></tr>
@@ -1305,10 +1312,10 @@ Note
 <tr><td>– Marocco</td><td>1a/1b/1c</td><td></td><td></td></tr>
 <tr><td>– Asia SO</td><td>1a/1b/1c</td><td></td><td></td></tr>
 <tr><td>*Plegadis falcinellus* (Mignattaio)</td><td></td><td></td><td></td></tr>
-<tr><td>– Africa subsahariana (rip)</td><td></td><td>1</td><td></td></tr>
+<tr><td>– Africa subsahariana (rip)</td><td>(3c/3e)</td><td></td><td></td></tr>
 <tr><td>– Mar Nero e Mediterraneo/Africa O</td><td></td><td>1</td><td></td></tr>
-<tr><td>– Asia SO/Africa E</td><td></td><td>(1)</td><td></td></tr>
-<tr><td colspan="4">**Famiglia ARDEIDAE (Aironi, tarabusi, nitticore)**</td></tr>
+<tr><td>– Asia SO/Africa E</td><td></td><td>1</td><td></td></tr>
+<tr><td colspan="4">Famiglia ARDEIDAE (Aironi, tarabusi, nitticore)</td></tr>
 <tr><td>*Botaurus stellaris stellaris* (Tarabuso)</td><td></td><td></td><td></td></tr>
 <tr><td>– Europa O, Africa NO (rip)</td><td>1c</td><td></td><td></td></tr>
 <tr><td>– Europa centrale ed E/Mar Nero e Mediterraneo E (rip)</td><td></td><td></td><td>1</td></tr>
@@ -1326,7 +1333,7 @@ Note
 <tr><td>*Nycticorax nycticorax nycticorax* (Nitticora)</td><td></td><td></td><td></td></tr>
 <tr><td>– Africa subsahariana e Madagascar</td><td></td><td></td><td>1</td></tr>
 <tr><td>– Europa O, Africa NO (rip)</td><td>3c</td><td></td><td></td></tr>
-<tr><td>– Europa centrale ed E/Mar Nero e Mediterraneo E (rip)</td><td></td><td></td><td>1</td></tr>
+<tr><td>– Europa centrale ed E/Mar Nero e Mediterraneo E (rip)</td><td></td><td>1</td><td></td></tr>
 <tr><td>– Asia O/Asia SO/Africa NE</td><td></td><td>(1)</td><td></td></tr>
 <tr><td>*Ardeola ralloides ralloides* (Sgarza ciuffetto)</td><td></td><td></td><td></td></tr>
 <tr><td>– Europa SO, Africa NO (rip)</td><td>1c</td><td></td><td></td></tr>
@@ -1340,7 +1347,7 @@ Note
 <tr><td>– Africa centrale, E e S</td><td></td><td>(1)</td><td></td></tr>
 <tr><td>*Bubulcus ibis ibis* (Airone guardabuoi)</td><td></td><td></td><td></td></tr>
 <tr><td>– Africa S</td><td></td><td>2c</td><td></td></tr>
-<tr><td>– Africa tropicale</td><td></td><td></td><td>(1)</td></tr>
+<tr><td>– Africa tropicale</td><td></td><td>(2c/2e)</td><td></td></tr>
 <tr><td>– Europa SO</td><td></td><td></td><td>1</td></tr>
 <tr><td>– Africa NO</td><td></td><td></td><td>1</td></tr>
 <tr><td>– Mediterraneo E e Asia SO</td><td></td><td>1</td><td></td></tr>
@@ -1348,30 +1355,30 @@ Note
 <tr><td>– Africa subsahariana</td><td></td><td></td><td>1</td></tr>
 <tr><td>– Europa N e O</td><td></td><td></td><td>1</td></tr>
 <tr><td>– Europa centrale ed E</td><td></td><td></td><td>1</td></tr>
-<tr><td>– Asia O e SO (rip)</td><td></td><td>(1)</td><td></td></tr>
+<tr><td>– Asia O e SO (rip)</td><td></td><td>(2c)</td><td></td></tr>
 <tr><td>*Ardea melanocephala* (Airone testanera)</td><td></td><td></td><td></td></tr>
-<tr><td>– Africa subsahariana</td><td></td><td></td><td>(1)</td></tr>
+<tr><td>– Africa subsahariana</td><td></td><td>2c</td><td></td></tr>
 <tr><td>*Ardea purpurea purpurea* (Airone rosso)</td><td></td><td></td><td></td></tr>
 <tr><td>– Africa tropicale</td><td>(3c)</td><td></td><td></td></tr>
 <tr><td>– Europa O e Mediterraneo O/Africa O</td><td></td><td>1</td><td></td></tr>
-<tr><td>– Europa E, Mar Nero e Mediterraneo O/Africa subsahariana</td><td></td><td>2c</td><td></td></tr>
+<tr><td>– Europa E, Mar Nero e Mediterraneo O/Africa subsahariana</td><td></td><td></td><td>1</td></tr>
 <tr><td>– Asia SO</td><td>(2)</td><td></td><td></td></tr>
 <tr><td>*Ardea alba alba* (Airone bianco maggiore)</td><td></td><td></td><td></td></tr>
-<tr><td>– Europa O, Europa centrale e SE/Mar Nero e Mediterraneo</td><td></td><td>1</td><td></td></tr>
-<tr><td>– Asia O/Asia SO</td><td></td><td>1</td><td></td></tr>
+<tr><td>– Europa O, Europa centrale e SE/Mar Nero e Mediterraneo</td><td></td><td></td><td>1</td></tr>
+<tr><td>– Asia O/Asia SO</td><td>(2c)</td><td></td><td></td></tr>
 <tr><td>*Ardea alba melanorhynchos* (Airone bianco maggiore)</td><td></td><td></td><td></td></tr>
-<tr><td>– Africa subsahariana e Madagascar</td><td></td><td></td><td>(1)</td></tr>
+<tr><td>– Africa subsahariana e Madagascar</td><td></td><td>2e</td><td></td></tr>
 <tr><td>*Ardea brachyrhyncha* (Airone bianco intermedio)</td><td></td><td></td><td></td></tr>
 <tr><td>– Africa subsahariana</td><td></td><td>1</td><td></td></tr>
 <tr><td>*Egretta ardesiaca* (Airone nero)</td><td></td><td></td><td></td></tr>
-<tr><td>– Africa subsahariana</td><td></td><td>1</td><td></td></tr>
+<tr><td>– Africa subsahariana</td><td></td><td>(1)</td><td></td></tr>
 <tr><td>*Egretta vinaceigula* (Garzetta collobruno)</td><td></td><td></td><td></td></tr>
 <tr><td>– Africa centro-S</td><td>1b/1c</td><td></td><td></td></tr>
 <tr><td>*Egretta garzetta garzetta* (Garzetta comune)</td><td></td><td></td><td></td></tr>
-<tr><td>– Africa subsahariana</td><td></td><td></td><td>(1)</td></tr>
+<tr><td>– Africa subsahariana</td><td></td><td>2c</td><td></td></tr>
 <tr><td>– Europa O, Africa NO</td><td></td><td></td><td>1</td></tr>
 <tr><td>– Europa centrale ed E, Mar Nero, Mediterraneo E</td><td></td><td>1</td><td></td></tr>
-<tr><td>– Asia O/Asia SO, Africa NE ed E</td><td></td><td>(1)</td><td></td></tr>
+<tr><td>– Asia O/Asia SO, Africa NE ed E</td><td>3c</td><td></td><td></td></tr>
 <tr><td>*Egretta gularis gularis* (Airone schistaceo)</td><td></td><td></td><td></td></tr>
 <tr><td>– Africa O</td><td>2</td><td></td><td></td></tr>
 <tr><td>*Egretta gularis schistacea* (Airone schistaceo)</td><td></td><td></td><td></td></tr>
@@ -1379,39 +1386,39 @@ Note
 <tr><td>– Asia SO e Asia S</td><td>2</td><td></td><td></td></tr>
 <tr><td>*Egretta gularis dimorpha* (Airone schistaceo)</td><td></td><td></td><td></td></tr>
 <tr><td>– Africa costiera E</td><td>2</td><td></td><td></td></tr>
-<tr><td colspan="4">**Famiglia BALAENICIPITIDAE (Becco a scarpa)**</td></tr>
+<tr><td colspan="4">Famiglia BALAENICIPITIDAE (Becco a scarpa)</td></tr>
 <tr><td>*Balaeniceps rex* (Becco a scarpa)</td><td></td><td></td><td></td></tr>
 <tr><td>– Africa centro-tropicale</td><td>1b/1c</td><td></td><td></td></tr>
-<tr><td colspan="4">**Famiglia PELECANIDAE (Pellicani)**</td></tr>
+<tr><td colspan="4">Famiglia PELECANIDAE (Pellicani)</td></tr>
 <tr><td>*Pelecanus crispus* (Pellicano riccio)</td><td></td><td></td><td></td></tr>
 <tr><td>– Mar Nero e Mediterraneo (svern)</td><td>1a/1c</td><td></td><td></td></tr>
 <tr><td>– Asia SO e Asia S (svern)</td><td>1a/2</td><td></td><td></td></tr>
 <tr><td>*Pelecanus rufescens* (Pellicano rossiccio)</td><td></td><td></td><td></td></tr>
 <tr><td>– Africa tropicale e Arabia SO</td><td></td><td>1</td><td></td></tr>
 <tr><td>*Pelecanus onocrotalus* (Pellicano comune)</td><td></td><td></td><td></td></tr>
-<tr><td>– Africa S</td><td></td><td>1</td><td></td></tr>
+<tr><td>– Africa S</td><td>(3c/3e)</td><td></td><td></td></tr>
 <tr><td>– Africa O</td><td></td><td>1</td><td></td></tr>
-<tr><td>– Africa E</td><td></td><td>2c</td><td></td></tr>
+<tr><td>– Africa E</td><td></td><td>2e</td><td></td></tr>
 <tr><td>– Europa e Asia O (rip)</td><td>1a</td><td></td><td></td></tr>
-<tr><td colspan="4">**Famiglia FREGATIDAE (Fregate)**</td></tr>
+<tr><td colspan="4">Famiglia FREGATIDAE (Fregate)</td></tr>
 <tr><td>*Fregata ariel iredalei* (Fregata ariel)</td><td></td><td></td><td></td></tr>
 <tr><td>– Oceano Indiano O</td><td>2</td><td></td><td></td></tr>
 <tr><td>*Fregata minor aldabrensis* (Fregata minore)</td><td></td><td></td><td></td></tr>
 <tr><td>– Oceano Indiano O</td><td>2</td><td></td><td></td></tr>
-<tr><td colspan="4">**Famiglia SULIDAE (Sule)**</td></tr>
+<tr><td colspan="4">Famiglia SULIDAE (Sule)</td></tr>
 <tr><td>*Morus bassanus* (Sula settentrionale; sula bassana)</td><td></td><td></td><td></td></tr>
 <tr><td>– Atlantico N</td><td></td><td></td><td>1</td></tr>
 <tr><td>*Morus capensis* (Sula del Capo)</td><td></td><td></td><td></td></tr>
 <tr><td>– Africa S</td><td>1b</td><td></td><td></td></tr>
 <tr><td>*Sula dactylatra melanops* (Sula mascherata)</td><td></td><td></td><td></td></tr>
 <tr><td>– Oceano Indiano O</td><td>3c</td><td></td><td></td></tr>
-<tr><td colspan="4">**Famiglia PHALACROCORACIDAE (Cormorani)**</td></tr>
+<tr><td colspan="4">Famiglia PHALACROCORACIDAE (Cormorani)</td></tr>
 <tr><td>*Microcarbo coronatus* (Cormorano coronato)</td><td></td><td></td><td></td></tr>
 <tr><td>– Africa costiera SO</td><td>1c</td><td></td><td></td></tr>
 <tr><td>*Microcarbo pygmaeus* (Marangone minore)</td><td></td><td></td><td></td></tr>
 <tr><td>– Mar Nero e Mediterraneo</td><td></td><td>1</td><td></td></tr>
 <tr><td>– Asia SO</td><td></td><td>1</td><td></td></tr>
-<tr><td>*Phalacrocorax aristotelis desmarestii* (Marangone dal ciuffo)</td><td></td><td></td><td></td></tr>
+<tr><td>*Gulosus aristotelis desmarestii* (Marangone dal ciuffo)</td><td></td><td></td><td></td></tr>
 <tr><td>– Mediterraneo O (Croazia, Mare Adriatico) (rip)</td><td>[tab] 1c</td><td>[tab]</td><td>[tab]</td></tr>
 <tr><td>*Phalacrocorax carbo carbo* (Cormorano comune)</td><td></td><td></td><td></td></tr>
 <tr><td>– Europa NO</td><td></td><td></td><td>1</td></tr>
@@ -1430,23 +1437,23 @@ Note
 <tr><td>– Golfo di Aden, Socotra, Mare Arabico</td><td>1b</td><td></td><td></td></tr>
 <tr><td>*Phalacrocorax neglectus* (Cormorano di riva africano)</td><td></td><td></td><td></td></tr>
 <tr><td>– Africa costiera SO</td><td>1b/2</td><td></td><td></td></tr>
-<tr><td colspan="4">**Famiglia BURHINIDAE (Occhioni)**</td></tr>
+<tr><td colspan="4">Famiglia BURHINIDAE (Occhioni)</td></tr>
 <tr><td>*Burhinus senegalensis* (Occhione del Senegal)</td><td></td><td></td><td></td></tr>
 <tr><td>– Africa O</td><td></td><td>1</td><td></td></tr>
 <tr><td>– Africa NE ed E</td><td>(3c)</td><td></td><td></td></tr>
-<tr><td colspan="4">**Famiglia PLUVIANIDAE (Guardiano dei coccodrilli)**</td></tr>
+<tr><td colspan="4">Famiglia PLUVIANIDAE (Guardiano dei coccodrilli)</td></tr>
 <tr><td>*Pluvianus aegyptius* (Guardiano dei coccodrilli)</td><td></td><td></td><td></td></tr>
 <tr><td>– Africa O</td><td></td><td>(1)</td><td></td></tr>
 <tr><td>– Africa E</td><td>1c</td><td></td><td></td></tr>
 <tr><td>– Bacino inferiore del Congo</td><td>1c</td><td></td><td></td></tr>
-<tr><td colspan="4">**Famiglia HAEMATOPODIDAE (Beccacce di mare)**</td></tr>
+<tr><td colspan="4">Famiglia HAEMATOPODIDAE (Beccacce di mare)</td></tr>
 <tr><td>*Haematopus moquini* (Beccaccia di mare nera africana)</td><td></td><td></td><td></td></tr>
 <tr><td>– Africa costiera S</td><td>1c</td><td></td><td></td></tr>
 <tr><td>*Haematopus ostralegus ostralegus* (Beccaccia di mare)</td><td></td><td></td><td></td></tr>
 <tr><td>– Europa/Europa S e O e Africa NO</td><td>4</td><td></td><td></td></tr>
 <tr><td>*Haematopus ostralegus longipes* (Beccaccia di mare)</td><td></td><td></td><td></td></tr>
-<tr><td>– Europa SE e Asia O/Asia SO e Africa NE</td><td>4</td><td></td><td></td></tr>
-<tr><td colspan="4">**Famiglia RECURVIROSTRIDAE (Avocette, Cavaliere d’Italia)**</td></tr>
+<tr><td>– Europa SE e Asia O/Asia SO/Asia S e Africa NE</td><td>4/(3c)</td><td></td><td></td></tr>
+<tr><td colspan="4">Famiglia RECURVIROSTRIDAE (Avocette, Cavaliere d’Italia)</td></tr>
 <tr><td>*Recurvirostra avosetta* (Avocetta)</td><td></td><td></td><td></td></tr>
 <tr><td>– Africa S</td><td>2</td><td></td><td></td></tr>
 <tr><td>– Africa E</td><td></td><td>(1)</td><td></td></tr>
@@ -1454,38 +1461,38 @@ Note
 <tr><td>– Europa SE, Mar Nero e Turchia (rip)</td><td></td><td>1</td><td></td></tr>
 <tr><td>– Asia O e SO/Africa E</td><td>2</td><td></td><td></td></tr>
 <tr><td>*Himantopus himantopus himantopus* (Cavaliere d’Italia)</td><td></td><td></td><td></td></tr>
-<tr><td>– Africa subsahariana (escluso S)</td><td></td><td></td><td>(1)</td></tr>
+<tr><td>– Africa subsahariana (escluso S)</td><td></td><td>2e</td><td></td></tr>
 <tr><td>– Africa S (*meridionalis*)</td><td>2</td><td></td><td></td></tr>
-<tr><td>– Europa SO e Africa NO/Africa O</td><td></td><td></td><td>1</td></tr>
+<tr><td>– Europa SO e Africa NO/Africa O</td><td></td><td>2e</td><td></td></tr>
 <tr><td>– Europa centrale e Mediterraneo E/Africa centrale, Africa N</td><td></td><td>1</td><td></td></tr>
 <tr><td>– Asia O, centrale e SO/Asia SO e Africa NE</td><td></td><td>(1)</td><td></td></tr>
-<tr><td colspan="4">**Famiglia CHARADRIIDAE (Pivieri, pavoncelle)**</td></tr>
+<tr><td colspan="4">Famiglia CHARADRIIDAE (Pivieri, pavoncelle)</td></tr>
 <tr><td>*Pluvialis squatarola squatarola* (Pivieressa)</td><td></td><td></td><td></td></tr>
-<tr><td>– Siberia O/Europa O e Africa O</td><td></td><td></td><td>1</td></tr>
-<tr><td>– Siberia E e centrale/Asia SO, Africa E e S</td><td></td><td>1</td><td></td></tr>
+<tr><td>– Siberia O/Europa O e Africa O</td><td></td><td>2e</td><td></td></tr>
+<tr><td>– Siberia E e centrale/Asia SO, Africa E e S</td><td>3c</td><td></td><td></td></tr>
 <tr><td>*Pluvialis apricaria apricaria* (Piviere dorato)</td><td></td><td></td><td></td></tr>
-<tr><td>– Gran Bretagna, Irlanda, Danimarca, Germania e Baltico (rip)</td><td></td><td>2c</td><td></td></tr>
+<tr><td>– Gran Bretagna, Irlanda, Danimarca, Germania e Baltico (rip)</td><td></td><td></td><td>1</td></tr>
 <tr><td>*Pluvialis apricaria altifrons* (Piviere dorato)</td><td></td><td></td><td></td></tr>
 <tr><td>– Islanda e Faeroer/costa dell’Atlantico E</td><td></td><td></td><td>1</td></tr>
 <tr><td>– Europa N/Europa O e Africa NO</td><td></td><td></td><td>1</td></tr>
-<tr><td>– Siberia N/Mar Caspio e Asia Minore</td><td></td><td>(1)</td><td></td></tr>
+<tr><td>– Siberia N/Mar Caspio e Asia Minore</td><td></td><td></td><td>1</td></tr>
 <tr><td>*Pluvialis fulva* (Piviere dorato del Pacifico)</td><td></td><td></td><td></td></tr>
-<tr><td>– Siberia centrale, Siberia N/Asia S e SO, Africa NE</td><td></td><td>(1)</td><td></td></tr>
+<tr><td>– Siberia centrale, Siberia N/Asia S e SO, Africa NE</td><td>3c</td><td></td><td></td></tr>
 <tr><td>*Eudromias morinellus* (Piviere tortolino)</td><td></td><td></td><td></td></tr>
 <tr><td>– Europa/Africa NO</td><td>3c</td><td></td><td></td></tr>
-<tr><td>– Asia/Medio Oriente</td><td></td><td>(1)</td><td></td></tr>
+<tr><td>– Asia/Medio Oriente</td><td>(3c)</td><td></td><td></td></tr>
 <tr><td>*Charadrius hiaticula hiaticula* (Corriere grosso)</td><td></td><td></td><td></td></tr>
 <tr><td>– Europa N/Europa e Africa N</td><td></td><td>1</td><td></td></tr>
 <tr><td>*Charadrius hiaticula psammodromus* (Corriere grosso)</td><td></td><td></td><td></td></tr>
-<tr><td>– Canada, Groenlandia e Islanda/Africa O e S</td><td></td><td></td><td>(1)</td></tr>
+<tr><td>– Canada, Groenlandia e Islanda/Africa O e S</td><td></td><td>(2c)</td><td></td></tr>
 <tr><td>*Charadrius hiaticula tundrae* (Corriere grosso)</td><td></td><td></td><td></td></tr>
-<tr><td>– Europa NE e Siberia/Asia SO, Africa E e S</td><td></td><td></td><td>(1)</td></tr>
+<tr><td>– Europa NE e Siberia/Asia SO, Africa E e S</td><td></td><td></td><td>1</td></tr>
 <tr><td>*Charadrius dubius curonicus* (Corriere piccolo)</td><td></td><td></td><td></td></tr>
 <tr><td>– Europa e Africa NO/Africa O</td><td></td><td></td><td>1</td></tr>
 <tr><td>– Asia O e SO/Africa E</td><td></td><td></td><td>(1)</td></tr>
 <tr><td>*Charadrius pecuarius* (Corriere di Kittlitz)</td><td></td><td></td><td></td></tr>
-<tr><td>– Africa S ed E</td><td></td><td></td><td>(1)</td></tr>
-<tr><td>– Africa O</td><td></td><td>(1)</td><td></td></tr>
+<tr><td>– Africa S ed E</td><td></td><td>(2c/2e)</td><td></td></tr>
+<tr><td>– Africa O</td><td></td><td>1</td><td></td></tr>
 <tr><td>*Charadrius tricollaris* (Corriere dei tre collari)</td><td></td><td></td><td></td></tr>
 <tr><td>– Africa S ed E</td><td></td><td>1</td><td></td></tr>
 <tr><td>*Charadrius forbesi* (Corriere di Forbes)</td><td></td><td></td><td></td></tr>
@@ -1495,9 +1502,9 @@ Note
 <tr><td>*Charadrius marginatus mechowi* (Corriere marginato)</td><td></td><td></td><td></td></tr>
 <tr><td>– Africa interna E e centrale</td><td>2</td><td></td><td></td></tr>
 <tr><td>*Charadrius alexandrinus alexandrinus* (Fratino)</td><td></td><td></td><td></td></tr>
-<tr><td>– Europa O e Mediterraneo O/Africa O</td><td></td><td>1</td><td></td></tr>
+<tr><td>– Europa O e Mediterraneo O/Africa O</td><td>3c</td><td></td><td></td></tr>
 <tr><td>– Mar Nero e Mediterraneo E/Sahel E</td><td>3c</td><td></td><td></td></tr>
-<tr><td>– Asia centrale e SO/Asia SO e Africa NE</td><td></td><td>(1)</td><td></td></tr>
+<tr><td>– Asia centrale e SO/Asia SO e Africa NE</td><td></td><td></td><td>1</td></tr>
 <tr><td>*Charadrius pallidus pallidus* (Corriere delle sabbie)</td><td></td><td></td><td></td></tr>
 <tr><td>– Africa S</td><td>2</td><td></td><td></td></tr>
 <tr><td>*Charadrius pallidus venustus* (Corriere delle sabbie)</td><td></td><td></td><td></td></tr>
@@ -1505,7 +1512,7 @@ Note
 <tr><td>*Charadrius mongolus pamirensis* (Corriere della Mongolia)</td><td></td><td></td><td></td></tr>
 <tr><td>– Asia centrale, Asia O/Asia SO e Africa E</td><td></td><td></td><td>1</td></tr>
 <tr><td>*Charadrius leschenaultii leschenaultii* (Corriere di Leschenault)</td><td></td><td></td><td></td></tr>
-<tr><td>– Asia centrale/Africa O e S</td><td></td><td>(1)</td><td></td></tr>
+<tr><td>– Asia centrale/Africa O e S</td><td>3e</td><td></td><td></td></tr>
 <tr><td>*Charadrius leschenaultii columbinus* (Corriere di Leschenault)</td><td></td><td></td><td></td></tr>
 <tr><td>– Turchia e Asia SO/Mediterraneo E e Mar Rosso</td><td>1c</td><td></td><td></td></tr>
 <tr><td>*Charadrius leschenaultii scythicus* (Corriere di Leschenault)</td><td></td><td></td><td></td></tr>
@@ -1515,12 +1522,12 @@ Note
 <tr><td>*Vanellus vanellus* (Pavoncella)</td><td></td><td></td><td></td></tr>
 <tr><td>– Europa/Asia O/Europa, Africa N e Asia SO</td><td>4</td><td></td><td></td></tr>
 <tr><td>*Vanellus spinosus* (Pavoncella spinosa)</td><td></td><td></td><td></td></tr>
-<tr><td>– Mar Nero e Mediterraneo (rip)</td><td></td><td>1</td><td></td></tr>
+<tr><td>– Mediterraneo E e Medio Oriente</td><td></td><td>1</td><td></td></tr>
 <tr><td>*Vanellus albiceps* (Pavoncella corona bianca)</td><td></td><td></td><td></td></tr>
-<tr><td>– Africa centrale e O</td><td></td><td>(1)</td><td></td></tr>
+<tr><td>– Africa centrale e O</td><td>3e</td><td></td><td></td></tr>
 <tr><td>*Vanellus lugubris* (Pavoncella lugubra)</td><td></td><td></td><td></td></tr>
 <tr><td>– Africa SO</td><td>2</td><td></td><td></td></tr>
-<tr><td>– Africa E e centrale</td><td></td><td>1</td><td></td></tr>
+<tr><td>– Africa E e centrale</td><td></td><td>(1)</td><td></td></tr>
 <tr><td>*Vanellus melanopterus minor* (Pavoncella alinere)</td><td></td><td></td><td></td></tr>
 <tr><td>– Africa S</td><td>1c</td><td></td><td></td></tr>
 <tr><td>*Vanellus coronatus coronatus* (Pavoncella coronata)</td><td></td><td></td><td></td></tr>
@@ -1528,7 +1535,7 @@ Note
 <tr><td>– Africa centrale</td><td>(1c)</td><td></td><td></td></tr>
 <tr><td>– Africa SO</td><td></td><td>(1)</td><td></td></tr>
 <tr><td>*Vanellus senegallus senegallus* (Pavoncella del Senegal)</td><td></td><td></td><td></td></tr>
-<tr><td>– Africa O</td><td></td><td>(1)</td><td></td></tr>
+<tr><td>– Africa O</td><td>(3e)</td><td></td><td></td></tr>
 <tr><td>*Vanellus senegallus lateralis* (Pavoncella del Senegal)</td><td></td><td></td><td></td></tr>
 <tr><td>– Africa E e SO</td><td>(3c)</td><td></td><td></td></tr>
 <tr><td>*Vanellus superciliosus* (Pavoncella pettobruno)</td><td></td><td></td><td></td></tr>
@@ -1536,17 +1543,17 @@ Note
 <tr><td>*Vanellus gregarius* (Pavoncella gregaria)</td><td></td><td></td><td></td></tr>
 <tr><td>– Asia centrale/S, Asia SO, Africa NE</td><td>1a/1b/2</td><td></td><td></td></tr>
 <tr><td>*Vanellus leucurus* (Pavoncella codabianca)</td><td></td><td></td><td></td></tr>
-<tr><td>– Asia centrale & Asia SO/Africa NE, Asia SO & S</td><td></td><td>1</td><td></td></tr>
-<tr><td colspan="4">**Famiglia SCOLOPACIDAE (Beccacce, beccaccini, piovanelli, falaropi e affini)**</td></tr>
+<tr><td>– Asia centrale e Asia SO/Africa NE, Asia SO e Asia S</td><td></td><td>1</td><td></td></tr>
+<tr><td colspan="4">Famiglia SCOLOPACIDAE (Beccacce, beccaccini, piovanelli, falaropi e affini)</td></tr>
 <tr><td>*Numenius phaeopus phaeopus* (Chiurlo piccolo)</td><td></td><td></td><td></td></tr>
-<tr><td>– Europa N/Africa O</td><td></td><td></td><td>(1)</td></tr>
+<tr><td>– Europa N/Africa O</td><td></td><td></td><td>1</td></tr>
 <tr><td>– Siberia O/Africa S ed E</td><td></td><td></td><td>(1)</td></tr>
 <tr><td>*Numenius phaeopus islandicus* (Chiurlo piccolo)</td><td></td><td></td><td></td></tr>
 <tr><td>– Islanda, Faeroer e Scozia/Africa O</td><td></td><td></td><td>1</td></tr>
 <tr><td>*Numenius phaeopus alboaxillaris* (Chiurlo piccolo)</td><td></td><td></td><td></td></tr>
 <tr><td>– N-Mar Caspio/Africa E</td><td>1c</td><td></td><td></td></tr>
 <tr><td>*Numenius phaeopus rogachevae* (Chiurlo piccolo)</td><td></td><td></td><td></td></tr>
-<tr><td>– Siberia centrale (rip)</td><td>[tab]</td><td>[tab]</td><td>[tab] (1)</td></tr>
+<tr><td>– Siberia centrale (rip)</td><td>[tab] 2</td><td>[tab]</td><td>[tab]</td></tr>
 <tr><td>*Numenius tenuirostris* (Chiurlottello)</td><td></td><td></td><td></td></tr>
 <tr><td>– Siberia centrale/Mediterraneo e Asia SO</td><td>1a/1b/1c</td><td></td><td></td></tr>
 <tr><td>*Numenius arquata arquata* (Chiurlo maggiore)</td><td></td><td></td><td></td></tr>
@@ -1561,8 +1568,8 @@ Note
 <tr><td>– Siberia O/Africa O e SO</td><td>4</td><td></td><td></td></tr>
 <tr><td>– Siberia centrale/Asia S e SO e Africa E</td><td>4</td><td></td><td></td></tr>
 <tr><td>*Limosa limosa limosa* (Pittima reale)</td><td></td><td></td><td></td></tr>
-<tr><td>– Europa O/Africa NO e O</td><td>3c</td><td></td><td></td></tr>
-<tr><td>– Europa E/Africa N</td><td>3c</td><td></td><td></td></tr>
+<tr><td>– Europa O/Africa NO e O</td><td>3c/3e</td><td></td><td></td></tr>
+<tr><td>– Europa E/Africa N</td><td>3c/3e</td><td></td><td></td></tr>
 <tr><td>– Asia centrale e O/Asia SO e Africa E</td><td>3c</td><td></td><td></td></tr>
 <tr><td>*Limosa limosa islandica* (Pittima reale)</td><td></td><td></td><td></td></tr>
 <tr><td>– Islanda/Europa O</td><td>4</td><td></td><td></td></tr>
@@ -1578,52 +1585,52 @@ Note
 <tr><td>– Canada NE e Groenlandia/Europa O</td><td>4</td><td></td><td></td></tr>
 <tr><td>*Calidris pugnax* (Combattente)</td><td></td><td></td><td></td></tr>
 <tr><td>– Europa N e Siberia O/Africa O</td><td></td><td>2c</td><td></td></tr>
-<tr><td>– Siberia N/Asia SO, Africa E e S</td><td></td><td></td><td>1</td></tr>
+<tr><td>– Siberia N/Asia SO, Africa E e S</td><td></td><td>(2c/2e)</td><td></td></tr>
 <tr><td>*Calidris falcinellus falcinellus* (Gambecchio frullino)</td><td></td><td></td><td></td></tr>
-<tr><td>– Europa N/Asia SO e Africa</td><td></td><td>2c</td><td></td></tr>
+<tr><td>– Europa N/Asia SO e Africa</td><td></td><td>2c/2e</td><td></td></tr>
 <tr><td>*Calidris ferruginea* (Piovanello)</td><td></td><td></td><td></td></tr>
 <tr><td>– Siberia O/Africa O</td><td>4</td><td></td><td></td></tr>
 <tr><td>– Siberia centrale/Asia SO, Africa E e S</td><td>4</td><td></td><td></td></tr>
 <tr><td>*Calidris temminckii* (Gambecchio nano)</td><td></td><td></td><td></td></tr>
-<tr><td>– Fennoscandia/Africa N e O</td><td>3c</td><td></td><td></td></tr>
-<tr><td>– Europa NE e Siberia O/Asia SO e Africa E</td><td></td><td></td><td>(1)</td></tr>
+<tr><td>– Fennoscandia/Africa N e O</td><td>3c/3e</td><td></td><td></td></tr>
+<tr><td>– Europa NE e Siberia O/Asia SO e Africa E</td><td></td><td>(2c/2e)</td><td></td></tr>
 <tr><td>*Calidris alba alba* (Piovanello tridattilo)</td><td></td><td></td><td></td></tr>
 <tr><td>– Europa dell’Atlantico E, Africa O e S (svern)</td><td></td><td></td><td>1</td></tr>
-<tr><td>– Asia SO, Africa E e S (svern)</td><td></td><td></td><td>1</td></tr>
+<tr><td>– Asia SO, Africa E e S (svern)</td><td></td><td>(2e)</td><td></td></tr>
 <tr><td>*Calidris alpina alpina* (Piovanello pancianera)</td><td></td><td></td><td></td></tr>
 <tr><td>– Europa NE e Siberia NO/Europa O e Africa NO</td><td></td><td></td><td>1</td></tr>
 <tr><td>*Calidris alpina arctica* (Piovanello pancianera)</td><td></td><td></td><td></td></tr>
 <tr><td>– Groenlandia NE/Africa O</td><td>3a</td><td></td><td></td></tr>
 <tr><td>*Calidris alpina schinzii* (Piovanello pancianera)</td><td></td><td></td><td></td></tr>
 <tr><td>– Islanda e Groenlandia/Africa NO e O</td><td></td><td></td><td>1</td></tr>
-<tr><td>– Gran Bretagna e Irlanda/Europa SO e Africa NO</td><td></td><td>1</td><td></td></tr>
+<tr><td>– Gran Bretagna e Irlanda/Europa SO e Africa NO</td><td>3e</td><td></td><td></td></tr>
 <tr><td>– Baltico/Europa SO e Africa NO</td><td>1c</td><td></td><td></td></tr>
 <tr><td>*Calidris alpina centralis* (Piovanello pancianera)</td><td></td><td></td><td></td></tr>
-<tr><td>– Siberia centrale/Asia SO e Africa NE</td><td></td><td></td><td>(1)</td></tr>
+<tr><td>– Siberia centrale/Asia SO e Africa NE</td><td></td><td></td><td>1</td></tr>
 <tr><td>*Calidris maritima* (Piovanello violetto)</td><td></td><td></td><td></td></tr>
 <tr><td>– Europa N e Siberia O (rip)</td><td></td><td>1</td><td></td></tr>
 <tr><td>– Canada NE e Groenlandia N/Europa (rip)</td><td>2</td><td></td><td></td></tr>
 <tr><td>*Calidris minuta* (Gambecchio)</td><td></td><td></td><td></td></tr>
-<tr><td>– Europa N/ Europa S, Africa N e O</td><td></td><td>(2c)</td><td></td></tr>
-<tr><td>– Siberia O/Asia SO, Africa E e S</td><td></td><td></td><td>(1)</td></tr>
+<tr><td>– Europa N/ Europa S, Africa N e O</td><td></td><td>(2c/2e)</td><td></td></tr>
+<tr><td>– Siberia O/Asia SO, Africa E e S</td><td></td><td>(2c/2e)</td><td></td></tr>
 <tr><td>*Scolopax rusticola* (Beccaccia)</td><td></td><td></td><td></td></tr>
-<tr><td>– Europa/Europa S e O e Africa N</td><td></td><td></td><td>1</td></tr>
+<tr><td>– Europa/Europa S e O e Africa N</td><td></td><td>2c</td><td></td></tr>
 <tr><td>– Siberia O/Asia SO (Mar Caspio)</td><td></td><td></td><td>(1)</td></tr>
 <tr><td>*Gallinago stenura* (Beccaccino strenuo)</td><td></td><td></td><td></td></tr>
 <tr><td>– Siberia N/Asia S e Africa E</td><td></td><td></td><td>(1)</td></tr>
 <tr><td>*Gallinago media* (Croccolone)</td><td></td><td></td><td></td></tr>
-<tr><td>– Scandinavia/probabilmente Africa O</td><td>4</td><td></td><td></td></tr>
+<tr><td>– Scandinavia/Africa centrale</td><td>4</td><td></td><td></td></tr>
 <tr><td>– Siberia O ed Europa NE/Africa SE</td><td>4</td><td></td><td></td></tr>
 <tr><td>*Gallinago gallinago gallinago* (Beccaccino)</td><td></td><td></td><td></td></tr>
 <tr><td>– Europa/Europa S e O e Africa NO</td><td></td><td>2c</td><td></td></tr>
-<tr><td>– Siberia O/Asia SO e Africa</td><td></td><td></td><td>1</td></tr>
+<tr><td>– Siberia O/Asia SO e Africa</td><td></td><td>(2c)</td><td></td></tr>
 <tr><td>*Gallinago gallinago faeroeensis* (Beccaccino)</td><td></td><td></td><td></td></tr>
-<tr><td>– Islanda, Faeroer e Scozia N/Irlanda</td><td></td><td></td><td>1</td></tr>
+<tr><td>– Islanda, Faeroer e Scozia N/Irlanda</td><td></td><td>2c</td><td></td></tr>
 <tr><td>*Lymnocryptes minimus* (Frullino)</td><td></td><td></td><td></td></tr>
 <tr><td>– Europa N/Europa S e O e Africa O</td><td></td><td></td><td>1</td></tr>
 <tr><td>– Siberia O/Asia SO e Africa NE</td><td></td><td></td><td>1</td></tr>
 <tr><td>*Phalaropus lobatus* (Falaropo beccosottile)</td><td></td><td></td><td></td></tr>
-<tr><td>– Eurasia O/Mare Arabico</td><td></td><td></td><td>1</td></tr>
+<tr><td>– Eurasia NO (rip)/Mare Arabico</td><td></td><td></td><td>(1)</td></tr>
 <tr><td>*Phalaropus fulicarius* (Falaropo beccolargo)</td><td></td><td></td><td></td></tr>
 <tr><td>– Canada e Groenlandia/costa atlantica dell’Africa</td><td></td><td>2c</td><td></td></tr>
 <tr><td>*Xenus cinereus* (Piro-piro terek)</td><td></td><td></td><td></td></tr>
@@ -1633,46 +1640,46 @@ Note
 <tr><td>– Europa E e Siberia O/Africa centrale, E e S</td><td></td><td></td><td>(1)</td></tr>
 <tr><td>*Tringa ochropus* (Piro-piro culbianco)</td><td></td><td></td><td></td></tr>
 <tr><td>– Europa N/Europa S e O, Africa O</td><td></td><td></td><td>1</td></tr>
-<tr><td>– Siberia O/Asia SO, Africa NE ed E</td><td></td><td>(2c)</td><td></td></tr>
+<tr><td>– Siberia O/Asia SO, Africa NE ed E</td><td></td><td></td><td>1</td></tr>
 <tr><td>*Tringa erythropus* (Totano moro)</td><td></td><td></td><td></td></tr>
-<tr><td>– Europa N/Europa S, Africa N e O</td><td>3c</td><td></td><td></td></tr>
-<tr><td>– Siberia O/Asia SO, Africa NE ed E</td><td></td><td>(1)</td><td></td></tr>
+<tr><td>– Europa N/Europa S, Africa N e O</td><td>3c/3e</td><td></td><td></td></tr>
+<tr><td>– Siberia O/Asia SO, Africa NE ed E</td><td></td><td>2c/2e</td><td></td></tr>
 <tr><td>*Tringa nebularia* (Pantana)</td><td></td><td></td><td></td></tr>
 <tr><td>– Europa N/ Europa SO, Africa NO e O</td><td></td><td></td><td>1</td></tr>
-<tr><td>– Siberia O/Asia SO, Africa E e S</td><td></td><td></td><td>(1)</td></tr>
+<tr><td>– Siberia O/Asia SO, Africa E e S</td><td></td><td>(2c)</td><td></td></tr>
 <tr><td>*Tringa totanus totanus* (Pettegola)</td><td></td><td></td><td></td></tr>
 <tr><td>– Europa N (rip)</td><td></td><td>2c</td><td></td></tr>
-<tr><td>– Europa centrale ed E (rip)</td><td></td><td>2c</td><td></td></tr>
-<tr><td>– Gran Bretagna e Irlanda/Gran Bretagna, Irlanda, Francia</td><td>3c</td><td></td><td></td></tr>
+<tr><td>– Europa centrale ed E (rip)</td><td></td><td>2c/2e</td><td></td></tr>
+<tr><td>– Gran Bretagna e Irlanda/Gran Bretagna, Irlanda, Francia</td><td>3c/3e</td><td></td><td></td></tr>
 <tr><td>*Tringa totanus robusta* (Pettegola)</td><td></td><td></td><td></td></tr>
 <tr><td>– Islanda e Faeroer/Europa O</td><td></td><td></td><td>1</td></tr>
 <tr><td>*Tringa totanus ussuriensis* (Pettegola)</td><td></td><td></td><td></td></tr>
-<tr><td>– Asia O/Asia SO, Africa NE ed E</td><td></td><td></td><td>(1)</td></tr>
+<tr><td>– Asia O/Asia SO, Africa NE ed E</td><td></td><td>(2c)</td><td></td></tr>
 <tr><td>*Tringa glareola* (Piro-piro boschereccio)</td><td></td><td></td><td></td></tr>
 <tr><td>– Europa NO/Africa O</td><td></td><td></td><td>1</td></tr>
-<tr><td>– Europa NE e Siberia O/Africa E e S</td><td></td><td></td><td>(1)</td></tr>
+<tr><td>– Europa NE e Siberia O/Africa E e S</td><td></td><td>2c</td><td></td></tr>
 <tr><td>*Tringa stagnatilis* (Albastrello)</td><td></td><td></td><td></td></tr>
-<tr><td>– Europa E/Africa O e centrale</td><td></td><td>(1)</td><td></td></tr>
-<tr><td>– Asia O/Asia SO, Africa E e S</td><td></td><td>1</td><td></td></tr>
-<tr><td colspan="4">**Famiglia DROMADIDAE (Dromas)**</td></tr>
+<tr><td>– Europa E/Africa O e centrale</td><td>(3c)</td><td></td><td></td></tr>
+<tr><td>– Asia O/Asia SO, Africa E e S</td><td></td><td>(2c/2e)</td><td></td></tr>
+<tr><td colspan="4">Famiglia DROMADIDAE (Dromas)</td></tr>
 <tr><td>*Dromas ardeola* (Droma)</td><td></td><td></td><td></td></tr>
 <tr><td>– Oceano Indiano NO, Mar Rosso e Golfo</td><td></td><td>1</td><td></td></tr>
-<tr><td colspan="4">**Famiglia GLAREOLIDAE (Pernici di mare e corrioni)**</td></tr>
+<tr><td colspan="4">Famiglia GLAREOLIDAE (Pernici di mare e corrioni)</td></tr>
 <tr><td>*Glareola pratincola pratincola* (Pernice di mare)</td><td></td><td></td><td></td></tr>
-<tr><td>– Europa O e Africa NO/Africa O</td><td></td><td>1</td><td></td></tr>
+<tr><td>– Europa O e Africa NO/Africa O</td><td>2</td><td></td><td></td></tr>
 <tr><td>– Mar Nero e Mediterraneo E/zona E del Sahel</td><td>2</td><td></td><td></td></tr>
-<tr><td>– Asia SO/Asia SO e Africa NE</td><td></td><td>(1)</td><td></td></tr>
+<tr><td>– Asia SO/Asia SO e Africa NE</td><td>3c</td><td></td><td></td></tr>
 <tr><td>*Glareola nordmanni* (Pernice di mare orientale)</td><td></td><td></td><td></td></tr>
 <tr><td>– Europa SE e Asia O/Africa S</td><td>4</td><td></td><td></td></tr>
 <tr><td>*Glareola ocularis* (Pernice di mare del Madagascar)</td><td></td><td></td><td></td></tr>
-<tr><td>– Madagascar/Africa E</td><td>1b/1c</td><td></td><td></td></tr>
+<tr><td>– Madagascar/Africa E</td><td>1c</td><td></td><td></td></tr>
 <tr><td>*Glareola nuchalis nuchalis* (Pernice di mare dal collare bianco)</td><td></td><td></td><td></td></tr>
 <tr><td>– Africa E e centrale</td><td></td><td>(1)</td><td></td></tr>
 <tr><td>*Glareola nuchalis liberiae* (Pernice di mare dal collare bianco)</td><td></td><td></td><td></td></tr>
-<tr><td>– Africa O</td><td></td><td></td><td>1</td></tr>
+<tr><td>– Africa O</td><td></td><td>(2c)</td><td></td></tr>
 <tr><td>*Glareola cinerea* (Pernice di mare cenerina)</td><td></td><td></td><td></td></tr>
 <tr><td>– Africa occidentale SE e Africa centrale</td><td>(2)</td><td></td><td></td></tr>
-<tr><td colspan="4">**Famiglia LARIDAE (Gabbiani, sterne, becchi a cesoie)**</td></tr>
+<tr><td colspan="4">Famiglia LARIDAE (Gabbiani, sterne, becchi a cesoie)</td></tr>
 <tr><td>*Anous stolidus plumbeigularis* (Sterna stolida bruna)</td><td></td><td></td><td></td></tr>
 <tr><td>– Mar Rosso e Golfo di Aden</td><td></td><td></td><td>1</td></tr>
 <tr><td>*Anous tenuirostris tenuirostris* (Sterna stolida minore)</td><td></td><td></td><td></td></tr>
@@ -1681,58 +1688,58 @@ Note
 <tr><td>– Africa costiera O e Africa centrale</td><td>1c</td><td></td><td></td></tr>
 <tr><td>– Africa E e S</td><td>1c</td><td></td><td></td></tr>
 <tr><td>*Hydrocoloeus minutus* (Gabbianello)</td><td></td><td></td><td></td></tr>
-<tr><td>– Europa centrale ed E/Europa SO e Mediterraneo O</td><td></td><td>1</td><td></td></tr>
-<tr><td>– Asia O/Mediterraneo E, Mar Nero e Mar Caspio</td><td>(3c)</td><td></td><td></td></tr>
+<tr><td>– Europa centrale ed E/Europa SO e Mediterraneo O</td><td>(3c/3e)</td><td></td><td></td></tr>
+<tr><td>– Asia O/Mediterraneo E, Mar Nero e Mar Caspio</td><td>(3c/3e)</td><td></td><td></td></tr>
 <tr><td>*Xema sabini sabini* (Xema; gabbiano di Sabine)</td><td></td><td></td><td></td></tr>
 <tr><td>– Canada e Groenlandia/Atlantico SE</td><td></td><td></td><td>(1)</td></tr>
 <tr><td>*Rissa tridactyla tridactyla* (Gabbiano tridattilo)</td><td></td><td></td><td></td></tr>
 <tr><td>– Artico, dal Canada NE a Novaja Zemlja/ N Atlantico</td><td>[tab] 1b</td><td>[tab]</td><td>[tab]</td></tr>
 <tr><td>*Larus genei* (Gabbiano roseo)</td><td></td><td></td><td></td></tr>
 <tr><td>– Africa O (rip)</td><td></td><td>1</td><td></td></tr>
-<tr><td>– Mar Nero e Mediterraneo (rip)</td><td></td><td>2/(2c)</td><td></td></tr>
-<tr><td>– Asia O, SO e S (rip)</td><td></td><td></td><td>1</td></tr>
+<tr><td>– Mar Nero e Mediterraneo (rip)</td><td></td><td>2/(2e)</td><td></td></tr>
+<tr><td>– Asia O, SO e S (rip)</td><td></td><td>2c/2e</td><td></td></tr>
 <tr><td>*Larus ridibundus* (Gabbiano comune)</td><td></td><td></td><td></td></tr>
 <tr><td>– Europa O/Europa O, Mediterraneo O, Africa O</td><td></td><td>2c</td><td></td></tr>
 <tr><td>– Europa E/Mar Nero e Mediterraneo E</td><td></td><td></td><td>1</td></tr>
-<tr><td>– Asia O/Asia SO e Africa NE</td><td></td><td></td><td>(1)</td></tr>
+<tr><td>– Asia O/Asia SO e Africa NE</td><td></td><td></td><td>1</td></tr>
 <tr><td>*Larus hartlaubii* (Gabbiano di Hartlaub)</td><td></td><td></td><td></td></tr>
-<tr><td>– Africa costiera SO</td><td></td><td>1</td><td></td></tr>
+<tr><td>– Africa costiera SO</td><td>3c/3e</td><td></td><td></td></tr>
 <tr><td>*Larus cirrocephalus poiocephalus* (Gabbiano testagrigia)</td><td></td><td></td><td></td></tr>
 <tr><td>– Africa O</td><td></td><td>(1)</td><td></td></tr>
 <tr><td>– Africa centrale ed E e S</td><td></td><td></td><td>(1)</td></tr>
 <tr><td>*Larus ichthyaetus* (Gabbiano di Pallas)</td><td></td><td></td><td></td></tr>
-<tr><td>– Mar Nero e Mar Caspio/Asia SO</td><td>3a</td><td></td><td></td></tr>
+<tr><td>– Mar Nero e Mar Caspio/Asia SO</td><td></td><td>2a</td><td></td></tr>
 <tr><td>*Larus melanocephalus* (Gabbiano corallino)</td><td></td><td></td><td></td></tr>
-<tr><td>– Europa O, Mediterraneo e Africa NO</td><td></td><td>2a</td><td></td></tr>
+<tr><td>– Europa O, Mediterraneo e Africa NO</td><td></td><td>2/2e</td><td></td></tr>
 <tr><td>*Larus hemprichii* (Gabbiano di Hemprich)</td><td></td><td></td><td></td></tr>
-<tr><td>– Mar Rosso, Golfo, Arabia e Africa E</td><td></td><td>1</td><td></td></tr>
+<tr><td>– Mar Rosso, Golfo, Arabia e Africa E</td><td>3c</td><td></td><td></td></tr>
 <tr><td>*Larus leucophthalmus* (Gabbiano occhibianchi)</td><td></td><td></td><td></td></tr>
 <tr><td>– Mar Rosso e coste limitrofe</td><td>1a</td><td></td><td></td></tr>
 <tr><td>*Larus audouinii* (Gabbiano corso)</td><td></td><td></td><td></td></tr>
 <tr><td>– Mediterranneo/coste N e O dell’Africa</td><td>1a/3a</td><td></td><td></td></tr>
 <tr><td>*Larus canus canus* (Gavina)</td><td></td><td></td><td></td></tr>
-<tr><td>– Europa NO e centrale/costa atlantica e Mediterraneo</td><td></td><td></td><td>1</td></tr>
+<tr><td>– Europa NO e centrale/costa atlantica e Mediterraneo</td><td></td><td>2c</td><td></td></tr>
 <tr><td>*Larus canus heinei* (Gavina)</td><td></td><td></td><td></td></tr>
-<tr><td>– Europa NE e Siberia O/Mar Nero e Mar Caspio</td><td></td><td></td><td>1</td></tr>
+<tr><td>– Europa NE e Siberia O/Mar Nero e Mar Caspio</td><td></td><td>2c/2e</td><td></td></tr>
 <tr><td>*Larus dominicanus vetula* (Zafferano meridionale)</td><td></td><td></td><td></td></tr>
-<tr><td>– Africa costiera S</td><td></td><td>1</td><td></td></tr>
+<tr><td>– Africa costiera S</td><td>(3c)</td><td></td><td></td></tr>
 <tr><td>– Africa costiera O</td><td>1c</td><td></td><td></td></tr>
 <tr><td>*Larus fuscus fuscus* (Zafferano)</td><td></td><td></td><td></td></tr>
 <tr><td>– Europa NE/Mar Nero, Asia SO e Africa E</td><td>3c</td><td></td><td></td></tr>
 <tr><td>*Larus fuscus graellsii* (Zafferano)</td><td></td><td></td><td></td></tr>
-<tr><td>– Europa O/Mediterraneo e Africa O</td><td></td><td></td><td>1</td></tr>
+<tr><td>– Europa O/Mediterraneo e Africa O</td><td></td><td>2e</td><td></td></tr>
 <tr><td>*Larus fuscus intermedius* (Zafferano)</td><td></td><td></td><td></td></tr>
 <tr><td>– Scandinavia S, Paesi Bassi, delta dell’Ebro, Spagna</td><td></td><td></td><td>1</td></tr>
 <tr><td>*Larus fuscus heuglini* (Zafferano)</td><td></td><td></td><td></td></tr>
 <tr><td>– Europa NE e Siberia O/Asia SO e Africa NE</td><td></td><td></td><td>(1)</td></tr>
 <tr><td>*Larus fuscus barabensis* (Zafferano)</td><td></td><td></td><td></td></tr>
-<tr><td>– Siberia SO/Asia SO</td><td></td><td></td><td>(1)</td></tr>
+<tr><td>– Siberia SO/Asia SO</td><td></td><td></td><td>1</td></tr>
 <tr><td>*Larus argentatus argentatus* (Gabbiano reale nordico)</td><td></td><td></td><td></td></tr>
-<tr><td>– Europa N e NO</td><td></td><td>2c</td><td></td></tr>
+<tr><td>– Europa N e NO</td><td></td><td>2c/2e</td><td></td></tr>
 <tr><td>*Larus argentatus argenteus* (Gabbiano reale)</td><td></td><td></td><td></td></tr>
-<tr><td>– Islanda ed Europa O</td><td></td><td>2c</td><td></td></tr>
+<tr><td>– Islanda ed Europa O</td><td></td><td>2c/2e</td><td></td></tr>
 <tr><td>*Larus armenicus* (Gabbiano di Armenia)</td><td></td><td></td><td></td></tr>
-<tr><td>– Arménia, Turchia E e Iran NO</td><td>3/3c</td><td></td><td></td></tr>
+<tr><td>– Armenia, Turchia E e Iran NO</td><td>3a</td><td></td><td></td></tr>
 <tr><td>*Larus michahellis* (Gabbiano reale)</td><td></td><td></td><td></td></tr>
 <tr><td>– Mediterraneo, Penisola Iberica e Marocco</td><td></td><td></td><td>1</td></tr>
 <tr><td>*Larus cachinnans* (Gabbiano reale pontico)</td><td></td><td></td><td></td></tr>
@@ -1740,11 +1747,11 @@ Note
 <tr><td>*Larus glaucoides glaucoides* (Gabbiano islandico)</td><td></td><td></td><td></td></tr>
 <tr><td>– Groenlandia/Islanda ed Europa NO</td><td></td><td></td><td>1</td></tr>
 <tr><td>*Larus hyperboreus hyperboreus* (Gabbiano glauco)</td><td></td><td></td><td></td></tr>
-<tr><td>– Svalbard e Russia N (rip)</td><td></td><td></td><td>(1)</td></tr>
+<tr><td>– Svalbard e Russia N (rip)</td><td></td><td>(1)</td><td></td></tr>
 <tr><td>*Larus hyperboreus leuceretes* (Gabbiano glauco)</td><td></td><td></td><td></td></tr>
 <tr><td>– Canada, Groenlandia e Irlanda (rip)</td><td></td><td></td><td>(1)</td></tr>
 <tr><td>*Larus marinus* (Mugnaiaccio)</td><td></td><td></td><td></td></tr>
-<tr><td>– Europa N e O</td><td></td><td></td><td>1</td></tr>
+<tr><td>– Europa N e O</td><td></td><td>2c</td><td></td></tr>
 <tr><td>*Onychoprion fuscatus nubilosa* (Sterna scura)</td><td></td><td></td><td></td></tr>
 <tr><td>– Mar Rosso, Golfo di Aden, da E al Pacifico</td><td></td><td>2a</td><td></td></tr>
 <tr><td>*Onychoprion anaethetus melanopterus* (Sterna dalle redini)</td><td></td><td></td><td></td></tr>
@@ -1762,17 +1769,18 @@ Note
 <tr><td>*Sternula saundersi* (Fraticello di Saunders)</td><td></td><td></td><td></td></tr>
 <tr><td>– Asia meridionale O, Mar Rosso, Golfo e Africa E</td><td>2</td><td></td><td></td></tr>
 <tr><td>*Sternula balaenarum* (Sterna di Damara)</td><td></td><td></td><td></td></tr>
-<tr><td>– Namibia e Sudafrica/costa atlantica fino al Ghana</td><td>1b/1c</td><td></td><td></td></tr>
+<tr><td>– Namibia e Sudafrica/costa atlantica fino al Ghana</td><td>1c</td><td></td><td></td></tr>
 <tr><td>*Gelochelidon nilotica nilotica* (Sterna zampenere)</td><td></td><td></td><td></td></tr>
 <tr><td>– Westeuropa/Westafrika</td><td></td><td>1</td><td></td></tr>
-<tr><td>– Schwarzes Meer und östliches Mittelmeer/Ostafrika</td><td>3c</td><td></td><td></td></tr>
+<tr><td>– Schwarzes Meer und östliches Mittelmeer/ Ostafrika</td><td>3c</td><td></td><td></td></tr>
 <tr><td>– West- und Zentralasien/Südwestasien</td><td>2</td><td></td><td></td></tr>
 <tr><td>*Hydroprogne caspia* (Sterna maggiore)</td><td></td><td></td><td></td></tr>
+<tr><td>– Madagascar (rip)</td><td>1c</td><td></td><td></td></tr>
 <tr><td>– Africa S (rip)</td><td>1c</td><td></td><td></td></tr>
 <tr><td>– Africa O (rip)</td><td></td><td>1</td><td></td></tr>
-<tr><td>– Baltico (rip)</td><td></td><td>1</td><td></td></tr>
+<tr><td>– Baltico (rip)</td><td>1</td><td></td><td></td></tr>
 <tr><td>– Mar Nero (rip)</td><td>1c</td><td></td><td></td></tr>
-<tr><td>– Mar Caspio (rip)</td><td>2</td><td></td><td></td></tr>
+<tr><td>– Mar Caspio (rip)</td><td></td><td>1</td><td></td></tr>
 <tr><td>*Chlidonias hybrida hybrida* (Mignattino piombato)</td><td></td><td></td><td></td></tr>
 <tr><td>– Europa O e Africa NO (rip)</td><td></td><td>1</td><td></td></tr>
 <tr><td>– Mar Nero e Mediterraneo E (rip)</td><td></td><td></td><td>(1)</td></tr>
@@ -1781,11 +1789,11 @@ Note
 <tr><td>– Africa E (Kenya e Tanzania)</td><td>2</td><td></td><td></td></tr>
 <tr><td>– Africa S (da Malawi e Zambia al Sudafrica)</td><td>1c</td><td></td><td></td></tr>
 <tr><td>*Chlidonias leucopterus* (Mignattino alibianche)</td><td></td><td></td><td></td></tr>
-<tr><td>– Europa E e Asia O/Africa</td><td></td><td></td><td>(1)</td></tr>
+<tr><td>– Europa E e Asia O/Africa</td><td></td><td>2c</td><td></td></tr>
 <tr><td>*Chlidonias niger niger* (Mignattino)</td><td></td><td></td><td></td></tr>
 <tr><td>– Europa e Asia O/costa atlantica dell’Africa</td><td></td><td>2c</td><td></td></tr>
 <tr><td>*Sterna dougallii dougallii* (Sterna del Dougall)</td><td></td><td></td><td></td></tr>
-<tr><td>– Africa S & Madagascar</td><td>1c</td><td></td><td></td></tr>
+<tr><td>– Africa S e Madagascar</td><td>1c</td><td></td><td></td></tr>
 <tr><td>– Africa E</td><td>2</td><td></td><td></td></tr>
 <tr><td>– Europa (rip)</td><td>1c</td><td></td><td></td></tr>
 <tr><td>*Sterna dougallii gracilis* (Sterna del Dougall)</td><td></td><td></td><td></td></tr>
@@ -1796,7 +1804,7 @@ Note
 <tr><td>– Europa N ed E (rip)</td><td></td><td></td><td>1</td></tr>
 <tr><td>– Asia O (rip)</td><td></td><td></td><td>(1)</td></tr>
 <tr><td>*Sterna repressa* (Sterna guancebianche)</td><td></td><td></td><td></td></tr>
-<tr><td>– Asia meridionale O, Mar Rosso, Golfo e Africa E</td><td></td><td></td><td>1</td></tr>
+<tr><td>– Asia meridionale O, Mar Rosso, Golfo e Africa E</td><td></td><td></td><td>(1)</td></tr>
 <tr><td>*Sterna paradisaea* (Sterna codalunga)</td><td></td><td></td><td></td></tr>
 <tr><td>– Eurasia O (rip)</td><td></td><td></td><td>1</td></tr>
 <tr><td>*Sterna vittata vittata* (Sterna antartica)</td><td></td><td></td><td></td></tr>
@@ -1807,15 +1815,15 @@ Note
 <tr><td>– Amsterdam e St Paul/Africa S</td><td>[tab] 1c</td><td>[tab]</td><td>[tab]</td></tr>
 <tr><td>*Thalasseus bengalensis bengalensis* (Sterna di Rüppell)</td><td></td><td></td><td></td></tr>
 <tr><td>– Golfo/Asia S</td><td></td><td></td><td>1</td></tr>
-<tr><td>– Mar Rosso/Africa E</td><td></td><td></td><td>1</td></tr>
+<tr><td>– Mar Rosso/Africa E</td><td></td><td></td><td>(1)</td></tr>
 <tr><td>*Thalasseus bengalensis emigratus* (Sterna di Rüppell)</td><td></td><td></td><td></td></tr>
 <tr><td>– Mediterraneo S/coste dell’Africa NO e O</td><td>1c</td><td></td><td></td></tr>
 <tr><td>*Thalasseus sandvicensis sandvicensis* (Beccapesci)</td><td></td><td></td><td></td></tr>
 <tr><td>– Europa O/Africa O</td><td></td><td></td><td>1</td></tr>
 <tr><td>– Mar Nero e Mediterraneo (rip)</td><td></td><td>2a</td><td></td></tr>
-<tr><td>– Asia O e centrale/Asia SO e S</td><td></td><td></td><td>1</td></tr>
+<tr><td>– Asia O e centrale/Asia SO e S</td><td></td><td>2c</td><td></td></tr>
 <tr><td>*Thalasseus maximus albidorsalis* (Sterna)</td><td></td><td></td><td></td></tr>
-<tr><td>– Africa O (rip)</td><td></td><td>2a</td><td></td></tr>
+<tr><td>– Africa O (rip)</td><td></td><td>2/2e</td><td></td></tr>
 <tr><td>*Thalasseus bergii bergii* (Beccapesci di Berg)</td><td></td><td></td><td></td></tr>
 <tr><td>– Africa S (Angola–Mozambico)</td><td>2</td><td></td><td></td></tr>
 <tr><td>– Madagascar e Mozambico/Africa S</td><td>1c</td><td></td><td></td></tr>
@@ -1823,59 +1831,65 @@ Note
 <tr><td>– Mar Rosso e Africa NE</td><td>2</td><td></td><td></td></tr>
 <tr><td>*Thalasseus bergii thalassinus* (Beccapesci di Berg)</td><td></td><td></td><td></td></tr>
 <tr><td>– Africa E e Seychelles</td><td>1c</td><td></td><td></td></tr>
-<tr><td colspan="4">**Famiglia STERCORARIIDAE (Stercorari)**</td></tr>
+<tr><td colspan="4">Famiglia STERCORARIIDAE (Stercorari)</td></tr>
 <tr><td>*Stercorarius longicaudus longicaudus* (Labbo codalunga)</td><td></td><td></td><td></td></tr>
-<tr><td>– Europa N & Siberia O/Atlantico S</td><td>[tab]</td><td>[tab]</td><td>[tab] 1</td></tr>
+<tr><td>– Europa N e Siberia O/Atlantico S</td><td>[tab]</td><td>[tab]</td><td>[tab] 1</td></tr>
 <tr><td>*Catharacta skua* (Stercorario maggiore)</td><td></td><td></td><td></td></tr>
-<tr><td>– Europa N/Atlantico N</td><td>[tab]</td><td>[tab] 1</td><td>[tab]</td></tr>
-<tr><td colspan="4">**Famiglia ALCIDAE (Pulcinelle di mare, urie, gazze di mare e affini)**</td></tr>
+<tr><td>– Europa N/Atlantico N</td><td></td><td>1</td><td></td></tr>
+<tr><td colspan="4">Famiglia ALCIDAE (Pulcinelle di mare, urie, gazze di mare e affini)</td></tr>
 <tr><td>*Fratercula arctica* (Pulcinella di mare)</td><td></td><td></td><td></td></tr>
-<tr><td>– Dalla Baia di Hudson e dal Maine E fino alla Groenlandia S, Islanda, isola di Bear, dalla Norvegia alla Nuova Zemlya S</td><td>1b</td><td></td><td></td></tr>
-<tr><td>– Canada NE, Groenlandia N fino a Jan Mayen, Svalbard, Nuova Zemlya N</td><td>1b</td><td></td><td></td></tr>
-<tr><td>– Faeroer, Norvegia e Svezia S, Gran Bretagna, Irlanda, Francia NO</td><td>1b</td><td></td><td></td></tr>
+<tr><td>– Atlantico E (rip)</td><td>1b</td><td></td><td></td></tr>
 <tr><td>*Cepphus grylle grylle* (Uria nera)</td><td></td><td></td><td></td></tr>
-<tr><td>– Mar Baltico</td><td>3°</td><td></td><td></td></tr>
+<tr><td>– Mar Baltico</td><td>°</td><td>1</td><td></td></tr>
 <tr><td>*Cepphus grylle mandtii* (Uria nera)</td><td></td><td></td><td></td></tr>
-<tr><td>– Artico E-America settentrionale fino alla Groenlandia, da Jan Mayen e Svalbard E attraverso la Siberia fino all’Alaska</td><td></td><td></td><td>1</td></tr>
+<tr><td>– Artico canadese E e Groenlandia O (rip)</td><td></td><td></td><td>1</td></tr>
+<tr><td>– Groenlandia E a est del Mare di Laptev (rip)</td><td></td><td></td><td>(1)</td></tr>
 <tr><td>*Cepphus grylle arcticus* (Uria nera)</td><td></td><td></td><td></td></tr>
-<tr><td>– America N, Groenlandia S, Gran Bretagna, Irlanda, Scandinavia, Mar Bianco</td><td></td><td></td><td>1</td></tr>
+<tr><td>– America NE e Groenlandia S (rip)</td><td></td><td></td><td>(1)</td></tr>
+<tr><td>– Isole britanniche e Europa N</td><td></td><td></td><td>1</td></tr>
 <tr><td>*Cepphus grylle islandicus* (Uria nera)</td><td></td><td></td><td></td></tr>
 <tr><td>– Islanda</td><td>3c</td><td></td><td></td></tr>
 <tr><td>*Cepphus grylle faeroeensis* (Uria nera)</td><td></td><td></td><td></td></tr>
 <tr><td>– Isole Faeroer</td><td></td><td>(1)</td><td></td></tr>
 <tr><td>*Alca torda torda* (Gazza marina)</td><td></td><td></td><td></td></tr>
-<tr><td>– America settentrionale E, Groenlandia, da E fino al Mar Baltico e al Mar Bianco</td><td>4</td><td></td><td></td></tr>
+<tr><td>– Atlantico O [tab] Atlantique Ouest</td><td></td><td></td><td>1</td></tr>
+<tr><td>Atlantique Est</td><td></td><td></td><td>1</td></tr>
 <tr><td>*Alca torda islandica* (Gazza marina)</td><td></td><td></td><td></td></tr>
-<tr><td>– Islanda, Faeroer, Gran Bretagna, Irlanda, Helgoland, Francia NO</td><td>4</td><td></td><td></td></tr>
+<tr><td>– Islanda, Faeroer, Gran Bretagna, Irlanda, Helgoland, Francia NO</td><td></td><td></td><td>(1)</td></tr>
 <tr><td>*Alle alle alle* (Gazza marina minore)</td><td></td><td></td><td></td></tr>
-<tr><td>– Alto Artico, Isola di Baffin – Nuova Zemlya</td><td></td><td></td><td>1</td></tr>
+<tr><td>– Atlantico O (rip)</td><td></td><td></td><td>(1)</td></tr>
+<tr><td>– Atlantico E (rip)</td><td></td><td></td><td>(1)</td></tr>
+<tr><td>[tab] *Alle alle polaris* (Gazza marina minore)</td><td></td><td></td><td></td></tr>
+<tr><td>– Franz Josef e Severnaya Zemlya (rip)</td><td></td><td></td><td>(1)</td></tr>
 <tr><td>*Uria lomvia lomvia* (Uria di Bruennich)</td><td></td><td></td><td></td></tr>
-<tr><td>– O-Nordamerika, Grönland, östlich von Severnaja Semlja</td><td></td><td>2c</td><td></td></tr>
+<tr><td>– Atlantico O (rip)</td><td></td><td>2c</td><td></td></tr>
+<tr><td>– Atlantico E (rip)</td><td></td><td>2c</td><td></td></tr>
 <tr><td>*Uria aalge aalge* (Uria comune)</td><td></td><td></td><td></td></tr>
-<tr><td>– Islanda, Faeroer, Scozia, Norvegia S, Baltico</td><td></td><td>2c</td><td></td></tr>
+<tr><td>– Atlantico E (rip)</td><td></td><td></td><td>1</td></tr>
+<tr><td>– Baltico (rip)</td><td></td><td>1</td><td></td></tr>
 <tr><td>*Uria aalge albionis* (Uria comune)</td><td></td><td></td><td></td></tr>
 <tr><td>– Irlanda, Gran Bretagna S, Francia, Penisola Iberica, Helgoland</td><td></td><td></td><td>1</td></tr>
 <tr><td>*Uria aalge hyperborea* (Uria comune)</td><td></td><td></td><td></td></tr>
-<tr><td>– Svalbard, dalla Norvegia N alla Nuova Zemlya</td><td></td><td></td><td>1</td></tr>
+<tr><td>– Svalbard, dalla Norvegia N alla Nuova Zemlya</td><td></td><td>2</td><td></td></tr>
 </table>
 
-[^annex3-lvlu1-lvlu8-lvlu4-1]: Il 18 feb. 2019 la Svizzera ha presentato una riserva secondo l’art. X dell’Acc. poiché la procedura interna d’approvazione per questo emendamento, quale è stata adottata alla settima Conferenza delle Parti, non è stata conclusa.
+[^annexu1-lvlu1-lvlu4-1]: Il 18 feb. 2019 la Svizzera ha presentato una riserva secondo l’art. X dell’Acc. poiché la procedura interna d’approvazione per questo emendamento, quale è stata adottata alla settima Conferenza delle Parti, non è stata conclusa.
 
-Campo d’applicazione il 31 maggio 2022**[^t-4]**
+Campo d’applicazione il 31 maggio 2022[^t-5]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Firmato senza riserva di ratificazione (F)</th><th></th><th>Entrata in vigore</th><th></th></tr>
 <tr><td>Albania</td><td>20 giugno</td><td>2001 A</td><td>1° settembre</td><td>2001</td></tr>
 <tr><td>Algeria</td><td>4 luglio</td><td>2006 A</td><td>1° ottobre</td><td>2006</td></tr>
 <tr><td>Armenia</td><td>9 aprile</td><td>2020 A</td><td>1° luglio</td><td>2020</td></tr>
-<tr><td>Belarus<sup>\*</sup></td><td>15 gennaio</td><td>2016 A</td><td>1° aprile</td><td>2016</td></tr>
+<tr><td>Belarus\*</td><td>15 gennaio</td><td>2016 A</td><td>1° aprile</td><td>2016</td></tr>
 <tr><td>Belgio</td><td>3 marzo</td><td>2006</td><td>1° giugno</td><td>2006</td></tr>
 <tr><td>Benin</td><td>26 ottobre</td><td>1999 F</td><td>1° gennaio</td><td>2000</td></tr>
 <tr><td>Botswana</td><td>22 agosto</td><td>2017 A</td><td>1° novembre</td><td>2017</td></tr>
-<tr><td>Bulgaria<sup>\*</sup></td><td>23 novembre</td><td>1999</td><td>1° febbraio</td><td>2000</td></tr>
+<tr><td>Bulgaria\*</td><td>23 novembre</td><td>1999</td><td>1° febbraio</td><td>2000</td></tr>
 <tr><td>Burkina Faso</td><td>1° luglio</td><td>2013 A</td><td>1° ottobre</td><td>2013</td></tr>
 <tr><td>Burundi</td><td>25 luglio</td><td>2014 A</td><td>1° ottobre</td><td>2014</td></tr>
-<tr><td>Ceca, Repubblica<sup>\*</sup></td><td>23 giugno</td><td>2006 A</td><td>1° settembre</td><td>2006</td></tr>
+<tr><td>Ceca, Repubblica\*</td><td>23 giugno</td><td>2006 A</td><td>1° settembre</td><td>2006</td></tr>
 <tr><td>Ciad</td><td>1° agosto</td><td>2011 A</td><td>1° novembre</td><td>2011</td></tr>
 <tr><td>Cipro</td><td>19 giugno</td><td>2008 A</td><td>1° settembre</td><td>2008</td></tr>
 <tr><td>Congo (Brazzaville)</td><td>30 agosto</td><td>1999</td><td>1° novembre</td><td>1999</td></tr>
@@ -1884,9 +1898,9 @@ Campo d’applicazione il 31 maggio 2022**[^t-4]**
 <tr><td>Danimarca <sup>a</sup></td><td>29 ottobre</td><td>1999</td><td>1° gennaio</td><td>2000</td></tr>
 <tr><td>Egitto</td><td>4 marzo</td><td>1999</td><td>1° novembre</td><td>1999</td></tr>
 <tr><td>Estawini</td><td>23 ottobre</td><td>2012 A</td><td>1° gennaio</td><td>2013</td></tr>
-<tr><td>Estonia<sup>\*</sup></td><td>1° agosto</td><td>2008 A</td><td>1° novembre</td><td>2008</td></tr>
+<tr><td>Estonia\*</td><td>1° agosto</td><td>2008 A</td><td>1° novembre</td><td>2008</td></tr>
 <tr><td>Etiopia</td><td>3 novembre</td><td>2009 A</td><td>1° febbraio</td><td>2010</td></tr>
-<tr><td>Finlandia<sup>\*</sup></td><td>29 ottobre</td><td>1999</td><td>1° gennaio</td><td>2000</td></tr>
+<tr><td>Finlandia\*</td><td>29 ottobre</td><td>1999</td><td>1° gennaio</td><td>2000</td></tr>
 <tr><td>Francia</td><td>30 settembre</td><td>2003</td><td>1° dicembre</td><td>2003</td></tr>
 <tr><td>Gabon</td><td>10 settembre</td><td>2012 A</td><td>1° dicembre</td><td>2012</td></tr>
 <tr><td>Gambia</td><td>12 marzo</td><td>1999</td><td>1° novembre</td><td>1999</td></tr>
@@ -1899,11 +1913,11 @@ Campo d’applicazione il 31 maggio 2022**[^t-4]**
 <tr><td>Guinea equatoriale</td><td>3 ottobre</td><td>2002 A</td><td>1° gennaio</td><td>2003</td></tr>
 <tr><td>Guinea-Bissau</td><td>14 agosto</td><td>2006 A</td><td>1° novembre</td><td>2006</td></tr>
 <tr><td>Irlanda</td><td>30 maggio</td><td>2003</td><td>1° agosto</td><td>2003</td></tr>
-<tr><td>Islanda<sup>\*</sup></td><td>21 marzo</td><td>2013 A</td><td>1° giugno</td><td>2013</td></tr>
+<tr><td>Islanda\*</td><td>21 marzo</td><td>2013 A</td><td>1° giugno</td><td>2013</td></tr>
 <tr><td>Israele</td><td>14 agosto</td><td>2002 A</td><td>1° novembre</td><td>2002</td></tr>
 <tr><td>Italia</td><td>1° giugno</td><td>2006 A</td><td>1° settembre</td><td>2006</td></tr>
 <tr><td>Kenya</td><td>9 marzo</td><td>2001 A</td><td>1° giugno</td><td>2001</td></tr>
-<tr><td>Lettonia<sup>\*</sup></td><td>21 ottobre</td><td>2005 A</td><td>1° gennaio</td><td>2006</td></tr>
+<tr><td>Lettonia\*</td><td>21 ottobre</td><td>2005 A</td><td>1° gennaio</td><td>2006</td></tr>
 <tr><td>Libano</td><td>30 settembre</td><td>2002 A</td><td>1° dicembre</td><td>2002</td></tr>
 <tr><td>Libia</td><td>31 marzo</td><td>2005 A</td><td>1° giugno</td><td>2005</td></tr>
 <tr><td>Lituania</td><td>23 agosto</td><td>2004 A</td><td>1° novembre</td><td>2004</td></tr>
@@ -1915,7 +1929,7 @@ Campo d’applicazione il 31 maggio 2022**[^t-4]**
 <tr><td>Marocco</td><td>24 settembre</td><td>2012</td><td>1° dicembre</td><td>2012</td></tr>
 <tr><td>Mauritania</td><td>25 febbraio</td><td>2015 A</td><td>1° maggio</td><td>2015</td></tr>
 <tr><td>Maurizio</td><td>26 ottobre</td><td>2000 A</td><td>1° gennaio</td><td>2001</td></tr>
-<tr><td>Moldova<sup>\*</sup></td><td>17 gennaio</td><td>2001 A</td><td>1° aprile</td><td>2001</td></tr>
+<tr><td>Moldova\*</td><td>17 gennaio</td><td>2001 A</td><td>1° aprile</td><td>2001</td></tr>
 <tr><td>Monaco</td><td>15 giugno</td><td>1999</td><td>1° novembre</td><td>1999</td></tr>
 <tr><td>Montenegro</td><td>1° agosto</td><td>2011 A</td><td>1° novembre</td><td>2011</td></tr>
 <tr><td>Niger</td><td>31 agosto</td><td>1999</td><td>1° novembre</td><td>1999</td></tr>
@@ -1935,25 +1949,24 @@ Campo d’applicazione il 31 maggio 2022**[^t-4]**
 <tr><td>Senegal</td><td>27 aprile</td><td>1999 F</td><td>1° novembre</td><td>1999</td></tr>
 <tr><td>Serbia</td><td>13 dicembre</td><td>2018 A</td><td>1° marzo</td><td>2019</td></tr>
 <tr><td>Siria</td><td>30 maggio</td><td>2003 A</td><td>1° agosto</td><td>2003</td></tr>
-<tr><td>Slovacchia<sup>\*</sup></td><td>23 aprile</td><td>2001 A</td><td>1° luglio</td><td>2001</td></tr>
+<tr><td>Slovacchia\*</td><td>23 aprile</td><td>2001 A</td><td>1° luglio</td><td>2001</td></tr>
 <tr><td>Slovenia</td><td>23 luglio</td><td>2003 A</td><td>1° ottobre</td><td>2003</td></tr>
 <tr><td>Spagna</td><td>30 marzo</td><td>1999</td><td>1° novembre</td><td>1999</td></tr>
 <tr><td>Sudafrica</td><td>1° gennaio</td><td>2002</td><td>1° aprile</td><td>2002</td></tr>
 <tr><td>Sudan</td><td>31 dicembre</td><td>1996 F</td><td>1° novembre</td><td>1999</td></tr>
-<tr><td>Svezia<sup>\*</sup></td><td>5 ottobre</td><td>1998 F</td><td>1° novembre</td><td>1999</td></tr>
-<tr><td>Svizzera<sup>\*</sup></td><td>15 ottobre</td><td>1996 F</td><td>1° novembre</td><td>1999</td></tr>
+<tr><td>Svezia\*</td><td>5 ottobre</td><td>1998 F</td><td>1° novembre</td><td>1999</td></tr>
+<tr><td>Svizzera\*</td><td>15 ottobre</td><td>1996 F</td><td>1° novembre</td><td>1999</td></tr>
 <tr><td>Tanzania</td><td>31 agosto</td><td>1999</td><td>1° novembre</td><td>1999</td></tr>
 <tr><td>Togo</td><td>22 marzo</td><td>1999</td><td>1° novembre</td><td>1999</td></tr>
 <tr><td>Tunisia</td><td>26 aprile</td><td>2005 A</td><td>1° luglio</td><td>2005</td></tr>
 <tr><td>Turkmenistan</td><td>27 ottobre</td><td>2020 A</td><td>1° gennaio</td><td>2021</td></tr>
 <tr><td>Ucraina</td><td>18 ottobre</td><td>2002</td><td>1° gennaio</td><td>2003</td></tr>
 <tr><td>Uganda</td><td>22 settembre</td><td>2000 A</td><td>1° dicembre</td><td>2000</td></tr>
-<tr><td>Ungheria<sup>\*</sup></td><td>17 dicembre</td><td>2002 A</td><td>1° marzo</td><td>2003</td></tr>
-<tr><td>Unione europea (UE) <sup>\*</sup></td><td>27 luglio</td><td>2005</td><td>1° ottobre</td><td>2005</td></tr>
+<tr><td>Ungheria\*</td><td>17 dicembre</td><td>2002 A</td><td>1° marzo</td><td>2003</td></tr>
+<tr><td>Unione europea (UE)\*</td><td>27 luglio</td><td>2005</td><td>1° ottobre</td><td>2005</td></tr>
 <tr><td>Uzbekistan</td><td>30 gennaio</td><td>2004 A</td><td>1° aprile</td><td>2004</td></tr>
 <tr><td>Zimbabwe</td><td>8 marzo</td><td>2012 A</td><td>1° giugno</td><td>2012</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. Il testo, francese ed inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
-<tr><td colspan="5"><sup>a</sup> Con una riserva riguardante la Groenlandia.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. I testi in inglese possono essere consultati sul sito Internet del Governo Paesi Bassi: [www.overheid.nl](https://www.overheid.nl) &gt; English &gt; Treaty Database, oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> Con una riserva riguardante la Groenlandia.</td></tr>
 </table>
 
-[^t-4]: [RU 2004 3249](https://fedlex.data.admin.ch/eli/oc/2004/420); [2006 807](https://fedlex.data.admin.ch/eli/oc/2006/125), [3335](https://fedlex.data.admin.ch/eli/oc/2006/522); [2009 1131](https://fedlex.data.admin.ch/eli/oc/2009/181); [2011 6329](https://fedlex.data.admin.ch/eli/oc/2011/889); [2013 1389](https://fedlex.data.admin.ch/eli/oc/2013/330); [2017 2485](https://fedlex.data.admin.ch/eli/oc/2017/234); [2019 1139](https://fedlex.data.admin.ch/eli/oc/2019/217); [2022 331](https://fedlex.data.admin.ch/eli/oc/2022/331). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: www.fedlex.admin.ch/it/treaty
+[^t-5]: [RU 2004 3249](https://fedlex.data.admin.ch/eli/oc/2004/420); [2006 807](https://fedlex.data.admin.ch/eli/oc/2006/125), [3335](https://fedlex.data.admin.ch/eli/oc/2006/522); [2009 1131](https://fedlex.data.admin.ch/eli/oc/2009/181); [2011 6329](https://fedlex.data.admin.ch/eli/oc/2011/889); [2013 1389](https://fedlex.data.admin.ch/eli/oc/2013/330); [2017 2485](https://fedlex.data.admin.ch/eli/oc/2017/234); [2019 1139](https://fedlex.data.admin.ch/eli/oc/2019/217); [2022 331](https://fedlex.data.admin.ch/eli/oc/2022/331). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [https://www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)
