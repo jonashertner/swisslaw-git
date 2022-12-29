@@ -4,13 +4,12 @@ number: "419.200"
 title: Ordonnance concernant le statut du personnel de la Haute école pédagogique du Valais
 short: OSP-HEP-VS
 language: fr
-version: 2021-01-01
-valid_until: 2022-12-29
-version_adopted: 2020-11-04
+version: 2022-12-30
+version_adopted: 2023-03-01
 adopted: 2020-11-04
 in_force: 2021-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/419.200"
-pdf: "https://lex.vs.ch/api/fr/versions/2733/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3178/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/2733/pdf_file"
 
 (OSP-HEP-VS)
 
-du 04.11.2020 (état 01.01.2021)
+du 04.11.2020 (état 30.12.2022)
 
 Le Conseil d'Etat du canton du Valais
 
@@ -1013,6 +1012,6 @@ ordonne[^ingress-1]:
 
 **Mesures transitoires**
 
-<sup>1</sup> Durant la phase transitoire jusqu’au 31 décembre 2022, la Haute école pédagogique du Valais peut continuer à bénéficier des conseils et appuis des services centraux de l’Administration cantonale, notamment de l’Administration cantonale des finances (ACF), de la Section des traitements du Service des ressources humaines (SRH) et du Service immobilier et patrimoine (SIP).
+<sup>1</sup> Durant la phase transitoire initialement prévue jusqu’au 31 décembre 2022 et prolongée jusqu'au 31 décembre 2023, la Haute école pédagogique du Valais peut continuer à bénéficier des conseils et appuis des services centraux de l’Administration cantonale, notamment de l’Administration cantonale des finances (ACF), de la Section des traitements du Service des ressources humaines (SRH) et du Service immobilier et patrimoine (SIP).
 
 RCV RO/AGS 2020-095
