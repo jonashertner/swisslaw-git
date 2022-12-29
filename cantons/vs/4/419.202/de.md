@@ -4,13 +4,12 @@ number: "419.202"
 title: Verordnung betreffend die Besoldung des Personals der Pädagogischen Hochschule Wallis
 short: VBP-PH-VS
 language: de
-version: 2021-01-01
-valid_until: 2022-12-29
-version_adopted: 2020-11-04
+version: 2022-12-30
+version_adopted: 2023-03-01
 adopted: 2020-11-04
 in_force: 2021-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/419.202"
-pdf: "https://lex.vs.ch/api/de/versions/2734/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3179/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/de/versions/2734/pdf_file"
 
 (VBP-PH-VS)
 
-vom 04.11.2020 (Stand 01.01.2021)
+vom 04.11.2020 (Stand 30.12.2022)
 
 Der Staatsrat des Kantons Wallis
 
@@ -851,7 +850,7 @@ verordnet [^ingress-1]:
 
 **Übergangsmassnahmen**
 
-<sup>1</sup> Während der Übergangsphase bis zum 31. Dezember 2022 kann die PH-VS weiterhin die Ratschläge und die Unterstützung der Zentralen Dienste der Kantonsverwaltung in Anspruch nehmen, namentlich der Kantonalen Finanzverwaltung (KF), der Sektion Gehälter der Dienststelle für Personalmanagement (DPM) und der Dienststelle für Immobilien und Bauliches Erbe (DIB).
+<sup>1</sup> Während der Übergangsphase, die ursprünglich bis zum 31. Dezember 2022 vorgesehen war und bis zum 31. Dezember 2023 verlängert wurde, kann die PH-VS weiterhin die Ratschläge und die Unterstützung der Zentralen Dienste der Kantonsverwaltung in Anspruch nehmen, namentlich der Kantonalen Finanzverwaltung (KF), der Sektion Gehälter der Dienststelle für Personalmanagement (DPM) und der Dienststelle für Immobilien und Bauliches Erbe (DIB).
 
 <sup>2</sup> Die in Artikel 52, Absatz 2 dieser Verordnung vorgesehene Arbeitszeit der Professoren, Professoren/Lehrbeauftragten, Lehrbeauftragten und pädagogischen Fachberater, wird bis zum 31. August 2021 auf 1'900 effektive Arbeitsstunden beibehalten.
 
