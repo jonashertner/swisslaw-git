@@ -3,11 +3,11 @@ sr: "0.946.293.671"
 title: "Accord commercial du 11 février 2019 entre la Confédération suisse et le Royaume-Uni de Grande-Bretagne et d'Irlande du Nord (avec annexes et déclarations)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/1071"
 language: fr
-version: 2022-10-01
+version: 2022-12-31
 adopted: 2019-02-11
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1071/20221001/fr/xml/fedlex-data-admin-ch-eli-cc-2020-1071-20221001-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/1071/20221001/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1071/20221231/fr/xml/fedlex-data-admin-ch-eli-cc-2020-1071-20221231-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/1071/20221231/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -24,7 +24,7 @@ Approuvé par l’Assemblée fédérale le 19 juin 2020[^t-1]
 
 Entré en vigueur par échange de notes le 1<sup>er</sup> janvier 2021
 
-(État le 1<sup>er</sup> octobre 2022)
+(État le 31 décembre 2022)
 
 [^t-1]: Art. 1 al. 1 let. a de l’AF du 19 juin 2020 ([RO 2020 6603](https://fedlex.data.admin.ch/eli/oc/2020/1070))
 
@@ -1472,9 +1472,9 @@ L’esportatore delle merci contemplate nel presente documento (autorizzazione d
 
 ## Certificat de circulation EUR.1
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1071/20221001/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1071/20221231/fr/xml/image/image1.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1071/20221001/fr/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1071/20221231/fr/xml/image/image2.png)
 
 ## Notes
 
@@ -1484,7 +1484,7 @@ L’esportatore delle merci contemplate nel presente documento (autorizzazione d
 
 ## Demande de certificat de circulation des marchandises EUR.1
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1071/20221001/fr/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1071/20221231/fr/xml/image/image3.png)
 
 Annexe IV
 
@@ -1811,7 +1811,7 @@ Annexe 4[^t-3]
 
 ## Modification de l’accord agricole
 
-[^t-3]: Mise à jour par la D n<sup>o</sup> 1/2021 du Comité mixte de l’agriculture Suisse–Royaume-Uni du 1<sup>er</sup> janv. 2021, en vigueur pour la Suisse depuis le 1<sup>er</sup> janv. 2021 ([RO 2021 97](https://fedlex.data.admin.ch/eli/oc/2021/97)).
+[^t-3]: Mise à jour par la D n<sup>o</sup> 1/2021 du Comité mixte de l’agriculture Suisse–Royaume-Uni du 1<sup>er</sup> janv. 2021 ([RO 2021 97](https://fedlex.data.admin.ch/eli/oc/2021/97)) et la D n<sup>o</sup> 1/2022 du Comité mixte de l’agriculture Suisse–Royaume-Uni du 21 juin 2022, en vigueur depuis le 31 déc. 2022 ([RO 2022 712](https://fedlex.data.admin.ch/eli/oc/2022/712)).
 
 Aux fins du présent Accord, l’accord agricole[^annex4-lvlu1-1] incorporé est modifié comme suit:
 
@@ -2187,11 +2187,13 @@ Chaque Partie fournit des informations à l’autre Partie par écrit et en temp
 
 **Durée de validité et réexamen**
 
-<sup>1.</sup> La présente annexe sera appliquée pendant une période transitoire de 24 mois, après l’entrée en vigueur ou l’application provisoire de l’accord commercial entre la Confédération suisse et le Royaume-Uni de Grande-Bretagne et d’Irlande du Nord, qui a eu lieu à Berne le 11 février 2019.
+<sup>1.</sup> La présente annexe sera appliquée pendant une période transitoire se terminant le 31 décembre 2024.
 
 <sup>2.</sup> Au moins six mois avant la fin de la période transitoire, le Groupe de travail examinera si la présente annexe doit être encore appliquée ou remplacée par une annexe plus complète. Le Comité mixte peut, sur recommandation du Groupe de travail, décider de continuer à appliquer la présente annexe, avec ou sans modifications, pendant une période transitoire prolongée, ou de la remplacer.
 
 <sup>3.</sup> Chaque Partie peut à tout moment communiquer sa décision de mettre fin à l’application de la présente annexe ou de la suspendre. L’extinction ou la suspension prend effet 30 jours après réception de la notification par l’autre partie.
+
+<sup>4.</sup> Afin de renforcer la coopération en matière d’équivalence et dans le but de maintenir et de développer leurs étroites relations commerciales et économiques, les Parties peuvent envisager d’établir une procédure de reconnaissance de l’équivalence fondée sur les règlements sur les produits biologiques, les règles de production et les dispositions de contrôle pertinentes. Une telle procédure peut inclure, entre autres, le processus de consultation, les exigences en matière d’information, les délais appropriés et les responsabilités respectives des parties importatrices et exportatrices. Les Parties déterminent la forme la plus appropriée d’une telle procédure.
 
 Appendice I
 
@@ -2393,6 +2395,30 @@ Email: organics@iol.ie
 
 Website: www.organic-trust.org
 
+### 9 Global Trust Certification Ltd (GB-ORG-16)
+
+3<sup>rd</sup> Floor
+
+Block 3
+
+Quayside Business Park
+
+Mill Street Dundalk
+
+Co. Louth
+
+Republic of Ireland
+
+A91 WNH1
+
+Téléphone: (+353) 42 932 0912
+
+Fax: (+353) 42 938 6864
+
+Courriel: eoghan.stedman@saiglobal.com
+
+Site Internet: [www.saiglobal.com](https://www.saiglobal.com/)»
+
 Appendice IV
 
 ## Législation sur les produits biologiques applicable
@@ -2409,7 +2435,9 @@ Règlement (CE) n<sup>o</sup> 834/2007 du Conseil du 28 juin 2007 relatif à la 
 
 Règlement (CE) n<sup>o</sup> 889/2008 de la Commission du 5 septembre 2008 portant modalités d’application du règlement (CE) n<sup>o</sup> 834/2007 du Conseil relatif à la production biologique et à l’étiquetage des produits biologiques en ce qui concerne la production biologique, l’étiquetage et les contrôles, en vigueur juste avant que les accords commerciaux entre la Suisse et l’Union européenne cessent de s’appliquer au Royaume-Uni.
 
-Règlement (CE) n<sup>o</sup> 1235/2008 de la Commission du 8 décembre 2008 portant modalités d’application du règlement (CE) n<sup>o</sup> 834/2007 du Conseil en ce qui concerne le régime d’importation de produits biologiques en provenance des pays tiers, en vigueur juste avant que les accords commerciaux entre la Suisse et l’Union européenne cessent de s’appliquer au Royaume-Uni.»
+Règlement (CE) n<sup>o</sup> 1235/2008 de la Commission du 8 décembre 2008 portant modalités d’application du règlement (CE) n<sup>o</sup> 834/2007 du Conseil en ce qui concerne le régime d’importation de produits biologiques en provenance des pays tiers, en vigueur juste avant que les accords commerciaux entre la Suisse et l’Union européenne cessent de s’appliquer au Royaume-Uni.
+
+Règlement (UE) 2018/848 du Parlement européen et du Conseil du 30 mai 2018 relatif à la production biologique et à l’étiquetage des produits biologiques, et abrogeant le règlement (CE) n<sup>o</sup> 834/2007 du Conseil, dans la mesure où il s’applique au Royaume-Uni en ce qui concerne l’Irlande du Nord, en vertu du protocole sur l’Irlande/l’Irlande du Nord de l’*Accord* *sur le retrait du Royaume-Uni de Grande-Bretagne et d’Irlande du Nord de l’Union européenne et de la Communauté européenne de l’énergie atomique.*»
 
 Annexe 5
 

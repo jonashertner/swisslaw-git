@@ -3,11 +3,11 @@ sr: "0.946.293.671"
 title: Handelsabkommen vom 11. Februar 2019 zwischen der Schweizerischen Eidgenossenschaft und dem Vereinigten Königreich von Grossbritannien und Nordirland (mit Anhängen und Gemeinsamen Erkl.)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/1071"
 language: de
-version: 2022-10-01
+version: 2022-12-31
 adopted: 2019-02-11
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1071/20221001/de/xml/fedlex-data-admin-ch-eli-cc-2020-1071-20221001-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/1071/20221001/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1071/20221231/de/xml/fedlex-data-admin-ch-eli-cc-2020-1071-20221231-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/1071/20221231/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -24,7 +24,7 @@ Von der Bundesversammlung genehmigt am 19. Juni 2020[^t-1]
 
 In Kraft getreten durch Noteaustausch am 1. Januar 2021
 
-(Stand am 1. Oktober 2022)
+(Stand am 31. Dezember 2022)
 
 [^t-1]: Art. 1 Abs. 1 Bst. a des BB vom 19. Juni 2020 ([AS 2020 6603](https://fedlex.data.admin.ch/eli/oc/2020/1070))
 
@@ -803,9 +803,9 @@ L’esportatore delle merci contemplate nel presente documento (autorizzazione d
 
 ## Warenverkehrsbescheinigung EUR.1
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1071/20221001/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1071/20221231/de/xml/image/image1.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1071/20221001/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1071/20221231/de/xml/image/image2.png)
 
 ### Anmerkungen
 
@@ -815,7 +815,7 @@ L’esportatore delle merci contemplate nel presente documento (autorizzazione d
 
 ## Antrag auf Ausstellung einer Warenverkehrsbescheinigung EUR.1
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1071/20221001/de/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1071/20221231/de/xml/image/image3.png)
 
 Anhang IV
 
@@ -1145,7 +1145,7 @@ Anhang 4[^t-3]
 
 ## Änderungen des Agrarabkommens
 
-[^t-3]: Bereinigt gemäss Beschluss Nr. 1/2021 des gemischten Ausschusses für Landwirtschaft Schweiz–Vereinigtes Königreich vom 1. Jan. 2021, in Kraft seit 1. Jan. 2021 ([AS 2021 97](https://fedlex.data.admin.ch/eli/oc/2021/97)).
+[^t-3]: Bereinigt gemäss der Beschlüsse des gemischten Ausschusses für Landwirtschaft Schweiz–Vereinigtes Königreich Nr. 1/2021 vom 1. Jan. 2021 ([AS 2021 97](https://fedlex.data.admin.ch/eli/oc/2021/97)) und Nr. 1/2022 vom 21. Juni 2022, in Kraft seit 31. Dez. 2022 ([AS 2022 712](https://fedlex.data.admin.ch/eli/oc/2022/712)).
 
 Für die Zwecke dieses Abkommens wird das Inkorporierte Agrarabkommen[^annex4-lvlu1-1] wie folgt geändert:
 
@@ -1521,11 +1521,13 @@ Jede Vertragspartei notifiziert der anderen Vertragspartei schriftlich und recht
 
 **Geltungsdauer und Überprüfung**
 
-<sup>1.</sup> Dieser Anhang gilt für eine Übergangszeit von 24 Monaten ab dem Inkrafttreten oder der vorläufigen Anwendung des Handelsabkommens zwischen der Schweizerischen Eidgenossenschaft und dem Vereinigten Königreich von Grossbritannien und Nordirland, welches am 11. Februar 2019 in Bern unterzeichnet wurde.
+<sup>1.</sup> Dieser Anhang gilt für eine Übergangszeit, die am 31. Dezember 2024 endet.
 
 <sup>2.</sup> Spätestens sechs Monate vor Ablauf der Übergangszeit prüft die Arbeitsgruppe, ob dieser Anhang weiterhin Anwendung finden oder durch einen umfassenderen Anhang ersetzt werden soll. Auf Empfehlung der Arbeitsgruppe entscheidet der Gemischte Ausschuss, ob dieser Anhang mit oder ohne Anpassungen während einer verlängerten Übergangszeit Anwendung findet oder ob er ersetzt wird.
 
 <sup>3.</sup> Eine Vertragspartei kann der anderen Vertragspartei jederzeit ihren Beschluss zur Beendigung oder Aussetzung der Anwendung dieses Anhangs notifizieren. Eine solche Beendigung oder Aussetzung tritt 30 Tage nach Erhalt der Notifikation bei der anderen Vertragspartei in Kraft.
+
+<sup>4.</sup> Zur Stärkung der Zusammenarbeit im Bereich der Gleichwertigkeit und mit dem Ziel, ihre engen Handels- und Wirtschaftsbeziehungen zu pflegen und auszubauen, können die Vertragsparteien die Einführung eines Verfahrens zur Anerkennung der Gleichwertigkeit auf der Grundlage der einschlägigen ökologischen Verordnungen, Produktionsnormen und Kontrollvorkehrungen in Erwägung ziehen. Ein solches Verfahren kann unter anderem den Konsultationsprozess, die Informationsanforderungen, angemessene Fristen und die jeweiligen Zuständigkeiten der importierenden und exportierenden Parteien umfassen. Die Vertragsparteien bestimmen, welche Form für dieses Verfahren am besten geeignet ist.
 
 Anlage I
 
@@ -1727,6 +1729,30 @@ Email: organics@iol.ie
 
 Website: www.organic-trust.org
 
+### 9 Global Trust Certification Ltd (GB-ORG-16)
+
+3<sup>rd</sup> Floor
+
+Block 3
+
+Quayside Business Park
+
+Mill Street Dundalk
+
+Co. Louth
+
+Republic of Ireland
+
+A91 WNH1
+
+Telefon: (+353) 42 932 0912
+
+Fax: (+353) 42 938 6864
+
+E-Mail: eoghan.stedman@saiglobal.com
+
+Webseite: [www.saiglobal.com](https://www.saiglobal.com/)
+
 Anlage IV
 
 ## Einschlägige Rechtsvorschriften für ökologische Erzeugnisse
@@ -1744,6 +1770,8 @@ Verordnung (EG) Nr. 834/2007 des Rates vom 28. Juni 2007 über die ökologische/
 Verordnung (EG) Nr. 889/2008 der Kommission vom 5. September 2008 mit Durchführungsvorschriften zur Verordnung (EG) Nr. 834/2007 des Rates über die ökologische/biologische Produktion und die Kennzeichnung von ökologischen/biologischen Erzeugnissen hinsichtlich der ökologischen/biologischen Produktion, Kennzeichnung und Kontrolle, wie sie gilt, unmittelbar bevor die Handelsabkommen Schweiz–EU für das Vereinigte Königreich nicht mehr anwendbar sind.
 
 Verordnung (EG) Nr. 1235/2008 der Kommission vom 8. Dezember 2008 mit Durchführungsvorschriften zur Verordnung (EG) Nr. 834/2007 des Rates hinsichtlich der Regelung der Einfuhren von ökologischen/biologischen Erzeugnissen aus Drittländern, wie sie gilt, unmittelbar bevor die Handelsabkommen Schweiz–EU für das Vereinigte Königreich nicht mehr anwendbar sind.
+
+Verordnung (EU) 2018/848 des Europäischen Parlaments und des Rates vom 30. Mai 2018 über die ökologische/biologische Produktion und die Kennzeichnung von ökologischen/biologischen Erzeugnissen und zur Aufhebung der Verordnung (EG) Nr. 834/2007 des Rates, insofern diese für das Vereinigte Königreich in Bezug auf Nordirland gemäss dem Protokoll zu Irland/Nordirland zum *Abkommen* *über den Austritt des Vereinigten Königreichs Grossbritannien und Nordirland aus der Europäischen Union und der Europäischen Atomgemeinschaft* anwendbar ist.
 
 »
 

@@ -3,11 +3,11 @@ sr: "0.946.293.671"
 title: "Accordo commerciale dell' 11 febbraio 2019 tra la Confederazione Svizzera e il Regno Unito di Gran Bretagna e Irlanda del Nord (con Allegati et Dichiarazioni)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/1071"
 language: it
-version: 2022-10-01
+version: 2022-12-31
 adopted: 2019-02-11
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1071/20221001/it/xml/fedlex-data-admin-ch-eli-cc-2020-1071-20221001-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/1071/20221001/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1071/20221231/it/xml/fedlex-data-admin-ch-eli-cc-2020-1071-20221231-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/1071/20221231/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -24,7 +24,7 @@ Approvato dall’Assemblea federale il 19 giugno 2020[^t-1]
 
 Entrato in vigore mediante scambio di note il 1° gennaio 2021
 
-(Stato 1° ottobre 2022)
+(Stato 31 dicembre 2022)
 
 [^t-1]: Art. 1 cpv. 1 lett. a del DF del 19 giu. 2020 ([RU 2020 6603](https://fedlex.data.admin.ch/eli/oc/2020/1070)).
 
@@ -813,7 +813,7 @@ L’esportatore delle merci contemplate nel presente documento (autorizzazione d
 
 ## Certificato di circolazione delle merci Eur. 1
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1071/20221001/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1071/20221231/it/xml/image/image1.png)
 
 ## Note
 
@@ -825,7 +825,7 @@ L’esportatore delle merci contemplate nel presente documento (autorizzazione d
 
 ## Domanda di certificato di circolazione delle merci EUR. 1
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1071/20221001/it/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1071/20221231/it/xml/image/image3.png)
 
 Allegato IV
 
@@ -1135,7 +1135,7 @@ Allegato 4[^t-3]
 
 ## Modifiche all’Accordo agricolo
 
-[^t-3]: Aggiornato dalla Dec. n. 1/2021 del Comitato misto Svizzera–Regno Unito per l’agricoltura del 1° gen. 2021, in vigore per la Svizzera il 1° gen. 2021 ([RU 2021 97](https://fedlex.data.admin.ch/eli/oc/2021/97)).
+[^t-3]: Aggiornato dalle Dec. n. 1/2021 del Comitato misto Svizzera–Regno Unito per l’agricoltura del 1° gen. 2021 ([RU 2021 97](https://fedlex.data.admin.ch/eli/oc/2021/97)) e n. 1/2022 del Comitato misto Svizzera – Regno Unito per l’agricoltura concernente del 21 giu. 2022, in vigore dal 31 dic. 2022 ([RU 2022 712](https://fedlex.data.admin.ch/eli/oc/2022/712)).
 
 Ai fini del presente Accordo l’Accordo agricolo[^annex4-lvlu1-1] incorporato è modificato come segue:
 
@@ -1510,11 +1510,13 @@ Ciascuna Parte dà tempestivamente notifica per scritto all’altra Parte ogni q
 
 **Durata e riesame**
 
-<sup>1.</sup> Il presente allegato si applica per un periodo transitorio di 24 mesi a decorrere dalla data di entrata in vigore o di applicazione provvisoria dell’Accordo commerciale tra la Confederazione svizzera e il Regno Unito di Gran Bretagna e Irlanda del Nord, che è stato fatto a Berna l’11 febbraio 2019.
+<sup>1.</sup> Il presente allegato si applica per un periodo transitorio che scade il 31 dicembre 2024.
 
 <sup>2.</sup> Entro e non oltre sei mesi prima dello scadere del periodo transitorio, il gruppo di lavoro esamina se il presente allegato debba continuare a essere applicato oppure debba essere sostituito da un allegato più completo. Su raccomandazione del gruppo di lavoro, il Comitato misto decide se il presente allegato debba continuare a essere applicato senza interruzioni, con o senza modifiche, per un periodo transitorio più lungo, oppure se debba essere sostituito.
 
 <sup>3.</sup> Ciascuna Parte può, in ogni momento, notificare la sua decisione di denunciare o di sospendere l’applicazione del presente allegato. La denuncia o la sospensione ha effetto 30 giorni dopo la ricezione della notifica da parte dell’altra parte.
+
+<sup>4.</sup> Al fine di rafforzare la cooperazione in materia di equivalenza e allo scopo di mantenere e sviluppare le loro strette relazioni commerciali ed economiche, le Parti possono prendere in considerazione l’istituzione di una procedura per il riconoscimento dell’equivalenza basata sulle pertinenti disposizioni della legislazione sui prodotti biologici, sulle norme di produzione e sui regimi di controllo. Tale procedura può comprendere, tra l’altro, il processo di consultazione, i requisiti in materia di informazione, le scadenze adeguate e le rispettive responsabilità delle parti importatrici ed esportatrici. Le Parti determinano la forma più appropriata di tale procedura.
 
 Appendice I
 
@@ -1716,6 +1718,30 @@ Email: organics@iol.ie
 
 Website: www.organic-trust.org
 
+### 9 Global Trust Certification Ltd (GB-ORG-16)
+
+3<sup>rd</sup> Floor
+
+Block 3
+
+Quayside Business Park
+
+Mill Street Dundalk
+
+Co. Louth
+
+Republic of Ireland
+
+A91 WNH1
+
+Telephone: (+353) 42 932 0912
+
+Fax: (+353) 42 938 6864
+
+Email: eoghan.stedman@saiglobal.com
+
+Website: [www.saiglobal.com](https://www.saiglobal.com/)
+
 Appendice IV
 
 ## Legislazione rilevante sull’agricoltura biologica
@@ -1734,7 +1760,7 @@ Regolamento (CE) n. 889/2008 della Commissione del 5 settembre 2008 recante moda
 
 Regolamento (CE) n. 1235/2008 della Commissione, dell’8 dicembre 2008, recante modalità di applicazione del regolamento (CE) n. 834/2007 del Consiglio per quanto riguarda il regime di importazione di prodotti biologici dai Paesi terzi, in vigore immediatamente prima che gli Accordi commerciali tra Svizzera e Unione europea cessino di essere applicabili al Regno Unito.
 
-»
+Regolamento (UE) 2018/848 del Parlamento europeo e del Consiglio del 30 maggio 2018 relativo alla produzione biologica e all’etichettatura dei prodotti biologici e che abroga il regolamento (CE) n. 834/2007 del Consiglio, nella misura in cui si applica al Regno Unito rispetto all’Irlanda del Nord in virtù del protocollo su Irlanda/Irlanda del Nord relativo all’*Accordo sul recesso del Regno Unito di Gran Bretagna e Irlanda del Nord dall’Unione europea e dalla Comunità europea dell’energia atomica*.
 
 [^annexIV-lvlu1-1]: [RS 910.18](https://fedlex.data.admin.ch/eli/cc/1997/2498_2498_2498)
 [^annexIV-lvlu1-2]: [RS 910.181](https://fedlex.data.admin.ch/eli/cc/1997/2519_2519_2519)
