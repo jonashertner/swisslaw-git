@@ -4,13 +4,13 @@ number: 520b
 title: "Statut der Hochschule Luzern, FH Zentralschweiz"
 short: FHZ-Statut
 language: de
-version: 2021-09-01
-valid_until: 2022-12-30
-version_adopted: 2021-08-26
+version: 2022-12-31
+valid_until: 2023-12-31
+version_adopted: 2023-06-13
 adopted: 2021-08-26
 in_force: 2021-09-01
 url: "https://srl.lu.ch/app/de/texts_of_law/520b"
-pdf: "https://srl.lu.ch/api/de/versions/4037/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4118/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/4037/pdf_file"
 
 (FHZ-Statut)
 
-vom 26.08.2021 (Stand 01.09.2021)
+vom 26.08.2021 (Stand 31.12.2022)
 
 Der Fachhochschulrat,
 
@@ -394,9 +394,10 @@ beschliesst:
 
 <sup>1</sup> Die Tätigkeit Mitarbeitender in den Mitwirkungsorganen kann wie folgt an die jährliche Arbeitszeit angerechnet werden:
 
-- a. das Präsidium des Mitwirkungsrates mit pauschal 50 Stunden,
+- a. das Präsidium des Mitwirkungsrates mit pauschal 50 Stunden bzw. die Mitglieder des Co-Präsidiums mit pauschal je 40 Stunden,
 - b. das Präsidium einer Mitwirkungskommission mit pauschal 50 Stunden,
-- c. bei allen übrigen Mitgliedern des Mitwirkungsrates oder einer Mitwirkungskommission mit pauschal 30 Stunden.
+- c. bei allen übrigen Mitgliedern des Mitwirkungsrates oder einer Mitwirkungskommission mit pauschal 30 Stunden,
+- d. die Stellvertretungen der Mitglieder des Mitwirkungsrates mit pauschal 10 Stunden.
 
 #### Art. 36
 
