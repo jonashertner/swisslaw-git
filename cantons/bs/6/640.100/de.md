@@ -4,13 +4,13 @@ number: "640.100"
 title: Gesetz über die direkten Steuern
 short: "Steuergesetz, StG"
 language: de
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-12-07
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2023-03-28
 adopted: 2000-04-12
 in_force: 2001-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/640.100"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5410/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5968/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Steuergesetz | Allgemeine Steuern
 
 (Steuergesetz, StG)
 
-Vom 12. April 2000 (Stand 1. Januar 2022)
+Vom 12. April 2000 (Stand 1. Januar 2023)
 
 Der Grosse Rat des Kantons Basel-Stadt
 
@@ -362,6 +362,8 @@ beschliesst:
 
 <sup>7</sup> Entspricht bei der Rückgabe von Beteiligungsrechten an einer Kapitalgesellschaft oder Genossenschaft, die an einer schweizerischen Börse kotiert ist, die Rückzahlung der Reserven aus Kapitaleinlagen nicht mindestens der Hälfte des erhaltenen Liquidationsüberschusses, so vermindert sich der steuerbare Anteil dieses Liquidationsüberschusses um die halbe Differenz zwischen diesem Anteil und der Rückzahlung, höchstens aber im Umfang der in der Gesellschaft vorhandenen Reserven aus Kapitaleinlagen, die auf diese Beteiligungsrechte entfallen.
 
+<sup>8</sup> Abs. 3 gilt für Einlagen und Aufgelder, die während eines Kapitalbands nach den Art. 653s ff. des Schweizerischen Obligationenrechts (OR) vom 11. März 1911 geleistet werden, nur soweit sie die Rückzahlungen von Reserven im Rahmen dieses Kapitalbands übersteigen.
+
 #### § 21a
 
 **b) Indirekte Teilliquidation und Transponierung**
@@ -369,9 +371,11 @@ beschliesst:
 <sup>1</sup> Als Ertrag aus beweglichem Vermögen im Sinne von § 21 Abs. 1 lit. c gilt auch:
 
 - a) der Erlös aus dem Verkauf einer Beteiligung von mindestens 20 Prozent am Grund- oder Stammkapital einer Kapitalgesellschaft oder Genossenschaft aus dem Privatvermögen in das Geschäftsvermögen einer anderen natürlichen oder einer juristischen Person, soweit innert fünf Jahren nach dem Verkauf, unter Mitwirkung des Verkäufers oder der Verkäuferin, nicht betriebsnotwendige Substanz ausgeschüttet wird, die im Zeitpunkt des Verkaufs bereits vorhanden und handelsrechtlich ausschüttungsfähig war; dies gilt sinngemäss auch, wenn innert fünf Jahren mehrere Beteiligte eine solche Beteiligung gemeinsam verkaufen oder Beteiligungen von insgesamt mindestens 20 Prozent verkauft werden; ausgeschüttete Substanz wird beim Verkäufer bzw. bei der Verkäuferin gegebenenfalls im Verfahren nach den §§ 177 bis 179 nachträglich besteuert;
-- b) der Erlös aus der Übertragung einer Beteiligung am Grund- oder Stammkapital einer Kapitalgesellschaft oder Genossenschaft aus dem Privatvermögen in das Geschäftsvermögen einer Personenunternehmung oder einer juristischen Person, an welcher der Veräusserer bzw. die Veräusserin oder der Einbringer bzw. die Einbringerin nach der Übertragung zu mindestens 50 Prozent am Kapital beteiligt ist, soweit die gesamthaft erhaltene Gegenleistung die Summe aus dem Nennwert der übertragenen Beteiligung und den Einlagen, Aufgeldern und Zuschüssen nach § 19b Abs. 3 übersteigt; dies gilt sinngemäss auch, wenn mehrere Beteiligte die Übertragung gemeinsam vornehmen.
+- b) der Erlös aus der Übertragung einer Beteiligung am Grund- oder Stammkapital einer Kapitalgesellschaft oder Genossenschaft aus dem Privatvermögen in das Geschäftsvermögen einer Personenunternehmung oder einer juristischen Person, an welcher der Veräusserer bzw. die Veräusserin oder der Einbringer bzw. die Einbringerin nach der Übertragung zu mindestens 50 Prozent am Kapital beteiligt ist, soweit die gesamthaft erhaltene Gegenleistung die Summe aus dem Nennwert der übertragenen Beteiligung und den Einlagen, Aufgeldern und Zuschüssen nach § 19b Abs. 3[^21a-1] übersteigt; dies gilt sinngemäss auch, wenn mehrere Beteiligte die Übertragung gemeinsam vornehmen.
 
 <sup>2</sup> Mitwirkung im Sinne von Abs. 1 lit. a liegt vor, wenn der Verkäufer oder die Verkäuferin weiss oder wissen muss, dass der Gesellschaft zwecks Finanzierung des Kaufpreises Mittel entnommen und nicht wieder zugeführt werden.
+
+[^21a-1]: Der angegebene § 19 Abs. 3 ist nicht korrekt. Richtig ist § 21 Abs. 3 - 8.
 
 ### (1. Teil/2. Abschn./B./I.) 5. Unbewegliches Vermögen
 
@@ -535,9 +539,9 @@ beschliesst:
 - d) die gemäss Gesetz, Statut oder Reglement geleisteten Einlagen, Prämien und Beiträge an die Alters-, Hinterlassenen- und Invalidenversicherung und an Einrichtungen der beruflichen Vorsorge;
 - e) Einlagen, Prämien und Beiträge zum Erwerb von vertraglichen Ansprüchen aus anerkannten Formen der gebundenen Selbstvorsorge gemäss dem Bundesgesetz über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge;
 - f) die Prämien und Beiträge für die Erwerbsersatzordnung, die Arbeitslosenversicherung und die obligatorische Unfallversicherung;
-- g) die Einlagen, Prämien und Beiträge für die Lebens-, die Kranken- und die nicht unter lit. f fallende Unfallversicherung sowie die Zinsen von Sparkapitalien der steuerpflichtigen Person und der von ihr unterhaltenen Personen bis zum Maximalbetrag von 6’400 Franken für in rechtlich und tatsächlich ungetrennter Ehe lebende Ehegatten bzw. von 3’200 Franken für alle übrigen Steuerpflichtigen;
+- g) die Einlagen, Prämien und Beiträge für die Lebens-, die Kranken- und die nicht unter lit. f fallende Unfallversicherung sowie die Zinsen von Sparkapitalien der steuerpflichtigen Person und der von ihr unterhaltenen Personen im Pauschalbetrag von 8‘000 Franken für in rechtlich und tatsächlich ungetrennter Ehe lebende Ehegatten bzw. von 4‘000 Franken für alle übrigen Steuerpflichtigen;
 - h) die behinderungsbedingten Kosten der steuerpflichtigen Person oder der von ihr unterhaltenen Personen mit Behinderungen im Sinne des Behindertengleichstellungsgesetzes des Bundes vom 13. Dezember 2002, soweit die steuerpflichtige Person die Kosten selber trägt;
-- i) die nachgewiesenen Kosten, jedoch höchstens 10'000 Franken, für die Drittbetreuung jedes Kindes, das das 14. Altersjahr noch nicht vollendet hat und mit der steuerpflichtigen Person, die für seinen Unterhalt sorgt, im gleichen Haushalt lebt, soweit diese Kosten in direktem kausalem Zusammenhang mit der Erwerbstätigkeit, Ausbildung oder Erwerbsunfähigkeit der steuerpflichtigen Person stehen;
+- i) die nachgewiesenen Kosten, jedoch höchstens 25'000 Franken, für die Drittbetreuung jedes Kindes, das das 14. Altersjahr noch nicht vollendet hat und mit der steuerpflichtigen Person, die für seinen Unterhalt sorgt, im gleichen Haushalt lebt, soweit diese Kosten in direktem kausalem Zusammenhang mit der Erwerbstätigkeit, Ausbildung oder Erwerbsunfähigkeit der steuerpflichtigen Person stehen;
 - j) die Mitgliederbeiträge und Zuwendungen bis zum Gesamtbetrag von CHF 10'000 an politische Parteien, die:
   - 1\. im Parteienregister nach Art. 76a des Bundesgesetzes vom 17. Dezember 1976 über die politischen Rechte eingetragen sind,
   - 2\. in einem kantonalen Parlament vertreten sind, oder
@@ -549,6 +553,8 @@ beschliesst:
 <sup>2</sup> Leben Ehegatten in rechtlich und tatsächlich ungetrennter Ehe und üben sie beide eine vom Beruf, Geschäft oder Gewerbe des andern unabhängige Erwerbstätigkeit aus, so werden vom niedrigeren Erwerbseinkommen 1'000 Franken abgezogen; ein gleicher Abzug ist zulässig bei erheblicher Mitarbeit eines Ehegatten im Beruf, Geschäft oder Gewerbe des anderen Ehegatten; auf Ersatzeinkommen kann kein Abzug vorgenommen werden.
 
 <sup>3</sup> Von den einzelnen Gewinnen aus der Teilnahme an Geldspielen, welche nicht nach § 25 lit. k<sup>bis</sup> – l steuerfrei sind, werden 5 Prozent, jedoch höchstens 5'000 Franken, als Einsatzkosten abgezogen. Von den einzelnen Gewinnen aus der Online-Teilnahme an Spielbankenspielen nach § 25 lit. k<sup>bis</sup> werden die vom Online-Spielerkonto abgebuchten Spieleinsätze im Steuerjahr, jedoch höchstens 25'000 Franken abgezogen.
+
+<sup>4</sup> Der Regierungsrat überprüft alle vier Jahre die Höhe der Pauschalbeträge gemäss Abs. 1 lit. g und berichtet dem Grossen Rat, ob diese anzupassen sind.
 
 #### § 33
 
@@ -578,20 +584,22 @@ beschliesst:
 
 <sup>1</sup> Vom Einkommen werden abgezogen:
 
-- a) 7'800 Franken für jedes minderjährige, erwerbsunfähige oder in der beruflichen oder schulischen Ausbildung stehende Kind, für dessen Unterhalt die steuerpflichtige Person zur Hauptsache sorgt; werden die Eltern getrennt besteuert, so wird der Kinderabzug hälftig aufgeteilt, wenn das Kind unter gemeinsamer elterlicher Sorge steht und keine Unterhaltsbeiträge nach § 32 Abs. 1 lit. c für das Kind geltend gemacht werden;
-- b) 5'500 Franken für jede angehörige Person, an deren Unterhalt die steuerpflichtige Person in Erfüllung einer rechtlichen Unterstützungspflicht mindestens in der Höhe des Abzuges beiträgt; ausgenommen sind Ehegatten, auch nach einer Trennung oder Scheidung, und Kinder, für welche entweder ein Kinderabzug nach lit. a oder ein Alimentenabzug nach § 32 Abs. 1 lit. c gegeben ist;
-- c) 18'000 Franken für alle steuerpflichtigen Personen, denen kein Abzug nach lit. d oder e zusteht;
-- d) 35'000 Franken für in rechtlich und tatsächlich ungetrennter Ehe lebende Ehegatten;
-- e) 30'000 Franken für Alleinstehende mit eigenem Haushalt, sofern sie allein mit minderjährigen, erwerbsunfähigen oder der beruflichen Ausbildung obliegenden Kindern in häuslicher Gemeinschaft leben und an deren Unterhalt zur Hauptsache beitragen;
+- a) 8'600 Franken für jedes minderjährige, erwerbsunfähige oder in der beruflichen oder schulischen Ausbildung stehende Kind, für dessen Unterhalt die steuerpflichtige Person zur Hauptsache sorgt; werden die Eltern getrennt besteuert, so wird der Kinderabzug hälftig aufgeteilt, wenn das Kind unter gemeinsamer elterlicher Sorge steht und keine Unterhaltsbeiträge nach § 32 Abs. 1 lit. c für das Kind geltend gemacht werden;
+- b) 500 - 5'500 Franken für jede angehörige Person, an deren Unterhalt die steuerpflichtige Person in Erfüllung einer rechtlichen Unterstützungspflicht mindestens in der Höhe des Abzuges beiträgt; ausgenommen sind Ehegatten, auch nach einer Trennung oder Scheidung, und Kinder, für welche entweder ein Kinderabzug nach lit. a oder ein Alimentenabzug nach § 32 Abs. 1 lit. c gegeben ist;
+- c) 18'500 Franken für alle steuerpflichtigen Personen, denen kein Abzug nach lit. d oder e zusteht;
+- d) 36'100 Franken für in rechtlich und tatsächlich ungetrennter Ehe lebende Ehegatten;
+- e) 30'900 Franken für Alleinstehende mit eigenem Haushalt, sofern sie allein mit minderjährigen, erwerbsunfähigen oder der beruflichen Ausbildung obliegenden Kindern in häuslicher Gemeinschaft leben und an deren Unterhalt zur Hauptsache beitragen;
 - f) 3'300 Franken für allein stehende Rentner und Rentnerinnen zusätzlich zum Abzug nach lit. c;
 - g)
-- h) 18'000 Franken höchstens für die Unterstützung der Partnerin oder des Partners einer Lebensgemeinschaft mit gemeinsamen oder nicht gemeinsamen Kindern, insoweit deren bzw. dessen Einkommen zur Deckung des nötigen Lebensbedarfs von CHF 18'000 nicht ausreicht.
+- h) 18'500 Franken höchstens für die Unterstützung der Partnerin oder des Partners einer Lebensgemeinschaft mit gemeinsamen oder nicht gemeinsamen Kindern, insoweit deren bzw. dessen Einkommen zur Deckung des nötigen Lebensbedarfs von Fr. 18'000[^35-1] nicht ausreicht.
 
 <sup>2</sup> Die Abzüge nach Abs. 1 lit. c, d und e und die Abzüge nach lit. d, e und f können nicht miteinander kumuliert werden.
 
 <sup>3</sup> Die Sozialabzüge werden nach den Verhältnissen am Ende der Steuerperiode oder der Steuerpflicht festgelegt.
 
 <sup>4</sup> Bei teilweiser Steuerpflicht werden die Sozialabzüge anteilmässig angerechnet; zur Festsetzung des satzmassgeblichen Einkommens werden sie vollumfänglich berücksichtigt.
+
+[^35-1]: Korrigendum: Gemäss [Bericht der Wirtschafts- und Abgabekommission (WAK)](https://grosserrat.bs.ch/dokumente/100397/000000397580.pdf) beträgt das Einkommen zur Deckung des nötigen Lebensbedarfs nicht CHF 18'000 sondern CHF 18'500.
 
 ### (1. Teil/2. Abschn./B.) V. Steuerberechnung
 
@@ -601,19 +609,19 @@ beschliesst:
 
 <sup>1</sup> Die einfache Steuer auf dem steuerbaren Einkommen wird nach folgendem Tarif (Tarif A) berechnet:
 
-Von 100 Franken bis 200’000 Franken: 22.25 Franken je 100 Franken.
+Von 100 Franken bis 201’500 Franken: 21 Franken je 100 Franken.
 
-Über 200’000 Franken bis 300’000 Franken: 28 Franken je 100 Franken.
+Über 201’500 Franken bis 300’000 Franken: 27.25 Franken je 100 Franken.
 
-Über 300’000 Franken: 29 Franken je 100 Franken.
+Über 300’000 Franken: 28.25 Franken je 100 Franken.
 
 <sup>2</sup> Die einfache Steuer auf dem steuerbaren Einkommen wird für in rechtlich und tatsächlich ungetrennter Ehe lebende Ehegatten sowie für Alleinstehende, die mit Kindern oder unterstützungsbedürftigen Personen zusammenleben und deren Unterhalt zur Hauptsache bestreiten, nach folgendem Tarif (Tarif B) berechnet:
 
-Von 100 Franken bis 400’000 Franken: 22.25 Franken je 100 Franken.
+Von 100 Franken bis 403’100 Franken: 21 Franken je 100 Franken.
 
-Über 400’000 Franken bis 600’000 Franken: 28 Franken je 100 Franken.
+Über 403’100 Franken bis 600’000 Franken: 27.25 Franken je 100 Franken.
 
-Über 600’000 Franken: 29 Franken je 100 Franken.
+Über 600’000 Franken: 28.25 Franken je 100 Franken.
 
 <sup>3</sup> Für die Berechnung der Steuer nach diesen Tarifen werden die Frankenbeträge des steuerbaren Einkommens auf die nächsten 100 Franken abgerundet.
 
@@ -795,22 +803,20 @@ Von 100 Franken bis 400’000 Franken: 22.25 Franken je 100 Franken.
 <sup>1</sup> Die jährliche Steuer auf dem steuerbaren Vermögen wird nach folgendem Tarif (Tarif A) berechnet:
 
 <table>
-<tr><td>Von CHF 0</td><td>bis CHF 250'000:</td><td>CHF 4.50 je CHF 1'000</td></tr>
-<tr><td>Von CHF 250'000</td><td>bis CHF 750'000:</td><td>CHF 6.70 je CHF 1'000</td></tr>
-<tr><td>Von CHF 750'000</td><td>bis CHF 2'500'000:</td><td>CHF 9 je CHF 1'000</td></tr>
-<tr><td>Über CHF 2'500'000:</td><td></td><td>CHF 8 je CHF 1'000</td></tr>
+<tr><td>Von Fr. 0</td><td>bis Fr. 250'000:</td><td>Fr. 4.50 je Fr. 1'000</td></tr>
+<tr><td>Von Fr. 250'000</td><td>bis Fr. 750'000:</td><td>Fr. 6.50 je Fr. 1'000</td></tr>
+<tr><td>Über Fr. 750'000:</td><td></td><td>Fr. 7.90 je Fr. 1'000</td></tr>
 </table>
 
-<sup>2</sup> Für Ehegatten, die in rechtlich und tatsächlich ungetrennter Ehe leben, wird die jährliche Steuer auf dem steuerbaren Vermögen nachfolgendem Tarif (Tarif B) berechnet:
+<sup>2</sup> Für Ehegatten, die in rechtlich und tatsächlich ungetrennter Ehe leben, wird die jährliche Steuer auf dem steuerbaren Vermögen nach folgendem Tarif (Tarif B) berechnet:
 
 <table>
-<tr><td>Von CHF 0</td><td>bis CHF 400'000:</td><td>CHF 4.50 je CHF 1'000</td></tr>
-<tr><td>Von CHF 400' 000</td><td>bis CHF 1'200'000:</td><td>CHF 6.70 je CHF 1'000</td></tr>
-<tr><td>Von CHF 1'200'000</td><td>bis CHF 4'000'000:</td><td>CHF 9 je CHF 1'000</td></tr>
-<tr><td>Über CHF 4'000'000:</td><td></td><td>CHF 8 je CHF 1'000</td></tr>
+<tr><td>Von Fr. 0</td><td>bis Fr. 400'000:</td><td>Fr. 4.50 je Fr. 1'000</td></tr>
+<tr><td>Von Fr. 400'000</td><td>bis Fr. 1'200'000:</td><td>Fr. 6.50 je Fr. 1'000</td></tr>
+<tr><td>Über Fr. 1'200'000</td><td></td><td>Fr. 7.90 je Fr. 1'000</td></tr>
 </table>
 
-<sup>3</sup> Für die Berechnung der Steuer nach diesen Tarifen wird das steuerbareVermögen jeweils auf die nächsten 1000 Franken abgerundet.
+<sup>3</sup> Für die Berechnung der Steuer nach diesen Tarifen wird das steuerbare Vermögen jeweils auf die nächsten 1000 Franken abgerundet.
 
 ### (1. Teil/2. Abschn./C./II.) 3. Steuerermässigungen bei besonderen Verhältnissen
 
@@ -1012,7 +1018,7 @@ Von 100 Franken bis 400’000 Franken: 22.25 Franken je 100 Franken.
 
 #### § 69
 
-**a) Allgemeines**
+**Allgemeines**
 
 <sup>1</sup> Der steuerbare Reingewinn setzt sich zusammen aus:
 
@@ -1077,7 +1083,7 @@ Von 100 Franken bis 400’000 Franken: 22.25 Franken je 100 Franken.
 
 #### § 70
 
-**b) Geschäftsmässig begründeter Aufwand**
+**Geschäftsmässig begründeter Aufwand**
 
 <sup>1</sup> Zum geschäftsmässig begründeten Aufwand gehören auch:
 
@@ -1113,7 +1119,7 @@ Von 100 Franken bis 400’000 Franken: 22.25 Franken je 100 Franken.
 
 #### § 71
 
-**c) Erfolgsneutrale Vorgänge**
+**Erfolgsneutrale Vorgänge**
 
 <sup>1</sup> Kein steuerbarer Gewinn entsteht durch:
 
@@ -1124,7 +1130,7 @@ Von 100 Franken bis 400’000 Franken: 22.25 Franken je 100 Franken.
 
 #### § 72
 
-**d) Unternehmensumstrukturierungen**
+**Unternehmensumstrukturierungen**
 
 <sup>1</sup> Stille Reserven einer juristischen Person werden bei Umstrukturierungen, insbesondere im Fall der Fusion, Spaltung oder Umwandlung, nicht besteuert, soweit die Steuerpflicht in der Schweiz fortbesteht und die bisher für die Gewinnsteuer massgeblichen Werte übernommen werden:
 
@@ -1146,7 +1152,7 @@ Von 100 Franken bis 400’000 Franken: 22.25 Franken je 100 Franken.
 
 #### § 73
 
-**e) Ersatzbeschaffungen**
+**Ersatzbeschaffungen**
 
 <sup>1</sup> Werden Gegenstände des betriebsnotwendigen Anlagevermögens ersetzt, so können die stillen Reserven auf die als Ersatz erworbenen Anlagegüter übertragen werden, wenn diese ebenfalls betriebsnotwendig sind und sich in der Schweiz befinden. Vorbehalten bleibt die Besteuerung beim Ersatz von Liegenschaften durch Gegenstände des beweglichen Vermögens.
 
@@ -1178,7 +1184,7 @@ Von 100 Franken bis 400’000 Franken: 22.25 Franken je 100 Franken.
 
 #### § 74
 
-**f) Gewinne von Vereinen, Stiftungen und kollektiven Kapitalanlagen**
+**Gewinne von Vereinen, Stiftungen und kollektiven Kapitalanlagen**
 
 <sup>1</sup> Die Mitgliederbeiträge an die Vereine und die Einlagen in das Vermögen der Stiftungen werden nicht zum steuerbaren Gewinn gerechnet.
 
@@ -1190,13 +1196,13 @@ Von 100 Franken bis 400’000 Franken: 22.25 Franken je 100 Franken.
 
 #### § 74a
 
-**g) Gewinne von juristischen Personen mit ideellen Zwecken**
+**Gewinne von juristischen Personen mit ideellen Zwecken**
 
 <sup>1</sup> Gewinne von juristischen Personen mit ideellen Zwecken werden nicht besteuert, sofern sie höchstens 20‘000 Franken betragen und ausschliesslich und unwiderruflich diesen Zwecken gewidmet sind.
 
 #### § 75
 
-**h) Verluste**
+**Verluste**
 
 <sup>1</sup> Vom Reingewinn der Steuerperiode können Verluste aus sieben der Steuerperiode vorangegangenen Geschäftsjahren abgezogen werden, soweit sie bei der Berechnung des steuerbaren Reingewinns dieser Jahre nicht berücksichtigt werden konnten.
 
@@ -1204,7 +1210,7 @@ Von 100 Franken bis 400’000 Franken: 22.25 Franken je 100 Franken.
 
 ### (1. Teil/3. Abschn./B.) II. Steuerberechnung
 
-### (1. Teil/3. Abschn./B./II.) 1. Kapitalgesellschaften und Genossenschaften
+### (1. Teil/3. Abschn./B./II.) 1. Juristische Personen
 
 #### § 76
 
@@ -1216,7 +1222,7 @@ Von 100 Franken bis 400’000 Franken: 22.25 Franken je 100 Franken.
 
 <sup>4</sup> Für die Berechnung der Steuer wird der steuerbare Reingewinn auf die nächsten 100 Franken abgerundet.
 
-### (1. Teil/3. Abschn./B./II.) 2. Beteiligungsgesellschaften
+### (1. Teil/3. Abschn./B./II.) 2. Gesellschaften mit Beteiligungen
 
 #### § 77
 
@@ -1287,6 +1293,8 @@ Von 100 Franken bis 400’000 Franken: 22.25 Franken je 100 Franken.
 
 <sup>1</sup> Der steuerbare Reingewinn bemisst sich nach dem Ergebnis der Steuerperiode.
 
+<sup>1<sup>bis</sup></sup> Lautet der Geschäftsabschluss auf eine ausländische Währung, so ist der steuerbare Reingewinn in Franken umzurechnen. Massgebend ist der durchschnittliche Devisenkurs (Verkauf) der Steuerperiode.
+
 <sup>2</sup> …
 
 <sup>3</sup> Wird eine juristische Person aufgelöst oder verlegt sie ihren Sitz, die Verwaltung, einen Geschäftsbetrieb oder eine Betriebsstätte ins Ausland, so werden die aus nicht versteuertem Gewinn gebildeten Reserven zusammen mit dem Reingewinn des letzten Geschäftsjahres besteuert.
@@ -1314,6 +1322,8 @@ Von 100 Franken bis 400’000 Franken: 22.25 Franken je 100 Franken.
 <sup>4</sup> Das steuerbare Eigenkapital von Kapitalgesellschaften und Genossenschaften wird um jenen Teil des Fremdkapitals erhöht, dem wirtschaftlich die Bedeutung von Eigenkapital zukommt.
 
 <sup>5</sup> Das steuerbare Eigenkapital, das auf Beteiligungsrechte nach § 77 sowie auf Patente und vergleichbare Rechte nach § 69a entfällt, wird im Verhältnis dieser Werte zu den gesamten Aktiven der Bilanz um 80 Prozent ermässigt. Massgebend sind die steuerlich massgeblichen Buchwerte (Gewinnsteuerwerte).
+
+<sup>6</sup> Lautet der Geschäftsabschluss auf eine ausländische Währung, so ist das steuerbare Eigenkapital in Franken umzurechnen. Massgebend ist der Devisenkurs (Verkauf) am Ende der Steuerperiode.
 
 ### (1. Teil/3. Abschn./C./I.) 3. Vereine, Stiftungen, kollektive Kapitalanlagen und übrige juristische Personen
 
@@ -1614,13 +1624,13 @@ Von 100 Franken bis 400’000 Franken: 22.25 Franken je 100 Franken.
 
 <sup>3</sup> Als Einstandswert gilt unter Vorbehalt von § 105 Abs. 2 der Erwerbswert unter Berücksichtigung der mit dem Erwerb verbundenen Kosten und der wertvermehrenden Aufwendungen, soweit diese nicht bereits bei der Einkommens- oder Gewinnsteuer angerechnet werden konnten.
 
-<sup>4</sup> Für Grundstücke, die vor dem 1. Januar 1977 erworben worden sind, gilt als Einstandswert entweder der Realwert (Gebäudeversicherungswert unter Berücksichtigung der Altersentwertung zu diesem Zeitpunkt, Baunebenkosten und relativer Landwert nach Bodenwertkatalog per 1. Januar 1977) erhöht um die seither vorgenommenen wertvermehrenden Aufwendungen oder der nachgewiesene höhere Einstandswert nach Abs. 3.
+<sup>4</sup> Für Grundstücke, die vor dem 1. Januar 2002 erworben worden sind, gilt als Einstandswert entweder der Realwert (Gebäudeversicherungswert per 31. Dezember 1999 unter Berücksichtigung der Altersentwertung zu diesem Zeitpunkt, Baunebenkosten und relativer Landwert nach Bodenwertkatalog per 31. Dezember 1999), erhöht um die seither vorgenommenen wertvermehrenden Aufwendungen, oder der nachgewiesene höhere Einstandswert nach Abs. 3.
 
 #### § 107
 
 **b) Besitzdauerabzug**
 
-<sup>1</sup> Zur Abgeltung der Besitzesdauer wird auf dem nach § 106 ermittelten Gewinn ein Abzug vorgenommen. Er beträgt ab dem sechsten und für jedes weitere Besitzjahr 3 Prozent, höchstens jedoch 60 Prozent des Gewinns.
+<sup>1</sup> …
 
 <sup>2</sup> Als Besitzesdauer gilt der Zeitraum, während welchem die steuerpflichtige Person Eigentümerin des veräusserten Grundstücks war oder die wirtschaftliche Verfügungsgewalt darüber hatte. Für ihre Berechnung gelten die Bestimmungen über die Entstehung der Steuer (§ 110 Abs. 1) sinngemäss.
 
@@ -1640,11 +1650,11 @@ Von 100 Franken bis 400’000 Franken: 22.25 Franken je 100 Franken.
 
 #### § 109
 
-<sup>1</sup> Der Steuersatz beträgt bei einer Besitzesdauer von weniger als drei Jahren 60 Prozent des steuerbaren Gewinns und ermässigt sich für jeden weiteren Monat Besitzesdauer um 0,5 Prozent. Ab dem 9. Besitzjahr beträgt er einheitlich 30 Prozent.
+<sup>1</sup> Der Steuersatz beträgt bei einer Besitzesdauer von bis zu fünf vollendeten Jahren 60 Prozent des steuerbaren Gewinns. Er ermässigt sich ab dem 6. Besitzesjahr und für jedes angebrochene weitere Jahr Besitzesdauer um 3.9 Prozentpunkte und ab dem 16. Besitzesjahr und für jedes angebrochene weitere Jahr Besitzesdauer um 0.9 Prozentpunkte. Ab dem 25. Besitzesjahr beträgt er einheitlich 12 Prozent.
 
-<sup>2</sup> Für die Bestimmung der Besitzesdauer gilt § 107 Abs. 2 und 3 sinngemäss.
+<sup>2</sup> Für die Bestimmung der Besitzesdauer gilt § 107 Abs. 2 und 3.
 
-<sup>3</sup> Bei Gewinnen aus dauernd und ausschliesslich selbstgenutzten Wohnliegenschaften (Einfamilienhäusern und Eigentumswohnungen) beträgt der Steuersatz ungeachtet der Besitzesdauer 30 Prozent.
+<sup>3</sup> Der Steuersatz beträgt bei dauernd und ausschliesslich selbstgenutzten Wohnliegenschaften (Einfamilienhäusern und Eigentumswohnungen) bei einer Besitzesdauer von bis zu fünf vollendeten Jahren 30 Prozent des steuerbaren Gewinns. Er ermässigt sich ab dem 6. Besitzesjahr und für jedes angebrochene weitere Jahr Besitzesdauer um 0.9 Prozentpunkte. Ab dem 25. Besitzesjahr beträgt er einheitlich 12 Prozent.
 
 <sup>4</sup> Der Steuersatz gemäss Abs. 1 ermässigt sich im mit dem Faktor 1,5 gewichteten Verhältnis der nach Erwerb getätigten wertvermehrenden Aufwendungen zum erzielten Veräusserungserlös, höchstens jedoch auf 30 Prozent.
 
@@ -3339,40 +3349,7 @@ Die Änderungen gemäss Grossratsbeschluss vom 19.09.2018 zur Einkommenssteuer b
 
 #### § 239b
 
-<sup>1</sup> Die einfache Steuer auf dem steuerbaren Einkommen wird für die Steuerperiode 2012:
-
-- a) nach folgendem Tarif (Tarif A) berechnet:
-  - aa) Von CHF 100 bis CHF 200'000: CHF 23 je CHF 100
-  - ab) Über CHF 200'000: CHF 26 je CHF 100.
-- b) für in rechtlich und tatsächlich ungetrennter Ehe lebende Ehegatten sowie für Alleinstehende, die mit Kindern oder unterstützungsbedürftigen Personen zusammenleben und deren Unterhalt zur Hauptsache bestreiten, nach folgendem Tarif (Tarif B) berechnet:
-  - ba) Von CHF 100 bis CHF 400'000: CHF 23 je CHF 100
-  - bb) Über CHF 400'000: CHF 26 je CHF 100.
-
-<sup>2</sup> Die Steuersätze der ersten Tarifstufe der Tarife A und B gemäss Abs. 1 nehmen für die weiteren Steuerperioden in einem ersten Schritt um 0.5 Prozentpunkte auf 22.5 Prozent und in einem weiteren Schritt um 0.25 Prozentpunkte auf 22.25 Prozent ab, jeweils wenn[^239b-1]
-
-- a) das Wachstum des realen Bruttoinlandprodukts der Schweiz während des Zeitraums vom vierten Quartal des Vorvorjahres bis zum dritten Quartal des Kalenderjahres vor der jeweiligen Steuerperiode gemäss den vom Staatssekretariat für Wirtschaft veröffentlichten Quartalsschätzungen nicht in zwei aufeinanderfolgenden Quartalen negativ war und
-- b) die Nettoschuldenquote des Kantons am 31. Dezember des vorletzten Kalenderjahrs vor der jeweiligen Steuerperiode mindestens einen Promillepunkt unter dem zulässigen Wert gemäss § 4 Abs. 1 des Finanzhaushaltsgesetzes lag.
-
-<sup>3</sup> Die einfache Steuer auf dem steuerbaren Einkommen wird für die Steuerperiode 2019:
-
-- a) nach folgendem Tarif (Tarif A) berechnet:
-  - aa) Von 100 Franken bis 200’000 Franken: 22 Franken je 100 Franken.
-  - ab) Über 200’000 Franken: 26 Franken je 100 Franken.
-- b) für in rechtlich und tatsächlich ungetrennter Ehe lebende Ehegatten sowie für Alleinstehende, die mit Kindern oder unterstützungsbedürftigen Personen zusammenleben und deren Unterhalt zur Hauptsache bestreiten, nach folgendem Tarif (Tarif B) berechnet:
-  - ba) Von 100 Franken bis 400’000 Franken: 22 Franken je 100 Franken.
-  - bb) Über 400’000 Franken: 26 Franken je 100 Franken.
-
-<sup>4</sup> Ab Steuerperiode 2020 nehmen die Steuersätze der ersten Tarifstufe der Tarife A und B gemäss Abs. 3 jährlich schrittweise um 0,25 Prozentpunkte bis auf 21,50 Prozent ab, jeweils wenn[^239b-2]
-
-- a) das Wachstum des realen Bruttoinlandprodukts der Schweiz während des Zeitraums vom vierten Quartal des Vorvorjahres bis zum dritten Quartal des Kalenderjahres vor der jeweiligen Steuerperiode gemäss den vom Staatssekretariat für Wirtschaft veröffentlichten Quartalsschätzungen nicht in zwei aufeinanderfolgenden Quartalen negativ war und
-- b) die Nettoschuldenquote des Kantons (vgl. § 4 Abs. 1 des Finanzhaushaltsgesetzes) am 31. Dezember des vorletzten Kalenderjahrs vor der jeweiligen Steuerperiode unter 4‰ lag.
-
-<sup>5</sup> Findet die gemäss Abs. 4 vorgesehene Anpassung nicht in der vorgesehenen Steuerperiode statt, verzögert sich diese, bis die Bedingungen erfüllt sind.
-
-<sup>6</sup> Die Anpassungen gemäss Abs. 4 nimmt der Regierungsrat vor.
-
-[^239b-1]: § 239b Abs. 2: Für die Steuerperiode 2014 beträgt der Steuersatz der ersten Tarifstufe für die ordentliche Veranlagung der Einkommenssteuer der natürlichen Personen 22.25 % (RRB vom 10. 12. 2013).
-[^239b-2]: Der Regierungsrat hat festgestellt, dass die Bedingungen gemäss § 239b Abs. 4 erfüllt sind (RRB vom 24. 9. 2019, publiziert am 28. 9. 2019; siehe Anhang 4).
+**…**
 
 ### (5.Teil/III.) 6b. Ausgleich der kalten Progression
 
@@ -3422,23 +3399,7 @@ für die Steuerperiode 2008 um 100 Franken.
 
 #### § 241bis
 
-<sup>1</sup> Ab Steuerperiode 2019 erhöht sich der Abzug gemäss § 32 Abs. 1 lit. g auf einen Maximalbetrag von 4’800 Franken für in rechtlich und tatsächlich ungetrennter Ehe lebende Ehegatten bzw. auf 2’400 Franken für alle übrigen Steuerpflichtigen.
-
-<sup>2</sup> Ab Steuerperiode 2020 erhöht sich der Abzug gemäss § 32 Abs. 1 lit. g auf einen Maximalbetrag von 5’600 Franken für in rechtlich und tatsächlich ungetrennter Ehe lebende Ehegatten bzw. auf 2’800 Franken für alle übrigen Steuerpflichtigen.[^241bis-1]
-
-<sup>3</sup> Ab Steuerperiode 2021 erhöht sich der Abzug gemäss § 32 Abs. 1 lit. g auf einen Maximalbetrag von 6’400 Franken für in rechtlich und tatsächlich ungetrennter Ehe lebende Ehegatten bzw. auf 3’200 Franken für alle übrigen Steuerpflichtigen.
-
-<sup>4</sup> Die Erhöhung des Abzugs gemäss den Abs. 2 und 3 tritt nur ein, wenn[^241bis-2]
-
-- a) das Wachstum des realen Bruttoinlandprodukts der Schweiz während des Zeitraums vom vierten Quartal des Vorvorjahres bis zum dritten Quartal des Kalenderjahres vor der jeweiligen Steuerperiode gemäss den vom Staatssekretariat für Wirtschaft veröffentlichten Quartalsschätzungen nicht in zwei aufeinanderfolgenden Quartalen negativ war und
-- b) die Nettoschuldenquote des Kantons (vgl. § 4 Abs. 1 des Finanzhaushaltsgesetzes) am 31. Dezember des vorletzten Kalenderjahrs vor der jeweiligen Steuerperiode unter 4‰ lag.
-
-<sup>5</sup> Findet die gemäss Abs. 4 vorgesehene Anpassung nicht in der vorgesehenen Steuerperiode statt, verzögert sich diese, bis die Bedingungen erfüllt sind.
-
-<sup>6</sup> Die Anpassungen gemäss Abs. 2 und 3 nimmt der Regierungsrat vor.
-
-[^241bis-1]: Der Regierungsrat hat festgestellt, dass die Bedingungen gemäss § 241<sup>bis</sup> Abs. 4 erfüllt sind (RRB vom 24. 9. 2019, publiziert am 28. 9. 2019; siehe Anhang 4).
-[^241bis-2]: Der Regierungsrat hat festgestellt, dass die Bedingungen gemäss § 241<sup>bis</sup> Abs. 4 erfüllt sind (RRB vom 24. 9. 2019, publiziert am 28. 9. 2019; siehe Anhang 4).
+**…**
 
 ### (5. Teil/III.) 7a. Rentenversicherungen
 
