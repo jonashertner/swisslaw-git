@@ -4,13 +4,13 @@ number: "710.11"
 title: "Règlement d'exécution de la loi sur l'aménagement du territoire et les constructions"
 short: ReLATeC
 language: fr
-version: 2022-02-01
-valid_until: 2022-12-31
-version_adopted: 2022-03-18
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2022-12-20
 adopted: 2009-12-01
 in_force: 2010-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/710.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7342/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7694/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Aménagement du territoire et constructions – R
 
 (ReLATeC)
 
-du 01.12.2009 (version entrée en vigueur le 01.02.2022)
+du 01.12.2009 (version entrée en vigueur le 01.01.2023)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -299,7 +299,8 @@ Arrête:
 
 <sup>2</sup> Le concept de stationnement est un élément du plan directeur communal. Il doit obligatoirement faire partie de ce plan lorsque la commune:
 
-- a) est comprise dans le périmètre d'un plan régional des transports au sens de la loi sur les transports ou du plan de mesures au sens de la loi fédérale sur la protection de l'environnement, ou
+- a) fait partie d'une agglomération, ou
+- a)<sup>bis</sup> du plan de mesures au sens de la loi fédérale sur la protection de l'environnement, ou
 - b) a un minimum de 5000 habitants ou habitantes, ou
 - c) fait partie d'un pôle touristique d'importance cantonale.
 
@@ -785,7 +786,7 @@ Arrête:
 
 **Talus**
 
-<sup>1</sup> Les talus ne peuvent pas dépasser une ligne correspondant à un rapport de 2: 3 (2 = hauteur, 3 = longueur) et tirée depuis la bordure de la propriété à partir soit du terrain naturel, soit du sommet du mur de soutènement pour les talus montants, ou du pied de ce mur pour les talus descendants (annexe 2, figures 1 à 3). Les dispositions de la législation sur les routes relatives aux fonds voisins sont réservées.
+<sup>1</sup> Les talus ne peuvent pas dépasser une ligne correspondant à un rapport de 2: 3 (2 = hauteur, 3 = longueur) et tirée depuis la bordure de la propriété à partir soit du terrain naturel, soit du sommet du mur de soutènement pour les talus montants, ou du pied de ce mur pour les talus descendants (annexe 2, figures 1 à 3). Les dispositions de la législation sur la mobilité relatives aux fonds voisins sont réservées.
 
 <sup>2</sup> Les particuliers peuvent convenir de déroger par écrit à cette prescription, moyennant la mise en œuvre de mesures constructives assurant la stabilité du talus.
 
@@ -795,7 +796,7 @@ Arrête:
 
 <sup>1</sup> La hauteur des murs de soutènement ou de clôture ne peut pas dépasser 1,20 m dans l'alignement des bornes (annexe 2, figures 2 et 3). Si un mur dépasse cette valeur, il doit être reculé d'autant. La hauteur du mur se calcule à partir du niveau du terrain naturel en limite de propriété.
 
-<sup>2</sup> Les dispositions de la loi sur les routes relatives aux fonds voisins sont réservées.
+<sup>2</sup> Les dispositions de la loi sur la mobilité relatives aux fonds voisins sont réservées.
 
 #### Art. 61
 
@@ -1059,7 +1060,7 @@ Arrête:
 - c) les changements d'affectation de locaux et les modifications d'installations susceptibles de porter atteinte à l'environnement, notamment les nouvelles installations au sens de l'article 2 al. 4 let. a de l'ordonnance fédérale du 16 décembre 1985 sur la protection de l'air (OPair), les installations notablement modifiées au sens de l'article 8 al. 2 et 3 de l'ordonnance fédérale du 15 décembre 1986 sur la protection contre le bruit (OPB), les installations modifiées au sens de l'article 9 de l'ordonnance fédérale du 23 décembre 1999 sur la protection contre le rayonnement non ionisant (ORNI), les installations soumises à l'étude d'impact sur l'environnement au sens de l'article 10a de la loi fédérale du 7 octobre 1983 sur la protection de l'environnement (LPE) ainsi que les installations susceptibles de porter atteinte aux eaux;
 - d) les installations de chauffage et/ou d'eau chaude sanitaire et les équipements qui leur sont liés, sous réserve de l'article 85 al. 1 let. d;
 - e) …
-- f) les ouvrages de génie civil tels que remblais, déblais, murs de soutènement d'une hauteur de plus de 1,20 m par rapport au terrain naturel, murs et parois paraphones, conduites, canalisations, captages d'eau, aménagements de cours d'eau, ainsi que les accès à une route publique, les aménagements sommaires de routes communales, les routes et les ponts qui ne sont pas régis par la loi sur les routes;
+- f) les ouvrages de génie civil tels que remblais, déblais, murs de soutènement d'une hauteur de plus de 1,20 m par rapport au terrain naturel, murs et parois paraphones, conduites, canalisations, captages d'eau, aménagements de cours d'eau, ainsi que les accès à une route publique;
 - g) l'exploitation de gravières, de décharges et de carrières ainsi que toutes les installations liées à ces exploitations;
 - g<sup>bis</sup>) l'extraction de matériaux du domaine public des eaux soumise à notice d'impact (art. 58 RCEaux);
 - h) les aménagements et installations destinés aux sports ou aux loisirs tels que places de sport, patinoires, ports, piscines publiques et plages, stands et installations de tir, pistes de motocross, karting, pistes de modèles réduits, installations de fabrication de neige artificielle, aménagements de camping-caravaning;
@@ -1099,13 +1100,13 @@ Arrête:
 - a) les réclames (loi du 6 novembre 1986 sur les réclames);
 - b) les installations de ventilation, de climatisation et de chauffage en plein air, et le chauffage des piscines (loi du 9 juin 2000 sur l'énergie);
 - c) les conduites servant au transport par conduites de combustibles ou carburants liquides ou gazeux non soumis à concession fédérale (arrêté du 5 juin 1979);
-- d) les téléphériques servant au transport de personnes sans concession fédérale et les téléskis (arrêté du 9 décembre 1980);
+- d) les téléphériques servant au transport de personnes sans concession fédérale et les téléskis (loi sur la mobilité du 5 novembre 2021);
 - e) les ascenseurs, les monte-charge et les escaliers mécaniques (règlement du 28 décembre 1965 sur la police du feu et la protection contre les éléments naturels);
 - f) les travaux d'améliorations foncières (loi du 2 mars 1999 sur les forêts et la protection contre les catastrophes naturelles et son règlement d'exécution; loi du 30 mai 1990 sur les améliorations foncières).
 
 #### Art. 87
 
-**Dispense de permis (art. 135 al. 3 LATeC)**
+**Dispense de permis (art. 135 al. 3 LATeC) – En général**
 
 <sup>1</sup> Ne sont pas soumis à permis de construire:
 
@@ -1121,6 +1122,18 @@ Arrête:
 <sup>3</sup> Les installations solaires dispensées de permis au sens du droit fédéral doivent être annoncées à la commune trente jours avant le début des travaux. Les plans et documents qui doivent être joints à l'annonce sont définis dans les directives édictées par la Direction (art. 89 al. 2).
 
 <sup>4</sup> Les changements d'utilisation au sens de la législation fédérale sur les résidences secondaires (art. 7 ORSec) doivent être annoncés au préfet, par écrit, dans un délai de trente jours dès l'emménagement. Le préfet avise d'office le Registre foncier des changements d'utilisation afin que celui-ci procède à l'adaptation nécessaire des mentions.
+
+#### Art. 87a
+
+**Dispense de permis (art. 135 al. 3 LATeC) – Téléphonie mobile**
+
+<sup>1</sup> Les modifications mineures sur les stations émettrices pour téléphonie mobile ne sont pas soumises à permis de construire.
+
+<sup>2</sup> Sont qualifiées de mineures les modifications qui n'aboutissent pas à une augmentation significative des immissions auprès des lieux à utilisation sensible au sens de la législation fédérale sur la protection contre le rayonnement non ionisant.
+
+<sup>3</sup> Les modifications mineures au sens des alinéas 1 et 2 doivent être annoncées au Service de l'environnement. La modification mineure ne peut être réalisée qu'après l'obtention de l'accord de ce Service, qui doit intervenir au maximum trente jours après le dépôt de l'annonce.
+
+<sup>4</sup> Les modifications mineures ainsi que les plans et les documents qui doivent être joints à l'annonce sont définis dans une directive édictée par la Direction.
 
 ### 3.2.2 Procédure de permis de construire (art. 137, 140, 144 et 147 à 149 LATeC)
 

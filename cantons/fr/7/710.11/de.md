@@ -4,13 +4,13 @@ number: "710.11"
 title: Ausführungsreglement zum Raumplanungs- und Baugesetz
 short: RPBR
 language: de
-version: 2022-02-01
-valid_until: 2022-12-31
-version_adopted: 2022-03-18
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2022-12-20
 adopted: 2009-12-01
 in_force: 2010-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/710.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/7342/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7694/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Raumplanungs- und Baugesetz – R
 
 (RPBR)
 
-vom 01.12.2009 (Fassung in Kraft getreten am 01.02.2022)
+vom 01.12.2009 (Fassung in Kraft getreten am 01.01.2023)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -299,7 +299,8 @@ beschliesst:
 
 <sup>2</sup> Das Parkplatzkonzept ist Bestandteil des Gemeinderichtplans. Dieses muss im Gemeinderichtplan enthalten sein, wenn die Gemeinde:
 
-- a) sich innerhalb des Perimeters eines regionalen Verkehrsplans im Sinne des Verkehrsgesetzes befindet oder im Massnahmenplan nach dem Bundesgesetz über den Umweltschutz enthalten ist, oder
+- a) sich innerhalb einer Agglomeration befindet, oder
+- a)<sup>bis</sup> im Massnahmeplan nach dem Bundesgesetz über den Umweltschutz enthalten ist, oder
 - b) mindestens 5000 Einwohnerinnen und Einwohner hat, oder
 - c) zu einem Tourismusort kantonaler Bedeutung gehört.
 
@@ -785,7 +786,7 @@ beschliesst:
 
 **Böschungen**
 
-<sup>1</sup> Böschungen dürfen eine Linie, die im Verhältnis 2:3 (2=Höhe, 3=Länge) steht, nicht überschreiten (Anhang 2, Abbildung 1). Diese wird gezogen ab Grundstücksrand, und zwar vom natürlichen Gelände oder von der Krone der Stützmauer für steigende Böschungen bzw. ab Mauersockel für abfallende Böschungen (Anhang 2, Abbildungen 2 und 3). Die Bestimmungen der Strassengesetzgebung über die Nachbargrundstücke bleiben vorbehalten.
+<sup>1</sup> Böschungen dürfen eine Linie, die im Verhältnis 2:3 (2=Höhe, 3=Länge) steht, nicht überschreiten (siehe erstes Schema des Anhangs 2). Diese wird gezogen ab Grundstücksrand, und zwar vom natürlichen Gelände oder von der Krone der Stützmauer für steigende Böschungen bzw. ab Mauersockel für abfallende Böschungen (Anhang 2, Abbildungen 1–3). Die Bestimmungen der Mobilitätsgesetzgebung über die Nachbargrundstücke bleiben vorbehalten.
 
 <sup>2</sup> Wenn Privatpersonen Massnahmen zur Stabilisierung der Böschung treffen, können sie schriftlich Abweichungen von dieser Bestimmung vereinbaren.
 
@@ -795,7 +796,7 @@ beschliesst:
 
 <sup>1</sup> Die Einfriedigungs- oder Stützmauern dürfen auf der Grenzlinie nicht höher als 1,20 m sein (Anhang 2, Abbildungen 2 und 3). Übersteigt eine Mauer diese Höhe, so muss sie um ebenso viel zurückgesetzt werden. Die Höhe der Mauer wird ab gewachsenem Boden bei der Grundstücksgrenze gemessen.
 
-<sup>2</sup> Die Bestimmungen der Strassengesetzgebung über die Nachbargrundstücke bleiben vorbehalten.
+<sup>2</sup> Die Bestimmungen des Mobilitätsgesetzes über die Nachbargrundstücke bleiben vorbehalten.
 
 #### Art. 61
 
@@ -1059,7 +1060,7 @@ beschliesst:
 - c) Nutzungsänderungen von Räumen und die Änderungen von Anlagen, die die Umwelt beeinträchtigen könnten, insbesondere neue Anlagen im Sinne von Artikel 2 Abs. 4 Bst. a der Luftreinhalte-Verordnung (LRV), wesentlich geänderte Anlagen im Sinne von Artikel 8 Abs. 2 und 3 der Lärmschutz-Verordnung (LSV), geänderte Anlagen im Sinne von Artikel 9 der Verordnung über den Schutz vor nichtionisierender Strahlung (NISV), Anlagen, die der Umweltverträglichkeitsprüfung im Sinne von Artikel 10a des Umweltschutzgesetzes vom 7. Oktober 1983 (USG) unterstehen, und wassergefährdende Anlagen;
 - d) Heiz- und/oder Warmwasseranlagen und damit verbundene technische Anlagen unter Vorbehalt von Artikel 85 Abs. 1 Bst. d;
 - e) …
-- f) Tiefbauwerke, wie Aufschüttungen, Abgrabungen, Stützmauern, die höher sind als 1,20 m ab gewachsenem Boden, Lärmschutzmauern und –wände, Leitungen, Kanalisationen, Wasserfassungen, der Ausbau von Wasserläufen sowie die Zugänge zu einer öffentlichen Strasse, der summarische Ausbau von Gemeindestrassen, die Strassen und Brücken, die nicht unter die Strassengesetzgebung fallen;
+- f) Tiefbauwerke, wie Aufschüttungen, Abgrabungen, Stützmauern, die höher sind als 1,20 m ab gewachsenem Boden, Lärmschutzmauern und –wände, Leitungen, Kanalisationen, Wasserfassungen, der Ausbau von Wasserläufen sowie die Zugänge zu einer öffentlichen Strasse;
 - g) der Kiesabbau, die Deponien und die Steinbrüche sowie alle Anlagen, die mit diesen Installationen zusammenhängen;
 - g<sup>bis</sup>) Materialentnahmen aus öffentlichen Gewässern, für die ein Kurzbericht zur Umweltverträglichkeit verfasst werden muss (Art. 58 GewR);
 - h) Sport- und Freizeiteinrichtungen, wie Sportplätze, Eisbahnen, Häfen, öffentliche Schwimmbäder und Badestrände, Schiessstände und -anlagen, Motocrosspisten, Kartbahnen, Modellbahnen, Kunstschneeanlagen, Camping- und Wohnwagenplätze;
@@ -1099,13 +1100,13 @@ beschliesst:
 - a) die Reklamen (Gesetz vom 6. November 1986 über die Reklamen);
 - b) die freistehenden Klimatisierungs- und Heizungsanlagen sowie die Heizungen von Schwimmbädern (Energiegesetz vom 9. Juni 2000);
 - c) die Rohrleitungsanlagen zur Beförderung flüssiger oder gasförmiger Brenn- oder Treibstoffe, die der eidgenössischen Bewilligung nicht unterstellt sind (Beschluss vom 5. Juni 1979);
-- d) die Luftseilbahnen zur Personenbeförderung ohne Bundeskonzession (Beschluss vom 9. Dezember 1980);
+- d) die Luftseilbahnen zur Personenbeförderung ohne Bundeskonzession (Mobilitätsgesetz vom 5. November 2021);
 - e) die Aufzüge, Warenaufzüge und Fahrtreppen (Verordnung vom 28. Dezember 1965 betreffend die Feuerpolizei und den Schutz gegen Elementarschäden);
 - f) die Bodenverbesserungen (Gesetz vom 2. März 1999 über den Wald und den Schutz vor Naturereignissen und dessen Ausführungsreglement; Gesetz vom 30. Mai 1990 über die Bodenverbesserungen).
 
 #### Art. 87
 
-**Befreiung von der Bewilligung (Art. 135 Abs. 3 RPBG)**
+**Befreiung von der Bewilligung (Art. 135 Abs. 3 RPBG) – Im Allgemeinen**
 
 <sup>1</sup> Keine Baubewilligung ist nötig für:
 
@@ -1121,6 +1122,18 @@ beschliesst:
 <sup>3</sup> Bewilligungsfreie Solaranlagen nach dem Bundesrecht müssen dreissig Tage vor Baubeginn der Gemeinde gemeldet werden. Welche Pläne und Unterlagen der Meldung beigelegt werden müssen, wird in den Richtlinien der Direktion (Art. 89 Abs. 2) festgelegt.
 
 <sup>4</sup> Umnutzungen nach der Bundesgesetzgebung über Zweitwohnungen (Art. 7 ZWV) müssen innerhalb von 30 Tagen ab Wohnungsbezug der Oberamtsperson schriftlich gemeldet werden. Die Oberamtsperson informiert das Grundbuchamt von Amtes wegen über die Umnutzung, damit dieses die Anmerkung ändern kann.
+
+#### Art. 87a
+
+**Befreiung von der Bewilligung (Art. 135 Abs. 3 RPBG) – Mobilfunk**
+
+<sup>1</sup> Geringfügige Änderungen an Sendeanlagen für den Mobilfunk sind von der Baubewilligungspflicht befreit.
+
+<sup>2</sup> Als geringfügig gelten Änderungen, die nicht zu einer nennenswerten Erhöhung der Immissionen an Orten mit empfindlicher Nutzung im Sinne der eidgenössischen Gesetzgebung zum Schutz vor nichtionisierender Strahlung führen.
+
+<sup>3</sup> Geringfügige Änderungen im Sinne der Absätze 1 und 2 müssen dem Amt für Umwelt gemeldet werden. Die geringfügige Änderung darf erst vorgenommen werden, wenn dieses Amt seine Zustimmung erteilt hat, die höchstens dreissig Tage nach Eingang der Meldung zu erfolgen hat.
+
+<sup>4</sup> Die geringfügigen Änderungen und die Pläne und Unterlagen, die der Meldung beigelegt werden müssen, werden in einer Richtlinie der Direktion festgelegt.
 
 ### 3.2.2 Baubewilligungsverfahren (Art. 137, 140, 144, 147–149 RPBG)
 
