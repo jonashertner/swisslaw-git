@@ -4,11 +4,11 @@ title: "Swiss Criminal Procedure Code of 5 October 2007 (Criminal Procedure Code
 short: CrimPC
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/267"
 language: en
-version: 2022-07-01
+version: 2023-01-01
 adopted: 2007-10-05
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/267/20220701/en/xml/fedlex-data-admin-ch-eli-cc-2010-267-20220701-en-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20220701/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/267/20230101/en/xml/fedlex-data-admin-ch-eli-cc-2010-267-20230101-en-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20230101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Criminal Procedure Code, CrimPC)
 
-of 5 October 2007 (Status as of 1 July 2022)
+of 5 October 2007 (Status as of 1 January 2023)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -706,7 +706,7 @@ If grounds for recusal in terms of Article 56 letter a or f are claimed or if a 
 
 <sup>3</sup> If the ground for recusal comes to light only after conclusion of the proceedings, the provisions on the review of cases apply.
 
-### Chapter 7 Director of Proceedings****
+### Chapter 7 Director of Proceedings
 
 [^tit2-chap7-1]
 
@@ -2177,13 +2177,14 @@ A person may the refuse to testify if he or she would incriminate him or herself
 
 **Right to refuse to testify due to official secrecy**
 
-<sup>1</sup> Public officials as defined in Article 110 paragraph 3 SCC[^170-1] as well as members of authorities may refuse to testify on secret matters communicated to them in their official capacity or which have come to their knowledge in the exercise of their office.
+<sup>1</sup> Public officials as defined in Article 110 paragraph 3 SCC[^170-1] and their auxiliaries as well as members of authorities and their auxiliaries may refuse to testify on secret matters communicated to them in their official capacity or which have come to their knowledge in the exercise of their office or their auxiliary activity.[^170-2]
 
 <sup>2</sup> They must testify if they have been given written authorisation to do so by their superior.
 
 <sup>3</sup> The superior shall grant authorisation to testify if the interest in establishing the truth outweighs the interest in preserving secrecy.
 
 [^170-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^170-2]: Amended by Annex 1 No 8 of the Information Security Act of 18 Dec. 2020, in force since 1 Jan. 2023 ([AS 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232), [750](https://fedlex.data.admin.ch/eli/oc/2022/750); [BBl 2017 2953](https://fedlex.data.admin.ch/eli/fga/2017/647)).
 
 #### Art. 171
 
@@ -3844,7 +3845,7 @@ The bank or bank-type institution is not required to provide information or docu
 
 <sup>4</sup> Persons whose banking transactions have been monitored may file an objection in accordance with Articles 393–397. The period for filing the objection begins on receipt of the notice.
 
-### Section 5**** Undercover Investigations
+### Section 5 Undercover Investigations
 
 [^tit5-chap8-sec5-1]
 
@@ -4066,7 +4067,7 @@ Notice may be deferred or dispensed with, subject to the consent of the compulso
 
 <sup>3</sup> Persons who have been the subject of an undercover investigation may file an objection in accordance with Articles 393–397. The period for filing the objection begins on receipt of notice of the investigation.
 
-### Section 5*a***** Undercover Enquiries
+### Section 5*a* Undercover Enquiries
 
 [^tit5-chap8-sec5a-1]
 
@@ -6207,7 +6208,7 @@ Rejections of summary penalty orders are governed by Article 453 mutatis mutandi
 
 Private prosecutions under the previous cantonal law that are pending before a court of first instance when this Code comes into force shall be continued to the conclusion of first instance proceedings in accordance with the previous law by the court that was competent under the previous law.
 
-### Section 5**** Transitional Provision to the Amendment of 28 September 2012
+### Section 5 Transitional Provision to the Amendment of 28 September 2012
 
 [^tit12-chap3-sec5-1]
 
@@ -6258,7 +6259,7 @@ Annex 2
 
 ## Coordination Provisions
 
-### 1. Coordination of Article 305 paragraph 2 letter b of the Criminal Procedure Code with the new Victim Support Act****
+### 1. Coordination of Article 305 paragraph 2 letter b of the Criminal Procedure Code with the new Victim Support Act
 
 [^annex2-lvlu1-lvl1-1]
 
@@ -6274,7 +6275,7 @@ Irrespective of whether the new Victim Support Act of 23 March 2007[^annex2-lvlu
 
 Irrespective of whether the new VSA comes into force before or after the CPC, on commencement of whichever comes into force later or if both come into force at the same time Number 9 of Annex 1 of the CPC shall cease to have effect and the new VSA shall be amended in accordance with number 10 of Annex 1 of the CPC.
 
-### 3. Coordination of the Military Criminal Procedure Code of 23 March 1979**** (Annex 1 number 12) with the new VSA
+### 3. Coordination of the Military Criminal Procedure Code of 23 March 1979 (Annex 1 number 12) with the new VSA
 
 [^annex2-lvlu1-lvl3-1]
 
@@ -6286,7 +6287,7 @@ Irrespective of whether the new VSA comes into force before or after the CPC, on
 
 ### 4. Coordination of Article 269 paragraph 2 letter a with the Federal Decree of 18 December 2015 on the Adoption and Implementation of the International Convention for the Protection of All Persons from Enforced Disappearance
 
-Irrespective of whether the present amendment to the Criminal Procedure Code or the Amendment of 18 December 2015*[^annex2-lvlu1-lvl4-1]* comes into force first, on commencement of whichever comes into force later or if both come into force at the same time, the following provision shall be worded as follows:
+Irrespective of whether the present amendment to the Criminal Procedure Code or the Amendment of 18 December 2015[^annex2-lvlu1-lvl4-1] comes into force first, on commencement of whichever comes into force later or if both come into force at the same time, the following provision shall be worded as follows:
 
 …
 

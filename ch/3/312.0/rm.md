@@ -4,11 +4,11 @@ title: "Cudesch da procedura penala svizzer dals 5 d'october 2007 (Cudesch da pr
 short: CPP
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/267"
 language: rm
-version: 2022-07-01
+version: 2023-01-01
 adopted: 2007-10-05
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/267/20220701/rm/xml/fedlex-data-admin-ch-eli-cc-2010-267-20220701-rm-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20220701/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/267/20230101/rm/xml/fedlex-data-admin-ch-eli-cc-2010-267-20230101-rm-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20230101/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (Cudesch da procedura penala, CPP)
 
-dals 5 d’october 2007 (versiun dal 1. da fanadur 2022)
+dals 5 d’october 2007 (versiun dals 1 da schaner 2023)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -706,7 +706,7 @@ Sch’i vegn fatg valair in motiv da recusaziun tenor l’artitgel 56 litera a u
 
 <sup>3</sup> Sch’il motiv da recusaziun vegn scuvrì pir suenter la terminaziun da la procedura, valan las disposiziuns davart la revisiun.
 
-### 7. chapitel Direcziun da la procedura****
+### 7. chapitel Direcziun da la procedura
 
 [^tit2-chap7-1]
 
@@ -1228,7 +1228,7 @@ Resalvads restan:
 - c. las prescripziuns da la Lescha federala dals 7 d’october 1994[^96-3] davart ils posts centrals da polizia criminala da la Confederaziun.[^96-4]
 
 [^96-1]: [SR 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
-[^96-2]: SR **36****1**
+[^96-2]: [SR 361](https://fedlex.data.admin.ch/eli/cc/2008/698)
 [^96-3]: [SR 360](https://fedlex.data.admin.ch/eli/cc/1995/875_875_875)
 [^96-4]: Versiun tenor la cifra I 1 lit. a da l’agiunta 2 da la LF dals 13 da zer. 2008 davart ils sistems d’infurmaziun da polizia da la Confederaziun, en vigur dapi il 1. da schan. 2011 ([AS 2008 4989](https://fedlex.data.admin.ch/eli/oc/2008/698); [BBl 2006 5061](https://fedlex.data.admin.ch/eli/fga/2006/611)).
 
@@ -2177,13 +2177,14 @@ Ina persuna po refusar da dar perditga, sch’ella engrevgiass sasezza uschè fe
 
 **Dretg da refusar da dar perditga sin basa d’in secret d’uffizi**
 
-<sup>1</sup> Funcziunaris en il senn da l’artitgel 110 alinea 3 CP[^170-1] sco er commembers d’autoritads pon refusar da dar perditga davart secrets ch’als èn vegnids confidads en lur qualitad uffiziala u ch’els han percepì exequind lur uffizi.
+<sup>1</sup> Funcziunaris en il senn da l’artitgel 110 alinea 3 CP[^170-1] e lur persunas auxiliaras sco er commembers d’autoritads e lur persunas auxiliaras pon refusar da dar perditga davart secrets ch’als èn vegnids confidads en lur qualitad uffiziala u ch’els han percepì exequind lur uffizi u lur activitad auxiliara.[^170-2]
 
 <sup>2</sup> Els ston far ina deposiziun, sch’els èn vegnids autorisads en scrit da lur autoritad superiura da far la deposiziun.
 
 <sup>3</sup> L’autoritad superiura conceda l’autorisaziun da far la deposiziun, sche l’interess da chattar la vardad predominescha l’interess da mantegnair il secret.
 
 [^170-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^170-2]: Versiun tenor la cifra 8 da l’agiunta 1 da la Lescha dals 18 da dec. 2020 davart la segirezza da las infurmaziuns, en vigur dapi il 1. da schan. 2023 ([AS 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232), [750](https://fedlex.data.admin.ch/eli/oc/2022/750); [BBl 2017 2953](https://fedlex.data.admin.ch/eli/fga/2017/647)).
 
 #### Art. 171
 
@@ -3844,7 +3845,7 @@ La banca u l’institut sumegliant na sto furnir naginas infurmaziuns u nagins d
 
 <sup>4</sup> Persunas, da las qualas il traffic cun la banca è vegnì surveglià, pon far recurs tenor ils artitgels 393–397. Il termin da recurs cumenza a currer il mument che la communicaziun è vegnida retschavida.
 
-### 5. secziun**** Investigaziun secreta
+### 5. secziun Investigaziun secreta
 
 [^tit5-chap8-sec5-1]
 
@@ -4064,7 +4065,7 @@ Cun il consentiment da la dretgira da mesiras repressivas po questa communicaziu
 
 <sup>3</sup> Persunas, cunter las qualas igl è vegnida fatga ina investigaziun secreta, pon far recurs tenor ils artitgels 393–397. Il termin da recurs cumenza a currer il mument che la communicaziun è vegnida retschavida.
 
-### 5*a*. secziun**** Retschertga secreta
+### 5*a*. secziun Retschertga secreta
 
 [^tit5-chap8-sec5a-1]
 
@@ -6205,7 +6206,7 @@ Per protestas cunter mandats penals vala l’artitgel 453 confurm al senn.
 
 Proceduras da plant penal privatas tenor il dretg chantunal vertent, ch’èn pendentas tar ina dretgira d’emprima instanza il mument da l’entrada en vigur da questa lescha, vegnan cuntinuadas tenor il dretg vertent tras la dretgira ch’è stada cumpetenta fin ussa, fin che la procedura d’emprima instanza è terminada.
 
-### 5. secziun**** Disposiziun transitorica da la midada dals 28 da settember 2012
+### 5. secziun Disposiziun transitorica da la midada dals 28 da settember 2012
 
 [^tit12-chap3-sec5-1]
 
@@ -6256,13 +6257,13 @@ Agiunta 2
 
 ## Disposiziuns da coordinaziun
 
-### 1. Coordinaziun da l’artitgel 305 alinea 2 litera b dal Cudesch da procedura penala svizzer cun la nova Lescha federala davart l’agid a victimas da delicts****
+### 1. Coordinaziun da l’artitgel 305 alinea 2 litera b dal Cudesch da procedura penala svizzer cun la nova Lescha federala davart l’agid a victimas da delicts
 
 [^annex2-lvlu1-lvl1-1]
 
 [^annex2-lvlu1-lvl1-1]: La nova LAVi è entrada en vigur il 1. da schan. 2009.
 
-Independentamain dal fatg, sche la nova Lescha federala dals 23 da mars 2007*[^annex2-lvlu1-lvl1-2]* davart l’agid a victimas da delicts (nova LAVi) u sch’il Cudesch da procedura penala svizzer dals 5 d’october 2007 (CPP) entra en vigur sco emprim, vegn midà l’artitgel 305 alinea 2 litera b CPP – tras la lescha che entra en vigur pli tard u en cas che las duas leschas entran en vigur a medem temp – sco suonda:
+Independentamain dal fatg, sche la nova Lescha federala dals 23 da mars 2007[^annex2-lvlu1-lvl1-2] davart l’agid a victimas da delicts (nova LAVi) u sch’il Cudesch da procedura penala svizzer dals 5 d’october 2007 (CPP) entra en vigur sco emprim, vegn midà l’artitgel 305 alinea 2 litera b CPP – tras la lescha che entra en vigur pli tard u en cas che las duas leschas entran en vigur a medem temp – sco suonda:
 
 …
 
@@ -6272,7 +6273,7 @@ Independentamain dal fatg, sche la nova Lescha federala dals 23 da mars 2007*[^a
 
 Independentamain dal fatg, sche la nova LAVi u sch’il CPP entra en vigur sco emprim, daventa obsoleta la cifra 9 da l’agiunta 1 dal CPP – tras la lescha che entra en vigur pli tard u en cas che las duas leschas entran en vigur a medem temp – e la nova LAVi vegn midada tenor la cifra 10 da l’agiunta 1 dal CPP.
 
-### 3. Coordinaziun da la Procedura penala militara dals 23 da mars 1979**** (agiunta 1 cifra 12) cun la nova LAVi
+### 3. Coordinaziun da la Procedura penala militara dals 23 da mars 1979 (agiunta 1 cifra 12) cun la nova LAVi
 
 [^annex2-lvlu1-lvl3-1]
 
@@ -6284,7 +6285,7 @@ Independentamain dal fatg, sche la nova LAVi u sch’il CPP entra en vigur sco e
 
 ### 4. Coordinaziun da l’art. 269 al. 2 lit. a cun il COF dals 18 da december 2015 davart l’approvaziun e la realisaziun da la Convenziun internaziunala per la protecziun da tut las persunas cunter spariziuns sfurzadas
 
-Independentamain dal fatg, sche la midada qua avant maun dal Cudesch da procedura penala u sche la midada dals 18 da december 2015*[^annex2-lvlu1-lvl4-1]* entra en vigur sco emprim, sa cloma – cun l’entrada en vigur da la lescha ch’entra en vigur pli tard sco er en cas ch’ellas entran en vigur il medem mument – la suandanta disposiziun sco suonda:
+Independentamain dal fatg, sche la midada qua avant maun dal Cudesch da procedura penala u sche la midada dals 18 da december 2015[^annex2-lvlu1-lvl4-1] entra en vigur sco emprim, sa cloma – cun l’entrada en vigur da la lescha ch’entra en vigur pli tard sco er en cas ch’ellas entran en vigur il medem mument – la suandanta disposiziun sco suonda:
 
 …
 

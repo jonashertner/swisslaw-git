@@ -4,11 +4,11 @@ title: "Codice di diritto processuale penale svizzero del 5 ottobre 2007 (Codice
 short: CPP
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/267"
 language: it
-version: 2022-07-01
+version: 2023-01-01
 adopted: 2007-10-05
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/267/20220701/it/xml/fedlex-data-admin-ch-eli-cc-2010-267-20220701-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20220701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/267/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2010-267-20230101-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20220701/it"
 
 (Codice di procedura penale, CPP)
 
-del 5 ottobre 2007 (Stato 1° luglio 2022)
+del 5 ottobre 2007 (Stato 1° gennaio 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -2172,13 +2172,14 @@ Chiunque può rifiutare la testimonianza se la sua deposizione originasse elemen
 
 **Per segreto d’ufficio**
 
-<sup>1</sup> I funzionari ai sensi dell’articolo 110 capoverso 3 CP[^170-1] come pure i membri di autorità hanno facoltà di non deporre in merito a segreti loro confidati in virtù della loro veste ufficiale o di cui sono venuti a conoscenza nell’esercizio delle loro funzioni.
+<sup>1</sup> I funzionari ai sensi dell’articolo 110 capoverso 3 CP[^170-1] e i loro ausiliari come pure i membri di autorità e i loro ausiliari hanno facoltà di non deporre in merito a segreti loro confidati in virtù della loro veste ufficiale o di cui sono venuti a conoscenza nell’esercizio delle loro funzioni o della loro attività ausiliaria.[^170-2]
 
 <sup>2</sup> Essi sono tenuti a deporre se ne sono stati autorizzati per scritto dalla loro autorità superiore.
 
 <sup>3</sup> L’autorità superiore rilascia l’autorizzazione a deporre quando l’interesse all’accertamento della verità prevale su quello al mantenimento del segreto.
 
 [^170-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^170-2]: Nuovo testo giusta l’all. 1 n. 8 della L del 18 dic. 2020 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2023 ([RU 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232), [750](https://fedlex.data.admin.ch/eli/oc/2022/750); [FF 2017 2563](https://fedlex.data.admin.ch/eli/fga/2017/647)).
 
 #### Art. 171
 
@@ -3842,7 +3843,7 @@ La banca e l’istituto analogo non sono tenuti a fornire informazioni o documen
 
 <sup>4</sup> Le persone il cui traffico bancario è stato sorvegliato possono interporre reclamo conformemente agli articoli 393–397. Il termine di reclamo decorre dalla ricezione della comunicazione.
 
-### Sezione 5:**** Inchiesta mascherata
+### Sezione 5: Inchiesta mascherata
 
 [^tit5-chap8-sec5-1]
 
@@ -4062,7 +4063,7 @@ Con il consenso del giudice dei provvedimenti coercitivi tale comunicazione può
 
 <sup>3</sup> Le persone nei confronti delle quali è stata svolta un’inchiesta mascherata possono interporre reclamo conformemente agli articoli 393–397. Il termine di reclamo decorre dalla ricezione della comunicazione.
 
-### Sezione 5*a*:**** Indagine in incognito
+### Sezione 5*a*: Indagine in incognito
 
 [^tit5-chap8-sec5a-1]
 
@@ -6203,7 +6204,7 @@ All’opposizione contro i decreti d’accusa si applica per analogia l’artico
 
 Sino alla chiusura del procedimento di primo grado, i procedimenti su azione penale privata secondo il diritto cantonale anteriore pendenti dinanzi a un giudice di primo grado al momento dell’entrata in vigore del presente Codice sono continuati secondo il diritto anteriore dal medesimo giudice.
 
-### Sezione 5:**** Disposizione transitoria della modifica del 28 settembre 2012
+### Sezione 5: Disposizione transitoria della modifica del 28 settembre 2012
 
 [^tit12-chap3-sec5-1]
 
@@ -6254,13 +6255,13 @@ Allegato 2
 
 ## Disposizioni di coordinamento con altri nuovi atti normativi
 
-### 1. Coordinamento dell’art. 305 cpv. 2 lett. b del Codice di procedura penale con la nuova legge concernente l’aiuto alle vittime di reati****
+### 1. Coordinamento dell’art. 305 cpv. 2 lett. b del Codice di procedura penale con la nuova legge concernente l’aiuto alle vittime di reati
 
 [^annex2-lvlu1-lvl1-1]
 
 [^annex2-lvlu1-lvl1-1]: La nuova LAV è entrata in vigore il 1° gen. 2009.
 
-*Indipendentemente dal fatto che entri prima in vigore la legge federale del 23 marzo 2007*[^annex2-lvlu1-lvl1-2] *concernente l’aiuto alle vittime di reati (nuova LAV) o il Codice di proced**u**ra penale del 5 ottobre 2007* *(CPP), alla seconda di queste entrate in vigore o in caso di entr**a**ta in vigore simultanea delle due leggi, l’ar**ticolo 305 capoverso 2 lettera b del prese**n**te Codice avrà il seguente tenore:*
+*Indipendentemente dal fatto che entri prima in vigore la legge federale del 23 marzo 2007*[^annex2-lvlu1-lvl1-2] *concernente l’aiuto alle vittime di reati (nuova LAV) o il Codice di procedura penale del 5 ottobre 2007* *(CPP), alla seconda di queste entrate in vigore o in caso di entrata in vigore simultanea delle due leggi, l’ar**ticolo 305 capoverso 2 lettera b del presente Codice avrà il seguente tenore:*
 
 …
 
@@ -6268,11 +6269,11 @@ Allegato 2
 
 ### 2. Coordinamento del n. 9 dell’allegato 1 CPP con la nuova LAV
 
-*Indipendentemente dal fatto che entri prima in vigore la nuova LAV o il CPP, alla seconda di queste entrate in vigore o in caso di entrata in vigore simu**l**tanea delle due leggi, il numero 9 dell’allegato 1 CPP diverrà privo d’oggetto e la nuova LAV risu**l**terà modificata conformemente al numero 10 dell’allegato 1 CPP*.
+*Indipendentemente dal fatto che entri prima in vigore la nuova LAV o il CPP, alla seconda di queste entrate in vigore o in caso di entrata in vigore simultanea delle due leggi, il numero 9 dell’allegato 1 CPP diverrà privo d’oggetto e la nuova LAV risulterà modificata conformemente al numero 10 dell’allegato 1 CPP*.
 
 ### 3. Coordinamento della procedura penale militare (allegato 1 n. 12 CPP) con la nuova LAV
 
-*Indipendentemente dal fatto che entri prima in vigore la nuova LAV o il CPP, alla seconda di queste entrate in vigore o in caso di entrata in vigore simu**l**tanea delle due leggi, gli ar**ticoli 84a, 104 capoverso 3 e 118 capoverso 2 della procedura penale militare del 23 marzo 1979*[^annex2-lvlu1-lvl3-1] *nel tenore del numero 12 dell’allegato 1 CPP risulteranno modificate come segue:*
+*Indipendentemente dal fatto che entri prima in vigore la nuova LAV o il CPP, alla seconda di queste entrate in vigore o in caso di entrata in vigore simultanea delle due leggi, gli ar**ticoli 84a, 104 capoverso 3 e 118 capoverso 2 della procedura penale militare del 23 marzo 1979*[^annex2-lvlu1-lvl3-1] *nel tenore del numero 12 dell’allegato 1 CPP risulteranno modificate come segue:*
 
 …
 

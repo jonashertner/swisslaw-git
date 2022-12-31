@@ -4,11 +4,11 @@ title: "Code de procédure pénale suisse du 5 octobre 2007 (Code de procédure 
 short: CPP
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/267"
 language: fr
-version: 2022-07-01
+version: 2023-01-01
 adopted: 2007-10-05
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/267/20220701/fr/xml/fedlex-data-admin-ch-eli-cc-2010-267-20220701-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20220701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/267/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2010-267-20230101-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20220701/fr"
 
 (Code de procédure pénale, CPP)
 
-du 5 octobre 2007 (Etat le 1<sup>er</sup> juillet 2022)
+du 5 octobre 2007 (État le 1<sup>er</sup> janvier 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -2172,13 +2172,14 @@ Toute personne peut refuser de témoigner si ses déclarations sont susceptibles
 
 **Droit de refuser de témoigner fondé sur le secret de fonction**
 
-<sup>1</sup> Les fonctionnaires au sens de l’art. 110, al. 3, CP[^170-1] et les membres des autorités peuvent refuser de témoigner sur les secrets qui leur ont été confiés en leur qualité officielle ou dont ils ont eu connaissance dans l’exercice de leur fonction ou de leur charge.
+<sup>1</sup> Les fonctionnaires au sens de l’art. 110, al. 3, CP[^170-1] ainsi que leurs auxiliaires et les membres des autorités ainsi que leurs auxiliaires peuvent refuser de témoigner sur les secrets qui leur ont été confiés en leur qualité officielle ou dont ils ont eu connaissance dans l’exercice de leur fonction, de leur charge ou de leur activité auxiliaire.[^170-2]
 
 <sup>2</sup> Ils doivent témoigner si l’autorité à laquelle ils sont soumis les y a habilités par écrit.
 
 <sup>3</sup> L’autorité ordonne à la personne concernée de témoigner si l’intérêt à la manifestation de la vérité l’emporte sur l’intérêt au maintien du secret.
 
 [^170-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^170-2]: Nouvelle teneur selon l’annexe 1 ch. 8 de la L du 18 déc. 2020 sur la sécurité de l’information, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232), [750](https://fedlex.data.admin.ch/eli/oc/2022/750); [FF 2017 2765](https://fedlex.data.admin.ch/eli/fga/2017/647)).
 
 #### Art. 171
 
@@ -3839,7 +3840,7 @@ La banque ou l’établissement similaire ne sont pas tenus de fournir des infor
 
 <sup>4</sup> Les personnes dont les relations bancaires ont fait l’objet d’une surveillance peuvent interjeter recours conformément aux art. 393 à 397. Le délai de recours commence à courir dès la réception de l’information.
 
-### Section 5**** Investigation secrète
+### Section 5 Investigation secrète
 
 [^tit5-chap8-sec5-1]
 
@@ -4059,7 +4060,7 @@ Avec l’accord du tribunal des mesures de contrainte, il est possible de diffé
 
 <sup>3</sup> Les personnes qui ont fait l’objet d’une investigation secrète peuvent interjeter recours conformément aux art. 393 à 397. Le délai de recours commence à courir dès la réception de la communication.
 
-### Section 5*a***** Recherches secrètes
+### Section 5*a* Recherches secrètes
 
 [^tit5-chap8-sec5a-1]
 
@@ -4821,7 +4822,7 @@ Le ministère public rend une ordonnance pénale si, durant la procédure préli
 
 - a. une amende;
 - b. une peine pécuniaire de 180 jours-amende au plus;
-- c.[^352-1] ...
+- c.[^352-1] …
 - d. une peine privative de liberté de six mois au plus.
 
 <sup>2</sup> Chacune de ces peines peut être ordonnée conjointement à une mesure au sens des art. 66 et 67*e* à 73 CP[^352-2].[^352-3]
@@ -5813,7 +5814,7 @@ On entend notamment par débours:
 
 <sup>1</sup> Les frais de procédure sont mis à la charge de la Confédération ou du canton qui a conduit la procédure; les dispositions contraires du présent code sont réservées.
 
-<sup>2</sup> et <sup>3</sup> ... [^423-1]
+<sup>2</sup> et <sup>3</sup> …[^423-1]
 
 [^423-1]: Abrogés par l’annexe ch. II 7 de la LF du 19 mars 2010 sur l’organisation des autorités pénales, avec effet au 1<sup>er</sup> janv. 2011 ([RO 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7371](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
 
@@ -6199,7 +6200,7 @@ L’art. 453 est applicable par analogie aux oppositions contre les ordonnancesp
 
 Lorsque des procédures introduites par la partie plaignante selon l’ancien droit cantonal étaient pendantes devant un tribunal de première instance avant l’entrée en vigueur du présent code, elles se poursuivent jusqu’à la clôture de la procédure de première instance selon l’ancien droit, devant le tribunal compétent jusqu’alors.
 
-### Section 5**** Disposition transitoire de la modification du 28 septembre 2012
+### Section 5 Disposition transitoire de la modification du 28 septembre 2012
 
 [^tit12-chap3-sec5-1]
 
@@ -6238,7 +6239,7 @@ II
 
 Les lois fédérales mentionnées ci-après sont modifiées comme suit:
 
-...[^annex1-lvlu1-3]
+…[^annex1-lvlu1-3]
 
 [^annex1-lvlu1-1]: [RS **3** 295; [RO 1971 777](https://fedlex.data.admin.ch/eli/oc/1971/777_777_777)ch. III 4, [1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857)annexe ch. 2, [1978 688](https://fedlex.data.admin.ch/eli/oc/1978/688_688_688)art. 88 ch. 4, [1979 1170](https://fedlex.data.admin.ch/eli/oc/1979/1170_1170_1170), [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)annexe ch. 15 [2465](https://fedlex.data.admin.ch/eli/oc/1992/2465_2465_2465)annexe ch. 2, [1993 1993](https://fedlex.data.admin.ch/eli/oc/1993/1993_1993_1993), [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)app. ch. 7, [2000 505](https://fedlex.data.admin.ch/eli/oc/2000/95)ch. I 3 [2719](https://fedlex.data.admin.ch/eli/oc/2000/453)ch. II 3 [2725](https://fedlex.data.admin.ch/eli/oc/2000/454)ch. II, [2001 118](https://fedlex.data.admin.ch/eli/oc/2001/22)ch. I 3 [3071](https://fedlex.data.admin.ch/eli/oc/2001/459)ch. II 1 [3096](https://fedlex.data.admin.ch/eli/oc/2001/467)annexe ch. 2 [3308](https://fedlex.data.admin.ch/eli/oc/2001/492), [2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)annexe ch. 9, [2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200)ch. I 4, [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)annexe ch. 19, [2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218)anexe ch. 10, [2007 6087](https://fedlex.data.admin.ch/eli/oc/2007/811), [2008 1607](https://fedlex.data.admin.ch/eli/oc/2008/232)annexe ch. 1 [4989](https://fedlex.data.admin.ch/eli/oc/2008/698)annexe 1 ch. 6 [5463](https://fedlex.data.admin.ch/eli/oc/2008/759)annexe ch. 3, [2009 6605](https://fedlex.data.admin.ch/eli/oc/2009/821)annexe ch. II 3]
 [^annex1-lvlu1-2]: [[RO 2004 1409](https://fedlex.data.admin.ch/eli/oc/2004/177), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 29 [5437](https://fedlex.data.admin.ch/eli/oc/2006/823)art. 2 ch. 2, [2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758)annexe ch. II 6]
@@ -6252,9 +6253,9 @@ Annexe 2
 
 ### 1. C Coordination de l’art. 305, al. 2, let. b, CPP avec la nouvelle LAVI
 
-Quel que soit l’ordre dans lequel le code de procédure pénale du 5 octobre 2007 (CPP) et la loi du 23 mars 2007 sur l’aide aux victimes (nouvelle LAVI)*[^annex2-lvlu1-lvl1-1]* entrent en vigueur*[^annex2-lvlu1-lvl1-2]*, à l’entrée en vigueur de la seconde de ces lois, ou à leur entrée en vigueur simultanée, l’art. 305, al. 2, let. b, CPP est modifié comme suit:
+Quel que soit l’ordre dans lequel le code de procédure pénale du 5 octobre 2007 (CPP) et la loi du 23 mars 2007 sur l’aide aux victimes (nouvelle LAVI)[^annex2-lvlu1-lvl1-1] entrent en vigueur[^annex2-lvlu1-lvl1-2], à l’entrée en vigueur de la seconde de ces lois, ou à leur entrée en vigueur simultanée, l’art. 305, al. 2, let. b, CPP est modifié comme suit:
 
-...
+…
 
 [^annex2-lvlu1-lvl1-1]: [RS 312.5](https://fedlex.data.admin.ch/eli/cc/2008/232)
 [^annex2-lvlu1-lvl1-2]: La nouvelle LAVI est entrée en vigueur le 1<sup>er</sup> janv. 2009.
@@ -6263,7 +6264,7 @@ Quel que soit l’ordre dans lequel le code de procédure pénale du 5 octobre 2
 
 Quel que soit l’ordre dans lequel le CPP et la nouvelle LAVI entrent en vigueur, à l’entrée en vigueur de la seconde de ces lois, ou à leur entrée en vigueur simultanée, le ch. 9 de l’annexe 1 du CPP devient caduc et la nouvelle LAVI est modifiée conformément au ch. 10 de l’annexe 1 du CPP.
 
-### 3. C Coordination de la procédure pénale militaire du 23 mars 1979**** (annexe 1, ch. 12, CPP) avec la nouvelle LAVI
+### 3. C Coordination de la procédure pénale militaire du 23 mars 1979 (annexe 1, ch. 12, CPP) avec la nouvelle LAVI
 
 [^annex2-lvlu1-lvl3-1]
 
@@ -6271,6 +6272,6 @@ Quel que soit l’ordre dans lequel le CPP et la nouvelle LAVI entrent en vigueu
 
 Quel que soit l’ordre dans lequel le CPP et la nouvelle LAVI entrent en vigueur, à l’entrée en vigueur de la seconde de ces lois, ou à leur entrée en vigueur simultanée, les art. 84a, 104, al. 3, et 118, al. 2 du ch. 12 de l’annexe 1 du CPP ont la teneur suivante:
 
-...
+…
 
 ## Table des matières

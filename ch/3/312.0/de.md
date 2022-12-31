@@ -4,11 +4,11 @@ title: "Schweizerische Strafprozessordnung vom 5. Oktober 2007 (Strafprozessordn
 short: StPO
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/267"
 language: de
-version: 2022-07-01
+version: 2023-01-01
 adopted: 2007-10-05
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/267/20220701/de/xml/fedlex-data-admin-ch-eli-cc-2010-267-20220701-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20220701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/267/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2010-267-20230101-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20220701/de"
 
 (Strafprozessordnung, StPO)
 
-vom 5. Oktober 2007 (Stand am 1. Juli 2022)
+vom 5. Oktober 2007 (Stand am 1. Januar 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -2175,13 +2175,14 @@ Eine Person kann das Zeugnis verweigern, wenn sie sich mit ihrer Aussage selbst 
 
 **Zeugnisverweigerungsrecht aufgrund eines Amtsgeheimnisses**
 
-<sup>1</sup> Beamtinnen und Beamte im Sinne von Artikel 110 Absatz 3 StGB[^170-1] sowie Mitglieder von Behörden können das Zeugnis über Geheimnisse verweigern, die ihnen in ihrer amtlichen Eigenschaft anvertraut worden sind oder die sie bei der Ausübung ihres Amtes wahrgenommen haben.
+<sup>1</sup> Beamtinnen und Beamte im Sinne von Artikel 110 Absatz 3 StGB[^170-1] und ihre Hilfspersonen sowie Mitglieder von Behörden und ihre Hilfspersonen können das Zeugnis über Geheimnisse verweigern, die ihnen in ihrer amtlichen Eigenschaft anvertraut worden sind oder die sie bei der Ausübung ihres Amtes oder ihrer Hilfstätigkeit wahrgenommen haben.[^170-2]
 
 <sup>2</sup> Sie haben auszusagen, wenn sie von ihrer vorgesetzten Behörde zur Aussage schriftlich ermächtigt worden sind.
 
 <sup>3</sup> Die vorgesetzte Behörde erteilt die Ermächtigung zur Aussage, wenn das Interesse an der Wahrheitsfindung das Geheimhaltungsinteresse überwiegt.
 
 [^170-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^170-2]: Fassung gemäss Anhang 1 Ziff. 8 des Informationssicherheitsgesetzes vom 18. Dez. 2020, in Kraft seit 1. Jan. 2023 ([AS 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232), [750](https://fedlex.data.admin.ch/eli/oc/2022/750); [BBl 2017 2953](https://fedlex.data.admin.ch/eli/fga/2017/647)).
 
 #### Art. 171
 
