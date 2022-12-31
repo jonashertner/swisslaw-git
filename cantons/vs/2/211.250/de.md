@@ -4,573 +4,471 @@ number: "211.250"
 title: Verordnung über den Kindes- und Erwachsenenschutz
 short: VKES
 language: de
-version: 2016-01-01
-corrected: 2017-07-19
-version_adopted: 2016-04-13
+version: 2023-01-01
+valid_until: 2023-06-30
+version_adopted: 2022-09-28
 adopted: 2022-09-28
 in_force: 2023-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/211.250"
-pdf: "https://lex.vs.ch/api/de/versions/614/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/de/versions/3073/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung über den Kindes- und Erwachsenenschutz (VKES)
+# Verordnung über den Kindes- und Erwachsenenschutz
 
-vom 22. August 2012
+(VKES)
+
+vom 28.09.2022 (Stand 01.01.2023)
 
 Der Staatsrat des Kantons Wallis
 
-eingesehen den Artikel 57 Absatz 2 der Kantonsverfassung;
+eingesehen Artikel 57 Absatz 2 der Kantonsverfassung;
 
-eingesehen das 2. Kapitel des 1. Titels des Einführungsgesetzes zum Schweizerischen Zivilgesetzbuch vom 24. März 1998 (Änderung vom 11. Februar 2009) und insbesondere die Artikel 16, 34 Absätze 1 und 2, 36 Absatz 3, 37 Absatz 1;
+eingesehen Kapitel 1.2 des Einführungsgesetzes zum Schweizerischen Zivilgesetzbuch vom 24. März 1998 (EGZGB), insbesondere die Artikel 16 Absatz 1, 19f Absatz 2, 31, 34 Absatz 1, 36 Absatz 3, 37 Absatz 1;
 
-auf Antrag des Departementes für Sicherheit, Sozialwesen und Integration,
+auf Antrag des für die Sicherheit zuständigen Departements,
 
-verordnet:[^t-1]
+verordnet:
 
-[^t-1]: Jede in der vorliegenden Verordnung benutzte Bezeichnung einer Person, eines Statuts, einer Funktion oder eines Berufes wird für Frau und Mann im gleichen Sinne verwendet
-
-### 1. Kapitel: Allgemeine Bestimmungen
+## 1 Allgemeine Bestimmungen
 
 #### Art. 1
 
 **Zweck**
 
-Die vorliegende Verordnung regelt:
+<sup>1</sup> Die vorliegende Verordnung regelt:
 
-- a) die administrative Aufsicht über die Kindes- und Erwachsenenschutzbehörden (KESB; Art. 13, 14 und 111 EGZGB);[^1-1]
-
-- b) die administrative und betriebliche Organisation der KESB;
-
-- c) die Geschäftsführung der KESB;
-
-- d) die Führung der Inventare, der Rechnungen und Berichterstattungen, ihre Prüfung und Genehmigung;
-
-- e) die anderen für den Vollzug der Entscheide der KESB erforderlichen Zusatzbestimmungen.
-
-[^1-1]: Änderung vom 13. April 2016
+- a) die administrative und organisatorische Aufsicht über die Kindes- und Erwachsenenschutzbehörden (KESB) und ihre administrative Angliederung;
+- b) die administrative Organisation der KESB;
+- c) die Ausbildung der privaten Beistände und Vormunde sowie ihre Ernennung;
+- d) die Geschäftsführung;
+- e) die Führung der Inventare, der Rechnungen und Berichte, ihre Prüfung und ihre Genehmigung;
+- f) die anderen für den Vollzug der Entscheide der KESB erforderlichen Zusatzbestimmungen.
 
 #### Art. 2
 
 **Anwendungsbereich**
 
-Die Bestimmungen der vorliegenden Verordnung betreffend den Beistand sind unter Vorbehalt gegenteiliger Bestimmungen ebenfalls auf den Vormund des Kindes anwendbar.
+<sup>1</sup> Die Bestimmungen der vorliegenden Verordnung betreffend den Beistand sind unter Vorbehalt gegenteiliger Bestimmungen ebenfalls auf den Vormund des Kindes anwendbar.
+
+## 2 Administrative und organisatorische Aufsicht sowie administrative Angliederung der KESB
 
 #### Art. 3
 
-**Rechtsgleiche Behandlung**
+**Angliederung und Zuständigkeit**
 
-<sup>1</sup> Die vorliegende Verordnung muss unparteiisch angewendet werden.
+<sup>1</sup> Die KESB sind administrativ dem für die Sicherheit zuständigen Departement (nachfolgend: das Departement) angegliedert, über den Rechtsdienst für Sicherheit und Justiz (nachfolgend: die Dienststelle).
 
-<sup>2</sup> Es darf keine unterschiedliche Behandlung erfolgen, welche sich namentlich auf die Rasse, das Geschlecht, die Sprache, die Religion, die politische Ansicht oder jede andere Ansicht, die nationale oder soziale Herkunft, die Geburt oder die wirtschaftliche Situation stützt.
+<sup>2</sup> Das Departement betraut die Dienststelle mit der administrativen und organisatorischen Aufsicht über die KESB.
+
+<sup>3</sup> Die Dienststelle erfüllt die Funktion der zentralen kantonalen Behörde für den internationalen Schutz von Erwachsenen gemäss dem Haager Übereinkommen vom 13. Januar 2000.
 
 #### Art. 4
 
-**Gesetzeslücken**
+**Umfang der administrativen Aufsicht**
 
-<sup>1</sup> Beim Fehlen einer anwendbaren gesetzlichen Bestimmung handelt die Behörde nach jenen Regeln, die sie anstelle des Gesetzgebers erlassen würde.
+<sup>1</sup> Die administrative Aufsicht durch die Dienststelle beinhaltet:
 
-<sup>2</sup> Sie berücksichtigt die von der Rechtsprechung eingeführten Lösungen sowie die Grundsätze, welche die vorliegende Verordnung, die Bundes- und Kantonsgesetzgebung festlegen.
+- a) auf dem Gebiet der Information:
+  - 1\. Informationen und Empfehlungen vermitteln,
+  - 2 Rechtsprechung, Lehrmeinungen oder andere Dokumente zur Verfügung stellen,
+  - 3\. allgemeine Anweisungen zu bestimmten Themen veröffentlichen;
+- b) auf dem Gebiet der Unterstützung: auf Anfrage allgemeine Informationen erteilen, aber keine Beratung in Einzelfällen;
+- c) auf dem Gebiet der Kontrolle:
+  - 1\. die Koordinierung und einheitliche Anwendung des materiellen und formellen Erwachsenen- und Kindesschutzrechts gewährleisten,
+  - 2\. prüfen, ob allenfalls ein mangelndes Verständnis des materiellen oder formellen Rechts festgestellt werden kann und diesem mittels Empfehlungen, Rundschreiben und Leitlinien entgegenwirken,
+  - 3\. Klagen bearbeiten, die bei ihr eingereicht werden;
+- d) auf dem Gebiet der Geschäftsführung:
+  - 1\. sicherstellen, dass die Aufgaben, die den KESB obliegen, in Übereinstimmung mit dem Gesetz, auf effiziente und kostengünstige Weise ausgeführt werden,
+  - 2\. dafür sorgen, dass diese Arbeit mit Gewissenhaftigkeit, Sorgfalt und Genauigkeit erledigt wird;
+- e) auf dem Gebiet der primären Haftung des Kantons: die an sie gerichteten Fälle und gegebenenfalls die sich daraus ergebenden Regressansprüche behandeln.
 
-<sup>3</sup> Die Handlungen der Behörden müssen im öffentlichen Interesse liegen und den Grundsatz der Verhältnismässigkeit berücksichtigen.
-
-[^4-1]: Änderung vom 13. April 2016
-
-### 2. Kapitel: Administrative Aufsicht über die KESB
-
-[^4-1]
+<sup>2</sup> Die Kontrolle über die Anwendung des materiellen und formellen Rechts in einem konkreten Fall fällt nicht unter die administrative Aufsicht. Sie beinhaltet kein Weisungsrecht zur Untersuchung oder zur Änderung der getroffenen Massnahmen in einem besonderen Fall.
 
 #### Art. 5
 
-**Zuständigkeiten**
+**Mittel zur Intervention und Kontrolle**
 
-<sup>1</sup> Die administrative Aufsicht über die KESB fällt in die Zuständigkeit des Staatsrates, welcher diese dem mit der Sicherheit beauftragten Departement anvertraut (nachfolgend: Departement).[^5-1]
+<sup>1</sup> Die Dienststelle handelt von Amtes wegen oder auf Antrag hin. Im Zusammenhang mit einer Beschwerde kommt dem Beschwerdeführer keine Parteistellung zu.
 
-<sup>2</sup> Das Departement übt die administrative Aufsicht durch die Inspektoren aus.
+<sup>2</sup> Die Dienststelle prüft die in Kraft getretenen und nicht anonymisierten Entscheide des Kantonsgerichts in Kindes- und Erwachsenenschutzfragen, die ihr zugestellt werden.
 
-<sup>3</sup> Der Staatsrat ernennt für jeden Kreis einen Inspektor. Der erste Kreis besteht aus den Bezirken des Oberwallis, der zweite Kreis aus den Bezirken des Mittelwallis und der dritte Kreis aus den Bezirken des Unterwallis.
-
-<sup>4</sup> Der Inspektor darf kein Amt als Beistand oder Vormund ausüben und nicht Mitglied einer KESB sein.
-
-[^5-1]: Änderung vom 13. April 2016
+<sup>3</sup> Sie analysiert regelmässig die Statistiken über die durch die KESB behandelten Fälle.
 
 #### Art. 6
 
-**Inspektion der KESB**
+**Umfang der organisatorischen Aufsicht**
 
-<sup>1</sup> Die administrative Aufsicht der KESB besteht in der Kontrolle ihrer Organisation (Art. 12 ff.) und der genauen Prüfung der Verzeichnisse, der Akten, der Rechnungen und der Archive.
+<sup>1</sup> Die organisatorische Aufsicht der KESB besteht in der Kontrolle ihrer Organisation und der Prüfung ihrer Verzeichnisse, Akten, Rechnungen und Archive.
 
-<sup>2</sup> Die Kontrolle über die Anwendung des materiellen Rechts in einem konkreten Fall fällt nicht unter die administrative Aufsicht. Sie beinhaltet kein Weisungsrecht zur Untersuchung oder zur Änderung der getroffenen Massnahmen in einem besonderen Fall.
+<sup>2</sup> Grundsätzlich findet die Inspektion einmal im Jahr statt.
 
-<sup>3</sup> Grundsätzlich findet die Inspektion einmal im Jahr statt; der Inspektor kann jedoch von Fall zu Fall über eine zweijährige Inspektion entscheiden. Von Amtes wegen oder auf Gesuch des Departementes hin kann der Inspektor zusätzliche Kontrollen vornehmen.
+<sup>3</sup> Von Amtes wegen oder auf Gesuch des Departementes hin kann die Dienststelle zusätzliche Kontrollen vornehmen und allenfalls die notwendigen Abhilfemassnahmen anordnen.
 
-<sup>4</sup> Der Präsident des KESB ist verpflichtet, der Inspektion beizuwohnen.
+<sup>4</sup> Der Alterspräsident oder der Präsident der KESB ist verpflichtet, der Inspektion beizuwohnen.
 
-<sup>5</sup> Der Inspektor erstellt in eigener Verantwortung einen detaillierten Bericht über die Tätigkeit der KESB. Eine der Kopien des detaillierten Berichtes wird in den Archiven der inspizierten Behörden hinterlegt.
+<sup>5</sup> Die Dienststelle verfasst einen Inspektionsbericht, von dem der Alterspräsident oder der Präsident eine Kopie erhält. Sie kann Empfehlungen aussprechen oder Zielvorgaben und Abhilfemassnahmen festlegen.
 
-<sup>6</sup> Der Inspektor erstellt einen Synthesebericht, welcher dem Departement zuhanden des Staatsrates zugestellt wird.
+<sup>6</sup> Sie erstellt zuhanden des Staatsrates einen zusammenfassenden Bericht.
 
-<sup>7</sup> Der Inspektor ordnet die erforderlichen Korrekturmassnahmen an. Sein Entscheid kann mittels Beschwerde beim Departement und danach beim Kantonsgericht angefochten werden.
-
-[^6-1]: Änderung vom 13. April 2016
+## 3 Administrative Organisation der KESB
 
 #### Art. 7
 
-[^6-1]
+**Kammern der KESB**
 
-Aufgehoben.
+<sup>1</sup> Falls sich die KESB aus mehreren Kammern zusammensetzt, bestimmt die Dienststelle einen Alterspräsidenten.
+
+<sup>2</sup> Der Alterspräsident wird aufgrund seiner Erfahrung, seines Dienstalters und seines Beschäftigungsgrads gewählt.
+
+<sup>3</sup> Er erhält für seine Funktion eine jährliche Pauschalentschädigung, die auf 6'000 Franken festgesetzt wird.
 
 #### Art. 8
 
-**Besondere Zuständigkeit des Inspektors**
+**Arbeitsverhältnisse**
 
-<sup>1</sup> Der Inspektor gewährt die durch die Umstände gebotene Beratung und Instruktionen.
+<sup>1</sup> Der Leiter der Dienststelle ist der Vorgesetzte der Alterspräsidenten und der Präsidenten.
 
-<sup>2</sup> Er gewährleistet eine koordinierte Praxis der KESB in seinem Kreis.
+<sup>2</sup> Mit Ausnahme der Beisitzer unterliegen die Arbeitsverhältnisse der Gesetzgebung über das Personal des Staates Wallis.
 
 #### Art. 9
 
-**Besondere Zuständigkeit des Departementes**
+**Finanzkompetenzen der Alterspräsidenten und der Präsidenten der KESB**
 
-<sup>1</sup> Das Departement kann jederzeit eine Inspektion einer KESB vornehmen lassen.[^9-1]
+<sup>1</sup> Der Alterspräsident oder der Präsident der KESB achtet auf die Einhaltung der Bestimmungen:
 
-<sup>2</sup> Es kann eine Untersuchung betreffend eine von einer KESB getroffenen und angefochtenen Schutzmassnahme anordnen, wenn die Anfechtung in einem schlechten Funktionieren dieser Behörde oder in der Verletzung einer Bestimmungen über die Organisation (Art. 12 ff.) oder die Geschäftsführung (Art. 18 ff.) begründet ist.
+- a) des Gesetzes über die Geschäftsführung und den Finanzhaushalt des Kantons und deren Kontrolle (FHG) sowie der zugehörigen Vollzugsverordnungen;
+- b) der Weisungen des Finanzinspektorats, der Finanzverwaltung, des Controllings des Staates und des Departements sowie des Leiters der Dienststelle.
 
-<sup>3</sup> Im Falle der Nichtbeachtung der in der vorliegenden Verordnung enthaltenen Vorschriften kann das Departement:[^9-1] a) unbeschadet der zivilrechtlichen Verantwortlichkeit der Betroffenen und unter Vorbehalt der Straf-klage gegen die Mitglieder der KESB eine Busse entsprechend den Bestimmungen über die administrativen Strafentscheide aussprechen;[^9-1] b) ein Mitglied der KESB, das in schwerer Weise und wiederholt gegen seine Verpflichtungen verstos-sen hat, mangels eines Entscheides der Ernennungsbehörde absetzen.[^9-1]
+<sup>2</sup> Der Departementsvorsteher überträgt dem Alterspräsidenten oder dem Präsidenten der KESB die Kompetenz, Betriebsausgaben bis zu einem Betrag von maximal 10'000 Franken zu tätigen.
 
-[^9-1]: Änderung vom 13. April 2016
+<sup>3</sup> Der Leiter der Dienststelle tätigt Auslagen der KESB von mehr als 10'000 Franken, höchstens aber von 50'000 Franken. Im Übrigen gelten die Bestimmungen der Verordnung betreffend die Delegation von finanziellen Kompetenzen des Staatsrates an die Departemente und Dienststellen.
 
 #### Art. 10
 
-**Absetzung**
+**Ausbildung**
 
-<sup>1</sup> Die Absetzung eines Mitglieds der KESB durch das Departement wird im Anschluss an eine Untersu-chung und nach Anhörung der Ernennungsbehörde und des Betroffenen ausgesprochen.[^10-1]
+<sup>1</sup> Die Dienststelle sorgt für die Ausbildung der Alterspräsidenten, der Präsidenten, der Mitglieder und Stellvertreter, der Schreiber sowie des Sekretariats der KESB. Zu diesem Zweck leitet er externe Weiterbildungsangebote an die KESB weiter.
 
-<sup>2</sup> Im Übrigen gilt das Gesetz über das Verwaltungsverfahren und die Verwaltungsrechtspflege (VVRG).
-
-[^10-1]: Änderung vom 13. April 2016
+<sup>2</sup> Das für die Jugend zuständige Departement stellt den KESB ein Verzeichnis der verschiedenen Institutionen und der verschiedenen zuständigen Dienststellen im Bereich des Jugendschutzes zur Verfügung.
 
 #### Art. 11
 
-**Entlöhnung des Inspektors**
+**Ernennung der Mitglieder und der Stellvertreter der KESB**
 
-Die Entlöhnung des Inspektors wird durch einen Entscheid des Departementes festgelegt; diese wird der Staatskasse belastet.
-
-### 3. Kapitel: Administrative und betriebliche Organisation der KESB
+<sup>1</sup> Die Mitglieder der KESB und ihre Stellvertreter werden durch den Staatsrat ernannt.
 
 #### Art. 12
 
-**Grundsatz**
+**Ernennung und Entschädigung der Beisitzer**
 
-<sup>1</sup> Für die administrative und betriebliche Organisation der KESB ist unter Vorbehalt des Bundes- und Kantonsrechts die Gemeinde oder die Gemeindevereinigung zuständig.
+<sup>1</sup> Die Beisitzer werden durch den Präsidenten der KESB ernannt.
 
-<sup>2</sup> Die Organisation der KESB muss ihnen ein völlig unabhängiges Handeln garantieren sowie den Datenschutz gewährleisten.
+<sup>2</sup> Die Entlöhnung der Beisitzer wird mittels Branchenvereinbarungen geregelt.
 
 #### Art. 13
 
-**Büro und Mobiliar**
+**Amts- und Dienstgeheimnis**
 
-Die Gemeinden stellen den KESB zur Verfügung:
+<sup>1</sup> Mit Ausnahme der Beisitzer und Beistände, die nur dem Beistandsgeheimnis unterliegen, unterliegt auch das Personal der KESB dem Amtsgeheimnis gemäss der Walliser Personalgesetzgebung.
 
-- a) ein angemessenes Sitzungslokal;
+<sup>2</sup> Der Staatsrat ist dafür zuständig, die Präsidenten, die Mitglieder und deren Stellvertreter, die Beisitzer, die juristischen Schreiber sowie das Sekretariat der KESB vom Amts- oder Beistandsgeheimnis zu entbinden und ihnen zu gestatten, vor Gericht auszusagen.
 
-- b) das notwendige Mobiliar und Material;
-
-- c) die Archive oder Archivschränke, welche die Akten vor Feuer und Naturgewalten schützen und deren Zugang ausschliesslich den Mitgliedern der KESB, dem Schreiber und dem Sekretär vorbehalten ist.
+<sup>3</sup> Der Beistand muss die Entbindung vom Beistandsgeheimnis bei der KESB und gegebenenfalls die Entbindung vom Amtsgeheimnis bei seiner Anstellungsbehörde beantragen.
 
 #### Art. 14
 
-**Bibliothek**
+**Gesprächsrunden und Versammlungen**
 
-<sup>1</sup> Jede KESB muss über folgende Unterlagen verfügen:
+<sup>1</sup> Der Leiter der Dienststelle organisiert Gesprächsrunden mit den Alterspräsidenten und Präsidenten der KESB, namentlich zum Austausch über Themen und die Funktionsweise der KESB oder bei Bedarf.
 
-- a) das Schweizerische Zivilgesetzbuch und die ergänzende Gesetzgebung;
-
-- b) das Einführungsgesetz zum Schweizerischen Zivilgesetzbuch, das VVRG, das Gesetz betreffend den Tarif der Kosten und Entschädigungen vor Gerichts- oder Verwaltungsbehörden (GTar), das Gesetz über die unentgeltliche Rechtspflege und das Gesetz über die Eingliederung und die Sozialhilfe;
-
-- c) die vorliegende Verordnung;
-
-- d) einen Ordner mit den Rundschreiben, den Weisungen der Aufsichtsbehörden, den Inspektionsberichten und anderen vergleichbaren Dokumenten;
-
-- e) die grundsätzlichen Werke zum Kindes- und Erwachsenenschutzrecht;
-
-- f) einen Anschluss an die Internetseite der Konferenz der Kantone für Kindes- und Erwachsenenschutz (KOKES).
-
-<sup>2</sup> Jede KESB hat die Zeitschrift für Kindes- und Erwachsenenschutz (ZKE) zu abonnieren.
+<sup>2</sup> Er kann Generalversammlungen mit dem gesamten Personal der KESB organisieren.
 
 #### Art. 15
 
-**Ausbildung**
+**Institutionelle Tagung**
 
-<sup>1</sup> Mindestens zu Beginn jeder Amtsperiode organisiert das Departement zusammen mit den Inspektoren und den Universitäten oder Fachhochschulen ein Seminar über das Kindes- und Erwachsenenschutzrecht.
+<sup>1</sup> Der Dienstchef organisiert zusammen mit den Alterspräsidenten sowie den Präsidenten der betroffenen KESB mindestens einmal jährlich Koordinationssitzungen, an der die institutionellen und privaten Partner teilnehmen.
 
-<sup>2</sup> Das für die Jugend beauftragte Departement nimmt ebenfalls an diesem Seminar teil und übermittelt den KESB sämtliche notwendigen Informationen im Bereich des Kindesschutzes. Es stellt ihnen ein Verzeichnis der verschiedenen Institutionen und der verschiedenen zuständigen Dienststellen im Bereich des Jugendschutzes zur Verfügung.
-
-<sup>3</sup> Die Ausbildungskosten gehen zu Lasten der Gemeinde oder der Gemeindevereinigung.
+## 4 Ausbildung der privaten Beistände und Ernennung der Beistände
 
 #### Art. 16
 
-**Jährliche Sitzung**
+**Grundausbildung der privaten Beistände**
 
-<sup>1</sup> Zu Beginn eines jeden Jahres hält die KESB eine spezielle Sitzung, um den Bestand der ihrer Gerichtsbarkeit unterliegenden Schutzmassnahmen und der anderen laufenden Interventionen der eigenen Vorsorge (ZGB 368, 373) sowie der Massnahmen von Gesetzes wegen (ZGB 376, 385) aufzunehmen. Sie prüft bei dieser Gelegenheit, ob die Massnahmen beizubehalten, zu ändern oder aufzuheben sind, oder ob in anderen Fällen derartige Massnahmen anzuordnen sind.
+<sup>1</sup> Für das Management der Erstausbildung von privaten Beiständen schliesst die Dienststelle Dienstleistungsverträge ab.
 
-<sup>2</sup> Sie führt ein Inventar der laufenden Massnahmen, datiert dieses und klassiert es als Beilage zum Personenverzeichnis.
+<sup>2</sup> Die kostenlose Schulung kann tagsüber oder abends stattfinden.
+
+<sup>3</sup> Sie besteht aus 3 Modulen:
+
+- a) das Erwachsenenschutzrecht;
+- b) die ersten Schritte im Rahmen des Auftrags, die Finanzverwaltung und die soziale Begleitung;
+- c) die Einnahmen und Ausgaben der betroffenen Person.
+
+<sup>4</sup> Diese Ausbildung kann bei Bedarf durch andere Module ergänzt werden.
+
+<sup>5</sup> Berufsbeistände, Beistände mit Fachkenntnissen und Beistände von Angehörigen können an dieser Ausbildung teilnehmen.
 
 #### Art. 17
 
-**Beistandschaft von Angehörigen**
+**Weiterbildung der privaten Beistände**
 
-Unter Vorbehalt einer Befreiung der KESB gelten für die Beistandschaft von Angehörigen die Vorschriften der vorliegenden Verordnung betreffend die Geschäftsführung, die Führung der Inventare, der Rechnungen und Geschäftsberichte.
-
-### 4. Kapitel: Geschäftsführung
+<sup>1</sup> Die KESB melden der Dienststelle den konkreten Weiterbildungsbedarf der privaten Beistände.
 
 #### Art. 18
 
-**Grundsätze**
+**Beistandschaft von Angehörigen**
 
-<sup>1</sup> Die KESB hat die Verpflichtung zu führen:
+<sup>1</sup> Unter Vorbehalt einer Befreiung durch den Präsidenten der KESB gelten für die Beistandschaft von Angehörigen die Vorschriften der vorliegenden Verordnung betreffend die Geschäftsführung, die Erstellung der Inventare, der Rechnungen und Geschäftsberichte.
 
-- a) für die Erwachsenen und für die Minderjährigen eine elektronische Datenbank der persönlichen Daten, die mindestens die vom Departement verlangten Informationen enthält und welche zur Führung der Fälle und der Statistik dient;
+<sup>2</sup> Die Dienststelle kann für Beistände von Angehörigen abendliche Austauschveranstaltungen organisieren.
 
-- b) ein Personenverzeichnis;
+#### Art. 19
 
-- c) ein Verzeichnis der Akten.
+**Bedingungen für die Ernennung von privaten Beiständen sowie von Beiständen anderer professioneller Einrichtungen**
 
-<sup>2</sup> Im Übrigen führt sie für jeden Fall:
+<sup>1</sup> Falls aus dem dem Betreibungsregisterauszug hervorgeht, dass die für die Ausübung eines Mandats vorgesehene Person in den letzten 5 Jahren laufende Betreibungen hatte, ob zu Unrecht eingeleitet oder nicht, die eingestellt oder durch Zahlung beendet wurden, muss die KESB von Fall zu Fall nach Anhörung der betroffenen Person beurteilen, ob diese ein Hindernis für die Ausübung des Mandats darstellen.
 
-- a) eine auf den Namen lautende Akte;
-
-- b) die Übernahme-, Ergänzungs- und Korrekturinventare;
-
-- c) eine Schlussrechnung.
-
-Ar. 19 Personenverzeichnis
-
-<sup>1</sup> Das Personenverzeichnis enthält in alphabetischer Reiheinfolge alle Familiennamen sowie alle notwendigen Angaben zu einer Person, deren Fall eine Intervention der KESB erfordert hat, sofern diese Daten nicht schon in der elektronisch erfassten Datenbank verzeichnet sind.
-
-<sup>2</sup> Für jede Person wird angegeben:
-
-- a) der Name und Vorname des Inhabers;
-
-- b) das genaue Geburtsdatum und die Abstammung;
-
-- c) der Wohnsitz und Aufenthaltsort;
-
-- d) die verschiedenen Schutzmassnahmen, ihre Errichtungsdaten mit dem Hinweis auf die entsprechende Akte;
-
-- e) alle Vorgänge, welche Gegenstand eines Beschlusses oder einer Verhandlung sind, ihr Datum sowie der Hinweis auf die entsprechende Akte.
+## 5 Aktenführung
 
 #### Art. 20
 
-**Verzeichnis der Akten**
+**Grundsatz**
 
-<sup>1</sup> Das Verzeichnis der Akten wird in elektronischer Form geführt und bildet Gegenstand einer jährlichen Klassierung in chronologischer Reihenfolge.
+<sup>1</sup> Die KESB ist verpflichtet, für die Erwachsenen und für die Minderjährigen eine elektronische personenbezogene Datenbank zu führen, die mindestens die von der Dienststelle verlangten Informationen enthält und die namentlich der Betreuung der Fälle und der Statistik dient.
 
-<sup>2</sup> Das Verzeichnis enthält:
+<sup>2</sup> Für jede betroffene Person führt sie:
 
-- a) das Eröffnungsjahr der Akten;
+- a) eine auf den Namen lautende Akte;
+- b) Inventare bei Amtsantritt, Ergänzungs- und Korrekturinventare in den vom Gesetz vorgesehenen Fällen;
+- c) Schlussrechnungen in den vom Gesetz vorgesehenen Fällen.
 
-- b) die Aktennummer in chronologischer Reihenfolge nach Eröffnung;
+<sup>3</sup> Jede Akte ist nummeriert und in einer Kartei verzeichnet.
 
-- c) die Identität der betroffenen Person;
-
-- d) eine kurze Beschreibung des Akteninhalts.
+<sup>4</sup> Ein und dieselbe Akte wird für die betroffene Person geführt.
 
 #### Art. 21
 
-**Aktenführung**
+**Protokolle und Beratungen**
 
-<sup>1</sup> Sobald sich die KESB mit einem Fall betreffend das Kindes- und Erwachsenenschutzrecht zu befassen hat, eröffnet sie systematisch eine Akte.
+<sup>1</sup> Falls die betroffene Person angehört wird, erstellt die KESB darüber ein Protokoll. Es wird, ausser in Ausnahmefällen, gelesen und von den Erschienenen unterzeichnet.
 
-<sup>2</sup> Jede Akte ist nummeriert und in einer Kartei verzeichnet.
+<sup>2</sup> Im Protokoll der Anhörung des Kindes werden nur die für den Entscheid wesentlichen Ergebnisse festgehalten.
 
-<sup>3</sup> Ein und dieselbe Akte folgt der gleichen Schutzmassnahme von deren Errichtung bis zur Aufhebung.
+<sup>3</sup> Die KESB hält das Ergebnis ihrer Beratungen schriftlich in zusammengefasster Form fest.
+
+## 6 Inventar, Rechnung und Tätigkeitsbericht
 
 #### Art. 22
 
-**Archivierung**
+**Inventar bei Amtsantritt**
 
-<sup>1</sup> Nach Ablauf eines Jahres seit seinem Abschluss werden die Akten im Archiv der KESB aufbewahrt.
+<sup>1</sup> Das Inventar beim Amtsantritt wird in Zusammenarbeit mit der KESB, allenfalls zusammen mit einer Berufsbeistandschaft, wenn dieses Inventar für einen privaten Beistand mit besonderem Aufwand verbunden ist, entsprechend den Regeln des EGZGB errichtet.
 
-<sup>2</sup> Die Ablegung im Archiv wird im entsprechenden Blatt des Personenverzeichnisses vermerkt oder in der elektronischen Datenbank erfasst, falls sich die KESB für die Eintragung dieser Informationen dazu entschieden hat.
+<sup>2</sup> Es wird vom Beistand und, soweit möglich, von der betroffenen Person unterzeichnet.
 
-<sup>3</sup> Unter Vorbehalt gegenteiliger kommunaler Bestimmungen werden die Akten unbefristet archiviert. Die Buchungsbelege können nach 10 Jahren seit ihrer Ablegung im Archiv vernichtet werden.
-
-<sup>4</sup> Im Übrigen sind die Bestimmungen des Gesetzes über die Information der Öffentlichkeit, den Datenschutz und die Archivierung anwendbar.
+<sup>3</sup> Das Original des Inventars bleibt im Besitze der KESB nach dem Genehmigungsentscheid.
 
 #### Art. 23
 
-**Protokolle**
+**Periodische Rechnung**
 
-Die KESB ist verpflichtet, ihre Verhandlungen schriftlich festzuhalten. Sie erfüllt diese Verpflichtung, indem sie entweder einen Beschluss erlässt oder ein vorschriftsmässiges Protokoll verfasst.
+<sup>1</sup> Die Rechnung muss mindestens alle 2 Jahre gemäss den bei der kaufmännischen Buchführung zu beachtenden Grundsätzen vorgelegt werden. Der Präsident der KESB kann den Beistand ermächtigen, die Rechnung in Form von Bankauszügen vorzulegen.
+
+<sup>2</sup> Die Rechnung muss die Rechnungsbelege (Quittungen, Erklärungen, Urkunden, usw.) und einen Tätigkeitsbericht enthalten.
+
+<sup>3</sup> Grundsätzlich werden die Konten per 31. Dezember abgeschlossen.
+
+<sup>4</sup> Der Beistand unterschreibt die Rechnung und den Tätigkeitsbericht. Wo immer möglich, werden diese auch von der betroffenen Person unterzeichnet.
+
+<sup>5</sup> Das Original der Rechnung bleibt zusammen mit den Belegen im Besitz der KESB nach dem Genehmigungsentscheid.
 
 #### Art. 24
 
-**Zustimmung der KESB**
+**Tätigkeitsbericht**
 
-<sup>1</sup> Die Handlungen, welche der Zustimmung der KESB unterstellt sind, bilden Gegenstand einer Beratung, welche die Tragweite des Beschlusses und die an die Zustimmung geknüpften Bedingungen präzisiert. Diese Beratung wird in einem Protokoll übertragen.
+<sup>1</sup> Der Tätigkeitsbericht orientiert die KESB über die Tätigkeit des Beistands entsprechend der Art und dem Umfang des erteilten Mandats, über die Entwicklung der Situation der betroffenen Person und über die für die nächste Periode gesetzten Ziele.
 
-<sup>2</sup> Das Protokoll über den Abschluss eines Erbteilungsvertrages führt summarisch die den Berechtigten zugeteilten Lose auf.
+<sup>2</sup> Er enthält einen Vorschlag, in dem der Beistand seine Meinung über die Notwendigkeit oder die Angemessenheit der Massnahme, seinen Wunsch nach Fortsetzung oder Entlassung aus dem Mandat sowie seinen Entschädigungsanspruch und allenfalls auch die Angabe der Arbeitsbelastung durch das Mandat zum Ausdruck bringt.
 
-<sup>3</sup> Das Protokoll, welches die Zustimmung über die Aufnahme oder Gewährung von erheblichen Darlehen enthält, erwähnt die Summe, den Zinssatz und die Dauer des abgeschlossenen Vertrages.
-
-<sup>4</sup> Das Protokoll, welches eine Vereinbarung über den Unterhaltsbeitrag des Kindes genehmigt, enthält den Unterhaltsbeitrag sowie die Angaben, die seine Festlegung ermöglichten.
-
-### 5. Kapitel: Inventar, Rechnung und Berichterstattung
+<sup>3</sup> Das Original des Berichts verbleibt bei der KESB.
 
 #### Art. 25
 
-**Inventar beim Amtsantritt**
+**Bericht und Schlussrechnung**
 
-<sup>1</sup> Das Inventar beim Amtsantritt wird in Zusammenarbeit mit der KESB, ja sogar mit der ÖBB wenn dieses Inventar für einen privaten Beistand mit einem besonderen Aufwand verbunden ist, entsprechend den Regeln des Einführungsgesetzes zum Schweizerischen Zivilgesetzbuch errichtet.
+<sup>1</sup> Der Bericht und die Schlussrechnung werden vom Beistand und, wenn möglich, von der betroffenen Person unterzeichnet.
 
-<sup>2</sup> Das Original des Inventars bleibt im Besitze der KESB.
+<sup>2</sup> Nach dem Genehmigungsentscheid verbleibt das Original des Berichts und der Schlussrechnung mit den Belegen bei der KESB.
 
 #### Art. 26
 
-**Periodische Rechnung**
+**Prüfungsverfahren der Rechnung und des Tätigkeitsberichts**
 
-<sup>1</sup> Die Rechnung muss entsprechend den bei der kaufmännischen Buchführung zu beachtenden Grundsätzen vorgelegt werden. Die KESB kann den Beistand ermächtigen, die Rechnung in Form von Bankauszügen vorzulegen.
+<sup>1</sup> Die Rechnung und der Tätigkeitsbericht müssen bei der KESB innert der von ihr festgesetzten Frist hinterlegt werden. Wenn die Rechnung nach zweimaliger Mahnung nicht vorgelegt wurde, lässt die KESB diese auf Kosten des Beistandes durch einen Dritten erstellen.
 
-<sup>2</sup> Die Rechnung muss die Rechnungsbelege (Quittungen, Erklärungen, Urkunden, usw.) und eine Berichterstattung (Art. 27) enthalten.
+<sup>2</sup> Die KESB prüft die Rechnung und den Tätigkeitsbericht sowohl unter dem Gesichtspunkt der Einhaltung der gesetzlichen Bestimmungen als auch der Notwendigkeit der verschiedenen Handlungen und der Richtigkeit der Buchführung.
 
-<sup>3</sup> Wenn mit Zustimmung der KESB eine Einnahme oder Ausgabe erzielt wurde, muss das Datum dieser Einwilligung angegeben werden.
+<sup>3</sup> Die KESB kann vom Beistand sämtliche zusätzliche Auskünfte verlangen und, falls erforderlich, eine Frist zur Ergänzung oder Berichtigung der Rechnung festlegen. Sie kann dies auch selbst auf Kosten des Beistandes vornehmen.
 
-<sup>4</sup> Das Original der Rechnung bleibt im Besitz der KESB. Sie wird mit dem Vermerk der Genehmigung versehen und vom Präsidenten der KESB oder seinem Stellvertreter und vom Schreiber oder seinem Stellvertreter unterschrieben.
+<sup>4</sup> Unter Vorbehalt einer Befreiung durch den Präsidenten der KESB werden die Rechnung und der Tätigkeitsbericht der Beistandschaft von Angehörigen wie die Rechnung und die Tätigkeitsberichte einer ordentlichen Beistandschaft geprüft.
 
 #### Art. 27
 
-**Berichterstattung**
+**Genehmigungsverfahren**
 
-Die schriftliche Berichterstattung orientiert die KESB über die im Laufe des Rechnungsjahres vorgenommenen Handlungen sowie die persönlichen Kontakte des Beistandes mit der betroffenen Person, über die ihr zur Verfügung stehenden Mittel, ihre Bedürfnisse, ihre Lebensbedingungen und Erziehung, ihr Verhalten sowie alle anderen, aussagekräftigen und wissenswerten Umstände.
+<sup>1</sup> Die Genehmigung der Rechnung und des Tätigkeitsberichts durch den Präsidenten der KESB hat grundsätzlich innerhalb von 3 Monaten nach deren Einreichung zu erfolgen.
+
+## 7 Vermögenswerte, Kapitalanlagen und Vermögen
 
 #### Art. 28
 
-**Schlussrechnung**
+**Aufbewahrung der Vermögenswerte**
 
-<sup>1</sup> Die Schlussrechnung gibt alle Daten, Buchungen sowie die finanziellen Vorgänge wieder. Sie enthält in chronologischer Reihenfolge:
-
-- a) die vom Beistand in Zusammenarbeit mit der KESB, ja sogar mit der ÖBB, erstellten Inventare;
-
-- b) die Inventare des Kindesgutes, welche im Anschluss an die von der KESB erlassenen Massnahmen zum Schutze des Kindesgutes erstellt und hinterlegt wurden;
-
-- c) die öffentlichen Inventare;
-
-- d) die ergänzenden Inventare;
-
-- e) die Rechnungen und die begleitenden Berichte;
-
-- f) die Beratungen und Beschlüsse, die sich auf die Prüfung und die Genehmigung der unter a, b, d und e erwähnten Inventare, Berichte und Rechungen beziehen;
-
-- g) die Angabe der dem Beistand zugesprochenen Entschädigung.
-
-<sup>2</sup> Die Schlussrechnung wird vom Beistand unterzeichnet; sie wird vom Präsident der KESB oder seinem Stellvertreter und vom Schreiber oder seinem Stellvertreter genehmigt.
+<sup>1</sup> Der die Rechnung begleitende Tätigkeitsbericht gibt an, welche wichtigen Dokumente und Wertgegenstände in einer durch die Verordnung des Bundes über die Vermögensverwaltung im Rahmen einer Beistandschaft oder Vormundschaft (VBVV) anerkannten Einrichtung aufbewahrt werden.
 
 #### Art. 29
 
-**Aufbewahrung von Wertsachen**
+**Anlagen**
 
-<sup>1</sup> Der die Rechnung begleitende Bericht gibt an, welche wichtigen Dokumente und Wertgegenstände in einer durch die Bundesverordnung über die Vermögensverwaltung im Rahmen einer Beistandschaft oder Vormundschaft anerkannten Einrichtung aufbewahrt werden.
-
-<sup>2</sup> Eine Quittung oder Empfangsbestätigung des Aufbewahrers wird den Akten beigelegt.
+<sup>1</sup> Die Anlage und die Erhaltung des Vermögens von Personen, deren Vermögen von einem Beistand verwaltet wird oder die unter Vormundschaft stehen, wird durch die VBVV geregelt.
 
 #### Art. 30
 
-**Prüfungsverfahren der Rechnung und der Berichterstattung**
+**Wesentliche bewegliche Vermögenswerte**
 
-<sup>1</sup> Die Rechnung und die Berichte müssen bei der KESB innert der von ihr festgesetzten Frist hinterlegt werden. Wenn die Rechnung nach zweimaliger Mahnung nicht vorgelegt wird, so lässt die KESB diese auf Kosten des Beistandes durch einen Dritten erstellen. Im Übrigen sind die Bestimmungen über die Zwangsvollstreckung von Verwaltungsentscheiden anwendbar.
+<sup>1</sup> Wesentliche bewegliche Vermögenswerte sind Vermögenswerte von 500’000 Franken oder mehr.
 
-<sup>2</sup> Die KESB prüft die Berichte und die Rechnung sowohl unter dem Gesichtspunkt der Einhaltung der gesetzlichen Bestimmungen als auch der Notwendigkeit der verschiedenen Handlungen und der Richtigkeit der Buchführung.
-
-<sup>3</sup> Die KESB kann vom Beistand sämtliche zusätzliche Auskünfte verlangen und falls erforderlich eine Frist zur Ergänzung oder Berichtigung der Rechnung festlegen. Sie kann dies auch selber auf Kosten des Beistandes vornehmen.
-
-<sup>4</sup> Unter Vorbehalt einer Befreiung der KESB werden die Rechnung und die Berichte der Beistandschaft von Angehörigen wie die Rechnung und die Berichte einer ordentlichen Beistandschaft von der KESB geprüft.
+<sup>2</sup> Es handelt sich um das bewegliche Nettovermögen, d.h. das direkt verfügbare Vermögen (Bargeld, Bank- oder Postguthaben, Wertpapiere usw.), nach Abzug der kurzfristigen Schulden und ohne Einkommen. BVG-Guthaben, Mietzinsdepots, Lebensversicherungen und auch das unbewegliche Vermögen der betroffenen Person werden nicht angerechnet.
 
 #### Art. 31
 
-**Genehmigungsverfahren**
+**Wesentliche Immobilienwerte**
 
-<sup>1</sup> Die Genehmigung des Berichtes und gegebenenfalls der Rechnung durch die KESB muss spätestens innert drei Monaten nach ihrer Hinterlegung erfolgen.
+<sup>1</sup> Wesentliche Immobilienwerte sind Immobilienwerte von 1'000'000 Franken oder mehr.
 
-<sup>2</sup> Die Vorlegung des Berichtes und gegebenenfalls der Rechnung erfolgen in laufender Sitzung. Im Beschluss oder im Protokoll wird die Anwesenheit der Mitglieder der KESB, der Eltern und gegebenenfalls der betroffenen Person erwähnt.
+<sup>2</sup> Dabei handelt es sich um den amtlichen Wert oder den Wert, der sich aus einer neueren Immobilienschätzung oder -bewertung ergibt, abzüglich der Hypothekarschuld.
+
+<sup>3</sup> Bei der Ernennung des Beistandes berücksichtigt die KESB, ob das unbewegliche Vermögen ausschliesslich aus der Wohnung der betroffenen Person besteht und gibt in diesem Fall der Ernennung eines Angehörigen zum Beistand den Vorzug.
+
+## 8 Entlöhnung des Beistands und Kosten der KESB
 
 #### Art. 32
 
-**Aufbewahrung der Akten**
+**Entlöhnung und Rückerstattung der Kosten des Beistands**
 
-<sup>1</sup> Die KESB ist für die Aufbewahrung der Rechnungen, der Berichte, der Genehmigungsbeschlüsse der Rechnungen, der Beweisunterlagen und der Inventare in einem geeigneten Lokal verantwortlich. Auf ein begründetes Gesuch kann die KESB dem Beistand eine Kopie aushändigen.
-
-<sup>2</sup> Das Departement kann Weisungen für die Aufbewahrung der Akten mittels elektronischer Datenverarbeitung erlassen.
-
-<sup>3</sup> Vorbehalten bleibt das Gesetz über die Information der Öffentlichkeit, den Datenschutz und die Archivierung.
-
-### Kapitel 5bis: Entlöhnung des Beistandes
-
-#### Art. 32a
-
-<sup>1</sup> Entlöhnung und Spesenentschädigung des Beistandes
-
-<sup>1</sup> Die Entlöhnung und Spesenentschädigung des privaten oder Berufsbeistandes werden ganz oder teilweise vom Vermögen der betroffenen Person entnommen, sofern diese nicht bedürftig ist.
+<sup>1</sup> Die Entlöhnung und die Kostenerstattung des privaten Beistands oder des Berufsbeistands werden ganz oder teilweise dem Vermögen der betroffenen Person entnommen, sofern diese nicht bedürftig ist.
 
 <sup>2</sup> Ist die betroffene Person bedürftig, werden diese Beträge von ihrer Wohngemeinde vorgeschossen.
 
-<sup>3</sup> Die Entlöhnung des Beistandes oder des Vormundes eines Minderjährigen und seine Spesenentschädigung werden in der Jugendgesetzgebung geregelt.
-
-#### Art. 32b
-
-<sup>1</sup> Ermitteln der Bedürftigkeit
-
-<sup>1</sup> Die Bedürftigkeit der betroffenen Person wird sinngemäss zu den Bestimmungen über den gerichtlichen Rechtsbeistand ermittelt.
-
-<sup>2</sup> Ist die betroffene Person Sozialhilfeempfängerin, gilt die Bedürftigkeit als erwiesen.
-
-#### Art. 32c
-
-<sup>1</sup> Rückerstattung an die Gemeinde
-
-<sup>1</sup> Die betroffene Person ist zur Rückerstattung des Vorschusses der Wohngemeinde verpflichtet, sobald sie zu neuem Vermögen kommt.
-
-<sup>2</sup> Die Forderung der Gemeinde verjährt zehn Jahre nach der Erbringung der letzten Leistung.
-
-<sup>3</sup> Die Forderung der Gemeinde wird nicht als Sozialhilfeleistung anerkannt. Unter Vorbehalt der Rückerstattung durch die betroffene Person, bleibt sie vollständig zu Lasten der Gemeinde.
-
-<sup>4</sup> Ansonsten gelten sinngemäss die Bestimmungen des Gesetzes über die Eingliederung und die Sozialhilfe.
-
-#### Art. 32d
-
-<sup>1</sup> Entscheid der KESB
-
-Stellt die KESB die Entlöhnung und Spesenentschädigung des Beistandes ein, entweder grundsätzlich durch einen Genehmigungsentscheid betreffend den Tätigkeitsbericht und die Konten, bezeichnet sie ebenfalls den Schuldner der Entlöhnung (die betroffene Person oder die Gemeinde) und gegebenenfalls sogar den Grundsatz der Rückerstattungspflicht an die Wohngemeinde.
-
-### 6. Kapitel: Verschiedene Bestimmungen, Übergangs- und Schlussbestimmungen
+<sup>3</sup> Die Eltern sind ausschliesslich Schuldner für die Zahlung der Entlöhnung des Beistands oder Vormunds des Kindes und die Erstattung seiner Auslagen, unter Vorbehalt der Jugendgesetzgebung.
 
 #### Art. 33
 
-**Werte und Anlagen**
+**Ermitteln der Bedürftigkeit**
 
-Die Anlage und die Erhaltung des Vermögens von Personen, die einen Beistand mit ihrer Vermögensverwaltung beauftragt haben oder die unter Vormundschaft stehen, wird durch die Bundesverordnung über die Vermögensverwaltung im Rahmen einer Beistandschaft oder einer Vormundschaft geregelt.
+<sup>1</sup> Die Bedürftigkeit der betroffenen Person wird nach den für die unentgeltliche Rechtspflege geltenden Grundsätzen festgestellt, unter Vorbehalt des folgenden Absatzes.
+
+<sup>2</sup> Als bedürftig gilt eine Person, die - ohne ihre Ersparnisse für Notfälle zu belasten - nicht über ausreichende Mittel verfügt, um für die Vergütung ihres Beistands aufzukommen.
 
 #### Art. 34
 
-**Kosten und Entschädigungen**
+**Rückerstattung an die Gemeinde**
 
-<sup>1</sup> Die eidgenössische Zivilprozessordnung definiert die Begriffe der Kosten und Entschädigungen und beschliesst ihre Verteilung und Liquidation.
+<sup>1</sup> Die betroffene Person bzw. die Eltern des minderjährigen Kindes ist, bzw. sind zur Rückerstattung des Vorschusses der Wohngemeinde verpflichtet, sobald sich ihre wirtschaftliche Lage verbessert hat.
 
-<sup>2</sup> Die Kriterien für die Festsetzung des Gebührentarifs und der Auslagen sind im GTar aufgeführt, insbesondere in den Artikel 18 und 34.
+<sup>2</sup> Die Forderung der Gemeinde verjährt 10 Jahre nach der Erbringung der letzten Leistung.
+
+<sup>3</sup> Die Forderung der Gemeinde wird nicht als Sozialhilfeleistung anerkannt. Unter Vorbehalt der Rückerstattung durch die betroffene Person bleibt sie vollständig zu Lasten der Gemeinde.
+
+<sup>4</sup> Ansonsten gilt sinngemäss das Gesetz über die unentgeltliche Rechtspflege.
 
 #### Art. 35
 
-**Mitwirkungspflicht und Amtshilfe**
+**Entscheide der KESB**
 
-<sup>1</sup> Die Mitwirkungspflicht der am Verfahren beteiligten Personen und Dritten sowie die Hilfe der Verwaltungsbehörden und der Gerichte werden durch das Schweizerische Zivilgesetzbuch geregelt.
-
-<sup>2</sup> Ein Gesuch um Amtshilfe sollte schriftlich und mit entsprechender Begründung erfolgen.
+<sup>1</sup> Stellt der Präsident der KESB die Entlöhnung und die Rückerstattung der Kosten des Beistandes ein, dies grundsätzlich im Rahmen des Genehmigungsentscheides betreffend die Schlussrechnung und den Schlussbericht, bezeichnet er ebenfalls den Schuldner der Entlöhnung und allenfalls auch den Grundsatz der Rückerstattungspflicht an die Wohngemeinde.
 
 #### Art. 36
 
-Aufnahme in der für die fürsorgerische Unterbringung geeigneten Anstalt
+**Kosten**
 
-<sup>1</sup> Wenn die Unterbringung infolge einer psychischen Störung im Sinne von Artikel 426 ZGB angeordnet wird, wendet sich die zuständige Behörde vorab an den Verantwortlichen der sanitären Einrichtung, die sie für den vorliegenden Fall als geeignet erachtet. Gegebenenfalls trifft der Chefarzt des Departements Psychiatrie des Spitalzentrums Unterwallis oder der Chefarzt des Departements Psychiatrie des Spitalzentrums Oberwallis die nötigen Massnahmen, um eine Aufnahme in der als geeignet erscheinenden Einrichtung zu garantieren.
+<sup>1</sup> Die durch die KESB erhobenen Kosten werden in einem Reglement festgelegt.
 
-<sup>2</sup> Wenn die Unterbringung einer erwachsenen Person aus einem anderen Grund im Sinne von Artikel 426 ZGB angeordnet wird, wendet sich die KESB über die Dienststelle für Sozialwesen an das Zentrum für Indikation und Weiterbehandlung (ZIW) und übermittelt ihm eine vollständige Akte, welche alle nützlichen Auskünfte über die zu platzierende Person und die Gründe der Massnahme enthält. Im Notfall wird die durch eine fürsorgerische Unterbringung zu platzierende Person ohne besonderes Verfahren in der durch eine Weisung der Dienststelle für Sozialwesen bestimmten Einrichtung für die in dieser Weisung festgelegte Maximaldauer aufgenommen.
+## 9 Bestimmungen betreffend die fürsorgerische Unterbringung
 
 #### Art. 37
 
+**Aufnahme in der für die fürsorgerische Unterbringung geeigneten Anstalt**
+
+<sup>1</sup> Wenn die Unterbringung infolge einer psychischen Störung im Sinne von Artikel 426 ZGB angeordnet wird, wendet sich die zuständige Behörde vorab an den Verantwortlichen der Gesundheitseinrichtung, die sie für den vorliegenden Fall als geeignet erachtet. Gegebenenfalls trifft der Chefarzt des Departements Psychiatrie des Spitalzentrums Unterwallis oder der Chefarzt des Departements Psychiatrie des Spitalzentrums Oberwallis die nötigen Massnahmen, um eine Aufnahme in der als geeignet erscheinenden Einrichtung zu garantieren.
+
+<sup>2</sup> Wenn die Unterbringung einer erwachsenen Person aus einem anderen Grund im Sinne von Artikel 426 ZGB angeordnet wird, wendet sich die KESB über die Dienststelle für Sozialwesen an das Zentrum für Indikation und Weiterbehandlung (ZIW) und übermittelt dieser eine vollständige Akte, welche alle nützlichen Auskünfte über die zu platzierende Person und die Gründe der Massnahme enthält. Im Notfall wird die durch eine fürsorgerische Unterbringung zu platzierender Person ohne besonderes Verfahren in der durch eine Weisung der Dienststelle für Sozialwesen bestimmten Einrichtung für die in dieser Weisung festgelegte Maximaldauer aufgenommen.
+
+#### Art. 38
+
 **Zentrum für Indikation und Weiterbehandlung**
 
-<sup>1</sup> Das ZIW ist das zuständige Organ für den Vollzug der Unterbringungsentscheide im Sinne des Artikels 36 Absatz 2.
+<sup>1</sup> Das ZIW ist das zuständige Organ für den Vollzug der Unterbringungsentscheide im Sinne des Artikels 37 Absatz 2.
 
-<sup>2</sup> Es umfasste zwei Zentren, für das Ober- und Unterwallis, bestehend aus Vertretern:
+<sup>2</sup> Es umfasste 2 Zentren, für das Ober- und Unterwallis, bestehend aus Vertretern:
 
 - a) der Dienststelle für Sozialwesen;
-
 - b) der Spezialeinrichtungen;
-
 - c) des Spitals Wallis und der kantonalen Struktur der Koordinationsinstanz.
 
 <sup>3</sup> Es beauftragt eine Fachorganisation mit der Suche nach der für den vorliegenden Fall geeignet erscheinenden Einrichtung und der Bereitstellung der vorbeugenden und therapeutischen Massnahmen.
 
-<sup>4</sup> Anhand eines Berichtes der Fachorganisation, beauftragt das ZIW mit einem Leistungsauftrag die geeignete Einrichtung mit der nötigen Behandlung.
+<sup>4</sup> Anhand eines Berichtes der Fachorganisation, beauftragt das ZIW mittels eines Leistungsauftrags die geeignete Einrichtung mit der nötigen Behandlung.
 
 <sup>5</sup> Sobald das ZIW beauftragt wird, kann es im Rahmen eines Platzierungsentscheides alle geeigneten Massnahmen bis zur Aufnahme in der geeigneten Einrichtung anordnen.
 
-<sup>6</sup> Anhand des GTar erlässt der Staatsrat Weisungen über die Untersuchungskosten des ZIW und der mit der Beurteilung beauftragten Fachorganisation (Abs. 3). Das ZIW wacht über das Inkasso der Kosten durch die KESB.
-
-#### Art. 38
-
-**Aufsicht über Wohn- und Pflegeeinrichtungen**
-
-Die Aufsicht über Wohn- und Pflegeeinrichtungen, in denen urteilsunfähige Personen betreut werden, wird durch das Gesundheitsgesetz geregelt.
+<sup>6</sup> Anhand des Gesetzes betreffend den Tarif der Kosten und Entschädigungen vor Gerichts- oder Verwaltungsbehörden (GTar) erlässt der Staatsrat Weisungen über die Untersuchungskosten des ZIW und der mit der Beurteilung beauftragten Fachorganisation (Abs. 3). Das ZIW wacht über das Inkasso der Kosten durch die KESB.
 
 #### Art. 39
 
-Aufsicht über die sozialtherapeutischen Krankenanstalten und -institutionen
+**Begutachtung - Kostenvorschuss**
 
-<sup>1</sup> Die sozialtherapeutischen Krankenanstalten und -institutionen, in denen unzurechnungsfähige Personen betreut werden, werden von einem qualifizierten Vertreter der KESB sooft als nötig, aber mindestens einmal alle zwei Jahre, aufgesucht.
-
-<sup>2</sup> Der Vertreter der Behörde informiert sich insbesondere bei Besprechungen über die Verfassung der Pensionäre und über die Art, wie man sich um sie kümmert.
-
-<sup>3</sup> Falls Verstösse festgestellt werden, informiert der Vertreter der Behörde das mit dem Sozialwesen beauftragte Departement, welches sämtliche nützlichen Massnahmen ergreift.
-
-#### Art. 40
-
-**Massnahmen zur Einschränkung der Bewegungsfreiheit**
-
-<sup>1</sup> Jede sozialmedizinische Anstalt oder Heim im Sinne der Artikel 382 und folgende ZGB sowie jede für die fürsorgerische Unterbringung von Personen geeignete Anstalt (Art. 426 ff. ZGB) hat die Pflicht zu bezeichnen:
-
-- a) die Personen, welche eine Massnahme zur Einschränkung der Bewegungsfreiheit anordnen können;
-
-- b) die verschiedenen zur Verfügung stehenden Massnahmen zur Einschränkung;
-
-- c) die Abstände, nach welchen die angeordnete Massnahme auf ihre Berechtigung hin überprüft werden muss.
-
-<sup>2</sup> Für die dem Departement für Gesundheitswesen unterstellten Krankenanstalten und –institutionen sind subsidiär die Bestimmungen des Gesundheitsgesetzes über die Zwangsmassnahmen anwendbar.
-
-#### Art. 41
-
-**Begutachtung – Kostenvorschuss**
-
-<sup>1</sup> Die KESB erforscht den Sachverhalt von Amtes wegen und leistet für die von ihr angeordneten Begutachtungen Kostenvorschuss.
+<sup>1</sup> Die KESB ergründet den Sachverhalt von Amtes wegen und leistet für die von ihr angeordneten Begutachtungen Kostenvorschuss.
 
 <sup>2</sup> Sofern eine Partei eine Begutachtung verlangt, kann die KESB ihre Anordnung von einem Kostenvorschuss abhängig machen.
 
+## 10 Aufbewahrung der Akten und Archivierung
+
+#### Art. 40
+
+**Aufbewahrung der Akten**
+
+<sup>1</sup> Die KESB muss alle Akten aufbewahren, welche insbesondere die Korrespondenz, die Rechnungen, Berichte, Genehmigungsbeschlüsse, Entscheide, Gutachten, Belege und Inventare umfassen.
+
+<sup>2</sup> Die Buchungsbelege werden nach Ablauf von 10 Jahren vernichtet.
+
+<sup>3</sup> Die Modalitäten der Aufbewahrung werden durch Weisungen der Dienststelle geregelt.
+
+<sup>4</sup> Vorbehalten bleibt das Gesetz über die Information der Öffentlichkeit, den Datenschutz und die Archivierung (GIDA).
+
+#### Art. 41
+
+**Archivierung**
+
+<sup>1</sup> Die KESB übergeben die Akten 10 Jahre nach deren Abschluss an das Staatsarchiv Wallis (nachstehend: das Archiv), unabhängig vom Speichermedium.
+
+<sup>2</sup> Die an das Archiv übergebenen Akten erfüllen die Vorgaben des Handbuches "Record Management" für die Kantonsverwaltung.
+
+<sup>3</sup> Vor der Abgabe an das Archiv wird ein Verzeichnis erstellt, das vom Alterspräsidenten oder vom Präsidenten der KESB und dem Kantonsarchivar als verbindlich anerkannt wird.
+
+<sup>4</sup> Vor der Vernichtung der Akten legt der Kantonsarchivar dem Alterspräsidenten oder dem Präsidenten der KESB eine Kassationsliste gemäss den Vorschriften des Handbuches "Record Management" für die Kantonsverwaltung zur Genehmigung vor.
+
+<sup>5</sup> Akten die vor dem 1. Januar 2013 von den Vormundschaftsämtern geschlossen wurden, werden von den Gemeinden archiviert.
+
+<sup>6</sup> Im Übrigen gelten die Bestimmungen des GIDA.
+
+## 11 Übergangsbestimmung
+
 #### Art. 42
 
-**Übergangsbestimmungen**
+<sup>1</sup> Beschwerden, die im Sinne von Artikel 419 ZGB bis zum 31. Dezember 2022 bei den kommunalen/interkommunalen KESB eingereicht werden, werden automatisch an die zuständige kantonale KESB überwiesen.
 
-Die vorliegende Verordnung wir nach ihrem Inkrafttreten angewendet.
-
-#### Art. 43
-
-**Aufhebungen und Änderungen**
-
-- 1\. Aufgehoben sind alle der vorliegenden Verordnung widersprechende Bestimmungen, insbesondere die Verordnung über die Vormundschaft vom 27. Oktober 1999.
-
-- 2\. Die allgemeine Ausführungsverordnung zum Einführungsgesetz zum Schweizerischen Zivilgesetzbuch vom 4. Oktober 2000 wird wie folgt abgeändert:
-
-Art. 2 Vorbehaltenes Recht Vorbehalten bleibt die spezielle kantonale Ausführungsgesetzgebung zum Bundesprivatrecht, insbesondere in folgenden Bereichen: (…) c) den Erwachsenenschutz;
-
-#### Art. 44
-
-**Inkrafttreten**
-
-Die vorliegende Verordnung wird im Amtsblatt veröffentlicht, um am 1. Januar 2013 in Kraft zu treten.
-
-So beschlossen im Staatsrat zu Sitten, den 22. August 2012.
-
-Die Präsidentin des Staatsrates: Esther Waeber-Kalbermatten Der Staatskanzler: Philipp Spörri
-
-Meldung an das Bundesamt für Justiz am 24. August 2012
-
-### Titel und Änderungen Veröffentlichung Inkrafftreten
-
-Verordnung über den Kindes- und Abl. Nr. 39/2012 01.01.2013
-
-### Erwachsenenschutz
-
-## Weitere Fussnoten
-
-- [1] Änderung vom 27. Mai 2015 Abl. Nr. 23/2015 01.07.2015
-- [2] Änderung vom 13. April 2016 Abl. Nr. 17/2016 01.01.2016
+CSW RO/AGS 2022-071
