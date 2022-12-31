@@ -3,20 +3,19 @@ canton: SG
 number: "551.1"
 title: Verordnung über das Messwesen
 language: de
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-08-31
+version: 2023-01-01
+version_adopted: 2022-12-06
 adopted: 2021-08-31
 in_force: 2022-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/551.1"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3287/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3420/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über das Messwesen
 
-vom 31.08.2021 (Stand 01.01.2022)
+vom 31.08.2021 (Stand 01.01.2023)
 
 Die Regierung des Kantons St.Gallen
 
