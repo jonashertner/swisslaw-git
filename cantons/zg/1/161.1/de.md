@@ -4,13 +4,13 @@ number: "161.1"
 title: Gesetz über die Organisation der Zivil- und Strafrechtspflege
 short: "Gerichtsorganisationsgesetz, GOG"
 language: de
-version: 2022-05-01
-valid_until: 2022-12-31
-version_adopted: 2022-01-27
+version: 2023-01-01
+valid_until: 2024-12-31
+version_adopted: 2022-08-25
 adopted: 2010-08-26
 in_force: 2011-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/161.1"
-pdf: "https://bgs.zg.ch/api/de/versions/2334/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2389/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +19,11 @@ pdf: "https://bgs.zg.ch/api/de/versions/2334/pdf_file"
 
 (Gerichtsorganisationsgesetz, GOG)
 
-Vom 26. August 2010 (Stand 1. Mai 2022)
+Vom 26. August 2010 (Stand 1. Januar 2023)
 
 Der Kantonsrat des Kantons Zug,
 
-gestützt auf Art. 14 und Art. 445 der Schweizerischen Strafprozessordnung (Strafprozessordnung, StPO) vom 5. Oktober 2007[^ingress-1], auf Art. 4, Art. 5, Art. 54 Abs. 2, Art. 68 Abs. 2 lit. d, Art. 129, Art. 142 Abs. 3 und Art. 356 der Schweizerischen Zivilprozessordnung (Zivilprozessordnung, ZPO) vom 19. Dezember 2008[^ingress-2], auf Art. 6 Abs. 2, Art. 7 Abs. 3 und Art. 8 der Schweizerischen Jugendstrafprozessordnung (Jugendstrafprozessordnung, JStPO) vom 20. März 2009[^ingress-3], auf Art. 91 Abs. 3 des Schweizerischen Strafgesetzbuchs (StGB) vom 21. Dezember 1937[^ingress-4], auf Art. 13 des Bundesgesetzes über Schuldbetreibung und Konkurs (SchKG) vom 11. April 1889[^ingress-5], auf Art. 2 Abs. 1 des Ordnungsbussengesetzes (OBG) vom 18. März 2016[^ingress-6] sowie auf § 41 Abs. 1 Bst. b und l, § 54 Abs. 3, § 56, § 58 und § 63 Abs. 1 der Kantonsverfassung (KV)[^ingress-7],
+gestützt auf Art. 14 und Art. 445 der Schweizerischen Strafprozessordnung (Strafprozessordnung, StPO) vom 5. Oktober 2007[^ingress-1], Art. 4, Art. 5, Art. 54 Abs. 2, Art. 68 Abs. 2 lit. d, Art. 129, Art. 142 Abs. 3 und Art. 356 der Schweizerischen Zivilprozessordnung (Zivilprozessordnung, ZPO) vom 19. Dezember 2008[^ingress-2], Art. 6 Abs. 2, Art. 7 Abs. 3 und Art. 8 der Schweizerischen Jugendstrafprozessordnung (Jugendstrafprozessordnung, JStPO) vom 20. März 2009[^ingress-3], Art. 91 Abs. 3 des Schweizerischen Strafgesetzbuchs (StGB) vom 21. Dezember 1937[^ingress-4], Art. 13 des Bundesgesetzes vom 11. April 1889 über Schuldbetreibung und Konkurs (SchKG)[^ingress-5] sowie gestützt auf § 41 Abs. 1 Bst. b und l, § 54 Abs. 3, § 56, § 58 und § 63 Abs. 1 der Kantonsverfassung (KV)[^ingress-6],
 
 beschliesst:
 
@@ -32,8 +32,7 @@ beschliesst:
 [^ingress-3]: SR [312.1](https://db.clex.ch/link/Bund/312.1/de)
 [^ingress-4]: SR [311.0](https://db.clex.ch/link/Bund/311.0/de)
 [^ingress-5]: SR [281.1](https://db.clex.ch/link/Bund/281.1/de)
-[^ingress-6]: SR [314.1](https://db.clex.ch/link/Bund/314.1/de)
-[^ingress-7]: BGS [111.1](https://bgs.zg.ch/data/111.1/de)
+[^ingress-6]: BGS [111.1](https://bgs.zg.ch/data/111.1/de)
 
 ## 1. Allgemeine Bestimmungen
 
@@ -179,15 +178,19 @@ beschliesst:
 
 **Personelle Dotation**
 
-<sup>1</sup> Das Obergericht besteht aus sieben Mitgliedern und sechs Ersatzmitgliedern.
+<sup>1</sup> Das Obergericht besteht aus sieben Mitgliedern, bei teilweiser Besetzung mit Teilämtern aus höchstens neun Mitgliedern, und sechs Ersatzmitgliedern.
 
 <sup>2</sup> Der Kantonsrat legt die Zahl der Mitglieder und Ersatzmitglieder des Kantonsgerichts und des Strafgerichts fest.
 
-<sup>3</sup> Er legt für alle Gerichte die Zahl der Voll-, Teil- und Nebenämter sowie die Beschäftigungsgrade der Teilämter fest. Der Beschäftigungsgrad für ein Teilamt beträgt mindestens 50 Prozent.
+<sup>3</sup> Der Kantonsrat legt für alle Gerichte die Zahl der Voll-, Teil- und Nebenämter sowie die Beschäftigungsgrade der Teilämter fest. Der Beschäftigungsgrad für die Präsidien beträgt mindestens 80 Prozent, für ein Teilamt mindestens 50 Prozent.
 
-<sup>4</sup> Der Kantonsrat beschliesst die Festlegungen nach den Absätzen 2 und 3 jeweils vor der Wahl auf Antrag des Obergerichts. Das Kantonsgericht und das Strafgericht sind vorgängig durch das Obergericht anzuhören. Das Vorgehen findet sinngemäss auch auf Ersatzwahlen und Teilrücktritte Anwendung.
+<sup>4</sup> Der Kantonsrat beschliesst die Festlegungen nach Abs. 2 und 3 jeweils vor der Wahl auf Antrag des Obergerichts. Das Kantonsgericht und das Strafgericht sind vorgängig durch das Obergericht anzuhören.
 
-<sup>5</sup> Das Obergericht kann während der laufenden Amtsperiode, im Rahmen der für ein Gericht gesamthaft festgelegten Stellenprozente und mit Zustimmung der betroffenen Personen, die Beschäftigungsgrade der Richterinnen und Richter bis zu höchstens 20 Stellenprozenten verändern.
+<sup>4a</sup> Bei Ergänzungswahlen während laufender Amtsperiode kann die erweiterte Justizprüfungskommission des Kantonsrats auf Antrag des Obergerichts vollamtliche Richterstellen mit Teilämtern zu je 50 Prozent zur Wahl ausschreiben lassen. Sie teilt dies dem Regierungsrat zwecks Festsetzung der Ergänzungswahl gemäss § 57 Abs. 1 WAG[^14-1] mit. Die Ausschreibung erfolgt gemäss § 29 Abs. 1 WAG durch die Staatskanzlei.
+
+<sup>5</sup> Das Obergericht kann während der laufenden Amtsperiode im Rahmen der für ein Gericht gesamthaft festgelegten Stellenprozente und mit Zustimmung der betroffenen Richterinnen und Richter deren Beschäftigungsrade bis zu höchstens 50 Stellenprozenten verändern.
+
+[^14-1]: BGS [131.1](https://bgs.zg.ch/data/131.1/de)
 
 #### § 15
 
@@ -195,7 +198,7 @@ beschliesst:
 
 <sup>1</sup> Das Volk wählt die ordentlichen Mitglieder und Ersatzmitglieder der Gerichte.
 
-<sup>2</sup> Der Kantonsrat wählt die Präsidentin oder den Präsidenten aus den vollamtlichen Mitgliedern des betreffenden Gerichts.
+<sup>2</sup> Der Kantonsrat wählt die Präsidentin oder den Präsidenten aus den Mitgliedern des betreffenden Gerichts.
 
 #### § 16
 
@@ -836,7 +839,13 @@ beschliesst:
 
 <sup>1</sup> Für Amtshandlungen und Dienstleistungen der Justizbehörden ausserhalb von Verfahren sind Gebühren geschuldet, sofern die Gesetzgebung nicht ausdrücklich Kostenfreiheit festlegt.
 
-<sup>2</sup> Das Obergericht regelt die Bemessung und die Höhe der Gebühren in einer Verordnung.
+<sup>2</sup> Gebührenpflichtig ist, wer von einem Gericht, einer Amtsstelle, einer Kommission oder einer Person der Zivil- und Strafrechtspflege eine gesetzlich vorgesehene oder ihm sonst zustehende Dienstleistung bzw. die Abgabe von Daten jeglicher Art verlangt (beispielsweise Abgabe von Kopien, Anonymisierung von Urteilen, Bescheinigungen, Beglaubigungen, Aufbewahrung, Akteneinsichtnahme, jegliche Amtshandlungen gemäss übergeordnetem Recht).
+
+<sup>3</sup> Grundlagen für die Festsetzung dieser Gebühren bilden der mit dem Begehren verbundene Zeitaufwand sowie die anfallenden Kosten und Auslagen.
+
+<sup>4</sup> Das Obergericht regelt die Bemessung und die Höhe der Gebühren in einer Verordnung.
+
+<sup>5</sup> Für die Abgabe eines anonymisierten Entscheides beträgt die Gebühr pro Seite 5.00 Franken, jedoch maximal 100.00 Franken pro Entscheid. Für wissenschaftliche Zwecke oder bei besonders geringem Aufwand kann diese Gebühr angemessen herabgesetzt oder erlassen werden. Die Abgabe von anonymisierten Entscheiden an Amtsstellen erfolgt kostenlos.
 
 ### 3.3. Richterinnen und Richter sowie Personal
 
