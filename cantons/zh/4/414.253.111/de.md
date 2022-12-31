@@ -3,10 +3,10 @@ canton: ZH
 number: "414.253.111"
 title: Studienordnung für die Bachelorstudiengänge Architektur und Bauingenieurwesen an der Zürcher Hochschule für Angewandte Wissenschaften
 language: de
-nachtrag: "112"
-valid_until: 2023-01-01
+version: "2023-01-01"
+nachtrag: "119"
 adopted: 2020-09-24
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_111-2020_09_24-2021_04_01-112.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_111-2020_09_24-2021_04_01-119.html"
 text: pdf
 ---
 
@@ -68,7 +68,7 @@ Die ZHAW bietet am Departement Architektur, Gestaltung und Bauingenieurwesen die
 
 **1**
 
-- 1\. 4. 21 - 112
+- 1\. 1. 23 - 119
 
 ### B. Zulassung zum Studium
 
@@ -184,7 +184,7 @@ Das Bachelordiplom wird erteilt, wenn a. das Assessment und das Hauptstudium bzw
 
 **3**
 
-- 1\. 4. 21 - 112
+- 1\. 1. 23 - 119
 
 <sup>2</sup> Die Studienleitung regelt,
 
@@ -194,15 +194,15 @@ Das Bachelordiplom wird erteilt, wenn a. das Assessment und das Hauptstudium bzw
 
 <sup>3</sup> Die überzähligen Wahlpflichtmodule werden nicht für die Berechnung der Abschlussnote herangezogen.
 
-#### § 18
-
 **Titel**
 
-Die Bachelorstudiengänge werden mit folgenden Titeln abgeschlossen:
+§ 18.[^17-1] Die Bachelorstudiengänge werden mit folgenden Titeln abgeschlossen:
 
-- a. Bachelor of Arts ZFH in Architektur,
+- a. Bachelor of Arts ZHAW in Architektur,
 
-- b. Bachelor of Science ZFH in Bauingenieurwesen.
+- b. Bachelor of Science ZHAW in Bauingenieurwesen.
+
+[^17-1]: Fassung gemäss B vom 2. Juni 2022 (OS 77, 490; ABl 2022-08-19). In Kraft seit 1. Januar 2023.
 
 ### F. Schluss- und Übergangsbestimmungen
 
@@ -224,10 +224,10 @@ Diese Studienordnung ersetzt die Studienordnung für die Bachelorstudiengänge A
 
 Der Anhang zur Studienordnung für die Bachelorstudiengänge Architektur und Bauingenieurwesen an der Zürcher Hochschule für Angewandte Wissenschaften wird weder in die Offizielle Gesetzessammlung (OS) noch in die Zürcher Loseblattsammlung (LS) aufgenommen. Er kann bei der
 
-Zürcher Hochschule für Angewandte Wissenschaften Ressort Lehre Gertrudstrasse 15 Postfach 8400 Winterthur
+Zürcher Hochschule für Angewandte Wissenschaften Ressort Bildung Gertrudstrasse 15 Postfach 8400 Winterthur
 
 bezogen oder unter (www.zhaw.ch) eingesehen werden.
 
 **5**
 
-- 1\. 4. 21 - 112
+- 1\. 1. 23 - 119
