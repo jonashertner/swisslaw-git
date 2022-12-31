@@ -1,160 +1,260 @@
 ---
 canton: GL
 number: I F/2
-title: Datenschutzverordnung
-short: DSV
+title: "Verordnung zum Gesetz über die Information der Öffentlichkeit, den Datenschutz und das Archivwesen"
+short: VIDAG
 language: de
-version: 2017-01-01
-valid_until: 2022-12-31
-version_adopted: 2016-08-30
+version: 2023-01-01
+version_adopted: 2022-11-08
 adopted: 2022-11-08
 in_force: 2023-01-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/I-F.2"
-pdf: "https://gesetze.gl.ch/api/de/versions/2268/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2411/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Datenschutzverordnung
+# Verordnung zum Gesetz über die Information der Öffentlichkeit, den Datenschutz und das Archivwesen
 
-(DSV)
+(VIDAG)
 
-Vom 20.05.2003 (Stand 01.01.2017)
+Vom 08.11.2022 (Stand 01.01.2023)
 
 Der Regierungsrat,
 
-gestützt auf die Artikel 8, 22 und 24 des Gesetzes vom 5. Mai 2002 über den Schutz von Personendaten (Datenschutzgesetz)[^ingress-1],
+gestützt auf Artikel 99 Absatz 1 Buchstabe b der Kantonsverfassung[^ingress-1],
 
-beschliesst:
+erlässt:
 
-[^ingress-1]: GS [I F/1](https://gesetze.gl.ch/data/I-F.1/de)
+[^ingress-1]: GS [I A/1/1](https://gesetze.gl.ch/data/I-A.1.1/de)
 
-## 1. Datensicherheit
+## 1. Allgemeine Bestimmungen
 
 #### Art. 1
 
-**Grundsätze**
+**Gegenstand**
 
-<sup>1</sup> Die organisatorischen und technischen Massnahmen zur Gewährung der Datensicherheit richten sich nach dem Zweck, der Art sowie dem Umfang der Datenbearbeitung und berücksichtigen die möglichen Gefährdungen der Persönlichkeitsrechte betroffener Personen sowie die wirtschaftliche Tragbarkeit.
+<sup>1</sup> Diese Verordnung regelt in Ergänzung zu den gesetzlichen Bestimmungen:
 
-<sup>2</sup> Sie sind in angemessenen Zeitabständen von den verantwortlichen Stellen auf ihre Tauglichkeit zu überprüfen und nötigenfalls durch bessere Mittel zu ersetzen. Der Regierungsrat kann Richtlinien für verbindlich erklären.
-
-<sup>3</sup> Die Wirksamkeit von Massnahmen der Datensicherheit muss jederzeit gewährleistet sein.
+- a. den Zugang zu amtlichen Dokumenten;
+- b. die Bearbeitung von Personendaten durch öffentliche Organe;
+- c. die Archivierung amtlicher Dokumente.
 
 #### Art. 2
 
-**Verantwortlichkeiten**
+**Geltungsbereich**
 
-<sup>1</sup> Die öffentlichen Organe sind für die Einhaltung der Vorschriften über die Datensicherheit selber verantwortlich.
+<sup>1</sup> Unter Vorbehalt besonderer Bestimmungen findet diese Verordnung auf sämtliche in Artikel 4 Absatz 1 IDAG definierten öffentlichen Organe Anwendung.
 
-<sup>2</sup> Sie beurteilen die Risiken, ermitteln die Schutzziele und realisieren die Schutzmassnahmen. Die kantonalen öffentlichen Organe sprechen sich dabei in Bezug auf elektronisch geführte Datensammlungen mit der Abteilung Informatik ab.
-
-<sup>3</sup> Wird eine Datensammlung von mehreren öffentlichen Organen gemeinsam angelegt oder genutzt, haben sie vorgängig die Verantwortlichkeiten mittels Vereinbarung zu regeln; vorbehalten bleibt Artikel 6 Absatz 1 des Datenschutzgesetzes. Können sie sich nicht einigen, unterbreiten die kantonalen öffentlichen Organe die Angelegenheit dem Regierungsrat oder der Verwaltungskommission der Gerichte zum Entscheid.
+## 2. Öffentlichkeitsprinzip
 
 #### Art. 3
 
-**Risikobeurteilung**
+**Virtuelles Dokument**
 
-<sup>1</sup> Die öffentlichen Organe prüfen für ihre Informatiksysteme und sonstigen Sammlungen von Personen- und anderen Daten jeweils Art und Umfang der Gefährdung, insbesondere durch zufällige oder unbefugte Zerstörung, durch zufälligen Verlust (insbesondere wegen technischer Mängel an Geräten und Gebäuden sowie infolge von Feuer und Elementarereignissen) sowie durch unbefugten Zugang, unbefugte Veränderung oder unbefugtes Bekanntgeben.
+<sup>1</sup> Als ein durch einen einfachen elektronischen Vorgang aus aufgezeichneten Informationen erstelltes amtliches Dokument (Art. 3 Abs. 3 IDAG) gilt eine Auswertung, die:
 
-<sup>2</sup> Sie berücksichtigen die Eintretenswahrscheinlichkeit des Risikos und beurteilen die drohenden Schadenfolgen.
+- a. sich entweder direkt mit Hilfe von oder indirekt durch einen Datenexport aus Informatikmitteln erzeugen lässt; und
+- b. keinen erheblichen Erstellungs- und Nachbearbeitungsaufwand erfordert.
 
 #### Art. 4
 
-**Schutzziele**
+**Behandlung des Zugangsgesuchs**
 
-<sup>1</sup> Entsprechend den Ergebnissen der Risikobeurteilung legen die öffentlichen Organe die Schutzziele fest, namentlich im Hinblick auf die Vertraulichkeit, Integrität und Verfügbarkeit.
+<sup>1</sup> Das öffentliche Organ, an welches das Gesuch gerichtet ist, leitet dieses zur Behandlung weiter, wenn es amtliche Dokumente betrifft, die sich im Besitz eines anderen öffentlichen Organs befinden.
 
 #### Art. 5
 
-**Massnahmen**
+**Präzisierung des Zugangsgesuchs**
 
-<sup>1</sup> Die Schutzmassnahmen können der Verkleinerung des Risikos oder der Milderung der Schadenfolgen dienen.
+<sup>1</sup> Das öffentliche Organ kann von der gesuchstellenden Person eine Präzisierung verlangen, falls es ihm nicht ohne unverhältnismässigen Aufwand möglich ist, zu bestimmen, auf welche amtlichen Dokumente sich das Gesuch bezieht.
 
-<sup>2</sup> Zur Gewährleistung der Datensicherheit können insbesondere die folgenden Massnahmen in Erwägung gezogen werden:
+<sup>2</sup> Unterbleibt die Präzisierung innert der angesetzten Frist, wird das Zugangsgesuch gegenstandslos.
 
-- a. Zugangskontrollen, indem nur berechtigte Personen freien Zugang zu Räumlichkeiten haben, in denen sich Datensammlungen oder Informatik-Geräte befinden;
-- b. Benutzerkontrollen, indem unbefugten Personen die Benutzung von Informatik-Geräten, mit denen Daten bearbeitet werden, verwehrt wird;
-- c. Datenträgerkontrollen, indem unbefugten Personen das Lesen, Kopieren, Verändern, Zerstören oder Entfernen von Datenträgern verwehrt wird;
-- d. Zugriffskontrollen gemäss Artikel 6;
-- e. Bearbeitungskontrollen, indem das unbefugte Bearbeiten (Lesen, Kopieren, Verändern, Löschen usw.) von Daten verhindert wird;
-- f. Eingabekontrollen, indem bei der Eingabe, Veränderung und Löschung von Daten die Identität der eingebenden Person und der Zeitpunkt festgehalten wird;
-- g. Transportkontrollen, indem beim Transport von Datenträgern oder bei der Bekanntgabe von Daten das unbefugte Lesen, Kopieren, Verändern oder Löschen verhindert wird;
-- h. Empfängeridentifikation, damit der Empfänger von Personendaten identifiziert werden kann;
-- i. Kontinuitätskontrollen, indem Vorkehrungen getroffen werden, damit bei einem Ausfall von Informatik-Systemen wichtige Funktionen möglichst rasch weiter erfüllt werden können;
-- k. Generationenfolgekontrollen, indem verhindert wird, dass Daten infolge technologischen Wandels bei den Betriebssystemen oder Programmen nicht mehr dauerhaft erschlossen und erhalten werden können.
+## 3. Datenschutz
+
+### 3.1. Begriffe
 
 #### Art. 6
 
-**Zugriffskontrollen**
+**Besonders schützenswerte Personendaten**
 
-<sup>1</sup> Es dürfen nur berechtigte Personen Zugriff auf die Informatik-Systeme und die Datensammlungen haben.
+<sup>1</sup> Als besonders schützenswerte Personendaten (Art. 5 Abs. 2 IDAG) gelten insbesondere:
 
-<sup>2</sup> Die Zugriffe von berechtigten Personen sollen auf diejenigen Personendaten beschränkt werden, die sie für die Erfüllung ihrer dienstlichen Aufgaben benötigen. Ist die Beschränkung des Zugriffs auf bestimmte Daten technisch nicht möglich oder wirtschaftlich nicht tragbar, müssen die Zugriffe bei elektronisch geführten Datensammlungen protokolliert werden.
-
-<sup>3</sup> Der Zugang zu Informatik-Systemen und Datensammlungen ist mindestens von der Benützung von Passwörtern abhängig zu machen, die periodisch zu wechseln und geheim zu halten sind. Bei Personalabgängen sind die entsprechenden Passwörter unverzüglich zu sperren.
+- a. Daten über religiöse, weltanschauliche, politische oder gewerkschaftliche Ansichten oder Tätigkeiten;
+- b. Daten über die Gesundheit, die Intimsphäre oder die Zugehörigkeit zu einer Rasse oder Ethnie;
+- c. genetische Daten;
+- d. biometrische Daten, die eine natürliche Person eindeutig identifizieren;
+- e. Daten über verwaltungs- und strafrechtliche Verfolgungen oder Sanktionen;
+- f. Daten über Massnahmen der sozialen Hilfe und des Kindes- und Erwachsenenschutzes.
 
 #### Art. 7
 
-**Sicherung**
+**Stammdaten**
 
-<sup>1</sup> Programme und Daten sind periodisch auf Datenträgern zu sichern sowie dezentralisiert und sicher aufzubewahren.
+<sup>1</sup> Als Stammdaten (Art. 5 Abs. 3 IDAG) gelten:
+
+- a. Name;
+- b. Vorname;
+- c. Adresse;
+- d. Geburtstag;
+- e. Heimatort.
+
+### 3.2. Datensicherheit
 
 #### Art. 8
 
-**Öffentliche Netze**
+**Verantwortlichkeiten**
 
-<sup>1</sup> Der Datenaustausch über öffentliche Netze soll wenn immer möglich verschlüsselt und über gesicherte Zugangspunkte erfolgen.
+<sup>1</sup> Die für die Einhaltung des Datenschutzes verantwortlichen öffentlichen Organe (Art. 32 IDAG) sind auch für die Einhaltung der Datensicherheit verantwortlich.
 
-<sup>2</sup> Zugriffe von aussen auf das kantonsinterne Netz müssen grundsätzlich über die bereitgestellten gesicherten Netzwerkübergänge erfolgen.
+<sup>2</sup> Ausgehend von den Schutzzielen beurteilen sie:
+
+- a. den Schutzbedarf;
+- b. die Risiken;
+- c. die zu ergreifenden technischen und organisatorischen Massnahmen und deren Angemessenheit.
+
+<sup>3</sup> Die öffentlichen Organe sorgen dafür, dass die Informatikmittel, welche sie zur Erfüllung ihrer gesetzlichen Aufgaben einsetzen, angemessen vor Missbrauch und Störung geschützt werden.
 
 #### Art. 9
 
-**Informatikarbeitsplätze ausserhalb der ordentlichen Amtsräumlichkeiten**
+**Schutzziele**
 
-<sup>1</sup> Die Zulässigkeit der Bearbeitung von Personendaten ausserhalb der Amtsräume, der Verwendung von Programmen des Arbeitgebers auf privaten Geräten sowie von privaten Programmen und privater Peripherie auf Geräten des Arbeitgebers ist in den Benützungsreglementen zu regeln.
+<sup>1</sup> Die öffentlichen Organe sorgen dafür, dass Sach- und Personendaten ihrem Schutzbedarf entsprechend:
 
-<sup>2</sup> Die öffentlichen Organe treffen geeignete Massnahmen, damit es bei Wartungsarbeiten durch Dritte nicht zu Verletzungen der Vertraulichkeit oder zu unerlaubten Bearbeitungen von Daten kommt. Wenn möglich sollen dabei speziell überwachte Accounts eingerichtet sowie anonymisierte oder pseudonymisierte Testdaten verwendet werden.
+- a. nur Berechtigten zugänglich sind (Vertraulichkeit);
+- b. bei Bedarf verfügbar sind (Verfügbarkeit);
+- c. nicht unberechtigt oder unbeabsichtigt verändert, vernichtet oder gelöscht werden (Integrität);
+- d. nachvollziehbar bearbeitet werden (Nachvollziehbarkeit).
 
 #### Art. 10
 
-**Instruktion des Personals**
+**Schutzbedarf**
 
-<sup>1</sup> Die Abteilung Informatik instruiert das Personal über die Regeln betreffend die Datensicherheit und über die möglichen Konsequenzen bei deren Missachtung.
+<sup>1</sup> Der Schutzbedarf orientiert sich insbesondere an:
 
-<sup>2</sup> Das Personal hat der Abteilung Informatik unterschriftlich zu bestätigen, dass es von den Benützungsregeln Kenntnis genommen hat.
+- a. der Art der bearbeiteten Sach- und Personendaten;
+- b. dem Risiko einer Persönlichkeits- oder Grundrechtsverletzung für die betroffenen Personen;
+- c. der Art der Datenbearbeitung, insbesondere bei Verwendung riskanter oder neuer Technologien, Mechanismen oder Verfahren;
+- d. der Anzahl von der Datenbearbeitung betroffener Personen;
+- e. dem Umfang der bearbeiteten Sach- und Personendaten.
+
+<sup>2</sup> Für den Einsatz von Informatikmitteln kann der zuständige Informatikdienst abhängig vom Schutzbedarf Sicherheitsstufen und Mindestanforderungen für die Datensicherheit festlegen.
 
 #### Art. 11
 
-**Kontrollaufgaben**
+**Risikobeurteilung**
 
-<sup>1</sup> Die öffentlichen Organe überprüfen periodisch die Einhaltung der Schutzmassnahmen.
+<sup>1</sup> Die öffentlichen Organe prüfen zusammen mit dem für sie zuständigen Informatikdienst ihre Informatikmittel und sonstigen Sammlungen von Sach- und Personendaten mit Blick auf die Eintretenswahrscheinlichkeit und die möglichen Folgen einer Verletzung der Datensicherheit.
 
-<sup>2</sup> Die kantonale Aufsichtsstelle sowie die Abteilung Informatik können in die Prüfungsberichte von kantonalen öffentlichen Organen Einsicht nehmen und die Durchführung von Überprüfungen anregen oder auf Gesuch hin vornehmen.
-
-<sup>3</sup> Die Abteilung Informatik ist verpflichtet, die technischen Veränderungen im Bereich der Datensicherheit zu verfolgen sowie die kantonalen öffentlichen Organe über Neuerungen zu orientieren und Verbesserungen der Schutzmassnahmen vorzuschlagen. Sie kann dem Regierungsrat oder der Verwaltungskommission der Gerichte den Erlass von Richtlinien oder Weisungen beantragen.
+<sup>2</sup> Sie ergreifen auf der Grundlage der Ergebnisse der Risikobeurteilung angemessene technische und organisatorische Massnahmen.
 
 #### Art. 12
 
-**Gemeinden**
+**Technische und organisatorische Massnahmen**
 
-<sup>1</sup> Ist eine Gemeinde an das Informatiknetz der kantonalen Verwaltung angeschlossen, sind die für die kantonalen öffentlichen Organe geltenden Vorschriften und Richtlinien über die Datensicherheit auch für sie verbindlich.
+<sup>1</sup> Zur Gewährleistung der Datensicherheit und zur Wahrung des Datenschutzes können insbesondere die folgenden technischen und organisatorischen Massnahmen ergriffen werden:
 
-## 2. Ausführende Bestimmungen zur Bearbeitung von Personendaten
+- a. Zugangsbeschränkungen: unbefugten Personen ist der Zugang zu Einrichtungen, in denen Sach- und Personendaten bearbeitet werden, zu verwehren;
+- b. Benutzerkontrollen: unbefugten Personen ist die Benutzung von Informatikmitteln, mit denen Sach- und Personendaten bearbeitet werden, zu verwehren;
+- c. Datenträgerkontrollen: unbefugten Personen ist das Lesen, Kopieren, Verändern oder Entfernen von Datenträgern zu verunmöglichen;
+- d. Zugriffsbeschränkungen: der Zugriff ist auf diejenigen Sach- und Personendaten zu beschränken, welche die berechtigten Personen für die Erfüllung ihrer Aufgabe benötigen;
+- e. Bearbeitungsbeschränkungen: das unbefugte Bearbeiten von Sach- und Personendaten wird verhindert;
+- f. Eingabekontrollen: bei der Verwendung von Informatikmitteln muss nachträglich überprüft werden können, welche Sach- und Personendaten zu welcher Zeit und von welcher Person eingegeben wurden;
+- g. Transportsicherung: bei der Bekanntgabe von Sach- und Personendaten sowie beim Transport von Datenträgern ist zu verhindern, dass die Daten unbefugt gelesen, kopiert, verändert oder gelöscht werden können;
+- h. Empfängeridentifikation: Datenempfänger, denen Sach- und Personendaten bekannt gegeben werden, müssen identifiziert werden können;
+- i. Kontinuitätssicherung: Vorkehrungen werden getroffen, damit bei einem Ausfall von Informatikmitteln wichtige Funktionen möglichst rasch weiter erfüllt werden können;
+- j. Generationenfolgesicherung: Vorkehrungen werden getroffen, dass Sach- und Personendaten infolge technologischen Wandels beim Einsatz von Informatikmitteln dauerhaft erhalten werden können.
 
-#### Art. 12a
+<sup>2</sup> Die zu ergreifenden Massnahmen sind angemessen, wenn sie sich eignen, dem Risiko einer Verletzung der Datensicherheit und des Datenschutzes effektiv zu begegnen.
 
-**Register**
+<sup>3</sup> Die öffentlichen Organe prüfen periodisch die Angemessenheit der in ihrer Organisation ergriffenen Sicherheitsmassnahmen und passen diese bei Bedarf an.
 
-<sup>1</sup> Die Aufsichtsstelle holt mindestens ein Mal pro Jahr Angaben über wesentliche Änderungen bei den von den öffentlichen Organen geführten Registern ein und führt das zentrale öffentliche Register nach.
+<sup>4</sup> Dabei tragen die öffentlichen Organe den Grundsätzen der Zweckmässigkeit, der Wirtschaftlichkeit, dem Stand der jeweiligen Technik und der Benutzerfreundlichkeit Rechnung.
 
 #### Art. 13
 
-**Videoüberwachung**
+**Protokollierung**
 
-<sup>1</sup> Die Videoüberwachung ist sachlich, räumlich und zeitlich auf das zum Erreichen des konkreten Zwecks Erforderliche zu beschränken.
+<sup>1</sup> Öffentliche Organe protokollieren die Bearbeitung von Sach- und Personendaten mit Informatikmitteln, wenn technische und organisatorische Massnahmen (Art. 12) zur Gewährleistung der Datensicherheit und zur Wahrung des Datenschutzes nicht genügen.
 
-<sup>2</sup> Die Aufsichtsstelle führt ein öffentlich zugängliches Verzeichnis von Videoüberwachungen.
+<sup>2</sup> Eine Protokollierung hat insbesondere dann zu erfolgen, wenn sonst nachträglich nicht festgestellt werden kann, ob die Sach- und Personendaten für diejenigen Zwecke bearbeitet wurden, für die sie erhoben oder bekannt gegeben worden sind.
+
+### 3.3. Informationspflicht
+
+#### Art. 14
+
+**Modalitäten der Informationspflicht**
+
+<sup>1</sup> Das öffentliche Organ teilt der betroffenen Person die Information über die Beschaffung von Personendaten (Art. 21 Abs. 1 IDAG) in präziser, verständlicher und leicht zugänglicher Form mit.
+
+<sup>2</sup> Ist die betroffene Person nicht zur Auskunft verpflichtet, weist das öffentliche Organ sie bei der Beschaffung von Personendaten auf die Freiwilligkeit hin.
+
+#### Art. 15
+
+**Ausnahmen von der Informationspflicht**
+
+<sup>1</sup> In Ergänzung zu Artikel 21 Absatz 3 IDAG entfällt die Informationspflicht auch, wenn:
+
+- a. Personendaten zum Zweck der Einhaltung der Datensicherheit bearbeitet werden;
+- b. Personendaten für archivische Zwecke bearbeitet werden.
+
+### 3.4. Datenbekanntgabe
+
+#### Art. 16
+
+**Schutzwürdige Interessen**
+
+<sup>1</sup> Verlangt die gesuchstellende Person eine Bekanntgabe von Personendaten gestützt auf Artikel 23 Absatz 1 Buchstabe d IDAG oder die Aufhebung einer Datensperre gestützt auf Artikel 40 Absatz 2 Buchstabe c IDAG, so hat sie konkret aufzuzeigen, wozu ihr die nachgefragten Informationen dienen sollen.
+
+<sup>2</sup> Ein allgemeines Interesse, das sich aus dem Umstand ergibt, dass zwischen den Personen eine rechtliche, wirtschaftliche oder persönliche Beziehung besteht, genügt für den Nachweis nicht.
+
+<sup>3</sup> Gesuchstellende Personen, welche die Bekanntgabe von Personendaten gestützt auf Artikel 23 Absatz 1 Buchstabe f IDAG verlangen, können den Nachweis der Gemeinnützigkeit anhand des Gütesiegels der Zertifizierungsstelle für gemeinnützige nicht gewinnorientierte Organisationen (Zewo-Gütesiegel) oder der entsprechenden Anerkennung durch die zuständigen Steuerbehörden erbringen.
+
+#### Art. 17
+
+**Angemessener Datenschutz**
+
+<sup>1</sup> Ein angemessener Datenschutz für die Bekanntgabe von Personendaten ins Ausland (Art. 24 Abs. 1 IDAG) liegt vor, wenn:
+
+- a. der Bund festgestellt hat, dass die Gesetzgebung des Empfängerlandes oder das internationale Organ einen angemessenen Schutz gewährleistet (Länderliste);
+- b. bei einem Nichteintrag auf der Länderliste des Bundes ein angemessener Datenschutz durch andere Mittel gewährleistet ist.
+
+<sup>2</sup> Die Fachstelle Datenschutz legt fest, welche anderen Mittel geeignet sind, einen angemessenen Datenschutz zu gewährleisten.
+
+<sup>3</sup> Die Bekanntgabe von Personendaten in ein Empfängerland oder an ein internationales Organ ohne angemessenen Datenschutz im Einzelfall (Art. 24 Abs. 2 IDAG) bleibt vorbehalten.
+
+### 3.5. Bearbeitung von Personendaten zu besonderen Zwecken
+
+#### Art. 18
+
+**Datenbearbeitung im Auftrag**
+
+<sup>1</sup> Das auftraggebende öffentliche Organ wählt seinen Auftragsdatenbearbeiter unter besonderer Berücksichtigung der Einhaltung der Datensicherheit und des Datenschutzes sorgfältig aus.
+
+<sup>2</sup> Vertraglich festzulegen sind insbesondere:
+
+- a. Gegenstand und Dauer des Auftrags;
+- b. Umfang, Art und Zweck der vorgesehenen Datenbearbeitung, die Art der Daten und der Kreis der betroffenen Personen;
+- c. die zur Einhaltung der Datensicherheit zu treffenden technischen und organisatorischen Massnahmen, deren Kontrolle und Dokumentation;
+- d. Durchsetzung von Ansprüchen betroffener Personen;
+- e. Verpflichtung zur Verschwiegenheit und Überbindung dieser Pflicht auf alle Datenbearbeitenden;
+- f. allfällige Berechtigung zur Vergabe von Unteraufträgen und damit einhergehende Verpflichtungen;
+- g. Kontrollrechte des auftraggebenden öffentlichen Organs und seiner Aufsichtsbehörden sowie entsprechende Duldungs- und Mitwirkungspflichten des Auftragsdatenbearbeiters;
+- h. Mitteilungspflicht des Auftragsdatenbearbeiters bei Verletzungen der Datensicherheit;
+- i. Weisungsbefugnisse des auftraggebenden öffentlichen Organs;
+- j. die Rückgabe überlassener Daten und Datenträger sowie die Vernichtung oder Löschung von beim Auftragsdatenbearbeiter gespeicherter Daten;
+- k. anwendbares Recht und Gerichtsstand.
+
+<sup>3</sup> Die Verpflichtung zur Einhaltung der Datensicherheit und des Datenschutzes kann mit der Vereinbarung einer Konventionalstrafe gesichert werden.
+
+#### Art. 19
+
+**Überwachung mit optisch-elektronischen Anlagen**
+
+<sup>1</sup> Die Überwachung mit optisch-elektronischen Anlagen ist sachlich, räumlich und zeitlich auf das zum Erreichen des konkreten Zwecks Erforderliche zu beschränken.
+
+<sup>2</sup> Die Fachstelle Datenschutz führt ein öffentlich zugängliches Verzeichnis von Videoüberwachungen.
 
 <sup>3</sup> Das Verzeichnis gibt insbesondere Auskunft über:
 
@@ -163,40 +263,312 @@ beschliesst:
 - c. die Art der Überwachung;
 - d. den Überwachungsperimeter;
 - e. die Anzahl eingesetzter Kameras;
-- f. das für die Überwachung verantwortliche Organ.
+- f. das für die Überwachung verantwortliche öffentliche Organ.
 
-#### Art. 14
+#### Art. 20
+
+**Datenbearbeitung zu Testzwecken**
+
+<sup>1</sup> Das öffentliche Organ legt der Fachstelle Datenschutz spätestens zwei Jahre nach der Aufnahme der Testphase einen Evaluationsbericht vor.
+
+<sup>2</sup> Es schlägt darin die Fortführung, Einstellung oder Überführung des Pilotbetriebs in den ordentlichen Betrieb vor.
+
+### 3.6. Aufbewahrung und Vernichtung
+
+#### Art. 21
 
 **Aufbewahrungsfristen**
 
-<sup>1</sup> Die öffentlichen Organe legen in Absprache mit den verantwortlichen Personen des zuständigen Archivs die Aufbewahrungsfristen fest, soweit sie nicht spezialrechtlich geregelt sind. Die Aufbewahrungsfrist begrenzt die Dauer, während der die Personendaten zu Beweis- und Sicherungszwecken im Archiv aufzubewahren sind.
+<sup>1</sup> Die Aufbewahrungsfristen bestimmen, für welche Dauer den öffentlichen Organen Sach- und Personendaten zur Erfüllung ihrer Aufgaben sowie zu Beweis- und Sicherungszwecken zur Verfügung stehen müssen, bevor sie dem zuständigen Archiv für archivische Zwecke angeboten werden müssen.
 
-<sup>2</sup> Nach Ablauf der Aufbewahrungsfrist entscheiden die verantwortlichen Personen des Archivs, ob die Personendaten vernichtet oder für die wissenschaftliche Forschung oder archivische Weiterverwendung weiterhin erhalten werden sollen.
+<sup>2</sup> Die öffentlichen Organe legen in Absprache mit dem zuständigen Archiv die minimalen Aufbewahrungsfristen für ihre Sach- und Personendaten fest.
 
-## 3. Kantonale Aufsichtsstelle, Gebühren, Inkrafttreten
+<sup>3</sup> Nach Ablauf der minimalen Aufbewahrungsfrist dürfen Sach- und Personendaten nur mit Zustimmung des zuständigen Archivs vernichtet oder gelöscht werden.
 
-#### Art. 15
+<sup>4</sup> Vom zuständigen Archiv nicht übernommene Sach- und Personendaten, die nicht weiterhin zur Aufgabenerfüllung des öffentlichen Organs oder zu Beweis- und Sicherungszwecken benötigt werden, müssen spätestens 30 Jahre nach Ablauf der minimalen Aufbewahrungsfrist vernichtet oder gelöscht werden.
 
-**Aufsichtsstelle**
+<sup>5</sup> Spezialgesetzliche Bestimmungen bleiben vorbehalten.
 
-<sup>1</sup> Die kantonale Aufsichtsstelle (Datenschutzbeauftragte oder Datenschutzbeauftragter) ist administrativ der Staatskanzlei angegliedert; in fachlicher Hinsicht erfüllt sie ihre Aufgaben unabhängig und selbstständig.
+### 3.7. Durchsetzung des Datenschutzes
 
-<sup>2</sup> Der Regierungsrat bezeichnet nach Rücksprache mit der Aufsichtsstelle deren Stellvertretung für Ausstandsfälle und längere Abwesenheiten. Vorbehalten bleibt eine anderweitige Stellvertetungs-Regelung für eine kantonsübergreifende Aufsichtsstelle.
+#### Art. 22
 
-#### Art. 16
+**Datenschutznachweis**
 
-**Gebühren**
+<sup>1</sup> Die Anforderungen an den Nachweis zur Einhaltung des Datenschutzes (Art. 32 Abs. 3 IDAG) richten sich nach den Vorgaben der Fachstelle Datenschutz. Er kann auch durch Zertifizierung erbracht werden. Diese richtet sich nach den Vorschriften des Bundes.
 
-<sup>1</sup> Soweit die Behandlung eines Gesuches unter die Gebührenpflicht im Sinne von Artikel 22 Absatz 2 des Datenschutzgesetzes fällt, erheben die kantonalen öffentlichen Organe 60 bis 80 Franken pro Stunde Aufwand.
+<sup>2</sup> Die öffentlichen Organe erbringen den Nachweis bis spätestens fünf Jahre nach Inkrafttreten dieser Verordnung. Sie können ihn einzeln oder zusammen mit anderen öffentlichen Organen erbringen.
 
-#### Art. 17
+<sup>3</sup> Die öffentlichen Organe haben den Nachweis des Datenschutzes regelmässig, spätestens aber alle fünf Jahre neu zu erbringen.
 
-**Schlussbestimmungen und Inkrafttreten**
+#### Art. 23
 
-<sup>1</sup> Die öffentlichen Organe realisieren die Sicherheitsmassnahmen innert drei Jahren ab Inkrafttreten des Gesetzes.
+**Pflicht zur Datenschutz-Folgenabschätzung**
 
-<sup>2</sup> Einfach umzusetzende und kostengünstige Sicherheitsmassnahmen, vor allem solche organisatorischer Natur, sind möglichst schon vorher zu realisieren.
+<sup>1</sup> Die Pflicht der öffentlichen Organe zur Durchführung einer Datenschutz-Folgenabschätzung (Art. 33 IDAG) ist auf die Einführung und Erweiterung von Informatikmitteln, mit denen Personendaten bearbeitet werden, beschränkt.
 
-<sup>3</sup> Diese Verordnung tritt auf den 1. Juli 2003 in Kraft.
+<sup>2</sup> Ein hohes Risiko für die Persönlichkeit und die Grundrechte der betroffenen Personen nach Artikel 33 Absatz 1 IDAG ist voraussichtlich gegeben, wenn:
 
-SBE VIII/8 467
+- a. die eingesetzten Informatikmittel Profiling ermöglichen;
+- b. besonders schützenswerte Personendaten bearbeitet werden;
+- c. Personendaten von einer Vielzahl betroffener Personen bearbeitet werden;
+- d. Bearbeitungen von Personendaten durch Auftragsdatenbearbeiter durchgeführt werden;
+- e. zwei oder mehrere öffentliche Organe Personendaten gemeinsam bearbeiten.
+
+<sup>3</sup> Ergänzend zu Artikel 33 Absatz 3 IDAG können die öffentlichen Organe auf die Datenschutz-Folgenabschätzung verzichten, sofern und soweit die Datenbearbeitungen bereits in den gesetzlichen Grundlagen ausdrücklich geregelt werden.
+
+<sup>4</sup> Die öffentlichen Organe teilen der Fachstelle Datenschutz das dokumentierte Ergebnis der Datenschutz-Folgenabschätzung unabhängig davon mit, ob die Einführung oder Erweiterung von Informatikmitteln eine Vorab-Konsultation bedingt oder nicht.
+
+#### Art. 24
+
+**Anforderungen an die Datenschutz-Folgenabschätzung**
+
+<sup>1</sup> Die Datenschutz-Folgenabschätzung benennt mindestens:
+
+- a. das verantwortliche öffentliche Organ, die rechtliche Grundlage, den Zweck und eine systematische Beschreibung der geplanten Datenbearbeitungen, insbesondere in Bezug auf die zu bearbeitenden Personendaten;
+- b. eine Bewertung der Notwendigkeit und Verhältnismässigkeit der Datenbearbeitungen in Bezug auf den Zweck, wobei potenziell mildere Mittel zu erörtern sind;
+- c. eine Bewertung der Risiken für die Persönlichkeit und die Grundrechte der betroffenen Personen;
+- d. die technischen und organisatorischen Massnahmen, die zur Bewältigung der Risiken geplant sind, insbesondere in Bezug auf Datenbearbeitungen im Auftrag.
+
+#### Art. 25
+
+**Vorab-Konsultation**
+
+<sup>1</sup> Zusammen mit dem Gesuch um Vorab-Konsultation reicht das öffentliche Organ das dokumentierte Ergebnis der Datenschutz-Folgenabschätzung ein.
+
+<sup>2</sup> Die Konsultation ist abgeschlossen, wenn die Fachstelle Datenschutz die Anwendung für unbedenklich erklärt oder eine Empfehlung (Art. 58 Abs. 3 IDAG) abgegeben hat.
+
+<sup>3</sup> Das öffentliche Organ führt die geplanten Datenbearbeitungen erst nach Abschluss der Konsultation durch.
+
+#### Art. 26
+
+**Öffentliche Bekanntmachung von Datensicherheitsverletzungen**
+
+<sup>1</sup> Erscheint eine individuelle Information über Verletzungen der Datensicherheit aufgrund der Vielzahl betroffener Personen als unverhältnismässig (Art. 35 Abs. 5 Bst. b IDAG), kann die Information durch öffentliche Bekanntmachung in geeigneter Form erfolgen.
+
+### 3.8. Rechte der Betroffenen
+
+#### Art. 27
+
+**Bestätigung und Aufhebung der Datensperre**
+
+<sup>1</sup> Die Datensperre ist der betroffenen Person in geeigneter Form zu bestätigen.
+
+<sup>2</sup> Das Gesuch um Aufhebung der Datensperre ist schriftlich oder elektronisch zu stellen.
+
+### 3.9. Aufsichts- und Kontrollorgan
+
+#### Art. 28
+
+**Stellvertretung**
+
+<sup>1</sup> Der Regierungsrat bezeichnet nach Rücksprache mit der Leitung der Fachstelle Datenschutz deren Stellvertretung für Ausstandsfälle und längere Abwesenheiten.
+
+<sup>2</sup> Vorbehalten bleibt eine anderweitige Stellvertretungsregelung für eine kantonsübergreifende Aufsichtsstelle (Art. 59 IDAG).
+
+#### Art. 29
+
+**Stellungnahmerecht**
+
+<sup>1</sup> Die öffentlichen Organe unterbreiten der Fachstelle Datenschutz Rechtsetzungsprojekte und beabsichtigte Massnahmen, welche für den Datenschutz erheblich sind (Art. 57 Abs. 1 Bst. c IDAG), unaufgefordert zur Stellungnahme.
+
+#### Art. 30
+
+**Anzeige**
+
+<sup>1</sup> Die Fachstelle Datenschutz wird auf eine Anzeige hin aufsichtsrechtlich tätig, wenn sich daraus Tatsachen ergeben, die ein Einschreiten im öffentlichen Interesse erfordern.
+
+<sup>2</sup> Liegen hingegen Tatsachen vor, deren Behandlung nicht im öffentlichen Interesse liegt, so verweist die Fachstelle Datenschutz die anzeigende Person auf den Weg des Individualrechtsschutzes.
+
+<sup>3</sup> Die Möglichkeit einer Vermittlung (Art. 57 Abs. 1 Bst. e IDAG) bleibt vorbehalten.
+
+#### Art. 31
+
+**Fristansetzung**
+
+<sup>1</sup> Stellt die Fachstelle Datenschutz fest, dass Vorschriften über den Datenschutz verletzt werden und gibt sie eine Empfehlung ab, so setzt sie dem öffentlichen Organ eine angemessene Frist, um zu erklären, ob es der Empfehlung folgt oder nicht.
+
+## 4. Archivwesen
+
+### 4.1. Aktenführung und Aktenaufbewahrung
+
+#### Art. 32
+
+**Aktenführung**
+
+<sup>1</sup> Die öffentlichen Organe führen die amtlichen Dokumente vollständig, systematisch und nachvollziehbar.
+
+<sup>2</sup> Die Aktenführung erfolgt nach einem Ordnungssystem und in der Regel in digitaler Form.
+
+<sup>3</sup> Das Ordnungssystem bildet Grundlage für die spätere Archivierung. Änderungen des Ordnungssystems dürfen nur in Zusammenarbeit mit dem zuständigen Archiv erfolgen. Es ist bei der Planung des Einsatzes neuer Informatikmittel, in welchen amtliche Dokumente abgelegt werden, frühzeitig mit einzubeziehen und kann eine Überarbeitung des Ordnungssystems verlangen.
+
+<sup>4</sup> Jedes öffentliche Organ bezeichnet eine für das Ordnungssystem und die weitere Organisation der Ablage verantwortliche Person.
+
+<sup>5</sup> Die Digitalisierung physischer amtlicher Dokumente richtet sich nach den Vorgaben des zuständigen Archivs.
+
+#### Art. 33
+
+**Aktenaufbewahrung**
+
+<sup>1</sup> Die öffentlichen Organe bewahren ihre amtlichen Dokumente sachgerecht und sicher auf.
+
+<sup>2</sup> Sie schützen sie vor Missbrauch, Beschädigung und Verlust. Dabei achten sie auf die Verwendung alterungsbeständiger Informationsträger und von Hilfsmitteln, die Gewähr für eine ausreichende Lebensdauer bieten.
+
+<sup>3</sup> Sie sind für ihre amtlichen Dokumente bis zum Ablauf der Aufbewahrungsfristen gemäss Artikel 21 Absatz 2 bzw. bis zu ihrer Vernichtung oder Löschung verantwortlich.
+
+#### Art. 34
+
+**Gemeinsamer Datenbestand**
+
+<sup>1</sup> Bearbeiten mehrere öffentliche Organe amtliche Dokumente gemeinsam, so regeln sie die Verantwortlichkeit zur Aktenführung und Aktenaufbewahrung.
+
+### 4.2. Archivierung
+
+#### Art. 35
+
+**Anbietepflicht**
+
+<sup>1</sup> Die öffentlichen Organe bieten ihre amtlichen Dokumente dem zuständigen Archiv regelmässig zur Übernahme an, spätestens aber nach Ablauf der Aufbewahrungsfristen gemäss Artikel 21 Absatz 2.
+
+<sup>2</sup> Bei Auflösung eines öffentlichen Organs oder bei dessen Überführung ins Zivilrecht sind seine amtlichen Dokumente in Absprache mit dem Rechtsnachfolger dem zuständigen Archiv anzubieten.
+
+#### Art. 36
+
+**Bewertung und Übernahme**
+
+<sup>1</sup> Das zuständige Archiv bewertet die ihm angebotenen amtlichen Dokumente hinsichtlich ihrer Archivwürdigkeit. Dabei hört es das anbietende öffentliche Organ an.
+
+<sup>2</sup> Archivwürdig sind amtliche Dokumente insbesondere dann, wenn sie von dauerndem Wert sind für:
+
+- a. die Dokumentierung der Organisation und der Tätigkeit des öffentlichen Organs;
+- b. die Sicherung berechtigter Interessen betroffener Personen oder Dritter;
+- c. das Verständnis der Gegenwart und der Geschichte;
+- d. die Gesetzgebung;
+- e. die Verwaltungstätigkeit oder die Rechtsprechung;
+- f. die Wissenschaft und die Forschung.
+
+<sup>3</sup> Das zuständige Archiv entscheidet aufgrund seiner Bewertung abschliessend über die Übernahme von amtlichen Dokumenten ins Archivgut.
+
+<sup>4</sup> Mit der Übernahme der amtlichen Dokumente ins Archivgut geht die Verantwortlichkeit an das zuständige Archiv über.
+
+#### Art. 37
+
+**Ablieferung**
+
+<sup>1</sup> Die öffentlichen Organe liefern die zur Übernahme bestimmten amtlichen Dokumente dem zuständigen Archiv in auf- und vorbereitetem Zustand und mit einem Ablieferungsverzeichnis versehen ab.
+
+<sup>2</sup> Das zuständige Archiv legt die Anforderungen an das Ablieferungsverzeichnis sowie an die Auf- und Vorbereitung fest, insbesondere hinsichtlich:
+
+- a. Verpackung, Beschriftung und Transport;
+- b. Standards für Ablieferungspakete und Datentransfer.
+
+<sup>3</sup> Es kann hierfür mit den abliefernden öffentlichen Organen Ablieferungsvereinbarungen abschliessen.
+
+#### Art. 38
+
+**Sicherung des Archivguts**
+
+<sup>1</sup> Die von den zuständigen Archiven übernommenen und als archivwürdig bewerteten amtlichen Dokumente bilden das Archivgut.
+
+<sup>2</sup> Das zuständige Archiv sorgt für die dauerhafte Erhaltung sowie Nutzbarkeit des Archivguts und schützt es vor unbefugter Kenntnisnahme, Vernichtung oder Löschung.
+
+### 4.3. Zugang zum Archivgut
+
+#### Art. 39
+
+**Ausleihe**
+
+<sup>1</sup> Das zuständige Archiv kann Archivgut an das abliefernde öffentliche Organ oder zu Ausstellungszwecken ausleihen.
+
+<sup>2</sup> Sofern der Schutz des Archivguts es erfordert, kann das zuständige Archiv anstelle von Originalen Kopien der amtlichen Dokumente zur Verfügung stellen.
+
+#### Art. 40
+
+**Überwiegendes privates Interesse**
+
+<sup>1</sup> Ein überwiegendes privates Interesse nach Artikel 46 Absatz 2 Buchstabe c IDAG liegt in der Regel dann vor, wenn eine Person:
+
+- a. Zugang zu Informationen über sich selbst verlangt;
+- b. Zugang zu Informationen über eine Person des öffentlichen Lebens verlangt, sofern diese Informationen mit dem Wirken dieser Person in der Öffentlichkeit zu tun haben.
+
+#### Art. 41
+
+**Zugang über das Internet**
+
+<sup>1</sup> Das zuständige Archiv kann Verzeichnisdaten schon während der Schutzfrist über das Internet zugänglich machen, sofern sie keine schützenswerten Sach- und Personendaten enthalten.
+
+<sup>2</sup> Nach Ablauf der Schutzfrist kann es elektronische Fassungen von amtlichen Dokumenten über das Internet zugänglich machen.
+
+### 4.4. Bestand und Nutzung des Landesarchivs
+
+#### Art. 42
+
+**Archivgut**
+
+<sup>1</sup> Das Landesarchiv ist das zentrale Archiv des Kantons und seiner Rechtsvorgänger.
+
+<sup>2</sup> Es bewahrt die archivwürdigen amtlichen Dokumente folgender öffentlicher Organe sicher und dauerhaft auf:
+
+- a. der Landsgemeinde;
+- b. des Landrates;
+- c. des Regierungsrates;
+- d. der gerichtlichen Behörden;
+- e. der kantonalen Kommissionen;
+- f. der kantonalen Verwaltung;
+- g. der kantonalen öffentlich-rechtlichen Anstalten und Stiftungen;
+- h. der interkantonalen Organisationen, Einrichtungen und Institutionen, an denen der Kanton beteiligt ist, soweit für diese glarnerisches Recht anwendbar ist;
+- i. weiterer Personen, Organisationen und Institutionen des öffentlichen und privaten Rechts, die öffentliche Aufgaben des Kantons erfüllen, mit Ausnahme der Glarner Kantonalbank.
+
+<sup>3</sup> Es kann Archivgut Dritter übernehmen, die keine öffentlichen Aufgaben des Kantons erfüllen.
+
+#### Art. 43
+
+**Erschliessung und Nutzung**
+
+<sup>1</sup> Das Landesarchiv sorgt für eine angemessene Erschliessung des Archivgutes.
+
+<sup>2</sup> Es erlässt eine Ordnung über die Nutzung seiner Archivalien, Räume und Einrichtungen.
+
+<sup>3</sup> Es kann Personen, die in schwerwiegender Weise gegen die Nutzungsordnung verstossen, wegweisen und ihnen den Zugang zum Landesarchiv verweigern.
+
+### 4.5. Weitere Aufgaben und Befugnisse des Landesarchivs
+
+#### Art. 44
+
+**Aufgaben**
+
+<sup>1</sup> Das Landesarchiv:
+
+- a. berät die kantonalen öffentlichen Organe bei der Organisation ihrer Aktenführung und Aktenaufbewahrung sowie in Bezug auf die Aufbereitung und Ablieferung von amtlichen Dokumenten;
+- b. begleitet Projekte der elektronischen Aktenführung und Aktenaufbewahrung der kantonalen öffentlichen Organe;
+- c. berät die Gemeinden in Archivfragen.
+
+#### Art. 45
+
+**Befugnisse**
+
+<sup>1</sup> Das Landesarchiv kann sich an der Erforschung und Veröffentlichung seines Archivgutes beteiligen.
+
+<sup>2</sup> Wer ein Werk veröffentlicht, das in wesentlichen Teilen auf der Nutzung von Archivgut des Landesarchivs beruht, hat diesem ein unentgeltliches Belegexemplar abzuliefern.
+
+## 5. Ausnahmen von der Kostenlosigkeit
+
+#### Art. 46
+
+**Information über Kosten**
+
+<sup>1</sup> Das öffentliche Organ informiert die gesuchstellende Person unverzüglich über eine mögliche Gebührenpflicht, wenn Kopien angefertigt werden oder die Behandlung von aus dem IDAG geltend gemachten Rechten und Ansprüchen ein aufwendiges Verfahren verursacht.
+
+#### Art. 47
+
+**Aufwendiges Verfahren**
+
+<sup>1</sup> Ein aufwendiges Verfahren (Art. 54 Abs. 2 Bst. a IDAG) liegt vor, wenn die Behandlung der aus dem IDAG geltend gemachten Rechte und Ansprüche mehr als drei Stunden in Anspruch nimmt.
+
+#### Art. 48
+
+**Missbräuchliche Erneuerung eines Gesuchs**
+
+<sup>1</sup> Eine angemessene Gebühr kann ebenfalls erhoben werden, wenn die gesuchstellende Person wiederholt ohne schutzwürdiges Interesse oder in rechtsmissbräuchlicher Art und Weise die gleichen Begehren bei öffentlichen Organen stellt.
+
+SBE 2022 48
