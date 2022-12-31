@@ -4,11 +4,11 @@ title: Ordonnance du 9 juin 2006 sur les équipes de surveillance des installati
 short: OESN
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/378"
 language: fr
-version: 2009-01-01
+version: 2023-01-01
 adopted: 2006-06-09
 in_force: 2006-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/378/20090101/fr/xml/fedlex-data-admin-ch-eli-cc-2006-378-20090101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/378/20090101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/378/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2006-378-20230101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/378/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/378/20090101/fr"
 
 (OESN)
 
-du 9 juin 2006 (Etat le 1<sup>er</sup> janvier 2009)
+du 9 juin 2006 (État le 1<sup>er</sup> janvier 2023)
 
 Le Conseil fédéral suisse,
 
@@ -152,7 +152,7 @@ Les armes à feu ne peuvent être utilisées que:
 
 <sup>8</sup> Les armes utilisées doivent être mise en sécurité pour les fins de l’enquête. On accordera l’attention nécessaire à la protection des traces.
 
-[^8-1]: Nouvelle teneur selon le ch. 15 de l’annexe à l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^8-1]: Nouvelle teneur selon l’annexe ch. 15 de l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 9
 
@@ -162,13 +162,13 @@ Les armes à feu ne peuvent être utilisées que:
 
 <sup>2</sup> L’IFSN détermine la zone extérieure importante pour la sûreté après avoir consulté la police et le titulaire de l’autorisation de construire ou d’exploiter l’installation nucléaire (titulaire de l’autorisation).[^9-1]
 
-[^9-1]: Nouvelle teneur selon le ch. 15 de l’annexe à l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^9-1]: Nouvelle teneur selon l’annexe ch. 15 de l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
-## Section 3 Equipement et armement des équipes de surveillance
+## Section 3 Équipement et armement des équipes de surveillance
 
 #### Art. 10
 
-**Equipement et armement**
+**Équipement et armement**
 
 <sup>1</sup> Les membres des équipes de surveillance accomplissent leur service en uniforme. Ils doivent être clairement reconnaissables en tant que membre de l’équipe de surveillance.
 
@@ -176,7 +176,7 @@ Les armes à feu ne peuvent être utilisées que:
 
 <sup>3</sup> L’acquisition d’armes de type nouveau doit être préalablement annoncée à l’IFSN.[^10-1]
 
-[^10-1]: Nouvelle teneur selon le ch. 15 de l’annexe à l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^10-1]: Nouvelle teneur selon l’annexe ch. 15 de l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 11
 
@@ -188,7 +188,7 @@ Les armes à feu ne peuvent être utilisées que:
 
 <sup>3</sup> L’acquisition d’instruments de type nouveau pour le service d’ordre doit être préalablement annoncée à l’IFSN.[^11-1]
 
-[^11-1]: Nouvelle teneur selon le ch. 15 de l’annexe à l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^11-1]: Nouvelle teneur selon l’annexe ch. 15 de l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 12
 
@@ -212,7 +212,7 @@ Les armes à feu ne peuvent être utilisées que:
 
 <sup>4</sup> Pour chaque installation nucléaire, l’IFSN fixe le nombre minimal de membres dont doit être composée une équipe en service.[^13-1]
 
-[^13-1]: Nouvelle teneur selon le ch. 15 de l’annexe à l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^13-1]: Nouvelle teneur selon l’annexe ch. 15 de l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 14
 
@@ -224,7 +224,7 @@ Les armes à feu ne peuvent être utilisées que:
 
 <sup>3</sup> L’IFSN est chargée de régler dans une directive l’intervention des gardes externes.[^14-1]
 
-[^14-1]: Nouvelle teneur selon le ch. 15 de l’annexe à l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^14-1]: Nouvelle teneur selon l’annexe ch. 15 de l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 ## Section 5 Qualifications et aptitudes requises des membres des équipes de surveillance
 
@@ -258,7 +258,7 @@ Le surveillant doit disposer des qualifications suivantes:
 <sup>4</sup> L’IFSN décide au cas par cas de l’équivalence des diplômes étrangers de fin d’études.[^15-2]
 
 [^15-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^15-2]: Nouvelle teneur selon le ch. 15 de l’annexe à l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^15-2]: Nouvelle teneur selon l’annexe ch. 15 de l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 16
 
@@ -275,22 +275,24 @@ Le surveillant doit disposer des qualifications suivantes:
 <sup>5</sup> L’IFSN peut consulter lesdits documents.[^16-2]
 
 [^16-1]: [RS 732.143.1](https://fedlex.data.admin.ch/eli/cc/2006/377)
-[^16-2]: Nouvelle teneur selon le ch. 15 de l’annexe à l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^16-2]: Nouvelle teneur selon l’annexe ch. 15 de l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 17
 
-**Etat de santé**
+**État de santé**[^17-1]
 
 <sup>1</sup> L’examen de santé vise à vérifier que les exigences requises en matière de santé pour exercer l’activité de surveillant, telles qu’une faculté de perception suffisante, la capacité de travailler en horaire continu et l’absence de dépendance envers des substances psychotropes, sont remplies.
 
-<sup>2</sup> Un médecin-conseil de la CNA examine chaque année l’état de santé des membres de l’équipe de surveillance dans le cadre d’un examen préventif de médecine du travail. Il transmet le résultat de l’examen à la CNA.
+<sup>2</sup> Un médecin examine chaque année l’état de santé des membres de l’équipe de surveillance. S’il n’est pas médecin du travail, il transmet le résultat des examens à un tel spécialiste.
 
-<sup>3</sup> La CNA juge de l’état de santé des membres de l’équipe de surveillance et notifie par écrit le résultat de sa décision au titulaire de l’autorisation. Celui-ci intègre la notification dans ses documents au sens de l’art. 37 OQPN[^17-1].
+<sup>3</sup> Le médecin du travail évalue l’état de santé des membres de l’équipe de surveillance sur la base des examens réalisés. Il transmet l’évaluation au titulaire de l’autorisation.
 
-<sup>4</sup> L’IFSN peut consulter lesdits documents.[^17-2]
+<sup>4</sup> Le titulaire de l’autorisation intègre l’évaluation médicale dans ses documents, conformément à l’art. 37 OQPN[^17-2]. Il juge sur cette base de l’état de santé des membres de l’équipe de surveillance et consigne le résultat dans ses documents.
 
-[^17-1]: [RS 732.143.1](https://fedlex.data.admin.ch/eli/cc/2006/377)
-[^17-2]: Nouvelle teneur selon le ch. 15 de l’annexe à l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+<sup>5</sup> L’IFSN peut consulter lesdits documents.
+
+[^17-1]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 806](https://fedlex.data.admin.ch/eli/oc/2022/806)).
+[^17-2]: [RS 732.143.1](https://fedlex.data.admin.ch/eli/cc/2006/377)
 
 ## Section 6 Protections des données
 
@@ -312,10 +314,10 @@ Il traite les données personnelles ci-après:
 
 <sup>3</sup> Il est chargé de régler dans une directive les mesures de protection des données électroniques contre la main-mise par des tiers.
 
-<sup>4</sup> Les données personnelles sont conservées en lieu sûr durant dix ans à compter du jour où l’intéressé quitte son poste, abandonne sa fonction ou termine son mandat. A l’issue de ce délai, elles sont détruites dans la mesure où elles ne sont pas reprises par les archives fédérales.
+<sup>4</sup> Les données personnelles sont conservées en lieu sûr durant dix ans à compter du jour où l’intéressé quitte son poste, abandonne sa fonction ou termine son mandat. À l’issue de ce délai, elles sont détruites dans la mesure où elles ne sont pas reprises par les archives fédérales.
 
 [^18-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^18-2]: Nouvelle teneur selon le ch. 15 de l’annexe à l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^18-2]: Nouvelle teneur selon l’annexe ch. 15 de l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 ## Section 7 Collaboration avec les cantons
 
@@ -356,7 +358,7 @@ Les équipes de surveillance peuvent disposer de l’armement ci-après:
 - – spray irritant;
 - – autres armes non létales.
 
-## 2. Equipement
+## 2. Équipement
 
 Les équipes de surveillance peuvent disposer en particulier de l’équipement ci-après:
 

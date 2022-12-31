@@ -4,11 +4,11 @@ title: Ordinanza del 9 giugno 2006 concernente i corpi di guardia degli impianti
 short: OCGIN
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/378"
 language: it
-version: 2009-01-01
+version: 2023-01-01
 adopted: 2006-06-09
 in_force: 2006-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/378/20090101/it/xml/fedlex-data-admin-ch-eli-cc-2006-378-20090101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/378/20090101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/378/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2006-378-20230101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/378/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/378/20090101/it"
 
 (OCGIN)
 
-del 9 giugno 2006 (Stato 1° gennaio 2009)
+del 9 giugno 2006 (Stato 1° gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -152,7 +152,7 @@ Le armi da fuoco possono essere utilizzate soltanto se:
 
 <sup>8</sup> Le armi impiegate devono essere requisite ai fini delle indagini. Si devono adottare i provvedimenti necessari a proteggere le tracce.
 
-[^8-1]: Nuovo testo giusta il n. 15 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RS 732.21](https://fedlex.data.admin.ch/eli/cc/2008/794)).
+[^8-1]: Nuovo testo giusta il n. 15 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 9
 
@@ -162,7 +162,7 @@ Le armi da fuoco possono essere utilizzate soltanto se:
 
 <sup>2</sup> L’IFSN, sentiti la polizia e il titolare della licenza di costruzione o d’esercizio per l’impianto nucleare (titolare della licenza), delimita la zona rilevante per la sicurezza esterna.[^9-1]
 
-[^9-1]: Nuovo testo giusta il n. 15 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RS 732.21](https://fedlex.data.admin.ch/eli/cc/2008/794)).
+[^9-1]: Nuovo testo giusta il n. 15 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 (RU **2008**5747).
 
 ## Sezione 3: Equipaggiamento e armamento dei corpi di guardia
 
@@ -176,7 +176,7 @@ Le armi da fuoco possono essere utilizzate soltanto se:
 
 <sup>3</sup> L’acquisizione di nuovi tipi di arma deve essere preventivamente annunciata all’IFSN.[^10-1]
 
-[^10-1]: Nuovo testo giusta il n. 15 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RS 732.21](https://fedlex.data.admin.ch/eli/cc/2008/794)).
+[^10-1]: Nuovo testo giusta il n. 15 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 (RU **2008**5747).
 
 #### Art. 11
 
@@ -188,7 +188,7 @@ Le armi da fuoco possono essere utilizzate soltanto se:
 
 <sup>3</sup> L’acquisizione di nuove tipologie di mezzi da servizio d’ordine deve essere preventivamente annunciata all’IFSN.[^11-1]
 
-[^11-1]: Nuovo testo giusta il n. 15 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RS 732.21](https://fedlex.data.admin.ch/eli/cc/2008/794)).
+[^11-1]: Nuovo testo giusta il n. 15 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 (RU **2008**5747).
 
 #### Art. 12
 
@@ -212,7 +212,7 @@ Le armi da fuoco possono essere utilizzate soltanto se:
 
 <sup>4</sup> L’IFSN stabilisce per ciascun impianto nucleare l’effettivo minimo di guardie per turno.[^13-1]
 
-[^13-1]: Nuovo testo giusta il n. 15 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RS 732.21](https://fedlex.data.admin.ch/eli/cc/2008/794)).
+[^13-1]: Nuovo testo giusta il n. 15 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 14
 
@@ -224,7 +224,7 @@ Le armi da fuoco possono essere utilizzate soltanto se:
 
 <sup>3</sup> L’IFSN è incaricato di disciplinare mediante direttiva l’impiego di personale di guardia esterno.[^14-1]
 
-[^14-1]: Nuovo testo giusta il n. 15 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RS 732.21](https://fedlex.data.admin.ch/eli/cc/2008/794)).
+[^14-1]: Nuovo testo giusta il n. 15 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 ## Sezione 5: Qualifiche e idoneità delle guardie
 
@@ -258,7 +258,7 @@ Le guardie devono possedere le seguenti qualifiche:
 <sup>4</sup> L’IFSN decide caso per caso in merito all’equipollenza dei certificati di fine formazione esteri.[^15-2]
 
 [^15-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^15-2]: Nuovo testo giusta il n. 15 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RS 732.21](https://fedlex.data.admin.ch/eli/cc/2008/794)).
+[^15-2]: Nuovo testo giusta il n. 15 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 16
 
@@ -275,22 +275,24 @@ Le guardie devono possedere le seguenti qualifiche:
 <sup>5</sup> L’IFSN può consultare la documentazione.[^16-2]
 
 [^16-1]: [RS 732.143.1](https://fedlex.data.admin.ch/eli/cc/2006/377)
-[^16-2]: Nuovo testo giusta il n. 15 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RS 732.21](https://fedlex.data.admin.ch/eli/cc/2008/794)).
+[^16-2]: Nuovo testo giusta il n. 15 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 17
 
-**Idoneità psicofisica**
+**Idoneità psicofisica**[^17-1]
 
 <sup>1</sup> La verifica dell’idoneità psicofisica serve ad accertare che il candidato soddisfi i requisiti dal profilo dello stato di salute, quali una capacità percettiva sufficiente, abilità al lavoro a turni e nessuna dipendenza da sostanze psicotrope.
 
-<sup>2</sup> Un medico di fiducia della SUVA verifica annualmente l’idoneità psicofisica dei membri dei corpi di guardia nell’ambito degli esami preventivi di medicina del lavoro e comunica i risultati alla SUVA.
+<sup>2</sup> Un medico esamina ogni anno l’idoneità psicofisica dei membri dei corpi di guardia. Se non si tratta di uno specialista in medicina del lavoro, il medico trasmette il risultato dell’esame a uno specialista di tale settore.
 
-<sup>3</sup> La SUVA decide in merito all’idoneità psicofisica. La decisione è comunicata in forma scritta al titolare della licenza, che provvede a inserirla nella documentazione conformemente all’articolo 37 OEPIN[^17-1].
+<sup>3</sup> Lo specialista in medicina del lavoro valuta, sulla base degli esami effettuati, l’idoneità psicofisica dei membri dei corpi di guardia. Esso trasmette tale valutazione al titolare della licenza.
 
-<sup>4</sup> L’IFSN può consultare la documentazione.[^17-2]
+<sup>4</sup> Il titolare della licenza integra la valutazione di medicina del lavoro nella documentazione di cui all’articolo 37 OEPIN[^17-2]. Fondandosi su di essa, decide in merito all’idoneità psicofisica dei membri dei corpi di guardia e registra il risultato nella documentazione.
 
-[^17-1]: [RS 732.143.1](https://fedlex.data.admin.ch/eli/cc/2006/377)
-[^17-2]: Nuovo testo giusta il n. 15 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RS 732.21](https://fedlex.data.admin.ch/eli/cc/2008/794)).
+<sup>5</sup> L’IFSN può consultare la documentazione.
+
+[^17-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 806](https://fedlex.data.admin.ch/eli/oc/2022/806)).
+[^17-2]: [RS 732.143.1](https://fedlex.data.admin.ch/eli/cc/2006/377)
 
 ## Sezione 6: Protezione dei dati
 
@@ -315,7 +317,7 @@ L’IFSN tratta i seguenti dati personali:
 <sup>4</sup> Dopo che un membro dei corpi di guardia abbandona il posto o la funzione, oppure porta a termine il mandato, i dati personali sono conservati per 10 anni in modo sicuro. Allo scadere di questo termine i dati vengono distrutti nella misura in cui non vengono custoditi nell’Archivio federale.
 
 [^18-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^18-2]: Nuovo testo giusta il n. 15 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RS 732.21](https://fedlex.data.admin.ch/eli/cc/2008/794)).
+[^18-2]: Nuovo testo giusta il n. 15 dell’all. all’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 ## Sezione 7: Collaborazione con i Cantoni
 

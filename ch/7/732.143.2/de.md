@@ -4,11 +4,11 @@ title: Verordnung vom 9. Juni 2006 über die Betriebswachen von Kernanlagen (VBW
 short: VBWK
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/378"
 language: de
-version: 2009-01-01
+version: 2023-01-01
 adopted: 2006-06-09
 in_force: 2006-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/378/20090101/de/xml/fedlex-data-admin-ch-eli-cc-2006-378-20090101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/378/20090101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/378/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2006-378-20230101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/378/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/378/20090101/de"
 
 (VBWK)
 
-vom 9. Juni 2006 (Stand am 1. Januar 2009)
+vom 9. Juni 2006 (Stand am 1. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -152,7 +152,7 @@ Schusswaffen dürfen nur eingesetzt werden, wenn:
 
 <sup>8</sup> Die eingesetzten Waffen sind für die Untersuchung sicherzustellen. Dem Spurenschutz ist die nötige Beachtung zu schenken.
 
-[^8-1]: Fassung gemäss Anhang Ziff. 15 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([SR 732.21](https://fedlex.data.admin.ch/eli/cc/2008/794)).
+[^8-1]: Fassung gemäss Anhang Ziff. 15 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([AS 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 9
 
@@ -162,7 +162,7 @@ Schusswaffen dürfen nur eingesetzt werden, wenn:
 
 <sup>2</sup> Das ENSI bezeichnet nach Anhörung der Polizei und des Inhabers der Bau- oder der Betriebsbewilligung für die Kernanlage (Bewilligungsinhaber) das sicherungsrelevante Vorgelände.[^9-1]
 
-[^9-1]: Fassung gemäss Anhang Ziff. 15 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([SR 732.21](https://fedlex.data.admin.ch/eli/cc/2008/794)).
+[^9-1]: Fassung gemäss Anhang Ziff. 15 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([AS 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 ## 3. Abschnitt: Ausrüstung und Bewaffnung der Betriebswachen
 
@@ -176,7 +176,7 @@ Schusswaffen dürfen nur eingesetzt werden, wenn:
 
 <sup>3</sup> Die Beschaffung von neuen Waffentypen ist vorgängig dem ENSI zu melden.[^10-1]
 
-[^10-1]: Fassung gemäss Anhang Ziff. 15 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([SR 732.21](https://fedlex.data.admin.ch/eli/cc/2008/794)).
+[^10-1]: Fassung gemäss Anhang Ziff. 15 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([AS 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 11
 
@@ -188,7 +188,7 @@ Schusswaffen dürfen nur eingesetzt werden, wenn:
 
 <sup>3</sup> Die Beschaffung von neuen Typen von Ordnungsdienstmitteln ist vorgängig dem ENSI zu melden.[^11-1]
 
-[^11-1]: Fassung gemäss Anhang Ziff. 15 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([SR 732.21](https://fedlex.data.admin.ch/eli/cc/2008/794)).
+[^11-1]: Fassung gemäss Anhang Ziff. 15 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([AS 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 12
 
@@ -212,7 +212,7 @@ Schusswaffen dürfen nur eingesetzt werden, wenn:
 
 <sup>4</sup> Das ENSI legt für jede Kernanlage den minimalen Wachbestand der Betriebswachen pro Schicht fest.[^13-1]
 
-[^13-1]: Fassung gemäss Anhang Ziff. 15 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([SR 732.21](https://fedlex.data.admin.ch/eli/cc/2008/794)).
+[^13-1]: Fassung gemäss Anhang Ziff. 15 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([AS 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 14
 
@@ -224,7 +224,7 @@ Schusswaffen dürfen nur eingesetzt werden, wenn:
 
 <sup>3</sup> Das ENSI wird beauftragt, den Einsatz von Fremdwachen in einer Richtlinie zu regeln.[^14-1]
 
-[^14-1]: Fassung gemäss Anhang Ziff. 15 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([SR 732.21](https://fedlex.data.admin.ch/eli/cc/2008/794)).
+[^14-1]: Fassung gemäss Anhang Ziff. 15 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([AS 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 ## 5. Abschnitt: Qualifikation und Eignung der Angehörigen der Betriebswachen
 
@@ -258,7 +258,7 @@ Der Betriebswächter oder die Betriebswächterin muss über folgende Qualifikati
 <sup>4</sup> Das ENSI entscheidet im Einzelfall über die Gleichwertigkeit ausländischer Ausbildungsabschlüsse.[^15-2]
 
 [^15-1]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^15-2]: Fassung gemäss Anhang Ziff. 15 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([SR 732.21](https://fedlex.data.admin.ch/eli/cc/2008/794)).
+[^15-2]: Fassung gemäss Anhang Ziff. 15 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([AS 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 16
 
@@ -275,22 +275,24 @@ Der Betriebswächter oder die Betriebswächterin muss über folgende Qualifikati
 <sup>5</sup> Das ENSI kann in die Dokumentation Einsicht nehmen.[^16-2]
 
 [^16-1]: [SR 732.143.1](https://fedlex.data.admin.ch/eli/cc/2006/377)
-[^16-2]: Fassung gemäss Anhang Ziff. 15 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([SR 732.21](https://fedlex.data.admin.ch/eli/cc/2008/794)).
+[^16-2]: Fassung gemäss Anhang Ziff. 15 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([AS 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 17
 
-**Gesundheitliche Eignung**
+**Gesundheitliche Eignung**[^17-1]
 
 <sup>1</sup> Die Überprüfung der gesundheitlichen Eignung dient dem Nachweis, dass die für die Wächtertätigkeit nötigen gesundheitlichen Voraussetzungen erfüllt sind, wie ausreichendes Wahrnehmungsvermögen, Schichtdiensttauglichkeit und keine Abhängigkeit von psychotropen Substanzen.
 
-<sup>2</sup> Ein Vertrauensarzt oder eine Vertrauensärztin der Suva untersucht jährlich im Rahmen der arbeitsmedizinischen Vorsorgeuntersuchungen die gesundheitliche Eignung der Angehörigen der Betriebswachen. Er oder sie leitet das Ergebnis der Untersuchungen an die Suva weiter.
+<sup>2</sup> Ein Arzt oder eine Ärztin untersucht jährlich die gesundheitliche Eignung der Angehörigen der Betriebswache. Ist er oder sie nicht Facharzt oder Fachärztin für Arbeitsmedizin, so leitet er oder sie das Ergebnis der Untersuchungen an einen Facharzt oder eine Fachärztin für Arbeitsmedizin weiter.
 
-<sup>3</sup> Die Suva entscheidet über die gesundheitliche Eignung und teilt das Ergebnis ihres Entscheides dem Bewilligungsinhaber schriftlich mit. Dieser nimmt die Mitteilung in seine Dokumentation nach Artikel 37 VAPK[^17-1] auf.
+<sup>3</sup> Der Facharzt oder die Fachärztin für Arbeitsmedizin beurteilt aufgrund der durchgeführten Untersuchungen die gesundheitliche Eignung der Angehörigen der Betriebswache. Er oder sie leitet die Beurteilung dem Bewilligungsinhaber weiter.
 
-<sup>4</sup> Das ENSI kann in die Dokumentation Einsicht nehmen.[^17-2]
+<sup>4</sup> Der Bewilligungsinhaber nimmt die arbeitsmedizinische Beurteilung in seine Dokumentation nach Artikel 37 VAPK[^17-2] auf. Er entscheidet gestützt darauf über die gesundheitliche Eignung der Angehörigen der Betriebswache und hält das Ergebnis in seiner Dokumentation fest.
 
-[^17-1]: [SR 732.143.1](https://fedlex.data.admin.ch/eli/cc/2006/377)
-[^17-2]: Fassung gemäss Anhang Ziff. 15 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([SR 732.21](https://fedlex.data.admin.ch/eli/cc/2008/794)).
+<sup>5</sup> Das ENSI kann in die Dokumentation Einsicht nehmen.
+
+[^17-1]: Fassung gemäss Ziff. I der V vom vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 806](https://fedlex.data.admin.ch/eli/oc/2022/806)).
+[^17-2]: [SR 732.143.1](https://fedlex.data.admin.ch/eli/cc/2006/377)
 
 ## 6. Abschnitt: Datenschutz
 
@@ -315,7 +317,7 @@ Es bearbeitet folgende Personendaten:
 <sup>4</sup> Die Personendaten werden nach dem Zeitpunkt, zu dem die betroffene Person die Stelle verlässt, die Funktion aufgibt oder den Auftrag abschliesst, noch zehn Jahre sicher aufbewahrt. Nach Ablauf dieser Frist werden sie vernichtet, soweit sie nicht vom Bundesarchiv übernommen werden.
 
 [^18-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^18-2]: Fassung gemäss Anhang Ziff. 15 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([SR 732.21](https://fedlex.data.admin.ch/eli/cc/2008/794)).
+[^18-2]: Fassung gemäss Anhang Ziff. 15 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([AS 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 ## 7. Abschnitt: Zusammenarbeit mit den Kantonen
 
