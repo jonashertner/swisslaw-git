@@ -1,328 +1,1408 @@
 ---
 canton: FR
 number: "780.11"
-title: "Règlement d'exécution de la loi sur les transports"
-short: RTr
+title: Règlement sur la mobilité
+short: RMob
 language: fr
-version: 2022-02-01
-valid_until: 2022-12-31
-version_adopted: 2022-03-18
+version: 2023-01-01
+version_adopted: 2022-12-20
 adopted: 2022-12-20
 in_force: 2023-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/780.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7430/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8690/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
 
-# Règlement d'exécution de la loi sur les transports
+# Règlement sur la mobilité
 
-Transports – R
+Mobilité – R
 
-(RTr)
+(RMob)
 
-du 25.11.1996 (version entrée en vigueur le 01.02.2022)
+du 20.12.2022 (version entrée en vigueur le 01.01.2023)
 
 Le Conseil d'Etat du canton de Fribourg
 
-Vu la loi du 20 septembre 1994 sur les transports (LTr);
+Vu la loi du 5 novembre 2021 sur la mobilité (LMob);
 
-Sur la proposition de la Direction de l'économie, des transports et de l'énergie,
+Sur la proposition de la Direction du développement territorial, des infrastructures, de la mobilité et de l'environnement,
 
 Arrête:
 
 ## 1 Dispositions générales
 
+### 1.1 Objet
+
 #### Art. 1
 
-**Réexamen des mesures de planification (art. 9, 13 et 15 LTr)**
+<sup>1</sup> Le présent règlement définit les modalités d'application de la loi sur la mobilité.
 
-<sup>1</sup> Pour assurer la cohérence des différentes planifications, le plan cantonal des transports, les plans régionaux des transports et les plans directeurs des circulations sont réexaminés au maximum tous les dix ans et, au besoin, modifiés.
+### 1.2 Compétences
 
 #### Art. 2
 
-**Système d'information (art. 5 et 13 LTr)**
+<sup>1</sup> La Direction du développement territorial, des infrastructures, de la mobilité et de l'environnement (ci-après: DIME) est la Direction compétente au sens de l'article 6 LMob.
 
-<sup>1</sup> Le Service de la mobilité (ci-après: le Service) tient un système d'information sur la mobilité, qui englobe:
-
-- a) le plan cantonal des transports;
-- b) les conceptions globales des transports;
-- c) les plans régionaux des transports;
-- d) les plans directeurs des transports;
-- e) les plans directeurs des circulations;
-- f) les concessions et les autorisations de transports.
-
-<sup>2</sup> Pour assurer le suivi et organiser la cohérence du système d'information, le Service dispose d'un support informatisé. Celui-ci recense tous les éléments relatifs au domaine des transports.
-
-<sup>3</sup> Les collectivités publiques et les entreprises de transports publics transmettent au Service toutes les informations nécessaires à la gestion de la mobilité.
-
-<sup>4</sup> Le Groupe de coordination des transports assure le suivi du plan cantonal des transports en fonction des objectifs fixés par la loi, à l'aide du système d'information. Il prend l'avis de la Commission consultative des transports.
-
-## 2 Instruments de coordination au niveau régional
+<sup>2</sup> Le Service des ponts et chaussées (ci-après: le SPC) et le Service de la mobilité (ci-après:le SMo) lui sont subordonnés, préparent les dossiers relevant de leurs domaines et assurent le suivi.
 
 #### Art. 3
 
-**Conception globale des transports (art. 27 LTr) – En général**
+**SPC (art. 7 LMob)**
 
-<sup>1</sup> La conception global des transports (ci-après: la conception globale) est une étude de base qui prend en compte, de manière coordonnée et indissociable, les éléments suivants:
+<sup>1</sup> Le SPC est le service chargé du programme de construction, de l'aménagement et de l'entretien des réseaux de mobilité cantonaux, de la signalisation ainsi que de la surveillance des réseaux de mobilité cantonaux et communaux. Il assume toutes les tâches qui lui sont attribuées par le présent règlement.
 
-- a) l'ensemble des déplacements, tous modes confondus;
-- b) les données relevant de l'aménagement du territoire;
-- c) les exigences de la protection de l'environnement.
-
-<sup>2</sup> La conception globale est établie par le Service, avec le concours des préfets et des organes intéressés.
+<sup>2</sup> Il est l'interlocuteur de l'Office fédéral en charge des routes.
 
 #### Art. 4
 
-**Conception globale des transports (art. 27 LTr) – Etudes particulières**
+**SMo (art. 7 LMob)**
 
-<sup>1</sup> La conception globale peut comprendre l'élaboration d'études particulières préalables, portant notamment sur:
+<sup>1</sup> Le SMo est le service chargé de la planification des réseaux de mobilité, de la gestion intelligente du trafic, de l'examen des aspects de mobilité en matière de permis de construire, et des transports publics. Il assume toutes les tâches qui lui sont attribués par le présent règlement.
 
-- a) la détermination du périmètre;
-- b) les données de base et le diagnostic;
-- c) l'évolution démographique et de l'emploi;
-- d) les objectifs généraux;
-- e) les concepts «transport individuel», «transport collectif» et «transport alternatif»;
-- f) l'estimation des coûts;
-- g) le modèle de financement.
-
-<sup>2</sup> Les études relatives à la conception globale peuvent être consultées auprès du Service.
+<sup>2</sup> Il est l'interlocuteur de l'Office fédéral des transports. Il publie les plans fédéraux et rédige les préavis du canton en matière de concessions et projets d'infrastructures ferroviaires fédéraux et de routes nationales.
 
 #### Art. 5
 
-**Plan régional des transports (art. 12 LTr)**
+**Directives techniques**
 
-<sup>1</sup> Le plan régional des transports (ci-après: le plan régional) est un plan directeur régional au sens des articles 28 et suivants de la loi du 9 mai 1983 sur l'aménagement du territoire et les constructions.
+<sup>1</sup> Le SPC et le SMo sont compétents pour élaborer des directives techniques permettant de clarifier et uniformiser la mise en œuvre de la législation sur la mobilité.
 
-<sup>2</sup> Le plan régional est élaboré par la communauté régionale, sur la base de la conception globale.
-
-<sup>3</sup> Le plan régional fixe, par domaines, les objectifs et le principe des mesures applicables aux transports. Considérés comme indissociables, ces derniers constituent le contenu principal du plan régional.
+<sup>2</sup> Les directives sont publiées sur le site internet de l'Etat.
 
 #### Art. 6
 
-**Projet général (art. 28 LTr)**
+**Collaboration avec les communes (art. 8 LMob)**
 
-<sup>1</sup> Le projet général est établi par la communauté régionale des transports, en étroite collaboration avec les instances fédérales, cantonales et communales concernées.
+<sup>1</sup> Les communes collaborent avec les services cantonaux et bénéficient de leurs conseils.
 
-<sup>2</sup> Le projet général commande les études détaillées qui déterminent les caractéristiques techniques, les modalités de financement, le moment et les conditions de réalisation des mesures.
+<sup>2</sup> Elles peuvent exercer les compétences déléguées par la Direction.
 
-<sup>3</sup> Le projet général assure le passage entre la planification et la réalisation. Il sert de référence sur les plans opérationnel et contractuel notamment pour:
-
-- a) déterminer le montant des crédits cadres nécessaires au financement des investissements;
-- b) établir les conventions d'offres (art. 16 et 17) traitant de la qualité de l'offre des transports publics dans l'espace et dans le temps;
-- c) déterminer les coûts de fonctionnement des organes constituant la communauté régionale.
-
-## 3 Financement et contributions financières
-
-### 3.1 Aide aux investissements (art. 35 à 37 et 43 LTr)
+### 1.3 Relevés de données sur la mobilité
 
 #### Art. 7
 
-**Trafic voyageurs – Régional**
+**Compétence (art. 4 LMob)**
 
-<sup>1</sup> Pour les investissements liés au trafic régional voyageurs, le Service élabore, à l'intention du Conseil d'Etat, conformément aux législations fédérale et cantonale, les projets de décrets et de messages relatifs aux crédits cadres.
-
-<sup>2</sup> Les montants considérés ne sont versés que si l'objet est intégré dans un crédit cadre accepté par le Grand Conseil et dans une convention de financement. Ces montants sont inscrits au budget de l'Etat.
+<sup>1</sup> Le SMo est chargé de collecter les données visées par l'art. 4 LMob.
 
 #### Art. 8
 
-**Trafic voyageurs – Agglomération**
+**Géodonnées de base**
 
-<sup>1</sup> Pour les investissements liés au trafic d'agglomération, le Service élabore, à l'intention du Conseil d'Etat, les projets de décrets et de messages relatifs aux crédits cadres, conformément aux législations fédérale et cantonale ainsi qu'aux exigences fixées par la conception globale, le plan régional et le projet général.
+<sup>1</sup> Les géodonnées de base relatives à la mobilité sont répertoriées dans les catalogues annexés à l'ordonnance cantonale sur la géoinformation.
 
-<sup>2</sup> Les montants considérés ne sont versés que si l'objet est intégré dans un crédit cadre accepté par le Grand Conseil et dans une convention de financement. Ces montants sont inscrits dans les budgets de l'Etat et des communautés régionales concernées.
+<sup>2</sup> Les géodonnées de base découlant de la législation sur la mobilité sont accessibles sans restriction.
 
 #### Art. 9
 
-**Transports de personnes handicapées (art. 43 LTr)**
+**Inscription au RDPPF**
+
+<sup>1</sup> Le service compétent au sens de l'article 8 de la loi fédérale du 5 octobre 2007 sur la géoinformation est chargé de veiller à ce que les géodonnées relatives aux restrictions concernant les zones réservées et les dérogations aux distances de construction aux routes soient publiées dans le cadastre des restrictions de droit public à la propriété foncière (RDPPF).
+
+### 1.4 Propriété des routes et chemins
+
+#### Art. 10
+
+**Abornement des infrastructures (art. 33 et 35 LMob)**
+
+<sup>1</sup> Les routes publiques et leurs parties intégrantes ainsi que les autres infrastructures doivent être en principe abornées aux frais de leur propriétaire.
+
+<sup>2</sup> Aux croisements, c'est la route classée en catégorie supérieure qui est abornée dans toute sa longueur.
+
+<sup>3</sup> Lorsque des aménagements tels que des objets édilitaires, chemins de mobilité douce et infrastructures de transports sont exécutés ultérieurement à l'aménagement de la chaussée, le maître d'ouvrage procède, à ses frais, à la mise à jour de l'abornement et à l'établissement d'un plan de la situation cadastrale définitive.
+
+#### Art. 11
+
+**Transfert de propriété entre l'Etat et une commune (art. 34 LMob)**
+
+<sup>1</sup> Le transfert d'une infrastructure cantonale à une infrastructure communale et inversement engendre un changement de la classification de ladite infrastructure, sous forme d'arrêté du Conseil d'Etat.
+
+<sup>2</sup> Sauf accord contraire, l'infrastructure est transmise en l'état au nouveau ou à la nouvelle propriétaire, sans contrepartie financière.
+
+#### Art. 12
+
+**Transfert de propriété entre une commune et un privé (art. 34 LMob)**
+
+<sup>1</sup> Le transfert d'une infrastructure communale à un privé et inversement fait l'objet d'une décision d'affectation, respectivement de désaffectation du Conseil communal.
+
+<sup>2</sup> La décision est publiée dans la Feuille officielle et peut faire l'objet d'une opposition pendant 30 jours auprès du Conseil communal. Ce dernier prend ensuite la décision sur opposition.
+
+#### Art. 13
+
+**Intégration de pistes cyclables cantonales au domaine public communal (art. 35 LMob)**
+
+<sup>1</sup> D'entente entre le SPC et la commune, les pistes cyclables cantonales, y compris les pistes mixtes cantonales, peuvent être intégrées au domaine public communal tout en conservant leur classification de voies cyclables cantonales.
+
+<sup>2</sup> Dans ce cas, l'Etat procède, à ses frais, à la mise à jour du bornage et à l'établissement d'un plan de situation cadastrale définitive.
+
+<sup>3</sup> L'intégration au domaine public communal se fait en principe sans contrepartie financière.
+
+## 2 Planification
+
+#### Art. 14
+
+**Stratégie cantonale de mobilité (art. 37 LMob)**
+
+<sup>1</sup> La stratégie cantonale de mobilité est publiée sur le site internet de l'Etat.
+
+<sup>2</sup> Le SMo élabore la stratégie et mène la procédure de consultation pour le compte du Conseil d'Etat.
+
+#### Art. 15
+
+**Plan du réseau des routes cantonales (art. 38 LMob)**
+
+<sup>1</sup> Le plan du réseau des routes cantonales répertorie les routes cantonales sur le territoire du canton ainsi que leur typologie selon l'art. 14 LMob.
+
+<sup>2</sup> Le SMo élabore le plan pour le compte du Conseil d'Etat.
+
+#### Art. 16
+
+**Programmes de construction (art. 39 LMob)**
+
+<sup>1</sup> Les programmes de construction des routes cantonales et des voies cyclables cantonales peuvent être consultés auprès du SPC.
+
+<sup>2</sup> Le SPC élabore les programmes pour le compte de la DIME.
+
+#### Art. 17
+
+**Plan du réseau routier communal (art. 40 LMob)**
+
+<sup>1</sup> Le plan du réseau routier communal répertorie aussi la typologie des routes selon l'art. 14 LMob.
+
+#### Art. 18
+
+**Plan du réseau cantonal des voies cyclables (art 42 LMob)**
+
+<sup>1</sup> Le plan du réseau des voies cyclables cantonales répertorie les voies cyclables cantonales sur le territoire du canton ainsi que leur typologie selon l'art. 26 LMob.
+
+<sup>2</sup> Le SMo élabore le plan pour le compte de la DIME.
+
+#### Art. 19
+
+**Plan des réseaux des itinéraires officiels de loisirs (art. 45 LMob)**
+
+<sup>1</sup> Le plan des réseaux des itinéraires officiels de loisirs peut être divisé par domaines.
+
+<sup>2</sup> Le SMo, en collaboration avec l'organisme touristique officiel du canton, élabore le plan de réseau des itinéraires officiels et mène la procédure pour le compte de la DIME.
+
+<sup>3</sup> Les organisations touristiques régionales ainsi que les organisations privées spécialisées reconnues selon l'art. 5 du règlement du 7 décembre 2021 sur le tourisme sont consultées.
+
+#### Art. 20
+
+**Plan cantonal des transports publics (art. 46 LMob)**
+
+<sup>1</sup> Le plan cantonal des transports publics fait l'objet d'une consultation publique.
+
+<sup>2</sup> Le SMo élabore le plan et mène la procédure de consultation pour le compte du Conseil d'Etat.
+
+## 3 Itinéraires de mobilité
+
+### 3.1 Gestion de trafic
+
+#### Art. 21
+
+**Définition et compétence en gestion de trafic (art. 55 LMob)**
+
+<sup>1</sup> Par gestion du trafic on entend la gestion intelligente du trafic.
+
+<sup>2</sup> Le SMo, en collaboration avec le SPC et la Police cantonale, est compétent en matière de gestion du trafic, sous réserve des délégations de compétences accordées aux communes.
+
+<sup>3</sup> Il est également en charge d'établir le plan de gestion de trafic selon les instructions de l'OFROU.
+
+#### Art. 22
+
+**Conflits d'activités de loisirs**
+
+<sup>1</sup> Lorsque la pratique simultanée de plusieurs types d'activité de loisirs sur certains secteurs de réseaux est de nature à engendrer des risques pour les divers usagers ou une fréquentation élevée avec dérangements et endommagement des itinéraires officiels de loisirs, les communes et l'Union fribourgeois de tourisme (ci-après: UFT) peuvent proposer des restrictions d'accès ou des mesures de séparation; la DIME se détermine après consultation de l'Union fribourgeois de tourisme UFT.
+
+<sup>2</sup> En cas de circonstances particulières altérant les conditions normales de sécurité d'un secteur de réseau, les communes prennent les mesures de police qu'elles jugent appropriées.
+
+### 3.2 Signalisation
+
+#### Art. 23
+
+**Compétence (art. 66 LMob)**
+
+<sup>1</sup> Le SPC assure, pour l'Etat, la signalisation à la charge de l'Etat, à l'exception des itinéraires officiels de loisirs dédiés au cyclotourisme, sous réserve des délégations de compétence accordées aux communes.
+
+#### Art. 24
+
+**Frais de signalisation (art. 61 al. 3 LMob)**
+
+<sup>1</sup> Les frais de signalisations touristiques et culturelles sont à la charge du requérant ou de la requérantes.
+
+<sup>2</sup> Les frais d'indicateurs de direction «Entreprise» et «Hôtel» sont à la charge du requérant ou de la requérante.
+
+#### Art. 25
+
+**Signalisation des itinéraires officiels de loisirs (art. 67 LMob)**
+
+<sup>1</sup> L'UFT est compétent pour faire enlever les signalisations non conformes; les communes prêtent leur concours aux travaux requis.
+
+#### Art. 26
+
+**Signalisation des voies navigables (art. 68 LMob)**
+
+<sup>1</sup> Le Service de l'environnement (ci-après: le SEn) est chargé de la signalisation d'avis de tempête ainsi que de la surveillance de la signalisation des voies navigables pour le compte de la DIME.
+
+### 3.3 Entretien
+
+#### Art. 27
+
+**Entretien courant et constructif (art. 69 LMob)**
+
+<sup>1</sup> Par entretien courant, on entend l'ensemble des mesures visant à garantir la viabilité et la sécurité du réseau routier et de ses parties intégrantes (ouvrages et couches de roulement inclus).
+
+<sup>2</sup> Par entretien constructif, on entend l'ensemble des mesures destinées au renouvellement structurel du réseau routier et de ses parties intégrantes; opération qui consiste à restituer à une route ou à un ouvrage, son état originel et ses propriétés mécaniques qui se sont dégradées au fil du temps, de par son utilisation.
+
+#### Art. 28
+
+**Délégation de compétence (art. 77 al. 2 LMob)**
+
+<sup>1</sup> Toute délégation de tâches d'entretien fait l'objet d'une convention.
+
+#### Art. 29
+
+**Principe régissant la répartition des frais (art. 78 al. 2 LMob)**
+
+<sup>1</sup> Les frais d'entretien sont répartis entre les parties au prorata des surfaces concernées.
+
+#### Art. 30
+
+**Service d'hiver (art. 83 LMob)**
+
+<sup>1</sup> Le service d'hiver inclut le déblaiement de la neige, la protection contre les congères et le verglas.
+
+<sup>2</sup> L'ordre de priorité du service hivernal suit en principe la typologique des routes selon art. 14 LMob et celle des voies cyclables selon art. 26 LMob.
+
+<sup>3</sup> Dans la mesure du possible, les infrastructures de mobilité, à l'exception de celles dédiés aux loisirs, doivent être praticables de 6 heures à 22 heures.
+
+#### Art. 31
+
+**Eclairage des passages piétons (art. 84 al. 3 LMob)**
+
+<sup>1</sup> Pour des raisons de sécurité, les passages à piétons doivent en principe être au moins éclairés au moment où ils sont empruntés par un piéton ou une piétonne.
+
+## 4 Infrastructures de mobilité
+
+### 4.1 Construction et réaménagement
+
+#### Art. 32
+
+**Contenu plan d'infrastructure de mobilité (art. 86 al. 1 LMob)**
+
+<sup>1</sup> Le SPC détermine le contenu minimal des dossiers de plans d'infrastructure de mobilité.
+
+<sup>2</sup> Si un dossier déposé ne répond pas aux exigences, le SPC le renvoie à la commune afin qu'elle apporte les corrections et les compléments requis.
+
+#### Art. 33
+
+**Qualifications (art. 86 al. 1 LMob)**
+
+<sup>1</sup> L'auteur-e des plans d'infrastructure de mobilité, à l'exception des chemins de mobilité douce pour piétons, doit être inscrit-e comme ingénieur-e civil dans les registres A et B du REG (Fondation des registres suisses des professionnels de l'ingénierie, de l'architecture et de l'environnement).
+
+#### Art. 34
+
+**Zones réservées (art. 88 ss LMob)**
+
+<sup>1</sup> Les zones réservées sont déterminées en fonction de l'état d'avancement des études.
+
+<sup>2</sup> Si le tracé général de l'itinéraire n'est pas encore fixé ou si plusieurs variantes du tracé sont à l'examen, les zones réservées doivent être élargies en conséquence ou déterminées pour chaque variante.
+
+<sup>3</sup> Le SMo est chargé de proposer à la DIME les zones réservées pour les infrastructures cantonales.
+
+#### Art. 35
+
+**Délégation de compétence (art. 91 al. 4 LMob)**
+
+<sup>1</sup> L'UFT peut déléguer sa compétence pour établir le plan d'infrastructure de mobilité pour un chemin de mobilité douce dédié aux loisirs à une commune. Dans ce cas, la procédure selon l'art. 99 al. 1 let. b LMob s'applique.
+
+### 4.2 Coordination
+
+#### Art. 36
+
+**Autorité directrice (art. 95 al. 2 LMob)**
+
+<sup>1</sup> Dans le cadre de la procédure directrice, l'autorité directrice recueille, en vue de la décision globale, les décisions qui auraient été sinon rendues séparément.
+
+<sup>2</sup> L'autorité directrice est celle qui est compétente pour la procédure directrice.
+
+<sup>3</sup> Lorsqu'une infrastructure de mobilité cantonale est concernée, la DIME est l'autorité directrice.
+
+<sup>4</sup> Lorsqu'il s'agit d'une infrastructure de mobilité communale, l'autorité directrice est désignée par la DIME.
+
+#### Art. 37
+
+**Procédure directrice (art. 95 al. 2 LMob)**
+
+<sup>1</sup> La procédure d'approbation d'un plan d'infrastructure de mobilité constitue la procédure directrice, sous réserve de l'alinéa 2.
+
+<sup>2</sup> La procédure déterminante conformément à la législation sur la protection de l'environnement constitue la procédure directrice lorsque la réalisation d'un projet implique une étude d'impact sur l'environnement.
+
+#### Art. 38
+
+**Tâches de l'autorité directrice (art. 95 al. 2 LMob)**
+
+<sup>1</sup> L'autorité directrice:
+
+- a) demande les préavis nécessaires;
+- b) prescrit une publication globale;
+- c) veille à l'échange d'informations entre les autorités et les services spécialisés;
+- d) traite les oppositions.
+
+<sup>2</sup> Au début de la procédure, l'autorité directrice fixe au moins, à l'intention des participants ainsi que des autorités et des services spécialisés concernés:
+
+- a) la procédure directrice;
+- b) les procédures à intégrer dans la décision globale;
+- c) les autres procédures à coordonner qui, en vertu du droit fédéral, ne peuvent pas être intégrées dans la décision globale.
+
+<sup>3</sup> L'autorité directrice peut demander aux requérants les documents supplémentaires nécessaires au déroulement simultané de différentes procédures.
+
+<sup>4</sup> Si aucune coordination n'est matériellement nécessaire, l'autorité directrice peut, d'entente avec les requérants, déterminer les décisions qu'il ne conviendra de solliciter qu'ultérieurement.
+
+#### Art. 39
+
+**Décision globale (art. 100 al. 1 LMob)**
+
+<sup>1</sup> L'autorité directrice rend la décision globale.
+
+<sup>2</sup> Le dispositif arrête:
+
+- a) quelles décisions individuelles comporte la décision globale;
+- b) quelles autres décisions ont été obtenues;
+- c) quelles autres décisions sont encore requises.
+
+<sup>3</sup> La décision globale est notifiée aux parties avec les autres décisions.
+
+<sup>4</sup> L'autorité directrice la porte également à la connaissance des autorités et services spécialisés compétents.
+
+### 4.3 Exigences techniques
+
+#### Art. 40
+
+**Règles et normes techniques applicables (art. 96 LMob)**
+
+<sup>1</sup> Sous réserve des prescriptions particulières du présent règlement, les caractéristiques techniques à respecter reposent sur les directives et normes suivantes:
+
+- a) aux directives fédérales de l'Office fédéral des routes (OFROU) et de l'Office fédéral de l'environnement (OFEV);
+- b) aux normes de l'Union des professionnels suisses de la route (VSS) et de la Société suisse des ingénieurs et architectes (SIA) relatifs à la construction, l'entretien et la sécurité.
+
+<sup>2</sup> Des motifs importants peuvent justifier une modification des éléments de base et autres caractéristiques techniques que celles prévues par les normes. Toute adaptation exceptionnelle fait l'objet d'une mention justificative dans le rapport technique accompagnant le projet.
+
+#### Art. 41
+
+**Accotement sur les ponts (art. 96 al. 3 LMob)**
+
+<sup>1</sup> Lors de leur construction ou de leur reconstruction, les ponts routiers sont obligatoirement munis d'accotements, même si les routes d'accès n'en sont pas pourvues.
+
+<sup>2</sup> Pour les ponts des routes cantonales et des routes communales, la largeur des accotements est, de chaque côté, de 1,65 m au moins entre le bord de la chaussée et le parapet.
+
+<sup>3</sup> Sur les routes communales de faible importance, la largeur des accotements, de chaque côté peut être exceptionnellement réduite à maximum 75 centimètres. Dans ce cas, l'accotement doit être surélevé.
+
+#### Art. 42
+
+**Largeur des routes (art. 96 al. 3 LMob)**
+
+<sup>1</sup> Les chaussées des routes doivent avoir, selon leur typologie, des largeurs suffisantes pour assurer l'écoulement du trafic en fonction des cas de croisements des différents types de véhicules et de la vitesse pratiquée.
+
+#### Art. 43
+
+**Largeur des trottoirs (art. 97 al. 2 LMob)**
+
+<sup>1</sup> La largeur d'un trottoir et autres aménagements piétons est déterminée sur la base des normes en vigueur en fonction de la configuration de l'espace-rue, de ses usages possibles et de la fréquence des croisements de piétons.
+
+#### Art. 44
+
+**Arrêts des transports publics (art. 97 al. 2 LMob)**
+
+<sup>1</sup> La création, le déplacement ou la suppression d'un arrêt des transports publics est déterminé en fonction de la desserte en transports publics et en tenant compte des contraintes locales et de la gestion du trafic.
+
+<sup>2</sup> Le SMo définit la typologie de l'arrêt des transports publics.
+
+<sup>3</sup> Le SPC élabore les standards de constructions pour les arrêts de transports public pris en charge par l'Etat.
+
+### 4.4 Procédure
+
+#### Art. 45
+
+**Examen préalable (art. 100 al. 4 LMob)**
+
+<sup>1</sup> La demande d'examen préalable est obligatoire pour les projets qui interagissent avec une infrastructure en propriété de l'Etat.
+
+<sup>2</sup> La demande est déposée auprès du SPC.
+
+<sup>3</sup> Le SPC requiert les préavis des services et organes intéressés.
+
+<sup>4</sup> Il établit le préavis de synthèse et le transmet à la commune.
+
+#### Art. 46
+
+**Aménagements de traversée de localité (art. 98 LMob)**
+
+<sup>1</sup> Tout projet d'aménagement d'une traversée de localité sur une route publique doit préalablement être annoncé auprès du SPC.
+
+<sup>2</sup> Le SPC peut exiger un concept global sur l'ensemble du périmètre concerné, notamment lorsque les mesures peuvent faire l'objet d'une participation financière de l'Etat en vertu de l'article 167 al. 3 LMob.
+
+#### Art. 47
+
+**Plan d'aménagement de détail (art. 102 LMob)**
+
+<sup>1</sup> Lorsqu'un plan d'aménagement de détail inclut un projet d'infrastructure de mobilité, le SPC est en charge du préavis portant sur l'infrastructure de mobilité à l'exception des infrastructures de la navigation.
+
+<sup>2</sup> Le SPC communique son préavis au Service des constructions et de l'aménagement, qui l'intègre à son préavis de synthèse à l'attention de la DIME.
+
+<sup>3</sup> Lorsqu'il s'agit d'une infrastructure de navigation, le SEn assume le rôle du SPC.
+
+#### Art. 48
+
+**Début anticipé des travaux (art. 104 LMob)**
+
+<sup>1</sup> Sur demande motivée du requérant ou de la requérante, la DIME peut exceptionnellement autoriser le début anticipé des travaux, aux conditions suivantes:
+
+- a) le requérant ou la requérante démontre qu'il ou elle subirait un préjudice excessif si les travaux ne pouvaient débuter de façon anticipée;
+- b) l'enquête publique ou restreinte est terminée;
+- c) aucune opposition n'a été déposée en relation avec les travaux faisant l'objet de la demande;
+- d) le SPC émet un préavis favorable.
+
+<sup>2</sup> Au besoin, la DIME consulte directement les services intéressés.
+
+<sup>3</sup> Dans le cas où le projet est soumis à des décisions qui doivent être rendues préalablement par d'autres autorités, la DIME doit obtenir l'accord de celles-ci.
+
+<sup>4</sup> L'autorisation de début anticipé des travaux est délivrée aux risques et périls du requérant ou de la requérante, sans préjuger l'issue de la demande d'approbation. Les droits des tiers sont réservés.
+
+### 4.5 Effets
+
+#### Art. 49
+
+**Notion de début de travaux (art. 106 LMob)**
+
+<sup>1</sup> Les travaux sont réputés avoir débuté lorsqu'il y a commencement concret et sérieux de travaux d'une certaine ampleur démontrant que le ou la propriétaire a engagé des frais importants pour leur début et leur poursuite, tels que, notamment, d'importants travaux de terrassement, d'exécution de fondations, de démolition d'un bâtiment en vue d'une nouvelle construction, d'exécution de canalisation.
+
+<sup>2</sup> En cas d'avancement insuffisant des travaux, le ou la bénéficiaire de l'approbation peut démontrer par d'autres moyens sa volonté sérieuse de poursuivre sans retard leur exécution.
+
+#### Art. 50
+
+**Exécution des travaux sur les infrastructures en propriété de l'Etat (art. 111 LMob)**
+
+<sup>1</sup> Le SPC est en charge de l'exécution des travaux pour le compte de la DIME.
+
+#### Art. 51
+
+**Mise en service – Compétences (art. 117 LMob)**
+
+<sup>1</sup> Avant toute mise en service d'une infrastructure de mobilité, son propriétaire ou sa propriétaire effectue un contrôle de la nouvelle infrastructure, notamment la signalisation verticale et horizontale. Lorsque l'infrastructure est en propriété privée, la tâche revient à la commune.
+
+<sup>2</sup> Le SPC décide l'ouverture à la circulation d'une infrastructure de mobilité, à l'exception de celles dédiées aux loisirs.
+
+#### Art. 52
+
+**Mise en service – Effets (art. 117 LMob)**
+
+<sup>1</sup> La mise en service d'une infrastructure de mobilité vaut affectation à l'usage public.
+
+<sup>2</sup> L'affectation ne peut être révoquée que par décision du ou de la propriétaire de l'infrastructure après mise à l'enquête publique pendant trente jours.
+
+### 4.6 Utilisation
+
+#### Art. 53
+
+**Parkings de taille significative (art. 120 al. 2 LMob)**
+
+<sup>1</sup> Est considéré comme parking de taille significative un seul parking ou secteur proche comprenant au moins 40 places de stationnement de voitures ou plus situé dans le centre cantonal ou un centre régional selon le plan directeur cantonal.
+
+<sup>2</sup> Le SMo, en collaboration avec le Service de l'énergie, fixe le nombre minimal de bornes de recharge électriques par places de stationnement et la puissance de recharge minimale nécessaire.
+
+<sup>3</sup> Si la commune dispose d'un concept de stationnement, validé par le SMo, qui inclut l'affichage des places de stationnement et l'implantation des bornes électriques pour l'ensemble de son territoire, l'alinéa 1 n'est pas applicable.
+
+#### Art. 54
+
+**Conduites sous chaussées (art. 121 al. 2 LMob)**
+
+<sup>1</sup> Le requérant ou la requérante est chargé de démontrer la nécessité d'installer une conduite de service sous une chaussée.
+
+<sup>2</sup> Le cas échéant, le ou la propriétaire de l'infrastructure détermine l'emplacement.
+
+#### Art. 55
+
+**Bornes électriques (art. 126 LMob)**
+
+<sup>1</sup> Les bornes ou stations installées aux emplacements désignés doivent être destinées à usage public.
+
+#### Art. 56
+
+**Véhicules abandonnés – Procédure (art. 130 LMob)**
+
+<sup>1</sup> Le ou la propriétaire de la route publique demande au détenteur ou à la détentrice du véhicule en question de l'évacuer dans un délai de 30 jours. Si le détenteur ou la détentrice n'est pas connu/e, la demande est publiée dans la Feuille officielle.
+
+<sup>2</sup> Le concours de la Police cantonale peut être requis par l'intermédiaire du Préfet ou de la DIME. Cas échéant, la Police cantonale est autorisée à forcer un véhicule sans plaques d'immatriculation si aucun autre moyen proportionné ne peut être envisagé pour identifier son détenteur ou sa détentrice.
+
+<sup>3</sup> Si le véhicule n'est pas évacué dans le délai imparti, le ou la propriétaire de la route publique rend une décision, pour autant que le détenteur ou la détentrice du véhicule soit connu-e.
+
+<sup>4</sup> Dès l'entrée en force de la décision ou dès l'échéance du délai publié dans la Feuille officielle, le véhicule est conduit dans un lieu de stockage autorisé où il pourra être éliminé.
+
+<sup>5</sup> Les frais occasionnés par ces mesures sont à la charge du détenteur ou de la détentrice.
+
+#### Art. 57
+
+**Véhicules abandonnés – Danger imminent (art. 130 LMob)**
+
+<sup>1</sup> En cas de danger imminent, le ou la propriétaire de la route publique peut procéder à une évacuation immédiate du véhicule.
+
+<sup>2</sup> Il ou elle confirme l'évacuation par une décision au sens de l'article 56 al. 3, adressée au détenteur ou à la détentrice du véhicule. Lorsque le détenteur ou la détentrice est inconnu, la décision est publiée dans la Feuille officielle.
+
+### 4.7 Fonds voisins
+
+#### Art. 58
+
+**Autorisation du ou de la propriétaire de l'infrastructure (art. 131 LMob)**
+
+<sup>1</sup> Les travaux autres que de l'entretien courant à l'intérieur des distances de construction d'une infrastructure de mobilité, ne sont admis que moyennant une autorisation du propriétaire de l'infrastructure.
+
+#### Art. 59
+
+**Ecoulement des eaux des fonds voisins – Autorisation (art. 133 al. 2 LMob)**
+
+<sup>1</sup> Le SPC est l'autorité compétente pour l'autorisation d'évacuation des eaux dans les canalisations d'infrastructures cantonales.
+
+<sup>2</sup> L'autorisation n'est accordée que si aucune solution alternative n'est possible ou si cette dernière est disproportionnée.
+
+<sup>3</sup> Cas échéant, le requérant ou la requérante fournit au SPC un calcul hydraulique démontrant que la capacité de la canalisation de l'infrastructure et de son émissaire est suffisante à long terme.
+
+<sup>4</sup> Le raccordement d'eaux polluées est exclu.
+
+#### Art. 60
+
+**Ecoulement des eaux des fonds voisins – Taxes d'utilisation (art. 133 al. 2 LMob)**
+
+<sup>1</sup> L'autorisation d'évacuation est soumise à une taxe et à un émolument administratifs fixés dans le tarif correspondant.
+
+#### Art. 61
+
+**Profil d'espace libre (art. 135 LMob)**
+
+<sup>1</sup> L'espace libre surplombant les trottoirs et chemins pour piétons peut être réduit lors de chantiers ou de manifestations de courte durée, ou par la configuration d'abris destinés aux usagers et usagères des transports publics.
+
+#### Art. 62
+
+**Notion de voie cyclable isolée (art. 136 LMob)**
+
+<sup>1</sup> Par voie cyclable isolée, on entend toute voie cyclable qui n'est pas adjacente à la route.
+
+#### Art. 63
+
+**Distances de construction aux routes (art. 137 LMob)**
+
+<sup>1</sup> La chaussée de la route depuis laquelle la distance est mesurée comprend les bandes de transport public et les voies cyclables. Ne sont pas inclus les installations de piétons existants, y compris les aménagements de séparation.
+
+<sup>2</sup> Les distances pour les largeurs de chaussée se situant entre les largeurs indiquées dans la loi sont déterminées par interpolation linéaire. Le schéma en annexe 1 illustre les distances à respecter.
+
+#### Art. 64
+
+**Notion de clôtures légères (art. 139 LMob)**
+
+<sup>1</sup> Sont notamment considérées comme clôtures légères celles qui sont facilement déplaçables, et ce à peu de frais, telles que les clôtures électriques à bétail, les clôtures constituées de piquets reliés par des fils de fer ou des lattes de bois.
+
+#### Art. 65
+
+**Exceptions (art.145 LMob)**
+
+<sup>1</sup> Le SPC est compétent pour prendre, au nom de la DIME, les décisions en application de l'art. 145 LMob.
+
+<sup>2</sup> Par acquisition de terrain au sens de l'art. 145 al. 5 LMob, on entend toute emprise définitive et provisoire de terrain nécessitant une adaptation ou suppression de constructions, installations ou conduites.
+
+#### Art. 66
+
+**Accès privé (art. 147 LMob)**
+
+<sup>1</sup> Les accès privés depuis la route publique ne doivent pas créer de gêne sur cette dernière.
+
+<sup>2</sup> Un accès privé à la route publique doit garantir la sécurité de l'ensemble des usagers et usagères des infrastructures de mobilité et la visibilité.
+
+<sup>3</sup> De par leurs dimensions et leur emplacement, les accès privés doivent tenir compte du volume de trafic généré par les bâtiments, installations ou activités à desservir.
+
+<sup>4</sup> Le SMo est compétent pour examiner la création de nouveaux accès et la modification d'accès existants ainsi que l'extension de leur usage et, cas échéant, la restriction de leur usage, sous réserve des délégations de compétence accordées aux communes.
+
+## 5 Transport public
+
+### 5.1 Groupes de travail
+
+#### Art. 67
+
+**Groupe horaire (art. 148 LMob)**
+
+<sup>1</sup> Un groupe horaire est constitué par la DIME pour l'examen annuel des horaires mis en consultation par les entreprises de transport public ainsi que des requêtes déposées dans le cadre de cette consultation.
+
+<sup>2</sup> Il est l'organe consultatif de la DIME en matière d'horaire des transports publics. Il préavise l'horaire mis en consultation et émet des recommandations.
+
+<sup>3</sup> Il est composé de représentants et représentantes de chaque région et agglomération, désignés par leur association de commune respective en charge du plan directeur régional. Il peut inviter à ses séances les représentants et représentantes de la DIME, de la formation et des affaires culturelles ainsi que ceux et celles des entreprises de transport public.
+
+<sup>4</sup> Sa présidence et le secrétariat sont assurés par le SMo.
+
+#### Art. 68
+
+**Groupes régionaux pour la préparation de l'offre de transport public (art. 152 al. 4 et 5 LMob)**
+
+<sup>1</sup> La DIME constitue des groupes régionaux en vue de la préparation de l'offre de transport public.
+
+<sup>2</sup> Ils sont les organes consultatifs de la DIME en matière de commande d'offre de transports publics, et émettent des recommandations.
+
+<sup>3</sup> Chaque groupe régional est composé de représentants et représentantes, désignés par les associations de communes en charge de l'élaboration des plans directeurs régionaux et des agglomérations. Il peut inviter à ses séances les représentants et représentantes des entreprises de transport public et des écoles du cycle d'orientation.
+
+<sup>4</sup> Sa présidence et le secrétariat sont assurés par le SMo.
+
+### 5.2 Commande d'offre de transport public
+
+#### Art. 69
+
+**Compétence (art. 150 ss LMob)**
+
+<sup>1</sup> Le Conseil d'Etat arrête le cadre financier dans lequel doivent s'opérer les commandes d'offres de transport public.
+
+<sup>2</sup> Le SMo est l'autorité compétente pour mener la procédure de commandes d'offres de trafic régional.
+
+<sup>3</sup> Dans les limites financières fixées, le SMo négocie les offres et les conventions d'objectifs avec les entreprises de transport.
+
+<sup>4</sup> Le Conseil d'Etat prend acte de l'offre finale commandée une fois que toutes les données nécessaires sont acquises.
+
+#### Art. 70
+
+**Mise en concours (art. 150 al. 3 LMob)**
+
+<sup>1</sup> Les prestations à fournir par les entreprises de transport sur les lignes de transport public de voyageurs font l'objet d'un appel d'offres:
+
+- a) si les coûts existants d'une ligne ou la qualité des prestations fournies l'exigent; ou
+- b) s'il existe d'autres motifs importants.
+
+<sup>2</sup> Dans les autres cas, il peut être renoncé à une mise au concours.
+
+<sup>3</sup> Au moins que le droit fédéral n'en dispose autrement, le droit cantonal des marchés publics s'applique par analogie à la procédure d'adjudication.
+
+<sup>4</sup> Si possible, l'appel d'offres et l'octroi, le renouvellement, la modification ou le transfert d'une concession ou d'une autorisation pour le transport régulier et commercial de passagers sont coordonnés en termes de calendrier et de contenu.
+
+#### Art. 71
+
+**Transport d'écoliers et écolières (art. 152 LMob)**
+
+<sup>1</sup> Le trafic induit par les écoles publiques est intégré, dans la mesure du possible, dans les offres de transports publics commandées.
+
+<sup>2</sup> Afin de diminuer les coûts des transports, les écoles adaptent, dans la mesure du possible, leurs horaires à ceux des transports publics.
+
+#### Art. 72
+
+**Co-commande de trafic local - Exigences (art. 153 al. 2 let. b LMob)**
+
+<sup>1</sup> Les prestations de transport public de trafic local co-commandées doivent se situer dans le centre cantonal ou un centre régional selon le plan directeur cantonal, et respecter au moins le taux minimal de couverture des coûts ou le taux de remplissage minimal.
+
+#### Art. 73
+
+**Co-commande de trafic local – Taux minimal de couverture des coûts (art. 153 al. 2 let. b LMob)**
+
+<sup>1</sup> Le taux minimal de couverture des coûts est le suivant:
+
+<table>
+<tr><th>Cadence</th><th>Nombre de paires de course sur l'horaire (type de jour) le plus dense</th><th>Taux minimal de couverture</th><th>Objectif</th></tr>
+<tr><td>&gt; 30'</td><td>0–35</td><td>10 %</td><td>20 %</td></tr>
+<tr><td>16–30'</td><td>36–71</td><td>20 %</td><td>30 %</td></tr>
+<tr><td>11–15'</td><td>72–107</td><td>30 %</td><td>40 %</td></tr>
+<tr><td>7,5–10'</td><td>108–143</td><td>40 %</td><td>50 %</td></tr>
+<tr><td>&lt; 7,5'</td><td>144 ou plus</td><td>50 %</td><td>50 %</td></tr>
+</table>
+
+<sup>2</sup> Pour les lignes décarbonées durablement et répondant aux critères d'optimisation énergétique, les taux de couverture minimaux exigés sont réduits de 5% si la cadence est de 15 minutes et plus, de 10 % si la cadence est inférieure à 15 minutes.
+
+#### Art. 74
+
+**Co-commande de trafic local – Taux de remplissage (art. 153 al. 2 let. b LMob)**
+
+<sup>1</sup> Le taux de remplissage minimal est de 6 % avec pour objectif un taux de 10 %.
+
+<sup>2</sup> Le taux de remplissage se calcule en divisant les voyageurs-kilomètres par le produit résultant de la multiplication entre le nombre de kilomètres productifs et le nombre de places (assises et debout) du véhicule:
+
+<sup>3</sup> Les voyageurs-kilomètres correspondent à la somme totale des kilomètres parcourus par tous les passagers calculés en application des prescriptions de l'Office fédéral des transports.
+
+<sup>4</sup> Les kilomètres productifs sont la prestation kilométrique de l'offre utilisable par les passagers (depuis la station de départ jusqu'à la station d'arrivée). Ils sont également calculés en application des prescriptions de l'Office fédéral des transports.
+
+#### Art. 75
+
+**Co-commande de trafic local - Exigences non-remplies (art. 153 al. 2 let. b)**
+
+<sup>1</sup> Si une ligne ne satisfait plus aux exigences fixées aux articles 73 et 74 pour la période concernée, l'accord sur l'offre pour la période d'horaire suivante sera assorti d'une réserve quant au renouvellement de la participation de l'État à la commande.
+
+<sup>2</sup> Si malgré la réserve, la ligne concernée ne remplit toujours pas les conditions, l'Etat renoncera à participer à la commande de cette ligne.
+
+<sup>3</sup> La période horaire est déterminée par la Confédération. Elle est en général de deux ans.
+
+#### Art. 76
+
+**Co-commande de trafic local – Modalités (art. 153 al. 2 LMob)**
+
+<sup>1</sup> Le SMo examine le respect des exigences par les lignes ayant fait l'objet d'une offre dans le cadre de la procédure de commande. Le cas échéant, il fixe le nombre de courses à assurer.
+
+<sup>2</sup> Il avise les communes et les entreprises de transport concernées du résultat de l'examen et les informe avant toute renonciation à la participation de l'Etat.
+
+<sup>3</sup> Lorsque des synergies avec des lignes de trafic local existantes commandés par une autre commune ou communauté régionale sont possibles, le SMo peut exiger de la commune qu'elle s'associe à la commune ou communauté régionale pour la commande.
+
+<sup>4</sup> Les entreprises de transport public concernées établissent périodiquement un rapport d'efficience à l'intention des co-commanditaires.
+
+### 5.3 Autorisations cantonales
+
+#### Art. 77
+
+**Généralités (art. 157 LMob)**
+
+<sup>1</sup> Le droit fédéral définit les cas dans lesquels une autorisation cantonale pour le transport des voyageurs est nécessaire et à quelles conditions elle doit être octroyée.
+
+<sup>2</sup> Lors de l'octroi, il est également tenu compte de la coordination avec les lignes de transports publics existantes.
+
+#### Art. 78
+
+**Compétence (art. 157 LMob)**
+
+<sup>1</sup> Le SMo est compétent pour délivrer l'autorisation.
+
+<sup>2</sup> Il transmet à l'Office fédéral des transports une copie de l'autorisation délivrée.
+
+<sup>3</sup> L'autorisation peut être assortie de charges et de conditions.
+
+#### Art. 79
+
+**Effets (art. 157 LMob)**
+
+<sup>1</sup> L'exploitation ne peut commencer qu'après l'octroi de l'autorisation.
+
+<sup>2</sup> L'autorisation est valable pour une durée de 5 ans, à l'exception de l'autorisation pour les mini-téléskis qui est valable 3 ans.
+
+#### Art. 80
+
+**Retrait de l'autorisation (art. 157 LMob)**
+
+<sup>1</sup> L'autorisation peut être retirée en tout temps, partiellement ou totalement, lorsque:
+
+- a) les conditions auxquelles elle doit satisfaire ne sont plus remplies;
+- b) des violations graves ou réitérées des prescription ou des charges ont été commises; ou
+- c) l'intérêt public le justifie.
+
+#### Art. 81
+
+**Installation à câbles et skilifts (art. 157 al. 1 LMob)**
+
+<sup>1</sup> Pour l'exploitation d'une installation à câbles ou un skilift, la demande d'autorisation doit être adressée avec les documents requis, y compris une copie de la police d'assurance, au SMo. Ce dernier vérifie si le dossier est complet et, au besoin, le fait compléter.
+
+<sup>2</sup> Le SMo soumet la demande à l'organe de contrôle technique désigné par le concordat concernant les installations de transport par câbles et skilifts sans concession fédérale.
+
+<sup>3</sup> L'autorisation d'exploiter n'est délivrée que si l'installation répond aux conditions posées à l'art. 5 du concordat du 15 octobre 1951 concernant les installations de transport par câbles et skilifts sans concession fédérale.
+
+<sup>4</sup> Le SMo est aussi compétent pour mener la procédure d'approbation du plan d'infrastructure de mobilité.
+
+#### Art. 82
+
+**Autres transports publics de moindre importance (art. 157 al. 2 LMob)**
+
+<sup>1</sup> Pour les autres autorisations, la demande d'octroi, de renouvellement, de transfert ou de modification d'autorisations est adressée au SMo, au plus tard trois mois avant la date prévue pour le début des courses.
+
+<sup>2</sup> Elle est accompagnée des indications suivantes:
+
+- a) les coordonnées précises du requérant ou de la requérante;
+- b) les lignes, les itinéraires prévus et les points d'arrêts, avec la distance qui les séparent;
+- c) l'extrait d'une carte topographique au 1:25'000, avec la mention de l'itinéraire et des points d'arrêts;
+- d) la date de début et la période d'exploitation;
+- e) les horaires et les tarifs;
+- f) l'évaluation des coûts annuels, selon leur nature, avec la mention de la personne ou de l'établissement prenant en charge d'éventuels déficits;
+- g) les caractéristiques techniques des véhicules ou des bateaux utilisés pour les courses;
+- h) les coordonnées du propriétaire des véhicules ou des bateaux ainsi que l'entreprise dont dépend le personnel roulant ou naviguant;
+- i) l'attestation de l'autorité communale autorisant l'utilisation de points d'arrêts sur le domaine public et, sur le domaine privé, celle des propriétaires concernés.
+
+<sup>3</sup> Le SMo peut, si nécessaire, demander des indications complémentaires au requérant ou à la requérante ou renoncer à certaines indications prévues à l'alinéa 2 en cas de renouvellement.
+
+<sup>4</sup> Avant l'octroi de l'autorisation, le SMo consulte, si nécessaire, les services cantonaux, les autorités communales et les entreprises de transport public intéressés.
+
+<sup>5</sup> Les véhicules, les bateaux et leurs conducteurs et conductrices doivent satisfaire aux exigences de la législation sur la circulation routière et de la navigation intérieure.
+
+## 6 Financement
+
+### 6.1 En général
+
+#### Art. 83
+
+**Demande de subvention (art. 159 LMob)**
+
+<sup>1</sup> Le requérant ou la requérante de subvention soumet sa demande avant le début des travaux.
+
+#### Art. 84
+
+**Commission de sécurité du réseau de mobilité (art. 162 LMob)**
+
+<sup>1</sup> La Commission de sécurité du réseau de mobilité est composée:
+
+- a) du ou de la préposé·e à la sécurité prévu par la législation sur la circulation routière;
+- b) de l'officier de la Police cantonale en charge de la police de la circulation;
+- c) d'un·e représentant·e du SMo;
+- d) d'un·e représentant·e du SPC;
+- e) de quatre personnes représentant les associations routières (mobilité douce, trafic motorisé, victimes de la route et les personnes à mobilité réduite).
+
+<sup>2</sup> La Présidence et le secrétariat sont assurés par la Police cantonale.
+
+<sup>3</sup> Les membres de la Commission sont nommés par le Conseil d'Etat pour une période administrative conformément à la législation sur la durée des fonctions publiques accessoires.
+
+<sup>4</sup> Les chargés de prévention de la Police cantonale et de l'Office de la circulation et de la navigation participent aux séances de la Commission avec voix consultative.
+
+<sup>5</sup> La Commission peut inviter aux séances comme experts les représentants d'organisations ou de milieux concernés.
+
+<sup>6</sup> Elle fixe la fréquence de ses séances et règle son fonctionnement interne.
+
+#### Art. 85
+
+**Soutien à la mobilité durable (art. 163 et 164 LMob)**
+
+<sup>1</sup> Toute demande de subvention doit être déposée auprès du SMo. Ce dernier est chargé de l'examen de la demande.
+
+<sup>2</sup> Il n'existe pas de droit à l'obtention d'une subvention.
+
+<sup>3</sup> La subvention est accordée dans les limites des moyens financiers disponibles et à titre subsidiaire; d'autres formes de soutien devant être recherchées préalablement.
+
+#### Art. 86
+
+**Transport de personnes en situation de handicap (art. 186 LMob)**
 
 <sup>1</sup> La liste des institutions dont le but est le transport de personnes handicapées est arrêtée par le Conseil d'Etat.
 
-<sup>2</sup> Les institutions requérantes doivent fonder leur demande sur un programme financier quinquennal, qui indique notamment le parc de véhicules en service, les modalités de son renouvellement et les montants annuels sollicités.
+<sup>2</sup> Les institutions requérantes doivent déposer leur demande auprès du SMo. La demande doit se fonder sur un programme financier quinquennal, qui indique notamment le parc de véhicules en service, les modalités de son renouvellement et les montants annuels sollicités.
 
 <sup>3</sup> Les montants sont libérés selon les acquisitions effectives des institutions et en tenant compte du parc de véhicules en service.
 
 <sup>4</sup> La participation de l'Etat s'élève au maximum à 50 % du coût des acquisitions.
 
-#### Art. 10
+### 6.2 Infrastructure de mobilité
 
-**Trafic ferroviaire marchandises**
+### 6.2.1 Déplacement d'aménagements sur ou le long de la chaussée
 
-<sup>1</sup> Les infrastructures liées au réseau ferroviaire telles que voies de raccordement et installations d'interfaces rail-route peuvent bénéficier d'une aide financière.
+#### Art. 87
 
-<sup>2</sup> La contribution versée par l'Etat s'élève à 5 % du coût du projet, jusqu'à concurrence de 100'000 francs.
+**Répartition des frais (art. 165 LMob)**
 
-<sup>3</sup> Les subventions sont versées une fois le projet réalisé, après décision formelle des instances compétentes et acceptation des budgets.
+<sup>1</sup> Dans le cas où le ou la propriétaire de la route doit élargir la chaussée de la route, il ou elle procédera au déplacement de tout aménagement se situant sur ou le long de la chaussée.
 
-### 3.2 Aide à l'exploitation (art. 38 à 42 LTr)
+<sup>2</sup> Si l'aménagement à déplacer n'est pas de sa compétence, les coûts de déplacement seront répartis de manière suivante:
 
-#### Art. 11
+- a) La valeur d'amortissement de l'aménagement à déplacer et les frais d'acquisition de terrain pour celui-ci sont à la charge de la collectivité publique responsable du financement de l'aménagement en question selon les art. 167 à 174 LMob.
+- b) La valeur résiduelle de l'aménagement à déplacer est à la charge du ou de la propriétaire de la route.
 
-**Trafic voyageurs régional – Modalités de subventionnement**
+### 6.2.2 Objets à caractère édilitaire
 
-<sup>1</sup> Le subventionnement à l'exploitation du trafic régional voyageurs s'opère selon les clés de répartition et les conventions d'offres définies par la législation fédérale.
+#### Art. 88
 
-<sup>2</sup> Les montants des subventions sont intégrés dans le plan financier et le budget de l'Etat.
+**Objets exigés (art. 167 al. 2 et 3 LMob)**
 
-#### Art. 12
+<sup>1</sup> Les objets pour la traversée de piétons et de deux-roues légers tels que les passages inférieurs ou passerelles pour piétons ainsi que la signalisation lumineuse sur un passage piéton sont nécessaires pour autant que le trafic à l'heure de pointe déterminante soit d'au moins 1'000 véhicules motorisés et 50 piétons ou deux-roues légers par heure.
 
-**Trafic voyageurs régional – Lignes ou prestations nouvelles**
+<sup>2</sup> Les autres objets tels que les boviducs, les modifications de carrefours ou les présélections sont nécessaires pour autant que le trafic journalier moyen calculé selon les normes soit supérieur à 6'500 véhicules motorisés, que les risques liés à la sécurité soient avérés et que la pérennité de l'installation soit garantie.
 
-<sup>1</sup> Pour les nouvelles lignes ou prestations introduites pendant une période d'essai, la contribution de l'Etat n'excède pas 30 % du coût, déduction faite des recettes. Passé le délai, si ces lignes ou prestations sont reconnues par la Confédération et l'Etat comme élément de desserte de base, les modalités de financement sont fixées selon l'article 11 al. 1.
+<sup>3</sup> Seuls les projets mis à l'enquête publique après l'entrée en vigueur du présent règlement sont concernés.
 
-<sup>2</sup> Si la Confédération n'intègre pas ces lignes ou prestations dans l'offre globale, les requérants financent le coût total de la prestation commandée.
+### 6.2.3 Mesures de modération de trafic ou de vitesse
 
-#### Art. 13
+#### Art. 89
 
-<sup>1</sup> Avant d'engager les démarches relatives au financement des communautés régionales, le Service contrôle le bien-fondé de la conception globale, du plan régional des transports et du projet général.
+**Taux de trafic de transit (art. 167 al. 4 LMob)**
 
-<sup>2</sup> Le Service vérifie que les communautés régionales disposent de bases contractuelles suffisantes pour obliger les partenaires concernés à atteindre les objectifs de la conception globale en assurant leur part de financement.
+<sup>1</sup> Le taux de trafic de transit sur la traversée de localité correspond au trafic journalier moyen duquel est déduit le trafic d'origine et de destination induit par la localité.
 
-<sup>3</sup> Les communautés régionales établissent périodiquement un rapport d'efficience à l'intention du Service.
+<sup>2</sup> La commune est en charge d'établir l'étude de trafic de transit en application des normes en vigueur.
 
-<sup>4</sup> Les prestations de transport public mandatées par une communauté régionale avec l'aide financière de l'Etat doivent, en ce qui concerne les taux d'occupation et de couverture des coûts, viser les objectifs et respecter les valeurs minimales fixés selon les principes suivants:
+<sup>3</sup> Le taux de trafic de transit est fixé par le SPC, après consultation du SMo.
 
-- a) Objectifs:
-  - 1\. Taux d'utilisation (nombre de personnes par course): — 18 personnes
-  - 2\. Taux de couverture des coûts: — 40 %
-- b) Exigences minimales:
-  - 1\. Taux d'utilisation (nombre de personnes par course): — 11 personnes
-  - 2\. Taux de couverture des coûts: — 20 %
-- c) Le taux d'utilisation se mesure sur la section la plus chargée de la ligne considérée.
-- d) Les taux d'utilisation et de couverture des coûts s'appliquent aux lignes de bus et de trolleybus, les autres systèmes de transport (funiculaire, etc.) devant satisfaire uniquement aux exigences concernant le taux de couverture des coûts.
+#### Art. 90
 
-<sup>5</sup> Le Service analyse les offres des entreprises mandatées par les communautés régionales et fixe le montant total donnant droit à la participation de l'Etat.
+**Conditions de participation de l'Etat (art. 167 al. 4 LMob)**
 
-<sup>6</sup> Lorsque les valeurs minimales ne sont pas atteintes, la participation de l'Etat est réduite proportionnellement.
+<sup>1</sup> Une participation de l'Etat à des mesures de modération de trafic ou de vitesse dans une localité a lieu à condition que:
 
-<sup>7</sup> Les communautés régionales transmettent annuellement au Service les prévisions budgétaires pour les quatre prochaines années.
+- a) il n'y ait pas de projet de route de contournement planifié dans un horizon de 20 ans, ou que la commune ait explicitement renoncé à la réalisation d'une route de contournement pour les 20 prochaines années
+- b) le trafic journalier moyen sur la traversée, calculé selon les normes, soit supérieur à 6'500 véhicules motorisés; et
+- c) les mesures s'inscrivent dans un concept global.
 
-#### Art. 13a
+#### Art. 91
 
-**Répartition des charges d'exploitation du trafic régional entre les communes – Principe**
+**Modalités (art. 167 al. 4 LMob)**
 
-<sup>1</sup> La participation de chaque commune aux indemnités d'exploitation du trafic régional à la charge de l'ensemble des communes est proportionnelle pour 80 % au chiffre de sa population légale, multiplié par le coefficient de pondération de son offre de transport, et pour 20 % au chiffre de sa population légale.
+<sup>1</sup> L'indemnité est versée au plus tôt après la réception des travaux, sur la base d'un décompte final établi par la commune. Si les travaux sont réalisés par étapes, un acompte peut être versée à la fin de chaque étape au prorata des travaux réalisés. La somme des acomptes ne peut pas dépasser 80 % de l'indemnité promise.
 
-<sup>2</sup> Les données utilisées pour la répartition des charges sont celles qui sont disponibles le 1er janvier de l'année de calcul.
+#### Art. 92
 
-#### Art. 13b
+**Notion de localité (art. 167 al. 4 et art. 172 LMob)**
 
-**Répartition des charges d'exploitation du trafic régional entre les communes – Détermination de l'offre de transport**
+<sup>1</sup> Le début et la fin d'une traversée de localité se déterminent sur la base de la législation fédérale en matière de signalisation.
+
+### 6.2.4 Croisements de routes
+
+#### Art. 93
+
+**Notions (art. 169 LMob)**
+
+<sup>1</sup> Par croisement de routes, on entend notamment:
+
+- a) un embranchement de route sur une autre sous forme de carrefour en «T»;
+- b) un carrefour sous forme de croisement de deux routes ou plus à niveau;
+- c) un croisement dénivelé sous forme de croisement de deux routes ou plus à des niveaux différents;
+- d) un carrefour giratoire;
+- e) toute combinaison des variantes ci-dessus.
+
+<sup>2</sup> Par le réaménagement d'un croisement, on entend la modification de sa géométrie ou de sa signalisation. Il peut être nécessaire pour des raisons de sécurité, d'un manque de capacité ou de la fluidité du trafic.
+
+<sup>3</sup> Par largeur de base d'une route, on entend la largeur de la route nécessaire à son fonctionnement sans qu'il y ait un croisement de routes.
+
+#### Art. 94
+
+**Modalités (art. 169 al. 2 LMob)**
+
+<sup>1</sup> Tout projet d'aménagement ou de réaménagement de croisement de routes doit faire l'objet d'une étude de circulation préalable qui met en évidence les déficiences du croisement et les besoins du trafic.
+
+<sup>2</sup> Lorsque le croisement concerne des routes appartenant à des propriétaires différents, l'étude de circulation est effectuée, sauf convention contraire, par le ou la propriétaire de la route de rang supérieur aux frais du requérant ou de la requérante.
+
+<sup>3</sup> Le ou la propriétaire chargé/e de l'étude consulte et informe les propriétaires des autres routes du croisement. Il leur propose un programme de travaux et une répartition des frais.
+
+<sup>4</sup> Avant le début des travaux, les propriétaires des routes concernées par le projet conviennent de la répartition des coûts, de l'abornement, de la propriété des ouvrages ainsi que de leur mode de conservation.
+
+#### Art. 95
+
+**Frais à répartir (art. 169 al. 2 LMob).**
+
+<sup>1</sup> Les frais comprennent les frais d'étude, d'exécution, de la surveillance, des acquisitions foncières et de l'abornement.
+
+<sup>2</sup> Pour les croisements sans giratoire, chaque propriétaire de route prend à sa charge les frais à l'intérieur de la largeur de base de la route comme illustré à l'annexe 2. En cas de signalisation lumineuse, les coûts s'y afférent sont répartis à parts égales entre les propriétaires.
+
+<sup>3</sup> Pour les croisements avec giratoire, les frais sont répartis selon les principes suivants:
+
+- a) chaque propriétaire de route accédant au giratoire prend à sa charge les frais à l'intérieur de sa largeur de base;
+- b) les autres frais sont répartis en parts égales entre les propriétaires pour chaque branche accédant au giratoire.
+
+<sup>4</sup> Pour les croisements à différents niveaux, les frais sont répartis entre les propriétaires conformément à l'alinéa 2, en incluant les ouvrages d'art et les remblais et déblais d'accès.
+
+<sup>5</sup> Les frais découlant d'objets à caractère édilitaire selon l'art. 167 al. 1 LMob restent réservés.
+
+### 6.2.5 Infrastructures dédiées au transport public
+
+#### Art. 96
+
+**Financement des arrêts de bus sur route communale ou privée à usage public (art. 174 al. 1 LMob)**
+
+<sup>1</sup> Sur présentation d'un devis détaillé, un montant forfaitaire est accordé aux communes pour la construction, le réaménagement et la mise en conformité d'un arrêt de bus.
+
+<sup>2</sup> Ce montant couvre l'étude, la réalisation et l'équipement standard de l'arrêt y compris les frais d'acquisition de terrain pour l'arrêt et le quai, les travaux liés à la chaussée, le marquage de l'arrêt et la TVA.
+
+<sup>3</sup> Sous réserve des compétence financières du Conseil d'Etat, la DIME décide sur préavis du SPC et dans le cadre budgétaire de l'octroi du montant lors de l'approbation du plan d'infrastructure de mobilité.
+
+<sup>4</sup> Le montant est versé lors de la fin des travaux, sur la base d'une confirmation de réalisation des travaux.
+
+#### Art. 97
+
+**Infrastructures pour la navigation concessionnée (art. 174 LMob)**
+
+<sup>1</sup> Lorsqu'un port ou débarcadère représente un avantage particulier pour d'autres communes ou des tiers, leur participation financière est calculée selon leur degré d'intérêt.
+
+<sup>2</sup> Quatre périmètres d'influence sont définis à partir de l'infrastructure selon l'éloignement: distance inférieure à 1 km, à 2 km, à 3 km et à 4 km. La participation financière de chaque commune est déterminée selon le rapport entre la surface de son territoire comprise dans les périmètres d'influence et la surface totale de ces périmètres.
+
+<sup>3</sup> Est réservée toute convention fixant une autre répartition des frais.
+
+#### Art. 98
+
+**Autres infrastructures dédiées au transport public (art. 174 al. 2 LMob)**
+
+<sup>1</sup> Les parties doivent s'être mises d'accord sur le financement au plus tard avant le début des travaux.
+
+#### Art. 99
+
+**Fonds fédéral d'infrastructure ferroviaire (art. 175 al. 3 LMob)**
+
+<sup>1</sup> Le chiffre de population dite légale des communes est arrêté sur la base des dernières données disponibles.
+
+<sup>2</sup> Le SMo fixe la répartition entre les communes pour chaque année civile. Il leur communique les montants à retenir dans leur budget avant le 30 septembre de chaque année.
+
+<sup>3</sup> La participation des communes est débitée trimestriellement sur les comptes courants des communes auprès de la comptabilité de l'Etat, sur ordre du SMo, avec avis aux communes.
+
+### 6.2.6 Projets d'agglomération
+
+#### Art. 100
+
+**Soutien aux études d'élaboration des projets d'agglomération (art. 177 LMob)**
+
+<sup>1</sup> Le soutien n'est accordé que pour les études portant sur un projet d'agglomération au sens de la législation fédérale.
+
+<sup>2</sup> La demande écrite de soutien doit être déposée auprès de la DIME avant le début des études. Un représentant de l'Etat sera intégré au groupe d'accompagnement de l'étude.
+
+<sup>3</sup> Lorsque l'Etat accorde un soutien financier pour les études d'élaboration des projets d'agglomération, celui-ci est versé l'année qui suit le dépôt du projet d'agglomération auprès de la Confédération.
+
+<sup>4</sup> Lorsque ce soutien est accordé, l'étude concernée ne peut plus faire l'objet d'un financement au sens de la législation sur l'aménagement du territoire et les constructions.
+
+#### Art. 101
+
+**Soutien aux mesures d'infrastructures de transports et de requalification des espaces publics (art. 177 LMob)**
+
+<sup>1</sup> Les mesures d'infrastructures de transports et de requalification des espaces publics, prévues dans les mesures d'un projet d'agglomération, peuvent faire l'objet d'une contribution financière représentant au maximum 50 % du solde des dépenses totales, après déduction des subventions fédérales et, le cas échéant, des subventions cantonales prévues par d'autres lois.
+
+<sup>2</sup> La contribution financière fait l'objet d'un crédit cadre portant sur une génération de projet de l'organisme responsable.
+
+<sup>3</sup> La DIME élabore, à l'intention du Conseil d'Etat, les projets de décrets et de messages relatifs aux crédits cadre.
+
+<sup>4</sup> Les montants considérés ne sont versés que si la mesure est intégré dans un crédit cadre et fait l'objet d'une convention de financement fédérale ou cantonale. Ces montants sont inscrits dans les budgets de l'Etat et de l'organisme chargé d'élaborer et de mettre en œuvre le projet d'agglomération.
+
+<sup>5</sup> L'organisme responsable soumet à la DIME un rapport annuel sur l'état d'avancement des mesures faisant l'objet des programmes d'agglomération.
+
+#### Art. 102
+
+**Plateforme multimodale - Définition (art. 179 LMob)**
+
+<sup>1</sup> Une plateforme multimodale est considérée comme lieu intermédiaire de transbordement d'usagers et usagères de transport et implique au moins un moyen de transports publics.
+
+#### Art. 103
+
+**Plateforme multimodale - Subvention (art. 179 LMob)**
+
+<sup>1</sup> Dans la limite des moyens financiers disponibles, l'Etat contribue à hauteur de 50 % au maximum aux coûts de construction ou de réaménagement nécessaires d'une plateforme multimodale après déduction de toute autre participation fédérale et cantonale ainsi que les coûts subséquents d'investissements intégrés à l'offre en trafic cantonal ou local de voyageurs.
+
+<sup>2</sup> La plateforme multimodale doit faire l'objet d'une conception globale (définissant le ou les maîtres d'ouvrage) validée préalablement par le SMo. Elle peut être réalisée en étape.
+
+<sup>3</sup> L'indemnité est versée au plus tôt après la réception des travaux, sur la base d'un décompte final. Si les travaux sont réalisés par étape, un acompte peut être payée à la fin de chaque étape au prorata des travaux réalisés. La somme des acomptes ne peut pas dépasser 80 % de l'indemnité promise.
+
+<sup>4</sup> Le SMo est compétent pour élaborer des directives en la matière.
+
+<sup>5</sup> Il n'existe pas de droit à l'obtention d'une subvention.
+
+### 6.3 Aide à l'exploitation
+
+### 6.3.1 Participation de tiers
+
+#### Art. 104
+
+**Principe (art. 181 LMob)**
+
+<sup>1</sup> L'exploitant d'une installation générant un fort trafic assume tout ou partie des coûts d'exploitation d'une offre de transport public si l'installation:
+
+- a) seule, ou avec des installations voisines générant un fort trafic, est la cause principale de la nouvelle desserte du site par les transports publics ou de l'extension de la desserte;
+- b) a une influence considérable sur la nécessité de maintenir une desserte existante du site par les transports publics; ou
+- c) est située à proximité d'une installation soumise à l'al. 1, let. a ou b, de la présente disposition et si elle tire un avantage de la desserte par les transports publics.
+
+<sup>2</sup> Une participation n'a lieu que si l'installation est exploitée toute l'année ou de manière saisonnière, qu'elle est ouverte au moins trois jours par semaine pendant la durée d'exploitation, et qu'elle dispose au moins 50 places de stationnement accessibles au public.
+
+<sup>3</sup> Si l'installation générant un fort trafic ne peut pas être attribuée à un exploitant déterminé, c'est le ou la propriétaire qui est tenu-e de prendre en charge la participation.
+
+#### Art. 105
+
+**Exception (art. 181 LMob)**
+
+<sup>1</sup> Il n'y a pas d'obligation de participation aux coûts pour les installations générant un fort trafic qui sont exploitées par les collectivités publiques.
+
+#### Art. 106
+
+**Participation (art. 181 LMob)**
+
+<sup>1</sup> Le montant de la participation est déterminé en fonction des coûts non couverts d'une offre de transports publics qui sert à la desserte de l'installation et en fonction de l'utilité de cette offre pour l'exploitation de l'installation.
+
+<sup>2</sup> La participation s'élève au maximum au total des coûts non-couverts de l'offre.
+
+<sup>3</sup> Si l'aménagement d'un arrêt de transport public est aussi nécessaire, les frais de réalisation et l'équipement standard de l'arrêt peuvent également être mis à la charge du générateur de trafic.
+
+<sup>4</sup> Si plusieurs générateurs à fort trafic sont tenus de participer à une offre de transports publics, la somme de leurs contributions n'est pas supérieure au taux maximal prévu à l'al. 2.
+
+### 6.3.2 Contrôle des comptes
+
+#### Art. 107
+
+**Compétence (art. 182 LMob)**
+
+<sup>1</sup> Le contrôle des comptes des entreprises de transports ayant fait l'objet d'une aide à l'exploitation est assuré par le SMo, en collaboration avec le co-commanditaire.
+
+### 6.3.3 Répartition des indemnités d'exploitation du trafic régional des voyageurs entre les communes
+
+#### Art. 108
+
+**Chiffre de population (art. 183 al. 3 LMob)**
+
+<sup>1</sup> Le chiffre de population dite légale est basé sur les derniers chiffres disponibles.
+
+#### Art. 109
+
+**Nombre de départs moyens par jour d'une commune (art. 183 al. 3 LMob)**
+
+<sup>1</sup> Le coefficient de pondération de l'offre se base sur le nombre de départs moyen par jour de la commune (NDMJ).
+
+<sup>2</sup> Le NDMJ est calculé sur la base du nombre de bâtiments situés à proximité d'un arrêt, respectivement du nombre d'habitants de ces bâtiments. Les éléments suivants sont pris en considération:
+
+- a) pour chaque course, l'arrêt de transport public le plus proche du bâtiment considéré est pris en compte;
+- b) les départs sont déterminés selon l'horaire publié;
+- c) les départs sont pris en compte à 100 % si l'arrêt déterminant se trouve à 1000 mètres au plus du bâtiment; ce pourcentage est réduit linéairement jusqu'à 0 pour les distances comprises entre 1000 et 1500 mètres;
+- d) les départs de lignes de trafic local et de lignes d'essais ne sont pas pris en compte;
+- e) les départs moyens par jour par arrêt sont calculés pour la période horaire effective;
+- f) le nombre d'habitants par bâtiment se calcule sur la base des dernières statistiques disponibles de la Confédération au moment de la fixation de la répartition;
+- g) le nombre de départs moyens par jour de la commune (NDMJ) est arrondi à 0 décimale.
+
+#### Art. 110
+
+**Coefficient de pondération (art. 183 al. 3 LMob)**
 
 <sup>1</sup> Le coefficient de pondération de l'offre est calculé selon la méthode suivante:
 
 <table>
-<tr><th>Nombre de départs moyen par jour (NDMJ) de la commune</th><th>Coefficient de pondération (CP)</th></tr>
+<tr><th>Nombre de départs moyen par jour de la commune (NDMJ)</th><th>Coefficient de pondération (CP)</th></tr>
 <tr><td>0 à 40</td><td>CP = NDMJ</td></tr>
-<tr><td>41 à 80</td><td>CP = 40 + (NDMJ - 40) x 0.8</td></tr>
-<tr><td>81 à 120</td><td>CP = 72 + (NDMJ - 80) x 0.6</td></tr>
-<tr><td>Plus de 121</td><td>CP = 96 + (NDMJ - 120) x 0.4</td></tr>
+<tr><td>41 à 80</td><td>CP = 40 + (NDMJ -40) x 0.8</td></tr>
+<tr><td>81 à 120</td><td>CP = 72 + (NDMJ -80) x 0.6</td></tr>
+<tr><td>Plus de 121</td><td>CP = 96 + (NDMJ -120) x 0.4</td></tr>
 </table>
 
-<sup>2</sup> Le nombre de départs moyen par jour (NDMJ) est déterminé sur la base de l'horaire publié. Il est calculé électroniquement pour chaque bâtiment défini selon le dernier recensement fédéral disponible. Le nombre de départs moyen par jour de chaque commune est ensuite calculé en fonction du NDMJ et de la population légale de chaque bâtiment. Pour le calcul du NDMJ de chaque bâtiment, les éléments suivants sont pris en considération:
+#### Art. 111
 
-- a) pour chaque course, l'arrêt le plus proche du bâtiment considéré est pris en compte;
-- b) les départs sont comptabilisés à 100 % si l'arrêt déterminant se trouve à 1000 mètres au plus du bâtiment; ce pourcentage est réduit linéairement jusqu'à 0 pour les distances comprises entre 1000 et 1500 mètres;
-- c) lorsqu'un arrêt déterminant est situé à moins de 1500 mètres de la destination de la course, le départ correspondant n'est pas comptabilisé;
-- d) lorsqu'un bâtiment est desservi par deux courses à moins de huit minutes d'intervalle et que ces deux courses ont la même destination, un seul départ est comptabilisé;
-- e) la fréquence d'un départ toutes les heures est retenue pour les bus sur appel;
-- f) les prestations mandatées par les communes ou par les communautés régionales ne sont pas comptabilisées dans l'offre de transports publics considérée.
+**Décompte et paiement (art. 183 al. 3 LMob)**
 
-#### Art. 13c
+<sup>1</sup> Le SMo fixe la répartition entre les communes pour chaque année civile. Il leur communique les montants à retenir dans leur budget avant le 30 septembre de chaque année.
 
-**Répartition des charges d'exploitation du trafic régional entre les communes – Décompte et paiement**
+<sup>2</sup> La participation des communes est débitée trimestriellement sur les comptes courants des communes auprès de la comptabilité de l'Etat, sur ordre du SMo, avec avis aux communes.
 
-<sup>1</sup> Le Service calcule la clé de répartition entre les communes. Il leur communique les montants à retenir dans leur budget avant le 30 septembre de chaque année.
+#### Art. 112
 
-<sup>2</sup> La participation des communes est débitée trimestriellement sur les comptes courants des communes auprès de la comptabilité de l'Etat, sur ordre du Service, avec avis aux communes.
+**Lignes ou prestations d'essai (art. 185 LMob)**
 
-#### Art. 14
+<sup>1</sup> Des lignes ou prestations d'essai peuvent être subventionnées si:
 
-**Communautés tarifaires intercantonales**
+- a) elles sont opportunes ou innovantes;
+- b) elles ne concurrencent aucune ligne existante des transports publics de manière importante; et
+- c) il est vraisemblable que les exigences minimales relatives à l'utilisation et à la couverture des coûts seront atteintes à terme.
 
-<sup>1</sup> En vue de l'approbation, par le Conseil d'Etat, d'un accord de collaboration dans le cadre d'une communauté tarifaire intercantonale, le Service établit un rapport sur:
+<sup>2</sup> Il n'existe pas de droit à l'obtention d'une subvention.
 
-- a) la nature de l'engagement des communes fribourgeoises intéressées;
-- b) les conséquences financières;
-- c) la disponibilité des autres collectivités publiques à s'engager;
-- d) la conformité du projet aux objectifs de la politique cantonale des transports.
+<sup>3</sup> La subvention est accordée dans les limites des moyens financiers disponibles.
 
-<sup>2</sup> Selon le montant de la contribution, la compétence du Grand Conseil est réservée.
+### 6.3.4 Communautés et mesures tarifaires
 
-#### Art. 15
+#### Art. 113
 
-**Conventions d'offres – Trafic régional**
+**Contribution financière (art. 187 LMob)**
 
-<sup>1</sup> Pour le trafic régional, les conventions d'offres sont établies conformément aux législations fédérale et cantonale.
+<sup>1</sup> L'Etat peut octroyer, en particulier, des contributions financières pour les pertes de recettes qui résultent de l'harmonisation des tarifs dans les communautés tarifaires et qui ne peuvent être compensées par des hausses de prix.
 
-<sup>2</sup> Les subventions sont versées après décision formelle des instances compétentes et acceptation des budgets.
+<sup>2</sup> L'Etat et les entreprises de transport s'efforcent de proposer des tarifs tenant compte des réalités sociales et conformes au marché.
 
-#### Art. 16
+<sup>3</sup> La subvention est accordée dans les limites des moyens financiers disponibles.
 
-**Conventions d'offres – Trafic d'agglomération**
+<sup>4</sup> Il n'existe pas de droit à l'obtention d'une subvention.
 
-<sup>1</sup> Pour le trafic lié à une communauté régionale, les conventions d'offres sont établies conformément au projet général et aux statuts de la communauté constituée.
+## 7 Transport de personnes en taxi et en voiture de transport avec chauffeur
 
-<sup>2</sup> Les subventions sont versées après décision formelle des instances compétentes et acceptation des budgets.
+#### Art. 114
 
-#### Art. 17
+**Notion de transport professionnel (art. 189 LMob)**
 
-**Transports d'écoliers**
+<sup>1</sup> Sont réputées professionnelles les courses qui sont effectuées régulièrement par un conducteur ou une conductrice avec un taxi ou un véhicule de transport avec chauffeur dans le but de réaliser un profit économique. Les courses sont régulières si elles sont effectuées au moins deux fois dans des intervalles de moins de seize jours. Le profit économique est réputé réalisé lorsque le prix requis pour la course dépasse les coûts du véhicule et l'indemnisation des dépenses du conducteur.
 
-<sup>1</sup> Le trafic induit par les écoles est intégré, dans la mesure du possible, dans les prestations offertes par les transports publics concessionnaires financés par les conventions d'offres.
+#### Art. 115
 
-<sup>2</sup> Afin de diminuer les coûts des transports, les écoles adaptent, dans la mesure du possible, leurs horaires à ceux des transports publics.
+**Compétences (art. 192 LMob)**
 
-<sup>3</sup> Les coûts des transports au bénéfice d'une autorisation, au sens de l'article 19 du règlement, sont pris en charge par la Direction de la formation et des affaires culturelles et par les communes, conformément à la loi scolaire.
+<sup>1</sup> Le Service de la police du commerce (ci-après: le SPoCo) est compétent pour l'exécution de la section 7 LMob et des dispositions réglementaires correspondantes.
 
-## 4 Dispositions diverses
+<sup>2</sup> Les contrôles du respect des règles d'exécution incombent aux organes de police compétents au sens de l'ordonnance du 28 mars 2007 sur le contrôle de la circulation routière.
 
-#### Art. 18
+#### Art. 116
 
-**Groupe horaire (art. 6 al. 3 LTr)**
+**Registre cantonal (art. 191 al. 2 LMob)**
 
-<sup>1</sup> Dans le cadre de l'examen des horaires des entreprises de transports publics, le Groupe horaire peut recueillir lui-même les désirs des usagers et formuler des demandes de modifications des projets d'horaires.
+<sup>1</sup> Le SPoCo gère un système d'information sous forme de registre qui sert à recenser les autorisations accordées en application de la section 7 LMob et des données de base y relatives.
 
-<sup>2</sup> Le Groupe horaire participe également à l'élaboration des conventions d'offres en matière de trafic régional.
+<sup>2</sup> Les communes ont accès audit registre et y saisissent les données relatives aux autorisations qu'elles délivrent.
 
-<sup>3</sup> Il invite à ses séances les représentants de la Direction de la formation et des affaires culturelles ainsi que ceux des entreprises de transports publics et des régions concernées.
+<sup>3</sup> La Police cantonal et l'Office de la circulation et de la navigation accès au registre.
 
-#### Art. 19
+<sup>4</sup> Le SPoCo prend les mesures sécuritaires et organisationnelles nécessaires pour le système d'information.
 
-**…**
+#### Art. 117
 
-#### Art. 20
+**Carte de taxi et/ou de limousine – Demande (Art. 193 et 196 LMob)**
 
-**Coordination en matière de trafic marchandises**
+<sup>1</sup> La demande d'obtention ou de renouvellement de la carte est déposée auprès du SPoCo au moyen du formulaire officiel prévu à cet effet, dûment complété et accompagné des documents requis.
 
-<sup>1</sup> En matière de trafic ferroviaire marchandises, le Service établit périodiquement à l'intention du Conseil d'Etat, en collaboration avec les Chemins de fer fédéraux suisses et les entreprises de transports concessionnaires, un rapport sur l'état du système et sur les possibilités offertes au niveau cantonal pour un interface performant rail-route.
+<sup>2</sup> Si la demande d'autorisation ou de renouvellement présente des erreurs ou si elle est incomplète, le SPoCo la retourne au requérant ou à la requérante.
 
-<sup>2</sup> Il s'assure que les régions desservies par les Chemins de fer fédéraux suisses et les entreprises de transports concessionnaires sont traitées équitablement. Le cas échéant, il propose des mesure idoines au Conseil d'Etat.
+<sup>3</sup> La demande de renouvellement doit être déposée suffisamment tôt avant la fin de validité de la carte.
 
-<sup>3</sup> Le Service peut proposer au Conseil d'Etat des mesures en vue de maintenir ou de développer la qualité de desserte dans le domaine du trafic ferroviaire marchandises. Ces mesures doivent être coordonnées avec celles qui sont prévues par le plan des mesures pour la protection de l'air et le plan sectoriel des zones d'activité.
+#### Art. 118
 
-## 5 Dispositions finales
+**Carte de taxi et/ou de limousine – Décisions de condamnation incompatibles (art. 193 al. 1 let. b et c et art. 196 al. 1 LMob)**
 
-#### Art. 21
+<sup>1</sup> Les décisions administratives ou condamnations sont considérées incompatibles avec l'exercice de la profession de chauffeur de taxi lorsqu'elles portent sur des:
 
-**Abrogation**
+- a) infractions au droit pénal commun, suisse ou étranger, en particulier celles contre la vie, l'intégrité corporelle, l'intégrité sexuelle ou le patrimoine;
+- b) infractions aux règles de la circulation routière ou inaptitude à la conduite ayant mené à un retrait du permis de conduire en application des articles 15d, 16b, 16c, 16cbis ou 16d de la loi fédérale du 19 décembre 1958 sur la circulation routière;
+- c) infractions aux prescriptions de droit fédéral ou cantonal régissant l'activité des chauffeurs professionnels ainsi que les exigences liées aux véhicules.
 
-<sup>1</sup> L'arrêté du 9 juin 1981 instituant une commission des horaires (RSF 780.52) est abrogé.
+<sup>2</sup> Le SPoCo tient notamment compte de la gravité des faits ou de leur réitération, du temps écoulé depuis le prononcé de la décision, respectivement de la condamnation, ainsi que du risque de récidive.
 
-#### Art. 22
+<sup>3</sup> Il peut suspendre l'examen de la demande lorsqu'il est porté à sa connaissance que le requérant ou la requérante fait l'objet d'une procédure pendante pouvant mener au prononcé d'une décision ou condamnation au sens du présent article.
 
-**Modification**
+#### Art. 119
 
-<sup>1</sup> Le règlement du 18 décembre 1984 d'exécution de la loi du 9 mai 1983 sur l'aménagement du territoire et les constructions (RSF 710.11) est modifié comme il suit:
+**Enseigne lumineuse (art. 194 al. 2 LMob)**
 
-...
+<sup>1</sup> Tout taxi est muni en permanence, lorsqu'il est en service, d'un équipement composé notamment d'une enseigne lumineuse " Taxi " fixée sur le toit du véhicule.
 
-#### Art. 23
+<sup>2</sup> Cette enseigne lumineuse doit répondre aux exigences de l'article 110, alinéa 2, lettre b de l'ordonnance concernant les exigences techniques requises pour les véhicules et à l'annexe 8, ch 2, 23 OETV.
 
-**Entrée en vigueur**
+<sup>3</sup> Lorsque le taxi est utilisé pour l'usage privé, l'enseigne lumineuse doit être masquée ou démontée.
 
-<sup>1</sup> Le présent règlement entre en vigueur le 1<sup>er</sup> janvier 1997.
+#### Art. 120
 
-<sup>2</sup> Il est publié dans la Feuille officielle, inséré dans le Bulletin des lois et imprimé en livrets.
+**Taximètre (art. 194 al. 2 LMob)**
 
-BL/AGS 1996 f 696 / d 707
+<sup>1</sup> Seules les entreprises agréées par l'Office de la circulation et de la navigation sont autorisées à monter et/ou réparer les taximètres. La liste des entreprises concernées est fournie sur demande.
+
+#### Art. 121
+
+**Vignette (art. 196 al. 3 LMob)**
+
+<sup>1</sup> La vignette comporte notamment les données suivantes:
+
+- a) l'identité du titulaire de la vignette (nom, prénom, date de naissance);
+- b) le numéro de plaque du véhicule;
+- c) les dates de début et de fin de validité de l'autorisation;
+- d) sa date d'émission.
+
+<sup>2</sup> L'affichage de la vignette ne doit pas se faire sur une vitre nécessaire à la visibilité du conducteur.
+
+#### Art. 122
+
+**Autorisation de diffuseur de course (art. 197 LMob)**
+
+<sup>1</sup> La demande d'autorisation se fait au moyen du formulaire officiel mis à disposition par le SPoCo, dûment complété, accompagné des documents requis.
+
+<sup>2</sup> Si le diffuseur est une personne physique, la formule doit être signée par ce dernier et être accompagnée des pièces suivantes:
+
+- a) copie d'une pièce d'identité en cours de validité;
+- b) justificatif de domicile en Suisse datant de moins de 3 mois (attestation originale de l'autorité cantonale compétente).
+
+<sup>3</sup> Si l'annonceur est une personne morale, la formule doit être signée par la ou les personnes ayant le pouvoir de l'engager valablement, et être accompagnée des pièces suivantes:
+
+- a) copie d'une pièce d'identité en cours de validité de la ou des personnes ayant le pouvoir d'engager valablement la personne morale;
+- b) justificatif de siège en Suisse datant de moins de 3 mois (extrait du registre du commerce de la société).
+
+#### Art. 123
+
+**Mesure pénale (art. 202 LMob)**
+
+<sup>1</sup> L'amende est prononcée par le Préfet conformément à la loi sur la justice.
+
+#### Art. 124
+
+**Émoluments (art. 203 LMob)**
+
+<sup>1</sup> Le montant de l'émolument de délivrance et de renouvellement est forfaitaire. Il est fixé par type d'autorisation:
+
+- a) Carte de taxi et de limousine: CHF 200.- par carte
+- b) Véhicules: CHF 200.- par véhicule
+  - aa) pour les véhicules mus exclusivement par l'énergie électrique ou l'hydrogène: CHF 150.- par véhicule
+  - bb) pour les véhicules mus par une motorisation hybride à gaz ou assimilable: CHF 300.- pas véhicule
+  - cc) pour les autres véhicules: CHF 400.- par véhicule
+- c) Diffuseur de courses: CHF 500 par diffuseur
+- d) Demande simultanée de carte et de véhicule: un rabais de CHF 150.- est appliqué.
+
+## 8 Dispositions transitoires
+
+### 8.1 Droit transitoire relatif aux modalités de transfert des routes
+
+#### Art. 125
+
+**Remise de documents et informations (art. 204 LMob)**
+
+<sup>1</sup> Avant le transfert de propriété, les communes remettent à l'Etat les documents et informations suivantes correspondant à l'état d'exécution:
+
+- a) les plans des canalisations;
+- b) les plans des ouvrages d'arts;
+- c) les plans de marquage;
+- d) les plans de toute infrastructure dans le domaine public;
+- e) les éventuelles conventions et autorisations;
+- f) toutes données informatiques;
+- g) la planification des travaux de l'entretien des routes;
+- h) les informations quant aux projets prévus ou en cours;
+- i) les éventuelles informations quant aux problèmes liés à l'abornement ou au parcellaire de la route;
+- j) les éventuelles informations sur les défauts récurrents sur la route (par exemple éboulements, inondations, glissements de terrains, etc.).
+
+#### Art. 126
+
+**Registre foncier (art. 204 LMob)**
+
+<sup>1</sup> Avant le transfert de propriété, la commune s'assure que l'abornement des biens-fonds à transférer est mis en place et complet.
+
+<sup>2</sup> La commune veille à ce que les informations quant à la couverture du sol sont à jour dans le registre foncier.
+
+<sup>3</sup> Les frais de transfert de propriété sont à la charge de l'Etat.
+
+#### Art. 127
+
+**Opération de transfert (art. 204 LMob)**
+
+<sup>1</sup> Tous les biens-fonds en propriété de la commune et ouvrages nécessaires à l'exploitation de la route doivent être transféré à l'Etat.
+
+<sup>2</sup> Le transfert est confirmé par arrêté du Conseil d'Etat.
+
+#### Art. 128
+
+**Effets (art. 204 LMob)**
+
+<sup>1</sup> Dès l'entrée en vigueur du présent règlement, aucune opération d'acquisition ou de vente de biens-fonds de la route communale n'est autorisée sans l'accord du SPC.
+
+<sup>2</sup> S'agissant des demandes d'approbation des plans en suspens dans le cadre de projets de construction ou de réaménagement, la commune demeure compétente jusqu'à l'achèvement des procédures.
+
+### 8.2 Droit transitoire relatif au transport de personnes en taxi et en limousine
+
+#### Art. 129
+
+**Mise en place du registre cantonal (191 al. 2 LMob)**
+
+<sup>1</sup> Le registre cantonal prévu à l'art. 114 est mis en place dans un délai de deux ans après l'entrée en vigueur du présent règlement.
+
+#### Art. 130
+
+**Autorisation antérieure valable (art. 193 à 196 LMob)**
+
+<sup>1</sup> Toute autorisation de service de taxi délivrée par une commune en 2022 demeure valable 12 mois après l'entrée en vigueur de la loi sur la mobilité et autorise son titulaire à poursuivre son activité.
+
+<sup>2</sup> Au terme du délai, une autorisation au sens des art. 193 à 197 LMob devra être obtenue auprès du SPoCo.
+
+#### Art. 131
+
+**Autorisation provisoire (art. 193 à 196 LMob)**
+
+<sup>1</sup> Toute personne requérant une autorisation pour débuter une activité de transport professionnel de personnes doit adresser une demande d'autorisation provisoire au SPoCo.
+
+<sup>2</sup> La demande contient:
+
+- a) Adresse et numéro de téléphone;
+- b) Copie de la carte d'identité ou du passeport;
+- c) Copie de la carte de véhicule.
+
+<sup>3</sup> Le SPoCo délivre une autorisation provisoire permettant d'exercer l'activité jusqu'au 30 juin 2023.
+
+<sup>4</sup> Il perçoit un émolument de 50 francs.
+
+### 8.3 Autres dispositions transitoires
+
+#### Art. 132
+
+**Géodonnées de base relatives à la mobilité (art. 4 LMob)**
+
+<sup>1</sup> Jusqu'à l'entrée en vigueur de l'ordonnance cantonale sur la géoinformation, le Service du cadastre et de la géomatique fournit sur demande les informations sur les géodonnées de base relatives à la mobilité.
+
+#### Art. 133
+
+**Inscription au REG (art. 91 LMob)**
+
+<sup>1</sup> Un délai de 6 mois dès l'entrée en vigueur de la loi est accordé pour obtenir la qualification requise à l'art. 33.
+
+<sup>2</sup> Dans ce délai, la pratique selon l'ancien régime demeure valable.
+
+#### Art. 134
+
+**Subventions d'objets édilitaires exigés (art. 167 al. 2 et 3 LMob)**
+
+<sup>1</sup> Seuls les projets mis à l'enquête publique après l'entrée en vigueur du présent règlement peuvent faire l'objet d'une subvention en application de l'art. 167 al. 2 et 3 LMob.
+
+2022\_147
