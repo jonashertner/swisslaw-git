@@ -3,20 +3,20 @@ canton: OW
 number: "641.420"
 title: Ausführungsbestimmungen über die Steuerveranlagung
 language: de
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-10-19
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2022-11-22
 adopted: 2012-11-20
 in_force: 2013-01-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/641.420"
-pdf: "http://gdb.ow.ch/api/de/versions/1537/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1754/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Ausführungsbestimmungen über die Steuerveranlagung
 
-vom 20.11.2012 (Stand 01.01.2022)
+vom 20.11.2012 (Stand 01.01.2023)
 
 Der Regierungsrat des Kantons Obwalden,
 
@@ -27,9 +27,9 @@ beschliesst:
 [^ingress-1]: GDB [641.4](http://gdb.ow.ch/data/641.4/de)
 [^ingress-2]: GDB [641.4](http://gdb.ow.ch/data/641.4/de)
 
-## 1. Steuerperiode 2021
+## 1. Steuerperiode 2022
 
-### 1.1. Steuererklärung 2021
+### 1.1. Steuererklärung 2022
 
 #### Art. 1
 
@@ -43,7 +43,7 @@ beschliesst:
 
 **Zustellung**
 
-<sup>1</sup> Die kantonale Steuerverwaltung hat den steuerpflichtigen natürlichen Personen bis Ende Februar 2022 eine Mitteilung zuzustellen, dass die Steuererklärung 2021 einzureichen ist. Wer die Mitteilung bis Ende Februar 2022 nicht erhält, ist trotzdem verpflichtet, die Steuererklärung fristgerecht bei der kantonalen Steuerverwaltung einzureichen.
+<sup>1</sup> Die kantonale Steuerverwaltung hat den steuerpflichtigen natürlichen Personen bis Ende Februar 2023 eine Mitteilung zuzustellen, dass die Steuererklärung 2022 einzureichen ist. Wer die Mitteilung bis Ende Februar 2023 nicht erhält, ist trotzdem verpflichtet, die Steuererklärung fristgerecht bei der kantonalen Steuerverwaltung einzureichen.
 
 <sup>2</sup> Steuerpflichtige können bei der Steuerverwaltung eine Steuererklärung in Papierform beziehen.
 
@@ -51,7 +51,7 @@ beschliesst:
 
 **Einreichung**
 
-<sup>1</sup> Die steuerpflichtigen natürlichen Personen haben die Steuererklärung 2021 innert 60 Tagen nach Empfang der Mitteilung vollständig und wahrheitsgetreu ausgefüllt und mit den erforderlichen Beilagen versehen der kantonalen Steuerverwaltung einzureichen. Gesuche um Fristerstreckung nach Art. 47 Abs. 2 VV zum StG sind bei der kantonalen Steuerverwaltung einzureichen.
+<sup>1</sup> Die steuerpflichtigen natürlichen Personen haben die Steuererklärung 2022 innert 60 Tagen nach Empfang der Mitteilung vollständig und wahrheitsgetreu ausgefüllt und mit den erforderlichen Beilagen versehen der kantonalen Steuerverwaltung einzureichen. Gesuche um Fristerstreckung nach Art. 47 Abs. 2 VV zum StG sind bei der kantonalen Steuerverwaltung einzureichen.
 
 <sup>2</sup> Die Steuererklärungsformulare der juristischen Personen sind innerhalb von 30 Tagen seit Durchführung der Mitglieder- bzw. Generalversammlung direkt der kantonalen Steuerverwaltung zuzustellen.
 
@@ -59,11 +59,11 @@ beschliesst:
 
 **Wegleitung und Auskünfte**
 
-<sup>1</sup> Die kantonale Steuerverwaltung erlässt die Wegleitung über das Ausfüllen der Steuererklärung 2021.
+<sup>1</sup> Die kantonale Steuerverwaltung erlässt die Wegleitung über das Ausfüllen der Steuererklärung 2022.
 
 <sup>2</sup> Auskünfte erteilt die kantonale Steuerverwaltung.
 
-## 2. Steuerperiode 2022
+## 2. Steuerperiode 2023
 
 ### 2.1. Hauptveranlagung
 
@@ -71,7 +71,7 @@ beschliesst:
 
 **Steuerperiode**
 
-<sup>1</sup> Im Jahr 2022 erfolgt für die steuerpflichtigen natürlichen und juristischen Personen eine Neuveranlagung für die Kantons- und Gemeindesteuer 2022 und für die direkte Bundessteuer 2022.
+<sup>1</sup> Im Jahr 2023 erfolgt für die steuerpflichtigen natürlichen und juristischen Personen eine Neuveranlagung für die Kantons- und Gemeindesteuer 2023 und für die direkte Bundessteuer 2023.
 
 ### 2.2. Berechnungsgrundlagen
 
@@ -79,7 +79,7 @@ beschliesst:
 
 **Einkommen a. Allgemeines**
 
-<sup>1</sup> Für die Berechnung des steuerbaren Einkommens der natürlichen Personen sind die Einkünfte des Jahres 2022 massgebend. Zum steuerbaren Einkommen gehören sämtliche in Geld oder geldwerten (Naturaleinkünfte) bestehenden, wiederkehrenden oder einmaligen Einkünfte aus Erwerbstätigkeit, Vermögensertrag oder anderen Einnahmequellen.
+<sup>1</sup> Für die Berechnung des steuerbaren Einkommens der natürlichen Personen sind die Einkünfte des Jahres 2023 massgebend. Zum steuerbaren Einkommen gehören sämtliche in Geld oder geldwerten (Naturaleinkünfte) bestehenden, wiederkehrenden oder einmaligen Einkünfte aus Erwerbstätigkeit, Vermögensertrag oder anderen Einnahmequellen.
 
 #### Art. 7
 
@@ -97,7 +97,7 @@ beschliesst:
 
 **Vermögen**
 
-<sup>1</sup> Für das Vermögen ist der Stand am 31. Dezember 2022 massgebend.
+<sup>1</sup> Für das Vermögen ist der Stand am 31. Dezember 2023 massgebend.
 
 ### 2.3. Fälligkeit, Verzugszins sowie Ausgleichszins
 
@@ -113,7 +113,7 @@ beschliesst:
 
 **Verzugszins**
 
-<sup>1</sup> Für Guthaben der Bezugsbehörden wird für Schlussrechnungen gemäss Art. 248 StG und Art. 37 Bst. b VV zum StG nach Ablauf der Zahlungsfrist im Kalenderjahr 2022 ein Verzugszins von fünf Prozent in Rechnung gestellt.
+<sup>1</sup> Für Guthaben der Bezugsbehörden wird für Schlussrechnungen gemäss Art. 248 StG und Art. 37 Bst. b VV zum StG nach Ablauf der Zahlungsfrist im Kalenderjahr 2023 ein Verzugszins von fünf Prozent in Rechnung gestellt.
 
 #### Art. 11
 
@@ -129,7 +129,7 @@ beschliesst:
 
 **Natürliche Personen**
 
-<sup>1</sup> Natürliche Personen beantragen die Rückerstattung der Verrechnungssteuer mit dem Einreichen des Wertschriftenverzeichnisses. Wird der Antrag auf Rückerstattung mit der kantonalen Steuererklärung 2021 eingereicht, so wird er in der Regel mit den zu entrichtenden Kantons- und Gemeindesteuern 2022 verrechnet. Verbleibt nach Verrechnung mit diesen Steuern ein Überschuss, so wird er mit Bussen, Nachsteuern, Ausgleichs- und Verzugszinsen, ausstehenden Kantons- und Gemeindesteuern oder ausstehenden direkten Bundessteuern verrechnet.
+<sup>1</sup> Natürliche Personen beantragen die Rückerstattung der Verrechnungssteuer mit dem Einreichen des Wertschriftenverzeichnisses. Wird der Antrag auf Rückerstattung mit der kantonalen Steuererklärung 2022 eingereicht, so wird er in der Regel mit den zu entrichtenden Kantons- und Gemeindesteuern 2023 verrechnet. Verbleibt nach Verrechnung mit diesen Steuern ein Überschuss, so wird er mit Bussen, Nachsteuern, Ausgleichs- und Verzugszinsen, ausstehenden Kantons- und Gemeindesteuern oder ausstehenden direkten Bundessteuern verrechnet.
 
 #### Art. 13
 
@@ -143,7 +143,7 @@ beschliesst:
 
 **Geltungsdauer**
 
-<sup>1</sup> Diese Ausführungsbestimmungen gelten für die Steuerveranlagung für die Perioden 2021 und 2022.
+<sup>1</sup> Diese Ausführungsbestimmungen gelten für die Steuerveranlagung für die Perioden 2022 und 2023.
 
 **Informationen zum Erlass**
 
@@ -168,5 +168,7 @@ geändert durch:
 \- Nachtrag vom 3. November 2020, in Kraft seit 1. Januar 2021 (OGS 2020, 48),
 
 \- Nachtrag vom 19. Oktober 2021, in Kraft seit 1. Januar 2022 (OGS 2021, 34)
+
+\- Nachtrag vom 22. November 2022, in Kraft seit 1. Januar 2023 (OGS 2022, 27)
 
 OGS 2012, 67
