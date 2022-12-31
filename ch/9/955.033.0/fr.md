@@ -4,11 +4,11 @@ title: "Ordonnance du 3 juin 2015 de l'Autorité fédérale de surveillance des 
 short: OBA-FINMA
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/390"
 language: fr
-version: 2021-01-01
+version: 2023-01-01
 adopted: 2015-06-03
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/390/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2015-390-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/390/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/390/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2015-390-20230101-fr-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/390/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/390/20210101/fr"
 
 (Ordonnance de la FINMA sur le blanchiment d’argent, OBA-FINMA)
 
-du 3 juin 2015 (Etat le 1<sup>er</sup> janvier 2021)
+du 3 juin 2015 (État le 1<sup>er</sup> janvier 2023)
 
 L’Autorité fédérale de surveillance des marchés financiers (FINMA),
 
@@ -25,7 +25,7 @@ vu l’art. 17 de la loi du 10 octobre 1997 sur le blanchiment d’argent (LBA)[
 
 arrête:
 
-[^ingress-1]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^ingress-1]: [RS 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
 [^ingress-2]: Nouvelle teneur selon l’annexe ch. 4 de l’O de la FINMA du 4 nov. 2020 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)).
 
 ## Titre 1 Dispositions générales
@@ -63,10 +63,10 @@ Au sens de la présente ordonnance, on entend par:
 - g. *sociétés d’investissement au sens de la LPCC:* les sociétés d’investissement selon la loi du 23 juin 2006 sur les placements collectifs[^2-1] à capital variable (SICAV), sociétés en commandite de placements collectifs (SCPC)[^2-2] et société d’investissement à capital fixe (SICAF) au sens de l’art. 2, al. 2, let. b<sup>bis</sup>, LBA;
 - h.[^2-3] *gestionnaires de fortune collective:* les gestionnaires de fortune collective selon l’art. 2, al. 1, let. c, de la loi fédérale du 15 juin 2018 sur les établissements financiers (LEFin)[^2-4] en relation avec l’art. 2, al. 2, let. b<sup>bis</sup>, LBA.
 
-[^2-1]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^2-1]: [RS 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
 [^2-2]: Depuis le 1<sup>er</sup> juil. 2016 «SCmPC».
 [^2-3]: Nouvelle teneur selon l’annexe ch. 4 de l’O de la FINMA du 4 nov. 2020 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)).
-[^2-4]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^2-4]: [RS 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
 
 ### Chapitre 2 Champ d’application
 
@@ -74,13 +74,13 @@ Au sens de la présente ordonnance, on entend par:
 
 **Champ d’application**
 
-<sup>1</sup> La présente ordonnance s’applique aux intermédiaires financiers au sens de l’art. 2, al. 2, let. a à d, LBA.[^3-1]
+<sup>1</sup> La présente ordonnance s’applique aux intermédiaires financiers au sens de l’art. 2, al. 2, let. a à d et d<sup>quater</sup>, LBA.[^3-1]
 
 <sup>2</sup> Dans l’application de la présente ordonnance, la FINMA peut tenir compte des particularités liées aux activités des intermédiaires financiers en accordant des allègements ou en ordonnant des mesures de renforcement, notamment en fonction du risque de blanchiment d’argent de l’activité ou de la taille de l’entreprise. Elle peut également tenir compte du développement de nouvelles technologies qui offrent une sécurité équivalente concernant la mise en œuvre des obligations de diligence.
 
 <sup>3</sup> La FINMA rend publique sa pratique en la matière.
 
-[^3-1]: Nouvelle teneur selon l’annexe ch. 4 de l’O de la FINMA du 4 nov. 2020 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)).
+[^3-1]: Nouvelle teneur selon le ch. I de l’O de la FINMA du 27 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 703](https://fedlex.data.admin.ch/eli/oc/2022/703)).
 
 #### Art. 4
 
@@ -164,7 +164,7 @@ L’intermédiaire financier ne doit entretenir aucune relation d’affaires:
 
 <sup>2</sup> Des infractions graves peuvent entraîner, en vertu de l’art. 33 de la loi du 22 juin 2007 sur la surveillance des marchés financiers (LFINMA)[^9-1], une interdiction d’exercer et, en vertu de l’art. 35 LFINMA, la confiscation du gain acquis au moyen de ces infractions.
 
-[^9-1]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^9-1]: [RS 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 
 ### Chapitre 4 Obligations de diligence générales
 
@@ -419,12 +419,12 @@ La direction à son plus haut niveau ou l’un de ses membres au moins décide:
 
 <sup>4</sup> Les banques et maisons de titres ayant peu de cocontractants et d’ayants droit économiques ou effectuant peu de transactions peuvent renoncer à l’usage d’un système de surveillance informatisé.[^20-2]
 
-<sup>5</sup> La FINMA peut exiger d’une institution d’assurance, d’une direction de fonds, d’une société d’investissement au sens de la LPCC, d’un gestionnaire de fortune collective, d’une personne au sens de l’art. 1*b* LB[^20-3] ou d’un intermédiaire financier selon l’art. 2, al. 2, let. a<sup>bis</sup>, LBA qu’ils introduisent un système de surveillance informatisé des transactions lorsque cela s’avère nécessaire pour l’efficacité de la surveillance.[^20-4]
+<sup>5</sup> La FINMA peut exiger d’une institution d’assurance, d’une direction de fonds, d’une société d’investissement au sens de la LPCC, d’un gestionnaire de fortune collective, d’une personne au sens de l’art. 1*b* de la loi du 8 novembre 1934 sur les banques (LB)[^20-3] ou d’un intermédiaire financier selon l’art. 2, al. 2, let. a<sup>bis</sup> ou d<sup>quater</sup>, LBA qu’ils introduisent un système de surveillance informatisé des transactions lorsque cela se révèle nécessaire pour l’efficacité de la surveillance.[^20-4]
 
 [^20-1]: Nouvelle expression selon l’annexe ch. 4 al. 3 de l’O de la FINMA du 4 nov. 2020 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)). Il a été tenu compte de cette mod. dans tout le texte.
 [^20-2]: Nouvelle teneur selon le ch. I de l’O de la FINMA du 20 juin 2018, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 2691](https://fedlex.data.admin.ch/eli/oc/2018/395)).
-[^20-3]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^20-4]: Nouvelle teneur selon l’annexe ch. 4 de l’O de la FINMA du 4 nov. 2020 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)).
+[^20-3]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
+[^20-4]: Nouvelle teneur selon le ch. I de l’O de la FINMA du 27 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 703](https://fedlex.data.admin.ch/eli/oc/2022/703)).
 
 #### Art. 21
 
@@ -432,26 +432,43 @@ La direction à son plus haut niveau ou l’un de ses membres au moins décide:
 
 Pour fixer les critères permettant d’identifier des nouvelles relations d’affaires ainsi que des relations d’affaires existantes comportant des risques accrus en relation avec un délit fiscal qualifié ou pour déterminer de telles relations d’affaires, les intermédiaires financiers peuvent s’appuyer sur le taux d’imposition maximal du pays du domicile fiscal du client pour déterminer si les impôts soustraits ont atteint le seuil de 300 000 francs fixé par l’art. 305<sup>bis</sup>, ch. 1<sup>bis</sup>, du code pénal (CP)[^21-1]. Ils ne sont pas tenus de déterminer les éléments imposables individuels pour la relation d’affaires.
 
-[^21-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^21-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
-### Chapitre 6 Obligation d’établir et de conserver des documents
+### Chapitre 6 Obligation d’établir et de conserver des documents, et information des autorités
+
+[^tit1-chap6-1]
+
+[^tit1-chap6-1]: Nouvelle teneur selon le ch. I de l’O de la FINMA du 27 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 703](https://fedlex.data.admin.ch/eli/oc/2022/703)).
 
 #### Art. 22
+
+**Obligation d’établir et de conserver des documents[^22-1]**
 
 <sup>1</sup>
 
 L’intermédiaire financier établit, organise et conserve sa documentation de manière à ce que l’une des autorités ou personnes suivantes puisse se faire dans un délai raisonnable une opinion fiable sur le respect des obligations en matière de lutte contre le blanchiment d’argent et le financement du terrorisme:
 
 - a. la FINMA;
-- b. un chargé d’audit désigné par elle conformément à l’art. 25 LFINMA[^22-1];
+- b. un chargé d’audit désigné par elle conformément à l’art. 25 LFINMA[^22-2];
 - c. un chargé d’enquête nommé par elle conformément à l’art. 36 LFINMA;
 - d. une société d’audit agréée par l’autorité de surveillance en matière de révision;
-- e.[^22-2] l’organisme de surveillance.
+- e.[^22-3] l’organisme de surveillance.
 
 <sup>2</sup> Il établit, organise et conserve sa documentation de manière à pouvoir donner suite dans un délai raisonnable, documents à l’appui, aux demandes d’information et de séquestre des autorités de poursuite pénale ou d’autres autorités habilitées.
 
-[^22-1]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
-[^22-2]: Introduite par l’annexe ch. 4 de l’O de la FINMA du 4 nov. 2020 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)).
+[^22-1]: Introduit par le ch. I de l’O de la FINMA du 27 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 703](https://fedlex.data.admin.ch/eli/oc/2022/703)).
+[^22-2]: [RS 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
+[^22-3]: Introduite par l’annexe ch. 4 de l’O de la FINMA du 4 nov. 2020 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)).
+
+#### Art. 22a
+
+**Information des autorités et documentation**[^22a-1]
+
+<sup>1</sup> L’intermédiaire financier informe la FINMA ou l’organisme de surveillance des communications adressées au bureau de communication en matière de blanchiment d’argent qui concernent des relations d’affaires comportant d’importantes valeurs patrimoniales. En particulier, il informe la FINMA ou l’organisme de surveillance lorsqu’il y a lieu de penser, au vu des circonstances, que l’affaire ayant entraîné la communication aura des conséquences sur la réputation de l’intermédiaire financier ou de la place financière.
+
+<sup>2</sup> Si l’intermédiaire financier n’effectue pas de communication parce qu’il a pu lui-même écarter tout soupçon après avoir effectué des clarifications supplémentaires au sens de l’art. 6 LBA, il doit en documenter les raisons.
+
+[^22a-1]: Introduit par le ch. I de l’O de la FINMA du 27 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 703](https://fedlex.data.admin.ch/eli/oc/2022/703)).
 
 ### Chapitre 7 Mesures organisationnelles
 
@@ -501,7 +518,7 @@ L’intermédiaire financier peut également, sous sa responsabilité, confier �
 La direction à son plus haut niveau décide d’effectuer des communications selon l’art. 9 LBA et l’art. 305<sup>ter</sup>, al. 2, CP[^25a-2]. Elle peut déléguer cette tâche à un ou plusieurs de ses membres n’ayant pas la responsabilité directe de la relation d’affaires, au service spécialisé de lutte contre le blanchiment ou à un service majoritairement indépendant.
 
 [^25a-1]: Introduit par le ch. I de l’O de la FINMA du 20 juin 2018, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 2691](https://fedlex.data.admin.ch/eli/oc/2018/395)).
-[^25a-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^25a-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 26
 
@@ -523,7 +540,10 @@ Les directives internes doivent en particulier régler:
 - h. les modalités selon lesquelles l’intermédiaire financier détermine, limite et contrôle les risques accrus;
 - i. les montants limites selon l’art. 13, al. 2, let. e et f, et 14, al. 2, let. a;
 - j. les critères en fonction desquels il peut être fait appel à des tiers selon l’art. 28;
-- k. la répartition des autres tâches et des compétences à l’interne de l’entreprise entre le service spécialisé de lutte contre le blanchiment et les autres unités d’affaires chargées d’appliquer les obligations de diligence.
+- k. la répartition des autres tâches et des compétences à l’interne de l’entreprise entre le service spécialisé de lutte contre le blanchiment et les autres unités d’affaires chargées d’appliquer les obligations de diligence;
+- l.[^26-1] l’actualisation des documents relatifs aux clients.
+
+[^26-1]: Introduite par le ch. I de l’O de la FINMA du 27 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 703](https://fedlex.data.admin.ch/eli/oc/2022/703)).
 
 #### Art. 27
 
@@ -568,69 +588,13 @@ Il peut confier, sans convention écrite, les tâches liées à ces obligations 
 
 <sup>3</sup> Il examine lui-même la plausibilité des résultats des clarifications complémentaires.
 
-### Chapitre 9 Poursuite de la relation d’affaires et communication
+### Chapitre 9 …
 
-#### Art. 30
+#### Art. 30 à 34
 
-**Comportement après communication**
+[^3034-1]
 
-<sup>1</sup>
-
-L’intermédiaire financier peut décider de son propre chef de la poursuite de la relation d’affaires:
-
-- a.
-
-  si, dans un délai de vingt jours ouvrables suivant une communication selon l’art. 9, al. 1, let. a, LBA, le bureau de communication:
-
-  - 1\. ne l’informe pas,
-  - 2\. l’informe que la communication ne sera pas transmise aux autorités de poursuite pénale,
-  - 3\. l’informe que la communication sera transmise à une autorité de poursuite pénale et qu’à partir de ce moment il ne reçoit aucune décision de l’autorité de poursuite pénale dans un délai de cinq jours ouvrables;
-
-- b. si, après une communication selon l’art. 9, al. 1, let. c, LBA, il ne reçoit aucune décision de l’autorité de poursuite pénale dans un délai de cinq jours ouvrables;
-- c. si, après une communication selon l’art. 305<sup>ter</sup>, al. 2, CP[^30-1], il reçoit une communication du bureau de communication selon laquelle la communication ne sera pas transmise à une autorité de poursuite pénale, ou
-- d. si, après un blocage ordonné par l’autorité de poursuite pénale sur la base d’une communication selon l’art. 9 LBA respectivement sur la base de l’art. 305<sup>ter</sup>, al. 2, CP, il est informé de sa levée, sous réserve d’autres communications de l’autorité de poursuite pénale.
-
-<sup>2</sup> L’intermédiaire financier qui ne veut pas poursuivre la relation d’affaires ne peut autoriser le retrait d’importantes valeurs patrimoniales que sous une forme permettant aux autorités de poursuite pénale d’en suivre la trace (*paper trail*).
-
-[^30-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-
-#### Art. 31
-
-**Doutes portant sur la relation d’affaires et droit de communication**[^31-1]
-
-Si l’intermédiaire financier n’exerce pas le droit de communication qui lui est conféré à l’art. 305<sup>ter</sup>, al. 2, CP[^31-2] alors qu’il a des doutes concernant une relation d’affaires comportant d’importantes valeurs patrimoniales, il en documente les raisons.
-
-[^31-1]: Nouvelle teneur selon le ch. I de l’O de la FINMA du 20 juin 2018, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 2691](https://fedlex.data.admin.ch/eli/oc/2018/395)).
-[^31-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-
-#### Art. 32
-
-**Rupture de la relation d’affaires**
-
-<sup>1</sup> Lorsque l’intermédiaire financier met un terme à une relation d’affaires douteuse sans procéder à une communication faute de disposer de soupçons fondés de blanchiment d’argent ou de financement du terrorisme, il ne peut autoriser le retrait d’importantes valeurs patrimoniales que sous une forme qui permette aux autorités de poursuite pénale, le cas échéant, de suivre la trace de la transaction (*paper trail*).
-
-<sup>2</sup> L’intermédiaire financier ne peut pas rompre une relation d’affaires douteuse ni autoriser le retrait de montants importants lorsqu’il existe des signes concrets de l’imminence de mesures de sûreté d’une autorité.
-
-<sup>3</sup> Lorsque les conditions d’une communication au sens de l’art. 9 LBA au bureau de communication sont remplies ou que l’intermédiaire financier exerce son droit de communication selon l’art. 305<sup>ter</sup>, al. 2, CP[^32-1], celui-ci ne peut pas rompre de lui-même la relation d’affaires avec le cocontractant.[^32-2]
-
-[^32-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^32-2]: Nouvelle teneur selon le ch. I de l’O de la FINMA du 20 juin 2018, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 2691](https://fedlex.data.admin.ch/eli/oc/2018/395)).
-
-#### Art. 33
-
-**Exécution des ordres du client**
-
-Conformément à l’art. 9*a* LBA, l’intermédiaire financier n’exécute les ordres du client, qui portent sur d’importantes valeurs patrimoniales, que sous une forme qui permette de suivre la trace de la transaction (*p**a**per trail*).
-
-#### Art. 34
-
-**Information**
-
-<sup>1</sup> L’intermédiaire financier informe la FINMA ou l’organisme de surveillance des communications adressées au bureau de communication qui concernent des relations d’affaires comportant d’importantes valeurs patrimoniales. En particulier, il informe la FINMA ou l’organisme de surveillance lorsqu’il y a lieu de penser, au vu des circonstances, que l’affaire ayant entraîné la communication aura des conséquences sur la réputation de l’intermédiaire financier ou sur celle de la place financière.[^34-1]
-
-<sup>2</sup> Lorsqu’il informe un autre intermédiaire financier en vertu de l’art. 10*a* LBA, il consigne ce fait sous une forme appropriée.
-
-[^34-1]: Nouvelle teneur selon l’annexe ch. 4 de l’O de la FINMA du 4 nov. 2020 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)).
+[^3034-1]: Abrogés par le ch. I de l’O de la FINMA du 27 oct. 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 703](https://fedlex.data.admin.ch/eli/oc/2022/703)).
 
 ## Titre 2 Dispositions spéciales applicables aux banques et maisons de titres
 
@@ -692,7 +656,7 @@ En application de l’art. 22, l’intermédiaire financier organise sa document
 [^39-1]: Nouvelle teneur selon l’annexe ch. 4 de l’O de la FINMA du 4 nov. 2020 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)).
 [^39-2]: Introduit par l’annexe ch. 4 de l’O de la FINMA du 4 nov. 2020 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)).
 
-## Titre 3 Dispositions spéciales applicables aux directions de fonds, sociétés d’investissement au sens de la LPCC et gestionnaires de fortune collective****
+## Titre 3 Dispositions spéciales applicables aux directions de fonds, sociétés d’investissement au sens de la LPCC et gestionnaires de fortune collective
 
 [^tit3-1]
 
@@ -739,14 +703,15 @@ Les gestionnaires de fortune collective de placements collectifs de capitaux ét
 
 #### Art. 42
 
-**Règlement de l’organisme d’autorégulation de l’Association Suisse d’Assurances pour la lutte contre le blanchiment d’argent**
+**Règlement de l’organisme d’autorégulation de l’Association Suisse d’Assurances pour la lutte contre le blanchiment d’argent et le financement du terrorisme[^42-1]**
 
-<sup>1</sup> Les obligations de diligence des institutions d’assurance sont régies par les dispositions du Règlement du 22 juin 2018 de l’organisme d’autorégulation de l’Association Suisse d’Assurances pour la lutte contre le blanchiment d’argent[^42-1].[^42-2]
+<sup>1</sup> Dans les domaines de l’assurance-vie et de l’octroi de crédits hypothécaires, les obligations de diligence des institutions d’assurance sont régies par les dispositions du Règlement du 25 octobre 2022[^42-2] de l’organisme d’autorégulation de l’Association Suisse d’Assurances pour la lutte contre le blanchiment d’argent et le financement du terrorisme.[^42-3]
 
 <sup>2</sup> Sont réservés les art. 6 et 20, al. 5.
 
-[^42-1]: Le règlement peut être consulté gratuitement sur le site de l’organisme d’autorégulation de l’Association Suisse d’Assurances pour la lutte contre le blanchiment d’argent: www.sro-svv.ch
-[^42-2]: Nouvelle teneur selon le ch. I de l’O de la FINMA du 20 juin 2018, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 2691](https://fedlex.data.admin.ch/eli/oc/2018/395)).
+[^42-1]: Nouvelle teneur selon le ch. I de l’O de la FINMA du 27 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 703](https://fedlex.data.admin.ch/eli/oc/2022/703)).
+[^42-2]: Le règlement peut être consulté gratuitement sur le site de l’organisme d’autorégulation de l’Association Suisse d’Assurances pour la lutte contre le blanchiment d’argent: www.sro-svv.ch.
+[^42-3]: Nouvelle teneur selon le ch. I de l’O de la FINMA du 27 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 703](https://fedlex.data.admin.ch/eli/oc/2022/703)).
 
 #### Art. 43
 
@@ -754,13 +719,14 @@ Les gestionnaires de fortune collective de placements collectifs de capitaux ét
 
 Ne relèvent pas des obligations de diligence selon la LBA les contrats d’assurance des piliers 2 et 3a ni les assurances de risque pur.
 
-## Titre 5 Dispositions spéciales applicables aux intermédiaires financiers selon l’art. 2, al. 2, let. abis, LBA et aux personnes au sens de l’art. 1b LB ****
+## Titre 5 Dispositions spéciales applicables aux personnes au sens de l’art. 1*b* LB et aux intermédiaires financiers selon l’art. 2, al. 2, let. a<sup>bis</sup> et d<sup>quater</sup> LBA
 
-[^tit5-1]
+[^tit5-1][^tit5-2]
 
-[^tit5-1]: Nouvelle teneur selon l’annexe ch. 4 de l’O de la FINMA du 4 nov. 2020 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)).
+[^tit5-1]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
+[^tit5-2]: Nouvelle teneur selon le ch. I de l’O de la FINMA du 27 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 703](https://fedlex.data.admin.ch/eli/oc/2022/703)).
 
-### Chapitre 1 Champ d’application****
+### Chapitre 1 Champ d’application
 
 [^tit5-chap1-1]
 
@@ -770,14 +736,12 @@ Ne relèvent pas des obligations de diligence selon la LBA les contrats d’assu
 
 [^43a-1]
 
-Le présent titre s’applique aux intermédiaires financiers suivants:
+Le présent titre s’applique aux personnes au sens de l’art. 1*b* LB[^43a-2] et aux intermédiaires financiers au sens de l’art. 2, al. 2, let. a<sup>bis</sup> et d<sup>quarter</sup>, LBA.
 
-- a. aux intermédiaires financiers mentionnés à l’art. 2, al. 2, let. a<sup>bis</sup>;
-- b. aux personnes mentionnées à l’art. 1*b* LB.
+[^43a-1]: Introduit par le ch. I de l’O de la FINMA du 5 déc. 2018 ([RO 2018 5333](https://fedlex.data.admin.ch/eli/oc/2018/804)). Nouvelle teneur selon le ch. I de l’O de la FINMA du 27 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 703](https://fedlex.data.admin.ch/eli/oc/2022/703)).
+[^43a-2]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 
-[^43a-1]: Introduit par le ch. I de l’O de la FINMA du 5 déc. 2018 ([RO 2018 5333](https://fedlex.data.admin.ch/eli/oc/2018/804)). Nouvelle teneur selon l’annexe ch. 4 de l’O de la FINMA du 4 nov. 2020 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)).
-
-### Chapitre 1*a*.**** Vérification de l’identité du cocontractant (art. 3 LBA)
+### Chapitre 1*a*. Vérification de l’identité du cocontractant (art. 3 LBA)
 
 [^tit5-chap1a-1]
 
@@ -877,7 +841,7 @@ L’attestation d’authenticité de la copie du document d’identification peu
 
 <sup>2</sup> Une copie de la pièce d’identité figurant dans la banque de données d’un fournisseur de services de certification reconnu conformément à la loi du 19 décembre 2003 sur la signature électronique[^49-1] combinée à une authentification électronique correspondante par le cocontractant constitue une attestation d’authenticité valable. Cette copie de la pièce d’identité doit être demandée lors de l’établissement d’un certificat qualifié.
 
-[^49-1]: [[RO 2004 5085](https://fedlex.data.admin.ch/eli/oc/2004/788), [2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)ch. II 55. [RO 2016 4651](https://fedlex.data.admin.ch/eli/oc/2016/752)annexe ch. I]. Voir actuellement la LF du 18 mars 2016 ([RS 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)).
+[^49-1]: [[RO 2004 5085](https://fedlex.data.admin.ch/eli/oc/2004/788), [2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)ch. II 55. [RO 2016 4651](https://fedlex.data.admin.ch/eli/oc/2016/752)annexe ch. I]. Voir actuellement la LF du 18 mars 2016 ([RS 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)).
 
 #### Art. 50
 
@@ -910,11 +874,14 @@ Lorsqu’une ou plusieurs transactions paraissant liées entre elles atteignent 
 
 <sup>1</sup> L’intermédiaire financier doit vérifier l’identité du cocontractant lorsqu’une transaction en monnaie virtuelle ou plusieurs transactions en monnaies virtuelles paraissant liées entre elles atteignent ou excèdent la somme de 1000 francs, pour autant que ces transactions ne constituent pas de transmission de fonds ou de valeurs et qu’aucune relation d’affaires durable ne soit liée à ces opérations.
 
+<sup>1bis</sup> En cas de paiements en espèces ou d’acceptation d’autres instruments de paiement anonymes pour la vente ou l’achat de monnaies virtuelles, il prend des mesures techniques pour éviter que le seuil selon l’al. 1 ne soit dépassé dans les 30 jours par des transactions liées entre elles.[^51a-2]
+
 <sup>2</sup> Il peut renoncer à vérifier l’identité du cocontractant s’il a déjà exécuté pour le même cocontractant d’autres opérations au sens de l’al. 1 et d’après l’art. 52 et s’il s’est assuré que le cocontractant est la même personne que celle dont l’identité a été vérifiée pour la première transaction.
 
 <sup>3</sup> Il doit dans tous les cas vérifier l’identité du cocontractant en présence d’indices de blanchiment d’argent ou de financement du terrorisme.
 
 [^51a-1]: Introduit par l’annexe ch. 4 de l’O de la FINMA du 4 nov. 2020 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)).
+[^51a-2]: Introduit par le ch. I de l’O de la FINMA du 27 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 703](https://fedlex.data.admin.ch/eli/oc/2022/703)).
 
 #### Art. 52
 
@@ -944,7 +911,10 @@ Lorsqu’une ou plusieurs transactions paraissant liées entre elles atteignent 
 
 <sup>1</sup> Aucune transaction ne peut être exécutée avant l’obtention intégrale dans le cadre d’une relation d’affaires, des documents et informations exigés pour la vérification de l’identité du cocontractant.
 
-<sup>2</sup> Lorsque l’identité du cocontractant n’a pas pu être vérifiée, l’intermédiaire financier refuse d’établir une relation d’affaires ou la rompt conformément aux dispositions du titre 1, chap. 9.
+<sup>2</sup> Lorsque l’identité du cocontractant n’a pas pu être vérifiée, l’intermédiaire financier refuse d’établir une relation d’affaires ou la rompt dans le respect des art. 9*b* LBA et 12*a* et 12*b* de l’ordonnance du 11 novembre 2015 sur le blanchiment d’argent (OBA)[^55-1].[^55-2]
+
+[^55-1]: [RS 955.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11600)
+[^55-2]: Nouvelle teneur selon le ch. I de l’O de la FINMA du 27 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 703](https://fedlex.data.admin.ch/eli/oc/2022/703)).
 
 ### Chapitre 2 Identification de l’ayant droit économique d’une entreprise et des valeurs patrimoniales (art. 4 LBA)
 
@@ -1087,10 +1057,10 @@ Dans le cas des groupes organisés de personnes, trusts et autres patrimoines or
 Il n’est pas nécessaire de demander une déclaration relative à l’ayant droit économique lorsque le cocontractant est:
 
 - a. un intermédiaire financier au sens de l’art. 2, al. 2, let. a ou b à c, LBA dont le domicile ou le siège est en Suisse;
-- b une maison de titres au sens de l’art. 2, al. 2, let. d, LBA dont le siège est en Suisse et qui administre elle-même des comptes conformément à l’art. 44, al. 1, let. a, LEFin;
-- c un intermédiaire financier qui exerce une activité mentionnée à l’art. 2, al. 2, let. a ou b à c, LBA et dont le domicile ou le siège est à l’étranger, s’il est assujetti à une surveillance et à une réglementation équivalentes;
-- d un intermédiaire financier dont le siège est à l’étranger, qui exerce une activité selon l’art. 2, al. 2, let. d, LBA et qui administre lui-même des comptes;
-- e.[^65-1] une institution de prévoyance professionnelle exemptée d’impôts au sens de l’art. 2, al. 4, let. b, LBA.[^65-2]
+- b. une maison de titres au sens de l’art. 2, al. 2, let. d, LBA dont le siège est en Suisse et qui administre elle-même des comptes conformément à l’art. 44, al. 1, let. a, LEFin;
+- c. un intermédiaire financier qui exerce une activité mentionnée à l’art. 2, al. 2, let. a ou b à c, LBA et dont le domicile ou le siège est à l’étranger, s’il est assujetti à une surveillance et à une réglementation équivalentes;
+- d.[^65-1] un intermédiaire financier dont le siège est à l’étranger, qui exerce une activité selon l’art. 2, al. 2, let. d, LBA, qui administre lui-même des comptes et qui est assujetti à une surveillance et à une réglementation équivalentes;
+- e.[^65-2] une institution de prévoyance professionnelle exemptée d’impôts au sens de l’art. 2, al. 4, let. b, LBA.[^65-3]
 
 <sup>2</sup>
 
@@ -1100,8 +1070,9 @@ Une déclaration relative à l’ayant droit économique doit toujours être dem
 - b. si la FINMA a mis en garde contre des abus généralisés ou contre un certain cocontractant;
 - c. si la FINMA a mis en garde de manière générale contre les établissements du pays où le cocontractant a son domicile ou son siège.
 
-[^65-1]: Introduite par le ch. I de l’O de la FINMA du 10 déc. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6355](https://fedlex.data.admin.ch/eli/oc/2020/1040)).
-[^65-2]: Nouvelle teneur selon l’annexe ch. 4 de l’O de la FINMA du 4 nov. 2020 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)).
+[^65-1]: Nouvelle teneur selon le ch. I de l’O de la FINMA du 27 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 703](https://fedlex.data.admin.ch/eli/oc/2022/703)).
+[^65-2]: Introduite par le ch. I de l’O de la FINMA du 10 déc. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6355](https://fedlex.data.admin.ch/eli/oc/2020/1040)).
+[^65-3]: Nouvelle teneur selon l’annexe ch. 4 de l’O de la FINMA du 4 nov. 2020 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)).
 
 #### Art. 65a
 
@@ -1149,7 +1120,10 @@ Si lors d’une relation d’affaires avec les associés d’une société simpl
 
 <sup>1</sup> Aucune transaction ne peut être exécutée avant l’obtention intégrale des documents et informations exigés pour l’identification du détenteur du contrôle ou de l’ayant droit économique des valeurs patrimoniales.
 
-<sup>2</sup> Lorsque des doutes persistent quant à l’exactitude de la déclaration du cocontractant et qu’ils ne peuvent être levés par d’autres clarifications, l’intermédiaire financier refuse d’établir une relation d’affaires ou la rompt conformément aux dispositions du titre 1, chapitre 9.
+<sup>2</sup> Lorsque des doutes persistent quant à l’exactitude de la déclaration du cocontractant et qu’ils ne peuvent être levés par d’autres clarifications, l’intermédiaire financier refuse d’établir une relation d’affaires ou la rompt dans le respect des art. 9*b* LBA et 12*a* et 12*b* OBA[^68-1].[^68-2]
+
+[^68-1]: [RS 955.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11600)
+[^68-2]: Nouvelle teneur selon le ch. I de l’O de la FINMA du 27 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 703](https://fedlex.data.admin.ch/eli/oc/2022/703)).
 
 ### Chapitre 3 Renouvellement de la vérification de l’identité du cocontractant ou de l’identification de l’ayant droit économique des valeurs patrimoniales (art. 5 LBA)
 
@@ -1167,10 +1141,13 @@ La vérification de l’identité du cocontractant ou l’identification du dét
 
 **Rupture de la relation d’affaires**
 
-L’intermédiaire financier rompt la relation d’affaires le plus rapidement possible, et ce conformément aux dispositions du titre 1, chapitre 9, lorsque:
+Dans le respect des art. 9*b* LBA et 12*a* et 12*b* OBA[^70-1], l’intermédiaire financier rompt la relation d’affaires le plus rapidement possible, lorsque:[^70-2]
 
 - a. les doutes sur les indications fournies par le cocontractant ou le détenteur du contrôle subsistent au terme de la procédure décrite à l’art. 69;
 - b. les soupçons se confirment que des indications erronées sur l’identité du cocontractant, du détenteur du contrôle ou de l’ayant droit économique des valeurs patrimoniales lui ont été sciemment fournies.
+
+[^70-1]: [RS 955.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11600)
+[^70-2]: Nouvelle teneur selon le ch. I de l’O de la FINMA du 27 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 703](https://fedlex.data.admin.ch/eli/oc/2022/703)).
 
 #### Art. 71
 
@@ -1188,10 +1165,10 @@ L’intermédiaire financier rompt la relation d’affaires le plus rapidement p
 
 <sup>1</sup> L’intermédiaire financier qui a jusqu’à 20 relations d’affaires durables n’a pas besoin d’établir de critères conformément à l’art. 13 permettant de détecter les relations comportant un risque accru.
 
-<sup>2</sup> Les personnes au sens de l’art. 1*b* LB[^72-1] fixent en tous les cas des critères conformément à l’art. 13.[^72-2]
+<sup>2</sup> Les personnes au sens de l’art. 1*b* LB[^72-1] et les intermédiaires financiers selon l’art. 2, al. 2, let. d<sup>quater</sup>, LBA fixent en tous les cas des critères au sens de l’art. 13.[^72-2]
 
-[^72-1]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^72-2]: Introduit par le ch. I de l’O de la FINMA du 5 déc. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5333](https://fedlex.data.admin.ch/eli/oc/2018/804)).
+[^72-1]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
+[^72-2]: Introduit par le ch. I de l’O de la FINMA du 5 déc. 2018 ([RO 2018 5333](https://fedlex.data.admin.ch/eli/oc/2018/804)). Nouvelle teneur selon le ch. I de l’O de la FINMA du 27 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 703](https://fedlex.data.admin.ch/eli/oc/2022/703)).
 
 #### Art. 73
 
@@ -1229,8 +1206,8 @@ L’intermédiaire financier doit en particulier conserver les documents suivant
 
 <sup>4</sup> La conservation de documents sous forme électronique doit respecter les exigences prévues aux art. 9 et 10 de l’ordonnance du 24 avril 2002 concernant la tenue et la conservation des livres de comptes[^74-2]. Si le serveur utilisé n’est pas situé en Suisse, l’intermédiaire financier doit disposer en Suisse d’une copie physique ou électronique actuelle des documents pertinents.
 
-[^74-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^74-2]: [RS 221.431](https://fedlex.data.admin.ch/eli/cc/2002/216)
+[^74-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^74-2]: [RS 221.431](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5936)
 
 ### Chapitre 6 Mesures organisationnelles
 
@@ -1255,13 +1232,14 @@ Le service spécialisé de lutte contre le blanchiment d’argent d’un interm�
 
 **Service spécialisé de lutte contre le blanchiment pour les personnes au sens de l’art. 1*b* LB**[^75a-1]
 
-<sup>1</sup> Pour les personnes au sens de l’art. 1*b* LB[^75a-2] qui remplissent les conditions pour obtenir des allègements concernant la gestion des risques et la *compliance* selon l’art. 14*e,* al. 5, de l’ordonnance du 30 avril 2014 sur les banques[^75a-3], le service spécialisé de lutte contre le blanchiment ne doit s’acquitter que des tâches mentionnées à l’art. 24. Ces tâches peuvent alors aussi être remplies par la direction ou un membre de la direction. Les activités à contrôler ne peuvent pas l’être par une personne qui est directement responsable de la relation d’affaires concernée.
+<sup>1</sup> Pour les personnes au sens de l’art. 1*b* LB[^75a-2] qui remplissent les conditions pour obtenir des allègements concernant la gestion des risques et la *compliance* selonl’art. 14*e*, al. 5, de l’ordonnance du 30 avril 2014 sur les banques[^75a-3], le service spécialisé de lutte contre le blanchiment d’argent ne doit s’acquitter que des tâches mentionnées à l’art. 24. Le cas échéant, ces tâches peuvent aussi être remplies par la direction ou un membre de la direction. Les activités à contrôler ne peuvent pas l’être par une personne qui est directement responsable de la relation d’affaires concernée.[^75a-4]
 
 <sup>2</sup> La FINMA peut dans tous les cas exiger que les tâches mentionnées à l’art. 25 soient remplies lorsque cela s’avère nécessaire pour lutter contre le blanchiment d’argent et le financement du terrorisme.
 
 [^75a-1]: Introduit par le ch. I de l’O de la FINMA du 5 déc. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5333](https://fedlex.data.admin.ch/eli/oc/2018/804)).
-[^75a-2]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^75a-3]: [RS 952.02](https://fedlex.data.admin.ch/eli/cc/2014/273)
+[^75a-2]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
+[^75a-3]: [RS 952.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11564)
+[^75a-4]: Nouvelle teneur selon le ch. I de l’O de la FINMA du 27 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 703](https://fedlex.data.admin.ch/eli/oc/2022/703)).
 
 #### Art. 76
 
@@ -1298,7 +1276,15 @@ L’ordonnance de la FINMA du 8 décembre 2010 sur le blanchiment d’argent[^77
 <sup>2</sup> L’art. 65*a* s’applique pour les relations d’affaires qui ont été nouvellement contractées à partir de l’octroi de l’autorisation selon l’art. 74, al. 2, LEFin.
 
 [^78a-1]: Introduit par l’annexe ch. 4 de l’O de la FINMA du 4 nov. 2020 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)).
-[^78a-2]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^78a-2]: [RS 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
+
+#### Art. 78b
+
+**Disposition transitoire relative à la modification du 27 octobre 2022**[^78b-1]
+
+L’intermédiaire financier est tenu de mettre en œuvre les mesures techniques selon l’art. 51*a,* al. 1<sup>bis</sup>, dans les six mois suivant l’entrée en vigueur de la présente ordonnance.
+
+[^78b-1]: Introduit par le ch. I de l’O de la FINMA du 27 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 703](https://fedlex.data.admin.ch/eli/oc/2022/703)).
 
 #### Art. 79
 
@@ -1306,7 +1292,7 @@ L’ordonnance de la FINMA du 8 décembre 2010 sur le blanchiment d’argent[^77
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2016.
 
-Annexe*[^t-1]*
+Annexe[^t-1]
 
 (art. 38)
 

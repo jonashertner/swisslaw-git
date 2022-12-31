@@ -4,11 +4,11 @@ title: "Ordinanza del 3 giugno 2015 dell'Autorità federale di vigilanza sui mer
 short: ORD-FINMA
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/390"
 language: it
-version: 2021-01-01
+version: 2023-01-01
 adopted: 2015-06-03
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/390/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2015-390-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/390/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/390/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2015-390-20230101-it-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/390/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/390/20210101/it"
 
 (Ordinanza FINMA sul riciclaggio di denaro, ORD-FINMA)
 
-del 3 giugno 2015 (Stato 1° gennaio 2021) (Stato 1° gennaio 2021)
+del 3 giugno 2015 (Stato 1° gennaio 2023)
 
 L’Autorità federale di vigilanza sui mercati finanziari (FINMA),
 
@@ -25,7 +25,7 @@ visto l’articolo 17 della legge del 10 ottobre 1997[^ingress-1] sul riciclaggi
 
 ordina:
 
-[^ingress-1]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^ingress-1]: [RS 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
 [^ingress-2]: Nuovo testo giusta l’all. n. 4 dell’O della FINMA del 4 nov. 2020 sugli istituti finanziari, in vigore dal 1° gen. 2021 ([RU 2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)).
 
 ## Titolo 1: Disposizioni generali
@@ -63,10 +63,10 @@ Ai sensi della presente ordinanza si intende per:
 - g. *società di investimento ai sensi della LICol:* le società di investimento secondo la legge del 23 giugno 2006[^2-1] sugli investimenti collettivi, ossia le società di investimento a capitale variabile (SICAV), società in accomandita per investimenti collettivi di capitale (SACol)[^2-2] e società di investimento a capitale fisso (SICAF) ai sensi dell’articolo 2 capoverso 2 lettera b<sup>bis</sup> LRD;
 - h.[^2-3] *gestori di patrimoni collettivi:* i gestori di patrimoni collettivi ai sensi dell’articolo 2 capoverso 1 lettera c della legge del 15 giugno 2018[^2-4] sugli istituti finanziari (LIsFi) in combinato disposto con l’articolo 2 capoverso 2 lettera b<sup>bis</sup> LRD.
 
-[^2-1]: [RS 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^2-1]: [RS 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
 [^2-2]: Dal 1° lug. 2016: SAcCol.
 [^2-3]: Nuovo testo giusta l’all. n. 4 dell’O della FINMA del 4 nov. 2020 sugli istituti finanziari, in vigore dal 1° gen. 2021 ([RU 2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)).
-[^2-4]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^2-4]: [RS 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
 
 ### Capitolo 2: Campo d’applicazione
 
@@ -74,13 +74,13 @@ Ai sensi della presente ordinanza si intende per:
 
 **Campo d’applicazione**
 
-<sup>1</sup> La presente ordinanza si applica agli intermediari finanziari secondo l’articolo 2 capoverso 2 lettere a–d LRD.[^3-1]
+<sup>1</sup> La presente ordinanza si applica agli intermediari finanziari secondo l’articolo 2 capoverso 2 lettere a–d e d<sup>quater</sup> LRD.[^3-1]
 
 <sup>2</sup> Nell’applicare la presente ordinanza, la FINMA può tenere conto delle specificità dell’attività esercitata dagli intermediari finanziari e in particolare autorizzare agevolazioni oppure ordinare inasprimenti in virtù del rischio di riciclaggio di denaro legato a un’attività o delle dimensioni di un’impresa. Può anche considerare lo sviluppo di nuove tecnologie che offrono una sicurezza equivalente per l’attuazione degli obblighi di diligenza.
 
 <sup>3</sup> La FINMA rende pubblica la propria prassi.
 
-[^3-1]: Nuovo testo giusta l’all. n. 4 dell’O della FINMA del 4 nov. 2020 sugli istituti finanziari, in vigore dal 1° gen. 2021 ([RU 2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)).
+[^3-1]: Nuovo testo giusta la cifra I dell’O della FINMA del 27 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 703](https://fedlex.data.admin.ch/eli/oc/2022/703)).
 
 #### Art. 4
 
@@ -108,7 +108,7 @@ L’intermediario finanziario vigila affinché le sue succursali all’estero no
 
 <sup>4</sup> La comunicazione di transazioni o di relazioni d’affari sospette nonché l’eventuale blocco degli averi sono regolati dal diritto dello Stato di accoglienza.
 
-[^5-1]: Nuovo testo giusta il n. I dell’O della FINMA del 20 giu. 2018, in vigore dal 1° gen. 2020 ([RU 2018 2691](https://fedlex.data.admin.ch/eli/oc/2018/395)).
+[^5-1]: Nuovo testo giusta la cifra I dell’O della FINMA del 20 giu. 2018, in vigore dal 1° gen. 2020 ([RU 2018 2691](https://fedlex.data.admin.ch/eli/oc/2018/395)).
 
 #### Art. 6
 
@@ -134,8 +134,8 @@ Esso assicura che:
 
 <sup>4</sup> L’intermediario finanziario che fa parte di un gruppo finanziario svizzero o estero garantisce agli organi di sorveglianza interni o alla società di audit del gruppo l’accesso, in caso di bisogno, alle informazioni concernenti determinate relazioni d’affari, nella misura necessaria alla sorveglianza globale dei rischi giuridici e di reputazione.
 
-[^6-1]: Nuovo testo giusta il n. I dell’O della FINMA del 20 giu. 2018, in vigore dal 1° gen. 2020 ([RU 2018 2691](https://fedlex.data.admin.ch/eli/oc/2018/395)).
-[^6-2]: Nuovo testo giusta il n. I dell’O della FINMA del 20 giu. 2018, in vigore dal 1° gen. 2020 ([RU 2018 2691](https://fedlex.data.admin.ch/eli/oc/2018/395)).
+[^6-1]: Nuovo testo giusta la cifra I dell’O della FINMA del 20 giu. 2018, in vigore dal 1° gen. 2020 ([RU 2018 2691](https://fedlex.data.admin.ch/eli/oc/2018/395)).
+[^6-2]: Nuovo testo giusta la cifra I dell’O della FINMA del 20 giu. 2018, in vigore dal 1° gen. 2020 ([RU 2018 2691](https://fedlex.data.admin.ch/eli/oc/2018/395)).
 
 ### Capitolo 3: Principi
 
@@ -164,7 +164,7 @@ L’intermediario finanziario non può intrattenere relazioni d’affari:
 
 <sup>2</sup> Gravi violazioni possono comportare un divieto di esercizio della professione secondo l’articolo 33 della legge del 22 giugno 2007[^9-1] sulla vigilanza dei mercati finanziari (LFINMA) e la confisca dell’utile risultante da tali violazioni secondo l’articolo 35 LFINMA.
 
-[^9-1]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^9-1]: [RS 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 
 ### Capitolo 4: Obblighi generali di diligenza
 
@@ -174,7 +174,7 @@ L’intermediario finanziario non può intrattenere relazioni d’affari:
 
 L’intermediario finanziario chiarisce i motivi dell’utilizzo di società di sede.
 
-[^9a-1]: Introdotto dal n. I dell’O della FINMA del 20 giu. 2018, in vigore dal 1° gen. 2020 ([RU 2018 2691](https://fedlex.data.admin.ch/eli/oc/2018/395)).
+[^9a-1]: Introdotto dalla cifra I dell’O della FINMA del 20 giu. 2018, in vigore dal 1° gen. 2020 ([RU 2018 2691](https://fedlex.data.admin.ch/eli/oc/2018/395)).
 
 #### Art. 10
 
@@ -190,7 +190,7 @@ L’intermediario finanziario chiarisce i motivi dell’utilizzo di società di 
 
 <sup>5</sup> L’intermediario finanziario del beneficiario stabilisce la procedura da rispettare in caso di ordini di bonifico contenenti informazioni incomplete sull’ordinante o sul beneficiario. In tal caso, esso procede secondo un approccio basato sul rischio.
 
-[^10-1]: Nuovo testo giusta il n. I dell’O della FINMA del 20 giu. 2018, in vigore dal 1° gen. 2020 ([RU 2018 2691](https://fedlex.data.admin.ch/eli/oc/2018/395)).
+[^10-1]: Nuovo testo giusta la cifra I dell’O della FINMA del 20 giu. 2018, in vigore dal 1° gen. 2020 ([RU 2018 2691](https://fedlex.data.admin.ch/eli/oc/2018/395)).
 
 #### Art. 11
 
@@ -260,7 +260,7 @@ Nell’emissione di crediti al consumo, per le relazioni d’affari concluse per
 - d. nel caso di una cessione, tale somma è trasferita direttamente a un venditore di merce sulla base di un ordine di pagamento trasmesso dal beneficiario del credito.[^12-3]
 
 [^12-1]: Nuovo testo giusta l’all. n. 4 dell’O della FINMA del 4 nov. 2020 sugli istituti finanziari, in vigore dal 1° gen. 2021 ([RU 2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)).
-[^12-2]: Introdotto dal n. I dell’O della FINMA del 20 giu. 2018, in vigore dal 1° gen. 2020 ([RU 2018 2691](https://fedlex.data.admin.ch/eli/oc/2018/395)).
+[^12-2]: Introdotto dalla cifra I dell’O della FINMA del 20 giu. 2018, in vigore dal 1° gen. 2020 ([RU 2018 2691](https://fedlex.data.admin.ch/eli/oc/2018/395)).
 [^12-3]: Introdotto dall’all. n. 4 dell’O della FINMA del 4 nov. 2020 sugli istituti finanziari, in vigore dal 1° gen. 2021 ([RU 2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)).
 
 ### Capitolo 5: Obblighi di diligenza particolari
@@ -317,10 +317,10 @@ Le relazioni d’affari ai sensi del capoverso 3 lettere a, b e d e del capovers
 
 <sup>6</sup> L’intermediario finanziario determina le relazioni d’affari che comportano un rischio superiore e le designa come tali per l’uso interno.
 
-[^13-1]: Nuovo testo giusta il n. I dell’O della FINMA del 20 giu. 2018, in vigore dal 1° gen. 2020 ([RU 2018 2691](https://fedlex.data.admin.ch/eli/oc/2018/395)).
-[^13-2]: Introdotto dal n. I dell’O della FINMA del 20 giu. 2018, in vigore dal 1° gen. 2020 ([RU 2018 2691](https://fedlex.data.admin.ch/eli/oc/2018/395)).
-[^13-3]: Introdotta dal n. I dell’O della FINMA del 20 giu. 2018, in vigore dal 1° gen. 2020 ([RU 2018 2691](https://fedlex.data.admin.ch/eli/oc/2018/395)).
-[^13-4]: Nuovo testo giusta il n. I dell’O della FINMA del 20 giu. 2018, in vigore dal 1° gen. 2020 ([RU 2018 2691](https://fedlex.data.admin.ch/eli/oc/2018/395)).
+[^13-1]: Nuovo testo giusta la cifra I dell’O della FINMA del 20 giu. 2018, in vigore dal 1° gen. 2020 ([RU 2018 2691](https://fedlex.data.admin.ch/eli/oc/2018/395)).
+[^13-2]: Introdotto dalla cifra I dell’O della FINMA del 20 giu. 2018, in vigore dal 1° gen. 2020 ([RU 2018 2691](https://fedlex.data.admin.ch/eli/oc/2018/395)).
+[^13-3]: Introdotta dalla cifra I dell’O della FINMA del 20 giu. 2018, in vigore dal 1° gen. 2020 ([RU 2018 2691](https://fedlex.data.admin.ch/eli/oc/2018/395)).
+[^13-4]: Nuovo testo giusta la cifra I dell’O della FINMA del 20 giu. 2018, in vigore dal 1° gen. 2020 ([RU 2018 2691](https://fedlex.data.admin.ch/eli/oc/2018/395)).
 
 #### Art. 14
 
@@ -344,8 +344,8 @@ Sono considerate in ogni caso transazioni che comportano un rischio superiore:
 - a. le transazioni mediante le quali all’inizio di una relazione d’affari vengono fisicamente apportati valori patrimoniali per un controvalore superiore a 100 000 franchi in una volta o in modo scaglionato;
 - b. i pagamenti provenienti da o diretti in un Paese che il GAFI considera a rischio elevato oppure non cooperativo e nei confronti del quale il GAFI esorta ad adottare maggiore diligenza.[^14-2]
 
-[^14-1]: Introdotta dal n. I dell’O della FINMA del 20 giu. 2018, in vigore dal 1° gen. 2020 ([RU 2018 2691](https://fedlex.data.admin.ch/eli/oc/2018/395)).
-[^14-2]: Nuovo testo giusta il n. I dell’O della FINMA del 20 giu. 2018, in vigore dal 1° gen. 2020 ([RU 2018 2691](https://fedlex.data.admin.ch/eli/oc/2018/395)).
+[^14-1]: Introdotta dalla cifra I dell’O della FINMA del 20 giu. 2018, in vigore dal 1° gen. 2020 ([RU 2018 2691](https://fedlex.data.admin.ch/eli/oc/2018/395)).
+[^14-2]: Nuovo testo giusta la cifra I dell’O della FINMA del 20 giu. 2018, in vigore dal 1° gen. 2020 ([RU 2018 2691](https://fedlex.data.admin.ch/eli/oc/2018/395)).
 
 #### Art. 15
 
@@ -386,7 +386,7 @@ Secondo le circostanze, i chiarimenti comprendono segnatamente:
 
 Se in una relazione d’affari constata rischi superiori, l’intermediario finanziario procede senza indugio ai chiarimenti complementari e li esegue il più rapidamente possibile.
 
-[^17-1]: Nuovo testo giusta il n. I dell’O della FINMA del 20 giu. 2018, in vigore dal 1° gen. 2020 ([RU 2018 2691](https://fedlex.data.admin.ch/eli/oc/2018/395)).
+[^17-1]: Nuovo testo giusta la cifra I dell’O della FINMA del 20 giu. 2018, in vigore dal 1° gen. 2020 ([RU 2018 2691](https://fedlex.data.admin.ch/eli/oc/2018/395)).
 
 #### Art. 18
 
@@ -419,12 +419,12 @@ La direzione generale o almeno uno dei suoi membri decide in merito:
 
 <sup>4</sup> Le banche e le società di intermediazione mobiliare con un numero ristretto di controparti e di aventi economicamente diritto o con un numero limitato di transazioni possono rinunciare a un sistema informatico di sorveglianza delle transazioni.[^20-2]
 
-<sup>5</sup> La FINMA può esigere da un istituto d’assicurazione, da una direzione del fondo, da una società di investimento ai sensi della LICol, da un gestore di patrimoni collettivi, da una persona ai sensi dell’articolo 1*b* LBCR[^20-3] o da un intermediario finanziario ai sensi dell’articolo 2 capoverso 2 lettera a<sup>bis</sup> LRD l’introduzione di un sistema informatico di sorveglianza delle transazioni, se questo è necessario ai fini di una sorveglianza efficace.[^20-4]
+<sup>5</sup> La FINMA può esigere da un istituto d’assicurazione, da una direzione del fondo, da una società di investimento ai sensi della LICol, da un gestore di patrimoni collettivi, da una persona secondo l’articolo 1*b* della legge dell’8 novembre 1934[^20-3] sulle banche (LBCR) o da un intermediario finanziario ai sensi dell’articolo 2 capoverso 2 lettere a<sup>bis</sup> o d<sup>quater</sup> LRD l’introduzione di un sistema informatico di sorveglianza delle transazioni, se questo è necessario ai fini di una sorveglianza efficace.[^20-4]
 
 [^20-1]: Nuova espr. giusta l’all. n. 4 dell’O della FINMA del 4 nov. 2020 sugli istituti finanziari, in vigore dal 1° gen. 2021 ([RU 2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)). Di detta mod. è tenuto conto in tutto il presente testo.
-[^20-2]: Nuovo testo giusta il n. I dell’O della FINMA del 20 giu. 2018, in vigore dal 1° gen. 2020 ([RU 2018 2691](https://fedlex.data.admin.ch/eli/oc/2018/395)).
-[^20-3]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^20-4]: Nuovo testo giusta l’all. n. 4 dell’O della FINMA del 4 nov. 2020 sugli istituti finanziari, in vigore dal 1° gen. 2021 ([RU 2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)).
+[^20-2]: Nuovo testo giusta la cifra I dell’O della FINMA del 20 giu. 2018, in vigore dal 1° gen. 2020 ([RU 2018 2691](https://fedlex.data.admin.ch/eli/oc/2018/395)).
+[^20-3]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
+[^20-4]: Nuovo testo giusta la cifra I dell’O della FINMA del 27 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 703](https://fedlex.data.admin.ch/eli/oc/2022/703)).
 
 #### Art. 21
 
@@ -432,26 +432,43 @@ La direzione generale o almeno uno dei suoi membri decide in merito:
 
 Per mettere a punto criteri al fine di rilevare le nuove relazioni d’affari e le relazioni d’affari esistenti con rischi superiori in relazione a delitti fiscali qualificati e per determinare tali relazioni d’affari, gli intermediari finanziari possono adottare l’aliquota fiscale massima del Paese del domicilio fiscale del cliente per stimare se l’imposta sottratta raggiunge la soglia di 300 000 franchi fissata nell’articolo 305<sup>bis</sup> numero 1<sup>bis</sup> del Codice penale (CP)[^21-1]. Non sono tenuti a determinare gli elementi imponibili individuali per la relazione d’affari.
 
-[^21-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^21-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
-### Capitolo 6: Obbligo di allestire e conservare documenti
+### Capitolo 6: Obbligo di allestire e conservare documenti e di informare le autorità
+
+[^tit1-chap6-1]
+
+[^tit1-chap6-1]: Nuovo testo giusta la cifra I dell’O della FINMA del 27 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 703](https://fedlex.data.admin.ch/eli/oc/2022/703)).
 
 #### Art. 22
+
+**Obbligo di allestire e conservare documenti[^22-1]**
 
 <sup>1</sup>
 
 L’intermediario finanziario allestisce, organizza e conserva i suoi documenti in modo da consentire a una delle seguenti autorità o persone di formarsi, entro un congruo termine, un giudizio attendibile sull’ottemperanza degli obblighi in materia di lotta contro il riciclaggio di denaro e il finanziamento del terrorismo:
 
 - a. la FINMA;
-- b. un incaricato dell’audit ai sensi dell’articolo 25 LFINMA[^22-1] da essa designato;
+- b. un incaricato dell’audit ai sensi dell’articolo 25 LFINMA[^22-2] da essa designato;
 - c. un incaricato dell’inchiesta ai sensi dell’articolo 36 LFINMA da essa nominato;
 - d. una società di audit abilitata dall’Autorità federale di sorveglianza dei revisori;
-- e.[^22-2] l’organismo di vigilanza.
+- e.[^22-3] l’organismo di vigilanza.
 
 <sup>2</sup> Egli allestisce, organizza e conserva i suoi documenti in modo tale da essere in grado di soddisfare, entro un congruo termine, le richieste di informazioni e di sequestro da parte delle autorità di perseguimento penale o di altre autorità autorizzate, allegando i documenti necessari.
 
-[^22-1]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
-[^22-2]: Introdotta dall’all. n. 4 dell’O della FINMA del 4 nov. 2020 sugli istituti finanziari, in vigore dal 1° gen. 2021 ([RU 2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)).
+[^22-1]: Introdotto dalla cifra I dell’O della FINMA del 27 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 703](https://fedlex.data.admin.ch/eli/oc/2022/703)).
+[^22-2]: [RS 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
+[^22-3]: Introdotta dall’all. n. 4 dell’O della FINMA del 4 nov. 2020 sugli istituti finanziari, in vigore dal 1° gen. 2021 ([RU 2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)).
+
+#### Art. 22a
+
+**Informazione delle autorità e documentazione**[^22a-1]
+
+<sup>1</sup> L’intermediario finanziario informa la FINMA o l’organismo di vigilanza delle comunicazioni inoltrate all’Ufficio di comunicazione in materia di riciclaggio di denaro riguardanti relazioni d’affari che concernono importanti valori patrimoniali. In particolare informa quando risulta verosimile, considerate le circostanze, che la vicenda che porta alla comunicazione possa ripercuotersi sulla reputazione dell’intermediario finanziario o su quella della piazza finanziaria.
+
+<sup>2</sup> Se l’intermediario finanziario non effettua alcuna comunicazione perché è riuscito a dissipare ogni sospetto mediante chiarimenti complementari secondo l’articolo 6 LRD, ne documenta i motivi.
+
+[^22a-1]: Introdotto dalla cifra I dell’O della FINMA del 27 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 703](https://fedlex.data.admin.ch/eli/oc/2022/703)).
 
 ### Capitolo 7: Provvedimenti organizzativi
 
@@ -500,8 +517,8 @@ L’intermediario finanziario può anche, sotto la propria responsabilità, desi
 
 La direzione generale decide in merito alle comunicazioni secondo l’articolo 9 LRD o secondo l’articolo 305<sup>ter</sup> capoverso 2 CP[^25a-2]. Può delegare questo compito a uno o più membri non direttamente responsabili della relazione d’affari, al servizio di lotta contro il riciclaggio di denaro o a un altro servizio a maggioranza indipendente.
 
-[^25a-1]: Introdotto dal n. I dell’O della FINMA del 20 giu. 2018, in vigore dal 1° gen. 2020 ([RU 2018 2691](https://fedlex.data.admin.ch/eli/oc/2018/395)).
-[^25a-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^25a-1]: Introdotto dalla cifra I dell’O della FINMA del 20 giu. 2018, in vigore dal 1° gen. 2020 ([RU 2018 2691](https://fedlex.data.admin.ch/eli/oc/2018/395)).
+[^25a-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 26
 
@@ -523,7 +540,10 @@ Nelle direttive interne sono disciplinati in particolare:
 - h. le modalità con le quali l’intermediario finanziario determina, limita e controlla i rischi superiori;
 - i. gli importi massimi secondo gli articoli 13 capoverso 2 lettere e ed f, e 14 capoverso 2 lettera a;
 - j. i criteri secondo i quali si può ricorrere a terzi ai sensi dell’articolo 28;
-- k. la ripartizione in seno all’impresa dei restanti compiti e competenze tra il servizio di lotta contro il riciclaggio di denaro e le altre unità incaricate dell’applicazione degli obblighi di diligenza.
+- k. la ripartizione in seno all’impresa dei restanti compiti e competenze tra il servizio di lotta contro il riciclaggio di denaro e le altre unità incaricate dell’applicazione degli obblighi di diligenza;
+- l.[^26-1] l’aggiornamento dei documenti dei clienti.
+
+[^26-1]: Introdotta dalla cifra I dell’O della FINMA del 27 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 703](https://fedlex.data.admin.ch/eli/oc/2022/703)).
 
 #### Art. 27
 
@@ -568,69 +588,13 @@ L’intermediario finanziario può affidare senza accordo scritto i compiti rela
 
 <sup>3</sup> Esso verifica personalmente la plausibilità dei risultati dei chiarimenti complementari.
 
-### Capitolo 9: Proseguimento della relazione d’affari e comunicazione
+### Capitolo 9: ...
 
-#### Art. 30
+#### Art. 30 a 34
 
-**Comportamento dopo la comunicazione**
+[^3034-1]
 
-<sup>1</sup>
-
-L’intermediario finanziario può decidere a sua discrezione in merito al proseguimento della relazione d’affari, se:
-
-- a.
-
-  entro il termine di 20 giorni lavorativi da una comunicazione ai sensi dell’articolo 9 capoverso 1 lettera a LRD l’Ufficio di comunicazione in materia di riciclaggio di denaro:
-
-  - 1\. non lo informa,
-  - 2\. lo informa che la comunicazione non verrà inoltrata alle autorità di perseguimento penale,
-  - 3\. lo informa che la comunicazione è stata inoltrata a un’autorità di perseguimento penale ed esso da questo momento non riceve alcuna decisione dell’autorità di perseguimento penale entro cinque giorni lavorativi;
-
-- b. dopo una comunicazione ai sensi dell’articolo 9 capoverso 1 lettera c LRD non riceve alcuna decisione dell’autorità di perseguimento penale entro cinque giorni lavorativi;
-- c. dopo una comunicazione ai sensi dell’articolo 305<sup>ter</sup> capoverso 2 CP[^30-1], l’Ufficio di comunicazione in materia di riciclaggio di denaro lo informa che la sua comunicazione non sarà inoltrata all’autorità di perseguimento penale; oppure
-- d. dopo il blocco disposto dall’autorità di perseguimento penale in base a una comunicazione ai sensi dell’articolo 9 LRD o l’articolo 305<sup>ter</sup> capoverso 2 CP viene informato della sua revoca, con riserva di altre comunicazioni delle autorità di perseguimento penale.
-
-<sup>2</sup> L’intermediario finanziario che non vuole proseguire la relazione d’affari può permettere il prelievo di importanti valori patrimoniali soltanto in una forma tale da consentire alle autorità di perseguimento penale di seguire la traccia della transazione (*paper trail*).
-
-[^30-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-
-#### Art. 31
-
-**Relazioni d’affari dubbiose e diritto di comunicazione**[^31-1]
-
-Se, in caso di relazioni d’affari dubbiose che concernono importanti valori patrimoniali, non esercita il suo diritto di comunicazione secondo l’articolo 305<sup>ter</sup> capoverso 2 CP[^31-2], l’intermediario finanziario ne documenta i motivi.
-
-[^31-1]: Nuovo testo giusta il n. I dell’O della FINMA del 20 giu. 2018, in vigore dal 1° gen. 2020 ([RU 2018 2691](https://fedlex.data.admin.ch/eli/oc/2018/395)).
-[^31-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-
-#### Art. 32
-
-**Interruzione della relazione d’affari**
-
-<sup>1</sup> Se pone termine a una relazione d’affari dubbiosa senza effettuare una comunicazione per mancanza di un sospetto fondato di riciclaggio di denaro o finanziamento del terrorismo, l’intermediario finanziario può permettere il prelievo di importanti valori patrimoniali soltanto in una forma tale da consentire alle autorità di perseguimento penale di seguire la traccia della transazione (*paper trail*).
-
-<sup>2</sup> L’intermediario finanziario non può interrompere una relazione d’affari dubbiosa né permettere il prelievo di importanti valori patrimoniali se sussistono indizi concreti di imminenti misure di sicurezza da parte di un’autorità.
-
-<sup>3</sup> Se le condizioni per la comunicazione secondo l’articolo 9 LRD all’Ufficio di comunicazione in materia di riciclaggio di denaro sono adempiute o l’intermediario finanziario si avvale del diritto di comunicazione secondo l’articolo 305<sup>ter</sup> capoverso 2 CP[^32-1], questi non può interrompere di sua iniziativa la relazione d’affari con la controparte.[^32-2]
-
-[^32-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^32-2]: Nuovo testo giusta il n. I dell’O della FINMA del 20 giu. 2018, in vigore dal 1° gen. 2020 ([RU 2018 2691](https://fedlex.data.admin.ch/eli/oc/2018/395)).
-
-#### Art. 33
-
-**Esecuzione di ordini dei clienti**
-
-L’intermediario finanziario esegue gli ordini dei clienti che riguardano importanti valori patrimoniali ai sensi dell’articolo 9*a* LRD soltanto in una forma tale da consentire di seguire la traccia della transazione (*paper trail*).
-
-#### Art. 34
-
-**Informazione**
-
-<sup>1</sup> L’intermediario finanziario informa la FINMA o l’organismo di vigilanza delle comunicazioni inoltrate all’Ufficio di comunicazione in materia di riciclaggio di denaro riguardanti relazioni d’affari che concernono importanti valori patrimoniali. In particolare informa quando risulta verosimile, considerate le circostanze, che la vicenda che porta alla comunicazione possa ripercuotersi sulla reputazione dell’intermediario finanziario o su quella della piazza finanziaria.[^34-1]
-
-<sup>2</sup> Se informa un altro intermediario finanziario secondo l’articolo 10*a* LRD, lo documenta in forma adeguata.
-
-[^34-1]: Introdotto dall’all. n. 4 dell’O della FINMA del 4 nov. 2020 sugli istituti finanziari, in vigore dal 1° gen. 2021 ([RU 2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)).
+[^3034-1]: Abrogati dalla cifra I dell’O della FINMA del 27 ott. 2022, con effetto dal 1° gen. 2023 ([RU 2022 703](https://fedlex.data.admin.ch/eli/oc/2022/703)).
 
 ## Titolo 2: Disposizioni particolari per banche e società di intermediazione mobiliare
 
@@ -640,7 +604,7 @@ L’intermediario finanziario esegue gli ordini dei clienti che riguardano impor
 
 Le disposizioni in materia di identificazione della controparte e di accertamento del detentore del controllo e dell’avente economicamente diritto dei valori patrimoniali della Convenzione del 13 giugno 2018[^35-2] relativa all’obbligo di diligenza delle banche (CDB 20) sono applicabili a banche e società di intermediazione mobiliare.
 
-[^35-1]: Nuovo testo giusta il n. I dell’O della FINMA del 20 giu. 2018, in vigore dal 1° gen. 2020 ([RU 2018 2691](https://fedlex.data.admin.ch/eli/oc/2018/395)).
+[^35-1]: Nuovo testo giusta la cifra I dell’O della FINMA del 20 giu. 2018, in vigore dal 1° gen. 2020 ([RU 2018 2691](https://fedlex.data.admin.ch/eli/oc/2018/395)).
 [^35-2]: La convenzione può essere consultata gratuitamente nel sito dell’Associazione Svizzera dei Banchieri www.swissbanking.org
 
 #### Art. 36
@@ -667,7 +631,7 @@ Le disposizioni in materia di identificazione della controparte e di accertament
 
 <sup>4</sup> L’intermediario finanziario assicura la completezza e la trasmissione di tutte le informazioni ottenute necessarie all’esecuzione di ordini di pagamento. Esso regola la procedura da seguire nel caso in cui riceva ripetutamente ordini di bonifico contenenti informazioni manifestamente incomplete. In tal caso, procede secondo un approccio basato sul rischio.[^37-1]
 
-[^37-1]: Nuovo testo giusta il n. I dell’O della FINMA del 20 giu. 2018, in vigore dal 1° gen. 2020 ([RU 2018 2691](https://fedlex.data.admin.ch/eli/oc/2018/395)).
+[^37-1]: Nuovo testo giusta la cifra I dell’O della FINMA del 20 giu. 2018, in vigore dal 1° gen. 2020 ([RU 2018 2691](https://fedlex.data.admin.ch/eli/oc/2018/395)).
 
 #### Art. 38
 
@@ -692,7 +656,7 @@ In applicazione dell’articolo 22, l’intermediario finanziario organizza la p
 [^39-1]: Nuovo testo giusta l’all. n. 4 dell’O della FINMA del 4 nov. 2020 sugli istituti finanziari, in vigore dal 1° gen. 2021 ([RU 2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)).
 [^39-2]: Introdotto dall’all. n. 4 dell’O della FINMA del 4 nov. 2020 sugli istituti finanziari, in vigore dal 1° gen. 2021 ([RU 2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)).
 
-## Titolo 3: Disposizioni particolari per direzioni dei fondi, società d’investimento ai sensi della LICol e gestore di patrimoni collettivi****
+## Titolo 3: Disposizioni particolari per direzioni dei fondi, società d’investimento ai sensi della LICol e gestore di patrimoni collettivi
 
 [^tit3-1]
 
@@ -710,10 +674,10 @@ In applicazione dell’articolo 22, l’intermediario finanziario organizza la p
 
 <sup>4</sup> Per i metodi di identificazione della controparte e per l’accertamento del detentore del controllo e dell’avente economicamente diritto dei valori patrimoniali, come pure per eventuali altre attività della direzione del fondo rilevanti ai fini della LRD fa stato la CDB 20[^40-3].[^40-4]
 
-[^40-1]: Nuovo testo giusta il n. I dell’O della FINMA del 20 giu. 2018, in vigore dal 1° gen. 2020 ([RU 2018 2691](https://fedlex.data.admin.ch/eli/oc/2018/395)).
+[^40-1]: Nuovo testo giusta la cifra I dell’O della FINMA del 20 giu. 2018, in vigore dal 1° gen. 2020 ([RU 2018 2691](https://fedlex.data.admin.ch/eli/oc/2018/395)).
 [^40-2]: Dal 1° lug. 2016: SAcCol.
 [^40-3]: La convenzione può essere consultata gratuitamente nel sito dell’Associazione Svizzera dei Banchieri www.swissbanking.org
-[^40-4]: Nuovo testo giusta il n. I dell’O della FINMA del 20 giu. 2018, in vigore dal 1° gen. 2020 ([RU 2018 2691](https://fedlex.data.admin.ch/eli/oc/2018/395)).
+[^40-4]: Nuovo testo giusta la cifra I dell’O della FINMA del 20 giu. 2018, in vigore dal 1° gen. 2020 ([RU 2018 2691](https://fedlex.data.admin.ch/eli/oc/2018/395)).
 
 #### Art. 41
 
@@ -731,22 +695,23 @@ I gestori di patrimoni collettivi di investimenti collettivi di capitali esteri 
 
 <sup>3</sup> Per i metodi di identificazione della controparte e di accertamento del detentore del controllo o dell’avente economicamente diritto dei valori patrimoniali, come pure per eventuali altre attività rilevanti ai fini della LRD fa stato la CDB 20[^41-2].[^41-3]
 
-[^41-1]: Nuovo testo giusta il n. I dell’O della FINMA del 20 giu. 2018, in vigore dal 1° gen. 2020 ([RU 2018 2691](https://fedlex.data.admin.ch/eli/oc/2018/395)).
+[^41-1]: Nuovo testo giusta la cifra I dell’O della FINMA del 20 giu. 2018, in vigore dal 1° gen. 2020 ([RU 2018 2691](https://fedlex.data.admin.ch/eli/oc/2018/395)).
 [^41-2]: La convenzione può essere consultata gratuitamente nel sito dell’Associazione Svizzera dei Banchieri www.swissbanking.org
-[^41-3]: Nuovo testo giusta il n. I dell’O della FINMA del 20 giu. 2018, in vigore dal 1° gen. 2020 ([RU 2018 2691](https://fedlex.data.admin.ch/eli/oc/2018/395)).
+[^41-3]: Nuovo testo giusta la cifra I dell’O della FINMA del 20 giu. 2018, in vigore dal 1° gen. 2020 ([RU 2018 2691](https://fedlex.data.admin.ch/eli/oc/2018/395)).
 
 ## Titolo 4: Disposizioni particolari per gli istituti d’assicurazione
 
 #### Art. 42
 
-**Regolamento dell’Associazione Svizzera di Assicurazioni per la lotta contro il riciclaggio di denaro**
+**Regolamento dell’Organismo di autodisciplina dell’Associazione Svizzera d’Assicurazioni per la lotta contro il riciclaggio di denaro e il finanziamento del terrorismo[^42-1]**
 
-<sup>1</sup> Gli obblighi di diligenza degli istituti d’assicurazione sono disciplinati dal Regolamento del 22 giugno 2018[^42-1] dell’Organismo di autodisciplina dell’Associazione Svizzera di Assicurazioni per la lotta contro il riciclaggio di denaro.[^42-2]
+<sup>1</sup> Gli obblighi di diligenza degli istituti d’assicurazione sono disciplinati, negli ambiti dell’assicurazione diretta sulla vita e della concessione dei crediti ipotecari, dalle disposizioni del Regolamento del 25 ottobre 2022[^42-2] dell’Organismo di autodisciplina dell’Associazione Svizzera d’Assicurazioni per la lotta contro il riciclaggio di denaro e il finanziamento del terrorismo.[^42-3]
 
 <sup>2</sup> Sono fatti salvi gli articoli 6 e 20 capoverso 5.
 
-[^42-1]: Il Regolamento può essere consultato gratuitamente nel sito dell’Associazione Svizzera di Assicurazioni per la lotta contro il riciclaggio di denaro www.sro-svv.ch
-[^42-2]: Nuovo testo giusta il n. I dell’O della FINMA del 20 giu. 2018, in vigore dal 1° gen. 2020 ([RU 2018 2691](https://fedlex.data.admin.ch/eli/oc/2018/395)).
+[^42-1]: Nuovo testo giusta la cifra I dell’O della FINMA del 27 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 703](https://fedlex.data.admin.ch/eli/oc/2022/703)).
+[^42-2]: Il regolamento può essere consultato gratuitamente sul sito dell’Organismo di autodisciplina dell’Associazione Svizzera d’Assicurazioni www.sro-svv.ch.
+[^42-3]: Nuovo testo giusta la cifra I dell’O della FINMA del 27 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 703](https://fedlex.data.admin.ch/eli/oc/2022/703)).
 
 #### Art. 43
 
@@ -754,13 +719,14 @@ I gestori di patrimoni collettivi di investimenti collettivi di capitali esteri 
 
 Non sono assoggettati agli obblighi di diligenza secondo la LRD i contratti assicurativi dei pilastri 2 e 3a e le assicurazioni di rischio puro.
 
-## Titolo 5: Disposizioni particolari per gli intermediari finanziari ai sensi dell’articolo 2 capoverso 2 lettera a<sup>bis</sup> LRD e le persone ai sensi dell’articolo 1*b* LBCR****
+## Titolo 5: Disposizioni particolari per le persone secondo l’articolo 1*b* LBCR e gli intermediari finanziari ai sensi dell’articolo 2 capoverso 2 lettere a<sup>bis</sup> e d<sup>quater</sup> LRD
 
-[^tit5-1]
+[^tit5-1][^tit5-2]
 
-[^tit5-1]: Nuovo testo giusta l’all. n. 4 dell’O della FINMA del 4 nov. 2020 sugli istituti finanziari, in vigore dal 1° gen. 2021 ([RU 2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)).
+[^tit5-1]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
+[^tit5-2]: Nuovo testo giusta la cifra I dell’O della FINMA del 27 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 703](https://fedlex.data.admin.ch/eli/oc/2022/703)).
 
-### Capitolo 1: Campo d’applicazione****
+### Capitolo 1: Campo d’applicazione
 
 [^tit5-chap1-1]
 
@@ -770,14 +736,12 @@ Non sono assoggettati agli obblighi di diligenza secondo la LRD i contratti assi
 
 [^43a-1]
 
-Il presente titolo si applica ai seguenti intermediari finanziari:
+Il presente titolo si applica alle persone secondo l’articolo 1*b* LBCR[^43a-2] e agli intermediari finanziari ai sensi dell’articolo 2 capoverso 2 lettere a<sup>bis</sup> e d<sup>quater</sup> LRD.
 
-- a. intermediari finanziari ai sensi dell’articolo 2 capoverso 2 lettera a<sup>bis</sup>;
-- b. persone ai sensi dell’articolo 1*b* LBCR.
+[^43a-1]: Introdotto dalla cifra I dell’O della FINMA del 5 dic. 2018 ([RU 2018 5333](https://fedlex.data.admin.ch/eli/oc/2018/804)). Nuovo testo giusta la cifra I dell’O della FINMA del 27 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 703](https://fedlex.data.admin.ch/eli/oc/2022/703)).
+[^43a-2]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 
-[^43a-1]: Introdotto dal n. I dell’O della FINMA del 5 dic. 2018 ([RU 2018 5333](https://fedlex.data.admin.ch/eli/oc/2018/804)). Nuovo testo giusta l’all. n. 4 dell’O della FINMA del 4 nov. 2020 sugli istituti finanziari, in vigore dal 1° gen. 2021 ([RU 2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)).
-
-### Capitolo 1*a*: Identificazione della controparte (art. 3 LRD)****
+### Capitolo 1*a*: Identificazione della controparte (art. 3 LRD)
 
 [^tit5-chap1a-1]
 
@@ -877,7 +841,7 @@ L’attestazione di autenticità della copia del documento d’identificazione p
 
 <sup>2</sup> È considerata attestazione di autenticità valida anche la copia del documento d’identità presente nella banca dati di un prestatore di servizi di certificazione riconosciuto secondo la legge federale del 19 dicembre 2003[^49-1] sulla firma elettronica in combinazione con un’autentificazione elettronica effettuata dalla controparte in questo ambito. Questa copia del documento d’identità è richiesta nel quadro dell’emissione di un certificato qualificato.
 
-[^49-1]: [[RU 2004 5085](https://fedlex.data.admin.ch/eli/oc/2004/788), [2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)n. II 55. [RU 2016 4651](https://fedlex.data.admin.ch/eli/oc/2016/752)all. n. I]. Vedi ora la LF del 18 marzo 2016 ([RS 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)).
+[^49-1]: [[RU 2004 5085](https://fedlex.data.admin.ch/eli/oc/2004/788), [2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)cifra II n. 55. [RU 2016 4651](https://fedlex.data.admin.ch/eli/oc/2016/752)all. cifra I]. Vedi ora la LF del 18 marzo 2016 ([RS 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)).
 
 #### Art. 50
 
@@ -902,7 +866,7 @@ L’intermediario finanziario verifica l’identità della controparte se una o 
 
 <sup>3</sup> Se sussistono indizi di riciclaggio di denaro o finanziamento del terrorismo, l’intermediario finanziario verifica in ogni caso l’identità della controparte.
 
-[^51-1]: Nuovo testo giusta il n. I dell’O della FINMA del 20 giu. 2018, in vigore dal 1° gen. 2020 ([RU 2018 2691](https://fedlex.data.admin.ch/eli/oc/2018/395)).
+[^51-1]: Nuovo testo giusta la cifra I dell’O della FINMA del 20 giu. 2018, in vigore dal 1° gen. 2020 ([RU 2018 2691](https://fedlex.data.admin.ch/eli/oc/2018/395)).
 
 #### Art. 51a
 
@@ -910,11 +874,14 @@ L’intermediario finanziario verifica l’identità della controparte se una o 
 
 <sup>1</sup> L’intermediario finanziario verifica l’identità della controparte se una o più transazioni con una valuta virtuale che sembrano legate tra di loro raggiungono o superano l’importo di 1000 franchi, sempre che tali transazioni non costituiscano trasferimenti di denaro e di valori e tali operazioni non siano legate a una relazione d’affari continua.
 
+<sup>1bis</sup> In caso di pagamenti in contanti o di accettazione di altri mezzi di pagamento anonimi per la vendita o l’acquisto di valute virtuali adotta misure tecniche per impedire che il valore soglia di cui al capoverso 1 venga oltrepassato entro 30 giorni mediante transazioni collegate tra loro.[^51a-2]
+
 <sup>2</sup> Se effettua altre operazioni secondo il capoverso 1 e l’articolo 52 con la stessa controparte, può rinunciare a verificarne l’identità dopo essersi assicurato che la controparte sia la persona la cui identità è stata verificata nella prima operazione.
 
 <sup>3</sup> Se sussistono indizi di riciclaggio di denaro o finanziamento del terrorismo, verifica in ogni caso l’identità della controparte.
 
 [^51a-1]: Introdotto dall’all. n. 4 dell’O della FINMA del 4 nov. 2020 sugli istituti finanziari, in vigore dal 1° gen. 2021 ([RU 2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)).
+[^51a-2]: Introdotto dalla cifra I dell’O della FINMA del 27 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 703](https://fedlex.data.admin.ch/eli/oc/2022/703)).
 
 #### Art. 52
 
@@ -944,7 +911,10 @@ L’intermediario finanziario verifica l’identità della controparte se una o 
 
 <sup>1</sup> I documenti e le informazioni necessarie per verificare l’identità della controparte sono acquisiti interamente prima di effettuare qualsiasi transazione nell’ambito di una relazione d’affari.
 
-<sup>2</sup> Se l’identità della controparte non può essere verificata, l’intermediario finanziario rifiuta di entrare in una relazione d’affari o interrompe la relazione d’affari in virtù delle disposizioni del capitolo 9 del titolo 1.
+<sup>2</sup> Se l’identità della controparte non può essere verificata, l’intermediario finanziario rifiuta di entrare in una relazione d’affari o interrompe la relazione d’affari nel rispetto dell’articolo 9*b* LRD e degli articoli 12*a* e 12*b* dell’ordinanza dell’11 novembre 2015[^55-1] sul riciclaggio di denaro (ORD).[^55-2]
+
+[^55-1]: [RS 955.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11600)
+[^55-2]: Nuovo testo giusta la cifra I dell’O della FINMA del 27 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 703](https://fedlex.data.admin.ch/eli/oc/2022/703)).
 
 ### Capitolo 2: Accertamento relativo all’avente economicamente diritto di un’impresa e dei valori patrimoniali (art. 4 LRD)
 
@@ -964,7 +934,7 @@ L’intermediario finanziario verifica l’identità della controparte se una o 
 
 <sup>5</sup> Alle operazioni di cassa in Svizzera si applicano i capoversi 1–3 se una o più transazioni che sembrano legate tra di loro superano 15 000 franchi. L’intermediario finanziario richiede la dichiarazione al più tardi immediatamente dopo aver effettuato la transazione.[^56-1]
 
-[^56-1]: Nuovo testo giusta il n. I dell’O della FINMA del 20 giu. 2018, in vigore dal 1° gen. 2020 ([RU 2018 2691](https://fedlex.data.admin.ch/eli/oc/2018/395)).
+[^56-1]: Nuovo testo giusta la cifra I dell’O della FINMA del 20 giu. 2018, in vigore dal 1° gen. 2020 ([RU 2018 2691](https://fedlex.data.admin.ch/eli/oc/2018/395)).
 
 #### Art. 57
 
@@ -1034,13 +1004,13 @@ L’intermediario finanziario richiede in ogni caso una siffatta dichiarazione:
 - a. se sussiste il dubbio che la controparte, il detentore del controllo o l’avente economicamente diritto dei valori patrimoniali siano le stesse persone; o
 - b. se sussistono indizi di riciclaggio di denaro o di finanziamento del terrorismo.
 
-[^61-1]: Nuovo testo giusta il n. I dell’O della FINMA del 20 giu. 2018, in vigore dal 1° gen. 2020 ([RU 2018 2691](https://fedlex.data.admin.ch/eli/oc/2018/395)).
+[^61-1]: Nuovo testo giusta la cifra I dell’O della FINMA del 20 giu. 2018, in vigore dal 1° gen. 2020 ([RU 2018 2691](https://fedlex.data.admin.ch/eli/oc/2018/395)).
 
 #### Art. 62
 
 **Trasferimento di denaro e di valori**
 
-<sup>In caso di trasferimento di denaro e di valori dalla Svizzera all’estero, la dichiarazione conce</sup> <sup>r</sup><sup>nente l’avente economicamente diritto dei valori p</sup><sup>a</sup><sup>trimoniali è sempre richiesta.</sup>
+<sup>In caso di trasferimento di denaro e di valori dalla Svizzera all’estero, la dichiarazione concernente l’avente economicamente diritto dei valori patrimoniali è sempre richiesta.</sup>
 
 #### Art. 63
 
@@ -1090,8 +1060,8 @@ Non è necessario richiedere una dichiarazione relativa all’avente economicame
 - a. un intermediario finanziario ai sensi dell’articolo 2 capoverso 2 lettere a o b–c LRD il cui domicilio o la cui sede è in Svizzera;
 - b. una società di intermediazione mobiliare ai sensi dell’articolo 2 capoverso 2 lettera d LRD la cui sede è in Svizzera che tiene personalmente conti secondo l’articolo 44 capoverso 1 lettera a LIsFi;
 - c. un intermediario finanziario che esercita un’attività secondo l’articolo 2 capoverso 2 lettere a o b–c LRD il cui domicilio o la cui sede è all’estero, a condizione che sia sottoposto a una vigilanza e a una regolamentazione equivalenti;
-- d. un intermediario finanziario che esercita un’attività secondo l’articolo 2 capoverso 2 lettera d LRD la cui sede è all’estero e tiene personalmente conti;
-- e.[^65-1] un istituto di previdenza professionale esonerato dall’obbligo fiscale ai sensi dell’articolo 2 capoverso 4 lettera b LRD.[^65-2]
+- d.[^65-1] un intermediario finanziario con sede all’estero che esercita un’attività secondo l’articolo 2 capoverso 2 lettera d LRD, gestisce conti ed è sottoposto a una vigilanza e a una regolamentazione equivalenti;
+- e.[^65-2] un istituto di previdenza professionale esonerato dall’obbligo fiscale ai sensi dell’articolo 2 capoverso 4 lettera b LRD.[^65-3]
 
 <sup>2</sup>
 
@@ -1101,8 +1071,9 @@ Una dichiarazione relativa all’avente economicamente diritto è sempre richies
 - b. la FINMA ha messo in guardia contro abusi in generale o contro una determinata controparte;
 - c. la FINMA ha messo in guardia in generale contro gli istituti finanziari del Paese in cui la controparte ha la sede o il domicilio.
 
-[^65-1]: Introdotta dal n. I dell’O della FINMA del 10 dic. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6355](https://fedlex.data.admin.ch/eli/oc/2020/1040)).
-[^65-2]: Nuovo testo giusta l’all. n. 4 dell’O della FINMA del 4 nov. 2020 sugli istituti finanziari, in vigore dal 1° gen. 2021 ([RU 2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)).
+[^65-1]: Nuovo testo giusta la cifra I dell’O della FINMA del 27 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 703](https://fedlex.data.admin.ch/eli/oc/2022/703)).
+[^65-2]: Introdotta dalla cifra I dell’O della FINMA del 10 dic. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6355](https://fedlex.data.admin.ch/eli/oc/2020/1040)).
+[^65-3]: Nuovo testo giusta l’all. n. 4 dell’O della FINMA del 4 nov. 2020 sugli istituti finanziari, in vigore dal 1° gen. 2021 ([RU 2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)).
 
 #### Art. 65a
 
@@ -1150,7 +1121,10 @@ Se in una relazione d’affari con i soci di una società semplice, i soci stess
 
 <sup>1</sup> I documenti e le informazioni necessarie per verificare l’identità del detentore del controllo o dell’avente economicamente diritto dei valori patrimoniali sono acquisiti interamente prima di effettuare qualsiasi transazione nell’ambito di una relazione d’affari.
 
-<sup>2</sup> Se in merito all’esattezza della dichiarazione della controparte sussistono dubbi che non possono essere dissolti con ulteriori chiarimenti, l’intermediario finanziario rifiuta di entrare in relazione d’affari o interrompe la relazione d’affari in virtù delle disposizioni del capitolo 9 del titolo 1.
+<sup>2</sup> Se in merito all’esattezza della dichiarazione della controparte sussistono dubbi che non possono essere dissolti con ulteriori chiarimenti, l’intermediario finanziario rifiuta di entrare in relazione d’affari o interrompe la relazione d’affari nel rispetto dell’articolo 9*b* LRD e degli articoli 12*a* e 12*b* ORD[^68-1].[^68-2]
+
+[^68-1]: [RS 955.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11600)
+[^68-2]: Nuovo testo giusta la cifra I dell’O della FINMA del 27 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 703](https://fedlex.data.admin.ch/eli/oc/2022/703)).
 
 ### Capitolo 3: Rinnovo dell’identificazione della controparte o accertamento dell’avente economicamente diritto dei valori patrimoniali (art. 5 LRD)
 
@@ -1168,10 +1142,13 @@ Nel corso della relazione d’affari occorre procedere nuovamente all’identifi
 
 **Interruzione della relazione d’affari**
 
-L’intermediario finanziario interrompe la relazione d’affari secondo le disposizioni del capitolo 9 del titolo 1 il più rapidamente possibile:
+L’intermediario finanziario interrompe la relazione d’affari nel rispetto dell’articolo 9*b* LRD e degli articoli 12*a* e 12*b* ORD[^70-1]:[^70-2]
 
 - a. se sussistono dubbi in merito a informazioni fornite dalla controparte o dal detentore del controllo anche dopo la conclusione della procedura secondo l’articolo 69;
 - b. se nutre il sospetto che gli siano state scientemente fornite informazioni false sull’identità della controparte, del detentore del controllo e dell’avente economicamente diritto dei valori patrimoniali.
+
+[^70-1]: [RS 955.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11600)
+[^70-2]: Nuovo testo giusta la cifra I dell’O della FINMA del 27 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 703](https://fedlex.data.admin.ch/eli/oc/2022/703)).
 
 #### Art. 71
 
@@ -1189,9 +1166,10 @@ L’intermediario finanziario interrompe la relazione d’affari secondo le disp
 
 <sup>1</sup> L’intermediario finanziario che mantiene al massimo 20 relazioni d’affari continue non deve stabilire criteri ai sensi dell’articolo 13 per il riconoscimento di relazioni d’affari che comportano rischi superiori.
 
-<sup>2</sup> Le persone ai sensi dell’articolo 1b LBCR stabiliscono in ogni caso criteri conformemente all’articolo 13.[^72-1]
+<sup>2</sup> Le persone secondo l’articolo 1*b* LBCR[^72-1] e gli intermediari finanziari ai sensi dell’articolo 2 capoverso 2 lettera d<sup>quater</sup> LRD stabiliscono in ogni caso criteri conformemente all’articolo 13.[^72-2]
 
-[^72-1]: Introdotto dal n. I dell’O della FINMA del 5 dic. 2018, in vigore dal 1° gen. 2019 ([RU 2018 5333](https://fedlex.data.admin.ch/eli/oc/2018/804)).
+[^72-1]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
+[^72-2]: Introdotto dalla cifra I dell’O della FINMA del 5 dic. 2018 ([RU 2018 5333](https://fedlex.data.admin.ch/eli/oc/2018/804)). Nuovo testo giusta la cifra I dell’O della FINMA del 27 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 703](https://fedlex.data.admin.ch/eli/oc/2022/703)).
 
 #### Art. 73
 
@@ -1229,8 +1207,8 @@ L’intermediario finanziario conserva in particolare:
 
 <sup>4</sup> La conservazione dei documenti in forma elettronica deve essere conforme agli articoli 9 e 10 dell’ordinanza del 24 aprile 2002[^74-2] sui libri di commercio. Se il server utilizzato non è situato in Svizzera, l’intermediario finanziario dispone in Svizzera di una copia aggiornata, in forma cartacea o elettronica, dei documenti pertinenti.
 
-[^74-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^74-2]: [RS 221.431](https://fedlex.data.admin.ch/eli/cc/2002/216)
+[^74-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^74-2]: [RS 221.431](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5936)
 
 ### Capitolo 6: Provvedimenti organizzativi
 
@@ -1255,13 +1233,14 @@ Il servizio di lotta contro il riciclaggio di denaro di un intermediario finanzi
 
 **Servizio di lotta contro il riciclaggio di denaro per le persone ai sensi dell’articolo 1*b* LBCR**[^75a-1]
 
-<sup>1</sup> Nel caso di persone secondo l’articolo 1*b* LBCR[^75a-2] che soddisfano i requisiti per le agevolazioni concernenti la gestione del rischio e la *compliance* conformemente all’articolo 14*e* capoverso 5 dell’ordinanza sulle banche del 30 aprile 2014[^75a-3], il servizio di lotta contro il riciclaggio di denaro deve adempiere esclusivamente i compiti di cui all’articolo 24. Tali compiti possono essere svolti anche dalla direzione o da un membro della direzione. Le attività da controllare non possono essere controllate da una persona direttamente responsabile per tale relazione d’affari.
+<sup>1</sup> Nel caso di persone secondo l’articolo 1*b* LBCR[^75a-2] che soddisfano i requisiti per le agevolazioni concernenti la gestione del rischio e la compliance conformemente all’articolo 14*e* capoverso 5 dell’ordinanza del 30 aprile 2014[^75a-3] sulle banche, il servizio di lotta contro il riciclaggio di denaro deve adempiere esclusivamente i compiti di cui all’articolo 24. In questo caso, tali compiti possono essere svolti anche dalla direzione o da un membro della direzione. Le attività da controllare non possono essere controllate da una persona direttamente responsabile per tale relazione d’affari.[^75a-4]
 
 <sup>2</sup> La FINMA può in ogni caso richiedere l’adempimento dei compiti secondo l’articolo 25, se ciò è necessario ai fini della lotta contro il riciclaggio di denaro e il finanziamento del terrorismo.
 
-[^75a-1]: Introdotto dal n. I dell’O della FINMA del 5 dic. 2018, in vigore dal 1° gen. 2019 ([RU 2018 5333](https://fedlex.data.admin.ch/eli/oc/2018/804)).
-[^75a-2]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^75a-3]: [RS 952.02](https://fedlex.data.admin.ch/eli/cc/2014/273)
+[^75a-1]: Introdotto dalla cifra I dell’O della FINMA del 5 dic. 2018, in vigore dal 1° gen. 2019 ([RU 2018 5333](https://fedlex.data.admin.ch/eli/oc/2018/804)).
+[^75a-2]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
+[^75a-3]: [RS 952.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11564)
+[^75a-4]: Nuovo testo giusta la cifra I dell’O della FINMA del 27 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 703](https://fedlex.data.admin.ch/eli/oc/2022/703)).
 
 #### Art. 76
 
@@ -1298,7 +1277,15 @@ L’ordinanza della FINMA dell’8 dicembre 2010[^77-1] sul riciclaggio di denar
 <sup>2</sup> L’articolo 65*a* si applica alle relazioni d’affari che sono state nuovamente avviate dopo il rilascio dell’autorizzazione secondo l’articolo 74 capoverso 2 LIsFi.
 
 [^78a-1]: Introdotto dall’all. n. 4 dell’O della FINMA del 4 nov. 2020 sugli istituti finanziari, in vigore dal 1° gen. 2021 ([RU 2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)).
-[^78a-2]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^78a-2]: [RS 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
+
+#### Art. 78b
+
+**Disposizione transitoria della modifica del 27 ottobre 2022**[^78b-1]
+
+L’intermediario finanziario deve adottare le misure tecniche di cui all’articolo 51*a* capoverso 1<sup>bis</sup> entro sei mesi dall’entrata in vigore della presente ordinanza.
+
+[^78b-1]: Introdotto dalla cifra I dell’O della FINMA del 27 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 703](https://fedlex.data.admin.ch/eli/oc/2022/703)).
 
 #### Art. 79
 

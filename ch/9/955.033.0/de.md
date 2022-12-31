@@ -4,11 +4,11 @@ title: "Verordnung vom 3. Juni 2015 der Eidgenössischen Finanzmarktaufsicht üb
 short: GwV-FINMA
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/390"
 language: de
-version: 2021-01-01
+version: 2023-01-01
 adopted: 2015-06-03
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/390/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2015-390-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/390/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/390/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2015-390-20230101-de-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/390/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/390/20210101/de"
 
 (Geldwäschereiverordnung-FINMA, GwV-FINMA)
 
-vom 3. Juni 2015 (Stand am 1. Januar 2021) (Stand am 1. Januar 2021)
+vom 3. Juni 2015 (Stand am 1. Januar 2023) (Stand am 1. Januar 2023)
 
 Die Eidgenössische Finanzmarktaufsicht (FINMA),
 
@@ -25,7 +25,7 @@ gestützt auf Artikel 17 des Geldwäschereigesetzes vom 10. Oktober 1997[^ingres
 
 verordnet:
 
-[^ingress-1]: [SR 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
+[^ingress-1]: [SR 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
 [^ingress-2]: Fassung gemäss Anhang Ziff. 4 der V der FINMA vom 4. Nov. 2020 über die Finanzinstitute, in Kraft seit 1. Jan. 2021 ([AS 2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)).
 
 ## 1. Titel: Allgemeine Bestimmungen
@@ -60,13 +60,13 @@ In dieser Verordnung gelten als:
 - d. *dauernde Geschäftsbeziehung:* Kundenbeziehung, die bei einem schweizerischen Finanzintermediär gebucht oder überwiegend von der Schweiz aus betreut wird und die sich nicht in der Vornahme einmaliger unterstellungspflichtiger Tätigkeiten erschöpft;
 - e. *professioneller Notenhändler:* Nichtbanken, die Noten kaufen und verkaufen und damit einen wesentlichen Umsatz oder Ertrag erzielen;
 - f. *Kontrollinhaberin oder -inhaber:* natürliche Personen, die über Stimmen oder Kapital mit mindestens 25 Prozent direkt oder indirekt, allein oder in gemeinsamer Absprache mit Dritten oder auf andere Weise die Kontrolle über eine operativ tätige juristische Person oder Personengesellschaft ausüben und als wirtschaftlich Berechtigte an diesen von ihnen kontrollierten operativ tätigen Unternehmen gelten, oder ersatzweise die geschäftsführende Person eines solchen Unternehmens;
-- g. *KAG-Investmentgesellschaften:* Investmentgesellschaften nach dem Kollektivanlagengesetz vom 23. Juni 2006[^2-1] (KAG), d. h. Investesmentgesellschaften mit variablem Kapital (SICAV), Kommanditgesellschaften für kollektive Kapitalanlagen (KGK)[^2-2] sowie Investmentgesellschaften mit festem Kapitel (SICAF) im Sinne von Artikel 2 Absatz 2 Buchstabe b<sup>bis</sup> GwG.
+- g. *KAG-Investmentgesellschaften:* Investmentgesellschaften nach dem Kollektivanlagengesetz vom 23. Juni 2006[^2-1] (KAG), d. h. Investmentgesellschaften mit variablem Kapital (SICAV), Kommanditgesellschaften für kollektive Kapitalanlagen (KGK)[^2-2] sowie Investmentgesellschaften mit festem Kapitel (SICAF) im Sinne von Artikel 2 Absatz 2 Buchstabe b<sup>bis</sup> GwG.
 - h.[^2-3] *Verwalter von Kollektivvermögen:* Verwalter von Kollektivvermögen nach Artikel 2 Absatz 1 Buchstabe c des Finanzinstitutsgesetzes vom 15. Juni 2018[^2-4] (FINIG) in Verbindung mit Artikel 2 Absatz 2 Buchstabe b<sup>bis</sup> GwG.
 
-[^2-1]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^2-1]: [SR 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
 [^2-2]: Seit dem 1. Juli 2016: KmGK.
 [^2-3]: Fassung gemäss Anhang Ziff. 4 der V der FINMA vom 4. Nov. 2020 über die Finanzinstitute, in Kraft seit 1. Jan. 2021 ([AS 2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)).
-[^2-4]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^2-4]: [SR 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
 
 ### 2. Kapitel: Geltungsbereich
 
@@ -74,13 +74,13 @@ In dieser Verordnung gelten als:
 
 **Geltungsbereich**
 
-<sup>1</sup> Diese Verordnung gilt für Finanzintermediäre nach Artikel 2 Absatz 2 Buchstaben a–d GwG.[^3-1]
+<sup>1</sup> Diese Verordnung gilt für Finanzintermediäre nach Artikel 2 Absatz 2 Buchstaben a–d und d<sup>quater</sup> GwG.[^3-1]
 
 <sup>2</sup> Die FINMA kann bei der Anwendung dieser Verordnung den Besonderheiten der Geschäftstätigkeit der Finanzintermediäre Rechnung tragen und insbesondere aufgrund des Geldwäschereirisikos einer Tätigkeit oder der Grösse des Unternehmens Erleichterungen zulassen oder Verschärfungen anordnen. Sie kann auch die Entwicklung von neuen Technologien, die eine gleichwertige Sicherheit für die Umsetzung der Sorgfaltspflichten bietet, berücksichtigen.
 
 <sup>3</sup> Die FINMA macht ihre Praxis öffentlich bekannt.
 
-[^3-1]: Fassung gemäss Anhang Ziff. 4 der V der FINMA vom 4. Nov. 2020 über die Finanzinstitute, in Kraft seit 1. Jan. 2021 ([AS 2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)).
+[^3-1]: Fassung gemäss Ziff. I der V der FINMA vom 27. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 703](https://fedlex.data.admin.ch/eli/oc/2022/703)).
 
 #### Art. 4
 
@@ -164,7 +164,7 @@ Der Finanzintermediär darf keine Geschäftsbeziehungen führen:
 
 <sup>2</sup> Schwere Verletzungen können ein Berufsverbot nach Artikel 33 des Finanzmarktaufsichtsgesetzes vom 22. Juni 2007[^9-1] (FINMAG) und die Einziehung des durch diese Verletzungen erzielten Gewinns nach Artikel 35 FINMAG zur Folge haben.
 
-[^9-1]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^9-1]: [SR 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 
 ### 4. Kapitel: Allgemeine Sorgfaltspflichten
 
@@ -201,9 +201,9 @@ Der Finanzintermediär klärt die Gründe für die Verwendung von Sitzgesellscha
 Der Finanzintermediär kann in dauernden Geschäftsbeziehungen mit Vertragsparteien im Bereich von Zahlungsmitteln für den bargeldlosen Zahlungsverkehr, die ausschliesslich dem bargeldlosen Bezahlen von Waren und Dienstleistungen dienen, auf die Einhaltung der Sorgfaltspflichten verzichten, wenn eine der folgenden Situationen vorliegt:
 
 - a. Es können nicht mehr als 1000 Franken pro Transaktion und 5000 Franken pro Kalenderjahr und Vertragspartei bezahlt werden, allfällige Rückzahlungen des Zahlungsmittels finden nur zugunsten von Konten bei in der Schweiz bewilligten oder im Ausland gleichwertig beaufsichtigten Banken und lautend auf den Namen der Vertragspartei statt und dürfen pro Rückzahlung nicht mehr als 1000 Franken betragen.
-- b. Es können nicht mehr als 5000 Franken pro Monat und 25 000 Franken pro Kalenderjahr und Vertragspartei an Händler in der Schweiz bezahlt werden wobei Ladungen ausschliesslich zulasten und allfällige Rückzahlungen des Zahlungsmittels ausschliesslich zugunsten eines auf den Namen der Vertragspartei lautenden Kontos bei einer in der Schweiz bewilligten Bank erfolgen.
+- b. Es können nicht mehr als 5000 Franken pro Monat und 25 000 Franken pro Kalenderjahr und Vertragspartei an Händler in der Schweiz bezahlt werden, wobei Ladungen ausschliesslich zulasten und allfällige Rückzahlungen des Zahlungsmittels ausschliesslich zugunsten eines auf den Namen der Vertragspartei lautenden Kontos bei einer in der Schweiz bewilligten Bank erfolgen.
 - c. Die Zahlungsmittel können nur innerhalb eines bestimmten Netzes von Dienstleistern oder Warenanbietern verwendet werden und der Umsatz beträgt nicht mehr als 5000 Franken pro Monat und 25 000 Franken pro Kalenderjahr und Vertragspartei.
-- d.[^11-1] ...
+- d.[^11-1] …
 
 <sup>2</sup> Der Finanzintermediär kann in dauernden Geschäftsbeziehungen mit Vertragsparteien im Bereich von Zahlungsmitteln für den bargeldlosen Zahlungsverkehr, die nicht ausschliesslich dem bargeldlosen Bezahlen von Waren und Dienstleistungen dienen, auf die Einhaltung der Sorgfaltspflichten verzichten, wenn pro Zahlungsmittel nicht mehr als 200 Franken pro Monat verfügbar gemacht werden können und Zahlungen ausschliesslich zulasten und allfällige Rückzahlungen des Zahlungsmittels ausschliesslich zugunsten eines auf den Namen der Vertragspartei lautenden Kontos bei einer in der Schweiz bewilligten Bank erfolgen.
 
@@ -417,12 +417,12 @@ Das oberste Geschäftsführungsorgan oder mindestens eines seiner Mitglieder ent
 
 <sup>4</sup> Banken und Wertpapierhäuser mit einer geringen Anzahl Vertragsparteien und wirtschaftlich berechtigter Personen oder Transaktionen können auf ein informatikgestütztes Transaktionsüberwachungssystem verzichten.[^20-2]
 
-<sup>5</sup> Die FINMA kann von einer Versicherungseinrichtung, einer Fondsleitung, einer KAG-Investmentgesellschaft, einem Verwalter von Kollektivvermögen, einer Person nach Artikel 1*b* BankG[^20-3] oder einem Finanzintermediär nach Artikel 2 Absatz 2 Buchstabe a<sup>bis</sup> GwG die Einführung eines informatikgestützten Transaktionsüberwachungssystems verlangen, wenn dies zur wirksamen Überwachung notwendig ist.[^20-4]
+<sup>5</sup> Die FINMA kann von einer Versicherungseinrichtung, einer Fondsleitung, einer KAG-Investmentgesellschaft, einem Verwalter von Kollektivvermögen, einer Person nach Artikel 1*b* des Bankengesetzes vom 8. November 1934[^20-3] (BankG) oder einem Finanzintermediär nach Artikel 2 Absatz 2 Buchstaben a<sup>bis</sup> oder d<sup>quater</sup> GwG die Einführung eines informatikgestützten Transaktionsüberwachungssystems verlangen, wenn dies zur wirksamen Überwachung notwendig ist.[^20-4]
 
 [^20-1]: Ausdruck gemäss Anhang Ziff. 4 der V der FINMA vom 4. Nov. 2020 über die Finanzinstitute, in Kraft seit 1. Jan. 2021 ([AS 2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 [^20-2]: Fassung gemäss Ziff. I der V der FINMA vom 20. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 2691](https://fedlex.data.admin.ch/eli/oc/2018/395)).
-[^20-3]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^20-4]: Fassung gemäss Anhang Ziff. 4 der V der FINMA vom 4. Nov. 2020 über die Finanzinstitute, in Kraft seit 1. Jan. 2021 ([AS 2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)).
+[^20-3]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
+[^20-4]: Fassung gemäss Ziff. I der V der FINMA vom 27. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 703](https://fedlex.data.admin.ch/eli/oc/2022/703)).
 
 #### Art. 21
 
@@ -430,26 +430,43 @@ Das oberste Geschäftsführungsorgan oder mindestens eines seiner Mitglieder ent
 
 Bei der Entwicklung von Kriterien, die in Zusammenhang mit dem qualifizierten Steuervergehen auf neue und bestehende Geschäftsbeziehungen mit erhöhten Risiken hinweisen, sowie bei der Ermittlung und der Kennzeichnung solcher Geschäftsbeziehungen dürfen Finanzintermediäre auf den Maximalsteuersatz des Landes des Steuerdomizils der Kundin oder des Kunden abstellen, um abzuschätzen, ob die hinterzogenen Steuern die in Artikel 305<sup>bis</sup> Ziffer 1<sup>bis</sup> des Strafgesetzbuches[^21-1] (StGB) festgelegte Schwelle von 300 000 Franken erreichen. Sie müssen die individuellen Steuerfaktoren für die Geschäftsbeziehung nicht ermitteln.
 
-[^21-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^21-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
-### 6. Kapitel: Dokumentationspflicht und Aufbewahrung der Belege
+### 6. Kapitel: Dokumentationspflicht, Aufbewahrung der Belege und Information von Behörden
+
+[^tit1-chap6-1]
+
+[^tit1-chap6-1]: Fassung gemäss Ziff. I der V der FINMA vom 27. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 703](https://fedlex.data.admin.ch/eli/oc/2022/703)).
 
 #### Art. 22
+
+**Dokumentationspflicht und Aufbewahrung der Belege[^22-1]**
 
 <sup>1</sup>
 
 Der Finanzintermediär erstellt, organisiert und bewahrt seine Dokumentation so auf, dass sich eine der folgenden Behörden oder Personen innert angemessener Frist ein zuverlässiges Urteil über die Einhaltung der Pflichten zur Bekämpfung von Geldwäscherei und Terrorismusfinanzierung bilden kann:
 
 - a. die FINMA;
-- b. eine von ihr beigezogene Prüfbeauftragte oder ein von ihr beigezogener Prüfbeauftragter nach Artikel 25 FINMAG[^22-1];
+- b. eine von ihr beigezogene Prüfbeauftragte oder ein von ihr beigezogener Prüfbeauftragter nach Artikel 25 FINMAG[^22-2];
 - c. eine von ihr beauftragte Untersuchungsbeauftragte oder ein Untersuchungsbeauftragter nach Artikel 36 FINMAG;
 - d. eine von der Revisionsaufsichtsbehörde zugelassene Prüfgesellschaft;
-- e.[^22-2] die Aufsichtsorganisation.
+- e.[^22-3] die Aufsichtsorganisation.
 
 <sup>2</sup> Er erstellt, organisiert und bewahrt seine Dokumentation so auf, dass er Auskunfts- und Beschlagnahmebegehren der Strafverfolgungsbehörden oder anderer berechtigter Stellen innert angemessener Frist unter Beilage der nötigen Dokumente nachkommen kann.
 
-[^22-1]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
-[^22-2]: Eingefügt durch Anhang Ziff. 4 der V der FINMA vom 4. Nov. 2020 über die Finanzinstitute, in Kraft seit 1. Jan. 2021 ([AS 2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)).
+[^22-1]: Eingefügt durch Ziff. I der V der FINMA vom 27. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 703](https://fedlex.data.admin.ch/eli/oc/2022/703)).
+[^22-2]: [SR 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
+[^22-3]: Eingefügt durch Anhang Ziff. 4 der V der FINMA vom 4. Nov. 2020 über die Finanzinstitute, in Kraft seit 1. Jan. 2021 ([AS 2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)).
+
+#### Art. 22a
+
+**Information von Behörden und Dokumentation**[^22a-1]
+
+<sup>1</sup> Der Finanzintermediär informiert die FINMA oder die Aufsichtsorganisation über Meldungen an die Meldestelle für Geldwäscherei, die Geschäftsbeziehungen mit bedeutenden Vermögenswerten betreffen. Insbesondere informiert er, wenn aufgrund der Umstände anzunehmen ist, dass der Fall, der zur Meldung führt, Auswirkungen auf den Ruf des Finanzintermediärs oder des Finanzplatzes haben könnte.
+
+<sup>2</sup> Erstattet der Finanzintermediär keine Verdachtsmeldung, weil er den Verdacht aufgrund zusätzlicher Abklärungen gemäss Artikel 6 GwG ausräumen konnte, so dokumentiert er die zugrundeliegenden Gründe.
+
+[^22a-1]: Eingefügt durch Ziff. I der V der FINMA vom 27. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 703](https://fedlex.data.admin.ch/eli/oc/2022/703)).
 
 ### 7. Kapitel: Organisatorische Massnahmen
 
@@ -499,7 +516,7 @@ Der Finanzintermediär kann unter seiner Verantwortung auch fachkundige externe 
 Das oberste Geschäftsführungsorgan entscheidet über die Erstattung von Meldungen nach Artikel 9 GwG beziehungsweise nach Artikel 305<sup>ter</sup> Absatz 2 StGB[^25a-2]. Es kann diese Aufgabe an eines oder mehrere seiner Mitglieder, die für die Geschäftsbeziehung nicht direkt geschäftsverantwortlich sind, an die Geldwäschereifachstelle oder an eine mehrheitlich unabhängige Stelle übertragen.
 
 [^25a-1]: Eingefügt durch Ziff. I der V der FINMA vom 20. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 2691](https://fedlex.data.admin.ch/eli/oc/2018/395)).
-[^25a-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^25a-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 26
 
@@ -521,13 +538,16 @@ Darin sind insbesondere zu regeln:
 - h. die Modalitäten, nach denen der Finanzintermediär die erhöhten Risiken erfasst, begrenzt und überwacht;
 - i. die Betragsgrenzen nach Artikel 13 Absatz 2 Buchstaben e und f sowie 14 Absatz 2 Buchstabe a;
 - j. die Kriterien, nach denen Dritte nach Artikel 28 beigezogen werden können;
-- k. die übrige betriebsinterne Aufgaben- und Kompetenzverteilung zwischen der Geldwäschereifachstelle und den anderen mit der Wahrnehmung der Sorgfaltspflichten beauftragten Geschäftseinheiten.
+- k. die übrige betriebsinterne Aufgaben- und Kompetenzverteilung zwischen der Geldwäschereifachstelle und den anderen mit der Wahrnehmung der Sorgfaltspflichten beauftragten Geschäftseinheiten;
+- l.[^26-1] die Aktualisierung von Kundenbelegen.
+
+[^26-1]: Eingefügt durch Ziff. I der V der FINMA vom 27. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 703](https://fedlex.data.admin.ch/eli/oc/2022/703)).
 
 #### Art. 27
 
 **Integrität und Ausbildung**
 
-<sup>1</sup> Die Bekämpfung der Geldwäscherei und der Terrorismusfinanzierung erfordert ein integeres und angemessen ausgebildetes Personal.
+<sup>1</sup> Die Bekämpfung der Geldwäscherei und der Terrorismusfinanzierung erfordert ein integres und angemessen ausgebildetes Personal.
 
 <sup>2</sup> Der Finanzintermediär sorgt für die sorgfältige Auswahl des Personals und die regelmässige Ausbildung aller betroffenen Mitarbeiterinnen und Mitarbeiter hinsichtlich der für sie wesentlichen Aspekte der Bekämpfung der Geldwäscherei und der Terrorismusfinanzierung.
 
@@ -566,69 +586,13 @@ Er kann die Erfüllung dieser Sorgfaltspflichten ohne schriftliche Vereinbarung 
 
 <sup>3</sup> Er überprüft die Ergebnisse der zusätzlichen Abklärungen selber auf ihre Plausibilität.
 
-### 9. Kapitel: Weiterführung der Geschäftsbeziehung und Meldewesen
+### 9. Kapitel: …
 
-#### Art. 30
+#### Art. 30–34
 
-**Verhalten nach erstatteter Meldung**
+[^3034-1]
 
-<sup>1</sup>
-
-Der Finanzintermediär kann über die Weiterführung der Geschäftsbeziehung nach eigenem Ermessen entscheiden, wenn:
-
-- a.
-
-  die Meldestelle für Geldwäscherei ihm nach einer Meldung nach Artikel 9 Absatz 1 Buchstabe a GwG innert zwanzig Arbeitstagen:
-
-  - 1\. keine Mitteilung macht,
-  - 2\. mitteilt, dass die Meldung nicht an die Strafverfolgungsbehörden weitergeleitet wird,
-  - 3\. mitteilt, dass die Meldung an eine Strafverfolgungsbehörde weitergeleitet wird, und er ab dem Zeitpunkt dieser Mitteilung innert Frist von fünf Arbeitstagen keine Verfügung der Strafverfolgungsbehörde erhält;
-
-- b. er nach erfolgter Meldung nach Artikel 9 Absatz 1 Buchstabe c GwG nicht innert fünf Arbeitstagen eine Verfügung von der Strafverfolgungsbehörde erhält;
-- c. er nach erfolgter Meldung nach Artikel 305<sup>ter</sup> Absatz 2 StGB[^30-1] eine Mitteilung der Meldestelle für Geldwäscherei erhält, wonach die Meldung nicht an die Strafverfolgungsbehörden weitergeleitet wird; oder
-- d. er nach einer durch die Strafverfolgungsbehörde gestützt auf eine Meldung nach Artikel 9 GwG beziehungsweise nach Artikel 305<sup>ter</sup> Absatz 2 StGB angeordneten Sperre über deren Aufhebung informiert wird, vorbehalten anderer Mitteilungen der Strafverfolgungsbehörden.
-
-<sup>2</sup> Der Finanzintermediär, der die Geschäftsbeziehung nicht weiterführen will, darf den Rückzug bedeutender Vermögenswerte nur in einer Form gestatten, die es den Strafverfolgungsbehörden erlaubt, deren Spur weiter zu verfolgen (Paper Trail).
-
-[^30-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-
-#### Art. 31
-
-**Zweifelhafte Geschäftsbeziehungen und Melderecht**[^31-1]
-
-Übt der Finanzintermediär bei zweifelhaften Geschäftsbeziehungen mit bedeutenden Vermögenswerten sein Melderecht nach Artikel 305<sup>ter</sup> Absatz 2 StGB[^31-2] nicht aus, so dokumentiert er die Gründe.
-
-[^31-1]: Fassung gemäss Ziff. I der V der FINMA vom 20. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 2691](https://fedlex.data.admin.ch/eli/oc/2018/395)).
-[^31-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-
-#### Art. 32
-
-**Abbruch der Geschäftsbeziehung**
-
-<sup>1</sup> Bricht der Finanzintermediär eine zweifelhafte Geschäftsbeziehung ohne einen begründeten Verdacht auf Geldwäscherei oder auf Terrorismusfinanzierung und ohne Meldung ab, so darf er den Rückzug bedeutender Vermögenswerte nur in einer Form gestatten, die es den Strafverfolgungsbehörden erlaubt, die Spur der Transaktion gegebenenfalls weiterzuverfolgen (*P**a**per Trail*).
-
-<sup>2</sup> Der Finanzintermediär darf weder eine zweifelhafte Geschäftsbeziehung abbrechen noch den Abzug bedeutender Vermögenswerte zulassen, wenn konkrete Anzeichen bestehen, dass behördliche Sicherstellungsmassnahmen unmittelbar bevorstehen.
-
-<sup>3</sup> Sind die Voraussetzungen für eine Meldung im Sinne von Artikel 9 GwG an die Meldestelle für Geldwäscherei erfüllt oder nimmt der Finanzintermediär das Melderecht im Sinne von Artikel 305<sup>ter</sup> Absatz 2 StGB[^32-1] in Anspruch, so darf er die Geschäftsbeziehung mit der Vertragspartei nicht von sich aus abbrechen.[^32-2]
-
-[^32-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^32-2]: Fassung gemäss Ziff. I der V der FINMA vom 20. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 2691](https://fedlex.data.admin.ch/eli/oc/2018/395)).
-
-#### Art. 33
-
-**Ausführung von Kundenaufträgen**
-
-Der Finanzintermediär führt Kundenaufträge, die bedeutende Vermögenswerte betreffen, nach Artikel 9*a* GwG nur in einer Form aus, die es erlaubt, die Spur der Transaktion weiterzuverfolgen (*P**a**per Trail*).
-
-#### Art. 34
-
-**Information**
-
-<sup>1</sup> Der Finanzintermediär informiert die FINMA oder die Aufsichtsorganisation über Meldungen an die Meldestelle, die Geschäftsbeziehungen mit bedeutenden Vermögenswerten betreffen. Insbesondere informiert er, wenn aufgrund der Umstände anzunehmen ist, dass der Fall, der zur Meldung führt, Auswirkungen auf den Ruf des Finanzintermediärs oder des Finanzplatzes haben könnte.[^34-1]
-
-<sup>2</sup> Informiert er nach Artikel 10*a* GwG einen anderen Finanzintermediär, so hält er diese Tatsache in geeigneter Form fest.
-
-[^34-1]: Fassung gemäss Anhang Ziff. 4 der V der FINMA vom 4. Nov. 2020 über die Finanzinstitute, in Kraft seit 1. Jan. 2021 ([AS 2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)).
+[^3034-1]: Aufgehoben durch Ziff. I der V der FINMA vom 27. Okt. 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 703](https://fedlex.data.admin.ch/eli/oc/2022/703)).
 
 ## 2. Titel: Besondere Bestimmungen für Banken und Wertpapierhäuser
 
@@ -690,7 +654,7 @@ In Anwendung von Artikel 22 organisiert der Finanzintermediär seine Dokumentati
 [^39-1]: Fassung gemäss Anhang Ziff. 4 der V der FINMA vom 4. Nov. 2020 über die Finanzinstitute, in Kraft seit 1. Jan. 2021 ([AS 2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)).
 [^39-2]: Eingefügt durch Anhang Ziff. 4 der V der FINMA vom 4. Nov. 2020 über die Finanzinstitute, in Kraft seit 1. Jan. 2021 ([AS 2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)).
 
-## 3. Titel: Besondere Bestimmungen für Fondsleitungen, KAG-Investmentgesellschaften und Verwalter von Kollektivvermögen****
+## 3. Titel: Besondere Bestimmungen für Fondsleitungen, KAG-Investmentgesellschaften und Verwalter von Kollektivvermögen
 
 [^tit3-1]
 
@@ -737,14 +701,15 @@ Verwalter von Kollektivvermögen von nicht börsenkotierten ausländischen kolle
 
 #### Art. 42
 
-**Reglement der Selbstregulierungsorganisation des Schweizerischen Versicherungsverbandes zur Bekämpfung der Geldwäscherei**
+**Reglement der Selbstregulierungsorganisation des Schweizerischen Versicherungsverbandes zur Bekämpfung der Geldwäscherei und Terrorismusfinanzierung[^42-1]**
 
-<sup>1</sup> Für die Sorgfaltspflichten von Versicherungseinrichtungen gelten die Bestimmungen des Reglements vom 22. Juni 2018[^42-1] der Selbstregulierungsorganisation des Schweizerischen Versicherungsverbandes zur Bekämpfung der Geldwäscherei.[^42-2]
+<sup>1</sup> Für die Sorgfaltspflichten von Versicherungseinrichtungen gelten in den Bereichen der direkten Lebensversicherung und der Vergabe von Hypothekarkrediten die Bestimmungen des Reglements vom 25. Oktober 2022[^42-2] der Selbstregulierungsorganisation des Schweizerischen Versicherungsverbandes zur Bekämpfung der Geldwäscherei und der Terrorismusfinanzierung.[^42-3]
 
 <sup>2</sup> Vorbehalten sind die Artikel 6 und 20 Absatz 5.
 
-[^42-1]: Das Reglement kann bei der Selbstregulierungsorganisation des Schweizerischen Versicherungsverbandes kostenlos abgerufen werden unter www.sro-svv.ch.
-[^42-2]: Fassung gemäss Ziff. I der V der FINMA vom 20. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 2691](https://fedlex.data.admin.ch/eli/oc/2018/395)).
+[^42-1]: Fassung gemäss Ziff. I der V der FINMA vom 27. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 703](https://fedlex.data.admin.ch/eli/oc/2022/703)).
+[^42-2]: Das Reglement kann bei der Selbstregulierungsorganisation des Schweizerischen Versicherungsverbandes kostenlos abgerufen werden unter www.sro-svv.ch.
+[^42-3]: Fassung gemäss Ziff. I der V der FINMA vom 27. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 703](https://fedlex.data.admin.ch/eli/oc/2022/703)).
 
 #### Art. 43
 
@@ -752,13 +717,14 @@ Verwalter von Kollektivvermögen von nicht börsenkotierten ausländischen kolle
 
 Nicht den Sorgfaltspflichten nach GwG unterliegen die Versicherungsverträge der Säulen 2 und 3a sowie die reinen Risikoversicherungen.
 
-## 5. Titel: Besondere Bestimmungen für Finanzintermediäre nach Artikel 2 Absatz 2 Buchstabe a<sup>bis</sup> GwG und Personen nach Artikel 1*b* BankG****
+## 5. Titel: Besondere Bestimmungen für Personen nach Artikel 1*b* BankG und Finanzintermediäre nach Artikel 2 Absatz 2 Buchstaben a<sup>bis</sup> und d<sup>quater</sup> GwG
 
-[^tit5-1]
+[^tit5-1][^tit5-2]
 
-[^tit5-1]: Fassung gemäss Anhang Ziff. 4 der V der FINMA vom 4. Nov. 2020 über die Finanzinstitute, in Kraft seit 1. Jan. 2021 ([AS 2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)).
+[^tit5-1]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
+[^tit5-2]: Fassung gemäss Ziff. I der V der FINMA vom 27. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 703](https://fedlex.data.admin.ch/eli/oc/2022/703)).
 
-### 1. Kapitel: Geltungsbereich****
+### 1. Kapitel: Geltungsbereich
 
 [^tit5-chap1-1]
 
@@ -768,14 +734,12 @@ Nicht den Sorgfaltspflichten nach GwG unterliegen die Versicherungsverträge der
 
 [^43a-1]
 
-Dieser Titel gilt für folgende Finanzintermediäre:
+Dieser Titel gilt für Personen nach Artikel 1*b* BankG[^43a-2] und Finanzintermediäre nach Artikel 2 Absatz 2 Buchstaben a<sup>bis</sup> und d<sup>quater</sup> GwG.
 
-- a. Finanzintermediäre nach Artikel 2 Absatz 2 Buchstabe a<sup>bis</sup>;
-- b. Personen nach Artikel 1*b* BankG.
+[^43a-1]: Eingefügt durch Ziff. I der V der FINMA vom 5. Dez. 2018 ([AS 2018 5333](https://fedlex.data.admin.ch/eli/oc/2018/804)). Fassung gemäss Ziff. I der V der FINMA vom 27. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 703](https://fedlex.data.admin.ch/eli/oc/2022/703)).
+[^43a-2]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 
-[^43a-1]: Eingefügt durch Ziff. I der V der FINMA vom 5. Dez. 2018 ([AS 2018 5333](https://fedlex.data.admin.ch/eli/oc/2018/804)). Fassung gemäss Anhang Ziff. 4 der V der FINMA vom 4. Nov. 2020 über die Finanzinstitute, in Kraft seit 1. Jan. 2021 ([AS 2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)).
-
-### 1*a*. Kapitel: Identifizierung der Vertragspartei (Art. 3 GwG)****
+### 1*a*. Kapitel: Identifizierung der Vertragspartei (Art. 3 GwG)
 
 [^tit5-chap1a-1]
 
@@ -875,7 +839,7 @@ Die Bestätigung der Echtheit der Kopie des Identifizierungsdokuments kann ausge
 
 <sup>2</sup> Als gültige Echtheitsbestätigung gilt ebenfalls das Einholen einer Ausweiskopie von der Datenbank eines anerkannten Anbieters von Zertifizierungsdienstleistungen nach dem Bundesgesetz vom 19. Dezember 2003[^49-1] über die elektronische Signatur in Kombination mit einer elektronischen Authentifizierung durch die Vertragspartei in diesem Zusammenhang. Diese Ausweiskopie muss im Rahmen der Ausstellung eines qualifizierten Zertifikats eingeholt worden sein.
 
-[^49-1]: [[AS 2004 5085](https://fedlex.data.admin.ch/eli/oc/2004/788), [2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)Ziff. II 55. [AS 2016 4651](https://fedlex.data.admin.ch/eli/oc/2016/752)Anhang Ziff. I]. Siehe heute: das BG vom 18. März 2016 ([SR 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)).
+[^49-1]: [[AS 2004 5085](https://fedlex.data.admin.ch/eli/oc/2004/788); [2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)Ziff. II 55. [AS 2016 4651](https://fedlex.data.admin.ch/eli/oc/2016/752)Anhang Ziff. I]. Siehe heute: das BG vom 18. März 2016 ([SR 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)).
 
 #### Art. 50
 
@@ -908,11 +872,14 @@ Der Finanzintermediär muss die Vertragspartei identifizieren, wenn eine oder me
 
 <sup>1</sup> Der Finanzintermediär muss die Vertragspartei identifizieren, wenn eine Transaktion mit einer virtuellen Währung oder mehrere solche Transaktionen, die miteinander verbunden erscheinen, den Betrag von 1000 Franken erreichen oder übersteigen, sofern diese Transaktionen keine Geld- und Wertübertragungen darstellen und mit diesen Geschäften keine dauernde Geschäftsbeziehung verbunden ist.
 
+<sup>1bis</sup> Bei Barzahlungen oder der Entgegennahme von anderen anonymen Zahlungsmitteln für den Verkauf oder Kauf von virtuellen Währungen trifft er technische Vorkehrungen, um zu vermeiden, dass der Schwellenwert nach Absatz 1 durch miteinander verbundene Transaktionen innerhalb von 30 Tagen überschritten wird.[^51a-2]
+
 <sup>2</sup> Er kann auf die Identifizierung der Vertragspartei verzichten, wenn er für dieselbe Vertragspartei weitere Geschäfte im Sinne des Absatzes 1 und nach Artikel 52 ausgeführt und sich versichert hat, dass die Vertragspartei diejenige Person ist, die bereits bei der ersten Transaktion identifiziert wurde.
 
 <sup>3</sup> Er hat die Vertragspartei in jedem Fall zu identifizieren, wenn Verdachtsmomente für mögliche Geldwäscherei oder Terrorismusfinanzierung vorliegen.
 
 [^51a-1]: Eingefügt durch Anhang Ziff. 4 der V der FINMA vom 4. Nov. 2020 über die Finanzinstitute, in Kraft seit 1. Jan. 2021 ([AS 2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)).
+[^51a-2]: Eingefügt durch Ziff. I der V der FINMA vom 27. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 703](https://fedlex.data.admin.ch/eli/oc/2022/703)).
 
 #### Art. 52
 
@@ -942,7 +909,10 @@ Der Finanzintermediär muss die Vertragspartei identifizieren, wenn eine oder me
 
 <sup>1</sup> Alle zur Identifizierung der Vertragspartei erforderlichen Dokumente und Angaben müssen vollständig vorliegen, bevor im Rahmen einer Geschäftsbeziehung Transaktionen ausgeführt werden.
 
-<sup>2</sup> Kann die Vertragspartei nicht identifiziert werden, so lehnt der Finanzintermediär die Aufnahme der Geschäftsbeziehung ab oder bricht sie nach den Bestimmungen des 9. Kapitels des 1. Titels ab.
+<sup>2</sup> Kann die Vertragspartei nicht identifiziert werden, so lehnt der Finanzintermediär die Aufnahme der Geschäftsbeziehung ab oder bricht sie unter Einhaltung von Artikel 9*b* GwG sowie Artikel 12*a* und 12*b* der Geldwäschereiverordnung vom 11. November 2015[^55-1] (GwV) ab.[^55-2]
+
+[^55-1]: [SR 955.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11600)
+[^55-2]: Fassung gemäss Ziff. I der V der FINMA vom 27. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 703](https://fedlex.data.admin.ch/eli/oc/2022/703)).
 
 ### 2. Kapitel: Feststellung der an Unternehmen und Vermögenswerten wirtschaftlich berechtigten Personen (Art. 4 GwG)
 
@@ -1088,8 +1058,8 @@ Keine Erklärung über die wirtschaftlich berechtigte Person muss eingeholt werd
 - a. ein Finanzintermediär im Sinne von Artikel 2 Absatz 2 Buchstabe a oder b–c GwG mit Wohnsitz oder Sitz in der Schweiz ist;
 - b. ein Wertpapierhaus nach Artikel 2 Absatz 2 Buchstabe d GwG mit Sitz in der Schweiz ist, das selbst Konten nach Artikel 44 Absatz 1 Buchstabe a FINIG führt;
 - c. ein Finanzintermediär mit Wohnsitz oder Sitz im Ausland ist, der eine Tätigkeit nach Artikel 2 Absatz 2 Buchstaben a oder b–c GwG ausübt und einer gleichwertigen Aufsicht und Regelung untersteht;
-- d. ein Finanzintermediär mit Sitz im Ausland ist, der eine Tätigkeit nach Artikel 2 Absatz 2 Buchstabe d GwG ausübt und selbst Konten führt;
-- e.[^65-1] eine steuerbefreite Einrichtung der beruflichen Vorsorge nach Artikel 2 Absatz 4 Buchstabe b GwG ist.[^65-2]
+- d.[^65-1] ein Finanzintermediär mit Sitz im Ausland ist, der eine Tätigkeit nach Artikel 2 Absatz 2 Buchstabe d GwG ausübt, selbst Konten führt und einer gleichwertigen Aufsicht und Regelung untersteht;
+- e.[^65-2] eine steuerbefreite Einrichtung der beruflichen Vorsorge nach Artikel 2 Absatz 4 Buchstabe b GwG ist.[^65-3]
 
 <sup>2</sup>
 
@@ -1099,8 +1069,9 @@ Eine Erklärung der Vertragspartei über die wirtschaftlich berechtigte Person m
 - b. die FINMA vor generellen Missbräuchen oder vor einer bestimmten Vertragspartei warnt;
 - c. die Vertragspartei ihren Wohnsitz oder Sitz in einem Land hat, vor dessen Instituten die FINMA generell warnt.
 
-[^65-1]: Eingefügt durch Ziff. I der V der FINMA vom 10. Dez. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6355](https://fedlex.data.admin.ch/eli/oc/2020/1040)).
-[^65-2]: Fassung gemäss Anhang Ziff. 4 der V der FINMA vom 4. Nov. 2020 über die Finanzinstitute, in Kraft seit 1. Jan. 2021 ([AS 2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)).
+[^65-1]: Fassung gemäss Ziff. I der V der FINMA vom 27. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 703](https://fedlex.data.admin.ch/eli/oc/2022/703)).
+[^65-2]: Eingefügt durch Ziff. I der V der FINMA vom 10. Dez. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6355](https://fedlex.data.admin.ch/eli/oc/2020/1040)).
+[^65-3]: Fassung gemäss Anhang Ziff. 4 der V der FINMA vom 4. Nov. 2020 über die Finanzinstitute, in Kraft seit 1. Jan. 2021 ([AS 2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)).
 
 #### Art. 65a
 
@@ -1148,7 +1119,10 @@ Sind bei einer Geschäftsbeziehung mit Gesellschafterinnen und Gesellschaftern e
 
 <sup>1</sup> Alle zur Feststellung der Kontrollinhaberin, des Kontrollinhabers oder der an Vermögenwerten wirtschaftlich berechtigten Person erforderlichen Dokumente und Angaben müssen vollständig vorliegen, bevor im Rahmen einer Geschäftsbeziehung Transaktionen ausgeführt werden.
 
-<sup>2</sup> Bleiben Zweifel an der Richtigkeit der Erklärung der Vertragspartei bestehen und können diese nicht durch weitere Abklärungen beseitigt werden, so lehnt der Finanzintermediär die Aufnahme der Geschäftsbeziehung ab oder bricht sie nach den Bestimmungen des 9. Kapitels des 1. Titels ab.
+<sup>2</sup> Bleiben Zweifel an der Richtigkeit der Erklärung der Vertragspartei bestehen und können diese nicht durch weitere Abklärungen beseitigt werden, so lehnt der Finanzintermediär die Aufnahme der Geschäftsbeziehung ab oder bricht sie unter Einhaltung von Artikel 9*b* GwG sowie Artikel 12*a* und 12*b* GwV[^68-1] ab.[^68-2]
+
+[^68-1]: [SR 955.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11600)
+[^68-2]: Fassung gemäss Ziff. I der V der FINMA vom 27. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 703](https://fedlex.data.admin.ch/eli/oc/2022/703)).
 
 ### 3. Kapitel: Erneute Identifizierung der Vertragspartei oder Feststellung der wirtschaftlich berechtigten Person (Art. 5 GwG)
 
@@ -1166,10 +1140,13 @@ Die Identifizierung der Vertragspartei oder die Feststellung der Kontrollinhaber
 
 **Abbruch der Geschäftsbeziehung**
 
-Der Finanzintermediär bricht die Geschäftsbeziehung nach den Bestimmungen des 9. Kapitels des 1. Titels so rasch als möglich ab, wenn:
+Der Finanzintermediär bricht die Geschäftsbeziehung unter Einhaltung von Artikel 9*b* GwG sowie den Artikeln 12*a* und 12*b* GwV[^70-1] ab, wenn:[^70-2]
 
 - a. die Zweifel an den Angaben der Vertragspartei, der Kontrollinhaberin oder des Kontrollinhabers auch nach der Durchführung des Verfahrens nach Artikel 69 bestehen bleiben;
 - b. sich ihm der Verdacht aufdrängt, dass ihm wissentlich falsche Angaben über die Identität der Vertragspartei, der Kontrollinhaberin, des Kontrollinhabers oder der an Vermögenswerten wirtschaftlich berechtigten Person gemacht wurden.
+
+[^70-1]: [SR 955.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11600)
+[^70-2]: Fassung gemäss Ziff. I der V der FINMA vom 27. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 703](https://fedlex.data.admin.ch/eli/oc/2022/703)).
 
 #### Art. 71
 
@@ -1187,10 +1164,10 @@ Der Finanzintermediär bricht die Geschäftsbeziehung nach den Bestimmungen des 
 
 <sup>1</sup> Der Finanzintermediär, der bis zu 20 dauernde Geschäftsbeziehungen unterhält, muss keine Kriterien nach Artikel 13 festlegen, die auf Geschäftsbeziehungen mit erhöhtem Risiko hinweisen.
 
-<sup>2</sup> Personen nach Artikel 1*b* BankG[^72-1] legen in jedem Fall Kriterien nach Artikel 13 fest.[^72-2]
+<sup>2</sup> Personen nach Artikel 1*b* BankG[^72-1] und Finanzintermediäre nach Artikel 2 Absatz 2 Buchstabe d<sup>quater</sup> GwG legen in jedem Fall Kriterien nach Artikel 13 fest.[^72-2]
 
-[^72-1]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^72-2]: Eingefügt durch Ziff. I der V der FINMA vom 5. Dez. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 5333](https://fedlex.data.admin.ch/eli/oc/2018/804)).
+[^72-1]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
+[^72-2]: Eingefügt durch Ziff. I der V der FINMA vom 5. Dez. 2018 ([AS 2018 5333](https://fedlex.data.admin.ch/eli/oc/2018/804)). Fassung gemäss Ziff. I der V der FINMA vom 27. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 703](https://fedlex.data.admin.ch/eli/oc/2022/703)).
 
 #### Art. 73
 
@@ -1228,8 +1205,8 @@ Der Finanzintermediär muss insbesondere folgende Dokumente aufbewahren:
 
 <sup>4</sup> Die elektronische Aufbewahrung von Dokumenten muss die Voraussetzungen nach den Artikeln 9 und 10 der Geschäftsbücherverordnung vom 24. April 2002[^74-2] erfüllen. Befindet sich der verwendete Server nicht in der Schweiz, so muss der Finanzintermediär über aktuelle physische oder elektronische Kopien der massgeblichen Dokumente in der Schweiz verfügen.
 
-[^74-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^74-2]: [SR 221.431](https://fedlex.data.admin.ch/eli/cc/2002/216)
+[^74-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^74-2]: [SR 221.431](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5936)
 
 ### 6. Kapitel: Organisatorische Massnahmen
 
@@ -1254,13 +1231,14 @@ Die Geldwäschereifachstelle eines Finanzintermediärs muss nur die Aufgaben nac
 
 **Geldwäschereifachstelle für Personen nach Artikel 1*b* BankG**[^75a-1]
 
-<sup>1</sup> Bei Personen nach Artikel 1*b* BankG[^75a-2], welche die Voraussetzungen für Erleichterungen hinsichtlich Risikomanagement und Compliance nach Artikel 14*e* Absatz 5 der Bankenverordnung vom 30. April 2014[^75a-3] erfüllen, muss die Geldwäschereifachstelle nur die Aufgaben nach Artikel 24 erfüllen. Diese Aufgaben können dann auch durch die Geschäftsleitung oder durch ein Geschäftsleitungsmitglied erfüllt werden. Die zu kontrollierenden Tätigkeiten können nicht von einer Person kontrolliert werden, die für diese Geschäftsbeziehung direkt verantwortlich ist.
+<sup>1</sup> Bei Personen nach Artikel 1*b* BankG[^75a-2], welche die Voraussetzungen für Erleichterungen hinsichtlich Risikomanagement und Compliance nach Artikel 14*e* Absatz 5 der Bankenverordnung vom 30. April 2014[^75a-3] erfüllen, muss die Geldwäschereifachstelle nur die Aufgaben nach Artikel 24 erfüllen. In diesem Fall können die Aufgaben auch durch die Geschäftsleitung oder durch ein Geschäftsleitungsmitglied erfüllt werden. Die zu kontrollierenden Tätigkeiten können nicht von einer Person kontrolliert werden, die für diese Geschäftsbeziehung direkt verantwortlich ist.[^75a-4]
 
 <sup>2</sup> Die FINMA kann in jedem Fall die Erfüllung der Aufgaben nach Artikel 25 verlangen, wenn dies zur Bekämpfung von Geldwäscherei und Terrorismusfinanzierung notwendig ist.
 
 [^75a-1]: Eingefügt durch Ziff. I der V der FINMA vom 5. Dez. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 5333](https://fedlex.data.admin.ch/eli/oc/2018/804)).
-[^75a-2]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^75a-3]: [SR 952.02](https://fedlex.data.admin.ch/eli/cc/2014/273)
+[^75a-2]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
+[^75a-3]: [SR 952.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11564)
+[^75a-4]: Fassung gemäss Ziff. I der V der FINMA vom 27. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 703](https://fedlex.data.admin.ch/eli/oc/2022/703)).
 
 #### Art. 76
 
@@ -1297,7 +1275,15 @@ Die Geldwäschereiverordnung-FINMA vom 8. Dezember 2010[^77-1] wird aufgehoben.
 <sup>2</sup> Artikel 65*a* gilt für Geschäftsbeziehungen, die ab Erteilung der Bewilligung nach Artikel 74 Absatz 2 FINIG neu aufgenommen werden.
 
 [^78a-1]: Eingefügt durch Anhang Ziff. 4 der V der FINMA vom 4. Nov. 2020 über die Finanzinstitute, in Kraft seit 1. Jan. 2021 ([AS 2020 5327](https://fedlex.data.admin.ch/eli/oc/2020/922)).
-[^78a-2]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+[^78a-2]: [SR 954.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11589)
+
+#### Art. 78b
+
+**Übergangsbestimmung zur Änderung vom 27. Oktober 2022**[^78b-1]
+
+Der Finanzintermediär muss die technischen Vorkehrungen nach Artikel 51*a* Absatz 1<sup>bis</sup> innerhalb von sechs Monaten nach Inkrafttreten dieser Verordnung umsetzen.
+
+[^78b-1]: Eingefügt durch Ziff. I der V der FINMA vom 27. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 703](https://fedlex.data.admin.ch/eli/oc/2022/703)).
 
 #### Art. 79
 
