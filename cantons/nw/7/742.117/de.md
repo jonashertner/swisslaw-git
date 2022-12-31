@@ -1,22 +1,22 @@
 ---
 canton: NW
 number: "742.117"
-title: Regierungsratsbeschluss betreffend die Festlegung der Höhe der Pflegetaxen 2022 für Pflegeleistungen von Organisationen der Krankenpflege und Hilfe zu Hause sowie Pflegefachpersonen
+title: Regierungsratsbeschluss betreffend die Festlegung der Höhe der Pflegetaxen 2023 für Pflegeleistungen von Organisationen der Krankenpflege und Hilfe zu Hause sowie Pflegefachpersonen
 language: de
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-09-28
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2022-09-27
 adopted: 2025-09-16
 in_force: 2026-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/742.117"
-pdf: "https://gesetze.nw.ch/api/de/versions/956/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1057/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Regierungsratsbeschluss betreffend die Festlegung der Höhe der Pflegetaxen 2022 für Pflegeleistungen von Organisationen der Krankenpflege und Hilfe zu Hause sowie Pflegefachpersonen
+# Regierungsratsbeschluss betreffend die Festlegung der Höhe der Pflegetaxen 2023 für Pflegeleistungen von Organisationen der Krankenpflege und Hilfe zu Hause sowie Pflegefachpersonen
 
-vom 28.09.2021 (Stand 01.01.2022)
+vom 27.09.2022 (Stand 01.01.2023)
 
 Der Regierungsrat von Nidwalden,
 
@@ -28,7 +28,7 @@ beschliesst:
 
 #### Ziff. 1
 
-<sup>1</sup> Die Pflegetaxen für Pflegeleistungen der zugelassenen Organisationen der Krankenpflege und Hilfe zu Hause sowie der selbständig erwerbenden Pflegefachpersonen gemäss Art. 28f Abs. 3 Ziff. 2 kKVG[^Ziff1-1] betragen für Klientinnen und Klienten mit zivilrechtlichem Wohnsitz im Kanton ab 1. Januar 2022 je Stunde:
+<sup>1</sup> Die Pflegetaxen für Pflegeleistungen der zugelassenen Organisationen der Krankenpflege und Hilfe zu Hause sowie der selbständig erwerbenden Pflegefachpersonen gemäss Art. 28f Abs. 3 Ziff. 2 kKVG[^Ziff1-1] betragen für Klientinnen und Klienten mit zivilrechtlichem Wohnsitz im Kanton ab 1. Januar 2023 je Stunde:
 
 - a) für Massnahmen der Abklärung und der Beratung (Art. 7 Abs. 2 lit. a der Krankenpflege-Leistungsverordnung, KLV[^Ziff1-2]): — Fr. 131.00
 - b) für Massnahmen der Untersuchung und der Behandlung (Art. 7 Abs. 2 lit. b KLV): — Fr. 102.00
@@ -39,7 +39,7 @@ beschliesst:
 
 #### Ziff. 2
 
-<sup>1</sup> Die Pflegetaxen für ambulante Pflegeleistungen der Pflegeheime, die gemäss Art. 28f Abs. 3 Ziff. 3 kKVG[^Ziff2-1] als Organisationen der Krankenpflege und Hilfe zu Hause anerkannt sind, betragen für Klientinnen und Klienten mit zivilrechtlichem Wohnsitz im Kanton ab 1. Januar 2022 je Stunde:
+<sup>1</sup> Die Pflegetaxen für ambulante Pflegeleistungen der Pflegeheime, die gemäss Art. 28f Abs. 3 Ziff. 3 kKVG[^Ziff2-1] als Organisationen der Krankenpflege und Hilfe zu Hause anerkannt sind, betragen für Klientinnen und Klienten mit zivilrechtlichem Wohnsitz im Kanton ab 1. Januar 2023 je Stunde:
 
 - a) für Massnahmen der Abklärung und der Beratung (Art. 7 Abs. 2 lit. a KLV[^Ziff2-2]): — Fr. 117.90
 - b) für Massnahmen der Untersuchung und der Behandlung (Art. 7 Abs. 2 lit. b KLV): — Fr. 91.80
@@ -65,14 +65,8 @@ beschliesst:
 
 #### Ziff. 5
 
-<sup>1</sup> Der Regierungsratsbeschluss vom 22. September 2020 betreffend die Festlegung der Höhe der Pflegetaxen 2021 für Pflegeleistungen von Organisationen der Krankenpflege und Hilfe zu Hause sowie Pflegefachpersonen[^Ziff5-1] wird aufgehoben.
+<sup>1</sup> Gegen diesen Beschluss kann binnen 30 Tagen nach erfolgter Publikation beim Regierungsrat Einsprache erhoben werden (Art. 29 Abs. 1 kKVG[^Ziff5-1]).
 
-[^Ziff5-1]: A 2020, 1935
+[^Ziff5-1]: NG 742.1
 
-#### Ziff. 6
-
-<sup>1</sup> Gegen diesen Beschluss kann binnen 30 Tagen nach erfolgter Publikation beim Regierungsrat Einsprache erhoben werden (Art. 29 Abs. 1 kKVG[^Ziff6-1]).
-
-[^Ziff6-1]: NG 742.1
-
-A 2021, 1794
+2022-026
