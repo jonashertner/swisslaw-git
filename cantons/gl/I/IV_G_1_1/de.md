@@ -3,20 +3,19 @@ canton: GL
 number: IV G/1/1
 title: Gesetz über den Natur- und Heimatschutz
 language: de
-version: 2022-07-01
-valid_until: 2022-12-31
+version: 2023-01-01
 version_adopted: 2022-05-01
 adopted: 1971-05-02
 in_force: 1972-01-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/IV-G.1.1"
-pdf: "https://gesetze.gl.ch/api/de/versions/2324/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2325/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Gesetz über den Natur- und Heimatschutz
 
-Vom 02.05.1971 (Stand 01.07.2022)
+Vom 02.05.1971 (Stand 01.01.2023)
 
 (Erlassen von der Landsgemeinde am 2. Mai 1971)
 
@@ -158,11 +157,9 @@ Vom 02.05.1971 (Stand 01.07.2022)
 
 <sup>2</sup> Zu Unrecht bezogene Beiträge müssen zurückgefordert werden. Ebenso können Beiträge ganz oder teilweise zurückgefordert werden für Objekte, die dem Zweck der Subvention entfremdet werden oder deren Schutzwürdigkeit dahingefallen ist.
 
-<sup>3</sup> Die nach dem Finanzhaushaltgesetz[^15-1] zuständige Behörde entscheidet über Beitragsgewährungen im Einzelfall; über Beitragsrückforderungen entscheidet die zuständige kantonale Verwaltungsbehörde.
+<sup>3</sup> Das zuständige Departement entscheidet über Beitragsgewährungen im Einzelfall bis 25 000 Franken, über höhere Beiträge beschliesst der Regierungsrat; über Beitragsrückforderungen entscheidet die zuständige kantonale Verwaltungsbehörde.
 
 <sup>4</sup> Der Landrat erlässt in der Verordnung die für die Festsetzung der Beiträge notwendigen Bestimmungen.
-
-[^15-1]: GS [VI A/1/2](https://gesetze.gl.ch/data/VI-A.1.2/de)
 
 #### Art. 16
 
@@ -182,7 +179,9 @@ Vom 02.05.1971 (Stand 01.07.2022)
 
 **Beiträge an Vereinigungen für Natur- und Heimatschutz**
 
-<sup>1</sup> Die nach dem Finanzhaushaltsgesetz zuständige Behörde kann den Vereinigungen von kantonaler Bedeutung, die sich vorwiegend dem Natur- und Heimatschutz widmen, an die Kosten ihrer im öffentlichen Interesse liegenden Tätigkeit Beiträge gewähren.
+<sup>1</sup> Der Regierungsrat kann den Vereinigungen von kantonaler Bedeutung, die sich vorwiegend dem Natur- und Heimatschutz widmen, an die Kosten ihrer im öffentlichen Interesse liegenden Tätigkeit Beiträge gewähren. Vorbehalten bleibt Absatz 2.
+
+<sup>2</sup> Über Beiträge gemäss Absatz 1 bis 25 000 Franken entscheidet das zuständige Departement.
 
 #### Art. 18
 
