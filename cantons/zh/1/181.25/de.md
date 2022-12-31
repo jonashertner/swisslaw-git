@@ -3,23 +3,23 @@ canton: ZH
 number: "181.25"
 title: "Verordnung über die Entschädigungen an Mitglieder landeskirchlicher Behörden, Organe und Kommissionen (Entschädigungsverordnung)"
 language: de
-version: "2015-01-01"
-nachtrag: "87"
-valid_until: 2023-01-01
+version: "2023-01-01"
+nachtrag: "119"
+valid_until: 2024-01-01
 adopted: 2007-03-20
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-181_25-2007_03_20-2007_06_15-087.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-181_25-2007_03_20-2007_06_15-119.html"
 text: pdf
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Reglement über die Entschädigungen an Mitglieder und Beauftragte landeskirchlicher Behörden und Kommissionen (Entschädigungsreglement)
+# Verordnung über die Entschädigungen an Mitglieder landeskirchlicher Behörden, Organe und Kommissionen (Entschädigungsverordnung)
 
-(vom 20. März 2007)[^t-1]
+(vom 20. März 2007)[^t-2][^t-1]
 
 Die Kirchensynode,
 
-gestützt auf Art. 214 lit. h der Kirchenordnung der Evangelisch-reformierten Landeskirche des Kantons Zürich vom 17. März 2009[^t-2] und § 65 Abs. 2 der Personalverordnung der Evangelisch-reformierten Landeskirche des Kantons Zürich vom 11. Mai 2010 (PVO)[^t-3],[^t-4]
+gestützt auf Art. 214 lit. h der Kirchenordnung der Evangelisch-reformierten Landeskirche des Kantons Zürich vom 17. März 2009[^t-3] und § 65 Abs. 2 der Personalverordnung der Evangelisch-reformierten Landeskirche des Kantons Zürich vom 11. Mai 2010 (PVO)[^t-4],[^t-5]
 
 beschliesst:
 
@@ -27,7 +27,7 @@ beschliesst:
 
 **Entschädigungen**
 
-§ 1. Die Entschädigungen für Sitzungen, Abordnungen, Beauftragungen und Reisekosten betragen, soweit dieses Reglement keine Abweichungen enthält:
+§ 1. Die Entschädigungen für Sitzungen, Abordnungen, Beauftragungen und Reisekosten betragen, soweit diese Verordnung keine Abweichungen enthält[^t-1]:
 
 - a. Sitzungen:
 
@@ -61,16 +61,17 @@ beschliesst:
 
 **1**
 
-- 1\. 1. 15 - 87 § 2. <sup>1</sup> Der Kirchenrat bestimmt, welche Entschädigungen jährlich, halbjährlich oder vierteljährlich abgerechnet werden. Er stellt für die Abrechnung entsprechende Formulare zur Verfügung.
+- 1\. 1. 23 - 119 § 2. <sup>1</sup> Der Kirchenrat bestimmt, welche Entschädigungen jährlich, halbjährlich oder vierteljährlich abgerechnet werden. Er stellt für die Abrechnung entsprechende Formulare zur Verfügung.
 
 **Abrechnungen a. Grundsatz**
 
 <sup>2</sup> Abrechungen sind je auf eine Abrechnungsperiode einzureichen, in jedem Fall aber bis spätestens 30. November. Später eingehende Abrechnungen kommen im neuen Rechnungsjahr zur Abrechnung.
 
-[^t-1]: OS 62, 110.
-[^t-2]: LS 181.10.
-[^t-3]: LS 181.40.
-[^t-4]: Fassung gemäss B vom 14. Juni 2011 (OS 66, 497; ABl 2011, 1834). In Kraft seit 1. Oktober 2011.
+[^t-1]: Fassung gemäss B vom 28. Juni 2022 (OS 77, 529; ABl 2022-09-23). In Kraft seit 1. Januar 2023.
+[^t-2]: OS 62, 110.
+[^t-3]: LS 181.10.
+[^t-4]: LS 181.40.
+[^t-5]: Fassung gemäss B vom 14. Juni 2011 (OS 66, 497; ABl 2011, 1834). In Kraft seit 1. Oktober 2011.
 
 #### § 3
 
@@ -158,53 +159,91 @@ Fraktionspräsidentinnen und Fraktionspräsidenten erhalten für ihre Arbeit sow
 
 **Besondere Entschädigungen**
 
-§ 12.[^11-1] <sup>1</sup> Die Mitglieder der landeskirchlichen Rekurskommission erhalten für die Behandlung von Rekursfällen neben den Entschädigungen gemäss § 1 lit. a und c:
+§ 12.[^11-1] Die Mitglieder der Landeskirchlichen Rekurskommission erhalten für die Behandlung von Rekursfällen neben den Entschädigungen gemäss § 1 lit. a und c:
 
-**Fr. 135 Fr. 440 Fr. 165 Fr. 165**
+- Verfahrensleitung, Ausarbeitung von Referaten und Entscheiden sowie persönliche Vorbereitungszeit (Akten- und Rechtsstudium), einschliesslich Büroinfrastrukturkosten, pro Stunde
 
-- Zulage für die persönliche Vorbereitungsarbeit (Akten- und Rechtsstudium), pro Fall
+**Fr. 110 Fr. 160 Fr. 160**
 
-- Referatsentschädigung, pro Referat
-
-- Sitzungsprotokoll
+- Erstellung des Sitzungsprotokolls
 
 - Ausfertigung des Rekursentscheids, pro Entscheid
 
-<sup>2</sup> Die Geschäftsleitung der Rekurskommission kann bei umfangreicheren Fällen die Entschädigungen gemäss Abs. 1 auf höchstens den vierfachen Betrag erhöhen.
+**Präsidium**
+
+§ 12 a.[^11-2] Die Präsidentin oder der Präsident der Rekurskommission erhält neben den Entschädigungen gemäss §§ 1 lit. a und c, 12, 12 b und 12 c für die Erfüllung der mit dem Amt verbundenen Aufgaben eine jährliche Pauschale von Fr. 1000.
 
 **3**
 
-- 1\. 1. 15 - 87 § 12 a.[^11-2] Die Mitglieder der landeskirchlichen Rekurskommission erhalten neben den Entschädigungen gemäss §§ 1 und 12 eine Entschädigung von Fr. 50 pro Stunde für umfangreichere Sekretariatsarbeiten.
+- 1\. 1. 23 - 119 § 12 b.[^11-3] Die Mitglieder der landeskirchlichen Rekurskommission erhalten neben den Entschädigungen gemäss §§ 1 und 12 eine Entschädigung von Fr. 50 pro Stunde für umfangreichere Sekretariatsarbeiten.
 
 **Sekretariatsentschädigung**
 
 **Auslagenersatz**
 
-§ 12 b.[^11-2] Ausgewiesene Auslagen, namentlich für Büromaterialien, Porti und Telefonspesen, werden aufgrund jährlicher Abrechnungen vergütet.
+§ 12 c.[^11-3] Ausgewiesene Auslagen, namentlich für Büromaterialien, Porti und Telefonspesen, werden aufgrund jährlicher Abrechnungen vergütet.
 
 - 4\. Kirchenrat
 
 **Mitglieder des Kirchenrates**
 
-§ 13.[^11-3] <sup>1</sup> Die Mitglieder des Kirchenrates beziehen einen Lohn gemäss § 65 Abs. 1 PVO[^11-4].
+§ 13.[^11-4] <sup>1</sup> Die Mitglieder des Kirchenrates beziehen einen Lohn gemäss § 65 Abs. 1 PVO[^11-5].
 
 <sup>2</sup> Der Lohn des Kirchenratspräsidenten oder der Kirchenratspräsidentin entspricht dem Maximum des oberen Bereichs der Lohnklasse 21, jener der weiteren Mitglieder des Kirchenrates dem Maximum des oberen Bereichs der Lohnklasse 19.
 
 <sup>3</sup> Der Kirchenrat kann für die Abgeltung von Spesen eine Pauschale festlegen.
 
-§§ 14 und 15.[^11-5]
+**Abgangsentschädigung a. Anspruch**
+
+§ 14.[^11-2] <sup>1</sup> Die Mitglieder des Kirchenrates haben bei Nichtwiederwahl für eine weitere Amtsdauer Anspruch auf eine Abgangsentschädigung, sofern sie bei der Beendigung des Amtes das Altersjahr, das den Anspruch auf eine Altersrente der Alters- und Hinterlassenenversicherung begründet, noch nicht vollendet haben.
+
+<sup>2</sup> Mitglieder des Kirchenrates, die ihr Amt nach weniger als vier Jahren gemäss Abs. 1 beenden, haben Anspruch auf die halbe Abgangsentschädigung gemäss § 15.
+
+<sup>3</sup> Kein Anspruch auf eine Abgangsentschädigung besteht bei Beendigung des Amtes:
+
+- a. invaliditätshalber, altershalber oder bei vorzeitigem Altersrücktritt,
+
+- b. aufgrund einer schweren Amtspflichtverletzung oder einer rechtskräftigen Verurteilung wegen eines Verbrechens.
+
+**b. Bemessung**
+
+§ 15.[^11-2] <sup>1</sup> Die Abgangsentschädigung wird in Monatsbetreffnissen berechnet. Als Monatsbetreffnis gilt ein Zwölftel des Jahres-Bruttolohns im Zeitpunkt der Beendigung des Amtes zuzüglich der ständigen Zulagen. Eine später eintretende Teuerung wird nicht berücksichtigt.
+
+**b. Auslagenersatz**
+
+<sup>2</sup> Die Abgangsentschädigung beträgt sechs Monatsbetreffnisse. § 15 a.[^11-2] <sup>1</sup> Erzielt das berechtigte Mitglied des Kirchenrates während der Dauer des Anspruchs auf eine Abgangsentschädigung aus einer beruflichen oder amtlichen Tätigkeit ein Einkommen, wird die Abgangsentschädigung gekürzt, wenn diese Tätigkeit und das bisherige Pensum als Mitglied des Kirchenrates zusammen ein volles Pensum übersteigen. Die Abgangsentschädigung wird um so viel gekürzt, wie ein volles Pensum überschritten wird.
+
+**c. Kürzung**
+
+<sup>2</sup> Mitglieder des Kirchenrates, die eine Abgangsentschädigung erhalten, sind verpflichtet, den Kirchenrat über das während der Dauer des Anspruchs auf eine Abgangsentschädigung aus beruflichen und amtlichen Tätigkeiten erzielte Einkommen zu informieren.
+
+[^11-1]: Fassung gemäss B vom 28. Juni 2022 (OS 77, 529; ABl 2022-09-23). In Kraft seit 1. Januar 2023.
+[^11-2]: Eingefügt durch B vom 28. Juni 2022 (OS 77, 529; ABl 2022-09-23). In Kraft seit 1. Januar 2023.
+[^11-3]: Nummerierung gemäss B vom 28. Juni 2022 (OS 77, 529; ABl 2022-09-23). In Kraft seit 1. Januar 2023.
+[^11-4]: Fassung gemäss B vom 14. Juni 2011 (OS 66, 497; ABl 2011, 1834). In Kraft seit 1. Oktober 2011.
+[^11-5]: LS 181.40.
+
+#### § 16
 
 **Kirchenrätliche Kommissionen**
 
-§ 16. Die Mitglieder kirchenrätlicher Kommissionen erhalten die Entschädigungen gemäss § 1.
+Die Mitglieder kirchenrätlicher Kommissionen erhalten die Entschädigungen gemäss § 1.
 
-- 5\. Bezirkskirchenpflege, Dekanat und Diakonatskapitelspräsidium
+- 5\. Organe der kirchlichen Bezirke[^16-1]
 
-**Bezirkskirchenpflege a. Entschädigungen**
+**Bezirkskirchenpflegen a. Entschädigungen**
 
-§ 17. <sup>1</sup> Die Mitglieder der Bezirkskirchenpflegen erhalten für Visitationen und Sitzungen die Entschädigungen gemäss § 1.
+§ 17.[^16-1] <sup>1</sup> Die Mitglieder der Bezirkskirchenpflegen erhalten für Visitationen und Sitzungen die Entschädigungen gemäss § 1.
 
-<sup>2</sup> Jeder Bezirkskirchenpflege steht für das Präsidium und weitere Funktionen eine jährliche Pauschale zur Verfügung. Sie beträgt[^11-6] a. für Bezirkskirchenpflegen mit 5 Mitgliedern Fr. 7000,
+<sup>2</sup> Mitglieder von Bezirkskirchenpflegen, die über eine Universitäts- oder Fachhochschulstudium in Rechtswissenschaft verfügen und als Referentin oder Referent Rekursfälle oder Aufsichtsbeschwerden behandeln, erhalten neben den Entschädigungen gemäss § 1 lit. a und c:
+
+- Verfahrensleitung, persönliche Vorbereitungszeit sowie Ausarbeitung von Referaten und Entscheiden (Akten- und Rechtsstudium), pro Stunde
+
+**Fr. 85 Fr. 160**
+
+- Ausfertigung des Entscheids, pro Entscheid
+
+<sup>3</sup> Jeder Bezirkskirchenpflege steht für das Präsidium und weitere Funktionen eine jährliche Pauschale zur Verfügung. Sie beträgt[^16-2] a. für Bezirkskirchenpflegen mit 5 Mitgliedern Fr. 7000,
 
 - b. für Bezirkskirchenpflegen mit 7 Mitgliedern Fr. 10 000,
 
@@ -212,35 +251,35 @@ Fraktionspräsidentinnen und Fraktionspräsidenten erhalten für ihre Arbeit sow
 
 - d. für Bezirkskirchenpflegen mit 11 und mehr Mitgliedern Fr. 20 000.
 
-<sup>3</sup> Die Bezirkskirchenpflege entscheidet zu Beginn jeder Amtsdauer über die Aufteilung der Pauschale. Sie meldet den Verteilerschlüssel dem Kirchenrat.
+<sup>4</sup> Die Bezirkskirchenpflege entscheidet zu Beginn jeder Amtsdauer über die Aufteilung der Pauschale. Sie meldet den Verteilerschlüssel dem Kirchenrat.
 
-[^11-1]: Fassung gemäss B vom 25. November 2014 (OS 69, 602; ABl 2014-11-28). In Kraft seit 1. Januar 2015. 1. 1. 15 - 87 5
-[^11-2]: Eingefügt durch B vom 25. November 2014 (OS 69, 602; ABl 2014-11-28). In Kraft seit 1. Januar 2015.
-[^11-3]: Fassung gemäss B vom 14. Juni 2011 (OS 66, 497; ABl 2011, 1834). In Kraft seit 1. Oktober 2011.
-[^11-4]: LS 181.40.
-[^11-5]: Aufgehoben durch B vom 14. Juni 2011 (OS 66, 497; ABl 2011, 1834). In Kraft seit 1. Oktober 2011.
-[^11-6]: Fassung gemäss B vom 14. Juni 2011 (OS 66, 497; ABl 2011, 1834). In Kraft seit 1. Januar 2012.
+[^16-1]: Fassung gemäss B vom 28. Juni 2022 (OS 77, 529; ABl 2022-09-23). In Kraft seit 1. Januar 2023.
+[^16-2]: Fassung gemäss B vom 14. Juni 2011 (OS 66, 497; ABl 2011, 1834). In Kraft seit 1. Januar 2012.
 
 #### § 18
 
-**b. Auslagenersatz**
-
 Ausgewiesene Auslagen, namentlich für Büromaterialien und Telefonspesen, werden aufgrund jährlicher Abrechnungen vergütet.
 
-#### § 19
+**5**
 
-**Dekanat, Diakonatskapitelspräsidium**
+- 1\. 1. 23 - 119 § 19.[^18-1] Der Kirchenrat regelt die Entschädigungen und den Auslagenersatz für Dekaninnen, Dekane, Vizedekaninnen und Vizedekane sowie Präsidentinnen, Präsidenten, Vizepräsidentinnen und Vizepräsidenten der Diakonats-, Kirchenmusik- und Katechetikkapitel.
 
-Der Kirchenrat regelt die Entschädigungen und den Auslagenersatz für Dekaninnen und Dekane, Vizedekaninnen und Vizedekane, Präsidentinnen und Präsidenten sowie Vizepräsidentinnen und Vizepräsidenten der Diakonatskapitel.
+**Kapitel**
 
 - 6\. Schlussbestimmungen
 
 **Revision**
 
-§ 20. Änderungen dieses Reglements werden von der Kirchensynode beschlossen. Sie setzen einen gemeinsamen Antrag des Büros der Kirchensynode und des Kirchenrates voraus.
+§ 20.[^18-1] Änderungen dieser Verordnung werden von der Kirchensynode beschlossen. Soweit sie die Entschädigungen der Kirchensynode betreffen, setzen sie einen gemeinsamen Antrag des Büros der Kirchensynode und des Kirchenrates voraus.
+
+[^18-1]: Fassung gemäss B vom 28. Juni 2022 (OS 77, 529; ABl 2022-09-23). In Kraft seit 1. Januar 2023.
 
 #### § 21
 
 **Inkrafttreten**
 
 Dieses Reglement tritt auf den 15. Juni 2007 in Kraft und ersetzt das Entschädigungsreglement vom 31. März 1992.
+
+## Weitere Fussnoten
+
+- [5] Obsolet.
