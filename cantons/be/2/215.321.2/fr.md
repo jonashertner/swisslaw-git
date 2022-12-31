@@ -3,20 +3,19 @@ canton: BE
 number: "215.321.2"
 title: "Ordonnance concernant le registre foncier cantonal et l'introduction du registre foncier fédéral"
 language: fr
-version: 2020-11-01
-valid_until: 2022-12-31
-version_adopted: 2020-09-02
+version: 2023-01-01
+version_adopted: 2022-10-19
 adopted: 1911-12-09
 in_force: 1911-12-09
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/215.321.2"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1967/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2694/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
 
 # Ordonnance concernant le registre foncier cantonal et l'introduction du registre foncier fédéral
 
-du 09.12.1911 (état au 01.11.2020)
+du 09.12.1911 (état au 01.01.2023)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -261,7 +260,7 @@ arrête:
 
 **Publication**
 
-<sup>1</sup> Cette introduction sera publiée six mois d'avance au moins. La publication se fera, par les soins du bureau du registre foncier et par trois fois, dans la Feuille officielle cantonale, dans la feuille d'avis autorisée par l'Etat ainsi que de toute autre manière accoutumée.
+<sup>1</sup> Cette introduction sera publiée six mois à l'avance au moins. La publication se fera, par les soins du bureau du registre foncier et par trois fois, dans la Feuille officielle cantonale, dans l'organe de publication officiel de la commune ainsi que de toute autre manière selon l'usage local.
 
 #### Art. 60
 

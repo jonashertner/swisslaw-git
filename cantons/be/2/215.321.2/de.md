@@ -3,20 +3,19 @@ canton: BE
 number: "215.321.2"
 title: Verordnung betreffend das kantonale Grundbuch und die Einführung des schweizerischen Grundbuches
 language: de
-version: 2020-11-01
-valid_until: 2022-12-31
-version_adopted: 2020-09-02
+version: 2023-01-01
+version_adopted: 2022-10-19
 adopted: 1911-12-09
 in_force: 1911-12-09
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/215.321.2"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1967/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2694/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung betreffend das kantonale Grundbuch und die Einführung des schweizerischen Grundbuches
 
-vom 09.12.1911 (Stand 01.11.2020)
+vom 09.12.1911 (Stand 01.01.2023)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -259,7 +258,7 @@ beschliesst:
 
 **Bekanntmachung**
 
-<sup>1</sup> Der Zeitpunkt der Einführung des schweizerischen Grundbuches ist spätestens sechs Monate vorher öffentlich bekannt zu machen. Die Publikation erfolgt durch das Grundbuchamt je dreimal im Amtsblatt, im betreffenden Amts- oder Ortsanzeiger, sowie in anderer ortsüblicher Weise.
+<sup>1</sup> Der Zeitpunkt der Einführung des schweizerischen Grundbuches ist spätestens sechs Monate vorher öffentlich bekannt zu machen. Die Publikation erfolgt durch das Grundbuchamt je dreimal im Amtsblatt, im betreffenden amtlichen Publikationsorgan der Gemeinde oder im Ortsanzeiger, sowie in anderer ortsüblicher Weise.
 
 #### Art. 60
 
