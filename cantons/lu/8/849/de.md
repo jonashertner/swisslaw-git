@@ -4,20 +4,20 @@ number: "849"
 title: Verordnung über das Halten von Hunden
 short: HuV
 language: de
-version: 2020-01-01
-valid_until: 2022-12-31
-version_adopted: 2019-11-26
+version: 2023-01-01
+valid_until: 2024-12-31
+version_adopted: 2022-11-15
 adopted: 1973-12-10
 in_force: 1974-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/849"
-pdf: "https://srl.lu.ch/api/de/versions/3470/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3992/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über das Halten von Hunden
 
-vom 10.12.1973 (Stand 01.01.2020)
+vom 10.12.1973 (Stand 01.01.2023)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -44,13 +44,17 @@ beschliesst:
 
 <sup>1</sup> Das Mitführen oder Laufenlassen von Hunden in Friedhöfen, Badeanstalten, Spitalanlagen, auf Kinderspielplätzen, Pausenplätzen von Schulhausanlagen und Spiel- und Sportfeldern ist verboten. Für hundesportliche Veranstaltungen sind Ausnahmebewilligungen möglich.
 
+<sup>2</sup> Auf angebauten landwirtschaftlichen Kulturen, namentlich auf Anbauflächen für Getreide und Gemüse sowie auf Wiesen in fortgeschrittenem Wachstumsstadium, ist das Mitführen und Laufenlassen von Hunden nur mit Einverständnis der berechtigten Person erlaubt.
+
+<sup>3</sup> Zu jagdlichen Zwecken ist das Mitführen und Laufenlassen von Jagdhunden auf angebauten landwirtschaftlichen Kulturen auch ohne Einverständnis der berechtigten Person erlaubt. Die Bestimmungen der Jagdgesetzgebung bleiben vorbehalten.
+
 #### § 3
 
 **Leinenzwang**
 
 <sup>1</sup> In öffentlich zugänglichen Lokalen, wie namentlich in Wirtschaften und Verkaufsläden, in Naturschutzgebieten, in Parkanlagen, in öffentlichen Verkehrsmitteln und auf verkehrsreichen Strassen sind Hunde an der Leine zu führen, soweit nicht nach eidgenössischen, kantonalen oder kommunalen Bestimmungen ein Betretverbot besteht.
 
-<sup>2</sup> Läufige, bissige und kranke Hunde sind im Freien sowie in Drittpersonen zugänglichen Räumen anzuleinen.
+<sup>2</sup> Läufige und bissige Hunde sowie Hunde mit ansteckenden Krankheiten sind im Freien sowie in Drittpersonen zugänglichen Räumen anzuleinen.
 
 #### § 4
 
@@ -58,9 +62,23 @@ beschliesst:
 
 <sup>1</sup> Die Halterinnen und Halter haben die Hunde mit aller nach den Umständen gebotenen Sorgfalt zu beaufsichtigen.
 
-<sup>2</sup> In Wäldern und an Waldrändern, an Seeufern, entlang von Ufergehölzen und Hecken sowie zur Nachtzeit im Freien dürfen Hunde nicht unbeaufsichtigt gelassen werden.
+<sup>2</sup> In Wäldern und an Waldrändern, an Seeufern, entlang von Ufergehölzen und Hecken sowie zur Nachtzeit im Freien dürfen Hunde nicht unbeaufsichtigt gelassen werden. Davon ausgenommen sind für den Einsatz geeignete und in der Schweiz geprüfte Herdenschutzhunde sowie Diensthunde des Polizei- und Rettungswesens während des Einsatzes und bei der Ausbildung.
 
 <sup>3</sup> Die Bestimmungen der Jagdgesetzgebung bleiben vorbehalten.
+
+#### § 4a
+
+**Obligatorische Hundeausbildung**
+
+<sup>1</sup> Halterinnen und Halter, die einen Hund aus dem Ausland einführen, sowie Ersthundehalterinnen und -halter haben innert 18 Monaten nach Erwerb eines Hundes mit diesem das Nationale Hundehalter-Brevet (NHB) zu bestehen. Der Veterinärdienst kann eine andere Prüfung als gleichwertig anerkennen.
+
+<sup>2</sup> Davon ausgenommen sind
+
+- a. Halterinnen und Halter von Hunden, die als Übersiedlungsgut in die Schweiz eingeführt werden,
+- b. Halterinnen und Halter von Blindenführ- oder Diensthunden,
+- c. Halterinnen und Halter von Hunden, die innert 18 Monaten nach Erwerb des Hundes eine anerkannte Prüfung der Technischen Kommission für das Gebrauchs- und Sporthundewesen der Schweizerischen Kynologischen Gesellschaft bestehen.
+
+<sup>3</sup> Bei Nichtbestehen des NHB oder einer als gleichwertig anerkannten Prüfung innert 18 Monaten nach Erwerb eines Hundes prüft der Veterinärdienst die Anordnung von Massnahmen nach § 7a Absatz 2 dieser Verordnung.
 
 #### § 5
 
@@ -92,7 +110,7 @@ beschliesst:
 
 <sup>1</sup> Der Veterinärdienst ist die Anlaufstelle für alle Belange im Zusammenhang mit dem Halten von Hunden. Er informiert die Öffentlichkeit über den Umgang mit Hunden.
 
-<sup>2</sup> Er trifft je nach Schwere des Einzelfalls die nach § 7 erforderlichen Massnahmen, wie
+<sup>2</sup> Sofern keine andere Stelle ausdrücklich dafür bezeichnet ist, ist der Veterinärdienst für den Vollzug der kantonalen Hundegesetzgebung zuständig. Er trifft je nach Schwere des Einzelfalls die nach § 7 erforderlichen Massnahmen, wie
 
 - a. Verpflichtung des Halters oder der Halterin zu einem Kursbesuch;
 - b. Maulkorbzwang;
@@ -121,13 +139,15 @@ beschliesst:
 
 **Registrierung der Hunde**
 
-<sup>1</sup> Die mit der Kennzeichnung erhobenen Daten werden durch die Identitas AG (Identitas) in einer zentralen Datenbank erfasst. Sie sind der Identitas von den kennzeichnenden Tierärztinnen und Tierärzten innert zehn Tagen zu melden und werden von dieser registriert.
+<sup>1</sup> Die kennzeichnenden Tierärztinnen und Tierärzte melden die erhobenen Daten innert zehn Tagen der Identitas AG. Diese registriert die Hunde mit diesen Daten in einer zentralen Datenbank (Hundedatenbank).
 
 #### § 7d
 
 **Meldepflicht**
 
-<sup>1</sup> Halterinnen und Halter, die einen Hund erwerben oder für länger als drei Monate übernehmen, haben der Identitas Adress- und Handänderungen innert zehn Tagen zu melden. Ebenso müssen sie den Tod eines Hundes melden.
+<sup>1</sup> Halterinnen und Halter, die einen Hund verkaufen, erwerben oder für länger als drei Monate abgeben oder übernehmen, haben dies in der Hundedatenbank innert zehn Tagen zu erfassen. Ebenso müssen sie den Tod eines Hundes erfassen.
+
+<sup>2</sup> Halterinnen und Halter haben der Wohnsitzgemeinde Adress- und Namensänderungen innert zehn Tagen zu melden.
 
 ## 3 Abgaben
 
@@ -162,9 +182,9 @@ beschliesst:
 
 **Strafen**
 
-<sup>1</sup> Widerhandlungen gegen die §§ 1, 2, 3, 4, 6, 7 und 7a Absatz 3 dieser Verordnung werden mit Busse bestraft. Vorbehalten bleibt das Ordnungsbussenverfahren.
+<sup>1</sup> Widerhandlungen gegen die §§ 1, 2, 3, 4, 4a, 6, 7 und 7a Absatz 3 dieser Verordnung werden mit Busse bestraft. Vorbehalten bleibt das Ordnungsbussenverfahren.
 
-<sup>1<sup>bis</sup></sup> Bei Widerhandlungen gegen die §§ 2 und 3 erhebt die Luzerner Polizei Ordnungsbussen. Bei Widerhandlungen gegen den § 3 in Naturschutzgebieten, welche die Wildhüterinnen und -hüter nach § 47 des Kantonalen Jagdgesetzes[^11-1] bei ihrer Tätigkeit feststellen, erheben diese wie die Luzerner Polizei Ordnungsbussen.
+<sup>1<sup>bis</sup></sup> Bei Widerhandlungen gegen § 2 Absatz 1 und § 3 Absatz 1 erhebt die Luzerner Polizei Ordnungsbussen. Bei Widerhandlungen gegen den § 3 Absatz 1 in Naturschutzgebieten, welche die Wildhüterinnen und -hüter nach § 47 des Kantonalen Jagdgesetzes[^11-1] bei ihrer Tätigkeit feststellen, erheben diese wie die Luzerner Polizei Ordnungsbussen.
 
 <sup>2</sup> Vorbehalten bleiben die Strafbestimmungen des Bundes.
 
