@@ -3,17 +3,17 @@ canton: ZH
 number: "414.253.411"
 title: "Studienordnung für die Bachelorstudiengänge Kommunikation und Medien, Mehrsprachige Kommunikation und Sprachliche Integration – Deutsch als Fremd- und Zweitsprache an der Zürcher Hochschule für Angewandte Wissenschaften"
 language: de
-version: "2021-04-01"
-nachtrag: "112"
-valid_until: 2023-01-01
+version: "2023-01-01"
+nachtrag: "121"
+valid_until: 2023-04-01
 adopted: 2009-06-04
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_411-2009_06_04-2009_08_01-112.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_411-2009_06_04-2009_08_01-121.html"
 text: pdf
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Studienordnung für die Bachelorstudiengänge Angewandte Sprachen, Kommunikation und Sprachliche Integration – Deutsch als Fremd- und Zweitsprache an der Zürcher Hochschule für Angewandte Wissenschaften
+# Studienordnung für die Bachelorstudiengänge Kommunikation, Mehrsprachige Kommunikation und Sprachliche Integration – Deutsch als Fremd- und Zweitsprache an der Zürcher Hochschule für Angewandte Wissenschaften
 
 (vom 4. Juni 2009)[^t-2][^t-1]
 
@@ -23,7 +23,7 @@ gestützt auf § 2 der Rahmenprüfungsordnung für Bachelor- und Masterstudieng�
 
 beschliesst:
 
-[^t-1]: Fassung gemäss B vom 9. Mai 2019 (OS 74, 496; ABl 2019-07-26). In Kraft seit 1. Oktober 2019.
+[^t-1]: Fassung gemäss B vom 7. Juli 2022 (OS 77, 564; ABl 2022-10-28). In Kraft seit 1. Januar 2023.
 [^t-2]: OS 64, 413. Vom Fachhochschulrat genehmigt am 30. Juni 2009.
 [^t-3]: LS 414.252.3.
 
@@ -45,37 +45,36 @@ Einzelheiten zu den Studiengängen, insbesondere zu den angebotenen Studienricht
 
 **Studiengänge und Vertiefungen**
 
-§ 3.[^2-1] <sup>1</sup> Die ZHAW bietet am Departement Angewandte Linguistik die Bachelorstudiengänge Angewandte Sprachen, Kommunikation und Sprachliche Integration – Deutsch als Fremd- und Zweitsprache an.
+§ 3.[^2-1] <sup>1</sup> Die ZHAW bietet am Departement Angewandte Linguistik die Bachelorstudiengänge Kommunikation, Mehrsprachige Kommunikation und Sprachliche Integration – Deutsch als Fremd- und Zweitsprache an.
 
-<sup>2</sup> Die Studiengänge Angewandte Sprachen und Kommunikation können in den folgenden Vertiefungen durchgeführt werden:
+<sup>2</sup> Die Studiengänge Kommunikation und Mehrsprachige Kommunikation können in den folgenden Vertiefungen durchgeführt werden:
 
-a.[^2-2] Angewandte Sprachen:
-
-- Mehrsprachige Kommunikation,
-
-- Fachkommunikation und Informationsdesign,
-
-- Multimodale Kommunikation,
-
-- b. Kommunikation:
+- a. Kommunikation:
 
 - Journalismus,
 
-- Organisationskommunikation.
+- Organisationskommunikation,
 
-§§ 4 und 5.[^2-3]
+- b. Mehrsprachige Kommunikation:
+
+- Fachkommunikation & Informationsdesign,
+
+- Multimodale Kommunikation & Translation,
+
+- Mündliche Kommunikation & Sprachmittlung.
 
 **1**
 
-- 1\. 4. 21 - 112 § 6. <sup>1</sup> Die Bachelorstudiengänge des Departements Angewandte Linguistik werden als Vollzeitstudium geführt. Sie können auch im Teilzeitstudium besucht werden.
+- 1\. 1. 23 - 119 §§ 4 und 5.[^2-2]
 
 **Studienform**
 
+§ 6. <sup>1</sup> Die Bachelorstudiengänge des Departements Angewandte Linguistik werden als Vollzeitstudium geführt. Sie können auch im Teilzeitstudium besucht werden.
+
 <sup>2</sup> Ein Wechsel vom Vollzeitstudium ins Teilzeitstudium und umgekehrt ist jeweils auf Studienjahresbeginn möglich. Über Ausnahmen entscheidet die Studiengangleitung.
 
-[^2-1]: Fassung gemäss B vom 9. Mai 2019 (OS 74, 496; ABl 2019-07-26). In Kraft seit 1. Oktober 2019.
-[^2-2]: Fassung gemäss B vom 24. September 2020 (OS 76, 7; ABl 2020-11-20). In Kraft seit 1. April 2021.
-[^2-3]: Aufgehoben durch B vom 9. Mai 2019 (OS 74, 496; ABl 2019-07-26). In Kraft seit 1. Oktober 2019.
+[^2-1]: Fassung gemäss B vom 7. Juli 2022 (OS 77, 564; ABl 2022-10-28). In Kraft seit 1. Januar 2023.
+[^2-2]: Aufgehoben durch B vom 9. Mai 2019 (OS 74, 496; ABl 2019-07-26). In Kraft seit 1. Oktober 2019.
 
 #### § 7
 
@@ -87,28 +86,23 @@ a.[^2-2] Angewandte Sprachen:
 
 ### B. Zulassung zum Studium
 
-#### § 8
+**Aufnahmeprüfung fachliche Eignung**
 
-**Eignungsprüfung**
+§ 8.[^hBZulassungzumStu-1] <sup>1</sup> Für die Zulassung zum Bachelorstudium ist eine Aufnahmeprüfung fachliche Eignung zu bestehen.
 
-<sup>1</sup> Für die Zulassung zum Bachelorstudium ist eine Eignungsprüfung zu bestehen.
-
-<sup>2</sup> Es werden studiengangspezifisch folgende Kompetenzen geprüft:
-
-- a. Kommunikative Fähigkeiten,
-
-- b. Potenzial für Studium und Beruf.
+<sup>2</sup> Die Aufnahmeprüfung fachliche Eignung wird mittels studiengangspezifischem Sprachtest durchgeführt, mit dem überprüft wird, ob die Studienbewerbenden über die für das Studium relevanten Sprachkompetenzen verfügen.
 
 <sup>3</sup> Die Einzelheiten werden im Anhang geregelt.
 
-§ 9.[^8-1]
+§ 9.[^hBZulassungzumStu-2]
 
-[^8-1]: Aufgehoben durch B vom 24. September 2020 (OS 76, 7; ABl 2020-11-20). In Kraft seit 1. April 2021. 1. 4. 21 - 112 5
-[^8-2]: Fassung gemäss B vom 24. September 2020 (OS 76, 7; ABl 2020-11-20). In Kraft seit 1. April 2021.
+[^hBZulassungzumStu-1]: Fassung gemäss B vom 7. Juli 2022 (OS 77, 564; ABl 2022-10-28). In Kraft seit 1. Januar 2023.
+[^hBZulassungzumStu-2]: Aufgehoben durch B vom 24. September 2020 (OS 76, 7; ABl 2020-11-20). In Kraft seit 1. April 2021.
+[^hBZulassungzumStu-3]: Fassung gemäss B vom 24. September 2020 (OS 76, 7; ABl 2020-11-20). In Kraft seit 1. April 2021.
 
 ### C. Aufbau des Studiums
 
-[^8-2]
+[^hBZulassungzumStu-3]
 
 **Gliederung**
 
@@ -167,7 +161,7 @@ a.[^2-2] Angewandte Sprachen:
 
 Das Bachelordiplom wird erteilt, wenn a. die Assessmentstufe und das Hauptstudium bestanden sind und b.[^hE141Studienabs-1] 180 ECTS-Credits erreicht sind.
 
-[^16-1]: Fassung gemäss B vom 9. Mai 2019 (OS 74, 496; ABl 2019-07-26). In Kraft seit 1. Oktober 2019.
+[^16-1]: Fassung gemäss B vom 9. Mai 2019 (OS 74, 496; ABl 2019-07-26). In Kraft seit 1. Oktober 2019. 1. 1. 23 - 119 5
 
 #### § 17
 
@@ -189,25 +183,28 @@ Das Bachelordiplom wird erteilt, wenn a. die Assessmentstufe und das Hauptstudiu
 
 <sup>3</sup> Die überzähligen Wahlpflichtmodule werden nicht für die Berechnung der Abschlussnote herangezogen.
 
+[^17-1]: Eingefügt durch B vom 9. Mai 2019 (OS 74, 496; ABl 2019-07-26). In Kraft seit 1. Oktober 2019.
+[^17-2]: Fassung gemäss B vom 7. Juli 2022 (OS 77, 564; ABl 2022-10-28). In Kraft seit 1. Januar 2023.
+
+#### § 18
+
 **Titel**
 
-§ 18.[^17-2] Die Bachelorstudiengänge werden mit folgenden Titeln abgeschlossen:
+Die Bachelorstudiengänge werden mit folgenden Titeln abgeschlossen:[^17-2] a. Bachelor of Arts ZHAW in Kommunikation mit Vertiefung in [gewählte Vertiefungsrichtung],
 
-- a. Bachelor of Arts ZFH in Angewandten Sprachen mit Vertiefung in [gewählte Vertiefungsrichtung],
-
-- b. Bachelor of Arts ZFH in Kommunikation mit Vertiefung in [gewählte Vertiefungsrichtung],
+- b. Bachelor of Arts ZHAW in Mehrsprachiger Kommunikation mit Vertiefung in [gewählte Vertiefungsrichtung],
 
 **3**
 
-- 1\. 4. 21 - 112 c.[^17-1] Bachelor of Arts ZFH in Sprachlicher Integration – Deutsch als Fremd- und Zweitsprache.
+- 1\. 1. 23 - 119
 
-[^17-1]: Eingefügt durch B vom 9. Mai 2019 (OS 74, 496; ABl 2019-07-26). In Kraft seit 1. Oktober 2019.
-[^17-2]: Fassung gemäss B vom 30. Oktober 2014 (OS 70, 13; ABl 2014-12-19). In Kraft seit 1. April 2015.
-[^17-3]: Fassung gemäss B vom 24. September 2020 (OS 76, 7; ABl 2020-11-20). In Kraft seit 1. April 2021.
+- c. Bachelor of Arts ZHAW in Sprachlicher Integration – Deutsch als Fremd- und Zweitsprache.
+
+[^18-1]: Fassung gemäss B vom 24. September 2020 (OS 76, 7; ABl 2020-11-20). In Kraft seit 1. April 2021.
 
 ### F. Schlussbestimmung
 
-[^17-3]
+[^18-1]
 
 #### § 19
 
@@ -265,18 +262,35 @@ Studierende, die ihr Bachelorstudium vor dem Herbstsemester 2009/2010 aufgenomme
 § 24.[^hHÜbergangsbestimmu-1] Studierende, die ihr Studium vor dem Herbstsemester 2021/ 2022 begonnen haben, werden der Studienordnung gemäss der nach der Änderung vom 24. September 2020 geltenden Regelung unterstellt.
 
 [^hHÜbergangsbestimmu-1]: Eingefügt durch B vom 24. September 2020 (OS 76, 7; ABl 2020-11-20). In Kraft seit 1. April 2021.
-[^hHÜbergangsbestimmu-2]: Fassung gemäss B vom 9. Mai 2019 (OS 74, 496; ABl 2019-07-26). In Kraft seit 1. Oktober 2019.
+[^hHÜbergangsbestimmu-2]: Eingefügt durch B vom 7. Juli 2022 (OS 77, 564; ABl 2022-10-28). In Kraft seit 1. Januar 2023.
 
-### Anhang zur Studienordnung für die Bachelorstudiengänge Angewandte Sprachen, Kommunikation und Sprachliche Integration – Deutsch als Fremd- und Zweitsprache an der Zürcher Hochschule für Angewandte Wissenschaften
+### I. Übergangsbestimmungen zur Änderung vom 7. Juli 2022
 
 [^hHÜbergangsbestimmu-2]
 
-Der Anhang zur Studienordnung für die Bachelorstudiengänge Angewandte Sprachen, Kommunikation und Sprachliche Integration – Deutsch als Fremd- und Zweitsprache an der Zürcher Hochschule für Angewandte Wissenschaften wird weder in die Offizielle Gesetzessammlung (OS) noch in die Zürcher Loseblattsammlung (LS) aufgenommen. Er kann bei der
+**Altrechtlicher Studiengang Angewandte Sprachen**
 
-Zürcher Hochschule für Angewandte Wissenschaften Ressort Lehre Gertrudstrasse 15 Postfach 8400 Winterthur
+§ 25.[^hIÜbergangsbestimmu-1] Studierende, die vor dem Herbstsemester 2023/2024 mit dem Studium im Studiengang Angewandte Sprachen begonnen haben, schliessen mit dem Titel Bachelor of Arts ZHAW in Angewandten Sprachen mit Vertiefung in [gewählte Vertiefungsrichtung] ab.
 
-bezogen oder unter (www.zhaw.ch) eingesehen werden.
+[^hIÜbergangsbestimmu-1]: Eingefügt durch B vom 7. Juli 2022 (OS 77, 564; ABl 2022-10-28). In Kraft seit 1. Januar 2023.
+[^hIÜbergangsbestimmu-2]: Fassung gemäss B vom 7. Juli 2022 (OS 77, 564; ABl 2022-10-28). In Kraft seit 1. Januar 2023.
+
+### Anhang zur Studienordnung für die Bachelorstudiengänge Kommunikation, Mehrsprachige Kommunikation und Sprachliche Integration – Deutsch als Fremd- und Zweitsprache an der Zürcher Hochschule für Angewandte Wissenschaften
+
+[^hIÜbergangsbestimmu-2]
+
+Der Anhang zur Studienordnung für die Bachelorstudiengänge Kommunikation, Mehrsprachige Kommunikation und Sprachliche Integration – Deutsch als Fremd- und Zweitsprache an der Zürcher Hochschule für Angewandte Wissenschaften wird weder in die Offizielle Gesetzessammlung (OS) noch in die Zürcher Loseblattsammlung (LS) aufgenommen. Er kann bei der
+
+Zürcher Hochschule für Angewandte Wissenschaften Ressort Bildung Gertrudstrasse 15 Postfach 8400 Winterthur
+
+bezogen oder unter www.zhaw.ch eingesehen werden.
+
+**7**
+
+- 1\. 1. 23 - 119
 
 ## Weitere Fussnoten
 
 - [4] Eingefügt durch B vom 20. März 2014 (OS 69, 285; ABl 2014-04-25). In Kraft seit 1. August 2014.
+- [6] Fassung gemäss B vom 30. Oktober 2014 (OS 70, 13; ABl 2014-12-19). In Kraft seit 1. April 2015.
+- [13] Fassung gemäss B vom 2. Juni 2022 (OS 77, 504; ABl 2022-08-19). In Kraft seit 1. Januar 2023.
