@@ -4,13 +4,13 @@ number: "314"
 title: Kantonale Ordnungsbussenverordnung
 short: KOBV
 language: de
-version: 2020-09-01
-valid_until: 2022-12-31
-version_adopted: 2020-08-17
+version: 2023-01-01
+valid_until: 2025-03-31
+version_adopted: 2022-11-15
 adopted: 2019-11-26
 in_force: 2020-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/314"
-pdf: "https://srl.lu.ch/api/de/versions/3906/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3991/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3906/pdf_file"
 
 (KOBV)
 
-vom 26.11.2019 (Stand 01.09.2020)
+vom 26.11.2019 (Stand 01.01.2023)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -167,9 +167,9 @@ beschliesst:
 
 <table>
 <tr><th>Ziffer</th><th>Übertretung</th><th>Busse in Fr.</th></tr>
-<tr><td>50</td><td>Missachtung des Verbotes des Mitführens oder Laufenlassens von Hunden in Friedhöfen, Badeanstalten, Spitalanlagen, auf Kinderspielplätzen, Pausenplätzen von Schulhausanlagen und Spiel- und Sportfeldern (§ 2 Verordnung über das Halten von Hunden vom 10. Dezember 1973[^A51-1])</td><td>100</td></tr>
-<tr><td>51a</td><td>Missachtung des Leinenzwangs in öffentlich zugänglichen Lokalen, wie namentlich in Wirtschaften und Verkaufsläden, in Parkanlagen, in öffentlichen Verkehrsmitteln und auf verkehrsreichen Strassen (§ 3 Verordnung über das Halten von Hunden)</td><td>100</td></tr>
-<tr><td>51b</td><td>Missachtung des Leinenzwangs in Naturschutzgebieten (§ 3 Verordnung über das Halten von Hunden)</td><td>150</td></tr>
+<tr><td>50</td><td>Missachtung des Verbotes des Mitführens oder Laufenlassens von Hunden in Friedhöfen, Badeanstalten, Spitalanlagen, auf Kinderspielplätzen, Pausenplätzen von Schulhausanlagen und Spiel- und Sportfeldern (§ 2 Absatz 1 Verordnung über das Halten von Hunden vom 10. Dezember 1973[^A51-1])</td><td>100</td></tr>
+<tr><td>51a</td><td>Missachtung des Leinenzwangs in öffentlich zugänglichen Lokalen, wie namentlich in Wirtschaften und Verkaufsläden, in Parkanlagen, in öffentlichen Verkehrsmitteln und auf verkehrsreichen Strassen (§ 3 Absatz 1 Verordnung über das Halten von Hunden)</td><td>100</td></tr>
+<tr><td>51b</td><td>Missachtung des Leinenzwangs in Naturschutzgebieten (§ 3 Absatz 1 Verordnung über das Halten von Hunden)</td><td>150</td></tr>
 </table>
 
 [^A51-1]: SRL Nr. [849](https://srl.lu.ch/data/849/de)
