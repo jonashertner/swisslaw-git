@@ -4,13 +4,13 @@ number: "151.2"
 title: Gemeindegesetz
 short: GG
 language: de
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-02-02
+version: 2023-01-01
+valid_until: 2023-05-31
+version_adopted: 2022-04-12
 adopted: 2009-04-21
 in_force: 2010-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/151.2"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3298/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3356/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3298/pdf_file"
 
 (GG)
 
-vom 21.04.2009 (Stand 01.01.2022)
+vom 21.04.2009 (Stand 01.01.2023)
 
 Der Kantonsrat des Kantons St.Gallen
 
