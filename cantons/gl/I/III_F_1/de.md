@@ -4,13 +4,12 @@ number: III F/1
 title: Einführungsgesetz zur Schweizerischen Strafprozessordnung und zur Schweizerischen Jugendstrafprozessordnung
 short: EG StPO
 language: de
-version: 2022-07-01
-valid_until: 2022-12-31
+version: 2023-01-01
 version_adopted: 2021-09-05
 adopted: 2010-05-02
 in_force: 2011-01-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/III-F.1"
-pdf: "https://gesetze.gl.ch/api/de/versions/2285/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2354/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2285/pdf_file"
 
 (EG StPO)
 
-Vom 02.05.2010 (Stand 01.07.2022)
+Vom 02.05.2010 (Stand 01.01.2023)
 
 (Erlassen von der Landsgemeinde am 2. Mai 2010)
 
@@ -288,6 +287,22 @@ Vom 02.05.2010 (Stand 01.07.2022)
 **Ermächtigung (Art. 7 Abs. 2 Bst. b StPO)**
 
 <sup>1</sup> Die Strafverfolgung gegen Mitglieder des Regierungsrates, der vom Landrat gewählten Kommissionen, der Gerichte und der Schlichtungsbehörde sowie gegen Staatsanwälte und Jugendanwälte wegen im Amt begangener Verbrechen oder Vergehen kann nur eingeleitet werden, wenn der Landrat in geheimer Abstimmung mit absoluter Mehrheit der anwesenden Mitglieder die Ermächtigung dazu erteilt.
+
+#### Art. 27a
+
+**Aktenaufbewahrung (Art. 103 StPO)**
+
+<sup>1</sup> Die Akten sind bei Strafsachen, die sich auf Vergehen oder Verbrechen beziehen, 50 Jahre, in den übrigen Strafsachen sowie in Jugendstrafsachen 30 Jahre aufzubewahren. Vorbehalten bleiben die bundesrechtlichen Minimalfristen.
+
+#### Art. 27b
+
+**Akteneinsicht bei abgeschlossenen Verfahren**
+
+<sup>1</sup> Die Akten abgeschlossener Strafverfahren können eingesehen werden, soweit der Akteneinsicht keine überwiegenden öffentlichen oder privaten Interessen entgegenstehen:
+
+- a. von Parteien und anderen Verfahrensbeteiligten, wenn diese ein Interesse glaubhaft machen;
+- b. von anderen Behörden, wenn sie diese für die Bearbeitung hängiger Zivil-, Straf- oder Verwaltungsverfahren benötigen;
+- c. von Dritten, wenn sie dafür ein wissenschaftliches oder ein anderes schützenswertes Interesse geltend machen.
 
 #### Art. 28
 
