@@ -4,13 +4,13 @@ number: "720.015"
 title: Disposiziuns executivas tar la legislaziun da taglia
 short: DERtLT
 language: rm
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-12-21
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2022-11-29
 adopted: 2007-11-27
 in_force: 2008-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/720.015"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3227/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3280/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3227/pdf_file"
 
 (DERtLT)
 
-dals 27-11-2007 (versiun dals 01-01-2022)
+dals 27-11-2007 (versiun dals 01-01-2023)
 
 sa basond sin l'art. 182 al. 4 da la Lescha federala dals 14 da december 1990 davart la taglia federala directa (LTFD)[^ingress-1], sin l'art. 72 al. 3 da la Lescha federala dals 14 da december 1990 davart l'armonisaziun da la taglia directa dals chantuns e da las vischnancas (LATD)[^ingress-2], sin l'art. 73 al. 1 da la Lescha federala dals 13 d'october 1965 davart la taglia anticipada (LTAnt)[^ingress-3], sin l'art. 15 da l'Ordinaziun dal Cussegl federal dals 22 d'avust 1967 davart l'imputaziun da taglias a la funtauna estras[^ingress-4], sin l'Ordinaziun dal Cussegl federal dals 2 d'october 1996 tar la Cunvegna svizra-americana davart l'imposiziun dubla da taglia[^ingress-5] sco er sin l'art. 45 al. 1 da la Constituziun dal chantun Grischun dals 18 da matg 2003 / 14 da settember 2003[^ingress-6]
 
@@ -78,9 +78,17 @@ relaschada da la regenza ils 27 da november 2007
 
 **…**
 
+#### Art. 4a
+
+**2. Marscha da chapital (art. 21c al. 6 LT)**
+
+<sup>1</sup> Per apports e per agios che vegnan pajads durant ina marscha da chapital tenor ils artitgels 653s ss. dal Dretg d'obligaziuns (DO)[^4a-1] vala l'artitgel 21c alinea 1 LT mo, per quant ch'els surpassan las restituziuns da reservas en il rom da questa marscha da chapital.
+
+[^4a-1]: CS [220](https://db.clex.ch/link/Bund/220/rm)
+
 #### Art. 5
 
-**2. Deducziun per sututilisaziun (art. 22 al. 3 LT) a) noziun**
+**3. Deducziun per sututilisaziun (art. 22 al. 3 LT) a) noziun**
 
 <sup>1</sup> La valur da l'atgna locaziun per ina immobiglia ch'è evidentamain sututilisada vegn reducida proporziunalmain.
 
@@ -130,13 +138,13 @@ relaschada da la regenza ils 27 da november 2007
 
 #### Art. 10
 
-**3. Reducziun da la valur da l'atgna locaziun (art. 22 al. 4 LT)**
+**4. Reducziun da la valur da l'atgna locaziun (art. 22 al. 4 LT)**
 
 <sup>1</sup> Cun ina facultad suttamessa a la taglia da main che 600 000 francs dastga la valur da l'atgna locaziun suttamessa a la taglia importar maximalmain 30 pertschient da las entradas en daner blut.
 
 #### Art. 10a
 
-**4. Custs supplementars per alimentaziun ed alloschi (art. 31 al. 1 lit. b LT)**
+**5. Custs supplementars per alimentaziun ed alloschi (art. 31 al. 1 lit. b LT)**
 
 <sup>1</sup> Per ils custs supplementars da l'alimentaziun ordaifer pon vegnir fatgas las suandantas deducziuns:
 
@@ -154,7 +162,7 @@ relaschada da la regenza ils 27 da november 2007
 
 #### Art. 10b
 
-**5. Gieus per daners (art. 30 al. 1 lit. m ed n, art. 36 al. 1 lit. n LT)**
+**6. Gieus per daners (art. 30 al. 1 lit. m e lit. n, art. 36 al. 1 lit. n LT)**
 
 <sup>1</sup> Libers da taglia èn:
 
@@ -169,7 +177,7 @@ relaschada da la regenza ils 27 da november 2007
 
 #### Art. 10c
 
-**6. Prestaziuns transitoricas per persunas dischoccupadas pli attempadas (art. 30 al. 1 lit. o LT)**
+**7. Prestaziuns transitoricas per persunas dischoccupadas pli attempadas (art. 30 al. 1 lit. o LT)**
 
 <sup>1</sup> Libras da taglia èn las entradas sin basa da la Lescha federala davart las prestaziuns transitoricas per ils dischoccupads pli attempads[^10c-1].
 
@@ -177,7 +185,7 @@ relaschada da la regenza ils 27 da november 2007
 
 #### Art. 11
 
-**7. Daners da sesida (art. 31 al. 2 LT)**
+**8. Daners da sesida (art. 31 al. 2 LT)**
 
 <sup>1</sup> Per activitads en uffizi accessoric a favur da la publicitad vala a partir da la perioda fiscala 2008 la suandanta regulaziun:
 
@@ -186,13 +194,13 @@ relaschada da la regenza ils 27 da november 2007
 
 #### Art. 11a
 
-**8. Amortisaziuns e retenziuns**
+**9. Amortisaziuns e retenziuns**
 
 <sup>1</sup> Las amortisaziuns tenor l'artitgel 32 alinea 1 litera a respectivamain tenor l'artitgel 81 alinea 1 litera b LT e las retenziuns tenor l'artitgel 32 alinea 1 litera b respectivamain tenor l'artitgel 81 alinea 1 litera c LT vegnan regladas en las agiuntas da quest relasch.
 
 #### Art. 12
 
-**9. Reservas per ils custs da perscrutaziun e da svilup a) princip**
+**10. Reservas per ils custs da perscrutaziun e da svilup a) princip**
 
 <sup>1</sup> Reservas per la perscrutaziun e per il svilup en il senn da l'artitgel 32 alinea 1 litera c respectivamain da l'artitgel 81 alinea 1 litera d LT[^12-1] pon vegnir furmadas mo per projects u per products concrets. L'interpresa sto cumprovar che las expensas correspundentas vegnian a resultar en ina perioda da circa tschintg onns.
 
@@ -214,7 +222,7 @@ relaschada da la regenza ils 27 da november 2007
 
 #### Art. 14a
 
-**10. Sancziuns finanzialas (art. 32 al. 1 lit. h, al. 2 ed al. 3 LT)**
+**11. Sancziuns finanzialas (art. 32 al. 1 lit. h, al. 2 ed al. 3 LT)**
 
 <sup>1</sup> Las persunas cun activitad da gudogn independenta pon deducir ils custs motivads da la fatschenta u da la professiun, en spezial las sancziuns che prelevan il gudogn, uschenavant ch'ellas n'han betg in intent penal.
 
@@ -232,7 +240,7 @@ relaschada da la regenza ils 27 da november 2007
 
 #### Art. 15
 
-**11. Acquisiziuns cumpensatoricas**
+**12. Acquisiziuns cumpensatoricas**
 
 <sup>1</sup> 1 Sin ina dumonda motivada po il termin da dus onns per l'amortisaziun da l'object da cumpensaziun en il senn da l'artitgel 33 alinea 3 respectivamain da l'artitgel 84 alinea 3 LT[^15-1] vegnir prolungà per in ulteriur onn. L'autoritad da taxaziun sto decider en chaussa entaifer 60 dis. La decisiun sto vegnir communitgada cun ina disposiziun, cunter la quala i po vegnir fatg protesta e recurs.
 
@@ -242,7 +250,7 @@ relaschada da la regenza ils 27 da november 2007
 
 #### Art. 16
 
-**12. Mantegniment d'immobiglias (art. 35 al. 2 LT) a) deducziun pauschala**
+**13. Mantegniment d'immobiglias (art. 35 al. 2 LT) a) deducziun pauschala**
 
 <sup>1</sup> Per la deducziun dals custs d'administraziun e da mantegniment da bains immobigliars privats surbajegiads importa la deducziun pauschala
 
@@ -257,13 +265,13 @@ relaschada da la regenza ils 27 da november 2007
 
 #### Art. 18
 
-**13. Deducziun per uffants: concubinat (art. 38 al. 1 lit. d LT)**
+**14. Deducziun per uffants: concubinat (art. 38 al. 1 lit. d LT)**
 
 <sup>1</sup> En relaziuns da concubinat cun uffants communabels vegni supponì ch'il partenari da concubinat cun l'entrada netta pli auta procuria principalmain per il mantegniment dals uffants.
 
 #### Art. 19
 
-**14. Tariffa da pèrs maridads**
+**15. Tariffa da pèrs maridads**
 
 <sup>1</sup> Sche l'uffant viva alternantamain en la chasada da la mamma respectivamain dal bab e sche nagin genitur na po deducir aliments per uffants, vegn concedida la distgargia en il senn da l'artitgel 39 alinea 3 LT [^19-1] per regla a quel genitur cun l'entrada netta pli auta.
 
@@ -340,6 +348,14 @@ relaschada da la regenza ils 27 da november 2007
 #### Art. 24a
 
 **…**
+
+#### Art. 24b
+
+**3. Bilantscha en valuta estra (art. 97 al. 1<sup>bis</sup> ed al. 2<sup>bis</sup> LT)**
+
+<sup>1</sup> Sche la bilantscha è vegnida fatga en ina valuta estra, sto il gudogn net suttamess a la taglia vegnir midà en francs. Decisiv è il stgomi mesaun (vendita) da la perioda fiscala.
+
+<sup>2</sup> Sche la bilantscha è vegnida fatga en ina valuta estra, sto l'agen chapital suttamess a la taglia vegnir midà en francs. Decisiv è il stgomi mesaun (vendita) a la fin da la perioda fiscala.
 
 ## 3. Las taglias a la funtauna
 

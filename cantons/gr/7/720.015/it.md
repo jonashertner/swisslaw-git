@@ -4,13 +4,13 @@ number: "720.015"
 title: Disposizioni esecutive della legislazione sulle imposte
 short: DELIG
 language: it
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-12-21
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2022-11-29
 adopted: 2007-11-27
 in_force: 2008-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/720.015"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3227/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3280/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/3227/pdf_file"
 
 (DELIG)
 
-del 27.11.2007 (stato 01.01.2022)
+del 27.11.2007 (stato 01.01.2023)
 
 emanate dal Governo il 27 novembre 2007
 
@@ -78,9 +78,17 @@ visti l'art. 182 cpv. 4 della legge federale del 14 dicembre 1990 sull'imposta f
 
 **…**
 
+#### Art. 4a
+
+**2. Margine di variazione del capitale (art. 21c cpv. 6 LIG)**
+
+<sup>1</sup> L'articolo 21c capoverso 1 LIG si applica agli apporti e all'aggio forniti durante la validità di un margine di variazione del capitale secondo gli articoli 653s segg. del Codice delle obbligazioni (CO)[^4a-1] per quanto eccedano le riserve rimborsate nell'ambito del suddetto margine di variazione del capitale.
+
+[^4a-1]: RS [220](https://db.clex.ch/link/Bund/220/it)
+
 #### Art. 5
 
-**2. Deduzione per sottoutilizzazione (art. 22 cpv. 3 LIG) a) Definizione**
+**3. Deduzione per sottoutilizzazione (art. 22 cpv. 3 LIG) a) Definizione**
 
 <sup>1</sup> Il valore locativo proprio per un immobile palesemente sottoutilizzato viene ridotto proporzionalmente.
 
@@ -130,13 +138,13 @@ visti l'art. 182 cpv. 4 della legge federale del 14 dicembre 1990 sull'imposta f
 
 #### Art. 10
 
-**3. Riduzione del valore locativo proprio (art. 22 cpv. 3 LIG)**
+**4. Riduzione del valore locativo proprio (art. 22 cpv. 4 LIG)**
 
 <sup>1</sup> In caso di una sostanza imponibile inferiore a 600 000 franchi il valore locativo proprio imponibile può ammontare al massimo al 30 per cento delle entrate in contanti.
 
 #### Art. 10a
 
-**4. Spese supplementari necessarie per il vitto e l'alloggio (art. 31 cpv. 1 lett. b LIG)**
+**5. Spese supplementari necessarie per il vitto e l'alloggio (art. 31 cpv. 1 lett. b LIG)**
 
 <sup>1</sup> Per le spese supplementari legate al vitto fuori casa possono essere effettuate le seguenti deduzioni:
 
@@ -154,7 +162,7 @@ visti l'art. 182 cpv. 4 della legge federale del 14 dicembre 1990 sull'imposta f
 
 #### Art. 10b
 
-**5. Giochi in denaro (art. 30 cpv. 1 lett. m e n, art. 36 cpv. 1 lett. n LIG)**
+**6. Giochi in denaro (art. 30 cpv. 1 lett. m e lett. n, art. 36 cpv. 1 lett. n LIG)**
 
 <sup>1</sup> Sono esenti da imposta:
 
@@ -169,7 +177,7 @@ visti l'art. 182 cpv. 4 della legge federale del 14 dicembre 1990 sull'imposta f
 
 #### Art. 10c
 
-**6. Prestazioni transitorie per i disoccupati anziani (art. 30 cpv. 1 lett. o LIG)**
+**7. Prestazioni transitorie per i disoccupati anziani (art. 30 cpv. 1 lett. o LIG)**
 
 <sup>1</sup> Sono esenti da imposta i proventi in base alla legge federale sulle prestazioni transitorie per i disoccupati anziani[^10c-1].
 
@@ -177,7 +185,7 @@ visti l'art. 182 cpv. 4 della legge federale del 14 dicembre 1990 sull'imposta f
 
 #### Art. 11
 
-**7. Gettoni di presenza (art. 31 cpv. 2 LIG)**
+**8. Gettoni di presenza (art. 31 cpv. 2 LIG)**
 
 <sup>1</sup> Per attività accessorie nell'interesse della collettività, a decorrere dal periodo fiscale 2008 fa stato la seguente normativa:
 
@@ -186,13 +194,13 @@ visti l'art. 182 cpv. 4 della legge federale del 14 dicembre 1990 sull'imposta f
 
 #### Art. 11a
 
-**8. Ammortamenti e accantonamenti**
+**9. Ammortamenti e accantonamenti**
 
 <sup>1</sup> Gli ammortamenti di cui all'articolo 32 capoverso 1 lettera a e all'articolo 81 capoverso 1 lettera b LIG, nonché gli accantonamenti di cui all'articolo 32 capoverso 1 lettera b e all'articolo 81 capoverso 1 lettera c LIG vengono disciplinati negli allegati al presente atto normativo.
 
 #### Art. 12
 
-**9. Riserve per spese di ricerca e di sviluppo a) Principio**
+**10. Riserve per spese di ricerca e di sviluppo a) Principio**
 
 <sup>1</sup> Possono essere costituite riserve per la ricerca e lo sviluppo ai sensi dell'articolo 32 capoverso 1 lettera c, rispettivamente dell'articolo 81 capoverso 1 lettera d LIG[^12-1] soltanto se si riferiscono a progetti o prodotti concreti. L'impresa deve comprovare che i relativi esborsi avvengono in un arco di tempo di circa cinque anni.
 
@@ -214,7 +222,7 @@ visti l'art. 182 cpv. 4 della legge federale del 14 dicembre 1990 sull'imposta f
 
 #### Art. 14a
 
-**10. Sanzioni pecuniarie (art. 32 cpv. 1 lett. h, cpv. 2 e cpv. 3 LIG)**
+**11. Sanzioni pecuniarie (art. 32 cpv. 1 lett. h, cpv. 2 e cpv. 3 LIG)**
 
 <sup>1</sup> Chi svolge un'attività lucrativa indipendente può dedurre le spese giustificate dall'uso commerciale o professionale, specialmente le sanzioni finalizzate al prelievo dell'utile illecito, nella misura in cui non abbiano carattere penale.
 
@@ -232,7 +240,7 @@ visti l'art. 182 cpv. 4 della legge federale del 14 dicembre 1990 sull'imposta f
 
 #### Art. 15
 
-**11. Sostituzioni di beni**
+**12. Sostituzioni di beni**
 
 <sup>1</sup> Su domanda motivata, il periodo di due anni per l'ammortamento del bene sostituito ai sensi dell'articolo 33 capoverso 3, rispettivamente dell'articolo 84 capoverso 3 LIG[^15-1] può essere esteso per un ulteriore anno. L'autorità di tassazione deve decidere in merito entro 60 giorni. Il risultato deve essere comunicato con una decisione, contro la quale si può presentare reclamo e ricorso.
 
@@ -242,7 +250,7 @@ visti l'art. 182 cpv. 4 della legge federale del 14 dicembre 1990 sull'imposta f
 
 #### Art. 16
 
-**12. Manutenzione di immobili (art. 35 cpv. 2 LIG) a) Deduzione forfetaria**
+**13. Manutenzione di immobili (art. 35 cpv. 2 LIG)) a) Deduzione forfetaria**
 
 <sup>1</sup> Per la deduzione di spese di amministrazione e di manutenzione di immobili privati sovraedificati la deduzione forfettaria ammonta:
 
@@ -257,13 +265,13 @@ visti l'art. 182 cpv. 4 della legge federale del 14 dicembre 1990 sull'imposta f
 
 #### Art. 18
 
-**13. Deduzione per i figli: concubinato (art. 38 cpv. 1 lett. d LIG)**
+**14. Deduzione per i figli: concubinato (art. 38 cpv. 1 lett. d LIG)**
 
 <sup>1</sup> Nei rapporti di concubinato con figli comuni si presume che il concubino con il reddito netto maggiore provveda in misura principale al mantenimento dei figli.
 
 #### Art. 19
 
-**14. Tariffa per coniugati**
+**15. Tariffa per coniugati**
 
 <sup>1</sup> Se il figlio vive alternamente nell'economia domestica della madre, rispettivamente del padre e nessun genitore può dedurre gli alimenti per figli, lo sgravio ai sensi dell'articolo 39 capoverso 3 LIG[^19-1] viene di regola concesso al genitore con il reddito netto superiore.
 
@@ -340,6 +348,14 @@ visti l'art. 182 cpv. 4 della legge federale del 14 dicembre 1990 sull'imposta f
 #### Art. 24a
 
 **…**
+
+#### Art. 24b
+
+**3. Chiusura dei conti redatta in moneta estera (art. 97 cpv. 1<sup>bis</sup> e cpv. 2<sup>bis</sup> LIG)**
+
+<sup>1</sup> Se la chiusura dei conti è redatta in una moneta estera, l'utile netto imponibile va convertito in franchi. È determinante il corso medio delle divise (vendita) durante il periodo fiscale.
+
+<sup>2</sup> Se la chiusura dei conti è redatta in una moneta estera, il capitale proprio imponibile va convertito in franchi. È determinante il corso delle divise (vendita) durante il periodo fiscale.
 
 ## 3. Imposte alla fonte
 

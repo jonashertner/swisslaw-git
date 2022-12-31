@@ -4,13 +4,13 @@ number: "720.015"
 title: Ausführungsbestimmungen zur Steuergesetzgebung
 short: ABzStG
 language: de
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-12-21
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2022-11-29
 adopted: 2007-11-27
 in_force: 2008-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/720.015"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3227/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3280/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3227/pdf_file"
 
 (ABzStG)
 
-Vom 27.11.2007 (Stand 01.01.2022)
+Vom 27.11.2007 (Stand 01.01.2023)
 
 Gestützt auf Art. 182 Abs. 4 des Bundesgesetzes über die direkte Bundessteuer vom 14. Dezember 1990 (DBG)[^ingress-1] sowie Art. 72 Abs. 3 des Bundesgesetzes über die Harmonisierung der direkten Steuern der Kantone und Gemeinden vom 14. Dezember 1990 (StHG)[^ingress-2] sowie Art. 73 Abs. 1 des Bundesgesetzes über die Verrechnungssteuer vom 13. Oktober 1965 (VStG)[^ingress-3] sowie Art. 15 der bundesrätlichen Verordnung über die Anrechnung ausländischer Quellensteuern vom 22. August 1967[^ingress-4] sowie die bundesrätliche Verordnung zum schweizerisch-amerikanischen Doppelbesteuerungsabkommen vom 2. Oktober 1996[^ingress-5] sowie Art. 45 Abs. 1 der Verfassung des Kantons Graubünden vom 18. Mai 2003 / 14. September 2003[^ingress-6]
 
@@ -78,9 +78,17 @@ von der Regierung erlassen am 27. November 2007
 
 **…**
 
+#### Art. 4a
+
+**2. Kapitalband (Art. 21c Abs. 6 StG)**
+
+<sup>1</sup> Artikel 21c Absatz 1 StG gilt für Einlagen und Aufgelder, die während eines Kapitalbands nach den Artikeln 653s ff. des Obligationenrechts (OR)[^4a-1] geleistet werden, nur soweit sie die Rückzahlungen von Reserven im Rahmen dieses Kapitalbands übersteigen.
+
+[^4a-1]: SR [220](https://db.clex.ch/link/Bund/220/de)
+
 #### Art. 5
 
-**2. Unternutzungsabzug (Art. 22 Abs. 3 StG) a) Begriff**
+**3. Unternutzungsabzug (Art. 22 Abs. 3 StG) a) Begriff**
 
 <sup>1</sup> Der Eigenmietwert für eine offensichtlich untergenutzte Liegenschaft wird anteilig gekürzt.
 
@@ -132,13 +140,13 @@ Abzug = (Mietwert ohne Garage x Anzahl nicht genutzter Räume) / (Anzahl Zimmer 
 
 #### Art. 10
 
-**3. Reduktion Eigenmietwert (Art. 22 Abs. 4 StG)**
+**4. Reduktion Eigenmietwert (Art. 22 Abs. 4 StG)**
 
 <sup>1</sup> Bei einem steuerbaren Vermögen von weniger als 600 000 Franken darf der steuerbare Eigenmietwert höchstens 30 Prozent der Bareinkünfte betragen.
 
 #### Art. 10a
 
-**4. Mehrkosten für Verpflegung und Unterkunft (Art. 31 Abs. 1 lit. b StG)**
+**5. Mehrkosten für Verpflegung und Unterkunft (Art. 31 Abs. 1 lit. b StG)**
 
 <sup>1</sup> Für die Mehrkosten der auswärtigen Verpflegung können folgende Abzüge vorgenommen werden:
 
@@ -156,7 +164,7 @@ Abzug = (Mietwert ohne Garage x Anzahl nicht genutzter Räume) / (Anzahl Zimmer 
 
 #### Art. 10b
 
-**5. Geldspiele (Art. 30 Abs. 1 lit. m und n, Art. 36 Abs. 1 lit. n StG)**
+**6. Geldspiele (Art. 30 Abs. 1 lit. m und lit. n, Art. 36 Abs. 1 lit. n StG)**
 
 <sup>1</sup> Steuerfrei sind:
 
@@ -171,7 +179,7 @@ Abzug = (Mietwert ohne Garage x Anzahl nicht genutzter Räume) / (Anzahl Zimmer 
 
 #### Art. 10c
 
-**6. Überbrückungsleistungen für ältere Arbeitslose (Art. 30 Abs. 1 lit. o StG)**
+**7. Überbrückungsleistungen für ältere Arbeitslose (Art. 30 Abs. 1 lit. o StG)**
 
 <sup>1</sup> Steuerfrei sind Einkünfte aufgrund des Bundesgesetzes über Überbrückungsleistungen für ältere Arbeitslose[^10c-1].
 
@@ -179,7 +187,7 @@ Abzug = (Mietwert ohne Garage x Anzahl nicht genutzter Räume) / (Anzahl Zimmer 
 
 #### Art. 11
 
-**7. Sitzungsgelder (Art. 31 Abs. 2 StG)**
+**8. Sitzungsgelder (Art. 31 Abs. 2 StG)**
 
 <sup>1</sup> Für nebenamtliche Tätigkeiten im Interesse der Öffentlichkeit gilt ab der Steuerperiode 2008 folgende Regelung:
 
@@ -188,13 +196,13 @@ Abzug = (Mietwert ohne Garage x Anzahl nicht genutzter Räume) / (Anzahl Zimmer 
 
 #### Art. 11a
 
-**8. Abschreibungen und Rückstellungen**
+**9. Abschreibungen und Rückstellungen**
 
 <sup>1</sup> Die Abschreibungen gemäss Artikel 32 Absatz 1 Litera a beziehungsweise Artikel 81 Absatz 1 Litera b StG und die Rückstellungen gemäss Artikel 32 Absatz 1 Litera b beziehungsweise Artikel 81 Absatz 1 Litera c StG werden in den Anhängen dieses Erlasses geregelt.
 
 #### Art. 12
 
-**9. Rücklagen für Forschungs- und Entwicklungskosten a) Grundsatz**
+**10. Rücklagen für Forschungs- und Entwicklungskosten a) Grundsatz**
 
 <sup>1</sup> Rücklagen für Forschung und Entwicklung im Sinne von Artikel 32 Absatz 1 Litera c beziehungsweise Artikel 81 Absatz 1 Litera d StG[^12-1] können nur bezogen auf konkrete Projekte oder Produkte gebildet werden. Die Unternehmung hat zu belegen, dass die entsprechenden Ausgaben in einem Zeitraum von rund fünf Jahren anfallen werden.
 
@@ -216,7 +224,7 @@ Abzug = (Mietwert ohne Garage x Anzahl nicht genutzter Räume) / (Anzahl Zimmer 
 
 #### Art. 14a
 
-**10. Finanzielle Sanktionen (Art. 32 Abs. 1 lit. h, Abs. 2 und Abs. 3 StG)**
+**11. Finanzielle Sanktionen (Art. 32 Abs. 1 lit. h, Abs. 2 und Abs. 3 StG)**
 
 <sup>1</sup> Selbständig Erwerbende können die geschäfts- oder berufsmässig begründeten Kosten abziehen, insbesondere die gewinnabschöpfenden Sanktionen, soweit sie keinen Strafzweck haben.
 
@@ -234,7 +242,7 @@ Abzug = (Mietwert ohne Garage x Anzahl nicht genutzter Räume) / (Anzahl Zimmer 
 
 #### Art. 15
 
-**11. Ersatzbeschaffungen**
+**12. Ersatzbeschaffungen**
 
 <sup>1</sup> Die zweijährige Frist für die Abschreibung auf dem Ersatzobjekt im Sinne von Artikel 33 Absatz 3 beziehungsweise Artikel 84 Absatz 3 StG[^15-1] kann auf begründetes Gesuch hin um ein weiteres Jahr erstreckt werden. Die Veranlagungsbehörde hat darüber innert 60 Tagen zu entscheiden. Der Entscheid ist mit einer Verfügung zu eröffnen, gegen die Einsprache und Beschwerde erhoben werden kann.
 
@@ -244,7 +252,7 @@ Abzug = (Mietwert ohne Garage x Anzahl nicht genutzter Räume) / (Anzahl Zimmer 
 
 #### Art. 16
 
-**12. Liegenschaftenunterhalt (Art. 35 Abs. 2 StG) a) Pauschalabzug**
+**13. Liegenschaftenunterhalt (Art. 35 Abs. 2 StG) a) Pauschalabzug**
 
 <sup>1</sup> Für den Abzug von Verwaltungs- und Unterhaltskosten von überbauten Privatliegenschaften beträgt der Pauschalabzug:
 
@@ -259,13 +267,13 @@ Abzug = (Mietwert ohne Garage x Anzahl nicht genutzter Räume) / (Anzahl Zimmer 
 
 #### Art. 18
 
-**13. Kinderabzug: Konkubinat (Art. 38 Abs. 1 lit. d StG)**
+**14. Kinderabzug: Konkubinat (Art. 38 Abs. 1 lit. d StG)**
 
 <sup>1</sup> In Konkubinatsverhältnissen mit gemeinsamen Kindern wird vermutet, dass der Konkubinatspartner mit dem höheren Reineinkommen den Unterhalt der Kinder zur Hauptsache bestreitet.
 
 #### Art. 19
 
-**14. Verheiratetentarif**
+**15. Verheiratetentarif**
 
 <sup>1</sup> Lebt das Kind abwechslungsweise im Haushalt der Mutter beziehungsweise des Vaters und kann kein Elternteil Kinderalimente in Abzug bringen, wird die Entlastung im Sinne von Artikel 39 Absatz 3 StG[^19-1] in der Regel dem Elternteil mit dem höheren Reineinkommen gewährt.
 
@@ -342,6 +350,14 @@ Abzug = (Mietwert ohne Garage x Anzahl nicht genutzter Räume) / (Anzahl Zimmer 
 #### Art. 24a
 
 **…**
+
+#### Art. 24b
+
+**3. Geschäftsabschluss in ausländischer Währung (Art. 97 Abs. 1<sup>bis</sup> und Abs. 2<sup>bis</sup> StG)**
+
+<sup>1</sup> Lautet der Geschäftsabschluss auf eine ausländische Währung, so ist der steuerbare Reingewinn in Franken umzurechnen. Massgebend ist der durchschnittliche Devisenkurs (Verkauf) der Steuerperiode.
+
+<sup>2</sup> Lautet der Geschäftsabschluss auf eine ausländische Währung, so ist das steuerbare Eigenkapital in Franken umzurechnen. Massgebend ist der Devisenkurs (Verkauf) am Ende der Steuerperiode.
 
 ## 3. Quellensteuern
 
