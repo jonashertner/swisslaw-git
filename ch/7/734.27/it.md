@@ -4,11 +4,11 @@ title: "Ordinanza del 7 novembre 2001 concernente gli impianti elettrici a bassa
 short: OIBT
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/22"
 language: it
-version: 2022-07-01
+version: 2023-01-01
 adopted: 2001-11-07
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/22/20220701/it/xml/fedlex-data-admin-ch-eli-cc-2002-22-20220701-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/22/20220701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/22/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2002-22-20230101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/22/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/22/20220701/it"
 
 (Ordinanza sugli impianti a bassa tensione, OIBT)
 
-del 7 novembre 2001 (Stato 1° luglio 2022)
+del 7 novembre 2001 (Stato 1° gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -214,11 +214,12 @@ Se un’impresa occupa il responsabile tecnico a tempo parziale, l’autorizzazi
 
 <sup>1</sup> Le imprese devono occupare almeno un responsabile tecnico a tempo pieno ogni 20 persone occupate nell’installazione.
 
-<sup>2</sup> Nelle imprese che occupano più di 20 persone nell’installazione, ad ogni responsabile tecnico occupato a tempo pieno possono essere sottoposte al massimo tre persone autorizzate a eseguire il controllo secondo l’articolo 27 capoverso 1, ciascuna delle quali a sua volta può sorvegliare al massimo altre 10 persone.
+<sup>2</sup> Un’impresa può sottoporre ad ogni responsabile tecnico al massimo tre persone autorizzate a eseguire il controllo secondo l’articolo 27 capoverso 1, ciascuna delle quali a sua volta può sorvegliare al massimo altre 10 persone.[^10-2]
 
 <sup>3</sup> Le succursali devono soddisfare i requisiti di cui al capoverso 1 come l’impresa stessa. Possono organizzarsi conformemente al capoverso 2.
 
 [^10-1]: Nuovo testo giusta il n. I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
+[^10-2]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 800](https://fedlex.data.admin.ch/eli/oc/2022/800)).
 
 #### Art. 10a
 
@@ -274,7 +275,7 @@ Le imprese titolari di un’autorizzazione d’installazione secondo l’articol
 
 [^11-1]: Nuovo testo giusta il n. I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
 
-### Sezione 3:**** Autorizzazione d’installazione limitata
+### Sezione 3: Autorizzazione d’installazione limitata
 
 [^chap2-sec3-1]
 
@@ -806,7 +807,7 @@ Il rapporto di sicurezza deve essere è firmato:
 [^40-1]: Introdotto dal n. I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
 [^40-2]: Nuovo testo giusta il n. I dell’O del 23 ago. 2017, in vigore dal 1° gen. 2018 ([RU 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
 
-## Capitolo 5: Tasse, disposizioni penali****
+## Capitolo 5: Tasse, disposizioni penali
 
 [^chap5-1]
 
@@ -896,7 +897,7 @@ I periodi di controllo fissati in base al diritto anteriore sono mantenuti. Se i
 
 La presente ordinanza entra in vigore il 1° gennaio 2002.
 
-Allegato*[^t-1]*
+Allegato[^t-1]
 
 (art. 5 cpv. 2, 17 cpv. 2 lett. d, 32 cpv. 2 lett. a e 4, 35 cpv. 1 e 3, 36 cpv. 2 e 4)
 

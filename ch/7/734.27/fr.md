@@ -4,11 +4,11 @@ title: "Ordonnance du 7 novembre 2001 sur les installations électriques à bass
 short: OIBT
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/22"
 language: fr
-version: 2022-07-01
+version: 2023-01-01
 adopted: 2001-11-07
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/22/20220701/fr/xml/fedlex-data-admin-ch-eli-cc-2002-22-20220701-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/22/20220701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/22/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2002-22-20230101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/22/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/22/20220701/fr"
 
 (Ordonnance sur les installations à basse tension, OIBT)
 
-du 7 novembre 2001 (Etat le 1<sup>er</sup> juillet 2022)
+du 7 novembre 2001 (État le 1<sup>er</sup> janvier 2023)
 
 Le Conseil fédéral suisse,
 
@@ -210,11 +210,12 @@ Lorsqu’une entreprise emploie le responsable technique à temps partiel, l’a
 
 <sup>1</sup> Les entreprises doivent affecter à la surveillance technique au moins un responsable technique à plein temps pour 20 personnes occupées à des travaux d’installation.
 
-<sup>2</sup> Si une entreprise occupe plus de 20 personnes à des travaux d’installation, un responsable technique à plein temps peut superviser au maximum trois personnes habilitées au sens de l’art. 27, al. 1, à effectuer les contrôles d’installations et travaillant à plein temps; ces personnes peuvent à leur tour surveiller 10 personnes au maximum chacune.
+<sup>2</sup> Une entreprise peut affecter tout responsable technique à la supervision d’au maximum trois personnes habilitées, au sens de l’art. 27, al. 1, à effectuer les contrôles d’installations; ces personnes peuvent à leur tour surveiller 10 personnes au maximum chacune.[^10-2]
 
 <sup>3</sup> À l’instar de l’entreprise, les succursales sont tenues de respecter les exigences visées à l’al. 1. Elles peuvent s’organiser conformément à l’al. 2.
 
 [^10-1]: Nouvelle teneur selon le ch. I de l’O du 23 août 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
+[^10-2]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 800](https://fedlex.data.admin.ch/eli/oc/2022/800)).
 
 #### Art. 10a
 
@@ -270,7 +271,7 @@ Les entreprises disposant d’une autorisation d’installer au sens de l’art.
 
 [^11-1]: Nouvelle teneur selon le ch. I de l’O du 23 août 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
 
-### Section 3**** Autorisations d’installer limitées
+### Section 3 Autorisations d’installer limitées
 
 [^chap2-sec3-1]
 
@@ -802,7 +803,7 @@ Le rapport de sécurité doit être signé:
 [^40-1]: Introduit par le ch. I de l’O du 23 août 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
 [^40-2]: Nouvelle teneur selon le ch. I de l’O du 23 août 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
 
-## Chapitre 5**** Émoluments et dispositions pénales
+## Chapitre 5 Émoluments et dispositions pénales
 
 [^chap5-1]
 
@@ -892,7 +893,7 @@ Les périodes de contrôle en cours selon l’ancien droit sont maintenues. Si l
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2002.
 
-Annexe*[^t-1]*
+Annexe[^t-1]
 
 (art. 5, al. 2, 17, al. 2, let. d, 32, al. 2, let. a, et 4, 35, al. 1 et 3, 36, al. 2, 3<sup>bis</sup> et 4)
 
@@ -952,7 +953,7 @@ Annexe*[^t-1]*
 - 2\.4.8 des exploitations agricoles;
 - 2\.4.9 des constructions de la protection civile qui ne sont pas soumises au contrôle visé au ch. 1.4.1;
 - 2\.4.10 des bateaux de plaisance;
-- 2\.4.11 ...
+- 2\.4.11 …
 - 2\.4.12 des routes nationales de 1<sup>re</sup> et de 2<sup>e</sup> classe qui ne sont pas soumises au contrôle selon le ch. 1.3.1;
 - 2\.4.13 des installations de téléphonie mobile situées sur des bâtiments, alimentées par le système d’approvisionnement général.
 - 2\.5 Toutes les autres installations électriques sont soumises au contrôle tous les 20 ans.

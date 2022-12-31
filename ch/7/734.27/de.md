@@ -4,11 +4,11 @@ title: "Verordnung vom 7. November 2001 über elektrische Niederspannungsinstall
 short: NIV
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/22"
 language: de
-version: 2022-07-01
+version: 2023-01-01
 adopted: 2001-11-07
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/22/20220701/de/xml/fedlex-data-admin-ch-eli-cc-2002-22-20220701-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/22/20220701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/22/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2002-22-20230101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/22/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/22/20220701/de"
 
 (Niederspannungs-Installationsverordnung, NIV)
 
-vom 7. November 2001 (Stand am 1. Juli 2022)
+vom 7. November 2001 (Stand am 1. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -213,11 +213,12 @@ Beschäftigt ein Betrieb den fachkundigen Leiter in einem Teilzeitarbeitsverhäl
 
 <sup>1</sup> Betriebe müssen pro 20 in der Installation beschäftigte Personen mindestens einen fachkundigen Leiter vollzeitlich beschäftigen.
 
-<sup>2</sup> Beschäftigt ein Betrieb mehr als 20 Personen in der Installation, so kann er einem vollzeitbeschäftigten fachkundigen Leiter höchstens drei vollzeitbeschäftigte kontrollberechtigte Personen nach Artikel 27 Absatz 1 unterstellen, die ihrerseits zusätzlich höchstens je 10 Personen beaufsichtigen dürfen.
+<sup>2</sup> Ein Betrieb kann jedem fachkundigen Leiter höchstens drei kontrollberechtigte Personen nach Artikel 27 Absatz 1 unterstellen, die ihrerseits zusätzlich höchstens je 10 Personen beaufsichtigen dürfen.[^10-2]
 
 <sup>3</sup> Zweigniederlassungen müssen wie der Betrieb die Anforderungen nach Absatz 1 erfüllen. Sie können sich nach Absatz 2 organisieren.
 
 [^10-1]: Fassung gemäss Ziff. I der V vom 23. Aug. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
+[^10-2]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 800](https://fedlex.data.admin.ch/eli/oc/2022/800)).
 
 #### Art. 10a
 
@@ -273,7 +274,7 @@ Betriebe mit einer Installationsbewilligung nach Artikel 9 können für die Ausf
 
 [^11-1]: Fassung gemäss Ziff. I der V vom 23. Aug. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
 
-### 3. Abschnitt:**** Eingeschränkte Installationsbewilligungen
+### 3. Abschnitt: Eingeschränkte Installationsbewilligungen
 
 [^chap2-sec3-1]
 
@@ -807,7 +808,7 @@ Der Sicherheitsnachweis muss unterzeichnet werden:
 [^40-1]: Eingefügt durch Ziff. I der V vom 23. Aug. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
 [^40-2]: Fassung gemäss Ziff. I der V vom 23. Aug. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 4981](https://fedlex.data.admin.ch/eli/oc/2017/536)).
 
-## 5. Kapitel: Gebühren, Strafbestimmungen****
+## 5. Kapitel: Gebühren, Strafbestimmungen
 
 [^chap5-1]
 
@@ -897,7 +898,7 @@ Die laufenden Kontrollperioden auf Grund des bisherigen Rechts werden unverände
 
 Diese Verordnung tritt am 1. Januar 2002 in Kraft.
 
-Anhang*[^t-1]*
+Anhang[^t-1]
 
 (Art. 5 Abs. 2, 17 Abs. 2 Bst. d, 32 Abs. 2 Bst. a und 4, 35 Abs. 1 und 3, 36 Abs. 2 und 4)
 
