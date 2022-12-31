@@ -3,11 +3,11 @@ sr: "351.12"
 title: "Verordnung vom 23. September 2016 über das elektronische Personen-, Akten- und Geschäftsverwaltungssystem des Bundesamtes für Justiz (ELPAG-Verordnung)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/555"
 language: de
-version: 2021-04-01
+version: 2023-01-01
 adopted: 2016-09-23
 in_force: 2016-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/555/20210401/de/xml/fedlex-data-admin-ch-eli-cc-2016-555-20210401-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/555/20210401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/555/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2016-555-20230101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/555/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,16 +16,18 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/555/20210401/de"
 
 (ELPAG-Verordnung)
 
-vom 23. September 2016 (Stand am 1. April 2021)
+vom 23. September 2016 (Stand am 1. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
-gestützt auf Artikel 57*h* Absatz 3 des Regierungs- und Verwaltungsorganisationsgesetzes vom 21. März 1997[^ingress-1] und auf Artikel 11*a* Absatz 4 des Rechtshilfegesetzes vom 20. März 1981[^ingress-2] (IRSG),
+gestützt auf Artikel 57*h* Absatz 3 des Regierungs- und Verwaltungsorganisationsgesetzes vom 21. März 1997[^ingress-1], auf Artikel 11*a* Absatz 4 des Rechtshilfegesetzes vom 20. März 1981[^ingress-2] (IRSG) und auf das Fortpflanzungsmedizingesetz vom 18. Dezember 1998[^ingress-3],[^ingress-4]
 
 verordnet:
 
 [^ingress-1]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
 [^ingress-2]: [SR 351.1](https://fedlex.data.admin.ch/eli/cc/1982/846_846_846)
+[^ingress-3]: [SR 810.11](https://fedlex.data.admin.ch/eli/cc/2000/554)
+[^ingress-4]: Fassung gemäss Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 648](https://fedlex.data.admin.ch/eli/oc/2022/648)).
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
 
@@ -45,7 +47,7 @@ Diese Verordnung regelt für die Bearbeitung von Personendaten in dem vom Bundes
 
 <sup>2</sup> Wo diese Verordnung keine abweichenden Bestimmungen enthält, ist die GEVER-Verordnung vom 30. November 2012[^1-1] anwendbar.
 
-[^1-1]: [[AS 2012 6669](https://fedlex.data.admin.ch/eli/oc/2012/808), [2014 723](https://fedlex.data.admin.ch/eli/oc/2014/155). [AS 2019 1311](https://fedlex.data.admin.ch/eli/oc/2019/253)Art. 19 Bst. a]. Siehe heute: die V vom 3. April 2019 ([SR 172.010.441](https://fedlex.data.admin.ch/eli/cc/2019/253)).
+[^1-1]: [[AS 2012 6669](https://fedlex.data.admin.ch/eli/oc/2012/808); [2014 723](https://fedlex.data.admin.ch/eli/oc/2014/155). [AS 2019 1311](https://fedlex.data.admin.ch/eli/oc/2019/253)Art. 19 Bst. a]. Siehe heute: die V vom 3. April 2019 ([SR 172.010.441](https://fedlex.data.admin.ch/eli/cc/2019/253)).
 
 #### Art. 2
 
@@ -63,6 +65,17 @@ Das System enthält Daten der folgenden Anwendungsbereiche:
 - b. Daten im Zusammenhang mit den Aufgaben des BJ im Bereich des internationalen Privat- und Zivilprozessrechts, namentlich auf dem Gebiet der internationalen Kindsentführungen, der internationalen Adoptionen, des internationalen Kindes- und Erwachsenenschutzes, der internationalen Alimentensachen, der internationalen Erbschaftssachen und der internationalen Rechtshilfe in Zivil- und Handelssachen;
 - c. Daten im Zusammenhang mit den Aufgaben des BJ im Bereich der internationalen Amtshilfe;
 - d. Daten im Zusammenhang mit den Aufgaben des BJ im Bereich des öffentlichen Rechts auf dem Gebiet der fürsorgerischen Zwangsmassnahmen und Fremdplatzierungen vor 1981.
+
+#### Art. 3a
+
+**Spenderdatenregister**[^3a-1]
+
+<sup>1</sup> Zusätzlich zu den in Artikel 3 genannten Anwendungsbereichen wird im System auch das Spenderdatenregister nach dem 2. Kapitel 1. Abschnitt der Fortpflanzungsmedizinverordnung vom 4. Dezember 2000[^3a-2] mit den Daten zur Aufbewahrung der Samenspenderdaten geführt.
+
+<sup>2</sup> Das Spenderdatenregister untersteht der Gesetzgebung über die Fortpflanzungsmedizin, insbesondere betreffend die Zugriffs- und Bearbeitungsrechte, die Aufbewahrung der Daten und die Auskunftserteilung.
+
+[^3a-1]: Eingefügt durch Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 648](https://fedlex.data.admin.ch/eli/oc/2022/648)).
+[^3a-2]: [SR 810.112.2](https://fedlex.data.admin.ch/eli/cc/2000/555)
 
 #### Art. 4
 
@@ -203,7 +216,7 @@ Die Datensicherheit richtet sich nach:
 
 - a. der Verordnung vom 14. Juni 1993[^14-1] zum Bundesgesetz über den Datenschutz;
 - b.[^14-2] der Cyberrisikenverordnung vom 27. Mai 2020[^14-3];
-- c.[^14-4] ....
+- c.[^14-4] …
 
 <sup>2</sup> Dokumente im System werden abweichend von Artikel 12 Absatz 2 der GEVER-Verordnung vom 30. November 2012[^14-5] nicht verschlüsselt; sie werden jedoch durch technische Vorkehrungen vor unbefugtem Zugriff geschützt.
 
@@ -266,7 +279,15 @@ Die folgenden Daten werden nach dieser Verordnung elektronisch im System erfasst
 
 <sup>4</sup> Die verbleibenden PAGIRUS-Papierdossiers mit den darin noch enthaltenen Dokumenten unterstehen weiterhin dem bisherigen Recht.
 
-[^19-1]: [[AS 2012 6669](https://fedlex.data.admin.ch/eli/oc/2012/808), [2014 723](https://fedlex.data.admin.ch/eli/oc/2014/155). [AS 2019 1311](https://fedlex.data.admin.ch/eli/oc/2019/253)Art. 19 Bst. a]. Siehe heute: die V vom 3. April 2019 ([SR 172.010.441](https://fedlex.data.admin.ch/eli/cc/2019/253)).
+[^19-1]: [[AS 2012 6669](https://fedlex.data.admin.ch/eli/oc/2012/808); [2014 723](https://fedlex.data.admin.ch/eli/oc/2014/155). [AS 2019 1311](https://fedlex.data.admin.ch/eli/oc/2019/253)Art. 19 Bst. a]. Siehe heute: die V vom 3. April 2019 ([SR 172.010.441](https://fedlex.data.admin.ch/eli/cc/2019/253)).
+
+#### Art. 19a
+
+**Übergangsbestimmung zur Änderung vom 2. November 2022**[^19a-1]
+
+Die im bisherigen Spenderdatenregister enthaltenen Daten werden in das System migriert und anschliessend im bisherigen Register vernichtet.
+
+[^19a-1]: Eingefügt durch Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 648](https://fedlex.data.admin.ch/eli/oc/2022/648)).
 
 #### Art. 20
 

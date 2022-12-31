@@ -3,11 +3,11 @@ sr: "351.12"
 title: "Ordinanza del 23 settembre 2016 sul sistema elettronico di gestione delle persone, degli atti e delle pratiche dell'Ufficio federale di giustizia (Ordinanza EGPAP)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/555"
 language: it
-version: 2021-04-01
+version: 2023-01-01
 adopted: 2016-09-23
 in_force: 2016-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/555/20210401/it/xml/fedlex-data-admin-ch-eli-cc-2016-555-20210401-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/555/20210401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/555/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2016-555-20230101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/555/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,16 +16,18 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/555/20210401/it"
 
 (Ordinanza EGPAP)
 
-del 23 settembre 2016 (Stato 1° aprile 2021) (Stato 1° aprile 2021)
+del 23 settembre 2016 (Stato 1° gennaio 2023)
 
 Il Consiglio federale svizzero,
 
-visto l’articolo 57*h* capoverso 3 della legge del 21 marzo 1997[^ingress-1] sull’organizzazione del Governo e dell’Amministrazione; visto l’articolo 11*a* capoverso 4 della legge federale del 20 marzo 1981[^ingress-2] sull’assistenza internazionale in materia penale (AIMP),
+visto l’articolo 57*h* capoverso 3 della legge del 21 marzo 1997[^ingress-1] sull’organizzazione del Governo e dell’Amministrazione; visto l’articolo 11*a* capoverso 4 della legge federale del 20 marzo 1981[^ingress-2] sull’assistenza internazionale in materia penale (AIMP); vista la legge del 18 dicembre 1998[^ingress-3] sulla medicina della procreazione,[^ingress-4]
 
 ordina:
 
 [^ingress-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
 [^ingress-2]: [RS 351.1](https://fedlex.data.admin.ch/eli/cc/1982/846_846_846)
+[^ingress-3]: [RS 810.11](https://fedlex.data.admin.ch/eli/cc/2000/554)
+[^ingress-4]: Nuovo testo giusta il n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 648](https://fedlex.data.admin.ch/eli/oc/2022/648)).
 
 ## Sezione 1: Disposizioni generali
 
@@ -63,6 +65,17 @@ Il sistema contiene dati rientranti nei seguenti campi d’applicazione:
 - b. dati riferiti ai compiti dell’UFG nei settori del diritto internazionale privato e della procedura civile internazionale, segnatamente per quanto riguarda il rapimento internazionale di minori, le adozioni internazionali, la protezione internazionale dei minori e degli adulti, l’esazione internazionale di prestazioni alimentari, le pratiche di successione internazionali e l’assistenza giudiziaria internazionale in materia civile e commerciale;
 - c. dati riferiti ai compiti dell’UFG nel settore dell’assistenza amministrativa internazionale;
 - d. dati riferiti ai compiti dell’UFG nel settore del diritto pubblico per quanto riguarda le misure coercitive a scopo assistenziale e i collocamenti extrafamiliari prima del 1981.
+
+#### Art. 3a
+
+**Registro dei donatori di sperma**[^3a-1]
+
+<sup>1</sup> Oltre ai campi d’applicazione menzionati nell’articolo 3, il sistema contiene anche il registro dei donatori di sperma secondo il capitolo 2 sezione 1 dell’ordinanza del 4 dicembre 2000[^3a-2] sulla medicina della procreazione, in cui sono conservati i dati dei donatori di sperma.
+
+<sup>2</sup> Il registro dei donatori di sperma sottostà alla legislazione sulla medicina della procreazione, concernente in particolare i diritti di accesso e trattamento, la conservazione dei dati e il rilascio di informazioni.
+
+[^3a-1]: Introdotto dal n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 648](https://fedlex.data.admin.ch/eli/oc/2022/648)).
+[^3a-2]: [RS 810.112.2](https://fedlex.data.admin.ch/eli/cc/2000/555)
 
 #### Art. 4
 
@@ -267,6 +280,14 @@ Sono rilevati elettronicamente nel sistema secondo la presente ordinanza e cance
 <sup>4</sup> I rimanenti dossier cartacei PAGIRUS con i documenti che ancora contengono continuano a essere assoggettati al diritto anteriore.
 
 [^19-1]: [RU **2010** 6669; [2014 723](https://fedlex.data.admin.ch/eli/oc/2014/155). [RU 2019 1311](https://fedlex.data.admin.ch/eli/oc/2019/253)art. 19]. Vedi ora l’O del 3 apr. 2019 ([RS 172.010.441](https://fedlex.data.admin.ch/eli/cc/2019/253)).
+
+#### Art. 19a
+
+**Disposizione transitoria della modifica del 2 novembre 2022**[^19a-1]
+
+I dati contenuti nel precedente registro dei donatori di sperma sono trasferiti nel sistema e successivamente eliminati dal precedente registro.
+
+[^19a-1]: Introdotto dal n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 648](https://fedlex.data.admin.ch/eli/oc/2022/648)).
 
 #### Art. 20
 

@@ -3,11 +3,11 @@ sr: "351.12"
 title: "Ordonnance du 23 septembre 2016 sur le système électronique de gestion de personnes, de dossiers et d'affaires de l'Office fédéral de la justice (Ordonnance GPDA)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/555"
 language: fr
-version: 2021-04-01
+version: 2023-01-01
 adopted: 2016-09-23
 in_force: 2016-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/555/20210401/fr/xml/fedlex-data-admin-ch-eli-cc-2016-555-20210401-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/555/20210401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/555/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-555-20230101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/555/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,16 +16,18 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/555/20210401/fr"
 
 (Ordonnance GPDA)
 
-du 23 septembre 2016 (Etat le 1<sup>er</sup> avril 2021)
+du 23 septembre 2016 (État le 1<sup>er</sup> janvier 2023)
 
 Le Conseil fédéral suisse,
 
-vu l’art. 57*h*, al. 3, de la loi du 21 mars 1997 sur l’organisation du gouvernement et de l’administration[^ingress-1], vu l’art. 11*a*, al. 4, de la loi fédérale du 20 mars 1981 sur l’entraide pénale internationale (EIMP)[^ingress-2],
+vu l’art. 57*h*, al. 3, de la loi du 21 mars 1997 sur l’organisation du gouvernement et de l’administration[^ingress-1], vu l’art. 11*a*, al. 4, de la loi du 20 mars 1981 sur l’entraide pénale internationale (EIMP)[^ingress-2], vu la loi fédérale du 18 décembre 1998 sur la procréation médicalement assistée[^ingress-3],[^ingress-4]
 
 arrête:
 
 [^ingress-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
 [^ingress-2]: [RS 351.1](https://fedlex.data.admin.ch/eli/cc/1982/846_846_846)
+[^ingress-3]: [RS 810.11](https://fedlex.data.admin.ch/eli/cc/2000/554)
+[^ingress-4]: Nouvelle teneur selon le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 648](https://fedlex.data.admin.ch/eli/oc/2022/648)).
 
 ## Section 1 Dispositions générales
 
@@ -63,6 +65,17 @@ Le système contient des données relevant des domaines d’application suivants
 - b. données se rapportant aux tâches de l’OFJ dans les domaines du droit international privé et de la procédure civile internationale, notamment en matière d’enlèvements internationaux d’enfants, d’adoptions internationales, de protection internationale des enfants et des adultes, de recouvrement international d’aliments, de successions internationales et d’entraide judiciaire internationale en matière civile et commerciale;
 - c. données se rapportant aux tâches de l’OFJ dans le domaine de l’assistance administrative internationale;
 - d. données se rapportant aux tâches de l’OFJ dans le domaine du droit public, relatives aux mesures de coercition à des fins d’assistance et aux placements extrafamiliaux antérieurs à 1981.
+
+#### Art. 3a
+
+**Registre des donneurs de sperme**[^3a-1]
+
+<sup>1</sup> En sus des domaines d’application mentionnés à l’art. 3, le système contient également le registre des donneurs de sperme visé au chapitre 2, section 1, de l’ordonnance du 4 décembre 2000 sur la procréation médicalement assistée[^3a-2], avec les données des donneurs de sperme qui ont été consignées.
+
+<sup>2</sup> Le registre des donneurs de sperme est soumis à la législation sur la procréation médicalement assistée, notamment concernant les droits d’accès et de traitement, la conservation des données et la communication des informations.
+
+[^3a-1]: Introduit par le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 648](https://fedlex.data.admin.ch/eli/oc/2022/648)).
+[^3a-2]: [RS 810.112.2](https://fedlex.data.admin.ch/eli/cc/2000/555)
 
 #### Art. 4
 
@@ -267,6 +280,14 @@ Les données suivantes sont saisies dans le nouveau système en vertu de la pré
 <sup>4</sup> Les autres dossiers papier PAGIRUS et les documents qu’ils contiennent restent soumis à l’ancien droit.
 
 [^19-1]: [RO **2010** 6669, [2014 723](https://fedlex.data.admin.ch/eli/oc/2014/155). [RO 2019 1311](https://fedlex.data.admin.ch/eli/oc/2019/253)art. 19]. Voir actuellement l’O du 3 avr. 2019 ([RS 172.010.441](https://fedlex.data.admin.ch/eli/cc/2019/253)).
+
+#### Art. 19a
+
+**Disposition transitoire relative à la modification du 2 novembre 2022**[^19a-1]
+
+Les données de l’ancien registre des donneurs de sperme sont migrées dans le système et sont ensuite détruites dans l’ancien registre.
+
+[^19a-1]: Introduit par le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 648](https://fedlex.data.admin.ch/eli/oc/2022/648)).
 
 #### Art. 20
 
