@@ -4,13 +4,12 @@ number: "728.1"
 title: "Dekret über die Umlegung von Baugebiet, die Grenzregulierung und die Ablösung oder Verlegung von Dienstbarkeiten"
 short: Baulandumlegungsdekret/BUD
 language: de
-version: 2020-11-01
-valid_until: 2022-12-31
-version_adopted: 2020-09-02
+version: 2023-01-01
+version_adopted: 2021-12-08
 adopted: 1985-02-12
 in_force: 1986-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/728.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1992/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2640/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1992/pdf_file"
 
 (Baulandumlegungsdekret/BUD)
 
-vom 12.02.1985 (Stand 01.11.2020)
+vom 12.02.1985 (Stand 01.01.2023)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -166,7 +165,7 @@ beschliesst:
 
 <sup>2</sup> Der Bericht hat den Zweck der Umlegung, die vorgesehenen Bewertungsgrundsätze, die voraussichtlichen Kosten und die ungefähre Belastung der Beteiligten anzugeben. Es kann ihm gegebenenfalls der Statutenentwurf beigefügt werden.
 
-<sup>3</sup> Die Grundlagen werden während dreissig Tagen auf der Gemeindeverwaltung jeder berührten Gemeinde öffentlich aufgelegt. Die Auflage ist im kantonalen Amtsblatt und im amtlichen Anzeiger bekanntzumachen mit dem Hinweis, dass während der Auflagefrist Einwendungen erhoben und Anregungen unterbreitet werden können. Die Grundeigentümer mit bekannter Adresse sind schriftlich zu benachrichtigen.
+<sup>3</sup> Die Grundlagen werden während dreissig Tagen auf der Gemeindeverwaltung jeder berührten Gemeinde öffentlich aufgelegt. Die Auflage ist im kantonalen Amtsblatt und im amtlichen Publikationsorgan der Gemeinde bekanntzumachen mit dem Hinweis, dass während der Auflagefrist Einwendungen erhoben und Anregungen unterbreitet werden können. Die Grundeigentümer mit bekannter Adresse sind schriftlich zu benachrichtigen.
 
 <sup>4</sup> Die Auflage bedarf der Zustimmung der zuständigen Stelle der Direktion für Inneres und Justiz. Im übrigen gilt Artikel 58 BauG sinngemäss.
 

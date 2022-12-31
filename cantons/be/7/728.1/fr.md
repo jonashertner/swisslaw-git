@@ -4,13 +4,12 @@ number: "728.1"
 title: "Décret concernant le remaniement parcellaire de terrains à bâtir, les rectifications de limites et les libérations ou transferts de servitudes"
 short: Décret sur le remaniement parcellaire de terrains à bâtir/DRTB
 language: fr
-version: 2020-11-01
-valid_until: 2022-12-31
-version_adopted: 2020-09-02
+version: 2023-01-01
+version_adopted: 2021-12-08
 adopted: 1985-02-12
 in_force: 1986-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/728.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1992/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2640/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1992/pdf_file"
 
 (Décret sur le remaniement parcellaire de terrains à bâtir/DRTB)
 
-du 12.02.1985 (état au 01.11.2020)
+du 12.02.1985 (état au 01.01.2023)
 
 Le Grand Conseil du canton de Berne,
 
@@ -167,7 +166,7 @@ décrète:
 
 <sup>2</sup> Le rapport doit indiquer le but du remaniement, les modes d'évaluation prévus, l'estimation des frais et les charges financières approximatives qu'auront à supporter les participants. Un projet des statuts peut, le cas échéant, lui être annexé.
 
-<sup>3</sup> Les documents de base seront déposés publiquement dans les bureaux de l'administration de chaque commune concernée pendant trente jours. Le dépôt doit être publié dans la Feuille officielle cantonale et dans la Feuille officielle d'avis, avec mention de la possibilité d'émettre, durant le délai de dépôt, des objections et des propositions. Les propriétaires fonciers ayant un domicile connu doivent être informés par écrit.
+<sup>3</sup> Les documents de base seront déposés publiquement dans les bureaux de l'administration de chaque commune concernée pendant trente jours. Le dépôt doit paraître dans la Feuille officielle cantonale et dans l’organe de publication officiel de la commune, avec mention de la possibilité d'émettre, durant le délai de dépôt, des objections et des propositions. Les propriétaires fonciers ayant un domicile connu doivent être informés par écrit.
 
 <sup>4</sup> Le dépôt public doit être approuvé par le service compétent de la Direction de l'intérieur et de la justice. Au demeurant, l'article 58 LC s'applique par analogie.
 
