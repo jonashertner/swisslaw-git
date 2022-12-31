@@ -3,10 +3,10 @@ canton: ZH
 number: "631.32"
 title: Weisung des Regierungsrates an die Steuerbehörden über die Bewertung von Liegenschaften und die Festsetzung der Eigenmietwerte ab Steuerperiode 2026 (Weisung 2026)
 language: de
-nachtrag: "103"
-valid_until: 2023-01-01
+nachtrag: "119"
+valid_until: 2026-01-01
 adopted: 2024-08-28
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-631_32-2009_08_12-2010_01_01-103.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-631_32-2009_08_12-2010_01_01-119.html"
 text: pdf
 ---
 
@@ -42,7 +42,7 @@ Die Schätzung des Ertragswerts landwirtschaftlicher Liegenschaften erfolgt nach
 
 **1**
 
-- 1\. 1. 19 - 103
+- 1\. 1. 23 - 119
 
 ### II. Steuerlich massgebende Werte für unüberbautes Land
 
@@ -114,7 +114,7 @@ Mit einem Zentrum-Peripherie-Modell werden die Gemeinden 14 bestimmten Gemeindet
 
 **3**
 
-- 1\. 1. 19 - 103
+- 1\. 1. 23 - 119
 
 ### Bauland für industrielle und gewerbliche Bauten
 
@@ -168,7 +168,7 @@ Bei der Bewertung von mit einem Einfamilienhaus oder Stockwerkeigentum zu Wohnzw
 
 **5**
 
-- 1\. 1. 19 - 103
+- 1\. 1. 23 - 119
 
 24 Die Zuordnung zu den Bauland-Kategorien gemäss Ziff. 10–13 erfolgt aufgrund der Art der Baute, und nicht wie bei unüberbautem Land nach Massgabe der Zonenordnung.
 
@@ -210,7 +210,7 @@ Auf Verlangen des Steuerpflichtigen können bei der Berechnung 35 des Verkehrswe
 
 **7**
 
-- 1\. 1. 19 - 103
+- 1\. 1. 23 - 119
 
 ### V. Mehrfamilien- und Geschäftshäuser
 
@@ -270,7 +270,7 @@ Bei der Bewertung von mit industriellen oder gewerblichen Bauten 49 überbautem 
 
 **9**
 
-- 1\. 1. 19 - 103
+- 1\. 1. 23 - 119
 
 50 Die Zuordnung zur Bauland-Kategorie gemäss Ziff. 15 erfolgt aufgrund der Art der Baute, und nicht wie bei unüberbautem Land nach Massgabe der Zonenordnung.
 
@@ -322,7 +322,7 @@ Auf Verlangen des Steuerpflichtigen werden bei der Berechnung 61 des Eigenmietwe
 
 **11**
 
-- 1\. 1. 19 - 103
+- 1\. 1. 23 - 119
 
 - beim Zeitbauwert, wenn dieser wesentlich durch Elemente erhöht wird, die sich auch bei einer Vermietung nicht in einem entsprechenden Mietzins niederschlagen würden, und diesem Umstand nicht schon durch Anwendung der Ziff. 35 oder 60 Rechnung getragen wurde.
 
@@ -366,7 +366,7 @@ Der bei eigener Nutzung von anderen Liegenschaften und Räumen 73 wie ehemaligen
 
 **13**
 
-- 1\. 1. 19 - 103
+- 1\. 1. 23 - 119
 
 74 Die Mietwerte solcher Liegenschaften und Räume sind unter Berücksichtigung der Verhältnisse des Einzelfalls zu schätzen.
 
@@ -422,7 +422,7 @@ Wird der Verkehrswert aufgrund einer individuellen Schätzung ermittelt, ist der
 
 **15**
 
-- 1\. 1. 19 - 103
+- 1\. 1. 23 - 119
 
 ### II. Eigenmietwert
 
@@ -480,7 +480,7 @@ Bei in Bau begriffenen, zum Verkehrswert zu bewertenden Bauten 91 ist der Vermö
 
 **17**
 
-- 1\. 1. 19 - 103
+- 1\. 1. 23 - 119
 
 ### II. Mehrfamilien- und Geschäftshäuser
 
@@ -512,7 +512,7 @@ unbebaute und bebaute Grundstücke
 
 **19**
 
-- 1\. 1. 19 - 103
+- 1\. 1. 23 - 119
 
 ### Unbebaute Grundstücke
 
@@ -546,7 +546,7 @@ Aeugst am Albis 5 980 870 750 640 520 Albis 5 760 690 610 540 460 3 800 680 550 
 
 **– – – – – – – –**
 
-Kappel am Albis 2 580 490 – – 3 740 600 450 – Maschwanden 2 520 420 – – Mettmenstetten 5 750 700 640 580 520 3 700 580 460 – 3 650 510 360 – 3 650 570 490 – 3 870 720 570 – Wettswil am Albis 3 970 800 630 –
+Kappsel am Albis 2 580 490 – – 3 740 600 450 – Maschwanden 2 520 420 – – Mettmenstetten 5 750 700 640 580 520 3 700 580 460 – 3 650 510 360 – 3 650 570 490 – 3 870 720 570 – Wettswil am Albis 3 970 800 630 –
 
 **Obfelden**
 
@@ -566,19 +566,19 @@ Kappel am Albis 2 580 490 – – 3 740 600 450 – Maschwanden 2 520 420 – �
 
 ### Bezirk Andelfingen
 
-**Adlikon**
+**Andelfingen – Adlikon**
 
 **– – –**
 
-3 500 410 320 –
+3 500 410 320 – (ehemalige Gemeinde) – Andelfingen 5 590 530 470 410 350 (ehemalige Gemeinde) 3 600 520 430 – (ehemalige Gemeinde) Benken (ZH) 5 410 380 340 310 270 Berg am Irchel 3 530 460 390 – Buch am Irchel 2 520 420 – – 3 480 390 300 – 3 550 450 350 –
 
-**Andelfingen**
+**– –**
 
-**– – – – – – – – – –**
+**– Humlikon**
 
-5 590 530 470 410 350
+**– – –**
 
-Benken (ZH) 5 410 380 340 310 270 Berg am Irchel 3 530 460 390 – Buch am Irchel 2 520 420 – – 3 480 390 300 – 3 550 450 350 –
+**– – – – – – – –**
 
 **Dachsen**
 
@@ -606,13 +606,9 @@ Benken (ZH) 5 410 380 340 310 270 Berg am Irchel 3 530 460 390 – Buch am Irche
 
 **Henggart**
 
-**– – –**
-
-3 610 500 380 – 3 640 530 420 – 3 600 520 430 – Kleinandelfingen 5 620 560 490 430 360 Laufen-Uhwiesen 5 580 520 460 400 340 3 540 460 370 – 4 600 480 350 230 3 410 350 280 –
-
-**Humlikon**
-
 **– – – – – – –**
+
+3 610 500 380 – 3 640 530 420 – Kleinandelfingen 5 620 560 490 430 360 Laufen-Uhwiesen 5 580 520 460 400 340 3 540 460 370 – 4 600 480 350 230 3 410 350 280 –
 
 **Marthalen**
 
@@ -688,21 +684,23 @@ Aeugst am Albis 5 590 520 450 380 310 Affoltern am Albis 5 460 420 370 330 280 B
 
 **– – – –**
 
+Andelfingen – Adlikon 3 300 250 190 (ehemalige Gemeinde) – Andelfingen 5 360 330 290 250 210 (ehemalige Gemeinde) – Humlikon 3 360 310 260 (ehemalige Gemeinde) Benken (ZH) 5 250 230 210 190 160 Berg am Irchel 3 320 280 240 Buch am Irchel 2 310 250 Dachsen 3 290 240 180 Dorf 3 330 270 210 Feuerthalen 5 310 280 250 220 180 Flaach 5 270 250 230 210 190 Flurlingen 3 370 300 230 Henggart 3 380 320 250 Kleinandelfingen 5 370 340 300 260 220 Laufen-Uhwiesen 5 350 320 280 240 200 Marthalen 3 330 280 220 Ossingen 4 360 290 210 140 Rheinau 3 240 210 170 Stammheim – Oberstammheim 3 270 240 200 (ehemalige Gemeinde) – Unterstammheim 4 270 250 220 200 (ehemalige Gemeinde) – Waltalingen 3 290 240 180 (ehemalige Gemeinde) Thalheim an der Thur 3 320 260 200 Trüllikon 5 330 300 260 220 180 Truttikon 5 270 260 240 230 210 Volken 3 270 230 190
+
+**– –**
+
 **– – – –**
 
-Adlikon 3 300 250 190 Andelfingen 5 360 330 290 250 210 Benken (ZH) 5 250 230 210 190 160 Berg am Irchel 3 320 280 240 Buch am Irchel 2 310 250 Dachsen 3 290 240 180 Dorf 3 330 270 210 Feuerthalen 5 310 280 250 220 180 Flaach 5 270 250 230 210 190 Flurlingen 3 370 300 230 Henggart 3 380 320 250 Humlikon 3 360 310 260 Kleinandelfingen 5 370 340 300 260 220 Laufen-Uhwiesen 5 350 320 280 240 200 Marthalen 3 330 280 220 Ossingen 4 360 290 210 140 Rheinau 3 240 210 170 Stammheim – Oberstammheim 3 270 240 200 (ehemalige Gemeinde) – Unterstammheim 4 270 250 220 200 (ehemalige Gemeinde) – Waltalingen 3 290 240 180 (ehemalige Gemeinde) Thalheim an der Thur 3 320 260 200 Trüllikon 5 330 300 260 220 180 Truttikon 5 270 260 240 230 210 Volken 3 270 230 190
+**– –**
 
 **– – – – – – – – – – – – – – – – –**
 
 **– – – –**
 
-**– – – – – – – – – – – –**
+**– – – – – – – –**
 
 **– – – –**
 
-**– – – – – – – – – – –**
-
-**– – – –**
+**– – – – – – – – – – – – – – –**
 
 **– – –**
 
@@ -716,7 +714,7 @@ Adlikon 3 300 250 190 Andelfingen 5 360 330 290 250 210 Benken (ZH) 5 250 230 21
 
 **21**
 
-- 1\. 1. 19 - 103
+- 1\. 1. 23 - 119
 
 ### Unbebaute Grundstücke
 
@@ -1020,7 +1018,7 @@ Bachs 3 390 320 250 Boppelsen 3 480 430 380 Buchs (ZH) 5 470 440 400 360 320 Dä
 
 **23**
 
-- 1\. 1. 19 - 103
+- 1\. 1. 23 - 119
 
 ### Unbebaute Grundstücke
 
@@ -1256,7 +1254,7 @@ Adliswil 5 580 530 470 420 360 Horgen – Hirzel 5 610 550 490 430 370 (ehemalig
 
 **25**
 
-- 1\. 1. 19 - 103
+- 1\. 1. 23 - 119
 
 ### Unbebaute Grundstücke
 
@@ -1464,7 +1462,7 @@ Dübendorf 4 560 480 410 330 Egg 3 560 490 420 Fällanden 5 520 470 420 370 320 
 
 **27**
 
-- 1\. 1. 19 - 103
+- 1\. 1. 23 - 119
 
 ### Unbebaute Grundstücke
 
@@ -1626,7 +1624,7 @@ Zürich 7 1100 980 870 750 630 520
 
 **29**
 
-- 1\. 1. 19 - 103
+- 1\. 1. 23 - 119
 
 ### Bebaute Grundstücke
 
@@ -1678,21 +1676,21 @@ Kappel am Albis 2 520 440 – – 3 660 540 410 – Maschwanden 2 480 380 – �
 
 **– – – – – –**
 
-### Bezirk Andelfingen
+**Andelfingen – Adlikon**
 
-**Adlikon**
+### Bezirk Andelfingen
 
 **– – –**
 
-3 450 370 290 –
+3 450 370 290 – (ehemalige Gemeinde) – Andelfingen 5 530 480 430 380 320 (ehemalige Gemeinde) 3 540 460 380 – (ehemalige Gemeinde) Benken (ZH) 5 370 340 310 280 250 Berg am Irchel 3 470 410 350 – Buch am Irchel 2 470 370 – – 3 430 350 270 – 3 490 410 320 –
 
-**Andelfingen**
+**– –**
 
-**– – – – – – – – – –**
+**– Humlikon**
 
-5 530 480 430 380 320
+**– – –**
 
-Benken (ZH) 5 370 340 310 280 250 Berg am Irchel 3 470 410 350 – Buch am Irchel 2 470 370 – – 3 430 350 270 – 3 490 410 320 –
+**– – – – – – – –**
 
 **Dachsen**
 
@@ -1720,13 +1718,9 @@ Benken (ZH) 5 370 340 310 280 250 Berg am Irchel 3 470 410 350 – Buch am Irche
 
 **Henggart**
 
-**– – –**
-
-3 550 450 340 – 3 570 470 370 – 3 540 460 380 – Kleinandelfingen 5 550 500 440 380 320 Laufen-Uhwiesen 5 520 470 420 370 310 3 490 410 330 – 4 540 430 320 210 3 370 310 250 –
-
-**Humlikon**
-
 **– – – – – – –**
+
+3 550 450 340 – 3 570 470 370 – Kleinandelfingen 5 550 500 440 380 320 Laufen-Uhwiesen 5 520 470 420 370 310 3 490 410 330 – 4 540 430 320 210 3 370 310 250 –
 
 **Marthalen**
 
@@ -1742,19 +1736,13 @@ Benken (ZH) 5 370 340 310 280 250 Berg am Irchel 3 470 410 350 – Buch am Irche
 
 **Stammheim**
 
-**– – –**
+**– – – – – – – – – – – –**
 
 - Oberstammheim 3 410 360 300 – (ehemalige Gemeinde)
 
-**– – –**
-
 - Unterstammheim 4 410 370 340 300 (ehemalige Gemeinde)
 
-**– – –**
-
 - Waltalingen 3 430 350 270 – (ehemalige Gemeinde) Thalheim an der Thur 3 480 390 290 –
-
-**– – –**
 
 **Trüllikon**
 
@@ -1802,21 +1790,23 @@ Aeugst am Albis 5 530 470 410 350 280 Affoltern am Albis 5 410 370 330 290 250 B
 
 **– – – –**
 
+Andelfingen – Adlikon 3 270 220 170 (ehemalige Gemeinde) – Andelfingen 5 320 290 260 230 190 (ehemalige Gemeinde) – Humlikon 3 330 280 230 (ehemalige Gemeinde) Benken (ZH) 5 220 210 190 170 150 Berg am Irchel 3 290 250 210 Buch am Irchel 2 280 220 Dachsen 3 260 210 160 Dorf 3 300 250 190 Feuerthalen 5 280 250 220 190 160 Flaach 5 240 230 210 190 170 Flurlingen 3 330 270 200 Henggart 3 340 280 220 Kleinandelfingen 5 330 300 260 230 190 Laufen-Uhwiesen 5 310 280 250 220 180 Marthalen 3 290 250 200 Ossingen 4 330 260 200 130 Rheinau 3 220 190 150 Stammheim – Oberstammheim 3 250 220 180 (ehemalige Gemeinde) – Unterstammheim 4 250 230 200 180 (ehemalige Gemeinde) – Waltalingen 3 260 210 160 (ehemalige Gemeinde) Thalheim an der Thur 3 290 240 180 Trüllikon 5 290 260 230 200 160 Truttikon 5 240 230 210 200 180 Volken 3 240 210 170
+
+**– –**
+
 **– – – –**
 
-Adlikon 3 270 220 170 Andelfingen 5 320 290 260 230 190 Benken (ZH) 5 220 210 190 170 150 Berg am Irchel 3 290 250 210 Buch am Irchel 2 280 220 Dachsen 3 260 210 160 Dorf 3 300 250 190 Feuerthalen 5 280 250 220 190 160 Flaach 5 240 230 210 190 170 Flurlingen 3 330 270 200 Henggart 3 340 280 220 Humlikon 3 330 280 230 Kleinandelfingen 5 330 300 260 230 190 Laufen-Uhwiesen 5 310 280 250 220 180 Marthalen 3 290 250 200 Ossingen 4 330 260 200 130 Rheinau 3 220 190 150 Stammheim – Oberstammheim 3 250 220 180 (ehemalige Gemeinde) – Unterstammheim 4 250 230 200 180 (ehemalige Gemeinde) – Waltalingen 3 260 210 160 (ehemalige Gemeinde) Thalheim an der Thur 3 290 240 180 Trüllikon 5 290 260 230 200 160 Truttikon 5 240 230 210 200 180 Volken 3 240 210 170
+**– –**
 
 **– – – – – – – – – – – – – – – – –**
 
 **– – – –**
 
-**– – – – – – – – – – – –**
+**– – – – – – – –**
 
 **– – – –**
 
-**– – – – – – – – – – –**
-
-**– – – –**
+**– – – – – – – – – – – – – – –**
 
 **– – –**
 
@@ -1830,7 +1820,7 @@ Adlikon 3 270 220 170 Andelfingen 5 320 290 260 230 190 Benken (ZH) 5 220 210 19
 
 **31**
 
-- 1\. 1. 19 - 103
+- 1\. 1. 23 - 119
 
 ### Bebaute Grundstücke
 
@@ -2134,7 +2124,7 @@ Bachs 3 350 290 220 Boppelsen 3 430 380 340 Buchs (ZH) 5 420 390 350 320 280 Dä
 
 **33**
 
-- 1\. 1. 19 - 103
+- 1\. 1. 23 - 119
 
 ### Bebaute Grundstücke
 
@@ -2370,7 +2360,7 @@ Adliswil 5 520 480 430 380 330 Horgen – Hirzel 5 550 500 440 390 330 (ehemalig
 
 **35**
 
-- 1\. 1. 19 - 103
+- 1\. 1. 23 - 119
 
 ### Bebaute Grundstücke
 
@@ -2578,7 +2568,7 @@ Dübendorf 4 510 440 370 300 Egg 3 500 440 380 Fällanden 5 470 430 380 340 290 
 
 **37**
 
-- 1\. 1. 19 - 103
+- 1\. 1. 23 - 119
 
 ### Bebaute Grundstücke
 
@@ -2742,7 +2732,7 @@ Zürich 7 990 890 780 680 570 470
 
 **39**
 
-- 1\. 1. 19 - 103
+- 1\. 1. 23 - 119
 
 ### Bauland für Geschäftshäuser sowie für industrielle und gewerbliche Bauten
 
@@ -2760,31 +2750,17 @@ Anzahl LK 3 Klassen LK 1 LK 2 LK 4 LK 1 LK 2 LK 4 LK 1 LK 2 LK 4
 
 ### Bezirk Affoltern
 
-**Affoltern am Bonstetten**
+**Affoltern am Bonstetten Hedingen Knonau**
 
 Aeugst am Albis 1 420 – – 290 – – 260 – – Albis 1 570 – – 360 – – 320 – – 1 420 – – 290 – – 260 – – Hausen am Albis 1 340 – – 250 – – 230 – – 1 420 – – 290 – – 260 – – Kappel am Albis 1 280 – – 140 – – 130 – – 1 420 – – 290 – – 260 – – Maschwanden 1 280 – – 140 – – 130 – – Mettmenstetten 1 420 – – 290 – – 260 – – 1 420 – – 290 – – 260 – – 1 420 – – 290 – – 260 – – 1 340 – – 250 – – 230 – – 1 730 – – 490 – – 440 – – Wettswil am Albis 1 420 – – 290 – – 260 – –
 
-**Hedingen**
-
-**Knonau**
-
 **Obfelden Ottenbach Rifferswil Stallikon**
+
+**Andelfingen – Adlikon**
 
 ### Bezirk Andelfingen
 
-**Adlikon Andelfingen**
-
-1 280 – – 140 – – 130 – – 1 420 – – 290 – – 260 – – Benken (ZH) 1 280 – – 140 – – 130 – – Berg am Irchel 1 280 – – 140 – – 130 – – Buch am Irchel 1 280 – – 140 – – 130 – – 1 420 – – 290 – – 260 – – 1 340 – – 250 – – 230 – – 1 500 – – 370 – – 330 – – 1 280 – – 140 – – 130 – – 1 420 – – 290 – – 260 – – 1 420 – – 290 – – 260 – – 1 280 – – 140 – – 130 – – Kleinandelfingen 1 340 – – 250 – – 230 – – Laufen-Uhwiesen 1 420 – – 290 – – 260 – – 1 340 – – 250 – – 230 – – 1 280 – – 140 – – 130 – – 1 340 – – 250 – – 230 – –
-
-**Dachsen Dorf Feuerthalen Flaach Flurlingen Henggart Humlikon**
-
-**Marthalen Ossingen Rheinau Stammheim**
-
-- Oberstammheim 1 280 – – 140 – – 130 – – (ehemalige Gemeinde)
-
-- Unterstammheim 1 280 – – 140 – – 130 – – (ehemalige Gemeinde)
-
-- Waltalingen 1 280 – – 140 – – 130 – – (ehemalige Gemeinde) Thalheim an der Thur 1 340 – – 250 – – 230 – – 1 340 – – 250 – – 230 – – 1 280 – – 140 – – 130 – – 1 280 – – 140 – – 130 – –
+1 280 – – 140 – – 130 – – (ehemalige Gemeinde) – Andelfingen 1 420 – – 290 – – 260 – – (ehemalige Gemeinde) 1 280 – – 140 – – 130 – – (ehemalige Gemeinde) Benken (ZH) 1 280 – – 140 – – 130 – – Berg am Irchel 1 280 – – 140 – – 130 – – Buch am Irchel 1 280 – – 140 – – 130 – – 1 420 – – 290 – – 260 – – 1 340 – – 250 – – 230 – – 1 500 – – 370 – – 330 – – 1 280 – – 140 – – 130 – – 1 420 – – 290 – – 260 – – 1 420 – – 290 – – 260 – – Kleinandelfingen 1 340 – – 250 – – 230 – – Laufen-Uhwiesen 1 420 – – 290 – – 260 – – 1 340 – – 250 – – 230 – – 1 280 – – 140 – – 130 – – 1 340 – – 250 – – 230 – – – Oberstammheim 1 280 – – 140 – – 130 – – (ehemalige Gemeinde) – Unterstammheim 1 280 – – 140 – – 130 – – (ehemalige Gemeinde) – Waltalingen 1 280 – – 140 – – 130 – – (ehemalige Gemeinde) Thalheim an der Thur 1 340 – – 250 – – 230 – – 1 340 – – 250 – – 230 – – 1 280 – – 140 – – 130 – – 1 280 – – 140 – – 130 – –
 
 ### Bauland für Geschäftshäuser sowie für industrielle und gewerbliche Bauten
 
@@ -2806,7 +2782,13 @@ Anzahl LK 3 Gemeinde Klassen LK 1 LK 2 LK 4 LK 1 LK 2 LK 4 LK 1
 
 Bachenbülach 1 500 – – 370 – – 330 Bassersdorf 1 500 – – 370 – – 330 Bülach 1 570 – – 360 – – 320 Dietlikon 1 570 – – 360 – – 320 Eglisau 1 420 – – 290 – – 260 Embrach 1 500 – – 370 – – 330 Freienstein-Teufen 1 420 – – 290 – – 260 Glattfelden 1 420 – – 290 – – 260 Hochfelden 1 420 – – 290 – – 260 Höri 1 500 – – 370 – – 330 Hüntwangen 1 420 – – 290 – – 260 Kloten 1 570 – – 360 – – 320 Lufingen 1 420 – – 290 – – 260 Nürensdorf 1 420 – – 290 – – 260 Oberembrach 1 340 – – 250 – – 230 Opfikon 1 570 – – 360 – – 320 Rafz 1 420 – – 290 – – 260 Rorbas 1 420 – – 290 – – 260 Wallisellen 1 570 – – 360 – – 320 Wasterkingen 1 420 – – 290 – – 260 Wil (ZH) 1 420 – – 290 – – 260 Winkel 1 500 – – 370 – – 330
 
+**– Humlikon**
+
 ### Bezirk Dielsdorf
+
+**Dachsen Dorf Feuerthalen Flaach Flurlingen Henggart**
+
+**Marthalen Ossingen Rheinau Stammheim**
 
 **– – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – –**
 
@@ -2816,7 +2798,7 @@ Bachs 1 280 – – 140 – – 130 Boppelsen 1 420 – – 290 – – 260 Buch
 
 **41**
 
-- 1\. 1. 19 - 103
+- 1\. 1. 23 - 119
 
 ### Bauland für Geschäftshäuser sowie für industrielle und gewerbliche Bauten
 
@@ -2912,7 +2894,7 @@ Dübendorf 1 570 – – 360 – – 320 Egg 1 500 – – 370 – – 330 Fäll
 
 **43**
 
-- 1\. 1. 19 - 103
+- 1\. 1. 23 - 119
 
 ### Bauland für Geschäftshäuser sowie für industrielle und gewerbliche Bauten
 
