@@ -4,24 +4,26 @@ number: "722.21"
 title: Gesetz über den Feuerschutz
 short: "Feuerschutzgesetz, FSG"
 language: de
-version: 2020-01-01
-valid_until: 2022-12-31
-version_adopted: 2019-09-26
+version: 2023-01-01
+valid_until: 2024-12-31
+version_adopted: 2022-06-02
 adopted: 1994-12-15
 in_force: 1995-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/722.21"
-pdf: "https://bgs.zg.ch/api/de/versions/2053/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2399/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Gesetz über den Feuerschutz
 
-Vom 15. Dezember 1994 (Stand 1. Januar 2020)
+(Feuerschutzgesetz, FSG)
+
+Vom 15. Dezember 1994 (Stand 1. Januar 2023)
 
 Der Kantonsrat des Kantons Zug,
 
-gestützt auf § 41 Bst. b der Kantonsverfassung[^ingress-1],
+gestützt auf § 41 Abs. 1 Bst. b der Kantonsverfassung[^ingress-1],
 
 beschliesst:
 
@@ -41,7 +43,11 @@ beschliesst:
 
 **Zuständigkeit**
 
-<sup>1</sup> Der Feuerschutz ist Sache der Einwohnergemeinden. Vorbehalten bleiben die in diesem Gesetz dem Kanton zugeordneten Zuständigkeitsbereiche.
+<sup>1</sup> Der vorbeugende Brandschutz ist Sache des Kantons.
+
+<sup>2</sup> Das Feuerwehrwesen ist Sache der Einwohnergemeinden.
+
+<sup>3</sup> Vorbehalten bleiben die in diesem Gesetz dem Kanton oder den Einwohnergemeinden zugeordneten Zuständigkeitsbereiche.
 
 #### § 3
 
@@ -50,14 +56,11 @@ beschliesst:
 <sup>1</sup> Feuerschutzorgane der Gemeinde sind:
 
 - a) der Gemeinderat,
-- b) die Feuerschutzkommission,
-- c) die Feuerschau,
+- b) die Feuerwehrkommission,
+- c) …
 - d) die Feuerwehr.
 
-<sup>2</sup> Der kantonale Feuerschutz umfasst:
-
-- a) die technischen Dienste (Feuerpolizei, Löschwasserversorgung, Blitzschutz);
-- b) das Feuerwehrinspektorat.
+<sup>2</sup> …
 
 <sup>3</sup> Die kantonalen Feuerschutzaufgaben werden von der Gebäudeversicherung Zug wahrgenommen.
 
@@ -73,52 +76,44 @@ beschliesst:
 
 **Gemeinderat**
 
-<sup>1</sup> Der Gemeinderat überwacht und vollzieht den Feuerschutz der Gemeinde.
+<sup>1</sup> Der Gemeinderat ist für das Feuerwehrwesen der Gemeinde verantwortlich.
 
 <sup>2</sup> Er wählt:
 
-- a) die Feuerschutzkommission,
-- b) die Feuerschau,
+- a) die Feuerwehrkommission,
+- b) …
 - c) das Feuerwehrkommando.
 
-<sup>3</sup> Der Regierungsrat legt die Wählbarkeitsvoraussetzungen für die Feuerschauer oder Feuerschauerinnen sowie für das Feuerwehrkommando fest.
+<sup>3</sup> …
 
 #### § 6
 
-**Feuerschutzkommission**
+**Feuerwehrkommission**
 
-<sup>1</sup> Der Feuerschutzkommission gehören der Kommandant oder die Kommandantin der Gemeindefeuerwehr sowie ein Mitglied des Gemeinderates von Amtes wegen an; dieses führt den Vorsitz.
+<sup>1</sup> Der Feuerwehrkommission gehören mindestens die Kommandantin oder der Kommandant der Gemeindefeuerwehr sowie das für die Feuerwehr zuständige Mitglied des Gemeinderats von Amtes wegen an; dieses führt den Vorsitz.
 
-<sup>2</sup> Sie überwacht die Tätigkeit der Feuerschau sowie der Feuerwehr und beantragt dem Gemeinderat die erforderlichen Massnahmen für eine ausreichende Löschwasserversorgung.
+<sup>2</sup> Sie überwacht die Tätigkeit der Feuerwehr und beantragt dem Gemeinderat die erforderlichen Massnahmen für eine ausreichende Löschwasserversorgung.
 
 #### § 7
 
-**Feuerschau**
-
-<sup>1</sup> Mindestens eine Person ist für die gemeindliche Feuerschau verantwortlich.
-
-<sup>2</sup> Die Feuerschau
-
-- a) bearbeitet zuhanden des Gemeinderates Gesuche, deren Beurteilung im gemeindlichen Zuständigkeitsbereich liegt;
-- b) führt die entsprechenden Bau- und Schlusskontrollen durch;
-- c) überprüft periodisch oder auf Weisung der Gebäudeversicherung Zug im Einzelfall die Einhaltung der Vorschriften über den vorbeugenden Brandschutz und meldet ihre Feststellungen der zuständigen Behörde;
-- d) überprüft den Vollzug der turnusgemäss durchgeführten Kaminfegearbeiten und, soweit notwendig, die Reinigung von Feuerungsanlagen. Die Überprüfung kann mit der ordentlichen Brandschutzkontrolle durchgeführt werden. Bei Wohnbauten bis zur Hochhausgrenze erfolgt eine Überprüfung nur stichprobeweise;
-- e) ordnet die Behebung der von den Kaminfegern oder Kaminfegerinnen gemeldeten Mängel an.
+**…**
 
 #### § 8
 
 **Feuerwehr**
 
-<sup>1</sup> Die Feuerwehr ist allgemeine Schadenwehr bei Ereignissen, die rasche und grössere Hilfe erfordern.
+<sup>1</sup> Die Feuerwehr ist allgemeine Schadenwehr bei Ereignissen, die rasche und grössere Hilfe für Mensch, Tier, Umwelt und Sachwerte erfordern.
 
-<sup>2</sup> Sie leistet unverzüglich Hilfe, insbesondere bei:
+<sup>2</sup> Die Feuerwehr leistet unverzüglichen und zeitlich befristeten Ersteinsatz in Kooperation mit Polizei und Sanität sowie anderen Organisationen insbesondere des Bevölkerungs- und Umweltschutzes.
 
-- a) Gefährdung von Personen oder Tieren,
-- b) Bränden oder Explosionen,
-- c) Elementarereignissen,
-- d) Ereignissen, welche die Umwelt gefährden oder schädigen.
+- a) …
+- b) …
+- c) …
+- d) …
 
-<sup>3</sup> Die Feuerwehren der Gemeinden, der Betriebe und der Stützpunkt sind Partnerorganisationen im Sinne von Art. 3 BZG.
+<sup>3</sup> Die Feuerwehren der Gemeinden und der Betriebe sowie die Stützpunktfeuerwehr und die Träger von Stützpunktaufgaben sind Partnerorganisationen im Sinne von Art. 3 BZG[^8-1].
+
+[^8-1]: SR [520.1](https://db.clex.ch/link/Bund/520.1/de)
 
 #### § 9
 
@@ -132,13 +127,15 @@ beschliesst:
 - b) entscheidet bei erhöhter Brandgefahr infolge Trockenheit oder Wasserknappheit über vorsorgliche Feuerschutzmassnahmen, insbesondere über ein Feuerverbot im Freien und ein Verbot zum Abbrennen von Feuerwerk;
 - c) entscheidet, welche Betriebe eine eigene Feuerwehr aufzustellen, auszurüsten und zu unterhalten haben;
 - d) koordiniert und überwacht die Ausbildung der Gemeinde- und Betriebsfeuerwehren sowie der Stützpunktfeuerwehr, legt deren Grundausrüstung fest und berät sie bei Materialanschaffungen;
-- e) führt Bau- und Schlusskontrollen in jenen Fällen durch, die es selbst beurteilt oder zuhanden der Gemeinden bearbeitet hat. Diese Bau- und Schlusskontrollen können gemeinsam mit der gemeindlichen Feuerschau erfolgen;
+- e) führt die Bau- und Schlusskontrollen durch;
 - f) entscheidet über Gesuche, deren Beurteilung in die kantonale Zuständigkeit fällt;
-- g) führt Weiterbildungskurse für die gemeindliche Feuerschau durch;
+- g) überprüft periodisch oder im Einzelfall die Einhaltung der Vorschriften über den vorbeugenden Brandschutz;
 - h) erteilt die Bewilligung zur selbstständigen Ausübung des Kaminfegeberufes, sofern die Voraussetzungen erfüllt sind;
 - i) kann Öffentlichkeitsarbeit leisten.
 
-<sup>3</sup> Die Gebäudeversicherung Zug ernennt die Feuerwehrinstruktoren oder die Feuerwehrinstruktorinnen sowie die Mitglieder des Chemiestabs. Sie unterstehen dem Feuerwehrinspektorat.
+<sup>2a</sup> Der Verwaltungsrat kann Dritte mit der Wahrnehmung von Aufgaben der Gebäudeversicherung Zug im Bereich des Feuerschutzes beauftragen.
+
+<sup>3</sup> Die Gebäudeversicherung Zug ernennt die Feuerwehrinstruktorinnen und Feuerwehrinstruktoren sowie die Fachberaterinnen und Fachberater der Stützpunktfeuerwehr und der Träger von Stützpunktaufgaben. Diese unterstehen der Gebäudeversicherung Zug.
 
 ## 2. Vorbeugender Brandschutz
 
@@ -175,6 +172,16 @@ beschliesst:
 
 **…**
 
+#### § 13a
+
+**Brandschutzvorschriften der Vereinigung Kantonaler Feuerversicherungen (VKF)**
+
+<sup>1</sup> Massgebliche Grundlage für den vorbeugenden Brandschutz bilden die vom Interkantonalen Organ Technische Handelshemmnisse gestützt auf die Interkantonale Vereinbarung zum Abbau technischer Handelshemmnisse vom 23. Oktober 1998 (IVTH[^13a-1]) verbindlich erklärten Brandschutzvorschriften der Vereinigung Kantonaler Feuerversicherungen (VKF).
+
+<sup>2</sup> Es gilt die jeweils neueste Ausgabe.
+
+[^13a-1]: BGS [942.22](https://bgs.zg.ch/data/942.22/de)
+
 #### § 14
 
 **Nachweis der brandschutztechnischen Beschaffenheit**
@@ -200,45 +207,33 @@ beschliesst:
 
 #### § 16
 
-**Zuständigkeit**
-
-<sup>1</sup> In die gemeindliche Zuständigkeit fällt die Erteilung von Brandschutzbewilligungen für:
-
-- a) Wohnbauten bis zur Hochhausgrenze;
-- b) Mischbauten, wenn der Gewerbeanteil nicht mehr als einen Drittel der benutzten Fläche ausmacht und nicht eine spezielle Brandgefahr besteht;
-- c) land- und forstwirtschaftliche Bauten;
-- d) Fahrnisbauten;
-- e) Parkhäuser und Einstellräume für Motorfahrzeuge, wenn die Fläche insgesamt weniger als 4000 m² beträgt oder die Fläche pro Geschoss weniger als 2000 m² ausmacht;
-- f) Feuerungsanlagen, die der Bewilligungspflicht unterstehen;
-- g) Lagerung brennbarer Feststoffe, Flüssigkeiten und Gase.
-
-<sup>2</sup> Die Gebäudeversicherung Zug ist für die übrigen Brandschutzbewilligungen zuständig. In diesen Fällen entscheidet sie auch über Bewilligungen gemäss Abs. 1 Bst. e) bis g).
+**…**
 
 #### § 17
 
 **Verfahren**
 
-<sup>1</sup> Die Gemeinde prüft, ob die Vorhaben einer Brandschutzbewilligung bedürfen. Ist dies der Fall, entscheidet sie spätestens mit der Hauptsache selbst; in den Fällen gemäss § 16 Abs. 2 überweist sie die Vorhaben unverzüglich der Gebäudeversicherung Zug.
+<sup>1</sup> Vorhaben sind bei der Gemeinde einzureichen. Die Gemeinde überweist die Vorhaben unverzüglich der Gebäudeversicherung Zug zur Prüfung und zum Entscheid, ob sie einer Brandschutzbewilligung bedürfen.
 
 #### § 18
 
 **Missachtung von Brandschutzauflagen**
 
-<sup>1</sup> Bei Missachtung von Brandschutzauflagen ordnet die zuständige Behörde auf Kosten der pflichtigen Person entsprechende Massnahmen an.
+<sup>1</sup> Bei Missachtung von Brandschutzauflagen ordnet die Gebäudeversicherung Zug auf Kosten der pflichtigen Person entsprechende Massnahmen an.
 
-### 2.4. Gemeindliche Feuerschau
+### 2.4. Brandschutzkontrolle
 
 #### § 19
 
 **Kontrollintervalle**
 
-<sup>1</sup> Der Regierungsrat legt die Kontrollintervalle fest.
+<sup>1</sup> Der Verwaltungsrat der Gebäudeversicherung Zug legt die Kontrollintervalle fest.
 
 #### § 20
 
 **Durchführung**
 
-<sup>1</sup> Die Feuerschau-Kontrolle ist den Personen, in deren Eigentum oder Besitz sich das Objekt befindet, rechtzeitig anzuzeigen.
+<sup>1</sup> Die Brandschutzkontrolle ist den Personen, in deren Eigentum oder Besitz sich das Objekt befindet, rechtzeitig anzuzeigen.
 
 <sup>2</sup> Diese sind
 
@@ -249,25 +244,19 @@ beschliesst:
 
 **Mängel**
 
-<sup>1</sup> Die Feuerschau teilt den Eigentümern festgestellte Mängel schriftlich mit und setzt eine Frist zur Behebung.
+<sup>1</sup> Die Gebäudeversicherung Zug teilt den Eigentümerinnen und Eigentümern festgestellte Mängel schriftlich mit und setzt eine Frist zur Behebung.
 
-<sup>2</sup> Besteht eine unmittelbare Gefahr, ordnet die Feuerschau die notwendigen Sofortmassnahmen an.
+<sup>2</sup> Besteht eine unmittelbare Gefahr, ordnet die Gebäudeversicherung Zug die notwendigen Sofortmassnahmen an.
 
-<sup>3</sup> Die Feuerschau kontrolliert die Mängelbehebung. Nach unbenützt abgelaufener Frist lässt der Gemeinderat die Mängel beheben.
+<sup>3</sup> Die Gebäudeversicherung Zug kontrolliert die Mängelbehebung. Nach unbenützt abgelaufener Frist lässt sie die Mängel beheben.
 
 #### § 22
 
-**Berichterstattung**
-
-<sup>1</sup> Der Gemeinderat erstattet der Gebäudeversicherung Zug jährlich Bericht über die Feuerschau.
+**…**
 
 #### § 23
 
-**Verhältnis zur Gebäudeversicherung Zug**
-
-<sup>1</sup> Die Gebäudeversicherung Zug kann der gemeindlichen Feuerschau bestimmte Kontrollaufgaben übertragen, wenn organisatorische Vorteile dies rechtfertigen.
-
-<sup>2</sup> Die Gebäudeversicherung Zug kann selbst oder durch beauftragtes Fachpersonal Aufgaben der gemeindlichen Feuerschau übernehmen, insbesondere Kontrollen durchführen. Bei Kontrollen der Gebäudeversicherung Zug in der Gemeinde kann ein Mitglied der gemeindlichen Feuerschau beigezogen werden.
+**…**
 
 ### 2.5. Kaminfegedienst
 
@@ -276,6 +265,8 @@ beschliesst:
 **Kontroll-, Reinigungspflicht**
 
 <sup>1</sup> Die Eigentümer und Eigentümerinnen sind verpflichtet, Feuerungsanlagen periodisch durch einen Kaminfeger oder eine Kaminfegerin kontrollieren und, soweit notwendig, reinigen zu lassen.
+
+<sup>1a</sup> Die Gemeinde überprüft den Vollzug der turnusgemäss durchgeführten Kaminfegearbeiten und, soweit notwendig, die Reinigung von Feuerungsanlagen sowie die Behebung der von den Kaminfegerinnen und Kaminfegern gemeldeten Mängel.
 
 <sup>2</sup> Im Unterlassungsfall ordnet der Gemeinderat die Ersatzvornahme an.
 
@@ -302,8 +293,8 @@ beschliesst:
 <sup>1</sup> Die Kaminfegearbeiten umfassen die
 
 - a) Kontrolle und, soweit vorgeschrieben, die Reinigung von Feuerungsanlagen;
-- b) Meldung von im Rahmen der Kaminfegearbeiten festgestellten Mängeln an die Gemeinde;
-- c) Nachführung der Kaminfegehefte.
+- b) Meldung von im Rahmen der Kaminfegearbeiten festgestellten umweltrelevanten Mängeln an die Gemeinde und von brandschutzrelevanten Mängeln an die Gebäudeversicherung Zug;
+- c) Erstellung eines Nachweises über die vorgenommenen Arbeiten und die festgestellten Mängel.
 
 ## 3. Feuerwehrwesen
 
@@ -313,9 +304,11 @@ beschliesst:
 
 **Gemeindefeuerwehr**
 
-<sup>1</sup> Jede Einwohnergemeinde hat auf ihre Kosten eine den örtlichen Verhältnissen angepasste Feuerwehr zu stellen, auszurüsten und zu unterhalten.
+<sup>1</sup> Jede Einwohnergemeinde hat auf ihre Kosten eine den örtlichen Verhältnissen angepasste Feuerwehr zu stellen, auszurüsten und zu unterhalten sowie die Versorgung ihres Gebiets mit Löschwasser sicherzustellen.
 
-<sup>2</sup> Gemeinden können mit Zustimmung der Gebäudeversicherung Zug spezielle Fahrzeuge oder Geräte ausserhalb der Grundausrüstung, die den Feuerwehreinsatz in der Region wesentlich verbessern, gemeinsam beschaffen und unterhalten. Die Sicherheitsdirektion kann dies unter den gleichen Voraussetzungen anordnen.
+<sup>2</sup> Gemeinden können Fahrzeuge oder Geräte ausserhalb der Grundausrüstung gemeinsam beschaffen und unterhalten. Die Gebäudeversicherung Zug kann dies mit zusätzlichen finanziellen Beiträgen unterstützen.
+
+<sup>3</sup> Die Gebäudeversicherung Zug kann die gemeinsame Beschaffung und den gemeinsamen Unterhalt von Fahrzeugen und Geräten ausserhalb der Grundausrüstung durch die Gemeinden zudem anordnen, wenn dadurch der Feuerwehreinsatz in der Region wesentlich verbessert wird.
 
 #### § 29
 
@@ -323,23 +316,43 @@ beschliesst:
 
 <sup>1</sup> Betriebe mit besonderen Risiken können von der Gebäudeversicherung Zug verpflichtet werden, auf ihre Kosten eine Betriebsfeuerwehr aufzustellen, auszurüsten und zu unterhalten.
 
+#### § 29a
+
+**Gemeinsame Feuerwehr**
+
+<sup>1</sup> Mehrere Gemeinden oder Betriebe können in Absprache mit dem Verwaltungsrat der Gebäudeversicherung Zug eine gemeinsame Feuerwehr bilden.
+
+<sup>2</sup> Die Organisation, Grösse und Gliederung haben den Verhältnissen, Bedürfnissen und Möglichkeiten der einzelnen Gemeinden oder Betrieben Rechnung zu tragen.
+
+<sup>3</sup> Die Gebäudeversicherung Zug kann die Bildung einer gemeinsamen Feuerwehr mit finanziellen Beiträgen unterstützen.
+
+<sup>4</sup> Unter den gleichen Voraussetzungen können Gemeinden und Betriebe auch bloss für bestimmte Aufgaben eine gemeinsame Feuerwehr bilden.
+
 #### § 30
 
 **Reglement**
 
-<sup>1</sup> Gemeinden und Betriebe mit eigener Feuerwehr erlassen ein Feuerwehr-Reglement. Dieses regelt namentlich die Organisation der Feuerwehr, die Aufgaben des Feuerwehrkommandos, die Verantwortlichkeiten sowie die Rechte und Pflichten der Feuerwehrleute. Das Reglement bedarf der Genehmigung des Regierungsrates.[^30-1]
-
-[^30-1]: Gemäss § 3 DelV (BGS [153.3](https://bgs.zg.ch/data/153.3/de)) genehmigt die Sicherheitsdirektion das Reglement. Vorbehalten bleibt die teilweise Genehmigung resp. Nichtgenehmigung durch den Regierungsrat.
+<sup>1</sup> Gemeinden und Betriebe mit eigener Feuerwehr erlassen ein Feuerwehr-reglement. Dieses regelt namentlich die Organisation der Feuerwehr, die Aufgaben des Feuerwehrkommandos, die Verantwortlichkeiten sowie die Rechte und Pflichten der Feuerwehrleute. Das Reglement ist der Gebäudeversicherung Zug zur Kenntnis zu bringen.
 
 #### § 31
 
-**Stützpunktfeuerwehr**
+**Stützpunktfeuerwehr und Träger von Stützpunktaufgaben**
 
-<sup>1</sup> Die Freiwillige Feuerwehr der Stadt Zug ist gleichzeitig kantonale Stützpunktfeuerwehr und -ölwehr. In diesen Belangen unterstützt sie die Feuerwehren im Kanton Zug.
+<sup>1</sup> Der Verwaltungsrat der Gebäudeversicherung Zug bezeichnet die Feuerwehr einer Gemeinde oder eines Betriebs mit deren Zustimmung als Stützpunktfeuerwehr.
 
-<sup>2</sup> Die Freiwillige Feuerwehr der Stadt Zug ist ausserdem kantonale Chemie- und Strahlenwehr.
+<sup>1a</sup> Erklärt sich keine Gemeinde und kein Betrieb zur Übernahme der Aufgabe als Stützpunktfeuerwehr bereit, so bestimmt der Regierungsrat die pflichtige Gemeinde oder den pflichtigen Betrieb. Er stellt zusammen mit der Gebäudeversicherung Zug die ausreichende finanzielle Abgeltung dieser Aufgabe sicher.
 
-<sup>3</sup> Zur fachtechnischen Beratung steht der Stützpunktfeuerwehr der Chemiestab der Gebäudeversicherung Zug zur Verfügung.
+<sup>2</sup> Der Verwaltungsrat der Gebäudeversicherung Zug kann überdies andere Feuerwehren der Gemeinden oder der Betriebe sowie Dritte mit Stützpunktaufgaben beauftragen.
+
+<sup>3</sup> Die Gebäudeversicherung Zug stellt der Stützpunktfeuerwehr und den Trägern von Stützpunktaufgaben zur fachtechnischen Beratung geeignete Personen als Fachberaterinnen und Fachberater zur Verfügung.
+
+#### § 31a
+
+**Stützpunktaufgaben**
+
+<sup>1</sup> Stützpunktaufgabe ist die Unterstützung der Feuerwehren der Gemeinden und der Betriebe, insbesondere mit zusätzlichen Geräten und speziellen Einsatzmitteln. Stützpunktaufgaben sind ausserdem Einsätze zur Bewältigung von Ereignissen mit atomaren, biologischen oder chemischen Gefahrenstoffen mit speziellen Einsatzmitteln.
+
+<sup>2</sup> Der Verwaltungsrat der Gebäudeversicherung Zug kann weitere Stützpunktaufgaben bezeichnen.
 
 #### § 32
 
@@ -361,15 +374,15 @@ beschliesst:
 
 #### § 34
 
-**Brandwachen**
-
-<sup>1</sup> Nach einem Brand stellt die Feuerwehr nach Ermessen der Einsatzleitung eine Brandwache.
+**…**
 
 #### § 35
 
 **Dienstleistungen**
 
 <sup>1</sup> Der Gemeinderat kann die Feuerwehr zur Hilfe im Verkehrsdienst, bei Veranstaltungen, für technische Einsätze und andere Dienstleistungen einsetzen.
+
+<sup>2</sup> Diese Dienstleistungen dürfen die Erfüllung des Auftrags der Feuerwehr gemäss § 8 nicht beeinträchtigen.
 
 #### § 36
 
@@ -381,11 +394,17 @@ beschliesst:
 
 **Kosten der Hilfe- und Dienstleistungen**
 
-<sup>1</sup> Die Hilfeleistung der Feuerwehr ist unter Vorbehalt nachfolgender Bestimmungen unentgeltlich.
+<sup>1</sup> Die vorsätzliche Verursachung eines Einsatzes der Feuerwehr ist kostenpflichtig. Im Übrigen ist die Hilfeleistung der Feuerwehr unentgeltlich, soweit nicht die nachfolgenden Bestimmungen oder andere Bestimmungen des kantonalen Rechts oder des Bundes eine Kostenpflicht vorsehen.
 
-<sup>2</sup> Die Kosten für Einsätze der Öl-, Chemie- und Strahlenwehr stellt die Gebäudeversicherung Zug der verursachenden Person entsprechend den massgeblichen Bestimmungen in Rechnung. Kann sie nicht ermittelt werden, trägt der Kanton die Kosten für den Feuerwehreinsatz.
+<sup>2</sup> Die Kosten für Einsätze bei Ereignissen mit atomaren, biologischen oder chemischen Gefahrenstoffen werden der verursachenden Person durch die Gebäudeversicherung Zug in Rechnung gestellt.
 
-<sup>3</sup> Weigert sich die verursachende Person oder deren Versicherung, die Kosten für Einsätze der Öl-, Chemie- und Strahlenwehr zu übernehmen, verfügt und eröffnet die Baudirektion die Kostentragung.
+<sup>2a</sup> Die Kosten für Einsätze für Strassenrettungen, technische Hilfeleistungen, Hilfe in Notlagen oder für sonstige Hilfeleistungen, die nicht der Bewältigung von Aufgaben gemäss § 8 dienen, werden der verursachenden Person in Rechnung gestellt. Die Rechnungstellung erfolgt durch die Gebäudeversicherung Zug, soweit es sich um Stützpunkteinsätze handelt, oder durch die Gemeinde, deren Feuerwehr in Anspruch genommen wurde.
+
+<sup>2b</sup> Der Verwaltungsrat der Gebäudeversicherung Zug definiert die in Rechnung zu stellenden Einsätze gemäss Abs. 2 und 2a und legt die entsprechenden Gebühren fest.
+
+<sup>2c</sup> Von der Kostenpflicht kann ausnahmsweise ganz oder teilweise abgesehen werden, wenn besondere Umstände vorliegen, die eine Verrechnung der Einsatzkosten als unbillig erscheinen lassen.
+
+<sup>3</sup> Kann die verursachende Person nicht ermittelt werden oder können die Kosten nicht bei ihr oder ihrer Versicherung erhältlich gemacht werden, so trägt der Kanton die Kosten, soweit es sich um Stützpunkteinsätze handelt, und in den übrigen Fällen die Gemeinde.
 
 <sup>4</sup> Werden Feuerwehren für Dienstleistungen gemäss § 35 eingesetzt, kann der Gemeinderat die daraus entstandenen Kosten denjenigen in Rechnung stellen, welche die Dienste der Feuerwehr in Anspruch genommen haben.
 
@@ -403,7 +422,7 @@ beschliesst:
 
 <sup>1</sup> Die Feuerwehr kann im Ernstfall und bei Übungen vorübergehend Liegenschaften, Gebäude oder andere Sachen Dritter beanspruchen.
 
-<sup>2</sup> Die Betroffenen sind von der Einsatzleitung zu benachrichtigen. Bei Übungen hat sie die Einsatzleitung vorgängig zu informieren.
+<sup>2</sup> Die Betroffenen sind von der Einsatzleitung zu benachrichtigen. Bei Übungen hat sie die Übungsleitung vorgängig zu informieren.
 
 <sup>3</sup> Auf schutzwürdige Interessen der Betroffenen ist Rücksicht zu nehmen.
 
@@ -442,9 +461,9 @@ beschliesst:
 - a) die zur Leistung von Feuerwehrdienst notwendige Zahl von Feuerwehrleuten;
 - b) wer Feuerwehrdienst leistet, wobei die beruflichen, persönlichen und charakterlichen Verhältnisse zu berücksichtigen sind. Er achtet bei entsprechenden Bewerbungen und Eignung auf eine angemessene Vertretung der Frauen, insbesondere in Kaderpositionen.
 
-<sup>2</sup> Er kann diese Kompetenzen ganz oder teilweise an die Feuerschutzkommission delegieren.
+<sup>2</sup> …
 
-<sup>3</sup> Er kann die Kompetenz gemäss Abs. 1 Bst.b, soweit sie nicht die Verpflichtung zum Feuerwehrdienst betrifft, auch an eine anerkannte Organisation delegieren.
+<sup>3</sup> …
 
 #### § 43
 
@@ -462,7 +481,7 @@ beschliesst:
 
 <sup>1</sup> Die Gemeinden führen ein Register mit den feuerwehrpflichtigen Personen und beziehen jährlich die Ersatzabgabe.
 
-<sup>2</sup> Massgebend für die Berechnung und den Bezug der Ersatzabgabe sind die Verhältnisse am 31. Dezember des vorausgehenden Jahres.
+<sup>2</sup> Massgebend für die Berechnung und den Bezug der Ersatzabgabe sind die Verhältnisse am 1. Januar des laufenden Jahres.
 
 <sup>3</sup> Wer aktiven Feuerwehrdienst leistet, meldet der Gemeinde auf Aufforderung hin innert Frist die im gleichen Haushalt lebenden feuerwehrpflichtigen Personen.
 
@@ -502,7 +521,7 @@ beschliesst:
 
 **Gebührentarif**
 
-<sup>1</sup> Für Verrichtungen der Gebäudeversicherung Zug im Bereich des kantonalen Feuerschutzes erlässt der Regierungsrat den Gebührentarif. Die Gebühren fallen in die Kasse der Gebäudeversicherung Zug.
+<sup>1</sup> Für Verrichtungen der Gebäudeversicherung Zug im Bereich des kantonalen Feuerschutzes erlässt der Verwaltungsrat den vom Regierungsrat zu genehmigenden Gebührentarif. Die Gebühren fallen in die Kasse der Gebäudeversicherung Zug.
 
 #### § 50
 
@@ -516,42 +535,54 @@ beschliesst:
 
 **Feuerschutzbeiträge**
 
-<sup>1</sup> Der Regierungsrat legt die Voraussetzungen und die Beiträge fest:
+<sup>1</sup> Der Verwaltungsrat der Gebäudeversicherung Zug legt die Voraussetzungen und die Höhe der Beiträge an die Kosten von Feuerschutzmassnahmen fest.
 
-- a) von 10 bis 60 Prozent an die normalen Kosten von Feuerschutzmassnahmen;
-- b) bis 50 Prozent an den jährlich ausgewiesenen Aufwand, der den Gemeinden aus der Feuerschau entsteht, sofern diese Arbeiten durch Feuerschauer oder Feuerschauerinnen ausgeführt werden, die jährlich mindestens 30 Prozent im Bereich der Feuerschau tätig sind.
+- a) …
+- b) …
 
-<sup>2</sup> Soweit die Freiwillige Feuerwehr der Stadt Zug Stützpunktaufgaben wahrnimmt, bezieht die Stadtgemeinde Zug an die daraus entstehenden Mehrkosten vom Regierungsrat festzulegende Beiträge.
+<sup>2</sup> Der Verwaltungsrat der Gebäudeversicherung Zug schliesst eine Leistungsvereinbarung mit dem Träger der Stützpunktfeuerwehr sowie den Trägern von Stützpunktaufgaben ab und vereinbart die Abgeltung der sich daraus ergebenden Kosten.
 
 <sup>3</sup> Die Beiträge übernimmt die Gebäudeversicherung Zug.
+
+#### § 51a
+
+**Beiträge an Massnahmen zum Schutz vor Elementarschäden**
+
+<sup>1</sup> Die Gebäudeversicherung Zug kann finanzielle Beiträge für Massnahmen zum Schutz von Gebäuden vor versicherten Gefahren in der Elementarschadenversicherung gemäss § 11 des Gesetzes über die Gebäudeversicherung Zug (Gebäudeversicherungsgesetz, GebVG[^51a-1]) gewähren.
+
+<sup>2</sup> Der Verwaltungsrat der Gebäudeversicherung Zug legt die Voraussetzungen und die Höhe dieser Beiträge fest.
+
+[^51a-1]: BGS [722.11](https://bgs.zg.ch/data/722.11/de)
 
 #### § 52
 
 **Verfahren**
 
-<sup>1</sup> Die Gebäudeversicherung Zug prüft die Beitragsgesuche und stellt der Sicherheitsdirektion Antrag.
+<sup>1</sup> Die Gebäudeversicherung Zug prüft die Beitragsgesuche und spricht den Beitrag zu, sofern die Voraussetzungen für die Beitragsleistung erfüllt sind.
 
-<sup>2</sup> Sind die Voraussetzungen für eine Beitragsleistung erfüllt, sichert die Sicherheitsdirektion den Beitrag zu.
+<sup>2</sup> …
 
-<sup>3</sup> Gesuche um Ausrichtung von Feuerschutzbeiträgen sind der Gebäudeversicherung Zug vor Aufnahme der Arbeit am Vorhaben oder vor der Anschaffung von Sachen einzureichen. Ausgenommen sind Anschaffungen von Verbrauchs- oder technischem Kleinmaterial.
+<sup>3</sup> Gesuche um Ausrichtung von Beiträgen sind der Gebäudeversicherung Zug vor Aufnahme der Arbeit am Vorhaben oder vor der Anschaffung von Sachen einzureichen. Ausgenommen sind Anschaffungen von Verbrauchs- oder technischem Kleinmaterial.
 
 #### § 53
 
-**Kürzung von Feuerschutzbeiträgen**
+**Kürzung von Beiträgen**
 
-<sup>1</sup> Die Sicherheitsdirektion kürzt die Feuerschutzbeiträge um den Betrag, der von Dritten an die beitragsberechtigten Vorhaben oder Anschaffungen geleistet oder in Aussicht gestellt wird.
+<sup>1</sup> Die Gebäudeversicherung Zug kürzt die Beiträge um den Betrag, der von Dritten an die beitragsberechtigten Vorhaben oder Anschaffungen geleistet oder in Aussicht gestellt wird.
 
-<sup>2</sup> Die Sicherheitsdirektion kürzt die Beiträge ebenfalls, wenn vor der Beitragszusicherung die Arbeiten am Vorhaben aufgenommen oder Sachen angeschafft wurden.
+<sup>2</sup> Die Gebäudeversicherung Zug kürzt die Beiträge ebenfalls, wenn vor der Beitragszusicherung die Arbeiten am Vorhaben aufgenommen oder Sachen angeschafft wurden.
 
 #### § 54
 
 **Übrige Gebühren**
 
-<sup>1</sup> Die Kosten der Ausrüstung der Öl-, Chemie- und Strahlenwehr und der für sie von der Gebäudeversicherung Zug durchgeführten Kurse trägt der Kanton.
+<sup>1</sup> Der Kanton leistet einen Beitrag an die Kosten für die Erfüllung der Stützpunktaufgaben und der hierfür von der Gebäudeversicherung Zug durchgeführten Kurse, soweit diese Kosten nicht durch Beiträge der Gebäudeversicherung Zug für die gemäss §§ 10–12 des Gesetzes über die Gebäudeversicherung Zug (Gebäudeversicherungsgesetz, GebVG[^54-1]) versicherten Risiken oder durch Beiträge Dritter gedeckt werden. Der Regierungsrat bestimmt die beitragsberechtigten Stützpunktaufgaben und legt den Beitrag des Kantons fest.
 
-<sup>2</sup> Die Gebäudeversicherung trägt die Kosten für die Beschaffung und den Unterhalt der Alarmierungsanlage.
+<sup>2</sup> Die Gebäudeversicherung Zug trägt die Kosten für die Beschaffung und den Unterhalt der Alarmierungsanlage.
 
 <sup>3</sup> Der Regierungsrat setzt die Abonnementsgebühren fest und überwälzt diese jenen, die auf der Alarmanlage aufgeschaltet sind.
+
+[^54-1]: BGS [722.11](https://bgs.zg.ch/data/722.11/de)
 
 #### § 55
 
@@ -567,7 +598,7 @@ beschliesst:
 
 <sup>2</sup> Führt die Gebäudeversicherung Zug Kurse durch oder ordnet sie den Kursbesuch an, trägt sie die allgemeinen Kurskosten wie die Kosten für die Lokalmiete, Honorare, Kursunterlagen, Verpflegung.
 
-<sup>3</sup> Die Besoldung der Kursteilnehmer oder Kursteilnehmerinnen ist Sache der Gemeinden und Betriebe. Die Gebäudeversicherung Zug legt die Mindestbesoldung fest, an welche sie einen Beitrag von 50 Prozent leistet.
+<sup>3</sup> Die Besoldung der Kursteilnehmer und Kursteilnehmerinnen ist Sache der Gemeinden und Betriebe. Die Gebäudeversicherung Zug legt die Mindestbesoldung fest, die sie vollständig trägt.
 
 #### § 57
 
@@ -576,34 +607,38 @@ beschliesst:
 <sup>1</sup> Die Gebäudeversicherung Zug entschädigt die
 
 - a) Instruktoren oder Instruktorinnen,
-- b) Mitglieder des Chemiestabs,
+- b) Fachberaterinnen und Fachberater der Stützpunktfeuerwehr und der Träger von Stützpunktaufgaben,
 - c) von ihr beauftragten Personen.
 
 #### § 57a
 
-**Löschbeiträge privater Versicherungsgesellschaften**
+**Präventionsbeiträge privater Versicherungsgesellschaften**
 
-<sup>1</sup> Die privaten Versicherungsgesellschaften, die im Kanton Zug Mobiliar gegen Feuerschaden versichern, leisten Löschbeiträge nach Massgabe der vom Regierungsrat, gestützt auf die Empfehlung der Vereinigung Kantonaler Feuerversicherungen, festgelegten Ansätze.
+<sup>1</sup> Die privaten Versicherungsgesellschaften, die im Kanton Zug Mobiliar gegen Feuer- und Elementarschaden versichern, leisten der Gebäudeversicherung Zug jährliche Präventionsbeiträge.
 
-<sup>2</sup> Die Löschbeiträge sind für die Schadenverhütung und Schadenbekämpfung zu verwenden.
+<sup>2</sup> Für die Bemessung und Verwendung dieser Beiträge ist das Bundesgesetz betreffend die Aufsicht über Versicherungsunternehmen (Versicherungsaufsichtsgesetz, VAG[^57a-1]) massgebend.
+
+<sup>3</sup> Der Verwaltungsrat der Gebäudeversicherung Zug legt die Höhe dieser Beiträge fest.
+
+[^57a-1]: SR [961.01](https://db.clex.ch/link/Bund/961.01/de)
 
 ## 5. Rechtspflege
 
 #### § 58
 
-**Grundsatz**
+**Einsprachen und Beschwerden**
 
-<sup>1</sup> Die Rechtspflege richtet sich nach den Bestimmungen des Gesetzes über den Rechtsschutz in Verwaltungssachen (Verwaltungsrechtspflegegesetz[^58-1]), soweit dieses Gesetz nicht ausdrücklich eine Ausnahme vorsieht.
+<sup>1</sup> Gegen Verfügungen der Gebäudeversicherung Zug oder der Gemeinde kann innert 20 Tagen seit der Mitteilung Einsprache beim Verwaltungsrat der Gebäudeversicherung Zug beziehungsweise beim Gemeinderat erhoben werden.
+
+<sup>2</sup> Gegen Einspracheentscheide des Verwaltungsrats der Gebäudeversicherung Zug oder des Gemeinderats kann innert 30 Tagen seit der Mitteilung Beschwerde beim Verwaltungsgericht erhoben werden.
+
+<sup>3</sup> Das Verfahren richtet sich nach den Bestimmungen des Gesetzes über den Rechtsschutz in Verwaltungssachen (Verwaltungsrechtspflegegesetz, VRG[^58-1]).
 
 [^58-1]: BGS [162.1](https://bgs.zg.ch/data/162.1/de)
 
 #### § 59
 
-**Einsprache**
-
-<sup>1</sup> Gegen die Erhebung der Ersatzabgabe kann Einsprache gemäss Verwaltungsrechtspflegegesetz[^59-1] erhoben werden.
-
-[^59-1]: BGS [162.1](https://bgs.zg.ch/data/162.1/de)
+**…**
 
 #### § 60
 
@@ -647,11 +682,13 @@ beschliesst:
 
 <sup>1</sup> Jede Behörde beendet die Verfahren, die beim Inkrafttreten dieses Gesetzes bei ihr anhängig sind, nach den bisher geltenden Bestimmungen. Für den Weiterzug solcher Entscheide gelten die Bestimmungen dieses Gesetzes.
 
-<sup>2</sup> Beiträge gemäss § 51 Abs. 1 Bst. b werden ein Jahr nach Inkrafttreten der Gesetzesänderung vom 29. Januar 2009 im bisherigen Rahmen für die Feuerschau ausbezahlt, auch wenn die Feuerschauer und Feuerschauerinnen die gesetzlichen Anforderungen noch nicht erfüllen.
+<sup>2</sup> …
 
 <sup>3</sup> …
 
 <sup>4</sup> …
+
+<sup>5</sup> Die Einwohnergemeinden bleiben für Brandschutzbewilligungen und Brandschutzkontrollen bis 31. Dezember 2026 zuständig und beziehen hierfür entsprechende Feuerschutzbeiträge nach bisherigem Recht. Sie können ihre Zuständigkeit in diesen Bereichen bereits vor Ablauf dieser Frist ganz oder teilweise auf die Gebäudeversicherung Zug übertragen, sofern diese der Übertragung zustimmt.
 
 #### § 66
 
