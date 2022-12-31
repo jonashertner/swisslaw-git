@@ -4,13 +4,13 @@ number: "892"
 title: Sozialhilfegesetz
 short: SHG
 language: de
-version: 2021-09-01
-valid_until: 2022-12-31
-version_adopted: 2021-05-10
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2022-10-24
 adopted: 2015-03-16
 in_force: 2016-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/892"
-pdf: "https://srl.lu.ch/api/de/versions/3800/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4020/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3800/pdf_file"
 
 (SHG)
 
-vom 16.03.2015 (Stand 01.09.2021)
+vom 16.03.2015 (Stand 01.01.2023)
 
 Der Kantonsrat des Kantons Luzern,
 
@@ -81,7 +81,7 @@ beschliesst:
 
 **Grundsätze der Leistungserbringung**
 
-<sup>1</sup> Die Leistungen der Sozialhilfe sind bedarfsgerecht, rechtzeitig und durch fachlich geeignete Personen zu erbringen.
+<sup>1</sup> Die Leistungen der Sozialhilfe sind bedarfsgerecht, rechtzeitig und durch fachlich geeignete Personen zu erbringen. Die fachlichen Anforderungen an die Leistungserbringer regelt der Regierungsrat durch Verordnung.
 
 <sup>2</sup> Die Organe der Sozialhilfe unterstützen sich gegenseitig bei der Erfüllung ihrer Aufgaben. Soweit nötig erteilen sie einander Auskünfte und gewähren einander auf Verlangen Akteneinsicht.
 
@@ -93,13 +93,16 @@ beschliesst:
 
 **Mitwirkungspflichten**
 
-<sup>1</sup> Die hilfebedürftige Person hat bei der wirtschaftlichen Sozialhilfe, der Nothilfe und den Alimentenhilfen über ihre Verhältnisse vollständig und wahrheitsgetreu Auskunft zu geben und die zur Abklärung erforderlichen Unterlagen beizubringen. Sie hat Änderungen ihrer Verhältnisse umgehend und unaufgefordert zu melden.
+<sup>1</sup> Die hilfebedürftige Person hat bei der wirtschaftlichen Sozialhilfe, der Nothilfe und der Bevorschussung von Unterhaltsbeiträgen über ihre Verhältnisse vollständig und wahrheitsgetreu Auskunft zu geben und die zur Abklärung erforderlichen Unterlagen beizubringen. Sie hat Änderungen ihrer Verhältnisse umgehend und unaufgefordert zu melden.
 
-<sup>2</sup> Die hilfebedürftige Person ist verpflichtet, alle Personen und Stellen, insbesondere Arbeitgeber, Ärztinnen und Ärzte, Versicherungen und Behörden, im Einzelfall zu ermächtigen, die Auskünfte zu erteilen, die für die Abklärung des Anspruchs auf wirtschaftliche Sozialhilfe, Nothilfe und Alimentenhilfen erforderlich sind.
+<sup>2</sup> Die hilfebedürftige Person ist verpflichtet, alle Personen und Stellen, insbesondere Arbeitgeber, Ärztinnen und Ärzte, Versicherungen und Behörden, im Einzelfall zu ermächtigen, die Auskünfte zu erteilen, die für die Abklärung des Anspruchs auf wirtschaftliche Sozialhilfe, Nothilfe und Bevorschussung von Unterhaltsbeiträgen erforderlich sind.
 
-<sup>3</sup> Im Übrigen gelten die Bestimmungen des Gesetzes über die Verwaltungsrechtspflege vom 3. Juli 1972[^7-1] über die Mitwirkung der Parteien.
+<sup>2<sup>bis</sup></sup> Die Mitwirkungspflichten bei der Inkassohilfe richten sich nach der eidgenössischen Verordnung über die Inkassohilfe bei familienrechtlichen Unterhaltsansprüchen vom 6. Dezember 2019[^7-1].
 
-[^7-1]: SRL Nr. [40](https://srl.lu.ch/data/40/de). Auf dieses Gesetz wird im Folgenden nicht mehr hingewiesen.
+<sup>3</sup> Im Übrigen gelten die Bestimmungen des Gesetzes über die Verwaltungsrechtspflege vom 3. Juli 1972[^7-2] über die Mitwirkung der Parteien.
+
+[^7-1]: SR [211.214.32](https://db.clex.ch/link/Bund/211.214.32/de)
+[^7-2]: SRL Nr. [40](https://srl.lu.ch/data/40/de). Auf dieses Gesetz wird im Folgenden nicht mehr hingewiesen.
 
 #### § 8
 
@@ -173,13 +176,17 @@ beschliesst:
 
 <sup>1</sup> Zuständig für die Sozialhilfe ist die Einwohnergemeinde, in der die hilfebedürftige Person ihren Unterstützungswohnsitz hat. Der Unterstützungswohnsitz richtet sich nach den Bestimmungen des eidgenössischen Zuständigkeitsgesetzes.
 
+<sup>1<sup>bis</sup></sup> Bei einem Wechsel des Unterstützungswohnsitzes innerhalb des Kantons bleibt während des ersten Monats nach dem Wegzug die bisherige Einwohnergemeinde für die wirtschaftliche Sozialhilfe zuständig.
+
 <sup>2</sup> Hat die hilfebedürftige Person keinen Unterstützungswohnsitz oder ist sie ausserhalb ihres Unterstützungswohnsitzes auf sofortige Hilfe angewiesen, ist die Einwohnergemeinde zuständig, in der sie sich aufhält (Aufenthaltsgemeinde). Als Aufenthalt gilt die tatsächliche Anwesenheit in einer Gemeinde.
 
 <sup>3</sup> Ist eine offensichtlich hilfebedürftige Person, insbesondere wegen einer Erkrankung oder eines Unfalls, auf ärztliche oder behördliche Anordnung in eine andere Einwohnergemeinde verbracht worden, gilt diejenige Gemeinde als Aufenthaltsgemeinde, von der aus die Zuweisung erfolgte.
 
 <sup>4</sup> Ist die örtliche Zuständigkeit streitig, hat diejenige Einwohnergemeinde, bei der die hilfebedürftige Person das Gesuch um Unterstützung zuerst gestellt hat, die wirtschaftliche Sozialhilfe bis zur Klärung der Zuständigkeit als Vorleistung zu gewähren.
 
-<sup>5</sup> Vorbehalten bleiben die §§ 43 und 44 Absatz 1 über die Zuständigkeit bei den Alimentenhilfen.
+<sup>5</sup> Vorbehalten bleiben § 43 sowie Artikel 5 und Artikel 21 der eidgenössischen Inkassohilfeverordnung[^16-1] über die Zuständigkeit bei der Inkassohilfe und § 44 über die Zuständigkeit bei der Bevorschussung.
+
+[^16-1]: SR [211.214.32](https://db.clex.ch/link/Bund/211.214.32/de)
 
 #### § 17
 
@@ -187,17 +194,19 @@ beschliesst:
 
 <sup>1</sup> In der Einwohnergemeinde entscheidet der Gemeinderat über die Sozialhilfe. Er kann die Befugnis zum Entscheid ganz oder teilweise an den Sozialdienst gemäss Absatz 2 oder an Dritte delegieren.
 
-<sup>2</sup> Jede Einwohnergemeinde führt einen Sozialdienst. Er erfüllt sämtliche Aufgaben der Sozialhilfe, für die die Einwohnergemeinden zuständig sind. Er ist insbesondere Anlauf-, Abklärungs- und Beratungsstelle für hilfebedürftige Personen. Der Sozialdienst steht unter der Aufsicht des Gemeinderates.
+<sup>2</sup> Jede Einwohnergemeinde führt einen Sozialdienst. Er erfüllt sämtliche Aufgaben der Sozialhilfe, für die die Einwohnergemeinde zuständig ist, und ist die Fachstelle gemäss Artikel 2 Absatz 2 der eidgenössischen Inkassohilfeverordnung[^17-1]. Er ist insbesondere Anlauf-, Abklärungs- und Beratungsstelle für hilfebedürftige Personen. Er steht unter der Aufsicht des Gemeinderates.
 
-<sup>3</sup> Die Einwohnergemeinde kann die Erfüllung von Aufgaben des Sozialdienstes ganz oder teilweise einem Gemeindeverband oder Dritten übertragen. Der beauftragte Gemeindeverband oder Dritte sind verpflichtet, dem Gemeinderat alle Daten zur Verfügung zu stellen, die erforderlich sind, um die richtige Erfüllung des Auftrags zu kontrollieren.
+<sup>3</sup> Die Einwohnergemeinde kann die Erfüllung von Aufgaben des Sozialdienstes ganz oder teilweise einem Gemeindeverband oder Dritten übertragen. Die Inkassohilfe und die Alimentenbevorschussung können nur zusammen übertragen werden, mit Ausnahme von grenzüberschreitenden Fällen. Der beauftragte Gemeindeverband oder Dritte sind verpflichtet, dem Gemeinderat alle Daten zur Verfügung zu stellen, die erforderlich sind, um die richtige Erfüllung des Auftrags zu kontrollieren.
+
+[^17-1]: SR [211.214.32](https://db.clex.ch/link/Bund/211.214.32/de)
 
 #### § 18
 
 **Organisation des Kantons**
 
-<sup>1</sup> Das Gesundheits- und Sozialdepartement setzt die kantonale Sozialpolitik um und übt die Aufsicht über die Sozialhilfe des Kantons aus.
+<sup>1</sup> Das Gesundheits- und Sozialdepartement setzt die kantonale Sozialpolitik um und übt die Aufsicht über die Sozialhilfe im Kanton aus.
 
-<sup>2</sup> Die vom Regierungsrat als zuständig bezeichnete Dienststelle vollzieht die Sozialhilfe, die dem Kanton übertragen ist, und sie koordiniert die Sozialhilfe.
+<sup>2</sup> Der Regierungsrat bezeichnet die Dienststellen, die für den Vollzug der Sozialhilfe, die dem Kanton übertragen ist, und für die Koordination der Sozialhilfe zuständig sind. Er regelt die Einzelheiten der Koordination durch Verordnung.
 
 ## 4 Generelle Sozialhilfe
 
@@ -447,13 +456,47 @@ beschliesst:
 
 ## 7 Alimentenhilfen
 
+### 7.1 Inkassohilfe
+
 #### § 43
 
 **Anspruch auf Inkassohilfe**
 
-<sup>1</sup> Das unterhaltsberechtigte Kind hat gegenüber der Einwohnergemeinde des zivilrechtlichen Wohnsitzes Anspruch auf unentgeltliche Hilfe bei der Vollstreckung von Unterhaltsbeiträgen der Eltern.
+<sup>1</sup> Das unterhaltsberechtigte Kind, der unterhaltsberechtigte Ehegatte oder die unterhaltsberechtigte Ehegattin, der unterhaltsberechtigte eingetragene Partner oder die unterhaltsberechtigte eingetragene Partnerin hat gegenüber der Einwohnergemeinde des zivilrechtlichen Wohnsitzes Anspruch auf Inkassohilfe für Unterhaltsansprüche, die in einem Unterhaltstitel festgelegt sind.
 
-<sup>2</sup> Der unterhaltsberechtigte Ehegatte, der eingetragene Partner oder die eingetragene Partnerin hat gegenüber der Einwohnergemeinde des zivilrechtlichen Wohnsitzes Anspruch auf unentgeltliche Hilfe bei der Vollstreckung von Unterhaltsbeiträgen des anderen Ehegatten, des eingetragenen Partners oder der eingetragenen Partnerin.
+<sup>2</sup> …
+
+<sup>5</sup> Im Übrigen richtet sich die Inkassohilfe nach den Vorschriften der eidgenössischen Inkassohilfeverordnung[^43-1].
+
+[^43-1]: SR [211.214.32](https://db.clex.ch/link/Bund/211.214.32/de)
+
+#### § 43a
+
+**Kostenpflicht**
+
+<sup>1</sup> Die Einwohnergemeinde am Wohnsitz der berechtigten Person trägt die Kosten ihrer Inkassohilfe.
+
+<sup>3</sup> Vorbehalten bleibt die Kostenbeteiligung berechtigter Personen gemäss § 43b.
+
+#### § 43b
+
+**Kostenbeteiligung berechtigte Person**
+
+<sup>1</sup> Leistungen der Fachstelle zur Inkassohilfe für Unterhaltsbeiträge für Kinder sind unentgeltlich.
+
+<sup>2</sup> Leistungen der Fachstelle zur Inkassohilfe für Unterhaltsbeiträge für andere berechtigte Personen sind in der Regel unentgeltlich. Verfügt die berechtigte Person über die erforderlichen Mittel, hat sie sich an den Kosten für die Leistungen der Fachstelle zu beteiligen.
+
+<sup>3</sup> Kosten für Leistungen Dritter, namentlich Betreibungs-, Verfahrens- und Übersetzungskosten, werden vom Gemeinwesen bevorschusst. Können die Kosten nicht von der verpflichteten Person erhältlich gemacht werden, werden diese der berechtigten Person vom Gemeinwesen auferlegt, wenn diese über die erforderlichen Mittel verfügt.
+
+<sup>4</sup> Der Regierungsrat bestimmt das massgebende Einkommen, bei welchem die berechtigte Person über die erforderlichen Mittel verfügt, und den Umfang der Kostenbeteiligung durch Verordnung.
+
+#### § 43c
+
+**Kostenersatzpflicht bei Verstoss gegen das Verbot der Abschiebung**
+
+<sup>1</sup> Bei Verstoss gegen das Verbot der Abschiebung im Sinn von § 13 bleibt die Einwohnergemeinde der fehlbaren Organe für die Kosten der gewährten Inkassohilfe der kostenpflichtigen Einwohnergemeinde so lange ersatzpflichtig, als das unterhaltsberechtigte Kind, der unterhaltsberechtigte Ehegatte oder die unterhaltsberechtigte Ehegattin, der unterhaltsberechtigte eingetragene Partner oder die unterhaltsberechtigte eingetragene Partnerin den Wohnsitz ohne behördliche Beeinflussung nicht gewechselt hätte, längstens aber während fünf Jahren.
+
+### 7.2 Bevorschussung
 
 #### § 44
 
@@ -510,17 +553,17 @@ beschliesst:
 
 **Kostenpflicht**
 
-<sup>1</sup> Die Einwohnergemeinde trägt die Kosten der Inkassohilfe.
+<sup>1</sup> …
 
-<sup>2</sup> Sie trägt die Kosten der Bevorschussung, soweit diese vom unterhaltspflichtigen Elternteil nicht zurückgefordert werden können.
+<sup>2</sup> Die Einwohnergemeinde trägt die Kosten der Bevorschussung, soweit diese vom unterhaltspflichtigen Elternteil nicht zurückgefordert werden können.
 
-<sup>3</sup> Die Einwohnergemeinden können eine abweichende Regelung treffen.
+<sup>3</sup> …
 
 #### § 48
 
 **Kostenersatzpflicht bei Verstoss gegen das Verbot der Abschiebung**
 
-<sup>1</sup> Bei Verstoss gegen das Verbot der Abschiebung im Sinn von § 13 bleibt die Einwohnergemeinde der fehlbaren Organe für die Kosten der gewährten Alimentenhilfen der kostenpflichtigen Einwohnergemeinde so lange ersatzpflichtig, als das unterhaltsberechtigte Kind den Wohnsitz ohne behördliche Beeinflussung nicht gewechselt hätte, längstens aber während fünf Jahren.
+<sup>1</sup> Bei Verstoss gegen das Verbot der Abschiebung im Sinn von § 13 bleibt die Einwohnergemeinde der fehlbaren Organe für die Kosten der gewährten Bevorschussung der kostenpflichtigen Einwohnergemeinde so lange ersatzpflichtig, als das unterhaltsberechtigte Kind den Wohnsitz ohne behördliche Beeinflussung nicht gewechselt hätte, längstens aber während fünf Jahren.
 
 #### § 49
 
@@ -550,11 +593,11 @@ beschliesst:
 
 #### § 52
 
-**Strafanzeige**
+**Strafantrag**
 
-<sup>1</sup> Der Gemeinderat ist berechtigt, bei Vernachlässigung von Unterhaltspflichten gemäss Artikel 217 des Schweizerischen Strafgesetzbuches vom 21. Dezember 1937[^52-1] Strafanzeige einzureichen.
+<sup>1</sup> Der Gemeinderat ist berechtigt, bei Vernachlässigung von Unterhaltspflichten gemäss Artikel 217 des Schweizerischen Strafgesetzbuches vom 21. Dezember 1937[^52-1] Strafantrag einzureichen.
 
-<sup>2</sup> Hat der Gemeinderat die Befugnis zum Entscheid über die Ansprüche auf Alimentenhilfen an den Sozialdienst, an einen Gemeindeverband oder an einen Dritten delegiert, sind diese anzeigeberechtigt.
+<sup>2</sup> Hat der Gemeinderat die Befugnis zum Entscheid über die Ansprüche auf Alimentenhilfen an den Sozialdienst, an einen Gemeindeverband oder an einen Dritten delegiert, sind diese antragsberechtigt.
 
 [^52-1]: SR [311.0](https://db.clex.ch/link/Bund/311.0/de)
 
@@ -588,6 +631,8 @@ beschliesst:
 
 <sup>6</sup> Halten sich vorläufig aufgenommene Personen mehr als zehn Jahre in der Schweiz auf, ist für die persönliche und wirtschaftliche Sozialhilfe die Einwohnergemeinde zuständig.
 
+<sup>7</sup> Bei einer Änderung des ausländerrechtlichen Status der hilfebedürftigen Person, mit welcher die Zuständigkeit für die persönliche und wirtschaftliche Sozialhilfe auf die Einwohnergemeinde übergeht, erfolgt der Wechsel der Zuständigkeit am Ende des Folgemonats.
+
 #### § 54
 
 **Sozialhilfe für Flüchtlinge**
@@ -604,11 +649,13 @@ beschliesst:
 
 <sup>6</sup> Halten sich Flüchtlinge mehr als zehn Jahre in der Schweiz auf, ist für die persönliche und wirtschaftliche Sozialhilfe die Einwohnergemeinde zuständig.
 
+<sup>7</sup> Bei einer Änderung des ausländerrechtlichen Status der hilfebedürftigen Person, mit welcher die Zuständigkeit für die persönliche und wirtschaftliche Sozialhilfe auf die Einwohnergemeinde übergeht, erfolgt der Wechsel der Zuständigkeit am Ende des Folgemonats.
+
 #### § 55
 
 **Nothilfe**
 
-<sup>1</sup> Personen aus dem Asylbereich, die nach Bundesrecht von der Sozialhilfe ausgeschlossen sind, erhalten Nothilfe.
+<sup>1</sup> Der Kanton gewährt Personen aus dem Asylbereich, die nach Bundesrecht von der Sozialhilfe ausgeschlossen sind, Nothilfe.
 
 <sup>2</sup> Der Regierungsrat regelt das Nähere, insbesondere Art und Umfang der Nothilfe, durch Verordnung.
 
