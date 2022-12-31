@@ -4,13 +4,13 @@ number: "214.21"
 title: Vollzugsverordnung zum kantonalen Geoinformationsgesetz
 short: "Kantonale Geoinformationsverordnung, kGeoIV"
 language: de
-version: 2022-07-01
-valid_until: 2022-12-31
-version_adopted: 2022-06-21
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2022-10-18
 adopted: 2012-09-25
 in_force: 2012-12-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/214.21"
-pdf: "https://gesetze.nw.ch/api/de/versions/1054/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1063/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.nw.ch/api/de/versions/1054/pdf_file"
 
 (Kantonale Geoinformationsverordnung, kGeoIV)
 
-vom 25.09.2012 (Stand 01.07.2022)
+vom 25.09.2012 (Stand 01.01.2023)
 
 Der Regierungsrat von Nidwalden,
 
@@ -292,6 +292,7 @@ C = nicht öffentlich
 <tr><td>21-NW</td><td>Inventar der Ortsbildschutzobjekte lokaler Bedeutung</td><td>NG 322.2 Art. 4–7, NG 322.21 § 1</td><td>Gemeinde [AFK]</td><td>A</td><td></td></tr>
 <tr><td>22-NW</td><td>Inventar der Denkmalschutzobjekte nationaler und regionaler Bedeutung</td><td>NG 322.2 Art. 4–7, NG 322.21 § 1</td><td>AFK</td><td>A</td><td></td></tr>
 <tr><td>23-NW</td><td>Inventar der Denkmalschutzobjekte lokaler Bedeutung</td><td>NG 322.2 Art. 4–7, NG 322.21 § 1</td><td>Gemeinde [AFK]</td><td>A</td><td></td></tr>
+<tr><td>23a-NW</td><td>Inventar der schutzwürdigen Denkmalschutzobjekte</td><td>NG 322.2 Art. 4-7, NG322.21 § 1</td><td>AFK</td><td>A</td><td>Ja</td></tr>
 <tr><td>24-NW</td><td>Inventar der Bodenaltertümer</td><td>NG 322.2 Art. 4–7, NG 322.21 § 1</td><td>Staatsarchiv (StAr)</td><td>A</td><td></td></tr>
 <tr><td>25-NW</td><td>Archäologische Bodenfunde (Fundstellenplan)</td><td>NG 322.1 Art. 32, 36, NG 322.21 §§ 1, 13</td><td>StAr</td><td>B</td><td></td></tr>
 <tr><td>26-NW</td><td>Grabungsschutzgebiete</td><td>NG 322.2 Art. 34</td><td>StAr</td><td>A</td><td></td></tr>
