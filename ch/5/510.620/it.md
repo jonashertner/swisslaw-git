@@ -4,11 +4,11 @@ title: Ordinanza del 21 maggio 2008 sulla geoinformazione (OGI)
 short: OGI
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/389"
 language: it
-version: 2022-11-01
+version: 2023-01-01
 adopted: 2008-05-21
 in_force: 2008-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/389/20221101/it/xml/fedlex-data-admin-ch-eli-cc-2008-389-20221101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/389/20221101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/389/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2008-389-20230101-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/389/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/389/20221101/it"
 
 (OGI)
 
-del 21 maggio 2008 (Stato 1° novembre 2022)
+del 21 maggio 2008 (Stato 1° gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -764,7 +764,7 @@ Allegato 1[^t-1]
 
 ## Catalogo dei geodati di base del diritto federale
 
-[^t-1]: Nuovo testo giusta il n. II dell’O del 28 mar. 2012 ([RU 2012 1791](https://fedlex.data.admin.ch/eli/oc/2012/254)[5523](https://fedlex.data.admin.ch/eli/oc/2012/636)). Aggiornato dal n. II 2 dell’O del 27 giu. 2012 ([RU 2012 3683](https://fedlex.data.admin.ch/eli/oc/2012/422)[4169](https://fedlex.data.admin.ch/eli/oc/2012/489)), dall’art. 30 n. 2 dell’O del 23 ott. 2013 sui sistemi d’informazione nel campo dell’agricoltura ([RU 2013 4009](https://fedlex.data.admin.ch/eli/oc/2013/733)) e dall’all. n. II 2 dell’O del 29 ott. 2014 sulla protezione dei beni culturali in caso di conflitti armati, catastrofi e situazioni d’emergenza ([RU 2014 3555](https://fedlex.data.admin.ch/eli/oc/2014/616)), dal n. III dell’O del 28 ott. 2015 ([RU 2015 4581](https://fedlex.data.admin.ch/eli/oc/2015/772)), dall’all. 6 n. 1 dell’O del 4 dic. 2015 sui rifiuti ([RU 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)), dall’all. n. II 1 dell’O del 17 ago. 2016 ([RU 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)), dall’all. 2 n. II 2 dell’O del 9 giu. 2017 sul Registro federale degli edifici e delle abitazioni ([RU 2017 3459](https://fedlex.data.admin.ch/eli/oc/2017/376)), dal n. II dell’O del 15 nov. 2017 ([RU 2017 6653](https://fedlex.data.admin.ch/eli/oc/2017/739)), dall’all. 8 n. 2 dell’O del 31 ott. 2018 sulla sulla salute dei vegetali ([RU 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)), dal n. I dell’O del 3 apr. 2019 ([RU 2019 1343](https://fedlex.data.admin.ch/eli/oc/2019/262)), del 16 ott. 2019 ([RU 2019 3231](https://fedlex.data.admin.ch/eli/oc/2019/595)), dal n. III dell’O del 17 ott. 2018 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611), [2020 145](https://fedlex.data.admin.ch/eli/oc/2020/25)), dal n. I dell’O del 25 nov. 2020 ([RU 2020 6013](https://fedlex.data.admin.ch/eli/oc/2020/1004)), dall’all. 2 n. 1 dell’O del 4 giu. 2021 sulla sicurezza degli impianti di trasporto in condotta ([RU 2021 348](https://fedlex.data.admin.ch/eli/oc/2021/348)), dal n. I dell’O del 22 giu. 2022 ([RU 2022 395](https://fedlex.data.admin.ch/eli/oc/2022/395)) e dal n. II dell’O del 31 ago. 2022, in vigore dal 1° nov. 2022 ([RU 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^t-1]: Nuovo testo giusta il n. II dell’O del 28 mar. 2012 ([RU 2012 1791](https://fedlex.data.admin.ch/eli/oc/2012/254)[5523](https://fedlex.data.admin.ch/eli/oc/2012/636)). Aggiornato dal n. II 2 dell’O del 27 giu. 2012 ([RU 2012 3683](https://fedlex.data.admin.ch/eli/oc/2012/422)[4169](https://fedlex.data.admin.ch/eli/oc/2012/489)), dall’art. 30 n. 2 dell’O del 23 ott. 2013 sui sistemi d’informazione nel campo dell’agricoltura ([RU 2013 4009](https://fedlex.data.admin.ch/eli/oc/2013/733)) e dall’all. n. II 2 dell’O del 29 ott. 2014 sulla protezione dei beni culturali in caso di conflitti armati, catastrofi e situazioni d’emergenza ([RU 2014 3555](https://fedlex.data.admin.ch/eli/oc/2014/616)), dal n. III dell’O del 28 ott. 2015 ([RU 2015 4581](https://fedlex.data.admin.ch/eli/oc/2015/772)), dall’all. 6 n. 1 dell’O del 4 dic. 2015 sui rifiuti ([RU 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)), dall’all. n. II 1 dell’O del 17 ago. 2016 ([RU 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)), dall’all. 2 n. II 2 dell’O del 9 giu. 2017 sul Registro federale degli edifici e delle abitazioni ([RU 2017 3459](https://fedlex.data.admin.ch/eli/oc/2017/376)), dal n. II dell’O del 15 nov. 2017 ([RU 2017 6653](https://fedlex.data.admin.ch/eli/oc/2017/739)), dall’all. 8 n. 2 dell’O del 31 ott. 2018 sulla sulla salute dei vegetali ([RU 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)), dal n. I dell’O del 3 apr. 2019 ([RU 2019 1343](https://fedlex.data.admin.ch/eli/oc/2019/262)), del 16 ott. 2019 ([RU 2019 3231](https://fedlex.data.admin.ch/eli/oc/2019/595)), dal n. III dell’O del 17 ott. 2018 ([RU 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611), [2020 145](https://fedlex.data.admin.ch/eli/oc/2020/25)), dal n. I dell’O del 25 nov. 2020 ([RU 2020 6013](https://fedlex.data.admin.ch/eli/oc/2020/1004)), dall’all. 2 n. 1 dell’O del 4 giu. 2021 sulla sicurezza degli impianti di trasporto in condotta ([RU 2021 348](https://fedlex.data.admin.ch/eli/oc/2021/348)), dal n. I dell’O del 22 giu. 2022 ([RU 2022 395](https://fedlex.data.admin.ch/eli/oc/2022/395)), dal n. II dell’O del 31 ago. 2022, ([RU 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)), dall’all. 9 n. 1 dell’O del 2 nov. 2022 sui miglioramenti strutturali nell’agricoltura ([RU 2022 754](https://fedlex.data.admin.ch/eli/oc/2022/754)) e dal n. II dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 756](https://fedlex.data.admin.ch/eli/oc/2022/756)).
 
 <table>
 <tr><th>Denominazione</th><th>Base giuridica</th><th>Servizio competente (RS *510.62* art. 8 cpv. 1) [servizio specializzato della Confederazione]</th><th>Geodati di riferimento</th><th>Catasto delle restrizioni di diritto pubblico della proprietà</th><th>Livello di autorizzazione all'accesso</th><th>Servizio di telecaricamento</th><th>Identificatore</th></tr>
@@ -907,7 +907,6 @@ Allegato 1[^t-1]
 <tr><td>Catasto viticolo</td><td>RS *910.1* art. 61, 178 cpv. 5; RS *916.140* art. 4</td><td>Cantoni [UFAG]</td><td></td><td></td><td>A</td><td>X</td><td>151</td></tr>
 <tr><td>Zone declive</td><td>RS *910.1* art. 178 cpv. 5 RS *910.13* art. 43 e 45</td><td>UFAG</td><td></td><td></td><td>A</td><td>X</td><td>152</td></tr>
 <tr><td>Superfici agricole</td><td>RS *910.1* art. 178 cpv. 5; RS *910.13* art. 38, 45, 55, 56, 58–60, 63, 64, 113, all. 1–4; RS *910.91* art. 6, 9, 13, 14, 16, 24</td><td>Cantoni [UFAG]</td><td></td><td></td><td>A</td><td>X</td><td>153</td></tr>
-<tr><td>Sorveglianza del territorio (organismi nocivi particolarmente pericolosi)</td><td>RS *916.20* art. 18</td><td>Cantoni [UFAG, UFAM]</td><td></td><td></td><td>A</td><td>X</td><td>154</td></tr>
 <tr><td>Margini statici della foresta</td><td>RS *921.0* art. 10 cpv. 2, 13 RS *921.01* art. 12*a*</td><td>Cantoni [UFAM]</td><td></td><td>X</td><td>A</td><td>X</td><td>157</td></tr>
 <tr><td>Linee di distanza dalla foresta</td><td>RS *921.0* art. 17</td><td>Cantoni [UFAM]</td><td></td><td>X</td><td>A</td><td>X</td><td>159</td></tr>
 <tr><td>Riserve forestali</td><td>RS *921.0* art. 20 cpv. 4 RS *921.01* art. 41</td><td>Cantoni [UFAM]</td><td></td><td>X</td><td>A</td><td>X</td><td>160</td></tr>
@@ -974,6 +973,7 @@ Allegato 1[^t-1]
 <tr><td>Posizione e perimetri di protezione degli impianti di trasporto in condotta nel settore delle opere militari</td><td>RS *746.12* art. 44, 45</td><td>DDPS [UFE]</td><td></td><td></td><td>B</td><td></td><td>224</td></tr>
 <tr><td>Posizione e perimetri di protezione degli impianti di trasporto in condotta nel settore delle opere militari protette ai sensi della legge federale concernente la protezione delle opere militari</td><td>RS *510.518* art. 1 RS *746.12* art. 44, 45</td><td>DDPS [UFE]</td><td></td><td></td><td>C</td><td></td><td>225</td></tr>
 <tr><td>Piano settoriale dei trasporti, parte Trasporto merci sotterraneo</td><td>RS *749.1* art. 7 RS *700.1* art. 14 segg.</td><td>UFT [ARE]</td><td></td><td></td><td>A</td><td>X</td><td>226</td></tr>
+<tr><td>Infrastrutture agricole</td><td>RS *913.1* art. 59</td><td>Cantoni [UFAG]</td><td></td><td></td><td>A</td><td>X</td><td>227</td></tr>
 </table>
 
 [^annex1-lvlu1-1]: [[RU 1999 689](https://fedlex.data.admin.ch/eli/oc/1999/101), [2009 5981](https://fedlex.data.admin.ch/eli/oc/2009/732)art. 26 lett. c].

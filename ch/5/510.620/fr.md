@@ -4,11 +4,11 @@ title: Ordonnance du 21 mai 2008 sur la géoinformation (OGéo)
 short: OGéo
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/389"
 language: fr
-version: 2022-11-01
+version: 2023-01-01
 adopted: 2008-05-21
 in_force: 2008-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/389/20221101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-389-20221101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/389/20221101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/389/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-389-20230101-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/389/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/389/20221101/fr"
 
 (OGéo)
 
-du 21 mai 2008 (Etat le 1<sup>er</sup> novembre 2022)
+du 21 mai 2008 (État le 1<sup>er</sup> janvier 2023)
 
 Le Conseil fédéral suisse,
 
@@ -330,7 +330,7 @@ L’autorisation d’utilisation à des fins commerciales est délivrée si:
 - b. l’intéressé est enregistré;
 - c. l’intéressé a déclaré le but, l’intensité et la durée de l’utilisation;
 - d. l’émolument est fixé par une décision ou un contrat ou qu’il a été préalablement perçu;
-- e. les données de niveau B peuvent également être rendues accessibles aux tiers auxquels il est prévu des les transmettre.
+- e. les données de niveau B peuvent également être rendues accessibles aux tiers auxquels il est prévu de les transmettre.
 
 <sup>3</sup> L’autorisation peut être limitée dans le temps si l’utilisation de données ayant perdu de leur actualité fait courir des risques.
 
@@ -762,7 +762,7 @@ Annexe 1[^t-1]
 
 ## Catalogue des géodonnées de base relevant du droit fédéral
 
-[^t-1]: Nouvelle teneur selon le ch. II de l’O du 28 mars 2012 ([RO 2012 1791](https://fedlex.data.admin.ch/eli/oc/2012/254)). Mise à jour par le ch. II de l’O du 27 juin 2012 ([RO 2012 3683](https://fedlex.data.admin.ch/eli/oc/2012/422), [4169](https://fedlex.data.admin.ch/eli/oc/2012/489)), l’art. 30 ch. 2 de l’O du 23 oct. 2013 sur les systèmes d’information dans le domaine de l’agriculture ([RO 2013 4009](https://fedlex.data.admin.ch/eli/oc/2013/733)), l’annexe ch. II 2 de l’O du 29 oct. 2014 sur la protection des biens culturels en cas de conflit armé, de catastrophe ou de situation d’urgence ([RO 2014 3555](https://fedlex.data.admin.ch/eli/oc/2014/616)), le ch. III de l’O du 28 oct. 2015 ([RO 2015 4581](https://fedlex.data.admin.ch/eli/oc/2015/772)), l’annexe 6 ch. 1 de l’O du 4 déc. 2015 sur les déchets ([RO 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)), l’annexe ch. II 1 de l’O du 17 août 2016 ([RO 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)), l’annexe 2 ch. II 2 de l’O du 9 juin 2017 sur le Registre fédéral des bâtiments et des logements ([RO 2017 3459](https://fedlex.data.admin.ch/eli/oc/2017/376)), le ch. II de l’O du 15 nov. 2017 ([RO 2017 6653](https://fedlex.data.admin.ch/eli/oc/2017/739)), l’annexe 8 ch. 2 de l’O du 31 oct. 2018 sur la santé des végétaux ([RO 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)), le ch. I des O du 3 avril 2019 ([RO 2019 1343](https://fedlex.data.admin.ch/eli/oc/2019/262)) et du 16 oct. 2019 ([RO 2019 3231](https://fedlex.data.admin.ch/eli/oc/2019/595)), le ch. III de l’O du 17 oct. 2018 ([RO 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611); [2020 145](https://fedlex.data.admin.ch/eli/oc/2020/25)), le ch. I de l’O du 25 nov. 2020 ([RO 2020 6013](https://fedlex.data.admin.ch/eli/oc/2020/1004)), l’annexe 2 ch. 1 de l’O du 4 juin 2021 concernant les prescriptions de sécurité pour les installations de transport par conduites ([RO 2021 348](https://fedlex.data.admin.ch/eli/oc/2021/348)), le ch. I de l’O du 22 juin 2022, ([RO 2022 395](https://fedlex.data.admin.ch/eli/oc/2022/395)) et le ch. II de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^t-1]: Nouvelle teneur selon le ch. II de l’O du 28 mars 2012 ([RO 2012 1791](https://fedlex.data.admin.ch/eli/oc/2012/254)). Mise à jour par le ch. II de l’O du 27 juin 2012 ([RO 2012 3683](https://fedlex.data.admin.ch/eli/oc/2012/422), [4169](https://fedlex.data.admin.ch/eli/oc/2012/489)), l’art. 30 ch. 2 de l’O du 23 oct. 2013 sur les systèmes d’information dans le domaine de l’agriculture ([RO 2013 4009](https://fedlex.data.admin.ch/eli/oc/2013/733)), l’annexe ch. II 2 de l’O du 29 oct. 2014 sur la protection des biens culturels en cas de conflit armé, de catastrophe ou de situation d’urgence ([RO 2014 3555](https://fedlex.data.admin.ch/eli/oc/2014/616)), le ch. III de l’O du 28 oct. 2015 ([RO 2015 4581](https://fedlex.data.admin.ch/eli/oc/2015/772)), l’annexe 6 ch. 1 de l’O du 4 déc. 2015 sur les déchets ([RO 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)), l’annexe ch. II 1 de l’O du 17 août 2016 ([RO 2016 3215](https://fedlex.data.admin.ch/eli/oc/2016/539)), l’annexe 2 ch. II 2 de l’O du 9 juin 2017 sur le Registre fédéral des bâtiments et des logements ([RO 2017 3459](https://fedlex.data.admin.ch/eli/oc/2017/376)), le ch. II de l’O du 15 nov. 2017 ([RO 2017 6653](https://fedlex.data.admin.ch/eli/oc/2017/739)), l’annexe 8 ch. 2 de l’O du 31 oct. 2018 sur la santé des végétaux ([RO 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)), le ch. I des O du 3 avril 2019 ([RO 2019 1343](https://fedlex.data.admin.ch/eli/oc/2019/262)) et du 16 oct. 2019 ([RO 2019 3231](https://fedlex.data.admin.ch/eli/oc/2019/595)), le ch. III de l’O du 17 oct. 2018 ([RO 2018 3849](https://fedlex.data.admin.ch/eli/oc/2018/611); [2020 145](https://fedlex.data.admin.ch/eli/oc/2020/25)), le ch. I de l’O du 25 nov. 2020 ([RO 2020 6013](https://fedlex.data.admin.ch/eli/oc/2020/1004)), l’annexe 2 ch. 1 de l’O du 4 juin 2021 concernant les prescriptions de sécurité pour les installations de transport par conduites ([RO 2021 348](https://fedlex.data.admin.ch/eli/oc/2021/348)), le ch. I de l’O du 22 juin 2022, ([RO 2022 395](https://fedlex.data.admin.ch/eli/oc/2022/395)), le ch. II de l’O du 31 août 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)), l’annexe 9 ch. 1 de l’O du 2 nov. 2022 sur les améliorations structurelles ([RO 2022 754](https://fedlex.data.admin.ch/eli/oc/2022/754)) et le ch. II de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 756](https://fedlex.data.admin.ch/eli/oc/2022/756)).
 
 <table>
 <tr><th>Désignation</th><th>Base légale</th><th>Service compétent (RS *510.62*, art. 8, al. 1) [Service spécialisé de la Confédération]</th><th>Géodonnées de référence</th><th>Cadastre RDPPF</th><th>Niveau d'autorisation d'accès</th><th>Service de télé-chargement</th><th>Identificateur</th></tr>
@@ -905,7 +905,6 @@ Annexe 1[^t-1]
 <tr><td>Cadastre viticole</td><td>RS *910.1*, art. 61, 178, al. 5 RS *916.140*, art. 4</td><td>Cantons [OFAG]</td><td></td><td></td><td>A</td><td>X</td><td>151</td></tr>
 <tr><td>Terrains en pente</td><td>RS *910.1* art. 178, al. 5 RS *910.13* art. 43 et 45</td><td>OFAG</td><td></td><td></td><td>A</td><td>X</td><td>152</td></tr>
 <tr><td>Surfaces agricoles cultivées</td><td>RS *910.1*, art. 178, al. 5 RS *910.13*, art. 38, 45, 55, 56, 58 à 60, 63, 64, 113, annexe 1 à 4 RS *910.91*, art. 6, 9, 13, 14, 16, 24</td><td>Cantons [OFAG]</td><td></td><td></td><td>A</td><td>X</td><td>153</td></tr>
-<tr><td>Surveillance du territoire, organismes nuisibles particulièrement dangereux</td><td>RS *916.20* art. 18</td><td>Cantons [OFAG, OFEV]</td><td></td><td></td><td>A</td><td>X</td><td>154</td></tr>
 <tr><td>Limites forestières statiques</td><td>RS *921.0* art. 10, al. 2, et 13 RS *921.01*, art. 12*a*</td><td>Cantons [OFEV]</td><td></td><td>X</td><td>A</td><td>X</td><td>157</td></tr>
 <tr><td>Distances par rapport à la forêt</td><td>RS *921.0* art. 17</td><td>Cantons [OFEV]</td><td></td><td>X</td><td>A</td><td>X</td><td>159</td></tr>
 <tr><td>Réserves forestières</td><td>RS *921.0* art. 20, al. 4 RS *921.01* art. 41</td><td>Cantons [OFEV]</td><td></td><td>X</td><td>A</td><td>X</td><td>160</td></tr>
@@ -972,6 +971,7 @@ Annexe 1[^t-1]
 <tr><td>Emplacement et périmètres de protection des installations de transport par conduites – domaine des installations militaires</td><td>RS *746.12* art. 44, 45</td><td>DDPS [OFEN]</td><td></td><td></td><td>B</td><td></td><td>224</td></tr>
 <tr><td>Emplacement et périmètres de protection des installations de transport par conduites – domaine des installations militaires protégées au sens de la loi fédérale concernant la protection des ouvrages militaires</td><td>RS *510.518* art. 1 RS *746.12* art. 44, 45</td><td>DDPS [OFEN]</td><td></td><td></td><td>C</td><td></td><td>225</td></tr>
 <tr><td>Plan sectoriel des transports, partie Transport souterrain de marchandises</td><td>RS *749.1*, art. 7 RS *700.1*, art. 14 ss.</td><td>OFT [ARE]</td><td></td><td></td><td>A</td><td>X</td><td>226</td></tr>
+<tr><td>Infrastructures agricoles</td><td>RS *913.1**,* art. 59</td><td>Cantons [OFAG]</td><td></td><td></td><td>A</td><td>X</td><td>227</td></tr>
 </table>
 
 [^annex1-lvlu1-1]: [[RO 1999 689](https://fedlex.data.admin.ch/eli/oc/1999/101), [2009 5981](https://fedlex.data.admin.ch/eli/oc/2009/732), art. 26, let. c].
