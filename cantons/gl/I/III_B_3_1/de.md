@@ -4,13 +4,13 @@ number: III B/3/1
 title: Gesetz über Beurkundung und Beglaubigung
 short: Beurkundungsgesetz
 language: de
-version: 2014-09-01
-valid_until: 2022-12-31
-version_adopted: 2014-05-04
+version: 2023-01-01
+valid_until: 2025-06-30
+version_adopted: 2021-09-05
 adopted: 2007-05-06
 in_force: 2008-01-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/III-B.3.1"
-pdf: "https://gesetze.gl.ch/api/de/versions/1630/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2353/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/1630/pdf_file"
 
 (Beurkundungsgesetz)
 
-Vom 06.05.2007 (Stand 01.09.2014)
+Vom 06.05.2007 (Stand 01.01.2023)
 
 (Erlassen von der Landsgemeinde am 6. Mai 2007)
 
@@ -113,9 +113,11 @@ Vom 06.05.2007 (Stand 01.09.2014)
 
 **Pflicht zur Verschwiegenheit**
 
-<sup>1</sup> Die Urkundspersonen sowie ihre Mitarbeitenden und Hilfspersonen sind zur Verschwiegenheit über jene Tatsachen verpflichtet, die sie im Zusammenhang mit der Vorbereitung und Vornahme von Beurkundungen erfahren.
+<sup>1</sup> Die Urkundspersonen sowie ihre Mitarbeitenden und Hilfspersonen sind zur Verschwiegenheit über jene Tatsachen verpflichtet, die sie im Zusammenhang mit der Vorbereitung und Vornahme von Beurkundungen erfahren. Die Bestimmungen über den informationsrechtlichen Zugang zu amtlichen Dokumenten nach dem Gesetz über die Information der Öffentlichkeit, den Datenschutz und das Archivwesen[^9-1] finden keine Anwendung.
 
 <sup>2</sup> Von der Urkundsperson erstellte Urkunden sowie Wiedergaben aller Art dürfen nur den dazu Berechtigten herausgegeben werden.
+
+[^9-1]: GS [I F/1](https://gesetze.gl.ch/data/I-F.1/de)
 
 #### Art. 10
 
