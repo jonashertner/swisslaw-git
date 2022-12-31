@@ -4,13 +4,13 @@ number: "721.1"
 title: Ordonnance sur les constructions
 short: OC
 language: fr
-version: 2022-11-01
-valid_until: 2022-12-31
-version_adopted: 2022-09-14
+version: 2023-01-01
+valid_until: 2023-03-31
+version_adopted: 2022-11-16
 adopted: 1985-03-06
 in_force: 1986-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/721.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2671/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2716/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2671/pdf_file"
 
 (OC)
 
-du 06.03.1985 (état au 01.11.2022)
+du 06.03.1985 (état au 01.01.2023)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -961,6 +961,24 @@ arrête:
 - b le financement de mesures destinées à décharger du trafic privé les centre-ville et les quartiers périphériques notamment, ou à promouvoir les transports publics.
 
 <sup>3</sup> L'organe de la commune compétent en matière financière décide de cas en cas de l'affectation du produit de la taxe.
+
+#### Art. 56a
+
+**Niveau d'équipement des infrastructures de recharge des véhicules électriques**
+
+<sup>1</sup> Les exigences relatives aux niveaux d'équipement pour les véhicules électriques dans les nouvelles constructions au sens de l'article 1, alinéa 2 de l'ordonnance cantonale du 26 octobre 2011 sur l'énergie (OCEn)[^56a-1] sont régies par le cahier technique SIA 2060 «Infrastructure pour véhicules électriques dans les bâtiments» (édition 2020).[^56a-2]
+
+<sup>2</sup> Le dimensionnement de la puissance de raccordement indiqué dans le cahier technique SIA 2060 pour les différents niveaux d'équipement ne revêt pas de caractère contraignant.
+
+<sup>3</sup> Lors de la construction de nouvelles habitations, il faut prévoir
+
+- a le niveau d'équipement A pour toutes les places de stationnement des habitations individuelles,
+- b le niveau d'équipement C1 pour toutes les places de stationnement des habitations collectives.
+
+<sup>4</sup> Lors de la construction de nouveaux bâtiments de la catégorie «Autres affectations» selon l'article 52 ainsi que pour les parkings couverts publics, il faut prévoir des bornes de recharge prêtes à fonctionner conformément au niveau d'équipement D pour au moins 20 pour cent des places de stationnement, mais pour au minimum une place de stationnement. Pour les autres places de stationnement, il faut prévoir le niveau d’équipement A.
+
+[^56a-1]: RSB [741.111](https://www.belex.sites.be.ch/data/741.111/fr)
+[^56a-2]: SN 292 2060
 
 ## 9 Sécurité
 

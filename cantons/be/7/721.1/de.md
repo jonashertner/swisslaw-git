@@ -4,13 +4,13 @@ number: "721.1"
 title: Bauverordnung
 short: BauV
 language: de
-version: 2022-11-01
-valid_until: 2022-12-31
-version_adopted: 2022-09-14
+version: 2023-01-01
+valid_until: 2023-03-31
+version_adopted: 2022-11-16
 adopted: 1985-03-06
 in_force: 1986-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/721.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2671/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2716/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2671/pdf_file"
 
 (BauV)
 
-vom 06.03.1985 (Stand 01.11.2022)
+vom 06.03.1985 (Stand 01.01.2023)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -979,6 +979,24 @@ beschliesst:
 - b zur Finanzierung von Massnahmen, welche die Entlastung insbesondere der Innenstadt und von Aussenquartieren vom Privatverkehr bezwecken oder den öffentlichen Verkehr fördern.
 
 <sup>3</sup> Über die Verwendung der Ersatzabgabe im Einzelfall befindet das finanzkompetente Organ der Gemeinde.
+
+#### Art. 56a
+
+**Ausbaustandard der Ladeinfrastruktur für Elektrofahrzeuge**
+
+<sup>1</sup> Die Anforderungen für die Ausbaustufe für Elektrofahrzeuge bei Neubauten im Sinne von Artikel 1 Absatz 2 der Kantonalen Energieverordnung vom 26. Oktober 2011 (KEnV)[^56a-1] richten sich nach dem SIA-Merkblatt 2060 «Infrastruktur für Elektrofahrzeuge in Gebäuden», Ausgabe 2020.[^56a-2]
+
+<sup>2</sup> Die Dimensionierung der Anschlussleistung für die entsprechenden Ausbaustufen gemäss SIA-Merkblatt 2060 ist nicht bindend.
+
+<sup>3</sup> Beim Bau von neuen Wohngebäuden sind vorzusehen:
+
+- a für Einfamilienhäuser die Ausbaustufe «A» für alle Parkplätze,
+- b für Mehrfamilienhäuser die Ausbaustufe «C1» für alle Parkplätze.
+
+<sup>4</sup> Bei Neubauten von Gebäuden der Kategorie «übrige Nutzungen» nach Artikel 52 sowie für öffentliche Parkhäuser sind bei mindestens 20 Prozent der Parkplätze, jedoch bei mindestens einem Parkplatz, betriebsbereite Ladestationen gemäss Ausbaustufe «D» vorzusehen. Für die übrigen Parkplätze ist die Ausbaustufe "A" vorzusehen.
+
+[^56a-1]: BSG [741.111](https://www.belex.sites.be.ch/data/741.111/de)
+[^56a-2]: SN 292 2060
 
 ## 9 Sicherheit
 
