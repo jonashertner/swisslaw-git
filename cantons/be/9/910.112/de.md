@@ -4,13 +4,13 @@ number: "910.112"
 title: Verordnung über die Erhaltung der Lebensgrundlagen und der Kulturlandschaft
 short: ELKV
 language: de
-version: 2020-11-01
-valid_until: 2022-12-31
-version_adopted: 2020-09-09
+version: 2023-01-01
+valid_until: 2023-02-28
+version_adopted: 2022-10-19
 adopted: 1997-11-05
 in_force: 1998-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/910.112"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2015/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2701/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2015/pdf_file"
 
 (ELKV)
 
-vom 05.11.1997 (Stand 01.11.2020)
+vom 05.11.1997 (Stand 01.01.2023)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -472,7 +472,7 @@ beschliesst:
   - 2 weitere Zone, in der nur Drohnenvölker der von der Belegstation definierten Rassenlinien zugelassen sind;
 - b um B-Belegstationen eine Schutzzone errichtet wird, in der nur Bienenvölker der gleichen Rasse wie diejenige der Belegstation zugelassen sind.
 
-<sup>3</sup> Die Fachstelle Bienen veröffentlicht Schutzmassnahmen im Amtsblatt und im jeweiligen Amtsanzeiger.
+<sup>3</sup> Die Fachstelle Bienen veröffentlicht Schutzmassnahmen im Amtsblatt und im amtlichen Publikationsorgan der Gemeinde.
 
 #### Art. 26d
 

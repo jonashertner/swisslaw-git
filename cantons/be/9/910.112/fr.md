@@ -4,13 +4,13 @@ number: "910.112"
 title: "Ordonnance sur la préservation des bases naturelles de la vie et des paysages *"
 short: OPBNP
 language: fr
-version: 2020-11-01
-valid_until: 2022-12-31
-version_adopted: 2020-09-09
+version: 2023-01-01
+valid_until: 2023-02-28
+version_adopted: 2022-10-19
 adopted: 1997-11-05
 in_force: 1998-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/910.112"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2015/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2701/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2015/pdf_file"
 
 (OPBNP)
 
-du 05.11.1997 (état au 01.11.2020)
+du 05.11.1997 (état au 01.01.2023)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -467,7 +467,7 @@ arrête:
   - 2 dans la seconde zone, seules les colonies de faux-bourdons des lignées de race définies par la station sont admises.
 - b Autour des stations de fécondation B est établie une zone de protection où seules des colonies d'abeilles de même race que celle de la station sont admises.
 
-<sup>3</sup> Le Service de l'apiculture publie ses mesures de protection dans la Feuille officielle cantonale et la Feuille officielle d'avis correspondante.
+<sup>3</sup> Le Service de l'apiculture communique ses mesures de protection dans la Feuille officielle cantonale et dans l'organe de publication officiel de la commune.
 
 #### Art. 26d
 
