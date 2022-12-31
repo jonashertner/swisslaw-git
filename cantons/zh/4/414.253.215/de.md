@@ -3,11 +3,10 @@ canton: ZH
 number: "414.253.215"
 title: Studienordnung für den Europäischen Masterstudiengang in Ergotherapie an der Zürcher Hochschule für Angewandte Wissenschaften
 language: de
-version: "2022-10-01"
-nachtrag: "118"
-valid_until: 2023-01-01
+version: "2023-01-01"
+nachtrag: "119"
 adopted: 2013-09-26
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_215-2013_09_26-2014_01_01-118.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_215-2013_09_26-2014_01_01-119.html"
 text: pdf
 ---
 
@@ -25,11 +24,11 @@ beschliesst:
 
 [^t-1]: OS 68, 440; Begründung siehe ABl 2013-10-11. Vom Fachhochschulrat genehmigt am 1. Oktober 2013.
 [^t-2]: Inkrafttreten: 1. Januar 2014.
-[^t-3]: LS 414.252.3. 1.10. 22 - 118 3
+[^t-3]: LS 414.252.3. 1. 1. 23 - 119 3
 
 ### A. Allgemeine Bestimmungen
 
-[^hAAllgemeineBestim-1]: LS 414.252.3. 1.10. 22 - 118 3
+[^hAAllgemeineBestim-1]: LS 414.252.3. 1. 1. 23 - 119 3
 
 #### § 1
 
@@ -51,7 +50,7 @@ beschliesst:
 
 **1**
 
-1.10. 22 - 118 § 3. <sup>1</sup> Der Europäische Masterstudiengang in Ergotherapie wird als Teilzeitstudium angeboten.
+- 1\. 1. 23 - 119 § 3. <sup>1</sup> Der Europäische Masterstudiengang in Ergotherapie wird als Teilzeitstudium angeboten.
 
 **Studienform und Studiendauer**
 
@@ -127,19 +126,18 @@ Das Studium gilt als bestanden, wenn a. alle im Anhang vorgeschriebenen Module b
 
 - b. 90 Credits erreicht sind.
 
-#### § 14
-
 **Titel**
 
-Der Europäische Masterstudiengang wird mit dem Titel «Europäischer Master of Science ZFH in Ergotherapie» abgeschlossen.
+§ 14.[^13-1] Der Europäische Masterstudiengang wird mit dem Titel «Europäischer Master of Science ZHAW in Ergotherapie» abgeschlossen.
 
-[^14-1]: LS 414.252.3. 1.10. 22 - 118 3
+[^13-1]: Fassung gemäss B vom 2. Juni 2022 (OS 77, 428; ABl 2022-08-19). In Kraft seit 1. Januar 2023.
+[^13-2]: LS 414.252.3. 1. 1. 23 - 119 3
 
 #### § 15
 
 **Abschlussprädikat**
 
-Beim Abschluss des Studiums wird keine Abschlussnote bestimmt. Eine ECTS-Einstufungstabelle gemäss § 57 RPO[^14-1] wird nicht erstellt. Als Abschlussbewertung wird im Diplomzeugnis das Prädikat «bestanden» ausgewiesen.
+Beim Abschluss des Studiums wird keine Abschlussnote bestimmt. Eine ECTS-Einstufungstabelle gemäss § 57 RPO[^13-2] wird nicht erstellt. Als Abschlussbewertung wird im Diplomzeugnis das Prädikat «bestanden» ausgewiesen.
 
 [^15-1]: Fassung gemäss B vom 2. Juni 2022 (OS 77, 428; ABl 2022-08-19). In Kraft seit 1. Oktober 2022.
 
@@ -155,4 +153,4 @@ bezogen oder unter www.zhaw.ch eingesehen werden.
 
 **5**
 
-1.10. 22 - 118
+- 1\. 1. 23 - 119
