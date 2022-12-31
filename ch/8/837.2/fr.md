@@ -4,11 +4,11 @@ title: Loi fédérale du 19 juin 2020 sur les prestations transitoires pour les 
 short: LPtra
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/373"
 language: fr
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2020-06-19
 in_force: 2021-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/373/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2021-373-20220101-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/373/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/373/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2021-373-20230101-fr-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/373/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/373/20220101/fr"
 
 (LPtra)
 
-du 19 juin 2020 (Etat le 1<sup>er</sup> janvier 2022)
+du 19 juin 2020 (État le 1<sup>er</sup> janvier 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -157,31 +157,31 @@ Les dépenses reconnues comprennent:
 
   les montants destinés à la couverture des besoins vitaux, soit par année:
 
-  - 1\. 19 610 francs pour les personnes seules,
-  - 2\. 29 415 francs pour les couples,
-  - 3\. 10 260 francs pour les enfants mineurs âgés de 11 ans ou plus et pour les enfants encore en formation âgés de moins de 25 ans, la totalité du montant déterminant étant prise en compte pour les deux premiers enfants, les deux tiers pour deux autres enfants et un tiers pour chacun des enfants suivants,
-  - 4\. 7200 francs pour les enfants âgés de moins de 11 ans; ce montant est applicable au premier enfant; le montant applicable à chaque enfant supplémentaire est obtenu par réduction d’un sixième du montant applicable à l’enfant qui précède; le montant pour le cinquième enfant s’applique aussi aux enfants suivants;
+  - 1\. 20 100 francs pour les personnes seules,
+  - 2\. 30 150 francs pour les couples,
+  - 3\. 10 515 francs pour les enfants mineurs âgés de 11 ans ou plus et pour les enfants encore en formation âgés de moins de 25 ans, la totalité du montant déterminant étant prise en compte pour les deux premiers enfants, les deux tiers pour deux autres enfants et un tiers pour chacun des enfants suivants,
+  - 4\. 7380 francs pour les enfants âgés de moins de 11 ans; ce montant est applicable au premier enfant; le montant applicable à chaque enfant supplémentaire est obtenu par réduction d’un sixième du montant applicable à l’enfant qui précède; le montant pour le cinquième enfant s’applique aussi aux enfants suivants;
 
-- b.
+- b.[^9-2]
 
   le loyer d’un appartement et les frais accessoires y relatifs; en cas de présentation d’un décompte final des frais accessoires, ni demande de restitution, ni paiement rétroactif ne peuvent être pris en considération; le montant annuel maximal reconnu est de:
 
-  - 1\. pour une personne vivant seule: 16 440 francs dans la région 1, 15 900 francs dans la région 2 et 14 520 francs dans la région 3,
+  - 1\. pour une personne vivant seule: 17 580 francs dans la région 1, 17 040 francs dans la région 2 et 15 540 francs dans la région 3,
   - 2\.
 
     si plusieurs personnes vivent dans le même ménage:
 
-    - – pour la deuxième personne: un supplément de 3000 francs dans chacune des trois régions
-    - – pour la troisième personne: un supplément de 2160 francs dans la région 1 et de 1800 francs dans les régions 2 et 3
-    - – pour la quatrième personne: un supplément de 1920 francs dans la région 1, de 1800 francs dans la région 2 et de 1560 francs dans la région 3,
+    - – pour la deuxième personne: un supplément de 3240 francs dans la région 1, de 3180 francs dans la région 2 et de 3240 francs dans la région 3
+    - – pour la troisième personne: un supplément de 2280 francs dans la région 1 et de 1920 francs dans les régions 2 et 3
+    - – pour la quatrième personne: un supplément de 2100 francs dans la région 1, de 1980 francs dans la région 2 et de 1680 francs dans la région 3,
 
-  - 3\. 6000 francs supplémentaires si la location d’un appartement permettant la circulation d’une chaise roulante est nécessaire;
+  - 3\. 6420 francs supplémentaires si la location d’un appartement permettant la circulation d’une chaise roulante est nécessaire;
 
 - c. la valeur locative, en lieu et place du loyer, pour les personnes qui habitent dans un immeuble sur lequel elles ou une autre personne comprise dans le calcul des prestations transitoires ont un droit de propriété, un usufruit ou un droit d’habitation; la let. b est applicable par analogie;
 - d. les frais d’obtention du revenu, jusqu’à concurrence du revenu brut de l’activité lucrative;
 - e. les frais d’entretien des bâtiments et les intérêts hypothécaires jusqu’à concurrence du rendement brut de l’immeuble;
 - f. les cotisations aux assurances sociales de la Confédération, y compris les cotisations à la prévoyance professionnelle, à l’exclusion des primes d’assurance-maladie;
-- g. en cas d’assurance facultative, les contributions aux coûts du risque et aux frais administratifs ainsi que les éventuelles contributions d’assainissement au titre de la prévoyance professionnelle visées à l’art. 47 et 47*a* LPP[^9-2];
+- g. en cas d’assurance facultative, les contributions aux coûts du risque et aux frais administratifs ainsi que les éventuelles contributions d’assainissement au titre de la prévoyance professionnelle visées à l’art. 47 et 47*a* LPP[^9-3];
 - h. le montant pour l’assurance obligatoire des soins; il consiste en un montant forfaitaire annuel qui correspond au montant de la prime moyenne cantonale ou régionale pour l’assurance obligatoire des soins (couverture accidents comprise), mais qui n’excède pas celui de la prime effective;
 - i. les contributions d’entretien versées en vertu du droit de la famille.
 
@@ -202,8 +202,9 @@ Pour les personnes vivant en communauté d’habitation, lorsqu’il n’y a pas
 
 <sup>7</sup> Le Conseil fédéral examine au moins tous les dix ans si et dans quelle mesure les montants maximaux couvrent le loyer effectif des bénéficiaires de prestations transitoires et rend publics les résultats de son examen. Il procède à cet examen et à la publication plus tôt si l’indice des loyers a évolué de plus de 10 % depuis le dernier examen.
 
-[^9-1]: Montants mis à jour par l’art. 1 de l’O 21 du 14 oct. 2020 concernant les adaptations dans le régime des prestations complémentaires à l’AVS/AI et dans celui des prestations transitoires pour les chômeurs âgés, dans la version de l’O du 11 juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2020 4619](https://fedlex.data.admin.ch/eli/oc/2020/823); [2021 376](https://fedlex.data.admin.ch/eli/oc/2021/376)annexe ch. 2).
-[^9-2]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^9-1]: Montants mis à jour par l’art. 1 de l’O 23 du 12 oct. 2022 concernant les adaptations dans le régime des prestations complémentaires à l’AVS/AI et dans celui des prestations transitoires pour les chômeurs âgés, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 608](https://fedlex.data.admin.ch/eli/oc/2022/608)).
+[^9-2]: Montants mis à jour par l’art. 2 de l’O 23 du 12 oct. 2022 concernant les adaptations dans le régime des prestations complémentaires à l’AVS/AI et dans celui des prestations transitoires pour les chômeurs âgés, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 608](https://fedlex.data.admin.ch/eli/oc/2022/608)).
+[^9-3]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
 
 #### Art. 10
 
@@ -369,7 +370,7 @@ Sont applicables par analogie les dispositions de la LAVS[^20-1], y compris lors
 - f. les mesures de précaution: art. 50*g* LAVS.
 - [tab] <sup>2</sup> Les organes visés à l’art. 19, al. 1, ont accès en ligne au registre central des prestations en cours de la Centrale de compensation (art. 50*b* LAVS).
 
-[^20-1]: RS **83****1.10**
+[^20-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 [^20-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^20-3]: Voir actuellement l’art. 49*b*.
 

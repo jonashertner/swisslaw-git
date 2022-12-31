@@ -4,11 +4,11 @@ title: Legge federale del 19 giugno 2020 sulle prestazioni transitorie per i dis
 short: LPTD
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/373"
 language: it
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2020-06-19
 in_force: 2021-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/373/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2021-373-20220101-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/373/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/373/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2021-373-20230101-it-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/373/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/373/20220101/it"
 
 (LPTD)
 
-del 19 giugno 2020 (Stato 1° gennaio 2022)
+del 19 giugno 2020 (Stato 1° gennaio 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -157,31 +157,31 @@ Sono riconosciute le spese seguenti:
 
   un importo destinato alla copertura del fabbisogno generale vitale, per anno:
 
-  - 1\. 19 610 franchi per le persone sole,
-  - 2\. 29 415 franchi per le coppie sposate,
-  - 3\. 10 260 franchi per i figli che hanno compiuto gli 11 anni di età ma sono ancora minorenni e quelli di età inferiore a 25 anni ancora in formazione; per i primi due figli si prende in considerazione la totalità dell’importo determinante, per i due figli successivi due terzi ciascuno e per ogni altro figlio un terzo,
-  - 4\. 7200 franchi per i figli che non hanno ancora compiuto gli 11 anni di età; per il primo figlio si prende in considerazione la totalità dell’importo determinante, per ogni altro figlio l’importo si riduce di un sesto dell’importo applicabile al figlio precedente; l’importo per il quinto figlio si applica anche ai figli successivi;
+  - 1\. 20 100 franchi per le persone sole,
+  - 2\. 30 150 franchi per le coppie sposate,
+  - 3\. 10 515 franchi per i figli che hanno compiuto gli 11 anni di età ma sono ancora minorenni e quelli di età inferiore a 25 anni ancora in formazione; per i primi due figli si prende in considerazione la totalità dell’importo determinante, per i due figli successivi due terzi ciascuno e per ogni altro figlio un terzo,
+  - 4\. 7380 franchi per i figli che non hanno ancora compiuto gli 11 anni di età; per il primo figlio si prende in considerazione la totalità dell’importo determinante, per ogni altro figlio l’importo si riduce di un sesto dell’importo applicabile al figlio precedente; l’importo per il quinto figlio si applica anche ai figli successivi;
 
-- b.
+- b.[^9-2]
 
   la pigione di un appartamento e le relative spese accessorie; in caso di conguaglio per le spese accessorie, non si tiene conto né del saldo attivo né di quello passivo; l’importo massimo annuo riconosciuto è il seguente:
 
-  - 1\. 16 440 franchi nella regione 1, 15 900 franchi nella regione 2 e 14 520 franchi nella regione 3 per le persone che vivono sole,
+  - 1\. 17 580 franchi nella regione 1, 17 040 franchi nella regione 2 e 15 540 franchi nella regione 3 per le persone che vivono sole,
   - 2\.
 
     se più persone vivono nella stessa economia domestica, un supplemento di:
 
-    - – 3000 franchi in tutte e tre le regioni per la seconda persona
-    - – 2160 franchi nella regione 1 e 1800 franchi nelle regioni 2 e 3 per la terza persona
-    - – 1920 franchi nella regione 1, 1800 franchi nella regione 2 e 1560 franchi nella regione 3 per la quarta persona,
+    - – 3240 franchi nella regione 1, 3180 franchi nella regione 2 e 3240 franchi nella regione 3 per la seconda persona
+    - – 2280 franchi nella regione 1 e 1920 franchi nelle regioni 2 e 3 per la terza persona
+    - – 2100 franchi nella regione 1, 1980 franchi nella regione 2 e 1680 franchi nella regione 3 per la quarta persona,
 
-  - 3\. 6000 franchi in più se è necessaria la locazione di un appartamento in cui è possibile spostarsi con una carrozzella;
+  - 3\. 6420 franchi in più se è necessaria la locazione di un appartamento in cui è possibile spostarsi con una carrozzella;
 
 - c. in luogo della pigione, il valore locativo dell’immobile nel caso di persone che abitano un immobile di cui esse stesse o un’altra persona compresa nel calcolo della prestazione transitoria sono proprietarie, usufruttuarie o sul quale hanno un diritto d’abitazione; la lettera b si applica per analogia;
 - d. le spese per il conseguimento del reddito, fino a concorrenza del reddito lordo dell’attività lucrativa;
 - e. le spese di manutenzione di fabbricati e gli interessi ipotecari, fino a concorrenza del ricavo lordo dell’immobile;
 - f. i premi versati alle assicurazioni sociali della Confederazione, inclusi i contributi alla previdenza professionale ed eccettuato il premio per l’assicurazione malattie;
-- g. in caso di assicurazione facoltativa alla previdenza professionale, i contributi di rischio e i contributi alle spese di amministrazione nonché eventuali contributi di risanamento versati alla previdenza professionale conformemente agli articoli 47 e 47*a* LPP[^9-2];
+- g. in caso di assicurazione facoltativa alla previdenza professionale, i contributi di rischio e i contributi alle spese di amministrazione nonché eventuali contributi di risanamento versati alla previdenza professionale conformemente agli articoli 47 e 47*a* LPP[^9-3];
 - h. l’importo forfettario annuo per l’assicurazione obbligatoria delle cure medico-sanitarie; esso corrisponde al premio medio cantonale o regionale per l’assicurazione obbligatoria delle cure medico-sanitarie, compresa la copertura infortuni, ma al massimo al premio effettivo;
 - i. le pensioni alimentari versate in virtù del diritto di famiglia.
 
@@ -202,8 +202,9 @@ Per le persone che condividono l’alloggio e per le quali non è effettuato un 
 
 <sup>7</sup> Il Consiglio federale verifica almeno ogni dieci anni se e in che misura gli importi massimi coprono le pigioni effettive dei beneficiari di prestazioni transitorie e pubblica i risultati del suo esame. Anticipa l’esame e la pubblicazione se l’indice delle pigioni ha subito una variazione di oltre il 10 per cento dall’ultimo esame.
 
-[^9-1]: Importi adeguati dall’art. 1 dell’O 21 del 14 ott. 2020 sull’adeguamento delle prestazioni complementari all’AVS/AI e delle prestazioni transitorie per i disoccupati anziani, nel testo dell’O dell’11 giu. 2021, in vigore dal 1° lug. 2021 ([RU 2020 4619](https://fedlex.data.admin.ch/eli/oc/2020/823); [2021 376](https://fedlex.data.admin.ch/eli/oc/2021/376)all. n. 2).
-[^9-2]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^9-1]: Importi adeguati dall’art. 1 dell’O 23 del 12 ott. 2022 sull’adeguamento delle prestazioni complementari all’AVS/AI e delle prestazioni transitorie per i disoccupati anziani, in vigore dal 1° gen. 2023 ([RU 2022 608](https://fedlex.data.admin.ch/eli/oc/2022/608)).
+[^9-2]: Importi adeguati dall’art. 2 dell’O 23 del 12 ott. 2022 sull’adeguamento delle prestazioni complementari all’AVS/AI e delle prestazioni transitorie per i disoccupati anziani, in vigore dal 1° gen. 2023 ([RU 2022 608](https://fedlex.data.admin.ch/eli/oc/2022/608)).
+[^9-3]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
 
 #### Art. 10
 
