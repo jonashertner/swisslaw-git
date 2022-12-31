@@ -4,13 +4,12 @@ number: "187.13"
 title: Verordnung der Evangelischen Synode des Kantons Thurgau über die Rechtspflege der Thurgauischen Landeskirche
 short: Rechtspflegeverordnung
 language: de
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-07-05
+version: 2023-01-01
+version_adopted: 2022-06-27
 adopted: 2003-06-23
 in_force: 2004-06-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/187.13"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2420/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2604/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,9 @@ pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2420/pdf_file"
 
 Rechtspflegeverordnung
 
-vom 23.06.2003 (Stand 01.01.2022)
+(Rechtspflegeverordnung)
+
+vom 23.06.2003 (Stand 01.01.2023)
 
 ## 1. Geltungsbereich und Begriffe
 
@@ -174,7 +175,7 @@ vom 23.06.2003 (Stand 01.01.2022)
 
 <sup>2</sup> In Siebenerbesetzung wählt sie den Vizepräsidenten oder die Vizepräsidentin sowie den Aktuar oder die Aktuarin.
 
-<sup>3</sup> Mitglieder einer Aufsichtskommission sind nicht in die Rekurs- und Beschwerdekommission wählbar.
+<sup>3</sup> …
 
 [^16-1]: RB [187.11](https://www.rechtsbuch.tg.ch/data/187.11/de)
 
