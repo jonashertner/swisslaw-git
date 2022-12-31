@@ -3,20 +3,20 @@ sr: "910.181"
 title: Verordnung des WBF vom 22. September 1997 über die biologische Landwirtschaft
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/2519_2519_2519"
 language: de
-version: 2022-01-01
+version: 2023-01-01
 adopted: 1997-09-22
 in_force: 1998-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2519_2519_2519/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1997-2519_2519_2519-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/2519_2519_2519/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2519_2519_2519/20230101/de/xml/fedlex-data-admin-ch-eli-cc-1997-2519_2519_2519-20230101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/2519_2519_2519/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des WBF über die biologische Landwirtschaft
 
-vom 22. September 1997 (Stand am 1. Januar 2022)
+vom 22. September 1997 (Stand am 1. Januar 2023)
 
-Das Eidgenössische Departement für Wirtschaft, Bildung und Forschung (WBF)*[^ingress-1]*,
+Das Eidgenössische Departement für Wirtschaft, Bildung und Forschung (WBF)[^ingress-1],
 
 gestützt auf die Artikel 11 Absatz 2, 12 Absatz 2, 13 Absatz 3<sup>bis</sup>, 15 Absatz 2, 16*a* Absätze 1–4, 16*h*, 16*k* Absätze 1 und 2<sup>bis</sup>, 16*n* Absatz 1, 17 Absatz 2, 23 Absatz 1, 23*a* Absatz 1, 30*d* Absatz 3 und 33*a* Absatz 3 der Bio-Verordnung vom 22. September 1997[^ingress-2], im Einvernehmen mit dem Eidgenössischen Departement des Innern (EDI),[^ingress-3]
 
@@ -26,7 +26,7 @@ verordnet:
 [^ingress-2]: [SR 910.18](https://fedlex.data.admin.ch/eli/cc/1997/2498_2498_2498)
 [^ingress-3]: Fassung gemäss Ziff. I der V des WBF vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6349](https://fedlex.data.admin.ch/eli/oc/2017/706)).
 
-## 1. Abschnitt: Allgemeine Bestimmungen****
+## 1. Abschnitt: Allgemeine Bestimmungen
 
 [^sec1-1]
 
@@ -58,7 +58,7 @@ Für die Verarbeitung von Lebensmitteln, ausgenommen Hefe und Wein, dürfen verw
 
 - a.[^3-3] Erzeugnisse und Stoffe nach Anhang 3;
 - b. Zubereitungen aus Mikroorganismen und Enzymen, die üblicherweise bei der Lebensmittelherstellung verwendet werden; Enzyme, die als Lebensmittelzusatzstoffe verwendet werden sollen, müssen in Anhang 3 Teil A aufgeführt sein;
-- c.[^3-4] Erzeugnisse und Stoffe nach Artikel 2 Absatz 1 Buchstaben b und c der Aromenverordnung vom 16. Dezember 2016[^3-5], die nach Artikel 10 der Aromenverordnung als «natürlicher Aromastoff» oder als «Aromaextrakt» gekennzeichnet sind;
+- c.[^3-4] Erzeugnisse und Stoffe nach Artikel 2 Absatz 1 Buchstaben b und c Ziffer 1 der Aromenverordnung vom 16. Dezember 2016[^3-5], die nach Artikel 10 Buchstaben a–c der Aromenverordnung als Aromaextrakte oder natürliche Aromastoffe gekennzeichnet sind;
 - d. Trinkwasser und Salze (hauptsächlich aus Natrium- oder Kaliumchlorid), die im Allgemeinen bei der Lebensmittelverarbeitung verwendet werden;
 - e.[^3-6]
 
@@ -79,7 +79,7 @@ Zur Berechnung für die Zwecke von Artikel 18 Absatz 1 Buchstabe b der Bio-Veror
 [^3-1]: Fassung gemäss Ziff. I der V des WBF vom 18. Nov. 2009, in Kraft seit 1. Jan. 2010 ([AS 2009 6337](https://fedlex.data.admin.ch/eli/oc/2009/771)).
 [^3-2]: Fassung gemäss Ziff. I der V des WBF vom 31. Okt. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6357](https://fedlex.data.admin.ch/eli/oc/2012/757)).
 [^3-3]: Fassung gemäss Ziff. I der V des WBF vom 31. Okt. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6357](https://fedlex.data.admin.ch/eli/oc/2012/757)).
-[^3-4]: Fassung gemäss Ziff. I der V des WBF vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6349](https://fedlex.data.admin.ch/eli/oc/2017/706)).
+[^3-4]: Fassung gemäss Ziff. I der V des WBF vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 733](https://fedlex.data.admin.ch/eli/oc/2022/733)).
 [^3-5]: [SR 817.022.41](https://fedlex.data.admin.ch/eli/cc/2017/182)
 [^3-6]: Fassung gemäss Ziff. I der V des WBF vom 23. Okt. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 3591](https://fedlex.data.admin.ch/eli/oc/2019/659)).
 [^3-7]: [SR 817.022.14](https://fedlex.data.admin.ch/eli/cc/2017/155)
@@ -96,11 +96,12 @@ Für die Herstellung, Zubereitung und Formulierung von biologischer Hefe dürfen
 - a.[^3a-3] Stoffe nach Anhang 3*a*;
 - b. Erzeugnisse und Stoffe nach Artikel 3 Absatz 1 Buchstaben b und d.
 
-<sup>2</sup> Das Hinzufügen von bis zu 5 Prozent nicht biologischem Hefeextrakt oder ‑autolysat, berechnet in Trockenmasse für die Herstellung von biologischer Hefe ist erlaubt, wenn nachweislich kein Hefeextrakt oder -autolysat aus biologischer Erzeugung erhältlich ist.
+<sup>2</sup> …[^3a-4]
 
 [^3a-1]: Eingefügt durch Ziff. I der V des WBF vom 18. Nov. 2009, in Kraft seit 1. Jan. 2010 ([AS 2009 6337](https://fedlex.data.admin.ch/eli/oc/2009/771)).
 [^3a-2]: Fassung gemäss Ziff. I der V des WBF vom 31. Okt. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6357](https://fedlex.data.admin.ch/eli/oc/2012/757)).
 [^3a-3]: Fassung gemäss Ziff. I der V des WBF vom 31. Okt. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6357](https://fedlex.data.admin.ch/eli/oc/2012/757)).
+[^3a-4]: Aufgehoben durch Ziff. I der V des WBF vom 2. Nov. 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 733](https://fedlex.data.admin.ch/eli/oc/2022/733)).
 
 #### Art. 3b
 
@@ -118,6 +119,15 @@ Für die Herstellung von Wein dürfen nur Erzeugnisse und Stoffe nach Anhang V T
 Zulässig sind die önologischen Verfahren und Behandlungen nach Anhang II Teil VI Ziffer 3 der Verordnung (EU) 2018/848 in der Fassung gemäss Anhang 3*b*.
 
 [^3c-1]: Eingefügt durch Ziff. I der V des WBF vom 31. Okt. 2012 ([AS 2012 6357](https://fedlex.data.admin.ch/eli/oc/2012/757)). Fassung gemäss Ziff. I der V des WBF vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 683](https://fedlex.data.admin.ch/eli/oc/2021/683)).
+
+#### Art. 3d
+
+**Verfahren und Behandlungen für die Herstellung verarbeiteter biologischer Lebensmittel**[^3d-1]
+
+Ionenaustausch- und Adsorptionsharzverfahren sind nur bei der Aufbereitung von Lebensmitteln für Personen mit besonderem Ernährungsbedarf nach Artikel 2 Buchstaben a–c VLBE[^3d-2] zulässig.
+
+[^3d-1]: Eingefügt durch Ziff. I der V des WBF vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 733](https://fedlex.data.admin.ch/eli/oc/2022/733)).
+[^3d-2]: [SR 817.022.104](https://fedlex.data.admin.ch/eli/cc/2017/180)
 
 #### Art. 4
 
@@ -221,7 +231,7 @@ Die Reinigungs- und Desinfektionsmittel nach Anhang 8 sind in der biologischen N
 
 [^4e-1]: Eingefügt durch Ziff. I der V des WBF vom 29. Okt. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 3979](https://fedlex.data.admin.ch/eli/oc/2014/672)).
 
-## 2. Abschnitt:**** Bestimmungen an die Bienenhaltung und Imkereierzeugnisse
+## 2. Abschnitt: Bestimmungen an die Bienenhaltung und Imkereierzeugnisse
 
 [^sec2-1]
 
@@ -389,7 +399,7 @@ Die Krankheitsvorsorge in der Bienenhaltung beruht auf folgenden Grundsätzen:
 
 <sup>7</sup> Zur Säuberung und Desinfizierung von Materialien, Gebäuden, Einrichtungen, Werkzeug und Erzeugnissen, die in der Bienenzucht verwendet werden, sind nur die in Anhang 8 genannten geeigneten Stoffe zulässig.
 
-## 2*a*. Abschnitt:**** Kontrollbescheinigung für Einfuhren
+## 2*a*. Abschnitt: Kontrollbescheinigung für Einfuhren
 
 [^sec2a-1]
 
@@ -522,7 +532,7 @@ Soll eine Sendung vor der Verzollung einer oder mehreren Aufbereitungen im Sinne
 [^16f-4]: Aufgehoben durch Ziff. I der V des WBF vom 18. Okt. 2017, mit Wirkung seit 1. Jan. 2018 ([AS 2017 6349](https://fedlex.data.admin.ch/eli/oc/2017/706)).
 [^16f-5]: Fassung gemäss Ziff. I der V des WBF vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6349](https://fedlex.data.admin.ch/eli/oc/2017/706)).
 
-## 2*b*. Abschnitt:**** Informationssystem für biologisches Saatgut und vegetatives Vermehrungsmaterial
+## 2*b*. Abschnitt: Informationssystem für biologisches Saatgut und vegetatives Vermehrungsmaterial
 
 [^sec2b-1]
 
@@ -585,7 +595,7 @@ Zu jeder Art, die von einem Nachweisdokument gemäss Artikel 16*k* Absatz 1 betr
 - c. die Gesamtmenge an nicht biologischem Saatgut oder vegetativem Vermehrungsmaterial, das von den Bezügern von Nachweisdokumenten verwendet worden ist;
 - d. die chemische Behandlung aus Gründen der Pflanzengesundheit nach Artikel 13*a* Absatz 6 der Bio-Verordnung.
 
-## 3. Abschnitt:**** Schlussbestimmungen
+## 3. Abschnitt: Schlussbestimmungen
 
 [^sec3-1]
 
@@ -605,7 +615,7 @@ Diese Verordnung tritt am 1. Januar 1998 in Kraft.
 
 [^18-1]: Ursprünglich Art. 5.
 
-## Übergangsbestimmungen der Änderung vom 2. November 2006****
+## Übergangsbestimmungen der Änderung vom 2. November 2006
 
 [^u1-1]
 
@@ -613,13 +623,13 @@ Diese Verordnung tritt am 1. Januar 1998 in Kraft.
 
 Biologische Produkte dürfen noch bis zum 31. Dezember 2007 gemäss den bisherigen Bestimmungen von Anhang 3 Teil A und B hergestellt und abgegeben werden. Am 31. Dezember 2007 vorhandene Bestände dürfen noch bis zu ihrer Erschöpfung abgegeben werden.
 
-## Übergangsbestimmungen zur Änderung vom 1. Dezember 2011****
+## Übergangsbestimmungen zur Änderung vom 1. Dezember 2011
 
 [^u2-1]
 
 [^u2-1]: [AS 2011 5975](https://fedlex.data.admin.ch/eli/oc/2011/826). Aufgehoben durch Ziff. I der V des WBF vom 31. Okt. 2012, mit Wirkung seit 1. Jan. 2013 ([AS 2012 6357](https://fedlex.data.admin.ch/eli/oc/2012/757)).
 
-## Übergangsbestimmungen zur Änderung vom 31. Oktober 2012****
+## Übergangsbestimmungen zur Änderung vom 31. Oktober 2012
 
 [^u3-1]
 
@@ -644,7 +654,7 @@ Biologische Produkte dürfen noch bis zum 31. Dezember 2007 gemäss den bisherig
 [^u3-4]: Eingefügt durch Ziff. I der V des WBF vom 23. Okt. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 3591](https://fedlex.data.admin.ch/eli/oc/2019/659)).
 [^u3-5]: Eingefügt durch Ziff. I der V des WBF vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 683](https://fedlex.data.admin.ch/eli/oc/2021/683)).
 
-## Übergangsbestimmungen zur Änderung vom 1. September 2016****
+## Übergangsbestimmungen zur Änderung vom 1. September 2016
 
 [^u4-1]
 
@@ -663,7 +673,7 @@ Biologische Produkte dürfen noch bis zum 31. Dezember 2007 gemäss den bisherig
 
 [^u4-2]: Eingefügt durch Ziff. I der V des WBF vom 31. Okt. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4367](https://fedlex.data.admin.ch/eli/oc/2018/703)).
 
-## Übergangsbestimmungen zur Änderung vom 3. November 2021****
+## Übergangsbestimmungen zur Änderung vom 3. November 2021
 
 [^u5-1]
 
@@ -677,7 +687,19 @@ Biologische Produkte dürfen noch bis zum 31. Dezember 2007 gemäss den bisherig
 - b. Johannisbrotkernmehl (E 410), Guarkernmehl (E 412), Gummi Arabicum (E 414), Gellan (E 418) und Glycerin (E 422) nach Anhang 3 Teil A aus nicht biologischer Produktion;
 - c. Carnaubawachs für die Aufbereitung von Lebensmitteln pflanzlichen Ursprungs nach Anhang 3 Teil B Ziffer 1 aus biologischen Rohstoffen.
 
-Anhang 1*[^t-1]*
+## Übergangsbestimmungen zur Änderung vom 2. November 2022
+
+[^u6-1]
+
+[^u6-1]: [AS 2022 733](https://fedlex.data.admin.ch/eli/oc/2022/733)
+
+<sup>1</sup> Bis zum 31. Dezember 2023 ist das Hinzufügen von bis zu 5 Prozent nicht biologischem Hefeextrakt oder -autolysat, berechnet in Trockenmasse, für die Herstellung von biologischer Hefe zugelassen, wenn nachweislich kein Hefeextrakt oder -autolysat aus biologischer Erzeugung erhältlich ist.
+
+<sup>2</sup> Soweit es sich nicht um Lebensmittel für Personen mit besonderem Ernährungsbedarf nach Artikel 2 Buchstaben a–c VLBE[^u6-2] handelt, sind Ionenaustausch- und Adsorptionsharzverfahren für die Aufbereitung verarbeiteter biologischer Lebensmittel, noch bis zum 31. Dezember 2024 zugelassen. Am 31. Dezember 2024 vorhandene Bestände dürfen noch bis zu ihrer Erschöpfung abgegeben werden.
+
+[^u6-2]: [SR 817.022.104](https://fedlex.data.admin.ch/eli/cc/2017/180)
+
+Anhang 1[^t-1]
 
 (Art. 1 und 16 Abs. 5)
 
@@ -752,7 +774,7 @@ Sämtliche gelisteten Pflanzenschutzmittel unterliegen den Anwendungsvorschrifte
 <tr><td>Wasserstoffperoxid</td><td></td></tr>
 </table>
 
-Anhang 2*[^t-2]*
+Anhang 2[^t-2]
 
 (Art. 2)
 
@@ -869,7 +891,7 @@ Die Bestimmungen der Dünger-Verordnung vom 10. Januar 2001[^annex2-lvlu1-1] und
 [^annex2-lvlu1-1]: [SR 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)
 [^annex2-lvlu1-2]: [SR 916.171.1](https://fedlex.data.admin.ch/eli/cc/2007/836)
 
-Anhang 3*[^t-3]*
+Anhang 3[^t-3]
 
 (Art. 3)
 
@@ -1029,7 +1051,7 @@ Sämtliche Zusatzstoffe unterliegen den Anwendungseinschränkungen nach der Zusa
 <tr><th>Wildfisch und wild lebende Wassertiere, sowohl unverarbeitet als auch daraus hergestellte Verarbeitungserzeugnisse</th><th>Gewinnung nur aus nachhaltiger Fischerei Nur wenn aus der biologischen Aquakultur gemäss anerkannten internationalen Standards nicht verfügbar</th></tr>
 </table>
 
-Anhang 3a*[^t-4]*
+Anhang 3a[^t-4]
 
 (Art. 3*a*)
 
@@ -1051,31 +1073,31 @@ Anhang 3a*[^t-4]*
 <tr><td>Pflanzenöle</td><td>nur als Schmier- bzw. Trennmittel oder Schaumverhüter zulässig nur aus biologischer Produktion</td><td>nur als Schmier- bzw. Trennmittel oder Schaumverhüter zulässig nur aus biologischer Produktion</td></tr>
 </table>
 
-Anhang 3b*[^t-5]*
+Anhang 3b[^t-5]
 
 (Art. 3*c*)
 
 ## Erlasse der Europäischen Union betreffend biologische Landwirtschaft
 
-[^t-5]: Eingefügt durch Ziff. III Abs. 3 der V des WBF vom 31. Okt. 2012 ([AS 2012 6357](https://fedlex.data.admin.ch/eli/oc/2012/757)). Fassung gemäss Ziff. II Abs. 2 der V des WBF vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 683](https://fedlex.data.admin.ch/eli/oc/2021/683)).
+[^t-5]: Eingefügt durch Ziff. III Abs. 3 der V des WBF vom 31. Okt. 2012 ([AS 2012 6357](https://fedlex.data.admin.ch/eli/oc/2012/757)). Fassung gemäss Ziff. II der V des WBF vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 733](https://fedlex.data.admin.ch/eli/oc/2022/733)).
 
-Verordnung (EU) 2018/848 des Europäischen Parlaments und des Rates vom 30. Mai 2018 über die ökologische/biologische Produktion und die Kennzeichnung von ökologischen/biologischen Erzeugnissen sowie zur Aufhebung der Verordnung (EG) Nr. 834/2007 des Rates, ABl. L 150 vom 14.6.2018, S. 1; zuletzt geändert durch Verordnung (EU) 2020/1693, ABl. L 381 vom 13.11.2020, S. 1.
+Verordnung (EU) 2018/848 des Europäischen Parlaments und des Rates vom 30. Mai 2018 über die ökologische/biologische Produktion und die Kennzeichnung von ökologischen/biologischen Erzeugnissen sowie zur Aufhebung der Verordnung (EG) Nr. 834/2007 des Rates, ABl. L 150 vom 14.6.2018, S. 1; zuletzt geändert durch Delegierte Verordnung (EU) 2022/474, ABl. L 98 vom 25.3.2022, S. 1.
 
-Für die in der Verordnung (EU) 2018/848 angegebene Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 über eine gemeinsame Marktorganisation für landwirtschaftliche Erzeugnisse und zur Aufhebung der Verordnungen (EWG) Nr. 922/72, (EWG) Nr. 234/79, (EG) Nr. 1037/2001 und (EG) Nr. 1234/2007 des Rates gilt die Fassung gemäss ABl. L 347 vom 20.12.2013, S. 671; zuletzt geändert durch Verordnung (EU) 2017/2393, ABl. L 350 vom 29.12.2017, S 15.
+Für die in der Verordnung (EU) 2018/848 angegebene Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 über eine gemeinsame Marktorganisation für landwirtschaftliche Erzeugnisse und zur Aufhebung der Verordnungen (EWG) Nr. 922/72, (EWG) Nr. 234/79, (EG) Nr. 1037/2001 und (EG) Nr. 1234/2007 des Rates gilt die Fassung gemäss ABl. L 347 vom 20.12.2013, S. 671; zuletzt geändert durch Verordnung (EU) 2020/2220, ABl. L 437 vom 28.12.2020, S 1.
 
-Anstelle der in der Verordnung (EU) 2018/848 angegebenen Verordnung (EG) Nr. 606/2009 der Kommission vom 10. Juli 2009 mit Durchführungsbestimmungen zur Verordnung (EG) Nr. 479/2008 des Rates hinsichtlich der Weinbauerzeugniskategorien, der önologischen Verfahren und der diesbezüglichen Einschränkungen gilt die delegierte Verordnung (EU) 2019/934 der Kommission vom 12. März 2019 zur Ergänzung der Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates hinsichtlich der Anbauflächen, auf denen der Alkoholgehalt der Weine erhöht werden darf, der zugelassenen önologischen Verfahren und der Einschränkungen für die Erzeugung und Haltbarmachung von Weinbauerzeugnissen, des Mindestalkoholgehalts von Nebenerzeugnissen und deren Beseitigung sowie der Veröffentlichung von OIV-Dossiers, ABl. L 149 vom 7.6.2019, S. 1; zuletzt geändert durch Verordnung (EU) 2020/565, ABl. L 129 vom 24.4.2020, S 1.
+Anstelle der in der Verordnung (EU) 2018/848 angegebenen Verordnung (EG) Nr. 606/2009 der Kommission vom 10. Juli 2009 mit Durchführungsbestimmungen zur Verordnung (EG) Nr. 479/2008 des Rates hinsichtlich der Weinbauerzeugniskategorien, der önologischen Verfahren und der diesbezüglichen Einschränkungen gilt die Delegierte Verordnung (EU) 2019/934 der Kommission vom 12. März 2019 zur Ergänzung der Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates hinsichtlich der Anbauflächen, auf denen der Alkoholgehalt der Weine erhöht werden darf, der zugelassenen önologischen Verfahren und der Einschränkungen für die Erzeugung und Haltbarmachung von Weinbauerzeugnissen, des Mindestalkoholgehalts von Nebenerzeugnissen und deren Beseitigung sowie der Veröffentlichung von OIV-Dossiers, ABl. L 149 vom 7.6.2019, S. 1; zuletzt geändert durch Delegierte Verordnung (EU) 2022/68, ABl. L 12 vom 19.1.2022, S 1.
 
-Anstelle der in der Verordnung (EU) 2018/848 angegebenen Verordnung (EG) Nr. 1234/2007 des Rates vom 22. Oktober 2007 über eine gemeinsame Organisation der Agrarmärkte und mit Sondervorschriften für bestimmte landwirtschaftliche Erzeugnisse (Verordnung über die einheitliche GMO) gilt die Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 über eine gemeinsame Marktorganisation für landwirtschaftliche Erzeugnisse und zur Aufhebung der Verordnungen (EWG) Nr. 922/72, (EWG) Nr. 234/79, (EG) Nr. 1037/2001 und (EG) Nr. 1234/2007 des Rates, ABl. L 347 vom 20.12.2013, S. 671; zuletzt geändert durch Verordnung (EU) 2017/2393, ABl. L 350 vom 29.12.2017, S. 15.
+Anstelle der in der Verordnung (EU) 2018/848 angegebenen Verordnung (EG) Nr. 1234/2007 des Rates vom 22. Oktober 2007 über eine gemeinsame Organisation der Agrarmärkte und mit Sondervorschriften für bestimmte landwirtschaftliche Erzeugnisse (Verordnung über die einheitliche GMO) gilt die Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates vom 17. Dezember 2013 über eine gemeinsame Marktorganisation für landwirtschaftliche Erzeugnisse und zur Aufhebung der Verordnungen (EWG) Nr. 922/72, (EWG) Nr. 234/79, (EG) Nr. 1037/2001 und (EG) Nr. 1234/2007 des Rates, ABl. L 347 vom 20.12.2013, S. 671; zuletzt geändert durch Verordnung (EU) 2020/2220, ABl. L 437 vom 28.12.2020, S 1.
 
-Anhang 4*[^t-6]*
+Anhang 4[^t-6]
 
 [^t-6]: Aufgehoben durch Ziff. II Abs. 2 der V des WBF vom 11. Nov. 2020, mit Wirkung seit 1. Jan. 2021 ([AS 2020 5461](https://fedlex.data.admin.ch/eli/oc/2020/953)).
 
-Anhang 4a*[^t-7]*
+Anhang 4a[^t-7]
 
 [^t-7]: Eingefügt durch Ziff. II Abs. 3 der V des WBF vom 18. Okt. 2017 ([AS 2017 6349](https://fedlex.data.admin.ch/eli/oc/2017/706)). Aufgehoben durch Ziff. II Abs. 2 der V des WBF vom 11. Nov. 2020, mit Wirkung seit 1. Jan. 2021 ([AS 2020 5461](https://fedlex.data.admin.ch/eli/oc/2020/953)).
 
-Anhang 5*[^t-8]*
+Anhang 5[^t-8]
 
 (Art. 4a Abs. 1)
 
@@ -1139,7 +1161,7 @@ Die Anforderungen für das RAUS-Programm der Direktzahlungsverordnung vom 23. Ok
 - 6\. Zur Tierernährung dürfen die in Anhang 7 Teil B 1 b) (Antioxidationsmittel), Teil B 1g), i) (Bindemittel und Trennmittel), Teil B 2 b) (Aromastoffe), sowie in Kategorie 4 (zootechnische Zusatzstoffe) genannten Erzeugnisse für die in Bezug auf die vorgenannten Kategorien genannten Zwecke verwendet werden.
 - 7\. Futtermittel, Futtermittel-Ausgangserzeugnisse, Mischfuttermittel, Futtermittelzusatzstoffe, Verarbeitungshilfsstoffe für die Futtermittelherstellung und bestimmte Erzeugnisse für die Tierernährung dürfen nicht unter Verwendung von gentechnisch veränderte Organismen oder von deren Derivaten hergestellt worden sein oder solche enthalten.
 
-Anhang 6*[^t-9]*
+Anhang 6[^t-9]
 
 (Art. 4*a* Abs. 2)
 
@@ -1170,7 +1192,7 @@ Die Anforderungen an den Laufhof nach Anhang 6 Buchstabe E Ziffer 6 DZV sind ein
 
 Die Anforderungen nach Anhang 6 Buchstabe B DZV sind einzuhalten.
 
-Anhang 7*[^t-10]*
+Anhang 7[^t-10]
 
 (Art. 4*b* Abs. 1 Bst. b und c)
 
@@ -1330,7 +1352,7 @@ Funktionsgruppe: b) Spurenelemente
 <tr><td></td><td>4a, 4b, 4c, 4d</td><td>Enzyme und Mikroorganismen in der Kategorie «zootechnische Zusatzstoffe».</td><td></td></tr>
 </table>
 
-Anhang 8*[^t-11]*
+Anhang 8[^t-11]
 
 (Art. 4*c*)
 
@@ -1380,7 +1402,7 @@ Anhang 8*[^t-11]*
 
 [^annex8-lvlu1-lvl2-1]: Die Liste der notifizierten Wirkstoffe kann bei der Anmeldestelle für Chemikalien, 3003 Bern, gegen Verrechnung bezogen oder kostenlos unter der Internetadresse www.cheminfo.ch abgerufen werden.
 
-Anhang 9*[^t-12]*
+Anhang 9[^t-12]
 
 (Art. 16*c* und 16*f*)
 
@@ -1426,7 +1448,7 @@ Schweizerische Eidgenossenschaft Teilkontrollbescheinigung Nr. …
 <tr><td colspan="2">14. Erklärung des Empfängers der Partie Hiermit wird bestätigt, dass die Annahme der Partie gemäss Anhang 1 Ziffer 8.5 der Bio‑Verordnung erfolgt ist. Name des Unternehmens Datum: Name und Unterschrift der bevollmächtigten Person</td></tr>
 </table>
 
-Anhang 10*[^t-13]*
+Anhang 10[^t-13]
 
 (Art. 16*i*)
 
@@ -1436,11 +1458,11 @@ Anhang 10*[^t-13]*
 
 zur Zeit noch kein Eintrag
 
-Anhang 11*[^t-14]*
+Anhang 11[^t-14]
 
 [^t-14]: Eingefügt durch Ziff. II Abs. 3 der V des WBF vom 18. Nov. 2009 ([AS 2009 6337](https://fedlex.data.admin.ch/eli/oc/2009/771)). Aufgehoben durch Ziff. II Abs. 2 der V des WBF vom 27. Nov. 2010, mit Wirkung seit 1. Jan. 2011 ([AS 2010 5863](https://fedlex.data.admin.ch/eli/oc/2010/837)).
 
-Anhang 12*[^t-15]*
+Anhang 12[^t-15]
 
 (Art. 4*e*)
 

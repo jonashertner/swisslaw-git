@@ -3,20 +3,20 @@ sr: "910.181"
 title: "Ordinanza del DEFR del 22 settembre 1997 sull'agricoltura biologica"
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/2519_2519_2519"
 language: it
-version: 2022-01-01
+version: 2023-01-01
 adopted: 1997-09-22
 in_force: 1998-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2519_2519_2519/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1997-2519_2519_2519-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/2519_2519_2519/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2519_2519_2519/20230101/it/xml/fedlex-data-admin-ch-eli-cc-1997-2519_2519_2519-20230101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/2519_2519_2519/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza del DEFR sull’agricoltura biologica
 
-del 22 settembre 1997 (Stato 1° gennaio 2022)
+del 22 settembre 1997 (Stato 1° gennaio 2023)
 
-Il Dipartimento federale dell’economia, della formazione e della ricerca (DEFR)*[^ingress-1]*,
+Il Dipartimento federale dell’economia, della formazione e della ricerca (DEFR)[^ingress-1],
 
 visti gli articoli 11 capoverso 2, 12 capoverso 2, 13 capoverso 3<sup>bis</sup>, 15 capoverso 2, 16*a* capoversi 1–4, 16*h*, 16*k* capoversi 1 e 2<sup>bis</sup>, 16*n* capoverso 1, 17 capoverso 2, 23 capoverso 1, 23*a* capoverso 1, 30*d* capoverso 3 e 33*a* capoverso 3 dell’ordinanza del 22 settembre 1997[^ingress-2] sull’agricoltura biologica; d’intesa con il Dipartimento federale dell’interno (DFI),[^ingress-3]
 
@@ -26,7 +26,7 @@ ordina:
 [^ingress-2]: [RS 910.18](https://fedlex.data.admin.ch/eli/cc/1997/2498_2498_2498)
 [^ingress-3]: Nuovo testo giusta il n. I dell’O del DEFR del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6349](https://fedlex.data.admin.ch/eli/oc/2017/706)).
 
-## Sezione 1: Disposizioni generali****
+## Sezione 1: Disposizioni generali
 
 [^sec1-1]
 
@@ -58,7 +58,7 @@ Per la trasformazione di derrate alimentari, eccettuati lievito e vino, possono 
 
 - a.[^3-3] prodotti e sostanze di cui all’allegato 3;
 - b. preparati costituiti da microrganismi ed enzimi, utilizzati normalmente nella fabbricazione di derrate alimentari; gli enzimi destinati ad essere utilizzati come additivi alimentari devono essere inclusi nell’allegato 3 parte A;
-- c.[^3-4] prodotti e sostanze di cui all’articolo 2 capoverso 1 lettere b e c dell’ordinanza del 16 dicembre 2016[^3-5] sugli aromi, che all’articolo 10 della stessa ordinanza vengono definiti «sostanze aromatizzanti naturali» oppure «preparazioni aromatiche»;
+- c.[^3-4] prodotti e sostanze di cui all’articolo 2 capoverso 1 lettere b e c numero 1 dell’ordinanza del 16 dicembre 2016[^3-5] sugli aromi, che all’articolo 10 lettere a–c della stessa ordinanza vengono definiti preparazioni aromatiche oppure sostanze aromatizzanti naturali;
 - d. acqua potabile e sali (con cloruro di sodio o cloruro di potassio come componenti di base), generalmente utilizzati nella trasformazione delle derrate alimentari;
 - e.[^3-6]
 
@@ -79,7 +79,7 @@ Ai fini del calcolo di cui all’articolo 18 capoverso 1 lettera b dell’ordina
 [^3-1]: Nuovo testo giusta il n. I dell’O del DEFR del 18 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6337](https://fedlex.data.admin.ch/eli/oc/2009/771)).
 [^3-2]: Nuovo testo giusta il n. I dell’O del DEFR del 31 ott. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6357](https://fedlex.data.admin.ch/eli/oc/2012/757)).
 [^3-3]: Nuovo testo giusta il n. I dell’O del DEFR del 31 ott. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6357](https://fedlex.data.admin.ch/eli/oc/2012/757)).
-[^3-4]: Nuovo testo giusta il n. I dell’O del DEFR del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6349](https://fedlex.data.admin.ch/eli/oc/2017/706)).
+[^3-4]: Nuovo testo giusta il n. I dell’O del DEFR del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 733](https://fedlex.data.admin.ch/eli/oc/2022/733)).
 [^3-5]: [RS 817.022.41](https://fedlex.data.admin.ch/eli/cc/2017/182)
 [^3-6]: Nuovo testo giusta il n. I dell’O del DEFR del 23 ott. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3591](https://fedlex.data.admin.ch/eli/oc/2019/659)).
 [^3-7]: [RS 817.022.14](https://fedlex.data.admin.ch/eli/cc/2017/155)
@@ -96,11 +96,12 @@ Per la produzione, la preparazione e la formulazione di lievito biologico posson
 - a.[^3a-3] sostanze di cui all’allegato 3*a*;
 - b. prodotti e sostanze di cui all’articolo 3 capoverso 1 lettere b e d.
 
-<sup>2</sup> Per la produzione di lievito biologico è ammessa l’aggiunta di estratto o di autolisato di lievito non biologico nella misura massima del 5 per cento, calcolato in sostanza secca, se è provato che l’estratto o l’autolisato di lievito di produzione biologica non è disponibile.
+<sup>2</sup> ... [^3a-4]
 
 [^3a-1]: Introdotto dal n. I dell’O del DEFR del 18 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6337](https://fedlex.data.admin.ch/eli/oc/2009/771)).
 [^3a-2]: Nuovo testo giusta il n. I dell’O del DEFR del 31 ott. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6357](https://fedlex.data.admin.ch/eli/oc/2012/757)).
 [^3a-3]: Nuovo testo giusta il n. I dell’O del DEFR del 31 ott. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6357](https://fedlex.data.admin.ch/eli/oc/2012/757)).
+[^3a-4]: Abrogato dal n. I dell’O del DEFR del 2 nov. 2022, con effetto dal 1° gen. 2023 ([RU 2022 733](https://fedlex.data.admin.ch/eli/oc/2022/733)).
 
 #### Art. 3b
 
@@ -118,6 +119,15 @@ Per la produzione di vino possono essere utilizzati soltanto prodotti e sostanze
 Sono ammessi le pratiche e i trattamenti enologici di cui all’allegato II parte VI numero 3 del Regolamento (UE) 2018/848 nella versione secondo l’allegato 3*b*.
 
 [^3c-1]: Introdotto dal n. I dell’O del DEFR del 31 ott. 2012 ([RU 2012 6357](https://fedlex.data.admin.ch/eli/oc/2012/757)). Nuovo testo giusta il n. I dell’O del DEFR del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 683](https://fedlex.data.admin.ch/eli/oc/2021/683)).
+
+#### Art. 3d
+
+**Pratiche e trattamenti per la produzione di derrate alimentari biologiche trasformate**[^3d-1]
+
+Le pratiche con resina scambiatrice di ioni e adsorbente sono ammesse soltanto nella preparazione di derrate alimentari per persone con particolari esigenze nutrizionali giusta l’articolo 2 lettere a–c ODPPE[^3d-2].
+
+[^3d-1]: Introdotto dal n. I dell’O del DEFR del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 733](https://fedlex.data.admin.ch/eli/oc/2022/733)).
+[^3d-2]: [RS 817.022.104](https://fedlex.data.admin.ch/eli/cc/2017/180)
 
 #### Art. 4
 
@@ -217,7 +227,7 @@ I prodotti per la pulizia e la disinfezione secondo l’allegato 8 sono autorizz
 
 [^4e-1]: Introdotto dal n. I dell’O del DEFR del 29 ott. 2014, in vigore dal 1° gen. 2015 ([RU 2014 3979](https://fedlex.data.admin.ch/eli/oc/2014/672)).
 
-## Sezione 2:**** Esigenze riguardanti l’apicoltura e i prodotti dell’apicoltura
+## Sezione 2: Esigenze riguardanti l’apicoltura e i prodotti dell’apicoltura
 
 [^sec2-1]
 
@@ -385,7 +395,7 @@ La profilassi nel settore apicolo si basa sui seguenti principi:
 
 <sup>7</sup> Per pulire e disinfettare materiali, edifici, attrezzature, utensili o prodotti usati nell’apicoltura sono permesse soltanto le sostanze appropriate elencate nell’allegato 8.
 
-## Sezione 2*a*:**** Certificato di controllo per le importazioni
+## Sezione 2*a*: Certificato di controllo per le importazioni
 
 [^sec2a-1]
 
@@ -518,7 +528,7 @@ Qualora prima dello sdoganamento un invio sia destinato a una o più preparazion
 [^16f-4]: Abrogato dal n. I dell’O del DEFR del 18 ott. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6349](https://fedlex.data.admin.ch/eli/oc/2017/706)).
 [^16f-5]: Nuovo testo giusta il n. I dell’O del DEFR del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6349](https://fedlex.data.admin.ch/eli/oc/2017/706)).
 
-## Sezione 2*b*:**** Sistema d’informazione sulle sementi e sul materiale vegetativo di moltiplicazione
+## Sezione 2*b*: Sistema d’informazione sulle sementi e sul materiale vegetativo di moltiplicazione
 
 [^sec2b-1]
 
@@ -581,7 +591,7 @@ Per ogni specie interessata da una notifica secondo l’articolo 16*k* capoverso
 - c. il quantitativo totale di sementi o di materiale vegetativo di moltiplicazione non biologici utilizzato da coloro che hanno ricevuto un’attestazione;
 - d. i trattamenti chimici per ragioni di ordine fitosanitario ai sensi dell’articolo 13*a* capoverso 6 dell’ordinanza del 22 settembre 1997 sull’agricoltura biologica.
 
-## Sezione 3:**** Disposizioni finali
+## Sezione 3: Disposizioni finali
 
 [^sec3-1]
 
@@ -601,7 +611,7 @@ La presente ordinanza entra in vigore il 1° gennaio 1998.
 
 [^18-1]: Originario art. 5.
 
-## Disposizioni transitorie della modifica del 2 novembre 2006****
+## Disposizioni transitorie della modifica del 2 novembre 2006
 
 [^u1-1]
 
@@ -609,13 +619,13 @@ La presente ordinanza entra in vigore il 1° gennaio 1998.
 
 I prodotti biologici possono ancora essere prodotti e forniti sino al 31 dicembre 2007 secondo le vigenti disposizioni dell’allegato 3 parti A e B. Le riserve ancora esistenti a tale data possono essere fornite sino al loro esaurimento.
 
-## Disposizione transitoria della modifica del 1° dicembre 2011****
+## Disposizione transitoria della modifica del 1° dicembre 2011
 
 [^u2-1]
 
 [^u2-1]: [RU 2011 5975](https://fedlex.data.admin.ch/eli/oc/2011/826). Abrogata dal n. I dell’O del DEFR del 31 ott. 2012, con effetto dal 1° gen. 2013 ([RU 2012 6357](https://fedlex.data.admin.ch/eli/oc/2012/757)).
 
-## Disposizioni transitorie della modifica del 31 ottobre 2012****
+## Disposizioni transitorie della modifica del 31 ottobre 2012
 
 [^u3-1]
 
@@ -640,7 +650,7 @@ I prodotti biologici possono ancora essere prodotti e forniti sino al 31 dicembr
 [^u3-4]: Introdotto dal n. I dell’O del DEFR del 23 ott. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3591](https://fedlex.data.admin.ch/eli/oc/2019/659)).
 [^u3-5]: Introdotto dal n. I dell’O del DEFR del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 683](https://fedlex.data.admin.ch/eli/oc/2021/683)).
 
-## Disposizioni transitorie della modifica del 1° settembre 2016****
+## Disposizioni transitorie della modifica del 1° settembre 2016
 
 [^u4-1]
 
@@ -659,7 +669,7 @@ I prodotti biologici possono ancora essere prodotti e forniti sino al 31 dicembr
 
 [^u4-2]: Introdotto dal n. I dell’O del DEFR del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4367](https://fedlex.data.admin.ch/eli/oc/2018/703)).
 
-## Disposizioni transitorie relative alla modifica del 3 novembre 2021****
+## Disposizioni transitorie relative alla modifica del 3 novembre 2021
 
 [^u5-1]
 
@@ -673,7 +683,19 @@ I prodotti biologici possono ancora essere prodotti e forniti sino al 31 dicembr
 - b. farina di semi di carrube (E410), gomma di guar (E412), gomma arabica (E414), gomma di gellano (E418) e glicerolo (E422) di cui all’allegato 3 parte A non ottenuti da produzione biologica;
 - c. cera di carnauba per la preparazione di derrate alimentari di origine vegetale di cui all’allegato 3 parte B numero 1 ottenuta da materie prime biologiche.
 
-Allegato 1*[^t-1]*
+## Disposizioni transitorie della modifica del 2 novembre 2022
+
+[^u6-1]
+
+[^u6-1]: RU **202****2** 733
+
+<sup>1</sup> Fino al 31 dicembre 2023, per la produzione di lievito biologico è ammessa l’aggiunta di estratto o di autolisato di lievito non biologico nella misura massima del 5 per cento, calcolato in sostanza secca, se è provato che l’estratto o l’autolisato di lievito di produzione biologica non è disponibile.
+
+<sup>2</sup> A meno che non si tratti di derrate alimentari per persone con particolari esigenze nutrizionali di cui all’articolo 2 lettere a–c ODPPE[^u6-2], le pratiche con resina scambiatrice di ioni e adsorbente per la preparazione di derrate alimentari biologiche trasformate sono ammesse ancora fino al 31 dicembre 2024. Le riserve ancora esistenti a tale data possono essere fornite sino al loro esaurimento.
+
+[^u6-2]: [RS 817.022.104](https://fedlex.data.admin.ch/eli/cc/2017/180)
+
+Allegato 1[^t-1]
 
 (art. 1 e 16 cpv. 5)
 
@@ -689,7 +711,7 @@ Tutti i prodotti fitosanitari elencati sottostanno alle condizioni per l’uso d
 
 <table>
 <tr><th>Designazione</th><th>Descrizione; requisiti in materia di composizione; condizioni per l’uso</th></tr>
-<tr><td>*Allium sativum* (estratto d’aglio)</td><td></td></tr>
+<tr><td>Allium sativum (estratto d’aglio)</td><td></td></tr>
 <tr><td>Azadiractina estratta da *Azadirachta indica* (albero del neem)</td><td></td></tr>
 <tr><td>Cera d’api</td><td>Solo come pasta cicatrizzante</td></tr>
 <tr><td>Cere vegetali</td><td>Solo come pasta cicatrizzante</td></tr>
@@ -749,7 +771,7 @@ Tutti i prodotti fitosanitari elencati sottostanno alle condizioni per l’uso d
 <tr><td>Zolfo calcico (polisolfuro di calcio)</td><td>Solo come fungicida, insetticida o acaricida.</td></tr>
 </table>
 
-Allegato 2*[^t-2]*
+Allegato 2[^t-2]
 
 (art. 2)
 
@@ -854,7 +876,7 @@ Sono fatte salve le disposizioni dell’ordinanza del 10 gennaio 2001[^annex2-lv
 [^annex2-lvlu1-1]: [RS 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)
 [^annex2-lvlu1-2]: [RS 916.171.1](https://fedlex.data.admin.ch/eli/cc/2007/836)
 
-Allegato 3*[^t-3]*
+Allegato 3[^t-3]
 
 (art. 3)
 
@@ -1013,7 +1035,7 @@ Tutti gli additivi sottostanno alle limitazioni d’uso secondo l’ordinanza de
 <tr><th>Pesci e altri animali acquatici selvatici sia non trasformati sia sotto forma di prodotti ottenuti dalla loro lavorazione</th><th>Ottenuti solo da pesca sostenibile Solo se non disponibili animali d’acquacoltura biologica secondo gli standard internazionali riconosciuti</th></tr>
 </table>
 
-Allegato 3a*[^t-4]*
+Allegato 3a[^t-4]
 
 (art. 3*a*)
 
@@ -1035,31 +1057,31 @@ Allegato 3a*[^t-4]*
 <tr><td>Oli vegetali</td><td>Ammessi soltanto come lubrificanti, distaccanti o antischiumogeni Soltanto da produzione biologica</td><td>Ammessi soltanto come lubrificanti, distaccanti o antischiumogeni Soltanto da produzione biologica</td></tr>
 </table>
 
-Allegato 3b*[^t-5]*
+Allegato 3b[^t-5]
 
 (art. 3*c*)
 
-## Atti normativi dell’Unione europea sull’agricoltura biologica
+## Atti normativi dell’Unione europea concernenti l’agricoltura biologica
 
-[^t-5]: Introdotto dal n. III cpv. 3 dell’O del DEFR del 31 ott. 2012 ([RU 2012 6357](https://fedlex.data.admin.ch/eli/oc/2012/757)). Nuovo testo giusta il n. II cpv. 2 dell’O del DEFR e del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 683](https://fedlex.data.admin.ch/eli/oc/2021/683)).
+[^t-5]: Introdotto dal n. III cpv. 3 dell’O del DEFR del 31 ott. 2012 ([RU 2012 6357](https://fedlex.data.admin.ch/eli/oc/2012/757)). Nuovo testo giusta il n. II dell’O del DEFR del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 733](https://fedlex.data.admin.ch/eli/oc/2022/733)).
 
-Regolamento (UE) 2018/848 del Parlamento europeo e del Consiglio, del 30 maggio 2018, relativo alla produzione biologica e all’etichettatura dei prodotti biologici e che abroga il regolamento (CE) n. 834/2007 del Consiglio, GU L 150 del 14.6.2018, pag. 1; modificato da ultimo dal Regolamento (UE) 2020/1693, GU L 381 del 13.11.2020, pag. 1.
+Regolamento (UE) 2018/848 del Parlamento europeo e del Consiglio, del 30 maggio 2018, relativo alla produzione biologica e all’etichettatura dei prodotti biologici e che abroga il regolamento (CE) n. 834/2007 del Consiglio, GU L 150 del 14.6.2018, pag. 1; modificato da ultimo dal regolamento delegato (UE) 2022/474, GU L 98 del 25.3.2022, pag. 1.
 
-Regolamento (UE) 1308/2013 del Parlamento europeo e del Consiglio, del 17 dicembre 2013, menzionato nel Regolamento (UE) 2018/848, recante organizzazione comune dei mercati dei prodotti agricoli e che abroga i regolamenti (CEE) 922/72, (CEE) 234/79, (CE) 1037/2001 e (CE) 1234/2007 del Consiglio, nella versione come da GU L 347 del 20.12.2013, pag. 671; modificato da ultimo dal Regolamento (UE) 2017/2393, GU L 350 del 29.12.2017, pag. 15.
+Per il regolamento (UE) n. 1308/2013 del Parlamento europeo e del Consiglio, del 17 dicembre 2013, recante organizzazione comune dei mercati dei prodotti agricoli e che abroga i regolamenti (CEE) n. 922/72, (CEE) n. 234/79, (CE) n. 1037/2001 e (CE) n. 1234/2007 del Consiglio, si applica la versione secondo la GU L 347 del 20.12.2013, pag. 671; modificata da ultimo dal regolamento (UE) 2020/2220, GU L 437 del 28.12.2020, pag. 1.
 
-Anziché il Regolamento (CE) 606/2009 della Commissione, del 10 luglio 2009, menzionato nel Regolamento (UE) 2018/848, recante alcune modalità di applicazione del regolamento (CE) 479/2008 del Consiglio per quanto riguarda le categorie di prodotti vitivinicoli, le pratiche enologiche e le relative restrizioni si applica il Regolamento (UE) 2019/934 della Commissione, del 12 marzo 2019, che integra il regolamento (UE) 1308/2013 del Parlamento europeo e del Consiglio per quanto riguarda le zone viticole in cui il titolo alcolometrico può essere aumentato, le pratiche enologiche autorizzate e le restrizioni applicabili in materia di produzione e conservazione dei prodotti vitivinicoli, la percentuale minima di alcole per i sottoprodotti e la loro eliminazione, nonché la pubblicazione delle schede dell’OIV, GU L 149 del 7.6.2019, pag. 1; modificato da ultimo dal Regolamento (UE) 2020/565, GU L 129 del 24.4.2020, pag. 1.
+Anziché il regolamento (CE) n. 606/2009 della Commissione del 10 luglio 2009 recante alcune modalità di applicazione del regolamento (CE) n. 479/2008 del Consiglio per quanto riguarda le categorie di prodotti vitivinicoli, le pratiche enologiche e le relative restrizioni, indicato nel regolamento (UE) 2018/848, si applica il regolamento delegato (UE) 2019/934 della Commissione del 12 marzo 2019 che integra il regolamento (UE) n. 1308/2013 del Parlamento europeo e del Consiglio per quanto riguarda le zone viticole in cui il titolo alcolometrico può essere aumentato, le pratiche enologiche autorizzate e le restrizioni applicabili in materia di produzione e conservazione dei prodotti vitivinicoli, la percentuale minima di alcole per i sottoprodotti e la loro eliminazione, nonché la pubblicazione delle schede dell’OIV, GU L 149 del 7.6.2019, pag. 1; modificato da ultimo dal regolamento delegato (UE) 2022/68, GU L 12 del 19.1.2022, pag. 1.
 
-Anziché il Regolamento (CE) 1234/2007 del Consiglio, del 22 ottobre 2007, menzionato nel Regolamento (UE) 2018/848, recante organizzazione comune dei mercati agricoli e disposizioni specifiche per taluni prodotti agricoli (regolamento unico OCM), si applica il Regolamento (UE) 1308/2013 del Parlamento europeo e del Consiglio, del 17 dicembre 2013, recante organizzazione comune dei mercati dei prodotti agricoli e che abroga i regolamenti (CEE) 922/72, (CEE) 234/79, (CE) 1037/2001 e (CE) 1234/2007 del Consiglio; modificato da ultimo dal Regolamento (UE) 2017/2393, GU L 350 del 29.12.2017, pag. 15.
+Anziché il regolamento (CE) n. 1234/2007 del Consiglio del 22 ottobre 2007 recante organizzazione comune dei mercati agricoli e disposizioni specifiche per taluni prodotti agricoli (regolamento unico OCM), indicato nel regolamento (UE) 2018/848, si applica il regolamento (UE) n. 1308/2013 del Parlamento europeo e del Consiglio del 17 dicembre 2013 recante organizzazione comune dei mercati dei prodotti agricoli e che abroga i regolamenti (CEE) n. 922/72, (CEE) n. 234/79, (CE) n. 1037/2001 e (CE) n. 1234/2007 del Consiglio, GU L 347 del 20.12.2013, pag. 671; modificato da ultimo dal regolamento (UE) 2020/2220, GU L 437 del 28.12.2020, pag. 1.
 
-Allegato 4*[^t-6]*
+Allegato 4[^t-6]
 
 [^t-6]: Abrogato dal n. II cpv. 2 dell’O del DEFR dell’11 nov. 2020, con effetto dal 1° gen. 2021 ([RU 2020 5461](https://fedlex.data.admin.ch/eli/oc/2020/953)).
 
-Allegato 4a*[^t-7]*
+Allegato 4a[^t-7]
 
 [^t-7]: Introdotto dal n. II cpv. 3 dell’O del DEFR del 18 ott. 2017 ([RU 2017 6349](https://fedlex.data.admin.ch/eli/oc/2017/706)). Abrogato dal n. II cpv. 2 dell’O del DEFR dell’11 nov. 2020, con effetto dal 1° gen. 2021 ([RU 2020 5461](https://fedlex.data.admin.ch/eli/oc/2020/953)).
 
-Allegato 5*[^t-8]*
+Allegato 5[^t-8]
 
 (art. 4*a* cpv. 1)
 
@@ -1126,7 +1148,7 @@ Devono essere soddisfatte le esigenze previste dal programma URA dell’ordinanz
 - 6\. Nell’alimentazione degli animali possono essere usati solo i prodotti elencati nell’allegato 7 parte B 1 b) (antiossidanti), parte B 1 g), i) (leganti e antiagglomeranti), parte B 2 b) (aromatizzanti), come pure i prodotti inseriti nella categoria 4 (additivi zootecnici) per gli scopi menzionati in riferimento alle suddette categorie.
 - 7\. Gli alimenti per animali, le materie prime per gli alimenti per animali, gli alimenti composti per animali, gli additivi per gli alimenti per animali, le sostanze ausiliarie per la lavorazione che servono alla fabbricazione degli alimenti per animali e certi prodotti usati nell’alimentazione animale non devono essere stati prodotti con l’impiego di organismi geneticamente modificati o di prodotti da essi derivati né contenere siffatti prodotti.
 
-Allegato 6*[^t-9]*
+Allegato 6[^t-9]
 
 (art. 4*a* cpv. 2)
 
@@ -1157,7 +1179,7 @@ Devono essere soddisfatte le esigenze concernenti la corte di cui allegato 6 let
 
 Devono essere soddisfatte le esigenze di cui all’allegato 6 lettera B OPD.
 
-Allegato 7*[^t-10]*
+Allegato 7[^t-10]
 
 (art. 4*b* cpv. 1 lett. b e c)
 
@@ -1262,7 +1284,7 @@ Gruppo funzionale: b) aromatizzanti
 
 <table>
 <tr><th>Codice</th><th>Categoria/ gruppo funzionale</th><th>Sostanza</th><th>Descrizione e condizioni per l’uso</th></tr>
-<tr><td></td><td>*2b*</td><td>*Castanea sativa Mill.: estratto di legno di castagno*</td><td></td></tr>
+<tr><td></td><td>*2b*</td><td>*Castanea sativa Mill.:* *estratto di legno di castagno*</td><td></td></tr>
 <tr><td></td><td>2b</td><td>Sostanze aromatizzanti:</td><td>Solo estratti di prodotti agricoli</td></tr>
 </table>
 
@@ -1297,7 +1319,7 @@ Gruppo funzionale: b) oligoelementi
 <tr><td></td><td>4a, 4b, 4c, 4d</td><td>Enzimi e microorganismi nella categoria degli «Additivi zootecnici»</td><td></td></tr>
 </table>
 
-Allegato 8*[^t-11]*
+Allegato 8[^t-11]
 
 (art. 4*c*)
 
@@ -1331,7 +1353,7 @@ Allegato 8*[^t-11]*
 
 [^annex8-lvlu1-lvl2-1]: L’elenco dei principi attivi notificati è ottenibile contro pagamento presso l’Organo di notifica per i prodotti chimici, 3003 Berna, oppure può essere consultato gratuitamente all’indirizzo Internet www.cheminfo.ch
 
-Allegato 9*[^t-12]*
+Allegato 9[^t-12]
 
 (art. 16*c* e 16*f*)
 
@@ -1377,7 +1399,7 @@ Confederazione Svizzera Estratto n. … del certificato di controllo
 <tr><td colspan="2">14. Dichiarazione del destinatario del lotto Si conferma che il ricevimento del lotto è avvenuto in conformità dell’allegato 1 numero 8.5 dell’ordinanza sull’agricoltura biologica. Nome della società Data: Nome e firma del responsabile</td></tr>
 </table>
 
-Allegato 10*[^t-13]*
+Allegato 10[^t-13]
 
 (art. 16*i*)
 
@@ -1387,11 +1409,11 @@ Allegato 10*[^t-13]*
 
 Nessuna registrazione per il momento
 
-Allegato 11*[^t-14]*
+Allegato 11[^t-14]
 
 [^t-14]: Introdotto dal n. II cpv. 3 dell’O del DEFR del 18 nov. 2009 ([RU 2009 6337](https://fedlex.data.admin.ch/eli/oc/2009/771)). Abrogato dal n. II cpv. 2 dell’O del 27 ott. 2010, con effetto dal 1° gen. 2011 ([RU 2010 5863](https://fedlex.data.admin.ch/eli/oc/2010/837)).
 
-Allegato 12*[^t-15]*
+Allegato 12[^t-15]
 
 (art. 4*e*)
 

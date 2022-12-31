@@ -3,11 +3,11 @@ sr: "910.181"
 title: EAER Ordinance of 22 September 1997 on Organic Farming
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/2519_2519_2519"
 language: en
-version: 2022-01-01
+version: 2023-01-01
 adopted: 1997-09-22
 in_force: 1998-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2519_2519_2519/20220101/en/xml/fedlex-data-admin-ch-eli-cc-1997-2519_2519_2519-20220101-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/2519_2519_2519/20220101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2519_2519_2519/20230101/en/xml/fedlex-data-admin-ch-eli-cc-1997-2519_2519_2519-20230101-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/2519_2519_2519/20230101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -16,9 +16,9 @@ url: "https://www.fedlex.admin.ch/eli/cc/1997/2519_2519_2519/20220101/en"
 
 English is not an official language of the Swiss Confederation. This translation is provided for information purposes only and has no legal force.
 
-of 22 September 1997 (Status as of 1 January 2022)
+of 22 September 1997 (Status as of 1 January 2023)
 
-The Federal Department of Economic Affairs, Education and Research (EAER)*[^ingress-1]*,
+The Federal Department of Economic Affairs, Education and Research (EAER)[^ingress-1],
 
 on the basis of Articles 11 paragraph 2, 12 paragraph 2, 13 paragraph 3<sup>bis</sup>, 15 paragraph 2, 16*a* paragraphs 1–4, 16*h*, 16*k* paragraphs 1 and 2<sup>bis</sup>, 16*n* paragraph 1, 17 paragraph 2, 23 paragraph 1, 23*a* paragraph 1, 30*d* paragraph 3 and 33*a* paragraph 3 of the Organic Farming Ordinance of 22 September 1997[^ingress-2], in agreement with the Federal Department of Home Affairs (FDFA),[^ingress-3]
 
@@ -28,7 +28,7 @@ ordains:
 [^ingress-2]: [SR 910.18](https://fedlex.data.admin.ch/eli/cc/1997/2498_2498_2498)
 [^ingress-3]: Amended by No I of the EAER O of 18 Oct. 2017, in force since 1 Jan. 2018 ([AS 2017 6349](https://fedlex.data.admin.ch/eli/oc/2017/706)).
 
-## Section 1 General Provisions****
+## Section 1 General Provisions
 
 [^sec1-1]
 
@@ -60,7 +60,7 @@ The following may be used for processing foodstuffs, with the exception of yeast
 
 - a.[^3-3] products and substances in accordance with Annex 3;
 - b. preparations made from micro-organisms and enzymes, which are normally used in the production of foodstuffs; enzymes, which are to be used as food additives, must be listed in Annex 3 Section A;
-- c.[^3-4] Products and substances in accordance with Article 2 paragraph 1 letter b and c of the FDHA Flavourings Ordinance of 16 December 2016[^3-5] which are listed as «natural flavouring substances» or «flavouring preparations» under Article 10 of the Flavourings Ordinance;
+- c.[^3-4] products and substances in accordance with Article 2 paragraph 1 letters b and c number 1 of the FDHA Flavourings Ordinance of 16 December 2016[^3-5] which are listed as «flavouring preparations» or «natural flavouring substances» under Article 10 letters a–c of the Flavourings Ordinance;
 - d. drinking water and salts (mainly of sodium or potassium chloride), which are generally used in food processing;
 - e.[^3-6]
 
@@ -81,11 +81,11 @@ For the assessment for the purposes of Article 18 paragraph 1 letter b of the Or
 [^3-1]: Amended by No I of the EAER O of 18 Nov. 2009, in force since 1 Jan. 2010 ([AS 2009 6337](https://fedlex.data.admin.ch/eli/oc/2009/771)).
 [^3-2]: Amended by No I of the EAER O of 31 Oct. 2012, in force since 1 Jan. 2013 ([AS 2012 6357](https://fedlex.data.admin.ch/eli/oc/2012/757)).
 [^3-3]: Amended by No I of the EAER O of 31 Oct. 2012, in force since 1 Jan. 2013 ([AS 2012 6357](https://fedlex.data.admin.ch/eli/oc/2012/757)).
-[^3-4]: Amended by No I of the EAER O of 18 Oct. 2017, in force since 1 Jan. 2018 ([AS 2017 6349](https://fedlex.data.admin.ch/eli/oc/2017/706)).
+[^3-4]: Amended by No I of the EAER O of 2 Nov. 2022, in force since 1 Jan. 2023 ([AS 2022 733](https://fedlex.data.admin.ch/eli/oc/2022/733)).
 [^3-5]: [SR 817.022.41](https://fedlex.data.admin.ch/eli/cc/2017/182)
 [^3-6]: Amended by No I of the EAER O of 23 Oct. 2019, in force since 1 Jan. 2020 ([AS 2019 3591](https://fedlex.data.admin.ch/eli/oc/2019/659)).
 [^3-7]: [SR 817.022.14](https://fedlex.data.admin.ch/eli/cc/2017/155)
-[^3-8]: SR **817.022.104**
+[^3-8]: [SR 817.022.104](https://fedlex.data.admin.ch/eli/cc/2017/180)
 
 #### Art. 3a
 
@@ -98,11 +98,12 @@ The following substances may be used for the production, preparation and formula
 - a.[^3a-3] substances in accordance with Annex 3*a*;
 - b. products and substances in accordance with Article 3 paragraph 1 letter b and d.
 
-<sup>2</sup> The addition of up to 5 per cent of non-organic yeast extract or autolysed yeast, calculated as dry mass, shall be permitted for the production of organic yeast, if it can be proved that no organically produced yeast extract or autolysed yeast is available.
+<sup>2</sup> …[^3a-4]
 
 [^3a-1]: Inserted by No I of the EAER O of 18 Nov. 2009, in force since 1 Jan. 2010 ([AS 2009 6337](https://fedlex.data.admin.ch/eli/oc/2009/771)).
 [^3a-2]: Amended by No I of the EAER O of 31 Oct. 2012, in force since 1 Jan. 2013 ([AS 2012 6357](https://fedlex.data.admin.ch/eli/oc/2012/757)).
 [^3a-3]: Amended by No I of the EAER O of 31 Oct. 2012, in force since 1 Jan. 2013 ([AS 2012 6357](https://fedlex.data.admin.ch/eli/oc/2012/757)).
+[^3a-4]: Repealed by No I of the EAER O of 2 Nov. 2022, with effect from 1 Jan. 2023 ([AS 2022 733](https://fedlex.data.admin.ch/eli/oc/2022/733)).
 
 #### Art. 3b
 
@@ -120,6 +121,15 @@ Products and substances in accordance with Annex V Part D of Implementing Regula
 Oenological practices and processes in accordance with Annex II Part VI number 3 of Regulation (EU) 2018/848 as amended by Annex 3*b* are permitted.
 
 [^3c-1]: Inserted by No I of the EAER O of 31 Oct. 2012 ([AS 2012 6357](https://fedlex.data.admin.ch/eli/oc/2012/757)). Amended by No I of the EAER O of 3 Nov. 2020, in force since 1 Jan. 2022 ([AS 2021 683](https://fedlex.data.admin.ch/eli/oc/2021/683)).
+
+#### Art. 3d
+
+**Practices and processes for the production of processed organic foodstuffs**[^3d-1]
+
+Ion exchange und adsorption resin processes are only permitted for the preparation of foodstuffs for persons with special dietary requirements in accordance with Article 2 letters a–c SDRO[^3d-2].
+
+[^3d-1]: Inserted by No I of the EAER O of 2. Nov. 2022, in force since 1 Jan. 2023 ([AS 2022 733](https://fedlex.data.admin.ch/eli/oc/2022/733)).
+[^3d-2]: [SR 817.022.104](https://fedlex.data.admin.ch/eli/cc/2017/180)
 
 #### Art. 4
 
@@ -223,7 +233,7 @@ The cleaning agents and disinfectants in accordance with Annex 8 shall be author
 
 [^4e-1]: Inserted by No I of the EAER O of 29 Oct. 2014, in force since 1 Jan. 2015 ([AS 2014 3979](https://fedlex.data.admin.ch/eli/oc/2014/672)).
 
-## Section 2**** Provisions relating to Beekeeping and Beekeeping Products
+## Section 2 Provisions relating to Beekeeping and Beekeeping Products
 
 [^sec2-1]
 
@@ -259,11 +269,11 @@ Beekeeping holdings may label their products as organic products even if they ha
 
 <sup>2</sup> For the renovation of the apiaries 10 per cent per year of the queen bees and swarms not complying with this Ordinance can be incorporated into the organic-production unit provided that the queen bees and swarms are placed in hives with combs or comb foundations coming from organic-production units. In this case, the conversion period does not apply.
 
-<sup>2bis</sup> For performance testing under Article 4 of the Ordinance of 14 November 2007[^8-1] on Animal Husbandry bees which do not originate from organic holdings may be kept on an organic holding provided they are placed in hives with combs or comb foundations coming from organic production units. In this case, the conversion period does not apply.[^8-2]
+<sup>2bis</sup> For performance testing under Article 4 of the Animal Husbandry Ordinance of 14 November 2007[^8-1], bees which do not originate from organic holdings may be kept on an organic holding provided they are placed in hives with combs or comb foundations coming from organic production units. In this case, the conversion period does not apply.[^8-2]
 
 <sup>3</sup> In case of high mortality of animals caused by health or catastrophic circumstances, with the prior written agreement of the certification body, an apiary may be reconstituted by the acquisition of conventional colonies, when colonies which comply with the provisions of this Ordinance are not available; in this case the conversion period of one year applies.[^8-3]
 
-[^8-1]: [SR 916.310](https://fedlex.data.admin.ch/eli/cc/2012/763)
+[^8-1]: [[AS 2007 6411](https://fedlex.data.admin.ch/eli/oc/2007/837), [2008 2275](https://fedlex.data.admin.ch/eli/oc/2008/329)No II 1 [5871](https://fedlex.data.admin.ch/eli/oc/2008/810), [2009 6365](https://fedlex.data.admin.ch/eli/oc/2009/777), [2010 2525](https://fedlex.data.admin.ch/eli/oc/2010/342)No II, [2011 5297](https://fedlex.data.admin.ch/eli/oc/2011/766)Annex 2 No 7. [AS 2012 6407](https://fedlex.data.admin.ch/eli/oc/2012/763)Art. 38 para. 1]. See now: the Animal Husbandry Ordinance of 31 Oct. 2012 ([SR 916.310](https://fedlex.data.admin.ch/eli/cc/2012/763)).
 [^8-2]: Inserted by No I of the EAER O of 27 Oct. 2010, in force since 1 Jan. 2011 ([AS 2010 5863](https://fedlex.data.admin.ch/eli/oc/2010/837)).
 [^8-3]: Inserted by No I of the EAER O of 10 Nov. 2004, in force since 1 Jan. 2005 ([AS 2004 4895](https://fedlex.data.admin.ch/eli/oc/2004/735)).
 
@@ -369,7 +379,7 @@ Disease prevention in beekeeping shall be based on the following principles:
 
 <sup>7</sup> The removal of the supers and the honey extraction operations must be entered in the register of the apiary.
 
-[^15-1]: [SR 916.310](https://fedlex.data.admin.ch/eli/cc/2012/763)
+[^15-1]: [[AS 2007 6411](https://fedlex.data.admin.ch/eli/oc/2007/837), [2008 2275](https://fedlex.data.admin.ch/eli/oc/2008/329)No II 1 [5871](https://fedlex.data.admin.ch/eli/oc/2008/810), [2009 6365](https://fedlex.data.admin.ch/eli/oc/2009/777), [2010 2525](https://fedlex.data.admin.ch/eli/oc/2010/342)No II, [2011 5297](https://fedlex.data.admin.ch/eli/oc/2011/766)Annex 2 No 7. [AS 2012 6407](https://fedlex.data.admin.ch/eli/oc/2012/763)Art. 38 para. 1]. See now: the Animal Husbandry Ordinance of 31 Oct. 2012 ([SR 916.310](https://fedlex.data.admin.ch/eli/cc/2012/763)).
 [^15-2]: Amended by No I of the EAER O of 27 Oct. 2010, in force since 1 Jan. 2011 ([AS 2010 5863](https://fedlex.data.admin.ch/eli/oc/2010/837)).
 [^15-3]: Amended by No I of the EAER O of 27 Oct. 2010, in force since 1 Jan. 2011 ([AS 2010 5863](https://fedlex.data.admin.ch/eli/oc/2010/837)).
 
@@ -391,7 +401,7 @@ Disease prevention in beekeeping shall be based on the following principles:
 
 <sup>7</sup> Only the appropriate substances listed in Annex 8 are permitted for cleaning and disinfecting materials, buildings, equipment, utensils or products used in beekeeping.
 
-## Section 2*a***** Certificate of Inspection for Imports
+## Section 2*a* Certificate of Inspection for Imports
 
 [^sec2a-1]
 
@@ -526,7 +536,7 @@ The customs declaration reference number for customs warehousing or inward proce
 [^16f-4]: Repealed by No I of the EAER O of 18 Oct. 2017, with effect from 1 Jan. 2018 ([AS 2017 6349](https://fedlex.data.admin.ch/eli/oc/2017/706)).
 [^16f-5]: Amended by No I of the EAER O of 18 Oct. 2017, in force since 1 Jan. 2018 ([AS 2017 6349](https://fedlex.data.admin.ch/eli/oc/2017/706)).
 
-## Section 2*b***** Information System for Organic Seeds and Plant Propagating Material
+## Section 2*b* Information System for Organic Seeds and Plant Propagating Material
 
 [^sec2b-1]
 
@@ -589,7 +599,7 @@ For each species for which documentary evidence is requested under Article 16*k*
 - c. the total quantity of non-organic seeds or plant propagating material which has been used by those requesting documentary evidence;
 - d. the chemical treatment carried out for reasons of plant health in accordance with Article 13*a* paragraph 6 of the Organic Farming Ordinance.
 
-## Section 3**** Final Provisions
+## Section 3 Final Provisions
 
 [^sec3-1]
 
@@ -609,7 +619,7 @@ This Ordinance shall enter into force on 1 January 1998.
 
 [^18-1]: Formerly Art. 5.
 
-## Transitional provisions to the Amendment of 2 November 2006****
+## Transitional provisions to the Amendment of 2 November 2006
 
 [^u1-1]
 
@@ -617,13 +627,13 @@ This Ordinance shall enter into force on 1 January 1998.
 
 Until 31 December 2007 organic produce may still be produced and supplied according to the present provisions of Annex 3 subparagraphs A and B. Stock existing on 31 December 2007 may still be supplied until depleted.
 
-## Transitional provisions to the Amendment of 1 December 2011****
+## Transitional provisions to the Amendment of 1 December 2011
 
 [^u2-1]
 
 [^u2-1]: [AS 2011 5975](https://fedlex.data.admin.ch/eli/oc/2011/826). Repealed by No I of the EAER O of 31 Oct. 2012, with effect from 1 Jan. 2013 ([AS 2012 6357](https://fedlex.data.admin.ch/eli/oc/2012/757)).
 
-## Transitional provisions to the Amendment of 31 October 2012****
+## Transitional provisions to the Amendment of 31 October 2012
 
 [^u3-1]
 
@@ -648,7 +658,7 @@ Until 31 December 2007 organic produce may still be produced and supplied accord
 [^u3-4]: Inserted by No I of the EAER O of 23 Oct. 2019, in force since 1 Jan. 2020 ([AS 2019 3591](https://fedlex.data.admin.ch/eli/oc/2019/659)).
 [^u3-5]: Inserted by No I of the EAER O of 3 Nov. 2021, in force since 1 Jan. 2022 ([AS 2021 683](https://fedlex.data.admin.ch/eli/oc/2021/683)).
 
-## Transitional provisions of the Amendment of 1 September 2016****
+## Transitional provisions of the Amendment of 1 September 2016
 
 [^u4-1]
 
@@ -667,7 +677,7 @@ Until 31 December 2007 organic produce may still be produced and supplied accord
 
 [^u4-2]: Inserted by No I of the EAER O of 31 Oct. 2018, in force since 1 Jan. 2019 ([AS 2018 4367](https://fedlex.data.admin.ch/eli/oc/2018/703)).
 
-## Transitional provisions of the Amendment of 3 November 2021****
+## Transitional provisions of the Amendment of 3 November 2021
 
 [^u5-1]
 
@@ -681,7 +691,19 @@ Until 31 December 2007 organic produce may still be produced and supplied accord
 - b. Locust bean gum (E 410), guar gum (E 412), arabic gum (E 414), gellan gum (E 418) and glycerol (E 422) in accordance with Annex 3 Part A not produced organically;
 - c. Carnauba wax for the preparation of foodstuffs of plant origin in accordance with Annex 3 Part B number 1 from organic raw materials.
 
-Annex 1*[^t-1]*
+## Transitional provision to the Amendment of 2 November 2022
+
+[^u6-1]
+
+[^u6-1]: [AS 2022 733](https://fedlex.data.admin.ch/eli/oc/2022/733)
+
+<sup>1</sup> Until 31 December 2023, the addition of up to 5 per cent of non-organic yeast extract or autolysed yeast, calculated as dry mass, shall be permitted for the production of organic yeast, if it can be proved that no organically produced yeast extract or autolysed yeast is available.
+
+<sup>2</sup> The preparation of processed organic foodstuffs for persons other than those with special dietary needs in accordance with Article 2 letters a–c SDRO[^u6-2] shall be permitted until 31 December 2024. Stocks still existing on 31 December 2024 may continue to be sold until they run out.
+
+[^u6-2]: [SR 817.022.104](https://fedlex.data.admin.ch/eli/cc/2017/180)
+
+Annex 1[^t-1]
 
 (Arts. 1 and 16 para. 5)
 
@@ -689,7 +711,7 @@ Annex 1*[^t-1]*
 
 [^t-1]: Amended by No III para. 1 of the EAER O of 1 Sept. 2016 ([AS 2016 3183](https://fedlex.data.admin.ch/eli/oc/2016/537)). Revised by No II para. 1 of the EAER O of 18 Oct. 2017 ([AS 2017 6349](https://fedlex.data.admin.ch/eli/oc/2017/706)), of 31 Oct. 2018 ([AS 2018 4367](https://fedlex.data.admin.ch/eli/oc/2018/703)), No II of the EAER O of 23 Oct. 2019 ([AS 2019 3591](https://fedlex.data.admin.ch/eli/oc/2019/659)), No II para. 1 of the EAER O of 11 Nov. 2020 ([AS 2020 5461](https://fedlex.data.admin.ch/eli/oc/2020/953)) and of 3 Nov. 2021, in force since 1 Jan. 2022 ([AS 2021 683](https://fedlex.data.admin.ch/eli/oc/2021/683)).
 
-All listed plant protection products shall be subject to the directions for use in accordance with the Ordinance of 12 May 2010**[^annex1-lvlu1-1]** on Plant Protection Products (PPPO). Stricter directions for use for organic production are given in the second column of each table.
+All listed plant protection products shall be subject to the directions for use in accordance with the Ordinance of 12 May 2010[^annex1-lvlu1-1] on Plant Protection Products (PPPO). Stricter directions for use for organic production are given in the second column of each table.
 
 ### 1. Substances of plant or animal origin
 
@@ -754,7 +776,7 @@ All listed plant protection products shall be subject to the directions for use 
 <tr><td>Hydrogen peroxide</td><td></td></tr>
 </table>
 
-Annex 2*[^t-2]*
+Annex 2[^t-2]
 
 (Art. 2)
 
@@ -848,7 +870,7 @@ The provisions of the Fertiliser Ordinance of 10 January 2001[^annex2-lvlu1-1] a
 [^annex2-lvlu1-1]: [SR 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)
 [^annex2-lvlu1-2]: [SR 916.171.1](https://fedlex.data.admin.ch/eli/cc/2007/836)
 
-Annex 3*[^t-3]*
+Annex 3[^t-3]
 
 (Art. 3)
 
@@ -1003,7 +1025,7 @@ All additives are subject to the application restrictions in accordance with the
 <tr><th>Wild fishes and wild aquatic animals, unprocessed as well as products derived therefrom by processes</th><th>only from sustainable fisheries only when not available in organic aquaculture in accordance with recognised international standards</th></tr>
 </table>
 
-Annex 3a*[^t-4]*
+Annex 3a[^t-4]
 
 (Art. 3*a*)
 
@@ -1026,31 +1048,31 @@ Annex 3a*[^t-4]*
 <tr><td>Vegetable oils</td><td>only permitted as lubricants, anti‑caking agents, or anti‑foaming agents</td><td>only permitted as lubricants, anti-caking agents, or anti-foaming agents only from organic production</td></tr>
 </table>
 
-Annex 3b*[^t-5]*
+Annex 3b[^t-5]
 
 (Art. 3*c*)
 
 ## European Union legislation on organic agriculture
 
-[^t-5]: Inserted by No III para. 3 of the EAER O of 31 Oct. 2012 ([AS 2012 6357](https://fedlex.data.admin.ch/eli/oc/2012/757)). Amended by No II para. 2 of the EAER O of 3 Nov. 2021, with effect from 1 Jan. 2022 ([AS 2021 683](https://fedlex.data.admin.ch/eli/oc/2021/683)).
+[^t-5]: Inserted by No III para. 3 of the EAER O of 31 Oct. 2012 ([AS 2012 6357](https://fedlex.data.admin.ch/eli/oc/2012/757)). Amended by No II of the EAER O of 2 Nov. 2022, in force since 1 Jan. 2023 ([AS 2022 733](https://fedlex.data.admin.ch/eli/oc/2022/733)).
 
-Regulation (EU) 2018/848 of the European Parliament and of the Council of 30 May 2018 on organic production and labelling of organic products and repealing Council Regulation (EC) No 834/2007, OJ L 150 of 14.6.2018, p. 1; last amended by Regulation (EU) 2020/1693, OJ L 381 of 13.11.2020, p. 1.
+Regulation (EU) 2018/848 of the European Parliament and of the Council of 30 May 2018 on organic production and labelling of organic products and repealing Council Regulation (EC) No 834/2007, OJ L 150 of 14.6.2018, p. 1; last amended by Delegated Regulation (EU) 2022/474, OJ L 98 of 25.3.2022, p. 1.
 
-For Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007 referred to in Regulation (EU) 2018/848, the version in the OJ L 347 of 20.12.2013, p. 671 applies; last amended by Regulation (EU) 2017/2393, OJ L 350 of 29.12.2017, p 15.
+For Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007 referred to in Regulation (EU) 2018/848, the version in the OJ L 347 of 20.12.2013, p. 671 applies; last amended by Regulation (EU) 2022/2220, OJ L 437 of 28.12.2020, p 1.
 
-Instead of Commission Regulation (EC) No 606/2009 of 10 July 2009 with implementing provisions for Council Regulation (EC) No 479/2008 as regards the categories of grapevine products, oenological practices and the applicable restrictions referred to in Regulation (EU) 2018/848, Commission Delegated Regulation (EU) 2019/934 of 12 March 2019 supplementing Regulation (EU) No 1308/2013 of the European Parliament and of the Council as regards wine-growing areas where the alcoholic strength may be increased, authorised oenological practices and restrictions applicable to the production and conservation of grapevine products, the minimum percentage of alcohol for by-products and their disposal, and publication of OIV files applies, OJ L 149 of 7.6.2019, p. 1; last amended by Regulation (EU) 2020/565, OJ L 129 of 24.4.2020, p 1.
+Instead of Commission Regulation (EC) No 606/2009 of 10 July 2009 with implementing provisions for Council Regulation (EC) No 479/2008 as regards the categories of grapevine products, oenological practices and the applicable restrictions referred to in Regulation (EU) 2018/848, Commission Delegated Regulation (EU) 2019/934 of 12 March 2019 supplementing Regulation (EU) No 1308/2013 of the European Parliament and of the Council as regards wine-growing areas where the alcoholic strength may be increased, authorised oenological practices and restrictions applicable to the production and conservation of grapevine products, the minimum percentage of alcohol for by-products and their disposal, and publication of OIV files applies, OJ L 149 of 7.6.2019, p. 1; last amended by Delegated Regulation (EU) 2022/68, OJ L 12 of 19.1.2022, p 1.
 
-Instead of Council Regulation (EC) No 1234/2007 of 22 October 2007 establishing a common organisation of agricultural markets and on specific provisions for certain agricultural products (Single CMO Regulation) referred to in Regulation (EU) 2018/848, Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007, OJ L 347 of 20.12.2013, p. 671; last amended by Regulation (EU) 2017/2393 applies, OJ L 350 of 29.12.2017, p. 15.
+Instead of Council Regulation (EC) No 1234/2007 of 22 October 2007 establishing a common organisation of agricultural markets and on specific provisions for certain agricultural products (Single CMO Regulation) referred to in Regulation (EU) 2018/848, Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007, OJ L 347 of 20.12.2013, p. 671; last amended by Regulation (EU) 2020/2220 applies, OJ L 437 of 28.12.2020, p. 1.
 
-Annex 4*[^t-6]*
+Annex 4[^t-6]
 
 [^t-6]: Repealed by No II para. 2 of the EAER O of 11 Nov. 2020, with effect from 1 Jan. 2021 ([AS 2020 5461](https://fedlex.data.admin.ch/eli/oc/2020/953)).
 
-Annex 4a*[^t-7]*
+Annex 4a[^t-7]
 
 [^t-7]: Inserted by No II para. 3 of the EAER O of 18 Oct. 2017 ([AS 2017 6349](https://fedlex.data.admin.ch/eli/oc/2017/706)). Repealed by No II para. 2 of the EAER O of 11 Nov. 2020, with effect from 1 Jan. 2021 ([AS 2020 5461](https://fedlex.data.admin.ch/eli/oc/2020/953)).
 
-Annex 5*[^t-8]*
+Annex 5[^t-8]
 
 (Art. 4*a* para. 1)
 
@@ -1114,7 +1136,7 @@ The requirements of the RAUS-Programme of the Ordinance on Direct Payments of 23
 - 6\. The products listed in Annex 7 Section B 1b (antioxidant agents), Section B 1g i (binders and anti-caking agents), Section B 2b (flavourings), and in Category 4 (zootechnical additives) may be used for animal feeding for the purposes listed with reference to the aforesaid categories.
 - 7\. Feedingstuffs, feed materials, compound feedingstuffs, feed additives, processing aids used in feedingstuffs and certain products used in animal nutrition shall not be produced using genetically modified organisms or derivatives thereof nor shall they contain them.
 
-Annex 6*[^t-9]*
+Annex 6[^t-9]
 
 (Art. 4*a* para. 2)
 
@@ -1145,7 +1167,7 @@ The requirements for outdoor runs in accordance with Annex 6, letter E, paragrap
 
 The requirements in accordance with Annex 6, letter B of the DZV must be complied with.
 
-Annex 7*[^t-10]*
+Annex 7[^t-10]
 
 (Art. 4*b* para. 1 lett. b and c)
 
@@ -1251,7 +1273,7 @@ Function group: b) Flavourings
 <table>
 <tr><th>Code</th><th>Category/ function group</th><th>Substance</th><th>Description, conditions for use</th></tr>
 <tr><td></td><td>2b</td><td>Flavourings</td><td>Only extracts from agricultural products</td></tr>
-<tr><td></td><td>*2b*</td><td>*Castanea sativa Mill.: chestnut extract*</td><td></td></tr>
+<tr><td></td><td>*2b*</td><td>*Castanea sativa Mill.: chestnut* *extract*</td><td></td></tr>
 </table>
 
 ### Category 3Nutritional additives
@@ -1285,7 +1307,7 @@ Function group: b) Trace elements
 <tr><td></td><td>4a, 4b, 4c, 4d</td><td>Enzymes and microorganism in the category of Zootechnical additives</td><td></td></tr>
 </table>
 
-Annex 8*[^t-11]*
+Annex 8[^t-11]
 
 (Art. 4*c*)
 
@@ -1321,7 +1343,7 @@ The following are also authorised:
 
 [^annex8-lvlu1-lvl2-1]: The list of notified active ingredients can be obtained for a fee from the Anmeldestelle für Chemikalien, 3003 Bern, or downloaded free of charge from the Internet address www.cheminfo.ch.
 
-Annex 9*[^t-12]*
+Annex 9[^t-12]
 
 (Art. 16*c* and 16*f*)
 
@@ -1367,7 +1389,7 @@ Swiss Confederation Extract No ...... of the certificate of inspection
 <tr><td colspan="2">14. Declaration of the consignee of the batch This is to certify that the batch has been accepted in accordance with Annex 1 figure 8.5 of the Organic Farming Ordinance. Name of the company Date: Name and signature of the authorised person</td></tr>
 </table>
 
-Annex 10*[^t-13]*
+Annex 10[^t-13]
 
 (Art. 16*i*)
 
@@ -1377,11 +1399,11 @@ Annex 10*[^t-13]*
 
 No entry to date.
 
-Annex 11*[^t-14]*
+Annex 11[^t-14]
 
 [^t-14]: Inserted by No II para. 3 of the EAER O of 18 Nov. 2009 ([AS 2009 6337](https://fedlex.data.admin.ch/eli/oc/2009/771)). Repealed by No II para. 2 of the EAER O of 27 Nov. 2010, with effect from 1 Jan. 2011 ([AS 2010 5863](https://fedlex.data.admin.ch/eli/oc/2010/837)).
 
-Annex 12*[^t-15]*
+Annex 12[^t-15]
 
 (Art. 4*e*)
 
@@ -1412,7 +1434,5 @@ Annex 12*[^t-15]*
 <tr><td><sup>(3)</sup> When a serious infringement or an infringement with long-term effects is established, where the certification body prohibits the operator in question from marketing products with a reference to organic production in the labelling and advertising for a period agreed with the authority responsible for enforcement.</td></tr>
 <tr><td>\* «Agricultural producers» include producers that are producers only, producers that are also processors, producers that are also importers and other mixed producers not elsewhere classified.</td></tr>
 <tr><td>\*\* «Processors» include processors that are processors only, processors that are also importers and other mixed processors not elsewhere classified.</td></tr>
-<tr><td>\*\*\* «Other operators» include traders (wholesalers, retailers) and other operators not elsewhere classified..</td></tr>
+<tr><td>\*\*\* «Other operators» include traders (wholesalers, retailers) and other operators not elsewhere classified.</td></tr>
 </table>
-
-- [tab]
