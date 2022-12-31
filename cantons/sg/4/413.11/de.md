@@ -3,20 +3,19 @@ canton: SG
 number: "413.11"
 title: Verordnung zum Einführungsgesetz zur Bundesgesetzgebung über den Zivilschutz
 language: de
-version: 2021-10-01
-valid_until: 2022-12-31
-version_adopted: 2021-06-29
+version: 2023-01-01
+version_adopted: 2022-12-06
 adopted: 1996-10-01
 in_force: 1997-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/413.11"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3228/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3419/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zum Einführungsgesetz zur Bundesgesetzgebung über den Zivilschutz
 
-vom 01.10.1996 (Stand 01.10.2021)
+vom 01.10.1996 (Stand 01.01.2023)
 
 Landammann und Regierung des Kantons St.Gallen
 
@@ -169,11 +168,11 @@ als Verordnung:[^ingress-3]
 
 #### Art. 9
 
-**Vertrauensarzt**
+**Vertrauensärztin oder Vertrauensarzt**
 
-<sup>1</sup> Der Kanton und die regionalen Zivilschutzorganisationen wählen für die Schutzdienstpflichtigen ihres Zuständigkeitsbereichs einen oder mehrere Vertrauensärzte.
+<sup>1</sup> Der Kanton und die regionalen Zivilschutzorganisationen wählen für die Schutzdienstpflichtigen ihres Zuständigkeitsbereichs eine oder mehrere Personen als Vertrauensärztinnen oder Vertrauensärzte.
 
-<sup>2</sup> Der Vertrauensarzt:
+<sup>2</sup> Die Vertrauensärztin oder der Vertrauensarzt:
 
 - a) beurteilt die Dienstfähigkeit von Schutzdienstpflichtigen;
 - b) sorgt für die ärztliche Betreuung während Dienstleistungen.
@@ -182,9 +181,9 @@ als Verordnung:[^ingress-3]
 
 **Vertrauensärztliche Kommission**
 
-<sup>1</sup> Das Sicherheits- und Justizdepartement wählt im Einvernehmen mit dem Gesundheitsdepartement eine vertrauensärztliche Kommission von drei Ärzten.
+<sup>1</sup> Das Sicherheits- und Justizdepartement wählt im Einvernehmen mit dem Gesundheitsdepartement eine vertrauensärztliche Kommission von drei Ärztinnen oder Ärzten.
 
-<sup>2</sup> Die vertrauensärztliche Kommission entscheidet über Einsprachen gegen Entscheide des Vertrauensarztes.
+<sup>2</sup> Die vertrauensärztliche Kommission entscheidet über Einsprachen gegen Entscheide der Vertrauensärztin oder des Vertrauensarztes.
 
 #### Art. 11
 
@@ -196,7 +195,7 @@ als Verordnung:[^ingress-3]
 
 **Kostentragung**
 
-<sup>1</sup> Die politische Gemeinde trägt die Kosten der Beurteilung durch den Vertrauensarzt und der von diesem veranlassten fachärztlichen Untersuchung nach den Weisungen des Amtes für Militär und Zivilschutz.
+<sup>1</sup> Die politische Gemeinde trägt die Kosten der Beurteilung durch die Vertrauensärztin oder den Vertrauensarzt und der von dieser Person veranlassten fachärztlichen Untersuchung nach den Weisungen des Amtes für Militär und Zivilschutz.
 
 ### 5. Regionale Zivilschutzorganisationen
 
@@ -247,7 +246,7 @@ als Verordnung:[^ingress-3]
 <sup>1</sup> Das Amt für Militär und Zivilschutz, bei Kostenfolgen für den Kanton die Regierung, bewilligt Einsätze zu Gunsten der Gemeinschaft auf kantonaler, regionaler und kommunaler Ebene, wenn sie:
 
 - a) mit Zweck und Aufgaben des Zivilschutzes übereinstimmen;
-- b) die Privatwirtschaft die Leistung nicht anbietet oder der Veranstalter nachweist, dass kein Angebot zum Abschluss eines auf die Leistung ausgerichteten Vertrages eingegangen ist.
+- b) die Privatwirtschaft die Leistung nicht anbietet oder die Veranstalterin oder der Veranstalter nachweist, dass kein Angebot zum Abschluss eines auf die Leistung ausgerichteten Vertrages eingegangen ist.
 
 <sup>2</sup> Wer um einen Einsatz zu Gunsten der Gemeinschaft nachsucht, reicht das Gesuch spätestens ein Jahr vor Beginn der Veranstaltung dem Amt für Militär und Zivilschutz ein.
 
@@ -265,7 +264,7 @@ als Verordnung:[^ingress-3]
 
 **Zivilschutzstelle**
 
-<sup>1</sup> Die zuständige Abteilung des Amtes für Militär und Zivilschutz kann den Zivilschutzstellenleiter zu Rapporten und Weiterbildungskursen aufbieten. Der Staat trägt die Kosten der Durchführung.
+<sup>1</sup> Die zuständige Abteilung des Amtes für Militär und Zivilschutz kann die Zivilschutzstellenleiterin oder den Zivilschutzstellenleiter zu Rapporten und Weiterbildungskursen aufbieten. Der Staat trägt die Kosten der Durchführung.
 
 #### Art. 16bis
 
@@ -486,7 +485,7 @@ als Verordnung:[^ingress-3]
 
 <sup>1</sup> Die politische Gemeinde bezeichnet eine Gemeindestelle für den baulichen Zivilschutz.
 
-<sup>2</sup> Die zuständige Abteilung des Amtes für Militär und Zivilschutz kann den Leiter der Gemeindestelle für den baulichen Zivilschutz zu Rapporten und Weiterbildungskursen aufbieten. Der Staat trägt die Kosten der Durchführung.
+<sup>2</sup> Die zuständige Abteilung des Amtes für Militär und Zivilschutz kann die Leiterin oder den Leiter der Gemeindestelle für den baulichen Zivilschutz zu Rapporten und Weiterbildungskursen aufbieten. Der Staat trägt die Kosten der Durchführung.
 
 <sup>3</sup> Die Gemeindestelle für den baulichen Zivilschutz stellt der zuständigen Abteilung des Amtes für Militär und Zivilschutz die für die Kontrollführung notwendigen Daten zur Verfügung.
 
