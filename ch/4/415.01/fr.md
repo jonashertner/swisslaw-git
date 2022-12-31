@@ -4,11 +4,11 @@ title: "Ordonnance du 23 mai 2012 sur l'encouragement du sport et de l'activité
 short: OESp
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/461"
 language: fr
-version: 2022-12-01
+version: 2023-01-01
 adopted: 2012-05-23
 in_force: 2012-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/461/20221201/fr/xml/fedlex-data-admin-ch-eli-cc-2012-461-20221201-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/461/20221201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/461/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2012-461-20230101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/461/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/461/20221201/fr"
 
 (Ordonnance sur l’encouragement du sport, OESp)
 
-du 23 mai 2012 (Etat le 1<sup>er</sup> décembre 2022)
+du 23 mai 2012 (État le 1<sup>er</sup> janvier 2023)
 
 Le Conseil fédéral suisse,
 
@@ -49,7 +49,7 @@ La Confédération soutient des programmes et des projets d’encouragement du s
 - a. de concevoir et d’encourager un sport adapté aux enfants et aux jeunes en tenant compte des principes de l’éthique et de la sécurité dans le sport;
 - b. de permettre aux enfants et aux jeunes de vivre pleinement le sport et de participer à la mise en place des activités sportives tout en favorisant leur intégration dans une communauté sportive;
 - c. de contribuer au développement et à l’épanouissement des jeunes d’un point de vue pédagogique et en termes d’intégration sociale et de santé;
-- d.[^2-1] ...
+- d.[^2-1] …
 - e. de préparer les moniteurs de sport à leurs tâches de cadres J+S en leur offrant une formation spécifique, une formation continue adaptée à leurs besoins et un suivi dans l’exercice de leur fonction.
 
 <sup>2</sup> À des fins d’intégration sociale ou de santé publique, pour réaliser l’égalité entre les sexes ou pour assurer la promotion du programme J+S, l’Office fédéral du sport (OFSPO) peut prendre des mesures encourageant des groupes spécifiques d’enfants et de jeunes à pratiquer certains sports J+S, ou propres à promouvoir J+S auprès de ces groupes.
@@ -146,12 +146,12 @@ On distingue 6 groupes d’utilisateurs (GU) au sein de J+S. L’OFSPO répartit
 
   les offres J+S du GU 6 sont des offres proposées par la Confédération, des cantons, des communes, des fédérations sportives, des sociétés sportives ou des organisations au fonctionnement analogue:
 
-  - 1\.[^8-4] ...
+  - 1\.[^8-4] …
   - 2\. comme mesures d’encouragement particulières au sens de l’art. 22, al. 4;
 
-- g.[^8-5] ...
+- g.[^8-5] …
 
-<sup>2</sup> ...[^8-6]
+<sup>2</sup> …[^8-6]
 
 [^8-1]: Nouvelle teneur selon le ch. I de l’O du 15 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6589](https://fedlex.data.admin.ch/eli/oc/2017/729)).
 [^8-2]: Nouvelle teneur selon le ch. I de l’O du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
@@ -267,7 +267,7 @@ Font partie des cadres J+S toutes les personnes titulaires d’un certificat:[^1
 
 - a.[^13-2] de moniteur J+S dans un sport J+S ou de moniteur J+S Sport scolaire;
 - b. de coach J+S;
-- c.[^13-3] ...
+- c.[^13-3] …
 - d.[^13-4] d’expert J+S dans un sport J+S ou d’expert J+S Sport scolaire.
 
 <sup>1bis</sup> Sauf disposition contraire de la présente ordonnance ou d’ordonnances qui lui sont subordonnées, les dispositions s’appliquant aux moniteurs J+S dans un sport s’appliquent également aux moniteurs J+S Sport scolaire, et les dispositions s’appliquant aux experts J+S dans un sport s’appliquent également aux experts J+S Sport scolaire.[^13-5]
@@ -415,7 +415,7 @@ Ces subventions sont allouées:
 - b. si les exigences spécifiques concernant la réalisation de l’offre J+S sont respectées, et
 - c. si, une fois l’offre J+S terminée, l’organisateur a présenté le décompte en temps voulu.
 
-<sup>2bis</sup> Si le nombre minimal d’activités ne peut pas être respecté dans les cours J+S en raison des mesures prises par la Confédération pour lutter contre le coronavirus, l’OFSPO octroie des subventions; les subventions sont versées en fonction des activités effectivement réalisées.[^22-1]
+<sup>2bis</sup> …[^22-1]
 
 <sup>3</sup> L’OFSPO fixe dans chaque cas le montant des subventions dans la limite des crédits autorisés et des subventions maximales fixées par le DDPS.
 
@@ -433,7 +433,7 @@ Les autorisations sont accordées:
 - a. par l’autorité responsable de la réalisation de l’offre J+S dans le canton dans lequel l’organisation est sise pour les offres des GU 1, 2, 3 et 5, ainsi que pour les offres des communes s’adressant au GU 4;
 - b.[^22-3] par l’OFSPO pour les offres des cantons et des fédérations sportives nationales du GU 4 et pour les offres du GU 6.
 
-<sup>6</sup> ...[^22-4]
+<sup>6</sup> …[^22-4]
 
 [^22-1]: Introduit par le ch. I de l’O du 20 mai 2020 ([RO 2020 1757](https://fedlex.data.admin.ch/eli/oc/2020/345)). Nouvelle teneur selon le ch. I de l’O du 30 juin 2021, en vigueur du 1<sup>er</sup> janv. 2022 au 31 déc. 2022 ([RO 2021 417](https://fedlex.data.admin.ch/eli/oc/2021/417)).
 [^22-2]: Nouvelle teneur selon le ch. I de l’O du 3 avr. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 1513](https://fedlex.data.admin.ch/eli/oc/2020/303)).
@@ -452,7 +452,7 @@ Les subventions sont fonction:
 - b. du nombre, de la fréquence et du volume des entraînements et des compétitions pendant une période donnée;
 - c. du groupe d’utilisateurs;
 - c<sup>bis</sup>.[^23-1] du sport;
-- d.[^23-2] ...
+- d.[^23-2] …
 
 <sup>2</sup> Des subventions supplémentaires peuvent être allouées aux sports dont la pratique nécessite des mesures de sécurité ou des qualifications particulières de la part des moniteurs. Le DDPS détermine ces sports.
 
@@ -463,7 +463,7 @@ Des subventions supplémentaires peuvent être allouées:
 - a. aux offres J+S du GU 5 intégrant des enfants;
 - b. aux offres J+S intégrant des enfants et des jeunes handicapés.
 
-<sup>4</sup> ...[^23-3]
+<sup>4</sup> …[^23-3]
 
 <sup>5</sup> Le DDPS détermine le montant des subventions. Il adapte périodiquement les subventions au renchérissement.
 
@@ -473,17 +473,7 @@ Des subventions supplémentaires peuvent être allouées:
 
 #### Art. 23a
 
-**Subvention spéciale**[^23a-1]
-
-<sup>1</sup> L’OFSPO peut, dans le cadre des crédits alloués, soutenir les organisateurs d’offres J+S avec des subventions spéciales.
-
-<sup>2</sup> Une subvention spéciale peut être versée aux organisateurs d’offres J+S des groupes d’utilisateurs 1, 2 et 3 ainsi qu’aux fédérations sportives nationales du groupe d’utilisateurs 4 qui ont clôturé une offre J+S comportant des activités réalisées entre le 1<sup>er</sup> janvier et le 26 décembre 2021.
-
-<sup>3</sup> La subvention spéciale est calculée sur la base d’un pourcentage des subventions reçues par l’organisateur pour les offres J+S qu’il a clôturées en 2019. Le pourcentage est le même pour tous les organisateurs; il est plafonné à 50 % des subventions reçues en 2019.
-
-<sup>4</sup> Pour les organisateurs au sens de l’al. 2 qui n’ont clôturé aucune offre J+S en 2019, la subvention spéciale est calculée sur la base des offres clôturées en 2018.
-
-<sup>5</sup> Pour les organisateurs au sens de l’al. 2 qui ont clôturé une offre J+S pour la première fois en 2020, la subvention spéciale est calculée sur la base des offres clôturées en 2020.
+[^23a-1]
 
 [^23a-1]: Introduit par le ch. I de l’O du 20 mai 2020 ([RO 2020 1757](https://fedlex.data.admin.ch/eli/oc/2020/345)). Nouvelle teneur selon le ch. I de l’O du 30 juin 2021, en vigueur du 1<sup>er</sup> août 2021 au 31 déc. 2022 ([RO 2021 417](https://fedlex.data.admin.ch/eli/oc/2021/417)).
 
@@ -493,7 +483,7 @@ Des subventions supplémentaires peuvent être allouées:
 
 <sup>1</sup> Les subventions pour les coachs J+S sont fonction du montant des subventions allouées pour la réalisation des offres J+S. Elles s’élèvent au maximum à 10 % de la somme globale.
 
-<sup>2</sup> Les subventions supplémentaires au sens de l’art. 23, al. 2 et 3, ne sont pas prises en compte dans le calcul de la somme globale. ...[^24-1]
+<sup>2</sup> Les subventions supplémentaires au sens de l’art. 23, al. 2 et 3, ne sont pas prises en compte dans le calcul de la somme globale. …[^24-1]
 
 <sup>3</sup> Le DDPS détermine le montant des subventions.
 
@@ -568,7 +558,7 @@ L’OFSPO conclue des contrats de prestations avec les fédérations sportives e
 
 <sup>4</sup> Il peut prendre en charge les frais de transports publics payés par les participants, les moniteurs et les auxiliaires de la formation des cadres pour se rendre aux cours de formation et de formation continue.[^28-1]
 
-<sup>5</sup> ...[^28-2]
+<sup>5</sup> …[^28-2]
 
 [^28-1]: Nouvelle teneur selon le ch. I de l’O du 3 avr. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 1513](https://fedlex.data.admin.ch/eli/oc/2020/303)).
 [^28-2]: Abrogé par le ch. I de l’O du 20 août 2014, avec effet au 1<sup>er</sup> oct. 2014 ([RO 2014 2841](https://fedlex.data.admin.ch/eli/oc/2014/489)).
@@ -692,7 +682,7 @@ L’OFSPO retire la reconnaissance d’un cadre ESA dans les cas suivants:
 - a. condamnation pénale inspirant des doutes fondés sur la capacité de ce cadre à assumer sa tâche correctement;
 - b. manquements répétés aux obligations visées à l’art. 35.
 
-<sup>4</sup> ...[^39-3]
+<sup>4</sup> …[^39-3]
 
 [^39-1]: Nouvelle teneur selon le ch. I de l’O du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
 [^39-2]: Nouvelle teneur selon le ch. I de l’O du 11 sept. 2015, en vigueur depuis le 1<sup>er</sup> déc. 2015 ([RO 2015 3701](https://fedlex.data.admin.ch/eli/oc/2015/615)).
@@ -724,7 +714,7 @@ L’OFSPO retire la reconnaissance d’un cadre ESA dans les cas suivants:
 
 #### Art. 41
 
-**...[^41-1]**
+**…[^41-1]**
 
 <sup>1</sup> La fédération faîtière du sport suisse reçoit une subvention annuelle pour encourager, développer et soutenir le sport suisse.
 
@@ -1170,13 +1160,7 @@ La HEFSM peut proposer des filières de formation continue menant aux titres sui
 
 #### Art. 63a
 
-**Adaptation des filières d’études pendant l’épidémie de coronavirus**[^63a-1]
-
-<sup>1</sup> La HEFSM peut adapter de manière appropriée le contenu, la date, la forme et le volume des filières d’études, des formations continues et des évaluations de compétences qui ne peuvent pas être réalisées conformément aux exigences des livrets des modules en vigueur en raison des mesures prises par la Confédération pour lutter contre le coronavirus, tant que cela correspond aux objectifs des études. Elle peut adapter les tests d’aptitude préalables à l’admission aux études.
-
-<sup>2</sup> Il n’est pas facturé d’émoluments aux étudiants lorsque, en raison des mesures prises par la Confédération pour lutter contre le coronavirus, ils se désistent ou s’abstiennent de participer aux cours ou aux évaluations de compétences, ou lorsque les cours ou les évaluations de compétences sont, pour cette raison, reportés ou annulés.
-
-<sup>3</sup> Les étudiants qui n’ont pas pu suivre les cours pendant plus de trois semaines en raison d’une convocation à l’armée, à la protection civile ou au service civil en vue de lutter contre le coronavirus ont le droit de demander *a posteriori* un congé pour le semestre d’études. Les taxes d’études déjà acquittées seront remboursées.
+[^63a-1]
 
 [^63a-1]: Introduit par le ch. I de l’O du 20 mai 2020 ([RO 2020 1757](https://fedlex.data.admin.ch/eli/oc/2020/345)). Nouvelle teneur selon le ch. I de l’O du 30 juin 2021, en vigueur du 1<sup>er</sup> janv. 2022 au 31 déc. 2022 ([RO 2021 417](https://fedlex.data.admin.ch/eli/oc/2021/417)).
 
@@ -1303,13 +1287,13 @@ L’OFSPO peut, en complément des statistiques de l’Office fédéral de la st
 
 <sup>1</sup>
 
-La Confédération peut participer aux frais de candidature et d’organisation de manifestations sportives internationales si les conditions suivantes sont remplies:
+La Confédération peut participer aux frais de candidature et d’organisation d’une manifestation sportive internationale si les conditions suivantes sont remplies:
 
-- a. le sport concerné revêt une importance particulière en Suisse ou la manifestation revêt une importance particulière pour la place économique suisse;
+- a. le sport concerné revêt une importance particulière en Suisse ou la manifestation revêt une importance particulière pour l’économie suisse;
 - b. il s’agit d’un événement d’envergure européenne ou mondiale qui n’a pas lieu régulièrement en Suisse;
 - c. il s’agit d’un événement qui ne s’inscrit pas dans les séries de compétitions disputées régulièrement;
 - d. l’organisation de la manifestation sportive est attribuée par une fédération internationale ou un organisateur international sur la base d’une candidature;
-- e. la fédération chapeautant le sport dont relève la manifestation prend des mesures d’encouragement spéciales dans le cadre de la manifestation sportive.
+- e. des mesures d’encouragement particulières au sens de l’art. 72*a*, al. 1, sont prises en lien avec la manifestation concernée.[^72-1]
 
 <sup>2</sup> La participation s’élève au maximum à la moitié du montant imputable alloué conjointement par les cantons et les communes à la manifestation. Le DDPS fixe le montant imputable.
 
@@ -1326,9 +1310,44 @@ Le montant de la participation dépend:
 
 <sup>5</sup> L’al. 1, let. a et b ainsi que les al. 2 et 3 sont applicables par analogie au soutien des congrès de sport internationaux.
 
+[^72-1]: Nouvelle teneur selon le ch. I de l’O du 2 déc. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 810](https://fedlex.data.admin.ch/eli/oc/2022/810)).
+
 #### Art. 72a
 
-**Formation et formation continue des entraîneurs**[^72a-1]
+**Mesures d’encouragement particulières en lien avec les manifestations sportives internationales**[^72a-1]
+
+<sup>1</sup> Sont considérées comme mesures d’encouragement particulières les mesures prises en lien avec la manifestation sportive internationale qui génèrent une plus-value pour l’encouragement du sport concerné en Suisse.
+
+<sup>2</sup>
+
+La Confédération peut participer aux coûts de mesures d’encouragement particulières si ces mesures:
+
+- a. se fondent sur une stratégie d’encouragement de la fédération sportive nationale compétente pour le sport concerné, et
+- b. contribuent à augmenter l’activité physique et sportive.
+
+<sup>3</sup> La Confédération ne participe pas aux coûts des mesures d’encouragement particulières qui ouvrent droit à des subventions au titre du programme Jeunesse et sport.
+
+<sup>4</sup> La participation de la Confédération est limitée à quatre ans, la date de la manifestation devant se situer durant la période de subventionnement.
+
+<sup>5</sup>
+
+Le montant de la participation de la Confédération dépend:
+
+- a. des moyens disponibles;
+- b. de l’importance des mesures pour l’encouragement du sport et de l’activité physique en général, et
+- c. du coût total de la manifestation.
+
+<sup>6</sup> Il couvre 50 % au plus des coûts des mesures.
+
+<sup>7</sup> La fédération sportive nationale est chargée d’assurer le financement des mesures.
+
+<sup>8</sup> Elle établit une comptabilité distincte concernant la mise en œuvre des mesures. Elle rend compte à l’OFSPO de leur mise en œuvre et de leur effet.
+
+[^72a-1]: Introduit par le ch. I de l’O du 2 déc. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 810](https://fedlex.data.admin.ch/eli/oc/2022/810)).
+
+#### Art. 72b
+
+**Formation et formation continue des entraîneurs**[^72b-1]
 
 <sup>1</sup> L’OFSPO gère un centre de compétences pour la formation et la formation continue des entraîneurs de la relève dans le sport de compétition et des sportifs d’élite.
 
@@ -1338,7 +1357,7 @@ Le montant de la participation dépend:
 
 <sup>4</sup> Il peut collaborer avec des organisations du monde du travail dans le domaine de la formation professionnelle des entraîneurs ainsi qu’avec d’autres institutions suisses ou étrangères dans le domaine de la formation des entraîneurs.
 
-[^72a-1]: Introduit par le ch. I de l’O du 11 août 2021, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
+[^72b-1]: Anciennement art. 72*a*. Introduit par le ch. I de l’O du 11 août 2021, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
 
 ## Titre 4 Éthique et sécurité
 
@@ -1499,7 +1518,7 @@ Sous réserve de dispositions contraires figurant à l’art. 32 LESp ainsi que 
 
 **Émoluments et prix pour les prestations de l’OFSPO**
 
-<sup>1</sup> ...[^80-1]
+<sup>1</sup> …[^80-1]
 
 <sup>2</sup> Pour fixer le prix des formations continues visées à l’art. 57, al. 2, l’OFSPO prend en compte les principes énoncés à l’art. 9 de la loi fédérale du 20 juin 2014 sur la formation continue[^80-2].[^80-3]
 
@@ -1543,7 +1562,7 @@ Sont abrogées:
 
 **Modification du droit en vigueur**
 
-...[^82-1]
+…[^82-1]
 
 [^82-1]: Les mod. peuvent être consultées au [RO 2012 3967](https://fedlex.data.admin.ch/eli/oc/2012/461)
 

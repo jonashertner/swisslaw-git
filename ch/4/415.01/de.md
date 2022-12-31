@@ -4,11 +4,11 @@ title: "Verordnung vom 23. Mai 2012 über die Förderung von Sport und Bewegung 
 short: SpoFöV
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/461"
 language: de
-version: 2022-12-01
+version: 2023-01-01
 adopted: 2012-05-23
 in_force: 2012-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/461/20221201/de/xml/fedlex-data-admin-ch-eli-cc-2012-461-20221201-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/461/20221201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/461/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2012-461-20230101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/461/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/461/20221201/de"
 
 (Sportförderungsverordnung, SpoFöV)
 
-vom 23. Mai 2012 (Stand am 1. Dezember 2022)
+vom 23. Mai 2012 (Stand am 1. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -417,7 +417,7 @@ Die Beiträge werden gewährt, wenn:
 - b. die spezifischen Anforderungen an die Durchführung des J+S-Angebots eingehalten sind; und
 - c. die Abrechnungsunterlagen vom Organisator rechtzeitig nach Abschluss des J+S-Angebots eingereicht worden sind.
 
-<sup>2bis</sup> Kann in J+S-Kursen als Folge der Massnahmen des Bundes zur Bekämpfung des Coronavirus die erforderliche Mindestanzahl von Aktivitäten nicht eingehalten werden, so gewährt das BASPO Beiträge; die Beiträge werden für die tatsächlich durchgeführten Aktivitäten gewährt.[^22-1]
+<sup>2bis</sup> …[^22-1]
 
 <sup>3</sup> Das BASPO bestimmt im Einzelfall die Beiträge im Rahmen der bewilligten Kredite und der vom VBS festgelegten Maximalbeiträge.
 
@@ -475,17 +475,7 @@ Zusätzliche Beiträge können ausgerichtet werden an:
 
 #### Art. 23a
 
-**Sonderbeitrag**[^23a-1]
-
-<sup>1</sup> Das BASPO kann im Rahmen der bewilligten Kredite Organisatoren von J+S-Angeboten mit Sonderbeiträgen unterstützen.
-
-<sup>2</sup> Einen Sonderbeitrag erhalten Organisatoren von J+S-Angeboten der Nutzergruppen 1, 2 und 3 sowie nationale Sportverbände der Nutzergruppe 4, die ein J+S-Angebot mit Aktivitäten im Zeitraum zwischen dem 1. Januar 2021 und dem 26. Dezember 2021 abgeschlossen haben.
-
-<sup>3</sup> Der Sonderbeitrag errechnet sich als Prozentsatz auf den Beiträgen, die der Organisator für seine im Jahr 2019 abgeschlossenen J+S-Angebote erhalten hat. Der Prozentsatz ist für alle Organisatoren identisch; er beträgt höchstens 50 Prozent der im Jahr 2019 bezogenen Beiträge.
-
-<sup>4</sup> Für Organisatoren nach Absatz 2, die im Jahr 2019 keine J+S-Angebote abgeschlossen haben, errechnet sich der Beitrag auf Basis der im Jahr 2018 abgeschlossenen Angebote.
-
-<sup>5</sup> Für Organisatoren nach Absatz 2, die erstmals im Jahr 2020 ein J+S-Angebot abgeschlossen haben, errechnet sich der Beitrag auf der Basis der im Jahr 2020 abgeschlossenen Angebote.
+[^23a-1]
 
 [^23a-1]: Eingefügt durch Ziff. I der V vom 20. Mai 2020 ([AS 2020 1757](https://fedlex.data.admin.ch/eli/oc/2020/345)). Fassung gemäss Ziff. I der V vom 30. Juni 2021, in Kraft vom 1. Aug. 2021 bis zum 31. Dez. 2022 ([AS 2021 417](https://fedlex.data.admin.ch/eli/oc/2021/417)).
 
@@ -1172,13 +1162,7 @@ Die EHSM kann Weiterbildungsstudiengänge anbieten, die zu einem der folgenden A
 
 #### Art. 63a
 
-**Anpassungen der Studiengänge während der Covid-19-Epidemie**[^63a-1]
-
-<sup>1</sup> Die EHSM kann Studiengänge, Weiterbildungen und Kompetenznachweise, die als Folge der Massnahmen des Bundes zur Bekämpfung des Coronavirus nicht nach den Vorgaben des jeweils gültigen Modulhandbuchs durchgeführt werden können, bezüglich Inhalt, Zeitpunkt, Form und Umfang in anderer geeigneter Weise, die der Zielsetzung des Studiengangs entspricht, durchführen. Sie kann die Eignungsabklärungen zur Aufnahme ins Studium anpassen.
-
-<sup>2</sup> Müssen Studierende als Folge der Massnahmen des Bundes zur Bekämpfung des Coronavirus Lehrveranstaltungen oder Kompetenznachweise verschieben oder absagen, sich von ihnen abmelden oder ihnen fernbleiben, so ergeben sich für sie keine Gebührenfolgen.
-
-<sup>3</sup> Studierende, die als Folge eines angeordneten Militär-, Zivilschutz- oder Zivildiensteinsatzes zur Bekämpfung des Coronavirus während mehr als drei Wochen dem Unterricht fernbleiben mussten, haben das Recht, sich nachträglich für das Studiensemester beurlauben zu lassen. Geleistete Studiengebühren werden rückerstattet.
+[^63a-1]
 
 [^63a-1]: Eingefügt durch Ziff. I der V vom 20. Mai 2020 ([AS 2020 1757](https://fedlex.data.admin.ch/eli/oc/2020/345)). Fassung gemäss Ziff. I der V vom 30. Juni 2021, in Kraft vom 1. Jan. 2022 bis zum 31. Dez. 2022 ([AS 2021 417](https://fedlex.data.admin.ch/eli/oc/2021/417)).
 
@@ -1305,13 +1289,13 @@ Das BASPO kann in Ergänzung zu den Statistiken des Bundesamts für Statistik sp
 
 <sup>1</sup>
 
-Die Beteiligung des Bundes an den Kosten der Kandidatur für internationale Sportanlässe oder von deren Durchführung ist möglich, wenn folgende Voraussetzungen erfüllt sind:
+Der Bund kann sich an den Kosten der Kandidatur oder der Durchführung eines internationalen Sportanlasses beteiligen, wenn:
 
-- a. Der betreffenden Sportart kommt in der Schweiz oder dem Anlass kommt für den Standort Schweiz eine besondere Bedeutung zu.
-- b. Es handelt sich um ein Ereignis von europäischer oder weltweiter Bedeutung, das nicht regelmässig in der Schweiz durchgeführt wird.
-- c. Es handelt sich um ein Ereignis ausserhalb von regelmässig stattfindenden Wettkampfserien.
-- d. Die Durchführung des Sportanlasses wird aufgrund einer Bewerbung durch einen internationalen Verband oder einen internationalen Organisator vergeben.
-- e. Der Sportverband, in dessen Sportart der Anlass stattfindet, trifft im Zusammenhang mit dem Sportanlass besondere Fördermassnahmen.
+- a. der betreffenden Sportart in der Schweiz oder dem Anlass für den Standort Schweiz eine besondere Bedeutung zukommt;
+- b. es sich um ein Ereignis von europäischer oder weltweiter Bedeutung handelt, das nicht regelmässig in der Schweiz durchgeführt wird;
+- c. es sich um ein Ereignis ausserhalb von regelmässig stattfindenden Wettkampfserien handelt;
+- d. die Durchführung des Sportanlasses aufgrund einer Bewerbung durch einen internationalen Verband oder einen internationalen Organisator vergeben wird; und
+- e. im Zusammenhang mit der Durchführung des Anlasses besondere Förder-massnahmen nach Artikel 72*a* Absatz 1 getroffen werden.[^72-1]
 
 <sup>2</sup> Der Beitrag beträgt höchstens die Hälfte des anrechenbaren Betrags, den Kantone und Gemeinden zusammen an den Anlass leisten. Das VBS legt den anrechenbaren Betrag fest.
 
@@ -1328,9 +1312,44 @@ Die Höhe des Beitrags richtet sich nach:
 
 <sup>5</sup> Für die Unterstützung von internationalen Sportkongressen gelten die Absätze 1 Buchstaben a und b sowie 2 und 3 sinngemäss.
 
+[^72-1]: Fassung gemäss Ziff. I der V vom 2. Dez. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 810](https://fedlex.data.admin.ch/eli/oc/2022/810)).
+
 #### Art. 72a
 
-**Aus- und Weiterbildung von Trainerinnen und Trainern**[^72a-1]
+**Besondere Fördermassnahmen im Zusammenhang mit internationalen Sportanlässen**[^72a-1]
+
+<sup>1</sup> Als besondere Fördermassnahmen gelten Massnahmen, die im Zusammenhang mit dem internationalen Sportanlass stehen und einen Mehrwert für die Förderung der entsprechenden Sportart in der Schweiz generieren.
+
+<sup>2</sup>
+
+Der Bund kann sich an den Kosten von besonderen Fördermassnahmen beteiligen, wenn die Massnahmen:
+
+- a. auf einem Förderkonzept des nationalen Sportverbands basieren, in dessen Sportart der Anlass stattfindet; und
+- b. zur Steigerung der Sport- und Bewegungsaktivitäten beitragen.
+
+<sup>3</sup> Der Bund beteiligt sich nicht an den Kosten von besonderen Fördermassnahmen, bei denen Anspruch auf Unterstützung mit Beiträgen aus dem Programm Jugend und Sport besteht.
+
+<sup>4</sup> Die Beteiligung des Bundes ist auf vier Jahre begrenzt, wobei das Datum des Sportanlasses innerhalb der Förderperiode liegen muss.
+
+<sup>5</sup>
+
+Der Beitrag des Bundes richtet sich nach:
+
+- a. den zur Verfügung stehenden Mitteln;
+- b. der Bedeutung der Massnahmen für die allgemeine Sport- und Bewegungsförderung; und
+- c. den Gesamtkosten des Anlasses.
+
+<sup>6</sup> Er deckt höchstens 50 Prozent der Kosten der Massnahmen.
+
+<sup>7</sup> Der nationale Sportverband ist verantwortlich für die Sicherstellung der Finanzierung der Massnahmen.
+
+<sup>8</sup> Er führt betreffend die Umsetzung der Massnahmen eine separate Rechnung. Er erstattet dem BASPO Bericht über die Umsetzung und die Wirkung der Massnahmen.
+
+[^72a-1]: Eingefügt durch Ziff. I der V vom 2. Dez. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 810](https://fedlex.data.admin.ch/eli/oc/2022/810)).
+
+#### Art. 72b
+
+**Aus- und Weiterbildung von Trainerinnen und Trainern**[^72b-1]
 
 <sup>1</sup> Das BASPO führt ein Kompetenzzentrum für die Aus- und Weiterbildung von Trainerinnen und Trainern im leistungsorientierten Nachwuchssport und im Spitzensport.
 
@@ -1340,7 +1359,7 @@ Die Höhe des Beitrags richtet sich nach:
 
 <sup>4</sup> Es kann mit Organisationen der Arbeitswelt im Bereich der Trainerberufsbildung und mit weiteren inländischen oder ausländischen Institutionen im Bereich der Trainerbildung zusammenarbeiten.
 
-[^72a-1]: Eingefügt durch Ziff. I der V vom 11. Aug. 2021, in Kraft seit 1. Okt. 2021 ([AS 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
+[^72b-1]: Ursprünglich: Art. 72*a.* Eingefügt durch Ziff. I der V vom 11. Aug. 2021, in Kraft seit 1. Okt. 2021 ([AS 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
 
 ## 4. Titel: Fairness und Sicherheit
 
@@ -1557,10 +1576,9 @@ Folgende Verordnungen werden aufgehoben:
 
 <sup>2</sup> J+S-Angebote der NG 7, die bei Inkraftsetzung dieser Verordnung bereits begonnen haben, werden ab Inkraftsetzung dieser Verordnung nach den neuen Bestimmungen durchgeführt. Das BASPO kann mit den Organisatoren Vereinbarungen über eine pauschalisierte Unterstützung abschliessen. Diese Vereinbarungen haben Gültigkeit bis längstens zum 30. September 2014[^83-1].
 
-<sup>3</sup> …[^83-2]
+<sup>3</sup> Der Rahmenlehrplan nach Artikel 53 ist innert zwei Jahren nach Inkrafttreten dieser Verordnung zu erlassen. Die Lehrpläne Sport sind innert zwei Jahren nach Inkrafttreten des Rahmenlehrplans zu erlassen.
 
 [^83-1]: S. auch: Art. 83*a*.
-[^83-2]: Aufgehoben durch Ziff. I der V vom 30. März 2022, mit Wirkung seit 1. Dez. 2022 ([AS 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
 
 #### Art. 83a
 

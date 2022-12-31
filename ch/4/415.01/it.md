@@ -4,11 +4,11 @@ title: "Ordinanza del 23 maggio 2012 sulla promozione dello sport e dell'attivit
 short: OPSpo
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/461"
 language: it
-version: 2022-12-01
+version: 2023-01-01
 adopted: 2012-05-23
 in_force: 2012-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/461/20221201/it/xml/fedlex-data-admin-ch-eli-cc-2012-461-20221201-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/461/20221201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/461/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2012-461-20230101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/461/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/461/20221201/it"
 
 (Ordinanza sulla promozione dello sport, OPSpo)
 
-del 23 maggio 2012 (Stato 1° dicembre 2022) (Stato 1° dicembre 2022)
+del 23 maggio 2012 (Stato 1° gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -417,7 +417,7 @@ I contributi sono concessi se:
 - b. sono rispettate le disposizioni specifiche per lo svolgimento dell’offerta G+S;
 - c. la documentazione contabile è stata inoltrata per tempo dall’organizzatore dopo la conclusione dell’offerta G+S.
 
-<sup>2bis</sup> Se a seguito dei provvedimenti della Confederazione per la lotta al coronavirus nell’ambito di corsi G+S non si può rispettare il numero minimo richiesto di attività, l’UFSPO concede contributi; i contributi sono concessi per le attività effettivamente svolte.[^22-1]
+<sup>2bis</sup> ...[^22-1]
 
 <sup>3</sup> Nel quadro dei crediti stanziati e degli importi massimi stabiliti dal DDPS l’UFSPO stabilisce i contributi nel singolo caso.
 
@@ -475,17 +475,7 @@ Contributi supplementari possono essere versati a:
 
 #### Art. 23a
 
-**Contributi speciali**[^23a-1]
-
-<sup>1</sup> Nel quadro dei crediti approvati l’UFSPO può sostenere con contributi speciali gli organizzatori di offerte G+S.
-
-<sup>2</sup> Ricevono un contributo speciale gli organizzatori di offerte G+S dei gruppi di utenti 1, 2 e 3 come pure federazioni sportive nazionali del gruppo di utenti 4 che hanno chiuso un’offerta G+S con attività nel periodo fra il 1° gennaio 2021 e il 26 dicembre 2021.
-
-<sup>3</sup> Il contributo speciale si calcola come percentuale sui contributi che l’organizzatore ha ricevuto per le proprie offerte G+S chiuse nel 2019. Il tasso percentuale è uguale per tutti gli organizzatori e ammonta a un massimo del 50 per cento dei contributi ricevuti nel 2019.
-
-<sup>4</sup> Per gli organizzatori di cui al capoverso 2 che nel 2019 non hanno chiuso alcuna offerta G+S, il contributo si calcola sulla base delle offerte chiuse nel 2018.
-
-<sup>5</sup> Per gli organizzatori di cui al capoverso 2 che hanno chiuso un’offerta G+S per la prima volta nel 2020, il contributo si calcola sulla base delle offerte chiuse nel 2020.
+[^23a-1]
 
 [^23a-1]: Introdotto dal n. I dell’O del 20 mag. 2020 ([RU 2020 1757](https://fedlex.data.admin.ch/eli/oc/2020/345)). Nuovo testo giusta il n. I dell’O del 30 giu. 2021, in vigore dal 1° ago. 2021 al 31 dic. 2022 ([RU 2021 417](https://fedlex.data.admin.ch/eli/oc/2021/417)).
 
@@ -1172,13 +1162,7 @@ La SUFSM può proporre cicli di studio di formazione continua che portano al con
 
 #### Art. 63a
 
-**Adattamenti dei cicli di studio durante l’epidemia di COVID-19**[^63a-1]
-
-<sup>1</sup> La SUFSM può svolgere con altre modalità, rispondenti agli obiettivi del ciclo di studio, cicli di studio, perfezionamenti e verifiche delle competenze, che a seguito dei provvedimenti della Confederazione per la lotta al coronavirus non è stato possibile svolgere rispettando le indicazioni previste nei rispettivi manuali in merito a contenuti, scadenze, forma ed entità. Può adattare l’accertamento dell’idoneità per l’ammissione agli studi.
-
-<sup>2</sup> Se a seguito dei provvedimenti della Confederazione per la lotta al coronavirus gli studenti devono spostare o annullare la partecipazione all’insegnamento o le verifiche delle competenze, ritirarsi o non comparire, non ci sono per loro conseguenze finanziarie in merito agli emolumenti.
-
-<sup>3</sup> Gli studenti che a seguito di un impiego nel quadro dell’esercito, della protezione civile o del servizio civile sostitutivo comandato per la lotta al coronavirus si sono dovuti assentare dalle lezioni per più di tre settimane hanno il diritto di chiedere il congedo per il semestre in corso. Le tasse universitarie pagate sono rimborsate.
+[^63a-1]
 
 [^63a-1]: Introdotto dal n. I dell’O del 20 mag. 2020 ([RU 2020 1757](https://fedlex.data.admin.ch/eli/oc/2020/345)). Nuovo testo giusta il n. I dell’O del 30 giu. 2021, in vigore dal 1° gen. 2022 al 31 dic. 2022 ([RU 2021 417](https://fedlex.data.admin.ch/eli/oc/2021/417)).
 
@@ -1303,15 +1287,12 @@ A complemento delle statistiche dell’Ufficio federale di statistica l’UFSPO 
 
 **Manifestazioni e congressi sportivi internazionali**
 
-<sup>1</sup>
-
-La partecipazione della Confederazione alle spese per la candidatura o la realizzazione di manifestazioni sportive internazionali è possibile se sono soddisfatte le condizioni seguenti:
-
+- [tab] <sup>1</sup> La Confederazione può partecipare alle spese per la candidatura o l’organizzazione di una manifestazione sportiva internazionale, se:
 - a. la disciplina sportiva in questione è particolarmente importante in Svizzera o la manifestazione è particolarmente rilevante per la piazza svizzera;
 - b. si tratta di un evento di importanza europea o mondiale che non si tiene regolarmente in Svizzera;
 - c. si tratta di un evento che non rientra nelle competizioni che si svolgono a scadenze regolari;
-- d. l’organizzazione della manifestazione sportiva è assegnata da una federazione sportiva internazionale o da un organizzatore internazionale sulla base di una procedura di candidatura;
-- e. la federazione sportiva cui la manifestazione si riferisce adotta particolari misure di promozione in relazione con la manifestazione sportiva.
+- d. l’organizzazione della manifestazione sportiva è assegnata da una federazione internazionale o da un organizzatore internazionale sulla base di una procedura di candidatura; e
+- e. sono adottate misure di promozione particolari secondo l’articolo 72*a* capoverso 1 in relazione all’organizzazione della manifestazione.[^72-1]
 
 <sup>2</sup> Il contributo ammonta al massimo alla metà dell’importo computabile concesso complessivamente alla manifestazione dai Cantoni e dai Comuni. Il DDPS stabilisce l’importo computabile.
 
@@ -1328,9 +1309,44 @@ L’ammontare dell’importo si fonda su:
 
 <sup>5</sup> Per il sostegno ai congressi internazionali dedicati allo sport sono applicabili per analogia i capoversi 1 lettere a e b nonché 2 e 3.
 
+[^72-1]: Nuovo testo giusta il n. I dell’O del 2 dic. 2022, in vigore dal 1° gen. 2023 ([RU 2022 810](https://fedlex.data.admin.ch/eli/oc/2022/810)).
+
 #### Art. 72a
 
-**Formazione e formazione continua degli allenatori**[^72a-1]
+**Misure di promozione particolari in relazione a manifestazioni sportive internazionali**[^72a-1]
+
+<sup>1</sup> Sono considerate misure di promozione particolari le misure in relazione alla manifestazione sportiva internazionale che generano un valore aggiunto per la promozione della disciplina sportiva in questione in Svizzera.
+
+<sup>2</sup>
+
+La Confederazione può partecipare alle spese per misure di promozione particolari, se le misure:
+
+- a. si basano su un programma di promozione della federazione sportiva nazionale competente per la relativa disciplina sportiva della manifestazione; e
+- b. contribuiscono all’incremento dell’attività fisica e sportiva.
+
+<sup>3</sup> La Confederazione non partecipa alle spese per misure di promozione particolari per le quali sussiste il diritto al sostegno tramite contributi del programma Gioventù+Sport.
+
+<sup>4</sup> La partecipazione della Confederazione è limitata a quattro anni e la data della manifestazione sportiva deve essere compresa nel periodo di promozione.
+
+<sup>5</sup>
+
+Il contributo della Confederazione si fonda su:
+
+- a. i mezzi a disposizione;
+- b. l’importanza delle misure per la promozione generale dello sport e dell’attività fisica; e
+- c. i costi complessivi della manifestazione.
+
+<sup>6</sup> Il contributo copre al massimo il 50 per cento delle spese per le misure.
+
+<sup>7</sup> La federazione sportiva nazionale è responsabile per la garanzia del finanziamento delle misure.
+
+<sup>8</sup> Essa tiene una contabilità separata per quanto concerne l’attuazione delle misure. Riferisce all’UFSPO in merito all’attuazione e all’efficacia delle misure.
+
+[^72a-1]: Introdotto dal n. I dell’O del 2 dic. 2022, in vigore dal 1° gen. 2023 ([RU 2022 810](https://fedlex.data.admin.ch/eli/oc/2022/810)).
+
+#### Art. 72b
+
+**Formazione e formazione continua degli allenatori**[^72b-1]
 
 <sup>1</sup> L’UFSPO dirige un centro di competenze per la formazione e la formazione continua degli allenatori nello sport giovanile di competizione e nello sport di punta.
 
@@ -1340,7 +1356,7 @@ L’ammontare dell’importo si fonda su:
 
 <sup>4</sup> Può collaborare con organizzazioni del mondo del lavoro nel settore della formazione professionale degli allenatori e con ulteriori istituzioni svizzere o estere nel settore della formazione degli allenatori.
 
-[^72a-1]: Introdotto dal n. I dell’O dell’11 ago. 2021, in vigore dal 1° ott. 2021 ([RU 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
+[^72b-1]: Originario art. 72*a*. Introdotto dal n. I dell’O dell’11 ago. 2021, in vigore dal 1° ott. 2021 ([RU 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
 
 ## Titolo 4: Correttezza e sicurezza
 
