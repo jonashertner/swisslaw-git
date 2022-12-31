@@ -3,20 +3,20 @@ canton: SO
 number: "435.141"
 title: Verordnung über den Natur- und Heimatschutz
 language: de
-version: 2010-01-01
-valid_until: 2022-12-31
-version_adopted: 2009-12-22
+version: 2023-01-01
+valid_until: 2026-06-30
+version_adopted: 2022-09-13
 adopted: 1980-11-14
 in_force: 1981-01-29
 url: "https://bgs.so.ch/app/de/texts_of_law/435.141"
-pdf: "https://bgs.so.ch/api/de/versions/3690/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5281/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über den Natur- und Heimatschutz
 
-Vom 14.11.1980 (Stand 01.01.2010)
+Vom 14.11.1980 (Stand 01.01.2023)
 
 Der Regierungsrat des Kantons Solothurn
 
@@ -122,9 +122,7 @@ beschliesst:
 
 <sup>1</sup> Die Schutzverfügung ist zu begründen und den Betroffenen schriftlich zu eröffnen. Berührt die Verfügung einen grösseren Interessentenkreis, so ist sie überdies im Amtsblatt und im Publikationsorgan der betreffenden Gemeinde zu publizieren.
 
-<sup>2</sup> Schutzverfügungen des Gemeinderates sind mit der Rechtsmittelbelehrung zu versehen, wonach innert 10 Tagen seit Zustellung beim Regierungsrat Beschwerde geführt werden kann (§ 199 Gemeindegesetz[^10-1]).
-
-[^10-1]: BGS [131.1](https://bgs.so.ch/data/131.1/de).
+<sup>2</sup> Schutzverfügungen des Gemeinderates sind mit der Rechtsmittelbelehrung zu versehen, wonach innert 10 Tagen seit Zustellung beim Regierungsrat Beschwerde geführt werden kann.
 
 #### § 11
 
@@ -227,7 +225,7 @@ beschliesst:
 
 <sup>7</sup> Im Sinne des ökologischen Ausgleiches nach § 119 Absatz 1 und 2 des Planungs- und Baugesetzes[^20-1] sorgen Kanton und Gemeinden dafür, dass ihre Liegenschaften naturnah gestaltet, bewirtschaftet und gepflegt werden.
 
-[^20-1]: BGS [BGS 711.1](https://bgs.so.ch/data/BGS%20711.1/de).
+[^20-1]: BGS [711.1](https://bgs.so.ch/data/711.1/de).
 
 #### § 21
 
