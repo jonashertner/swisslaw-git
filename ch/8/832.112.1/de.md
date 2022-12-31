@@ -4,11 +4,11 @@ title: Verordnung vom 19. Oktober 2016 über den Risikoausgleich in der Krankenv
 short: VORA
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/674"
 language: de
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2016-10-19
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/674/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2016-674-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/674/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/674/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2016-674-20230101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/674/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/674/20220101/de"
 
 (VORA)
 
-vom 19. Oktober 2016 (Stand am 1. Januar 2022)
+vom 19. Oktober 2016 (Stand am 1. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -187,14 +187,15 @@ Für die Gruppierung der Daten und die Berechnung des Risikoausgleichs muss der 
 Bei der Festlegung der Versichertenstände nicht berücksichtigt werden:
 
 - a. im Ausland wohnhafte Personen, die auf vertraglicher Basis nach den Artikeln 7*a* und 132 Absatz 3 der Verordnung vom 27. Juni 1995[^9-1] über die Krankenversicherung (KVV) versichert sind;
-- b. Versicherte nach Artikel 1 Absatz 2 Buchstaben d und e KVV;
+- b.[^9-2] Versicherte nach Artikel 1 Absatz 2 Buchstaben d–e<sup>bis</sup> KVV;
 - c. Asylsuchende, vorläufig Aufgenommene und Schutzbedürftige ohne Aufenthaltsbewilligung, die sich in der Schweiz aufhalten und Sozialhilfe beziehen;
 - d. Versicherte nach den Artikeln 4 und 5 KVV, sofern bei ihnen nicht eine Prämie für Versicherte mit Wohnort in der Schweiz erhoben wird;
-- e. Versicherte, die gestützt auf das Übereinkommen vom 30. November 1979[^9-2] über die Soziale Sicherheit der Rheinschiffer der schweizerischen Krankenversicherung unterstellt sind;
+- e. Versicherte, die gestützt auf das Übereinkommen vom 30. November 1979[^9-3] über die Soziale Sicherheit der Rheinschiffer der schweizerischen Krankenversicherung unterstellt sind;
 - f. Versicherte, die am 31. Dezember des betreffenden Jahres unter 19 Jahre alt sind.
 
 [^9-1]: [SR 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
-[^9-2]: [SR 0.831.107](https://fedlex.data.admin.ch/eli/cc/1988/420_420_420)
+[^9-2]: Fassung gemäss Ziff. I 3 der V vom 26. Okt. 2022 über die Änderung von Verordnungen im Bereich der Krankenversicherung zur Umsetzung des Abkommens zur Koordinierung der sozialen Sicherheit zwischen der Schweizerischen Eidgenossenschaft und dem Vereinigten Königreich von Grossbritannien und Nordirland, in Kraft seit 1. Jan. 2023 ([AS 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
+[^9-3]: [SR 0.831.107](https://fedlex.data.admin.ch/eli/cc/1988/420_420_420)
 
 #### Art. 10
 

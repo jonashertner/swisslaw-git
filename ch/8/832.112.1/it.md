@@ -4,11 +4,11 @@ title: "Ordinanza del 19 ottobre 2016 sulla compensazione dei rischi nell'assicu
 short: OCoR
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/674"
 language: it
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2016-10-19
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/674/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2016-674-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/674/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/674/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2016-674-20230101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/674/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/674/20220101/it"
 
 (OCoR)
 
-del 19 ottobre 2016 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
+del 19 ottobre 2016 (Stato 1° gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -187,14 +187,15 @@ Per il raggruppamento dei dati e il calcolo della compensazione dei rischi, l’
 Nel calcolo dell’effettivo degli assicurati non sono presi in considerazione:
 
 - a. le persone residenti all’estero assicurate su base contrattuale conformemente agli articoli 7*a* e 132 capoverso 3 dell’ordinanza del 27 giugno 1995[^9-1] sull’assicurazione malattie (OAMal);
-- b. gli assicurati di cui all’articolo 1 capoverso 2 lettere d ed e OAMal;
+- b.[^9-2] gli assicurati di cui all’articolo 1 capoverso 2 lettere d–e<sup>bis</sup> OAMal;
 - c. i richiedenti l’asilo, le persone ammesse a titolo provvisorio e le persone bisognose di protezione non titolari di un permesso di dimora che soggiornano in Svizzera e beneficiano dell’aiuto sociale;
 - d. gli assicurati di cui agli articoli 4 e 5 OAMal, sempre che per loro non sia riscosso un premio per assicurati con domicilio in Svizzera;
-- e. gli assicurati soggetti all’assicurazione malattie svizzera in virtù dell’Accordo del 30 novembre 1979[^9-2] relativo alla sicurezza sociale dei battellieri del Reno;
+- e. gli assicurati soggetti all’assicurazione malattie svizzera in virtù dell’Accordo del 30 novembre 1979[^9-3] relativo alla sicurezza sociale dei battellieri del Reno;
 - f. gli assicurati che al 31 dicembre dell’anno in questione non hanno ancora compiuto i 19 anni.
 
 [^9-1]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
-[^9-2]: [RS 0.831.107](https://fedlex.data.admin.ch/eli/cc/1988/420_420_420)
+[^9-2]: Nuovo testo giusta il n. I 3 dell’O del 26 ott. 2022 sulla modifica di ordinanze in materia di assicurazione malattie in attuazione della Convenzione sul coordinamento della sicurezza sociale tra il Regno Unito di Gran Bretagna e Irlanda del Nord e la Confederazione Svizzera, in vigore dal 1° gen. 2023 ([RU 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
+[^9-3]: [RS 0.831.107](https://fedlex.data.admin.ch/eli/cc/1988/420_420_420)
 
 #### Art. 10
 
@@ -540,7 +541,7 @@ L’UFSP effettua un’analisi scientifica parallela. Vanno segnatamente analizz
 
 L’ordinanza del 12 aprile 1995[^30-1] sulla compensazione dei rischi nell’assicurazione malattie è abrogata.
 
-[^30-1]: [[RU 1995 1371](https://fedlex.data.admin.ch/eli/oc/1995/1371_1371_1371), [1998 1841](https://fedlex.data.admin.ch/eli/oc/1998/1841_1841_1841), [2001 140](https://fedlex.data.admin.ch/eli/oc/2001/32), [2002 925](https://fedlex.data.admin.ch/eli/oc/2002/162), [2004 5079](https://fedlex.data.admin.ch/eli/oc/2004/785), [2005 5643](https://fedlex.data.admin.ch/eli/oc/2005/772), [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)n. II 96 [4739](https://fedlex.data.admin.ch/eli/oc/2006/726)n. I 6, [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)n. IV 52, [2009 4761](https://fedlex.data.admin.ch/eli/oc/2009/561), [2010 6163](https://fedlex.data.admin.ch/eli/oc/2010/880), [2011 5291](https://fedlex.data.admin.ch/eli/oc/2011/763), [2013 789](https://fedlex.data.admin.ch/eli/oc/2013/158), [2014 3481](https://fedlex.data.admin.ch/eli/oc/2014/606)]
+[^30-1]: [[RU 1995 1371](https://fedlex.data.admin.ch/eli/oc/1995/1371_1371_1371); [1998 1841](https://fedlex.data.admin.ch/eli/oc/1998/1841_1841_1841); [2001 140](https://fedlex.data.admin.ch/eli/oc/2001/32); [2002 925](https://fedlex.data.admin.ch/eli/oc/2002/162); [2004 5079](https://fedlex.data.admin.ch/eli/oc/2004/785); [2005 5643](https://fedlex.data.admin.ch/eli/oc/2005/772); [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)n. II 96, [4739](https://fedlex.data.admin.ch/eli/oc/2006/726)n. I 6; [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)n. IV 52; [2009 4761](https://fedlex.data.admin.ch/eli/oc/2009/561); [2010 6163](https://fedlex.data.admin.ch/eli/oc/2010/880); [2011 5291](https://fedlex.data.admin.ch/eli/oc/2011/763); [2013 789](https://fedlex.data.admin.ch/eli/oc/2013/158); [2014 3481](https://fedlex.data.admin.ch/eli/oc/2014/606)]
 
 #### Art. 31
 

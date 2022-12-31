@@ -4,11 +4,11 @@ title: "Ordonnance du 19 octobre 2016 sur la compensation des risques dans l'ass
 short: OCoR
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/674"
 language: fr
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2016-10-19
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/674/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-674-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/674/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/674/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-674-20230101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/674/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/674/20220101/fr"
 
 (OCoR)
 
-du 19 octobre 2016 (Etat le 1<sup>er</sup> janvier 2022)
+du 19 octobre 2016 (État le 1<sup>er</sup> janvier 2023)
 
 Le Conseil fédéral suisse,
 
@@ -187,14 +187,15 @@ Pour le regroupement des données et le calcul de la compensation des risques, l
 Ne sont pas comptabilisés dans les effectifs:
 
 - a. les personnes résidant à l’étranger qui sont assurées sur une base contractuelle conformément aux art. 7*a* et 132, al. 3, de l’ordonnance du 27 juin 1995 sur l’assurance-maladie (OAMal)[^9-1];
-- b. les assurés visés à l’art. 1, al. 2, let. d et e, OAMal;
+- b.[^9-2] les assurés visés à l’art. 1, al. 2, let. d à e<sup>bis</sup>, OAMal;
 - c. les requérants d’asile, les personnes admises à titre provisoire et les personnes à protéger sans autorisation de séjour qui résident en Suisse et qui bénéficient de l’aide sociale;
 - d. les assurés visés aux art. 4 et 5 OAMal, pour autant qu’ils n’acquittent pas une prime pour les assurés domiciliés en Suisse;
-- e. les assurés qui sont soumis à l’assurance-maladie suisse en vertu de l’Accord du 30 novembre 1979 concernant la sécurité sociale des bateliers rhénans[^9-2];
+- e. les assurés qui sont soumis à l’assurance-maladie suisse en vertu de l’Accord du 30 novembre 1979 concernant la sécurité sociale des bateliers rhénans[^9-3];
 - f. les assurés qui ont moins de 19 ans le 31 décembre de l’année considérée.
 
 [^9-1]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
-[^9-2]: [RS 0.831.107](https://fedlex.data.admin.ch/eli/cc/1988/420_420_420)
+[^9-2]: Nouvelle teneur selon le ch. I 3 de l’O du 26 oct. 2022 concernant la mise en œuvre de la Convention sur la coordination de la sécurité sociale entre la Confédération suisse et le Royaume-Uni de Grande-Bretagne et d’Irlande du Nord, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
+[^9-3]: [RS 0.831.107](https://fedlex.data.admin.ch/eli/cc/1988/420_420_420)
 
 #### Art. 10
 
