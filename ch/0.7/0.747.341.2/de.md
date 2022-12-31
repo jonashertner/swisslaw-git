@@ -3,11 +3,11 @@ sr: "0.747.341.2"
 title: "Internationales Übereinkommen von 1978 über Normen für die Ausbildung, die Erteilung von Fähigkeitsausweisen und den Wachdienst von Seeleuten, vom 7. Juli 1978 (mit Anlage)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/1639_1639_1639"
 language: de
-version: 2020-08-18
+version: 2023-01-01
 adopted: 1978-07-07
 in_force: 1988-03-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1639_1639_1639/20200818/de/xml/fedlex-data-admin-ch-eli-cc-1988-1639_1639_1639-20200818-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/1639_1639_1639/20200818/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1639_1639_1639/20230101/de/xml/fedlex-data-admin-ch-eli-cc-1988-1639_1639_1639-20230101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/1639_1639_1639/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -18,13 +18,13 @@ url: "https://www.fedlex.admin.ch/eli/cc/1988/1639_1639_1639/20200818/de"
 
 Abgeschlossen in London am 7. Juli 1978
 
-Von der Bundesversammlung genehmigt am *9.* März 1987[^t-1]
+Von der Bundesversammlung genehmigt am 9. März 1987[^t-1]
 
 Schweizerische Ratifikationsurkunde hinterlegt am 15. Dezember 1987
 
 In Kraft getreten für die Schweiz am 15. März 1988
 
-(Stand am 18. August 2020)
+(Stand am 1. Januar 2023)
 
 [^t-1]: Art. 1 Abs. 1 Bst. b des BB vom 9. März 1987 ([AS 1988 1240](https://fedlex.data.admin.ch/eli/oc/1988/1240_1240_1240)).
 
@@ -40,11 +40,9 @@ sind wie folgt übereingekommen:
 
 **Allgemeine Verpflichtungen aufgrund des Übereinkommens**
 
-<sup>1.</sup> Die Vertragsparteien verpflichten sich, dem Übereinkommen und seiner Anlage[^I-1], die Bestandteil des Übereinkommens ist, Wirksamkeit zu verleihen. Jede Bezugnahme auf das Übereinkommen ist gleichzeitig eine Bezugnahme auf die Anlage.
+<sup>1.</sup> Die Vertragsparteien verpflichten sich, dem Übereinkommen und seiner Anlage, die Bestandteil des Übereinkommens ist, Wirksamkeit zu verleihen. Jede Bezugnahme auf das Übereinkommen ist gleichzeitig eine Bezugnahme auf die Anlage.
 
 <sup>2.</sup> Die Vertragsparteien verpflichten sich, alle Gesetze, Verordnungen, Ausführungsbestimmungen und sonstigen Vorschriften zu erlassen und alle sonstigen Massnahmen zu treffen, die erforderlich sind, um dem Übereinkommen volle Wirksamkeit zu verleihen und dadurch zu gewährleisten, dass im Hinblick auf den Schutz des menschlichen Lebens und der Sachwerte auf See sowie im Hinblick auf den Schutz der Meeresumwelt die Seeleute an Bord von Schiffen zur Erfüllung ihrer Aufgaben befähigt und tauglich sind.
-
-[^I-1]: Der Text dieser Anlage und seiner Änderungen wird in der AS nicht veröffentlicht. Separatdrucke sind beim BBL, Verkauf Bundespublikationen, 3003 Bern, erhältlich (siehe [AS 1993 2512](https://fedlex.data.admin.ch/eli/oc/1993/2512_2512_2512), [2008 187](https://fedlex.data.admin.ch/eli/oc/2008/57)).
 
 #### Art. II
 
@@ -268,11 +266,11 @@ Das Übereinkommen ist in einer Urschrift in chinesischer, englischer, französi
 
 *Zu Urkund dessen* haben die von ihren Regierungen hierzu gehörig befugten Unterzeichneten dieses Übereinkommen unterschrieben. Geschehen zu London am 7. Juli 1978. (Es folgen die Unterschriften)
 
-Anhang*[^t-2]*
+Anlage[^t-2]
 
-[^t-2]: Der Text dieser Anlage und seiner Änderungen wird in der Amtlichen Sammlung des Bundesrechts nicht veröffentlicht. Separatdrucke sind beim Bundesamt für Bauten und Logistik, 3003 Bern oder bei der Internetseite: www.bundespublikationen.admin.ch erhältlich ([AS 1993 2512](https://fedlex.data.admin.ch/eli/oc/1993/2512_2512_2512), [2008 187](https://fedlex.data.admin.ch/eli/oc/2008/57)).
+[^t-2]: Diese Anlage und ihre Änderungen sind in der AS nicht veröffentlicht ([AS 1993 2512](https://fedlex.data.admin.ch/eli/oc/1993/2512_2512_2512); [2008 187](https://fedlex.data.admin.ch/eli/oc/2008/57); [2024 618](https://fedlex.data.admin.ch/eli/oc/2024/618)). Die englischen Texte können auf der Internetseite der Internationalen Seeschifffahrts-Organisation (IMO): [www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx](https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx) eingesehen werden. Die französischen Texte sowie eine konsolidierte englische Version können beim Schweizerischen Seeschifffahrtsamt, Elisabethenstrasse 31, 4010 Basel eingesehen werden.
 
-Geltungsbereich am 18. August 2020**[^t-3]**
+Geltungsbereich am 18. August 2020[^t-3]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N) Unterzeichnet ohne Ratifikationsvorbehalt (U)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -454,10 +452,10 @@ Geltungsbereich am 18. August 2020**[^t-3]**
 <tr><td>Vietnam</td><td>18. Dezember</td><td>1990 B</td><td>18. März</td><td>1991</td></tr>
 <tr><td>Zypern</td><td>28. März</td><td>1985 B</td><td>28. Juni</td><td>1985</td></tr>
 <tr><td colspan="5">\* Vorbehalte und Erklärungen.</td></tr>
-<tr><td colspan="5">Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die englischen Texte können auf der Internetseite der Internationalen Seeschifffahrtsorganisation (OMI): www.imo.org &gt; Publications &gt; Catalogue & Code Listings oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
+<tr><td colspan="5">Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die englischen Texte können auf der Internetseite der Internationalen Seeschifffahrtsorganisation (OMI): [www.imo.org](https://www.imo.org/en/publications/Pages/CatalogueAndBookCodeLists.aspx) &gt; Publications &gt; Catalogue & Code Listings oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 <tr><td colspan="5"><sup>a</sup> Vom 3. Nov. 1984 bis zum 30. Juni 1997 war das Übereink. auf Grund einer Ausdehnungserklärung des Vereinigten Königreichs in Hongkong anwendbar. Seit dem 1. Juli 1997 bildet Hongkong eine Besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erklärung vom 5. Juni 1997 ist das Übereink. seit dem 1. Juli 1997 auch in der SAR Hongkong anwendbar.</td></tr>
 <tr><td colspan="5"><sup>b</sup> Das Übereinkommen gilt nicht für Grönland.</td></tr>
 <tr><td colspan="5"><sup>c</sup> Das Übereinkommen gilt nicht für Tokelau.</td></tr>
 </table>
 
-[^t-3]: [AS 1988 1639](https://fedlex.data.admin.ch/eli/oc/1988/1639_1639_1639), [1989 837](https://fedlex.data.admin.ch/eli/oc/1989/837_837_837), [1990 1772](https://fedlex.data.admin.ch/eli/oc/1990/1772_1772_1772), [1991 2273](https://fedlex.data.admin.ch/eli/oc/1991/2273_2273_2273), [2005 1303](https://fedlex.data.admin.ch/eli/oc/2005/195), [2008 187](https://fedlex.data.admin.ch/eli/oc/2008/57), [2016 2553](https://fedlex.data.admin.ch/eli/oc/2016/401), [2020 3637](https://fedlex.data.admin.ch/eli/oc/2020/658). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-3]: [AS 1988 1639](https://fedlex.data.admin.ch/eli/oc/1988/1639_1639_1639); [1989 837](https://fedlex.data.admin.ch/eli/oc/1989/837_837_837); [1990 1772](https://fedlex.data.admin.ch/eli/oc/1990/1772_1772_1772); [1991 2273](https://fedlex.data.admin.ch/eli/oc/1991/2273_2273_2273); [2005 1303](https://fedlex.data.admin.ch/eli/oc/2005/195); [2008 187](https://fedlex.data.admin.ch/eli/oc/2008/57); [2016 2553](https://fedlex.data.admin.ch/eli/oc/2016/401); [2020 3637](https://fedlex.data.admin.ch/eli/oc/2020/658). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

@@ -3,11 +3,11 @@ sr: "0.747.341.2"
 title: "Convention internationale de 1978 sur les normes de formation des gens de mer, de délivrance des brevets et de veille, du 7 juillet 1978 (avec annexe)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/1639_1639_1639"
 language: fr
-version: 2020-08-18
+version: 2023-01-01
 adopted: 1978-07-07
 in_force: 1988-03-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1639_1639_1639/20200818/fr/xml/fedlex-data-admin-ch-eli-cc-1988-1639_1639_1639-20200818-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/1639_1639_1639/20200818/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1639_1639_1639/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-1988-1639_1639_1639-20230101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/1639_1639_1639/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 15 décembre 1987
 
 Entrée en vigueur pour la Suisse le 15 mars 1988
 
-(Etat le 18 août 2020)
+(État le 1<sup>er</sup> janvier 2023)
 
 [^t-1]: Art. 1 al. 1 let. b de l’AF du 9 mars 1987 ([RO 1988 1240](https://fedlex.data.admin.ch/eli/oc/1988/1240_1240_1240)).
 
@@ -277,11 +277,11 @@ La Convention est établie en un seul exemplaire en langues anglaise, chinoise, 
 
 *En foi de quoi,* les soussignés, dûment autorisés à cet effet par leurs gouvernements respectifs, ont apposé leur signature à la Convention. Fait à Londres ce sept juillet mil neuf cent soixante‑dix‑huit. (Suivent les signatures)
 
-Annexe***[^t-2]***
+Annexe[^t-2]
 
-[^t-2]: Cette annexe et les amendements cités ne sont pas publiés au RO ([RO 1993 2512](https://fedlex.data.admin.ch/eli/oc/1993/2512_2512_2512), [2008 187](https://fedlex.data.admin.ch/eli/oc/2008/57)). Des tirés à part peuvent être obtenus auprès de l’Office fédéral de la construction et de la logistique, 3003 Berne ou à son site internet: www.publicationsfederales.admin.ch.
+[^t-2]: Cette annexe et ses amendements ne sont pas publiés au RO ([RO 1993 2512](https://fedlex.data.admin.ch/eli/oc/1993/2512_2512_2512); [2008 187](https://fedlex.data.admin.ch/eli/oc/2008/57); [2024 618](https://fedlex.data.admin.ch/eli/oc/2024/618)). Le texte des amendements peut être consulté en anglais à l’adresse du site Internet de l’Organisation maritime internationale (OMI): [https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx](https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx). Le texte français ainsi qu’une version consolidée en anglais peut être consulté auprès de l’Office suisse de la navigation maritime, Elisabethenstrasse 31, 4010 Bâle.
 
-Champ d’application le 18 août 2020**[^t-3]**
+Champ d’application le 18 août 2020[^t-3]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S) Signature sans réserve de ratification (Si)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -313,7 +313,7 @@ Champ d’application le 18 août 2020**[^t-3]**
 <tr><td>Cap-Vert</td><td>18 septembre</td><td>1989 A</td><td>18 décembre</td><td>1989</td></tr>
 <tr><td>Chili\*</td><td>9 juin</td><td>1987 A</td><td>9 septembre</td><td>1987</td></tr>
 <tr><td>Chine\*</td><td>8 juin</td><td>1981</td><td>28 avril</td><td>1984</td></tr>
-<tr><td>[tab] Hong Kong <sup>a</sup></td><td>5 juin</td><td>1997</td><td>1<sup>er</sup> juillet</td><td>1997</td></tr>
+<tr><td>Hong Kong <sup>a</sup></td><td>5 juin</td><td>1997</td><td>1<sup>er</sup> juillet</td><td>1997</td></tr>
 <tr><td>Macao</td><td>18 mai</td><td>2005</td><td>18 mai</td><td>2005</td></tr>
 <tr><td>Chypre</td><td>28 mars</td><td>1985 A</td><td>28 juin</td><td>1985</td></tr>
 <tr><td>Colombie</td><td>27 juillet</td><td>1981 A</td><td>28 avril</td><td>1984</td></tr>
@@ -327,8 +327,7 @@ Champ d’application le 18 août 2020**[^t-3]**
 <tr><td>Croatie</td><td>27 juillet</td><td>1992 S</td><td>8 octobre</td><td>1991</td></tr>
 <tr><td>Cuba</td><td>5 décembre</td><td>1989 A</td><td>5 mars</td><td>1990</td></tr>
 <tr><td>Danemark\* <sup>b</sup></td><td>20 janvier</td><td>1981</td><td>28 avril</td><td>1984</td></tr>
-<tr><td>[tab] Îles Féroé</td><td>20 janvier</td><td>1981</td><td>28 avril</td><td>1984</td></tr>
-<tr><td>Djibouti</td><td>12 octobre</td><td>2015</td><td>12 janvier</td><td>2016</td></tr>
+<tr><td>Îles Féroé</td><td>20 janvier</td><td>1981</td><td>28 avril</td><td>1984</td></tr>
 <tr><td>Dominique</td><td>21 juin</td><td>2000 A</td><td>21 septembre</td><td>2000</td></tr>
 <tr><td>Égypte</td><td>22 septembre</td><td>1980 A</td><td>28 avril</td><td>1984</td></tr>
 <tr><td>El Salvador</td><td>29 novembre</td><td>2012 A</td><td>1<sup>er</sup> mars</td><td>2013</td></tr>
@@ -347,12 +346,10 @@ Champ d’application le 18 août 2020**[^t-3]**
 <tr><td>Géorgie</td><td>19 avril</td><td>1994 A</td><td>19 juillet</td><td>1994</td></tr>
 <tr><td>Ghana</td><td>26 janvier</td><td>1989 A</td><td>26 avril</td><td>1989</td></tr>
 <tr><td>Grèce</td><td>22 mars</td><td>1983</td><td>28 avril</td><td>1984</td></tr>
-<tr><td>Grenade</td><td>28 juin</td><td>2004 A</td><td>28 juin</td><td>2004</td></tr>
 <tr><td>Guatemala</td><td>17 septembre</td><td>2002 A</td><td>17 décembre</td><td>2002</td></tr>
 <tr><td>Guinée</td><td>5 août</td><td>1994 A</td><td>5 novembre</td><td>1994</td></tr>
 <tr><td>Guinée-Bissau</td><td>24 octobre</td><td>2016 A</td><td>24 janvier</td><td>2017</td></tr>
 <tr><td>Guinée équatoriale</td><td>24 avril</td><td>1996 A</td><td>24 juillet</td><td>1996</td></tr>
-<tr><td>Guyana</td><td>26 novembre</td><td>1997</td><td>26 février</td><td>1998</td></tr>
 <tr><td>Haïti</td><td>6 avril</td><td>1989 A</td><td>6 juillet</td><td>1989</td></tr>
 <tr><td>Honduras</td><td>24 septembre</td><td>1985 A</td><td>24 décembre</td><td>1985</td></tr>
 <tr><td>Hongrie</td><td>15 octobre</td><td>1985 A</td><td>15 janvier</td><td>1986</td></tr>
@@ -422,15 +419,14 @@ Champ d’application le 18 août 2020**[^t-3]**
 <tr><td>République dominicaine</td><td>9 juin</td><td>2016 A</td><td>9 septembre</td><td>2016</td></tr>
 <tr><td>Roumanie</td><td>11 janvier</td><td>1993 A</td><td>11 avril</td><td>1993</td></tr>
 <tr><td>Royaume-Uni</td><td>28 novembre</td><td>1980</td><td>28 avril</td><td>1984</td></tr>
-<tr><td>[tab] Bermudes</td><td>30 décembre</td><td>1988</td><td>1<sup>er</sup> janvier</td><td>1989</td></tr>
-<tr><td>[tab] Gibraltar</td><td>27 septembre</td><td>1995</td><td>27 septembre</td><td>1995</td></tr>
-<tr><td>[tab] Île de Man</td><td>9 avril</td><td>1985</td><td>1<sup>er</sup> juillet</td><td>1985</td></tr>
-<tr><td>[tab] Îles Cayman</td><td>5 avril</td><td>1991</td><td>1<sup>er</sup> avril</td><td>1991</td></tr>
+<tr><td>Bermudes</td><td>30 décembre</td><td>1988</td><td>1<sup>er</sup> janvier</td><td>1989</td></tr>
+<tr><td>Gibraltar</td><td>27 septembre</td><td>1995</td><td>27 septembre</td><td>1995</td></tr>
+<tr><td>Île de Man</td><td>9 avril</td><td>1985</td><td>1<sup>er</sup> juillet</td><td>1985</td></tr>
+<tr><td>Îles Cayman</td><td>5 avril</td><td>1991</td><td>1<sup>er</sup> avril</td><td>1991</td></tr>
 <tr><td>Îles Vierges britanniques</td><td>19 juin</td><td>2006</td><td>19 juin</td><td>2006</td></tr>
 <tr><td>Russie</td><td>9 octobre</td><td>1979 Si</td><td>28 avril</td><td>1984</td></tr>
-<tr><td>Sainte-Lucie</td><td>20 mai</td><td>2004 A</td><td>20 avril</td><td>2004</td></tr>
 <tr><td>Saint-Kitts-et-Nevis</td><td>11 juin</td><td>2004 A</td><td>11 juin</td><td>2004</td></tr>
-<tr><td>Saint-Vincent-et-les‑Grenadines</td><td>28 juin</td><td>1995 A</td><td>28 septembre</td><td>1995</td></tr>
+<tr><td>Saint-Vincent-et-les‑ Grenadines</td><td>28 juin</td><td>1995 A</td><td>28 septembre</td><td>1995</td></tr>
 <tr><td>Samoa</td><td>24 mai</td><td>1993 A</td><td>24 août</td><td>1993</td></tr>
 <tr><td>Sao Tomé-et-Principe</td><td>29 octobre</td><td>1998 A</td><td>29 janvier</td><td>1999</td></tr>
 <tr><td>Sénégal</td><td>16 janvier</td><td>1997 A</td><td>16 avril</td><td>1997</td></tr>
@@ -461,7 +457,7 @@ Champ d’application le 18 août 2020**[^t-3]**
 <tr><td>Venezuela</td><td>13 octobre</td><td>1987 A</td><td>13 janvier</td><td>1988</td></tr>
 <tr><td>Vietnam</td><td>18 décembre</td><td>1990 A</td><td>18 mars</td><td>1991</td></tr>
 <tr><td>Yémen</td><td>14 février</td><td>2005 A</td><td>14 mai</td><td>2005</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves, déclarations ne sont pas publiées au RO. Les textes en anglais peuvent être obtenus à l’adresse du site Internet l’Organisation maritime internationale (OMI): www.imo.org &gt; Publications &gt; Catalogue & Code Listings, ou auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Du 3 nov. 1984 au 30 juin 1997, la Convention était applicable à Hong Kong sur la base d’une déclaration d’extension territoriale du Royaume-Uni. À partir du 1<sup>er</sup> juillet 1997, Hong Kong est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 5 juin 1997, la conv. est également applicable à la RAS Hong Kong à partir du 1<sup>er</sup> juillet 1997. <sup>b</sup> La Convention ne s’applique pas au Groënland. <sup>c</sup> La Convention ne s’applique pas à Tokelau.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves, déclarations ne sont pas publiées au RO. Les textes en anglais peuvent être obtenus à l’adresse du site Internet l’Organisation maritime internationale (OMI): [www.imo.org](http://www.imo.org) &gt; Publications &gt; Catalogue & listes de code, ou auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Du 3 nov. 1984 au 30 juin 1997, la Convention était applicable à Hong Kong sur la base d’une déclaration d’extension territoriale du Royaume-Uni. À partir du 1<sup>er</sup> juillet 1997, Hong Kong est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 5 juin 1997, la conv. est également applicable à la RAS Hong Kong à partir du 1<sup>er</sup> juillet 1997. <sup>b</sup> La Convention ne s’applique pas au Groënland. <sup>c</sup> La Convention ne s’applique pas à Tokelau.</td></tr>
 </table>
 
-[^t-3]: [RO 1988 1639](https://fedlex.data.admin.ch/eli/oc/1988/1639_1639_1639), [1989 837](https://fedlex.data.admin.ch/eli/oc/1989/837_837_837), [1990 1772](https://fedlex.data.admin.ch/eli/oc/1990/1772_1772_1772), [1991 2273](https://fedlex.data.admin.ch/eli/oc/1991/2273_2273_2273), [2005 1303](https://fedlex.data.admin.ch/eli/oc/2005/195), [2008 187](https://fedlex.data.admin.ch/eli/oc/2008/57), [2016 2553](https://fedlex.data.admin.ch/eli/oc/2016/401), [2020 3637](https://fedlex.data.admin.ch/eli/oc/2020/658). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-3]: [RO 1988 1639](https://fedlex.data.admin.ch/eli/oc/1988/1639_1639_1639); [1989 837](https://fedlex.data.admin.ch/eli/oc/1989/837_837_837); [1990 1772](https://fedlex.data.admin.ch/eli/oc/1990/1772_1772_1772); [1991 2273](https://fedlex.data.admin.ch/eli/oc/1991/2273_2273_2273); [2005 1303](https://fedlex.data.admin.ch/eli/oc/2005/195); [2008 187](https://fedlex.data.admin.ch/eli/oc/2008/57); [2016 2553](https://fedlex.data.admin.ch/eli/oc/2016/401); [2020 3637](https://fedlex.data.admin.ch/eli/oc/2020/658). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)

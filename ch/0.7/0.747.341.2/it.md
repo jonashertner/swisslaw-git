@@ -3,11 +3,11 @@ sr: "0.747.341.2"
 title: "Convenzione internazionale del 1978 sugli standard di addestramento, abilitazione e tenuta della guardia per i marittimi, del 7 luglio 1978 (con allegato)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/1639_1639_1639"
 language: it
-version: 2020-08-18
+version: 2023-01-01
 adopted: 1978-07-07
 in_force: 1988-03-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1639_1639_1639/20200818/it/xml/fedlex-data-admin-ch-eli-cc-1988-1639_1639_1639-20200818-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/1639_1639_1639/20200818/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1639_1639_1639/20230101/it/xml/fedlex-data-admin-ch-eli-cc-1988-1639_1639_1639-20230101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/1639_1639_1639/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -26,7 +26,7 @@ Ratificata dalla Svizzera con strumento depositato il 15 dicembre 1987
 
 Entrata in vigore per la Svizzera il 15 marzo 1988
 
-(Stato 18 agosto 2020)
+(Stato 1° gennaio 2023)
 
 [^t-1]: Art. 1 cpv. 1 lett. b del DF del 9 marzo 1987 ([RU 1988 1240](https://fedlex.data.admin.ch/eli/oc/1988/1240_1240_1240))
 
@@ -42,11 +42,9 @@ hanno convenuto quanto segue:
 
 **Obbligazioni generali ai sensi della Convenzione**
 
-<sup>1.</sup> I Contraenti si impegnano a mettere in atto le disposizioni della Convenzione e del relativo Allegato[^I-1] che costituirà parte integrante della Convenzione. Ogni riferimento alla Convenzione costituisce allo stesso tempo un riferimento all’Allegato.
+<sup>1.</sup> I Contraenti si impegnano a mettere in atto le disposizioni della Convenzione e del relativo Allegato che costituirà parte integrante della Convenzione. Ogni riferimento alla Convenzione costituisce allo stesso tempo un riferimento all’Allegato.
 
 <sup>2.</sup> I Contraenti si impegnano a promulgare tutte le leggi, i decreti, le ordinanze e le regolamentazioni e ad intraprendere tutti gli altri passi che possano essere necessari per dare pieno e completo vigore alla Convenzione in modo da assicurare che, dal punto di vista della sicurezza della vita e della proprietà in mare e della protezione dell’ambiente marino, i marittimi imbarcati siano qualificati e siano idonei per i loro compiti.
-
-[^I-1]: Il testo di tale Allegato ed i suoi emendamenti non è pubblicato nella Raccolta ufficiale delle leggi federali. Estratti possono essere ottenuti presso l’UFCL, Vendita di pubblicazioni federali, 3003 Berna ([RU 1993 2512](https://fedlex.data.admin.ch/eli/oc/1993/2512_2512_2512), [2008 187](https://fedlex.data.admin.ch/eli/oc/2008/57)).
 
 #### Art. II
 
@@ -279,11 +277,11 @@ La Convenzione è redatta in un unico esemplare nelle lingue cinese, inglese, fr
 
 *In fede di che* i sottoscritti, essendone debitamente autorizzati dai rispettivi Governi, hanno apposto la loro firma alla Convenzione. Redatto a Londra questo settimo giorno del mese di luglio dell’anno millenovecento settantotto. (Seguono le firme)
 
-Allegato*[^t-2]*
+Allegato[^t-2]
 
-[^t-2]: Il testo del presente All. ed i suoi emendamenti, non è pubblicato nella RU ([RU 1993 2512](https://fedlex.data.admin.ch/eli/oc/1993/2512_2512_2512), [2008 187](https://fedlex.data.admin.ch/eli/oc/2008/57)). Estratti possono essere ottenuti presso l’UFCL, Vendita di pubblicazioni federali, o consultati sul sito Internet: www.pubblicazionifederali.admin.ch
+[^t-2]: Il presente All. ed i suoi emendamenti, non sono pubblicati nella RU ([RU 1993 2512](https://fedlex.data.admin.ch/eli/oc/1993/2512_2512_2512); [2008 187](https://fedlex.data.admin.ch/eli/oc/2008/57); [2024 618](https://fedlex.data.admin.ch/eli/oc/2024/618)). Può essere consultato in inglese sul sito Internet dell’Organizzazione marittima internazionale (OMI): [https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx](https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx). Il testo in francese e una versione consolidata in inglese sono disponibili per la consultazione presso l’Ufficio svizzero della navigazione marittima, Elisabethenstrasse 31, 4010 Basilea.
 
-Campo d’applicazione il 18 agosto 2020**[^t-3]**
+Campo d’applicazione il 18 agosto 2020[^t-3]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S) Firmato senza riserva di ratificazione (F)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -472,4 +470,4 @@ Campo d’applicazione il 18 agosto 2020**[^t-3]**
 
 - [tab]
 
-[^t-3]: [RU 1988 1639](https://fedlex.data.admin.ch/eli/oc/1988/1639_1639_1639), [1989 837](https://fedlex.data.admin.ch/eli/oc/1989/837_837_837), [1990 1772](https://fedlex.data.admin.ch/eli/oc/1990/1772_1772_1772), [1991 2273](https://fedlex.data.admin.ch/eli/oc/1991/2273_2273_2273), [2005 1303](https://fedlex.data.admin.ch/eli/oc/2005/195), [2008 187](https://fedlex.data.admin.ch/eli/oc/2008/57), [2016 2553](https://fedlex.data.admin.ch/eli/oc/2016/401), [2020 3637](https://fedlex.data.admin.ch/eli/oc/2020/658). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-3]: [RU 1988 1639](https://fedlex.data.admin.ch/eli/oc/1988/1639_1639_1639), [1989 837](https://fedlex.data.admin.ch/eli/oc/1989/837_837_837), [1990 1772](https://fedlex.data.admin.ch/eli/oc/1990/1772_1772_1772), [1991 2273](https://fedlex.data.admin.ch/eli/oc/1991/2273_2273_2273), [2005 1303](https://fedlex.data.admin.ch/eli/oc/2005/195), [2008 187](https://fedlex.data.admin.ch/eli/oc/2008/57), [2016 2553](https://fedlex.data.admin.ch/eli/oc/2016/401), [2020 3637](https://fedlex.data.admin.ch/eli/oc/2020/658)Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)
