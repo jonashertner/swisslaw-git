@@ -4,10 +4,9 @@ number: "523"
 title: Verordnung über geschützte zivile sanitätsdienstliche Anlagen (Basisspitäler)
 language: de
 version: "2006-05-01"
-nachtrag: "103"
-valid_until: 2023-01-01
+nachtrag: "119"
 adopted: 1970-07-09
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-523-1970_07_09-1970_08_08-103.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-523-1970_07_09-1970_08_08-119.html"
 text: pdf
 ---
 
@@ -47,7 +46,7 @@ Winterthur Kantonsspital Affoltern a. A. Bezirksspital Bülach Kreisspital Diels
 
 **1**
 
-- 1\. 1. 19 - 103
+- 1\. 1. 23 - 119
 
 <sup>2</sup> Die Sicherheitsdirektion<sup>7</sup> legt nach Rücksprache mit der Direktion des Gesundheitswesens fest, wann und wo die noch nicht erstellten Anlagen zu bauen sind.
 
@@ -71,7 +70,7 @@ Wiesendangen Zürich (3 Lagerräume)
 
 <sup>4</sup> Das Raumprogramm für die Lagerräume und für die Produktionsstätte wird von der Direktion des Gesundheitswesens, der Schutzgrad und der Schutzumfang durch die Sicherheitsdirektion<sup>7</sup> festgelegt. Die Kosten für den Bau, die Einrichtungen und den Unterhalt gehen zu Lasten des Staates.
 
-§ 6.<sup>5</sup> Die Gemeinden<sup>8,</sup> <sup>9,</sup> <sup>10,</sup> <sup>11,</sup> <sup>12,</sup> <sup>13,</sup> <sup>14</sup> müssen sich an den Kosten für die geschützten Operationsstellen mit Pflegeräumen und für die Notspitäler gemäss nachstehender Tabelle beteiligen:
+§ 6.<sup>5</sup> Die Gemeinden<sup>8,</sup> <sup>9,</sup> <sup>10,</sup> <sup>11,</sup> <sup>12,</sup> <sup>13,</sup> <sup>14,</sup> <sup>15</sup> müssen sich an den Kosten für die geschützten Operationsstellen mit Pflegeräumen und für die Notspitäler gemäss nachstehender Tabelle beteiligen:
 
 **Notspital Dietikon**
 
@@ -121,7 +120,7 @@ Steinmaur
 
 **Wiesendangen**
 
-- 1\. 1. 19 - 103 Bülach Bachenbülach Kreisspital Bülach Eglisau Embrach Freienstein Glattfelden Hochfelden Höri Hüntwangen Lufingen Oberembrach Rafz Rorbas Stadel Wasterkingen Weiach Wil Winkel Winterthur Winterthur Kantonsspital Brütten Dättlikon Neftenbach Pfungen
+- 1\. 1. 23 - 119 Bülach Bachenbülach Kreisspital Bülach Eglisau Embrach Freienstein Glattfelden Hochfelden Höri Hüntwangen Lufingen Oberembrach Rafz Rorbas Stadel Wasterkingen Weiach Wil Winkel Winterthur Winterthur Kantonsspital Brütten Dättlikon Neftenbach Pfungen
 
 **Bauma Bauma**
 
@@ -137,7 +136,7 @@ Steinmaur
 
 **5**
 
-- 1\. 1. 19 - 103 Greifensee Mönchaltorf Schwerzenbach Uster Volketswil Zollikon Spital Neumünster Maur Zollikon Zumikon Männedorf Kreisspital Männedorf Meilen Oetwil a. S. Stäfa Uetikon Kilchberg Krankenhaus Sanitas Horgen Krankenhaus Thalwil Krankenhaus – Wädenswil Affoltern a. A.
+- 1\. 1. 23 - 119 Greifensee Mönchaltorf Schwerzenbach Uster Volketswil Zollikon Spital Neumünster Maur Zollikon Zumikon Männedorf Kreisspital Männedorf Meilen Oetwil a. S. Stäfa Uetikon Kilchberg Krankenhaus Sanitas Horgen Krankenhaus Thalwil Krankenhaus – Wädenswil Affoltern a. A.
 
 **Fischenthal Wald**
 
@@ -163,7 +162,7 @@ Obfelden Ottenbach Rifferswil
 
 Rüschlikon
 
-Stallikon Wettswil – Adlikon
+Stallikon Wettswil
 
 **Andelfingen**
 
@@ -177,7 +176,7 @@ Dachsen Dorf
 
 Feuerthalen
 
-Flaach Flurlingen Henggart Humlikon
+Flaach Flurlingen Henggart
 
 Kleinandelfingen
 
@@ -197,7 +196,7 @@ Thalheim Trüllikon Truttikon Volken
 
 **7**
 
-- 1\. 1. 19 - 103
+- 1\. 1. 23 - 119
 
 <sup>2</sup> Der Kostenverteiler richtet sich in beiden Fällen je zur Hälfte nach der Einwohnerzahl sowie der um einen allfälligen Steuerkraftausgleich berichtigten Steuerkraft. Die beteiligten Gemeinden können einstimmig einen anderen Verteiler festlegen. Dieser bedarf der Genehmigung des Regierungsrates.<sup>6</sup>
 
@@ -259,6 +258,8 @@ Diese Verordnung tritt am Tage nach ihrer Veröffentlichung im Amtsblatt<sup>2</
 
 <sup>14</sup> Die Gemeinden Schönenberg und Hütten wurden nach dem Zusammenschluss mit der Gemeinde Wädenswil auf 1. Januar 2019 aus der Liste entfernt.
 
+<sup>15</sup> Die Gemeinden Humlikon und Adlikon wurden nach dem Zusammenschluss mit der Gemeinde Andelfingen auf 1. Januar 2023 aus der Liste entfernt.
+
 **9**
 
-- 1\. 1. 19 - 103
+- 1\. 1. 23 - 119
