@@ -4,13 +4,12 @@ number: I C/12/2
 title: Gesetz über das Kantons- und Gemeindebürgerrecht
 short: "Kantonales Bürgerrechtsgesetz, KBüG"
 language: de
-version: 2018-01-01
-valid_until: 2022-12-31
-version_adopted: 2016-05-01
+version: 2023-01-01
+version_adopted: 2021-09-05
 adopted: 2016-05-01
 in_force: 2018-01-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/I-C.12.2"
-pdf: "https://gesetze.gl.ch/api/de/versions/1979/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2345/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/1979/pdf_file"
 
 (Kantonales Bürgerrechtsgesetz, KBüG)
 
-Vom 01.05.2016 (Stand 01.01.2018)
+Vom 01.05.2016 (Stand 01.01.2023)
 
 Die Landsgemeinde,
 
@@ -153,7 +152,7 @@ erlässt:
 
 **Bearbeitung von Personendaten**
 
-<sup>1</sup> Die Einbürgerungsbehörden von Kanton und Gemeinden sind berechtigt, die zur Erfüllung ihrer Aufgaben nach diesem Gesetz und dem Bundesrecht notwendigen Personendaten zu bearbeiten, einschliesslich Persönlichkeitsprofilen und besonders schützenswerten Personendaten.
+<sup>1</sup> Die Einbürgerungsbehörden von Kanton und Gemeinden sind berechtigt, die zur Erfüllung ihrer Aufgaben nach diesem Gesetz und dem Bundesrecht notwendigen Personendaten, einschliesslich besonders schützenswerter Personendaten, zu bearbeiten und Profiling zu betreiben.
 
 <sup>2</sup> Sie dürfen zu diesem Zweck bei den sachlich zuständigen Behörden sowie bei vertrauenswürdigen Dritten die notwendigen Auskünfte einholen über:
 
