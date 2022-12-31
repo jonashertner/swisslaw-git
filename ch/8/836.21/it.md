@@ -4,11 +4,11 @@ title: Ordinanza del 31 ottobre 2007 sugli assegni familiari (OAFami)
 short: OAFami
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/52"
 language: it
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2007-10-31
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/52/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2008-52-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/52/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/52/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2008-52-20230101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/52/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/52/20220101/it"
 
 (OAFami)
 
-del 31 ottobre 2007 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
+del 31 ottobre 2007 (Stato 1° gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -163,7 +163,7 @@ Per l’adeguamento degli assegni familiari al potere d’acquisto si applicano 
 [^8-2]: Nuovo testo giusta il n. I dell’O del 19 giu. 2020, in vigore dal 1° ago. 2020 ([RU 2020 2779](https://fedlex.data.admin.ch/eli/oc/2020/503)).
 [^8-3]: Introdotto dal n. I dell’O del 19 giu. 2020, in vigore dal 1° ago. 2020 ([RU 2020 2779](https://fedlex.data.admin.ch/eli/oc/2020/503)).
 
-## Sezione 2: Ordinamento degli assegni familiari per le persone esercitanti un’attività lucrativa****
+## Sezione 2: Ordinamento degli assegni familiari per le persone esercitanti un’attività lucrativa
 
 [^sec2-1]
 
@@ -193,14 +193,19 @@ Si considerano succursali gli istituti e gli stabilimenti in cui è esercitata a
 
 Il diritto agli assegni familiari continua a sussistere anche senza diritto legale allo stipendio durante:
 
-- a. un congedo di maternità di al massimo 16 settimane;
-- b. un congedo giovanile secondo l’articolo 329*e* capoverso 1 CO.
+- a. al massimo 16 settimane, in caso di congedo di maternità;
+- b. al massimo 22 settimane complessive, in caso di prolungamento del congedo di maternità in seguito a degenza ospedaliera del neonato;
+- c. al massimo 2 settimane, in caso di congedo di paternità;
+- d. al massimo 14 settimane, in caso di congedo per l’assistenza a un figlio con gravi problemi di salute dovuti a malattia o infortunio;
+- e. al massimo 2 settimane, in caso di congedo di adozione;
+- f. il congedo, in caso di congedo giovanile secondo l’articolo 329*e* capoverso 1 CO.[^10-4]
 
 <sup>3</sup> Se il salariato decede, gli assegni familiari sono versati ancora per il mese corrente e per i tre mesi successivi.
 
 [^10-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 [^10-2]: Introdotto dal n. I dell’O del 26 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2011 4951](https://fedlex.data.admin.ch/eli/oc/2011/719)).
 [^10-3]: Introdotto dal n. I dell’O del 26 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2011 4951](https://fedlex.data.admin.ch/eli/oc/2011/719)).
+[^10-4]: Nuovo testo giusta l’all. n. 2 dell’O del 24 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
 
 #### Art. 10a
 
@@ -343,7 +348,7 @@ Per la determinazione del reddito delle persone prive di attività lucrativa è 
 
 I Cantoni possono stabilire regolamentazioni più favorevoli per gli aventi diritto.
 
-## Sezione 4*a*:**** Registro degli assegni familiari
+## Sezione 4*a*: Registro degli assegni familiari
 
 [^sec4a-1]
 

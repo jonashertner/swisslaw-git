@@ -4,11 +4,11 @@ title: Ordonnance du 31 octobre 2007 sur les allocations familiales (OAFam)
 short: OAFam
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/52"
 language: fr
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2007-10-31
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/52/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-52-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/52/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/52/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-52-20230101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/52/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/52/20220101/fr"
 
 (OAFam)
 
-du 31 octobre 2007 (Etat le 1<sup>er</sup> janvier 2022)
+du 31 octobre 2007 (État le 1<sup>er</sup> janvier 2023)
 
 Le Conseil fédéral suisse,
 
@@ -161,7 +161,7 @@ Pour l’adaptation des montants au pouvoir d’achat, les taux suivants sont ap
 [^8-2]: Nouvelle teneur selon le ch. I de l’O du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> août 2020 ([RO 2020 2779](https://fedlex.data.admin.ch/eli/oc/2020/503)).
 [^8-3]: Introduit par le ch. I de l’O du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> août 2020 ([RO 2020 2779](https://fedlex.data.admin.ch/eli/oc/2020/503)).
 
-## Section 2 Régime d’allocations familiales pour les personnes exerçant une activité lucrative****
+## Section 2 Régime d’allocations familiales pour les personnes exerçant une activité lucrative
 
 [^sec2-1]
 
@@ -191,14 +191,19 @@ Sont considérées comme succursales les établissements ou installations dans l
 
 Le droit aux allocations familiales subsiste même sans droit légal au salaire:
 
-- a. pendant un congé de maternité de 16 semaines au maximum;
-- b. pendant un congé pour activités de jeunesse en vertu de l’art. 329*e*, al. 1, CO.
+- a. lors d’un congé de maternité: pendant 16 semaines au maximum;
+- b. lors d’une prolongation du congé de maternité en raison d’une hospitalisation du nouveau-né: pendant une durée totale de 22 semaines au maximum;
+- c. lors d’un congé de paternité: pendant 2 semaines au maximum;
+- d. lors d’un congé pour la prise en charge d’un enfant gravement atteint dans sa santé en raison d’une maladie ou d’un accident: pendant 14 semaines au maximum;
+- e. lors d’un congé d’adoption: pendant 2 semaines au maximum;
+- f. lors d’un congé pour activités de jeunesse en vertu de l’art. 329*e*, al. 1, CO: pendant la durée de ce congé.[^10-4]
 
 <sup>3</sup> Si le salarié décède, les allocations familiales sont versées pendant le mois en cours et les trois mois suivants.
 
 [^10-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 [^10-2]: Introduit par le ch. I de l’O du 26 oct. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4951](https://fedlex.data.admin.ch/eli/oc/2011/719)).
 [^10-3]: Introduit par le ch. I de l’O du 26 oct. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4951](https://fedlex.data.admin.ch/eli/oc/2011/719)).
+[^10-4]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 24 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
 
 #### Art. 10a
 
@@ -338,7 +343,7 @@ Pour le calcul du revenu des personnes sans activité lucrative, le revenu impos
 
 Les cantons peuvent édicter des dispositions plus avantageuses pour les bénéficiaires.
 
-## Section 4*a***** Registre des allocations familiales
+## Section 4*a* Registre des allocations familiales
 
 [^sec4a-1]
 

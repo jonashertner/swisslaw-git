@@ -4,11 +4,11 @@ title: Verordnung vom 31. Oktober 2007 über die Familienzulagen (Familienzulage
 short: FamZV
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/52"
 language: de
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2007-10-31
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/52/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2008-52-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/52/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/52/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2008-52-20230101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/52/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/52/20220101/de"
 
 (Familienzulagenverordnung, FamZV)
 
-vom 31. Oktober 2007 (Stand am 1. Januar 2022)
+vom 31. Oktober 2007 (Stand am 1. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -161,7 +161,7 @@ Für die Anpassung der Familienzulagen an die Kaufkraft gelten folgende Ansätze
 [^8-2]: Fassung gemäss Ziff. I der V vom 19. Juni 2020, in Kraft seit 1. Aug. 2020 ([AS 2020 2779](https://fedlex.data.admin.ch/eli/oc/2020/503)).
 [^8-3]: Eingefügt durch Ziff. I der V vom 19. Juni 2020, in Kraft seit 1. Aug. 2020 ([AS 2020 2779](https://fedlex.data.admin.ch/eli/oc/2020/503)).
 
-## 2. Abschnitt: Familienzulagenordnung für Erwerbstätige****
+## 2. Abschnitt: Familienzulagenordnung für Erwerbstätige
 
 [^sec2-1]
 
@@ -191,14 +191,19 @@ Als Zweigniederlassungen gelten Einrichtungen und Betriebsstätten, in denen auf
 
 Der Anspruch auf Familienzulagen bleibt auch ohne gesetzlichen Lohnanspruch bestehen:
 
-- a. während eines Mutterschaftsurlaubs von höchstens 16 Wochen;
-- b. während eines Jugendurlaubs gemäss Artikel 329*e* Absatz 1 OR.
+- a. bei einem Mutterschaftsurlaub: während höchstens 16 Wochen;
+- b. bei Verlängerung des Mutterschaftsurlaubs wegen Spitalaufenthalts des Neugeborenen: während insgesamt höchstens 22 Wochen;
+- c. bei einem Vaterschaftsurlaub: während höchstens 2 Wochen;
+- d. bei einem Urlaub für die Betreuung eines wegen Krankheit oder Unfall gesundheitlich schwer beeinträchtigten Kindes: während höchstens 14 Wochen;
+- e. bei einem Adoptionsurlaub: während 2 Wochen;
+- f. bei einem Jugendurlaub nach Artikel 329*e* Absatz 1 OR: während des Urlaubs.[^10-4]
 
 <sup>3</sup> Stirbt der Arbeitnehmer oder die Arbeitnehmerin, so werden die Familienzulagen noch während des laufenden Monats und der drei darauf folgenden Monate ausgerichtet.
 
 [^10-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 [^10-2]: Eingefügt durch Ziff. I der V vom 26. Okt. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 4951](https://fedlex.data.admin.ch/eli/oc/2011/719)).
 [^10-3]: Eingefügt durch Ziff. I der V vom 26. Okt. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 4951](https://fedlex.data.admin.ch/eli/oc/2011/719)).
+[^10-4]: Fassung gemäss Anhang Ziff. 2 der V vom 24. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
 
 #### Art. 10a
 
@@ -338,7 +343,7 @@ Für die Bemessung des Einkommens der Nichterwerbstätigen ist das steuerbare Ei
 
 Die Kantone können für die Berechtigten günstigere Regelungen festlegen.
 
-## 4*a*. Abschnitt:**** Familienzulagenregister
+## 4*a*. Abschnitt: Familienzulagenregister
 
 [^sec4a-1]
 
