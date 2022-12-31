@@ -4,13 +4,12 @@ number: VII A/2/1
 title: Einführungsgesetz zum Geoinformationsgesetz
 short: EG Geoinformationsgesetz; EG GeoIG
 language: de
-version: 2014-09-01
-valid_until: 2022-12-31
-version_adopted: 2014-05-04
+version: 2023-01-01
+version_adopted: 2021-09-05
 adopted: 2010-05-02
 in_force: 2012-09-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/VII-A.2.1"
-pdf: "https://gesetze.gl.ch/api/de/versions/1625/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2361/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/1625/pdf_file"
 
 (EG Geoinformationsgesetz; EG GeoIG)
 
-Vom 02.05.2010 (Stand 01.09.2014)
+Vom 02.05.2010 (Stand 01.01.2023)
 
 (Erlassen von der Landsgemeinde am 2. Mai 2010)
 
@@ -122,11 +121,11 @@ Vom 02.05.2010 (Stand 01.09.2014)
 
 **Datenschutz**
 
-<sup>1</sup> Soweit dieses Gesetz keine abweichenden Regelungen enthält, gelten die Vorgaben der Datenschutzgesetzgebung[^10-1].
+<sup>1</sup> Soweit dieses Gesetz keine abweichenden Regelungen enthält, gelten die Vorgaben des Gesetzes über die Information der Öffentlichkeit, den Datenschutz und das Archivwesen[^10-1].
 
 <sup>2</sup> Auch die Nutzerinnen und Nutzer sind im Zusammenhang mit der Nutzung der Geodaten zur Einhaltung dieser Vorschriften verpflichtet.
 
-[^10-1]: GS [I F](https://gesetze.gl.ch/data/I-F/de)
+[^10-1]: GS [I F/1](https://gesetze.gl.ch/data/I-F.1/de)
 
 #### Art. 11
 
