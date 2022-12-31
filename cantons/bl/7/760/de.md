@@ -4,13 +4,12 @@ number: "760"
 title: Gesetz über die Feuerwehr
 short: FWG
 language: de
-version: 2014-01-01
-valid_until: 2022-12-31
-version_adopted: 2013-02-07
+version: 2023-01-01
+version_adopted: 2022-03-24
 adopted: 2013-02-07
 in_force: 2014-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/760"
-pdf: "https://bl.clex.ch/api/de/versions/592/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3485/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bl.clex.ch/api/de/versions/592/pdf_file"
 
 (FWG)
 
-Vom 07.02.2013 (Stand 01.01.2014)
+Vom 07.02.2013 (Stand 01.01.2023)
 
 Der Landrat des Kantons Basel-Landschaft, gestützt auf § 63 Absatz 1 der Kantonsverfassung vom 17. Mai 1984[^ingress-1], beschliesst:[^ingress-2]
 
@@ -183,6 +182,8 @@ Der Landrat des Kantons Basel-Landschaft, gestützt auf § 63 Absatz 1 der Kanto
 <sup>2</sup> Sie retten Menschen und Tiere und begrenzen den Schaden. Dabei richten sie sich nach den schweizerisch anerkannten Grundsätzen.
 
 <sup>3</sup> Sie können andere Feuerwehren zur notwendigen Hilfe bei der Ereignisbewältigung anfordern.
+
+<sup>4</sup> Die BGV kann die Feuerwehren zur Begrenzung eingetretener Schäden an Gebäuden und Grundstücken sowie zur Abwehr potentiell drohender Gefahren für Gebäude und Grundstücke einsetzen.
 
 #### § 16
 
@@ -422,7 +423,7 @@ Der Landrat des Kantons Basel-Landschaft, gestützt auf § 63 Absatz 1 der Kanto
 
 **Beschwerde**
 
-<sup>1</sup> Gegen Beitragsverfügungen kann innert 10 Tagen bei der Verwaltungskommission der BGV Beschwerde erhoben werden.
+<sup>1</sup> Gegen Beitragsverfügungen kann innert 10 Tagen beim Verwaltungsrat der BGV Beschwerde erhoben werden.
 
 <sup>2</sup> Gegen die übrigen Verfügungen kann innert 10 Tagen Beschwerde beim Regierungrat erhoben werden.
 
