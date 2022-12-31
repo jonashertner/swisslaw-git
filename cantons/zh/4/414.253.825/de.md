@@ -3,11 +3,11 @@ canton: ZH
 number: "414.253.825"
 title: Studienordnung für den Masterstudiengang Banking and Finance an der Zürcher Hochschule für Angewandte Wissenschaften
 language: de
-version: "2020-04-01"
-nachtrag: "108"
-valid_until: 2023-01-01
+version: "2023-01-01"
+nachtrag: "119"
+valid_until: 2024-12-01
 adopted: 2011-09-29
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_825-2011_09_29-2012_02_01-108.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_825-2011_09_29-2012_02_01-119.html"
 text: pdf
 ---
 
@@ -68,7 +68,7 @@ An der ZHAW oder andernorts erworbene ECTS-Credits sind ab dem Zeitpunkt ihrer V
 
 **1**
 
-- 1\. 4. 20 - 108
+- 1\. 1. 23 - 119
 
 - a. Bachelorabschluss in Business Administration von 180 ECTS-Credits,
 
@@ -135,23 +135,21 @@ An der ZHAW oder andernorts erworbene ECTS-Credits sind ab dem Zeitpunkt ihrer V
 
 ### E. Studienabschluss und Masterdiplom
 
-#### § 16
-
 **Titel**
 
-Das Masterstudium wird mit dem Titel «Master of Science ZFH in Banking and Finance» abgeschlossen.
+§ 16.[^hEStudienabschluss-1] Das Masterstudium wird mit dem Titel «Master of Science ZHAW in Banking and Finance» abgeschlossen.
 
 **Abschluss des Studiums**
 
-§ 17.[^16-1] Der Mastertitel wird vergeben, wenn a. alle erforderlichen Pflichtmodule bestanden sind, b.[^16-2] 90 ECTS-Credits erreicht sind.
+§ 17.[^hEStudienabschluss-2] Der Mastertitel wird vergeben, wenn a. alle erforderlichen Pflichtmodule bestanden sind, b.[^hEStudienabschluss-3] 90 ECTS-Credits erreicht sind.
 
 **Abschlussnote**
 
-§ 18.[^16-3] Die Abschlussnote errechnet sich aus dem Durchschnitt der Noten der promotionsrelevanten Module. Die Modulnoten werden nach ECTS-Credits gewichtet.
+§ 18.[^hEStudienabschluss-4] Die Abschlussnote errechnet sich aus dem Durchschnitt der Noten der promotionsrelevanten Module. Die Modulnoten werden nach ECTS-Credits gewichtet.
 
 **Überzählige ECTS-Credits aus Wahlpflichtmodulen**
 
-§ 18 a.[^16-4] <sup>1</sup> Werden mehr Wahlpflichtmodule als nötig belegt, so gelten die überzähligen Wahlpflichtmodule als Wahlmodule.
+§ 18 a.[^hEStudienabschluss-5] <sup>1</sup> Werden mehr Wahlpflichtmodule als nötig belegt, so gelten die überzähligen Wahlpflichtmodule als Wahlmodule.
 
 <sup>2</sup> Die Studiengangleitung regelt,
 
@@ -161,10 +159,11 @@ Das Masterstudium wird mit dem Titel «Master of Science ZFH in Banking and Fina
 
 <sup>3</sup> Die überzähligen Wahlpflichtmodule werden nicht für die Berechnung der Abschlussnote herangezogen.
 
-[^16-1]: Fassung gemäss B vom 7. April 2016 (OS 71, 237; ABl 2016-04-29). In Kraft seit 1. August 2016.
-[^16-2]: Fassung gemäss B vom 23. August 2018 (OS 74, 36; ABl 2018-12-07). In Kraft seit 1. Februar 2019.
-[^16-3]: Fassung gemäss B vom 22. August 2019 (OS 75, 42; ABl 2019-11-01). In Kraft seit 1. April 2020.
-[^16-4]: Eingefügt durch B vom 22. August 2019 (OS 75, 42; ABl 2019-11-01). In Kraft seit 1. April 2020.
+[^hEStudienabschluss-1]: Fassung gemäss B vom 2. Juni 2022 (OS 77, 518; ABl 2022-08-19). In Kraft seit 1. Januar 2023. 1. 1. 23 - 119 5
+[^hEStudienabschluss-2]: Fassung gemäss B vom 7. April 2016 (OS 71, 237; ABl 2016-04-29). In Kraft seit 1. August 2016.
+[^hEStudienabschluss-3]: Fassung gemäss B vom 23. August 2018 (OS 74, 36; ABl 2018-12-07). In Kraft seit 1. Februar 2019.
+[^hEStudienabschluss-4]: Fassung gemäss B vom 22. August 2019 (OS 75, 42; ABl 2019-11-01). In Kraft seit 1. April 2020.
+[^hEStudienabschluss-5]: Eingefügt durch B vom 22. August 2019 (OS 75, 42; ABl 2019-11-01). In Kraft seit 1. April 2020.
 
 ### F. Schlussbestimmung
 
@@ -176,7 +175,7 @@ Diese Studienordnung ersetzt die Studienordnung für den Masterstudiengang Banki
 
 **3**
 
-- 1\. 4. 20 - 108
+- 1\. 1. 23 - 119
 
 ### G. Übergangsbestimmung
 
@@ -207,13 +206,9 @@ Diese Studienordnung ersetzt die Studienordnung für den Masterstudiengang Banki
 
 Der Anhang zur Studienordnung für den Masterstudiengang Banking and Finance an der Zürcher Hochschule für Angewandte Wissenschaften wird weder in die Offizielle Gesetzessammlung (OS) noch in die Zürcher Loseblattsammlung (LS) aufgenommen. Er kann bei der
 
-Zürcher Hochschule für Angewandte Wissenschaften Ressort Lehre Gertrudstrasse 15 Postfach 8400 Winterthur
+Zürcher Hochschule für Angewandte Wissenschaften Ressort Bildung Gertrudstrasse 15 Postfach 8400 Winterthur
 
 bezogen oder unter (www.zhaw.ch) eingesehen werden.
-
-**5**
-
-- 1\. 4. 20 - 108
 
 ## Weitere Fussnoten
 
