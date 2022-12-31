@@ -4,11 +4,11 @@ title: Swiss Criminal Code of 21 December 1937
 short: SCC
 eli: "https://fedlex.data.admin.ch/eli/cc/54/757_781_799"
 language: en
-version: 2022-11-22
+version: 2023-01-01
 adopted: 1937-12-21
 in_force: 1942-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20221122/en/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20221122-en-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20221122/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20230101/en/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20230101-en-xml-17.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20230101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20221122/en"
 
 English is not an official language of the Swiss Confederation. This translation is provided for information purposes only and has no legal force.
 
-of 21 December 1937 (Status as of 22 November 2022)
+of 21 December 1937 (Status as of 1 January 2023)
 
 The Federal Assembly the Swiss Confederation,
 
@@ -456,7 +456,7 @@ If an entitled person files a complaint against one person who participated in t
 
 <sup>1</sup> Unless the law provides otherwise, a monetary penalty amounts to a minimum of three and a maximum of 180 daily penalty units.[^34-1] The court decides on the number according to the culpability of the offender.
 
-<sup>2</sup> A daily penalty unit normally amounts to a minimum of 30 and a maximum of 3000 francs. By way of exception, if the offender’s personal or financial circumstances so require, the value of the daily penalty unit may be reduced to 10 francs. The court decides on the value of the daily penalty unit according to the personal and financial circumstances of the offender at the time of conviction, and in particular according to his income and capital, living expenses, any maintenance or support obligations and the minimum subsistence level.[^34-2]
+<sup>2</sup> A daily penalty unit normally amounts to a minimum of 30 francs and a maximum of 3000 francs.[^34-2] The court may reduce the value of the daily penalty unit to 10 francs if the offender’s personal or financial circumstances so require.[^34-3] It may decide on a value in excess of the maximum value of the daily penalty unit if the law so permits. It decides on the value of the daily penalty unit according to the personal and financial circumstances of the offender at the time of conviction, and in particular according to his income and capital, living expenses, any maintenance or support obligations and the minimum subsistence level.[^34-4]
 
 <sup>3</sup> The authorities of the Confederation, the cantons and the communes shall provide the information required to determine the daily penalty unit.
 
@@ -464,6 +464,8 @@ If an entitled person files a complaint against one person who participated in t
 
 [^34-1]: Amended by No I 1 of the FA of 19 June 2015 (Amendments to the Law of Criminal Sanctions), in force since 1 Jan. 2018 ([AS 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [BBl 2012 4721](https://fedlex.data.admin.ch/eli/fga/2012/670)).
 [^34-2]: Amended by No I 1 of the FA of 19 June 2015 (Amendments to the Law of Criminal Sanctions), in force since 1 Jan. 2018 ([AS 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [BBl 2012 4721](https://fedlex.data.admin.ch/eli/fga/2012/670)).
+[^34-3]: Second and third sentences amended by Annex No 5 of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^34-4]: Forth sentence inserted by by Annex No 5 of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### Execution
 
@@ -713,9 +715,9 @@ If the offender is so seriously affected by the immediate consequences of his ac
 
 ### Spouse, registered partner or life partner as victim
 
-[^book1-part1-tit3-chap1-sec4-lvlu3-1]
+[^book1-part1-tit3-chap1-sec4-lvl3-1]
 
-[^book1-part1-tit3-chap1-sec4-lvlu3-1]: Amended by No I 3 of the FA of 14 Dec. 2018 on Improved Protection for Victims of Violence, in force since 1 July 2020 ([AS 2019 2273](https://fedlex.data.admin.ch/eli/oc/2019/432); [BBl 2017 7307](https://fedlex.data.admin.ch/eli/fga/2017/2095)).
+[^book1-part1-tit3-chap1-sec4-lvl3-1]: Amended by No I 3 of the FA of 14 Dec. 2018 on Improved Protection for Victims of Violence, in force since 1 July 2020 ([AS 2019 2273](https://fedlex.data.admin.ch/eli/oc/2019/432); [BBl 2017 7307](https://fedlex.data.admin.ch/eli/fga/2017/2095)).
 
 #### Art. 55a
 
@@ -2717,9 +2719,35 @@ shall be liable to a custodial sentence not exceeding three years or to a moneta
 
 Any person who causes an authority responsible for the Commercial Register to make a false entry in the Register or withholds from such an authority information which is required to be entered in the Register shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.
 
+### Criminal liability of members of the board of directors and the executive board of companies whose shares are listed on a stock exchange
+
 #### Art. 154
 
-Repealed
+[^154-1]
+
+<sup>1</sup> Any person who, as a member of the board of directors or the executive board of a company whose shares are listed on a stock exchange, pays or accepts remuneration that is not permitted in terms of Article 735*c* letters 1, 5 and 6 of the Code of Obligations (CO)[^154-2], if applicable in conjunction with Article 735*d* number 1 CO, shall be liable to a custodial sentence not exceeding three years and to a monetary penalty.
+
+<sup>2</sup>
+
+Any person who, as a member of the board of directors of a company whose shares are listed on a stock exchange, carries out any of the following acts shall be liable to a custodial sentence not exceeding three years or to a monetary penalty:
+
+- a. delegating the management of business wholly or partly to a legal entity in violation of Article 716*b* paragraph 1 first sentence CO;
+- b. delegating the voting rights of corporate bodies or delegating voting rights to custodian banks (Art. 689*b* para. 2 CO);
+- c.
+
+  preventing:
+
+  - 1\. the articles of association from containing the provisions specified in Article 626 paragraph 2 letters 1 and 2 CO,
+  - 2\. the general meeting from being able, annually and individually, to elect the members and the chair of the board of directors, the members of the remuneration committee and the independent voting representative (Art. 698 para. 2 no 2 and para. 3 no 1–3 CO),
+  - 3\. the general meeting from being able to vote on the remuneration that the board of directors has determined for itself, the executive board and the board of advisors (Art. 698 para. 3 no 4 CO),
+  - 4\. the shareholders or their representatives from being able to exercise their rights by electronic means (Art. 689*c* para. 6 CO).
+
+<sup>3</sup> If the perpetrator merely accepts the possibility that an offence under paragraph 1 or 2 may be committed, he or she shall not be liable to prosecution under these provisions.
+
+<sup>4</sup> In calculating the monetary penalty, the court shall not be bound by the maximum value of a daily penalty unit (Art. 34 para. 2 first sentence); however, the monetary penalty may not exceed six times the annual remuneration agreed with the company concerned at the time of the offence.
+
+[^154-1]: Amended by Annex No 5 of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109), [110](https://fedlex.data.admin.ch/eli/oc/2022/110); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^154-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
 ### Counterfeiting of goods
 
@@ -5242,15 +5270,19 @@ If the offender has requested, accepted or secured the promise of a special form
 
 Any public official who assists or allows a person under arrest, a convicted prisoner or a person committed to an institution by official order to escape shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.
 
-### Breach official secrecy
+### Breach of official secrecy
 
 #### Art. 320
 
-<sup>1.</sup> Any person who discloses secret information that has been confided to him in his capacity as a member of an authority or as a public official or which has come to his knowledge in the execution of his official duties shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.
+[^320-1]
 
-A breach official secrecy remains an offence following termination of employment as a member of an authority or as a public official.
+<sup>1.</sup> Any person who discloses secret information that has been confided to him in his capacity as a member of an authority or as a public official or which has come to his knowledge in the execution of his official duties or as an auxiliary to a public official or an authority shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.
+
+A breach of official secrecy remains an offence following termination of employment as a member of an authority or as a public official or of the auxiliary activity.
 
 <sup>2.</sup> The offender is not liable to any penalty if he has disclosed the secret information with the written consent of his superior authority.
+
+[^320-1]: Amended by Annex 1 No 7 of the Information Security Act of 18 Dec. 2020, in force since 1 Jan. 2023 ([AS 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232), [750](https://fedlex.data.admin.ch/eli/oc/2022/750); [BBl 2017 2953](https://fedlex.data.admin.ch/eli/fga/2017/647)).
 
 ### Breach of professional confidentiality
 
@@ -5512,7 +5544,7 @@ A person shall be liable to a fine if he or she wilfully commits any of the foll
 
 A person shall be liable to a fine not exceeding 100 000 francs if he or she wilfully commits any of the following acts:
 
-- a. provides false information in the reports in accordance with Articles 964*a*, 964*b* und 964*l* OR[^325ter-2] or fails to make the required reports;
+- a. provides false information in the reports in accordance with Articles 964*a*, 964*b* and 964*l* CO[^325ter-2] or fails to make the required reports;
 - b. fails to comply with the statutory obligation to retain and document the reports in accordance with Articles 964*c* and 964*l* CO.
 
 <sup>2</sup> A person who acts through negligence shall be liable to a fine not exceeding 50 000 francs.
@@ -5626,6 +5658,17 @@ A person shall be liable to a fine if he or she wilfully fails to keep any of th
 [^327a-1]: Inserted by No I 2 of the FA of 21 June 2019 on Implementing the Recommendations of the Global Forum on Transparency and Transfer of Information for Tax Purposes, in force since 1 Nov. 2019 ([AS 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [BBl 2019 279](https://fedlex.data.admin.ch/eli/fga/2019/18)).
 [^327a-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 [^327a-3]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+
+### Failure to comply with the statutory obligations of associations
+
+#### Art. 327b
+
+[^327b-1]
+
+Any person who wilfully fails to comply with the any of obligations for associations specified in Articles 61*a* and 69 paragraph 2 of the Civil Code[^327b-2] shall be liable to a fine.
+
+[^327b-1]: Inserted by Annex 1 No 2 of the FA of 19 March 2021, in force since 1 Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+[^327b-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 
 ### Reproduction of postage stamps without intent to commit forgery
 
@@ -5901,9 +5944,7 @@ It shall also provide the recipient with any further information that can be use
 
 [^349g-1]
 
-<sup>1</sup>
-
-The data subject may request the Commissioner to check whether any data relating to the data subject is being processed lawfully if:
+<sup>1</sup> The data subject may request the Commissioner to check whether any data relating to the data subject is being processed lawfully if:
 
 - a. the data subject’s right to information about the exchange of data about them is restricted or deferred (Art. 18*a* and 18*b* of the Federal Act of 19 June 1992[^349g-2] on Data Protection);
 - b. his or her right to information is denied, restricted or deferred (Art. 17 and 18 SADP[^349g-3]); or
@@ -6049,9 +6090,9 @@ The Federal Council:
 
 ### a. Exchange of data
 
-[^book3-tit4-lvlu8-lvla-1]
+[^book3-tit4-lvl5ter-lvla-1]
 
-[^book3-tit4-lvlu8-lvla-1]: Amended by Annex 1 No II 8 of the Criminal Procedure Code of 5 Oct. 2007, in force since 1 Jan. 2011 ([AS 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124)).
+[^book3-tit4-lvl5ter-lvla-1]: Amended by Annex 1 No II 8 of the Criminal Procedure Code of 5 Oct. 2007, in force since 1 Jan. 2011 ([AS 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 
 #### Art. 355a
 
@@ -6066,15 +6107,15 @@ The Federal Council:
 <sup>4</sup> The exchange of personal data with Europol is regarded as equivalent to an exchange with a competent authority of a Schengen State (Art. 349*b*).[^355a-4]
 
 [^355a-1]: Inserted by Art. 2 of the FedD of 7 Oct. 2005 on the Approval and Implementation of the Agreement between Switzerland and Europol, in force since 1 April 2006 ([AS 2006 1017](https://fedlex.data.admin.ch/eli/oc/2006/180)1018; [BBl 2005 983](https://fedlex.data.admin.ch/eli/fga/2005/131)).
-[^355a-2]: Amended by Annex 1 No 4 of the FedD of 18 Dec. 2020 on the Approval and Implementation of the Exchange of Notes between Switzerland and the EU relating to the Adoption of the Legislation on the Establishment, Operation and Use of the Schengen Information System (SIS), in force since 1 July 2021 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^355a-2]: Amended by Annex 1 No 4 of the FedD of 18 Dec. 2020 on the Approval and Implementation of the Exchange of Notes between Switzerland and the EU relating to the Adoption of the Legislation on the Establishment, Operation and Use of the Schengen Information System (SIS), in force since 22 Nov. 2022 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 638](https://fedlex.data.admin.ch/eli/oc/2022/638); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
 [^355a-3]: SR **0.360.268.2**
 [^355a-4]: Inserted by No II 2 of the FA of 28 Sept. 2018 on the implementation of Directive (EU) 2016/680 on the protection of natural persons with regard to the processing of personal data by competent authorities for the purposes of the prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties, in force since 1 March 2019 ([AS 2019 625](https://fedlex.data.admin.ch/eli/oc/2019/111); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### b. Extension of mandate
 
-[^book3-tit4-lvlu8-lvlb-1]
+[^book3-tit4-lvl5ter-lvlb-1]
 
-[^book3-tit4-lvlu8-lvlb-1]: Amended by Annex 1 No II 8 of the Criminal Procedure Code of 5 Oct. 2007, in force since 1 Jan. 2011 ([AS 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124)).
+[^book3-tit4-lvl5ter-lvlb-1]: Amended by Annex 1 No II 8 of the Criminal Procedure Code of 5 Oct. 2007, in force since 1 Jan. 2011 ([AS 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 
 #### Art. 355b
 
@@ -6260,56 +6301,62 @@ The following authorities process personal data on convictions in the register i
 
 <sup>2</sup>
 
-The following authorities may have online access to the personal data on convictions in accordance with Article 366 paragraphs 1, 2 and 3 letters a and b:[^367-2]:
+The following authorities may have online access to personal data on convictions in accordance with Article 366 paragraphs 1, 2 and 3 letters a and b:[^367-2]:
 
 - a. the authorities listed in paragraph 1;
 - b. the Office of the Attorney General of Switzerland;
-- c. the Federal Office of Police in the course of criminal investigations;
-- d. the Defence Group[^367-3];
-- [tab] e.[^367-4] the State Secretariat for Migration[^367-5];
-- f.[^367-6] ...
+- c.[^367-3]
+
+  the Federal Office of Police:
+
+  - 1\. in the course of criminal investigations,
+  - 2\. for the processing of applications for an acquisition or exemption licence for precursors, the review of these licences, the processing of reports of suspicious activities involving precursors, and the prosecution and adjudication of offences under the Precursors Act of 25 September 2020[^367-4];
+
+- d. the Defence Group[^367-5];
+- [tab] e.[^367-6] the State Secretariat for Migration[^367-7];
+- f.[^367-8] ...
 - g. the cantonal immigration authorities;
 - h. the cantonal authorities responsible for road traffic matters;
-- i.[^367-7] the federal authorities responsible for the conduct of personal security checks in terms of Article 2 paragraph 2 letter a of the Federal Act of 21 March 1997[^367-8] on Measures to Safeguard Internal Security;
-- [tab] j.[^367-9] the Federal Office for Civilian Service[^367-10];
-- k.[^367-11] the cantonal authorities responsible for decisions on ineligibility for civil defence service;
-- l.[^367-12] the Federal Witness Protection Agency in accordance with the Federal Act of 23 December 2011[^367-13] on Extra-Procedural Witness Protection in order to fulfil their tasks;
-- m.[^367-14] the FIS;
-- n.[^367-15] the cantonal police authorities responsible for clarifying the security risk in accordance with Article 108*c* AviA[^367-16].
+- i.[^367-9] the federal authorities responsible for the conduct of personal security checks in terms of Article 2 paragraph 2 letter a of the Federal Act of 21 March 1997[^367-10] on Measures to Safeguard Internal Security;
+- [tab] j.[^367-11] the Federal Office for Civilian Service[^367-12];
+- k.[^367-13] the cantonal authorities responsible for decisions on ineligibility for civil defence service;
+- l.[^367-14] the Federal Witness Protection Agency in accordance with the Federal Act of 23 December 2011[^367-15] on Extra-Procedural Witness Protection in order to fulfil their tasks;
+- m.[^367-16] the FIS;
+- n.[^367-17] the cantonal police authorities responsible for clarifying the security risk in accordance with Article 108*c* AviA[^367-18].
 
 <sup>2bis</sup>
 
 The following authorities may also have online access to the personal data on convictions in accordance with Article 366 paragraphs 3 letters c:
 
-- a. the Defence Group[^367-17] for the purposes of assessing eligibility for recruitment, exclusion from the armed forces, or readmission to the armed forces or demotion under the ArmA[^367-18], the assessment of grounds for refusing to issue a personal weapon under the ArmA, and the assessment of suitability for promotion or appointment under the;
-- b.[^367-19] the federal authorities responsible for personnel security screening under Article 2 paragraph 2 letter a of the Federal Act of 21 March 1997 on Measures to Safeguard Internal Security;
+- a. the Defence Group[^367-19] for the purposes of assessing eligibility for recruitment, exclusion from the armed forces, or readmission to the armed forces or demotion under the ArmA[^367-20], the assessment of grounds for refusing to issue a personal weapon under the ArmA, and the assessment of suitability for promotion or appointment under the;
+- b.[^367-21] the federal authorities responsible for personnel security screening under Article 2 paragraph 2 letter a of the Federal Act of 21 March 1997 on Measures to Safeguard Internal Security;
 - c. authorities responsible for the administration of civilian criminal justice in order to conduct criminal proceedings (Art. 365 para. 2 let. a);
 - d. cantonal coordination offices and the Federal Office of Justice in order to fulfil their statutory duties in relation to keeping registers;
-- e. the authorities responsible for the execution of sentences and measures in order to execute sentences and measures (Art. 365 para. 2 let. c).[^367-20]
+- e. the authorities responsible for the execution of sentences and measures in order to execute sentences and measures (Art. 365 para. 2 let. c).[^367-22]
 
-<sup>2ter</sup> Authorities in terms of paragraphs 2 letters c–l and 2<sup>septies</sup> may access judgements that include an expulsion order for as long as the person concerned is subject to that order. If the period under Article 369 is longer, that period applies as the duration of access.[^367-21]
+<sup>2ter</sup> Authorities in terms of paragraphs 2 letters c–l and 2<sup>septies</sup> may access judgements that include an expulsion order for as long as the person concerned is subject to that order. If the period under Article 369 is longer, that period applies as the duration of access.[^367-23]
 
 <sup>2quater</sup>
 
-In order to fulfil its duties under Article 365 paragraph 2 letters n–q, the federal office responsible for the register shall notify the Defence Group regularly of the following data newly recorded in VOSTRA relating to persons eligible for military service, members of the armed forces and persons required to do civil defence service:[^367-22]
+In order to fulfil its duties under Article 365 paragraph 2 letters n–q, the federal office responsible for the register shall notify the Defence Group regularly of the following data newly recorded in VOSTRA relating to persons eligible for military service, members of the armed forces and persons required to do civil defence service:[^367-24]
 
 - a. convictions for felonies or misdemeanours;
 - b. custodial measures;
-- c. decisions on breaches of probation by persons subject to recruitment and members of the armed forces.[^367-23]
+- c. decisions on breaches of probation by persons subject to recruitment and members of the armed forces.[^367-25]
 
-<sup>2quinquies</sup> Notice is given of the personal details of Swiss nationals over the age of 17 who are registered in accordance with paragraph 2<sup>quater</sup>. If the Armed Forces Joint Staff identifies a reported person as being subject to recruitment or as a member of the armed forces, the office responsible for the register also provides the data on the conviction and sentence.[^367-24]
+<sup>2quinquies</sup> Notice is given of the personal details of Swiss nationals over the age of 17 who are registered in accordance with paragraph 2<sup>quater</sup>. If the Armed Forces Joint Staff identifies a reported person as being subject to recruitment or as a member of the armed forces, the office responsible for the register also provides the data on the conviction and sentence.[^367-26]
 
-<sup>2sexies</sup> Notice and identification in accordance with paragraph 2<sup>quinquies</sup> may be effected via an electronic interface between the Armed Forces Personnel Information System (PISA) and the register.[^367-25]
+<sup>2sexies</sup> Notice and identification in accordance with paragraph 2<sup>quinquies</sup> may be effected via an electronic interface between the Armed Forces Personnel Information System (PISA) and the register.[^367-27]
 
-<sup>2septies</sup> For the purpose of carrying out background checks with a view to granting or withdrawing recognition as a "Youth and Sport" officer, the Federal Office of Sport may by written request inspect personal data relating to criminal convictions.[^367-26]
+<sup>2septies</sup> For the purpose of carrying out background checks with a view to granting or withdrawing recognition as a "Youth and Sport" officer, the Federal Office of Sport may by written request inspect personal data relating to criminal convictions.[^367-28]
 
-<sup>3</sup> The Federal Council may, if the number of requests for information so justifies, after consulting the Federal Data Protection and Information Commissioner[^367-27] and until formal legislation on the relevant legal principles comes into force, extend the rights of inspection under paragraph 2 to additional federal and cantonal law enforcement and administrative authorities.
+<sup>3</sup> The Federal Council may, if the number of requests for information so justifies, after consulting the Federal Data Protection and Information Commissioner[^367-29] and until formal legislation on the relevant legal principles comes into force, extend the rights of inspection under paragraph 2 to additional federal and cantonal law enforcement and administrative authorities.
 
-<sup>4</sup> Personal data in relation to pending criminal proceedings may only be processed by the authorities listed in paragraph 2 letters a–e, i, j and l–n.[^367-28]
+<sup>4</sup> Personal data in relation to pending criminal proceedings may only be processed by the authorities listed in paragraph 2 letters a–e, i, j and l–n.[^367-30]
 
-<sup>4bis</sup> ...[^367-29]
+<sup>4bis</sup> ...[^367-31]
 
-<sup>4ter</sup> For the purpose of carrying out background checks with a view to granting or suspending recognition as a "Youth and Sport" officer, the Federal Office of Sport may by written request inspect personal data relating to criminal convictions.[^367-30]
+<sup>4ter</sup> For the purpose of carrying out background checks with a view to granting or suspending recognition as a "Youth and Sport" officer, the Federal Office of Sport may by written request inspect personal data relating to criminal convictions.[^367-32]
 
 <sup>5</sup> Each canton shall establish a coordination office for the processing of the data in the register.
 
@@ -6328,34 +6375,36 @@ The Federal Council regulates the details, and in particular:
 
 [^367-1]: Amended by Annex No 2 of the FA of 19 March 2010, in force since 1 Jan. 2013 ([AS 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869), [2011 487](https://fedlex.data.admin.ch/eli/oc/2011/66); [BBl 2009 5917](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
 [^367-2]: Amended by Annex No 2 of the FA of 19 March 2010, in force since 1 Jan. 2013 ([AS 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869), [2011 487](https://fedlex.data.admin.ch/eli/oc/2011/66); [BBl 2009 5917](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
-[^367-3]: Name in accordance with Annex No 2 of the FA of 18 March 2016, in force since 1 Jan. 2018 ([AS 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^367-4]: Amended by No I 3 of the Ordinance of 3 Nov. 2004 on the Amendment of Statutory Provisions due to the Merger of the Federal Offices IMES and FOR, in force since 1 Jan. 2005 ([AS 2004 4655](https://fedlex.data.admin.ch/eli/oc/2004/715)).
-[^367-5]: The name of this administrative unit was amended by Art. 16 para. 3 of the Publications Ordinance of 17 Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), in force since 1 Jan. 2015
-[^367-6]: Repealed by No I 3 of the Ordinance of 3 Nov. 2004 on the Amendment of Statutory Provisions due to the Merger of the Federal Offices IMES and FOR, with effect from 1 Jan. 2005 ([AS 2004 4655](https://fedlex.data.admin.ch/eli/oc/2004/715)).
-[^367-7]: Amended by Annex No II 5 of the Intelligence Service Act of 25 Sept. 2015, in force since 1 Sept. 2017 ([AS 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [BBl 2014 2105](https://fedlex.data.admin.ch/eli/fga/2014/407)).
-[^367-8]: [SR 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
-[^367-9]: Inserted by No II of the FA of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710)4854; [BBl 2001 6127](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
-[^367-10]: The name of this administrative unit was amended by Art. 20 para. 2 of the Publications Ordinance of 7 Oct. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), in force since 1 Jan. 2019.
-[^367-11]: Inserted by Annex No 1 of the FA of 3 Oct. 2008 on Military Information Systems, in force since 1 Jan. 2010 ([AS 2009 6617](https://fedlex.data.admin.ch/eli/oc/2009/823); [BBl 2008 3213](https://fedlex.data.admin.ch/eli/fga/2008/701)).
-[^367-12]: Inserted by Annex No 3 of the FA of 23 Dec. 2011 on Extra-Procedural Witness Protection, in force since 1 Jan. 2013 ([AS 2012 6715](https://fedlex.data.admin.ch/eli/oc/2012/814); [BBl 2011 1](https://fedlex.data.admin.ch/eli/fga/2011/1)).
-[^367-13]: [SR 312.2](https://fedlex.data.admin.ch/eli/cc/2012/814)
-[^367-14]: Inserted by Annex No II 5 of the Intelligence Service Act of 25 Sept. 2015, in force since 1 Sept. 2017 ([AS 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [BBl 2014 2105](https://fedlex.data.admin.ch/eli/fga/2014/407)).
-[^367-15]: Inserted by No I 6 of the FA of 25 Sept. 2020 on Police Measures to Combat Terrorism, in force since 1 Jan. 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565), [672](https://fedlex.data.admin.ch/eli/oc/2021/672); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
-[^367-16]: [SR 748.0](https://fedlex.data.admin.ch/eli/cc/1950/471_491_479)
-[^367-17]: Name in accordance with Annex No 2 of the FA of 18 March 2016, in force since 1 Jan. 2018 ([AS 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^367-18]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^367-19]: Amended by Annex No II 5 of the Intelligence Service Act of 25 Sept. 2015, in force since 1 Sept. 2017 ([AS 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [BBl 2014 2105](https://fedlex.data.admin.ch/eli/fga/2014/407)).
-[^367-20]: Inserted by Annex No 1 of the FA of 3 Oct. 2008 on Military Information Systems ([AS 2009 6617](https://fedlex.data.admin.ch/eli/oc/2009/823); [BBl 2008 3213](https://fedlex.data.admin.ch/eli/fga/2008/701)). Amended by Annex No 2 of the FA of 19 March 2010, in force since 1 Jan. 2013 ([AS 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869), [2011 487](https://fedlex.data.admin.ch/eli/oc/2011/66); [BBl 2009 5917](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
-[^367-21]: Inserted by No I 1 of the FA of 20 March 2015 (Implementation of Art. 121 para. 3–6 Federal Constitution on the expulsion of foreign nationals convicted of certain criminal offences), in force since 1 Oct. 2016 ([AS 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [BBl 2013 5975](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
-[^367-22]: Amended by Annex No 2 of the FA of 18 March 2016, in force since 1 Jan. 2018 ([AS 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^367-23]: Originally: para. 2<sup>ter</sup>. Inserted by Annex No 1 of the FA of 3 Oct. 2008 on Military Information Systems ([AS 2009 6617](https://fedlex.data.admin.ch/eli/oc/2009/823); [BBl 2008 3213](https://fedlex.data.admin.ch/eli/fga/2008/701)). Amended by Annex No 2 of the FA of 19 March 2010, in force since 1 Jan. 2013 ([AS 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869), [2011 487](https://fedlex.data.admin.ch/eli/oc/2011/66); [BBl 2009 5917](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
-[^367-24]: Inserted by Annex No 2 of the FA of 19 March 2010 ([AS 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869), [2011 487](https://fedlex.data.admin.ch/eli/oc/2011/66); [BBl 2009 5917](https://fedlex.data.admin.ch/eli/fga/2009/1057)). Amended by No I 1 of the FA of 20 March 2015 (Implementation of Art. 121 para. 3–6 Federal Constitution on the expulsion of foreign nationals convicted of certain criminal offences), in force since 1 Oct. 2016 ([AS 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [BBl 2013 5975](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
-[^367-25]: Inserted by No I 1 of the FA of 20 March 2015 (Implementation of Art. 121 para. 3–6 Federal Constitution on the expulsion of foreign nationals convicted of certain criminal offences), in force since 1 Oct. 2016 ([AS 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [BBl 2013 5975](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
-[^367-26]: Originally: para. 2<sup>sexies</sup>. Inserted by Art. 34 No 1 of the Sport Promotion Act of 17 June 2011, in force since 1 Oct. 2012 ([AS 2012 3953](https://fedlex.data.admin.ch/eli/oc/2012/460); [BBl 2009 8189](https://fedlex.data.admin.ch/eli/fga/2009/1425)).
-[^367-27]: The name of this administrative unit was amended by Art. 16 para. 3 of the Publications Ordinance of 17 Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
-[^367-28]: Amended by No I 6 of the FA of 25 Sept. 2020 on Police Measures to Combat Terrorism, in force since 1 Jan. 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565), [672](https://fedlex.data.admin.ch/eli/oc/2021/672); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
-[^367-29]: Inserted by No II 1 of the FA of 3 Oct. 2008 ([AS 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [BBl 2008 2707](https://fedlex.data.admin.ch/eli/fga/2008/609)). Repealed by No II 1 of the FA of 25 Sept. 2015, with effect from 1 July 2016 ([AS 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [BBl 2014 6741](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
-[^367-30]: Inserted by Art. 34 No 1 of the Sport Promotion Act of 17 June 2011, in force since 1 Oct. 2012 ([AS 2012 3953](https://fedlex.data.admin.ch/eli/oc/2012/460); [BBl 2009 8189](https://fedlex.data.admin.ch/eli/fga/2009/1425)).
+[^367-3]: Amended by Annex No 2 of the Precursors Act of 25 Sept. 2020, in force since 1 Jan. 2023 ([AS 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352); [BBl 2020 161](https://fedlex.data.admin.ch/eli/fga/2020/14)). This amendment shall become irrelevant or be repealed with the entry into force of the Criminal Records Register Act of 17 June 2016 ([SR 330](https://fedlex.data.admin.ch/eli/cc/2022/600); [BBl 2016 4871](https://fedlex.data.admin.ch/eli/fga/2016/1052)) ([AS 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352)Art. 42).
+[^367-4]: [SR 941.42](https://fedlex.data.admin.ch/eli/cc/2022/352)
+[^367-5]: Name in accordance with Annex No 2 of the FA of 18 March 2016, in force since 1 Jan. 2018 ([AS 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^367-6]: Amended by No I 3 of the Ordinance of 3 Nov. 2004 on the Amendment of Statutory Provisions due to the Merger of the Federal Offices IMES and FOR, in force since 1 Jan. 2005 ([AS 2004 4655](https://fedlex.data.admin.ch/eli/oc/2004/715)).
+[^367-7]: The name of this administrative unit was amended by Art. 16 para. 3 of the Publications Ordinance of 17 Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), in force since 1 Jan. 2015
+[^367-8]: Repealed by No I 3 of the Ordinance of 3 Nov. 2004 on the Amendment of Statutory Provisions due to the Merger of the Federal Offices IMES and FOR, with effect from 1 Jan. 2005 ([AS 2004 4655](https://fedlex.data.admin.ch/eli/oc/2004/715)).
+[^367-9]: Amended by Annex No II 5 of the Intelligence Service Act of 25 Sept. 2015, in force since 1 Sept. 2017 ([AS 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [BBl 2014 2105](https://fedlex.data.admin.ch/eli/fga/2014/407)).
+[^367-10]: [SR 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
+[^367-11]: Inserted by No II of the FA of 21 March 2003, in force since 1 Jan. 2004 ([AS 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710)4854; [BBl 2001 6127](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
+[^367-12]: The name of this administrative unit was amended by Art. 20 para. 2 of the Publications Ordinance of 7 Oct. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), in force since 1 Jan. 2019.
+[^367-13]: Inserted by Annex No 1 of the FA of 3 Oct. 2008 on Military Information Systems, in force since 1 Jan. 2010 ([AS 2009 6617](https://fedlex.data.admin.ch/eli/oc/2009/823); [BBl 2008 3213](https://fedlex.data.admin.ch/eli/fga/2008/701)).
+[^367-14]: Inserted by Annex No 3 of the FA of 23 Dec. 2011 on Extra-Procedural Witness Protection, in force since 1 Jan. 2013 ([AS 2012 6715](https://fedlex.data.admin.ch/eli/oc/2012/814); [BBl 2011 1](https://fedlex.data.admin.ch/eli/fga/2011/1)).
+[^367-15]: [SR 312.2](https://fedlex.data.admin.ch/eli/cc/2012/814)
+[^367-16]: Inserted by Annex No II 5 of the Intelligence Service Act of 25 Sept. 2015, in force since 1 Sept. 2017 ([AS 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [BBl 2014 2105](https://fedlex.data.admin.ch/eli/fga/2014/407)).
+[^367-17]: Inserted by No I 6 of the FA of 25 Sept. 2020 on Police Measures to Combat Terrorism, in force since 1 Jan. 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565), [672](https://fedlex.data.admin.ch/eli/oc/2021/672); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^367-18]: [SR 748.0](https://fedlex.data.admin.ch/eli/cc/1950/471_491_479)
+[^367-19]: Name in accordance with Annex No 2 of the FA of 18 March 2016, in force since 1 Jan. 2018 ([AS 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^367-20]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^367-21]: Amended by Annex No II 5 of the Intelligence Service Act of 25 Sept. 2015, in force since 1 Sept. 2017 ([AS 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [BBl 2014 2105](https://fedlex.data.admin.ch/eli/fga/2014/407)).
+[^367-22]: Inserted by Annex No 1 of the FA of 3 Oct. 2008 on Military Information Systems ([AS 2009 6617](https://fedlex.data.admin.ch/eli/oc/2009/823); [BBl 2008 3213](https://fedlex.data.admin.ch/eli/fga/2008/701)). Amended by Annex No 2 of the FA of 19 March 2010, in force since 1 Jan. 2013 ([AS 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869), [2011 487](https://fedlex.data.admin.ch/eli/oc/2011/66); [BBl 2009 5917](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
+[^367-23]: Inserted by No I 1 of the FA of 20 March 2015 (Implementation of Art. 121 para. 3–6 Federal Constitution on the expulsion of foreign nationals convicted of certain criminal offences), in force since 1 Oct. 2016 ([AS 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [BBl 2013 5975](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
+[^367-24]: Amended by Annex No 2 of the FA of 18 March 2016, in force since 1 Jan. 2018 ([AS 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^367-25]: Originally: para. 2<sup>ter</sup>. Inserted by Annex No 1 of the FA of 3 Oct. 2008 on Military Information Systems ([AS 2009 6617](https://fedlex.data.admin.ch/eli/oc/2009/823); [BBl 2008 3213](https://fedlex.data.admin.ch/eli/fga/2008/701)). Amended by Annex No 2 of the FA of 19 March 2010, in force since 1 Jan. 2013 ([AS 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869), [2011 487](https://fedlex.data.admin.ch/eli/oc/2011/66); [BBl 2009 5917](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
+[^367-26]: Inserted by Annex No 2 of the FA of 19 March 2010 ([AS 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869), [2011 487](https://fedlex.data.admin.ch/eli/oc/2011/66); [BBl 2009 5917](https://fedlex.data.admin.ch/eli/fga/2009/1057)). Amended by No I 1 of the FA of 20 March 2015 (Implementation of Art. 121 para. 3–6 Federal Constitution on the expulsion of foreign nationals convicted of certain criminal offences), in force since 1 Oct. 2016 ([AS 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [BBl 2013 5975](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
+[^367-27]: Inserted by No I 1 of the FA of 20 March 2015 (Implementation of Art. 121 para. 3–6 Federal Constitution on the expulsion of foreign nationals convicted of certain criminal offences), in force since 1 Oct. 2016 ([AS 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [BBl 2013 5975](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
+[^367-28]: Originally: para. 2<sup>sexies</sup>. Inserted by Art. 34 No 1 of the Sport Promotion Act of 17 June 2011, in force since 1 Oct. 2012 ([AS 2012 3953](https://fedlex.data.admin.ch/eli/oc/2012/460); [BBl 2009 8189](https://fedlex.data.admin.ch/eli/fga/2009/1425)).
+[^367-29]: The name of this administrative unit was amended by Art. 16 para. 3 of the Publications Ordinance of 17 Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
+[^367-30]: Amended by No I 6 of the FA of 25 Sept. 2020 on Police Measures to Combat Terrorism, in force since 1 Jan. 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565), [672](https://fedlex.data.admin.ch/eli/oc/2021/672); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^367-31]: Inserted by No II 1 of the FA of 3 Oct. 2008 ([AS 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [BBl 2008 2707](https://fedlex.data.admin.ch/eli/fga/2008/609)). Repealed by No II 1 of the FA of 25 Sept. 2015, with effect from 1 July 2016 ([AS 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [BBl 2014 6741](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^367-32]: Inserted by Art. 34 No 1 of the Sport Promotion Act of 17 June 2011, in force since 1 Oct. 2012 ([AS 2012 3953](https://fedlex.data.admin.ch/eli/oc/2012/460); [BBl 2009 8189](https://fedlex.data.admin.ch/eli/fga/2009/1425)).
 
 ### Notice of information subject to registration
 
@@ -6723,7 +6772,7 @@ In the case of convictions based on this Code or any other federal act, where im
 
 <sup>1</sup>
 
-The Federal Council has the power after consulting the cantons to enact provisions on:
+The Federal Council has the poAny person whofter consulting the cantons to enact provisions on:
 
 - a. the execution of cumulative sentences, supplementary sentences and cases where two or more individual sentences are executed simultaneously;
 - b. the assignment of the responsibility for executing sentences and measures to another canton;
@@ -6845,21 +6894,21 @@ The cantons shall establish institutions for the implementation of measures unde
 [^u2-9]: [AS 1971 777](https://fedlex.data.admin.ch/eli/oc/1971/777_777_777)
 [^u2-10]: Amended by No I of the FA of 24 March 2006 (Revision of the Law on Sanctions and the Register of Convictions), in force since 1 Jan. 2007 ([AS 2006 3539](https://fedlex.data.admin.ch/eli/oc/2006/550)3544; [BBl 2005 4689](https://fedlex.data.admin.ch/eli/fga/2005/735)).
 
-## Transitional Provision to the Amendment of 12 December 2014
+## Transitional Provision to the Amendment of 26 September 2014
 
 [^u3-1]
 
-[^u3-1]: [AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)
+[^u3-1]: [AS 2015 1623](https://fedlex.data.admin.ch/eli/oc/2015/321); [BBl 2014 889](https://fedlex.data.admin.ch/eli/fga/2014/136)[913](https://fedlex.data.admin.ch/eli/fga/2014/138)
 
-Article 305<sup>bis</sup> does not apply to aggravated tax misdemeanours as defined in Article 305<sup>bis</sup> number 1<sup>bis</sup> that were committed before the amendment of 12 December 2014 comes into force.
+The right to information under Article 92*a* also applies to the execution of sentences and measures that was ordered under the previous law.
 
-## Transitional Provision to the Amendment of 26 September 2014
+## Transitional Provision to the Amendment of 12 December 2014
 
 [^u4-1]
 
-[^u4-1]: [AS 2015 1623](https://fedlex.data.admin.ch/eli/oc/2015/321); [BBl 2014 889](https://fedlex.data.admin.ch/eli/fga/2014/136)[913](https://fedlex.data.admin.ch/eli/fga/2014/138)
+[^u4-1]: [AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)
 
-The right to information under Article 92*a* also applies to the execution of sentences and measures that was ordered under the previous law.
+Article 305<sup>bis</sup> does not apply to aggravated tax misdemeanours as defined in Article 305<sup>bis</sup> number 1<sup>bis</sup> that were committed before the amendment of 12 December 2014 comes into force.
 
 ## Transitional Provision to the Amendment of 19 June 2015
 

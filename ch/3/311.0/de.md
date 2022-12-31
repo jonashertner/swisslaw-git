@@ -4,18 +4,18 @@ title: Schweizerisches Strafgesetzbuch vom 21. Dezember 1937
 short: StGB
 eli: "https://fedlex.data.admin.ch/eli/cc/54/757_781_799"
 language: de
-version: 2022-11-22
+version: 2023-01-01
 adopted: 1937-12-21
 in_force: 1942-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20221122/de/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20221122-de-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20221122/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20230101/de/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20230101-de-xml-22.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Schweizerisches Strafgesetzbuch
 
-vom 21. Dezember 1937 (Stand am 22. November 2022)
+vom 21. Dezember 1937 (Stand am 1. Januar 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -454,7 +454,7 @@ Stellt eine antragsberechtigte Person gegen einen an der Tat Beteiligten Strafan
 
 <sup>1</sup> Bestimmt es das Gesetz nicht anders, so beträgt die Geldstrafe mindestens drei und höchstens 180 Tagessätze.[^34-1] Das Gericht bestimmt deren Zahl nach dem Verschulden des Täters.
 
-<sup>2</sup> Ein Tagessatz beträgt in der Regel mindestens 30 und höchstens 3000 Franken. Ausnahmsweise, wenn die persönlichen und wirtschaftlichen Verhältnisse des Täters dies gebieten, kann der Tagessatz bis auf 10 Franken gesenkt werden. Das Gericht bestimmt die Höhe des Tagessatzes nach den persönlichen und wirtschaftlichen Verhältnissen des Täters im Zeitpunkt des Urteils, namentlich nach Einkommen und Vermögen, Lebensaufwand, allfälligen Familien- und Unterstützungspflichten sowie nach dem Existenzminimum.[^34-2]
+<sup>2</sup> Ein Tagessatz beträgt in der Regel mindestens 30 und höchstens 3000 Franken.[^34-2] Das Gericht kann den Tagessatz ausnahmsweise bis auf 10 Franken senken, wenn die persönlichen und wirtschaftlichen Verhältnisse des Täters dies gebieten.[^34-3] Es kann die maximale Höhe des Tagessatzes überschreiten, wenn das Gesetz dies vorsieht. Es bestimmt die Höhe des Tagessatzes nach den persönlichen und wirtschaftlichen Verhältnissen des Täters im Zeitpunkt des Urteils, namentlich nach Einkommen und Vermögen, Lebensaufwand, allfälligen Familien- und Unterstützungspflichten sowie nach dem Existenzminimum.[^34-4]
 
 <sup>3</sup> Die Behörden des Bundes, der Kantone und der Gemeinden geben die für die Bestimmung des Tagessatzes erforderlichen Auskünfte.
 
@@ -462,6 +462,8 @@ Stellt eine antragsberechtigte Person gegen einen an der Tat Beteiligten Strafan
 
 [^34-1]: Fassung gemäss Ziff. I 1 des BG vom 19. Juni 2015 (Änderungen des Sanktionenrechts), in Kraft seit 1. Jan. 2018 ([AS 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [BBl 2012 4721](https://fedlex.data.admin.ch/eli/fga/2012/670)).
 [^34-2]: Fassung gemäss Ziff. I 1 des BG vom 19. Juni 2015 (Änderungen des Sanktionenrechts), in Kraft seit 1. Jan. 2018 ([AS 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [BBl 2012 4721](https://fedlex.data.admin.ch/eli/fga/2012/670)).
+[^34-3]: Fassung des zweiten und dritten Satzes gemäss Anhang Ziff. 5 des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^34-4]: Vierter Satz eingefügt durch Anhang Ziff. 5 des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### Vollzug
 
@@ -711,9 +713,9 @@ Ist der Täter durch die unmittelbaren Folgen seiner Tat so schwer betroffen, da
 
 ### Ehegatte, eingetragene Partnerin, eingetragener Partner oder Lebenspartner als Opfer
 
-[^book1-part1-tit3-chap1-sec4-lvl2-lvlu3-1]
+[^book1-part1-tit3-chap1-sec4-lvl3-lvlu1-1]
 
-[^book1-part1-tit3-chap1-sec4-lvl2-lvlu3-1]: Fassung gemäss Ziff. I 3 des BG vom 14. Dez. 2018 über die Verbesserung des Schutzes gewaltbetroffener Personen, in Kraft seit 1. Juli 2020 ([AS 2019 2273](https://fedlex.data.admin.ch/eli/oc/2019/432); [BBl 2017 7307](https://fedlex.data.admin.ch/eli/fga/2017/2095)).
+[^book1-part1-tit3-chap1-sec4-lvl3-lvlu1-1]: Fassung gemäss Ziff. I 3 des BG vom 14. Dez. 2018 über die Verbesserung des Schutzes gewaltbetroffener Personen, in Kraft seit 1. Juli 2020 ([AS 2019 2273](https://fedlex.data.admin.ch/eli/oc/2019/432); [BBl 2017 7307](https://fedlex.data.admin.ch/eli/fga/2017/2095)).
 
 #### Art. 55a
 
@@ -1242,7 +1244,7 @@ Der Vollzug der obligatorischen Landesverweisung nach Artikel 66*a* kann nur auf
 [^66d-2]: Die Berichtigung vom 21. Juni 2017, veröffentlicht am 11. Juli 2017 betrifft nur den französischen Text ([AS 2017 3695](https://fedlex.data.admin.ch/eli/oc/2017/423)).
 [^66d-3]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
 
-### 2. Tätigkeitsverbot, Kontakt- und Rayonverbot.
+### 2. Tätigkeitsverbot, Kontakt-und Rayonverbot.
 
 ### a. Tätigkeitsverbot, Voraussetzungen
 
@@ -1961,7 +1963,7 @@ Die Strafverfolgung verjährt, wenn die für die Tat angedrohte Höchststrafe:
 
 <sup>4</sup> Die Verjährung der Strafverfolgung von sexuellen Handlungen mit Kindern (Art. 187) und minderjährigen Abhängigen (Art. 188) sowie von Straftaten nach den Artikeln 111–113, 122, 182, 189–191 und 195, die sich gegen ein Kind unter 16 Jahren richten, bemisst sich nach den Absätzen 1–3, wenn die Straftat vor dem Inkrafttreten der Änderung vom 5. Oktober 2001[^97-3] begangen worden ist und die Verfolgungsverjährung zu diesem Zeitpunkt noch nicht eingetreten ist.[^97-4]
 
-[^97-1]: Fassung gemäss Ziff. I 1 des BG vom 21. Juni 2013 (Verlängerung der Verfolgungs-verjährung), in Kraft seit 1. Jan. 2014 ([AS 2013 4417](https://fedlex.data.admin.ch/eli/oc/2013/783); [BBl 2012 9253](https://fedlex.data.admin.ch/eli/fga/2012/1719)).
+[^97-1]: Fassung gemäss Ziff. I 1 des BG vom 21. Juni 2013 (Verlängerung der Verfolgungsverjährung), in Kraft seit 1. Jan. 2014 ([AS 2013 4417](https://fedlex.data.admin.ch/eli/oc/2013/783); [BBl 2012 9253](https://fedlex.data.admin.ch/eli/fga/2012/1719)).
 [^97-2]: Fassung gemäss Anhang Ziff. 1 des BB vom 27. Sept. 2013 (Lanzarote-Konvention), in Kraft seit 1. Juli 2014 ([AS 2014 1159](https://fedlex.data.admin.ch/eli/oc/2014/248); [BBl 2012 7571](https://fedlex.data.admin.ch/eli/fga/2012/1181)).
 [^97-3]: [AS 2002 2993](https://fedlex.data.admin.ch/eli/oc/2002/430)
 [^97-4]: Fassung gemäss Art. 2 Ziff. 1 des BB vom 24. März 2006 über die Genehmigung und die Umsetzung des Fakultativprotokolls vom 25. Mai 2000 zum Übereink. über die Rechte des Kindes, betreffend den Verkauf von Kindern, die Kinderprostitution und die Kinderpornografie, in Kraft seit 1. Dez. 2006 ([AS 2006 5437](https://fedlex.data.admin.ch/eli/oc/2006/823); [BBl 2005 2807](https://fedlex.data.admin.ch/eli/fga/2005/433)).
@@ -2320,7 +2322,7 @@ wenn er der Ehegatte des Opfers ist und die Tat während der Ehe oder bis zu ein
 
 wenn er die eingetragene Partnerin oder der eingetragene Partner des Opfers ist und die Tat während der Dauer der eingetragenen Partnerschaft oder bis zu einem Jahr nach deren Auflösung begangen wurde,[^123-4]
 
-wenn er der hetero- oder homosexuelle Lebenspartner des Opfers ist, sofern sie auf unbestimmte Zeit einen gemeinsamen Haushalt führen und die Tat während dieser Zeit oder bis zu einem Jahr nach der Trennung begangen wurde.[^123-5]
+wenn er der hetero- oder homosexuelle Lebenspartner des Opfers ist, sofern sie auf unbestimmte Zeit einen gemeinsamem Haushalt führen und die Tat während dieser Zeit oder bis zu einem Jahr nach der Trennung begangen wurde.[^123-5]
 
 [^123-1]: Fassung gemäss Ziff. I des BG vom 23. Juni 1989, in Kraft seit 1. Jan. 1990 ([AS 1989 2449](https://fedlex.data.admin.ch/eli/oc/1989/2449_2449_2449); [BBl 1985 II 1009](https://fedlex.data.admin.ch/eli/fga/1985/2_1009_1021_901)).
 [^123-2]: Fassung gemäss Ziff. II 2 des BG vom 13. Dez. 2002, in Kraft seit 1. Jan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979).
@@ -2715,9 +2717,35 @@ wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.
 
 Wer eine Handelsregisterbehörde zu einer unwahren Eintragung veranlasst oder ihr eine eintragungspflichtige Tatsache verschweigt, wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.
 
+### Strafbarkeit der Mitglieder des Verwaltungsrats und der Geschäftsleitung von Gesellschaften, deren Aktien an einer Börse kotiert sind
+
 #### Art. 154
 
-Aufgehoben
+[^154-1]
+
+<sup>1</sup> Mit Freiheitsstrafe bis zu drei Jahren und Geldstrafe wird bestraft, wer als Mitglied des Verwaltungsrats oder der Geschäftsleitung einer Gesellschaft, deren Aktien an einer Börse kotiert sind, unzulässige Vergütungen nach Artikel 735*c* Ziffern 1, 5 und 6 des Obligationenrechts (OR)[^154-2], gegebenenfalls in Verbindung mit Artikel 735*d* Ziffer 1 OR, ausrichtet oder bezieht.
+
+<sup>2</sup>
+
+Mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe wird bestraft, wer als Mitglied des Verwaltungsrats einer Gesellschaft, deren Aktien an einer Börse kotiert sind:
+
+- a. die Geschäftsführung entgegen Artikel 716*b* Absatz 1 erster Satz OR ganz oder zum Teil einer juristischen Person überträgt;
+- b. eine Organ- oder Depotstimmrechtsvertretung einsetzt (Art. 689*b* Abs. 2 OR);
+- c.
+
+  verhindert, dass:
+
+  - 1\. die Statuten die Bestimmungen nach Artikel 626 Absatz 2 Ziffern 1 und 2 OR enthalten,
+  - 2\. die Generalversammlung jährlich und einzeln die Mitglieder und den Präsidenten des Verwaltungsrats, die Mitglieder des Vergütungsausschusses sowie den unabhängigen Stimmrechtsvertreter wählen kann (Art. 698 Abs. 2 Ziff. 2 und Abs. 3 Ziff. 1–3 OR),
+  - 3\. die Generalversammlung über die Vergütungen, die der Verwaltungsrat für sich selbst, die Geschäftsleitung und den Beirat festgelegt hat, abstimmen kann (Art. 698 Abs. 3 Ziff. 4 OR),
+  - 4\. die Aktionäre oder ihre Vertreter ihre Rechte auf elektronischem Weg ausüben können (Art. 689*c* Abs. 6 OR).
+
+<sup>3</sup> Nimmt der Täter die Möglichkeit der Verwirklichung einer Tat nach Absatz 1 oder 2 lediglich in Kauf, so macht er sich nach diesen Bestimmungen nicht strafbar.
+
+<sup>4</sup> Für die Berechnung der Geldstrafe ist das Gericht nicht an die maximale Höhe des Tagessatzes (Art. 34 Abs. 2 erster Satz) gebunden; die Geldstrafe darf jedoch das Sechsfache der Jahresvergütung, die im Zeitpunkt der Tat mit der betroffenen Gesellschaft vereinbart ist, nicht übersteigen.
+
+[^154-1]: Fassung gemäss Anhang Ziff. 5 des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109), [110](https://fedlex.data.admin.ch/eli/oc/2022/110); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^154-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
 ### Warenfälschung
 
@@ -3161,7 +3189,7 @@ Wer aus Bosheit oder Mutwillen eine Fernmeldeanlage zur Beunruhigung oder Beläs
 <sup>2</sup> Die Voraussetzungen der Überwachung des Post- und Fernmeldeverkehrs und das Verfahren richten sich nach dem Bundesgesetz vom 6. Oktober 2000[^179octies-2] betreffend die Überwachung des Post- und Fernmeldeverkehrs.
 
 [^179octies-1]: Eingefügt durch Ziff. VII des BG vom 23. März 1979 über den Schutz der persönlichen Geheimsphäre ([AS 1979 1170](https://fedlex.data.admin.ch/eli/oc/1979/1170_1170_1170); [BBl 1976 I 529](https://fedlex.data.admin.ch/eli/fga/1976/1_529__)II 1569). Fassung gemäss Anhang Ziff. 1 des BG vom 6. Okt. 2000 betreffend die Überwachung des Post- und Fernmeldeverkehrs, in Kraft seit 1. Jan. 2002 ([AS 2001 3096](https://fedlex.data.admin.ch/eli/oc/2001/467); BBl **1998** 4241).
-[^179octies-2]: [[AS 2001 3096](https://fedlex.data.admin.ch/eli/oc/2001/467), [2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)Anhang Ziff. 18 [3043](https://fedlex.data.admin.ch/eli/oc/2003/417)Ziff. I 2, [2004 2149](https://fedlex.data.admin.ch/eli/oc/2004/249)[3693](https://fedlex.data.admin.ch/eli/oc/2004/511), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 84 [5437](https://fedlex.data.admin.ch/eli/oc/2006/823)Art. 2 Ziff. 3, [2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165)Anhang Ziff. 3 [5437](https://fedlex.data.admin.ch/eli/oc/2007/758)Anhang Ziff. II 7, [2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267)Anhang 1 Ziff. II 26 [3267](https://fedlex.data.admin.ch/eli/oc/2010/444)Anhang Ziff. II 14, [2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428)Anhang Ziff. 7, [2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494)Anhang Ziff. II 12. [AS 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31)]. Siehe heute: das BG vom 18. März 2016 ([SR 780.1](https://fedlex.data.admin.ch/eli/cc/2018/31)).
+[^179octies-2]: [[AS 2001 3096](https://fedlex.data.admin.ch/eli/oc/2001/467); [2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)Anhang Ziff. 18, [3043](https://fedlex.data.admin.ch/eli/oc/2003/417)Ziff. I 2; [2004 2149](https://fedlex.data.admin.ch/eli/oc/2004/249), [3693](https://fedlex.data.admin.ch/eli/oc/2004/511); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 84, [5437](https://fedlex.data.admin.ch/eli/oc/2006/823)Art. 2 Ziff. 3; [2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165)Anhang Ziff. 3, [5437](https://fedlex.data.admin.ch/eli/oc/2007/758)Anhang Ziff. II 7; [2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267)Anhang 1 Ziff. II 26, [3267](https://fedlex.data.admin.ch/eli/oc/2010/444)Anhang Ziff. II 14; [2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428)Anhang Ziff. 7; [2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494)Anhang Ziff. II 12. [AS 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31)]. Siehe heute: das BG vom 18. März 2016 ([SR 780.1](https://fedlex.data.admin.ch/eli/cc/2018/31)).
 
 ### Unbefugtes Beschaffen von Personendaten
 
@@ -3208,7 +3236,7 @@ Wer jemanden durch Gewalt oder Androhung ernstlicher Nachteile oder durch andere
 
 <sup>2</sup> Strafbar ist auch, wer die Tat im Ausland begeht, sich in der Schweiz befindet und nicht ausgeliefert wird. Artikel 7 Absätze 4 und 5 ist anwendbar.
 
-[^181a-1]: Eingefügt durch Ziff. I 6 des BG vom 15. Juni 2012 über Massnahmen gegen Zwangs‑ heiraten, in Kraft seit 1. Juli 2013 ([AS 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [BBl 2011 2185](https://fedlex.data.admin.ch/eli/fga/2011/292)).
+[^181a-1]: Eingefügt durch Ziff. I 6 des BG vom 15. Juni 2012 über Massnahmen gegen Zwangsheiraten, in Kraft seit 1. Juli 2013 ([AS 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [BBl 2011 2185](https://fedlex.data.admin.ch/eli/fga/2011/292)).
 
 ### Menschenhandel
 
@@ -4902,7 +4930,7 @@ Wer der von einer zuständigen Behörde oder einem zuständigen Beamten unter Hi
 
 [^294-1]
 
-<sup>1</sup> Wer eine Tätigkeit ausübt, deren Ausübung ihm durch ein Tätig-keitsverbot nach Artikel 67, nach Artikel 50 des Militärstrafgesetzes vom 13. Juni 1927[^294-2] (MStG) oder nach Artikel 16*a* JStG[^294-3] untersagt ist, wird mit Freiheitsstrafe bis zu einem Jahr oder Geldstrafe bestraft.
+<sup>1</sup> Wer eine Tätigkeit ausübt, deren Ausübung ihm durch ein Tätigkeitsverbot nach Artikel 67, nach Artikel 50 des Militärstrafgesetzes vom 13. Juni 1927[^294-2] (MStG) oder nach Artikel 16*a* JStG[^294-3] untersagt ist, wird mit Freiheitsstrafe bis zu einem Jahr oder Geldstrafe bestraft.
 
 <sup>2</sup> Wer mit einer oder mehreren bestimmten Personen oder mit Personen einer bestimmten Gruppe Kontakt aufnimmt oder sich ihnen nähert, wer sich an bestimmten Orten aufhält, obwohl ihm dies durch ein Kontakt- und Rayonverbot nach Artikel 67*b*, nach Artikel 50*b* MStG oder nach Artikel 16*a* JStG untersagt ist, wird mit Freiheitsstrafe bis zu einem Jahr oder Geldstrafe bestraft.
 
@@ -5247,11 +5275,15 @@ Der Beamte, der einem Verhafteten, einem Gefangenen oder einem andern auf amtlic
 
 #### Art. 320
 
-<sup>1.</sup> Wer ein Geheimnis offenbart, das ihm in seiner Eigenschaft als Mitglied einer Behörde oder als Beamter anvertraut worden ist, oder das er in seiner amtlichen oder dienstlichen Stellung wahrgenommen hat, wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.
+[^320-1]
 
-Die Verletzung des Amtsgeheimnisses ist auch nach Beendigung des amtlichen oder dienstlichen Verhältnisses strafbar.
+<sup>1.</sup> Wer ein Geheimnis offenbart, das ihm in seiner Eigenschaft als Mitglied einer Behörde oder als Beamter anvertraut worden ist oder das er in seiner amtlichen oder dienstlichen Stellung oder als Hilfsperson eines Beamten oder einer Behörde wahrgenommen hat, wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.
 
-<sup>2.</sup> Der Täter ist nicht strafbar, wenn er das Geheimnis mit schriftlicher Einwilligung seiner vorgesetzten Behörde geoffenbart hat.
+Die Verletzung des Amtsgeheimnisses ist auch nach Beendigung des amtlichen oder dienstlichen Verhältnisses oder der Hilfstätigkeit strafbar.
+
+<sup>2.</sup> Der Täter ist nicht strafbar, wenn er das Geheimnis mit schriftlicher Einwilligung seiner vorgesetzten Behörde offenbart hat.
+
+[^320-1]: Fassung gemäss Anhang 1 Ziff. 7 des Informationssicherheitsgesetzes vom 18. Dez. 2020, in Kraft seit 1. Jan. 2023 ([AS 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232), [750](https://fedlex.data.admin.ch/eli/oc/2022/750); [BBl 2017 2953](https://fedlex.data.admin.ch/eli/fga/2017/647)).
 
 ### Verletzung des Berufsgeheimnisses
 
@@ -5628,6 +5660,17 @@ Mit Busse wird bestraft, wer vorsätzlich eines der folgenden Verzeichnisse nich
 [^327a-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 [^327a-3]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
 
+### Verletzung gesetzlicher Pflichten von Vereinen
+
+#### Art. 327b
+
+[^327b-1]
+
+Wer vorsätzlich die Pflichten von Vereinen nach den Artikeln 61*a* und 69 Absatz 2 des Zivilgesetzbuches[^327b-2] verletzt, wird mit Busse bestraft.
+
+[^327b-1]: Eingefügt durch Anhang 1 Ziff. 2 des BG vom 19. März 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
+[^327b-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+
 ### Nachmachen von Postwertzeichen ohne Fälschungsabsicht
 
 #### Art. 328
@@ -5996,7 +6039,7 @@ Die betroffene Person kann vom Beauftragten verlangen, dass er prüft, ob allfä
 
 Der Bund kann Finanzhilfen und Abgeltungen an INTERPOL ausrichten.
 
-### 3. Zusammen-arbeit bei der Identifizierung von Personen
+### 3. Zusammenarbeit bei der Identifizierung von Personen
 
 [^book3-tit4-lvl3-1]
 
@@ -6067,7 +6110,7 @@ Der Bundesrat:
 <sup>4</sup> Der Austausch von Personendaten mit Europol wird dem Austausch mit einer zuständigen Behörde eines Schengen-Staates gleichgesetzt (Art. 349*b*).[^355a-4]
 
 [^355a-1]: Eingefügt durch Art. 2 des BB vom 7. Okt. 2005 über die Genehmigung und die Umsetzung des Abk. zwischen der Schweiz und dem Europol, in Kraft seit 1. April 2006 ([AS 2006 1017](https://fedlex.data.admin.ch/eli/oc/2006/180); [BBl 2005 983](https://fedlex.data.admin.ch/eli/fga/2005/131)).
-[^355a-2]: Fassung gemäss Anhang 1 Ziff. 4 des BB vom 18. Dez. 2020 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Rechtsgrundlagen über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems (SIS), in Kraft seit 1. Juli 2021 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^355a-2]: Fassung gemäss Anhang 1 Ziff. 4 des BB vom 18. Dez. 2020 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Rechtsgrundlagen über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems (SIS), in Kraft seit 22. Nov. 2022 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 638](https://fedlex.data.admin.ch/eli/oc/2022/638); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
 [^355a-3]: [SR 0.362.2](https://fedlex.data.admin.ch/eli/cc/2006/181)
 [^355a-4]: Eingefügt durch Ziff. II 2 des BG vom 28. Sept. 2018 über die Umsetzung der Richtlinie (EU) 2016/680 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten zum Zwecke der Verhütung, Ermittlung, Aufdeckung oder Verfolgung von Straftaten oder der Strafvollstreckung, in Kraft seit 1. März 2019 ([AS 2019 625](https://fedlex.data.admin.ch/eli/oc/2019/111); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
@@ -6086,7 +6129,7 @@ Der Bundesrat wird ermächtigt, mit Europol im Rahmen von Artikel 3 Absatz 3 des
 [^355b-1]: Eingefügt durch Art. 2 des BB vom 7. Okt. 2005 über die Genehmigung und die Umsetzung des Abk. zwischen der Schweiz und dem Europol, in Kraft seit 1. April 2006 ([AS 2006 1017](https://fedlex.data.admin.ch/eli/oc/2006/180); [BBl 2005 983](https://fedlex.data.admin.ch/eli/fga/2005/131)).
 [^355b-2]: [SR 0.362.2](https://fedlex.data.admin.ch/eli/cc/2006/181)
 
-### 5<sup>bis</sup>. Zusammenarbeit im Rah-men der Schen-gen Assoziierungsabkommen.
+### 5<sup>bis</sup>. Zusammenarbeit im Rahmen der Schengen Assoziierungsabkommen.
 
 ### Zuständigkeit
 
@@ -6097,7 +6140,7 @@ Der Bundesrat wird ermächtigt, mit Europol im Rahmen von Artikel 3 Absatz 3 des
 Die Polizeiorgane des Bundes und der Kantone vollziehen die Bestimmungen der Schengen-Assoziierungsabkommen[^355c-2] nach Massgabe des innerstaatlichen Rechts.
 
 [^355c-1]: Eingefügt durch Art. 3 Ziff. 4 des BB vom 17. Dez. 2004 über die Genehmigung und die Umsetzung der bilateralen Abkommen zwischen der Schweiz und der EU über die Assoziierung an Schengen und an Dublin, in Kraft seit 1. Juni 2008 ([AS 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[2179](https://fedlex.data.admin.ch/eli/oc/2008/318)[2227](https://fedlex.data.admin.ch/eli/oc/2008/324); [BBl 2004 5965](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
-[^355c-2]: Abk. vom 26. Okt. 2004 zwischen der Schweizerischen Eidgenossenschaft, der Europäi-schen Union und der Europäischen Gemeinschaft über die Assoziierung dieses Staates bei der Umsetzung, Anwendung und Entwicklung des Schengen-Besitzstands ([SR 0.362.31](https://fedlex.data.admin.ch/eli/cc/2008/113)); Abk. vom 28. April 2005 zwischen der Schweizerischen Eidgenossenschaft und dem Kö-nigreich Dänemark über die Begründung von Rechten und Pflichten zwischen diesen bei-den Staaten hinsichtlich der Schengener Zusammenarbeit ([SR 0.362.33](https://fedlex.data.admin.ch/eli/cc/2008/114)); Übereink. vom 17. Dez. 2004 zwischen der Schweizerischen Eidgenossenschaft, der Republik Island und dem Königreich Norwegen über die Umsetzung, Anwendung und Entwicklung des Schengen-Besitzstands und über die Kriterien und Verfahren zur Bestimmung des zustän- digen Staates für die Prüfung eines in der Schweiz, in Island oder in Norwegen gestellten Asylantrags ([SR 0.362.32](https://fedlex.data.admin.ch/eli/cc/2008/116)); Prot. vom 28. Febr. 2008 zwischen der Schweizerischen Eid-genossenschaft, der Europäischen Union, der Europäischen Gemeinschaft und dem Für-stentum Liechtenstein über den Beitritt des Fürstentums Liechtenstein zum Abkommen zwischen der Schweizerischen Eidgenossenschaft, der Europäischen Union und der Euro-päischen Gemeinschaft über die Assoziierung der Schweizerischen Eidgenossenschaft bei der Umsetzung, Anwendung und Entwicklung des Schengen-Besitzstands ([SR 0.362.311](https://fedlex.data.admin.ch/eli/cc/2011/205)).
+[^355c-2]: Abk. vom 26. Okt. 2004 zwischen der Schweizerischen Eidgenossenschaft, der Europäi-schen Union und der Europäischen Gemeinschaft über die Assoziierung dieses Staates bei der Umsetzung, Anwendung und Entwicklung des Schengen-Besitzstands ([SR 0.362.31](https://fedlex.data.admin.ch/eli/cc/2008/113)); Abk. vom 28. April 2005 zwischen der Schweizerischen Eidgenossenschaft und dem Kö-nigreich Dänemark über die Begründung von Rechten und Pflichten zwischen diesen bei-den Staaten hinsichtlich der Schengener Zusammenarbeit ([SR 0.362.33](https://fedlex.data.admin.ch/eli/cc/2008/114)); Übereink. vom 17. Dez. 2004 zwischen der Schweizerischen Eidgenossenschaft, der Republik Island und dem Königreich Norwegen über die Umsetzung, Anwendung und Entwicklung des Schengen-Besitzstands und über die Kriterien und Verfahren zur Bestimmung des zustän- digen Staates für die Prüfung eines in der Schweiz, in Island oder in Norwegen gestellten Asylantrags ([SR 0.362.32](https://fedlex.data.admin.ch/eli/cc/2008/116)); Prot. vom 28. Febr. 2008 zwischen der Schweizerischen Eid-genossenschaft, der Europäischen Union, der Europäischen Gemeinschaft und dem Für-stentum Liechtenstein über den Beitritt des Fürstentums Liechtenstein zum Abkommen zwischen der Schweizerischen Eidgenossenschaft, der Europäischen Union und der Europäischen Gemeinschaft über die Assoziierung der Schweizerischen Eidgenossenschaft bei der Umsetzung, Anwendung und Entwicklung des Schengen-Besitzstands ([SR 0.362.311](https://fedlex.data.admin.ch/eli/cc/2011/205)).
 
 ### 5<sup>ter</sup>. …
 
@@ -6267,52 +6310,58 @@ Folgende Behörden dürfen durch ein Abrufverfahren Einsicht in die Personendate
 
 - a. die Behörden nach Absatz 1;
 - b. die Bundesanwaltschaft;
-- c. das Bundesamt für Polizei im Rahmen von gerichtspolizeilichen Ermittlungsverfahren;
-- d. die Gruppe Verteidigung[^367-3];
-- [tab] e.[^367-4] das Staatssekretariat für Migration[^367-5];
-- f.[^367-6] …
+- c.[^367-3]
+
+  das Bundesamt für Polizei:
+
+  - 1\. im Rahmen von gerichtspolizeilichen Ermittlungsverfahren,
+  - 2\. für die Bearbeitung von Gesuchen um Erwerbs- und Ausnahmebewilligungen für Vorläuferstoffe, die Überprüfung dieser Bewilligungen, die Bearbeitung von Verdachtsmeldungen im Zusammenhang mit Vorläuferstoffen und die Verfolgung und Beurteilung von Straftaten nach dem Vorläuferstoffgesetz vom 25. September 2020[^367-4];
+
+- d. die Gruppe Verteidigung[^367-5];
+- [tab] e.[^367-6] das Staatssekretariat für Migration[^367-7];
+- f.[^367-8] …
 - g. die kantonalen Fremdenpolizeibehörden;
 - h. die für den Strassenverkehr zuständigen Behörden der Kantone;
-- i.[^367-7] die Bundesbehörden, die zuständig sind für die Durchführung von Personensicherheitsprüfungen im Sinne von Artikel 2 Absatz 2 Buchstabe a des Bundesgesetzes vom 21. März 1997[^367-8] über Massnahmen zur Wahrung der inneren Sicherheit;
-- [tab] j.[^367-9] das Bundesamt für Zivildienst[^367-10];
-- k.[^367-11] die für Entscheide über den Ausschluss vom Schutzdienst zuständigen Stellen der Kantone;
-- l.[^367-12] die Zeugenschutzstelle des Bundes gemäss dem Bundesgesetz vom 23. Dezember 2011[^367-13] über den ausserprozessualen Zeugenschutz zur Erfüllung ihrer Aufgaben;
-- m.[^367-14] der NDB;
-- n.[^367-15] die für die Abklärung des Sicherheitsrisikos nach Artikel 108*c* LFG[^367-16] zuständigen kantonalen Polizeistellen.
+- i.[^367-9] die Bundesbehörden, die zuständig sind für die Durchführung von Personensicherheitsprüfungen im Sinne von Artikel 2 Absatz 2 Buchstabe a des Bundesgesetzes vom 21. März 1997[^367-10] über Massnahmen zur Wahrung der inneren Sicherheit;
+- [tab] j.[^367-11] das Bundesamt für Zivildienst[^367-12];
+- k.[^367-13] die für Entscheide über den Ausschluss vom Schutzdienst zuständigen Stellen der Kantone;
+- l.[^367-14] die Zeugenschutzstelle des Bundes gemäss dem Bundesgesetz vom 23. Dezember 2011[^367-15] über den ausserprozessualen Zeugenschutz zur Erfüllung ihrer Aufgaben;
+- m.[^367-16] der NDB;
+- n.[^367-17] die für die Abklärung des Sicherheitsrisikos nach Artikel 108*c* LFG[^367-18] zuständigen kantonalen Polizeistellen.
 
 <sup>2bis</sup>
 
 Folgende Behörden dürfen durch ein Abrufverfahren auch Einsicht in die Personendaten über Urteile nach Artikel 366 Absatz 3 Buchstabe c nehmen:
 
-- a. die Gruppe Verteidigung[^367-17] zum Zwecke der Prüfung einer Nichtrekrutierung oder Zulassung zur Rekrutierung, eines Ausschlusses aus der Armee oder Wiederzulassung zur Armee oder einer Degradation nach dem MG[^367-18], zur Prüfung von Hinderungsgründen für die Überlassung der persönlichen Waffe nach dem MG, zur Prüfung der Eignung für eine Beförderung oder Ernennung nach dem MG;
-- b.[^367-19] die Bundesbehörden, die zuständig sind für die Durchführung von Personensicherheitsprüfungen im Sinne von Artikel 2 Absatz 2 Buchstabe a des Bundesgesetzes vom 21. März 1997 über Massnahmen zur Wahrung der inneren Sicherheit;
+- a. die Gruppe Verteidigung[^367-19] zum Zwecke der Prüfung einer Nichtrekrutierung oder Zulassung zur Rekrutierung, eines Ausschlusses aus der Armee oder Wiederzulassung zur Armee oder einer Degradation nach dem MG[^367-20], zur Prüfung von Hinderungsgründen für die Überlassung der persönlichen Waffe nach dem MG, zur Prüfung der Eignung für eine Beförderung oder Ernennung nach dem MG;
+- b.[^367-21] die Bundesbehörden, die zuständig sind für die Durchführung von Personensicherheitsprüfungen im Sinne von Artikel 2 Absatz 2 Buchstabe a des Bundesgesetzes vom 21. März 1997 über Massnahmen zur Wahrung der inneren Sicherheit;
 - c. Strafjustizbehörden zum Zwecke der Durchführung von Strafverfahren (Art. 365 Abs. 2 Bst. a);
 - d. kantonale Koordinationsstellen und das Bundesamt für Justiz zur Erfüllung der gesetzlichen Aufgaben im Rahmen der Registerführung;
-- e. Strafvollzugsbehörden für die Durchführung des Straf- und Massnahmenvollzuges (Art. 365 Abs. 2 Bst. c).[^367-20]
+- e. Strafvollzugsbehörden für die Durchführung des Straf- und Massnahmenvollzuges (Art. 365 Abs. 2 Bst. c).[^367-22]
 
-<sup>2ter</sup> Behörden nach den Absätzen 2 Buchstaben c–l und 2<sup>septies</sup> können Urteile, die eine Landesverweisung enthalten, so lange einsehen, als die betroffene Person mit der Landesverweisung belegt ist. Dauert die Frist nach Artikel 369 länger, so ist sie für die Dauer der Einsichtsmöglichkeit massgebend.[^367-21]
+<sup>2ter</sup> Behörden nach den Absätzen 2 Buchstaben c–l und 2<sup>septies</sup> können Urteile, die eine Landesverweisung enthalten, so lange einsehen, als die betroffene Person mit der Landesverweisung belegt ist. Dauert die Frist nach Artikel 369 länger, so ist sie für die Dauer der Einsichtsmöglichkeit massgebend.[^367-23]
 
 <sup>2quater</sup>
 
-Die für das Register zuständige Stelle des Bundes meldet der Gruppe Verteidigung für die Erfüllung der Aufgaben nach Artikel 365 Absatz 2 Buchstaben n–q laufend die folgenden neu in VOSTRA registrierten Daten von Stellungspflichtigen, Angehörigen der Armee sowie Schutzdienstpflichtigen:[^367-22]
+Die für das Register zuständige Stelle des Bundes meldet der Gruppe Verteidigung für die Erfüllung der Aufgaben nach Artikel 365 Absatz 2 Buchstaben n–q laufend die folgenden neu in VOSTRA registrierten Daten von Stellungspflichtigen, Angehörigen der Armee sowie Schutzdienstpflichtigen:[^367-24]
 
 - a. Strafurteile wegen eines Verbrechens oder Vergehens;
 - b. freiheitsentziehenden Massnahmen;
-- c. Entscheide über die Nichtbewährung von Stellungspflichtigen und Angehörigen der Armee.[^367-23]
+- c. Entscheide über die Nichtbewährung von Stellungspflichtigen und Angehörigen der Armee.[^367-25]
 
-<sup>2quinquies</sup> Gemeldet werden die Personalien der nach Absatz 2<sup>quater</sup> registrierten Schweizerinnen und Schweizer ab dem 17. Altersjahr. Stellt der Führungsstab der Armee fest, dass eine gemeldete Person stellungspflichtig oder Angehöriger der Armee ist, so meldet die für das Register zuständige Stelle auch die Strafdaten.[^367-24]
+<sup>2quinquies</sup> Gemeldet werden die Personalien der nach Absatz 2<sup>quater</sup> registrierten Schweizerinnen und Schweizer ab dem 17. Altersjahr. Stellt der Führungsstab der Armee fest, dass eine gemeldete Person stellungspflichtig oder Angehöriger der Armee ist, so meldet die für das Register zuständige Stelle auch die Strafdaten.[^367-26]
 
-<sup>2sexies</sup> Die Meldung und die Feststellung nach Absatz 2<sup>quinquies</sup> können über eine elektronische Schnittstelle zwischen dem Personalinformationssystem der Armee (PISA) und dem Register erfolgen.[^367-25]
+<sup>2sexies</sup> Die Meldung und die Feststellung nach Absatz 2<sup>quinquies</sup> können über eine elektronische Schnittstelle zwischen dem Personalinformationssystem der Armee (PISA) und dem Register erfolgen.[^367-27]
 
-<sup>2septies</sup> Das Bundesamt für Sport kann zum Zwecke der Leumundsprüfung im Hinblick auf die Erteilung oder den Entzug einer Anerkennung als «Jugend und Sport»-Kader auf schriftliches Gesuch Einsicht in Personendaten über Strafurteile nehmen.[^367-26]
+<sup>2septies</sup> Das Bundesamt für Sport kann zum Zwecke der Leumundsprüfung im Hinblick auf die Erteilung oder den Entzug einer Anerkennung als «Jugend und Sport»-Kader auf schriftliches Gesuch Einsicht in Personendaten über Strafurteile nehmen.[^367-28]
 
-<sup>3</sup> Der Bundesrat kann, wenn es die Anzahl der Auskunftsersuchen rechtfertigt, nach Anhörung des Eidgenössischen Datenschutz- und Öffentlichkeitsbeauftragten[^367-27] bis zur Inkraftsetzung der Rechtsgrundlagen in einem formellen Gesetz die Einsichtsrechte nach Absatz 2 auf weitere Justiz- und Verwaltungsbehörden des Bundes und der Kantone ausdehnen.
+<sup>3</sup> Der Bundesrat kann, wenn es die Anzahl der Auskunftsersuchen rechtfertigt, nach Anhörung des Eidgenössischen Datenschutz- und Öffentlichkeitsbeauftragten[^367-29] bis zur Inkraftsetzung der Rechtsgrundlagen in einem formellen Gesetz die Einsichtsrechte nach Absatz 2 auf weitere Justiz- und Verwaltungsbehörden des Bundes und der Kantone ausdehnen.
 
-<sup>4</sup> Personendaten über hängige Strafverfahren dürfen nur durch die Behörden nach Absatz 2 Buchstaben a–e, i, j und l–n bearbeitet werden.[^367-28]
+<sup>4</sup> Personendaten über hängige Strafverfahren dürfen nur durch die Behörden nach Absatz 2 Buchstaben a–e, i, j und l–n bearbeitet werden.[^367-30]
 
-<sup>4bis</sup> …[^367-29]
+<sup>4bis</sup> …[^367-31]
 
-<sup>4ter</sup> Das Bundesamt für Sport kann zum Zwecke der Leumundsprüfung im Hinblick auf die Erteilung oder die Sistierung einer Anerkennung als «Jugend und Sport»-Kader auf schriftliches Gesuch Einsicht in Personendaten über hängige Strafverfahren nehmen.[^367-30]
+<sup>4ter</sup> Das Bundesamt für Sport kann zum Zwecke der Leumundsprüfung im Hinblick auf die Erteilung oder die Sistierung einer Anerkennung als «Jugend und Sport»-Kader auf schriftliches Gesuch Einsicht in Personendaten über hängige Strafverfahren nehmen.[^367-32]
 
 <sup>5</sup> Jeder Kanton bestimmt für die Bearbeitung der Daten im Register eine Koordinationsstelle.
 
@@ -6331,34 +6380,36 @@ Der Bundesrat legt die Einzelheiten fest, insbesondere:
 
 [^367-1]: Fassung gemäss Anhang Ziff. 2 des BG vom 19. März 2010, in Kraft seit 1. Jan. 2013 ([AS 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869), [2011 487](https://fedlex.data.admin.ch/eli/oc/2011/66); [BBl 2009 5917](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
 [^367-2]: Fassung gemäss Anhang Ziff. 2 des BG vom 19. März 2010, in Kraft seit 1. Jan. 2013 ([AS 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869), [2011 487](https://fedlex.data.admin.ch/eli/oc/2011/66); [BBl 2009 5917](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
-[^367-3]: Ausdruck gemäss Anhang Ziff. 2 des BG vom 18. März 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^367-4]: Fassung gemäss Ziff. I 3 der V vom 3. Nov. 2004 über die Anpassung gesetzlicher Bestimmungen infolge der Zusammenlegung der Bundesämter IMES und BFF, in Kraft seit 1. Jan. 2005 ([AS 2004 4655](https://fedlex.data.admin.ch/eli/oc/2004/715)).
-[^367-5]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) auf den 1. Jan 2015 angepasst.
-[^367-6]: Aufgehoben durch Ziff. I 3 der V vom 3. Nov. 2004 über die Anpassung gesetzlicher Bestimmungen infolge der Zusammenlegung der Bundesämter IMES und BFF, mit Wirkung seit 1. Jan. 2005 ([AS 2004 4655](https://fedlex.data.admin.ch/eli/oc/2004/715)).
-[^367-7]: Fassung gemäss Anhang Ziff. II 5 des Nachrichtendienstgesetzes vom 25. Sept. 2015, in Kraft seit 1. Sept. 2017 ([AS 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [BBl 2014 2105](https://fedlex.data.admin.ch/eli/fga/2014/407)).
-[^367-8]: [SR 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
-[^367-9]: Eingefügt durch Ziff. II des BG vom 21. März 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [BBl 2001 6127](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
-[^367-10]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2019 angepasst.
-[^367-11]: Eingefügt durch Anhang Ziff. 1 des BG vom 3. Okt. 2008 über die militärischen Informationssysteme, in Kraft seit 1. Jan. 2010 ([AS 2009 6617](https://fedlex.data.admin.ch/eli/oc/2009/823); [BBl 2008 3213](https://fedlex.data.admin.ch/eli/fga/2008/701)).
-[^367-12]: Eingefügt durch Anhang Ziff. 3 des BG vom 23. Dez. 2011 über den ausserprozessualen Zeugenschutz, in Kraft seit 1. Jan. 2013 ([AS 2012 6715](https://fedlex.data.admin.ch/eli/oc/2012/814); [BBl 2011 1](https://fedlex.data.admin.ch/eli/fga/2011/1)).
-[^367-13]: [SR 312.2](https://fedlex.data.admin.ch/eli/cc/2012/814)
-[^367-14]: Eingefügt durch Anhang Ziff. II 5 des Nachrichtendienstgesetzes vom 25. Sept. 2015, in Kraft seit 1. Sept. 2017 ([AS 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [BBl 2014 2105](https://fedlex.data.admin.ch/eli/fga/2014/407)).
-[^367-15]: Eingefügt durch Ziff. I 6 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Jan. 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565), [672](https://fedlex.data.admin.ch/eli/oc/2021/672); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
-[^367-16]: [SR 748.0](https://fedlex.data.admin.ch/eli/cc/1950/471_491_479)
-[^367-17]: Ausdruck gemäss Anhang Ziff. 2 des BG vom 18. März 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^367-18]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^367-19]: Fassung gemäss Anhang Ziff. II 5 des Nachrichtendienstgesetzes vom 25. Sept. 2015, in Kraft seit 1. Sept. 2017 ([AS 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [BBl 2014 2105](https://fedlex.data.admin.ch/eli/fga/2014/407)).
-[^367-20]: Eingefügt durch Anhang Ziff. 1 des BG vom 3. Okt. 2008 über die militärischen Informationssysteme ([AS 2009 6617](https://fedlex.data.admin.ch/eli/oc/2009/823); [BBl 2008 3213](https://fedlex.data.admin.ch/eli/fga/2008/701)). Fassung gemäss Anhang Ziff. 2 des BG vom 19. März 2010, in Kraft seit 1. Jan. 2013 ([AS 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869), [2011 487](https://fedlex.data.admin.ch/eli/oc/2011/66); [BBl 2009 5917](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
-[^367-21]: Eingefügt durch Ziff. I 1 des BG vom 20. März 2015 (Umsetzung von Art. 121 Abs. 3–6 BV über die Ausschaffung krimineller Ausländerinnen und Ausländer), in Kraft seit 1. Okt. 2016 ([AS 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [BBl 2013 5975](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
-[^367-22]: Fassung gemäss Anhang Ziff. 2 des BG vom 18. März 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^367-23]: Ursprünglich: Abs. 2<sup>ter</sup>. Eingefügt durch Anhang Ziff. 1 des BG vom 3. Okt. 2008 über die militärischen Informationssysteme ([AS 2009 6617](https://fedlex.data.admin.ch/eli/oc/2009/823); [BBl 2008 3213](https://fedlex.data.admin.ch/eli/fga/2008/701)). Fassung gemäss Anhang Ziff. 2 des BG vom 19. März 2010, in Kraft seit 1. Jan. 2013 ([AS 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869), [2011 487](https://fedlex.data.admin.ch/eli/oc/2011/66); [BBl 2009 5917](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
-[^367-24]: Eingefügt durch Anhang Ziff. 2 des BG vom 19. März 2010 ([AS 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869), [2011 487](https://fedlex.data.admin.ch/eli/oc/2011/66); [BBl 2009 5917](https://fedlex.data.admin.ch/eli/fga/2009/1057)). Fassung gemäss Ziff. I 1 des BG vom 20. März 2015 (Umsetzung von Art. 121 Abs. 3–6 BV über die Ausschaffung krimineller Ausländerinnen und Ausländer), in Kraft seit 1. Okt. 2016 ([AS 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [BBl 2013 5975](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
-[^367-25]: Eingefügt durch Ziff. I 1 des BG vom 20. März 2015 (Umsetzung von Art. 121 Abs. 3–6 BV über die Ausschaffung krimineller Ausländerinnen und Ausländer), in Kraft seit 1. Okt. 2016 ([AS 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [BBl 2013 5975](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
-[^367-26]: Ursprünglich: Abs. 2<sup>sexies</sup>. Eingefügt durch Art. 34 Ziff. 1 und 36 des Sportförderungsgesetzes vom 17. Juni 2011, in Kraft seit 1. Okt. 2012 ([AS 2012 3953](https://fedlex.data.admin.ch/eli/oc/2012/460); [BBl 2009 8189](https://fedlex.data.admin.ch/eli/fga/2009/1425)).
-[^367-27]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) angepasst.
-[^367-28]: Fassung gemäss Ziff. I 6 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Jan. 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565), [672](https://fedlex.data.admin.ch/eli/oc/2021/672); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
-[^367-29]: Eingefügt durch Ziff. II 1 des BG vom 3. Okt. 2008 ([AS 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [BBl 2008 2707](https://fedlex.data.admin.ch/eli/fga/2008/609)). Aufgehoben durch Ziff. II 1 des BG vom 25. Sept. 2015, mit Wirkung seit 1. Juli 2016 ([AS 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [BBl 2014 6741](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
-[^367-30]: Eingefügt durch Art. 34 Ziff. 1 des Sportförderungsgesetzes vom 17. Juni 2011, in Kraft seit 1. Okt. 2012 ([AS 2012 3953](https://fedlex.data.admin.ch/eli/oc/2012/460); [BBl 2009 8189](https://fedlex.data.admin.ch/eli/fga/2009/1425)).
+[^367-3]: Fassung gemäss Anhang Ziff. 2 des Vorläuferstoffgesetzes vom 25. Sept. 2020, in Kraft seit 1. Jan. 2023 ([AS 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352); [BBl 2020 161](https://fedlex.data.admin.ch/eli/fga/2020/14)). Diese Änd. wird mit Inkrafttreten des Strafregistergesetzes vom 17. Juni 2016 gegenstandslos oder aufgehoben ([SR 330](https://fedlex.data.admin.ch/eli/cc/2022/600); [BBl 2016 4871](https://fedlex.data.admin.ch/eli/fga/2016/1052)) ([AS 2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352)Art. 42).
+[^367-4]: [SR 941.42](https://fedlex.data.admin.ch/eli/cc/2022/352)
+[^367-5]: Ausdruck gemäss Anhang Ziff. 2 des BG vom 18. März 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^367-6]: Fassung gemäss Ziff. I 3 der V vom 3. Nov. 2004 über die Anpassung gesetzlicher Bestimmungen infolge der Zusammenlegung der Bundesämter IMES und BFF, in Kraft seit 1. Jan. 2005 ([AS 2004 4655](https://fedlex.data.admin.ch/eli/oc/2004/715)).
+[^367-7]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) auf den 1. Jan 2015 angepasst.
+[^367-8]: Aufgehoben durch Ziff. I 3 der V vom 3. Nov. 2004 über die Anpassung gesetzlicher Bestimmungen infolge der Zusammenlegung der Bundesämter IMES und BFF, mit Wirkung seit 1. Jan. 2005 ([AS 2004 4655](https://fedlex.data.admin.ch/eli/oc/2004/715)).
+[^367-9]: Fassung gemäss Anhang Ziff. II 5 des Nachrichtendienstgesetzes vom 25. Sept. 2015, in Kraft seit 1. Sept. 2017 ([AS 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [BBl 2014 2105](https://fedlex.data.admin.ch/eli/fga/2014/407)).
+[^367-10]: [SR 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
+[^367-11]: Eingefügt durch Ziff. II des BG vom 21. März 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4843](https://fedlex.data.admin.ch/eli/oc/2003/710); [BBl 2001 6127](https://fedlex.data.admin.ch/eli/fga/2001/1033)).
+[^367-12]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2019 angepasst.
+[^367-13]: Eingefügt durch Anhang Ziff. 1 des BG vom 3. Okt. 2008 über die militärischen Informationssysteme, in Kraft seit 1. Jan. 2010 ([AS 2009 6617](https://fedlex.data.admin.ch/eli/oc/2009/823); [BBl 2008 3213](https://fedlex.data.admin.ch/eli/fga/2008/701)).
+[^367-14]: Eingefügt durch Anhang Ziff. 3 des BG vom 23. Dez. 2011 über den ausserprozessualen Zeugenschutz, in Kraft seit 1. Jan. 2013 ([AS 2012 6715](https://fedlex.data.admin.ch/eli/oc/2012/814); [BBl 2011 1](https://fedlex.data.admin.ch/eli/fga/2011/1)).
+[^367-15]: [SR 312.2](https://fedlex.data.admin.ch/eli/cc/2012/814)
+[^367-16]: Eingefügt durch Anhang Ziff. II 5 des Nachrichtendienstgesetzes vom 25. Sept. 2015, in Kraft seit 1. Sept. 2017 ([AS 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [BBl 2014 2105](https://fedlex.data.admin.ch/eli/fga/2014/407)).
+[^367-17]: Eingefügt durch Ziff. I 6 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Jan. 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565), [672](https://fedlex.data.admin.ch/eli/oc/2021/672); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^367-18]: [SR 748.0](https://fedlex.data.admin.ch/eli/cc/1950/471_491_479)
+[^367-19]: Ausdruck gemäss Anhang Ziff. 2 des BG vom 18. März 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^367-20]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^367-21]: Fassung gemäss Anhang Ziff. II 5 des Nachrichtendienstgesetzes vom 25. Sept. 2015, in Kraft seit 1. Sept. 2017 ([AS 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [BBl 2014 2105](https://fedlex.data.admin.ch/eli/fga/2014/407)).
+[^367-22]: Eingefügt durch Anhang Ziff. 1 des BG vom 3. Okt. 2008 über die militärischen Informationssysteme ([AS 2009 6617](https://fedlex.data.admin.ch/eli/oc/2009/823); [BBl 2008 3213](https://fedlex.data.admin.ch/eli/fga/2008/701)). Fassung gemäss Anhang Ziff. 2 des BG vom 19. März 2010, in Kraft seit 1. Jan. 2013 ([AS 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869), [2011 487](https://fedlex.data.admin.ch/eli/oc/2011/66); [BBl 2009 5917](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
+[^367-23]: Eingefügt durch Ziff. I 1 des BG vom 20. März 2015 (Umsetzung von Art. 121 Abs. 3–6 BV über die Ausschaffung krimineller Ausländerinnen und Ausländer), in Kraft seit 1. Okt. 2016 ([AS 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [BBl 2013 5975](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
+[^367-24]: Fassung gemäss Anhang Ziff. 2 des BG vom 18. März 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^367-25]: Ursprünglich: Abs. 2<sup>ter</sup>. Eingefügt durch Anhang Ziff. 1 des BG vom 3. Okt. 2008 über die militärischen Informationssysteme ([AS 2009 6617](https://fedlex.data.admin.ch/eli/oc/2009/823); [BBl 2008 3213](https://fedlex.data.admin.ch/eli/fga/2008/701)). Fassung gemäss Anhang Ziff. 2 des BG vom 19. März 2010, in Kraft seit 1. Jan. 2013 ([AS 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869), [2011 487](https://fedlex.data.admin.ch/eli/oc/2011/66); [BBl 2009 5917](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
+[^367-26]: Eingefügt durch Anhang Ziff. 2 des BG vom 19. März 2010 ([AS 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869), [2011 487](https://fedlex.data.admin.ch/eli/oc/2011/66); [BBl 2009 5917](https://fedlex.data.admin.ch/eli/fga/2009/1057)). Fassung gemäss Ziff. I 1 des BG vom 20. März 2015 (Umsetzung von Art. 121 Abs. 3–6 BV über die Ausschaffung krimineller Ausländerinnen und Ausländer), in Kraft seit 1. Okt. 2016 ([AS 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [BBl 2013 5975](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
+[^367-27]: Eingefügt durch Ziff. I 1 des BG vom 20. März 2015 (Umsetzung von Art. 121 Abs. 3–6 BV über die Ausschaffung krimineller Ausländerinnen und Ausländer), in Kraft seit 1. Okt. 2016 ([AS 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [BBl 2013 5975](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
+[^367-28]: Ursprünglich: Abs. 2<sup>sexies</sup>. Eingefügt durch Art. 34 Ziff. 1 und 36 des Sportförderungsgesetzes vom 17. Juni 2011, in Kraft seit 1. Okt. 2012 ([AS 2012 3953](https://fedlex.data.admin.ch/eli/oc/2012/460); [BBl 2009 8189](https://fedlex.data.admin.ch/eli/fga/2009/1425)).
+[^367-29]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) angepasst.
+[^367-30]: Fassung gemäss Ziff. I 6 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Jan. 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565), [672](https://fedlex.data.admin.ch/eli/oc/2021/672); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^367-31]: Eingefügt durch Ziff. II 1 des BG vom 3. Okt. 2008 ([AS 2009 1093](https://fedlex.data.admin.ch/eli/oc/2009/172); [BBl 2008 2707](https://fedlex.data.admin.ch/eli/fga/2008/609)). Aufgehoben durch Ziff. II 1 des BG vom 25. Sept. 2015, mit Wirkung seit 1. Juli 2016 ([AS 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [BBl 2014 6741](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^367-32]: Eingefügt durch Art. 34 Ziff. 1 des Sportförderungsgesetzes vom 17. Juni 2011, in Kraft seit 1. Okt. 2012 ([AS 2012 3953](https://fedlex.data.admin.ch/eli/oc/2012/460); [BBl 2009 8189](https://fedlex.data.admin.ch/eli/fga/2009/1425)).
 
 ### Mitteilung registrierpflichtiger Tatsachen
 
@@ -6848,21 +6899,21 @@ Die Kantone errichten bis spätestens zehn Jahre nach Inkrafttreten dieser Ände
 [^u2-9]: [AS 1971 777](https://fedlex.data.admin.ch/eli/oc/1971/777_777_777)
 [^u2-10]: Fassung gemäss Ziff. I des BG vom 24. März 2006 (Korrekturen am Sanktions- und Strafregisterrecht), in Kraft seit 1. Jan. 2007 ([AS 2006 3539](https://fedlex.data.admin.ch/eli/oc/2006/550); [BBl 2005 4689](https://fedlex.data.admin.ch/eli/fga/2005/735)).
 
-## Übergangsbestimmung der Änderung vom 12. Dezember 2014
+## Übergangsbestimmung zur Änderung vom 26. September 2014
 
 [^u3-1]
 
-[^u3-1]: [AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)
+[^u3-1]: [AS 2015 1623](https://fedlex.data.admin.ch/eli/oc/2015/321); [BBl 2014 889](https://fedlex.data.admin.ch/eli/fga/2014/136)[913](https://fedlex.data.admin.ch/eli/fga/2014/138)
 
-Artikel 305<sup>bis</sup> ist nicht anwendbar auf qualifizierte Steuervergehen im Sinne von Artikel 305<sup>bis</sup> Ziffer 1<sup>bis</sup>, die vor dem Inkrafttreten der Änderung vom 12. Dezember 2014 begangen wurden.
+Das Informationsrecht nach Artikel 92*a* ist auch auf den Vollzug anwendbar, der nach bisherigem Recht angeordnet worden ist.
 
-## Übergangsbestimmung zur Änderung vom 26. September 2014
+## Übergangsbestimmung der Änderung vom 12. Dezember 2014
 
 [^u4-1]
 
-[^u4-1]: [AS 2015 1623](https://fedlex.data.admin.ch/eli/oc/2015/321); [BBl 2014 889](https://fedlex.data.admin.ch/eli/fga/2014/136)[913](https://fedlex.data.admin.ch/eli/fga/2014/138)
+[^u4-1]: [AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)
 
-Das Informationsrecht nach Artikel 92*a* ist auch auf den Vollzug anwendbar, der nach bisherigem Recht angeordnet worden ist.
+Artikel 305<sup>bis</sup> ist nicht anwendbar auf qualifizierte Steuervergehen im Sinne von Artikel 305<sup>bis</sup> Ziffer 1<sup>bis</sup>, die vor dem Inkrafttreten der Änderung vom 12. Dezember 2014 begangen wurden.
 
 ## Übergangsbestimmung zur Änderung vom 19. Juni 2015
 
