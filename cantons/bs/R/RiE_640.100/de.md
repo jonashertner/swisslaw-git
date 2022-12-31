@@ -3,22 +3,21 @@ canton: BS
 number: RiE 640.100
 title: Steuerordnung der Gemeinde Riehen
 language: de
-version: 2019-06-20
-valid_until: 2022-12-31
-version_adopted: 2021-12-15
+version: 2023-01-01
+version_adopted: 2023-01-01
 adopted: 2003-03-26
 in_force: 2003-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/RiE%20640.100"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5464/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6761/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Steuerordnung der Gemeinde Riehen
 
-Steuerordnung | Riehen: Einwohnergemeinde
+Steuern
 
-Vom 26. März 2003 (Stand 20. Juni 2019)
+Vom 26. März 2003 (Stand 1. Januar 2023)
 
 Der Einwohnerrat Riehen,
 
@@ -108,7 +107,7 @@ beschliesst auf Antrag des Gemeinderats und gestützt auf § 2 Abs. 1 und 2 des 
 
 <sup>2</sup> Der Einwohnerrat beschliesst den Steuerfuss jeweils vor Beginn der neuen Steuerperiode. Dieser Beschluss unterliegt dem Referendum.
 
-<sup>3</sup> Wird der Steuerfussbeschluss des Einwohnerrats vom Volk verworfen, so fasst der Einwohnerrat einen neuen Beschluss. Wird auch dieser vom Volk abgelehnt, so gelten für die betreffende Steuerperiode Steuerfüsse, die ein ausgeglichenes Produktsummenbudget bewirken. Der Gemeinderat legt die entsprechenden Steuerfüsse fest.
+<sup>3</sup> Wird der Steuerfussbeschluss des Einwohnerrats vom Volk verworfen, so fasst der Einwohnerrat einen neuen Beschluss.
 
 ### 4. Zeitliche Grundlagen
 
