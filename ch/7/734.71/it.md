@@ -4,11 +4,11 @@ title: "Ordinanza del 14 marzo 2008 sull'approvvigionamento elettrico (OAEl)"
 short: OAEl
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/226"
 language: it
-version: 2022-10-01
+version: 2023-01-01
 adopted: 2008-03-14
 in_force: 2008-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/226/20221001/it/xml/fedlex-data-admin-ch-eli-cc-2008-226-20221001-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/226/20221001/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/226/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2008-226-20230101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/226/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/226/20221001/it"
 
 (OAEl)
 
-del 14 marzo 2008 (Stato 1° ottobre 2022) (Stato 1° ottobre 2022)
+del 14 marzo 2008 (Stato 1° gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -115,7 +115,7 @@ Se acquista l’elettricità per le forniture di cui all’articolo 6 capoverso 
 
 <sup>5</sup> Non sono computabili ai sensi dell’articolo 6 capoverso 5<sup>bis</sup> LAEl i costi dell’elettricità proveniente da impianti di produzione che sono compresi nel sistema di rimunerazione per l’immissione di elettricità, che ottengono un finanziamento dei costi supplementari oppure che beneficiano di misure di sostegno cantonali o comunali paragonabili.
 
-[^4-1]: Nuovo testo giusta il n. I dell’O del 3 apr. 2019, in vigore dal 1° giu. 2019 al 31 dic. 2022 ([RU 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270)).
+[^4-1]: Nuovo testo giusta il n. I dell’O del 3 apr. 2019, in vigore dal 1° giu. 2019 al 31 dic. 2030 ([RU 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270); [2022 722](https://fedlex.data.admin.ch/eli/oc/2022/722)).
 [^4-2]: [RS 730.03](https://fedlex.data.admin.ch/eli/cc/2017/766)
 [^4-3]: [RU 1999 207](https://fedlex.data.admin.ch/eli/oc/1999/28), [2016 4617](https://fedlex.data.admin.ch/eli/oc/2016/746)
 [^4-4]: Nuovo testo giusta il n. III dell’O del 23 ott. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3479](https://fedlex.data.admin.ch/eli/oc/2019/635)).
@@ -134,7 +134,12 @@ Se l’elettricità fornita ai sensi dell’articolo 6 capoverso 5<sup>bis</sup>
 
   - 1\. se la rimunerazione unica è stata determinata in via definitiva prima dell’acquisto, il relativo importo viene dedotto,
   - 2\. se la rimunerazione unica non è ancora stata determinata in via definitiva, la deduzione è effettuata non appena il progetto è incluso nella lista d’attesa; l’ammontare della deduzione è determinato secondo gli articoli 7 e 38 OPEn[^4a-2],
-  - 3\. se vengono computati i costi di acquisto (art. 4 cpv. 3), viene operata una deduzione forfettaria del 20 per cento del rispettivo tasso di rimunerazione determinante, indipendentemente dal fatto che sia stata accordata o no una rimunerazione unica;
+  - 3\.[^4a-3]
+
+    se vengono computati i costi di acquisto (art. 4 cpv. 3), indipendentemente dal fatto che sia stata accordata o meno una rimunerazione unica si deduce:
+
+    - – per gli impianti che sono entrati in esercizio a partire dal 1° gennaio 2023 e che immettono in rete tutta l’elettricità prodotta: il 40 per cento del tasso di rimunerazione determinante,
+    - – per i restanti impianti: il 20 per cento del tasso di rimunerazione determinante;
 
 - b.
 
@@ -147,8 +152,9 @@ Se l’elettricità fornita ai sensi dell’articolo 6 capoverso 5<sup>bis</sup>
 
 <sup>3</sup> Altre misure di sostegno paragonabili, comprese le misure di sostegno cantonali o comunali, sono considerate per analogia.
 
-[^4a-1]: Introdotto dal n. I dell’O del 3 apr. 2019, in vigore dal 1° giu. 2019 al 31 dic. 2022 ([RU 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270)).
+[^4a-1]: Introdotto dal n. I dell’O del 3 apr. 2019, in vigore dal 1° giu. 2019 al 31 dic. 2030 ([RU 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270); [2022 772](https://fedlex.data.admin.ch/eli/oc/2022/772)).
 [^4a-2]: [RS 730.03](https://fedlex.data.admin.ch/eli/cc/2017/766)
+[^4a-3]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 al 31 dic. 2030 ([RU 2022 772](https://fedlex.data.admin.ch/eli/oc/2022/772)).
 
 #### Art. 4b
 
@@ -158,7 +164,7 @@ Se l’elettricità fornita ai sensi dell’articolo 6 capoverso 5<sup>bis</sup>
 
 <sup>2</sup> Il gestore della rete di distribuzione è tenuto a notificare alla ElCom al più tardi entro il 31 agosto gli aumenti delle tariffe dell’energia elettrica con la motivazione comunicata ai consumatori finali.
 
-[^4b-1]: Introdotto dal n. I dell’O del 3 apr. 2019, in vigore dal 1° giu. 2019 al 31 dic. 2022 ([RU 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270)).
+[^4b-1]: Introdotto dal n. I dell’O del 3 apr. 2019, in vigore dal 1° giu. 2019 al 31 dic. 2030 ([RU 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270); [2022 772](https://fedlex.data.admin.ch/eli/oc/2022/772)).
 
 #### Art. 4c
 
@@ -168,7 +174,24 @@ Se l’elettricità fornita ai sensi dell’articolo 6 capoverso 5<sup>bis</sup>
 
 <sup>2</sup> Se l’elettricità fornita non proviene dai suoi impianti di produzione, il gestore della rete di distribuzione, per la verifica della plausibilità, notifica annualmente alla ElCom, per ogni tecnologia di produzione, la quantità fornita e il prezzo medio computato nella tariffa. Per i grandi impianti idroelettrici con una potenza superiore a 10 MW, esso notifica questi dati singolarmente per ogni impianto di produzione.
 
-[^4c-1]: Introdotto dal n. I dell’O del 3 apr. 2019, in vigore dal 1° giu. 2019 al 31 dic. 2022 ([RU 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270)).
+[^4c-1]: Introdotto dal n. I dell’O del 3 apr. 2019, in vigore dal 1° giu. 2019 al 31 dic. 2030 ([RU 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270); [2022 772](https://fedlex.data.admin.ch/eli/oc/2022/772)).
+
+#### Art. 4d
+
+**Differenze di copertura nel servizio universale**[^4d-1]
+
+<sup>1</sup> Se la somma del corrispettivo che il gestore della rete di distribuzione ha riscosso per il servizio universale nel corso di un anno tariffario non corrisponde ai costi energetici computabili (differenza di copertura), il gestore della rete di distribuzione deve compensare tale differenza entro i tre anni tariffari successivi. In caso di copertura insufficiente, può rinunciare alla compensazione.
+
+<sup>2</sup> In casi giustificati, la ElCom può estendere il periodo entro il quale compensare una differenza di copertura.
+
+<sup>3</sup>
+
+Il tasso di interesse che il gestore della rete di distribuzione deve applicare al consumatore finale corrisponde:
+
+- a. in caso di copertura insufficiente: al massimo al costo del capitale di terzi conformemente all’allegato 1;
+- b. in caso di copertura in eccesso: almeno al costo del capitale di terzi conformemente all’allegato 1.
+
+[^4d-1]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 al 31 dic. 2030 ([RU 2022 772](https://fedlex.data.admin.ch/eli/oc/2022/772)).
 
 #### Art. 5
 
@@ -369,7 +392,7 @@ L’interazione fra gli elementi di tali sistemi di misurazione intelligenti per
 
 - a. identificare e gestire diversi tipi di contatori di elettricità ai fini dell’interoperabilità;
 - b. aggiornare la parte del software dei contatori di elettricità di cui al capoverso 1 lettera a che non ha nessuna ripercussione sulle caratteristiche metrologiche;
-- c.[^8a-6] far sì che i consumatori finali, i produttori o i gestori di impianti di stoccaggio possano consultare i propri dati dei profili di carico con periodi di misurazione di 15 minuti, rilevati negli ultimi cinque anni, in una forma comprensibile e scaricarli in un formato di dati usuale a livello internazionale;
+- c.[^8a-6] fornire al consumatore finale, al produttore o al gestore dell’impianto di stoccaggio interessato una rappresentazione comprensibile dei propri dati di misurazione, segnatamente dei profili di carico;
 - d. integrare altri strumenti di misurazione digitali, nonché altri sistemi di controllo e di regolazione intelligenti; e
 - e. individuare, registrare e segnalare manipolazioni e altri effetti esterni sui contatori di elettricità.
 
@@ -398,7 +421,7 @@ La ElCom può concedere deroghe di durata determinata o indeterminata all’obbl
 [^8a-3]: Nuovo testo giusta il n. I dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6141](https://fedlex.data.admin.ch/eli/oc/2020/1015)).
 [^8a-4]: Nuovo testo giusta il n. I dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6141](https://fedlex.data.admin.ch/eli/oc/2020/1015)).
 [^8a-5]: Introdotto dal n. I dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6141](https://fedlex.data.admin.ch/eli/oc/2020/1015)).
-[^8a-6]: Nuovo testo giusta il n. I dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6141](https://fedlex.data.admin.ch/eli/oc/2020/1015)).
+[^8a-6]: Nuovo testo giusta il n. I dell’O del 3 apr. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270)).
 [^8a-7]: Introdotto dal n. I dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6141](https://fedlex.data.admin.ch/eli/oc/2020/1015)).
 [^8a-8]: [RS 510.518](https://fedlex.data.admin.ch/eli/cc/1950/1474_1519_1485)
 [^8a-9]: Nuovo testo giusta il n. I dell’O del 3 apr. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270)).
@@ -495,9 +518,13 @@ I gestori di rete pubblicano, tra l’altro anche attraverso un unico indirizzo 
 
 <sup>2</sup> I consumatori finali con un consumo annuo di almeno 100 MWh che ancora non ricevono energia elettrica in base ad un contratto di fornitura scritto negoziato individualmente possono, entro il 31 ottobre, comunicare al gestore della rete di distribuzione nel loro comprensorio che, a partire dal 1° gennaio dell’anno successivo, eserciteranno il loro diritto d’accesso alla rete. In tal caso l’obbligo di fornitura del gestore della rete di distribuzione ai sensi dell’articolo 6 LAEl decade definitivamente.
 
+<sup>2bis</sup> Se un centro di consumo, per cui in passato si era già esercitato il diritto di accesso alla rete, partecipa a un raggruppamento ai fini del consumo proprio già esistente o di nuova costituzione, ciò non esime il gestore della rete di distribuzione dall’obbligo di fornire il raggruppamento. Qualora quest’ultimo rivendichi detto obbligo di fornitura, il diritto di accesso alla rete del centro di consumo in questione può essere nuovamente esercitato non prima che siano trascorsi sette anni dalla sua partecipazione al raggruppamento.[^11-1]
+
 <sup>3</sup> Il consumatore finale con un consumo annuo stimato di almeno 100 MWh che viene allacciato alla rete di distribuzione comunica al gestore di rete, due mesi prima della messa in esercizio del suo allacciamento, se esercita il suo diritto di accesso alla rete.
 
 <sup>4</sup> Hanno diritto di accesso alla rete anche i consumatori finali allacciati alle linee elettriche di piccola portata territoriale utilizzate per la distribuzione capillare ai sensi dell’articolo 4 capoverso 1 lettera a LAEl, purché abbiano un consumo annuo di almeno 100 MWh. Le parti interessate concordano le modalità di utilizzazione di queste linee elettriche.
+
+[^11-1]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 772](https://fedlex.data.admin.ch/eli/oc/2022/772)).
 
 #### Art. 12
 
@@ -672,6 +699,23 @@ I gestori di rete emanano direttive trasparenti e non discriminatorie per l’im
 
 [^18-1]: Nuovo testo giusta il n. I dell’O del 3 apr. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270)).
 
+#### Art. 18a
+
+**Differenze di copertura nell’ambito dei costi di rete**[^18a-1]
+
+<sup>1</sup> Se la somma del corrispettivo per l’utilizzazione della rete che il gestore della rete ha riscosso nel corso di un anno tariffario non corrisponde ai costi di rete computabili (differenza di copertura), il gestore della rete deve compensare tale differenza entro i tre anni tariffari successivi. In caso di copertura insufficiente, può rinunciare alla compensazione.
+
+<sup>2</sup> In casi giustificati, la ElCom può estendere il periodo entro il quale compensare una differenza di copertura.
+
+<sup>3</sup>
+
+Il tasso di interesse che il gestore di rete deve applicare al consumatore finale corrisponde:
+
+- a. in caso di copertura insufficiente: al massimo al costo del capitale di terzi conformemente all’allegato 1;
+- b. in caso di copertura in eccesso: almeno al costo del capitale di terzi conformemente all’allegato 1.
+
+[^18a-1]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 772](https://fedlex.data.admin.ch/eli/oc/2022/772)).
+
 #### Art. 19
 
 **Studi comparativi di efficienza, verifica delle tariffe per l’utilizzazione della rete e per l’elettricità**
@@ -741,7 +785,7 @@ La società nazionale di rete riferisce alla ElCom sull’applicazione della reg
 
 <sup>1</sup> L’UFE designa il responsabile del gruppo di bilancio per le energie rinnovabili dopo aver consultato la società nazionale di rete.
 
-<sup>2</sup> Il responsabile del gruppo di bilancio per le energie rinnovabili fissa in direttive regole trasparenti e non discriminatorie per l’immissione di elettricità al prezzo di mercato di riferimento ai sensi degli articoli 14 capoverso 1 o 105 capoverso 1 OPEn[^24-2].[^24-3]Tali direttive necessitano dell’approvazione dell’UFE.
+<sup>2</sup> Il responsabile del gruppo di bilancio per le energie rinnovabili fissa in direttive regole trasparenti e non discriminatorie per l’immissione di elettricità al prezzo di mercato di riferimento ai sensi degli articoli 14 capoverso 1 o 105 capoverso 1 OPEn[^24-2].[^24-3] Tali direttive necessitano dell’approvazione dell’UFE.
 
 <sup>3</sup> Il responsabile del gruppo di bilancio elabora i piani previsionali e li consegna alla società nazionale di rete.
 
@@ -749,7 +793,7 @@ La società nazionale di rete riferisce alla ElCom sull’applicazione della reg
 
 [^24-1]: Nuovo testo giusta il n. I dell’O del 1° nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)).
 [^24-2]: [RS 730.03](https://fedlex.data.admin.ch/eli/cc/2017/766)
-[^24-3]: Nuovo testo giusta il n. I dell’O del 3 apr. 2019, in vigore dal 1° giu. 2019 al 31 dic. 2022 ([RU 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270)).
+[^24-3]: Nuovo testo giusta il n. I dell’O del 3 apr. 2019, in vigore dal 1° giu. 2019 al 31 dic. 2030 ([RU 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270); [2022 772](https://fedlex.data.admin.ch/eli/oc/2022/772)).
 
 #### Art. 24a e 24b
 
@@ -784,17 +828,45 @@ La società nazionale di rete riferisce alla ElCom sull’applicazione della reg
 [^26-2]: [RS 730.03](https://fedlex.data.admin.ch/eli/cc/2017/766)
 [^26-3]: Nuovo testo giusta il n. I dell’O del 1° nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)).
 
-## Capitolo 4*a*: Informazioni sul mercato all’ingrosso dell’energia elettrica
+## Capitolo 4*a*: Progetti pilota
 
 [^chap4a-1]
 
-[^chap4a-1]: Introdotto dal n. I dell’O del 30 gen. 2013, in vigore dal 1° lug. 2013 ([RU 2013 559](https://fedlex.data.admin.ch/eli/oc/2013/108)).
+[^chap4a-1]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 772](https://fedlex.data.admin.ch/eli/oc/2022/772)).
 
 #### Art. 26a
 
-**Obbligo d’informazione**
+<sup>1</sup>
 
-<sup>1</sup> Chi ha sede o domicilio in Svizzera, opera in un mercato all’ingrosso dell’energia elettrica dell’UE ed è tenuto a rilasciare informazioni alle autorità dell’UE o degli Stati membri ai sensi del Regolamento (UE) n. 1227/2011 (Regolamento UE REMIT)[^26a-1] deve fornire contemporaneamente le medesime informazioni, nella stessa forma, anche alla ElCom.
+La domanda per un progetto pilota deve essere presentata al DATEC. Essa deve contenere tutte le indicazioni necessarie per la verifica dei requisiti di cui all’articolo 23*a* LAEl, segnatamente:
+
+- a. l’oggetto e l’obiettivo del progetto;
+- b. l’organizzazione di progetto;
+- c. le modalità di partecipazione al progetto;
+- d. il luogo e la durata del progetto;
+- e. le disposizioni della LAEl alle quali si intende derogare.
+
+<sup>2</sup> Se dall’esame della domanda risulta che essa può essere autorizzata, il DATEC emana un’ordinanza con cui disciplina le condizioni quadro del progetto (art. 23*a* cpv. 3 LAEl). Il DATEC può consultare esperti per valutare le domande. In merito alla domanda emana una decisione.
+
+<sup>3</sup> Sulla base di un’ordinanza di cui al capoverso 2 possono essere approvate ulteriori domande per progetti pilota corrispondenti.
+
+<sup>4</sup> Eventuali rimunerazioni per costi di rete non coperti ai sensi dell’articolo 23*a* capoverso 4 LAEl necessitano dell’autorizzazione del DATEC. Sulla base di quest’ultima la società nazionale di rete rimborsa al gestore i costi di rete non coperti.
+
+<sup>5</sup> I risultati del progetto devono essere valutati dal titolare dell’autorizzazione in un rapporto finale. Il rapporto finale e i dati e le indicazioni necessari per la valutazione devono essere messi a disposizione del DATEC.
+
+<sup>6</sup> Al termine del progetto e in vista dell’adozione di un’eventuale modifica legislativa, l’UFE esegue una valutazione all’attenzione del DATEC. Informa il pubblico in merito ai progetti e alle informazioni acquisite.
+
+## Capitolo 4*b*: Informazioni sul mercato all’ingrosso dell’elettricità
+
+[^chap4b-1]
+
+[^chap4b-1]: Originario capitolo 4*a*. Introdotto dal n. I dell’O del 30 gen. 2013, in vigore dal 1° lug. 2013 ([RU 2013 559](https://fedlex.data.admin.ch/eli/oc/2013/108)).
+
+#### Art. 26a<sup>bis</sup>
+
+**Obbligo d’informazione**[^26abis-1]
+
+<sup>1</sup> Chi ha sede o domicilio in Svizzera, opera in un mercato all’ingrosso dell’energia elettrica dell’UE ed è tenuto a rilasciare informazioni alle autorità dell’UE o degli Stati membri ai sensi del Regolamento (UE) n. 1227/2011 (Regolamento UE REMIT)[^26abis-2] deve fornire contemporaneamente le medesime informazioni, nella stessa forma, anche alla ElCom.
 
 <sup>2</sup>
 
@@ -816,7 +888,8 @@ Sono considerati prodotti energetici all’ingrosso i seguenti contratti e deriv
 - a. i contratti relativi al trasporto e alla fornitura di energia elettrica che non riguardino direttamente l’impiego di tale energia elettrica da parte dei consumatori finali;
 - b. i derivati relativi alla produzione, al commercio, alla fornitura e al trasporto dell’energia elettrica.
 
-[^26a-1]: R (UE) n. 1227/2011 del Parlamento europeo e del Consiglio del 25 ott. 2011 concernente l’integrità e la trasparenza del mercato dell’energia all’ingrosso, testo conformemente a GU L 326 dell’8.12.2011, pag. 1.
+[^26abis-1]: Originario art. 26*a.*
+[^26abis-2]: R (UE) n. 1227/2011 del Parlamento europeo e del Consiglio del 25 ott. 2011 concernente l’integrità e la trasparenza del mercato dell’energia all’ingrosso, testo conformemente a GU L 326 dell’8.12.2011, pag. 1.
 
 #### Art. 26b
 
@@ -991,9 +1064,11 @@ Fino al 31 dicembre 2018, il gruppo di bilancio per le energie rinnovabili, gli 
 
 #### Art. 31k
 
-**Fornitura di elettricità secondo l’articolo 6 capoverso 5<sup>bis</sup> LAEl**
+**Fornitura di elettricità ai sensi dell’articolo 6 capoverso 5<sup>bis</sup> LAEl**[^31k-1]
 
-I gestori della rete di distribuzione possono avvalersi del diritto di rifornire di elettricità i consumatori finali con servizio universale alle condizioni di cui all’articolo 6 capoverso 5<sup>bis</sup> LAEl per la prima volta nell’anno tariffario 2019 e per l’ultima volta nell’anno tariffario 2022.
+Il diritto di fornire elettricità ai consumatori finali in regime di servizio universale secondo le condizioni dell’articolo 6 capoverso 5<sup>bis</sup> LAEl può essere esercitato dai gestori della rete di distribuzione la prima volta per l’anno tariffario 2019 e l’ultima volta per l’anno tariffario 2030.
+
+[^31k-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 772](https://fedlex.data.admin.ch/eli/oc/2022/772)).
 
 ### Sezione 4*c*: Disposizioni transitorie della modifica del 25 novembre 2020
 
@@ -1017,6 +1092,16 @@ I gestori della rete di distribuzione possono avvalersi del diritto di rifornire
 <sup>5</sup> Per l’impiego di sistemi di controllo e di regolazione intelligenti negli impianti di produzione e negli impianti di stoccaggio si applicano per analogia le norme dell’articolo 31*f*.
 
 <sup>6</sup> I sistemi di misurazione intelligenti che non consentono ai consumatori finali, ai produttori o ai gestori di impianti di stoccaggio di consultare e scaricare i propri dati di misurazione nel modo prescritto dall’articolo 8*a* capoverso 1 lettera a numero 3 e capoverso 2 lettera c devono essere riequipaggiati quanto prima, al più tardi entro il 30 giugno 2021. Sono fatte salve le deroghe di cui ai capoversi 1 e 2.
+
+### Sezione 4*d*: Disposizione transitoria della modifica del 23 novembre 2022
+
+[^chap5-sec4d-1]
+
+[^chap5-sec4d-1]: Introdotta dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 772](https://fedlex.data.admin.ch/eli/oc/2022/772)).
+
+#### Art. 31m
+
+Le nuove disposizioni sulla gestione delle differenze di copertura si applicano la prima volta alle differenze di copertura dell’anno contabile successivo all’entrata in vigore.
 
 ### Sezione 5: Entrata in vigore
 

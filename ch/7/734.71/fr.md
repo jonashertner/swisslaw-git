@@ -4,11 +4,11 @@ title: "Ordonnance du 14 mars 2008 sur l'approvisionnement en électricité (OAp
 short: OApEl
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/226"
 language: fr
-version: 2022-10-01
+version: 2023-01-01
 adopted: 2008-03-14
 in_force: 2008-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/226/20221001/fr/xml/fedlex-data-admin-ch-eli-cc-2008-226-20221001-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/226/20221001/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/226/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-226-20230101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/226/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/226/20221001/fr"
 
 (OApEl)
 
-du 14 mars 2008 (État le 1<sup>er</sup> octobre 2022)
+du 14 mars 2008 (État le 1<sup>er</sup> janvier 2023)
 
 Le Conseil fédéral suisse,
 
@@ -60,7 +60,7 @@ Le réseau de transport d’électricité des chemins de fer suisses exploité �
 Au sens de la présente ordonnance, on entend par:
 
 - a. *programme prévisionnel*: le profil (puissance moyenne par unité de temps) indiquant la fourniture ou l’acquisition convenue d’énergie électrique pour une certaine durée;
-- b.[^2-1] *…*
+- b.[^2-1] …
 - c. *point d’injection* ou *de soutirage*: le point du réseau où un appareil de mesure saisit et mesure ou enregistre le flux d’énergie injecté ou soutiré (point de mesure);
 - d. *gestion du bilan d’ajustement*: l’ensemble des mesures techniques, opérationnelles et comptables servant à assurer l’équilibre permanent des bilans en puissance et en énergie dans le système d’électricité; en font notamment partie la gestion des programmes prévisionnels, la gestion des mesures et la gestion de la compensation des bilans d’équilibre;
 - e.[^2-2] …
@@ -114,7 +114,7 @@ Si le gestionnaire du réseau de distribution acquiert l’électricité qu’il
 
 <sup>5</sup> Les coûts de l’électricité provenant d’installations de production qui participent au système de rétribution de l’injection, qui obtiennent un financement des frais supplémentaires ou qui bénéficient de mesures de soutien cantonales ou communales comparables ne peuvent pas être pris en compte conformément à l’art. 6, al. 5<sup>bis</sup>, LApEl.
 
-[^4-1]: Nouvelle teneur selon le ch. I de l’O du 3 avr. 2019, en vigueur du 1<sup>er</sup> juin 2019 au 31 déc. 2022 ([RO 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270)).
+[^4-1]: Nouvelle teneur selon le ch. I de l’O du 3 avr. 2019, en vigueur du 1<sup>er</sup> juin 2019 au 31 déc. 2030 ([RO 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270); [2022 772](https://fedlex.data.admin.ch/eli/oc/2022/772)).
 [^4-2]: [RS 730.03](https://fedlex.data.admin.ch/eli/cc/2017/766)
 [^4-3]: [RO 1999 207](https://fedlex.data.admin.ch/eli/oc/1999/28), [2016 4617](https://fedlex.data.admin.ch/eli/oc/2016/746)
 [^4-4]: Nouvelle teneur selon le ch. III de l’O du 23 oct. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3479](https://fedlex.data.admin.ch/eli/oc/2019/635)).
@@ -133,7 +133,12 @@ Si l’électricité fournie conformément à l’art. 6, al. 5<sup>bis</sup>, L
 
   - 1\. si la rétribution unique a été fixée définitivement avant l’acquisition, le montant de celle-ci est déduit,
   - 2\. si la rétribution unique n’a pas encore été fixée définitivement, une déduction est effectuée dès que le projet est inscrit sur la liste d’attente; cette déduction est déterminée sur la base des art. 7 et 38 OEneR[^4a-2],
-  - 3\. si les frais d’acquisition sont pris en compte (art. 4, al. 3), 20 % du taux de rétribution déterminant sont déduits à titre forfaitaire, indépendamment du fait qu’une rétribution unique ait été accordée ou non;
+  - 3\.[^4a-3]
+
+    si les frais d’acquisition sont pris en compte (art. 4, al. 3), sont déduits, indépendamment du fait qu’une rétribution unique ait été accordée ou non:
+
+    - – pour les installations mises en service à partir du 1<sup>er</sup> janvier 2023 qui injectent la totalité de l’électricité produite: 40 % du taux de rétribution déterminant,
+    - – pour les autres installations: 20 % du taux de rétribution déterminant;
 
 - b.
 
@@ -146,8 +151,9 @@ Si l’électricité fournie conformément à l’art. 6, al. 5<sup>bis</sup>, L
 
 <sup>3</sup> D’autres mesures de soutien comparables, mesures cantonales ou communales comprises, sont prises en compte par analogie.
 
-[^4a-1]: Introduit par le ch. I de l’O du 3 avr. 2019, en vigueur du 1<sup>er</sup> juin 2019 au 31 déc. 2022 ([RO 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270)).
+[^4a-1]: Introduit par le ch. I de l’O du 3 avr. 2019, en vigueur du 1<sup>er</sup> juin 2019 au 31 déc. 2030 ([RO 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270); [2022 772](https://fedlex.data.admin.ch/eli/oc/2022/772)).
 [^4a-2]: [RS 730.03](https://fedlex.data.admin.ch/eli/cc/2017/766)
+[^4a-3]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur du 1<sup>er</sup> janv. 2023 au 31 déc. 2030 ([RO 2022 772](https://fedlex.data.admin.ch/eli/oc/2022/772)).
 
 #### Art. 4b
 
@@ -157,7 +163,7 @@ Si l’électricité fournie conformément à l’art. 6, al. 5<sup>bis</sup>, L
 
 <sup>2</sup> Le gestionnaire du réseau de distribution est tenu d’annoncer à l’ElCom les hausses des tarifs d’électricité ainsi que la justification communiquée aux consommateurs finaux au plus tard le 31 août.
 
-[^4b-1]: Introduit par le ch. I de l’O du 3 avr. 2019, en vigueur du 1<sup>er</sup> juin 2019 au 31 déc. 2022 ([RO 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270)).
+[^4b-1]: Introduit par le ch. I de l’O du 3 avr. 2019, en vigueur du 1<sup>er</sup> juin 2019 au 31 déc. 2030 ([RO 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270); [2022 772](https://fedlex.data.admin.ch/eli/oc/2022/772)).
 
 #### Art. 4c
 
@@ -167,7 +173,24 @@ Si l’électricité fournie conformément à l’art. 6, al. 5<sup>bis</sup>, L
 
 <sup>2</sup> Si l’électricité fournie ne provient pas des installations de production du gestionnaire du réseau de distribution, celui-ci annonce chaque année à l’ElCom, aux fins de contrôle de plausibilité, les quantités fournies et la moyenne du prix pris en compte dans son tarif pour chaque technologie de production. Concernant les grands aménagements hydroélectriques d’une puissance supérieure à 10 MW, il communique ces données pour chaque installation de production.
 
-[^4c-1]: Introduit par le ch. I de l’O du 3 avr. 2019, en vigueur du 1<sup>er</sup> juin 2019 au 31 déc. 2022 ([RO 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270)).
+[^4c-1]: Introduit par le ch. I de l’O du 3 avr. 2019, en vigueur du 1<sup>er</sup> juin 2019 au 31 déc. 2030 ([RO 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270); [2022 772](https://fedlex.data.admin.ch/eli/oc/2022/772)).
+
+#### Art. 4d
+
+**Différences de couverture dans l’approvisionnement de base**[^4d-1]
+
+<sup>1</sup> Si le montant total de la rémunération perçue par le gestionnaire du réseau de distribution pour l’approvisionnement de base pendant une année tarifaire ne concorde pas avec les coûts énergétiques imputables (différence de couverture), il compense cet écart dans les trois années tarifaires suivantes. Il peut renoncer à compenser un découvert de couverture.
+
+<sup>2</sup> Dans des cas justifiés, l’ElCom peut prolonger le délai imparti pour compenser une différence de couverture.
+
+<sup>3</sup>
+
+Le taux d’intérêt que le gestionnaire du réseau de distribution applique à l’égard du consommateur final correspond:
+
+- a. en cas de découvert de couverture, au maximum au taux de rendement des fonds étrangers visé à l’annexe 1;
+- b. en cas d’excédent de couverture, au minimum au taux de rendement des fonds étrangers visé à l’annexe 1.
+
+[^4d-1]: Introduit par le ch. I de l’O du 23 nov. 2022, en vigueur du 1<sup>er</sup> janv. 2023 au 31 déc. 2030 ([RO 2022 772](https://fedlex.data.admin.ch/eli/oc/2022/772)).
 
 #### Art. 5
 
@@ -495,9 +518,13 @@ Les gestionnaires de réseau publient les informations visées à l’art. 12, a
 
 <sup>2</sup> Les consommateurs finaux qui ont une consommation annuelle d’au moins 100 MWh et qui ne soutirent pas d’électricité sur la base d’un contrat écrit de fourniture individuel peuvent indiquer jusqu’au 31 octobre au gestionnaire du réseau de distribution de leur zone de desserte qu’ils entendent faire usage de leur droit d’accès au réseau à partir du 1<sup>er</sup> janvier de l’année suivante. Pour le gestionnaire du réseau de distribution, l’obligation de fourniture au sens de l’art. 6 LApEl devient alors définitivement caduque.
 
+<sup>2bis</sup> La participation à un regroupement pour la consommation propre, existant ou à venir, d’un site de consommation pour lequel il a déjà été fait usage du droit d’accès au réseau ne délie pas le gestionnaire du réseau de distribution de son obligation de fourniture. Si le regroupement requiert l’exécution de cette obligation, le droit d’accès au réseau peut à nouveau être exercé pour le site de consommation concerné au plus tôt sept ans après son entrée dans le regroupement.[^11-1]
+
 <sup>3</sup> Si un consommateur final ayant une consommation annuelle estimée à au moins 100 MWh doit être nouvellement raccordé au réseau de distribution, il indique au gestionnaire du réseau deux mois avant la mise en service de son raccordement s’il entend faire usage de son droit d’accès au réseau.
 
 <sup>4</sup> Les consommateurs finaux reliés à un réseau de distribution fine de peu d’étendue au sens de l’art. 4, al. 1, let. a, LApEl, disposent eux aussi du droit d’accès au réseau si leur consommation annuelle est d’au moins 100 MWh. Les parties concernées conviennent des modalités d’utilisation de ces lignes électriques.
+
+[^11-1]: Introduit par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 772](https://fedlex.data.admin.ch/eli/oc/2022/772)).
 
 #### Art. 12
 
@@ -669,6 +696,23 @@ Les gestionnaires de réseau fixent des directives transparentes et non discrimi
 
 [^18-1]: Nouvelle teneur selon le ch. I de l’O du 3 avr. 2019, en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270)).
 
+#### Art. 18a
+
+**Différences de couverture dans le domaine des coûts de réseau**[^18a-1]
+
+<sup>1</sup> Si le montant total de la rémunération pour l’utilisation du réseau perçue par le gestionnaire du réseau pendant une année tarifaire ne concorde pas avec les coûts de réseau imputables (différence de couverture), le gestionnaire de réseau compense cet écart dans les trois années tarifaires suivantes. Il peut renoncer à compenser un découvert de couverture.
+
+<sup>2</sup> Dans des cas justifiés, l’ElCom peut prolonger le délai imparti pour compenser une différence de couverture.
+
+<sup>3</sup>
+
+Le taux d’intérêt que le gestionnaire de réseau applique à l’égard du consommateur final correspond:
+
+- a. en cas de découvert de couverture, au maximum au taux de rendement des fonds étrangers visé à l’annexe 1;
+- b. en cas d’excédent de couverture, au minimum au taux de rendement des fonds étrangers visé à l’annexe 1.
+
+[^18a-1]: Introduit par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 772](https://fedlex.data.admin.ch/eli/oc/2022/772)).
+
 #### Art. 19
 
 **Efficacité comparée, vérification des tarifs d’utilisation du réseau et des tarifs d’électricité**
@@ -746,7 +790,7 @@ La société nationale du réseau de transport présente un rapport à l’ElCom
 
 [^24-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)).
 [^24-2]: [RS 730.03](https://fedlex.data.admin.ch/eli/cc/2017/766)
-[^24-3]: Nouvelle teneur selon le ch. I de l’O du 3 avr. 2019, en vigueur du 1<sup>er</sup> juin 2019 au 31 déc. 2022 ([RO 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270)).
+[^24-3]: Nouvelle teneur selon le ch. I de l’O du 3 avr. 2019, en vigueur du 1<sup>er</sup> juin 2019 31 déc. 2030 ([RO 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270); [2022 772](https://fedlex.data.admin.ch/eli/oc/2022/772)).
 
 #### Art. 24a et 24b
 
@@ -781,17 +825,45 @@ La société nationale du réseau de transport présente un rapport à l’ElCom
 [^26-2]: [RS 730.03](https://fedlex.data.admin.ch/eli/cc/2017/766)
 [^26-3]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)).
 
-## Chapitre 4*a* Informations relatives au marché de gros de l’électricité
+## Chapitre 4*a* Projets pilotes
 
 [^chap4a-1]
 
-[^chap4a-1]: Introduit par le ch. I de l’O du 30 janv. 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 559](https://fedlex.data.admin.ch/eli/oc/2013/108)).
+[^chap4a-1]: Introduit par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 772](https://fedlex.data.admin.ch/eli/oc/2022/772)).
 
 #### Art. 26a
 
-**Devoir d’information**
+<sup>1</sup>
 
-<sup>1</sup> Quiconque a son siège ou son domicile en Suisse, participe à un marché de gros de l’électricité dans l’UE et est tenu, en vertu du règlement (UE) n<sup>o</sup> 1227/2011[^26a-1], de fournir des informations aux autorités de l’UE ou des États membres, doit communiquer, simultanément et sous la même forme, les mêmes informations à l’ElCom.
+La demande portant sur un projet pilote est soumise au DETEC. Elle comprend toutes les indications nécessaires à l’examen des conditions visées à l’art. 23*a* LApEl, en particulier:
+
+- a. l’objet et le but du projet;
+- b. l’organisation du projet;
+- c. les modalités de participation au projet;
+- d. le lieu et la durée du projet;
+- e. les dispositions de la LApEl auxquelles il est nécessaire de déroger.
+
+<sup>2</sup> S’il résulte de l’examen de la demande que celle-ci peut être acceptée, le DETEC édicte une ordonnance qui règle les conditions-cadres du projet (art. 23*a*, al. 3, LApEl). Il peut associer des experts à l’évaluation des demandes. Il statue sur la demande par voie de décision.
+
+<sup>3</sup> Sur la base d’une ordonnance telle que visée à l’al. 2, d’autres demandes peuvent être acceptées pour des projets pilotes analogues.
+
+<sup>4</sup> L’indemnisation des coûts de réseau non couverts visés à l’art. 23*a*, al. 4, LApEl requiert une autorisation du DETEC. La société nationale du réseau de transport indemnise le gestionnaire de réseau pour les coûts de réseau non couverts en se basant sur cette autorisation.
+
+<sup>5</sup> Le détenteur de l’autorisation du projet évalue les résultats du projet dans un rapport final. Il met le rapport final et les données et informations nécessaires à l’évaluation à la disposition du DETEC.
+
+<sup>6</sup> Au terme du projet, l’OFEN procède à une évaluation à l’intention du DETEC en vue d’une possible modification de la loi. Il informe le public des projets et des connaissances acquises.
+
+## Chapitre 4*b* Informations relatives au marché de gros de l’électricité
+
+[^chap4b-1]
+
+[^chap4b-1]: Anciennement Chapitre 4*a*. Introduit par le ch. I de l’O du 30 janv. 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 559](https://fedlex.data.admin.ch/eli/oc/2013/108)).
+
+#### Art. 26a<sup>bis</sup>
+
+**Devoir d’information**[^26abis-1]
+
+<sup>1</sup> Quiconque a son siège ou son domicile en Suisse, participe à un marché de gros de l’électricité dans l’UE et est tenu, en vertu du règlement (UE) n<sup>o</sup> 1227/2011[^26abis-2], de fournir des informations aux autorités de l’UE ou des États membres, doit communiquer, simultanément et sous la même forme, les mêmes informations à l’ElCom.
 
 <sup>2</sup>
 
@@ -813,7 +885,8 @@ Sont considérés comme produits de gros, indépendamment du fait qu’ils soien
 - a. les contrats concernant le transport et la fourniture d’électricité n’impliquant pas directement son utilisation par des consommateurs finaux;
 - b. les produits dérivés concernant la production, le commerce, la livraison et le transport d’électricité.
 
-[^26a-1]: R (UE) n<sup>o</sup> 1227/2011 du Parlement européen et du Conseil du 25 oct. 2011 concernant l’intégrité et la transparence du marché de gros de l’énergie (REMIT), version du JO L 326 du 8.12.2011, p. 1.
+[^26abis-1]: Anciennement art. 26*a*.
+[^26abis-2]: R (UE) n<sup>o</sup> 1227/2011 du Parlement européen et du Conseil du 25 oct. 2011 concernant l’intégrité et la transparence du marché de gros de l’énergie (REMIT), version du JO L 326 du 8.12.2011, p. 1.
 
 #### Art. 26b
 
@@ -988,9 +1061,11 @@ Le groupe-bilan pour les énergies renouvelables, les autres groupes-bilan et le
 
 #### Art. 31k
 
-**Fourniture d’électricité conformément à l’art. 6, al. 5<sup>bis</sup>, LApEl**
+**Fourniture d’électricité conformément à l’art. 6, al. 5<sup>bis</sup>, LApEl**[^31k-1]
 
-Les gestionnaires du réseau de distribution peuvent se prévaloir du droit de fournir de l’électricité aux consommateurs finaux avec approvisionnement de base selon les conditions prévues à l’art. 6, al. 5<sup>bis</sup>, LApEl la première fois pour l’année tarifaire 2019 et la dernière fois pour l’année tarifaire 2022.
+Les gestionnaires du réseau de distribution peuvent se prévaloir du droit de fournir de l’électricité aux consommateurs finaux avec approvisionnement de base selon les conditions prévues à l’art. 6, al. 5<sup>bis</sup>, LApEl la première fois pour l’année tarifaire 2019 et la dernière fois pour l’année tarifaire 2030.
+
+[^31k-1]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 772](https://fedlex.data.admin.ch/eli/oc/2022/772)).
 
 ### Section 4*c* Dispositions transitoires relatives à la modification du 25 novembre 2020
 
@@ -998,9 +1073,11 @@ Les gestionnaires du réseau de distribution peuvent se prévaloir du droit de f
 
 [^chap5-sec4c-1]: Introduite par le ch. I de l’O du 25 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6141](https://fedlex.data.admin.ch/eli/oc/2020/1015)).
 
-**Art. 31**l
+#### Art. 31l
 
-<sup>1</sup> Le gestionnaire de réseau peut utiliser et comptabiliser dans les 80 % visés à l’art. 31*e*, al. 1, jusqu’à ce que leur bon fonctionnement ne soit plus garanti, les systèmes de mesure qui comportent des moyens de mesure électroniques avec mesure de la courbe de charge de l’énergie active, un système de communication avec transmission automatique des données et un système de traitement des données mais qui ne répondent pas encore aux exigences des art. 8*a* et 8*b*, si:
+<sup>1</sup>
+
+Le gestionnaire de réseau peut utiliser et comptabiliser dans les 80 % visés à l’art. 31*e*, al. 1, jusqu’à ce que leur bon fonctionnement ne soit plus garanti, les systèmes de mesure qui comportent des moyens de mesure électroniques avec mesure de la courbe de charge de l’énergie active, un système de communication avec transmission automatique des données et un système de traitement des données mais qui ne répondent pas encore aux exigences des art. 8*a* et 8*b*, si:
 
 - a. ces systèmes ont été installés avant le 1<sup>er</sup> janvier 2018, ou que
 - b. leur acquisition a débuté avant le 1<sup>er</sup> janvier 2019.
@@ -1014,6 +1091,16 @@ Les gestionnaires du réseau de distribution peuvent se prévaloir du droit de f
 <sup>5</sup> Les dispositions de l’art. 31*f* sont applicables par analogie à l’utilisation de systèmes de commande et de réglage intelligents dans les installations de production et chez les agents de stockage.
 
 <sup>6</sup> Les systèmes de mesure intelligents qui ne permettent pas au consommateur final, au producteur ou à l’exploitant de stockage de consulter et de télécharger ses données de mesure comme prescrit à l’art. 8*a*, al. 1, let. a, ch. 3, et al. 2, let. c, doivent être mis à niveau dans les meilleurs délais, mais au plus tard le 30 juin 2021. Les exceptions prévues aux al. 1 et 2 demeurent réservées.
+
+### Section 4*d* Disposition transitoire relative à la modification du 23 novembre 2022
+
+[^chap5-sec4d-1]
+
+[^chap5-sec4d-1]: Introduite par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 772](https://fedlex.data.admin.ch/eli/oc/2022/772)).
+
+#### Art. 31m
+
+Les nouvelles dispositions relatives aux différences de couverture s’appliquent pour la première fois aux différences de couverture de l’exercice suivant l’entrée en vigueur.
 
 ### Section 5 Entrée en vigueur
 

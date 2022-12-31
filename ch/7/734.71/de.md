@@ -4,11 +4,11 @@ title: Stromversorgungsverordnung vom 14. März 2008 (StromVV)
 short: StromVV
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/226"
 language: de
-version: 2022-10-01
+version: 2023-01-01
 adopted: 2008-03-14
 in_force: 2008-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/226/20221001/de/xml/fedlex-data-admin-ch-eli-cc-2008-226-20221001-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/226/20221001/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/226/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2008-226-20230101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/226/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/226/20221001/de"
 
 (StromVV)
 
-vom 14. März 2008 (Stand am 1. Oktober 2022)
+vom 14. März 2008 (Stand am 1. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -114,7 +114,7 @@ Soweit der Verteilnetzbetreiber die Elektrizität für Lieferungen nach Artikel 
 
 <sup>5</sup> Nicht nach Artikel 6 Absatz 5<sup>bis</sup> StromVG eingerechnet werden dürfen die Kosten von Elektrizität aus Erzeugungsanlagen, die im Einspeisevergütungssystem sind, von einer Mehrkostenfinanzierung oder von vergleichbaren kantonalen oder kommunalen Unterstützungen profitieren.
 
-[^4-1]: Fassung gemäss Ziff. I der V vom 3. April 2019, in Kraft vom 1. Juni 2019 bis zum 31. Dez. 2022 ([AS 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270)).
+[^4-1]: Fassung gemäss Ziff. I der V vom 3. April 2019, in Kraft vom 1. Juni 2019 bis zum 31. Dez. 2030 ([AS 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270); [2022 772](https://fedlex.data.admin.ch/eli/oc/2022/772)).
 [^4-2]: [SR 730.03](https://fedlex.data.admin.ch/eli/cc/2017/766)
 [^4-3]: [AS 1999 207](https://fedlex.data.admin.ch/eli/oc/1999/28), [2016 4617](https://fedlex.data.admin.ch/eli/oc/2016/746)
 [^4-4]: Fassung gemäss Ziff. III der V vom 23. Okt. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 3479](https://fedlex.data.admin.ch/eli/oc/2019/635)).
@@ -133,7 +133,12 @@ Stammt die nach Artikel 6 Absatz 5<sup>bis</sup> StromVG gelieferte Elektrizitä
 
   - 1\. Wurde die Einmalvergütung vor der Beschaffung definitiv festgesetzt, so wird dieser Betrag abgezogen.
   - 2\. Wurde die Einmalvergütung noch nicht definitiv festgesetzt, so wird ein Abzug vorgenommen, sobald das Projekt in die Warteliste aufgenommen wird; die Höhe des Abzugs bestimmt sich nach den Artikeln 7 und 38 EnFV[^4a-2].
-  - 3\. Werden die Beschaffungskosten eingerechnet (Art. 4 Abs. 3), so werden, unabhängig davon, ob eine Einmalvergütung zugesprochen worden ist, pauschal 20 Prozent des jeweils massgeblichen Vergütungssatzes abgezogen.
+  - 3\.[^4a-3]
+
+    Werden die Beschaffungskosten eingerechnet (Art. 4 Abs. 3), so werden unabhängig davon, ob eine Einmalvergütung zugesprochen worden ist, abgezogen:
+
+    - – bei Anlagen, die ab dem 1. Januar 2023 in Betrieb genommen werden und die gesamte produzierte Elektrizität einspeisen: 40 Prozent des jeweils massgeblichen Vergütungssatzes;
+    - – bei den übrigen Anlagen: 20 Prozent des jeweils massgeblichen Vergütungssatzes.
 
 - b.
 
@@ -146,8 +151,9 @@ Stammt die nach Artikel 6 Absatz 5<sup>bis</sup> StromVG gelieferte Elektrizitä
 
 <sup>3</sup> Weitere vergleichbare Unterstützungen, einschliesslich kantonale oder kommunale Unterstützungen, werden sinngemäss berücksichtigt.
 
-[^4a-1]: Eingefügt durch Ziff. I der V vom 3. April 2019, in Kraft vom 1. Juni 2019 bis zum 31. Dez. 2022 ([AS 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270)).
+[^4a-1]: Eingefügt durch Ziff. I der V vom 3. April 2019, in Kraft vom 1. Juni 2019 bis zum 31. Dez. 2030 ([AS 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270); [2022 772](https://fedlex.data.admin.ch/eli/oc/2022/772)).
 [^4a-2]: [SR 730.03](https://fedlex.data.admin.ch/eli/cc/2017/766)
+[^4a-3]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft vom 1. Jan. 2023 bis zum 31. Dez. 2030 ([AS 2022 772](https://fedlex.data.admin.ch/eli/oc/2022/772)).
 
 #### Art. 4b
 
@@ -157,7 +163,7 @@ Stammt die nach Artikel 6 Absatz 5<sup>bis</sup> StromVG gelieferte Elektrizitä
 
 <sup>2</sup> Der Verteilnetzbetreiber ist verpflichtet, der ElCom Erhöhungen der Elektrizitätstarife mit der den Endverbrauchern mitgeteilten Begründung bis spätestens zum 31. August zu melden.
 
-[^4b-1]: Eingefügt durch Ziff. I der V vom 3. April 2019, in Kraft vom 1. Juni 2019 bis zum 31. Dez. 2022 ([AS 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270)).
+[^4b-1]: Eingefügt durch Ziff. I der V vom 3. April 2019, in Kraft vom 1. Juni 2019 bis zum 31. Dez. 2030 ([AS 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270); [2022 772](https://fedlex.data.admin.ch/eli/oc/2022/772)).
 
 #### Art. 4c
 
@@ -167,7 +173,24 @@ Stammt die nach Artikel 6 Absatz 5<sup>bis</sup> StromVG gelieferte Elektrizitä
 
 <sup>2</sup> Stammt die gelieferte Elektrizität nicht aus Erzeugungsanlagen des Verteilnetzbetreibers, so meldet dieser der ElCom zwecks Plausibilisierung jährlich je Erzeugungstechnologie die Liefermenge und den durchschnittlich in die Tarife eingerechneten Preis. In Bezug auf Grosswasserkraftanlagen mit einer Leistung von mehr als 10 MW meldet er diese Angaben für jede Erzeugungsanlage einzeln.
 
-[^4c-1]: Eingefügt durch Ziff. I der V vom 3. April 2019, in Kraft vom 1. Juni 2019 bis zum 31. Dez. 2022 ([AS 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270)).
+[^4c-1]: Eingefügt durch Ziff. I der V vom 3. April 2019, in Kraft vom 1. Juni 2019 bis zum 31. Dez. 2030 ([AS 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270); [2022 772](https://fedlex.data.admin.ch/eli/oc/2022/772)).
+
+#### Art. 4d
+
+**Deckungsdifferenzen in der Grundversorgung**[^4d-1]
+
+<sup>1</sup> Stimmt die Summe des Entgelts, das der Verteilnetzbetreiber für die Grundversorgung während eines Tarifjahres erhoben hat, nicht mit den anrechenbaren Energiekosten überein (Deckungsdifferenz), so muss er diese Abweichung innert der nächsten drei Tarifjahre ausgleichen. Bei einer Unterdeckung kann er auf den Ausgleich verzichten.
+
+<sup>2</sup> In begründeten Fällen kann die ElCom den Zeitraum zum Ausgleich einer Deckungsdifferenz verlängern.
+
+<sup>3</sup>
+
+Der Zinssatz, den der Verteilnetzbetreiber gegenüber dem Endverbraucher anwenden muss, entspricht:
+
+- a. bei einer Unterdeckung: höchstens dem Fremdkapitalkostensatz gemäss Anhang 1;
+- b. bei einer Überdeckung: mindestens dem Fremdkapitalkostensatz gemäss Anhang 1.
+
+[^4d-1]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft vom 1. Jan. 2023 bis zum 31. Dez. 2030 ([AS 2022 772](https://fedlex.data.admin.ch/eli/oc/2022/772)).
 
 #### Art. 5
 
@@ -494,9 +517,13 @@ Die Netzbetreiber veröffentlichen die Informationen nach Artikel 12 Absatz 1 St
 
 <sup>2</sup> Endverbraucher mit einem Jahresverbrauch von mindestens 100 MWh, die nicht bereits Elektrizität gestützt auf einen schriftlichen, individuell ausgehandelten Liefervertrag beziehen, können dem Betreiber des Verteilnetzes in ihrem Netzgebiet jeweils bis zum 31. Oktober mitteilen, dass sie von ihrem Anspruch auf Netzzugang ab 1. Januar des folgenden Jahres Gebrauch machen. Damit entfällt die Lieferpflicht des Betreibers des Verteilnetzes nach Artikel 6 StromVG endgültig.
 
+<sup>2bis</sup> Nimmt eine Verbrauchsstätte, für die zuvor bereits einmal vom Anspruch auf Netzzugang Gebrauch gemacht wurde, an einem bereits bestehenden oder neu zu gründenden Zusammenschluss zum Eigenverbrauch teil, so schliesst dies die Lieferpflicht des Betreibers des Verteilnetzes gegenüber dem Zusammenschluss nicht aus. Beansprucht der Zusammenschluss diese Lieferpflicht, so kann der Anspruch auf Netzzugang für die betreffende Verbrauchsstätte frühestens nach Ablauf von sieben Jahren seit ihrer Teilnahme am Zusammenschluss wieder ausgeübt werden.[^11-1]
+
 <sup>3</sup> Ein Endverbraucher mit einem geschätzten Jahresverbrauch von mindestens 100 MWh, der neu an das Verteilnetz angeschlossen wird, teilt dem Netzbetreiber 2 Monate vor Inbetriebnahme seines Anschlusses mit, ob er von seinem Anspruch auf Netzzugang Gebrauch macht.
 
 <sup>4</sup> Anspruch auf Netzzugang haben auch Endverbraucher, die an Elektrizitätsleitungen mit kleiner räumlicher Ausdehnung zur Feinverteilung nach Artikel 4 Absatz 1 Buchstabe a StromVG angeschlossen sind, sofern sie einen Jahresverbrauch von mindestens 100 MWh aufweisen. Die betroffenen Parteien vereinbaren die Modalitäten zur Nutzung dieser Elektrizitätsleitungen.
+
+[^11-1]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 772](https://fedlex.data.admin.ch/eli/oc/2022/772)).
 
 #### Art. 12
 
@@ -671,6 +698,23 @@ Die Netzbetreiber legen transparente und diskriminierungsfreie Richtlinien für 
 
 [^18-1]: Fassung gemäss Ziff. I der V vom 3. April 2019, in Kraft seit 1. Juni 2019 ([AS 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270)).
 
+#### Art. 18a
+
+**Deckungsdifferenzen im Bereich der Netzkosten**[^18a-1]
+
+<sup>1</sup> Stimmt die Summe des Netznutzungsentgelts, das der Netzbetreiber während eines Tarifjahres erhoben hat, nicht mit den anrechenbaren Netzkosten überein (Deckungsdifferenz), so muss er diese Abweichung innert der nächsten drei Tarifjahre ausgleichen. Bei einer Unterdeckung kann er auf den Ausgleich verzichten.
+
+<sup>2</sup> In begründeten Fällen kann die ElCom den Zeitraum zum Ausgleich einer Deckungsdifferenz verlängern.
+
+<sup>3</sup>
+
+Der Zinssatz, den der Netzbetreiber gegenüber dem Endverbraucher anwenden muss, entspricht:
+
+- a. bei einer Unterdeckung: höchstens dem Fremdkapitalkostensatz gemäss Anhang 1;
+- b. bei einer Überdeckung: mindestens dem Fremdkapitalkostensatz gemäss Anhang 1.
+
+[^18a-1]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 772](https://fedlex.data.admin.ch/eli/oc/2022/772)).
+
 #### Art. 19
 
 **Effizienzvergleiche, Überprüfung der Netznutzungs- und Elektrizitätstarife**
@@ -748,7 +792,7 @@ Die nationale Netzgesellschaft erstattet der ElCom Bericht über die Handhabung 
 
 [^24-1]: Fassung gemäss Ziff. I der V vom 1. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)).
 [^24-2]: [SR 730.03](https://fedlex.data.admin.ch/eli/cc/2017/766)
-[^24-3]: Fassung gemäss Ziff. I der V vom 3. April 2019, in Kraft vom 1. Juni 2019 bis zum 31. Dez. 2022 ([AS 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270)).
+[^24-3]: Fassung gemäss Ziff. I der V vom 3. April 2019, in Kraft vom 1. Juni 2019 bis zum 31. Dez. 2030 ([AS 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270); [2022 772](https://fedlex.data.admin.ch/eli/oc/2022/772)).
 
 #### Art. 24a und 24b
 
@@ -783,17 +827,45 @@ Die nationale Netzgesellschaft erstattet der ElCom Bericht über die Handhabung 
 [^26-2]: [SR 730.03](https://fedlex.data.admin.ch/eli/cc/2017/766)
 [^26-3]: Fassung gemäss Ziff. I der V vom 1. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)).
 
-## 4*a*. Kapitel: Informationen zum Elektrizitätsgrosshandelsmarkt
+## 4*a*. Kapitel: Pilotprojekte
 
 [^chap4a-1]
 
-[^chap4a-1]: Eingefügt durch Ziff. I der V vom 30. Jan. 2013, in Kraft seit 1. Juli 2013 ([AS 2013 559](https://fedlex.data.admin.ch/eli/oc/2013/108)).
+[^chap4a-1]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 772](https://fedlex.data.admin.ch/eli/oc/2022/772)).
 
 #### Art. 26a
 
-**Informationspflicht**
+<sup>1</sup>
 
-<sup>1</sup> Wer Sitz oder Wohnsitz in der Schweiz hat, an einem Elektrizitätsgrosshandelsmarkt in der EU teilnimmt und aufgrund der Verordnung (EU) Nr. 1227/2011 (EU-REMIT-Verordnung)[^26a-1] verpflichtet ist, den Behörden der EU oder der Mitgliedstaaten Informationen zu liefern, muss die gleichen Informationen gleichzeitig und in gleicher Form auch der ElCom liefern.
+Das Gesuch für ein Pilotprojekt ist beim UVEK einzureichen. Es muss alle Angaben enthalten, die für die Überprüfung der Voraussetzungen nach Artikel 23*a* StromVG erforderlich sind, insbesondere:
+
+- a. den Gegenstand und das Ziel des Projekts;
+- b. die Projektorganisation;
+- c. die Modalitäten zur Teilnahme am Projekt;
+- d. den Ort und die Dauer des Projekts;
+- e. die Bestimmungen des StromVG, von denen abgewichen werden soll.
+
+<sup>2</sup> Ergibt die Prüfung des Gesuchs, dass dieses bewilligt werden kann, so erlässt das UVEK eine Verordnung, in der die Rahmenbedingungen für das Projekt geregelt sind (Art. 23*a* Abs. 3 StromVG). Das UVEK kann zur Beurteilung der Gesuche Sachverständige beiziehen. Es entscheidet mit Verfügung über das Gesuch.
+
+<sup>3</sup> Gestützt auf eine Verordnung nach Absatz 2 können weitere Gesuche für entsprechende Pilotprojekte bewilligt werden.
+
+<sup>4</sup> Vergütungen für ungedeckte Netzkosten nach Artikel 23*a* Absatz 4 StromVG bedürfen einer Bewilligung des UVEK. Die nationale Netzgesellschaft vergütet dem Netzbetreiber gestützt auf die Bewilligung die ungedeckten Netzkosten.
+
+<sup>5</sup> Die Ergebnisse des Projekts sind vom Inhaber der Projektbewilligung in einem Schlussbericht auszuwerten. Der Schlussbericht und die zur Evaluation notwendigen Daten und Informationen sind dem UVEK zur Verfügung zu stellen.
+
+<sup>6</sup> Das BFE führt nach Abschluss des Projekts und im Hinblick auf den möglichen Erlass einer Gesetzesänderung zuhanden des UVEK eine Evaluation durch. Es informiert die Öffentlichkeit über die Projekte und über die gewonnenen Erkenntnisse.
+
+## 4*b*. Kapitel: Informationen zum Elektrizitätsgrosshandelsmarkt
+
+[^chap4b-1]
+
+[^chap4b-1]: Ursprünglich: 4*a*. Kapitel. Eingefügt durch Ziff. I der V vom 30. Jan. 2013, in Kraft seit 1. Juli 2013 ([AS 2013 559](https://fedlex.data.admin.ch/eli/oc/2013/108)).
+
+#### Art. 26a<sup>bis</sup>
+
+**Informationspflicht**[^26abis-1]
+
+<sup>1</sup> Wer Sitz oder Wohnsitz in der Schweiz hat, an einem Elektrizitätsgrosshandelsmarkt in der EU teilnimmt und aufgrund der Verordnung (EU) Nr. 1227/2011 (EU-REMIT-Verordnung)[^26abis-2] verpflichtet ist, den Behörden der EU oder der Mitgliedstaaten Informationen zu liefern, muss die gleichen Informationen gleichzeitig und in gleicher Form auch der ElCom liefern.
 
 <sup>2</sup>
 
@@ -815,7 +887,8 @@ Als Grosshandelsprodukte gelten, unabhängig davon, ob sie an der Börse oder au
 - a. Verträge betreffend die Übertragung und die Lieferung von Elektrizität, bei denen es nicht unmittelbar um die Nutzung durch Endverbraucher geht;
 - b. Derivate betreffend die Erzeugung, den Handel, die Lieferung und den Transport von Elektrizität.
 
-[^26a-1]: Verordnung (EU) Nr. 1227/2011 des Europäischen Parlaments und des Rates vom 25. Okt. 2011 über die Integrität und Transparenz des Energiegrosshandelsmarkts, Fassung gemäss ABl. L 326 vom 8.12.2011, S. 1.
+[^26abis-1]: Ursprünglich: Art. 26*a*.
+[^26abis-2]: Verordnung (EU) Nr. 1227/2011 des Europäischen Parlaments und des Rates vom 25. Okt. 2011 über die Integrität und Transparenz des Energiegrosshandelsmarkts, Fassung gemäss ABl. L 326 vom 8.12.2011, S. 1.
 
 #### Art. 26b
 
@@ -988,9 +1061,11 @@ Die Bilanzgruppe für erneuerbare Energien, die übrigen Bilanzgruppen und die N
 
 #### Art. 31k
 
-**Lieferung von Elektrizität nach Artikel 6 Absatz 5<sup>bis</sup> StromVG**
+**Lieferung von Elektrizität nach Artikel 6 Absatz 5<sup>bis</sup> StromVG**[^31k-1]
 
-Vom Recht, Endverbraucher mit Grundversorgung nach den Bedingungen von Artikel 6 Absatz 5<sup>bis</sup> StromVG mit Elektrizität zu beliefern, dürfen die Verteilnetzbetreiber erstmals für das Tarifjahr 2019 und letztmals für das Tarifjahr 2022 Gebrauch machen.
+Vom Recht, Endverbraucher mit Grundversorgung nach den Bedingungen von Artikel 6 Absatz 5<sup>bis</sup> StromVG mit Elektrizität zu beliefern, dürfen die Verteilnetzbetreiber erstmals für das Tarifjahr 2019 und letztmals für das Tarifjahr 2030 Gebrauch machen.
+
+[^31k-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 772](https://fedlex.data.admin.ch/eli/oc/2022/772)).
 
 ### 4*c*. Abschnitt: Übergangsbestimmungen zur Änderung vom 25. November 2020
 
@@ -1016,6 +1091,16 @@ Der Netzbetreiber kann Messsysteme, die elektronische Messmittel mit Lastgangmes
 <sup>5</sup> Für den Einsatz von intelligenten Steuer- und Regelsystemen bei Erzeugungsanlagen und Speichern gelten die Regeln von Artikel 31*f* sinngemäss.
 
 <sup>6</sup> Intelligente Messsysteme, die dem Endverbraucher, Erzeuger oder Speicherbetreiber den Abruf und das Herunterladen seiner Messdaten nicht so ermöglichen, wie in Artikel 8*a* Absatz 1 Buchstabe a Ziffer 3 und Absatz 2 Buchstabe c vorgeschrieben, sind umgehend, spätestens aber bis zum 30. Juni 2021 nachzurüsten. Ausnahmen nach den Absätzen 1 und 2 bleiben vorbehalten.
+
+### 4*d*. Abschnitt: Übergangsbestimmung zur Änderung vom 23. November 2022
+
+[^chap5-sec4d-1]
+
+[^chap5-sec4d-1]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 772](https://fedlex.data.admin.ch/eli/oc/2022/772)).
+
+#### Art. 31m
+
+Die neuen Bestimmungen zum Umgang mit Deckungsdifferenzen gelten erstmals für die Deckungsdifferenzen des auf das Inkrafttreten folgenden Geschäftsjahres.
 
 ### 5. Abschnitt: Inkrafttreten
 
