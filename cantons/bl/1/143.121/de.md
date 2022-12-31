@@ -3,20 +3,20 @@ canton: BL
 number: "143.121"
 title: Reglement über die Zuständigkeiten für Ausgabenbewilligungen in der Volkswirtschafts- und Gesundheitsdirektion
 language: de
-version: 2021-03-01
-valid_until: 2022-12-31
-version_adopted: 2021-02-26
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2022-12-20
 adopted: 2018-01-24
 in_force: 2018-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/143.121"
-pdf: "https://bl.clex.ch/api/de/versions/2919/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3493/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement über die Zuständigkeiten für Ausgabenbewilligungen in der Volkswirtschafts- und Gesundheitsdirektion
 
-Vom 24.01.2018 (Stand 01.03.2021)
+Vom 24.01.2018 (Stand 01.01.2023)
 
 Der Vorsteher der Volkswirtschafts- und Gesundheitsdirektion des Kantons Basel-Landschaft,
 
@@ -75,7 +75,9 @@ beschliesst:
 - b. Ausgaben für stationäre Aufenthalte in Spitälern und Kliniken;
 - c. Ausgaben für den Kantonsbeitrag an das SECO für Arbeitsvermittlung und arbeitsmarktliche Massnahmen;
 - d. die Revier- und Pflegebeiträge gemäss der kantonalen Waldgesetzgebung,
-- e. die Förderbeiträge an Organisationen des gemeinnützigen Wohnungsbaus.
+- e. Kantonsbeiträge, Investitionskredite und Betriebshilfedarlehen in Kompetenz der Investitionshilfekommission gemäss § 4 der Verordnung über die Investitionshilfen in der Landwirtschaft[^3-1].
+
+[^3-1]: [SGS 514.11](https://bl.clex.ch/data/514.11/de/art4)
 
 #### § 4
 
