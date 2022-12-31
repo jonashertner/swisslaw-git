@@ -3,20 +3,20 @@ canton: FR
 number: "124.21"
 title: Ordonnance concernant la Feuille officielle
 language: fr
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2022-01-31
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2022-11-14
 adopted: 2010-12-21
 in_force: 2011-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/124.21"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7107/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7640/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
 
 # Ordonnance concernant la Feuille officielle
 
-du 21.12.2010 (version entrée en vigueur le 01.01.2022)
+du 21.12.2010 (version entrée en vigueur le 01.01.2023)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -72,7 +72,7 @@ Arrête:
 
 <sup>1</sup> Les prix pour la Feuille officielle sont les suivants:
 
-- a) Abonnement annuel papier: Fr. 87
+- a) Abonnement annuel papier: Fr. 97
 - b) Abonnement annuel numérique (version électronique + version e-paper): Fr. 78
 - c) Abonnement annuel combiné (papier + numérique): Fr. 97
 - d) Vente au numéro individuel de la version papier: Fr. 2

@@ -3,20 +3,20 @@ canton: FR
 number: "124.21"
 title: Verordnung über das Amtsblatt
 language: de
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2022-01-31
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2022-11-14
 adopted: 2010-12-21
 in_force: 2011-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/124.21"
-pdf: "https://bdlf.fr.ch/api/de/versions/7107/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7640/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über das Amtsblatt
 
-vom 21.12.2010 (Fassung in Kraft getreten am 01.01.2022)
+vom 21.12.2010 (Fassung in Kraft getreten am 01.01.2023)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -72,7 +72,7 @@ beschliesst:
 
 <sup>1</sup> Die Preise für das Amtsblatt sind:
 
-- a) Jahresabonnement Papier: 87 Franken
+- a) Jahresabonnement Papier: 97 Franken
 - b) Jahresabonnement digital (elektronische Version + E-Paper): 78 Franken
 - c) kombiniertes Jahresabonnement (Papier + digital): 97 Franken
 - d) Einzelnummer Papier: 2 Franken
