@@ -4,13 +4,13 @@ number: "111.11"
 title: Anmeldungs- und Registerverordnung
 short: ARV
 language: de
-version: 2022-12-01
-valid_until: 2022-12-31
-version_adopted: 2022-11-29
+version: 2023-01-01
+valid_until: 2024-01-31
+version_adopted: 2023-01-10
 adopted: 2014-05-13
 in_force: 2014-06-01
 url: "https://bl.clex.ch/app/de/texts_of_law/111.11"
-pdf: "https://bl.clex.ch/api/de/versions/3447/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3672/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,9 +19,11 @@ pdf: "https://bl.clex.ch/api/de/versions/3447/pdf_file"
 
 (ARV)
 
-Vom 13.05.2014 (Stand 01.12.2022)
+Vom 13.05.2014 (Stand 01.01.2023)
 
-Der Regierungsrat des Kantons Basel-Landschaft beschliesst:
+Der Regierungsrat des Kantons Basel-Landschaft
+
+beschliesst:
 
 ## 1 Allgemeine Bestimmungen
 
@@ -37,7 +39,7 @@ Der Regierungsrat des Kantons Basel-Landschaft beschliesst:
 
 **Zuständige Stelle (Art. 9 RHG)**
 
-<sup>1</sup> Das Statistische Amt ist die gemäss Art. 9 des Registerharmonisierungsgesetzes (RHG)[^2-1] zuständige Stelle.
+<sup>1</sup> Das Amt für Daten und Statistik ist die gemäss Art. 9 des Registerharmonisierungsgesetzes (RHG)[^2-1] zuständige Stelle.
 
 [^2-1]: [SR 431.02](https://db.clex.ch/link/Bund/431.02/de)
 
@@ -87,12 +89,12 @@ Der Regierungsrat des Kantons Basel-Landschaft beschliesst:
 
 **Familienrechtliche Beziehungen ([§ 2 Abs. 3 Bst. b](https://bl.clex.ch/data/111/de/art2) ARG)**
 
-<sup>1</sup> Familienrechtliche Beziehungen zwischen Personen im selben Haushalt sind diejenigen zwischen
+<sup>1</sup> Familienrechtliche Beziehungen zwischen Personen im selben Haushalt sind diejenigen zwischen:
 
-- a. Ehepartnerinnen und Ehepartnern,
-- b. Partnerinnen und Partnern in eingetragener Partnerschaft,
-- c. Eltern und Kindern,
-- d. Pflegeeltern und Pflegekindern,
+- a. Ehepartnerinnen und Ehepartnern;
+- b. Partnerinnen und Partnern in eingetragener Partnerschaft;
+- c. Eltern und Kindern;
+- d. Pflegeeltern und Pflegekindern;
 - e. …
 
 ## 2 Physische Meldungen
@@ -293,9 +295,9 @@ Der Regierungsrat des Kantons Basel-Landschaft beschliesst:
 
 <sup>1</sup> Das kantonale Personenregister trägt den Namen arbo.
 
-<sup>2</sup> Das Statistische Amt ist für den Vollzug zuständig. Es führt bei sich die Fachstelle Register und wird von den Zentralen Informatikdiensten unterstützt.
+<sup>2</sup> Das Amt für Daten und Statistik ist für den Vollzug zuständig. Es führt bei sich die Fachstelle Register und wird von den Zentralen Informatikdiensten unterstützt.
 
-<sup>3</sup> Der Leiter oder die Leiterin des Statistischen Amts regelt die betriebstechnisch bedingten Zugriffsrechte auf das kantonale Personenregister.
+<sup>3</sup> Der Leiter oder die Leiterin des Amts für Daten und Statistik regelt die betriebstechnisch bedingten Zugriffsrechte auf das kantonale Personenregister.
 
 #### § 9
 
@@ -313,10 +315,10 @@ Der Regierungsrat des Kantons Basel-Landschaft beschliesst:
 
 <sup>2</sup> Sie verwenden dabei:
 
-- a. den vom Statistischen Amt vorgeschriebenen Standard des Vereins eCH,
+- a. den vom Amt für Daten und Statistik vorgeschriebenen Standard des Vereins eCH;
 - b. einen kommunalen Personenidentifikator.
 
-<sup>3</sup> Sie gestalten den kommunalen Personenidentifikator als nicht sprechend und rein nummerisch aus. Bei einem Wechsel der Einwohnerregister-Software ist der kommunale Personenidentifikator beizubehalten.
+<sup>3</sup> Sie gestalten den kommunalen Personenidentifikator als nicht sprechend und rein numerisch aus. Bei einem Wechsel der Einwohnerregister-Software ist der kommunale Personenidentifikator beizubehalten.
 
 [^10-1]: [SR 431.021](https://db.clex.ch/link/Bund/431.021/de)
 
@@ -324,11 +326,11 @@ Der Regierungsrat des Kantons Basel-Landschaft beschliesst:
 
 **Einwohnerregister-Software ([§ 11 Abs. 3 Bst. b](https://bl.clex.ch/data/111/de/art11) ARG)**
 
-<sup>1</sup> Die Einwohnergemeinden verwenden für ihre Einwohnerregister diejenigen Softwares, die vom Statistischen Amt grundsätzlich zugelassen sind.
+<sup>1</sup> Die Einwohnergemeinden verwenden für ihre Einwohnerregister diejenigen Softwares, die vom Amt für Daten und Statistik grundsätzlich zugelassen sind.
 
-<sup>2</sup> Die Zulassung richtet sich nach der vermuteten Tauglichkeit für die Meldungen ans Kantonale Personenregister. Ein Anspruch auf Zulassung besteht nicht.
+<sup>2</sup> Die Zulassung richtet sich nach der vermuteten Tauglichkeit für die Meldungen ans kantonale Personenregister. Ein Anspruch auf Zulassung besteht nicht.
 
-<sup>3</sup> Das Statistische Amt ermöglicht den Einwohnergemeinden, die Softwares vor der Anschaffung auf Tauglichkeit hin zu prüfen.
+<sup>3</sup> Das Amt für Daten und Statistik ermöglicht den Einwohnergemeinden, die Softwares vor der Anschaffung auf Tauglichkeit hin zu prüfen.
 
 <sup>4</sup> Die Finanz- und Kirchendirektion verfügt gegenüber einer Einwohnergemeinde, die eine zugelassene, sich jedoch als untauglich erweisende Software verwendet, die Verwendung einer tauglichen.
 
@@ -367,8 +369,8 @@ Der Regierungsrat des Kantons Basel-Landschaft beschliesst:
 
 <sup>1</sup> Die Daten einer im kantonalen Peronenregister verzeichneten Person werden wie folgt gelöscht:
 
-- a. ein vorangegangenes Datum zu einem Merkmal nach 12 Jahren nach seiner Veränderung,
-- b. alle Daten bei Wegzug aus dem Kanton nach 12 Jahren nach dem Wegzug,
+- a. ein vorangegangenes Datum zu einem Merkmal nach 12 Jahren nach seiner Veränderung;
+- b. alle Daten bei Wegzug aus dem Kanton nach 12 Jahren nach dem Wegzug;
 - c. alle Daten bei Aufgabe des Grundeigentums bei der Aufgabe.
 
 <sup>2</sup> Die Datenlöschung in den Fällen von Abs. 1 Bst. a und b erfolgt am Ende des laufenden Kalenderjahres, diejenige im Falle von Abs. 1 Bst. c nach Eingang der Meldung.
@@ -381,7 +383,7 @@ Der Regierungsrat des Kantons Basel-Landschaft beschliesst:
 
 **Abfragerecht ([§ 14 Abs. 1](https://bl.clex.ch/data/111/de/art14) ARG)**
 
-<sup>1</sup> Das Recht zur Abfrage aus dem Kantonalen Personenregister ist ein Dauerabfragerecht oder ein Einmalabfragerecht.
+<sup>1</sup> Das Recht zur Abfrage aus dem kantonalen Personenregister ist ein Dauerabfragerecht oder ein Einmalabfragerecht.
 
 ### 4.1 Dauerabfragerecht
 
@@ -393,10 +395,10 @@ Der Regierungsrat des Kantons Basel-Landschaft beschliesst:
 
 <sup>2</sup> Für jede abfrageberechtigte Stelle oder jeden ihrer Aufgabenbereiche ist festgelegt:
 
-- a. die dieser oder diesem zugänglichen Personenkategorien und -gruppen (kurz: zugängliche Datenbestände),
-- b. die dieser oder diesem zugänglichen Daten nach aktuellem Stand sowie nach vorangegangenen Ständen (kurz: zugängliche Datenstände),
-- c. die dieser oder diesem zugänglichen Daten nach Merkmalen (kurz: zugängliche Daten),
-- d. ob ihr der kantonale Personenidentifikator bekanntgegeben wird,
+- a. die dieser oder diesem zugänglichen Personenkategorien und -gruppen (kurz: zugängliche Datenbestände);
+- b. die dieser oder diesem zugänglichen Daten nach aktuellem Stand sowie nach vorangegangenen Ständen (kurz: zugängliche Datenstände);
+- c. die dieser oder diesem zugänglichen Daten nach Merkmalen (kurz: zugängliche Daten);
+- d. ob ihr der kantonale Personenidentifikator bekanntgegeben wird;
 - e. ob ihre Abfragen vollständig oder ohne die abgefragte Person protokolliert werden.
 
 #### § 18
@@ -407,10 +409,10 @@ Der Regierungsrat des Kantons Basel-Landschaft beschliesst:
 
 <sup>2</sup> Der Antrag umfasst formell die Ergänzung des Anhangs II, in der pro abfrageberechtigter Stelle oder Aufgabenbereich beantragt wird:
 
-- a. die zur Abfrage zugänglichen Datenbestände,
-- b. die zur Abfrage zugänglichen Datenstände,
-- c. die zur Abfrage zugänglichen Daten der einzelnen Merkmale, zitiert nach eidgenössischem Registerharmonisierungsgesetz und kantonalem Anmeldungs- und Registergesetz,
-- d. gegebenenfalls die Bekanntgabe des kantonalen Personenidentifikators,
+- a. die zur Abfrage zugänglichen Datenbestände;
+- b. die zur Abfrage zugänglichen Datenstände;
+- c. die zur Abfrage zugänglichen Daten der einzelnen Merkmale, zitiert nach eidgenössischem Registerharmonisierungsgesetz und kantonalem Anmeldungs- und Registergesetz;
+- d. gegebenenfalls die Bekanntgabe des kantonalen Personenidentifikators;
 - e. gegebenenfalls die Protokollierung der Abfragen ohne diejenige der abgefragten Person.
 
 #### § 19
@@ -437,13 +439,13 @@ Der Regierungsrat des Kantons Basel-Landschaft beschliesst:
 
 <sup>1</sup> Die antragstellende Direktion bzw. die Landeskanzlei fasst die Begründung des Antrags wie folgt ab:
 
-- a. detaillierte Beschreibung der datenrelevanten Gesetzesvollzugsaufgaben und -tätigkeiten,
-- b. präzise Angabe der gesetzlichen Grundlage der datenrelevanten Gesetzesvollzugsaufgaben und -tätigkeiten,
+- a. detaillierte Beschreibung der datenrelevanten Gesetzesvollzugsaufgaben und -tätigkeiten;
+- b. präzise Angabe der gesetzlichen Grundlage der datenrelevanten Gesetzesvollzugsaufgaben und -tätigkeiten;
 - c. Auflistung der für die Gesetzesvollzugsaufgaben und -tätigkeiten benötigten Datenbestände, Datenstände und Daten;
 - d. Ausführungen zur gegebenenfalls beantragten Bekanntgabe des kantonalen Personenidentifikators;
 - e. Ausführungen zur gegebenenfalls beantragten Protokollierung der Abfragen ohne diejenige der abgefragten Person.
 
-<sup>2</sup> Sie benützt dazu einen vom Statistischen Amt erstellten Raster.
+<sup>2</sup> Sie benützt dazu einen vom Amt für Daten und Statistik erstellten Raster.
 
 <sup>3</sup> Sie legt der Begründung eine Erklärung ihres Generalsekretärs oder ihrer Generalsekretärin bei, worin dieser oder diese die rechtliche Richtigkeit bestätigt.
 
@@ -457,7 +459,7 @@ Der Regierungsrat des Kantons Basel-Landschaft beschliesst:
 
 <sup>3</sup> Die 5 Stellen nehmen im Mitbericht folgende Prüfung vor:
 
-- a. Statistisches Amt: insbesondere technische und zeitliche Machbarkeit des Anschlusses an das Personenregister sowie die Projektführung für den Anschluss;
+- a. Amt für Daten und Statistik: insbesondere technische und zeitliche Machbarkeit des Anschlusses an das Personenregister sowie die Projektführung für den Anschluss;
 - b. Zentrale Informatik: technische und zeitliche Machbarkeit des Anschlusses an das Personenregister;
 - c. Rechtsdienst von Regierungsrat und Landrat: Plausibilität der Richtigkeit der angegebenen gesetzlichen Grundlage;
 - d. Finanzverwaltung: finanzrechtliche Prüfung;
@@ -481,13 +483,13 @@ Der Regierungsrat des Kantons Basel-Landschaft beschliesst:
 
 <sup>1</sup> Die abfrageberechtigte Stelle trägt die Kosten des Abfragebetriebs. Diese umfassen insbesondere technische Anpassungen für die Übermittlung abgefragter Daten sowie technische Anpassungen auf ihrer Seite.
 
-<sup>2</sup> Die Leiterin oder der Leiter der abfrageberechtigten Stelle bzw. des abfrageberechtigten Aufgabenbereichs
+<sup>2</sup> Die Leiterin oder der Leiter der abfrageberechtigten Stelle bzw. des abfrageberechtigten Aufgabenbereichs:
 
 - a. meldet der Fachstelle Register schriftlich die abfrageberechtigten Personen der Stelle oder der einzelnen Aufgabenbereiche;
-- b. nimmt die Meldung gemäss Buchstabe a unverzüglich nach Erteilung oder nach Aufhebung der Abfrageberechtigung vor;
+- b. nimmt die Meldung gemäss Bst. a unverzüglich nach Erteilung oder nach Aufhebung der Abfrageberechtigung vor;
 - c. beaufsichtigt die Abfragen der abfrageberechtigten Personen;
 - d. kann von der Fachstelle Register die Protokolle der Abfragen verlangen, die von einer abfragenden Person vorgenommen worden sind;
-- e. entzieht bei Abfragemissbrauch der fehlbaren Person die Abfrageberechtigung und nimmt die Meldung gemäss Buchstabe b vor.
+- e. entzieht bei Abfragemissbrauch der fehlbaren Person die Abfrageberechtigung und nimmt die Meldung gemäss Bst. b vor.
 
 #### § 24
 
@@ -497,7 +499,7 @@ Der Regierungsrat des Kantons Basel-Landschaft beschliesst:
 
 <sup>2</sup> Kollektivstellen sind die Verwaltungen der Einwohnergemeinden, der gemeinsamen Sozialhilfebehörden, der Kindes- und Erwachsenenschutzbehörden, der Bürgergemeinden sowie der Kirchgemeinden.
 
-<sup>3</sup> Für die Kollektivstellen gelten die §§ 18 bis 22 analog.
+<sup>3</sup> Für die Kollektivstellen gelten die §§ 18–22 analog.
 
 #### § 25
 
@@ -527,9 +529,9 @@ Der Regierungsrat des Kantons Basel-Landschaft beschliesst:
 
 <sup>1</sup> Ein Einmalabfragerecht bedarf der Bewilligung des Regierungsrats. Es wird in Anhang II nicht eingetragen.
 
-<sup>2</sup> Für die Bewilligung gelten die §§ 18 bis 20 sinngemäss.
+<sup>2</sup> Für die Bewilligung gelten die §§ 18–20 sinngemäss.
 
-<sup>3</sup> Vor dem Bewilligungsantrag ist der Mitbericht des Statistischen Amts einzuholen.
+<sup>3</sup> Vor dem Bewilligungsantrag ist der Mitbericht des Amts für Daten und Statistik einzuholen.
 
 ### 4.3 Besondere Bestimmungen
 
