@@ -3,20 +3,20 @@ canton: BL
 number: "941.13"
 title: Verordnung über die Pflegeheimliste
 language: de
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-12-14
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2022-11-29
 adopted: 1995-12-05
 in_force: 1996-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/941.13"
-pdf: "https://bl.clex.ch/api/de/versions/3172/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3462/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Pflegeheimliste
 
-Vom 05.12.1995 (Stand 01.01.2022)
+Vom 05.12.1995 (Stand 01.01.2023)
 
 Der Regierungsrat,
 
