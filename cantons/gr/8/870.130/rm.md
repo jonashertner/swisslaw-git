@@ -1,232 +1,334 @@
 ---
 canton: GR
 number: "870.130"
-title: "Ordinaziun da taxas per prestaziuns da l'uffizi per il traffic sin via a favur da possessuras e da possessurs da vehichels a motor *"
+title: Ordinaziun davart las taxas per il traffic sin via
 short: OTTV
 language: rm
-version: 2012-06-01
-corrected: 2016-02-04
-version_adopted: 2012-04-16
+version: 2023-01-01
+version_adopted: 2022-11-22
 adopted: 2022-11-22
 in_force: 2023-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/870.130"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2420/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3276/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Ordinaziun da taxas per prestaziuns da l'uffizi per il traffic sin via a favur da possessuras e da possessurs da vehichels a motor
+# Ordinaziun davart las taxas per il traffic sin via
 
-dals 24-10-1977 (versiun dals 01-06-2012)
+(OTTV)
 
-sa basond sin l'art. 16 da l'ordinaziun executiva dal cussegl grond tar la lescha federala davart il traffic sin via[^ingress-1]
+dals 22-11-2022 (versiun dals 01-01-2023)
 
-relaschada da la regenza ils 24 d'october 1977
+Sa basond sin l'art. 45 al. 1 da la Constituziun chantunala[^ingress-1] e sin l'art. 14 da la Lescha introductiva tar la Lescha federala davart il traffic sin via[^ingress-2]
 
-[^ingress-1]: DG [870.100](https://www.gr-lex.gr.ch/data/870.100/rm)
+relaschada da la Regenza ils 22 da november 2022
+
+[^ingress-1]: DG [110.100](https://www.gr-lex.gr.ch/data/110.100/rm)
+[^ingress-2]: DG [870.100](https://www.gr-lex.gr.ch/data/870.100/rm)
+
+## 1. Disposiziuns generalas
 
 #### Art. 1
 
-**Taxas d'examen e da permiss**
+**Object**
 
-<sup>1</sup> Per permiss u midadas da permiss ston vegnir incassadas las suandantas taxas per manischunza u manischunz sco er per vehichel, sch'i na vegn betg fixà insatge auter qua sutvart:
-
-- 1\. En general
-  - a) permiss nov u duplicat: 60.–
-  - b) remplazzament da permiss illegibels, midaments d'insaquala maniera e.u.v.: 20.–
-  - c) emprima concessiun d'in permiss da manischar en il format da cartas da credit (FCC): 70.–
-  - d) remplazzament d'in FCC pervia d'ina perdita u pervia da tutta sort midadas: 50.–
-- 2\. Permiss d'emprender a manischar, elavuraziun da la dumonda: 30.–
-- 3\. Permiss dad ir cun auto
-  - a) barat d'in permiss da manischar ester: 200.–
-  - b) …
-- 4\. Documents dal vehichel
-  - a) permiss nov u duplicat per velos a motor: 30.–
-  - b) permissiun generala per vehichels da cumpensaziun, per onn e vehichel: 30.–
+<sup>1</sup> Questa ordinaziun regla las taxas per ils acts uffizials e per las prestaziuns da l'Uffizi per il traffic sin via en il sectur da l'admissiun da persunas e da vehichels al traffic sin via.
 
 #### Art. 2
 
-**Taxas d'examen**
+**Calculaziun da las taxas**
 
-<sup>1</sup> Per controllar examinaziuns da manischunzas e da manischunzs vegnan incassadas las suandantas taxas:
+<sup>1</sup> Las taxas vegnan incassadas pauschalmain, tenor il temp impundì u a norma da l'infrastructura messa a disposiziun sco er dal material mess a disposiziun.
 
-- 1\. Examens da teoria
-  - a) teoria da basa en gruppas: 35.–
-  - b) teoria supplementara/teoria OAMan: 45.–, betg vegnir a l'examen da teoria senza in motiv plausibel u sa perstgisar main che 5 dis da lavur avant il termin: taxa d'examinaziun cumplaina
-- 2\. Examen pratic da la manischunza e dal manischunz
-  - a) categoria A: 100.–
-  - b) categoria A1: 100.–
-  - c) categoria B: 140.–
-  - d) categoria B1: 140.–
-  - e) categoria C: 200.–
-  - f) categoria C1: 180.–
-  - g) categoria D: 240.–
-  - h) categoria D1: 180.–
-  - i) categoria BE: 140.–
-  - k) categoria CE/C1E/DE/D1E: 200.–
-  - l) categoria F: 140.–
-  - m) categoria G: 140.–
-  - n) categoria M: 100.–
-  - o) examinaziuns parzialas e supplementaras, per 30 min.: 70.–
-  - p) betg vegnir a l'examen pratic senza in motiv plausibel u sa perstgisar main che 5 dis da lavur avant il termin: taxa d'examinaziun cumplaina
-  - q) interrupziun u refusa d'in examen da la manischunza u dal manischunz: taxa d'examinaziun cumplaina
-  - r) per examinaziuns da funcziun tar persunas invalidas sco er per las registraziuns che resultan da quai en il permiss da manischar/resp. en ils documents dal vehichel na vegnan mess a quint nagins custs
-  - s) transports professiunals da persunas : 140.–
-- 3\. Examinaziuns da vehichels c.f. A1
-- 4\. Cas spezials
-  - a) betg vegnir a l'examinaziun dal vehichel senza in motiv plausibel u sa perstgisar main che 5 dis da lavur avant il termin: taxa d'examinaziun cumplaina
-  - b) interrupziun u refusa d'ina examinaziun dal vehichel: taxa d'examinaziun cumplaina
-  - c) examinaziuns supplementaras pervia da mancanzas: 35.– francs per mintga ¼ ura cumenzada fin la taxa d'examinaziun correspundenta
-  - d) surtaxa d'examinaziun: tar las taxas d'examinaziun vegn mess a quint en cas da temp impundì extraordinariamain e da lavur impundida extraordinariamain ina surtaxa d'examinaziun da 70.– francs per mintga ½ ura cumenzada
-  - e) acceptaziun parziala, midadas tecnicas e mancanzas annunziadas da la polizia: 35.– francs per mintga ¼ ura cumenzada
-  - f) elavuraziun da las confermas da reparatura: 20.–
-  - g) en cas ch'in termin permanent resp. ch'in termin per manaschis da garaschas n'è betg vegnì annullà u duvrà entaifer il termin fixà: 35.– francs per mintga ¼ ura cumenzada fin la taxa d'examinaziun correspundenta
-  - h) registrar in'examinaziun d'in vehichel realisada ordaifer il chantun: 20.–
-  - i) permissiun per far la controlla periodica a l'exteriur: 100.–
+<sup>2</sup> Sche las taxas vegnan calculadas tenor il temp impundì, importa la tariffa per ura 140 francs. Per mintga quart d'ura cumenzà vegnan mess a quint 35 francs a la persuna ch'è obligada da pajar la taxa.
+
+<sup>3</sup> Per acts uffizials urgents u per prestaziuns urgentas vegn incassà in supplement. Quest supplement importa almain 20 francs, maximalmain la taxa per l'act uffizial correspundent u per la prestaziun correspundenta.
+
+<sup>4</sup> Ils custs per controllas medicalas e psicologicas sco er per controllas d'auter gener vegnan surpigliads da la persuna petenta. Els ston vegnir pajads supplementarmain a las taxas fixadas.
 
 #### Art. 3
 
-**Taxas e permissiuns spezialas**
+**Taxas senza posiziun da taxas**
 
-<sup>1</sup> Per funcziuns uffizialas e permissiuns spezialas vegnan incassadas las suandantas taxas:
+<sup>1</sup> Sche questa ordinaziun na prevesa nagina taxa per la giurisdicziun gratuita e per l'indemnisaziun da la partida en proceduras administrativas, sa drizza la taxa tenor l'Ordinaziun davart ils custs en proceduras administrativas[^3-1].
 
-- a) retratga poliziala da numers d'immatriculaziun e/u da documents da vehichels: 200.–
-- b) da tuttas sorts certificats: 10.– fin 100.–
-- c) …
-- d) taxa per metter puspè en il traffic incl. taxa da deposit sco er taxa da remessa tar permissiuns spezialas deponidas: 40.–
-- e) …
-- f) prolungaziun da la durada da consegna da numers d'immatriculaziun mintgamai: 50.–
-- g) elavuraziun dal rapport d'examinaziun 13.20 A d'acceptaziun da sasez: 20.–
-- h) examinaziun da la dumonda per l'emprima concessiun d'in document dal vehichel collectiv (numer da la vendidra u dal vendider da vehichels) ed inspecziun al lieu
-  - 1\. per vehichels a motor: 320.–
-  - 2\. per ulteriuras chaussas: 320.–
-  - 3\. per l'examinaziun da controlla periodica: 200.–
-- i) taxa d'elavuraziun tar la concessiun d'in ulteriur document dal vehichel collectiv: 100.–
-- j) elavuraziun code 178: 50.–
-- k) examinaziun d'abilitad da las petentas e dals petents per in document dal vehichel collectiv: 240.–
-- l) examinaziun da la dumonda per l'emprima concessiun da la permissiun per las acceptaziuns da sasez tras in manaschi (inspecziun da l'indriz): 320.–
-- m) instrucziun da las referendarias e dals referendaris: 240.–
-- n) inspecziun da las scolas da manischar: 330.–
-- o) permissiun per far l'examen da manischar en in auter chantun: 30.–
-- p) concessiun da la permissiun per magistras e per magisters d'autoscola: 240.–
-- q) admissiun da la permissiun per instructuras e per instructurs da persunas che fan l'emprendissadi da manischunza u da manischunz da camiuns: 120.–
-- r) …
-- s) valitaziun d'EED, per andament: 200.–
-- t) valitaziun d'EED, retratga collectiva, tenor la glista, mintgamai il minimum: 20.–
-- u) controllas medicinalas, psicologicas, psicotecnicas ed er autras vegnan fatgas a quint da la candidata u dal candidat resp. da la possessura u dal possessur dal permiss
-- v) per funcziuns uffizialas spezialas che n'èn anc betg vegnidas descrittas, p.ex. inspecziuns al lieu, temp impundì per expertisas e.u.v. vegn mess a quint in import da 70.– francs per mes'ura cumenzada
-- w) supplements d'urgenza per funcziuns uffizialas ordaifer ils termins d'elavuraziun usitads u cunvegnas da termins: 20.– francs fin tar la taxa da basa cumplaina
+<sup>2</sup> Sche questa ordinaziun na prevesa nagina taxa per auters acts uffizials u per autras prestaziuns, vegn la taxa calculada tenor ils custs chaschunads sco er tenor l'impurtanza da la prestaziun e tenor l'interess vi da sia realisaziun.
 
-<sup>4</sup> En cas d'engaschaments da lavur extraordinaris ordaifer ils lieus d'examinaziun usitads vegnan mess a quint ils custs supplementars tenor ils princips da la regenza per la cumpensaziun dals custs da producziun.
+<sup>3</sup> Ils princips da calculaziun tenor l'alinea 2 ston er vegnir observads, sche questa ordinaziun prevesa in rom da taxas.
+
+[^3-1]: DG [370.120](https://www.gr-lex.gr.ch/data/370.120/rm)
 
 #### Art. 4
 
-**Numers d'immatriculaziun e tavlas da signal**
+**Renunzia a l'incassament da taxas**
 
-<sup>1</sup> Per numers d'immatriculaziun e per tavlas da signal vegnan incassadas las suandantas taxas:
+<sup>1</sup> Per ils vehichels dal chantun na vegnan incassadas naginas taxas.
 
-- a) numers d'immatriculaziun (pèr): 50.–
-- b) numer singul: 25.–
-- c) tavla da signal: 30.–
-- d) transferiment da numers d'immatriculaziun per numer u pèr da numers, controlla da la dumonda : 180.– (il transferiment da numers d'immatriculaziun tranter conjugals è dispensà da questa taxa.)
+<sup>2</sup> Las persunas cun impediments da mobilitad na pajan naginas taxas per la controlla da la funcziun e per las inscripziuns respectivas en il permiss da manischar u en il document dal vehichel.
 
-<sup>2</sup> Per nettegiar numers d'immatriculaziun restituids u deponids en moda sbagliada vegnan mess a quint 20.– francs a la possessura u al possessur.
-
-<sup>3</sup> Sche l'uffizi per il traffic sin via reparta ad ina possessura u ad in possessur in numer d'immatriculaziun determinà u determinabel tenor lur giavisch, alura è el autorisà d'incassar ina taxa supplementara.
+<sup>3</sup> En il cas singul po ina taxa vegnir relaschada cumplainamain u parzialmain, sch'il pajament è ina direzza incommensurada per la debitura u il debitur u sch'ina dumonda vegn refusada.
 
 #### Art. 5
 
-**Taxas per permissiuns spezialas**
+**Cumpetenza**
 
-<sup>1</sup> Per permissiuns spezialas vegnan incassadas:
+<sup>1</sup> L'Uffizi per il traffic sin via fixescha las taxas.
 
-- 1\. Permissiuns singulas;
-  - 1\.1. taxa per conceder ina permissiun: 50.–
-  - 1\.2. taxa supplementara per il surpassament dals pais legals respectivamain signalisads sin vias lateralas e principalas:
-  - 1\.2.a) per t/km cumenzada sur il pais permess: –.15
-  - 1\.2.b) tar il surpassament dal pais per axa permess s'augmenta la taxa supplementara tenor bustab a) per 25% per mintga tonna cumenzada.
-  - 1\.3. taxa supplementara per il surpassament dals pais legals respectivamain signalisads sin vias naziunalas:
-  - 1\.3.a) fin 30 km traject per 10 t cumenzadas sur il pais permess: 30.–
-  - 1\.3.b) fin 60 km traject per 10 t cumenzadas sur il pais permess: 60.–
-  - 1\.3.c) fin 120 km traject per 10 t cumenzadas sur il pais permess: 120.–
-  - 1\.3.d) fin 240 km traject per 10 t cumenzadas sur il pais permess : 240.–
-  - 1\.3.e) passa 240 km traject per 10 t cumenzadas sur il pais permess : 480.–
-- 2\. Permissiuns permanentas per trassés da vias determinads:
-  - 2\.1. taxa per conceder ina permissiun u in duplicat: 50.–
-  - 2\.2. taxa annuala per vehichels, dals quals la chargia na correspunda betg a las prescripziuns da las mesiras e dal pais sco er vehichels excepziunals che na correspundan betg a las prescripziuns da las mesiras, dal pais e da la rotaziun pervia da lur intent d'utilisaziun u pervia d'auters motivs stringents: 120.–, las permissiuns per ils vehichels da pista valan 3 onns.
-  - 2\.3. traffic a l'intern d'ina interpresa: taxa d'elavuraziun per l'emprima concessiun: 250.–
-- 3\. Custs per examinaziuns supplementaras staticas:
-  - 3\.1. Tar permissiuns spezialas che cundiziuneschan in'examinaziun supplementara statica da construcziuns artifizialas vegnan mess a quint a la petenta u al petent ils custs che resultan da quai tras l'uffizi chantunal da construcziun bassa.
+<sup>2</sup> El decida, sch'ina taxa duai vegnir relaschada cumplainamain u parzialmain.
+
+## 2. Taxas d'admissiun
 
 #### Art. 6
 
-**…**
+**Permiss da manischar**
+
+<sup>1</sup> Las taxas importan:
+
+- a) per emetter in permiss da manischar u in duplicat: — fr. 40.–
+- b) per emetter in permiss da manischar internaziunal: — fr. 40.–
+- c) per remplazzar in permiss da manischar da l'exteriur: — fr. 80.–
 
 #### Art. 7
 
-**…**
+**Permiss per emprender a manischar**
+
+<sup>1</sup> Las taxas importan:
+
+- a) per elavurar ina dumonda da conceder in permiss per emprender a manischar: — fr. 30.–
+- b) per emetter in permiss per emprender a manischar u in duplicat: — fr. 40.–
+
+<sup>2</sup> Per midar il permiss per emprender a manischar sto vegnir pajada ina taxa da 20 francs. Per midadas d'adressa na vegnan incassadas naginas taxas.
 
 #### Art. 8
 
-**Liberaziun da taxas**
+**Document dal vehichel**
 
-<sup>1</sup> Per ils vehichels dal chantun na vegnan incassadas naginas taxas. Davart ulteriuras dumondas da relasch decida l'uffizi per il traffic sin via.
+<sup>1</sup> Las taxas importan:
+
+- a) per emetter in document dal vehichel u in duplicat per in velo a motor: — fr. 20.–
+- b) per emetter documents per auters vehichels u duplicats: — fr. 40.–
+- c) per emetter ina permissiun generala per in vehichel da reserva, per onn e per vehichel: — fr. 30.–
+
+<sup>2</sup> Per midar il document dal vehichel sto vegnir pajada ina taxa da 20 francs. Per midadas d'adressa na vegnan incassadas naginas taxas.
+
+<sup>3</sup> Per l'inscripziun "Scumond da midar possessura u possessur dal vehichel" (code d'elavuraziun 178) sto vegnir pajada ina taxa da 30 francs.
 
 #### Art. 9
 
-**Renovaziun dals numers d'immatriculaziun, da las vignettas e dals permiss per velos a motor**
+**Taxas per numers d'immatriculaziun**
 
-<sup>1</sup> Per renovar ils numers d'immatriculaziun, las vignettas ed ils permiss per velos a motor vegnan incassadas dals posts da distribuziun las suandantas taxas per premias annualas:
+<sup>1</sup> Las taxas per emetter numers d'immatriculaziun importan:
 
-- a) …
-- b) velos a motor
-  - 1\. taxa (numer d'immatriculaziun e/u vignetta) incl. part dals custs administrativs: 25.–
-  - 2\. assicuranza da responsabladad collectiva: tenor il contract da l'assicuranza
-- c) assicuranza d'in di per velos a motor tenor l'artitgel 93 OAC[^9-1]
-  - 1\. per 24 uras: 7.–
-  - 2\. per 48 uras: 9.–
+- a) per mintga pèr: — fr. 40.–
+- b) per in singul numer: — fr. 20.–
+- c) per velos a motor: — fr. 10.–
 
-<sup>2</sup> L'assicuranza da responsabladad collectiva d'in velo a motor che vegn mess en funcziun suenter ils 30 da settember importa la mesadad da la tariffa annuala.
+<sup>2</sup> Per il transferiment d'in singul numer d'immatriculaziun u d'in pèr da numers d'immatriculaziun sto vegnir pajada ina taxa da 120 francs. Questa taxa na vegn betg incassada, sch'ils numers d'immatriculaziun vegnan transferids tranter conjugals ubain tranter partenarias registradas u partenaris registrads.
 
-<sup>3</sup> Tgi che cumprova ch'el haja in'assicuranza da responsabladad suffizienta, na sto betg pajar la premia d'assicuranza collectiva.
+<sup>3</sup> Per puspè metter en circulaziun numers d'immatriculaziun, inclusiv ils custs da deposit, sto vegnir pajada ina taxa da 30 francs.
 
-<sup>4</sup> Da la taxa fixada sut ils bustabs b) e c) restan tschintg francs al post da distribuziun sco indemnisaziun da las expensas.
-
-<sup>5</sup> Per mutaziuns tenor l'artitgel 95 OAC han ils posts da distribuziun il dretg d'incassar tschintg francs.
-
-<sup>6</sup> …
-
-[^9-1]: CS [741.51](https://db.clex.ch/link/Bund/741.51/rm)
+<sup>4</sup> Per prolungar la durada da deposit da numers d'immatriculaziun sto vegnir pajada ina taxa da 30 francs per onn.
 
 #### Art. 10
 
-**Remplazzaments da numers d'immatriculaziun pers e da vignettas per velos a motor**
+**Vignetta per velos a motor**
 
-<sup>1</sup> Numers d'immatriculaziun da velos a motor e vignettas donnegiads, engulads u pers, remplazzan ils posts da distribuziun gratuitamain tras tals cun la medema durada da valaivladad, sch'ins mussa il document dal vehichel.
+<sup>1</sup> Per la consegna da la vignetta per velos a motor vegn per regla incassada ina taxa da basa ed ina taxa per l'assicuranza da responsabladad collectiva.
+
+<sup>2</sup> La taxa da basa importa:
+
+- a) per onn: — fr. 20.–
+- b) per singuls dis: — fr. 5.–
+
+<sup>3</sup> La taxa per l'assicuranza da responsabladad collectiva sa drizza tenor il contract d'assicuranza concludì da l'Uffizi per il traffic sin via.
+
+<sup>4</sup> Igl è pussaivel da far in'assicuranza annuala. Sch'in velo a motor vegn mess en funcziun suenter ils 30 da settember, sto vegnir pajada la mesadad da la taxa annuala. En ils ulteriurs cas vegn incassada la taxa cumplaina.
+
+<sup>5</sup> Igl è pussaivel da far in'assicuranza dal di per 24 uras u per 48 uras.
+
+<sup>6</sup> La taxa per l'assicuranza da responsabladad collectiva na sto betg vegnir pajada, sche la persuna petenta ha in'assicuranza da responsabladad suffizienta.
+
+## 3. Taxas d'examen
 
 #### Art. 11
 
-**Entrada en vigur**
+**Examen da manischar**
 
-<sup>1</sup> Questa ordinaziun entra en vigur il 1. da schaner 1978. La revisiun parziala dals 20 d'avust 1984 entra en vigur il 1. da schaner 1985[^11-1].
+<sup>1</sup> Las taxas per l'examen da teoria importan:
 
-[^11-1]: quella dals 2 d'october 1989 il 1. da schaner 1990; quella dals 23 da november 1993 il 1. da schaner 1994, cun excepziun da l'art. 5 cifra 2 e quella dals 25 da favrer 2003 il 1. d'avrigl 2003
+- a) per la teoria en gruppa: — fr. 35.–
+- b) per la teoria individuala: — fr. 120.–
 
-#### Art. A1
+<sup>2</sup> Las taxas per l'examen da manischar pratic importan:
 
-**Examinaziuns da vehichels (Art. 2 al. 1 cifra 3)**
+- a) per la categoria A: — fr. 80.–
+- b) per la categoria A1: — fr. 80.–
+- c) per la categoria B: — fr. 120.–
+- d) per la categoria B1: — fr. 120.–
+- e) per la categoria C: — fr. 180.–
+- f) per la categoria C1: — fr. 180.–
+- g) per la categoria D: — fr. 240.–
+- h) per la categoria D1: — fr. 180.–
+- i) per la categoria BE: — fr. 120.–
+- j) per la categoria CE/C1E/DE/D1E: — fr. 180.–
+- k) per la categoria F: — fr. 120.–
+- l) per la categoria G: — fr. 120.–
+- m) per la categoria M: — fr. 80.–
+- n) per transports professiunals da persunas: — fr. 120.–
 
-<sup>1</sup>
+<sup>3</sup> Per elavurar ina dumonda da pudair far l'examen da manischar en in auter chantun sto vegnir pajada ina taxa da 30 francs.
 
-<table>
-<tr><th>Vehichel pt en kg</th><th>examinaziuns supplementa-ras</th><th>examinà dal tip</th><th>per part examinà dal tip</th><th>betg examinà dal tip</th></tr>
-<tr><td>fin 1000</td><td>50.–</td><td>50.–</td><td>50.–</td><td>140.–</td></tr>
-<tr><td>fin 3500</td><td>70.–</td><td>70.–</td><td>140.–</td><td>210.–</td></tr>
-<tr><td>fin 6000</td><td>100.–</td><td>100.–</td><td>210.–</td><td>280.–</td></tr>
-<tr><td>fin 12 000</td><td>140.–</td><td>140.–</td><td>230.–</td><td>350.–</td></tr>
-<tr><td>fin 18 000</td><td>210.–</td><td>210.–</td><td>280.–</td><td>420.–</td></tr>
-<tr><td>fin 32 000</td><td>280.–</td><td>280.–</td><td>420.–</td><td>560.–</td></tr>
-<tr><td>sur 32 000</td><td>380.–</td><td>380.–</td><td>490.–</td><td>630.–</td></tr>
-</table>
+#### Art. 12
 
--
+**Examen dals vehichels**
+
+<sup>1</sup> Las taxas per vehichels cun in pais total maximal da 1000 kg importan:
+
+- a) per controllas posteriuras: — fr. 50.–
+- b) per admissiuns omologadas: — fr. 50.–
+- c) per admissiuns parzialmain omologadas: — fr. 100.–
+- d) per admissiuns betg omologadas: — fr. 140.–
+
+<sup>2</sup> Las taxas per vehichels cun in pais total maximal da 3500 kg importan:
+
+- a) per controllas posteriuras: — fr. 70.–
+- b) per admissiuns omologadas: — fr. 70.–
+- c) per admissiuns parzialmain omologadas: — fr. 140.–
+- d) per admissiuns betg omologadas: — fr. 210.–
+
+<sup>3</sup> Las taxas per vehichels cun in pais total maximal da 6000 kg importan:
+
+- a) per controllas posteriuras: — fr. 105.–
+- b) per admissiuns omologadas: — fr. 105.–
+- c) per admissiuns parzialmain omologadas: — fr. 210.–
+- d) per admissiuns betg omologadas: — fr. 280.–
+
+<sup>4</sup> Las taxas per vehichels cun in pais total maximal da 12 000 kg importan:
+
+- a) per controllas posteriuras: — fr. 140.–
+- b) per admissiuns omologadas: — fr. 140.–
+- c) per admissiuns parzialmain omologadas: — fr. 245.–
+- d) per admissiuns betg omologadas: — fr. 350.–
+
+<sup>5</sup> Las taxas per vehichels cun in pais total maximal da 19 500 kg importan:
+
+- a) per controllas posteriuras: — fr. 210.–
+- b) per admissiuns omologadas: — fr. 210.–
+- c) per admissiuns parzialmain omologadas: — fr. 280.–
+- d) per admissiuns betg omologadas: — fr. 350.–
+
+<sup>6</sup> Las taxas per vehichels cun in pais total maximal da 32 000 kg importan:
+
+- a) per controllas posteriuras: — fr. 280.–
+- b) per admissiuns omologadas: — fr. 280.–
+- c) per admissiuns parzialmain omologadas: — fr. 350.–
+- d) per admissiuns betg omologadas: — fr. 420.–
+
+<sup>7</sup> Las taxas per vehichels cun in pais total da passa 32 000 kg importan:
+
+- a) per controllas posteriuras: — fr. 350.–
+- b) per admissiuns omologadas: — fr. 350.–
+- c) per admissiuns parzialmain omologadas: — fr. 420.–
+- d) per admissiuns betg omologadas: — fr. 490.–
+
+<sup>8</sup> Per calcular las taxas per semiremortgas èn decisivs mo dus terzs dal pais total.
+
+#### Art. 13
+
+**Taxas d'examen tenor il temp impundì**
+
+<sup>1</sup> Tenor il temp impundì vegnan incassadas las suandantas taxas d'examen:
+
+- a) per lavurs extraordinarias d'examen;
+- b) per examens parzials e cumplementars;
+- c) per la collaudaziun parziala d'in vehichel;
+- d) per midadas tecnicas d'in vehichel;
+- e) per mancanzas d'in vehichel annunziadas da la polizia;
+- f) per controllas posteriuras pervia da mancanzas; vegnir pajada sto maximalmain la taxa d'admissiun correspundenta;
+- g) per custs supplementars da controllas dals frains da chars annexs agriculs.
+
+#### Art. 14
+
+**Examen betg absolvì**
+
+<sup>1</sup> Tgi che na vegn betg ad in examen u tgi che sa perstgisa memia tard per in examen, e quai senza buns motivs u per atgna culpa, sto pajar la taxa d'examen cumplaina.
+
+<sup>2</sup> Ina possessura u in possessur d'ina garascha che na vegn betg ad in examen u che sa perstgisa memia tard per in examen, e quai senza buns motivs u per atgna culpa, sto pajar ina taxa a norma dal temp impundì chaschunà tras quai, maximalmain la taxa d'examen correspundenta.
+
+<sup>3</sup> Ina perstgisa vala sco retardada, sch'ella n'è betg arrivada il pli tard 5 dis da lavur avant il termin d'examen tar l'Uffizi per il traffic sin via.
+
+#### Art. 15
+
+**Ulteriuras taxas d'examen**
+
+<sup>1</sup> Per elavurar ina conferma da reparatura sto vegnir pajada ina taxa da 20 francs.
+
+<sup>2</sup> Per inscriver ch'in examen dal vehichel saja vegnì fatg ordaifer il chantun sto vegnir pajada ina taxa da 20 francs.
+
+## 4. Ulteriuras taxas
+
+#### Art. 16
+
+**Taxas per differentas permissiuns**
+
+<sup>1</sup> La taxa per elavurar ina permissiun da magistra u magister d'autoscola importa 240 francs.
+
+<sup>2</sup> La taxa per l'admissiun sco instructura u instructur da persunas che fan l'emprendissadi da manischunza u manischunz da camiuns importa 120 francs.
+
+<sup>3</sup> Las taxas da permissiun per la controlla individuala da vehichels omologads importan:
+
+- a) per il curs d'instrucziun: — fr. 240.–
+- b) per l'inspecziun da l'indriz e per las ulteriuras lavurs: — fr. 320.–
+
+#### Art. 17
+
+**Taxas per permissiuns spezialas per vehichels**
+
+<sup>1</sup> Per conceder permissiuns individualas spezialas per vehichels che surpassan ils pais legals u signalisads sin vias principalas e lateralas, vegnan incassadas las suandantas taxas:
+
+- a) ina taxa d'emissiun: — fr. 70.–
+- b) ina taxa per far diever da la via: — fr. 0.15 per t/km
+
+<sup>2</sup> Per conceder permissiuns spezialas per 1 onn per vehichels che surpassan las prescripziuns legalas concernent la massa, concernent il pais, concernent las dimensiuns u concernent il radius, sco er per vehichels excepziunals vegnan incassadas las suandantas taxas:
+
+- a) ina taxa d'emissiun:
+  - 1\. per l'emprima emissiun: — fr. 70.–
+  - 2\. per ina prolungaziun: — fr. 50.–
+- b) ina taxa per far diever da la via: — fr. 120.–
+
+<sup>3</sup> Per conceder las permissiuns spezialas per 3 onns per maschinas da pista vegnan incassadas las suandantas taxas:
+
+- a) ina taxa d'emissiun:
+  - 1\. per l'emprima emissiun: — fr. 70.–
+  - 2\. per ina prolungaziun: — fr. 50.–
+- b) ina taxa per far diever da la via: — fr. 120.–
+
+<sup>4</sup> Per conceder ina permissiun speziala per il traffic entaifer l'areal d'ina interpresa vegnan incassadas las suandantas taxas:
+
+- a) per l'emprima emissiun: — fr. 280.–
+- b) per ina prolungaziun: — fr. 50.–
+
+<sup>5</sup> Sch'ina permissiun speziala premetta ina controlla posteriura da la statica da las construcziuns artifizialas, sto la persuna ch'è obligada da pajar la taxa surpigliar – ultra da las taxas tenor ils alineas 1 fin 3 – ils custs per ils scleriments da l'Uffizi da construcziun bassa u per in'expertisa.
+
+#### Art. 18
+
+**Taxas per documents collectivs**
+
+<sup>1</sup> La taxa per elavurar la dumonda per conceder l'emprim document d'in vehichel collectiv importa 350 francs.
+
+<sup>2</sup> La taxa per conceder in ulteriur document d'in vehichel collectiv importa 140 francs.
+
+#### Art. 19
+
+**Ulteriuras taxas**
+
+<sup>1</sup> Per attestaziuns sto vegnir pajada ina taxa da 10 fin 100 francs, nun ch'igl existia ina regulaziun da taxas speziala.
+
+<sup>2</sup> Per la retratga poliziala d'in numer d'immatriculaziun e/u dal document d'in vehichel sto vegnir pajada ina taxa da 200 francs.
+
+<sup>3</sup> Per l'inspecziun d'autoscolas sto vegnir pajada ina taxa da 240 francs.
+
+<sup>4</sup> Per evaluaziuns EED sto vegnir pajada ina taxa da 20 fin 200 francs per retschertga.
+
+2022-036

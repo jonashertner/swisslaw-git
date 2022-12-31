@@ -1,232 +1,334 @@
 ---
 canton: GR
 number: "870.130"
-title: Gebührenverordnung für Leistungen des Strassenverkehrsamtes zugunsten von Motorfahrzeughaltern
+title: Verordnung über die Gebühren im Strassenverkehr
 short: "Strassenverkehrsgebührenverordnung, StrGebV"
 language: de
-version: 2012-06-01
-corrected: 2016-02-04
-version_adopted: 2012-04-16
+version: 2023-01-01
+version_adopted: 2022-11-22
 adopted: 2022-11-22
 in_force: 2023-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/870.130"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/2420/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3276/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Gebührenverordnung für Leistungen des Strassenverkehrsamtes zugunsten von Motorfahrzeughaltern
+# Verordnung über die Gebühren im Strassenverkehr
 
-Vom 24.10.1977 (Stand 01.06.2012)
+(Strassenverkehrsgebührenverordnung, StrGebV)
 
-Gestützt auf Art. 16 der grossrätlichen Ausführungsverordnung zum Bundesgesetz über den Strassenverkehr[^ingress-1]
+Vom 22.11.2022 (Stand 01.01.2023)
 
-von der Regierung erlassen am 24. Oktober 1977
+Gestützt auf Art. 45 Abs. 1 der Kantonsverfassung[^ingress-1] und Art. 14 des Einführungsgesetzes zum Bundesgesetz über den Strassenverkehr[^ingress-2]
 
-[^ingress-1]: BR [870.100](https://www.gr-lex.gr.ch/data/870.100/de)
+von der Regierung erlassen am 22. November 2022
+
+[^ingress-1]: BR [110.100](https://www.gr-lex.gr.ch/data/110.100/de)
+[^ingress-2]: BR [870.100](https://www.gr-lex.gr.ch/data/870.100/de)
+
+## 1. Allgemeine Bestimmungen
 
 #### Art. 1
 
-**Ausweisgebühren**
+**Gegenstand**
 
-<sup>1</sup> Für Ausweise oder deren Änderungen sind pro Führer oder Fahrzeug, soweit nachstehend nicht etwas anderes bestimmt wird, die folgenden Gebühren zu erheben:
-
-- 1\. Allgemein
-  - a) Neuer Ausweis oder Duplikat: Fr. 60.–
-  - b) Ersatz unleserlicher Ausweise, Änderungen irgendwelcher Art etc.: Fr. 20.–
-  - c) Erstmaliges Ausstellen eines Führerausweises im Kreditkartenformat (FAK): Fr. 70.–
-  - d) Ersatz eines FAK infolge Verlust oder Änderungen irgendwelcher Art: Fr. 50.–
-- 2\. Lernfahrausweise, Bearbeitung des Gesuchs: Fr. 30.–
-- 3\. Führerausweise
-  - a) Austausch eines ausländischen Führerausweises: Fr. 200.–
-  - b) …
-- 4\. Fahrzeugausweise
-  - a) Neuer oder Duplikat für Mofa: Fr. 30.–
-  - b) Generelle Bewilligung für Ersatzfahrzeuge, pro Jahr und Fahrzeug: Fr. 30.–
+<sup>1</sup> Diese Verordnung regelt die Gebühren für die Amtshandlungen und Dienstleistungen des Strassenverkehrsamts im Bereich der Zulassung von Personen und Fahrzeugen zum Strassenverkehr.
 
 #### Art. 2
 
-**Prüfungsgebühren**
+**Gebührenbemessung**
 
-<sup>1</sup> Für die Abnahme der Führerprüfungen werden folgende Gebühren erhoben:
+<sup>1</sup> Die Gebühren werden pauschal, nach Zeitaufwand oder nach Massgabe der zur Verfügung gestellten Infrastruktur sowie des zur Verfügung gestellten Materials erhoben.
 
-- 1\. Theorieprüfungen
-  - a) Basis-Gruppentheorie: Fr. 35.–
-  - b) Zusatztheorie/CZV-Theorie: Fr. 45.– Ohne triftigen Grund zur theoretischen Führerprüfung nicht erscheinen oder sich weniger als fünf Arbeitstage vor einem Termin abmelden: volle Prüfungsgebühr
-- 2\. Praktische Führerprüfung
-  - a) Kategorie A: Fr. 100.–
-  - b) Kategorie A1: Fr. 100.–
-  - c) Kategorie B: Fr. 140.–
-  - d) Kategorie B1: Fr. 140.–
-  - e) Kategorie C: Fr. 200.–
-  - f) Kategorie C1: Fr. 180.–
-  - g) Kategorie D: Fr. 240.–
-  - h) Kategorie D1: Fr. 180.–
-  - i) Kategorie BE: Fr. 140.–
-  - k) Kategorie CE/C1E/DE/D1E: Fr. 200.–
-  - l) Kategorie F: Fr. 140.–
-  - m) Kategorie G: Fr. 140.–
-  - n) Kategorie M: Fr. 100.–
-  - o) Teil- und Ergänzungsprüfungen, pro 30 Min.: Fr. 70.–
-  - p) Ohne triftigen Grund zur praktischen Führerprüfung nicht erscheinen oder sich weniger als fünf Arbeitstage vor einem Termin abmelden: volle Prüfungsgebühr
-  - q) Abbruch oder Zurückweisung einer Führerprüfung: volle Prüfungsgebühr
-  - r) Für Funktionsprüfungen bei Invaliden sowie die daraus resultierenden Eintragungen im Führer-/bzw. Fahrzeugausweis werden keine Kosten belastet.
-  - s) Berufsmässige Personentransporte: Fr. 140.–
-- 3\. Fahrzeugprüfungen siehe unten A1
-- 4\. Besondere Fälle
-  - a) Ohne triftigen Grund zur Fahrzeugprüfung nicht erscheinen oder sich weniger als fünf Arbeitstage vor einem Termin abmelden: volle Prüfungsgebühr
-  - b) Abbruch oder Zurückweisung einer Fahrzeugprüfung: volle Prüfungsgebühr
-  - c) Mängelnachprüfungen: Fr. 35.– pro angebrochene ¼ Stunde bis zur entsprechenden Prüfungsgebühr
-  - d) Prüfungszuschlag: Zu den Prüfungsgebühren wird bei ausserordentlichem Zeit- und Arbeitsaufwand ein Prüfungszuschlag von Fr. 70.– pro angebrochene ½ Stunde verrechnet
-  - e) Teilabnahmen, technische Änderungen und polizeilich gemeldete Mängel: Fr. 35.– pro angebrochene ¼ Stunde
-  - f) Verarbeitung der Reparaturbestätigungen: Fr. 20.–
-  - g) Nicht fristgerechtes Annulieren oder Nichtbenutzen eines Dauertermins bzw. eines Termins für Garagebetriebe: Fr. 35.– pro angebrochene ¼ Stunde bis zur entsprechenden Prüfungsgebühr
-  - h) Erfassen einer ausserkantonal durchgeführten Fahrzeugprüfung: Fr. 20.–
-  - i) Bewilligung zur periodischen Nachprüfung im Ausland: Fr. 100.–
+<sup>2</sup> Sind die Gebühren nach Zeitaufwand zu berechnen, beträgt der Stundenansatz 140 Franken. Für jede angebrochene Viertelstunde werden der gebührenpflichtigen Person 35 Franken belastet.
+
+<sup>3</sup> Für dringende Amtshandlungen oder Dienstleistungen wird ein Zuschlag erhoben. Dieser beträgt mindestens 20 Franken, maximal die Gebühr für die entsprechende Amtshandlung oder Dienstleistung.
+
+<sup>4</sup> Die Kosten für ärztliche, psychologische und andere Untersuchungen hat die gesuchstellende Person zu tragen. Sie sind zusätzlich zu den festgelegten Gebühren geschuldet.
 
 #### Art. 3
 
-**Besondere Gebühren und Bewilligungen**
+**Gebühren ohne Gebührenposition**
 
-<sup>1</sup> Für besondere Amtshandlungen und Bewilligungen werden folgende Gebühren erhoben:
+<sup>1</sup> Sieht diese Verordnung für Kosten, für die unentgeltliche Rechtspflege und für die Parteientschädigung in Verwaltungsverfahren keine Gebühr vor, richtet sich die Gebühr nach der Verordnung über die Kosten in Verwaltungsverfahren[^3-1].
 
-- a) Polizeilicher Einzug von Kontrollschildern und/oder Fahrzeugausweisen: Fr. 200.–
-- b) Bescheinigungen aller Art: Fr. 10.– bis Fr. 100.–
-- c) …
-- d) Wiederinverkehrssetzungs- inkl. Lagergebühr sowie Wiederaushändigungsgebühr bei hinterlegten Sonderbewilligungen: Fr. 40.–
-- e) …
-- f) Verlängerung der Hinterlegungsdauer von Kontrollschildern jeweils: Fr. 50.–
-- g) Bearbeitung des Prüfungsberichtes 13.20 A aus Selbstabnahmen: Fr. 20.–
-- h) Prüfung des Gesuchs bei erstmaliger Erteilung eines Kollektiv-Fahrzeugausweises (Händlerschild) und Augenschein
-  - 1\. für Motorwagen: Fr. 320.–
-  - 2\. übrige: Fr. 320.–
-  - 3\. periodische Kontrollprüfung: Fr. 200.–
-- i) Bearbeitungsgebühr bei Erteilung eines weiteren Kollektiv-Fahrzeugausweises: Fr. 100.–
-- j) Bearbeitung Code 178: Fr. 50.–
-- k) Fähigkeitsprüfung für Bewerber um einen Kollektiv-Fahrzeugausweis: Fr. 240.–
-- l) Prüfung des Gesuchs bei erstmaliger Erteilung der Bewilligung für Selbstabnahmen durch das Gewerbe (Besichtigung der Einrichtung): Fr. 320.–
-- m) Instruktion der Sachbearbeiter: Fr. 240.–
-- n) Inspektion der Fahrschulen: Fr. 330.–
-- o) Bewilligung zum Ablegen der Führerprüfung in einem anderen Kanton: Fr. 30.–
-- p) Erteilung der Fahrlehrerbewilligung: 240.–
-- q) Zulassung Bewilligung für Ausbilder von Lastwagenführer-Lehrlingen: Fr. 120.–
-- r) …
-- s) EDV-Auswertungen, pro Lauf: Fr. 200.–
-- t) EDV-Auswertungen, Kollektivbezüge, je Liste im Minimum: Fr. 20.–
-- u) Ärztliche, psychologische, psychotechnische und andere Untersuchungen gehen zu Lasten des Ausweisbewerbers resp. -Inhabers.
-- v) Für besondere Amtshandlungen, die noch nicht beschrieben wurden, z. B. Augenscheine, zeitlicher Aufwand für Expertisen usw. wird ein Betrag von Fr. 70.– pro angebrochene halbe Stunde belastet.
-- w) Dringlichkeitszuschlag für Amtshandlungen ausserhalb der üblichen Bearbeitungsfristen oder Terminvereinbarungen: Fr. 20.– bis zur vollen Grundgebühr.
+<sup>2</sup> Sieht diese Verordnung für andere Amtshandlungen oder Dienstleistungen keine Gebühr vor, bemisst sich die Gebühr nach den verursachten Kosten sowie der Bedeutung der Leistung und dem Interesse an deren Ausführung.
 
-<sup>4</sup> Bei ausserordentlichen Arbeitseinsätzen ausserhalb der üblichen Prüfungsorte werden die entsprechenden Mehrkosten nach den regierungsrätlichen Grundsätzen für die Selbstkostenverrechnung belastet.
+<sup>3</sup> Die Bemessungsgrundsätze gemäss Absatz 2 sind auch zu beachten, wenn diese Verordnung einen Gebührenrahmen vorsieht.
+
+[^3-1]: BR [370.120](https://www.gr-lex.gr.ch/data/370.120/de)
 
 #### Art. 4
 
-**Kontrollschilder und Signaltafeln**
+**Verzicht auf die Gebührenerhebung**
 
-<sup>1</sup> Für Kontrollschilder und Signaltafeln werden folgende Gebühren erhoben:
+<sup>1</sup> Für die Fahrzeuge des Kantons werden keine Gebühren erhoben.
 
-- a) Kontrollschilder (Paar): Fr. 50.–
-- b) Einzelschild: Fr. 25.–
-- c) Signaltafel: Fr. 30.–
-- d) Kontrollschilderübertragung pro Schild oder Schilderpaar Überprüfung des Gesuches: Fr. 180.– (Kontrollschilderübertragungen unter Ehepartnern sind von dieser Gebühr befreit.)
+<sup>2</sup> Mobilitätsbehinderte Personen bezahlen keine Gebühren für die Funktionsprüfung und die daraus resultierenden Eintragungen im Führer- oder Fahrzeugausweis.
 
-<sup>2</sup> Für die Reinigung unsauber zurückgegebener oder deponierter Kontrollschilder werden zu Lasten der Halterin oder des Halters 20 Franken verrechnet.
-
-<sup>3</sup> Teilt das Strassenverkehrsamt einer Halterin oder einem Halter wunschgemäss eine bestimmte oder bestimmbare Kontrollschildnummer zu, so ist es berechtigt, eine Zusatzgebühr zu erheben.
+<sup>3</sup> Im Einzelfall kann eine Gebühr ganz oder teilweise erlassen werden, wenn die Bezahlung für die Schuldnerin oder den Schuldner eine unangemessene Härte darstellt oder wenn ein Gesuch abgewiesen wird.
 
 #### Art. 5
 
-**Gebühren für Sonderbewilligungen**
+**Zuständigkeit**
 
-<sup>1</sup> Für Sonderbewilligungen werden erhoben:
+<sup>1</sup> Das Strassenverkehrsamt legt die Gebühren fest.
 
-- 1\. Einzelbewilligungen:
-  - 1\.1. Ausstellgebühr pro Bewilligung: Fr. 50.–
-  - 1\.2. Zuschlagsgebühr für Überschreitung der gesetzlichen beziehungsweise signalisierten Gewichte auf Haupt- und Nebenstrassen:
-  - 1\.2.a) Pro angebrochene t/km über dem zugelassenen Gewicht: Fr. –.15
-  - 1\.2.b) Bei Überschreitung der zugelassenen Achslasten erhöht sich die Zuschlagsgebühr gemäss 1.2.a) um 25% für jede angebrochene Tonne
-  - 1\.3. Zuschlagsgebühr für Überschreitung der gesetzlichen beziehungsweise signalisierten Gewichte auf Nationalstrassen:
-  - 1\.3.a) Bis 30 km Fahrstrecke pro angebrochene 10 t über dem zugelassenen Gewicht: Fr. 30.–
-  - 1\.3.b) Bis 60 km Fahrstrecke pro angebrochene 10 t über dem zugelassenen Gewicht: Fr. 60.–
-  - 1\.3.c) Bis 120 km Fahrstrecke pro angebrochene 10 t über dem zugelassenen Gewicht: Fr. 120.–
-  - 1\.3.d) Bis 240 km Fahrstrecke pro angebrochene 10 t über dem zugelassenen Gewicht: Fr. 240.–
-  - 1\.3.e) Über 240 km Fahrstrecke pro angebrochene 10 t über dem zugelassenen Gewicht: Fr. 480.–
-- 2\. Dauerbewilligungen für bestimmte Strassenzüge:
-  - 2\.1. Ausstellgebühr pro Bewilligung oder Duplikat: Fr. 50.–
-  - 2\.2. Jahresgebühr für Fahrzeuge, die wegen der Ladung den Vorschriften über Masse und Gewichte nicht entsprechen, sowie Ausnahmefahrzeuge, die wegen ihres besonderen Verwendungszwecks oder aus anderen zwingenden Gründen den Vorschriften über Abmessungen, Gewichte und Kreisfahrtbedingungen nicht entsprechen: Fr. 120.–. Für Pistenfahrzeuge beträgt die Gültigkeitsdauer der Bewilligung drei Jahre.
-  - 2\.3. Werkinterner Verkehr: Bearbeitungsgebühr für erstmalige Erteilung: Fr. 250.–
-- 3\. Kosten für statische Nachprüfungen:
-  - 3\.1. Bei Sonderbewilligungen, die eine statische Nachprüfung von Kunstbauten bedingen, werden dem Gesuchsteller die daraus verursachten Kosten durch das kant. Tiefbauamt verrechnet.
+<sup>2</sup> Es entscheidet über den ganzen oder teilweisen Erlass einer Gebühr.
+
+## 2. Zulassungsgebühren
 
 #### Art. 6
 
-**…**
+**Führerausweis**
+
+<sup>1</sup> Die Gebühren betragen:
+
+- a) für die Ausstellung eines Führerausweises oder eines Duplikats: — Fr. 40.–
+- b) für die Ausstellung eines internationalen Führerausweises: — Fr. 40.–
+- c) für den Austausch eines ausländischen Führerausweises: — Fr. 80.–
 
 #### Art. 7
 
-**…**
+**Lernfahrausweis**
+
+<sup>1</sup> Die Gebühren betragen:
+
+- a) für die Bearbeitung eines Gesuchs um Erteilung eines Lernfahrausweises: — Fr. 30.–
+- b) für die Ausstellung eines Lernfahrausweises oder eines Duplikats: — Fr. 40.–
+
+<sup>2</sup> Für die Änderung des Lernfahrausweises ist eine Gebühr von 20 Franken geschuldet. Für Adressänderungen werden keine Gebühren erhoben.
 
 #### Art. 8
 
-**Gebührenerlass**
+**Fahrzeugausweis**
 
-<sup>1</sup> Für die Fahrzeuge des Kantons werden keine Gebühren erhoben. Über weitere Erlassgesuche entscheidet das Strassenverkehrsamt.
+<sup>1</sup> Die Gebühren betragen:
+
+- a) für die Ausstellung eines Fahrzeugausweises oder eines Duplikats für ein Motorfahrrad: — Fr. 20.–
+- b) für die Ausstellung anderer Fahrzeugausweise oder Duplikate: — Fr. 40.–
+- c) für die generelle Bewilligung eines Ersatzfahrzeugs pro Jahr und Fahrzeug: — Fr. 30.–
+
+<sup>2</sup> Für die Änderung des Fahrzeugausweises ist eine Gebühr von 20 Franken geschuldet. Für Adressänderungen werden keine Gebühren erhoben.
+
+<sup>3</sup> Für den Eintrag "Halterwechsel verboten" (Bearbeitungscode 178) ist eine Gebühr von 30 Franken geschuldet.
 
 #### Art. 9
 
-**Erneuerung der Kontrollschilder, Vignetten und Ausweise für Motorfahrräder**
+**Gebühren für Kontrollschilder**
 
-<sup>1</sup> Für die Erneuerung der Kontrollschilder, Vignetten und Ausweise für Motorfahrräder werden von den Ausgabestellen folgende jährliche Gebühren und Prämien erhoben:
+<sup>1</sup> Die Gebühren für die Ausgabe von Kontrollschildern betragen:
 
-- a) …
-- b) Motorfahrräder
-  - 1\. Gebühr (Kontrollschild und/oder Vignette) inkl. Verwaltungskostenanteil: Fr. 25.–
-  - 2\. Kollektiv-Haftpflichtversicherung: gemäss Versicherungsvertrag
-- c) Tagesversicherung für Motorfahrräder gem. Artikel 93 VZV[^9-1]
-  - 1\. für 24 Stunden: Fr. 7.–
-  - 2\. für 48 Stunden: Fr. 9.–
+- a) pro Paar: — Fr. 40.–
+- b) einzeln: — Fr. 20.–
+- c) für Motorfahrräder: — Fr. 10.–
 
-<sup>2</sup> Erfolgt die Inbetriebnahme bei Motorfahrrädern nach dem 30. September, beträgt die Kollektiv-Haftpflichtversicherung die Hälfte des jährlichen Ansatzes.
+<sup>2</sup> Für die Übertragung eines einzelnen Kontrollschilds oder eines Kontrollschilderpaars ist eine Gebühr von 120 Franken geschuldet. Diese Gebühr wird nicht erhoben, wenn Kontrollschilder unter Ehegatten oder eingetragenen Partnerinnen oder Partnern übertragen werden.
 
-<sup>3</sup> Wer eine genügende Haftpflichtversicherung nachweist, hat die Kollektiv-Versicherungsprämie nicht zu entrichten.
+<sup>3</sup> Für die Wiederinverkehrsetzung von Kontrollschildern, einschliesslich der Lagerkosten, ist eine Gebühr von 30 Franken geschuldet.
 
-<sup>4</sup> Von der unter Litera b) und c) festgesetzten Gebühr verbleiben der Ausgabestelle als Aufwandentschädigung fünf Franken.
-
-<sup>5</sup> Für Mutationen gemäss Artikel 95 VZV sind die Ausgabestellen berechtigt, fünf Franken zu belasten.
-
-<sup>6</sup> …
-
-[^9-1]: SR [741.51](https://db.clex.ch/link/Bund/741.51/de)
+<sup>4</sup> Für die Verlängerung der Hinterlegungsdauer von Kontrollschildern ist eine Gebühr von 30 Franken pro Jahr geschuldet.
 
 #### Art. 10
 
-**Ersatz verlorener Kontrollschilder und Vignetten für Motorfahrräder**
+**Vignette für Motorfahrräder**
 
-<sup>1</sup> Beschädigte, gestohlene oder verlorene Mofa-Kontrollschilder und -Vignetten ersetzen die Ausgabestellen durch solche mit gleicher Gültigkeitsdauer gegen Vorlage des Fahrzeugausweises kostenlos.
+<sup>1</sup> Für die Abgabe der Vignette für Motorfahrräder wird in der Regel eine Grundgebühr und eine Gebühr für die Kollektiv-Haftpflichtversicherung erhoben.
+
+<sup>2</sup> Die Grundgebühr beträgt:
+
+- a) pro Jahr: — Fr. 20.–
+- b) für einzelne Tage: — Fr. 5.–
+
+<sup>3</sup> Die Gebühr für die Kollektiv-Haftpflichtversicherung richtet sich nach dem vom Strassenverkehrsamt abgeschlossenen Versicherungsvertrag.
+
+<sup>4</sup> Es kann eine Jahresversicherung abgeschlossen werden. Wird ein Motorfahrrad nach dem 30. September in Betrieb genommen, ist die Hälfte des jährlichen Ansatzes geschuldet. In den übrigen Fällen ist der volle Jahresansatz zu entrichten.
+
+<sup>5</sup> Es kann eine Tagesversicherung für 24 Stunden oder für 48 Stunden abgeschlossen werden.
+
+<sup>6</sup> Die Gebühr für die Kollektiv-Haftpflichtversicherung ist nicht geschuldet, wenn die gesuchstellende Person über eine genügende Haftpflichtversicherung verfügt.
+
+## 3. Prüfungsgebühren
 
 #### Art. 11
 
-**Inkrafttreten**
+**Führerprüfung**
 
-<sup>1</sup> Diese Verordnung tritt am 1. Januar 1978 in Kraft. Die Teilrevision vom 20. August 1984 tritt am 1. Januar 1985 in Kraft[^11-1].
+<sup>1</sup> Die Gebühren für die Theorieprüfung betragen:
 
-[^11-1]: Jene vom 2. Oktober 1989 am 1. Januar 1990; jene vom 23. November 1993 am 1. Januar 1994, ausgenommen Art. 5 Ziffer 2 und jene vom 25. Februar 2003 am 1. April 2003.
+- a) für Gruppentheorie: — Fr. 35.–
+- b) für Einzeltheorie: — Fr. 120.–
 
-#### Art. A1
+<sup>2</sup> Die Gebühren für die praktische Führerprüfung betragen:
 
-**Fahrzeugprüfungen gemäss Art. 2 Abs. 1 Ziff. 3**
+- a) für Kategorie A: — Fr. 80.–
+- b) für Kategorie A1: — Fr. 80.–
+- c) für Kategorie B: — Fr. 120.–
+- d) für Kategorie B1: — Fr. 120.–
+- e) für Kategorie C: — Fr. 180.–
+- f) für Kategorie C1: — Fr. 180.–
+- g) für Kategorie D: — Fr. 240.–
+- h) für Kategorie D1: — Fr. 180.–
+- i) für Kategorie BE: — Fr. 120.–
+- j) für Kategorie CE/C1E/DE/D1E: — Fr. 180.–
+- k) für Kategorie F: — Fr. 120.–
+- l) für Kategorie G: — Fr. 120.–
+- m) für Kategorie M: — Fr. 80.–
+- n) für berufsmässige Personentransporte: — Fr. 120.–
 
-<sup>1</sup>
+<sup>3</sup> Für die Bearbeitung eines Gesuchs, die Führerprüfung in einem anderen Kanton ablegen zu dürfen, ist eine Gebühr von 30 Franken geschuldet.
 
-<table>
-<tr><th>Fahrzeug GG in kg</th><th>Nachprüfungen</th><th>typengeprüft</th><th>teilweise typengeprüft</th><th>nicht typengeprüft</th></tr>
-<tr><td>bis 1000</td><td>50.–</td><td>50.–</td><td>100.–</td><td>140.–</td></tr>
-<tr><td>bis 3500</td><td>70.–</td><td>70.–</td><td>140.–</td><td>210.–</td></tr>
-<tr><td>bis 6000</td><td>100.–</td><td>100.–</td><td>210.–</td><td>280.–</td></tr>
-<tr><td>bis 12 000</td><td>140.–</td><td>140.–</td><td>230.–</td><td>350.–</td></tr>
-<tr><td>bis 18 000</td><td>210.–</td><td>210.–</td><td>280.–</td><td>420.–</td></tr>
-<tr><td>bis 32 000</td><td>280.–</td><td>280.–</td><td>420.–</td><td>560.–</td></tr>
-<tr><td>über 32 000</td><td>380.–</td><td>380.–</td><td>490.–</td><td>630.–</td></tr>
-</table>
+#### Art. 12
 
--
+**Fahrzeugprüfung**
+
+<sup>1</sup> Die Gebühren für Fahrzeuge bis zu einem Gesamtgewicht von 1000 kg betragen:
+
+- a) für Nachprüfungen: — Fr. 50.–
+- b) für typengeprüfte Zulassungen: — Fr. 50.–
+- c) für teilweise typengeprüfte Zulassungen: — Fr. 100.–
+- d) für nicht typengeprüfte Zulassungen: — Fr. 140.–
+
+<sup>2</sup> Die Gebühren für Fahrzeuge bis zu einem Gesamtgewicht von 3500 kg betragen:
+
+- a) für Nachprüfungen: — Fr. 70.–
+- b) für typengeprüfte Zulassungen: — Fr. 70.–
+- c) für teilweise typengeprüfte Zulassungen: — Fr. 140.–
+- d) für nicht typengeprüfte Zulassungen: — Fr. 210.–
+
+<sup>3</sup> Die Gebühren für Fahrzeuge bis zu einem Gesamtgewicht von 6000 kg betragen:
+
+- a) für Nachprüfungen: — Fr. 105.–
+- b) für typengeprüfte Zulassungen: — Fr. 105.–
+- c) für teilweise typengeprüfte Zulassungen: — Fr. 210.–
+- d) für nicht typengeprüfte Zulassungen: — Fr. 280.–
+
+<sup>4</sup> Die Gebühren für Fahrzeuge bis zu einem Gesamtgewicht von 12 000 kg betragen:
+
+- a) für Nachprüfungen: — Fr. 140.–
+- b) für typengeprüfte Zulassungen: — Fr. 140.–
+- c) für teilweise typengeprüfte Zulassungen: — Fr. 245.–
+- d) für nicht typengeprüfte Zulassungen: — Fr. 350.–
+
+<sup>5</sup> Die Gebühren für Fahrzeuge bis zu einem Gesamtgewicht von 19 500 kg betragen:
+
+- a) für Nachprüfungen: — Fr. 210.–
+- b) für typengeprüfte Zulassungen: — Fr. 210.–
+- c) für teilweise typengeprüfte Zulassungen: — Fr. 280.–
+- d) für nicht typengeprüfte Zulassungen: — Fr. 350.–
+
+<sup>6</sup> Die Gebühren für Fahrzeuge bis zu einem Gesamtgewicht von 32 000 kg betragen:
+
+- a) für Nachprüfungen: — Fr. 280.–
+- b) für typengeprüfte Zulassungen: — Fr. 280.–
+- c) für teilweise typengeprüfte Zulassungen: — Fr. 350.–
+- d) für nicht typengeprüfte Zulassungen: — Fr. 420.–
+
+<sup>7</sup> Die Gebühren für Fahrzeuge bis zu einem Gesamtgewicht von über 32 000 kg betragen:
+
+- a) für Nachprüfungen: — Fr. 350.–
+- b) für typengeprüfte Zulassungen: — Fr. 350.–
+- c) für teilweise typengeprüfte Zulassungen: — Fr. 420.–
+- d) für nicht typengeprüfte Zulassungen: — Fr. 490.–
+
+<sup>8</sup> Bei Sattelaufliegern sind für die Bemessung der Gebühren nur zwei Drittel des Gesamtgewichts massgebend.
+
+#### Art. 13
+
+**Prüfungsgebühren nach Zeitaufwand**
+
+<sup>1</sup> Nach Zeitaufwand werden folgende Prüfungsgebühren erhoben:
+
+- a) für einen ausserordentlichen Prüfungsaufwand;
+- b) für Teil- und Ergänzungsprüfungen;
+- c) für die Teilabnahme eines Fahrzeugs;
+- d) für technische Änderungen an einem Fahrzeug;
+- e) für polizeilich gemeldete Mängel an einem Fahrzeug;
+- f) für Mängelnachprüfungen, wobei maximal die entsprechende Zulassungsgebühr geschuldet ist;
+- g) für Mehraufwand von Bremsprüfungen an landwirtschaftlichen Anhängern.
+
+#### Art. 14
+
+**Ausfall einer Prüfung**
+
+<sup>1</sup> Wer einer Prüfung ohne triftigen Grund fernbleibt, sich ohne triftigen Grund verspätet abmeldet oder die Prüfung aus einem anderen Grund, der ihm anzulasten ist, nicht absolviert, hat die volle Prüfungsgebühr zu entrichten.
+
+<sup>2</sup> Inhaberinnen oder Inhaber von Garagebetrieben, die einer Prüfung ohne triftigen Grund fernbleiben, sich ohne triftigen Grund verspätet abmelden oder die Prüfung aus einem anderen Grund, der ihnen anzulasten ist, nicht absolvieren, schulden eine Gebühr nach Massgabe des hierdurch verursachten Zeitaufwands, maximal die entsprechende Prüfungsgebühr.
+
+<sup>3</sup> Eine Abmeldung gilt als verspätet, wenn sie nicht mindestens fünf Arbeitstage vor dem Prüfungstermin beim Strassenverkehrsamt eingeht.
+
+#### Art. 15
+
+**Weitere Prüfungsgebühren**
+
+<sup>1</sup> Für die Verarbeitung einer Reparaturbestätigung ist eine Gebühr von 20 Franken geschuldet.
+
+<sup>2</sup> Für das Erfassen einer ausserkantonal durchgeführten Fahrzeugprüfung ist eine Gebühr von 20 Franken geschuldet.
+
+## 4. Weitere Gebühren
+
+#### Art. 16
+
+**Gebühren für verschiedene Bewilligungen**
+
+<sup>1</sup> Die Gebühr für die Bearbeitung einer Fahrlehrerbewilligung beträgt 240 Franken.
+
+<sup>2</sup> Die Gebühr für die Zulassung als Ausbildnerin oder Ausbildner für Lastwagenführer-Lehrlinge beträgt 120 Franken.
+
+<sup>3</sup> Die Gebühren für die Bewilligung zur Selbstabnahme typengenehmigter Fahrzeuge betragen:
+
+- a) für den Instruktionskurs: — Fr. 240.–
+- b) für die Besichtigung der Einrichtung und den weiteren Aufwand: — Fr. 320.–
+
+#### Art. 17
+
+**Gebühren für Sonderbewilligungen für Fahrzeuge**
+
+<sup>1</sup> Für die Erteilung von Einzelsonderbewilligungen für Fahrzeuge, welche die gesetzlichen oder signalisierten Gewichte auf Haupt- und Nebenstrassen überschreiten, werden folgende Gebühren erhoben:
+
+- a) eine Ausstellgebühr: — Fr. 70.–
+- b) eine Gebühr für die Inanspruchnahme der Strasse: — Fr. 0.15 pro t/km
+
+<sup>2</sup> Für die Erteilung von Jahressonderbewilligungen für Fahrzeuge, welche die gesetzlichen Vorgaben zu Masse, Gewicht, Abmessung oder Kreisfahrtbedingungen überschreiten, und für Ausnahmefahrzeuge werden folgende Gebühren erhoben:
+
+- a) eine Ausstellungsgebühr:
+  - 1\. erstmalig: — Fr. 70.–
+  - 2\. bei Verlängerung: — Fr. 50.–
+- b) eine Gebühr für die Inanspruchnahme der Strasse: — Fr. 120.–
+
+<sup>3</sup> Für die Erteilung der dreijährigen Sonderbewilligungen für Pistenfahrzeuge werden folgende Gebühren erhoben:
+
+- a) eine Ausstellungsgebühr:
+  - 1\. erstmalig: — Fr. 70.–
+  - 2\. bei Verlängerung: — Fr. 50.–
+- b) eine Gebühr für die Inanspruchnahme der Strasse: — Fr. 120.–
+
+<sup>4</sup> Für die Erteilung der Sonderbewilligung für den werkinternen Verkehr werden folgende Gebühren erhoben:
+
+- a) für die erstmalige Ausstellung: — Fr. 280.–
+- b) für die Verlängerung: — Fr. 50.–
+
+<sup>5</sup> Bedingen Sonderbewilligungen eine statische Nachprüfung von Kunstbauten, so trägt die gebührenpflichtige Person zusätzlich zu den Gebühren gemäss den Absätzen 1 bis 3 die Kosten für die Abklärungen des Tiefbauamts oder für ein Sachverständigengutachten.
+
+#### Art. 18
+
+**Gebühr für Kollektiv-Fahrzeugausweise**
+
+<sup>1</sup> Die Gebühr für die Bearbeitung eines Gesuchs um erstmalige Erteilung eines Kollektiv-Fahrzeugausweises beträgt 350 Franken.
+
+<sup>2</sup> Die Gebühr für die Erteilung eines weiteren Kollektiv-Fahrzeugausweises beträgt 140 Franken.
+
+#### Art. 19
+
+**Übrige Gebühren**
+
+<sup>1</sup> Für Bescheinigungen ist eine Gebühr von 10 bis 100 Franken geschuldet, soweit keine spezielle Gebührenregelung existiert.
+
+<sup>2</sup> Für den polizeilichen Entzug eines Kontrollschilds und/oder eines Fahrzeugausweises ist eine Gebühr von 200 Franken geschuldet.
+
+<sup>3</sup> Für die Inspektion von Fahrschulen ist eine Gebühr von 240 Franken geschuldet.
+
+<sup>4</sup> Für EDV-Auswertungen ist pro Suchlauf eine Gebühr von 20 bis 200 Franken geschuldet.
+
+2022-036
