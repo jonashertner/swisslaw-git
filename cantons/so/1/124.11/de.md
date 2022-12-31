@@ -4,13 +4,13 @@ number: "124.11"
 title: Gesetz über den Rechtsschutz in Verwaltungssachen
 short: Verwaltungsrechtspflegegesetz
 language: de
-version: 2022-07-01
-valid_until: 2022-12-31
-version_adopted: 2021-07-06
+version: 2023-01-01
+valid_until: 2025-07-31
+version_adopted: 2022-06-28
 adopted: 1970-11-15
 in_force: 1971-04-01
 url: "https://bgs.so.ch/app/de/texts_of_law/124.11"
-pdf: "https://bgs.so.ch/api/de/versions/5222/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5262/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.so.ch/api/de/versions/5222/pdf_file"
 
 (Verwaltungsrechtspflegegesetz)
 
-Vom 15.11.1970 (Stand 01.07.2022)
+Vom 15.11.1970 (Stand 01.01.2023)
 
 Der Kantonsrat von Solothurn
 
@@ -743,7 +743,7 @@ beschliesst:
 
 <sup>2</sup> Richtet sich die Verwaltungsgerichtsbeschwerde gegen Verfügungen und Entscheide von Beamten oder Behörden, die in der Sache als erste und einzige Instanz verfügt oder entschieden haben, kann überdies Unangemessenheit geltend gemacht werden, unter Vorbehalt der Grundsätze der Gemeindeautonomie.
 
-<sup>3</sup> Mit Beschwerden gegen Nichtwiederwahlen (§ 200 Gemeindegesetz), Entlassungen aus wichtigen Gründen (§ 200 Gemeindegesetz), Kündigungen definitiver Anstellungsverhältnisse (§ 200 Gemeindegesetz), Kündigungen eines Dienstverhältnisses während und nach Ablauf der Probezeit (§ 18<sup>bis</sup> Absatz 4 und § 27 Gesetz über das Staatspersonal), fristlose Kündigungen eines Dienstverhältnisses aus wichtigen Gründen (§ 28 Gesetz über das Staatspersonal) sowie gegen Entscheide des Kantonsrates und der juristischen Prüfungskommission kann Unangemessenheit nicht geltend gemacht werden. Beschwerden gegen Disziplinarmassnahmen, ausser vom Kantonsrat beschlossene, können auch Unangemessenheit rügen.
+<sup>3</sup> Mit Beschwerden gegen kommunale Nichtwiederwahlen, kommunale Entlassungen aus wichtigen Gründen, kommunale Kündigungen definitiver Anstellungsverhältnisse, Kündigungen eines Dienstverhältnisses während und nach Ablauf der Probezeit (§ 18<sup>bis</sup> Absatz 4 und § 27 Gesetz über das Staatspersonal), fristlose Kündigungen eines Dienstverhältnisses aus wichtigen Gründen (§ 28 Gesetz über das Staatspersonal) sowie gegen Entscheide des Kantonsrates und der juristischen Prüfungskommission kann Unangemessenheit nicht geltend gemacht werden. Beschwerden gegen Disziplinarmassnahmen, ausser vom Kantonsrat beschlossene, können auch Unangemessenheit rügen.
 
 <sup>4</sup> Besondere Bestimmungen in der Spezialgesetzgebung bleiben vorbehalten.
 
