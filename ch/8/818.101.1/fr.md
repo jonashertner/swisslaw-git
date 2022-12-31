@@ -4,11 +4,11 @@ title: "Ordonnance du 29 avril 2015 sur la lutte contre les maladies transmissib
 short: OEp
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/298"
 language: fr
-version: 2022-09-01
+version: 2023-01-01
 adopted: 2015-04-29
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/298/20220901/fr/xml/fedlex-data-admin-ch-eli-cc-2015-298-20220901-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20220901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/298/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2015-298-20230101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20220901/fr"
 
 (Ordonnance sur les épidémies, OEp)
 
-du 29 avril 2015 (État le 1<sup>er</sup> septembre 2022)
+du 29 avril 2015 (État le 1<sup>er</sup> janvier 2023)
 
 Le Conseil fédéral suisse,
 
@@ -845,8 +845,7 @@ La Confédération prend en charge les coûts des vaccinations contre le COVID-1
   les personnes qui ne sont assurées contre les maladies ni conformément à l’art. 3 LAMal, ni conformément à la LAM, mais qui font partie de l’une des catégories de personnes suivantes:
 
   - 1\. les personnes qui ont leur domicile ou leur résidence habituelle en Suisse,
-  - 2\. les personnes qui exercent une activité lucrative en tant que frontaliers en Suisse,
-  - 3\. les Suisses de l’étranger et les membres de leur famille proche n’ayant pas la nationalité suisse avec lesquels ils font ménage commun.
+  - 2\. les personnes qui exercent une activité lucrative en tant que frontaliers en Suisse.
 
 <sup>2</sup>
 
@@ -870,10 +869,10 @@ Le montant visé à l’al. 3 couvre l’ensemble des prestations liées à la v
 
 <sup>5</sup> Les pharmaciens ne peuvent facturer aux personnes vaccinées d’autres frais en lien avec la vaccination.
 
-[^64a-1]: Introduit par le ch. I de l’O du 27 janv. 2021 ([RO 2021 53](https://fedlex.data.admin.ch/eli/oc/2021/53)). Nouvelle teneur selon le ch. I de l’O du 3 déc. 2021, en vigueur du 1<sup>er</sup> janv. au 31 déc. 2022 ([RO 2021 825](https://fedlex.data.admin.ch/eli/oc/2021/825)).
+[^64a-1]: Introduit par le ch. I de l’O du 27 janv. 2021 ([RO 2021 53](https://fedlex.data.admin.ch/eli/oc/2021/53)). Nouvelle teneur selon le ch. I de l’O du 16 déc. 2022, en vigueur du 1<sup>er</sup> janv. au 31 déc. 2023 ([RO 2022 835](https://fedlex.data.admin.ch/eli/oc/2022/835)).
 [^64a-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 [^64a-3]: [RS 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
-[^64a-4]: Consultable sous www.fphch.org/fr/web/fph/vaccination-et-prélèvements-sanguins.
+[^64a-4]: Consultable sous www.fphch.org/fr/web/fph/vaccination-et-prélèvements-sanguins
 
 #### Art. 64b
 
@@ -897,7 +896,7 @@ Pour la fin des mois de mars, juin, septembre et décembre, les pharmaciens tran
 
 <sup>6</sup> Chaque trimestre, elle facture à l’OFSP les frais d’administration en fonction de la charge de travail effective. Le tarif horaire est de 95 francs; il englobe les charges salariales, les charges sociales et les frais d’infrastructure. Les dépenses liées aux éventuelles révisions ou adaptations de système et aux taux d’intérêt négatifs qui ne sont pas comprises dans les frais d’administration sont remboursées au prix coûtant.
 
-[^64b-1]: Introduit par le ch. I de l’O du 27 janv. 2021 ([RO 2021 53](https://fedlex.data.admin.ch/eli/oc/2021/53)). Nouvelle teneur selon le ch. I de l’O du 3 déc. 2021, en vigueur du 1<sup>er</sup> janv. au 31 déc. 2022 ([RO 2021 825](https://fedlex.data.admin.ch/eli/oc/2021/825)).
+[^64b-1]: Introduit par le ch. I de l’O du 27 janv. 2021 ([RO 2021 53](https://fedlex.data.admin.ch/eli/oc/2021/53)). Nouvelle teneur selon le ch. I de l’O du 16 déc. 2022, en vigueur du 1<sup>er</sup> janv. au 31 déc. 2023 ([RO 2022 835](https://fedlex.data.admin.ch/eli/oc/2022/835)).
 [^64b-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 
 #### Art. 64c
@@ -909,8 +908,7 @@ Pour la fin des mois de mars, juin, septembre et décembre, les pharmaciens tran
 La Confédération prend en charge les coûts des vaccinations contre le COVID-19 qui sont effectuées pour les personnes suivantes:
 
 - a. les personnes qui ont leur domicile ou leur résidence habituelle en Suisse;
-- b. les personnes qui exercent une activité lucrative en tant que frontaliers en Suisse;
-- c. les Suisses de l’étranger et les membres de leur famille proche n’ayant pas la nationalité suisse avec lesquels ils font ménage commun.
+- b. les personnes qui exercent une activité lucrative en tant que frontaliers en Suisse.
 
 <sup>2</sup> Elle ne prend en charge les coûts visés à l’al. 1 que pour les personnes qui ne sont assurées contre les maladies ni conformément à l’art. 3 LAMal[^64c-2], ni conformément à la LAM[^64c-3].
 
@@ -943,7 +941,7 @@ Le montant visé à l’al. 4 couvre l’ensemble des prestations liées à la v
 
 <sup>7</sup> L’art. 64*b* s’applique par analogie à la procédure de prise en charge des coûts.
 
-[^64c-1]: Introduit par le ch. I de l’O du 3 fév. 2021 ([RO 2021 66](https://fedlex.data.admin.ch/eli/oc/2021/66)). Nouvelle teneur selon le ch. I de l’O du 3 déc. 2021, en vigueur du 1<sup>er</sup> janv. au 31 déc. 2022 ([RO 2021 825](https://fedlex.data.admin.ch/eli/oc/2021/825)).
+[^64c-1]: Introduit par le ch. I de l’O du 3 fév. 2021 ([RO 2021 66](https://fedlex.data.admin.ch/eli/oc/2021/66)). Nouvelle teneur selon le ch. I de l’O du 16 déc. 2022, en vigueur du 1<sup>er</sup> janv. au 31 déc. 2023 ([RO 2022 835](https://fedlex.data.admin.ch/eli/oc/2022/835)).
 [^64c-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 [^64c-3]: [RS 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
 
@@ -955,27 +953,27 @@ Le montant visé à l’al. 4 couvre l’ensemble des prestations liées à la v
 
 <sup>2</sup> L’art. 64*c*, al. 3 à 7, s’applique.
 
-[^64d-1]: Introduit par le ch. I de l’O du 3 nov. 2021 ([RO 2021 648](https://fedlex.data.admin.ch/eli/oc/2021/648)). Nouvelle teneur selon le ch. I de l’O du 3 déc. 2021, en vigueur du 1<sup>er</sup> janv. au 31 déc. 2022 ([RO 2021 825](https://fedlex.data.admin.ch/eli/oc/2021/825)).
+[^64d-1]: Introduit par le ch. I de l’O du 3 nov. 2021 ([RO 2021 648](https://fedlex.data.admin.ch/eli/oc/2021/648)). Nouvelle teneur selon le ch. I de l’O du 16 déc. 2022, en vigueur du 1<sup>er</sup> janv. au 31 déc. 2023 ([RO 2022 835](https://fedlex.data.admin.ch/eli/oc/2022/835)).
 
 #### Art. 64d<sup>bis</sup>
 
 **Système d’auto-prise en charge des coûts des vaccinations contre le COVID-19**[^64dbis-1]
 
-<sup>1</sup> Si la remise des vaccins destinés à la vaccination contre le COVID-19 acquis conformément à l’art. 44, al. 1, LEp, y compris les doses de rappel, est effectuée hors recommandation des autorités et que l’objectif n’est pas de lutter contre les maladies transmissibles, la Confédération peut, contre paiement, les mettre à la disposition de la population.
+<sup>1</sup> La Confédération peut mettre à disposition, contre paiement, des vaccins destinés à la vaccination contre le COVID-19 acquis conformément à l’art. 44, al. 1, LEp, y compris les doses de rappel, pour la vaccination des personnes visées à l’art. 64*a*, al. 1, effectuée hors recommandation des autorités et sans objectif de lutte contre les maladies transmissibles. Elle peut aussi mettre lesdits vaccins à disposition pour la vaccination d’autres personnes, contre paiement, sous réserve de disponibilité suffisante pour les personnes visées à l’art. 64*a*, al. 1.
 
-<sup>2</sup> Les centres de vaccination versent un montant forfaitaire à la Confédération pour le vaccin, la logistique, le matériel de vaccination et les coûts administratifs supplémentaires. Le montant forfaitaire s’élève à 26 francs par vaccination.
+<sup>2</sup> Les centres de vaccination versent un montant forfaitaire à la Confédération pour le vaccin, la logistique, le matériel de vaccination et les coûts administratifs supplémentaires. Le montant forfaitaire s’élève à 30 francs par vaccination.
 
-<sup>3</sup> Pour la fin des mois de juin, septembre et décembre, les centres de vaccination transmettent à l’autorité cantonale compétente la liste des vaccinations au sens de l’al. 1 qui ont été effectuées.
+<sup>3</sup> Pour la fin des mois de mars, juin, septembre et décembre, les centres de vaccination transmettent à l’autorité cantonale compétente la liste des vaccinations au sens de l’al. 1 qui ont été effectuées.
 
-<sup>4</sup> L’autorité cantonale compétente contrôle la plausibilité de la liste en fonction des doses de vaccin livrées au centre de vaccination, vérifie qu’elle est complète et l’envoie par voie électronique à l’institution commune dans les 10 premiers jours ouvrables du mois suivant la période de décompte.
+<sup>4</sup> L’autorité cantonale compétente contrôle la plausibilité de la liste en fonction des doses de vaccin distribuées dans le centre de vaccination, vérifie qu’elle est complète et l’envoie par voie électronique à l’institution commune dans les 10 premiers jours ouvrables du mois suivant la période de décompte.
 
 <sup>5</sup> Au plus tard le 20<sup>e</sup> jour ouvrable du mois qui suit la période de décompte, l’institution commune adresse aux centres de vaccination une facture pour le montant forfaitaire prévu à l’al. 2.
 
-- [tab] <sup>6</sup> Après réception du paiement des centres de vaccination, elle verse chaque trimestre le montant total à l’OFSP.
+<sup>6</sup> Après réception du paiement des centres de vaccination, elle verse chaque trimestre le montant total à la Confédération.
 
 <sup>7</sup> L’OFSP rembourse à l’institution commune ses frais d’administration conformément à l’art. 64*b*, al. 6.
 
-[^64dbis-1]: Introduit par le ch. I de l’O du 10 juin 2022, en vigueur du 11 juin au 31 déc. 2022 ([RO 2022 345](https://fedlex.data.admin.ch/eli/oc/2022/345)).
+[^64dbis-1]: Introduit par le ch. I de l’O du 10 juin 2022 ([RO 2022 345](https://fedlex.data.admin.ch/eli/oc/2022/345)). Nouvelle teneur selon le ch. I de l’O du 16 déc. 2022, en vigueur du 1<sup>er</sup> janv. au 31 déc. 2023 ([RO 2022 835](https://fedlex.data.admin.ch/eli/oc/2022/835)).
 
 #### Art. 64e
 
@@ -1498,11 +1496,13 @@ Les personnes suivantes ont accès au module «gestion des contacts» lorsque ce
 
 - a. collaborateurs de la division Maladies transmissibles de l’OFSP;
 - b. accès en ligne: médecins cantonaux et collaborateurs des services des médecins cantonaux;
-- c. accès en ligne: délégué du Conseil fédéral pour le Service sanitaire coordonné (SSC) et collaborateurs du bureau du SSC et du Service médico-militaire.
+- c.[^94-1] accès en ligne: collaborateurs du bureau du Service sanitaire coordonné et du Service médico-militaire.
 
 <sup>2</sup> Les personnes bénéficiant d’une autorisation d’accès peuvent lire, saisir, muter et effacer des données dans le module «gestion des contacts».
 
 <sup>3</sup> L’OFSP accorde les droits d’accès individuels et réglemente l’authentification y relative.
+
+[^94-1]: Nouvelle teneur selon le ch. II 3 de l’O du 23 sept. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 570](https://fedlex.data.admin.ch/eli/oc/2022/570)).
 
 #### Art. 95
 
@@ -1770,4 +1770,3 @@ Annexe 2[^t-2]
 
     - 1\. dans le cadre de l’indication autorisée, ou
     - 2\. avant l’autorisation, mais selon les recommandations des sociétés médicales responsables et compte tenu des données épidémiologiques.
-    - [tab]

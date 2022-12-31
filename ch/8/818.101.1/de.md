@@ -4,11 +4,11 @@ title: "Verordnung vom 29. April 2015 über die Bekämpfung übertragbarer Krank
 short: EpV
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/298"
 language: de
-version: 2022-09-01
+version: 2023-01-01
 adopted: 2015-04-29
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/298/20220901/de/xml/fedlex-data-admin-ch-eli-cc-2015-298-20220901-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20220901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/298/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2015-298-20230101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20220901/de"
 
 (Epidemienverordnung, EpV)
 
-vom 29. April 2015 (Stand am 1. September 2022)
+vom 29. April 2015 (Stand am 1. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -841,8 +841,7 @@ Der Bund übernimmt die Kosten von Covid-19-Impfungen, die von Apothekerinnen un
   Personen, die weder nach Artikel 3 KVG noch nach dem MVG gegen Krankheit versichert sind, die aber einer der folgenden Personenkategorien angehören:
 
   - 1\. Personen, die ihren Wohnsitz oder ihren gewöhnlichen Aufenthalt in der Schweiz haben,
-  - 2\. Personen, die in der Schweiz als Grenzgängerinnen oder Grenzgänger erwerbstätig sind,
-  - 3\. Auslandschweizerinnen und Auslandschweizer sowie deren enge Familienangehörige ohne Schweizer Bürgerrecht, die im gleichen Haushalt leben.
+  - 2\. Personen, die in der Schweiz als Grenzgängerinnen oder Grenzgänger erwerbstätig sind.
 
 <sup>2</sup>
 
@@ -866,10 +865,10 @@ Mit dem Betrag nach Absatz 3 sind sämtliche Leistungen im Zusammenhang mit der 
 
 <sup>5</sup> Die Apothekerinnen und Apotheker dürfen den geimpften Personen im Rahmen der Impfung keine weiteren Kosten verrechnen.
 
-[^64a-1]: Eingefügt durch Ziff. I der V vom 27. Jan. 2021 ([AS 2021 53](https://fedlex.data.admin.ch/eli/oc/2021/53)). Fassung gemäss Ziff. I der V vom 3. Dez. 2021, in Kraft vom 1. Jan. 2022 bis zum 31. Dez. 2022 ([AS 2021 825](https://fedlex.data.admin.ch/eli/oc/2021/825)).
+[^64a-1]: Eingefügt durch Ziff. I der V vom 27. Jan. 2021 ([AS 2021 53](https://fedlex.data.admin.ch/eli/oc/2021/53)). Fassung gemäss Ziff. I der V vom 16. Dez. 2022, in Kraft vom 1. Jan. 2023 bis zum 31. Dez. 2023 ([AS 2022 835](https://fedlex.data.admin.ch/eli/oc/2022/835)).
 [^64a-2]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 [^64a-3]: [SR 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
-[^64a-4]: Abrufbar unter: www.fphch.org/impfen-und-blutentnahme.
+[^64a-4]: Abrufbar unter: www.fphch.org/impfen-und-blutentnahme
 
 #### Art. 64b
 
@@ -893,7 +892,7 @@ Die Apothekerinnen und Apotheker senden der zuständigen kantonalen Behörde jew
 
 <sup>6</sup> Sie stellt dem BAG quartalsweise ihre Verwaltungskosten nach Aufwand in Rechnung. Der Stundenansatz beträgt 95 Franken und umfasst Lohnkosten, Sozialleistungen und Infrastrukturkosten. Für die in den Verwaltungskosten nicht enthaltenen Aufwendungen für allfällige Revisionen, Systemanpassungen und Negativzinsen werden die tatsächlichen Kosten vergütet.
 
-[^64b-1]: Eingefügt durch Ziff. I der V vom 27. Jan. 2021 ([AS 2021 53](https://fedlex.data.admin.ch/eli/oc/2021/53)). Fassung gemäss Ziff. I der V vom 3. Dez. 2021, in Kraft vom 1. Jan. 2022 bis zum 31. Dez. 2022 ([AS 2021 825](https://fedlex.data.admin.ch/eli/oc/2021/825)).
+[^64b-1]: Eingefügt durch Ziff. I der V vom 27. Jan. 2021 ([AS 2021 53](https://fedlex.data.admin.ch/eli/oc/2021/53)). Fassung gemäss Ziff. I der V vom 16. Dez. 2022, in Kraft vom 1. Jan. 2023 bis zum 31. Dez. 2023 ([AS 2022 835](https://fedlex.data.admin.ch/eli/oc/2022/835)).
 [^64b-2]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 
 #### Art. 64c
@@ -905,8 +904,7 @@ Die Apothekerinnen und Apotheker senden der zuständigen kantonalen Behörde jew
 Der Bund übernimmt die Kosten von Covid-19-Impfungen, die bei den folgenden Personen durchgeführt werden:
 
 - a. Personen, die ihren Wohnsitz oder ihren gewöhnlichen Aufenthalt in der Schweiz haben;
-- b. Personen, die in der Schweiz als Grenzgängerinnen oder Grenzgänger erwerbstätig sind;
-- c. Auslandschweizerinnen und Auslandschweizer sowie deren enge Familienangehörige ohne Schweizer Bürgerrecht, die im gleichen Haushalt leben.
+- b. Personen, die in der Schweiz als Grenzgängerinnen oder Grenzgänger erwerbstätig sind.
 
 <sup>2</sup> Er übernimmt die Kosten nur, wenn die Personen nach Absatz 1 weder nach Artikel 3 KVG[^64c-2] noch nach dem MVG[^64c-3] gegen Krankheit versichert sind.
 
@@ -939,7 +937,7 @@ Mit dem Betrag nach Absatz 4 sind sämtliche Leistungen im Zusammenhang mit der 
 
 <sup>7</sup> Für das Verfahren zur Übernahme der Kosten gilt Artikel 64*b* sinngemäss.
 
-[^64c-1]: Eingefügt durch Ziff. I der V vom 3. Febr. 2021 ([AS 2021 66](https://fedlex.data.admin.ch/eli/oc/2021/66)). Fassung gemäss Ziff. I der V vom 3. Dez. 2021, in Kraft vom 1. Jan. 2022 bis zum 31. Dez. 2022 ([AS 2021 825](https://fedlex.data.admin.ch/eli/oc/2021/825)).
+[^64c-1]: Eingefügt durch Ziff. I der V vom 3. Febr. 2021 ([AS 2021 66](https://fedlex.data.admin.ch/eli/oc/2021/66)). Fassung gemäss Ziff. I der V vom 16. Dez. 2022, in Kraft vom 1. Jan. 2023 bis zum 31. Dez. 2023 ([AS 2022 835](https://fedlex.data.admin.ch/eli/oc/2022/835)).
 [^64c-2]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 [^64c-3]: [SR 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
 
@@ -951,27 +949,27 @@ Mit dem Betrag nach Absatz 4 sind sämtliche Leistungen im Zusammenhang mit der 
 
 <sup>2</sup> Artikel 64*c* Absätze 3–7 ist anwendbar.
 
-[^64d-1]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021 ([AS 2021 648](https://fedlex.data.admin.ch/eli/oc/2021/648)). Fassung gemäss Ziff. I der V vom 3. Dez. 2021, in Kraft vom 1. Jan. 2022 bis zum 31. Dez. 2022 ([AS 2021 825](https://fedlex.data.admin.ch/eli/oc/2021/825)).
+[^64d-1]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021 ([AS 2021 648](https://fedlex.data.admin.ch/eli/oc/2021/648)). Fassung gemäss Ziff. I der V vom 16. Dez. 2022, in Kraft vom 1. Jan. 2023 bis zum 31. Dez. 2023 ([AS 2022 835](https://fedlex.data.admin.ch/eli/oc/2022/835)).
 
 #### Art. 64d<sup>bis</sup>
 
 **Selbstzahlersystem bei Covid-19-Impfungen**[^64dbis-1]
 
-<sup>1</sup> Erfolgt die Abgabe von nach Artikel 44 Absatz 1 EpG beschafften Impfstoffen für Covid-19-Impfungen, einschliesslich Auffrischimpfungen, ohne behördliche Empfehlung und dient sie nicht der Bekämpfung übertragbarer Krankheiten, so kann der Bund der Bevölkerung die Impfstoffe gegen Bezahlung zur Verfügung stellen.
+<sup>1</sup> Der Bund kann die nach Artikel 44 Absatz 1 EpG beschafften Impfstoffe für Covid-19-Impfungen, einschliesslich Auffrischimpfungen, für die Impfung von Personen nach Artikel 64*a* Absatz 1 gegen Bezahlung zur Verfügung stellen, wenn die Abgabe ohne behördliche Empfehlung erfolgt und nicht der Bekämpfung übertragbarer Krankheiten dient. Ist eine ausreichende Verfügbarkeit für die Impfung der Personen nach Artikel 64*a* Absatz 1 sichergestellt, so kann der Bund die Impfstoffe gegen Bezahlung für die Impfung weiterer Personen zur Verfügung stellen.
 
-<sup>2</sup> Die Impfstellen entrichten dem Bund eine Pauschale für Impfstoff, Logistik, Impfmaterial und zusätzliche administrative Kosten. Die Pauschale beträgt 26 Franken pro Impfung.
+<sup>2</sup> Die Impfstellen entrichten dem Bund eine Pauschale für Impfstoff, Logistik, Impfmaterial und zusätzliche administrative Kosten. Die Pauschale beträgt 30 Franken pro Impfung.
 
-<sup>3</sup> Die Impfstellen senden der zuständigen kantonalen Behörde jeweils per Ende Juni, Ende September und Ende Dezember eine Aufstellung über die nach Absatz 1 durchgeführten Impfungen.
+<sup>3</sup> Die Impfstellen senden der zuständigen kantonalen Behörde jeweils per Ende März, Juni, September und Dezember eine Aufstellung über die nach Absatz 1 durchgeführten Impfungen.
 
 <sup>4</sup> Die zuständige kantonale Behörde plausibilisiert die Aufstellung aufgrund der an die Impfstelle gelieferten Dosen, prüft sie auf ihre Vollständigkeit und sendet sie innerhalb der ersten 10 Arbeitstage des der Abrechnungsperiode folgenden Monats elektronisch an die gemeinsame Einrichtung.
 
 <sup>5</sup> Die gemeinsame Einrichtung stellt den Impfstellen für jede Abrechnungsperiode bis zum 20. Arbeitstag des der Abrechnungsperiode folgenden Monats eine Rechnung für die Pauschale nach Absatz 2 zu.
 
-<sup>6</sup> Sie überweist dem BAG nach Eingang der Zahlungen der Impfstellen quartalsweise den Gesamtbetrag.
+<sup>6</sup> Sie überweist dem Bund nach Eingang der Zahlungen der Impfstellen quartalsweise den Gesamtbetrag.
 
 <sup>7</sup> Das BAG vergütet der gemeinsamen Einrichtung deren Verwaltungskosten gemäss Artikel 64*b* Absatz 6.
 
-[^64dbis-1]: Eingefügt durch Ziff. I der V vom 10. Juni 2022, in Kraft vom 11. Juni 2022 bis zum 31. Dez. 2022 ([AS 2022 345](https://fedlex.data.admin.ch/eli/oc/2022/345)).
+[^64dbis-1]: Eingefügt durch Ziff. I der V vom 10. Juni 2022 ([AS 2022 345](https://fedlex.data.admin.ch/eli/oc/2022/345)). Fassung gemäss Ziff. I der V vom 16. Dez. 2022, in Kraft vom 1. Jan. 2023 bis zum 31. Dez. 2023 ([AS 2022 835](https://fedlex.data.admin.ch/eli/oc/2022/835)).
 
 #### Art. 64e
 
@@ -1494,11 +1492,13 @@ Folgende Personen haben, soweit es zur Erfüllung ihrer Aufgaben nach dem EpG no
 
 - a. Mitarbeiterinnen und Mitarbeiter der Abteilung Übertragbare Krankheiten des BAG;
 - b. im Abrufverfahren: Kantonsärztinnen und Kantonsärzte sowie Mitarbeiterinnen und Mitarbeiter der kantonsärztlichen Dienste;
-- c. im Abrufverfahren: die oder der Beauftragte des Bundesrates für den Koordinierten Sanitätsdienst, Mitarbeiterinnen und Mitarbeiter der Geschäftsstelle Koordinierter Sanitätsdienst und des Militärärztlichen Dienstes.
+- c.[^94-1] im Abrufverfahren: die Mitarbeiterinnen und Mitarbeiter der Geschäftsstelle Koordinierter Sanitätsdienst und des Militärärztlichen Dienstes.
 
 <sup>2</sup> Die zugriffsberechtigten Personen können Daten im Modul «Kontaktmanagement» lesen, erfassen, mutieren und löschen.
 
 <sup>3</sup> Das BAG erteilt die individuellen Zugriffsrechte und regelt die entsprechende Authentifizierung.
+
+[^94-1]: Fassung gemäss Ziff. II 3 der V vom 23. Sept. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 570](https://fedlex.data.admin.ch/eli/oc/2022/570)).
 
 #### Art. 95
 
