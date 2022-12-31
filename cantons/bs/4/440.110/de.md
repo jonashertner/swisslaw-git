@@ -4,24 +4,24 @@ number: "440.110"
 title: Statut der Universität Basel
 short: Universitätsstatut
 language: de
-version: 2021-08-01
-valid_until: 2022-12-31
-version_adopted: 2020-12-17
+version: 2023-01-01
+valid_until: 2025-06-08
+version_adopted: 2022-12-19
 adopted: 2012-05-03
 in_force: 2012-08-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/440.110"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5297/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5838/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Statut der Universität Basel
 
-Universitätsstatut | Universität / Universitätsgut
+Universität und Universitätsgut / Wissenschaftliche Institute
 
 (Universitätsstatut)
 
-Vom 3. Mai 2012 (Stand 1. August 2021)
+Vom 3. Mai 2012 (Stand 1. Januar 2023)
 
 Der Universitätsrat der Universität Basel,
 
@@ -174,8 +174,10 @@ beschliesst:
   - ig) eine Visums- und Unterschriftsregelung;
 - j) verfügt im Rahmen des Leistungsauftrags mittels der Budgetierung über die Mittel der Universität;
 - k) beschliesst über das Budget, den Jahresabschluss, den Geschäftsbericht und die Berichterstattung zum Leistungsauftrag und bringt diese den Regierungen der Vertragskantone zur Kenntnis;
-- l) entscheidet im Rahmen der strategischen Ausrichtung der Universität und der Zweckbestimmung des Immobilienfonds über die Verwendung des Fonds;
-- m) bestellt eine Fachkommission für den Immobilienfonds;
+- l) …
+- m) …
+- m<sup>bis</sup>) definiert in Absprache mit dem Immobiliengremium die Immobilienstrategie der Universität;
+- m<sup>ter</sup>) ist verantwortlich für die Bauherrenrolle bei Bauprojekten der Universität;
 - n) nimmt den Bericht der Finanzkontrollen der Vertragskantone zur Kenntnis;
 - o) genehmigt
   - oa) das Wahlverfahren und die Wahl des Rektors bzw. der Rektorin und der Vizerektoren bzw. Vizerektorinnen auf Antrag der Regenz;
@@ -214,8 +216,9 @@ beschliesst:
 - c) die Erarbeitung des lang- und des kurzfristigen Investitionsplans, des Finanzplans, des Budgets und der Jahresrechnung sowie des Jahresberichts zuhanden des Universitätsrates;
 - d) die Genehmigung der Organisationsreglemente der Gliederungseinheiten der Universität;
 - e) die Berufungsverhandlungen unter Beizug der Dekanin resp. des Dekans der betroffenen Fakultät;
-- f) die Anstellung von Assistenzprofessorinnen und Assistenzprofessoren sowie von Universitätsdozierenden auf Antrag der Fakultäten;
+- f) die Ernennung von Professorinnen und Professoren mit befristeter Anstellung, von Assistenzprofessorinnen und Assistenzprofessoren sowie von Universitätsdozierenden auf Antrag der Fakultäten;
 - g) die Genehmigung von Forschungs- und Weiterbildungssemestern sowie von Urlauben auf Antrag der Fakultäten; es erlässt zu diesem Zweck ein Reglement;
+- g<sup>bis</sup>) die Genehmigung temporärer Änderungen von Anstellungsmodalitäten von Angehörigen der Gruppierung I auf Antrag der Fakultäten;
 - h) die Regelung der Zulassung zum Studium in Zusammenarbeit mit den Fakultäten, das Lehrprogramm sowie die Grundlagen zum Erwerb bzw. Entzug von Graden und Titeln;
 - i) den Erlass von speziellen Regelungen für die Zulassung zu Weiterbildungsveranstaltungen;
 - j) die Verwendung der Mittel aus den Stiftungen und Fonds des Universitätsvermögens;
