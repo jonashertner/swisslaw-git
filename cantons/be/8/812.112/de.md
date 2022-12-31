@@ -4,13 +4,13 @@ number: "812.112"
 title: Spitalversorgungsverordnung
 short: SpVV
 language: de
-version: 2022-03-01
-valid_until: 2022-12-31
-version_adopted: 2022-02-02
+version: 2023-01-01
+valid_until: 2024-12-31
+version_adopted: 2022-11-23
 adopted: 2013-10-23
 in_force: 2014-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/812.112"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2549/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2752/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2549/pdf_file"
 
 (SpVV)
 
-vom 23.10.2013 (Stand 01.03.2022)
+vom 23.10.2013 (Stand 01.01.2023)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -131,9 +131,9 @@ beschliesst:
 
 #### Art. 11
 
-<sup>1</sup> Die Finanzkontrolle ist befugt, Einsicht in die Geschäftsunterlagen der Listenspitäler und Listengeburtshäuser zu nehmen, soweit es zur Ausübung der Aufsicht nach Artikel 14 Buchstabe d des Gesetzes vom 1. Dezember 1999 über die Finanzkontrolle (Kantonales Finanzkontrollgesetz, KFKG)[^11-1] sowie zur Überprüfung der Verwendung von Staatsbeiträgen nach Artikel 16 Buchstabe a KFKG erforderlich ist.
+<sup>1</sup> Die Finanzkontrolle ist befugt, Einsicht in die Geschäftsunterlagen der Listenspitäler und Listengeburtshäuser zu nehmen, soweit es zur Ausübung der Finanzaufsicht durch die Finanzkontrolle nach Artikel 10 Absatz 1 Buchstaben d bis f des Kantonalen Finanzkontrollgesetzes vom 7. März 2022 (KFKG[^11-1]) erforderlich ist.
 
-[^11-1]: BSG 622.1
+[^11-1]: BSG [622.1](https://www.belex.sites.be.ch/data/622.1/de)
 
 ### 3.1a Kriterien für die Erteilung von Leistungsaufträgen an Spitäler
 
@@ -562,15 +562,89 @@ beschliesst:
 
 #### Art. 31
 
-<sup>1</sup> Die Gesundheits-, Sozial- und Integrationsdirektion entrichtet den Leistungserbringern für die ärztliche und pharmazeutische Weiterbildung eine Pauschale von 15'000 Franken pro Jahr und Vollzeitäquivalent.
+**Weiterbildungsquotient**
 
-<sup>2</sup> Die Pauschale wird gewährt für
+<sup>1</sup> Das Gesundheitsamt teilt dem Leistungserbringer zwei Monate vor Beginn des Rechnungsjahres für jeden Versorgungsbereich die zu erbringende Weiterbildungsleistung in Form eines Weiterbildungsquotienten mit.
 
-- a die Weiterbildung bis zur Erlangung des ersten Facharzttitels,
-- b die Weiterbildung bis zur Erlangung eines weiteren Facharzttitels, sofern der bereits erlangte Facharzttitel in einem engen curricularen Bezug zum zusätzlich angestrebten Facharzttitel steht,
-- c die Weiterbildung bis zur Erlangung des Titels Spitalapothekerin FPH oder Spitalapotheker FPH.
+<sup>2</sup> Der Weiterbildungsquotient nach Absatz 1 berechnet sich nach Artikel 105 SpVG.
 
-<sup>3</sup> Die Leistungserbringer unterstützen die bei ihnen in Weiterbildung stehenden Ärztinnen und Ärzte beim Absolvieren einer Praxisassistenz in einer Hausarztpraxis.
+<sup>3</sup> …
+
+#### Art. 31a
+
+**Erbrachte Weiterbildungsleistung**
+
+<sup>1</sup> Der Leistungserbringer meldet dem Gesundheitsamt bis fünf Monate nach dem Ende des Rechnungsjahres die Weiterbildungsleistung, die er im Rechnungsjahr erbracht hat.
+
+<sup>2</sup> Er liefert im Rahmen dieser Meldung zu jeder Weiterbildungsstelle
+
+- a den Weiterbildungsvertrag mit Angaben darüber,
+  - 1\. welcher Facharzttitel die in Weiterbildung stehende Person anstrebt und welche Facharzttitel sie allenfalls bereits vorher erlangt hat,
+  - 2\. wann die Weiterbildung begann und wann sie endete,
+  - 3\. wie hoch der Beschäftigungsgrad war.
+- b Angaben darüber, ob die Weiterbildung in einer ambulanten oder stationären Einrichtung erfolgt ist,
+- c die Ferien sowie den bezahlten oder unbezahlten Urlaub in Tagen,
+- d weitere Abwesenheiten in Wochen, sofern die Person mehr als zwei Wochen abwesend gewesen ist,
+- e die Global Location Number der Person, die die Weiterbildungsstelle besetzt hat.
+
+#### Art. 31b
+
+**Weiterbildungsleistung in Form von Vollzeitäquivalenten**
+
+<sup>1</sup> Das Gesundheitsamt teilt dem Leistungserbringer acht Monate nach dem Ende des Rechnungsjahres für jeden Versorgungsbereich in Form von Vollzeitäquivalenten die Weiterbildungsleistung mit, die er im betreffenden Rechnungsjahr zu erbringen gehabt hat.
+
+<sup>2</sup> Die Weiterbildungsleistung nach Absatz 1 berechnet sich aus den Einnahmen des Leistungserbringers, die er im Rechnungsjahr aus der obligatorischen Krankenpflegeversicherung erzielt hat, geteilt durch den Weiterbildungsquotienten nach Artikel 31 Absatz 2.
+
+<sup>3</sup> Als Vollzeitäquivalent gilt eine Weiterbildungsstelle, die im Rechnungsjahr mindestens 45 Wochen bei einem Beschäftigungsgrad von 100 Prozent besetzt gewesen ist.
+
+<sup>4</sup> Eine kürzere Dauer oder ein kleinerer Beschäftigungsgrad führen zu einer anteilsmässigen Anrechnung an ein Vollzeitäquivalent.
+
+#### Art. 31c
+
+**Abgeltung der Weiterbildungsleistung**
+
+<sup>1</sup> Das Gesundheitsamt entrichtet dem Leistungserbringer die Abgeltung für die erbrachte Weiterbildungsleistung in Form einer Pauschale nach Artikel 105a SpVG für jede Weiterbildung, die
+
+- a das Schweizerische Institut für ärztliche Weiter- und Fortbildung (SIWF) anerkennt und
+- b dazu dient, den ersten oder zweiten Facharzttitel anzustreben.
+
+<sup>2</sup> Die Abgeltung nach Absatz 1 beträgt pro Jahr und Vollzeitäquivalent
+
+- a 15'000 Franken für Weiterbildungen in nicht unterversorgten ärztlichen Fachrichtungen,
+- b 50'000 Franken für Weiterbildungen in unterversorgten ärztlichen Fachrichtungen,
+- c 15'000 Franken für pharmazeutische Weiterbildungen.
+
+<sup>3</sup> Die Gesundheits-, Sozial- und Integrationsdirektion legt die unterversorgten ärztlichen Fachrichtungen durch Verordnung fest.
+
+#### Art. 31d
+
+**Ausgleichszahlung**
+
+<sup>1</sup> Der Leistungserbringer hat eine Ausgleichszahlung an die Gesundheits-, Sozial- und Integrationsdirektion zu leisten, wenn die erbrachte Weiterbildungsleistung nach Artikel 31a mehr als fünf Prozent unter der Weiterbildungsleistung liegt, die er nach Artikel 31b zu erbringen gehabt hat.
+
+<sup>2</sup> Die Höhe der Ausgleichzahlung entspricht der Differenz nach Artikel 105b Absatz 2 SpVG. Das Gesundheitsamt rechnet spezifische Bildungsangebote nach Artikel 105b Absatz 3 SpVG an.
+
+<sup>3</sup> Als spezifische Bildungsangebote nach Artikel 105b Absatz 3 SpVG gelten von der Titelkommission des SIWF anerkannte Weiterbildungskurse mit festem Kursprogramm.
+
+#### Art. 31e
+
+**Verwendung der Ausgleichszahlungen**
+
+<sup>1</sup> Das Gesundheitsamt entrichtet dem Leistungserbringer einen Förderbeitrag
+
+- a von 50'000 Franken pro Vollzeitäquivalent für eine Weiterbildungsstelle, die
+  - 1\. eine unterversorgte ärztliche Fachrichtung betrifft,
+  - 2\. das SIWF als eine Weiterbildungsperiode in einer ambulanten Einrichtung anerkennt,
+  - 3\. in einer unterversorgten Region besteht,
+  - 4\. nicht über das Praxisassistenzprogramm des Berner Instituts für Hausarztmedizin finanziert ist,
+  - 5\. nicht nach Artikel 31c Absatz 2 Buchstabe b abgegolten worden ist.
+- b von 90 Prozent der Kosten eines Programms, welches
+  - 1\. das Gesundheitsamt vorgängig bewilligt hat,
+  - 2\. nachhaltig die Anzahl Weiterbildungsstellen nach Buchstabe a erhöht.
+
+<sup>2</sup> Die Gesundheits-, Sozial und Integrationsdirektion legt die unterversorgten ärztlichen Fachrichtungen und die unterversorgten Regionen durch Verordnung fest.
+
+<sup>3</sup> Das Gesundheitsamt kann zur Beurteilung der Programme Expertinnen und Experten beiziehen.
 
 ### 5.2 Aus- und Weiterbildung in nichtuniversitären Gesundheitsberufen
 
@@ -754,7 +828,13 @@ beschliesst:
 
 **Notfallkonzept**
 
-<sup>1</sup> Das Notfallkonzept des Leistungserbringers gewährleistet in der Regel eine ärztliche Interventionsmöglichkeit innerhalb von höchstens 15 Minuten.
+<sup>1</sup> Das Notfallkonzept des Leistungserbringers gewährleistet in der Regel eine ärztliche Interventionsmöglichkeit innerhalb von höchstens 15 Minuten. Die Anforderungen an das Notfallkonzept von Geburtshäusern richten sich nach Absatz 2.
+
+<sup>2</sup> Das Notfallkonzept der Geburtshäuser
+
+- a regelt das Notfallmanagement vom Eintritt in das Geburtshaus für die Geburt bis zum Eintritt in ein Spital,
+- b beinhaltet die Verlegungsprozesse für Notfälle von Mutter und Kind,
+- c bedingt eine Kooperation mit einem nahegelegenen Listenspital, die eine rasche Verlegung im Notfall gewährleistet.
 
 #### Art. 45
 
@@ -872,6 +952,31 @@ beschliesst:
 **Inkrafttreten**
 
 <sup>1</sup> Diese Verordnung tritt am 1. Januar 2014 in Kraft.
+
+## T1 Übergangsbestimmungen der Änderung vom 23.11.2022
+
+#### Art. T1-1
+
+**Weiterbildungsquotient für alle Versorgungsbereiche**
+
+<sup>1</sup> Abweichend von Artikel 31 Absatz 1 teilt das Gesundheitsamt dem Leistungserbringer für die Rechnungsjahre 2023 und 2024 zwei Monate vor Beginn des Rechnungsjahres 2023 bzw. 2024 die zu erbringende Weiterbildungsleistung in Form des Weiterbildungsquotienten mit, der für alle Versorgungsbereiche gilt.
+
+#### Art. T1-2
+
+**Reduktion der Ausgleichszahlung bei ärztlicher Weiterbildung**
+
+<sup>1</sup> Abweichend von Artikel 31d Absatz 1 hat der Leistungserbringer eine Ausgleichszahlung zu leisten, wenn die erbrachte Weiterbildungsleistung nach Artikel 31a
+
+- a für das Rechnungsjahr 2023 mehr als 30 Prozent unter der Weiterbildungsleistung liegt, die er nach Artikel 31b zu erbringen gehabt hat,
+- b für das Rechnungsjahr 2024 mehr als 20 Prozent unter der Weiterbildungsleistung liegt, die er nach Artikel 31b zu erbringen gehabt hat.
+
+#### Art. T1-3
+
+**Geburtshaus**
+
+<sup>1</sup> Die Voraussetzungen nach Artikel 44 Absatz 2 sind spätestens ab dem 1. Juni 2023 zu erfüllen.
+
+<sup>2</sup> Solange ein Geburtshaus die Voraussetzungen nach Artikel 44 Absatz 2 noch nicht vollständig erfüllt, hat es eine Vereinbarung mit einem Listenspital nachzuweisen, welche die unverzügliche Aufnahme von Notfällen gewährleistet.
 
 Bern, 23. Oktober 2013
 

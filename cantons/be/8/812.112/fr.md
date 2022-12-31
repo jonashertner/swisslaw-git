@@ -4,13 +4,13 @@ number: "812.112"
 title: Ordonnance sur les soins hospitaliers
 short: OSH
 language: fr
-version: 2022-03-01
-valid_until: 2022-12-31
-version_adopted: 2022-02-02
+version: 2023-01-01
+valid_until: 2024-12-31
+version_adopted: 2022-11-23
 adopted: 2013-10-23
 in_force: 2014-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/812.112"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2549/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2752/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2549/pdf_file"
 
 (OSH)
 
-du 23.10.2013 (état au 01.03.2022)
+du 23.10.2013 (état au 01.01.2023)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -131,9 +131,9 @@ arrête:
 
 #### Art. 11
 
-<sup>1</sup> Le Contrôle des finances est autorisé à consulter les livres des hôpitaux et des maisons de naissance répertoriés dans la mesure nécessaire pour exercer la surveillance prévue à l’article 14, lettre d de la loi cantonale du 1<sup>er</sup> décembre 1999 sur le Contrôle des finances (LCCF)[^11-1] et contrôler l’utilisation des subventions cantonales selon l’article 16, lettre a LCCF.
+<sup>1</sup> Le Contrôle des finances est autorisé à consulter les livres des hôpitaux et des maisons de naissance répertoriés dans la mesure nécessaire pour exercer la surveillance des finances prévue à l’article 10, alinéa 1, lettres d à f de la loi cantonale du 7 mars 2022 sur le Contrôle des finances (LCCF)[^11-1].
 
-[^11-1]: RSB 622.1
+[^11-1]: RSB [622.1](https://www.belex.sites.be.ch/data/622.1/fr)
 
 ### 3.1a Critères d’attribution des mandats de prestations aux hôpitaux
 
@@ -562,15 +562,89 @@ arrête:
 
 #### Art. 31
 
-<sup>1</sup> La Direction de la santé, des affaires sociales et de l'intégration verse aux fournisseurs de prestations un forfait annuel de 15'000 francs par équivalent plein temps pour la formation postgrade en médecine et en pharmacie.
+**Ratio de formation postgrade**
 
-<sup>2</sup> Le forfait est accordé pour
+<sup>1</sup> L’ODS communique au fournisseur de prestations, deux mois avant le début de l’exercice, la prestation de formation postgrade à réaliser dans chaque domaine de soins sous forme de ratio.
 
-- a la formation postgrade jusqu’à l’obtention du premier titre de médecin spécialiste;
-- b la formation postgrade jusqu’à l’obtention d’un titre de spécialisation supplémentaire pour autant que le titre déjà obtenu et la spécialisation visée présentent un lien étroit;
-- c la formation postgrade jusqu’à l’obtention du certificat FPH en pharmacie hospitalière.
+<sup>2</sup> Le ratio de formation postgrade selon l’alinéa 1 se calcule conformément à l’article 105 LSH.
 
-<sup>3</sup> Les fournisseurs de prestations aident les médecins en formation chez eux à effectuer un stage d’assistanat dans un cabinet médical privé.
+<sup>3</sup> …
+
+#### Art. 31a
+
+**Prestation de formation postgrade réalisée**
+
+<sup>1</sup> Le fournisseur de prestations communique à l’ODS, dans les cinq mois suivant la fin de l’exercice, la prestation de formation postgrade qu’il a réalisée durant ledit exercice.
+
+<sup>2</sup> Il livre ou indique en même temps, pour chaque poste de formation postgrade,
+
+- a le contrat de formation postgrade précisant
+  - 1\. le titre de spécialiste visé et, le cas échéant, les titres postgrades déjà obtenus,
+  - 2\. les dates de début et de fin de la formation postgrade,
+  - 3\. le taux d’occupation;
+- b le cadre, ambulatoire ou résidentiel, de la formation postgrade;
+- c le nombre de jours de vacances et de congés payés ou non payés;
+- d les autres absences en nombre de semaines, si la personne a été absente plus de deux semaines;
+- e le numéro GLN (global location number) de la personne ayant occupé le poste de formation postgrade.
+
+#### Art. 31b
+
+**Prestation de formation postgrade en équivalents plein temps**
+
+<sup>1</sup> L’ODS communique au fournisseur de prestations, dans les huit mois suivant la fin de l’exercice, la prestation de formation postgrade qui incombait à ce dernier durant ledit exercice dans chaque domaine de soins sous forme d’équivalents plein temps.
+
+<sup>2</sup> La prestation de formation postgrade selon l’alinéa 1 se calcule en divisant par le ratio de formation postgrade selon l’article 31, alinéa 2 les recettes provenant de l’assurance obligatoire des soins enregistrées durant l’exercice par le fournisseur de prestations.
+
+<sup>3</sup> Est considérée comme équivalent plein temps une place de formation postgrade occupée à un taux de 100 pour cent pendant au moins 45 semaines durant l’exercice.
+
+<sup>4</sup> Un taux d’occupation inférieur ou une durée plus courte sont imputés au prorata.
+
+#### Art. 31c
+
+**Indemnisation de la prestation de formation postgrade**
+
+<sup>1</sup> L’ODS indemnise le fournisseur de prestations pour la prestation de formation postgrade réalisée en lui versant un forfait selon l’article 105a LSH pour chaque formation postgrade
+
+- a reconnue par l’Institut suisse pour la formation médicale postgraduée et continue (ISFM) et
+- b visant à obtenir le premier ou le deuxième titre de spécialiste.
+
+<sup>2</sup> L’indemnisation selon l’alinéa 1 se monte par année et par équivalent plein temps à
+
+- a 15'000 francs pour la formation postgrade dans une discipline médicale dans laquelle l’offre est suffisante;
+- b 50'000 francs pour la formation postgrade dans une discipline médicale dans laquelle l’offre est insuffisante;
+- c 15'000 francs pour la formation postgrade en pharmacie.
+
+<sup>3</sup> La Direction de la santé, des affaires sociales et de l’intégration définit par voie d’ordonnance les disciplines médicales dans lesquelles l’offre est insuffisante.
+
+#### Art. 31d
+
+**Versement compensatoire**
+
+<sup>1</sup> Le fournisseur de prestations verse une compensation à la Direction de la santé, des affaires sociales et de l’intégration si la prestation de formation postgrade réalisée selon l’article 31a est inférieure de plus de cinq pour cent à celle qui lui incombait selon l’article 31b.
+
+<sup>2</sup> Le montant de la compensation correspond à la différence visée à l’article 105b, alinéa 2 LSH. L’ODS prend en compte les offres de formation spécifiques selon l’article 105b, alinéa 3 LSH.
+
+<sup>3</sup> Sont considérés comme offres de formation spécifiques selon l’article 105b, alinéa 3 LSH les cours de formation postgrade avec programme prédéfini reconnus par la Commission des titres de l’ISFM.
+
+#### Art. 31e
+
+**Affectation des versements compensatoires**
+
+<sup>1</sup> L’ODS verse au fournisseur de prestations une subvention d’encouragement
+
+- a de 50'000 francs par équivalent plein temps pour une place de formation postgrade
+  - 1\. qui concerne une discipline médicale dans laquelle l’offre est insuffisante;
+  - 2\. qui est reconnue par l’ISFM comme période de formation postgrade dans une structure ambulatoire;
+  - 3\. qui est proposée dans une région manquant de médecins;
+  - 4\. dont le financement n’est pas assuré via le programme d’assistanat en cabinet de l’Institut universitaire de médecine générale de Berne;
+  - 5\. qui n’a pas été indemnisée selon l’article 31c, alinéa 2, lettre b;
+- b couvrant 90 pour cent des coûts d’un programme
+  - 1\. que l’ODS a autorisé au préalable;
+  - 2\. qui augmente durablement le nombre de places de formation postgrade selon la lettre a.
+
+<sup>2</sup> La Direction de la santé, des affaires sociales et de l’intégration définit par voie d’ordonnance les disciplines médicales dans lesquelles l’offre est insuffisante et les régions manquant de médecins.
+
+<sup>3</sup> L’ODS peut faire appel à des expertes et à des experts pour évaluer les programmes.
 
 ### 5.2 Formation et perfectionnement des professions de la santé non universitaires
 
@@ -752,9 +826,15 @@ arrête:
 
 #### Art. 44
 
-**Prise en charge des urgences**
+**Plan de prise en charge des urgences**
 
-<sup>1</sup> La prise en charge des urgences est organisée par le fournisseur de prestations de sorte qu’un ou une médecin puisse en règle générale intervenir dans un délai maximal de 15 minutes.
+<sup>1</sup> Le plan de prise en charge des urgences du fournisseur de prestations garantit qu’un ou une médecin puisse en règle générale intervenir dans un délai maximal de 15 minutes. Pour les maisons de naissance, les exigences en la matière sont fixées à l’alinéa 2.
+
+<sup>2</sup> Le plan de prise en charge des urgences des maisons de naissance
+
+- a règle la gestion des urgences, depuis l’admission en maison de naissance pour l’accouchement jusqu’à l’admission à l’hôpital;
+- b inclut les procédures de transfert des cas d’urgence impliquant la mère et l’enfant;
+- c nécessite la mise en place d’une coopération avec un hôpital répertorié situé à proximité qui garantit un transfert rapide en cas d’urgence.
 
 #### Art. 45
 
@@ -872,6 +952,31 @@ arrête:
 **Entrée en vigueur**
 
 <sup>1</sup> La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2014.
+
+## T1 Dispositions transitoires de la modification du 23.11.2022
+
+#### Art. T1-1
+
+**Ratio de formation postgrade pour l’ensemble des domaines de soins**
+
+<sup>1</sup> En dérogation à l’article 31, alinéa 1, l’ODS communique au fournisseur de prestations pour 2023 et 2024, deux mois avant le début de l’exercice en question, la prestation de formation postgrade à réaliser sous forme d’un ratio valable pour tous les domaines de soins.
+
+#### Art. T1-2
+
+**Réduction du versement compensatoire pour la formation postgrade en médecine**
+
+<sup>1</sup> En dérogation à l’article 31d, alinéa 1, le fournisseur de prestations verse une compensation si la prestation de formation postgrade réalisée selon l’article 31a
+
+- a est inférieure de plus de 30 pour cent à celle qui lui incombait selon l’article 31b pour l’exercice 2023;
+- b est inférieure de plus de 20 pour cent à celle qui lui incombait selon l’article 31b pour l’exercice 2024.
+
+#### Art. T1-3
+
+**Maisons de naissance**
+
+<sup>1</sup> Les conditions fixées à l’article 44, alinéa 2 doivent être remplies d’ici au 1<sup>er</sup> juin 2023.
+
+<sup>2</sup> Tant qu’une maison de naissance ne remplit pas l’ensemble des conditions fixées à l’article 44, alinéa 2, elle doit être en mesure de prouver qu’une convention a été conclue avec un hôpital répertorié pour garantir l’admission immédiate des urgences.
 
 Berne, le 23 octobre 2013
 
