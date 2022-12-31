@@ -3,13 +3,13 @@ canton: FR
 number: "122.93.12"
 title: Reglement betreffend die Kommission für Grundstückerwerb
 language: de
-version: 2022-02-01
-valid_until: 2022-12-31
-version_adopted: 2022-02-18
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2022-12-20
 adopted: 1984-12-28
 in_force: 1985-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/122.93.12"
-pdf: "https://bdlf.fr.ch/api/de/versions/7242/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7691/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,15 +18,13 @@ pdf: "https://bdlf.fr.ch/api/de/versions/7242/pdf_file"
 
 Kommission für Grundstückerwerb – R
 
-vom 28.12.1984 (Fassung in Kraft getreten am 01.02.2022)
+vom 28.12.1984 (Fassung in Kraft getreten am 01.01.2023)
 
 Der Staatsrat des Kantons Freiburg
 
-gestützt auf das Ausführungsgesetz vom 14. Februar 1961 zum Bundesgesetz vom 8. März 1960 über die Nationalstrassen (Art. 6 und 7);
+gestützt auf das Mobilitätsgesetz vom 5. November 2021;
 
-gestützt auf das Strassengesetz vom 15. Dezember 1967 (Art. 41);
-
-auf Antrag der Direktion des Innern und der Landwirtschaft,
+auf Antrag der Raumplanungs-, Umwelt- und Baudirektion,
 
 beschliesst:
 
@@ -87,7 +85,7 @@ beschliesst:
 
 **Allgemeine Kompetenzen der Kommission**
 
-<sup>1</sup> Die Kommission erfüllt die Aufgaben, die das Gesetz in ihren Zuständigkeitsbereich legt, insbesondere diejenigen, die ihr das Raumplanungs-und Baugesetz, das Ausführungsgesetz zum Bundesgesetz über die Nationalstrassen und das Strassengesetz, das Reglement über den Wald und den Schutz vor Naturereignissen anvertrauen, sowie gleich geartete Aufgaben, die ihr der Staat durch seine Direktionen und Dienststellen überträgt.
+<sup>1</sup> Die Kommission erfüllt die Aufgaben, die das Gesetz in ihren Zuständigkeitsbereich legt, insbesondere diejenigen, die ihr das Raumplanungs- und Baugesetz, das Mobilitätsgesetz, das Reglement über den Wald und den Schutz vor Naturereignissen anvertrauen, sowie gleich geartete Aufgaben, die ihr der Staat durch seine Direktionen und Dienststellen überträgt.
 
 <sup>2</sup> Im Rahmen ihrer Befugnisse:
 

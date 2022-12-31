@@ -3,13 +3,13 @@ canton: FR
 number: "122.93.12"
 title: "Règlement concernant la Commission d'acquisition des immeubles"
 language: fr
-version: 2022-02-01
-valid_until: 2022-12-31
-version_adopted: 2022-02-18
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2022-12-20
 adopted: 1984-12-28
 in_force: 1985-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/122.93.12"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7242/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7691/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,15 +18,13 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/7242/pdf_file"
 
 Commission d'acquisition des immeubles – R
 
-du 28.12.1984 (version entrée en vigueur le 01.02.2022)
+du 28.12.1984 (version entrée en vigueur le 01.01.2023)
 
 Le Conseil d'Etat du canton de Fribourg
 
-Vu la loi d'application du 14 février 1961 de la loi fédérale du 8 mars 1960 sur les routes nationales (art. 6 et 7);
+Vu la loi du 5 novembre 2021 sur la mobilité;
 
-Vu la loi du 15 décembre 1967 sur les routes (art. 41);
-
-Sur la proposition de la Direction de l'intérieur et de l'agriculture,
+Sur la proposition de la Direction de l'aménagement du territoire, de l'environnement et des constructions,
 
 Arrête:
 
@@ -87,7 +85,7 @@ Arrête:
 
 **Compétences générales de la Commission**
 
-<sup>1</sup> La Commission accomplit les tâches que la loi place dans sa compétence, notamment celles que lui confient la loi sur l'aménagement du territoire et les constructions, la loi d'application de la loi fédérale sur les routes nationales, la loi sur les routes et le règlement sur les forêts et la protection contre les catastrophes naturelles ainsi que celles de même nature que lui confie l'Etat par ses Directions et services.
+<sup>1</sup> La Commission accomplit les tâches que la loi place dans sa compétence, notamment celles que lui confient la loi sur l'aménagement du territoire et les constructions, la loi sur la mobilité et le règlement sur les forêts et la protection contre les catastrophes naturelles ainsi que celles de même nature que lui confie l'Etat par ses Directions et services.
 
 <sup>2</sup> Dans le cadre de ses attributions:
 
