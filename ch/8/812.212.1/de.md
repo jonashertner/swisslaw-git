@@ -4,11 +4,11 @@ title: Verordnung vom 14. November 2018 über die Bewilligungen im Arzneimittelb
 short: AMBV
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/786"
 language: de
-version: 2022-07-01
+version: 2023-01-01
 adopted: 2018-11-14
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/786/20220701/de/xml/fedlex-data-admin-ch-eli-cc-2018-786-20220701-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/786/20220701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/786/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2018-786-20230101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/786/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/786/20220701/de"
 
 (Arzneimittel-Bewilligungsverordnung; AMBV)
 
-vom 14. November 2018 (Stand am 1. Juli 2022)
+vom 14. November 2018 (Stand am 1. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -738,13 +738,9 @@ Eine Person, die eine Bewilligung nach Artikel 44 Absatz 1 beantragt, muss nachw
 
 #### Art. 47
 
-**Einzeleinfuhr immunologischer Arzneimittel für den tierärztlichen Gebrauch**
+[^47-1]
 
-<sup>1</sup> Für die Einzeleinfuhr immunologischer Arzneimittel für den tierärztlichen Gebrauch ist das Gesuch nach Artikel 46 Absatz 1 an das Bundesamt für Lebensmittelsicherheit und Veterinärwesen zu richten. Für die Einzeleinfuhr von Allergenen ist keine Bewilligung erforderlich.
-
-<sup>2</sup> Die Gesuchstellerin muss dafür sorgen, dass die Bewilligung bei der Einfuhr der Zollstelle vorgelegt wird.
-
-<sup>3</sup> Bei der Zollveranlagung löscht die Zollstelle die Bewilligung und stellt sie dem Institut für Virologie und Immunologie des Bundesamtes für Lebensmittelsicherheit und Veterinärwesen zu.
+[^47-1]: Aufgehoben durch Anhang Ziff. 1 der V vom 23. Nov. 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 723](https://fedlex.data.admin.ch/eli/oc/2022/723)).
 
 #### Art. 48
 
@@ -1054,7 +1050,7 @@ Die Aufhebung und die Änderung anderer Erlasse werden in Anhang 8 geregelt.
 
 <sup>2</sup> Artikel 20 Absätze 2–4 treten am 1. Januar 2020 in Kraft.
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 4 Abs. 2, 7 Abs. 2, 13 Abs. 2 Bst. a, 27 Abs. 1 Bst. c, 37 Abs. 1 Bst. e, 45 Bst. d)
 
@@ -1081,7 +1077,7 @@ Anhang 1*[^t-1]*
 [^annex1-lvlu1-5]: Fassung gemäss ABl. L 92 vom 7.4.1990, S. 42.
 [^annex1-lvlu1-6]: Der Text dieser Empfehlung kann beim Europarat, F-67075 Strassburg (www.coe.int) bezogen oder unter /www.edqm.eu/en/blood-transfusion-guide abgerufen werden.
 
-Anhang 2*[^t-2]*
+Anhang 2[^t-2]
 
 (Art. 4 Abs. 2, 8 Abs. 4)
 
@@ -1107,7 +1103,7 @@ Der Risikofaktor ist jeweils für ein bestimmtes Arzneimittel zu berechnen. Ergi
 
 <table>
 <tr><th></th><th>Faktor</th></tr>
-<tr><td>*1. Anwendungsart:*</td><td></td></tr>
+<tr><td>1. Anwendungsart:</td><td></td></tr>
 <tr><td>a. parenterale Anwendung</td><td>5</td></tr>
 <tr><td>b. ophthalmologische Anwendung in der Chirurgie oder bei traumatischen Verletzungen</td><td>4</td></tr>
 <tr><td>c. inhalative Anwendung</td><td>4</td></tr>
@@ -1115,7 +1111,7 @@ Der Risikofaktor ist jeweils für ein bestimmtes Arzneimittel zu berechnen. Ergi
 <tr><td>e. enterale Anwendung</td><td>3</td></tr>
 <tr><td>f. ophthalmologische Anwendung am unverletzten Auge</td><td>1</td></tr>
 <tr><td>g. topische Anwendung</td><td>1</td></tr>
-<tr><td>*2. Jährliche Produktionsmenge:*</td><td></td></tr>
+<tr><td>2. Jährliche Produktionsmenge:</td><td></td></tr>
 <tr><td>a. flüssige Arzneiformen in üblichen Packungseinheiten oder Applikationseinheiten in Liter</td><td></td></tr>
 <tr><td>1. mehr als 2000</td><td>5</td></tr>
 <tr><td>2. 1000–2000</td><td>4</td></tr>
@@ -1146,18 +1142,18 @@ Der Risikofaktor ist jeweils für ein bestimmtes Arzneimittel zu berechnen. Ergi
 <tr><td>3. 50–99</td><td>3</td></tr>
 <tr><td>4. 10–49</td><td>2</td></tr>
 <tr><td>5. weniger als 10</td><td>1</td></tr>
-<tr><td>*3. Inhärente Risiken des Wirkstoffs:*</td><td></td></tr>
+<tr><td>3. Inhärente Risiken des Wirkstoffs:</td><td></td></tr>
 <tr><td>a. hohes Risiko</td><td>5</td></tr>
 <tr><td>b. mittleres Risiko</td><td>3</td></tr>
 <tr><td>c. geringes Risiko</td><td>1</td></tr>
 <tr><td colspan="2">Bei der Einstufung des Risikos eines Wirkstoffs werden mindestens folgende Kriterien beurteilt: Kanzerogenität, Mutagenität, Umwelttoxizität, Allergierisiko, therapeutische Breite, Dosierungseinheit, Stabilität bei Licht- oder Sauerstoffexposition, Temperaturschwankungen und pH-Wert-Änderungen, pharmazeutische Qualität, Pharmakopöekonformität.</td></tr>
-<tr><td>*4. Herstellungsprozess:*</td><td></td></tr>
+<tr><td>4. Herstellungsprozess:</td><td></td></tr>
 <tr><td>a. aseptische Herstellung</td><td>5</td></tr>
 <tr><td>b. Herstellung mit Endsterilisation</td><td>4</td></tr>
 <tr><td>c. lösen und mischen</td><td>3</td></tr>
 <tr><td>d. verdünnen</td><td>2</td></tr>
 <tr><td>e. abfüllen nicht steriler Arzneiformen</td><td>1</td></tr>
-<tr><td>*5. Mengenverhältnis: im Lohnauftrag hergestellte Arzneimittel – für die Abgabe an die eigene Kundschaft hergestellte Arzneimittel:*</td><td></td></tr>
+<tr><td>5. Mengenverhältnis: im Lohnauftrag hergestellte Arzneimittel – für die Abgabe an die eigene Kundschaft hergestellte Arzneimittel:</td><td></td></tr>
 <tr><td>a. ausschliesslich im Lohnauftrag</td><td>5</td></tr>
 <tr><td>b. hauptsächlich im Lohnauftrag (Verhältnis: rund 2:1)</td><td>4</td></tr>
 <tr><td>c. ausgeglichen (Verhältnis: rund 1:1)</td><td>3</td></tr>
@@ -1165,7 +1161,7 @@ Der Risikofaktor ist jeweils für ein bestimmtes Arzneimittel zu berechnen. Ergi
 <tr><td>e. ausschliesslich für die eigene Kundschaft</td><td>0,2</td></tr>
 </table>
 
-Anhang 4*[^t-3]*
+Anhang 4[^t-3]
 
 (Art. 13 Abs. 2 Bst. d, 15 Abs. 2, 17 Abs. 2, 20 Abs. 3, 45 Bst. d, 49 Abs. 5)
 

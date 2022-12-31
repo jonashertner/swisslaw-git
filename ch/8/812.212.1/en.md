@@ -4,11 +4,11 @@ title: "Ordinance of 14 November 2018 on Licensing in the Medicinal Products Sec
 short: MPLO
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/786"
 language: en
-version: 2022-07-01
+version: 2023-01-01
 adopted: 2018-11-14
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/786/20220701/en/xml/fedlex-data-admin-ch-eli-cc-2018-786-20220701-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/786/20220701/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/786/20230101/en/xml/fedlex-data-admin-ch-eli-cc-2018-786-20230101-en-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/786/20230101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Medicinal Products Licensing Ordinance, MPLO)
 
-of 14 November 2018 (Status as of 1 July 2022)
+of 14 November 2018 (Status as of 1 January 2023)
 
 The Swiss Federal Council,
 
@@ -740,13 +740,9 @@ Any person applying for a licence in accordance with Article 44 paragraph 1 must
 
 #### Art. 47
 
-**Individual batch import of immunological medicinal products for veterinary use**
+[^47-1]
 
-<sup>1</sup> The application to import individual batches of immunological medicinal products for veterinary use must be submitted to the Federal Food Safety and Veterinary Office in accordance with Article 46 paragraph 1. A licence is not required to import individual batches of allergens.
-
-<sup>2</sup> The applicant must ensure that the licence is presented to the customs office at the time when the medicinal products are imported.
-
-<sup>3</sup> On customs clearance, the customs office discharges the licence and forwards it to the Institute for Virology and Immunology of the Federal Food Safety and Veterinary Office.
+[^47-1]: Repealed by Annex No 1 of the O of 23 Nov. 2022, with effect from 1 Jan. 2023 ([AS 2022 723](https://fedlex.data.admin.ch/eli/oc/2022/723)).
 
 #### Art. 48
 
@@ -1054,7 +1050,7 @@ The repeal and amendment of other legislation are covered in Annex 8.
 
 <sup>2</sup> Article 20 paragraphs 2–4 come into force on 1 January 2020.
 
-Annex 1*[^t-1]*
+Annex 1[^t-1]
 
 (Art. 4 para. 2, 7 para. 2, 13 para. 2 let. a, 27 para. 1 let. c, 37 para. 1 let. e, 45 let. d)
 
@@ -1081,7 +1077,7 @@ Annex 1*[^t-1]*
 [^annex1-lvlu1-5]: OJ L 92 of 7.4.1990, p. 42.
 [^annex1-lvlu1-6]: The text of this recommendation can be obtained from the Council of Europe, F-67075 Strasbourg (www.coe.int) or downloaded from www.edqm.eu/en/blood-transfusion-guide.
 
-Annex 2*[^t-2]*
+Annex 2[^t-2]
 
 (Art. 4 para. 2, 8 para. 4)
 
@@ -1165,7 +1161,7 @@ The risk factor should always be calculated for a particular medicinal product. 
 <tr><td>e. exclusively for own customers</td><td>0.2</td></tr>
 </table>
 
-Annex 4*[^t-3]*
+Annex 4[^t-3]
 
 (Art. 13 para. 2 let. d, 15 para. 2, 17 para. 2, 20 para. 3, 45 let. d, 49 para. 5)
 

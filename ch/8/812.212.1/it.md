@@ -4,18 +4,18 @@ title: "Ordinanza del 14 novembre 2018 sulle autorizzazioni nel settore dei medi
 short: OAMed
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/786"
 language: it
-version: 2022-07-01
+version: 2023-01-01
 adopted: 2018-11-14
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/786/20220701/it/xml/fedlex-data-admin-ch-eli-cc-2018-786-20220701-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/786/20220701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/786/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2018-786-20230101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/786/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sulle autorizzazioni nel settore dei medicamenti (Ordinanza sull’autorizzazione dei medicamenti, OAMed)
 
-del 14 novembre 2018 (Stato 1° luglio 2022)
+del 14 novembre 2018 (Stato 1° gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -736,13 +736,9 @@ La persona che richiede un’autorizzazione secondo l’articolo 44 capoverso 1 
 
 #### Art. 47
 
-**Importazione singola di medicamenti immunologici per uso veterinario**
+[^47-1]
 
-<sup>1</sup> La richiesta d’importazione singola di medicamenti immunologici per uso veterinario va indirizzata all’Ufficio federale della sicurezza alimentare e di veterinaria conformemente all’articolo 46 capoverso 1. Per l’importazione singola di allergeni non è necessaria alcuna autorizzazione.
-
-<sup>2</sup> Il richiedente deve fare in modo che l’autorizzazione sia presentata all’ufficio doganale al momento dell’importazione.
-
-<sup>3</sup> Al momento dell’imposizione doganale l’ufficio doganale oblitera l’autorizzazione e la spedisce all’Istituto di virologia e di immunologia dell’Ufficio federale della sicurezza alimentare e di veterinaria.
+[^47-1]: Abrogato dall’all. n. 1 dell’O del 23 nov. 2022, con effetto dal 1° gen. 2023 ([RU 2022 723](https://fedlex.data.admin.ch/eli/oc/2022/723)).
 
 #### Art. 48
 
@@ -1052,7 +1048,7 @@ L’abrogazione e la modifica di altri atti normativi sono disciplinate nell’a
 
 <sup>2</sup> L’articolo 20 capoversi 2–4 entra in vigore il 1° gennaio 2020.
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 (art. 4 cpv. 2, 7 cpv. 2, 13 cpv. 2 lett. a, 27 cpv. 1 lett. c, 37 cpv. 1 lett. e, 46 lett. d)
 
@@ -1079,7 +1075,7 @@ Allegato 1*[^t-1]*
 [^annex1-lvlu1-5]: Versione della GU L 92 del 7.4.1990, pag. 42.
 [^annex1-lvlu1-6]: La raccomandazione può essere richiesta al Consiglio d’Europa, F-67075 Strasburgo (www.coe.int) o consultata all’indirizzo www.edqm.eu/en/blood-transfusion-guide.
 
-Allegato 2*[^t-2]*
+Allegato 2[^t-2]
 
 (art. 4 cpv. 2, 8 cpv. 4)
 
@@ -1163,7 +1159,7 @@ Il fattore di rischio deve essere calcolato per i singoli medicamenti. Se dalla 
 <tr><td>e. Esclusivamente per la propria clientela</td><td colspan="2">0,2</td></tr>
 </table>
 
-Allegato 4*[^t-3]*
+Allegato 4[^t-3]
 
 (art. 13 cpv. 2 lett. d, 15 cpv. 2, 17 cpv. 2, 20 cpv. 3, 45 lett. d, 49 cpv.5)
 

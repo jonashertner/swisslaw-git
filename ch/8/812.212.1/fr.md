@@ -4,11 +4,11 @@ title: Ordonnance du 14 novembre 2018 sur les autorisations dans le domaine des 
 short: OAMéd
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/786"
 language: fr
-version: 2022-07-01
+version: 2023-01-01
 adopted: 2018-11-14
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/786/20220701/fr/xml/fedlex-data-admin-ch-eli-cc-2018-786-20220701-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/786/20220701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/786/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-786-20230101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/786/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/786/20220701/fr"
 
 (OAMéd)
 
-du 14 novembre 2018 (Etat le 1<sup>er</sup> juillet 2022)
+du 14 novembre 2018 (État le 1<sup>er</sup> janvier 2023)
 
 Le Conseil fédéral suisse,
 
@@ -734,13 +734,9 @@ Quiconque demande une autorisation en vertu de l’art. 44, al. 1, doit démontr
 
 #### Art. 47
 
-**Importation à l’unité de médicaments immunologiques à usage vétérinaire**
+[^47-1]
 
-<sup>1</sup> La demande d’autorisation d’importer à l’unité de médicaments immunologiques à usage vétérinaire au sens de l’art. 46, al. 1, doit être déposée auprès de l’Office fédéral de la sécurité alimentaire et des affaires vétérinaires. Aucune autorisation n’est requise pour l’importation d’allergènes à l’unité.
-
-<sup>2</sup> Le requérant doit veiller à ce que l’autorisation soit présentée au bureau de douane lors de l’importation.
-
-<sup>3</sup> Lors du placement sous régime douanier, le bureau de douane décharge l’autorisation et la transmet à l’Institut de virologie et d’immunologie de l’Office fédéral de la sécurité alimentaire et des affaires vétérinaires.
+[^47-1]: Abrogé par l’annexe ch. 1 de l’O du 23 nov. 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 723](https://fedlex.data.admin.ch/eli/oc/2022/723)).
 
 #### Art. 48
 
@@ -1050,7 +1046,7 @@ L’abrogation et la modification d’autres actes sont réglées dans l’annex
 
 <sup>2</sup> L’art. 20, al. 2 à 4, entre en vigueur le 1<sup>er</sup> janvier 2020.
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 (art. 4, al. 2, 7, al. 2, 13, al. 2, let. a, 27, al. 1, let. c, 37, al. 1, let. e, et 45, let. d)
 
@@ -1077,7 +1073,7 @@ Annexe 1*[^t-1]*
 [^annex1-lvlu1-5]: Version selon JO L 92 du 7.4.1990, p. 42.
 [^annex1-lvlu1-6]: La recommandation peut être obtenue auprès du Conseil de l’Europe, F-67075 Strasbourg (www.coe.int) ou téléchargée sur www.edqm.eu/en/blood-transfusion-guide.
 
-Annexe 2*[^t-2]*
+Annexe 2[^t-2]
 
 (art. 4, al. 2, et 8, al. 4)
 
@@ -1103,7 +1099,7 @@ Le facteur de risque doit toujours être calculé pour un médicament spécifiqu
 
 <table>
 <tr><th></th><th colspan="3">Facteur</th></tr>
-<tr><td>*1. Mode d’utilisation:*</td><td colspan="3"></td></tr>
+<tr><td>1. Mode d’utilisation:</td><td colspan="3"></td></tr>
 <tr><td>a. Voie parentérale</td><td colspan="3">5</td></tr>
 <tr><td>b. Utilisation ophtalmologique en chirurgie ou dans le cas de lésions traumatiques</td><td colspan="3">4</td></tr>
 <tr><td>c. Inhalation</td><td colspan="3">4</td></tr>
@@ -1111,7 +1107,7 @@ Le facteur de risque doit toujours être calculé pour un médicament spécifiqu
 <tr><td>e. Voie entérale</td><td colspan="3">3</td></tr>
 <tr><td>f. Utilisation ophtalmologique sur l’œil sans lésion</td><td colspan="3">1</td></tr>
 <tr><td>g. Utilisation topique</td><td colspan="3">1</td></tr>
-<tr><td>*2. Production annuelle: quantité:*</td><td colspan="3"></td></tr>
+<tr><td>2. Production annuelle: quantité:</td><td colspan="3"></td></tr>
 <tr><td>a. Médicaments sous forme liquide dans des unités d’emballage usuelles ou dans des unités d’application, en litres</td><td colspan="3">[tab]</td></tr>
 <tr><td>1. plus de 2000</td><td colspan="3">5</td></tr>
 <tr><td>2. 1000 à 2000</td><td colspan="3">4</td></tr>
@@ -1142,18 +1138,18 @@ Le facteur de risque doit toujours être calculé pour un médicament spécifiqu
 <tr><td>3. 50 à 99</td><td colspan="3">3</td></tr>
 <tr><td>4. 10 à 49</td><td colspan="3">2</td></tr>
 <tr><td>5. moins de 10</td><td colspan="3">1</td></tr>
-<tr><td>*3. Risques inhérents au principe actif:*</td><td colspan="3"></td></tr>
+<tr><td>3. Risques inhérents au principe actif:</td><td colspan="3"></td></tr>
 <tr><td>a. Risque élevé</td><td colspan="3">5</td></tr>
 <tr><td>b. Risque moyen</td><td colspan="3">3</td></tr>
 <tr><td>c. Risque faible</td><td colspan="3">1</td></tr>
 <tr><td colspan="4">Le risque que présente un principe actif doit être évalué au moins en fonction des critères suivants: caractère cancérigène, caractère mutagène, toxicité environnementale, risque allergène, spectre thérapeutique, unité de dose, stabilité en cas d’exposition à la lumière ou à l’oxygène, variations de la température et modification de la valeur du pH, qualité pharmaceutique, conformité avec la pharmacopée.</td></tr>
-<tr><td>*4. Procédés de fabrication:*</td><td colspan="3"></td></tr>
+<tr><td>4. Procédés de fabrication:</td><td colspan="3"></td></tr>
 <tr><td>a. Fabrication aseptique</td><td colspan="3">5</td></tr>
 <tr><td>b. Fabrication avec stérilisation finale</td><td colspan="3">4</td></tr>
 <tr><td>c. Dissolution et mélange</td><td colspan="3">3</td></tr>
 <tr><td>d. Dilution</td><td colspan="3">2</td></tr>
 <tr><td>e. Conditionnement des formes de médicaments non stériles</td><td colspan="3">1</td></tr>
-<tr><td colspan="2">*5. Rapport entre les médicaments fabriqués à façon et les médicaments destinés à être remis à la clientèle de l’établissement:*</td><td colspan="2"></td></tr>
+<tr><td colspan="2">5. Rapport entre les médicaments fabriqués à façon et les médicaments destinés à être remis à la clientèle de l’établissement:</td><td colspan="2"></td></tr>
 <tr><td>a. Fabrication exclusivement pour une commande à façon</td><td colspan="3">5</td></tr>
 <tr><td>b. Fabrication principalement pour une commande à façon (rapport d’environ 2:1)</td><td colspan="3">4</td></tr>
 <tr><td>c. Répartition équilibrée (rapport de 1:1)</td><td colspan="3">3</td></tr>
@@ -1161,7 +1157,7 @@ Le facteur de risque doit toujours être calculé pour un médicament spécifiqu
 <tr><td>e. Fabrication exclusivement destinée à la clientèle de l’établissement</td><td colspan="3">0,2</td></tr>
 </table>
 
-Annexe 4*[^t-3]*
+Annexe 4[^t-3]
 
 (art. 13, al. 2, let. d, 15, al. 2, 17, al. 2, 20, al. 3, 45, let. d, 49, al. 5)
 
