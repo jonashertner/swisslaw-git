@@ -4,13 +4,13 @@ number: IX D/633/2
 title: Verordnung zum kantonalen Tierschutz- und Tierseuchengesetz
 short: "Veterinärverordnung, VetV"
 language: de
-version: 2018-07-01
-valid_until: 2022-12-31
-version_adopted: 2018-06-26
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2023-01-24
 adopted: 2013-09-17
 in_force: 2014-01-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/IX-D.633.2"
-pdf: "https://gesetze.gl.ch/api/de/versions/2029/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2407/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2029/pdf_file"
 
 (Veterinärverordnung, VetV)
 
-Vom 17.09.2013 (Stand 01.07.2018)
+Vom 17.09.2013 (Stand 01.01.2023)
 
 Der Regierungsrat,
 
@@ -153,8 +153,8 @@ verordnet:
 
 <sup>1</sup> Die von den Schlachtbetrieben zu entrichtenden Gebühren für die Entsorgung tierischer Abfälle errechnen sich aus den Halte- und den Transportkosten sowie den Entsorgungsgebühren des Extraktionswerkes. Sie betragen pro Stück:
 
-- a. Grossvieh — 11.00 Franken;
-- b. Kalb (jünger als sechs Wochen) — 6.00 Franken;
+- a. Rindvieh — 11.00 Franken;
+- b. …
 - c. Schwein — 3.00 Franken;
 - d. Schaf und Ziege — 2.00 Franken;
 - e. Zicklein, Milchlamm — 1.00 Franken;
