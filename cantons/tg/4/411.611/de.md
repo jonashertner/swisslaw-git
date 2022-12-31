@@ -1,27 +1,27 @@
 ---
 canton: TG
 number: "411.611"
-title: Verordnung des Regierungsrates zum Gesetz über Beitragsleistungen an die Schulgemeinden
+title: Verordnung zum Gesetz über Beitragsleistungen an die Schulgemeinden
 short: Beitragsverordnung
 language: de
-version: 2021-01-01
-valid_until: 2022-12-31
-version_adopted: 2020-12-15
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2022-12-20
 adopted: 2010-09-28
 in_force: 2011-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/411.611"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2107/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2617/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung des Regierungsrates zum Gesetz über Beitragsleistungen an die Schulgemeinden
+# Verordnung zum Gesetz über Beitragsleistungen an die Schulgemeinden
 
 Beitragsverordnung
 
 (Beitragsverordnung)
 
-vom 28.09.2010 (Stand 01.01.2021)
+vom 28.09.2010 (Stand 01.01.2023)
 
 ## 1. Beiträge an den Besoldungsaufwand
 
@@ -35,7 +35,7 @@ vom 28.09.2010 (Stand 01.01.2021)
 
 <sup>2</sup> Der Regierungsrat legt die durchschnittliche Lehrerbesoldung pro Lektion jährlich fest.
 
-<sup>3</sup> Die durchschnittliche Lehrerbesoldung pro Lektion erhöht sich um 19.9 % zur Deckung der Besoldungsnebenkosten und um weitere 2 % zur Finanzierung der Stellvertretung.
+<sup>3</sup> Die durchschnittliche Lehrerbesoldung pro Lektion erhöht sich um 19.8 % zur Deckung der Besoldungsnebenkosten und um weitere 2 % zur Finanzierung der Stellvertretung.
 
 #### § 2
 
@@ -43,15 +43,15 @@ vom 28.09.2010 (Stand 01.01.2021)
 
 <sup>1</sup> Zur Berechnung des Lektionenfaktors werden folgende Grössen verwendet:
 
-- 1\. Kindergarten: — 18 Schülerinnen und Schüler;
-- 2\. Primarschule: — 21 Schülerinnen und Schüler;
-- 3\. Sekundarschule: — 21 Schülerinnen und Schüler.
+- 1\. Kindergarten: — 18 Schülerinnen und Schüler
+- 2\. Primarschule: — 21 Schülerinnen und Schüler
+- 3\. Sekundarschule: — 21 Schülerinnen und Schüler
 
 <sup>2</sup> Die Lektionenfaktoren betragen:
 
-- 1\. Kindergarten: — 1.67;
-- 2\. Primarschule: — 1.72;
-- 3\. Sekundarschule: — 2.10.
+- 1\. Kindergarten: — 1.67
+- 2\. Primarschule: — 1.72
+- 3\. Sekundarschule: — 2.10
 
 #### § 3
 
@@ -59,7 +59,7 @@ vom 28.09.2010 (Stand 01.01.2021)
 
 <sup>1</sup> Als anrechenbare Besoldung der Schulleitung gilt die Lohnklasse 22, Aufstiegszone 135 %.
 
-<sup>2</sup> Die anrechenbare Besoldung der Schulleitung pro Schülerin oder Schüler ergibt sich aus der Berechnung des Minimalpensums gemäss § 19 Abs. 1 der Verordnung des Regierungsrates über die Volksschule[^3-1].
+<sup>2</sup> Die anrechenbare Besoldung der Schulleitung pro Schülerin oder Schüler ergibt sich aus der Berechnung des Minimalpensums gemäss § 19 Abs. 1 der Verordnung über die Volksschule[^3-1].
 
 <sup>3</sup> Die anrechenbare Besoldung der Schulleitung erhöht sich um den in § 1 Abs. 3 festgelegten Satz zur Deckung der Besoldungsnebenkosten.
 
@@ -85,8 +85,8 @@ vom 28.09.2010 (Stand 01.01.2021)
 
 <sup>1</sup> Der zusätzliche Beitrag für Sekundarschulen wird auf der Basis des Lektionenfaktors mit folgenden zusätzlichen Lektionenfaktoren angerechnet:
 
-- 1\. Schulen bis 120 Schülerinnen und Schüler: — 0.40;
-- 2\. Schulen ab 121 bis 180 Schülerinnen und Schüler: — 0.23.
+- 1\. Schulen bis 120 Schülerinnen und Schüler: — 0.40
+- 2\. Schulen ab 121 bis 180 Schülerinnen und Schüler: — 0.23
 
 <sup>2</sup> Schulgemeinden, bei welchen der Wechsel zur nächsten Kategorie zu einer Reduktion der Anzahl Lektionen führt, wird die Differenz zum Faktor aufgerechnet. Ausgangspunkt ist die Situation vor dem Wechsel der Kategorie.
 
@@ -122,9 +122,9 @@ vom 28.09.2010 (Stand 01.01.2021)
 
 <sup>1</sup> Die Betriebspauschale beträgt pro Schülerin oder Schüler:
 
-- 1\. Kindergarten: — Fr. 4'500;
-- 2\. Primarschule: — Fr. 6'700;
-- 3\. Sekundarschule: — Fr. 9'000.
+- 1\. Kindergarten: — Fr. 5'000
+- 2\. Primarschule: — Fr. 7'300
+- 3\. Sekundarschule: — Fr. 9'900
 
 ## 3. Weitere Leistungen
 
@@ -156,7 +156,7 @@ vom 28.09.2010 (Stand 01.01.2021)
 
 **Abgangsentschädigung**
 
-<sup>1</sup> Abgangsentschädigungen nach § 22 der Verordnung des Regierungsrates über die Rechtsstellung der Lehrpersonen an den Volksschulen[^14-1] werden zu 80 % vom Kanton übernommen.
+<sup>1</sup> Abgangsentschädigungen nach § 22 der Verordnung über die Rechtsstellung der Lehrpersonen an den Volksschulen[^14-1] werden zu 80 % vom Kanton übernommen.
 
 [^14-1]: RB [411.114](https://www.rechtsbuch.tg.ch/data/411.114/de)
 
@@ -174,7 +174,9 @@ vom 28.09.2010 (Stand 01.01.2021)
 
 <sup>2</sup> Schülerinnen und Schüler, deren Wohn- oder tatsächlicher Aufenthaltsort sich ausserhalb des Kantons befindet, werden bei der Ermittlung der massgebenden Schülerzahl nicht angerechnet. Vorbehalten bleiben anderslautende Vereinbarungen in Staatsverträgen. Das Departement regelt die Anrechnung weiterer Sonderfälle.
 
-<sup>3</sup> Erfolgt durch die Schulaufsicht eine Umteilung im Rahmen von § 36 Abs. 2 des Gesetzes über die Volksschule oder besucht eine Schülerin oder ein Schüler im Rahmen der Begabtenförderung eine andere Schule, werden die Schülerinnen und Schüler dieser Schulgemeinde angerechnet.
+<sup>3</sup> Erfolgt durch die Schulaufsicht eine Umteilung im Rahmen von § 36 Abs. 2 des Gesetzes über die Volksschule (VG)[^16-1] oder besucht eine Schülerin oder ein Schüler im Rahmen der Begabtenförderung eine andere Schule, werden die Schülerinnen und Schüler dieser Schulgemeinde angerechnet.
+
+[^16-1]: RB [411.11](https://www.rechtsbuch.tg.ch/data/411.11/de)
 
 #### § 17
 
@@ -186,9 +188,7 @@ vom 28.09.2010 (Stand 01.01.2021)
 
 **Bekanntgabe der Daten und Säumnisfolgen**
 
-<sup>1</sup> Das Amt legt die zu erhebenden Daten, die Fristen
-
-und die Form der Bekanntgabe fest, welche zur Festlegung der Berechnungselemente notwendig sind.
+<sup>1</sup> Das Amt legt die zu erhebenden Daten, die Fristen und die Form der Bekanntgabe fest, welche zur Festlegung der Berechnungselemente notwendig sind.
 
 <sup>2</sup> Säumigen Schulgemeinden ist eine Nachfrist zur Einreichung der Daten zu gewähren mit dem Hinweis auf die Säumnisfolgen.
 
@@ -210,7 +210,7 @@ und die Form der Bekanntgabe fest, welche zur Festlegung der Berechnungselemente
 
 <sup>4</sup> Die Kantonsbeiträge und Abschöpfungsbeiträge werden vom Amt per Oktober durch Entscheid festgesetzt. Die entsprechenden Restbeträge werden den Schulgemeinden Ende Oktober ausbezahlt oder in Rechnung gestellt.
 
-## 5. Übergangs- und Schlussbestimmungen
+## 5.
 
 #### § 21–25
 
