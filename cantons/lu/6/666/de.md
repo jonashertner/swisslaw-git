@@ -3,20 +3,19 @@ canton: LU
 number: "666"
 title: Verordnung zum Bundesgesetz über die Verrechnungssteuer
 language: de
-version: 2013-07-01
-valid_until: 2022-12-31
-version_adopted: 2013-04-23
+version: 2023-01-01
+version_adopted: 2022-11-02
 adopted: 2000-12-12
 in_force: 2001-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/666"
-pdf: "https://srl.lu.ch/api/de/versions/2348/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3985/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zum Bundesgesetz über die Verrechnungssteuer
 
-vom 12.12.2000 (Stand 01.07.2013)
+vom 12.12.2000 (Stand 01.01.2023)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -47,7 +46,7 @@ beschliesst:
 - g. die Festsetzung und die Geltendmachung von Rückleistungen nach Artikel 58 Absatz 1 des Bundesgesetzes über die Verrechnungssteuer[^1-2], wenn die eidgenössische Steuerverwaltung eine vorsorgliche Kürzung vorgenommen hat,
 - h. die Erhebung von verwaltungsrechtlichen Klagen nach Artikel 58 Absatz 4 des Bundesgesetzes über die Verrechnungssteuer,
 - i. die Führung des Registers über die bewilligten Rückerstattungen nach Artikel 67 Absatz 3 der Vollziehungsverordnung zum Bundesgesetz über die Verrechnungssteuer[^1-3],
-- k. die Rückerstattung der Verrechnungssteuer in Fällen der ergänzenden ordentlichen Veranlagung nach § 122 des Steuergesetzes.
+- k. …
 
 [^1-1]: Gemäss Änderung vom 16. März 2007 der Verordnung über die Aufgaben der Departemente und der Staatskanzlei sowie die Gliederung der Departemente in Dienststellen, in Kraft seit dem 1. Juli 2007 (G 2007 33), wurde in den §§ 1, 2, 4, 5 und 9–12 die Bezeichnung «kantonale Steuerverwaltung» durch «Dienststelle Steuern des Kantons» ersetzt.
 [^1-2]: SR [642.21](https://db.clex.ch/link/Bund/642.21/de). Auf dieses Gesetz wird im Folgenden nicht mehr hingewiesen.
@@ -86,13 +85,13 @@ beschliesst:
 
 <sup>1</sup> Der Rückerstattungsantrag ist im ordentlichen Veranlagungsverfahren mit dem amtlichen Formular zusammen mit der Steuererklärung bei der Veranlagungsbehörde jener Gemeinde einzureichen, in der die antragsberechtigte Person am Ende des Kalenderjahres, in dem die steuerbare Leistung fällig wird, ihren Wohnsitz hat, beziehungsweise der Antrag ist an die von der Veranlagungsbehörde bezeichnete Adresse zu senden.
 
-<sup>2</sup> Steuerpflichtige, die der ergänzenden ordentlichen Veranlagung nach § 122 des Steuergesetzes unterliegen, reichen das Antragsformular bei der Dienststelle Steuern des Kantons ein beziehungsweise senden es an die von dieser Dienststelle bezeichnete Adresse.
+<sup>2</sup> …
 
 #### § 5
 
-**Antrag in besonderen Fällen**
+**Antrag auf vorzeitige Rückerstattung**
 
-<sup>1</sup> Anträge auf Rückerstattung der Verrechnungssteuer in Erbfällen sind mit dem amtlichen Formular bei der Dienststelle Steuern des Kantons einzureichen beziehungsweise an die von ihr bezeichnete Adresse zu senden.
+<sup>1</sup> …
 
 <sup>2</sup> Anträge auf vorzeitige Rückerstattung nach Artikel 29 Absatz 3 des Bundesgesetzes über die Verrechnungssteuer sind mit dem amtlichen Formular und einer Begründung bei der Veranlagungsbehörde einzureichen beziehungsweise an die von ihr bezeichnete Adresse zu senden.
 
@@ -108,9 +107,9 @@ beschliesst:
 
 #### § 7
 
-**Rückerstattung in Erbfällen und Fällen vorzeitiger Rückerstattung**
+**Vorzeitige Rückerstattung**
 
-<sup>1</sup> In Erbfällen und in Fällen vorzeitiger Rückerstattung kann die Verrechnungssteuer ausbezahlt werden.
+<sup>1</sup> In Fällen vorzeitiger Rückerstattung kann die Verrechnungssteuer ausbezahlt werden.
 
 ### 2.3 Verfahren
 
