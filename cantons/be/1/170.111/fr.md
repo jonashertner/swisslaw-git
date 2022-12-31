@@ -4,13 +4,13 @@ number: "170.111"
 title: Ordonnance sur les communes
 short: OCo
 language: fr
-version: 2020-11-01
-valid_until: 2022-12-31
-version_adopted: 2020-09-02
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2022-10-19
 adopted: 1998-12-16
 in_force: 1999-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/170.111"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2011/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2692/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2011/pdf_file"
 
 (OCo)
 
-du 16.12.1998 (état au 01.11.2020)
+du 16.12.1998 (état au 01.01.2023)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -326,7 +326,7 @@ arrête:
 
 **Publications**
 
-<sup>1</sup> Les informations que la commune doit porter à la connaissance du public sont publiées dans la feuille officielle d'avis.
+<sup>1</sup> Les informations que la commune doit porter à la connaissance du public sont communiquées dans l'organe de publication officiel de celle-ci.
 
 ## 5 Procès-verbaux
 
@@ -363,7 +363,7 @@ arrête:
 
 <sup>1</sup> Les règlements de syndicats de communes ressortissant au corps électoral font l'objet d'un dépôt public dans toutes les communes affiliées.
 
-<sup>2</sup> Le dépôt public est publié dans les feuilles officielles d'avis des communes affiliées.
+<sup>2</sup> Le dépôt public est communiqué dans les organes de publication officiels des communes affiliées.
 
 #### Art. 39
 

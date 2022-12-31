@@ -4,13 +4,13 @@ number: "170.111"
 title: Gemeindeverordnung
 short: GV
 language: de
-version: 2020-11-01
-valid_until: 2022-12-31
-version_adopted: 2020-09-02
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2022-10-19
 adopted: 1998-12-16
 in_force: 1999-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/170.111"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2011/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2692/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2011/pdf_file"
 
 (GV)
 
-vom 16.12.1998 (Stand 01.11.2020)
+vom 16.12.1998 (Stand 01.01.2023)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -326,7 +326,7 @@ beschliesst:
 
 **Veröffentlichungen**
 
-<sup>1</sup> Informationen, welche die Gemeinde veröffentlichen muss, werden im amtlichen Anzeiger bekanntgemacht.
+<sup>1</sup> Informationen, welche die Gemeinde veröffentlichen muss, werden im amtlichen Publikationsorgan der Gemeinde bekanntgemacht.
 
 ## 5 Protokoll
 
@@ -363,7 +363,7 @@ beschliesst:
 
 <sup>1</sup> Reglemente von Gemeindeverbänden, die von den Stimmberechtigten erlassen werden, sind in allen Verbandsgemeinden aufzulegen.
 
-<sup>2</sup> Die Auflage wird in den amtlichen Anzeigern der Verbandsgemeinden veröffentlicht.
+<sup>2</sup> Die Auflage wird in den amtlichen Publikationsorganen der Verbandsgemeinden veröffentlicht.
 
 #### Art. 39
 
