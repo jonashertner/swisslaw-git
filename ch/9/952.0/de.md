@@ -4,20 +4,20 @@ title: "Bundesgesetz vom 8. November 1934 über die Banken und Sparkassen (Banke
 short: BankG
 eli: "https://fedlex.data.admin.ch/eli/cc/51/117_121_129"
 language: de
-version: 2021-08-01
+version: 2023-01-01
 adopted: 1934-11-08
 in_force: 1935-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/51/117_121_129/20210801/de/xml/fedlex-data-admin-ch-eli-cc-51-117_121_129-20210801-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/51/117_121_129/20210801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/51/117_121_129/20230101/de/xml/fedlex-data-admin-ch-eli-cc-51-117_121_129-20230101-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/51/117_121_129/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Bundesgesetz über die Banken und Sparkassen
 
-(Bankengesetz, BankG)**[^t-1]**
+(Bankengesetz, BankG)[^t-1]
 
-vom 8. November 1934 (Stand am 1. August 2021)
+vom 8. November 1934 (Stand am 1. Januar 2023)
 
 [^t-1]: Fassung des Titels gemäss Ziff. I des BG vom 22. April 1999, in Kraft seit 1. Okt. 1999 ([AS 1999 2405](https://fedlex.data.admin.ch/eli/oc/1999/368); BBl **1998** 3847).
 
@@ -63,10 +63,11 @@ Dem Gesetz unterstehen insbesondere nicht:
 Als Bank gilt, wer hauptsächlich im Finanzbereich tätig ist und:
 
 - a. gewerbsmässig Publikumseinlagen von mehr als 100 Millionen Franken entgegennimmt oder sich öffentlich dafür empfiehlt;
-- b. gewerbsmässig Publikumseinlagen bis zu 100 Millionen Franken entgegennimmt oder sich öffentlich dafür empfiehlt und diese Publikumseinlagen anlegt oder verzinst; oder
+- b.[^1a-2] gewerbsmässig Publikumseinlagen bis zu 100 Millionen Franken oder vom Bundesrat bezeichnete kryptobasierte Vermögenswerte entgegennimmt oder sich öffentlich dafür empfiehlt und diese Publikumseinlagen oder Vermögenswerte anlegt oder verzinst; oder
 - c. sich in erheblichem Umfang bei mehreren nicht massgebend an ihm beteiligten Banken refinanziert, um damit auf eigene Rechnung eine unbestimmte Zahl von Personen oder Unternehmen, mit denen er keine wirtschaftliche Einheit bildet, auf irgendeine Art zu finanzieren.
 
 [^1a-1]: Eingefügt durch Anhang Ziff. II 14 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^1a-2]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (Insolvenz und Einlagensicherung), in Kraft seit 1. Jan. 2023 ([AS 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [BBl 2020 6359](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
 
 #### Art. 1b
 
@@ -142,7 +143,7 @@ Die Bestimmungen dieses Gesetzes finden sinngemäss Anwendung auf die von auslä
 
 <sup>1</sup>
 
-Dem elften und zwölften Abschnitt dieses Gesetzes unterstehen, soweit sie nicht im Rahmen der Aufsicht über das Einzelinstitut der Konkurszuständigkeit der FINMA unterstehen:
+Dem elften, zwölften und zwölften a. Abschnitt dieses Gesetzes unterstehen, soweit sie nicht im Rahmen der Aufsicht über das Einzelinstitut der Konkurszuständigkeit der FINMA unterstehen:[^2bis-2]
 
 - a. in der Schweiz domizilierte Konzernobergesellschaften einer Finanzgruppe oder eines Finanzkonglomerates;
 - b. diejenigen Gruppengesellschaften mit Sitz in der Schweiz, die für die bewilligungspflichtigen Tätigkeiten wesentliche Funktionen erfüllen (wesentliche Gruppengesellschaften).
@@ -152,6 +153,7 @@ Dem elften und zwölften Abschnitt dieses Gesetzes unterstehen, soweit sie nicht
 <sup>3</sup> Die FINMA bezeichnet die wesentlichen Gruppengesellschaften und führt darüber ein Verzeichnis. Dieses ist öffentlich zugänglich.
 
 [^2bis-1]: Eingefügt durch Anhang Ziff. 10 des Finanzmarktinfrastrukturgesetzes vom 19. Juni 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [BBl 2014 7483](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
+[^2bis-2]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (Insolvenz und Einlagensicherung), in Kraft seit 1. Jan. 2023 ([AS 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [BBl 2020 6359](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
 
 ## Zweiter Abschnitt: Bewilligung zum Geschäftsbetrieb
 
@@ -177,7 +179,7 @@ Die Bewilligung wird erteilt, wenn:
 
 <sup>3</sup> Die Bank hat der FINMA ihre Statuten, Gesellschaftsverträge und Reglemente einzureichen sowie alle späteren Änderungen daran anzuzeigen, soweit diese den Geschäftszweck, den Geschäftsbereich, das Grundkapital oder die innere Organisation betreffen. Solche Änderungen dürfen nicht ins Handelsregister eingetragen werden, bevor die FINMA sie genehmigt hat.
 
-<sup>4</sup> ...[^3-5]
+<sup>4</sup> …[^3-5]
 
 <sup>5</sup> Jede natürliche oder juristische Person hat der FINMA Meldung zu erstatten, bevor sie direkt oder indirekt eine qualifizierte Beteiligung nach Absatz 2 Buchstabe c<sup>bis</sup> an einer nach schweizerischem Recht organisierten Bank erwirbt oder veräussert. Diese Meldepflicht besteht auch, wenn eine qualifizierte Beteiligung in solcher Weise vergrössert oder verkleinert wird, dass die Schwellen von 20, 33 oder 50 Prozent des Kapitals oder der Stimmen erreicht oder über- beziehungsweise unterschritten werden.[^3-6]
 
@@ -218,13 +220,14 @@ Ist eine Bank Teil einer Finanzgruppe oder eines Finanzkonglomerats, so kann die
 
 Als Finanzgruppe gelten zwei oder mehrere Unternehmen, wenn:
 
-- a. mindestens eines als Bank oder Effektenhändler tätig ist;
+- a. mindestens eines als Bank oder Wertpapierhaus[^3c-2] tätig ist;
 - b. sie hauptsächlich im Finanzbereich tätig sind; und
 - c. sie eine wirtschaftliche Einheit bilden oder aufgrund anderer Umstände anzunehmen ist, dass ein oder mehrere der Einzelaufsicht unterstehende Unternehmen rechtlich verpflichtet oder faktisch gezwungen sind, Gruppengesellschaften beizustehen.
 
 <sup>2</sup> Als bank- oder effektenhandelsdominiertes Finanzkonglomerat gilt eine Finanzgruppe gemäss Absatz 1, die hauptsächlich im Bank- oder Effektenhandelsbereich tätig ist und zu der mindestens ein Versicherungsunternehmen von erheblicher wirtschaftlicher Bedeutung gehört.
 
 [^3c-1]: Eingefügt durch Anhang Ziff. II 6 des Versicherungsaufsichtsgesetzes vom 17. Dez. 2004, in Kraft seit 1. Jan. 2006 ([AS 2005 5269](https://fedlex.data.admin.ch/eli/oc/2005/734); [BBl 2003 3789](https://fedlex.data.admin.ch/eli/fga/2003/577)).
+[^3c-2]: Ausdruck gemäss Ziff. I des BG vom 17. Dez. 2021 (Insolvenz und Einlagensicherung), in Kraft seit 1. Jan. 2023 ([AS 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [BBl 2020 6359](https://fedlex.data.admin.ch/eli/fga/2020/1555)). Diese Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.
 
 #### Art. 3d
 
@@ -234,7 +237,7 @@ Als Finanzgruppe gelten zwei oder mehrere Unternehmen, wenn:
 
 Die FINMA kann eine Finanzgruppe oder ein bank- oder effektenhandelsdominiertes Finanzkonglomerat der Gruppen- oder Konglomeratsaufsicht unterstellen, wenn diese oder dieses:
 
-- a. in der Schweiz eine nach schweizerischem Recht organisierte Bank oder einen Effektenhändler führt; oder
+- a. in der Schweiz eine nach schweizerischem Recht organisierte Bank oder ein Wertpapierhaus führt; oder
 - b. tatsächlich von der Schweiz aus geleitet wird.
 
 <sup>2</sup> Beanspruchen gleichzeitig andere ausländische Behörden die vollständige oder teilweise Aufsicht über die Finanzgruppe oder das Finanzkonglomerat, so verständigt sich die FINMA, unter Wahrung ihrer Kompetenzen, mit diesen über Zuständigkeiten, Modalitäten und Gegenstand der Gruppen- oder Konglomeratsaufsicht. Sie konsultiert vor ihrem Entscheid die in der Schweiz inkorporierten Unternehmungen der Finanzgruppe oder des Finanzkonglomerats.[^3d-2]
@@ -270,7 +273,13 @@ Die FINMA kann eine Finanzgruppe oder ein bank- oder effektenhandelsdominiertes 
 
 <sup>2</sup> Die FINMA ist ermächtigt, für bank- oder effektenhandelsdominierte Finanzkonglomerate Vorschriften über Eigenmittel, Liquidität, Risikoverteilung, gruppeninterne Risikopositionen und Rechnungslegung zu erlassen oder einzelfallweise festzulegen. Betreffend die erforderlichen Eigenmittel berücksichtigt sie dabei die bestehenden Regeln des Finanz- und Versicherungsbereichs sowie die relative Bedeutung beider Bereiche im Finanzkonglomerat und die damit verbundenen Risiken.
 
+<sup>3</sup> Der Bundesrat kann Vorschriften erlassen über die finanzielle Ausstattung und die Organisation wesentlicher Gruppengesellschaften nach Artikel 2<sup>bis</sup> Absatz 1 Buchstabe b, die wesentliche Funktionen für systemrelevante Banken erfüllen.[^3g-2]
+
+<sup>4</sup> Die Anforderungen an die finanzielle Ausstattung und die Organisation richten sich nach Umfang und Art der wesentlichen Dienstleistungen, die von den wesentlichen Gruppengesellschaften im Fall einer Sanierung oder Konkursliquidation der Gruppe zu erbringen sind.[^3g-3]
+
 [^3g-1]: Eingefügt durch Anhang Ziff. II 6 des Versicherungsaufsichtsgesetzes vom 17. Dez. 2004, in Kraft seit 1. Jan. 2006 ([AS 2005 5269](https://fedlex.data.admin.ch/eli/oc/2005/734); [BBl 2003 3789](https://fedlex.data.admin.ch/eli/fga/2003/577)).
+[^3g-2]: Eingefügt durch Ziff. I des BG vom 17. Dez. 2021 (Insolvenz und Einlagensicherung), in Kraft seit 1. Jan. 2023 ([AS 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [BBl 2020 6359](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
+[^3g-3]: Eingefügt durch Ziff. I des BG vom 17. Dez. 2021 (Insolvenz und Einlagensicherung), in Kraft seit 1. Jan. 2023 ([AS 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [BBl 2020 6359](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
 
 #### Art. 3h
 
@@ -288,7 +297,7 @@ Die FINMA kann die Bewilligung zur Errichtung einer Bank, die nach schweizerisch
 
 - a.[^3bis-3] von der Gewährleistung des Gegenrechts durch die Staaten, in denen die Ausländer mit qualifizierten Beteiligungen ihren Wohnsitz oder Sitz haben, sofern keine anderslautenden internationalen Verpflichtungen entgegenstehen;
 - b. von der Verwendung einer Firma, die nicht auf einen schweizerischen Charakter der Bank hinweist oder darauf schliessen lässt;
-- c.[^3bis-4] ...
+- c.[^3bis-4] …
 
 <sup>1bis</sup> Ist eine Bank Teil einer Finanzgruppe oder eines Finanzkonglomerates, so kann die FINMA die Bewilligung von der Zustimmung der massgeblichen ausländischen Aufsichtsbehörden abhängig machen.[^3bis-5]
 
@@ -332,7 +341,7 @@ Als Ausländer gelten:
 
 [^3quater-1]: Eingefügt durch Ziff. I des BG vom 18. März 1994, in Kraft seit 1. Febr. 1995 ([AS 1995 246](https://fedlex.data.admin.ch/eli/oc/1995/246_246_246); [BBl 1993 I 805](https://fedlex.data.admin.ch/eli/fga/1993/1_805_757_609)).
 
-## Dritter Abschnitt: Eigene Mittel, Liquidität und andere Vorschriften über die Geschäftstätigkeit****
+## Dritter Abschnitt: Eigene Mittel, Liquidität und andere Vorschriften über die Geschäftstätigkeit
 
 [^chap3-1]
 
@@ -360,7 +369,7 @@ Als Ausländer gelten:
 
 <sup>2</sup> Die Vollziehungsverordnung setzt dieses Verhältnis fest unter besonderer Berücksichtigung der Ausleihungen an öffentlich-rechtliche Körperschaften und der Art der Deckung.
 
-<sup>3</sup> ...[^4bis-2]
+<sup>3</sup> …[^4bis-2]
 
 [^4bis-1]: Eingefügt durch Ziff. I des BG vom 11. März 1971, in Kraft seit 1. Juli 1971 ([AS 1971 808](https://fedlex.data.admin.ch/eli/oc/1971/808_808_809)[824](https://fedlex.data.admin.ch/eli/oc/1971/824_825_825)Art. 1; [BBl 1970 I 1144](https://fedlex.data.admin.ch/eli/fga/1970/1_1144__)). Siehe auch die SchlB Änd. 18. März 1994 am Ende dieses BG.
 [^4bis-2]: Aufgehoben durch Ziff. I des BG vom 18. März 1994, mit Wirkung seit 1. Febr. 1995 ([AS 1995 246](https://fedlex.data.admin.ch/eli/oc/1995/246_246_246); [BBl 1993 I 805](https://fedlex.data.admin.ch/eli/fga/1993/1_805_757_609)).
@@ -371,7 +380,7 @@ Als Ausländer gelten:
 
 <sup>1</sup> Kredite an Mitglieder der Bankorgane und an massgebende Aktionäre sowie die ihnen nahe stehenden Personen und Gesellschaften dürfen nur nach den allgemein anerkannten Grundsätzen des Bankgewerbes gewährt werden.
 
-<sup>2</sup> ...[^4ter-2]
+<sup>2</sup> …[^4ter-2]
 
 [^4ter-1]: Eingefügt durch Ziff. I des BG vom 11. März 1971, in Kraft seit 1. Juli 1971 ([AS 1971 808](https://fedlex.data.admin.ch/eli/oc/1971/808_808_809)[824](https://fedlex.data.admin.ch/eli/oc/1971/824_825_825)Art. 1; [BBl 1970 I 1144](https://fedlex.data.admin.ch/eli/fga/1970/1_1144__)). Siehe auch die SchlB Änd. 18. März 1994 am Ende dieses BG.
 [^4ter-2]: Aufgehoben durch Ziff. I des BG vom 18. März 1994, mit Wirkung seit 1. Febr. 1995 ([AS 1995 246](https://fedlex.data.admin.ch/eli/oc/1995/246_246_246); [BBl 1993 I 805](https://fedlex.data.admin.ch/eli/fga/1993/1_805_757_609)).
@@ -414,7 +423,7 @@ Für kryptobasierte Vermögenswerte, die die Bank als Depotwerte für Depotkunde
 
 [^5-1]: Aufgehoben durch Anhang Ziff. 15 des Finanzmarktaufsichtsgesetzes vom 22. Juni 2007, mit Wirkung seit 1. Jan. 2009 ([AS 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736)[5205](https://fedlex.data.admin.ch/eli/oc/2008/735); [BBl 2006 2829](https://fedlex.data.admin.ch/eli/fga/2006/303)).
 
-## Vierter Abschnitt:**** Rechnungslegung
+## Vierter Abschnitt: Rechnungslegung
 
 [^chap4-1]
 
@@ -466,7 +475,7 @@ Die Bank erstellt für jedes Geschäftsjahr einen Geschäftsbericht; dieser best
 
 [^6b-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
-## Fünfter Abschnitt:**** Systemrelevante Banken
+## Fünfter Abschnitt: Systemrelevante Banken
 
 [^chap5-1]
 
@@ -555,7 +564,7 @@ Er kann insbesondere unter Berücksichtigung der wirtschaftlichen Lage der Bank 
 
 <sup>3</sup> Systemrelevante Banken und ihre Konzernobergesellschaften sind verpflichtet, in ihren Vergütungssystemen verbindlich einen Vorbehalt anzubringen, wonach im Fall staatlicher Unterstützung nach diesem Artikel der Rechtsanspruch auf variable Vergütung beschränkt werden kann.
 
-## Sechster Abschnitt:**** Zusätzliches Kapital
+## Sechster Abschnitt: Zusätzliches Kapital
 
 [^chap6-1]
 
@@ -703,7 +712,7 @@ Die Genossenschaftsbank kann unter folgenden Voraussetzungen eigene Beteiligungs
 [^14b-1]: Eingefügt durch Anhang Ziff. II 14 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^14b-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
-## Siebenter Abschnitt: Spareinlagen und Depotwerte****
+## Siebenter Abschnitt: Spareinlagen und Depotwerte
 
 [^chap7-1]
 
@@ -713,7 +722,7 @@ Die Genossenschaftsbank kann unter folgenden Voraussetzungen eigene Beteiligungs
 
 <sup>1</sup> Einlagen, die in irgendeiner Wortverbindung durch den Ausdruck «Sparen» gekennzeichnet sind, dürfen nur von Banken entgegengenommen werden, die öffentlich Rechnung ablegen. Alle andern Unternehmen sind zur Entgegennahme von Spareinlagen nicht berechtigt und dürfen weder in der Firma noch in der Bezeichnung des Geschäftszweckes noch in Geschäftsreklamen den Ausdruck «Sparen» mit Bezug auf die bei ihnen gemachten Geldeinlagen verwenden.[^15-1]
 
-<sup>2</sup> <sup>–</sup><sup>3</sup> ...[^15-2]
+<sup>2</sup> <sup>–</sup><sup>3</sup> …[^15-2]
 
 [^15-1]: Fassung gemäss Ziff. I des BG vom 18. März 1994, in Kraft seit 1. Febr. 1995 ([AS 1995 246](https://fedlex.data.admin.ch/eli/oc/1995/246_246_246); [BBl 1993 I 805](https://fedlex.data.admin.ch/eli/fga/1993/1_805_757_609)).
 [^15-2]: Aufgehoben durch Anhang Ziff. 17 des BG vom 16. Dez. 1994, mit Wirkung seit 1. Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
@@ -739,7 +748,7 @@ Als Depotwerte im Sinne von Artikel 37*d* des Gesetzes gelten:[^16-2]
 [^16-2]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2003, in Kraft seit 1. Juli 2004 ([AS 2004 2767](https://fedlex.data.admin.ch/eli/oc/2004/340); [BBl 2002 8060](https://fedlex.data.admin.ch/eli/fga/2002/1290)).
 [^16-3]: Eingefügt durch Ziff. I 6 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Aug. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
-## Achter Abschnitt: ...
+## Achter Abschnitt: …
 
 #### Art. 17
 
@@ -747,7 +756,7 @@ Als Depotwerte im Sinne von Artikel 37*d* des Gesetzes gelten:[^16-2]
 
 [^17-1]: Aufgehoben durch Anhang Ziff. 5 des Bucheffektengesetzes vom 3. Okt. 2008, mit Wirkung seit 1. Jan. 2010 ([AS 2009 3577](https://fedlex.data.admin.ch/eli/oc/2009/450); [BBl 2006 9315](https://fedlex.data.admin.ch/eli/fga/2006/1228)).
 
-## Neunter Abschnitt: Überwachung und Prüfung****
+## Neunter Abschnitt: Überwachung und Prüfung
 
 [^chap9-1]
 
@@ -772,7 +781,7 @@ Als Depotwerte im Sinne von Artikel 37*d* des Gesetzes gelten:[^16-2]
 
 [^1922-1]: Aufgehoben durch Anhang Ziff. 15 des Finanzmarktaufsichtsgesetzes vom 22. Juni 2007, mit Wirkung seit 1. Jan. 2009 ([AS 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736)[5205](https://fedlex.data.admin.ch/eli/oc/2008/735); [BBl 2006 2829](https://fedlex.data.admin.ch/eli/fga/2006/303)).
 
-## Zehnter Abschnitt: Aufsicht****
+## Zehnter Abschnitt: Aufsicht
 
 [^chap10-1]
 
@@ -844,22 +853,9 @@ Zur Durchsetzung von Artikel 3 Absätze 2 Buchstabe c<sup>bis</sup> und 5 dieses
 
 [^24-1]
 
-<sup>1</sup> ...[^24-2]
+[^24-1]: Aufgehoben durch Ziff. I des BG vom 17. Dez. 2021 (Insolvenz und Einlagensicherung), mit Wirkung seit 1. Jan. 2023 ([AS 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [BBl 2020 6359](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
 
-<sup>2</sup> In den Verfahren nach dem elften und dem zwölften Abschnitt dieses Gesetzes können die Gläubiger und Eigner einer Bank, einer Konzernobergesellschaft oder einer wesentlichen Gruppengesellschaft gemäss Artikel 2<sup>bis</sup> lediglich gegen die Genehmigung des Sanierungsplans und gegen Verwertungshandlungen Beschwerde führen. Die Beschwerde nach Artikel 17 des Bundesgesetzes vom 11. April 1889[^24-3] über Schuldbetreibung und Konkurs ist in diesen Verfahren ausgeschlossen.[^24-4]
-
-<sup>3</sup> Beschwerden in den Verfahren nach dem elften und zwölften Abschnitt haben keine aufschiebende Wirkung. Der Instruktionsrichter kann die aufschiebende Wirkung auf Gesuch hin erteilen. Die Erteilung der aufschiebenden Wirkung für Beschwerden gegen die Genehmigung des Sanierungsplans ist ausgeschlossen.[^24-5]
-
-<sup>4</sup> Wird die Beschwerde eines Gläubigers oder eines Eigners gegen die Genehmigung des Sanierungsplans gutgeheissen, so kann das Gericht nur eine Entschädigung zusprechen.[^24-6]
-
-[^24-1]: Fassung gemäss Ziff. I des BG vom 11. März 1971, in Kraft seit 1. Juli 1971 ([AS 1971 808](https://fedlex.data.admin.ch/eli/oc/1971/808_808_809)[824](https://fedlex.data.admin.ch/eli/oc/1971/824_825_825)Art. 1; [BBl 1970 I 1144](https://fedlex.data.admin.ch/eli/fga/1970/1_1144__)).
-[^24-2]: Aufgehoben durch Anhang Ziff. 15 des Finanzmarktaufsichtsgesetzes vom 22. Juni 2007, mit Wirkung seit 1. Jan. 2009 ([AS 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736)[5205](https://fedlex.data.admin.ch/eli/oc/2008/735); [BBl 2006 2829](https://fedlex.data.admin.ch/eli/fga/2006/303)).
-[^24-3]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
-[^24-4]: Eingefügt durch Ziff. I des BG vom 3. Okt. 2003 ([AS 2004 2767](https://fedlex.data.admin.ch/eli/oc/2004/340); [BBl 2002 8060](https://fedlex.data.admin.ch/eli/fga/2002/1290)). Fassung gemäss Anhang Ziff. 10 des Finanzmarktinfrastrukturgesetzes vom 19. Juni 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [BBl 2014 7483](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
-[^24-5]: Eingefügt durch Ziff. I 16 der V der BVers vom 20. Dez. 2006 über die Anpassung von Erlassen an die Bestimmungen des Bundesgerichtsgesetzes und des Verwaltungsgerichtsgesetzes ([AS 2006 5599](https://fedlex.data.admin.ch/eli/oc/2006/826); [BBl 2006 7759](https://fedlex.data.admin.ch/eli/fga/2006/974)). Fassung gemäss Ziff. I des BG vom 30. Sept. 2011 (Stärkung der Stabilität im Finanzsektor), in Kraft seit 1. März 2012 ([AS 2012 811](https://fedlex.data.admin.ch/eli/oc/2012/126); [BBl 2011 4717](https://fedlex.data.admin.ch/eli/fga/2011/762)).
-[^24-6]: Eingefügt durch Ziff. I des BG vom 30. Sept. 2011 (Stärkung der Stabilität im Finanzsektor), in Kraft seit 1. März 2012 ([AS 2012 811](https://fedlex.data.admin.ch/eli/oc/2012/126); [BBl 2011 4717](https://fedlex.data.admin.ch/eli/fga/2011/762)).
-
-## Elfter Abschnitt:**** Massnahmen bei Insolvenzgefahr
+## Elfter Abschnitt: Massnahmen bei Insolvenzgefahr
 
 [^chap11-1]
 
@@ -879,14 +875,14 @@ Besteht begründete Besorgnis, dass eine Bank überschuldet ist oder ernsthafte 
 
 <sup>2</sup> Die Schutzmassnahmen können selbständig oder in Verbindung mit einer Sanierung oder Konkursliquidation angeordnet werden.
 
-<sup>3</sup> Die Bestimmungen über das Nachlassverfahren (Art. 293–336 SchKG[^25-2]), über das aktienrechtliche Moratorium (Art. 725 und 725*a* des Obligationenrechts[^25-3]) und über die Benachrichtigung des Richters (Art. 729*b* Abs. 2[^25-4] des Obligationenrechts) sind auf Banken nicht anwendbar.
+<sup>3</sup> Die Bestimmungen über das Nachlassverfahren (Art. 293–336 des Bundesgesetzes vom 11. April 1889[^25-2] über Schuldbetreibung und Konkurs [SchKG]), über die drohende Zahlungsunfähigkeit (Art. 725 OR[^25-3]), über den Kapitalverlust (Art. 725*a* OR), über die Überschuldung (Art. 725*b* OR) und über die Aufwertung von Grundstücken und Beteiligungen (Art. 725*c* OR) sowie über die Benachrichtigung des Gerichts (Art. 716*a* Abs. 1 Ziff. 7 und 728*c* Abs. 3 OR) sind auf Banken nicht anwendbar.[^25-4]
 
 <sup>4</sup> Die Anordnungen der FINMA umfassen sämtliches Vermögen der Bank mit Aktiven und Passiven und Vertragsverhältnisse, ob sie sich nun im In- oder im Ausland befinden.[^25-5]
 
 [^25-1]: Ausdruck gemäss Ziff. I des BG vom 18. März 2011 (Sicherung der Einlagen), in Kraft seit 1. Sept. 2011 ([AS 2011 3919](https://fedlex.data.admin.ch/eli/oc/2011/559); [BBl 2010 3993](https://fedlex.data.admin.ch/eli/fga/2010/655)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 [^25-2]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
 [^25-3]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^25-4]: Heute: Art. 728c Abs. 3.
+[^25-4]: Fassung gemäss Ziff. IV 1 des BG vom 17. Dez. 2021 (Insolvenz und Einlagensicherung), in Kraft seit 1. Jan. 2023 ([AS 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [BBl 2020 6359](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
 [^25-5]: Eingefügt durch Ziff. I des BG vom 18. März 2011 (Sicherung der Einlagen), in Kraft seit 1. Sept. 2011 ([AS 2011 3919](https://fedlex.data.admin.ch/eli/oc/2011/559); [BBl 2010 3993](https://fedlex.data.admin.ch/eli/fga/2010/655)).
 
 #### Art. 26
@@ -906,13 +902,14 @@ Die FINMA kann Schutzmassnahmen verfügen; namentlich kann sie:[^26-1]
 - g. die Bank schliessen;
 - h. Stundung und Fälligkeitsaufschub, ausgenommen für pfandgedeckte Forderungen der Pfandbriefzentralen, anordnen.
 
-<sup>2</sup> Sie sorgt für eine angemessene Publikation der Massnahmen, wenn dies zu deren Durchsetzung oder zum Schutz Dritter erforderlich ist.
+<sup>2</sup> Sie sorgt für eine angemessene Publikation der Massnahmen, wenn dies zu deren Durchsetzung oder zum Schutz Dritter erforderlich ist. Sie kann auf die Publikation der Massnahmen verzichten, wenn durch die Publikation der Zweck der angeordneten Massnahmen vereitelt würde.[^26-3]
 
-<sup>3</sup> Soweit die FINMA in Bezug auf den Zinsenlauf nichts anderes verfügt, hat eine Stundung die Wirkungen nach Artikel 297 SchKG[^26-3].
+<sup>3</sup> Soweit die FINMA in Bezug auf den Zinsenlauf nichts anderes verfügt, hat eine Stundung die Wirkungen nach Artikel 297 SchKG[^26-4].
 
 [^26-1]: Fassung gemäss Anhang Ziff. 15 des Finanzmarktaufsichtsgesetzes vom 22. Juni 2007, in Kraft seit 1. Jan. 2009 ([AS 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736)[5205](https://fedlex.data.admin.ch/eli/oc/2008/735); [BBl 2006 2829](https://fedlex.data.admin.ch/eli/fga/2006/303)).
 [^26-2]: Fassung gemäss Anhang Ziff. 15 des Finanzmarktaufsichtsgesetzes vom 22. Juni 2007, in Kraft seit 1. Jan. 2009 ([AS 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736)[5205](https://fedlex.data.admin.ch/eli/oc/2008/735); [BBl 2006 2829](https://fedlex.data.admin.ch/eli/fga/2006/303)).
-[^26-3]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^26-3]: Zweiter Satz eingefügt durch Ziff. I des BG vom 17. Dez. 2021 (Insolvenz und Einlagensicherung), in Kraft seit 1. Jan. 2023 ([AS 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [BBl 2020 6359](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
+[^26-4]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
 
 #### Art. 27
 
@@ -923,12 +920,14 @@ Die FINMA kann Schutzmassnahmen verfügen; namentlich kann sie:[^26-1]
 Von Anordnungen nach dem elften und zwölften Abschnitt unberührt bleiben im Voraus geschlossene Vereinbarungen über die:
 
 - a. Aufrechnung von Forderungen, einschliesslich der vereinbarten Methode und der Wertbestimmung;
-- b. freihändige Verwertung von Sicherheiten in Form von Effekten oder anderen Finanzinstrumenten, deren Wert objektiv bestimmbar ist;
-- c. Übertragung von Forderungen und Verpflichtungen sowie von Sicherheiten in Form von Effekten oder anderen Finanzinstrumenten, deren Wert objektiv bestimmbar ist.
+- b.[^27-2] freihändige Verwertung von Sicherheiten in Form von Effekten oder anderen Finanzinstrumenten, einschliesslich Barsicherheiten (ohne Bargeld), deren Wert objektiv bestimmbar ist;
+- c.[^27-3] Übertragung von Forderungen und Verpflichtungen sowie von Sicherheiten in Form von Effekten oder anderen Finanzinstrumenten, einschliesslich Barsicherheiten (ohne Bargeld), deren Wert objektiv bestimmbar ist.
 
 <sup>2</sup> Vorbehalten bleibt Artikel 30*a*.
 
 [^27-1]: Fassung gemäss Anhang Ziff. 10 des Finanzmarktinfrastrukturgesetzes vom 19. Juni 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [BBl 2014 7483](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
+[^27-2]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (Insolvenz und Einlagensicherung), in Kraft seit 1. Jan. 2023 ([AS 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [BBl 2020 6359](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
+[^27-3]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (Insolvenz und Einlagensicherung), in Kraft seit 1. Jan. 2023 ([AS 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [BBl 2020 6359](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
 
 #### Art. 28
 
@@ -936,11 +935,27 @@ Von Anordnungen nach dem elften und zwölften Abschnitt unberührt bleiben im Vo
 
 <sup>1</sup> Bei begründeter Aussicht auf Sanierung der Bank oder auf Weiterführung einzelner Bankdienstleistungen kann die FINMA ein Sanierungsverfahren einleiten.
 
-<sup>2</sup> Sie erlässt die für die Durchführung des Sanierungsverfahrens notwendigen Verfügungen und Anordnungen.
+<sup>2</sup> Sie erlässt die für die Durchführung des Sanierungsverfahrens notwendigen Verfügungen.[^28-2]
 
 <sup>3</sup> Sie kann eine Person mit der Ausarbeitung eines Sanierungsplans beauftragen (Sanierungsbeauftragter).
 
+<sup>4</sup> Sie kann das Verfahren näher regeln.[^28-3]
+
 [^28-1]: Fassung gemäss Ziff. I des BG vom 18. März 2011 (Sicherung der Einlagen), in Kraft seit 1. Sept. 2011 ([AS 2011 3919](https://fedlex.data.admin.ch/eli/oc/2011/559); [BBl 2010 3993](https://fedlex.data.admin.ch/eli/fga/2010/655)).
+[^28-2]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (Insolvenz und Einlagensicherung), in Kraft seit 1. Jan. 2023 ([AS 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [BBl 2020 6359](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
+[^28-3]: Eingefügt durch Ziff. I des BG vom 17. Dez. 2021 (Insolvenz und Einlagensicherung), in Kraft seit 1. Jan. 2023 ([AS 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [BBl 2020 6359](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
+
+#### Art. 28a
+
+**Sanierung von Kantonalbanken**[^28a-1]
+
+<sup>1</sup> Die FINMA trägt im Sanierungsverfahren der besonderen Stellung, Eignerstruktur und gegebenenfalls Rechtsform der Kantonalbanken Rechnung.
+
+<sup>2</sup> Besteht die Gefahr der Insolvenz einer Kantonalbank, so informiert die FINMA den Kanton ohne Verzug und konsultiert diesen bei der Ausarbeitung des Sanierungsplans. Der Kanton bezeichnet die zuständige Stelle.
+
+<sup>3</sup> Die FINMA kann für Kantonalbanken Abweichungen von den Bestimmungen über das Sanierungsverfahren vorsehen, namentlich betreffend die vollständige Herabsetzung des Gesellschaftskapitals sowie Wandlung und Reduktion von Forderungen. Sie berücksichtigt dabei insbesondere Massnahmen, die der Kanton zur Sanierung der Bank trifft.
+
+[^28a-1]: Eingefügt durch Ziff. I des BG vom 17. Dez. 2021 (Insolvenz und Einlagensicherung), in Kraft seit 1. Jan. 2023 ([AS 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [BBl 2020 6359](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
 
 #### Art. 29
 
@@ -956,13 +971,21 @@ Bei einer Sanierung der Bank muss der Sanierungsplan sicherstellen, dass die Ban
 
 <sup>1</sup> Der Sanierungsplan kann unabhängig vom Fortbestand der betroffenen Bank die Weiterführung einzelner Bankdienstleistungen vorsehen.
 
-<sup>2</sup> Er kann insbesondere das Vermögen der Bank oder Teile davon mit Aktiven und Passiven sowie Vertragsverhältnisse auf andere Rechtsträger oder auf eine Übergangsbank übertragen.
+<sup>2</sup>
 
-<sup>3</sup> Werden Vertragsverhältnisse oder das Vermögen der Bank oder Teile davon übertragen, so tritt der Übernehmer mit Genehmigung des Sanierungsplans an die Stelle der Bank. Das Fusionsgesetz vom 3. Oktober 2003[^30-2] ist nicht anwendbar.[^30-3]
+Er kann insbesondere vorsehen, dass:
+
+- a. das Vermögen der Bank oder Teile davon mit Aktiven, Passiven und Vertragsverhältnissen auf andere Rechtsträger oder auf eine Übergangsbank übertragen werden;
+- b. sich die Bank mit einer anderen Gesellschaft zu einem neuen Rechtsträger zusammenschliesst;
+- c. ein anderer Rechtsträger die Bank übernimmt;
+- d. die Rechtsform der Bank geändert wird.[^30-2]
+
+<sup>3</sup> Die Rechtsträger und die Übergangsbank nach Absatz 2 treten mit Genehmigung des Sanierungsplans im Umfang der erfolgten Übertragung des Vermögens an die Stelle der Bank. Das Fusionsgesetz vom 3. Oktober 2003[^30-3] ist nicht anwendbar.[^30-4]
 
 [^30-1]: Fassung gemäss Ziff. I des BG vom 18. März 2011 (Sicherung der Einlagen), in Kraft seit 1. Sept. 2011 ([AS 2011 3919](https://fedlex.data.admin.ch/eli/oc/2011/559); [BBl 2010 3993](https://fedlex.data.admin.ch/eli/fga/2010/655)).
-[^30-2]: [SR 221.301](https://fedlex.data.admin.ch/eli/cc/2004/320)
-[^30-3]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2011 (Stärkung der Stabilität im Finanzsektor), in Kraft seit 1. März 2012 ([AS 2012 811](https://fedlex.data.admin.ch/eli/oc/2012/126); [BBl 2011 4717](https://fedlex.data.admin.ch/eli/fga/2011/762)).
+[^30-2]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (Insolvenz und Einlagensicherung), in Kraft seit 1. Jan. 2023 ([AS 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [BBl 2020 6359](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
+[^30-3]: [SR 221.301](https://fedlex.data.admin.ch/eli/cc/2004/320)
+[^30-4]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (Insolvenz und Einlagensicherung), in Kraft seit 1. Jan. 2023 ([AS 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [BBl 2020 6359](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
 
 #### Art. 30a
 
@@ -990,29 +1013,93 @@ Der Aufschub ist ausgeschlossen oder wird hinfällig, wenn die Beendigung oder d
 
 [^30a-1]: Eingefügt durch Anhang Ziff. 10 des Finanzmarktinfrastrukturgesetzes vom 19. Juni 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [BBl 2014 7483](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
 
+#### Art. 30b
+
+**Kapitalmassnahmen**[^30b-1]
+
+<sup>1</sup> Der Sanierungsplan kann die Reduktion des bisherigen Eigenkapitals und die Schaffung von neuem Eigenkapital, die Wandlung von Fremd- in Eigenkapital sowie die Reduktion von Forderungen vorsehen.
+
+<sup>2</sup> Den bisherigen Eignerinnen und Eignern steht kein Bezugsrecht zu.
+
+<sup>3</sup>
+
+Von der Wandlung sowie der Forderungsreduktion ausgenommen sind:
+
+- a. privilegierte Forderungen der ersten und zweiten Klasse nach Artikel 219 Absatz 4 SchKG[^30b-2]: im Umfang ihrer Privilegierung;
+- b. besicherte Forderungen: im Umfang ihrer Sicherstellung;
+- c. verrechenbare Forderungen: im Umfang ihrer Verrechenbarkeit; und
+- d. Forderungen aus Verbindlichkeiten, die die Bank während der Dauer der Massnahmen nach Artikel 26 Absatz 1 Buchstaben e–h oder während eines Sanierungsverfahrens mit Genehmigung der FINMA oder eines von dieser eingesetzten Untersuchungs- oder Sanierungsbeauftragten eingehen durfte.
+
+<sup>4</sup> Die FINMA kann Forderungen aus Warenlieferungen und Dienstleistungen ausnehmen, soweit dies für die Weiterführung der Bank erforderlich ist.
+
+<sup>5</sup>
+
+Die Wandlung von Fremd- in Eigenkapital und die Reduktion von Forderungen sind nur möglich, wenn vorher:
+
+- a. das Wandlungskapital nach Artikel 11 Absatz 1 Buchstabe b vollständig in Eigenkapital gewandelt und die nach Artikel 11 Absatz 2 ausgegebenen Anleihen mit Forderungsverzicht vollständig reduziert werden; und
+- b. das Gesellschaftskapital vollständig herabgesetzt wird.
+
+<sup>6</sup> Der Bundesrat kann Schuldinstrumente bezeichnen, die entgegen Absatz 5 Buchstabe b vor einer vollständigen Herabsetzung des Gesellschaftskapitals reduziert werden, soweit diese von einer Kantonalbank herausgegeben werden und eine angemessene nachträgliche Kompensation der Gläubiger vorsehen.
+
+<sup>7</sup>
+
+Die Wandlung von Fremd- in Eigenkapital und die Reduktion von Forderungen sind in folgender Reihenfolge vorzunehmen:
+
+- a. nachrangige Forderungen;
+- b. Forderungen, die auf Schuldinstrumenten zur Verlusttragung bei Insolvenzmassnahmen (Bail-in-Bonds) basieren; Absatz 8 bleibt vorbehalten;
+- c. übrige Forderungen, mit Ausnahme der Einlagen;
+- d. Einlagen.
+
+<sup>8</sup> An Drittgläubiger ausgegebene Bail-in-Bonds von Konzernobergesellschaften nach Artikel 2<sup>bis</sup> Absatz 1 Buchstabe a fallen in den Rang gemäss Absatz 7 Buchstabe c, soweit die übrigen Forderungen, die in denselben Rang fallen, 5 Prozent des Nominalwerts der gesamthaft anrechenbaren Bail-in-Bonds nicht übersteigen. Die übrigen Forderungen sind in diesem Fall von der Wandlung sowie der Forderungsreduktion ausgenommen.
+
+<sup>9</sup> Die FINMA kann vorübergehend die Mitwirkungsrechte der neuen Eigner vollständig suspendieren.
+
+[^30b-1]: Eingefügt durch Ziff. I des BG vom 17. Dez. 2021 (Insolvenz und Einlagensicherung), in Kraft seit 1. Jan. 2023 ([AS 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [BBl 2020 6359](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
+[^30b-2]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+
+#### Art. 30c
+
+**Sanierungsplan**[^30c-1]
+
+<sup>1</sup>
+
+Der Sanierungsplan muss folgende Anforderungen erfüllen:
+
+- a. Er beruht auf einer vorsichtigen Bewertung der Aktiven und Passiven der Bank und einer vorsichtigen Schätzung des Sanierungsbedarfs.
+- b. Er stellt Gläubiger voraussichtlich wirtschaftlich nicht schlechter als die sofortige Eröffnung des Bankenkonkurses.
+- c. Er berücksichtigt den Vorrang der Interessen der Gläubiger vor denjenigen der Eigner und die Rangfolge der Gläubiger angemessen.
+- d. Er berücksichtigt die rechtliche oder wirtschaftliche Verbundenheit unter Aktiven, Passiven und Vertragsverhältnissen angemessen.
+
+<sup>2</sup>
+
+Er nennt und erläutert die wesentlichen Grundzüge der Sanierung und enthält insbesondere Ausführungen zu:
+
+- a. der Erfüllung der Anforderungen nach Absatz 1;
+- b. Art und Weise, wie die Bank nach Durchführung der Sanierung die Bewilligungsvoraussetzungen und die übrigen gesetzlichen Vorschriften einhält;
+- c. der künftigen Kapitalstruktur und zum Geschäftsmodell der Bank;
+- d. den Aktiven und Passiven der Bank;
+- e. der künftigen Organisation und Führung der Bank sowie zur Ernennung und Abberufung ihrer Organe;
+- f. der Abgangsregelung für ausscheidende Organe;
+- g. der künftigen Gruppen- oder Konglomeratsorganisation;
+- h. Art und Umfang allfälliger Eingriffe in die Rechte der Eigner und der Gläubiger;
+- i. einem allfälligen Ausschluss des Anfechtungsrechts der Bank nach Artikel 32 Absatz 1 und der Verantwortlichkeitsansprüche nach Artikel 39;
+- j. den Geschäften, die einer Eintragung in das Handelsregister oder das Grundbuch bedürfen.
+
+[^30c-1]: Eingefügt durch Ziff. I des BG vom 17. Dez. 2021 (Insolvenz und Einlagensicherung), in Kraft seit 1. Jan. 2023 ([AS 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [BBl 2020 6359](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
+
 #### Art. 31
 
 **Genehmigung des Sanierungsplans**[^31-1]
 
-<sup>1</sup>
+<sup>1</sup> Die FINMA genehmigt den Sanierungsplan, wenn er die Anforderungen nach Artikel 30*c* erfüllt.
 
-Die FINMA genehmigt den Sanierungsplan, wenn er namentlich:
+<sup>2</sup> Die Zustimmung der Eigner ist nicht notwendig.
 
-- a. auf einer vorsichtigen Bewertung der Aktiven der Bank beruht;
-- b. die Gläubiger voraussichtlich besser stellt als die sofortige Eröffnung des Bankenkonkurses;
-- c. den Vorrang der Interessen der Gläubiger vor denjenigen der Eigner und die Rangfolge der Gläubiger berücksichtigt;
-- d.[^31-2] die rechtliche oder wirtschaftliche Verbundenheit unter Aktiven, Passiven und Vertragsverhältnissen angemessen berücksichtigt.
+<sup>3</sup> Die FINMA kann den Sanierungsplan systemrelevanter Banken auch genehmigen, wenn er die Gläubiger in Abweichung von Artikel 30*c* Absatz 1 Buchstabe b wirtschaftlich schlechter stellt, sofern diese angemessen entschädigt werden.
 
-<sup>2</sup> Die Zustimmung der Generalversammlung der Bank ist nicht notwendig.
+<sup>4</sup> Sie macht die Grundzüge des Sanierungsplans öffentlich bekannt. Sie orientiert dabei gleichzeitig darüber, wie die betroffenen Gläubiger und Eigner Einsicht nehmen können.
 
-<sup>3</sup> Kann eine Insolvenz der Bank nicht auf andere Weise beseitigt werden, so kann der Sanierungsplan unter Wahrung der Rechte der Gläubiger nach Absatz 1 die Reduktion des bisherigen und die Schaffung von neuem Eigenkapital, die Umwandlung von Fremd- in Eigenkapital sowie die Reduktion von Forderungen vorsehen.[^31-3]
-
-<sup>4</sup> Die FINMA macht die Grundzüge des Sanierungsplans öffentlich bekannt.[^31-4]
-
-[^31-1]: Fassung gemäss Ziff. I des BG vom 18. März 2011 (Sicherung der Einlagen), in Kraft seit 1. Sept. 2011 ([AS 2011 3919](https://fedlex.data.admin.ch/eli/oc/2011/559); [BBl 2010 3993](https://fedlex.data.admin.ch/eli/fga/2010/655)).
-[^31-2]: Eingefügt durch Ziff. I des BG vom 30. Sept. 2011 (Stärkung der Stabilität im Finanzsektor), in Kraft seit 1. März 2012 ([AS 2012 811](https://fedlex.data.admin.ch/eli/oc/2012/126); [BBl 2011 4717](https://fedlex.data.admin.ch/eli/fga/2011/762)).
-[^31-3]: Fassung gemäss Anhang Ziff. 10 des Finanzmarktinfrastrukturgesetzes vom 19. Juni 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [BBl 2014 7483](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
-[^31-4]: Eingefügt durch Ziff. I des BG vom 30. Sept. 2011 (Stärkung der Stabilität im Finanzsektor), in Kraft seit 1. März 2012 ([AS 2012 811](https://fedlex.data.admin.ch/eli/oc/2012/126); [BBl 2011 4717](https://fedlex.data.admin.ch/eli/fga/2011/762)).
+[^31-1]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (Insolvenz und Einlagensicherung), in Kraft seit 1. Jan. 2023 ([AS 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [BBl 2020 6359](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
 
 #### Art. 31a
 
@@ -1022,21 +1109,56 @@ Die FINMA genehmigt den Sanierungsplan, wenn er namentlich:
 
 <sup>2</sup> Lehnen Gläubiger, die betragsmässig mehr als die Hälfte der aus den Büchern hervorgehenden Forderungen der dritten Klasse nach Artikel 219 Absatz 4 SchKG[^31a-2] vertreten, den Sanierungsplan ab, so ordnet die FINMA den Konkurs nach den Artikeln 33–37*g* an.
 
-<sup>3</sup> Dieser Artikel findet auf die Sanierung einer systemrelevanten Bank keine Anwendung.[^31a-3]
+<sup>3</sup> Die Absätze 1 und 2 finden keine Anwendung auf die Sanierung von systemrelevanten Banken und Gruppengesellschaften von systemrelevanten Finanzgruppen oder -konglomeraten.[^31a-3]
 
 [^31a-1]: Eingefügt durch Ziff. I des BG vom 18. März 2011 (Sicherung der Einlagen), in Kraft seit 1. Sept. 2011 ([AS 2011 3919](https://fedlex.data.admin.ch/eli/oc/2011/559); [BBl 2010 3993](https://fedlex.data.admin.ch/eli/fga/2010/655)).
 [^31a-2]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
-[^31a-3]: Eingefügt durch Ziff. I des BG vom 30. Sept. 2011 (Stärkung der Stabilität im Finanzsektor), in Kraft seit 1. März 2012 ([AS 2012 811](https://fedlex.data.admin.ch/eli/oc/2012/126); [BBl 2011 4717](https://fedlex.data.admin.ch/eli/fga/2011/762)).
+[^31a-3]: Eingefügt durch Ziff. I des BG vom 30. Sept. 2011 (Stärkung der Stabilität im Finanzsektor) ([AS 2012 811](https://fedlex.data.admin.ch/eli/oc/2012/126); [BBl 2011 4717](https://fedlex.data.admin.ch/eli/fga/2011/762)). Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (Insolvenz und Einlagensicherung), in Kraft seit 1. Jan. 2023 ([AS 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [BBl 2020 6359](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
 
 #### Art. 31b
 
-**Wertausgleich**[^31b-1]
+**Gegenleistung bei Übertragung**[^31b-1]
 
-<sup>1</sup> Werden Aktiven, Passiven und Vertragsverhältnisse nur teilweise auf einen anderen Rechtsträger oder eine Übergangsbank übertragen, so ordnet die FINMA deren unabhängige Bewertung an.
+<sup>1</sup> Werden Aktiven, Passiven oder Vertragsverhältnisse nur teilweise auf einen anderen Rechtsträger oder eine Übergangsbank übertragen, so kann die FINMA eine angemessene Gegenleistung festlegen.
 
-<sup>2</sup> Die FINMA regelt den Ausgleich unter den betroffenen Rechtsträgern und ergänzt den Sanierungsplan in einem Nachtrag.
+<sup>2</sup> Die FINMA kann zu deren Festlegung eine unabhängige Bewertung anordnen.
 
-[^31b-1]: Eingefügt durch Ziff. I des BG vom 30. Sept. 2011 (Stärkung der Stabilität im Finanzsektor), in Kraft seit 1. März 2012 ([AS 2012 811](https://fedlex.data.admin.ch/eli/oc/2012/126); [BBl 2011 4717](https://fedlex.data.admin.ch/eli/fga/2011/762)).
+[^31b-1]: Eingefügt durch Ziff. I des BG vom 30. Sept. 2011 (Stärkung der Stabilität im Finanzsektor) ([AS 2012 811](https://fedlex.data.admin.ch/eli/oc/2012/126); [BBl 2011 4717](https://fedlex.data.admin.ch/eli/fga/2011/762)). Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (Insolvenz und Einlagensicherung), in Kraft seit 1. Jan. 2023 ([AS 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [BBl 2020 6359](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
+
+#### Art. 31c
+
+**Wertausgleich bei Kapitalmassnahmen**[^31c-1]
+
+<sup>1</sup> Sieht der Sanierungsplan eine Kapitalmassnahme nach Artikel 30*b* vor, so kann er einen angemessenen Wertausgleich für die Eigner vorsehen, falls die Bewertung nach Artikel 30*c* Absatz 1 Buchstabe a zeigt, dass der Wert des den Gläubigern zugeteilten Eigenkapitals den Nominalwert ihrer nach Artikel 30*b* gewandelten oder reduzierten Forderungen übersteigt.
+
+<sup>2</sup> Der Wertausgleich kann namentlich durch Zuteilung von Aktien, anderen Beteiligungsrechten, Optionen oder Besserungsscheinen erfolgen.
+
+[^31c-1]: Eingefügt durch Ziff. I des BG vom 17. Dez. 2021 (Insolvenz und Einlagensicherung), in Kraft seit 1. Jan. 2023 ([AS 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [BBl 2020 6359](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
+
+#### Art. 31d
+
+**Rechtswirkung des Sanierungsplans**[^31d-1]
+
+<sup>1</sup>
+
+Die Anordnungen des Sanierungsplans werden wie folgt wirksam:
+
+- a. bei systemrelevanten Banken und Gruppengesellschaften von systemrelevanten Finanzgruppen oder -konglomeraten: mit Genehmigung des Sanierungsplans;
+- b. in allen anderen Fällen: mit unbenutztem Ablauf der Frist nach Artikel 31*a* Absatz 1.
+
+<sup>2</sup>
+
+Die Wirksamkeit tritt direkt ein namentlich für:
+
+- a. die Herabsetzung von bestehendem und die Schaffung von neuem Eigenkapital;
+- b. die Wandlung von Fremd- in Eigenkapital;
+- c. die Reduktion von Forderungen;
+- d. die Übertragung von Grundstücken;
+- e. die Begründung oder Übertragung von dinglichen Rechten an Grundstücken oder Änderungen des Gesellschaftskapitals.
+
+<sup>3</sup> Eintragungen in das Grundbuch, das Handelsregister oder in andere Register haben lediglich deklaratorische Wirkung. Sie sind so rasch wie möglich vorzunehmen.
+
+[^31d-1]: Eingefügt durch Ziff. I des BG vom 17. Dez. 2021 (Insolvenz und Einlagensicherung), in Kraft seit 1. Jan. 2023 ([AS 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [BBl 2020 6359](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
 
 #### Art. 32
 
@@ -1048,17 +1170,19 @@ Die FINMA genehmigt den Sanierungsplan, wenn er namentlich:
 
 <sup>2bis</sup> Die Anfechtung nach den Artikeln 285–292 SchKG ist ausgeschlossen gegen Rechtshandlungen in Ausführung eines von der FINMA genehmigten Sanierungsplans.[^32-2]
 
-<sup>3</sup> Für die Berechnung der Fristen nach den Artikeln 286–288 SchKG ist der Zeitpunkt der Genehmigung des Sanierungsplans massgebend. Hat die FINMA vorher eine Schutzmassnahme nach Artikel 26 Absatz 1 Buchstaben e–h verfügt, so gilt der Zeitpunkt des Erlasses dieser Verfügung.
+<sup>3</sup> Massgebend für die Berechnung der Fristen nach den Artikeln 286–288 SchKG ist anstelle der Konkurseröffnung der Zeitpunkt der Genehmigung des Sanierungsplans. Hat die FINMA vorher eine Schutzmassnahme nach Artikel 26 Absatz 1 Buchstaben e–h verfügt, so ist der Zeitpunkt des Erlasses dieser Verfügung massgebend.[^32-3]
 
-<sup>3bis</sup> Das Anfechtungsrecht verwirkt zwei Jahre nach der Genehmigung des Sanierungsplans.[^32-3]
+<sup>3bis</sup> Das Anfechtungsrecht verjährt drei Jahre nach der Genehmigung des Sanierungsplans.[^32-4]
 
-<sup>4</sup> Für die Geltendmachung von Verantwortlichkeitsansprüchen nach Artikel 39 gelten die Absätze 1 und 2 sinngemäss.
+<sup>4</sup> Für die Geltendmachung von Verantwortlichkeitsansprüchen nach Artikel 39 gelten die Absätze 1–2<sup>bis</sup> sinngemäss.[^32-5]
 
 [^32-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
 [^32-2]: Eingefügt durch Ziff. I des BG vom 30. Sept. 2011 (Stärkung der Stabilität im Finanzsektor), in Kraft seit 1. März 2012 ([AS 2012 811](https://fedlex.data.admin.ch/eli/oc/2012/126); [BBl 2011 4717](https://fedlex.data.admin.ch/eli/fga/2011/762)).
-[^32-3]: Eingefügt durch Ziff. I des BG vom 18. März 2011 (Sicherung der Einlagen), in Kraft seit 1. Sept. 2011 ([AS 2011 3919](https://fedlex.data.admin.ch/eli/oc/2011/559); [BBl 2010 3993](https://fedlex.data.admin.ch/eli/fga/2010/655)).
+[^32-3]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (Insolvenz und Einlagensicherung), in Kraft seit 1. Jan. 2023 ([AS 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [BBl 2020 6359](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
+[^32-4]: Eingefügt durch Ziff. I des BG vom 18. März 2011 (Sicherung der Einlagen) ([AS 2011 3919](https://fedlex.data.admin.ch/eli/oc/2011/559); [BBl 2010 3993](https://fedlex.data.admin.ch/eli/fga/2010/655)). Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (Insolvenz und Einlagensicherung), in Kraft seit 1. Jan. 2023 ([AS 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [BBl 2020 6359](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
+[^32-5]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (Insolvenz und Einlagensicherung), in Kraft seit 1. Jan. 2023 ([AS 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [BBl 2020 6359](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
 
-## Zwölfter Abschnitt:**** Konkursliquidation insolventer Banken (Bankenkonkurs)
+## Zwölfter Abschnitt: Konkursliquidation insolventer Banken (Bankenkonkurs)
 
 [^chap12-1]
 
@@ -1082,11 +1206,13 @@ Die FINMA genehmigt den Sanierungsplan, wenn er namentlich:
 
 <sup>1</sup> Die Anordnung der Konkursliquidation hat die Wirkungen einer Konkurseröffnung nach den Artikeln 197–220 SchKG[^34-1].
 
-<sup>2</sup> Die Konkursliquidation ist unter Vorbehalt der nachfolgenden Bestimmungen nach den Artikeln 221–270 SchKG durchzuführen.
+<sup>2</sup> Die Konkursliquidation ist nach den Artikeln 221–270 SchKG durchzuführen. Dazu kann die FINMA unter Vorbehalt der Artikel 35–37*m* des vorliegenden Gesetzes abweichende Verfügungen treffen.[^34-2]
 
-<sup>3</sup> Die FINMA kann abweichende Verfügungen und Anordnungen treffen.
+<sup>3</sup> Die FINMA kann das Verfahren näher regeln.[^34-3]
 
 [^34-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^34-2]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (Insolvenz und Einlagensicherung), in Kraft seit 1. Jan. 2023 ([AS 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [BBl 2020 6359](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
+[^34-3]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (Insolvenz und Einlagensicherung), in Kraft seit 1. Jan. 2023 ([AS 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [BBl 2020 6359](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
 
 #### Art. 35
 
@@ -1113,9 +1239,11 @@ Der Konkursliquidator kann der FINMA beantragen:
 
 #### Art. 37
 
-**Bei Schutzmassnahmen eingegangene Verbindlichkeiten**
+**Bei Schutzmassnahmen oder im Sanierungsverfahren eingegangene Verbindlichkeiten**[^37-1]
 
-Verbindlichkeiten, welche die Bank während der Dauer der Massnahmen nach Artikel 26 Absatz 1 Buchstaben e–h eingehen durfte, werden im Falle einer Konkursliquidation vor allen anderen befriedigt.
+Verbindlichkeiten, die die Bank mit Genehmigung der FINMA oder eines von dieser eingesetzten Untersuchungs- oder Sanierungsbeauftragten während der Dauer der Massnahmen nach Artikel 26 Absatz 1 Buchstaben e–h oder während eines Sanierungsverfahrens eingehen durfte, werden im Falle einer Konkursliquidation vor allen anderen befriedigt.
+
+[^37-1]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (Insolvenz und Einlagensicherung), in Kraft seit 1. Jan. 2023 ([AS 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [BBl 2020 6359](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
 
 #### Art. 37a
 
@@ -1123,30 +1251,39 @@ Verbindlichkeiten, welche die Bank während der Dauer der Massnahmen nach Artike
 
 <sup>1</sup> Einlagen, die auf den Namen des Einlegers lauten, einschliesslich Kassenobligationen, die im Namen des Einlegers bei der Bank hinterlegt sind, werden bis zum Höchstbetrag von 100 000 Franken je Gläubiger der zweiten Klasse nach Artikel 219 Absatz 4 SchKG[^37a-2] zugewiesen.
 
-<sup>2</sup> Der Bundesrat kann den Höchstbetrag nach Absatz 1 der Geldentwertung anpassen.
+<sup>2</sup> …[^37a-3]
 
 <sup>3</sup> Einlagen bei Unternehmen, welche ohne Bewilligung der FINMA als Banken tätig sind, sind nicht privilegiert.
 
 <sup>4</sup> Steht eine Forderung mehreren Personen zu, so kann das Privileg nur einmal geltend gemacht werden.
 
-<sup>5</sup> Forderungen von Bankstiftungen als Vorsorgeeinrichtungen nach Artikel 82 des Bundesgesetzes vom 25. Juni 1982[^37a-3] über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge sowie von Freizügigkeitsstiftungen als Freizügigkeitseinrichtungen nach dem Freizügigkeitsgesetz vom 17. Dezember 1993[^37a-4] gelten als Einlagen der einzelnen Vorsorgenehmer und Versicherten. Sie sind unabhängig von den übrigen Einlagen des einzelnen Vorsorgenehmers und Versicherten bis zum Höchstbetrag nach Absatz 1 privilegiert.
+<sup>5</sup> Forderungen von Bankstiftungen als Vorsorgeeinrichtungen nach Artikel 82 des Bundesgesetzes vom 25. Juni 1982[^37a-4] über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge sowie von Freizügigkeitsstiftungen als Freizügigkeitseinrichtungen nach dem Freizügigkeitsgesetz vom 17. Dezember 1993[^37a-5] gelten als Einlagen der einzelnen Vorsorgenehmer und Versicherten. Sie sind unabhängig von den übrigen Einlagen des einzelnen Vorsorgenehmers und Versicherten bis zum Höchstbetrag nach Absatz 1 privilegiert.
 
 <sup>6</sup> Die Banken müssen im Umfang von 125 Prozent ihrer privilegierten Einlagen ständig inländisch gedeckte Forderungen oder übrige in der Schweiz belegene Aktiven halten. Die FINMA kann diesen Anteil erhöhen; sie kann in begründeten Fällen insbesondere denjenigen Instituten Ausnahmen gewähren, die aufgrund der Struktur ihrer Geschäftstätigkeit über eine gleichwertige Deckung verfügen.
 
+<sup>7</sup> Der Bundesrat umschreibt die Einlagen und die Einleger nach Absatz 1 näher. Er kann den Höchstbetrag nach Absatz 1 der Geldentwertung anpassen.[^37a-6]
+
 [^37a-1]: Fassung gemäss Ziff. I des BG vom 18. März 2011 (Sicherung der Einlagen), in Kraft seit 1. Sept. 2011 ([AS 2011 3919](https://fedlex.data.admin.ch/eli/oc/2011/559); [BBl 2010 3993](https://fedlex.data.admin.ch/eli/fga/2010/655)).
 [^37a-2]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
-[^37a-3]: [SR 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
-[^37a-4]: [SR 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
+[^37a-3]: Aufgehoben durch Ziff. I des BG vom 17. Dez. 2021 (Insolvenz und Einlagensicherung), mit Wirkung seit 1. Jan. 2023 ([AS 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [BBl 2020 6359](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
+[^37a-4]: [SR 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^37a-5]: [SR 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
+[^37a-6]: Eingefügt durch Ziff. I des BG vom 17. Dez. 2021 (Insolvenz und Einlagensicherung), in Kraft seit 1. Jan. 2023 ([AS 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [BBl 2020 6359](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
 
 #### Art. 37b
 
-**Sofortige Auszahlung**[^37b-1]
+**Auszahlung aus den verfügbaren liquiden Aktiven**[^37b-1]
 
-<sup>1</sup> Privilegierte Einlagen gemäss Artikel 37*a* Absatz 1 werden aus den verfügbaren liquiden Aktiven ausserhalb der Kollokation und unter Ausschluss jeglicher Verrechnung sofort ausbezahlt.
+<sup>1</sup>
 
-<sup>2</sup> Die FINMA legt im Einzelfall den Höchstbetrag der sofort auszahlbaren Einlagen fest. Sie trägt dabei der Rangordnung der übrigen Gläubiger nach Artikel 219 SchKG[^37b-2] Rechnung.
+Privilegierte Einlagen gemäss Artikel 37*a* Absatz 1 werden aus den verfügbaren liquiden Aktiven ausserhalb der Kollokation und unter Ausschluss jeglicher Verrechnung ausbezahlt:
 
-[^37b-1]: Fassung gemäss Ziff. I des BG vom 18. März 2011 (Sicherung der Einlagen), in Kraft seit 1. Sept. 2011 ([AS 2011 3919](https://fedlex.data.admin.ch/eli/oc/2011/559); [BBl 2010 3993](https://fedlex.data.admin.ch/eli/fga/2010/655)).
+- a. sofort: wenn sie bei schweizerischen Geschäftsstellen gebucht sind;
+- b. sobald dies tatsächlich und rechtlich möglich ist: wenn sie bei ausländischen Geschäftsstellen gebucht sind.
+
+<sup>2</sup> Die FINMA legt im Einzelfall den Höchstbetrag der nach Absatz 1 auszahlbaren Einlagen fest. Sie trägt dabei der Rangordnung der übrigen Gläubiger nach Artikel 219 SchKG[^37b-2] Rechnung.
+
+[^37b-1]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (Insolvenz und Einlagensicherung), in Kraft seit 1. Jan. 2023 ([AS 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [BBl 2020 6359](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
 [^37b-2]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
 
 #### Art. 37c
@@ -1168,11 +1305,15 @@ Depotwerte gemäss Artikel 16 dieses Gesetzes werden nach den Artikeln 17 und 18
 
 **Verteilung und Schluss des Verfahrens**
 
-<sup>1</sup> Die Verteilungsliste wird nicht aufgelegt.
+<sup>1</sup> Sind sämtliche Aktiven verwertet und alle die Feststellung der Aktiv- und Passiv-masse betreffenden Prozesse erledigt, so erstellen die Konkursliquidatoren die abschliessende Verteilungsliste sowie die Schlussrechnung und unterbreiten beide der FINMA zur Genehmigung. Prozesse aus Abtretung von Rechtsansprüchen nach Artikel 260 SchKG[^37e-1] bleiben unberücksichtigt.[^37e-2]
 
-<sup>2</sup> Nach der Verteilung legen die Konkursliquidatoren der FINMA einen Schlussbericht vor.
+<sup>2</sup> Vor der Genehmigung werden die Verteilungsliste und die Schlussrechnung während zehn Tagen zur Einsicht aufgelegt. Die Auflegung und die Genehmigung werden im Schweizerischen Handelsamtsblatt und auf der Internetseite der FINMA publiziert.[^37e-3]
 
 <sup>3</sup> Die FINMA trifft die nötigen Anordnungen zur Schliessung des Verfahrens. Sie macht die Schliessung öffentlich bekannt.
+
+[^37e-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^37e-2]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (Insolvenz und Einlagensicherung), in Kraft seit 1. Jan. 2023 ([AS 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [BBl 2020 6359](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
+[^37e-3]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (Insolvenz und Einlagensicherung), in Kraft seit 1. Jan. 2023 ([AS 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [BBl 2020 6359](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
 
 #### Art. 37f
 
@@ -1209,7 +1350,61 @@ Die FINMA kann das in der Schweiz belegene Vermögen ohne Durchführung eines in
 [^37g-4]: Eingefügt durch Anhang Ziff. 2 des BG vom 16. März 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3263](https://fedlex.data.admin.ch/eli/oc/2018/527); [BBl 2017 4125](https://fedlex.data.admin.ch/eli/fga/2017/1054)).
 [^37g-5]: Fassung gemäss Anhang Ziff. 2 des BG vom 16. März 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3263](https://fedlex.data.admin.ch/eli/oc/2018/527); [BBl 2017 4125](https://fedlex.data.admin.ch/eli/fga/2017/1054)).
 
-## Dreizehnter Abschnitt:**** Einlagensicherung
+## Zwölfter *a*. Abschnitt: Beschwerden in Verfahren nach dem elften und zwölften Abschnitt
+
+[^chap12a-1]
+
+[^chap12a-1]: Eingefügt durch Ziff. I des BG vom 17. Dez. 2021 (Insolvenz und Einlagensicherung), in Kraft seit 1. Jan. 2023 ([AS 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [BBl 2020 6359](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
+
+#### Art. 37g<sup>bis</sup>
+
+**Beschwerden gegen die Genehmigung des Sanierungsplans**
+
+<sup>1</sup> Wird die Beschwerde gegen die Genehmigung des Sanierungsplans gutgeheissen, so kann das Gericht nur eine Entschädigung zusprechen.
+
+<sup>2</sup> Die Entschädigung erfolgt in der Regel durch Zuteilung von Aktien, anderen Beteiligungsrechten, Optionen oder Besserungsscheinen.
+
+#### Art. 37g<sup>ter</sup>
+
+**Beschwerden der Gläubiger und Eigner**
+
+<sup>1</sup>
+
+Gläubiger und Eigner einer Bank, einer Konzernobergesellschaft oder einer wesentlichen Gruppengesellschaft gemäss Artikel 2<sup>bis</sup> Absatz 1 können in den Verfahren nach dem elften und zwölften Abschnitt lediglich Beschwerde führen gegen:
+
+- a. die Genehmigung des Sanierungsplans;
+- b. Verwertungshandlungen;
+- c. die Genehmigung der Verteilungsliste und der Schlussrechnung.
+
+<sup>2</sup> Verwertungshandlungen des Konkursliquidators gelten als Realakte. Wer ein schutzwürdiges Interesse hat, kann darüber von der FINMA eine Verfügung im Sinne von Artikel 25*a* des Verwaltungsverfahrensgesetzes vom 20. Dezember 1968[^37gter-1] (VwVG) verlangen.
+
+<sup>3</sup> Die Beschwerde nach Artikel 17 SchKG[^37gter-2] ist in diesen Verfahren ausgeschlossen.
+
+[^37gter-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^37gter-2]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+
+#### Art. 37g<sup>quater</sup>
+
+**Fristen**
+
+<sup>1</sup> Die Frist für eine Beschwerde gegen die Genehmigung des Sanierungsplans und gegen Verwertungshandlungen beträgt zehn Tage. Artikel 22*a* VwVG[^37gquater-1] findet keine Anwendung.
+
+<sup>2</sup> Der Fristenlauf für eine Beschwerde gegen die Genehmigung des Sanierungsplans beginnt am Tag nach der öffentlichen Bekanntgabe der Grundzüge des Sanierungsplans. Der Fristenlauf für eine Beschwerde gegen die Genehmigung der Verteilungsliste und der Schlussrechnung beginnt am Tag, nachdem die Genehmigung öffentlich bekannt gegeben wurde.
+
+[^37gquater-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+
+#### Art. 37g<sup>quinquies</sup>
+
+**Aufschiebende Wirkung**
+
+Beschwerden in den Verfahren nach dem elften und dem zwölften Abschnitt haben keine aufschiebende Wirkung. Der Instruktionsrichter kann die aufschiebende Wirkung auf Gesuch hin erteilen. Die Erteilung der aufschiebenden Wirkung ist ausgeschlossen für Beschwerden gegen:
+
+- a. die Anordnung von Schutzmassnahmen;
+- b. die Anordnung eines Sanierungsverfahrens;
+- c. die Genehmigung des Sanierungsplans; und
+- d. die Anordnung der Konkursliquidation.
+
+## Dreizehnter Abschnitt: Einlagensicherung
 
 [^chap13-1]
 
@@ -1217,9 +1412,9 @@ Die FINMA kann das in der Schweiz belegene Vermögen ohne Durchführung eines in
 
 #### Art. 37h
 
-**Grundsatz**
+**Grundsatz**[^37h-1]
 
-<sup>1</sup> Die Banken sorgen für die Sicherung der privilegierten Einlagen nach Artikel 37*a* Absatz 1 bei schweizerischen Geschäftsstellen. Banken, die solche Einlagen besitzen, sind verpflichtet, sich zu diesem Zweck der Selbstregulierung der Banken anzuschliessen.[^37h-1]
+<sup>1</sup> Die Banken sorgen für die Sicherung der privilegierten Einlagen nach Artikel 37*a* Absatz 1 bei schweizerischen Geschäftsstellen. Banken müssen sich zu diesem Zweck vor der Entgegennahme solcher Einlagen der Selbstregulierung der Banken anschliessen.
 
 <sup>2</sup> Die Selbstregulierung unterliegt der Genehmigung durch die FINMA.
 
@@ -1227,17 +1422,33 @@ Die FINMA kann das in der Schweiz belegene Vermögen ohne Durchführung eines in
 
 Die Selbstregulierung wird genehmigt, wenn sie:
 
-- a.[^37h-2] die Auszahlung der gesicherten Einlagen innert 20 Arbeitstagen nach Erhalt der Mitteilung betreffend Anordnung von Massnahmen nach Artikel 26 Absatz 1 Buchstaben e–h oder des Konkurses nach den Artikeln 33–37*g* gewährleistet;
-- b.[^37h-3] einen Maximalbetrag von 6 Milliarden Franken für die gesamthaft ausstehenden Beitragsverpflichtungen vorsieht;
-- c. sicherstellt, dass jede Bank für die Hälfte ihrer Beitragsverpflichtungen dauernd liquide Mittel hält, welche die gesetzliche Liquidität übersteigen.
+- a. gewährleistet, dass der Träger der Einlagensicherung die gesicherten Einlagen dem von der FINMA eingesetzten Untersuchungs- oder Sanierungsbeauftragten oder Konkursliquidator innert sieben Arbeitstagen auszahlt, nachdem er die Mitteilung der FINMA über die Anordnung der Konkursliquidation oder einer zu treffenden Schutzmassnahme nach Artikel 26 Absatz 1 Buchstaben e−h erhalten hat;
+- b. vorsieht, dass die Banken zu Beiträgen in der Höhe von insgesamt 1,6 Prozent der Gesamtsumme der gesicherten Einlagen, mindestens aber 6 Milliarden Franken verpflichtet sind;
+- c.
 
-<sup>4</sup> Der Bundesrat kann den Betrag gemäss Absatz 3 Buchstabe b anpassen, sofern besondere Umstände dies erfordern.
+  sicherstellt, dass jede Bank im Umfang der Hälfte ihrer Beitragsverpflichtungen auf Dauer:
 
-<sup>5</sup> Genügt die Selbstregulierung den Anforderungen nach den Absätzen 1–3 nicht, so regelt der Bundesrat die Einlagensicherung in einer Verordnung. Er bezeichnet namentlich den Träger der Einlagensicherung und legt die Beiträge der Banken fest.
+  - 1\. leicht verwertbare Wertschriften von hoher Qualität oder Schweizerfranken in bar bei einer sicheren Drittverwahrungsstelle hinterlegt, oder
+  - 2\. dem Träger der Einlagensicherung Bardarlehen gewährt;
 
-[^37h-1]: Fassung gemäss Ziff. I des BG vom 18. März 2011 (Sicherung der Einlagen), in Kraft seit 1. Sept. 2011 ([AS 2011 3919](https://fedlex.data.admin.ch/eli/oc/2011/559); [BBl 2010 3993](https://fedlex.data.admin.ch/eli/fga/2010/655)).
-[^37h-2]: Fassung gemäss Ziff. I des BG vom 18. März 2011 (Sicherung der Einlagen), in Kraft seit 1. Sept. 2011 ([AS 2011 3919](https://fedlex.data.admin.ch/eli/oc/2011/559); [BBl 2010 3993](https://fedlex.data.admin.ch/eli/fga/2010/655)).
-[^37h-3]: Fassung gemäss Ziff. I des BG vom 18. März 2011 (Sicherung der Einlagen), in Kraft seit 1. Sept. 2011 ([AS 2011 3919](https://fedlex.data.admin.ch/eli/oc/2011/559); [BBl 2010 3993](https://fedlex.data.admin.ch/eli/fga/2010/655)).
+- d. jede Bank dazu verpflichtet, dass sie im Rahmen ihrer ordentlichen Geschäftstätigkeit die notwendigen Vorbereitungen trifft, die dem Untersuchungs- oder Sanierungsbeauftragten oder Konkursliquidator die Erstellung eines Auszahlungsplans, die Kontaktierung der Einleger sowie die Auszahlung gemäss Artikel 37*j* erlauben.
+
+<sup>4</sup>
+
+Zu den Vorbereitungen nach Absatz 3 Buchstabe d gehört insbesondere die Bereitstellung:
+
+- a. einer angemessenen Infrastruktur;
+- b. standardisierter Prozesse;
+- c. einer Einlegerliste mit den gemäss Absatz 1 gesicherten Einlagen;
+- d. einer summarischen Aufstellung mit den übrigen gemäss Artikel 37*a* Absatz 1 privilegierten Einlagen.
+
+<sup>5</sup> Der Bundesrat kann die Anforderungen gemäss Absatz 3 Buchstabe b anpassen, sofern besondere Umstände dies erfordern.
+
+<sup>6</sup> Genügt die Selbstregulierung den Anforderungen nach den Absätzen 1−4 nicht, so regelt der Bundesrat die Einlagensicherung in einer Verordnung. Er bezeichnet namentlich den Träger der Einlagensicherung und legt die Beiträge der Banken fest.
+
+<sup>7</sup> Die Auswirkungen der Finanzierungsformen gemäss Absatz 3 Buchstabe c auf die Liquiditäts- und Eigenmittelanforderungen sind zu neutralisieren, indem die verschiedenen Finanzierungformen nach Möglichkeit gleichwertig zu behandeln sind. Der Bundesrat erlässt die technischen Ausführungsbestimmungen.
+
+[^37h-1]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (Insolvenz und Einlagensicherung), in Kraft seit 1. Jan. 2023 ([AS 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [BBl 2020 6359](https://fedlex.data.admin.ch/eli/fga/2020/1555)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
 
 #### Art. 37i
 
@@ -1245,7 +1456,7 @@ Die Selbstregulierung wird genehmigt, wenn sie:
 
 <sup>1</sup> Hat die FINMA eine Schutzmassnahme nach Artikel 26 Absatz 1 Buchstaben e–h oder den Konkurs nach Artikel 33 angeordnet, so teilt sie dies dem Träger der Einlagensicherung mit und informiert ihn über den Bedarf an Leistungen zur Auszahlung der gesicherten Einlagen.
 
-<sup>2</sup> Der Träger der Einlagensicherung stellt den entsprechenden Betrag innert 20 Arbeitstagen nach Erhalt der Mitteilung dem von der FINMA in der Anordnung bezeichneten Untersuchungsbeauftragten, Sanierungsbeauftragten oder Konkursliquidator zur Verfügung.
+<sup>2</sup> Der Träger der Einlagensicherung stellt den entsprechenden Betrag innert sieben Arbeitstagen nach Erhalt der Mitteilung dem von der FINMA eingesetzten Untersuchungs- oder Sanierungsbeauftragten oder Konkursliquidator zur Verfügung.[^37i-2]
 
 <sup>3</sup>
 
@@ -1254,23 +1465,47 @@ Im Fall einer Schutzmassnahme kann die FINMA die Mitteilung aufschieben, solange
 - a. begründete Aussicht besteht, dass die Schutzmassnahme innert kurzer Frist wieder aufgehoben wird; oder
 - b. die gesicherten Einlagen von der Schutzmassnahme nicht betroffen sind.
 
-<sup>4</sup> Die Frist nach Absatz 2 wird unterbrochen, wenn und solange die Anordnung einer Schutzmassnahme oder des Konkurses nicht vollstreckbar ist.
+<sup>4</sup> …[^37i-3]
 
 [^37i-1]: Fassung gemäss Ziff. I des BG vom 18. März 2011 (Sicherung der Einlagen), in Kraft seit 1. Sept. 2011 ([AS 2011 3919](https://fedlex.data.admin.ch/eli/oc/2011/559); [BBl 2010 3993](https://fedlex.data.admin.ch/eli/fga/2010/655)).
+[^37i-2]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (Insolvenz und Einlagensicherung), in Kraft seit 1. Jan. 2023 ([AS 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [BBl 2020 6359](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
+[^37i-3]: Aufgehoben durch Ziff. I des BG vom 17. Dez. 2021 (Insolvenz und Einlagensicherung), mit Wirkung seit 1. Jan. 2023 ([AS 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [BBl 2020 6359](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
 
 #### Art. 37j
 
-**Abwicklung und Legalzession**[^37j-1]
+**Auszahlung**[^37j-1]
 
-<sup>1</sup> Der von der FINMA eingesetzte Untersuchungsbeauftragte, Sanierungsbeauftragte oder Konkursliquidator zahlt den Einlegern die gesicherten Einlagen aus.
+<sup>1</sup> Der von der FINMA eingesetzte Untersuchungs- oder Sanierungsbeauftragte oder Konkursliquidator erstellt einen Auszahlungsplan anhand der Einlegerliste nach Artikel 37*h* Absatz 4 Buchstabe c.
 
-<sup>2</sup> Die gesicherten Einlagen werden unter Ausschluss jeglicher Verrechnung ausbezahlt.
+<sup>2</sup> Er ersucht die aus dem Auszahlungsplan ersichtlichen Einleger umgehend um Zahlungsinstruktionen zur Auszahlung der gesicherten Einlagen.
 
-<sup>3</sup> Den Einlegern steht gegenüber dem Träger der Einlagensicherung kein direkter Anspruch zu.
+<sup>3</sup> Er sorgt nach Erhalt der Zahlungsinstruktionen dafür, dass die gesicherten Einlagen den Einlegern umgehend, spätestens aber am siebten Arbeitstag nach Erhalt der Instruktion ausbezahlt werden.
 
-<sup>4</sup> Die Rechte der Einleger gehen im Umfang der Auszahlungen auf den Träger der Einlagensicherung über.
+<sup>4</sup> Genügt der Betrag, der durch den Träger der Einlagensicherung zur Verfügung gestellt wurde, nicht zur Befriedigung der in den Auszahlungsplan aufgenommenen Forderungen, so erfolgt die umgehende Auszahlung anteilsmässig.
 
-[^37j-1]: Eingefügt durch Ziff. I des BG vom 18. März 2011 (Sicherung der Einlagen), in Kraft seit 1. Sept. 2011 ([AS 2011 3919](https://fedlex.data.admin.ch/eli/oc/2011/559); [BBl 2010 3993](https://fedlex.data.admin.ch/eli/fga/2010/655)).
+<sup>5</sup>
+
+Die Frist nach Absatz 3 verlängert sich oder wird ausgesetzt bei Einlagen, bei denen:
+
+- a. unklare oder komplexe Rechtsansprüche vorliegen;
+- b. kein objektiver Bedarf nach einer raschen Auszahlung besteht; oder
+- c. ungenaue oder unklare Zahlungsinstruktionen vorliegen.
+
+<sup>6</sup> Die Einlagen nach Absatz 5 werden in der durch die FINMA zu genehmigenden Selbstregulierung näher umschrieben.
+
+[^37j-1]: Eingefügt durch Ziff. I des BG vom 18. März 2011 (Sicherung der Einlagen) ([AS 2011 3919](https://fedlex.data.admin.ch/eli/oc/2011/559); [BBl 2010 3993](https://fedlex.data.admin.ch/eli/fga/2010/655)). Fassung gemäss Ziff. I des BG vom 17. Dez. 2021 (Insolvenz und Einlagensicherung), in Kraft seit 1. Jan. 2023 ([AS 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [BBl 2020 6359](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
+
+#### Art. 37j<sup>bis</sup>
+
+**Verrechnung, Anspruch und Legalzession**[^37jbis-1]
+
+<sup>1</sup> Die gesicherten Einlagen werden unter Ausschluss jeglicher Verrechnung ausbezahlt.
+
+<sup>2</sup> Den Einlegern steht gegenüber dem Träger der Einlagensicherung kein direkter Anspruch zu.
+
+<sup>3</sup> Die Rechte der Einleger gehen im Umfang der Auszahlungen auf den Träger der Einlagensicherung über.
+
+[^37jbis-1]: Eingefügt durch Ziff. I des BG vom 17. Dez. 2021 (Insolvenz und Einlagensicherung), in Kraft seit 1. Jan. 2023 ([AS 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [BBl 2020 6359](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
 
 #### Art. 37k
 
@@ -1282,7 +1517,7 @@ Im Fall einer Schutzmassnahme kann die FINMA die Mitteilung aufschieben, solange
 
 [^37k-1]: Eingefügt durch Ziff. I des BG vom 18. März 2011 (Sicherung der Einlagen), in Kraft seit 1. Sept. 2011 ([AS 2011 3919](https://fedlex.data.admin.ch/eli/oc/2011/559); [BBl 2010 3993](https://fedlex.data.admin.ch/eli/fga/2010/655)).
 
-## Dreizehnter Abschnitt a:**** Nachrichtenlose Vermögenswerte
+## Dreizehnter Abschnitt a: Nachrichtenlose Vermögenswerte
 
 [^chap13a-1]
 
@@ -1358,7 +1593,7 @@ Mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe wird bestraft, wer vorsä
 
 <sup>2</sup> Wer fahrlässig handelt, wird mit Busse bis zu 250 000 Franken bestraft.
 
-<sup>3</sup> ...[^46-2]
+<sup>3</sup> …[^46-2]
 
 [^46-1]: Fassung gemäss Anhang Ziff. 15 des Finanzmarktaufsichtsgesetzes vom 22. Juni 2007, in Kraft seit 1. Jan. 2009 ([AS 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736)[5205](https://fedlex.data.admin.ch/eli/oc/2008/735); [BBl 2006 2829](https://fedlex.data.admin.ch/eli/fga/2006/303)).
 [^46-2]: Aufgehoben durch Anhang Ziff. 10 des Finanzmarktinfrastrukturgesetzes vom 19. Juni 2015, mit Wirkung seit 1. Jan. 2016 ([AS 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [BBl 2014 7483](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
@@ -1379,7 +1614,7 @@ Mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe wird bestraft, wer vorsä
 
 <sup>2</sup> Wer fahrlässig handelt, wird mit Busse bis zu 250 000 Franken bestraft.
 
-<sup>3</sup> ...[^47-5]
+<sup>3</sup> …[^47-5]
 
 <sup>4</sup> Die Verletzung des Berufsgeheimnisses ist auch nach Beendigung des amtlichen oder dienstlichen Verhältnisses oder der Berufsausübung strafbar.
 
@@ -1414,7 +1649,7 @@ Mit Busse bis zu 500 000 Franken wird bestraft, wer vorsätzlich:
 
 <sup>2</sup> Wer fahrlässig handelt, wird mit Busse bis zu 150 000 Franken bestraft.
 
-<sup>3</sup> ...[^49-2]
+<sup>3</sup> …[^49-2]
 
 [^49-1]: Fassung gemäss Anhang Ziff. 15 des Finanzmarktaufsichtsgesetzes vom 22. Juni 2007, in Kraft seit 1. Jan. 2009 ([AS 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736)[5205](https://fedlex.data.admin.ch/eli/oc/2008/735); [BBl 2006 2829](https://fedlex.data.admin.ch/eli/fga/2006/303)).
 [^49-2]: Aufgehoben durch Anhang Ziff. 10 des Finanzmarktinfrastrukturgesetzes vom 19. Juni 2015, mit Wirkung seit 1. Jan. 2016 ([AS 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [BBl 2014 7483](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
@@ -1496,7 +1731,7 @@ Datum des Inkrafttretens: 1. März 1935[^56-1]
 
 [^56-1]: BRB vom 26. Febr. 1935
 
-## Schlussbestimmungen der Änderung vom 11. März 1971****
+## Schlussbestimmungen der Änderung vom 11. März 1971
 
 [^u1-1]
 
@@ -1515,7 +1750,7 @@ Datum des Inkrafttretens: 1. März 1935[^56-1]
 [^u1-4]: Das Gesetz ist am 1. Juli 1971 in Kraft getreten (Art. 1 des BRB vom 24. Juni 1971 – [AS 1971 824](https://fedlex.data.admin.ch/eli/oc/1971/824_825_825)Art. 1).
 [^u1-5]: Diese Bestimmung ist aufgehoben.
 
-## Schlussbestimmungen der Änderung vom 18. März 1994****
+## Schlussbestimmungen der Änderung vom 18. März 1994
 
 [^u2-1]
 
@@ -1537,7 +1772,7 @@ Datum des Inkrafttretens: 1. März 1935[^56-1]
 
 [^u2-2]: Diese Bestimmung hat heute eine neue Fassung.
 
-## Schlussbestimmungen der Änderung vom 22. April 1999****
+## Schlussbestimmungen der Änderung vom 22. April 1999
 
 [^u3-1]
 
@@ -1549,7 +1784,7 @@ Datum des Inkrafttretens: 1. März 1935[^56-1]
 
 <sup>3</sup> Für die Kantonalbank des Kantons Genf wird die Kapitalbeteiligung der Gemeinden der Beteiligung des Kantons nach Artikel 3*a* gleichgestellt, sofern die bestehende Kapitalbeteiligung durch den Kanton nicht reduziert wird.
 
-## Schlussbestimmungen der Änderung vom 3. Oktober 2003****
+## Schlussbestimmungen der Änderung vom 3. Oktober 2003
 
 [^u4-1]
 
@@ -1559,7 +1794,7 @@ Datum des Inkrafttretens: 1. März 1935[^56-1]
 
 <sup>2</sup> Verfügt die Bankenkommission vor Inkrafttreten dieser Änderung die Liquidation einer Bank, so ist für die Liquidation sowie eine Banken- oder Nachlassstundung das bisherige Recht massgebend.
 
-## Schlussbestimmungen der Änderung vom 17. Dezember 2004****
+## Schlussbestimmungen der Änderung vom 17. Dezember 2004
 
 [^u5-1]
 
@@ -1571,7 +1806,7 @@ Datum des Inkrafttretens: 1. März 1935[^56-1]
 
 <sup>3</sup> Die Bankenkommission kann diese Fristen auf rechtzeitiges und begründetes Gesuch hin verlängern.
 
-## Übergangsbestimmung zur Änderung vom 30. September 2011****
+## Übergangsbestimmung zur Änderung vom 30. September 2011
 
 [^u6-1]
 
@@ -1579,10 +1814,18 @@ Datum des Inkrafttretens: 1. März 1935[^56-1]
 
 Die erstmalige Verabschiedung der Regelungen nach Artikel 10 Absatz 4 ist der Bundesversammlung zur Genehmigung zu unterbreiten.
 
-## Übergangsbestimmung zur Änderung vom 22. März 2013****
+## Übergangsbestimmung zur Änderung vom 22. März 2013
 
 [^u7-1]
 
 [^u7-1]: [AS 2014 1267](https://fedlex.data.admin.ch/eli/oc/2014/272); [BBl 2010 7495](https://fedlex.data.admin.ch/eli/fga/2010/1348)
 
 Für Vermögenswerte, die bei Inkrafttreten der Änderung vom 22. März 2013 seit über 50 Jahren nachrichtenlos sind, läuft eine Publikationsfrist von 5 Jahren.
+
+## Übergangsbestimmung zur Änderung vom 17. Dezember 2021
+
+[^u8-1]
+
+[^u8-1]: [AS 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [BBl 2020 6359](https://fedlex.data.admin.ch/eli/fga/2020/1555)
+
+Die Anforderungen an die Selbstregulierung nach Artikel 37*h* Absatz 3 Buchstabe d müssen spätestens fünf Jahre nach Inkrafttreten der Änderung vom 17. Dezember 2021 erfüllt sein.

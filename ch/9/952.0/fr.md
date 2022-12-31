@@ -4,20 +4,20 @@ title: "Loi fédérale du 8 novembre 1934 sur les banques et les caisses d'épar
 short: LB
 eli: "https://fedlex.data.admin.ch/eli/cc/51/117_121_129"
 language: fr
-version: 2021-08-01
+version: 2023-01-01
 adopted: 1934-11-08
 in_force: 1935-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/51/117_121_129/20210801/fr/xml/fedlex-data-admin-ch-eli-cc-51-117_121_129-20210801-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/51/117_121_129/20210801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/51/117_121_129/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-51-117_121_129-20230101-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/51/117_121_129/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Loi fédérale sur les banques et les caisses d’épargne
 
-(Loi sur les banques, LB)**[^t-1]**
+(Loi sur les banques, LB)[^t-1]
 
-du 8 novembre 1934 (Etat le 1<sup>er</sup> août 2021)
+du 8 novembre 1934 (État le 1<sup>er</sup> janvier 2023)
 
 [^t-1]: Nouvelle teneur selon le ch. I de la LF du 22 avr. 1999, en vigueur depuis le 1<sup>er</sup> oct. 1999 ([RO 1999 2405](https://fedlex.data.admin.ch/eli/oc/1999/368); FF **1998** 3349).
 
@@ -69,10 +69,11 @@ La présente loi ne s’applique notamment pas:
 Est réputé banque quiconque est principalement actif dans le secteur financier et:
 
 - a. accepte à titre professionnel des dépôts du public supérieurs à 100 millions de francs ou fait appel au public pour les obtenir;
-- b. accepte à titre professionnel des dépôts du public jusqu’à concurrence de 100 millions de francs ou fait appel au public pour les obtenir et investit ou rémunère ces dépôts, ou
+- b.[^1a-2] accepte à titre professionnel des dépôts du public jusqu’à concurrence de 100 millions de francs ou des cryptoactifs désignés par le Conseil fédéral, ou fait appel au public pour les obtenir et investit ou rémunère ces dépôts ou ces actifs, ou
 - c. se refinance dans une mesure importante auprès de plusieurs banques ne participant pas de manière notable à son capital dans le but de financer pour son propre compte, de quelque manière que ce soit, un nombre indéterminé de personnes ou d’entreprises avec lesquelles il ne forme pas une entité économique.
 
 [^1a-1]: Introduit par l’annexe ch. II 14 de la LF du 15 juin 2018 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^1a-2]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021 (Insolvabilité et garantie des dépôts), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 6151](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
 
 #### Art. 1b
 
@@ -142,7 +143,7 @@ Les dispositions de la présente loi s’appliquent par analogie:
 
 <sup>1</sup>
 
-Sont soumises aux chapitres XI et XII de la présente loi, pour autant qu’elles ne soient pas assujetties à la compétence de la FINMA en matière de faillite dans le cadre de la surveillance individuelle de l’établissement:
+Sont soumises aux chapitres XI, XII et XII*a* de la présente loi, pour autant qu’elles ne soient pas assujetties à la compétence de la FINMA en matière de faillite dans le cadre de la surveillance individuelle de l’établissement:[^2bis-2]
 
 - a. les sociétés mères d’un groupe financier ou d’un conglomérat financier domiciliées en Suisse;
 - b. les sociétés du groupe ayant leur siège en Suisse qui remplissent des fonctions importantes pour les activités soumises à autorisation (sociétés du groupe significatives).
@@ -152,8 +153,9 @@ Sont soumises aux chapitres XI et XII de la présente loi, pour autant qu’elle
 <sup>3</sup> La FINMA désigne les sociétés du groupe significatives et tient un répertoire de ces sociétés. Celui-ci est accessible au public.
 
 [^2bis-1]: Introduit par l’annexe ch. 10 de la L du 19 juin 2015 sur l’infrastructure des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853);[FF 2014 7235](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
+[^2bis-2]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021 (Insolvabilité et garantie des dépôts), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 6151](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
 
-## Chapitre II Autorisation pour la banque d’exercer son activité****
+## Chapitre II Autorisation pour la banque d’exercer son activité
 
 [^chap2-1]
 
@@ -165,32 +167,35 @@ Sont soumises aux chapitres XI et XII de la présente loi, pour autant qu’elle
 
 <sup>1</sup> La banque ne peut commencer son activité qu’après en avoir obtenu l’autorisation de la FINMA; elle ne peut s’inscrire au registre du commerce avant d’avoir reçu cette autorisation.
 
-<sup>2</sup> 3 La banque remettra à la FINMA ses statuts, ses contrats de société et ses règlements, et l’informera de toutes les modifications qui y seront apportées ultérieurement, en tant qu’elles ont trait au but social, à l’activité de l’établissement, au capital social ou à l’organisation interne. Les modifications ne pourront être inscrites au registre du commerce qu’après avoir été approuvées par la FINMA.
+<sup>2</sup>
 
 L’autorisation est accordée lorsque les conditions suivantes sont réunies:
 
-- a. les statuts, les contrats de société et les règlements de la banque en définissent exactement le champ d’activité et prévoient l’organisation correspondant à cette activité; lorsque son but social ou l’importance de ses affaires l’exige, la banque doit instituer d’une part des organes de direction et, d’autre part, des organes préposés à la haute direction, à la surveillance et au contrôle, en délimitant les attributions de chacun d’entre eux de façon à garantir une surveillance appropriée de la gestion;
-- b.[^3-2] la banque fournit la preuve que le capital minimum fixé par le Conseil fédéral est entièrement libéré;
+- a.[^3-2] les statuts, les contrats de société et les règlements de la banque en définissent exactement le champ d’activité et prévoient l’organisation correspondant à cette activité; lorsque son but social ou l’importance de ses affaires l’exige, la banque doit instituer d’une part des organes de gestion et, d’autre part, des organes chargés de la haute direction, de la surveillance et du contrôle, en délimitant les attributions de chacun d’entre eux de façon à garantir une surveillance appropriée de la gestion;
+- b.[^3-3] la banque fournit la preuve que le capital minimum fixé par le Conseil fédéral est entièrement libéré;
 - c. les personnes chargées d’administrer et de gérer la banque jouissent d’une bonne réputation et présentent toutes garanties d’une activité irréprochable;
-- c<sup>bis</sup>.[^3-3] les personnes physiques ou morales qui détiennent dans une banque, directement ou indirectement, au moins 10 pour cent du capital ou des droits de vote, ou qui de toute autre manière peuvent exercer une influence notable sur la gestion de la banque (participation qualifiée), donnent la garantie que leur influence n’est pas susceptible d’être exercée au détriment d’une gestion prudente et saine de la banque;
-- d.[^3-4] les membres de la direction de la banque ont leur domicile en un lieu qui leur permet d’exercer la gestion effective des affaires et d’en assumer la responsabilité.
+- c<sup>bis</sup>.[^3-4] les personnes physiques ou morales qui détiennent dans une banque, directement ou indirectement, au moins 10 pour cent du capital ou des droits de vote, ou qui de toute autre manière peuvent exercer une influence notable sur la gestion de la banque (participation qualifiée), donnent la garantie que leur influence n’est pas susceptible d’être exercée au détriment d’une gestion prudente et saine de la banque;
+- d.[^3-5] les personnes chargées de la gestion de la banque ont leur domicile en un lieu qui leur permet d’exercer la gestion effective des affaires et d’en assumer la responsabilité.
 
-<sup>4</sup> ...[^3-5]
+<sup>3</sup> La banque remettra à la FINMA ses statuts, ses contrats de société et ses règlements, et l’informera de toutes les modifications qui y seront apportées ultérieurement, en tant qu’elles ont trait au but social, à l’activité de l’établissement, au capital social ou à l’organisation interne. Les modifications ne pourront être inscrites au registre du commerce qu’après avoir été approuvées par la FINMA.
 
-<sup>5</sup> Toute personne physique ou morale qui envisage de détenir, ou de cesser de détenir, directement ou indirectement, une participation qualifiée au sens de l’al. 2, let. c<sup>bis</sup>, dans une banque organisée selon le droit suisse, est tenue d’en informer préalablement la FINMA. Ce devoir d’information vaut également lorsqu’elle envisage d’augmenter ou de diminuer une telle participation et que ladite participation atteint ou dépasse les seuils de 20, 33 ou 50 pour cent du capital ou des droits de vote, ou descend en dessous de ceux-ci.[^3-6]
+<sup>4</sup> …[^3-6]
 
-<sup>6</sup> La banque annonce les personnes qui remplissent les conditions de l’al. 5 dès qu’elle en a connaissance, mais au moins une fois par année.[^3-7]
+<sup>5</sup> Toute personne physique ou morale qui envisage de détenir, ou de cesser de détenir, directement ou indirectement, une participation qualifiée au sens de l’al. 2, let. c<sup>bis</sup>, dans une banque organisée selon le droit suisse, est tenue d’en informer préalablement la FINMA. Ce devoir d’information vaut également lorsqu’elle envisage d’augmenter ou de diminuer une telle participation et que ladite participation atteint ou dépasse les seuils de 20, 33 ou 50 pour cent du capital ou des droits de vote, ou descend en dessous de ceux-ci.[^3-7]
 
-<sup>7</sup> Les banques organisées selon le droit suisse qui envisagent d’être actives à l’étranger par l’intermédiaire d’une filiale, d’une succursale, d’une agence ou d’une représentation en informent au préalable la FINMA.[^3-8]
+<sup>6</sup> La banque annonce les personnes qui remplissent les conditions de l’al. 5 dès qu’elle en a connaissance, mais au moins une fois par année.[^3-8]
+
+<sup>7</sup> Les banques organisées selon le droit suisse qui envisagent d’être actives à l’étranger par l’intermédiaire d’une filiale, d’une succursale, d’une agence ou d’une représentation en informent au préalable la FINMA.[^3-9]
 
 [^3-1]: Nouvelle teneur selon le ch. I de la LF du 11 mars 1971, en vigueur depuis le 1<sup>er</sup> juil. 1971 ([RO 1971 808](https://fedlex.data.admin.ch/eli/oc/1971/808_808_809)[825](https://fedlex.data.admin.ch/eli/oc/1971/824_825_825)art. 1; [FF 1970 I 1157](https://fedlex.data.admin.ch/eli/fga/1970/1_1044_1157_885)).
-[^3-2]: Nouvelle teneur selon le ch. I de la LF du 18 mars 1994, en vigueur depuis le 1<sup>er</sup> fév. 1995 ([RO 1995 246](https://fedlex.data.admin.ch/eli/oc/1995/246_246_246); [FF 1993 I 757](https://fedlex.data.admin.ch/eli/fga/1993/1_805_757_609)).
-[^3-3]: Introduite par le ch. I de la LF du 18 mars 1994, en vigueur depuis le 1<sup>er</sup> fév. 1995 ([RO 1995 246](https://fedlex.data.admin.ch/eli/oc/1995/246_246_246); [FF 1993 I 757](https://fedlex.data.admin.ch/eli/fga/1993/1_805_757_609)). Voir aussi les disp. fin. de cette mod. à la fin du texte.
-[^3-4]: Nouvelle teneur selon le ch. I de la LF du 18 mars 1994, en vigueur depuis le 1<sup>er</sup> fév. 1995 ([RO 1995 246](https://fedlex.data.admin.ch/eli/oc/1995/246_246_246); [FF 1993 I 757](https://fedlex.data.admin.ch/eli/fga/1993/1_805_757_609)). Voir aussi les disp. fin. de cette mod. à la fin du texte.
-[^3-5]: Abrogé par le ch. I de la LF du 18 mars 1994, avec effet au 1<sup>er</sup> fév. 1995 ([RO 1995 246](https://fedlex.data.admin.ch/eli/oc/1995/246_246_246); [FF 1993 I 757](https://fedlex.data.admin.ch/eli/fga/1993/1_805_757_609)).
-[^3-6]: Introduit par le ch. I de la LF du 18 mars 1994, en vigueur depuis le 1<sup>er</sup> fév. 1995 ([RO 1995 246](https://fedlex.data.admin.ch/eli/oc/1995/246_246_246); [FF 1993 I 757](https://fedlex.data.admin.ch/eli/fga/1993/1_805_757_609)).
-[^3-7]: Introduit par le ch. I de la LF du 18 mars 1994, en vigueur depuis le 1<sup>er</sup> fév. 1995 ([RO 1995 246](https://fedlex.data.admin.ch/eli/oc/1995/246_246_246); [FF 1993 I 757](https://fedlex.data.admin.ch/eli/fga/1993/1_805_757_609)). Voir aussi les disp. fin. de cette mod. à la fin du texte.
-[^3-8]: Introduit par le ch. I de la LF du 18 mars 1994, en vigueur depuis le 1<sup>er</sup> fév. 1995 ([RO 1995 246](https://fedlex.data.admin.ch/eli/oc/1995/246_246_246); [FF 1993 I 757](https://fedlex.data.admin.ch/eli/fga/1993/1_805_757_609)).
+[^3-2]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021 (Insolvabilité et garantie des dépôts), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 6151](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
+[^3-3]: Nouvelle teneur selon le ch. I de la LF du 18 mars 1994, en vigueur depuis le 1<sup>er</sup> fév. 1995 ([RO 1995 246](https://fedlex.data.admin.ch/eli/oc/1995/246_246_246); [FF 1993 I 757](https://fedlex.data.admin.ch/eli/fga/1993/1_805_757_609)).
+[^3-4]: Introduite par le ch. I de la LF du 18 mars 1994, en vigueur depuis le 1<sup>er</sup> fév. 1995 ([RO 1995 246](https://fedlex.data.admin.ch/eli/oc/1995/246_246_246); [FF 1993 I 757](https://fedlex.data.admin.ch/eli/fga/1993/1_805_757_609)). Voir aussi les disp. fin. de cette mod. à la fin du texte.
+[^3-5]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021 (Insolvabilité et garantie des dépôts), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 6151](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
+[^3-6]: Abrogé par le ch. I de la LF du 18 mars 1994, avec effet au 1<sup>er</sup> fév. 1995 ([RO 1995 246](https://fedlex.data.admin.ch/eli/oc/1995/246_246_246); [FF 1993 I 757](https://fedlex.data.admin.ch/eli/fga/1993/1_805_757_609)).
+[^3-7]: Introduit par le ch. I de la LF du 18 mars 1994, en vigueur depuis le 1<sup>er</sup> fév. 1995 ([RO 1995 246](https://fedlex.data.admin.ch/eli/oc/1995/246_246_246); [FF 1993 I 757](https://fedlex.data.admin.ch/eli/fga/1993/1_805_757_609)).
+[^3-8]: Introduit par le ch. I de la LF du 18 mars 1994, en vigueur depuis le 1<sup>er</sup> fév. 1995 ([RO 1995 246](https://fedlex.data.admin.ch/eli/oc/1995/246_246_246); [FF 1993 I 757](https://fedlex.data.admin.ch/eli/fga/1993/1_805_757_609)). Voir aussi les disp. fin. de cette mod. à la fin du texte.
+[^3-9]: Introduit par le ch. I de la LF du 18 mars 1994, en vigueur depuis le 1<sup>er</sup> fév. 1995 ([RO 1995 246](https://fedlex.data.admin.ch/eli/oc/1995/246_246_246); [FF 1993 I 757](https://fedlex.data.admin.ch/eli/fga/1993/1_805_757_609)).
 
 #### Art. 3a
 
@@ -216,13 +221,14 @@ Lorsqu’une banque fait partie d’un groupe financier ou d’un conglomérat f
 
 Deux ou plusieurs entreprises constituent un groupe financier si les conditions suivantes sont remplies:
 
-- a. au moins une banque ou un négociant en valeurs mobilières sont actifs dans le groupe;
+- a. au moins une banque ou une maison de titres[^3c-2] sont actives dans le groupe;
 - b. les entreprises sont principalement actives dans le domaine financier;
 - c. elles forment une unité économique ou lorsqu’il y a lieu de supposer, en raison d’autres circonstances, qu’une ou plusieurs entreprises sous surveillance individuelle sont de fait ou juridiquement tenues de prêter assistance à une société du groupe.
 
 <sup>2</sup> Lorsqu’un groupe financier, au sens de l’al. 1, est principalement actif dans le secteur bancaire ou celui des valeurs mobilières et comprend au moins une société d’assurance d’une importance économique considérable, il forme un conglomérat financier dominé par le secteur bancaire ou celui du négoce en valeurs mobilières.
 
 [^3c-1]: Introduit par l’annexe ch. II 6 de la LF du 17 déc. 2004 sur la surveillance des assurances, en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2005 5269](https://fedlex.data.admin.ch/eli/oc/2005/734); [FF 2003 3353](https://fedlex.data.admin.ch/eli/fga/2003/577)).
+[^3c-2]: Nouvelle expression selon le ch. I de la LF du 17 déc. 2021 (Insolvabilité et garantie des dépôts), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 6151](https://fedlex.data.admin.ch/eli/fga/2020/1555)). Il n’a été tenu compte de cette mod. que dans les disp. mentionnées au RO.
 
 #### Art. 3d
 
@@ -232,7 +238,7 @@ Deux ou plusieurs entreprises constituent un groupe financier si les conditions 
 
 La FINMA peut soumettre un groupe financier ou un conglomérat financier dominé par le secteur bancaire ou celui du négoce en valeurs mobilières à la surveillance des groupes ou des conglomérats lorsqu’il:
 
-- a. détient en Suisse une banque ou un négociant en valeurs mobilières organisés selon le droit suisse ou
+- a. détient en Suisse une banque ou une maison de titres organisées selon le droit suisse ou
 - b. est en fait dirigé depuis la Suisse.
 
 <sup>2</sup> Lorsque d’autres autorités étrangères revendiquent elles aussi la surveillance partielle ou totale du groupe financier ou du conglomérat financier, la FINMA détermine avec celles-ci, sous réserve de ses attributions, les compétences, les modalités ainsi que l’objet de la surveillance dudit groupe ou conglomérat. Avant de se prononcer, la FINMA consulte les entreprises incorporées en Suisse du groupe financier ou du conglomérat financier en question.[^3d-2]
@@ -268,7 +274,13 @@ La FINMA peut soumettre un groupe financier ou un conglomérat financier dominé
 
 <sup>2</sup> En ce qui concerne les conglomérats financiers dominés par le secteur bancaire ou celui du négoce en valeurs mobilières, la FINMA est autorisée à édicter ou à fixer cas par cas des dispositions sur les fonds propres, les liquidités, la répartition des risques, les positions de risques intra-groupe et l’établissement des comptes. Elle tient compte en matière de fonds propres des règles existant dans le domaine financier et des assurances ainsi que de l’importance relative des deux secteurs dans le conglomérat financier et des risques inhérents.
 
+<sup>3</sup> Le Conseil fédéral peut édicter des dispositions concernant la dotation financière et l’organisation des sociétés du groupe significatives visées à l’art. 2<sup>bis</sup>, al. 1, let. b, qui remplissent des fonctions importantes pour les banques d’importance systémique.[^3g-2]
+
+<sup>4</sup> Les exigences en matière de dotation financière et d’organisation sont fixées en fonction de l’étendue et du type des prestations de services importantes que les sociétés du groupe significatives doivent fournir en cas d’assainissement ou de faillite du groupe.[^3g-3]
+
 [^3g-1]: Introduit par l’annexe ch. II 6 de la LF du 17 déc. 2004 sur la surveillance des assurances, en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2005 5269](https://fedlex.data.admin.ch/eli/oc/2005/734); [FF 2003 3353](https://fedlex.data.admin.ch/eli/fga/2003/577)).
+[^3g-2]: Introduit par le ch. I de la LF du 17 déc. 2021 (Insolvabilité et garantie des dépôts), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 6151](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
+[^3g-3]: Introduit par le ch. I de la LF du 17 déc. 2021 (Insolvabilité et garantie des dépôts), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 6151](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
 
 #### Art. 3h
 
@@ -286,7 +298,7 @@ La FINMA peut de surcroît lier l’octroi de l’autorisation à s’établir e
 
 - a.[^3bis-3] la réciprocité est garantie par les États où les étrangers détenant des participations qualifiées ont leur domicile civil ou leur siège; les dispositions divergentes d’engagements internationaux sont réservées;
 - b. la raison sociale de la banque ne doit pas permettre de conclure au caractère suisse de l’établissement ni laisser présumer un tel caractère;
-- c.[^3bis-4] ...
+- c.[^3bis-4] …
 
 <sup>1bis</sup> Lorsqu’une banque fait partie d’un groupe financier ou d’un conglomérat financier, la FINMA peut subordonner l’octroi de son autorisation à l’accord des autorités étrangères compétentes.[^3bis-5]
 
@@ -314,11 +326,11 @@ Les dispositions de l’al. 1 s’appliquent à la banque organisée selon le dr
 
 <sup>2</sup> Une nouvelle autorisation complémentaire doit être demandée en cas de changement dans les détenteurs étrangers des participations qualifiées.[^3ter-2]
 
-<sup>3</sup> Les membres de l’administration et de la direction de la banque sont tenus de communiquer à la FINMA tout fait permettant de conclure à une domination étrangère de l’établissement ou à une modification dans l’état des personnes détenant des participations qualifiées.[^3ter-3]
+<sup>3</sup> Les membres de l’administration et de l’organe de gestion de la banque sont tenus de communiquer à la FINMA tout fait permettant de conclure à une domination étrangère de l’établissement ou à une modification dans l’état des personnes détenant des participations qualifiées.[^3ter-3]
 
 [^3ter-1]: Introduit par le ch. I de la LF du 11 mars 1971, en vigueur depuis le 1<sup>er</sup> juil. 1971 ([RO 1971 808](https://fedlex.data.admin.ch/eli/oc/1971/808_808_809)[825](https://fedlex.data.admin.ch/eli/oc/1971/824_825_825)art. 1; [FF 1970 I 1157](https://fedlex.data.admin.ch/eli/fga/1970/1_1044_1157_885)).
 [^3ter-2]: Nouvelle teneur selon le ch. I de la LF du 16 déc. 1994, en vigueur depuis le 1<sup>er</sup> juil. 1995 ([RO 1995 2109](https://fedlex.data.admin.ch/eli/oc/1995/2109_2109_2109); [FF 1994 IV 995](https://fedlex.data.admin.ch/eli/fga/1994/4_950_995_923))
-[^3ter-3]: Nouvelle teneur selon le ch. I de la LF du 16 déc. 1994, en vigueur depuis le 1<sup>er</sup> juil. 1995 ([RO 1995 2109](https://fedlex.data.admin.ch/eli/oc/1995/2109_2109_2109); [FF 1994 IV 995](https://fedlex.data.admin.ch/eli/fga/1994/4_950_995_923))
+[^3ter-3]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021 (Insolvabilité et garantie des dépôts), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 6151](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
 
 #### Art. 3<sup>quater</sup>
 
@@ -330,7 +342,7 @@ Les dispositions de l’al. 1 s’appliquent à la banque organisée selon le dr
 
 [^3quater-1]: Introduit par le ch. I de la LF du 18 mars 1994, en vigueur depuis le 1<sup>er</sup> fév. 1995 ([RO 1995 246](https://fedlex.data.admin.ch/eli/oc/1995/246_246_246); [FF 1993 I 757](https://fedlex.data.admin.ch/eli/fga/1993/1_805_757_609)).
 
-## Chapitre III Fonds propres, liquidité et autres règles de gestion****
+## Chapitre III Fonds propres, liquidité et autres règles de gestion
 
 [^chap3-1]
 
@@ -359,7 +371,7 @@ Les dispositions de l’al. 1 s’appliquent à la banque organisée selon le dr
 
 <sup>2</sup> Le règlement d’exécution fixera la relation entre les prêts, avances et participations, d’une part, et les fonds propres, d’autre part, selon qu’il s’agit ou non de collectivités de droit public et d’après la valeur des sûretés.
 
-<sup>3</sup> ...[^4bis-2]
+<sup>3</sup> …[^4bis-2]
 
 [^4bis-1]: Introduit par le ch. I de la LF du 11 mars 1971, en vigueur depuis le 1<sup>er</sup> juil. 1971 ([RO 1971 808](https://fedlex.data.admin.ch/eli/oc/1971/808_808_809)[825](https://fedlex.data.admin.ch/eli/oc/1971/824_825_825)art. 1; [FF 1970 I 1157](https://fedlex.data.admin.ch/eli/fga/1970/1_1044_1157_885)). Voir aussi les disp. fin. de la mod. du 18 mars 1994 à la fin du texte.
 [^4bis-2]: Abrogé par le ch. I de la LF du 18 mars 1994, avec effet au 1<sup>er</sup> fév. 1995 ([RO 1995 246](https://fedlex.data.admin.ch/eli/oc/1995/246_246_246); [FF 1993 I 757](https://fedlex.data.admin.ch/eli/fga/1993/1_805_757_609)).
@@ -370,7 +382,7 @@ Les dispositions de l’al. 1 s’appliquent à la banque organisée selon le dr
 
 <sup>1</sup> La banque ne peut accorder des crédits aux membres de ses organes, aux principaux actionnaires ainsi qu’aux personnes et sociétés qui leur sont proches qu’en vertu des principes généralement reconnus dans la branche.
 
-<sup>2</sup> ...[^4ter-2]
+<sup>2</sup> …[^4ter-2]
 
 [^4ter-1]: Introduit par le ch. I de la LF du 11 mars 1971, en vigueur depuis le 1<sup>er</sup> juil. 1971 ([RO 1971 808](https://fedlex.data.admin.ch/eli/oc/1971/808_808_809)[825](https://fedlex.data.admin.ch/eli/oc/1971/824_825_825)art. 1; [FF 1970 I 1157](https://fedlex.data.admin.ch/eli/fga/1970/1_1044_1157_885)). Voir aussi les disp. fin. de la mod. du 18 mars 1994 à la fin du texte.
 [^4ter-2]: Abrogé par le ch. I de la LF du 18 mars 1994, avec effet au 1<sup>er</sup> fév. 1995 ([RO 1995 246](https://fedlex.data.admin.ch/eli/oc/1995/246_246_246); [FF 1993 I 757](https://fedlex.data.admin.ch/eli/fga/1993/1_805_757_609)).
@@ -403,7 +415,7 @@ Les banques sont autorisées à communiquer à leurs sociétés mères, qui sont
 
 [^4sexies-1]
 
-<sup>Pour les cryptoactifs que la banque détient en tan</sup> <sup>t que valeurs déposées pour des clients déposants, la FINMA peut dans certains cas particuliers fixer un montant maximal si elle le juge nécessaire au vu des risques liés aux activités concernées. Elle tient en particulier compte de la fonction des cryptoa</sup><sup>ctifs, des technologies sous-jacentes ainsi que des facteurs de réduction des risques.</sup>
+<sup>Pour les cryptoactifs que la banque détient en tant que valeurs déposées pour des clients déposants, la FINMA peut dans certains cas particuliers fixer un montant maximal si elle le juge nécessaire au vu des risques liés aux activités concernées. Elle tient en particulier compte de la fonction des cryptoactifs, des technologies sous-jacentes ainsi que des facteurs de réduction des risques.</sup>
 
 [^4sexies-1]: Introduit par le ch I. 6 de la LF du 25 sept. 2020 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur le 1<sup>er</sup> août 2021 ([RO 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33),[399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 223](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
@@ -413,7 +425,7 @@ Les banques sont autorisées à communiquer à leurs sociétés mères, qui sont
 
 [^5-1]: Abrogé par l’annexe ch. 15 de la LF du 22 juin 2007 sur la surveillance des marchés financiers, avec effet au 1<sup>er</sup> janv. 2009 ([RO 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736)[5205](https://fedlex.data.admin.ch/eli/oc/2008/735); [FF 2006 2741](https://fedlex.data.admin.ch/eli/fga/2006/303)).
 
-## Chapitre IV**** Comptes annuels et bilans
+## Chapitre IV Comptes annuels et bilans
 
 [^chap4-1]
 
@@ -465,7 +477,7 @@ Les banques établissent pour chaque exercice un rapport de gestion qui se compo
 
 [^6b-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
-## Chapitre V**** Banques d’importance systémique
+## Chapitre V Banques d’importance systémique
 
 [^chap5-1]
 
@@ -554,7 +566,7 @@ Il peut notamment, en tenant compte de la situation économique de la banque et 
 
 <sup>3</sup> Les banques d’importance systémique et leurs sociétés mères sont tenues de formuler une réserve contraignante dans leurs systèmes de rémunération aux termes de laquelle, en cas de soutien étatique au sens du présent article, la prétention légale à une rémunération variable peut être limitée.
 
-## Chapitre VI**** Capital complémentaire
+## Chapitre VI Capital complémentaire
 
 [^chap6-1]
 
@@ -702,7 +714,7 @@ La banque coopérative peut acquérir ses propres bons de participation sociale 
 [^14b-1]: Introduit par l’annexe ch. II 14 de la LF du 15 juin 2018 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^14b-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
-## Chapitre VII Dépôts d’épargne et valeurs déposées****
+## Chapitre VII Dépôts d’épargne et valeurs déposées
 
 [^chap7-1]
 
@@ -712,7 +724,7 @@ La banque coopérative peut acquérir ses propres bons de participation sociale 
 
 <sup>1</sup> Seules les banques qui publient des comptes annuels peuvent accepter des dépôts portant, sous quelque forme que ce soit, la dénomination d’«épargne». Les autres entreprises ne sont pas autorisées à accepter de tels dépôts et il leur est interdit, à propos des fonds déposés chez elles, de faire figurer le mot d’«épargne» dans leur raison sociale ou dans la désignation de leur but social, ou encore de s’en servir à des fins de publicité.[^15-1]
 
-<sup>2</sup> et <sup>3</sup> ...[^15-2]
+<sup>2</sup> et <sup>3</sup> …[^15-2]
 
 [^15-1]: Nouvelle teneur selon le ch. I de la LF du 18 mars 1994, en vigueur depuis le 1<sup>er</sup> fév. 1995 ([RO 1995 246](https://fedlex.data.admin.ch/eli/oc/1995/246_246_246); [FF 1993 I 757](https://fedlex.data.admin.ch/eli/fga/1993/1_805_757_609)).
 [^15-2]: Abrogés par l’annexe ch. 17 de la LF du 16 déc. 1994, avec effet au 1<sup>er</sup> janv. 1997 ([RO 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
@@ -738,7 +750,7 @@ Sont réputées valeurs déposées selon l’art. 37*d*:[^16-2]
 [^16-2]: Nouvelle teneur selon le ch. I de la LF du 3 oct. 2003, en vigueur depuis le 1<sup>er</sup> juil. 2004 ([RO 2004 2767](https://fedlex.data.admin.ch/eli/oc/2004/340); [FF 2002 7476](https://fedlex.data.admin.ch/eli/fga/2002/1290)).
 [^16-3]: Introduit par le ch I. 6 de la LF du 25 sept. 2020 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur le 1<sup>er</sup> août 2021 ([RO 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33),[399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 223](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
-## Chapitre VIII ...
+## Chapitre VIII …
 
 #### Art. 17
 
@@ -746,7 +758,7 @@ Sont réputées valeurs déposées selon l’art. 37*d*:[^16-2]
 
 [^17-1]: Abrogé par l’annexe ch. 5 de la LF du 3 oct. 2008 sur les titres intermédiés, avec effet au 1<sup>er</sup> janv. 2010 ([RO 2009 3577](https://fedlex.data.admin.ch/eli/oc/2009/450); [FF 2006 8817](https://fedlex.data.admin.ch/eli/fga/2006/1228)).
 
-## Chapitre IX Contrôle et audit****
+## Chapitre IX Contrôle et audit
 
 [^chap9-1]
 
@@ -771,7 +783,7 @@ Sont réputées valeurs déposées selon l’art. 37*d*:[^16-2]
 
 [^1922-1]: Abrogés par l’annexe ch. 15 de la LF du 22 juin 2007 sur la surveillance des marchés financiers, avec effet au 1<sup>er</sup> janv. 2009 ([RO 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736)[5205](https://fedlex.data.admin.ch/eli/oc/2008/735); [FF 2006 2741](https://fedlex.data.admin.ch/eli/fga/2006/303)).
 
-## Chapitre X Surveillance****
+## Chapitre X Surveillance
 
 [^chap10-1]
 
@@ -794,7 +806,7 @@ La FINMA peut procéder elle-même à des contrôles directs auprès de banques,
 <sup>2</sup> La FINMA peut à tout moment effectuer des contrôles auprès de ces personnes.
 
 [^23bis-1]: Introduit par le ch. I de la LF du 11 mars 1971 ([RO 1971 808](https://fedlex.data.admin.ch/eli/oc/1971/808_808_809); [FF 1970 I 1157](https://fedlex.data.admin.ch/eli/fga/1970/1_1044_1157_885)). Nouvelle teneur selon l’annexe ch. 10 de la L du 19 juin 2015 sur l’infrastructure des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853);[FF 2014 7235](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
-[^23bis-2]: RS **95****6.1**
+[^23bis-2]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
 
 #### Art. 23<sup>ter</sup>
 
@@ -843,22 +855,9 @@ Afin d’assurer l’application de l’art. 3, al. 2, let. c<sup>bis</sup>, et 
 
 [^24-1]
 
-<sup>1</sup> ...[^24-2]
+[^24-1]: Abrogé par le ch. I de la LF du 17 déc. 2021 (Insolvabilité et garantie des dépôts), avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 6151](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
 
-<sup>2</sup> Dans les procédures visées aux chapitres XI et XII de la présente loi, les créanciers et les propriétaires d’une banque, d’une société mère ou d’une société du groupe significative au sens de l’art. 2<sup>bis</sup> ne peuvent recourir que contre l’homologation du plan d’assainissement et les opérations de réalisation. Les recours au sens de l’art. 17 de la loi fédérale du 11 avril 1889 sur la poursuite pour dettes et la faillite[^24-3] sont exclus dans ces procédures.[^24-4]
-
-<sup>3</sup> Les recours formés dans les procédures visées aux chapitres XI et XII n’ont pas d’effet suspensif. Le juge instructeur peut restituer l’effet suspensif sur requête d’une partie. L’octroi de l’effet suspensif est exclu pour les recours contre l’homologation du plan d’assainissement.[^24-5]
-
-<sup>4</sup> Si le recours d’un créancier ou d’un propriétaire contre l’homologation du plan d’assainissement est admis, le tribunal ne peut qu’accorder une indemnisation.[^24-6]
-
-[^24-1]: Nouvelle teneur selon le ch. I de la LF du 11 mars 1971, en vigueur depuis le 1<sup>er</sup> juil. 1971 ([RO 1971 808](https://fedlex.data.admin.ch/eli/oc/1971/808_808_809)[825](https://fedlex.data.admin.ch/eli/oc/1971/824_825_825)art. 1; [FF 1970 I 1157](https://fedlex.data.admin.ch/eli/fga/1970/1_1044_1157_885)).
-[^24-2]: Abrogé par l’annexe ch. 15 de la LF du 22 juin 2007 sur la surveillance des marchés financiers, avec effet au 1<sup>er</sup> janv. 2009 (RO **20****08** 5207 5205; [FF 2006 2741](https://fedlex.data.admin.ch/eli/fga/2006/303)).
-[^24-3]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
-[^24-4]: Introduit par le ch. I de la LF du 3 oct. 2003 ([RO 2004 2767](https://fedlex.data.admin.ch/eli/oc/2004/340); [FF 2002 7476](https://fedlex.data.admin.ch/eli/fga/2002/1290)). Nouvelle teneur selon l’annexe ch. 10 de la L du 19 juin 2015 sur l’infrastructure des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853);[FF 2014 7235](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
-[^24-5]: Introduit par le ch. I 16 de l’O de l’Ass. féd. du 20 déc. 2006 concernant l’adaptation d’actes législatifs aux disp. de la LF sur le TF et de la LF sur le TAF ([RO 2006 5599](https://fedlex.data.admin.ch/eli/oc/2006/826); [FF 2006 7351](https://fedlex.data.admin.ch/eli/fga/2006/974)). Nouvelle teneur selon le ch. I de la LF du 30 sept. 2011 (Renforcement de la stabilité dans le secteur financier), en vigueur depuis le 1<sup>er</sup> mars 2012 ([RO 2012 811](https://fedlex.data.admin.ch/eli/oc/2012/126); [FF 2011 4365](https://fedlex.data.admin.ch/eli/fga/2011/762)).
-[^24-6]: Introduit par le ch. I de la LF du 30 sept. 2011 (Renforcement de la stabilité dans le secteur financier), en vigueur depuis le 1<sup>er</sup> mars 2012 ([RO 2012 811](https://fedlex.data.admin.ch/eli/oc/2012/126); [FF 2011 4365](https://fedlex.data.admin.ch/eli/fga/2011/762)).
-
-## Chapitre XI**** Mesures en cas de risque d’insolvabilité
+## Chapitre XI Mesures en cas de risque d’insolvabilité
 
 [^chap11-1]
 
@@ -878,14 +877,14 @@ S’il existe des raisons sérieuses de craindre qu’une banque ne soit surende
 
 <sup>2</sup> Les mesures protectrices peuvent être ordonnées isolément ou conjointement à une procédure d’assainissement ou de faillite.
 
-<sup>3</sup> Les dispositions relatives à la procédure concordataire (art. 293 à 336 LP[^25-2]), à l’ajournement de la faillite des sociétés anonymes (art. 725 et 725*a* CO[^25-3]) ainsi qu’à l’obligation d’aviser le juge (art. 729*b*, al. 2,[^25-4] CO) ne s’appliquent pas aux banques.
+<sup>3</sup> Les dispositions relatives à la procédure concordataire (art. 293 à 336 de la loi fédérale du 11 avril 1889 sur la poursuite pour dettes et la faillite [LP][^25-2]), sur la menace d’insolvabilité (art. 725 CO[^25-3]), sur la perte de capital (art. 725*a* CO), sur le surendettement (art. 725*b* CO) et sur la réévaluation des immeubles et des participations (art. 725*c* CO) ainsi que sur l’obligation d’aviser le tribunal (art. 716*a*, al. 1, ch. 7, et 728*c* al. 3, CO) ne sont pas applicables aux banques.[^25-4]
 
 <sup>4</sup> Les ordres de la FINMA concernent l’ensemble du patrimoine de la banque avec les actifs et les passifs ainsi que les contrats, qu’ils se trouvent en Suisse ou à l’étranger.[^25-5]
 
 [^25-1]: Nouvelle expression selon le ch. I de la LF du 18 mars 2011 (Garantie des dépôts), en vigueur depuis le 1<sup>er</sup> sept. 2011 ([RO 2011 3919](https://fedlex.data.admin.ch/eli/oc/2011/559); [FF 2010 3645](https://fedlex.data.admin.ch/eli/fga/2010/655)). Il a été tenu compte de cette mod. dans tout le texte.
 [^25-2]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
 [^25-3]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^25-4]: Actuellement: art. 728*c* al. 3.
+[^25-4]: Nouvelle teneur selon le ch. IV 1 de la LF du 17 déc. 2021 (Insolvabilité et garantie des dépôts), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 6151](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
 [^25-5]: Introduit par le ch. I de la LF du 18 mars 2011 (Garantie des dépôts), en vigueur depuis le 1<sup>er</sup> sept. 2011 ([RO 2011 3919](https://fedlex.data.admin.ch/eli/oc/2011/559); [FF 2010 3645](https://fedlex.data.admin.ch/eli/fga/2010/655)).
 
 #### Art. 26
@@ -894,7 +893,7 @@ S’il existe des raisons sérieuses de craindre qu’une banque ne soit surende
 
 <sup>1</sup>
 
-La FINMA peut prendre les mesures protectrices suivantes, notamment:[^26-1]
+La FINMA peut ordonner des mesures protectrices; elle peut notamment:[^26-1]
 
 - a. donner des instructions aux organes de la banque;
 - b.[^26-2] nommer un chargé d’enquête;
@@ -905,14 +904,15 @@ La FINMA peut prendre les mesures protectrices suivantes, notamment:[^26-1]
 - g. fermer la banque;
 - h. accorder un sursis ou proroger les échéances, sauf pour les créances gagées des centrales d’émission de lettres de gage.
 
-<sup>2</sup> Elle fait publier ces mesures de manière appropriée lorsque la publication est nécessaire à l’exécution des mesures ou à la protection de tiers.
+<sup>2</sup> Elle fait publier ces mesures de manière appropriée lorsque la publication est nécessaire à l’exécution des mesures ou à la protection de tiers. Elle peut y renoncer au cas où la publication compromettrait l’objectif des mesures ordonnées.[^26-4]
 
-<sup>3</sup> Le sursis déploie les effets prévus à l’art. 297 LP[^26-4], dans la mesure où la FINMA n’en décide pas autrement pour ce qui est du cours des intérêts.
+<sup>3</sup> Le sursis déploie les effets prévus à l’art. 297 LP[^26-5], dans la mesure où la FINMA n’en décide pas autrement pour ce qui est du cours des intérêts.
 
-[^26-1]: Nouvelle teneur selon l’annexe ch. 15 de la LF du 22 juin 2007 sur la surveillance des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736)[5205](https://fedlex.data.admin.ch/eli/oc/2008/735); [FF 2006 2741](https://fedlex.data.admin.ch/eli/fga/2006/303)).
+[^26-1]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021 (Insolvabilité et garantie des dépôts), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 6151](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
 [^26-2]: Nouvelle teneur selon l’annexe ch. 15 de la LF du 22 juin 2007 sur la surveillance des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736)[5205](https://fedlex.data.admin.ch/eli/oc/2008/735); [FF 2006 2741](https://fedlex.data.admin.ch/eli/fga/2006/303)).
 [^26-3]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^26-4]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^26-4]: Phrase introduite par le ch. I de la LF du 17 déc. 2021 (Insolvabilité et garantie des dépôts), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 6151](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
+[^26-5]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
 
 #### Art. 27
 
@@ -923,12 +923,14 @@ La FINMA peut prendre les mesures protectrices suivantes, notamment:[^26-1]
 Sont exclus des dispositions des chapitres XI et XII de la présente loi les accords conclus préalablement sur:
 
 - a. la compensation de créances, y compris la méthode convenue et la détermination de la valeur;
-- b. la réalisation de gré à gré de garanties sous la forme de valeurs mobilières ou d’autres instruments financiers dont la valeur peut être déterminée de façon objective;
-- c. le transfert de créances et d’engagements ainsi que de garanties sous la forme de valeurs mobilières ou d’autres instruments financiers dont la valeur peut être déterminée de façon objective.
+- b.[^27-2] la réalisation de gré à gré de garanties sous la forme de valeurs mobilières ou d’autres instruments financiers, garanties en espèces (sans argent liquide) comprises, dont la valeur peut être déterminée de façon objective;
+- c.[^27-3] le transfert de créances et d’engagements ainsi que de garanties sous la forme de valeurs mobilières ou d’autres instruments financiers, garanties en espèces (sans argent liquide) comprises, dont la valeur peut être déterminée de façon objective.
 
 <sup>2</sup> L’art. 30*a* est réservé.
 
 [^27-1]: Nouvelle teneur selon l’annexe ch. 10 de la L du 19 juin 2015 sur l’infrastructure des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853);[FF 2014 7235](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
+[^27-2]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021 (Insolvabilité et garantie des dépôts), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 6151](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
+[^27-3]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021 (Insolvabilité et garantie des dépôts), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 6151](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
 
 #### Art. 28
 
@@ -936,11 +938,27 @@ Sont exclus des dispositions des chapitres XI et XII de la présente loi les acc
 
 <sup>1</sup> Lorsqu’il paraît vraisemblable qu’un assainissement aboutira ou que certains services bancaires pourront être maintenus, la FINMA peut ordonner une procédure d’assainissement.
 
-<sup>2</sup> Elle édicte les mesures et les décisions nécessaires à la mise en œuvre de la procédure d’assainissement.
+<sup>2</sup> Elle rend les décisions nécessaires à la mise en œuvre de la procédure d’assainissement.[^28-2]
 
 <sup>3</sup> Elle peut confier l’élaboration d’un plan d’assainissement à un délégué à l’assainissement.
 
+<sup>4</sup> Elle peut préciser les modalités de la procédure.[^28-3]
+
 [^28-1]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2011 (Garantie des dépôts), en vigueur depuis le 1<sup>er</sup> sept. 2011 ([RO 2011 3919](https://fedlex.data.admin.ch/eli/oc/2011/559); [FF 2010 3645](https://fedlex.data.admin.ch/eli/fga/2010/655)).
+[^28-2]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021 (Insolvabilité et garantie des dépôts), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 6151](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
+[^28-3]: Introduit par le ch. I de la LF du 17 déc. 2021 (Insolvabilité et garantie des dépôts), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 6151](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
+
+#### Art. 28a
+
+**Assainissement des banques cantonales**[^28a-1]
+
+<sup>1</sup> Lors de la procédure d’assainissement, la FINMA tient compte du statut particulier, des rapports de propriété et, le cas échéant, de la forme juridique des banques cantonales.
+
+<sup>2</sup> Lorsqu’une banque cantonale est menacée d’insolvabilité, la FINMA en informe immédiatement le canton et consulte ce dernier lors de l’élaboration du plan d’assainissement. Le canton désigne l’autorité compétente.
+
+<sup>3</sup> La FINMA peut prévoir des dérogations aux dispositions sur la procédure d’assainissement pour les banques cantonales, notamment en ce qui concerne la réduction entière du capital social ainsi que la conversion et la réduction de créances. Elle tient notamment compte des mesures prises par le canton pour assainir la banque.
+
+[^28a-1]: Introduit par le ch. I de la LF du 17 déc. 2021 (Insolvabilité et garantie des dépôts), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 6151](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
 
 #### Art. 29
 
@@ -956,13 +974,21 @@ En cas d’assainissement de la banque, le plan d’assainissement doit garantir
 
 <sup>1</sup> Le plan d’assainissement peut prévoir le maintien de certains services bancaires indépendamment de la pérennité de la banque.
 
-<sup>2</sup> Il peut notamment transférer tout ou partie du patrimoine de la banque, avec les actifs et les passifs ainsi que les contrats, à d’autres sujets de droit ou à une banque relais.
+<sup>2</sup>
 
-<sup>3</sup> Si des contrats ou tout ou partie du patrimoine de la banque sont transférés, le repreneur prend la place de la banque lors de l’homologation du plan d’assainissement. La loi du 3 octobre 2003 sur la fusion[^30-2] n’est pas applicable.[^30-3]
+Il peut notamment prévoir:
+
+- a. le transfert de tout ou partie du patrimoine de la banque, avec les actifs, les passifs et les contrats, à d’autres sujets de droit ou à une banque relais;
+- b. la réunion de la banque et d’une autre société en un nouveau sujet de droit;
+- c. la reprise de la banque par un autre sujet de droit;
+- d. la modification de la forme juridique de la banque.[^30-2]
+
+<sup>3</sup> Les sujets de droit et la banque relais visés à l’al. 2 remplacent la banque dès l’homologation du plan d’assainissement à hauteur du patrimoine transféré. La loi du 3 octobre 2003 sur la fusion[^30-3] n’est pas applicable.[^30-4]
 
 [^30-1]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2011 (Garantie des dépôts), en vigueur depuis le 1<sup>er</sup> sept. 2011 ([RO 2011 3919](https://fedlex.data.admin.ch/eli/oc/2011/559); [FF 2010 3645](https://fedlex.data.admin.ch/eli/fga/2010/655)).
-[^30-2]: [RS 221.301](https://fedlex.data.admin.ch/eli/cc/2004/320)
-[^30-3]: Nouvelle teneur selon le ch. I de la LF du 30 sept. 2011 (Renforcement de la stabilité dans le secteur financier), en vigueur depuis le 1<sup>er</sup> mars 2012 ([RO 2012 811](https://fedlex.data.admin.ch/eli/oc/2012/126); [FF 2011 4365](https://fedlex.data.admin.ch/eli/fga/2011/762)).
+[^30-2]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021 (Insolvabilité et garantie des dépôts), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 6151](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
+[^30-3]: [RS 221.301](https://fedlex.data.admin.ch/eli/cc/2004/320)
+[^30-4]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021 (Insolvabilité et garantie des dépôts), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 6151](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
 
 #### Art. 30a
 
@@ -990,29 +1016,93 @@ L’ajournement est exclu ou caduc si la résiliation ou l’exercice d’un dro
 
 [^30a-1]: Introduit par l’annexe ch. 10 de la L du 19 juin 2015 sur l’infrastructure des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853);[FF 2014 7235](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
 
+#### Art. 30b
+
+**Mesures de capitalisation**[^30b-1]
+
+<sup>1</sup> Le plan d’assainissement peut prévoir la réduction des fonds propres existants et la création de nouveaux fonds propres, la conversion de fonds de tiers en fonds propres ainsi que la réduction de créances.
+
+<sup>2</sup> Les anciens propriétaires n’ont aucun droit de souscription.
+
+<sup>3</sup>
+
+Sont exclues de la conversion et de la réduction de créances:
+
+- a. les créances privilégiées de première et de deuxième classe selon l’art. 219, al. 4, LP[^30b-2], dans la limite des privilèges accordés;
+- b. les créances couvertes, dans la limite de leur couverture;
+- c. les créances compensables, dans la limite des conditions nécessaires à leur compensation, et
+- d. les créances nées d’engagements que la banque était habilitée à contracter, avec l’approbation de la FINMA ou celle du chargé d’enquête ou du délégué à l’assainissement nommés par la FINMA, pendant la durée des mesures prévues à l’art. 26, al. 1, let. e à h, ou pendant une procédure d’assainissement.
+
+<sup>4</sup> La FINMA peut exclure des créances nées de livraisons de marchandises et de prestations de services, dans la mesure où le maintien des activités de la banque l’exige.
+
+<sup>5</sup>
+
+La conversion de fonds de tiers en fonds propres et la réduction de créances sont uniquement possibles lorsque, au préalable:
+
+- a. le capital convertible au sens de l’art. 11, al. 1, let. b, est entièrement converti en fonds propres et que les emprunts assortis d’un abandon de créances au sens de l’art. 11, al. 2, sont entièrement réduits, et que
+- b. le capital social est entièrement réduit.
+
+<sup>6</sup> Le Conseil fédéral peut désigner les instruments de dette qui, en dérogation à l’al. 5, let. b, sont réduits avant que le capital social soit entièrement réduit, pour autant que ces instruments soient émis par une banque cantonale et qu’ils prévoient une compensation ultérieure appropriée des créanciers.
+
+<sup>7</sup>
+
+La conversion de fonds de tiers en fonds propres et la réduction de créances doivent s’effectuer dans l’ordre suivant:
+
+- a. créances subordonnées;
+- b. créances fondées sur des instruments de dette destinés à absorber les pertes en présence de mesures d’insolvabilité (*bail-in bonds*); l’al. 8 est réservé;
+- c. autres créances, à l’exception des dépôts;
+- d. dépôts.
+
+<sup>8</sup> Les *bail-in bonds* émis en faveur d’autres créanciers par des sociétés mères visées à l’art. 2<sup>bis</sup>, al. 1, let. a, sont admis au rang visé à l’al. 7, let. c, pour autant que le montant des autres créances de même rang ne dépasse pas 5 % de la valeur nominale totale des *bail-in bonds* pouvant être pris en compte. Dans ce cas, les autres créances sont exclues de la conversion et de la réduction de créances.
+
+<sup>9</sup> La FINMA peut provisoirement suspendre la totalité des droits sociaux des nouveaux propriétaires.
+
+[^30b-1]: Introduit par le ch. I de la LF du 17 déc. 2021 (Insolvabilité et garantie des dépôts), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 6151](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
+[^30b-2]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+
+#### Art. 30c
+
+**Plan d’assainissement**[^30c-1]
+
+<sup>1</sup>
+
+Le plan d’assainissement doit satisfaire aux conditions suivantes:
+
+- a. être fondé sur une évaluation prudente des actifs et des passifs de la banque ainsi que sur une estimation prudente de l’assainissement requis;
+- b. ne pas être, selon toute vraisemblance, économiquement moins favorable aux créanciers que l’ouverture immédiate de la faillite bancaire;
+- c. tenir compte de manière appropriée de la priorité des intérêts des créanciers sur ceux des propriétaires ainsi que de l’ordre des créanciers;
+- d. tenir compte de manière appropriée des liens juridiques ou économiques entre les actifs, les passifs et les contrats.
+
+<sup>2</sup>
+
+Il énumère et commente les grandes lignes de l’assainissement et fournit notamment des précisions concernant:
+
+- a. le respect des conditions énoncées à l’al. 1;
+- b. la manière dont la banque respecte les conditions d’autorisation et les autres prescriptions légales après l’assainissement;
+- c. la future structure du capital et le modèle commercial de la banque;
+- d. les actifs et les passifs de la banque;
+- e. l’organisation et la direction futures de la banque ainsi que la nomination et la révocation de ses organes;
+- f. les conditions de départ applicables aux organes sortants;
+- g. la future organisation du groupe ou du conglomérat;
+- h. le cas échéant, la manière dont les droits des propriétaires et des créanciers sont atteints et dans quelle mesure;
+- i. une éventuelle exclusion du droit de révocation de la banque visé à l’art. 32, al. 1, et des prétentions en matière de responsabilité visées à l’art. 39;
+- j. les opérations qui exigent une inscription au registre du commerce ou au registre foncier.
+
+[^30c-1]: Introduit par le ch. I de la LF du 17 déc. 2021 (Insolvabilité et garantie des dépôts), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 6151](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
+
 #### Art. 31
 
 **Homologation du plan d’assainissement**[^31-1]
 
-<sup>1</sup>
+<sup>1</sup> La FINMA homologue le plan d’assainissement si celui-ci remplit les conditions énoncées à l’art. 30*c*.
 
-La FINMA homologue le plan d’assainissement s’il remplit notamment les conditions suivantes:
+<sup>2</sup> L’approbation des propriétaires n’est pas nécessaire.
 
-- a. être fondé sur une évaluation prudente des actifs de la banque;
-- b. être selon toute vraisemblance plus favorable aux créanciers que l’ouverture immédiate d’une faillite;
-- c. respecter la priorité des intérêts des créanciers sur ceux des propriétaires ainsi que l’ordre de collocation des créanciers;
-- d.[^31-2] tenir compte de manière appropriée des liens juridiques ou économiques entre les actifs, les passifs et les contrats.
+<sup>3</sup> La FINMA peut, en dérogation à l’art. 30*c*, al. 1, let. b, homologuer un plan d’assainissement des banques d’importance systémique économiquement moins favorable aux créanciers, dans la mesure où ceux-ci sont indemnisés de manière appropriée.
 
-<sup>2</sup> L’approbation de l’assemblée générale de la banque n’est pas nécessaire.
+<sup>4</sup> Elle publie les grandes lignes du plan d’assainissement. Elle indique en même temps comment les créanciers et les propriétaires concernés peuvent consulter ce plan.
 
-<sup>3</sup> Si l’insolvabilité de la banque ne peut être résorbée d’une autre manière, le plan d’assainissement peut prévoir, sous réserve de respecter les droits des créanciers visés à l’al. 1, la réduction du capital propre et la création d’un nouveau capital propre, la conversion du capital de tiers en capital propre ainsi que la réduction de créances.[^31-3]
-
-<sup>4</sup> La FINMA publie les grandes lignes du plan d’assainissement.[^31-4]
-
-[^31-1]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2011 (Garantie des dépôts), en vigueur depuis le 1<sup>er</sup> sept. 2011 ([RO 2011 3919](https://fedlex.data.admin.ch/eli/oc/2011/559); [FF 2010 3645](https://fedlex.data.admin.ch/eli/fga/2010/655)).
-[^31-2]: Introduite par le ch. I de la LF du 30 sept. 2011 (Renforcement de la stabilité dans le secteur financier), en vigueur depuis le 1<sup>er</sup> mars 2012 ([RO 2012 811](https://fedlex.data.admin.ch/eli/oc/2012/126); [FF 2011 4365](https://fedlex.data.admin.ch/eli/fga/2011/762)).
-[^31-3]: Nouvelle teneur selon l’annexe ch. 10 de la L du 19 juin 2015 sur l’infrastructure des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853);[FF 2014 7235](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
-[^31-4]: Introduit par le ch. I de la LF du 30 sept. 2011 (Renforcement de la stabilité dans le secteur financier), en vigueur depuis le 1<sup>er</sup> mars 2012 ([RO 2012 811](https://fedlex.data.admin.ch/eli/oc/2012/126); [FF 2011 4365](https://fedlex.data.admin.ch/eli/fga/2011/762)).
+[^31-1]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021 (Insolvabilité et garantie des dépôts), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 6151](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
 
 #### Art. 31a
 
@@ -1022,21 +1112,56 @@ La FINMA homologue le plan d’assainissement s’il remplit notamment les condi
 
 <sup>2</sup> Si des créanciers représentant selon les livres de la banque plus de la moitié des créances colloquées en troisième classe selon l’art. 219, al. 4, LP[^31a-2] refusent le plan d’assainissement, la FINMA ordonne la faillite en vertu des art. 33 à 37*g*.
 
-<sup>3</sup> Le présent article ne s’applique pas à l’assainissement d’une banque d’importance systémique.[^31a-3]
+<sup>3</sup> Les al. 1 et 2 ne sont pas applicables à l’assainissement de banques d’importance systémique ni à celui de sociétés de groupes ou conglomérats financiers d’importance systémique.[^31a-3]
 
 [^31a-1]: Introduit par le ch. I de la LF du 18 mars 2011 (Garantie des dépôts), en vigueur depuis le 1<sup>er</sup> sept. 2011 ([RO 2011 3919](https://fedlex.data.admin.ch/eli/oc/2011/559); [FF 2010 3645](https://fedlex.data.admin.ch/eli/fga/2010/655)).
 [^31a-2]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
-[^31a-3]: Introduit par le ch. I de la LF du 30 sept. 2011 (Renforcement de la stabilité dans le secteur financier), en vigueur depuis le 1<sup>er</sup> mars 2012 ([RO 2012 811](https://fedlex.data.admin.ch/eli/oc/2012/126); [FF 2011 4365](https://fedlex.data.admin.ch/eli/fga/2011/762)).
+[^31a-3]: Introduit par le ch. I de la LF du 30 sept. 2011 (Renforcement de la stabilité dans le secteur financier) ([RO 2012 811](https://fedlex.data.admin.ch/eli/oc/2012/126); [FF 2011 4365](https://fedlex.data.admin.ch/eli/fga/2011/762)). Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021 (Insolvabilité et garantie des dépôts), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 6151](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
 
 #### Art. 31b
 
-**Compensation**[^31b-1]
+**Contrepartie en cas de transfert**[^31b-1]
 
-<sup>1</sup> Si une partie seulement des actifs, des passifs et des contrats est transférée à une autre entité juridique ou à une banque relais, la FINMA ordonne une évaluation indépendante.
+<sup>1</sup> Si une partie seulement des actifs, des passifs ou des contrats est transférée à un autre sujet de droit ou à une banque relais, la FINMA peut fixer une contrepartie adéquate.
 
-<sup>2</sup> La FINMA règle la compensation entre les entités juridiques concernées et complète le plan d’assainissement dans le cadre d’un supplément.
+<sup>2</sup> Elle peut ordonner une évaluation indépendante à cette fin.
 
-[^31b-1]: Introduit par le ch. I de la LF du 30 sept. 2011 (Renforcement de la stabilité dans le secteur financier), en vigueur depuis le 1<sup>er</sup> mars 2012 ([RO 2012 811](https://fedlex.data.admin.ch/eli/oc/2012/126); [FF 2011 4365](https://fedlex.data.admin.ch/eli/fga/2011/762)).
+[^31b-1]: Introduit par le ch. I de la LF du 30 sept. 2011 (Renforcement de la stabilité dans le secteur financier) ([RO 2012 811](https://fedlex.data.admin.ch/eli/oc/2012/126); [FF 2011 4365](https://fedlex.data.admin.ch/eli/fga/2011/762)). Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021 (Insolvabilité et garantie des dépôts), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 6151](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
+
+#### Art. 31c
+
+**Compensation en cas de mesures de capitalisation**[^31c-1]
+
+<sup>1</sup> S’il comprend une mesure de capitalisation mentionnée à l’art. 30*b*, le plan d’assainissement peut prévoir une compensation adéquate pour les propriétaires si l’évaluation visée à l’art. 30*c*, al. 1, let. a, montre que la valeur des fonds propres attribués aux créanciers dépasse la valeur nominale de leurs créances converties ou réduites selon l’art. 30*b*.
+
+<sup>2</sup> La compensation peut revêtir la forme d’une attribution d’actions, d’autres droits de participation, d’options ou de bons de récupération.
+
+[^31c-1]: Introduit par le ch. I de la LF du 17 déc. 2021 (Insolvabilité et garantie des dépôts), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 6151](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
+
+#### Art. 31d
+
+**Effets juridiques du plan d’assainissement**[^31d-1]
+
+<sup>1</sup>
+
+Les mesures du plan d’assainissement prennent effet comme suit:
+
+- a. pour les banques d’importance systémique et les sociétés de groupes ou conglomérats financiers d’importance systémique: dès l’homologation du plan d’assainissement;
+- b. dans tous les autres cas: à l’expiration du délai visé à l’art. 31*a*, al. 1, à condition que celui-ci n’ait pas été utilisé.
+
+<sup>2</sup>
+
+Le plan d’assainissement produit ses effets immédiatement pour, notamment:
+
+- a. la réduction des fonds propres existants et la création de nouveaux fonds propres;
+- b. la conversion de fonds de tiers en fonds propres;
+- c. la réduction de créances;
+- d. le transfert d’immeubles;
+- e. la constitution ou le transfert de droits réels sur des immeubles ou les modifications du capital social.
+
+<sup>3</sup> Les inscriptions au registre foncier, au registre du commerce ou à d’autres registres n’ont qu’une portée déclaratoire. Elles doivent être effectuées le plus rapidement possible.
+
+[^31d-1]: Introduit par le ch. I de la LF du 17 déc. 2021 (Insolvabilité et garantie des dépôts), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 6151](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
 
 #### Art. 32
 
@@ -1048,17 +1173,19 @@ La FINMA homologue le plan d’assainissement s’il remplit notamment les condi
 
 <sup>2bis</sup> La révocation selon les art. 285 à 292 LP des actes juridiques d’un plan d’assainissement homologué par la FINMA est exclue.[^32-2]
 
-<sup>3</sup> Pour le calcul des délais prévus aux art. 286 à 288 LP, le moment de l’homologation du plan d’assainissement est déterminant. Si la FINMA a pris au préalable une mesure protectrice prévue à l’art. 26, al. 1, let. e à h, le moment où la mesure a été décidée est déterminant.
+<sup>3</sup> Le moment déterminant pour le calcul des délais prévus aux art. 286 à 288 LP est celui de l’homologation du plan d’assainissement, en lieu et place de celui de l’ouverture de la faillite. Si la FINMA a ordonné au préalable une mesure protectrice prévue à l’art. 26, al. 1, let. e à h, le moment déterminant pour le calcul est celui où la mesure a été ordonnée.[^32-3]
 
-<sup>3bis</sup> Le droit de révocation se prescrit par deux ans à compter du jour de l’homologation du plan d’assainissement.[^32-3]
+<sup>3bis</sup> Le droit de révocation se prescrit par trois ans à compter du jour de l’homologation du plan d’assainissement.[^32-4]
 
-<sup>4</sup> Les al. 1 et 2 s’appliquent par analogie aux prétentions en matière de responsabilité au sens de l’art. 39.
+<sup>4</sup> Les al. 1 à 2<sup>bis</sup> s’appliquent par analogie aux prétentions en matière de responsabilité au sens de l’art. 39.[^32-5]
 
 [^32-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
 [^32-2]: Introduit par le ch. I de la LF du 30 sept. 2011 (Renforcement de la stabilité dans le secteur financier), en vigueur depuis le 1<sup>er</sup> mars 2012 ([RO 2012 811](https://fedlex.data.admin.ch/eli/oc/2012/126); [FF 2011 4365](https://fedlex.data.admin.ch/eli/fga/2011/762)).
-[^32-3]: Introduit par le ch. I de la LF du 18 mars 2011 (Garantie des dépôts), en vigueur depuis le 1<sup>er</sup> sept. 2011 ([RO 2011 3919](https://fedlex.data.admin.ch/eli/oc/2011/559); [FF 2010 3645](https://fedlex.data.admin.ch/eli/fga/2010/655)).
+[^32-3]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021 (Insolvabilité et garantie des dépôts), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 6151](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
+[^32-4]: Introduit par le ch. I de la LF du 18 mars 2011 (Garantie des dépôts), ([RO 2011 3919](https://fedlex.data.admin.ch/eli/oc/2011/559); [FF 2010 3645](https://fedlex.data.admin.ch/eli/fga/2010/655)). Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021 (Insolvabilité et garantie des dépôts), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 6151](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
+[^32-5]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021 (Insolvabilité et garantie des dépôts), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 6151](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
 
-## Chapitre XII**** Faillite de banques insolvables (faillite bancaire)
+## Chapitre XII Faillite de banques insolvables (faillite bancaire)
 
 [^chap12-1]
 
@@ -1082,11 +1209,13 @@ La FINMA homologue le plan d’assainissement s’il remplit notamment les condi
 
 <sup>1</sup> La décision de faillite déploie les effets de l’ouverture de la faillite au sens des art. 197 à 220 LP[^34-1].
 
-<sup>2</sup> Sous réserve des dispositions qui suivent, la faillite est effectuée selon les règles prescrites aux art. 221 à 270 LP.
+<sup>2</sup> La faillite est effectuée selon les règles prescrites aux art. 221 à 270 LP. La FINMA peut prendre des décisions dérogeant à ces règles; sont réservés les art. 35 à 37*m* de la présente loi.[^34-2]
 
-<sup>3</sup> La FINMA peut prendre des décisions et des mesures dérogeant à ces règles.
+<sup>3</sup> La FINMA peut préciser les modalités de la procédure.[^34-3]
 
 [^34-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^34-2]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021 (Insolvabilité et garantie des dépôts), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 6151](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
+[^34-3]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021 (Insolvabilité et garantie des dépôts), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 6151](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
 
 #### Art. 35
 
@@ -1113,9 +1242,11 @@ Le liquidateur de la faillite peut proposer à la FINMA d’adopter les mesures 
 
 #### Art. 37
 
-**Engagements contractés lors de mesures protectrices**
+**Engagements contractés lors de mesures protectrices ou pendant la procédure d’assainissement**[^37-1]
 
-En cas de faillite, les engagements que la banque était habilitée à contracter durant la période d’exécution des mesures prévues à l’art. 26, al. 1, let. e à h, sont honorés avant toutes les autres créances.
+En cas de faillite, les engagements que la banque était habilitée à contracter, avec l’approbation de la FINMA ou celle du chargé d’enquête ou du délégué à l’assainissement nommés par la FINMA, pendant la durée des mesures prévues à l’art. 26, al. 1, let. e à h, ou pendant la procédure d’assainissement sont honorées avant toutes les autres créances.
+
+[^37-1]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021 (Insolvabilité et garantie des dépôts), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 6151](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
 
 #### Art. 37a
 
@@ -1123,30 +1254,39 @@ En cas de faillite, les engagements que la banque était habilitée à contracte
 
 <sup>1</sup> Les dépôts libellés au nom du déposant, y compris les obligations de caisse déposées auprès de la banque au nom du déposant, sont attribués, jusqu’à un montant maximal de 100 000 francs par créancier, à la deuxième classe au sens de l’art. 219, al. 4, LP[^37a-2].
 
-<sup>2</sup> Le Conseil fédéral peut adapter le montant maximal fixé à l’al. 1 à la dévaluation de la monnaie.
+<sup>2</sup> …[^37a-3]
 
 <sup>3</sup> Les dépôts auprès d’entreprises qui exercent des activités de banque sans avoir reçu d’autorisation de la part de la FINMA ne jouissent d’aucun privilège.
 
 <sup>4</sup> Une créance n’est privilégiée qu’une fois, même si elle a plusieurs titulaires.
 
-<sup>5</sup> Les créances des fondations bancaires reconnues comme institutions de prévoyance au sens de l’art. 82 de la loi fédérale du 25 juin 1982 sur la prévoyance professionnelle vieillesse, survivants et invalidité[^37a-3] ainsi que les créances des fondations de libre passage reconnues comme institutions de libre passage au sens de la loi du 17 décembre 1993 sur le libre passage[^37a-4] sont considérées comme étant celles de chacun des preneurs de prévoyance ou assurés. Elles sont privilégiées, indépendamment des autres dépôts de chacun des preneurs de prévoyance ou assurés, à concurrence du montant maximal fixé à l’al. 1.
+<sup>5</sup> Les créances des fondations bancaires reconnues comme institutions de prévoyance au sens de l’art. 82 de la loi fédérale du 25 juin 1982 sur la prévoyance professionnelle vieillesse, survivants et invalidité[^37a-4] ainsi que les créances des fondations de libre passage reconnues comme institutions de libre passage au sens de la loi du 17 décembre 1993 sur le libre passage[^37a-5] sont considérées comme étant celles de chacun des preneurs de prévoyance ou assurés. Elles sont privilégiées, indépendamment des autres dépôts de chacun des preneurs de prévoyance ou assurés, à concurrence du montant maximal fixé à l’al. 1.
 
 <sup>6</sup> Les banques doivent disposer en permanence de créances couvertes en Suisse, ou d’autres actifs situés en Suisse, à hauteur de 125 % de leurs dépôts privilégiés. La FINMA peut relever ce taux; si les circonstances le justifient, elle peut accorder des exceptions en particulier aux établissements qui disposent, de par la structure de leurs activités, d’une couverture équivalente.
 
+<sup>7</sup> Le Conseil fédéral définit plus précisément les dépôts et les déposants visés à l’al. 1. Il peut adapter le montant maximal fixé à l’al. 1 à la dévaluation de la monnaie.[^37a-6]
+
 [^37a-1]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2011 (Garantie des dépôts), en vigueur depuis le 1<sup>er</sup> sept. 2011 ([RO 2011 3919](https://fedlex.data.admin.ch/eli/oc/2011/559); [FF 2010 3645](https://fedlex.data.admin.ch/eli/fga/2010/655)).
 [^37a-2]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
-[^37a-3]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
-[^37a-4]: [RS 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
+[^37a-3]: Abrogé par le ch. I de la LF du 17 déc. 2021 (Insolvabilité et garantie des dépôts), avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 6151](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
+[^37a-4]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^37a-5]: [RS 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
+[^37a-6]: Introduit par le ch. I de la LF du 17 déc. 2021 (Insolvabilité et garantie des dépôts), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 6151](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
 
 #### Art. 37b
 
-**Remboursement immédiat**[^37b-1]
+**Remboursement à partir des actifs liquides disponibles**[^37b-1]
 
-<sup>1</sup> Les dépôts privilégiés visés à l’art. 37*a*, al. 1, sont remboursés immédiatement, hors de la collocation, à partir des actifs liquides disponibles, toute compensation étant exclue.
+<sup>1</sup>
 
-<sup>2</sup> La FINMA fixe dans chaque cas le montant maximal des dépôts immédiatement remboursables. Elle tient compte de l’ordre des autres créanciers conformément à l’art. 219 LP[^37b-2].
+Les dépôts privilégiés visés à l’art. 37*a*, al. 1, sont remboursés à partir des actifs liquides disponibles, en dehors de la collocation et sans aucune compensation:
 
-[^37b-1]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2011 (Garantie des dépôts), en vigueur depuis le 1<sup>er</sup> sept. 2011 ([RO 2011 3919](https://fedlex.data.admin.ch/eli/oc/2011/559); [FF 2010 3645](https://fedlex.data.admin.ch/eli/fga/2010/655)).
+- a. immédiatement: lorsqu’ils sont comptabilisés auprès de comptoirs suisses;
+- b. dès qu’un remboursement est possible en fait et en droit: lorsqu’ils sont comptabilisés auprès de comptoirs étrangers.
+
+<sup>2</sup> La FINMA fixe dans chaque cas le montant maximal des dépôts remboursables au sens de l’al. 1. Elle tient compte de l’ordre des autres créanciers conformément à l’art. 219 LP[^37b-2].
+
+[^37b-1]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021 (Insolvabilité et garantie des dépôts), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 6151](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
 [^37b-2]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
 
 #### Art. 37c
@@ -1168,11 +1308,15 @@ Les valeurs déposées au sens de l’art. 16 de la présente loi sont distraite
 
 **Distribution et fin de la procédure**
 
-<sup>1</sup> Le tableau de distribution n’est pas déposé.
+<sup>1</sup> Lorsque tous les actifs sont réalisés et que tous les procès ayant trait à la fixation de l’actif et du passif de la masse sont achevés, les liquidateurs de la faillite établissent le tableau de distribution définitif et le compte final, puis les soumettent à la FINMA pour approbation. Les procès découlant d’une cession de droits selon l’art. 260 LP[^37e-1] ne sont pas concernés.[^37e-2]
 
-<sup>2</sup> Après la distribution, les liquidateurs de la faillite remettent un rapport final à la FINMA.
+<sup>2</sup> Avant leur approbation, le tableau de distribution et le compte final sont déposés pour consultation pendant dix jours. Le dépôt et l’approbation sont publiés dans la Feuille officielle suisse du commerce et sur le site Internet de la FINMA.[^37e-3]
 
 <sup>3</sup> La FINMA prend les décisions nécessaires pour clore la procédure. Elle publie la clôture.
+
+[^37e-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^37e-2]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021 (Insolvabilité et garantie des dépôts), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 6151](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
+[^37e-3]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021 (Insolvabilité et garantie des dépôts), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 6151](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
 
 #### Art. 37f
 
@@ -1209,7 +1353,61 @@ La FINMA peut remettre le patrimoine situé en Suisse à la masse en faillite é
 [^37g-4]: Introduit par l’annexe ch. 2 de la LF du 16 mars 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3263](https://fedlex.data.admin.ch/eli/oc/2018/527); [FF 2017 3863](https://fedlex.data.admin.ch/eli/fga/2017/1054)).
 [^37g-5]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 16 mars 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3263](https://fedlex.data.admin.ch/eli/oc/2018/527); [FF 2017 3863](https://fedlex.data.admin.ch/eli/fga/2017/1054)).
 
-## Chapitre XIII**** Garantie des dépôts
+## Chapitre XII*a* Recours dans les procédures visées aux chap. XI et XII
+
+[^chap12a-1]
+
+[^chap12a-1]: Introduit par le ch. I de la LF du 17 déc. 2021 (Insolvabilité et garantie des dépôts), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 6151](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
+
+#### Art. 37g<sup>bis</sup>
+
+**Recours contre l’homologation du plan d’assainissement**
+
+<sup>1</sup> Lorsqu’il admet un recours formé contre l’homologation du plan d’assainissement, le tribunal ne peut accorder qu’une indemnité.
+
+<sup>2</sup> L’indemnité prend en règle générale la forme d’une attribution d’actions, d’autres droits de participation, d’options ou de bons de récupération.
+
+#### Art. 37g<sup>ter</sup>
+
+**Recours des créanciers et des propriétaires**
+
+<sup>1</sup>
+
+Dans les procédures visées aux chap. XI et XII, les créanciers et les propriétaires d’une banque, d’une société mère ou d’une société du groupe significative au sens de l’art. 2<sup>bis</sup>, al. 1, peuvent recourir uniquement contre:
+
+- a. l’homologation du plan d’assainissement;
+- b. les opérations de réalisation;
+- c. l’approbation du tableau de distribution et du compte final.
+
+<sup>2</sup> Les opérations de réalisation du liquidateur de la faillite sont considérées comme des actes matériels. Toute personne qui a un intérêt digne de protection peut exiger que la FINMA rende une décision conformément à l’art. 25*a* de la loi fédérale du 20 décembre 1968 sur la procédure administrative (PA)[^37gter-1].
+
+<sup>3</sup> La plainte prévue à l’art. 17 LP[^37gter-2] est exclue dans ces procédures.
+
+[^37gter-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^37gter-2]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+
+#### Art. 37g<sup>quater</sup>
+
+**Délais**
+
+<sup>1</sup> Le délai de recours contre l’homologation du plan d’assainissement et contre les opérations de réalisation est de dix jours. L’art. 22*a* PA[^37gquater-1] n’est pas applicable.
+
+<sup>2</sup> Le délai de recours contre l’homologation du plan d’assainissement commence à courir le jour suivant la publication des grandes lignes du plan d’assainissement. Le délai de recours contre l’approbation du tableau de distribution et du compte final commence à courir le jour suivant la publication de l’approbation.
+
+[^37gquater-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+
+#### Art. 37g<sup>quinquies</sup>
+
+**Effet suspensif**
+
+Les recours formés dans les procédures visées aux chap. XI et XII n’ont pas d’effet suspensif. Le juge instructeur peut accorder l’effet suspensif à la requête d’une partie. L’octroi de l’effet suspensif est exclu pour les recours contre:
+
+- a. le prononcé de mesures protectrices;
+- b. le prononcé d’une procédure d’assainissement;
+- c. l’homologation du plan d’assainissement, et
+- d. l’ordre de faillite.
+
+## Chapitre XIII Garantie des dépôts
 
 [^chap13-1]
 
@@ -1217,28 +1415,43 @@ La FINMA peut remettre le patrimoine situé en Suisse à la masse en faillite é
 
 #### Art. 37h
 
-**Principe**
+**Principe**[^37h-1]
 
-<sup>1</sup> Les banques veillent à garantir auprès de leurs comptoirs suisses les dépôts privilégiés au sens de l’art. 37*a*, al. 1. Celles qui détiennent de tels dépôts sont tenues d’adhérer à cet effet au système d’autorégulation des banques.[^37h-1]
+<sup>1</sup> Les banques veillent à garantir les dépôts privilégiés au sens de l’art. 37*a*, al. 1, placés auprès de leurs comptoirs suisses. Avant d’accepter de tels dépôts, elles sont tenues d’adhérer au système d’autorégulation des banques.
 
 <sup>2</sup> Le système d’autorégulation est soumis à l’approbation de la FINMA.
 
 <sup>3</sup>
 
-Le système d’autorégulation est approuvé aux conditions suivantes:[^37h-2]
+Il est approuvé:
 
-- a.[^37h-3] il permet d’assurer le paiement des dépôts garantis dans un délai de 20 jours ouvrables suivant la réception de la communication concernant la prescription de mesures selon l’art. 26, al. 1, let. e à h, ou de la faillite selon les art. 33 à 37*g*;
-- b.[^37h-4] il limite à 6 milliards de francs au plus la somme des contributions dues;
-- c. il garantit que chaque banque dispose en permanence, en plus du montant de sa liquidité légale, de moyens liquides correspondant à la moitié des contributions auxquelles elle est tenue.
+- a. s’il assure que l’organisme de garantie rembourse les dépôts garantis au chargé d’enquête, au délégué à l’assainissement ou au liquidateur de la faillite nommés par la FINMA au plus tard le septième jour ouvrable qui suit la date à laquelle il a reçu la communication de la FINMA annonçant l’ordre de faillite ou une mesure protectrice au sens de l’art. 26, al. 1, let. e à h;
+- b. s’il exige des banques des contributions dont le montant total équivaut à 1,6 % de la somme des dépôts garantis, mais à au moins 6 milliards de francs;
+- c.
 
-<sup>4</sup> Le Conseil fédéral peut adapter le montant indiqué à l’al. 3, let. b, dans la mesure où des circonstances particulières l’exigent.
+  s’il assure que chaque banque, en permanence:
 
-<sup>5</sup> Si le système d’autorégulation ne satisfait pas aux exigences prévues aux al. 1 à 3, le Conseil fédéral règle la garantie des dépôts par voie d’ordonnance. Il désigne notamment les organismes de garantie et fixe le montant des contributions des banques.
+  - 1\. dépose, auprès d’un sous-dépositaire sûr, des titres de haute qualité aisément réalisables ou des espèces en francs suisses d’un montant correspondant à la moitié des contributions auxquelles elle est tenue, ou
+  - 2\. accorde à l’organisme de garantie un prêt en espèces d’un montant correspondant à la moitié des contributions auxquelles elle est tenue;
 
-[^37h-1]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2011 (Garantie des dépôts), en vigueur depuis le 1<sup>er</sup> sept. 2011 ([RO 2011 3919](https://fedlex.data.admin.ch/eli/oc/2011/559); FF **20****10** 3645).
-[^37h-2]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2011 (Garantie des dépôts), en vigueur depuis le 1<sup>er</sup> sept. 2011 ([RO 2011 3919](https://fedlex.data.admin.ch/eli/oc/2011/559); [FF 2010 3645](https://fedlex.data.admin.ch/eli/fga/2010/655)).
-[^37h-3]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2011 (Garantie des dépôts), en vigueur depuis le 1<sup>er</sup> sept. 2011 ([RO 2011 3919](https://fedlex.data.admin.ch/eli/oc/2011/559); [FF 2010 3645](https://fedlex.data.admin.ch/eli/fga/2010/655)).
-[^37h-4]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2011 (Garantie des dépôts), en vigueur depuis le 1<sup>er</sup> sept. 2011 ([RO 2011 3919](https://fedlex.data.admin.ch/eli/oc/2011/559); [FF 2010 3645](https://fedlex.data.admin.ch/eli/fga/2010/655)).
+- d. s’il exige de chaque banque qu’elle effectue, dans le cadre de son activité ordinaire les préparatifs nécessaires pour permettre au chargé d’enquête, au délégué à l’assainissement ou au liquidateur de la faillite d’établir un plan de remboursement, de prendre contact avec les déposants et de procéder au remboursement conformément à l’art. 37*j*.
+
+<sup>4</sup>
+
+Les préparatifs visés à l’al. 3, let. d, comprennent notamment la mise en place:
+
+- a. d’une infrastructure adéquate;
+- b. de processus standardisés;
+- c. d’une liste des déposants dont les dépôts sont garantis selon l’al. 1 et des dépôts concernés;
+- d. d’un aperçu sommaire des autres dépôts privilégiés au sens de l’art. 37*a*, al. 1.
+
+<sup>5</sup> Le Conseil fédéral peut adapter les exigences prévues à l’al. 3, let. b, si des circonstances particulières l’exigent.
+
+<sup>6</sup> Si le système d’autorégulation ne satisfait pas aux exigences prévues aux al. 1 à 4, le Conseil fédéral règle la garantie des dépôts par voie d’ordonnance. Il désigne notamment l’organisme de garantie et fixe le montant des contributions des banques.
+
+<sup>7</sup> Les effets des formes de financement visées à l’al. 3, let. c, sur les exigences en matière de liquidités et de fonds propres doivent être neutralisés par un traitement si possible équivalent de ces formes de financement. Le Conseil fédéral élabore les dispositions d’exécution techniques.
+
+[^37h-1]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021 (Insolvabilité et garantie des dépôts), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 6151](https://fedlex.data.admin.ch/eli/fga/2020/1555)). Voir aussi les disp. trans. à la fin de ce texte.
 
 #### Art. 37i
 
@@ -1246,7 +1459,7 @@ Le système d’autorégulation est approuvé aux conditions suivantes:[^37h-2]
 
 <sup>1</sup> Si la FINMA a ordonné une des mesures protectrices visées à l’art. 26, al. 1, let. e à h, ou la faillite au sens de l’art. 33, elle en fait part à l’organisme de garantie et l’informe des prestations qui sont nécessaires au remboursement des dépôts garantis.
 
-<sup>2</sup> Dans les 20 jours ouvrables suivant la réception de cette communication, l’organisme de garantie met le montant correspondant à la disposition du chargé d’enquête, du délégué à l’assainissement ou du liquidateur de la faillite, qui est désigné par la FINMA dans son prononcé.
+<sup>2</sup> Dans les sept jours ouvrables qui suivent la réception de cette communication, l’organisme de garantie met le montant correspondant à la disposition du chargé d’enquête, du délégué à l’assainissement ou du liquidateur de la faillite nommés par la FINMA.[^37i-2]
 
 <sup>3</sup>
 
@@ -1255,23 +1468,47 @@ La FINMA peut reporter sa communication dans les cas suivants:
 - a. il y a des raisons de penser que la mesure protectrice ordonnée sera levée à bref délai;
 - b. les dépôts garantis ne sont pas affectés par la mesure protectrice.
 
-<sup>4</sup> Le délai prévu à l’al. 2 est interrompu si et aussi longtemps que la mesure protectrice ou la faillite ordonnées ne sont pas exécutoires.
+<sup>4</sup> …[^37i-3]
 
 [^37i-1]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2011 (Garantie des dépôts), en vigueur depuis le 1<sup>er</sup> sept. 2011 ([RO 2011 3919](https://fedlex.data.admin.ch/eli/oc/2011/559); [FF 2010 3645](https://fedlex.data.admin.ch/eli/fga/2010/655)).
+[^37i-2]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021 (Insolvabilité et garantie des dépôts), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 6151](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
+[^37i-3]: Abrogé par le ch. I de la LF du 17 déc. 2021 (Insolvabilité et garantie des dépôts), avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 6151](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
 
 #### Art. 37j
 
-**Exécution et cession légale**[^37j-1]
+**Remboursement**[^37j-1]
 
-<sup>1</sup> Le chargé d’enquête, le délégué à l’assainissement ou le liquidateur de la faillite nommé par la FINMA, rembourse aux déposants leurs dépôts garantis.
+<sup>1</sup> Le chargé d’enquête, le délégué à l’assainissement ou le liquidateur de la faillite nommés par la FINMA établit un plan de remboursement sur la base de la liste des déposants mentionnée à l’art. 37*h*, al. 4, let. c.
 
-<sup>2</sup> Les dépôts garantis sont remboursés hors de toute compensation.
+<sup>2</sup> Il invite immédiatement les déposants mentionnés dans le plan de remboursement à lui transmettre leurs instructions de paiement en vue du remboursement des dépôts garantis.
 
-<sup>3</sup> Les déposants n’ont aucune prétention directe à l’encontre de l’organisme de garantie.
+<sup>3</sup> Il veille à ce que les dépôts garantis soient remboursés aux déposants immédiatement, mais au plus tard le septième jour ouvrable qui suit la réception des instructions de paiement.
 
-<sup>4</sup> Les droits des déposants passent à l’organisme de garantie à hauteur des remboursements effectués.
+<sup>4</sup> Si le montant mis à disposition par l’organisme de garantie n’est pas suffisant pour honorer les créances inscrites dans le plan de remboursement, le remboursement immédiat est exécuté au prorata.
 
-[^37j-1]: Introduit par le ch. I de la LF du 18 mars 2011 (Garantie des dépôts), en vigueur depuis le 1<sup>er</sup> sept. 2011 ([RO 2011 3919](https://fedlex.data.admin.ch/eli/oc/2011/559); [FF 2010 3645](https://fedlex.data.admin.ch/eli/fga/2010/655)).
+<sup>5</sup>
+
+Le délai indiqué à l’al. 3 est prolongé ou suspendu pour les dépôts:
+
+- a. qui font l’objet de prétentions peu claires ou complexes;
+- b. pour lesquels un remboursement rapide n’est objectivement pas nécessaire, ou
+- c. qui font l’objet d’instructions de paiement imprécises ou peu claires.
+
+<sup>6</sup> Les dépôts visés à l’al. 5 sont définis plus précisément dans le cadre du système d’autorégulation qui doit être approuvé par la FINMA.
+
+[^37j-1]: Introduit par le ch. I de la LF du 18 mars 2011 (Garantie des dépôts) ([RO 2011 3919](https://fedlex.data.admin.ch/eli/oc/2011/559); [FF 2010 3645](https://fedlex.data.admin.ch/eli/fga/2010/655)). Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021 (Insolvabilité et garantie des dépôts), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 6151](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
+
+#### Art. 37j<sup>bis</sup>
+
+**Compensation, prétentions et cession légale**[^37jbis-1]
+
+<sup>1</sup> Les dépôts garantis sont remboursés sans aucune compensation.
+
+<sup>2</sup> Les déposants ne peuvent faire valoir aucune prétention directe envers l’organisme de garantie.
+
+<sup>3</sup> Les droits des déposants passent à l’organisme de garantie à hauteur des remboursements effectués.
+
+[^37jbis-1]: Introduit par le ch. I de la LF du 17 déc. 2021 (Insolvabilité et garantie des dépôts), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 6151](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
 
 #### Art. 37k
 
@@ -1283,7 +1520,7 @@ La FINMA peut reporter sa communication dans les cas suivants:
 
 [^37k-1]: Introduit par le ch. I de la LF du 18 mars 2011 (Garantie des dépôts), en vigueur depuis le 1<sup>er</sup> sept. 2011 ([RO 2011 3919](https://fedlex.data.admin.ch/eli/oc/2011/559); [FF 2010 3645](https://fedlex.data.admin.ch/eli/fga/2010/655)).
 
-## Chapitre XIII*a***** Avoirs en déshérence
+## Chapitre XIII*a* Avoirs en déshérence
 
 [^chap13a-1]
 
@@ -1359,7 +1596,7 @@ Est puni d’une peine privative de liberté de trois ans au plus ou d’une pei
 
 <sup>2</sup> Si l’auteur agit par négligence, il est puni d’une amende de 250 000 francs au plus.
 
-<sup>3</sup> ...[^46-2]
+<sup>3</sup> …[^46-2]
 
 [^46-1]: Nouvelle teneur selon l’annexe ch. 15 de la LF du 22 juin 2007 sur la surveillance des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736)[5205](https://fedlex.data.admin.ch/eli/oc/2008/735); [FF 2006 2741](https://fedlex.data.admin.ch/eli/fga/2006/303)).
 [^46-2]: Abrogé par l’annexe ch. 10 de la L du 19 juin 2015 sur l’infrastructure des marchés financiers, avec effet au 1<sup>er</sup> janv. 2016 ([RO 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853);[FF 2014 7235](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
@@ -1373,27 +1610,28 @@ Est puni d’une peine privative de liberté de trois ans au plus ou d’une pei
 Est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire celui qui, intentionnellement:
 
 - a.[^47-2] révèle un secret à lui confié ou dont il a eu connaissance en sa qualité d’organe, d’employé, de mandataire ou de liquidateur d’une banque ou d’une personne au sens de l’art. 1*b*, ou encore d’organe ou d’employé d’une société d’audit;
-- b. incite autrui à violer le secret professionnel;
-- c.[^47-3] révèle un secret qui lui a été confié au sens de la let. a ou exploite ce secret à son profit ou au profit d’un tiers.
+- b.[^47-3] tente d’inciter autrui à commettre une telle violation du secret professionnel;
+- c.[^47-4] révèle un secret qui lui a été confié au sens de la let. a ou exploite ce secret à son profit ou au profit d’un tiers.
 
-<sup>1bis</sup> Est puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire celui qui obtient pour lui-même ou pour un tiers un avantage pécuniaire en agissant selon l’al. 1, let. a ou c.[^47-4]
+<sup>1bis</sup> Est puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire celui qui obtient pour lui-même ou pour un tiers un avantage pécuniaire en agissant selon l’al. 1, let. a ou c.[^47-5]
 
 <sup>2</sup> Si l’auteur agit par négligence, il est puni d’une amende de 250 000 francs au plus.
 
-<sup>3</sup> ...[^47-5]
+<sup>3</sup> …[^47-6]
 
 <sup>4</sup> La violation du secret professionnel demeure punissable alors même que la charge, l’emploi ou l’exercice de la profession a pris fin.
 
 <sup>5</sup> Les dispositions de la législation fédérale et cantonale sur l’obligation de renseigner l’autorité et de témoigner en justice sont réservées.
 
-<sup>6</sup> La poursuite et le jugement des infractions réprimées par la présente disposition incombent aux cantons. Les dispositions générales du code pénal[^47-6] sont applicables.
+<sup>6</sup> La poursuite et le jugement des infractions réprimées par la présente disposition incombent aux cantons. Les dispositions générales du code pénal[^47-7] sont applicables.
 
 [^47-1]: Nouvelle teneur selon l’annexe ch. 15 de la LF du 22 juin 2007 sur la surveillance des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736)[5205](https://fedlex.data.admin.ch/eli/oc/2008/735); [FF 2006 2741](https://fedlex.data.admin.ch/eli/fga/2006/303)).
 [^47-2]: Nouvelle teneur selon l’annexe ch. II 14 de la LF du 15 juin 2018 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
-[^47-3]: Introduite selon le ch. I 2 de la LF du 12 déc. 2014 sur l’extension de la punissabilité en matière de violation du secret professionnel, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1535](https://fedlex.data.admin.ch/eli/oc/2015/304); [FF 2014 5997](https://fedlex.data.admin.ch/eli/fga/2014/1334)[6007](https://fedlex.data.admin.ch/eli/fga/2014/1336)).
-[^47-4]: Introduit selon le ch. I 2 de la LF du 12 déc. 2014 sur l’extension de la punissabilité en matière de violation du secret professionnel, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1535](https://fedlex.data.admin.ch/eli/oc/2015/304); [FF 2014 5997](https://fedlex.data.admin.ch/eli/fga/2014/1334)[6007](https://fedlex.data.admin.ch/eli/fga/2014/1336)).
-[^47-5]: Abrogé par l’annexe ch. 10 de la L du 19 juin 2015 sur l’infrastructure des marchés financiers, avec effet au 1<sup>er</sup> janv. 2016 ([RO 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853);[FF 2014 7235](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
-[^47-6]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^47-3]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021 (Insolvabilité et garantie des dépôts), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 6151](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
+[^47-4]: Introduite selon le ch. I 2 de la LF du 12 déc. 2014 sur l’extension de la punissabilité en matière de violation du secret professionnel, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1535](https://fedlex.data.admin.ch/eli/oc/2015/304); [FF 2014 5997](https://fedlex.data.admin.ch/eli/fga/2014/1334)[6007](https://fedlex.data.admin.ch/eli/fga/2014/1336)).
+[^47-5]: Introduit selon le ch. I 2 de la LF du 12 déc. 2014 sur l’extension de la punissabilité en matière de violation du secret professionnel, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1535](https://fedlex.data.admin.ch/eli/oc/2015/304); [FF 2014 5997](https://fedlex.data.admin.ch/eli/fga/2014/1334)[6007](https://fedlex.data.admin.ch/eli/fga/2014/1336)).
+[^47-6]: Abrogé par l’annexe ch. 10 de la L du 19 juin 2015 sur l’infrastructure des marchés financiers, avec effet au 1<sup>er</sup> janv. 2016 ([RO 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853);[FF 2014 7235](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
+[^47-7]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
 #### Art. 48
 
@@ -1415,7 +1653,7 @@ Est puni d’une amende de 500 000 francs au plus celui qui, intentionnellement:
 
 <sup>2</sup> Si l’auteur agit par négligence, il est puni d’une amende de 150 000 francs au plus.
 
-<sup>3</sup> ...[^49-2]
+<sup>3</sup> …[^49-2]
 
 [^49-1]: Nouvelle teneur selon l’annexe ch. 15 de la LF du 22 juin 2007 sur la surveillance des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736)[5205](https://fedlex.data.admin.ch/eli/oc/2008/735); [FF 2006 2741](https://fedlex.data.admin.ch/eli/fga/2006/303)).
 [^49-2]: Abrogé par l’annexe ch. 10 de la L du 19 juin 2015 sur l’infrastructure des marchés financiers, avec effet au 1<sup>er</sup> janv. 2016 ([RO 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853);[FF 2014 7235](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
@@ -1497,7 +1735,7 @@ Date de l’entrée en vigueur: 1<sup>er</sup> mars 1935[^56-1]
 
 [^56-1]: ACF du 26 fév. 1935
 
-## Dispositions finales de la modification du 11 mars 1971****
+## Dispositions finales de la modification du 11 mars 1971
 
 [^u1-1]
 
@@ -1514,7 +1752,7 @@ Date de l’entrée en vigueur: 1<sup>er</sup> mars 1935[^56-1]
 [^u1-2]: Cette loi est entrée en vigueur le 1<sup>er</sup> juil. 1971 (art. 1 de l’ACF du 24 juin 1971; [RO 1971 825](https://fedlex.data.admin.ch/eli/oc/1971/824_825_825)).
 [^u1-3]: Cette disp. est abrogée.
 
-## Dispositions finales de la modification du 18 mars 1994****
+## Dispositions finales de la modification du 18 mars 1994
 
 [^u2-1]
 
@@ -1537,7 +1775,7 @@ Date de l’entrée en vigueur: 1<sup>er</sup> mars 1935[^56-1]
 [^u2-2]: [RO 1995 246](https://fedlex.data.admin.ch/eli/oc/1995/246_246_246)
 [^u2-3]: Cet art. a actuellement une nouvelle teneur.
 
-## Dispositions finales de la modification du 22 avril 1999****
+## Dispositions finales de la modification du 22 avril 1999
 
 [^u3-1]
 
@@ -1549,7 +1787,7 @@ Date de l’entrée en vigueur: 1<sup>er</sup> mars 1935[^56-1]
 
 <sup>3</sup> Pour la Banque cantonale de Genève, la participation des communes au capital est assimilée à la participation du canton au sens de l’art. 3*a,* pour autant que la participation existante du canton ne soit pas réduite.
 
-## Dispositions finales de la modification du 3 octobre 2003****
+## Dispositions finales de la modification du 3 octobre 2003
 
 [^u4-1]
 
@@ -1559,7 +1797,7 @@ Date de l’entrée en vigueur: 1<sup>er</sup> mars 1935[^56-1]
 
 <sup>2</sup> Si la Commission des banques décide la faillite d’une banque avant l’entrée en vigueur de cette modification, la faillite, le sursis bancaire ou le sursis concordataire sont régis par l’ancien droit.
 
-## Dispositions finales de la modification du 17 décembre 2004****
+## Dispositions finales de la modification du 17 décembre 2004
 
 [^u5-1]
 
@@ -1571,7 +1809,7 @@ Date de l’entrée en vigueur: 1<sup>er</sup> mars 1935[^56-1]
 
 <sup>3</sup> Sur requête motivée, déposée avant l’échéance du délai, la Commission des banques peut prolonger celui-ci.
 
-## Dispositions transitoires de la modification du 30 septembre 2011****
+## Dispositions transitoires de la modification du 30 septembre 2011
 
 [^u6-1]
 
@@ -1579,10 +1817,18 @@ Date de l’entrée en vigueur: 1<sup>er</sup> mars 1935[^56-1]
 
 La première adoption des dispositions visées à l’art. 10, al. 4, est soumise à l’approbation de l’Assemblée fédérale.
 
-## Disposition transitoire de la modification du 22 mars 2013****
+## Disposition transitoire de la modification du 22 mars 2013
 
 [^u7-1]
 
 [^u7-1]: [RO 2014 1267](https://fedlex.data.admin.ch/eli/oc/2014/272); [FF 2010 6853](https://fedlex.data.admin.ch/eli/fga/2010/1348)
 
 Pour les avoirs en déshérence qui n’ont pas été réclamés depuis plus de 50 ans, à l’entrée en vigueur de la modification du 22 mars 2013 de la présente loi, le délai de publication est de cinq ans.
+
+## Disposition transitoire relative à la modification du 17 décembre 2021
+
+[^u8-1]
+
+[^u8-1]: [RO 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 6151](https://fedlex.data.admin.ch/eli/fga/2020/1555)
+
+Les exigences auxquelles le système d’autorégulation doit satisfaire en vertu de l’art. 37*h*, al. 3, let. d, doivent être remplies dans les cinq ans qui suivent l’entrée en vigueur de la modification du 17 décembre 2021.
