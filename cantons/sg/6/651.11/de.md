@@ -3,20 +3,20 @@ canton: SG
 number: "651.11"
 title: Verordnung zum Einführungsgesetz zur eidgenössischen Waldgesetzgebung
 language: de
-version: 2022-05-01
-valid_until: 2022-12-31
-version_adopted: 2022-01-11
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2022-12-06
 adopted: 1999-12-07
 in_force: 2000-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/651.11"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3332/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3421/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zum Einführungsgesetz zur eidgenössischen Waldgesetzgebung
 
-vom 07.12.1999 (Stand 01.05.2022)
+vom 07.12.1999 (Stand 01.01.2023)
 
 Die Regierung des Kantons St.Gallen
 
@@ -85,7 +85,7 @@ als Verordnung:[^ingress-2]
 - b) Waldregion 2: politische Gemeinden Thal, Rheineck, St.Margrethen, Au, Berneck, Balgach, Diepoldsau, Widnau, Rebstein, Marbach, Altstätten, Eichberg, Oberriet, Rüthi, Sennwald, Gams, Grabs, Buchs, Sevelen und Wartau;
 - c) Waldregion 3: politische Gemeinden Sargans, Vilters-Wangs, Bad Ragaz, Pfäfers, Mels, Flums, Walenstadt und Quarten;
 - d) Waldregion 4: politische Gemeinden Amden, Weesen, Schänis, Benken, Kaltbrunn, Gommiswald, Uznach, Schmerikon, Rapperswil-Jona und Eschenbach;
-- e) Waldregion 5: politische Gemeinden Wildhaus-Alt St.Johann, Nesslau, Ebnat-Kappel, Wattwil, Lichtensteig, Oberhelfenschwil, Neckertal, Hemberg, Mosnang und Bütschwil-Ganterschwil.
+- e) Waldregion 5: politische Gemeinden Wildhaus-Alt St.Johann, Nesslau, Ebnat-Kappel, Wattwil, Lichtensteig, Neckertal, Mosnang und Bütschwil-Ganterschwil.
 
 [^5-1]: Art. [3](https://www.gesetzessammlung.sg.ch/data/651.1/de/art3.) Abs. 2 des EG zur eidgenössischen Waldgesetzgebung, sGS [651.1](https://www.gesetzessammlung.sg.ch/data/651.1/de).
 
