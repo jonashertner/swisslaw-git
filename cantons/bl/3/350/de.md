@@ -1,616 +1,849 @@
 ---
 canton: BL
 number: "350"
-title: Gesetz über die Versicherung von Gebäuden und Grundstücken
-short: Sachversicherungsgesetz
+title: Gebäudeversicherungsgesetz Basel-Landschaft
+short: GVG BL
 language: de
-version: 2018-01-01
-valid_until: 2022-12-31
-version_adopted: 2017-06-15
+version: 2023-01-01
+version_adopted: 2022-03-24
 adopted: 2022-03-24
 in_force: 2023-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/350"
-pdf: "https://bl.clex.ch/api/de/versions/2286/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3484/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Gesetz über die Versicherung von Gebäuden und Grundstücken
+# Gebäudeversicherungsgesetz Basel-Landschaft
 
-(Sachversicherungsgesetz)
+(GVG BL)
 
-Vom 12.01.1981 (Stand 01.01.2018)
+Vom 24.03.2022 (Stand 01.01.2023)
 
-Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
+Der Landrat des Kantons Basel-Landschaft,
 
-[^ingress-1]: In der Volksabstimmung vom 5. April 1981 angenommen.
+gestützt auf die §§ 63 Abs. 1 und 128 Abs. 1 der Verfassung des Kantons Basel-Landschaft vom 17. Mai 1984[^ingress-1],
 
-## 1 Zweck und Organisation
+beschliesst:[^ingress-2]
+
+[^ingress-1]: [SGS 100](https://bl.clex.ch/data/100/de/art63)
+[^ingress-2]: Vom Landrat mit 4/5-Mehr beschlossen. Referendumsfrist unbenützt abgelaufen am 26. Mai 2022. Beschluss des Landrats gemäss § 63 GpR ([SGS 120](https://bl.clex.ch/data/120/de/art63)) mit Verfügung der Landeskanzlei vom 30. Mai 2022 (publiziert im [Amtsblatt Nr. 22 vom 2. Juni 2022](https://www.baselland.ch/themen/a/amtsblatt/politische-rechte/downloads-2022-1/polit2022-06-02.pdf/@@download/file/polit2022-06-02.pdf)) für rechtskräftig erklärt.
+
+## 1 Allgemeine Bestimmungen
 
 #### § 1
 
 **Zweck**
 
-<sup>1</sup> Dieses Gesetz bezweckt eine umfassende Regelung der Versicherung von Gebäuden und Grundstücken.
+<sup>1</sup> Dieses Gesetz bezweckt den finanziellen Ausgleich für Eigentümerschaften, deren Gebäude oder Grundstücke durch Feuer- oder durch Elementarereignisse beschädigt oder zerstört worden sind.
+
+<sup>2</sup> Der finanzielle Ausgleich erfolgt durch Versicherung. Der Versicherung gehen Schadensvermeidung (Prävention) und Schadensbekämpfung (Feuerwehr) voraus.
 
 #### § 2
 
-**Trägerschaft**
+**Regelungs- und Geltungsbereich**
 
-<sup>1</sup> Unter dem Namen Basellandschaftliche Gebäudeversicherung (im folgenden: BGV) besteht eine Anstalt des öffentlichen Rechts mit eigener Rechtspersönlichkeit und Sitz in Liestal.
+<sup>1</sup> Dieses Gesetz regelt:
 
-<sup>2</sup> Sie haftet für ihre Verbindlichkeiten ausschliesslich mit ihrem Vermögen. Eine Haftung des Kantons besteht nicht.
+- a. die Gebäudeversicherung als Unternehmen;
+- b. die obligatorischen Versicherungen von Gebäuden und Grundstücken gegen Feuer- und Elementarschäden;
+- c. die freiwilligen Zusatzversicherungen.
+
+<sup>2</sup> Dieses Gesetz gilt für die Gebäude und Grundstücke des Bundes sowie seiner Gesellschaften, Anstalten und Betriebe nur dann, wenn sich diese ihm unterstellt haben.
 
 #### § 3
 
-**Aufgaben**
+**Basellandschaftliche Gebäudeversicherung**
 
-<sup>1</sup> Die BGV versichert Gebäude und Grundstücke gegen die im Gesetz genannten Gefahren.
+<sup>1</sup> Es besteht die Basellandschaftliche Gebäudeversicherung («BGV») als selbständiges öffentlich-rechtliches Unternehmen in Form einer Anstalt mit eigener Rechtspersönlichkeit.
 
-<sup>2</sup> ...
+<sup>2</sup> Die BGV vollzieht:
+
+- a. die Gesetzgebung über die Brand- und Naturgefahrenprävention;
+- b. die Gesetzgebung über die Feuerwehr;
+- c. dieses Gesetz und seine Ausführungsbestimmungen.
+
+<sup>3</sup> Die BGV:
+
+- a. nimmt zudem alle Aufgaben wahr, die direkt oder indirekt mit Abs. 2 zusammenhängen, insbesondere das Abschliessen von Verträgen sowie das Eingehen von Beteiligungen;
+- b. kann vom Kanton mittels Leistungsvereinbarungen Aufgaben übernehmen;
+- c. führt ihre Rechnung nach anerkannten Standards;
+- d. haftet für ihre Verbindlichkeiten ausschliesslich selbst.
+
+## 2 Versicherungsgrundsätze
+
+### 2.1 Obligatorische Versicherungen
 
 #### § 4
 
-**Landrat**
+**Gebäude und Grundstücke**
 
-<sup>1</sup> Dem Landrat obliegt die Oberaufsicht über die Beteiligungen gemäss Gesetz vom 15. Juni 2017[^4-1] über die Beteiligungen (PCGG).
-
-<sup>2</sup> …
-
-[^4-1]: GS 2017.077, SGS [314](https://bl.clex.ch/data/314/de/art10)
+<sup>1</sup> Die Gebäude und die Grundstücke im Kantonsgebiet sind bei der BGV je obligatorisch gegen Feuer- und Elementarschäden versichert.
 
 #### § 5
 
-**Regierungsrat**
+**Gebäudedefinition**
 
-<sup>1</sup> Der Regierungsrat erlässt die erforderlichen allgemeinen Bestimmungen zum Vollzug dieses Gesetzes.
+<sup>1</sup> Gebäude im Sinne dieses Gesetzes sind gedeckte, unbewegliche sowie auf Dauer erstellte Bauwerke, die zur dauernden Aufnahme von Menschen, Tieren oder Sachen geeignet sind, mit deren Bestandteilen und Innenausbauten.
 
-<sup>2</sup> Er wählt die Mitglieder der Verwaltungskommission, den Präsidenten bzw. die Präsidentin der Verwaltungskommission und die Kontrollstelle.
+<sup>2</sup> Der Landrat legt im Dekret fest:
 
-<sup>3</sup> Er kann kantonale Ämter zur Mitwirkung beim Vollzug dieses Gesetzes verpflichten.
-
-<sup>4</sup> Er bestimmt die Höhe der jährlichen Beiträge, die die privaten Versicherungsgesellschaften der BGV zur Förderung der Schadenverhütung und -bekämpfung zu leisten haben.
+- a. welche Arten von Bauwerken nicht als Gebäude gelten;
+- b. welche Bestandteile und Inneneinrichtungen nicht als zu den Gebäuden gehörig gelten.
 
 #### § 6
 
-**Verwaltungskommission**
+**Grundstücksdefintion**
 
-<sup>1</sup> Die Verwaltungskommission besteht aus 7 Mitgliedern, darin eingeschlossen der Präsident bzw. die Präsidentin. Sie wird auf eine Amtsdauer von 4 Jahren gewählt.
+<sup>1</sup> Grundstücke im Sinne dieses Gesetzes sind die Parzellen ohne die darauf befindlichen Werke und Anlagen.
 
-<sup>2</sup> …
+<sup>2</sup> Der Landrat legt im Dekret fest:
 
-<sup>3</sup> Die Verwaltungskommission:
+- a. welche Parzellen nicht als Grundstücke im Sinne dieses Gesetzes gelten;
+- b. welche Elemente von und auf Grundstücken nicht versichert sind.
 
-- a. beaufsichtigt die Geschäftsführung der Direktion;
-- b. genehmigt den jährlichen Voranschlag;
-- c. erstattet Geschäftsberichte und Jahresrechnungen zuhanden des Regierungsrates;
-- d. wählt die Direktion, das erforderliche Personal sowie die nebenamtlichen Schätzer;
-- e. entscheidet über die Zeichnungsberechtigung;
-- f. setzt den massgebenden Versicherungsindex fest;
-- g. bestimmt im Rahmen der gesetzlichen Vorschriften die Grundprämien und die Prämienzuschläge (kurz: Versicherungsprämien);
-- g<sup>bis</sup>. legt die Präventions- und Interventionsbeiträge fest,
-- h. genehmigt die Rückversicherungsverträge;
-- i. entscheidet über die Anlage der Reserven;
-- k. regelt das Verfahren zur Festsetzung der Versicherungswerte und der Entschädigung im Schadenfall;
-- l. erlässt Richtlinien über den Selbstbehalt und die Verzinsung der Entschädigungen;
-- m. erlässt Richtlinien über die Bauversicherung;
-- n. setzt die allgemeinen Versicherungsbedingungen für die Wasserschadenversicherung und die Prämien hiefür fest;
-- o. erlässt Richtlinien über die Schadenberechnung bei der Grundstückversicherung;
-- p. regelt den Einbezug ausgeschlossener Gefahren in die Versicherung.
+<sup>3</sup> Der Regierungsrat legt in der Verordnung fest, welche Elemente von oder auf Grundstücken versichert sind. Insbesondere kann er forstliche Waldstrassen öffentlich-rechtlicher Körperschaften als versichert festlegen.
 
 #### § 7
 
-**Direktion**
+**Prämien und Leistungen**
 
-<sup>1</sup> Die Direktion besteht aus dem Direktor und dessen Stellvertreter.
+<sup>1</sup> Die BGV versichert die Gebäude und die Grundstücke gegen angemessene Prämien.
 
-<sup>2</sup> Sie leitet die BGV, vertritt sie nach aussen und führt die Beschlüsse der Verwaltungskommission aus.
+<sup>2</sup> Sie richtet bei Wiederherstellung der beschädigten oder zerstörten Gebäude und Grundstücke ausreichende Versicherungsleistungen aus und bei Nichtwiederherstellung angemessene Entschädigungen sowie in beiden Fällen schadensbedingte Zusatzleistungen.
 
 #### § 8
 
-**Kontrollstelle**
+**Versicherungsnehmerinnen und Versicherungsnehmer**
 
-<sup>1</sup> Die Kontrollstelle besteht aus 3 fachkundigen Mitgliedern. Diese werden für eine Amtsdauer von 4 Jahren gewählt.
+<sup>1</sup> Versicherungsnehmerinnen und Versicherungsnehmer der Gebäude und Grundstücke sind deren Eigentümerinnen und Eigentümer gemäss Grundbucheintrag.
 
-<sup>2</sup> Die Kontrollstelle hat die Betriebsrechnung und die Bilanz auf deren Richtigkeit zu prüfen und zu untersuchen, ob die Darstellung des Geschäftsergebnisses und der Vermögenslage den tatsächlichen Verhältnissen entspricht.
-
-## 2 Gebäudeversicherung
-
-### 2.1 Versicherungspflicht und -werte
+<sup>2</sup> Die BGV verwendet zur Identifizierung der Versicherungsnehmerinnen und Versicherungsnehmer soweit vorhanden systematisch die AHV-Versichertennummer bzw. eine Unternehmensidentifikationsnummer.
 
 #### § 9
 
-**Versicherungspflicht**
+**Daten**
 
-<sup>1</sup> Sämtliche Gebäude im Kantonsgebiet sind bei der BGV gegen Feuer- und Elementarschäden zu versichern. Eine anderweitige Versicherung ist nicht zulässig.
+<sup>1</sup> Die BGV meldet der kantonalen Steuerverwaltung die steuerrelevanten Daten der Gebäude.
+
+<sup>2</sup> Sie meldet und bezieht Daten gemäss der kantonalen Registergesetzgebung.
+
+<sup>3</sup> Sie kann Daten, die nicht im Rahmen der kantonalen Registergesetzgebung bezogen werden können und die sie für die Erfüllung ihrer gesetzlichen Aufgaben benötigt, direkt an der Quelle beziehen.
+
+### 2.2 Freiwillige Zusatzversicherungen
 
 #### § 10
 
-**Beginn und Ende der Versicherung**
+**Umfang**
 
-<sup>1</sup> Die Versicherungspflicht beginnt bei Neubauten und wertvermehrenden Ausbauten mit der Inangriffnahme der Bauarbeiten.
+<sup>1</sup> Die BGV kann folgende freiwillige Zusatzversicherungen anbieten:
 
-<sup>2</sup> Die Versicherungspflicht endet mit dem Abbruch oder einem Totalschaden des Gebäudes.
+- a. Versicherung von Gebäuden gegen Wasserschäden;
+- b. Versicherung von weiteren baulichen Objekten gegen Feuer- und Elementarschäden und/oder gegen Wasserschäden.
+
+<sup>2</sup> Weitere bauliche Objekte im Sinne dieses Gesetzes sind unbewegliche bauliche Erzeugnisse, die auf Dauer erstellt und nicht mit einem Gebäude verbunden sind.
+
+<sup>3</sup> Der Verwaltungsrat der BGV («Verwaltungsrat») legt die versicherbaren weiteren baulichen Objekte fest.
 
 #### § 11
+
+**Grundsätze**
+
+<sup>1</sup> Jede freiwillige Zusatzversicherung:
+
+- a. muss für die Versicherungsnehmerinnen und Versicherungsnehmer rechtsgleich sein;
+- b. kann beidseitig gekündigt werden.
+
+<sup>2</sup> Der Verwaltungsrat legt die allgemeinen Versicherungsbedingungen für die freiwilligen Zusatzversicherungen fest.
+
+<sup>3</sup> Für die Anwendung der freiwilligen Zusatzversicherungen gilt das Privatrecht, insbesondere das eidgenössische Versicherungsvertragsgesetz[^11-1].
+
+[^11-1]: [SR 221.229.1](https://db.clex.ch/link/Bund/221.229.1/de)
+
+### 2.3 Gemeinsame Bestimmungen
+
+#### § 12
+
+**Selbsttragende Versicherungen**
+
+<sup>1</sup> Die Versicherungen der Gebäude und der Grundstücke sowie die Gesamtheit der freiwilligen Zusatzversicherungen müssen je selbsttragend sein und dürfen sich nicht gegenseitig finanzieren.
+
+#### § 13
+
+**Ausschüttung eines Rechnungsüberschusses**
+
+<sup>1</sup> Die BGV kann einen allfälligen Rechnungsüberschuss der einzelnen Versicherungen ganz oder teilweise an die Versicherungsnehmerinnen und Versicherungsnehmer ausschütten, sofern die Höhe der Sollreserven dies zulässt.
+
+<sup>2</sup> Der Verwaltungsrat beschliesst über Ausschüttungen und legt deren Einzelheiten fest.
+
+## 3 Versicherte Schäden
+
+### 3.1 Gebäude
+
+#### § 14
+
+**Feuerschadenversicherung**
+
+<sup>1</sup> Die Gebäude sind durch die Feuerschadenversicherung versichert gegen Schäden, die entstanden sind durch:
+
+- a. Feuer, Rauch, Hitze;
+- b. Blitzschlag;
+- c. Explosion;
+- d. notlandende oder abstürzende Luftfahrzeuge, Raumfahrzeuge, Satelliten oder Drohnen oder Teile davon.
+
+<sup>2</sup> Nicht versichert sind Feuer-, Rauch-, Hitze- oder Explosionsschäden an Gebäuden, welche entstanden sind durch:
+
+- a. Abnutzung; oder
+- b. ungenügenden oder mangelhaften Unterhalt.
+
+#### § 15
+
+**Elementarschadenversicherung**
+
+<sup>1</sup> Die Gebäude sind durch die Elementarschadenversicherung versichert gegen Schäden, die entstanden sind durch:
+
+- a. Hochwasser, Überschwemmung;
+- b. Überführung von Schutt und Geröll;
+- c. Steinschlag, Felssturz;
+- d. Erdrutsch, Erdfall;
+- e. Sturmwind;
+- f. Hagel;
+- g. Lawinen, Schneedruck, Schneerutsch.
+
+<sup>2</sup> Nicht versichert sind Schäden an Gebäuden:
+
+- a. die nicht auf höhere Gewalt zurückzuführen sind;
+- b. die nicht durch eine Einwirkung von aussergewöhnlicher Heftigkeit entstanden sind;
+- c. die nicht plötzlich aufgetreten sind;
+- d. die infolge nicht fachgerechter Planung oder Bauausführung oder aus mangelhaftem Unterhalt entstanden sind; oder
+- e. für die die Versicherungsnehmerinnen und Versicherungsnehmer gegenüber Dritten Garantieansprüche besitzen.
+
+### 3.2 Grundstücke
+
+#### § 16
+
+**Feuerschadenversicherung**
+
+<sup>1</sup> Die Grundstücke sind durch die Feuerschadenversicherung gegen Schäden versichert, die entstanden sind durch:
+
+- a. Feuer;
+- b. Blitzschlag;
+- c. Explosion;
+- d. notlandende oder abstürzende Luftfahrzeuge, Raumfahrzeuge, Satelliten oder Drohnen oder Teile davon.
+
+<sup>2</sup> Nicht versichert sind Feuer- und Explosionsschäden an Grundstücken, welche entstanden sind durch ungenügenden oder mangelhaften Unterhalt.
+
+#### § 17
+
+**Elementarschadenversicherung**
+
+<sup>1</sup> Die Grundstücke sind durch die Elementarschadenversicherung gegen Schäden versichert, die entstanden sind durch:
+
+- a. Hochwasser, Überschwemmung;
+- b. Überführung von Schutt und Geröll;
+- c. Steinschlag, Felssturz;
+- d. Erdrutsch, Erdfall;
+- e. Sturmwind;
+- f. Eisregen;
+- g. Lawinen, Schneedruck, Schneerutsch.
+
+<sup>2</sup> Nicht versichert sind Schäden an Grundstücken:
+
+- a. die nicht auf höhere Gewalt zurückzuführen sind;
+- b. die nicht durch eine Einwirkung von aussergewöhnlicher Heftigkeit entstanden sind;
+- c die nicht plötzlich aufgetreten sind;
+- d. die infolge nicht fachgerechter Planung oder Bauausführung oder aus mangelhaftem Unterhalt entstanden sind; oder
+- e. die als Folge von Dürre, Frost oder Hagel entstanden sind.
+
+### 3.3 Gemeinsame Bestimmungen
+
+#### § 18
+
+**Nicht versicherte Schäden**
+
+<sup>1</sup> Nicht versichert sind Feuer- und Elementarschäden an Gebäuden und an Grundstücken, die mittelbar oder unmittelbar entstanden sind durch:
+
+- a. Rückstau innerhalb des Gebäudes aus Ableitungen;
+- b. Grundwasser;
+- c. Wasser aus Stauanlagen;
+- d. Erdbeben;
+- e. Sprengungen;
+- f. Handlungen der Armee oder des Zivilschutzes;
+- g. Veränderungen der Atomkernstruktur oder durch Nuklearunfälle;
+- h. kriegerische Ereignisse oder durch innere Unruhen.
+
+<sup>2</sup> Nicht versichert sind Elementarschäden an Gebäuden und an Grundstücken, welche für die Versicherungsnehmerinnen und Versicherungsnehmer zumutbarerweise voraussehbar waren und welche sie durch rechtzeitige, zumutbare Massnahmen hätten verhindern können.
+
+#### § 19
+
+**Härtefall**
+
+<sup>1</sup> Die BGV kann bei Schäden, die aufgrund der §§ 14–17 nicht versichert sind und die dadurch zu einer übermässigen Härte führen würden, angemessene Leistungen ausrichten.
+
+## 4 Versicherungsdeckung
+
+### 4.1 Gebäude
+
+#### § 20
+
+**Beginn und Ende der Versicherung**
+
+<sup>1</sup> Die Gebäude sind ab Beginn der Bauarbeiten versichert. Als Bauarbeiten gelten solche für Neubauten, für wertverändernde An-, Aus- und Umbauten sowie für wertverändernde Gebäuderenovationen.
+
+<sup>2</sup> Die Versicherung endet zum Zeitpunkt des Abbruchs oder des Totalschadens des Gebäudes.
+
+#### § 21
+
+**Meldepflichten der Versicherungsnehmerinnen und Versicherungsnehmer**
+
+<sup>1</sup> Die Versicherungsnehmerinnen und Versicherungsnehmer haben der BGV innert 1 Monat zu melden:
+
+- a. den Beginn der Bauarbeiten gemäss § 20 Abs. 1 sowie deren Ende;
+- b. die Änderung der Nutzungsart des Gebäudes;
+- c. das Ende der Versicherung gemäss § 20 Abs. 2.
+
+<sup>2</sup> Die Unterlassung einer Meldung gemäss Abs. 1 hat die Nachforderung zu wenig entrichteter Gesamtabgaben bzw. die Verwirkung der Rückforderung zu viel entrichteter Gesamtabgaben zur Folge.
+
+#### § 22
+
+**Gebäudeschätzung**
+
+<sup>1</sup> Die BGV nimmt die Gebäudeschätzung vor und trägt die damit verbundenen Kosten.
+
+<sup>2</sup> Sie führt die Gebäudeschätzung periodisch durch und kann dafür Dritte sowie Gemeinde- und Kantonsbehörden oder Register beiziehen.
+
+<sup>3</sup> Die Versicherungsnehmerinnen und Versicherungsnehmer sowie die Benützerinnen und Benützer des Gebäudes haben für die Gebäudeschätzung den Mitarbeitenden der BGV sowie den Personen und Organen gemäss Abs. 2 den Zutritt zum Gebäude und dessen Begehung zu gewähren und sie dabei zu begleiten.
+
+<sup>4</sup> Die Versicherungsnehmerinnen und Versicherungsnehmer haben den Personen und Organen gemäss Abs. 2 alle erforderlichen Auskünfte zu erteilen und ihnen alle dienlichen Unterlagen wie Baupläne und Bauabrechnungen zur Verfügung zu stellen.
+
+<sup>5</sup> Der Verwaltungsrat legt die Einzelheiten der Gebäudeschätzung fest.
+
+#### § 23
 
 **Versicherungswerte**
 
 <sup>1</sup> Die Gebäude sind zum Neuwert versichert.
 
-<sup>2</sup> Die BGV kann, solange wichtige Gründe vorliegen, ein Gebäude zum Zeitwert versichern oder mit dem Eigentümer eine feste Versicherungssumme vereinbaren.
+<sup>2</sup> Ein Gebäude ist zum Zeitwert versichert, wenn sich sein aktueller Wert gegenüber seinem Neuwert um mehr als die Hälfte vermindert hat.
 
-#### § 12
+<sup>3</sup> Auf Begehren der Versicherungsnehmerin oder des Versicherungsnehmers kann ein Gebäude zu einem bestimmten Versicherungswert unter dem Neuwert versichert werden, wenn wichtige Gründe vorliegen.
 
-**Baukostenänderung**
+<sup>4</sup> Die BGV kann die Versicherungswerte jährlich der Baukostenentwicklung anpassen.
 
-<sup>1</sup> Die Verwaltungskommission hat wesentliche Änderungen der Baukosten jährlich durch eine allgemeine Erhöhung oder Ermässigung der Versicherungswerte zu berücksichtigen. Ausgenommen sind feste Versicherungssummen gemäss § 11 Absatz 2.
-
-### 2.2 Versicherte Gefahren
-
-#### § 13
-
-**Feuerschäden**
-
-<sup>1</sup> Die Gebäude sind versichert gegen Schäden, die entstanden sind durch:
-
-- a. Feuer, Rauch oder Hitze,
-- b. Blitzschlag,
-- c. Explosion.
-
-<sup>2</sup> Nicht vergütet werden Schäden, die durch Abnutzung oder durch ordentlichen Gebrauch der versicherten Sache entstanden sind.
-
-<sup>3</sup> Schäden an Gebäuden, die durch herabstürzende Luftfahrzeuge oder Teile davon verursacht worden sind, hat die Gebäudeversicherung zu vergüten, soweit nicht ein Dritter hiefür ersatzpflichtig ist.
-
-#### § 14
-
-**Elementarschäden**
-
-<sup>1</sup> Die Gebäude sind versichert gegen Schäden, die entstanden sind durch:
-
-- a. Sturmwind,
-- b. Hagel,
-- c. Hochwasser, Überschwemmung,
-- d. Lawinen, Schneedruck oder Schneerutsch,
-- e. Steinschlag oder Erdrutsch.
-
-<sup>2</sup> Nicht versichert sind:
-
-- a. Schäden, die nicht durch eines der in Absatz 1 genannten Elementarereignisse selbst an versicherten Gebäuden verursacht worden sind,
-- b. Schäden, die nicht durch eine Einwirkung von aussergewöhnlicher Heftigkeit entstanden sind,
-- c. Schäden, die durch künstliche Eingriffe, durch andauernde Einwirkung von Wasser oder durch Bodenbewegung allmählich entstanden sind,
-- d. Schäden, die voraussehbar waren und durch rechtzeitige, zumutbare Massnahmen hätten verhindert werden können, wie Schäden zufolge ungeeigneten Baugrundes, nicht fachgerechter Planung oder Ausführung von Hoch- oder Tiefbauarbeiten oder mangelhaften Gebäudeunterhaltes sowie Schäden, die sich erfahrungsgemäss periodisch wiederholen können.
-
-#### § 15
-
-**Nebenleistungen**
-
-<sup>1</sup> Die BGV vergütet ferner:
-
-- a. notwendige Abbruch- und Räumungskosten, soweit sie das Gebäude betreffen, höchstens jedoch bis 10% der Entschädigung,
-- b. die Kosten der zum Schutze noch vorhandener Gebäudeteile erforderlichen Vorkehren; dienen diese Vorkehren nicht nur dem Schutz der Überreste des Gebäudes oder eines Gebäudeteils, vergütet die BGV den ihrem Interesse entsprechenden Kostenanteil,
-- c. für unbenützbar gewordene Wohnräume den Mietzins während längstens 12 Monaten; massgebend ist der Mietzins für den Wohnraum in unmöbliertem Zustand.
-
-#### § 16
-
-**Ausschlüsse**
-
-<sup>1</sup> Nicht vergütet werden Schäden an Gebäuden, die unmittelbar oder mittelbar durch Veränderungen der Atomkernstruktur, Raumfahrzeuge, Erdbeben, Wasser aus Stauseen, Massnahmen oder Übungen des Militärs oder von Zivilschutzorganisationen, kriegerische Ereignisse oder innere Unruhen entstanden sind.
-
-<sup>2</sup> Für Schäden, die bei der Planung, Ausführung oder Überwachung von Bauarbeiten vom Eigentümer oder von Dritten schuldhaft herbeigeführt worden sind, haftet die BGV nicht.
-
-<sup>3</sup> Die Verwaltungskommission kann ausgeschlossene Gefahren ganz oder teilweise in die Versicherung einbeziehen, sobald das zu wirtschaftlich tragbaren Bedingungen möglich ist.
-
-### 2.3 Berechnung der Entschädigung
-
-#### § 17
-
-**Totalschaden**
-
-<sup>1</sup> Wird ein Gebäude ganz zerstört und wieder hergestellt, vergütet die BGV den im Zeitpunkt des Schadens massgebenden Neuwert.
-
-<sup>2</sup> Übersteigt die Entwertung des Gebäudes im Zeitpunkt des Schadens 50%, beschränkt sich die Entschädigung bei Vollschaden und Wiederherstellung auf den doppelten Zeitwert.
-
-<sup>3</sup> Die Frist zur Wiederherstellung des Gebäudes beträgt 3 Jahre. Sie kann in besonderen Fällen von der BGV um höchstens 2 Jahre verlängert werden.
-
-<sup>4</sup> Wird das Gebäude nicht wieder hergestellt, ist bei Vollschaden dessen Verkehrswert zu vergüten. Die Entschädigung bei Nichtwiederherstellung darf diejenige für Wiederherstellung nicht übersteigen.
-
-#### § 18
-
-**Schaden an unvollendeten Gebäuden**
-
-<sup>1</sup> Bei unvollendeten Gebäuden sind nur die zur Zeit des Schadenereignisses eingebauten und mit dem Gebäude zu versichernden Teile und Einrichtungen zu entschädigen.
-
-#### § 19
-
-**Sonderfälle**
-
-<sup>1</sup> Für Gebäude, die zum Zeitwert versichert sind, beschränkt sich bei Vollschaden die Entschädigung bei Wiederherstellung auf den Zeitwert.
-
-<sup>2</sup> Bei Gebäuden, für die eine feste Versicherungssumme vereinbart worden ist, beschränkt sich die Entschädigung bei Vollschaden auf diese Summe.
-
-#### § 20
-
-**Teilschäden**
-
-<sup>1</sup> Bei Teilschäden gelten die §§ 15–18 sinngemäss.
-
-<sup>2</sup> Sind die Wiederherstellungskosten im Vergleich zum entstandenen Schaden unverhältnismässig hoch, kann die BGV eine Minderwertentschädigung ausrichten.
-
-#### § 21
-
-**Abbruchobjekte**
-
-<sup>1</sup> Bei Gebäuden, die zum Abbruch bestimmt oder wegen Zerfalls nicht mehr benützbar sind, beschränkt sich die Entschädigung auf den Abbruchwert, selbst wenn die Gebäude neu erstellt werden.
-
-<sup>2</sup> Bei Teilschaden an solchen Objekten vergütet die BGV die Kosten einer behelfsmässigen Reparatur, sofern sich eine solche lohnt, höchstens jedoch den Abbruchwert.
-
-### 2.4 Freiwillige Versicherung
-
-#### § 22
-
-**Versicherung gebäudeähnlicher Objekte**
-
-<sup>1</sup> Der Eigentümer kann gebäudeähnliche Objekte bei der BGV gegen Feuer-, Elementar- und Wasserschäden versichern.
-
-#### § 23
-
-**Wasserschadenversicherung**
-
-<sup>1</sup> Der Eigentümer eines Gebäudes kann für sein Gebäude bei der BGV eine Wasserschadenversicherung abschliessen.
+### 4.2 Grundstücke
 
 #### § 24
 
-**Besondere Bestimmungen**
+**Versicherungswert**
 
-<sup>1</sup> Der Eigentümer und die BGV sind berechtigt, eine freiwillige Versicherung auf Ende eines Kalenderjahres schriftlich zu kündigen. Die Kündigungsfrist beträgt 3 Monate.
+<sup>1</sup> Für Grundstücke wird kein Versicherungswert festgelegt.
 
-<sup>2</sup> Aus wichtigen Gründen kann die BGV den Abschluss einer freiwilligen Versicherung ablehnen.
-
-<sup>3</sup> Im übrigen gelten für freiwillige Versicherungen die Bestimmungen dieses Gesetzes und das eidgenössische Privatversicherungsrecht sinngemäss.
-
-## 3 Grundstückversicherung
-
-### 3.1 Versicherungspflicht
+### 4.3 Deckungsausschluss
 
 #### § 25
 
-**Grundsatz, Ausnahmen**
+**Grundsatz**
 
-<sup>1</sup> Sämtliche Grundstücke im Kanton Basel-Landschaft, ohne die darauf erstellten Gebäude und gebäudeähnlichen Objekte sowie ohne die Fahrhabe, sind bei der BGV gegen die in den §§ 26 und 27 genannten Gefahren zu versichern.
+<sup>1</sup> Die BGV kann ein Gebäude oder ein Grundstück ganz oder teilweise von der Versicherungsdeckung ausschliessen, wenn:
 
-<sup>2</sup> Eine anderweitige Versicherung ist nicht zulässig. In besonderen Fällen kann der Regierungsrat für bestimmte Gefahren Ausnahmen bewilligen.
+- a. das Gebäude wegen seines Standorts, seiner Konstruktion, seines baulichen Zustands oder der Art seiner Benutzung besonders gefährdet ist und angemessene Abwehrmassnahmen zumutbar sind, jedoch von der Versicherungsnehmerin oder dem Versicherungsnehmer nicht ergriffen worden sind;
+- b. das Grundstück wegen seiner Lage oder seiner Art der Benutzung besonders gefährdet ist und angemessene Abwehrmassnahmen zumutbar sind, jedoch von der Versicherungsnehmerin oder dem Versicherungsnehmer nicht ergriffen worden sind;
+- c. angeordnete Schutzmassnahmen gemäss der Gesetzgebung über die Brand- und Naturgefahrenprävention nicht oder nicht vollständig umgesetzt worden sind.
 
-<sup>3</sup> Bestimmte Grundstücke oder Teile davon können vom Regierungsrat von der Versicherungspflicht befreit werden.
+<sup>2</sup> Für Gebäude und Grundstücke:
 
-### 3.2 Versicherte Gefahren
+- a. die von der Versicherungsdeckung ganz ausgeschlossen sind, ist die Gesamtabgabe nicht zu entrichten;
+- b. die von der Versicherungsdeckung teilweise ausgeschlossen sind, ist die Gesamtabgabe weiterhin zu entrichten.
+
+<sup>3</sup> Die BGV erhebt bei besonders gefährdeten Gebäuden oder Grundstücken, die sie nicht von der Versicherungsdeckung ausschliesst, einen risikogerechten Zuschlag auf der Versicherungsprämie.
 
 #### § 26
 
-**Elementarschaden**
+**Verfahren**
 
-<sup>1</sup> Die Versicherung erstreckt sich auf Schäden, die durch die nachstehenden Naturereignisse entstanden sind: Hochwasser, Überschwemmung, Überführung von Schutt und Geröll, Bodensenkung, Sturmwind, Duftbruch, Schneedruck sowie Erd- und Felsrutsch.
+<sup>1</sup> Vor Erlass einer Verfügung gemäss § 25 Abs. 1 Bst. a bzw. b räumt die BGV eine angemessene Frist für angemessene und zumutbare Abwehrmassnahmen gegen die besondere Gefährdung ein.
 
-<sup>2</sup> Nicht versichert sind:
+<sup>2</sup> Die BGV teilt einen Deckungsausschluss sowie dessen Aufhebung der Grundpfandgläubigerschaft mit. Sie teilt dies zudem der Baubewilligungsbehörde mit, sofern dies für diese wesentlich ist.
 
-- a. Schäden, die nicht auf eine Einwirkung von aussergewöhnlicher Heftigkeit zurückzuführen sind,
-- b. Schäden, die durch fortgesetztes Einwirken verursacht worden sind,
-- c. Schäden, die sich erfahrungsgemäss periodisch wiederholen können,
-- d. Schäden, die voraussehbar waren und deren Entstehen durch rechtzeitige, zumutbare Massnahmen hätten verhindert werden können, namentlich solche, die auf mangelhafte Pflege oder mangelhaften Unterhalt zurückzuführen sind,
-- e. Schäden, die als Folge künstlicher Erdbewegungen entstanden sind,
-- f. Schäden, die durch tierische, pflanzliche oder pilzliche Schädlinge verursacht worden sind,
-- g. Schäden, die als Folge von Frost, Dürre, Nässe oder Hagel entstanden sind.
+## 5 Gesamtabgabe
 
-<sup>3</sup> Nicht gedeckt sind Schäden an Obstertrag und Bodenerträgnissen.
-
-<sup>4</sup> § 16 bleibt vorbehalten.
+### 5.1 Allgemeine Bestimmungen
 
 #### § 27
 
-**Feuerschaden**
+**Umfang der Gesamtabgabe**
 
-<sup>1</sup> Die Versicherung erstreckt sich auf:
+<sup>1</sup> Die Versicherungsnehmerinnen und Versicherungsnehmer entrichten als Gesamtabgabe:
 
-- a. Blitzschlagschäden an Wald-, Obst- und Zierbäumen,
-- b. Kulturschäden als Folge von Feuerschäden an Gebäuden oder Fahrhabe, soweit hiefür nicht ein Dritter haftbar ist,
-- c. ...
-
-<sup>2</sup> Der Regierungsrat kann die Deckung der Feuerversicherung auf weitere Landschäden ausdehnen, sofern es sich als notwendig erweist.
-
-### 3.3 Berechnung der Entschädigung
+- a. den allfälligen Präventions- und Feuerwehrbeitrag;
+- b. die Versicherungsprämien für die obligatorischen Versicherungen;
+- c. die Versicherungsprämien für die allfälligen freiwilligen Zusatzversicherungen;
+- d. die bundesrechtlichen Abgaben.
 
 #### § 28
 
-**Grundsätze für die Schadenermittlung**
+**Präventions- und Feuerwehrbeitrag**
 
-<sup>1</sup> Für die Schadenermittlung gelten folgende Grundsätze:
+<sup>1</sup> Die Versicherungsnehmerinnen und Versicherungsnehmer der Versicherung der Gebäude und der weiteren baulichen Objekte gegen Feuer- und Elementarschäden entrichten einen zweckgebundenen Beitrag zur Finanzierung des hoheitlichen, präventiven und interventiven Schutzes von Personen vor Feuerschäden sowie von Gebäuden vor Feuer- und Elementarschäden («Präventions- und Feuerwehrbeitrag»).
 
-- a. Bei Grundstücken sind die Aufwendungen für die Wiederherstellung des früheren Zustandes zu vergüten. Daraus sich ergebende Verbesserungen gegenüber dem früheren Zustand hat der Versicherte zu tragen.
-- b. ...
-- c. ...
-- d. Bei beschädigten, gesunden Obst- und Zierbäume werden die Kosten für die Wiederbeschaffung der Jungpflanzen gleicher Art sowie die anerkannten Räumungs- und Wiederinstandstellungskosten vergütet.
-- e. Bei Waldschäden sind die erschwerte Holzhauerei und die Holzentwertung zu vergüten.
-
-<sup>2</sup> Die Grundsätze für die Schadenermittlung gelten für alle Grundstücke. Für erhöhte Entschädigungsleistungen im Schadenfall hat der Grundeigentümer eine Zusatzversicherung abzuschliessen und die hiefür erforderlichen Prämienzuschläge gemäss § 35 zu entrichten.
-
-<sup>3</sup> Entschädigungsansprüche gegenüber Dritten sowie Beitragsleistungen aller Art sind angemessen zu berücksichtigen.
+<sup>2</sup> Der Verwaltungsrat legt die Höhe des Präventions- und Feuerwehrbeitrags fest.
 
 #### § 29
 
-**Auszahlung der Entschädigung**
+**Versicherungsprämien**
 
-<sup>1</sup> Die Entschädigung wird erst ausbezahlt, wenn der Schaden sachgemäss behoben ist. Bei Duftbruch und Sturm sowie in besonderen Fällen kann die Entschädigung nach rechtskräftiger Feststellung des Schadens ausbezahlt werden.
+<sup>1</sup> Die Versicherungsnehmerinnen und Versicherungsnehmer entrichten Prämien für die Versicherung ihrer Gebäude und ihrer Grundstücke gegen Feuer- und Elementarschäden.
 
-<sup>2</sup> Erfolgt die Behebung des Schadens nicht innert 1 Jahr, verliert der Eigentümer den Anspruch auf Entschädigung. Aus wichtigen Gründen kann diese Frist um höchstens 1 Jahr verlängert werden.
+<sup>2</sup> Die Versicherungsprämien für die Versicherung der Gebäude gegen Feuer- und Elementarschäden richten sich nach der Bauart des Gebäudes und nach dessen Nutzungsart.
 
-<sup>3</sup> Eine Minderwertentschädigung kann ausgerichtet werden, wenn:
+<sup>3</sup> Die Versicherungsprämien für die Versicherung der Grundstücke gegen Feuer- und Elementarschäden bestehen aus einem Grundbetrag sowie aus einem Flächenbetrag.
 
-- a. eine Instandstellung nicht möglich ist,
-- b. eine Instandstellung entsprechend der bisherigen Benützung des Grundstückes nicht nötig ist,
-- c. die Instandstellungskosten im Verhältnis zum bisherigen Ertrag oder gemessen am Wert des Landes unverhältnismässig gross sind.
-
-## 4 Allgemeine Versicherungsbestimmungen
-
-### 4.1 Finanzierung
+<sup>4</sup> Die BGV kann von denjenigen öffentlich-rechtlichen Körperschaften, deren forstliche Waldstrassen versichert sind, frühestens nach 3 Jahren seit Inkrafttreten dieses Gesetzes einen Zuschlag auf den Grundstücksversicherungsprämien erheben.
 
 #### § 30
 
-**Rechnungsführung**
+**Festlegung**
 
-<sup>1</sup> Für die Gebäudeversicherung und die Grundstückversicherung ist getrennt Rechnung zu führen. Beide Versicherungen müssen selbsttragend sein.
+<sup>1</sup> Der Verwaltungsrat legt die einzelnen Versicherungsprämien fest.
+
+<sup>2</sup> Er hat die Versicherungsprämien so festzulegen, dass sie ausreichen, um:
+
+- a. die Versicherungsleistungen, die Entschädigungen und die Zusatzleistungen auszurichten;
+- b. Rückstellungen zu tätigen und adäquate Reserven zu äufnen;
+- c. den Verpflichtungen aus den Verträgen und Beteiligungen gemäss § 3 Abs. 3 Bst. a nachzukommen;
+- d. die jeweiligen Verwaltungskosten zu decken.
+
+<sup>3</sup> Für die Festlegung allfälliger Zuschläge gemäss § 29 Abs. 4 ist die Einhaltung von Abs. 2 Bst. d fakultativ.
+
+### 5.2 Besondere Bestimmungen
 
 #### § 31
 
-**Prämiengrundsätze**
+**Veränderte Verhältnisse**
 
-<sup>1</sup> Die Prämien sind für beide Versicherungen nach anerkannten versicherungstechnischen Grundsätzen so festzulegen, dass die Einnahmen ausreichen, um:
-
-- a. die Schäden zu bezahlen,
-- b. ausreichende Reserven zu äufnen,
-- c. ...
-- d. die Verwaltungskosten zu decken.
-
-<sup>2</sup> Die BGV kann die erforderlichen Rückversicherungsverträge abschliessen oder sich Rückversicherungsgemeinschaften anschliessen. Diese Verträge bedürfen der Genehmigung durch die Verwaltungskommission.
+<sup>1</sup> Ändert der Versicherungswert eines Gebäudes oder die Versicherungsprämie oder besteht das Versicherungsverhältnis nur während eines Teils des Kalenderjahres, ist die Gesamtabgabe anteilsmässig zu entrichten. Angebrochene Monate werden als ganze gezählt.
 
 #### § 32
 
-**Grundprämien für die Gebäudeverslcherung**
+**Sicherung**
 
-<sup>1</sup> Für die Berechnung der Grundprämien ist die Bauart massgebend.
+<sup>1</sup> Die Rechnung für die obligatorisch basierten Teile der Gesamtabgabe ergeht als Verfügung und ist gerichtlichen Entscheiden gemäss Art. 80 des Bundesgesetzes über Schuldbetreibung und Konkurs (SchKG)[^32-1] gleichgestellt.
+
+<sup>2</sup> Für die obligatorisch basierten Teile der Gesamtabgabe besteht am Grundstück ein gesetzliches Grundpfandrecht gemäss § 148 Abs. 1 Bst. e des Gesetzes vom 16. November 2006[^32-2] über die Einführung des Schweizerischen Zivilgesetzbuches.
+
+[^32-1]: [SR 281.1](https://db.clex.ch/link/Bund/281.1/de)
+[^32-2]: [SGS 211](https://bl.clex.ch/data/211/de)
 
 #### § 33
 
-**Grundprämien für die Grundstückversicherung**
+**Haftung**
 
-<sup>1</sup> Die Grundprämie setzt sich aus einem Grund- und einem Flächenbetrag zusammen.
-
-<sup>2</sup> Beiträge aller Art für die Hilfeleistung bei Elementarschäden an Kulturland, Kulturen und Wald sind der Rechnung der Grundstückversicherung gutzuschreiben.
+<sup>1</sup> Wer ein Gebäude oder ein Grundstück erwirbt, haftet gegenüber der BGV für die noch ausstehenden Gesamtabgaben solidarisch mit der Person, die es veräussert hat.
 
 #### § 34
 
-**Zuschläge für erhöhte Schadengefahr und -vergütung**
+**Verjährung und Verrechnung**
 
-<sup>1</sup> Ist ein Gebäude oder ein Grundstück einer erhöhten Schadengefahr ausgesetzt oder ist mit erhöhter Schadenvergütung zu rechnen, kann ein Prämienzuschlag erhoben werden.
+<sup>1</sup> Zu wenig oder zu viel entrichtete Gesamtabgaben oder Teile davon können höchstens für das laufende und die vorangegangenen 5 Jahre nachgefordert bzw. zurückgefordert werden. Vorbehalten bleibt § 21 Abs. 2.
 
-<sup>2</sup> Wirkt sich die Gefahr auf Nachbargebäude oder -Grundstücke aus, ist der Prämienzuschlag auch für diese zu entrichten. Der belastete Eigentümer kann den Prämienzuschlag vom Verursacher zurückfordern, sofern vertraglich nicht etwas anderes vereinbart ist.
+<sup>2</sup> Die Verjährungsfrist beginnt:
 
-#### § 34a
+- a. mit der Meldung über den Beginn der Bauarbeiten bzw. über deren Ende;
+- b. mit der Meldung über die Änderung der Nutzungsart des Gebäudes; bzw.
+- c. ab dem Zeitpunkt des Abbruchs des Gebäudes.
 
-**Präventions- und Interventionsbeiträge**
+<sup>3</sup> Die BGV kann fällige Gesamtabgaben mit Versicherungsleistungen, Entschädigungen und Zusatzleistungen verrechnen.
 
-<sup>1</sup> Die Gebäudeeigentümerinnen und Gebäudeeigentümer entrichten nebst der Versicherungsprämie zweckgebundene Beiträge zur Finanzierung von Beiträgen für den hoheitlichen, präventiven und interventiven Schutz von Personen vor Feuerschäden sowie von Gebäuden und Anlagen vor Feuer- und Elementarschäden (kurz: Präventions- und Interventionsbeiträge).
-
-<sup>2</sup> Die Präventions- und Interventionsbeiträge müssen in einem angemessenen Verhältnis zur Versicherungsprämie stehen.
+## 6 Schadenfall
 
 #### § 35
 
-**Gefahrenerhöhung und -verminderung**
+**Pflichten**
 
-<sup>1</sup> Der Eigentümer hat der BGV jede wesentliche Gefahrenerhöhung innert Monatsfrist zu melden.
+<sup>1</sup> Die Versicherungsnehmerinnen und Versicherungsnehmer sowie die Benützerinnen und Benützer des versicherten Objekts sind im Schadenfall verpflichtet:
 
-<sup>2</sup> Hat die Eigentümerin oder der Eigentümer die wesentliche Gefahrenerhöhung nicht angezeigt, fordert die BGV die entgangenen Versicherungsprämien und Präventions- und Interventionsbeiträge nach.
+- a. den Schaden zu begrenzen, soweit es ihnen möglich und zumutbar ist;
+- b. den Schaden unverzüglich sowie vor dessen Behebung der BGV zu melden;
+- c. wesentliche Veränderungen am beschädigten Objekt zu unterlassen, sofern diese nicht von der BGV bewilligt wurden;
+- d. den Mitarbeitenden der BGV und deren beauftragten Dritten den Zutritt zum versicherten Objekt und dessen Begehung zu gewähren;
+- e. den Mitarbeitenden der BGV und deren beauftragten Dritten alle erforderlichen Auskünfte wahrheitsgetreu zu erteilen und ihnen alle dienlichen Unterlagen zur Verfügung zu stellen.
 
-<sup>3</sup> Bei Gefahrenverminderung sind die Versicherungsprämie und der Präventions- und Interventionsbeitrag von dem Zeitpunkt an zu berichtigen, da die Eigentümerin oder der Eigentümer der BGV die Änderung schriftlich mitgeteilt hat.
+<sup>2</sup> Die BGV verweigert oder kürzt die Versicherungsleistung, die Entschädigung oder die Zusatzleistungen, wenn die Pflichten gemäss Abs. 1 verletzt werden.
 
 #### § 36
 
-**Verjährung**
+**Schadensursache**
 
-<sup>1</sup> Der BGV entgangene oder von ihr zu Unrecht bezogene Versicherungsprämien und Präventions- und Interventionsbeiträge können höchstens für das laufende Jahr und die vorangegangenen 5 Jahre nach- oder zurückgefordert werden.
+<sup>1</sup> Die BGV ermittelt die Schadensursache in dem Umfange, der für die Versicherung bedeutsam ist.
+
+<sup>2</sup> Sie kann zur Ermittlung der Schadensursache sowie allfälliger Schadensverantwortlicher Dritte sowie Gemeinde- und Kantonsstellen beiziehen.
+
+<sup>3</sup> Die BGV ist berechtigt, eine Strafuntersuchung zu verlangen. In den Strafuntersuchungen und -verfahren stehen der BGV volle Parteirechte zu.
 
 #### § 37
 
-**Fälligkeit und Bezug**
+**Schadenshöhe**
 
-<sup>1</sup> Die Versicherungsprämie und der Präventions- und Interventionsbeitrag werden jährlich erhoben. Sie sind innert 30 Tagen nach Rechnungsstellung zu bezahlen.
+<sup>1</sup> Die BGV ermittelt die Schadenshöhe in dem Umfange, der für die Versicherung bedeutsam ist.
 
-<sup>2</sup> Ändert der Versicherungswert oder die Schadengefahr während des Kalenderjahres, sind die Versicherungsprämie und der Präventions- und Interventionsbeitrag den neuen Verhältnissen anzupassen. Für angebrochene Monate werden sie voll berechnet.
+<sup>2</sup> Sie kann zur Ermittlung der Schadenshöhe Dritte sowie Gemeinde- und Kantonsstellen beiziehen.
 
-<sup>3</sup> Im Schadenfall sind die Versicherungsprämie und der Präventions- und Interventionsbeitrag für das laufende Jahr voll geschuldet.
+## 7 Grundsätze der BGV-Leistungen
 
 #### § 38
 
-**Haftung**
+**Bereicherungsverbot**
 
-<sup>1</sup> Die Erwerberin oder der Erwerber und die Veräussererin oder der Veräusserer eines Gebäudes oder Grundstückes haften der BGV solidarisch für noch ausstehende Versicherungsprämien und Präventions- und Interventionsbeiträge.
-
-<sup>2</sup> Für die Versicherungsprämien und die Präventions- und Interventionsbeiträge sowie für die Schätzungskosten besteht ohne Eintragung in das Grundbuch das gesetzliche Grundpfandrecht gemäss § 148 des Gesetzes vom 16. November 2006[^38-1] über die Einführung des Zivilgesetzbuches (EG ZGB).
-
-<sup>3</sup> Die Versicherungsprämien-, die Präventions- und Interventionsbeiträge- und die Schätzungskostenrechnung sind einem vollstreckbaren Urteil im Sinne des Artikels 80 des Bundesgesetzes über Schuldbetreibung und Konkurs gleichgestellt.
-
-[^38-1]: GS 36.153, SGS [211](https://bl.clex.ch/data/211/de)
-
-### 4.2 Ausschluss
+<sup>1</sup> Versicherungsleistungen, Entschädigungen und Zusatzleistungen dürfen zu keiner Bereicherung der Versicherungsnehmerinnen und Versicherungsnehmer oder Dritter führen.
 
 #### § 39
 
-**Ausschluss, Vorbehalt**
+**Selbstbehalte**
 
-<sup>1</sup> Die BGV kann ein Gebäude oder ein Grundstück teilweise im Sinne eines Deckungsvorbehalts oder ganz von der Versicherung ausschliessen, wenn:
+<sup>1</sup> Der Verwaltungsrat kann Selbstbehalte auf Versicherungsleistungen, Entschädigungen und Zusatzleistungen festlegen.
 
-- a. die Schadengefahr besonders gross und durch zumutbare Abwehrmassnahmen nicht angemessen gemindert worden ist oder
-- b. eine angeordnete Schutzmassnahme gemäss der Gesetzgebung über die Brand- und Naturgefahrenprävention nicht oder nicht vollständig umgesetzt worden ist.
-
-<sup>1<sup>bis</sup></sup> Bei teilweisem Ausschluss ist die Versicherungsprämie und der Präventions- und Interventionsbeitrag vollständig zu entrichten.
-
-<sup>2</sup> Derartige Verfügungen dürfen erst erlassen werden, wenn die Massnahmen nicht fristgerecht getroffen worden sind. In ausserordentlichen Fällen kann ein Ausschluss oder ein Vorbehalt sofort verfügt werden.
-
-<sup>3</sup> Sobald der Eigentümer den Nachweis erbracht hat, dass der Gefahrenzustand beseitigt ist, hat die BGV das Gebäude oder das Grundstück wieder in die Versicherung aufzunehmen bzw. den Vorbehalt aufzuheben.
-
-<sup>4</sup> Der Ausschluss und die Wiederaufnahme sind dem Eigentümer, dem Grundbuchamt, den Grundpfandgläubigern und der Gemeinde schriftlich mitzuteilen.
-
-### 4.3 Rechte und Pflichten im Schadenfall
+<sup>2</sup> Allfällige Selbstbehalte müssen verhältnismässig sein und haben sich im branchenüblichen Umfang zu halten.
 
 #### § 40
 
-**Anzeigepflicht**
+**Schuldhafte Schadensverursachung**
 
-<sup>1</sup> Ein Schaden ist der BGV unverzüglich zu melden.
+<sup>1</sup> Versicherungsnehmerinnen und Versicherungsnehmer, die ein versichertes Schadensereignis vorsätzlich herbeiführten, haben keinen Anspruch auf die Versicherungsleistung, die Entschädigung oder die Zusatzleistungen.
+
+<sup>2</sup> Die BGV kürzt die Versicherungsleistung, die Entschädigung oder die Zusatzleistungen nach Massgabe des Verschuldens, wenn:
+
+- a. die Versicherungsnehmerin oder der Versicherungsnehmer das versicherte Schadensereignis grobfahrlässig herbeiführte;
+- b. die Versicherungsnehmerin oder der Versicherungsnehmer bei der Beaufsichtigung, der Anstellung oder Aufnahme derjenigen Person grobfahrlässig gehandelt hat, die in häuslicher Gemeinschaft mit ihr oder ihm lebt oder für deren Handlungen sie oder er einstehen muss und die ein versichertes Schadensereignis vorsätzlich oder grobfahrlässig herbeiführte.
 
 #### § 41
 
-**Säumnisfolge**
+**Ausrichtung**
 
-<sup>1</sup> Die BGV ist zur Ablehnung eines Entschädigungsbegehrens berechtigt, wenn:
-
-- a. die Anzeige so spät eingereicht wird, dass Schadenursache oder -umfang nicht mehr festgestellt werden kann,
-- b. die Meldung erst nach Behebung des Schadens erfolgt,
-- c. der Entschädigungsanspruch nicht innert 1 Jahr nach dem Schadenereignis geltend gemacht wird.
+<sup>1</sup> Die BGV richtet die Versicherungsleistung, die Entschädigung oder die Zusatzleistungen entweder an die Versicherungsnehmerin oder den Versicherungsnehmer oder auf deren Anweisung an Dritte aus. Vorbehalten bleibt § 42.
 
 #### § 42
 
-**Pflicht zur Schadenminderung**
+**Grundpfandrechte**
 
-<sup>1</sup> Im Schadenfall sind die Eigentümer und die Benützer eines Gebäudes oder Grundstückes verpflichtet, alle zumutbaren Vorkehren zu treffen, die geeignet sind, den Schaden möglichst klein zu halten.
+<sup>1</sup> Bestehen auf dem Schadensobjekt Grundpfandrechte, richtet die BGV die Versicherungsleistung, die Entschädigung oder die Zusatzleistungen gemäss der Vereinbarung zwischen der Grundpfandgläubigerschaft und der Versicherungsnehmerin oder dem Versicherungsnehmer aus (Art. 822 Abs. 1 ZGB).
 
-<sup>2</sup> Die BGV vergütet ihrem Interesse entsprechend die hiefür aufgewendeten Kosten. Ausgenommen sind Auslagen für unzweckmässige Vorkehren.
+<sup>2</sup> Ändert die Eigentümerschaft eines grundpfandbelasteten Schadensobjekts bevor die Schadenabwicklung abgeschlossen ist, richtet die BGV die Versicherungsleistung, die Entschädigung oder die Zusatzleistungen gemäss der Vereinbarung zwischen der vorherigen Eigentümerschaft, der jetzigen Eigentümerschaft, der vorherigen Grundpfandgläubigerschaft und der jetzigen Grundpfandgläubigerschaft aus.
+
+<sup>3</sup> Solange die Vereinbarung gemäss Abs. 1 bzw. 2 nicht zustande kommt, ist die BGV nicht zur Ausrichtung der Versicherungsleistung, der Entschädigung oder der Zusatzleistungen verpflichtet.
 
 #### § 43
 
-**Ermittlungsverfahren**
+**Anspruchsübergang und Rückgriffsrecht**
 
-<sup>1</sup> Zur Ermittlung der Ursache und zur Feststellung allfälliger Verantwortlichkeiten ist bei Feuerschäden durch die Staatsanwaltschaft eine Untersuchung zu führen. Nach abgeschlossener Untersuchung sind die Akten der BGV zur Einsichtnahme zuzustellen.
+<sup>1</sup> Haften Dritte für den Schaden an einem versicherten Objekt, gehen die Schadenersatzansprüche der Versicherungsnehmerin oder des Versicherungsnehmers auf die BGV über, soweit diese Versicherungsleistungen, Entschädigungen oder Zusatzleistungen ausgerichtet hat.
 
-<sup>2</sup> Die BGV ist berechtigt, auch bei anderen Schadenereignissen eine derartige Untersuchung zu verlangen.
+<sup>2</sup> Der BGV steht das Rückgriffsrecht auf haftpflichtige Dritte zu.
 
-<sup>3</sup> Der BGV stehen im Strafverfahren die gleichen Rechte wie dem Verletzten zu.
+<sup>3</sup> Die Versicherungsnehmerin oder der Versicherungsnehmer ist gegenüber der BGV für jede ihrer bzw. seiner Handlung ersatzpflichtig, die deren Rückgriffsrecht schmälert.
 
 #### § 44
 
-**Schadenschätzung**
+**Schadenersatz**
 
-<sup>1</sup> Die BGV ermittelt die Höhe des Schadens auf ihre Kosten.
+<sup>1</sup> Die BGV leistet Ersatz für Schäden an Bauten, Anlagen, Einrichtungen, Gärten, Wegen und Plätzen, die durch die Bekämpfung eines versicherten Schadensereignisses entstanden sind.
 
-<sup>2</sup> Ohne Zustimmung der BGV dürfen am Gebäude oder am Grundstück keine Veränderungen vorgenommen werden. Ausgenommen sind Veränderungen, die der Schadenminderung dienen oder die aus polizeilichen Gründen geboten sind.
+<sup>2</sup> § 43 gilt sinngemäss.
+
+## 8 Leistungen bei Gebäudeschäden
+
+### 8.1 Wiederherstellung
 
 #### § 45
 
-**Verbot der Bereicherung**
+**Definition**
 
-<sup>1</sup> Die Entschädigung darf den Betrag des wirklich erlittenen Schadens nicht übersteigen. In keinem Fall darf sich der Eigentümer bereichern.
+<sup>1</sup> Als Wiederherstellung eines total- oder teilbeschädigten Gebäudes gilt der Wiederaufbau eines Gebäudes bzw. Gebäudeteils in finanziell vergleichbarer Bauart, in vergleichbarem Volumen, in gleichem Ausbaustandard sowie im Kantonsgebiet.
 
 #### § 46
 
-**Allgemeiner Selbstbehalt**
+**Versicherungsleistungen**
 
-<sup>1</sup> Die Verwaltungskommission kann für bestimmte Schadenereignisse einen allgemeinen Selbstbehalt festsetzen. Dieser ist massvoll festzulegen und hat sich im branchenüblichen Rahmen zu halten.
+<sup>1</sup> Die BGV richtet für ein totalbeschädigtes Gebäude folgende Versicherungsleistungen aus:
+
+- a. bei Neuwertversicherung den Betrag der notwendigen Wiederherstellungskosten bis zur Höhe des Versicherungswerts gemäss Police;
+- b. bei Zeitwertversicherung, die aufgrund der Police besteht, den Betrag der notwendigen Wiederherstellungskosten bis zur Höhe des Versicherungswerts gemäss Police;
+- c. bei Zeitwertversicherung, die erst im Schadensfall festgestellt wird, den Betrag des festgestellten, doppelten Zeitwerts sowie den Betrag der zu viel entrichteten Gesamtabgabe für höchstens 5 Jahre;
+- d. bei festem Versicherungswert den Betrag des Versicherungswerts gemäss Police.
+
+<sup>2</sup> Sie richtet bei der Wiederherstellung eines teilbeschädigten Gebäudes die Versicherungsleistungen analog zu Abs. 1 bis höchstens zu derjenigen Höhe aus, die dem Anteil des Schadens am Gebäude entspricht.
+
+<sup>3</sup> Sie richtet bei der Wiederherstellung eines total- oder teilbeschädigten Gebäudes, das sich im Bau befindet, die Versicherungsleistung in der Höhe der notwendigen Wiederherstellungskosten aus.
 
 #### § 47
 
-**Verwirkung und Kürzung**
+**Ausnahmen**
 
-<sup>1</sup> Hat der Eigentümer den Schaden vorsätzlich herbeigeführt, besteht kein Anspruch auf Entschädigung.
+<sup>1</sup> Die BGV kann in den Fällen von § 46 Abs. 1 Bst. a und b bei wichtigen Gründen eine Versicherungsleistung ausrichten, die den Versicherungswert gemäss Police übersteigt.
 
-<sup>2</sup> Bei grober Fahrlässigkeit kann die Entschädigung dem Grad des Verschuldens entsprechend gekürzt werden.
+<sup>2</sup> Sie kann eine angemessen gekürzte Versicherungsleistung ausrichten, wenn im Falle einer Unterversicherung die Versicherungsnehmerin oder der Versicherungsnehmer die Meldepflichten gemäss § 21 Abs. 1 verletzt hat.
 
 #### § 48
 
-**Zahlung der Entschädigung**
+**Versicherungsleistung bei ungleichwertiger Wiederherstellung**
 
-<sup>1</sup> Bei Wiederherstellung wird die Entschädigung ausbezahlt, wenn der Schaden behoben ist. Bei grossen Schäden können Teilzahlungen geleistet werden.
+<sup>1</sup> Die BGV richtet bei ungleichwertiger Wiederherstellung eines total- oder teilbeschädigten Gebäudes, bei dem ein Wiederherstellungskriterium gemäss § 45 Abs. 1 wertmässig über- oder unterschritten wird, für die Wertdifferenz keine Versicherungsleistung aus.
 
-<sup>2</sup> Bei Nichtwiederherstellung wird die Entschädigung ausbezahlt, wenn der Schadenplatz geräumt worden ist.
-
-<sup>3</sup> Die Zahlung der Entschädigung gemäss § 29 bleibt vorbehalten.
+<sup>2</sup> Werden Wiederherstellungskriterien gemäss § 45 Abs. 1 wertmässig einerseits über- und andererseits unterschritten, werden die Wertdifferenzen miteinander verrechnet.
 
 #### § 49
 
-**Sicherung der Grundpfandgläubiger**
+**Pflichten und Säumnisfolgen**
 
-<sup>1</sup> Bestehen auf dem Schadenobjekt Grundpfandrechte, darf die Entschädigung nur mit Zustimmung aller Grundpfandgläubiger an den Eigentümer ausbezahlt werden. (Artikel 822 ZGB).
+<sup>1</sup> Die Versicherungsnehmerinnen und Versicherungsnehmer sind verpflichtet:
 
-<sup>2</sup> Wird die Zustimmung verweigert, darf die Entschädigung dem Eigentümer erst ausbezahlt werden, wenn das Schadenobjekt wieder hergestellt ist.
+- a. die Wiederherstellung des total beschädigten Gebäudes oder des beschädigten Gebäudeteils innert 5 Jahren seit dem Schadensereignis zu vollenden;
+- b. die Begehren um Auszahlung von Versicherungsleistungen und allfälliger Zusatzleistungen durch Rechnungen zu belegen;
+- c. die Auszahlungsbegehren gemäss Bst. b spätestens innert 1 Jahr seit dem Ende der Wiederherstellungsfrist zu stellen.
 
-<sup>3</sup> Soweit Grundpfandgläubiger für ihre Forderungen aus dem Vermögen des Schuldners nicht gedeckt sind, haftet die BGV bis zur Höhe der Entschädigung auch dann, wenn der Eigentümer des Entschädigungsanspruches ganz oder teilweise verlustig geht.
+<sup>2</sup> Bei Nichteinhaltung der Wiederherstellungsfrist sind die Ansprüche auf Versicherungsleistung und auf allfällige Zusatzleistungen verwirkt.
 
-<sup>4</sup> Der Eigentümer hat der BGV die Leistungen an die Grundpfandgläubiger zurückzuerstatten.
+<sup>3</sup> Zu spät gestellte Auszahlungsbegehren gelten als verwirkt.
 
-<sup>5</sup> Bei einem vollständigen Ausschluss von der Versicherung ist die BGV gemäss Absatz 3 bis zur Rückzahlung der Grundpfandschulden entschädigungspflichtig, längstens jedoch während 2 Jahren. Für diese Zeit hat die Eigentümerin oder der Eigentümer die Versicherungsprämie und den Präventions- und Interventionsbeitrag uneingeschränkt zu entrichten.
+### 8.2 Nichtwiederherstellung
 
 #### § 50
 
-**Rückgriff**
+**Definition**
 
-<sup>1</sup> Ist ein Dritter für den Schaden haftbar, gehen die Schadenersatzansprüche des Eigentümers auf die BGV über, soweit sie Entschädigung leistet. Die BGV ist nach den Bestimmungen des Obligationenrechts zum Rückgriff auf den Verantwortlichen berechtigt.
+<sup>1</sup> Als Nichtwiederherstellung eines total- oder teilbeschädigten Gebäudes gilt:
 
-<sup>2</sup> Der Eigentümer ist für jede Handlung, durch die er dieses Recht der BGV schmälert, verantwortlich.
-
-### 4.4 Rechtspflege
+- a. der Verzicht auf den Wiederaufbau des Gebäudes auf dem Kantonsgebiet bzw. der Verzicht auf den Wiederaufbau des Gebäudeteils; oder
+- b. die Nichteinhaltung der Wiederherstellungsfrist.
 
 #### § 51
 
-**Verfahren**
+**Entschädigung**
 
-<sup>1</sup> Gegen Verfügungen der Direktion der BGV kann innert 10 Tagen bei der Verwaltungskommission Beschwerde erhoben werden.
+<sup>1</sup> Die BGV richtet bei Nichtwiederherstellung eines total- oder teilbeschädigten Gebäudes eine Entschädigung in der Höhe des vollen bzw. anteilsmässigen Verkehrswerts zum Zeitpunkt des Schadenereignisses aus.
 
-<sup>2</sup> Zur Behandlung von Beschwerden kann die Verwaltungskommission fachkundige Experten beiziehen.
-
-<sup>3</sup> Gegen Verfügungen der Verwaltungskommission kann innert 10 Tagen beim Kantonsgericht (Abteilung Verfassungs- und Verwaltungsrecht) Beschwerde erhoben werden.
-
-<sup>4</sup> Rückgriffsansprüche sind beim Zivilrichter geltend zu machen.
-
-## 5 ...
+<sup>2</sup> Als Verkehrswert gilt der handelsübliche Verkaufswert des Gebäudes bzw. des Gebäudeteils ohne Land.
 
 #### § 52
 
-**…**
+**Pflichten und Säumnisfolgen**
+
+<sup>1</sup> Die Versicherungsnehmerinnen und Versicherungsnehmer sind verpflichtet:
+
+- a. das totalbeschädigte Gebäude oder den beschädigten Gebäudeteil innert 5 Jahren seit dem Schadensereignis abzuräumen;
+- b. die Begehren um Auszahlung allfälliger Zusatzleistungen durch Rechnungen zu belegen;
+- c. die Auszahlungsbegehren gemäss Bst. b spätestens innert 1 Jahr seit dem Ende der Abräumungsfrist zu stellen.
+
+<sup>2</sup> Bei Nichteinhaltung der Abräumungsfrist sind die Ansprüche auf Entschädigung und auf allfällige Zusatzleistungen verwirkt.
+
+<sup>3</sup> Zu spät gestellte Auszahlungsbegehren gelten als verwirkt.
+
+### 8.3 Gemeinsame Bestimmungen
 
 #### § 53
 
-**…**
+**Zusatzleistungen**
+
+<sup>1</sup> Die BGV richtet zur Versicherungsleistung oder zur Entschädigung folgende Zusatzleistungen aus:
+
+- a. Ersatz der Kosten für Schadenminderungsmassnahmen für das Gebäude, die vor einem akut drohenden Schadenseintritt oder während oder nach diesem getroffen worden und nicht offensichtlich unzweckmässig gewesen sind;
+- b. Ersatz der Kosten für Massnahmen, die zum Schutz noch vorhandener Gebäudeteile erforderlich sind;
+- c. Ersatz der Kosten für notwendige, das Gebäude betreffende Abbruch-, Räumungs- und Entsorgungsmassnahmen bis insgesamt höchstens 15 % des Versicherungsneuwerts;
+- d. Ausgleich von schadensbedingten Mietzinsausfällen bei Wohnräumen samt zugehörigen Bastelräumen und Autoeinstellplätzen während längstens 12 Monaten.
+
+<sup>2</sup> Sie richtet ausserdem Zusatzleistungen für Massnahmen aus, die vor einem akut drohenden Schadenseintritt getroffen worden sind und die das sichere Entstehen von versicherten Schäden am Gebäude verhindert haben.
 
 #### § 54
 
-**…**
+**Minderwertabgeltung**
 
-## 6 Schlussbestimmungen
+<sup>1</sup> Die BGV kann anstelle der Versicherungsleistung einen Minderwert abgelten, wenn:
+
+- a. ein beschädigter Gebäudebestandteil noch gebrauchstauglich ist, dessen Reparatur oder Neuanschaffung aber unverhältnismässig wäre;
+- b. die Wiederherstellungskosten im Vergleich zum entstandenen Schaden unverhältnismässig hoch wären.
 
 #### § 55
 
-**Massgebendes Recht**
+**Abbruchobjekt**
 
-<sup>1</sup> Die Verpflichtungen der BGV und der Versicherten richten sich nach dem Recht, unter dem sie entstanden sind.
+<sup>1</sup> Als Abbruchobjekt gilt ein Gebäude, das abgebrochen werden soll oder das wegen seines Zerfalls nicht mehr benutzbar ist, unabhängig davon, ob es nach einer Beschädigung wiederhergestellt wird oder nicht.
 
-<sup>2</sup> Die aufgrund des bisherigen Gesetzes rechtskräftigen Versicherungswerte gelten bis zu einer Neuschätzung weiter; sie sind auch massgebend für die Bestimmung des Neuwertes.
+<sup>2</sup> Die BGV richtet für beschädigte Gebäudeteile eines Abbruchobjekts eine Abbruchentschädigung aus für die Kosten einer behelfsmässigen Notreparatur und/oder für Abbruch-, Räumungs- und Entsorgungskosten.
+
+<sup>3</sup> Sie erstattet zudem zu viel entrichtete Gesamtabgaben für längstens 5 Jahre zurück.
+
+<sup>4</sup> Zusätzlich zur Abbruchentschädigung werden keine Zusatzleistungen ausgerichtet.
 
 #### § 56
 
-**Aufhebung bisherigen Rechts**
+**Zeitpunkt der Auszahlung**
 
-<sup>1</sup> Es werden aufgehoben:
+<sup>1</sup> Die BGV zahlt die Versicherungsleistung und die allfälligen Zusatzleistungen nach Massgabe des Wiederherstellungsfortschritts aus.
 
-- a. die §§ 1–65 des Gesetzes vom 26. August 1963 [^56-1] über die Versicherung von Schäden an Gebäuden, Land, Kulturen und Mobilien sowie über die Förderung der Brandverhütung und des Löschwesens (Versicherungsgesetz),
-- b. die §§ 1–15 der Vollziehungsverordnung vom 19. Dezember 1963[^56-2] zum Gesetz über die Versicherung von Schäden an Gebäuden, Land, Kulturen und Mobilien sowie über die Förderung der Brandverhütung und des Löschwesens (Versicherungsgesetz).
+<sup>2</sup> Sie zahlt die Entschädigungen und die allfälligen Zusatzleistungen nach erfolgter Räumung des beschädigten Gebäudes oder Gebäudeteils aus.
 
-[^56-1]: GS 22.526
-[^56-2]: GS 22.576
+<sup>3</sup> Die BGV kann bei versicherten Elementarschäden, die mit Sicherheit in naher Zukunft eintreten werden, ihre Leistungen schon vor dem Schadeneintritt ausrichten.
+
+## 9 Leistungen bei Grundstücksschäden
 
 #### § 57
 
-**Inkrafttreten**
+**Versicherungsleistung**
 
-<sup>1</sup> Der Landrat beschliesst das Inkrafttreten dieses Gesetzes.[^57-1]
+<sup>1</sup> Die BGV richtet für beschädigte Grundstücke, vorbehältlich Abs. 2, folgende Versicherungsleistungen aus:
 
-[^57-1]: Durch LRB vom 30. April 1981 auf den 1. Januar 1982 in Kraft gesetzt.
+- a. bei beschädigtem Boden den Betrag der notwendigen Wiederherstellungskosten;
+- b. bei beschädigten, gesunden Kulturen oder beschädigtem, gesundem Bewuchs den Betrag für die notwendigen Pflegekosten und für die Beschaffung und Bepflanzung der entsprechenden Jungpflanzen.
 
-GS 27.690
+<sup>2</sup> Sie richtet bei beschädigtem Wald folgende Versicherungsleistungen aus:
+
+- a. den Betrag für die Massnahmen einer notwendigen Wiederherstellung des ursprünglichen Erdreichs und/oder der ursprünglichen Waldstrasse;
+- b. einen Betrag für die erschwerte Holzhauerei sowie für die Holzentwertung.
+
+<sup>3</sup> Erfährt das beschädigte Grundstück durch die Wiederherstellung eine Verbesserung, sind deren Kosten durch die Versicherungsnehmerin oder den Versicherungsnehmer zu tragen.
+
+#### § 58
+
+**Pflichten und Säumnisfolgen**
+
+<sup>1</sup> Die Versicherungsnehmerinnen und Versicherungsnehmer sind verpflichtet:
+
+- a. die Wiederherstellung des beschädigten Grundstücks innert 5 Jahren seit dem Schadensereignis zu vollenden;
+- b. die Begehren um Auszahlung von Versicherungsleistungen und allfälliger Zusatzleistungen durch Rechnungen zu belegen;
+- c. die Auszahlungsbegehren gemäss Bst. b spätestens innert 1 Jahr seit dem Ende der Wiederherstellungsfrist zu stellen.
+
+<sup>2</sup> Bei Nichteinhaltung der Wiederherstellungsfrist sind die Ansprüche auf Versicherungsleistung und auf allfällige Zusatzleistungen verwirkt.
+
+<sup>3</sup> Zu spät gestellte Auszahlungsbegehren gelten als verwirkt.
+
+#### § 59
+
+**Entschädigung**
+
+<sup>1</sup> Die BGV richtet bei Nichtwiederherstellung eines beschädigten Grundstückes eine angemessene Entschädigung aus.
+
+#### § 60
+
+**Zusatzleistungen**
+
+<sup>1</sup> Die BGV richtet zur Versicherungsleistung oder zur Entschädigung folgende Zusatzleistungen aus:
+
+- a. Ersatz der Kosten für Schadenminderungsmassnahmen für das Grundstück, die vor einem akut drohenden Schadenseintritt oder während oder nach diesem getroffen worden und nicht offensichtlich unzweckmässig gewesen sind;
+- b. Ersatz der Kosten für notwendige, das Grundstück betreffende Räumungs- und Entsorgungsmassnahmen mit Ausnahme solcher für beschädigte Waldbestockung.
+
+<sup>2</sup> Sie richtet ausserdem Zusatzleistungen für Massnahmen aus, die vor einem akut drohenden Schadenseintritt getroffen worden sind und die das sichere Entstehen von versicherten Schäden verhindert haben.
+
+#### § 61
+
+**Minderwertabgeltung**
+
+<sup>1</sup> Die BGV kann anstelle der Versicherungsleistung einen Minderwert abgelten, wenn:
+
+- a. eine Wiederherstellung des ursprünglichen Zustands aufgrund der bisherigen Nutzung nicht notwendig ist;
+- b. die Wiederherstellungskosten im Vergleich zum entstandenen Schaden unverhältnismässig hoch wären.
+
+#### § 62
+
+**Zeitpunkt der Auszahlung**
+
+<sup>1</sup> Die BGV zahlt die Versicherungsleistung und die allfälligen Zusatzleistungen nach Massgabe des Wiederherstellungsfortschritts aus.
+
+<sup>2</sup> Sie kann bei Schäden, die durch Sturmwind oder Eisregen entstanden sind, sowie in besonderen Fällen die Versicherungsleistung und die allfälligen Zusatzleistungen bereits nach Feststellung des Schadens auszahlen.
+
+## 10 Basellandschaftliche Gebäudeversicherung
+
+### 10.1 Organisation
+
+#### § 63
+
+**Organe**
+
+<sup>1</sup> Die BGV umfasst folgende Organe:
+
+- a. Verwaltungsrat, bestehend aus 5–7 Mitgliedern;
+- b. Geschäftsleitung.
+
+<sup>2</sup> Der Verwaltungsrat bildet das strategische Führungsorgan gemäss § 5 des Gesetzes vom 15. Juni 2017[^63-1] über die Beteiligungen (Public Corporate Governance, PCGG).
+
+[^63-1]: [SGS 314](https://bl.clex.ch/data/314/de/art5)
+
+#### § 64
+
+**Rechnungsrevision**
+
+<sup>1</sup> Die BGV unterliegt der Rechnungsrevision.
+
+<sup>2</sup> Die Rechnungsrevision ist durch eine Revisionsgesellschaft nach anerkannten Standards durchzuführen.
+
+#### § 65
+
+**Regierungsrat**
+
+<sup>1</sup> Der Regierungsrat übt gemäss § 9 Abs. 1 PCGG die Aufsicht über die BGV aus.
+
+<sup>2</sup> Er nimmt weiter die Funktionen gemäss § 9 Abs. 2 PCGG wahr, so insbesondere:
+
+- a. Wahl der Mitglieder des Verwaltungsrats;
+- b. Bestimmung der Präsidentin oder des Präsidenten des Verwaltungsrats aus dessen Mitte;
+- c. Genehmigung des Geschäftsberichts und der Jahresrechnung.
+
+<sup>3</sup> Er bestimmt die Höhe der jährlichen Beiträge, die die privaten Versicherungsgesellschaften der BGV zur Förderung der Schadenverhütung und -bekämpfung zu leisten haben.
+
+#### § 66
+
+**Landrat**
+
+<sup>1</sup> Der Landrat übt gemäss § 10 Abs. 1 PCGG die Oberaufsicht über die BGV aus.
+
+<sup>2</sup> Er nimmt weiter die Funktionen gemäss § 10 Abs. 2 PCGG wahr, so insbesondere die Kenntnisnahme des Geschäftsberichts und der Jahresrechnung.
+
+### 10.2 Aufgaben
+
+#### § 67
+
+**Verwaltungsrat**
+
+<sup>1</sup> Der Verwaltungsrat nimmt in den Bereichen Brand- und Naturgefahrenprävention, Feuerwehr sowie Versicherungen insbesondere die nachfolgenden Aufgaben wahr:
+
+- a. Er nimmt die Aufgaben wahr, die ihm von den Gesetzgebungen über die Brand- und Naturgefahrenprävention, über die Feuerwehr sowie über die Gebäudeversicherung aufgetragen sind.
+- b. Er bestimmt im Rahmen der Eigentümerstrategie des PCGG die strategische Ausrichtung der BGV und führt sie in strategischer Hinsicht.
+- c. Er sorgt für die finanzielle Stabilität der BGV, für ein internes Kontrollsystem (IKS) sowie für die Einhaltung der Rechtsvorschriften (Compliance).
+- d. Er legt die interne Organisation der BGV fest.
+- e. Er erlässt die notwendigen Reglemente und Richtlinien.
+
+#### § 68
+
+**Geschäftsleitung**
+
+<sup>1</sup> Die Geschäftsleitung nimmt in den Bereichen Brand- und Naturgefahrenprävention, Feuerwehr sowie Versicherungen insbesondere die nachfolgenden Aufgaben wahr:
+
+- a. Sie nimmt die Aufgaben wahr, die ihr von den Gesetzgebungen über die Brand- und Naturgefahrenprävention, über die Feuerwehr sowie über die Gebäudeversicherung aufgetragen sind.
+- b. Sie setzt die strategischen Vorgaben des Verwaltungsrats um, erfüllt dessen Aufträge und führt die BGV in operativer Hinsicht.
+- c. Sie erlässt die notwendigen internen Weisungen.
+- d. Sie vertritt die BGV nach aussen.
+
+## 11 Schlussbestimmungen
+
+#### § 69
+
+**Rechtspflege**
+
+<sup>1</sup> Bei Uneinigkeiten zwischen der BGV und den Versicherungsnehmerinnen und Versicherungsnehmern suchen sich die Parteien auf gütlichem Wege zu einigen. Erfolgt keine Einigung, erlässt die Geschäftsleitung eine Verfügung.
+
+<sup>2</sup> Gegen die Verfügung der Geschäftsleitung kann innert 10 Tagen beim Verwaltungsrat Beschwerde erhoben werden.
+
+<sup>3</sup> Das Verfügungs- und das Beschwerdeverfahren richten sich nach dem Verwaltungsverfahrensgesetz[^69-1].
+
+<sup>4</sup> Gegen den Entscheid des Verwaltungsrats kann innert 10 Tagen beim Kantonsgericht (Abteilung Verfassungs- und Verwaltungsrecht) Beschwerde erhoben werden. Das Verfahren richtet sich nach der Verwaltungsprozessordnung[^69-2].
+
+[^69-1]: [SGS 175](https://bl.clex.ch/data/175/de)
+[^69-2]: [SGS 271](https://bl.clex.ch/data/271/de)
+
+#### § 70
+
+**Übergangsbestimmungen**
+
+<sup>1</sup> Schadenfälle, die sich vor dem Inkrafttreten dieses Gesetzes und seiner Ausführungsbestimmungen ereignet haben, werden nach bisherigem Recht erledigt.
+
+<sup>2</sup> Die Rechtspflege richtet sich nach dem neuen Recht.
+
+GS 2022.106
