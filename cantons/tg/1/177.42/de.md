@@ -4,13 +4,13 @@ number: "177.42"
 title: Pensionskassenreglement
 short: R PKTG
 language: de
-version: 2022-07-01
-valid_until: 2022-12-31
-version_adopted: 2022-06-08
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2023-05-31
 adopted: 2019-06-12
 in_force: 2020-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/177.42"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2527/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2692/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ R PKTG
 
 (R PKTG)
 
-vom 12.06.2019 (Stand 01.07.2022)
+vom 12.06.2019 (Stand 01.01.2023)
 
 Erlassen von der Pensionskassenkommission der Pensionskasse Thurgau.
 
@@ -286,7 +286,7 @@ Erlassen von der Pensionskassenkommission der Pensionskasse Thurgau.
 
 <sup>1</sup> Allfällige Sonderleistungen des Arbeitgebers werden zwingend als Rente ausgerichtet.
 
-<sup>2</sup> Angehörige des Polizeikorps erhalten ab dem vollendeten 62. Altersjahres bis zum Erreichen des AHV-Alters eine Arbeitgeberrente, die durch den Arbeitgeber finanziert wird. Die Arbeitgeberrente wird entsprechend dem durchschnittlichen Beschäftigungsgrad zwischen dem 54. und 57. Altersjahr berechnet. Bei einem Eintritt nach dem 54. Altersjahr erfolgt die Berechnung aufgrund der 3 Jahre nach dem Eintritt. Die Kürzungsbedingungen gemäss § 30 Abs. 3 bis Abs. 5 gelten sinngemäss, vorbehalten bleibt § 78.
+<sup>2</sup> Angehörige des Polizeikorps erhalten ab dem vollendeten 62. Altersjahres bis zum Erreichen des AHV-Referenzalters eine Arbeitgeberrente, die durch den Arbeitgeber finanziert wird. Die Arbeitgeberrente wird entsprechend dem durchschnittlichen Beschäftigungsgrad zwischen dem 54. und 57. Altersjahr berechnet. Bei einem Eintritt nach dem 54. Altersjahr erfolgt die Berechnung aufgrund der 3 Jahre nach dem Eintritt. Die Kürzungsbedingungen gemäss § 30 Abs. 3 bis Abs. 5 gelten sinngemäss, vorbehalten bleibt § 78.
 
 ## 5. Leistungen
 
@@ -329,13 +329,15 @@ Erlassen von der Pensionskassenkommission der Pensionskasse Thurgau.
 
 <sup>2</sup> Der Anspruch auf die Altersrente beginnt am Monatsersten nach Erreichen des Pensionierungsalters. Der Anspruch auf die Altersrente erlischt am Ende des Sterbemonats.
 
-<sup>3</sup> Beendet eine versicherte Person das Arbeitsverhältnis beim Arbeitgeber nach Erreichen des AHV-Alters ohne eine neue Stelle anzutreten oder sich arbeitslos zu melden, erfolgt die Pensionierung. Vorbehalten bleiben § 21 und § 45 bis § 47.
+<sup>3</sup> Beendet eine versicherte Person das Arbeitsverhältnis beim Arbeitgeber nach Erreichen des AHV-Referenzalters ohne eine neue Stelle anzutreten oder sich arbeitslos zu melden, erfolgt die Pensionierung. Vorbehalten bleiben § 21 und § 45 bis § 47.
 
 #### § 20
 
 **Höhe der Altersrente**
 
 <sup>1</sup> Die Höhe der Altersrente ergibt sich aus der Multiplikation des im Zeitpunkt der Pensionierung vorhandenen Sparguthabens mit dem reglementarisch festgelegten Umwandlungssatz zum Zeitpunkt des Rentenbezuges.
+
+<sup>1<sup>bis</sup></sup> Die maximale Höhe der jährlichen Altersrente gemäss Abs. 1 ist auf die 10fache maximale, jährliche AHV-Rente begrenzt. Wird für die Finanzierung der Altersrente nicht das gesamte Sparguthaben benötigt, ist der überschiessende Teil des Sparguthabens zwingend in Kapitalform gemäss § 23 zu beziehen.
 
 <sup>2</sup> Bezieht eine versicherte Person beim Erreichen des ordentlichen Pensionierungsalters eine Invalidenrente, wird diese durch eine Altersrente gemäss Abs. 1 ersetzt.
 
@@ -373,7 +375,7 @@ Erlassen von der Pensionskassenkommission der Pensionskasse Thurgau.
 
 <sup>4</sup> Bei verheirateten, in eingetragener Partnerschaft oder bei der PKTG angemeldeter Lebensgemeinschaft lebenden versicherten Personen ist die Kapitalauszahlung nur zulässig, wenn die Ehegattin oder der Ehegatte beziehungsweise die Partnerin oder der Partner schriftlich zustimmt.
 
-<sup>5</sup> Wird unmittelbar vor der Pensionierung eine Invalidenrente ausgerichtet, ist der Kapitalbezug nur möglich, falls die Bezügerin oder der Bezüger der Invalidenrente die Erklärung für den Kapitalbezug mindestens sechs Monate vor dem ordentlichen Pensionierungsalter abgegeben hat.
+<sup>5</sup> Wird unmittelbar vor der Pensionierung eine Invalidenrente ausgerichtet, ist der Kapitalbezug nur möglich, falls die Bezügerin oder der Bezüger der Invalidenrente die Erklärung für den Kapitalbezug mindestens drei Monate vor dem ordentlichen Pensionierungsalter abgegeben hat.
 
 <sup>6</sup> Die versicherten anwartschaftlichen Leistungen bemessen sich an der gekürzten Altersrente.
 
@@ -383,11 +385,11 @@ Erlassen von der Pensionskassenkommission der Pensionskasse Thurgau.
 
 **Anspruch auf Überbrückungsrente**
 
-<sup>1</sup> Bei einer vorzeitigen Pensionierung kann die versicherte Person eine Überbrückungsrente beziehen, die ihr längstens bis zum ordentlichen AHV-Rentenalter ausbezahlt wird.
+<sup>1</sup> Bei einer vorzeitigen Pensionierung kann die versicherte Person eine Überbrückungsrente beziehen, die ihr längstens bis zum ordentlichen AHV-Referenzalter ausbezahlt wird.
 
-<sup>2</sup> Die Überbrückungsrente endet spätestens mit dem Erreichen des ordentlichen AHV-Rentenalters.
+<sup>2</sup> Die Überbrückungsrente endet spätestens mit dem Erreichen des ordentlichen AHV-Referenzalter.
 
-<sup>3</sup> Beim Tod der Altersrentenbezügerin oder des Altersrentenbezügers vor dem ordentlichen AHV-Rentenalter wird die Überbrückungsrente bis zum Ende des Monats, in dem die verstorbene versicherte Person die Auszahlung verlangt hat, an die Hinterlassenen ausgerichtet. Anspruch haben die Hinterlassenen gemäss der Rangfolge in § 41 Abs. 1 Ziff. 1 bis Ziff. 6.
+<sup>3</sup> Beim Tod der Altersrentenbezügerin oder des Altersrentenbezügers vor dem ordentlichen AHV-Referenzalter wird die Überbrückungsrente bis zum Ende des Monats, in dem die verstorbene versicherte Person die Auszahlung verlangt hat, an die Hinterlassenen ausgerichtet. Anspruch haben die Hinterlassenen gemäss der Rangfolge in § 41 Abs. 1 Ziff. 1 bis Ziff. 6.
 
 <sup>4</sup> Bei einer vorzeitigen Pensionierung können Angehörige des Polizeikorps eine Überbrückungsrente beziehen, die ihnen längstens bis zum vollendeten 62. Altersjahr ausbezahlt wird.
 
@@ -437,7 +439,7 @@ Erlassen von der Pensionskassenkommission der Pensionskasse Thurgau.
 
 <sup>1</sup> Versicherte, die am 31. Dezember 2019 Mitglied der PKTG sind, haben Anspruch auf die Zusatzrente.
 
-<sup>2</sup> Eine Zusatzrente wird ab dem Monatsersten nach Vollendung des 63. Altersjahres ausgerichtet, die entsprechenden Voraussetzungen erfüllt sind und Antrag auf Bezug einer Zusatzrente gestellt wurde. Die Zusatzrente wird bis zum Erreichen des ordentlichen AHV-Rentenalters ausbezahlt, sofern keine Renten der IV ausgerichtet werden.
+<sup>2</sup> Eine Zusatzrente wird ab dem Monatsersten nach Vollendung des 63. Altersjahres ausgerichtet, die entsprechenden Voraussetzungen erfüllt sind und Antrag auf Bezug einer Zusatzrente gestellt wurde. Die Zusatzrente wird bis zum Erreichen des ordentlichen AHV-Referenzalters ausbezahlt, sofern keine Renten der IV ausgerichtet werden.
 
 #### § 30
 
@@ -509,6 +511,8 @@ Erlassen von der Pensionskassenkommission der Pensionskasse Thurgau.
 <sup>4</sup> Der Anspruch auf eine Ehegattenrente beginnt am ersten Tag desjenigen Monats, für den die arbeitsvertragliche Lohnfortzahlung oder Lohnersatzleistung des Arbeitgebers beziehungsweise die Alters- oder Invalidenrente der PKTG entfällt. Der Anspruch auf Ehegattenrente erlischt spätestens am Ende des Monats, in dessen Verlauf der überlebende Ehegatte stirbt.
 
 <sup>5</sup> Heiratet der überlebende Ehegatte wieder, erlischt der Anspruch auf eine Ehegattenrente. Er erhält eine einmalige Abfindung in Höhe der dreifachen jährlichen Ehegattenrente gemäss BVG.
+
+<sup>6</sup> Meldet der überlebende Ehegatte eine Lebenspartnerschaft an, so reduziert sich die Höhe der Ehegattenrente auf die Mindestleistungen nach BVG. Es besteht der Anspruch auf eine einmalige Abfindung in der Höhe der dreifachen wegfallenden Jahresrente.
 
 #### § 36
 
@@ -857,6 +861,8 @@ Erlassen von der Pensionskassenkommission der Pensionskasse Thurgau.
 **Sanierungs- und Beteiligungsmechanismus**
 
 <sup>1</sup> Die Pensionskassenkommission entscheidet über die Höhe der Verzinsung der Sparguthaben und der Sanierungsbeiträge. Der Sanierungs- und Beteiligungsplan wird regelmässig überprüft.
+
+<sup>2</sup> Die Pensionskassenkommission kann bei einer Überdeckung vom Beteiligungskonzept gemäss Anhang 8 abweichen, wenn regulatorische oder ökonomische Gründe dies erfordern.
 
 #### § 66
 
