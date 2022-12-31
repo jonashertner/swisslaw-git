@@ -4,11 +4,11 @@ title: Ordinance of 9 March 2007 on Telecommunications Services (OTS)
 short: OTS
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/166"
 language: en
-version: 2022-07-01
+version: 2023-01-01
 adopted: 2007-03-09
 in_force: 2007-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/166/20220701/en/xml/fedlex-data-admin-ch-eli-cc-2007-166-20220701-en-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/166/20220701/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/166/20230101/en/xml/fedlex-data-admin-ch-eli-cc-2007-166-20230101-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/166/20230101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (OTS)
 
-of 9 March 2007 (Status as of 1 July 2022)
+of 9 March 2007 (Status as of 1 January 2023)
 
 The Swiss Federal Council,
 
@@ -587,7 +587,7 @@ The following maximum prices apply (excluding value-added tax):
 
 <sup>3</sup> The costs for administration of the financing mechanism are covered by the fees for financing the universal service.
 
-## Chapter 4**** Obligations Deriving from the Provision of Specific Services
+## Chapter 4 Obligations Deriving from the Provision of Specific Services
 
 [^chap4-1]
 
@@ -712,7 +712,7 @@ Public telephony service providers must guarantee the communication capability o
 - b. publication of the technical and commercial conditions in respect of the providers requesting interconnection (Art. 61);
 - c.[^32-2] interfaces (Art. 55).
 
-<sup>2</sup> The procedure in the event of disputes concerning interoperability is based, *mut**a**tis mutandis*, on Articles 70–74.
+<sup>2</sup> The procedure in the event of disputes concerning interoperability is based, *mutatis mutandis*, on Articles 70–74.
 
 <sup>3</sup> ComCom shall decide on the conditions of interconnection according to the principles which are customary in the market and in the sector.
 
@@ -727,7 +727,7 @@ Public telephony service providers must guarantee the communication capability o
 
 <sup>2</sup> The connection charges charged to the hearing or visually impaired and persons with limited mobility within the framework of these services shall not be discriminatory in comparison with the standard tariffs.
 
-## Chapter 4*a* Number Portability****
+## Chapter 4*a* Number Portability
 
 [^chap4a-1]
 
@@ -798,7 +798,7 @@ Telecommunications service providers that are required to guarantee number porta
 
 [^34e-1]: Inserted by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
-## Chapter 4*b***** Free Choice of Provider for National and International Connections
+## Chapter 4*b* Free Choice of Provider for National and International Connections
 
 [^chap4b-1]
 
@@ -1468,7 +1468,7 @@ Within the framework of its examination, OFCOM may institute conciliation procee
 
 <sup>3</sup> If the dominant provider cannot provide evidence of compliance with cost-orientation, ComCom decides on the basis of comparable values in the market and in the sector. It may also decide prices on the basis of its own pricing and costing models or other appropriate methods, in particular if no suitable comparable values are available.
 
-## Chapter 8 Use of Land in Public Use, Other Connections and Joint Use****
+## Chapter 8 Use of Land in Public Use, Other Connections and Joint Use
 
 [^chap8-1]
 
@@ -1567,7 +1567,7 @@ Appropriate compensation for the joint use of installations of other providers i
 
 [^79-1]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
-## Chapter 9 Telecommunications Confidentiality and Data Protection and Protecting Children and Other Minors****
+## Chapter 9 Telecommunications Confidentiality and Data Protection and Protecting Children and Other Minors
 
 [^chap9-1]
 
@@ -1637,7 +1637,7 @@ Where a customer credibly shows in writing that he or she is the victim of nuisa
 
 <sup>4</sup> If a provider is aware that one of its customers is sending or forwarding unfair advertising via its telecommunication network, it must immediately block the sending of these messages and prevent the establishment of the corresponding connections. It may disconnect customers which send or forward unfair advertising from the telecommunication network.
 
-<sup>5</sup> Each provider must operate a notification service for unfair advertising which originates from its telecommunication network or which is forwarded via its telecommunication network.
+<sup>5</sup> Each provider must operate a contact point for unfair advertising which originates from its telecommunication network or which is forwarded via its telecommunication network.
 
 <sup>6</sup> Each provider must provide a contact point for customers who are blocked or who are affected by the use of the mechanism referred to in paragraph 2. They must on request explain why the customer was blocked or why the mechanism was used. In order to comply with this obligation, all the providers involved in the communication process must supply the required information.
 
@@ -1723,7 +1723,7 @@ Internet access providers shall inform their customers about the options for pro
 
 ## Chapter 10 Vital National Interests
 
-### Section 1 Security Communication****
+### Section 1 Security Communication
 
 [^chap10-sec1-1]
 
@@ -1807,19 +1807,86 @@ Telecommunications service providers may enlisted to support the bodies referred
 
 [^95-1]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
-### Section 3 Security****
+### Section 3 Reporting Faults
 
 [^chap10-sec3-1]
 
-[^chap10-sec3-1]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^chap10-sec3-1]: Amended by No I of the O of 16 Nov. 2022, in force since 1 Jan. 2023 ([AS 2022 726](https://fedlex.data.admin.ch/eli/oc/2022/726)).
 
 #### Art. 96
 
-<sup>1</sup> Telecommunications service providers must immediately inform OFCOM of faults in the operation of their networks that affect a significant number of customers.
+<sup>1</sup> Telecommunications service providers must immediately report faults in telecommunications installations and services that could affect at least 10,000 customers to the National Emergency Operations Centre, and provide information on the faults on a publicly accessible website.
 
-<sup>2</sup> OFCOM may issue the technical and administrative security regulations and declare internationally harmonised standards concerning security and availability of telecommunications infrastructures and services to be binding.[^96-1]
+<sup>2</sup> The National Emergency Operations Centre shall inform OFCOM of the faults reported.
 
-[^96-1]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+### Section 4 Unauthorised Manipulation of Telecommunications Installations
+
+[^chap10-sec4-1]
+
+[^chap10-sec4-1]: Inserted by No I of the O of 16 Nov. 2022, in force since 1 Jan. 2023 ([AS 2022 726](https://fedlex.data.admin.ch/eli/oc/2022/726)).
+
+#### Art. 96a
+
+**Security measures**
+
+<sup>1</sup> Internet access providers shall be entitled to block or restrict the use of internet accesses or addressing resources that threaten to disrupt the proper operation of telecommunications installations. Provided it is technically feasible, they shall exempt access to emergency call services from these measures. They shall immediately inform their customers that have been or could be victims of unauthorised manipulation that such blocking or restriction measures have been taken. They may maintain these measures for as long as the threat persists.
+
+<sup>2</sup> They shall take appropriate technical measures to prevent outgoing calls from being made with falsified addressing resources, in order to counter attacks on the availability of services caused by a large number of targeted requests from a large number of sources (distributed denial-of-service attacks).
+
+<sup>3</sup>
+
+If they provide their customers with telecommunications installations, they shall configure their security features according to the recognised technical regulations. If they have technical control over these installations, they also have the following obligations:
+
+- a. They shall update the security features of the telecommunications installations as soon as required.
+- b. They shall replace the telecommunications installations if updates are no longer possible and there is a security risk as a result.
+
+#### Art. 96b
+
+**Contact point**
+
+The internet access providers shall operate a contact point to receive reports of unauthorised manipulation of telecommunications installations by means of telecommunications transmissions. They shall take appropriate measures to counter the manipulation within a reasonable time.
+
+#### Art. 96c
+
+**Enforcement**
+
+OFCOM shall enforce the provisions of this Section in cooperation with the National Cyber Security Centre.
+
+### Section 5 Security of Mobile Telephony Licensees’ Networks and Services
+
+[^chap10-sec5-1]
+
+[^chap10-sec5-1]: Inserted by No I of the O of 16 Nov. 2022, in force since 1 Jan. 2023 ([AS 2022 726](https://fedlex.data.admin.ch/eli/oc/2022/726)).
+
+#### Art. 96d
+
+**Applicability**
+
+Articles 96*e*–96*g* apply to mobile telephony networks that meet the international technical specifications for networks from the fifth generation onwards.
+
+#### Art. 96e
+
+**Security management system**
+
+<sup>1</sup> The mobile telephony licensees must develop, implement and continually review a management system for information security based on a risk analysis and the security targets resulting therefrom.
+
+<sup>2</sup> As part of this security management system, they shall implement a plan for operational continuity management and a plan for managing security incidents.
+
+#### Art. 96f
+
+**Operation of security-critical telecommunications installations**
+
+<sup>1</sup> The mobile telephony licensees must ensure that the security-critical telecommunications installations that they operate correspond to the state of the art. OFCOM may determine the installations concerned.
+
+<sup>2</sup> The mobile telephony licensees shall operate their network operation centres exclusively in Switzerland or in states whose legislation guarantees an adequate level of data protection.
+
+#### Art. 96g
+
+**Applicable regulations, standards and supervision**
+
+<sup>1</sup> OFCOM may issue technical and administrative regulations in order to provide more specifics on the provisions of this Section, and declare generally recognised technical standards to be binding.
+
+<sup>2</sup> If there is justified suspicion of an infringement of the law and if it proves necessary to establish the circumstances, OFCOM may request the mobile telephony licensees to undergo an audit by a suitably qualified body at their expense or to have their telecommunications installations investigated.
 
 ## Chapter 11 Official Telecommunications Statistics
 
@@ -1975,6 +2042,14 @@ If requested by the customers, the universal service licensee must by 31 Decembe
 Providers of value-added services that do not have a registered office or a permanent settlement in Switzerland on the date that this Ordinance comes into force must designate a registered office or a permanent settlement in Switzerland within six months.
 
 [^108b-1]: Inserted by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+#### Art. 108c
+
+**Transitional provision to the Amendment of 16 November 2022**[^108c-1]
+
+Article 96*a* paragraphs 2 and 3 must be implemented by 1 January 2024 at the latest.
+
+[^108c-1]: Inserted by No I of the O of 16 Nov. 2022, in force since 1 Jan. 2023 ([AS 2022 726](https://fedlex.data.admin.ch/eli/oc/2022/726)).
 
 ### Section 4 Commencement
 

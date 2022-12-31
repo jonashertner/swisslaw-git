@@ -4,11 +4,11 @@ title: Verordnung vom 9. März 2007 über Fernmeldedienste (FDV)
 short: FDV
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/166"
 language: de
-version: 2022-07-01
+version: 2023-01-01
 adopted: 2007-03-09
 in_force: 2007-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/166/20220701/de/xml/fedlex-data-admin-ch-eli-cc-2007-166-20220701-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/166/20220701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/166/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2007-166-20230101-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/166/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/166/20220701/de"
 
 (FDV)
 
-vom 9. März 2007 (Stand am 1. Juli 2022)
+vom 9. März 2007 (Stand am 1. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -792,7 +792,7 @@ Die Anbieterinnen von Fernmeldediensten, die verpflichtet sind, die Nummernporta
 
 [^34e-1]: Eingefügt durch Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
-## 4*b**.* Kapitel:**** Freie Wahl der Anbieterin für nationale und internationale Verbindungen
+## 4*b**.* Kapitel: Freie Wahl der Anbieterin für nationale und internationale Verbindungen
 
 [^chap4b-1]
 
@@ -828,7 +828,7 @@ Die Anbieterinnen von Fernmeldediensten, die verpflichtet sind, die Nummernporta
 
 <sup>3</sup> Für die Bereitstellung von Mehrwertdiensten mittels SMS oder MMS dürfen nur Kurznummern nach den Artikeln 15*a*–15*f* AEFV verwendet werden.
 
-<sup>3</sup> <sup>bis</sup> Inhaberinnen und Inhaber von Nummern nach den Absätzen 2 und 3 gelten auch dann als Anbieterinnen von Mehrwertdiensten, wenn sie diese nicht selbst anbieten.[^36-3]
+<sup>3bis</sup> Inhaberinnen und Inhaber von Nummern nach den Absätzen 2 und 3 gelten auch dann als Anbieterinnen von Mehrwertdiensten, wenn sie diese nicht selbst anbieten.[^36-3]
 
 <sup>4</sup> Mehrwertdienste, die weder über Adressierungselemente des Nummerierungsplans E.164 noch mittels SMS oder MMS bereitgestellt werden, müssen eindeutig und ausdrücklich als Mehrwertdienste gekennzeichnet werden.
 
@@ -1799,21 +1799,88 @@ Die Anbieterinnen von Fernmeldediensten können zur Unterstützung der Organe na
 
 <sup>2</sup> Soweit die Einschränkungen nach Artikel 94 den Anbieterinnen keine kommerziellen Vorteile bringen, trägt der Bund die Kosten der Vorbereitungsmassnahmen.
 
-[^95-1]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 (AS **2****020** 6183).
+[^95-1]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
-### 3. Abschnitt: Sicherheit
+### 3. Abschnitt: Störungsmeldung
 
 [^chap10-sec3-1]
 
-[^chap10-sec3-1]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^chap10-sec3-1]: Fassung gemäss Ziff. I der V vom 16. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 726](https://fedlex.data.admin.ch/eli/oc/2022/726)).
 
 #### Art. 96
 
-<sup>1</sup> Die Anbieterinnen von Fernmeldediensten müssen Störungen im Betrieb ihrer Netze, welche eine relevante Anzahl Kundinnen und Kunden betreffen, unverzüglich dem BAKOM melden.
+<sup>1</sup> Die Anbieterinnen von Fernmeldediensten müssen Störungen im Betrieb ihrer Fernmeldeanlagen und -dienste, die mindestens 10 000 Kundinnen und Kunden betreffen können, unverzüglich der Nationalen Alarmzentrale melden und auf einer frei zugänglichen Internetseite darüber informieren.
 
-<sup>2</sup> Das BAKOM kann technische und administrative Sicherheitsvorschriften erlassen und international harmonisierte technische Sicherheitsnormen für verbindlich erklären.[^96-1]
+<sup>2</sup> Die Nationale Alarmzentrale informiert das BAKOM über die gemeldeten Störungen.
 
-[^96-1]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+### 4. Abschnitt: Unbefugte Manipulation von Fernmeldeanlagen
+
+[^chap10-sec4-1]
+
+[^chap10-sec4-1]: Eingefügt durch Ziff. I der V vom 16. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 726](https://fedlex.data.admin.ch/eli/oc/2022/726)).
+
+#### Art. 96a
+
+**Sicherheitsmassnahmen**
+
+<sup>1</sup> Die Anbieterinnen von Internetzugängen sind berechtigt, Internetzugänge oder Adressierungselemente, die das ordnungsgemässe Funktionieren von Fernmeldeanlagen zu beeinträchtigen drohen, zu sperren oder deren Nutzung einzuschränken. Sofern technisch möglich nehmen sie den Zugang zu den Notrufdiensten von diesen Massnahmen aus. Sie informieren ihre Kundinnen und Kunden, die Opfer unbefugter Manipulationen geworden sind oder werden könnten, unverzüglich über solche Sperrungen oder Einschränkungen. Sie können diese Massnahmen aufrechterhalten, solange die Bedrohung anhält.
+
+<sup>2</sup> Sie verhindern mit geeigneten technischen Mitteln, dass ausgehende Verbindungen mit gefälschten Adressierungselementen möglich sind, um Angriffe auf die Verfügbarkeit von Diensten, die durch eine Vielzahl von gezielten Anfragen durch eine grosse Zahl von Quellen verursacht werden (distributed denial-of-service attack), zu bekämpfen.
+
+<sup>3</sup>
+
+Stellen sie ihren Kundinnen und Kunden Fernmeldeanlagen zur Verfügung, so konfigurieren sie deren Sicherheitseigenschaften gemäss den anerkannten Regeln der Technik. Solange sie die technische Kontrolle über diese Anlagen ausüben, haben sie zudem die folgenden Pflichten:
+
+- a. Sie aktualisieren die Sicherheitseigenschaften der Fernmeldeanlagen unverzüglich.
+- b. Sie tauschen die Fernmeldeanlagen aus, sofern Aktualisierungen nicht mehr möglich sind und sich daraus ein Sicherheitsrisiko ergibt.
+
+#### Art. 96b
+
+**Meldestelle**
+
+Die Anbieterinnen von Internetzugängen betreiben eine Stelle, die Meldungen über unbefugte Manipulationen von Fernmeldeanlagen durch fernmeldetechnische Übertragungen entgegennimmt. Sie leiten innert angemessener Frist geeignete Abwehrmassnahmen ein.
+
+#### Art. 96c
+
+**Vollzug**
+
+Das BAKOM vollzieht die Bestimmungen dieses Abschnitts in Zusammenarbeit mit dem Nationalen Zentrum für Cybersicherheit.
+
+### 5. Abschnitt: Sicherheit von Netzen und Diensten der Mobilfunkkonzessionärinnen
+
+[^chap10-sec5-1]
+
+[^chap10-sec5-1]: Eingefügt durch Ziff. I der V vom 16. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 726](https://fedlex.data.admin.ch/eli/oc/2022/726)).
+
+#### Art. 96d
+
+**Geltung**
+
+Die Artikel 96*e*–96*g* gelten für Mobilfunknetze, die den international festgelegten technischen Spezifikationen für Netze ab der fünften Generation entsprechen.
+
+#### Art. 96e
+
+**Sicherheitsmanagementsystem**
+
+<sup>1</sup> Die Mobilfunkkonzessionärinnen müssen auf der Grundlage einer Risikoanalyse und der sich daraus ergebenden Sicherheitsziele ein Managementsystem für die Informationssicherheit entwickeln, umsetzen und kontinuierlich überprüfen.
+
+<sup>2</sup> Im Rahmen dieses Sicherheitsmanagementsystems setzen sie einen Plan für das betriebliche Kontinuitätsmanagement und einen Plan für das Management von Sicherheitsvorfällen um.
+
+#### Art. 96f
+
+**Betrieb sicherheitskritischer Fernmeldeanlagen**
+
+<sup>1</sup> Die Mobilfunkkonzessionärinnen müssen sicherstellen, dass die von ihnen betriebenen sicherheitskritischen Fernmeldeanlagen dem Stand der Technik entsprechen. Das BAKOM kann die betroffenen Anlagen festlegen.
+
+<sup>2</sup> Die Mobilfunkkonzessionärinnen betreiben ihre Netzwerkbetriebszentren und ihre Sicherheitsbetriebszentren ausschliesslich in der Schweiz oder in Staaten, deren Gesetzgebung einen angemessenen Datenschutz gewährleistet.
+
+#### Art. 96g
+
+**Anwendbare Vorschriften, Normen und Aufsicht**
+
+<sup>1</sup> Das BAKOM kann zur Konkretisierung der Bestimmungen dieses Abschnitts technische und administrative Vorschriften erlassen und allgemein anerkannte technische Normen für verbindlich erklären.
+
+<sup>2</sup> Besteht ein begründeter Verdacht auf eine Rechtsverletzung und erweist es sich zur Feststellung des Sachverhalts als notwendig, so kann das BAKOM von den Mobilfunkkonzessionärinnen verlangen, sich auf eigene Kosten einem Audit durch eine qualifizierte Stelle zu unterziehen oder ihre Fernmeldeanlagen prüfen zu lassen.
 
 ## 11. Kapitel: Amtliche Fernmeldestatistik
 
@@ -1969,6 +2036,14 @@ Die Grundversorgungskonzessionärin muss bis 31. Dezember 2021 auf Ersuchen der 
 Die Anbieterinnen von Mehrwertdiensten, die im Zeitpunkt des Inkrafttretens dieser Verordnung weder ihren Sitz noch eine Niederlassung in der Schweiz haben, müssen innerhalb von sechs Monaten einen Sitz oder eine Niederlassung in der Schweiz bezeichnen.
 
 [^108b-1]: Eingefügt durch Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+#### Art. 108c
+
+**Übergangsbestimmung zur Änderung vom 16. November 2022**[^108c-1]
+
+Artikel 96*a* Absätze 2 und 3 ist spätestens bis zum 1. Januar 2024 umzusetzen.
+
+[^108c-1]: Eingefügt durch Ziff. I der V vom 16. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 726](https://fedlex.data.admin.ch/eli/oc/2022/726)).
 
 ### 4. Abschnitt: Inkrafttreten
 

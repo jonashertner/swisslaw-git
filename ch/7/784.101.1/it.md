@@ -4,11 +4,11 @@ title: Ordinanza del 9 marzo 2007 sui servizi di telecomunicazione (OST)
 short: OST
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/166"
 language: it
-version: 2022-07-01
+version: 2023-01-01
 adopted: 2007-03-09
 in_force: 2007-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/166/20220701/it/xml/fedlex-data-admin-ch-eli-cc-2007-166-20220701-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/166/20220701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/166/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2007-166-20230101-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/166/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/166/20220701/it"
 
 (OST)
 
-del 9 marzo 2007 (Stato 1° luglio 2022) (Stato 1° luglio 2022)
+del 9 marzo 2007 (Stato 1° gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -601,7 +601,7 @@ Vigono i seguenti limiti massimi di prezzo (IVA esclusa):
 
 <sup>3</sup> I costi imputabili alla gestione del meccanismo di finanziamento sono coperti dalle tasse destinate al finanziamento del servizio universale.
 
-## Capitolo 4:**** Obblighi derivanti dalla fornitura di servizi specifici
+## Capitolo 4: Obblighi derivanti dalla fornitura di servizi specifici
 
 [^chap4-1]
 
@@ -739,7 +739,7 @@ I fornitori del servizio telefonico pubblico devono garantire la capacità di co
 
 <sup>2</sup> Le tariffe di collegamento fatturate ad audiolesi, ipovedenti e persone con difficoltà motorie per questi servizi non devono essere discriminatorie rispetto alle altre tariffe.
 
-## Capitolo 4*a*: Portabilità dei numeri****
+## Capitolo 4*a*: Portabilità dei numeri
 
 [^chap4a-1]
 
@@ -810,7 +810,7 @@ I fornitori di servizi di telecomunicazione che hanno l’obbligo di assicurare 
 
 [^34e-1]: Introdotto dal n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
-## Capitolo 4*b*:**** Libera scelta dei fornitori per i collegamenti nazionali e internazionali
+## Capitolo 4*b*: Libera scelta dei fornitori per i collegamenti nazionali e internazionali
 
 [^chap4b-1]
 
@@ -1580,7 +1580,7 @@ L’obbligo dei proprietari dell’immobile e dei fornitori di servizi di teleco
 
 [^79-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
-## Capitolo 9: Segreto delle telecomunicazioni, protezione dei dati e protezione dei bambini e dei giovani****
+## Capitolo 9: Segreto delle telecomunicazioni, protezione dei dati e protezione dei bambini e dei giovani
 
 [^chap9-1]
 
@@ -1734,13 +1734,13 @@ I fornitori di servizi d’accesso a Internet informano i loro clienti sulle pos
 
 [^89b-1]: Introdotto dal n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
-## Capitolo 10: Interessi nazionali importanti****
+## Capitolo 10: Interessi nazionali importanti
 
 [^chap10-1]
 
 [^chap10-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
-### Sezione 1: Comunicazione a garanzia della sicurezza****
+### Sezione 1: Comunicazione a garanzia della sicurezza
 
 [^chap10-sec1-1]
 
@@ -1824,19 +1824,86 @@ I fornitori di servizi di telecomunicazione possono essere chiamati a mettere a 
 
 [^95-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
-### Sezione 3: Sicurezza****
+### Sezione 3: Segnalazione di interferenze
 
 [^chap10-sec3-1]
 
-[^chap10-sec3-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^chap10-sec3-1]: Nuovo testo giusta il n. I dell’O del 16 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 726](https://fedlex.data.admin.ch/eli/oc/2022/726)).
 
 #### Art. 96
 
-<sup>1</sup> I fornitori di servizi di telecomunicazione sono tenuti a segnalare senza indugio all’UFCOM le interferenze nell’esercizio della loro rete che toccano un numero rilevante di clienti.
+<sup>1</sup> I fornitori di servizi di telecomunicazione sono tenuti a segnalare senza indugio alla Centrale nazionale d’allarme le interferenze nell’esercizio della loro rete che possono toccare almeno 10 000 clienti e a pubblicare le informazioni in merito su un sito Internet liberamente accessibile.
 
-<sup>2</sup> L’UFCOM può emanare prescrizioni tecniche e amministrative sulla sicurezza e può dichiarare applicabili norme tecniche armonizzate a livello internazionale concernenti la sicurezza.[^96-1]
+<sup>2</sup> La Centrale nazionale d’allarme informa l’UFCOM in merito alle interferenze segnalate.
 
-[^96-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+### Sezione 4: Manipolazione illecita di impianti di telecomunicazione
+
+[^chap10-sec4-1]
+
+[^chap10-sec4-1]: Introdotta dal n. I dell’O del 16 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 726](https://fedlex.data.admin.ch/eli/oc/2022/726)).
+
+#### Art. 96a
+
+**Misure di sicurezza**
+
+<sup>1</sup> I fornitori di servizi di accesso a Internet sono autorizzati a bloccare gli accessi a Internet o gli elementi di indirizzo che minacciano di compromettere il buon funzionamento degli impianti di telecomunicazione o a limitarne l’uso. Ove tecnicamente possibile, escludono da queste misure l’accesso ai servizi di emergenza. Informano immediatamente di tali blocchi o limitazioni i loro clienti che sono o potrebbero diventare vittime di manipolazioni illecite. Possono mantenere queste misure finché tale minaccia perdura.
+
+<sup>2</sup> Essi impediscono tramite mezzi tecnici appropriati che si verifichino comunicazioni in uscita con elementi di indirizzo falsificati al fine di lottare contro gli attacchi alla disponibilità dei servizi causati da numerose richieste mirate provenienti da un gran numero di fonti (*distributed denial of service attack*).
+
+<sup>3</sup>
+
+Se mettono a disposizione dei loro clienti impianti di telecomunicazione, essi devono configurare i loro parametri di sicurezza secondo le regole riconosciute della tecnica. Fintanto che esercitano il controllo tecnico su questi impianti, hanno inoltre i seguenti obblighi:
+
+- a. aggiornano senza indugio i parametri di sicurezza degli impianti di telecomunicazione;
+- b. sostituiscono gli impianti di telecomunicazione, se gli aggiornamenti non sono più possibili e ciò comporta un rischio per la sicurezza.
+
+#### Art. 96b
+
+**Servizio di segnalazione**
+
+I fornitori di servizi di accesso a Internet gestiscono un servizio che riceve le segnalazioni di manipolazioni illecite di impianti di telecomunicazione commesse con trasmissioni di telecomunicazione. Essi avviano le misure difensive appropriate entro un periodo di tempo adeguato.
+
+#### Art. 96c
+
+**Esecuzione**
+
+L’UFCOM esegue le disposizioni della presente sezione in collaborazione con il Centro nazionale per la cibersicurezza.
+
+### Sezione 5: Sicurezza delle reti e dei servizi dei concessionari di radiocomunicazione mobile
+
+[^chap10-sec5-1]
+
+[^chap10-sec5-1]: Introdotta dal n. I dell’O del 16 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 726](https://fedlex.data.admin.ch/eli/oc/2022/726)).
+
+#### Art. 96d
+
+**Applicazione**
+
+Gli articoli 96*e*‒96*g* si applicano alle reti mobili conformi alle specifiche tecniche definite a livello internazionale per reti a partire dalla quinta generazione.
+
+#### Art. 96e
+
+**Sistema di gestione della sicurezza**
+
+<sup>1</sup> I concessionari di radiocomunicazione mobile sviluppano, attuano e verificano costantemente un sistema di gestione della sicurezza delle informazioni basandosi su un’analisi dei rischi e sugli obiettivi di sicurezza che ne conseguono.
+
+<sup>2</sup> Nel quadro di questo sistema di gestione della sicurezza, attuano un piano di gestione della continuità operativa e un piano di gestione degli incidenti legati alla sicurezza.
+
+#### Art. 96f
+
+**Esercizio degli impianti di telecomunicazione critici dal profilo della sicurezza**
+
+<sup>1</sup> I concessionari di radiocomunicazione mobile devono assicurare che gli impianti di telecomunicazione critici dal profilo della sicurezza da loro esercitati corrispondano all’attuale stato della tecnica. L’UFCOM può definire gli impianti interessati.
+
+<sup>2</sup> I concessionari di radiocomunicazione mobile esercitano i loro centri operativi di rete e centri operativi di sicurezza esclusivamente in Svizzera o in Stati la cui legislazione assicura una protezione adeguata dei dati.
+
+#### Art. 96g
+
+**Prescrizioni applicabili, norme e vigilanza**
+
+<sup>1</sup> Al fine di concretizzare le disposizioni della presente sezione, l’UFCOM può emanare prescrizioni tecniche e amministrative e dichiarare vincolanti le norme tecniche generalmente riconosciute.
+
+<sup>2</sup> In caso di sospetto fondato di violazione del diritto e se necessario per accertare i fatti, l’UFCOM può esigere che i concessionari di radiocomunicazione mobile si sottopongano a proprie spese a un audit da parte di un organismo qualificato o facciano verificare i loro impianti di telecomunicazione.
 
 ## Capitolo 11: Statistica ufficiale sulle telecomunicazioni
 
@@ -1992,6 +2059,14 @@ Sino al 31 dicembre 2021 il concessionario del servizio universale deve fornire 
 I fornitori di servizi a valore aggiunto che, all’entrata in vigore della presente ordinanza, non hanno né sede né stabile organizzazione in Svizzera devono indicare entro sei mesi una sede o una stabile organizzazione in Svizzera.
 
 [^108b-1]: Introdotto dal n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+#### Art. 108c
+
+**Disposizione transitoria relativa alla modifica del 16 novembre 2022**[^108c-1]
+
+L’articolo 96*a* capoversi 2 e 3 va attuato al più tardi entro il 1° gennaio 2024.
+
+[^108c-1]: Introdotto dal n. I dell’O del 16 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 726](https://fedlex.data.admin.ch/eli/oc/2022/726)).
 
 ### Sezione 4: Entrata in vigore
 

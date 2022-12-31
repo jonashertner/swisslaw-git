@@ -4,11 +4,11 @@ title: Ordonnance du 9 mars 2007 sur les services de télécommunication (OST)
 short: OST
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/166"
 language: fr
-version: 2022-07-01
+version: 2023-01-01
 adopted: 2007-03-09
 in_force: 2007-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/166/20220701/fr/xml/fedlex-data-admin-ch-eli-cc-2007-166-20220701-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/166/20220701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/166/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-166-20230101-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/166/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/166/20220701/fr"
 
 (OST)
 
-du 9 mars 2007 (Etat le 1<sup>er</sup> juillet 2022)
+du 9 mars 2007 (État le 1<sup>er</sup> janvier 2023)
 
 Le Conseil fédéral suisse,
 
@@ -36,7 +36,7 @@ Au sens de la présente ordonnance, on entend par:
 
 - a. *utilisateur:* toute personne qui utilise les services d’un fournisseur de services de télécommunication;
 - b. *client:* toute personne qui a conclu un contrat avec un fournisseur de services de télécommunication portant sur l’utilisation de ses services;
-- c.[^1-1] ...
+- c.[^1-1] …
 - d.[^1-2] *prix d’accès:* le prix de l’accès aux services et aux ressources des fournisseurs occupant une position dominante sur le marché selon l’art. 11, al. 1, LTC.
 
 [^1-1]: Abrogée par le ch. I de l’O du 18 nov. 2020, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
@@ -253,7 +253,7 @@ Les fournisseurs de services de télécommunication doivent:
 Ils doivent au minimum, pour chaque service fourni:
 
 - a.[^10e-2] mesurer et publier le débit de transmission de données effectivement atteint, la latence et, pour les communications de téléphonie mobile, la puissance du signal;
-- b. [^10e-3] ...
+- b. [^10e-3] …
 
 <sup>3</sup> Les informations sur la qualité doivent permettre des comparaisons entre les offres des différents fournisseurs. Elles doivent aussi être publiées sous forme de cartes géographiques.
 
@@ -582,7 +582,7 @@ Les prix plafonds suivants (taxe sur la valeur ajoutée non comprise) sont appli
 
 <sup>3</sup> Les frais imputables à la gestion du mécanisme de financement sont couverts par les redevances destinées au financement du service universel.
 
-## Chapitre 4**** Obligations découlant de la fourniture de services spécifiques
+## Chapitre 4 Obligations découlant de la fourniture de services spécifiques
 
 [^chap4-1]
 
@@ -720,7 +720,7 @@ Les fournisseurs du service téléphonique public doivent assurer aux utilisateu
 
 <sup>2</sup> Les prix des communications facturés aux malentendants, aux malvoyants et aux personnes à mobilité réduite dans le cadre de ces services doivent être non discriminatoires par rapport aux autres tarifs.
 
-## Chapitre 4*a* Portabilité des numéros****
+## Chapitre 4*a* Portabilité des numéros
 
 [^chap4a-1]
 
@@ -797,7 +797,7 @@ Les fournisseurs de services de télécommunication ayant l’obligation d’ass
 
 [^34e-1]: Introduit par le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
-## Chapitre 4*b***** Libre choix du fournisseur des liaisons nationales et internationales
+## Chapitre 4*b* Libre choix du fournisseur des liaisons nationales et internationales
 
 [^chap4b-1]
 
@@ -1466,7 +1466,7 @@ Dans le cadre de l’instruction, l’OFCOM peut mener des négociations en vue 
 
 <sup>3</sup> Lorsque le fournisseur occupant une position dominante ne peut prouver qu’il respecte le principe de l’alignement sur les coûts, la ComCom décide sur la base de valeurs comparables conformes aux usages du marché et du secteur en question. Elle peut également fixer les prix sur la base de ses propres modélisations des prix et des coûts ou d’autres méthodes appropriées, en particulier lorsqu’aucune valeur comparable n’est disponible.
 
-## Chapitre 8 Utilisation de terrains du domaine public, autres raccordements et co-utilisation****
+## Chapitre 8 Utilisation de terrains du domaine public, autres raccordements et co-utilisation
 
 [^chap8-1]
 
@@ -1565,7 +1565,7 @@ Est réputée dédommagement approprié pour la co-utilisation d’installations
 
 [^79-1]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
-## Chapitre 9 Secret des télécommunications, protection des données et protection des enfants et des jeunes****
+## Chapitre 9 Secret des télécommunications, protection des données et protection des enfants et des jeunes
 
 [^chap9-1]
 
@@ -1721,7 +1721,7 @@ Les fournisseurs d’accès à Internet informent leurs clients des possibilité
 
 ## Chapitre 10 Intérêts nationaux importants
 
-### Section 1 Prestations de sécurité****
+### Section 1 Prestations de sécurité
 
 [^chap10-sec1-1]
 
@@ -1805,19 +1805,86 @@ Les fournisseurs de services de télécommunication peuvent être amenés à off
 
 [^95-1]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 
-### Section 3 Sécurité****
+### Section 3 Signalement de perturbations
 
 [^chap10-sec3-1]
 
-[^chap10-sec3-1]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^chap10-sec3-1]: Nouvelle teneur selon le ch. I de l’O du 16 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 726](https://fedlex.data.admin.ch/eli/oc/2022/726)).
 
 #### Art. 96
 
-<sup>1</sup> Les fournisseurs de services de télécommunication doivent annoncer immédiatement à l’OFCOM toute perturbation de l’exploitation de leurs réseaux touchant un nombre élevé de clients.
+<sup>1</sup> Les fournisseurs de services de télécommunication doivent signaler immédiatement à la Centrale nationale d’alarme toute perturbation de l’exploitation de leurs installations et services de télécommunication susceptible de toucher 10 000 clients au moins, et publier des informations à ce sujet sur un site Internet librement accessible.
 
-<sup>2</sup> L’OFCOM peut édicter des prescriptions de sécurité techniques et administratives et déclarer contraignantes des normes de sécurité techniques harmonisées au niveau international.[^96-1]
+<sup>2</sup> La Centrale nationale d’alarme informe l’OFCOM des perturbations qui lui sont signalées.
 
-[^96-1]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+### Section 4 Manipulation non autorisée d’installations de télécommunication
+
+[^chap10-sec4-1]
+
+[^chap10-sec4-1]: Introduite par le ch. I de l’O du 16 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 726](https://fedlex.data.admin.ch/eli/oc/2022/726)).
+
+#### Art. 96a
+
+**Mesures de sécurité**
+
+<sup>1</sup> Les fournisseurs d’accès à Internet sont autorisés à bloquer des accès à Internet ou des ressources d’adressage ou à en restreindre l’utilisation si ces accès ou ressources menacent de compromettre le bon fonctionnement des installations de télécommunication. Lorsque la technique le permet, ils excluent de ces mesures l’accès aux services d’urgence. Ils informent immédiatement de ces blocages ou de ces restrictions leurs clients qui ont été ou pourraient être victimes de manipulations non autorisées. Ils peuvent maintenir ces mesures aussi longtemps que subsiste la menace.
+
+<sup>2</sup> Ils empêchent par des moyens techniques appropriés les communications sortantes avec des ressources d’adressage falsifiées afin de lutter contre les attaques causées par une pluralité de demandes ciblées provenant d’un grand nombre de sources et visant la disponibilité des services (*Distributed Denial of Service attack*).
+
+<sup>3</sup>
+
+Lorsqu’ils mettent à la disposition de leurs clients des installations de télécommunication, ils en configurent les caractéristiques de sécurité selon les règles reconnues de la technique. S’ils exercent le contrôle technique de ces installations, ils ont en outre les obligations suivantes:
+
+- a. ils actualisent sans délai les caractéristiques de sécurité des installations de télécommunication;
+- b. ils remplacent les installations de télécommunication dès que les actualisations ne sont plus possibles et qu’il en résulte un risque pour la sécurité.
+
+#### Art. 96b
+
+**Service de signalement**
+
+Les fournisseurs d’accès à Internet exploitent un service qui recueille les signalements de manipulations non autorisées d’installations de télécommunication par des transmissions au moyen de techniques de télécommunication. Ils prennent les mesures défensives appropriées dans un délai raisonnable.
+
+#### Art. 96c
+
+**Exécution**
+
+L’OFCOM exécute les dispositions de la présente section en collaboration avec le Centre national pour la cybersécurité.
+
+### Section 5 Sécurité des réseaux et des services des concessionnaires de radiocommunication mobile
+
+[^chap10-sec5-1]
+
+[^chap10-sec5-1]: Introduite par le ch. I de l’O du 16 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 726](https://fedlex.data.admin.ch/eli/oc/2022/726)).
+
+#### Art. 96d
+
+**Application**
+
+Les art. 96*e* à 96*g* s’appliquent aux réseaux de radiocommunication mobile qui répondent aux spécifications techniques définies au niveau international pour des réseaux de 5<sup>e</sup> génération et au-delà.
+
+#### Art. 96e
+
+**Système de gestion de la sécurité**
+
+<sup>1</sup> Les concessionnaires de radiocommunication mobile développent, mettent en œuvre et réexaminent en continu un système de gestion de la sécurité de l’information en se fondant sur une analyse des risques et sur les objectifs de sécurité qui découlent de celle-ci.
+
+<sup>2</sup> Dans le cadre de leur système de gestion de la sécurité, ils mettent en œuvre un plan de gestion de la continuité opérationnelle et un plan de gestion des incidents de sécurité.
+
+#### Art. 96f
+
+**Exploitation des installations de télécommunication critiques**
+
+<sup>1</sup> Les concessionnaires de radiocommunication mobile doivent s’assurer que les installations de télécommunication critiques du point de vue de la sécurité qu’ils exploitent correspondent à l’état de la technique. L’OFCOM peut définir les installations concernées.
+
+<sup>2</sup> Les concessionnaires de radiocommunication mobile exploitent leurs centres des opérations du réseau et leurs centres de gestion de la sécurité exclusivement en Suisse ou dans des États dont la législation garantit un niveau de protection des données adéquat.
+
+#### Art. 96g
+
+**Prescriptions applicables, normes et surveillance**
+
+<sup>1</sup> Pour concrétiser les dispositions de la présente section, l’OFCOM peut édicter des prescriptions techniques et administratives et déclarer obligatoires des normes techniques généralement reconnues.
+
+<sup>2</sup> S’il existe un soupçon fondé de violation du droit et que cela s’avère nécessaire pour constater les faits, l’OFCOM peut obliger les concessionnaires de radiocommunication mobile à se soumettre à leurs frais à un audit réalisé par un organisme qualifié ou à faire contrôler leurs installations de télécommunication.
 
 ## Chapitre 11 Statistique officielle sur les télécommunications
 
@@ -1973,6 +2040,14 @@ Jusqu’au 31 décembre 2021, le concessionnaire du service universel doit fourn
 Les fournisseurs de services à valeur ajoutée qui n’ont ni leur siège ni un établissement en Suisse au moment de l’entrée en vigueur de la présente ordonnance doivent indiquer un siège ou un établissement en Suisse dans un délai de six mois.
 
 [^108b-1]: Introduit par le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+#### Art. 108c
+
+**Dispositions transitoires sur la modification du 16 novembre 2022**[^108c-1]
+
+L’art. 96*a*, al. 2 et 3, doit être mis en oeuvre au plus tard le 1<sup>er</sup> janvier 2024.
+
+[^108c-1]: Introduit par le ch. I de l’O du 16 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 726](https://fedlex.data.admin.ch/eli/oc/2022/726)).
 
 ### Section 4 Entrée en vigueur
 
