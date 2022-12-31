@@ -4,13 +4,13 @@ number: "551.111"
 title: Ordonnance sur la police
 short: OPol
 language: fr
-version: 2021-04-01
-valid_until: 2022-12-31
-version_adopted: 2021-02-24
+version: 2023-01-01
+valid_until: 2024-07-31
+version_adopted: 2022-11-23
 adopted: 2019-11-20
 in_force: 2020-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/551.111"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2232/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2756/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2232/pdf_file"
 
 (OPol)
 
-du 20.11.2019 (état au 01.04.2021)
+du 20.11.2019 (état au 01.01.2023)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -620,7 +620,7 @@ arrête:
 
 <sup>4</sup> Si, postérieurement à l'approbation, la mise en œuvre de la vidéosurveillance s'écarte des indications fournies par l'autorité compétente selon l'alinéa 2, lettres a à i, les changements doivent être annoncés au préalable à la Police cantonale. En cas de changements importants, une nouvelle approbation est nécessaire.
 
-<sup>5</sup> Le conseil communal ordonne la vidéosurveillance après avoir obtenu l'approbation de la Police cantonale. La décision est publiée dans la feuille d'avis officielle avec les indications principales et les voies de droit.
+<sup>5</sup> Le conseil communal ordonne la vidéosurveillance après avoir obtenu l'approbation de la Police cantonale. La décision est communiquée dans l'organe de publication officiel de la commune avec les indications principales et les voies de droit.
 
 <sup>6</sup> Le conseil communal informe la Police cantonale de l'identité de ses interlocuteurs afin que ceux-ci puissent lui remettre les enregistrements sans tarder en cas d'incident.
 
@@ -827,7 +827,7 @@ arrête:
 
 **Renonciation au remboursement**
 
-<sup>1</sup> Il est possible, d'entente avec l'Office du personnel, de renoncer à exiger le remboursement du montant dû si
+<sup>1</sup> Il est possible de renoncer à exiger le remboursement du montant dû si
 
 - a la personne concernée part pour des raisons de santé qui ne lui permettent plus d'effectuer le service de police ou d'assistance de sécurité ou de suivre la formation en ce sens;
 - b l'obligation de rembourser représente une rigueur particulière pour elle ou

@@ -4,13 +4,13 @@ number: "551.111"
 title: Polizeiverordnung
 short: PolV
 language: de
-version: 2021-04-01
-valid_until: 2022-12-31
-version_adopted: 2021-02-24
+version: 2023-01-01
+valid_until: 2024-07-31
+version_adopted: 2022-11-23
 adopted: 2019-11-20
 in_force: 2020-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/551.111"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2232/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2756/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2232/pdf_file"
 
 (PolV)
 
-vom 20.11.2019 (Stand 01.04.2021)
+vom 20.11.2019 (Stand 01.01.2023)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -622,7 +622,7 @@ beschliesst:
 
 <sup>4</sup> Ändert sich nach erfolgter Zustimmung der Videoüberwachungseinsatz gegenüber den Angaben der zuständigen Behörde zu Absatz 2 Buchstaben a bis i, so sind die Änderungen der Kantonspolizei vorgängig mitzuteilen. Handelt es sich um wesentliche Änderungen, ist eine erneute Zustimmung erforderlich.
 
-<sup>5</sup> Der Gemeinderat ordnet die Videoüberwachung an, wenn die Zustimmung der Kantonspolizei vorliegt. Die Verfügung ist mit den wesentlichen Angaben und einer Rechtsmittelbelehrung im amtlichen Anzeiger zu veröffentlichen.
+<sup>5</sup> Der Gemeinderat ordnet die Videoüberwachung an, wenn die Zustimmung der Kantonspolizei vorliegt. Die Verfügung ist mit den wesentlichen Angaben und einer Rechtsmittelbelehrung im amtlichen Publikationsorgan der Gemeinde zu veröffentlichen.
 
 <sup>6</sup> Der Gemeinderat meldet der Kantonspolizei, welche Personen im Ereignisfall als Ansprechpersonen dienen, damit die Aufzeichnungen der Kantonspolizei umgehend zur Verfügung gestellt werden können.
 
@@ -831,7 +831,7 @@ beschliesst:
 
 **Verzicht auf Geltendmachung**
 
-<sup>1</sup> Auf die Geltendmachung des rückzahlungspflichtigen Betrags kann im Einvernehmen mit dem Personalamt verzichtet werden, wenn
+<sup>1</sup> Auf die Geltendmachung des rückzahlungspflichtigen Betrags kann verzichtet werden, wenn
 
 - a der Austritt aus gesundheitlichen Gründen erfolgt, die eine weitere Ausübung des Polizei- oder Sicherheitsassistentendienstes oder die Ausbildung dazu nicht mehr zulassen,
 - b die Rückzahlungspflicht für die Mitarbeiterin oder den Mitarbeiter eine besondere Härte bedeutet,
