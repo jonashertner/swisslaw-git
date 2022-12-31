@@ -4,13 +4,13 @@ number: "962.11"
 title: Strafprozessverordnung
 short: StPV
 language: de
-version: 2021-10-01
-valid_until: 2022-12-31
-version_adopted: 2021-06-29
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2022-12-06
 adopted: 2010-11-23
 in_force: 2011-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/962.11"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3225/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3417/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3225/pdf_file"
 
 (StPV)
 
-vom 23.11.2010 (Stand 01.10.2021)
+vom 23.11.2010 (Stand 01.01.2023)
 
 Die Regierung des Kantons St.Gallen
 
@@ -45,8 +45,8 @@ als Verordnung:[^ingress-2]
 - a) das Untersuchungsamt mit besonderen Aufgaben mit Amtssitz in St.Gallen für das ganze Kantonsgebiet (kantonales Untersuchungsamt);
 - b) das Untersuchungsamt St.Gallen für die Gemeinden St.Gallen, Wittenbach, Häggenschwil, Muolen, Mörschwil, Goldach, Steinach, Berg, Tübach, Untereggen, Eggersriet, Rorschacherberg, Rorschach und Thal mit Amtssitz in St.Gallen;
 - c) das Untersuchungsamt Altstätten für die Gemeinden Rheineck, St.Margrethen, Au, Berneck, Balgach, Diepoldsau, Widnau, Rebstein, Marbach, Altstätten, Eichberg, Oberriet, Rüthi, Sennwald, Gams, Grabs, Buchs, Sevelen und Wartau mit Amtssitz in Altstätten;
-- d) das Untersuchungsamt Uznach für die Gemeinden Sargans, Vilters-Wangs, Bad Ragaz, Pfäfers, Mels, Flums, Walenstadt, Quarten, Amden, Weesen, Schänis, Benken, Kaltbrunn, Rieden, Gommiswald, Ernetschwil, Uznach, Schmerikon, Rapperswil-Jona, Eschenbach, Goldingen, St.Gallenkappel, Wildhaus-Alt St.Johann, Stein, Nesslau-Krummenau, Ebnat-Kappel, Wattwil, Lichtensteig, Oberhelfenschwil, Hemberg und Krinau mit Amtssitz in Uznach und einer Zweigstelle in Flums;
-- e) das Untersuchungsamt Gossau für die Gemeinden Bütschwil, Lütisburg, Mosnang, Kirchberg, Wil, Bronschhofen, Zuzwil, Oberbüren, Niederbüren, Niederhelfenschwil, Neckertal, Ganterschwil, Jonschwil, Oberuzwil, Uzwil, Flawil, Degersheim, Gossau, Andwil, Waldkirch und Gaiserwald mit Amtssitz in Gossau.
+- d) das Untersuchungsamt Uznach für die Gemeinden Sargans, Vilters-Wangs, Bad Ragaz, Pfäfers, Mels, Flums, Walenstadt, Quarten, Amden, Weesen, Schänis, Benken, Kaltbrunn, Gommiswald, Uznach, Schmerikon, Rapperswil-Jona, Eschenbach, Wildhaus-Alt St.Johann, Nesslau, Ebnat-Kappel, Wattwil und Lichtensteig mit Amtssitz in Uznach und einer Zweigstelle in Flums;
+- e) das Untersuchungsamt Gossau für die Gemeinden Bütschwil-Ganterschwil, Lütisburg, Mosnang, Kirchberg, Wil, Zuzwil, Oberbüren, Niederbüren, Niederhelfenschwil, Neckertal, Jonschwil, Oberuzwil, Uzwil, Flawil, Degersheim, Gossau, Andwil, Waldkirch und Gaiserwald mit Amtssitz in Gossau.
 
 <sup>3</sup> Die Jugendanwaltschaft besteht aus den regionalen Ämtern in St.Gallen, Altstätten, Uznach und Wil. Die Zuständigkeit richtet sich nach Abs. 2 Bst. b bis e dieser Bestimmung.
 
@@ -134,7 +134,7 @@ als Verordnung:[^ingress-2]
   - 5\. die Arbeit in Industrie, Gewerbe und Handel;
   - 6\. die Arbeitsvermittlung und den Personalverleih;
   - 7\. die Beschäftigung von ausländischen Arbeitnehmenden;
-  - 8\. die Meldepflichten von Arbeitgebern und selbständigen Dienstleistungserbringern;
+  - 8\. die Meldepflichten von Arbeitgeberinnen und Arbeitgebern sowie selbständigen Dienstleistungserbringerinnen und Dienstleistungserbringern;
   - 9\. die eidgenössische Entsendegesetzgebung;
   - 10\. den Wald;
   - 11\. die Geldspielgesetzgebung.
@@ -321,7 +321,7 @@ als Verordnung:[^ingress-2]
 - e) die verurteilte Person Gewähr bietet, dass sie die Rahmenbedingungen dieser Vollzugsform und die Hausordnung der Vollzugseinrichtung einhält;
 - f) dem Vollzug in dieser Form keine betrieblichen Gründe entgegenstehen.
 
-<sup>2</sup> Für die Zulassung ist die Dauer der vom Richter ausgesprochenen Gesamtstrafe, bei teilbedingten Strafen der unbedingte Teil massgebend. Verschiedene Freiheitsstrafen werden gemeinsam vollzogen und deren Dauer zusammengerechnet.
+<sup>2</sup> Für die Zulassung ist die Dauer der von der Richterin oder dem Richter ausgesprochenen Gesamtstrafe, bei teilbedingten Strafen der unbedingte Teil massgebend. Verschiedene Freiheitsstrafen werden gemeinsam vollzogen und deren Dauer zusammengerechnet.
 
 <sup>3</sup> …
 
@@ -343,7 +343,7 @@ als Verordnung:[^ingress-2]
 - h) die verurteilte Person eine Privathaftpflichtversicherung nachweisen kann;
 - i) die verurteilte Person Gewähr bietet, dass sie die Rahmenbedingungen dieser Vollzugsform einhält, und dem Vollzug in dieser Form keine beruflichen, familiären oder anderen wichtigen Gründe entgegenstehen.
 
-<sup>2</sup> Für die Zulassung ist die Dauer der vom Richter ausgesprochenen Gesamtstrafe massgebend. Verschiedene Freiheitsstrafen werden gemeinsam vollzogen und deren Dauer zusammengerechnet.
+<sup>2</sup> Für die Zulassung ist die Dauer der von der Richterin oder dem Richter ausgesprochenen Gesamtstrafe massgebend. Verschiedene Freiheitsstrafen werden gemeinsam vollzogen und deren Dauer zusammengerechnet.
 
 <sup>3</sup> Die Zustimmung nach Abs. 1 Bst. f und g dieser Bestimmung beinhaltet das Einverständnis, dass der Vollzugsbehörde oder der von ihr beauftragten Stelle während der elektronischen Überwachung jederzeit auch ohne Voranmeldung Zutritt zur Unterkunft gewährt wird.
 
@@ -361,7 +361,7 @@ als Verordnung:[^ingress-2]
 - d) die verurteilte Person Gewähr bietet, dass sie die Rahmenbedingungen dieser Vollzugsform und des Einsatzbetriebs einhält;
 - e) die verurteilte Person zustimmt, dass dem Einsatzbetrieb die Straftatbestände, die zur Verurteilung führten, bekanntgegeben werden können.
 
-<sup>2</sup> Für die Zulassung ist die Dauer der vom Richter ausgesprochenen Gesamtstrafe massgebend. Verschiedene Freiheitsstrafen werden gemeinsam vollzogen und deren Dauer zusammengerechnet.
+<sup>2</sup> Für die Zulassung ist die Dauer der von der Richterin oder dem Richter ausgesprochenen Gesamtstrafe massgebend. Verschiedene Freiheitsstrafen werden gemeinsam vollzogen und deren Dauer zusammengerechnet.
 
 <sup>3</sup> Bei Geldstrafen und Bussen ergibt sich die Dauer der gemeinnützigen Arbeit aufgrund der Ersatzfreiheitsstrafe, die an die Stelle der Geldstrafe oder Busse tritt, wenn diese nicht bezahlt wird. Für den Vollzug einer Ersatzfreiheitsstrafe ist die gemeinnützige Arbeit ausgeschlossen.
 
@@ -581,12 +581,12 @@ als Verordnung:[^ingress-2]
 
 **Mediation a) Grundsatz**
 
-<sup>1</sup> Die Jugendanwaltschaft holt das Einverständnis der Parteien und ihrer gesetzlichen Vertreter zur Einleitung des Mediationsverfahrens ein, wenn:
+<sup>1</sup> Die Jugendanwaltschaft holt das Einverständnis der Parteien und ihrer gesetzlichen Vertretungen zur Einleitung des Mediationsverfahrens ein, wenn:
 
 - a) begründete Aussicht auf eine erfolgreiche Konfliktlösung besteht;
 - b) der Stand der Untersuchung es erlaubt.
 
-<sup>2</sup> Liegt das Einverständnis der Parteien und ihrer gesetzlichen Vertreter vor, beauftragt die Jugendanwaltschaft eine geeignete Organisation oder Person mit der Durchführung des Mediationsverfahrens. Die Jugendanwaltschaft führt eine Liste mit Mediatorinnen und Mediatoren, die hinsichtlich Ausbildung, Rechtskenntnissen und Unparteilichkeit Gewähr für einen fairen Verfahrensablauf bieten.
+<sup>2</sup> Liegt das Einverständnis der Parteien und ihrer gesetzlichen Vertretungen vor, beauftragt die Jugendanwaltschaft eine geeignete Organisation oder Person mit der Durchführung des Mediationsverfahrens. Die Jugendanwaltschaft führt eine Liste mit Mediatorinnen und Mediatoren, die hinsichtlich Ausbildung, Rechtskenntnissen und Unparteilichkeit Gewähr für einen fairen Verfahrensablauf bieten.
 
 <sup>3</sup> Anstelle einer Mediation kann die Jugendanwaltschaft mit den Parteien eine Vermittlungsverhandlung durchführen, wenn eine Vereinbarung zwischen den Parteien voraussichtlich auch auf diesem Weg erreicht werden kann.
 
