@@ -1,27 +1,27 @@
 ---
 canton: TG
 number: "831.31"
-title: "Verordnung des Regierungsrates zum Gesetz über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung"
+title: "Verordnung zum Gesetz über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung"
 short: TG ELV
 language: de
-version: 2021-10-01
-valid_until: 2022-12-31
-version_adopted: 2021-10-05
+version: 2023-01-01
+valid_until: 2025-12-31
+version_adopted: 2022-09-13
 adopted: 2007-12-11
 in_force: 2008-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/831.31"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2275/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2589/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung des Regierungsrates zum Gesetz über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung
+# Verordnung zum Gesetz über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung
 
 TG ELV
 
 (TG ELV)
 
-vom 11.12.2007 (Stand 01.10.2021)
+vom 11.12.2007 (Stand 01.01.2023)
 
 ## 1. Allgemeine Bestimmungen
 
@@ -60,16 +60,16 @@ vom 11.12.2007 (Stand 01.10.2021)
 
 <sup>1</sup> Vergütet werden Kosten bis insgesamt höchstens Fr. 4'800 pro Jahr:
 
-- 1\. für einen Notfalltransport in der Schweiz;
-- 2\. für eine notwendige Verlegung;
-- 3\. für den Transport zum nächstgelegenen medizinischen Behandlungsort;
-- 4\. für den Transport zur nächstgelegenen Tagesstruktur nach § 12.
+- 1\. für einen Notfalltransport in der Schweiz
+- 2\. für eine notwendige Verlegung
+- 3\. für den Transport zum nächstgelegenen medizinischen Behandlungsort
+- 4\. für den Transport zur nächstgelegenen Tagesstätte nach § 12
 
 <sup>2</sup> Für den Transport nach Abs. 1 Ziff. 3 und Ziff. 4 werden nur die Kosten vergütet, die dem günstigsten Tarif der öffentlichen Transportmittel für Fahrten auf dem direkten Weg entsprechen.
 
 <sup>3</sup> Ist der versicherten Person wegen ihrer Krankheit oder Behinderung die Benützung der öffentlichen Transportmittel nicht möglich, werden die Kosten eines anderen, zumutbaren Transportmittels vergütet.
 
-<sup>4</sup> Für private Personenwagen werden pauschal höchstens 70 Rp./km vergütet; erfolgen Abgabe oder Amortisation durch die IV, beträgt der Ansatz höchstens 25 Rp./km.
+<sup>4</sup> Für private Personenwagen werden pauschal höchstens Fr. 0.70 pro km vergütet; erfolgen Abgabe oder Amortisation durch die IV, beträgt der Ansatz höchstens Fr. 0.25 pro km.
 
 #### § 5
 
@@ -93,12 +93,12 @@ vom 11.12.2007 (Stand 01.10.2021)
 
 <sup>1</sup> Anerkannte Heime im Kanton Thurgau im Sinne von Art. 25a Abs. 1 der Verordnung über die Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung (ELV)[^5b-1] sind:
 
-- 1\. Einrichtungen, die auf der Spitalliste gemäss § 29 TG KVG[^5b-2] und der Pflegeheimliste gemäss § 25 der Verordnung des Regierungsrates zum Gesetz über die Krankenversicherung[^5b-3] aufgeführt sind;
-- 2\. Einrichtungen mit Betriebsbewilligung gemäss § 6b des Gesetzes über die öffentliche Sozialhilfe (SHG)[^5b-4];
-- 3\. Einrichtungen für stationäre Aufenthalte mit Betriebsbewilligung gemäss § 6c SHG;
-- 4\. Einrichtungen mit Betriebsbewilligung gemäss Art. 13 Abs. 1 lit. a der Verordnung über die Aufnahme von Pflegekindern (PAVO)[^5b-5];
-- 5\. Pflegefamilien mit Bewilligung gemäss Art. 4 PAVO;
-- 6\. Sonderschulheime mit Betriebsbewilligung gemäss § 7 der Verordnung des Regierungsrates über die Sonderschulung, Heilpädagogische Früherziehung, Spitalschulung und spezielle Unterstützungsangebote[^5b-6].
+- 1\. Einrichtungen, die auf der Spitalliste gemäss § 29 des Gesetzes über die Krankenversicherung (TG KVG)[^5b-2] und der Pflegeheimliste gemäss § 25 der Verordnung des Regierungsrates zum Gesetz über die Krankenversicherung (TG KVV)[^5b-3] aufgeführt sind
+- 2\. Einrichtungen mit Betriebsbewilligung gemäss § 6b des Gesetzes über die öffentliche Sozialhilfe (SHG)[^5b-4]
+- 3\. Einrichtungen für stationäre Aufenthalte mit Betriebsbewilligung gemäss § 6c SHG
+- 4\. Einrichtungen mit Betriebsbewilligung gemäss Art. 13 Abs. 1 lit. a der Verordnung über die Aufnahme von Pflegekindern (PAVO)[^5b-5]
+- 5\. Pflegefamilien mit Bewilligung gemäss Art. 4 PAVO
+- 6\. Sonderschulheime mit Betriebsbewilligung gemäss § 7 der Verordnung des Regierungsrates über die Sonderschulung, Heilpädagogische Früherziehung, Spitalschulung und spezielle Unterstützungsangebote[^5b-6]
 
 [^5b-1]: SR [831.301](https://db.clex.ch/link/Bund/831.301/de)
 [^5b-2]: RB [832.1](https://www.rechtsbuch.tg.ch/data/832.1/de)
@@ -111,7 +111,7 @@ vom 11.12.2007 (Stand 01.10.2021)
 
 **Maximal anrechenbare Tagestaxe**
 
-<sup>1a</sup> Bei Aufenthalt in einem inner- oder ausserkantonalen Spital, anerkannten Alters- oder Pflegeheim wird für Hotellerie und Betreuung gesamthaft höchstens eine Tagestaxe von Fr. 165 angerechnet. Hat die versicherte Person einen Eigenanteil an die Pflege zu leisten, erhöht sich die maximal anrechenbare Tagestaxe um den im Kanton Thurgau geltenden Ansatz des Eigenanteils, höchstens aber um die nach Abzug des Beitrages der obligatorischen Krankenpflegeversicherung verbleibenden Kosten.
+<sup>1a</sup> Bei Aufenthalt in einem inner- oder ausserkantonalen Spital, anerkannten Alters- oder Pflegeheim wird für Hotellerie und Betreuung gesamthaft höchstens eine Tagestaxe von Fr. 180 angerechnet. Hat die versicherte Person einen Eigenanteil an die Pflege zu leisten, erhöht sich die maximal anrechenbare Tagestaxe um den im Kanton Thurgau geltenden Ansatz des Eigenanteils, höchstens aber um die nach Abzug des Beitrages der obligatorischen Krankenpflegeversicherung verbleibenden Kosten.
 
 <sup>1</sup> Bei Aufenthalt in einem anderen inner- oder ausserkantonal anerkannten Heim werden höchstens folgende Tagestaxen für Hotellerie und Betreuung angerechnet:
 
@@ -145,7 +145,7 @@ vom 11.12.2007 (Stand 01.10.2021)
 
 [^8-1]: SR [831.101](https://db.clex.ch/link/Bund/831.101/de)
 
-## 3. Hilfe, Pflege und Betreuung zu Hause und in Tagesstrukturen
+## 3. Hilfe, Pflege und Betreuung zu Hause und in Tagesstätten
 
 #### § 9
 
@@ -175,7 +175,7 @@ vom 11.12.2007 (Stand 01.10.2021)
 
 **Familienangehörige und Partnerin oder Partner in faktischer Lebensgemeinschaft**
 
-<sup>1</sup> Kosten für Hilfe, Pflege und Betreuung von zu Hause wohnenden Bezügerinnen und Bezügern mit einer Hilflosenentschädigung für mittelschwere oder schwere Hilflosigkeit durch Familienangehörige oder durch die Partnerin oder den Partner in faktischer Lebensgemeinschaft werden nur vergütet, wenn diese Personen:
+<sup>1</sup> Kosten für Hilfe, Pflege und Betreuung von zu Hause wohnenden Bezügerinnen und Bezügern mit einer Hilflosenentschädigung für mittelschwere oder schwere Hilflosigkeit durch Familienangehörige oder durch die Partnerin oder den Partner in faktischer Lebensgemeinschaft werden nur vergütet, wenn diese Personen
 
 - 1\. nicht in der EL-Berechnung eingeschlossen sind und
 - 2\. durch die Pflege und Betreuung eine länger dauernde, wesentliche Erwerbseinbusse erleiden und
@@ -195,8 +195,8 @@ vom 11.12.2007 (Stand 01.10.2021)
 
 <sup>2</sup> Keine Kosten werden vergütet:
 
-- 1\. bei Beschäftigung mit einer Entlöhnung von über Fr. 100 pro Monat;
-- 2\. bei Heimaufenthalt mit EL-Berechnung nach Art. 10 Abs. 2 des Bundesgesetzes über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung (ELG)[^12-2].
+- 1\. bei Beschäftigung mit einer Entlöhnung von über Fr. 100 pro Monat
+- 2\. bei Heimaufenthalt mit EL-Berechnung nach Art. 10 Abs. 2 des Bundesgesetzes über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung (ELG)[^12-2]
 
 [^12-1]: SR [831.26](https://db.clex.ch/link/Bund/831.26/de)
 [^12-2]: SR [831.30](https://db.clex.ch/link/Bund/831.30/de)
@@ -213,7 +213,7 @@ vom 11.12.2007 (Stand 01.10.2021)
 
 <sup>1</sup> Kosten für Hilfe und Betreuung im Haushalt durch anerkannte ambulante Organisationen werden, sofern die Notwendigkeit der Beanspruchung im Einzelfall ärztlich bescheinigt ist, vergütet. Bei einem abgestuften Tarif wird nur der tiefste Tarif angerechnet, höchstens jedoch Fr. 25 pro Stunde und Haushalt.
 
-<sup>2</sup> Kosten für Hilfe und Betreuung im Haushalt werden, sofern die Notwendigkeit der Beanspruchung im Einzelfall ärztlich bescheinigt ist, mit höchstens Fr. 25 pro Stunde und Haushalt und Fr. 4'800 pro Jahr und Haushalt (einschliesslich Sozialversicherungsabgaben) vergütet, wenn die Hilfe von einer Person erbracht wird, welche:
+<sup>2</sup> Kosten für Hilfe und Betreuung im Haushalt werden, sofern die Notwendigkeit der Beanspruchung im Einzelfall ärztlich bescheinigt ist, mit höchstens Fr. 25 pro Stunde und Haushalt und Fr. 4'800 pro Jahr und Haushalt (einschliesslich Sozialversicherungsabgaben) vergütet, wenn die Hilfe von einer Person erbracht wird, die
 
 - 1\. nicht im gleichen Haushalt lebt oder
 - 2\. nicht über eine anerkannte ambulante Organisation eingesetzt wird.
@@ -230,7 +230,7 @@ vom 11.12.2007 (Stand 01.10.2021)
 
 **Betreutes Wohnen**
 
-<sup>1</sup> Die Kosten für die Bereitstellung von Grundleistungen für betreutes Wohnen zu Hause werden mit höchstens Fr. 8'400 pro Jahr und Wohnung vergütet, wenn:
+<sup>1</sup> Die Kosten für die Bereitstellung von Grundleistungen für betreutes Wohnen zu Hause werden mit höchstens Fr. 8'400 pro Jahr und Wohnung vergütet, wenn
 
 - 1\. die Wohnung an ein kantonal anerkanntes Heim angegliedert ist,
 - 2\. das Heim die Weisungen des Departementes für Finanzen und Soziales betreffend die Bewilligung und den Betrieb von Einrichtungen für pflegebedürftige Menschen (Pflegeheime) erfüllt und
@@ -240,13 +240,11 @@ vom 11.12.2007 (Stand 01.10.2021)
 
 **Anrechnung der Hilflosenentschädigung**
 
-<sup>1</sup> Erhöht sich der Betrag der Kostenvergütung nach Art. 14 Abs. 4 ELG[^15-1], so wird die Hilflosenentschädigung der Invaliden- und der Unfallversicherung von den Pflege- und Betreuungskosten nach den § 9 bis § 11 abgezogen. Der Mindestbeitrag nach Art. 14 Abs. 3 ELG darf jedoch nicht unterschritten werden.
+<sup>1</sup> Erhöht sich der Betrag der Kostenvergütung nach Art. 14 Abs. 4 ELG, so wird die Hilflosenentschädigung der Invaliden- und der Unfallversicherung von den Pflege- und Betreuungskosten nach den § 9 bis § 11 abgezogen. Der Mindestbeitrag nach Art. 14 Abs. 3 ELG darf jedoch nicht unterschritten werden.
 
 <sup>2</sup> Hat die Krankenversicherung für ihre Vergütung von Pflege- und Betreuungskosten zu Hause die Hilflosenentschädigung der Invaliden- oder der Unfallversicherung angerechnet, so wird die Hilflosenentschädigung im Umfang der Anrechnung nicht von den Kosten abgezogen.
 
 <sup>3</sup> Bei Anwendung von Art. 14 Abs. 5 ELG gelten Abs. 1 und Abs. 2 sinngemäss.
-
-[^15-1]: SR [831.30](https://db.clex.ch/link/Bund/831.30/de)
 
 ## 4. Hilfsmittel
 
@@ -256,9 +254,9 @@ vom 11.12.2007 (Stand 01.10.2021)
 
 <sup>1</sup> Vergütet werden die Kosten für:
 
-- 1\. kostspielige orthopädische Schuhzurichtungen an Konfektionsschuhen;
-- 2\. automatische Zusätze zu Sanitäreinrichtungen, sofern eine zu Hause lebende Person ohne diese Zusätze allein nicht zur betreffenden Körperhygiene fähig ist;
-- 3\. Nachtstühle bei zu Hause lebenden Personen.
+- 1\. kostspielige orthopädische Schuhzurichtungen an Konfektionsschuhen
+- 2\. automatische Zusätze zu Sanitäreinrichtungen, sofern eine zu Hause lebende Person ohne diese Zusätze allein nicht zur betreffenden Körperhygiene fähig ist
+- 3\. Nachtstühle bei zu Hause lebenden Personen
 
 <sup>2</sup> Anspruch auf eine Vergütung in Höhe eines Drittels des Kostenbeitrages der AHV besteht zudem bei Hilfsmitteln:
 
