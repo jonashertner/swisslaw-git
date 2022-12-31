@@ -4,13 +4,13 @@ number: "172.1"
 title: Geschäftsreglement des Regierungsrates
 short: GRR
 language: de
-version: 2022-06-01
-valid_until: 2022-12-31
-version_adopted: 2022-02-22
+version: 2023-01-01
+valid_until: 2024-05-31
+version_adopted: 2022-12-20
 adopted: 1989-12-19
 in_force: 1990-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/172.1"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2501/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2602/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ GRR
 
 (GRR)
 
-vom 19.12.1989 (Stand 01.06.2022)
+vom 19.12.1989 (Stand 01.01.2023)
 
 ## 1. Regierungsrat
 
@@ -157,9 +157,9 @@ vom 19.12.1989 (Stand 01.06.2022)
 
 <sup>1</sup> Unter der Leitung der Präsidentin oder des Präsidenten behandelt der Rat seine Geschäfte wie folgt:
 
-- 1\. Protokoll der letzten Sitzung,
-- 2\. Anträge,
-- 3\. Korrespondenzen.
+- 1\. Protokoll der letzten Sitzung
+- 2\. Anträge
+- 3\. Korrespondenzen
 
 <sup>2</sup> Am Schluss eröffnet die Präsidentin oder der Präsident die Umfrage unter den Mitgliedern. Diese dient der Orientierung des Rates über Geschäfte von allgemeinem Interesse und zur Vorbereitung zukünftiger Entscheide.
 
