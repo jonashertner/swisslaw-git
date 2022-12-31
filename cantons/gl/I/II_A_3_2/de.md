@@ -4,13 +4,12 @@ number: II A/3/2
 title: Gesetz über die Organisation des Regierungsrates und der Verwaltung
 short: Regierungs- und Verwaltungsorganisationsgesetz; RVOG
 language: de
-version: 2022-07-01
-valid_until: 2022-12-31
-version_adopted: 2022-05-01
+version: 2023-01-01
+version_adopted: 2021-09-05
 adopted: 2004-05-02
 in_force: 2006-05-07
 url: "https://gesetze.gl.ch/app/de/texts_of_law/II-A.3.2"
-pdf: "https://gesetze.gl.ch/api/de/versions/2312/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2348/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2312/pdf_file"
 
 (Regierungs- und Verwaltungsorganisationsgesetz; RVOG)
 
-Vom 02.05.2004 (Stand 01.07.2022)
+Vom 02.05.2004 (Stand 01.01.2023)
 
 (Erlassen von der Landsgemeinde am 2. Mai 2004)
 
@@ -55,9 +54,7 @@ Vom 02.05.2004 (Stand 01.07.2022)
 
 #### Art. 4
 
-**Information der Öffentlichkeit**
-
-<sup>1</sup> Regierungsrat und Verwaltung sorgen für die sach- und zeitgerechte Information der Öffentlichkeit über laufende Sachgeschäfte, Probleme und Vorhaben von allgemeinem Interesse. Vorbehalten bleibt das Amtsgeheimnis (Art. 27).
+**…**
 
 ## 2. Organisation des Regierungsrates
 
@@ -268,19 +265,36 @@ Vom 02.05.2004 (Stand 01.07.2022)
 
 <sup>4</sup> Die finanz-, personal- und stellenplanrechtlichen Rahmenbedingungen für Leistungsaufträge gemäss dieser Bestimmung werden durch die betreffenden Spezialvorschriften geregelt.
 
+#### Art. 26a
+
+**Geschäftsverwaltungssysteme**
+
+<sup>1</sup> Die Einheiten der Zentralverwaltung können für ihre Geschäftsprozesse sowie für die Verwaltung von amtlichen Dokumenten elektronische Geschäftsverwaltungssysteme führen.
+
+<sup>2</sup> Personendaten sowie Daten juristischer Personen einschliesslich besonders schützenswerter Daten dürfen in den Geschäftsverwaltungssystemen bearbeitet werden, wenn sie dazu dienen:
+
+- a. Geschäfte zu bearbeiten;
+- b. Arbeitsabläufe zu organisieren;
+- c. festzustellen, ob Daten über eine bestimmte Person bearbeitet werden;
+- d. den Zugang zu amtlichen Dokumenten zu erleichtern.
+
+<sup>3</sup> Der Regierungsrat regelt die Einzelheiten, insbesondere zur Organisation und zum Betrieb der Geschäftsverwaltungssysteme sowie zum Schutz der darin erfassten Personendaten und Daten juristischer Personen.
+
 ## 4. Rechtsstellung der Regierungsmitglieder und der Mitglieder der übrigen Verwaltungsbehörden
 
 #### Art. 27
 
 **Amtsgeheimnis**
 
-<sup>1</sup> Die Regierungsmitglieder und die Mitglieder der übrigen Verwaltungsbehörden sowie die mit Verwaltungsaufgaben betrauten privaten Personen sind zur Verschwiegenheit über amtliche Angelegenheiten verpflichtet, die ihrer Natur nach oder gemäss besonderer Vorschrift geheim zu halten sind.
+<sup>1</sup> Die Regierungsmitglieder und die Mitglieder der übrigen Verwaltungsbehörden sowie die mit Verwaltungsaufgaben betrauten privaten Personen sind zur Verschwiegenheit über amtliche Angelegenheiten verpflichtet, soweit an der Geheimhaltung ein überwiegendes öffentliches oder privates Interesse gemäss Gesetz über die Information der Öffentlichkeit, den Datenschutz und das Archivwesen[^27-1] besteht oder wenn eine besondere gesetzliche Bestimmung dies vorsieht.
 
-<sup>2</sup> Ihrer Natur nach geheim zu halten sind insbesondere Angaben über das Privatleben von Personen, über Geschäftsgeheimnisse von Unternehmen, über Angelegenheiten der Sozialhilfe und der Gesundheitspflege sowie über administrative oder strafrechtliche Verfolgungen und Sanktionen.
+<sup>2</sup> …
 
 <sup>3</sup> Die Pflicht zur Amtsverschwiegenheit bleibt auch nach dem Ausscheiden aus der Behörde bestehen.
 
-<sup>4</sup> Vorbehalten bleiben die Bestimmungen in der Kantonsverfassung, in den gesetzlichen Verfahrensordnungen und in der Landratsverordnung über die Entbindung vom Amtsgeheimnis und die Verpflichtung zur Offenbarung. Im Übrigen sind die Behörden ausnahmsweise nicht an das Amtsgeheimnis gebunden, wenn wichtige öffentliche Interessen für die Offenbarung sprechen und dieser keine überwiegenden öffentlichen oder privaten Interessen entgegen stehen.
+<sup>4</sup> Vorbehalten bleiben die Bestimmungen in der Kantonsverfassung, in den gesetzlichen Verfahrensordnungen und in der Landratsverordnung über die Entbindung vom Amtsgeheimnis und die Verpflichtung zur Offenbarung.
+
+[^27-1]: GS [I F/1](https://gesetze.gl.ch/data/I-F.1/de)
 
 #### Art. 28
 
@@ -298,7 +312,7 @@ Vom 02.05.2004 (Stand 01.07.2022)
 
 <sup>3</sup> Sie dürfen im Übrigen ihnen von der Kantonsverfassung erlaubte öffentliche Ämter sowie Tätigkeiten in politischen, gemeinnützigen oder kulturellen Organisationen nur ausüben, wenn diese mit ihrem Vollamt und mit ihrer Unabhängigkeit vereinbar sind.
 
-<sup>4</sup> Der Regierungsrat orientiert den Landrat im Rahmen des Amtsberichtes über alle Nebenbeschäftigungen seiner Mitglieder, die im Lichte der vorstehenden Absätze von Interesse sind.
+<sup>4</sup> Der Regierungsrat legt alle Nebenbeschäftigungen seiner Mitglieder, die im Lichte der vorstehenden Absätze von Interesse sind, offen und macht die Informationen der Öffentlichkeit zugänglich.
 
 ## 5. Schlussbestimmungen
 
