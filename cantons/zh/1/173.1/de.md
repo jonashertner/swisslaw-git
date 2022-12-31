@@ -5,10 +5,9 @@ title: Bezirksverwaltungsgesetz (BezVG)
 short: BezVG
 language: de
 version: "2018-01-01"
-nachtrag: "103"
-valid_until: 2023-01-01
+nachtrag: "119"
 adopted: 1985-03-10
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-173_1-1985_03_10-1985_07_01-103.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-173_1-1985_03_10-1985_07_01-119.html"
 text: pdf
 ---
 
@@ -60,7 +59,7 @@ Die Bezirksbehörden erstatten den vorgesetzten Behörden jährlich Bericht übe
 
 **1**
 
-- 1\. 1. 19 - 103
+- 1\. 1. 23 - 119
 
 ### C. Einzelne Behörden
 
@@ -166,7 +165,7 @@ Die nachstehenden Gesetze werden aufgehoben:
 
 **3**
 
-- 1\. 1. 19 - 103
+- 1\. 1. 23 - 119
 
 <sup>19</sup> Die Gemeinde Hofstetten wurde nach dem Zusammenschluss mit der Gemeinde Elgg auf 1. Januar 2018 aus der Liste entfernt.
 
@@ -175,6 +174,8 @@ Die nachstehenden Gesetze werden aufgehoben:
 <sup>21</sup> Die Gemeinden Oberstammheim, Unterstammheim und Waltalingen wurden nach dem Zusammenschluss zur neuen Gemeinde Stammheim auf 1. Januar 2019 aus der Liste entfernt.
 
 <sup>22</sup> Die Gemeinden Schönenberg und Hütten wurden nach dem Zusammenschluss mit der Gemeinde Wädenswil auf 1. Januar 2019 aus der Liste entfernt.
+
+<sup>23</sup> Die Gemeinden Humlikon und Adlikon wurden nach dem Zusammenschluss mit der Gemeinde Andelfingen auf 1. Januar 2023 aus der Liste entfernt.
 
 ### Anhang
 
@@ -196,11 +197,11 @@ Bezirk Pfäffikon:<sup>16,</sup> <sup>17</sup> Hauptort Pfäffikon. Zugehörige 
 
 Bezirk Winterthur:<sup>14,</sup> <sup>19</sup> Hauptort Winterthur. Zugehörige Gemeinden: Altikon, Brütten, Dägerlen, Dättlikon, Dinhard, Elgg, Ellikon a. d. Th., Elsau, Hagenbuch, Hettlingen, Neftenbach, Pfungen, Rickenbach, Schlatt, Seuzach, Turbenthal, Wiesendangen, Winterthur und Zell.
 
-Bezirk Andelfingen:<sup>21</sup> Hauptort Andelfingen. Zugehörige Gemeinden: Adlikon, Andelfingen, Benken, Berg a. I., Buch a. I., Dachsen, Dorf, Feuerthalen, Flaach, Flurlingen, Henggart, Humlikon, Kleinandelfingen, Laufen-Uhwiesen, Marthalen, Ossingen, Rheinau, Stammheim, Thalheim a. d. Th., Trüllikon, Truttikon und Volken.
+Bezirk Andelfingen:<sup>21,</sup> <sup>23</sup> Hauptort Andelfingen. Zugehörige Gemeinden: Andelfingen, Benken, Berg a. I., Buch a. I., Dachsen, Dorf, Feuerthalen, Flaach, Flurlingen, Henggart, Kleinandelfingen, Laufen-Uhwiesen, Marthalen, Ossingen, Rheinau, Stammheim, Thalheim a. d. Th., Trüllikon, Truttikon und Volken.
 
 **5**
 
-- 1\. 1. 19 - 103 Bezirk Bülach: Hauptort Bülach. Zugehörige Gemeinden: Bachenbülach, Bassersdorf, Bülach, Dietlikon, Eglisau, Embrach, Freienstein-Teufen, Glattfelden, Hochfelden, Höri, Hüntwangen, Kloten, Lufingen, Nürensdorf, Oberembrach, Opfikon, Rafz, Rorbas, Wallisellen, Wasterkingen, Wil und Winkel.
+- 1\. 1. 23 - 119 Bezirk Bülach: Hauptort Bülach. Zugehörige Gemeinden: Bachenbülach, Bassersdorf, Bülach, Dietlikon, Eglisau, Embrach, Freienstein-Teufen, Glattfelden, Hochfelden, Höri, Hüntwangen, Kloten, Lufingen, Nürensdorf, Oberembrach, Opfikon, Rafz, Rorbas, Wallisellen, Wasterkingen, Wil und Winkel.
 
 Bezirk Dielsdorf: Hauptort Dielsdorf. Zugehörige Gemeinden: Bachs, Boppelsen, Buchs, Dällikon, Dänikon, Dielsdorf, Hüttikon, Neerach, Niederglatt, Niederhasli, Niederweningen, Oberglatt, Oberweningen, Otelfingen, Regensberg, Regensdorf, Rümlang, Schleinikon, Schöfflisdorf, Stadel, Steinmaur und Weiach.
 
