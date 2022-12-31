@@ -4,7 +4,7 @@ number: "416.11.1"
 title: RÈGLEMENT du 11.11.2015 d’application de la loi du 1er juillet 2014 sur l’aide aux études et à la formation professionnelle (RLAEF)
 short: RLAEF
 language: fr
-version: 2021-03-01
+version: 2023-01-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/416.11.1?id=041a1810-1759-4c9b-9802-a3fd58c53b0f"
 ---
 
@@ -773,6 +773,16 @@ arrête
 
 [^55a-1]: Modif. 2 du 06.07.2022: Introduction Art. 55b; entrée en vigueur au 01.03.2021
 
+#### Art. 55c
+
+**Dispositions transitoires du règlement modifiant du 1er février 2023 [^55b-1]**
+
+<sup>1</sup> Les barèmes des charges normales de base et des charges complémentaires modifiés au 1er janvier 2023 sont appliquées dès l'année de formation 2023-2024.
+
+<sup>2</sup> Pour l'année de formation 2022-2023, la modification du barème conduit, pour tous les bénéficiaires de bourse en formation au 1er janvier 2023, au versement d'une allocation unique correspondant à 9,52% du montant de la bourse perçu pour les mois de janvier à juillet 2023.
+
+[^55b-1]: Modif. 3 du 01.02.2023: Introduction tArt; entrée en vigueur au 01.01.2023; Introduction Al. 1-2; entrée en vigueur au 01.01.2023; Introduction Art. 55c; entrée en vigueur au 01.01.2023
+
 #### Art. 56
 
 **Abrogation (art. 49 de la loi)**
@@ -789,6 +799,6 @@ Annexes [^57-1]
 
 1
 
-[Barèmes](https://prestations.vd.ch/pub/blv-publication/api/actes/041a1810-1759-4c9b-9802-a3fd58c53b0f/annexes/1?dmev=01.03.2021)
+[Barèmes](https://prestations.vd.ch/pub/blv-publication/api/actes/041a1810-1759-4c9b-9802-a3fd58c53b0f/annexes/1?dmev=01.01.2023)
 
-[^57-1]: Modif. 1 du 27.03.2019: Modification Annexes, Ann. 1; entrée en vigueur au 01.04.2019 · Modif. 3 du 01.02.2023: Introduction Art. 55c; entrée en vigueur au 01.01.2023; Modification Annexes, Ann. 1; entrée en vigueur au 01.01.2023
+[^57-1]: Modif. 1 du 27.03.2019: Modification Annexes, Ann. 1; entrée en vigueur au 01.04.2019 · Modif. 3 du 01.02.2023: Modification Annexes, Ann. 1; entrée en vigueur au 01.01.2023
