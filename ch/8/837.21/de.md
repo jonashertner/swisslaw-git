@@ -4,11 +4,11 @@ title: Verordnung vom 11. Juni 2021 über Überbrückungsleistungen für ältere
 short: ÜLV
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/376"
 language: de
-version: 2021-07-01
+version: 2023-01-01
 adopted: 2021-06-11
 in_force: 2021-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/376/20210701/de/xml/fedlex-data-admin-ch-eli-cc-2021-376-20210701-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/376/20210701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/376/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2021-376-20230101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/376/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/376/20210701/de"
 
 (ÜLV)
 
-vom 11. Juni 2021 (Stand am 1. Juli 2021)
+vom 11. Juni 2021 (Stand am 1. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -147,7 +147,9 @@ Die Anpassung an die Kaufkraft des Wohnsitzstaates nach Artikel 8 ÜLG erfolgt a
 
 <sup>2</sup> Absatz 1 gilt auch für Personen, denen die Nutzniessung oder ein Wohnrecht an der Liegenschaft zusteht, die sie bewohnen.
 
-<sup>3</sup> Die Pauschale beträgt pro Jahr 2520 Franken.
+<sup>3</sup> Die Pauschale beträgt pro Jahr 3060 Franken.[^11-1]
+
+[^11-1]: Fassung gemäss Ziff. I der V vom 12. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 611](https://fedlex.data.admin.ch/eli/oc/2022/611)).
 
 #### Art. 12
 
@@ -504,13 +506,14 @@ Kosten für die Anschaffung oder die Miete von Hilfsmitteln werden vergütet, so
 
 ### (Art. 19 Abs. 1 ÜLG)
 
-<sup>1</sup> Der Anspruch auf Überbrückungsleistungen muss durch eine schriftliche Anmeldung geltend gemacht werden. Artikel 67 Absatz 1 AHVV[^37-1] ist sinngemäss anwendbar.
+<sup>1</sup> Der Anspruch auf Überbrückungsleistungen muss durch Einreichen des Anmeldeformulars geltend gemacht werden. Artikel 67 Absatz 1 AHVV[^37-1] ist sinngemäss anwendbar.[^37-2]
 
 <sup>2</sup> Bei der Anmeldung müssen die Personalien und die Einkommens- und Vermögensverhältnisse aller in die Berechnung der Überbrückungsleistungen eingeschlossenen Personen angegeben werden.
 
 <sup>3</sup> Beantragt eine Person mit Wohnsitz im Ausland Überbrückungsleistungen, so ist die Durchführungsstelle am letzten Wohnsitz der Person in der Schweiz zuständig. Für Personen, die nie Wohnsitz in der Schweiz hatten, ist die Durchführungsstelle am Sitz des letzten Arbeitgebers zuständig.
 
 [^37-1]: [SR 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^37-2]: Fassung gemäss Ziff. I der V vom 12. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 611](https://fedlex.data.admin.ch/eli/oc/2022/611)).
 
 #### Art. 38
 
@@ -716,6 +719,6 @@ Anhang
 
 Die nachstehenden Erlasse werden wie folgt geändert:
 
-...[^annexu1-lvlu1-1]
+…[^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: Die Änderungen können unter [AS 2021 376](https://fedlex.data.admin.ch/eli/oc/2021/376)konsultiert werden.

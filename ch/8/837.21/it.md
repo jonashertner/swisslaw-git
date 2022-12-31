@@ -4,11 +4,11 @@ title: "Ordinanza dell'11 giugno 2021 sulle prestazioni transitorie per i disocc
 short: OPTD
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/376"
 language: it
-version: 2021-07-01
+version: 2023-01-01
 adopted: 2021-06-11
 in_force: 2021-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/376/20210701/it/xml/fedlex-data-admin-ch-eli-cc-2021-376-20210701-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/376/20210701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/376/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2021-376-20230101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/376/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/376/20210701/it"
 
 (OPTD)
 
-dell’11 giugno 2021 (Stato 1° luglio 2021)
+dell’11 giugno 2021 (Stato 1° gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -147,7 +147,9 @@ L’adeguamento al potere d’acquisto dello Stato di domicilio secondo l’arti
 
 <sup>2</sup> Il capoverso 1 si applica anche alle persone che beneficiano di un usufrutto o sono titolari di un diritto di abitazione sull’immobile da esse abitato.
 
-<sup>3</sup> L’importo forfettario ammonta a 2520 franchi all’anno.
+<sup>3</sup> L’importo forfettario ammonta a 3060 franchi all’anno.[^11-1]
+
+[^11-1]: Nuovo testo giusta il n. I dell’O del 12 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 611](https://fedlex.data.admin.ch/eli/oc/2022/611)).
 
 #### Art. 12
 
@@ -504,13 +506,14 @@ Le spese di acquisto o di noleggio di mezzi ausiliari sono rimborsate, se questi
 
 ### (art. 19 cpv. 1 LPTD)
 
-<sup>1</sup> Il diritto alle prestazioni transitorie va fatto valere mediante domanda scritta. L’articolo 67 capoverso 1 OAVS[^37-1] è applicabile per analogia.
+<sup>1</sup> Il diritto alle prestazioni transitorie va fatto valere presentando il modulo ufficiale. L’articolo 67 capoverso 1 OAVS[^37-1] è applicabile per analogia.[^37-2]
 
 <sup>2</sup> Nella domanda si devono fornire indicazioni sulle generalità e sulle condizioni di reddito e di sostanza di tutte le persone incluse nel calcolo delle prestazioni transitorie.
 
 <sup>3</sup> Se una persona domiciliata all’estero presenta una domanda per ricevere prestazioni transitorie, è competente l’organo esecutivo dell’ultimo Cantone in cui la persona è stata domiciliata in Svizzera. Per le persone che non sono mai state domiciliate in Svizzera è competente l’organo esecutivo del Cantone della sede del loro ultimo datore di lavoro.
 
 [^37-1]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^37-2]: Nuovo testo giusta il n. I dell’O del 12 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 611](https://fedlex.data.admin.ch/eli/oc/2022/611)).
 
 #### Art. 38
 

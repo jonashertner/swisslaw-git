@@ -4,11 +4,11 @@ title: Ordonnance du 11 juin 2021 sur les prestations transitoires pour les chô
 short: OPtra
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/376"
 language: fr
-version: 2021-07-01
+version: 2023-01-01
 adopted: 2021-06-11
 in_force: 2021-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/376/20210701/fr/xml/fedlex-data-admin-ch-eli-cc-2021-376-20210701-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/376/20210701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/376/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2021-376-20230101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/376/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/376/20210701/fr"
 
 (OPtra)
 
-du 11 juin 2021 (Etat le 1<sup>er</sup> juillet 2021)
+du 11 juin 2021 (État le 1<sup>er</sup> janvier 2023)
 
 Le Conseil fédéral suisse,
 
@@ -147,7 +147,9 @@ L’adaptation en fonction du pouvoir d’achat du pays de résidence prévue à
 
 <sup>2</sup> L’al. 1 s’applique également aux personnes qui ont un usufruit ou un droit d’habitation sur l’immeuble qu’elles habitent.
 
-<sup>3</sup> Le montant du forfait s’élève à 2520 francs par année.
+<sup>3</sup> Le montant du forfait s’élève à 3060 francs par année.[^11-1]
+
+[^11-1]: Nouvelle teneur selon le ch. I de l’O du 12 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 611](https://fedlex.data.admin.ch/eli/oc/2022/611)).
 
 #### Art. 12
 
@@ -329,14 +331,16 @@ Sont pris en compte dans les revenus déterminants:
 
 ### (Art. 13, al. 2 et 3, LPtra)
 
-**Art. 25** Montant du dessaisissement en cas d’aliénation
-
-(Art. 13, al. 2, LPtra)
-
 Il y a dessaisissement de fortune lorsqu’une personne:
 
 - a. aliène des parts de fortune sans obligation légale et que la contre-prestation n’atteint pas au moins 90 % de la valeur de la prestation, ou
 - b. a consommé, au cours de la période considérée, une part de fortune excédant ce qui aurait été admis sur la base de l’art. 13, al. 3, LPtra.
+
+#### Art. 25
+
+**Montant du dessaisissement en cas d’aliénation**
+
+### (Art. 13, al. 2, LPtra)
 
 <sup>1</sup> En cas d’aliénation d’un immeuble, à titre onéreux ou gratuit, est déterminante la valeur vénale pour savoir s’il y a renonciation à des parts de fortune au sens de l’art. 13, al. 2, LPtra. La valeur vénale n’est pas applicable si, légalement, il existe un droit d’acquérir l’immeuble à une valeur inférieure.
 
@@ -502,13 +506,14 @@ Les frais d’acquisition ou de location de moyens auxiliaires sont remboursés 
 
 ### (Art. 19, al. 1, LPtra)
 
-<sup>1</sup> La personne qui veut faire valoir un droit aux prestations transitoires doit déposer une demande écrite. L’art. 67, al. 1, RAVS[^37-1] est applicable par analogie.
+<sup>1</sup> La personne qui veut faire valoir un droit aux prestations transitoires doit déposer une demande au moyen de la formule officielle. L’art. 67, al. 1, RAVS[^37-1] est applicable par analogie.[^37-2]
 
 <sup>2</sup> La demande doit contenir les données personnelles et les conditions de revenu et de fortune de toutes les personnes comprises dans le calcul des prestations transitoires.
 
 <sup>3</sup> Si la personne qui fait valoir un droit aux prestations transitoires est domiciliée à l’étranger, l’organe d’exécution compétent est celui du dernier lieu de domicile en Suisse. Pour les personnes qui n’ont jamais été domiciliées en Suisse, l’organe d’exécution compétent est celui du siège de leur dernier employeur.
 
 [^37-1]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^37-2]: Nouvelle teneur selon le ch. I de l’O du 12 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 611](https://fedlex.data.admin.ch/eli/oc/2022/611)).
 
 #### Art. 38
 
