@@ -3,20 +3,19 @@ canton: VS
 number: "221.604"
 title: "Beschluss über den Erlass eines Normalarbeitsvertrags für das Personal von Seilbahnen, Sesselliften, Skiliften und ähnlichen Betrieben"
 language: de
-version: 2022-09-15
-valid_until: 2022-12-31
-version_adopted: 2022-08-31
+version: 2023-01-01
+version_adopted: 2022-11-23
 adopted: 2022-08-31
 in_force: 2022-09-15
 url: "https://lex.vs.ch/app/de/texts_of_law/221.604"
-pdf: "https://lex.vs.ch/api/de/versions/3065/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3088/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Beschluss über den Erlass eines Normalarbeitsvertrags für das Personal von Seilbahnen, Sesselliften, Skiliften und ähnlichen Betrieben
 
-vom 31.08.2022 (Stand 15.09.2022)
+vom 31.08.2022 (Stand 01.01.2023)
 
 Der Staatsrat des Kantons Wallis
 
@@ -47,6 +46,8 @@ beschliesst:
 <sup>1</sup> Dieser Normalarbeitsvertrag drückt den Willen zwischen den Vertragsparteien aus, es sei denn sie weichen mit einer schriftlichen Vereinbarung im Rahmen der gesetzlichen Bestimmungen der Artikel 361 und 362 des Obligationenrechts (OR) davon ab.
 
 <sup>2</sup> Von den Artikeln 10 Absatz 2 (Arbeitszeit) und 12 Absatz 1 (Ferienanspruch) des vorliegenden Normalarbeitsvertrages kann nicht abgewichen werden, da sie sich auf Vorschriften des Bundesgesetzes über die Arbeit in Unternehmen des öffentlichen Verkehrs (AZG) und der Verordnung zum Arbeitszeitgesetz (AZGV) beziehen.
+
+<sup>3</sup> Mit Beschluss vom 23. November 2022 (SGS 221.605) hat der Staatsrat zwingende Mindestlöhne bis zum 31. Mai 2027 erlassen. Es kann daher nicht von Artikel 13 Absatz 1 und Artikel 14 Absatz 1, 2 und 4 des vorliegenden Normalarbeitsvertrags sowie von dessen Anhang abgewichen werden, d.h. vom Lohn von 4'005 Franken ab dem 1. Januar 2023 und von den Löhnen des 1., 3. und 5. Jahres in der Branche ab dem 1. Juni 2023.
 
 ## 2 Allgemeine Bestimmungen
 
@@ -214,19 +215,19 @@ beschliesst:
 
 **Lohnklassen**
 
-<sup>1</sup> Die Arbeitnehmer werden nach den im Anhang 1 zu diesem Beschluss festgelegten Lohnklassen entlöhnt.
+<sup>1</sup> Die Arbeitnehmer werden nach den im Anhang 1 zu diesem Beschluss festgelegten Lohnklassen entlöhnt. Zu diesem Punkt wird auf Artikel 2 Absatz 3 des vorliegenden Normalarbeitsvertrages verwiesen.
 
 #### Art. 14
 
 **Löhne**
 
-<sup>1</sup> Die Minimallöhne dieses Normalarbeitsvertrages sind im Anhang 2 zu diesem Normalarbeitsvertag ausgeführt.
+<sup>1</sup> Die Minimallöhne dieses Normalarbeitsvertrages sind im Anhang 2 zu diesem Normalarbeitsvertag ausgeführt. Zu diesem Punkt wird auf Artikel 2 Absatz 3 des vorliegenden Normalarbeitsvertrages verwiesen.
 
-<sup>2</sup> Die Minimalstunden- und Minimalmonatslöhne verstehen sich ohne den Anteil des 13. Monatslohnes. Dieser muss zusätzlich bezahlt werden, ebenso wie der Anteil an den Ferien für Arbeitnehmer, die im Stundenlohn bezahlt werden.
+<sup>2</sup> Die Minimalstunden- und Minimalmonatslöhne verstehen sich ohne den Anteil des 13. Monatslohnes. Dieser muss zusätzlich bezahlt werden, ebenso wie der Anteil an den Ferien für Arbeitnehmer, die im Stundenlohn bezahlt werden. Zu diesem Punkt wird auf Artikel 2 Absatz 3 des vorliegenden Normalarbeitsvertrages verwiesen.
 
 <sup>3</sup> Bei der Anstellung wird dem Arbeitnehmer schriftlich die Höhe des Lohnes und die Lohnklasse seine Funktion gemäss Lohntabelle mitgeteilt. Wenn der Arbeitnehmer später die Lohnklasse wechselt, wird er ebenfalls schriftlich über die Neueinstufung und das Datum, an dem die Änderung in Kraft tritt, benachrichtigt.
 
-<sup>4</sup> Als Erfahrungsjahr in der Branche gilt eine Beschäftigungsdauer von einem Jahr oder 2 Saisons (Winter oder Sommer) mit jeweils einer Beschäftigungsdauer von mindestens 3 Monaten.
+<sup>4</sup> Als Erfahrungsjahr in der Branche gilt eine Beschäftigungsdauer von einem Jahr oder 2 Saisons (Winter oder Sommer) mit jeweils einer Beschäftigungsdauer von mindestens 3 Monaten. Zu diesem Punkt wird auf Artikel 2 Absatz 3 des vorliegenden Normalarbeitsvertrages verwiesen.
 
 <sup>5</sup> Diese Löhne sind Minimallöhne, die voraussetzen, dass der Arbeitnehmer voll leistungsfähig ist. Sie können erhöht werden, je nach Fähigkeit, Hingabe, besonderer Verantwortung des Arbeitnehmers und den Vorteilen, die seine Sprachkenntnisse dem Betrieb bringen.
 

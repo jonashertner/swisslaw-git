@@ -3,20 +3,19 @@ canton: VS
 number: "221.604"
 title: "Arrêté édictant un contrat-type de travail pour le personnel des téléphériques, télésièges, téléskis et tous autres moyens de transports analogues"
 language: fr
-version: 2022-09-15
-valid_until: 2022-12-31
-version_adopted: 2022-08-31
+version: 2023-01-01
+version_adopted: 2022-11-23
 adopted: 2022-08-31
 in_force: 2022-09-15
 url: "https://lex.vs.ch/app/fr/texts_of_law/221.604"
-pdf: "https://lex.vs.ch/api/fr/versions/3065/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3088/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
 # Arrêté édictant un contrat-type de travail pour le personnel des téléphériques, télésièges, téléskis et tous autres moyens de transports analogues
 
-du 31.08.2022 (état 15.09.2022)
+du 31.08.2022 (état 01.01.2023)
 
 Le Conseil d'Etat du Canton du Valais
 
@@ -47,6 +46,8 @@ arrête:
 <sup>1</sup> Le présent contrat-type de travail est réputé exprimer la volonté des parties contractantes, à moins qu'elles n'y dérogent par un accord écrit dans les limites fixées par les dispositions des articles 361 et 362 du Code des obligations (CO).
 
 <sup>2</sup> Il n'est pas possible de déroger aux articles 10 alinéa 2 (durée travail) et 12 alinéa 1 (droit aux vacances) du présent contrat-type de travail, dès lors qu'ils se réfèrent à des prescriptions de la loi fédérale sur le travail dans les entreprises de transports publics (LDT) et de l'ordonnance relative à la loi sur la durée du travail (OLDT).
+
+<sup>3</sup> Par arrêté du 23 novembre 2022 (RS 221.605), le Conseil d'Etat a édicté des salaires minimaux impératifs jusqu'au 31 mai 2027. Il ne peut dès lors être dérogé aux articles 13 alinéa 1 et 14 alinéas 1, 2 et 4 du présent contrat-type de travail, ainsi qu'à leur annexe, à savoir au salaire de 4'005 francs dès le 1<sup>er</sup> janvier 2023 et aux salaires des 1<sup>e</sup>, 3<sup>e</sup> et 5<sup>e</sup> années dans la branche dès le 1<sup>er</sup> juin 2023.
 
 ## 2 Dispositions générales
 
@@ -214,19 +215,19 @@ arrête:
 
 **Classes de salaires**
 
-<sup>1</sup> Les travailleurs sont rémunérés selon les classes de salaires définies dans l'annexe 1 au présent arrêté.
+<sup>1</sup> Les travailleurs sont rémunérés selon les classes de salaires définies dans l'annexe 1 au présent arrêté. Sur ce point, il est renvoyé à l'article 2 alinéa 3 du présent contrat-type de travail.
 
 #### Art. 14
 
 **Salaires**
 
-<sup>1</sup> Les salaires minimums du présent contrat-type de travail font l’objet de l'annexe 2 au présent contrat-type.
+<sup>1</sup> Les salaires minimums du présent contrat-type de travail font l’objet de l'annexe 2 au présent contrat-type. Sur ce point, il est renvoyé à l'article 2 alinéa 3 du présent contrat-type de travail.
 
-<sup>2</sup> Les salaires horaires et mensuels minimums s'entendent sans la part du 13<sup>e</sup> salaire. Cette dernière doit être payée en plus, de même que la part aux vacances pour les travailleurs rétribués à l'heure.
+<sup>2</sup> Les salaires horaires et mensuels minimums s'entendent sans la part du 13<sup>e</sup> salaire. Cette dernière doit être payée en plus, de même que la part aux vacances pour les travailleurs rétribués à l'heure. Sur ce point, il est renvoyé à l'article 2 alinéa 3 du présent contrat-type de travail.
 
 <sup>3</sup> Lors de l'engagement, le travailleur sera avisé par écrit du montant de son salaire et dans quelle classe est rangée sa fonction dans la grille des salaires. Si, par la suite, il change de classe, il sera également avisé par écrit de sa nouvelle classification et de la date d'entrée en vigueur de la modification.
 
-<sup>4</sup> Est considérée comme année d'expérience dans la branche, une année complète d'activité ou 2 saisons (hiver ou été), chacune d'une durée d'activité de 3 mois au minimum.
+<sup>4</sup> Est considérée comme année d'expérience dans la branche, une année complète d'activité ou 2 saisons (hiver ou été), chacune d'une durée d'activité de 3 mois au minimum. Sur ce point, il est renvoyé à l'article 2 alinéa 3 du présent contrat-type de travail.
 
 <sup>5</sup> Ces salaires constituent des minimums présupposant que le travailleur est en pleine possession de ses moyens. Ils peuvent être augmentés en fonction de la capacité, du dévouement, des responsabilités spéciales de l'employé et des avantages que procurent à l'entreprise ses connaissances linguistiques.
 
