@@ -3,20 +3,19 @@ canton: FR
 number: "710.12"
 title: "Beschluss über die einsprache- und beschwerdeberechtigten kantonalen Vereinigungen, die nicht einer Vereinigung nationaler Bedeutung angehören"
 language: de
-version: 2017-04-01
-valid_until: 2022-12-31
-version_adopted: 2017-10-09
+version: 2023-01-01
+version_adopted: 2022-12-20
 adopted: 2010-02-23
 in_force: 2010-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/710.12"
-pdf: "https://bdlf.fr.ch/api/de/versions/5332/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8693/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Beschluss über die einsprache- und beschwerdeberechtigten kantonalen Vereinigungen, die nicht einer Vereinigung nationaler Bedeutung angehören
 
-vom 23.02.2010 (Fassung in Kraft getreten am 01.04.2017)
+vom 23.02.2010 (Fassung in Kraft getreten am 01.01.2023)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -30,10 +29,13 @@ beschliesst:
 
 #### Art. 1
 
-<sup>1</sup> Gemäss ihren Statuten sind folgende Vereinigungen zur Einsprache und Beschwerde nach dem Raumplanungs- und Baugesetz berechtigt:
+<sup>1</sup> Gemäss ihren Statuten sind folgende Vereinigungen zur Einsprache und Beschwerde nach dem Raumplanungs- und Baugesetz[^1-1] berechtigt:
 
 - a) Pro Fribourg;
-- b) Kultur Natur Deutschfreiburg.
+- b) Kultur Natur Deutschfreiburg;
+- c) PRO VELO Fribourg/Freiburg.
+
+[^1-1]: SGF [710.1](https://bdlf.fr.ch/data/710.1/de)
 
 #### Art. 2
 
