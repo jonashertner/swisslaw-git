@@ -4,11 +4,11 @@ title: "Ordinanza del 28 giugno 2000 sull'organizzazione del Dipartimento federa
 short: OOrg-DFI
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/282"
 language: it
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2000-06-28
 in_force: 2000-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/282/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2000-282-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/282/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/282/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2000-282-20230101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/282/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/282/20220101/it"
 
 (OOrg-DFI)
 
-del 28 giugno 2000 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
+del 28 giugno 2000 (Stato 1° gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -42,15 +42,20 @@ Il Dipartimento persegue gli obiettivi seguenti:
 
 - a. promuovere il benessere fisico, spirituale e sociale degli abitanti della Svizzera e impegnarsi affinché siano protetti da pericoli per la salute e da rischi sociali;
 - b.[^1-1] ...
-- c. mettere a disposizione dati ed informazioni per una migliore comprensione nella società;
+- c.[^1-2] mettere a disposizione dati e informazioni per l’adempimento dei compiti della Confederazione e per una migliore comprensione della società;
+- c<sup>bis</sup>.[^1-3] coordinare la standardizzazione e l’armonizzazione dei dati necessari alla messa in atto dell’utilizzo multiplo dei dati;
+- c<sup>ter</sup>.[^1-4] promuovere lo sviluppo della scienza dei dati in seno all’Amministrazione federale;
 - d. mantenere vivi e trasmettere il patrimonio culturale ed i valori documentari della Svizzera;
 - e. incoraggiare la molteplicità delle culture, l’attività artistica e la comprensione tra le comunità linguistiche e culturali;
 - f. lottare contro ogni forma di discriminazione e promuovere le pari opportunità;
 - g. promuovere il benessere di bambini, giovani e famiglie;
-- h.[^1-2] garantire la salute e il benessere degli animali.
+- h.[^1-5] garantire la salute e il benessere degli animali.
 
 [^1-1]: Abrogata dal n. I 4 dell’O del 15 giu. 2012 (Riorganizzazione dei dipartimenti), con effetto dal 1° gen. 2013 ([RU 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
-[^1-2]: Introdotta dal n. I 4 dell’O del 15 giu. 2012 (Riorganizzazione dei dipartimenti), in vigore dal 1° gen. 2013 ([RU 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
+[^1-2]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 723](https://fedlex.data.admin.ch/eli/oc/2022/723)).
+[^1-3]: Introdotta dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 723](https://fedlex.data.admin.ch/eli/oc/2022/723)).
+[^1-4]: Introdotta dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 723](https://fedlex.data.admin.ch/eli/oc/2022/723)).
+[^1-5]: Introdotta dal n. I 4 dell’O del 15 giu. 2012 (Riorganizzazione dei dipartimenti), in vigore dal 1° gen. 2013 ([RU 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
 
 #### Art. 2
 
@@ -60,9 +65,11 @@ Il Dipartimento persegue i propri obiettivi ed espleta i propri compiti non solo
 
 - a. lavora in stretta collaborazione con i Cantoni e con organizzazioni non governative, con partner sociali ed associazioni economiche;
 - b. si attiene al principio della sussidiarietà;
-- c. mira a soluzioni comprensibili, eque e moderne grazie a procedure concise;
+- c.[^2-1] mira a soluzioni comprensibili, eque e orientate al futuro e punta alla rapidità e alla digitalizzazione delle procedure e del trattamento dell’informazione;
 - d. cerca la collaborazione internazionale, in particolare a livello europeo;
 - e. accompagna la propria attività ad una politica informativa chiara ed aperta.
+
+[^2-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 723](https://fedlex.data.admin.ch/eli/oc/2022/723)).
 
 ## Capitolo 2: Uffici ed altre unità amministrative dell’Amministrazione federale centrale
 
@@ -126,7 +133,7 @@ L’Ufficio federale per le pari opportunità delle persone con disabilità adem
 
 #### Art. 5
 
-**Ufficio federale per l’uguaglianza fra donna e uomo**
+**Ufficio federale per l’uguaglianza fra donna e uomo**[^5-1]
 
 <sup>1</sup> L’Ufficio federale per l’uguaglianza fra donna e uomo (UFU) è l’autorità competente in materia di parità tra i sessi.
 
@@ -135,26 +142,32 @@ L’Ufficio federale per le pari opportunità delle persone con disabilità adem
 L’UFU persegue soprattutto gli obiettivi seguenti:
 
 - a. lottare contro ogni forma di discriminazione sessuale diretta o indiretta;
-- b. promuovere e garantire la parità tra i sessi in tutti gli ambiti.
+- b. promuovere e garantire la parità tra i sessi in tutti gli ambiti;
+- c. prevenire e lottare contro la violenza nei confronti delle donne e la violenza domestica.
 
 <sup>3</sup>
 
 Al fine di raggiungere questi obiettivi, l’UFU assume le funzioni seguenti:
 
-- a. partecipa all’elaborazione di atti normativi federali, nella misura in cui sono significativi per la parità;
-- b. si occupa di questioni inerenti la politica della parità, elabora raccomandazioni ad autorità e privati e può redigere perizie;
-- c. informa e sensibilizza il pubblico partecipando a progetti di importanza nazionale ed internazionale, organizzando conferenze, distribuendo pubblicazioni e gestendo un centro di documentazione.
+- a. si occupa di questioni inerenti alla politica della parità;
+- b. partecipa all’elaborazione di atti normativi federali significativi per la parità;
+- c. elabora raccomandazioni per autorità e privati e redige perizie;
+- d. informa e sensibilizza il pubblico partecipando a progetti di importanza nazionale ed internazionale, organizzando conferenze ed elaborando pubblicazioni;
+- e. è l’organismo di coordinamento di cui all’articolo 10 della Convenzione di Istanbul dell’11 maggio 2011[^5-2];
+- f. accorda aiuti finanziari ai sensi della legge federale del 24 marzo 1995[^5-3] sulla parità dei sessi (LPar) e dell’ordinanza del 13 novembre 2019[^5-4] contro la violenza nei confronti delle donne e la violenza domestica e controlla l’esecuzione dei programmi e delle misure finanziati.
 
 <sup>4</sup>
 
 Inoltre l’UFU adempie i seguenti compiti particolari:
 
-- a. esamina le domande di aiuto finanziario ai sensi della legge federale del 24 marzo 1995[^5-1] sulla parità dei sessi e controlla l’esecuzione dei programmi di promovimento;
-- b. assicura lo scambio di informazioni con la Commissione federale per i problemi della donna.
+- a. mette a disposizione dei datori di lavoro uno strumento di analisi standardizzato gratuito ai sensi dell’articolo 13*c* capoverso 2 LPar;
+- b. esegue controlli della parità salariale ai sensi dell’articolo 4 dell’ordinanza del 12 febbraio 2020[^5-5] sugli appalti pubblici.
 
-<sup>5</sup> L’Ufficio federale del personale è competente per le questioni inerenti la parità dei sessi all’interno dell’Amministrazione federale.
-
-[^5-1]: [RS 151.1](https://fedlex.data.admin.ch/eli/cc/1996/1498_1498_1498)
+[^5-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 723](https://fedlex.data.admin.ch/eli/oc/2022/723)).
+[^5-2]: [RS 0.311.35](https://fedlex.data.admin.ch/eli/cc/2018/168)
+[^5-3]: [RS 151.1](https://fedlex.data.admin.ch/eli/cc/1996/1498_1498_1498)
+[^5-4]: [RS 311.039.7](https://fedlex.data.admin.ch/eli/cc/2019/672)
+[^5-5]: [RS 172.056.11](https://fedlex.data.admin.ch/eli/cc/2020/127)
 
 #### Art. 6
 
@@ -296,17 +309,18 @@ Al fine di raggiungere questi obiettivi, l’UFSP assume le funzioni seguenti:
 
 #### Art. 10
 
-**Ufficio federale di statistica**
+**Ufficio federale di statistica**[^10-1]
 
-<sup>1</sup> L’Ufficio federale di statistica (UST) è l’autorità competente per la statistica ufficiale in Svizzera.
+<sup>1</sup> L’Ufficio federale di statistica (UST) è l’autorità competente per la statistica ufficiale svizzera. È responsabile del coordinamento della gestione dei dati della Confederazione, della scienza dei dati e dell’intelligenza artificiale.
 
 <sup>2</sup>
 
-L’UST persegue in maniera indipendente dal punto di vista tecnico e secondo principi scientifici soprattutto gli obiettivi seguenti:
+L’UST persegue soprattutto gli obiettivi seguenti:
 
-- a. produrre e diffondere risultati statistici rappresentativi sulla situazione e sullo sviluppo della popolazione, dell’economia, della società, del territorio e dell’ambiente in Svizzera;
-- b. mettere a disposizione informazioni statistiche per l’opinione pubblica, per il processo decisionale politico ed economico, per la pianificazione e la valutazione nello Stato e nella società e per la ricerca;
-- c. coordinare ed adeguare tra loro le statistiche ufficiali della Confederazione, dei Cantoni e dei Comuni.
+- a. garantire la produzione e la diffusione di risultati statistici rappresentativi sulla situazione e sullo sviluppo della popolazione, dell’economia, della società, del territorio e dell’ambiente in Svizzera in maniera indipendente dal punto di vista tecnico e secondo principi scientifici;
+- b. assicurare il coordinamento e l’armonizzazione della statistica ufficiale di Confederazione, Cantoni e Comuni;
+- c. tenere i registri di riferimento di cui all’articolo 10 della legge del 9 ottobre 1992[^10-2] sulla statistica federale, gestire piattaforme elettroniche di comunicazione centrali della Confederazione, in particolare Sedex, e piattaforme di interoperabilità e offrire servizi di base per il trattamento digitale dei dati;
+- d. sostenere la Confederazione e, su richiesta, i Cantoni, i Comuni e le cerchie interessate nei settori della scienza dei dati, dei metodi statistici, dell’intelligenza artificiale e della trasformazione digitale.
 
 <sup>3</sup>
 
@@ -314,9 +328,22 @@ Al fine di raggiungere questi obiettivi, l’UST assume le funzioni seguenti:
 
 - a. mette a disposizione di un vasto pubblico informazioni statistiche, analizza dati statistici per cerchie specifiche di utenti e offre consulenze alle cerchie interessate alla statistica;
 - b. prepara e mette in atto le decisioni per una politica coerente nel settore della statistica pubblica ed elabora il programma statistico quadriennale;
-- c. progetta, organizza e realizza rilevazioni statistiche, gestisce un pool di dati;
-- d. cura la stretta collaborazione e lo scambio di conoscenze con la scienza e la ricerca;
-- e. provvede all’integrazione della statistica svizzera nel sistema internazionale, in particolare nel sistema statistico dell’Unione Europea.
+- c. progetta, organizza e realizza rilevazioni statistiche e gestisce un pool di dati;
+- d. cura la stretta collaborazione con la scienza, la ricerca e l’economia nei settori della statistica, della gestione dei dati, della scienza dei dati e dell’intelligenza artificiale;
+- e. provvede all’integrazione della statistica svizzera nel sistema internazionale, in particolare nel sistema statistico dell’Unione europea;
+- f. mette a disposizione online un catalogo nazionale dei metadati.
+
+<sup>4</sup>
+
+Assume inoltre, in stretta collaborazione in particolare con gli altri uffici federali, i ruoli istituzionali seguenti di:
+
+- a. amministratore svizzero dei dati (*Swiss Data Steward*) e amministratore dei dati statistici (*Statistics Data Steward*);
+- b. Centro di competenza per la scienza dei dati (DSCC) della Confederazione;
+- c. segreteria della Rete di competenze per l’intelligenza artificiale (CNAI) della Confederazione;
+- d. segreteria per l’Open Government Data dell’Amministrazione federale centrale.
+
+[^10-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 723](https://fedlex.data.admin.ch/eli/oc/2022/723)).
+[^10-2]: [RS 431.01](https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080)
 
 #### Art. 11
 
@@ -367,19 +394,20 @@ Sulla base dei risultati della ricerca scientifica, l’USAV persegue soprattutt
 
 <sup>3</sup> L’USAV prepara e partecipa all’elaborazione di atti normativi nei settori della sicurezza alimentare e degli oggetti d’uso, dell’alimentazione, della salute animale, della protezione degli animali, dell’omologazione di prodotti fitosanitari e della protezione delle specie nel commercio internazionale. Controlla e coordina la loro esecuzione.[^12-5]
 
-<sup>4</sup> All’USAV è subordinato in quanto istituto di ricerca l’Istituto di virologia e di immunologia (IVI). L’IVI è il centro di competenza della Confederazione in materia di lotta contro le epizoozie. Si occupa segnatamente della diagnostica, della sorveglianza e del controllo delle epizoozie altamente contagiose nell’intento di impedire danni sanitari ed economici; esso procede parimenti alla registrazione dei vaccini a uso veterinario.
+<sup>4</sup> All’USAV è subordinato, in quanto istituto di ricerca, l’Istituto di virologia e di immunologia (IVI). L’IVI è il centro di competenza della Confederazione in materia di lotta contro le epizoozie. Si occupa segnatamente della diagnostica, della sorveglianza e del controllo delle epizoozie altamente contagiose nell’intento di impedire danni sanitari ed economici.[^12-6]
 
-<sup>5</sup> All’USAV è aggregata amministrativamente l’Unità federale per la filiera agroalimentare (UFAL). È condotta congiuntamente dai direttori dell’Ufficio federale dell’agricoltura e dell’USAV. Sostiene tali uffici nei compiti di vigilanza sull’esecuzione della legislazione in materia di salute dei vegetali, alimenti per animali, epizoozie, protezione degli animali e derrate alimentari, nonché nell’elaborazione del piano di controllo nazionale pluriennale. Quale organo di coordinamento contribuisce a garantire la sicurezza delle derrate alimentari in tutte le fasi di produzione lungo la catena alimentare.[^12-6]
+<sup>5</sup> All’USAV è aggregata amministrativamente l’Unità federale per la filiera agroalimentare (UFAL). È condotta congiuntamente dai direttori dell’Ufficio federale dell’agricoltura e dell’USAV. Sostiene tali uffici nei compiti di vigilanza sull’esecuzione della legislazione in materia di salute dei vegetali, alimenti per animali, epizoozie, protezione degli animali e derrate alimentari, nonché nell’elaborazione del piano di controllo nazionale pluriennale. Quale organo di coordinamento contribuisce a garantire la sicurezza delle derrate alimentari in tutte le fasi di produzione lungo la catena alimentare.[^12-7]
 
-<sup>6</sup> AllʼUSAV è aggregato amministrativamente e tecnicamente il servizio d’omologazione dei prodotti fitosanitari.[^12-7]
+<sup>6</sup> AllʼUSAV è aggregato amministrativamente e tecnicamente il servizio d’omologazione dei prodotti fitosanitari.[^12-8]
 
 [^12-1]: Nuovo testo giusta il n. I dell’O dell’8 mag. 2013, in vigore dal 1° gen. 2014 ([RU 2013 1447](https://fedlex.data.admin.ch/eli/oc/2013/333)).
 [^12-2]: Nuovo testo giusta l’all. n. 1 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
 [^12-3]: Introdotta dall’all. n. 1 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
 [^12-4]: Introdotta dall’all. n. 1 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
 [^12-5]: Nuovo testo giusta l’all. n. 1 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
-[^12-6]: Nuovo testo giusta l’all. 4 n. 1 dell’O del 27 mag. 2020 sul piano di controllo nazionale pluriennale della filiera agroalimentare e degli oggetti d’uso, in vigore dal 1° lug. 2020 ([RU 2020 2441](https://fedlex.data.admin.ch/eli/oc/2020/459)).
-[^12-7]: Introdotto dall’all. n. 1 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
+[^12-6]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 723](https://fedlex.data.admin.ch/eli/oc/2022/723)).
+[^12-7]: Nuovo testo giusta l’all. 4 n. 1 dell’O del 27 mag. 2020 sul piano di controllo nazionale pluriennale della filiera agroalimentare e degli oggetti d’uso, in vigore dal 1° lug. 2020 ([RU 2020 2441](https://fedlex.data.admin.ch/eli/oc/2020/459)).
+[^12-8]: Introdotto dall’all. n. 1 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
 
 #### Art. 13
 
@@ -447,12 +475,18 @@ I compiti e l’organizzazione del Museo nazionale svizzero (MNS) sono disciplin
 
 #### Art. 16g
 
-**Commissione di alta vigilanza della previdenza professionale**[^16g-1]
+[^16g-1]
 
-I compiti e l’organizzazione della Commissione di alta vigilanza della previdenza professionale sono disciplinati nella legge federale del 25 giugno 1982[^16g-2] sulla previdenza professionale per la vecchiaia, i superstiti e l’invalidità e nel regolamento di organizzazione e di gestione emanato conformemente a tale legge.
+[^16g-1]: Introdotto dal n. I dell’O del 10 giu. 2011 ([RU 2011 3321](https://fedlex.data.admin.ch/eli/oc/2011/448)). Abrogato dal n. I dell’O del 23 nov. 2022, con effetto dal 1° gen. 2023 ([RU 2022 723](https://fedlex.data.admin.ch/eli/oc/2022/723)).
 
-[^16g-1]: Introdotto dal n. I dell’O del 10 giu. 2011, in vigore dal 1° ago. 2011 ([RU 2011 3321](https://fedlex.data.admin.ch/eli/oc/2011/448)).
-[^16g-2]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+#### Art. 16h
+
+**Compenswiss (Fondi di compensazione AVS/AI/IPG)**[^16h-1]
+
+I compiti e l’organizzazione di Compenswiss (Fondi di compensazione AVS/AI/IPG) sono disciplinati nella legge del 16 giugno 2017[^16h-2] sui fondi di compensazione.
+
+[^16h-1]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 723](https://fedlex.data.admin.ch/eli/oc/2022/723)).
+[^16h-2]: [RS 830.2](https://fedlex.data.admin.ch/eli/cc/2017/820)
 
 ## Capitolo 4: Disposizioni finali
 

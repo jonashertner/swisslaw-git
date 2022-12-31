@@ -4,11 +4,11 @@ title: Organisationsverordnung vom 28. Juni 2000 für das Eidgenössische Depart
 short: OV-EDI
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/282"
 language: de
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2000-06-28
 in_force: 2000-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/282/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2000-282-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/282/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/282/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2000-282-20230101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/282/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/282/20220101/de"
 
 (OV-EDI)
 
-vom 28. Juni 2000 (Stand am 1. Januar 2022)
+vom 28. Juni 2000 (Stand am 1. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -42,15 +42,20 @@ Es verfolgt dabei folgende Ziele:
 
 - a. das körperliche, geistige und soziale Wohlbefinden der Einwohnerinnen und Einwohner der Schweiz fördern und dafür sorgen, dass sie vor Gefahren für ihre Gesundheit und vor sozialen Risiken geschützt sind;
 - b.[^1-1] …
-- c. Daten und Informationen zum besseren Verständnis der Gesellschaft bereitstellen;
+- c.[^1-2] Daten und Informationen zur Erfüllung der Aufgaben des Bundes sowie zum besseren Verständnis der Gesellschaft bereitstellen;
+- c<sup>bis</sup>.[^1-3] die Standardisierung und Harmonisierung der für die Umsetzung der Mehrfachnutzung benötigten Daten koordinieren;
+- c<sup>ter</sup>.[^1-4] die Entwicklung der Datenwissenschaft innerhalb der Bundesverwaltung vorantreiben;
 - d. das kulturelle Erbe und die dokumentarischen Werte der Schweiz erhalten und vermitteln;
 - e. die kulturelle Vielfalt, das künstlerische Schaffen und die Verständigung zwischen den Sprach- und Kulturgemeinschaften fördern;
 - f. Diskriminierungen bekämpfen und die Chancengleichheit fördern;
 - g. das Wohl der Kinder, der Jugendlichen und der Familien fördern;
-- h.[^1-2] die Gesundheit und das Wohlergehen der Tiere gewährleisten.
+- h.[^1-5] die Gesundheit und das Wohlergehen der Tiere gewährleisten.
 
 [^1-1]: Aufgehoben durch Ziff. I 4 der V vom 15. Juni 2012 (Neugliederung der Departemente), mit Wirkung seit 1. Jan. 2013 ([AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
-[^1-2]: Eingefügt durch Ziff. I 4 der V vom 15. Juni 2012 (Neugliederung der Departemente), in Kraft seit 1. Jan. 2013 ([AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
+[^1-2]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 723](https://fedlex.data.admin.ch/eli/oc/2022/723)).
+[^1-3]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 723](https://fedlex.data.admin.ch/eli/oc/2022/723)).
+[^1-4]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 723](https://fedlex.data.admin.ch/eli/oc/2022/723)).
+[^1-5]: Eingefügt durch Ziff. I 4 der V vom 15. Juni 2012 (Neugliederung der Departemente), in Kraft seit 1. Jan. 2013 ([AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
 
 #### Art. 2
 
@@ -60,9 +65,11 @@ Das Departement beachtet bei der Verfolgung seiner Ziele und Aufgaben neben den 
 
 - a. Es arbeitet eng mit den Kantonen, Gemeinden sowie mit nichtstaatlichen Organisationen, Sozialpartnern und Wirtschaftsverbänden zusammen.
 - b. Es beachtet den Grundsatz der Subsidiarität.
-- c. Es strebt verständliche, gerechte und zukunftsorientierte Lösungen an und achtet auf rasche Verfahren.
+- c.[^2-1] Es strebt verständliche, ausgewogene und zukunftsorientiere Lösungen an und achtet auf die Schnelligkeit und die Digitalisierung der Verfahren und der Informationsverarbeitung.
 - d. Es sucht die internationale Zusammenarbeit, insbesondere auch auf europäischer Ebene.
 - e. Es verfolgt bei seiner Tätigkeit eine klare und offene Informationspolitik.
+
+[^2-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 723](https://fedlex.data.admin.ch/eli/oc/2022/723)).
 
 ## 2. Kapitel: Ämter und andere Verwaltungseinheiten der zentralen Bundesverwaltung
 
@@ -125,7 +132,7 @@ Das Eidgenössische Büro für die Gleichstellung von Menschen mit Behinderungen
 
 #### Art. 5
 
-**Eidgenössisches Büro für die Gleichstellung von Frau und Mann**
+**Eidgenössisches Büro für die Gleichstellung von Frau und Mann**[^5-1]
 
 <sup>1</sup> Das Eidgenössische Büro für die Gleichstellung von Frau und Mann (EBG) ist die Fachbehörde für die Gleichstellung der Geschlechter.
 
@@ -134,26 +141,32 @@ Das Eidgenössische Büro für die Gleichstellung von Menschen mit Behinderungen
 Das EBG verfolgt insbesondere folgende Ziele:
 
 - a. jegliche Form direkter oder indirekter Geschlechterdiskriminierung bekämpfen;
-- b. die Gleichstellung der Geschlechter in allen Lebensbereichen fördern und sichern.
+- b. die Gleichstellung der Geschlechter in allen Lebensbereichen fördern und sichern;
+- c. Gewalt gegen Frauen und häusliche Gewalt verhüten und bekämpfen.
 
 <sup>3</sup>
 
 Zur Verfolgung dieser Ziele nimmt das EBG folgende Funktionen wahr:
 
-- a. Es wirkt mit bei der Ausarbeitung von Erlassen des Bundes, soweit diese für die Gleichstellung von Bedeutung sind.
-- b. Es bearbeitet gleichstellungspolitische Fragen, arbeitet Empfehlungen an Behörden und Private aus und kann Gutachten erstellen.
-- c. Es informiert und sensibilisiert die Öffentlichkeit, indem es sich an Projekten von gesamtschweizerischer und internationaler Bedeutung beteiligt, Tagungen organisiert, Publikationen herausgibt und eine Dokumentationsstelle führt.
+- a. Es bearbeitet gleichstellungspolitische Fragen.
+- b. Es wirkt mit bei der Ausarbeitung von Erlassen des Bundes, die für die Gleichstellung von Bedeutung sind.
+- c. Es arbeitet Empfehlungen an Behörden und Private aus und erstellt Gutachten.
+- d. Es informiert und sensibilisiert die Öffentlichkeit, indem es sich an Projekten von gesamtschweizerischer und internationaler Bedeutung beteiligt, Tagungen organisiert und Publikationen herausgibt.
+- e. Es übernimmt die Funktion der Koordinationsstelle gemäss Artikel 10 der Istanbul-Konvention vom 11. Mai 2011[^5-2].
+- f. Es gewährt Finanzhilfen nach dem Gleichstellungsgesetz vom 24. März 1995[^5-3] sowie nach der Verordnung gegen Gewalt gegen Frauen und häusliche Gewalt vom 13. November 2019[^5-4] und überwacht die Durchführung der finanzierten Förderungsprogramme und Massnahmen.
 
 <sup>4</sup>
 
 Darüber hinaus erfüllt das EBG folgende besonderen Aufgaben:
 
-- a. Es prüft Gesuche um Finanzhilfen nach dem Gleichstellungsgesetz vom 24. März 1995[^5-1] und überwacht die Durchführung der Förderungsprogramme.
-- b. Es pflegt den Informationsaustausch mit der Eidgenössischen Kommission für Frauenfragen.
+- a. Es stellt allen Arbeitgeberinnen und Arbeitgebern ein kostenloses Standard-Analyse-Tool nach Artikel 13*c* Absatz 2 des Gleichstellungsgesetzes zur Verfügung.
+- b. Es führt Kontrollen in Bezug auf die Lohngleichheit gemäss Artikel 4 der Verordnung vom 12. Februar 2020[^5-5] über das öffentliche Beschaffungswesen durch.
 
-<sup>5</sup> Für Fragen der Gleichstellung von Frau und Mann innerhalb der Bundesverwaltung ist das Eidgenössische Personalamt zuständig.
-
-[^5-1]: [SR 151.1](https://fedlex.data.admin.ch/eli/cc/1996/1498_1498_1498)
+[^5-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 723](https://fedlex.data.admin.ch/eli/oc/2022/723)).
+[^5-2]: [SR 0.311.35](https://fedlex.data.admin.ch/eli/cc/2018/168)
+[^5-3]: [SR 151.1](https://fedlex.data.admin.ch/eli/cc/1996/1498_1498_1498)
+[^5-4]: [SR 311.039.7](https://fedlex.data.admin.ch/eli/cc/2019/672)
+[^5-5]: [SR 172.056.11](https://fedlex.data.admin.ch/eli/cc/2020/127)
 
 #### Art. 6
 
@@ -293,17 +306,18 @@ Zur Verfolgung dieser Ziele nimmt das BAG folgende Funktionen wahr:
 
 #### Art. 10
 
-**Bundesamt für Statistik**
+**Bundesamt für Statistik**[^10-1]
 
-<sup>1</sup> Das Bundesamt für Statistik (BFS) ist die Fachbehörde für die amtliche Statistik in der Schweiz.
+<sup>1</sup> Das Bundesamt für Statistik (BFS) ist die Fachbehörde für die amtliche Statistik in der Schweiz. Es ist verantwortlich für die Koordination der Datenbewirtschaftung des Bundes, der Datenwissenschaft und der künstlichen Intelligenz.
 
 <sup>2</sup>
 
-Das BFS verfolgt in fachlich unabhängiger Weise und nach wissenschaftlichen Prinzipien insbesondere folgende Ziele:
+Das BFS verfolgt insbesondere folgende Ziele:
 
-- a. repräsentative statistische Ergebnisse über den Zustand und die Entwicklung von Bevölkerung, Wirtschaft, Gesellschaft, Raum und Umwelt in der Schweiz produzieren und verbreiten;
-- b. statistische Informationen für die Meinungsbildung in der Bevölkerung, für die Entscheidfindung in Politik und Wirtschaft, für die Planung und für die Evaluation in Staat und Gesellschaft sowie für die Forschung bereitstellen;
-- c. die amtliche Statistik von Bund, Kantonen und Gemeinden koordinieren und harmonisieren.
+- a. die Produktion und Verbreitung repräsentativer statistischer Ergebnisse über den Zustand und die Entwicklung von Bevölkerung, Wirtschaft, Gesellschaft, Raum und Umwelt in der Schweiz in fachlich unabhängiger Weise und nach wissenschaftlichen Prinzipien gewährleisten;
+- b. die Koordination und Harmonisierung der amtlichen Statistik von Bund, Kantonen und Gemeinden sicherstellen;
+- c. die Referenzregister nach Artikel 10 des Bundesstatistikgesetzes vom 9. Oktober 1992[^10-2] führen, zentrale elektronische Kommunikationsplattformen des Bundes, insbesondere Sedex, und Interoperabilitätsplattformen betreiben sowie Basisdienste für die digitale Datenbearbeitung anbieten;
+- d. den Bund und auf Nachfrage auch die Kantone, Gemeinden und interessierte Kreise in den Bereichen Datenwissenschaft, statistische Methoden, künstliche Intelligenz und digitale Transformation unterstützen.
 
 <sup>3</sup>
 
@@ -312,8 +326,21 @@ Zur Verfolgung dieser Ziele nimmt das BFS folgende Funktionen wahr:
 - a. Es stellt statistische Informationen für die breite Öffentlichkeit bereit, wertet statistische Daten für spezifische Benützerkreise aus und berät interessierte Kreise in statistischen Fragen.
 - b. Es bereitet die Entscheidungen für eine kohärente Politik im Bereich der öffentlichen Statistik vor und setzt sie um und erstellt das vierjährige statistische Mehrjahresprogramm.
 - c. Es konzipiert, organisiert und realisiert statistische Erhebungen und führt einen statistischen Datenpool.
-- d. Es pflegt eine enge Zusammenarbeit und den Austausch von Wissen mit Wissenschaft und Forschung.
+- d. Es pflegt eine enge Zusammenarbeit mit Wissenschaft, Forschung und Wirtschaft in den Bereichen Statistik, Datenbewirtschaftung, Datenwissenschaft und künstliche Intelligenz.
 - e. Es sorgt für die Integration der schweizerischen Statistik in internationale Systeme, insbesondere in das statistische System der Europäischen Union.
+- f. Es stellt einen nationalen Metadatenkatalog online.
+
+<sup>4</sup>
+
+Es übernimmt darüber hinaus in enger Zusammenarbeit insbesondere mit den anderen Bundesämtern folgende institutionellen Rollen:
+
+- a. Schweizerische Datenverwalterin oder schweizerischer Datenverwalter (*Swiss Data Steward*) und Statistikdatenverwalterin oder Statistikdatenverwalter (*Statistics Data Steward*);
+- b. Kompetenzzentrum für Datenwissenschaft (DSCC) des Bundes;
+- c. Geschäftsstelle des Kompetenznetzwerks für künstliche Intelligenz (CNAI) des Bundes;
+- d. Geschäftsstelle für Open Government Data der zentralen Bundesverwaltung.
+
+[^10-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 723](https://fedlex.data.admin.ch/eli/oc/2022/723)).
+[^10-2]: [SR 431.01](https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080)
 
 #### Art. 11
 
@@ -365,20 +392,21 @@ Das BLV verfolgt, gestützt auf wissenschaftliche Grundlagen, insbesondere folge
 
 <sup>3</sup> Das BLV ist vorbereitend und mitwirkend tätig bei der Erarbeitung der Erlasse in den Bereichen Lebensmittelsicherheit und Gebrauchsgegenstände, Ernährung, Tiergesundheit, Tierschutz, Zulassung von Pflanzenschutzmitteln und Artenschutz im internationalen Handel. Es beaufsichtigt und koordiniert ihren Vollzug.[^12-5]
 
-<sup>4</sup> Dem BLV ist als Forschungsanstalt das Institut für Virologie und Immunologie (IVI) unterstellt. Das IVI ist das Kompetenzzentrum des Bundes im Bereich der Tierseuchenbekämpfung. Es befasst sich insbesondere mit der Diagnostik, Überwachung und Kontrolle hoch ansteckender Tierseuchen zur Verhinderung gesundheitlicher und wirtschaftlicher Schäden sowie mit der Registrierung von Impfstoffen für Tiere.
+<sup>4</sup> Dem BLV ist als Forschungsanstalt das Institut für Virologie und Immunologie (IVI) unterstellt. Das IVI ist das Kompetenzzentrum des Bundes im Bereich der Tierseuchenbekämpfung. Es befasst sich insbesondere mit der Diagnostik, Überwachung und Kontrolle hoch ansteckender Tierseuchen zur Verhinderung gesundheitlicher und wirtschaftlicher Schäden.[^12-6]
 
-<sup>5</sup> Dem BLV ist die Bundeseinheit für die Lebensmittelkette (BLK) administrativ zugewiesen.[^12-6] Die BLK wird von den Direktorinnen und Direktoren des Bundesamtes für Landwirtschaft und des BLV gemeinsam geführt. Sie unterstützt diese Ämter bei der Aufsicht über den Vollzug der Pflanzengesundheits-, Futtermittel-, Tierseuchen-, Tierschutz- und Lebensmittelgesetzgebung sowie bei der Erarbeitung des nationalen Kontrollplans. Als Koordinationsstelle trägt sie zur Gewährleistung der Lebensmittelsicherheit auf allen Produktionsstufen entlang der Lebensmittelkette bei.[^12-7]
+<sup>5</sup> Dem BLV ist die Bundeseinheit für die Lebensmittelkette (BLK) administrativ zugewiesen.[^12-7] Die BLK wird von den Direktorinnen und Direktoren des Bundesamtes für Landwirtschaft und des BLV gemeinsam geführt. Sie unterstützt diese Ämter bei der Aufsicht über den Vollzug der Pflanzengesundheits-, Futtermittel-, Tierseuchen-, Tierschutz- und Lebensmittelgesetzgebung sowie bei der Erarbeitung des nationalen Kontrollplans. Als Koordinationsstelle trägt sie zur Gewährleistung der Lebensmittelsicherheit auf allen Produktionsstufen entlang der Lebensmittelkette bei.[^12-8]
 
-<sup>6</sup> Dem BLV ist die Zulassungsstelle für Pflanzenschutzmittel administrativ und fachlich zugewiesen.[^12-8]
+<sup>6</sup> Dem BLV ist die Zulassungsstelle für Pflanzenschutzmittel administrativ und fachlich zugewiesen.[^12-9]
 
 [^12-1]: Fassung gemäss Ziff. I der V vom 8. Mai 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 1447](https://fedlex.data.admin.ch/eli/oc/2013/333)).
 [^12-2]: Fassung gemäss Anhang Ziff. 1 der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
 [^12-3]: Eingefügt durch Anhang Ziff. 1 der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
 [^12-4]: Eingefügt durch Anhang Ziff. 1 der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
 [^12-5]: Fassung gemäss Anhang Ziff. 1 der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
-[^12-6]: Die Änd. gemäss Anhang 3 Ziff. 1 der V vom 16. Dez. 2016 über den nationalen Kontrollplan für die Lebensmittelkette und die Gebrauchsgegenstände, in Kraft seit 1. Mai 2017, betrifft nur den französischen und italienischen Text ([AS 2017 339](https://fedlex.data.admin.ch/eli/oc/2017/64)).
-[^12-7]: Die Änd. gemäss Anhang 4 Ziff. 1 der V vom 27. Mai 2020 über den mehrjährigen nationalen Kontrollplan für die Lebensmittelkette und die Gebrauchsgegenstände, in Kraft seit 1. Juli 2020, betrifft nur den französischen und italienischen Text ([AS 2020 2441](https://fedlex.data.admin.ch/eli/oc/2020/459)).
-[^12-8]: Eingefügt durch Anhang Ziff. 1 der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
+[^12-6]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 723](https://fedlex.data.admin.ch/eli/oc/2022/723)).
+[^12-7]: Die Änd. gemäss Anhang 3 Ziff. 1 der V vom 16. Dez. 2016 über den nationalen Kontrollplan für die Lebensmittelkette und die Gebrauchsgegenstände, in Kraft seit 1. Mai 2017, betrifft nur den französischen und italienischen Text ([AS 2017 339](https://fedlex.data.admin.ch/eli/oc/2017/64)).
+[^12-8]: Die Änd. gemäss Anhang 4 Ziff. 1 der V vom 27. Mai 2020 über den mehrjährigen nationalen Kontrollplan für die Lebensmittelkette und die Gebrauchsgegenstände, in Kraft seit 1. Juli 2020, betrifft nur den französischen und italienischen Text ([AS 2020 2441](https://fedlex.data.admin.ch/eli/oc/2020/459)).
+[^12-9]: Eingefügt durch Anhang Ziff. 1 der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
 
 #### Art. 13
 
@@ -404,13 +432,13 @@ Das BLV verfolgt, gestützt auf wissenschaftliche Grundlagen, insbesondere folge
 
 [^16a-1]
 
-[^16a-1]: Eingefügt durch Art. 13 Ziff. 2 der Organisationsverordnung für das Schweizerische Heilmittelinstitut vom 28. Sept. 2001 ([AS 2001 3025](https://fedlex.data.admin.ch/eli/oc/2001/445)). Aufgehoben durch Ziff. I 4 der V vom 15. Juni 2012 (Neugliederung der Departemente), mit Wirkung seit 15. Jan. 2013 ([AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418), [2013 199](https://fedlex.data.admin.ch/eli/oc/2013/22)).
+[^16a-1]: Eingefügt durch Art. 13 Ziff. 2 der Organisationsverordnung für das Schweizerische Heilmittelinstitut vom 28. Sept. 2001 ([AS 2001 3025](https://fedlex.data.admin.ch/eli/oc/2001/445)). Aufgehoben durch Ziff. I 4 der V vom 15. Juni 2012 (Neugliederung der Departemente), mit Wirkung seit 15. Jan. 2013 ([AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418); [2013 199](https://fedlex.data.admin.ch/eli/oc/2013/22)).
 
 #### Art. 16b und 16c
 
 [^16b16c-1]
 
-[^16b16c-1]: Eingefügt durch Anhang 3 Ziff. 4 der V vom 30. Juni 2010 ([AS 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)). Aufgehoben durch Ziff. I 4 der V vom 15. Juni 2012 (Neugliederung der Departemente), mit Wirkung seit 15. Jan. 2013 ([AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418), [2013 199](https://fedlex.data.admin.ch/eli/oc/2013/22)).
+[^16b16c-1]: Eingefügt durch Anhang 3 Ziff. 4 der V vom 30. Juni 2010 ([AS 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)). Aufgehoben durch Ziff. I 4 der V vom 15. Juni 2012 (Neugliederung der Departemente), mit Wirkung seit 15. Jan. 2013 ([AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418); [2013 199](https://fedlex.data.admin.ch/eli/oc/2013/22)).
 
 #### Art. 16d
 
@@ -446,12 +474,18 @@ Aufgaben und Organisation des Schweizerischen Nationalmuseums (SNM) sind im Muse
 
 #### Art. 16g
 
-**Oberaufsichtskommission Berufliche Vorsorge**[^16g-1]
+[^16g-1]
 
-Aufgaben und Organisation der Oberaufsichtskommission Berufliche Vorsorge sind im Bundesgesetz vom 25. Juni 1982[^16g-2] über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge und im gestützt darauf erlassenen Organisations- und Geschäftsreglement geregelt.
+[^16g-1]: Eingefügt durch Ziff. I der V vom 10. Juni 2011 ([AS 2011 3321](https://fedlex.data.admin.ch/eli/oc/2011/448)). Aufgehoben durch Ziff. I der V vom 23. Nov. 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 723](https://fedlex.data.admin.ch/eli/oc/2022/723)).
 
-[^16g-1]: Eingefügt durch Ziff. I der V vom 10. Juni 2011, in Kraft seit 1. Aug. 2011 ([AS 2011 3321](https://fedlex.data.admin.ch/eli/oc/2011/448)).
-[^16g-2]: [SR 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+#### Art. 16h
+
+**Compenswiss (Ausgleichsfonds AHV/IV/EO)**[^16h-1]
+
+Die Aufgaben und die Organisation von Compenswiss (Ausgleichsfonds AHV/IV/EO) sind im Ausgleichsfondsgesetz vom 16. Juni 2017[^16h-2] geregelt.
+
+[^16h-1]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 723](https://fedlex.data.admin.ch/eli/oc/2022/723)).
+[^16h-2]: [SR 830.2](https://fedlex.data.admin.ch/eli/cc/2017/820)
 
 ## 4. Kapitel: Schlussbestimmungen
 

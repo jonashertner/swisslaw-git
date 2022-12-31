@@ -4,11 +4,11 @@ title: "Ordonnance du 28 juin 2000 sur l'organisation du Département fédéral 
 short: Org DFI
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/282"
 language: fr
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2000-06-28
 in_force: 2000-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/282/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2000-282-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/282/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/282/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2000-282-20230101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/282/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/282/20220101/fr"
 
 (Org DFI)
 
-du 28 juin 2000 (Etat le 1<sup>er</sup> janvier 2022)
+du 28 juin 2000 (État le 1<sup>er</sup> janvier 2023)
 
 Le Conseil fédéral suisse,
 
@@ -42,15 +42,20 @@ Il poursuit les objectifs suivants:
 
 - a. promouvoir le bien-être physique, psychique et social des personnes vivant en Suisse et veiller à les protéger contre les dangers susceptibles de menacer leur santé et contre les risques sociaux;
 - b.[^1-1] …
-- c. fournir les données et les informations nécessaires pour mieux comprendre la société;
+- c.[^1-2] fournir des données et des informations nécessaires à l’accomplissement des tâches de la Confédération et à une meilleure compréhension de la société;
+- c<sup>bis</sup>.[^1-3] coordonner la standardisation et l’harmonisation des données nécessaires à la mise en œuvre de l’utilisation multiple des données;
+- c<sup>ter</sup>.[^1-4] promouvoir le développement de la science des données au sein de la Confédération;
 - d. conserver et transmettre le patrimoine culturel et documentaire de la Suisse;
 - e. promouvoir la diversité culturelle, la création artistique et la compréhension entre les communautés linguistiques et culturelles;
 - f. lutter contre la discrimination et promouvoir l’égalité des chances;
 - g. promouvoir le bien-être des enfants, des jeunes et des familles.
-- h.[^1-2] garantir la santé et le bien-être des animaux.
+- h.[^1-5] garantir la santé et le bien-être des animaux.
 
 [^1-1]: Abrogée par le ch. I 4 de l’O du 15 juin 2012 (Réorganisation des départements), avec effet au 1<sup>er</sup> janv. 2013 ([RO 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
-[^1-2]: Introduite par le ch. I 4 de l’O du 15 juin 2012 (Réorganisation des départements), en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
+[^1-2]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 723](https://fedlex.data.admin.ch/eli/oc/2022/723)).
+[^1-3]: Introduite par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 723](https://fedlex.data.admin.ch/eli/oc/2022/723)).
+[^1-4]: Introduite par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 723](https://fedlex.data.admin.ch/eli/oc/2022/723)).
+[^1-5]: Introduite par le ch. I 4 de l’O du 15 juin 2012 (Réorganisation des départements), en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
 
 #### Art. 2
 
@@ -60,9 +65,11 @@ Le DFI poursuit ses objectifs et accomplit ses tâches tout en respectant les pr
 
 - a. il travaille en étroite collaboration avec les cantons, les communes, les organisations non étatiques, les partenaires sociaux et les associations économiques;
 - b. il respecte le principe de la subsidiarité;
-- c. il vise des solutions compréhensibles, équitables et tournées vers l’avenir et veille à la rapidité des procédures;
+- c.[^2-1] il vise des solutions compréhensibles, équitables et tournées vers l’avenir et veille à la rapidité des procédures et du traitement de l’information et à leur déroulement sous forme numérique;
 - d. il recherche la coopération internationale, notamment au niveau européen;
 - e. il pratique, dans le cadre de ses activités, une politique d’information claire et ouverte.
+
+[^2-1]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 723](https://fedlex.data.admin.ch/eli/oc/2022/723)).
 
 ## Chapitre 2 Offices et autres unités de l’administration fédérale centrale
 
@@ -125,35 +132,41 @@ Le Bureau fédéral de l’égalité pour les personnes handicapées accomplit l
 
 #### Art. 5
 
-**Bureau fédéral de l’égalité entre femmes et hommes**
+**Bureau fédéral de l’égalité entre femmes et hommes**[^5-1]
 
-<sup>1</sup> Le Bureau fédéral de l’égalité entre femmes et hommes (BFEG) est l’autorité compétente pour toutes les questions relevant de l’égalité entre les sexes.
+<sup>1</sup> Le Bureau fédéral de l’égalité entre femmes et hommes (BFEG) est l’autorité compétente pour les questions relevant de l’égalité entre les sexes.
 
 <sup>2</sup>
 
 Il poursuit notamment les objectifs suivants:
 
 - a. lutter contre toute forme de discrimination directe ou indirecte entre les sexes;
-- b. encourager et garantir l’égalité entre les sexes dans tous les domaines de la vie.
+- b. encourager et garantir l’égalité entre les sexes dans tous les domaines de la vie;
+- c. prévenir et combattre la violence envers les femmes et la violence domestique.
 
 <sup>3</sup>
 
 Dans ce cadre, le BFEG exerce les fonctions suivantes:
 
-- a. participer à l’élaboration des actes normatifs édictés par la Confédération, dans la mesure où ceux-ci sont importants pour l’égalité entre les sexes;
-- b. traiter les questions relevant de la politique de l’égalité entre les sexes, élaborer des recommandations à l’intention des autorités et des particuliers et effectuer des expertises;
-- c. informer et sensibiliser l’opinion publique en participant à des projets d’importance nationale ou internationale, en organisant des colloques, en éditant des publications et en gérant un centre de documentation;
+- a. traiter les questions relevant de la politique de l’égalité entre les sexes;
+- b. participer à l’élaboration des actes normatifs édictés par la Confédération qui sont importants pour l’égalité entre les sexes;
+- c. élaborer des recommandations à l’intention des autorités et des particuliers et effectuer des expertises;
+- d. informer et sensibiliser l’opinion publique en participant à des projets d’importance nationale ou internationale, en organisant des colloques et en éditant des publications;
+- e. être l’organe de coordination visé à l’art. 10 de la Convention d’Istanbul du 11 mai 2011[^5-2];
+- f. accorder les aides financières prévues dans la loi du 24 mars 1995 sur l’égalité[^5-3] ainsi que dans l’ordonnance du 13 novembre 2019 contre la violence à l’égard des femmes et la violence domestique[^5-4] et surveiller la mise en œuvre des programmes d’encouragement et mesures financés.
 
 <sup>4</sup>
 
 Il accomplit en outre les tâches particulières suivantes:
 
-- a. examiner les demandes d’aides financières prévues par la loi fédérale du 24 mars 1995 sur l’égalité entre femmes et hommes[^5-1] et surveiller la mise en œuvre des programmes d’encouragement;
-- b. échanger des informations avec la Commission fédérale pour les questions féminines.
+- a. mettre gratuitement à la disposition de tous les employeurs l’outil d’analyse standard visé à l’art. 13*c*, al. 2, de la loi sur l’égalité;
+- b. effectuer des contrôles en matière d’égalité salariale conformément à l’art. 4 de l’ordonnance du 12 février 2020 sur les marchés publics[^5-5].
 
-<sup>5</sup> L’Office fédéral du personnel est compétent pour les questions d’égalité entre femmes et hommes au sein de l’administration fédérale.
-
-[^5-1]: [RS 151.1](https://fedlex.data.admin.ch/eli/cc/1996/1498_1498_1498)
+[^5-1]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 723](https://fedlex.data.admin.ch/eli/oc/2022/723)).
+[^5-2]: [RS 0.311.35](https://fedlex.data.admin.ch/eli/cc/2018/168)
+[^5-3]: [RS 151.1](https://fedlex.data.admin.ch/eli/cc/1996/1498_1498_1498)
+[^5-4]: [RS 311.039.7](https://fedlex.data.admin.ch/eli/cc/2019/672)
+[^5-5]: [RS 172.056.11](https://fedlex.data.admin.ch/eli/cc/2020/127)
 
 #### Art. 6
 
@@ -295,27 +308,41 @@ Dans ce cadre, l’OFSP exerce les fonctions suivantes:
 
 #### Art. 10
 
-**Office fédéral de la statistique**
+**Office fédéral de la statistique**[^10-1]
 
-<sup>1</sup> L’Office fédéral de la statistique (OFS) est l’autorité compétente en matière de statistique officielle suisse.
+<sup>1</sup> L’Office fédéral de la statistique (OFS) est l’autorité compétente en matière de statistique officielle suisse. Il est responsable de la coordination de la gestion des données de la Confédération, de la science des données et de l’intelligence artificielle.
 
 <sup>2</sup>
 
-Il poursuit notamment les objectifs suivants de manière indépendante sur le plan technique et selon des principes scientifiques:
+Il poursuit notamment les objectifs suivants:
 
-- a. produire et diffuser des résultats statistiques représentatifs sur l’état et l’évolution de la population, de l’économie, de la société, de l’espace et de l’environnement en Suisse;
-- b. fournir les informations statistiques nécessaires au débat public, aux processus décisionnels politiques et économiques, à la planification et à l’évaluation de l’État et de la société ainsi qu’à la recherche;
-- c. coordonner et harmoniser la statistique officielle de la Confédération, des cantons et des communes.
+- a. assurer, de manière indépendante sur le plan technique et selon des principes scientifiques, la production et la diffusion des résultats statistiques représentatifs sur l’état et l’évolution de la population, de l’économie, de la société, du territoire et de l’environnement en Suisse;
+- b. assurer la coordination et l’harmonisation de la statistique officielle de la Confédération, des cantons et des communes;
+- c. tenir les registres de référence visés à l’art. 10 de la loi du 9 octobre 1992 sur la statistique fédérale[^10-2], gérer des plateformes centrales informatiques de communication de la Confédération, notamment sedex, et des plateformes d’interopérabilité et proposer des services de base pour le traitement numérique des données;
+- d. soutenir la Confédération et, sur demande, les cantons, les communes et les milieux intéressés, en matière de science des données, de méthodes statistiques, d’intelligence artificielle et de transformation numérique.
 
 <sup>3</sup>
 
-Dans ce cadre, l’OFS exerce les fonctions suivantes:
+Dans ce cadre, il exerce les fonctions suivantes:
 
 - a. mettre des informations statistiques à la disposition du public, exploiter les données statistiques destinées à des utilisateurs spécifiques et conseiller les milieux intéressés sur toutes les questions relevant de la statistique;
-- b. préparer les décisions visant une politique cohérente dans le secteur de la statistique publique, les mettre en œuvre et établir le programme statistique quadriannuel;
+- b. préparer les décisions visant une politique cohérente dans le secteur de la statistique publique, les mettre en œuvre et établir le programme statistique quadriennal;
 - c. concevoir, organiser et réaliser des enquêtes statistiques et gérer un pool de données statistiques;
-- d. entretenir une étroite collaboration et échanger des connaissances avec la science et la recherche;
-- e. veiller à l’intégration de la statistique suisse dans les systèmes statistiques internationaux, notamment dans celui de l’Union européenne.
+- d. entretenir une étroite collaboration avec la science, la recherche et l’économie dans les domaines de la statistique, de la gestion des données, de la science des données et de l’intelligence artificielle;
+- e. veiller à l’intégration de la statistique suisse dans les systèmes statistiques internationaux, notamment dans celui de l’Union européenne;
+- f. mettre en ligne un catalogue national des métadonnées.
+
+<sup>4</sup>
+
+Il assure au surplus, en étroite collaboration notamment avec les autres offices fédéraux, les rôles institutionnels suivants:
+
+- a. administrateur suisse des données (*swiss data steward*) et administrateur des données de la statistique (*statistics data steward*);
+- b. centre de compétences en science des données (DSCC) de la Confédération;
+- c. secrétariat du réseau de compétences en intelligence artificielle (CNAI) de la Confédération;
+- d. secrétariat pour l’Open Government Data de l’administration fédérale centrale.
+
+[^10-1]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 723](https://fedlex.data.admin.ch/eli/oc/2022/723)).
+[^10-2]: [RS 431.01](https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080)
 
 #### Art. 11
 
@@ -366,19 +393,20 @@ Se fondant sur les résultats de la recherche scientifique, l’OSAV poursuit no
 
 <sup>3</sup> L’OSAV participe à la préparation et à l’élaboration des actes normatifs dans les domaines de la sécurité alimentaire et des objets usuels, de la nutrition, de la santé animale, de la protection des animaux, de l’homologation des produits phytosanitaires et de la protection des espèces dans le commerce international. Il surveille et coordonne leur exécution.[^12-5]
 
-<sup>4</sup> L’Institut de virologie et d’immunologie (IVI) est subordonné à l’OSAV, en tant qu’institut de recherche. L’IVI est le centre de compétences de la Confédération en matière de lutte contre les épizooties. Il se consacre notamment au diagnostic, à la surveillance et au contrôle des épizooties hautement contagieuses dans le but d’empêcher les dommages sanitaires et économiques; il procède également à l’enregistrement des vaccins à usage vétérinaire.
+<sup>4</sup> L’Institut de virologie et d’immunologie (IVI) est subordonné à l’OSAV, en tant qu’institut de recherche. L’IVI est le centre de compétences de la Confédération en matière de lutte contre les épizooties. Il se consacre notamment au diagnostic, à la surveillance et au contrôle des épizooties hautement contagieuses dans le but d’empêcher les dommages sanitaires et économiques.[^12-6]
 
-<sup>5</sup> L’Unité fédérale pour la chaîne agroalimentaire (UCAL) est rattachée administrativement à l’OSAV. Elle est dirigée conjointement par les directeurs de l’Office fédéral de l’agriculture et de l’OSAV. Elle soutient ces offices dans la surveillance de l’exécution de la législation phytosanitaire et de la législation relative aux aliments pour animaux, aux épizooties, à la protection des animaux et aux denrées alimentaires, ainsi que dans l’élaboration du plan de contrôle national. Par sa fonction de coordination, elle contribue à garantir la sécurité des denrées alimentaires à toutes les étapes de la chaîne de production agroalimentaire.[^12-6]
+<sup>5</sup> L’Unité fédérale pour la chaîne agroalimentaire (UCAL) est rattachée administrativement à l’OSAV. Elle est dirigée conjointement par les directeurs de l’Office fédéral de l’agriculture et de l’OSAV. Elle soutient ces offices dans la surveillance de l’exécution de la législation phytosanitaire et de la législation relative aux aliments pour animaux, aux épizooties, à la protection des animaux et aux denrées alimentaires, ainsi que dans l’élaboration du plan de contrôle national. Par sa fonction de coordination, elle contribue à garantir la sécurité des denrées alimentaires à toutes les étapes de la chaîne de production agroalimentaire.[^12-7]
 
-<sup>6</sup> Le service d’homologation des produits phytosanitaires est rattaché administrativement et techniquement à l’OSAV.[^12-7]
+<sup>6</sup> Le service d’homologation des produits phytosanitaires est rattaché administrativement et techniquement à l’OSAV.[^12-8]
 
 [^12-1]: Nouvelle teneur selon le ch. I de l’O du 8 mai 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 1447](https://fedlex.data.admin.ch/eli/oc/2013/333)).
 [^12-2]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
 [^12-3]: Introduite par l’annexe ch. 1 de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
 [^12-4]: Introduite par l’annexe ch. 1 de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
 [^12-5]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
-[^12-6]: Nouvelle teneur selon l’annexe 4 ch. 1 de l’O du 27 mai 2020 sur le plan de contrôle national pluriannuel de la chaîne agroalimentaire et des objets usuels, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2441](https://fedlex.data.admin.ch/eli/oc/2020/459)).
-[^12-7]: Introduit par l’annexe ch. 1 de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
+[^12-6]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 723](https://fedlex.data.admin.ch/eli/oc/2022/723)).
+[^12-7]: Nouvelle teneur selon l’annexe 4 ch. 1 de l’O du 27 mai 2020 sur le plan de contrôle national pluriannuel de la chaîne agroalimentaire et des objets usuels, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2441](https://fedlex.data.admin.ch/eli/oc/2020/459)).
+[^12-8]: Introduit par l’annexe ch. 1 de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
 
 #### Art. 13
 
@@ -446,12 +474,18 @@ Les tâches et l’organisation du Musée national suisse (MNS) sont régies par
 
 #### Art. 16g
 
-**Commission de haute surveillance de la prévoyance professionnelle**[^16g-1]
+[^16g-1]
 
-Les tâches et l’organisation de la Commission de haute surveillance de la prévoyance professionnelle sont régies par loi fédérale du 25 juin 1982 sur la prévoyance professionnelle vieillesse, survivants et invalidité[^16g-2] et par le règlement d’organisation et de gestion édicté sur cette base.
+[^16g-1]: Introduit par le ch. I de l’O du 10 juin 2011 ([RO 2011 3321](https://fedlex.data.admin.ch/eli/oc/2011/448)). Abrogé par le ch. I de l’O du 23 nov. 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 723](https://fedlex.data.admin.ch/eli/oc/2022/723)).
 
-[^16g-1]: Introduit par le ch. I de l’O du 10 juin 2011, en vigueur depuis le 1<sup>er</sup> août 2011 ([RO 2011 3321](https://fedlex.data.admin.ch/eli/oc/2011/448)).
-[^16g-2]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+#### Art. 16h
+
+**compenswiss (Fonds de compensation AVS/AI/APG)**[^16h-1]
+
+Les tâches et l’organisation de compenswiss (Fonds de compensation AVS/AI/APG) sont régies par la loi du 16 juin 2017 sur les fonds de compensation[^16h-2].
+
+[^16h-1]: Introduit par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 723](https://fedlex.data.admin.ch/eli/oc/2022/723)).
+[^16h-2]: [RS 830.2](https://fedlex.data.admin.ch/eli/cc/2017/820)
 
 ## Chapitre 4 Dispositions finales
 
