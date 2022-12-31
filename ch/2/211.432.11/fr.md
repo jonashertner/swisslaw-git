@@ -4,11 +4,11 @@ title: Ordonnance technique du DFJP et du DDPS du 28 décembre 2012 concernant l
 short: OTRF
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/3"
 language: fr
-version: 2013-02-01
+version: 2023-01-01
 adopted: 2012-12-28
 in_force: 2013-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/3/20130201/fr/xml/fedlex-data-admin-ch-eli-cc-2013-3-20130201-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/3/20130201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/3/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2013-3-20230101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/3/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,17 +17,18 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/3/20130201/fr"
 
 (OTRF)
 
-du 28 décembre 2012 (Etat le 1<sup>er</sup> février 2013)
+du 28 décembre 2012 (Etat le 1<sup>er</sup> janvier 2023)
 
 Le Département fédéral de justice et police (DFJP) et le Département fédéral de la défense, de la protection de la population et des sports (DDPS),
 
-vu l’art. 949*a*, al. 3, du code civil (CC)[^ingress-1], vu les art. 19, al. 4, 40, al. 2, et 41, al. 1, de l’ordonnance du 23 septembre 2011 sur le registre foncier (ORF)[^ingress-2], vu l’art. 6*a*, al. 2, de l’ordonnance du 18 novembre 1992 sur la mensuration officielle (OMO)[^ingress-3],
+vu les art. 949*a*, al. 3, et 949*c* du code civil[^ingress-1], vu les art. 19, al. 4, 23*e*, 34*b*, al. 7, 34*c*, al. 5, 40, al. 2, et 41, al. 1, de l’ordonnance du 23 septembre 2011 sur le registre foncier (ORF)[^ingress-2], vu l’art. 6*a*, al. 2, de l’ordonnance du 18 novembre 1992 sur la mensuration officielle (OMO)[^ingress-3],[^ingress-4]
 
 arrêtent:
 
 [^ingress-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 [^ingress-2]: [RS 211.432.1](https://fedlex.data.admin.ch/eli/cc/2011/667)
 [^ingress-3]: [RS 211.432.2](https://fedlex.data.admin.ch/eli/cc/1992/2446_2446_2446)
+[^ingress-4]: Nouvelle teneur selon le ch. I de l’O du DFJP et du DDPS du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
 
 ## Section 1 Objet
 
@@ -42,7 +43,20 @@ La présente ordonnance règle:
 - e. l’identification fédérale des immeubles (E-GRID);
 - f. les formats de données des documents pour les communications et les transactions électroniques avec les offices du registre foncier;
 - g. les procédures alternatives de transmission pour les communications et les transactions électroniques (annexe 4);
-- h. La sauvegarde à long terme des données.
+- h. La sauvegarde à long terme des données;
+- i.[^1-1] les interfaces avec la Centrale de compensation (CdC) (annexe 5);
+- j.[^1-2] la procédure de reprise et de mise à jour des données dans le registre des identifiants de personnes;
+- k.[^1-3] la journalisation de la reprise et de la mise à jour des données dans le registre des identifiants de personnes;
+- l.[^1-4] l’interface pour l’accès du service de recherche d’immeubles aux données du grand livre ayant des effets juridiques et aux données du registre des identifiants de personnes;
+- m.[^1-5] l’interface par laquelle le service de recherche d’immeubles obtient les contenus de l’index de recherche des systèmes cantonaux (annexe 6);
+- n.[^1-6] l’interface d’interrogation par l’intermédiaire du service de recherche d’immeubles (annexe 7).
+
+[^1-1]: Introduite par le ch. I de l’O du DFJP et du DDPS du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
+[^1-2]: Introduite par le ch. I de l’O du DFJP et du DDPS du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
+[^1-3]: Introduite par le ch. I de l’O du DFJP et du DDPS du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
+[^1-4]: Introduite par le ch. I de l’O du DFJP et du DDPS du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
+[^1-5]: Introduite par le ch. I de l’O du DFJP et du DDPS du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
+[^1-6]: Introduite par le ch. I de l’O du DFJP et du DDPS du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
 
 ## Section 2 Attributions
 
@@ -57,9 +71,22 @@ Le DFJP définit pour le registre foncier:
 - a. le MD-eGRIS et les exigences auxquelles les données qu’il contient doivent satisfaire, ainsi que la date d’entrée en vigueur de chaque nouvelle version;
 - b. le langage de description des données;
 - c. l’IPD-RF et la date d’entrée en vigueur de chaque nouvelle version, ainsi que l’échéance des versions précédentes;
-- d. le catalogue des critères applicables à la reconnaissance de plateformes alternatives pour les communications et les transactions électroniques avec l’office du registre foncier.
+- d. le catalogue des critères applicables à la reconnaissance de plateformes alternatives pour les communications et les transactions électroniques avec l’office du registre foncier;
+- e.[^2-1] les interfaces UPI (*Unique Person Identification*) avec la CdC (annexe 5);
+- f.[^2-2] la procédure de reprise et de mise à jour des données dans le registre des identifiants de personnes;
+- g.[^2-3] la journalisation de la reprise et de la mise à jour des données dans le registre des identifiants de personnes;
+- h.[^2-4] l’interface pour l’accès du service de recherche d’immeubles aux données du grand livre ayant des effets juridiques et aux données du registre des identifiants de personnes;
+- i.[^2-5] l’interface par laquelle le service de recherche d’immeubles obtient les contenus de l’index de recherche des systèmes cantonaux (annexe 6);
+- j.[^2-6] l’interface d’interrogation par l’intermédiaire du service de recherche d’immeubles (annexe 7).
 
 <sup>2</sup> Il reconnaît les plateformes alternatives pour les communications et les transactions électroniques avec l’office du registre foncier.
+
+[^2-1]: Introduite par le ch. I de l’O du DFJP et du DDPS du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
+[^2-2]: Introduite par le ch. I de l’O du DFJP et du DDPS du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
+[^2-3]: Introduite par le ch. I de l’O du DFJP et du DDPS du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
+[^2-4]: Introduite par le ch. I de l’O du DFJP et du DDPS du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
+[^2-5]: Introduite par le ch. I de l’O du DFJP et du DDPS du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
+[^2-6]: Introduite par le ch. I de l’O du DFJP et du DDPS du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
 
 #### Art. 3
 
@@ -101,6 +128,13 @@ Le DFJP et le DDPS définissent pour l’échange des données entre la mensurat
 
 <sup>3</sup> Ils garantissent l’échange des données entre le registre foncier et la mensuration officielle dans la dimension du MD-IMO-RF.
 
+<sup>4</sup> Ils réalisent les interfaces UPI indiquées dans l’annexe 5, pour autant que les offices du registre foncier ne prélèvent pas les données nécessaires à l’enregistrement du numéro AVS d’une source de données selon l’art. 23*b*, let. b, ORF.[^6-1]
+
+<sup>5</sup> Ils assurent l’accès aux données du grand livre ayant des effets juridiques et aux données du registre des identifiants de personnes depuis le service de recherche d’immeubles via l’interface IPD-RF.[^6-2]
+
+[^6-1]: Introduit par le ch. I de l’O du DFJP et du DDPS du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
+[^6-2]: Introduit par le ch. I de l’O du DFJP et du DDPS du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
+
 ## Section 3 Langages de description des données
 
 #### Art. 7
@@ -128,7 +162,8 @@ Le MD-eGRIS se compose des modèles partiels suivants:
   modèles partiels obligatoires:
 
   - 1\. grand livre et tableaux de codes qui en font partie,
-  - 2\. journal et tableaux de codes qui en font partie;
+  - 2\. journal et tableaux de codes qui en font partie,
+  - 3\.[^8-1] registre des identifiants de personnes et tableaux de codes qui en font partie;
 
 - b.
 
@@ -138,6 +173,30 @@ Le MD-eGRIS se compose des modèles partiels suivants:
   - 2\. notes;
 
 <sup>4</sup> Les modèles partiels obligatoires du MD-eGRIS doivent être introduits et mis à disposition dans leur dernière version dans tous les registres fonciers dans un délai de 24 mois à compter de leur entrée en vigueur.
+
+[^8-1]: Introduit par le ch. I de l’O du DFJP et du DDPS du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
+
+## Section 4*a* Procédure de reprise et de mise à jour des données; journalisation
+
+[^sec4a-1]
+
+[^sec4a-1]: Introduite par le ch. I de l’O du DFJP et du DDPS du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
+
+#### Art. 8a
+
+**Procédure de reprise et de mise à jour des données**
+
+<sup>1</sup> Le système cantonal peut obtenir les mises à jour annoncées par la CdC directement via l’interface UPI «Annonces de mutations UPI à des tiers» (annexe 5) ou indirectement d’une source de données selon l’art. 23*b*, let. b, ORF.
+
+<sup>2</sup> À l’exception de l’annulation des numéros AVS, il reprend les mises à jour automatiquement dans le registre des identifiants de personnes.
+
+<sup>3</sup> En cas d’annulation du numéro AVS, l’office du registre foncier procède dans tous les cas conformément à l’art. 23*d*, al. 3, ORF.
+
+#### Art. 8b
+
+**Journalisation de la reprise et de la mise à jour des données**
+
+Le système cantonal journalise automatiquement la reprise et la mise à jour des données.
 
 ## Section 5 Modèle de données pour l’échange des données entre le registre foncier et la mensuration officielle
 
@@ -173,7 +232,9 @@ L’IPD-RF permet:
 - a. la livraison des données qui ont des effets juridiques ainsi que celles qui sont radiées du grand livre, du journal et des pièces justificatives, sous une forme structurée et lisible par une machine;
 - b. l’établissement de l’index national des immeubles, conformément à l’art. 27, al. 3, ORF;
 - c. l’exportation, en vue de leur sauvegarde à long terme par la Confédération, des données du grand livre qui ont des effets juridiques ainsi que de celles qui sont radiées;
-- d. les communications et les transactions électroniques avec les offices du registre foncier.
+- d. les communications et les transactions électroniques avec les offices du registre foncier;
+- e.[^10-1] l’accès du service de recherche d’immeubles aux données du grand livre ayant des effets juridiques et aux données du registre des identifiants de personnes;
+- f.[^10-2] la transmission des données d’identification des autorités procédant à des interrogations via le service de recherche d’immeubles.
 
 <sup>2</sup> S’agissant de leur contenu et de leur degré de précision, les structures des données obéissent au MD-eGRIS.
 
@@ -182,6 +243,27 @@ L’IPD-RF permet:
 <sup>4</sup> Les fabricants de systèmes recueillent les propositions de modifications et établissent une liste épurée de celles-ci, qu’ils soumettent pour adoption au groupe d’accompagnement. Une fois les propositions adoptées installées et la nouvelle version de l’interface testée en pratique et reçue par le groupe d’accompagnement, la nouvelle version est soumise au DFJP pour approbation.
 
 <sup>5</sup> L’IPD-RF doit être introduit et mis à disposition dans sa dernière version dans tous les systèmes de registre foncier dans un délai de 24 mois à compter de son entrée en vigueur.
+
+[^10-1]: Introduite par le ch. I de l’O du DFJP et du DDPS du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
+[^10-2]: Introduite par le ch. I de l’O du DFJP et du DDPS du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
+
+## Section 6*a* L’interface avec l’index de recherche du service de recherche d’immeubles
+
+[^sec6a-1]
+
+[^sec6a-1]: Introduite par le ch. I de l’O du DFJP et du DDPS du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
+
+#### Art. 10a
+
+**Interface avec l’index de recherche**
+
+L’interface avec l’index de recherche du service de recherche d’immeubles figure dans l’annexe 6.
+
+#### Art. 10b
+
+**Transmission des données**
+
+Le système cantonal transmet via l’interface à l’index de recherche du service de recherche d’immeubles les données selon l’art. 34*b*, al. 5 et 6, ORF.
 
 ## Section 7 L’interface pour l’échange de données entre la mensuration officielle et le registre foncier
 
@@ -259,13 +341,15 @@ Les systèmes informatiques utilisés pour la tenue du registre foncier et la me
 
 Les formats de données autorisés pour les requêtes à l’office du registre foncier sont:
 
-- a. pour les réquisitions au registre foncier qui ne sont pas déjà contenues dans le justificatif relatif au titre: PDF munies de la signature électronique qualifiée conformément à l’art. 14, al. 2<sup>bis</sup>, du code des obligations (CO)[^18-1]; les données contenues dans la réquisition peuvent en outre être ajoutées en format XML;
-- b. pour les justificatifs relatifs au titre passés en la forme authentique: les formats prévus par l’ordonnance du DFJP du 2 décembre 2011 relative aux formats reconnus dans le domaine des actes authentiques électroniques[^18-2];
+- a.[^18-1] pour les réquisitions au registre foncier qui ne sont pas déjà contenues dans le justificatif relatif au titre: PDF/A munies de la signature électronique qualifiée conformément à l’art. 14, al. 2<sup>bis</sup>, du code des obligations (CO)[^18-2]; les données contenues dans la réquisition peuvent en outre être ajoutées en format XML;
+- b.[^18-3] pour les justificatifs relatifs au titre passés en la forme authentique: les formats prévus par l’ordonnance du DFJP du 8 décembre 2017 sur l’établissement d’actes authentiques électroniques et la légalisation électronique (OAAE-DFJP)[^18-4];
 - c. pour les justificatifs relatifs au titre en la forme écrite, y compris les annexes: PDF/A munis d’une signature électronique qualifiée conformément à l’art. 14, al. 2<sup>bis</sup>, CO;
 - d. pour les demandes de délivrance d’un extrait du registre foncier ou d’un certificat d’inscription: PDF munies de la signature électronique qualifiée conformément à l’art. 14, al. 2<sup>bis</sup>, CO; demeurent réservées les requêtes émanant de participants authentifiés dans le cadre de procédures de transmission alternatives et de systèmes cantonaux d’informations du registre foncier.
 
-[^18-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^18-2]: [[RO 2011 6265](https://fedlex.data.admin.ch/eli/oc/2011/882). [RO 2013 2347](https://fedlex.data.admin.ch/eli/oc/2013/495)art. 20]. Voir actuellement l’O du DFJP du 8 déc. 2017 sur l’établissement d’actes authentiques électroniques et la légalisation électronique ([RS 211.435.11](https://fedlex.data.admin.ch/eli/cc/2018/30)).
+[^18-1]: Nouvelle teneur selon le ch. I de l’O du DFJP et du DDPS du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
+[^18-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^18-3]: Nouvelle teneur selon le ch. I de l’O du DFJP et du DDPS du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
+[^18-4]: [RS 211.435.11](https://fedlex.data.admin.ch/eli/cc/2018/30)
 
 #### Art. 19
 
@@ -275,19 +359,24 @@ Les formats pour les notifications aux parties par l’office du registre foncie
 
 - a. pour les certificats d’inscription et pour les avis relatifs à une écriture du registre foncier: PDF/A ou XML; sur demande du destinataire, le document PDF/A peut être muni d’une signature électronique qualifiée conformément à l’art. 14, al. 2<sup>bis</sup>, CO[^19-1]; des données en format XML peuvent y être ajoutées;
 - b. pour les fixations de délais ou les décisions de rejet: PDF/A munies d’une signature électronique qualifiée conformément à l’art. 14, al. 2<sup>bis</sup>, CO;
-- c. pour les extraits du registre foncier: PDF/A ou XML; sur demande du destinataire, l’extrait peut être muni d’une signature électronique qualifiée conformément à l’art. 14, al. 2<sup>bis</sup>, CO; des données en format XML peuvent y être ajoutées.
+- c.[^19-2] pour les extraits électroniques officiels: les formats prévus par l’OAAE-DFJP[^19-3];
+- d.[^19-4] pour les copies et extraits non légalisés: PDF ou XML; des données en format XML peuvent être ajoutées à l’extrait du registre foncier.
 
 [^19-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^19-2]: Nouvelle teneur selon le ch. I de l’O du DFJP et du DDPS du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
+[^19-3]: [RS 211.435.11](https://fedlex.data.admin.ch/eli/cc/2018/30)
+[^19-4]: Introduite par le ch. I de l’O du DFJP et du DDPS du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
 
 #### Art. 20
 
 **Formats de données admis**
 
-<sup>1</sup> Les versions admises du format de données PDF/A figurent dans l’annexe de l’ordonnance du DFJP du 2 décembre 2011 relative aux formats reconnus dans le domaine des actes authentiques électroniques[^20-1].
+<sup>1</sup> Les versions admises du format de données PDF/A figurent dans l’annexe de l’OAAE-DFJP[^20-1].[^20-2]
 
 <sup>2</sup> Les formats PDF et XML peuvent être utilisés dans n’importe laquelle de leurs versions courantes.
 
-[^20-1]: [[RO 2011 6265](https://fedlex.data.admin.ch/eli/oc/2011/882). [RO 2013 2347](https://fedlex.data.admin.ch/eli/oc/2013/495)art. 20]. Voir actuellement l’O du DFJP du 8 déc. 2017 sur l’établissement d’actes authentiques électroniques et la légalisation électronique ([RS 211.435.11](https://fedlex.data.admin.ch/eli/cc/2018/30)).
+[^20-1]: [RS 211.435.11](https://fedlex.data.admin.ch/eli/cc/2018/30)
+[^20-2]: Nouvelle teneur selon le ch. I de l’O du DFJP et du DDPS du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
 
 ## Section 11 Procédures de transmission alternatives
 
@@ -334,6 +423,24 @@ La demande doit être accompagnée:
 <sup>6</sup> L’émolument pour la décision est calculé en fonction du temps consacré; le tarif horaire est de 250 francs. Les dispositions de l’ordonnance générale du 8 septembre 2004 sur les émoluments[^22-1] sont applicables pour le surplus.
 
 [^22-1]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+
+## Section 11*a* Exigences techniques applicables à l’interface d’interrogation par l’intermédiaire du service de recherche d’immeubles et autorisation d’utiliser l’interface
+
+[^sec11a-1]
+
+[^sec11a-1]: Introduite par le ch. I de l’O du DFJP et du DDPS du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
+
+#### Art. 22a
+
+**Exigences techniques**
+
+Les exigences techniques applicables à l’interface d’interrogation par l’intermédiaire du service de recherche d’immeubles figurent dans l’annexe 7.
+
+#### Art. 22b
+
+**Demande d’autorisation d’utiliser l’interface**
+
+La demande d’autorisation d’utiliser l’interface d’interrogation par l’intermédiaire du service de recherche d’immeubles doit contenir la preuve établissant que les exigences techniques visées à l’art. 22*a* sont remplies.
 
 ## Section 12 Sauvegarde à long terme
 
@@ -382,40 +489,109 @@ Les cantons mettent à disposition dans leurs systèmes informatiques au plus ta
 
 <sup>2</sup> Le DFJP peut prolonger les délais dans des cas motivés.
 
+#### Art. 26a
+
+**Dispositions transitoires de la modification du 10 décembre 2021**[^26a-1]
+
+<sup>1</sup> En dérogation à l’art. 8, al. 4, le modèle partiel obligatoire du registre des identifiants de personnes visé à l’art. 8, al. 3, let. a, ch. 3, doit avoir été introduit et être disponible au moment de l’entrée en vigueur de la modification du 10 décembre 2021.
+
+<sup>2</sup> En dérogation à l’art. 10, al. 5, les fonctionnalités de l’IPD-RF visées à l’art. 10, al. 1, let. e et f, doivent avoir été introduites et être disponibles au moment de l’entrée en vigueur de la modification du 10 décembre 2021.
+
+[^26a-1]: Introduit par le ch. I de l’O du DFJP et du DDPS du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
+
 #### Art. 27
 
 **Entrée en vigueur**
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> février 2013.
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 (art. 1, let. a, 2, al. 1, let. a, et art. 8)
 
 ## Modèle de données pour le registre foncier MD-eGRIS, décrit en INTERLIS
 
-[^t-1]: Cette annexe contient le modèle de données dans sa version MD-eGRIS11. Elle n’est pas publiée au RO. Conslutation: www.bj.admin.ch &gt; Thèmes &gt; Economie &gt; Registre foncier & registre des bateaux.
+[^annex1-lvlu1-1]
 
-Annexe 2*[^t-2]*
+[^t-1]: Mise à jour par le ch. II al. 2 de l’O du DFJP et du DDPS du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
+[^annex1-lvlu1-1]: La présente annexe n’est publiée ni au RO ni au RS. Elle peut être consultée à l’adresse suivante: www.bj.admin.ch &gt; Thèmes &gt; Economie &gt; Registre foncier et registre des bateaux.
+
+**Version eGRISDM21**
+
+Annexe 2
 
 (art. 1, let. b, 3, al. 1, let. a, et art. 9)
 
 ## Modèle de données pour la mensuration officielle et pour le registre foncier MD-IMO-RF, décrit en INTERLIS
 
-[^t-2]: Cette annexe contient le modèle de données dans sa version MD-IMO-RF05. Elle n’est pas publié au RO. Consultation: www.bj.admin.ch &gt; Thèmes &gt; Economie &gt; Registre foncier & registre des bateaux.
+[^annex2-lvlu1-1]
 
-Annexe 3*[^t-3]*
+[^annex2-lvlu1-1]: La présente annexe n’est publiée ni au RO ni au RS. Consultation: www.bj.admin.ch &gt; Thèmes &gt; Economie &gt; Registre foncier & registre des bateaux.
 
-(art. 1, let. c, 2, al. 1, let. c, et art. 10)
+**Version MD-IMO-RF05**
 
-## Interface pour le prélèvement et l’échange des données du registre foncier IPD-RF, décrit en XML
+Annexe 3[^t-2]
 
-[^t-3]: Cette annexe contient l’interface dans sa version 2.0.5. Elle n’est pas publié au RO. Consultation: www.bj.admin.ch &gt; Thèmes &gt; Economie &gt; Registre foncier & registre des bateaux.
+(art. 1, let. c, 2, al. 1, let. c et h, 10)
 
-Annexe 4*[^t-4]*
+## Interface pour le prélèvement et l’échange des données du registre foncier IPD-RF, décrite en XML
+
+[^annex3-lvlu1-1]
+
+[^t-2]: Mise à jour par le ch. II al. 2 de l’O du DFJP et du DDPS du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
+[^annex3-lvlu1-1]: La présente annexe n’est publiée ni au RO ni au RS. Elle peut être consultée à l’adresse suivante: www.bj.admin.ch &gt; Thèmes &gt; Economie &gt; Registre foncier et registre des bateaux.
+
+**GBDBS 2.1**
+
+Annexe 4
 
 (art. 1, let. g, et 2, al. 1, let. d)
 
 ## Catalogue de critères pour la reconnaissance de plateformes alternatives
 
-[^t-4]: Cette annexe n’est pas publiée au RO. Consultation: www.bj.admin.ch &gt; Thèmes &gt; Economie &gt; Registre foncier & registre des bateaux.
+[^annex4-lvlu1-1]
+
+[^annex4-lvlu1-1]: La présente annexe n’est publiée ni au RO ni au RS. Consultation: www.bj.admin.ch &gt; Thèmes &gt; Economie &gt; Registre foncier & registre des bateaux.
+
+Annexe 5[^t-3]
+
+(art. 1, let. i, 2, al. 1, let. e, 6, al. 4, 8*a*, al. 1)
+
+## Interfaces UPI (Unique Person Identification)
+
+[^t-3]: Introduite par le ch. II al. 1 de l’O du DFJP et du DDPS du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
+
+<table>
+<tr><td>Désignation de l’interface</td><td>Norme technique sous-jacente[^annex5-lvlu1-1]</td></tr>
+<tr><td>«UPI Query Interface»</td><td>eCH-0085</td></tr>
+<tr><td>«UPI Compare Interface»</td><td>eCH-0086</td></tr>
+<tr><td>«Annonces de mutations UPI à des tiers»</td><td>eCH-0212</td></tr>
+</table>
+
+[^annex5-lvlu1-1]: Les spécifications peuvent être consultées et obtenues auprès de la Centrale de compensation CdC, Av. Edmond-Vaucher 18, case postale 3000, 1211 Genève 2, www.zas.admin.ch &gt; Partenaires et institutions &gt; Unique Person Identification (UPI) &gt; Interface UPIServices, et auprès de l’association eCH, Mainaustrasse 30, 8008 Zurich, www.ech.ch.
+
+Annexe 6[^t-4]
+
+(art. 1, let. m, 2, al. 1, let. i, 10*a*, 10*b*)
+
+## Interface avec l’index de recherche du service de recherche d’immeubles
+
+[^annex6-lvlu1-1]
+
+[^t-4]: Introduite par le ch. II al. 1 de l’O du DFJP et du DDPS du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
+[^annex6-lvlu1-1]: La présente annexe n’est publiée ni au RO ni au RS. Elle peut être consultée à l’adresse suivante: www.bj.admin.ch &gt; Thèmes &gt; Economie &gt; Registre foncier et registre des bateaux.
+
+**Version 1.2**
+
+Annexe 7[^t-5]
+
+(art. 1, let. n, 2, al. 1, let. j, 22*a*, 22*b*)
+
+## Interface d’interrogation par l’intermédiaire du service de recherche d’immeubles
+
+[^annex7-lvlu1-1]
+
+[^t-5]: Introduite par le ch. II al. 1 de l’O du DFJP et du DDPS du 10 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
+[^annex7-lvlu1-1]: La présente annexe n’est publiée ni au RO ni au RS. Elle peut être consultée à l’adresse suivante: www.bj.admin.ch &gt; Thèmes &gt; Economie &gt; Registre foncier et registre des bateaux.
+
+**Version 1.0.0**

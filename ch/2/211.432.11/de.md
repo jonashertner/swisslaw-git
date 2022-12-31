@@ -4,11 +4,11 @@ title: Technische Verordnung des EJPD und des VBS vom 28. Dezember 2012 über da
 short: TGBV
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/3"
 language: de
-version: 2013-02-01
+version: 2023-01-01
 adopted: 2012-12-28
 in_force: 2013-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/3/20130201/de/xml/fedlex-data-admin-ch-eli-cc-2013-3-20130201-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/3/20130201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/3/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2013-3-20230101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/3/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,17 +17,18 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/3/20130201/de"
 
 (TGBV)
 
-vom 28. Dezember 2012 (Stand am 1. Februar 2013)
+vom 28. Dezember 2012 (Stand am 1. Januar 2023) (Stand am 1. Januar 2023)
 
 Das Eidgenössische Justiz- und Polizeidepartement (EJPD) und das Eidgenössische Departement für Verteidigung, Bevölkerungsschutz und Sport (VBS),
 
-gestützt auf Artikel 949*a* Absatz 3 des Zivilgesetzbuches[^ingress-1], die Artikel 19 Absatz 4, 40 Absatz 2 und 41 Absatz 1 der Grundbuchverordnung vom 23. September 2011[^ingress-2] (GBV) und Artikel 6*a* Absatz 2 der Verordnung vom 18. November 1992[^ingress-3] über die amtliche Vermessung (VAV),
+gestützt auf die Artikel 949*a* Absatz 3 und 949*c* des Zivilgesetzbuches[^ingress-1], die Artikel 19 Absatz 4, 23*e*, 34*b* Absatz 7, 34*c* Absatz 5, 40 Absatz 2 und 41 Absatz 1 der Grundbuchverordnung vom 23. September 2011[^ingress-2] (GBV) und Artikel 6*a* Absatz 2 der Verordnung vom 18. November 1992[^ingress-3] über die amtliche Vermessung (VAV*),*[^ingress-4]
 
 verordnen:
 
 [^ingress-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 [^ingress-2]: [SR 211.432.1](https://fedlex.data.admin.ch/eli/cc/2011/667)
 [^ingress-3]: [SR 211.432.2](https://fedlex.data.admin.ch/eli/cc/1992/2446_2446_2446)
+[^ingress-4]: Fassung gemäss Ziff. I der V des EJPD und des VBS vom 10. Dez. 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
 
 ## 1. Abschnitt: Gegenstand
 
@@ -42,7 +43,20 @@ Diese Verordnung regelt:
 - e. die eidgenössische Grundstücksidentifikation (E-GRID);
 - f. die Datenformate von Dokumenten für den elektronischen Geschäftsverkehr mit den Grundbuchämtern;
 - g. die alternativen Übermittlungsverfahren für den elektronischen Geschäftsverkehr (Anhang 4);
-- h. die Langzeitsicherung.
+- h. die Langzeitsicherung;
+- i.[^1-1] die Schnittstellen zur Zentralen Ausgleichsstelle (ZAS) (Anhang 5);
+- j.[^1-2] das Verfahren der Übernahme und Aktualisierung von Daten im Personenidentifikationsregister;
+- k.[^1-3] die Protokollierung der Übernahme und Aktualisierung von Daten im Personenidentifikationsregister;
+- l.[^1-4] die Schnittstelle für den Zugang des Grundstücksuchdienstes zu den rechtswirksamen Daten des Hauptbuchs und zu den Daten des Personenidentifikationsregisters;
+- m.[^1-5] die Schnittstelle, über die der Grundstücksuchdienst die Inhalte des Suchindexes von den kantonalen Systemen erhält (Anhang 6);
+- n.[^1-6] die Schnittstelle für Abfragen über den Grundstücksuchdienst (Anhang 7).
+
+[^1-1]: Eingefügt durch Ziff. I der V des EJPD und des VBS vom 10. Dez. 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
+[^1-2]: Eingefügt durch Ziff. I der V des EJPD und des VBS vom 10. Dez. 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
+[^1-3]: Eingefügt durch Ziff. I der V des EJPD und des VBS vom 10. Dez. 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
+[^1-4]: Eingefügt durch Ziff. I der V des EJPD und des VBS vom 10. Dez. 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
+[^1-5]: Eingefügt durch Ziff. I der V des EJPD und des VBS vom 10. Dez. 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
+[^1-6]: Eingefügt durch Ziff. I der V des EJPD und des VBS vom 10. Dez. 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
 
 ## 2. Abschnitt: Zuständigkeiten
 
@@ -57,9 +71,22 @@ Das EJPD definiert für das Grundbuch:
 - a. das eGRISDM und die Anforderungen an die darin zu haltenden Daten sowie den Geltungsbeginn der jeweils neuen Version;
 - b. die Datenbeschreibungssprache;
 - c. die GBDBS und den Geltungsbeginn der jeweils neuen Version sowie das Ende der Gültigkeit von vorangehenden Versionen;
-- d. den Kriterienkatalog für die Anerkennung von alternativen Plattformen für den elektronischen Geschäftsverkehr mit dem Grundbuchamt.
+- d. den Kriterienkatalog für die Anerkennung von alternativen Plattformen für den elektronischen Geschäftsverkehr mit dem Grundbuchamt;
+- e.[^2-1] die UPI-Schnittstellen (Unique Person Identification) zur ZAS (Anhang 5);
+- f.[^2-2] das Verfahren der Übernahme und Aktualisierung von Daten im Personenidentifikationsregister;
+- g.[^2-3] die Protokollierung der Übernahme und Aktualisierung von Daten im Personenidentifikationsregister;
+- h.[^2-4] die Schnittstelle für den Zugang des Grundstücksuchdienstes zu den rechtswirksamen Daten des Hauptbuchs und zu den Daten des Personenidentifikationsregisters;
+- i.[^2-5] die Schnittstelle, über die der Grundstücksuchdienst die Inhalte des Suchindexes von den kantonalen Systemen erhält (Anhang 6);
+- j.[^2-6] die Schnittstelle für Abfragen über den Grundstücksuchdienst (Anhang 7).
 
 <sup>2</sup> Es anerkennt alternative Plattformen für den elektronischen Geschäftsverkehr mit dem Grundbuchamt.
+
+[^2-1]: Eingefügt durch Ziff. I der V des EJPD und des VBS vom 10. Dez. 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
+[^2-2]: Eingefügt durch Ziff. I der V des EJPD und des VBS vom 10. Dez. 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
+[^2-3]: Eingefügt durch Ziff. I der V des EJPD und des VBS vom 10. Dez. 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
+[^2-4]: Eingefügt durch Ziff. I der V des EJPD und des VBS vom 10. Dez. 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
+[^2-5]: Eingefügt durch Ziff. I der V des EJPD und des VBS vom 10. Dez. 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
+[^2-6]: Eingefügt durch Ziff. I der V des EJPD und des VBS vom 10. Dez. 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
 
 #### Art. 3
 
@@ -101,6 +128,13 @@ Das EJPD und das VBS definieren für den Datenaustausch zwischen der amtlichen V
 
 <sup>3</sup> Sie stellen den Datenaustausch zwischen dem Grundbuch und der amtlichen Vermessung im Umfang des AVGBSDM sicher.
 
+<sup>4</sup> Sie realisieren die im Anhang 5 aufgeführten UPI-Schnittstellen, soweit die Grundbuchämter die Angaben für die Zuordnung der AHV-Nummer nicht aus einer Datenquelle nach Artikel 23*b* Buchstabe b GBV beziehen.[^6-1]
+
+<sup>5</sup> Sie stellen den Abruf der rechtswirksamen Daten des Hauptbuchs und der Daten des Personenidentifikationsregisters durch den Grundstücksuchdienst über die GBDBS sicher.[^6-2]
+
+[^6-1]: Eingefügt durch Ziff. I der V des EJPD und des VBS vom 10. Dez. 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
+[^6-2]: Eingefügt durch Ziff. I der V des EJPD und des VBS vom 10. Dez. 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
+
 ## 3. Abschnitt: Datenbeschreibungssprachen
 
 #### Art. 7
@@ -128,7 +162,8 @@ Das eGRISDM umfasst die folgenden Teilmodelle:
   obligatorische Teilmodelle:
 
   - 1\. Hauptbuch mit den dazugehörenden Codetabellen,
-  - 2\. Tagebuch mit den dazugehörenden Codetabellen;
+  - 2\. Tagebuch mit den dazugehörenden Codetabellen,
+  - 3\.[^8-1] Personenidentifikationsregister mit den dazugehörenden Codetabellen;
 
 - b.
 
@@ -138,6 +173,30 @@ Das eGRISDM umfasst die folgenden Teilmodelle:
   - 2\. Notizen.
 
 <sup>4</sup> Die obligatorischen Teilmodelle des eGRISDM müssen in ihrer jeweils geltenden Version in allen Grundbuchsystemen innerhalb von 24 Monaten ab Geltungsbeginn installiert und verfügbar gemacht werden.
+
+[^8-1]: Eingefügt durch Ziff. I der V des EJPD und des VBS vom 10. Dez. 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
+
+## 4*a*. Abschnitt: Verfahren der Übernahme und Aktualisierung von Daten; Protokollierung
+
+[^sec4a-1]
+
+[^sec4a-1]: Eingefügt durch Ziff. I der V des EJPD und des VBS vom 10. Dez. 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
+
+#### Art. 8a
+
+**Verfahren der Übernahme und Aktualisierung von Daten**
+
+<sup>1</sup> Das kantonale System kann die von der ZAS gemeldeten Aktualisierungen unmittelbar über die UPI-Schnittstelle «Mutationsmeldungen UPI an Dritte» (Anhang 5) oder mittelbar aus einer Datenquelle nach Artikel 23*b* Buchstabe b GBV beziehen.
+
+<sup>2</sup> Mit Ausnahme der Annullierung der AHV-Nummern übernimmt es die Aktualisierungen automatisch in das Personenidentifikationsregister.
+
+<sup>3</sup> Das Vorgehen des Grundbuchamtes im Fall einer Annullierung der AHV-Nummer richtet sich in jedem Fall nach Artikel 23*d* Absatz 3 GBV.
+
+#### Art. 8b
+
+**Protokollierung der Übernahme und Aktualisierung von Daten**
+
+Das kantonale System protokolliert die Übernahme und Aktualisierung von Daten des Personenidentifikationsregisters automatisch.
 
 ## 5. Abschnitt: Das Datenmodell für den Datenaustausch zwischen der amtlichen Vermessung und dem Grundbuch
 
@@ -173,7 +232,9 @@ Die GBDBS ermöglicht:
 - a. die Übertragung der rechtswirksamen und der gelöschten Daten des Hauptbuchs, des Tagebuchs und der Belege in strukturierter und maschinenlesbarer Form;
 - b. die Erstellung des gesamtschweizerischen Grundstücksindexes nach Artikel 27 Absatz 3 GBV;
 - c. den Export der rechtswirksamen und der gelöschten Daten des Hauptbuchs für die langfristige Sicherung durch den Bund;
-- d. den elektronischen Geschäftsverkehr mit den Grundbuchämtern.
+- d. den elektronischen Geschäftsverkehr mit den Grundbuchämtern;
+- e.[^10-1] den Abruf der rechtswirksamen Daten des Hauptbuchs und der Daten des Personenidentifikationsregisters durch den Grundstücksuchdienst;
+- f.[^10-2] die Übertragung der Identifikationsangaben der über den Grundstücksuchdienst abfragenden Behörden.
 
 <sup>2</sup> Die Datenstrukturen richten sich in Inhalt und Detaillierungsgrad nach dem eGRISDM.
 
@@ -182,6 +243,27 @@ Die GBDBS ermöglicht:
 <sup>4</sup> Die Systemhersteller nehmen Änderungsanträge entgegen, erstellen eine bereinigte Liste und unterbreiten diese der Begleitgruppe zur Verabschiedung. Nach Umsetzung der verabschiedeten Anträge, Prüfung der neuen Version im praktischen Einsatz und Abnahme durch die Begleitgruppe wird die neue Version dem EJPD zur Genehmigung unterbreitet.
 
 <sup>5</sup> Die GBDBS muss in ihrer jeweils geltenden Version in allen Grundbuchsystemen innerhalb von 24 Monaten ab Geltungsbeginn installiert und verfügbar gemacht werden.
+
+[^10-1]: Eingefügt durch Ziff. I der V des EJPD und des VBS vom 10. Dez. 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
+[^10-2]: Eingefügt durch Ziff. I der V des EJPD und des VBS vom 10. Dez. 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
+
+## 6*a*. Abschnitt: Die Schnittstelle zum Suchindex des Grundstücksuchdienstes
+
+[^sec6a-1]
+
+[^sec6a-1]: Eingefügt durch Ziff. I der V des EJPD und des VBS vom 10. Dez. 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
+
+#### Art. 10a
+
+**Schnittstelle zum Suchindex**
+
+Die Schnittstelle zum Suchindex des Grundstücksuchdienstes ist im Anhang 6 aufgeführt.
+
+#### Art. 10b
+
+**Datenübermittlung**
+
+Das kantonale System übermittelt dem Suchindex des Grundstücksuchdienstes über die Schnittstelle die Daten nach Artikel 34*b* Absätze 5 und 6 GBV.
 
 ## 7. Abschnitt: Die Schnittstelle für den Datenaustausch zwischen der amtlichen Vermessung und dem Grundbuch
 
@@ -259,13 +341,15 @@ Die für die Grundbuchführung und für die amtliche Vermessung eingesetzten Inf
 
 Zulässige Datenformate für Eingaben an das Grundbuchamt sind:
 
-- a. für Grundbuchanmeldungen, die nicht bereits im Rechtsgrundausweis enthalten sind: PDF mit einer qualifizierten elektronischen Signatur nach Artikel 14 Absatz 2<sup>bis</sup> des Obligationenrechts[^18-1] (OR); die in der Anmeldung enthaltenen Angaben können zusätzlich im Format XML beigefügt werden;
-- b. für öffentlich beurkundete Rechtsgrundausweise: die Formate nach der Verordnung des EJPD vom 2. Dezember 2011[^18-2] über die anerkannten Formate im Bereich der elektronischen öffentlichen Beurkundung;
+- a.[^18-1] für Grundbuchanmeldungen, die nicht bereits im Rechtsgrundausweis enthalten sind: PDF/A mit einer qualifizierten elektronischen Signatur nach Artikel 14 Absatz 2<sup>bis</sup> des Obligationenrechts (OR)[^18-2]; die in der Anmeldung enthaltenen Angaben können zusätzlich im Format XML beigefügt werden;
+- b.[^18-3] für öffentlich beurkundete Rechtsgrundausweise: die Formate nach der Verordnung des EJPD vom 8. Dezember 2017[^18-4] über die Erstellung elektronischer öffentlicher Urkunden und elektronischer Beglaubigungen (EÖBV-EJPD);
 - c. für Rechtsgrundausweise in schriftlicher Form einschliesslich Beilagen: PDF/A mit einer qualifizierten elektronischen Signatur nach Artikel 14 Absatz 2<sup>bis</sup> OR;
 - d. für Gesuche um Ausstellung eines Grundbuchauszugs oder einer Eintragungsbescheinigung: PDF mit einer qualifizierten elektronischen Signatur nach Artikel 14 Absatz 2<sup>bis</sup> OR; vorbehalten bleiben Gesuche von authentifizierten Teilnehmerinnen oder Teilnehmern im Rahmen von alternativen Übermittlungsverfahren und kantonalen Grundbuch-Informationssystemen.
 
-[^18-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^18-2]: [[AS 2011 6265](https://fedlex.data.admin.ch/eli/oc/2011/882). [AS 2013 2347](https://fedlex.data.admin.ch/eli/oc/2013/495)Art. 20]. Siehe heute: die V des EJPD vom 8. Dez. 2017 über die Erstellung elektronischer öffentlicher Urkunden und elektronischer Beglaubigungen ([SR 211.435.11](https://fedlex.data.admin.ch/eli/cc/2018/30)).
+[^18-1]: Fassung gemäss Ziff. I der V des EJPD und des VBS vom 10. Dez. 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
+[^18-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^18-3]: Fassung gemäss Ziff. I der V des EJPD und des VBS vom 10. Dez. 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
+[^18-4]: [SR 211.435.11](https://fedlex.data.admin.ch/eli/cc/2018/30)
 
 #### Art. 19
 
@@ -275,19 +359,24 @@ Formate für Zustellungen des Grundbuchamtes an die Beteiligten sind:
 
 - a. für Eintragungsbescheinigungen und Anzeigen von grundbuchlichen Verfügungen: PDF/A oder XML; auf Verlangen der Empfängerin oder des Empfängers kann das Dokument in PDF/A mit einer qualifizierten elektronischen Signatur nach Artikel 14 Absatz 2<sup>bis</sup> OR[^19-1] versehen werden; zusätzlich können ihm Angaben im Format XML beigefügt werden;
 - b. für Fristansetzungen und Abweisungsverfügungen: PDF/A mit einer qualifizierten elektronischen Signatur nach Artikel 14 Absatz 2<sup>bis</sup> OR;
-- c. für Grundbuchauszüge: PDF/A oder XML; auf Verlangen der Empfängerin oder des Empfängers kann der Auszug mit einer qualifizierten elektronischen Signatur nach Artikel 14 Absatz 2<sup>bis</sup> OR versehen werden; zusätzlich können ihm Angaben im Format XML beigefügt werden.
+- c.[^19-2] für elektronische amtliche Auszüge: die Formate nach der EÖBV-EJPD[^19-3];
+- d.[^19-4] für nichtbeglaubigte Kopien und Auszüge: PDF oder XML; zusätzlich können dem Grundbuchauszug Angaben im Format XML beigefügt werden.
 
 [^19-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^19-2]: Fassung gemäss Ziff. I der V des EJPD und des VBS vom 10. Dez. 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
+[^19-3]: [SR 211.435.11](https://fedlex.data.admin.ch/eli/cc/2018/30)
+[^19-4]: Eingefügt durch Ziff. I der V des EJPD und des VBS vom 10. Dez. 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
 
 #### Art. 20
 
 **Zulässige Datenformate**
 
-<sup>1</sup> Die zulässigen Versionen des Datenformats PDF/A richten sich nach dem Anhang der Verordnung des EJPD vom 2. Dezember 2011[^20-1] über die anerkannten Formate im Bereich der elektronischen öffentlichen Beurkundung.
+<sup>1</sup> Die zulässigen Versionen des Datenformats PDF/A richten sich nach dem Anhang der EÖBV-EJPD[^20-1].[^20-2]
 
 <sup>2</sup> Die Formate PDF und XML können in jeder gängigen Version verwendet werden.
 
-[^20-1]: [[AS 2011 6265](https://fedlex.data.admin.ch/eli/oc/2011/882). [AS 2013 2347](https://fedlex.data.admin.ch/eli/oc/2013/495)Art. 20]. Siehe heute: die V des EJPD vom 8. Dez. 2017 über die Erstellung elektronischer öffentlicher Urkunden und elektronischer Beglaubigungen ([SR 211.435.11](https://fedlex.data.admin.ch/eli/cc/2018/30)).
+[^20-1]: [SR 211.435.11](https://fedlex.data.admin.ch/eli/cc/2018/30)
+[^20-2]: Fassung gemäss Ziff. I der V des EJPD und des VBS vom 10. Dez. 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
 
 ## 11. Abschnitt: Alternative Übermittlungsverfahren
 
@@ -303,7 +392,7 @@ Das EJPD anerkennt eine alternative Plattform für den elektronischen Geschäfts
 - d. imstande ist, nach anerkannten Regeln bezüglich sicherer Übermittlung zu kommunizieren; dabei wird der Stand der Technik, wie er insbesondere in den eCH-Standards[^21-2] zum Ausdruck kommt, berücksichtigt;
 - e über ausreichende Finanzmittel oder -garantien verfügt.
 
-[^21-1]: [[AS 2004 5085](https://fedlex.data.admin.ch/eli/oc/2004/788), [2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)Ziff. II 55. [AS 2016 4651](https://fedlex.data.admin.ch/eli/oc/2016/752)Anhang Ziff. I]. Siehe heute: das BG vom 18. März 2016 ([SR 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)).
+[^21-1]: [[AS 2004 5085](https://fedlex.data.admin.ch/eli/oc/2004/788); [2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)Ziff. II 55. [AS 2016 4651](https://fedlex.data.admin.ch/eli/oc/2016/752)Anhang Ziff. I]. Siehe heute: das BG vom 18. März 2016 ([SR 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)).
 [^21-2]: www.eCH.ch
 
 #### Art. 22
@@ -334,6 +423,24 @@ Dem Gesuch sind beizulegen:
 <sup>6</sup> Die Entscheidgebühr wird nach Zeitaufwand berechnet; der Stundenansatz beträgt 250 Franken. Im Übrigen sind die Bestimmungen der Allgemeinen Gebührenverordnung vom 8. September 2004[^22-1] anwendbar.
 
 [^22-1]: [SR 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+
+## 11*a*. Abschnitt: Technische Anforderungen an die Schnittstelle für Abfragen über den Grundstücksuchdienst und Bewilligung zur Verwendung der Schnittstelle
+
+[^sec11a-1]
+
+[^sec11a-1]: Eingefügt durch Ziff. I der V des EJPD und des VBS vom 10. Dez. 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
+
+#### Art. 22a
+
+**Technische Anforderungen**
+
+Die technischen Anforderungen an die Schnittstellen für Abfragen über den Grundstücksuchdienst sind im Anhang 7 aufgeführt.
+
+#### Art. 22b
+
+**Gesuch um Bewilligung zur Verwendung der Schnittstelle**
+
+Das Gesuch um Bewilligung zur Verwendung der Schnittstelle für Abfragen über den Grundstücksuchdienst muss den Nachweis enthalten, dass die technischen Anforderungen nach Artikel 22*a* erfüllt sind.
 
 ## 12. Abschnitt: Langzeitsicherung
 
@@ -382,40 +489,109 @@ Die Kantone machen bis zum 1. Januar 2014 in ihren Informatiksystemen verfügbar
 
 <sup>2</sup> Das EJPD kann die Fristen in begründeten Fällen verlängern.
 
+#### Art. 26a
+
+**Übergangsbestimmungen zur Änderung vom 10. Dezember 2021**[^26a-1]
+
+<sup>1</sup> In Abweichung von Artikel 8 Absatz 4 muss das obligatorische Teilmodell des Personenidentifikationsregisters nach Artikel 8 Absatz 3 Buchstabe a Ziffer 3 im Zeitpunkt des Inkrafttretens der Änderung vom 10. Dezember 2021 installiert und verfügbar sein.
+
+<sup>2</sup> In Abweichung von Artikel 10 Absatz 5 müssen die Funktionalitäten der GBDBS nach Artikel 10 Absatz 1 Buchstaben e und f im Zeitpunkt des Inkrafttretens der Änderung vom 10. Dezember 2021 installiert und verfügbar sein.
+
+[^26a-1]: Eingefügt durch Ziff. I der V des EJPD und des VBS vom 10. Dez. 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
+
 #### Art. 27
 
 **Inkrafttreten**
 
 Diese Verordnung tritt am 1. Februar 2013 in Kraft.
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 1 Bst. a, 2 Abs. 1 Bst. a und 8)
 
 ## Datenmodell für das Grundbuch eGRISDM, in INTERLIS beschrieben
 
-[^t-1]: Dieser Anhang enthält das Datenmodell in der Version eGRISDM11. Der Text des Anhangs wird weder in der AS noch in der SR veröffentlicht. Die Verordnung einschliesslich des Anhangs kann via Internet unter www.bj.admin.ch &gt; Themen &gt; Wirtschaft &gt; Grundbuch & Schiffsregister konsultiert werden.
+[^annex1-lvlu1-1]
 
-Anhang 2*[^t-2]*
+[^t-1]: Bereinigt gemäss Ziff. II Abs. 2 der V des EJPD und des VBS vom 10. Dez. 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
+[^annex1-lvlu1-1]: Der Text dieses Anhangs wird weder in der AS noch in der SR veröffentlicht. Die Verordnung einschliesslich des Anhangs kann via Internet unter www.bj.admin.ch &gt; Themen &gt; Wirtschaft &gt; Grundbuch & Schiffsregister konsultiert werden.
+
+**Version eGRISDM21**
+
+Anhang 2
 
 (Art. 1 Bst. b, 3 Abs. 1 Bst. a und 9)
 
 ## Datenmodell für den Datenaustausch zwischen der amtlichen Vermessung und dem Grundbuch AVGBSDM, in INTERLIS beschrieben
 
-[^t-2]: Dieser Anhang enthält das Datenmodell in der Version AVGBSDM05. Er wird weder in der AS noch in der SR veröffentlicht. Die Verordnung einschliesslich des Anhangs kann via Internet unter www.bj.admin.ch &gt; Themen &gt; Wirtschaft &gt; Grundbuch & Schiffsregister konsultiert werden.
+[^annex2-lvlu1-1]
 
-Anhang 3*[^t-3]*
+[^annex2-lvlu1-1]: Der Text dieses Anhangs wird weder in der AS noch in der SR veröffentlicht. Die Verordnung einschliesslich des Anhangs kann via Internet unter www.bj.admin.ch &gt; Themen &gt; Wirtschaft &gt; Grundbuch & Schiffsregister konsultiert werden.
 
-(Art. 1 Bst. c, 2 Abs. 1 Bst. c und 10)
+**AVGBSDM05**
+
+Anhang 3[^t-2]
+
+(Art. 1 Bst. c, 2 Abs. 1 Bst. c und h, 10)
 
 ## Schnittstelle für den Bezug und den Austausch von Grundbuchdaten GBDBS, in XML beschrieben
 
-[^t-3]: Dieser Anhang enthält die Schnittstelle in der Version 2.0.5. Er wird weder in der AS noch in der SR veröffentlicht. Die Verordnung einschliesslich des Anhangs kann via Internet unter www.bj.admin.ch &gt; Themen &gt; Wirtschaft &gt; Grundbuch & Schiffsregister konsultiert werden.
+[^annex3-lvlu1-1]
 
-Anhang 4*[^t-4]*
+[^t-2]: Bereinigt gemäss Ziff. II Abs. 2 der V des EJPD und des VBS vom 10. Dez. 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
+[^annex3-lvlu1-1]: Der Text dieses Anhangs wird weder in der AS noch in der SR veröffentlicht. Die Verordnung einschliesslich des Anhangs kann via Internet unter www.bj.admin.ch &gt; Themen &gt; Wirtschaft &gt; Grundbuch & Schiffsregister konsultiert werden.
+
+**GBDBS 2.1**
+
+Anhang 4
 
 (Art. 1 Bst. g und 2 Abs. 1 Bst. d)
 
 ## Kriterienkatalog für die Anerkennung von alternativen Plattformen
 
-[^t-4]: Der Text des Anhangs wird weder in der AS noch in der SR veröffentlicht. Die Verordnung einschliesslich des Anhangs kann via Internet unter www.bj.admin.ch &gt; Themen &gt; Wirtschaft &gt; Grundbuch & Schiffsregister konsultiert werden.
+[^annex4-lvlu1-1]
+
+[^annex4-lvlu1-1]: Der Text des Anhangs wird weder in der AS noch in der SR veröffentlicht. Die Verordnung einschliesslich des Anhangs kann via Internet unter www.bj.admin.ch &gt; Themen &gt; Wirtschaft &gt; Grundbuch & Schiffsregister konsultiert werden.
+
+Anhang 5[^t-3]
+
+(Art. 1 Bst. i, 2 Abs. 1 Bst. e, 6 Abs. 4, 8*a* Abs. 1)
+
+## UPI-Schnittstellen (Unique Person Identification)
+
+[^t-3]: Eingefügt durch Ziff. II Abs. 1 der V des EJPD und des VBS vom 10. Dez. 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
+
+<table>
+<tr><td>Bezeichnung des Schnittstelle</td><td>Zugrunde liegende technische Norm[^annex5-lvlu1-1]</td></tr>
+<tr><td>«UPI Query Interface»</td><td>eCH-0085</td></tr>
+<tr><td>«UPI Compare Interface»</td><td>eCH-0086</td></tr>
+<tr><td>«Mutationsmeldungen UPI an Dritte»</td><td>eCH-0212</td></tr>
+</table>
+
+[^annex5-lvlu1-1]: Die Spezifikation kann eingesehen und bezogen werden bei der Zentralen Ausgleichsstelle ZAS, Av. Edmond-Vaucher 18, Postfach 3000, 1211 Genf 2, www.zas.admin.ch &gt; Partner und Institutionen &gt; Unique Person Identification (UPI) &gt; Schnittstelle UPIServices, und beim Verein eCH, Mainaustrasse 30, 8008 Zürich, www.ech.ch.
+
+Anhang 6[^t-4]
+
+(Art. 1 Bst. m, 2 Abs. 1 Bst. i, 10*a*, 10*b*)
+
+## Schnittstelle, über die der Grundstücksuchdienst die Inhalte des Suchindexes von den kantonalen Systemen erhält
+
+[^annex6-lvlu1-1]
+
+[^t-4]: Eingefügt durch Ziff. II Abs. 1 der V des EJPD und des VBS vom 10. Dez. 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
+[^annex6-lvlu1-1]: Der Text dieses Anhangs wird weder in der AS noch in der SR veröffentlicht. Die Verordnung einschliesslich des Anhangs kann via Internet unter www.bj.admin.ch &gt; Themen &gt; Wirtschaft &gt; Grundbuch & Schiffsregister konsultiert werden.
+
+**Version 1.2**
+
+Anhang 7[^t-5]
+
+(Art. 1 Bst. n, 2 Abs. 1 Bst. j, 22*a*, 22*b*)
+
+## Schnittstelle für Abfragen über den Grundstücksuchdienst
+
+[^annex7-lvlu1-1]
+
+[^t-5]: Eingefügt durch Ziff. II Abs. 1 der V des EJPD und des VBS vom 10. Dez. 2021, in Kraft seit 1. Jan. 2023 ([AS 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
+[^annex7-lvlu1-1]: Der Text dieses Anhangs wird weder in der AS noch in der SR veröffentlicht. Die Verordnung einschliesslich des Anhangs kann via Internet unter www.bj.admin.ch &gt; Themen &gt; Wirtschaft &gt; Grundbuch & Schiffsregister konsultiert werden.
+
+**Version 1.0.0**

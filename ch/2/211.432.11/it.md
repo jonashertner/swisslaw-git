@@ -4,11 +4,11 @@ title: Ordinanza tecnica del DFGP e del DDPS del 28 dicembre 2012 sul registro f
 short: OTRF
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/3"
 language: it
-version: 2013-02-01
+version: 2023-01-01
 adopted: 2012-12-28
 in_force: 2013-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/3/20130201/it/xml/fedlex-data-admin-ch-eli-cc-2013-3-20130201-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/3/20130201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/3/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2013-3-20230101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/3/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,17 +17,18 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/3/20130201/it"
 
 (OTRF)
 
-del 28 dicembre 2012 (Stato 1° febbraio 2013)
+del 28 dicembre 2012 (Stato 1° gennaio 2023)
 
 Il Dipartimento federale di giustizia e polizia (DFGP) e il Dipartimento federale della difesa, della protezione della popolazione e dello sport (DDPS),
 
-visto l’articolo 949*a* capoverso 3 del Codice civile[^ingress-1] (CC); visti gli articoli 19 capoverso 4, 40 capoverso 2 e 41 capoverso 1 dell’ordinanza del 23 settembre 2011[^ingress-2] sul registro fondiario (ORF); visto l’articolo 6*a* capoverso 2 dell’ordinanza del 18 novembre 1992[^ingress-3] concernente la misurazione ufficiale (OMU),
+visti gli articoli 949*a* capoverso 3 e 949*c* del Codice civile[^ingress-1]; visti gli articoli 19 capoverso 4, 23*e*, 34*b* capoverso 7, 34*c* capoverso 5, 40 capoverso 2 e 41 capoverso 1 dell’ordinanza del 23 settembre 2011[^ingress-2] sul registro fondiario (ORF); visto l’articolo 6*a* capoverso 2 dell’ordinanza del 18 novembre 1992[^ingress-3] concernente la misurazione ufficiale (OMU)*,*[^ingress-4]
 
 ordinano:
 
 [^ingress-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 [^ingress-2]: [RS 211.432.1](https://fedlex.data.admin.ch/eli/cc/2011/667)
 [^ingress-3]: [RS 211.432.2](https://fedlex.data.admin.ch/eli/cc/1992/2446_2446_2446)
+[^ingress-4]: Nuovo testo giusta il n. I dell’O del DFGP e del DDPS del 10 dic. 2021, in vigore dal 1° gen. 2023 ([RU 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
 
 ## Sezione 1: Oggetto
 
@@ -42,7 +43,20 @@ La presente ordinanza disciplina:
 - e. l’identificazione federale dei fondi (E-GRID);
 - f. i formati di dati dei documenti per la comunicazione elettronica con gli uffici del registro fondiario;
 - g. le procedure di trasmissione alternative per la comunicazione elettronica (allegato 4);
-- h. la salvaguardia a lungo termine.
+- h. la salvaguardia a lungo termine;
+- i.[^1-1] le interfacce con l’Ufficio centrale di compensazione (UCC) (allegato 5);
+- j.[^1-2] la procedura di ripresa e aggiornamento dei dati nel registro degli identificatori di persone;
+- k.[^1-3] la protocollazione della ripresa e dell’aggiornamento dei dati nel registro degli identificatori di persone;
+- l.[^1-4] l’interfaccia per l’accesso da parte del servizio di ricerca di fondi ai dati giuridicamente efficaci iscritti nel libro mastro e ai dati del registro degli identificatori di persone;
+- m.[^1-5] l’interfaccia mediante la quale il servizio di ricerca di fondi riceve dai sistemi cantonali i contenuti dell’indice di ricerca (allegato 6);
+- n.[^1-6] l’interfaccia per l’interrogazione mediante il servizio di ricerca di fondi (allegato 7).
+
+[^1-1]: Introdotta dal n. I dell’O del DFGP e del DDPS del 10 dic. 2021, in vigore dal 1° gen. 2023 ([RU 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
+[^1-2]: Introdotta dal n. I dell’O del DFGP e del DDPS del 10 dic. 2021, in vigore dal 1° gen. 2023 ([RU 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
+[^1-3]: Introdotta dal n. I dell’O del DFGP e del DDPS del 10 dic. 2021, in vigore dal 1° gen. 2023 ([RU 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
+[^1-4]: Introdotta dal n. I dell’O del DFGP e del DDPS del 10 dic. 2021, in vigore dal 1° gen. 2023 ([RU 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
+[^1-5]: Introdotta dal n. I dell’O del DFGP e del DDPS del 10 dic. 2021, in vigore dal 1° gen. 2023 ([RU 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
+[^1-6]: Introdotta dal n. I dell’O del DFGP e del DDPS del 10 dic. 2021, in vigore dal 1° gen. 2023 ([RU 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
 
 ## Sezione 2: Competenze
 
@@ -57,9 +71,22 @@ Il DFGP definisce per il registro fondiario:
 - a. l’eGRISMD e i requisiti che devono soddisfare i dati ivi tenuti e l’inizio della validità delle nuove versioni;
 - b. il linguaggio di descrizione dei dati;
 - c. l’IEDRF e l’inizio della validità delle nuove versioni nonché la scadenza della validità delle versioni precedenti;
-- d. il catalogo di criteri per il riconoscimento di piattaforme alternative per la comunicazione elettronica con l’ufficio del registro fondiario.
+- d. il catalogo di criteri per il riconoscimento di piattaforme alternative per la comunicazione elettronica con l’ufficio del registro fondiario;
+- e.[^2-1] le interfacce UPI (Unique Person Identification) con l’UCC (allegato 5);
+- f.[^2-2] la procedura di ripresa e aggiornamento dei dati nel registro degli identificatori di persone;
+- g.[^2-3] la protocollazione della ripresa e dell’aggiornamento dei dati nel registro degli identificatori di persone;
+- h.[^2-4] l’interfaccia per l’accesso da parte del servizio di ricerca di fondi ai dati giuridicamente efficaci iscritti nel libro mastro e ai dati del registro degli identificatori di persone;
+- i.[^2-5] l’interfaccia mediante la quale il servizio di ricerca di fondi riceve dai sistemi cantonali i contenuti dell’indice di ricerca (allegato 6);
+- j.[^2-6] l’interfaccia per l’interrogazione mediante il servizio di ricerca di fondi (allegato 7).
 
 <sup>2</sup> Riconosce piattaforme alternative per la comunicazione elettronica con l’ufficio del registro fondiario.
+
+[^2-1]: Introdotta dal n. I dell’O del DFGP e del DDPS del 10 dic. 2021, in vigore dal 1° gen. 2023 ([RU 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
+[^2-2]: Introdotta dal n. I dell’O del DFGP e del DDPS del 10 dic. 2021, in vigore dal 1° gen. 2023 ([RU 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
+[^2-3]: Introdotta dal n. I dell’O del DFGP e del DDPS del 10 dic. 2021, in vigore dal 1° gen. 2023 ([RU 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
+[^2-4]: Introdotta dal n. I dell’O del DFGP e del DDPS del 10 dic. 2021, in vigore dal 1° gen. 2023 ([RU 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
+[^2-5]: Introdotta dal n. I dell’O del DFGP e del DDPS del 10 dic. 2021, in vigore dal 1° gen. 2023 ([RU 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
+[^2-6]: Introdotta dal n. I dell’O del DFGP e del DDPS del 10 dic. 2021, in vigore dal 1° gen. 2023 ([RU 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
 
 #### Art. 3
 
@@ -101,6 +128,13 @@ Per lo scambio di dati tra la misurazione ufficiale e il registro fondiario, il 
 
 <sup>3</sup> Garantiscono lo scambio di dati tra il registro fondiario e la misurazione ufficiale nella misura prevista dal MDMURF.
 
+<sup>4</sup> Realizzano le interfacce UPI indicate nell’allegato 5 nella misura in cui gli uffici del registro fondiario non ottengano i dati per l’attribuzione del numero AVS da una fonte di dati di cui all’articolo 23*b* lettera b ORF.[^6-1]
+
+<sup>5</sup> Garantiscono l’accesso mediante l’IEDRF da parte del servizio di ricerca di fondi ai dati giuridicamente efficaci iscritti nel libro mastro e ai dati del registro degli identificatori di persone.[^6-2]
+
+[^6-1]: Introdotto dal n. I dell’O del DFGP e del DDPS del 10 dic. 2021, in vigore dal 1° gen. 2023 ([RU 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
+[^6-2]: Introdotto dal n. I dell’O del DFGP e del DDPS del 10 dic. 2021, in vigore dal 1° gen. 2023 ([RU 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
+
 ## Sezione 3: Linguaggio di descrizione dei dati
 
 #### Art. 7
@@ -128,7 +162,8 @@ L’eGRISMD comprende i modelli parziali seguenti:
   modelli parziali obbligatori:
 
   - 1\. libro mastro con le pertinenti tabelle dei codici,
-  - 2\. libro giornale con le pertinenti tabelle dei codici;
+  - 2\. libro giornale con le pertinenti tabelle dei codici,
+  - 3\.[^8-1] registro degli identificatori di persone con le pertinenti tabelle dei codici;
 
 - b.
 
@@ -138,6 +173,30 @@ L’eGRISMD comprende i modelli parziali seguenti:
   - 2\. note.
 
 <sup>4</sup> Le parti obbligatorie dell’eGRISMD devono essere installate e messe a disposizione nella loro versione in vigore in tutti i sistemi del registro fondiario entro 24 mesi dall’entrata in vigore.
+
+[^8-1]: Introdotto dal n. I dell’O del DFGP e del DDPS del 10 dic. 2021, in vigore dal 1° gen. 2023 ([RU 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
+
+## Sezione 4*a*: Procedura di ripresa e aggiornamento dei dati; protocollazione
+
+[^sec4a-1]
+
+[^sec4a-1]: Introdotta dal n. I dell’O del DFGP e del DDPS del 10 dic. 2021, in vigore dal 1° gen. 2023 ([RU 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
+
+#### Art. 8a
+
+**Procedura di ripresa e aggiornamento dei dati**
+
+<sup>1</sup> Il sistema cantonale può riprendere direttamente mediante l’interfaccia UPI «Annuncio di mutazioni UPI a terzi» (allegato 5) o indirettamente da una fonte di dati di cui all’articolo 23*b* lettera b ORF gli aggiornamenti comunicati dall’UCC.
+
+<sup>2</sup> Eccettuato l’annullamento del numero AVS, il sistema cantonale riprende automaticamente gli aggiornamenti nel registro degli identificatori di persone.
+
+<sup>3</sup> In caso di annullamento del numero AVS, l’ufficio del registro fondiario procede in qualsiasi caso conformemente all’articolo 23*d* capoverso 3 ORF.
+
+#### Art. 8b
+
+**Protocollazione della ripresa e dell’aggiornamento dei dati**
+
+Il sistema cantonale protocolla automaticamente la ripresa e l’aggiornamento dei dati del registro degli identificatori di persone.
 
 ## Sezione 5: Il modello di dati per lo scambio di dati tra la misurazione ufficiale e il registro fondiario
 
@@ -173,7 +232,9 @@ L’IEDRF consente:
 - a. il trasferimento dei dati giuridicamente efficaci e di quelli cancellati del libro mastro, del libro giornale e dei documenti giustificativi in una forma strutturata ed elettronicamente leggibile;
 - b. l’allestimento dell’indice svizzero dei fondi secondo l’articolo 27 capoverso 3 ORF;
 - c. l’esportazione dei dati giuridicamente efficaci e di quelli cancellati del libro mastro per la salvaguardia a lungo termine da parte della Confederazione;
-- d. la comunicazione elettronica con gli uffici del registro fondiario.
+- d. la comunicazione elettronica con gli uffici del registro fondiario;
+- e.[^10-1] la consultazione, da parte del servizio di ricerca di fondi, dei dati giuridicamente efficaci iscritti nel libro mastro e dei dati del registro degli identificatori di persone;
+- f.[^10-2] la trasmissione dei dati d’identificazione dell’autorità che effettua un’interrogazione mediante il servizio di ricerca di fondi.
 
 <sup>2</sup> Per quanto concerne il contenuto e il livello di dettaglio, la struttura dei dati è retta dal modello di dati eGRISMD.
 
@@ -182,6 +243,27 @@ L’IEDRF consente:
 <sup>4</sup> I produttori del sistema ricevono le proposte di modifica, ne stilano un elenco epurato e lo sottopongono per adozione al gruppo di accompagnamento. Dopo attuazione delle proposte adottate, verifica pratica della nuova versione ed esame da parte del gruppo di accompagnamento, la nuova versione è sottoposta al DFGP per approvazione.
 
 <sup>5</sup> L’IEDRF deve essere installata e messa a disposizione nella sua versione in vigore in tutti i sistemi del registro fondiario entro 24 mesi dall’entrata in vigore.
+
+[^10-1]: Introdotta dal n. I dell’O del DFGP e del DDPS del 10 dic. 2021, in vigore dal 1° gen. 2023 ([RU 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
+[^10-2]: Introdotta dal n. I dell’O del DFGP e del DDPS del 10 dic. 2021, in vigore dal 1° gen. 2023 ([RU 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
+
+## Sezione 6*a*: L’interfaccia con l’indice di ricerca del servizio di ricerca di fondi
+
+[^sec6a-1]
+
+[^sec6a-1]: Introdotta dal n. I dell’O del DFGP e del DDPS del 10 dic. 2021, in vigore dal 1° gen. 2023 ([RU 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
+
+#### Art. 10a
+
+**Interfaccia con l’indice di ricerca**
+
+L’interfaccia con l’indice di ricerca del servizio di ricerca di fondi è indicata nell’allegato 6.
+
+#### Art. 10b
+
+**Trasmissione dei dati**
+
+Il sistema cantonale trasmette mediante l’interfaccia all’indice di ricerca del servizio di ricerca di fondi i dati di cui all’articolo 34*b* capoversi 5 e 6 ORF.
 
 ## Sezione 7: L’interfaccia per lo scambio di dati tra la misurazione ufficiale e il registro fondiario
 
@@ -259,13 +341,15 @@ I sistemi informatici impiegati per la tenuta del registro fondiario e per la mi
 
 I formati di dati ammessi per le richieste destinate all’ufficio del registro fondiario sono:
 
-- a. per le notificazioni dell’iscrizione nel registro fondiario che non sono già contenute nell’attestazione del titolo giuridico: PDF provvisto di firma elettronica qualificata ai sensi dell’articolo 14 capoverso 2<sup>bis</sup> del Codice delle obbligazioni[^18-1] (CO); i dati contenuti nella notificazione possono inoltre essere allegati in formato XML;
-- b. per le attestazioni del titolo giuridico documentate da un atto pubblico: i formati secondo l’ordinanza del DFGP del 2 dicembre 2011[^18-2] sui formati elettronici riconosciuti nell’ambito degli atti pubblici in forma elettronica;
+- a.[^18-1] per le notificazioni dell’iscrizione nel registro fondiario che non sono già contenute nell’attestazione del titolo giuridico: PDF/A provvisto di firma elettronica qualificata ai sensi dell’articolo 14 capoverso 2<sup>bis</sup> del Codice delle obbligazioni (CO)[^18-2]; i dati contenuti nella notificazione possono inoltre essere allegati in formato XML;
+- b.[^18-3] per le attestazioni del titolo giuridico documentate da un atto pubblico: i formati secondo l’ordinanza del DFGP dell’8 dicembre 2017[^18-4] sulla realizzazione di atti pubblici e autenticazioni in forma elettronica (OAPuE‑DFGP);
 - c. per le attestazioni del titolo giuridico in forma scritta, allegati inclusi: PDF/A provvisto di firma elettronica qualificata ai sensi dell’articolo 14 capoverso 2<sup>bis</sup> CO;
 - d. per le domande di rilascio di un estratto del registro fondiario o di un’attestazione dell’iscrizione: PDF provvisto di firma elettronica qualificata ai sensi dell’articolo 14 capoverso 2<sup>bis</sup> CO; sono fatte salve le domande di partecipanti autentificati nell’ambito di procedure alternative di trasmissione e di sistemi cantonali d’informazione del registro fondiario.
 
-[^18-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^18-2]: [[RU 2011 6265](https://fedlex.data.admin.ch/eli/oc/2011/882). [RU 2013 2347](https://fedlex.data.admin.ch/eli/oc/2013/495)art. 20 n. 1]. Vedi ora l’O del DFGP dell’8 dic. 2017 sulla realizzazione di atti pubblici e autenticazioni in forma elettronica ([RS 211.435.11](https://fedlex.data.admin.ch/eli/cc/2018/30)). RU 2018 107
+[^18-1]: Nuovo testo giusta il n. I dell’O del DFGP e del DDPS del 10 dic. 2021, in vigore dal 1° gen. 2023 ([RU 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
+[^18-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^18-3]: Nuovo testo giusta il n. I dell’O del DFGP e del DDPS del 10 dic. 2021, in vigore dal 1° gen. 2023 ([RU 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
+[^18-4]: [RS 211.435.11](https://fedlex.data.admin.ch/eli/cc/2018/30)
 
 #### Art. 19
 
@@ -275,19 +359,24 @@ I formati per le notifiche dell’ufficio del registro fondiario alle parti sono
 
 - a. per le attestazioni dell’iscrizione e gli avvisi delle operazioni effettuate nel registro fondiario: PDF/A o XML; su richiesta del destinatario il documento in formato PDF/A può essere provvisto di firma elettronica qualificata ai sensi dell’articolo 14 capoverso 2<sup>bis</sup> CO[^19-1]; al documento possono inoltre essere allegati dati in formato XML;
 - b. per fissare i termini e per le decisioni di rifiuto: PDF/A provvisto di firma elettronica qualificata ai sensi dell’articolo 14 capoverso 2<sup>bis</sup> CO;
-- c. per gli estratti del registro fondiario: PDF/A o XML; su richiesta del destinatario l’estratto può essere provvisto di firma elettronica qualificata ai sensi dell’articolo 14 capoverso 2<sup>bis</sup> CO; all’estratto possono inoltre essere allegati dati in formato XML.
+- c.[^19-2] per gli estratti pubblici in forma elettronica: i formati secondo l’OAPuE‑DFGP[^19-3];
+- d.[^19-4] per le copie e gli estratti non autenticati: PDF o XML; all’estratto del registro fondiario possono inoltre essere allegati dati in formato XML.
 
 [^19-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^19-2]: Nuovo testo giusta il n. I dell’O del DFGP e del DDPS del 10 dic. 2021, in vigore dal 1° gen. 2023 ([RU 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
+[^19-3]: [RS 211.435.11](https://fedlex.data.admin.ch/eli/cc/2018/30)
+[^19-4]: Introdotta dal n. I dell’O del DFGP e del DDPS del 10 dic. 2021, in vigore dal 1° gen. 2023 ([RU 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
 
 #### Art. 20
 
 **Formati ammessi di dati**
 
-<sup>1</sup> Le versioni ammesse del formato di dati PDF/A sono rette dall’allegato dell’ordinanza del DFGP del 2 dicembre 2011[^20-1] sui formati elettronici riconosciuti nell’ambito degli atti pubblici in forma elettronica.
+<sup>1</sup> Le versioni ammesse del formato di dati PDF/A sono rette dall’allegato dell’OAPuE‑DFGP [^20-1].[^20-2]
 
 <sup>2</sup> I formati PDF e XML possono essere utilizzati in tutte le versioni in uso.
 
-[^20-1]: [[RU 2011 6265](https://fedlex.data.admin.ch/eli/oc/2011/882). [RU 2013 2347](https://fedlex.data.admin.ch/eli/oc/2013/495)art. 20 n. 1]. Vedi ora l’O del DFGP dell’8 dic. 2017 sulla realizzazione di atti pubblici e autenticazioni in forma elettronica ([RS 211.435.11](https://fedlex.data.admin.ch/eli/cc/2018/30)).
+[^20-1]: [RS 211.435.11](https://fedlex.data.admin.ch/eli/cc/2018/30)
+[^20-2]: Nuovo testo giusta il n. I dell’O del DFGP e del DDPS del 10 dic. 2021, in vigore dal 1° gen. 2023 ([RU 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
 
 ## Sezione 11: Procedure di trasmissione alternative
 
@@ -334,6 +423,24 @@ Alla domanda vanno allegati:
 <sup>6</sup> L’emolumento per la decisione è calcolato in base al dispendio di tempo; la tariffa oraria ammonta a 250 franchi. Per il rimanente, si applicano le disposizioni dell’ordinanza generale dell’8 settembre 2004[^22-1] sugli emolumenti.
 
 [^22-1]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+
+## Sezione 11*a*: Requisiti tecnici dell’interfaccia per le interrogazioni mediante il servizio di ricerca di fondi e autorizzazione all’uso dell’interfaccia
+
+[^sec11a-1]
+
+[^sec11a-1]: Introdotta dal n. I dell’O del DFGP e del DDPS del 10 dic. 2021, in vigore dal 1° gen. 2023 ([RU 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
+
+#### Art. 22a
+
+**Requisiti tecnici**
+
+I requisiti tecnici dell’interfaccia per le interrogazioni mediante il servizio di ricerca di fondi figurano nell’allegato 7.
+
+#### Art. 22b
+
+**Domanda di autorizzazione dell’uso dell’interfaccia**
+
+La domanda di autorizzazione dell’uso dell’interfaccia per le interrogazioni mediante il servizio di ricerca di fondi deve contenere la prova che i requisiti tecnici di cui all’articolo 22*a* sono soddisfatti.
 
 ## Sezione 12: Salvaguardia a lungo termine
 
@@ -382,40 +489,109 @@ I Cantoni devono rendere disponibili nei loro sistemi informatici entro il 1° g
 
 <sup>2</sup> In casi motivati, il DFGP può prorogare i termini.
 
+#### Art. 26a
+
+**Disposizioni transitorie della modifica del 10 dicembre 2021**[^26a-1]
+
+<sup>1</sup> In deroga all’articolo 8 capoverso 4, il modello parziale obbligatorio del registro degli identificatori di persone di cui all’articolo 8 capoverso 3 lettera a numero 3 deve essere stato installato ed essere disponibile al momento dell’entrata in vigore della modifica del 10 dicembre 2021.
+
+<sup>2</sup> In deroga all’articolo 10 capoverso 5, le funzionalità dell’IEDRF di cui all’articolo 10 capoverso 1 lettere e ed f devono essere state installate ed essere disponibili al momento dell’entrata in vigore della modifica del 10 dicembre 2021.
+
+[^26a-1]: Introdotto dal n. I dell’O del DFGP e del DDPS del 10 dic. 2021, in vigore dal 1° gen. 2023 ([RU 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
+
 #### Art. 27
 
 **Entrata in vigore**
 
 La presente ordinanza entra in vigore il 1° febbraio 2013.
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
-(art. 1 lett. a, 2 cpv. 1 lett. a e art. 8)
+(art. 1 lett. a, 2 cpv. 1 lett. a e 8)
 
 ## Descrizione in INTERLIS del modello di dati per il registro fondiario eGRISMD
 
-[^t-1]: Il presente all. contiene il modello di dati nella versione eGRISMD11. Il testo dell’all. non è pubblicato né nella RU né nella RS. L’O con l’all. può essere consultata in Internet sul sito www.bj.admin.ch &gt; temi &gt; economia &gt; registro fondiario & registro del naviglio.
+[^annex1-lvlu1-1]
 
-Allegato 2*[^t-2]*
+[^t-1]: Aggiornato dal n. II cpv. 2 dell’O del DFGP e del DDPS del 10 dic. 2021, in vigore dal 1° gen. 2023 ([RU 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
+[^annex1-lvlu1-1]: Il testo del presente all. non è pubblicato né nella RU né nella RS. L’O con l’all. può essere consultata in Internet sul sito www.bj.admin.ch &gt; temi &gt; economia &gt; registro fondiario & registro del naviglio.
+
+**Versione eGRISDM21**
+
+Allegato 2
 
 (art. 1 lett. b, 3 cpv. 1 lett. a e art. 9)
 
 ## Descrizione in INTERLIS del modello di dati per lo scambio di dati tra la misurazione ufficiale e il registro fondiario MDMURF
 
-[^t-2]: Il presente all. contiene il modello di dati nella versione MDMURF05. Il testo dell’all. non è pubblicato né nella RU né nella RS. L’ordinanza con l’all. può essere consultata in Internet sul sito www.bj.admin.ch &gt; temi &gt; economia &gt; registro fondiario & registro del naviglio.
+[^annex2-lvlu1-1]
 
-Allegato 3*[^t-3]*
+[^annex2-lvlu1-1]: Il testo del presente all. non è pubblicato né nella RU né nella RS. L’O con l’all. può essere consultata in Internet sul sito www.bj.admin.ch &gt; temi &gt; economia &gt; registro fondiario & registro del naviglio.
 
-(art. 1 lett. c, 2 cpv. 1 lett. c e art. 10)
+**Versione MDMURF05**
+
+Allegato 3[^t-2]
+
+(art. 1 lett. c, 2 cpv. 1 lett. c e h, 10)
 
 ## Descrizione in XML dell’interfaccia per l’estrazione e lo scambio di dati del registro fondiario IEDRF
 
-[^t-3]: Il presente all. contiene la versione 2.0.5 dell’interfaccia. Il testo dell’all. non è pubblicato né nella RU né nella RS. L’O con l’all. può essere consultata in Internet sul sito www.bj.admin.ch &gt; temi &gt; economia &gt; registro fondiario & registro del naviglio.
+[^annex3-lvlu1-1]
 
-Allegato 4*[^t-4]*
+[^t-2]: Aggiornato dal n. II cpv. 2 dell’O del DFGP e del DDPS del 10 dic. 2021, in vigore dal 1° gen. 2023 ([RU 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
+[^annex3-lvlu1-1]: Il testo del presente all. non è pubblicato né nella RU né nella RS. L’O con l’all. può essere consultata in Internet sul sito www.bj.admin.ch &gt; temi &gt; economia &gt; registro fondiario & registro del naviglio.
+
+**Versione IEDRF 2.1**
+
+Allegato 4
 
 (art. 1 lett. g e 2 cpv. 1 lett. d)
 
 ## Catalogo di criteri per il riconoscimento di piattaforme alternative
 
-[^t-4]: Il testo dell’all. non è pubblicato né nella RU né nella RS. L’O con l’all. può essere consultata in Internet sul sito www.bj.admin.ch &gt; temi &gt; economia &gt; registro fondiario & registro del naviglio.
+[^annex4-lvlu1-1]
+
+[^annex4-lvlu1-1]: Il testo del presente all. non è pubblicato né nella RU né nella RS. L’O con l’all. può essere consultata in Internet sul sito www.bj.admin.ch &gt; temi &gt; economia &gt; registro fondiario & registro del naviglio.
+
+Allegato 5[^t-3]
+
+(art. 1 lett. i, 2 cpv. 1 lett. e, 6 cpv. 4, 8*a* cpv. 1)
+
+## Interfacce UPI (Unique Person Identification)
+
+[^t-3]: Introdotto dal n. II cpv. 1 dell’O del DFGP e del DDPS del 10 dic. 2021, in vigore dal 1° gen. 2023 ([RU 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
+
+<table>
+<tr><td>Designazione dell’interfaccia</td><td>Norme tecniche soggiacenti[^annex5-lvlu1-1]</td></tr>
+<tr><td>«UPI Query Interface»</td><td>eCH-0085</td></tr>
+<tr><td>«UPI Compare Interface»</td><td>eCH-0086</td></tr>
+<tr><td>«Annuncio di mutazioni UPI a terzi»</td><td>eCH-0212</td></tr>
+</table>
+
+[^annex5-lvlu1-1]: La specificazione può essere consultata e ottenuta presso l’Ufficio centrale di compensazione (UCC), Av. Edmond-Vaucher 18, casella postale 3000, 1211 Ginevra 2, www.zas.admin.ch &gt; Partner e Istituzioni &gt; Unique Person Identification (UPI) &gt; Interfaccia UPIServices e presso l’associazione eCH, Mainaustrasse 30, 8008 Zurigo, www.ech.ch.
+
+Allegato 6[^t-4]
+
+(art. 1 lett. m, 2 cpv. 1 lett. i, 10*a*, 10*b*)
+
+## Interfaccia mediante la quale il servizio di ricerca di fondi riceve dai sistemi cantonali i contenuti dell’indice di ricerca
+
+[^annex6-lvlu1-1]
+
+[^t-4]: Introdotto dal n. II cpv. 1 dell’O del DFGP e del DDPS del 10 dic. 2021, in vigore dal 1° gen. 2023 ([RU 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
+[^annex6-lvlu1-1]: Il testo del presente all. non è pubblicato né nella RU né nella RS. L’O con l’all. può essere consultata in Internet sul sito www.bj.admin.ch &gt; temi &gt; economia &gt; registro fondiario & registro del naviglio.
+
+**Versione 1.2**
+
+Allegato 7[^t-5]
+
+(art. 1 lett. n, 2 cpv. 1 lett. j, 22*a*, 22*b*)
+
+## Interfaccia per le interrogazioni mediante il servizio di ricerca di fondi
+
+[^annex7-lvlu1-1]
+
+[^t-5]: Introdotto dal n. II cpv. 1 dell’O del DFGP e del DDPS del 10 dic. 2021, in vigore dal 1° gen. 2023 ([RU 2021 919](https://fedlex.data.admin.ch/eli/oc/2021/919)).
+[^annex7-lvlu1-1]: Il testo del presente all. non è pubblicato né nella RU né nella RS. L’O con l’all. può essere consultata in Internet sul sito www.bj.admin.ch &gt; temi &gt; economia &gt; registro fondiario & registro del naviglio.
+
+**Versione 1.0.0**
