@@ -3,11 +3,11 @@ sr: "514.10"
 title: Verordnung vom 21. November 2018 über die persönliche Ausrüstung der Armeeangehörigen (VPAA)
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/732"
 language: de
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2018-11-21
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/732/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2018-732-20220101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/732/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/732/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2018-732-20230101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/732/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/732/20220101/de"
 
 (VPAA)
 
-vom 21. November 2018 (Stand am 1. Januar 2022)
+vom 21. November 2018 (Stand am 1. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -390,7 +390,7 @@ Angehörige der Armee erhalten keine Ausrüstungsgegenstände zu Eigentum, wenn 
 - b. nach den Artikeln 48 oder 49 MStG aus der Armee ausgeschlossen worden sind; ist im Zeitpunkt der Entlassung ein Ausschlussverfahren hängig, so entscheidet das Kommando Ausbildung über die Überlassung der Ausrüstungsgegenstände zu Eigentum; oder
 - c. nach Artikel 1 des Zivildienstgesetzes vom 6. Oktober 1995[^28-2] zum Zivildienst zugelassen sind.
 
-<sup>2</sup> Wer nach den Ziffern NM IV (R) oder NM 2460-2550, 2580-2621, 2691, 2700-2733, 2750, 2770, 2800-2902, 2940-2970, 3060-3074, 3910, 3920 und 3930 der *N**o**sologia Militaris* (NM), Dokumentation 59.10, für dienstuntauglich erklärt worden ist, kann nicht Eigentümer oder Eigentümerin einer persönlichen Waffe werden.
+<sup>2</sup> Wer nach den Ziffern NM IV (R) oder NM 2460-2550, 2580-2621, 2691, 2700-2733, 2750, 2770, 2800-2902, 2940-2970, 3060-3074, 3910, 3920 und 3930 der *Nosologia Militaris* (NM), Dokumentation 59.10, für dienstuntauglich erklärt worden ist, kann nicht Eigentümer oder Eigentümerin einer persönlichen Waffe werden.
 
 [^28-1]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
 [^28-2]: [SR 824.0](https://fedlex.data.admin.ch/eli/cc/1996/1445_1445_1445)
@@ -404,16 +404,18 @@ Angehörige der Armee erhalten keine Ausrüstungsgegenstände zu Eigentum, wenn 
 Angehörige der Armee erhalten beim Ausscheiden aus der Armee ein Sturmgewehr zu Eigentum, wenn:
 
 - a. sie Anrecht auf die persönliche Ausrüstung oder auf Teile davon haben (Art. 26 und 28);
-- b. sie in den letzten drei Jahren zweimal das obligatorische Programm 300 m und zweimal das Feldschiessen 300 m absolviert haben und dies im Schiessbüchlein oder im militärischen Leistungsausweis eingetragen ist; und
-- c. sie einen gültigen Waffenerwerbsschein nach Artikel 8 Absatz 1 des Waffengesetzes vom 20. Juni 1997[^29-1] (WG) für das Sturmgewehr vorlegen.
+- b.[^29-1] sie in den letzten drei Kalenderjahren vier Bundesübungen mit der entsprechenden Waffe absolviert haben und diese im Schiessbüchlein oder im militärischen Leistungsausweis eingetragen sind; und
+- c. sie einen gültigen Waffenerwerbsschein nach Artikel 8 Absatz 1 des Waffengesetzes vom 20. Juni 1997[^29-2] (WG) für das Sturmgewehr vorlegen.
 
 <sup>2</sup> Das Sturmgewehr wird den Angehörigen der Armee gegen eine Entschädigung von 100 Franken zu Eigentum überlassen.
 
 <sup>3</sup> Vor der Überlassung wird das Sturmgewehr durch die LBA zu einer halbautomatischen Feuerwaffe mit Einzelfeuer abgeändert.
 
-<sup>4</sup> Welche Waffentypen zu Eigentum überlassen werden können, richtet sich nach den Waffenbeständen der Armee, der Ausbildung der Angehörigen der Armee sowie den Beständen der verschiedenen Waffentypen.
+<sup>4</sup> Im Grundsatz geht die zugeteilte persönliche Waffe ins Eigentum über. In Ausnahmefällen kann aus Bestandesgründen eine Waffe eines anderen Typs abgegeben werden.[^29-3]
 
-[^29-1]: [SR 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^29-1]: Fassung gemäss Ziff. II der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 828](https://fedlex.data.admin.ch/eli/oc/2022/828)).
+[^29-2]: [SR 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^29-3]: Fassung gemäss Ziff. II der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 828](https://fedlex.data.admin.ch/eli/oc/2022/828)).
 
 #### Art. 30
 
@@ -428,9 +430,10 @@ Angehörige der Armee erhalten beim Ausscheiden aus der Armee eine Pistole ohne 
 
 <sup>2</sup> Die Pistole wird den Angehörigen der Armee gegen eine Entschädigung von 30 Franken zu Eigentum überlassen.
 
-<sup>3</sup> Welche Waffentypen zu Eigentum überlassen werden können, richtet sich nach den Waffenbeständen der Armee, der Ausbildung der Angehörigen der Armee sowie den Beständen der verschiedenen Waffentypen.
+<sup>3</sup> Im Grundsatz geht die zugeteilte persönliche Waffe ins Eigentum über. In Ausnahmefällen kann aus Bestandesgründen eine Waffe eines anderen Typs abgegeben werden.[^30-2]
 
 [^30-1]: [SR 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^30-2]: Fassung gemäss Ziff. II der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 828](https://fedlex.data.admin.ch/eli/oc/2022/828)).
 
 #### Art. 31
 

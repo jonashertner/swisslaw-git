@@ -3,11 +3,11 @@ sr: "514.10"
 title: "Ordinanza del 21 novembre 2018 sull'equipaggiamento personale dei militari (OEPM)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/732"
 language: it
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2018-11-21
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/732/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2018-732-20220101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/732/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/732/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2018-732-20230101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/732/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/732/20220101/it"
 
 (OEPM)
 
-del 21 novembre 2018 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
+del 21 novembre 2018 (Stato 1° gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -404,16 +404,18 @@ I militari non ricevono in proprietà alcun oggetto d’equipaggiamento se:
 Quando lasciano l’esercito, i militari ricevono in proprietà il fucile d’assalto se:
 
 - a. hanno diritto all’equipaggiamento personale o a parti di esso (art. 26 e 28);
-- b. negli ultimi tre anni hanno effettuato due volte il programma obbligatorio a 300 m e due volte il tiro in campagna a 300 m e li hanno fatti iscrivere nel libretto di tiro o nel libretto delle prestazioni militari; e
-- c. presentano un permesso d’acquisto di armi valido per il fucile d’assalto giusta l’articolo 8 capoverso 1 della legge del 20 giugno 1997[^29-1] sulle armi (LArm).
+- b.[^29-1] negli ultimi tre anni civili hanno effettuato quattro esercizi federali con la relativa arma e li hanno fatti iscrivere nel libretto di tiro o nel libretto delle prestazioni militari; e
+- c. presentano un permesso d’acquisto di armi valido per il fucile d’assalto giusta l’articolo 8 capoverso 1 della legge del 20 giugno 1997[^29-2] sulle armi (LArm).
 
 <sup>2</sup> Il fucile d’assalto è ceduto in proprietà ai militari contro pagamento di un contributo di 100 franchi.
 
 <sup>3</sup> Prima della cessione, il fucile d’assalto è trasformato dalla BLEs in un’arma da fuoco semiautomatica per il tiro colpo per colpo.
 
-<sup>4</sup> Quali tipi di arma possano essere ceduti in proprietà dipende dalle scorte di armi dell’esercito, dall’istruzione del militare nonché dalle scorte dei diversi tipi di arma.
+<sup>4</sup> In linea di principio l’arma personale ceduta in proprietà è quella che era stata assegnata. In funzione delle scorte di armi e in via eccezionale può essere ceduta in proprietà un’arma di un altro tipo.[^29-3]
 
-[^29-1]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^29-1]: Nuovo testo giusta il n. II dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 828](https://fedlex.data.admin.ch/eli/oc/2022/828)).
+[^29-2]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^29-3]: Nuovo testo giusta il n. II dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 828](https://fedlex.data.admin.ch/eli/oc/2022/828)).
 
 #### Art. 30
 
@@ -428,9 +430,10 @@ Quando lasciano l’esercito, i militari ricevono in proprietà una pistola, sen
 
 <sup>2</sup> La pistola è ceduta in proprietà ai militari contro pagamento di un contributo di 30 franchi.
 
-<sup>3</sup> Quali tipi di arma possano essere ceduti in proprietà dipende dalle scorte di armi dell’esercito, dall’istruzione del militare nonché dalle scorte dei diversi tipi di arma.
+<sup>3</sup> In linea di principio l’arma personale ceduta in proprietà è quella che era stata assegnata. In funzione delle scorte di armi e in via eccezionale può essere ceduta in proprietà un’arma di un altro tipo.[^30-2]
 
 [^30-1]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^30-2]: Nuovo testo giusta il n. II dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 828](https://fedlex.data.admin.ch/eli/oc/2022/828)).
 
 #### Art. 31
 

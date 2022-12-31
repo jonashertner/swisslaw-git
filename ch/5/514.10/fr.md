@@ -3,11 +3,11 @@ sr: "514.10"
 title: "Ordonnance du 21 novembre 2018 concernant l'équipement personnel des militaires (OEPM)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/732"
 language: fr
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2018-11-21
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/732/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-732-20220101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/732/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/732/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-732-20230101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/732/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/732/20220101/fr"
 
 (OEPM)
 
-du 21 novembre 2018 (Etat le 1<sup>er</sup> janvier 2022)
+du 21 novembre 2018 (État le 1<sup>er</sup> janvier 2023)
 
 Le Conseil fédéral suisse,
 
@@ -390,7 +390,7 @@ Les militaires ne reçoivent aucun effet d’équipement en toute propriété:
 - b. s’ils ont été exclus de l’armée en vertu de l’art. 48 ou 49 CPM; en cas de procédure d’exclusion ouverte à leur encontre au moment de leur libération des obligations militaires, le commandement de l’Instruction tranche la question de la cession en toute propriété de leurs effets d’équipement, ou
 - c. s’ils sont admis au service civil conformément à l’art. 1 de la loi fédérale du 6 octobre 1995 sur le service civil[^28-2].
 
-<sup>2</sup> Les personnes qui ont été déclarées inaptes au service, en vertu des ch. NM IV (R) ou NM 2460 à 2550, 2580 à 2621, 2691, 2700 à 2733, 2750, 2770, 2800 à 2902, 2940 à 2970, 3060 à 3074, 3910, 3920 et 3930 de la *N**o**sologia Militaris* (NM), documentation 59.10, ne peuvent pas devenir propriétaires d’une arme personnelle.
+<sup>2</sup> Les personnes qui ont été déclarées inaptes au service, en vertu des ch. NM IV (R) ou NM 2460 à 2550, 2580 à 2621, 2691, 2700 à 2733, 2750, 2770, 2800 à 2902, 2940 à 2970, 3060 à 3074, 3910, 3920 et 3930 de la *Nosologia Militaris* (NM), documentation 59.10, ne peuvent pas devenir propriétaires d’une arme personnelle.
 
 [^28-1]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
 [^28-2]: [RS 824.0](https://fedlex.data.admin.ch/eli/cc/1996/1445_1445_1445)
@@ -404,16 +404,18 @@ Les militaires ne reçoivent aucun effet d’équipement en toute propriété:
 Les militaires qui quittent l’armée reçoivent le fusil d’assaut en toute propriété:
 
 - a. s’ils ont droit à tout ou partie de l’équipement conformément aux art. 26 et 28;
-- b. s’ils ont accompli, au cours des trois dernières années, deux programmes de tir obligatoire à 300 m et deux tirs en campagne à 300 m inscrits dans le livret de tir ou dans le livret de performances militaires, et
-- c. s’ils présentent un permis d’acquisition valable pour le fusil d’assaut selon l’art. 8, al. 1, de la loi du 20 juin 1997 sur les armes (LArm)[^29-1].
+- b.[^29-1] s’ils ont accompli, avec une arme similaire, quatre exercices fédéraux attestés dans le livret de tir ou de performances militaires au cours des trois dernières années civiles, et
+- c. s’ils présentent un permis d’acquisition valable pour le fusil d’assaut selon l’art. 8, al. 1, de la loi du 20 juin 1997 sur les armes (LArm)[^29-2].
 
 <sup>2</sup> Le fusil d’assaut est remis au militaire contre le versement d’une indemnité de 100 francs.
 
 <sup>3</sup> Avant d’être cédé, le fusil d’assaut est transformé par la BLA en arme à feu semi-automatique au tir coup par coup.
 
-<sup>4</sup> Les types d’armes cédées en toute propriété dépendent des stocks d’armes de l’armée, de l’instruction des militaires et des stocks des différents types d’armes.
+<sup>4</sup> En principe, l’arme remise en toute propriété est celle qui a été attribuée. En fonction du stock disponible et à titre exceptionnel, une arme d’un autre type peut être remise.[^29-3]
 
-[^29-1]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^29-1]: Nouvelle teneur selon le ch. II de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 828](https://fedlex.data.admin.ch/eli/oc/2022/828)).
+[^29-2]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^29-3]: Nouvelle teneur selon le ch. II de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 828](https://fedlex.data.admin.ch/eli/oc/2022/828)).
 
 #### Art. 30
 
@@ -428,9 +430,10 @@ Les militaires qui quittent l’armée reçoivent le pistolet en toute propriét
 
 <sup>2</sup> Le pistolet est remis en toute propriété au militaire contre le versement d’une indemnité de 30 francs.
 
-<sup>3</sup> Les types d’armes cédées en toute propriété dépendent des stocks d’armes de l’armée, de l’instruction des militaires et des stocks des différents types d’armes.
+<sup>3</sup> En principe, l’arme remise en toute propriété est celle qui a été attribuée. En fonction du stock disponible et à titre exceptionnel, une arme d’un autre type peut être remise.[^30-2]
 
 [^30-1]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^30-2]: Nouvelle teneur selon le ch. II de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 828](https://fedlex.data.admin.ch/eli/oc/2022/828)).
 
 #### Art. 31
 
