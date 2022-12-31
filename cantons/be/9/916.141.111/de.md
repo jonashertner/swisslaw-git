@@ -4,13 +4,12 @@ number: "916.141.111"
 title: Rebbauverordnung
 short: RebV
 language: de
-version: 2021-04-01
-valid_until: 2022-12-31
-version_adopted: 2021-02-17
+version: 2023-01-01
+version_adopted: 2022-10-19
 adopted: 1996-05-29
 in_force: 1996-08-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/916.141.111"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2198/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2703/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2198/pdf_file"
 
 (RebV)
 
-vom 29.05.1996 (Stand 01.04.2021)
+vom 29.05.1996 (Stand 01.01.2023)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -69,7 +68,7 @@ beschliesst:
 
 <sup>1</sup> Die Berufsorganisationen teilen ihre Beschlüsse rechtsetzenden Inhalts innert zehn Tagen seit Beschlussfassung dem LANAT mit.
 
-<sup>2</sup> Das LANAT ist für die Bekanntmachung durch direkte Information der Betroffenen oder durch Veröffentlichung in den Amtsanzeigern sowie für die amtliche Veröffentlichung in der Bernischen Amtlichen Gesetzessammlung besorgt.
+<sup>2</sup> Das LANAT ist für die Bekanntmachung durch direkte Information der Betroffenen oder durch Veröffentlichung in den amtlichen Publikationsorganen der Gemeinden sowie für die amtliche Veröffentlichung in der Bernischen Amtlichen Gesetzessammlung besorgt.
 
 <sup>3</sup> In Fällen zeitlicher Dringlichkeit darf das Inkrafttreten der Beschlüsse mit Zustimmung des LANAT auf den Zeitpunkt der Information der Betroffenen festgesetzt werden.
 

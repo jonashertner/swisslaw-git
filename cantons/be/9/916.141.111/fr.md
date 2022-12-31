@@ -4,13 +4,12 @@ number: "916.141.111"
 title: Ordonnance sur la viticulture
 short: OVit
 language: fr
-version: 2021-04-01
-valid_until: 2022-12-31
-version_adopted: 2021-02-17
+version: 2023-01-01
+version_adopted: 2022-10-19
 adopted: 1996-05-29
 in_force: 1996-08-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/916.141.111"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2198/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2703/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2198/pdf_file"
 
 (OVit)
 
-du 29.05.1996 (état au 01.04.2021)
+du 29.05.1996 (état au 01.01.2023)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -69,7 +68,7 @@ arrête:
 
 <sup>1</sup> Les organisations professionnelles notifient à l'OAN, dans les dix jours, les arrêtés contenant des règles de droit qu'elles édictent.
 
-<sup>2</sup> L'OAN est chargé de faire connaître ces arrêtés en informant directement les intéressés, ou en les faisant paraître dans les feuilles d'avis officielles, ainsi que de les publier dans le Recueil officiel des lois bernoises.
+<sup>2</sup> L'OAN est chargé de faire connaître ces arrêtés en informant directement les intéressés, ou en les faisant paraître dans les organes de publication officiels des communes, ainsi que de les publier dans le Recueil officiel des lois bernoises.
 
 <sup>3</sup> En cas d'urgence, l'entrée en vigueur des décisions peut, sous réserve de l'accord de l'OAN, être fixée à la date à laquelle les intéressés sont informés.
 
