@@ -4,11 +4,11 @@ title: "Verordnung vom 20. September 2002 über die Ausweise für Schweizer Staa
 short: VAwG
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/468"
 language: de
-version: 2022-06-01
+version: 2023-01-01
 adopted: 2002-09-20
 in_force: 2002-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/468/20220601/de/xml/fedlex-data-admin-ch-eli-cc-2002-468-20220601-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/468/20220601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/468/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2002-468-20230101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/468/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/468/20220601/de"
 
 (Ausweisverordnung, VAwG)
 
-vom 20. September 2002 (Stand am 1. Juni 2022)
+vom 20. September 2002 (Stand am 1. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -137,7 +137,7 @@ Fedpol ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur �
 
 ## 2. Kapitel: Antrag, Ausstellung, Verlust und Rückgabe
 
-### 1. Abschnitt:**** Ausstellende Behörde
+### 1. Abschnitt: Ausstellende Behörde
 
 [^chap2-sec1-1]
 
@@ -176,7 +176,7 @@ Fedpol ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur �
 
 <sup>3</sup> Ist zwischen verantwortlichen Stellen nach Artikel 4 Absatz 1 AwG und ausstellenden Behörden nach Artikel 4 Absatz 2 AwG fraglich oder strittig, welche Behörde zuständig ist, so entscheidet das Bundesamt.
 
-### 2. Abschnitt: Antrags- und Ausstellungsverfahren****
+### 2. Abschnitt: Antrags- und Ausstellungsverfahren
 
 [^chap2-sec2-1]
 
@@ -323,7 +323,7 @@ Auf dem Datenchip der Pässe nach Artikel 2 Absatz 2 werden folgende Daten gespe
 
 [^14b-1]: Eingefügt durch Ziff. I der V vom 17. März 2006 ([AS 2006 2611](https://fedlex.data.admin.ch/eli/oc/2006/398)). Aufgehoben durch Ziff. I der V vom 21. Okt. 2009, mit Wirkung seit 1. März 2010 ([AS 2009 5535](https://fedlex.data.admin.ch/eli/oc/2009/671)).
 
-### 2*a*. Abschnitt:**** Antragsverfahren Identitätskarten bei der Wohnsitzgemeinde
+### 2*a*. Abschnitt: Antragsverfahren Identitätskarten bei der Wohnsitzgemeinde
 
 [^chap2-sec2a-1]
 
@@ -381,7 +381,7 @@ Sofern dieser Abschnitt nicht etwas anderes bestimmt, sind die weiteren Bestimmu
 
 [^14f-1]: Eingefügt durch Ziff. I der V vom 29. Jan. 2014, in Kraft seit 1. März 2014 ([AS 2014 455](https://fedlex.data.admin.ch/eli/oc/2014/77)).
 
-### 3. Abschnitt: Ausfertigungsstellen, Generalunternehmer, Dienstleistungserbringer und Lieferanten****
+### 3. Abschnitt: Ausfertigungsstellen, Generalunternehmer, Dienstleistungserbringer und Lieferanten
 
 [^chap2-sec3-1]
 
@@ -529,7 +529,7 @@ Wird ein Ersatzausweis beantragt, so ist eine Verlustanzeige vorzulegen:
 
 <sup>2</sup> In begründeten Fällen kann ein provisorischer Pass bis spätestens zum Ablauf der Gültigkeit weiterbenützt werden.
 
-### 7. Abschnitt: Zustellung, Kontrolle und Behandlung****
+### 7. Abschnitt: Zustellung, Kontrolle und Behandlung
 
 [^chap2-sec7-1]
 
@@ -689,7 +689,7 @@ Das Bundesamt gibt im Einzelfall Personendaten ausländischen Behörden auf dere
 
 <sup>2</sup> Daten über Schriftensperren und Ausweishinterlegungen werden am gleichen Tag vernichtet, an dem die Aufhebungsverfügung eintrifft.
 
-### 3. Abschnitt: Datensicherheit und Aufsicht****
+### 3. Abschnitt: Datensicherheit und Aufsicht
 
 [^chap3-sec3-1]
 
@@ -1027,13 +1027,13 @@ Die nachstehenden Verordnungen werden wie folgt geändert:
 
 <sup>2</sup> Die Artikel 59 und 60 treten am 1. Januar 2003 in Kraft.
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 30 Abs. 1)
 
 ## Berechtigung zur Bearbeitung oder Abfrage von im ISA gespeicherten Daten
 
-[^t-1]: Fassung gemäss Ziff. I 5 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^t-1]: Fassung gemäss Ziff. I 5 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)). Bereinigt gemäss Anhang 2 Ziff. 2 der Vorläuferstoffverordnung vom 25. Mai 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)).
 
 A = Abfrage; E = Eingabe und Abfrage
 
@@ -1056,8 +1056,8 @@ A = Abfrage; E = Eingabe und Abfrage
 <tr><td>Datum der Ausstellung, Bst. k</td><td>E</td><td>A</td><td>E</td><td colspan="2">E</td><td colspan="2">A</td><td colspan="3">A</td><td colspan="3">A</td><td>E</td><td colspan="2">E</td><td>A</td><td>A</td><td colspan="3">E</td></tr>
 <tr><td>Datum Gültigkeitsablauf, Bst. l</td><td>E</td><td>A</td><td>E</td><td colspan="2">E</td><td colspan="2">A</td><td colspan="3">A</td><td colspan="3">A</td><td>E</td><td colspan="2">E</td><td>A</td><td>A</td><td colspan="3">E</td></tr>
 <tr><td>Ausweisnummer, Bst. m</td><td>E</td><td>A</td><td>E</td><td colspan="2">E</td><td colspan="2">A</td><td colspan="3">A</td><td colspan="3">A</td><td>E</td><td colspan="2">E</td><td>A</td><td>A</td><td colspan="3">E</td></tr>
-<tr><td>Ausweisart, Bst. m</td><td>E</td><td>A</td><td>E</td><td colspan="2">E</td><td colspan="2">A</td><td colspan="3">A</td><td colspan="3">A</td><td>E</td><td colspan="2">E</td><td>A</td><td>A</td><td colspan="3"></td></tr>
 <tr><td colspan="22"><sup>1</sup> Nur Vergleich, keine Anzeige auf dem Bildschirm und kein Datenexport möglich.</td></tr>
+<tr><td>Ausweisart, Bst. m</td><td>E</td><td>A</td><td>E</td><td colspan="2">E</td><td colspan="2">A</td><td colspan="3">A</td><td colspan="3">A</td><td>E</td><td colspan="2">E</td><td>A</td><td>A</td><td colspan="3"></td></tr>
 <tr><td>Maschinenlesbare Zone, Art. 2 Abs. 2 AwG</td><td>E</td><td>A</td><td>E</td><td colspan="2">E</td><td colspan="2">A</td><td colspan="3">A</td><td colspan="3">A</td><td>E</td><td colspan="2">E</td><td>A</td><td>A</td><td colspan="3">E</td></tr>
 <tr><td>Einschränkung Geltungsbereich, Abs. 3</td><td>E</td><td>A</td><td>E</td><td colspan="2">E</td><td colspan="2">A</td><td colspan="3">A</td><td colspan="3">A</td><td>E</td><td colspan="2">E</td><td>A</td><td>A</td><td colspan="3"></td></tr>
 <tr><td>Von der Antragstellerin / vom Antragsteller verlangte Eintragungen, Abs. 4</td><td>E</td><td>A</td><td>E</td><td colspan="2">E</td><td colspan="2">A</td><td colspan="3">A</td><td colspan="3">A</td><td>E</td><td colspan="2">E</td><td>A</td><td>A</td><td colspan="3"></td></tr>
@@ -1104,31 +1104,22 @@ A = Abfrage; E = Eingabe und Abfrage
 
 Abkürzungen:
 
-Fedpol Aw: Bundesamt für Polizei, Sektion Ausweisschriften (zuständige Stelle des Bundes, Art. 12 Abs. 1 Bst. a AwG)
+- Fedpol Aw: Bundesamt für Polizei, Sektion Ausweisschriften (zuständige Stelle des Bundes, Art. 12 Abs. 1 Bst. a AwG)
+- Fedpol Pol: Bundesamt für Polizei als zuständige Polizeistelle des Bundes und als zuständige Stelle für den Vollzug des Vorläuferstoffgesetzes vom 25. September 2020[^annex1-lvlu1-1] (Art. 12 Abs. 2 Bst. a, d und f und Abs. 3 AwG)
+- EDA Ext AsB: EDA-externe ausstellende Behörde für Ausweise, provisorische Pässe und biometrische Pässe (Art. 12 Abs. 1 Bst. b AwG) = Auslandsvertretung
+- EDA Int AsB: EDA-interne ausstellende Behörde für biometrische Diplomaten- und Dienstpässe und provisorische Pässe (Art. 12 Abs. 1 Bst. b AwG)
+- EDA Int Red: EDA-interne Behörde zur Ausstellung von Reiseersatzdokumenten
+- GWK: Grenzwachtkorps (Art. 12 Abs. 2 Bst. c AwG)
+- NDB: Nachrichtendienst des Bundes (Art. 12 Abs. 2 Bst. g AwG)
+- Kant. AsB: kantonale ausstellende Behörde (Art. 12 Abs. 1 Bst. b AwG)
+- Kant. PPS: kantonale ausstellende Behörde für provisorische Pässe (Art. 12 Abs. 1 Bst. b AwG)
+- Pol St ID-Abkl: von den Kantonen bezeichnete Polizeistellen zur Identitätsabklärung (Art. 12 Abs. 2 Bst. d AwG)
+- Pol St Verlust: von den Kantonen bezeichnete Polizeistellen zur Aufnahme von Verlustmeldungen (Art. 12 Abs. 2 Bst. e AwG)
+- Asf St: Ausfertigungsstelle für ordentliche Ausweise (Art. 12 Abs. 1 Bst. c AwG)
 
-Fedpol Pol: Bundesamt für Polizei als zuständige Polizeistelle des Bundes (Art. 12 Abs. 2 Bst. d und f AwG sowie Art. 12 Abs. 3 AwG)
+[^annex1-lvlu1-1]: [SR 941.42](https://fedlex.data.admin.ch/eli/cc/2022/352)
 
-EDA Ext AsB: EDA-externe ausstellende Behörde für Ausweise, provisorische Pässe und biometrische Pässe (Art. 12 Abs. 1 Bst. b AwG) = Auslandsvertretung
-
-EDA Int AsB: EDA-interne ausstellende Behörde für biometrische Diplomaten- und Dienstpässe und provisorische Pässe (Art. 12 Abs. 1 Bst. b AwG)
-
-EDA Int Red: EDA-interne Behörde zur Ausstellung von Reiseersatzdokumenten
-
-GWK: Grenzwachtkorps (Art. 12 Abs. 2 Bst. c AwG)
-
-NDB: Nachrichtendienst des Bundes (Art. 12 Abs. 2 Bst. g AwG)
-
-Kant. AsB: kantonale ausstellende Behörde (Art. 12 Abs. 1 Bst. b AwG)
-
-Kant. PPS: kantonale ausstellende Behörde für provisorische Pässe (Art. 12 Abs. 1 Bst. b AwG)
-
-Pol St ID-Abkl: von den Kantonen bezeichnete Polizeistellen zur Identitätsabklärung (Art. 12 Abs. 2 Bst. d AwG)
-
-Pol St Verlust: von den Kantonen bezeichnete Polizeistellen zur Aufnahme von Verlustmeldungen (Art. 12 Abs. 2 Bst. e AwG)
-
-Asf St: Ausfertigungsstelle für ordentliche Ausweise (Art. 12 Abs. 1 Bst. c AwG)
-
-Anhang 2*[^t-2]*
+Anhang 2[^t-2]
 
 (Art. 47)
 
@@ -1163,7 +1154,7 @@ Anhang 2*[^t-2]*
 <tr><td>– Auslagen gemäss Art. 49</td><td>nach effektiven Kosten</td></tr>
 </table>
 
-Anhang 3*[^t-3]*
+Anhang 3[^t-3]
 
 (Art. 53 Abs. 2)
 

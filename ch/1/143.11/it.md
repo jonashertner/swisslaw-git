@@ -4,11 +4,11 @@ title: "Ordinanza del 20 settembre 2002 sui documenti d'identità dei cittadini 
 short: ODI
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/468"
 language: it
-version: 2022-06-01
+version: 2023-01-01
 adopted: 2002-09-20
 in_force: 2002-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/468/20220601/it/xml/fedlex-data-admin-ch-eli-cc-2002-468-20220601-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/468/20220601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/468/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2002-468-20230101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/468/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/468/20220601/it"
 
 (Ordinanza sui documenti d’identità, ODI)
 
-del 20 settembre 2002 (Stato 1° giugno 2022)
+del 20 settembre 2002 (Stato 1° gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -137,13 +137,13 @@ Fedpol è competente per la conclusione di trattati internazionali in vista del 
 [^5b-2]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
 [^5b-3]: Cfr. nota a piè di pagina relativa all’art. 5*a*
 
-## Capitolo 2: Richiesta, rilascio, perdita e restituzione****
+## Capitolo 2: Richiesta, rilascio, perdita e restituzione
 
 [^chap2-1]
 
 [^chap2-1]: Nuovo testo giusta il n. I dell’O del 21 ott. 2009, in vigore dal 1° mar. 2010 ([RU 2009 5535](https://fedlex.data.admin.ch/eli/oc/2009/671)).
 
-### Sezione 1:**** Autorità di rilascio
+### Sezione 1: Autorità di rilascio
 
 [^chap2-sec1-1]
 
@@ -182,7 +182,7 @@ Fedpol è competente per la conclusione di trattati internazionali in vista del 
 
 <sup>3</sup> Se tra i servizi competenti secondo l’articolo 4 capoverso 1 LDI e le autorità di rilascio secondo l’articolo 4 capoverso 2 LDI vi sono dubbi o controversie sull’autorità competente, decide l’Ufficio federale.
 
-### Sezione 2: Procedura di richiesta e di rilascio****
+### Sezione 2: Procedura di richiesta e di rilascio
 
 [^chap2-sec2-1]
 
@@ -330,7 +330,7 @@ Sul microchip dei passaporti di cui all’articolo 2 capoverso 2 sono registrati
 
 [^14b-1]: Introdotto dal n. I dell’O del 17 mar. 2006 ([RU 2006 2611](https://fedlex.data.admin.ch/eli/oc/2006/398)). Abrogato dal n. I dell’O del 21 ott. 2009, con effetto dal 1° mar. 2010 ([RU 2009 5535](https://fedlex.data.admin.ch/eli/oc/2009/671)).
 
-### Sezione 2*a*:**** Procedura di richiesta per il rilascio delle carte d’identità presso il Comune di domicilio
+### Sezione 2*a*: Procedura di richiesta per il rilascio delle carte d’identità presso il Comune di domicilio
 
 [^chap2-sec2a-1]
 
@@ -388,7 +388,7 @@ Sempre che la presente sezione non disponga diversamente, alla procedura di rich
 
 [^14f-1]: Introdotto dal n. I dell’O del 29 gen. 2014, in vigore dal 1° mar. 2014 ([RU 2014 455](https://fedlex.data.admin.ch/eli/oc/2014/77)).
 
-### Sezione 3: Servizi preposti all’allestimento dei documenti d’identità, appaltatori generali, prestatori di servizi e fornitori****
+### Sezione 3: Servizi preposti all’allestimento dei documenti d’identità, appaltatori generali, prestatori di servizi e fornitori
 
 [^chap2-sec3-1]
 
@@ -536,7 +536,7 @@ Chi richiede un documento d’identità sostitutivo deve presentare la denuncia 
 
 <sup>2</sup> In casi motivati un passaporto provvisorio può continuare ad essere utilizzato fino alla scadenza della validità.
 
-### Sezione 7: Consegna, controllo e trattamento****
+### Sezione 7: Consegna, controllo e trattamento
 
 [^chap2-sec7-1]
 
@@ -697,7 +697,7 @@ In singoli casi l’Ufficio federale comunica i dati personali alle autorità st
 
 <sup>2</sup> I dati relativi al blocco e al deposito del documento d’identità sono distrutti il giorno stesso in cui perviene la decisione di revoca.
 
-### Sezione 3:**** Sicurezza dei dati e controllo
+### Sezione 3: Sicurezza dei dati e controllo
 
 [^chap3-sec3-1]
 
@@ -986,7 +986,7 @@ Le seguenti ordinanze sono abrogate:
 
 **Modifica del diritto vigente**
 
-### ...**
+### ...
 
 [^60-subdiv-1]
 
@@ -1028,13 +1028,13 @@ Le seguenti ordinanze sono abrogate:
 
 <sup>2</sup> Gli articoli 59 e 60 entrano in vigore il 1° gennaio 2003.
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 (art. 30 cpv. 1)
 
 ## Autorizzazione per l’elaborazione o la consultazione dei dati registrati in ISA
 
-[^t-1]: Nuovo testo giusta il n. I 5 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^t-1]: Nuovo testo giusta il n. I 5 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)). Aggiornato dall’all. 2 n. 2 dell’O del 25 mag. 2022 sui precursori di sostanze esplodenti, in vigore dal 1° gen. 2023 ([RU 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)).
 
 A = consultazione; E = registrazione e consultazione
 
@@ -1107,7 +1107,7 @@ A = consultazione; E = registrazione e consultazione
 
 <table>
 <tr><td>Fedpol Doc. id.:</td><td>Ufficio federale di polizia, sezione Documenti d’identità (art. 12 cpv. 1 lett. a LDI)</td></tr>
-<tr><td>Fedpol Pol:</td><td>Ufficio federale di polizia come servizio di polizia competente della Confederazione (art. 12 cpv. 2 lett. d e f nonché cpv. 3 LDI)</td></tr>
+<tr><td>Fedpol Pol:</td><td>Ufficio federale di polizia come servizio di polizia competente della Confederazione e come servizio competente per l’esecuzione della legge federale del 25 settembre 2020[^annex1-lvlu1-1] sui precursori di sostanze esplodenti (art. 12 cpv. 2 lett. a, d ed f nonché cpv. 3 LDI)</td></tr>
 <tr><td>DFAE A. est. rilascio:</td><td>Autorità di rilascio esterne del DFAE per i documenti d’identità, i passaporti provvisori e i passaporti biometrici (art. 12 cpv. 1 lett. b LDI) = rappresentanze estere</td></tr>
 <tr><td>DFAE A. int. rilascio:</td><td>Autorità di rilascio interne del DFAE per passaporti diplomatici biometrici, passaporti di servizio biometrici e passaporti provvisori (art. 12 cpv. 1 lett. b LDI)</td></tr>
 <tr><td>DFAE A. int. rilascio sost.:</td><td>Autorità di rilascio interna del DFAE per documenti di viaggio sostitutivi</td></tr>
@@ -1120,7 +1120,9 @@ A = consultazione; E = registrazione e consultazione
 <tr><td>S. allestimento:</td><td>servizio preposto all’allestimento dei documenti d’identità ordinari (art. 12 cpv. 1 lett. c LDI)</td></tr>
 </table>
 
-Allegato 2*[^t-2]*
+[^annex1-lvlu1-1]: [RS 941.42](https://fedlex.data.admin.ch/eli/cc/2022/352)
+
+Allegato 2[^t-2]
 
 (art. 47)
 
@@ -1151,7 +1153,7 @@ Allegato 2*[^t-2]*
 <tr><td>– emolumento di base, – spese giusta l’articolo 49.</td><td>20.– secondo i costi effettivi</td></tr>
 </table>
 
-Allegato 3*[^t-3]*
+Allegato 3[^t-3]
 
 (art. 53 cpv. 2)
 

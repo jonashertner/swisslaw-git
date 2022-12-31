@@ -4,11 +4,11 @@ title: "Ordonnance du 20 septembre 2002 sur les documents d'identité des ressor
 short: OLDI
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/468"
 language: fr
-version: 2022-06-01
+version: 2023-01-01
 adopted: 2002-09-20
 in_force: 2002-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/468/20220601/fr/xml/fedlex-data-admin-ch-eli-cc-2002-468-20220601-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/468/20220601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/468/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2002-468-20230101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/468/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/468/20220601/fr"
 
 (Ordonnance sur les documents d’identité, OLDI)
 
-du 20 septembre 2002 (Etat le 1<sup>er</sup> juin 2022)
+du 20 septembre 2002 (État le 1<sup>er</sup> janvier 2023)
 
 Le Conseil fédéral suisse,
 
@@ -137,7 +137,7 @@ Fedpol est compétent pour conclure des traités internationaux en vue de la rep
 
 ## Chapitre 2 Demande, établissement, perte et restitution
 
-### Section 1**** Autorité d'établissement
+### Section 1 Autorité d'établissement
 
 [^chap2-sec1-1]
 
@@ -176,7 +176,7 @@ Fedpol est compétent pour conclure des traités internationaux en vue de la rep
 
 <sup>3</sup> Si l’autorité d’établissement ne peut être déterminée de façon certaine et incontestable entre les services responsables visés à l’art. 4, al. 1, LDI et les autorités d’établissement visées à l’art. 4, al. 2, LDI, l’office tranche.
 
-### Section 2 Procédure de demande et procédure d'établissement****
+### Section 2 Procédure de demande et procédure d'établissement
 
 [^chap2-sec2-1]
 
@@ -323,7 +323,7 @@ Les données suivantes sont enregistrées dans la puce des passeports visés à 
 
 [^14b-1]: Introduit par le ch. I de l’O du 17 mars 2006 ([RO 2006 2611](https://fedlex.data.admin.ch/eli/oc/2006/398)). Abrogé par le ch. I de l’O du 21 oct. 2009, avec effet au 1<sup>er</sup> mars 2010 ([RO 2009 5535](https://fedlex.data.admin.ch/eli/oc/2009/671)).
 
-### Section 2*a***** Procédure de demande de cartes d’identité auprès de la commune de domicile
+### Section 2*a* Procédure de demande de cartes d’identité auprès de la commune de domicile
 
 [^chap2-sec2a-1]
 
@@ -381,7 +381,7 @@ Sauf disposition contraire de la présente section, les autres dispositions de l
 
 [^14f-1]: Introduit par le ch. I de l’O du 29 janv. 2014, en vigueur depuis le 1<sup>er</sup> mars 2014 ([RO 2014 455](https://fedlex.data.admin.ch/eli/oc/2014/77)).
 
-### Section 3 Centres chargés de produire les documents d’identité, entreprises générales, prestataires de services et fournisseurs****
+### Section 3 Centres chargés de produire les documents d’identité, entreprises générales, prestataires de services et fournisseurs
 
 [^chap2-sec3-1]
 
@@ -529,7 +529,7 @@ Le requérant d’un document d’identité de remplacement doit présenter un a
 
 <sup>2</sup> Si cela se justifie, un passeport provisoire peut être utilisé au plus tard jusqu’à l’expiration de sa durée de validité.
 
-### Section 7 Remise, contrôle et manipulation****
+### Section 7 Remise, contrôle et manipulation
 
 [^chap2-sec7-1]
 
@@ -690,7 +690,7 @@ Dans des cas d’espèce, l’office communique des données personnelles à des
 
 <sup>2</sup> Les données relatives à la saisie et au dépôt de documents d’identité sont détruites le jour même de la réception de la décision de levée de la mesure.
 
-### Section 3 Sécurité des données et surveillance****
+### Section 3 Sécurité des données et surveillance
 
 [^chap3-sec3-1]
 
@@ -1025,13 +1025,13 @@ Sont abrogées:
 
 <sup>2</sup> Les art. 59 et 60 entrent en vigueur le 1<sup>er</sup> janvier 2003.
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 (art. 30, al. 1)
 
 ## Autorisation de traiter ou de consulter des données enregistrées dans ISA
 
-[^t-1]: Nouvelle teneur selon le ch. I 5 de l’O du 4 mai 2022 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^t-1]: Nouvelle teneur selon le ch. I 5 de l’O du 4 mai 2022 sur les mesures policières de lutte contre le terrorisme ([RO 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)). Mise à jour par l’annexe 2 ch. 2 de l’O du 25 mai 2022 sur les précurseurs de substances explosibles, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)).
 
 A = Consultation; E = Entrée et consultation
 
@@ -1104,7 +1104,7 @@ Abréviations:
 
 Fedpol Doc. Id.: Section Documents d’identité de l’Office fédéral de la police (service compétent de la Confédération, art. 12, al. 1, let. a, LDI)
 
-Fedpol Pol: Office fédéral de la police en tant que service de police compétent de la Confédération (art. 12, al. 2, let. d et f, et art. 12, al. 3, LDI)
+Fedpol Pol: Office fédéral de la police en tant que service de police compétent de la Confédération et en tant que service compétent pour l’exécution de la loi fédérale du 25 septembre 2020 sur les précurseurs de substances explosibles[^annex1-lvlu1-1] (art. 12, al. 2, let. a, d et f, et al. 3, LDI)
 
 DFAE Ext A. ét.: Autorité d’établissement externe du DFAE pour les documents d’identité, les passeports provisoires et les passeports biométriques (art. 12, al. 1, let. b, LDI) = représentation suisse à l’étranger
 
@@ -1126,7 +1126,9 @@ A. pol. Perte doc.: Autorités de police désignées par les cantons pour enregi
 
 C. co.: Centre chargé de produire les documents d’identité ordinaires (art. 12, al. 1, let. c, LDI)
 
-Annexe 2*[^t-2]*
+[^annex1-lvlu1-1]: [RS 941.42](https://fedlex.data.admin.ch/eli/cc/2022/352)
+
+Annexe 2[^t-2]
 
 (art. 47)
 
@@ -1161,7 +1163,7 @@ Annexe 2*[^t-2]*
 <tr><td>– frais selon l’art. 49</td><td>selon les frais effectifs</td></tr>
 </table>
 
-Annexe 3*[^t-3]*
+Annexe 3[^t-3]
 
 (art. 53, al. 2)
 
