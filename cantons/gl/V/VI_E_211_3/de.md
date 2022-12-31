@@ -4,13 +4,13 @@ number: VI E/211/3
 title: Verordnung über die Verhütung und Vergütung von Wildschäden
 short: Wildschadenverordnung
 language: de
-version: 2011-01-01
-valid_until: 2022-12-31
-version_adopted: 2010-11-24
+version: 2023-01-01
+valid_until: 2026-12-31
+version_adopted: 2022-08-31
 adopted: 1992-12-09
 in_force: 1993-03-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/VI-E.211.3"
-pdf: "https://gesetze.gl.ch/api/de/versions/1057/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2333/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/1057/pdf_file"
 
 (Wildschadenverordnung)
 
-Vom 09.12.1992 (Stand 01.01.2011)
+Vom 09.12.1992 (Stand 01.01.2023)
 
 Der Landrat,
 
@@ -54,7 +54,7 @@ verordnet:
 
 <sup>4</sup> Für Massnahmen, die im Rahmen von forstlich subventionierten Projekten zur Durchführung gelangen, sowie für Einzäunungen und Einfriedungen privat- und landwirtschaftlicher Nutzung werden keine Beiträge ausgerichtet.
 
-<sup>5</sup> Über Beiträge zur Schadenverhütung entscheidet die nach dem Finanzhaushaltgesetz zuständige Behörde.
+<sup>5</sup> Über Beiträge zur Schadenverhütung entscheidet bis 25 000 Franken das zuständige Departement, über höhere Beiträge beschliesst der Regierungsrat.
 
 #### Art. 3
 
