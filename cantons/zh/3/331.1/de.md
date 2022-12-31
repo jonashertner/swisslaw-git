@@ -4,11 +4,11 @@ number: "331.1"
 title: Justizvollzugsverordnung (JVV)
 short: JVV
 language: de
-version: "2022-04-01"
-nachtrag: "116"
-valid_until: 2023-01-01
+version: "2023-01-01"
+nachtrag: "119"
+valid_until: 2024-04-01
 adopted: 2006-12-06
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-331_1-2006_12_06-2007_01_01-116.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-331_1-2006_12_06-2007_01_01-119.html"
 text: pdf
 ---
 
@@ -68,7 +68,7 @@ beschliesst:
 
 **1**
 
-- 1\. 4. 22 - 116
+- 1\. 1. 23 - 119
 
 <sup>3</sup> Die Geschäftsleitung besteht aus der Amtschefin oder dem Amtschef sowie den Leiterinnen und Leitern der Hauptabteilungen. Sie kann weitere Personen in die Geschäftsleitung aufnehmen.
 
@@ -144,7 +144,7 @@ Das Amt erbringt insbesondere folgende Leistungen: Es a. betreibt die für die D
 
 **3**
 
-- 1\. 4. 22 - 116
+- 1\. 1. 23 - 119
 
 <sup>2</sup> In einzelnen Fällen können sie im Einverständnis mit der verurteilten Person Sozialberatungen und -betreuungen nach Beendigung des gesetzlichen Auftrags weiterführen, solange a. die Weiterführung die Resozialisierung sichert und b. keine andere Fachstelle zuständig ist.
 
@@ -206,7 +206,7 @@ Das Amt erbringt insbesondere folgende Leistungen: Es a. betreibt die für die D
 
 **5**
 
-- 1\. 4. 22 - 116
+- 1\. 1. 23 - 119
 
 - c. Verurteilte bis zu ihrer Überführung in eine geeignete Vollzugseinrichtung,
 
@@ -287,7 +287,7 @@ Das Amt erbringt insbesondere folgende Leistungen: Es a. betreibt die für die D
 
 **7**
 
-- 1\. 4. 22 - 116
+- 1\. 1. 23 - 119
 
 <sup>4</sup> Sie wickeln die Vollzugsfälle nach dem Prozess des Risikoorientierten Sanktionenvollzugs ab. Der Prozess richtet sich nach den Richtlinien der Ostschweizer Strafvollzugskommission über den Risikoorientierten Sanktionenvollzug.
 
@@ -379,7 +379,7 @@ Zur Durchsetzung und Erfüllung der Aufträge können im Rahmen der Amtshilfe Po
 
 **9**
 
-- 1\. 4. 22 - 116
+- 1\. 1. 23 - 119
 
 <sup>2</sup> Über die bedingte Entlassung entscheidet das Amt nach Eintritt der Rechtskraft des Urteils.
 
@@ -455,7 +455,7 @@ Als geschlossen werden Anstalten oder deren Abteilungen bezeichnet, die aufgrund
 
 <sup>2</sup> Anstelle des Arbeitsexternats oder Arbeits- und Wohnexternats kann auf Gesuch die elektronische Überwachung für drei bis zwölf Monate bewilligt werden.[^45-1]
 
-[^45-1]: Eingefügt durch RRB vom 6. Dezember 2017 (OS 72, 682; ABl 2017-12-15). In Kraft seit 1. Januar 2018. 1. 4. 22 - 116 45
+[^45-1]: Eingefügt durch RRB vom 6. Dezember 2017 (OS 72, 682; ABl 2017-12-15). In Kraft seit 1. Januar 2018. 1. 1. 23 - 119 45
 
 ### B. Einleitung des Vollzugs
 
@@ -469,7 +469,7 @@ Als geschlossen werden Anstalten oder deren Abteilungen bezeichnet, die aufgrund
 
 **11**
 
-- 1\. 4. 22 - 116 § 46 a.[^hBEinleitungdesVo-1] <sup>1</sup> Das Amt regelt den Vollzug der gemeinnützigen Arbeit in der Vollzugsvereinbarung. Es bestimmt den Zeitraum, in dem die verurteilte Person die gemeinnützige Arbeit zu leisten hat. Die verurteilte Person leistet in der Regel mindestens acht Stunden gemeinnützige Arbeit pro Woche.
+- 1\. 1. 23 - 119 § 46 a.[^hBEinleitungdesVo-1] <sup>1</sup> Das Amt regelt den Vollzug der gemeinnützigen Arbeit in der Vollzugsvereinbarung. Es bestimmt den Zeitraum, in dem die verurteilte Person die gemeinnützige Arbeit zu leisten hat. Die verurteilte Person leistet in der Regel mindestens acht Stunden gemeinnützige Arbeit pro Woche.
 
 **b. Vollzugsregelung für gemeinnützige Arbeit**
 
@@ -517,7 +517,7 @@ Als geschlossen werden Anstalten oder deren Abteilungen bezeichnet, die aufgrund
 
 - d. Auflagen, insbesondere die Teilnahme an Lernprogrammen, an Einzel- und Gruppentherapien sowie begleitende Massnahmen.
 
-[^hBEinleitungdesVo-1]: Eingefügt durch RRB vom 6. Dezember 2017 (OS 72, 682; ABl 2017-12-15). In Kraft seit 1. Januar 2018. 1. 4. 22 - 116 45
+[^hBEinleitungdesVo-1]: Eingefügt durch RRB vom 6. Dezember 2017 (OS 72, 682; ABl 2017-12-15). In Kraft seit 1. Januar 2018. 1. 1. 23 - 119 45
 
 #### § 48
 
@@ -539,7 +539,7 @@ Als geschlossen werden Anstalten oder deren Abteilungen bezeichnet, die aufgrund
 
 **13**
 
-- 1\. 4. 22 - 116 § 50. <sup>1</sup> Befindet sich die verurteilte Person in Haft, macht das Amt den Beginn des Vollzugs des rechtskräftigen Urteils aktenkundig. Es prüft, ob die verurteilte Person in eine offene Anstalt versetzt werden kann.
+- 1\. 1. 23 - 119 § 50. <sup>1</sup> Befindet sich die verurteilte Person in Haft, macht das Amt den Beginn des Vollzugs des rechtskräftigen Urteils aktenkundig. Es prüft, ob die verurteilte Person in eine offene Anstalt versetzt werden kann.
 
 **Inhaftierte verurteilte Personen**
 
@@ -605,7 +605,7 @@ Als geschlossen werden Anstalten oder deren Abteilungen bezeichnet, die aufgrund
 
 **15**
 
-- 1\. 4. 22 - 116 § 57 a.[^hCDurchführungund-1] <sup>1</sup> Das Amt bricht den Vollzug in der bewilligten Vollzugsform ab, wenn
+- 1\. 1. 23 - 119 § 57 a.[^hCDurchführungund-1] <sup>1</sup> Das Amt bricht den Vollzug in der bewilligten Vollzugsform ab, wenn
 
 **Gemeinsame Bestimmungen a. Änderung der Zulassungsvoraussetzungen**
 
@@ -623,7 +623,7 @@ Als geschlossen werden Anstalten oder deren Abteilungen bezeichnet, die aufgrund
 
 <sup>2</sup> Das Amt kann den Kostenbeitrag auf Gesuch ganz oder teilweise erlassen, wenn die verurteilte Person eine Notlage nachweist. Eine Notlage liegt insbesondere vor, wenn die Bezahlung des Kostenbeitrages die Erfüllung gesetzlicher Unterhalts- und Unterstützungspflichten beeinträchtigen würde.
 
-[^hCDurchführungund-1]: Eingefügt durch RRB vom 6. Dezember 2017 (OS 72, 682; ABl 2017-12-15). In Kraft seit 1. Januar 2018. 1. 4. 22 - 116 45
+[^hCDurchführungund-1]: Eingefügt durch RRB vom 6. Dezember 2017 (OS 72, 682; ABl 2017-12-15). In Kraft seit 1. Januar 2018. 1. 1. 23 - 119 45
 [^hCDurchführungund-2]: Einsichtnahme in die Richtlinien unter www. justizvollzug.zh.ch.
 
 #### § 58
@@ -694,7 +694,7 @@ Eine verurteilte Person wird vom geschlossenen in den offenen Vollzug versetzt, 
 
 **17**
 
-- 1\. 4. 22 - 116 § 63. Die Bewilligung des Strafunterbruchs gemäss Art. 92 StGB[^62-2] kann mit Auflagen über Verhalten, Beschäftigung, Aufenthaltsort, Meldepflicht sowie mit der Anordnung einer Beaufsichtigung oder Betreuung verbunden werden.
+- 1\. 1. 23 - 119 § 63. Die Bewilligung des Strafunterbruchs gemäss Art. 92 StGB[^62-2] kann mit Auflagen über Verhalten, Beschäftigung, Aufenthaltsort, Meldepflicht sowie mit der Anordnung einer Beaufsichtigung oder Betreuung verbunden werden.
 
 **f. Strafunterbruch**
 
@@ -782,7 +782,7 @@ Das Amt ordnet die Bewährungshilfe bei bedingter Entlassung gemäss den Richtli
 
 **19**
 
-- 1\. 4. 22 - 116
+- 1\. 1. 23 - 119
 
 ### 5.<sup>26</sup> Abschnitt: Therapeutische Massnahmen
 
@@ -861,7 +861,7 @@ Meldet sich die verurteilte Person innert der ihr gesetzten Frist nicht zum ange
 
 **21**
 
-- 1\. 4. 22 - 116 § 77. Für die Durchführung und die Rahmenbedingungen von stationären Suchtbehandlungen gelten die Richtlinien der Ostschweizer Strafvollzugskommission<sup>33</sup> für den Vollzug von stationären Suchttherapien[^76-1].
+- 1\. 1. 23 - 119 § 77. Für die Durchführung und die Rahmenbedingungen von stationären Suchtbehandlungen gelten die Richtlinien der Ostschweizer Strafvollzugskommission<sup>33</sup> für den Vollzug von stationären Suchttherapien[^76-1].
 
 **Vollzug von stationären Suchtbehandlungen**
 
@@ -967,7 +967,7 @@ Können die Therapeutin, der Therapeut oder die Massnahmenvollzugseinrichtung di
 
 **23**
 
-- 1\. 4. 22 - 116 § 87.[^86-1], <sup>30</sup> <sup>1</sup> Für die Versetzung vom offenen in den geschlossenen Vollzug gilt § 59 sinngemäss.
+- 1\. 1. 23 - 119 § 87.[^86-1], <sup>30</sup> <sup>1</sup> Für die Versetzung vom offenen in den geschlossenen Vollzug gilt § 59 sinngemäss.
 
 **Versetzung und Abbruch**
 
@@ -1064,7 +1064,7 @@ Für die Zuständigkeit und das Verfahren zum Erlass eines Vollzugsplanes sowie 
 
 **25**
 
-- 1\. 4. 22 - 116
+- 1\. 1. 23 - 119
 
 <sup>3</sup> Die Daten werden vernichtet, sobald sie nicht mehr benötigt werden, spätestens beim Austritt der verurteilten Person.
 
@@ -1146,7 +1146,7 @@ Für die Zuständigkeit und das Verfahren zum Erlass eines Vollzugsplanes sowie 
 
 **27**
 
-- 1\. 4. 22 - 116 § 105.<sup>33</sup> Gutgeschriebenes Arbeitsentgelt flüchtiger Personen fällt nach Ablauf von fünf Jahren seit der Entweichung einem Fonds oder einer Stiftung zur Unterstützung von Gefangenen und Entlassenen zu.
+- 1\. 1. 23 - 119 § 105.<sup>33</sup> Gutgeschriebenes Arbeitsentgelt flüchtiger Personen fällt nach Ablauf von fünf Jahren seit der Entweichung einem Fonds oder einer Stiftung zur Unterstützung von Gefangenen und Entlassenen zu.
 
 **Auszahlung des Guthabens a. bei Flucht**
 
@@ -1220,7 +1220,7 @@ Die verurteilten Personen erhalten täglich Gelegenheit zu einem mindestens eins
 
 **29**
 
-- 1\. 4. 22 - 116
+- 1\. 1. 23 - 119
 
 <sup>3</sup> Weiter gehende medizinische Behandlungen sowie die Beschaffung von Brillen, Prothesen und dergleichen erfolgen nur, wenn die verurteilte Person die Kosten übernimmt oder eine Kostengutsprache ihrer Krankenversicherung oder der fürsorgerechtlich zuständigen Behörde vorliegt.
 
@@ -1294,7 +1294,7 @@ Die verurteilten Personen erhalten täglich Gelegenheit zu einem mindestens eins
 
 **31**
 
-- 1\. 4. 22 - 116
+- 1\. 1. 23 - 119
 
 <sup>3</sup> Ehegatten, eingetragene Partnerinnen oder Partner, Lebenspartnerinnen oder -partner sowie Kinder können für längere Besuche zugelassen werden, wenn:
 
@@ -1376,7 +1376,7 @@ Verurteilte Personen in Halbgefangenschaft oder im Arbeitsexternat können in de
 
 **33**
 
-- 1\. 4. 22 - 116 § 123. <sup>1</sup> Die Direktorin oder der Direktor einer geschlossenen Vollzugseinrichtung kann anordnen, dass geeignete und ausgebildete betriebseigene Sicherheitskräfte im Einzelfall bei besonderen dienstlichen Verrichtungen eine Waffe tragen.
+- 1\. 1. 23 - 119 § 123. <sup>1</sup> Die Direktorin oder der Direktor einer geschlossenen Vollzugseinrichtung kann anordnen, dass geeignete und ausgebildete betriebseigene Sicherheitskräfte im Einzelfall bei besonderen dienstlichen Verrichtungen eine Waffe tragen.
 
 **Waffen**
 
@@ -1458,11 +1458,11 @@ Soweit dies durch die jeweilige Vollzugsform geboten ist, regelt die Hausordnung
 
 <sup>2</sup> Die Aufnahme in den Vollzug von Auslieferungshaft sowie die Entlassung erfolgt aufgrund eines durch das Bundesamt für Justiz ausgestellten Auslieferungshaftbefehls.
 
-#### § 130
+<sup>3</sup> Das Amt entscheidet, in welchem Gefängnis die Untersuchungs- und Sicherheitshaft sowie die Auslieferungshaft vollzogen werden.<sup>35</sup>
 
 **Unterbringung in Einzelhaft**
 
-<sup>1</sup> Die Verfahrensleitung gemäss Art. 61<sup>31</sup> StPO kann die Unterbringung in Einzelhaft anordnen, wenn der Untersuchungszweck dies erfordert.<sup>26</sup>
+§ 130. <sup>1</sup> Die Verfahrensleitung gemäss Art. 61<sup>31</sup> StPO kann die Unterbringung in Einzelhaft anordnen, wenn der Untersuchungszweck dies erfordert.<sup>26</sup>
 
 <sup>2</sup> In Einzelhaft arbeiten die inhaftierten Personen alleine und verbringen ihre Freizeit in der Zelle. Beim Aufenthalt im Freien ist ihnen die Kontaktaufnahme mit anderen Inhaftierten untersagt.
 
@@ -1474,13 +1474,13 @@ Soweit dies durch die jeweilige Vollzugsform geboten ist, regelt die Hausordnung
 
 **35**
 
-- 1\. 4. 22 - 116
+- 1\. 1. 23 - 119
 
-<sup>3</sup> Kann eine inhaftierte arbeitswillige Person aus gesundheitlichen Gründen oder infolge Arbeitsmangel nicht arbeiten, wird ihr der von den Richtlinien[^130-1] festgelegte Mindestansatz, jedoch nicht mehr, als sie vorher erhalten hat, ausgerichtet.
+<sup>3</sup> Kann eine inhaftierte arbeitswillige Person aus gesundheitlichen Gründen oder infolge Arbeitsmangel nicht arbeiten, wird ihr der von den Richtlinien[^129-1] festgelegte Mindestansatz, jedoch nicht mehr, als sie vorher erhalten hat, ausgerichtet.
 
 <sup>4</sup> Die inhaftierten Personen können sich selbst beschäftigen, wenn sie diese Tätigkeit in der Zelle verrichten. Die Selbstbeschäftigung gibt keinen Anspruch auf zusätzliche Kontakte mit Personen innerhalb und ausserhalb des Gefängnisses.
 
-[^130-1]: Einsichtnahme in die Richtlinien unter www. justizvollzug.zh.ch.
+[^129-1]: Einsichtnahme in die Richtlinien unter www. justizvollzug.zh.ch.
 
 #### § 132
 
@@ -1553,7 +1553,7 @@ Soweit dies durch die jeweilige Vollzugsform geboten ist, regelt die Hausordnung
 
 **37**
 
-- 1\. 4. 22 - 116
+- 1\. 1. 23 - 119
 
 <sup>4</sup> Der Aufenthalt in einem Gefängnis für Polizeihaft darf eine Woche nicht überschreiten. Danach werden die inhaftierten Personen von der für sie zuständigen Behörde in eine andere Vollzugseinrichtung übergeführt.
 
@@ -1635,7 +1635,7 @@ Soweit dies durch die jeweilige Vollzugsform geboten ist, regelt die Hausordnung
 
 **39**
 
-- 1\. 4. 22 - 116 § 142. <sup>1</sup> Den inhaftierten Personen wird die Möglichkeit gegeben, entschädigte Arbeit zu leisten, soweit das Arbeitsangebot dies erlaubt. Die Bemessung des Arbeitsentgelts erfolgt wie bei Untersuchungs- und Sicherheitshaft.
+- 1\. 1. 23 - 119 § 142. <sup>1</sup> Den inhaftierten Personen wird die Möglichkeit gegeben, entschädigte Arbeit zu leisten, soweit das Arbeitsangebot dies erlaubt. Die Bemessung des Arbeitsentgelts erfolgt wie bei Untersuchungs- und Sicherheitshaft.
 
 **Arbeitsangebot und Arbeitspflicht**
 
@@ -1719,7 +1719,7 @@ Die inhaftierten Personen sind berechtigt, sich selbst zu beschäftigen. Die sel
 
 **41**
 
-- 1\. 4. 22 - 116 § 151. <sup>1</sup> Die einweisende Stelle kann das Verlassen der Vollzugseinrichtung bewilligen für:
+- 1\. 1. 23 - 119 § 151. <sup>1</sup> Die einweisende Stelle kann das Verlassen der Vollzugseinrichtung bewilligen für:
 
 **e. Vorführung31**
 
@@ -1808,7 +1808,7 @@ Für den Vollzug des Arrests können verurteilte Personen in Halbgefangenschaft,
 
 **43**
 
-- 1\. 4. 22 - 116
+- 1\. 1. 23 - 119
 
 <sup>3</sup> Der Disziplinarentscheid wird mit kurzer Begründung und Rechtsmittelbelehrung schriftlich mitgeteilt und der inhaftierten Person in einer verständlichen Sprache erläutert. Bei zeitlicher Dringlichkeit wird der Entscheid mündlich eröffnet und sobald als möglich schriftlich bestätigt.
 
@@ -1870,3 +1870,5 @@ Für die Erprobung neuer Vollzugsformen und für Versuche zur Weiterentwicklung 
 <sup>33</sup> Fassung gemäss RRB vom 12. Januar 2022 (OS 77, 167; ABl 2022-01-28). In Kraft seit 1. April 2022.
 
 <sup>34</sup> Aufgehoben durch RRB vom 12. Januar 2022 (OS 77, 167; ABl 2022-01-28). In Kraft seit 1. April 2022.
+
+<sup>35</sup> Eingefügt durch RRB vom 31. August 2022 (OS 77, 532; ABl 2022-09-09). In Kraft seit 1. Januar 2023.
