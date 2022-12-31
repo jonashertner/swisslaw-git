@@ -4,7 +4,7 @@ number: "921.01"
 title: LOI du 08.05.2012 forestière (LVLFo)
 short: LVLFo
 language: fr
-version: 2022-03-01
+version: 2023-01-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/921.01?id=41b5f7b0-9b3b-49f4-bbd8-32e09cde5ac5"
 ---
 
@@ -192,7 +192,9 @@ décrète
 
 <sup>1</sup> Le règlement [^14-1] fixe les compétences de l'inspecteur cantonal des forêts, des inspecteurs des forêts et des gardes forestiers de triage pour l'exécution de la législation fédérale[^14-2] et cantonale.
 
-[^13-2]: Modif. 4 du 13.09.2022: Introduction Al. 2; entrée en vigueur au 01.01.2023; Introduction Art. 22, Al. 1, d; entrée en vigueur au 01.01.2023; Introduction Art. 99a; entrée en vigueur au 01.01.2023; Introduction Art. 99b; entrée en vigueur au 01.01.2023
+<sup>2</sup> Les inspecteurs des forêts et les gardes forestiers de triage sont compétents pour percevoir, en matière de forêt, chasse, pêche et protection de la nature, les amendes d'ordre de droit fédéral et cantonal.
+
+[^13-2]: Modif. 4 du 13.09.2022: Introduction Al. 2; entrée en vigueur au 01.01.2023
 [^14-1]: Règlement du 18.12.2013 d'application de la loi forestière du 08.05.2012 ([BLV 921.01.1](https://prestations.vd.ch/pub/blv-publication/actes/consolide/921.01.1?id=e3406bfd-93a7-494b-85db-60ef57778f72))
 [^14-2]: Loi fédérale du 04.10.1991 sur les forêts (RS 921.0)
 
@@ -286,6 +288,7 @@ décrète
 - a. les taxes de compensation ;
 - b. la perception des compensations de la plus-value ;
 - c. les recettes liées à l'exécution de mesures de conservation des forêts.
+- d. le produit des amendes et des amendes d'ordre.
 
 <sup>2</sup> Il est affecté au financement :
 
@@ -295,7 +298,7 @@ décrète
 
 <sup>3</sup> Le règlement [^22-1] fixe les compétences pour le financement des opérations décrites aux lettres a) à c) de l'alinéa 2.
 
-[^21-2]: Modif. 4 du 13.09.2022: Introduction Art. 14, Al. 2; entrée en vigueur au 01.01.2023; Introduction Al. 1, d; entrée en vigueur au 01.01.2023; Introduction Art. 99a; entrée en vigueur au 01.01.2023; Introduction Art. 99b; entrée en vigueur au 01.01.2023
+[^21-2]: Modif. 4 du 13.09.2022: Introduction Al. 1, d; entrée en vigueur au 01.01.2023
 [^22-1]: Règlement du 18.12.2013 d'application de la loi forestière du 08.05.2012 ([BLV 921.01.1](https://prestations.vd.ch/pub/blv-publication/actes/consolide/921.01.1?id=e3406bfd-93a7-494b-85db-60ef57778f72))
 
 ### Sous-section II Constatation de la nature forestière
@@ -1180,11 +1183,26 @@ décrète
 
 <sup>3</sup> Les dispositions pénales de la loi fédérale sur les forêts [^99-1] sont réservées.
 
-<sup>4</sup> La poursuite se déroule selon la procédure prévue par la loi sur les contraventions [^99-2] .
+<sup>4</sup> La poursuite se déroule selon la procédure prévue par la loi sur les contraventions, sous réserve de la procédure d'amendes d'ordre prévue par la présente loi.
 
-[^98-2]: Modif. 4 du 13.09.2022: Introduction Art. 14, Al. 2; entrée en vigueur au 01.01.2023; Introduction Art. 22, Al. 1, d; entrée en vigueur au 01.01.2023; Modification Al. 4; entrée en vigueur au 01.01.2023; Introduction Art. 99a; entrée en vigueur au 01.01.2023; Introduction Art. 99b; entrée en vigueur au 01.01.2023
+[^98-2]: Modif. 4 du 13.09.2022: Modification Al. 4; entrée en vigueur au 01.01.2023
 [^99-1]: Loi fédérale du 04.10.1991 sur les forêts (RS 921.0)
-[^99-2]: Loi du 19.05.2009 sur les contraventions ([BLV 312.11](https://prestations.vd.ch/pub/blv-publication/actes/consolide/312.11?id=1b6bc951-dbb8-4926-aae9-8e0fdcc46bc3))
+
+#### Art. 99a
+
+**Amendes d'ordre - procédure [^99-2]**
+
+<sup>1</sup> La procédure d'amendes d'ordre prévue par la loi fédérale du 18 mars 2016 sur les amendes d'ordre (LAO; RS 314.1) est directement applicable aux contraventions au droit cantonal.
+
+[^99-2]: Modif. 4 du 13.09.2022: Introduction Art. 99a; entrée en vigueur au 01.01.2023
+
+#### Art. 99b
+
+**Amendes d'ordre - définition et montants [^99a-1]**
+
+<sup>1</sup> Le Conseil d'Etat définit les contraventions cantonales qui peuvent être sanctionnées par des amendes d'ordre et détermine le montant forfaitaire de ces dernières.
+
+[^99a-1]: Modif. 4 du 13.09.2022: Introduction Art. 99b; entrée en vigueur au 01.01.2023
 
 #### Art. 100
 
