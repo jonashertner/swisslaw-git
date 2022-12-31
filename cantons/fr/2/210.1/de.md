@@ -4,13 +4,13 @@ number: "210.1"
 title: Einführungsgesetz zum Schweizerischen Zivilgesetzbuch
 short: EGZGB
 language: de
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2020-06-24
+version: 2023-01-01
+valid_until: 2024-02-29
+version_adopted: 2021-11-05
 adopted: 2012-02-10
 in_force: 2013-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/210.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/7162/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7579/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Zivilgesetzbuch - Einführungsgesetz
 
 (EGZGB)
 
-vom 10.02.2012 (Fassung in Kraft getreten am 01.01.2022)
+vom 10.02.2012 (Fassung in Kraft getreten am 01.01.2023)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -388,7 +388,11 @@ beschliesst:
 
 **Herrenlose Sachen (ZGB 658, 664)**
 
-<sup>1</sup> Die als herrenlos im Grundbuch eingetragenen Sachen und diejenigen, an denen das Eigentum aufgegeben wurde, werden Eigentum des Staates.
+<sup>1</sup> Die als herrenlos im Grundbuch eingetragenen Sachen und diejenigen, an denen das Eigentum aufgegeben wurde, werden Eigentum der Gemeinde, auf deren Gebiet sie sich befinden.
+
+<sup>2</sup> Nach der Mitteilung entscheidet die Gemeinde, ob sie das Grundstück ihrem Verwaltungs- oder Finanzvermögen zuordnet.
+
+<sup>3</sup> Die letzte Eigentümerin oder der letzte Eigentümer des Grundstücks vor der Aufgabe des Eigentums bleibt für Schäden haftbar, die durch einen Baumangel oder mangelnde Wartung vor der Aufgabe des Eigentums entstanden sind.
 
 #### Art. 35
 
@@ -558,9 +562,9 @@ beschliesst:
 
 #### Art. 55
 
-**Öffentliche Wege (ZGB 695, 740)**
+**Öffentliche Durchgänge (ZGB 695, 740)**
 
-<sup>1</sup> Die öffentlichen Flurwege und Fusswege werden in der Gesetzgebung über die Strassen geregelt.
+<sup>1</sup> Die öffentlichen Durchgänge werden in der Gesetzgebung über die Mobilität geregelt.
 
 #### Art. 56
 
@@ -588,7 +592,7 @@ beschliesst:
 
 <sup>3</sup> Die Nachbarin oder der Nachbar hat stets das Recht, die Äste des Lebhags, die auf ihr oder sein Grundstück herüberhängen, zu kappen.
 
-<sup>4</sup> Für Lebhäge entlang öffentlicher Strassen bleibt die Strassengesetzgebung vorbehalten.
+<sup>4</sup> Für Hecken entlang öffentlicher Strassen bleibt die Mobilitätsgesetzgebung vorbehalten.
 
 #### Art. 59
 

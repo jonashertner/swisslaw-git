@@ -4,13 +4,13 @@ number: "210.1"
 title: "Loi d'application du code civil suisse"
 short: LACC
 language: fr
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2020-06-24
+version: 2023-01-01
+valid_until: 2024-02-29
+version_adopted: 2021-11-05
 adopted: 2012-02-10
 in_force: 2013-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/210.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7162/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7579/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Code civil - Loi d'application
 
 (LACC)
 
-du 10.02.2012 (version entrée en vigueur le 01.01.2022)
+du 10.02.2012 (version entrée en vigueur le 01.01.2023)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -388,7 +388,11 @@ Décrète:
 
 **Immeubles sans maître (CCS 658, 664)**
 
-<sup>1</sup> Les immeubles immatriculés comme biens sans maître et ceux qui ont fait l'objet d'une déréliction deviennent la propriété de l'Etat.
+<sup>1</sup> Les immeubles immatriculés comme biens sans maître et ceux qui ont fait l'objet d'une déréliction deviennent la propriété de la commune sur le territoire de laquelle ils se trouvent.
+
+<sup>2</sup> Une fois avisée, la commune décide d'affecter l'immeuble à son patrimoine administratif ou financier.
+
+<sup>3</sup> Le dernier ou la dernière propriétaire de l'immeuble avant la déréliction demeure responsable d'un dommage résultant d'un vice de construction ou d'un défaut d'entretien antérieur à son abandon.
 
 #### Art. 35
 
@@ -558,9 +562,9 @@ Décrète:
 
 #### Art. 55
 
-**Chemins et sentiers publics (CCS 695, 740)**
+**Passages publics (CCS 695, 740)**
 
-<sup>1</sup> Les chemins publics de dévestiture et les sentiers publics sont régis par la législation sur les routes.
+<sup>1</sup> Les passages publics sont régis par la législation sur la mobilité.
 
 #### Art. 56
 
@@ -588,7 +592,7 @@ Décrète:
 
 <sup>3</sup> Le voisin ou la voisine a toujours le droit d'élaguer les branches de la haie qui avancent sur son fonds.
 
-<sup>4</sup> La législation sur les routes demeure réservée pour les haies vives qui bordent les routes publiques.
+<sup>4</sup> La législation sur la mobilité demeure réservée pour les haies vives qui bordent les routes publiques.
 
 #### Art. 59
 
