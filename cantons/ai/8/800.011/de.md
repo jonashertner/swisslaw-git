@@ -4,13 +4,13 @@ number: "800.011"
 title: Standeskommissionsbeschluss über die Pflegefinanzierung
 short: StKB Pflegefinanzierung
 language: de
-version: 2022-01-02
-valid_until: 2022-12-31
-version_adopted: 2021-12-29
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2022-11-22
 adopted: 2010-11-30
 in_force: 2011-01-01
 url: "https://ai.clex.ch/app/de/texts_of_law/800.011"
-pdf: "https://ai.clex.ch/api/de/versions/2094/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/2170/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://ai.clex.ch/api/de/versions/2094/pdf_file"
 
 (StKB Pflegefinanzierung)
 
-vom 30.11.2010 (Stand 02.01.2022)
+vom 30.11.2010 (Stand 01.01.2023)
 
 Die Standeskommission des Kantons Appenzell I. Rh.,
 
