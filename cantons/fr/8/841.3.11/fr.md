@@ -4,13 +4,13 @@ number: "841.3.11"
 title: "Arrêté d'exécution de la loi du 16 novembre 1965 sur les prestations complémentaires à l'assurance-vieillesse, survivants et invalidité, modifiée par celle du 11 novembre 1970"
 short: AEPC
 language: fr
-version: 2019-01-01
-valid_until: 2022-12-31
-version_adopted: 2018-12-10
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2022-11-08
 adopted: 1971-03-19
 in_force: 1971-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/841.3.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7441/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7715/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Prestations complémentaires à l'AVS/AI – A
 
 (AEPC)
 
-du 19.03.1971 (version entrée en vigueur le 01.01.2019)
+du 19.03.1971 (version entrée en vigueur le 01.01.2023)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -98,16 +98,20 @@ Arrête:
 
 - a) Etablissements médico-sociaux reconnus (EMS reconnus): — Fr. 160
 - b) Institutions spécialisées reconnues: — Fr. 140
-- c) Etablissements médico-sociaux admis à pratiquer à la charge de l'assurance obligatoire des soins (EMS admis AOS): — Fr. 135.10
-- d) Autres établissements: — Fr. 113.50
+- c) Etablissements médico-sociaux admis à pratiquer à la charge de l'assurance obligatoire des soins (EMS admis AOS)[^5quater-1]: — Fr. 138.10
+- d) Autres établissements [^5quater-2]: — Fr. 116.50
 
 <sup>2</sup> Dans les limites maximales fixées à l'alinéa 1, les critères suivants sont également applicables:
 
 - a) pour tous les EMS, la participation des pensionnaires au coût des soins est définie par l'article 2 al. 1 de la loi du 9 décembre 2010 d'application de la loi fédérale sur le nouveau régime de financement des soins;
-- b) pour les EMS reconnus au sens de la loi sur les prestations médico-sociales, les frais socio-hôteliers sont admis jusqu'à concurrence d'une taxe journalière de référence s'élevant à 105 francs pour l'ensemble des niveaux de soins; les frais d'accompagnement sont pris en considération jusqu'à concurrence du prix fixé conformément à l'article 25 al. 2 du règlement du 23 janvier 2018 sur les prestations médico-sociales;
+- b) pour les EMS reconnus au sens de la loi sur les prestations médico-sociales, les frais socio-hôteliers sont admis jusqu'à concurrence d'une taxe journalière de référence s'élevant à 108 francs[^5quater-3] pour l'ensemble des niveaux de soins; les frais d'accompagnement sont pris en considération jusqu'à concurrence du prix fixé conformément à l'article 25 al. 2 du règlement du 23 janvier 2018 sur les prestations médico-sociales;
 - c) pour les institutions spécialisées reconnues au sens de la loi d'aide aux institutions spécialisées pour personnes handicapées ou inadaptées, est prise en compte la taxe de référence fixée par la Direction de la santé et des affaires sociales;
 - d) pour les EMS admis AOS au sens de la loi sur les prestations médico-sociales, les frais socio-hôteliers sont admis jusqu'à concurrence de la taxe journalière maximale prévue à l'alinéa 1 let. d pour l'ensemble des niveaux de soins;
 - e) pour les autres établissements au sens de l'alinéa 1 let. d, des frais de soins facturés pour les pensionnaires bénéficiant d'une allocation pour impotent de l'AVS, de l'AI ou de l'AA peuvent être pris en compte, en plus de la limite fixée, jusqu'à concurrence du montant de ladite allocation.
+
+[^5quater-1]: Note d'auteur: Ce montant a été adapté pour tenir compte de l'augmentation des coûts de l'énergie pour 2023. Il entre en vigueur au 1<sup>er</sup> janvier 2023 et reste en vigueur jusqu'au 31 décembre 2023 (cf. ROF 2022\_114).
+[^5quater-2]: Note d'auteur: Ce montant a été adapté pour tenir compte de l'augmentation des coûts de l'énergie pour 2023. Il entre en vigueur au 1<sup>er</sup> janvier 2023 et reste en vigueur jusqu'au 31 décembre 2023 (cf. ROF 2022\_114).
+[^5quater-3]: Note d'auteur: Ce montant a été adapté pour tenir compte de l'augmentation des coûts de l'énergie pour 2023. Il entre en vigueur au 1<sup>er</sup> janvier 2023 et reste en vigueur jusqu'au 31 décembre 2023 (cf. ROF 2022\_114).
 
 #### Art. 5quinquies
 

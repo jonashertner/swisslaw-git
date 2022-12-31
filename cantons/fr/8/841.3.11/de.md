@@ -4,13 +4,13 @@ number: "841.3.11"
 title: "Ausführungsverordnung zum Gesetz vom 16. November 1965 über die Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung, abgeändert durch das Gesetz vom 11. November 1970"
 short: AVEL
 language: de
-version: 2019-01-01
-valid_until: 2022-12-31
-version_adopted: 2018-12-10
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2022-11-08
 adopted: 1971-03-19
 in_force: 1971-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/841.3.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/7441/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7715/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Ergänzungsleistungen zur AHV/IV – V
 
 (AVEL)
 
-vom 19.03.1971 (Fassung in Kraft getreten am 01.01.2019)
+vom 19.03.1971 (Fassung in Kraft getreten am 01.01.2023)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -98,16 +98,20 @@ beschliesst:
 
 - a) Anerkannte Pflegeheime: — Fr. 160
 - b) Anerkannte Sondereinrichtungen: — Fr. 140
-- c) Pflegeheime, die zur Tätigkeit zulasten der obligatorischen Krankenpflegeversicherung zugelassen sind (OKP-Pflegeheime): — Fr. 135.10
-- d) Andere Einrichtungen: — Fr. 113.50
+- c) Pflegeheime, die zur Tätigkeit zulasten der obligatorischen Krankenpflegeversicherung zugelassen sind (OKP-Pflegeheime)[^5quater-1]: — Fr. 138.10
+- d) Andere Einrichtungen[^5quater-2]: — Fr. 116.50
 
 <sup>2</sup> Innerhalb der Höchstgrenzen nach Absatz 1 gelten auch die folgenden Kriterien:
 
 - a) Für alle Pflegeheime wird der Beitrag der Bewohnerinnen und Bewohner an die Pflegekosten in Artikel 2 Abs. 1 des Ausführungsgesetzes vom 9. Dezember 2010 zum Bundesgesetz über die Neuordnung der Pflegefinanzierung bestimmt.
-- b) Für anerkannte Pflegeheime im Sinne des Gesetzes über die sozialmedizinischen Leistungen werden die Beherbergungskosten bis zu einer Referenz-Tagestaxe von 105 Franken für alle Pflegestufen zugelassen; die Betreuungskosten werden bis zum Preis, der gemäss Artikel 25 Abs. 2 des Ausführungsreglements vom 23. Januar 2018 über die sozialmedizinischen Leistungen festgelegt wird, berücksichtigt.
+- b) Für anerkannte Pflegeheime im Sinne des Gesetzes über die sozialmedizinischen Leistungen werden die Beherbergungskosten bis zu einer Referenz-Tagestaxe von 108 Franken[^5quater-3] für alle Pflegestufen zugelassen; die Betreuungskosten werden bis zum Preis, der gemäss Artikel 25 Abs. 2 des Ausführungsreglements vom 23. Januar 2018 über die sozialmedizinischen Leistungen festgelegt wird, berücksichtigt.
 - c) Für anerkannte Sondereinrichtungen im Sinne des Gesetzes für Hilfe an Sonderheime für Behinderte oder Schwererziehbare wird die von der Direktion für Gesundheit und Soziales festgelegte Referenz-Tagestaxe berücksichtigt.
 - d) Für die OKP-Pflegeheime im Sinne des Gesetzes über die sozialmedizinischen Leistungen werden die Beherbergungskosten bis zur Höchst-Tagestaxe gemäss Absatz 1 Bst. d für alle Pflegestufen zugelassen.
 - e) Für die übrigen Einrichtungen im Sinne von Absatz 1 Bst. d können Pflegekosten für Bewohnerinnen und Bewohner mit einer Hilflosenentschädigung der AHV, der IV oder der Unfallversicherung zusätzlich zur festgelegten Grenze bis zum Betrag der besagten Entschädigung übernommen werden.
+
+[^5quater-1]: Dieser Betrag wurde angepasst, um den Anstieg der Energiekosten für 2023 zu berücksichtigen. Er tritt am 1. Januar 2023 in Kraft und bleibt bis zum 31. Dezember 2023 in Kraft (vgl. ROF 2022\_114).
+[^5quater-2]: Dieser Betrag wurde angepasst, um den Anstieg der Energiekosten für 2023 zu berücksichtigen. Er tritt am 1. Januar 2023 in Kraft und bleibt bis zum 31. Dezember 2023 in Kraft (vgl. ROF 2022\_114).
+[^5quater-3]: Dieser Betrag wurde angepasst, um den Anstieg der Energiekosten für 2023 zu berücksichtigen. Er tritt am 1. Januar 2023 in Kraft und bleibt bis zum 31. Dezember 2023 in Kraft (vgl. ROF 2022\_114).
 
 #### Art. 5quinquies
 
