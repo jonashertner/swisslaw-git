@@ -3,20 +3,19 @@ canton: SO
 number: "614.61"
 title: Gesetz über die Steuern und Gebühren für Motorfahrzeuge und Fahrräder
 language: de
-version: 2021-01-01
-valid_until: 2022-12-31
-version_adopted: 2020-06-23
+version: 2023-01-01
+version_adopted: 2022-06-28
 adopted: 1961-07-23
 in_force: 1963-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/614.61"
-pdf: "https://bgs.so.ch/api/de/versions/4993/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5302/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Gesetz über die Steuern und Gebühren für Motorfahrzeuge und Fahrräder
 
-Vom 23.07.1961 (Stand 01.01.2021)
+Vom 23.07.1961 (Stand 01.01.2023)
 
 Der Kantonsrat von Solothurn
 
@@ -46,7 +45,7 @@ beschliesst:
 
 <sup>1</sup> Der Steuer- und Gebührenertrag ist für den Strassenbau und -unterhalt sowie für die Deckung der Verwaltungskosten der Motorfahrzeugkontrolle und der Verkehrsabteilung der Kantonspolizei und anderer Auslagen für das Motorfahrzeug- und Fahrradwesen zu verwenden.
 
-<sup>2</sup> Die Investitionsbeiträge nach § 7 Absätze 2 und 3 des Gesetzes über den öffentlichen Verkehr[^5-1] sind aus dem Steuer- und Gebührenertrag zu finanzieren.
+<sup>2</sup> Die Investitionsbeiträge nach § 9 des Gesetzes über den öffentlichen Verkehr (ÖVG) vom 28.06.2022[^5-1] sind aus dem Steuer- und Gebührenertrag zu finanzieren.
 
 <sup>3</sup> Über die Zuordnung der Motorfahrzeugsteuererträge zu den Verwendungszwecken gemäss Absatz 1 und 2 entscheidet der Kantonsrat im Rahmen des Voranschlags.
 
