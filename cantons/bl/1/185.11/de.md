@@ -4,13 +4,13 @@ number: "185.11"
 title: Finanzausgleichsverordnung
 short: FAV
 language: de
-version: 2022-06-21
-valid_until: 2022-12-31
-version_adopted: 2022-06-21
+version: 2023-01-01
+valid_until: 2024-12-31
+version_adopted: 2022-09-27
 adopted: 2016-03-15
 in_force: 2016-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/185.11"
-pdf: "https://bl.clex.ch/api/de/versions/3356/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3659/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3356/pdf_file"
 
 (FAV)
 
-Vom 15.03.2016 (Stand 21.06.2022)
+Vom 15.03.2016 (Stand 01.01.2023)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -38,7 +38,7 @@ beschliesst:
 
 <sup>1</sup> Diese Verordnung regelt den Vollzug des Finanzausgleichsgesetzes (FAG) vom 25. Juni 2009[^1-1].
 
-<sup>2</sup> Sie wird vom Statistischen Amt (kurz: Amt) vollzogen.
+<sup>2</sup> Sie wird vom Amt für Daten und Statistik (kurz: Amt) vollzogen.
 
 [^1-1]: [SGS 185](https://bl.clex.ch/data/185/de)
 
@@ -73,6 +73,8 @@ beschliesst:
 - i. die Kosten für die Mitglieder der Vorstände der Schulleitungskonferenzen Primarstufe und Musikschulen gemäss den §§ 11 bzw. 18a der Verordnung vom 13. Mai 2003[^4-3] für die Schulleitungen und die Schulsekretariate,
 - j. die Beiträge der Einwohnergemeinden gemäss den §§ 7e Abs. 3 und 4 sowie § 30 Abs. 2 der Anmeldungs- und Registerverordnung vom 13. Mai 2014[^4-4].
 
+<sup>1<sup>bis</sup></sup> Gleichzeitig verfügt der Regierungsrat das Ausgleichsniveau für das Folgejahr.
+
 <sup>2</sup> Die Beiträge werden den Einwohnergemeinden Anfang August ausgerichtet bzw. belastet.
 
 [^4-1]: [SGS 833](https://bl.clex.ch/data/833/de/art13)
@@ -98,7 +100,7 @@ beschliesst:
 
 <sup>1</sup> Die Steuererträge der Einwohnergemeinden richten sich nach den Gemeinderechnungen des Kalenderjahres, das dem Finanzausgleichsjahr vorangegangen ist (kurz: Rechnungsjahr).
 
-<sup>2</sup> Die Gemeinde übermittelt dem Amt bis zum 30. April den gemeinderätlichen Entwurf der Jahresrechnung in elektronischer Form. Zudem reicht sie diesen sowie eine Zusammenstellung der Daten für die Finanzausgleichsberechnung in Papierform ein. Erfolgt die Einreichung nicht fristgerecht, schätzt das Amt die Steuererträge ein.
+<sup>2</sup> Die Gemeinde übermittelt dem Amt bis zum 30. April den gemeinderätlichen Entwurf der Jahresrechnung in elektronischer Form via Webplattform. Zudem reicht sie den unterzeichneten Auszug mit den Steuerwerten im PDF-Format ein. Erfolgt die Einreichung nicht fristgerecht, schätzt das Amt die Steuererträge ein.
 
 <sup>3</sup> Nimmt eine Gemeinde die Steuerabgrenzung gemäss § 15 Abs. 2 der Gemeinderechnungsverordnung vom 14. Februar 2012[^6-1] nicht korrekt vor, korrigiert das Amt nach Rücksprache mit der Gemeinde die Steuererträge entsprechend.
 
@@ -106,17 +108,31 @@ beschliesst:
 
 <sup>5</sup> Die Einwohnerzahl richtet sich nach der mittleren Wohnbevölkerung gemäss der kantonalen Bevölkerungsstatistik im Rechnungsjahr.
 
-<sup>6</sup> Eine von der Gemeinde vorgenommene Anrechnung der Ertragssteuer an die Kapitalsteuer wird zurückgerechnet. Die Gemeinde reicht dem Amt die notwendigen Angaben unaufgefordert ein. Das Amt bestimmt das Mass der Zurückrechnung.
+<sup>6</sup> …
 
 [^6-1]: [SGS 180.10](https://bl.clex.ch/data/180.10/de/art15)
 
 #### § 7
 
-**Ausgleichsniveau**
+**Festlegung Ausgleichsniveau**
 
-<sup>1</sup> Das Ausgleichsniveau für die Jahre 2022–2024 beträgt CHF 2‘660.–.
+<sup>1</sup> Das Ausgleichsniveau für das Folgejahr wird in der Regel so festgelegt, dass ausgehend von der aktuellen Steuerertragsprognose und einem Fondsbestand:
 
-<sup>2</sup> Es kann während seiner Dauer bei erhöhter Steuerkraft rückwirkend angepasst werden.
+- a. von weniger als CHF -15 Mio. mit einer Fondseinlage von CHF 5 Mio.,
+- b. zwischen CHF -15 Mio. und CHF -5 Mio. mit einer Fondseinlage von CHF 2,5 Mio.,
+- c. zwischen CHF -5 Mio. und CHF 5 Mio. mit keiner Fondseinlage und keiner Fondsentnahme,
+- d. zwischen CHF 5 Mio. und CHF 15 Mio. mit einer Fondsentnahme von CHF 2,5 Mio.,
+- e. von mehr als CHF 15 Mio. mit einer Fondsentnahme von CHF 5 Mio.
+
+<sup>2</sup> Das Ausgleichsniveau soll dabei von Jahr zu Jahr nicht um mehr als CHF 50.– zu- oder abnehmen.
+
+#### § 7b
+
+**Anpassung des Ausgleichsniveaus**
+
+<sup>1</sup> Der Ausgleichsfonds darf einen Bestand von CHF -25 Mio. nicht unterschreiten und einen Bestand von CHF 25 Mio. nicht überschreiten.
+
+<sup>2</sup> Sollte Abs. 1 im Finanzausgleichsjahr aufgrund des im Vorjahr festgelegten Ausgleichsniveaus nicht erfüllt sein, wird das Ausgleichsniveau entsprechend angepasst.
 
 ## 3 Härtebeitrag
 
