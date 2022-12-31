@@ -3,11 +3,10 @@ canton: ZH
 number: "414.253.511"
 title: Studienordnung für den Bachelorstudiengang in Angewandter Psychologie an der Zürcher Hochschule für Angewandte Wissenschaften
 language: de
-version: "2017-06-01"
-nachtrag: "97"
-valid_until: 2023-01-01
+version: "2023-01-01"
+nachtrag: "119"
 adopted: 2009-06-04
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_511-2009_06_04-2009_08_01-097.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_511-2009_06_04-2009_08_01-119.html"
 text: pdf
 ---
 
@@ -52,7 +51,7 @@ Einzelheiten zum Studiengang, insbesondere zu den zu belegenden Modulen, werden 
 
 <sup>3</sup> Ein Wechsel vom Vollzeit- ins Teilzeitstudium oder umgekehrt ist schriftlich bei der Studienleitung zu beantragen.
 
-[^2-1]: Aufgehoben durch B vom 23. Februar 2017 (OS 72, 333; ABl 2017-04-07). In Kraft seit 1. Juni 2017. 1. 7. 17 - 97 5
+[^2-1]: Aufgehoben durch B vom 23. Februar 2017 (OS 72, 333; ABl 2017-04-07). In Kraft seit 1. Juni 2017.
 [^2-2]: Fassung gemäss B vom 23. Februar 2017 (OS 72, 333; ABl 2017-04-07). In Kraft seit 1. Juni 2017.
 
 #### § 5
@@ -65,7 +64,7 @@ Einzelheiten zum Studiengang, insbesondere zu den zu belegenden Modulen, werden 
 
 **1**
 
-- 1\. 7. 17 - 97
+- 1\. 1. 23 - 119
 
 ### B. Zulassung zum Studium
 
@@ -167,7 +166,7 @@ Das Angebot des Studiengangs setzt sich zusammen aus Pflichtmodulen sowie Wahlpf
 
 **3**
 
-- 1\. 7. 17 - 97 § 16.[^14-1] <sup>1</sup> Das Praktikum dient der Umsetzung und Vertiefung der im Verlauf des Studiums erworbenen Kenntnisse und Kompetenzen.
+- 1\. 1. 23 - 119 § 16.[^14-1] <sup>1</sup> Das Praktikum dient der Umsetzung und Vertiefung der im Verlauf des Studiums erworbenen Kenntnisse und Kompetenzen.
 
 **Praktikum**
 
@@ -181,9 +180,9 @@ Das Angebot des Studiengangs setzt sich zusammen aus Pflichtmodulen sowie Wahlpf
 
 **Titel**
 
-§ 17.[^hEStudienabschluss-1] Das Bachelorstudium wird mit dem Titel «Bachelor of Science ZFH in Angewandter Psychologie» abgeschlossen.
+§ 17.[^hEStudienabschluss-1] Das Bachelorstudium wird mit dem Titel «Bachelor of Science ZHAW in Angewandter Psychologie» abgeschlossen.
 
-[^hEStudienabschluss-1]: Fassung gemäss B vom 23. Februar 2017 (OS 72, 333; ABl 2017-04-07). In Kraft seit 1. Juni 2017.
+[^hEStudienabschluss-1]: Fassung gemäss B vom 2. Juni 2022 (OS 77, 506; ABl 2022-08-19). In Kraft seit 1. Januar 2023. 1. 1. 23 - 119 5
 
 #### § 18
 
@@ -223,9 +222,10 @@ Die Abschlussnote errechnet sich aus dem Durchschnitt sämtlicher Noten in Pflic
 
 § 22.[^hGÜbergangsbestimmu-1] <sup>1</sup> Studierende, die ihr Studium vor dem Herbstsemester 2017/ 2018 aufgenommen und zu diesem Zeitpunkt bereits Credits aus Modulen der Vertiefungsrichtungen erworben haben, setzen das Studium nach den Studienmodellen und Vertiefungen gemäss der vor der Änderung vom 23. Februar 2017 geltenden Regelung fort und schliessen mit jenen Vertiefungstiteln ab.
 
-<sup>2</sup> Studierende, die ihr Studium bis zum Ende des Herbstsemesters 2018/2019 nicht abgeschlossen haben, werden der Studienordnung gemäss Änderung vom 23. Februar 2017 unterstellt und schliessen ihr Studium mit dem Titel «Bachelor of Science ZFH in Angewandter Psychologie» ab.
+<sup>2</sup> Studierende, die ihr Studium bis zum Ende des Herbstsemesters 2018/2019 nicht abgeschlossen haben, werden der Studienordnung gemäss Änderung vom 23. Februar 2017 unterstellt und schliessen ihr Studium mit dem Titel «Bachelor of Science ZHAW in Angewandter Psychologie» ab.[^hGÜbergangsbestimmu-2]
 
 [^hGÜbergangsbestimmu-1]: Eingefügt durch B vom 23. Februar 2017 (OS 72, 333; ABl 2017-04-07). In Kraft seit 1. Juni 2017.
+[^hGÜbergangsbestimmu-2]: Fassung gemäss B vom 2. Juni 2022 (OS 77, 506; ABl 2022-08-19). In Kraft seit 1. Januar 2023. 1. 1. 23 - 119 5
 
 ### Anhang zur Studienordnung für den Bachelorstudiengang in Angewandter Psychologie an der Zürcher Hochschule für Angewandte Wissenschaften
 
@@ -233,6 +233,6 @@ Die Abschlussnote errechnet sich aus dem Durchschnitt sämtlicher Noten in Pflic
 
 Der Anhang zur Studienordnung für den Bachelorstudiengang in Angewandter Psychologie an der Zürcher Hochschule für Angewandte Wissenschaften wird weder in die Offizielle Gesetzessammlung (OS) noch in die Zürcher Loseblattsammlung (LS) aufgenommen. Er kann bei der
 
-Zürcher Hochschule für Angewandte Wissenschaften Ressort Lehre Gertrudstrasse 15 Postfach 8400 Winterthur
+Zürcher Hochschule für Angewandte Wissenschaften Ressort Bildung Gertrudstrasse 15 Postfach 8400 Winterthur
 
 bezogen oder unter (www.zhaw.ch) eingesehen werden.
