@@ -3,11 +3,11 @@ sr: "361.2"
 title: "Ordonnance du 15 octobre 2008 sur le système informatisé de gestion et d'indexation de dossiers et de personnes de l'Office fédéral de la police (Ordonnance IPAS)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/700"
 language: fr
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2008-10-15
 in_force: 2008-12-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/700/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-700-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/700/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/700/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-700-20230101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/700/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/700/20220101/fr"
 
 (Ordonnance IPAS)
 
-du 15 octobre 2008 (Etat le 1<sup>er</sup> janvier 2022)
+du 15 octobre 2008 (Etat le 1<sup>er</sup> janvier 2023)
 
 Le Conseil fédéral suisse,
 
@@ -391,7 +391,7 @@ Annexe 2*[^t-1]*
 
 ## Droits d’accès à IPAS
 
-[^t-1]: Nouvelle teneur selon l’annexe 4 ch. II 16 de l’O du 4 déc. 2009 sur le Service de renseignement de la Confédération ([RO 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)). Mise à jour par l’annexe ch. 8 de l’O du 7 nov. 2012 sur la protection extraprocédurale des témoins, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6731](https://fedlex.data.admin.ch/eli/oc/2012/815)).
+[^t-1]: Nouvelle teneur selon l’annexe 4 ch. II 16 de l’O du 4 déc. 2009 sur le Service de renseignement de la Confédération ([RO 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)). Mise à jour par l’annexe ch. 8 de l’O du 7 nov. 2012 sur la protection extraprocédurale des témoins ([RO 2012 6731](https://fedlex.data.admin.ch/eli/oc/2012/815)) et l’annexe 2 ch. 7 de l’O du 25 mai 2022 sur les précurseurs de substances explosibles, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)).
 
 G = Get (visualiser)
 
@@ -405,7 +405,7 @@ A = Add (visualiser, introduire des données, modifier et effacer les données s
 <tr><td>Division nationale Systèmes de police</td><td>G</td><td></td><td colspan="3">G</td><td colspan="2"></td><td>G</td><td>G</td><td colspan="3">G</td><td colspan="2">G</td><td>G</td><td>G</td><td colspan="3">G</td><td colspan="2">G</td><td>G</td><td>G</td><td colspan="3">G</td><td colspan="2">G</td><td>G</td><td>G</td><td colspan="3">G</td><td colspan="2"></td><td>G</td><td>G</td><td colspan="3">G</td><td colspan="2"></td><td>A</td></tr>
 <tr><td>Division AFIS-ADN</td><td>A</td><td>A</td><td colspan="3">A</td><td colspan="2">A</td><td>A</td><td>G</td><td colspan="3">G</td><td colspan="2">G</td><td>A</td><td>G</td><td colspan="3">G</td><td colspan="2">G</td><td>A</td><td>G</td><td colspan="3">G</td><td colspan="2">G</td><td>A</td><td>G</td><td colspan="3">G</td><td colspan="2"></td><td>A</td><td>G</td><td colspan="3">G</td><td colspan="2"></td><td>A</td></tr>
 <tr><td>Section Documents d’identité et recherches de personnes disparues</td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>A</td><td>G</td><td colspan="3">G</td><td colspan="2"></td><td>A</td><td>G</td><td colspan="3">G</td><td colspan="2"></td><td>A</td><td>G</td><td colspan="3">G</td><td colspan="2"></td><td>A</td><td>A</td><td colspan="3">A</td><td colspan="2">A</td><td>A</td><td>A</td><td colspan="3">A</td><td colspan="2">A</td><td>A</td></tr>
-<tr><td>Offices centraux Armes/Explosifs et Pyrotechnie</td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>–</td></tr>
+<tr><td>Offices centraux des explosifs et des armes</td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>–</td></tr>
 <tr><td>Domaine Hooliganisme</td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>–</td></tr>
 </table>
 

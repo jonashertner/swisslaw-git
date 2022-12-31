@@ -3,11 +3,11 @@ sr: "361.2"
 title: "Ordinanza del 15 ottobre 2008 sul sistema informatizzato di gestione e indice informatizzato delle persone e dei fascicoli dell'Ufficio federale di polizia (Ordinanza IPAS)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/700"
 language: it
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2008-10-15
 in_force: 2008-12-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/700/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2008-700-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/700/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/700/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2008-700-20230101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/700/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/700/20220101/it"
 
 (Ordinanza IPAS)
 
-del 15 ottobre 2008 (Stato 1° gennaio 2022)
+del 15 ottobre 2008 (Stato 1° gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -385,13 +385,13 @@ Allegato 1
 - 9\. Oggetti (numero, tipo, osservazioni)
 - [tab]
 
-Allegato 2*[^t-1]*
+Allegato 2[^t-1]
 
 (art. 6 cpv. 2)
 
 ## Diritti d’accesso a IPAS
 
-[^t-1]: Nuovo testo giusta l’all. 4 n. II 16 dell’O del 4 dic. 2009 sul Servizio delle attività informative della Confederazione ([RU 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)). Aggiornato dall’all. n. 8 dell’O del 7 nov. 2012 sulla protezione extraprocessuale dei testimoni, in vigore dal 1° gen. 2013 ([RU 2012 6731](https://fedlex.data.admin.ch/eli/oc/2012/815)).
+[^t-1]: Nuovo testo giusta l’all. 4 n. II 16 dell’O del 4 dic. 2009 sul Servizio delle attività informative della Confederazione ([RU 2009 6937](https://fedlex.data.admin.ch/eli/oc/2009/848)). Aggiornato dall’all. n. 8 dell’O del 7 nov. 2012 sulla protezione extraprocessuale dei testimoni ([RU 2012 6731](https://fedlex.data.admin.ch/eli/oc/2012/815)) e dall’all. 2 n. 7 dell’O del 25 mag. 2022 sui precursori di sostanze esplodenti, in vigore dal 1° gen. 2023 ([RU 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)).
 
 G = Get (visualizzare)
 
@@ -405,7 +405,7 @@ A = Add (visualizzare, introdurre dati, modificare e cancellare i dati registrat
 <tr><td>Divisione Sistemi nazionali di polizia</td><td>G</td><td></td><td colspan="3">G</td><td colspan="2"></td><td>G</td><td>G</td><td colspan="3">G</td><td colspan="2">G</td><td>G</td><td>G</td><td colspan="3">G</td><td colspan="2">G</td><td>G</td><td>G</td><td colspan="3">G</td><td colspan="2">G</td><td>G</td><td>G</td><td colspan="3">G</td><td colspan="2"></td><td>G</td><td>G</td><td colspan="3">G</td><td colspan="2"></td><td>A</td></tr>
 <tr><td>Divisione AFIS-DNA</td><td>A</td><td>A</td><td colspan="3">A</td><td colspan="2">A</td><td>A</td><td>G</td><td colspan="3">G</td><td colspan="2">G</td><td>A</td><td>G</td><td colspan="3">G</td><td colspan="2">G</td><td>A</td><td>G</td><td colspan="3">G</td><td colspan="2">G</td><td>A</td><td>G</td><td colspan="3">G</td><td colspan="2"></td><td>A</td><td>G</td><td colspan="3">G</td><td colspan="2"></td><td>A</td></tr>
 <tr><td>Sezione Documenti d’identità e ricerca di persone scomparse</td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>A</td><td>G</td><td colspan="3">G</td><td colspan="2"></td><td>A</td><td>G</td><td colspan="3">G</td><td colspan="2"></td><td>A</td><td>G</td><td colspan="3">G</td><td colspan="2"></td><td>A</td><td>A</td><td colspan="3">A</td><td colspan="2">A</td><td>A</td><td>A</td><td colspan="3">A</td><td colspan="2">A</td><td>A</td></tr>
-<tr><td>Ufficio centrale Armi Ufficio centrale Esplosivi e pirotecnica</td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>–</td></tr>
+<tr><td>Uffici centrali Esplosivi e Armi</td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>–</td></tr>
 <tr><td>Settore Tifoseria violenta</td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>G</td><td></td><td colspan="3"></td><td colspan="2"></td><td>–</td></tr>
 </table>
 
@@ -505,3 +505,5 @@ PR Pratiche
 CO Contenuto
 
 GPA Sistema di gestione delle pratiche e degli atti di fedpol
+
+- [tab]
