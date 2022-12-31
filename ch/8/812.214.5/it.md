@@ -3,11 +3,11 @@ sr: "812.214.5"
 title: "Ordinanza del 14 settembre 2018 dell'Istituto svizzero per gli agenti terapeutici sui suoi emolumenti (OEm-Swissmedic)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/593"
 language: it
-version: 2021-01-01
+version: 2023-01-01
 adopted: 2018-09-14
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/593/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2018-593-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/593/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/593/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2018-593-20230101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/593/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/593/20210101/it"
 
 (OEm-Swissmedic)
 
-del 14 settembre 2018 (Stato 1° gennaio 2021) (Stato 1° gennaio 2021)
+del 14 settembre 2018 (Stato 1° gennaio 2023) (Stato 1° gennaio 2023)
 
 Approvata dal Consiglio federale il 21 settembre 2018
 
@@ -38,7 +38,7 @@ ordina:
 
 [^1-1]: [RS 810.21](https://fedlex.data.admin.ch/eli/cc/2007/279)
 [^1-2]: [RS 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)
-[^1-3]: RS **612.121**
+[^1-3]: [RS 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
 
 #### Art. 2
 
@@ -76,17 +76,20 @@ Per quanto la presente ordinanza non disponga altrimenti, si applicano le dispos
 
 #### Art. 6
 
-**Supplemento sugli emolumenti per procedura di omologazione accelerata**
+**Supplemento sugli emolumenti per procedura di omologazione accelerata**[^6-1]
 
-Nella procedura di omologazione accelerata (art. 7 dell’ordinanza del 21 settembre 2018[^6-1] sui medicamenti), gli emolumenti per le nuove omologazioni (allegato 1 n. 1), per le estensioni di omologazione (allegato 1 n. 4) e per indicazioni nuove o modificate (allegato 1 n. 5.1) sono maggiorati del 50 per cento.
+Nella procedura di omologazione accelerata (art. 7 dell’ordinanza del 21 settembre 2018[^6-2] sui medicamenti), gli emolumenti per le nuove omologazioni, per le estensioni di omologazione e per indicazioni nuove o modificate sono maggiorati del 50 per cento.
 
-[^6-1]: [RS 812.212.21](https://fedlex.data.admin.ch/eli/cc/2018/588)
+[^6-1]: Nuovo testo giusta il n. I dell’O del Consiglio dell’Istituto del 16 set. 2022, approvata dal CF il 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 601](https://fedlex.data.admin.ch/eli/oc/2022/601)).
+[^6-2]: [RS 812.212.21](https://fedlex.data.admin.ch/eli/cc/2018/588)
 
 #### Art. 7
 
-**Supplemento sugli emolumenti per procedura con preannuncio**
+**Supplemento sugli emolumenti per procedura con preannuncio**[^7-1]
 
-Per le nuove omologazioni (allegato 1 n. 1) e per le indicazioni nuove o modificate (allegato 1 n. 5.1), presentate nell’ambito di una procedura con preannuncio e trattate con un termine abbreviato del 20 per cento, gli emolumenti raddoppiano.
+Per le nuove omologazioni e per le indicazioni nuove o modificate, presentate nell’ambito di una procedura con preannuncio e trattate con un termine abbreviato del 20 per cento, gli emolumenti raddoppiano.
+
+[^7-1]: Nuovo testo giusta il n. I dell’O del Consiglio dell’Istituto del 16 set. 2022, approvata dal CF il 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 601](https://fedlex.data.admin.ch/eli/oc/2022/601)).
 
 #### Art. 8
 
@@ -104,13 +107,14 @@ Per le nuove omologazioni (allegato 1 n. 1) e per le indicazioni nuove o modific
 
 **Riduzione degli emolumenti per nuove omologazioni**
 
-L’emolumento per nuove omologazioni (allegato numero 1.1–1.3) non è riscosso su:
+L’emolumento per nuove omologazioni non è riscosso su:[^9-1]
 
-- a. medicamenti per uso umano importanti per malattie rare ai sensi dell’articolo 4 dell’ordinanza dell’Istituto svizzero per gli agenti terapeutici del 22 giugno 2006[^9-1] concernente l’omologazione semplificata di medicamenti e l’omologazione di medicamenti con procedura di notifica (OOSM);
+- a. medicamenti per uso umano importanti per malattie rare ai sensi dell’articolo 4 dell’ordinanza dell’Istituto svizzero per gli agenti terapeutici del 22 giugno 2006[^9-2] concernente l’omologazione semplificata di medicamenti e l’omologazione di medicamenti con procedura di notifica (OOSM);
 - b. medicamenti veterinari importanti per malattie rare di cui all’articolo 8 OOSM;
 - c. medicamenti con indicazione esclusivamente pediatrica.
 
-[^9-1]: [RS 812.212.23](https://fedlex.data.admin.ch/eli/cc/2006/558)
+[^9-1]: Nuovo testo giusta il n. I dell’O del Consiglio dell’Istituto del 16 set. 2022, approvata dal CF il 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 601](https://fedlex.data.admin.ch/eli/oc/2022/601)).
+[^9-2]: [RS 812.212.23](https://fedlex.data.admin.ch/eli/cc/2006/558)
 
 #### Art. 10
 
@@ -124,9 +128,11 @@ L’emolumento per nuove omologazioni (allegato numero 1.1–1.3) non è riscoss
 
 #### Art. 11
 
-**Riduzione degli emolumenti per domande collettive**
+**Riduzione degli emolumenti per domande collettive**[^11-1]
 
-Se la stessa variazione ai sensi dell’allegato 1 numeri 5, 6, 7 o 9.4 con documentazione dal contenuto identico è presentata contemporaneamente per più medicamenti (domanda collettiva), l’emolumento per il secondo e per ogni ulteriore medicamento è ridotto dell’80 per cento.
+Se la stessa variazione con documentazione dal contenuto identico è presentata contemporaneamente per più medicamenti (domanda collettiva), l’emolumento per il secondo e per ogni ulteriore medicamento è ridotto dell’80 per cento.
+
+[^11-1]: Nuovo testo giusta il n. I dell’O del Consiglio dell’Istituto del 16 set. 2022, approvata dal CF il 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 601](https://fedlex.data.admin.ch/eli/oc/2022/601)).
 
 #### Art. 12
 
@@ -136,9 +142,11 @@ Swissmedic può rinunciare interamente o in parte alla riscossione degli emolume
 
 #### Art. 13
 
-**Tetto massimo degli emolumenti per estensioni di omologazioni e modifiche**
+**Tetto massimo degli emolumenti per estensioni di omologazioni e modifiche**[^13-1]
 
-Se per un medicamento omologato sono richieste contemporaneamente una o più estensioni di omologazioni conformemente all’allegato 1 numero 4, o variazioni conformemente all’allegato 1 numeri 5, 6 e 7 (domanda multipla), Swissmedic riscuote al massimo l’emolumento che applicherebbe per la nuova omologazione di questo medicamento. Da questo importo sono esclusi i supplementi di cui all’articolo 5.
+Se per un medicamento omologato sono richieste contemporaneamente una o più estensioni di omologazioni o variazioni (domanda multipla), Swissmedic riscuote al massimo l’emolumento che applicherebbe per la nuova omologazione di questo medicamento. Da questo importo sono esclusi i supplementi di cui all’articolo 5.
+
+[^13-1]: Nuovo testo giusta il n. I dell’O del Consiglio dell’Istituto del 16 set. 2022, approvata dal CF il 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 601](https://fedlex.data.admin.ch/eli/oc/2022/601)).
 
 #### Art. 14
 
@@ -171,13 +179,13 @@ L’ordinanza del 2 dicembre 2011[^15-1] sugli emolumenti per gli agenti terapeu
 
 La presente ordinanza entra in vigore il 1° gennaio 2019.
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 (art. 4 cpv. 1)
 
 ## Emolumenti per medicamenti per uso umano e veterinario
 
-[^t-1]: Aggiornato dal n. I dell’O del Consiglio dell’Istituto del 30 ott. 2020, approvata dal CF il 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5433](https://fedlex.data.admin.ch/eli/oc/2020/945)).
+[^t-1]: Aggiornato dal n. I dell’O del Consiglio dell’Istituto del 30 ott. 2020, approvata dal CF il 25 nov. 2020 ([RU 2020 5433](https://fedlex.data.admin.ch/eli/oc/2020/945)) e dal n. II cpv. 1 dell’O del Consiglio dell’Istituto del 16 set. 2022, approvata dal CF il 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 601](https://fedlex.data.admin.ch/eli/oc/2022/601)).
 
 ### I. Emolumenti per omologazioni
 
@@ -191,7 +199,7 @@ Allegato 1*[^t-1]*
 <tr><td>2.1 Omologazione temporanea (art. 9*a* LATer)</td><td>80 000.–</td><td>2 000.–</td></tr>
 <tr><td>2.2 Medicamenti con principio attivo noto con innovazione (art. 14 cpv. 1 lett. a LATer)</td><td>30 000.–</td><td>5 000.–</td></tr>
 <tr><td>2.3 Medicamenti con principio attivo noto senza innovazione (art. 14 cpv. 1 lett. a LATer)</td><td>15 000.–</td><td>3 000.–</td></tr>
-<tr><td>2.4 Medicamenti fitoterapeutici (art. 14 cpv. 1 lett. c<sup>bis</sup> LATer)</td><td>5 000.–</td><td></td></tr>
+<tr><td>2.4 Medicamenti fitoterapeutici (art. 14 cpv. 1 lett. c<sup>bis</sup> LATer)</td><td>3 000.–</td><td></td></tr>
 <tr><td>2.5 Medicamenti complementari con indicazione (art. 14 cpv. 1 lett. b LATer)</td><td>3 000.–</td><td>3 000.–</td></tr>
 <tr><td>2.6 Medicamenti complementari senza indicazione (art. 14 cpv. 1 lett. b LATer)</td><td>1 500.–</td><td>1 500.–</td></tr>
 <tr><td>2.7 Medicamenti complementari senza indicazione con dossier in forma ridotta</td><td>500.–</td><td>500.–</td></tr>
@@ -208,29 +216,43 @@ Allegato 1*[^t-1]*
 <tr><td>3.3 Medicamenti complementari senza indicazione sulla base di un dossier di base dell’azienda e un Master-Dossier o un modello di documentazione della qualità omologati (art. 15 cpv. 1 lett. a LATer); per ogni 20 notifiche o parti di esse</td><td>200.–</td><td>200.–</td></tr>
 <tr><td>3.4 Medicamenti veterinari (art. 39 e 40 OOSM)</td><td>s. o.</td><td>500.–</td></tr>
 <tr><td>3.5 Co-marketing (art. 34 OOSM)</td><td>2 000.–</td><td>500.–</td></tr>
-<tr><td colspan="3">4 Emolumenti per estensioni di omologazioni</td></tr>
-<tr><td>4.1 Variazione della forma farmaceutica</td><td>25 000.–</td><td>3 000.–</td></tr>
-<tr><td>4.2 Variazione del principio attivo</td><td>15 000.–</td><td>3 000.–</td></tr>
+<tr><td colspan="3">4 Emolumenti per estensioni di omologazioni di medicamenti per uso umano</td></tr>
+<tr><td>4.1 Variazione della forma farmaceutica</td><td>25 000.–</td><td></td></tr>
+<tr><td>4.2 Variazione del principio attivo</td><td>15 000.–</td><td></td></tr>
 <tr><td>4.3 Variazione della biodisponibilità</td><td>15 000.–</td><td></td></tr>
 <tr><td>4.4 Variazione farmacocinetica (p.es. modifica della velocità di rilascio)</td><td>15 000.–</td><td></td></tr>
-<tr><td>4.5 Variazione o integrazione della posologia (= dosaggio)</td><td>15 000.–</td><td>3 000.–</td></tr>
-<tr><td>4.6 Variazione o aggiunta di un modo di somministrazione</td><td>15 000.–</td><td>3 000.–</td></tr>
+<tr><td>4.5 Variazione o integrazione della posologia (= dosaggio)</td><td>15 000.–</td><td></td></tr>
+<tr><td>4.6 Variazione o aggiunta di un modo di somministrazione</td><td>15 000.–</td><td></td></tr>
 <tr><td>4.7 Variazione a un organismo geneticamente modificato in un medicamento o di principi attivi fabbricati con procedura o tecnologie ricombinanti</td><td>15 000.–</td><td></td></tr>
-<tr><td>4.8 Variazione o integrazione di una specie di animali da reddito cui è destinato il medicamento.</td><td>s. o.</td><td>3 000.–</td></tr>
-<tr><td colspan="3">5 Emolumenti per variazioni importanti di tipo II**[^annex1-lvlu1-lvlI-2]**</td></tr>
-<tr><td>5.1 Indicazione nuova o modificata</td><td>15 000.–</td><td>2 500.–</td></tr>
-<tr><td>5.2 Posologia raccomandata nuova o modificata</td><td>10 000.–</td><td>2 500.–</td></tr>
-<tr><td>5.3 Variazione importante dell’informazione sul medicamento</td><td>5 000.–</td><td>2 000.–</td></tr>
-<tr><td>5.4 Variazione importante della qualità</td><td>5 000.–</td><td>2 000.–</td></tr>
-<tr><td>5.5 Trasferimento in un’altra categoria di dispensazione</td><td>5 000.–</td><td>2 000.–</td></tr>
-<tr><td>5.6 Altre variazioni importanti</td><td>2 000.–</td><td>2 000.–</td></tr>
-<tr><td>5.7 Variazione o integrazione di una specie di animali domestici cui è destinato il medicamento.</td><td>s. o.</td><td>2 000.–</td></tr>
-<tr><td>5.8 Variazione del tempo di attesa</td><td>s. o.</td><td>2 000.–</td></tr>
-<tr><td colspan="3">6 Emolumenti per variazioni di tipo IB</td></tr>
-<tr><td>6.1 Variazioni minori di tipo IB</td><td>750.–</td><td>750.–</td></tr>
-<tr><td colspan="3">7 Emolumenti per variazioni di tipo IA</td></tr>
-<tr><td>7.1 Variazioni minori di tipo IA, notifica immediatamente dopo l’attuazione della variazione</td><td>200.–</td><td>200.–</td></tr>
-<tr><td>7.2 Variazioni minori di tipo IA, notifica entro 12 mesi dall’attuazione della variazione</td><td>[tab] 200.–</td><td>[tab] 200.–</td></tr>
+<tr><td colspan="3">5 Emolumenti per variazioni importanti di tipo II di medicamenti per uso umano</td></tr>
+<tr><td>5.1 Indicazione nuova o modificata</td><td>25 000.–</td><td></td></tr>
+<tr><td>5.2 Posologia raccomandata nuova o modificata</td><td>10 000.–</td><td></td></tr>
+<tr><td>5.3 Variazione importante dell’informazione sul medicamento</td><td>4 000.–</td><td></td></tr>
+<tr><td>5.4 Variazione importante della qualità</td><td>3 500.–</td><td></td></tr>
+<tr><td>5.5 Trasferimento in un’altra categoria di dispensazione</td><td>5 000.–</td><td></td></tr>
+<tr><td>5.6 Altre variazioni importanti</td><td>5 000.–</td><td></td></tr>
+<tr><td colspan="3">6 Emolumenti per variazioni di tipo IB di medicamenti per uso umano</td></tr>
+<tr><td>6.1 Variazioni minori di tipo IB</td><td>750.–</td><td></td></tr>
+<tr><td>7 Emolumenti per variazioni di tipo IA di medicamenti per uso umano</td><td></td><td></td></tr>
+<tr><td>7.1 Variazioni minori di tipo IA, notifica immediatamente dopo l’attuazione della variazione</td><td>200.–</td><td></td></tr>
+<tr><td>7.2 Variazioni minori di tipo IA, notifica entro 12 mesi dall’attuazione della variazione</td><td>200.–</td><td>[tab]</td></tr>
+<tr><td colspan="3">7*a* Emolumenti per le modifiche con valutazione dei medicamenti veterinari</td></tr>
+<tr><td>7*a*.1 Variazione della forma farmaceutica</td><td>[tab]</td><td>3 000.–</td></tr>
+<tr><td>7*a*.2 Variazione del principio attivo</td><td></td><td>3 000.–</td></tr>
+<tr><td>7*a*.3 Variazione o integrazione della posologia (= dosaggio)</td><td></td><td>3 000.–</td></tr>
+<tr><td>7*a*.4 Variazione o aggiunta di un modo di somministrazione</td><td></td><td>3 000.–</td></tr>
+<tr><td>7*a*.5 Variazione o integrazione di una specie di animali da reddito cui è destinato il medicamento</td><td></td><td>3 000.–</td></tr>
+<tr><td>7*a*.6 Indicazione nuova o modificata</td><td></td><td>2 500.–</td></tr>
+<tr><td>7*a*.7 Posologia raccomandata nuova o modificata</td><td></td><td>2 500.–</td></tr>
+<tr><td>7*a*.8 Variazione importante dell’informazione sul medicamento</td><td></td><td>2 000.–</td></tr>
+<tr><td>7*a*.9 Variazione importante della qualità</td><td></td><td>2 000.–</td></tr>
+<tr><td>7*a*.10 Trasferimento in un’altra categoria di dispensazione</td><td></td><td>2 000.–</td></tr>
+<tr><td>7*a*.11 Altre variazioni importanti</td><td></td><td>2 000.–</td></tr>
+<tr><td>7*a*.12 Variazione o integrazione di una specie di animali domestici cui è destinato il medicamento</td><td></td><td>2 000.–</td></tr>
+<tr><td colspan="3">7*a*.13 Variazione del tempo di attesa</td></tr>
+<tr><td>7*a*.14 Altre variazioni minori</td><td></td><td>750.–</td></tr>
+<tr><td colspan="3">7*b* Emolumenti per le modifiche senza valutazione dei medicamenti veterinari</td></tr>
+<tr><td>7*b*.1 Modifica senza valutazione</td><td></td><td>200.–</td></tr>
 <tr><td colspan="3">8 Rinnovo e rinuncia</td></tr>
 <tr><td>8.1 Rinnovo dell’omologazione</td><td>500.–</td><td>500.–</td></tr>
 <tr><td>8.2 Rinuncia all’omologazione</td><td>300.–</td><td>300.–</td></tr>
@@ -242,7 +264,6 @@ Allegato 1*[^t-1]*
 </table>
 
 [^annex1-lvlu1-lvlI-1]: [RS 812.212.24](https://fedlex.data.admin.ch/eli/cc/2018/591)
-[^annex1-lvlu1-lvlI-2]: Regolamento (CE) n. 1234/2008 della Commissione, del 24 novembre 2008, concernente l’esame delle variazioni dei termini delle autorizzazioni all’immissione in commercio di medicinali per uso umano e di medicinali veterinari; GU L 334 del 12.12.2008, pag. 7; modificato da ultimo dal regolamento (UE) n. 712/2012, GU L 209 del 4.8.2012, pag. 4.
 
 ### II. Emolumenti per controlli di oneri di omologazione
 
@@ -250,7 +271,7 @@ Allegato 1*[^t-1]*
 <tr><th></th><th>Medicamenti per uso umano</th><th>Medicamenti veterinari</th></tr>
 <tr><td>1. Relazione periodica sulla sicurezza del medicamento e sul rapporto rischio-beneficio</td><td>3000.–</td><td>300.–</td></tr>
 <tr><td>2. Oneri relativi alla clinica o preclinica</td><td>3000.–</td><td>2000.–</td></tr>
-<tr><td>3. Oneri relativi alla qualità</td><td>1500.–</td><td>1000.–</td></tr>
+<tr><td>3. Oneri relativi alla qualità</td><td>1 000.–</td><td>750.–</td></tr>
 <tr><td>4. Aggiornamento di un Plasma Master File</td><td>3000.–</td><td>s. o.</td></tr>
 </table>
 
@@ -293,22 +314,25 @@ Allegato 1*[^t-1]*
 <tr><td>2. Allegato a un certificato (per ogni allegato)</td><td>100.–</td></tr>
 </table>
 
-Allegato 2
+Allegato 2[^t-2]
 
 (art. 4 cpv. 1)
 
 ## Emolumenti per dispositivi medici
 
+[^t-2]: Nuovo testo giusta il n. II cpv. 2 dell’O del Consiglio dell’Istituto del 16 set. 2022, approvata dal CF il 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 601](https://fedlex.data.admin.ch/eli/oc/2022/601)).
+
 <table>
 <tr><th></th><th>franchi</th></tr>
 <tr><td>1 Immissione in commercio</td><td></td></tr>
 <tr><td>1.1 Notifica per l’immissione in commercio di un dispositivo medico</td><td>300.–</td></tr>
-<tr><td>1.2 Deroga per l’immissione in commercio di dispositivi medici non conformi</td><td>1 000.–</td></tr>
 <tr><td>2 Autorizzazione di sperimentazioni cliniche</td><td></td></tr>
 <tr><td>2.1 Nuova sperimentazione clinica</td><td>5 000.–</td></tr>
-<tr><td>2.2 Variazione di una sperimentazione clinica</td><td>1 000.–</td></tr>
-<tr><td>3 Valutazione di conformità</td><td></td></tr>
-<tr><td>3.1 Prima denominazione o rinnovo della designazione di un organismo di valutazione della conformità</td><td>15 000.–</td></tr>
-<tr><td>3.2 Variazione della designazione di un organismo di valutazione della conformità</td><td>10 000.–</td></tr>
+<tr><td>2.2 Verifica semplificata di una sperimentazione clinica</td><td>1 500.–</td></tr>
+<tr><td>2.3 Variazione di una sperimentazione clinica</td><td>1 000.–</td></tr>
+<tr><td>3 Designazione di un organismo di valutazione della conformità</td><td></td></tr>
+<tr><td>3.1 Prima denominazione o rivalutazione della designazione di un organismo di valutazione della conformità</td><td>15 000.–</td></tr>
+<tr><td>3.2 Estensione della designazione di un organismo di valutazione della conformità</td><td>10 000.–</td></tr>
 <tr><td>4 Rilascio di un certificato di esportazione per un dispositivo medico</td><td>200.–</td></tr>
+<tr><td>5 Assegnazione di un numero di registrazione unico svizzero (CHRN) a un operatore economico</td><td>200.–</td></tr>
 </table>

@@ -3,11 +3,11 @@ sr: "812.214.5"
 title: Verordnung vom 14. September 2018 des Schweizerischen Heilmittelinstituts über seine Gebühren (GebV-Swissmedic)
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/593"
 language: de
-version: 2021-01-01
+version: 2023-01-01
 adopted: 2018-09-14
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/593/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2018-593-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/593/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/593/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2018-593-20230101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/593/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/593/20210101/de"
 
 (GebV-Swissmedic)
 
-vom 14. September 2018 (Stand am 1. Januar 2021)
+vom 14. September 2018 (Stand am 1. Januar 2023)
 
 Vom Bundesrat genehmigt am 21. September 2018
 
@@ -38,7 +38,7 @@ verordnet:
 
 [^1-1]: [SR 810.21](https://fedlex.data.admin.ch/eli/cc/2007/279)
 [^1-2]: [SR 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)
-[^1-3]: SR **612.121**
+[^1-3]: [SR 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
 
 #### Art. 2
 
@@ -76,17 +76,20 @@ Soweit diese Verordnung keine besondere Regelung enthält, gelten die Bestimmung
 
 #### Art. 6
 
-**Gebührenzuschlag für beschleunigtes Zulassungsverfahren**
+**Gebührenzuschlag für beschleunigtes Zulassungsverfahren**[^6-1]
 
-Im beschleunigten Zulassungsverfahren (Art. 7 der Arzneimittelverordnung vom 21. September 2018[^6-1]) erhöhen sich die Gebühren für Neuzulassungen (Anhang 1 Ziff. 1), Zulassungserweiterungen (Anhang 1 Ziff. 4) und für neue oder geänderte Indikationen (Anhang 1 Ziff. 5.1) um 50 Prozent.
+Im beschleunigten Zulassungsverfahren (Art. 7 der Arzneimittelverordnung vom 21. September 2018[^6-2]) erhöhen sich die Gebühren für Neuzulassungen, Zulassungserweiterungen und für neue oder geänderte Indikationen um 50 Prozent.
 
-[^6-1]: [SR 812.212.21](https://fedlex.data.admin.ch/eli/cc/2018/588)
+[^6-1]: Fassung gemäss Ziff. I der V des Institutsrats vom 16. Sept. 2022, vom BR genehmigt am 19. Okt. 2022 und in Kraft seit 1. Jan. 2023 ([AS 2022 601](https://fedlex.data.admin.ch/eli/oc/2022/601)).
+[^6-2]: [SR 812.212.21](https://fedlex.data.admin.ch/eli/cc/2018/588)
 
 #### Art. 7
 
-**Gebührenzuschlag für Verfahren mit Voranmeldung**
+**Gebührenzuschlag für Verfahren mit Voranmeldung**[^7-1]
 
-Für Neuzulassungen (Anhang 1 Ziff. 1) und für neue oder geänderte Indikationen (Anhang 1 Ziff. 5.1), die mit einer Voranmeldung eingereicht und mit einer um 20 Prozent verkürzten Frist bearbeitet werden, verdoppeln sich die Gebühren.
+Für Neuzulassungen und für neue oder geänderte Indikationen, die mit einer Voranmeldung eingereicht und mit einer um 20 Prozent verkürzten Frist bearbeitet werden, verdoppeln sich die Gebühren.
+
+[^7-1]: Fassung gemäss Ziff. I der V des Institutsrats vom 16. Sept. 2022, vom BR genehmigt am 19. Okt. 2022 und in Kraft seit 1. Jan. 2023 ([AS 2022 601](https://fedlex.data.admin.ch/eli/oc/2022/601)).
 
 #### Art. 8
 
@@ -104,13 +107,14 @@ Für Neuzulassungen (Anhang 1 Ziff. 1) und für neue oder geänderte Indikatione
 
 **Gebührenreduktionen für Neuzulassungen**
 
-Die Gebühr für Neuzulassungen (Anhang 1 Ziff. 1.1–1.3) wird erlassen für:
+Die Gebühr für Neuzulassungen wird erlassen für:[^9-1]
 
-- a. wichtige Humanarzneimittel für seltene Krankheiten nach Artikel 4 der Verordnung des Schweizerischen Heilmittelinstituts vom 22. Juni 2006[^9-1] über die vereinfachte Zulassung von Arzneimitteln und die Zulassung von Arzneimitteln im Meldeverfahren (VAZV);
+- a. wichtige Humanarzneimittel für seltene Krankheiten nach Artikel 4 der Verordnung des Schweizerischen Heilmittelinstituts vom 22. Juni 2006[^9-2] über die vereinfachte Zulassung von Arzneimitteln und die Zulassung von Arzneimitteln im Meldeverfahren (VAZV);
 - b. wichtige Tierarzneimittel für seltene Krankheiten nach Artikel 8 VAZV;
 - c. Arzneimittel mit ausschliesslich pädiatrischer Indikation.
 
-[^9-1]: [SR 812.212.23](https://fedlex.data.admin.ch/eli/cc/2006/558)
+[^9-1]: Fassung gemäss Ziff. I der V des Institutsrats vom 16. Sept. 2022, vom BR genehmigt am 19. Okt. 2022 und in Kraft seit 1. Jan. 2023 ([AS 2022 601](https://fedlex.data.admin.ch/eli/oc/2022/601)).
+[^9-2]: [SR 812.212.23](https://fedlex.data.admin.ch/eli/cc/2006/558)
 
 #### Art. 10
 
@@ -124,9 +128,11 @@ Die Gebühr für Neuzulassungen (Anhang 1 Ziff. 1.1–1.3) wird erlassen für:
 
 #### Art. 11
 
-**Gebührenreduktion für Sammelgesuche**
+**Gebührenreduktion für Sammelgesuche**[^11-1]
 
-Wird die gleiche Änderung nach Anhang 1 Ziffer 5, 6, 7 oder 9.4 mit inhaltlich identischer Dokumentation gleichzeitig für mehrere Arzneimittel beantragt (Sammelgesuch), so wird die Gebühr für das zweite und jedes weitere Arzneimittel um 80 Prozent reduziert.
+Wird die gleiche Änderung mit inhaltlich identischer Dokumentation gleichzeitig für mehrere Arzneimittel beantragt (Sammelgesuch), so wird die Gebühr für das zweite und jedes weitere Arzneimittel um 80 Prozent reduziert.
+
+[^11-1]: Fassung gemäss Ziff. I der V des Institutsrats vom 16. Sept. 2022, vom BR genehmigt am 19. Okt. 2022 und in Kraft seit 1. Jan. 2023 ([AS 2022 601](https://fedlex.data.admin.ch/eli/oc/2022/601)).
 
 #### Art. 12
 
@@ -136,9 +142,11 @@ Die Swissmedic kann auf die Erhebung von Gebühren ganz oder teilweise verzichte
 
 #### Art. 13
 
-**Gebührenplafonierung bei Zulassungserweiterungen und Änderungen**
+**Gebührenplafonierung bei Zulassungserweiterungen und Änderungen**[^13-1]
 
-Werden für ein zugelassenes Arzneimittel eine oder gleichzeitig mehrere Zulassungserweiterungen nach Anhang 1 Ziffer 4 oder Änderungen nach Anhang 1 Ziffern 5, 6 und 7 beantragt (Mehrfachgesuch), so wird höchstens die Gebühr erhoben, die für eine Neuzulassung dieses Arzneimittels erhoben würde. Davon ausgenommen sind Zuschläge nach Artikel 5.
+Werden für ein zugelassenes Arzneimittel eine oder gleichzeitig mehrere Zulassungserweiterungen oder Änderungen beantragt (Mehrfachgesuch), so wird höchstens die Gebühr erhoben, die für eine Neuzulassung dieses Arzneimittels erhoben würde. Davon ausgenommen sind Zuschläge nach Artikel 5.
+
+[^13-1]: Fassung gemäss Ziff. I der V des Institutsrats vom 16. Sept. 2022, vom BR genehmigt am 19. Okt. 2022 und in Kraft seit 1. Jan. 2023 ([AS 2022 601](https://fedlex.data.admin.ch/eli/oc/2022/601)).
 
 #### Art. 14
 
@@ -170,13 +178,13 @@ Die Heilmittel-Gebührenverordnung vom 2. Dezember 2011[^15-1] wird aufgehoben.
 
 Diese Verordnung tritt am 1. Januar 2019 in Kraft.
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 4 Abs. 1)
 
 ## Gebühren für Human- und Tierarzneimittel
 
-[^t-1]: Bereinigt gemäss Ziff. I der V des Institutsrats vom 30. Nov. 2020, vom BR genehmigt am 25. Nov. 2020 und in Kraft seit 1. Jan. 2021 ([AS 2020 5433](https://fedlex.data.admin.ch/eli/oc/2020/945)).
+[^t-1]: Bereinigt gemäss Ziff. I der V des Institutsrats vom 30. Nov. 2020, vom BR genehmigt am 25. Nov. 2020 ([AS 2020 5433](https://fedlex.data.admin.ch/eli/oc/2020/945)) und Ziff. II Abs. 1 der V des Institutsrats vom 16. Sept. 2022, vom BR genehmigt am 19. Okt. 2022 und in Kraft seit 1. Jan. 2023 ([AS 2022 601](https://fedlex.data.admin.ch/eli/oc/2022/601)).
 
 ### I. Gebühren für Zulassungen
 
@@ -190,7 +198,7 @@ Anhang 1*[^t-1]*
 <tr><td>2.1 Befristete Zulassung (Art. 9*a* HMG)</td><td>80 000.–</td><td>2 000.–</td></tr>
 <tr><td>2.2 Arzneimittel mit bekanntem Wirkstoff mit Innovation (Art. 14 Abs. 1 Bst. a HMG)</td><td>30 000.–</td><td>5 000.–</td></tr>
 <tr><td>2.3 Arzneimittel mit bekanntem Wirkstoff ohne Innovation (Art. 14 Abs. 1 Bst. a HMG)</td><td>15 000.–</td><td>3 000.–</td></tr>
-<tr><td>2.4 Phytoarzneimittel (Art. 14 Abs. 1 Bst. c<sup>bis</sup> HMG)</td><td>5 000.–</td><td></td></tr>
+<tr><td>2.4 Phytoarzneimittel (Art. 14 Abs. 1 Bst. c<sup>bis</sup> HMG)</td><td>3 000.–</td><td></td></tr>
 <tr><td>2.5 Komplementärarzneimittel mit Indikation (Art. 14 Abs. 1 Bst. b HMG)</td><td>3 000.–</td><td>3 000.–</td></tr>
 <tr><td>2.6 Komplementärarzneimittel ohne Indikation (Art. 14 Abs. 1 Bst. b HMG)</td><td>1 500.–</td><td>1 500.–</td></tr>
 <tr><td>2.7 Komplementärarzneimittel ohne Indikation mit einem reduzierten Dossier</td><td>500.–</td><td>500.–</td></tr>
@@ -207,29 +215,44 @@ Anhang 1*[^t-1]*
 <tr><td>3.3 Komplementärarzneimittel ohne Indikation, gestützt auf ein zugelassenes Firmenbasis- und Masterdossier oder eine Muster‑Qualitätsdokumentation (Art. 15 Abs. 1 Bst. a HMG); pro 20 Meldungen oder Teile davon</td><td>200.–</td><td>200.–</td></tr>
 <tr><td>3.4 Tierarzneimittel (Art. 39 und 40 VAZV)</td><td>n. a.</td><td>500.–</td></tr>
 <tr><td>3.5 Co-Marketing (Art. 34 VAZV)</td><td>2 000.–</td><td>500.–</td></tr>
-<tr><td colspan="3">4 Gebühren für Zulassungserweiterungen</td></tr>
-<tr><td>4.1 Änderung der Darreichungsform</td><td>25 000.–</td><td>3 000.–</td></tr>
-<tr><td>4.2 Änderung des Wirkstoffs</td><td>15 000.–</td><td>3 000.–</td></tr>
+<tr><td colspan="3">4 Gebühren für Zulassungserweiterungen bei Humanarzneimitteln</td></tr>
+<tr><td>4.1 Änderung der Darreichungsform</td><td>25 000.–</td><td></td></tr>
+<tr><td>4.2 Änderung des Wirkstoffs</td><td>15 000.–</td><td></td></tr>
 <tr><td>4.3 Änderung der Bioverfügbarkeit</td><td>15 000.–</td><td></td></tr>
 <tr><td>4.4 Pharmakokinetische Änderung (z. B. Änderung der Freigaberate)</td><td>15 000.–</td><td></td></tr>
-<tr><td>4.5 Änderung oder Ergänzung einer Dosierung (= Dosisstärke)</td><td>15 000.–</td><td>3 000.–</td></tr>
-<tr><td>4.6 Änderung oder Ergänzung eines Applikationsweges</td><td>15 000.–</td><td>3 000.–</td></tr>
+<tr><td>4.5 Änderung oder Ergänzung einer Dosierung (= Dosisstärke)</td><td>15 000.–</td><td></td></tr>
+<tr><td>4.6 Änderung oder Ergänzung eines Applikationsweges</td><td>15 000.–</td><td></td></tr>
 <tr><td>4.7 Änderung an einem gentechnisch veränderten Organismus in einem Arzneimittel oder von Wirkstoffen, die mit rekombinanten Technologien oder Verfahren hergestellt werden</td><td>15 000.–</td><td></td></tr>
-<tr><td>4.8 Änderung oder Ergänzung einer Zieltierart Nutztiere</td><td>n. a.</td><td>3 000.–</td></tr>
-<tr><td colspan="3">5 Gebühren für grössere Änderungen des Typs II**[^annex1-lvlu1-lvlI-2]**</td></tr>
-<tr><td>5.1 Neue oder geänderte Indikation</td><td>15 000.–</td><td>2 500.–</td></tr>
-<tr><td>5.2 Neue oder geänderte Dosierungsempfehlung</td><td>10 000.–</td><td>2 500.–</td></tr>
-<tr><td>5.3 Grössere Änderung der Arzneimittelinformation</td><td>5 000.–</td><td>2 000.–</td></tr>
-<tr><td>5.4 Grössere Änderung der Qualität</td><td>5 000.–</td><td>2 000.–</td></tr>
-<tr><td>5.5 Umteilung in eine andere Abgabekategorie</td><td>5 000.–</td><td>2 000.–</td></tr>
-<tr><td>5.6 Sonstige grössere Änderungen</td><td>5 000.–</td><td>2 000.–</td></tr>
-<tr><td>5.7 Änderung oder Ergänzung einer Zieltierart Heimtiere</td><td>n.a.</td><td>2 000.–</td></tr>
-<tr><td>5.8 Änderung der Absetzfrist</td><td>n.a.</td><td>2 000.–</td></tr>
-<tr><td colspan="3">6 Gebühren für Änderungen des Typs IB</td></tr>
-<tr><td>6.1 Geringfügige Änderungen des Typs IB</td><td>750.–</td><td>750.–</td></tr>
-<tr><td colspan="3">7 Gebühren für Änderungen des Typs IA</td></tr>
-<tr><td>7.1 Geringfügige Änderungen des Typs IA, Meldung unverzüglich nach Umsetzung der Änderung</td><td>200.–</td><td>200.–</td></tr>
-<tr><td>7.2 Geringfügige Änderungen des Typs IA, Meldung innert 12 Monaten nach Umsetzung der Änderung</td><td>200.–</td><td>200.–</td></tr>
+<tr><td colspan="3">5 Gebühren für grössere Änderungen des Typs II bei Humanarzneimitteln</td></tr>
+<tr><td>5.1 Neue oder geänderte Indikation</td><td>25 000.–</td><td></td></tr>
+<tr><td>5.2 Neue oder geänderte Dosierungsempfehlung</td><td>10 000.–</td><td></td></tr>
+<tr><td>5.3 Grössere Änderung der Arzneimittelinformation</td><td>4 000.–</td><td></td></tr>
+<tr><td>5.4 Grössere Änderung der Qualität</td><td>3 500.–</td><td></td></tr>
+<tr><td>5.5 Umteilung in eine andere Abgabekategorie</td><td>5 000.–</td><td></td></tr>
+<tr><td>5.6 Sonstige grössere Änderungen</td><td>5 000.–</td><td></td></tr>
+<tr><td colspan="3">6 Gebühren für Änderungen des Typs IB bei Humanarzneimitteln</td></tr>
+<tr><td>6.1 Geringfügige Änderungen des Typs IB</td><td>750.–</td><td></td></tr>
+<tr><td colspan="3">7 Gebühren für Änderungen des Typs IA bei Humanarzneimitteln</td></tr>
+<tr><td>7.1 Geringfügige Änderungen des Typs IA, Meldung unverzüglich nach Umsetzung der Änderung</td><td>200.–</td><td></td></tr>
+<tr><td>7.2 Geringfügige Änderungen des Typs IA, Meldung innert 12 Monaten nach Umsetzung der Änderung</td><td>200.–</td><td></td></tr>
+<tr><td colspan="3">7*a* Gebühren für Änderungen mit Bewertung bei Tierarzneimitteln</td></tr>
+<tr><td>7*a*.1 Änderung der Darreichungsform</td><td></td><td>3 000.–</td></tr>
+<tr><td>7*a*.2 Änderung des Wirkstoffs</td><td></td><td>3 000.–</td></tr>
+<tr><td>7*a*.3 Änderung oder Ergänzung einer Dosierung (= Dosisstärke)</td><td></td><td>3 000.–</td></tr>
+<tr><td>7*a*.4 Änderung oder Ergänzung eines Applikationsweges</td><td></td><td>3 000.–</td></tr>
+<tr><td>7*a*.5 Änderung oder Ergänzung einer Zieltierart Nutztiere</td><td></td><td>3 000.–</td></tr>
+<tr><td>7*a*.6 Neue oder geänderte Indikation</td><td></td><td>2 500.–</td></tr>
+<tr><td>7*a*.7 Neue oder geänderte Dosierungsempfehlung</td><td></td><td>2 500.–</td></tr>
+<tr><td>7*a*.8 Grössere Änderung der Arzneimittelinformation</td><td></td><td>2 000.–</td></tr>
+<tr><td>7*a*.9 Grössere Änderung der Qualität</td><td></td><td>2 000.–</td></tr>
+<tr><td>[tab]</td><td></td><td></td></tr>
+<tr><td>7*a*.10 Umteilung in eine andere Abgabekategorie</td><td></td><td>2 000.–</td></tr>
+<tr><td>7*a*.11 Sonstige grössere Änderungen</td><td></td><td>2 000.–</td></tr>
+<tr><td>7*a*.12 Änderung oder Ergänzung einer Zieltierart Heimtiere</td><td></td><td>2 000.–</td></tr>
+<tr><td>7*a*.13 Änderung der Absetzfrist</td><td></td><td>2 000.–</td></tr>
+<tr><td>7*a*.14 Sonstige geringfügige Änderungen</td><td></td><td>750.–</td></tr>
+<tr><td colspan="3">7*b* Gebühren für Änderungen ohne Bewertung bei Tierarzneimitteln</td></tr>
+<tr><td>7*b*.1 Änderung ohne Bewertung</td><td></td><td>200.–</td></tr>
 <tr><td colspan="3">8 Erneuerung und Verzicht</td></tr>
 <tr><td>8.1 Erneuerung der Zulassung</td><td>500.–</td><td>500.–</td></tr>
 <tr><td>8.2 Verzicht auf die Zulassung</td><td>300.–</td><td>300.–</td></tr>
@@ -241,7 +264,6 @@ Anhang 1*[^t-1]*
 </table>
 
 [^annex1-lvlu1-lvlI-1]: [SR 812.212.24](https://fedlex.data.admin.ch/eli/cc/2018/591)
-[^annex1-lvlu1-lvlI-2]: Verordnung (EG) Nr. 1234/2008 der Kommission vom 24. November 2008 über die Prüfung von Änderungen der Zulassungen von Human- und Tierarzneimitteln, ABl. L 334 vom 12.12.2008, S. 7; zuletzt geändert durch Verordnung (EU) Nr. 712/2012, ABl. L 209 vom 4.8.2012, S. 4.
 
 ### II. Gebühren für Kontrollen von Zulassungsauflagen
 
@@ -249,7 +271,7 @@ Anhang 1*[^t-1]*
 <tr><th></th><th>Humanarzneimittel</th><th>Tierarzneimittel</th></tr>
 <tr><td>1. Periodischer Bericht über die Arzneimittelsicherheit und das Nutzen‑Risiko-Verhältnis</td><td>3000.–</td><td>300.–</td></tr>
 <tr><td>2. Auflagen zur Klinik und Präklinik</td><td>3000.–</td><td>2000.–</td></tr>
-<tr><td>3. Auflagen zur Qualität</td><td>1500.–</td><td>1000.–</td></tr>
+<tr><td>3. Auflagen zur Qualität</td><td>1000.–</td><td>750.–</td></tr>
 <tr><td>4. Update eines Plasma Master Files</td><td>3000.–</td><td>n. a.</td></tr>
 </table>
 
@@ -292,22 +314,25 @@ Anhang 1*[^t-1]*
 <tr><td>2. Beilage zu einem Zertifikat (pro Beilage)</td><td>100.–</td></tr>
 </table>
 
-Anhang 2
+Anhang 2[^t-2]
 
 (Art. 4 Abs. 1)
 
 ## Gebühren für Medizinprodukte
 
+[^t-2]: Fassung gemäss Ziff. II Abs. 2 der V des Institutsrats vom 16. Sept. 2022, vom BR genehmigt am 19. Okt. 2022 und in Kraft seit 1. Jan. 2023 ([AS 2022 601](https://fedlex.data.admin.ch/eli/oc/2022/601)).
+
 <table>
 <tr><th></th><th>Franken</th></tr>
 <tr><td>1 Inverkehrbringen</td><td></td></tr>
 <tr><td>1.1 Meldung für das Inverkehrbringen eines Medizinprodukts (Notifikation)</td><td>300.–</td></tr>
-<tr><td>1.2 Ausnahmebewilligung für das Inverkehrbringen eines nicht konformen Medizinprodukts</td><td>1 000.–</td></tr>
 <tr><td>2 Bewilligung von klinischen Versuchen</td><td></td></tr>
 <tr><td>2.1 Neuer klinischer Versuch</td><td>5 000.–</td></tr>
-<tr><td>2.2 Änderung eines klinischen Versuchs</td><td>1 000.–</td></tr>
-<tr><td>3 Konformitätsbewertung</td><td></td></tr>
-<tr><td>3.1 Erstbezeichnung oder Bezeichnungserneuerung einer Konformitätsbewertungsstelle</td><td>15 000.–</td></tr>
-<tr><td>3.2 Bezeichnungsänderung einer Konformitätsbewertungsstelle</td><td>10 000.–</td></tr>
+<tr><td>2.2 Vereinfachte Prüfung eines klinischen Versuchs</td><td>1 500.–</td></tr>
+<tr><td>2.3 Änderung eines klinischen Versuchs</td><td>1 000.–</td></tr>
+<tr><td>3 Bezeichnung einer Konformitätsbewertungsstelle</td><td></td></tr>
+<tr><td>3.1 Erstbezeichnung oder Neubewertung einer Konformitätsbewertungsstelle</td><td>15 000.–</td></tr>
+<tr><td>3.2 Erweiterung der Bezeichnung einer Konformitätsbewertungsstelle</td><td>10 000.–</td></tr>
 <tr><td>4 Ausstellen eines Ausfuhrzertifikats für ein Medizinprodukt</td><td>200.–</td></tr>
+<tr><td>5 Zuteilung einer einmaligen schweizerischen Registrierungsnummer (CHRN) für einen Wirtschaftsakteur</td><td>200.–</td></tr>
 </table>
