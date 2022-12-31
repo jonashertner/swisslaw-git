@@ -4,13 +4,13 @@ number: "861.422"
 title: Richtlinie betreffend Unterstützungsleistungen für Personen aus dem Asylbereich ohne Aufenthaltsbewilligung
 short: Unterstützungsrichtlinie
 language: de
-version: 2022-10-01
-valid_until: 2022-12-31
-version_adopted: 2022-09-21
+version: 2023-01-01
+valid_until: 2024-12-31
+version_adopted: 2022-12-15
 adopted: 2022-09-21
 in_force: 2022-10-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/861.422"
-pdf: "https://bgs.zg.ch/api/de/versions/2376/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2403/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.zg.ch/api/de/versions/2376/pdf_file"
 
 (Unterstützungsrichtlinie)
 
-Vom 21. September 2022 (Stand 1. Oktober 2022)
+Vom 21. September 2022 (Stand 1. Januar 2023)
 
 Die Direktion des Innern des Kantons Zug,
 
@@ -50,7 +50,9 @@ verfügt:
 
 **Teuerungsanpassung**
 
-<sup>1</sup> Die Anpassung des Grundbedarfs für den Lebensunterhalt an die Teuerung erfolgt im gleichen prozentualen Umfang wie die Teuerungsanpassung der Ergänzungsleistungen zu AHV/IV, spätestens mit einem Jahr Verzögerung. Die Beträge werden auf den nächsten Franken gerundet.
+<sup>1</sup> Die Anpassung des Grundbedarfs für den Lebensunterhalt an die Teuerung erfolgt im gleichen prozentualen Umfang wie die Teuerungsanpassung der Ergänzungsleistungen zu AHV/IV, spätestens mit einem Jahr Verzögerung.
+
+<sup>2</sup> Die Beträge werden für Personengruppen im Asylbereich nach § 1 Abs. 1 dieser Richtlinie auf den nächsten Franken gerundet.
 
 ## 2. Unterstützungsleistungen im Asylbereich
 
@@ -62,12 +64,12 @@ verfügt:
 
 <table>
 <tr><th>Haushaltgrösse</th><th>Grundbedarf pro Monat</th></tr>
-<tr><td>1 Person</td><td>458 Franken</td></tr>
-<tr><td>2 Personen</td><td>866 Franken</td></tr>
-<tr><td>3 Personen</td><td>1241 Franken</td></tr>
-<tr><td>4 Personen</td><td>1452 Franken</td></tr>
-<tr><td>5 Personen</td><td>1640 Franken</td></tr>
-<tr><td>Pro weitere Person</td><td>+ 204 Franken</td></tr>
+<tr><td>1 Person</td><td>470 Franken</td></tr>
+<tr><td>2 Personen</td><td>888 Franken</td></tr>
+<tr><td>3 Personen</td><td>1273 Franken</td></tr>
+<tr><td>4 Personen</td><td>1489 Franken</td></tr>
+<tr><td>5 Personen</td><td>1681 Franken</td></tr>
+<tr><td>Pro weitere Person</td><td>+ 209 Franken</td></tr>
 </table>
 
 <sup>2</sup> Je nach den konkreten Umständen, insbesondere der Wohnsituation, kann das Kantonale Sozialamt Zuschläge gewähren oder Abzüge veranschlagen.
@@ -169,7 +171,7 @@ verfügt:
 
 **Grundbedarf für den Lebensunterhalt**
 
-<sup>1</sup> Wird die Nothilfe in bar geleistet, beträgt der Grundbedarf für den Lebensunterhalt 8 Franken pro Person.
+<sup>1</sup> Wird die Nothilfe in bar geleistet, beträgt der Grundbedarf für den Lebensunterhalt 9 Franken pro Person.
 
 <sup>2</sup> Bei unbegleiteten Minderjährigen und bei anderen verletzlichen Personen kann das Kantonale Sozialamt den Grundbedarf für den Lebensunterhalt bis zu maximal den um 10 Prozent reduzierten Beträgen gemäss § 3 Abs. 1 dieser Richtlinie erhöhen.
 
