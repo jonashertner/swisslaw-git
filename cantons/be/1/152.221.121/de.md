@@ -4,13 +4,13 @@ number: "152.221.121"
 title: "Verordnung über die Organisation und die Aufgaben der Gesundheits-, Sozial- und Integrationsdirektion"
 short: "Organisationsverordnung GSI, OrV GSI"
 language: de
-version: 2022-05-01
-valid_until: 2022-12-31
-version_adopted: 2022-04-06
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2022-11-23
 adopted: 2021-06-30
 in_force: 2021-08-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/152.221.121"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2583/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2749/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2583/pdf_file"
 
 (Organisationsverordnung GSI, OrV GSI)
 
-vom 30.06.2021 (Stand 01.05.2022)
+vom 30.06.2021 (Stand 01.01.2023)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -78,16 +78,15 @@ beschliesst:
 
 <sup>1</sup> Der Direktion sind folgende, durch besondere Gesetzgebung eingesetzte ständige Kommissionen zugeordnet:
 
-- a Fachkommission natürliche Heilmethoden,
-- b …
+- a–b …
 - c Kantonale Kommission für den schulärztlichen Dienst,
 - d Kantonale Kommission für Gesundheitsförderungs- und Suchtfragen,
 - e Kommission für Sozial-, Existenzsicherungs- und Familienpolitik,
 - f Gesundheitskommission,
 - g Kantonale Kommission für die Integration der ausländischen Bevölkerung,
 - h Beirat für medizinische Innovationen,
-- i Kommission Psychiatrie,
-- k Sanitätskollegium.
+- i Kommission Psychiatrie.
+- k …
 
 <sup>2</sup> Der Regierungsrat und die Direktion können nichtständige beratende Kommissionen einsetzen.
 

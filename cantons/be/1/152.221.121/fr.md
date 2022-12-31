@@ -4,13 +4,13 @@ number: "152.221.121"
 title: "Ordonnance sur l’organisation et les tâches de la Direction de la santé, des affaires sociales et de l’intégration"
 short: "Ordonnance d’organisation DSSI, OO DSSI"
 language: fr
-version: 2022-05-01
-valid_until: 2022-12-31
-version_adopted: 2022-04-06
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2022-11-23
 adopted: 2021-06-30
 in_force: 2021-08-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/152.221.121"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2583/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2749/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2583/pdf_file"
 
 (Ordonnance d’organisation DSSI, OO DSSI)
 
-du 30.06.2021 (état au 01.05.2022)
+du 30.06.2021 (état au 01.01.2023)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -78,16 +78,15 @@ arrête:
 
 <sup>1</sup> Les commissions permanentes suivantes instituées par la législation spéciale sont rattachées à la Direction:
 
-- a Commission spécialisée pour les médecines douces,
-- b …
+- a–b …
 - c Commission cantonale pour le service médical scolaire,
 - d Commission cantonale de promotion de la santé et de lutte contre les dépendances,
 - e Commission pour la politique sociale, la politique de couverture du minimum vital et la politique de la famille,
 - f Commission de la santé,
 - g Commission cantonale pour l’intégration de la population étrangère,
 - h Comité consultatif sur les innovations médicales,
-- i Commission des soins psychiatriques,
-- k Collège de santé.
+- i Commission des soins psychiatriques.
+- k …
 
 <sup>2</sup> Le Conseil-exécutif et la Direction peuvent constituer des commissions consultatives non permanentes.
 
