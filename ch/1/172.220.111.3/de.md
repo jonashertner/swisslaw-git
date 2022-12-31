@@ -4,11 +4,11 @@ title: Bundespersonalverordnung vom 3. Juli 2001 (BPV)
 short: BPV
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/319"
 language: de
-version: 2022-08-01
+version: 2023-01-01
 adopted: 2001-07-03
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/319/20220801/de/xml/fedlex-data-admin-ch-eli-cc-2001-319-20220801-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/319/20220801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/319/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2001-319-20230101-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/319/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/319/20220801/de"
 
 (BPV)
 
-vom 3. Juli 2001 (Stand am 1. August 2022)
+vom 3. Juli 2001 (Stand am 1. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -25,7 +25,7 @@ gestützt auf Artikel 37 des Bundespersonalgesetzes vom 24. März 2000[^ingress-
 
 verordnet:
 
-[^ingress-1]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^ingress-1]: [SR 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 ## 1. Kapitel: Allgemeine Bestimmungen
 
@@ -62,16 +62,16 @@ Dieser Verordnung nicht unterstellt sind:
 
 <sup>5</sup> Die Personalpolitik des Bundesrats und des Eidgenössischen Finanzdepartements (EFD) ist für die Bundesanwaltschaft und die Aufsichtsbehörde über die Bundesanwaltschaft massgebend, sofern die besondere Stellung oder Funktion dieser Behörden nicht etwas anderes verlangt.[^1-12]
 
-[^1-1]: [SR 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
-[^1-2]: [SR 173.71](https://fedlex.data.admin.ch/eli/cc/2010/444)
+[^1-1]: [SR 172.010.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5016)
+[^1-2]: [SR 173.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5641)
 [^1-3]: Eingefügt durch Ziff. I der V vom 12. Juni 2015, in Kraft seit 1. Aug. 2015 ([AS 2015 2243](https://fedlex.data.admin.ch/eli/oc/2015/417)).
 [^1-4]: Fassung gemäss Ziff. I der V vom 24. Nov. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 5793](https://fedlex.data.admin.ch/eli/oc/2010/821)).
-[^1-5]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^1-5]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^1-6]: Fassung gemäss Ziff. I der V vom 24. Nov. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 5793](https://fedlex.data.admin.ch/eli/oc/2010/821)).
-[^1-7]: [[AS 1979 1687](https://fedlex.data.admin.ch/eli/oc/1979/1687_1687_1687), [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)Ziff. I 21, [1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600)Art. 17 Ziff. 3, [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)Anhang Ziff. 4, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Anhang Ziff. 17 [2521](https://fedlex.data.admin.ch/eli/oc/1992/2521_2521_2521)Art. 55 Ziff. 1, [1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588)Art. 25 Abs. 2 und Anhang Ziff. 1, **1998** 1822 Art. 2, **1999** 2374 Ziff. I 2, **2003** 187 Anhang Ziff. II 2. [AS 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)Anhang Ziff. I 1]. Heute: das Berufsbildungsgesetz vom 13. Dez. 2002 ([SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)).
-[^1-8]: [SR 822.31](https://fedlex.data.admin.ch/eli/cc/1983/108_108_108)
+[^1-7]: [[AS 1979 1687](https://fedlex.data.admin.ch/eli/oc/1979/1687_1687_1687); [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)Ziff. I 21; [1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600)Art. 17 Ziff. 3; [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)Anhang Ziff. 4; [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Anhang Ziff. 17, [2521](https://fedlex.data.admin.ch/eli/oc/1992/2521_2521_2521)Art. 55 Ziff. 1; [1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588)Art. 25 Abs. 2 und Anhang Ziff. 1; **1998** 1822 Art. 2; **1999** 2374 Ziff. I 2; **2003** 187 Anhang Ziff. II 2. [AS 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)Anhang Ziff. I 1]. Heute: das Berufsbildungsgesetz vom 13. Dez. 2002 ([SR 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)).
+[^1-8]: [SR 822.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9920)
 [^1-9]: Fassung gemäss Art. 42 Ziff. 1 der V vom 2. Dez. 2005 über das Personal für die Friedensförderung, die Stärkung der Menschenrechte und die humanitäre Hilfe, in Kraft seit 1. Jan. 2006 ([AS 2005 5607](https://fedlex.data.admin.ch/eli/oc/2005/764)).
-[^1-10]: [SR 172.220.111.9](https://fedlex.data.admin.ch/eli/cc/2005/764)
+[^1-10]: [SR 172.220.111.9](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5376)
 [^1-11]: Eingefügt durch Ziff. I der V vom 20. Nov. 2013 ([AS 2013 4397](https://fedlex.data.admin.ch/eli/oc/2013/780)). Fassung gemäss Ziff. I der V vom 12. Juni 2015, in Kraft seit 1. Aug. 2015 ([AS 2015 2243](https://fedlex.data.admin.ch/eli/oc/2015/417)).
 [^1-12]: Eingefügt durch Ziff. I der V vom 20. Nov. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4397](https://fedlex.data.admin.ch/eli/oc/2013/780)).
 
@@ -227,7 +227,7 @@ Die Departemente treffen gezielte Massnahmen, um:
 Die Departemente treffen die Massnahmen zur Förderung der Mehrsprachigkeit nach den Artikeln 6–8*d* der Sprachenverordnung vom 4. Juni 2010[^7-2].
 
 [^7-1]: Fassung gemäss Ziff. II 3 der V vom 27. Aug. 2014, in Kraft seit 1. Okt. 2014 ([AS 2014 2987](https://fedlex.data.admin.ch/eli/oc/2014/504)).
-[^7-2]: [SR 441.11](https://fedlex.data.admin.ch/eli/cc/2010/355)
+[^7-2]: [SR 441.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7102)
 
 #### Art. 8
 
@@ -317,29 +317,20 @@ Die Arbeit ist durch Pausen von folgender Mindestdauer zu unterbrechen:
 <sup>3</sup> Unter mobilem Arbeiten versteht man die Erbringung der Arbeitsleistung an einem anderen Ort als in den Räumlichkeiten, die vom Arbeitgeber am Arbeitsort nach Artikel 25 Absatz 2 Buchstabe c zur Verfügung gestellt werden.
 
 [^10c-1]: Eingefügt durch Ziff. I der V vom 12. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 285](https://fedlex.data.admin.ch/eli/oc/2021/285)).
-[^10c-2]: [SR 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
-[^10c-3]: [SR 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
+[^10c-2]: [SR 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
+[^10c-3]: [SR 822.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9884)
 
 #### Art. 11
 
-**Ärztlicher Dienst**[^11-1]
+**Medizinische Expertise**[^11-1]
 
 ### (Art. 4 Abs. 2 Bst. g BPG)
 
-<sup>1</sup> Das EFD bezeichnet einen ärztlichen Dienst, der für medizinische Abklärungen und arbeitsmedizinische Massnahmen zuständig ist.
+<sup>1</sup> Das EFD bezeichnet die Ärzte und Ärztinnen, die von den Verwaltungseinheiten mit der Durchführung von medizinischen Expertisen beauftragt werden können.
 
-<sup>2</sup>
+<sup>2</sup> Die Ärzte und Ärztinnen beraten die Verwaltungseinheiten bei Bedarf insbesondere bei krankheits- und unfallbedingten Arbeitsverhinderungen, bei Wiedereingliederungen sowie bei der beruflichen Integration.
 
-Der ärztliche Dienst nimmt folgende Aufgaben wahr:
-
-- a. Er erstellt im Auftrag der Verwaltungseinheiten die Eignungsbeurteilung der Bewerber und Bewerberinnen bei der Anstellung und die Eignungsbeurteilung der Angestellten während der Dauer des Arbeitsverhältnisses.
-- b. Er beurteilt die Invaliditäts- und Morbiditätsrisiken der Bewerber und Bewerberinnen bei der Anstellung für sicherheitsrelevante Funktionen.
-- c.[^11-2] Er führt im Auftrag der Verwaltungseinheiten vertrauensärztliche Untersuchungen bei Erkrankungen, Unfällen und Wiedereingliederungen durch.
-- d. Er arbeitet bei Bedarf mit den zuständigen Stellen im betrieblichen Case Management zusammen.
-- e. Er kann Verwaltungseinheiten in deren Auftrag bei der Arbeitssicherheit, beim Gesundheitsschutz und bei der Gesundheitsförderung beraten und unterstützen.
-
-[^11-1]: Fassung gemäss Ziff. I der V vom 1. Mai 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
-[^11-2]: Fassung gemäss Ziff. I der V vom 13. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 3803](https://fedlex.data.admin.ch/eli/oc/2019/693)).
+[^11-1]: Fassung gemäss Ziff. I der V vom 19. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 616](https://fedlex.data.admin.ch/eli/oc/2022/616)).
 
 #### Art. 11a
 
@@ -398,15 +389,19 @@ Die Departemente sorgen unter Berücksichtigung der dienstlichen Bedürfnisse da
 
 <sup>1</sup> Die Vorgesetzten führen jährlich ein Mitarbeitergespräch und eine Personalbeurteilung mit ihren Mitarbeitenden durch.
 
-<sup>2</sup> Das Mitarbeitergespräch dient der Personalentwicklung, der Überprüfung der Arbeitssituation und der Zielvereinbarung. Die Vorgesetzten erhalten in diesem Gespräch von den Mitarbeitenden Rückmeldungen zu ihrem Führungsverhalten.
+<sup>2</sup> Das Mitarbeitergespräch dient der Personalentwicklung, der Überprüfung der Arbeitssituation und der Zielvereinbarung.[^15-1]
 
 <sup>3</sup> Die Personalbeurteilung bildet die Grundlage für die Lohnentwicklung aufgrund der vereinbarten Ziele bezüglich Leistung, Verhalten und Fähigkeiten.
 
-<sup>3bis</sup> Die Lohnentwicklung wird nur dann gewährt, wenn die angestellte Person während der Beurteilungsperiode trotz längerer Abwesenheiten genügend lange anwesend war, damit ihre Leistung, ihr Verhalten und ihre Fähigkeiten beurteilt werden können.[^15-1]
+<sup>3bis</sup> Die Lohnentwicklung wird nur dann gewährt, wenn die angestellte Person während der Beurteilungsperiode trotz längerer Abwesenheiten genügend lange anwesend war, damit ihre Leistung, ihr Verhalten und ihre Fähigkeiten beurteilt werden können.[^15-2]
 
 <sup>4</sup> Das Mitarbeitergespräch und die Personalbeurteilung orientieren sich am personalpolitischen Leitbild der Bundesverwaltung.
 
-[^15-1]: Eingefügt durch Ziff. I der V vom 1. Mai 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
+<sup>5</sup> Die Mitarbeitenden geben ihren Vorgesetzten jährlich Rückmeldung zu deren Führungsverhalten.[^15-3]
+
+[^15-1]: Fassung gemäss Ziff. I der V vom 19. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 616](https://fedlex.data.admin.ch/eli/oc/2022/616)).
+[^15-2]: Eingefügt durch Ziff. I der V vom 1. Mai 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
+[^15-3]: Eingefügt durch Ziff. I der V vom 19. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 616](https://fedlex.data.admin.ch/eli/oc/2022/616)).
 
 #### Art. 16
 
@@ -604,7 +599,7 @@ Von der Pflicht zur öffentlichen Ausschreibung sind ausgenommen:
 [^22-4]: Eingefügt durch Ziff. I der V vom 1. Mai 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
 [^22-5]: Eingefügt durch Ziff. I der V vom 12. Juni 2015, in Kraft seit 1. Aug. 2015 ([AS 2015 2243](https://fedlex.data.admin.ch/eli/oc/2015/417)).
 [^22-6]: Fassung gemäss Ziff. I der V vom 12. Juni 2015, in Kraft seit 1. Aug. 2015 ([AS 2015 2243](https://fedlex.data.admin.ch/eli/oc/2015/417)).
-[^22-7]: [SR 823.111](https://fedlex.data.admin.ch/eli/cc/1991/408_408_408)
+[^22-7]: [SR 823.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9940)
 [^22-8]: Eingefügt durch Ziff. I der V vom 8. Dez. 2017, in Kraft seit 1. Juli 2018 ([AS 2018 747](https://fedlex.data.admin.ch/eli/oc/2018/96)).
 
 #### Art. 23
@@ -810,7 +805,7 @@ Befristete Arbeitsverhältnisse dürfen nicht zur Umgehung des Kündigungsschutz
 
 [^29-1]: Fassung gemäss Ziff. I der V vom 1. Mai 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
 [^29-2]: Fassung gemäss Ziff. I der V vom 1. Mai 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
-[^29-3]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^29-3]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^29-4]: Eingefügt durch Ziff. I der V vom 1. Mai 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
 
 #### Art. 30
@@ -891,7 +886,7 @@ Die Auflösung des Arbeitsverhältnisses gilt als verschuldet, wenn:
 
 [^31a-1]: Eingefügt durch Ziff. I der V vom 1. Mai 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
 [^31a-2]: Fassung gemäss Ziff. I der V vom 2. Dez. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4507](https://fedlex.data.admin.ch/eli/oc/2016/734)).
-[^31a-3]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^31a-3]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^31a-4]: Fassung gemäss Ziff. I der V vom 12. Juni 2015, in Kraft seit 1. Aug. 2015 ([AS 2015 2243](https://fedlex.data.admin.ch/eli/oc/2015/417)).
 [^31a-5]: Satz eingefügt durch Ziff. I der V vom 2. Dez. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4507](https://fedlex.data.admin.ch/eli/oc/2016/734)).
 [^31a-6]: Fassung gemäss Ziff. I der V vom 20. Nov. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4397](https://fedlex.data.admin.ch/eli/oc/2013/780)).
@@ -927,7 +922,7 @@ Die Auflösung des Arbeitsverhältnisses gilt als verschuldet, wenn:
 <sup>3</sup> Die Arbeitsverhältnisse nach Absatz 1 enden ohne Kündigung spätestens am Ende des Monats, in dem die Angestellten das 70. Altersjahr vollenden.
 
 [^35-1]: Fassung gemäss Ziff. I der V vom 13. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 3803](https://fedlex.data.admin.ch/eli/oc/2019/693)).
-[^35-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^35-2]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 ## 4. Kapitel: Leistungen des Arbeitgebers
 
@@ -1112,18 +1107,20 @@ Der Teuerungsausgleich wird ausgerichtet auf:
 - c. die Vergütungen für Sonntags- und Nachtarbeit;
 - d. die Vergütungen für Pikettdienst;
 - e. die Funktionszulagen;
+- e<sup>bis</sup>.[^44-1] die Zulagen für Einsätze im Rahmen von festen Dienstplänen;
 - f. die Sonderzulagen;
 - g. die Arbeitsmarktzulage;
-- h.[^44-1] die ergänzenden Leistungen;
-- i.[^44-2] …
+- h.[^44-2] die ergänzenden Leistungen;
+- i.[^44-3] …
 
 <sup>3</sup> Die Höchstbeträge des Lohnes (Art. 36) und des Ortszuschlages (Art. 43) erhöhen sich jeweils um den Teuerungsausgleich.
 
-<sup>4</sup> …[^44-3]
+<sup>4</sup> …[^44-4]
 
-[^44-1]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5395](https://fedlex.data.admin.ch/eli/oc/2020/936)).
-[^44-2]: Eingefügt durch Anhang Ziff. 2 der Familienzulagenverordnung vom 31. Okt. 2007 ([AS 2008 145](https://fedlex.data.admin.ch/eli/oc/2008/52)). Aufgehoben durch Ziff. I der V vom 13. Nov. 2019, mit Wirkung seit 1. Jan. 2020 ([AS 2019 3803](https://fedlex.data.admin.ch/eli/oc/2019/693)).
-[^44-3]: Aufgehoben durch Ziff. I 1 der V vom 5. Nov. 2008 über Optimierungen im Lohnsystem des Bundespersonals, mit Wirkung seit 1. Febr. 2009 ([AS 2008 5643](https://fedlex.data.admin.ch/eli/oc/2008/785)).
+[^44-1]: Eingefügt durch Ziff. I der V vom 19. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 616](https://fedlex.data.admin.ch/eli/oc/2022/616)).
+[^44-2]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5395](https://fedlex.data.admin.ch/eli/oc/2020/936)).
+[^44-3]: Eingefügt durch Anhang Ziff. 2 der Familienzulagenverordnung vom 31. Okt. 2007 ([AS 2008 145](https://fedlex.data.admin.ch/eli/oc/2008/52)). Aufgehoben durch Ziff. I der V vom 13. Nov. 2019, mit Wirkung seit 1. Jan. 2020 ([AS 2019 3803](https://fedlex.data.admin.ch/eli/oc/2019/693)).
+[^44-4]: Aufgehoben durch Ziff. I 1 der V vom 5. Nov. 2008 über Optimierungen im Lohnsystem des Bundespersonals, mit Wirkung seit 1. Febr. 2009 ([AS 2008 5643](https://fedlex.data.admin.ch/eli/oc/2008/785)).
 
 #### Art. 44a
 
@@ -1257,7 +1254,7 @@ Die Leistungs- und die Spontanprämien dürfen zusammen pro Kalenderjahr den fol
 Die Familienzulage wird bis zum vollendeten 18. Altersjahr des Kindes ausgerichtet. Für in Ausbildung stehende Kinder und für erwerbsunfähige Kinder (Art. 7 des BG vom 6. Okt. 2000[^51-2] über den Allgemeinen Teil des Sozialversicherungsrechts) wird sie längstens bis zum vollendeten 25. Altersjahr ausgerichtet.
 
 [^51-1]: Fassung gemäss Anhang Ziff. 2 der Familienzulagenverordnung vom 31. Okt. 2007, in Kraft seit 1. Jan. 2009 ([AS 2008 145](https://fedlex.data.admin.ch/eli/oc/2008/52)).
-[^51-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^51-2]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 #### Art. 51a
 
@@ -1288,12 +1285,12 @@ Die Höhe der ergänzenden Leistungen entspricht der Differenz zwischen dem mass
 
 [^51a-1]: Eingefügt durch Anhang Ziff. 2 der Familienzulagenverordnung vom 31. Okt. 2007, in Kraft seit 1. Jan. 2009 ([AS 2008 145](https://fedlex.data.admin.ch/eli/oc/2008/52)).
 [^51a-2]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5395](https://fedlex.data.admin.ch/eli/oc/2020/936)).
-[^51a-3]: [SR 836.2](https://fedlex.data.admin.ch/eli/cc/2008/51)
+[^51a-3]: [SR 836.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10277)
 [^51a-4]: Fassung gemäss Ziff. I der V vom 1. Mai 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
 [^51a-5]: Eingefügt durch Ziff. I der V vom 12. Juni 2015, in Kraft seit 1. Aug. 2015 ([AS 2015 2243](https://fedlex.data.admin.ch/eli/oc/2015/417)).
-[^51a-6]: [SR 836.21](https://fedlex.data.admin.ch/eli/cc/2008/52)
+[^51a-6]: [SR 836.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10278)
 [^51a-7]: Eingefügt durch Ziff. I der V vom 6. März 2009, in Kraft seit 1. Jan. 2009 ([AS 2009 1137](https://fedlex.data.admin.ch/eli/oc/2009/184)).
-[^51a-8]: [SR 836.21](https://fedlex.data.admin.ch/eli/cc/2008/52)
+[^51a-8]: [SR 836.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10278)
 [^51a-9]: Eingefügt durch Ziff. I der V vom 1. Mai 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
 
 #### Art. 51b
@@ -1429,7 +1426,7 @@ Bewertungsstellen für die Funktionen in der Bundesverwaltung sind:
 
 <sup>2</sup> Bei einer Arbeitsverhinderung infolge einer neuen Krankheit oder eines neuen Unfalls oder eines erneuten Auftretens einer Krankheit oder von Unfallfolgen beginnen die Fristen nach Artikel 56 Absätze 1 und 2 neu zu laufen, wenn die angestellte Person zuvor während mindestens zwölf Monaten ununterbrochen entsprechend ihrem Beschäftigungsgrad arbeitsfähig war. Abwesenheiten von insgesamt weniger als 30 Tagen wegen Krankheit oder Unfall werden nicht berücksichtigt.
 
-<sup>3</sup> War die angestellte Person vor einer Arbeitsverhinderung nach Absatz 2 während weniger als zwölf Monaten ununterbrochen entsprechend ihrem Beschäftigungsgrad arbeitsfähig, so werden ihr nach Ablauf der Fristen nach Artikel 56 Absätze 1 und 2 im ersten Dienstjahr während 30 Tagen, ab zweitem bis fünftem Dienstjahr während 90 Tagen und ab sechstem Dienstjahr während 180 Tagen 90 Prozent des Lohnes bezahlt. Diese Lohnfortzahlung kann in Härtefällen bis höchstens zwölf Monate verlängert werden.
+<sup>3</sup> War die angestellte Person vor einer Arbeitsverhinderung nach Absatz 2 während weniger als zwölf Monaten ununterbrochen entsprechend ihrem Beschäftigungsgrad arbeitsfähig, so werden ihr nach Ablauf der Fristen nach Artikel 56 Absätze 1 und 2 ab dem dritten bis und mit dem fünften Dienstjahr während 90 Tagen sowie ab dem sechsten Dienstjahr während 180 Tagen 90 Prozent des Lohnes bezahlt. Diese Lohnfortzahlung kann in Härtefällen bis höchstens zwölf Monate verlängert werden.[^56a-2]
 
 <sup>4</sup> Bei einem Übertritt in eine andere Verwaltungseinheit nach Artikel 1 Absatz 1 im Rahmen einer Eingliederungsmassnahme nach Artikel 11*a* beginnen die Fristen nach Artikel 56 Absätze 1 und 2 nicht neu zu laufen.
 
@@ -1438,6 +1435,7 @@ Bewertungsstellen für die Funktionen in der Bundesverwaltung sind:
 <sup>6</sup> Bei befristeten Arbeitsverhältnissen endet die Lohnfortzahlung nach Artikel 56 Absätze 1 und 2 spätestens mit dem Ende des Arbeitsverhältnisses.
 
 [^56a-1]: Eingefügt durch Ziff. I der V vom 2. Dez. 2016 ([AS 2016 4507](https://fedlex.data.admin.ch/eli/oc/2016/734)). Fassung gemäss Ziff. I der V vom 13. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 3803](https://fedlex.data.admin.ch/eli/oc/2019/693)).
+[^56a-2]: Fassung gemäss Ziff. I der V vom 19. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 616](https://fedlex.data.admin.ch/eli/oc/2022/616)).
 
 #### Art. 56b
 
@@ -1460,8 +1458,8 @@ Bewertungsstellen für die Funktionen in der Bundesverwaltung sind:
 Bei Krankheit oder Unfall während Dienstreisen im Ausland übernimmt der Arbeitgeber die von den privaten Versicherungen der Angestellten nicht gedeckten Kosten derjenigen Leistungen, die in der Schweiz im Rahmen des Bundesgesetzes vom 18. März 1994[^56c-2] über die Krankenversicherung und des Bundesgesetzes vom 20. März 1981[^56c-3] über die Unfallversicherung rückvergütet werden.
 
 [^56c-1]: Ursprünglich: Art. 56*a*. Eingefügt durch Ziff. I der V vom 27. Nov. 2009, in Kraft seit 1. Jan. 2010 ([AS 2009 6417](https://fedlex.data.admin.ch/eli/oc/2009/785)).
-[^56c-2]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^56c-3]: [SR 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+[^56c-2]: [SR 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
+[^56c-3]: [SR 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
 
 #### Art. 57
 
@@ -1528,7 +1526,7 @@ Bei Krankheit oder Unfall während Dienstreisen im Ausland übernimmt der Arbeit
 [^60-2]: Fassung gemäss Ziff. I der V vom 3. Dez. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 843](https://fedlex.data.admin.ch/eli/oc/2021/843)).
 [^60-3]: Fassung gemäss Ziff. I der V vom 3. Dez. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 843](https://fedlex.data.admin.ch/eli/oc/2021/843)).
 [^60-4]: Fassung gemäss Ziff. I der V vom 3. Dez. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 843](https://fedlex.data.admin.ch/eli/oc/2021/843)).
-[^60-5]: [SR 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
+[^60-5]: [SR 834.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10262)
 [^60-6]: Fassung gemäss Ziff. I der V vom 3. Dez. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 843](https://fedlex.data.admin.ch/eli/oc/2021/843)).
 
 #### Art. 60a
@@ -1541,14 +1539,14 @@ Bei Krankheit oder Unfall während Dienstreisen im Ausland übernimmt der Arbeit
 
 <sup>3</sup> Die Arbeit mit reduziertem Beschäftigungsgrad beginnt spätestens am ersten Tag nach Ablauf der zwölfmonatigen Frist nach Absatz 2.
 
-<sup>4</sup> Die Eltern und die eingetragenen Partner und Partnerinnen haben Anspruch auf eine einmalige Erhöhung des Beschäftigungsgrads in ihrer Funktion im Umfang der insgesamt vorgenommenen Reduktionen nach Absatz 1, jedoch um höchstens 20 Prozent. Dieser Anspruch ist innerhalb von drei Jahren nachdem die letzte Reduktion des Pensums nach Absatz 1 wirksam wurde, geltend zu machen.[^60a-4]
+<sup>4</sup> Die Eltern und die eingetragenen Partner und Partnerinnen haben Anspruch auf eine einmalige Erhöhung des Beschäftigungsgrads in ihrer Funktion im Umfang der insgesamt vorgenommenen Reduktionen nach Absatz 1, jedoch um höchstens 20 Prozent. Dieser Anspruch ist innerhalb von drei Jahren, nachdem die letzte Reduktion des Pensums nach Absatz 1 wirksam wurde, und spätestens drei Monate vor dem Zeitpunkt, in dem die Vertragsänderung betreffend die Erhöhung des Beschäftigungsgrads in Kraft treten soll, geltend zu machen.[^60a-4]
 
 <sup>5</sup> Die Arbeit mit wiedererhöhtem Beschäftigungsgrad beginnt spätestens am ersten Tag nach Ablauf der dreijährigen Frist nach Absatz 4.[^60a-5]
 
 [^60a-1]: Eingefügt durch Ziff. I der V vom 1. Mai 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
 [^60a-2]: Fassung gemäss Ziff. I der V vom 13. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 3803](https://fedlex.data.admin.ch/eli/oc/2019/693)).
 [^60a-3]: Fassung gemäss Ziff. I der V vom 13. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 3803](https://fedlex.data.admin.ch/eli/oc/2019/693)).
-[^60a-4]: Eingefügt durch Ziff. I der V vom 13. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 3803](https://fedlex.data.admin.ch/eli/oc/2019/693)).
+[^60a-4]: Eingefügt durch Ziff. I der V vom 13. Nov. 2019 ([AS 2019 3803](https://fedlex.data.admin.ch/eli/oc/2019/693)). Fassung gemäss Ziff. I der V vom 19. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 616](https://fedlex.data.admin.ch/eli/oc/2022/616)).
 [^60a-5]: Eingefügt durch Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5395](https://fedlex.data.admin.ch/eli/oc/2020/936)).
 
 #### Art. 60b
@@ -1650,7 +1648,7 @@ Das EFD hat folgende Aufgaben:
 <sup>5</sup> Angestellten der industriellen Betriebe kann der Arbeitgeber anstelle der Zuschläge nach den Absätzen 3 und 4 diejenigen nach Artikel 17*b* des Arbeitsgesetzes vom 13. März 1964[^64-2] ausrichten.
 
 [^64-1]: Fassung gemäss Ziff. I der V vom 24. Okt. 2018, in Kraft seit 1. Jan 2019 ([AS 2018 4009](https://fedlex.data.admin.ch/eli/oc/2018/647)).
-[^64-2]: [SR 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
+[^64-2]: [SR 822.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9884)
 
 #### Art. 64a
 
@@ -1662,7 +1660,13 @@ Das EFD hat folgende Aufgaben:
 
 <sup>2</sup> Die Vorgesetzten vereinbaren mit den Angestellten die Orte, an denen die Arbeitsleistung erbracht wird. Sie gewähren den Angestellten unter Berücksichtigung der betrieblichen Interessen eine möglichst grosse Wahlfreiheit.
 
+<sup>3</sup> Liegt der Arbeitsort einer angestellten Person in der Schweiz, so ist mobiles Arbeiten im Ausland grundsätzlich nicht zulässig. Die Leiter und Leiterinnen der Verwaltungseinheiten können in begründeten Ausnahmefällen mobiles Arbeiten im Ausland bewilligen; sie berücksichtigen dabei die möglichen rechtlichen oder sicherheitstechnischen Hindernisse.[^64a-2]
+
+<sup>4</sup> Als mögliche Ausnahme gilt namentlich das Arbeiten am Wohnort, wenn Grenzgänger und Grenzgängerinnen einen Teil der Arbeitsleistung dort erbringen können.[^64a-3]
+
 [^64a-1]: Eingefügt durch Ziff. I der V vom 12. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 285](https://fedlex.data.admin.ch/eli/oc/2021/285)).
+[^64a-2]: Eingefügt durch Ziff. I der V vom 19. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 616](https://fedlex.data.admin.ch/eli/oc/2022/616)).
+[^64a-3]: Eingefügt durch Ziff. I der V vom 19. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 616](https://fedlex.data.admin.ch/eli/oc/2022/616)).
 
 #### Art. 64a<sup>bis</sup>
 
@@ -1705,7 +1709,7 @@ Das EFD hat folgende Aufgaben:
 [^64b-1]: Ursprünglich Art. 64*a*. Eingefügt durch Ziff. I der V vom 5. Dez. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 6411](https://fedlex.data.admin.ch/eli/oc/2008/861)).
 [^64b-2]: Fassung gemäss Ziff. I der V vom 22. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6737](https://fedlex.data.admin.ch/eli/oc/2017/753)).
 [^64b-3]: Fassung gemäss Ziff. I der V vom 12. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 285](https://fedlex.data.admin.ch/eli/oc/2021/285)).
-[^64b-4]: [SR 172.220.111.35](https://fedlex.data.admin.ch/eli/cc/2013/154)
+[^64b-4]: [SR 172.220.111.35](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5366)
 [^64b-5]: Fassung gemäss Ziff. I der V vom 12. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 285](https://fedlex.data.admin.ch/eli/oc/2021/285)).
 [^64b-6]: Fassung gemäss Ziff. I der V vom 1. Mai 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
 
@@ -1824,7 +1828,7 @@ Ferien werden im Verhältnis zur Dauer der Abwesenheit gekürzt, wenn die angest
 <sup>3</sup> Urlaube dürfen von der zuständigen Stelle nicht für mehr als 3 Jahre gewährt werden. Ausnahmen nach Artikel 88 Absatz 1 Buchstabe a bleiben vorbehalten.[^68-2]
 
 [^68-1]: Fassung gemäss Ziff. I der V vom 22. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6737](https://fedlex.data.admin.ch/eli/oc/2017/753)).
-[^68-2]: Eingefügt durch Ziff. I der V vom 15. Juni 2007 ([AS 2007 2871](https://fedlex.data.admin.ch/eli/oc/2007/379)). Aufgehoben durch Ziff. I der V des EFD vom 12. Juni 2015, mit Wirkung seit 1. Aug. 2015 ([AS 2015 2243](https://fedlex.data.admin.ch/eli/oc/2015/417)).
+[^68-2]: Eingefügt durch Ziff. I der V vom 15. Juni 2007 ([AS 2007 2871](https://fedlex.data.admin.ch/eli/oc/2007/379)). Fassung gemäss Ziff. I der V vom 24. Nov. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 5793](https://fedlex.data.admin.ch/eli/oc/2010/821)).
 
 ### 6. Abschnitt: Weitere Leistungen des Arbeitgebers
 
@@ -1994,7 +1998,7 @@ Der angestellten Person werden Kosten der familienergänzenden Kinderbetreuung v
 - d.[^75b-3] das gemeinsame jährliche Bruttoeinkommen der in einer Lebensgemeinschaft lebenden Personen nach Buchstabe a oder das jährliche Bruttoeinkommen der alleinstehenden erziehungsberechtigten Person, jeweils einschliesslich des 13. Monatslohns, nicht höher als 240 000 Franken ist.
 
 [^75b-1]: Eingefügt durch Ziff. I der V vom 24. Nov. 2010 ([AS 2010 5793](https://fedlex.data.admin.ch/eli/oc/2010/821)). Fassung gemäss Ziff. I der V vom 20. Nov. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4397](https://fedlex.data.admin.ch/eli/oc/2013/780)).
-[^75b-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^75b-2]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^75b-3]: Fassung gemäss Ziff. I der V vom 2. Dez. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4507](https://fedlex.data.admin.ch/eli/oc/2016/734)).
 
 #### Art. 75c
@@ -2114,11 +2118,13 @@ Keine Entschädigung wird an Personen ausgerichtet:
 - d.[^78-9] deren Arbeitsverhältnis aus betrieblichen oder personalpolitischen Gründen einvernehmlich aufgelöst wurde und denen der Arbeitgeber Leistungen nach Artikel 106 erbringt;
 - e.[^78-10] die Leistungen bei vorzeitiger Pensionierung nach Artikel 105*b* beziehen.
 
-<sup>4</sup> Gehen Personen während der Zeit, für die sie eine Entschädigung nach den Absätzen 1–2<sup>bis</sup> erhalten, ein neues Arbeitsverhältnis bei einem Arbeitgeber nach Artikel 3 BPG ein, so müssen sie denjenigen Anteil der Entschädigung zurückzahlen, der der Dauer der Überlappung von Entschädigungsdauer und neuem Arbeitsverhältnis entspricht. Die betroffenen Personen melden ihrem früheren Arbeitgeber unverzüglich den Abschluss des neuen Arbeitsvertrags.[^78-11]
+<sup>4</sup> Gehen Personen während der Zeit, für die sie eine Entschädigung nach den Absätzen 1–2<sup>bis</sup> erhalten, ein neues Arbeits- oder Auftragsverhältnis bei einem Arbeitgeber nach Artikel 3 BPG ein, so müssen sie denjenigen Anteil der Entschädigung zurückzahlen, der der Dauer der Überlappung von Entschädigungsdauer und neuem Arbeits- oder Auftragsverhältnis entspricht. Die betroffenen Personen melden ihrem früheren Arbeitgeber unverzüglich den Abschluss des neuen Arbeitsvertrags oder eines Auftrags.[^78-11]
 
-<sup>4bis</sup> Das EFD erhebt einmal pro Jahr die Daten der Fälle, in denen eine Entschädigung nach den Absätzen 1–2<sup>bis</sup> ausgerichtet wurde und in den vergangenen 12 Monaten ein neues Arbeitsverhältnis bei einem Arbeitgeber nach Artikel 1 Absatz 1 begründet wurde. Es informiert die Verwaltungseinheiten über die ausgerichteten Entschädigungen.[^78-12]
+<sup>4bis</sup> Die rückzahlbare Entschädigung nach Absatz 4 vermindert sich um die Differenz zwischen der ausbezahlten Entschädigung und dem Einkommen aus dem neuen Arbeitsvertrag oder aus einem Auftrag, sofern das neue Einkommen tiefer als die Abgangsentschädigung ist.[^78-12]
 
-<sup>5</sup> Wird die Entschädigung in Raten ausgerichtet, so muss sie spätestens 12 Monate nach Beendigung des Arbeitsverhältnisses vollständig ausgerichtet sein.[^78-13]
+<sup>4ter</sup> Das EFD erhebt einmal pro Jahr die Daten der Fälle, in denen eine Entschädigung nach den Absätzen 1–2<sup>bis</sup> ausgerichtet wurde und in den vergangenen 12 Monaten ein neues Arbeitsverhältnis bei einem Arbeitgeber nach Artikel 1 Absatz 1 begründet wurde. Es informiert die Verwaltungseinheiten über die ausgerichteten Entschädigungen.[^78-13]
+
+<sup>5</sup> Wird die Entschädigung in Raten ausgerichtet, so muss sie spätestens 12 Monate nach Beendigung des Arbeitsverhältnisses vollständig ausgerichtet sein.[^78-14]
 
 [^78-1]: Fassung gemäss Ziff. I der V vom 22. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6737](https://fedlex.data.admin.ch/eli/oc/2017/753)).
 [^78-2]: Fassung gemäss Ziff. I der V vom 1. Mai 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
@@ -2130,9 +2136,10 @@ Keine Entschädigung wird an Personen ausgerichtet:
 [^78-8]: Fassung gemäss Ziff. I der V vom 2. Dez. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4507](https://fedlex.data.admin.ch/eli/oc/2016/734)).
 [^78-9]: Eingefügt durch Ziff. I der V vom 2. Dez. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4507](https://fedlex.data.admin.ch/eli/oc/2016/734)).
 [^78-10]: Eingefügt durch Ziff. I der V vom 22. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6737](https://fedlex.data.admin.ch/eli/oc/2017/753)).
-[^78-11]: Fassung gemäss Ziff. I der V vom 13. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 3803](https://fedlex.data.admin.ch/eli/oc/2019/693)).
-[^78-12]: Eingefügt durch Ziff. I der V vom 13. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 3803](https://fedlex.data.admin.ch/eli/oc/2019/693)).
-[^78-13]: Eingefügt durch Ziff. I der V vom 22. Dez. 2004 ([AS 2005 3](https://fedlex.data.admin.ch/eli/oc/2005/2)). Fassung gemäss Ziff. I der V vom 12. Juni 2015, in Kraft seit 1. Aug. 2015 ([AS 2015 2243](https://fedlex.data.admin.ch/eli/oc/2015/417)).
+[^78-11]: Fassung gemäss Ziff. I der V vom 19. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 616](https://fedlex.data.admin.ch/eli/oc/2022/616)).
+[^78-12]: Eingefügt durch Ziff. I der V vom 19. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 616](https://fedlex.data.admin.ch/eli/oc/2022/616)).
+[^78-13]: Ursprünglich: Abs. 4<sup>bis</sup>. Eingefügt durch Ziff. I der V vom 13. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 3803](https://fedlex.data.admin.ch/eli/oc/2019/693)).
+[^78-14]: Eingefügt durch Ziff. I der V vom 22. Dez. 2004 ([AS 2005 3](https://fedlex.data.admin.ch/eli/oc/2005/2)). Fassung gemäss Ziff. I der V vom 12. Juni 2015, in Kraft seit 1. Aug. 2015 ([AS 2015 2243](https://fedlex.data.admin.ch/eli/oc/2015/417)).
 
 #### Art. 79
 
@@ -2298,11 +2305,11 @@ Als internationale Organisationen im Sinne dieser Bestimmung gelten:
 
 [^88-1]: Fassung gemäss Ziff. I der V vom 1. Mai 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
 [^88-2]: Fassung gemäss Ziff. I der V vom 1. Mai 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
-[^88-3]: [SR 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
+[^88-3]: [SR 192.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5676)
 [^88-4]: Eingefügt durch Anhang Ziff. 4 der Gaststaatverordnung vom 7. Dez. 2007 ([AS 2007 6657](https://fedlex.data.admin.ch/eli/oc/2007/861)). Fassung gemäss Ziff. I der V vom 13. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 3803](https://fedlex.data.admin.ch/eli/oc/2019/693)).
 [^88-5]: Eingefügt durch Ziff. I der V vom 20. Nov. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4397](https://fedlex.data.admin.ch/eli/oc/2013/780)).
 
-## 4*a*. Kapitel:**** Berufliche Vorsorge
+## 4*a*. Kapitel: Berufliche Vorsorge
 
 [^chap4a-1]
 
@@ -2351,7 +2358,9 @@ Die zuständige Stelle nach Artikel 2 kann sich zulasten ihrer Personalkredite a
 
 **Urlaub**
 
-### (Art. 17 und 31 Abs. 5 BPG)
+### (Art. 17*a* und 31 Abs. 5 BPG)
+
+[^88d-1]
 
 <sup>1</sup> Während eines unbezahlten oder teilweise bezahlten Urlaubs bleibt der Versicherungsschutz während mindestens zwei Monaten unverändert.
 
@@ -2360,6 +2369,8 @@ Die zuständige Stelle nach Artikel 2 kann sich zulasten ihrer Personalkredite a
 <sup>3</sup> Übernimmt die zuständige Stelle nach Artikel 2 ab dem dritten Urlaubsmonat die Arbeitgeberbeiträge oder die Risikoprämie nicht mehr, so meldet sie den Urlaub PUBLICA. Die angestellte Person kann den bisherigen Versicherungsschutz aufrechterhalten, indem sie nebst den eigenen Sparbeiträgen auch die Sparbeiträge des Arbeitgebers und die Risikoprämie bezahlt, oder die Versicherung auf die Risiken Tod und Invalidität beschränken.
 
 <sup>4</sup> Die während des Urlaubs von der angestellten Person geschuldeten Beiträge werden ihr nach der Wiederaufnahme der Arbeit vom Lohn abgezogen.
+
+[^88d-1]: Fassung gemäss Ziff. I der V vom 19. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 616](https://fedlex.data.admin.ch/eli/oc/2022/616)).
 
 #### Art. 88d<sup>bis</sup>
 
@@ -2372,7 +2383,7 @@ Die zuständige Stelle nach Artikel 2 kann sich zulasten ihrer Personalkredite a
 <sup>3</sup> Wird der Lohn im Interesse der zuständigen Stelle nach Artikel 2 reduziert, so kann sie sich zulasten der Personalkredite bis höchstens zur Hälfte an den Sparbeiträgen und an der Risikoprämie für die Weiterführung der Vorsorge beteiligen. Die Kostenbeteiligung kann befristet werden.
 
 [^88dbis-1]: Eingefügt durch Ziff. I der V vom 24. Nov. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 5793](https://fedlex.data.admin.ch/eli/oc/2010/821)).
-[^88dbis-2]: [SR 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^88dbis-2]: [SR 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 
 #### Art. 88d<sup>ter</sup>
 
@@ -2381,7 +2392,7 @@ Die zuständige Stelle nach Artikel 2 kann sich zulasten ihrer Personalkredite a
 Vereinbaren der Arbeitgeber und die angestellte Person eine Fortsetzung des Anstellungsverhältnisses über das 65. Altersjahr hinaus, so kann auf Verlangen der angestellten Person ihre Altersvorsorge bis zum Ende der Erwerbstätigkeit, höchstens jedoch bis zur Vollendung des 70. Altersjahres weitergeführt werden (Art. 33 BVG[^88dter-2]). In diesem Fall finanziert die zuständige Stelle die Sparbeiträge des Arbeitgebers.
 
 [^88dter-1]: Eingefügt durch Ziff. I der V vom 24. Nov. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 5793](https://fedlex.data.admin.ch/eli/oc/2010/821)).
-[^88dter-2]: [SR 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^88dter-2]: [SR 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 
 #### Art. 88e
 
@@ -2431,7 +2442,7 @@ Tätigkeiten mit einer andauernd hohen physischen oder psychischen Belastung nac
 <sup>6</sup> Die Verwaltungseinheit, bei der die angestellte Person unmittelbar vor der vorzeitigen Pensionierung gearbeitet hat, prüft die Anspruchsvoraussetzungen und berechnet den durchschnittlichen Beschäftigungsgrad dieser Person.
 
 [^88f-1]: Fassung gemäss Ziff. I der V vom 20. Juni 2014, in Kraft seit 1. Aug. 2014 ([AS 2014 2171](https://fedlex.data.admin.ch/eli/oc/2014/367)).
-[^88f-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^88f-2]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^88f-3]: Fassung gemäss Ziff. I der V vom 15. Nov. 2017, in Kraft seit 1. Juli 2018 ([AS 2017 6209](https://fedlex.data.admin.ch/eli/oc/2017/689)).
 [^88f-4]: Eingefügt durch Ziff. I der V vom 15. Nov. 2017, in Kraft seit 1. Juli 2018 ([AS 2017 6209](https://fedlex.data.admin.ch/eli/oc/2017/689)).
 [^88f-5]: Eingefügt durch Ziff. I der V vom 15. Nov. 2017, in Kraft seit 1. Juli 2018 ([AS 2017 6209](https://fedlex.data.admin.ch/eli/oc/2017/689)).
@@ -2592,9 +2603,9 @@ Angestellten, die an einem Beschaffungs- oder Entscheidprozess beteiligt sind, i
 
 <sup>4</sup> Vorbehalten bleibt Artikel 156 des Parlamentsgesetzes vom 13. Dezember 2002[^94-3].[^94-4]
 
-[^94-1]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^94-1]: [SR 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 [^94-2]: Fassung gemäss Ziff. I der V vom 2. Dez. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4507](https://fedlex.data.admin.ch/eli/oc/2016/734)).
-[^94-3]: [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)
+[^94-3]: [SR 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)
 [^94-4]: Fassung gemäss Ziff. I der V vom 12. Juni 2015, in Kraft seit 1. Aug. 2015 ([AS 2015 2243](https://fedlex.data.admin.ch/eli/oc/2015/417)).
 
 #### Art. 94a
@@ -2617,7 +2628,7 @@ Als Befangenheitsgründe gelten namentlich:
 <sup>4</sup> Für Angestellte, die eine Verfügung zu treffen oder diese vorzubereiten haben, gilt Artikel 10 des Verwaltungsverfahrensgesetzes vom 20. Dezember 1968[^94a-2].
 
 [^94a-1]: Eingefügt durch Ziff. I der V vom 27. Nov. 2009 ([AS 2009 6417](https://fedlex.data.admin.ch/eli/oc/2009/785)). Fassung gemäss Ziff. I der V vom 15. Aug. 2012, in Kraft seit 15. Sept. 2012 ([AS 2012 4483](https://fedlex.data.admin.ch/eli/oc/2012/525)).
-[^94a-2]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^94a-2]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 94b
 
@@ -2736,7 +2747,7 @@ Die Ausübung des Streikrechts ist denjenigen Angehörigen der folgenden Persona
 
 <sup>4</sup> Führt der gleiche Sachverhalt zu einer Disziplinaruntersuchung und zu einem Strafverfahren, so wird der Entscheid über Disziplinarmassnahmen bis zur Beendigung des Strafverfahrens aufgeschoben. Aus wichtigen Gründen kann ausnahmsweise vor Beendigung des Strafverfahrens über Disziplinarmassnahmen entschieden werden.
 
-[^98-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^98-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 99
 
@@ -2783,7 +2794,7 @@ Gegen Angestellte, die ihre arbeitsrechtlichen Pflichten vorsätzlich oder grobf
 
 Die Haftung der Angestellten für Schaden, den sie dem Bund oder einem Dritten zufügen, sowie das Verfahren zur Geltendmachung dieses Schadens richten sich nach dem Verantwortlichkeitsgesetz vom 14. März 1958[^101-1].
 
-[^101-1]: [SR 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
+[^101-1]: [SR 170.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4971)
 
 #### Art. 102
 
@@ -2795,7 +2806,7 @@ Die Haftung der Angestellten für Schaden, den sie dem Bund oder einem Dritten z
 
 <sup>2</sup> Die Einleitung von Strafverfahren gegen Angestellte richtet sich nach Artikel 7 der Verordnung vom 30. Dezember 1958[^102-1] zum Verantwortlichkeitsgesetz.
 
-[^102-1]: [SR 170.321](https://fedlex.data.admin.ch/eli/cc/1958/1421_1492_1498)
+[^102-1]: [SR 170.321](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4972)
 
 #### Art. 103
 
@@ -2836,7 +2847,7 @@ Ist eine korrekte Aufgabenerfüllung gefährdet, so kann die zuständige Stelle 
 [^103a-3]: Eingefügt durch Ziff. I der V vom 13. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 3803](https://fedlex.data.admin.ch/eli/oc/2019/693)).
 [^103a-4]: Eingefügt durch Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5395](https://fedlex.data.admin.ch/eli/oc/2020/936)).
 
-## 7. Kapitel:**** Massnahmen und Leistungen des Arbeitgebers in besonderen Fällen
+## 7. Kapitel: Massnahmen und Leistungen des Arbeitgebers in besonderen Fällen
 
 [^chap7-1]
 
@@ -3007,10 +3018,10 @@ Der Arbeitgeber kann aus triftigen Gründen zusätzlich zur vorzeitigen Teil- od
 - d.[^105b-6] …
 
 [^105b-1]: Fassung gemäss Ziff. I der V vom 12. Okt. 2016, in Kraft seit 1. Dez. 2016 ([AS 2016 3637](https://fedlex.data.admin.ch/eli/oc/2016/611)).
-[^105b-2]: [SR 172.220.141.1](https://fedlex.data.admin.ch/eli/cc/2012/190)
+[^105b-2]: [SR 172.220.141.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5392)
 [^105b-3]: Fassung gemäss Ziff. I der V vom 2. Dez. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4507](https://fedlex.data.admin.ch/eli/oc/2016/734)).
-[^105b-4]: [SR 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
-[^105b-5]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^105b-4]: [SR 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
+[^105b-5]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^105b-6]: Aufgehoben durch Ziff. I der V vom 22. Nov. 2017, mit Wirkung seit 1. Jan. 2018 ([AS 2017 6737](https://fedlex.data.admin.ch/eli/oc/2017/753)).
 
 #### Art. 105c
@@ -3045,7 +3056,7 @@ Der Arbeitgeber kann aus triftigen Gründen zusätzlich zur vorzeitigen Teil- od
 
 [^105d-1]: Eingefügt durch Ziff. I der V vom 12. Okt. 2016, in Kraft seit 1. Dez. 2016 ([AS 2016 3637](https://fedlex.data.admin.ch/eli/oc/2016/611)).
 
-### 2. Abschnitt: Leistungen des Arbeitgebers zur sozialen Sicherung des Personals bei einvernehmlicher Auflösung des Arbeitsverhältnisses****
+### 2. Abschnitt: Leistungen des Arbeitgebers zur sozialen Sicherung des Personals bei einvernehmlicher Auflösung des Arbeitsverhältnisses
 
 [^chap7-sec2-1]
 
@@ -3147,7 +3158,7 @@ Die Personalkommissionen begutachten zuhanden der Geschäftsleitungen:
 
 [^109-1]: Fassung gemäss Ziff. I der V vom 1. Mai 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
 
-## 9. Kapitel: Verjährung****
+## 9. Kapitel: Verjährung
 
 [^chap9-1]
 
@@ -3180,7 +3191,7 @@ Die Personalkommissionen begutachten zuhanden der Geschäftsleitungen:
 Die Verjährungsfristen für Ansprüche aus dem Arbeitsverhältnis richten sich nach den Artikeln 127 und 128 OR[^113-2].
 
 [^113-1]: Aufgehoben durch Ziff. I der V vom 1. Mai 2013, mit Wirkung seit 1. Juli 2013 ([AS 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
-[^113-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^113-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ## 10. Kapitel: Ausführungsbestimmungen
 
@@ -3295,7 +3306,7 @@ Es kann im Einvernehmen mit dem Eidgenössischen Departement des Innern abweiche
 [^116-1]: Eingefügt durch Ziff. I der V vom 12. Juni 2015 ([AS 2015 2243](https://fedlex.data.admin.ch/eli/oc/2015/417)). Fassung gemäss Ziff. I der V vom 2. Dez. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4507](https://fedlex.data.admin.ch/eli/oc/2016/734)).
 [^116-2]: Eingefügt durch Ziff. I der V vom 1. Mai 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
 
-## 11. Kapitel: Schlussbestimmungen****
+## 11. Kapitel: Schlussbestimmungen
 
 [^chap11-1]
 
@@ -3337,7 +3348,7 @@ Bei Beginn des Vorruhestandsurlaubs nach Artikel 34 erhalten folgende Personen a
 [^116c-1]: Eingefügt durch Ziff. I der V vom 15. Juni 2007, in Kraft seit 1. Juli 2008 ([AS 2007 2871](https://fedlex.data.admin.ch/eli/oc/2007/379), [2008 577](https://fedlex.data.admin.ch/eli/oc/2008/131)). Siehe auch die UeB in Art. 8 der V vom 20. Febr. 2013 über die Pensionierung von Angehörigen der besonderen Personalategorien (SR **172.222.111.35**).
 [^116c-2]: Art. 33 in der Fassung vom 3. Juli 2001 ([AS 2001 2206](https://fedlex.data.admin.ch/eli/oc/2001/319)), Abs. 1–3<sup>bis</sup> in der Fassung der V vom 5. Dez. 2003 über die Aufhebung und Änderung von Verordnungen im Zusammenhang mit der Neuregelung des militärischen Personals ([AS 2003 5011](https://fedlex.data.admin.ch/eli/oc/2003/745)); Art. 16 der V vom 2. Dez. 1991 über die Leistungen bei vorzeitigem Altersrücktritt von Bediensteten in besonderen Dienstverhältnissen in der Fassung der Änd. vom 28. Juni 2000 ([AS 2000 2429](https://fedlex.data.admin.ch/eli/oc/2000/388)).
 [^116c-3]: Fassung gemäss Ziff. I der V vom 27. Nov. 2009, in Kraft seit 1. Jan. 2010 ([AS 2009 6417](https://fedlex.data.admin.ch/eli/oc/2009/785)).
-[^116c-4]: [SR 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^116c-4]: [SR 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 [^116c-5]: Fassung gemäss Ziff. II 3 der V über Änderungen des Bundesrechts infolge des Primatwechsels bei PUBLICA vom 21. Mai 2008, mit Wirkung seit 1. Juli 2008 ([AS 2008 2181](https://fedlex.data.admin.ch/eli/oc/2008/319)).
 
 #### Art. 116d
@@ -3354,7 +3365,7 @@ Bei Beginn des Vorruhestandsurlaubs nach Artikel 34 erhalten folgende Personen a
 
 <sup>2</sup> Bei Aus- und Wiedereintritten der angestellten Person bei Verwaltungseinheiten nach Artikel 1 nach dem Inkrafttreten der Änderung vom 1. Mai 2013 werden die bisherigen Anstellungsjahre für die Berechnung der Treueprämie nicht mehr angerechnet.
 
-<sup>3</sup> und <sup>4</sup> …[^116e-2]
+<sup>3 und <sup>4</sup></sup> …[^116e-2]
 
 [^116e-1]: Eingefügt durch Ziff. I der V vom 1. Mai 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
 [^116e-2]: Aufgehoben durch Ziff. I der V vom 22. Nov. 2017, mit Wirkung seit 1. Jan. 2018 ([AS 2017 6737](https://fedlex.data.admin.ch/eli/oc/2017/753)).
@@ -3391,19 +3402,9 @@ Die Beteiligung des Arbeitgebers an der Finanzierung der Überbrückungsrente vo
 
 #### Art. 116i
 
-**Übergangsbestimmungen zur Änderung vom 13. November 2019**[^116i-1]
+[^116i-1]
 
-<sup>1</sup> Weibliche Angestellte, die zwischen dem 1. Januar 1956 und dem 30. Juni 1956 geboren wurden, können den Anspruch auf eine Verlängerung des Arbeitsverhältnisses nach Artikel 35 Absatz 2 innert einer Frist von 30 Tagen nach dem Zeitpunkt des Inkrafttretens der Änderung vom 13. November 2019 geltend machen.
-
-<sup>2</sup> Angestellte, denen zum Zeitpunkt des Inkrafttretens der Änderung vom 13. November 2019 eine Zulage für Verwandtschaftsunterstützung ausgerichtet wird, erhalten diese solange die Bedingungen nach dem bisherigen Artikel 51*b* erfüllt sind, längstens bis am 31. Dezember 2020.
-
-<sup>3</sup> Angestellten, die zum Zeitpunkt des Inkrafttretens der Änderung vom 13. November 2019 eine Lohnfortzahlung nach dem bisherigen Artikel 56 Absatz 3 erhalten, wird diese weiter ausgerichtet, solange die Voraussetzungen nach dieser Bestimmung erfüllt sind.
-
-<sup>4</sup> Gesuchsverfahren um Ausrichtung einer Berufsinvalidenleistung nach Artikel 88*e*, die zum Zeitpunkt des Inkrafttretens der Änderung vom 13. November 2019 noch hängig sind, werden als gegenstandslos abgeschrieben.
-
-<sup>5</sup> In Rechtsmittelverfahren um Ausrichtung einer Berufsinvalidenleistung nach Artikel 88*e*, die zum Zeitpunkt des Inkrafttretens der Änderung vom 13. November 2019 noch hängig sind, gilt diese Bestimmung weiterhin.
-
-[^116i-1]: Eingefügt durch Ziff. I der V vom 13. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 3803](https://fedlex.data.admin.ch/eli/oc/2019/693)).
+[^116i-1]: Eingefügt durch Ziff. I der V vom 13. Nov. 2019 ([AS 2019 3803](https://fedlex.data.admin.ch/eli/oc/2019/693)). Aufgehoben durch Ziff. I der V vom 19. Okt. 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 616](https://fedlex.data.admin.ch/eli/oc/2022/616)).
 
 #### Art. 116j
 
@@ -3427,7 +3428,7 @@ Der Lohn von Angestellten, deren Funktion aus Gründen, die nicht bei ihnen lieg
 
 Diese Verordnung tritt am 1. Januar 2002 in Kraft.
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 88*f* Abs. 5)
 
@@ -3443,7 +3444,7 @@ Anhang 1*[^t-1]*
 <tr><td>64</td><td>75 %</td><td>70 %</td><td>55 %</td><td>50 %</td></tr>
 </table>
 
-Anhang 2*[^t-2]*
+Anhang 2[^t-2]
 
 (Art. 88*a* Abs. 1)
 
@@ -3464,9 +3465,9 @@ Anhang 2*[^t-2]*
 - k. die Gefahrenzulage nach Artikel 19 PVFMH;
 - l. der massgebende Jahreslohn nach Artikel 21 Absatz 2 PVFMH.
 
-[^annex2-lvlu1-1]: [SR 172.220.111.9](https://fedlex.data.admin.ch/eli/cc/2005/764)
+[^annex2-lvlu1-1]: [SR 172.220.111.9](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5376)
 
-Anhang 3*[^t-3]*
+Anhang 3[^t-3]
 
 (Art. 79 Abs. 1<sup>bis</sup>)
 

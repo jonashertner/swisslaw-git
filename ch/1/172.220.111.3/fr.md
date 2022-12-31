@@ -4,11 +4,11 @@ title: Ordonnance du 3 juillet 2001 sur le personnel de la Confédération (OPer
 short: OPers
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/319"
 language: fr
-version: 2022-08-01
+version: 2023-01-01
 adopted: 2001-07-03
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/319/20220801/fr/xml/fedlex-data-admin-ch-eli-cc-2001-319-20220801-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/319/20220801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/319/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2001-319-20230101-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/319/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/319/20220801/fr"
 
 (OPers)
 
-du 3 juillet 2001 (Etat le 1<sup>er</sup> août 2022)
+du 3 juillet 2001 (État le 1<sup>er</sup> janvier 2023)
 
 Le Conseil fédéral suisse,
 
@@ -25,7 +25,7 @@ vu l’art. 37 de la loi du 24 mars 2000 sur le personnel de la Confédération 
 
 arrête:
 
-[^ingress-1]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^ingress-1]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 ## Chapitre 1 Dispositions générales
 
@@ -62,16 +62,16 @@ Ne sont pas soumis à la présente ordonnance:
 
 <sup>5</sup> La politique du personnel du Conseil fédéral et du Département fédéral des finances (DFF) est déterminante pour le Ministère public de la Confédération et pour l’autorité de surveillance du Ministère public de la Confédération, pour autant que le statut ou la fonction particulière de ces autorités n’exige pas une autre solution.[^1-12]
 
-[^1-1]: [RS 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
-[^1-2]: [RS 173.71](https://fedlex.data.admin.ch/eli/cc/2010/444)
+[^1-1]: [RS 172.010.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5016)
+[^1-2]: [RS 173.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5641)
 [^1-3]: Introduite par le ch. I de l’O du 12 juin 2015, en vigueur depuis le 1<sup>er</sup> août 2015 ([RO 2015 2243](https://fedlex.data.admin.ch/eli/oc/2015/417)).
 [^1-4]: Nouvelle teneur selon le ch. I de l’O du 24 nov. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5793](https://fedlex.data.admin.ch/eli/oc/2010/821)).
-[^1-5]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^1-5]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^1-6]: Nouvelle teneur selon le ch. I de l’O du 24 nov. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5793](https://fedlex.data.admin.ch/eli/oc/2010/821)).
-[^1-7]: [[RO 1979 1687](https://fedlex.data.admin.ch/eli/oc/1979/1687_1687_1687), [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)ch. I 21, [1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600)art. 17 ch. 3, [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)annexe ch. 4, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)annexe ch. 17 [2521](https://fedlex.data.admin.ch/eli/oc/1992/2521_2521_2521)art. 55 ch. 1, [1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588)art. 25 al. 2 et annexe ch. 1, **1998** 1822 art. 2, **1999** 2374 ch. I 2, **2003** 187 annexe ch. II 2. [RO 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)annexe ch. I 1]. Actuellement: LF du 13 déc. 2002 ([RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)).
-[^1-8]: [RS 822.31](https://fedlex.data.admin.ch/eli/cc/1983/108_108_108)
+[^1-7]: [[RO 1979 1687](https://fedlex.data.admin.ch/eli/oc/1979/1687_1687_1687), [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)ch. I 21, [1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600)art. 17 ch. 3, [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)annexe ch. 4, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)annexe ch. 17 [2521](https://fedlex.data.admin.ch/eli/oc/1992/2521_2521_2521)art. 55 ch. 1, [1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588)art. 25 al. 2 et annexe ch. 1, **1998** 1822 art. 2, **1999** 2374 ch. I 2, **2003** 187 annexe ch. II 2. [RO 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)annexe ch. I 1]. Actuellement: LF du 13 déc. 2002 ([RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)).
+[^1-8]: [RS 822.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9920)
 [^1-9]: Nouvelle teneur selon l’art. 42 ch. 1 de l’O du 2 déc. 2005 sur le personnel affecté à la promotion de la paix, au renforcement des droits de l’homme et à l’aide humanitaire, en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2005 5607](https://fedlex.data.admin.ch/eli/oc/2005/764)).
-[^1-10]: [RS 172.220.111.9](https://fedlex.data.admin.ch/eli/cc/2005/764)
+[^1-10]: [RS 172.220.111.9](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5376)
 [^1-11]: Introduit selon le ch. I de l’O du 20 nov. 2013 ([RO 2013 4397](https://fedlex.data.admin.ch/eli/oc/2013/780)). Nouvelle teneur selon le ch. I de l’O du 12 juin 2015, en vigueur depuis le 1<sup>er</sup> août 2015 ([RO 2015 2243](https://fedlex.data.admin.ch/eli/oc/2015/417)).
 [^1-12]: Introduit selon le ch. I de l’O du 20 nov. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4397](https://fedlex.data.admin.ch/eli/oc/2013/780)).
 
@@ -227,7 +227,7 @@ Les départements prennent des mesures ciblées afin:
 Les départements prennent les mesures de promotion du plurilinguisme visées aux art. 6 à 8*d* de l’ordonnance du 4 juin 2010 sur les langues[^7-2].
 
 [^7-1]: Nouvelle teneur selon le ch. II 3 de l’O du 27 août 2014, en vigueur depuis le 1<sup>er</sup> oct. 2014 ([RO 2014 2987](https://fedlex.data.admin.ch/eli/oc/2014/504)).
-[^7-2]: [RS 441.11](https://fedlex.data.admin.ch/eli/cc/2010/355)
+[^7-2]: [RS 441.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7102)
 
 #### Art. 8
 
@@ -316,29 +316,18 @@ Le travail est interrompu par des pauses d’au moins:
 <sup>3</sup> Le travail mobile consiste à travailler à un autre endroit que dans les locaux mis à disposition par l’employeur sur le lieu de travail visé à l’art. 25, al. 2, let. c.
 
 [^10c-1]: Introduit par le ch. I de l’O du 12 mai 2021 en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 285](https://fedlex.data.admin.ch/eli/oc/2021/285)).
-[^10c-2]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
-[^10c-3]: [RS 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
+[^10c-2]: [RS 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
+[^10c-3]: [RS 822.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9884)
 
 #### Art. 11
 
-**Service médical**[^11-1]
+**Expertises médicales**[^11-1]
 
-### (art. 4, al. 2, let. g, LPers)
+<sup>1</sup> Le DFF désigne les médecins auxquels les unités administratives peuvent donner mandat de réaliser des expertises médicales.
 
-<sup>1</sup> Le DFF désigne le service médical chargé des examens médicaux et des mesures relevant de la médecine du travail.
+<sup>2</sup> Les médecins conseillent les unités administratives au besoin, notamment en ce qui concerne les cas d’incapacité de travailler pour cause de maladie ou d’accident, les cas de réintégration et les cas d’intégration professionnelle.
 
-<sup>2</sup>
-
-Le service médical remplit les tâches suivantes:
-
-- a. sur mandat des unités administratives, il procède à l’appréciation de l’aptitude des candidats lors de l’engagement et à l’appréciation de l’aptitude des employés pendant la durée des rapports de travail;
-- b. il évalue les risques d’invalidité et de morbidité des candidats lors de l’engagement à des postes importants pour la sécurité;
-- c.[^11-2] sur mandat des unités administratives, il effectue, en qualité de médecin de confiance, les examens médicaux requis dans les cas de maladie, d’accident et de réintégration;
-- d. il collabore, au besoin, avec les services compétents en matière de gestion de cas dans l’entreprise;
-- e. il peut conseiller et assister les unités administratives, à leur demande, pour tout ce qui a trait à la sécurité au travail ainsi qu’à la protection et à la promotion de la santé.
-
-[^11-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
-[^11-2]: Nouvelle teneur selon le ch. I de l’O du 13 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3803](https://fedlex.data.admin.ch/eli/oc/2019/693)).
+[^11-1]: Nouvelle teneur selon le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 616](https://fedlex.data.admin.ch/eli/oc/2022/616)).
 
 #### Art. 11a
 
@@ -397,15 +386,19 @@ Les départements veillent à ce que les employés puissent assumer leurs respon
 
 <sup>1</sup> Une fois par an, les supérieurs hiérarchiques ont un entretien personnel avec leurs collaborateurs et procèdent à leur évaluation.
 
-<sup>2</sup> L’entretien sert l’évolution professionnelle du collaborateur et a pour but d’examiner les conditions dans lesquelles le travail est fourni et de convenir d’objectifs. Il permet au supérieur hiérarchique d’avoir un écho de la part de ses collaborateurs sur la façon dont il dirige son unité.
+<sup>2</sup> L’entretien sert l’évolution professionnelle du collaborateur et a pour but d’examiner les conditions dans lesquelles le travail est fourni et de convenir d’objectifs.[^15-1]
 
 <sup>3</sup> L’évaluation personnelle sert de base à l’évolution du salaire, laquelle est opérée en fonction des objectifs convenus en matière de prestations, de comportement et de compétences.
 
-<sup>3bis</sup> Le salaire des employés ayant eu des absences de longue durée pendant la période d’évaluation n’évolue que s’ils ont néanmoins été présents assez longtemps pour que leurs prestations, leur comportement et leurs capacités puissent être évalués.[^15-1]
+<sup>3bis</sup> Le salaire des employés ayant eu des absences de longue durée pendant la période d’évaluation n’évolue que s’ils ont néanmoins été présents assez longtemps pour que leurs prestations, leur comportement et leurs capacités puissent être évalués.[^15-2]
 
 <sup>4</sup> L’entretien avec le collaborateur et l’évaluation personnelle s’effectuent dans le respect des principes directeurs en matière de politique du personnel.
 
-[^15-1]: Introduit par le ch. I de l’O du 1<sup>er</sup> mai 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
+<sup>5</sup> Une fois par an, les collaborateurs évaluent le style de conduite de leur supérieur hiérarchique.[^15-3]
+
+[^15-1]: Nouvelle teneur selon le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 616](https://fedlex.data.admin.ch/eli/oc/2022/616)).
+[^15-2]: Introduit par le ch. I de l’O du 1<sup>er</sup> mai 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
+[^15-3]: Introduit par le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 616](https://fedlex.data.admin.ch/eli/oc/2022/616)).
 
 #### Art. 16
 
@@ -603,7 +596,7 @@ Ne sont pas tenus de faire l’objet d’une mise au concours publique les poste
 [^22-4]: Introduite par le ch. I de l’O du 1<sup>er</sup> mai 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
 [^22-5]: Introduite par le ch. I de l’O du 12 juin 2015, en vigueur depuis le 1<sup>er</sup> août 2015 ([RO 2015 2243](https://fedlex.data.admin.ch/eli/oc/2015/417)).
 [^22-6]: Nouvelle teneur selon le ch. I de l’O du 12 juin 2015, en vigueur depuis le 1<sup>er</sup> août 2015 ([RO 2015 2243](https://fedlex.data.admin.ch/eli/oc/2015/417)).
-[^22-7]: [RS 823.111](https://fedlex.data.admin.ch/eli/cc/1991/408_408_408)
+[^22-7]: [RS 823.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9940)
 [^22-8]: Introduite par le ch. I de l’O du 8 déc. 2017, en vigueur depuis le 1<sup>er</sup> juil. 2018 ([RO 2018 747](https://fedlex.data.admin.ch/eli/oc/2018/96)).
 
 #### Art. 23
@@ -809,7 +802,7 @@ Les rapports de travail de durée déterminée ne doivent pas être conclus dans
 
 [^29-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
 [^29-2]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
-[^29-3]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^29-3]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^29-4]: Introduit par le ch. I de l’O du 1<sup>er</sup> mai 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
 
 #### Art. 30
@@ -890,7 +883,7 @@ La résiliation du contrat de travail est considérée comme due à une faute de
 
 [^31a-1]: Introduit par le ch. I de l’O du 1<sup>er</sup> mai 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
 [^31a-2]: Nouvelle teneur selon le ch. I de l’O du 13 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3803](https://fedlex.data.admin.ch/eli/oc/2019/693)).
-[^31a-3]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^31a-3]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^31a-4]: Nouvelle teneur selon le ch. I de l’O du 12 juin 2015, en vigueur depuis le 1<sup>er</sup> août 2015 ([RO 2015 2243](https://fedlex.data.admin.ch/eli/oc/2015/417)).
 [^31a-5]: Phrase introduite par le ch. I de l’O du 2 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4507](https://fedlex.data.admin.ch/eli/oc/2016/734)).
 [^31a-6]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4397](https://fedlex.data.admin.ch/eli/oc/2013/780)).
@@ -926,7 +919,7 @@ La résiliation du contrat de travail est considérée comme due à une faute de
 <sup>3</sup> Les rapports de travail de durée indéterminée visés à l’al. 1 prennent fin sans résiliation à la fin du mois au cours duquel l’employé atteint l’âge de 70 ans.
 
 [^35-1]: Nouvelle teneur selon le ch. I de l’O du 13 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3803](https://fedlex.data.admin.ch/eli/oc/2019/693)).
-[^35-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^35-2]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 ## Chapitre 4 Prestations de l’employeur
 
@@ -1111,18 +1104,20 @@ La compensation du renchérissement est versée sur:
 - c. les indemnités versées pour le travail effectué le dimanche et le travail de nuit;
 - d. l’indemnité versée pour le service de permanence;
 - e. la prime de fonction;
+- e<sup>bis</sup>.[^44-1] l’allocation versée pour chaque engagement effectué dans le cadre de plans de service fixes;
 - f. l’allocation spéciale;
 - g. l’allocation liée au marché de l’emploi;
-- h.[^44-1] les allocations complétant l’allocation familiale;
-- i.[^44-2] ...
+- h.[^44-2] les allocations complétant l’allocation familiale;
+- i.[^44-3] ...
 
 <sup>3</sup> Les montants maximaux fixés pour le salaire (art. 36) et pour l’indemnité de résidence (art. 43) sont majorés en fonction du renchérissement,
 
-<sup>4</sup> ...[^44-3]
+<sup>4</sup> ...[^44-4]
 
-[^44-1]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5395](https://fedlex.data.admin.ch/eli/oc/2020/936)).
-[^44-2]: Introduite par l’annexe ch. 2 de l’O du 31 oct. 2007 sur les allocations familiales ([RO 2008 145](https://fedlex.data.admin.ch/eli/oc/2008/52)). Abrogée par le ch. I de l’O du 13 nov. 2019, avec effet au 1<sup>er</sup> janv. 2020 ([RO 2019 3803](https://fedlex.data.admin.ch/eli/oc/2019/693)).
-[^44-3]: Abrogé par le ch. I 1 de l’O du 5 nov. 2008 sur l’optimisation du système salarial du personnel, avec effet au 1<sup>er</sup> fév. 2009 ([RO 2008 5643](https://fedlex.data.admin.ch/eli/oc/2008/785)).
+[^44-1]: Introduite par le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 616](https://fedlex.data.admin.ch/eli/oc/2022/616)).
+[^44-2]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5395](https://fedlex.data.admin.ch/eli/oc/2020/936)).
+[^44-3]: Introduite par l’annexe ch. 2 de l’O du 31 oct. 2007 sur les allocations familiales ([RO 2008 145](https://fedlex.data.admin.ch/eli/oc/2008/52)). Abrogée par le ch. I de l’O du 13 nov. 2019, avec effet au 1<sup>er</sup> janv. 2020 ([RO 2019 3803](https://fedlex.data.admin.ch/eli/oc/2019/693)).
+[^44-4]: Abrogé par le ch. I 1 de l’O du 5 nov. 2008 sur l’optimisation du système salarial du personnel, avec effet au 1<sup>er</sup> fév. 2009 ([RO 2008 5643](https://fedlex.data.admin.ch/eli/oc/2008/785)).
 
 #### Art. 44a
 
@@ -1255,7 +1250,7 @@ Le montant cumulé de la prime de prestations et de la prime spontanée ne doit 
 L’allocation familiale est versée jusqu’à ce que l’enfant atteigne l’âge de 18 ans. Pour les enfants suivant une formation et les enfants présentant une incapacité de gain (art. 7 de la LF du 6 oct. 2000 sur la partie générale du droit des assurances sociales)[^51-2], elle est versée jusqu’à ce qu’ils atteignent l’âge de 25 ans au maximum.
 
 [^51-1]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 31 oct. 2007 sur les allocations familiales, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 145](https://fedlex.data.admin.ch/eli/oc/2008/52)).
-[^51-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^51-2]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 #### Art. 51a
 
@@ -1287,12 +1282,12 @@ Le montant des allocations complétant l’allocation familiale correspond à la
 [^51a-1]: Introduit par l’annexe ch. 2 de l’O du 31 oct. 2007 sur les allocations familiales, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 145](https://fedlex.data.admin.ch/eli/oc/2008/52)).
 [^51a-2]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5395](https://fedlex.data.admin.ch/eli/oc/2020/936)).
 [^51a-3]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5395](https://fedlex.data.admin.ch/eli/oc/2020/936)).
-[^51a-4]: [RS 836.2](https://fedlex.data.admin.ch/eli/cc/2008/51)
+[^51a-4]: [RS 836.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10277)
 [^51a-5]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
 [^51a-6]: Introduit par le ch. I de l’O du 12 juin 2015, en vigueur depuis le 1<sup>er</sup> août 2015 ([RO 2015 2243](https://fedlex.data.admin.ch/eli/oc/2015/417)).
-[^51a-7]: [RS 836.21](https://fedlex.data.admin.ch/eli/cc/2008/52)
+[^51a-7]: [RS 836.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10278)
 [^51a-8]: Introduit par le ch. I de l’O du 6 mars 2009, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2009 1137](https://fedlex.data.admin.ch/eli/oc/2009/184)).
-[^51a-9]: [RS 836.21](https://fedlex.data.admin.ch/eli/cc/2008/52)
+[^51a-9]: [RS 836.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10278)
 [^51a-10]: Introduit par le ch. I de l’O du 1<sup>er</sup> mai 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
 
 #### Art. 51b
@@ -1428,7 +1423,7 @@ Les organes chargés de l’évaluation des fonctions dans l’administration f�
 
 <sup>2</sup> En cas d’incapacité de travailler due à une nouvelle maladie ou un nouvel accident, ou due à une rechute d’une maladie ou à des séquelles d’un accident, les délais prévus à l’art. 56, al. 1 et 2, recommencent à courir si l’employé a eu auparavant une capacité de travail correspondant à son taux d’occupation pendant au moins douze mois sans interruption. Les absences dont le total est inférieur à 30 jours ne sont pas prises en considération.
 
-<sup>3</sup> Si l’employé a eu une capacité de travail correspondant à son taux d’occupation pendant moins de douze mois sans interruption avant le début de son incapacité de travailler au sens de l’al. 2, il perçoit 90 % de son salaire à l’échéance des délais prévus à l’art. 56, al. 1 et 2, durant 30 jours au cours de la première année de service, durant 90 jours de la deuxième à la cinquième année de service et durant 180 jours dès la sixième année de service. Dans des cas de rigueur, le versement du salaire peut être prolongé jusqu’à douze mois au plus.
+<sup>3</sup> Si l’employé a eu une capacité de travail correspondant à son taux d’occupation pendant moins de douze mois sans interruption avant le début de son incapacité de travailler au sens de l’al. 2, il perçoit 90 % de son salaire à l’échéance des délais prévus à l’art. 56, al. 1 et 2, durant 90 jours de la troisième à la cinquième année de service et durant 180 jours dès la sixième année de service. Dans des cas de rigueur, le versement du salaire peut être prolongé jusqu’à douze mois au plus.[^56a-2]
 
 <sup>4</sup> En cas de transfert dans une autre unité administrative au sens de l’art. 1, al. 1, dans le cadre d’une mesure de réadaptation au sens de l’art. 11*a*, les délais prévus à l’art. 56, al. 1 et 2, ne recommencent pas à courir.
 
@@ -1437,6 +1432,7 @@ Les organes chargés de l’évaluation des fonctions dans l’administration f�
 <sup>6</sup> Dans le cas d’un contrat de travail de durée déterminée, le versement du salaire selon l’art. 56, al. 1 et 2, cesse au plus tard à la fin du contrat de travail.
 
 [^56a-1]: Introduit par le ch. I de l’O du 2 déc. 2016 ([RO 2016 4507](https://fedlex.data.admin.ch/eli/oc/2016/734)). Nouvelle teneur selon le ch. I de l’O du 13 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3803](https://fedlex.data.admin.ch/eli/oc/2019/693)).
+[^56a-2]: Nouvelle teneur selon le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 616](https://fedlex.data.admin.ch/eli/oc/2022/616)).
 
 #### Art. 56b
 
@@ -1459,8 +1455,8 @@ Les organes chargés de l’évaluation des fonctions dans l’administration f�
 L’employeur prend en charge les frais non couverts par les assurances privées de l’employé en cas de maladie ou d’accident pendant des voyages de service à l’étranger, pour autant que les prestations fournies soient remboursées dans le cadre de la loi fédérale du 18 mars 1994 sur l’assurance-maladie[^56c-2] et de la loi fédérale du 20 mars 1981 sur l’assurance-accidents[^56c-3].
 
 [^56c-1]: Anciennement art. 56*a*. Introduit par le ch. I de l’O du 27 nov. 2009 ([RO 2009 6417](https://fedlex.data.admin.ch/eli/oc/2009/785)). Nouvelle teneur selon le ch. I de l’O du 2 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4507](https://fedlex.data.admin.ch/eli/oc/2016/734)).
-[^56c-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^56c-3]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+[^56c-2]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
+[^56c-3]: [RS 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
 
 #### Art. 57
 
@@ -1529,7 +1525,7 @@ L’employeur prend en charge les frais non couverts par les assurances privées
 [^60-2]: Nouvelle teneur selon le ch. I de l’O du 3 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 843](https://fedlex.data.admin.ch/eli/oc/2021/843)).
 [^60-3]: Nouvelle teneur selon le ch. I de l’O du 3 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 843](https://fedlex.data.admin.ch/eli/oc/2021/843)).
 [^60-4]: Nouvelle teneur selon le ch. I de l’O du 3 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 843](https://fedlex.data.admin.ch/eli/oc/2021/843)).
-[^60-5]: [RS 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
+[^60-5]: [RS 834.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10262)
 [^60-6]: Nouvelle teneur selon le ch. I de l’O du 3 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 843](https://fedlex.data.admin.ch/eli/oc/2021/843)).
 
 #### Art. 60a
@@ -1542,14 +1538,14 @@ L’employeur prend en charge les frais non couverts par les assurances privées
 
 <sup>3</sup> Le travail à taux réduit débute au plus tard le premier jour qui suit l’expiration du délai de douze mois selon l’al. 2.
 
-<sup>4</sup> Les parents et les partenaires enregistrés ont droit dans leur fonction à une augmentation unique du taux d’occupation à hauteur de l’ensemble des réductions opérées conformément à l’al. 1, mais de 20 % au plus. La demande doit être présentée dans les trois ans après que la dernière réduction du taux d’occupation conformément à l’al. 1 a pris effet.[^60a-4]
+<sup>4</sup> Les parents et les partenaires enregistrés ont droit dans leur fonction à une augmentation unique du taux d’occupation à hauteur de l’ensemble des réductions opérées conformément à l’al. 1, mais de 20 % au plus. La demande doit être présentée dans les trois ans après que la dernière réduction du taux d’occupation conformément à l’al. 1 a pris effet et au plus tard trois mois avant l’entrée en vigueur prévue de la modification du contrat concernant l’augmentation du taux d’occupation.[^60a-4]
 
 <sup>5</sup> Le travail avec relèvement du taux d’occupation débute au plus tard le premier jour qui suit l’expiration du délai de trois ans selon l’al. 4.[^60a-5]
 
 [^60a-1]: Introduit par le ch. I de l’O du 1<sup>er</sup> mai 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
 [^60a-2]: Nouvelle teneur selon le ch. I de l’O du 13 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3803](https://fedlex.data.admin.ch/eli/oc/2019/693)).
 [^60a-3]: Nouvelle teneur selon le ch. I de l’O du 13 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3803](https://fedlex.data.admin.ch/eli/oc/2019/693)).
-[^60a-4]: Introduit par le ch. I de l’O du 13 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3803](https://fedlex.data.admin.ch/eli/oc/2019/693)).
+[^60a-4]: Introduit par le ch. I de l’O du 13 nov. 2019 ([RO 2019 3803](https://fedlex.data.admin.ch/eli/oc/2019/693)). Nouvelle teneur selon le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 616](https://fedlex.data.admin.ch/eli/oc/2022/616)).
 [^60a-5]: Introduit par le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5395](https://fedlex.data.admin.ch/eli/oc/2020/936)).
 
 #### Art. 60b
@@ -1651,7 +1647,7 @@ Le DFF a les tâches suivantes:
 <sup>5</sup> Au lieu des majorations de temps prévues aux al. 3 et 4, l’employeur peut verser aux employés des entreprises industrielles les majorations prévues à l’art. 17*b* de la loi du 13 mars 1964 sur le travail[^64-2].
 
 [^64-1]: Nouvelle teneur selon le ch. I de l’O du 24 oct. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4009](https://fedlex.data.admin.ch/eli/oc/2018/647)).
-[^64-2]: [RS 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
+[^64-2]: [RS 822.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9884)
 
 #### Art. 64a
 
@@ -1663,7 +1659,13 @@ Le DFF a les tâches suivantes:
 
 <sup>2</sup> Ils conviennent avec les employés des lieux où la prestation de travail est fournie. Ils accordent la plus grande liberté de choix possible aux employés en tenant compte des intérêts du service.
 
+<sup>3</sup> Si le lieu de travail de l’employé se trouve en Suisse, le travail mobile à l’étranger n’est en principe pas autorisé. Les responsables des unités administratives peuvent l’autoriser dans des cas exceptionnels justifiés; ils tiennent compte à cet égard des éventuels obstacles juridiques ou liés à la sécurité.[^64a-2]
+
+<sup>4</sup> Peut notamment constituer une exception la situation où les employés sont des frontaliers qui peuvent fournir une partie de leur prestation de travail à domicile.[^64a-3]
+
 [^64a-1]: Introduit par le ch. I de l’O du 12 mai 2021 en vigueur depuis le 1er juil. 2021 ([RO 2021 285](https://fedlex.data.admin.ch/eli/oc/2021/285)),.
+[^64a-2]: Introduit par le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 616](https://fedlex.data.admin.ch/eli/oc/2022/616)).
+[^64a-3]: Introduit par le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 616](https://fedlex.data.admin.ch/eli/oc/2022/616)).
 
 #### Art. 64a<sup>bis</sup>
 
@@ -1706,7 +1708,7 @@ Le DFF a les tâches suivantes:
 [^64b-1]: Anciennement art. 64*a*. Introduit par le ch. I de l’O du 5 déc. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 6411](https://fedlex.data.admin.ch/eli/oc/2008/861)).
 [^64b-2]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6737](https://fedlex.data.admin.ch/eli/oc/2017/753)).
 [^64b-3]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 285](https://fedlex.data.admin.ch/eli/oc/2021/285)).
-[^64b-4]: [RS 172.220.111.35](https://fedlex.data.admin.ch/eli/cc/2013/154)
+[^64b-4]: [RS 172.220.111.35](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5366)
 [^64b-5]: Nouvelle teneur le ch. I de l’O du 12 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 285](https://fedlex.data.admin.ch/eli/oc/2021/285)).
 [^64b-6]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
 
@@ -1995,7 +1997,7 @@ L’employé a droit au remboursement des coûts de l’accueil extrafamilial d�
 - d.[^75b-3] lorsque le revenu brut annuel des personnes formant un ménage commun visées à la let. a ou le revenu brut annuel de la personne seule investie de l’autorité parentale, y compris le treizième mois de salaire, n’excède pas 240 000 francs.
 
 [^75b-1]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4397](https://fedlex.data.admin.ch/eli/oc/2013/780)).
-[^75b-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^75b-2]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^75b-3]: Nouvelle teneur selon le ch. I de l’O du 2 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4507](https://fedlex.data.admin.ch/eli/oc/2016/734)).
 
 #### Art. 75c
@@ -2115,11 +2117,13 @@ Aucune indemnité n’est versée aux personnes:
 - d.[^78-9] dont le contrat de travail est résilié d’un commun accord pour des raisons d’exploitation ou de politique du personnel et à qui l’employeur verse des prestations au sens de l’art. 106;[^78-10]
 - e.[^78-11] qui perçoivent des prestations en cas de retraite anticipée selon l’art. 105*b*.
 
-<sup>4</sup> Si, pendant la période durant laquelle elle reçoit une des indemnités visées aux al. 1 à 2<sup>bis</sup>, une personne est engagée par un des employeurs définis à l’art. 3 LPers, elle doit rembourser la part de l’indemnité correspondant à la durée du chevauchement entre la période d’indemnisation et les nouveaux rapports de travail. Les personnes concernées informent sans délai leur ancien employeur de la conclusion du nouveau contrat de travail.[^78-12]
+<sup>4</sup> Si, pendant la période durant laquelle elle reçoit une des indemnités visées aux al. 1 à 2<sup>bis</sup>, une personne conclut de nouveaux rapports de travail ou un nouveau mandat avec un des employeurs définis à l’art. 3 LPers, elle doit rembourser la part de l’indemnité correspondant à la durée du chevauchement entre la période d’indemnisation et les nouveaux rapports de travail ou le nouveau mandat. Les personnes concernées informent sans délai leur ancien employeur de la conclusion du nouveau contrat de travail ou d’un mandat.[^78-12]
 
-<sup>4bis</sup> Le DFF recueille une fois par an les données concernant les cas où une des indemnités visées aux al. 1 à 2<sup>bis</sup> a été versée et où de nouveaux rapports de travail avec un des employeurs visés à l’art. 1, al. 1, ont été conclus au cours des douze derniers mois. Il informe les unités administratives du montant des indemnités versées.[^78-13]
+<sup>4bis</sup> L’indemnité qui doit être remboursée conformément à l’al. 4 est réduite de la différence entre l’indemnité versée et le revenu convenu dans le nouveau contrat de travail ou un mandat, pour autant que le nouveau revenu soit inférieur à l’indemnité de départ.[^78-13]
 
-<sup>5</sup> Si l’indemnité est allouée sous la forme d’un versement en tranches, le montant intégral doit avoir été versé au plus tard douze mois après la fin des rapports de travail.[^78-14]
+<sup>4ter</sup> Le DFF recueille une fois par an les données concernant les cas où une des indemnités visées aux al. 1 à 2<sup>bis</sup> a été versée et où de nouveaux rapports de travail avec un des employeurs visés à l’art. 1, al. 1, ont été conclus au cours des douze derniers mois. Il informe les unités administratives du montant des indemnités versées.[^78-14]
+
+<sup>5</sup> Si l’indemnité est allouée sous la forme d’un versement en tranches, le montant intégral doit avoir été versé au plus tard douze mois après la fin des rapports de travail.[^78-15]
 
 [^78-1]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6737](https://fedlex.data.admin.ch/eli/oc/2017/753)).
 [^78-2]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
@@ -2132,9 +2136,10 @@ Aucune indemnité n’est versée aux personnes:
 [^78-9]: Introduite par le ch. I de l’O du 2 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4507](https://fedlex.data.admin.ch/eli/oc/2016/734)).
 [^78-10]: Nouvelle teneur selon le ch. I de l’O du 27 nov. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 6417](https://fedlex.data.admin.ch/eli/oc/2009/785)).
 [^78-11]: Introduite par le ch. I de l’O du 22 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6737](https://fedlex.data.admin.ch/eli/oc/2017/753)).
-[^78-12]: Nouvelle teneur selon le ch. I de l’O du 13 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3803](https://fedlex.data.admin.ch/eli/oc/2019/693)).
-[^78-13]: Introduit par le ch. I de l’O du 13 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3803](https://fedlex.data.admin.ch/eli/oc/2019/693)).
-[^78-14]: Introduit par le ch. I de l’O du 22 déc. 2004 ([RO 2005 3](https://fedlex.data.admin.ch/eli/oc/2005/2)). Nouvelle teneur selon le ch. I de l’O du 12 juin 2015, en vigueur depuis le 1<sup>er</sup> août 2015 ([RO 2015 2243](https://fedlex.data.admin.ch/eli/oc/2015/417)).
+[^78-12]: Nouvelle teneur selon le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 616](https://fedlex.data.admin.ch/eli/oc/2022/616)).
+[^78-13]: Introduit par le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 616](https://fedlex.data.admin.ch/eli/oc/2022/616)).
+[^78-14]: Anciennement al. 4<sup>bis</sup>. Introduit par le ch. I de l’O du 13 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3803](https://fedlex.data.admin.ch/eli/oc/2019/693)).
+[^78-15]: Introduit par le ch. I de l’O du 22 déc. 2004 ([RO 2005 3](https://fedlex.data.admin.ch/eli/oc/2005/2)). Nouvelle teneur selon le ch. I de l’O du 12 juin 2015, en vigueur depuis le 1<sup>er</sup> août 2015 ([RO 2015 2243](https://fedlex.data.admin.ch/eli/oc/2015/417)).
 
 #### Art. 79
 
@@ -2299,11 +2304,11 @@ On entend par organisations internationales au sens de la présente disposition:
 
 [^88-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
 [^88-2]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
-[^88-3]: [RS 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
+[^88-3]: [RS 192.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5676)
 [^88-4]: Introduit par l’annexe ch. 4 de l’O du 7 décembre 2007 sur l’État hôte ([RO 2007 6657](https://fedlex.data.admin.ch/eli/oc/2007/861)). Nouvelle teneur selon le ch. I de l’O du 13 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3803](https://fedlex.data.admin.ch/eli/oc/2019/693)).
 [^88-5]: Introduit par le ch. I de l’O du 20 nov. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4397](https://fedlex.data.admin.ch/eli/oc/2013/780)).
 
-## Chapitre 4*a***** Prévoyance professionnelle
+## Chapitre 4*a* Prévoyance professionnelle
 
 [^chap4a-1]
 
@@ -2352,7 +2357,9 @@ L’autorité compétente en vertu de l’art. 2 peut participer au rachat régl
 
 **Congé**
 
-### (art. 17 et art. 31, al. 5, LPers)
+### (art. 17*a* et 31, al. 5, LPers)
+
+[^88d-1]
 
 <sup>1</sup> En cas de congé non payé ou partiellement payé, la couverture d’assurance reste inchangée pendant deux mois au minimum.
 
@@ -2361,6 +2368,8 @@ L’autorité compétente en vertu de l’art. 2 peut participer au rachat régl
 <sup>3</sup> Lorsque l’autorité compétente en vertu l’art. 2 ne prend plus en charge les cotisations de l’employeur ou la prime de risque à partir du troisième mois de congé, elle annonce le congé à PUBLICA. L’employé peut maintenir la couverture d’assurance qu’il avait jusqu’alors en payant, en plus de sa propre cotisation d’épargne, la cotisation de l’employeur et la prime de risque, ou limiter l’assurance à la couverture des risques de décès et d’invalidité.
 
 <sup>4</sup> Les cotisations dues par l’employé pendant son congé sont déduites de son salaire dès la reprise du travail.
+
+[^88d-1]: Nouvelle teneur selon le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 616](https://fedlex.data.admin.ch/eli/oc/2022/616)).
 
 #### Art. 88d<sup>bis</sup>
 
@@ -2373,7 +2382,7 @@ L’autorité compétente en vertu de l’art. 2 peut participer au rachat régl
 <sup>3</sup> Si la réduction du salaire assuré est opérée dans l’intérêt de l’autorité compétente au sens de l’art. 2, cette dernière peut prendre à sa charge la moitié au plus des cotisations d’épargne et de la prime de risque destinées au maintien de la prévoyance, et en imputer les coûts au budget du personnel. Cette contribution peut être temporaire.
 
 [^88dbis-1]: Introduit par le ch. I de l’O du 24 nov. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5793](https://fedlex.data.admin.ch/eli/oc/2010/821)).
-[^88dbis-2]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^88dbis-2]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 
 #### Art. 88d<sup>ter</sup>
 
@@ -2382,7 +2391,7 @@ L’autorité compétente en vertu de l’art. 2 peut participer au rachat régl
 Lorsque l’employeur et la personne employée conviennent de maintenir les relations de travail au-delà de l’âge de 65 ans, la prévoyance vieillesse de la personne employée peut être maintenue, à sa demande, jusqu’à la fin de son activité lucrative, mais au plus tard jusqu’à ce qu’elle ait atteint l’âge de 70 ans (art. 33 LPP[^88dter-2]). Dans ce cas, l’autorité compétente finance les cotisations d’épargne de l’employeur.
 
 [^88dter-1]: Introduit par le ch. I de l’O du 24 nov. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5793](https://fedlex.data.admin.ch/eli/oc/2010/821)).
-[^88dter-2]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^88dter-2]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 
 #### Art. 88e
 
@@ -2432,7 +2441,7 @@ Les activités continuellement très pénibles sur le plan physique ou psychique
 <sup>6</sup> L’unité administrative au sein de laquelle l’employé travaillait immédiatement avant sa retraite anticipée examine si les conditions d’octroi d’une rente transitoire sont remplies et calcule le degré d’occupation moyen de l’employé.
 
 [^88f-1]: Nouvelle teneur selon le ch. I de l’O du 20 juin 2014, en vigueur depuis le 1<sup>er</sup> août 2014 ([RO 2014 2171](https://fedlex.data.admin.ch/eli/oc/2014/367)).
-[^88f-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^88f-2]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^88f-3]: Nouvelle teneur selon le ch. I de l’O du 15 nov. 2017, en vigueur depuis le 1<sup>er</sup> juil. 2018 ([RO 2017 6209](https://fedlex.data.admin.ch/eli/oc/2017/689)).
 [^88f-4]: Introduit par le ch. I de l’O du 15 nov. 2017, en vigueur depuis le 1<sup>er</sup> juil. 2018 ([RO 2017 6209](https://fedlex.data.admin.ch/eli/oc/2017/689)).
 [^88f-5]: Introduit par le ch. I de l’O du 15 nov. 2017, en vigueur depuis le 1<sup>er</sup> juil. 2018 ([RO 2017 6209](https://fedlex.data.admin.ch/eli/oc/2017/689)).
@@ -2593,9 +2602,9 @@ Les employés participant à un processus d’achat ou de décision ont égaleme
 
 <sup>4</sup> L’art. 156 de la loi du 13 décembre 2002 sur le Parlement[^94-3] est réservé.[^94-4]
 
-[^94-1]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^94-1]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 [^94-2]: Nouvelle teneur selon le ch. I de l’O du 2 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4507](https://fedlex.data.admin.ch/eli/oc/2016/734)).
-[^94-3]: [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)
+[^94-3]: [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)
 [^94-4]: Nouvelle teneur selon le ch. I de l’O du 12 juin 2015, en vigueur depuis le 1<sup>er</sup> août 2015 ([RO 2015 2243](https://fedlex.data.admin.ch/eli/oc/2015/417)).
 
 #### Art. 94a
@@ -2618,7 +2627,7 @@ Sont réputés être des motifs de partialité notamment:
 <sup>4</sup> Les employés qui doivent prendre ou préparer une décision sont soumis à l’art. 10 de la loi fédérale du 20 décembre 1968 sur la procédure administrative[^94a-2].
 
 [^94a-1]: Introduit par le ch. I de l’O du 27 nov. 2009 ([RO 2009 6417](https://fedlex.data.admin.ch/eli/oc/2009/785)). Nouvelle teneur selon le ch. I de l’O du 15 août 2012, en vigueur depuis le 15 sept. 2012 ([RO 2012 4483](https://fedlex.data.admin.ch/eli/oc/2012/525)).
-[^94a-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^94a-2]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 94b
 
@@ -2737,7 +2746,7 @@ L’exercice du droit de grève est interdit aux membres des catégories de pers
 
 <sup>4</sup> Si les mêmes faits donnent lieu à une enquête disciplinaire et à une procédure pénale, la décision relative aux mesures disciplinaires est ajournée jusqu’à la fin de la procédure pénale. Exceptionnellement, la décision relative à la mesure disciplinaire peut être prise, pour de justes motifs, avant la fin de la procédure pénale.
 
-[^98-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^98-1]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 99
 
@@ -2784,7 +2793,7 @@ Outre les mesures définies à l’al. 2, les mesures disciplinaires ci-après p
 
 La responsabilité des employés qui ont causé un dommage à la Confédération ou à un tiers et la procédure visant à fixer ce dommage sont régies par la loi du 14 mars 1958 sur la responsabilité[^101-1].
 
-[^101-1]: [RS 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
+[^101-1]: [RS 170.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4971)
 
 #### Art. 102
 
@@ -2796,7 +2805,7 @@ La responsabilité des employés qui ont causé un dommage à la Confédération
 
 <sup>2</sup> L’ouverture d’une procédure pénale contre l’employé est régie par l’art. 7 de l’ordonnance du 30 décembre 1958 de la loi sur la responsabilité[^102-1].
 
-[^102-1]: [RS 170.321](https://fedlex.data.admin.ch/eli/cc/1958/1421_1492_1498)
+[^102-1]: [RS 170.321](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4972)
 
 #### Art. 103
 
@@ -2837,7 +2846,7 @@ Si l’exécution correcte des tâches est compromise, l’autorité compétente
 [^103a-3]: Introduit par le ch. I de l’O du 13 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3803](https://fedlex.data.admin.ch/eli/oc/2019/693)).
 [^103a-4]: Introduit par le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5395](https://fedlex.data.admin.ch/eli/oc/2020/936)).
 
-## Chapitre 7**** Mesures et prestations de l’employeur dans des cas particuliers
+## Chapitre 7 Mesures et prestations de l’employeur dans des cas particuliers
 
 [^chap7-1]
 
@@ -3008,10 +3017,10 @@ L’employeur peut, pour des raisons pertinentes, fournir les prestations suivan
 - d.[^105b-6] ...
 
 [^105b-1]: Nouvelle teneur selon le ch. I de l’O du 12 oct. 2016, en vigueur depuis le 1<sup>er</sup> déc. 2016 ([RO 2016 3637](https://fedlex.data.admin.ch/eli/oc/2016/611)).
-[^105b-2]: [RS 172.220.141.1](https://fedlex.data.admin.ch/eli/cc/2012/190)
+[^105b-2]: [RS 172.220.141.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5392)
 [^105b-3]: Nouvelle teneur selon le ch. I de l’O du 2 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4507](https://fedlex.data.admin.ch/eli/oc/2016/734)).
-[^105b-4]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
-[^105b-5]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^105b-4]: [RS 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
+[^105b-5]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^105b-6]: Abrogée par le ch. I de l’O du 22 nov. 2017, avec effet au 1<sup>er</sup> janv. 2018 ([RO 2017 6737](https://fedlex.data.admin.ch/eli/oc/2017/753)).
 
 #### Art. 105c
@@ -3046,7 +3055,7 @@ L’employeur peut, pour des raisons pertinentes, fournir les prestations suivan
 
 [^105d-1]: Introduit par le ch. I de l’O du 12 oct. 2016, en vigueur depuis le 1<sup>er</sup> déc. 2016 ([RO 2016 3637](https://fedlex.data.admin.ch/eli/oc/2016/611)).
 
-### Section 2 Prestations de l’employeur pour assurer la protection sociale du personnel en cas de résiliation d’un commun accord des rapports de travail****
+### Section 2 Prestations de l’employeur pour assurer la protection sociale du personnel en cas de résiliation d’un commun accord des rapports de travail
 
 [^chap7-sec2-1]
 
@@ -3148,7 +3157,7 @@ Les commissions du personnel émettent un avis à l’intention des organes de d
 
 [^109-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
 
-## Chapitre 9 Prescription****
+## Chapitre 9 Prescription
 
 [^chap9-1]
 
@@ -3181,7 +3190,7 @@ Les commissions du personnel émettent un avis à l’intention des organes de d
 Les délais de prescription pour des prétentions qui résultent des rapports de travail sont réglés conformément aux art. 127 et 128 CO[^113-2].
 
 [^113-1]: Abrogé par le ch. I de l’O du 1<sup>er</sup> mai 2013, avec effet au 1<sup>er</sup> juil. 2013 ([RO 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
-[^113-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^113-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ## Chapitre 10 Dispositions d’exécution
 
@@ -3297,7 +3306,7 @@ Il peut, après entente avec le Département fédéral de l’intérieur, édict
 [^116-1]: Introduit par le ch. I de l’O du 12 juin 2015 ([RO 2015 2243](https://fedlex.data.admin.ch/eli/oc/2015/417)). Nouvelle teneur selon le ch. I de l’O du 2 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4507](https://fedlex.data.admin.ch/eli/oc/2016/734)).
 [^116-2]: Introduite par le ch. I de l’O du 1<sup>er</sup> mai 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
 
-## Chapitre 11 Dispositions finales****
+## Chapitre 11 Dispositions finales
 
 [^chap11-1]
 
@@ -3336,10 +3345,10 @@ Au début du congé de préretraite au sens de l’art. 34, une indemnité équi
 
 <sup>5</sup> L’art. 34*a*, al. 2, ne s’applique pas aux employés selon l’al. 2.[^116c-5]
 
-[^116c-1]: Introduit par le ch. I de l’O du 15 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2007 2871](https://fedlex.data.admin.ch/eli/oc/2007/379), [2008 577](https://fedlex.data.admin.ch/eli/oc/2008/131)). Voir aussi les disp. trans. à l’art. 8 de l’O du 20 fév. 2013 sur la retraite des membres des catégories particulières de personnel ([RS 172.220.111.35](https://fedlex.data.admin.ch/eli/cc/2013/154)).
+[^116c-1]: Introduit par le ch. I de l’O du 15 juin 2007, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2007 2871](https://fedlex.data.admin.ch/eli/oc/2007/379), [2008 577](https://fedlex.data.admin.ch/eli/oc/2008/131)). Voir aussi les disp. trans. à l’art. 8 de l’O du 20 fév. 2013 sur la retraite des membres des catégories particulières de personnel ([RS 172.220.111.35](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5366)).
 [^116c-2]: Art. 33 dans sa version du 3 juil. 2001 ([RO 2001 2206](https://fedlex.data.admin.ch/eli/oc/2001/319)), al. 1 à 3<sup>bis</sup> dans la version de l’O du 5 déc. 2003 sur l’abrogation et la mod. d’O en relation avec la nouvelle réglementation du personnel militaire ([RO 2003 5011](https://fedlex.data.admin.ch/eli/oc/2003/745)); art. 16 de l’O du 2 déc. 1991 régissant le versement de prestations en cas de retraite anticipée des agents soumis à des rapports de service particuliers, dans la version de la mod. du 28 juin 2000 ([RO 2000 2429](https://fedlex.data.admin.ch/eli/oc/2000/388)).
 [^116c-3]: Nouvelle teneur selon le ch. I de l’O du 27 nov. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 6417](https://fedlex.data.admin.ch/eli/oc/2009/785)).
-[^116c-4]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^116c-4]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 [^116c-5]: Nouvelle teneur selon le ch. II 3 de l’O du 21 mai 2008 modifiant le droit fédéral à la suite du changement de régime de prévoyance de PUBLICA, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2181](https://fedlex.data.admin.ch/eli/oc/2008/319)).
 
 #### Art. 116d
@@ -3356,7 +3365,7 @@ Au début du congé de préretraite au sens de l’art. 34, une indemnité équi
 
 <sup>2</sup> Si, après l’entrée en vigueur de la modification du 1<sup>er</sup> mai 2013, l’employé quitte une unité administrative selon l’art. 1 et est réengagé par celle-ci, le nombre d’années de travail effectuées précédemment n’est plus pris en compte pour le calcul de la prime de fidélité.
 
-<sup>3</sup> et <sup>4</sup> ...[^116e-2]
+<sup>3 et <sup>4</sup></sup> ...[^116e-2]
 
 [^116e-1]: Introduit par le ch. I de l’O du 1<sup>er</sup> mai 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
 [^116e-2]: Abrogés par le ch. I de l’O du 22 nov. 2017, avec effet au 1<sup>er</sup> janv. 2018 ([RO 2017 6737](https://fedlex.data.admin.ch/eli/oc/2017/753)).
@@ -3393,19 +3402,9 @@ La participation de l’employeur au financement de la rente transitoire des emp
 
 #### Art. 116i
 
-**Dispositions transitoires relatives à la modification du 13 novembre 2019**[^116i-1]
+[^116i-1]
 
-<sup>1</sup> Les employées nées entre le 1<sup>er</sup> janvier et le 30 juin 1956 ont un délai de 30 jours à compter de l’entrée en vigueur de la modification du 13 novembre 2019 pour demander une prolongation de leurs rapports de travail en vertu de l’art. 35, al. 2.
-
-<sup>2</sup> Les employés qui, à l’entrée en vigueur de la modification du 13 novembre 2019, reçoivent une allocation pour assistance aux proches parents reçoivent cette allocation aussi longtemps que les conditions de l’ancien l’art. 51*b* sont remplies, mais au plus tard jusqu’au 31 décembre 2020.
-
-<sup>3</sup> Les employés qui, à l’entrée en vigueur de la modification du 13 novembre 2019, reçoivent un salaire en vertu de l’ancien art. 56, al. 3, continuent de le recevoir aussi longtemps que les conditions de cette disposition sont remplies.
-
-<sup>4</sup> Les demandes de versement d’une prestation d’invalidité professionnelle au sens de l’ancien art. 88*e* qui sont encore pendantes à l’entrée en vigueur de la modification du 13 novembre 2019 deviennent sans objet et sont classées.
-
-<sup>5</sup> Lorsque des procédures de recours visant l’obtention d’une prestation d’invalidité professionnelle au sens de l’ancien art. 88*e* sont encore pendantes à l’entrée en vigueur de la modification du 13 novembre 2019, cette disposition continue de s’appliquer.
-
-[^116i-1]: Introduit par le ch. I de l’O du 13 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3803](https://fedlex.data.admin.ch/eli/oc/2019/693)).
+[^116i-1]: Introduit par le ch. I de l’O du 13 nov. 2019 ([RO 2019 3803](https://fedlex.data.admin.ch/eli/oc/2019/693)). Abrogé par le ch. I de l’O du 19 oct. 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 616](https://fedlex.data.admin.ch/eli/oc/2022/616)).
 
 #### Art. 116j
 
@@ -3429,7 +3428,7 @@ Si la fonction des employés âgés de 55 ans révolus ou plus lors de l’entr�
 
 La présente ordonnance entre en vigueur au 1<sup>er</sup> janvier 2002.
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 (art. 88*f*, al. 5)
 
@@ -3445,7 +3444,7 @@ Annexe 1*[^t-1]*
 <tr><td>64</td><td>75 %</td><td>70 %</td><td>55 %</td><td>50 %</td></tr>
 </table>
 
-Annexe 2*[^t-2]*
+Annexe 2[^t-2]
 
 (art. 88*a*, al. 1)
 
@@ -3466,9 +3465,9 @@ Annexe 2*[^t-2]*
 - k. indemnité de risques selon l’art. 19 OPers-PDHH;
 - l. salaire annuel déterminant selon l’art. 21, al. 2, OPers-PDHH.
 
-[^annex2-lvlu1-1]: [RS 172.220.111.9](https://fedlex.data.admin.ch/eli/cc/2005/764)
+[^annex2-lvlu1-1]: [RS 172.220.111.9](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5376)
 
-Annexe 3*[^t-3]*
+Annexe 3[^t-3]
 
 (art. 79, al. 1<sup>bis</sup>)
 
