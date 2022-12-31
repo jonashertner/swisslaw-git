@@ -3,13 +3,13 @@ canton: FR
 number: "631.32"
 title: Verordnung über die Quellensteuer
 language: de
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-11-30
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2022-11-29
 adopted: 2020-12-09
 in_force: 2021-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/631.32"
-pdf: "https://bdlf.fr.ch/api/de/versions/7002/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7653/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/7002/pdf_file"
 
 Quellensteuer – V
 
-vom 09.12.2020 (Fassung in Kraft getreten am 01.01.2022)
+vom 09.12.2020 (Fassung in Kraft getreten am 01.01.2023)
 
 Der Staatsrat des Kantons Freiburg
 
