@@ -1,291 +1,396 @@
 ---
 canton: BL
 number: "350.11"
-title: Verordnung zum Sachversicherungsgesetz
+title: Verordnung zum Gebäudeversicherungsgesetz Basel-Landschaft
 short: GVV BL
 language: de
-version: 2018-01-01
-valid_until: 2022-12-31
-version_adopted: 2017-08-29
+version: 2023-01-01
+valid_until: 2025-04-30
+version_adopted: 2023-01-10
 adopted: 2023-01-10
 in_force: 2023-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/350.11"
-pdf: "https://bl.clex.ch/api/de/versions/1896/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3507/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung zum Sachversicherungsgesetz
+# Verordnung zum Gebäudeversicherungsgesetz Basel-Landschaft
 
-Vom 01.12.1981 (Stand 01.01.2018)
+(GVV BL)
+
+Vom 10.01.2023 (Stand 01.01.2023)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
-gestützt auf § 5 Absatz 1 des Sachversicherungsgesetzes vom 12. Januar 1981[^ingress-1],
+gestützt auf § 74 Abs. 2 der Verfassung des Kantons Basel-Landschaft vom 17. Mai 1984[^ingress-1],
 
 beschliesst:
 
-[^ingress-1]: GS 27.690, SGS [350](https://bl.clex.ch/data/350/de/art5)
+[^ingress-1]: [SGS 100](https://bl.clex.ch/data/100/de/art74)
 
-## 1 Gebäudeversicherung
-
-### 1.1 Versicherungspflicht, Versicherungswerte
+## 1 Allgemeine Bestimmungen
 
 #### § 1
 
-**Gebäudebegriff**
+**Regelungsbereich**
 
-<sup>1</sup> Als Gebäude gemäss [§ 9](https://bl.clex.ch/data/350/de/art9) des Sachversicherungsgesetzes (Gesetz/G) gilt jedes Erzeugnis der Bautätigkeit, das zur Aufnahme von Menschen, Tieren oder Sachen geeignet sowie einem bleibenden Zweck zu dienen bestimmt ist und den anerkannten Regeln der Baukunde entspricht.
+<sup>1</sup> Diese Verordnung regelt den Vollzug des Gebäudeversicherungsgesetzes Basel-Landschaft (GVG BL) vom 24. März 2022[^1-1].
 
-<sup>2</sup> Fahrnis- und Kleinbauten gelten nicht als Gebäude.
-
-<sup>3</sup> Als Fahrnisbauten gelten Objekte, die nur vorübergehend aufgestellt werden, Gebäude ohne Fundamente sowie Traglufthallen.
-
-<sup>4</sup> Als Kleinbauten gelten Objekte mit einem Wert unter CHF 1000 (Basis 1. Januar 1940).
+[^1-1]: [SGS 350](https://bl.clex.ch/data/350/de)
 
 #### § 2
 
-**Versicherte Einrichtungen**
+**Sitz der Basellandschaftlichen Gebäudeversicherung (§ 3 Abs. 1 GVG BL)**
 
-<sup>1</sup> Mit dem Gebäude sind versichert:
+<sup>1</sup> Die Basellandschaftliche Gebäudeversicherung («BGV») hat Sitz in Liestal.
 
-- a. im Wohnhaus alle Einrichtungen, mit Ausnahme der Möblierung und der beweglichen Haushaltapparate;
-- b. in allen anderen Gebäuden die gebäudevollendenden, ortsgebundenen Teile sowie alle dem Eigentümer gehörenden und mit dem Gebäude fest verbundenen Einrichtungen, mit Ausnahme ausschliesslich betrieblichen Zwecken dienender Anlagen, wie Maschinen und Apparate inkl. dazugehörender baulicher Einrichtungen (Sockel, Fundamente usw.); für Wohnungen in derartigen Gebäuden gilt Buchstabe a sinngemäss.
-
-<sup>2</sup> Mit dem Gebäude nicht versichert sind Einrichtungen, die vom Mieter oder Pächter installiert und die voraussichtlich nicht Bestandteil des Gebäudes werden.
-
-<sup>3</sup> Die Verwaltungskommission erlässt die entsprechenden Weisungen.
+## 2 Versicherungsgrundsätze
 
 #### § 3
 
-**Neuwert**
+**Policen (§ 7 Abs. 1 GVG BL)**
 
-<sup>1</sup> Als Neuwert (G [§ 11](https://bl.clex.ch/data/350/de/art11)) gilt die Kostensumme, die für die Neuerstellung des Gebäudes in gleicher Art, gleicher Grösse und gleichem Ausbau erforderlich ist.
+<sup>1</sup> Die BGV stellt über die versicherten Gebäude, weiteren baulichen Objekte sowie Grundstücke Policen aus.
 
 #### § 4
 
-**Zeitwert**
+**Versicherte Elemente von oder auf Grundstücken (§ 6 Abs. 3, § 57 Abs. 1 und 2 GVG BL)**
 
-<sup>1</sup> Als Zeitwert (G [§ 11](https://bl.clex.ch/data/350/de/art11)) gilt der Neuwert abzüglich der Wertverminderung, die seit der Erstellung des Gebäudes zufolge Alter, Abnutzung oder aus anderen Gründen eingetreten ist.
+<sup>1</sup> Folgende Elemente von oder auf Grundstücken sind versichert:
+
+- a. Boden:
+  - 1\. Erdreich;
+  - 2\. Strassen, Wege und Plätze, die im Eigentum natürlicher oder juristischer Personen des Privatrechts stehen;
+  - 3\. forstliche Waldstrassen, die im Eigentum kantonaler oder kommunaler öffentlich-rechtlicher Körperschaften stehen;
+- b. Kulturen:
+  - 1\. Nutzkulturen: Obstbäume;
+  - 2\. Zierkulturen: Gärten inklusive deren Böschungen und Biotope;
+- c. Bewuchs:
+  - 1\. bodenverwachsene, mehrjährige Zierpflanzen und -bäume in Gärten inklusive deren Böschungen;
+- d. Wald:
+  - 1\. Waldbäume.
+
+<sup>2</sup> Als forstliche Waldstrassen gelten solche gemäss der kantonalen Waldgesetzgebung, die zudem mindestens eine Tragschicht und einen Deckbelag aufweisen.
 
 #### § 5
 
-**Verkehrswert**
+**Gemeinschaftliches Eigentum, Stockwerkeigentum (§ 8 Abs. 1, § 27 GVG BL)**
 
-<sup>1</sup> Als Verkehrswert (G [§ 17 Absatz 4](https://bl.clex.ch/data/350/de/art17)) gilt der handelsübliche Verkaufswert des Gebäudes ohne Land. Für die Ermittlung des Verkehrswertes ist vom Gesamtwert der Liegenschaft auszugehen. Bei der Festsetzung des Landwertes sind alle Vorteile, wie Lage, Überbauungs- und Nutzungsmöglichkeiten, sowie alle Lasten auf dem Grundstück angemessen zu berücksichtigen.
+<sup>1</sup> Besteht an einem Gebäude Gesamt-, Mit- oder Stockwerkeigentum, gilt die jeweilige Eigentümergemeinschaft als Versicherungsnehmerin.
+
+<sup>2</sup> Abs. 1 gilt sinngemäss bei Grundstücken in Gesamt- oder Miteigentum.
+
+<sup>3</sup> Die Mitglieder einer Gesamt- oder einer Miteigentümergemeinschaft haften solidarisch für die Gesamtabgabe gemäss § 27 GVG BL.
 
 #### § 6
 
-**Ausnahmen von der Neuwertversicherung**
+**Vertretung bei gemeinschaftlichem Eigentum (§ 8 Abs. 1 GVG BL)**
 
-<sup>1</sup> Von der Neuwertversicherung können ausgenommen werden:
+<sup>1</sup> Besteht an einem Gebäude oder an einem Grundstück Mit- oder Gesamteigentum, haben die Eigentümerinnen und Eigentümer gegenüber der BGV eine gemeinsame Vertretung zu bezeichnen. Unterbleibt die Mitteilung, bestimmt die BGV die gemeinsame Vertretung.
 
-- a. Gebäude, die nach einem möglichen Schadenfall nicht wiederhergestellt werden;
-- b. Gebäude, die voraussichtlich nach einem möglichen Schadenfall zu einem ganz anderen Zweck wiederhergestellt werden;
-- c. historische Bauten.
+<sup>2</sup> Abs. 1 gilt sinngemäss auch für Stockwerkeigentümergemeinschaften.
 
-<sup>2</sup> Bei den von der Neuwertversicherung ausgenommenen Gebäuden kann der Eigentümer durch Abschluss einer Zusatzversicherung mit der Basellandschaftlichen Gebäudeversicherung (BGV) vereinbaren, dass Teilschäden bis 10% des Versicherungswertes voll zu vergüten sind.
+## 3 Versicherte Schäden
 
 #### § 7
 
-**Überprüfung der Versicherungswerte**
+**Hitzeschäden (§ 14 Abs. 1 Bst. a GVG BL)**
 
-<sup>1</sup> Der Gebäudeeigentümer und die BGV können jederzeit die Überprüfung des Versicherungswertes eines Gebäudes verlangen.
+<sup>1</sup> Nicht als Hitzeschäden gelten Schäden an Gebäuden oder an deren Bestandteilen oder Inneinrichtungen, die bestimmungsgemäss der Wirkung von Feuer, Hitze oder elektrischem Strom ausgesetzt sind.
 
 #### § 8
 
-**…**
+**Abnutzung (§ 14 Abs. 2 Bst. a GVG BL)**
+
+<sup>1</sup> Als Abnutzung gilt die übliche, ordentliche, übermässige oder unsachgemässe Benützung des Gebäudes, der Gebäudebestandteile oder der Gebäudeinnenausbauten.
 
 #### § 9
 
-**Verfahren bei Neubauten und Umbauten**
+**Hochwasser, Überschwemmung (§ 15 Abs. 1 Bst. a GVG BL)**
 
-<sup>1</sup> Bei Neubauten, Um- und Anbauten (G [§ 10 Absatz 1](https://bl.clex.ch/data/350/de/art10)) haben die Baubewilligungsbehörden dem Bauherrn mit der Baubewilligung die Vorschriften über die Gebäudeversicherung abzugeben und der BGV eine Kopie der Baubewilligung zuzustellen.
-
-<sup>2</sup> Der Eigentümer hat der BGV vor Baubeginn alle für die Versicherung benötigten Angaben einzureichen (Anmeldung). Das gilt auch für bauliche Änderungen, die keiner Baubewilligung bedürfen.
-
-<sup>3</sup> Die BGV stellt dem Eigentümer eine Versicherungsbestätigung zu.
-
-<sup>4</sup> Der Eigentümer hat die Vollendung des Gebäudes oder den Abschluss baulicher Änderungen der Gemeinde oder der BGV zu melden, worauf der Versicherungswert festgelegt wird.
-
-<sup>5</sup> Ein vollständiger oder teilweiser Abbruch eines Gebäudes ist der BGV vom Eigentümer schriftlich zu melden.
-
-### 1.2 Einschränkung der versicherten Gefahren
+<sup>1</sup> Als Hochwasser oder als Überschwemmung gilt Wasser, das dem Gebäude oberflächlich zufliesst.
 
 #### § 10
 
-**Hitzeschäden**
+**Sturmwind (§ 15 Abs. 1 Bst. e, § 17 Abs. 1 Bst. e GVG BL)**
 
-<sup>1</sup> Nicht als Hitzeschäden (G [§ 13](https://bl.clex.ch/data/350/de/art13)) im Sinne der Versicherungsbestimmungen gelten Betriebs- oder Gebrauchsschäden an versicherten Gebäudeteilen oder -einrichtungen, die bestimmungsgemäss der Wirkung von Feuer, Hitze oder elektrischem Strom ausgesetzt sind.
+<sup>1</sup> Als Sturmwind gilt Wind,
+
+- a. der, gemessen an der für den Schadenort massgebenden und von der BGV anerkannten Messstation, schneller als 75 km/h weht;
+- b. der in der Umgebung der versicherten Sache an ordnungsgemäss erstellten und unterhaltenen Gebäuden Schäden anrichtet, insbesondere Dächer ganz oder teilweise abdeckt; oder
+- c. der in der Umgebung der versicherten Sache gesunde Bäume, die nicht von Trockenheit, Hitze oder Frost geschwächt sind, umwirft oder erheblich beschädigt.
 
 #### § 11
 
-**Sturmwinde**
+**Atomkernstruktur, Nuklearunfälle (§ 18 Abs. 1 Bst. g GVG BL)**
 
-<sup>1</sup> Als aussergewöhnlich heftige Sturmwinde (G [§ 14](https://bl.clex.ch/data/350/de/art14)) gelten solche von über 75 km/Std., die in der Umgebung der versicherten Sachen Bäume umwerfen oder Gebäude abdecken.
+<sup>1</sup> Als Veränderung der Atomkernstruktur und Nuklearunfälle gelten insbesondere:
+
+- a. ionisierende Strahlen;
+- b. radioaktive Verseuchung als Folge von Verwendung, Lagerung oder Beseitigung atomarer Stoffe aller Art.
 
 #### § 12
 
-**Hochwasser, Überschwemmung**
-
-<sup>1</sup> Nicht als Hochwasser oder Überschwemmung (G [§ 14](https://bl.clex.ch/data/350/de/art14)) gelten Schäden, die durch Rückstau aus Ableitungen im Innern des Gebäudes entstanden sind, oder solche durch Eindringen von Regen und Schneewasser durch Dach, Wände und Fenster.
-
-#### § 13
-
-**Veränderung der Atomkernstruktur**
-
-<sup>1</sup> Als nicht versicherte Schäden zufolge Veränderung der Atomkernstruktur (G [§ 16](https://bl.clex.ch/data/350/de/art16)) gelten insbesondere auch solche, die entstehen durch ionisierende Strahlen oder durch radioaktive Verseuchung als Folge der Verwendung, Lagerung und Beseitigung atomarer Stoffe aller Art.
-
-#### § 14
-
-**Kriegerische Ereignisse, innere Unruhen**
+**Kriegerische Ereignisse, innere Unruhen (§ 18 Abs. 1 Bst. h GVG BL)**
 
 <sup>1</sup> Als kriegerische Ereignisse gelten:
 
-- a. die bewaffnete Auseinandersetzung zwischen 2 oder mehreren Staaten (Krieg) sowie Vorbereitungshandlungen dazu;
+- a. bewaffnete Konflikte aller Art zwischen 2 oder mehreren Staaten sowie Vorbereitungshandlungen dazu;
 - b. die Beeinträchtigung der territorialen Integrität der Schweiz (Neutralitätsverletzung);
-- c. die bewaffnete Auseinandersetzung zwischen 2 oder mehreren Parteien innerhalb der Schweiz (Bürgerkrieg).
+- c. bewaffnete Konflikte aller Art zwischen 2 oder mehreren Gruppierungen in der Schweiz (z. B. Bürgerkrieg).
 
 <sup>2</sup> Als innere Unruhen gelten Gewalttätigkeiten gegen Personen oder Sachen, die begangen werden:
 
 - a. durch eine erhebliche Zahl von Menschen anlässlich von Aufruhr, Aufstand, Ausschreitungen, Krawall, Rebellion, Tumult und dergleichen;
 - b. durch einzelne im Rahmen der Tätigkeit einer in- oder ausländischen Organisation, die durch Terror oder andere Gewaltmassnahmen politische oder andere Ziele zu verwirklichen sucht.
 
-### 1.3 Berechnung der Entschädigung
+#### § 13
+
+**Kartenwerke über gravitative Naturgefahren (§ 18 Abs. 2 GVG BL)**
+
+<sup>1</sup> Die Kartenwerke über die gravitativen Naturgefahren geben Hinweis auf die Möglichkeit und Wahrscheinlichkeit von Elementarschäden.
+
+## 4 Versicherungsdeckung
+
+#### § 14
+
+**Baubeginn (§ 21 Abs. 1 Bst. a GVG BL)**
+
+<sup>1</sup> Die BGV stellt der Baubewilligungsbehörde eine Zusammenstellung der einschlägigen Versicherungsunterlagen zu. Diese gibt die Zusammenstellung den Empfängerinnen und Empfängern der Baubewilligung zuhanden der Versicherungsnehmerinnen und Versicherungsnehmer ab.
+
+<sup>2</sup> Die Versicherungsnehmerinnen und Versicherungsnehmer haben der BGV vor Baubeginn alle für die Versicherung notwendigen Angaben und Dokumente anzugeben bzw. einzureichen.
+
+<sup>3</sup> Die BGV stellt den Versicherungsnehmerinnen und Versicherungsnehmern bzw. deren Vertretung eine Versicherungsbestätigung zu. In besonderen Fällen kann sie darauf verzichten.
 
 #### § 15
 
-**Begrenzung der Entschädigung**
+**Bauende (§ 21 Abs. 1 Bst. a GVG BL)**
 
-<sup>1</sup> Oberste Grenze für den Ersatzanspruch ist die Versicherungssumme, für welche zuletzt die Prämie zu entrichten war.
-
-<sup>2</sup> Erfordert der Wiederaufbau eines teilweise oder ganz zerstörten Gebäudes jedoch höhere Baukosten, so kann der Teuerungszuschlag zur Grundschätzung erhöht werden bis zum Index der Baupreise zur Zeit des Wiederaufbaus, höchstens aber während 3 Jahren ab Schadeneintritt.
+<sup>1</sup> Als Ende der Bauarbeiten gilt der Zeitpunkt, in dem das Gebäude bezugsbereit ist.
 
 #### § 16
 
-**Unterversicherung bei Teilschäden**
+**Schätzungseinheiten (§ 22 Abs. 1 GVG BL)**
 
-<sup>1</sup> Besteht für ein Objekt eine wesentliche Unterversicherung, so ist bei Teilschäden die Entschädigung angemessen zu kürzen.
+<sup>1</sup> Gebäude, die in baulicher Hinsicht eine Einheit bilden, werden grundsätzlich einzeln geschätzt und versichert.
+
+<sup>2</sup> Gebäude, an denen Stockwerkeigentum besteht, werden als Ganzes geschätzt und versichert.
 
 #### § 17
 
-**Wiederherstellung**
+**Schätzungs- und Versicherungswerte (§ 22 Abs. 1 GVG BL)**
 
-<sup>1</sup> Ein Gebäude gilt als wiederhergestellt, wenn es vom geschädigten Eigentümer am Schadenort im gleichen Umfang oder Ausbau und zum gleichen Zweck wiederaufgebaut worden ist. In begründeten Fällen kann der Wiederaufbau auch andernorts erfolgen.
-
-<sup>2</sup> Dem geschädigten Eigentümer sind gleichzustellen dessen Ehegatte, dessen eingetragener Partner bzw. deren eingetragene Partnerin, Blutsverwandte und Verschwägerte, die Grundpfandgläubiger sowie Mieter und Pächter der Liegenschaft und in besonderen Fällen auch andere Personen.
-
-<sup>3</sup> Werden die Wiederaufbaubedingungen gemäss Absatz 1 nicht voll erfüllt und erwachsen dem Eigentümer aus der Versetzung oder Zweckveränderung des Gebäudes wesentliche wirtschaftliche Vorteile, so ist die Entschädigung angemessen zu kürzen, höchstens jedoch bis zum Verkehrswert des Gebäudes.
-
-<sup>4</sup> Eine Anrechnung wirtschaftlicher Vorteile unterbleibt, wenn das Gebäude aus öffentlich-rechtlichen Gründen nicht mehr am alten Ort wiederaufgebaut werden kann und dieses am nächstmöglichen Ort erstellt wird.
+<sup>1</sup> Die BGV darf die Schätzungs- und Versicherungswerte der Gebäude nur den Versicherungsnehmerinnen und Versicherungsnehmern mitteilen. Vorbehalten bleiben die §§ 30 – 32.
 
 #### § 18
 
-**Abbruchwertentschädigung**
+**Versicherungswerte (§ 23 GVG BL)**
 
-<sup>1</sup> Die Abbruchwertentschädigung (G [§ 21](https://bl.clex.ch/data/350/de/art21)) umfasst:
+<sup>1</sup> Als Neuwert eines Gebäudes gelten die Kosten, welche zum Zeitpunkt der Schätzung für die Wiederherstellung des Gebäudes in gleicher Bauart, in gleichem Volumen und in gleichem Ausbaustandard erforderlich wären.
 
-- a. den Verkaufswert beschädigter Gebäudeteile abzüglich deren Abbruchkosten;
-- b. schadenbedingte Mehrkosten des Abbruchs;
-- c. in besonderen Fällen andere, schadenbedingte Verluste.
+<sup>2</sup> Als Zeitwert eines Gebäudes gilt derjenige Wert, der zum Zeitpunkt der Schätzung gegenüber dem Neuwert des Gebäudes vermindert ist. Minderungsursachen sind insbesondere Alter, Abnutzung, Witterungseinflüsse, Bauschäden oder Baumängel.
 
-### 1.4 Freiwillige Versicherung
+<sup>3</sup> Wichtige Gründe für eine Versicherung zu einem bestimmten Wert sind insbesondere für Gebäude gegeben,
+
+- a. die nach einem möglichen Schadenfall voraussichtlich nicht wiederhergestellt oder die für einen anderen Zweck wiederhergestellt werden sollen;
+- b. die historisch oder die geschützt sind.
 
 #### § 19
 
-**Gebäudeähnliche Objekte**
+**Überprüfung der Versicherungswerte (§ 22 Abs. 1 GVG BL)**
 
-<sup>1</sup> Als gebäudeähnliche Objekte (G [§ 22](https://bl.clex.ch/data/350/de/art22)) gelten:
+<sup>1</sup> Die Versicherungsnehmerinnen und Versicherungsnehmer können jederzeit eine Überprüfung der Versicherungswerte ihrer Gebäude verlangen.
 
-- a. selbständige bauliche Anlagen, die aus dauerhaftem Material erstellt sind, wie private Brücken, Wasserzisternen, Brunnen, Treppen, Landungsstege, Schwimmbassins, Stützmauern und dergleichen;
-- b. Kleinbauten gemäss § 1 Absatz 4;
-- c. Gartenzäune und Einfriedigungen aller Art.
-
-<sup>2</sup> Sie sind versicherbar, wenn sie den anerkannten Regeln der Baukunde entsprechen.
-
-## 2 Grundstückversicherung
+<sup>2</sup> Die BGV kann jederzeit von sich aus eine Überprüfung der Versicherungswerte von Gebäuden vornehmen.
 
 #### § 20
 
-**Umfang der Grundstückversicherung**
+**Deckungsausschluss (§ 26 GVG BL)**
 
-<sup>1</sup> Zu den versicherten Grundstücken (G [§ 25](https://bl.clex.ch/data/350/de/art25)) gehören Land, Wald, Kulturen, Obst- und Zierbäume, Gärten (inklusive Böschungen und Biotope), Hausplätze, Hofräume sowie Wege.
+<sup>1</sup> Die BGV stellt bei einem Deckungssauschluss eine neue Police aus und trägt diesen darin ein.
 
-<sup>2</sup> Nicht versichert sind:
+<sup>2</sup> Sie verfährt bei Aufhebung eines Deckungsausschlusses sinngemäss.
 
-- a. Eisenbahngrundstücke;
-- b. technische Werke und Anlagen aller Art;
-- c. Strassen, Plätze und Wege, soweit sie im Eigentum des Bundes, des Kantons, der Einwohnergemeinden, der Bürgergemeinden, der Burgergemeinden oder der Burgerkorporationen stehen;
-- d. Leitungen aller Art, wie ober- und unterirdische Leitungsanlagen, Eindolungen, Drainagen und Kanäle;
-- e. Bachsohlen und Ufer von Gewässern;
-- f. Pritschen, Schwellen und Wehranlagen;
-- g. Sportplätze aller Art.
+<sup>3</sup> Bei Handänderungen von Liegenschaften sind in den öffentlichen Urkunden die Erwerberinnen und Erwerber auf die Möglichkeit von Deckungsausschlüssen in den Policen hinzuweisen.
 
-<sup>3</sup> Gebäudeähnliche Objekte wie Gartenzäune, Einfriedigungen und technische Gartenanlagen können gemäss [§ 22](https://bl.clex.ch/data/350/de/art22) des Gesetzes und § 19 dieser Verordnung freiwillig mit dem Gebäude versichert werden.
+## 5 Gesamtabgabe
 
 #### § 21
 
-**Elementarschaden**
+**Gesamtabgabe (§ 27 GVG BL)**
 
-<sup>1</sup> Als Duftbruch gemäss [§ 26](https://bl.clex.ch/data/350/de/art26) des Gesetzes gelten auch Schäden durch sogenannten Eisregen.
+<sup>1</sup> Die BGV erhebt die Gesamtabgabe für das laufende Jahr.
+
+<sup>2</sup> Die Gesamtabgabe wird 30 Tage nach der Rechnungstellung zur Bezahlung fällig.
 
 #### § 22
 
-**Auszahlung der Entschädigung**
+**Haftung (§ 33 Abs. 1 GVG BL)**
 
-<sup>1</sup> Bei Pachtverhältnissen kann in besonderen Fällen die Entschädigung statt dem Grundeigentümer dem Pächter ausbezahlt werden.
+<sup>1</sup> Bei Handänderungen von Liegenschaften sind in den öffentlichen Urkunden die Erwerberinnen und Erwerber darauf hinzuweisen, dass sie solidarisch mit den Veräusserinnen und Veräusserern für ausstehende Gesamtabgaben haften und für diese ein gesetzliches Grundpfandrecht ohne Eintrag im Grundbuch besteht.
 
-## 3 Allgemeine Versicherungsbestimmungen
+## 6 Grundsätze der BGV-Leistungen
 
 #### § 23
 
-**Besonders grosse Schadengefahr**
+**Umfang der Leistungen (Kapitel 7 GVG BL)**
 
-<sup>1</sup> Als besonders gross ist die Schadengefahr (G [§ 39](https://bl.clex.ch/data/350/de/art39)) zu betrachten, wenn:
-
-- a. geltende Vorschriften missachtet worden sind,
-- b. angeordnete Schutzmassnahmen gegen Brandschäden oder Schäden durch gravitative Naturgefahren nicht oder nicht vollständig umgesetzt worden sind,
-- c. das Ausmass oder die Häufigkeit eines möglichen Brand- oder Elementarschadens besonders hoch ist oder
-- d. aus anderen Gründen eine besonders grosse Brand- und Explosionsgefahr besteht.
+<sup>1</sup> Die BGV richtet Versicherungsleistungen, Entschädigungen, Zusatzleistungen und Minderwertabgeltungen ausschliesslich für die versicherten Bestandteile, Innenausbauten und Inneneinrichtungen der Gebäude und der weiteren baulichen Objekte oder für die versicherten Elemente der Grundstücke aus.
 
 #### § 24
 
-**Schadenminderungskosten**
+**Kürzung von Zusatzleistungen (§ 38, § 53, § 60 GVG BL)**
 
-<sup>1</sup> Die BGV hat die Auslagen für die Schadenminderung (G [§ 42](https://bl.clex.ch/data/350/de/art42)) nur anteilsmässig zu vergüten, wenn aus den getroffenen Massnahmen weitere Versicherer oder Personen Nutzen ziehen.
+<sup>1</sup> Die BGV kürzt Zusatzleistungen in demjenigen Umfang, in dem aus ihrem Kostenersatz gemäss § 53 GVG BL oder gemäss § 60 GVG BL weitere Versicherer oder weitere Personen einen geldwerten Vorteil haben.
 
-## 4 Versicherung der Fahrhabe
+## 7 Leistungen bei Gebäudeschäden
 
 #### § 25
 
-**…**
+**Schadensarten (§ 45 GVG BL)**
 
-## 5 Schlussbestimmungen
+<sup>1</sup> Als totalbeschädigt gilt ein Gebäude, wenn von ihm keine Gebäudeteile mehr für seine Wiederherstellung verwendet werden können.
+
+<sup>2</sup> Als teilbeschädigt gilt ein Gebäude, wenn von ihm noch Gebäudeteile für seine Wiederherstellung verwendet werden können.
 
 #### § 26
 
-**Übergangsbestimmungen**
+**Mietzinsausfälle (§ 53 Abs. 1 Bst. d GVG BL)**
 
-<sup>1</sup> Bei Gebäuden, die noch nicht zum Neuwert eingeschätzt worden sind, wird ein prozentualer Zuschlag zur bisherigen Versicherungssumme erhoben. Dieser wird durch die Verwaltungskommission festgesetzt.
+<sup>1</sup> Massgebend für die Zusatzleistung für schadensbedingte Mietzinsausfälle ist der Mietzins für unbenützbaren Wohnraum in unmöbliertem Zustand sowie für unbenützbare Bastelräume und Autoeinstellplätze.
 
-<sup>2</sup> Die neue Versicherungssumme ist dem Eigentümer bekanntzugeben. Sofern sie ihm als Übergangswert zu hoch oder zu niedrig erscheint, kann er eine Revisionsschätzung verlangen.
+## 8 Leistungen bei Grundstückschäden
 
 #### § 27
 
-**Aufhebung bisherigen Rechts**
+**Wiederherstellung des Erdreichs (§ 57 Abs. 1 Bst. a und Abs. 3 GVG BL)**
 
-<sup>1</sup> Es werden aufgehoben:
+<sup>1</sup> Die Versicherungsleistung für die Wiederherstellung des Erdreichs gemäss § 4 Abs. 1 Bst. a Ziff. 1 umfasst die Kosten für die Herstellung des vorherigen topographischen Zustands.
 
-- a. das Geschäftsreglement vom 19. Juli 1946[^27-1] für die Aufsichtskommission der Basellandschaftlichen Gebäudeversicherungsanstalt,
-- b. die Weisung vom 30. Oktober 1968[^27-2] betreffend die Bauzeitversicherung von Gebäuden.
+<sup>2</sup> Kann die Wiederherstellung des vorherigen topographischen Zustands nur durch Verbauungen wie Mauern, Verankerungen etc. erreicht werden, sind gemäss § 57 Abs. 3 GVG BL deren Kosten durch die Versicherungsnehmerin oder den Versicherungsnehmer zu tragen.
 
-[^27-1]: GS 19.459
-[^27-2]: GS 23.744
+<sup>3</sup> Vorbehalten bleibt § 28.
 
 #### § 28
 
-**Inkrafttreten**
+**Verunreinigtes Grundstück (§ 57 Abs. 1 Bst. a, § 60 Abs. 1 Bst. b GVG BL)**
 
-<sup>1</sup> Diese Verordnung tritt am 1. Januar 1982 in Kraft.
+<sup>1</sup> Die BGV richtet für die Wiederherstellung eines Grundstücks, das durch das Schadensereignis verunreinigt wurde, sowie für die aufgrund dieser Verunreinigung notwendigen Räumungs- und Entsorgungsmassnahmen insgesamt höchstens CHF 15‘000 aus.
 
-GS 27.847
+<sup>2</sup> Als eine Verunreinigung gemäss Abs. 1 gilt auch eine Belastung gemäss der eidgenössischen Verordnung über die Sanierung von belasteten Standorten (Altlasten-Verordnung, AltlV)[^28-1].
+
+[^28-1]: [SR 814.680](https://db.clex.ch/link/Bund/814.680/de)
+
+#### § 29
+
+**Unabhängige Schätzungen anstelle von Rechnungen (§ 58 Abs. 1 Bst. b GVG BL)**
+
+<sup>1</sup> Die Begehren um Auszahlung von Versicherungsleistungen für erschwerte Holzhauerei oder für Holzentwertung können anstelle von Rechnungen durch unabhängige Schätzungen belegt werden.
+
+## 9 Meldungen
+
+#### § 30
+
+**Meldungen an das kantonale Gebäude- und Wohnungsregister (§ 9 Abs. 2 GVG BL)**
+
+<sup>1</sup> Die BGV meldet dem kantonalen Gebäude- und Wohnungsregister die Daten gemäss Anhang II der Verordnung über das kantonale Gebäude- und Wohnungsregister (VkGWR) vom 26. Oktober 2021[^30-1].
+
+[^30-1]: [SGS 111.12](https://bl.clex.ch/data/111.12/de)
+
+#### § 31
+
+**Meldungen an die Steuerverwaltung (§ 9 Abs. 1 und 2 GVG BL)**
+
+<sup>1</sup> Die BGV meldet der Steuerverwaltung diejenigen steuerrelevanten Daten, die von dieser bestimmt werden.
+
+#### § 32
+
+**Meldungen an die Einwohnergemeinden**
+
+<sup>1</sup> Die BGV meldet gemäss der kantonalen Registergesetzgebung den Einwohnergemeinden nach erfolgter Gebäudeschätzung
+
+- a. den einfachen Brandlagerwert gemäss § 27<sup>ter</sup> Abs. 1<sup>bis</sup> des Steuergesetzes vom 7. Februar 1974[^32-1];
+- b. den Versicherungsneuwert;
+- c. die Art und das Datum der Gebäudeschätzung.
+
+<sup>2</sup> Sie meldet den Einwohnergemeinden auf deren Verlangen den Investitionsmehrwert eines Gebäudes. Die Meldung erfolgt direkt sowie elektronisch.
+
+<sup>3</sup> Als Investitionsmehrwert gilt der Mehrwert, den ein Gebäude nach Abzug seiner Wertminderung durch eine Investition gegebenenfalls erhält. Investitionen für Renovation und Unterhalt haben keine Investitionsmehrwerte zur Folge.
+
+[^32-1]: [SGS 331](https://bl.clex.ch/data/331/de)
+
+#### § 33
+
+**Meldungen des kantonalen Gebäude- und Wohnungsregisters (§9 Abs. 2 GVG BL)**
+
+<sup>1</sup> Die BGV lässt sich vom kantonalen Gebäude- und Wohnungsregister (kGWR) die Daten gemäss Anhang IV der Verordnung über das kantonale Gebäude- und Wohnungsregister (VkGWR) vom 26. Oktober 2021[^33-1] systematisch melden.
+
+[^33-1]: [SGS 111.12](https://bl.clex.ch/data/111.12/de)
+
+#### § 34
+
+**Meldungen der Kinder- und Erwachsenenschutzbehörden (§ 9 Abs. 3 GVG BL)**
+
+<sup>1</sup> Die Kinder- und Erwachsenenschutzbehörden melden der BGV bei Personen, die Eigentümerinnen oder Eigentümer von Gebäuden oder Grundstücken sind und für die sie eine grundeigentums-relevante Beistandschaft errichten,
+
+- a. den Namen der Person und ihre AHV-Nummer;
+- b. den Namen und die Adresse deren Beiständin oder Beistands.
+
+<sup>2</sup> Die Meldung erfolgt unverzüglich, direkt und elektronisch.
+
+#### § 35
+
+**Meldungen des Grundbuchamts (§ 9 Abs. 3 GVG BL)**
+
+<sup>1</sup> Das Grundbuchamt meldet der BGV alle Handänderungen sowie alle Mutationen von Grundstücken.
+
+<sup>2</sup> Die Meldung umfasst:
+
+- a. den Grund der Meldung;
+- b. die Bezeichnung des Grundstücks;
+- c. die Grundstücksbeschreibung;
+- d. die eidgenössische Grundstücksidentifikation;
+- e. die Art des Eigentums;
+- f. gegebenenfalls die Nummer der Stammparzelle.
+
+<sup>3</sup> Die Meldung über die Handänderung umfasst zusätzlich:
+
+- a. die Bezeichnung der bisherigen Eigentümerin oder des bisherigen Eigentümers inklusive AHV-Nummer oder UID-Nummer;
+- b. die Bezeichnung der neuen Eigentümerin oder des neuen Eigentümers inklusive AHV-Nummer oder UID-Nummer.
+
+<sup>4</sup> Die Meldung erfolgt unverzüglich, direkt und elektronisch.
+
+## 10 Basellandschaftliche Gebäudeversicherung
+
+#### § 36
+
+**Amtsperiode des Verwaltungsrats (§ 63 Abs. 1 Bst. a GVG BL)**
+
+<sup>1</sup> Die Amtsperiode des Verwaltungsrats der Basellandschaftlichen Gebäudeversicherung beträgt 4 Jahre.
+
+<sup>2</sup> Sie beginnt am 1. Januar der Jahre 2021, 2025 usw.
+
+#### § 37
+
+**Reglemente (§ 67 Abs.1 Bst. e GVG BL)**
+
+<sup>1</sup> Reglemente des Verwaltungsrats, die für die Versicherungsnehmerinnen und Versicherungsnehmer sowie für Aussenstehende rechtsrelevant sind, sind in der kantonalen Gesetzessammlung zu publizieren.
+
+## 11 Schlussbestimmung
+
+#### § 38
+
+**Übergangsbestimmungen**
+
+<sup>1</sup> Die bisherigen Policen behalten ihre Gültigkeit bis neue, formell ans neue Recht angepasste Policen ausgestellt sind.
+
+<sup>2</sup> Die BGV kann auf den Gesamtabgaberechnungen sowie auf weiteren Dokumenten im Jahr 2023 die bisherige Terminologie verwenden.
+
+<sup>3</sup> Solange das kantonale Gebäude- und Wohnungsregister für die BGV nicht operationell ist, meldet die BGV die Daten an die Steuerverwaltung gemäss § 9 Abs. 1 GVG BL sowie diejenigen an die Einwohnergemeinden gemäss § 32 Abs. 1 dieser bzw. diesen je direkt sowie elektronisch.
+
+<sup>4</sup> Das Grundbuchamt muss die AHV- und die UID-Nummern gemäss § 35 Abs. 3 erst dann melden, wenn es technisch dazu in der Lage ist.
+
+<sup>5</sup> Die nach bisherigem Recht gewählten Mitglieder der bisherigen Verwaltungskommission gelten für den Rest der laufenden Amtsperiode als in den neurechtlichen Verwaltungsrat gewählt.
+
+GS 2023.003
