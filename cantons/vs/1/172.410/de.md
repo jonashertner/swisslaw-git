@@ -4,20 +4,20 @@ number: "172.410"
 title: "Verordnung über die Besoldung der Angestellten des Staates Wallis *"
 short: VBes
 language: de
-version: 2021-07-01
-valid_until: 2022-12-31
-version_adopted: 2020-12-23
+version: 2023-01-01
+valid_until: 2024-12-31
+version_adopted: 2022-11-30
 adopted: 1997-07-10
 in_force: 1998-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/172.410"
-pdf: "https://lex.vs.ch/api/de/versions/2836/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3097/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Besoldung der Angestellten des Staates Wallis
 
-vom 10.07.1997 (Stand 01.07.2021)
+vom 10.07.1997 (Stand 01.01.2023)
 
 Der Staatsrat des Kantons Wallis
 
@@ -71,11 +71,7 @@ verordnet:
 
 #### Art. 5a
 
-**Funktionskette**
-
-<sup>1</sup> In Übereinstimmung mit den Grundsätzen betreffend die Funktionsketten, wird für sämtliche Angestellte, welche neu angestellt werden, befördert oder neu eingestuft werden, eine Warteklasse direkt unter der normalen Funktionsklasse angewendet.
-
-<sup>2</sup> Die Anwendungsbestimmungen sind in den Entscheiden betreffend die Funktionsketten, die Neueinstufung, der Beförderung oder der Anstellung geregelt.
+**…**
 
 #### Art. 6
 
@@ -328,6 +324,8 @@ verordnet:
 
 <sup>1</sup> Wird die Arbeit innerhalb von sechs Monaten nach der Niederkunft nicht wieder aufgenommen wird, besteht ein Besoldungsanspruch während acht Wochen.
 
+<sup>1<sup>bis</sup></sup> Bei Verlängerung der Mutterschaftsentschädigung gemäss Artikel 16c Absatz 3 EOG, wird der Lohn gestützt auf Artikel 6 Absatz 2 kGPers und Artikel 329f Absatz 2 OR während maximal 42 Tagen zu 100 Prozent weiterbezahlt.
+
 <sup>2</sup> Endet das Arbeitsverhältnis vor sechs Monaten nach der Niederkunft, wird der Besoldungsanspruch prorata temporis gekürzt.
 
 <sup>3</sup> …
@@ -372,25 +370,29 @@ verordnet:
 
 #### Art. 25e
 
-**Urlaub zur Adoption**
+**Urlaub bei gemeinschaftlicher Adoption oder Einzeladoption**
 
 <sup>1</sup> Der in Artikel 14 Absatz 4 des Gesetzes über die Besoldung der Angestellten des Staates Wallis vorgesehene Urlaub zur Adoption gilt gleichermassen für männliches und weibliches Personal.
 
 <sup>2</sup> Seine Dauer beträgt drei Viertel des Mutterschaftsurlaubes.
 
-<sup>3</sup> Der Adoptionsurlaub wird wirksam sobald sich das Kind am Wohnsitz in der Schweiz befindet.
+<sup>3</sup> Der Adoptionsurlaub wird zum Zeitpunkt der Aufnahme des Kindes wirksam.
 
 <sup>4</sup> Der Urlaub kann bis höchstens zwei Wochen vorbezogen werden, um Vorkehrungen im Hinblick auf die Adoption zu treffen.
 
-<sup>5</sup> Abgesehen von den zwei Wochen, welche vorbezogen werden können, um Adoptionsvorkehrungen zu treffen, kann der Adoptionsurlaub nicht aufgeteilt werden.
+<sup>5</sup> Der Adoptionsurlaub muss zum Zeitpunkt der Aufnahme des Kindes am Stück bezogen werden. Im ersten Jahr nach der Aufnahme des Kindes können jedoch zehn Arbeitstage in Form von Tagen oder Wochen genommen werden.
 
 <sup>6</sup> Falls beide Adoptiveltern Anspruch auf einen Adoptionsurlaub im Sinne der Walliser Gesetzgebung haben, so wird die Höchstdauer beider Urlaube gesamthaft auf 16 Wochen festgelegt. Ein Minimum von vier Wochen sollte von jedem Elternteil genommen werden.
 
+<sup>7</sup> Falls die Ausgleichskasse eine Entschädigung (EO) bezahlt, gehört diese dem Arbeitgeber, der weiterhin den vollen Lohn auszahlt.
+
+<sup>8</sup> Werden gleichzeitig mehrere Kinder aufgenommen, so entsteht nur ein Anspruch.
+
 #### Art. 25f
 
-**Vaterschaftsurlaub**
+**Elternschaftsurlaub**
 
-<sup>1</sup> Ein Vaterschaftsurlaub von zehn Arbeitstagen wird gewährt gegen Vorweisung der Kopie der Geburtsurkunde oder der Vaterschaftsanerkennung, wobei der Sonderurlaub spätestens in den sechs auf das Datum der Niederkunft folgenden Monaten oder der Rückkehr des Kindes bei verlängertem Spitalaufenthalt desselben an den Familienwohnsitz zu beziehen ist.
+<sup>1</sup> Gegen Vorweisung der Kopie der Geburtsurkunde oder der Elternschaftsurkunde wird ein Elternschaftsurlaub von zehn Arbeitstagen gewährt, wobei der Urlaub spätestens in den sechs auf das Datum der Niederkunft folgenden Monaten oder der Rückkehr des Kindes bei verlängertem Spitalaufenthalt desselben an den Familienwohnsitz zu beziehen ist.
 
 <sup>2</sup> Diese Tage können als Wochen oder als einzelne Tage bezogen werden, wobei die Organisation der Einheit so weit wie möglich zu berücksichtigen ist.
 
@@ -653,7 +655,8 @@ verordnet:
 
 - a) eine Angestellte wegen Schwangerschaft bis zu zwei Monaten an der Arbeitsleistung verhindert ist;
 - b) eine Angestellte einen Mutterschaftsurlaub bezogen hat;
-- c) ein Angestellter einen Vaterschaftsurlaub bezogen hat, oder
+- c) ein Angestellter einen Elternschaftsurlaub bezogen hat;
+- c<sup>bis</sup>) ein Angestellter einen Adoptionsurlaub bezogen hat, oder
 - d) ein Angestellter einen Betreuungsurlaub nach Artikel 37b bezogen hat.
 
 #### Art. 36b
@@ -679,9 +682,10 @@ verordnet:
 - b) im Todesfall, sofern die Beerdigung auf einen Arbeitstag fällt:
   - 1\. ein Tag: Grosskinder, Grosseltern, Urgrosseltern, Schwager oder Schwägerin, Onkel, Tante, Neffe, Nichte, Stiefsohn, Stieftochter, Schwiegersohn, Schwiegertochter,
   - 2\. ein halber Tag: Vetter oder Base im 1. Grad, Pate, Patin, Patenkind;
-- c) bei Verehelichung zivilisch/eingetragende Partnerschaft:
-  - 1\. sechs Arbeitstage welche in den folgenden zwölf Monaten nach der eigenen Heirat/eingetragenden Partnerschaft zu beziehen sind,
-  - 2\. ein Arbeitstag: bei zivilischer Hochzeit/eingetragener Partnerschaft bis zum zweiten Grad inklusive, unter der Bedingung, dass die Feier an einem Arbeitstag stattfindet;
+- c) bei zivilischer Heirat:
+  - 1\. sechs Arbeitstage, welche in den folgenden zwölf Monaten nach der eigenen zivilischen Heirat zu beziehen sind,
+  - 2\. ein Arbeitstag: bei zivilischer Heirat bis zum zweiten Grad inklusive, unter der Bedingung, dass die Feier an einem Arbeitstag stattfindet;
+- c<sup>bis</sup>) Adoption des Kindes des Ehegatten oder Partners: ein Tag;
 - d) Umzug der Hauptwohnung im Maximum einmal pro Jahr: einen Arbeitstag;
 - e) bei Ausnahmen (namentlich Ereignis ins Ausland) entscheidet der Departementchef.
 
@@ -789,7 +793,7 @@ verordnet:
 
 <sup>1</sup> Der Staatsrat unterstützt die Gewährung von unbezahlten Urlauben.
 
-<sup>2</sup> Um die Vereinbarkeit von Berufs- und Privatleben zu fördern, werden die Angestellten berechtigt, nach einem Mutterschafts-, Adoptions- oder Vaterschaftsurlaub einen unbezahlten Urlaub (pro rata temporis) zu beziehen. Für diese Arten von unbezahltem Urlaub übernimmt der Arbeitgeber die Bezahlung der ordentlichen Beiträge an die berufliche Vorsorge (Arbeitgeber- und Arbeitnehmerbeiträge) für die Dauer des unbezahlten Urlaubs, aber im Maximum während drei Monaten. Bei einem Antrag für einen unbezahlten Urlaub nach einem Schwangerschaftsurlaub oder einer Adoption wird die Angestellte darauf aufmerksam gemacht, dass ihr Recht auf den Lohnanspruch während dem oben erwähnten Urlaub vermindert wird, sofern sie ihre Tätigkeit nicht innerhalb von sechs Monaten nach der Geburt oder Adoption wieder aufnimmt. Die Dauer dieser unbezahlten Urlaube wird im Einverständnis mit dem Dienstchef festgelegt.
+<sup>2</sup> Um die Vereinbarkeit von Berufs- und Privatleben zu fördern, werden die Angestellten berechtigt, nach einem Mutterschafts-, Adoptions- oder Elternschaftsurlaub einen unbezahlten Urlaub (pro rata temporis) zu beziehen. Für diese Arten von unbezahltem Urlaub übernimmt der Arbeitgeber die Bezahlung der ordentlichen Beiträge an die berufliche Vorsorge (Arbeitgeber- und Arbeitnehmerbeiträge) für die Dauer des unbezahlten Urlaubs, aber im Maximum während drei Monaten. Bei einem Antrag für einen unbezahlten Urlaub nach einem Schwangerschaftsurlaub oder einer Adoption wird die Angestellte darauf aufmerksam gemacht, dass ihr Recht auf den Lohnanspruch während dem oben erwähnten Urlaub vermindert wird, sofern sie ihre Tätigkeit nicht innerhalb von sechs Monaten nach der Geburt oder Adoption wieder aufnimmt. Die Dauer dieser unbezahlten Urlaube wird im Einverständnis mit dem Dienstchef festgelegt.
 
 <sup>3</sup> Der Dienstchef kann einem Angestellten auf begründetes Gesuch hin und nach Einholung der Vormeinung der DPM unbezahlten Urlaub von maximal sechs Monaten gewähren (prorata temporis), sofern dadurch die Tätigkeit der Dienststelle nicht merklich beeinträchtigt wird. Länger dauernde unbezahlte Urlaube fallen in die Entscheidkompetenz des Departementsvorstehers.
 
@@ -799,7 +803,7 @@ verordnet:
 
 #### Art. 41a
 
-**Elternurlaub**
+**Unbezahlter Elternurlaub**
 
 <sup>1</sup> Die Angestellten, Eltern von Kindern zwischen 0 und 12 Jahren haben einen Anspruch auf einen unbezahlten Elternurlaub von maximal zehn Tagen pro Jahr (prorata temporis).
 
@@ -903,5 +907,13 @@ verordnet:
 <sup>1</sup> Die vorliegende Verordnung wird im Amtsblatt publiziert.
 
 <sup>2</sup> Sie tritt am 1. Januar 1998 in Kraft, mit Ausnahme der Artikel 14 bis 23 betreffend das Korrektiv, die individuelle Erhöhung aufgrund der Leistung, die Leistungsprämie und die Anlaufstufen, die auf den 1. Januar 1999 in Kraft treten.
+
+#### Art. T1-1
+
+**Übergangsbestimmung der Änderung vom 30.11.2022**
+
+<sup>1</sup> Für Personal, das vor weniger als einem Jahr neu angestellt, befördert oder neu eingestuft wurde und das gemäss seinem individuellen Entscheid einer vorgesehenen Warteklasse unterliegt, wird die Warteklasse von Amtes wegen aufgehoben und ab dem 1. Januar 2023 die normale Funktionsklasse angewendet.
+
+<sup>2</sup> In Funktionsketten, die eine Warteklasse und einen automatischen Übergang in die normale Funktionsklasse nach frühestens einem Jahr vorsehen, wird die Warteklasse ab dem 1. Januar 2023 aufgehoben.
 
 CSW RO/AGS 1997 f 166 | d 166

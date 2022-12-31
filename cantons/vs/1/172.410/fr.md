@@ -4,20 +4,20 @@ number: "172.410"
 title: "Ordonnance concernant le traitement des employés de l'Etat du Valais"
 short: OTrait
 language: fr
-version: 2021-07-01
-valid_until: 2022-12-31
-version_adopted: 2020-12-23
+version: 2023-01-01
+valid_until: 2024-12-31
+version_adopted: 2022-11-30
 adopted: 1997-07-10
 in_force: 1998-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/172.410"
-pdf: "https://lex.vs.ch/api/fr/versions/2836/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3097/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
 # Ordonnance concernant le traitement des employés de l'Etat du Valais
 
-du 10.07.1997 (état 01.07.2021)
+du 10.07.1997 (état 01.01.2023)
 
 Le Conseil d'Etat du canton du Valais
 
@@ -71,11 +71,7 @@ ordonne:
 
 #### Art. 5a
 
-**Chaîne de fonction**
-
-<sup>1</sup> Conformément aux principes des chaînes de fonction, une classe d’attente directement inférieure à la classe ordinaire de la fonction est appliquée pour tous les employés nouvellement engagés, promus ou reclassés.
-
-<sup>2</sup> Les modalités d'application sont fixées dans les décisions de chaîne de fonction, de reclassification, de promotion ou d'engagement.
+**…**
 
 #### Art. 6
 
@@ -328,6 +324,8 @@ ordonne:
 
 <sup>1</sup> Si la reprise du travail n'intervient pas dans les six mois qui suivent l'accouchement, le droit au traitement court pendant huit semaines.
 
+<sup>1<sup>bis</sup></sup> En cas de prolongation de l'allocation de maternité au sens de l'article 16c alinéa 3 LAPG, le salaire continue d'être versé à 100 pour cent pendant 42 jours au maximum, sur la base de l'article 6 alinéa 2 LcPers et de l'article 329f alinéa 2 CO.
+
 <sup>2</sup> Si après l'accouchement, le temps de travail est inférieur à six mois, le droit au traitement est réduit prorata temporis.
 
 <sup>3</sup> …
@@ -372,25 +370,29 @@ ordonne:
 
 #### Art. 25e
 
-**Congé d'adoption**
+**Congé d'adoption conjointe ou par une personne seule**
 
 <sup>1</sup> Le congé d'adoption prévu par l'article 14 alinéa 4 de la loi fixant le traitement des employés de l'Etat du Valais vaut dans la même mesure pour le personnel masculin et féminin.
 
 <sup>2</sup> Sa durée est des trois quarts de celle du congé de maternité.
 
-<sup>3</sup> Le congé d'adoption prend effet au moment de l'entrée de l'enfant au domicile en suisse.
+<sup>3</sup> Le congé d'adoption prend effet au moment de l'accueil de l'enfant.
 
 <sup>4</sup> Le congé peut, à concurrence de deux semaines au maximum, être pris de manière anticipée pour l'accomplissement des démarches en vue de l'adoption.
 
-<sup>5</sup> Hormis les deux semaines d'anticipation pour les démarches en vue de l'adoption, le congé d'adoption ne peut être fractionné.
+<sup>5</sup> Le congé d'adoption doit être pris en une fois au moment de l'accueil de l'enfant. Toutefois, dix jours ouvrables peuvent être pris sous la forme de journées ou de semaines, pendant la première année qui suit l'accueil de l'enfant.
 
-<sup>6</sup> Pour le cas où les deux parents adoptifs ont droit à un congé d'adoption au sens de la législation valaisanne, la durée maximale des deux congés est fixée globalement à 16 semaines. Un minimum de quatre semaines devra être pris par chaque un des parents.
+<sup>6</sup> Pour le cas où les deux parents adoptifs ont droit à un congé d'adoption au sens de la législation valaisanne, la durée maximale des deux congés est fixée globalement à 16 semaines. Un minimum de quatre semaines devra être pris par chacun des parents.
+
+<sup>7</sup> En cas de versement d'une indemnité par la caisse de compensation (APG), celle-ci appartient à l'employeur qui poursuit le versement du traitement dans sa totalité.
+
+<sup>8</sup> L'accueil simultané de plusieurs enfants fait naître le droit à une seule allocation.
 
 #### Art. 25f
 
-**Congé paternité**
+**Congé de parentalité**
 
-<sup>1</sup> Un congé paternité de dix jours ouvrables est accordé sur présentation de la copie de l'extrait de naissance ou de la reconnaissance en paternité, à prendre dans les six mois qui suivent la date de l’accouchement ou le retour de l’enfant au domicile familial en cas d’hospitalisation prolongée de celui-ci.
+<sup>1</sup> Un congé de parentalité de dix jours ouvrables est accordé sur présentation de la copie de l'extrait de naissance ou de la reconnaissance de parentalité, à prendre dans les six mois qui suivent la date de l’accouchement ou le retour de l’enfant au domicile familial en cas d’hospitalisation prolongée de celui-ci.
 
 <sup>2</sup> Ces jours peuvent se prendre sous forme de semaines ou par jours isolés en tenant compte dans la mesure du possible de l'organisation de l'entité.
 
@@ -653,7 +655,8 @@ ordonne:
 
 - a) une employée, en raison d’une grossesse, est empêchée de travailler pendant deux mois au plus;
 - b) une employée a pris un congé de maternité;
-- c) un employé a pris un congé de paternité, ou
+- c) un employé a pris un congé de parentalité;
+- c<sup>bis</sup>) un employé a pris un congé d'adoption, ou
 - d) un employé a bénéficié d’un congé de prise en charge au sens de l’article 37b.
 
 #### Art. 36b
@@ -679,9 +682,10 @@ ordonne:
 - b) décès, si l'ensevelissement a lieu un jour de travail:
   - 1\. un jour: petit-enfant, grand-parent, arrière-grand-parent, beau-frère, belle-sœur, oncle, tante, neveu, nièce, beau-fils, belle-fille, gendre, bru,
   - 2\. demi-jour: cousin(e) 1<sup>er</sup> degré, parrain, marraine, filleul(e);
-- c) mariage civil/partenariat enregistré:
-  - 1\. six jours de travail à prendre dans les douze mois qui suivent son propre mariage civil/partenariat enregistré,
-  - 2\. un jour de travail: mariage civil/partenariat enregistré d'un parent jusqu'au deuxième degré inclus, à condition que la cérémonie ait lieu un jour de travail;
+- c) mariage civil:
+  - 1\. six jours de travail à prendre dans les douze mois qui suivent son propre mariage civil,
+  - 2\. un jour de travail: mariage civil d'un parent jusqu'au deuxième degré inclus, à condition que la cérémonie ait lieu un jour de travail;
+- c<sup>bis</sup>) congé d'adoption de l'enfant du conjoint ou du partenaire: un jour de travail;
 - d) déménagement de la résidence principale au maximum une fois par année: un jour de travail;
 - e) pour les cas particuliers (notamment événement à l'étranger), le chef du Département décide.
 
@@ -789,7 +793,7 @@ ordonne:
 
 <sup>1</sup> L’Etat du Valais soutient l’octroi de congés non payés.
 
-<sup>2</sup> En vue de favoriser la conciliation entre la vie professionnelle et la vie familiale, les employés ont le droit de bénéficier d’un congé non payé (pro rata temporis), après un congé maternité, d’adoption ou de paternité. Pour ces types de congé non payé, l’Etat du Valais prend à sa charge les cotisations ordinaires liées à la prévoyance professionnelle (part employé et employeur) pour la durée du congé non payé, mais au maximum pendant 3 mois. Lors de la demande d’un congé non payé faisant suite à un congé maternité ou d’adoption, le personnel est rendu attentif au fait que le droit au traitement du congé précité sera réduit s’il ne reprend pas son activité dans les 6 mois suivant l’accouchement ou l’adoption. La durée de ces congés non payés est fixée en accord avec le chef de service.
+<sup>2</sup> En vue de favoriser la conciliation entre la vie professionnelle et la vie familiale, les employés ont le droit de bénéficier d’un congé non payé (pro rata temporis), après un congé maternité, d’adoption ou de parentalité. Pour ces types de congé non payé, l’Etat du Valais prend à sa charge les cotisations ordinaires liées à la prévoyance professionnelle (part employé et employeur) pour la durée du congé non payé, mais au maximum pendant 3 mois. Lors de la demande d’un congé non payé faisant suite à un congé maternité ou d’adoption, le personnel est rendu attentif au fait que le droit au traitement du congé précité sera réduit s’il ne reprend pas son activité dans les 6 mois suivant l’accouchement ou l’adoption. La durée de ces congés non payés est fixée en accord avec le chef de service.
 
 <sup>3</sup> Le chef de service, sur demande motivée et préavis du SRH, peut accorder à un employé un congé non payé pour une durée maximale de six mois (prorata temporis), pour autant que l'activité du service ne soit pas perturbée de façon considérable. Au-delà de cette durée, la compétence de décision appartient au chef de département.
 
@@ -799,7 +803,7 @@ ordonne:
 
 #### Art. 41a
 
-**Congé parental**
+**Congé parental non payé**
 
 <sup>1</sup> Les employés parents d’enfants de 0 à 12 ans ont droit à un congé parental sans traitement de dix jours maximum par année (prorata temporis).
 
@@ -903,5 +907,13 @@ ordonne:
 <sup>1</sup> La présente ordonnance sera publiée au Bulletin officiel.
 
 <sup>2</sup> Elle entre en vigueur au 1<sup>er</sup> janvier 1998, à l'exception des articles 14 à 23 concernant le correctif, l'augmentation progressive liée à la prestation, la prime de performance, et les paliers d'attente, pour lesquels l'entrée en vigueur est fixée au 1<sup>er</sup> janvier 1999.
+
+#### Art. T1-1
+
+**Disposition transitoire de la modification du 30.11.2022**
+
+<sup>1</sup> Pour le personnel nouvellement engagé, promu ou reclassé depuis moins d’une année et soumis à une classe d’attente prévue dans sa décision individuelle, la classe d’attente est supprimée d’office et la classe ordinaire de la fonction est appliquée dès le 1<sup>er</sup> janvier 2023.
+
+<sup>2</sup> Dans les chaînes de fonction prévoyant une classe d’attente et un passage automatique à la classe ordinaire de la fonction après au plus tôt une année, la classe d’attente est abrogée dès le 1<sup>er</sup> janvier 2023.
 
 RCV RO/AGS 1997 f 166 | d 166
