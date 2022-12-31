@@ -3,11 +3,11 @@ canton: ZH
 number: "414.253.715"
 title: Studienordnung für den Masterstudiengang Engineering an der Zürcher Hochschule für Angewandte Wissenschaften
 language: de
-version: "2020-04-01"
-nachtrag: "108"
-valid_until: 2023-01-01
+version: "2023-01-01"
+nachtrag: "119"
+valid_until: 2024-08-01
 adopted: 2014-10-30
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_715-2014_10_30-2015_08_01-108.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_715-2014_10_30-2015_08_01-119.html"
 text: pdf
 ---
 
@@ -66,7 +66,7 @@ Einzelheiten zum Studiengang, insbesondere zu den Zulassungsvoraussetzungen, zu 
 
 **1**
 
-- 1\. 4. 20 - 108
+- 1\. 1. 23 - 119
 
 - i. Mechatronics and Automation,
 
@@ -182,7 +182,7 @@ Für Module aus der Kategorie «Fachliche Vertiefung» und «Masterarbeit» kann
 
 **3**
 
-- 1\. 4. 20 - 108
+- 1\. 1. 23 - 119
 
 ### E. Abschluss und Masterdiplom
 
@@ -204,11 +204,11 @@ Für Module aus der Kategorie «Fachliche Vertiefung» und «Masterarbeit» kann
 
 Die Abschlussnote errechnet sich aus dem Durchschnitt der Modulnoten. Die Modulnoten werden nach ECTS-Credits[^15-1] gewichtet.
 
-#### § 17
-
 **Titel**
 
-Das Masterstudium wird mit dem Titel «Master of Science ZFH in Engineering mit Vertiefung in [Vertiefungsrichtung]» abgeschlossen.
+§ 17.[^16-1] Das Masterstudium wird mit dem Titel «Master of Science ZHAW in Engineering mit Vertiefung in [Vertiefungsrichtung]» abgeschlossen.
+
+[^16-1]: Fassung gemäss B vom 2. Juni 2022 (OS 77, 513; ABl 2022-08-19). In Kraft seit 1. Januar 2023.
 
 ### F. Schlussbestimmung
 
@@ -234,10 +234,10 @@ Diese Studienordnung ersetzt die Studienordnung für den Masterstudiengang Engin
 
 Der Anhang zur Studienordnung für den Masterstudiengang Engineering an der Zürcher Hochschule für Angewandte Wissenschaften wird weder in die Offizielle Gesetzessammlung (OS) noch in die Zürcher Loseblattsammlung (LS) aufgenommen. Er kann bei der
 
-Zürcher Hochschule für Angewandte Wissenschaften Ressort Lehre Gertrudstrasse 15 Postfach 8400 Winterthur
+Zürcher Hochschule für Angewandte Wissenschaften Ressort Bildung Gertrudstrasse 15 Postfach 8400 Winterthur
 
 bezogen oder unter www.zhaw.ch eingesehen werden.
 
 **5**
 
-- 1\. 4. 20 - 108
+- 1\. 1. 23 - 119
