@@ -4,7 +4,7 @@ number: "800.01.6"
 title: "ARRÊTÉ du 20.12.2017 relatif au plan d'action cantonal en cas de concentrations excessives de poussières fines (PM-10) (ACEP)"
 short: ACEP
 language: fr
-version: 2018-01-01
+version: 2023-01-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/800.01.6?id=770cdb04-ed65-4cdd-b356-650418a4b1c0"
 ---
 
@@ -39,62 +39,65 @@ arrête
 
 **Définitions des seuils [^1-1]**
 
-<sup>1</sup> Le Conseil d'Etat définit les seuils d'information et d'intervention en fonction des concentrations journalières moyennes de poussières fines (PM-10) dans l'air de la manière suivante :
+<sup>1</sup> Le Conseil d'Etat définit les seuils d'action en fonction des concentrations journalières moyennes de poussières fines (PM-10) dans l'air de la manière suivante :
 
-- - Seuil d'information : 75 µg/m<sup>3</sup>
-- - Seuil d'intervention 1 : 100 µg/m<sup>3</sup>
-- - Seuil d'intervention 2 : 150 µg/m<sup>3</sup>
+- - Seuil 1 : 75 µg/m3
+- - Seuil 2 : 100 µg/m3
+- - ...
 
 <sup>2</sup> Le département en charge de l'environnement identifie des stations de mesure des polluants atmosphériques de référence, situées dans des lieux représentatifs de la qualité de l'air dans le canton. Les stations de référence sont identifiées sur la base d'une coordination régionale.
 
 <sup>3</sup> Les seuils seront déclarés atteints lorsque les valeurs fixées ci-dessus sont atteintes aux stations de référence et que les prévisions météorologiques ne laissent pas entrevoir une amélioration de la situation dans les trois jours suivants.
 
-[^1-1]: Modif. 1 du 18.01.2023: Modification Al. 1; entrée en vigueur au 01.01.2023; Modification Al. 1, Tiret 1-2; entrée en vigueur au 01.01.2023; Abrogation Al. 1, Tiret 3; entrée en vigueur au 01.01.2023; Introduction Art. 4, Al. 1, Tiret 4-6; entrée en vigueur au 01.01.2023; Introduction Art. 10a; entrée en vigueur au 01.01.2023
+[^1-1]: Modif. 1 du 18.01.2023: Modification Al. 1; entrée en vigueur au 01.01.2023; Modification Al. 1, Tiret 1-2; entrée en vigueur au 01.01.2023; Abrogation Al. 1, Tiret 3; entrée en vigueur au 01.01.2023
 
 #### Art. 3
 
-**Seuil d'information [^2-1]**
+**Seuil 1 [^2-1]**
 
-<sup>1</sup> Lorsque le seuil d'information est atteint, les mesures suivantes sont mises en œuvre par les départements concernés :
+<sup>1</sup> Lorsque le seuil 1 est atteint, les mesures suivantes sont mises en œuvre par les départements concernés :
 
 - - Publication de communiqués de presse incluant des informations sur la situation actuelle, l'évolution prévue pour les prochains jours, ainsi que des recommandations sanitaires et des incitations comportementales ;
 - - Suspension des autorisations délivrées pour l'incinération des déchets forestiers et végétaux en plein air ;
 - - Information sur le réseau autoroutier ;
+- - Limitation de la vitesse à 80 km/h sur le réseau autoroutier ;
 - - Actions de promotion des transports publics.
 
-[^2-1]: Modif. 1 du 18.01.2023: Modification tArt; entrée en vigueur au 01.01.2023; Modification Al. 1; entrée en vigueur au 01.01.2023; Modification Al. 1, Tiret 4; entrée en vigueur au 01.01.2023; Introduction Art. 4, Al. 1, Tiret 4-6; entrée en vigueur au 01.01.2023; Introduction Art. 10a; entrée en vigueur au 01.01.2023
+[^2-1]: Modif. 1 du 18.01.2023: Modification tArt; entrée en vigueur au 01.01.2023; Modification Al. 1; entrée en vigueur au 01.01.2023; Modification Al. 1, Tiret 4; entrée en vigueur au 01.01.2023
 
 #### Art. 4
 
-**Seuil d'intervention 1 [^3-1]**
+**Seuil 2 [^3-1]**
 
-<sup>1</sup> Lorsque le seuil d'intervention 1 est atteint, les mesures du seuil d'information sont maintenues et les mesures supplémentaires suivantes sont mises en œuvre par les départements concernés :
+<sup>1</sup> Lorsque le seuil 2 est atteint, les mesures du seuil 1 sont maintenues et les mesures supplémentaires suivantes sont mises en œuvre par les départements concernés :
 
-- - Limitation de la vitesse à 80 km/h sur le réseau autoroutier vaudois ;
+- - ...
 - - Interdiction des feux en plein air non assujettis à autorisations ;
-- - Recommandation de ne pas utiliser les cheminées ou poêles qui ne sont pas essentiels au chauffage des bâtiments.
+- - Interdiction d'utiliser les cheminées ou poêles qui ne sont pas essentiels au chauffage des bâtiments ;
+- - Recommandation de baisser le chauffage dans les bâtiments ;
+- - Recommandation de ne pas circuler pour les machines et les véhicules diesel non équipés de filtres à particules dans l'agriculture, la sylviculture et la viticulture ;
+- - Recommandation d'accentuer le nettoyage des routes.
 
-[^3-1]: Modif. 1 du 18.01.2023: Modification tArt; entrée en vigueur au 01.01.2023; Modification Al. 1; entrée en vigueur au 01.01.2023; Abrogation Al. 1, Tiret 1; entrée en vigueur au 01.01.2023; Modification Al. 1, Tiret 3; entrée en vigueur au 01.01.2023; Introduction Al. 1, Tiret 4-6; entrée en vigueur au 01.01.2023; Introduction Art. 10a; entrée en vigueur au 01.01.2023
+[^3-1]: Modif. 1 du 18.01.2023: Modification tArt; entrée en vigueur au 01.01.2023; Modification Al. 1; entrée en vigueur au 01.01.2023; Abrogation Al. 1, Tiret 1; entrée en vigueur au 01.01.2023; Modification Al. 1, Tiret 3; entrée en vigueur au 01.01.2023; Introduction Al. 1, Tiret 4-6; entrée en vigueur au 01.01.2023
 
 #### Art. 5
 
-**Seuil d'intervention 2 [^4-1]**
+**... [^4-1]**
 
-<sup>1</sup> Lorsque le seuil d'intervention 2 est atteint, les mesures du seuil d'intervention 1 sont maintenues et les mesures supplémentaires suivantes sont mises en œuvre par les départements concernés :
+<sup>1</sup> ...
 
-- - Interdiction d'utiliser des machines de chantier de plus de 18 kW non équipées de filtres à particules, accompagnée d'une recommandation pour les machines de moindre puissance ;
-- - Recommandation de ne pas circuler pour les machines et les véhicules diesel non équipés de filtres à particules dans l'agriculture, la sylviculture et la viticulture.
+- - ...
+- - ...
 
-[^4-1]: Modif. 1 du 18.01.2023: Introduction Art. 4, Al. 1, Tiret 4-6; entrée en vigueur au 01.01.2023; Abrogation tArt; entrée en vigueur au 01.01.2023; Abrogation Al. 1; entrée en vigueur au 01.01.2023; Introduction Art. 10a; entrée en vigueur au 01.01.2023
+[^4-1]: Modif. 1 du 18.01.2023: Abrogation tArt; entrée en vigueur au 01.01.2023; Abrogation Al. 1; entrée en vigueur au 01.01.2023
 
 #### Art. 6
 
-**Levée des mesures d'intervention [^5-1]**
+**Levée des mesures [^5-1]**
 
-<sup>1</sup> Les mesures d'information et d'intervention sont levées lorsque les concentrations journalières moyennes de poussières fines (PM-10) aux stations de référence sont inférieures à la valeur limite de 50 µg/m<sup>3</sup> fixée par l'Ordonnance fédérale du 16 décembre 1985 sur la protection de l'air (OPair)[^6-1] .
+<sup>1</sup> Les mesures sont levées lorsque les concentrations journalières moyennes de poussières fines (PM-10) aux stations de référence sont inférieures à la valeur limite de 50 µg/m3 fixée par l'Ordonnance fédérale du 16 décembre 1985 sur la protection de l'air (OPair) .
 
-[^5-1]: Modif. 1 du 18.01.2023: Introduction Art. 4, Al. 1, Tiret 4-6; entrée en vigueur au 01.01.2023; Modification tArt; entrée en vigueur au 01.01.2023; Modification Al. 1; entrée en vigueur au 01.01.2023; Introduction Art. 10a; entrée en vigueur au 01.01.2023
-[^6-1]: Ordonnance du 16.12.1985 sur la protection de l’air (RS 814.318.142.1)
+[^5-1]: Modif. 1 du 18.01.2023: Modification tArt; entrée en vigueur au 01.01.2023; Modification Al. 1; entrée en vigueur au 01.01.2023
 
 #### Art. 7
 
@@ -106,9 +109,9 @@ arrête
 
 **Contrôle [^7-1]**
 
-<sup>1</sup> Le département en charge de l'environnement et le département en charge des infrastructures contrôlent, en collaboration avec les communes, le respect des mesures.
+<sup>1</sup> Le département en charge de l'environnement et le département en charge des infrastructures contrôlent, en collaboration avec les communes, le respect des mesures mises en oeuvre.
 
-[^7-1]: Modif. 1 du 18.01.2023: Introduction Art. 4, Al. 1, Tiret 4-6; entrée en vigueur au 01.01.2023; Modification Al. 1; entrée en vigueur au 01.01.2023; Introduction Art. 10a; entrée en vigueur au 01.01.2023
+[^7-1]: Modif. 1 du 18.01.2023: Modification Al. 1; entrée en vigueur au 01.01.2023
 
 #### Art. 9
 
@@ -122,24 +125,36 @@ arrête
 
 <sup>1</sup> Le Conseil d'Etat charge les départements compétents d'entreprendre les démarches nécessaires pour préparer les mesures prévues par le présent arrêté.
 
+#### Art. 10a
+
+**Compétences [^10-1]**
+
+<sup>1</sup> Le département en charge des infrastructures met en oeuvre les mesures liées à l'information sur les autoroutes, à la promotion des transports publics et à la réduction de la vitesse sur le réseau autoroutier. Leur engagement est subordonné aux disponibilités budgétaires.
+
+<sup>2</sup> Le département en charge de l'environnement met en oeuvre les autres mesures.
+
+<sup>3</sup> Le département en charge de la santé formule les messages en lien avec la prévention des risques sanitaires.
+
+[^10-1]: Modif. 1 du 18.01.2023: Introduction tArt; entrée en vigueur au 01.01.2023; Introduction Al. 1-3; entrée en vigueur au 01.01.2023; Introduction Art. 10a; entrée en vigueur au 01.01.2023
+
 #### Art. 11
 
-**Abrogation [^10-1]**
+**... [^10a-1]**
 
-<sup>1</sup> L'arrêté du 12 décembre 2012 sur le même objet est abrogé.
+<sup>1</sup> ...
 
-[^10-1]: Modif. 1 du 18.01.2023: Introduction Art. 4, Al. 1, Tiret 4-6; entrée en vigueur au 01.01.2023; Introduction Art. 10a; entrée en vigueur au 01.01.2023; Modification Al. 1; entrée en vigueur au 01.01.2023
+[^10a-1]: Modif. 1 du 18.01.2023: Modification Al. 1; entrée en vigueur au 01.01.2023
 
 #### Art. 12
 
 **Exécution [^11-1]**
 
-<sup>1</sup> Le département en charge des infrastructures met en oeuvre les mesures liées à la réduction de la vitesse sur les autoroutes et à la promotion des transports publics. Leur engagement est subordonné aux disponibilités budgétaires.
+<sup>1</sup> ...
 
-<sup>2</sup> Le département en charge de l'environnement met en œuvre les autres mesures d'information et d'intervention.
+<sup>2</sup> ...
 
-<sup>3</sup> Le département en charge de la santé formule les messages en lien avec la prévention des risques sanitaires.
+<sup>3</sup> ...
 
-<sup>4</sup> Le département en charge de l'environnement exécute le présent arrêté qui entre en vigueur le 1er janvier 2018 et échoit le 31 décembre 2022.
+<sup>4</sup> Le département en charge de l'environnement est chargé de l'exécution du présent arrêté qui entre en vigueur le 1er janvier 2023 et échoit le 31 décembre 2027.
 
-[^11-1]: Modif. 1 du 18.01.2023: Introduction Art. 4, Al. 1, Tiret 4-6; entrée en vigueur au 01.01.2023; Introduction Art. 10a; entrée en vigueur au 01.01.2023; Abrogation Al. 1-3; entrée en vigueur au 01.01.2023; Modification Al. 4; entrée en vigueur au 01.01.2023
+[^11-1]: Modif. 1 du 18.01.2023: Abrogation Al. 1-3; entrée en vigueur au 01.01.2023; Modification Al. 4; entrée en vigueur au 01.01.2023
