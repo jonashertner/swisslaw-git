@@ -4,7 +4,7 @@ number: "800.01.7"
 title: "ARRÊTÉ du 20.12.2017 relatif au plan d'action cantonal en cas de concentrations excessives d’ozone (AOZONE)"
 short: AOZONE
 language: fr
-version: 2018-01-01
+version: 2023-01-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/800.01.7?id=ac533769-69fd-4528-9518-20f1cb268c72"
 ---
 
@@ -39,45 +39,45 @@ arrête
 
 **Définitions des seuils [^1-1]**
 
-<sup>1</sup> Le Conseil d'Etat définit les seuils d'information et d'intervention en fonction des concentrations moyennes horaires d'ozone dans l'air de la manière suivante :
+<sup>1</sup> Le Conseil d'Etat définit les seuils d'action en fonction des concentrations moyennes horaires d'ozone dans l'air de la manière suivante :
 
-- - Seuil d'information : 180 µg/m<sup>3</sup>
-- - Seuil d'intervention : 240 µg/m<sup>3</sup>
+- - Seuil 1 : 180 μg /m³
+- - Seuil 2 : 240 μg /m³
 
 <sup>2</sup> Le département en charge de l'environnement identifie des stations de mesure des polluants atmosphériques de référence, situées dans des lieux représentatifs de la qualité de l'air dans le canton. Les stations de référence sont identifiées sur la base d'une coordination régionale.
 
 <sup>3</sup> Les seuils seront déclarés atteints lorsque les valeurs fixées ci-dessus sont atteintes aux stations de référence et que les prévisions météorologiques ne laissent pas entrevoir une amélioration de la situation dans les trois jours suivants.
 
-[^1-1]: Modif. 1 du 18.01.2023: Modification Al. 1; entrée en vigueur au 01.01.2023; Modification Al. 1, Tiret 1-2; entrée en vigueur au 01.01.2023; Introduction Art. 9a; entrée en vigueur au 01.01.2023
+[^1-1]: Modif. 1 du 18.01.2023: Modification Al. 1; entrée en vigueur au 01.01.2023; Modification Al. 1, Tiret 1-2; entrée en vigueur au 01.01.2023
 
 #### Art. 3
 
-**Seuil d'information [^2-1]**
+**Seuil 1 [^2-1]**
 
-<sup>1</sup> Lorsque le seuil d'information est atteint, les mesures suivantes sont mises en œuvre par les départements concernés :
+<sup>1</sup> Lorsque le seuil 1 est atteint, les mesures suivantes sont mises en œuvre par les départements concernés :
 
 - - Publication de communiqués de presse incluant des informations sur la situation en cours, l'évolution prévue pour les jours qui suivent, des recommandations sanitaires et de prévention, ainsi que des incitations comportementales ;
 - - Information sur le réseau autoroutier ;
+- - Limitation de la vitesse à 80 km/h sur le réseau autoroutier ;
 - - Actions de promotion des transports publics.
 
-[^2-1]: Modif. 1 du 18.01.2023: Modification tArt; entrée en vigueur au 01.01.2023; Modification Al. 1; entrée en vigueur au 01.01.2023; Modification Al. 1, Tiret 3; entrée en vigueur au 01.01.2023; Introduction Art. 9a; entrée en vigueur au 01.01.2023
+[^2-1]: Modif. 1 du 18.01.2023: Modification tArt; entrée en vigueur au 01.01.2023; Modification Al. 1; entrée en vigueur au 01.01.2023; Modification Al. 1, Tiret 3; entrée en vigueur au 01.01.2023
 
 #### Art. 4
 
-**Seuil d'intervention [^3-1]**
+**Seuil 2 [^3-1]**
 
-<sup>1</sup> Lorsque le seuil d'intervention est atteint, les départements concernés prennent des mesures circonstancielles afin de réduire temporairement les émissions des précurseurs de l'ozone, sur la base d'une coordination régionale.
+<sup>1</sup> Lorsque le seuil 2 est atteint, les départements concernés prennent des mesures circonstancielles afin de réduire temporairement les émissions des précurseurs de l'ozone, sur la base d'une coordination régionale.
 
-[^3-1]: Modif. 1 du 18.01.2023: Modification tArt; entrée en vigueur au 01.01.2023; Modification Al. 1; entrée en vigueur au 01.01.2023; Introduction Art. 9a; entrée en vigueur au 01.01.2023
+[^3-1]: Modif. 1 du 18.01.2023: Modification tArt; entrée en vigueur au 01.01.2023; Modification Al. 1; entrée en vigueur au 01.01.2023
 
 #### Art. 5
 
-**Levée des mesures d'intervention [^4-1]**
+**Levée des mesures [^4-1]**
 
-<sup>1</sup> Les mesures d'information et d'intervention sont levées lorsque les concentrations moyennes horaires d'ozone aux stations de référence sont inférieures à la valeur limite de 120 µg/m<sup>3</sup>fixée par l'Ordonnance fédérale du 16 décembre 1985 sur la protection de l'air (OPair)[^5-1] .
+<sup>1</sup> Les mesures sont levées lorsque les concentrations moyennes horaires d'ozone aux stations de référence sont inférieures à la valeur limite de 120 µg/m3 fixée par l'Ordonnance fédérale du 16 décembre 1985 sur la protection de l'air (OPair) .
 
-[^4-1]: Modif. 1 du 18.01.2023: Modification tArt; entrée en vigueur au 01.01.2023; Modification Al. 1; entrée en vigueur au 01.01.2023; Introduction Art. 9a; entrée en vigueur au 01.01.2023
-[^5-1]: Ordonnance du 16.12.1985 sur la protection de l’air (RS 814.318.142.1)
+[^4-1]: Modif. 1 du 18.01.2023: Modification tArt; entrée en vigueur au 01.01.2023; Modification Al. 1; entrée en vigueur au 01.01.2023
 
 #### Art. 6
 
@@ -103,24 +103,36 @@ arrête
 
 <sup>1</sup> Le Conseil d'Etat charge les départements compétents d'entreprendre les démarches nécessaires pour préparer les mesures prévues par le présent arrêté.
 
+#### Art. 9a
+
+**Compétences [^9-1]**
+
+<sup>1</sup> Le département en charge des infrastructures met en œuvre les mesures liées à l'information sur les autoroutes, à la promotion des transports publics et à la réduction de la vitesse sur le réseau autoroutier. Leur engagement est subordonné aux disponibilités budgétaires.
+
+<sup>2</sup> Le département en charge de l'environnement met en œuvre les autres mesures.
+
+<sup>3</sup> Le département en charge de la santé formule les messages en lien avec la prévention des risques sanitaires.
+
+[^9-1]: Modif. 1 du 18.01.2023: Introduction tArt; entrée en vigueur au 01.01.2023; Introduction Al. 1-3; entrée en vigueur au 01.01.2023; Introduction Art. 9a; entrée en vigueur au 01.01.2023
+
 #### Art. 10
 
-**Abrogation [^9-1]**
+**... [^9a-1]**
 
-<sup>1</sup> L'arrêté du 29 mai 2013 sur le même objet est abrogé.
+<sup>1</sup> ...
 
-[^9-1]: Modif. 1 du 18.01.2023: Introduction Art. 9a; entrée en vigueur au 01.01.2023; Modification Al. 1; entrée en vigueur au 01.01.2023
+[^9a-1]: Modif. 1 du 18.01.2023: Modification Al. 1; entrée en vigueur au 01.01.2023
 
 #### Art. 11
 
 **Exécution [^10-1]**
 
-<sup>1</sup> Le département en charge des infrastructures met en œuvre les mesures liées à l'information sur les autoroutes et à la promotion des transports publics. Leur engagement est subordonné aux disponibilités budgétaires.
+<sup>1</sup> ...
 
-<sup>2</sup> Le département en charge de l'environnement met en oeuvre les autres mesures d'information et d'intervention.
+<sup>2</sup> ...
 
-<sup>3</sup> Le département en charge de la santé formule les messages en lien avec la prévention des risques sanitaires.
+<sup>3</sup> ...
 
-<sup>4</sup> Le département en charge de l'environnement exécute le présent arrêté qui entre en vigueur le 1er janvier 2018 et échoit le 31 décembre 2022.
+<sup>4</sup> Le département en charge de l'environnement exécute le présent arrêté qui entre en vigueur le 1er janvier 2023 et échoit le 31 décembre 2027.
 
-[^10-1]: Modif. 1 du 18.01.2023: Introduction Art. 9a; entrée en vigueur au 01.01.2023; Abrogation Al. 1-3; entrée en vigueur au 01.01.2023; Modification Al. 4; entrée en vigueur au 01.01.2023
+[^10-1]: Modif. 1 du 18.01.2023: Abrogation Al. 1-3; entrée en vigueur au 01.01.2023; Modification Al. 4; entrée en vigueur au 01.01.2023
