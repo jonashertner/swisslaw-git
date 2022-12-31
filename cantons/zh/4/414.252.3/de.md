@@ -4,11 +4,11 @@ number: "414.252.3"
 title: Rahmenprüfungsordnung für Bachelor- und Masterstudiengänge an der Zürcher Hochschule für Angewandte Wissenschaften (RPO ZHAW)
 short: RPO ZHAW
 language: de
-version: "2019-07-01"
-nachtrag: "105"
-valid_until: 2023-01-01
+version: "2023-01-01"
+nachtrag: "119"
+valid_until: 2023-04-01
 adopted: 2008-01-29
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_252_3-2008_01_29-2008_03_01-105.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_252_3-2008_01_29-2008_03_01-119.html"
 text: pdf
 ---
 
@@ -73,7 +73,7 @@ Die Hochschulleitung erlässt Studienordnungen über die Anforderungen für die 
 
 **1**
 
-- 1\. 7. 19 - 105 § 6. <sup>1</sup> Modulkategorien dienen der
+- 1\. 1. 23 - 119 § 6. <sup>1</sup> Modulkategorien dienen der
 
 **d. Modulkategorien**
 
@@ -190,7 +190,7 @@ Die Departementsleitung kann Regelstudienpläne festlegen.
 
 **3**
 
-- 1\. 7. 19 - 105 § 17.[^15-2] <sup>1</sup> Studierende können Antrag auf Dispensierung von einem Modul oder Kurs stellen unter Anrechnung der entsprechenden Leistung. Der Antrag ist hinreichend zu dokumentieren. Die Studienleitung bewilligt den Antrag, wenn die Studierenden
+- 1\. 1. 23 - 119 § 17.[^15-2] <sup>1</sup> Studierende können Antrag auf Dispensierung von einem Modul oder Kurs stellen unter Anrechnung der entsprechenden Leistung. Der Antrag ist hinreichend zu dokumentieren. Die Studienleitung bewilligt den Antrag, wenn die Studierenden
 
 **Anrechnung von Vorkenntnissen, Studienleistungen**
 
@@ -263,11 +263,13 @@ Die Studienleitung ist für Inhalt, Leistungsnachweise und Leistungsbeurteilung 
 
 ### B. Bachelor
 
+[^hBBachelor-1]: Fassung gemäss B vom 12. Juli 2022 (OS 77, 488; ABl 2022-08-19). In Kraft seit 1. Januar 2023.
+
 #### § 24
 
 **Bachelortitel**
 
-<sup>1</sup> Die ZHAW verleiht für einen erfolgreich absolvierten Bachelorstudiengang den akademischen Grad eines Bachelor der Zürcher Fachhochschule (ZFH).
+<sup>1</sup> Die ZHAW verleiht für einen erfolgreich absolvierten Bachelorstudiengang den akademischen Grad eines Bachelors.[^hBBachelor-1]
 
 <sup>2</sup> Die Studienordnungen regeln die Einzelheiten und die genauen Bezeichnungen.
 
@@ -283,7 +285,7 @@ Die Studienleitung ist für Inhalt, Leistungsnachweise und Leistungsbeurteilung 
 
 **5**
 
-- 1\. 7. 19 - 105 § 26. <sup>1</sup> Für nicht prüfungsfrei zugelassene Studienanwärterinnen und -anwärter kann die ZHAW gemäss den Vorgaben des Bundes Aufnahmeprüfungen durchführen.
+- 1\. 1. 23 - 119 § 26. <sup>1</sup> Für nicht prüfungsfrei zugelassene Studienanwärterinnen und -anwärter kann die ZHAW gemäss den Vorgaben des Bundes Aufnahmeprüfungen durchführen.
 
 **b. Aufnahmeprüfungen**
 
@@ -326,11 +328,13 @@ Die ZHAW verleiht den Bachelortitel Studierenden, die a. mindestens 180 Credits 
 
 ### C. Master
 
+[^hCMaster-1]: Fassung gemäss B vom 12. Juli 2022 (OS 77, 488; ABl 2022-08-19). In Kraft seit 1. Januar 2023.
+
 #### § 30
 
 **Mastertitel**
 
-<sup>1</sup> Die ZHAW verleiht für einen erfolgreich absolvierten Masterstudiengang den akademischen Grad eines Master der Zürcher Fachhochschule (ZFH). Die Studienordnungen regeln die Einzelheiten und die genauen Bezeichnungen.
+<sup>1</sup> Die ZHAW verleiht für einen erfolgreich absolvierten Masterstudiengang den akademischen Grad eines Masters. Die Studienordnungen regeln die Einzelheiten und die genauen Bezeichnungen.[^hCMaster-1]
 
 <sup>2</sup> Die ZHAW kann mit Partnerinstitutionen einen gemeinsamen Masterstudiengang vereinbaren und dafür einen gemeinsamen Mastertitel verleihen.
 
@@ -397,7 +401,7 @@ Die ZHAW verleiht den Bachelortitel Studierenden, die a. mindestens 180 Credits 
 
 **7**
 
-- 1\. 7. 19 - 105
+- 1\. 1. 23 - 119
 
 <sup>3</sup> Leistungsnachweise können in elektronischer Form durchgeführt werden.[^34-1]
 
@@ -517,7 +521,7 @@ Die Studienleitung gibt die für Leistungsnachweise erlaubten Hilfsmittel frühz
 
 **9**
 
-- 1\. 7. 19 - 105
+- 1\. 1. 23 - 119
 
 <sup>2</sup> Die Modulbeschreibungen regeln die Gewichtung der Kursnoten innerhalb eines Moduls.
 
@@ -615,7 +619,7 @@ Die Studienleitung gibt die für Leistungsnachweise erlaubten Hilfsmittel frühz
 
 **11**
 
-- 1\. 7. 19 - 105
+- 1\. 1. 23 - 119
 
 [^51-1]: Fassung gemäss B vom 13. November 2018 (OS 74, 94; ABl 2018-12-07). In Kraft seit 1. Juli 2019.
 
@@ -731,7 +735,7 @@ Zu jedem Diplom wird ein Diplomzusatz (Diploma Supplement) ausgestellt, der Anga
 
 **13**
 
-- 1\. 7. 19 - 105 § 64. <sup>1</sup> Diese Rahmenprüfungsordnung tritt am 1. März 2008 in Kraft.
+- 1\. 1. 23 - 119 § 64. <sup>1</sup> Diese Rahmenprüfungsordnung tritt am 1. März 2008 in Kraft.
 
 **Übergangsbestimmung**
 
