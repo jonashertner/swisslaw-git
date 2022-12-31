@@ -4,20 +4,20 @@ title: "Legge federale del 20 giugno 1952 sugli assegni familiari nell'agricoltu
 short: LAF
 eli: "https://fedlex.data.admin.ch/eli/cc/1952/823_843_839"
 language: it
-version: 2021-07-01
+version: 2023-01-01
 adopted: 1952-06-20
 in_force: 1953-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/823_843_839/20210701/it/xml/fedlex-data-admin-ch-eli-cc-1952-823_843_839-20210701-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1952/823_843_839/20210701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/823_843_839/20230101/it/xml/fedlex-data-admin-ch-eli-cc-1952-823_843_839-20230101-it-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1952/823_843_839/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Legge federale sugli assegni familiari nell’agricoltura
 
-(LAF)**[^t-1]**
+(LAF)[^t-1]
 
-del 20 giugno 1952 (Stato 1° luglio 2021)
+del 20 giugno 1952 (Stato 1° gennaio 2023)
 
 [^t-1]: Nuovo testo giusta il n. I della LF del 14 dic. 1979, in vigore dal 1° apr. **1980** (RU 1980 276 280; [FF 1979 II 693](https://fedlex.data.admin.ch/eli/fga/1979/2_769_737_693)). Secondo la medesima disp. i titoli marginali diventano titoli centrali.
 
@@ -31,7 +31,7 @@ decreta:
 [^ingress-2]: Nuovo testo giusta il n. I 11 della LF del 8 ott. 1999 concernente l’Acc. tra la Confederazione Svizzera, da una parte, e la CE ed i suoi Stati membri, dall’altra, sulla libera circolazione delle persone, in vigore dal 1° giu. 2002 ([RU 2002 701](https://fedlex.data.admin.ch/eli/oc/2002/140)722; [FF 1999 5092](https://fedlex.data.admin.ch/eli/fga/1999/1_6128_5440_5092)).
 [^ingress-3]: FF **1952** 129
 
-## I.**** Applicabilità della LPGA
+## I. Applicabilità della LPGA
 
 [^lvlI-1]
 
@@ -43,7 +43,7 @@ Le disposizioni della legge federale del 6 ottobre 2000[^1-1] sulla parte genera
 
 [^1-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 
-## I*a*. Assegni familiari****
+## I*a*. Assegni familiari
 
 [^lvlIa-1]
 
@@ -129,7 +129,7 @@ Il versamento degli assegni familiari è subordinato alla condizione che il sala
 
 [^4a-1]: Introdotto dall’all. n. 2 della L del 24 mar. 2006 sugli assegni familiari, in vigore dal 1° gen. 2009 ([RU 2008 131](https://fedlex.data.admin.ch/eli/oc/2008/51); FF **1999** 2759, [2000 4167](https://fedlex.data.admin.ch/eli/fga/2000/988), [2004 6103](https://fedlex.data.admin.ch/eli/fga/2004/1201)[6159](https://fedlex.data.admin.ch/eli/fga/2004/1203)).
 
-### 2. Assegni familiari per gli agricoltori indipendenti****
+### 2. Assegni familiari per gli agricoltori indipendenti
 
 [^lvlIa-lvl2-1]
 
@@ -202,7 +202,7 @@ Le seguenti disposizioni della LAFam, con le relative deroghe alla LPGA[^9-3], s
 
 <sup>3</sup> Gli agricoltori indipendenti che esercitano la loro attività a titolo accessorio e gli alpigiani hanno diritto agli assegni familiari soltanto per il periodo di lavoro nel proprio podere agricolo o sull’alpe.[^10-5]
 
-<sup>4</sup> Il diritto agli assegni familiari sussiste anche durante il congedo di maternità secondo l’articolo 329*f* del Codice delle obbligazioni (CO)[^10-6], il congedo di paternità secondo l’articolo 329*g* CO e il congedo di assistenza secondo l’articolo 329*i* CO.[^10-7]
+<sup>4</sup> Il diritto agli assegni familiari sussiste anche durante il congedo di maternità secondo l’articolo 329*f* del Codice delle obbligazioni (CO)[^10-6], il congedo di paternità secondo l’articolo 329*g* CO, il congedo di assistenza secondo l’articolo 329*i* CO e il congedo di adozione secondo l’articolo 329*j* CO.[^10-7]
 
 [^10-1]: Nuovo testo giusta il n. I della LF del 14 dic. 1979, in vigore dal 1° apr. 1980 ([RU 1980 276](https://fedlex.data.admin.ch/eli/oc/1980/276_276_276)280; [FF 1979 II 693](https://fedlex.data.admin.ch/eli/fga/1979/2_769_737_693)).
 [^10-2]: Nuovo testo giusta l’all. n. 2 della L del 24 mar. 2006 sugli assegni familiari, in vigore dal 1° gen. 2009 ([RU 2008 131](https://fedlex.data.admin.ch/eli/oc/2008/51); FF **1999** 2759, [2000 4167](https://fedlex.data.admin.ch/eli/fga/2000/988), [2004 6103](https://fedlex.data.admin.ch/eli/fga/2004/1201)[6159](https://fedlex.data.admin.ch/eli/fga/2004/1203)).
@@ -210,7 +210,7 @@ Le seguenti disposizioni della LAFam, con le relative deroghe alla LPGA[^9-3], s
 [^10-4]: Nuovo testo giusta l’all. n. 2 della L del 24 mar. 2006 sugli assegni familiari, in vigore dal 1° gen. 2009 ([RU 2008 131](https://fedlex.data.admin.ch/eli/oc/2008/51); FF **1999** 2759, [2000 4167](https://fedlex.data.admin.ch/eli/fga/2000/988), [2004 6103](https://fedlex.data.admin.ch/eli/fga/2004/1201)[6159](https://fedlex.data.admin.ch/eli/fga/2004/1203)).
 [^10-5]: Nuovo testo giusta l’all. n. 2 della L del 24 mar. 2006 sugli assegni familiari, in vigore dal 1° gen. 2009 ([RU 2008 131](https://fedlex.data.admin.ch/eli/oc/2008/51); FF **1999** 2759, [2000 4167](https://fedlex.data.admin.ch/eli/fga/2000/988), [2004 6103](https://fedlex.data.admin.ch/eli/fga/2004/1201)[6159](https://fedlex.data.admin.ch/eli/fga/2004/1203)).
 [^10-6]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^10-7]: Introdotto dall’all. n. 4 della LF del 3 ott. 2003 ([RU 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [FF 2002 6713](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1014](https://fedlex.data.admin.ch/eli/fga/2003/169)[2529](https://fedlex.data.admin.ch/eli/fga/2003/381)). Nuovo testo giusta il n. II 5 della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° lug. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
+[^10-7]: Introdotto dall’all. n. 4 della LF del 3 ott. 2003 ([RU 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [FF 2002 6713](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1014](https://fedlex.data.admin.ch/eli/fga/2003/169)[2529](https://fedlex.data.admin.ch/eli/fga/2003/381)). Nuovo testo giusta l’all. n. 4 della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 468](https://fedlex.data.admin.ch/eli/oc/2022/468); [FF 2019 5841](https://fedlex.data.admin.ch/eli/fga/2019/2553), [6005](https://fedlex.data.admin.ch/eli/fga/2019/2640)).
 
 #### Art. 11 e 12
 
@@ -343,7 +343,7 @@ Gli articoli 87 a 91 della legge sull’AVS[^23-1] sono applicabili alle persone
 
 [^23-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 
-## V.**** Relazione con il diritto europeo
+## V. Relazione con il diritto europeo
 
 [^lvlV-1]
 
@@ -383,7 +383,7 @@ Ai cittadini svizzeri, islandesi, norvegesi o del Principato del Liechtenstein c
 [^23a-6]: Regolamento (CEE) n. 574/72 del Consiglio, del 21 marzo 1972, che stabilisce le modalità di applicazione del regolamento (CEE) n. 1408/71 relativo all’applicazione dei regimi di sicurezza sociale ai lavoratori subordinati, ai lavoratori autonomi e ai loro familiari che si spostano all’interno della Comunità; nella versione in vigore dell’Accordo sulla libera circolazione delle persone ([RU 2005 3909](https://fedlex.data.admin.ch/eli/oc/2005/540), [2008 4273](https://fedlex.data.admin.ch/eli/oc/2008/605), [2009 621](https://fedlex.data.admin.ch/eli/oc/2009/113)[4845](https://fedlex.data.admin.ch/eli/oc/2009/574)) e della Convenzione AELS riveduta.
 [^23a-7]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
 
-## VI.**** Disposizioni esecutive e finali
+## VI. Disposizioni esecutive e finali
 
 [^lvlVI-1]
 
@@ -413,7 +413,7 @@ A complemento della presente legge, i Cantoni possono stabilire assegni più ele
 [^25-4]: Nuovo testo giusta l’all. n. 2 della L del 24 mar. 2006 sugli assegni familiari, in vigore dal 1° gen. 2009 ([RU 2008 131](https://fedlex.data.admin.ch/eli/oc/2008/51); FF **1999** 2759, [2000 4167](https://fedlex.data.admin.ch/eli/fga/2000/988), [2004 6103](https://fedlex.data.admin.ch/eli/fga/2004/1201)[6159](https://fedlex.data.admin.ch/eli/fga/2004/1203)).
 [^25-5]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^25-6]: Nuovo testo giusta l’all. n. 2 della L del 24 mar. 2006 sugli assegni familiari, in vigore dal 1° gen. 2009 ([RU 2008 131](https://fedlex.data.admin.ch/eli/oc/2008/51); FF **1999** 2759, [2000 4167](https://fedlex.data.admin.ch/eli/fga/2000/988), [2004 6103](https://fedlex.data.admin.ch/eli/fga/2004/1201)[6159](https://fedlex.data.admin.ch/eli/fga/2004/1203)).
-[^25-7]: Attualmente art. 49*b*.
+[^25-7]: Attualmente art. 49b.
 
 #### Art. 26
 
