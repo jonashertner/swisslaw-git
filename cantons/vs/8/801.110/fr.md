@@ -3,84 +3,106 @@ canton: VS
 number: "801.110"
 title: Arrêté fixant le barème du droit spécial perçu pour la promotion de la santé et la prévention des maladies
 language: fr
-version: 2017-01-01
-corrected: 2017-10-06
-version_adopted: 2016-11-02
+version: 2023-01-01
+version_adopted: 2022-09-28
 adopted: 2016-11-02
 in_force: 2017-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/801.110"
-pdf: "https://lex.vs.ch/api/fr/versions/249/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/fr/versions/3076/pdf_file"
 ---
 
-> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi. Le canton ne publie cette version qu’en PDF : le texte en est extrait, la structure déduite de la mise en page.
+> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
 # Arrêté fixant le barème du droit spécial perçu pour la promotion de la santé et la prévention des maladies
 
-### du 2 novembre 2016
+du 02.11.2016 (état 01.01.2023)
 
-### Le Conseil d'Etat du canton du Valais vu l'article 57 alinéa 3 de la Constitution cantonale; vu l'article 98 de la loi sur la santé du 14 février 2008; sur la proposition du Département de la santé, des affaires sociales et de la culture, arrête:
+Le Conseil d'Etat du canton du Valais
+
+vu l'article 57 alinéa 3 de la Constitution cantonale;
+
+vu l'article 115 de la loi sur la santé du 12 mars 2020 (LS);
+
+sur la proposition du département en charge de la santé,
+
+arrête:
 
 #### Art. 1
 
-### Le fonds cantonal pour la promotion de la santé et la prévention des maladies est alimenté par un droit spécial perçu sur les actes, décisions, permis et patentes des autorités selon le barème suivant:
+<sup>1</sup> Le fonds cantonal pour la promotion de la santé et la prévention des maladies est alimenté par un droit spécial perçu sur les actes, décisions, permis et patentes des autorités selon le barème suivant:
 
-**Fr. 4.50 6.- 7.- 8.-**
-
-décisions du Conseil d'Etat soumises à un émolument:
-
-pour un émolument jusqu'à Fr. 30.- de Fr. 31.- à Fr. 60.- de Fr. 61.- à Fr. 90.- de Fr. 91.- et plus homologations de concessions:
-
-**8.- 23.- 40.- 52.- 63.- 75.- 55.-**
-
-pour un émolument jusqu'à Fr. 100.- de Fr. 101.- à Fr. 300.- de Fr. 301.- à Fr. 500.- de Fr. 501.- à Fr. 800.- de Fr. 801.- à Fr. 1'200.- de Fr. 1'201.- et plus naturalisations déclarations et certificats de la chancellerie d'Etat:
-
-**3.50 3.50 3.50 3.50 6.- 4.50**
-
-légalisation d'actes d'état civil légalisation de signature attestation de conformité par page (max. Fr. 15.-) certificats d'origine certificats de compétence autres certificats décisions des départements de l'administration cantonale et des commissions nommées par les autorités cantonales:
-
-**3.50 4.50 6.- 7.- 8.-**
-
-pour un émolument jusqu'à Fr. 10.- de Fr. 11.- à Fr. 30.- de Fr. 31.- à Fr. 60.- de Fr. 61.- à Fr. 90.- de Fr. 91.- et plus prononcés d'amendes:
-
-**3.50 4.50 6.- 7.- 8.-**
-
-pour une amende jusqu'à Fr. 50.- de Fr. 51.- à Fr. 100.- de Fr. 101.- à Fr. 300.- de Fr. 301.- à Fr. 500.- de Fr. 501.- et plus autorisations pour le commerce de détail de boissons alcoolisées 4.50 autorisations pour le commerçant itinérant autorisations de tombolas et de loteries patente pour le commerce de bétail permis de chasse et de pêche permis de conduire pour véhicules à moteur permis de circulation des véhicules à moteur actes soumis à l'enregistrement:
-
-**4.50 8.- 4.50 4.50 3.50 4.50**
-
-**3.50 4.50 6.- 7.- 11.50 23.- 29.- 40.- 3.50 3.50**
-
-pour une valeur jusqu'à Fr. 5'000.- de Fr. 5'001.- à Fr. 10'000.- de Fr. 10'001.- à Fr. 20'000.- de Fr. 20'001.- à Fr. 50'000.- de Fr. 50'001.- à Fr. 100'000.- de Fr. 100'001.- à Fr. 200'000.- de Fr. 200'001.- à Fr. 300'000.- de Fr. 300'001.- et plus actes soumis à l'enregistrement sans valeur déterminée enregistrements provisoires toutes opérations du registre foncier soumises à émoluments, qui 3.50 ne sont pas soumises à l'enregistrement
+- a) décisions du Conseil d'Etat soumises à un émolument:
+  - 1\. pour un émolument jusqu'à Fr. 30 — Fr. 4.50
+  - 2\. de Fr. 31 à Fr. 60 — Fr. 6
+  - 3\. de Fr. 61 à Fr. 90 — Fr. 7
+  - 4\. de Fr. 91 et plus — Fr. 8
+- b) homologations de concessions:
+  - 1\. pour un émolument jusqu'à Fr. 100 — Fr. 8
+  - 2\. de Fr. 101 à Fr. 300 — Fr. 23
+  - 3\. de Fr. 301 à Fr. 500 — Fr. 40
+  - 4\. de Fr. 501 à Fr. 800 — Fr. 52
+  - 5\. de Fr. 801 à Fr. 1'200 — Fr. 63
+  - 6\. de Fr. 1'201 et plus — Fr. 75
+- c) naturalisations — Fr. 55
+- d) déclarations et certificats de la chancellerie d'Etat:
+  - 1\. légalisation d'actes d'état civil — Fr. 3.50
+  - 2\. légalisation de signature — Fr. 3.50
+  - 3\. attestation de conformité par page (max. Fr. 15) — Fr. 3.50
+  - 4\. certificats d'origine — Fr. 3.50
+  - 5\. certificats de compétence — Fr. 6
+  - 6\. autres certificats — Fr. 4.50
+- e) décisions des départements de l'administration cantonale et des commissions nommées par les autorités cantonales:
+  - 1\. pour un émolument jusqu'à Fr. 10 — Fr. 3.50
+  - 2\. de Fr. 11 à Fr. 30 — Fr. 4.50
+  - 3\. de Fr. 31 à Fr. 60 — Fr. 6
+  - 4\. de Fr. 61 à Fr. 90 — Fr. 7
+  - 5\. de Fr. 91 et plus — Fr. 8
+- f) prononcés d'amendes:
+  - 1\. pour une amende jusqu'à Fr. 50 — Fr. 3.50
+  - 2\. de Fr. 51 à Fr. 100 — Fr. 4.50
+  - 3\. de Fr. 101 à Fr. 300 — Fr. 6
+  - 4\. de Fr. 301 à Fr. 500 — Fr. 7
+  - 5\. de Fr. 501 et plus — Fr. 8
+- g) autorisations pour le commerce de détail de boissons alcoolisées — Fr. 4.50
+- h) autorisations pour le commerçant itinérant — Fr. 4.50
+- i) autorisations de tombolas et de loteries — Fr. 8
+- j) patente pour le commerce de bétail — Fr. 4.50
+- k) permis de chasse et de pêche — Fr. 4.50
+- l) permis de conduire pour véhicules à moteur — Fr. 3.50
+- m) permis de circulation des véhicules à moteur — Fr. 4.50
+- n) actes soumis à l'enregistrement:
+  - 1\. pour une valeur jusqu'à Fr. 5'000 — Fr. 3.50
+  - 2\. de Fr. 5'001 à Fr. 10'000 — Fr. 4.50
+  - 3\. de Fr. 10'001 à Fr. 20'000 — Fr. 6
+  - 4\. de Fr. 20'001 à Fr. 50'000 — Fr. 7
+  - 5\. de Fr. 50'001 à Fr. 100'000 — Fr. 11.50
+  - 6\. de Fr. 100'001 à Fr. 200'000 — Fr. 23
+  - 7\. de Fr. 200'001 à Fr. 300'000 — Fr. 29
+  - 8\. de Fr. 300'001 et plus — Fr. 40
+- o) actes soumis à l'enregistrement sans valeur déterminée — Fr. 3.50
+- p) enregistrements provisoires — Fr. 3.50
+- q) toutes opérations du registre foncier soumises à émoluments, qui ne sont pas soumises à l'enregistrement — Fr. 3.50
+- r) décisions des autorités de protection de l'enfant et de l'adulte — Fr. 8
 
 #### Art. 2
 
-### Ne sont pas soumis au droit spécial: a) les décisions et jugements des autorités judiciaires soumis à émolument selon l'article 42 alinéa 3 de la loi fixant le tarif des frais et les autorités judiciaires ou administratives du 11 février 2009; b) les actes, décisions et pièces relevant du domaine de la poursuite et faillite au sens de l'article 16 de la loi fédérale sur la poursuite pour du 11 avril 1889; c) les actes et décisions prises en application de la loi fiscale du 10 mars 1976 et ceux concernant l'impôt fédéral direct, l'impôt anticipé et la taxe
+<sup>1</sup> Ne sont pas soumis au droit spécial:
 
-### d'exemption de l'obligation de servir; d) les décisions et actes ne faisant pas l'objet du prélèvement d'un émolument; e) les passeports suisses; f) les permis de séjour et d'établissement.
+- a) les décisions et jugements des autorités judiciaires soumis à émolument selon l'article 42 alinéa 3 de la loi fixant le tarif des frais et dépens devant les autorités judiciaires ou administratives du 11 février 2009;
+- b) les actes, décisions et pièces relevant du domaine de la poursuite et faillite au sens de l'article 16 de la loi fédérale sur la poursuite pour dette et faillite du 11 avril 1889;
+- c) les actes et décisions prises en application de la loi fiscale du 10 mars 1976 et ceux concernant l'impôt fédéral direct, l'impôt anticipé et la taxe d'exemption de l'obligation de servir;
+- d) les décisions et actes ne faisant pas l'objet du prélèvement d'un émolument;
+- e) les passeports suisses;
+- f) les permis de séjour et d'établissement.
 
 #### Art. 3
 
-### La perception du droit spécial intervient par enregistrement comptable.
+<sup>1</sup> La perception du droit spécial intervient par enregistrement comptable.
 
 #### Art. 4
 
-### <sup>1</sup> Le présent arrêté est publié au Bulletin officiel pour entrer en vigueur le 1<sup>er</sup> janvier 2017. <sup>2</sup> Il abroge et remplace l'arrêté fixant le barème du droit spécial perçu pour la promotion de la santé et la prévention des maladies du 7 octobre 2009 (RS/VS 801.110).
+<sup>1</sup> Le présent arrêté est publié au Bulletin officiel pour entrer en vigueur le 1<sup>er</sup> janvier 2017.
 
-### Ainsi arrêté en Conseil d'Etat, à Sion, le 2 novembre 2016.
+<sup>2</sup> Il abroge et remplace l'arrêté fixant le barème du droit spécial perçu pour la promotion de la santé et la prévention des maladies du 7 octobre 2009.
 
-### La présidente du Conseil d'Etat: Esther Waeber-Kalbermatten Le chancelier d'Etat: Philipp Spörri
-
-**Publication Entrée en**
-
-### Intitulé et modifications
-
-vigueur Arrêté fixant le barème du droit spécial BO No 46/2016 perçu pour la promotion de la santé et la prévention des maladies du 2 novembre
-
-**dépens devant**
-
-**dette et faillite**
-
-**01.01.2017**
-
-### 2016
+RCV BO/Abl. 46/2016
