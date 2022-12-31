@@ -1,22 +1,22 @@
 ---
 canton: SO
 number: "131.732"
-title: Steuerungsgrössen im Finanz- und Lastenausgleich der Einwohnergemeinden für das Jahr 2022
+title: Steuerungsgrössen im Finanz- und Lastenausgleich der Einwohnergemeinden für das Jahr 2023
 language: de
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-08-31
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2022-09-07
 adopted: 2015-09-01
 in_force: 2016-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/131.732"
-pdf: "https://bgs.so.ch/api/de/versions/5150/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5300/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Steuerungsgrössen im Finanz- und Lastenausgleich der Einwohnergemeinden für das Jahr 2022
+# Steuerungsgrössen im Finanz- und Lastenausgleich der Einwohnergemeinden für das Jahr 2023
 
-Vom 01.09.2015 (Stand 01.01.2022)
+Vom 01.09.2015 (Stand 01.01.2023)
 
 Der Kantonsrat von Solothurn
 
@@ -75,9 +75,9 @@ beschliesst:
 
 <sup>1</sup> Die Prozentanteile der einzelnen Städte betragen:
 
-- a) für Solothurn: 54.46 Prozent;
-- b) für Grenchen: 9.12 Prozent;
-- c) für Olten: 36.42 Prozent.
+- a) für Solothurn: 53.27 Prozent;
+- b) für Grenchen: 7.78 Prozent;
+- c) für Olten: 38.95 Prozent.
 
 #### § 5bis
 
