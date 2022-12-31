@@ -3,13 +3,13 @@ canton: BS
 number: "330.500"
 title: "Beschluss des Regierungsrates betreffend die Spitalliste 2021 des Kantons Basel-Stadt (Akutsomatik, Rehabilitation und Psychiatrie)"
 language: de
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2022-01-18
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2023-05-30
 adopted: 2023-11-27
 in_force: 2024-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/330.500"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5430/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5918/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5430/pdf_file"
 
 Spitalliste: RRB | Spitäler
 
-Vom 25. Mai 2021 (Stand 1. Januar 2022)
+Vom 25. Mai 2021 (Stand 1. Januar 2023)
 
 Gleichlautende Spitallisten 2021 für die Kantone Basel-Stadt und Basel-Landschaft in den Bereichen Akutsomatik, Psychiatrie und Rehabilitation
 
