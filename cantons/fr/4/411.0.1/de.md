@@ -4,13 +4,13 @@ number: "411.0.1"
 title: Gesetz über die obligatorische Schule
 short: "Schulgesetz, SchG"
 language: de
-version: 2022-08-01
-valid_until: 2022-12-31
-version_adopted: 2021-11-02
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2021-11-05
 adopted: 2014-09-09
 in_force: 2015-08-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/411.0.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/7518/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7581/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Obligatorische Schule - G
 
 (Schulgesetz, SchG)
 
-vom 09.09.2014 (Fassung in Kraft getreten am 01.08.2022)
+vom 09.09.2014 (Fassung in Kraft getreten am 01.01.2023)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -211,6 +211,8 @@ beschliesst:
 
 <sup>2</sup> Wird der Schulkreiswechsel aus sprachlichen Gründen erlaubt, so bestimmen die Gemeinde oder die Gemeinden des Schulkreises, in dem das Schulkind seinen Wohnsitz oder ständigen Aufenthaltsort hat, in ihrem Schulreglement innerhalb der vom Staatsrat gesetzten Grenzen den Anteil der Eltern an den Schulkosten.
 
+## 1a Schulmobilität
+
 #### Art. 17
 
 **Schülertransporte**
@@ -219,7 +221,17 @@ beschliesst:
 
 <sup>2</sup> Unentgeltliche Schülertransporte sind auch vorgesehen, damit Schülerinnen und Schüler einen anderen Unterrichtsort inner- oder ausserhalb des Schulkreises erreichen können, wenn dies aufgrund der Umstände nötig ist.
 
+<sup>2a</sup> Die Gemeinden berücksichtigen bei der Organisation des Schülertransports die Kapazität der bestehenden und zukünftigen Infrastruktur. Sie sorgen für die Sicherheit der Schülerinnen und Schüler während des Schülertransports.
+
 <sup>3</sup> Der Staatsrat legt die Voraussetzungen für die unentgeltlichen Schülertransporte fest.
+
+#### Art. 17a
+
+**Schulweg**
+
+<sup>1</sup> Die Gemeinden sorgen dafür, dass die von den Schülerinnen und Schülern benutzten Schulwege für Fussgängerinnen und Fussgänger nicht besonders gefährlich sind.
+
+<sup>2</sup> Wenn nötig treffen sie bauliche und organisatorische Massnahmen, um die Sicherheit und Praktikabilität dieser Routen zu verbessern. Andernfalls gilt Artikel 17.
 
 ## 2 Allgemeiner Schulbetrieb
 

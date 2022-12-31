@@ -4,13 +4,13 @@ number: "411.0.1"
 title: Loi sur la scolarité obligatoire
 short: "loi scolaire, LS"
 language: fr
-version: 2022-08-01
-valid_until: 2022-12-31
-version_adopted: 2021-11-02
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2021-11-05
 adopted: 2014-09-09
 in_force: 2015-08-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/411.0.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7518/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7581/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Scolarité obligatoire - L
 
 (loi scolaire, LS)
 
-du 09.09.2014 (version entrée en vigueur le 01.08.2022)
+du 09.09.2014 (version entrée en vigueur le 01.01.2023)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -211,6 +211,8 @@ Décrète:
 
 <sup>2</sup> Lorsque le changement de cercle scolaire est autorisé pour des raisons de langue, la ou les communes du cercle scolaire du domicile ou de la résidence habituelle de l'élève décident, dans leur règlement scolaire, de la participation des parents aux frais d'écolage, dans les limites fixées par le Conseil d'Etat.
 
+## 1a Mobilité scolaire
+
 #### Art. 17
 
 **Transports scolaires**
@@ -219,7 +221,17 @@ Décrète:
 
 <sup>2</sup> Des transports scolaires gratuits sont également prévus pour permettre aux élèves de se rendre à un autre lieu d'enseignement, à l'intérieur ou à l'extérieur du cercle scolaire, lorsque les circonstances l'exigent.
 
+<sup>2a</sup> Les communes tiennent compte de la capacité des infrastructures existantes et à aménager dans l'organisation des transports scolaires. Elles veillent à la sécurité des écoliers lors du transport scolaire.
+
 <sup>3</sup> Le Conseil d'Etat fixe les conditions de la gratuité des transports.
+
+#### Art. 17a
+
+**Chemin de l'école**
+
+<sup>1</sup> Les communes veillent à ce que les itinéraires utilisés par les élèves pour se rendre à l'école ne soient pas particulièrement dangereux pour la circulation piétonnière.
+
+<sup>2</sup> Au besoin, elles prennent des mesures constructives et organisationnelles pour renforcer la sécurité et la praticabilité de ces itinéraires. A défaut, l'article 17 s'applique.
 
 ## 2 Fonctionnement général de l'école
 
