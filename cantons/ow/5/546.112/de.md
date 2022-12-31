@@ -3,20 +3,19 @@ canton: OW
 number: "546.112"
 title: Ausführungsbestimmungen über die Stützpunktaufgaben der Feuerwehren der Gemeinden Sarnen und Engelberg
 language: de
-version: 2018-01-01
-valid_until: 2022-12-31
-version_adopted: 2017-12-05
+version: 2023-01-01
+version_adopted: 2023-06-27
 adopted: 2017-12-05
 in_force: 2018-01-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/546.112"
-pdf: "http://gdb.ow.ch/api/de/versions/1268/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1810/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Ausführungsbestimmungen über die Stützpunktaufgaben der Feuerwehren der Gemeinden Sarnen und Engelberg
 
-vom 05.12.2017 (Stand 01.01.2018)
+vom 05.12.2017 (Stand 01.01.2023)
 
 Der Regierungsrat des Kantons Obwalden,
 
@@ -97,9 +96,10 @@ beschliesst:
 
 - a. Ausbildungskosten (Proben) pro AdF[^9-1] und Std. — 30.–
 - b. Ausbildungskosten (Kurse) pro AdF und Tag — 200.–
-- c. Garagierung pauschal pro Jahr für alle Fahrzeuge — 9'000.–
-- d. Pauschalentschädigung für Administration pro Jahr — 2'000.–
-- e. Materialverwalter pro Std. — 65.60
+- c. Pauschalentschädigung für Garagierung der Fahrzeuge/Geräte pro Jahr — 73 100.–
+- d. Pauschalentschädigung für Administration pro Jahr — 3 600.–
+- e. Pauschalentschädigung für Materialverwalter pro Jahr — 26 200.–
+- f. Pauschalentschädigung für Feuerwehrkommandant pro Jahr — 16 200.–
 
 [^9-1]: Angehöriger der Feuerwehr
 
@@ -111,9 +111,10 @@ beschliesst:
 
 - a. Ausbildungskosten (Proben) pro AdF und Std. — 30.–
 - b. Ausbildungskosten (Kurse) pro AdF und Tag — 200.–
-- c. Garagierung pauschal pro Jahr für alle Fahrzeuge — 500.–
-- d. Pauschalentschädigung für Administration pro Jahr — 200.–
-- e. Pauschalentschädigung für Materialverwalter pro Jahr — 300.–
+- c. Pauschalentschädigung für Garagierung der Fahrzeuge/Geräte pro Jahr — 7 600.–
+- d. Pauschalentschädigung für Administration pro Jahr — 300.–
+- e. Pauschalentschädigung für Materialverwalter pro Jahr — 1 200.–
+- f. Pauschalentschädigung für Feuerwehrkommandant pro Jahr — 700.–
 
 #### Art. 11
 
@@ -134,5 +135,9 @@ Aufgehobene Erlasse
 \- Ausführungsbestimmungen über die Stützpunktaufgaben der Feuerwehr der Gemeinde Sarnen vom 17. Mai 2004 (OGS 2004, 43, OGS 2008, 103),
 
 \- Ausführungsbestimmungen über die Stützpunktaufgaben der Feuerwehr der Gemeinde Engelberg vom 17. Mai 2004 (OGS 2004, 40, OGS 2008, 103)
+
+geändert durch:
+
+\- Nachtrag vom 27. Juni 2023, in Kraft seit 1. Januar 2023 (OGS 2023, 18)
 
 OGS 2017, 66
