@@ -4,13 +4,12 @@ number: "781.1"
 title: "Loi d'application de la législation fédérale sur la circulation routière"
 short: LALCR
 language: fr
-version: 2022-07-01
-valid_until: 2022-12-31
-version_adopted: 2022-03-24
+version: 2023-01-01
+version_adopted: 2021-11-05
 adopted: 1981-11-12
 in_force: 1982-09-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/781.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7493/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7593/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Circulation routière – L
 
 (LALCR)
 
-du 12.11.1981 (version entrée en vigueur le 01.07.2022)
+du 12.11.1981 (version entrée en vigueur le 01.01.2023)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -103,15 +102,23 @@ Décrète:
 
 #### Art. 5
 
-**Direction en charge des routes**
+**Direction en charge de la mobilité**
 
-<sup>1</sup> La Direction en charge des routes[^5-1] édicte les mesures durables pour interdire, restreindre ou régler la circulation sur les routes et sur les aires de circulation publique appartenant à des particuliers.
+<sup>1</sup> La Direction en charge de la mobilité[^5-1] édicte les mesures de circulation pour interdire, restreindre ou régler la circulation sur les voies publiques.
 
-<sup>2</sup> Elle est l'autorité compétente en matière de signalisation routière.
+<sup>2</sup> Elle est l'autorité compétente en matière de signalisation routière. Elle décide, ordonne, modifie ou annule les mesures durables régulant la circulation au sens de l'article 3 al. 2 à 4 LCR.
+
+<sup>2a</sup> Elle approuve, conformément au droit fédéral, les mesures temporaires prises par la gendarmerie en application de l'article 3 al. 6 LCR.
+
+<sup>2b</sup> Lorsqu'il s'agit de signaux de prescription et de priorité sur les routes cantonales et sur les routes communales importantes et à fort trafic, la Direction recueille un préavis auprès de la police cantonale.
+
+<sup>2c</sup> Elle désigne le ou la préposé-e à la sécurité routière au sens de l'article 6a al. 4 LCR.
+
+<sup>2d</sup> Elle peut déléguer ces compétences à toute commune qui dispose d'un service technique et qui en fait la demande.
 
 <sup>3</sup> Elle exerce en outre toutes les tâches et compétences qui lui sont attribuées par les dispositions d'exécution de la présente loi.
 
-[^5-1]: Actuellement: Direction du développement territorial, des infrastructures, de la mobilité et de l'environnement.
+[^5-1]: Actuellement: Direction de l'aménagement, de l'environnement et des constructions.
 
 #### Art. 6
 
@@ -123,11 +130,15 @@ Décrète:
 
 #### Art. 7
 
-**Gendarmerie**
+**Police cantonale**
 
-<sup>1</sup> La gendarmerie exerce la police de la circulation. Elle prend, à l'égard des conducteurs et des véhicules ainsi qu'en ce qui concerne l'utilisation des routes, les mesures prévues par la législation fédérale.
+<sup>1</sup> La police cantonale exerce la police de la circulation. Elle prend, à l'égard des conducteurs et conductrices et des véhicules ainsi qu'en ce qui concerne l'utilisation des routes, les mesures prévues par la législation fédérale.
 
-<sup>2</sup> Elle édicte les prescriptions temporaires pour interdire, restreindre ou régler la circulation sur les routes lorsqu'il s'agit d'exécuter des travaux routiers ou d'autres travaux touchant au domaine public des routes.
+<sup>2</sup> Elle édicte les prescriptions temporaires, au sens de l'article 3 al. 6 LCR, pour interdire, restreindre ou régler la circulation lorsqu'il s'agit d'exécuter des travaux sur la voie publique, lors de manifestations ou de tout autre événement affectant momentanément la mobilité. Elle peut déléguer ces attributions au Service en charge de la surveillance et de l'entretien des infrastructures de mobilité et à une commune. Elle peut aussi les déléguer, sous sa surveillance, à une entreprise de construction ou à une autre organisation.
+
+<sup>2a</sup> Elle favorise la prévention routière et déploie toute activité utile dans ce cadre.
+
+<sup>2b</sup> Elle assure, en collaboration avec la Direction en charge de la mobilité, l'information, conformément aux dispositions du droit fédéral.
 
 <sup>3</sup> Elle exerce en outre les tâches et les compétences qui lui sont attribuées par le droit fédéral et par les dispositions d'exécution de la présente loi.
 
@@ -148,6 +159,18 @@ Décrète:
 <sup>2</sup> …
 
 <sup>3</sup> Elle donne son avis sur des problèmes de circulation concernant les routes d'améliorations foncières et forestières, après avoir consulté le maître de l'ouvrage et les communes dont le territoire est touché par le tracé de ces routes.
+
+#### Art. 10a
+
+**Contrats de publicité**
+
+<sup>1</sup> Les autorités compétentes peuvent conclure avec des tiers des contrats de parrainage ou de publicité pour organiser ou financer leurs activités de promotion de la sécurité routière.
+
+#### Art. 10b
+
+**Education routière**
+
+<sup>1</sup> Les dispositions relatives à l'éducation routière à l'école sont fixées dans la réglementation d'exécution.
 
 ## 3 Attributions des communes
 

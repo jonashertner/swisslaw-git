@@ -4,13 +4,12 @@ number: "781.1"
 title: Gesetz zur Ausführung der Bundesgesetzgebung über den Strassenverkehr
 short: AGSVG
 language: de
-version: 2022-07-01
-valid_until: 2022-12-31
-version_adopted: 2022-03-24
+version: 2023-01-01
+version_adopted: 2021-11-05
 adopted: 1981-11-12
 in_force: 1982-09-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/781.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/7493/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7593/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Strassenverkehr – G
 
 (AGSVG)
 
-vom 12.11.1981 (Fassung in Kraft getreten am 01.07.2022)
+vom 12.11.1981 (Fassung in Kraft getreten am 01.01.2023)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -103,15 +102,21 @@ beschliesst:
 
 #### Art. 5
 
-**Für die Strassen zuständige Direktion**
+**Für die Mobilität zuständige Direktion**
 
-<sup>1</sup> Die für die Strassen zuständige Direktion[^5-1] trifft die zeitlich unbeschränkten Massnahmen, wenn es darum geht, den Verkehr auf Strassen und auf öffentlich befahrbaren privaten Geländen zu verbieten, einzuschränken oder zu regeln.
+<sup>1</sup> Die für die Mobilität zuständige Direktion erlässt die Verkehrsmassnahmen, wenn es darum geht, den Verkehr auf öffentlichen Strassen zu verbieten, einzuschränken oder zu regeln.
 
-<sup>2</sup> Sie ist für die Strassensignalisation zuständig.
+<sup>2</sup> Sie ist für die Strassensignalisierung zuständig. Sie beschliesst die zeitlich unbeschränkten Verkehrsregelungsmassnahmen im Sinne von Artikel 3 Abs. 2‒4 SVG, ordnet sie an, ändert sie und hebt sie auf.
+
+<sup>2a</sup> Sie genehmigt gemäss Bundesrecht die vorübergehenden Massnahmen, die von der Gendarmerie in Anwendung von Artikel 3 Abs. 6 SVG getroffen wurden.
+
+<sup>2b</sup> Bei Vorschrifts- und Vortrittssignalisierungen auf Kantonsstrassen und bedeutenden und verkehrsreichen Gemeindestrassen holt die Direktion bei der Kantonspolizei eine Stellungnahme ein.
+
+<sup>2c</sup> Sie bezeichnet die oder den Verkehrssicherheitsbeauftragte/n gemäss Artikel 6a Abs. 4 SVG.
+
+<sup>2d</sup> Sie kann ihre Zuständigkeiten an Gemeinden delegieren, die über einen technischen Dienst verfügen.
 
 <sup>3</sup> Sie übt zudem alle Aufgaben und Zuständigkeiten aus, die ihr durch die Ausführungsbestimmungen zu diesem Gesetz übertragen werden.
-
-[^5-1]: Heute: Direktion für Raumentwicklung, Infrastruktur, Mobilität und Umwelt.
 
 #### Art. 6
 
@@ -123,11 +128,15 @@ beschliesst:
 
 #### Art. 7
 
-**Gendarmerie**
+**Kantonspolizei**
 
-<sup>1</sup> Die Gendarmerie übt die Funktion der Verkehrspolizei aus. Sie trifft die in der Bundesgesetzgebung vorgesehenen Massnahmen gegenüber den Fahrzeugführern und den Fahrzeugen und diejenigen, die die Strassenbenützung betreffen.
+<sup>1</sup> Die Kantonspolizei übt die Funktion der Verkehrspolizei aus. Sie trifft die in der Bundesgesetzgebung vorgesehenen Massnahmen gegenüber den Fahrerinnen, Fahrern und Fahrzeugen und diejenigen, welche die Strassenbenützung betreffen.
 
-<sup>2</sup> Sie erlässt die zeitlich beschränkten Vorschriften über Verbot, Einschränkung oder Regelung des Strassenverkehrs bei der Ausführung von Strassenarbeiten oder anderen Arbeiten, die den öffentlichen Bereich der Strassen berühren.
+<sup>2</sup> Sie erlässt die zeitlich beschränkten Vorschriften im Sinne von Artikel 3 Abs. 6 SVG über Verbot, Einschränkung oder Regelung des Verkehrs bei der Ausführung von Arbeiten auf der öffentlichen Strasse, bei Veranstaltungen oder anderen Ereignissen, die den Verkehr momentan beeinträchtigen. Sie kann diese Befugnisse an das für die Aufsicht über die Mobilitätsinfrastruktur und deren Unterhalt zuständige Amt und eine Gemeinde delegieren. Sie kann sie unter ihrer Aufsicht auch an das für die Arbeiten zuständige Bauunternehmen oder eine andere Organisation delegieren.
+
+<sup>2a</sup> Sie fördert die Unfallverhütung und unternimmt in diesem Rahmen jedwede nützliche Aktivität.
+
+<sup>2b</sup> In Zusammenarbeit mit der für die Mobilität zuständigen Direktion stellt sie gemäss den Bestimmungen des Bundesrechts auch die Information sicher.
 
 <sup>3</sup> Sie übt zudem die Aufgaben und Zuständigkeiten aus, die ihr durch das Bundesrecht und die Ausführungsbestimmungen zu diesem Gesetz übertragen werden.
 
@@ -148,6 +157,18 @@ beschliesst:
 <sup>2</sup> …
 
 <sup>3</sup> Sie gibt ihre Stellungnahme zu Verkehrsproblemen der Bodenmeliorations- und Waldstrassen bekannt, nachdem sie den Bauherrn und die Gemeinden, deren Gebiet durch diese Strassen berührt wird, angehört hat.
+
+#### Art. 10a
+
+**Werbeverträge**
+
+<sup>1</sup> Die zuständigen Behörden können Sponsoring- oder Werbeverträge mit Dritten abschliessen, um ihre Aktivitäten zur Förderung der Verkehrssicherheit zu organisieren und zu finanzieren.
+
+#### Art. 10b
+
+**Verkehrserziehung**
+
+<sup>1</sup> Die Bestimmungen über die Verkehrserziehung in der Schule werden im Ausführungsreglement festgelegt.
 
 ## 3 Befugnisse der Gemeinden
 
