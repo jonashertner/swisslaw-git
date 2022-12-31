@@ -4,13 +4,12 @@ number: "621.3"
 title: Loi sur le Fonds des distributions du bénéfice de la BNS
 short: LFBNS
 language: fr
-version: 2018-01-01
-valid_until: 2022-12-31
-version_adopted: 2017-06-12
+version: 2023-01-01
+version_adopted: 2024-09-11
 adopted: 2015-11-17
 in_force: 2015-12-31
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/621.3"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1479/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3134/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1479/pdf_file"
 
 (LFBNS)
 
-du 17.11.2015 (état au 01.01.2018)
+du 17.11.2015 (état au 01.01.2023)
 
 Le Grand Conseil du canton de Berne,
 
@@ -35,41 +34,29 @@ arrête :
 
 <sup>2</sup> Il s’agit d’un financement spécial au sens de la législation sur le pilotage des finances et des prestations.
 
-#### Art. 2
-
-**Alimentation**
-
-<sup>1</sup> Le Fonds est alimenté lorsque le montant de la part du bénéfice allouée au canton en vertu de la convention entre le Département fédéral des finances et la Banque nationale suisse (convention sur la distribution du bénéfice de la BNS) est en augmentation. La somme versée au Fonds correspond à la différence entre le montant ordinaire et le montant supérieur de la part du bénéfice distribuée.
-
-<sup>2</sup> Le Fonds n’est alimenté que si les exigences du frein à l’endettement appliqué au compte de fonctionnement et au compte des investissements sont respectées pour l’exercice au débit duquel l’alimentation est portée.
-
-<sup>3</sup> Toute avance au Fonds prélevée sur le compte de fonctionnement est proscrite.
-
-<sup>4</sup> Le montant maximal de la fortune du Fonds est fixé à 250 millions de francs.
-
-#### Art. 3
-
-**Prélèvement**
-
-<sup>1</sup> Des ressources sont prélevées sur le Fonds lorsque le montant de la part du bénéfice allouée au canton en vertu de la convention sur la distribution du bénéfice de la BNS est en diminution. La somme prélevée sur le Fonds correspond à la différence entre le montant ordinaire et le montant inférieur de la part du bénéfice distribuée.
-
-<sup>2</sup> Les prélèvements sont effectués en faveur du compte de fonctionnement, sans affectation déterminée.
-
-#### Art. 4
-
-**Alimentation comptabilisée sur l’exercice 2015**
-
-<sup>1</sup> Sur l’exercice 2015, le Fonds est alimenté à hauteur de la part du bénéfice que la BNS distribue au canton pour l’exercice 2014.
-
-#### Art. 5
+#### Art. 2–5
 
 **…**
+
+#### Art. 5a
+
+**Dissolution**
+
+<sup>1</sup> Le Fonds est dissous par étapes à partir du 1<sup>er</sup> janvier 2023.
+
+<sup>2</sup> Le prélèvement est effectué chaque année à concurrence du montant nécessaire au financement des besoins supplémentaires en matière d'investissement. Est considéré comme supplémentaire tout investissement nécessaire dont le montant annuel est supérieur au montant ordinaire de 450 millions de francs.
+
+<sup>2a</sup> Le prélèvement ne nécessite pas d’amortissement au sens de l’article 51, alinéa 3 de la loi du 15 juin 2022 sur les finances (LFin)[^5a-1].
+
+<sup>3</sup> Le 31 décembre 2030, les ressources restantes seront créditées au compte de résultats de 2031 si le Fonds n'a pas encore été intégralement dissous.
+
+[^5a-1]: RSB [620.0](https://www.belex.sites.be.ch/data/620.0/fr)
 
 #### Art. 6
 
 **Entrée en vigueur, limitation de la durée de validité**
 
-<sup>1</sup> La présente loi entre en vigueur avec effet rétroactif au 31 décembre 2015 pour une durée allant jusqu’au 31 décembre 2023.
+<sup>1</sup> La présente loi entre en vigueur avec effet rétroactif au 31 décembre 2015 pour une durée allant jusqu’au 31 décembre 2030.
 
 Berne, le 17 novembre 2015
 
