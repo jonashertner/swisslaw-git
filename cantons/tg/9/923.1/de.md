@@ -1,25 +1,26 @@
 ---
 canton: TG
 number: "923.1"
-title: Gesetz über die Fischerei
+title: Fischereigesetz
 short: FiG
 language: de
-version: 2002-04-01
-valid_until: 2022-12-31
-version_adopted: 2001-11-21
+version: 2023-01-01
+version_adopted: 2021-11-24
 adopted: 1976-09-27
 in_force: 1978-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/923.1"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2314/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2629/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Gesetz über die Fischerei
+# Fischereigesetz
 
 Fischereigesetz
 
-vom 27.09.1976 (Stand 01.04.2002)
+(FiG)
+
+vom 27.09.1976 (Stand 01.01.2023)
 
 ## 1. Zweck und Fischereiregal
 
@@ -27,13 +28,17 @@ vom 27.09.1976 (Stand 01.04.2002)
 
 **Zweck**
 
-<sup>1</sup> Es ist Aufgabe des Kantons, die Gewässer als Lebensraum von Fischen, Krebsen und Amphibien zu erhalten und zu pflegen.
+<sup>1</sup> Es ist Aufgabe des Kantons, die Gewässer als Lebensraum von Fischen, Krebsen, Amphibien und Fischnährtieren zu erhalten und zu pflegen.
+
+<sup>2</sup> Die natürlichen Bestände der Fische, Krebse, Amphibien und Fischnährtiere sind dabei nach Möglichkeit wiederherzustellen.
+
+<sup>3</sup> Die nachhaltige Nutzung der Fischereigewässer ist zu fördern.
 
 #### § 2
 
 **Regal**
 
-<sup>1</sup> Dem Kanton steht die Hoheit an allen Gewässern zu, in denen Fische, Krebse oder Amphibien leben können.
+<sup>1</sup> Dem Kanton steht die Hoheit an allen Gewässern zu, in denen Fische, Krebse, Amphibien oder Fischnährtiere leben können.
 
 <sup>2</sup> Diese Gewässer unterstehen der eidgenössischen Gesetzgebung.
 
@@ -41,7 +46,7 @@ vom 27.09.1976 (Stand 01.04.2002)
 
 **Inhalt des Regals**
 
-<sup>1</sup> Das Hoheitsrecht des Staates besteht in der Aufsicht über alle Regalgewässer, in der Befugnis, Bestimmungen über deren Erhaltung, Gestaltung und Bewirtschaftung zu erlassen, und in der Kompetenz, das Recht auf den Fang von Fischen, Krebsen oder Fischnährtieren zu verleihen.
+<sup>1</sup> Das Hoheitsrecht des Kantons besteht in der Aufsicht über alle Regalgewässer, in der Befugnis, Bestimmungen über deren Erhaltung, Gestaltung und Bewirtschaftung zu erlassen, und in der Kompetenz, das Recht auf den Fang von Fischen, Krebsen oder Fischnährtieren zu verleihen.
 
 <sup>2</sup> Vorbehalten bleiben die Bestimmungen von Staatsverträgen über internationale Gewässer.
 
@@ -51,33 +56,33 @@ vom 27.09.1976 (Stand 01.04.2002)
 
 **Fischenzen**
 
-<sup>1</sup> Von der Verleihung des Rechts auf Fischfang durch den Staat sind Gewässer ausgenommen, an denen private oder körperschaftliche Fischereirechte im Verfahren nach § 21 bis § 24 nachgewiesen werden.
+<sup>1</sup> Von der Verleihung des Rechts auf Fischfang durch den Kanton sind Gewässer ausgenommen, an denen private oder körperschaftliche Fischereirechte bestehen.
+
+<sup>2</sup> Die bestehenden Fischenzen werden in ihrem Bestand garantiert.
 
 #### § 5
 
 **Weiherfischereirechte**
 
-<sup>1</sup> Private Fischereirechte an natürlichen und künstlichen Weihern werden anerkannt, unter Vorbehalt des Bereinigungsverfahrens gemäss § 21 bis § 24 sowie anderer gesetzlicher, namentlich gewässerschutzpolizeilicher Bestimmungen.
+<sup>1</sup> Private Fischereirechte an natürlichen und künstlichen Weihern werden anerkannt, unter Vorbehalt anderer gesetzlicher, namentlich gewässerschutzpolizeilicher Bestimmungen.
 
 <sup>2</sup> Die Neuerstellung solcher Weiher bedarf einer Bewilligung des Kantons, der auch das private Fischereirecht einräumen kann.
 
 <sup>3</sup> Die Bewilligung kann mit betrieblichen Auflagen verknüpft werden.
 
-<sup>4</sup> Unter Vorbehalt von § 4 haben die Berechtigten Konzessionsgebühren zu entrichten.
+<sup>4</sup> …
 
 #### § 6
 
 **Gemeindefischereirechte**
 
-<sup>1</sup> Der Staat überlässt den Munizipalgemeinden[^6-1] die Kompetenz, das Recht auf Fischfang zu verpachten. Davon unberührt bleiben alle bisher vom Staat vergebenen Gewässer sowie die besonderen Fischereirechte gemäss § 4, § 5, § 7 und § 8.
+<sup>1</sup> Der Kanton überlässt den Politischen Gemeinden die Kompetenz, das Recht auf Fischfang zu verpachten. Davon unberührt bleiben alle bisher vom Kanton beanspruchten Gewässer sowie die besonderen Fischereirechte gemäss § 4, § 5, § 7 und § 8.
 
-<sup>2</sup> Die Erträgnisse der Gemeinden aus den Fischpachten sind zur Erhaltung und Verbesserung des Lebensraums von Fischen oder Amphibien zu verwenden.
+<sup>2</sup> Die Erträge der Gemeinden aus den Fischpachten sind zur Erhaltung und Verbesserung des Lebensraums von Fischen, Krebsen, Amphibien oder Fischnährtieren zu verwenden.
 
-<sup>3</sup> Der Regierungsrat erlässt Bestimmungen über die Verpachtung dieser Gewässer.
+<sup>3</sup> Das zuständige Departement erlässt Bestimmungen über die Verpachtung dieser Gewässer.
 
-<sup>4</sup> Gegen den Zuschlag von Fischpachten durch die Gemeinde kann innert 20 Tagen beim zuständigen Departement des Regierungsrates Rekurs erhoben werden. Der Entscheid des Departementes unterliegt der Beschwerde an das Verwaltungsgericht.
-
-[^6-1]: Jetzt Politische Gemeinden.
+<sup>4</sup> Gegen den Zuschlag von Fischpachten durch die Gemeinde kann beim zuständigen Departement Rekurs erhoben werden.
 
 #### § 7
 
@@ -91,11 +96,11 @@ vom 27.09.1976 (Stand 01.04.2002)
 
 **Freiangelei**
 
-<sup>1</sup> Soweit nicht Fischenzen gemäss § 4 entgegenstehen, ist die Uferfischerei mit festem Zapfen und einfacher Angel am Bodensee, Seerhein, Untersee und Rhein für jedermann frei.
+<sup>1</sup> Soweit nicht Fischenzen gemäss § 4 entgegenstehen, ist die Uferfischerei am Bodensee-Obersee, Untersee und Rhein für jedermann frei.
 
-<sup>2</sup> Der Regierungsrat kann die Freiangelei auch auf anderen Gewässern gestatten.
+<sup>2</sup> Der Regierungsrat regelt die Einzelheiten. Er kann die Freiangelei auch auf anderen Gewässern gestatten.
 
-## 3. Übergang von besonderen Fischereirechten an den Staat
+## 3. Übergang von besonderen Fischereirechten an den Kanton
 
 #### § 9
 
@@ -103,9 +108,9 @@ vom 27.09.1976 (Stand 01.04.2002)
 
 <sup>1</sup> Fischenzen können vom Regierungsrat zugunsten des Kantons entzogen werden, wenn die Berechtigten vom Kanton vorgeschriebene, wesentliche Bewirtschaftungsgrundsätze missachten.
 
-<sup>2</sup> Der Entzug erfolgt nach den Bestimmungen über die Enteignung[^9-1]. Eine allfällige Entschädigung richtet sich nach dem Wert der Fangergebnisse. Wenn der Wert der entzogenen Fischenz nur oder doch vorwiegend durch die Hege- und Bewirtschaftungsmassnahmen der direkt oder indirekt angrenzenden Fischereigewässer erreicht wird, erfolgt der Entzug ohne Entschädigung.
+<sup>2</sup> Der Entzug erfolgt nach den Bestimmungen über die Enteignung[^9-1]. Eine allfällige Entschädigung richtet sich nach dem Verkehrswert des enteigneten Rechts.
 
-<sup>3</sup> Die gleiche Befugnis steht dem Regierungsrat bezüglich der konzedierten Weiherfischereirechte zu, sofern die Berechtigten Auflagen gemäss § 5 Abs. 3 missachten. Der Entzug erfolgt ohne Entschädigung.
+<sup>3</sup> Die gleiche Befugnis steht dem Regierungsrat bezüglich der Weiherfischereirechte zu, sofern die Berechtigten Auflagen gemäss § 5 Abs. 3 missachten. Der Entzug erfolgt ohne Entschädigung.
 
 [^9-1]: RB [710](https://www.rechtsbuch.tg.ch/data/710/de)
 
@@ -115,9 +120,9 @@ vom 27.09.1976 (Stand 01.04.2002)
 
 <sup>1</sup> Das Recht der Gemeinden, Gewässer zu verpachten, fällt an den Kanton, sofern von diesem Recht nicht ununterbrochen sachgemässer Gebrauch gemacht wird.
 
-<sup>2</sup> Besondere Fischereirechte, auf deren Ausübung die Berechtigten verzichten, fallen an den Staat.
+<sup>2</sup> Besondere Fischereirechte, auf deren Ausübung die Berechtigten ausdrücklich verzichten, fallen an den Kanton.
 
-<sup>3</sup> Der Regierungsrat kann im Interesse der Fischerei besondere Fischereirechte loskaufen.
+<sup>3</sup> Der Regierungsrat kann im Interesse der Fischerei besondere Fischereirechte zum Verkehrswert loskaufen.
 
 ## 4. Ausübung der Fischerei
 
@@ -135,11 +140,15 @@ vom 27.09.1976 (Stand 01.04.2002)
 
 #### § 12
 
-**Kantonale Fischereibewilligung**
+**Fischereibewilligung**
 
-<sup>1</sup> Wer über die Freiangelei hinaus den Fang von Fischen, Krebsen oder Fischnährtieren in Gewässern betreiben will, bedarf einer kantonalen Fischereibewilligung, die den Kontrollorganen und den Besitzern anstossender Grundstücke auf Verlangen jederzeit vorzuweisen ist.
+<sup>1</sup> Wer über die Freiangelei hinaus den Fang von Fischen, Krebsen oder Fischnährtieren in Gewässern betreiben will, bedarf einer Fischereibewilligung, die den Kontrollorganen auf Verlangen jederzeit vorzuweisen ist.
 
-<sup>2</sup> Die Bewilligung wird Personen erteilt, die das 14. Altersjahr zurückgelegt haben, einen guten Leumund geniessen und sich auf Grund einer einfachen Prüfung über die nötige Fachkenntnis ausgewiesen haben.
+<sup>2</sup> Die Bewilligung zur Ausübung der Angelfischerei wird Personen erteilt, die das 10. Altersjahr zurückgelegt und sich auf Grund einer Prüfung über die nötige Fachkenntnis ausgewiesen haben.
+
+<sup>3</sup> Die Voraussetzungen für die Bewilligung zur Ausübung der Berufsfischerei regelt der Regierungsrat.
+
+<sup>4</sup> Das zuständige Departement kann Ausnahmen bewilligen und über die Anerkennung ausländischer Fähigkeitszeugnisse entscheiden.
 
 ## 5. Besondere Bewirtschaftungsmassnahmen
 
@@ -147,15 +156,15 @@ vom 27.09.1976 (Stand 01.04.2002)
 
 **Hegemassnahmen**
 
-<sup>1</sup> Die Fischereiverwaltung ist ermächtigt, zur Verbesserung der Zusammensetzung der Fischbestände, zur Bekämpfung von Fischkrankheiten oder zu Studienzwecken das Befischen von Gewässern jederzeit zu verfügen oder zu verbieten.
+<sup>1</sup> Die für die Fischerei zuständige Fachstelle ist ermächtigt, zur Verbesserung der Zusammensetzung der Fischbestände, zur Bekämpfung von Fischkrankheiten oder zu Studienzwecken das Befischen von Gewässern jederzeit zu verfügen oder zu verbieten.
 
 <sup>2</sup> Ein allfälliger Ertrag ist für die Bewirtschaftung der gleichen Gewässer zu verwenden.
 
 #### § 14
 
-**Wiederherstellung zerstörter Biotope**
+**Wiederherstellung und Aufwertung von Biotopen**
 
-<sup>1</sup> Der Kanton kann Massnahmen zur Wiederherstellung und Verbesserung von Regalgewässern unterstützen.
+<sup>1</sup> Der Kanton kann Massnahmen zur Wiederherstellung und Aufwertung von Regalgewässern unterstützen.
 
 <sup>2</sup> Die Unterhaltspflicht von Gemeinden, Korporationen oder Privaten gemäss anderen Bestimmungen des kantonalen Rechts wird dadurch nicht berührt.
 
@@ -169,33 +178,35 @@ vom 27.09.1976 (Stand 01.04.2002)
 
 **Laichfischerei**
 
-<sup>1</sup> Die Ausübung der Laichfischerei auf die einer Schonzeit unterliegenden Fischarten darf nur mit Bewilligung der Fischereiverwaltung erfolgen. Die Bewilligung kann mit Auflagen verknüpft werden.
+<sup>1</sup> Die Ausübung der Laichfischerei auf die einer Schonzeit unterliegenden Fischarten darf nur mit Bewilligung der für die Fischerei zuständigen Fachstelle erfolgen. Die Bewilligung kann mit Auflagen verknüpft werden.
 
-<sup>2</sup> Die Fischereiverwaltung kann für die Gewinnung von Brutmaterial von Fischarten, die einer Schonzeit nicht unterliegen, besondere Anordnungen treffen.
+<sup>2</sup> Die für die Fischerei zuständige Fachstelle kann für die Gewinnung von Brutmaterial von Fischarten, die keiner Schonzeit unterliegen, besondere Anordnungen treffen.
 
 #### § 17
 
 **Fang von Fischnährtieren**
 
-<sup>1</sup> Zum Fang von Fischnährtieren bedarf es einer Bewilligung der Fischereiverwaltung. Die Bewilligung kann mit Auflagen verknüpft werden.
+<sup>1</sup> Zum Fang von Fischnährtieren bedarf es einer Bewilligung der für die Fischerei zuständigen Fachstelle. Die Bewilligung kann mit Auflagen verknüpft werden.
 
 #### § 18
 
-**Förderung der Berufsfischerei**
+**Berufsfischerei**
 
 <sup>1</sup> Der Regierungsrat kann die einheimische Berufsfischerei, soweit dies im Interesse einer sachgemässen Bewirtschaftung der Gewässer geboten ist, durch geeignete Massnahmen und Beiträge fördern.
 
-## 6. Fischereiberechtigung
+<sup>2</sup> Die für die Fischerei zuständige Fachstelle erteilt Berufsfischerpatente an Bewerber, die mindestens 50 Prozent der Erwerbstätigkeit als Berufsfischer ausüben. Auf Bewerber, die im Zeitpunkt des Inkrafttretens dieses Gesetzes Inhaber eines Berufsfischerpatents waren, findet diese Bestimmung keine Anwendung.
+
+## 6. Verleihung der Fischereibewilligung, Reservate
 
 #### § 19
 
 **Art der Verleihung**
 
-<sup>1</sup> Das Recht auf Fischfang wird im Bodensee, Seerhein und Untersee im Rahmen der internationalen Vereinbarungen vom Kanton durch Patente erteilt.
+<sup>1</sup> Das Recht auf Fischfang wird im Bodensee-Obersee, Seerhein und Untersee im Rahmen der internationalen Vereinbarungen vom Kanton durch Patente erteilt.
 
 <sup>2</sup> Die übrigen Gewässer werden verpachtet.
 
-<sup>3</sup> Die Patentfischerei kann gebietsweise aufgeteilt werden.
+<sup>3</sup> …
 
 #### § 20
 
@@ -207,33 +218,11 @@ vom 27.09.1976 (Stand 01.04.2002)
 
 <sup>3</sup> Soweit die Vergebung solcher Gewässer bei den Gemeinden liegt, steht dem Kanton das Vorrecht zur Pacht bei angemessenem Pachtzins zu.
 
-## 7. Bereinigungsverfahren für besondere Fischereirechte
+## 7.
 
-#### § 21
+#### § 21–24
 
-**Anmeldung der besonderen Fischereirechte**
-
-<sup>1</sup> Gemeinden, Körperschaften oder Private, die ein besonderes Fischereirecht gemäss Abschnitt II geltend machen wollen, haben es innert sechs Monaten nach Inkrafttreten dieses Gesetzes beim Regierungsrat mit entsprechenden Beweismitteln anzumelden. Soweit Gemeindefischereirechte nach § 6 Abs. 1 angemeldet werden, bedarf es lediglich einer Übersichtskarte, in der die beanspruchten Gewässer eingetragen sind.
-
-<sup>2</sup> Innert sechs Monaten nach Ablauf der Anmeldefrist teilt der Regierungsrat dem Ansprecher mit, ob und in welchem Umfang der Staat ein besonderes Fischereirecht anerkennt oder bestreitet.
-
-#### § 22
-
-**Klage bei bestrittenen Rechten**
-
-<sup>1</sup> Wird ein besonderes Fischereirecht innert der in § 21 Abs. 1 festgesetzten Frist nicht angemeldet oder bei ganzer oder teilweiser Bestreitung nicht innert einer weiteren Frist von sechs Monaten gerichtlich geltend gemacht, ist es verwirkt.
-
-#### § 23
-
-**Andere Streitigkeiten**
-
-<sup>1</sup> Ebenfalls gerichtlich zu beurteilen sind Streitigkeiten über Umfang, Heimfall oder Entzug von Fischereiberechtigungen, die zwischen Inhabern von besonderen Fischereirechten und dem Staat beziehungsweise Gemeinden oder zwischen Gemeinden und dem Staat entstehen.
-
-#### § 24
-
-**Verfahren**
-
-<sup>1</sup> Streitigkeiten gemäss § 22 oder § 23 werden vom Verwaltungsgericht nach den Bestimmungen über die verwaltungsrechtliche Klage beurteilt.
+**…**
 
 ## 8. Straf- und Vollzugsbestimmungen
 
@@ -241,14 +230,15 @@ vom 27.09.1976 (Stand 01.04.2002)
 
 **Strafbestimmungen**
 
-<sup>1</sup> Wer unbefugterweise dem Fang von Fischen, Krebsen oder Fischnährtieren obliegt, wer gestützt auf dieses Gesetz verfügte Auflagen verletzt oder wer in anderer Weise gegen die Vorschriften dieses Gesetzes verstösst, wird mit Haft oder Busse gemäss Strafgesetzbuch[^25-1] bestraft, soweit nicht Strafbestimmungen des Bundesgesetzes über die Fischerei[^25-2] anwendbar sind.
+<sup>1</sup> Wer unbefugterweise Fische, Krebse oder Fischnährtiere fängt, wer gestützt auf dieses Gesetz verfügte Auflagen verletzt oder wer in anderer Weise gegen die Vorschriften dieses Gesetzes verstösst, wird mit Busse bestraft, soweit nicht Strafbestimmungen des Bundesgesetzes über die Fischerei[^25-1] anwendbar sind.
 
-<sup>2</sup> Unbefugtes Fischen in Fischenzen oder privaten Fischweihern wird nur auf Antrag des Berechtigten bestraft. Für den Antrag gelten die Bestimmungen des Strafgesetzbuches.
+<sup>2</sup> …
 
 <sup>3</sup> Der Regierungsrat kann durch Verordnung für die Verletzung von Ausführungsbestimmungen oder Vollzugsverfügungen zu diesem Gesetz Busse bis zu Fr. 5'000 androhen.
 
-[^25-1]: SR [311.0](https://db.clex.ch/link/Bund/311.0/de)
-[^25-2]: SR [923.0](https://db.clex.ch/link/Bund/923.0/de)
+<sup>4</sup> Versuch und Gehilfenschaft sind strafbar.
+
+[^25-1]: SR [923.0](https://db.clex.ch/link/Bund/923.0/de)
 
 #### § 26
 
@@ -258,11 +248,33 @@ vom 27.09.1976 (Stand 01.04.2002)
 
 [^26-1]: SR [312.0](https://db.clex.ch/link/Bund/312.0/de)
 
+#### § 26a
+
+**Fischereipolizei**
+
+<sup>1</sup> Die Fischereipolizei wird ausgeübt durch:
+
+- 1\. die Fischereiaufseher
+- 2\. die für die Fischerei zuständige Fachstelle
+- 3\. die Kantonspolizei
+
+<sup>2</sup> Die Ernennung der Fischereiaufseher erfolgt durch die für die Fischerei zuständige Fachstelle.
+
+#### § 26b
+
+**Aufgaben der Fischereipolizei**
+
+<sup>1</sup> Die Organe der Fischereipolizei überwachen die Einhaltung der Vorschriften über die Fischerei. Sie sind befugt, Verdächtige anzuhalten, zu Kontrollzwecken fremde Boote und Werkanlagen sowie Grundstücke zu betreten, Fänge und Geräte sowie Ausweise oder den Inhalt von Fahrzeugen oder Behältnissen zu kontrollieren.
+
+<sup>2</sup> Der Regierungsrat regelt die weiteren Befugnisse und Pflichten der Organe der Fischereipolizei sowie der privaten Ordnungshüter bei Gewässern von Inhabern besonderer Fischereirechte und verpachteten Gewässern.
+
 #### § 27
 
 **Administrativer Entzug der Fischereibewilligung**
 
-<sup>1</sup> Bei schweren oder wiederholten Verstössen gegen die Fischereigesetzgebung kann der Regierungsrat die kantonale Fischereibewilligung dauernd oder vorübergehend entziehen.
+<sup>1</sup> Bei schweren oder wiederholten Verstössen gegen die Fischereigesetzgebung oder bei nicht weisungsgemässer Führung der Fangstatistik kann das zuständige Departement die Erteilung der Fischereibewilligung zur Ausübung der Berufsfischerei verweigern und die Bewilligung dauernd oder vorübergehend entziehen.
+
+<sup>2</sup> Bei schweren oder wiederholten Verstössen gegen die Fischereigesetzgebung oder bei nicht weisungsgemässer Führung der Fangstatistik kann die für die Fischerei zuständige Fachstelle die Erteilung der Fischereibewilligung zur Ausübung der Angelfischerei in den Patentgewässern gemäss § 19 Abs. 1 verweigern oder die Bewilligung bis zu drei Jahren entziehen.
 
 #### § 28
 
@@ -276,25 +288,15 @@ vom 27.09.1976 (Stand 01.04.2002)
 
 <sup>1</sup> Wo der Bund den Kanton zum Vollzug von Staatsverträgen, zum Erlass, zur Ergänzung oder zum Vollzug von Ausnahmebestimmungen zur eidgenössischen Fischereigesetzgebung als zuständig erklärt, erlässt der Regierungsrat die nötigen Bestimmungen.
 
-<sup>2</sup> Der Regierungsrat ist zuständig für die im Bundesgesetz über den Natur- und Heimatschutz vom 1. Juli 1966[^29-1] in Art. 12 Abs. 2, Art. 20 Abs. 2 und Art. 22 sowie in der Vollziehungsverordnung des Bundesrates vom 27. Dezember 1966[^29-2] in Art. 25 den Kantonen vorbehaltenen Aufgaben.
+<sup>2</sup> Der Regierungsrat ist zuständig für die im Bundesgesetz über den Natur- und Heimatschutz[^29-1] sowie in der Verordnung über den Natur- und Heimatschutz[^29-2] den Kantonen vorbehaltenen Aufgaben.
 
 [^29-1]: SR [451](https://db.clex.ch/link/Bund/451/de)
 [^29-2]: SR [451.1](https://db.clex.ch/link/Bund/451.1/de)
 
 ## 9. Schlussbestimmungen
 
-#### § 30
+#### § 30–31
 
-**...[^30-1]**
-
-[^30-1]: Änderung bisherigen Rechtes, ABl. 1976, Seite 1068.
-
-#### § 31
-
-**Inkrafttreten**
-
-<sup>1</sup> Dieses Gesetz wird nach Annahme durch das Volk und nach Genehmigung durch das Eidgenössische Departement des Innern auf einen vom Regierungsrat zu bestimmenden Zeitpunkt in Kraft gesetzt.[^31-1]
-
-[^31-1]: Vom Eidgenössischen Departement des Innern genehmigt am 11. Januar 1977, § 4 bis § 6 und § 21 bis § 24 in Kraft gesetzt auf den 1. Juli 1977, vollständig in Kraft gesetzt auf den 1. Januar 1978.
+**…**
 
 25/1977
