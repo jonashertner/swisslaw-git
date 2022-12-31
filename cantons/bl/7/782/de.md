@@ -3,24 +3,27 @@ canton: BL
 number: "782"
 title: Gesetz über den Gewässerschutz
 language: de
-version: 2014-01-01
-valid_until: 2022-12-31
-version_adopted: 2013-02-07
+version: 2023-01-01
+version_adopted: 2022-03-24
 adopted: 2003-06-05
 in_force: 2005-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/782"
-pdf: "https://bl.clex.ch/api/de/versions/213/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3531/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Gesetz über den Gewässerschutz
 
-Vom 05.06.2003 (Stand 01.01.2014)
+Vom 05.06.2003 (Stand 01.01.2023)
 
-Der Landrat des Kantons Basel-Landschaft, gestützt auf die §§ 63 Absatz 1, 112 und 113 der Verfassung des Kantons Basel-Landschaft vom 17. Mai 1984[^ingress-1], beschliesst:[^ingress-2]
+Der Landrat des Kantons Basel-Landschaft,
 
-[^ingress-1]: GS 29.276, SGS 100
+gestützt auf die §§ 63 Abs. 1, 112 und 113 der Verfassung des Kantons Basel-Landschaft vom 17. Mai 1984[^ingress-1],
+
+beschliesst:[^ingress-2]
+
+[^ingress-1]: [SGS 100](https://bl.clex.ch/data/100/de/art63)
 [^ingress-2]: In der Volksabstimmung vom 30. November 2003 angenommen.
 
 ## 1 Allgemeine Bestimmungen
@@ -43,9 +46,9 @@ Der Landrat des Kantons Basel-Landschaft, gestützt auf die §§ 63 Absatz 1, 11
 
 **Entwässerungsplanung**
 
-<sup>1</sup> Der Kanton erstellt in Zusammenarbeit mit den Gemeinden soweit notwendig Regionale Entwässerungspläne (REP). Die REP dienen als Grundlage und Rahmen für die Generellen Entwässerungspläne (GEP) der Gemeinden sowie für die Abwasseranlagen der Kläranlagenbetreiber. Die REP sind behördenverbindlich.
+<sup>1</sup> Der Kanton erstellt in Zusammenarbeit mit den Gemeinden, soweit notwendig, Regionale Entwässerungspläne (REP). Die REP dienen als Grundlage und Rahmen für die Generellen Entwässerungspläne (GEP) der Gemeinden sowie für die Abwasseranlagen der Kläranlagenbetreiber. Die REP sind behördenverbindlich.
 
-<sup>2</sup> Die Gemeinden erstellen - abgestimmt auf den REP - einen Generellen Entwässerungsplan (GEP) auf der Stufe eines Entwässerungskonzepts. Der Landrat regelt im Dekret die Anforderungen an den GEP.
+<sup>2</sup> Die Gemeinden erstellen – abgestimmt auf den REP – einen Generellen Entwässerungsplan (GEP) auf der Stufe eines Entwässerungskonzepts. Der Landrat regelt im Dekret die Anforderungen an den GEP.
 
 <sup>3</sup> Für grössere Industrie- und Gewerbezonen können die Gemeinden ihre Kompetenz zur Erstellung des GEP den betroffenen Unternehmen übertragen. Dazu ist die Zustimmung des Kantons erforderlich.
 
@@ -67,13 +70,13 @@ Der Landrat des Kantons Basel-Landschaft, gestützt auf die §§ 63 Absatz 1, 11
 
 - a. zur Einleitung von nicht verschmutztem Abwasser in ein oberirdisches Gewässer, soweit nicht die kantonale Fachstelle für Wasserbau zuständig ist;
 - b. für Versickerungen;
-- c. für die ausnahmsweise Zuleitung von stetig anfallendem, nicht verschmutztem Abwasser (Fremdwasser) in eine Abwasserreinigungsanlage gemäss Artikel 12 Absatz 3 GSchG[^4-1].
+- c. für die ausnahmsweise Zuleitung von stetig anfallendem, nicht verschmutztem Abwasser (Fremdwasser) in eine Abwasserreinigungsanlage gemäss Art. 12 Abs. 3 GSchG[^4-1].
 
 <sup>4</sup> Der Regierungsrat legt in der Verordnung die Rahmenbedingungen für die Bewilligung von Versickerungen fest.
 
 <sup>5</sup> Die Gemeinden halten die Versickerungsanlagen in einem Kataster fest.
 
-[^4-1]: SR 814.20
+[^4-1]: [SR 814.20](https://db.clex.ch/link/Bund/814.20/de)
 
 #### § 5
 
@@ -85,15 +88,15 @@ Der Landrat des Kantons Basel-Landschaft, gestützt auf die §§ 63 Absatz 1, 11
 
 <sup>3</sup> Die Grundeigentümerinnen und -eigentümer erstellen, betreiben und erneuern die Ableitungen zur öffentlichen Kanalisation. Sie sorgen dafür, dass diese dicht sind.
 
-<sup>4</sup> Hat eine Gemeinde die Kompetenz zur Erstellung des GEP nach § 3 Absatz 3 den betroffenen Unternehmen übertragen, kann sie diese auch mit der Sammlung und Ableitung des Abwassers beauftragen.
+<sup>4</sup> Hat eine Gemeinde die Kompetenz zur Erstellung des GEP nach § 3 Abs. 3 den betroffenen Unternehmen übertragen, kann sie diese auch mit der Sammlung und Ableitung des Abwassers beauftragen.
 
 #### § 6
 
 **Verschmutztes Abwasser: Reinigung**
 
-<sup>1</sup> Die Kläranlagenbetreiber sorgen für die Ableitung des verschmutzten Abwassers in ihren Kanälen zu den Abwasserreinigungsanlagen, für die Reinigung des Abwassers sowie für die Verwertung oder Entsorgung der Rückstände. Bau-, Betrieb und Unterhalt künftiger Mischwasserbehandlungsanlagen (Mischwasserbecken) im gesamten Abwassernetz sind Sache der Kläranlagenbetreiber.
+<sup>1</sup> Die Kläranlagenbetreiber sorgen für die Ableitung des verschmutzten Abwassers in ihren Kanälen zu den Abwasserreinigungsanlagen, für die Reinigung des Abwassers sowie für die Verwertung oder Entsorgung der Rückstände. Bau, Betrieb und Unterhalt künftiger Mischwasserbehandlungsanlagen (Mischwasserbecken) im gesamten Abwassernetz sind Sache der Kläranlagenbetreiber.
 
-<sup>2</sup> Der Kanton sorgt dafür, dass Abwasser den Anforderungen des Bundesrechtes für die Einleitung in die öffentliche Kanalisation oder in ein Gewässer entspricht.
+<sup>2</sup> Der Kanton sorgt dafür, dass Abwasser den Anforderungen des Bundesrechts für die Einleitung in die öffentliche Kanalisation oder in ein Gewässer entspricht.
 
 <sup>3</sup> Der Kanton sorgt dafür, dass Abwasser, das ausserhalb des Bereichs öffentlicher Kanalisationen anfällt, auf umweltverträgliche Art behandelt wird.
 
@@ -107,7 +110,7 @@ Der Landrat des Kantons Basel-Landschaft, gestützt auf die §§ 63 Absatz 1, 11
 
 <sup>1</sup> Die Gemeinden erteilen die Bewilligungen zum Anschluss an die Ableitsysteme für Abwasser. Sie legen darin die bautechnischen Auflagen und Bedingungen fest. Vorbehalten bleiben Auflagen und Bedingungen des Kantons zur Sicherstellung der erforderlichen Abwasserqualität.
 
-<sup>2</sup> Hat eine Gemeinde die Sammlung und Ableitung des Abwassers nach § 3 Absatz 3 den betroffenen Unternehmen übertragen, so erteilt der Kanton die Bewilligungen zum Anschluss.
+<sup>2</sup> Hat eine Gemeinde die Sammlung und Ableitung des Abwassers nach § 3 Abs. 3 den betroffenen Unternehmen übertragen, so erteilt der Kanton die Bewilligungen zum Anschluss.
 
 #### § 8
 
@@ -145,7 +148,9 @@ Der Landrat des Kantons Basel-Landschaft, gestützt auf die §§ 63 Absatz 1, 11
 
 <sup>2</sup> Die Verursacher und Verursacherinnen müssen die erforderlichen Massnahmen zur Vermeidung, Eindämmung und Behebung des Schadens treffen.
 
-<sup>3</sup> Wenn nötig kann die kantonale Behörde die erforderlichen Massnahmen selber treffen oder von Dritten durchführen lassen. Sie überbindet die Kosten dem Verursacher oder der Verursacherin.
+<sup>3</sup> Wenn nötig, kann die kantonale Behörde die erforderlichen Massnahmen selber treffen oder von Dritten durchführen lassen. Sie überbindet die Kosten dem Verursacher oder der Verursacherin.
+
+<sup>4</sup> Die Feuerwehren des Kantons, der Gemeinden und der Betriebe gelten in Ausübung ihres gesetzlichen Auftrags nicht als Verursacherinnen gemäss den Abs. 2 und 3.
 
 ## 4 Kosten
 
@@ -161,18 +166,18 @@ Der Landrat des Kantons Basel-Landschaft, gestützt auf die §§ 63 Absatz 1, 11
 
 <sup>4</sup> Die Kläranlagenbetreiber überbinden einen Teil ihrer Kosten direkt den Industrie- und Gewerbebetrieben, welche Abwasser mit einer wesentlich höheren Schmutzstoffbelastung als jener des kommunalen Abwassers verursachen.
 
-<sup>5</sup> Der Regierungsrat regelt die Details der Absätze 3 und 4.
+<sup>5</sup> Der Regierungsrat regelt die Details der Abs. 3 und 4.
 
 #### § 13
 
 **Gebühren der Abwasserbeseitigung (Gemeinden)**
 
-<sup>1</sup> Die Gemeinden übertragen die ihnen beim Vollzug dieses Gesetzes entstehenden Kosten sowie die ihnen gemäss § 12 überbundenen Kosten auf die Abwasserlieferantinnen- und lieferanten in Form einer Gebühr.
+<sup>1</sup> Die Gemeinden übertragen die ihnen beim Vollzug dieses Gesetzes entstehenden Kosten sowie die ihnen gemäss § 12 überbundenen Kosten auf die Abwasserlieferantinnen und -lieferanten in Form einer Gebühr.
 
-<sup>2</sup> Die Gebühren richten sich nach der Menge des in die Kanalisation eingeleiteten Abwassers. Diese richtet sich nach dem Wasserverbrauch. Regen- und Fremdwasser können dabei mitberücksichtigt werden. Weiter ist zu berücksichtigen,
+<sup>2</sup> Die Gebühren richten sich nach der Menge des in die Kanalisation eingeleiteten Abwassers. Diese richtet sich nach dem Wasserverbrauch. Regen- und Fremdwasser können dabei mitberücksichtigt werden. Weiter ist zu berücksichtigen, dass:
 
-- a. dass erhebliche Frischwassermengen, die nachweislich nicht in die Schmutzwasserkanalisation eingeleiteten werden, bei der Gebührenerhebung abgezogen werden müssen;
-- b. das erhebliche Wassermengen, die nicht bezogen, aber nachweislich in die Schmutzwasserkanalisation eingeleitet werden, bei der Gebührenberechnung berücksichtigt werden müssen.
+- a. erhebliche Frischwassermengen, die nachweislich nicht in die Schmutzwasserkanalisation eingeleiteten werden, bei der Gebührenerhebung abgezogen werden müssen;
+- b. erhebliche Wassermengen, die nicht bezogen, aber nachweislich in die Schmutzwasserkanalisation eingeleitet werden, bei der Gebührenberechnung berücksichtigt werden müssen.
 
 <sup>3</sup> Eine Grundgebühr zur Finanzierung der laufenden Infrastrukturkosten kann bei der Gebührengestaltung eingeführt werden.
 
@@ -213,14 +218,14 @@ Der Landrat des Kantons Basel-Landschaft, gestützt auf die §§ 63 Absatz 1, 11
 
 #### § 16
 
-<sup>1</sup> Mit Busse oder in schweren Fällen mit Busse bis 100'000 Fr. wird bestraft:
+<sup>1</sup> Mit Busse oder in schweren Fällen mit Busse bis CHF 100'000.– wird bestraft:
 
-- a. wer Abwasser, das einer Vorbehandlung unterzogen werden muss, ohne Bewilligung in die öffentliche Kanalisation (§ 9 Buchstabe b), in eine Kläranlage (§ 9 Buchstabe c) oder in ein Gewässer (§ 9 Buchstabe d) einleitet oder versickern lässt;
+- a. wer Abwasser, das einer Vorbehandlung unterzogen werden muss, ohne Bewilligung in die öffentliche Kanalisation (§ 9 Bst. b), in eine Kläranlage (§ 9 Bst. c) oder in ein Gewässer (§ 9 Bst. d) einleitet oder versickern lässt;
 - b. wer gegen die Pflicht zur Alarmierung und Schadenbekämpfung verstösst (§ 11).
 
-<sup>2</sup> Die Artikel 6 und 7 des Bundesgesetzes über das Verwaltungsstrafrecht[^16-1] gelten für strafbare Handlungen nach diesem Gesetz.
+<sup>2</sup> Die Art. 6 und 7 des Bundesgesetzes über das Verwaltungsstrafrecht[^16-1] gelten für strafbare Handlungen nach diesem Gesetz.
 
-[^16-1]: SR 313.0
+[^16-1]: [SR 313.0](https://db.clex.ch/link/Bund/313.0/de)
 
 ## 7 Schlussbestimmungen
 
@@ -241,11 +246,11 @@ Der Landrat des Kantons Basel-Landschaft, gestützt auf die §§ 63 Absatz 1, 11
 
 <sup>2</sup> Die Gemeinden sorgen dafür, dass nicht verschmutztes Abwasser spätestens bei der Erneuerung der bestehenden Abwasseranlagen und bei Neuerschliessungen im Sinne des Gesetzes beseitigt wird.
 
-<sup>3</sup> Die Kläranlagenbetreiber erheben innert zwei Jahren nach Inkrafttreten dieser Revision die Grundlagen für die eingeleiteten Schmutz- und Fremdwassermengen. Die Gemeinden liefern die Angaben für die Schmutzwassermengen.
+<sup>3</sup> Die Kläranlagenbetreiber erheben innert 2 Jahren nach Inkrafttreten dieser Revision die Grundlagen für die eingeleiteten Schmutz- und Fremdwassermengen. Die Gemeinden liefern die Angaben für die Schmutzwassermengen.
 
-<sup>4</sup> Die Überwälzung der Kosten gemäss § 12 erfolgt spätestens nach Ablauf der Frist gemäss Absatz 3 der Übergangsbestimmungen.
+<sup>4</sup> Die Überwälzung der Kosten gemäss § 12 erfolgt spätestens nach Ablauf der Frist gemäss Abs. 3 der Übergangsbestimmungen.
 
-<sup>5</sup> Der Kanton erstellt innert fünf Jahren nach Inkraftsetzung der Revision soweit notwendig Regionale Entwässerungspläne (REP).
+<sup>5</sup> Der Kanton erstellt innert 5 Jahren nach Inkraftsetzung der Revision, soweit notwendig, Regionale Entwässerungspläne (REP).
 
 #### § 19
 
@@ -253,13 +258,13 @@ Der Landrat des Kantons Basel-Landschaft, gestützt auf die §§ 63 Absatz 1, 11
 
 <sup>1</sup> Das Gesetz über den Gewässerschutz vom 18. April 1994[^19-1] wird aufgehoben.
 
-[^19-1]: GS 31.770, SGS 782
+[^19-1]: GS 31.770
 
 #### § 20
 
 **Inkrafttreten**
 
-<sup>1</sup> Der Regierungsrat bestimmt das Inkrafttreten dieses Gesetzes[^20-1].
+<sup>1</sup> Der Regierungsrat bestimmt das Inkrafttreten dieses Gesetzes.[^20-1]
 
 [^20-1]: Vom Regierungsrat am 14. Dezember 2004 auf den 1. Januar 2005 in Kraft gesetzt.
 
