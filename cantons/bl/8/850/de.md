@@ -4,13 +4,13 @@ number: "850"
 title: Gesetz über die Sozial- und die Jugendhilfe
 short: "Sozialhilfegesetz, SHG"
 language: de
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2020-12-16
+version: 2023-01-01
+valid_until: 2023-03-31
+version_adopted: 2021-11-04
 adopted: 2001-06-21
 in_force: 2002-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/850"
-pdf: "https://bl.clex.ch/api/de/versions/3091/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3428/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3091/pdf_file"
 
 (Sozialhilfegesetz, SHG)
 
-Vom 21.06.2001 (Stand 01.01.2022)
+Vom 21.06.2001 (Stand 01.01.2023)
 
 Der Landrat des Kantons Basel-Landschaft,
 
@@ -77,11 +77,13 @@ beschliesst:
 
 **Anspruch auf Hilfe**
 
-<sup>1</sup> Notleidende Personen haben Anspruch auf unentgeltliche Beratung und auf materielle Unterstützung.
+<sup>1</sup> Hilfesuchende Personen haben Anspruch auf unentgeltliche Beratung und bei vorliegender Bedürftigkeit Anspruch auf materielle Unterstützung.
 
-<sup>2</sup> Die zuständige Gemeinde hat alle hilfesuchenden und hilfsbedürftigen Personen fachgerecht zu beraten und im erforderlichen Umfang zu unterstützen.
+<sup>2</sup> Die zuständige Gemeinde hat alle hilfesuchenden und hilfsbedürftigen Personen fachgerecht zu beraten, aktiv über ihre Rechte und Pflichten aufzuklären und im erforderlichen Umfang zu unterstützen.
 
 <sup>3</sup> Die Festlegung der Hilfe soll zusammen mit der hilfesuchenden Person erfolgen. Die Hilfe kann mit Gegenleistungen verknüpft werden.
+
+<sup>4</sup> Bei der Festlegung der Hilfe ist auf das Wohl der Kinder besonders Rücksicht zu nehmen.
 
 #### § 4a
 
@@ -110,7 +112,7 @@ beschliesst:
 - a. Personen ohne Anwesenheitsbewilligung in der Schweiz oder im Kanton,
 - b. Ausländerinnen und Ausländer, die sich lediglich zum Zweck der Stellensuche in der Schweiz aufhalten sowie deren Familienangehörige,
 - c. Touristinnen und Touristen sowie
-- d. Personen mit einer rechtskräftigen ausländerrechtlichen Wegweisungsverfügung ab Ablauf der festgesetzten Ausreisefrist.
+- d. Personen mit einer rechtskräftigen ausländerrechtlichen Wegweisungsverfügung.
 
 <sup>2</sup> Auf Antrag wird Nothilfe im Sinne von Art. 12 der Bundesverfassung der Schweizerischen Eidgenossenschaft[^4c-1] ausgerichtet.
 
@@ -134,13 +136,17 @@ beschliesst:
 
 <sup>1</sup> Unterstützungen werden an die Aufwendungen für den Grundbedarf, eine angemessene Wohnung, obligatorische Versicherungen, medizinische Behandlung und Pflege, Tagesbetreuung, familienstützende Massnahmen sowie an weitere notwendige Aufwendungen gewährt.
 
+<sup>1<sup>bis</sup></sup> Unterstützten Personen, insbesondere Kindern, Jugendlichen und jungen Erwachsenen, ist eine ihren Fähigkeiten entsprechende persönliche Förderung und Ausbildung zu ermöglichen.
+
 <sup>2</sup> Unterstützungen werden nur an laufende Aufwendungen gemäss Abs. 1 gewährt. Ausnahmsweise können Unterstützungen zur Schuldentilgung, insbesondere von Wohnungs- oder Gesundheitskosten, gewährt werden, wenn damit einer bestehenden oder drohenden Notlage zweckmässig begegnet werden kann.
 
 <sup>2<sup>bis</sup></sup> Es können ausnahmsweise Unterstützungen gewährt werden zur Tilgung von Schulden, die während der Unterstützung aufgrund nicht bestimmungsgemässer Verwendung der Unterstützungsleistung entstehen.
 
 <sup>2<sup>ter</sup></sup> Materielle Unterstützungen gemäss den Abs. 2 und 2<sup>bis</sup> können von der laufenden Unterstützung bis maximal 30 % des Grundbedarfs abgezogen werden. Ausgenommen sind unterstützte Personen, bei denen sich der Grundbedarf nach § 10 der Sozialhilfeverordnung[^6-1] richtet.
 
-<sup>3</sup> Der Regierungsrat regelt das Mass der Unterstützungen und stuft sie nach der Grösse des Haushalts und Alterskategorie ab. Er kann sich dabei an den Richtlinien der Schweizerischen Konferenz für Sozialhilfe orientieren.
+<sup>2<sup>quater</sup></sup> Bei der Ausrichtung der Unterstützung darf die Nothilfe nicht unterschritten werden.
+
+<sup>3</sup> Der Regierungsrat regelt das Mass der Unterstützungen und stuft sie nach der Grösse des Haushalts, Alterskategorie und weiteren Kriterien ab. Er kann sich dabei an den Richtlinien der Schweizerischen Konferenz für Sozialhilfe (SKOS) orientieren. Er passt die Unterstützung der Teuerung an. Betreffend die Teuerung übernimmt er die Empfehlungen der Konferenz der kantonalen Sozialdirektorinnen und Sozialdirektoren (SODK).
 
 [^6-1]: [SGS 850.11](https://bl.clex.ch/data/850.11/de/art10)
 
@@ -271,7 +277,7 @@ beschliesst:
 
 <sup>1</sup> Nicht der Rückerstattungspflicht gemäss § 13 Abs. 1 unterliegen Unterstützungen an junge Erwachsene bis zum vollendeten 25. Lebensjahr, die diese aufgrund eigenen Rechts erhalten haben.
 
-<sup>2</sup> Die Kosten für die Förderungsprogramme, für die Beschäftigungen sowie für die Anreizbeiträge unterliegen keiner Rückerstattungspflicht.
+<sup>2</sup> Die Kosten für die Integrationsmassnahmen, die Zuschüsse sowie die Anreizbeiträge unterliegen keiner Rückerstattungspflicht.
 
 ### 2.3 Überbrückungshilfen
 
@@ -285,43 +291,81 @@ beschliesst:
 
 ## 3 Eingliederung bedürftiger Personen
 
+#### § 15a
+
+**Assessmentcenter**
+
+<sup>1</sup> Der Kanton betreibt ein Assessmentcenter als Anlaufs-, Beratungs- und Koordinationsstelle.
+
+<sup>2</sup> Das Assessmentcenter hat zum Ziel, durch geeignete Massnahmen einer Sozialhilfeabhängigkeit frühzeitig entgegenzuwirken. Dies erfolgt insbesondere durch Förderung der Arbeitsmarktfähigkeit unter Einbezug und Koordination der einzelnen Institutionen.
+
+<sup>3</sup> Das Assessmentcenter richtet sich in erster Linie an im Kanton wohnhafte erwerbslose Personen, insbesondere an Personen, denen eine Aussteuerung droht.
+
+<sup>4</sup> Personen, die von der Sozialhilfe unterstützt werden, können unter bestimmten Voraussetzungen durch die Gemeinden dem Assessmentcenter zugewiesen werden.
+
+<sup>5</sup> Das Nähere regelt der Regierungsrat.
+
 #### § 16
 
-**Förderungsprogramme**
+**Integrationsmassnahmen**
 
-<sup>1</sup> Die Gemeinden bieten unterstützten Personen Programme an, die deren Arbeitsmarktfähigkeit fördern (kurz: Förderungsprogramme).
+<sup>1</sup> Die Gemeinden ermöglichen den unterstützten Personen die Teilnahme an Integrationsmassnahmen.
 
-<sup>2</sup> Sie können die Teilnahme an Förderungsprogrammen anordnen.
+<sup>2</sup> Integrationsmassnahmen sind:
 
-<sup>3</sup> Die Förderungsprogramme umfassen alle zweckgerichteten Arten von Tätigkeiten, Schulungen und Weiterbildungen und sind auf bereits erfolgte Förderungsmassnahmen abzustimmen. Sie sind auf die Vereinbarkeit von beruflichen und familiären Aufgaben auszurichten und haben die Verbesserung der Geschlechtervertretung in den verschiedenen Funktionen zu fördern.
+- a. Förderungsprogramme,
+- b. Sprachförderungskurse,
+- c. Grundkompetenzkurse,
+- d. Beschäftigungsprogramme,
+- e. Massnahmen der sozialen Integration,
+- f. Massnahmen der frühen Sprachförderung.
+
+<sup>3</sup> Die Gemeinden können die Teilnahme an Integrationsmassnahmen anordnen.
+
+<sup>4</sup> Integrationsmassnahmen sind auf bereits erfolgte Integrationsmassnahmen abzustimmen. Sie sind auf die Vereinbarkeit von beruflichen und familiären Aufgaben auszurichten.
+
+#### § 16a
+
+**Definitionen der Integrationsmassnahmen**
+
+<sup>1</sup> Förderungsprogramme dienen der Förderung der Arbeitsmarktfähigkeit.
+
+<sup>2</sup> Sprachförderungskurse dienen dem Erwerb der deutschen Sprache.
+
+<sup>3</sup> Grundkompetenzkurse dienen dem Erlangen von grundlegenden Kenntnissen und Fähigkeiten in den Bereichen Lesen, Schreiben, mündliche Ausdrucksfähigkeit, Grundkenntnisse der Mathematik sowie Anwendung von Informations- und Kommunikationstechnologien.
+
+<sup>4</sup> Beschäftigungsprogramme dienen einer geordneten Alltagsbewältigung.
+
+<sup>5</sup> Massnahmen der sozialen Integration dienen der Förderung des Zusammenlebens, insbesondere der einheimischen und der zugewanderten Bevölkerung.
+
+<sup>6</sup> Massnahmen der frühen Sprachförderung dienen dem Erwerb der deutschen Sprache im Vorschulalter.
 
 #### § 17
 
 **Anreizbeiträge an Arbeitgebende**
 
-<sup>1</sup> Die Gemeinden vergüten Arbeitgebenden, die unterstützte, leistungsreduzierte Personen anstellen, die Lohnnebenkosten und richten ihnen eine Betreuungspauschale aus (kurz: Anreizbeitrag).
+<sup>1</sup> Anreizbeiträge fördern die Eingliederung in den ersten Arbeitsmarkt und zielen auf die Ablösung von der Sozialhilfe ab.
 
-<sup>2</sup> Vor Ausrichtung eines Anreizbeitrags ist die Stellungnahme der Sozialpartner einzuholen.
+<sup>1<sup>bis</sup></sup> Anreizbeiträge setzen sich zusammen aus:
+
+- a. den Lohnnebenkosten (arbeitgeberseitig) und
+- b. der Betreuungspauschale.
+
+<sup>1<sup>ter</sup></sup> Die Gemeinden vergüten Arbeitgebenden, die unterstützte leistungsreduzierte Personen anstellen, für in der Regel maximal 1 Jahr die Lohnnebenkosten (arbeitgeberseitig) und richten ihnen eine Betreuungspauschale aus.
+
+<sup>2</sup> Die Gemeinden können Arbeitgebenden, die unterstützte Personen anstellen, für eine begrenzte Zeit die Lohnnebenkosten (arbeitgeberseitig) ausrichten.
 
 <sup>3</sup> Die Arbeitgebenden dürfen die Personen nicht an Einsatzbetriebe verleihen.
 
+<sup>4</sup> Das Nähere regelt der Regierungsrat.
+
 #### § 18
 
-**Ausführungsbestimmungen**
-
-<sup>1</sup> Der Regierungsrat legt die Betreuungspauschale fest.
-
-<sup>2</sup> Die Gemeinden überprüfen mindestens einmal jährlich den Grad der Leistungsreduktion.
+**…**
 
 #### § 19
 
-**Beschäftigungen**
-
-<sup>1</sup> Die Gemeinden bieten unterstützten Personen zumutbare Beschäftigungen an, die deren geordnete Alltagsbewältigung fördern oder erhalten (kurz: Beschäftigungen).
-
-<sup>2</sup> Sie können die Ausübung einer Beschäftigung anordnen.
-
-<sup>3</sup> Die Beschäftigungen können insbesondere zugunsten der Allgemeinheit und gemeinnütziger Institutionen erfolgen.
+**…**
 
 ## 4 Therapien für alkohol- oder drogenkranke Personen
 
@@ -535,11 +579,11 @@ beschliesst:
 
 **Im Bereich der Eingliederung bedürftiger Personen**
 
-<sup>1</sup> Die Gemeinden tragen die mit den Förderungsprogrammen und Beschäftigungen zusammenhängenden Kosten sowie die Anreizbeiträge.
+<sup>1</sup> Die Gemeinden tragen die mit den Integrationsmassnahmen zusammenhängenden Kosten sowie die Lohnnebenkosten gemäss § 17 Abs. 1<sup>bis</sup> Bst. a.
 
-<sup>2</sup> Der Kanton vergütet der Gemeinde, welche die Unterstützung ausgerichtet hat, die Hälfte der angefallenen Kosten für die Förderungsprogramme und Beschäftigungen. Der Regierungsrat legt die Voraussetzungen sowie eine Obergrenze für die Kantonsvergütungen fest.
+<sup>2</sup> Der Kanton vergütet der Gemeinde, welche die Unterstützung ausgerichtet hat, die Hälfte der angefallenen Kosten für die Integrationsmassnahmen. Der Regierungsrat legt die Voraussetzungen sowie eine Obergrenze für die Kantonsvergütungen fest.
 
-<sup>3</sup> Er vergütet der Gemeinde, welche die Unterstützung ausgerichtet hat, die Hälfte der ausgerichteten Anreizbeiträge.
+<sup>3</sup> Der Kanton trägt die Betreuungspauschale gemäss § 17 Abs. 1<sup>bis</sup> Bst. b und vergütet diese der Gemeinde.
 
 #### § 35
 
@@ -595,7 +639,7 @@ beschliesst:
 
 **Weitergabe von Informationen unter den Sozialhilfebehörden**
 
-<sup>1</sup> Die Sozialhilfebehörden können untereinander die für das Erfüllen der Sozialhilfeaufgaben zwingend erforderlichen Informationen austauschen, die für eine effiziente und sachliche Bearbeitung der Unterstützungsfälle angezeigt sind.
+<sup>1</sup> Die Sozialhilfebehörden tauschen untereinander die für das Erfüllen der Sozialhilfeaufgaben zwingend erforderlichen Informationen aus, die für eine effiziente und sachliche Bearbeitung der Unterstützungsfälle angezeigt sind.
 
 <sup>2</sup> Auf Nachfrage erteilen die Sozialhilfebehörden einer nachfolgenden Gemeinde bei Wechsel des Unterstützungswohnsitzes einer unterstützten Person die für das Erfüllen der Sozialhilfeaufgaben zwingend erforderlichen Auskünfte.
 
@@ -710,7 +754,15 @@ beschliesst:
 
 **…**
 
-## 10 Schlussbestimmungen
+## 10 Übergangs- und Schlussbestimmungen
+
+#### § 43a
+
+**Übergangsbestimmung zur Änderung vom 4. November 2021**
+
+<sup>1</sup> Zuschüsse gemäss § 6<sup>bis</sup> und Minderungen gemäss § 6<sup>ter</sup> werden per Inkrafttreten der Änderung vom 4. November 2021[^43a-1] auch auf laufende Unterstützungsfälle angewendet.
+
+[^43a-1]: Vom Regierungsrat am 25. Oktober 2022 mit RRB Nr. 2022-1556 gestaffelt in Kraft gesetzt per 1. Januar 2023, ausgenommen die §§ 6<sup>bis</sup>, 6<sup>ter</sup> und 7 SHG: Diese treten per 1. April 2023 in Kraft.
 
 #### § 44
 
