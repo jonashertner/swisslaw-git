@@ -4,11 +4,11 @@ title: Legge federale del 3 ottobre 2008 sui sistemi d’informazione militari e
 short: LSIM
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/823"
 language: it
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2008-10-03
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/823/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2009-823-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/823/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/823/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2009-823-20230101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/823/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/823/20220101/it"
 
 (LSIM)
 
-del 3 ottobre 2008 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
+del 3 ottobre 2008 (Stato 1° gennaio 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -176,7 +176,7 @@ I profili della personalità sono conservati al massimo:
 
 ## Capitolo 2: Sistemi d’informazione per la gestione del personale
 
-### Sezione 1: Sistema di gestione del personale dell’esercito e della protezione civile****
+### Sezione 1: Sistema di gestione del personale dell’esercito e della protezione civile
 
 [^chap2-sec1-1]
 
@@ -290,7 +290,7 @@ Il PISA può essere collegato con i seguenti sistemi d’informazione della Conf
 [^15-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 [^15-2]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 [^15-3]: [RS 431.02](https://fedlex.data.admin.ch/eli/cc/2006/619)
-[^15-4]: [RS 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)
+[^15-4]: [[RU 2003 4187](https://fedlex.data.admin.ch/eli/oc/2003/620), [4327](https://fedlex.data.admin.ch/eli/oc/2003/645); [2005 2881](https://fedlex.data.admin.ch/eli/oc/2005/472)n. II cpv. 1 lett. c; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 47; [2009 6617](https://fedlex.data.admin.ch/eli/oc/2009/823)all. n. 3; [2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869)all. n. 4; [2011 5891](https://fedlex.data.admin.ch/eli/oc/2011/816); [2014 3545](https://fedlex.data.admin.ch/eli/oc/2014/615)art. 23; [2015 187](https://fedlex.data.admin.ch/eli/oc/2015/24); [2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714)all. n. 7; [2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807)all. n. 7. [RU 2020 4995](https://fedlex.data.admin.ch/eli/oc/2020/887)all. n. I]. Vedi ora: LF del 20 dic. 2019 ([RS 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)).
 [^15-5]: Introdotto dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 [^15-6]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 [^15-7]: Introdotto dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
@@ -396,10 +396,133 @@ I dati del PISA concernenti reati, decisioni e misure penali possono essere cons
 [^17-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 [^17-2]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
 [^17-3]: Introdotta dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^17-4]: [RS 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)
+[^17-4]: [[RU 2003 4187](https://fedlex.data.admin.ch/eli/oc/2003/620), [4327](https://fedlex.data.admin.ch/eli/oc/2003/645); [2005 2881](https://fedlex.data.admin.ch/eli/oc/2005/472)n. II cpv. 1 lett. c; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 47; [2009 6617](https://fedlex.data.admin.ch/eli/oc/2009/823)all. n. 3; [2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869)all. n. 4; [2011 5891](https://fedlex.data.admin.ch/eli/oc/2011/816); [2014 3545](https://fedlex.data.admin.ch/eli/oc/2014/615)art. 23; [2015 187](https://fedlex.data.admin.ch/eli/oc/2015/24); [2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714)all. n. 7; [2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807)all. n. 7. [RU 2020 4995](https://fedlex.data.admin.ch/eli/oc/2020/887)all. n. I]. Vedi ora: LF del 20 dic. 2019 ([RS 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)).
 [^17-5]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 [^17-6]: Introdotto dal n. II della LF del 23 dic. 2011 ([RU 2012 4551](https://fedlex.data.admin.ch/eli/oc/2012/544)[6775](https://fedlex.data.admin.ch/eli/oc/2012/818); [FF 2011 4077](https://fedlex.data.admin.ch/eli/fga/2011/715)). Nuovo testo giusta il n. I 4 della LF del 25 set. 2015 sul miglioramento dello scambio d’informazioni tra autorità in materia di armi, in vigore dal 1° lug. 2016 ([RU 2016 1831](https://fedlex.data.admin.ch/eli/oc/2016/326); [FF 2014 277](https://fedlex.data.admin.ch/eli/fga/2014/67)).
 [^17-7]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+
+### Sezione 1*a*: Sistema d’informazione Gestione dei servizi
+
+[^chap2-sec1a-1]
+
+[^chap2-sec1a-1]: Introdotta dall’all. n. 4 della LF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).).
+
+#### Art. 17a
+
+**Organo responsabile**
+
+L’Aggruppamento Difesa gestisce il sistema d’informazione Gestione dei servizi (GDS).
+
+#### Art. 17b
+
+**Scopo**
+
+Il GDS serve alle persone soggette all’obbligo di prestare servizio militare, comprese le persone soggette all’obbligo di leva, al personale previsto per il promovimento della pace, ai civili assistiti dalla truppa o chiamati a partecipare a un impiego di durata limitata dell’esercito, e alle persone soggette all’obbligo di prestare servizio di protezione civile per:
+
+- a. consultare e aggiornare i propri dati nonché allestirne estratti;
+- b.
+
+  comunicare con le unità amministrative della Confederazione, dei Cantoni e dei Comuni, ai comandi militari, ai comandanti della protezione civile o a terzi designati dalla persona interessata negli ambiti seguenti:
+
+  - 1\. trasmissione dei propri dati,
+  - 2\. trasmissione di domande, richieste e iscrizioni,
+  - 3\. trasmissione di ordinazioni di materiale, e
+  - 4\. invio e ricezione di informazioni e documenti;
+
+- c. partecipare a sondaggi.
+
+#### Art. 17c
+
+**Dati**
+
+<sup>1</sup>
+
+Il GDS contiene i dati seguenti delle persone soggette all’obbligo di prestare servizio militare, comprese le persone soggette all’obbligo di leva, del personale previsto per il promovimento della pace e dei civili assistiti dalla truppa o chiamati a partecipare a un impiego di durata limitata dell’esercito:
+
+- a. generalità, numero AVS, foto, professione, relazione bancaria, dati di contatto e dati di contatto di terzi in caso d’emergenza forniti dalla persona interessata;
+- b. dati concernenti lo statuto militare e l’ammissione al servizio civile;
+- c. dati concernenti l’incorporazione, il grado, la funzione, l’istruzione e la qualificazione nell’esercito;
+- d. dati di contatto del comandante superiore, dell’organo di comando competente, dell’organo incaricato della tenuta dei controlli nonché di altri organi e persone;
+- e. decisioni concernenti l’idoneità al servizio militare, il profilo attitudinale e l’incorporazione, compresi l’apprezzamento medico e psicologico dell’idoneità al servizio e la corrispondenza scambiata con le persone incaricate dell’apprezzamento;
+- f. dati sanitari quali referti sanitari concernenti le limitazioni dell’idoneità al servizio, dati relativi allo stato di salute e alle caratteristiche psichiche, i certificati e le perizie medici;
+- g. dati sulle attitudini fisiche e i test sportivi effettuati nonché dati fisiologici;
+- h. dati concernenti l’idoneità a esercitare determinate funzioni nonché funzioni speciali con esigenze più elevate, se tale idoneità non risulta dal profilo attitudinale;
+- i. risultati dell’istruzione, dati concernenti le capacità e un elenco delle prestazioni;
+- j. dati concernenti le istruzioni assolte e le autorizzazioni conseguite per l’impiego di sistemi militari;
+- k. dati concernenti attività, istruzioni e prestazioni prima e fuori del servizio;
+- l. dati concernenti il potenziale per la funzione di quadro, le valutazioni per una funzione di quadro e lo stato di servizio;
+- m. dati concernenti l’obbligo di servizio e l’obbligo di tiro nonché il loro adempimento, le date di tiro e i risultati di tiro;
+- n. dati concernenti avvisi di servizio e servizi prestati, compresi i dati concernenti gli impieghi nel quadro del promovimento della pace;
+- o. dati concernenti le assenze, compresi i dati concernenti le domande di differimento del servizio, di congedo e di dispensa;
+- p. dati concernenti conteggi del soldo e indennità per perdita di guadagno;
+- q. dati concernenti la tassa d’esenzione dall’obbligo militare;
+- r. dati concernenti l’equipaggiamento personale e le ordinazioni di materiale;
+- s. dati concernenti la consegna, il deposito e il ritiro dell’arma personale e dell’arma in prestito, nonché dati concernenti le decisioni in materia di ritiro cautelare e di ritiro definitivo di tali armi;
+- t. dati forniti o trasmessi volontariamente dalla persona interessata, comprese le domande, le richieste e le iscrizioni da lei presentate, insieme agli allegati;
+- u. informazioni e documenti che la persona interessata ha spedito alle unità amministrative della Confederazione, dei Cantoni e dei Comuni, ai comandi militari e a terzi o che ha ricevuto da loro;
+- v. decisioni concernenti domande, richieste e iscrizioni presentate dalla persona interessata;
+- w. dati concernenti l’esame e il controllo delle domande di pagamento di contributi per la formazione;
+- x. decisioni concernenti domande di pagamento di contributi per la formazione;
+- y. dati concernenti sondaggi.
+
+<sup>2</sup>
+
+Contiene i dati seguenti delle persone soggette all’obbligo di prestare servizio di protezione civile:
+
+- a. generalità, numero AVS, foto, professione, relazione bancaria, dati di contatto e dati di contatto di terzi in caso d’emergenza forniti dalla persona interessata;
+- b. dati concernenti l’attribuzione della funzione di base, l’incorporazione, la funzione e il grado;
+- c. dati di contatto del comandante superiore della protezione civile, dell’organo incaricato della tenuta dei controlli nonché di altri organi;
+- d. decisioni concernenti l’idoneità al servizio di protezione civile, il profilo attitudinale e l’attribuzione;
+- e. dati concernenti l’idoneità a esercitare determinate funzioni nonché funzioni speciali con esigenze più elevate, se tale idoneità non risulta dal profilo attitudinale;
+- f. dati concernenti il potenziale per la funzione di quadro, le valutazioni per una funzione di quadro e lo stato di servizio;
+- g. dati concernenti l’obbligo di prestare servizio e il relativo adempimento;
+- h. dati concernenti avvisi di servizio e servizi prestati;
+- i. dati concernenti la tassa d’esenzione dall’obbligo militare;
+- j. dati concernenti l’equipaggiamento personale e le ordinazioni di materiale;
+- k. dati forniti o trasmessi volontariamente dalla persona interessata, comprese le domande, le richieste e le iscrizioni da lei presentate, insieme agli allegati;
+- l. informazioni e documenti che la persona interessata ha spedito alle unità amministrative della Confederazione, dei Cantoni e dei Comuni, ai comandanti della protezione civile e a terzi o che ha ricevuto da loro;
+- m. decisioni concernenti domande, richieste e iscrizioni presentate dalla persona interessata;
+- n. dati concernenti sondaggi.
+
+#### Art. 17d
+
+**Raccolta dei dati**
+
+L’Aggruppamento Difesa raccoglie i dati per il GDS:
+
+- a. presso la persona interessata o il suo rappresentante legale;
+- b. presso le unità amministrative della Confederazione, dei Cantoni e dei Comuni, i comandi militari, i comandanti della protezione civile e terzi da cui la persona interessata riceve informazioni e documenti;
+- c.
+
+  mediante procedura di richiamo o automaticamente dai seguenti sistemi d’informazione:
+
+  - 1\. PISA,
+  - 2\. sistema d’informazione medica dell’esercito (MEDISA),
+  - 3\. PSN,
+  - 4\. sistema d’informazione Circolazione stradale e navigazione dell’esercito (FA-SVSAA),
+  - 5\. sistema d’informazione Tiro fuori del servizio (TFS),
+  - 6\. sistema d’informazione per l’amministrazione dei servizi (MIL Office),
+  - 7\. sistema d’informazione per la gestione del personale per il servizio di promovimento della pace (PERAUS),
+  - 8\. sistema d’informazione per la gestione dell’istruzione (Learning Management System DDPS, LMS DDPS).
+
+#### Art. 17e
+
+**Comunicazione dei dati**
+
+<sup>1</sup> L’Aggruppamento Difesa rende accessibili mediante procedura di richiamo i rispettivi dati che li concernono contenuti nel GDS alle persone soggette all’obbligo di prestare servizio militare, comprese le persone soggette all’obbligo di leva, al personale previsto per il promovimento della pace, ai civili assistiti dalla truppa o chiamati a partecipare a un impiego di durata limitata dell’esercito e alle persone soggette all’obbligo di prestare servizio di protezione civile.
+
+<sup>2</sup>
+
+Rende accessibili alle unità amministrative competenti della Confederazione, dei Cantoni e dei Comuni, ai comandi militari, ai comandanti della protezione civile o a terzi mediante procedura di richiamo o trasmissione elettronica i seguenti dati del GDS:
+
+- a. domande, richieste, iscrizioni, ordinazioni di materiale, informazioni e documenti a loro diretti;
+- b. dati concernenti sondaggi da loro effettuati.
+
+#### Art. 17f
+
+**Conservazione dei dati**
+
+I dati del GDS sono conservati per cinque anni al massimo a decorrere dal proscioglimento dall’obbligo di prestare servizio militare o dall’obbligo di prestare servizio di protezione civile o dalla conclusione dell’impiego, del periodo di assistenza o del ricorso a terzi.
 
 ### Sezione 2: Sistema d’informazione per il reclutamento
 
@@ -542,13 +665,17 @@ Il MEDISA contiene inoltre i seguenti dati delle persone soggette all’obbligo 
 
 **Raccolta dei dati**
 
-L’organo competente per il servizio sanitario dell’esercito raccoglie i dati per il MEDISA presso:
+L’Aggruppamento Difesa raccoglie i dati per il MEDISA:[^27-1]
 
 - a. la persona interessata o il suo rappresentante legale;
 - b. le competenti unità amministrative della Confederazione e dei Cantoni;
 - c. i comandi militari;
 - d. i medici curanti e i medici incaricati di una perizia;
-- e. le persone di referenza indicate dalla persona interessata.
+- e. le persone di referenza indicate dalla persona interessata;
+- f.[^27-2] in casi d’emergenza, presso i medici curanti e i medici incaricati di una perizia, nonché le istituzioni mediche, della sanità civile; queste persone e istituzioni sono autorizzate, in caso d’emergenza, a fornire informazioni.
+
+[^27-1]: Nuovo testo giusta l’all. n. 4 della LF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^27-2]: Introdotta dall’all. n. 4 della LF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
 
 #### Art. 28
 
@@ -568,14 +695,14 @@ L’organo competente per il servizio sanitario dell’esercito rende accessibil
 
 L’organo competente per il servizio sanitario dell’esercito comunica i dati sanitari agli organi e alle persone seguenti:
 
-- a. ai medici civili che hanno in cura la persona interessata o che in relazione a quest’ultima sono incaricati di fare una perizia, sempre che al riguardo la persona interessata abbia dato il suo consenso per scritto;
+- a.[^28-3] ai medici curanti, ai medici incaricati di una perizia e alle istituzioni mediche della sanità civile, sempre che al riguardo la persona interessata abbia dato il suo consenso per scritto o che sia dato un caso d’emergenza;
 - b. ai tribunali civili e militari, nonché alle autorità giudiziarie nell’ambito di procedure giudiziarie e amministrative, in quanto il diritto procedurale preveda per i medici un obbligo di informare;
-- c. alle autorità della Confederazione e dei Cantoni competenti per la riscossione della tassa d’esenzione, se necessario per l’esenzione dalla tassa conformemente all’articolo 4 capoverso 1 lettera b della legge federale del 12 giugno 1959[^28-3] sulla tassa d’esenzione dall’obbligo militare;
-- d.[^28-4] ...
-- e. ai medici incaricati dal CIVI, se necessario per visite mediche e misure mediche ai sensi dell’articolo 33 della legge federale del 6 ottobre 1995[^28-5] sul servizio civile;
-- f.[^28-6] all’Ufficio centrale Armi e alle autorità cantonali competenti, i motivi medici che impediscono la consegna o che giustificano il ritiro ordinario, cautelare o definitivo dell’arma personale.
+- c. alle autorità della Confederazione e dei Cantoni competenti per la riscossione della tassa d’esenzione, se necessario per l’esenzione dalla tassa conformemente all’articolo 4 capoverso 1 lettera b della legge federale del 12 giugno 1959[^28-4] sulla tassa d’esenzione dall’obbligo militare;
+- d.[^28-5] ...
+- e. ai medici incaricati dal CIVI, se necessario per visite mediche e misure mediche ai sensi dell’articolo 33 della legge federale del 6 ottobre 1995[^28-6] sul servizio civile;
+- f.[^28-7] all’Ufficio centrale Armi e alle autorità cantonali competenti, i motivi medici che impediscono la consegna o che giustificano il ritiro ordinario, cautelare o definitivo dell’arma personale.
 
-<sup>2bis</sup> I dati di cui al capoverso 2 lettera f sono comunicati alla banca dati di cui all’articolo 32*a* capoverso 1 lettera d LArm[^28-7] attraverso il PSN.[^28-8]
+<sup>2bis</sup> I dati di cui al capoverso 2 lettera f sono comunicati alla banca dati di cui all’articolo 32*a* capoverso 1 lettera d LArm[^28-8] attraverso il PSN.[^28-9]
 
 <sup>3</sup>
 
@@ -594,12 +721,13 @@ L’organo competente per il servizio sanitario dell’esercito comunica al CIVI
 
 [^28-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 [^28-2]: Introdotta dal n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^28-3]: [RS 661](https://fedlex.data.admin.ch/eli/cc/1959/2035_2097_2125)
-[^28-4]: Abrogata dal n. I della LF del 18 mar. 2016, con effetto dal 1° gen. 2017 ([RU 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^28-5]: [RS 824.0](https://fedlex.data.admin.ch/eli/cc/1996/1445_1445_1445)
-[^28-6]: Introdotta dal n. I 4 della LF del 25 set. 2015 sul miglioramento dello scambio d’informazioni tra autorità in materia di armi, in vigore dal 1° lug. 2016 ([RU 2016 1831](https://fedlex.data.admin.ch/eli/oc/2016/326); [FF 2014 277](https://fedlex.data.admin.ch/eli/fga/2014/67)).
-[^28-7]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
-[^28-8]: Introdotto dal n. I 4 della LF del 25 set. 2015 sul miglioramento dello scambio d’informazioni tra autorità in materia di armi, in vigore dal 1° lug. 2016 ([RU 2016 1831](https://fedlex.data.admin.ch/eli/oc/2016/326); [FF 2014 277](https://fedlex.data.admin.ch/eli/fga/2014/67)).
+[^28-3]: Nuovo testo giusta l’all. n. 4 della LF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^28-4]: [RS 661](https://fedlex.data.admin.ch/eli/cc/1959/2035_2097_2125)
+[^28-5]: Abrogata dal n. I della LF del 18 mar. 2016, con effetto dal 1° gen. 2017 ([RU 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^28-6]: [RS 824.0](https://fedlex.data.admin.ch/eli/cc/1996/1445_1445_1445)
+[^28-7]: Introdotta dal n. I 4 della LF del 25 set. 2015 sul miglioramento dello scambio d’informazioni tra autorità in materia di armi, in vigore dal 1° lug. 2016 ([RU 2016 1831](https://fedlex.data.admin.ch/eli/oc/2016/326); [FF 2014 277](https://fedlex.data.admin.ch/eli/fga/2014/67)).
+[^28-8]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^28-9]: Introdotto dal n. I 4 della LF del 25 set. 2015 sul miglioramento dello scambio d’informazioni tra autorità in materia di armi, in vigore dal 1° lug. 2016 ([RU 2016 1831](https://fedlex.data.admin.ch/eli/oc/2016/326); [FF 2014 277](https://fedlex.data.admin.ch/eli/fga/2014/67)).
 
 #### Art. 29
 
@@ -1192,7 +1320,7 @@ I dati del SII-SSC sono accessibili mediante procedura di richiamo agli organi e
 
 [^7883-1]: Abrogati dal n. I della LF del 18 mar. 2016, con effetto dal 1° gen. 2017 ([RU 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 
-### Sezione 3: Sistema d’informazione per l’amministrazione dei servizi****
+### Sezione 3: Sistema d’informazione per l’amministrazione dei servizi
 
 [^chap3-sec3-1]
 
@@ -1275,7 +1403,7 @@ I dati del MIL Office sono conservati per cinque anni; per i dati concernenti i 
 
 [^89-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 
-### Sezione 4: Sistema d’informazione per la gestione delle competenze****
+### Sezione 4: Sistema d’informazione per la gestione delle competenze
 
 [^chap3-sec4-1]
 
@@ -1582,7 +1710,7 @@ Gli organi e le persone competenti comunicano i dati dei sistemi d’informazion
 
 <sup>2</sup> Nel caso di militari che si allenano regolarmente sui medesimi simulatori, i dati relativi agli allenamenti possono essere conservati per cinque anni al massimo a decorrere dal termine del corrispondente allenamento.
 
-### Sezione 2: Sistema d’informazione per la gestione dell’istruzione****
+### Sezione 2: Sistema d’informazione per la gestione dell’istruzione
 
 [^chap4-sec2-1]
 
@@ -1795,7 +1923,7 @@ L’Aggruppamento Difesa comunica i dati del MIFA a:
 
 I dati del MIFA sono conservati sino al proscioglimento della persona interessata dall’obbligo di prestare servizio militare.
 
-### Sezione 5:**** Sistema d’informazione per la formazione e il perfezionamento aeronautici
+### Sezione 5: Sistema d’informazione per la formazione e il perfezionamento aeronautici
 
 [^chap4-sec5-1]
 
@@ -2133,7 +2261,7 @@ I dati del sistema ZUKO possono essere comunicati unicamente alla giustizia mili
 
 I dati del sistema ZUKO sono conservati per dieci anni a decorrere dall’ultima utilizzazione.
 
-### Sezione 5:**** Sistema di allestimento di giornali e rapporti per la Sicurezza militare
+### Sezione 5: Sistema di allestimento di giornali e rapporti per la Sicurezza militare
 
 [^chap5-sec5-1]
 
@@ -2353,7 +2481,7 @@ L’Aggruppamento Difesa rende accessibili mediante procedura di richiamo i dati
 
 I dati del SISLOG sono conservati per cinque anni al massimo.
 
-### Sezione 3:**** Sistema d’informazione per la gestione integrata delle risorse
+### Sezione 3: Sistema d’informazione per la gestione integrata delle risorse
 
 [^chap6-sec3-1]
 
@@ -2471,7 +2599,7 @@ Le unità amministrative dell’Aggruppamento Difesa comunicano i dati del PSN, 
 
 <sup>4</sup> I dati degli impiegati contenuti negli atti del personale sono conservati per una durata massima di dieci anni a decorrere dal termine del rapporto di lavoro con l’Aggruppamento Difesa. I risultati dei test della personalità e le valutazioni del potenziale sono conservati per cinque anni al massimo. Le valutazioni delle prestazioni nonché le decisioni fondate su valutazioni sono conservate per cinque anni; nel caso di una causa giudiziaria in corso, al più tardi fino alla conclusione del procedimento.
 
-### Sezione 4:**** Sistema d’informazione Amministrazione della federazione e delle società
+### Sezione 4: Sistema d’informazione Amministrazione della federazione e delle società
 
 [^chap6-sec4-1]
 
