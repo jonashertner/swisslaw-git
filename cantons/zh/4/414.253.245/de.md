@@ -3,11 +3,10 @@ canton: ZH
 number: "414.253.245"
 title: Studienordnung für den Masterstudiengang in Pflege an der Zürcher Hochschule für Angewandte Wissenschaften
 language: de
-version: "2019-02-01"
-nachtrag: "104"
-valid_until: 2023-01-01
+version: "2023-01-01"
+nachtrag: "119"
 adopted: 2010-03-25
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_245-2010_03_25-2010_06_01-104.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_245-2010_03_25-2010_06_01-119.html"
 text: pdf
 ---
 
@@ -64,7 +63,7 @@ beschliesst:
 
 **1**
 
-- 1\. 4. 19 - 104
+- 1\. 1. 23 - 119
 
 ### B. Zulassung zum Studium
 
@@ -158,7 +157,7 @@ Wer ein Modul nicht besteht, muss alle nicht bestandenen Leistungsnachweise des 
 
 **3**
 
-- 1\. 4. 19 - 104
+- 1\. 1. 23 - 119
 
 ### F. Studienabschluss und Masterdiplom
 
@@ -170,11 +169,11 @@ Das Studium gilt als bestanden, wenn a. alle im Anhang vorgeschriebenen Module b
 
 - b. 90 Credits erreicht sind.
 
-#### § 16
-
 **Titel**
 
-Der Masterstudiengang wird mit dem Titel «Master of Science ZFH in Pflege» abgeschlossen.
+§ 16.[^15-1] Der Masterstudiengang wird mit dem Titel «Master of Science ZHAW in Pflege» abgeschlossen.
+
+[^15-1]: Fassung gemäss B vom 2. Juni 2022 (OS 77, 496; ABl 2022-08-19). In Kraft seit 1. Januar 2023.
 
 #### § 17
 
@@ -200,13 +199,13 @@ Diese Studienordnung tritt nach der Genehmigung durch den Fachhochschulrat am 1.
 
 Der Anhang zur Studienordnung für den Masterstudiengang in Pflege an der Zürcher Hochschule für Angewandte Wissenschaften wird weder in die Offizielle Gesetzessammlung (OS) noch in die Zürcher Loseblattsammlung (LS) aufgenommen. Er kann bei der
 
-Zürcher Hochschule für Angewandte Wissenschaften Ressort Lehre Gertrudstrasse 15 Postfach 8400 Winterthur
+Zürcher Hochschule für Angewandte Wissenschaften Ressort Bildung Gertrudstrasse 15 Postfach 8400 Winterthur
 
 bezogen oder unter (www.zhaw.ch) eingesehen werden.
 
 **5**
 
-- 1\. 4. 19 - 104
+- 1\. 1. 23 - 119
 
 ## Weitere Fussnoten
 
