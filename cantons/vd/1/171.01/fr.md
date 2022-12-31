@@ -4,7 +4,7 @@ number: "171.01"
 title: LOI du 08.05.2007 sur le Grand Conseil (LGC)
 short: LGC
 language: fr
-version: 2021-09-01
+version: 2023-01-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/171.01?id=f2e96e40-e605-4a11-8df5-73896762e321"
 ---
 
@@ -791,9 +791,9 @@ A l'appel de son nom, chaque député lève la main droite et dit : "Je le prome
 
 **[^56-3]**
 
-<sup>1</sup> Dans le cadre de l'élaboration du budget de l'Ordre judiciaire, le Tribunal cantonal communique à la Commission des finances sa détermination sur le projet de budget. Une délégation du Tribunal cantonal a le droit d'être entendue par la Commission des finances ou peut être convoquée par cette dernière. Le représentant du Conseil d'Etat peut apporter ses propres observations.
+<sup>1</sup> Dans le cadre de l'élaboration du budget de l'Ordre judiciaire, du Ministère public et du Conseil de la magistrature, le Tribunal cantonal, le Collège des procureurs et le Conseil de la magistrature communiquent à la Commission des finances leur détermination sur le projet de budget. Une délégation du Tribunal cantonal, respectivement du Collège des procureurs et du Conseil de la magistrature, a le droit d'être entendue par la Commission des finances ou peut être convoquée par cette dernière. Le représentant du Conseil d'Etat peut apporter ses propres observations.
 
-[^56-3]: Modif. 2 du 05.05.2009: Introduction Art. 56a; entrée en vigueur au 05.05.2009 · Modif. 12 du 24.09.2013: Modification Al. 1; entrée en vigueur au 01.01.2014 · Modif. 20 du 24.05.2022: Modification Al. 1; entrée en vigueur au 01.01.2023; Introduction Art. 59a; entrée en vigueur au 01.01.2023; Introduction Art. 59b; entrée en vigueur au 01.01.2023; Introduction Art. 59c; entrée en vigueur au 01.01.2023; Introduction Art. 160a; entrée en vigueur au 01.01.2023; Introduction Art. 163, Al. 2; entrée en vigueur au 01.01.2023; Introduction Art. 167a; entrée en vigueur au 01.01.2023
+[^56-3]: Modif. 2 du 05.05.2009: Introduction Art. 56a; entrée en vigueur au 05.05.2009 · Modif. 12 du 24.09.2013: Modification Al. 1; entrée en vigueur au 01.01.2014 · Modif. 20 du 24.05.2022: Modification Al. 1; entrée en vigueur au 01.01.2023
 
 #### Art. 57
 
@@ -813,25 +813,25 @@ A l'appel de son nom, chaque député lève la main droite et dit : "Je le prome
 
 [^58-1]: Modif. 6 du 08.03.2011: Introduction ; entrée en vigueur au 01.06.2011 · Modif. 20 du 24.05.2022: Abrogation ; entrée en vigueur au 01.01.2023
 
-### Section IIbis Commission de haute surveillance
+### Section IIbis ...
 
 [^58-1]
 
 #### Art. 58a
 
-**Commission de haute surveillance [^sectionSectionIIbis-1]**
+**... [^sectionSectionIIbis-1]**
 
-<sup>1</sup> La Commission de haute surveillance est chargée d'exercer pour le Grand Conseil la haute surveillance sur le Tribunal cantonal.
+<sup>1</sup> ...
 
-<sup>2</sup> La commission est composée de 7 membres, sans suppléants.
+<sup>2</sup> ...
 
-<sup>3</sup> Pour le surplus, les articles 46 et 47 de la présente loi sont applicables à la composition, à l'élection et au fonctionnement de la Commission de haute surveillance.
+<sup>3</sup> ...
 
-<sup>4</sup> Pour le surplus, les tâches et moyens de la Commission de haute surveillance sont définis par une loi spéciale.
+<sup>4</sup> ...
 
-<sup>5</sup> Un député ne peut siéger à la fois dans la Commission de présentation et dans la Commission de haute surveillance.
+<sup>5</sup> ...
 
-[^sectionSectionIIbis-1]: Modif. 6 du 08.03.2011: Introduction Art. 58a; entrée en vigueur au 01.06.2011 · Modif. 20 du 24.05.2022: Abrogation tArt; entrée en vigueur au 01.01.2023; Abrogation Al. 1-5; entrée en vigueur au 01.01.2023; Introduction Art. 59a; entrée en vigueur au 01.01.2023; Introduction Art. 59b; entrée en vigueur au 01.01.2023; Introduction Art. 59c; entrée en vigueur au 01.01.2023; Introduction Art. 160a; entrée en vigueur au 01.01.2023; Introduction Art. 163, Al. 2; entrée en vigueur au 01.01.2023; Introduction Art. 167a; entrée en vigueur au 01.01.2023
+[^sectionSectionIIbis-1]: Modif. 6 du 08.03.2011: Introduction Art. 58a; entrée en vigueur au 01.06.2011 · Modif. 20 du 24.05.2022: Abrogation tArt; entrée en vigueur au 01.01.2023; Abrogation Al. 1-5; entrée en vigueur au 01.01.2023
 
 ### Section III Commissions thématiques
 
@@ -852,6 +852,42 @@ A l'appel de son nom, chaque député lève la main droite et dit : "Je le prome
 [^sectionSectionIII-1]: Modif. 9 du 29.05.2012: Modification Al. 2; entrée en vigueur au 01.07.2012
 [^59-1]: Décret du 29.05.2012 arrêtant la liste des commissions thématiques pour la législature 2012-2017 ([BLV 171.013](https://prestations.vd.ch/pub/blv-publication/actes/consolide/171.013?id=4e087f74-f568-4015-90ce-85a1706ccaba))
 [^59-2]: Règlement du 29.05.2007 d'application de la loi du 08.05.2007 sur le Grand Conseil ([BLV 171.01.1](https://prestations.vd.ch/pub/blv-publication/actes/consolide/171.01.1?id=805e770e-0b33-469d-b738-1fb544dc07bd))
+[^59-3]: Modif. 20 du 24.05.2022: Introduction ; entrée en vigueur au 01.01.2023
+
+### Section IIIbis Commission thématiques des affaires juridiques
+
+[^59-3]
+
+#### Art. 59a
+
+**Attributions [^sectionSectionIIIbis-1]**
+
+<sup>1</sup> La Commission thématiques des affaires juridiques est chargée :
+
+- a. de préaviser les objets parlementaires, projets de lois et de décrets en lien avec le pouvoir judiciaire ;
+- b. d'exercer pour le Grand Conseil la haute surveillance sur le Tribunal cantonal et le Ministère public, d'une part, et sur le Conseil de la magistrature, d'autre part, conformément à la loi sur le Conseil de la magistrature ;
+- c. de traiter toutes les pétitions relatives aux autorités judiciaires qui lui sont transmises par la Commission des pétitions ;
+- d. de préaviser sur tous les objets qui lui sont attribués par le Bureau.
+
+[^sectionSectionIIIbis-1]: Modif. 20 du 24.05.2022: Introduction tArt; entrée en vigueur au 01.01.2023; Introduction Al. 1; entrée en vigueur au 01.01.2023; Introduction Art. 59a; entrée en vigueur au 01.01.2023
+
+#### Art. 59b
+
+**Incompatibilité [^59a-1]**
+
+<sup>1</sup> Un député ne peut siéger à la fois dans la Commission de présentation et dans la Commission thématiques des affaires juridiques.
+
+[^59a-1]: Modif. 20 du 24.05.2022: Introduction tArt; entrée en vigueur au 01.01.2023; Introduction Al. 1; entrée en vigueur au 01.01.2023; Introduction Art. 59b; entrée en vigueur au 01.01.2023
+
+#### Art. 59c
+
+**Pétitions [^59b-1]**
+
+<sup>1</sup> La commission propose au Grand Conseil de classer sans suite les pétitions violant l'indépendance des jugements.
+
+<sup>2</sup> L'article 107 de la loi sur le Grand Conseil est applicable pour le surplus.
+
+[^59b-1]: Modif. 20 du 24.05.2022: Introduction Art. 59c; entrée en vigueur au 01.01.2023
 
 ### Section IV Commission thématique en charge des affaires extérieures
 
@@ -1923,13 +1959,13 @@ A l'appel de son nom, chaque député lève la main droite et dit : "Je le prome
 
 **Huis clos [^142-1]**
 
-<sup>1</sup> L'assemblée peut, sur proposition du président, d'un député ou du Conseil d'Etat, décider le huis clos pour la délibération d'une affaire, si la protection d'intérêts majeurs de l'Etat ou des motifs inhérents à la protection de la personnalité l'exigent. Pour les élections des membres de la Commission de présentation, des juges et juges suppléants du Tribunal cantonal, du procureur général et des membres de la Cour des comptes, il y a, d'office, huis clos.
+<sup>1</sup> L'assemblée peut, sur proposition du président, d'un député ou du Conseil d'Etat, décider le huis clos pour la délibération d'une affaire, si la protection d'intérêts majeurs de l'Etat ou des motifs inhérents à la protection de la personnalité l'exigent. Pour les élections des membres de la Commission de présentation, des juges et juges suppléants du Tribunal cantonal, du Procureur général, des Procureurs généraux adjoints et des membres de la Cour des comptes, ainsi que ceux du Conseil de la magistrature, il y a d'office huis clos.
 
 <sup>2</sup> Dans cette éventualité, toute personne qui n'occupe pas une fonction officielle dans la salle doit se retirer. Les places réservées au public et aux médias sont évacuées.
 
 <sup>3</sup> Les personnes présentes sont tenues au secret des délibérations ; aucune prise de vue ou de son n'est autorisée.
 
-[^142-1]: Modif. 3 du 19.05.2009: Modification Al. 1; entrée en vigueur au 01.01.2011 · Modif. 20 du 24.05.2022: Introduction Art. 59a; entrée en vigueur au 01.01.2023; Introduction Art. 59b; entrée en vigueur au 01.01.2023; Introduction Art. 59c; entrée en vigueur au 01.01.2023; Modification Al. 1; entrée en vigueur au 01.01.2023; Introduction Art. 160a; entrée en vigueur au 01.01.2023; Introduction Art. 163, Al. 2; entrée en vigueur au 01.01.2023; Introduction Art. 167a; entrée en vigueur au 01.01.2023
+[^142-1]: Modif. 3 du 19.05.2009: Modification Al. 1; entrée en vigueur au 01.01.2011 · Modif. 20 du 24.05.2022: Modification Al. 1; entrée en vigueur au 01.01.2023
 
 #### Art. 144
 
@@ -2027,9 +2063,9 @@ A l'appel de son nom, chaque député lève la main droite et dit : "Je le prome
 
 **Juges cantonaux [^sectionSectionI-2]**
 
-<sup>1</sup> Au début de la législature, le Grand Conseil élit pour cinq ans les juges et les juges suppléants au Tribunal cantonal, sur préavis de la Commission de présentation.
+<sup>1</sup> Au 1er janvier de la troisième année suivant celle du renouvellement du Grand Conseil, ce dernier élit pour cinq ans les juges et les juges suppléants au Tribunal cantonal, sur préavis du Conseil de la magistrature et de la Commission de présentation.
 
-<sup>2</sup> Le préavis de la Commission de présentation est également requis en cas de réélection d'un juge ou d'un juge suppléant au Tribunal cantonal.
+<sup>2</sup> Le préavis du Conseil de la magistrature est également requis en cas de réélection d'un juge ou d'un juge suppléant au Tribunal cantonal. Dans ce cas, la Commission de présentation n'émet un préavis que si le Conseil de la magistrature propose de ne pas réélire un juge ou un juge suppléant.
 
 <sup>3</sup> L'élection se déroule au scrutin de liste et séparément pour les juges et les juges suppléants.
 
@@ -2037,15 +2073,15 @@ A l'appel de son nom, chaque député lève la main droite et dit : "Je le prome
 
 <sup>5</sup> Il n'y a qu'un seul tour de scrutin. Le candidat qui a recueilli plus de la moitié des suffrages valables est élu. Celui qui n'a pas recueilli cette majorité peut être candidat à l'élection complémentaire subséquente.
 
-[^sectionSectionI-2]: Modif. 20 du 24.05.2022: Introduction Art. 59a; entrée en vigueur au 01.01.2023; Introduction Art. 59b; entrée en vigueur au 01.01.2023; Introduction Art. 59c; entrée en vigueur au 01.01.2023; Modification Al. 1-2; entrée en vigueur au 01.01.2023; Introduction Art. 160a; entrée en vigueur au 01.01.2023; Introduction Art. 163, Al. 2; entrée en vigueur au 01.01.2023; Introduction Art. 167a; entrée en vigueur au 01.01.2023
+[^sectionSectionI-2]: Modif. 20 du 24.05.2022: Modification Al. 1-2; entrée en vigueur au 01.01.2023
 
 #### Art. 155
 
 **Election complémentaire [^154-1]**
 
-<sup>1</sup> Lorsque le siège d'un juge devient vacant et n'est pas repourvu à l'interne (art. 68, al. 1ter LOJV), le Grand Conseil procède à une élection complémentaire sur préavis de la Commission de présentation.
+<sup>1</sup> Lorsque le siège d'un juge devient vacant et n'est pas repourvu à l'interne (art. 68, al. 1ter LOJV), le Grand Conseil procède à une élection complémentaire sur préavis du Conseil de la magistrature et de la Commission de présentation.
 
-<sup>1bis</sup> Lorsque le siège d'un juge suppléant devient vacant, la Commission de présentation examine, après consultation du Tribunal cantonal, s'il doit être repourvu. Si tel est le cas, elle soumet un préavis au Grand Conseil en vue d'une élection complémentaire. Dans le cas contraire, elle renonce à repourvoir le poste et en informe le Grand Conseil.
+<sup>1bis</sup> Lorsque le siège d'un juge suppléant devient vacant, le Conseil de la magistrature examine, après consultation du Tribunal cantonal, s'il doit être repourvu. Si tel est le cas, il soumet un préavis au Grand Conseil en vue d'une élection complémentaire et le transmet à la Commission de présentation, conformément à la loi sur le Conseil de la magistrature. Dans le cas contraire, il renonce à repourvoir le poste et en informe le Grand Conseil.
 
 <sup>2</sup> Lorsque l'élection complémentaire ne porte que sur un seul siège, l'élection a lieu au scrutin individuel, dans les autres cas au scrutin de liste.
 
@@ -2063,7 +2099,7 @@ A l'appel de son nom, chaque député lève la main droite et dit : "Je le prome
 
 <sup>6</sup> Exceptionnellement, lorsqu'il n'y a pas de compétition et en cas d'assentiment unanime de l'assemblée, l'élection peut avoir lieu à mains levées.
 
-[^154-1]: Modif. 7 du 05.04.2011: Modification Al. 2; entrée en vigueur au 01.07.2011; Introduction Al. 2bis-2quater; entrée en vigueur au 01.07.2011 · Modif. 15 du 17.01.2017: Modification Al. 1; entrée en vigueur au 01.05.2017; Introduction Al. 1bis; entrée en vigueur au 01.05.2017 · Modif. 20 du 24.05.2022: Introduction Art. 59a; entrée en vigueur au 01.01.2023; Introduction Art. 59b; entrée en vigueur au 01.01.2023; Introduction Art. 59c; entrée en vigueur au 01.01.2023; Modification Al. 1,1bis; entrée en vigueur au 01.01.2023; Introduction Art. 160a; entrée en vigueur au 01.01.2023; Introduction Art. 163, Al. 2; entrée en vigueur au 01.01.2023; Introduction Art. 167a; entrée en vigueur au 01.01.2023
+[^154-1]: Modif. 7 du 05.04.2011: Modification Al. 2; entrée en vigueur au 01.07.2011; Introduction Al. 2bis-2quater; entrée en vigueur au 01.07.2011 · Modif. 15 du 17.01.2017: Modification Al. 1; entrée en vigueur au 01.05.2017; Introduction Al. 1bis; entrée en vigueur au 01.05.2017 · Modif. 20 du 24.05.2022: Modification Al. 1,1bis; entrée en vigueur au 01.01.2023
 
 #### Art. 156
 
@@ -2075,25 +2111,24 @@ A l'appel de son nom, chaque député lève la main droite et dit : "Je le prome
 
 <sup>3</sup> Les candidats sont tenus de s'inscrire eux-mêmes ; ils déposent leur curriculum vitae, un extrait du casier judiciaire ainsi qu'un extrait des poursuites et actes de défauts de biens.
 
-<sup>4</sup> Les dossiers sont remis à la Commission de présentation, puis tenus à disposition des députés.
+<sup>4</sup> Les dossiers sont remis au Conseil de la magistrature, puis transmis avec son préavis à la Commission de présentation, qui les tient à disposition des députés.
 
-[^155-1]: Modif. 7 du 05.04.2011: Modification Al. 2-3; entrée en vigueur au 01.07.2011 · Modif. 20 du 24.05.2022: Introduction Art. 59a; entrée en vigueur au 01.01.2023; Introduction Art. 59b; entrée en vigueur au 01.01.2023; Introduction Art. 59c; entrée en vigueur au 01.01.2023; Modification Al. 4; entrée en vigueur au 01.01.2023; Introduction Art. 160a; entrée en vigueur au 01.01.2023; Introduction Art. 163, Al. 2; entrée en vigueur au 01.01.2023; Introduction Art. 167a; entrée en vigueur au 01.01.2023
+[^155-1]: Modif. 7 du 05.04.2011: Modification Al. 2-3; entrée en vigueur au 01.07.2011 · Modif. 20 du 24.05.2022: Modification Al. 4; entrée en vigueur au 01.01.2023
 [^156-1]: Modif. 3 du 19.05.2009: Introduction ; entrée en vigueur au 01.01.2011 · Modif. 20 du 24.05.2022: Modification ; entrée en vigueur au 01.01.2023
 
-### Section Ibis Election du procureur général
+### Section Ibis Election du Procureur général et des Procureurs généraux adjoints
 
 [^156-1]
 
 #### Art. 156a
 
-**Procureur général [^sectionSectionIbis-1]**
+**Procureur général et Procureurs généraux adjoints [^sectionSectionIbis-1]**
 
-<sup>1</sup> L'élection du procureur général est régie par l'article 7 de la loi sur le Ministère public [^156a-1] .
+<sup>1</sup> L'élection du Procureur général et des Procureurs généraux adjoints est régie par l'article 7 de la loi sur le Ministère public.
 
-<sup>2</sup> Les articles 155 et 156 de la présente loi sont applicables par analogie à l'élection du procureur général.
+<sup>2</sup> Les articles de la présente loi relatifs à l'élection des juges cantonaux sont applicables par analogie à l'élection du Procureur général et des Procureurs généraux adjoints.
 
-[^sectionSectionIbis-1]: Modif. 3 du 19.05.2009: Introduction Art. 156a; entrée en vigueur au 01.01.2011 · Modif. 20 du 24.05.2022: Introduction Art. 59a; entrée en vigueur au 01.01.2023; Introduction Art. 59b; entrée en vigueur au 01.01.2023; Introduction Art. 59c; entrée en vigueur au 01.01.2023; Modification tArt; entrée en vigueur au 01.01.2023; Modification Al. 1-2; entrée en vigueur au 01.01.2023; Introduction Art. 160a; entrée en vigueur au 01.01.2023; Introduction Art. 163, Al. 2; entrée en vigueur au 01.01.2023; Introduction Art. 167a; entrée en vigueur au 01.01.2023
-[^156a-1]: Loi du 19.05.2009 sur le Ministère public ( [BLV 173.21](https://prestations.vd.ch/pub/blv-publication/actes/consolide/173.21?id=59558d17-e7c0-4013-ada9-cbbc5a28b5f5))
+[^sectionSectionIbis-1]: Modif. 3 du 19.05.2009: Introduction Art. 156a; entrée en vigueur au 01.01.2011 · Modif. 20 du 24.05.2022: Modification tArt; entrée en vigueur au 01.01.2023; Modification Al. 1-2; entrée en vigueur au 01.01.2023
 
 ### Section II Election des membres de la Cour des comptes
 
@@ -2144,39 +2179,46 @@ A l'appel de son nom, chaque député lève la main droite et dit : "Je le prome
 
 **Nomination [^sectionSectionIII-3]**
 
-<sup>1</sup> La Commission de présentation est composée de neuf députés et quatre experts indépendants. Les experts ne sont pas les mêmes selon qu'il s'agisse d'une part de l'élection des juges cantonaux et du procureur général et d'autre part de l'élection des membres de la Cour des comptes.
+<sup>1</sup> La Commission de présentation est composée de neuf députés, auxquels s'ajoutent quatre experts indépendants pour l'élection à la Cour des comptes.
 
 <sup>2</sup> Chaque groupe politique doit y être représenté. L'article 32a, alinéa 3 est réservé.
 
 <sup>3</sup> Elle est désignée par le Grand Conseil au début de la législature. La désignation des membres de la Commission de présentation se fait au scrutin de liste, à la majorité absolue au premier tour et relative au second.
 
-<sup>4</sup> Le Grand Conseil désigne deux catégories d'experts indépendants avec voix consultative :
+<sup>4</sup> Le Grand Conseil désigne les quatre experts indépendants avec voix consultative prévus à l'alinéa 1er.
 
-- a. quatre experts chargés de préaviser l'élection des juges et les juges suppléants du Tribunal cantonal et du procureur général ;
-- b. quatre experts chargés de préaviser l'élection des membres de la Cour des comptes.
+- a. ...
+- b. ...
 
-<sup>5</sup> Le choix des experts indépendants repose sur leurs qualifications, qui doivent être propres à assurer que les juges et juges suppléants du Tribunal cantonal et le procureur général d'une part, et les membres de la Cour des comptes, d'autre part, remplissent les conditions posées par la loi.
+<sup>5</sup> Le choix des experts indépendants repose sur leurs qualifications, qui doivent être propres à assurer que les membres de la Cour des comptes remplissent les conditions posées par la loi.
 
-[^sectionSectionIII-3]: Modif. 3 du 19.05.2009: Modification Al. 1,4,5; entrée en vigueur au 01.01.2011 · Modif. 13 du 24.03.2015: Modification Al. 2; entrée en vigueur au 01.07.2017 · Modif. 20 du 24.05.2022: Introduction Art. 59a; entrée en vigueur au 01.01.2023; Introduction Art. 59b; entrée en vigueur au 01.01.2023; Introduction Art. 59c; entrée en vigueur au 01.01.2023; Modification Al. 1,4; entrée en vigueur au 01.01.2023; Abrogation Al. 4, a-b; entrée en vigueur au 01.01.2023; Modification Al. 5; entrée en vigueur au 01.01.2023; Introduction Art. 160a; entrée en vigueur au 01.01.2023; Introduction Art. 163, Al. 2; entrée en vigueur au 01.01.2023; Introduction Art. 167a; entrée en vigueur au 01.01.2023
+[^sectionSectionIII-3]: Modif. 3 du 19.05.2009: Modification Al. 1,4,5; entrée en vigueur au 01.01.2011 · Modif. 13 du 24.03.2015: Modification Al. 2; entrée en vigueur au 01.07.2017 · Modif. 20 du 24.05.2022: Modification Al. 1,4; entrée en vigueur au 01.01.2023; Abrogation Al. 4, a-b; entrée en vigueur au 01.01.2023; Modification Al. 5; entrée en vigueur au 01.01.2023
+
+#### Art. 160a
+
+**Candidats au Conseil de la magistrature [^160-1]**
+
+<sup>1</sup> La Commission de présentation propose au Grand Conseil les candidats prévus par la loi sur le Conseil de la magistrature pour être élus au sein de cette institution.
+
+[^160-1]: Modif. 20 du 24.05.2022: Introduction Art. 160a; entrée en vigueur au 01.01.2023
 
 #### Art. 161
 
-**Audition des candidats [^160-1]**
+**Audition des candidats [^160a-1]**
 
 *a) à une élection*
 
-<sup>1</sup> La Commission de présentation peut convoquer les candidats ou requérir des compléments d'informations, aux fins de vérifier si les conditions posées par la présente loi ou la loi sur la Cour des comptes [^161-1] sont remplies.
+<sup>1</sup> La Commission de présentation peut convoquer les candidats ou requérir des compléments d'informations, aux fins de vérifier si les conditions posées par la présente loi, la loi sur le Conseil de la magistrature ou la loi sur la Cour des comptes sont remplies.
 
-[^160-1]: Modif. 20 du 24.05.2022: Introduction Art. 59a; entrée en vigueur au 01.01.2023; Introduction Art. 59b; entrée en vigueur au 01.01.2023; Introduction Art. 59c; entrée en vigueur au 01.01.2023; Introduction Art. 160a; entrée en vigueur au 01.01.2023; Modification Al. 1; entrée en vigueur au 01.01.2023; Introduction Art. 163, Al. 2; entrée en vigueur au 01.01.2023; Introduction Art. 167a; entrée en vigueur au 01.01.2023
-[^161-1]: Loi du 12.03.2013 sur la Cour des comptes ([BLV 614.05](https://prestations.vd.ch/pub/blv-publication/actes/consolide/614.05?id=7edc09c1-d0c8-42c9-bd55-b891b29a58af))
+[^160a-1]: Modif. 20 du 24.05.2022: Modification Al. 1; entrée en vigueur au 01.01.2023
 
 #### Art. 162
 
-**b) à une réélection [^161-2]**
+**b) à une réélection [^161-1]**
 
-<sup>1</sup> Au cas où la Commission de présentation envisagerait de donner un préavis négatif à une réélection, elle entend le candidat concerné.
+<sup>1</sup> Au cas où le Conseil de la magistrature donnerait un préavis négatif à une réélection, la Commission de présentation entend le candidat concerné.
 
-[^161-2]: Modif. 20 du 24.05.2022: Introduction Art. 59a; entrée en vigueur au 01.01.2023; Introduction Art. 59b; entrée en vigueur au 01.01.2023; Introduction Art. 59c; entrée en vigueur au 01.01.2023; Introduction Art. 160a; entrée en vigueur au 01.01.2023; Modification Al. 1; entrée en vigueur au 01.01.2023; Introduction Art. 163, Al. 2; entrée en vigueur au 01.01.2023; Introduction Art. 167a; entrée en vigueur au 01.01.2023
+[^161-1]: Modif. 20 du 24.05.2022: Modification Al. 1; entrée en vigueur au 01.01.2023
 
 #### Art. 163
 
@@ -2184,7 +2226,9 @@ A l'appel de son nom, chaque député lève la main droite et dit : "Je le prome
 
 <sup>1</sup> La Commission de présentation remet son préavis motivé au Grand Conseil, par l'intermédiaire de son Bureau, une semaine au plus tard avant la date de l'élection.
 
-[^162-1]: Modif. 20 du 24.05.2022: Introduction Art. 59a; entrée en vigueur au 01.01.2023; Introduction Art. 59b; entrée en vigueur au 01.01.2023; Introduction Art. 59c; entrée en vigueur au 01.01.2023; Introduction Art. 160a; entrée en vigueur au 01.01.2023; Introduction Al. 2; entrée en vigueur au 01.01.2023; Introduction Art. 167a; entrée en vigueur au 01.01.2023
+<sup>2</sup> Pour l'élection des juges et juges suppléants du Tribunal cantonal, ainsi que du Procureur général et des procureurs généraux adjoints, elle joint à son préavis celui élaboré par le Conseil de la magistrature.
+
+[^162-1]: Modif. 20 du 24.05.2022: Introduction Al. 2; entrée en vigueur au 01.01.2023
 
 #### Art. 164
 
@@ -2213,6 +2257,14 @@ A l'appel de son nom, chaque député lève la main droite et dit : "Je le prome
 #### Art. 167
 
 <sup>1</sup> La loi du 3 février 1998 sur le Grand Conseil est abrogée.
+
+#### Art. 167a
+
+**Disposition transitoire de la loi du 24 mai 2022 [^167-1]**
+
+<sup>1</sup> L'article 160a est applicable à la 1re élection du Conseil de la magistrature, conformément aux articles 58 et 59 de la loi sur le Conseil de la magistrature.
+
+[^167-1]: Modif. 20 du 24.05.2022: Introduction tArt; entrée en vigueur au 01.01.2023; Introduction Al. 1; entrée en vigueur au 01.01.2023; Introduction Art. 167a; entrée en vigueur au 01.01.2023
 
 #### Art. 168
 
