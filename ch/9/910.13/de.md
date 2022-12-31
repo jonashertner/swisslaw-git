@@ -4,11 +4,11 @@ title: "Verordnung vom 23. Oktober 2013 über die Direktzahlungen an die Landwir
 short: DZV
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/765"
 language: de
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2013-10-23
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/765/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2013-765-20220101-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/765/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/765/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2013-765-20230101-de-xml-15.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/765/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/765/20220101/de"
 
 (Direktzahlungsverordnung, DZV)
 
-vom 23. Oktober 2013 (Stand am 1. Januar 2022) (Stand am 1. Januar 2022)
+vom 23. Oktober 2013 (Stand am 1. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -25,7 +25,7 @@ gestützt auf die Artikel 70 Absatz 3, 70*a* Absätze 3–5, 70*b* Absatz 3, 71 
 
 verordnet:
 
-[^ingress-1]: [SR 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
+[^ingress-1]: [SR 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
 
 ## 1. Titel: Allgemeine Bestimmungen
 
@@ -72,34 +72,39 @@ Die Direktzahlungen umfassen folgende Direktzahlungsarten:
   - 2\. Vernetzungsbeitrag;
 
 - d. Landschaftsqualitätsbeitrag;
-- e.
+- e.[^2-1]
 
   Produktionssystembeiträge:
 
-  - 1\. Beitrag für biologische Landwirtschaft,
-  - 2\.[^2-1] Beitrag für extensive Produktion von Getreide, Sonnenblumen, Eiweisserbsen, Ackerbohnen, Lupinen und Raps,
-  - 3\. Beitrag für graslandbasierte Milch- und Fleischproduktion,
-  - 4\. Tierwohlbeiträge;
+  - 1\. Beitrag für die biologische Landwirtschaft,
+  - 2\. Beiträge für den Verzicht auf Pflanzenschutzmittel,
+  - 3\. Beitrag für die funktionale Biodiversität,
+  - 4\. Beiträge für die Verbesserung der Bodenfruchtbarkeit,
+  - 5\. Beitrag für den effizienten Stickstoffeinsatz im Ackerbau,
+  - 6\. Beitrag für graslandbasierte Milch- und Fleischproduktion,
+  - 7\. Tierwohlbeiträge,
+  - 8\.[^2-2] …
 
 - f.
 
   Ressourceneffizienzbeiträge:
 
-  - 1\. Beitrag für emissionsmindernde Ausbringverfahren,
-  - 2\. Beitrag für schonende Bodenbearbeitung,
+  - 1\. und 2.[^2-3] …
   - 3\. Beitrag für den Einsatz von präziser Applikationstechnik,
-  - 4\.[^2-2] Beitrag für die Ausrüstung von Spritzen mit einem Spülsystem mit separatem Spülwasserkreislauf zur Reinigung von Geräten für das Ausbringen von Pflanzenschutzmitteln,
-  - 5\.[^2-3] Beitrag für die stickstoffreduzierte Phasenfütterung von Schweinen,
-  - 6\.[^2-4] Beitrag für die Reduktion von Pflanzenschutzmitteln im Obstbau, im Rebbau und im Zuckerrübenanbau,
-  - 7\.[^2-5] Beitrag für die Reduktion von Herbiziden auf der offenen Ackerfläche;
+  - 4\.[^2-4] …
+  - 5\.[^2-5] Beitrag für die stickstoffreduzierte Phasenfütterung von Schweinen,
+  - 6\.[^2-6] …
+  - 7\.[^2-7] …
 
 - g. Übergangsbeitrag.
 
-[^2-1]: Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)).
-[^2-2]: Eingefügt durch Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)).
-[^2-3]: Eingefügt durch Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)).
-[^2-4]: Eingefügt durch Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)).
-[^2-5]: Eingefügt durch Ziff. I der V vom 31. Okt. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)).
+[^2-1]: Fassung gemäss Ziff. I der V vom 13. April 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
+[^2-2]: Tritt am 1. Jan. 2024 in Kraft ([AS 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
+[^2-3]: Aufgehoben durch Ziff. I der V vom 13. April 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
+[^2-4]: Eingefügt durch Ziff. I der V vom 18. Okt. 2017 ([AS 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)). Aufgehoben durch Ziff. I der V vom 13. April 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
+[^2-5]: Eingefügt durch Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)).
+[^2-6]: Eingefügt durch Ziff. I der V vom 18. Okt. 2017 ([AS 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)). Aufgehoben durch Ziff. I der V vom 13. April 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
+[^2-7]: Eingefügt durch Ziff. I der V vom 31. Okt. 2018 ([AS 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)). Aufgehoben durch Ziff. I der V vom 13. April 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
 
 ### 2. Kapitel: Voraussetzungen
 
@@ -164,8 +169,8 @@ Der beruflichen Grundbildung nach Absatz 1 Buchstabe a gleichgestellt ist eine a
 
 <sup>6</sup> Ein Mitglied der Erbengemeinschaft muss den zivilrechtlichen Wohnsitz in der Schweiz haben und darf am 1. Januar des Beitragsjahres das 65. Altersjahr noch nicht vollendet haben. Die Erbengemeinschaft muss diese Person der verantwortlichen Behörde nach Artikel 98 Absatz 2 melden.[^4-4]
 
-[^4-1]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^4-2]: [SR 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
+[^4-1]: [SR 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^4-2]: [SR 910.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10428)
 [^4-3]: Fassung gemäss Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)).
 [^4-4]: Eingefügt durch Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)).
 
@@ -193,15 +198,13 @@ Direktzahlungen werden nur ausgerichtet, wenn auf dem Betrieb ein Arbeitsbedarf 
 
 Direktzahlungen werden nur ausgerichtet, wenn der Tierbestand auf dem Betrieb die Grenzen der Höchstbestandesverordnung vom 23. Oktober 2013[^7-1] nicht überschreitet.
 
-[^7-1]: [SR 916.344](https://fedlex.data.admin.ch/eli/cc/2013/727)
+[^7-1]: [SR 916.344](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10718)
 
 #### Art. 8
 
-**Begrenzung der Direktzahlungen pro SAK**
+[^8-1]
 
-<sup>1</sup> Pro SAK werden höchstens 70 000 Franken an Direktzahlungen ausgerichtet.
-
-<sup>2</sup> Der Vernetzungsbeitrag, der Landschaftsqualitätsbeitrag, die Ressourceneffizienzbeiträge und der Übergangsbeitrag werden unabhängig von der Begrenzung nach Absatz 1 ausgerichtet.
+[^8-1]: Aufgehoben durch Ziff. I der V vom 13. April 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
 
 #### Art. 9
 
@@ -250,7 +253,7 @@ Die für die landwirtschaftliche Produktion massgebenden Vorschriften der Tiersc
 
 <sup>3</sup> Zur Optimierung der Düngerverteilung auf die einzelnen Parzellen müssen auf allen Parzellen mindestens alle zehn Jahre Bodenuntersuchungen nach Anhang 1 Ziffer 2.2 durchgeführt werden.
 
-[^13-1]: [SR 814.318.142.1](https://fedlex.data.admin.ch/eli/cc/1986/208_208_208)
+[^13-1]: [SR 814.318.142.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9521)
 [^13-2]: Eingefügt durch Ziff. II der V vom 12. Febr. 2020, in Kraft seit 1. Jan. 2022 ([AS 2020 793](https://fedlex.data.admin.ch/eli/oc/2020/146)).
 
 #### Art. 14
@@ -261,18 +264,18 @@ Die für die landwirtschaftliche Produktion massgebenden Vorschriften der Tiersc
 
 <sup>2</sup>
 
-Als Biodiversitätsförderflächen anrechenbar sind Flächen nach Artikel 55 Absatz 1 Buchstaben a–k, n, p und q und nach Anhang 1 Ziffer 3 sowie Bäume nach Artikel 55 Absatz 1<sup>bis</sup>, wenn diese Flächen und Bäume:[^14-1]
+Als Biodiversitätsförderflächen anrechenbar sind Flächen nach den Artikeln 55 Absatz 1 Buchstaben a–k, n und p sowie 71*b* und nach Anhang 1 Ziffer 3 sowie Bäume nach Artikel 55 Absatz 1<sup>bis</sup>*,* wenn diese Flächen und Bäume:[^14-1]
 
 - a. sich auf der Betriebsfläche und in einer Fahrdistanz von höchstens 15 km zum Betriebszentrum oder zu einer Produktionsstätte befinden; und
 - b. im Eigentum oder auf dem Pachtland des Bewirtschafters oder der Bewirtschafterin sind.
 
 <sup>3</sup> Pro Baum nach Absatz 2 wird eine Are angerechnet. Pro Bewirtschaftungsparzelle können höchstens 100 Bäume pro Hektare angerechnet werden. Höchstens die Hälfte des erforderlichen Anteils an Biodiversitätsförderflächen darf durch die Anrechnung von Bäumen erfüllt werden.[^14-2]
 
-<sup>4</sup> Höchstens die Hälfte des erforderlichen Anteils an Biodiversitätsförderflächen darf durch die Anrechnung von einjährigen Blühstreifen für Bestäuber und andere Nützlinge (Art. 55 Abs. 1 Bst. q) erfüllt werden.[^14-3]
+<sup>4</sup> Bei Nützlingsstreifen in Dauerkulturen nach Artikel 71*b* Absatz 1 Buchstabe b sind 5 Prozent der Fläche der Dauerkultur anrechenbar.[^14-3]
 
-[^14-1]: Fassung gemäss Ziff. I der V vom 16. Sept. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)).
+[^14-1]: Fassung gemäss Ziff. I der V vom 13. April 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
 [^14-2]: Fassung gemäss Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)).
-[^14-3]: Eingefügt durch Ziff. I der V vom 29. Okt. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)).
+[^14-3]: Eingefügt durch Ziff. I der V vom 29. Okt. 2014 ([AS 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)). Fassung gemäss Ziff. I der V vom 13. April 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
 
 #### Art. 15
 
@@ -288,7 +291,7 @@ Verbindlich ausgeschieden sind Flächen, wenn:
 - b. eine rechtskräftige Verfügung vorliegt; oder
 - c. die Fläche in einem rechtskräftigen Nutzungsplan ausgeschieden ist.
 
-[^15-1]: [SR 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+[^15-1]: [SR 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
 
 #### Art. 16
 
@@ -302,7 +305,7 @@ Verbindlich ausgeschieden sind Flächen, wenn:
 
 <sup>4</sup> Für Betriebe, die nach den Anforderungen der Bio-Verordnung vom 22. September 1997[^16-1] bewirtschaftet werden, gelten für den Nachweis einer geregelten Fruchtfolge die Anforderungen der nationalen Fachorganisation nach Artikel 20 Absatz 2.
 
-[^16-1]: [SR 910.18](https://fedlex.data.admin.ch/eli/cc/1997/2498_2498_2498)
+[^16-1]: [SR 910.18](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10418)
 
 #### Art. 17
 
@@ -318,23 +321,36 @@ Verbindlich ausgeschieden sind Flächen, wenn:
 
 [^17-1]: Fassung gemäss Ziff. I der V vom 16. Sept. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)).
 [^17-2]: Aufgehoben durch Ziff. I der V vom 16. Sept. 2016, mit Wirkung seit 1. Jan. 2017 ([AS 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)).
-[^17-3]: [SR 910.18](https://fedlex.data.admin.ch/eli/cc/1997/2498_2498_2498)
+[^17-3]: [SR 910.18](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10418)
 
 #### Art. 18
 
-**Gezielte Auswahl und Anwendung der Pflanzenschutzmittel**
+**Gezielte Auswahl und Anwendung der Pflanzenschutzmittel**[^18-1]
 
 <sup>1</sup> Beim Schutz der Kulturen vor Schädlingen, Krankheiten und Verunkrautung sind primär präventive Massnahmen, natürliche Regulationsmechanismen sowie biologische und mechanische Verfahren anzuwenden.
 
-<sup>2</sup> Bei der Anwendung von Pflanzenschutzmitteln müssen die Schadschwellen sowie die Empfehlungen von Prognose- und Warndiensten berücksichtigt werden.
+<sup>2</sup> Bei der Anwendung von Pflanzenschutzmitteln müssen die Schadschwellen sowie die Empfehlungen von offiziellen Prognose- und Warndiensten berücksichtigt werden. Das Bundesamt für Landwirtschaft (BLW) veröffentlicht die Schadschwellen für die Schadorganismen[^18-2].
 
-<sup>3</sup> Es dürfen nur Pflanzenschutzmittel angewendet werden, die nach der Pflanzenschutzmittelverordnung vom 12. Mai 2010[^18-1] in Verkehr gebracht worden sind. Die Vorschriften zur Anwendung von Pflanzenschutzmitteln sind in Anhang 1 Ziffern 6.1 und 6.2 festgelegt.
+<sup>3</sup> Es dürfen nur Pflanzenschutzmittel angewendet werden, die nach der Pflanzenschutzmittelverordnung vom 12. Mai 2010[^18-3] (PSMV) in Verkehr gebracht worden sind.
 
-<sup>4</sup> Die kantonalen Fachstellen für Pflanzenschutz können für Pflanzenschutzmassnahmen, die nach Anhang 1 Ziffer 6.2 ausgeschlossen sind, Sonderbewilligungen nach Anhang 1 Ziffer 6.3 erteilen.
+<sup>4</sup> Pflanzenschutzmittel, die Wirkstoffe mit erhöhtem Risikopotenzial für Oberflächengewässer oder Grundwasser enthalten, dürfen grundsätzlich nicht angewendet werden. Die Wirkstoffe sind in Anhang 1 Ziffer 6.1.1 festgelegt.
 
-<sup>5</sup> Von den Anwendungsvorschriften nach Anhang 1 Ziffern 6.2 und 6.3 ausgenommen sind Flächen, die zu Versuchszwecken angebaut werden. Der Gesuchsteller oder Gesuchstellerin muss eine schriftliche Vereinbarung mit dem Bewirtschafter oder der Bewirtschafterin abschliessen und diese zusammen mit dem Versuchsbeschrieb der kantonalen Fachstelle für Pflanzenschutz zustellen.
+<sup>5</sup> Vom Verbot nach Absatz 4 ausgenommen sind die in Anhang 1 Ziffer 6.1.2 genannten Indikationen, bei denen kein Ersatz durch Wirkstoffe mit tieferem Risikopotenzial möglich ist und bei denen die Schaderreger in den meisten Regionen der Schweiz regelmässig auftreten und Schäden verursachen. Das BLW führt Anhang 1 Ziffer 6.1.2 nach.
 
-[^18-1]: [SR 916.161](https://fedlex.data.admin.ch/eli/cc/2010/340)
+<sup>6</sup> Die Vorschriften zur Anwendung von Pflanzenschutzmitteln richten sich nach Anhang 1 Ziffern 6.1*a* und 6.2. Es sind primär nützlingsschonende Pflanzenschutzmittel anzuwenden.
+
+<sup>7</sup>
+
+Die zuständigen kantonalen Fachstellen können Sonderbewilligungen nach Anhang 1 Ziffer 6.3 erteilen für:
+
+- a. die Anwendung von Pflanzenschutzmitteln mit Wirkstoffen, die nach Absatz 4 nicht angewendet werden dürfen, sofern kein Ersatz durch Wirkstoffe mit tieferem Risikopotenzial möglich ist;
+- b. Massnahmen, die nach Anhang 1 Ziffer 6.2 ausgeschlossen sind.
+
+<sup>8</sup> Von den Anwendungsvorschriften nach Anhang 1 Ziffern 6.1, 6.2 und 6.3 ausgenommen sind Flächen, die zu Versuchszwecken angebaut werden. Der Gesuchsteller oder die Gesuchstellerin muss eine schriftliche Vereinbarung mit dem Bewirtschafter oder der Bewirtschafterin abschliessen und diese zusammen mit dem Versuchsbeschrieb der kantonalen Fachstelle für Pflanzenschutz zustellen.
+
+[^18-1]: Fassung gemäss Ziff. I der V vom 13. April 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
+[^18-2]: Die Schadschwellen sind abrufbar unter www.blw.admin.ch &gt; Instrumente &gt; Direktzahlungen &gt; Ökologischer Leistungsnachweis; weiterführende Informationen &gt; Dokumentation.
+[^18-3]: [SR 916.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10643)
 
 #### Art. 19
 
@@ -348,7 +364,9 @@ Die Anforderungen an die Produktion von Saat- und Pflanzgut sind in Anhang 1 Zif
 
 <sup>1</sup> Die Anforderungen an Spezialkulturen sind in Anhang 1 Ziffer 8.1 festgelegt.
 
-<sup>2</sup> Das Bundesamt für Landwirtschaft (BLW) kann gleichwertige Anforderungen zur Erfüllung des ÖLN von nationalen Fachorganisationen und von zum Vollzug beauftragten Organisationen nach Anhang 1 Ziffer 8.2 genehmigen.
+<sup>2</sup> Das BLW kann gleichwertige Anforderungen zur Erfüllung des ÖLN von nationalen Fachorganisationen und von zum Vollzug beauftragten Organisationen nach Anhang 1 Ziffer 8.2 genehmigen.[^20-1]
+
+[^20-1]: Fassung gemäss Ziff. I der V vom 13. April 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
 
 #### Art. 21
 
@@ -451,7 +469,7 @@ Die Sömmerungstiere müssen überwacht werden. Der Bewirtschafter oder die Bewi
 
 <sup>5</sup> Für Rückstände aus nichtlandwirtschaftlichen Abwasserreinigungsanlagen mit höchstens 200 Einwohnergleichwerten und aus nichtlandwirtschaftlichen Abwassergruben ohne Abfluss gilt Anhang 2.6 Ziffer 3.2.3 der Chemikalien-Risikoreduktions-Verordnung vom 18. Mai 2005[^30-1].
 
-[^30-1]: [SR 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
+[^30-1]: [SR 814.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9592)
 
 #### Art. 31
 
@@ -459,11 +477,13 @@ Die Sömmerungstiere müssen überwacht werden. Der Bewirtschafter oder die Bewi
 
 <sup>1</sup> Zur Überbrückung witterungsbedingter Ausnahmesituationen dürfen höchstens 50 kg Dürrfutter oder 140 kg Silage pro Normalstoss (NST) und Sömmerungsperiode zugeführt werden.
 
-<sup>2</sup> Für gemolkene Kühe, Milchziegen und Milchschafe ist zusätzlich die Zufuhr von 100 kg Dürrfutter und 100 kg Kraftfutter pro NST und Sömmerungsperiode zulässig.
+<sup>2</sup> Für Milchkühe, Milchziegen und Milchschafe ist zusätzlich die Zufuhr von 100 kg Dürrfutter sowie insgesamt 100 kg Kraftfutter (ohne Mineralsalze), Trockengras oder Trockenmais pro NST und Sömmerungsperiode zulässig.[^31-1]
 
 <sup>3</sup> Schweinen darf Kraftfutter nur als Ergänzung der alpeigenen Milchnebenprodukte verfüttert werden.
 
 <sup>4</sup> Für jede Futterzufuhr sind der Zeitpunkt der Zufuhr sowie die Art, Menge und Herkunft des Futters in einem Journal festzuhalten.
+
+[^31-1]: Fassung gemäss Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)).
 
 #### Art. 32
 
@@ -499,7 +519,7 @@ Enthält ein allfälliger Bewirtschaftungsplan nach Anhang 2 Ziffer 2 weitergehe
 
 <sup>2</sup> Unproduktive Kleinstrukturen auf extensiv genutzten Weiden (Art. 55 Abs. 1 Bst. c) berechtigen bis zu einem Anteil von höchstens 20 Prozent an der Weidefläche zu Beiträgen.
 
-<sup>2bis</sup> Entlang von Fliessgewässern berechtigen unproduktive Kleinstrukturen auf extensiv genutzten Wiesen (Art. 55 Abs. 1 Bst. a), Streueflächen (Art. 55 Abs. 1 Bst. e) und Uferwiesen entlang von Fliessgewässern (Art. 55 Abs. 1 Bst. g) bis zu einem Anteil von höchstens 20 Prozent an der Fläche zu Beiträgen.[^35-2]
+<sup>2bis</sup> Entlang von Gewässern berechtigen unproduktive Kleinstrukturen auf extensiv genutzten Wiesen (Art. 55 Abs. 1 Bst. a), Streueflächen (Art. 55 Abs. 1 Bst. e) und Uferwiesen (Art. 55 Abs. 1 Bst. g) bis zu einem Anteil von höchstens 20 Prozent an der Fläche zu Beiträgen.[^35-2]
 
 <sup>3</sup> Rückzugsstreifen auf extensiv genutzten Wiesen (Art. 55 Abs. 1 Bst. a) berechtigen bis zu einem Anteil von höchstens 10 Prozent an der Wiesenfläche zu Beiträgen.
 
@@ -511,9 +531,9 @@ Enthält ein allfälliger Bewirtschaftungsplan nach Anhang 2 Ziffer 2 weitergehe
 
 <sup>7</sup> Zu keinen Beiträgen berechtigen Flächen, die mit Baumschulen, Forstpflanzen, Christbäumen, Zierpflanzen, Hanf, der nicht zur Nutzung der Fasern oder der Samen angebaut wird, oder Gewächshäusern mit festem Fundament belegt sind.[^35-4]
 
-[^35-1]: [SR 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
-[^35-2]: Eingefügt durch Ziff. I der V vom 29. Okt. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)).
-[^35-3]: [SR 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+[^35-1]: [SR 910.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10428)
+[^35-2]: Eingefügt durch Ziff. I der V vom 29. Okt. 2014 ([AS 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)). Fassung gemäss Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)).
+[^35-3]: [SR 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
 [^35-4]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)).
 
 ### 2. Abschnitt: Massgebende Tierbestände
@@ -524,19 +544,22 @@ Enthält ein allfälliger Bewirtschaftungsplan nach Anhang 2 Ziffer 2 weitergehe
 
 <sup>1</sup> Für die Bestimmung des Bestands an Nutztieren auf Betrieben ist die Bemessungsperiode vom 1. Januar bis zum 31. Dezember des Vorjahres massgebend.
 
+<sup>1bis</sup> Für die Bestimmung der Anzahl der geschlachteten Kühe und ihrer Abkalbungen nach Artikel 77 ist die Bemessungsperiode der drei Kalenderjahre vor dem Beitragsjahr massgebend.[^36-1]
+
 <sup>2</sup>
 
 Für die Bestimmung der Bestossung von Sömmerungs- und Gemeinschaftsweidebetrieben sind folgende Bemessungsperioden massgebend:
 
-- a.[^36-1] für Tiere der Rindergattung und Wasserbüffel sowie Tiere der Pferdegattung: das Beitragsjahr bis zum 31. Oktober;
+- a.[^36-2] für Tiere der Rindergattung und Wasserbüffel sowie Tiere der Pferdegattung: das Beitragsjahr bis zum 31. Oktober;
 - b. für die übrigen raufutterverzehrenden Nutztiere: das Beitragsjahr.
 
-<sup>3</sup> Der Bestand an Tieren der Rindergattung und Wasserbüffeln, Tieren der Pferdegattung sowie Bisons wird anhand der Daten der Tierverkehrsdatenbank erhoben.[^36-2]
+<sup>3</sup> Der Bestand an Tieren der Rindergattung und Wasserbüffeln, Tieren der Pferdegattung sowie Bisons wird anhand der Daten der Tierverkehrsdatenbank erhoben.[^36-3]
 
 <sup>4</sup> Der Bestand an übrigen Nutztieren muss vom Bewirtschafter oder von der Bewirtschafterin bei der Einreichung des Gesuchs um Direktzahlungen angegeben werden.
 
-[^36-1]: Fassung gemäss Ziff. I der V vom 16. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)).
-[^36-2]: Fassung gemäss Ziff. I der V vom 16. Sept. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)).
+[^36-1]: Eingefügt durch Ziff. I der V vom 13. April 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
+[^36-2]: Fassung gemäss Ziff. I der V vom 16. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)).
+[^36-3]: Fassung gemäss Ziff. I der V vom 16. Sept. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)).
 
 #### Art. 37
 
@@ -554,8 +577,14 @@ Für die Bestimmung der Bestossung von Sömmerungs- und Gemeinschaftsweidebetrie
 
 <sup>6</sup> Der Tierbestand für die Bestossung von Sömmerungs- und Gemeinschaftsweidebetrieben im Inland wird in Normalstössen nach Artikel 39 Absätze 2 und 3 bemessen.
 
-[^37-1]: Fassung gemäss Ziff. I der V vom 16. Sept. 2016, in Kraft seit 1. Jan. 2018 (AS **201****6** 3291).
-[^37-2]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+<sup>7</sup> Die geschlachteten Kühe und ihre Abkalbungen nach Artikel 77 werden dem Betrieb angerechnet, auf dem sie vor der Schlachtung zum letzten Mal gekalbt haben. Ist die letzte Abkalbung auf einem Sömmerungs- oder Gemeinschaftsweidebetrieb erfolgt, so wird die Kuh dem Betrieb angerechnet, auf dem sie vor der letzten Abkalbung ihren Aufenthalt hatte.[^37-3]
+
+<sup>8</sup> Die Verendung einer Kuh wird als Schlachtung gezählt. Eine Totgeburt wird als Abkalbung gezählt; nicht als Abkalbung gezählt wird eine Totgeburt, wenn es die letzte Geburt vor der Schlachtung ist.[^37-4]
+
+[^37-1]: Fassung gemäss Ziff. I der V vom 16. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)).
+[^37-2]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
+[^37-3]: Eingefügt durch Ziff. I der V vom 13. April 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
+[^37-4]: Eingefügt durch Ziff. I der V vom 13. April 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
 
 ### 3. Abschnitt: Besondere Bestimmungen für die Sömmerung und das Sömmerungsgebiet
 
@@ -567,7 +596,7 @@ Für die Bestimmung der Bestossung von Sömmerungs- und Gemeinschaftsweidebetrie
 
 <sup>2</sup> Der Bewirtschafter oder die Bewirtschafterin muss auf einer Karte, die beweidbaren Flächen und die Flächen, die nicht beweidet werden dürfen, eintragen.
 
-[^38-1]: [SR 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
+[^38-1]: [SR 910.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10428)
 
 #### Art. 39
 
@@ -626,7 +655,7 @@ Er setzt den Normalbesatz unter Berücksichtigung der Stellungnahmen der kantona
 
 <sup>3</sup> Er setzt den Normalbesatz neu fest, wenn die Bestossung über drei Jahre in Folge 75 Prozent des festgelegten Normalbesatzes unterschreitet. Er berücksichtigt dabei den durchschnittlichen Bestand der letzten drei Jahre und die Anforderungen an eine nachhaltige Nutzung.
 
-<sup>3bis</sup> und <sup>3ter</sup> …[^41-1]
+<sup>3bis und <sup>3ter</sup></sup> …[^41-1]
 
 <sup>4</sup> Der Bewirtschafter oder die Bewirtschafterin kann gegen die Anpassung des Normalbesatzes innerhalb von 30 Tagen Einsprache erheben und die Überprüfung des Entscheids aufgrund eines Bewirtschaftungsplanes verlangen. Er oder sie muss den Plan innerhalb eines Jahres vorlegen.
 
@@ -812,7 +841,7 @@ Der Mindesttierbesatz auf Dauergrünflächen beträgt pro Hektare:
 
 <sup>2</sup> Für die Berechnung des Abzugs sind die Direktzahlungen der EU massgebend, die für das Vorjahr ausgerichtet wurden.
 
-[^54-1]: Fassung gemäss Ziff. I der V vom 16. Sept. 2016, in Kraft seit 1. Jan. 2017 (AS **201****6** 3291).
+[^54-1]: Fassung gemäss Ziff. I der V vom 16. Sept. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)).
 
 ### 3. Kapitel: Biodiversitätsbeiträge
 
@@ -830,24 +859,24 @@ Biodiversitätsbeiträge werden pro Hektare für folgende eigene oder gepachtete
 - d. Waldweiden;
 - e. Streueflächen;
 - f. Hecken, Feld- und Ufergehölze;
-- g. Uferwiesen entlang von Fliessgewässern;
+- g.[^55-2] Uferwiesen;
 - h. Buntbrachen;
 - i. Rotationsbrachen;
 - j. Ackerschonstreifen;
 - k. Saum auf Ackerfläche;
-- l.[^55-2] …
-- m.[^55-3] …
+- l.[^55-3] …
+- m.[^55-4] …
 - n. Rebflächen mit natürlicher Artenvielfalt;
 - o. artenreiche Grün- und Streueflächen im Sömmerungsgebiet;
 - p. regionsspezifische Biodiversitätsförderflächen;
-- q.[^55-4] Blühstreifen für Bestäuber und andere Nützlinge.
+- q.[^55-5] Getreide in weiter Reihe.
 
 <sup>1bis</sup>
 
-Biodiversitätsbeiträge werden pro Baum für folgende eigene oder gepachtete Bäume gewährt:[^55-5]
+Biodiversitätsbeiträge werden pro Baum für folgende eigene oder gepachtete Bäume gewährt:[^55-6]
 
 - a. Hochstamm-Feldobstbäume;
-- b. einheimische standortgerechte Einzelbäume und Alleen.[^55-6]
+- b. einheimische standortgerechte Einzelbäume und Alleen.[^55-7]
 
 <sup>2</sup> Für Flächen nach Absatz 1 Buchstaben a, b und e werden die Beiträge nach Zonen abgestuft.
 
@@ -855,31 +884,32 @@ Biodiversitätsbeiträge werden pro Baum für folgende eigene oder gepachtete B�
 
 Für folgende Flächen werden die Beiträge nur in folgenden Zonen oder Gebieten ausgerichtet:
 
-- a.[^55-7] Flächen nach Absatz 1 Buchstaben h, i und q: Tal- und Hügelzone;
+- a.[^55-8] Flächen nach Absatz 1 Buchstaben h und i: Tal- und Hügelzone;
 - b. Flächen nach Absatz 1 Buchstabe k: Tal- und Hügelzone sowie Bergzonen I und II;
-- c.[^55-8] Flächen nach Absatz 1 Buchstabe o: Sömmerungsgebiet und Sömmerungsflächen im Tal- und Berggebiet.
+- c.[^55-9] Flächen nach Absatz 1 Buchstabe o: Sömmerungsgebiet und Sömmerungsflächen im Tal- und Berggebiet.
 
 <sup>4</sup> Beiträge können für Flächen ausgerichtet werden, auf denen Untersuchungen und Versuche durchgeführt werden, die zum Ziel haben, die Qualität von Biodiversitätsförderflächen zu verbessern.
 
-<sup>5</sup> Keine Beiträge werden für Flächen ausgerichtet, für die nach den Artikeln 18*a*, 18*b*, 23*c* und 23*d* NHG[^55-9] naturschützerische Auflagen bestehen und für die mit den Bewirtschaftern und Bewirtschafterinnen oder den Grundeigentümern und Grundeigentümerinnen keine Vereinbarung über die angemessene Abgeltung dieser Auflagen abgeschlossen wurde.
+<sup>5</sup> Keine Beiträge werden für Flächen ausgerichtet, für die nach den Artikeln 18*a*, 18*b*, 23*c* und 23*d* NHG[^55-10] naturschützerische Auflagen bestehen und für die mit den Bewirtschaftern und Bewirtschafterinnen oder den Grundeigentümern und Grundeigentümerinnen keine Vereinbarung über die angemessene Abgeltung dieser Auflagen abgeschlossen wurde.
 
 <sup>6</sup> Keine Beiträge werden für Flächen ausgerichtet, die als Wendestreifen für die Bewirtschaftung von Nachbarflächen verwendet werden.
 
-<sup>7</sup> Befinden sich auf einer Fläche nach Absatz 1 Buchstabe a Bäume, die gedüngt werden, so wird die für den Beitrag massgebende Fläche um eine Are pro gedüngten Baum reduziert. Ausgenommen davon sind Hochstamm-Feldobstbäume; deren Baumscheiben dürfen bis zum 10. Standjahr mit Mist oder Kompost gedüngt werden.[^55-10]
+<sup>7</sup> Befinden sich auf einer Fläche nach Absatz 1 Buchstabe a Bäume, die gedüngt werden, so wird die für den Beitrag massgebende Fläche um eine Are pro gedüngten Baum reduziert. Ausgenommen davon sind Hochstamm-Feldobstbäume; deren Baumscheiben dürfen bis zum 10. Standjahr mit Mist oder Kompost gedüngt werden.[^55-11]
 
-<sup>8</sup> Die Beiträge nach Absatz 1 Buchstabe o werden aufgrund der effektiven Bestossung begrenzt.[^55-11]
+<sup>8</sup> Die Beiträge nach Absatz 1 Buchstabe o werden aufgrund der effektiven Bestossung begrenzt.[^55-12]
 
 [^55-1]: Fassung gemäss Ziff. I der V vom 16. Sept. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)).
-[^55-2]: Aufgehoben durch Ziff. I der V vom 28. Okt. 2015, mit Wirkung seit 1. Jan. 2016 ([AS 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)).
+[^55-2]: Fassung gemäss Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)).
 [^55-3]: Aufgehoben durch Ziff. I der V vom 28. Okt. 2015, mit Wirkung seit 1. Jan. 2016 ([AS 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)).
-[^55-4]: Eingefügt durch Ziff. I der V vom 29. Okt. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)).
-[^55-5]: Fassung gemäss Ziff. I der V vom 16. Sept. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)).
-[^55-6]: Eingefügt durch Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)).
-[^55-7]: Fassung gemäss Ziff. I der V vom 29. Okt. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)).
-[^55-8]: Fassung gemäss Ziff. I der V vom 29. Okt. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)).
-[^55-9]: [SR 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
-[^55-10]: Eingefügt durch Ziff. I der V vom 28. Okt. 2015 ([AS 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)). Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)).
-[^55-11]: Eingefügt durch Ziff. I der V vom 16. Sept. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)).
+[^55-4]: Aufgehoben durch Ziff. I der V vom 28. Okt. 2015, mit Wirkung seit 1. Jan. 2016 ([AS 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)).
+[^55-5]: Eingefügt durch Ziff. I der V vom 29. Okt. 2014 ([AS 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)). Fassung gemäss Ziff. I der V vom 13. April 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
+[^55-6]: Fassung gemäss Ziff. I der V vom 16. Sept. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)).
+[^55-7]: Eingefügt durch Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)).
+[^55-8]: Fassung gemäss Ziff. I der V vom 13. April 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
+[^55-9]: Fassung gemäss Ziff. I der V vom 29. Okt. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)).
+[^55-10]: [SR 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
+[^55-11]: Eingefügt durch Ziff. I der V vom 28. Okt. 2015 ([AS 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)). Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)).
+[^55-12]: Eingefügt durch Ziff. I der V vom 16. Sept. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)).
 
 ### 2. Abschnitt: Qualitätsbeitrag für die Biodiversität
 
@@ -891,9 +921,10 @@ Für folgende Flächen werden die Beiträge nur in folgenden Zonen oder Gebieten
 
 <sup>2</sup> Werden weitergehende Anforderungen an die Biodiversität erfüllt, so werden für Flächen nach Artikel 55 Absatz 1 Buchstaben a–f, n und o sowie für Bäume nach Artikel 55 Absatz 1<sup>bis</sup> Buchstabe a zusätzlich zu den Beiträgen der Qualitätsstufe I Beiträge der Qualitätsstufe II ausgerichtet.
 
-<sup>3</sup> Beiträge der Qualitätsstufe I für Flächen nach Artikel 55 Absatz 1 und Bäume nach Artikel 55 Absatz 1<sup>bis</sup> werden höchstens für die Hälfte der zu Beiträgen berechtigenden Flächen nach Artikel 35, mit Ausnahme der Flächen nach Artikel 35 Absätze 5–7, ausgerichtet. Von der Begrenzung ausgenommen sind Flächen und Bäume, für die die Beiträge der Qualitätsstufe II ausgerichtet werden.
+<sup>3</sup> …[^56-2]
 
 [^56-1]: Fassung gemäss Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)).
+[^56-2]: Aufgehoben durch Ziff. I der V vom 13. April 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
 
 #### Art. 57
 
@@ -903,9 +934,10 @@ Für folgende Flächen werden die Beiträge nur in folgenden Zonen oder Gebieten
 
 Der Bewirtschafter oder die Bewirtschafterin ist verpflichtet, die Biodiversitätsförderflächen nach Artikel 55 Absatz 1 während folgender Dauer entsprechend zu bewirtschaften:
 
-- a. Blühstreifen für Bestäuber und andere Nützlinge: während mindestens 100 Tagen;
+- a.[^57-2] …
 - b. Rotationsbrachen: während mindestens eines Jahres;
 - c. Buntbrachen, Ackerschonstreifen und Saum auf Ackerland: während mindestens zwei Jahren;
+- c<sup>bis</sup>.[^57-3] Getreide in weiter Reihe: von der Saat bis zur Ernte;
 - d. alle anderen Flächen: während mindestens acht Jahren.
 
 <sup>1bis</sup>
@@ -917,10 +949,12 @@ Er oder sie ist verpflichtet, Bäume nach Artikel 55 Absatz 1<sup>bis</sup> wäh
 
 <sup>2</sup> Die Kantone können für einen Bewirtschafter oder eine Bewirtschafterin eine verkürzte Mindestdauer bewilligen, wenn er oder sie an einem andern Ort die gleiche Fläche oder die gleiche Anzahl Bäume anlegt und damit die Biodiversität besser gefördert oder der Ressourcenschutz verbessert wird.
 
-<sup>3</sup> Werden Ansätze für den Beitrag der Qualitätsstufe I oder der Qualitätsstufe II gesenkt, so kann der Bewirtschafter oder die Bewirtschafterin melden, dass er oder sie ab dem Jahr der Beitragssenkung auf die weitere Teilnahme verzichtet.[^57-2]
+<sup>3</sup> …[^57-4]
 
 [^57-1]: Fassung gemäss Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)).
-[^57-2]: Eingefügt durch Ziff. I der V vom 16. Sept. 2016, in Kraft seit 1. Nov. 2016 ([AS 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)).
+[^57-2]: Aufgehoben durch Ziff. I der V vom 13. April 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
+[^57-3]: Eingefügt durch Ziff. I der V vom 13. April 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
+[^57-4]: Eingefügt durch Ziff. I der V vom 16. Sept. 2016 ([AS 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)). Aufgehoben durch Ziff. I der V vom 13. April 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
 
 #### Art. 58
 
@@ -928,7 +962,7 @@ Er oder sie ist verpflichtet, Bäume nach Artikel 55 Absatz 1<sup>bis</sup> wäh
 
 <sup>1</sup> Der Beitrag wird ausgerichtet, wenn die Anforderungen an die Qualitätsstufe I nach Anhang 4 erfüllt werden.
 
-<sup>2</sup> Auf Biodiversitätsförderflächen dürfen keine Dünger ausgebracht werden. Auf wenig intensiv genutzten Wiesen, extensiv genutzten Weiden, Waldweiden, Ackerschonstreifen, Rebflächen mit natürlicher Artenvielfalt und Biodiversitätsförderflächen im Sömmerungsgebiet ist eine Düngung nach Anhang 4 zulässig. Hochstamm-Feldobstbäume dürfen gedüngt werden.
+<sup>2</sup> Auf Biodiversitätsförderflächen dürfen keine Dünger ausgebracht werden. Auf wenig intensiv genutzten Wiesen, extensiv genutzten Weiden, Waldweiden, Ackerschonstreifen, Rebflächen mit natürlicher Artenvielfalt und Biodiversitätsförderflächen im Sömmerungsgebiet ist eine Düngung nach Anhang 4 zulässig. Hochstamm-Feldobstbäume und Getreide in weiter Reihe dürfen gedüngt werden.[^58-1]
 
 <sup>3</sup> Problempflanzen wie Blacken, Ackerkratzdisteln, Jakobskreuzkraut oder invasive Neophyten sind zu bekämpfen; insbesondere ist deren Ausbreitung zu verhindern.
 
@@ -939,28 +973,31 @@ Auf Biodiversitätsförderflächen dürfen keine Pflanzenschutzmittel ausgebrach
 - a. Einzelstock- oder Nesterbehandlungen von Problempflanzen, sofern diese nicht mit einem angemessenen Aufwand mechanisch bekämpft werden können, mit Ausnahme von Streueflächen und Flächen, auf denen die Verwendung von Pflanzenschutzmitteln nicht zulässig ist;
 - b. Pflanzenschutzbehandlungen in Waldweiden mit Bewilligung der für die Forstwirtschaft zuständigen kantonalen Stellen und unter Einhaltung der geltenden Verwendungsverbote und -einschränkungen;
 - c. Pflanzenschutzbehandlungen in Rebflächen mit natürlicher Artenvielfalt nach Anhang 4 Ziffer 14.1.4;
-- d. Pflanzenschutzbehandlungen für Hochstamm-Feldobstbäume nach Anhang 1 Ziffer 8.1.2 Buchstabe b.[^58-1]
+- d. Pflanzenschutzbehandlungen für Hochstamm-Feldobstbäume nach Anhang 1 Ziffer 8.1.2 Buchstabe b;
+- e.[^58-2] Pflanzenschutzbehandlungen in Getreide in weiter Reihe nach Anhang 4 Ziffer 17.[^58-3]
 
-<sup>5</sup> Das Schnittgut von Biodiversitätsförderflächen ist abzuführen, mit Ausnahme von Schnittgut auf Säumen auf Ackerland, Bunt- und Rotationsbrachen sowie Rebflächen mit natürlicher Artenvielfalt.[^58-2]
+<sup>5</sup> Das Schnittgut von Biodiversitätsförderflächen ist abzuführen, mit Ausnahme von Schnittgut auf Säumen auf Ackerland, Bunt- und Rotationsbrachen sowie Rebflächen mit natürlicher Artenvielfalt.[^58-4]
 
-<sup>6</sup> Ast- und Streuehaufen dürfen angelegt werden, wenn es aus Gründen des Naturschutzes oder im Rahmen von Vernetzungsprojekten geboten ist.[^58-3]
+<sup>6</sup> Ast- und Streuehaufen dürfen angelegt werden, wenn es aus Gründen des Naturschutzes oder im Rahmen von Vernetzungsprojekten geboten ist.[^58-5]
 
-<sup>7</sup> Das Mulchen und der Einsatz von Steinbrechmaschinen sind nicht zulässig. Das Mulchen ist zulässig auf Säumen auf Ackerland, Bunt- und Rotationsbrachen, Rebflächen mit natürlicher Artenvielfalt und auf den Baumscheiben von auf Biodiversitätsförderflächen stehenden Bäumen.[^58-4]
+<sup>7</sup> Das Mulchen und der Einsatz von Steinbrechmaschinen sind nicht zulässig. Das Mulchen ist zulässig auf Säumen auf Ackerland, Bunt- und Rotationsbrachen, Rebflächen mit natürlicher Artenvielfalt und auf den Baumscheiben von auf Biodiversitätsförderflächen stehenden Bäumen.[^58-6]
 
-<sup>8</sup> Bei Ansaaten dürfen nur Saatmischungen verwendet werden, die vom BLW unter Anhörung des BAFU für die jeweilige Biodiversitätsförderfläche bewilligt sind. Bei Wiesen, Weiden und Streueflächen sind lokale Heugras- oder Heudruschsaaten von langjährig bestehendem Dauergrünland den standardisierten Saatgutmischungen vorzuziehen.[^58-5]
+<sup>8</sup> Bei Ansaaten dürfen nur Saatmischungen verwendet werden, die vom BLW unter Anhörung des BAFU für die jeweilige Biodiversitätsförderfläche bewilligt sind. Bei Wiesen, Weiden und Streueflächen sind lokale Heugras- oder Heudruschsaaten von langjährig bestehendem Dauergrünland den standardisierten Saatgutmischungen vorzuziehen.[^58-7]
 
-<sup>9</sup> Für Flächen, für die nach dem NHG[^58-6] eine schriftliche Nutzungs- und Schutzvereinbarung mit der kantonalen Fachstelle besteht, können Nutzungsauflagen festgelegt werden, welche die Bestimmungen nach den Absätzen 2–8 und nach Anhang 4 ersetzen.[^58-7]
+<sup>9</sup> Für Flächen, für die nach dem NHG[^58-8] eine schriftliche Nutzungs- und Schutzvereinbarung mit der kantonalen Fachstelle besteht, können Nutzungsauflagen festgelegt werden, welche die Bestimmungen nach den Absätzen 2–8 und nach Anhang 4 ersetzen.[^58-9]
 
-<sup>10</sup> Zur mechanischen Bekämpfung von Problempflanzen kann der Kanton Ausnahmen von den Bewirtschaftungsvorgaben zu Schnittzeitpunkt und Schnitthäufigkeit bewilligen.[^58-8]
+<sup>10</sup> Zur mechanischen Bekämpfung von Problempflanzen kann der Kanton Ausnahmen von den Bewirtschaftungsvorgaben zu Schnittzeitpunkt und Schnitthäufigkeit bewilligen.[^58-10]
 
-[^58-1]: Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)).
-[^58-2]: Fassung gemäss Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)).
-[^58-3]: Fassung gemäss Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)).
+[^58-1]: Fassung gemäss Ziff. I der V vom 13. April 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
+[^58-2]: Eingefügt durch Ziff. I der V vom 13. April 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
+[^58-3]: Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)).
 [^58-4]: Fassung gemäss Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)).
 [^58-5]: Fassung gemäss Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)).
-[^58-6]: [SR 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+[^58-6]: Fassung gemäss Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)).
 [^58-7]: Fassung gemäss Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)).
-[^58-8]: Eingefügt durch Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)).
+[^58-8]: [SR 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
+[^58-9]: Fassung gemäss Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)).
+[^58-10]: Eingefügt durch Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)).
 
 #### Art. 59
 
@@ -981,7 +1018,7 @@ Auf Biodiversitätsförderflächen dürfen keine Pflanzenschutzmittel ausgebrach
 <sup>6</sup> Werden Beiträge der Qualitätsstufe II ausgerichtet, so werden mit Ausnahme der Flächen nach Artikel 55 Absatz 1 Buchstaben n und o auf derselben Fläche beziehungsweise für denselben Baum auch die Beiträge der Qualitätsstufe I ausgerichtet.[^59-4]
 
 [^59-1]: Fassung gemäss Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)).
-[^59-2]: [SR 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+[^59-2]: [SR 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
 [^59-3]: Eingefügt durch Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)).
 [^59-4]: Fassung gemäss Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)).
 
@@ -1023,7 +1060,7 @@ Der Vernetzungsbeitrag wird gewährt, wenn die Flächen und Bäume:
 
 <sup>3</sup> Ein Vernetzungsprojekt dauert jeweils acht Jahre. Der Bewirtschafter oder die Bewirtschafterin muss die Fläche bis zum Ablauf der Projektdauer entsprechend bewirtschaften.
 
-<sup>3bis</sup> Werden die Ansätze für den Vernetzungsbeitrag oder den Beitrag der Qualitätsstufe I oder der Qualitätsstufe II gesenkt, so kann der Bewirtschafter oder die Bewirtschafterin melden, dass er oder sie ab dem Jahr der Beitragssenkung auf die weitere Teilnahme verzichtet.[^62-3]
+<sup>3bis</sup> …[^62-3]
 
 <sup>4</sup> Von der Projektdauer nach Absatz 3 kann abgewichen werden, wenn dies die Koordination mit einem anderen Vernetzungsprojekt oder mit einem Landschaftsqualitätsprojekt nach Artikel 63 Absatz 1 ermöglicht.
 
@@ -1031,7 +1068,7 @@ Der Vernetzungsbeitrag wird gewährt, wenn die Flächen und Bäume:
 
 [^62-1]: Fassung gemäss Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)).
 [^62-2]: Fassung gemäss Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)).
-[^62-3]: Eingefügt durch Ziff. I der V vom 16. Sept. 2016, in Kraft seit 1. Nov. 2016 ([AS 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)).
+[^62-3]: Eingefügt durch Ziff. I der V vom 16. Sept. 2016 ([AS 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)). Aufgehoben durch Ziff. I der V vom 13. April 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
 
 ### 4. Kapitel: Landschaftsqualitätsbeitrag
 
@@ -1047,7 +1084,7 @@ Der Vernetzungsbeitrag wird gewährt, wenn die Flächen und Bäume:
 
 <sup>4</sup> Der Bund übernimmt maximal 90 Prozent des vom Kanton festgelegten Beitrags nach Absatz 3, höchstens jedoch die Beträge nach Anhang 7 Ziffer 4.1.
 
-[^63-1]: [SR 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
+[^63-1]: [SR 910.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10428)
 
 #### Art. 64
 
@@ -1079,16 +1116,50 @@ Projekte der Kantone müssen folgende Mindestanforderungen erfüllen:
 
 #### Art. 65
 
+[^65-1]
+
 <sup>1</sup> Als Beitrag für gesamtbetriebliche Produktionsformen wird der Beitrag für die biologische Landwirtschaft ausgerichtet.
 
 <sup>2</sup>
 
 Als Beiträge für teilbetriebliche Produktionsformen werden ausgerichtet:
 
-- a. der Beitrag für die extensive Produktion von Getreide, Sonnenblumen, Eiweisserbsen, Ackerbohnen und Raps;
-- b. der Beitrag für die graslandbasierte Milch- und Fleischproduktion.
+- a.
 
-<sup>3</sup> Als Beitrag für besonders tierfreundliche Produktionsformen werden die Tierwohlbeiträge ausgerichtet.
+  die folgenden Beiträge für den Verzicht auf Pflanzenschutzmittel:
+
+  - 1\. Beitrag für den Verzicht auf Pflanzenschutzmittel im Ackerbau,
+  - 2\. Beitrag für den Verzicht auf Insektizide und Akarizide im Gemüse- und Beerenanbau,
+  - 3\. Beitrag für den Verzicht auf Insektizide, Akarizide und Fungizide nach der Blüte bei Dauerkulturen,
+  - 4\. Beitrag für die Bewirtschaftung von Flächen mit Dauerkulturen mit Hilfsmitteln nach der biologischen Landwirtschaft,
+  - 5\. Beitrag für den Verzicht auf Herbizide im Ackerbau und in Spezialkulturen;
+
+- b. der Beitrag für die funktionale Biodiversität in Form eines Beitrags für Nützlingsstreifen;
+- c.
+
+  die folgenden Beiträge für die Verbesserung der Bodenfruchtbarkeit:
+
+  - 1\. Beitrag für eine angemessene Bedeckung des Bodens,
+  - 2\. Beitrag für die schonende Bodenbearbeitung von Hauptkulturen auf der Ackerfläche;
+
+- d. der Beitrag für Klimamassnahmen in Form eines Beitrags für den effizienten Stickstoffeinsatz im Ackerbau;
+- e. der Beitrag für die graslandbasierte Milch- und Fleischproduktion.
+
+<sup>3</sup>
+
+Als Beiträge für besonders tierfreundliche Produktionsformen werden ausgerichtet:
+
+- a.
+
+  die folgenden Tierwohlbeiträge:
+
+  - 1\. Beitrag für besonders tierfreundliche Stallhaltungssysteme (BTS-Beitrag),
+  - 2\. Beitrag für regelmässigen Auslauf im Freien (RAUS-Beitrag),
+  - 3\. Beitrag für besonders hohen Auslauf- und Weideanteil für die Tierkategorien der Rindergattung und Wasserbüffel (Weidebeitrag);
+
+- b. der Beitrag für die längere Nutzungsdauer von Kühen.
+
+[^65-1]: Fassung gemäss Ziff. I der V vom 13. April 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
 
 ### 2. Abschnitt: Beitrag für biologische Landwirtschaft
 
@@ -1110,75 +1181,414 @@ Der Beitrag für die biologische Landwirtschaft wird pro Hektare ausgerichtet un
 
 <sup>2</sup> Bewirtschafter und Bewirtschafterinnen, die die biologische Landwirtschaft aufgeben, sind erst wieder zwei Jahre nach der Aufgabe für den Beitrag für die biologische Landwirtschaft beitragsberechtigt.
 
-[^67-1]: [SR 910.18](https://fedlex.data.admin.ch/eli/cc/1997/2498_2498_2498)
+[^67-1]: [SR 910.18](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10418)
 
-### 3. Abschnitt: Beitrag für extensive Produktion von Getreide, Sonnenblumen, Eiweisserbsen, Ackerbohnen, Lupinen und Raps****
+### 3. Abschnitt: Beiträge für den Verzicht auf Pflanzenschutzmittel
 
 [^tit2-chap5-sec3-1]
 
-[^tit2-chap5-sec3-1]: Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)).
+[^tit2-chap5-sec3-1]: Fassung gemäss Ziff. I der V vom 13. April 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
 
 #### Art. 68
 
-**Beitrag**[^68-1]
-
-Der Beitrag für die extensive Produktion von Getreide, Sonnenblumen, Eiweisserbsen, Ackerbohnen, Lupinen und Raps wird pro Hektare ausgerichtet. Für Ackerschonstreifen nach Artikel 55 Absatz 1 Buchstabe j wird kein Beitrag für die extensive Produktion nach diesem Artikel ausgerichtet.
-
-[^68-1]: Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)).
-
-#### Art. 69
-
-**Voraussetzungen und Auflagen**
+**Beitrag für den Verzicht auf Pflanzenschutzmittel im Ackerbau**
 
 <sup>1</sup>
 
-Der Anbau hat unter vollständigem Verzicht auf den Einsatz von folgenden Mitteln zu erfolgen:
+Der Beitrag für den Verzicht auf Pflanzenschutzmittel im Ackerbau wird für Hauptkulturen auf der offenen Ackerfläche pro Hektare ausgerichtet und nach folgenden Kulturen abgestuft:
 
-- a. Wachstumsregulatoren;
-- b. Fungizide;
-- c. chemisch-synthetische Stimulatoren der natürlichen Abwehrkräfte;
-- d.[^69-1] Insektizide, mit Ausnahme von Kaolin zur Bekämpfung des Rapsglanzkäfers.
+- a. Raps, Kartoffeln, Freiland-Konservengemüse und Zuckerrüben;
+- b.[^68-1] Brotweizen, Hartweizen, Futterweizen, Roggen, Dinkel, Hafer, Gerste, Triticale, Trockenreis, Emmer und Einkorn sowie Mischungen dieser Getreidearten, Lein, Sonnenblumen, Erbsen zur Körnergewinnung, Bohnen und Wicken zur Körnergewinnung, Lupinen und Kichererbsen sowie Mischungen von Erbsen zur Körnergewinnung, Bohnen und Wicken zur Körnergewinnung, Lupinen und Kichererbsen mit Getreide oder Leindotter.
 
 <sup>2</sup>
 
-Die Anforderungen nach Absatz 1 sind pro Kultur auf dem Betrieb gesamthaft zu erfüllen für:
+Kein Beitrag wird ausgerichtet für:
 
-- a.[^69-2] Brotweizen (einschliesslich Hartweizen), Futterweizen, Roggen, Hirse, Dinkel, Hafer, Gerste, Triticale, Emmer und Einkorn sowie Mischungen dieser Getreidearten;
-- b.[^69-3] …
-- c. Raps;
-- d. Sonnenblumen;
-- e.[^69-4] Eiweisserbsen, Ackerbohnen und Lupinen sowie Mischungen von Eiweiss-erbsen, Ackerbohnen oder Lupinen mit Getreide zur Verfütterung.
+- a. Mais;
+- b. Getreide siliert;
+- c. Spezialkulturen;
+- d. Biodiversitätsförderflächen nach Artikel 55, mit Ausnahme von Getreide in weiter Reihe;
+- e. Kulturen, für die nach Artikel 18 Absätze 1–5 Insektizide und Fungizide nicht angewendet werden dürfen.
 
-<sup>3</sup> Der Beitrag für Futterweizen wird ausgerichtet, wenn die angebaute Weizensorte in der Liste der für Futterweizen empfohlenen Sorten[^69-5] von Agroscope und Swiss Granum aufgeführt ist.[^69-6]
+<sup>3</sup>
 
-<sup>4</sup> Die Kulturen müssen in reifem Zustand zur Körnergewinnung geerntet werden.
+Der Anbau hat von der Saat bis zur Ernte der Hauptkultur unter Verzicht auf den Einsatz von Pflanzenschutzmitteln zu erfolgen, die chemische Stoffe nach Anhang 1 Teil A PSMV[^68-2] mit den folgenden Wirkungsarten enthalten:
 
-<sup>5</sup> Getreide für die Saatgutproduktion kann für Produzenten und Produzentinnen, die nach der Ausführungsverordnung zur Vermehrungsmaterial-Verordnung vom 7. Dezember 1998[^69-7] zugelassen sind, auf Gesuch hin von der Anforderung nach Absatz 1 ausgenommen werden. Die Produzenten und Produzentinnen melden der zuständigen kantonalen Amtsstelle die betreffenden Flächen und Kulturen.[^69-8]
+- a. Phytoregulator;
+- b. Fungizid;
+- c. Stimulator der natürlichen Abwehrkräfte;
+- d. Insektizid.
 
-[^69-1]: Fassung gemäss Ziff. I der V vom 16. Sept. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)).
-[^69-2]: Fassung gemäss Ziff. I der V vom 31. Okt. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)).
-[^69-3]: Aufgehoben durch Ziff. I der V vom 16. Sept. 2016, mit Wirkung seit 1. Jan. 2017 ([AS 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)).
-[^69-4]: Fassung gemäss Ziff. I der V vom 31. Okt. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)).
-[^69-5]: Die Liste ist einsehbar unter www.swissgranum.ch.
-[^69-6]: Fassung gemäss Ziff. I der V vom 16. Sept. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)).
-[^69-7]: [SR 916.151](https://fedlex.data.admin.ch/eli/cc/1999/51)
-[^69-8]: Eingefügt durch Ziff. I der V vom 16. Sept. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)).
+<sup>4</sup>
 
-### 4. Abschnitt: Beitrag für graslandbasierte Milch- und Fleischproduktion
+In Abweichung von Absatz 3 sind erlaubt:
+
+- a. der Einsatz von chemischen Stoffen nach Anhang 1 Teil A PSMV mit der Wirkungsart «Stoff mit geringem Risiko»;
+- b. die Saatgutbeizung;
+- c. im Rapsanbau: der Einsatz von Insektiziden basierend auf Kaolin zur Bekämpfung des Rapsglanzkäfers;
+- d. im Kartoffelanbau: der Einsatz von Fungiziden;
+- e. im Anbau von Pflanzkartoffeln: der Einsatz von Paraffinöl.
+
+<sup>5</sup> Die Anforderung nach Absatz 3 ist pro Hauptkultur auf dem Betrieb gesamthaft zu erfüllen.
+
+<sup>6</sup> Für Futterweizen wird der Beitrag ausgerichtet, wenn die angebaute Weizensorte in der Liste der für Futterweizen empfohlenen Sorten[^68-3] von Agroscope und Swiss Granum aufgeführt ist.
+
+<sup>7</sup> Getreide für die Saatgutproduktion, das nach der Ausführungsverordnung zur Vermehrungsmaterial-Verordnung vom 7. Dezember 1998[^68-4] zugelassen ist, kann auf Gesuch hin von der Anforderung nach Absatz 3 ausgenommen werden. Die Bewirtschafter und Bewirtschafterinnen melden der zuständigen kantonalen Amtsstelle die betreffenden Flächen und Hauptkulturen.
+
+[^68-1]: Fassung gemäss Ziff. III der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)).
+[^68-2]: [SR 916.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10643)
+[^68-3]: Die Liste ist einsehbar unter www.swissgranum.ch.
+[^68-4]: [SR 916.151](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10635)
+
+#### Art. 69
+
+**Beitrag für den Verzicht auf Insektizide und Akarizide im Gemüse- und Beerenanbau**
+
+<sup>1</sup> Der Beitrag für den Verzicht auf Insektizide und Akarizide im Gemüse- und Beerenanbau wird für die einjährigen Freilandgemüse und einjährigen Beerenkulturen pro Hektare ausgerichtet.
+
+<sup>2</sup> Kein Beitrag ausgerichtet wird für Freiland-Konservengemüse.
+
+<sup>3</sup> Der Anbau hat unter Verzicht auf den Einsatz von Insektiziden und Akariziden zu erfolgen, die die chemischen Stoffe nach Anhang 1 Teil A PSMV[^69-1] mit den Wirkungsarten Insektizid und Akarizid enthalten.
+
+<sup>4</sup> Die Anforderung nach Absatz 3 ist pro Fläche während eines Jahres zu erfüllen.
+
+[^69-1]: [SR 916.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10643)
 
 #### Art. 70
 
-**Beitrag**
-
-Der Beitrag für die graslandbasierte Milch- und Fleischproduktion wird pro Hektare Grünfläche ausgerichtet.
-
-#### Art. 71
-
-**Voraussetzungen und Auflagen**
+**Beitrag für den Verzicht auf Insektizide, Akarizide und Fungizide nach der Blüte bei Dauerkulturen**
 
 <sup>1</sup>
 
-Der Beitrag wird ausgerichtet, wenn die Jahresration aller gehaltenen raufutterverzehrenden Nutztiere nach Artikel 37 Absätze 1–4 zu mindestens 90 Prozent der Trockensubstanz (TS) aus Grundfutter nach Anhang 5 Ziffer 1 besteht. Zudem muss die Jahresration zu folgenden Mindestanteilen aus frischem, siliertem oder getrocknetem Wiesen- und Weidefutter nach Anhang 5 Ziffer 1 bestehen:[^71-1]
+Der Beitrag für den Verzicht auf Insektizide, Akarizide und Fungizide nach der Blüte bei Dauerkulturen wird pro Hektare in folgenden Bereichen ausgerichtet:
+
+- a. im Obstbau für Obstanlagen nach Artikel 22 Absatz 2 LBV[^70-1];
+- b. im Rebbau;
+- c. im Beerenanbau.
+
+<sup>2</sup> Der Anbau hat unter Verzicht auf den Einsatz von Insektiziden, Akariziden und Fungiziden nach der Blüte zu erfolgen. Erlaubt ist der Einsatz von Pflanzenschutzmitteln, die nach der Bio-Verordnung vom 22. September 1997[^70-2] erlaubt sind.
+
+<sup>3</sup>
+
+Der Kupfereinsatz darf pro Hektare und Jahr nicht überschreiten:
+
+- a. im Reb- und Kernobstbau: 1,5 kg;
+- b.[^70-3] im Steinobst- und im Beerenanbau sowie im Anbau von anderem Obst, ohne Kernobst: 3 kg.
+
+<sup>4</sup> Die Anforderungen nach den Absätzen 2 und 3 müssen auf einer Fläche während vier aufeinanderfolgenden Jahren erfüllt werden.
+
+<sup>5</sup>
+
+Das Stadium «nach der Blüte» ist definiert durch folgende phänologische Stadien gemäss der BBCH-Skala in der «Monografie Entwicklungsstadien mono- und dikotyler Pflanzen»[^70-4]:
+
+- a.[^70-5] im Obstbau, Code 71: beim Kernobst «Fruchtdurchmesser bis 10 mm (Nachblütefruchtfall)», beim Steinobst «Fruchtknoten vergrössert sich (Nachblütefruchtfall)», bei anderem Obst «Beginnendes Fruchtwachstum: Entwicklung erster Basisfrüchte; Abfallen der unbefruchteten Blüten»;
+- b. im Rebbau, Code 73: «Beeren sind schrotkorngross; Trauben beginnen sich abzusenken»;
+- c. im Beerenanbau, Code 71: «Beginnendes Fruchtwachstum: Entwicklung erster Basisfrüchte; Abfallen der unbefruchteten Blüten».
+
+[^70-1]: [SR 910.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10428)
+[^70-2]: [SR 910.18](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10418)
+[^70-3]: Fassung gemäss Ziff. III der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)).
+[^70-4]: Die BBCH-Skala und die phänologischen Stadien können auf Deutsch und Französisch eingesehen werden unter: https://api.agrometeo.ch/storage/uploads/bbch-skala\_deutsch.pdf oder https://api.agrometeo.ch/storage/uploads/bbchshort-1.pdf.
+[^70-5]: Fassung gemäss Ziff. III der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)).
+
+#### Art. 71
+
+**Beitrag für die Bewirtschaftung von Flächen mit Dauerkulturen mit Hilfsmitteln nach der biologischen Landwirtschaft**
+
+<sup>1</sup>
+
+Der Beitrag für die Bewirtschaftung von Flächen mit Dauerkulturen mit Hilfsmitteln nach der biologischen Landwirtschaft wird pro Hektare in folgenden Bereichen ausgerichtet:
+
+- a. im Obstbau für Obstanlagen nach Artikel 22 Absatz 2 LBV[^71-1];
+- b. im Rebbau;
+- c. im Beerenanbau;
+- d. für Permakultur.
+
+<sup>2</sup> Kein Beitrag wird ausgerichtet für Flächen, für die ein Beitrag nach Artikel 66 ausgerichtet wird.
+
+<sup>3</sup> Für den Anbau dürfen nur Pflanzenschutzmittel und Dünger eingesetzt werden, die nach der Bio-Verordnung vom 22. September 1997[^71-2] erlaubt sind.
+
+<sup>4</sup> Die Anforderung nach Absatz 3 muss auf einer Fläche während vier aufeinanderfolgenden Jahren erfüllt werden, es sei denn der Betrieb stellt auf die biologische Landwirtschaft gemäss der Bio-Verordnung um.
+
+<sup>5</sup> Der Beitrag für einen Betrieb wird höchstens für acht Jahre ausgerichtet.
+
+[^71-1]: [SR 910.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10428)
+[^71-2]: [SR 910.18](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10418)
+
+#### Art. 71a
+
+**Beitrag für den Verzicht auf Herbizide im Ackerbau und in Spezialkulturen**
+
+<sup>1</sup>
+
+Der Beitrag für den Verzicht auf Herbizide im Ackerbau und in Spezialkulturen wird pro Hektare ausgerichtet und abgestuft nach den folgenden Hauptkulturen:
+
+- a. Raps, Kartoffeln und Freiland-Konservengemüse;
+- b. Spezialkulturen ohne Tabak und ohne die Wurzeln der Treibzichorie;
+- c. Hauptkulturen der übrigen offenen Ackerfläche.
+
+<sup>2</sup>
+
+Kein Beitrag nach Absatz 1 wird ausgerichtet für:
+
+- a.[^71a-1] Biodiversitätsförderflächen nach Artikel 55, mit Ausnahme von Getreide in weiter Reihe und Rebflächen mit natürlicher Artenvielfalt;
+- b. Nützlingsstreifen auf offener Ackerfläche nach Artikel 71*b* Absatz 1 Buchstabe a;
+- c. den Anbau von Pilzen;
+- d. Kulturen in ganzjährig geschütztem Anbau.
+
+<sup>3</sup>
+
+Auf der ganzen Fläche muss wie folgt auf den Einsatz von Herbiziden verzichtet werden:
+
+- a.
+
+  bei Hauptkulturen nach Absatz 1 Buchstaben a und c:
+
+  - 1\. pro Hauptkultur auf dem Betrieb gesamthaft, und
+  - 2\. von der Ernte der vorangehenden Hauptkultur bis zur Ernte der beitragsberechtigten Kultur;
+
+- b.
+
+  bei Spezialkulturen nach Absatz 1 Buchstabe b:
+
+  - 1\. bei Dauerkulturen: auf der Fläche während vier aufeinanderfolgenden Jahren,
+  - 2\. bei einjährigen Freilandgemüse, einjährigen Beerenkulturen sowie einjährigen Gewürz- und Medizinalpflanzen: auf der Fläche während eines Jahres.
+
+<sup>4</sup>
+
+Der Herbizideinsatz ist erlaubt:
+
+- a. in Dauerkulturen: bei gezielter Behandlung mit Blattherbiziden direkt um den Stock beziehungsweise um den Stamm;
+- b.
+
+  in Kulturen nach Absatz 1, ohne Dauerkulturen, Zuckerrüben und Kartoffeln:
+
+  - 1\. bei Einzelstockbehandlung, und
+  - 2\. bei Behandlung in den Reihen (Bandbehandlung) ab der Saat auf maximal 50 Prozent der Fläche;
+
+- c.
+
+  bei Zuckerrüben:
+
+  - 1\. bei Einzelstockbehandlung, und
+  - 2\. bei Bandbehandlung ab der Saat auf maximal 50 Prozent der Fläche oder ab der Saat bis zum 4-Blatt-Stadium;
+
+- d.
+
+  bei Kartoffeln:
+
+  - 1\. bei Einzelstockbehandlung,
+  - 2\. bei Bandbehandlung ab der Saat auf maximal 50 Prozent der Fläche, und
+  - 3\. zur Eliminierung der Stauden.
+
+[^71a-1]: Fassung gemäss Ziff. III der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)).
+
+### 4. Abschnitt: Beitrag für die funktionale Biodiversität in Form eines Beitrags für Nützlingsstreifen
+
+[^tit2-chap5-sec4-1]
+
+[^tit2-chap5-sec4-1]: Eingefügt durch Ziff. I der V vom 13. April 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
+
+#### Art. 71b
+
+<sup>1</sup>
+
+Der Beitrag für die funktionale Biodiversität wird als Beitrag für Nützlingsstreifen pro Hektare in der Tal- und Hügelzone ausgerichtet und abgestuft nach:
+
+- a. Nützlingsstreifen auf offener Ackerfläche;
+- b.
+
+  Nützlingsstreifen in folgenden Dauerkulturen:
+
+  - 1\. Reben,
+  - 2\. Obstanlagen,
+  - 3\. Beerenkulturen,
+  - 4\. Permakultur.
+
+<sup>2</sup> Für Nützlingsstreifen in Dauerkulturen werden nur für 5 Prozent der Fläche der Dauerkultur Beiträge ausgerichtet.
+
+<sup>3</sup>
+
+Kein Beitrag wird ausgerichtet für Nützlingsstreifen nach Absatz 1 Buchstabe b in:
+
+- a. Rebflächen mit natürlicher Artenvielfalt nach Artikel 55 Absatz 1 Buchstabe n;
+- b. regionsspezifischen Biodiversitätsförderflächen nach Artikel 55 Absatz 1 Buchstabe p.
+
+<sup>4</sup> Die Nützlingsstreifen müssen vor dem 15. Mai angesät werden.
+
+<sup>5</sup> Es dürfen nur Saatmischungen verwendet werden, die vom BLW bewilligt wurden. Für Nützlingsstreifen in Dauerkulturen dürfen nur Saatmischungen für mehrjährige Nützlingsstreifen verwendet werden.
+
+<sup>6</sup>
+
+Die Nützlingsstreifen müssen wie folgt angesät werden:
+
+- a. Nützlingsstreifen auf offener Ackerfläche: auf einer Breite von mindestens 3 und höchstens 6 Metern;
+- b. Nützlingsstreifen in Dauerkulturen: zwischen den Reihen.
+
+<sup>7</sup>
+
+Sie müssen in folgender Frequenz angesät werden:
+
+- a.
+
+  Nützlingsstreifen auf offener Ackerfläche:
+
+  - 1\. einjährige Nützlingsstreifen: jährlich neu,
+  - 2\. mehrjährige Nützlingsstreifen: jedes vierte Jahr neu;
+
+- b. Nützlingsstreifen in Dauerkulturen: jedes vierte Jahr neu.
+
+<sup>8</sup>
+
+Sie müssen bedecken:
+
+- a. Nützlingsstreifen auf offener Ackerfläche: während mindestens 100 Tagen ohne Schnitt die ganze Länge der Ackerkultur;
+- b. Nützlingsstreifen in Dauerkulturen: während vier aufeinanderfolgenden Jahren am selben Ort insgesamt mindestens 5 Prozent der Fläche der Dauerkultur.
+
+<sup>9</sup>
+
+In den Nützlingsstreifen sind die Düngung und der Einsatz von Pflanzenschutzmitteln nicht erlaubt. Zulässig sind nur Einzelstock- oder Nesterbehandlungen von Problempflanzen mit:
+
+- a. Nützlingsstreifen auf offener Ackerfläche: Herbiziden, die gestützt auf die PSMV[^71b-1] für die Anwendung auf Biodiversitätsförderflächen auf offener Ackerfläche zugelassen sind;
+- b. Nützlingsstreifen in Dauerkulturen: allen gestützt auf die PSMV im Obstbau und Weinbau zugelassenen Herbiziden.
+
+<sup>10</sup> In Dauerkulturen dürfen in den Reihen, in denen ein Nützlingsstreifen besteht, zwischen dem 15. Mai und dem 15. September nur Insektizide nach der Bio-Verordnung vom 22. September 1997[^71b-2] mit Ausnahme von Spinosad ausgebracht werden.
+
+<sup>11</sup> Nur die Nützlingsstreifen in Dauerkulturen dürfen befahren werden.
+
+<sup>12</sup>
+
+Nützlingsstreifen dürfen wie folgt geschnitten werden:
+
+- a. mehrjähriger Nützlingsstreifen auf offener Ackerfläche: ab dem zweiten Standjahr maximal die Hälfte der Fläche zwischen dem 1. Oktober und dem 1. März;
+- b. Nützlingsstreifen in Dauerkulturen: alternierend die Hälfte der Fläche, wobei der zeitliche Abstand zwischen zwei Schnitten derselben Fläche mindestens sechs Wochen betragen muss.
+
+[^71b-1]: [SR 916.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10643)
+[^71b-2]: [SR 910.18](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10418)
+
+### 5. Abschnitt: Beiträge für die Verbesserung der Bodenfruchtbarkeit
+
+[^tit2-chap5-sec5-1]
+
+[^tit2-chap5-sec5-1]: Eingefügt durch Ziff. I der V vom 13. April 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
+
+#### Art. 71c
+
+**Beitrag für eine angemessene Bedeckung des Bodens**
+
+<sup>1</sup>
+
+Der Beitrag für eine angemessene Bedeckung des Bodens wird pro Hektare ausgerichtet für:
+
+- a. Hauptkulturen auf offener Ackerfläche;
+- b. Reben.
+
+<sup>2</sup>
+
+Der Beitrag für Hauptkulturen auf offener Ackerfläche wird ausgerichtet:
+
+- a. bei einjährigen Freilandgemüse, mit Ausnahme von Freiland-Konservengemüse, bei einjährigen Beeren sowie bei einjährigen Gewürz- und Medizinalpflanzen: wenn gesamtbetrieblich immer mindestens 70 Prozent der entsprechenden Fläche mit einer Kultur oder einer Zwischenkultur bedeckt sind;
+- b.
+
+  bei den anderen Hauptkulturen auf der offenen Ackerfläche:
+
+  - 1\. wenn nach deren Ernte auf dem gesamten Betrieb innerhalb von sieben Wochen eine weitere Kultur, eine Winterkultur, Zwischenkultur oder Gründüngung angelegt wird, wobei Untersaaten als Kulturen zählen und Flächen mit Hauptkulturen, die nach dem 30. September geerntet werden, ausgenommen sind, und
+  - 2\.[^71c-1] wenn bis zum 15. Februar des folgenden Jahres keine Bodenbearbeitung auf den Flächen erfolgt, die mit Kulturen, Zwischenkulturen und Gründüngung belegt sind, wobei Flächen, die nach Artikel 71*d* Absatz 2 Buchstabe a Ziffer 2 angemeldet sind oder auf denen noch eine Winterkultur angelegt wird, ausgenommen sind.
+
+<sup>3</sup>
+
+Der Beitrag für Reben wird ausgerichtet, wenn:
+
+- a. gesamtbetrieblich immer mindestens 70 Prozent der Rebfläche begrünt sind;
+- b. Traubentrester auf die Rebfläche des Betriebs zurückgebracht und verteilt wird.
+
+<sup>4</sup> Die Traubentrestermenge nach Absatz 3 Buchstabe b muss mindestens der Menge entsprechen, die aus dem Traubenertrag auf dem Betrieb anfällt.
+
+<sup>5</sup> …[^71c-2]
+
+[^71c-1]: Fassung gemäss Ziff. III der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)).
+[^71c-2]: Aufgehoben durch Ziff. III der V vom 2. Nov. 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)).
+
+#### Art. 71d
+
+**Beitrag für die schonende Bodenbearbeitung von Hauptkulturen auf der Ackerfläche**
+
+<sup>1</sup> Der Beitrag für die schonende Bodenbearbeitung von Hauptkulturen auf der Ackerfläche wird pro Hektare ausgerichtet für die Bodenbearbeitung bei Direktsaat, bei Streifenfrässaat oder Streifensaat (Strip-Till) oder bei Mulchsaat.
+
+<sup>2</sup>
+
+Der Beitrag wird ausgerichtet, wenn:
+
+- a.
+
+  folgende Anforderungen erfüllt sind:
+
+  - 1\. bei Direktsaat: höchstens 25 Prozent der Bodenoberfläche während der Saat bewegt,
+  - 2\. bei Streifenfrässaat oder Streifensaat: höchstens 50 Prozent der Bodenoberfläche vor oder während der Saat bearbeitet,
+  - 3\. bei Mulchsaat: pfluglose Bearbeitung des Bodens;
+
+- b. …[^71d-1]
+- c.[^71d-2] die zum Beitrag berechtigende Fläche mindestens 60 Prozent der offenen Ackerfläche des Betriebs ohne Flächen nach Artikel 55 Absatz 1 Buchstabe h, i und k umfasst;
+- d. von der Ernte der vorangehenden Hauptkultur bis zur Ernte der beitragsberechtigten Kultur der Pflug nicht eingesetzt wird; und
+- e. beim Einsatz von Glyphosat die Menge von 1,5 kg Wirkstoff pro Hektare nicht überschritten wird.
+
+<sup>2bis</sup>
+
+Für die Saatbeetbereitung der Mulchsaat darf ein Pflug zur Unkrautregulierung eingesetzt werden, wenn:
+
+- a. die Bearbeitungstiefe von 10 cm nicht überschritten wird; und
+- b. ab der Ernte der vorangehenden Hauptkultur bis zur Ernte der zu Beiträgen berechtigenden Kultur auf den Einsatz von Herbiziden verzichtet wird.[^71d-3]
+
+<sup>3</sup>
+
+Keine Beiträge werden ausgerichtet für das Anlegen von:
+
+- a. Kunstwiesen mit Mulchsaat;
+- b. Zwischenkulturen;
+- c. Weizen oder Triticale nach Mais.
+
+<sup>4</sup> …[^71d-4]
+
+[^71d-1]: Tritt am 1. Jan. 2024 in Kraft ([AS 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264), [737](https://fedlex.data.admin.ch/eli/oc/2022/737)Ziff. III).
+[^71d-2]: Fassung gemäss Ziff. III der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)).
+[^71d-3]: Eingefügt durch Ziff. III der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)).
+[^71d-4]: Aufgehoben durch Ziff. III der V vom 2. Nov. 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)).
+
+### 6. Abschnitt: Beitrag für Klimamassnahmen in Form eines Beitrags für den effizienten Stickstoffeinsatz im Ackerbau
+
+[^tit2-chap5-sec6-1]
+
+[^tit2-chap5-sec6-1]: Eingefügt durch Ziff. I der V vom 13. April 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
+
+#### Art. 71e
+
+<sup>1</sup> Der Beitrag für Klimamassnahmen wird als Beitrag für den effizienten Stickstoffeinsatz auf der Ackerfläche pro Hektare ausgerichtet.
+
+<sup>2</sup> Er wird ausgerichtet, wenn gesamtbetrieblich die Zufuhr an Stickstoff 90 Prozent des Bedarfs der Kulturen nicht übersteigt. Für die Bilanzierung gilt die Methode «Suisse-Bilanz» nach der Wegleitung Suisse-Bilanz. Anwendbar sind die Versionen der «Wegleitung Suisse-Bilanz»[^71e-1] mit Geltung ab dem 1. Januar des jeweiligen Jahres und mit Geltung ab dem 1. Januar des vorangehenden Jahres. Der Bewirtschafter oder die Bewirtschafterin kann wählen, welche der Versionen er oder sie einhalten will.
+
+[^71e-1]: Die jeweils geltenden Versionen der Wegleitung sind abrufbar unter www.blw.admin.ch &gt; Themen &gt; Direktzahlungen &gt; Ökologischer Leistungsnachweis &gt; Ausgeglichene Düngerbilanz und Bodenuntersuchungen (DZV Art. 13).
+
+### 7. Abschnitt: Beitrag für die graslandbasierte Milch- und Fleischproduktion
+
+[^tit2-chap5-sec7-1]
+
+[^tit2-chap5-sec7-1]: Ursprünglich: 4. Abschnitt.
+
+#### Art. 71f
+
+**Beitrag**[^71f-1]
+
+Der Beitrag für die graslandbasierte Milch- und Fleischproduktion wird pro Hektare Grünfläche ausgerichtet.
+
+[^71f-1]: Ursprünglich: Art. 70.
+
+#### Art. 71g
+
+**Voraussetzungen und Auflagen**[^71g-1]
+
+<sup>1</sup>
+
+Der Beitrag wird ausgerichtet, wenn die Jahresration aller gehaltenen raufutterverzehrenden Nutztiere nach Artikel 37 Absätze 1–4 zu mindestens 90 Prozent der Trockensubstanz (TS) aus Grundfutter nach Anhang 5 Ziffer 1 besteht. Zudem muss die Jahresration zu folgenden Mindestanteilen aus frischem, siliertem oder getrocknetem Wiesen- und Weidefutter nach Anhang 5 Ziffer 1 bestehen:[^71g-2]
 
 - a. im Talgebiet: 75 Prozent der TS;
 - b. im Berggebiet: 85 Prozent der TS.
@@ -1189,30 +1599,30 @@ Der Beitrag wird ausgerichtet, wenn die Jahresration aller gehaltenen raufutterv
 
 <sup>4</sup> Die Anforderungen an den Betrieb, die Dokumentation und die Kontrolle sind in Anhang 5 Ziffern 2–4 festgelegt.
 
-[^71-1]: Fassung gemäss Ziff. I der V vom 29. Okt. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)).
+[^71g-1]: Ursprünglich: Art. 71.
+[^71g-2]: Fassung gemäss Ziff. I der V vom 29. Okt. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)).
 
-### 5. Abschnitt: Tierwohlbeiträge
+### 8. Abschnitt: Tierwohlbeiträge
+
+[^tit2-chap5-sec8-1]
+
+[^tit2-chap5-sec8-1]: Ursprünglich: 5. Abschnitt
 
 #### Art. 72
 
 **Beiträge**[^72-1]
 
-<sup>1</sup>
+<sup>1</sup> Tierwohlbeiträge werden pro GVE und Tierkategorie ausgerichtet.
 
-Es werden folgende Arten von Tierwohlbeiträgen ausgerichtet:
+<sup>2</sup> Der Beitrag für eine Tierkategorie wird ausgerichtet, wenn alle zu ihr gehörenden Tiere nach den Anforderungen von Artikel 74, 75 oder 75*a* sowie den entsprechenden Anforderungen nach Anhang 6 gehalten werden.
 
-- a. Beitrag für besonders tierfreundliche Stallhaltungssysteme (BTS-Beitrag);
-- b. Beitrag für regelmässigen Auslauf im Freien (RAUS-Beitrag).
+<sup>3</sup> Kein RAUS-Beitrag nach Artikel 75 wird für Tierkategorien ausgerichtet, für die der Weidebeitrag nach Artikel 75*a* ausgerichtet wird.
 
-<sup>2</sup> Tierwohlbeiträge werden pro Grossvieheinheit (GVE) und Tierkategorie ausgerichtet.
+<sup>4</sup> Kann eine Anforderung nach Artikel 74, 75 oder 75*a* oder nach Anhang 6 aufgrund einer behördlichen Anordnung oder einer befristeten schriftlichen Therapieanordnung eines Tierarztes oder einer Tierärztin nicht eingehalten werden, so werden die Beiträge nicht gekürzt.
 
-<sup>3</sup> Der Beitrag für eine Tierkategorie wird ausgerichtet, wenn alle zu ihr gehörenden Tiere nach den entsprechenden Anforderungen der Artikel 74 und 75 sowie von Anhang 6 gehalten werden.
+<sup>5</sup> Kann ein Bewirtschafter oder eine Bewirtschafterin bei einer neu für einen Tierwohlbeitrag angemeldeten Tierkategorie die Anforderungen am 1. Januar des Beitragsjahres nicht erfüllen, so richtet der Kanton auf Gesuch hin 50 Prozent der Beiträge aus, wenn der Bewirtschafter oder die Bewirtschafterin die Anforderungen spätestens ab dem 1. Juli erfüllt.
 
-<sup>4</sup> Kann eine Anforderung nach Artikel 74 oder 75 oder nach Anhang 6 aufgrund eines behördlichen Erlasses oder einer befristeten schriftlichen Therapieanordnung eines Tierarztes oder einer Tierärztin nicht eingehalten werden, so werden die Beiträge nicht gekürzt.
-
-<sup>5</sup> Kann ein Bewirtschafter oder eine Bewirtschafterin bei einer neu für einen Tierwohlbeitrag angemeldeten Tierkategorie die Anforderungen am 1. Januar des Beitragsjahres nicht erfüllen, so richtet der Kanton auf Gesuch hin 50 Prozent der Beiträge aus, wenn der Bewirtschafter oder die Bewirtschafterin die Anforderungen spätestens ab dem 1. Juli einhält.
-
-[^72-1]: Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)).
+[^72-1]: Fassung gemäss Ziff. I der V vom 13. April 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
 
 #### Art. 73
 
@@ -1317,18 +1727,29 @@ Als besonders tierfreundliche Stallhaltungssysteme gelten ganz oder teilweise ge
 
 **RAUS-Beitrag**[^75-1]
 
-<sup>1</sup> Als regelmässiger Auslauf ins Freie gilt der Zugang nach den spezifischen Regeln nach Anhang 6 zu einem Bereich unter freiem Himmel.
+<sup>1</sup> Als regelmässiger Auslauf ins Freie gilt der Zugang nach den spezifischen Regeln nach Anhang 6 Buchstabe B zu einem Bereich unter freiem Himmel.
 
-<sup>2</sup> Der RAUS-Beitrag wird ausgerichtet für die Tierkategorien nach Artikel 73 Buchstaben a–e sowie Buchstaben g und h.
+<sup>2</sup> Der RAUS-Beitrag wird ausgerichtet für die Tierkategorien nach Artikel 73 Buchstaben a–e, g und h.
 
-<sup>2bis</sup> Für die Tierkategorien nach Artikel 73 Buchstabe a Ziffern 4–9 wird ein Zusatzbeitrag ausgerichtet, wenn allen Tieren der betreffenden Kategorie der Auslauf ausschliesslich nach Anhang 6 Buchstabe B Ziffer 2.1 gewährt wird.[^75-2]
-
-<sup>3</sup> Die Tiere der Kategorien nach Artikel 73 Buchstaben a–d und h müssen an den Tagen, an denen ihnen nach Anhang 6 Auslauf auf einer Weide zu gewähren ist, einen wesentlichen Anteil ihres Tagesbedarfs an Trockensubstanz durch Weidefutter decken können.
+<sup>3</sup> Die Tiere der Kategorien nach Artikel 73 Buchstaben b–d und h müssen an den Tagen, an denen ihnen nach Anhang 6 Buchstabe B Auslauf auf einer Weide zu gewähren ist, einen wesentlichen Anteil ihres Tagesbedarfs an Trockensubstanz durch Weidefutter decken können.
 
 <sup>4</sup> Für die Tierkategorie nach Artikel 73 Buchstabe g Ziffer 4 wird der RAUS-Beitrag nur ausgerichtet, wenn alle Tiere während mindestens 56 Tagen gemästet werden.
 
-[^75-1]: Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)).
-[^75-2]: Eingefügt durch Ziff. I der V vom 31. Okt. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)).
+[^75-1]: Fassung gemäss Ziff. I der V vom 13. April 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
+
+#### Art. 75a
+
+**Weidebeitrag**[^75a-1]
+
+<sup>1</sup> Als besonders hoher Auslauf- und Weideanteil gilt der Zugang nach den spezifischen Regeln nach Anhang 6 Buchstabe C zu einem Bereich unter freiem Himmel.
+
+<sup>2</sup> Der Weidebeitrag wird ausgerichtet für die Tierkategorien nach Artikel 73 Buchstabe a.
+
+<sup>3</sup> Die Tiere müssen an den Tagen, an denen ihnen nach Anhang 6 Buchstabe C Ziffer 2.1 Buchstabe a Auslauf auf einer Weide zu gewähren ist, einen besonders hohen Anteil ihres Tagesbedarfs an Trockensubstanz durch Weidefutter decken können.
+
+<sup>4</sup> Der Beitrag wird nur ausgerichtet, wenn den Tieren aller Tierkategorien nach Artikel 73 Buchstabe a, für die kein Weidebeitrag ausgerichtet wird, Auslauf nach Artikel 75 Absatz 1 gewährt wird.
+
+[^75a-1]: Eingefügt durch Ziff. I der V vom 13. April 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
 
 #### Art. 76
 
@@ -1362,117 +1783,35 @@ Sie enthalten:
 
 [^76a-1]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)).
 
-### 6. Kapitel: Ressourceneffizienzbeiträge
+### 9. Abschnitt: Beitrag für die längere Nutzungsdauer von Kühen
 
-### 1. Abschnitt: Beitrag für emissionsmindernde Ausbringverfahren
+[^tit2-chap5-sec9-1]
+
+[^tit2-chap5-sec9-1]: Eingefügt durch Ziff. I der V vom 13. April 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
 
 #### Art. 77
 
-**Beitrag**
+[^77-1]
 
-<sup>1</sup> Der Beitrag für die emissionsmindernde Ausbringung von flüssigen Hof- und Recyclingdüngern wird pro Hektare und Gabe ausgerichtet.
+[^77-1]: Aufgehoben durch Ziff. I der V vom 2. Nov. 2022, mit Wirkung vom 1. Jan. 2023 bis zum 31. Dez. 2023 ([AS 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)).
 
-<sup>2</sup>
+#### Art. 78–81
 
-Als emissionsmindernde Ausbringverfahren gelten:
+[^7881-1]
 
-- a. der Einsatz eines Schleppschlauchs;
-- b. der Einsatz eines Schleppschuhs;
-- c. Gülledrill;
-- d. tiefe Gülleinjektion.
+[^7881-1]: Aufgehoben durch Ziff. I der V vom 13. April 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
 
-<sup>3</sup> Die Beiträge werden bis 2021 ausgerichtet.[^77-1]
+### 6. Kapitel: Ressourceneffizienzbeiträge
 
-[^77-1]: Fassung gemäss Ziff. II der V vom 12. Febr. 2020, in Kraft seit 1. Jan. 2020 ([AS 2020 793](https://fedlex.data.admin.ch/eli/oc/2020/146)).
+[^tit2-chap6-1]
 
-#### Art. 78
+[^tit2-chap6-1]: Ursprünglich: vor Art 77.
 
-**Voraussetzungen und Auflagen**
+### 1. Abschnitt: Beitrag für den Einsatz von präziser Applikationstechnik
 
-<sup>1</sup> Pro Fläche berechtigen maximal vier Güllegaben pro Jahr zu Beiträgen. Berücksichtigt wird der Zeitraum vom 1. September des Vorjahres bis zum 31. August des Beitragsjahres.
+[^tit2-chap6-sec1-1]
 
-<sup>2</sup> Für Güllegaben zwischen dem 15. November und dem 15. Februar werden keine Beiträge gewährt.
-
-<sup>3</sup> Pro Hektare und Gabe mit emissionsmindernden Ausbringverfahren ausgebrachte flüssige Hof- und Recyclingdünger werden 3 kg verfügbarer Stickstoff in der «Suisse-Bilanz» angerechnet. Massgebend für die Anrechnung ist die Flächenanmeldung des entsprechenden Beitragsjahres sowie die «Wegleitung Suisse-Bilanz»[^78-1] des BLW. Anwendbar sind die Versionen der Wegleitung mit Geltung ab dem 1. Januar des jeweiligen Jahres und mit Geltung ab dem 1. Januar des vorangehenden Jahres. Der Bewirtschafter oder die Bewirtschafterin kann wählen, welche der Versionen er oder sie einhalten will.[^78-2]
-
-<sup>4</sup>
-
-Der Bewirtschafter oder die Bewirtschafterin verpflichtet sich, pro Fläche folgende Aufzeichnungen zu führen:[^78-3]
-
-- a. Datum der Ausbringung;
-- b. gedüngte Fläche;
-- c.[^78-4] …
-
-<sup>5</sup> Der Kanton bestimmt, in welcher Form die Aufzeichnungen geliefert werden müssen.
-
-[^78-1]: Die jeweils geltenden Versionen der Wegleitung sind abrufbar unter www.blw.admin.ch &gt; Instrumente &gt; Direktzahlungen &gt; Ökologischer Leistungsnachweis &gt; Ausgeglichene Düngerbilanz und Bodenuntersuchungen (DZV Art. 13).
-[^78-2]: Fassung gemäss Ziff. I der V vom 11. Nov. 2020, in Kraft seit 1. Jan. 2020 ([AS 2020 5449](https://fedlex.data.admin.ch/eli/oc/2020/951)).
-[^78-3]: Fassung gemäss Ziff. I der V vom 16. Sept. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)).
-[^78-4]: Aufgehoben durch Ziff. I der V vom 16. Sept. 2016, mit Wirkung seit 1. Jan. 2017 ([AS 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)).
-
-### 2. Abschnitt: Beitrag für schonende Bodenbearbeitung
-
-#### Art. 79
-
-**Beitrag**
-
-<sup>1</sup> Der Beitrag für die schonende Bodenbearbeitung von Hauptkulturen auf der Ackerfläche wird pro Hektare ausgerichtet.
-
-<sup>2</sup>
-
-Als schonende Bodenbearbeitung gelten die:
-
-- a. Direktsaat, wenn höchstens 25 Prozent der Bodenoberfläche während der Saat bewegt werden;
-- b. Streifenfrässaat und Strip-Till (Streifensaat), wenn höchstens 50 Prozent der Bodenoberfläche vor oder während der Saat bearbeitet werden;
-- c.[^79-1] Mulchsaat, wenn eine pfluglose Bearbeitung des Bodens erfolgt.
-
-<sup>3</sup>
-
-Keine Beiträge werden ausgerichtet für das Anlegen von:
-
-- a. Kunstwiesen mit Mulchsaat;
-- b. Gründüngungen und Zwischenkulturen;
-- c. Weizen oder Triticale nach Mais.
-
-<sup>4</sup> Die Beiträge werden bis 2022 ausgerichtet.[^79-2]
-
-[^79-1]: Fassung gemäss Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)).
-[^79-2]: Fassung gemäss Ziff. I der V vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5449](https://fedlex.data.admin.ch/eli/oc/2020/951)).
-
-#### Art. 80
-
-**Voraussetzungen und Auflagen**
-
-<sup>1</sup> Zur Verminderung von Risiken durch Krankheiten, Unkräuter und Schädlinge sind vorsorgliche Massnahmen wie angepasste Fruchtfolgen, geeignete Sorten und das Mulchen von Ernterückständen auf dem Feld zu treffen.
-
-<sup>2</sup> Von der Ernte der vorangehenden Hauptkultur bis zur Ernte der beitragsberechtigten Hauptkultur nach Artikel 79 darf der Pflug nicht eingesetzt werden und der Glyphosateinsatz darf 1,5 kg Wirkstoff pro Hektare nicht überschreiten. Wird der Zusatzbeitrag nach Artikel 81 beantragt, so darf für die Saatbeetbereitung der Mulchsaat ein Pflug zur Unkrautregulierung eingesetzt werden, sofern die Bearbeitungstiefe von 10 cm nicht überschritten wird.[^80-1]
-
-<sup>3</sup>
-
-Der Bewirtschafter oder die Bewirtschafterin verpflichtet sich, pro Fläche folgende Aufzeichnungen zu führen:[^80-2]
-
-- a. Art der schonenden Bodenbearbeitung;
-- b.[^80-3] Hauptkultur und vorangehende Hauptkultur;
-- c.[^80-4] …
-- d. Herbizideinsatz;
-- e. Fläche;
-- f.[^80-5] …
-
-<sup>4</sup> Der Kanton bestimmt, in welcher Form die Aufzeichnungen geliefert werden müssen.
-
-[^80-1]: Fassung gemäss Ziff. I der V vom 29. Okt. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)).
-[^80-2]: Fassung gemäss Ziff. I der V vom 16. Sept. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)).
-[^80-3]: Fassung gemäss Ziff. I der V vom 16. Sept. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)).
-[^80-4]: Aufgehoben durch Ziff. I der V vom 16. Sept. 2016, mit Wirkung seit 1. Jan. 2017 ([AS 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)).
-[^80-5]: Aufgehoben durch Ziff. I der V vom 16. Sept. 2016, mit Wirkung seit 1. Jan. 2017 ([AS 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)).
-
-#### Art. 81
-
-**Zusatzbeitrag für den Verzicht auf Herbizid**
-
-Für Flächen, für die ein Beitrag nach den Artikeln 79 und 80 ausgerichtet wird, wird ein Zusatzbeitrag pro Hektare und Jahr bezahlt, sofern ab der Ernte der vorangehenden Hauptkultur bis zur Ernte der beitragsberechtigten Hauptkultur auf den Einsatz von Herbiziden verzichtet wird.
-
-### 3. Abschnitt: Beitrag für den Einsatz von präziser Applikationstechnik
+[^tit2-chap6-sec1-1]: Ursprünglich: 3. Abschnitt.
 
 #### Art. 82
 
@@ -1497,34 +1836,24 @@ Als driftreduzierende Spritzgeräte gelten:
 
 <sup>5</sup> Driftreduzierende Spritzgeräte sind so konzipiert oder ausgerüstet, dass auch ohne den Einsatz von driftreduzierenden Düsen mindestens 50 Prozent der Drift reduziert wird.
 
-<sup>6</sup> Die Beiträge werden bis 2022 ausgerichtet.[^82-3]
+<sup>6</sup> Die Beiträge werden bis 2024 ausgerichtet.[^82-3]
 
 [^82-1]: Fassung gemäss Ziff. I der V vom 29. Okt. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)).
 [^82-2]: Fassung gemäss Ziff. I der V vom 29. Okt. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)).
-[^82-3]: Fassung gemäss Ziff. I der V vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5449](https://fedlex.data.admin.ch/eli/oc/2020/951)).
-
-### 4. Abschnitt:**** Beitrag für die Ausrüstung von Spritzen mit einem Spülsystem mit separatem Spülwasserkreislauf zur Reinigung von Geräten für das Ausbringen von Pflanzenschutzmitteln
-
-[^tit2-chap6-sec4-1]
-
-[^tit2-chap6-sec4-1]: Eingefügt durch Ziff. I der V vom 16. Sept. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)).
+[^82-3]: Fassung gemäss Ziff. I der V vom 13. April 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
 
 #### Art 82a
 
-<sup>1</sup>
+[^82a-1]
 
-Für die Ausrüstung von vorhandenen und neu angeschafften Feld- und Gebläsespritzen mit einem Spülsystem mit separatem Spülwasserkreislauf wird ein einmaliger Beitrag pro Spritze ausgerichtet, sofern:
+[^82a-1]: Eingefügt durch Ziff. I der V vom 16. Sept. 2016 ([AS 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)). Aufgehoben durch Ziff. I der V vom 13. April 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
 
-- a. das Spülsystem den Spritzbrühetank inwendig mittels einer zusätzlichen Pumpe und Reinigungsdüsen spült;
-- b. von Beginn bis Ende des Spülvorgangs keine manuelle Einstellung getätigt wird und der Spülvorgang selbstständig erfolgt.
+### 2. Abschnitt: Beitrag für die stickstoffreduzierte Phasenfütterung von Schweinen
 
-<sup>2</sup> Die Beiträge werden bis 2022 ausgerichtet.
+[^tit2-chap6-sec2-1][^tit2-chap6-sec2-2]
 
-### 5. Abschnitt:**** Beitrag für die stickstoffreduzierte Phasenfütterung von Schweinen
-
-[^tit2-chap6-sec5-1]
-
-[^tit2-chap6-sec5-1]: Eingefügt durch Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)).
+[^tit2-chap6-sec2-1]: Ursprünglich: 5. Abschnitt. Eingefügt durch Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)).
+[^tit2-chap6-sec2-2]: Fassung gemäss Ziff. I der V vom 13. April 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
 
 #### Art. 82b
 
@@ -1532,132 +1861,40 @@ Für die Ausrüstung von vorhandenen und neu angeschafften Feld- und Gebläsespr
 
 <sup>1</sup> Der Beitrag für die stickstoffreduzierte Phasenfütterung von Schweinen wird pro GVE nach Ziffer 7 des Anhangs der LBV[^82b-1] ausgerichtet.
 
-<sup>2</sup> Die Beiträge werden bis 2022 ausgerichtet.[^82b-2]
+<sup>2</sup> Die Beiträge werden bis 2026 ausgerichtet.[^82b-2]
 
-[^82b-1]: [SR 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
-[^82b-2]: Fassung gemäss Ziff. I der V vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 (AS **202****0** 5449).
+[^82b-1]: [SR 910.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10428)
+[^82b-2]: Fassung gemäss Ziff. I der V vom 13. April 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
 
 #### Art. 82c
 
-**Voraussetzungen und Auflagen**
+**Voraussetzungen und Auflagen**[^82c-1]
 
-<sup>1</sup> Die Futterration muss einen an den Bedarf der Tiere angepassten Nährwert aufweisen. Die gesamte Futterration aller auf dem Betrieb gehaltenen Schweine darf den durchschnittlichen Rohproteingehalt von 11 Gramm pro Megajoule verdauliche Energie Schwein (g/MJ VES) nicht überschreiten. Bei Biobetrieben darf ein durchschnittlicher Rohproteingehalt von 12,8 g/MJ VES nicht überschritten werden.[^82c-1]
+<sup>1</sup> Die Futterration muss einen an den Bedarf der Tiere angepassten Nährwert aufweisen. Die gesamten Futterrationen aller auf dem Betrieb gehaltenen Schweine dürfen den nach Anhang 6*a* Ziffern 2 und 3 festgelegten betriebsspezifischen Grenzwert an Rohprotein in Gramm pro Megajoule verdauliche Energie Schwein (g/MJ VES) nicht überschreiten.
 
-<sup>2</sup> Der Bewirtschafter oder die Bewirtschafterin verpflichtet sich, die Aufzeichnungen gemäss den Weisungen zur Berücksichtigung von nährstoffreduziertem Futter in der Suisse-Bilanz zu führen. Anwendbar sind die Versionen der «Wegleitung Suisse-Bilanz»[^82c-2] mit Geltung ab dem 1. Januar des jeweiligen Jahres und mit Geltung ab dem 1. Januar des vorangehenden Jahres. Der Bewirtschafter oder die Bewirtschafterin kann wählen, welche der Versionen er oder sie einhalten will.[^82c-3]
+<sup>2</sup> In der Schweinemast müssen während der Mastdauer mindestens zwei Futterrationen mit unterschiedlichem Gehalt an Rohprotein in g/MJ VES eingesetzt werden. Die in der Endmastphase eingesetzte Futterration muss, bezogen auf die Trockensubstanz, mindestens 30 Prozent der während der Mastdauer eingesetzten Futtermittel ausmachen.
 
-[^82c-1]: Fassung gemäss Ziff. I der V vom 31. Okt. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)).
-[^82c-2]: Die jeweils geltenden Versionen der Wegleitung sind abrufbar unter www.blw.admin.ch &gt; Instrumente &gt; Direktzahlungen &gt; Ökologischer Leistungsnachweis &gt; Ausgeglichene Düngerbilanz und Bodenuntersuchungen (DZV Art. 13).
-[^82c-3]: Fassung gemäss Ziff. I der V vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5449](https://fedlex.data.admin.ch/eli/oc/2020/951)).
+<sup>3</sup> Der zur Berechnung des Grenzwerts massgebende Bestand an Schweinen wird nach Anhang 6*a* Ziffer 1 ermittelt.
 
-### 6. Abschnitt:**** Beitrag für die Reduktion von Pflanzenschutzmitteln im Obstbau, im Rebbau und im Zuckerrübenanbau
+<sup>4</sup> Die Aufzeichnungen zu Fütterung und Futtermitteln und die Überprüfung der Einhaltung des Grenzwerts richten sich nach Anhang 6*a* Ziffern 4 und 5.
 
-[^tit2-chap6-sec6-1]
+[^82c-1]: Fassung gemäss Ziff. I der V vom 13. April 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
 
-[^tit2-chap6-sec6-1]: Eingefügt durch Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)).
+#### Art. 82d–82g
 
-#### Art. 82d
+[^82d82g-1]
 
-**Beitrag**
+[^82d82g-1]: Eingefügt durch Ziff. I der V vom 18. Okt. 2017 ([AS 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)). Aufgehoben durch Ziff. I der V vom 13. April 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
 
-<sup>1</sup>
+### 6*a*. Kapitel: Koordination mit Ressourcenprogrammen nach den Artikeln 77*a* und 77*b* LwG
 
-Der Beitrag für die Reduktion von Pflanzenschutzmitteln wird pro Hektare ausgerichtet:
+[^tit2-chap6-chap6a-1]
 
-- a. im Obstbau für Obstanlagen nach Artikel 22 Absatz 2 LBV[^82d-1];
-- b. im Rebbau;
-- c. im Zuckerrübenanbau.
-
-<sup>2</sup> Kein Beitrag für reduzierten Herbizideinsatz nach Anhang 6*a* Ziffern 1.1, 2.1 und 3.1 wird gewährt für Flächen, für die der Beitrag für biologische Landwirtschaft nach Artikel 66 ausgerichtet wird.
-
-<sup>3</sup>
-
-Der Beitrag für die Reduktion von Pflanzenschutzmitteln im Rebbau wird ausgerichtet für:
-
-- a. den vollständigen Herbizidverzicht nach Anhang 6*a* Ziffer 2.1 Buchstabe b;
-- b. die Kombination zweier Massnahmen nach Anhang 6*a* Ziffer 2.
-
-<sup>4</sup> Die Beiträge werden bis 2022 ausgerichtet.[^82d-2]
-
-[^82d-1]: [SR 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
-[^82d-2]: Fassung gemäss Ziff. I der V vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5449](https://fedlex.data.admin.ch/eli/oc/2020/951)).
-
-#### Art. 82e
-
-**Voraussetzungen und Auflagen**
-
-<sup>1</sup> Auf den angemeldeten Flächen dürfen keine Herbizide, Insektizide und Akarizide mit besonderem Risikopotenzial eingesetzt werden, die im Aktionsplan Pflanzenschutzmittel vom 6. September 2017[^82e-1] aufgeführt sind. Zusätzlich ist der Einsatz von Chloridazon nicht zugelassen.
-
-<sup>2</sup> Auf allen angemeldeten Flächen einer Kultur muss dieselbe Massnahme nach Anhang 6*a* oder dieselbe Kombination solcher Massnahmen umgesetzt werden.
-
-<sup>3</sup> Bewirtschafter und Bewirtschafterinnen, die sich für den Beitrag nach Artikel 82*d* für den Zuckerrübenanbau anmelden, können sich nicht gleichzeitig für den Beitrag für Herbizidverzicht nach Artikel 81 anmelden.
-
-<sup>4</sup>
-
-Der Bewirtschafter oder die Bewirtschafterin muss pro angemeldete Fläche folgende Aufzeichnungen führen:
-
-- a. eingesetzte Pflanzenschutzmittel mit Angabe der Menge;
-- b. Datum der Behandlung.
-
-<sup>5</sup> Der Kanton bestimmt, in welcher Form die Aufzeichnungen geliefert werden müssen.
-
-[^82e-1]: Der Aktionsplan ist abrufbar unter www. blw.admin.ch &gt; Nachhaltige Produktion &gt; Pflanzenschutz &gt; Pflanzenschutzmittel &gt; Aktionsplan Pflanzenschutzmittel.
-
-### 7. Abschnitt:**** Beitrag für die Reduktion von Herbiziden auf der offenen Ackerfläche
-
-[^tit2-chap6-sec7-1]
-
-[^tit2-chap6-sec7-1]: Eingefügt durch Ziff. I der V vom 18. Okt. 2017 ([AS 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)). Fassung gemäss Ziff. I der V vom 31. Okt. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)).
-
-#### Art. 82f
-
-**Beitrag**
-
-<sup>1</sup> Der Beitrag für die Reduktion von Herbiziden auf der offenen Ackerfläche wird pro Hektare ausgerichtet für den Vollverzicht oder den Teilverzicht auf Herbizide ab der Saat oder der Pflanzung bis zur Ernte der zu Beiträgen berechtigenden Hauptkultur.
-
-<sup>2</sup>
-
-Kein Beitrag wird gewährt für:
-
-- a. Biodiversitätsförderflächen;
-- b. Flächen mit Zuckerrüben als Hauptkultur;
-- c. Flächen, für die der Beitrag für biologische Landwirtschaft nach Artikel 66 ausgerichtet wird.
-
-<sup>3</sup> Die Beiträge werden bis 2022 ausgerichtet.[^82f-1]
-
-[^82f-1]: Fassung gemäss Ziff. I der V vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5449](https://fedlex.data.admin.ch/eli/oc/2020/951)).
-
-#### Art. 82g
-
-**Voraussetzungen und Auflagen**
-
-<sup>1</sup> Beim Vollverzicht auf Herbizide dürfen auf 100 Prozent der Fläche keine Herbizide eingesetzt werden.
-
-<sup>2</sup> Beim Teilverzicht auf Herbizide dürfen zwischen den Reihen keine Herbizide eingesetzt werden. Die Bandbehandlung darf auf maximal 50 Prozent der Fläche der Parzelle oder der Kultur erfolgen und muss in den Reihen ausgebracht werden.
-
-<sup>3</sup> Der Einsatz von Napropamide ist verboten.
-
-<sup>4</sup>
-
-Der Bewirtschafter oder die Bewirtschafterin muss pro angemeldete Fläche folgende Aufzeichnungen führen:
-
-- a. eingesetzte Pflanzenschutzmittel mit Angabe der Menge;
-- b. Datum der Behandlung.
-
-<sup>5</sup> Der Kanton bestimmt, in welcher Form die Aufzeichnungen vorgenommen werden müssen.
-
-### 8. Abschnitt:**** Koordination mit Ressourcenprogrammen nach den Artikeln 77*a* und 77*b* LwG
-
-[^tit2-chap6-sec8-1]
-
-[^tit2-chap6-sec8-1]: Eingefügt durch Ziff. I der V vom 31. Okt. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)).
+[^tit2-chap6-chap6a-1]: Eingefügt durch Ziff. I der V vom 31. Okt. 2018 ([AS 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)). Fassung gemäss Ziff. I der V vom 13. April 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
 
 #### Art. 82h
 
-[^82h-1]
-
-Solange ein Bewirtschafter oder eine Bewirtschafterin Beiträge im Rahmen eines Ressourcenprogrammes nach den Artikeln 77*a* und 77*b* LwG erhält, werden für dieselbe Massnahme keine Ressourceneffizienzbeiträge ausgerichtet.
-
-[^82h-1]: Ursprünglich: Art. 82*f*
+Solange ein Bewirtschafter oder eine Bewirtschafterin Beiträge im Rahmen eines Ressourcenprogramms nach den Artikeln 77*a* und 77*b* LwG erhält, werden für dieselbe Massnahme keine Produktionssystem- und keine Ressourceneffizienzbeiträge ausgerichtet.
 
 ### 7. Kapitel: Beitragsansätze und beitragsberechtigte Bewirtschafter und Bewirtschafterinnen
 
@@ -1705,7 +1942,7 @@ Der Übergangsbeitrag berechnet sich nach dem für den Betrieb festgelegten Basi
 
 <sup>2</sup> Das BLW legt den Faktor fest.
 
-[^87-1]: [SR 814.20](https://fedlex.data.admin.ch/eli/cc/1992/1860_1860_1860)
+[^87-1]: [SR 814.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9477)
 
 ### 2. Abschnitt: Festsetzung des Beitrags bei Betriebsänderungen
 
@@ -1763,7 +2000,7 @@ Reduzieren sich bei einem Betrieb die SAK um 50 oder mehr Prozent, so wird der �
 
 <sup>4</sup> Keine Kürzung erfolgt bei Bewirtschaftern und Bewirtschafterinnen nach Artikel 4 Absätze 5 und 6.[^94-2]
 
-[^94-1]: [SR 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^94-1]: [SR 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
 [^94-2]: Eingefügt durch Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)).
 
 #### Art. 95
@@ -1805,10 +2042,10 @@ Der Bewirtschafter oder die Bewirtschafterin muss für die koordinierte Planung 
 
 <sup>3</sup> Die Kantone können für die Anmeldungen nach Absatz 1 spätere Anmeldetermine festlegen, wenn die koordinierte Planung der Kontrollen weiterhin sichergestellt ist und die Frist für die Datenübermittlung nach Artikel 4 Absatz 1 Buchstabe c der Verordnung vom 23. Oktober 2013[^97-4] über Informationssysteme im Bereich der Landwirtschaft (ISLV) eingehalten wird.[^97-5]
 
-[^97-1]: [SR 910.15](https://fedlex.data.admin.ch/eli/cc/2018/673)
+[^97-1]: [SR 910.15](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10415)
 [^97-2]: Fassung gemäss Ziff. I der V vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5449](https://fedlex.data.admin.ch/eli/oc/2020/951)).
 [^97-3]: Fassung gemäss Ziff. I der V vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5449](https://fedlex.data.admin.ch/eli/oc/2020/951)).
-[^97-4]: [SR 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
+[^97-4]: [SR 919.117.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10953)
 [^97-5]: Eingefügt durch Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)).
 
 #### Art. 98
@@ -1824,18 +2061,20 @@ Das Gesuch muss bei der vom Wohnsitzkanton oder, bei juristischen Personen, bei 
 - a. den Bewirtschafter oder die Bewirtschafterin eines Betriebs nach Artikel 6 LBV[^98-1] oder einer Betriebsgemeinschaft nach Artikel 10 LBV, der oder die den Betrieb am 31. Januar bewirtschaftet;
 - b. den Bewirtschafter oder die Bewirtschafterin eines Sömmerungs- oder Gemeinschaftsweidebetriebs, der oder die den Betrieb am 25. Juli bewirtschaftet.
 
+<sup>2bis</sup> Liegt der Betrieb, der Sömmerungsbetrieb oder der Gemeinschaftsweidebetrieb nicht im Wohnsitzkanton oder Sitzkanton des Bewirtschafters oder der Bewirtschafterin, so können die betreffenden Kantone vereinbaren, dass das Gesuch beim Standortkanton des Betriebszentrums, des Sömmerungsbetriebs oder des Gemeinschaftsweidebetriebs einzureichen ist. Der Standortkanton muss den gesamten Vollzug übernehmen.[^98-2]
+
 <sup>3</sup>
 
 Das Gesuch muss insbesondere folgende Angaben enthalten:
 
 - a. die Direktzahlungsarten nach Artikel 2, für die Beiträge beantragt werden;
-- b.[^98-2] die voraussichtlichen Betriebs- und Strukturdaten am 1. Mai gemäss der ISLV;
+- b.[^98-3] die voraussichtlichen Betriebs- und Strukturdaten am 1. Mai gemäss der ISLV;
 - c. die auf einer Karte eingezeichneten Biodiversitätsförderflächen, mit Ausnahme der Hochstamm-Feldobstbäume und der einheimischen standortgerechten Einzelbäumen und Alleen; die Kantone können eine Erfassung über das geografische Informationssystem verlangen;
 - d.
 
   bei Beiträgen im Sömmerungsgebiet:
 
-  - 1\.[^98-3] die Kategorie und die Anzahl der gesömmerten Tiere, mit Ausnahme der Tiere der Rindergattung und Wasserbüffel sowie der Tiere der Pferdegattung,
+  - 1\.[^98-4] die Kategorie und die Anzahl der gesömmerten Tiere, mit Ausnahme der Tiere der Rindergattung und Wasserbüffel sowie der Tiere der Pferdegattung,
   - 2\. das Auffuhrdatum,
   - 3\. das voraussichtliche Abfahrtsdatum,
   - 4\. Veränderungen bei der nutzbaren Weidefläche,
@@ -1854,30 +2093,33 @@ Das Gesuch muss insbesondere folgende Angaben enthalten:
 Der Kanton bestimmt:
 
 - a. ob das Gesuch in Papierform oder elektronisch einzureichen ist;
-- b.[^98-4] ob Gesuche, die elektronisch eingereicht werden, mit einer qualifizierten elektronischen Signatur nach Artikel 2 Buchstabe e des Bundesgesetzes vom 18. März 2016[^98-5] über die elektronische Signatur versehen werden können.
+- b.[^98-5] ob Gesuche, die elektronisch eingereicht werden, mit einer qualifizierten elektronischen Signatur nach Artikel 2 Buchstabe e des Bundesgesetzes vom 18. März 2016[^98-6] über die elektronische Signatur versehen werden können.
 
-[^98-1]: [SR 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
-[^98-2]: Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)).
-[^98-3]: Fassung gemäss Ziff. I der V vom 16. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)).
-[^98-4]: Fassung gemäss Anhang Ziff. II 9 der V vom 23. Nov. 2016 über die elektronische Signatur, in Kraft seit 1. Jan. 2017 ([AS 2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753)).
-[^98-5]: [SR 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
+[^98-1]: [SR 910.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10428)
+[^98-2]: Eingefügt durch Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)).
+[^98-3]: Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)).
+[^98-4]: Fassung gemäss Ziff. I der V vom 16. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)).
+[^98-5]: Fassung gemäss Anhang Ziff. II 9 der V vom 23. Nov. 2016 über die elektronische Signatur, in Kraft seit 1. Jan. 2017 ([AS 2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753)).
+[^98-6]: [SR 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)
 
 #### Art. 99
 
 **Gesuchstermine und Fristen**[^99-1]
 
-<sup>1</sup> Das Gesuch für Direktzahlungen, mit Ausnahme der Beiträge im Sömmerungsgebiet und der Beiträge nach den Artikeln 82 und 82*a*, ist bei der vom zuständigen Kanton bezeichneten Behörde zwischen dem 15. Januar und dem 15. März einzureichen. Der Kanton kann die Frist bei Anpassungen der Informatiksysteme oder in anderen besonderen Situationen bis zum 1. Mai verlängern.
+<sup>1</sup> Das Gesuch für Direktzahlungen, mit Ausnahme der Beiträge im Sömmerungsgebiet und der Beiträge nach Artikel 82, ist bei der vom zuständigen Kanton bezeichneten Behörde zwischen dem 15. Januar und dem 15. März einzureichen. Der Kanton kann die Frist bei Anpassungen der Informatiksysteme oder in anderen besonderen Situationen bis zum 1. Mai verlängern.[^99-2]
 
 <sup>2</sup> Das Gesuch für Beiträge im Sömmerungsgebiet ist bei der vom zuständigen Kanton bezeichneten Behörde zwischen dem 1. August und dem 30. September einzureichen.
 
 <sup>3</sup> Der Kanton kann innerhalb der Fristen nach den Absätzen 1 und 2 einen Gesuchstermin festlegen.
 
-<sup>4</sup> Für Gesuche um Beiträge nach den Artikeln 82 und 82*a* legt er einen Termin fest.
+<sup>4</sup> Für Gesuche um Beiträge nach Artikel 82 legt er einen Termin fest.[^99-3]
 
-<sup>5</sup> Bei Gesuchen für Beiträge nach Artikel 2 Buchstabe f Ziffern 1, 2, 6 und 7 kann er zusätzlich einen Termin für die Meldung der betreffenden Flächen festlegen. Er muss sicherstellen, dass die Durchführung der Kontrollen gewährleistet ist.[^99-2]
+<sup>5</sup> …[^99-4]
 
 [^99-1]: Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)).
-[^99-2]: Fassung gemäss Ziff. I der V vom 31. Okt. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)).
+[^99-2]: Fassung gemäss Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)).
+[^99-3]: Fassung gemäss Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)).
+[^99-4]: Aufgehoben durch Ziff. I der V vom 2. Nov. 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)).
 
 #### Art. 100
 
@@ -1898,6 +2140,14 @@ Kann der Bewirtschafter oder die Bewirtschafterin die Anforderungen für Direktz
 [^100-2]: Fassung gemäss Ziff. I der V vom 29. Okt. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)).
 [^100-3]: Eingefügt durch Ziff. I der V vom 29. Okt. 2014 ([AS 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)). Fassung gemäss Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)).
 
+#### Art. 100a
+
+**Abmeldung von Massnahmen mit einer bestimmten Verpflichtungsdauer**[^100a-1]
+
+Bei der Änderung von Beitragsansätzen für Massnahmen mit einer bestimmten Verpflichtungsdauer kann der Bewirtschafter oder die Bewirtschafterin bei der vom zuständigen Kanton bezeichneten Behörde bis zum 1. Mai des Beitragsjahres über das vom Kanton festgelegte Verfahren melden, dass er oder sie ab dem Jahr der Beitragssenkung auf die weitere Teilnahme verzichtet.
+
+[^100a-1]: Eingefügt durch Ziff. I der V vom 13. April 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
+
 ### 2. Kapitel: Nachweis und Kontrollen
 
 #### Art. 101
@@ -1914,9 +2164,9 @@ Bewirtschafter und Bewirtschafterinnen, die ein Gesuch für bestimmte Direktzahl
 
 <sup>2</sup> Tierschutzkontrollen im Rahmen des ÖLN sind nach den Bestimmungen der Tierschutzgesetzgebung durchzuführen.
 
-<sup>3</sup> und <sup>4 …</sup> [^102-2]
+<sup>3 und <sup>4 …</sup></sup> [^102-2]
 
-[^102-1]: [SR 910.15](https://fedlex.data.admin.ch/eli/cc/2018/673)
+[^102-1]: [SR 910.15](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10415)
 [^102-2]: Aufgehoben durch Ziff. I der V vom 31. Okt. 2018, mit Wirkung seit 1. Jan. 2019 ([AS 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)).
 
 #### Art. 103
@@ -1925,7 +2175,7 @@ Bewirtschafter und Bewirtschafterinnen, die ein Gesuch für bestimmte Direktzahl
 
 <sup>1</sup> Bei der Betriebskontrolle festgestellte Mängel oder falsche Angaben muss die Kontrollperson dem Bewirtschafter oder der Bewirtschafterin unverzüglich mitteilen.
 
-<sup>2</sup> und <sup>3</sup> …[^103-1]
+<sup>2 und <sup>3</sup></sup> …[^103-1]
 
 <sup>4</sup> Die Kontrollstelle leitet die Kontrollergebnisse nach den Bestimmungen des Zusammenarbeitsvertrags nach Artikel 104 Absatz 3 weiter.
 
@@ -1934,7 +2184,7 @@ Bewirtschafter und Bewirtschafterinnen, die ein Gesuch für bestimmte Direktzahl
 <sup>6</sup> Sie sorgt dafür, dass die Kontrolldaten gemäss den Bestimmungen nach den Artikeln 6–9 ISLV[^103-2] im zentralen Informationssystem nach Artikel 165*d* LwG erfasst oder dahin übermittelt werden.[^103-3]
 
 [^103-1]: Aufgehoben durch Ziff. I der V vom 18. Okt. 2017, mit Wirkung seit 1. Jan. 2018 ([AS 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)).
-[^103-2]: [SR 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
+[^103-2]: [SR 919.117.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10953)
 [^103-3]: Fassung gemäss Ziff. I der V vom 31. Okt. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)).
 
 ### 3. Kapitel: Zuständigkeiten
@@ -1953,7 +2203,7 @@ Bewirtschafter und Bewirtschafterinnen, die ein Gesuch für bestimmte Direktzahl
 
 <sup>6</sup> …[^104-2]
 
-[^104-1]: [SR 910.15](https://fedlex.data.admin.ch/eli/cc/2018/673)
+[^104-1]: [SR 910.15](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10415)
 [^104-2]: Aufgehoben durch Ziff. I der V vom 11. Nov. 2020, mit Wirkung seit 1. Jan. 2021 ([AS 2020 5449](https://fedlex.data.admin.ch/eli/oc/2020/951)).
 
 ### 4. Kapitel: Verwaltungssanktionen
@@ -1999,6 +2249,31 @@ Als höhere Gewalt gelten insbesondere:
 
 <sup>2</sup> Können aufgrund seuchenpolizeilicher Vorschriften einzelne Anforderungen für Tierwohlbeiträge nicht erfüllt werden, so werden die Beiträge weder gekürzt noch verweigert.
 
+<sup>3</sup> Können aufgrund von angeordneten Massnahmen zur Verhinderung der Einschleppung und Verbreitung von Quarantäneorganismen und anderen besonders gefährlichen Schadorganismen gestützt auf die Pflanzengesundheitsverordnung vom 31. Oktober 2018[^107-1] Anforderungen des ÖLN sowie der Direktzahlungsarten nach Artikel 2 Buchstaben a Ziffer 6 und c–f nicht erfüllt werden, so werden die Beiträge weder gekürzt noch verweigert.[^107-2]
+
+[^107-1]: [SR 916.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10651)
+[^107-2]: Eingefügt durch Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)).
+
+#### Art. 107a
+
+**Verzicht auf Anpassung des Sömmerungs-, Biodiversitäts- und Landschaftsqualitätsbeitrags bei vorzeitiger Abalpung aufgrund von Grossraubtieren**[^107a-1]
+
+<sup>1</sup>
+
+Werden Sömmerungs- und Gemeinschaftsweidebetriebe aufgrund einer Gefährdung der Nutztiere durch Grossraubtiere vorzeitig abgealpt, so kann der Kanton:
+
+- a. auf eine Anpassung des Sömmerungsbeitrags nach Artikel 49 Absatz 2 Buchstabe c verzichten;
+- b. den Biodiversitätsbeitrag nach Anhang 7 Ziffer 3.1.1 Ziffer 12 sowie den Landschaftsqualitätsbeitrag nach Anhang 7 Ziffer 4.1 Buchstabe b in der vollen Höhe der ausbezahlten Beiträge des Vorjahres ausrichten, auch wenn die Bestossung den Normalbesatz unterschreitet.
+
+<sup>2</sup> Nach der erstmaligen Bewilligung des Verzichts auf die Anpassung der Beiträge kann der Kanton in den nachfolgenden vier Jahren auf derselben Alp höchstens ein weiteres Mal auf die Anpassung der Beiträge verzichten.
+
+<sup>3</sup> Der Bewirtschafter oder die Bewirtschafterin hat das Gesuch auf Verzicht der Anpassung der Beiträge bei der vom zuständigen Kanton bezeichneten Behörde einzureichen. Diese berücksichtigt bei der Beurteilung der Gesuche die zumutbaren Schutzmassnahmen nach Artikel 10<sup>quinquies</sup> der Jagdverordnung vom 29. Februar 1988[^107a-2] und bezieht die zuständigen kantonalen Fachpersonen für den Herdenschutz und die Jagd ein. Die Kantone regeln das Verfahren.
+
+<sup>4</sup> Die Kantone melden dem BLW jeweils Ende November die Gesuche für vorzeitige Abalpungen aufgrund von Grossraubtieren. Das BLW bestimmt Form und Inhalte der Meldung.
+
+[^107a-1]: Eingefügt durch Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2022 ([AS 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)).
+[^107a-2]: [SR 922.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10980)
+
 ### 5. Kapitel: Festsetzung der Beiträge, Abrechnung und Auszahlung
 
 #### Art. 108
@@ -2007,13 +2282,14 @@ Als höhere Gewalt gelten insbesondere:
 
 <sup>1</sup> Der Kanton überprüft die Beitragsberechtigung und setzt die Beiträge aufgrund der erhobenen Daten fest.
 
-<sup>2</sup> Bei der Festsetzung der Beiträge berücksichtigt der Kanton zuerst die Reduktionen, die sich aufgrund der Begrenzung der Direktzahlungen pro SAK ergeben, und danach die Reduktionen, die sich aufgrund der Kürzungen nach Artikel 105 und aufgrund der Direktzahlungen der EU nach Artikel 54 ergeben.
+<sup>2</sup> …[^108-1]
 
-<sup>3</sup> Der Kanton berücksichtigt für Kürzungen nach Artikel 105 alle vom 1. Januar bis zum 31. Dezember festgestellten Mängel. Er kann die Kürzungen im folgenden Beitragsjahr vornehmen, wenn die Mängel nach dem 1. September festgestellt wurden.[^108-1]
+<sup>3</sup> Der Kanton berücksichtigt für Kürzungen nach Artikel 105 alle vom 1. Januar bis zum 31. Dezember festgestellten Mängel. Er kann die Kürzungen im folgenden Beitragsjahr vornehmen, wenn die Mängel nach dem 1. September festgestellt wurden.[^108-2]
 
 <sup>4</sup> Der Kanton erfasst die Angaben zu Betrieb, Bewirtschafter und Bewirtschafterinnen, Flächen und Tierbeständen zwischen dem 15. Januar und 28. Februar. Bei den Tierbeständen ist zusätzlich zum massgebenden Bestand der Bestand am 1. Januar zu erfassen. Die Kantone erfassen Änderungen bis zum 1. Mai.
 
-[^108-1]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)).
+[^108-1]: Aufgehoben durch Ziff. I der V vom 13. April 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
+[^108-2]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)).
 
 #### Art. 109
 
@@ -2082,7 +2358,7 @@ Zur Auszahlung der Akontozahlung kann der Kanton vom BLW einen Vorschuss in folg
 
 Die Kantone erfassen die Flächen und deren Nutzung sowie die übrigen notwendigen Objekte für die Berechnung der Direktzahlungen pro Betrieb ab dem Zeitpunkt der Umsetzung der Geodatenmodelle nach der Geoinformationsverordnung vom 21. Mai 2008[^113-1], spätestens jedoch ab dem 1. Juni 2017 in den kantonalen geografischen Informationssystemen.
 
-[^113-1]: [SR 510.620](https://fedlex.data.admin.ch/eli/cc/2008/389)
+[^113-1]: [SR 510.620](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7339)
 
 #### Art. 114
 
@@ -2173,7 +2449,7 @@ Für die Berechnung der linearen Korrektur gemäss Zusatzmodul 6 und der Import/
 <sup>5</sup> In den Jahren 2018 und 2019 kann der Bewirtschafter oder die Bewirtschafterin bei der vom zuständigen Kanton bezeichneten Stelle jeweils bis zum 1. Mai, beim Sömmerungs- oder Gemeinschaftsweidebetrieb bis zum 15. November, schriftlich oder elektronisch melden, wenn der effektiv auf dem Betrieb gehaltene massgebende Bestand an Tieren der Pferdegattung von dem nach Artikel 36 Absätze 2 Buchstabe a und 3 erhobenen Bestand abweicht. Die vom zuständigen Kanton bezeichnete Stelle korrigiert den Bestand entsprechend der Meldung oder stellt eine elektronische Korrekturmöglichkeit zur Verfügung.
 
 [^115c-1]: Eingefügt durch Ziff. I der V vom 16. Sept. 2016, in Kraft seit 1. Jan. 2017, Abs. 5 in Kraft seit 1. Jan. 2018 ([AS 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)).
-[^115c-2]: [SR 510.620](https://fedlex.data.admin.ch/eli/cc/2008/389)
+[^115c-2]: [SR 510.620](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7339)
 
 #### Art. 115d
 
@@ -2213,6 +2489,18 @@ Für die Berechnung der linearen Korrektur gemäss Zusatzmodul 6 und der Import/
 
 [^115f-1]: Eingefügt durch Ziff. I der V vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5449](https://fedlex.data.admin.ch/eli/oc/2020/951)).
 
+#### Art. 115g
+
+**Übergangsbestimmung zur Änderung vom 13. April 2022**[^115g-1]
+
+<sup>1</sup> Die Beiträge für den Verzicht auf Pflanzenschutzmittel (Art. 68–71*a*) und der Beitrag für die schonende Bodenbearbeitung von Hauptkulturen auf der Ackerfläche (Art. 71*d*) werden für die im Herbst 2022 auf der Ackerfläche angelegten Winterkulturen ausgerichtet, wenn die Anforderungen für die betreffenden Beiträge ab der Ernte der vorherigen Hauptkultur eingehalten werden.
+
+<sup>2</sup> Bei festgestellten Mängeln nach Anhang 8 Ziffer 2.2.9*a* Buchstaben b und c werden die Direktzahlungen für das Jahr 2023 nicht gekürzt.
+
+<sup>3</sup> In der Schweinemast dürfen Betriebe mit stickstoffreduzierter Phasenfütterung nach Artikel 82*c* Absatz 2 im Jahr 2023 noch Futterrationen einsetzen, die während der gesamten Mastdauer den gleichen Gehalt an Rohprotein in g/MJ VES aufweisen.
+
+[^115g-1]: Eingefügt durch Ziff. I der V vom 13. April 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
+
 #### Art. 116
 
 **Aufhebung anderer Erlasse**
@@ -2245,13 +2533,13 @@ Die Änderung anderer Erlasse wird in Anhang 9 geregelt.
 
 [^118-1]: Aufgehoben durch Ziff. I der V vom 28. Okt. 2015, mit Wirkung seit 1. Jan. 2016 ([AS 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)).
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
-(Art. 13 Abs. 1 und 3, 14 Abs. 2, 16 Abs. 2 und 3, 17 Abs. 1, 18 Abs. 3–5, 19–21, 25, 58 Abs. 4 Bst. d, 115 Abs. 11 und 16, 115*c* Abs. 1 und 4, 115*d* Abs. 4 sowie 115*e* Abs. 1)
+(Art. 13 Abs. 1 und 3, 14 Abs. 2, 16 Abs. 2 und 3, 17 Abs. 1, 18 Abs. 4–8, 19–21, 25, 58 Abs. 4 Bst. d, 68 Abs. 3 und 4, 69 Abs. 3, 115 Abs. 11 und 16, 115*c* Abs. 1 und 4, 115*d* Abs. 4, 115*e* Abs. 1 sowie 115*f* Abs. 1)
 
 ## Ökologischer Leistungsnachweis
 
-[^t-1]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 29. Okt. 2014 ([AS 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)), Ziff. II der V vom 28. Okt. 2015 ([AS 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)), vom 16. Sept. 2016 ([AS 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)), Ziff. II Abs. 1 der V vom 18. Okt. 2017 ([AS 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)), Ziff. II der V vom 31. Okt. 2018 ([AS 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)) und vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5449](https://fedlex.data.admin.ch/eli/oc/2020/951)).
+[^t-1]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 29. Okt. 2014 ([AS 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)), Ziff. II der V vom 28. Okt. 2015 ([AS 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)), vom 16. Sept. 2016 ([AS 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)), Ziff. II Abs. 1 der V vom 18. Okt. 2017 ([AS 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)), Ziff. II der V vom 31. Okt. 2018 ([AS 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)), vom 11. Nov. 2020 ([AS 2020 5449](https://fedlex.data.admin.ch/eli/oc/2020/951)), Ziff. II Abs. 1 der V vom 13. April 2022 ([AS 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)) und Ziff. I der V des BLW vom 5. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 652](https://fedlex.data.admin.ch/eli/oc/2022/652)).
 
 ### 1 Aufzeichnungen
 
@@ -2296,8 +2584,8 @@ Anhang 1*[^t-1]*
 - 2\.1.13 Betriebe, mit Vereinbarungen über die lineare Korrektur gemäss Zusatzmodul 6 oder über die Import/Export-Bilanz gemäss Zusatzmodul 7 der Methode Suisse-Bilanz, Auflage 1.10, müssen für in HODUFLU erfasste Hofdüngerverschiebungen betriebsspezifische Nährstoffgehalte verwenden.
 
 [^annex1-lvlu1-lvl2-lvl21-1]: Die jeweils geltenden Versionen der Wegleitung sind abrufbar unter www.blw.admin.ch &gt; Instrumente &gt; Direktzahlungen &gt; Ökologischer Leistungsnachweis &gt; Ausgeglichene Düngerbilanz und Bodenuntersuchungen (DZV Art. 13).
-[^annex1-lvlu1-lvl2-lvl21-2]: [SR 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
-[^annex1-lvlu1-lvl2-lvl21-3]: [SR 814.201](https://fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863)
+[^annex1-lvlu1-lvl2-lvl21-2]: [SR 919.117.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10953)
+[^annex1-lvlu1-lvl2-lvl21-3]: [SR 814.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9478)
 [^annex1-lvlu1-lvl2-lvl21-4]: Die jeweils geltenden Versionen der Wegleitung sind abrufbar unter www.blw.admin.ch &gt; Instrumente &gt; Direktzahlungen &gt; Ökologischer Leistungsnachweis &gt; Ausgeglichene Düngerbilanz und Bodenuntersuchungen (DZV Art. 13).
 
 ### 2.2 Bodenuntersuchungen
@@ -2403,47 +2691,109 @@ Anhang 1*[^t-1]*
 
 ### 6 Auswahl und gezielte Anwendung von Pflanzenschutzmitteln
 
-### 6.1 Allgemeine Bestimmungen
+### 6.1 Verbot der Anwendung
 
-- 6\.1.1 Die für den Pflanzenschutz eingesetzten zapfwellenangetriebenen oder selbstfahrenden Geräte müssen mindestens alle drei Kalenderjahre von einer anerkannten Stelle getestet werden.
-- 6\.1.2 Für den Pflanzenschutz eingesetzte zapfwellenangetriebene oder selbstfahrende Geräte mit einem Behälter von mehr als 400 Liter Inhalt müssen mit einem Spülwassertank ausgerüstet sein. Die Reinigung der Geräte erfolgt mit einer automatischen Spritzeninnenreinigung. Die Spülung von Pumpe, Filter, Leitungen und Düsen muss auf dem Feld erfolgen.
+- 6\.1.1
+
+  Folgende Wirkstoffe dürfen nicht angewendet werden:
+
+  - a. alpha-Cypermethrin;
+  - b. Cypermethrin;
+  - c. Deltamethrin;
+  - d. Dimethachlor;
+  - e. Etofenprox;
+  - f. lambda-Cyhalothrin;
+  - g. Metazachlor;
+  - h. Nicosulfuron;
+  - i. S-Metolachlor;
+  - j. Terbuthylazine.
+
+- 6\.1.2 Bei folgenden Kulturen dürfen gegen folgende Schaderreger die entsprechenden Wirkstoffe gemäss Ziffer 6.1.1 eingesetzt werden:
+
+<table>
+<tr><th>Kultur</th><th>Schaderreger</th></tr>
+<tr><td>Baby-Leaf Brassicaceae</td><td>Erdflöhe</td></tr>
+<tr><td>Baby-Leaf Chenopodiaceae</td><td>Erdflöhe</td></tr>
+<tr><td>Bohnen</td><td>Erdraupen</td></tr>
+<tr><td>Chicorée</td><td>Erdraupen</td></tr>
+<tr><td>Cima di Rapa</td><td>Erdflöhe, Erdraupen, Kohldrehherzgallmücke, Kohlschabe, Minierfliegen, Unkräuter</td></tr>
+<tr><td>Erbsen</td><td>Erbsenwickler</td></tr>
+<tr><td>Kardy</td><td>Erdraupen</td></tr>
+<tr><td>Karotten</td><td>Erdraupen, Möhrenfliege</td></tr>
+<tr><td>Knollensellerie</td><td>Möhrenfliege</td></tr>
+<tr><td>Kohlarten</td><td>Gefleckter Kohltriebrüssler, Kohlgallenrüssler, Minierfliegen, Rapsstängelrüssler, Unkräuter</td></tr>
+<tr><td>Mangold</td><td>Erdflöhe</td></tr>
+<tr><td>Meerrettich</td><td>Erdflöhe, Erdraupen</td></tr>
+<tr><td>Pastinake</td><td>Möhrenblattfloh, Möhrenfliege</td></tr>
+<tr><td>Radies</td><td>Erdflöhe, Unkräuter</td></tr>
+<tr><td>Rande</td><td>Erdflöhe, Erdraupen</td></tr>
+<tr><td>Rettich</td><td>Erdflöhe, Unkräuter</td></tr>
+<tr><td>Rucola</td><td>Unkräuter</td></tr>
+<tr><td>Spargel</td><td>Minierfliegen, Spargelfliege</td></tr>
+<tr><td>Speisekohlrüben</td><td>Erdflöhe, Erdraupen, Unkräuter</td></tr>
+<tr><td>Spinat</td><td>Erdflöhe</td></tr>
+<tr><td>Stangensellerie</td><td>Möhrenfliege</td></tr>
+<tr><td>Wurzelpetersilie</td><td>Möhrenblattfloh, Möhrenfliege</td></tr>
+</table>
+
+### 6.1a Allgemeine Bestimmungen zur Anwendung
+
+- 6\.1a.1 Die für den Pflanzenschutz eingesetzten zapfwellenangetriebenen oder selbstfahrenden Geräte müssen mindestens alle drei Kalenderjahre von einer anerkannten Stelle getestet werden.
+- 6\.1a.2
+
+  Die für den Pflanzenschutz eingesetzten zapfwellenangetriebenen oder selbstfahrenden Geräte mit einem Behälter von mehr als 400 Liter Inhalt müssen ausgerüstet sein mit:
+
+  - a. einem Spülwassertank; und
+  - b. einer automatischen Spritzeninnenreinigung.
+
+- 6\.1a.3 Die Spülung von Pumpe, Filter, Leitungen und Düsen muss auf dem Feld erfolgen.
+- 6\.1a.4
+
+  Bei der Anwendung von Pflanzenschutzmitteln müssen die Massnahmen zur Reduktion der Abdrift und der Abschwemmung gemäss den Weisungen der Zulassungsstelle Pflanzenschutzmittel des Bundesamtes für Lebensmittelsicherheit und Veterinärwesen vom 23. Februar 2022[^annex1-lvlu1-lvl6-lvl61a-1] betreffend die Massnahmen zur Reduktion der Risiken bei der Anwendung von Pflanzenschutzmitteln getroffen werden. Ausgenommen ist die Anwendung in geschlossenen Gewächshäusern. Folgende Punktzahl gemäss den Weisungen muss erreicht werden:
+
+  - a. Reduktion der Abdrift: mindestens 1 Punkt;
+  - b. Reduktion der Abschwemmung auf Flächen mit mehr als 2 Prozent Neigung, die in Richtung Gefälle an Oberflächengewässer, entwässerte Strassen oder Wege angrenzen: mindestens 1 Punkt.
+
+[^annex1-lvlu1-lvl6-lvl61a-1]: Die Weisungen sind abrufbar unter: www.blv.admin.ch &gt; Zulassung Pflanzenschutzmittel &gt; Weisungen und Merkblätter &gt; Schutz der Oberflächengewässer und Biotope.
 
 ### 6.2 Vorschriften für den Acker- und Futterbau
 
-- 6\.2.1 Zwischen dem 1. November und dem 15. Februar sind keine Applikationen mit Pflanzenschutzmitteln erlaubt.
-- 6\.2.2 Beim Einsatz von Vorauflaufherbiziden in Getreide ist pro Kultur mindestens ein unbehandeltes Kontrollfenster anzulegen. Um die Nützlinge zu schonen, ist die Verwendung von wenig spezifischen beziehungsweise in Bezug auf Nützlinge und andere Nutzorganismen wenig selektive Pflanzenschutzmittel eingeschränkt.
-- 6\.2.3 Der Einsatz von Herbiziden im Vorauflauf-Verfahren oder im Grünland und der Einsatz von insektiziden Spritzmitteln ist bei den in der nachfolgenden Tabelle aufgeführten Kulturen ausschliesslich in den folgenden Fällen gestattet:
+- 6\.2.1 Zwischen dem 15. November und dem 15. Februar dürfen keine Pflanzenschutzmittel angewendet werden.
+- 6\.2.2
+
+  Der Einsatz von Herbiziden ist wie folgt geregelt:
+
+  - a. Im Nachauflauf-Verfahren sind alle zugelassenen Herbizide einsetzbar, sofern sie keine Wirkstoffe nach Ziffer 6.1.1 enthalten.
+  - b. Im Vorauflauf-Verfahren sind Herbizide nur in den folgenden Fällen einsetzbar, sofern sie keine Wirkstoffe nach Ziffer 6.1.1 enthalten:
 
 <table>
-<tr><th>Kultur</th><th>Vorauflauf-Herbizide</th><th>Insektizide Spritzmittel</th></tr>
-<tr><td>a. Getreide</td><td>Teil- oder breitflächige Herbstanwendung bis zum 10. Oktober</td><td>Nach Erreichen der Schadschwelle gegen Getreidehähnchen: nur mit Produkten nach Ziffer 6.2.4.</td></tr>
-<tr><td>b. Raps</td><td>Teil- oder breitflächige Anwendung</td><td>Nach Erreichen der Schadschwelle gegen Stängelrüssler und Glanzkäfer.</td></tr>
-<tr><td>c. Mais</td><td>Bandbehandlung</td><td>Nach Erreichen der Schadschwelle gegen Maiszünsler bei Körnermais: nur mit Produkten nach Ziffer 6.2.4.</td></tr>
-<tr><td>d. Kartoffeln / Speisekartoffeln</td><td>Bandbehandlung, teil- oder breit- flächige Anwendung</td><td>Nach Erreichen der Schadschwelle gegen Kartoffelkäfer und gegen Blattläuse: nur mit Produkten nach Ziffer 6.2.4.</td></tr>
-<tr><td>e. Rüben (Futter- und Zuckerrüben)</td><td>Bandbehandlung, oder breit- flächige Anwendung nur nach Auflaufen der Unkräuter</td><td>Nach Erreichen der Schadschwelle gegen Blattläuse: nur mit Produkten nach Ziffer 6.2.4.</td></tr>
-<tr><td>f. Eiweisserbsen, Ackerbohnen, Soja, Sonnenblumen, Tabak</td><td>Bandbehandlung, teil- oder breit- flächige Anwendung</td><td>Nach Erreichen der Schadschwelle gegen Blattläuse: nur mit Produkten nach Ziffer 6.2.4.</td></tr>
-<tr><td>g. Grünfläche</td><td colspan="2">Einzelstockbehandlung mit Herbiziden generell erlaubt. Vor pflugloser Ansaat einer Ackerkultur: Einsatz von Totalherbiziden erlaubt. In Kunstwiesen: Flächenbehandlung mit selektiven Herbiziden erlaubt. In Dauergrünland: Flächenbehandlung mit selektiven Herbiziden bei mehr als 20 Prozent der Dauergrünfläche (pro Jahr und Betrieb; exklusiv Biodiversitätsförderflächen) nur mit Sonderbewilligung.</td></tr>
+<tr><th>Kultur</th><th>Vorauflauf-Herbizide</th></tr>
+<tr><td>a. Getreide</td><td>Teil- oder breitflächige Anwendung Beim Einsatz von Vorauflauf-Herbiziden in Getreide ist pro Kultur mindestens ein unbehandeltes Kontrollfenster anzulegen.</td></tr>
+<tr><td>b. Raps</td><td>Teil- oder breitflächige Anwendung</td></tr>
+<tr><td>c. Mais</td><td>Bandbehandlung</td></tr>
+<tr><td>d. Kartoffel / Speisekartoffeln</td><td>Bandbehandlung, teil- oder breitflächige Anwendung</td></tr>
+<tr><td>e. Rüben (Futter- und Zuckerrüben)</td><td>Bandbehandlung, oder breitflächige Anwendung nur nach Auflaufen der Unkräuter</td></tr>
+<tr><td>f. Eiweisserbsen, Ackerbohnen, Soja, Sonnenblumen, Tabak</td><td>Bandbehandlung, teil- oder breitflächige Anwendung</td></tr>
+<tr><td>g. Grünfläche</td><td>Einzelstockbehandlung. Vor pflugloser Ansaat einer Ackerkultur: Einsatz von Totalherbiziden. In Kunstwiesen: Flächenbehandlung mit selektiven Herbiziden. In Dauergrünland: Flächenbehandlung mit selektiven Herbiziden bei weniger als 20 Prozent der Dauergrünfläche (pro Jahr und Betrieb; exklusiv Biodiversitätsförderflächen).</td></tr>
 </table>
 
-- 6\.2.4 Für den ÖLN sind im Acker- und Futterbau bei den Nematiziden, bei den Molluskiziden und bei den folgenden Schaderreger-Kultur-Kombinationen die folgenden Pflanzenschutzmittel in Spalte 3 frei einsetzbar, diejenigen in Spalte 4 nur mit einer Sonderbewilligung nach Ziffer 6.3:
+- 6\.2.3 Bei folgenden Kulturen dürfen nach Erreichen der Schadschwelle nach Artikel 18 Absatz 2 gegen folgende Schaderreger Insektizide eingesetzt werden, die folgende Wirkstoffe enthalten:
 
 <table>
-<tr><th>Produktkategorie</th><th>Schaderreger/ Kultur</th><th>im ÖLN frei einsetzbare Produkte</th><th>Nur mit Sonderbewilligung nach Ziff. 6.3 im ÖLN einsetzbar</th></tr>
-<tr><td>a. Nematizide</td><td></td><td>keine</td><td>sämtliche Pflanzenschutzmittel</td></tr>
-<tr><td>b. Molluskizide</td><td></td><td>Pflanzenschutzmittel auf der Basis von Metaldehyd und Eisen-III-Phosphat</td><td>sämtliche anderen bewilligten Pflanzenschutzmittel</td></tr>
-<tr><td>c. Insektizide</td><td>Getreidehähnchen bei Getreide</td><td>Pflanzenschutzmittel auf der Basis von Spinosad</td><td>sämtliche anderen bewilligten Pflanzenschutzmittel</td></tr>
-<tr><td></td><td>Kartoffelkäfer bei Kartoffeln</td><td>Pflanzenschutzmittel auf der Basis von Azadirachtin, Spinosad oder auf der Basis von *Bacillus thuringiensis*</td><td>sämtliche anderen bewilligten Pflanzenschutzmittel</td></tr>
-<tr><td></td><td>Blattläuse bei Speisekartoffeln, Eiweisserbsen, Ackerbohnen, Tabak, Rüben (Futter- und Zuckerrüben) und Sonnenblumen</td><td>Pflanzenschutzmittel auf der Basis von Pirimicarb, Pymetrozin, Spirotetramat und Flonicamid</td><td>sämtliche anderen bewilligten Pflanzenschutzmittel</td></tr>
-<tr><td></td><td>Maiszünsler bei Körnermais</td><td>Pflanzenschutzmittel auf der Basis von *Trichogramme spp.*</td><td>sämtliche anderen bewilligten Pflanzenschutzmittel</td></tr>
+<tr><th>Kultur</th><th>Wirkstoffe, die im ÖLN einsetzbar sind, pro Schädling</th></tr>
+<tr><td>a. Getreide</td><td>Getreidehähnchen: Spinosad</td></tr>
+<tr><td>b. Raps</td><td>Rapsglanzkäfer: sämtliche zugelassenen Wirkstoffe, mit Ausnahme der Wirkstoffe nach Ziffer 6.1.1.</td></tr>
+<tr><td>c. Zuckerrüben</td><td>Blattläuse: Pirimicarb, Spirotetramat, Flonicamid.</td></tr>
+<tr><td>d. Kartoffeln</td><td>Kartoffelkäfer: Azadirachtin, Spinosad oder auf der Basis von *Bacillus thuringiensis* Blattläuse: Pymetrozin, Spirotetramat und Flonicamid.</td></tr>
+<tr><td>e. Eiweisserbsen, Ackerbohnen, Tabak, und Sonnenblumen</td><td>Blattläuse: Pirimicarb, Pymetrozin, Spirotetramat und Flonicamid</td></tr>
+<tr><td>f. Körnermais</td><td>Maiszünsler: *Trichogramme spp.*</td></tr>
 </table>
 
 ### 6.3 Sonderbewilligungen
 
-- 6\.3.1 Sonderbewilligungen für Pflanzenschutzmassnahmen sind nach den vom BLW genehmigten Weisungen der Konferenz der kantonalen Pflanzenschutzdienste vom 12. Juli 2018[^annex1-lvlu1-lvl6-lvl63-1] zu erteilen. Die Sonderbewilligungen werden schriftlich und zeitlich befristet in Form von Einzelbewilligungen oder in epidemischen Fällen als Bewilligungen für räumlich begrenzte Gebiete erteilt. Sie beinhalten Angaben zur Anlage unbehandelter Kontrollfenster. Einzelbewilligungen sind mit einer Beratung der zuständigen Fachstelle zu verbinden. Die Regelung der Kosten liegt im Kompetenzbereich der Kantone.
-- 6\.3.2 Die kantonalen Fachstellen für Pflanzenschutz führen eine Liste der erteilten Sonderbewilligungen, die Angaben über Betriebe, Kulturen, Flächen und Zielorganismen enthält. Sie stellen die Liste dem BLW jährlich zu.
+- 6\.3.1 Die Sonderbewilligungen werden schriftlich und zeitlich befristet in Form von Einzelbewilligungen oder, in epidemischen Fällen bzw. einer Massenvermehrung von Schaderregern, als Bewilligungen für räumlich begrenzte Gebiete (regionale Sonderbewilligung) erteilt. Sie beinhalten Angaben zur Anlage unbehandelter Kontrollfenster. Einzelbewilligungen sind mit einer Beratung der zuständigen Fachstelle zu verbinden. Die Regelung der Kosten liegt im Kompetenzbereich der Kantone.
+- 6\.3.2 Die zuständigen kantonalen Fachstellen führen eine Liste der erteilten Sonderbewilligungen, die Angaben über Betriebe, Kulturen, Flächen und Zielorganismen enthält. Sie stellen die Liste dem BLW jährlich zu. Zudem übermitteln sie dem BLW jährlich eine Schätzung der Flächen von Kulturen, auf denen Wirkstoffe nach 6.1.1 aufgrund der Bestimmung in Ziffer 6.1.2 oder mit einer regionalen Sonderbewilligung nach Ziffer 6.3.1 verwendet wurden.
 - 6\.3.3 Der Bewirtschafter oder die Bewirtschafterin muss die Sonderbewilligung vor der Behandlung einholen.
-
-[^annex1-lvlu1-lvl6-lvl63-1]: Die Weisungen sind abrufbar unter www.blw.admin.ch &gt; Instrumente &gt; Direktzahlungen &gt; ökologischer Leistungsnachweis.
 
 ### 7 Ausnahmen für die Produktion von Saat- und Pflanzgut
 
@@ -2512,17 +2862,17 @@ Anhang 1*[^t-1]*
 - 9\.6 Entlang von oberirdischen Gewässern ist ein mindestens 6 m breiter Pufferstreifen anzulegen, der nicht umgebrochen wird. Einzelstockbehandlungen von Problempflanzen und Düngung sind ab dem vierten Meter zulässig. Der Streifen wird bei Fliessgewässern, für die ein Gewässerraum nach Artikel 41*a* GSchV[^annex1-lvlu1-lvl9-1] festgelegt wurde oder bei denen nach Artikel 41*a* Absatz 5 GSchV ausdrücklich auf die Festlegung eines Gewässerraums verzichtet wurde, ab der Uferlinie gemessen. Bei den übrigen Fliessgewässern und bei stehenden Gewässern wird ab der Böschungsoberkante gemäss Pufferstreifenmerkblatt «Pufferstreifen richtig messen und bewirtschaften», KIP/PIOCH 2016,[^annex1-lvlu1-lvl9-2] gemessen.
 - 9\.7 Entlang von Flachmooren, Trockenwiesen und ‑weiden sowie Amphibienlaichgebieten sind die Bewirtschaftungsvorschriften und Ausmasse der Pufferzonen nach den Artikeln 18*a* und 18*b* NHG[^annex1-lvlu1-lvl9-3] einzuhalten.
 
-[^annex1-lvlu1-lvl9-1]: [SR 814.201](https://fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863)
+[^annex1-lvlu1-lvl9-1]: [SR 814.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9478)
 [^annex1-lvlu1-lvl9-2]: Das Merkblatt kann bei Agridea, 8315 Lindau, bezogen werden.
-[^annex1-lvlu1-lvl9-3]: [SR 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+[^annex1-lvlu1-lvl9-3]: [SR 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
 
-Anhang 2*[^t-2]*
+Anhang 2[^t-2]
 
 (Art. 29 Abs. 2, 33, 34 Abs. 3, 38 Abs. 1, 40 Abs. 3 und 48)
 
 ## Besondere Bestimmungen für die Sömmerung und das Sömmerungsgebiet
 
-[^t-2]: Bereinigt gemäss Ziff. II der V vom 16. Sept. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)).
+[^t-2]: Bereinigt gemäss Ziff. II der V vom 16. Sept. 2016 ([AS 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)) und vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)).
 
 ### 1 Flächen, die nicht beweidet werden dürfen
 
@@ -2622,6 +2972,13 @@ Es gilt folgender Höchstbesatz:
 - 4\.2.7 Die Beweidung erfolgt frühestens 20 Tage nach der Schneeschmelze.
 - 4\.2.8 Für Kunststoffweidenetze gilt Ziffer 4.1.9.
 
+### 4.2a Umtriebsweide mit Herdenschutzmassnahmen
+
+- 4\.2a.1 Es gelten die Bestimmungen nach Ziffer 4.2.
+- 4\.2a.2 Die Herdenschutzmassnahmen richten sich nach den zumutbaren Schutzmassnahmen nach Artikel 10<sup>quinquies</sup> Absatz 1 der Jagdverordnung vom 29. Februar 1988[^annex2-lvlu1-lvl4-lvl42a-1].
+
+[^annex2-lvlu1-lvl4-lvl42a-1]: [SR 922.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10980)
+
 ### 4.3 Übrige Weiden
 
 - 4\.3.1 Schafweiden, welche die Anforderungen für ständige Behirtung oder Umtriebsweide nicht erfüllen, gelten als übrige Weiden.
@@ -2642,13 +2999,13 @@ Die Terrassenlagen sind nach folgenden Kriterien auszuscheiden:
 - 5\. Die Terrassenlage muss mindestens eine Hektare messen.
 - 6\. Die Rebflächen in Terrassenlagen müssen auf einem Übersichtsplan oder in einer Karte eingezeichnet sein.
 
-Anhang 4*[^t-3]*
+Anhang 4[^t-3]
 
 (Art. 58 Abs. 1, 2, 4 und 9, 59 Abs. 1 sowie 62 Abs. 1 Bst. a und 2)
 
 ## Voraussetzungen für Biodiversitätsförderflächen
 
-[^t-3]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 29. Okt. 2014 ([AS 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)), Ziff. II der V vom 28. Okt. 2015 ([AS 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)), vom 16. Sept. 2016 ([AS 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)), Ziff. II Abs. 1 der V vom 18. Okt. 2017 ([AS 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)), Ziff. II der V vom 31. Okt. 2018 ([AS 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)) und vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)).
+[^t-3]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 29. Okt. 2014 ([AS 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)), Ziff. II der V vom 28. Okt. 2015 ([AS 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)), vom 16. Sept. 2016 ([AS 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)), Ziff. II Abs. 1 der V vom 18. Okt. 2017 ([AS 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)), Ziff. II der V vom 31. Okt. 2018 ([AS 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)), vom 3. Nov. 2021 ([AS 2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)), Ziff. II Abs. 1 der V vom 13. April 2022 ([AS 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)), Ziff. II der V vom 2. Nov. 2022 ([AS 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)) und Ziff. II Abs. 1 der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2023 ([AS 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
 
 ### A Biodiversitätsförderflächen
 
@@ -2738,15 +3095,15 @@ Anhang 4*[^t-3]*
 - 6\.2.4 Die Breite der Hecke oder des Feld- oder Ufergehölzes muss exklusive Krautsaum mindestens 2 m betragen.
 - 6\.2.5 Der Grün- und Streueflächenstreifen darf jährlich höchstens zwei Mal genutzt werden. Die erste Nutzung darf frühestens nach den in Ziffer 1.1.1 bestimmten Terminen erfolgen, die zweite frühestens sechs Wochen nach der ersten.
 
-### 7 Uferwiese entlang von Fliessgewässern
+### 7 Uferwiese
 
 ### 7.1 Qualitätsstufe I
 
 - 7\.1.1 Die Flächen müssen jährlich mindestens einmal gemäht werden.
 - 7\.1.2 Die Flächen dürfen nur gemäht werden. Bei günstigen Bodenverhältnissen und sofern nichts anderes vereinbart ist, können sie zwischen 1. September und 30. November beweidet werden.
-- 7\.1.3 Die maximale Breite darf 12 m nicht überschreiten. Bei grösseren Gewässerräumen kann die maximale Breite dem Abstand vom Gewässer bis zur Grenze des nach Artikel 41*a* GSchV[^annex4-lvlu1-lvl7-lvl71-1] festgelegten Gewässerraums entsprechen.
+- 7\.1.3 Die maximale Breite darf 12 m nicht überschreiten. Bei grösseren Gewässerräumen kann die maximale Breite dem Abstand vom Gewässer bis zur Grenze des nach Artikel 41*a* GSchV[^annex4-lvlu1-lvlA-lvl7-lvl71-1] festgelegten Gewässerraums entsprechen.
 
-[^annex4-lvlu1-lvl7-lvl71-1]: [SR 814.201](https://fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863)
+[^annex4-lvlu1-lvlA-lvl7-lvl71-1]: [SR 814.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9478)
 
 ### 8 Buntbrachen
 
@@ -2764,10 +3121,10 @@ Anhang 4*[^t-3]*
 
 - 9\.1.1 Begriff: Flächen, die vor der Aussaat als offene Ackerflächen genutzt oder mit Dauerkulturen belegt waren.
 - 9\.1.2 Die Flächen müssen zwischen dem 1. September und dem 30. April angesät werden und bis zum 15. Februar des dem Beitragsjahr folgenden Jahres bestehen bleiben (einjährige Rotationsbrache) oder bis zum 15. September des zweiten oder dritten Beitragsjahres bestehen bleiben (zwei- oder dreijährige Rotationsbrache).
-- 9\.1.3 Die Rotationsbrache darf nur zwischen dem 1. Oktober und dem 15. März geschnitten werden. Bei Flächen im Zuströmbereich Z nach Artikel 29 GSchV[^annex4-lvlu1-lvl9-lvl91-1] kann der Kanton einen zusätzlichen Schnitt nach dem 1. Juli bewilligen.
+- 9\.1.3 Die Rotationsbrache darf nur zwischen dem 1. Oktober und dem 15. März geschnitten werden. Bei Flächen im Zuströmbereich Z nach Artikel 29 GSchV[^annex4-lvlu1-lvlA-lvl9-lvl91-1] kann der Kanton einen zusätzlichen Schnitt nach dem 1. Juli bewilligen.
 - 9\.1.4 Die gleiche Parzelle darf nach einer Brache frühestens in der vierten Vegetationsperiode wieder mit einer Brache belegt werden.
 
-[^annex4-lvlu1-lvl9-lvl91-1]: [SR 814.201](https://fedlex.data.admin.ch/eli/cc/1998/2863_2863_2863)
+[^annex4-lvlu1-lvlA-lvl9-lvl91-1]: [SR 814.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9478)
 
 ### 10 Ackerschonstreifen
 
@@ -2778,7 +3135,7 @@ Anhang 4*[^t-3]*
   Begriff: extensiv bewirtschaftete Randstreifen von Ackerkulturen, die:
 
   - a. auf der gesamten Längsseite der Ackerkulturen angelegt sind; und
-  - b. mit Getreide, Raps, Sonnenblumen, Körnerleguminosen oder Lein angesät werden.
+  - b. mit Getreide, Hirse, Raps, Sonnenblumen, Körnerleguminosen oder Lein angesät werden.
 
 - 10\.1.2 Es dürfen keine stickstoffhaltigen Dünger ausgebracht werden.
 - 10\.1.3 Die breitflächige mechanische Bekämpfung von Unkräutern ist verboten.
@@ -2819,9 +3176,9 @@ Anhang 4*[^t-3]*
 - 12\.1.7 Es dürfen keine Herbizide eingesetzt werden, um den Stamm frei zu halten, ausgenommen bei jungen Bäumen von weniger als fünf Jahren.
 - 12\.1.8 Hochstamm-Feldobstbäume mit einem Abstand von weniger als 10 m ab dem Stamm zu Waldrand, Hecken, Feld- und Ufergehölzen sowie Gewässern dürfen nicht mit Pflanzenschutzmitteln behandelt werden.
 - 12\.1.9 Bis zum 10. Standjahr ab Pflanzung ist eine fachgerechte Baumpflege durchzuführen. Diese beinhaltet Formierung und Schnitt, Stamm- und Wurzelschutz sowie eine bedarfsgerechte Düngung.
-- 12\.1.10 Quarantäneorganismen nach der Pflanzengesundheitsverordnung vom 31. Oktober 2018[^annex4-lvlu1-lvl12-lvl121-1] und der gestützt darauf erlassenen Ausführungsverordnung sind gemäss den Anordnungen der kantonalen Pflanzenschutzstellen zu bekämpfen.
+- 12\.1.10 Quarantäneorganismen nach der Pflanzengesundheitsverordnung vom 31. Oktober 2018[^annex4-lvlu1-lvlA-lvl12-lvl121-1] und der gestützt darauf erlassenen Ausführungsverordnung sind gemäss den Anordnungen der kantonalen Pflanzenschutzstellen zu bekämpfen.
 
-[^annex4-lvlu1-lvl12-lvl121-1]: [SR 916.20](https://fedlex.data.admin.ch/eli/cc/2018/682)
+[^annex4-lvlu1-lvlA-lvl12-lvl121-1]: [SR 916.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10651)
 
 ### 12.2 Qualitätsstufe II
 
@@ -2877,13 +3234,13 @@ Anhang 4*[^t-3]*
 - 14\.1.1 Die Düngung ist nur im Unterstockbereich erlaubt.
 - 14\.1.2 Der Schnitt muss alternierend in jeder zweiten Fahrgasse erfolgen. Der zeitliche Abstand zwischen zwei Schnitten derselben Fläche muss mindestens sechs Wochen betragen; ein Schnitt der gesamten Fläche kurz vor der Weinernte ist erlaubt.
 - 14\.1.3 Das oberflächliche Einarbeiten des organischen Materials ist jährlich in jeder zweiten Fahrgasse erlaubt.
-- 14\.1.4 Als Pflanzenschutzmittel dürfen nur Blattherbizide im Unterstockbereich und für Einzelstockbehandlungen bei Problemunkräutern eingesetzt werden. Zulässig sind nur biologische und biotechnische Methoden gegen Insekten, Milben und Pilzkrankheiten oder chemisch-synthetische Produkte der Klasse N (schonend für Raubmilben, Bienen und Parasitoide).
+- 14\.1.4 Als Pflanzenschutzmittel dürfen nur Blattherbizide im Unterstockbereich auf einer Breite von höchstens 50 cm und für Einzelstockbehandlungen bei Problemunkräutern eingesetzt werden. Zulässig sind nur biologische und biotechnische Methoden gegen Insekten, Milben und Pilzkrankheiten oder chemisch-synthetische Produkte der Klasse N (schonend für Raubmilben, Bienen und Parasitoiden).
 - 14\.1.5 Bei Wendezonen und privaten Zufahrtswegen, Böschungen und an Rebflächen angrenzenden bewachsenen Flächen muss der Boden mit natürlicher Vegetation bedeckt sein. Es dürfen keine Dünger und Pflanzenschutzmittel ausgebracht werden, Einzelstockbehandlungen von Problempflanzen sind zulässig.
 - 14\.1.6
 
   Rebflächen mit natürlicher Artenvielfalt, einschliesslich Wendezonen, sind nicht anrechenbar, wenn sie eines der folgenden Kriterien erfüllen:
 
-  - a. Der Gesamtanteil an Fettwiesengräsern (vor allem *Lolium perenne*, *Poa pratensis*, *Festuca rubra Agropyron repens*) und Löwenzahn (*Tarax**a**cum officinale*) beträgt mehr als 66 Prozent der Gesamtfläche.
+  - a. Der Gesamtanteil an Fettwiesengräsern (vor allem *Lolium perenne*, *Poa pratensis*, *Festuca rubra Agropyron repens*) und Löwenzahn (*Taraxacum officinale*) beträgt mehr als 66 Prozent der Gesamtfläche.
   - b. Der Anteil invasiver Neophyten beträgt mehr als 5 Prozent der Gesamtfläche.
 
 - 14\.1.7 Teilflächen können ausgeschlossen werden.
@@ -2897,14 +3254,14 @@ Anhang 4*[^t-3]*
 
 ### 15.1 Qualitätsstufe II
 
-- 15\.1.1 Beiträge werden ausgerichtet für alpwirtschaftlich genutzte Wiesen, Weiden und Streueflächen im Sömmerungsgebiet. Als Streueflächen gelten Flächen nach Artikel 21 LBV[^annex4-lvlu1-lvl15-lvl151-1]. Heuwiesen im Sömmerungsgebiet, die zur Dauergrünfläche gehören, berechtigen nicht zu diesen Beiträgen.
+- 15\.1.1 Beiträge werden ausgerichtet für alpwirtschaftlich genutzte Wiesen, Weiden und Streueflächen im Sömmerungsgebiet. Als Streueflächen gelten Flächen nach Artikel 21 LBV[^annex4-lvlu1-lvlA-lvl15-lvl151-1]. Heuwiesen im Sömmerungsgebiet, die zur Dauergrünfläche gehören, berechtigen nicht zu diesen Beiträgen.
 - 15\.1.2 Indikatorpflanzen nach Artikel 59, die auf einen nährstoffarmen und artenreichen Bestand hinweisen, müssen regelmässig vorkommen.
-- 15\.1.3 Für Objekte von nationaler Bedeutung aus Inventaren nach Artikel 18*a* NHG[^annex4-lvlu1-lvl15-lvl151-2] können Beiträge ausgerichtet werden, wenn sie als Biodiversitätsförderflächen im Sömmerungsgebiet angemeldet sind, der Schutz mit Vereinbarungen zwischen dem Kanton und den Bewirtschaftern und Bewirtschafterinnen sichergestellt ist und die entsprechenden Anforderungen erfüllt sind.
+- 15\.1.3 Für Objekte von nationaler Bedeutung aus Inventaren nach Artikel 18*a* NHG[^annex4-lvlu1-lvlA-lvl15-lvl151-2] können Beiträge ausgerichtet werden, wenn sie als Biodiversitätsförderflächen im Sömmerungsgebiet angemeldet sind, der Schutz mit Vereinbarungen zwischen dem Kanton und den Bewirtschaftern und Bewirtschafterinnen sichergestellt ist und die entsprechenden Anforderungen erfüllt sind.
 - 15\.1.4 Die biologische Qualität sowie die Flächengrösse müssen während der Verpflichtungsdauer mindestens konstant bleiben.
 - 15\.1.5 Eine Düngung der Fläche nach den Vorgaben von Artikel 30 ist zulässig, wenn die floristische Qualität erhalten bleibt.
 
-[^annex4-lvlu1-lvl15-lvl151-1]: [SR 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
-[^annex4-lvlu1-lvl15-lvl151-2]: [SR 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+[^annex4-lvlu1-lvlA-lvl15-lvl151-1]: [SR 910.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10428)
+[^annex4-lvlu1-lvlA-lvl15-lvl151-2]: [SR 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
 
 ### 16 Regionsspezifische Biodiversitätsförderflächen
 
@@ -2913,15 +3270,18 @@ Anhang 4*[^t-3]*
 - 16\.1.1 Begriff: ökologisch wertvolle natürliche Lebensräume, die keinem der nach den Ziffern 1–15 und 17 beschriebenen Elemente entsprechen.
 - 16\.1.2 Die Auflagen und Bewilligung sind von der kantonalen Naturschutzfachstelle in Absprache mit dem kantonalen Landwirtschaftsamt und dem BLW festzulegen.
 
-### 17 Blühstreifen für Bestäuber und andere Nützlinge
+### 17 Getreide in weiter Reihe
 
 ### 17.1 Qualitätsstufe I
 
-- 17\.1.1 Begriff: Flächen, die vor der Aussaat als Ackerflächen genutzt oder mit Dauerkulturen belegt waren.
-- 17\.1.2 Bei grossem Unkrautdruck kann ein Reinigungsschnitt vorgenommen werden.
-- 17\.1.3 Die Flächen müssen vor dem 15. Mai angesät werden.
-- 17\.1.4 Die Flächen mit Mischungen für einjährige Blühstreifen müssen jedes Jahr neu angesät werden.
-- 17\.1.5 Die einzelnen Flächen dürfen nicht grösser sein als 50 Aren.
+- 17\.1.1 Begriff: Flächen mit Sommer- oder Wintergetreide, bei denen mindestens 40 Prozent der Anzahl Reihen über die Breite der Sämaschine ungesät sind.
+- 17\.1.2 Der Reihenabstand in ungesäten Bereichen muss mindestens 30 cm betragen.
+- 17\.1.3 Der Einsatz von Pflanzenschutzmitteln, die gestützt auf die PSMV[^annex4-lvlu1-lvlA-lvl17-lvl171-1] im Feldbau für Getreide zugelassen sind, ist unter Vorbehalt von Ziffer 17.1.4 erlaubt.
+- 17\.1.4 Problempflanzen dürfen im Frühjahr entweder durch einmaliges Striegeln bis zum 15. April oder durch eine einmalige Herbizidanwendung bekämpft werden.
+- 17\.1.5 Untersaaten mit Klee oder Klee-Grasmischungen sind erlaubt.
+- 17\.1.6 Die Kombination von Getreide in weiter Reihe mit Ackerschonstreifen auf derselben Fläche ist nicht erlaubt.
+
+[^annex4-lvlu1-lvlA-lvl17-lvl171-1]: [SR 916.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10643)
 
 ### B Vernetzung
 
@@ -2991,41 +3351,25 @@ Anhang 4*[^t-3]*
 - 5\.1 Vor Ablauf der achtjährigen Projektdauer ist der Zielerreichungsgrad zu überprüfen. Die definierten Umsetzungsziele müssen für eine Weiterführung des Projektes zu 80 Prozent erreicht werden. In begründeten Fällen kann davon abgewichen werden.
 - 5\.2 Die Zielsetzungen (Umsetzungsziele und Massnahmen) sind zu überprüfen und anzupassen. Der Projektbericht muss den Mindestanforderungen an die Vernetzung (Ziff. 2–4) entsprechen.
 
-Anhang 5*[^t-4]*
+Anhang 5[^t-4]
 
-(Art. 71 Abs. 1 und 4)
+(Art. 71*g* Abs. 1 und 4)
 
 ## Spezifische Anforderungen des Programms zur graslandbasierten Milch- und Fleischproduktion (GMF)
 
-[^t-4]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 29. Okt. 2014 ([AS 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)), Ziff. II der V vom 28. Okt. 2015 ([AS 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)), vom 16. Sept. 2016 ([AS 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)), Ziff. II Abs. 1 der V vom 18. Okt. 2017 ([AS 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)), Ziff. II der V vom 31. Okt. 2018 ([AS 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)) und vom 11. Nov. 2020, in Kraft seit 1. Jan. 2020 ([AS 2020 5449](https://fedlex.data.admin.ch/eli/oc/2020/951)).
+[^t-4]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 29. Okt. 2014 ([AS 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)), Ziff. II der V vom 28. Okt. 2015 ([AS 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)), vom 16. Sept. 2016 ([AS 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)), Ziff. II Abs. 1 der V vom 18. Okt. 2017 ([AS 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)), Ziff. II der V vom 31. Okt. 2018 ([AS 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)), vom 11. Nov. 2020 ([AS 2020 5449](https://fedlex.data.admin.ch/eli/oc/2020/951)) und Ziff. II Abs. 1 der V vom 13. April 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
 
 ### 1 Definition der Futtermittel und der Ration
 
-- 1\.1 Zum Grundfutter zählen:
-- 1\.1.1
-
-  Rau- und Saftfutter:
-
-  - a. Dauer- und Kunstwiesen/-weiden (frisch, siliert, getrocknet);
-  - b. Ganzpflanzenmais (frisch, siliert, getrocknet);
-  - c. für Rindviehmast: Mischungen aus Spindel und Körnern des Maiskolbens/Maiskolbenschrot/Maiskolbensilage (Corn-Cob-Mix); bei den übrigen Tierkategorien gelten diese Mischungen als Kraftfutter;
-  - d. Getreide-Ganzpflanzensilage;
-  - e. Futterrüben;
-  - f. Zuckerrüben;
-  - g. Zuckerrübenschnitzel frisch und siliert;
-  - h. Rübenblätter;
-  - i. Chicorée-Wurzeln;
-  - j. Kartoffeln;
-  - k. Abgang aus der Obst- und Gemüseverwertung;
-  - l. Biertreber frisch und siliert;
-  - m. verfüttertes Stroh.
-
-- 1\.1.2
+- 1\.1 Als Grundfutter für GMF zählen:
+- 1\.1.1 Grundfutter nach Artikel 28 LBV[^annex5-lvlu1-lvl1-1];
+- 1\.1.2 für die Rindviehmast: Mischungen aus Spindel und Körnern des Maiskolbens/Maiskolbenschrot/Maiskolbensilage (Corn-Cob-Mix);
+- 1\.1.3
 
   Nebenprodukte aus der Verarbeitung von Lebensmitteln:
 
-  - a. Zuckerrübenschnitzel getrocknet;
-  - b. Biertreber getrocknet;
+  - a. Biertreber frisch, siliert und getrocknet;
+  - b. Zuckerrübenschnitzel getrocknet;
   - c. Nebenprodukte der Trocken- und Schälmüllerei: Weizenkleie, Haferabfallmehl, Dinkel- und Haferspelzen, Dinkelspreu und Kornspreuer sowie Gemische davon.
 
 - 1\.2 Als Wiesen- und Weidefutter gilt das auf Weideflächen geweidete Futter und das Erntegut von Dauerwiesen und Kunstwiesen sowie das Erntegut von Zwischenkulturen zu Fütterungszwecken.
@@ -3033,6 +3377,8 @@ Anhang 5*[^t-4]*
 - 1\.4 Liegt bei einem Futtermittel der Anteil an Grundfutter über 20 Prozent, so muss der Anteil Grundfutter in der Grundfutterbilanz eingerechnet werden.
 - 1\.5 Die Jahresration pro Tier entspricht dem gesamten TS-Verzehr innerhalb eines Jahres.
 - 1\.6 Die Produkte nach Ziffer 1.1.2 sind insgesamt bis zu maximal 5 Prozent der Gesamtration als Grundfutter anrechenbar.
+
+[^annex5-lvlu1-lvl1-1]: [SR 910.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10428)
 
 ### 2 Anforderungen an den Betrieb
 
@@ -3047,7 +3393,7 @@ Anhang 5*[^t-4]*
 
 [^annex5-lvlu1-lvl3-1]: Die jeweils geltenden Versionen der GMF-Futterbilanz sind abrufbar unter www.blw.admin.ch &gt; Instrumente &gt; Direktzahlungen &gt; Produktionssystembeiträge &gt; Beitrag für graslandbasierte Milch- und Fleischproduktion
 [^annex5-lvlu1-lvl3-2]: Die jeweils geltenden Versionen der Wegleitung sind abrufbar unter www.blw.admin.ch &gt; Instrumente &gt; Direktzahlungen &gt; Ökologischer Leistungsnachweis &gt; Ausgeglichene Düngerbilanz und Bodenuntersuchungen (DZV Art. 13).
-[^annex5-lvlu1-lvl3-3]: [SR 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
+[^annex5-lvlu1-lvl3-3]: [SR 910.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10428)
 [^annex5-lvlu1-lvl3-4]: Die Wegleitung ist abrufbar unter www.blw.admin.ch &gt; Instrumente &gt; Direktzahlungen &gt; Ökologischer Leistungsnachweis &gt; Ausgeglichene Düngerbilanz und Bodenuntersuchungen &gt; Wegleitung Suisse-Bilanz, Auflage 1.13, August 2015.
 
 ### 4 Anforderungen an die Dokumentation
@@ -3065,13 +3411,13 @@ Anhang 5*[^t-4]*
   - b. fragliche Angaben zu Tierbeständen abzuklären;
   - c. fragliche Angaben zur Zufuhr und Wegfuhr von Futtermitteln anhand von Lieferscheinen zu verifizieren.
 
-Anhang 6*[^t-5]*
+Anhang 6[^t-5]
 
-(Art. 72 Abs. 3 und 4, 75 Abs. 1, 2<sup>bis</sup> und 3, 76 Abs. 1 sowie 115*d* Abs. 1)
+(Art. 72 Abs. 2 und 4, 75 Abs. 1 und 3, 75*a* Abs. 1 und 3, 76 Abs. 1 sowie 115*d* Abs. 1)
 
 ## Spezifische Anforderungen der Tierwohlbeiträge
 
-[^t-5]: Fassung gemäss Ziff. II Abs. 2 der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)). Bereinigt gemäss Ziff. II der V vom 31. Okt. 2018 ([AS 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)), vom 11. Nov. 2020 ([AS 2020 5449](https://fedlex.data.admin.ch/eli/oc/2020/951)) und vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)).
+[^t-5]: Fassung gemäss Ziff. II Abs. 2 der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)). Bereinigt gemäss Ziff. II der V vom 31. Okt. 2018 ([AS 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)), vom 11. Nov. 2020 ([AS 2020 5449](https://fedlex.data.admin.ch/eli/oc/2020/951)), vom 3. Nov. 2021 ([AS 2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)) und Ziff. II Abs. 1 der V vom 13. April 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
 
 ### A Anforderungen für BTS-Beiträge
 
@@ -3125,7 +3471,7 @@ Anhang 6*[^t-5]*
   - c. bei hochträchtigen Rindern, die nach dem Kalben in einem Anbindestall gehalten werden, während zehn Tagen vor dem voraussichtlichen Geburtstermin.
 
 [^annex6-lvlu1-lvlA-lvl2-1]: Die Norm kann beim Bundesamt für Landwirtschaft, 3003 Bern, kostenlos eingesehen oder gegen Bezahlung bei der Schweizerische Normen-Vereinigung (SNV), Bürglistrasse 29, 8400 Winterthur oder unter www.snv.ch bezogen werden.
-[^annex6-lvlu1-lvlA-lvl2-2]: SR **91****6.404.1**
+[^annex6-lvlu1-lvlA-lvl2-2]: [[AS 2011 5453](https://fedlex.data.admin.ch/eli/oc/2011/775); [2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)Anhang Ziff. 1; [2013 1753](https://fedlex.data.admin.ch/eli/oc/2013/399), [3041](https://fedlex.data.admin.ch/eli/oc/2013/594)Ziff. I 13, [3999](https://fedlex.data.admin.ch/eli/oc/2013/730); [2014 1389](https://fedlex.data.admin.ch/eli/oc/2014/294), [2243](https://fedlex.data.admin.ch/eli/oc/2014/376)Anhang Ziff. 2; [2015 4255](https://fedlex.data.admin.ch/eli/oc/2015/716)Anhang Ziff. 2, [4573](https://fedlex.data.admin.ch/eli/oc/2015/770); [2016 3401](https://fedlex.data.admin.ch/eli/oc/2016/570); [2017 6145](https://fedlex.data.admin.ch/eli/oc/2017/680); [2018 2085](https://fedlex.data.admin.ch/eli/oc/2018/293), [4275](https://fedlex.data.admin.ch/eli/oc/2018/683), [4353](https://fedlex.data.admin.ch/eli/oc/2018/702)Art. 20 Ziff. 2, [4543](https://fedlex.data.admin.ch/eli/oc/2018/708)Anhang Ziff. 2; [2019 3673](https://fedlex.data.admin.ch/eli/oc/2019/663)Ziff. I; [2020 2441](https://fedlex.data.admin.ch/eli/oc/2020/459)Anhang 4 Ziff. 9; [2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)Anhang Ziff. 1]. Siehe heute: die V vom 3. Nov. 2021 über die Identitas AG und die Tierverkehrsdatenbank ([SR 916.404.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10849)).
 
 ### 3 Tiere der Pferdegattung
 
@@ -3325,8 +3671,9 @@ Anhang 6*[^t-5]*
 
   Anforderungen an die Weidefläche:
 
-  - a. Für Tiere der Rindergattung und Wasserbüffel sowie für Tiere der Ziegen- und Schafgattung muss die Weidefläche so bemessen sein, dass die Tiere an den Tagen mit Auslauf auf einer Weide gemäss Ziffer 2.1 mindestens 25 Prozent ihres Tagesbedarfs an Trockensubstanz durch Weidefutter decken können.
+  - a. Pro GVE der Tiere der Rindergattung und Wasserbüffel muss eine Weidefläche von vier Aren zur Verfügung gestellt werden. Jedem Tier muss an Weidetagen Auslauf auf die Weide gewährt werden.
   - b. Pro Tier der Pferdegattung, das sich auf der Weide aufhält, muss eine Fläche von acht Aren zur Verfügung stehen; halten sich gleichzeitig fünf oder mehr Tiere auf derselben Fläche auf, so kann die Fläche pro Tier um maximal 20 Prozent verkleinert werden.
+  - c. Für Tiere der Ziegen- und Schafgattung muss die Weidefläche so bemessen sein, dass die Tiere an den Tagen mit Auslauf auf einer Weide nach Ziffer 2.1 Buchstabe a mindestens 25 Prozent ihres Tagesbedarfs an Trockensubstanz durch Weidefutter decken können.
 
 - 2\.5
 
@@ -3452,82 +3799,84 @@ Anhang 6*[^t-5]*
 - 6\.1 Die Tiere müssen ganzjährig auf der Weide gehalten werden.
 - 6\.2 Für Bisons muss für die ersten fünf Tiere eine Weidefläche von mindestens 2500 m<sup>2</sup> zur Verfügung stehen. Diese Fläche ist für jedes zusätzliche Tier um 240 m<sup>2</sup> zu vergrössern. Haben die Tiere dauernd Zugang zu befestigten Flächen, kann die Weidefläche entsprechend reduziert werden, höchstens jedoch um 500 m<sup>2</sup>.
 
-Anhang 6a*[^t-6]*
+### C Anforderungen für Weidebeiträge
 
-(Art. 82*d* Abs. 2 und 3 sowie 82*e* Abs. 2)
+### 1 Allgemeine Anforderungen und Dokumentation des Auslaufs
 
-## Anforderungen an den Beitrag für die Reduktion von Pflanzenschutzmitteln im Obstbau, im Rebbau und im Zuckerrübenanbau
+- 1\.1 Die allgemeinen Anforderungen und die Dokumentation des Auslaufs richten sich nach Buchstabe B Ziffer 1.
 
-[^t-6]: Eingefügt durch Ziff. II Abs. 3 der V vom 18. Okt. 2017 ([AS 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)). Bereinigt gemäss Ziff. II der V vom 31. Okt. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)).
+### 2 Tiere der Rindergattung und Wasserbüffel
 
-### 1 Obstbau
+- 2\.1
 
-### 1.1 Herbizidverzicht
+  Den Tieren ist wie folgt Auslauf zu gewähren:
 
--
+  - a. vom 1. Mai bis zum 31. Oktober: an mindestens 26 Tagen pro Monat auf einer Weide;
+  - b. vom 1. November bis zum 30. April an mindestens 22 Tagen pro Monat auf einer Auslauffläche oder einer Weide.
 
-  Massnahmen:
+- 2\.2 Die Weidefläche muss so bemessen sein, dass die Tiere an den Tagen mit Auslauf auf einer Weide nach Ziffer 2.1 Buchstabe a mindestens 70 Prozent des Tagesbedarfs an Trockensubstanz durch Weidefutter decken können. Davon ausgenommen sind bis 160 Tage alte Kälber.
+- 2\.3 Im Übrigen gelten die Anforderungen nach Buchstabe B Ziffern 2.3 und 2.5–2.7.
 
-  - a. Verzicht auf den Einsatz von Herbiziden zwischen den Reihen; unter den Bäumen maximal eine Behandlung pro Jahr nur mit einem Blattherbizid;
-  - b. vollständiger Verzicht auf Herbizide.
+Anhang 6a[^t-6]
 
-### 1.2 Verzicht auf Fungizide mit besonderem Risikopotenzial
+(Art. 82*c*)
 
--
+## Voraussetzungen und Auflagen für den Beitrag für die stickstoffreduzierte Phasenfütterung der Schweine
 
-  Massnahme:
+[^t-6]: Eingefügt durch Ziff. II Abs. 3 der V vom 18. Okt. 2017 ([AS 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)). Fassung gemäss Ziff. II Abs. 2 der V vom 13. April 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
 
-  - a. Verzicht auf den Einsatz von Fungiziden gemäss der Liste «Pflanzenschutzmittel mit besonderem Risikopotenzial»[^annex6a-lvlu1-lvl1-lvl12-1].
+### 1 Ermittlung des Tierbestands je Tierkategorie für die Berechnung des betriebsspezifischen Grenzwerts
 
-[^annex6a-lvlu1-lvl1-lvl12-1]: Die Liste ist abrufbar unter www. blw.admin.ch &gt; Nachhaltige Produktion &gt; Pflanzenschutz &gt; Pflanzenschutzmittel &gt; Aktionsplan Pflanzenschutzmittel.
+- 1\.1 Bei Betrieben mit einem Anteil der säugenden Zuchtsauen von mehr als 50 oder weniger als 10 Prozent am Zuchtsauenbestand wird der Bestand nach Artikel 37 Absatz 2 an Tieren dieser beiden Tierkategorien berücksichtigt.
+- 1\.2
 
-### 2 Rebbau
+  Bei Betrieben mit einem Anteil der säugenden Zuchtsauen zwischen 10 und 50 Prozent am Zuchtsauenbestand wird der Bestand nach Artikel 37 Absatz 2 an Tieren dieser beiden Tierkategorien addiert und nach dem folgenden Schlüssel aufgeteilt:
 
-### 2.1 Herbizidverzicht
+  - a. nicht säugende Zuchtsauen: 74 %;
+  - b. säugende Zuchtsauen: 26 %.
 
--
+- 1\.3 Für den zu berücksichtigenden Bestand an abgesetzten Ferkeln wird der Bestand nach Artikel 37 Absatz 2 an säugenden und nicht säugenden Zuchtsauen addiert und mit dem Faktor 2,7 multipliziert.
+- 1\.4 Bei Betrieben mit einem Anteil der säugenden Zuchtsauen von mehr als 50 Prozent am Zuchtsauenbestand und einem durchschnittlichen Bestand von mehr als 5 abgesetzten Ferkeln pro säugende Zuchtsau wird in Abweichung von Ziffer 1.3 mit 11,8 abgesetzten Ferkeln pro säugende Zuchtsau gerechnet.
+- 1\.5 Für Remonten und Mastschweine sowie Eber wird der Bestand nach Artikel 37 Absatz 2 an Tieren dieser beiden Tierkategorien berücksichtigt.
 
-  Massnahmen:
+### 2 Grenzwert an Rohprotein in g/MJ VES pro Tierkategorie
 
-  - a. Verzicht auf den Einsatz von Herbiziden zwischen den Reihen; unter dem Stock wird nur Blattherbizid auf einer Breite von maximal 50 cm eingesetzt;
-  - b. vollständiger Verzicht auf Herbizide.
+- 2\.1 Der Grenzwert an Rohprotein in Gramm pro Megajoule verdauliche Energie Schwein (g/MJ VES) pro Tierkategorie beträgt:
 
-### 2.2 Verzicht auf Fungizide mit besonderem Risikopotenzial
+<table>
+<tr><th>Tierkategorie</th><th colspan="2">Grenzwert an Rohprotein in g/MJ VES; für:</th></tr>
+<tr><th></th><th>Biobetriebe nach Art. 5 Abs. 1 Bst. a der Bio-Verordnung vom 22. September 1997[^annex6a-lvlu1-lvl2-1]</th><th>übrige Betriebe</th></tr>
+<tr><td>a. säugende Zuchtsauen</td><td>[tab] 14,70</td><td>[tab] 12,00</td></tr>
+<tr><td>b. nicht säugende Zuchtsauen</td><td>[tab] 11,40</td><td>[tab] 10,80</td></tr>
+<tr><td>c. Eber</td><td>[tab] 11,40</td><td>[tab] 10,80</td></tr>
+<tr><td>d. abgesetzte Ferkel</td><td>[tab] 14,20</td><td>[tab] 11,80</td></tr>
+<tr><td>e. Remonten und Mastschweine</td><td>[tab] 12,70</td><td>[tab] 10,50</td></tr>
+</table>
 
--
+[^annex6a-lvlu1-lvl2-1]: [SR 910.18](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10418)
 
-  Massnahmen:
+### 3 Berechnung des betriebsspezifischen Grenzwerts
 
-  - a. Verzicht auf den Einsatz von Fungiziden gemäss der Liste «Pflanzenschutzmittel mit besonderem Risikopotenzial» mit Ausnahme des Einsatzes von höchstens 1,5 kg Kupfer pro Hektar und Jahr;
-  - b. Verzicht auf den Einsatz von Fungiziden gemäss der Liste «Pflanzenschutzmittel mit besonderem Risikopotenzial».
+- 3\.1 Der Tierbestand je Tierkategorie nach Ziffer 1 wird mit dem GVE-Faktor der betreffenden Tierkategorie und dem Grenzwert nach Ziffer 2 multipliziert. Die Ergebnisse aller Tierkategorien werden addiert und durch das Total an Tieren der Schweinegattung nach Ziffer 1 in GVE dividiert. Dieser ermittelte betriebsspezifische Grenzwert wird auf zwei Kommastellen gerundet. Der betriebsspezifische Grenzwert gilt für das Beitragsjahr, in dem er berechnet wurde.
 
-### 3 Zuckerrübenanbau
+### 4 Aufzeichnungen zu Fütterung und Futtermitteln
 
-### 3.1 Herbizidverzicht
+- 4\.1 Der Bewirtschafter oder die Bewirtschafterin ist verpflichtet, die Aufzeichnungen zur Fütterung gemäss den Weisungen zur Berücksichtigung von nährstoffreduziertem Futter in der Suisse-Bilanz zu führen. Anwendbar sind die Versionen der «Wegleitung Suisse-Bilanz»[^annex6a-lvlu1-lvl4-1] mit Geltung ab dem 1. Januar des jeweiligen Jahres und mit Geltung ab dem 1. Januar des vorangehenden Jahres. Der Bewirtschafter oder die Bewirtschafterin kann wählen, welche der Versionen er oder sie einhalten will.
+- 4\.2 Massgebend ist der Gehalt an Rohprotein in g/MJ VES der in der abgeschlossenen linearen Korrektur oder der Import/Export-Bilanz nach Anhang 1 Ziffer 2.1.12 enthaltenen Futtermittel.
 
--
+[^annex6a-lvlu1-lvl4-1]: Die jeweils geltenden Versionen der Wegleitung sind abrufbar unter www.blw.admin.ch &gt; Instrumente &gt; Direktzahlungen &gt; Ökologischer Leistungsnachweis &gt; Ausgeglichene Düngerbilanz und Bodenuntersuchungen (DZV Art. 13).
 
-  Massnahmen:
+### 5 Überprüfung der Einhaltung des Grenzwerts
 
-  - a. nur mechanische Unkrautbekämpfung zwischen den Reihen ab 4-Blatt-Stadium bis zur Ernte;
-  - b. nur mechanische Unkrautbekämpfung zwischen den Reihen ab Saat bis zur Ernte;
-  - c. vollständiger Verzicht auf Herbizide ab der Ernte der vorangehenden Hauptkultur bis zur Ernte der Zuckerrüben.
+- 5\.1 Bei der Kontrolle sind die abgeschlossene lineare Korrektur oder die Import/Export-Bilanz und der betriebsspezifische Grenzwert des Beitragsjahres massgebend. Die Kontrolle erfolgt im Rahmen der Überprüfung der linearen Korrektur oder Import/Export-Bilanz.
 
-### 3.2 Verzicht auf Fungizide und Insektizide
-
--
-
-  Massnahme:
-
-  - a. Verzicht auf Fungizide und Insektizide ab Saat bis zur Ernte.
-
-Anhang 7*[^t-7]*
+Anhang 7[^t-7]
 
 (Art. 61 Abs. 4, 63 Abs. 4, 83 Abs. 1 und 86 Abs. 3)
 
 ## Beitragsansätze
 
-[^t-7]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 29. Okt. 2014 ([AS 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)), Ziff. II der V vom 20. Mai 2015 ([AS 2015 1743](https://fedlex.data.admin.ch/eli/oc/2015/339)), vom 28. Okt. 2015 ([AS 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)), vom 16. Sept. 2016 ([AS 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)), Ziff. I der V vom 15. Febr. 2017 ([AS 2017 691](https://fedlex.data.admin.ch/eli/oc/2017/126)), Ziff. II Abs. 1 vom 18. Okt. 2017 ([AS 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)) und Ziff. II der V vom 31. Okt. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)).
+[^t-7]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 29. Okt. 2014 ([AS 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)), Ziff. II der V vom 20. Mai 2015 ([AS 2015 1743](https://fedlex.data.admin.ch/eli/oc/2015/339)), vom 28. Okt. 2015 ([AS 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)), vom 16. Sept. 2016 ([AS 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)), Ziff. I der V vom 15. Febr. 2017 ([AS 2017 691](https://fedlex.data.admin.ch/eli/oc/2017/126)), Ziff. II Abs. 1 vom 18. Okt. 2017 ([AS 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)), Ziff. II der V vom 31. Okt. 2018 ([AS 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)), Ziff. II Abs. 1 der V vom 13. April 2022 ([AS 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)) und Ziff. II und III der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)).
 
 ### 1 Kulturlandschaftsbeiträge
 
@@ -3576,7 +3925,7 @@ Anhang 7*[^t-7]*
 - 1\.6.1 Der Sömmerungsbeitrag wird aufgrund des festgelegten Normalbesatzes berechnet und beträgt pro Jahr für:
 
 <table>
-<tr><td>a. Schafe, mit Ausnahme von Milchschafen, bei ständiger Behirtung oder Umtriebsweide mit Herdenschutzmassnahmen</td><td>400 Fr. pro NST</td></tr>
+<tr><td>a. Schafe, mit Ausnahme von Milchschafen, bei ständiger Behirtung oder Umtriebsweide mit Herdenschutzmassnahmen</td><td>500 Fr. pro NST</td></tr>
 <tr><td>b. Schafe, mit Ausnahme von Milchschafen, bei Umtriebsweide</td><td>320 Fr. pro NST</td></tr>
 <tr><td>c. Schafe, mit Ausnahme von Milchschafen, bei übrigen Weiden</td><td>120 Fr. pro NST</td></tr>
 <tr><td>d. übrige raufutterverzehrende Nutztiere</td><td>400 Fr. pro NST</td></tr>
@@ -3592,8 +3941,8 @@ Anhang 7*[^t-7]*
 
 ### 2.1 Basisbeitrag
 
-- 2\.1.1 Der Basisbeitrag beträgt 900 Franken pro Hektare und Jahr.
-- 2\.1.2 Für die Dauergrünflächen, die als Biodiversitätsförderflächen nach Artikel 55 Absatz 1 Buchstabe a, b, c, d oder g bewirtschaftet werden, beträgt der Basisbeitrag 450 Franken pro Hektare und Jahr.
+- 2\.1.1 Der Basisbeitrag beträgt 700 Franken pro Hektare und Jahr.
+- 2\.1.2 Für die Dauergrünflächen, die als Biodiversitätsförderflächen nach Artikel 55 Absatz 1 Buchstabe a, b, c, d oder g bewirtschaftet werden, beträgt der Basisbeitrag 350 Franken pro Hektare und Jahr.
 - 2\.1.3 Abstufung:
 
 <table>
@@ -3613,11 +3962,11 @@ Anhang 7*[^t-7]*
 - 2\.2.1 Der Produktionserschwernisbeitrag beträgt pro Hektare und Jahr:
 
 <table>
-<tr><td>a. in der Hügelzone</td><td>[tab] 240 Fr.</td></tr>
-<tr><td>b. in der Bergzone I</td><td>[tab] 300 Fr.</td></tr>
-<tr><td>c. in der Bergzone II</td><td>[tab] 320 Fr.</td></tr>
-<tr><td>d. in der Bergzone III</td><td>[tab] 340 Fr.</td></tr>
-<tr><td>e. in der Bergzone IV</td><td>[tab] 360 Fr.</td></tr>
+<tr><td>a. in der Hügelzone</td><td>[tab] 290 Fr.</td></tr>
+<tr><td>b. in der Bergzone I</td><td>[tab] 410 Fr.</td></tr>
+<tr><td>c. in der Bergzone II</td><td>[tab] 450 Fr.</td></tr>
+<tr><td>d. in der Bergzone III</td><td>[tab] 470 Fr.</td></tr>
+<tr><td>e. in der Bergzone IV</td><td>[tab] 490 Fr.</td></tr>
 </table>
 
 ### 2.3 Beitrag für die offene Ackerfläche und für Dauerkulturen
@@ -3653,12 +4002,11 @@ Anhang 7*[^t-7]*
 <tr><td colspan="2">*7.* *Rotationsbrache*</td><td>3300</td><td colspan="2"></td></tr>
 <tr><td colspan="2">*8.* *Ackerschonstreifen*</td><td>2300</td><td colspan="2"></td></tr>
 <tr><td colspan="2">*9.* *Saum auf Ackerfläche*</td><td>3300</td><td colspan="2"></td></tr>
-<tr><td colspan="2">*10.* *Rebflächen mit natürlicher Artenvie**l**falt*</td><td>–</td><td colspan="2">1100</td></tr>
-<tr><td colspan="2">*11.* *Uferwiese entlang von Fliessgewässern*</td><td>450</td><td colspan="2"></td></tr>
-<tr><td colspan="2">*12.* *Artenreiche Grün- und Streueflächen im Sö**m**merungsgebiet*</td><td>–</td><td colspan="2">150, max. aber 300 je NST</td></tr>
-<tr><td colspan="2">[tab]</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">*13.* *Regionsspezifische Biodiversitätsfö**r**derflächen*</td><td>–</td><td colspan="2">–</td></tr>
-<tr><td colspan="2">*14.* *Blühstreifen für Bestäuber und andere Nüt**z**linge*</td><td>2500</td><td colspan="2"></td></tr>
+<tr><td colspan="2">*10.* *Rebflächen mit natürlicher Artenvielfalt*</td><td>–</td><td colspan="2">1100</td></tr>
+<tr><td colspan="2">*11.* *Uferwiese*</td><td>450</td><td colspan="2"></td></tr>
+<tr><td colspan="2">*12.* *Artenreiche Grün- und Streueflächen im Sömmerungsgebiet*</td><td>–</td><td colspan="2">150, max. aber 300 je NST</td></tr>
+<tr><td colspan="2">*13.* *Regionsspezifische Biodiversitätsförderflächen*</td><td>–</td><td colspan="2">–</td></tr>
+<tr><td colspan="2">*14.* *Getreide in weiter Reihe*</td><td>300</td><td colspan="2"></td></tr>
 </table>
 
 - 3\.1.2 Die Beiträge betragen für:
@@ -3704,161 +4052,137 @@ Anhang 7*[^t-7]*
 <tr><td>c. für die übrige beitragsberechtigte Fläche</td><td>[tab] 200 Fr.</td></tr>
 </table>
 
-### 5.2 Beitrag für extensive Produktion von Getreide, Sonnenblumen, Eiweisserbsen, Ackerbohnen, Lupinen und Raps
+### 5.2 Beitrag für den Verzicht auf Pflanzenschutzmittel im Ackerbau
 
-- 5\.2.1 Der Beitrag für extensive Produktion beträgt 400 Franken pro Hektare und Jahr.
-
-### 5.3 Beitrag für graslandbasierte Milch- und Fleischproduktion
-
-- 5\.3.1 Der Beitrag für graslandbasierte Milch- und Fleischproduktion beträgt 200 Franken pro Hektare Grünfläche des Betriebs und Jahr.
-
-### 5.4 Tierwohlbeiträge
-
-- 5\.4.1 Die Beiträge betragen pro Tierkategorie und Jahr:
+- 5\.2.1 Der Beitrag für den Verzicht auf Pflanzenschutzmittel im Ackerbau beträgt pro Hektare und Jahr:
 
 <table>
-<tr><th>Tierkategorie</th><th colspan="2">Beitrag (Fr. je GVE)</th><th></th></tr>
-<tr><th></th><th>BTS</th><th colspan="2">RAUS</th></tr>
-<tr><td>a. Tierkategorien der Rindergattung und Wasserbüffel:</td><td></td><td colspan="2"></td></tr>
-<tr><td>1. Milchkühe</td><td>90</td><td colspan="2">190</td></tr>
-<tr><td>2. andere Kühe</td><td>90</td><td colspan="2">190</td></tr>
-<tr><td>3. weibliche Tiere, über 365 Tage alt, bis zur ersten Abkalbung</td><td>90</td><td colspan="2">190</td></tr>
-<tr><td>4. weibliche Tiere, über 160–365 Tage alt</td><td>90</td><td colspan="2">190</td></tr>
-<tr><td>5. weibliche Tiere, bis 160 Tage alt</td><td>–</td><td colspan="2">370</td></tr>
-<tr><td>6. männliche Tiere, über 730 Tage alt</td><td>90</td><td colspan="2">190</td></tr>
-<tr><td>7. männliche Tiere, über 365–730 Tage alt</td><td>90</td><td colspan="2">190</td></tr>
-<tr><td>8. männliche Tiere, über 160–365 Tage alt</td><td>90</td><td colspan="2">190</td></tr>
-<tr><td>9. männliche Tiere, bis 160 Tage alt</td><td>–</td><td colspan="2">370</td></tr>
-<tr><td>b. Tierkategorien der Pferdegattung:</td><td></td><td colspan="2"></td></tr>
-<tr><td>1. weibliche und kastrierte männliche Tiere, über 900 Tage alt</td><td>90</td><td colspan="2">190</td></tr>
-<tr><td>2. Hengste, über 900 Tage alt</td><td>–</td><td colspan="2">190</td></tr>
-<tr><td>3. Tiere, bis 900 Tage alt</td><td>–</td><td colspan="2">190</td></tr>
-<tr><td>c. Tierkategorien der Ziegengattung:</td><td></td><td colspan="2"></td></tr>
-<tr><td>1. weibliche Tiere, über ein Jahr alt</td><td>90</td><td colspan="2">190</td></tr>
-<tr><td>2. männliche Tiere, über ein Jahr alt</td><td>–</td><td colspan="2">190</td></tr>
-<tr><td>d. Tierkategorien der Schafgattung:</td><td></td><td colspan="2"></td></tr>
-<tr><td>1. weibliche Tiere, über ein Jahr alt</td><td>–</td><td colspan="2">190</td></tr>
-<tr><td>2. männliche Tiere, über ein Jahr alt</td><td>–</td><td colspan="2">190</td></tr>
-<tr><td>e. Tierkategorien der Schweinegattung:</td><td></td><td colspan="2"></td></tr>
-<tr><td>1. Zuchteber, über halbjährig</td><td>–</td><td colspan="2">165</td></tr>
-<tr><td>2. nicht säugende Zuchtsauen, über halbjährig</td><td>155</td><td colspan="2">370</td></tr>
-<tr><td>3. säugende Zuchtsauen</td><td>155</td><td colspan="2">165</td></tr>
-<tr><td>4. abgesetzte Ferkel</td><td>155</td><td colspan="2">165</td></tr>
-<tr><td>5. Remonten, bis halbjährig, und Mastschweine</td><td>155</td><td colspan="2">165</td></tr>
-<tr><td>f. Kaninchen:</td><td></td><td colspan="2"></td></tr>
-<tr><td>1. Zibben mit jährlich mindestens vier Würfen, einschliesslich Jungtiere bis zum Alter von etwa 35 Tagen</td><td>280</td><td colspan="2">–</td></tr>
-<tr><td>2. Jungtiere, etwa 35 bis 100 Tage alt</td><td>280</td><td colspan="2">–</td></tr>
-<tr><td>g. Tierkategorien des Nutzgeflügels:</td><td></td><td colspan="2"></td></tr>
-<tr><td>1. Bruteier produzierende Hennen und Hähne</td><td>280</td><td colspan="2">290</td></tr>
-<tr><td>2. Konsumeier produzierende Hennen</td><td>280</td><td colspan="2">290</td></tr>
-<tr><td>3. Junghennen, Junghähne und Küken für die Eierproduktion</td><td>280</td><td colspan="2">290</td></tr>
-<tr><td>4. Mastpoulets</td><td>280</td><td colspan="2">290</td></tr>
-<tr><td>5. Truten</td><td>280</td><td colspan="2">290</td></tr>
-<tr><td>h. Wildtiere:</td><td></td><td colspan="2"></td></tr>
-<tr><td>1. Hirsche</td><td>–</td><td colspan="2">80</td></tr>
-<tr><td>2. Bisons</td><td>–</td><td colspan="2">80</td></tr>
+<tr><td>a. für Raps, Kartoffeln, Freiland-Konservengemüse und Zuckerrüben</td><td>800 Fr.</td></tr>
+<tr><td>b. für Brotweizen, Hartweizen, Futterweizen, Roggen, Dinkel, Hafer, Gerste, Triticale, Trockenreis, Emmer und Einkorn sowie Mischungen dieser Getreidearten, für Lein, Sonnenblumen, Erbsen zur Körnergewinnung, Bohnen und Wicken zur Körnergewinnung, Lupinen und Kichererbsen sowie für Mischungen von Erbsen zur Körnergewinnung, Bohnen und Wicken zur Körnergewinnung, Lupinen und Kichererbsen mit Getreide oder Leindotter.</td><td>400 Fr.</td></tr>
 </table>
 
-- 5\.4.2 Der Zusatzbeitrag nach Artikel 75 Absatz 2<sup>bis</sup> beträgt 120 Franken pro GVE und Jahr.
+### 5.3 Beitrag für den Verzicht auf Insektizide und Akarizide im Gemüse- und Beerenanbau
+
+- 5\.3.1 Der Beitrag für den Verzicht auf Insektizide und Akarizide im Gemüse- und Beerenanbau beträgt 1000 Franken pro Hektare und Jahr.
+
+### 5.4 Beitrag für den Verzicht auf Insektizide, Akarizide und Fungizide nach der Blüte bei Dauerkulturen
+
+- 5\.4.1 Der Beitrag für den Verzicht auf Insektizide, Akarizide und Fungizide nach der Blüte bei Dauerkulturen beträgt 1100 Franken pro Hektare und Jahr.
+
+### 5.5 Beitrag für die Bewirtschaftung von Flächen mit Dauerkulturen mit Hilfsmitteln nach der biologischen Landwirtschaft
+
+- 5\.5.1 Der Beitrag für die Bewirtschaftung von Flächen mit Dauerkulturen mit Hilfsmitteln nach der biologischen Landwirtschaft beträgt 1600 Franken pro Hektare und Jahr.
+
+### 5.6 Beitrag für den Verzicht auf Herbizide im Ackerbau und in Spezialkulturen
+
+- 5\.6.1 Der Beitrag für den Verzicht auf Herbizide im Ackerbau und in Spezialkulturen beträgt pro Hektare und Jahr:
+
+<table>
+<tr><td>a. für Raps, Kartoffeln und Freiland-Konservengemüse</td><td>600 Fr.</td></tr>
+<tr><td>b. für die Spezialkulturen, ohne Tabak und ohne die Wurzeln der Treibzichorie</td><td>1000 Fr.</td></tr>
+<tr><td>c. für die Hauptkulturen der übrigen offenen Ackerfläche</td><td>250 Fr.</td></tr>
+</table>
+
+### 5.7 Beitrag für die funktionale Biodiversität: Beitrag für Nützlingsstreifen
+
+- 5\.7.1 Der Beitrag für Nützlingsstreifen beträgt pro Hektare und Jahr:
+
+<table>
+<tr><td>a. für Nützlingsstreifen auf offener Ackerfläche</td><td>3300 Fr.</td></tr>
+<tr><td>b. für Nützlingsstreifen in Dauerkulturen</td><td>4000 Fr.</td></tr>
+</table>
+
+### 5.8 Beitrag für eine angemessene Bedeckung des Bodens
+
+- 5\.8.1 Der Beitrag für eine angemessene Bedeckung des Bodens beträgt pro Hektare und Jahr:
+
+<table>
+<tr><td>a. für die Hauptkulturen auf offener Ackerfläche, mit Ausnahme von einjährigen Freilandgemüse, Beerenkulturen sowie Gewürz- und Medizinalpflanzen</td><td>250 Fr.</td></tr>
+<tr><td>b. für einjährige Freilandgemüse, mit Ausnahme von Freiland-Konservengemüse, und Beerenkulturen, für Gewürz- und Medizinalpflanzen auf offener Ackerfläche sowie für Reben</td><td>1000 Fr.</td></tr>
+</table>
+
+### 5.9 Beitrag für die schonende Bodenbearbeitung von Hauptkulturen auf der Ackerfläche
+
+- 5\.9.1 Der Beitrag für die schonende Bodenbearbeitung von Hauptkulturen auf der Ackerfläche beträgt 250 Franken pro Hektare und Jahr.
+
+### 5.10 Beitrag für Klimamassnahmen: Beitrag für den effizienten Stickstoffeinsatz
+
+- 5\.10.1 Der Beitrag für den effizienten Stickstoffeinsatz beträgt 100 Franken pro Hektare und Jahr.
+
+### 5.11 Beitrag für graslandbasierte Milch- und Fleischproduktion
+
+- 5\.11.1 Der Beitrag für graslandbasierte Milch- und Fleischproduktion beträgt 200 Franken pro Hektare Grünfläche des Betriebs und Jahr.
+
+### 5.12 Tierwohlbeiträge
+
+- 5\.12.1 Die Tierwohlbeiträge betragen pro Tierkategorie und Jahr:
+
+<table>
+<tr><th>Tierkategorie</th><th colspan="3">Beitrag (Fr. je GVE)</th></tr>
+<tr><th></th><th>BTS</th><th>RAUS</th><th>Weide</th></tr>
+<tr><td>a. Tierkategorien der Rindergattung und Wasserbüffel:</td><td></td><td></td><td></td></tr>
+<tr><td>1. Milchkühe</td><td>90</td><td>190</td><td>350</td></tr>
+<tr><td>2. andere Kühe</td><td>90</td><td>190</td><td>350</td></tr>
+<tr><td>3. weibliche Tiere, über 365 Tage alt, bis zur ersten Abkalbung</td><td>90</td><td>190</td><td>350</td></tr>
+<tr><td>4. weibliche Tiere, über 160–365 Tage alt</td><td>90</td><td>190</td><td>350</td></tr>
+<tr><td>5. weibliche Tiere, bis 160 Tage alt</td><td>–</td><td>370</td><td>530</td></tr>
+<tr><td>6. männliche Tiere, über 730 Tage alt</td><td>90</td><td>190</td><td>350</td></tr>
+<tr><td>7. männliche Tiere, über 365–730 Tage alt</td><td>90</td><td>190</td><td>350</td></tr>
+<tr><td>8. männliche Tiere, über 160–365 Tage alt</td><td>90</td><td>190</td><td>350</td></tr>
+<tr><td>9. männliche Tiere, bis 160 Tage alt</td><td>–</td><td>370</td><td>530</td></tr>
+<tr><td>b. Tierkategorien der Pferdegattung:</td><td></td><td></td><td></td></tr>
+<tr><td>1. weibliche und kastrierte männliche Tiere, über 900 Tage alt</td><td>90</td><td>190</td><td>–</td></tr>
+<tr><td>2. Hengste, über 900 Tage alt</td><td>–</td><td>190</td><td>–</td></tr>
+<tr><td>3. Tiere, bis 900 Tage alt</td><td>–</td><td>190</td><td>–</td></tr>
+<tr><td>c. Tierkategorien der Ziegengattung:</td><td></td><td></td><td></td></tr>
+<tr><td>1. weibliche Tiere, über ein Jahr alt</td><td>90</td><td>190</td><td>–</td></tr>
+<tr><td>2. männliche Tiere, über ein Jahr alt</td><td>–</td><td>190</td><td>–</td></tr>
+<tr><td>d. Tierkategorien der Schafgattung:</td><td></td><td></td><td></td></tr>
+<tr><td>1. weibliche Tiere, über ein Jahr alt</td><td>–</td><td>190</td><td>–</td></tr>
+<tr><td>2. männliche Tiere, über ein Jahr alt</td><td>–</td><td>190</td><td>–</td></tr>
+<tr><td>e. Tierkategorien der Schweinegattung:</td><td></td><td></td><td></td></tr>
+<tr><td>1. Zuchteber, über halbjährig</td><td>–</td><td>165</td><td>–</td></tr>
+<tr><td>2. nicht säugende Zuchtsauen, über halbjährig</td><td>155</td><td>370</td><td>–</td></tr>
+<tr><td>3. säugende Zuchtsauen</td><td>155</td><td>165</td><td>–</td></tr>
+<tr><td>4. abgesetzte Ferkel</td><td>155</td><td>165</td><td>–</td></tr>
+<tr><td>5. Remonten, bis halbjährig, und Mastschweine</td><td>155</td><td>165</td><td>–</td></tr>
+<tr><td>f. Kaninchen:</td><td></td><td></td><td></td></tr>
+<tr><td>1. Zibben mit jährlich mindestens vier Würfen, einschliesslich Jungtiere bis zum Alter von etwa 35 Tagen</td><td>280</td><td>–</td><td>–</td></tr>
+<tr><td>2. Jungtiere, etwa 35 bis 100 Tage alt</td><td>280</td><td>–</td><td>–</td></tr>
+<tr><td>g. Tierkategorien des Nutzgeflügels:</td><td></td><td></td><td></td></tr>
+<tr><td>1. Bruteier produzierende Hennen und Hähne</td><td>280</td><td>290</td><td>–</td></tr>
+<tr><td>2. Konsumeier produzierende Hennen</td><td>280</td><td>290</td><td>–</td></tr>
+<tr><td>3. Junghennen, Junghähne und Küken für die Eierproduktion</td><td>280</td><td>290</td><td>–</td></tr>
+<tr><td>4. Mastpoulets</td><td>280</td><td>290</td><td>–</td></tr>
+<tr><td>5. Truten</td><td>280</td><td>290</td><td>–</td></tr>
+<tr><td>h. Wildtiere:</td><td></td><td></td><td></td></tr>
+<tr><td>1. Hirsche</td><td>–</td><td>80</td><td>–</td></tr>
+<tr><td>2. Bisons</td><td>–</td><td>80</td><td>–</td></tr>
+</table>
 
 ### 6 Ressourceneffizienzbeiträge
 
-### 6.1 Beitrag für emissionsmindernde Ausbringverfahren
+### 6.1 Beitrag für den Einsatz von präzisen Applikationstechniken
 
-- 6\.1.1 Der Beitrag beträgt 30 Franken pro Hektare und Gabe.
+- 6\.1.1 Die Beiträge betragen für die Unterblattspritztechnik: pro Spritzbalken 75 Prozent der Anschaffungskosten, jedoch maximal 170 Franken pro Spritzeinheit.
+- 6\.1.2
 
-### 6.2 Beitrag für schonende Bodenbearbeitung
+  Die Beiträge betragen für driftreduzierende Spritzgeräte in Dauerkulturen:
 
-- 6\.2.1 Die Beiträge betragen pro Hektare und Jahr:
+  - a. pro Spritzgebläse mit horizontaler Luftstromlenkung 25 Prozent der Anschaffungskosten, jedoch maximal 6000 Franken;
+  - b. pro Spritzgebläse mit Vegetationsdetektor und horizontaler Luftstromlenkung sowie pro Tunnelrecyclingsprühgerät 25 Prozent der Anschaffungskosten, jedoch maximal 10 000 Franken.
 
-<table>
-<tr><td>a. für die Direktsaat</td><td>[tab] 250 Fr.</td></tr>
-<tr><td>b. für die Streifensaat</td><td>[tab] 200 Fr.</td></tr>
-<tr><td>c. für die Mulchsaat</td><td>[tab] 150 Fr.</td></tr>
-</table>
+### 6.2 Beitrag für die stickstoffreduzierte Phasenfütterung von Schweinen
 
-- 6\.2.2 Der Zusatzbeitrag für den Verzicht auf Herbizid beträgt 200 Franken pro Hektare und Jahr.
+- 6\.2.1 Der Beitrag beträgt 35 Franken pro GVE und Jahr.
 
-### 6.3 Beitrag für den Einsatz von präzisen Applikationstechniken
+Anhang 8[^t-8]
 
-- 6\.3.1 Die Beiträge betragen für die Unterblattspritztechnik: pro Spritzbalken 75 Prozent der Anschaffungskosten, jedoch maximal 170 Franken pro Spritzeinheit.
-- 6\.3.2 Die Beiträge betragen für driftreduzierende Spritzgeräte in Dauerkulturen:
-- a. pro Spritzgebläse mit horizontaler Luftstromlenkung 25 Prozent der Anschaffungskosten, jedoch maximal 6000 Franken.
-- b. pro Spritzgebläse mit Vegetationsdetektor und horizontaler Luftstromlenkung sowie pro Tunnelrecyclingsprühgerät 25 Prozent der Anschaffungskosten, jedoch maximal 10 000 Franken.
-
-### 6.4 Beitrag für die Ausrüstung von Spritzen mit einem Spülsystem mit separatem Spülwasserkreislauf zur Reinigung von Geräten für das Ausbringen von Pflanzenschutzmitteln
-
-- 6\.4.1 Der Beitrag beträgt pro Spülsystem 50 Prozent der Anschaffungskosten, maximal jedoch 2000 Franken.
-
-### 6.5 Beitrag für die stickstoffreduzierte Phasenfütterung von Schweinen
-
-- 6\.5.1 Der Beitrag beträgt 35 Franken pro GVE und Jahr.
-
-### 6.6 Beitrag für die Reduktion von Pflanzenschutzmitteln im Obstbau
-
-- 6\.6.1 Die Beiträge für reduzierten Herbizideinsatz betragen:
-
-<table>
-<tr><th>Massnahme</th><th>Fr./ha und Jahr</th></tr>
-<tr><td>a. Teilverzicht auf Herbizide (Anhang 6*a* Ziff. 1.1 Bst. a)</td><td>200</td></tr>
-<tr><td>b. Vollständiger Verzicht auf Herbizide (Anhang 6*a* Ziff. 1.1 Bst. b)</td><td>600</td></tr>
-</table>
-
-- 6\.6.2 Der Beitrag für reduzierten Fungizideinsatz betragen:
-
-<table>
-<tr><th>Massnahme</th><th>Fr./ha und Jahr</th></tr>
-<tr><td>a. Verzicht auf Fungizide (Anhang 6*a* Ziff. 1.2 Bst. a)</td><td>200</td></tr>
-</table>
-
-### 6.7 Beitrag für die Reduktion von Pflanzenschutzmitteln im Rebbau
-
-- 6\.7.1 Die Beiträge für reduzierten Herbizideinsatz betragen:
-
-<table>
-<tr><th>Massnahme</th><th>Fr./ha und Jahr</th></tr>
-<tr><td>a. Teilverzicht auf Herbizide (Anhang 6*a* Ziff. 2.1 Bst. a )</td><td>200</td></tr>
-<tr><td>b. Vollständiger Verzicht auf Herbizide (Anhang 6*a* Ziff. 2.1 Bst. b)</td><td>600</td></tr>
-</table>
-
-- 6\.7.2 Die Beiträge für reduzierten Fungizideinsatz betragen:
-
-<table>
-<tr><th>Massnahme</th><th>Fr./ha und Jahr</th></tr>
-<tr><td>a. Teilverzicht auf Fungizide (Anhang 6*a* Ziff. 2.2 Bst. a)</td><td>200</td></tr>
-<tr><td>b. Verzicht auf Fungizide (Anhang 6*a* Ziff. 2.2 Bst. b)</td><td>300</td></tr>
-</table>
-
-### 6.8 Beitrag für die Reduktion von Pflanzenschutzmitteln im Zuckerrübenanbau
-
-- 6\.8.1 Die Beiträge für reduzierten Herbizideinsatz betragen:
-
-<table>
-<tr><th>Massnahme</th><th>Fr./ha und Jahr</th></tr>
-<tr><td>a. Mechanische Unkrautbekämpfung ab 4-Blatt-Stadium (Anhang 6*a* Ziff. 3.1 Bst. a)</td><td>200</td></tr>
-<tr><td>b. Mechanische Unkrautbekämpfung ab Saat (Anhang 6*a* Ziff. 3.1 Bst. b)</td><td>400</td></tr>
-<tr><td>c. Vollständiger Verzicht auf Herbizide (Anhang 6*a* Ziff. 3.1 Bst. c)</td><td>800</td></tr>
-</table>
-
-- 6\.8.2 Der Beitrag für Fungizid- und Insektizidverzicht beträgt:
-
-<table>
-<tr><th>Massnahme</th><th>Fr./ha und Jahr</th></tr>
-<tr><td>a. Verzicht auf Fungizide und Insektizide (Anhang 6*a* Ziff. 3.2 Bst. a)</td><td>400</td></tr>
-</table>
-
-### 6.9 Beitrag für die Reduktion von Herbiziden auf der offenen Ackerfläche
-
-- 6\.9.1 Der Beitrag für die Reduktion von Herbiziden auf der offenen Ackerfläche beträgt 250 Franken pro Hektare und Jahr.
-- [tab]
-
-Anhang 8*[^t-8]*
-
-(Art. 105 Abs. 1, 115*a* Abs. 1 und 2 sowie 115*c* Abs. 2)
+(Art. 105 Abs. 1, 115*a* Abs. 1 und 2, 115*c* Abs. 2, 115*f* Abs. 2 und 115*g* Abs. 2)
 
 ## Kürzungen der Direktzahlungen
 
-[^t-8]: Fassung gemäss Ziff. II Abs. 2 der V vom 29. Okt. 2014 ([AS 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)). Bereinigt gemäss Ziff. II der V vom 28. Okt. 2015 ([AS 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)), vom 16. Sept. 2016 ([AS 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)), Ziff. II der V vom 18. Okt. 2017 ([AS 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)), vom 31. Okt. 2018 ([AS 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)), vom 11. Nov. 2020 ([AS 2020 5449](https://fedlex.data.admin.ch/eli/oc/2020/951)) und vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)).
+[^t-8]: Fassung gemäss Ziff. II Abs. 2 der V vom 29. Okt. 2014 ([AS 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)). Bereinigt gemäss Ziff. II der V vom 28. Okt. 2015 ([AS 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)), vom 16. Sept. 2016 ([AS 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)), Ziff. II der V vom 18. Okt. 2017 ([AS 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)), vom 31. Okt. 2018 ([AS 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)), vom 11. Nov. 2020 ([AS 2020 5449](https://fedlex.data.admin.ch/eli/oc/2020/951)), vom 3. Nov. 2021 ([AS 2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)), Ziff. II Abs. 1 der V vom 13. April 2022 ([AS 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)), Ziff. II der V vom 2. Nov. 2022 ([AS 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)) und Ziff. II Abs. 1 der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2023 ([AS 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
 
 ### 1 Allgemeines
 
@@ -3912,12 +4236,11 @@ Anhang 8*[^t-8]*
 <tr><td>b. Verweigerung der Kontrolle (Art. 105)</td><td>Verweigerung im Bereich ÖLN oder Tierschutz Andere Bereiche</td><td>100 % aller Direktzahlungen 120 % der betreffenden Beiträge</td></tr>
 </table>
 
-- 2\.1.5 Spezifische Angaben, Kulturen, Ernte und Verwertung
+- 2\.1.5 Spezifische Angaben und Kulturen
 
 <table>
 <tr><th>Mangel beim Kontrollpunkt</th><th></th><th>Kürzung</th></tr>
-<tr><td>a. Kulturen ohne Extensobeiträge (Art. 98, 100 und 105)</td><td>Deklaration Kultur oder Sorten nicht korrekt</td><td>Korrektur auf korrekte Angabe und zusätzlich 500 Fr.</td></tr>
-<tr><td>b. Kulturen mit Extensobeiträgen (Ernteverpflichtung) (Art. 98, 100 und 105)</td><td>Vorhandene Sorten und Kulturen stimmen nicht mit der Deklaration überein Kultur wurde nicht oder nicht im ordentlichen Reifezustand geerntet oder es fand keine ordentliche Verwertung der Ernte statt (landwirtschaftliche, technische oder industrielle Verwertung)</td><td>Korrektur auf richtige Angabe, und zusätzlich 500 Fr. 120 % der betreffenden Beiträge</td></tr>
+<tr><td>Kulturen (Art. 98, 100 und 105)</td><td>Deklaration Kultur oder Sorten nicht korrekt</td><td>Korrektur auf korrekte Angabe und zusätzlich 500 Fr.</td></tr>
 </table>
 
 - 2\.1.6 Angaben zu den Flächen und Bäumen
@@ -3936,7 +4259,7 @@ Anhang 8*[^t-8]*
 <table>
 <tr><th>Mangel beim Kontrollpunkt</th><th></th><th>Kürzung oder Massnahme</th></tr>
 <tr><td>a. Fläche wird nicht vom Betrieb bewirtschaftet. Rechnung und Gefahr für die Fläche liegt nicht beim Betrieb (Art. 98, 100 und 105; Art. 16 LBV [SR *910.91*])</td><td>Betrieb hat Fläche einem anderen Bewirtschafter/ einer anderen Bewirtschafterin zur Verfügung gestellt (entgeltlich oder unentgeltlich)</td><td>Korrektur auf richtige Angabe und zusätzlich 500 Fr./ha der betroffenen Fläche</td></tr>
-<tr><td>b. Flächen sind nicht sachgerecht bewirtschaftet (Art. 98, 100 und 105; Art. 16 LBV)</td><td>Fläche ist nicht bewirtschaftet, stark verunkrautet oder vergandet</td><td>Ausschluss der Fläche aus der LN, keine Beiträge auf dieser Fläche</td></tr>
+<tr><td>b. Flächen sind nicht sachgerecht bewirtschaftet (Art. 98, 100 und 105; Art. 16 LBV[^annex8-lvlu1-lvl2-lvl21-1])</td><td>Fläche ist nicht bewirtschaftet oder vergandet Fläche ist stark verunkrautet</td><td>Ausschluss der Fläche aus der LN, keine Beiträge auf dieser Fläche 400 Fr./ha × betroffene Fläche in ha; Ausschluss der Fläche aus der LN, wenn der Mangel nach Ablauf der gesetzten Frist zur Sanierung weiter besteht.</td></tr>
 <tr><td>c. Gepflegte Selven von Edelkastanien sind nicht sachgerecht bewirtschaftet (Art. 105; Art. 19 Abs. 7 und 22 LBV)</td><td>ungenügender Schnitt ungenügende Entfernung der Kastanienigel, Aufsammeln des Laubes (&lt;50 Prozent der Fläche) ungenügende Entfernung des Totholzes und der Wurzelschösslinge ungenügende Auflichtung und Saat Pläne der Fläche fehlen</td><td>600 Fr./ha × betroffene Fläche in ha 300 Fr./ha × betroffene Fläche in ha 300 Fr./ha × betroffene Fläche in ha 100 Fr./ha × betroffene Fläche in ha 50 Fr. pro Dokument Kürzung wird erst vorgenommen, wenn der Mangel nach der Nachfrist weiter besteht bzw. wenn das Dokument nicht nachgereicht wurde</td></tr>
 </table>
 
@@ -3949,6 +4272,8 @@ Anhang 8*[^t-8]*
 <tr><td>c. Anrechnung der gesömmerten Tiere am Bestand des Betriebs ist nicht rechtmässig (Art. 37 und 46)</td><td>Zugangsmeldung in der TVD oder Selbstdeklaration von Tieren, die zur Sömmerung verstellt wurden, erfolgt entgegen der Absicht des abgebenden Betriebs</td><td>Korrektur auf richtige Angabe und zusätzliche Kürzung in der Höhe der Beitragsdifferenz (deklarierte minus richtige Angaben)</td></tr>
 <tr><td>d. Deklaration der Zahl der gesömmerten Tiere und/oder Tage nicht korrekt (Art. 98, 100 und 105)</td><td>Die Zahl der gesömmerten Tiere und/oder Tage sind nicht korrekt, plausibel oder nachvollziehbar</td><td>Korrektur auf richtige Angabe und zusätzliche Kürzung in der Höhe der Beitragsdifferenz (deklarierte minus richtige Angaben)</td></tr>
 </table>
+
+[^annex8-lvlu1-lvl2-lvl21-1]: [SR 910.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10428)
 
 ### 2.2 Ökologischer Leistungsnachweis
 
@@ -3968,7 +4293,7 @@ Anhang 8*[^t-8]*
 
 <table>
 <tr><th>Mangel beim Kontrollpunkt</th><th>Kürzung</th></tr>
-<tr><td>a. Betriebsplan, Parzellenverzeichnis, Fruchtfolgerapport oder Formular der Kulturanteile, Hofdüngerlieferscheine bzw. Auszüge HODUFLU, Aufzeichnungen NPr-Futter, Bodenanalysen älter als 10-jährig, Spritzentest älter als 4-jährig unvollständig, fehlend, falsch, unbrauchbar oder ungültig (Anhang 1 Ziff. 1, 2.2 und 6.1)</td><td>50 Fr. pro Dokument bzw. pro Bodenanalyse Kürzung wird erst vorgenommen, wenn der Mangel nach der Nachfrist weiter besteht bzw. wenn das Dokument nicht nachgereicht wurde</td></tr>
+<tr><td>a. Betriebsplan, Parzellenverzeichnis, Fruchtfolgerapport oder Formular der Kulturanteile, Hofdüngerlieferscheine bzw. Auszüge HODUFLU, Aufzeichnungen NPr-Futter, Bodenanalysen älter als 10-jährig, Spritzentest älter als 3-jährig, unvollständig, fehlend, falsch, unbrauchbar oder ungültig (Anh. 1 Ziff. 1, 2.2 und 6.1a.1)</td><td>50 Fr. pro Dokument bzw. pro Bodenanalyse Kürzung wird erst vorgenommen, wenn der Mangel nach der Nachfrist weiter besteht bzw. wenn das Dokument nicht nachgereicht wurde</td></tr>
 <tr><td>b. Nährstoffbilanz, inkl. notwendige Belege, unvollständig, fehlend, falsch oder unbrauchbar (Anh. 1 Ziff. 1)</td><td>200 Fr. Besteht der Mangel nach der Nachfrist immer noch: 110 Pte.</td></tr>
 <tr><td>c. Wiesenkalender oder Wiesenjournal, Feldkalender oder Kulturblätter unvollständig, fehlend, falsch oder unbrauchbar; Aktualisierung: bis auf eine Woche vor der Kontrolle (Anh. 1 Ziff. 1)</td><td>200 Fr. pro Dokument</td></tr>
 </table>
@@ -4002,7 +4327,7 @@ Anhang 8*[^t-8]*
 <tr><td>e. Bodenbedeckung nicht vorhanden (Art. 17)</td><td colspan="2">[tab] fehlende Winter- oder Zwischenkultur/Gründüngung</td><td colspan="3">[tab] 600 Fr./ha × Fläche der Parzelle in ha</td></tr>
 <tr><td colspan="2">f. Sichtbare bewirtschaftungsbedingte Bodenabträge auf derselben Bewirtschaftungsparzelle (Art. 17 und Anhang 1 Ziff. 5)</td><td colspan="2"></td><td>Keine Kürzung im ersten Fall und keine Kürzung im Wiederholungsfall, wenn ein vom Kanton anerkannter Massnahmenplan eingehalten wurde. Im Wiederholungsfall, wenn kein vom Kanton anerkannter Massnahmenplan besteht oder ein anerkannter Massnahmenplan nicht eingehalten wurde: 900 Fr./ha × Fläche der Bewirtschaftungsparzelle in ha, mind. 500 Fr., max. 5000 Fr. Bei einem Flächenabtausch wird die Kürzung bei dem oder der für die Umsetzung des Massnahmenplans oder der eigenverantwortlichen Massnahmen verantwortlichen Bewirtschafter oder Bewirtschafterin vorgenommen.</td></tr>
 <tr><td colspan="2">g. Anforderungen an Kontrollfenster nicht eingehalten (Anh. 1 Ziff. 6.2)</td><td colspan="2"></td><td>5 Pte. pro Kultur</td></tr>
-<tr><td colspan="2">h. Pflanzenschutzmitteleinsatz zwischen dem 1. November und dem 15. Februar (Anhang 1 Ziff. 6.2) Einsatz nicht bewilligter Pflanzenschutzmittel und nicht korrekte Verwendung (Anhang 1 Ziff. 6.2 und 6.3) Nicht korrekter Einsatz von Herbiziden (Anhang 1 Ziff. 6.2) Bekämpfung ohne Berücksichtigung bzw. ohne Überschreitung der Schadschwelle (Anhang 1 Ziff. 6.2) Anforderungen an den Einsatz von Insektiziden, Spritzmitteln und Granulaten nicht eingehalten (Anhang 1 Ziff. 6.2)</td><td colspan="2"></td><td>Jeder Mangel: 600 Fr./ha × betroffene Fläche in ha</td></tr>
+<tr><td colspan="2">h. Pflanzenschutzmitteleinsatz zwischen dem 15. November und dem 15. Februar (Anh. 1 Ziff. 6.2.1) Einsatz nicht bewilligter oder verbotener Pflanzenschutzmittel sowie nicht korrekte Anwendung (Anh. 1 Ziff. 6.1, 6.2 und 6.3) Nicht korrekter Einsatz von Herbiziden (Anh. 1 Ziff. 6.2.2) Bekämpfung ohne Berücksichtigung bzw. ohne Überschreitung der Schadschwelle (Art. 18 Abs. 2, Anh. 1 Ziff. 6.2.3) Anforderungen an den Einsatz von Insektiziden, Spritzmitteln und Granulaten nicht eingehalten (Anh. 1 Ziff. 6.2.3)</td><td colspan="2"></td><td>Jeder Mangel: 600 Fr./ha × betroffene Fläche in ha</td></tr>
 </table>
 
 - 2\.2.7 Obstbau
@@ -4023,7 +4348,16 @@ Anhang 8*[^t-8]*
 
 <table>
 <tr><th>Mangel beim Kontrollpunkt</th><th>Kürzung</th></tr>
-<tr><td>a. Nicht jede 2. Reihe begrünt, ausser bei nicht betroffenen Situationen (Anh. 1 Ziff. 8) b. Schnittholz im Freien verbrannt, ohne Ausnahme vom Kanton (Anh. 1 Ziff. 8) c. Unbewilligt andere Pflanzenschutzmittel als in der spezifischen Liste (Pflanzenschutzmittelverzeichnis des BLW) aufgeführt eingesetzt (Anhang 1 Ziff. 8) d. Nicht begründete Behandlung (Anh. 1 Ziff. 8) e. Nicht korrekter Einsatz von Herbiziden (Anh. 1 Ziff. 8) f. Spezielle Pflanzenschutz-Vorschriften der VITISWISS nicht eingehalten (Anh. 1 Ziff. 8)</td><td>Jeder Mangel: 600 Fr./ha × betroffene Fläche der Kultur in ha</td></tr>
+<tr><td>a. Nicht jede 2. Reihe begrünt, ausser bei nicht betroffenen Situationen (Anh. 1 Ziff. 8) b. Schnittholz im Freien verbrannt, ohne Ausnahme vom Kanton (Anh. 1 Ziff. 8) c. Unbewilligt andere Pflanzenschutzmittel als in der spezifischen Liste (Pflanzenschutzmittelverzeichnis der Zulassungsstelle Pflanzenschutzmittel des Bundesamtes für Lebensmittelsicherheit und Veterinärwesen) aufgeführt eingesetzt (Anhang 1 Ziff. 8) d. Nicht begründete Behandlung (Anh. 1 Ziff. 8) e. Nicht korrekter Einsatz von Herbiziden (Anh. 1 Ziff. 8) f. Spezielle Pflanzenschutz-Vorschriften der VITISWISS nicht eingehalten (Anh. 1 Ziff. 8)</td><td>Jeder Mangel: 600 Fr./ha × betroffene Fläche der Kultur in ha</td></tr>
+</table>
+
+- 2\.2.9a Spritzgeräte, Abschwemmung und Abdrift
+
+<table>
+<tr><th>Mangel beim Kontrollpunkt</th><th>Kürzung</th></tr>
+<tr><td>a. Die für den Pflanzenschutz eingesetzten zapfwellenangetriebenen oder selbstfahrenden Geräte mit einem Behälter von mehr als 400 Liter Inhalt haben keinen Spülwassertrank oder keine automatische Spritzeninnenreinigung (Anh. 1 Ziff. 6.1a.2)</td><td>500 Fr.</td></tr>
+<tr><td>b. Bei der Anwendung von Pflanzenschutzmitteln wurden die Auflagen der Zulassung in Bezug auf die Abschwemmung und/oder die Abdrift nicht eingehalten (Anh. 1 Ziff. 6.1a.4)</td><td>600 Fr./ha × betroffene Fläche in ha</td></tr>
+<tr><td>c. Mit den Massnahmen zur Reduktion der Abdrift wurde nicht mindestens 1 Punkt erreicht und/oder mit den Massnahmen zur Reduktion der Abschwemmung wurde nicht mindestens 1 Punkt erreicht (Anh. 1 Ziff. 6.1a.4)</td><td>600 Fr./ha × betroffene Fläche in ha</td></tr>
 </table>
 
 - 2\.2.10 Projekte zur Weiterentwicklung des ÖLN
@@ -4127,7 +4461,7 @@ Anhang 8*[^t-8]*
 
 <table>
 <tr><th>Mangel beim Kontrollpunkt</th><th>Kürzung</th></tr>
-<tr><td>a. Q I: Voraussetzungen und Auflagen nicht eingehalten; Schnitt vor dem 1. September oder Schnitt nicht mindestens alle 3 Jahre (Art. 57, 58, Anh. 4 Ziff. 5.1)</td><td>200 % × QB I</td></tr>
+<tr><td>a. Q I: Voraussetzungen und Auflagen nicht eingehalten; Schnitt vor dem 1. September oder Schnitt nicht mindestens alle 3 Jahre (Art. 57, 58, Anh. 4 Ziff. 5.1; Art. 21 LBV)</td><td>200 % × QB I</td></tr>
 <tr><td>b. Q I: Flächen wurden gedüngt oder es wurden Pflanzenschutzmittel eingesetzt (Art. 58, Anh. 4 Ziff. 5.1)</td><td>300 % × QB I</td></tr>
 <tr><td>c. Q II: nicht genügend Indikatorpflanzen für Q II vorhanden (Art. 59, Anh. 4 Ziff. 5.2)</td><td>Keine; Auszahlung QB II nur für Flächen mit genügend Indikatorpflanzen</td></tr>
 <tr><td>d. Q II: Mähaufbereiter eingesetzt (Art. 59 Abs. 5)</td><td>200 % × QB II</td></tr>
@@ -4143,7 +4477,7 @@ Anhang 8*[^t-8]*
 <tr><td colspan="2">d. Q II: mehr als 2 Schnitte des Krautsaums pro Jahr, der zweite Schnitt des Krautsaums erfolgt früher als 6 Wochen nach dem ersten Schnitt, Weide vor dem 1. September (Anh. 4, Ziff. 6.2 und 6.2.5) oder Mähaufbereiter für die Mahd des Krautsaums eingesetzt (Art. 59 Abs. 5)</td><td>200 % × QB II</td></tr>
 </table>
 
-- 2\.4.12 Uferwiese entlang von Fliessgewässern
+- 2\.4.12 Uferwiese
 
 <table>
 <tr><th>Mangel beim Kontrollpunkt</th><th>Kürzung</th></tr>
@@ -4217,14 +4551,7 @@ Anhang 8*[^t-8]*
 <tr><td>Auflagen gemäss spezifischen Anforderungen nicht eingehalten (Art. 58, Anh. 4 Ziff. 16.1)</td><td>200 Fr.</td></tr>
 </table>
 
-- 2\.4.21 Blühstreifen für Bestäuber und andere Nützlinge
-
-<table>
-<tr><th>Mangel beim Kontrollpunkt</th><th>Kürzung</th></tr>
-<tr><td>a. Q I: Voraussetzungen und Auflagen nicht eingehalten (Art. 57, 58, Anh. 4 Ziff. 17.1)</td><td>200 % × QB I</td></tr>
-<tr><td>b. Q I: Flächen wurden gedüngt oder es wurden Pflanzenschutzmittel eingesetzt (Art. 58, Anh. 4 Ziff. 17.1)</td><td>300 % × QB I</td></tr>
-</table>
-
+- 2\.4.21 …
 - 2\.4.22 Wassergraben, Tümpel, Teich
 
 <table>
@@ -4232,7 +4559,7 @@ Anhang 8*[^t-8]*
 <tr><td>Voraussetzungen und Auflagen nicht eingehalten: Pufferstreifen weniger als 6 m breit; Es wurden Dünger oder Pflanzenschutzmittel eingesetzt; gehört nicht zur Betriebsfläche; (Anh. 1 Ziff. 3.1 und 3.2.1)</td><td>Jeder Mangel: 200 Fr.</td></tr>
 </table>
 
-- 2\.4.23 Ruderalflächen, Steinhaufen und wälle
+- 2\.4.23 Ruderalflächen, Steinhaufen und -wälle
 
 <table>
 <tr><th>Mangel beim Kontrollpunkt</th><th>Kürzung</th></tr>
@@ -4244,6 +4571,13 @@ Anhang 8*[^t-8]*
 <table>
 <tr><th>Mangel beim Kontrollpunkt</th><th>Kürzung</th></tr>
 <tr><td>Voraussetzungen und Auflagen nicht eingehalten; Pufferstreifen weniger als 50 cm breit; es wurden Dünger oder Pflanzenschutzmittel eingesetzt; (Anh. 1 Ziff. 3.1 und 3.2.3)</td><td>Jeder Mangel 200 Fr.</td></tr>
+</table>
+
+- 2\.4.25 Getreide in weiter Reihe
+
+<table>
+<tr><th>Mangel beim Kontrollpunkt</th><th>Kürzung</th></tr>
+<tr><td>[tab] Q I: Voraussetzungen und Auflagen nicht eingehalten (Art. 57, 58, Anh. 4 Ziff. 17)</td><td>200 % × QB I</td></tr>
 </table>
 
 ### 2.4a Biodiversitätsbeiträge: Vernetzungsbeitrag
@@ -4262,43 +4596,22 @@ Anhang 8*[^t-8]*
 - 2\.5.3 Im Wiederholungsfall sind zusätzlich zum Beitragsausschluss für das entsprechende Beitragsjahr sämtliche im laufenden Projekt ausgerichteten Beiträge zurückzufordern. Die Kürzung gilt für die Flächen und Elemente, für welche die Voraussetzungen und Auflagen nicht vollständig eingehalten werden.
 - 2\.5.4 Bei Pachtlandverlust kürzen oder verweigern die Kantone keine Beiträge aufgrund der Nichteinhaltung der Verpflichtungsdauer.
 
-### 2.6 Beiträge für extensive Produktion von Getreide, Sonnenblumen, Eiweisserbsen, Ackerbohnen, Lupinen und Raps
+### 2.5a Beiträge für die biologische Landwirtschaft
 
-- 2\.6.1 Die Kürzungen erfolgen mit einem Prozentsatz bei den Beiträgen für extensive Produktion von Getreide, Sonnenblumen, Eiweisserbsen, Ackerbohnen, Lupinen und Raps auf der gesamten Fläche der betroffenen Kultur.
-- Werden mehrere Mängel bei derselben Kultur gleichzeitig festgestellt, so werden die Kürzungen nicht kumuliert.
-- Im ersten Wiederholungsfall wird die Kürzung verdoppelt. Ab dem zweiten Wiederholungsfall wird die Kürzung vervierfacht.
-
-<table>
-<tr><th>Mangel beim Kontrollpunkt</th><th>Kürzung</th></tr>
-<tr><td>a. Es wurden Wachstumsregulatoren, Fungizide, chemisch-synthetische Stimulatoren der natürlichen Abwehrkräfte oder Insektizide eingesetzt (Art. 69 Abs. 1) b. Die Anforderungen wurden nicht auf allen Parzellen einer angemeldeten Kultur eingehalten (Art. 69 Abs. 2) c. Die angebaute Futterweizensorte ist nicht auf der Liste der empfohlenen Sorte von swiss granum und Agroscope aufgeführt (Art. 69 Abs. 3)</td><td>120 % der Beiträge</td></tr>
-</table>
-
-### 2.7 Beiträge für graslandbasierte Milch- und Fleischproduktion
-
-- 2\.7.1 Die Kürzungen erfolgen bei den Beiträgen mit einem Prozentsatz für die graslandbasierte Milch und Fleischproduktion auf der gesamten Grünfläche des Betriebs oder mit einem Pauschalbetrag.
-- Im ersten Wiederholungsfall wird die Kürzung verdoppelt. Ab dem zweiten Wiederholungsfall wird die Kürzung vervierfacht.
-
-<table>
-<tr><th>Mangel beim Kontrollpunkt</th><th>Kürzung</th></tr>
-<tr><td>a. Die als Nachweis eingesetzte Futterbilanz ist nicht vom BLW anerkannt, unvollständig, fehlend, falsch oder unbrauchbar (Anhang 5 Ziff. 3.1); Tierdaten stimmen nicht überein mit den Angaben in der Suisse-Bilanz bzw. in der Futterbilanz (Art. 70 und 71, Anhang 5 Ziff. 2–4); die Dauergrünflächen, Kunstwiese und anderen Futterflächen stimmen nicht überein mit den Angaben in der Suisse-Bilanz bzw. in der Futterbilanz (Art. 70 und 71, Anhang 5 Ziff. 2–4); die eingesetzten und berechneten Flächenerträge (u.a. Wiesen und Zwischenkulturen) in der Futterbilanz sind nicht verifiziert und plausibel. Abweichende Erträge sind nicht begründet (Anhang 5 Ziff. 3.3); Futtermittel, die nicht in der Liste der Grundfuttermittel aufgeführt sind, wurden als Grundfuttermittel angerechnet (Anhang 5 Ziff. 1); die Angaben zum Einsatz von Ergänzungsfutter sind nicht plausibel (Anhang 5); die anrechenbare Grundfutter-Ration aus Zwischenkulturen wurde überschritten (Art. 71 Abs. 2); die Angaben zur Zufuhr und Wegfuhr von Futtermitteln sind nicht mit Lieferscheinen belegt (Anhang 5 Ziff. 5) b. Die Jahresration aller auf dem Betrieb gehaltenen raufutterverzehrenden Nutztiere beträgt weniger als 90 Prozent der TS aus Grundfutter (Art. 71 Abs. 1, Anhang 5 Ziff. 1) oder der Mindestanteil aus Wiesen- und Weidefutter ist nicht eingehalten (Art. 71 Abs. 1, Anhang 5 Ziff. 1)</td><td>200 Fr. [tab] Besteht der Mangel nach der Nachfrist weiterhin, werden 120 % der Beiträge gekürzt. [tab] [tab] [tab] [tab] [tab] [tab] [tab] [tab] [tab] [tab] 120 % der Beiträge</td></tr>
-</table>
-
-### 2.8 Beiträge für die biologische Landwirtschaft
-
-- 2\.8.1
+- 2\.5a.1
 
   Die Kürzungen erfolgen:
 
-  - a. mit Punkten für Mängel nach den Ziffern 2.8.2–2.8.5;
-  - b. mit Pauschalbeträgen für Mängel nach den Ziffern 2.8.6–2.8.10.
+  - a. mit Punkten für Mängel nach den Ziffern 2.5a2–2.5a.5;
+  - b. mit Pauschalbeträgen für Mängel nach den Ziffern 2.5a.6–2.5a.10.
 
-- Die Punkte für Mängel nach den Ziffern 2.8.2–2.8.5 werden folgendermassen in Kürzungen umgerechnet: Summe der Punkte minus 10 Punkte, dividiert durch 100 und dann multipliziert mit den gesamten Beiträgen für die biologische Landwirtschaft.
-- Falls bei den Kontrollpunkten nach den Ziffern 2.8.2–2.8.5 keine Mängel festgestellt wurden, wird auf die Mängel in der Tierhaltung (Ziff. 2.8.6–2.8.10) eine Toleranz angewendet: Summe der Pauschalbeträge minus 200 Franken.
-- Für Mängel in der Tierhaltung (Ziff. 2.8.6–2.8.10) werden zusätzlich zu den Pauschalbeträgen Punkte verteilt.
-- Liegt die Summe der Punkte im Biobereich (Ziff. 2.8.2–2.8.10) und für den ÖLN (Ziff. 2.2) und von 25 Prozent der Punkte im Bereich RAUS (Ziff. 2.9.10–2.9.14) bei 110 oder mehr, so werden keine Beiträge für die biologische Landwirtschaft im Beitragsjahr ausgerichtet.
+- Die Punkte für Mängel nach den Ziffern 2.5a.2–2.5a.5 werden folgendermassen in Kürzungen umgerechnet: Summe der Punkte minus 10 Punkte, dividiert durch 100 und dann multipliziert mit den gesamten Beiträgen für die biologische Landwirtschaft.
+- Falls bei den Kontrollpunkten nach den Ziffern 2.5a.2–2.5a.5 keine Mängel festgestellt wurden, wird auf die Mängel in der Tierhaltung (Ziff. 2.5a.6–2.5a.10) eine Toleranz angewendet: Summe der Pauschalbeträge minus 200 Franken.
+- Für Mängel in der Tierhaltung (Ziff. 2.5a.6–2.5a.10) werden zusätzlich zu den Pauschalbeträgen Punkte verteilt.
+- Liegt die Summe der Punkte im Biobereich (Ziff. 2.5a.2–2.5a.10) und für den ÖLN (Ziff. 2.2) und von 25 Prozent der Punkte im Bereich RAUS (Ziff. 2.9.10–2.9.14) bei 110 oder mehr, so werden keine Beiträge für die biologische Landwirtschaft im Beitragsjahr ausgerichtet.
 - Es können in jedem Fall maximal die Beiträge für die biologische Landwirtschaft gekürzt werden.
-- Im ersten Wiederholungsfall werden die Punkte und Pauschalbeträge verdoppelt. Ab dem zweiten Wiederholungsfall werden die Punkte oder Pauschalbeträge vervierfacht. Ausgenommen davon sind die Ziffern 2.8.3 Buchstabe g und 2.8.10.
-- 2\.8.2 Allgemeines
+- Im ersten Wiederholungsfall werden die Punkte und Pauschalbeträge verdoppelt. Ab dem zweiten Wiederholungsfall werden die Punkte oder Pauschalbeträge vervierfacht. Ausgenommen davon sind die Ziffern 2.5a.3 Buchstabe g und 2.5a.10.
+- 2\.5a.2 Allgemeines
 
 <table>
 <tr><th>Mangel beim Kontrollpunkt</th><th>Kürzung</th></tr>
@@ -4310,7 +4623,7 @@ Anhang 8*[^t-8]*
 <tr><td>f. Neue Umstellungsflächen nicht gemeldet (Anh. 1 Ziff. 1.1.6 Bio-V)</td><td>Betroffene Fläche in % der LN (=Punkte) × 1.5, mind. 5 Pte.</td></tr>
 </table>
 
-- 2\.8.3 Pflanzenbau
+- 2\.5a.3 Pflanzenbau
 
 <table>
 <tr><th>Mangel beim Kontrollpunkt</th><th>Kürzung</th></tr>
@@ -4330,7 +4643,7 @@ Anhang 8*[^t-8]*
 <tr><td>n. Angaben zur Ausbringungsmethode der Pflanzenschutzmittel sowie Inventar zu Zukauf von Pflanzenschutzmitteln nicht vorhanden oder unvollständig (Anh. 1 Ziff. 2.2 Bio-V)</td><td>100 Fr. pro Dokument</td></tr>
 </table>
 
-- 2\.8.4 Saat- und Pflanzgut
+- 2\.5a.4 Saat- und Pflanzgut
 
 <table>
 <tr><th>Mangel beim Kontrollpunkt</th><th>Kürzung</th></tr>
@@ -4342,7 +4655,7 @@ Anhang 8*[^t-8]*
 <tr><td>Verwendung von Gentech-Saatgut oder transgenen Pflanzen (Art. 13 Bio-V)</td><td>110 Pte.</td></tr>
 </table>
 
-- 2\.8.5 Spezialkulturen, Pilze, Wildsammlung
+- 2\.5a.5 Spezialkulturen, Pilze, Wildsammlung
 
 <table>
 <tr><th>Mangel beim Kontrollpunkt</th><th>Kürzung</th></tr>
@@ -4352,7 +4665,7 @@ Anhang 8*[^t-8]*
 <tr><td>d. Sammeln von Wildpflanzen: Anforderungen nicht eingehalten (Art. 14 Bio-V)</td><td>10 Pte.</td></tr>
 </table>
 
-- 2\.8.6 Tierhaltung: Allgemein
+- 2\.5a.6 Tierhaltung: Allgemein
 
 <table>
 <tr><th>Mangel beim Kontrollpunkt</th><th>Kürzung</th></tr>
@@ -4380,7 +4693,7 @@ Anhang 8*[^t-8]*
 <tr><td>v. Jungtiere sind über 1 Woche in Einzelboxen (Art. 15 Abs. 2 Bio-V und Anh. 5 WBF-Bio-V)</td><td>GVE betroffene Tiere × 100 Fr., mind. 200 Fr. und 5 Pte. pro GVE, mind. 15 Pte., max. 30 Pte.</td></tr>
 </table>
 
-- 2\.8.7 Tierhaltung: Spezifische Anforderungen Schweine
+- 2\.5a.7 Tierhaltung: Spezifische Anforderungen Schweine
 
 <table>
 <tr><th>Mangel beim Kontrollpunkt</th><th>Kürzung</th></tr>
@@ -4390,7 +4703,7 @@ Anhang 8*[^t-8]*
 <tr><td>d. Gesamtfläche (Stall und Laufhof) nicht erfüllt (Art. 15 Abs. 2 Bio-V und Anh. 6 WBF-Bio-V)</td><td>GVE betroffene Tiere × 100 Fr., mind. 200 Fr. und 5 Pte. pro GVE, mind. 15 Pte., max. 30 Pte.</td></tr>
 </table>
 
-- 2\.8.8 Tierhaltung: Spezifische Anforderungen Geflügel
+- 2\.5a.8 Tierhaltung: Spezifische Anforderungen Geflügel
 
 <table>
 <tr><th>Mangel beim Kontrollpunkt</th><th>Kürzung</th></tr>
@@ -4400,7 +4713,7 @@ Anhang 8*[^t-8]*
 <tr><td>d. Mindestschlachtalter nicht eingehalten (Art. 16*g* Bio-V)</td><td>GVE betroffene Tiere × 100 Fr., mind. 200 Fr. und 5 Pte. pro GVE, mind. 15 Pte., max. 30 Pte.</td></tr>
 </table>
 
-- 2\.8.9 Tierhaltung: Spezifische Anforderungen übrige Tierarten
+- 2\.5a.9 Tierhaltung: Spezifische Anforderungen übrige Tierarten
 
 <table>
 <tr><th>Mangel beim Kontrollpunkt</th><th>Kürzung</th></tr>
@@ -4411,7 +4724,7 @@ Anhang 8*[^t-8]*
 <tr><td>e. Hobbytiere: Anforderungen nicht eingehalten (Art. 6 Bio-V)</td><td>GVE betroffene Tiere × 100 Fr., und 5 Pte. pro GVE, max. 15 Pte.</td></tr>
 </table>
 
-- 2\.8.10 Tierhaltung: Bio Sömmerung, Wanderschäferei
+- 2\.5a.10 Tierhaltung: Bio Sömmerung, Wanderschäferei
 
 <table>
 <tr><th>Mangel beim Kontrollpunkt</th><th>Kürzung</th></tr>
@@ -4419,16 +4732,113 @@ Anhang 8*[^t-8]*
 <tr><td>b. Gemeinschaftsweide: keine abgetrennte Bio-Weide oder kein Vertrag Hilfsstoffeinsatz vorhanden (Art. 15*b* Bio-V)</td><td>0 Pte., Wiederholungsfall GVE betroffene Tiere × 200 Fr. und 10 Pte.</td></tr>
 </table>
 
+### 2.6 Beiträge für den Verzicht auf Pflanzenschutzmittel
+
+- 2\.6.1 Die Kürzungen erfolgen mit einem Prozentsatz des Beitrags für den Verzicht auf Pflanzenschutzmittel auf der betroffenen Fläche.
+- Im ersten Wiederholungsfall wird die Kürzung verdoppelt. Ab dem zweiten Wiederholungsfall wird die Kürzung vervierfacht.
+- Werden auf derselben Fläche mehrere Mängel gleichzeitig festgestellt, so werden die Kürzungen nicht kumuliert.
+- Wird während der Verpflichtungsdauer von vier Jahren eine Fläche das erste Mal gemäss Artikel 100 Absatz 3 abgemeldet, so werden keine Beiträge im Beitragsjahr ausgerichtet. Ab der zweiten Abmeldung in der Verpflichtungsdauer wird die Abmeldung als erstmaliger Mangel gegen die Voraussetzungen und Auflagen beurteilt.
+- 2\.6.2 Beitrag für den Verzicht auf Pflanzenschutzmittel im Ackerbau
+
+<table>
+<tr><th>Mangel beim Kontrollpunkt</th><th>Kürzung</th></tr>
+<tr><td>[tab] Voraussetzungen und Auflagen nicht eingehalten (Art. 68)</td><td>200 % der Beiträge</td></tr>
+</table>
+
+2.6.3 Beitrag für den Verzicht auf Insektizide und Akarizide im Gemüse- und Beerenanbau
+
+<table>
+<tr><th>Mangel beim Kontrollpunkt</th><th>Kürzung</th></tr>
+<tr><td>[tab] Voraussetzungen und Auflagen nicht eingehalten (Art. 69)</td><td>200 % der Beiträge</td></tr>
+</table>
+
+- 2\.6.4 Beitrag für den Verzicht auf Insektizide, Akarizide und Fungizide nach der Blüte bei Dauerkulturen
+
+<table>
+<tr><th>Mangel beim Kontrollpunkt</th><th>Kürzung</th></tr>
+<tr><td>[tab] Voraussetzungen und Auflagen nicht eingehalten (Art. 70)</td><td>200 % der Beiträge</td></tr>
+</table>
+
+2.6.5 Beitrag für die Bewirtschaftung von Flächen mit Dauerkulturen mit Hilfsmitteln nach der biologischen Landwirtschaft
+
+<table>
+<tr><th>Mangel beim Kontrollpunkt</th><th>Kürzung</th></tr>
+<tr><td>[tab] Voraussetzungen und Auflagen nicht eingehalten (Art. 71)</td><td>200 % der Beiträge</td></tr>
+</table>
+
+- 2\.6.6 Beitrag für den Verzicht auf Herbizide im Ackerbau und in Spezialkulturen
+
+<table>
+<tr><th>Mangel beim Kontrollpunkt</th><th>Kürzung</th></tr>
+<tr><td>[tab] Voraussetzungen und Auflagen nicht eingehalten (Art. 71*a*)</td><td>200 % der Beiträge</td></tr>
+</table>
+
+### 2.7 Beitrag für die funktionale Biodiversität: Beitrag für Nützlingsstreifen
+
+- Die Kürzungen erfolgen mit einem Prozentsatz des Beitrags für Nützlingsstreifen auf der betroffenen Fläche.
+- Im ersten Wiederholungsfall wird die Kürzung verdoppelt. Ab dem zweiten Wiederholungsfall wird die Kürzung vervierfacht.
+- Werden auf der gleichen Fläche mehrere Mängel gleichzeitig festgestellt, so werden die Kürzungen nicht kumuliert.
+
+<table>
+<tr><th>Mangel beim Kontrollpunkt</th><th>Kürzung</th></tr>
+<tr><td>[tab] Voraussetzungen und Auflagen nicht eingehalten (Art. 71*b*)</td><td>200 % der Beiträge</td></tr>
+</table>
+
+### 2.7a Beiträge für die Verbesserung der Bodenfruchtbarkeit
+
+- 2\.7a.1 Die Kürzungen erfolgen mit Abzügen von Pauschalbeiträgen oder mit einem Prozentsatz des Beitrags für die Verbesserung der Bodenfruchtbarkeit auf der betroffenen Fläche.
+- Im ersten Wiederholungsfall wird die Kürzung verdoppelt. Ab dem zweiten Wiederholungsfall wird die Kürzung vervierfacht.
+- Werden auf der gleichen Fläche mehrere Mängel gleichzeitig festgestellt, so werden die Kürzungen nicht kumuliert.
+- Die Nichteinhaltung der Verpflichtungsdauer gilt ab der zweiten Abmeldung als Mangel.
+- 2\.7a.2 Beitrag für eine angemessene Bedeckung des Bodens
+
+<table>
+<tr><th>Mangel beim Kontrollpunkt</th><th>Kürzung</th></tr>
+<tr><td>[tab] Voraussetzungen und Auflagen nicht eingehalten (Art. 71*c*)</td><td>200 % der Beiträge</td></tr>
+</table>
+
+- 2\.7a.3 Beitrag für die schonende Bodenbearbeitung von Hauptkulturen auf der Ackerfläche
+
+<table>
+<tr><th>Mangel beim Kontrollpunkt</th><th>Kürzung</th></tr>
+<tr><td>[tab] Voraussetzungen und Auflagen nicht eingehalten (Art. 71*d*)</td><td>200 % der Beiträge</td></tr>
+</table>
+
+### 2.7b Beitrag für Klimamassnahmen: Beitrag für den effizienten Stickstoffeinsatz
+
+- Die Kürzungen erfolgen mit einem Prozentsatz des Beitrags für den effizienten Stickstoffeinsatz auf der betroffenen Fläche.
+- Im ersten Wiederholungsfall wird die Kürzung verdoppelt. Ab dem zweiten Wiederholungsfall wird die Kürzung vervierfacht.
+
+<table>
+<tr><th>Mangel beim Kontrollpunkt</th><th>Kürzung</th></tr>
+<tr><td>[tab] Voraussetzungen und Auflagen nicht eingehalten (Art. 71*e*)</td><td>200 % der Beiträge</td></tr>
+</table>
+
+### 2.7c Beiträge für graslandbasierte Milch- und Fleischproduktion
+
+- Die Kürzungen erfolgen bei den Beiträgen mit einem Prozentsatz für die graslandbasierte Milch und Fleischproduktion auf der gesamten Grünfläche des Betriebs oder mit einem Pauschalbetrag.
+- Im ersten Wiederholungsfall wird die Kürzung verdoppelt. Ab dem zweiten Wiederholungsfall wird die Kürzung vervierfacht.
+
+<table>
+<tr><th>Mangel beim Kontrollpunkt</th><th>Kürzung</th></tr>
+<tr><td>a. Die als Nachweis eingesetzte Futterbilanz ist nicht vom BLW anerkannt, unvollständig, fehlend, falsch oder unbrauchbar (Anh. 5 Ziff. 3.1); Tierdaten stimmen nicht überein mit den Angaben in der Suisse-Bilanz bzw. in der Futterbilanz (Art. 71*f*, 71*g*, Anh. 5 Ziff. 2–4); die Dauergrünflächen, Kunstwiese und anderen Futterflächen stimmen nicht überein mit den Angaben in der Suisse-Bilanz bzw. in der Futterbilanz (Art. 71*f,* 71*g*, Anh. 5 Ziff. 2–4); die eingesetzten und berechneten Flächenerträge (u.a. Wiesen und Zwischenkulturen) in der Futterbilanz sind nicht verifiziert und plausibel. Abweichende Erträge sind nicht begründet (Anh. 5 Ziff. 3.3); Futtermittel, die nicht in der Liste der Grundfuttermittel aufgeführt sind, wurden als Grundfuttermittel angerechnet (Anh. 5 Ziff. 1.1); die Angaben zum Einsatz von Ergänzungsfutter sind nicht plausibel (Anh. 5); die anrechenbare Grundfutter-Ration aus Zwischenkulturen wurde überschritten (Art. 71*g* Abs. 2); die Angaben zur Zufuhr und Wegfuhr von Futtermitteln sind nicht mit Lieferscheinen belegt (Anh. 5 Ziff. 5)</td><td>[tab] 200 Fr. [tab] Besteht der Mangel nach der Nachfrist weiterhin, werden 120 % der Beiträge gekürzt.</td></tr>
+<tr><td>b. Die Jahresration aller auf dem Betrieb gehaltenen raufutterverzehrenden Nutztiere beträgt weniger als 90 Prozent der TS aus Grundfutter (Art. 71*g* Abs. 1, Anh. 5 Ziff. 1) oder der Mindestanteil aus Wiesen- und Weidefutter ist nicht eingehalten (Art. 71*g* Abs. 1, Anh. 5 Ziff. 1.2)</td><td>[tab] 120 % der Beiträge</td></tr>
+</table>
+
+### 2.8 …
+
 ### 2.9 Tierwohlbeiträge
 
-- 2\.9.1 Die Kürzungen erfolgen mit Abzügen von Pauschalbeträgen und über die Vergabe von Punkten. Die Punkte werden pro Tierkategorie nach Artikel 73 sowie für BTS- und RAUS-Beiträge separat wie folgt in Beträge umgerechnet:
-- Summe der Punkte minus 10 Punkte, dividiert durch 100 und dann multipliziert mit den BTS- bzw. RAUS-Beiträgen der betreffenden Tierkategorie.
-- Liegt die Summe der Punkte bei 110 oder mehr, so werden im Beitragsjahr keine BTS- bzw. RAUS-Beiträge für die betreffende Tierkategorie ausgerichtet.
-- 2\.9.2 Die Punkte bei einem Mangel werden im ersten Wiederholungsfall um 50 Punkte erhöht. Ab dem zweiten Wiederholungsfall werden die Punkte um 100 Punkte erhöht bzw. es werden keine BTS- bzw. RAUS-Beiträge für die entsprechende Tierkategorie ausgerichtet. Die Pauschalbeträge werden im ersten Wiederholungsfall verdoppelt und ab dem zweiten Wiederholungsfall vervierfacht.
+- 2\.9.1 Die Kürzungen erfolgen mit Abzügen von Pauschalbeträgen und über die Vergabe von Punkten. Die Punkte werden pro Tierkategorie nach Artikel 73 sowie für die BTS- und RAUS-Beiträge sowie den Weidebeitrag je separat wie folgt in Beträge umgerechnet:
+- Summe der Punkte minus 10 Punkte, dividiert durch 100 und dann multipliziert mit den BTS- bzw. RAUS- bzw. Weidebeiträgen der betreffenden Tierkategorie.
+- Liegt die Summe der Punkte bei 110 oder mehr, so werden im Beitragsjahr keine BTS-, RAUS- bzw. Weidebeiträge für die betreffende Tierkategorie ausgerichtet.
+- 2\.9.2 Im ersten Wiederholungsfall wird die Punktzahl eines Mangels um 50 Punkte erhöht. Ab dem zweiten Wiederholungsfall wird die Punktzahl eines Mangels um 100 Punkte erhöht bzw. es werden keine BTS-, RAUS- bzw. Weidebeiträge für die entsprechende Tierkategorie ausgerichtet. Die Pauschalbeträge werden im ersten Wiederholungsfall verdoppelt und ab dem zweiten Wiederholungsfall vervierfacht.
 - 2\.9.2a Wenn die Dokumentation des Auslaufs nach Ziffer 2.9.4 Buchstabe d fehlt oder der Auslauf gemäss Dokumentation eingehalten, aber nicht glaubwürdig gewährt wurde, werden für die betreffende Tierkategorie 60 Punkte für die Kürzung berechnet.
 - 2\.9.2b Wenn die Dokumentation des Auslaufs nach Ziffer 2.9.3 Buchstabe r fehlt oder der Auslauf gemäss Dokumentation eingehalten, aber nicht glaubwürdig gewährt wurde, werden für die betreffende Tierkategorie 60 Punkte für die Kürzung berechnet.
 - 2\.9.2c Wenn der Auslauf gemäss Dokumentation nach Ziffer 2.9.4 Buchstabe d nicht eingehalten wurde, aber glaubhaft gewährt wurde, werden keine Kürzungen nach Ziffer 2.9.4 Buchstabe e vorgenommen.
 - 2\.9.2d Wenn der Auslauf gemäss Dokumentation nach Ziffer 2.9.3 Buchstabe r nicht eingehalten wurde, aber glaubhaft gewährt wurde, werden keine Kürzungen nach Ziffer 2.9.3 Buchstabe p vorgenommen.
+- 2\.9.2e Wenn die Dokumentation des Auslaufs nach Ziffer 2.9.5 Buchstabe d fehlt oder der Auslauf gemäss Dokumentation eingehalten, aber nicht glaubwürdig gewährt wurde, werden für die betreffende Tierkategorie 60 Punkte für die Kürzung berechnet.
+- 2\.9.2f Wenn der Auslauf gemäss Dokumentation nach Ziffer 2.9.5 Buchstabe d nicht eingehalten wurde, aber glaubhaft gewährt wurde, werden keine Kürzungen nach Ziffer 2.9.5 Buchstabe e vorgenommen.
 - 2\.9.3 BTS
 
 <table>
@@ -4461,10 +4871,10 @@ Anhang 8*[^t-8]*
 <tr><td>b. Morastige Stellen sind nicht ausgezäunt oder Fress- und Tränkebereiche für Schweine nicht befestigt</td><td colspan="2">Alle Tierkategorien (Anhang 6 Bst. B Ziff. 1.2) Tiere der Schweinegattung (Anhang 6 Bst. B Ziff. 3.4)</td><td>10 Pte.</td></tr>
 <tr><td>c. Schattennetz zwischen 1.11. und 28.2.</td><td colspan="2">Alle Tierkategorien (Anhang 6 Bst. B Ziff. 1.5)</td><td>10 Pte.</td></tr>
 <tr><td>d. Dokumentation des Auslaufs entspricht nicht den Anforderungen</td><td colspan="2">Alle Tierkategorien (Anhang 6 Bst. A Ziff. 7.5 und 7.6 sowie Bst. B Ziff. 1.6 und 4.3)</td><td>200 Fr. Keine Kürzung, wenn die Direktzahlungen im gleichen Jahr bei der gleichen Tierkategorie im Zusammenhang mit dem Tierschutz-Auslaufjournal gekürzt werden.</td></tr>
-<tr><td>e. Tiere erhalten nicht an den geforderten Tagen Auslauf</td><td colspan="2">Tiere der Rindergattung und Wasserbüffel sowie Tiere der Pferde-, Ziegen- und Schafgattung (Anhang 6 Bst. B Ziff. 2.1, 2.3, 2.5 und 2.6)</td><td>1.5.–31.10.: 4 Pte. pro fehlender Tag 1.11.–30.4.: 6 Pte. pro fehlender Tag</td></tr>
-<tr><td>[tab]</td><td colspan="2">Tiere der Schweinegattung (Anhang 6 Bst. B Ziff. 3.1 und 3.2) Nutzgeflügel (Anhang 6 Bst. B Ziff. 4.1, 4.2 und 4.3)</td><td>4 Pte. pro fehlender Tag</td></tr>
+<tr><td>e. Tiere erhalten nicht an den geforderten Tagen Auslauf</td><td colspan="2">Tiere der Rindergattung und Wasserbüffel sowie Tiere der Pferde-, Ziegen- und Schafgattung (Anh. 6 Bst. B Ziff. 2.1, 2.3, 2.5 und 2.6)</td><td>1.5.–31.10.: 4 Pte. pro fehlender Tag 1.11.–30.4.: 6 Pte. pro fehlender Tag</td></tr>
+<tr><td></td><td colspan="2">Tiere der Schweinegattung (Anh. 6 Bst. B Ziff. 3.1 und 3.2) Nutzgeflügel (Anh. 6 Bst. B Ziff. 4.1, 4.2 und 4.3)</td><td>4 Pte. pro fehlender Tag</td></tr>
 <tr><td>f. Auslauffläche nicht dauernd zugänglich oder keine ganzjährige Haltung im Freien</td><td colspan="2">Tiere der Rindergattung und Wasserbüffel, nur männliche und bis 160 Tage alte weibliche Tiere (Anhang 6 Bst. B Ziff. 2.2) Hirsche (Anhang 6 Bst. B Ziff. 5.1) Bisons (Anhang 6 Bst. B Ziff. 6.1)</td><td>110 Pte.</td></tr>
-<tr><td>g. Weide kann an Weidetagen weniger als 25 Prozent des Trockensubstanz‑Verzehrs decken, minimale Weidefläche nicht eingehalten</td><td colspan="2">Alle Tierkategorien ohne Nutzgeflügel und Tiere der Schweinegattung (Anhang 6 Bst. B Ziff. 2.4, 5.2, 5.3 und 6.2)</td><td>60 Pte.</td></tr>
+<tr><td>g. weniger als 25 Prozent des Trockensubstanz‑ Verzehrs an Weidetagen bei Schafen und Ziegen, minimale Weidefläche an Weidetagen nicht eingehalten bei Tieren der Rindergattung und Wasserbüffeln sowie bei Tieren der Pferdegattung</td><td colspan="2">Alle Tierkategorien ohne Nutzgeflügel und Tiere der Schweinegattung (Anh. 6 Bst. B Ziff. 2.4, 5.2, 5.3 und 6.2)</td><td>60 Pte.</td></tr>
 <tr><td>h. Auslauffläche ist zu klein</td><td colspan="2">Tiere der Rindergattung (Anhang 6 Bst. B Ziff. 2.7) Tiere der Pferdegattung (Anhang 6 Bst. B Ziff. 2.8) Tiere der Ziegengattung (Anhang 6 Bst. B Ziff. 2.9) Tiere der Schafgattung (Anhang 6 Bst. B Ziff. 2.10) Tiere der Schweinegattung (Anhang 6 Bst. B Ziff. 3.3)</td><td>Abweichung weniger als 10 %: 60 Pte. Abweichung 10 % oder mehr: 110 Pte.</td></tr>
 <tr><td>i. Den Tieren stehen auf der Weide zu wenige Zufluchtsmöglichkeiten zur Verfügung</td><td colspan="2">Nutzgeflügel (Anhang 6 Bst. B Ziff. 4.5)</td><td>zu wenige: 10 Pte. keine: 110 Pte.</td></tr>
 <tr><td>j. Die Tiere werden während weniger als 56 Tagen gemästet</td><td colspan="2">Nutzgeflügel, nur Mastpoulets (Art. 75 Abs. 4)</td><td>60 Pte.</td></tr>
@@ -4473,90 +4883,44 @@ Anhang 8*[^t-8]*
 <tr><td>m. Die Tiere erhalten nicht während des ganzen Tages Zugang zum AKB oder die Tiere erhalten nicht die minimale Anzahl Stunden Weide pro Tag oder AKB nicht gedeckt</td><td colspan="2">Nutzgeflügel (Anhang 6 Bst. B Ziff. 4.1)</td><td>60 Pte.</td></tr>
 </table>
 
-- 2\.9.5 Projekte zur Weiterentwicklung der Bestimmungen für die Tierwohlbeiträge
+- 2\.9.5 Weidebeitrag bei Tieren der Rindergattung und Wasserbüffel
 
 <table>
-<tr><td>Mangel beim Kontrollpunkt</td><td>Kürzung</td></tr>
+<tr><th colspan="2">Mangel beim Kontrollpunkt</th><th></th><th>Kürzung</th></tr>
+<tr><td>a. Eine oder mehrere der Tierkategorien der Rindergattung und Wasserbüffel, für die kein Weidebeitrag ausgerichtet wird, erfüllen die Anforderungen nach Artikel 75 Absatz 1 nicht oder erhalten im gleichen Jahr keine RAUS-Beiträge (110 Pte Kürzung)</td><td colspan="2">Tiere der Rindergattung und Wasserbüffel (Art. 75*a* Abs. 4)</td><td>60 Pte.</td></tr>
+<tr><td>b. Schattennetz zwischen dem 1.11 und 28.2</td><td colspan="2">Tiere der Rindergattung und Wasserbüffel (Anh. 6 Bst. B Ziff. 1.5)</td><td>10 Pte.</td></tr>
+<tr><td>c. Auslauffläche entspricht nicht den allgemeinen Anforderungen</td><td colspan="2">Tiere der Rindergattung und Wasserbüffel (Anh. 6 Bst. B Ziff. 1.3)</td><td>110 Pte.</td></tr>
+<tr><td>d. Dokumentation des Auslaufs entspricht nicht den Anforderungen</td><td colspan="2">Tiere der Rindergattung und Wasserbüffel (Anh. 6 Bst. B Ziff. 1.6)</td><td>200 Fr. Keine Kürzung, wenn die Direktzahlungen im gleichen Jahr bei der gleichen Tierkategorie im Zusammenhang mit dem Tierschutz-Auslaufjournal gekürzt werden</td></tr>
+<tr><td>e. Tiere erhalten nicht an den geforderten Tagen Auslauf</td><td colspan="2">Tiere der Rindergattung und Wasserbüffel (Anh. 6 Bst. B Ziff. 2.3, 2.5 und 2.6 und Bst. C Ziff. 2.1)</td><td>1.5.–31.10.: 4 Pte. pro fehlender Tag 1.11.–30.4.: 6 Pte. pro fehlender Tag</td></tr>
+<tr><td>f. weniger als 70 Prozent des Trockensubstanz-Verzehrs an Weidetagen</td><td colspan="2">Tiere der Rindergattung und Wasserbüffel (Anh. 6 Bst. C Ziff. 2.2)</td><td>Weniger als 70 %: 60 Pte. Weniger als 25 %: 110 Pte.</td></tr>
+<tr><td>g. Auslauffläche ist zu klein</td><td colspan="2">Tiere der Rindergattung und Wasserbüffel (Anh. 6 Bst. B Ziff. 2.7)</td><td>Abweichung weniger als 10 %: 60 Pte. Abweichung 10 % oder mehr: 110 Pte.</td></tr>
+</table>
+
+- 2\.9.6 Projekte zur Weiterentwicklung der Bestimmungen für die Tierwohlbeiträge
+
+<table>
+<tr><th>Mangel beim Kontrollpunkt</th><th>Kürzung</th></tr>
 <tr><td>Die Anforderungen für die Tierwohlbeiträge oder die vom BLW bewilligten Abweichungen sind nicht eingehalten (Art. 76*a*)</td><td>Kürzung analog zu den Ziffern 2.9.1–2.9.4</td></tr>
 </table>
 
 ### 2.10 Ressourceneffizienzbeiträge
 
-- 2\.10.1 Die Kürzungen erfolgen mit Abzügen von Pauschalbeträgen oder mit einem Prozentsatz des Ressourceneffizienzbeitrags der betroffenen Fläche.
-- Werden auf der gleichen Fläche mehrere Mängel festgestellt, so werden die Kürzungen nicht kumuliert.
+- 2\.10.1 Die Kürzungen erfolgen mit Abzügen von Pauschalbeträgen oder mit einem Prozentsatz des Ressourceneffizienzbeitrags.
 - Im ersten Wiederholungsfall wird die Kürzung verdoppelt. Ab dem zweiten Wiederholungsfall wird die Kürzung vervierfacht.
-- 2\.10.2 Emissionsmindernde Ausbringverfahren
+- 2\.10.2 Einsatz präziser Applikationstechnik
 
 <table>
 <tr><th>Mangel beim Kontrollpunkt</th><th>Kürzung</th></tr>
-<tr><td>a. Pro Hektare und Gabe wurden nicht 3 kg verfügbarer Stickstoff in der Suisse-Bilanz angerechnet (Art. 78 Abs. 3)</td><td>Korrektur der Düngerbilanz und 200 Fr., zusätzlich allfällige Kürzungen im ÖLN (Nährstoffbilanz überschritten)</td></tr>
-<tr><td>b. Pro Fläche wurden mehr als vier Gaben für Beiträge angemeldet (Art. 78 Abs. 1)</td><td>Reduktion auf vier Gaben; Auszahlung von vier Gaben</td></tr>
-<tr><td>c. Die Aufzeichnungen (Datum der Ausbringung und gedüngte Fläche) sind nicht vorhanden, falsch oder unbrauchbar (Art. 78 Abs. 4)</td><td>200 Fr. Besteht der Mangel nach der Nachfrist weiterhin, werden 120 % der gesamten Beiträge für die emissionsmindernden Ausbringverfahren gekürzt</td></tr>
-<tr><td>d. Es wurden Gaben zwischen dem 15. Nov. und 15. Febr. für Beiträge angemeldet (Art. 78 Abs. 2)</td><td>Korrektur auf beitragsberechtigte Gaben</td></tr>
+<tr><td>a. Weniger als 50 % der Düsen am Spritzbalken sind Unterblattspritzdüsen (Art. 82 Abs. 3)</td><td>Rückforderung des Beitrags für die Neuanschaffung oder Umrüstung und zusätzlich 500 Fr.</td></tr>
+<tr><td>b. Der auf der Rechnung deklarierte Gerätetyp ist auf dem Betrieb nicht vorhanden (Art. 82 Abs. 3,)</td><td>Rückforderung des Beitrags für die Neuanschaffung oder Umrüstung und zusätzlich 1000 Fr.</td></tr>
 </table>
 
-- 2\.10.3 Schonende Bodenbearbeitung
-
-<table>
-<tr><th>Mangel beim Kontrollpunkt</th><th></th><th>Kürzung</th></tr>
-<tr><td colspan="2">a. Die Voraussetzungen und Auflagen für die schonende Bodenbearbeitung sind nicht eingehalten (Art. 79 und 80)</td><td>200 % der Beiträge</td></tr>
-<tr><td colspan="2">b. Die Voraussetzungen und Auflagen für den Zusatzbeitrag für den Verzicht auf Herbizid sind nicht eingehalten (Art. 81)</td><td>200 % der Beiträge</td></tr>
-<tr><td colspan="2">c. Die folgenden Aufzeichnungen pro Fläche sind nicht vollständig, fehlend, falsch oder unbrauchbar: Art der schonenden Bodenbearbeitung, Hauptkultur und vorangehende Hauptkultur, Herbizideinsatz, Fläche (Art. 80 Abs. 3)</td><td>200 % der Beiträge Besteht der Mangel nach der Nachfrist weiterhin, werden 120 % der gesamten Beiträge für die schonende Bodenbearbeitung gekürzt</td></tr>
-</table>
-
-- 2\.10.4 Einsatz präziser Applikationstechnik
+- 2\.10.3 Beitrag für die stickstoffreduzierte Phasenfütterung von Schweinen
 
 <table>
 <tr><th>Mangel beim Kontrollpunkt</th><th>Kürzung</th></tr>
-<tr><td>a. Weniger als 50 % der Düsen am Spritzbalken sind Unterblattspritzdüsen (Art. 82 Abs. 3, Anhang 7 Ziff. 6.3.2)</td><td>Rückforderung des Beitrags für die Neuanschaffung oder Umrüstung und zusätzlich 500 Fr.</td></tr>
-<tr><td>b. Der auf der Rechnung deklarierte Gerätetyp ist auf dem Betrieb nicht vorhanden (Art. 82 Abs. 3, Anhang 7 Ziff. 6.3.2)</td><td>Rückforderung des Beitrags für die Neuanschaffung oder Umrüstung und zusätzlich 1000 Fr.</td></tr>
-</table>
-
-- 2\.10.5 Beitrag für die Ausrüstung von Spritzen mit einem Spülsystem mit separatem Spülwasserkreislauf zur Reinigung von Geräten für das Ausbringen von Pflanzenschutzmitteln
-
-<table>
-<tr><th>Mangel beim Kontrollpunkt</th><th>Kürzung</th></tr>
-<tr><td>Das auf der Rechnung deklarierte Reinigungssystem ist auf dem Betrieb nicht vorhanden (Art. 82*a* und Anhang 7 Ziff. 6.4)</td><td>Rückforderung des Beitrags für die Neuanschaffung oder Umrüstung und zusätzlich 500 Fr.</td></tr>
-</table>
-
-- 2\.10.6 Beitrag für die stickstoffreduzierte Phasenfütterung von Schweinen
-
-<table>
-<tr><th>Mangel beim Kontrollpunkt</th><th>Kürzung</th></tr>
-<tr><td>a. Die Aufzeichnungen gemäss den Weisungen zur Berücksichtigung von nährstoffreduziertem Futter der Zusatzmodule 6 «Lineare Korrektur nach Futtergehalten» und 7 «Import/Export-Bilanz»[^annex8-lvlu1-lvl2-lvl210-1] der «Wegleitung Suisse-Bilanz», sind unvollständig, fehlend, falsch oder wurden nicht geführt (Art. 82*c* Abs. 2)</td><td>200 Fr. Besteht der Mangel nach der Nachfrist weiterhin, werden 120 % der gesamten Beiträge für die stickstoffreduzierte Phasenfütterung Schweine gekürzt.</td></tr>
-<tr><td>b. Der durchschnittliche Rohproteingehalt von 11 Gramm pro Megajoule verdauliche Energie Schwein (g/MJVES) der gesamten Futterration aller gehaltenen Schweine ist überschritten (Art. 82*c* Abs. 1)</td><td>120 % der Beiträge</td></tr>
-</table>
-
-- 2\.10.7 Beitrag für die Reduktion von Pflanzenschutzmitteln im Obstbau und im Rebbau
-- 2\.10.7.1 Beitrag für die Reduktion von Pflanzenschutzmitteln im Obstbau
-
-<table>
-<tr><th>Mangel beim Kontrollpunkt</th><th>Kürzung</th></tr>
-<tr><td>a. Die Voraussetzungen und Auflagen zum Einsatz der Herbizide, Insektizide und Akarizide sind nicht eingehalten. (Art. 82*e*)</td><td>200 % der Beiträge</td></tr>
-<tr><td>b. Die Vorgaben zum reduzierten Herbizid und/oder Fungizideinsatz inklusive Kupfer sind nicht eingehalten (Anh. 6*a*)</td><td>200 % der Beiträge</td></tr>
-</table>
-
-- 2\.10.7.2 Beitrag für die Reduktion von Pflanzenschutzmitteln im Rebbau
-
-<table>
-<tr><th>Mangel beim Kontrollpunkt</th><th>Kürzung</th></tr>
-<tr><td>a. Die Voraussetzungen und Auflagen zum Einsatz der Herbizide, Insektizide und Akarizide sind nicht eingehalten. (Art. 82*e*)</td><td>200 % der Beiträge</td></tr>
-<tr><td>b. Die Vorgaben zum reduzierten Herbizid und/oder Fungizideinsatz inklusive Kupfer sind nicht eingehalten (Anh. 6*a*)</td><td>200 % der Beiträge</td></tr>
-</table>
-
-- 2\.10.8 Beitrag für die Reduktion von Pflanzenschutzmitteln im Zuckerrübenanbau
-
-<table>
-<tr><th>Mangel beim Kontrollpunkt</th><th>Kürzung</th></tr>
-<tr><td>a. Die Voraussetzungen und Auflagen zum Einsatz der Herbizide, Insektizide und Akarizide sind nicht eingehalten. (Art. 82*e*)</td><td>200 % der Beiträge</td></tr>
-<tr><td>b. Die Vorgaben zum reduzierten Herbizid und/oder zum Verzicht auf Fungizide und Insektizide sind nicht eingehalten (Anh. 6*a*)</td><td>200 % der Beiträge</td></tr>
-</table>
-
-- 2\.10.9 Beitrag für die Reduktion von Herbiziden auf der offenen Ackerfläche
-
-<table>
-<tr><th>Mangel beim Kontrollpunkt</th><th>Kürzung</th></tr>
-<tr><td>a. Die Voraussetzungen und Auflagen zum Herbizidverzicht sind nicht eingehalten (Art. 82*f* und 82*g*)</td><td>200 % der Beiträge</td></tr>
+<tr><td>a. Die Aufzeichnungen gemäss den Weisungen zur Berücksichtigung von nährstoffreduziertem Futter der Zusatzmodule 6 «Lineare Korrektur nach Futtergehalten» und 7 «Import/Export-Bilanz»[^annex8-lvlu1-lvl2-lvl210-1] der «Wegleitung Suisse-Bilanz», sind unvollständig, fehlend, falsch oder wurden nicht geführt (Anh. 6*a* Ziff. 4)</td><td>200 Fr. Besteht der Mangel nach der Nachfrist weiterhin, werden 200 % der gesamten Beiträge für die stickstoffreduzierte Phasenfütterung Schweine gekürzt.</td></tr>
+<tr><td>b. Der betriebsspezifische Grenzwert an Rohprotein in Gramm pro Megajoule verdauliche Energie Schwein (g/MJVES) der gesamten Futterration aller gehaltenen Schweine ist überschritten (Anh. 6*a* Ziff. 3 und 5) Das Futter weist einen Nährwert auf, der nicht an den Bedarf der Tiere angepasst ist (Art. 82*c* Abs. 1). In der Schweinemast werden während der Mastdauer nicht mindestens zwei Futterrationen mit unterschiedlichem Gehalt an Rohprotein in g/MJ VES eingesetzt. Die in der Endmastphase eingesetzte Futterration macht, bezogen auf die Trockensubstanz, weniger als 30 % der in der Schweinemast eingesetzten Futtermittel aus (Art. 82*c* Abs. 2).</td><td>200 % der Beiträge</td></tr>
 </table>
 
 [^annex8-lvlu1-lvl2-lvl210-1]: Die jeweils geltenden Versionen der Zusatzmodule sind abrufbar unter www.blw.admin.ch &gt; Instrumente &gt; Direktzahlungen &gt; Ökologischer Leistungsnachweis &gt; Ausgeglichene Düngerbilanz und Bodenuntersuchungen (DZV Art. 13).
@@ -4603,6 +4967,8 @@ Anhang 8*[^t-8]*
 <tr><td>c. Über 6 Tage sowie im Wiederholungsfall</td><td>50 %, max. 6000 Fr.</td></tr>
 </table>
 
+- 3\.2.4 Der Kanton kann die Kürzung nach Ziffer 3.2.3 angemessen reduzieren, wenn nicht der gesamte gesömmerte Tierbestand betroffen ist.
+
 ### 3.3 Erschwerung der Kontrollen
 
 - 3\.3.1 Bei Erschwerung der Kontrollen oder Drohungen werden die Beiträge um 10 Prozent, mindestens um 200 Franken, maximal um 1000 Franken gekürzt.
@@ -4615,17 +4981,17 @@ Anhang 8*[^t-8]*
 
 ### 3.5 Dokumente und Aufzeichnungen
 
-Die Kürzungen erfolgen mit Abzügen von Pauschalbeträgen. Im ersten Wiederholungsfall werden die Kürzungen verdoppelt. Ab dem zweiten Wiederholungsfall ist ein Beitragsausschluss die Folge.
+Die Kürzungen erfolgen mit Abzügen von Pauschalbeträgen. Im ersten Wiederholungsfall werden die Kürzungen verdoppelt.
 
 <table>
 <tr><th>Mangel beim Kontrollpunkt</th><th>Kürzung</th></tr>
-<tr><td>Fehlendes Journal Düngerzufuhr (Art. 30), falls Dünger zugeführt wird Fehlendes Journal Futterzufuhr (Art. 31), falls Futter zugeführt wird Fehlender Bewirtschaftungsplan (Art. 33), falls Bewirtschaftungsplan erstellt wurde Fehlende Aufzeichnung gemäss Bewirtschaftungsplan (Anhang 2, Ziff. 2), falls verlangt Fehlende Aufzeichnung gemäss kantonalen Auflagen (Art. 34), falls verlangt Fehlende Begleitdokumente oder Tierverzeichnisse (Art. 36) Fehlender Plan der Flächen (Art. 38) Fehlendes Weidejournal oder Weideplan (Anhang 2 Ziff. 4), falls Schafe bei ständiger Behirtung oder auf Umtriebsweiden</td><td>200 Fr. pro fehlendes Dokument oder fehlende Aufzeichnung, max. 3000 Fr. Kürzung wird erst vorgenommen, wenn der Mangel nach der Nachfrist weiter besteht bzw. wenn das Dokument oder die Aufzeichnung des laufenden Jahres oder des Vorjahres nicht nachgereicht wurde</td></tr>
+<tr><td>Fehlendes oder mangelhaftes Journal Düngerzufuhr (Art. 30) Fehlendes oder mangelhaftes Journal Futterzufuhr (Art. 31) Fehlender Bewirtschaftungsplan (Art. 33), falls Bewirtschaftungsplan erstellt wurde Fehlende oder mangelhafte Aufzeichnung gemäss Bewirtschaftungsplan (Anh. 2, Ziff. 2) Fehlende oder mangelhafte Aufzeichnung gemäss kantonalen Auflagen (Art. 34) Fehlende oder mangelhafte Begleitdokumente oder Tierverzeichnisse (Art. 36) Fehlender oder mangelhafter Plan der Flächen (Art. 38) Fehlendes oder mangelhaftes Weidejournal oder Weideplan (Anh. 2, Ziff. 4)</td><td>200 Fr. pro fehlendes oder mangelhaftes Dokument oder pro fehlende oder mangelhafte Aufzeichnung, max. 3000 Fr.</td></tr>
 </table>
 
 ### 3.6 Bewirtschaftungsanforderungen
 
 - 3\.6.1 Im ersten Wiederholungsfall werden die Kürzungen verdoppelt. Ab dem zweiten Wiederholungsfall ist ein Beitragsausschluss die Folge.
-- 3\.6.2 Liegt die Kürzung aufgrund einer nur teilweisen Einhaltung der Bewirtschaftungsanforderungen insgesamt nicht über 10 Prozent, so wird sie nicht berücksichtigt.
+- 3\.6.2 Liegt die Kürzung aufgrund einer nur teilweisen Einhaltung der Bewirtschaftungsanforderungen insgesamt nicht über 10 Prozent, so wird nur eine Kürzung von 5 Prozent vorgenommen.
 - 3\.6.3 Die Kürzung der Sömmerungsbeiträge bei den nachfolgenden erstmaligen Mängeln beträgt jeweils pro Kontrollpunkt mindestens 200 Franken und maximal 3000 Franken. Das Maximum von 3000 Franken pro Kontrollpunkt entfällt im Wiederholungsfall.
 
 <table>
@@ -4639,8 +5005,8 @@ Die Kürzungen erfolgen mit Abzügen von Pauschalbeträgen. Im ersten Wiederholu
 <tr><td>g. Zufuhr alpfremder Dünger ohne Bewilligung (Art. 30 Abs. 1)</td><td>15 %</td></tr>
 <tr><td>h. Einsatz von stickstoffhaltigen Mineraldüngern oder alpfremden füssigen Düngern (Art. 30 Abs. 2)</td><td>15 %</td></tr>
 <tr><td>i. Unerlaubte Zufuhr von Raufutter für witterungsbedingte Ausnahmesituationen (Art. 31 Abs. 1)</td><td>10 %</td></tr>
-<tr><td>j. Unerlaubte Zufuhr von Dürrfutter auf Betrieben mit gemolkenen Tieren (Art. 31 Abs. 2)</td><td>10 %</td></tr>
-<tr><td>k. Unerlaubte Zufuhr von Kraftfutter auf Betrieben mit gemolkenen Tieren (Art. 31 Abs. 2)</td><td>10 %</td></tr>
+<tr><td>j. Unerlaubte Zufuhr von Dürrfutter auf Betriebe mit Milchkühen, Milchziegen oder Milchschafen (Art. 31 Abs. 2)</td><td>[tab] 10 %</td></tr>
+<tr><td>k. Unerlaubte Zufuhr von Kraftfutter auf Betriebe mit Milchkühen, Milchziegen oder Milchschafen (Art. 31 Abs. 2)</td><td>[tab] 10 %</td></tr>
 <tr><td>l. Unerlaubter Kraftfuttereinsatz bei Schweinen (Art. 31 Abs. 3)</td><td>10 %</td></tr>
 <tr><td>m. Hoher Besatz an Problempflanzen (Art. 32 Abs. 1)</td><td>10 %</td></tr>
 <tr><td>n. Unerlaubter Herbizideinsatz (Art. 32 Abs. 2)</td><td>15 %</td></tr>
@@ -4652,7 +5018,7 @@ Die Kürzungen erfolgen mit Abzügen von Pauschalbeträgen. Im ersten Wiederholu
 ### 3.7 Bewirtschaftungsanforderungen für Schafweiden mit ständiger Behirtung oder Umtriebsweide
 
 - 3\.7.1 Im ersten Wiederholungsfall werden die Kürzungen verdoppelt. Ab dem zweiten Wiederholungsfall ist ein Beitragsausschluss die Folge.
-- 3\.7.2 Liegt die Kürzung aufgrund einer nur teilweisen Einhaltung der Bewirtschaftungsanforderungen insgesamt nicht über 10 Prozent, so wird sie nicht berücksichtigt.
+- 3\.7.2 Liegt die Kürzung aufgrund einer nur teilweisen Einhaltung der Bewirtschaftungsanforderungen insgesamt nicht über 10 Prozent, so wird nur eine Kürzung von 5 Prozent vorgenommen.
 - 3\.7.3 Die Kürzung bei den nachfolgenden erstmaligen Mängeln beträgt jeweils pro Kontrollpunkt mindestens 200 Franken und maximal 3000 Franken. Das Maximum von 3000 Franken pro Kontrollpunkt entfällt im Wiederholungsfall.
 - 3\.7.4 Unvollständige Erfüllung der Anforderungen für die ständige Behirtung der Schafe
 
@@ -4689,8 +5055,11 @@ Die Kürzungen erfolgen mit Abzügen von Pauschalbeträgen. Im ersten Wiederholu
 
 <table>
 <tr><th>Mangel beim Kontrollpunkt</th><th>Kürzung</th></tr>
-<tr><td>a. Fehlende Herdenschutzmassnahmen falls Gesuch für Umtriebsweide mit Herdenschutzmassnahmen (Art. 47 Abs. 2 Bst. a)</td><td>Reduktion des Sömmerungsbeitrags auf den Ansatz für Umtriebsweide nach Anhang 7 Ziff. 1.6 Bst. b</td></tr>
+<tr><td>a. Die Anforderungen an die Umtriebsweide gemäss den Bestimmungen nach Anhang 2 Ziff. 4.2 sind nicht erfüllt (Anh. 2, Ziff. 4.2a.1)</td><td>Kürzungen nach Anhang 8 Ziff. 3.7.5</td></tr>
+<tr><td>b. Die Herdenschutzmassnahmen richten sich nicht nach den zumutbaren Schutzmassnahmen in Art. 10<sup>quinquies</sup> Abs. 1 der Jagdverordnung vom 29. Februar 1988[^annex8-lvlu1-lvl3-lvl37-1] (Anh. 2, Ziff. 4.2a.2)</td><td>Reduktion des Sömmerungsbeitrags auf den Ansatz für Umtriebsweide nach Anhang 7 Ziff. 1.6.1 Bst. b</td></tr>
 </table>
+
+[^annex8-lvlu1-lvl3-lvl37-1]: [SR 922.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10980)
 
 ### 3.8 Biodiversitätsbeitrag für artenreiche Grün- und Streueflächen im Sömmerungsgebiet
 
@@ -4714,7 +5083,6 @@ Die Bestimmungen nach Ziffer 2.5 gelten auch für Sömmerungs- und Gemeinschafts
 - 3\.10.2 Die Kürzung beträgt beim erstmaligen Verstoss 200 Franken. Ab dem ersten Wiederholungsfall beträgt sie 25 Prozent aller Beiträge im Sömmerungsgebiet, jedoch maximal 2500 Franken.
 - 3\.10.3 Bei besonders schwerwiegenden Verstössen kann der Kanton die Kürzung angemessen erhöhen.
 - 3\.10.4 Der Kanton kann auf die Kürzung beim erstmaligen Verstoss gegen Vorschriften des baulichen Tierschutzes verzichten, wenn das kantonale Veterinäramt eine Frist zur Behebung des Mangels gesetzt hat.
-- [tab]
 
 Anhang 9
 
