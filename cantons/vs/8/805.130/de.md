@@ -1,22 +1,22 @@
 ---
 canton: VS
 number: "805.130"
-title: Beschluss betreffend die Festsetzung der fakturierbaren Kosten und der Restbeiträge der öffentlichen Hand für die Organisationen für Krankenpflege zu Hause und die selbstständigen Pflegefachpersonen
+title: Beschluss über die Festsetzung der fakturierbaren Kosten und der Restbeiträge der öffentlichen Hand für die Organisationen für Krankenpflege zu Hause und die selbstständigen Pflegefachpersonen
 language: de
-version: 2022-03-01
-valid_until: 2022-12-31
-version_adopted: 2022-05-18
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2022-12-21
 adopted: 2026-06-10
 in_force: 2026-06-01
 url: "https://lex.vs.ch/app/de/texts_of_law/805.130"
-pdf: "https://lex.vs.ch/api/de/versions/3036/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3146/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Beschluss betreffend die Festsetzung der fakturierbaren Kosten und der Restbeiträge der öffentlichen Hand für die Organisationen für Krankenpflege zu Hause und die selbstständigen Pflegefachpersonen
+# Beschluss über die Festsetzung der fakturierbaren Kosten und der Restbeiträge der öffentlichen Hand für die Organisationen für Krankenpflege zu Hause und die selbstständigen Pflegefachpersonen
 
-vom 01.12.2021 (Stand 01.03.2022)
+vom 21.12.2022 (Stand 01.01.2023)
 
 Der Staatsrat des Kantons Wallis
 
@@ -45,7 +45,7 @@ beschliesst:
 
 #### Art. 2
 
-**Fakturierbare Kosten 2022**
+**Fakturierbare Kosten 2023**
 
 <sup>1</sup> Die fakturierbaren Kosten für die Pflegeleistungen pro Stunde:
 
@@ -55,7 +55,7 @@ beschliesst:
 
 #### Art. 3
 
-**Restbeitrag 2022**
+**Restbeitrag 2023**
 
 <sup>1</sup> Die Restbeiträge der öffentlichen Hand an den Pflegekosten pro Stunde:
 
@@ -82,4 +82,4 @@ beschliesst:
 
 <sup>1</sup> Das für die Gesundheit zuständige Departement wird mit der Ausführung dieses Beschlusses beauftragt.
 
-CSW RO/AGS 2021-165
+CSW RO/AGS 2022-110
