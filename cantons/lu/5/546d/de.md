@@ -3,20 +3,20 @@ canton: LU
 number: 546d
 title: Verordnung über die Zuteilung der Studienplätze im Masterstudiengang Joint Medical Master der Universitäten Luzern und Zürich
 language: de
-version: 2020-02-01
-valid_until: 2022-12-31
-version_adopted: 2020-01-21
+version: 2023-01-01
+valid_until: 2024-01-31
+version_adopted: 2022-12-13
 adopted: 2020-01-21
 in_force: 2020-02-01
 url: "https://srl.lu.ch/app/de/texts_of_law/546d"
-pdf: "https://srl.lu.ch/api/de/versions/3550/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4010/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Zuteilung der Studienplätze im Masterstudiengang Joint Medical Master der Universitäten Luzern und Zürich
 
-vom 21.01.2020 (Stand 01.02.2020)
+vom 21.01.2020 (Stand 01.01.2023)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -92,6 +92,6 @@ beschliesst:
 
 **Befristung**
 
-<sup>1</sup> Die Verordnung ist bis zum 31. Januar 2023 befristet.
+<sup>1</sup> Die Verordnung ist bis zum 31. Januar 2024 befristet.
 
 G 2020-006
