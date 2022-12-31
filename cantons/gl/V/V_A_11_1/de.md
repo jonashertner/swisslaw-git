@@ -4,13 +4,13 @@ number: V A/11/1
 title: Polizeigesetz
 short: PolG
 language: de
-version: 2022-07-01
-valid_until: 2022-12-31
+version: 2023-01-01
+valid_until: 2025-09-30
 version_adopted: 2021-09-05
 adopted: 2007-05-06
 in_force: 2008-05-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/V-A.11.1"
-pdf: "https://gesetze.gl.ch/api/de/versions/2535/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2536/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2535/pdf_file"
 
 (PolG)
 
-Vom 06.05.2007 (Stand 01.07.2022)
+Vom 06.05.2007 (Stand 01.01.2023)
 
 (Erlassen von der Landsgemeinde am 6. Mai 2007)
 
@@ -480,7 +480,7 @@ Vom 06.05.2007 (Stand 01.07.2022)
 
 **Grundsatz**
 
-<sup>1</sup> Soweit dieses Gesetz nichts anderes regelt, gelten die Bestimmungen des Datenschutzgesetzes[^30-1].
+<sup>1</sup> Soweit dieses Gesetz nichts anderes regelt, gelten die Bestimmungen des Gesetzes über die Information der Öffentlichkeit, den Datenschutz und das Archivwesen (IDAG)[^30-1].
 
 <sup>2–3</sup> …
 
@@ -490,9 +490,9 @@ Vom 06.05.2007 (Stand 01.07.2022)
 
 **Datenbearbeitung**
 
-<sup>1</sup> Die Kantonspolizei darf zur Erfüllung ihrer Aufgaben und zur Führung ihrer Geschäftskontrolle Personendaten bearbeiten und dazu geeignete Datenbearbeitungssysteme betreiben.
+<sup>1</sup> Die Kantonspolizei darf zur Erfüllung ihrer Aufgaben und zur Führung ihrer Geschäftskontrolle Personendaten bearbeiten, Profiling betreiben und dazu geeignete Datenbearbeitungssysteme führen.
 
-<sup>2</sup> Die Bearbeitung von besonders schützenswerten Personendaten und Persönlichkeitsprofilen ist erlaubt, soweit es für die Aufgabenerfüllung geeignet und notwendig ist.
+<sup>2</sup> Die Bearbeitung von besonders schützenswerten Personendaten und Profiling ist erlaubt, soweit es für die Aufgabenerfüllung geeignet und notwendig ist.
 
 #### Art. 31
 
@@ -503,12 +503,12 @@ Vom 06.05.2007 (Stand 01.07.2022)
 - a. wenn dies zur Abwehr einer unmittelbar drohenden Gefahr für Leib und Leben oder anderer höher zu gewichtenden Rechtsgüter geeignet und notwendig ist;
 - b. wenn das anfragende öffentliche Organ glaubhaft macht, diese zur Erfüllung einer ihr obliegenden gesetzlichen Aufgabe zu benötigen.
 
-<sup>2</sup> Öffentliche Organe gemäss Artikel 2 Absatz 1 des Datenschutzgesetzes dürfen im Einzelfall Personendaten, einschliesslich besonders schützenswerter Personendaten, an die Kantonspolizei weitergeben:
+<sup>2</sup> Öffentliche Organe gemäss Artikel 4 IDAG dürfen im Einzelfall Personendaten, einschliesslich besonders schützenswerter Personendaten, an die Kantonspolizei weitergeben:
 
 - a. wenn dies zur Abwehr einer unmittelbar drohenden Gefahr für Leib und Leben oder anderer höher zu gewichtenden Rechtsgüter geeignet und notwendig ist;
 - b. wenn die Kantonspolizei glaubhaft macht, diese zur Erfüllung einer ihr obliegenden gesetzlichen Aufgabe zu benötigen.
 
-<sup>3</sup> Im Weiteren darf die Bekanntgabe von Personendaten, einschliesslich besonders schützenwerter Personendaten, unter den Voraussetzungen von Artikel 10 des Datenschutzgesetzes erfolgen.
+<sup>3</sup> Im Weiteren darf die Bekanntgabe von Personendaten, einschliesslich besonders schützenwerter Personendaten, unter den Voraussetzungen von Artikel 22–25 IDAG erfolgen.
 
 #### Art. 32
 
@@ -526,13 +526,15 @@ Vom 06.05.2007 (Stand 01.07.2022)
 
 **Datenbearbeitung von gewaltbereiten Personen**
 
-<sup>1</sup> Öffentliche Organe gemäss Artikel 2 Absatz 1 des Datenschutzgesetzes dürfen der Kantonspolizei Personen melden, bei denen Anzeichen für eine Gewaltbereitschaft gegen Dritte vorliegen. Dieses Melderecht gilt auch für Inhaber einer Berufsausübungsbewilligung gemäss Gesundheitsgesetz.
+<sup>1</sup> Öffentliche Organe gemäss Artikel 4 IDAG dürfen der Kantonspolizei Personen melden, bei denen Anzeichen für eine Gewaltbereitschaft gegen Dritte vorliegen. Dieses Melderecht gilt auch für Inhaber einer Berufsausübungsbewilligung gemäss Gesundheitsgesetz[^32b-1].
 
 <sup>2</sup> Die Kantonspolizei prüft die bei ihr eingehenden Meldungen. Hierzu dürfen, soweit notwendig, Personendaten, einschliesslich besonders schützenswerter Personendaten, bearbeitet und mit weiteren Stellen zur fachübergreifenden Konsultation ausgetauscht werden.
 
 <sup>3</sup> Liegen hinreichende Anzeichen für eine erhöhte Gewaltbereitschaft gegen Dritte vor, ergreift die Kantonspolizei die erforderlichen Massnahmen. Sie kann insbesondere potenzielle Opfer informieren. Die Rechte des Gefährders sind soweit als möglich zu wahren.
 
 <sup>4</sup> Ergibt die Prüfung, dass es bei der gemeldeten Person an hinreichenden Anzeichen für eine erhöhte Gewaltbereitschaft gegen Dritte fehlt, werden die über sie erhobenen Personendaten gelöscht.
+
+[^32b-1]: GS [VIII A/1/1](https://gesetze.gl.ch/data/VIII-A.1.1/de)
 
 #### Art. 32c
 
