@@ -4,11 +4,11 @@ number: "813.15"
 title: Gesetz über das Universitätsspital Zürich (USZG)
 short: USZG
 language: de
-version: "2018-01-01"
-nachtrag: "99"
-valid_until: 2023-01-01
+version: "2023-01-01"
+nachtrag: "119"
+valid_until: 2024-01-01
 adopted: 2005-09-19
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-813_15-2005_09_19-2007_01_01-099.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-813_15-2005_09_19-2007_01_01-119.html"
 text: pdf
 ---
 
@@ -57,7 +57,7 @@ Das Universitätsspital 1. dient der überregionalen medizinischen Versorgung,
 
 **1**
 
-- 1\. 1. 18 - 99 § 6. <sup>1</sup> Das Universitätsspital schliesst mit der Universität Zürich einen Vertrag über Forschungs- und Lehrleistungen ab, die es im Gesundheitsbereich erbringt. Der Regierungsrat kann weitere Hochschulen bezeichnen, mit denen das Universitätsspital entsprechende Verträge abschliessen muss.
+- 1\. 1. 23 - 119 § 6. <sup>1</sup> Das Universitätsspital schliesst mit der Universität Zürich einen Vertrag über Forschungs- und Lehrleistungen ab, die es im Gesundheitsbereich erbringt. Der Regierungsrat kann weitere Hochschulen bezeichnen, mit denen das Universitätsspital entsprechende Verträge abschliessen muss.
 
 **Zusammenarbeit mit Hochschulen**
 
@@ -125,7 +125,7 @@ Das Universitätsspital kann mit Genehmigung des Regierungsrates und unter Berü
 
 - 10\. überprüft die Eigentümerstrategie mindestens alle vier Jahre und führt sie nach.
 
-[^hIKantonaleBehörde-1]: Fassung gemäss G vom 12. Juni 2017 (OS 72, 549; ABl 2015-05-22). In Kraft seit 1. Januar 2018. 1. 1. 18 - 99 9
+[^hIKantonaleBehörde-1]: Fassung gemäss G vom 12. Juni 2017 (OS 72, 549; ABl 2015-05-22). In Kraft seit 1. Januar 2018.
 [^hIKantonaleBehörde-2]: Fassung gemäss Spitalplanungs- und -finanzierungsgesetz vom 2. Mai 2011 (OS 66, 513; ABl 2011, 291). In Kraft seit 1. Januar 2012.
 
 ### II. Organe des Universitätsspitals
@@ -138,7 +138,7 @@ Das Universitätsspital kann mit Genehmigung des Regierungsrates und unter Berü
 
 **3**
 
-- 1\. 1. 18 - 99
+- 1\. 1. 23 - 119
 
 <sup>2</sup> Die Amtsdauer beträgt vier Jahre. Wiederwahl ist möglich. Der Regierungsrat regelt Wahl und Abberufung.
 
@@ -180,7 +180,7 @@ Das Universitätsspital kann mit Genehmigung des Regierungsrates und unter Berü
 
 - 15\. sorgt für ein angemessenes Risikomanagement und ein internes Kontrollsystem.
 
-[^10-1]: Fassung gemäss G vom 12. Juni 2017 (OS 72, 549; ABl 2015-05-22). In Kraft seit 1. Januar 2018. 1. 1. 18 - 99 9
+[^10-1]: Fassung gemäss G vom 12. Juni 2017 (OS 72, 549; ABl 2015-05-22). In Kraft seit 1. Januar 2018.
 [^10-2]: Fassung gemäss Spitalplanungs- und -finanzierungsgesetz vom 2. Mai 2011 (OS 66, 513; ABl 2011, 291). In Kraft seit 1. Januar 2012.
 
 #### § 12
@@ -212,25 +212,38 @@ Das Universitätsspital kann mit Genehmigung des Regierungsrates und unter Berü
 
 <sup>2</sup> Für das öffentlich-rechtlich angestellte Personal gelten die für das Staatspersonal anwendbaren Bestimmungen. Das Personalreglement kann von den für das Staatspersonal geltenden Bestimmungen abweichen, soweit dies aus betrieblichen Gründen erforderlich ist.
 
-**Ärztliche Zusatzhonorare**
+<sup>3</sup> Für das ärztliche Personal ab Stufe Oberärztin und Oberarzt (ärztliches Kader) kann das Personalreglement[^13-1] zudem abweichende Regelungen betreffend Vergütung und Beendigung des Arbeitsverhältnisses vorsehen.[^13-2]
 
-§ 14.[^13-1] Die Erwirtschaftung und die Verwendung von ärztlichen Zusatzhonoraren richten sich nach dem Gesetz über die ärztlichen Zusatzhonorare[^13-2].
+**Vergütung des ärztlichen Kaders**
 
-[^13-1]: Fassung gemäss G vom 14. Januar 2008 (OS 63, 199; ABl 2007, 1609). In Kraft seit 1. Januar 2008.
-[^13-2]: LS 813.14.
-[^13-3]: Fassung gemäss G über die Nachführung des Personalrechts im Hinblick auf die Verselbstständigung der Versicherungskasse für das Staatspersonal vom 20. Oktober 2014 (OS 70, 83; ABl 2013-12-27). In Kraft seit 1. Mai 2015.
+§ 14.[^13-3] <sup>1</sup> Das Personalreglement[^13-1] legt die höchstens zulässige Gesamtvergütung der Angehörigen des ärztlichen Kaders fest. Die Gesamtvergütung darf 1 Mio. Franken pro Jahr nicht übersteigen.
+
+<sup>2</sup> Die Vergütung kann einen variablen Bestandteil enthalten. Dieser beträgt höchstens 30% der Gesamtvergütung.
+
+**5**
+
+- 1\. 1. 23 - 119
+
+<sup>3</sup> Der variable Bestandteil wird durch folgende Faktoren bestimmt, die höchstens zum genannten Anteil berücksichtigt werden können:
+
+- a. Qualität des Spitals und der Klinik bis zu 60%,
+
+- b. wirtschaftlicher Erfolg des Spitals und der Klinik bis zu 60%,
+
+- c. individuelle Leistung der oder des Angestellten bis zu 60%.
+
+[^13-1]: LS 813.152. 1. 1. 23 - 119 9
+[^13-2]: Eingefügt durch Spitalplanungs- und -finanzierungsgesetz vom 5. Juli 2021 (OS 76, 612; ABl 2020-07-17). In Kraft seit 1. Januar 2023.
+[^13-3]: Fassung gemäss Spitalplanungs- und -finanzierungsgesetz vom 5. Juli 2021 (OS 76, 612; ABl 2020-07-17). In Kraft seit 1. Januar 2023.
+[^13-4]: Fassung gemäss G über die Nachführung des Personalrechts im Hinblick auf die Verselbstständigung der Versicherungskasse für das Staatspersonal vom 20. Oktober 2014 (OS 70, 83; ABl 2013-12-27). In Kraft seit 1. Mai 2015.
 
 #### § 15
 
 **Berufliche Vorsorge**
 
-<sup>1</sup> Das Personal wird bei der BVK Personalvorsorge des Kantons Zürich versichert.[^13-3]
+<sup>1</sup> Das Personal wird bei der BVK Personalvorsorge des Kantons Zürich versichert.[^13-4]
 
 <sup>2</sup> Die Assistenz- und Oberärzte sowie die Assistenten und Oberassistenten werden in der Regel bei der Vorsorgestiftung Verband Schweizerischer Assistenz- und Oberärzte (VSAO) versichert.
-
-**5**
-
-- 1\. 1. 18 - 99
 
 ### D. Mittel
 
@@ -240,17 +253,28 @@ Das Universitätsspital kann mit Genehmigung des Regierungsrates und unter Berü
 
 <sup>2</sup> Der Kanton kann dem Universitätsspital für bestimmte Zwecke weitere Mittel zur Verfügung stellen. Sie gelten als neue Ausgabe gemäss § 37 Abs. 1 des Gesetzes über Controlling und Rechnungslegung vom 9. Januar 2006[^hDMittel-2].
 
-§ 17.[^hDMittel-3]
+**Erträge aus ärztlichen Zusatzleistungen**
+
+§ 17.[^hDMittel-3],[^hDMittel-4] <sup>1</sup> Erträge aus ärztlichen Zusatzleistungen für Patientinnen und Patienten fliessen in die Betriebsrechnung des Spitals.
+
+<sup>2</sup> 5% bis 10% dieser Erträge werden für Einmalzulagen des nichtärztlichen und des nicht zum ärztlichen Kader gehörenden Personals eingesetzt.
+
+[^hDMittel-1]: Fassung gemäss G vom 12. Juni 2017 (OS 72, 549; ABl 2015-05-22). In Kraft seit 1. Januar 2018.
+[^hDMittel-2]: LS 611.
+[^hDMittel-3]: Aufgehoben durch Spitalplanungs- und -finanzierungsgesetz vom 2. Mai 2011 (OS 66, 513; ABl 2011, 291). In Kraft seit 1. Januar 2012.
+[^hDMittel-4]: Eingefügt durch Spitalplanungs- und -finanzierungsgesetz vom 5. Juli 2021 (OS 76, 612; ABl 2020-07-17). In Kraft seit 1. Januar 2023.
+
+#### § 18
 
 **Finanzierung weiterer Leistungen12**
 
-§ 18. Die Erfüllung weiterer Leistungen gemäss § 3 Abs. 3 finanziert das Universitätsspital aus Eigen- oder Drittmitteln.
+Die Erfüllung weiterer Leistungen gemäss § 3 Abs. 3 finanziert das Universitätsspital aus Eigen- oder Drittmitteln.
 
-§§ 19–21.[^hDMittel-3]
+§§ 19–21.[^18-1]
 
 **Baurechte**
 
-§ 22.[^hDMittel-1] <sup>1</sup> Der Kanton räumt dem Universitätsspital an den von ihm für die Erfüllung des gesetzlichen Zweckes gemäss § 2 benötigten Grundstücken im Hochschulquartier Zürich Zentrum Baurechte ein.
+§ 22.[^18-2] <sup>1</sup> Der Kanton räumt dem Universitätsspital an den von ihm für die Erfüllung des gesetzlichen Zweckes gemäss § 2 benötigten Grundstücken im Hochschulquartier Zürich Zentrum Baurechte ein.
 
 <sup>2</sup> Der Regierungsrat bezeichnet die betroffenen Grundstücke und regelt die Einzelheiten der Baurechte vertraglich.
 
@@ -262,22 +286,21 @@ Das Universitätsspital kann mit Genehmigung des Regierungsrates und unter Berü
 
 **Strategische Koordination**
 
-§ 22 a.[^hDMittel-4] Das Universitätsspital koordiniert die Planung seiner Immobilien mit jener des Regierungsrates.
+§ 22 a.[^18-3] Das Universitätsspital koordiniert die Planung seiner Immobilien mit jener des Regierungsrates.
 
-§ 23.[^hDMittel-3]
+§ 23.[^18-1]
 
 **Fremdmittel**
 
-§ 24.[^hDMittel-1] Das Universitätsspital darf in dem in der Eigentümerstrategie festgelegten Rahmen Fremdmittel aufnehmen.
+§ 24.[^18-2] Das Universitätsspital darf in dem in der Eigentümerstrategie festgelegten Rahmen Fremdmittel aufnehmen.
 
-[^hDMittel-1]: Fassung gemäss G vom 12. Juni 2017 (OS 72, 549; ABl 2015-05-22). In Kraft seit 1. Januar 2018. 1. 1. 18 - 99 9
-[^hDMittel-2]: LS 611.
-[^hDMittel-3]: Aufgehoben durch Spitalplanungs- und -finanzierungsgesetz vom 2. Mai 2011 (OS 66, 513; ABl 2011, 291). In Kraft seit 1. Januar 2012.
-[^hDMittel-4]: Eingefügt durch G vom 12. Juni 2017 (OS 72, 549; ABl 2015-05-22). In Kraft seit 1. Januar 2018.
+[^18-1]: Aufgehoben durch Spitalplanungs- und -finanzierungsgesetz vom 2. Mai 2011 (OS 66, 513; ABl 2011, 291). In Kraft seit 1. Januar 2012.
+[^18-2]: Fassung gemäss G vom 12. Juni 2017 (OS 72, 549; ABl 2015-05-22). In Kraft seit 1. Januar 2018.
+[^18-3]: Eingefügt durch G vom 12. Juni 2017 (OS 72, 549; ABl 2015-05-22). In Kraft seit 1. Januar 2018.
 
 ### E. Rechnungslegung und Rechnungsführung
 
-[^hDMittel-1]
+[^18-2]
 
 **Rechnungslegung**
 
@@ -287,7 +310,7 @@ Das Universitätsspital kann mit Genehmigung des Regierungsrates und unter Berü
 
 § 26.[^hERechnungslegungu-1] Das Universitätsspital erstellt jährlich eine mittelfristige Planerfolgsrechnung und eine mittelfristige Planbilanz und informiert den Regierungsrat darüber.
 
-[^hERechnungslegungu-1]: Fassung gemäss G vom 12. Juni 2017 (OS 72, 549; ABl 2015-05-22). In Kraft seit 1. Januar 2018. 1. 1. 18 - 99 9
+[^hERechnungslegungu-1]: Fassung gemäss G vom 12. Juni 2017 (OS 72, 549; ABl 2015-05-22). In Kraft seit 1. Januar 2018.
 
 #### § 27
 
@@ -295,7 +318,7 @@ Das Universitätsspital kann mit Genehmigung des Regierungsrates und unter Berü
 
 Für jeden Drittmittelkredit wird eine separate Rechnung geführt.
 
-[^27-1]: Fassung gemäss G vom 12. Juni 2017 (OS 72, 549; ABl 2015-05-22). In Kraft seit 1. Januar 2018. 1. 1. 18 - 99 9
+[^27-1]: Fassung gemäss G vom 12. Juni 2017 (OS 72, 549; ABl 2015-05-22). In Kraft seit 1. Januar 2018.
 
 #### § 28
 
@@ -315,13 +338,13 @@ Für jeden Drittmittelkredit wird eine separate Rechnung geführt.
 
 <sup>2</sup> Gegen Rekursentscheide der Spitaldirektion ist der Rekurs an den Spitalrat nur zulässig, wenn der Weiterzug an das Verwaltungsgericht ausgeschlossen ist.
 
-#### § 30
+**7**
 
-**Anordnungen des Spitalrates**
-
-Anordnungen des Spitalrates können mit Beschwerde beim Verwaltungsgericht angefochten werden. Der Rekurs an den Regierungsrat ist in jedem Fall ausgeschlossen.
+- 1\. 1. 23 - 119 § 30. Anordnungen des Spitalrates können mit Beschwerde beim Verwaltungsgericht angefochten werden. Der Rekurs an den Regierungsrat ist in jedem Fall ausgeschlossen.
 
 #### § 31
+
+**Anordnungen des Spitalrates**
 
 **Verfahren und Zuständigkeiten**
 
@@ -341,10 +364,6 @@ Anordnungen des Spitalrates können mit Beschwerde beim Verwaltungsgericht angef
 **Betriebsübernahme**
 
 <sup>1</sup> Mit Inkrafttreten dieses Gesetzes 1. führt die selbstständige öffentlich-rechtliche Anstalt den Betrieb des heutigen Universitätsspitals weiter,
-
-**7**
-
-- 1\. 1. 18 - 99
 
 - 2\. gehen die Rechte und Pflichten des heutigen Universitätsspitals, insbesondere das Eigentum an den Betriebseinrichtungen, auf die selbstständige öffentlich-rechtliche Anstalt über, vorbehalten bleibt das Eigentum an den Liegenschaften,
 
@@ -393,3 +412,7 @@ II. <sup>1</sup> Auf den Zeitpunkt der Übertragung der Bauten und Anlagen auf d
 III. <sup>1</sup> Das Darlehen gemäss Ziff. II Abs. 2 wird zum internen Zinssatz des Kantons verzinst.
 
 <sup>2</sup> Die jährliche Amortisation des Darlehens hat mindestens dem Wertverlust der Bauten und Anlagen bei Anwendung branchenüblicher Abschreibungssätze zu entsprechen. Darüber hinausgehende Amortisationen sind unter Einhaltung einer Kündigungsfrist von 30 Tagen auf Ende eines Monats möglich.
+
+### Übergangsbestimmung zur Änderung vom 5. Juli 2021 (OS 76, 612)
+
+Das Universitätsspital führt das neue Anstellungs- und Vergütungssystem gemäss §§ 13 Abs. 3, 14 und 17 kostenneutral ein.
