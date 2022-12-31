@@ -4,13 +4,13 @@ number: "651.100"
 title: Steuergesetz
 short: StG
 language: de
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-12-07
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2022-12-06
 adopted: 1998-12-15
 in_force: 2001-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/651.100"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3139/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3275/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3139/pdf_file"
 
 (StG)
 
-Vom 15.12.1998 (Stand 01.01.2022)
+Vom 15.12.1998 (Stand 01.01.2023)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -694,12 +694,12 @@ beschliesst:
 - d) die gemäss Gesetz, Statut oder Reglement geleisteten Einlagen, Prämien und Beiträge zum Erwerb von Ansprüchen aus der Alters-, Hinterlassenen- und Invalidenversicherung und aus Einrichtungen der beruflichen Vorsorge;
 - e) Einlagen, Prämien und Beiträge zum Erwerb von vertraglichen Ansprüchen aus anerkannten Formen der gebundenen Selbstvorsorge im Sinn und im Umfang des Bundesgesetzes über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge (BVG) vom 25. Juni 1982[^40-1];
 - f) die Prämien und Beiträge für die Erwerbsersatzordnung, die Arbeitslosenversicherung und die obligatorische Unfallversicherung;
-- g) als Pauschalbetrag für Einlagen, Prämien und Beiträge für die Lebens-, die Kranken- und die nicht unter litera f fallende Unfallversicherung sowie für die Zinsen von Sparkapitalien der steuerpflichtigen Person und der von ihr unterhaltenen Personen:
+- g) als Pauschalbetrag für Einlagen, Prämien und Beiträge für die Lebens-, die Kranken- und die nicht unter litera f fallende Unfallversicherung sowie für die Zinsen von Sparkapitalien der steuerpflichtigen Person und der von ihr unterhaltenen Personen:[^40-2]
   - 1\. Fr. 6'000.– für verheiratete Personen, die in rechtlich und tatsächlich ungetrennter Ehe leben;
   - 2\. Fr. 3'000.– für die übrigen Steuerpflichtigen;
 - h) Fr. 600.– vom Erwerbseinkommen, das der eine Eheteil unabhängig vom Beruf, Geschäft oder Gewerbe des andern Eheteils erzielt. Der gleiche Abzug von Fr. 600.– kann bei erheblicher Mitarbeit des einen Eheteils im Beruf, Geschäft oder Gewerbe des andern Eheteils vorgenommen werden;
 - i) die Krankheits- und Unfallkosten der steuerpflichtigen Person und der von ihr unterhaltenen Personen, soweit die steuerpflichtige Person diese Kosten selber trägt und diese 5 % der um die Aufwendungen nach den §§ 35–40 verminderten steuerbaren Einkünfte übersteigen;
-- i<sup>bis</sup>) die behinderungsbedingten Kosten der steuerpflichtigen Person oder der von ihr unterhaltenen Personen mit Behinderungen im Sinne des Bundesgesetzes über die Beseitigung von Benachteiligungen von Menschen mit Behinderungen (Behindertengleichstellungsgesetz, BehiG) vom 13. Dezember 2002[^40-2], soweit die steuerpflichtige Person diese Kosten selber trägt;
+- i<sup>bis</sup>) die behinderungsbedingten Kosten der steuerpflichtigen Person oder der von ihr unterhaltenen Personen mit Behinderungen im Sinne des Bundesgesetzes über die Beseitigung von Benachteiligungen von Menschen mit Behinderungen (Behindertengleichstellungsgesetz, BehiG) vom 13. Dezember 2002[^40-3], soweit die steuerpflichtige Person diese Kosten selber trägt;
 - k) die Mitgliederbeiträge und Zuwendungen an die steuerbefreiten politischen Parteien bis zum Gesamtbetrag von Fr. 10'000.– pro Steuererklärung;
 - l) …
 - m) die Lohn- und Lohnnebenkosten für Lernende in eidgenössisch anerkannten Berufen, die in privaten Haushalten ausgebildet werden, wenn kein Abzug gemäss Litera n geltend gemacht wird. Der Regierungsrat regelt die Höhe der Abzüge durch Verordnung;
@@ -716,7 +716,8 @@ beschliesst:
 <sup>4</sup> Mit den im Rahmen der Änderung des Steuergesetzes vom 7. Dezember 2021 beschlossenen Pauschalbeträgen ist die Prämienentwicklung für die Steuerperiode 2022 berücksichtigt. Die Pauschalbeträge werden erstmals für die Steuerperiode 2023 angepasst.
 
 [^40-1]: SR [831.40](https://db.clex.ch/link/Bund/831.40/de)
-[^40-2]: SR [151.3](https://db.clex.ch/link/Bund/151.3/de)
+[^40-2]: Ab der Steuerperiode 2023: Fr. 6'400.– für verheiratete Personen, die in rechtlich und tatsächlich ungetrennter Ehe leben; Fr. 3'200.– für die übrigen Steuerpflichtigen (gestützt auf § 40 Abs. 2 und 3)
+[^40-3]: SR [151.3](https://db.clex.ch/link/Bund/151.3/de)
 
 #### § 40a
 
@@ -763,7 +764,7 @@ beschliesst:
 
 <sup>3</sup> Besteht die Steuerpflicht nur während eines Teils der Steuerperiode, werden die Sozialabzüge anteilmässig gewährt; für die Satzbestimmung werden sie voll angerechnet.
 
-[^42-1]: Die Beträge der Abzüge gemäss § 42 Abs. 1 lit. a–d werden vom Regierungsrat gestützt auf § 57 für die einzelnen Steuerperioden an die Teuerung angepasst (Progressionsverordnungen, vgl. SAR 651.131 ff.)
+[^42-1]: Die Beträge der Abzüge gemäss § 42 Abs. 1 lit. a–d richten sich ab der Steuerperiode 2023 nach der Verordnung über die Anpassung an die Teuerung vom 19. Oktober 2022 (Progressionsverordnung 2023; SAR 651.133)
 
 #### § 43
 
@@ -793,7 +794,7 @@ beschliesst:
 
 <sup>4.</sup> Der Tarif wird nach den Verhältnissen am Ende der Steuerperiode oder der Steuerpflicht festgelegt.
 
-[^43-1]: Die Beträge der Abzüge gemäss § 42 Abs. 1 lit. a–d werden vom Regierungsrat gestützt auf § 57 für die einzelnen Steuerperioden an die Teuerung angepasst (Progressionsverordnungen, vgl. SAR 651.131 ff.)
+[^43-1]: Der Einkommenssteuertarif ab der Steuerperiode 2023 richtet sich nach der Verordnung über die Anpassung an die Teuerung vom 19. Oktober 2022 (Progressionsverordnung 2023; SAR 651.133)
 
 #### § 44
 
@@ -945,7 +946,7 @@ beschliesst:
 
 <sup>2</sup> Restbeträge des Vermögens unter Fr. 1'000.– fallen ausser Betracht.
 
-[^55-1]: Die Beträge der Abzüge gemäss § 42 Abs. 1 lit. a–d werden vom Regierungsrat gestützt auf § 57 für die einzelnen Steuerperioden an die Teuerung angepasst (Progressionsverordnungen, vgl. SAR 651.131 ff.)
+[^55-1]: Der Vermögenssteuertarif ab der Steuerperiode 2023 richtet sich nach der Verordnung über die Anpassung an die Teuerung vom 19. Oktober 2022 (Progressionsverordnung 2023; SAR 651.133)
 
 ### 2.4. Höchstbelastung, Anpassung an die Teuerung und Zuschläge
 
@@ -1313,6 +1314,8 @@ beschliesst:
 - b) …
 
 <sup>2</sup> …
+
+<sup>3</sup> Bei grenzüberschreitenden Sachverhalten, insbesondere bei Kapitalgesellschaften oder Genossenschaften, die zu einem internationalen Konzern gehören, wird der Steuersatz unter Berücksichtigung der direkten Bundessteuer auf den vom ausländischen Staat akzeptierten minimalen Steuersatz erhöht.
 
 [^75-1]: Inkrafttreten 1. Januar 2024
 
