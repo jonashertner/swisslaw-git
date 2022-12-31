@@ -3,10 +3,11 @@ canton: ZH
 number: "414.253.345"
 title: Studienordnung für den Masterstudiengang in Preneurship for Regenerative Food Systems an der Zürcher Hochschule für Angewandte Wissenschaften
 language: de
-nachtrag: "114"
-valid_until: 2023-01-01
+version: "2023-01-01"
+nachtrag: "119"
+valid_until: 2023-04-01
 adopted: 2021-03-04
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_345-2021_03_04-2021_09_01-114.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_345-2021_03_04-2021_09_01-119.html"
 text: pdf
 ---
 
@@ -24,11 +25,11 @@ beschliesst:
 
 [^t-1]: OS 76, 275; Begründung siehe ABl 2021-06-25.
 [^t-2]: Inkrafttreten: 1. September 2021.
-[^t-3]: LS 414.252.3. 1.10. 21 - 114 5
+[^t-3]: LS 414.252.3.
 
 ### A. Allgemeine Bestimmungen
 
-[^hAAllgemeineBestim-1]: LS 414.252.3. 1.10. 21 - 114 5
+[^hAAllgemeineBestim-1]: LS 414.252.3.
 
 #### § 1
 
@@ -68,27 +69,25 @@ Einzelheiten zum Studiengang, insbesondere zu Modulen, Modulgruppen, Modultypen 
 
 **1**
 
-1.10. 21 - 114
+- 1\. 1. 23 - 119
 
 <sup>2</sup> Die Studienanwärterinnen und -anwärter müssen ausserdem ein Standortgespräch absolvieren.
 
 <sup>3</sup> Im Standortgespräch setzen sich die Studienanwärterinnen und -anwärter mit den Zielen und Anforderungen des Studiengangs auseinander. Einzelheiten zum Standortgespräch werden im Anhang geregelt.
 
-#### § 6
-
 **Eignungsabklärung**
 
-<sup>1</sup> Bewerberinnen und Bewerber mit folgenden Abschlüssen gemäss § 5 müssen eine Eignungsabklärung bestehen:
+§ 6.[^5-1] <sup>1</sup> Bewerberinnen und Bewerber mit folgenden Abschlüssen gemäss § 5 müssen eine Eignungsabklärung bestehen:
 
-- a. Bachelorabschluss oder gleichwertiger Hochschulabschluss in einem Fachgebiet gemäss Anhang, dessen Abschlussnote weniger als 4,75 beträgt,
+- a. Bachelorabschluss oder gleichwertiger Hochschulabschluss in einem Fachgebiet gemäss Anhang, dessen Abschlussnote weniger als 4,75 gemäss Schweizer Notensystem (6–1) beträgt,
 
-- b. Bachelorabschluss oder gleichwertiger Hochschulabschluss ausserhalb der Fachgebiete gemäss Anhang,
-
-- c. ausländischer Bachelorabschluss oder gleichwertiger ausländischer Hochschulabschluss.
+- b. Bachelorabschluss oder gleichwertiger Hochschulabschluss ausserhalb der Fachgebiete gemäss Anhang.
 
 <sup>2</sup> Details zu Inhalt, Bewertung und Ablauf der Eignungsabklärung sind im Anhang geregelt.
 
 <sup>3</sup> Den Bewerberinnen und Bewerbern, die eine Eignungsabklärung durchlaufen müssen, wird bei positivem Aufnahmeentscheid während der nächsten zwei Jahre ein Studienplatz zur Verfügung gestellt. Nach Ablauf dieser Frist ist das gesamte Zulassungsverfahren erneut zu durchlaufen.
+
+[^5-1]: Fassung gemäss B vom 2. Juni 2022 (OS 77, 502; ABl 2022-08-19). In Kraft seit 1. Januar 2023. 1. 1. 23 - 119 5
 
 #### § 7
 
@@ -96,7 +95,9 @@ Einzelheiten zum Studiengang, insbesondere zu Modulen, Modulgruppen, Modultypen 
 
 <sup>1</sup> Für Studienanwärterinnen und -anwärter, welche die Zulassungsbedingungen nicht vollständig erfüllen, kann die Studiengangleitung zusätzliche Auflagen in der Form von abgestimmten Kompetenznachweisen oder Ergänzungsleistungen im Rahmen von höchstens 20 ECTS-Credits vorsehen. Diese müssen spätestens im Verlauf des ersten Studienjahres des Masterstudiums erbracht werden.
 
-<sup>2</sup> Bei fachfremden Abschlüssen gemäss § 6 Abs. 1 lit. b und c kann Arbeitserfahrung im Bereich Agro Food von höchstens zwölf Monaten verlangt werden. Die Studiengangleitung entscheidet über den Umfang.
+<sup>2</sup> Bei fachfremden Abschlüssen gemäss § 6 Abs. 1 lit. b kann Arbeitserfahrung im Bereich Agro Food von höchstens zwölf Monaten verlangt werden. Die Studiengangleitung entscheidet über den Umfang.[^7-1]
+
+[^7-1]: Fassung gemäss B vom 2. Juni 2022 (OS 77, 502; ABl 2022-08-19). In Kraft seit 1. Januar 2023. 1. 1. 23 - 119 5
 
 ### C. Module
 
@@ -150,7 +151,7 @@ Für einzelne Leistungsnachweise können Nachprüfungen angeboten werden, wenn e
 
 **3**
 
-1.10. 21 - 114 § 13. <sup>1</sup> Wer ein Modul nicht besteht, muss die nicht bestandenen Leistungsnachweise des Moduls wiederholen.
+- 1\. 1. 23 - 119 § 13. <sup>1</sup> Wer ein Modul nicht besteht, muss die nicht bestandenen Leistungsnachweise des Moduls wiederholen.
 
 **e. Wiederholung**
 
@@ -206,18 +207,18 @@ Das Masterstudium ist erfolgreich abgeschlossen, wenn a. die gemäss Anhang zu b
 
 <sup>1</sup> Die Studierenden erhalten einen Bericht, der ihre Leistungen und ihre Entwicklung während des Studiums aufzeigt.
 
-<sup>2</sup> Der Bericht wird von der Studiengangleitung bewilligt.
-
-#### § 19
-
 **Titel**
 
-Das Masterstudium wird mit dem Titel «Master of Science ZFH in Preneurship for Regenerative Food Systems» abgeschlossen.
+<sup>2</sup> Der Bericht wird von der Studiengangleitung bewilligt. § 19.[^18-1] Das Masterstudium wird mit dem Titel «Master of Science ZHAW in Preneurship for Regenerative Food Systems» abgeschlossen.
+
+[^18-1]: Fassung gemäss B vom 2. Juni 2022 (OS 77, 502; ABl 2022-08-19). In Kraft seit 1. Januar 2023. 1. 1. 23 - 119 5
 
 ### Anhang zur Studienordnung für den Masterstudiengang in Preneurship for Regenerative Food Systems an der Zürcher Hochschule für Angewandte Wissenschaften
 
+[^18-1]
+
 Der Anhang zur Studienordnung für den Masterstudiengang in Preneurship for Regenerative Food Systems an der Zürcher Hochschule für Angewandte Wissenschaften wird weder in die Offizielle Gesetzessammlung (OS) noch in die Zürcher Loseblattsammlung (LS) aufgenommen. Er kann bei der
 
-Zürcher Hochschule für Angewandte Wissenschaften Ressort Lehre Gertrudstrasse 15 Postfach 8400 Winterthur
+Zürcher Hochschule für Angewandte Wissenschaften Ressort Bildung Gertrudstrasse 15 Postfach 8400 Winterthur
 
-bezogen oder unter (www.zhaw.ch) eingesehen werden.
+bezogen oder unter www.zhaw.ch eingesehen werden.
