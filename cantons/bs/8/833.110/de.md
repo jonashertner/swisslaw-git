@@ -3,22 +3,22 @@ canton: BS
 number: "833.110"
 title: Ordnung über die berufliche Vorsorge
 language: de
-version: 2018-01-01
-valid_until: 2022-12-31
-version_adopted: 2017-10-25
+version: 2023-01-01
+valid_until: 2025-06-30
+version_adopted: 2022-08-29
 adopted: 2012-01-23
 in_force: 2012-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/833.110"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5472/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5670/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Ordnung über die berufliche Vorsorge
 
-Berufliche Vorsorge: Verordnung | Berufliche Alters-, Hinterlassenen- und Invaldienvorsorge[^t-1]
+Berufliche Alters-, Hinterlassenen- und Invalidenvorsorge[^t-1]
 
-Vom 23. Januar 2012 (Stand 1. Januar 2018)
+Vom 23. Januar 2012 (Stand 1. Januar 2023)
 
 Der Verwaltungsrat der BSABB (BVG- und Stiftungsaufsicht beider Basel),
 
@@ -136,7 +136,7 @@ beschliesst:
 
 **Mitteilungspflichten**
 
-<sup>1</sup> Vom obersten Organ der beaufsichtigten Einrichtung erlassene Reglemente und deren allfällige Änderungen sind der BSABB umgehend zur Kenntnis zu bringen. Die Unterlagen sind der BSABB in Papierform zuzustellen. Vorbehältlich anderer Abmachung mit der BSABB löst die Einreichung von Unterlagen in elektronischer Form Gebühren zu Lasten der beaufsichtigten Einrichtung aus.
+<sup>1</sup> Vom obersten Organ der beaufsichtigten Einrichtung erlassene Reglemente und deren allfällige Änderungen sind der BSABB umgehend zur Kenntnis zu bringen. Die Unterlagen sind der BSABB in Papierform oder über deren Portal elektronisch zuzustellen.
 
 <sup>2</sup> Änderungen der Organe von beaufsichtigten Einrichtungen und ihrer Zusammensetzung sind, soweit sie im Handelsregister einzutragen sind, dem zuständigen Handelsregister zur Eintragung zu melden. Diese Änderungen sind unabhängig von der Eintragungspflicht im Handelsregister umgehend der BSABB mitzuteilen.
 
