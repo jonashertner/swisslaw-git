@@ -3,11 +3,11 @@ sr: "0.812.122.1"
 title: Übereinkommen vom 16. November 1989 gegen Doping (mit Anhang)
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/1238_1238_1238"
 language: de
-version: 2022-01-01
+version: 2023-01-01
 adopted: 1989-11-16
 in_force: 1993-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1238_1238_1238/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1993-1238_1238_1238-20220101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/1238_1238_1238/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1238_1238_1238/20230101/de/xml/fedlex-data-admin-ch-eli-cc-1993-1238_1238_1238-20230101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/1238_1238_1238/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1993** 1238; BBl **1992** II 1345
 
 Abgeschlossen in Strassburg am 16. November 1989 Von der Bundesversammlung genehmigt am 22. September 1992[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 5. November 1992 In Kraft getreten für die Schweiz am 1. Januar 1993
 
-(Stand am 1. Januar 2022)
+(Stand am 1. Januar 2023)
 
 [^t-1]: [AS 1993 1237](https://fedlex.data.admin.ch/eli/oc/1993/1237_1237_1237)
 
@@ -283,12 +283,12 @@ Der Generalsekretär des Europarats notifiziert den Vertragsparteien, den andere
 
 Anhang[^t-2]
 
-## Liste der verbotenen Wirkstoffe und Methoden 2022 / Welt-Anti-Doping-Code: Jederzeit verbotene Wirkstoffe und Methoden (in und ausserhalb von Wettkämpfen)
+## Liste der verbotenen Wirkstoffe und Methoden 2023 / Welt-Anti-Doping-Code: Jederzeit verbotene Wirkstoffe und Methoden (in und ausserhalb von Wettkämpfen)
 
 [^annexu1-lvlu1-1]
 
-[^t-2]: Fassung gemäss Beschluss vom 6. Dez. 2021, in Kraft seit 1. Jan. 2022 ([AS 2023 121](https://fedlex.data.admin.ch/eli/oc/2023/121)).
-[^annexu1-lvlu1-1]: Dieser Anhang wird in der AS nicht veröffentlicht. Die «Liste der verbotenen Wirkstoffe und Methoden 2022 / Welt-Anti-Doping-Code: Jederzeit verbotene Wirkstoffe und Methoden (in und ausserhalb von Wettkämpfen)» kann gemäss Artikel 19 des Sportförderungsgesetzes vom 17. Juni 2011 ([SR 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)) für Massnahmen gegen Doping bei der zuständigen Stelle (Antidoping Schweiz) auf französisch und deutsch kostenlos unter: www.antidoping.ch/ abgerufen werden.
+[^t-2]: Fassung gemäss Beschluss vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2023 122](https://fedlex.data.admin.ch/eli/oc/2023/122)).
+[^annexu1-lvlu1-1]: Dieser Anhang wird in der AS nicht veröffentlicht. Die «Liste der verbotenen Wirkstoffe und Methoden 2023 / Welt-Anti-Doping-Code: Jederzeit verbotene Wirkstoffe und Methoden (in und ausserhalb von Wettkämpfen)» kann gemäss Artikel 19 des Sportförderungsgesetzes vom 17. Juni 2011 ([SR 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)) für Massnahmen gegen Doping bei der zuständigen Stelle (Antidoping Schweiz) auf französisch und deutsch kostenlos unter: www.antidoping.ch/ abgerufen werden.
 
 Geltungsbereich am 30. November 2017[^t-3]
 

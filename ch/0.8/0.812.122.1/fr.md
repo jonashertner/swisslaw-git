@@ -3,11 +3,11 @@ sr: "0.812.122.1"
 title: Convention du 16 novembre 1989 contre le dopage (avec annexe)
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/1238_1238_1238"
 language: fr
-version: 2022-01-01
+version: 2023-01-01
 adopted: 1989-11-16
 in_force: 1993-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1238_1238_1238/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1993-1238_1238_1238-20220101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/1238_1238_1238/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1238_1238_1238/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-1993-1238_1238_1238-20230101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/1238_1238_1238/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 5 novembre 1992
 
 Entrée en vigueur pour la Suisse le 1<sup>er</sup> janvier 1993
 
-(État le 1<sup>er</sup> janvier 2022)
+(État le 1<sup>er</sup> janvier 2023)
 
 [^t-1]: [RO 1993 1237](https://fedlex.data.admin.ch/eli/oc/1993/1237_1237_1237)
 
@@ -288,12 +288,12 @@ Le Secrétaire Général du Conseil de l’Europe notifie aux Parties, aux autre
 
 Annexe[^t-2]
 
-## La liste des interdictions 2022/Code mondial antidopage: substances et méthodes interdites en permanence (en et hors compétition)
+## La liste des interdictions 2023/Code mondial antidopage: substances et méthodes interdites en permanence (en et hors compétition)
 
 [^annexu1-lvlu1-1]
 
-[^t-2]: Nouvelle teneur selon la D du 6 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2023 121](https://fedlex.data.admin.ch/eli/oc/2023/121)).
-[^annexu1-lvlu1-1]: Le texte de la présente annexe n’est pas publié au RO. La «liste des interdictions 2022/Code mondial antidopage: substances et méthodes interdites en permanence (en et hors compétition)» peut être gratuitement consultée en français et en allemand sur le site de l’Antidoping Suisse: [www.antidoping.ch](http://www.antidoping.ch), autorité compétente pour les mesures de lutte contre le dopage, conformément à l’art. 19 de la loi du 17 juin 2011 sur l’encouragement du sport ([RS 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)).
+[^t-2]: Nouvelle teneur selon la D du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2023 122](https://fedlex.data.admin.ch/eli/oc/2023/122)).
+[^annexu1-lvlu1-1]: Le texte de la présente annexe n’est pas publié au RO. La «liste des interdictions 2023/Code mondial antidopage: substances et méthodes interdites en permanence (en et hors compétition)» peut être gratuitement consultée en français et en allemand sur le site de l’Antidoping Suisse: [www.antidoping.ch](http://www.antidoping.ch), autorité compétente pour les mesures de lutte contre le dopage, conformément à l’art. 19 de la loi du 17 juin 2011 sur l’encouragement du sport ([RS 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)).
 
 Champ d’application le 30 novembre 2017[^t-3]
 
