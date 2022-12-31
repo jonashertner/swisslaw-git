@@ -4,45 +4,45 @@ number: "503.100"
 title: "Ordonnance sur la police des tirs, les installations de tir et les autorités compétentes pour prononcer les sanctions disciplinaires"
 short: OPTSD
 language: fr
-version: 1999-01-01
-corrected: 2020-05-04
-version_adopted: 1998-11-25
+version: 2023-01-01
+version_adopted: 2023-01-25
 adopted: 1998-11-25
 in_force: 1999-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/503.100"
-pdf: "https://lex.vs.ch/api/fr/versions/406/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/fr/versions/3288/pdf_file"
 ---
 
-> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi. Le canton ne publie cette version qu’en PDF : le texte en est extrait, la structure déduite de la mise en page.
+> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
 # Ordonnance sur la police des tirs, les installations de tir et les autorités compétentes pour prononcer les sanctions disciplinaires
 
-du 25 novembre 1998
+(OPTSD)
+
+du 25.11.1998 (état 01.01.2023)
 
 Le Conseil d'Etat du canton du Valais
 
-vu l'article 57, alinéa 2 de la Constitution cantonale;
+vu l'article 57 alinéa 2 de la Constitution cantonale;
 
-vu l'article 6, alinéa 2 de la loi d'application de la loi fédérale sur l'armée et l'administration militaire du 11 février 1998 (LALAAM);
+vu l'article 23 de l'ordonnance fédérale sur les installations servant au tir hors du service (ordonnance sur les installations de tir) du 15 novembre 2004;
 
-sur la proposition du Département de la sécurité et des institutions,
+vu l'article 6 alinéa 2 de la loi d'application de la loi fédérale sur l'armée et l'administration militaire du 11 février 1998 (LALAAM);
+
+sur la proposition du département en charge de la sécurité,
 
 ordonne:
 
-### Chapitre 1: Dispositions générales
+## 1 Dispositions générales
 
-#### Article premier
+#### Art. 1
 
 **But**
 
-La présente ordonnance a pour buts:
+<sup>1</sup> La présente ordonnance a pour buts:
 
 - a) de préciser et de compléter les dispositions du droit fédéral sur le tir hors du service et les installations de tir;
-
 - b) de poser les principes et les exigences pour la police du tir et les mesures de sécurité;
-
-- c) de désigner les autorités compétentes pour prononcer les sanctions disciplinaires en vertu du code pénal militaire et de l'ordonnance du Conseil fédéral sur les contrôles militaires.
+- c) de désigner les autorités compétentes pour prononcer les sanctions disciplinaires en vertu du code pénal militaire et de l'ordonnance fédérale sur les obligations militaires.
 
 #### Art. 2
 
@@ -51,10 +51,9 @@ La présente ordonnance a pour buts:
 <sup>1</sup> La présente ordonnance s'applique:
 
 - a) aux exercices fédéraux, aux exercices de tir volontaires, aux cours de tir et aux exercices de tir de combat effectués hors du service avec les armes et les munitions d'ordonnance;
+- b) au tir où aucune munition d'ordonnance n'est tirée, notamment arme de petit calibre, arme à air comprimé, arme se chargeant par la bouche, arc, arbalète, arme de chasse, arme de tir dynamique, arme de paint-ball, arme d'airsoft et tir au ball-trap (appelé ci-après: tir sportif).
 
-- b) au tir où aucune munition d'ordonnance n'est tirée (notamment petit calibre, air comprimé, armes se chargeant par la bouche, arbalètes et tir au ball-trap).
-
-<sup>2</sup> Le tir avec arme de chasse, en dehors de la période de chasse, et les installations pour le tir de chasse ne tombent pas sous le coup de cette ordonnance et relèvent de la législation spéciale.
+<sup>2</sup> Le tir avec arme de chasse pour la pratique cynégétique ne tombe pas sous le coup de cette ordonnance et relève de la législation spéciale.
 
 <sup>3</sup> Elle s'applique aux décisions prises par les autorités militaires cantonales en matière de sanctions disciplinaires.
 
@@ -64,13 +63,13 @@ La présente ordonnance a pour buts:
 
 <sup>1</sup> A défaut d'une disposition légale applicable, l'autorité agit selon les règles qu'elle établirait si elle avait à faire acte de législateur.
 
-<sup>2</sup> Elle s'inspire des solutions consacrées par la jurisprudence ainsi que des principes posés par la présente ordonnance, la législation et les directives fédérales ainsi que par les prescriptions et règles de la fédération suisse de tir et les prescriptions et directives de l'assurance-accidents des sociétés suisses de tir.
+<sup>2</sup> Elle s'inspire des solutions consacrées par la jurisprudence ainsi que des principes posés par la présente ordonnance, la législation et les directives fédérales ainsi que par les prescriptions et règles de la Fédération sportive suisse de tir et les prescriptions et directives de l'assurance-accidents des sociétés de tir suisses.
 
 <sup>3</sup> Les interventions de l'autorité doivent être dictées par un motif d'intérêt public et respecter le principe de proportionnalité.
 
-### Chapitre 2: Police des tirs et installations de tir
+## 2 Police des tirs et installations de tir
 
-### Section 1: Autorités compétentes
+### 2.1 Autorités compétentes
 
 #### Art. 4
 
@@ -84,29 +83,27 @@ La présente ordonnance a pour buts:
 
 **Compétence du département**
 
-<sup>1</sup> Le département dont relèvent les affaires militaires (ci-après département) est chargé, en collaboration avec les autres départements concernés, d'appliquer la présente ordonnance.
+<sup>1</sup> Le département dont relèvent les affaires militaires (ci-après: département) est chargé, en collaboration avec les autres départements concernés, d'appliquer la présente ordonnance.
 
-<sup>2</sup> Il bénéficie à cet effet, dans les limites fixées par la loi, de l'appui :
+<sup>2</sup> Il bénéficie à cet effet, dans les limites fixées par la loi, de l'appui:
 
 - a) des officiers fédéraux de tir;
-
 - b) des présidents et des membres des commissions cantonales de tir;
-
-- c) des chefs de section militaire;
-
+- c) du commandement des arrondissements militaires;
 - d) de la police cantonale;
-
-- e) de la collaboration des autorités communales.
+- e) des autorités communales;
+- f) du service cantonal en charge de la chasse;
+- g) des experts cantonaux des installations de tir sportif.
 
 <sup>3</sup> Le département exerce toutes les compétences qui lui sont attribuées par la présente ordonnance et qui ne sont pas octroyées expressément à une autre autorité.
 
-### Section 2: Arrondissements de tir
+### 2.2 Arrondissements de tir
 
 #### Art. 6
 
 **Arrondissements fédéraux de tir**
 
-L'autorité fédérale compétente fixe les arrondissements fédéraux de tir et, en accord avec le Conseil d'Etat, désigne pour chacun d'eux un officier fédéral de tir qui lui est directement subordonné.
+<sup>1</sup> L'autorité fédérale compétente fixe les arrondissements fédéraux de tir et, en accord avec le Conseil d'Etat, désigne pour chacun d'eux un officier fédéral de tir qui lui est directement subordonné.
 
 #### Art. 7
 
@@ -116,7 +113,7 @@ L'autorité fédérale compétente fixe les arrondissements fédéraux de tir et
 
 <sup>2</sup> Chaque arrondissement est administré par le président d'une commission cantonale de tir, auquel est adjoint le nombre de membres nécessaires au contrôle des sociétés.
 
-### Section 3: Commissions cantonales de tir
+### 2.3 Commissions cantonales de tir
 
 #### Art. 8
 
@@ -132,11 +129,31 @@ L'autorité fédérale compétente fixe les arrondissements fédéraux de tir et
 
 **Nomination et rétribution**
 
-<sup>1</sup> Le département nomme, pour une période de quatre ans, le président et les membres des commissions cantonales de tir.
+<sup>1</sup> Le département nomme, pour une période de 4 ans, le président et les membres des commissions cantonales de tir.
 
 <sup>2</sup> Le président et les membres de la commission cantonale sont indemnisés par la Confédération.
 
-### Section 4: Installations de tir
+### 2.3a Expert cantonal des installations de tir sportif
+
+#### Art. 9a
+
+**Expert cantonal**
+
+<sup>1</sup> Le département nomme un expert cantonal des installations de tir sportif par région linguistique pour une durée de 4 ans.
+
+<sup>2</sup> L’expert cantonal des installations de tir sportif est placé sous la surveillance du département.
+
+<sup>3</sup> Ses tâches sont identiques à celles de l'officier fédéral de tir définies par l'ordonnance fédérale du DDPS sur les officiers fédéraux de tir et les commissions cantonales de tir pour les installations de tir sportif.
+
+#### Art. 9b
+
+**Rétribution**
+
+<sup>1</sup> Les tarifs applicables aux officiers fédéraux de tir fixés à l'annexe 2 de l’ordonnance fédérale du DDPS sur les officiers fédéraux de tir et les commissions cantonales de tir s'appliquent également à la rétribution des experts cantonaux des installations de tir sportif.
+
+<sup>2</sup> Les experts cantonaux des installations de tir sportif tiennent une comptabilité avec les originaux des pièces justificatives et des quittances et l’adressent au département jusqu’au 31 janvier de l’année suivante pour information.
+
+### 2.4 Installations de tir
 
 #### Art. 10
 
@@ -154,19 +171,19 @@ L'autorité fédérale compétente fixe les arrondissements fédéraux de tir et
 
 <sup>2</sup> Il est l'autorité compétente pour attribuer des installations de tir.
 
-<sup>3</sup> Demeurent réservées les dispositions de la loi sur le régime communal.
+<sup>3</sup> Demeurent réservées les dispositions de la loi sur les communes.
 
 #### Art. 12
 
-**Installations de tir destinées à d'autres genres de tir**
+**Installations de tir destinées au tir sportif**
 
-<sup>1</sup> L'approbation et le contrôle d'installations de tir destinées à d'autres genres de tir relèvent de la compétence du département.
+<sup>1</sup> L'approbation et le contrôle d'installations de tir sportif relèvent de la compétence du département.
 
-<sup>2</sup> Dans toute la mesure du possible, ces installations de tir devront correspondre à celles utilisées pour le tir avec munition d'ordonnance.
+<sup>2</sup> Dans toute la mesure du possible, ces installations de tir devront correspondre à celles utilisées pour le tir avec munition d'ordonnance. Demeurent réservées les normes techniques applicables à chaque genre de tir émises par les fédérations nationales et les associations faîtières.
 
-<sup>3</sup> Le département peut demander l'avis de l'officier fédéral de tir en tant qu'expert.
+<sup>3</sup> Le département peut demander l'avis de l'expert cantonal des installations de tir sportif.
 
-<sup>4</sup> Les prescriptions vérifiées par l'expert fédéral des installations de tir ainsi que les directives émises par l'assurance-accidents des sociétés suisses de tir sont applicables pour l'expertise de telles installations.
+<sup>4</sup> L'expert cantonal des installations de tir sportif examine les installations de tir en particulier en vertu de l'ordonnance fédérale sur les installations servant au tir hors du service, des prescriptions et directives de l'assurance-accidents des sociétés suisses de tir et de celles des fédérations nationales et des associations faîtières.
 
 #### Art. 13
 
@@ -194,11 +211,11 @@ L'autorité fédérale compétente fixe les arrondissements fédéraux de tir et
 
 <sup>1</sup> La fermeture, la fermeture partielle ou la suppression d'une installation de tir est décidée par le département. La fermeture peut être ordonnée, soit à la demande des propriétaires, soit obligatoirement lorsque les conditions légales ne sont plus remplies.
 
-<sup>2</sup> L'officier fédéral de tir peut, pour des raisons de sécurité, ordonner la fermeture provisoire d'une installation de tir jusqu'à la décision du département.
+<sup>2</sup> L'officier fédéral de tir ou l'expert cantonal des installations de tir sportif peut, pour des raisons de sécurité, ordonner la fermeture provisoire d'une installation de tir jusqu'à la décision du département.
 
-<sup>3</sup> Des installations de tir satisfaisant aux exigences légales ou qui peuvent être modifiées à cette fin, ne peuvent être supprimées que lorsqu'une installation de rechange est disponible et prête à fonctionner.
+<sup>3</sup> Des installations de tir destinées aux exercices fédéraux satisfaisant aux exigences légales ou qui peuvent être modifiées à cette fin, ne peuvent être supprimées que lorsqu'une installation de rechange est disponible et prête à fonctionner.
 
-### Section 5: Sociétés de tir
+### 2.5 Sociétés de tir
 
 #### Art. 16
 
@@ -209,19 +226,12 @@ L'autorité fédérale compétente fixe les arrondissements fédéraux de tir et
 <sup>2</sup> Seules peuvent être homologuées les sociétés qui:
 
 - a) satisfont aux conditions des articles 60 et suivants du Code civil suisse;
-
 - b) spécifient dans les statuts que leur but est d'organiser des exercices de tir hors du service et définissent les tâches incombant au comité;
-
 - c) répondent à un besoin en organisant des exercices de tir hors du service;
-
 - d) ont au moins 15 membres, section pistolet au moins huit membres, qui participent aux exercices fédéraux; le département ne peut accorder des dérogations quant au nombre minimum de membres actifs que pour des raisons impérieuses;
-
 - e) autorisent les tireurs astreints aux exercices fédéraux;
-
 - f) sont affiliées à une fédération nationale de tireurs, reconnue par le Département fédéral compétent;
-
-- g) disposent d'une assurance responsabilité civile pour les dommages pouvant être provoqués par des exercices de tir dont le montant est fixé dans les conditions générales d'assurance de l'assurance-accidents des sociétés suisses de tir;
-
+- g) disposent d'une assurance responsabilité civile pour les dommages pouvant être provoqués par des exercices de tir dont le montant est fixé dans les conditions générales d'assurance de l'assurance-accidents des sociétés de tir suisses;
 - h) disposent d'une installation de tir pour les tirs hors du service.
 
 <sup>3</sup> Elles sont soumises aux dispositions du droit fédéral et de la présente ordonnance, ainsi qu'à toute directive, instruction ou ordre de service émis par le département.
@@ -232,7 +242,7 @@ L'autorité fédérale compétente fixe les arrondissements fédéraux de tir et
 
 **Statuts**
 
-<sup>1</sup> Les statuts types établis par la Fédération suisse des tireurs contiennent l'énumération des principales obligations des sociétés de tir et de leurs membres. Ils servent de base pour l'élaboration des statuts des sociétés.
+<sup>1</sup> Les statuts types établis par la Fédération sportive suisse de tir contiennent l'énumération des principales obligations des sociétés de tir et de leurs membres. Ils servent de base pour l'élaboration des statuts des sociétés.
 
 <sup>2</sup> Les statuts et leurs modifications sont soumis au département pour approbation.
 
@@ -248,9 +258,9 @@ L'autorité fédérale compétente fixe les arrondissements fédéraux de tir et
 
 **Calendrier des tirs obligatoires**
 
-Les sociétés de tir transmettent chaque année au département, par le biais des officiers de tir, avant le début de la saison des tirs, le calendrier des jours de tir obligatoires et autres jours de tir. Elles en publient les dates et lieux par affiches diffusées aux communes pour être apposées aux emplacements réservés à cet effet.
+<sup>1</sup> Les sociétés de tir transmettent chaque année au département, par le biais des officiers de tir, avant le début de la saison des tirs, le calendrier des jours de tir obligatoires et autres jours de tir. Elles en publient les dates et lieux par affiches diffusées aux communes pour être apposées aux emplacements réservés à cet effet.
 
-### Section 6: Obligations des communes et des sociétés de tir
+### 2.6 Obligations des communes et des sociétés de tir
 
 #### Art. 20
 
@@ -258,12 +268,10 @@ Les sociétés de tir transmettent chaque année au département, par le biais d
 
 <sup>1</sup> Les sociétés de tir reconnues sont tenues, sous leur entière responsabilité, d'observer les prescriptions fédérales et cantonales concernant les mesures de sécurité à mettre en place lors des tirs.
 
-<sup>2</sup> Les sociétés sont notamment responsables :
+<sup>2</sup> Les sociétés sont notamment responsables:
 
 - a) du contrôle de la sécurité d'exploitation (observation stricte des prescriptions concernant la direction des exercices de tir et application de toutes les dispositions propres à prévenir les accidents et à assurer la sécurité des tireurs et du public);
-
 - b) du respect de l'interdiction absolue du tir en rafales à toutes les distances;
-
 - c) du barrage des routes et chemins situés dans les zones dangereuses.
 
 <sup>3</sup> Demeure expressément réservé le droit du département de prescrire ultérieurement les travaux de protection complémentaires dont la nécessité pour la sécurité est démontrée.
@@ -274,7 +282,7 @@ Les sociétés de tir transmettent chaque année au département, par le biais d
 
 <sup>1</sup> Les sociétés de tir reconnues sont tenues, sous leur responsabilité, de veiller à ce que les prescriptions concernant la direction et le commandement des exercices de tir soient strictement observées et à ce que toutes les dispositions propres à prévenir les accidents, à en atténuer les conséquences éventuelles et à assurer la sécurité des tireurs, des marqueurs et du public, soient prises.
 
-<sup>2</sup> Les sociétés de tir reconnues sont tenues de respecter les règles de tir émises par la Fédération suisse des tireurs et les prescriptions de l'assurance-accidents des sociétés suisses de tir.
+<sup>2</sup> Les sociétés de tir reconnues sont tenues de respecter les règles de tir émises par la Fédération sportive suisse de tir, les prescriptions de l’assurance-accidents des sociétés de tir suisses ainsi que celles émises par leur fédération et association faîtière respective.
 
 #### Art. 22
 
@@ -285,25 +293,17 @@ Les sociétés de tir transmettent chaque année au département, par le biais d
 <sup>2</sup> Pour les installations nécessaires au tir à 300 mètres, les communes doivent prendre à leur charge notamment:
 
 - a) l'acquisition ou la location des terrains nécessaires à l'établissement d'une installation de tir avec voies d'accès et places de parc;
-
 - b) la conclusion des contrats de servitudes nécessaires et leur inscription au registre foncier.
 
-<sup>3</sup> Elles sont notamment responsables de la construction, de l'entretien et de la rénovation des installations proprement dites, qui comprennent :
+<sup>3</sup> Elles sont notamment responsables de la construction, de l'entretien et de la rénovation des installations proprement dites, qui comprennent:
 
 - a) le stand de tir avec l'espace réservé au tir et au nettoyage des armes, le bureau, les installations sanitaires et le magasin de munitions;
-
 - b) les installations électriques, le cas échéant, les liaisons avec la ciblerie (sonnerie ou signaux lumineux);
-
-- c) les mesures nécessaires de protection contre le bruit en vertu de l'ordonnance sur la protection contre le bruit (OPB), du 15 décembre 1986;
-
+- c) les mesures nécessaires de protection contre le bruit en vertu de l'ordonnance sur la protection contre le bruit du 15 décembre 1986 (OPB);
 - d) la ciblerie pour cibles mobiles ou électroniques avec toutes les installations annexes;
-
 - e) les jeux de cadres et de cibles ou les cibles électroniques;
-
 - f) la butte et le parapet devant les cibles avec la plaque blindée réglementaire;
-
 - g) les pare-balles de hauteur, de profondeur et latéraux, blindés réglementairement et, le cas échéant, les revêtements nécessaires, l'aménagement dans le stand d'installations permettant la même hauteur d'épaulement pour les trois positions de tir lorsque des pare-balles l'exigent;
-
 - h) les dispositifs de barrages et d'avertissement.
 
 <sup>4</sup> La participation, sous forme d'un montant équitable, à une installation de tir collective pour les communes ne possédant pas leur propre installation, est réglée par le droit fédéral.
@@ -314,21 +314,21 @@ Les sociétés de tir transmettent chaque année au département, par le biais d
 
 <sup>1</sup> Les prescriptions relatives à la police du tir et aux mesures de sécurité s'appliquent aussi aux sociétés de tir sportif.
 
-<sup>2</sup> Les sociétés de tir sportif disposent, pour les dommages pouvant être provoqués par des exercices de tir, d'une assurance responsabilité civile dont le montant de garantie doit correspondre à celui fixé dans les conditions générales d'assurance de l'assurance-accidents des sociétés suisses de tir.
+<sup>2</sup> Les sociétés de tir sportif disposent, pour les dommages pouvant être provoqués par des exercices de tir, d'une assurance responsabilité civile dont le montant de garantie doit correspondre à celui fixé dans les conditions générales d'assurance de l'assurance-accidents des sociétés de tir suisses.
 
-<sup>3</sup> Un exemplaire de la police d'assurance responsabilité civile doit être déposé auprès du département avec la clause suivante: «L'assureur annoncera au département la suspension ou la cessation de l'assurance au plus tôt le jour où expire la garantie prévue par le contrat d'assurance. Lorsque l'assureur prend lui-même l'initiative de la suspension ou de la cessation du contrat, il doit attirer l'attention du preneur d'assurance sur les conséquences de l'avis qu'il s'apprête à envoyer au département.»
+<sup>3</sup> Un exemplaire de la police d'assurance responsabilité civile doit être déposé auprès du département avec la clause suivante: "L'assureur annoncera au département la suspension ou la cessation de l'assurance au plus tôt le jour où expire la garantie prévue par le contrat d'assurance. Lorsque l'assureur prend lui-même l'initiative de la suspension ou de la cessation du contrat, il doit attirer l'attention du preneur d'assurance sur les conséquences de l'avis qu'il s'apprête à envoyer au département."
 
-<sup>4</sup> Les tirs, sur toutes les installations destinées à d'autres genres de tir, ne peuvent avoir lieu qu'en vertu d'une autorisation du département, qui demandera préalablement, aux frais de la société concernée, l'avis de l'officier fédéral de tir en ce qui concerne la sécurité.
+<sup>4</sup> Les tirs, sur toutes les installations destinées au tir sportif, ne peuvent avoir lieu qu'en vertu d'une autorisation du département, qui demandera préalablement, aux frais de la société concernée, l'avis de l'expert cantonal des installations de tir sportif en ce qui concerne la sécurité.
 
 <sup>5</sup> De tels tirs sont toutefois interdits dans les stands particuliers des fêtes foraines ou autres manifestations publiques où seul est toléré le tir avec carabine à air comprimé.
 
-### Section 7: Procédure et voies de droit
+### 2.7 Procédure et voies de droit
 
 #### Art. 24
 
 **Procédure**
 
-<sup>1</sup> Les dispositions de la loi du 6 octobre 1976 sur la procédure et la juridiction administratives sont applicables.
+<sup>1</sup> Les dispositions de la loi sur la procédure et la juridiction administratives du 6 octobre 1976 sont applicables.
 
 <sup>2</sup> La procédure relative au droit d'exproprier et à l'autorisation de construire est réglée par la législation spéciale.
 
@@ -336,45 +336,43 @@ Les sociétés de tir transmettent chaque année au département, par le biais d
 
 **Droit de recours**
 
-Les sociétés de tir reconnues et les sociétés de tir sportif peuvent recourir dans un délai de 30 jours auprès du Conseil d'Etat contre les décisions du département.
+<sup>1</sup> Les sociétés de tir reconnues et les sociétés de tir sportif peuvent recourir dans un délai de 30 jours auprès du Conseil d'Etat contre les décisions du département.
 
-### Chapitre 3: Autorités compétentes pour prononcer les sanctions
-
-disciplinaires
+## 3 Autorités compétentes pour prononcer les sanctions disciplinaires
 
 #### Art. 26
 
-**Compétence du département**
+**Compétence du commandant d'arrondissement**
 
-<sup>1</sup> Le département est l'autorité militaire cantonale compétente pour prononcer et faire exécuter les sanctions prévues par le Code pénal militaire en cas de fautes de discipline commises hors service.
+<sup>1</sup> Le commandant d'arrondissement est l'autorité militaire cantonale compétente pour prononcer et faire exécuter les sanctions applicables aux infractions prévues par le Code pénal militaire et l'ordonnance fédérale sur les obligations militaires en cas de fautes de discipline commises hors service.
 
-<sup>2</sup> La décision du département peut faire l'objet d'un recours au secrétaire général du Département fédéral compétent.
+<sup>2</sup> …
 
-<sup>3</sup> Celui qui fait l'objet d'arrêts peut déférer par écrit la décision sur recours à une section du tribunal militaire d'appel compétent.
+<sup>3</sup> …
 
 #### Art. 27
 
-**Compétence du commandant d'arrondissement**
+**Compétence du département**
 
-<sup>1</sup> Le commandant d'arrondissement est l'autorité militaire cantonale compétente pour prononcer et faire exécuter les sanctions aux infractions prévues par l'ordonnance du Conseil fédéral sur les contrôles militaires.
+<sup>1</sup> Le département est l'autorité de recours compétente contre les décisions du commandant d'arrondissement.
 
-<sup>2</sup> La décision du commandant d'arrondissement peut faire l'objet d'un recours auprès du département.
+<sup>2</sup> La personne qui fait l'objet d'arrêts ou d'une amende disciplinaire d'un montant de 300 francs ou plus peut déférer la décision sur recours à la section du tribunal militaire d'appel compétent.
 
-<sup>3</sup> Celui qui fait l'objet d'arrêts peut déférer par écrit la décision sur recours auprès de la section du tribunal militaire d'appel compétent.
+<sup>3</sup> …
 
 #### Art. 28
 
 **Procédure**
 
-La procédure et les voies de recours sont régies par le Code pénal militaire et l'ordonnance du Conseil fédéral sur les contrôles militaires.
+<sup>1</sup> La procédure et les voies de recours sont régies par le Code pénal militaire.
 
-### Chapitre 4: Dispositions finales
+## 4 Dispositions finales
 
 #### Art. 29
 
 **Abrogations du droit en vigueur**
 
-L'arrêté du 16 février 1977 sur les sociétés de tir et la police des tirs ainsi que l'arrêté du 7 février 1980 désignant l'autorité compétente pour prononcer les sanctions disciplinaires, en vertu du Code pénal militaire et de l'ordonnance sur les contrôles militaires, sont abrogés.
+<sup>1</sup> L'arrêté sur les sociétés de tir et la police des tirs du 16 février 1977 ainsi que l'arrêté désignant l'autorité compétente pour prononcer les sanctions disciplinaires, en vertu du Code pénal militaire et de l'ordonnance sur les contrôles militaires, du 7 février 1980 sont abrogés.
 
 #### Art. 30
 
@@ -390,8 +388,6 @@ L'arrêté du 16 février 1977 sur les sociétés de tir et la police des tirs a
 
 **Entrée en vigueur**
 
-La présente ordonnance entre en vigueur en même temps que la loi d'application de la loi fédérale sur l'armée et l'administration militaire du 11 février 1998 (LALAAM).
+<sup>1</sup> La présente ordonnance entre en vigueur en même temps que la loi d'application de la loi fédérale sur l'armée et l'administration militaire du 11 février 1998 (LALAAM).
 
-Ainsi adopté en Conseil d'Etat à Sion, le 25 novembre 1998.
-
-Le président du Conseil d'Etat: Serge Sierro Le chancelier d'Etat: Henri v. Roten
+RCV RO/AGS 1998 f 261 | d 287
