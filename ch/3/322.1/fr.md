@@ -4,11 +4,11 @@ title: Procédure pénale militaire du 23 mars 1979 (PPM)
 short: PPM
 eli: "https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059"
 language: fr
-version: 2022-07-01
+version: 2023-01-01
 adopted: 1979-03-23
 in_force: 1980-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059/20220701/fr/xml/fedlex-data-admin-ch-eli-cc-1979-1059_1059_1059-20220701-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1979/1059_1059_1059/20220701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-1979-1059_1059_1059-20230101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1979/1059_1059_1059/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1979/1059_1059_1059/20220701/fr"
 
 (PPM)
 
-du 23 mars 1979 (Etat le 1<sup>er</sup> juillet 2022)
+du 23 mars 1979 (État le 1<sup>er</sup> janvier 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -91,13 +91,13 @@ L’incorporation dans la justice militaire en tant qu’officier de justice est
 [^4-2]: Nouvelle expression selon le ch. III de la LF du 3 oct. 2003, en vigueur depuis le 1<sup>er</sup> mars 2004 ([RO 2004 921](https://fedlex.data.admin.ch/eli/oc/2004/107); [FF 2002 7285](https://fedlex.data.admin.ch/eli/fga/2002/1270)). Il a été tenu compte de cette mod. dans tout le texte.
 [^4-3]: Abrogé par l’annexe ch. 4 de la LF du 18 mars 2016, avec effet au 1<sup>er</sup> janv. 2018 ([RO 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 
-### Chapitre 3 Autorités pénales****
+### Chapitre 3 Autorités pénales
 
 [^tit1-chap3-1]
 
 [^tit1-chap3-1]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 
-### Section 1**** Autorités de poursuite pénale
+### Section 1 Autorités de poursuite pénale
 
 [^tit1-chap3-sec1-1]
 
@@ -123,7 +123,7 @@ L’auditeur rend l’ordonnance de non-lieu ou l’ordonnance de condamnation; 
 
 Le Conseil fédéral fixe le nombre des juges d’instruction et des auditeurs et règle leur organisation, compte tenu des communautés linguistiques.
 
-### Section 1*a* Tribunaux militaires****
+### Section 1*a* Tribunaux militaires
 
 [^tit1-chap3-sec1a-1]
 
@@ -655,7 +655,7 @@ Le rejet de la requête peut, dans les dix jours dès sa communication écrite, 
 
 <sup>3</sup> Ces conséquences juridiques doivent être signalées au titulaire lors de l’octroi du sauf-conduit.
 
-### Section 8 Droit d’appréhender, arrestation provisoire et détention préventive****
+### Section 8 Droit d’appréhender, arrestation provisoire et détention préventive
 
 [^tit2-chap1-sec8-1]
 
@@ -789,7 +789,9 @@ L’inculpé détenu ne doit pas être entravé dans sa liberté plus que ne l�
 
 **Ordre de procéder**
 
-Les opérations d’enquête sont ordonnées par le juge d’instruction et, après la clôture de l’enquête ordinaire, par le président du tribunal militaire ou du tribunal militaire d’appel. La police judiciaire cantonale peut être chargée de les exécuter.
+Les opérations d’enquête sont ordonnées par le juge d’instruction et, après la clôture de l’enquête ordinaire, par le président du tribunal militaire ou du tribunal militaire d’appel. La police militaire ou civile peut être chargée de les exécuter.[^62-1]
+
+[^62-1]: Nouvelle teneur de la phrase selon l’annexe ch. 2 de la LF du 18 mars 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
 
 #### Art. 63
 
@@ -865,7 +867,7 @@ Le détenteur d’un objet ou d’une valeur frappé de séquestre est tenu de l
 
 L’autopsie, l’ajournement de la sépulture et l’exhumation du cadavre ou l’ouverture de l’urne cinéraire peuvent être ordonnés pour des motifs impérieux.
 
-### Section 10**** Surveillance de la correspondance par poste et télécommunication
+### Section 10 Surveillance de la correspondance par poste et télécommunication
 
 [^tit2-chap1-sec10-1]
 
@@ -1097,7 +1099,7 @@ Les personnes dont la correspondance par poste ou par télécommunication a ét�
 
 [^70k-1]: Nouvelle teneur selon l’annexe ch. II 2 de la loi du 18 mars 2016 sur la surveillance de la correspondance par poste et télécommunication, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31); [FF 2013 2379](https://fedlex.data.admin.ch/eli/fga/2013/512)).
 
-### Section 10*a* Utilisation de dispositifs techniques de surveillance****
+### Section 10*a* Utilisation de dispositifs techniques de surveillance
 
 [^tit2-chap1-sec10a-1]
 
@@ -1165,7 +1167,7 @@ Les prévenus et les personnes dont les locaux ou les véhicules ont fait l’ob
 
 [^72a-1]: Introduit par l’annexe ch. 16 de la LF du 4 oct. 1991 ([RO 1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288); [FF 1991 II 461](https://fedlex.data.admin.ch/eli/fga/1991/2_465_461_413)). Abrogé par l’annexe ch. 3 de la LF du 6 oct. 2000 sur la surveillance de la correspondance par poste et télécommunication, avec effet au 1<sup>er</sup> janv. 2002 ([RO 2001 3096](https://fedlex.data.admin.ch/eli/oc/2001/467); FF **1998** 3689).
 
-### Section 10*b***** Investigation secrète
+### Section 10*b* Investigation secrète
 
 [^tit2-chap1-sec10b-1]
 
@@ -1352,7 +1354,7 @@ Avec l’accord du président du Tribunal militaire de cassation, il est possibl
 
 Les personnes qui ont fait l’objet d’une investigation secrète peuvent interjeter recours devant le Tribunal militaire de cassation dans les dix jours à compter de la réception de la communication, pour illégalité de la mesure ou violation du principe de la proportionnalité.
 
-### Section 10*c***** Recherches secrètes
+### Section 10*c* Recherches secrètes
 
 [^tit2-chap1-sec10c-1]
 
@@ -1405,7 +1407,7 @@ L’autorité qui a ordonné les recherches secrètes y met fin immédiatement d
 
 <sup>4</sup> Les art. 73*m*, al. 1, et 73*n* s’appliquent par analogie à la communication adressée à la personne visée et au recours.
 
-### Section 11**** Témoins et personnes appelées à donner des renseignements****
+### Section 11 Témoins et personnes appelées à donner des renseignements
 
 [^tit2-chap1-sec11-1][^tit2-chap1-sec11-2]
 
@@ -1450,10 +1452,11 @@ Ont le droit de refuser de témoigner:
 
 <sup>1</sup> Si un témoin doit être entendu sur des faits qui relèvent du secret de service (art. 77 CPM[^77-1]), le juge doit auparavant le faire délier de son devoir de garder le secret par l’office compétent.
 
-<sup>2</sup> Un fonctionnaire ne peut être entendu comme témoin sur un secret de fonction (art. 320 CP[^77-2]) ou astreint à produire des documents officiels qu’avec le consentement de l’autorité supérieure. Au surplus, les prescriptions du droit administratif fédéral et cantonal sont applicables.
+<sup>2</sup> Les fonctionnaires et leurs auxiliaires ne peuvent être entendus comme témoins sur un secret de fonction (art. 320 CP[^77-2]) ou astreints à produire des documents officiels qu’avec le consentement de l’autorité supérieure. Au surplus, les prescriptions du droit administratif fédéral et cantonal sont applicables.[^77-3]
 
 [^77-1]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
 [^77-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^77-3]: Nouvelle teneur selon l’annexe 1 ch. 10 de la L du 18 déc. 2020 sur la sécurité de l’information, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232), [750](https://fedlex.data.admin.ch/eli/oc/2022/750); [FF 2017 2765](https://fedlex.data.admin.ch/eli/fga/2017/647)).
 
 #### Art. 78
 
@@ -1525,7 +1528,7 @@ Sont entendues en qualité de tiers appelés à fournir des renseignements et no
 
 <sup>5</sup> Ils peuvent être indemnisés pour perte de temps et frais de voyage selon les prescriptions édictées par le Conseil fédéral.
 
-### Section 11*a* Lésé****
+### Section 11*a* Lésé
 
 [^tit2-chap1-sec11a-1]
 
@@ -1541,7 +1544,7 @@ Sont entendues en qualité de tiers appelés à fournir des renseignements et no
 
 [^84a-1]: Introduit par l’annexe ch. 4 de la LF du 4 oct. 1991 sur l’aide aux victimes d’infractions ([RO 1992 2465](https://fedlex.data.admin.ch/eli/oc/1992/2465_2465_2465); [FF 1990 II 909](https://fedlex.data.admin.ch/eli/fga/1990/2_961_909_709)). Nouvelle teneur selon le ch. I de la LF du 17 juin 2016, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3911](https://fedlex.data.admin.ch/eli/oc/2018/625); [FF 2015 5533](https://fedlex.data.admin.ch/eli/fga/2015/1441)[7035](https://fedlex.data.admin.ch/eli/fga/2015/1898)).
 
-### Section 11*b* Victime et proches****
+### Section 11*b* Victime et proches
 
 [^tit2-chap1-sec11b-1]
 
@@ -1561,12 +1564,12 @@ Sont entendues en qualité de tiers appelés à fournir des renseignements et no
 
 **Principes**[^84ater-1]
 
-<sup>1</sup> L’aide aux victimes d’infractions est régie par la loi du 23 mars 2007 sur l’aide aux victimes ((LAVI)[^84ater-2], dans la mesure où les dispositions de procédure particulières prévues par la présente loi ne sont pas applicables.
+<sup>1</sup> L’aide aux victimes d’infractions est régie par la loi du 23 mars 2007 sur l’aide aux victimes (LAVI)[^84ater-2], dans la mesure où les dispositions de procédure particulières prévues par la présente loi ne sont pas applicables.
 
 <sup>2</sup> Lorsque les proches de la victime se portent partie civile contre les prévenus, ils jouissent des mêmes droits que la victime.
 
 [^84ater-1]: Introduit par le ch. I de la LF du 17 juin 2016, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3911](https://fedlex.data.admin.ch/eli/oc/2018/625); [FF 2015 5533](https://fedlex.data.admin.ch/eli/fga/2015/1441)[7035](https://fedlex.data.admin.ch/eli/fga/2015/1898)).
-[^84ater-2]: RS **3****1****2.5**
+[^84ater-2]: [RS 312.5](https://fedlex.data.admin.ch/eli/cc/2008/232)
 
 #### Art. 84b
 
@@ -1679,7 +1682,7 @@ L’autorité compétente peut, à titre exceptionnel, classer la procédure aux
 
 [^84i-1]: Introduit par l’annexe ch. 2 de la loi du 23 mars 2007 sur l’aide aux victimes ([RO 2008 1607](https://fedlex.data.admin.ch/eli/oc/2008/232); [FF 2005 6683](https://fedlex.data.admin.ch/eli/fga/2005/1167)). Nouvelle teneur selon l’annexe 1 ch. II 12 du CPP du 5 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 1057](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 
-### Section 11*c***** Partie plaignante
+### Section 11*c* Partie plaignante
 
 [^tit2-chap1-sec11c-1]
 
@@ -1746,7 +1749,7 @@ Dans la déclaration, le lésé peut, cumulativement ou alternativement:
 
 La partie plaignante ne peut pas interjeter recours sur la question de la peine ou de la mesure prononcée.
 
-### Section 11*d***** Tiers touché par une confiscation
+### Section 11*d* Tiers touché par une confiscation
 
 [^tit2-chap1-sec11d-1]
 
@@ -1858,7 +1861,7 @@ Les interprètes et traducteurs sont instruits des conséquences pénales d’un
 
 Les dispositions sur la récusation des membres du tribunal s’appliquent par analogie aux interprètes et aux traducteurs.
 
-### Section 14*a***** Protection des participants à la procédure
+### Section 14*a* Protection des participants à la procédure
 
 [^tit2-chap1-sec14a-1]
 
@@ -2688,7 +2691,7 @@ La renonciation est présumée si le condamné par défaut:
 
 <sup>4</sup> Sont réservés le renouvellement des demandes pour des motifs non encore invoqués et la nouvelle procédure selon l’art. 156 si le condamné revient en Suisse.
 
-### Section 6 Procédure en révocation ou en réintégration****
+### Section 6 Procédure en révocation ou en réintégration
 
 [^tit2-chap2-sec6-1]
 

@@ -4,11 +4,11 @@ title: Militärstrafprozess vom 23. März 1979 (MStP)
 short: MStP
 eli: "https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059"
 language: de
-version: 2022-07-01
+version: 2023-01-01
 adopted: 1979-03-23
 in_force: 1980-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059/20220701/de/xml/fedlex-data-admin-ch-eli-cc-1979-1059_1059_1059-20220701-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1979/1059_1059_1059/20220701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059/20230101/de/xml/fedlex-data-admin-ch-eli-cc-1979-1059_1059_1059-20230101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1979/1059_1059_1059/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1979/1059_1059_1059/20220701/de"
 
 (MStP)
 
-vom 23. März 1979 (Stand am 1. Juli 2022)
+vom 23. März 1979 (Stand am 1. Januar 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -90,13 +90,13 @@ Die Einteilung als Justizoffizier bei der Militärjustiz ist Voraussetzung zur B
 [^4-2]: Ausdruck gemäss Ziff. III des BG vom 3. Okt. 2003, in Kraft seit 1. März 2004 ([AS 2004 921](https://fedlex.data.admin.ch/eli/oc/2004/107); [BBl 2002 7859](https://fedlex.data.admin.ch/eli/fga/2002/1270)). Diese Änd. ist im ganzen Erlass berücksichtigt.
 [^4-3]: Aufgehoben durch Anhang Ziff. 4 des BG vom 18. März 2016, mit Wirkung seit 1. Jan. 2018 ([AS 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 
-### Drittes Kapitel: Strafbehörden****
+### Drittes Kapitel: Strafbehörden
 
 [^tit1-chap3-1]
 
 [^tit1-chap3-1]: Eingefügt durch Anhang Ziff. 4 des BG vom 18. März 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 
-### Erster Abschnitt:**** Strafverfolgungsbehörden
+### Erster Abschnitt: Strafverfolgungsbehörden
 
 [^tit1-chap3-sec1-1]
 
@@ -122,7 +122,7 @@ Der Auditor erlässt die Einstellungsverfügung oder das Strafmandat; gegebenenf
 
 Der Bundesrat bestimmt die Zahl der Untersuchungsrichter und der Auditoren sowie ihre Organisation unter Berücksichtigung der Sprachgemeinschaften.
 
-### 1*a*. Abschnitt: Militärgerichte****
+### 1*a*. Abschnitt: Militärgerichte
 
 [^tit1-chap3-sec1a-1]
 
@@ -655,7 +655,7 @@ Gegen den ablehnenden Entscheid kann innert zehn Tagen von der schriftlichen Mit
 
 <sup>3</sup> Auf diese Rechtsfolgen ist der Beschuldigte oder Verurteilte bei Erteilung des freien Geleits aufmerksam zu machen.
 
-### Achter Abschnitt: Anhaltung; Vorläufige Festnahme; Untersuchungs- und Sicherheitshaft****
+### Achter Abschnitt: Anhaltung; Vorläufige Festnahme; Untersuchungs- und Sicherheitshaft
 
 [^tit2-chap1-sec8-1]
 
@@ -788,7 +788,9 @@ Der Verhaftete darf in seiner Freiheit nicht weiter beschränkt werden, als es d
 
 **Anordnung**
 
-Die Anordnung von Untersuchungsmassnahmen steht dem Untersuchungsrichter und, nach Abschluss der Voruntersuchung, dem Präsidenten des Militärgerichts oder des Militärappellationsgerichts zu. Mit der Durchführung kann die kantonale gerichtliche Polizei beauftragt werden.
+Die Anordnung von Untersuchungsmassnahmen steht dem Untersuchungsrichter und, nach Abschluss der Voruntersuchung, dem Präsidenten des Militärgerichts oder des Militärappellationsgerichts zu. Mit der Durchführung kann die militärische oder die zivile Polizei beauftragt werden.[^62-1]
+
+[^62-1]: Fassung des zweiten Satzes gemäss Anhang Ziff. 2 des BG vom 18. März 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [BBl 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
 
 #### Art. 63
 
@@ -866,7 +868,7 @@ Wer einen mit Beschlag belegten Gegenstand oder Vermögenswert in seinem Gewahrs
 
 Aus zwingenden Gründen können die Autopsie, der Aufschub der Bestattung, die Ausgrabung des Leichnams oder die Öffnung der Aschenurne angeordnet werden.
 
-### Zehnter Abschnitt:**** Überwachung des Post- und Fernmeldeverkehrs
+### Zehnter Abschnitt: Überwachung des Post- und Fernmeldeverkehrs
 
 [^tit2-chap1-sec10-1]
 
@@ -1096,7 +1098,7 @@ Personen, deren Post- oder Fernmeldeverkehr überwacht wurde oder die die überw
 
 [^70k-1]: Fassung gemäss Anhang Ziff. II 2 des BG vom 18. März 2016 betreffend die Überwachung des Post- und Fernmeldeverkehrs, in Kraft seit 1. März 2018 ([AS 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31); [BBl 2013 2683](https://fedlex.data.admin.ch/eli/fga/2013/512)).
 
-### Zehnter *a* Abschnitt:**** Überwachung mit technischen Überwachungsgeräten
+### Zehnter *a* Abschnitt: Überwachung mit technischen Überwachungsgeräten
 
 [^tit2-chap1-sec10a-1]
 
@@ -1164,7 +1166,7 @@ Beschuldigte Personen und Personen, deren Räumlichkeiten oder Fahrzeuge überwa
 
 [^72a-1]: Eingefügt durch Anhang Ziff. 16 des BG vom 4. Okt. 1991 ([AS 1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288); [BBl 1991 II 465](https://fedlex.data.admin.ch/eli/fga/1991/2_465_461_413)). Aufgehoben durch Anhang Ziff. 3 des BG vom 6. Okt. 2000 betreffend die Überwachung des Post- und Fernmeldeverkehrs, mit Wirkung seit 1. Jan. 2002 ([AS 2001 3096](https://fedlex.data.admin.ch/eli/oc/2001/467); BBl **1998** 4241).
 
-### Zehnter *b* Abschnitt:**** Verdeckte Ermittlung
+### Zehnter *b* Abschnitt: Verdeckte Ermittlung
 
 [^tit2-chap1-sec10b-1]
 
@@ -1351,7 +1353,7 @@ Die Mitteilung kann mit Zustimmung des Präsidenten des Militärkassationsgerich
 
 Personen, gegen die verdeckt ermittelt wurde, können innert zehn Tagen nach der Mitteilung beim Militärkassationsgericht Beschwerde wegen fehlender Rechtmässigkeit oder Unverhältnismässigkeit führen.
 
-### Zehnter *c* Abschnitt:**** Verdeckte Fahndung
+### Zehnter *c* Abschnitt: Verdeckte Fahndung
 
 [^tit2-chap1-sec10c-1]
 
@@ -1404,9 +1406,9 @@ Die anordnende Polizei oder der Untersuchungsrichter beendet die verdeckte Fahnd
 
 <sup>4</sup> Für die Mitteilung der verdeckten Fahndung und die Beschwerde gelten die Artikel 73*m* Absatz 1 und 73*n* sinngemäss.
 
-### Elfter Abschnitt****: Zeugen und Auskunftspersonen****
+### Elfter Abschnitt[^tit2-chap1-sec11-1]: Zeugen und Auskunftspersonen
 
-[^tit2-chap1-sec11-1][^tit2-chap1-sec11-2]
+[^tit2-chap1-sec11-2]
 
 [^tit2-chap1-sec11-1]: Gemäss Ziff. IV 4–5 des BG vom 23. März 1979 über den Schutz der persönlichen Geheimsphäre ([AS 1979 1170](https://fedlex.data.admin.ch/eli/oc/1979/1170_1170_1170); [BBl 1976 I 529](https://fedlex.data.admin.ch/eli/fga/1976/1_529__)II 1569) erhielten die ursprünglichen Abschnitte 10–14 die Nummern 11-15 und die ursprünglichen Art. 71–218 die Nummern 74–221.
 [^tit2-chap1-sec11-2]: Fassung gemäss Anhang 1 Ziff. II 12 der Strafprozessordnung vom 5. Okt. 2007, in Kraft seit 1. Jan. 2011 ([AS 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124)).
@@ -1449,10 +1451,11 @@ Das Zeugnis können verweigern:
 
 <sup>1</sup> Soll ein Zeuge über Tatsachen aussagen, die unter das Dienstgeheimnis (Art. 77 MStG[^77-1]) fallen, so hat der Richter vorerst bei der zuständigen Dienststelle die Befreiung von dieser Pflicht zu erwirken.
 
-<sup>2</sup> Ein Beamter darf nur mit Zustimmung seiner vorgesetzten Behörde über ein Amtsgeheimnis (Art. 320 StGB[^77-2]) als Zeuge einvernommen oder zur Herausgabe von Amtsakten angehalten werden. Im Übrigen gelten das eidgenössische und das kantonale Verwaltungsrecht.
+<sup>2</sup> Ein Beamter oder seine Hilfsperson darf nur mit Zustimmung der vorgesetzten Behörde über ein Amtsgeheimnis (Art. 320 StGB[^77-2]) als Zeuge einvernommen oder zur Herausgabe von Amtsakten angehalten werden. Im Übrigen gelten das eidgenössische und das kantonale Verwaltungsrecht.[^77-3]
 
 [^77-1]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
 [^77-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^77-3]: Fassung gemäss Anhang 1 Ziff. 10 des Informationssicherheitsgesetzes vom 18. Dez. 2020, in Kraft seit 1. Jan. 2023 ([AS 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232), [750](https://fedlex.data.admin.ch/eli/oc/2022/750); [BBl 2017 2953](https://fedlex.data.admin.ch/eli/fga/2017/647)).
 
 #### Art. 78
 
@@ -1526,7 +1529,7 @@ Als Auskunftspersonen und nicht als Zeugen werden befragt:
 
 <sup>5</sup> Auskunftspersonen können für Zeitversäumnis und Reisekosten nach den Vorschriften des Bundesrates entschädigt werden.
 
-### Elfter *a* Abschnitt: Geschädigter****
+### Elfter *a* Abschnitt: Geschädigter
 
 [^tit2-chap1-sec11a-1]
 
@@ -1542,7 +1545,7 @@ Als Auskunftspersonen und nicht als Zeugen werden befragt:
 
 [^84a-1]: Eingefügt durch Anhang Ziff. 4 des Opferhilfegesetzes vom 4. Okt. 1991 ([AS 1992 2465](https://fedlex.data.admin.ch/eli/oc/1992/2465_2465_2465); [BBl 1990 II 961](https://fedlex.data.admin.ch/eli/fga/1990/2_961_909_709)). Fassung gemäss Ziff. I des BG vom 17. Juni 2016, in Kraft seit 1. Jan. 2019 ([AS 2018 3911](https://fedlex.data.admin.ch/eli/oc/2018/625); [BBl 2015 6059](https://fedlex.data.admin.ch/eli/fga/2015/1441)[7711](https://fedlex.data.admin.ch/eli/fga/2015/1898)).
 
-### Elfter *b* Abschnitt: Opfer und ihre Angehörigen****
+### Elfter *b* Abschnitt: Opfer und ihre Angehörigen
 
 [^tit2-chap1-sec11b-1]
 
@@ -1684,7 +1687,7 @@ Die zuständige Behörde kann das Strafverfahren ausnahmsweise einstellen, wenn:
 
 [^84i-1]: Fassung gemäss Anhang 1 Ziff. II 12 der Strafprozessordnung vom 5. Okt. 2007, in Kraft seit 1. Jan. 2011 ([AS 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 
-### Elfter *c* Abschnitt:**** Privatklägerschaft
+### Elfter *c* Abschnitt: Privatklägerschaft
 
 [^tit2-chap1-sec11c-1]
 
@@ -1751,7 +1754,7 @@ In der Erklärung kann der Geschädigte kumulativ oder alternativ:
 
 Die Privatklägerschaft kann einen Entscheid hinsichtlich der ausgesprochenen Sanktion nicht anfechten.
 
-### Elfter *d* Abschnitt:**** Von einer Einziehung betroffener Dritter
+### Elfter *d* Abschnitt: Von einer Einziehung betroffener Dritter
 
 [^tit2-chap1-sec11d-1]
 
@@ -1863,7 +1866,7 @@ Dolmetscher und Übersetzer werden auf die Straffolgen falscher Übersetzung auf
 
 Für Dolmetscher und Übersetzer gelten sinngemäss die Bestimmungen über den Ausstand von Gerichtspersonen.
 
-### Vierzehnter *a* Abschnitt:**** Schutz von Verfahrensbeteiligten
+### Vierzehnter *a* Abschnitt: Schutz von Verfahrensbeteiligten
 
 [^tit2-chap1-sec14a-1]
 
@@ -2686,7 +2689,7 @@ finanzieller Art nicht möglich ist, in die Schweiz zu kommen, kann die Aufhebun
 
 <sup>4</sup> Vorbehalten bleibt die Erneuerung der Begehren aus bisher nicht geltend gemachten Gründen oder die Durchführung des Verfahrens nach Artikel 156 bei Einreise in die Schweiz.
 
-### Sechster Abschnitt: Verfahren bei Widerruf oder Rückversetzung****
+### Sechster Abschnitt: Verfahren bei Widerruf oder Rückversetzung
 
 [^tit2-chap2-sec6-1]
 
@@ -2706,7 +2709,7 @@ finanzieller Art nicht möglich ist, in die Schweiz zu kommen, kann die Aufhebun
 [^159-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^159-3]: Fassung gemäss Ziff. II des BG vom 3. Okt. 2008 (Korrekturen infolge der Revision des AT MStG und weitere Anpassungen), in Kraft seit 1. März 2009 ([AS 2009 701](https://fedlex.data.admin.ch/eli/oc/2009/117); [BBl 2007 8353](https://fedlex.data.admin.ch/eli/fga/2007/1322)).
 
-### Siebenter Abschnitt:**** …
+### Siebenter Abschnitt: …
 
 [^tit2-chap2-sec7-1]
 

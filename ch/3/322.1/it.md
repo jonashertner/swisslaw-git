@@ -4,11 +4,11 @@ title: Procedura penale militare del 23 marzo 1979 (PPM)
 short: PPM
 eli: "https://fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059"
 language: it
-version: 2022-07-01
+version: 2023-01-01
 adopted: 1979-03-23
 in_force: 1980-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059/20220701/it/xml/fedlex-data-admin-ch-eli-cc-1979-1059_1059_1059-20220701-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1979/1059_1059_1059/20220701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1059_1059_1059/20230101/it/xml/fedlex-data-admin-ch-eli-cc-1979-1059_1059_1059-20230101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1979/1059_1059_1059/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1979/1059_1059_1059/20220701/it"
 
 (PPM)
 
-del 23 marzo 1979 (Stato 1° luglio 2022)
+del 23 marzo 1979 (Stato 1° gennaio 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -90,13 +90,13 @@ L’incorporazione nella giustizia militare in qualità di ufficiale della giust
 [^4-2]: Nuova denominazione giusta il n. III della LF del 3 ott. 2003, in vigore dal 1° mar. 2004 ([RU 2004 921](https://fedlex.data.admin.ch/eli/oc/2004/107); [FF 2002 6989](https://fedlex.data.admin.ch/eli/fga/2002/1270)). Di detta mod. é tenuto conto in tutto il presente testo.
 [^4-3]: Abrogato dall’all. n. 4 della LF 18 mar. 2016, con effetto dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 
-### Capitolo 3: Autorità penali****
+### Capitolo 3: Autorità penali
 
 [^tit1-chap3-1]
 
 [^tit1-chap3-1]: Nuovo testo giusta l’all. n. 4 della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 
-### Sezione 1:**** Autorità di perseguimento penale
+### Sezione 1: Autorità di perseguimento penale
 
 [^tit1-chap3-sec1-1]
 
@@ -122,7 +122,7 @@ L’uditore emana la decisione di desistenza o il decreto d’accusa; eventualme
 
 Il Consiglio federale determina il numero dei giudici istruttori e degli
 
-### Sezione 1*a*: Tribunali militari****
+### Sezione 1*a*: Tribunali militari
 
 [^tit1-chap3-sec1a-1]
 
@@ -170,7 +170,7 @@ I tribunali militari giudicano in prima istanza i reati soggetti alla giurisdizi
 
 <sup>3</sup> ...[^8-2]
 
-[^8-1]: Nuovo testo giusta l’all. n. 4 della alla LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^8-1]: Nuovo testo giusta l’all. n. 4 della LF 18 mar. 2016, in vigore dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 [^8-2]: Abrogato dall’all. n. 4 della LF 18 mar. 2016, con effetto dal 1° gen. 2018 ([RU 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); FF 2014 5939).
 
 ### Sezione 2: Tribunali militari d’appello
@@ -656,7 +656,7 @@ La decisione di reiezione può essere impugnata mediante reclamo, entro dieci gi
 
 [^53-1]: Nuova espr. giusta il n. II della LF del 3 ott. 2008 (Modifiche in seguito alla revisione della parte generale del CPM e altri adeguamenti), in vigore dal 1° mar. 2009 ([RU 2009 701](https://fedlex.data.admin.ch/eli/oc/2009/117); [FF 2007 7545](https://fedlex.data.admin.ch/eli/fga/2007/1322)).
 
-### Sezione 8: Fermo; arresto provvisorio; carcerazione preventiva e di sicurezza****
+### Sezione 8: Fermo; arresto provvisorio; carcerazione preventiva e di sicurezza
 
 [^tit2-chap1-sec8-1]
 
@@ -790,7 +790,9 @@ L’arrestato è sottoposto a quelle sole restrizioni della sua libertà che si 
 
 **Ordine di procedere**
 
-I provvedimenti istruttori sono ordinati dal giudice istruttore e, dopo la chiusura dell’istruzione preparatoria, dal presidente del tribunale militare o del tribunale militare d’appello. L’esecuzione può essere affidata alla polizia giudiziaria cantonale.
+I provvedimenti istruttori sono ordinati dal giudice istruttore e, dopo la chiusura dell’istruzione preparatoria, dal presidente del tribunale militare o del tribunale militare d’appello. L’esecuzione può essere affidata alla polizia militare o alla polizia civile.[^62-1]
+
+[^62-1]: Nuovo testo del per. giusta l’all. n. 2 della LF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
 
 #### Art. 63
 
@@ -866,7 +868,7 @@ Chi ha in propria custodia un oggetto o un bene sequestrato è tenuto, a richies
 
 Per ragioni perentorie possono essere ordinati l’autopsia, il rinvio della sepoltura, l’esumazione o l’apertura dell’urna cineraria.
 
-### Sezione 10:**** Sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni
+### Sezione 10: Sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni
 
 [^tit2-chap1-sec10-1]
 
@@ -1098,7 +1100,7 @@ Le persone la cui corrispondenza postale o il cui traffico delle telecomunicazio
 
 [^70k-1]: Nuovo testo giusta l’all. n. II 2 della LF del 18 mar. 2016 sulla sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni, in vigore dal 1° mar. 2018 ([RU 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31); [FF 2013 2283](https://fedlex.data.admin.ch/eli/fga/2013/512)).
 
-### Sezione 10*a*: Sorveglianza con strumenti tecnici di sorveglianza****
+### Sezione 10*a*: Sorveglianza con strumenti tecnici di sorveglianza
 
 [^tit2-chap1-sec10a-1]
 
@@ -1166,7 +1168,7 @@ L’imputato e le persone i cui spazi o veicoli sono stati sorvegliati possono, 
 
 [^72a-1]: Introdotto dall’all. n. 16 della LF del 4 ott. 1991 ([RU 1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288); [FF 1991 II 413](https://fedlex.data.admin.ch/eli/fga/1991/2_465_461_413)). Abrogato dall’all. n. 3 della LF del 6 ott. 2001 sulla sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni, con effetto dal 1° gen. 2002 ([RU 2001 3096](https://fedlex.data.admin.ch/eli/oc/2001/467); FF **1998** 3319).
 
-### Sezione 10*b*:**** Inchiesta mascherata
+### Sezione 10*b*: Inchiesta mascherata
 
 [^tit2-chap1-sec10b-1]
 
@@ -1352,7 +1354,7 @@ Con il consenso del presidente del tribunale militare di cassazione tale comunic
 
 Le persone nei confronti delle quali è stata svolta un’inchiesta mascherata possono, entro dieci giorni dalla ricezione della comunicazione, interporre reclamo al tribunale militare di cassazione censurando la carente legalità o la non proporzionalità dell’intervento.
 
-### Sezione 10*c*:**** Indagine in incognito
+### Sezione 10*c*: Indagine in incognito
 
 [^tit2-chap1-sec10c-1]
 
@@ -1405,7 +1407,7 @@ La polizia o il giudice istruttore che le ha ordinate pone fine senza indugio al
 
 <sup>4</sup> Alla comunicazione delle indagini in incognito e ai reclami si applicano per analogia gli articoli 73*m* capoverso 1 e 73*n*.
 
-### Sezione 11:**** Testimoni e persone informate sui fatti****
+### Sezione 11: Testimoni e persone informate sui fatti
 
 [^tit2-chap1-sec11-1][^tit2-chap1-sec11-2]
 
@@ -1450,10 +1452,11 @@ Possono rifiutare di testimoniare:
 
 <sup>1</sup> Quando un testimone sia chiamato a deporre su fatti protetti dal segreto di servizio (art. 77 CPM[^77-1]), il giudice deve previamente ottenerne la dispensa dal servizio competente.
 
-<sup>2</sup> Nessun funzionario può, senza il consenso dell’autorità da cui dipende, essere interrogato come testimone su un segreto d’ufficio (art. 320 CP[^77-2]) o essere obbligato a produrre documenti ufficiali. Sono del resto applicabili le disposizioni del diritto amministrativo federale e cantonale.
+<sup>2</sup> Nessun funzionario o suo ausiliario può, senza il consenso dell’autorità da cui dipende, essere interrogato come testimone su un segreto d’ufficio (art. 320 CP[^77-2]) o essere obbligato a produrre documenti ufficiali. Del rimanente sono applicabili le disposizioni del diritto amministrativo federale e cantonale.[^77-3]
 
 [^77-1]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
 [^77-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^77-3]: Nuovo testo giusta l’all. 1 n. 10 della L del 18 dic. 2020 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2023 ([RU 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232), [750](https://fedlex.data.admin.ch/eli/oc/2022/750); [FF 2017 2563](https://fedlex.data.admin.ch/eli/fga/2017/647)).
 
 #### Art. 78
 
@@ -1497,7 +1500,7 @@ Le condizioni personali del testimone, in specie le sue relazioni con l’imputa
 
 <sup>4</sup> Sono riservate le domande di risarcimento di terzi.
 
-[^82-1]: RS **31****1.0**
+[^82-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^82-2]: Nuovo testo giusta il n. II della LF del 3 ott. 2008 (Modifiche in seguito alla revisione della parte generale del CPM e altri adeguamenti), in vigore dal 1° mar. 2009 ([RU 2009 701](https://fedlex.data.admin.ch/eli/oc/2009/117); [FF 2007 7545](https://fedlex.data.admin.ch/eli/fga/2007/1322)).
 
 #### Art. 83
@@ -1525,7 +1528,7 @@ Sono interrogate in qualità di persone chiamate a dare informazioni e non in qu
 
 <sup>5</sup> Le persone chiamate a dare informazioni possono essere indennizzate per il tempo perduto e per le spese di viaggio, secondo le norme emanate dal Consiglio federale.
 
-### Sezione 11*a*: Parte lesa ****
+### Sezione 11*a*: Parte lesa
 
 [^tit2-chap1-sec11a-1]
 
@@ -1541,7 +1544,7 @@ Sono interrogate in qualità di persone chiamate a dare informazioni e non in qu
 
 [^84a-1]: Introdotto dall’all. n. 4 della LF del 4 ott. 1991 concernente l’aiuto alle vittime di reati ([RU 1992 2465](https://fedlex.data.admin.ch/eli/oc/1992/2465_2465_2465); [FF 1990 II 709](https://fedlex.data.admin.ch/eli/fga/1990/2_961_909_709)). Nuovo testo giusta il n. I della LF del 17 giu. 2016, in vigore dal 1° gen. 2019 ([RU 2018 3911](https://fedlex.data.admin.ch/eli/oc/2018/625);[FF 2015 4945](https://fedlex.data.admin.ch/eli/fga/2015/1441)[6285](https://fedlex.data.admin.ch/eli/fga/2015/1898)).
 
-### Sezione 11*b*: Vittima e congiunti della vittima****
+### Sezione 11*b*: Vittima e congiunti della vittima
 
 [^tit2-chap1-sec11b-1]
 
@@ -1675,7 +1678,7 @@ A titolo eccezionale, l’autorità competente può abbandonare il procedimento 
 
 <sup>2</sup> In caso di abbandono del procedimento, l’autorità competente provvede affinché siano presi se del caso provvedimenti a tutela del minorenne interessato.
 
-### Sezione 11*c*:**** Accusatore privato
+### Sezione 11*c*: Accusatore privato
 
 [^tit2-chap1-sec11c-1]
 
@@ -1742,7 +1745,7 @@ Nella dichiarazione la parte lesa può, cumulativamente o alternativamente:
 
 L’accusatore privato non può impugnare una decisione riguardo alla sanzione inflitta.
 
-### Sezione 11*d*:**** Terzi colpiti da una confisca
+### Sezione 11*d*: Terzi colpiti da una confisca
 
 [^tit2-chap1-sec11d-1]
 
@@ -1854,7 +1857,7 @@ Interpreti e traduttori devono essere avvertiti delle conseguenze penali della f
 
 Agli interpreti e ai traduttori si applicano per analogia le disposizioni sull’astensione e la ricusazione dei membri del tribunale.
 
-### Sezione 14*a*:**** Protezione dei partecipanti al procedimento
+### Sezione 14*a*: Protezione dei partecipanti al procedimento
 
 [^tit2-chap1-sec14a-1]
 
@@ -2530,7 +2533,7 @@ La sentenza ha per oggetto il fatto indicato nell’atto di accusa. Nell’appre
 
 <sup>3</sup> Nessuna pena disciplinare può più essere inflitta per il medesimo fatto per cui il tribunale ha condannato, punito disciplinarmente o assolto l’accusato.
 
-[^149-1]: RS **321****.****0**
+[^149-1]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
 [^149-2]: Nuovo testo giusta il n. II della LF del 3 ott. 2008 (Modifiche in seguito alla revisione della parte generale del CPM e altri adeguamenti), in vigore dal 1° mar. 2009 ([RU 2009 701](https://fedlex.data.admin.ch/eli/oc/2009/117); [FF 2007 7545](https://fedlex.data.admin.ch/eli/fga/2007/1322)).
 [^149-3]: Per. introdotto dal n. III della LF del 3 ott. 2003, in vigore dal 1° mar. 2004 ([RU 2004 921](https://fedlex.data.admin.ch/eli/oc/2004/107); [FF 2002 6989](https://fedlex.data.admin.ch/eli/fga/2002/1270)).
 [^149-4]: Nuovo testo giusta il n. III della LF del 3 ott. 2003, in vigore dal 1° mar. 2004 ([RU 2004 921](https://fedlex.data.admin.ch/eli/oc/2004/107); [FF 2002 6989](https://fedlex.data.admin.ch/eli/fga/2002/1270)).
@@ -2679,7 +2682,7 @@ La rinuncia alla revoca della sentenza contumaciale è presunta quando il condan
 
 <sup>4</sup> Sono riservate la ripresentazione della domanda per motivi non ancora invocati e l’attuazione della procedura secondo l’articolo 156 in caso di entrata in Svizzera.
 
-### Sezione 6: Procedura in caso di revoca della sospensione condizionale o di ripristino dell’esecuzione ****
+### Sezione 6: Procedura in caso di revoca della sospensione condizionale o di ripristino dell’esecuzione
 
 [^tit2-chap2-sec6-1]
 
@@ -2695,8 +2698,8 @@ La rinuncia alla revoca della sentenza contumaciale è presunta quando il condan
 
 <sup>3</sup> Le disposizioni sul dibattimento e sulla sentenza (art. 130 segg.) s’applicano per analogia.
 
-[^159-1]: RS **321****.****0**
-[^159-2]: RS **31****1.0**
+[^159-1]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^159-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 [^159-3]: Nuovo testo giusta il n. II della LF del 3 ott. 2008 (Modifiche in seguito alla revisione della parte generale del CPM e altri adeguamenti), in vigore dal 1° mar. 2009 ([RU 2009 701](https://fedlex.data.admin.ch/eli/oc/2009/117); [FF 2007 7545](https://fedlex.data.admin.ch/eli/fga/2007/1322)).
 
 ### Sezione 7: ...
