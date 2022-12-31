@@ -4,13 +4,13 @@ number: "212.4.11"
 title: Verordnung über Inkassohilfe und Bevorschussung von Unterhaltsbeiträgen
 short: IHBUV
 language: de
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2022-01-31
+version: 2023-01-01
+valid_until: 2024-12-31
+version_adopted: 2022-12-20
 adopted: 2021-12-14
 in_force: 2022-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/212.4.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/7261/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7686/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Unterhaltsbeiträgen, Inkassohilfe und Bevorschussung – V
 
 (IHBUV)
 
-vom 14.12.2021 (Fassung in Kraft getreten am 01.01.2022)
+vom 14.12.2021 (Fassung in Kraft getreten am 01.01.2023)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -196,11 +196,11 @@ beschliesst:
 <table>
 <tr><th>Bevorschussung</th><th>Einkommen (1 Erwachsene/r 1 Kind)</th><th>Einkommen (1 Erwachsene/r 2 Kinder)</th><th>Einkommen (1 Erwachsene/r 3 Kinder)</th><th>Einkommen (1 Erwachsene/r 4 Kinder)</th></tr>
 <tr><td>Höchstbetrag gemäss Art. 9 Abs. 1 Bst. a IHBUG</td><td>bis Fr. 4530</td><td>bis Fr. 5310</td><td>bis Fr. 6320</td><td>bis Fr. 7230</td></tr>
-<tr><td>Fr. 820</td><td>bis Fr. 4605</td><td>bis Fr. 5400</td><td>bis Fr. 6425</td><td>bis Fr. 7350</td></tr>
-<tr><td>Fr. 684</td><td>bis Fr. 4680</td><td>bis Fr. 5490</td><td>bis Fr. 6530</td><td>bis Fr. 7470</td></tr>
-<tr><td>Fr. 548</td><td>bis Fr. 4755</td><td>bis Fr. 5580</td><td>bis Fr. 6635</td><td>bis Fr. 7590</td></tr>
-<tr><td>Fr. 412</td><td>bis Fr. 4830</td><td>bis Fr. 5670</td><td>bis Fr. 6740</td><td>bis Fr. 7710</td></tr>
-<tr><td>Fr. 276</td><td>bis Fr. 4905</td><td>bis Fr. 5760</td><td>bis Fr. 6845</td><td>bis Fr. 7830</td></tr>
+<tr><td>Fr. 840</td><td>bis Fr. 4605</td><td>bis Fr. 5400</td><td>bis Fr. 6425</td><td>bis Fr. 7350</td></tr>
+<tr><td>Fr. 700</td><td>bis Fr. 4680</td><td>bis Fr. 5490</td><td>bis Fr. 6530</td><td>bis Fr. 7470</td></tr>
+<tr><td>Fr. 560</td><td>bis Fr. 4755</td><td>bis Fr. 5580</td><td>bis Fr. 6635</td><td>bis Fr. 7590</td></tr>
+<tr><td>Fr. 420</td><td>bis Fr. 4830</td><td>bis Fr. 5670</td><td>bis Fr. 6740</td><td>bis Fr. 7710</td></tr>
+<tr><td>Fr. 280</td><td>bis Fr. 4905</td><td>bis Fr. 5760</td><td>bis Fr. 6845</td><td>bis Fr. 7830</td></tr>
 <tr><td>Fr. 140</td><td>bis Fr. 4990</td><td>bis Fr. 5850</td><td>bis Fr. 6950</td><td>bis Fr. 7950</td></tr>
 <tr><td>Kein Anspruch auf Bevorschussung</td><td>ab Fr. 4991</td><td>ab Fr. 5851</td><td>ab Fr. 6951</td><td>ab Fr. 7951</td></tr>
 </table>
@@ -218,11 +218,11 @@ beschliesst:
 <table>
 <tr><th>Bevorschussung</th><th>Einkommen (2 Erwachsene 1 Kind)</th><th>Einkommen (2 Erwachsene 2 Kinder)</th><th>Einkommen (2 Erwachsene 3 Kinder)</th><th>Einkommen (2 Erwachsene 4 Kinder)</th></tr>
 <tr><td>Höchstbetrag gemäss Art. 9 Abs. 1 Bst. a IHBUG</td><td>bis Fr. 5480</td><td>bis Fr. 6230</td><td>bis Fr. 7240</td><td>bis Fr. 8150</td></tr>
-<tr><td>Fr. 820</td><td>bis Fr. 5565</td><td>bis Fr. 6330</td><td>bis Fr. 7360</td><td>bis Fr. 8280</td></tr>
-<tr><td>Fr. 684</td><td>bis Fr. 5650</td><td>bis Fr. 6430</td><td>bis Fr. 7480</td><td>bis Fr. 8410</td></tr>
-<tr><td>Fr. 548</td><td>bis Fr. 5735</td><td>bis Fr. 6530</td><td>bis Fr. 7600</td><td>bis Fr. 8540</td></tr>
-<tr><td>Fr. 412</td><td>bis Fr. 5820</td><td>bis Fr. 6630</td><td>bis Fr. 7720</td><td>bis Fr. 8670</td></tr>
-<tr><td>Fr. 276</td><td>bis Fr. 5905</td><td>bis Fr. 6730</td><td>bis Fr. 7840</td><td>bis Fr. 8800</td></tr>
+<tr><td>Fr. 840</td><td>bis Fr. 5565</td><td>bis Fr. 6330</td><td>bis Fr. 7360</td><td>bis Fr. 8280</td></tr>
+<tr><td>Fr. 700</td><td>bis Fr. 5650</td><td>bis Fr. 6430</td><td>bis Fr. 7480</td><td>bis Fr. 8410</td></tr>
+<tr><td>Fr. 560</td><td>bis Fr. 5735</td><td>bis Fr. 6530</td><td>bis Fr. 7600</td><td>bis Fr. 8540</td></tr>
+<tr><td>Fr. 420</td><td>bis Fr. 5820</td><td>bis Fr. 6630</td><td>bis Fr. 7720</td><td>bis Fr. 8670</td></tr>
+<tr><td>Fr. 280</td><td>bis Fr. 5905</td><td>bis Fr. 6730</td><td>bis Fr. 7840</td><td>bis Fr. 8800</td></tr>
 <tr><td>Fr. 140</td><td>bis Fr. 5990</td><td>bis Fr. 6830</td><td>bis Fr. 7960</td><td>bis Fr. 8930</td></tr>
 <tr><td>Kein Anspruch auf Bevorschussung</td><td>ab Fr. 5991</td><td>ab Fr. 6831</td><td>ab Fr. 7961</td><td>ab Fr. 8931</td></tr>
 </table>
@@ -242,11 +242,11 @@ beschliesst:
 <table>
 <tr><th>Einkommen</th><th>Bevorschussung</th></tr>
 <tr><td>bis Fr. 1200</td><td>Höchstbetrag gemäss Art. 9 Abs. 1 Bst. a IHBUG</td></tr>
-<tr><td>bis Fr. 1300</td><td>Fr. 820</td></tr>
-<tr><td>bis Fr. 1400</td><td>Fr. 684</td></tr>
-<tr><td>bis Fr. 1500</td><td>Fr. 548</td></tr>
-<tr><td>bis Fr. 1600</td><td>Fr. 412</td></tr>
-<tr><td>bis Fr. 1700</td><td>Fr. 276</td></tr>
+<tr><td>bis Fr. 1300</td><td>Fr. 840</td></tr>
+<tr><td>bis Fr. 1400</td><td>Fr. 700</td></tr>
+<tr><td>bis Fr. 1500</td><td>Fr. 560</td></tr>
+<tr><td>bis Fr. 1600</td><td>Fr. 420</td></tr>
+<tr><td>bis Fr. 1700</td><td>Fr. 280</td></tr>
 <tr><td>bis Fr. 1800</td><td>Fr. 140</td></tr>
 <tr><td>ab Fr. 1801</td><td>Kein Anspruch auf Bevorschussung</td></tr>
 </table>

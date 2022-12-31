@@ -4,13 +4,13 @@ number: "212.4.11"
 title: "Ordonnance sur l'aide au recouvrement et l'avance de contributions d'entretien"
 short: OARACE
 language: fr
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2022-01-31
+version: 2023-01-01
+valid_until: 2024-12-31
+version_adopted: 2022-12-20
 adopted: 2021-12-14
 in_force: 2022-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/212.4.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7261/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7686/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Contributions d'entretien, aide au recouvrement et avance – O
 
 (OARACE)
 
-du 14.12.2021 (version entrée en vigueur le 01.01.2022)
+du 14.12.2021 (version entrée en vigueur le 01.01.2023)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -196,11 +196,11 @@ Arrête:
 <table>
 <tr><th>Montant de l'avance</th><th>Revenus (1 adulte 1 enfant)</th><th>Revenus (1 adulte 2 enfants)</th><th>Revenus (1 adulte 3 enfants)</th><th>Revenus (1 adulte 4 enfants)</th></tr>
 <tr><td>Montant maximal selon l'art. 9 al. 1 let. a LARACE</td><td>jusqu'à Fr. 4530</td><td>jusqu'à Fr. 5310</td><td>jusqu'à Fr. 6320</td><td>jusqu'à Fr. 7230</td></tr>
-<tr><td>Fr. 820</td><td>jusqu'à Fr. 4605</td><td>jusqu'à Fr. 5400</td><td>jusqu'à Fr. 6425</td><td>jusqu'à Fr. 7350</td></tr>
-<tr><td>Fr. 684</td><td>jusqu'à Fr. 4680</td><td>jusqu'à Fr. 5490</td><td>jusqu'à Fr. 6530</td><td>jusqu'à Fr. 7470</td></tr>
-<tr><td>Fr. 548</td><td>jusqu'à Fr. 4755</td><td>jusqu'à Fr. 5580</td><td>jusqu'à Fr. 6635</td><td>jusqu'à Fr. 7590</td></tr>
-<tr><td>Fr. 412</td><td>jusqu'à Fr. 4830</td><td>jusqu'à Fr. 5670</td><td>jusqu'à Fr. 6740</td><td>jusqu'à Fr. 7710</td></tr>
-<tr><td>Fr. 276</td><td>jusqu'à Fr. 4905</td><td>jusqu'à Fr. 5760</td><td>jusqu'à Fr. 6845</td><td>jusqu'à Fr. 7830</td></tr>
+<tr><td>Fr. 840</td><td>jusqu'à Fr. 4605</td><td>jusqu'à Fr. 5400</td><td>jusqu'à Fr. 6425</td><td>jusqu'à Fr. 7350</td></tr>
+<tr><td>Fr. 700</td><td>jusqu'à Fr. 4680</td><td>jusqu'à Fr. 5490</td><td>jusqu'à Fr. 6530</td><td>jusqu'à Fr. 7470</td></tr>
+<tr><td>Fr. 560</td><td>jusqu'à Fr. 4755</td><td>jusqu'à Fr. 5580</td><td>jusqu'à Fr. 6635</td><td>jusqu'à Fr. 7590</td></tr>
+<tr><td>Fr. 420</td><td>jusqu'à Fr. 4830</td><td>jusqu'à Fr. 5670</td><td>jusqu'à Fr. 6740</td><td>jusqu'à Fr. 7710</td></tr>
+<tr><td>Fr. 280</td><td>jusqu'à Fr. 4905</td><td>jusqu'à Fr. 5760</td><td>jusqu'à Fr. 6845</td><td>jusqu'à Fr. 7830</td></tr>
 <tr><td>Fr. 140</td><td>jusqu'à Fr. 4990</td><td>jusqu'à Fr. 5850</td><td>jusqu'à Fr. 6950</td><td>jusqu'à Fr. 7950</td></tr>
 <tr><td>Pas de droit à l'avance</td><td>dès Fr. 4991</td><td>dès Fr. 5851</td><td>dès Fr. 6951</td><td>dès Fr. 7951</td></tr>
 </table>
@@ -218,11 +218,11 @@ Arrête:
 <table>
 <tr><th>Montant de l'avance</th><th>Revenus (2 adultes 1 enfant)</th><th>Revenus (2 adultes 2 enfants)</th><th>Revenus (2 adultes 3 enfants)</th><th>Revenus (2 adultes 4 enfants)</th></tr>
 <tr><td>Montant maximal selon l'art. 9 al. 1 let. a LARACE</td><td>jusqu'à Fr. 5480</td><td>jusqu'à Fr. 6230</td><td>jusqu'à Fr. 7240</td><td>jusqu'à Fr. 8150</td></tr>
-<tr><td>Fr. 820</td><td>jusqu'à Fr. 5565</td><td>jusqu'à Fr. 6330</td><td>jusqu'à Fr. 7360</td><td>jusqu'à Fr. 8280</td></tr>
-<tr><td>Fr. 684</td><td>jusqu'à Fr. 5650</td><td>jusqu'à Fr. 6430</td><td>jusqu'à Fr. 7480</td><td>jusqu'à Fr. 8410</td></tr>
-<tr><td>Fr. 548</td><td>jusqu'à Fr. 5735</td><td>jusqu'à Fr. 6530</td><td>jusqu'à Fr. 7600</td><td>jusqu'à Fr. 8540</td></tr>
-<tr><td>Fr. 412</td><td>jusqu'à Fr. 5820</td><td>jusqu'à Fr. 6630</td><td>jusqu'à Fr. 7720</td><td>jusqu'à Fr. 8670</td></tr>
-<tr><td>Fr. 276</td><td>jusqu'à Fr. 5905</td><td>jusqu'à Fr. 6730</td><td>jusqu'à Fr. 7840</td><td>jusqu'à Fr. 8800</td></tr>
+<tr><td>Fr. 840</td><td>jusqu'à Fr. 5565</td><td>jusqu'à Fr. 6330</td><td>jusqu'à Fr. 7360</td><td>jusqu'à Fr. 8280</td></tr>
+<tr><td>Fr. 700</td><td>jusqu'à Fr. 5650</td><td>jusqu'à Fr. 6430</td><td>jusqu'à Fr. 7480</td><td>jusqu'à Fr. 8410</td></tr>
+<tr><td>Fr. 560</td><td>jusqu'à Fr. 5735</td><td>jusqu'à Fr. 6530</td><td>jusqu'à Fr. 7600</td><td>jusqu'à Fr. 8540</td></tr>
+<tr><td>Fr. 420</td><td>jusqu'à Fr. 5820</td><td>jusqu'à Fr. 6630</td><td>jusqu'à Fr. 7720</td><td>jusqu'à Fr. 8670</td></tr>
+<tr><td>Fr. 280</td><td>jusqu'à Fr. 5905</td><td>jusqu'à Fr. 6730</td><td>jusqu'à Fr. 7840</td><td>jusqu'à Fr. 8800</td></tr>
 <tr><td>Fr. 140</td><td>jusqu'à Fr. 5990</td><td>jusqu'à Fr. 6830</td><td>jusqu'à Fr. 7960</td><td>jusqu'à Fr. 8930</td></tr>
 <tr><td>Pas de droit à l'avance</td><td>dès Fr. 5991</td><td>dès Fr. 6831</td><td>dès Fr. 7961</td><td>dès Fr. 8931</td></tr>
 </table>
@@ -242,11 +242,11 @@ Arrête:
 <table>
 <tr><th>Revenu</th><th>Montant de l'avance</th></tr>
 <tr><td>Jusqu'à Fr. 1200</td><td>Montant maximal selon art. 9 al. 1 let. a LARACE</td></tr>
-<tr><td>Jusqu'à Fr. 1300</td><td>Fr. 820</td></tr>
-<tr><td>Jusqu'à Fr. 1400</td><td>Fr. 684</td></tr>
-<tr><td>Jusqu'à Fr. 1500</td><td>Fr. 548</td></tr>
-<tr><td>Jusqu'à Fr. 1600</td><td>Fr. 412</td></tr>
-<tr><td>Jusqu'à Fr. 1700</td><td>Fr. 276</td></tr>
+<tr><td>Jusqu'à Fr. 1300</td><td>Fr. 840</td></tr>
+<tr><td>Jusqu'à Fr. 1400</td><td>Fr. 700</td></tr>
+<tr><td>Jusqu'à Fr. 1500</td><td>Fr. 560</td></tr>
+<tr><td>Jusqu'à Fr. 1600</td><td>Fr. 420</td></tr>
+<tr><td>Jusqu'à Fr. 1700</td><td>Fr. 280</td></tr>
 <tr><td>Jusqu'à Fr. 1800</td><td>Fr. 140</td></tr>
 <tr><td>Dès Fr. 1801</td><td>Pas de droit à l'avance</td></tr>
 </table>
