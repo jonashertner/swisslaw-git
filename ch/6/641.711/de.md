@@ -3,11 +3,11 @@ sr: "641.711"
 title: "Verordnung vom 30. November 2012 über die Reduktion der CO<sub>2</sub>-Emissionen (CO<sub>2</sub>-Verordnung)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/856"
 language: de
-version: 2022-10-01
+version: 2023-01-01
 adopted: 2012-11-30
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20221001/de/xml/fedlex-data-admin-ch-eli-cc-2012-856-20221001-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/856/20221001/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2012-856-20230101-de-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/856/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/856/20221001/de"
 
 (CO<sub>2</sub>-Verordnung)
 
-vom 30. November 2012 (Stand am 1. Oktober 2022)
+vom 30. November 2012 (Stand am 1. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -635,27 +635,39 @@ In Anwendung der Prüf- und Korrelationsverfahren nach Absatz 1 entsprechen die 
 
 #### Art. 18
 
-**Grossimporteur**
+**Grossimporteur**[^18-1]
 
-<sup>1</sup> Ein Importeur gilt im Referenzjahr in Bezug auf seine Neuwagenflotten als Grossimporteur von Personenwagen, wenn aus diesen Flotten im Jahr vor dem Referenzjahr mindestens 50 Personenwagen erstmals in Verkehr gesetzt wurden.
+<sup>1</sup>
 
-<sup>2</sup> Ein Importeur gilt im Referenzjahr in Bezug auf seine Neuwagenflotten als Grossimporteur von Lieferwagen oder leichten Sattelschleppern, wenn aus diesen Flotten im Jahr vor dem Referenzjahr mindestens sechs solcher Fahrzeuge erstmals in Verkehr gesetzt wurden.
+Ein Importeur gilt in einem Referenzjahr für die jeweiligen Fahrzeuge als Grossimporteur, wenn die betreffende Neuwagenflotte am 31. Dezember des Referenzjahres mindestens die folgende Anzahl Fahrzeuge umfasst:
+
+- a. 50 Personenwagen; oder
+- b. sechs Lieferwagen oder leichte Sattelschlepper.
+
+<sup>2</sup> Bestand eine Neuwagenflotte eines Importeurs im Vorjahr aus der Anzahl Fahrzeuge nach Absatz 1 oder mehr, so wird der Importeur für die betreffenden Fahrzeuge im Referenzjahr provisorisch wie ein Grossimporteur behandelt.
+
+<sup>3</sup> Bestand eine Neuwagenflotte eines Importeurs im Vorjahr aus weniger Fahrzeugen als jenen nach Absatz 1, so kann der Importeur beim Bundesamt für Energie (BFE) beantragen, dass er im Referenzjahr ab dem Datum der Gutheissung des Gesuchs für die betreffenden Fahrzeuge provisorisch wie ein Grossimporteur behandelt wird.
+
+<sup>4</sup> Stellt sich am 31. Dezember des Referenzjahres heraus, dass die Neuwagenflotte nach Absatz 2 oder 3 aus weniger Fahrzeugen als jenen nach Absatz 1 besteht, so gilt der Importeur für die betreffenden Fahrzeuge im Referenzjahr als Kleinimporteur.
+
+[^18-1]: Fassung gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 #### Art. 19
 
-**Provisorische Behandlung als Grossimporteur**
+[^19-1]
 
-<sup>1</sup> Ein Importeur kann beim Bundesamt für Energie (BFE) beantragen, im Referenzjahr in Bezug auf seine Neuwagenflotten provisorisch als Grossimporteur behandelt zu werden, wenn aus diesen Flotten im Jahr vor dem Referenzjahr höchstens 49 Personenwagen beziehungsweise höchstens fünf Lieferwagen oder leichte Sattelschlepper erstmals in Verkehr gesetzt wurden.
-
-<sup>2</sup> Der betreffenden Neuwagenflotte angerechnet werden Personenwagen beziehungsweise Lieferwagen oder leichte Sattelschlepper, die im Referenzjahr ab dem Datum der Genehmigung des Antrags nach Absatz 1 erstmals in Verkehr gesetzt werden.
-
-<sup>3</sup> Werden im Referenzjahr höchstens 49 Personenwagen beziehungsweise höchstens fünf Lieferwagen oder leichte Sattelschlepper erstmals in Verkehr gesetzt, so muss der Importeur über jedes Fahrzeug der betreffenden Neuwagenflotte einzeln abrechnen.
+[^19-1]: Aufgehoben durch Ziff. I der V vom 4. Mai 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 #### Art. 20
 
-**Kleinimporteur**
+**Kleinimporteur**[^20-1]
 
-Als Kleinimporteur gilt in Bezug auf seine Neuwagenflotten im Referenzjahr ein Importeur, wenn aus seinen Flotten im Jahr vor dem Referenzjahr höchstens 49 Personenwagen beziehungsweise höchstens fünf Lieferwagen oder leichte Sattelschlepper erstmals in Verkehr gesetzt wurden und wenn er im Referenzjahr nicht provisorisch als Grossimporteur behandelt wird.
+Ein Importeur gilt in einem Referenzjahr für die jeweiligen Fahrzeuge als Kleinimporteur, wenn die betreffende Neuwagenflotte am 31. Dezember des Referenzjahres weniger Fahrzeuge umfasst als:
+
+- a. 50 Personenwagen; oder
+- b. sechs Lieferwagen oder leichte Sattelschlepper.
+
+[^20-1]: Fassung gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 #### Art. 21
 
@@ -1135,7 +1147,7 @@ Reicht der Anteil nach Absatz 2 nicht aus, um die Ansprüche vollständig zu erf
 
 <sup>4</sup> Emissionsrechte, die nicht kostenlos zugeteilt werden können, werden gelöscht.
 
-[^46f-1]: [SR 641.714.11](https://fedlex.data.admin.ch/eli/cc/2017/378)
+[^46f-1]: [[AS 2017 3477](https://fedlex.data.admin.ch/eli/oc/2017/378); [2019 1477](https://fedlex.data.admin.ch/eli/oc/2019/284)]
 [^46f-2]: Fassung gemäss Ziff. I der V vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
 [^46f-3]: Aufgehoben durch Ziff. I der V vom 25. Nov. 2020, mit Wirkung seit 1. Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
 [^46f-4]: Fassung gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
@@ -1264,7 +1276,7 @@ Das BAFU oder eine von ihm beauftragte Stelle erhebt die Daten, die erforderlich
 [^51-2]: Fassung gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 [^51-3]: Fassung gemäss Ziff. I der V vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
 [^51-4]: Fassung gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
-[^51-5]: [SR 641.714.11](https://fedlex.data.admin.ch/eli/cc/2017/378)
+[^51-5]: [[AS 2017 3477](https://fedlex.data.admin.ch/eli/oc/2017/378); [2019 1477](https://fedlex.data.admin.ch/eli/oc/2019/284)]
 
 #### Art. 52
 
@@ -3699,7 +3711,7 @@ Im Sinne dieses Anhangs bedeuten:
 
 Für die Festlegung des Werts für den in den Berechnungen der Emissionsverminderungen notwendige Paramater Oxidationsfaktor (OX) ist der folgende Entscheidungsbaum zu verwenden:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20221001/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20230101/de/xml/image/image1.png)
 
 ### 3.3 Ex-ante Berechnung der Emissionsverminderungen
 
@@ -3912,11 +3924,11 @@ Anhang 4[^t-6]
 
 Anhang 4a[^t-7]
 
-(Art. 28 Abs. 1)
+(Art. 28)
 
 ## Berechnung der individuellen Zielvorgabe
 
-[^t-7]: Eingefügt durch Ziff. II Abs. 3 der V vom 1. Nov. 2017 ([AS 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)). Bereinigt gemäss Ziff. I der V des UVEK vom 16. Sept. 2019 ([AS 2019 2959](https://fedlex.data.admin.ch/eli/oc/2019/541)), vom 18. Sept. 2020 ([AS 2020 3911](https://fedlex.data.admin.ch/eli/oc/2020/727)), Ziff. II Abs. 1 der V vom 25. Nov. 2020 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)) und vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
+[^t-7]: Eingefügt durch Ziff. II Abs. 3 der V vom 1. Nov. 2017 ([AS 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)). Bereinigt gemäss Ziff. I der V des UVEK vom 16. Sept. 2019 ([AS 2019 2959](https://fedlex.data.admin.ch/eli/oc/2019/541)), vom 18. Sept. 2020 ([AS 2020 3911](https://fedlex.data.admin.ch/eli/oc/2020/727)), Ziff. II Abs. 1 der V vom 25. Nov. 2020 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)), vom 24. Nov. 2021 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)) und Ziff. I der V des UVEK vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 (AS **202****2** 798).
 
 ### 1 Berechnung der individuellen Zielvorgabe
 
@@ -3947,7 +3959,8 @@ Anhang 4a[^t-7]
   - c. 2017: 1588 kg;
   - d. 2018: 1601 kg;
   - e. 2019: 1636 kg;
-  - f. 2020: 1674 kg.
+  - f. 2020: 1674 kg;
+  - g. 2021: 1693 kg.
 
 ### 2.2 Lieferwagen und leichte Sattelschlepper
 
@@ -3957,7 +3970,8 @@ Anhang 4a[^t-7]
 
   - a. 2018: 2056 kg;
   - b. 2019: 2067 kg;
-  - c. 2020: 2089 kg.
+  - c. 2020: 2089 kg;
+  - d. 2021: 2094 kg.
   - [tab]
 
 Anhang 5[^t-8]
@@ -3966,7 +3980,7 @@ Anhang 5[^t-8]
 
 ## Sanktionsbeträge bei Überschreiten der individuellen Zielvorgabe (Art. 13 Abs. 1 des CO<sub>2</sub>-Gesetzes)
 
-[^t-8]: Fassung gemäss Ziff. I Abs. 2 der V des UVEK vom 21. Sept. 2018 ([AS 2018 3497](https://fedlex.data.admin.ch/eli/oc/2018/567)). Bereinigt gemäss Ziff. I der V des UVEK vom 16. Sept. 2019 ([AS 2019 2959](https://fedlex.data.admin.ch/eli/oc/2019/541)), vom 18. Sept. 2020 ([AS 2020 3911](https://fedlex.data.admin.ch/eli/oc/2020/727)) und Ziff. II Abs. 1 der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
+[^t-8]: Fassung gemäss Ziff. I Abs. 2 der V des UVEK vom 21. Sept. 2018 ([AS 2018 3497](https://fedlex.data.admin.ch/eli/oc/2018/567)). Bereinigt gemäss Ziff. I der V des UVEK vom 16. Sept. 2019 ([AS 2019 2959](https://fedlex.data.admin.ch/eli/oc/2019/541)), vom 18. Sept. 2020 ([AS 2020 3911](https://fedlex.data.admin.ch/eli/oc/2020/727)), Ziff. II Abs. 1 der V vom 24. Nov. 2021 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)) und Ziff. I der V des UVEK vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 798](https://fedlex.data.admin.ch/eli/oc/2022/798)).
 
 ### 1 Sanktionsbeträge für das Referenzjahr 2017
 
@@ -3993,7 +4007,8 @@ Die zu entrichtenden Sanktionsbeträge bei Überschreiten der individuellen Ziel
 - a. für das Referenzjahr 2019: 111.00 Franken;
 - b. für das Referenzjahr 2020: 109.00 Franken;
 - c. für das Referenzjahr 2021: 103.50 Franken;
-- d. für das Referenzjahr 2022: 104 Franken.
+- d. für das Referenzjahr 2022: 104 Franken;
+- e. für das Referenzjahr 2023: 101 Franken.
 - [tab]
 
 Anhang 6[^t-9]
@@ -4278,7 +4293,6 @@ Anhang 9[^t-12]
 
   - 1\. die innerhalb eines Produktbenchmarks genutzte Wärme gemäss Ziffer 1.7;
   - 2\. das Verhältnis der direkten Emissionen zur Summe der direkten und indirekten Emissionen gemäss Ziffer 4.1.
-  - [tab]
 
 Anhang 10[^t-13]
 
@@ -4415,7 +4429,7 @@ Anhang 12[^t-15]
 
 ## Direkte Nutzung der Geothermie für die Wärmebereitstellung
 
-[^t-15]: Eingefügt durch Ziff. II Abs. 3 der V vom 1. Nov. 2017 ([AS 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)). Bereinigt gemäss Ziff. II Abs. 1 der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
+[^t-15]: Eingefügt durch Ziff. II Abs. 3 der V vom 1. Nov. 2017 ([AS 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)). Bereinigt gemäss Ziff. II Abs. 1 der V vom 24. Nov. 2021 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)) und Ziff. III der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
 
 ### 1 Prospektion und Erschliessung
 
@@ -4426,7 +4440,7 @@ Anhang 12[^t-15]
 
 - 2\.1
 
-  Im Rahmen der Prospektion anrechenbar sind nur Investitionskosten, die tatsächlich entstanden sind und unmittelbar für die wirtschaftliche und zweckmässige Ausführung erforderlich sind, für die:
+  Im Rahmen der Prospektion anrechenbar sind die Ausführungs-, die Planungs- die Projektleitungskosten sowie die Eigenleistungen der gesuchstellenden Person, sofern sie tatsächlich entstanden sind und unmittelbar für die wirtschaftliche und zweckmässige Ausführung erforderlich sind, für die:
 
   - a. Akquisition von neuen Geodaten im Prospektionsgebiet;
   - b. Arbeiten, die für die Akquisition von neuen Geodaten anfallen;
@@ -4434,18 +4448,20 @@ Anhang 12[^t-15]
 
 - 2\.2
 
-  Im Rahmen der Erschliessung anrechenbar sind nur Investitionskosten, die tatsächlich entstanden sind und unmittelbar für die wirtschaftliche und zweckmässige Ausführung notwendig sind für:
+  Im Rahmen der Erschliessung anrechenbar sind die Ausführungs-, die Planungs- und die Projektleitungskosten sowie die Eigenleistungen der gesuchstellenden Person, sofern sie tatsächlich entstanden sind und unmittelbar für die wirtschaftliche und zweckmässige Ausführung notwendig sind für:
 
-  - a. Vorbereitung, Erstellung und Abbau des Bohrplatzes;
+  - a. die Vorbereitung, die Erstellung und den Abbau des Bohrplatzes;
   - b. Bohrungen einschliesslich Verrohrung, Zementation und Komplettierung für alle geplanten Produktions-, Injektions- und Horchbohrungen;
   - c. Bohrloch- und Reservoirstimulationen;
   - d. Bohrlochtests;
   - e. Bohrlochmessungen einschliesslich Instrumentierung;
   - f. Zirkulationstests;
   - g. Analysen vorgefundener Substanzen;
-  - h. geologische Begleitung, Datenanalyse und Interpretation.
+  - h. die geologische Begleitung, die Datenanalyse und die Interpretation.
 
-- 2\.3 Nicht anrechenbar sind die Kosten, die im Rahmen von behördlichen Abläufen im Zusammenhang mit der Prospektion und der Erschliessung anfallen.
+- 2\.3 Planungs- und Projektleitungskosten werden höchstens bis zu einer Höhe von 15 Prozent der anrechenbaren Ausführungskosten angerechnet. Die vor der Gesuchseinreichung entstanden Kosten sind anrechenbar.
+- 2\.4 Eigenleistungen der gesuchstellenden Person wie eigene Planungs- oder Ausführungsleistungen sind nur anrechenbar, wenn sie üblich sind und mittels detailliertem Arbeitsrapport nachgewiesen werden können.
+- 2\.5 Nicht anrechenbar sind die Kosten, die im Rahmen von behördlichen Abläufen im Zusammenhang mit der Prospektion und der Erschliessung anfallen.
 
 ### 3 Verfahren für eine Unterstützung der Prospektion
 
@@ -4564,7 +4580,6 @@ Anhang 12[^t-15]
 - 5\.1 Die gesuchstellende Person stellt dem swisstopo und dem Standortkanton jeweils spätestens sechs Monate nach der Erhebung die jeweiligen Geodaten nach den technischen Vorgaben des swisstopo unentgeltlich zur Verfügung.
 - 5\.2 Das swisstopo darf diese Geodaten gemäss den Zielsetzungen des Geoinformationsgesetz vom 5. Oktober 2007[^annex12-lvlu1-lvl5-1] sowie der Landesgeologieverordnung vom 21. Mai 2008[^annex12-lvlu1-lvl5-2] nutzen und bearbeiten, die Standortkantone gemäss ihren jeweiligen kantonalen Regelungen.
 - 5\.3 Es stellt die primären und die prozessierten primären Geodaten innert 24 Monaten nach Abschluss der Prospektion und innert 12 Monaten nach Abschluss der Erschliessung der Öffentlichkeit zur Verfügung.
-- [tab]
 
 [^annex12-lvlu1-lvl5-1]: [SR 510.62](https://fedlex.data.admin.ch/eli/cc/2008/388)
 [^annex12-lvlu1-lvl5-2]: [SR 510.624](https://fedlex.data.admin.ch/eli/cc/2008/391)
@@ -4575,14 +4590,15 @@ Anhang 13[^t-16]
 
 ## Zur Teilnahme am EHS verpflichtete Betreiber von Luftfahrzeugen
 
-[^t-16]: Eingefügt durch Ziff. II Abs. 3 der V vom 13. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
+[^t-16]: Eingefügt durch Ziff. II Abs. 3 der V vom 13. Nov. 2019 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)). Bereinigt gemäss Ziff. II Abs. 3 der V vom 4. Mai 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 - 1\.
 
   Betreiber von Luftfahrzeugen sind zur Teilnahme am EHS verpflichtet, wenn sie folgende Flüge durchführen:
 
   - a. Inlandflüge in der Schweiz;
-  - b. Flüge von der Schweiz in die Mitgliedstaaten des EWR.
+  - b. Flüge von der Schweiz in die Mitgliedstaaten des EWR;
+  - c. Flüge von der Schweiz in das Vereinigte Königreich von Grossbritannien und Nordirland (UK).
 
 - 2\.
 

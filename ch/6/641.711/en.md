@@ -3,11 +3,11 @@ sr: "641.711"
 title: "Ordinance of 30 November 2012 for the Reduction of CO<sub>2</sub> Emissions (CO<sub>2</sub> Ordinance)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/856"
 language: en
-version: 2022-10-01
+version: 2023-01-01
 adopted: 2012-11-30
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20221001/en/xml/fedlex-data-admin-ch-eli-cc-2012-856-20221001-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/856/20221001/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20230101/en/xml/fedlex-data-admin-ch-eli-cc-2012-856-20230101-en-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/856/20230101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (CO<sub>2</sub> Ordinance)
 
-of 30 November 2012 (Status as of 1 October 2022)
+of 30 November 2012 (Status as of 1 January 2023)
 
 The Swiss Federal Council,
 
@@ -562,7 +562,7 @@ The importer of a vehicle is the person who:
 <sup>2</sup> They do not apply to vans with an unladen weight of over 2.585 t measured in accordance with the measurement procedure for heavy vehicles in Regulation (EC) No 595/2009[^17b-2] and which are not exclusively electrically powered with electricity or with hydrogen as the energy source, and to special-purpose vehicles in accordance with Annex 2 Part A number 5 of Directive 2007/46/EC[^17b-3] or in accordance with Annex I Part A number 5 of Regulation (EU) 2018/858[^17b-4].
 
 [^17b-1]: Inserted by No I of the O of 4 May 2022, in force since 1 June 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
-[^17b-2]: Regulation (EG) No 595/2009 of the European Parliament and of the Council of 18 June 2009 on type-approval of motor vehicles and engines with respect to emissions from heavy duty vehicles (Euro VI) and on access to vehicle repair and maintenance information and amending Regulation (EC) No 715/2007 and Directive 2007/46/EC and repealing Directives 80/1269/EEC, 2005/55/EC and 2005/78/EC, OJ L 188 of 18.7.2009, p. 1; last amended by Regulation (EU) No 133/2014, OJ L 47 of 18.2.2014, p. 1.
+[^17b-2]: Regulation (EC) No 595/2009 of the European Parliament and of the Council of 18 June 2009 on type-approval of motor vehicles and engines with respect to emissions from heavy duty vehicles (Euro VI) and on access to vehicle repair and maintenance information and amending Regulation (EC) No 715/2007 and Directive 2007/46/EC and repealing Directives 80/1269/EEC, 2005/55/EC and 2005/78/EC, OJ L 188 of 18.7.2009, p. 1; last amended by Regulation (EU) No 133/2014, OJ L 47 of 18.2.2014, p. 1.
 [^17b-3]: See footnote to Art. 17*a* para. 2.
 [^17b-4]: See footnote to Art. 17 para. 2 let. b.
 
@@ -572,7 +572,7 @@ The importer of a vehicle is the person who:
 
 <sup>1</sup> The provisions of this Chapter apply to articulated vehicles in accordance with Article 11 paragraph 2 letter i RVTRO with a maximum permissible weight not exceeding 3.50 t.
 
-<sup>2</sup> They do not apply to articulated vehicles with an unladen weight of over 2.585 t, measured in accordance with the measurement procedure for heavy vehicles in Regulation (EC) No 595/2009[^17c-2], and to special-purpose vehicles in accordance with Annex 2 Part A number 5 of Directive 2007/46/EG[^17c-3] or in accordance with Annex 1 Part A number 5 of Regulation (EU) 2018/858[^17c-4].
+<sup>2</sup> They do not apply to articulated vehicles with an unladen weight of over 2.585 t, measured in accordance with the measurement procedure for heavy vehicles in Regulation (EC) No 595/2009[^17c-2], and to special-purpose vehicles in accordance with Annex 2 Part A number 5 of Directive 2007/46/EC[^17c-3] or in accordance with Annex 1 Part A number 5 of Regulation (EU) 2018/858[^17c-4].
 
 [^17c-1]: Inserted by No I of the O of 4 May 2022, in force since 1 June 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 [^17c-2]: See footnote to Art. 17*b* para. 2.
@@ -631,31 +631,43 @@ Pursuant to the test and correlation procedures in accordance with paragraph 1, 
 [^17f-3]: Commission Implementing Regulation (EU) 2017/1152 of 2 June 2017 setting out a methodology for determining the correlation parameters necessary for reflecting the change in the regulatory test procedure with regard to light commercial vehicles and amending Implementing Regulation (EU) No 293/2012, OJ L 175 of 7.7.2017, p. 644; last amended by Commission Implementing Regulation (EU) 2019/1839, OJ L 282 of 4.11.2019, p. 1.
 [^17f-4]: Commission Implementing Regulation (EU) 2017/1153 of 2 June 2017 setting out a methodology for determining the correlation parameters necessary for reflecting the change in the regulatory test procedure and amending Regulation (EU) No 1014/2010, OJ L 175 of 7.7.2017, p. 679; last amended by Commission Implementing Regulation (EU) 2019/1840, OJ L 282 of 4.11.2019, p. 9.
 
-### Section 2 Importer and Manufacturer
+### Section 2 Importers and Manufacturers
 
 #### Art. 18
 
-**Major importer**
+**Large-scale importer**[^18-1]
 
-<sup>1</sup> An importer is deemed to be a large-scale importer of passenger cars in the reference year in relation to its fleets of new vehicles if at least 50 passenger cars from these fleets were registered for the first time in the year before the reference year.
+<sup>1</sup>
 
-<sup>2</sup> An importer is deemed to be a large-scale importer of vans or light articulated vehicles in the reference year in relation to its fleets of new vehicles if at least six such vehicles from these fleets were registered for the first time in the year before the reference year.
+An importer is deemed to be a large-scale importer in a reference year with respect to the vehicles in question if the new fleet comprises at least the following number of vehicles on 31 December of the reference year:
+
+- a. 50 passenger cars; or
+- b. six vans or light articulated vehicles.
+
+<sup>2</sup> If an importer's fleet of new vehicles in the previous year comprised the number of vehicles specified in paragraph 1 or more, the importer shall be treated provisionally as a large-scale importer in the reference year for the vehicles in question.
+
+<sup>3</sup> If an importer's fleet of new vehicles in the previous year comprised fewer vehicles than those specified in paragraph 1, the importer may apply to the Swiss Federal Office of Energy (SFOE) to be treated provisionally as a large-scale importer in the reference year in relation to the vehicles in question from the date of approval of the application.
+
+<sup>4</sup> If, on 31 December of the reference year, the fleet of new vehicles referred to in paragraph 2 or 3 comprises fewer vehicles than those specified in paragraph 1, the importer shall be deemed to be a small-scale importer in relation to the vehicles concerned in the reference year.
+
+[^18-1]: Amended by No I of the O of 4 May 2022, in force since 1 Jan. 2023 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 #### Art. 19
 
-**Provisional treatment as a large-scale importer**
+[^19-1]
 
-<sup>1</sup> An importer may apply to the Swiss Federal Office of Energy (SFOE) to be provisionally treated as a large-scale importer in the reference year in relation to its fleets of new vehicles if no more than 49 passenger cars or, where applicable, no more than five vans or light articulated vehicles were registered for the first time from these fleets in the year before the reference year.
-
-<sup>2</sup> Passenger cars or, where applicable, vans or light articulated vehicles that are registered for the first time in the reference year after the date on which the application in terms of paragraph 1 is approved shall be included in the relevant fleet of new vehicles.
-
-<sup>3</sup> If no more than 49 passenger cars or, where applicable, no more than five vans or light articulated vehicles are registered for the first time in the reference year, the importer must account individually for each vehicle in the relevant fleet of new vehicles.
+[^19-1]: Repealed by No I of the O of 4 May 2022, in force since 1 Jan. 2023 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 #### Art. 20
 
-**Small-scale importers**
+**Small-scale importer**[^20-1]
 
-An importer is deemed to be small-scale importer be in relation to its fleets of new vehicles in the reference year if it registered no more than 49 passenger cars or, where applicable, no more than five vans or light articulated vehicles from its fleets for the first time in the year before the reference year and if it is not provisionally treated as a large-scale importer in the reference year.
+An importer is deemed to be a small-scale importer in a reference year with respect to the vehicles in question if the new fleet comprises fewer than the following number of vehicles on 31 December of the reference year:
+
+- a. 50 passenger cars; or
+- b. six vans or light articulated vehicles.
+
+[^20-1]: Amended by No I of the O of 4 May 2022, in force since 1 Jan. 2023 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 #### Art. 21
 
@@ -1135,7 +1147,7 @@ If the portion under paragraph 2 is insufficient to meet claims in full, the emi
 
 <sup>4</sup> Emission allowances which cannot be allocated free of charge are cancelled.
 
-[^46f-1]: [SR 641.714.11](https://fedlex.data.admin.ch/eli/cc/2017/378)
+[^46f-1]: [[AS 2017 3477](https://fedlex.data.admin.ch/eli/oc/2017/378); [2019 1477](https://fedlex.data.admin.ch/eli/oc/2019/284)]
 [^46f-2]: Amended by No I of the O of 25 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
 [^46f-3]: Repealed by No I of the O of 25 Nov. 2020, with effect from 1 Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
 [^46f-4]: Amended by No I of the O of 4 May 2022, in force since 1 June 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
@@ -1262,7 +1274,7 @@ The FOEN or a FOEN-authorised entity shall collect the data concerning installat
 [^51-2]: Amended by No I of the O of 4 May 2022, in force since 1 June 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 [^51-3]: Amended by No I of the O of 25 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
 [^51-4]: Amended by No I of the O of 4 May 2022, in force since 1 June 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
-[^51-5]: [SR 641.714.11](https://fedlex.data.admin.ch/eli/cc/2017/378)
+[^51-5]: [[AS 2017 3477](https://fedlex.data.admin.ch/eli/oc/2017/378); [2019 1477](https://fedlex.data.admin.ch/eli/oc/2019/284)]
 
 #### Art. 52
 
@@ -3064,7 +3076,7 @@ Holders of personal accounts with a registered office or domicile outside of Swi
 The FOCBS may on request provisionally refund the CO<sub>2</sub> levy if the installation operator:
 
 - a. was subject to a reduction obligation in the years 2008–2012; and
-- b. has reportsd to the FOEN its obligation to participate in the ETS from 2013, or submitted an application for determination of its reduction obligation or its participation in the ETS from 2013.
+- b. has reported to the FOEN its obligation to participate in the ETS from 2013, or submitted an application for determination of its reduction obligation or its participation in the ETS from 2013.
 
 <sup>2</sup> If an installation operator fails to fulfil the requirements for participation in the ETS or if its application for a determination of its reduction obligation is rejected, then it must fully repay the refunded amounts with interest.
 
@@ -3691,11 +3703,11 @@ In this Annex:
 
 \2. The supply routes for the deposited waste must lie outside the system boundary.
 
-### 3.2 Determining an oxidation factors
+### 3.2 Determining an oxidation factor
 
 For determining the value of the oxidation factor parameter (OX) required to calculate the emission reductions, the following decision tree must be used:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20221001/en/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20230101/en/xml/image/image1.png)
 
 ### 3.3 Ex-ante calculation of emission reductions
 
@@ -3907,11 +3919,11 @@ The CO<sub>2</sub> emissions are rounded to the first digit following the decima
 
 Annex 4a[^t-7]
 
-(Art. 28 para. 1)
+(Art. 28)
 
 ## Calculation of the individual target
 
-[^t-7]: Inserted by No II para. 3 of the O of 1 Nov. 2017 ([AS 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)). Revised by No I of the DETEC Ordinance of 16 Sept. 2019 ([AS 2019 2959](https://fedlex.data.admin.ch/eli/oc/2019/541)), of 18 Sept. 2020 ([AS 2020 3911](https://fedlex.data.admin.ch/eli/oc/2020/727)), No II para. 1 of the O of 25 Nov. 2020 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)) and of 24 Nov. 2021, in force since 1 Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
+[^t-7]: Inserted by No II para. 3 of the O of 1 Nov. 2017 ([AS 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)). Revised by No I of the DETEC Ordinance of 16 Sept. 2019 ([AS 2019 2959](https://fedlex.data.admin.ch/eli/oc/2019/541)), of 18 Sept. 2020 ([AS 2020 3911](https://fedlex.data.admin.ch/eli/oc/2020/727)), No II para. 1 of the O of 25 Nov. 2020 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)), of 24 Nov. 2021 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)) and No I of the DETEC Ordinance of 23 Nov. 2022, in force since 1 Jan. 2023 ([AS 2022 798](https://fedlex.data.admin.ch/eli/oc/2022/798)).
 
 ### 1 Calculation of the individual target for small-scale importers and manufacturers
 
@@ -3942,7 +3954,8 @@ Annex 4a[^t-7]
   - c. 2017: 1588 kg;
   - d. 2018: 1601 kg;
   - e. 2019: 1636 kg;
-  - f. 2020: 1674 kg.
+  - f. 2020: 1674 kg;
+  - g. 2021: 1693 kg.
 
 ### 2.2 Vans and light articulated vehicles
 
@@ -3952,8 +3965,8 @@ Annex 4a[^t-7]
 
   - a. 2018: 2056 kg;
   - b. 2019: 2067 kg;
-  - c. 2020: 2089 kg.
-  - [tab]
+  - c. 2020: 2089 kg;
+  - d. 2021: 2094 kg.
 
 Annex 5[^t-8]
 
@@ -3961,7 +3974,7 @@ Annex 5[^t-8]
 
 ## Sanction amounts for exceeding individual targets (Art. 13 para. 1 of the CO<sub>2</sub> Act)
 
-[^t-8]: Amended by No I para. 2 of the DETEC Ordinance of 21 Sept. 2018 ([AS 2018 3497](https://fedlex.data.admin.ch/eli/oc/2018/567)). Revised by No I of the DETEC Ordinance of 16 Sept. 2019 ([AS 2019 2959](https://fedlex.data.admin.ch/eli/oc/2019/541)), of 18 Sept. 2020 ([AS 2020 3911](https://fedlex.data.admin.ch/eli/oc/2020/727)) and No II para. 1 of the O of 24 Nov. 2021, in force since 1 Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
+[^t-8]: Amended by No I para. 2 of the DETEC Ordinance of 21 Sept. 2018 ([AS 2018 3497](https://fedlex.data.admin.ch/eli/oc/2018/567)). Revised by No I of the DETEC Ordinance of 16 Sept. 2019 ([AS 2019 2959](https://fedlex.data.admin.ch/eli/oc/2019/541)), of 18 Sept. 2020 ([AS 2020 3911](https://fedlex.data.admin.ch/eli/oc/2020/727)), No II para. 1 of the O of 24 Nov. 2021 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)) and No I of the DETEC Ordinance of 23 Nov. 2022, in force since 1 Jan. 2023 ([AS 2022 798](https://fedlex.data.admin.ch/eli/oc/2022/798)).
 
 ### 1 Sanction amounts for the reference year 2017
 
@@ -3988,7 +4001,8 @@ The sanction amounts to be paid if the individual target is exceeded amount for 
 - a. for the reference year 2019: CHF 111.00;
 - b. for the reference year 2020: CHF 109.00;
 - c. for the reference year 2021: CHF 103.50;
-- d. for the reference year 2022: CHF 104.
+- d. for the reference year 2022: CHF 104;
+- e. for the reference year 2023: CHF 101.
 - [tab]
 
 Annex 6[^t-9]
@@ -4017,14 +4031,14 @@ An installation operator that engages in at least one of the following activitie
 - 14\. manufacture of mineral wool insulation material using glass, rock or slag with a melting capacity of over 20 tonnes per day;
 - 15\. drying or calcination of gypsum or production of plaster boards and other gypsum products in which combustion units with a total rated thermal input of over 20 MW are operated;
 - 16\. production of pulp from timber or other fibrous materials;
-- 17\. production of paper or cardboard with an production capacity of over 20 tonnes per day;
+- 17\. production of paper or cardboard with a production capacity of over 20 tonnes per day;
 - 18\. production of carbon black involving the carbonisation of organic substances such as oils, tars, cracker and distillation residues, where combustion units with a total rated thermal input of over 20 MW are operated;
 - 19\. production of nitric acid;
 - 20\. production of adipic acid;
 - 21\. production of glyoxal and glyoxylic acid;
 - 22\. production of ammonia;
-- 23\. production of bulk organic chemicals by cracking, reforming, partial or full oxidation or by similar processes, with an production capacity of over 100 tonnes per day;
-- 24\. production of hydrogen (H<sub>2</sub>) and synthesis gas by reforming or partial oxidation with an production capacity of over 25 tonnes per day;
+- 23\. production of bulk organic chemicals by cracking, reforming, partial or full oxidation or by similar processes, with a production capacity of over 100 tonnes per day;
+- 24\. production of hydrogen (H<sub>2</sub>) and synthesis gas by reforming or partial oxidation with a production capacity of over 25 tonnes per day;
 - 25\. production of soda ash (Na<sub>2</sub>CO<sub>3</sub>) and sodium bicarbonate (NaHCO<sub>3</sub>);
 - 26\. production of niacin.
 
@@ -4408,7 +4422,7 @@ Annex 12[^t-15]
 
 ## Direct use of geothermal energy for the provision of heat
 
-[^t-15]: Inserted by No II para. 3 of the O of 1 Nov. 2017 ([AS 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)). Revised in accordance with No II para. 3 of the O of 24 Nov. 2021, in force since 1 Jan. 2022 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
+[^t-15]: Inserted by No II para. 3 of the O of 1 Nov. 2017 ([AS 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)). Revised in accordance with No II para. 1 of the O of 24 Nov. 2021 ([AS 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)) and No III of the O of 23 Nov. 2022, in force since 1 Jan. 2023 ([AS 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
 
 ### 1 Prospecting and development
 
@@ -4419,7 +4433,7 @@ Annex 12[^t-15]
 
 - 2\.1
 
-  Eligible costs comprise only the investment costs for prospecting that are actual costs and are directly necessary for the economic and appropriate implementation of the project and which cover:
+  Eligible costs with regard to prospecting are the costs of implementation, planning and project management as well as the applicant’s own work, provided that they are actual costs and are directly necessary for the economic and appropriate implementation of the project and which cover:
 
   - a. the acquisition of new geodata in the prospecting area;
   - b. work required for the acquisition of new geodata;
@@ -4427,7 +4441,7 @@ Annex 12[^t-15]
 
 - 2\.2
 
-  Eligible costs comprise only the investment costs for development that are actual costs and are directly necessary for the economic and appropriate implementation of the project and which cover:
+  Eligible costs with regard to development are the costs of implementation, planning and project management as well as the applicant’s own work, provided that they are actual costs and are directly necessary for the economic and appropriate implementation of the project and which cover:
 
   - a. the preparation, construction and dismantling of the drilling site;
   - b. drilling, including pipework, cementation and completion for all planned production, injection, and monitoring wells;
@@ -4438,7 +4452,9 @@ Annex 12[^t-15]
   - g. analyses of substances found;
   - h. geological monitoring, data analysis and interpretation.
 
-- 2\.3 The costs incurred within the framework of official processes concerning prospecting and development shall not constitute eligible costs.
+- 2\.3 Planning and project management costs shall be taken into account up to a maximum of 15 per cent of the eligible implementation costs. Costs incurred prior to submission of the application are eligible.
+- 2\.4 The applicant's own work, such as planning or implementation work, is eligible only if it is customary and can be proven by means of a detailed work report.
+- 2\.5 The costs incurred within the framework of official processes concerning prospecting and development shall not constitute eligible costs.
 
 ### 3 Procedure to support prospecting
 
@@ -4454,7 +4470,7 @@ Annex 12[^t-15]
   - e. the measures planned to identify hazards and risks to health, occupational and operational safety, and the environment, in particular drinking water resources, and the measures planned to reduce these risks to a level that is as low, reasonable and practicable as possible.
 
 - 3\.2 Examination of the application
-- 3\.2.1 The SFOE SFOE shall appoint a representative of the Federal Office of Topography (swisstopo) to the independent panel of experts, in particular to assess the geoscientific project components and the added value for exploration in Switzerland.
+- 3\.2.1 The SFOE shall appoint a representative of the Federal Office of Topography (swisstopo) to the independent panel of experts, in particular to assess the geoscientific project components and the added value for exploration in Switzerland.
 - 3\.2.2
 
   The panel of experts shall examine and assess the application on the basis of the information referred to in point 3.1 and in particular with regard to:
@@ -4537,10 +4553,10 @@ Annex 12[^t-15]
 
   Where the contribution for development may be granted, the following points in particular shall be settled in the contract under Article 113 paragraph 5:
 
-  - a the milestones to be reached by the applicant and the deadlines to be met;
+  - a. the milestones to be reached by the applicant and the deadlines to be met;
   - b. the applicant’s obligation to inform the SFOE, in particular with regard to financial reports, final accounts and any changes to the project;
   - c. scope, conditions and due date of the contribution for development;
-  - d. subject to cantonal monopolies, the transfer, free of charge, of the installation to the Confederation and the granting to the Confederation of the right to purchase the property if a project is discontinued and not used for any other purpose,;
+  - d. subject to cantonal monopolies, the transfer, free of charge, of the installation to the Confederation and the granting to the Confederation of the right to purchase the property if a project is discontinued and not used for any other purpose;
   - e. the disclosure of all financial data necessary to calculate any losses or gains under Article 113*b*;
   - f. reasons leading to termination of the contract;
   - g. further requirements.
@@ -4567,14 +4583,15 @@ Annex 13[^t-16]
 
 ## Aircraft operators obliged to participate in the ETS
 
-[^t-16]: Inserted by No II para. 3 of the O of 13 Nov. 2019, in force since 1 Jan. 2020 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
+[^t-16]: Inserted by No II para. 3 of the O of 13 Nov. 2019 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)). Revised by No II para. 3 of the O of 4 May 2022, in force since 1 Jan. 2023 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 - 1\.
 
   Aircraft operators are obliged to participate in the ETS if they perform the following flights:
 
   - a. domestic flights in Switzerland;
-  - b. flights from Switzerland to member states of the EEA.
+  - b. flights from Switzerland to member states of the EEA;
+  - c. flights from Switzerland to the United Kingdom of Great Britain and Northern Ireland (UK).
 
 - 2\.
 
@@ -4827,3 +4844,5 @@ The verification of monitoring reports shall be carried out as follows:
 [^annex18-lvlu1-lvl4-1]: [SR 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
 [^annex18-lvlu1-lvl4-2]: Ordinance (EC) No 765/2008 of the European Parliament and of the Council of 9 July 2008 setting out the requirements for accreditation and market surveillance relating to the marketing of products and repealing Ordinance (EEC) No 339/93 of the Council, OJ L 218 of 13.8.2008, p. 30, last amended by Regulation (EU) 2019/1020, OJ L 169 of 25.6.2019, p. 1.
 [^annex18-lvlu1-lvl4-3]: Commission Implementing Ordinance (EU) 2018/2067 of 19 December 2018 on the verification of data and on the accreditation of verifiers pursuant to Directive 2003/87/EC of the European Parliament and of the Council, OJ L 334 of 31.12.2018, p. 94, last amended by Implementing Regulation (EU) 2020/2084, OJ L 423 of 15.12.2020, p. 23.
+
+## Inhaltsverzeichnis

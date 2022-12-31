@@ -3,11 +3,11 @@ sr: "641.711"
 title: "Ordinanza del 30 novembre 2012 sulla riduzione delle emissioni di CO<sub>2</sub> (Ordinanza sul CO<sub>2</sub>)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/856"
 language: it
-version: 2022-10-01
+version: 2023-01-01
 adopted: 2012-11-30
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20221001/it/xml/fedlex-data-admin-ch-eli-cc-2012-856-20221001-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/856/20221001/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2012-856-20230101-it-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/856/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/856/20221001/it"
 
 (Ordinanza sul CO<sub>2</sub>)
 
-del 30 novembre 2012 (Stato 1° ottobre 2022)
+del 30 novembre 2012 (Stato 1° gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -635,27 +635,39 @@ In applicazione della procedura di prova e di correlazione di cui al capoverso 1
 
 #### Art. 18
 
-**Grande importatore**
+**Grande importatore**[^18-1]
 
-<sup>1</sup> Un importatore è considerato nell’anno di riferimento, in relazione ai propri parchi veicoli nuovi, come grande importatore se almeno 50 automobili di questi parchi veicoli sono state immatricolate per la prima volta nell’anno precedente l’anno di riferimento.
+<sup>1</sup>
 
-<sup>2</sup> Un importatore è considerato nell’anno di riferimento, in relazione ai propri parchi veicoli nuovi, come grande importatore se almeno 6 autofurgoni o trattori a sella leggeri di questi parchi veicoli sono stati immatricolati per la prima volta nell’anno precedente l’anno di riferimento.
+Un importatore è considerato in un anno di riferimento grande importatore in relazione ai propri veicoli se al 31 dicembre di tale anno ha un parco veicoli nuovi costituito almeno dal seguente numero di veicoli:
+
+- a. 50 automobili; oppure
+- b. sei autofurgoni o trattori a sella leggeri.
+
+<sup>2</sup> Se il parco veicoli nuovi di un importatore nell’anno precedente era costituito dal numero di veicoli di cui al capoverso 1 oppure oltre, nell’anno di riferimento, per il veicolo in questione l’importatore è trattato provvisoriamente come un grande importatore.
+
+<sup>3</sup> Se nel corso dell’anno precedente il parco veicoli nuovi di un importatore era costituito da un numero di veicoli inferiore a quello previsto al capoverso 1, l’importatore può chiedere all’Ufficio federale dell’energia (UFE) di essere trattato provvisoriamente, nell’anno di riferimento, come un grande importatore a partire dalla data di approvazione della domanda per i veicoli in questione.
+
+<sup>4</sup> Se il 31 dicembre dell’anno di riferimento risulta che il parco veicoli nuovi di un importatore di cui ai capoversi 2 o 3 è costituito da un numero di veicoli inferiore a quello di cui al capoverso 1, nell’anno di riferimento egli è considerato un piccolo importatore in relazione al veicolo in questione.
+
+[^18-1]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 1° gen. 2023 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 #### Art. 19
 
-**Statuto provvisorio di grande importatore**
+[^19-1]
 
-<sup>1</sup> Un importatore può chiedere all’Ufficio federale dell’energia (UFE) di essere considerato provvisoriamente nell’anno di riferimento, in relazione ai propri parchi veicoli nuovi, come grande importatore se al massimo 49 automobili oppure se al massimo 5 autofurgoni o trattori a sella leggeri di questi parchi veicoli sono stati immatricolati per la prima volta nell’anno precedente l’anno di riferimento.
-
-<sup>2</sup> Nel corrispondente parco veicoli nuovi sono conteggiati automobili oppure autofurgoni e trattori a sella leggeri immatricolati per la prima volta nell’anno di riferimento a partire dalla data di approvazione della domanda secondo il capoverso 1.
-
-<sup>3</sup> Se nell’anno di riferimento l’importatore immatricola per la prima volta al massimo 49 automobili oppure al massimo 5 autofurgoni o trattori a sella leggeri, deve procedere a un conteggio separato per ogni veicolo del corrispondente parco veicoli nuovi.
+[^19-1]: Abrogato dal n. I dell’O del 4 mag. 2022, con effetto dal 1° gen. 2023 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 #### Art. 20
 
-**Piccolo importatore**
+**Piccolo importatore**[^20-1]
 
-Un importatore è considerato nell’anno di riferimento, in relazione ai propri parchi veicoli nuovi, come piccolo importatore se al massimo 49 automobili oppure al massimo 5 autofurgoni o trattori a sella leggeri di questi parchi veicoli sono stati immatricolati per la prima volta nell’anno precedente l’anno di riferimento e se nell’anno di riferimento non è provvisoriamente considerato come grande importatore.
+Un importatore è considerato, in un anno di riferimento, un piccolo importatore in relazione ai propri veicoli se il suo parco veicoli nuovi al 31 dicembre di tale anno è costituito da un numero di veicoli inferiore a:
+
+- a. 50 automobili; oppure
+- b. sei autofurgoni o trattori a sella leggeri.
+
+[^20-1]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 1° gen. 2023 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 #### Art. 21
 
@@ -819,7 +831,7 @@ Esso può chiedere ai grandi importatori il versamento di acconti trimestrali a 
 
 <sup>3</sup> L’UFE calcola gli importi degli acconti basandosi sui dati di cui al capoverso 1. Gli acconti già versati sono considerati nella fatturazione.
 
-<sup>4</sup> Se gli acconti versati superano la sanzione dovuta per l’intero anno per il parco veicoli nuovi, l’UFE rimborsa la differenza, compreso un interesse sugli importi da rimborsare.[^31-2]
+<sup>4</sup> Se gli acconti versati superano la sanzione dovuta per l’intero anno per il parco veicoli nuovi, l’UFE rimborsa la differenza, compreso un interesse sugli importi da rimborsare. [^31-2]
 
 [^31-1]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 [^31-2]: Introdotto dal n. I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
@@ -1133,7 +1145,7 @@ Se la quota di cui al capoverso 2 non è sufficiente per adempiere completamente
 
 <sup>4</sup> I diritti di emissione che non possono essere assegnati a titolo gratuito sono cancellati.
 
-[^46f-1]: [RS 641.714.11](https://fedlex.data.admin.ch/eli/cc/2017/378)
+[^46f-1]: [[RU 2017 3477](https://fedlex.data.admin.ch/eli/oc/2017/378); [2019 1477](https://fedlex.data.admin.ch/eli/oc/2019/284)]
 [^46f-2]: Nuovo testo giusta il n. I dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
 [^46f-3]: Abrogato dal n. I dell’O del 25 nov. 2020, con effetto dal 1° gen. 2021 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
 [^46f-4]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
@@ -1260,7 +1272,7 @@ L’UFAM, o un servizio da esso incaricato, rileva i dati che sono necessari per
 [^51-2]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 [^51-3]: Nuovo testo giusta il n. I dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
 [^51-4]: Nuovo testo giusta il n. I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
-[^51-5]: [RS 641.714.11](https://fedlex.data.admin.ch/eli/cc/2017/378)
+[^51-5]: [[RU 2017 3477](https://fedlex.data.admin.ch/eli/oc/2017/378); [2019 1477](https://fedlex.data.admin.ch/eli/oc/2019/284)]
 
 #### Art. 52
 
@@ -3274,7 +3286,7 @@ Ai gestori di impianti che si impegnano a ridurre le proprie emissioni di gas se
 
 **Domanda per l’impegno di riduzione 2022**
 
-I gestori di impianti che prorogano il loro impegno di riduzione secondo l’articolo 31 capoverso 1<sup>ter</sup> della legge sul CO<sub>2</sub> o che intendono contrarre un nuovo impegno di riduzione a partire dal 2022 secondo l’articolo 31 capoverso 1<sup>quater</sup> della legge sul CO<sub>2</sub><sub>,</sub> devono presentare la domanda entro il 31 luglio 2022. In deroga all’articolo 69 capoverso 2 lettera b, in caso di domande per nuovi impegni di riduzione devono essere fornite indicazioni sulle emissioni di gas serra degli anni 2019 e 2020.
+I gestori di impianti che prorogano il loro impegno di riduzione secondo l’articolo 31 capoverso 1<sup>ter</sup> della legge sul CO<sub>2</sub> o che intendono contrarre un nuovo impegno di riduzione a partire dal 2022 secondo l’articolo 31 capoverso 1<sup>quater</sup> della legge sul CO<sub>2,</sub> devono presentare la domanda entro il 31 luglio 2022. In deroga all’articolo 69 capoverso 2 lettera b, in caso di domande per nuovi impegni di riduzione devono essere fornite indicazioni sulle emissioni di gas serra degli anni 2019 e 2020.
 
 #### Art. 146r
 
@@ -3703,7 +3715,7 @@ Ai sensi del presente allegato si intendono per:
 
 Per la determinazione del valore del fattore di ossidazione (OX) necessario per i calcoli delle riduzioni di emissioni deve essere utilizzato il seguente albero decisionale:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20221001/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20230101/it/xml/image/image1.png)
 
 ### 3.3 Calcolo ex ante delle riduzioni delle emissioni
 
@@ -3916,11 +3928,11 @@ Allegato 4[^t-6]
 
 Allegato 4a[^t-7]
 
-(art. 28 cpv. 1)
+(art. 28)
 
 ## Calcolo dell’obiettivo di emissione individuale
 
-[^t-7]: Introdotto dal n. II cpv. 3 dell’O del 1° nov. 2017 ([RU 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)). Aggiornato dai n. I dell’O del DATEC del 16 set. 2019 ([RU 2019 2959](https://fedlex.data.admin.ch/eli/oc/2019/541)), del 18 set. 2020 1° nov. 2020 ([RU 2020 3911](https://fedlex.data.admin.ch/eli/oc/2020/727)), dal. n. II cpv. 1 dell’O del 25 nov. 2020 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)), e dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
+[^t-7]: Introdotto dal n. II cpv. 3 dell’O del 1° nov. 2017 ([RU 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)). Aggiornato dal n. I dell’O del DATEC del 16 set. 2019 ([RU 2019 2959](https://fedlex.data.admin.ch/eli/oc/2019/541)), del 18 set. 2020 1° nov. 2020 ([RU 2020 3911](https://fedlex.data.admin.ch/eli/oc/2020/727)), dal. n. II cpv. 1 dell’O del 25 nov. 2020 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)), dell’O del 24 nov. 2021 ([RU 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)) e dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 798](https://fedlex.data.admin.ch/eli/oc/2022/798)).
 
 ### 1 Calcolo dell’obiettivo individuale
 
@@ -3951,7 +3963,8 @@ Allegato 4a[^t-7]
   - c. 2017: 1588 kg;
   - d. 2018: 1601 kg;
   - e. 2019: 1636 kg;
-  - f. 2020: 1674 kg.
+  - f. 2020: 1674 kg;
+  - g. 2021: 1693 kg.
 
 ### 2.2 Autofurgoni e trattori a sella leggeri
 
@@ -3961,7 +3974,8 @@ Allegato 4a[^t-7]
 
   - a. 2018: 2056 kg;
   - b. 2019: 2067 kg;
-  - c. 2021: 2089 kg.
+  - c. 2021: 2089 kg;
+  - d. 2021: 2094 kg.
 
 Allegato 5[^t-8]
 
@@ -3969,7 +3983,7 @@ Allegato 5[^t-8]
 
 ## Importi delle sanzioni in caso di superamento dell’obiettivo individuale (art. 13 cpv. 1 legge sul CO<sub>2</sub>)
 
-[^t-8]: Nuovo testo giusta il n. I cpv. 2 dell’O del DATEC del 21 set. 2018 ([RU 2018 3497](https://fedlex.data.admin.ch/eli/oc/2018/567)). Aggiornato dai n. I dell’O del DATEC del 16 set. 2019 ([RU 2019 2959](https://fedlex.data.admin.ch/eli/oc/2019/541)), del 18 set. 2020, in vigore dal 1° nov. 2020 ([RU 2020 3911](https://fedlex.data.admin.ch/eli/oc/2020/727)) e dal n. II cpv. 1 dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
+[^t-8]: Nuovo testo giusta il n. I cpv. 2 dell’O del DATEC del 21 set. 2018 ([RU 2018 3497](https://fedlex.data.admin.ch/eli/oc/2018/567)). Aggiornato dal n. I dell’O del DATEC del 16 set. 2019 ([RU 2019 2959](https://fedlex.data.admin.ch/eli/oc/2019/541)), del 18 set. 2020, in vigore dal 1° nov. 2020 ([RU 2020 3911](https://fedlex.data.admin.ch/eli/oc/2020/727)), dal n. II cpv. 1 dell’O del 24 nov. 2021 ([RU 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)) e dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 798](https://fedlex.data.admin.ch/eli/oc/2022/798)).
 
 ### 1 Importi delle sanzioni per l’anno di riferimento 2017
 
@@ -3991,12 +4005,13 @@ Gli importi dovuti in caso di superamento dell’obiettivo individuale per l’a
 
 ### 3 Importi delle sanzioni per gli anni di riferimento 2019 e seguenti
 
-Gli importi dovuti in caso di superamento dell'obiettivo individuale per ogni grammo di CO<sub>2</sub>/km in eccesso (da 0,1 grammi) sono i seguenti:
+Gli importi dovuti in caso di superamento dell’obiettivo individuale per ogni grammo di CO<sub>2</sub>/km in eccesso (da 0,1 grammi) sono i seguenti:
 
 - a. per l’anno di riferimento 2019: 111.00 franchi;
 - b. per l’anno di riferimento 2020: 109.00 franchi;
 - c. per l’anno di riferimento 2021: 103.50 franchi;
-- d. per l’anno di riferimento 2022: 104.00 franchi.
+- d. per l’anno di riferimento 2022: 104.00 franchi;
+- e. per l’anno di riferimento 2023: 101 franchi.
 
 Allegato 6[^t-9]
 
@@ -4416,7 +4431,7 @@ Allegato 12[^t-15]
 
 ## Impiego diretto della geotermia per la produzione di calore
 
-[^t-15]: Introdotto dal n. II cpv. 3 dell’O del 1° nov. 2017 ([RU 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)). Aggiornato dal n. II cpv. 1 dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
+[^t-15]: Introdotto dal n. II cpv. 3 dell’O del 1° nov. 2017 ([RU 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)). Aggiornato dal n. II cpv. 1 dell’O del 24 nov. 2021 ([RU 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)) e dal n. III dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
 
 ### 1 Prospezione e sfruttamento
 
@@ -4427,7 +4442,7 @@ Allegato 12[^t-15]
 
 - 2\.1
 
-  Nell’ambito della prospezione sono computabili solamente i costi d’investimento effettivamente sostenuti e strettamente necessari per l’esecuzione economica e adeguata delle seguenti attività:
+  Nell’ambito della prospezione sono computabili i costi d’esecuzione, di pianificazione, di direzione del progetto e le prestazioni proprie del richiedente, purché effettivamente sostenuti e strettamente necessari per l’esecuzione economica e adeguata delle seguenti attività:
 
   - a. l’acquisizione di nuovi geodati nell’area di prospezione;
   - b. le attività per l’acquisizione di nuovi geodati;
@@ -4435,7 +4450,7 @@ Allegato 12[^t-15]
 
 - 2\.2
 
-  Nell’ambito dello sfruttamento sono computabili solamente i costi d’investimento effettivamente sostenuti e strettamente necessari per l’esecuzione economica e adeguata delle seguenti attività:
+  Nell’ambito dello sfruttamento sono computabili i costi d’esecuzione, di pianificazione, di direzione del progetto e le prestazioni proprie del richiedente, purché effettivamente sostenuti e strettamente necessari per l’esecuzione economica e adeguata delle seguenti attività:
 
   - a. la preparazione, la costruzione e lo smantellamento del cantiere di perforazione;
   - b. le perforazioni, compresi la tubazione, la cementazione e il completamento dell’insieme delle perforazioni di produzione, di iniezione e di monitoraggio previste;
@@ -4446,7 +4461,9 @@ Allegato 12[^t-15]
   - g. l’analisi delle sostanze rinvenute;
   - h. l’assistenza geologica, l’analisi dei dati e l’interpretazione.
 
-- 2\.3 Non sono computabili i costi generati nell’ambito di procedure ufficiali correlate alla prospezione e allo sfruttamento.
+- 2\.3 I costi di pianificazione e direzione del progetto sono computati fino all’ammontare del 15 per cento dei costi d’esecuzione computabili. I costi sostenuti a monte della presentazione della domanda sono computabili.
+- 2\.4 Le prestazioni proprie del richiedente, come eventuali prestazioni proprie di pianificazione o esecuzione , sono computabili soltanto se sono usuali e possono essere comprovate mediante un rapporto di lavoro dettagliato.
+- 2\.5 Non sono computabili i costi generati nell’ambito di procedure ufficiali correlate alla prospezione e allo sfruttamento.
 
 ### 3 Procedura per l’ottenimento di un contributo per la prospezione
 
@@ -4572,14 +4589,15 @@ Allegato 13[^t-16]
 
 ## Operatori di aeromobili con obbligo di partecipazione al SSQE
 
-[^t-16]: Introdotto dal n. II cpv. 3 dell’O del 13 nov. 2019,in vigore dal 1° gen. 2020 ([RU 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
+[^t-16]: Introdotto dal n. II cpv. 3 dell’O del 13 nov. 2019 ([RU 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)). Aggiornato dal n. II cpv. 3 dell’O del 4 mag. 2022, in vigore dal 1° gen. 2023 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 - 1\.
 
   Gli operatori di aeromobili hanno l’obbligo di partecipazione al SSQE se effettuano i seguenti voli:
 
   - a. voli nazionali in Svizzera;
-  - b. voli provenienti dalla Svizzera verso gli Stati membri dello SEE.
+  - b. voli provenienti dalla Svizzera verso gli Stati membri dello SEE;
+  - c. voli dalla Svizzera al Regno Unito di Gran Bretagna e Irlanda del Nord (UK).
 
 - 2\.
 

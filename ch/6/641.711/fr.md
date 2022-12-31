@@ -3,11 +3,11 @@ sr: "641.711"
 title: "Ordonnance du 30 novembre 2012 sur la réduction des émissions de CO<sub>2</sub> (Ordonnance sur le CO<sub>2</sub>)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/856"
 language: fr
-version: 2022-10-01
+version: 2023-01-01
 adopted: 2012-11-30
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20221001/fr/xml/fedlex-data-admin-ch-eli-cc-2012-856-20221001-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/856/20221001/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2012-856-20230101-fr-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/856/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/856/20221001/fr"
 
 (Ordonnance sur le CO<sub>2</sub>)
 
-du 30 novembre 2012 (État le 1<sup>er</sup> octobre 2022)
+du 30 novembre 2012 (État le 1<sup>er</sup> janvier 2023)
 
 Le Conseil fédéral suisse,
 
@@ -631,27 +631,39 @@ En application des procédures de corrélation et d’essai visées à l’al. 1
 
 #### Art. 18
 
-**Grand importateur**
+**Grand importateur**[^18-1]
 
-<sup>1</sup> Un importateur dont au moins 50 voitures de tourisme ont été immatriculées pour la première fois durant l’année précédant l’année de référence est réputé grand importateur de voitures de tourisme pour l’année de référence en ce qui concerne ses parcs de véhicules neufs.
+<sup>1</sup>
 
-<sup>2</sup> Un importateur dont au moins 6 voitures de livraison ou tracteurs à sellette légers ont été immatriculés pour la première fois durant l’année précédant l’année de référence est réputé grand importateur de voitures de livraison ou de tracteurs à sellette légers pour l’année de référence en ce qui concerne ses parcs de véhicules neufs.
+Un importateur est réputé, pour les véhicules concernés, grand importateur au cours d’une année de référence si, au 31 décembre de l’année de référence, le parc de véhicules neufs concerné comporte au moins:
+
+- a. 50 voitures de tourisme, ou
+- b. six voitures de livraison ou tracteurs à sellette légers.
+
+<sup>2</sup> Si, l’année précédente, le parc de véhicules neufs d’un importateur comportait au moins le nombre de véhicules visés à l’al. 1, l’importateur est réputé, pour l’année de référence, provisoirement grand importateur pour les véhicules concernés.
+
+<sup>3</sup> Si, l’année précédente, le parc de véhicules neufs d’un importateur comportait moins de véhicules que ceux visés l’al. 1, l’importateur peut demander à l’Office fédéral de l’énergie (OFEN) d’être traité provisoirement, pour l’année de référence, comme grand importateur pour les véhicules concernés dès la date de l’approbation de la demande.
+
+<sup>4</sup> Si, au 31 décembre de l’année de référence, il apparaît que le parc de véhicules neufs au sens des al. 2 ou 3 comporte, pour l’année de référence, moins de véhicules que ceux visés à l’al. 1, l’importateur est réputé petit importateur pour les véhicules concernés.
+
+[^18-1]: Nouvelle teneur selon le ch. I de l’O du 4 mai 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 #### Art. 19
 
-**Traitement provisoire en tant que grand importateur**
+[^19-1]
 
-<sup>1</sup> Un importateur dont au maximum 49 voitures de tourisme, ou au maximum 5 voitures de livraison ou tracteurs à sellette légers, ont été immatriculés pour la première fois durant l’année précédant l’année de référence peut demander à l’Office fédéral de l’énergie (OFEN) d’être traité provisoirement comme grand importateur durant l’année de référence en ce qui concerne ses parcs de véhicules neufs.
-
-<sup>2</sup> Sont pris en compte dans le parc concerné de véhicules neufs les voitures de tourisme, les voitures de livraison ou les tracteurs à sellette légers, immatriculés pour la première fois durant l’année de référence à partir de la date où la demande prévue à l’al. 1 a été approuvée.
-
-<sup>3</sup> L’importateur dont au maximum 49 voitures de tourisme, ou au maximum 5 voitures de livraison ou tracteurs à sellette légers sont immatriculés pour la première fois durant l’année de référence doit procéder au décompte pour chaque véhicule du parc de véhicules neufs concerné.
+[^19-1]: Abrogé par le ch. I de l’O du 4 mai 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 #### Art. 20
 
-**Petit importateur**
+**Petit importateur**[^20-1]
 
-Un importateur dont au maximum 49 voitures de tourisme, ou au maximum 5 voitures de livraison ou tracteurs à sellette légers ont été immatriculés pour la première fois durant l’année précédant l’année de référence et qui n’est pas traité provisoirement comme grand importateur durant l’année de référence est réputé petit importateur pour l’année de référence en ce qui concerne ses parcs de véhicules neufs.
+Un importateur est réputé, pour les véhicules concernés, petit importateur au cours d’une année de référence si, au 31 décembre de l’année de référence, le parc de véhicules neufs concerné comporte moins de:
+
+- a. 50 voitures de tourisme, ou
+- b. six voitures de livraison ou tracteurs à sellette légers.
+
+[^20-1]: Nouvelle teneur selon le ch. I de l’O du 4 mai 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 #### Art. 21
 
@@ -1131,7 +1143,7 @@ Si la part visée à l’al. 2 ne suffit pas pour satisfaire entièrement aux pr
 
 <sup>4</sup> Les droits d’émission qui ne peuvent être attribués à titre gratuit sont annulés.
 
-[^46f-1]: [RS 641.714.11](https://fedlex.data.admin.ch/eli/cc/2017/378)
+[^46f-1]: [[RO 2017 3477](https://fedlex.data.admin.ch/eli/oc/2017/378); [2019 1477](https://fedlex.data.admin.ch/eli/oc/2019/284)]
 [^46f-2]: Nouvelle teneur selon le ch. I de l’O du 25 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
 [^46f-3]: Abrogé par le ch. I de l’O du 25 nov. 2020, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
 [^46f-4]: Nouvelle teneur selon le ch. I de l’O du 4 mai 2022, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
@@ -1260,7 +1272,7 @@ L’OFEV ou un service mandaté par celui-ci recueille les données nécessaires
 [^51-2]: Nouvelle teneur selon le ch. I de l’O du 4 mai 2022, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 [^51-3]: Nouvelle teneur selon le ch. I de l’O du 25 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
 [^51-4]: Nouvelle teneur selon le ch. I de l’O du 4 mai 2022, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
-[^51-5]: [RS 641.714.11](https://fedlex.data.admin.ch/eli/cc/2017/378)
+[^51-5]: [[RO 2017 3477](https://fedlex.data.admin.ch/eli/oc/2017/378); [2019 1477](https://fedlex.data.admin.ch/eli/oc/2019/284)]
 
 #### Art. 52
 
@@ -3708,7 +3720,7 @@ Au sens de la présente annexe, on entend par:
 
 Le facteur d’oxydation (OX) est un paramètre indispensable au calcul des réductions d’émissions. Le choix de sa valeur découle de l’arbre de décision suivant:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20221001/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20230101/fr/xml/image/image1.png)
 
 ### 3.3 Calcul ex-ante des réductions d’émissions
 
@@ -3921,11 +3933,11 @@ Annexe 4[^t-6]
 
 Annexe 4a[^t-7]
 
-(art. 28, al. 1)
+(art. 28)
 
 ## Calcul de la valeur cible spécifique
 
-[^t-7]: Introduite par le ch. II al. 3 de l’O du 1<sup>er</sup> nov. 2017 ([RO 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)). Mise à jour par le ch. I des O du DETEC du 16 sept. 2019 ([RO 2019 2959](https://fedlex.data.admin.ch/eli/oc/2019/541)) et du 18 sept. 2020 ([RO 2020 3911](https://fedlex.data.admin.ch/eli/oc/2020/727)), le ch. II al. 1 des O du 25 nov. 2020 ([RO 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)) et du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
+[^t-7]: Introduite par le ch. II al. 3 de l’O du 1<sup>er</sup> nov. 2017 ([RO 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)). Mise à jour par le ch. I des O du DETEC du 16 sept. 2019 ([RO 2019 2959](https://fedlex.data.admin.ch/eli/oc/2019/541)) et du 18 sept. 2020 ([RO 2020 3911](https://fedlex.data.admin.ch/eli/oc/2020/727)), le ch. II al. 1 des O du 25 nov. 2020 ([RO 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)) et du 24 nov. 2021 ([RO 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)) et le ch. I de l’O du DETEC du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 798](https://fedlex.data.admin.ch/eli/oc/2022/798)).
 
 ### 1 Calcul de la valeur cible spécifique
 
@@ -3956,7 +3968,8 @@ Annexe 4a[^t-7]
   - c. 2017: 1588 kg;
   - d. 2018: 1601 kg;
   - e. 2019: 1636 kg;
-  - f. 2020: 1674 kg.
+  - f. 2020: 1674 kg;
+  - g. 2021: 1693 kg.
 
 ### 2.2 Voitures de livraison et tracteurs à sellette légers
 
@@ -3966,7 +3979,8 @@ Annexe 4a[^t-7]
 
   - a. 2018: 2056 kg;
   - b. 2019: 2067 kg;
-  - c. 2020: 2089 kg.
+  - c. 2020: 2089 kg;
+  - d. 2021: 2094 kg.
 
 Annexe 5[^t-8]
 
@@ -3974,7 +3988,7 @@ Annexe 5[^t-8]
 
 ## Sanction en cas de non-respect de la valeur cible spécifique (art. 13, al. 1, de la loi sur le CO<sub>2</sub>)
 
-[^t-8]: Nouvelle teneur selon le ch. I al. 2 de l’O du DETEC du 21 sept. 2018 ([RO 2018 3497](https://fedlex.data.admin.ch/eli/oc/2018/567)). Mise à jour par le ch. I des O du DETEC du 16 sept. 2019 ([RO 2019 2959](https://fedlex.data.admin.ch/eli/oc/2019/541)) et du 18 sept. 2020 ([RO 2020 3911](https://fedlex.data.admin.ch/eli/oc/2020/727)) et le ch. II al. 1 de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
+[^t-8]: Nouvelle teneur selon le ch. I al. 2 de l’O du DETEC du 21 sept. 2018 ([RO 2018 3497](https://fedlex.data.admin.ch/eli/oc/2018/567)). Mise à jour par le ch. I des O du DETEC du 16 sept. 2019 ([RO 2019 2959](https://fedlex.data.admin.ch/eli/oc/2019/541)) et du 18 sept. 2020 ([RO 2020 3911](https://fedlex.data.admin.ch/eli/oc/2020/727)), le ch. II al. 1 de l’O du 24 nov. 2021 ([RO 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)) et le ch. I de l’O du DETEC du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 798](https://fedlex.data.admin.ch/eli/oc/2022/798)).
 
 ### 1 Montants pour l’année de référence 2017
 
@@ -4001,7 +4015,8 @@ Les montants à verser en cas de dépassement de la valeur cible spécifique par
 - a. pour l’année de référence 2019: 111,00 francs;
 - b. pour l’année de référence 2020: 109,00 francs;
 - c. pour l’année de référence 2021: 103,50 francs;
-- d. pour l’année de référence 2022: 104 francs.
+- d. pour l’année de référence 2022: 104 francs;
+- e. pour l’année de référence 2023: 101 francs.
 
 Annexe 6[^t-9]
 
@@ -4426,7 +4441,7 @@ Annexe 12[^t-15]
 
 ## Utilisation directe de la géothermie pour la production de chaleur
 
-[^t-15]: Introduite par le ch. II al. 3 de l’O du 1<sup>er</sup> nov. 2017 ([RO 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)). Mise à jour par le ch. II al. 1 de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
+[^t-15]: Introduite par le ch. II al. 3 de l’O du 1<sup>er</sup> nov. 2017 ([RO 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)). Mise à jour par le ch. II al. 1 de l’O du 24 nov. 2021 ([RO 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)) et le ch. III de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
 
 ### 1 Prospection et mise en valeur
 
@@ -4437,26 +4452,28 @@ Annexe 12[^t-15]
 
 - 2\.1
 
-  Seuls sont imputables dans le cadre de la prospection les coûts d’investissement réellement encourus et indispensables à une réalisation économique et adéquate:
+  Sont imputables dans le cadre de la prospection les coûts de réalisation, de planification et de gestion de projet ainsi que les prestations propres du requérant, pour autant qu’ils soient effectifs et indispensables à une réalisation économique et adéquate pour:
 
-  - a. pour l’acquisition de nouvelles géodonnées dans la zone de prospection;
-  - b. pour les travaux destinés à l’acquisition de nouvelles géodonnées;
-  - c. pour l’analyse et l’interprétation.
+  - a. l’acquisition de nouvelles géodonnées dans la zone de prospection;
+  - b. les travaux destinés à l’acquisition de nouvelles géodonnées;
+  - c. l’analyse et l’interprétation.
 
 - 2\.2
 
-  Seuls sont imputables dans le cadre de la mise en valeur les coûts d’investissement réellement encourus, indispensables à une réalisation économique et adéquate du projet et correspondant aux tâches suivantes:
+  Sont imputables dans le cadre de la mise en valeur les coûts de réalisation, de planification et de gestion du projet ainsi que les prestations propres du requérant, pour autant qu’ils soient effectifs et indispensables à une réalisation économique et adéquate du projet et correspondant aux tâches suivantes:
 
   - a. la préparation, la mise en place et la démolition du puits de forage;
-  - b. les forages, y compris le tubage, la cémentation et l’achèvement de l’ensemble des puits de production, de réinjection et de surveillance prévus;
-  - c. les stimulations de puits et de réservoirs;
+  - b. les forages, y compris le tubage, la cémentation et l’achèvement de tous les puits de production, de réinjection et de surveillance prévus;
+  - c. les travaux de stimulation de puits et de réservoirs;
   - d. les essais de puits;
   - e. les diagraphies de puits, y compris l’instrumentation;
   - f. les tests de circulation;
   - g. les analyses des substances trouvées;
   - h. l’accompagnement géologique, l’analyse des données et l’interprétation.
 
-- 2\.3 Les coûts survenant dans le cadre de démarches administratives dans le contexte de la prospection et de la mise en valeur ne sont pas imputables.
+- 2\.3 Les coûts de planification et de gestion du projet sont pris en compte jusqu’à concurrence de 15 % des coûts de réalisation imputables. Les coûts encourus avant le dépôt de la demande sont imputables.
+- 2\.4 Les prestations propres du requérant telles que ses prestations de planification ou de réalisation ne sont imputables que si elles sont usuelles et qu’elles peuvent être justifiées au moyen d’un rapport de travail détaillé.
+- 2\.5 Les coûts survenant dans le cadre de démarches administratives dans le contexte de la prospection et de la mise en valeur ne sont pas imputables.
 
 ### 3 Procédure en vue d’obtenir un soutien à la prospection
 
@@ -4585,14 +4602,15 @@ Annexe 13[^t-16]
 
 ## Exploitants d’aéronefs tenus de participer au SEQE
 
-[^t-16]: Introduite par le ch. II al. 3 de l’O du 13 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
+[^t-16]: Introduite par le ch. II al. 3 de l’O du 13 nov. 2019 ([RO 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)). Mise à jour par le ch. II al. 3 de l’O du 4 mai 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 - 1\.
 
   Les exploitants d’aéronefs sont tenus de participer au SEQE dès lors qu’ils effectuent les vols suivants:
 
   - a. vols intérieurs en Suisse;
-  - b. vols au départ de la Suisse à destination d’États membres de l’EEE.
+  - b. vols au départ de la Suisse à destination d’États membres de l’EEE;
+  - c. vols au départ de la Suisse à destination du Royaume-Uni de Grande-Bretagne et d’Irlande du Nord (UK).
 
 - 2\.
 
