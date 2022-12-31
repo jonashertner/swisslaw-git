@@ -4,13 +4,13 @@ number: "126.3"
 title: Gesamtarbeitsvertrag
 short: GAV
 language: de
-version: 2022-11-01
-valid_until: 2022-12-31
-version_adopted: 2022-10-24
+version: 2023-01-01
+valid_until: 2023-03-31
+version_adopted: 2023-01-31
 adopted: 2004-10-25
 in_force: 2005-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/126.3"
-pdf: "https://bgs.so.ch/api/de/versions/5276/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5304/pdf_file"
 text: pdf
 ---
 
@@ -18,7 +18,7 @@ text: pdf
 
 # Gesamtarbeitsvertrag (GAV)
 
-vom 25. Oktober 2004 (Stand 1. November 2022)
+vom 25. Oktober 2004 (Stand 1. Januar 2023)
 
 zwischen dem Kanton Solothurn vertreten durch den Regierungsrat
 
@@ -3720,7 +3720,7 @@ Die Dauer der ununterbrochenen Präsenz im Spital darf mit Ausnahme dringender N
 - 1\. Löhne
 
 [^hOberärztinnenundä-1]: § 255 Fassung vom 11. August 2015.
-[^hOberärztinnenundä-2]: S 257 aufgehoben am 15. Dezember 2020.
+[^hOberärztinnenundä-2]: § 257 aufgehoben am 15. Dezember 2020.
 
 #### § 255
 
@@ -3742,7 +3742,7 @@ Oberärztinnen und –ärzte mit FMH-Titel mit Stellenantritt vor dem 1. Januar 
 § 256<sup>bis</sup>.[^256-1] Einstiegslohn der Assistenz- und Oberärztinnen und -ärzte Die Dienstjahre der Assistenz- und Oberärztinnen und -ärzte in der gleichen Funktion in anderen Anstalten werden bei der Festsetzung des Einstieglohnes in der Regel voll angerechnet.
 
 [^256-1]: § 256bis eingefügt am 8. Juni 2010.
-[^256-2]: S 257 aufgehoben am 15. Dezember 2020.
+[^256-2]: § 257 aufgehoben am 15. Dezember 2020.
 
 #### § 257
 
@@ -3774,17 +3774,28 @@ Oberärztinnen und –ärzte mit FMH-Titel mit Stellenantritt vor dem 1. Januar 
 
 ärzten sowie Leitenden Ärztinnen und Ärzten Chefärztinnen und -ärzte sowie Leitende Ärztinnen und Ärzte haben keinen Anspruch auf Vergütung für inkonveniente Dienste.
 
+§ 259<sup>bis</sup>.[^259-1] Zeitzuschlag Für Arbeit, die zwischen 23.00 und 06.00 Uhr geleistet wird, wird ein Zeitzuschlag von 25% gewährt.
+
+§ 259<sup>ter</sup>.[^259-2] Geldzulage für Arbeit Es besteht Anspruch auf eine Zulage von 8 Franken pro Stunde für Arbeiten:
+
+- a) von Montag bis Freitag zwischen 19.00 und 07.00 Uhr;
+
+- b) am Samstag, am Sonntag und an Feiertagen rund um die Uhr.
+
+§ 259<sup>quater</sup>.[^259-3] Geldzulage für das Bereithalten
+
+<sup>1</sup> Die Zulage für Pikettdienst beträgt während der gesamten Dauer 4 Franken pro Stunde.
+
+<sup>2</sup> Mitarbeitende des technischen Dienstes der Spitäler, die bereits vor Inkrafttreten des GAV am 1. Januar 2005 angestellt waren, erhalten für die Leistung von Pikettdienst (§ 146 GAV) weiterhin eine Geldzulage von 6 Franken pro Stunde.
+
+[^259-1]: § 259bis eingefügt am 31. Januar 2023.
+[^259-2]: § 259ter eingefügt am 31. Januar 2023.
+[^259-3]: § 259quater eingefügt am 31. Januar 2023.
+[^259-4]: § 260 aufgehoben am 31. Januar 2023.
+
 #### § 260
 
-**Besitzstandsregelung**
-
-<sup>1</sup> Für bestehende Anstellungsverhältnisse gelten folgende Regelungen:
-
-- a) Mitarbeitende des technischen Dienstes der Spitäler erhalten für die Leistung von Pikettdienst (§ 146 GAV) weiterhin eine Geldzulage von Fr. 6.– pro Stunde.
-
-- b) Die übrigen Angestellten der Spitäler erhalten für die Leistung von Pikettdienst (§ 146 GAV) weiterhin eine Geldzulage von Fr. 4.– pro Stunde.
-
-<sup>2</sup> Neu eintretende Arbeitnehmende erhalten eine Pikettentschädigung nach dem Allgemeinen Teil der Normativen Bestimmungen.
+**…[^259-4]**
 
 - c. Pensionskasse
 
@@ -4006,7 +4017,7 @@ Die «Regelung über die Schliessung der Büros zwischen Weihnachten und Neujahr
 
 b<sup>bis</sup>. Frei-Tage[^281-1]
 
-§ 281<sup>bis</sup>.[^281-2] Frei-Tage c) <sup>1</sup> Die Angehörigen des Polizeikorps haben Anspruch auf jährlich 104 Frei-Tage.
+§ 281<sup>bis</sup>.[^281-2] Frei-Tage a) <sup>1</sup> Die Angehörigen des Polizeikorps haben Anspruch auf jährlich 104 Frei-Tage.
 
 <sup>2</sup> Ausser den Ferien und ordentlichen Frei-Tagen haben die Korpsangehörigen zudem Anspruch auf 10 ausserordentliche Frei-Tage pro Kalenderjahr, als Ersatz für die gesetzlichen Feiertage.
 
@@ -5211,9 +5222,7 @@ Die formelle Anzeige bei sexueller Belästigung oder Mobbing nach § 221 und 234
 
 <sup>1</sup> § 359 bis 366 GAV (Altersentlastung) treten am 1. Februar 2005 in Kraft.
 
-<sup>2</sup> § 372 bis 375 GAV (Zusatzlektionen) treten am 1. Februar 2005 in Kraft. Die Entschädigung für Zusatzstunden, die vor dem 1. Februar 2005 geleistet worden sind, richtet sich nach den bisher geltenden Bestimmungen (LehrerbesoldungsVO, KRB vom 17. Mai 1995; BGS 126.515.851.11).
-
-§ 383<sup>bis</sup>.[^383-1] Übergangsbestimmung zur Änderung vom 20. Juni 2011 Für Lehrpersonen und Lehrbeauftragte in bereits bestehenden Anstellungsverhältnissen gilt:
+<sup>2</sup> § 372 bis 375 GAV (Zusatzlektionen) treten am 1. Februar 2005 in Kraft. Die Entschädigung für Zusatzstunden, die vor dem 1. Februar 2005 geleistet worden sind, richtet sich nach den bisher geltenden Bestimmungen (LehrerbesoldungsVO, KRB vom 17. Mai 1995; BGS 126.515.851.11). § 383<sup>bis</sup>.[^383-1] Übergangsbestimmung zur Änderung vom 20. Juni 2011 Für Lehrpersonen und Lehrbeauftragte in bereits bestehenden Anstellungsverhältnissen gilt:
 
 - a) Für diejenigen, die die fachlichen oder pädagogischen Anforderungen nach neuem Recht nicht erfüllen, gilt die bisherige Einreihung weiter;
 
@@ -6123,7 +6132,9 @@ Der Besondere Teil Berufsschule regelt die Abweichungen und Ergänzungen gegenü
 
 <sup>2</sup> Soweit das Pensum oder ein Teil davon voraussichtlich nicht für mehr als zwei Jahre sichergestellt ist, wird im unbefristeten Vertrag der gesicherte Pensenteil (Sockelpensum) und ein darüber hinausgehender Pensenrahmen von höchstens fünf Lektionen (Maximalpensum) für den nicht gesicherten Pensenteil festgelegt.
 
-<sup>3</sup> Angeordnete Pensenerhöhungen im festgelegten Pensenrahmen werden wirksam, wenn die Lehrperson nicht innert 10 Tagen seit Erhalt der schriftlichen Mitteilung schriftlich ihren Verzicht auf die Erhöhung erklärt. § 454<sup>bis</sup>.[^454-1] Befristete Anstellung
+<sup>3</sup> Angeordnete Pensenerhöhungen im festgelegten Pensenrahmen werden wirksam, wenn die Lehrperson nicht innert 10 Tagen seit Erhalt der schriftlichen Mitteilung schriftlich ihren Verzicht auf die Erhöhung erklärt.
+
+§ 454<sup>bis</sup>.[^454-1] Befristete Anstellung
 
 <sup>1</sup> Lehrpersonen werden soweit befristet angestellt, als mit dem Pensenrahmen die Unsicherheit in der Pensenfestlegung nicht abgedeckt werden kann.
 
@@ -6977,9 +6988,11 @@ Inkrafttreten GAV am 1. Januar 2005 (§ 21).[^520-1]
 
 - 7\. Juni 2022 am 1. August 2022;
 
-- 30\. August 2022 am 1. September 2022,
+- 30\. August 2022 am 1. September 2022;
 
-- 24\. Oktober 2022 am 1. November 2022.
+- 24\. Oktober 2022 am 1. November 2022;
+
+- 31\. Januar 2023 am 1. Januar 2023.
 
 ## Weitere Fussnoten
 
