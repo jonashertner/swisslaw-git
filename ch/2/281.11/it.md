@@ -4,11 +4,11 @@ title: "Ordinanza del 22 novembre 2006 concernente l'alta vigilanza sulla esecuz
 short: OAV-LEF
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/804"
 language: it
-version: 2012-01-01
+version: 2023-01-01
 adopted: 2006-11-22
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/804/20120101/it/xml/fedlex-data-admin-ch-eli-cc-2006-804-20120101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/804/20120101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/804/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2006-804-20230101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/804/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/804/20120101/it"
 
 (OAV-LEF)
 
-del 22 novembre 2006 (Stato 1° gennaio 2012) (Stato 1° gennaio 2012)
+del 22 novembre 2006 (Stato 1° gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -31,23 +31,37 @@ ordina:
 
 **Autorità competente**
 
-L’Ufficio federale di giustizia esercita l’alta vigilanza sull’esecuzione e sul fallimento. Il servizio incaricato dell'alta vigilanza in materia di LEF è autorizzato a sbrigare autonomamente le pratiche seguenti:
+L’Ufficio federale di giustizia esercita l’alta vigilanza sull’esecuzione e sul fallimento. A questo scopo gestisce il servizio incaricato dell’alta vigilanza in materia di LEF. Tale servizio è autorizzato ad adempiere autonomamente i compiti seguenti:[^1-1]
 
 - a. emanare istruzioni, circolari e raccomandazioni destinate alle autorità cantonali di vigilanza, agli uffici d’esecuzione e fallimenti nonché agli organi d’esecuzione esterni all’ufficio, per l’applicazione corretta e uniforme della LEF;
-- b. redigere modelli per i moduli da utilizzare nelle procedure d’esecuzione e di fallimento;
-- c. eseguire ispezioni delle autorità cantonali di vigilanza, degli uffici d’esecuzione e fallimenti nonché degli organi d’esecuzione esterni all’ufficio.
+- b.[^1-2] i compiti conferitigli dal regolamento del 5 giugno 1996[^1-3] sui formulari e registri da impiegare in tema d’esecuzione e di fallimento e sulla contabilità;
+- c. eseguire ispezioni delle autorità cantonali di vigilanza, degli uffici d’esecuzione e fallimenti nonché degli organi d’esecuzione esterni all’ufficio;
+- d.[^1-4] i compiti conferitigli dal Dipartimento federale di giustizia e polizia secondo l’articolo 14 capoverso 1 dell’ordinanza del 18 giugno 2010[^1-5] sulla comunicazione per via elettronica nell’ambito di procedimenti civili e penali nonché di procedure d’esecuzione e fallimento.
+
+[^1-1]: Nuovo testo giusta il n. I dell’O del 26 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 662](https://fedlex.data.admin.ch/eli/oc/2022/662)).
+[^1-2]: Nuovo testo giusta il n. I dell’O del 26 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 662](https://fedlex.data.admin.ch/eli/oc/2022/662)).
+[^1-3]: [RS 281.31](https://fedlex.data.admin.ch/eli/cc/1996/2877_2877_2877)
+[^1-4]: Introdotta dal n. I dell’O del 26 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 662](https://fedlex.data.admin.ch/eli/oc/2022/662)).
+[^1-5]: [RS 272.1](https://fedlex.data.admin.ch/eli/cc/2010/413)
 
 #### Art. 2
 
 **Rapporti**
 
-Le autorità cantonali di vigilanza fanno rapporto almeno ogni due anni all’Ufficio federale di giustizia in merito:
+<sup>1</sup>
+
+L’autorità di vigilanza cantonale superiore o l’autorità di vigilanza cantonale unica fa rapporto ogni anno al servizio incaricato dell’alta vigilanza in materia di LEF presso l’Ufficio federale di giustizia in merito:[^2-1]
 
 - a. alle ispezioni effettuate presso gli uffici d’esecuzione e fallimenti;
 - b. all’attività delle autorità inferiori e superiori di vigilanza inclusa la panoramica statistica dei ricorsi e del tempo impiegato per la loro evasione;
 - c. alla pronuncia di procedure disciplinari;
 - d. alle istruzioni destinate agli uffici;
 - e. alle difficoltà constatate nell’applicazione della legge.
+
+<sup>2</sup> Il servizio incaricato dell’alta vigilanza in materia di LEF presso l’Ufficio federale di giustizia può emanare istruzioni sulla forma dei rapporti.[^2-2]
+
+[^2-1]: Nuovo testo giusta il n. I dell’O del 26 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 662](https://fedlex.data.admin.ch/eli/oc/2022/662)).
+[^2-2]: Introdotto dal n. I dell’O del 26 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 662](https://fedlex.data.admin.ch/eli/oc/2022/662)).
 
 #### Art. 3
 

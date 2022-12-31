@@ -4,11 +4,11 @@ title: Ordonnance du 22 novembre 2006 relative à la haute surveillance en mati�
 short: OHS-LP
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/804"
 language: fr
-version: 2012-01-01
+version: 2023-01-01
 adopted: 2006-11-22
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/804/20120101/fr/xml/fedlex-data-admin-ch-eli-cc-2006-804-20120101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/804/20120101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/804/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2006-804-20230101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/804/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/804/20120101/fr"
 
 (OHS-LP)
 
-du 22 novembre 2006 (Etat le 1<sup>er</sup> janvier 2012)
+du 22 novembre 2006 (État le 1<sup>er</sup> janvier 2023)
 
 Le Conseil fédéral suisse,
 
@@ -31,23 +31,37 @@ arrête:
 
 **Autorité compétente**
 
-L’Office fédéral de la justice (OFJ) exerce la haute surveillance en matière de poursuites et de faillite. Le service chargé de la haute surveillance en matière de LP est habilité de manière autonome à:
+L’Office fédéral de la justice (OFJ) exerce la haute surveillance en matière de poursuites et de faillite. Le service chargé de la haute surveillance en matière de LP est habilité de manière autonome à accomplir les tâches qui lui sont attribuées:[^1-1]
 
 - a. édicter des instructions, des directives et des recommandations à l’intention des autorités cantonales de surveillance, des offices des poursuites et des faillites et des organes d’exécution privés, dans le but de pourvoir à l’application correcte et uniforme de la LP;
-- b. élaborer des modèles des formulaires utilisés dans la procédure de poursuite et de faillite;
-- c. inspecter des autorités cantonales de surveillance, des offices des poursuites et des faillites et des organes d’exécution privés.
+- b.[^1-2] par l’ordonnance du 5 Juin 1996 sur les formulaires et registres à employer en matière de poursuite pour dettes et de faillite et sur la comptabilité[^1-3];
+- c. inspecter des autorités cantonales de surveillance, des offices des poursuites et des faillites et des organes d’exécution privés;
+- d.[^1-4] par le Département fédéral de justice et police conformément à l’art. 14, al. 1 de l’ordonnance du 18 juin 2010 sur la communication électronique dans le cadre de procédures civiles et pénales et de procédures en matière de poursuite pour dettes et de faillite[^1-5].
+
+[^1-1]: Nouvelle teneur selon le ch. I de l’O du 26 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 662](https://fedlex.data.admin.ch/eli/oc/2022/662)).
+[^1-2]: Nouvelle teneur selon le ch. I de l’O du 26 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 662](https://fedlex.data.admin.ch/eli/oc/2022/662)).
+[^1-3]: [RS 281.31](https://fedlex.data.admin.ch/eli/cc/1996/2877_2877_2877)
+[^1-4]: Introduite par le ch. I de l’O du 26 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 662](https://fedlex.data.admin.ch/eli/oc/2022/662)).
+[^1-5]: [RS 272.1](https://fedlex.data.admin.ch/eli/cc/2010/413)
 
 #### Art. 2
 
 **Rapport**
 
-Les autorités cantonales de surveillance présentent tous les deux ans au moins un rapport à l’OFJ sur:
+<sup>1</sup>
+
+Les autorités cantonales de surveillance uniques ou supérieures présentent un rapport annuel à l’OFJ sur:[^2-1]
 
 - a. les inspections effectuées auprès des offices des poursuites et des faillites;
 - b. les activités des autorités inférieures et supérieures de surveillance avec des données statistiques sur les recours et le temps nécessaire à leur traitement;
 - c. les sanctions disciplinaires prononcées;
 - d. les directives données aux offices;
 - e. les difficultés rencontrées dans l’application de la loi.
+
+<sup>2</sup> Le service chargé de la haute surveillance en matière de LP au sein de l’OFJ peut donner des instructions sur la forme des rapports annuels.[^2-2]
+
+[^2-1]: Nouvelle teneur selon le ch. I de l’O du 26 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 662](https://fedlex.data.admin.ch/eli/oc/2022/662)).
+[^2-2]: Introduit par le ch. I de l’O du 26 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 662](https://fedlex.data.admin.ch/eli/oc/2022/662)).
 
 #### Art. 3
 

@@ -4,11 +4,11 @@ title: Verordnung vom 22. November 2006 betreffend die Oberaufsicht über Schuld
 short: OAV-SchKG
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/804"
 language: de
-version: 2012-01-01
+version: 2023-01-01
 adopted: 2006-11-22
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/804/20120101/de/xml/fedlex-data-admin-ch-eli-cc-2006-804-20120101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/804/20120101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/804/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2006-804-20230101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/804/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/804/20120101/de"
 
 (OAV-SchKG)
 
-vom 22. November 2006 (Stand am 1. Januar 2012)
+vom 22. November 2006 (Stand am 1. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -31,23 +31,37 @@ verordnet:
 
 **Zuständige Behörde**
 
-Das Bundesamt für Justiz übt die Oberaufsicht über Schuldbetreibung und Konkurs aus. Die Dienststelle für Oberaufsicht SchKG ist zur selbstständigen Erledigung folgender Geschäfte ermächtigt:
+Das Bundesamt für Justiz übt die Oberaufsicht über Schuldbetreibung und Konkurs aus. Es führt zu diesem Zweck die Dienststelle Oberaufsicht SchKG. Diese ist zur selbstständigen Erfüllung folgender Aufgaben ermächtigt:[^1-1]
 
 - a. Erlass von Weisungen, Kreisschreiben und Empfehlungen an die kantonalen Aufsichtsbehörden, die Betreibungs- und Konkursämter und die ausseramtlichen Vollstreckungsorgane zur korrekten und einheitlichen Anwendung des SchKG;
-- b. Erstellen von Mustervorlagen für die in den Betreibungs- und Konkursverfahren zu verwendenden Formulare;
-- c. Inspektion der kantonalen Aufsichtsbehörden, der Betreibungs- und Konkursämter und der ausseramtlichen Vollstreckungsorgane.
+- b.[^1-2] die ihr in der Verordnung vom 5. Juni 1996[^1-3] über die im Betreibungs- und Konkursverfahren zu verwendenden Formulare und Register sowie die Rechnungsführung zugewiesenen Aufgaben;
+- c. Inspektion der kantonalen Aufsichtsbehörden, der Betreibungs- und Konkursämter und der ausseramtlichen Vollstreckungsorgane;
+- d.[^1-4] die ihr nach Artikel 14 Absatz 1 der Verordnung vom 18. Juni 2010[^1-5] über die elektronische Übermittlung im Rahmen von Zivil- und Strafprozessen sowie von Schuldbetreibungs- und Konkursverfahren vom EJPD zugewiesenen Aufgaben.
+
+[^1-1]: Fassung gemäss Ziff. I der V vom 26. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 662](https://fedlex.data.admin.ch/eli/oc/2022/662)).
+[^1-2]: Fassung gemäss Ziff. I der V vom 26. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 662](https://fedlex.data.admin.ch/eli/oc/2022/662)).
+[^1-3]: [SR 281.31](https://fedlex.data.admin.ch/eli/cc/1996/2877_2877_2877)
+[^1-4]: Eingefügt durch Ziff. I der V vom 26. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 662](https://fedlex.data.admin.ch/eli/oc/2022/662)).
+[^1-5]: [SR 272.1](https://fedlex.data.admin.ch/eli/cc/2010/413)
 
 #### Art. 2
 
 **Berichterstattung**
 
-Die kantonalen Aufsichtsbehörden berichten dem Bundesamt für Justiz mindestens alle zwei Jahre über:
+<sup>1</sup>
+
+Die oberen oder einzigen kantonalen Aufsichtsbehörden berichten der Dienststelle Oberaufsicht SchKG im Bundesamt für Justiz jährlich über:[^2-1]
 
 - a. die Inspektionen, die sie bei den Betreibungs- und Konkursämtern durchgeführt haben;
 - b. die Tätigkeit der unteren und der oberen Aufsichtsbehörden samt statistischer Übersicht über die Beschwerden und die Zeit ihrer Erledigung;
 - c. die Aussprechung von Disziplinarstrafen;
 - d. ihre Weisungen an die Ämter;
 - e. die Schwierigkeiten, die sie bei der Anwendung des Gesetzes festgestellt haben.
+
+<sup>2</sup> Die Dienststelle Oberaufsicht SchKG im Bundesamt für Justiz kann Weisungen über die Form der Berichterstattung erlassen.[^2-2]
+
+[^2-1]: Fassung gemäss Ziff. I der V vom 26. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 662](https://fedlex.data.admin.ch/eli/oc/2022/662)).
+[^2-2]: Eingefügt durch Ziff. I der V vom 26. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 662](https://fedlex.data.admin.ch/eli/oc/2022/662)).
 
 #### Art. 3
 
