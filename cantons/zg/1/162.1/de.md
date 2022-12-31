@@ -4,13 +4,13 @@ number: "162.1"
 title: Gesetz über den Rechtsschutz in Verwaltungssachen
 short: Verwaltungsrechtspflegegesetz; VRG
 language: de
-version: 2019-04-13
-valid_until: 2022-12-31
-version_adopted: 2019-01-31
+version: 2023-01-01
+valid_until: 2023-01-12
+version_adopted: 2022-08-25
 adopted: 1976-04-01
 in_force: 1977-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/162.1"
-pdf: "https://bgs.zg.ch/api/de/versions/1969/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2388/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.zg.ch/api/de/versions/1969/pdf_file"
 
 (Verwaltungsrechtspflegegesetz; VRG)
 
-Vom 1. April 1976 (Stand 13. April 2019)
+Vom 1. April 1976 (Stand 1. Januar 2023)
 
 Der Kantonsrat des Kantons Zug,
 
@@ -602,7 +602,17 @@ beschliesst:
 
 **Bestand**
 
-<sup>1</sup> Das Verwaltungsgericht besteht aus dem Präsidenten, sechs Mitgliedern und sechs Ersatzleuten.
+<sup>1</sup> Das Verwaltungsgericht besteht aus sieben Mitgliedern, bei teilweiser Besetzung mit Teilämtern aus höchstens acht Mitgliedern, und sechs Ersatzmitgliedern.
+
+<sup>2</sup> Der Kantonsrat legt die Zahl der Haupt-, Teil- und Nebenämter sowie die Beschäftigungsgrade der Teilämter fest. Der Beschäftigungsgrad für das Präsidium beträgt mindestens 80 Prozent, für ein Teilamt mindestens 50 Prozent.
+
+<sup>3</sup> Der Kantonsrat beschliesst die Festlegungen nach Abs. 2 jeweils vor der Wahl auf Antrag des Verwaltungsgerichts.
+
+<sup>4</sup> Bei Ergänzungswahlen während laufender Amtsperiode kann die erweiterte Justizprüfungskommission des Kantonsrats auf Antrag des Verwaltungsgerichts vollamtliche Richterstellen mit Teilämtern zu je 50 Prozent zur Wahl ausschreiben lassen. Sie teilt dies dem Regierungsrat zwecks Festsetzung der Ergänzungswahl gemäss § 57 Abs. 1 WAG[^53-1] mit. Die Ausschreibung erfolgt gemäss § 29 Abs. 1 WAG durch die Staatskanzlei.
+
+<sup>5</sup> Das Verwaltungsgericht kann während der laufenden Amtsperiode im Rahmen der für das Gericht gesamthaft festgelegten Stellenprozente und mit Zustimmung der betroffenen Richterinnen und Richter deren Beschäftigungsgrade bis zu höchstens 50 Stellenprozenten verändern.
+
+[^53-1]: BGS [131.1](https://bgs.zg.ch/data/131.1/de)
 
 #### § 54
 
