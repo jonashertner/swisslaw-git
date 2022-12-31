@@ -4,37 +4,37 @@ number: "651.112"
 title: Reglement betreffend das Parkieren von Motorfahrzeugen auf kantonseigenen oder vom Kanton gemieteten Liegenschaften
 short: Parkplatzreglement
 language: de
-version: 2010-01-01
-corrected: 2021-11-03
-version_adopted: 2009-12-22
+version: 2023-01-01
+valid_until: 2023-05-31
+version_adopted: 2022-10-18
 adopted: 1997-07-21
 in_force: 1997-11-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/651.112"
-pdf: "https://gesetze.nw.ch/api/de/versions/256/pdf_file"
-text: pdf
+pdf: "https://gesetze.nw.ch/api/de/versions/1062/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Reglement betreffend das Parkieren von Motorfahrzeugen auf kantonseigenen oder vom Kanton gemieteten Liegenschaften (Parkplatzreglement)
+# Reglement betreffend das Parkieren von Motorfahrzeugen auf kantonseigenen oder vom Kanton gemieteten Liegenschaften
 
-vom 21. Juli 1997[^t-1]
+(Parkplatzreglement)
+
+vom 21.07.1997 (Stand 01.01.2023)
 
 Der Regierungsrat von Nidwalden,
 
-gestützt auf Art. 65 Abs. Abs. 2 Ziffer 10 der Kantonsverfassung, Art. 65 Abs. 3 des Strassengesetzes[^t-2] und § 1 der Vollziehungsverordnung zum Einführungsgesetz zur Bundesgesetzgebung über den Strassenverkehr[^t-3],
+gestützt auf Art. 65 Abs. 2 Ziff. 10 der Kantonsverfassung, Art. 65 Abs. 3 des Strassengesetzes[^ingress-1] und § 1 der Vollziehungsverordnung zum Einführungsgesetz zur Bundesgesetzgebung über den Strassenverkehr[^ingress-2],
 
 beschliesst:
 
-[^t-1]: A 1997, 1177
-[^t-2]: NG 622.1
-[^t-3]: NG 651.11 (heute Art. 15 Abs. 3 Kantonales Strassenverkehrsgesetz; NG 651.1)
+[^ingress-1]: NG 622.1
+[^ingress-2]: NG 651.11 (heute Art. 15 Abs. 3 Kantonales Strassenverkehrsgesetz; NG 651.1)
 
 #### § 1
 
 **Geltungsbereich**
 
-Dieses Reglement regelt das Parkieren auf den kantonseigenen oder vom Kanton gemieteten Liegenschaften.
+<sup>1</sup> Dieses Reglement regelt das Parkieren auf den kantonseigenen oder vom Kanton gemieteten Liegenschaften.
 
 #### § 2
 
@@ -42,82 +42,81 @@ Dieses Reglement regelt das Parkieren auf den kantonseigenen oder vom Kanton gem
 
 <sup>1</sup> Parkieren im Sinne dieses Reglements ist das Abstellen eines Fahrzeuges oder Anhängers irgendwelcher Art, das nicht bloss dem Ein- und Aussteigenlassen von Personen oder dem Güterumschlag dient.
 
-<sup>2</sup> Öffentliche Parkflächen im Sinne dieses Reglements sind jene Flächen im Freien oder in Gebäuden, die vom Kanton entschädigungslos oder gegen Gebühren zum Parkieren vorgesehen und durch bauliche oder andere Massnahmen als Parkflächen gekennzeichnet sind.
-
-[^2-1]: Fassung gemäss Regierungsratsbeschluss vom 7. April 1998, A 1998, 660; in Kraft seit 15. April 1998
+<sup>2</sup> Öffentliche Parkierungsflächen im Sinne dieses Reglements sind jene Flächen im Freien oder in Gebäuden, die vom Kanton entschädigungslos oder gegen Gebühren zum Parkieren vorgesehen und durch bauliche oder andere Massnahmen als Parkierungsflächen gekennzeichnet sind.
 
 #### § 3
 
-**Parkflächen des Kantons[^2-1]**
+**Geltungsbereich 1. Parkierungsflächen des Kantons**
 
-Dieses Reglement gilt für folgende Parkflächen:
+<sup>1</sup> Dieses Reglement gilt für folgende Parkierungsflächen:
 
-### Parkplätze A
+<sup>2</sup> Parkplätze A:
 
-- 1\. Robert-Durrer-Strasse 4a, Stans (Heilpädagogische Schule)
-
-- 2\. Robert-Durrer-Strasse 4b, Stans (Heilpädagogische Werkstätte) 3.[^hParkplätzeA-1] ...
-
+- 1\. Buochserstrasse 9a, Stans (Heilpädagogische Schule und Werkstätte)
+- 2\.–3. …
 - 4\. Sportplatz Winkelriedhostatt, Stans
-
-- 5\. Mittelschule, Stans (Kollegium St. Fidelis) 6.[^hParkplätzeA-2] ...
-
+- 5\. Mittelschule, Stans (Kollegium St. Fidelis)
+- 6\. …
 - 7\. Kreuzstrasse 1, Stans (Polizeigebäude)
-
 - 8\. Kreuzstrasse 2, Oberdorf (Strassenverkehrsamt)
-
 - 9\. Kreuzstrasse 4, Oberdorf (Gefängnis)
-
 - 10\. Kreuzstrasse 6, Stans (Strasseninspektorat)
-
 - 11\. Zeughaus Wil, Oberdorf
-
 - 12\. Landsgemeindeplatz Wil, Oberdorf
+- 13\.–15. …
+- 16\. Wiler Allmend, Oberdorf (ausserhalb der Nutzung durch die Waffenplatzverwaltung)
 
-- 13\. Mehrzweckhalle Wil, Oberdorf (Aawasserdamm) 14.[^hParkplätzeA-2] ...
+<sup>3</sup> Parkplätze B:
 
-15.[^hParkplätzeA-2] ...
+- 1\. Bahnhofstrasse, Stansstad (Bahnhofparkplatz)
+- 2\. Bootshafen Feld, Beckenried
+- 3\. Neuseeland, Beckenried (bergseits Kantonsstrasse)
 
-[^hParkplätzeA-1]: Fassung gemäss Regierungsratsbeschluss vom 22. Dezember 2009, A 2010, 14; in Kraft seit 1. Januar 2010
-[^hParkplätzeA-2]: Fassung gemäss Regierungsratsbeschluss vom 23. März 1999, A 1999, 413; in Kraft seit 1. Juli 1999
+<sup>4</sup> …
 
-### Parkplätze B
+<sup>5</sup> Parkplätze D:
 
-- 1\. Bahnhofstrasse, Stansstad (Bahnhofparkplatz) 2.[^hParkplätzeB-1] Bootshafen Feld, Beckenried 3.[^hParkplätzeB-1] Neuseeland, Beckenried (bergseits Kantonsstrasse)
+- 1\. Stansstaderstrasse 54, Stans (Kantonalbank, Staatsarchiv)
 
-[^hParkplätzeB-1]: Fassung gemäss Regierungsratsbeschluss vom 23. März 1999, A 1999, 413; in Kraft seit 1. Juli 1999
+<sup>6</sup> Parkplätze E:
 
-### Parkplätze C
+- 1\. Rathausplatz 1 Ost und West, Stans
+- 2\. Dorfplatz 2, Stans (Regierungsgebäude)
+- 3\. Engelbergstrasse 34, Stans
+- 4\. Marktgasse 3, Stans (Zivilstandsamt)
+- 5\. Marktgasse 4, Stans (Gericht)
 
-- 1\. Bahnhof Stansstad (6 Felder nordwestlich des Bahnhofes)
+<sup>7</sup> Parkplätze F:
 
-[^hParkplätzeC-1]: Fassung gemäss Regierungsratsbeschluss vom 28. April 1998, A 1998, 749; in Kraft seit 1. Mai 1998
+- 1\. Tiefgarage Logistikgebäude, Kantonsstrasse 5, Oberdorf (ausserhalb der Nutzung durch die Waffenplatzverwaltung)
 
-### Parkplätze D
+#### § 3a
 
-[^hParkplätzeC-1]
+**2. Ausnahmen**
 
-- 1\. Stansstaderstrasse 54, Stans (Kantonalbank, Sachversicherung, Ausgleichskasse, Staatsarchiv)
+<sup>1</sup> Das Amt kann einzelne Parkplätze durch gelbe Markierung von der Nutzung durch die Öffentlichkeit ausnehmen.
 
-[^hParkplätzeDhParkp-1]: Fassung gemäss Regierungsratsbeschluss vom 23. März 1999, A 1999, 413; in Kraft seit 1. Juli 1999
+<sup>2</sup> Das Parkieren auf den Parkplätzen F ist von Montag bis Freitag von 07.00 Uhr bis 18.00 Uhr nicht gestattet. Das Parkieren ist ausserhalb dieser Zeiten ebenfalls nicht gestattet, wenn die Parkierungsfläche durch die Waffenplatzverwaltung beansprucht und entsprechend gekennzeichnet wird.
 
-### Parkplätze E
+<sup>3</sup> Bei folgenden Parkierungsflächen überträgt der Kanton die Bewirtschaftung und die Regelung des Parkierens mittels Vereinbarung an Dritte:
 
-[^hParkplätzeDhParkp-1]
-
-- 1\. Rathausplatz 1 + 9, Stans
-
-- 2\. Dorfplatz 2, Stans (Regierungsgebäude) 3.[^hParkplätzeEhParkp-1] Engelbergstrasse 34, Stans
-
-[^hParkplätzeEhParkp-1]: Fassung gemäss Regierungsratsbeschluss vom 22. Dezember 2009, A 2010, 14; in Kraft seit 1. Januar 2010
+- 1\. Rütenen, Beckenried
+- 2\. Freizeitanlage Neuseeland, Buochs
+- 3\. Niederbauen Talstation, Emmetten
+- 4\. Bootshafen, Hergiswil
+- 5\. Aawasserstrasse 12, Oberdorf (Zentrum Bevölkerungsschutz)
+- 6\. Bahnhofparking, Stans
+- 7\. Mürgstrasse 12, Stans
+- 8\. Kehrsitenstrasse, Stansstad (Strandbad / Tennisplatz)
+- 9\. General-Guisan-Quai, Stansstad
 
 #### § 4
 
 **Personal des Kantons**
 
-Die Benützung von Parkflächen durch das Personal des Kantons wird im Parkplatzbenützungsreglement[^4-1] festgelegt.
+<sup>1</sup> Für das Personal des Kantons gilt die Parkplatzbenützungsverordnung[^4-1].
 
-[^4-1]: Heute: Parkplatzbenützungsverordnung; NG 165.115
+[^4-1]: NG 165.115
 
 #### § 5
 
@@ -129,103 +128,88 @@ Die Benützung von Parkflächen durch das Personal des Kantons wird im Parkplatz
 
 #### § 6
 
-**Gebühren**
+**Gebühren 1. Grundsatz**
 
-### 1. Grundsatz
-
-<sup>1</sup> Die Gebühren haben den Betrieb und den Unterhalt der Parkuhren sowie den baulichen Unterhalt der Parkflächen zu decken. Im übrigen ist ein Beitrag an die Erstellungskosten anzustreben.
+<sup>1</sup> Die Gebühren haben den Betrieb und den Unterhalt der Parkuhren sowie den baulichen Unterhalt der Parkierungsflächen zu decken sowie einen Beitrag an die Erstellungskosten der Parkierungsflächen zu leisten.
 
 <sup>2</sup> Es besteht kein Anspruch auf Rückerstattung von Gebühren für nicht ausgenützte Parkzeit.
 
-[^h1Grundsatz-1]: Fassung gemäss Regierungsratsbeschluss vom 7. April 1998, A 1998, 660; in Kraft seit 15. April 1998
-
 #### § 7
 
-**2. Höhe der Gebühren[^h1Grundsatz-1]**
+**2. Höhe der Gebühren**
 
-<sup>1</sup> Die Gebühren betragen:
+<sup>1</sup> Die Gebühren betragen für:
 
-1.[^7-1] für Parkplätze A:
+- 1\. die Parkplätze A:
+  - a) 30 Minuten: — gratis
+  - b) bis 60 Minuten: — Fr. –.50
+  - c) bis 90 Minuten: — Fr. 1.–
+  - d) bis 120 Minuten: — Fr. 1.50
+  - e) jede weitere Stunde: — Fr. –.50
+- 2\. die Parkplätze B:
+  - a) 60 Minuten: — Fr. 1.–
+  - b) 2 Stunden: — Fr. 2.–
+  - c) 3 Stunden: — Fr. 3.–
+  - d) 6 Stunden: — Fr. 4.–
+  - e) 9 Stunden: — Fr. 5.–
+  - f) 12 bis 24 Stunden (maximal 24 Stunden): — Fr. 6.–
+- 3\. …
+- 4\. die Parkplätze D:
+  - a) 90 Minuten: — gratis
+  - b) jede weitere Stunde: — Fr. –.50
+- 5\. die Parkplätze E:
+  - a) bis 30 Minuten: — gratis
+  - b) bis 60 Minuten: — Fr. 1.–
+  - c) bis 90 Minuten: — Fr. 2.–
+  - d) bis 120 Minuten (Maximalparkzeit): — Fr. 3.–
 
-- a) 30 Minuten gratis
+<sup>2</sup> Das Parkieren auf den Parkplätzen A und E ist in der Zeit von 19.00 Uhr bis 08.00 Uhr (Montag bis Freitag) beziehungsweise ab 17.00 Uhr an Samstagen sowie an Sonn- und Feiertagen gebührenfrei.
 
-- b) bis 60 Minuten Fr. -.50
+<sup>3</sup> Das Parkieren auf den Parkplätzen D ist in der Zeit von 19.00 Uhr bis 07.00 Uhr (Montag bis Samstag) beziehungsweise an Sonn- und Feiertagen gebührenfrei.
 
-- c) bis 90 Minuten Fr. 1.-
+<sup>4</sup> Die Gebühren betragen für die Parkplätze F:
 
-- d) bis 120 Minuten Fr. 1.50
-
-- e) jede weitere Stunde Fr. -.50
-
-- 2\. für Parkplätze B:
-
-- a) 60 Minuten Fr. 1.-
-
-- b) 2 Stunden Fr. 2.-
-
-- c) 3 Stunden Fr. 3.-
-
-- d) 6 Stunden Fr. 4.-
-
-- e) 9 Stunden Fr. 5.-
-
-- f) 12 bis 24 Stunden Fr. 6.- (maximal 24 Stunden)
-
-- 3\. für Parkplätze C:
-
-gratis, Maximalparkzeit 30 Minuten 4.[^7-2] für Parkplätze D:
-
-- a) 90 Minuten gratis
-
-- b) jede weitere Stunde Fr. -.50 5.[^7-3] für Parkplätze E:
-
-- a) bis 30 Minuten gratis
-
-- b) bis 60 Minuten Fr. 1.-
-
-- c) bis 90 Minuten Fr. 2.-
-
-- d) bis 120 Minuten (Maximalparkzeit) Fr. 3.-
-
-<sup>2</sup> Das Parkieren auf den Parkplätzen A und E ist in der Zeit von 19.00 Uhr bis 08.00 Uhr (Montag bis Freitag) beziehungsweise ab 17.00 Uhr an Samstagen sowie an Sonn- und Feiertagen gebührenfrei.[^7-1]
-
-<sup>3</sup> Das Parkieren auf den Parkplätzen D ist in der Zeit von 19.00 Uhr bis 07.00 Uhr (Montag bis Samstag) beziehungsweise an Sonn- und Feiertagen gebührenfrei.[^7-2]
-
-[^7-1]: Fassung gemäss Regierungsratsbeschluss vom 23. März 1999, A 1999, 413; in Kraft seit 1. Juli 1999
-[^7-2]: Fassung gemäss Regierungsratsbeschluss vom 28. April 1998, A 1998, 749; in Kraft seit 1. Mai 1998
-[^7-3]: Fassung gemäss Regierungsratsbeschluss vom 22. Dezember 2009, A 2010, 14; in Kraft seit 1. Januar 2010
+- 1\. am Samstag und Sonntag von 7.00 bis 18.00 Uhr (Normaltarif):
+  - a) bis 30 Minuten: gratis
+  - b) bis 60 Minuten: Fr. 1.-
+  - c) bis 90 Minuten: Fr. 2.-
+  - d) bis 120 Minuten: Fr. 3.-
+  - e) jede weitere Stunde: Fr. 1.-
+- 2\. täglich von 18.00 bis 07.00 Uhr (Nachttarif):
+  - a) bis 60 Minuten: Fr. 0.50
+  - b) bis 90 Minuten: Fr. 1.-
+  - c) bis 120 Minuten: Fr. 1.50
+  - d) jede weitere Stunde: Fr. 0.50
+- 3\. Pauschale für 24 Stunden: Fr. 12.-
+- 4\. bei Ticketverlust: Fr. 30.-
 
 #### § 8
 
-**3. Dauerbenützung**
+**Dauerparkieren**
 
-<sup>1</sup> Die Liegenschaftsverwaltung des Kantons kann für die Parkplätze Parkplatzvignetten abgeben. Die Vignette berechtigt die Fahrzeughalterin oder den Fahrzeughalter, das Fahrzeug auf einem bestimmten Parkplatz abzustellen; ein Anspruch auf ein Parkfeld besteht nicht.
+<sup>1</sup> In begründeten Fällen kann das Amt einzelne Parkplätze in der Regel für mindestens einen Monat gegen eine Benutzungsgebühr zur Verfügung stellen.
 
-<sup>2</sup> Die Gebühr für ein längerzeitiges Parkieren beträgt Fr. 30.- bis Fr. 80.- je Monat.
+<sup>2</sup> Das Amt stellt eine Bewilligung aus. Ein Anspruch besteht nicht.
+
+<sup>3</sup> Die Gebühr für das Parkieren eines Fahrzeuges beträgt Fr. 40.- bis Fr. 100.- je Monat.
 
 #### § 9
 
-**4. Dauervermietung**
-
-<sup>1</sup> Die Liegenschaftsverwaltung des Kantons kann einzelne Parkfelder längerfristig vermieten und einen entsprechenden Mietvertrag abschliessen. Die Beschriftung der Parkfelder hat im Einverständnis mit der Liegenschaftsverwaltung durch die Mieterin oder den Mieter zu erfolgen.
-
-<sup>2</sup> Die Miete beträgt Fr. 40.- bis Fr. 100.- je Monat.
+**…**
 
 #### § 10
 
 **Haftpflicht**
 
-Für Schäden an parkierten Fahrzeugen haftet der Kanton nur im Rahmen seiner Haftpflicht.
-
-[^10-1]: Fassung gemäss Regierungsratsbeschluss vom 7. April 1998, A 1998, 660; in Kraft seit 15. April 1998
+<sup>1</sup> Für Schäden an parkierten Fahrzeugen haftet der Kanton nur im Rahmen seiner Haftpflicht.
 
 #### § 10a
 
-**Vollzug durch Dritte[^10-1]**
+**Vollzug durch Dritte**
 
-<sup>1</sup> Der Regierungsrat kann die Beschaffung und den Unterhalt der Infrastruktur sowie die Abgabe von Vignetten vertraglich an Dritte übertragen.
+<sup>1</sup> Das Amt kann die Beschaffung und den Unterhalt der Infrastruktur vertraglich an Dritte übertragen.
 
-<sup>2</sup> Die Entschädigung für Dritte darf die Gebühreneinnahmen für die betreffenden Parkplätze nicht überschreiten.
+<sup>2</sup> …
 
 #### § 11
 
@@ -234,3 +218,5 @@ Für Schäden an parkierten Fahrzeugen haftet der Kanton nur im Rahmen seiner Ha
 <sup>1</sup> Dieses Reglement tritt auf den 1. November 1997 in Kraft.
 
 <sup>2</sup> Es ist im Amtsblatt zu veröffentlichen und in die Gesetzessammlung aufzunehmen.
+
+A 1997, 1177
