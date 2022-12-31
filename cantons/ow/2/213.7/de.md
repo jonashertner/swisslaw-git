@@ -4,13 +4,13 @@ number: "213.7"
 title: Gesetz über die amtliche Schätzung der Grundstücke und das Grundpfandrecht
 short: Schätzungs- und Grundpfandgesetz
 language: de
-version: 2017-06-01
-valid_until: 2022-12-31
-version_adopted: 2016-12-01
+version: 2023-01-01
+valid_until: 2024-12-31
+version_adopted: 2021-10-28
 adopted: 2006-10-26
 in_force: 2007-01-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/213.7"
-pdf: "http://gdb.ow.ch/api/de/versions/1366/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1555/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "http://gdb.ow.ch/api/de/versions/1366/pdf_file"
 
 (Schätzungs- und Grundpfandgesetz)
 
-vom 26.10.2006 (Stand 01.06.2017)
+vom 26.10.2006 (Stand 01.01.2023)
 
 Der Kantonsrat des Kantons Obwalden,
 
@@ -267,6 +267,14 @@ beschliesst:
 
 <sup>2</sup> Die Bestimmungen über die Ermittlung und Festsetzung der Vermögenssteuerwerte und Eigenmietwerte, insbesondere die Pflichten der Grundeigentümer und der Grundeigentümerinnen sowie die Aufgaben der kantonalen Steuerverwaltung gemäss den Bestimmungen des Gesetzes über die Neuregelung der Grundstückschätzung werden ein Jahr vor dessen Inkrafttreten angewendet.
 
+#### Art. 23a
+
+**Übergangsrecht zum Nachtrag vom 28. Oktober 2021[^23a-1]**
+
+<sup>1</sup> Die zur Festsetzung der Steuerwerte notwendigen Informationen sind Bestandteil der Steuererklärung und sind durch die Steuerpflichtigen erstmals mit der Steuererklärung 2022 zu deklarieren.
+
+[^23a-1]: OGS 2021, 36; der Nachtrag vom 28. Oktober 2021 tritt - unter Vorbehalt von Art. 23a - am 1. Januar 2025 in Kraft (OGS 2021, 43)
+
 #### Art. 24
 
 **Änderung bisherigen Rechts[^24-1]**
@@ -301,7 +309,9 @@ geändert durch:
 
 \- Gesetz über die Neuregelung der Grundstückschätzungen vom 16. April 2014 (Abstimmungserläuterungen zur Volksabstimmung vom 30. November 2014, OGS 2014, 50), Botschaft und Antrag des Regierungsratsvom 3. Dezember 2013, Kantonsratsprotokolle vom 20. März und 16. April 2014 (22.13.03), Abstimmungsergebnis der Volksabstimmung vom 30. November 2014 (OGS 2014, 51), in Kraft seit 1. Januar 2017 (OGS 2015, 36),
 
-\- Nachtrag zum Gesetz betreffend die Einführung des Schweizerischen Zivilgesetzbuches vom 1. Dezember 2016 (OGS 2016, 79), Botschaft und Vorlage des Regierungsrats vom 16. August 2016 (22.16.02), Kantonsratssitzung vom 26. Oktober und 1. Dezember 2016, vom Eidgenössischen Justiz- und Polizeidepartement genehmigt am 16. Februar 2016, in Kraft seit 1. Juni 2017 (OGS 2017, 26).
+\- Nachtrag zum Gesetz betreffend die Einführung des Schweizerischen Zivilgesetzbuches vom 1. Dezember 2016 (OGS 2016, 79), Botschaft und Vorlage des Regierungsrats vom 16. August 2016 (22.16.02), Kantonsratssitzung vom 26. Oktober und 1. Dezember 2016, vom Eidgenössischen Justiz- und Polizeidepartement genehmigt am 16. Februar 2016, in Kraft seit 1. Juni 2017 (OGS 2017, 26),
+
+\- Nachtrag vom 28. Oktober 2021 (OGS 2021, 36), Botschaft und Vorlage des Regierungsrats vom 31. Mai 2021, Kantonsratssitzungen vom 9. September und 28. Oktober 2021 (22.21.02), in Kraft seit 1. Januar 2023 (Art. 23a) und 1. Januar 2025 (OGS 2021, 43)
 
 Änderung der Zuständigkeiten
 
