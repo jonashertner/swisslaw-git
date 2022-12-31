@@ -3,24 +3,24 @@ canton: LU
 number: 372a
 title: Verordnung über den Zivilschutz
 language: de
-version: 2015-03-01
-valid_until: 2022-12-31
-version_adopted: 2015-02-24
+version: 2023-01-01
+valid_until: 2025-12-31
+version_adopted: 2022-11-08
 adopted: 2008-04-08
 in_force: 2008-05-01
 url: "https://srl.lu.ch/app/de/texts_of_law/372a"
-pdf: "https://srl.lu.ch/api/de/versions/2402/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3987/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über den Zivilschutz
 
-vom 08.04.2008 (Stand 01.03.2015)
+vom 08.04.2008 (Stand 01.01.2023)
 
 Der Regierungsrat des Kantons Luzern,
 
-gestützt auf die §§ 1 Absatz 2, 3 Absatz 2, 4 Absatz 1, 5 Absatz 2, 7 Absatz 3, 11a Absatz 1 und 18a Absatz 2 des Gesetzes über den Zivilschutz vom 19. Juni 2007[^ingress-1],
+gestützt auf die §§ 3 Absatz 6, 4 Absatz 1, 5 Absatz 2, 7 Absatz 3, 11 Absatz 3, 11a Absatz 1, 14 Absatz 3, 15 Absatz 2 und 18a Absatz 2 des Gesetzes über den Zivilschutz vom 19. Juni 2007[^ingress-1],
 
 auf Antrag des Justiz- und Sicherheitsdepartementes,
 
@@ -45,6 +45,24 @@ beschliesst:
 <sup>1</sup> Die Dienststelle Militär, Zivilschutz und Justizvollzug legt die Organisation der Zivilschutzformationen der Zivilschutzorganisationen fest. Für die restliche Organisation der Zivilschutzorganisation ist die Gemeinde zuständig.
 
 <sup>2</sup> Die Dienststelle Militär, Zivilschutz und Justizvollzug legt auch die Dienstgrade im Zivilschutz fest.
+
+#### § 2a
+
+**Kantonale Zivilschutzformation**
+
+<sup>1</sup> Die kantonale Zivilschutzformation hat folgende Aufgaben:
+
+- a. das Betreiben des kantonalen Kommandopostens,
+- b. die Seuchenbekämpfung,
+- c. die Notstromversorgung für das mobile Sicherheitsfunksystem (Polycom),
+- d. die notfallpsychologische Betreuung,
+- e. weitere Aufgaben, die in einem Leistungsauftrag zwischen dem Justiz- und Sicherheitsdepartement und weiteren Behörden oder Organisationen enthalten sind.
+
+<sup>2</sup> Die Dienststelle Militär, Zivilschutz und Justizvollzug wählt den Kommandanten oder die Kommandantin der kantonalen Zivilschutzformation und eine Stellvertretung.
+
+<sup>3</sup> Die Dienststelle Militär, Zivilschutz und Justizvollzug ist für die Administration zuständig.
+
+<sup>4</sup> Es werden in der Regel keine Einsätze zu Gunsten der Gemeinschaft geleistet.
 
 #### § 3
 
@@ -82,7 +100,7 @@ beschliesst:
 
 <sup>2</sup> Sie kann zu Gunsten der Partnerorganisationen des Bevölkerungsschutzes Requisitionen nach eidgenössischem Recht vornehmen.
 
-## 3 Ausbildung, Einsatz und Aufgebot
+## 3 Ausbildung, Aufgebot, Einsatz und Kostenverrechnung
 
 #### § 7
 
@@ -112,23 +130,31 @@ beschliesst:
 
 #### § 10
 
-**Katastrophen und Notlagen**
+**Grossereignisse, Katastrophen, Notlagen und bewaffnete Konflikte**
 
-<sup>1</sup> Das Aufgebot für Einsätze bei Katastrophen und Notlagen kann mündlich oder schriftlich, telefonisch oder über andere technische Hilfsmittel erfolgen und ist für die Schutzdienstpflichtigen verbindlich.
+<sup>1</sup> Das Aufgebot für Einsätze bei Schadenereignissen von grosser Tragweite (Grossereignisse), Katastrophen, Notlagen und bewaffneten Konflikten kann mündlich oder schriftlich, telefonisch oder über andere technische Hilfsmittel erfolgen und ist für die Schutzdienstpflichtigen verbindlich.
 
-<sup>2</sup> Die Zivilschutzorganisation kann ihre Schutzdienstpflichtigen zu Einsätzen bei Katastrophen und Notlagen aufbieten. Einsätze ausserhalb des eigenen Gebietes sind vorgängig durch die Dienststelle Militär, Zivilschutz und Justizvollzug zu genehmigen.
+<sup>2</sup> Die Zivilschutzorganisation kann ihre Schutzdienstpflichtigen zu Einsätzen bei Grossereignissen, Katastrophen, Notlagen und bewaffneten Konflikten aufbieten. Einsätze ausserhalb des eigenen Gebietes bedürfen der vorgängigen Genehmigung durch die Dienststelle Militär, Zivilschutz und Justizvollzug.
 
-<sup>3</sup> Die Dienststelle Militär, Zivilschutz und Justizvollzug kann die Zivilschutzorganisationen zu Katastrophen- und Notlageeinsätzen innerhalb und ausserhalb des Kantons aufbieten.
+<sup>3</sup> Die Dienststelle Militär, Zivilschutz und Justizvollzug kann die Zivilschutzorganisationen zu Einsätzen bei Grossereignissen, Katastrophen, Notlagen und bewaffneten Konflikten innerhalb und ausserhalb des Kantons aufbieten.
 
-<sup>4</sup> Die Zivilschutzformationen mit Leistungsauftrag des Kantons können vom kantonalen Führungsstab oder von der Dienststelle Militär, Zivilschutz und Justizvollzug direkt aufgeboten werden.
+<sup>4</sup> Die Zivilschutzformationen können vom Regierungsrat, vom kantonalen Führungsstab und von der Dienststelle Militär, Zivilschutz und Justizvollzug aufgeboten werden. Die anderen Partnerorganisationen können die Zivilschutzformationen zudem in ihrem eigenen örtlichen Zuständigkeitsbereich via Einsatzleitzentrale aufbieten.
+
+#### § 10a
+
+**Kostenverrechnung für Einsätze bei Katastrophen, Notlagen und Grossereignissen sowie für Instandstellungsarbeiten**
+
+<sup>1</sup> Sofern die Kosten von Einsätzen bei Katastrophen, Notlagen und Grossereignissen sowie für Instandstellungsarbeiten gemäss § 14 Absatz 2 und § 14a des Gesetzes über den Zivilschutz weiterverrechnet werden können, betragen diese für den Sold, den Transport, die Unterkunft und die Verpflegung von Personen sowie für die Betriebsstoffe und den Transport von Mitteln pauschal 50 Franken pro Tag und Person im Einsatz. Die übrigen Kosten werden nach Aufwand verrechnet.
 
 #### § 11
 
 **Einsätze zu Gunsten der Gemeinschaft**
 
-<sup>1</sup> Die Schutzdienstpflichtigen können pro Jahr für höchstens 21 Tage zu Einsätzen zu Gunsten der Gemeinschaft aufgeboten werden.
+<sup>1</sup> …
 
-<sup>2</sup> Die Kosten für die Einsätze zu Gunsten der Gemeinschaft sind vorgängig zu schätzen. Die Dienststelle Militär, Zivilschutz und Justizvollzug oder die Zivilschutzorganisation legt die Höhe des Kostenanteils fest, der durch den Verursacher oder die Verursacherin des Einsatzes zu übernehmen ist.
+<sup>2</sup> Bei nationalen und kantonalen Einsätzen zu Gunsten der Gemeinschaft beträgt die Entschädigung für den Sold, den Transport, die Unterkunft und die Verpflegung von Personen, jene für die Betriebsstoffe und den Transport von Mitteln sowie jene für die Administration und Führung pauschal 90 Franken pro Tag und Person im Einsatz. Die übrigen Kosten werden nach Aufwand verrechnet.
+
+<sup>2<sup>bis</sup></sup> Ist der Verursacher oder die Verursacherin eines Einsatzes zu Gunsten der Gemeinschaft eine gemeinnützige Organisation, kann auf eine Rechnungsstellung verzichtet werden.
 
 <sup>3</sup> Die Dienststelle Militär, Zivilschutz und Justizvollzug kann Zivilschutzorganisationen zu Einsätzen zu Gunsten der Gemeinschaft im kantonalen und nationalen Interesse verpflichten.
 
@@ -136,7 +162,7 @@ beschliesst:
 
 **Bewilligung und Abrechnung**
 
-<sup>1</sup> Die Zivilschutzorganisationen melden der Dienststelle Militär, Zivilschutz und Justizvollzug im Jahr vor der Durchführung die geplanten Wiederholungskurse und Einsätze zur Bewilligung an.
+<sup>1</sup> Die Zivilschutzorganisationen melden der Dienststelle Militär, Zivilschutz und Justizvollzug im Jahr vor der Durchführung die geplanten Wiederholungskurse und Einsätze zur Bewilligung an. In der Bewilligung zu Einsätzen hat die Dienststelle Militär, Zivilschutz und Justizvollzug festzulegen, ob es sich um einen nationalen, kantonalen, regionalen oder kommunalen Einsatz zu Gunsten der Gemeinschaft handelt.
 
 <sup>2</sup> Kurzfristig angeordnete zusätzliche Wiederholungskurse und Einsätze bedürfen ebenfalls der vorgängigen Bewilligung der Dienststelle Militär, Zivilschutz und Justizvollzug.
 
@@ -144,13 +170,23 @@ beschliesst:
 
 ## 4 Schutzbauten, Kulturgüter und Alarmierung
 
+#### § 12a
+
+**Einsatzbereitschaft der Schutzbauten**
+
+<sup>1</sup> Die Dienststelle Militär, Zivilschutz und Justizvollzug ist bei Schutzbauten die zuständige Behörde für Bewilligungen von baulichen und technischen Veränderungen.
+
+<sup>2</sup> Sie ist zudem bei allen Schutzanlagen, ausser den sanitätsdienstlichen Schutzanlagen, die zuständige Behörde für die Festlegung des Grades der Betriebsbereitschaft, einschliesslich der Bewilligung für die Nutzung durch Dritte.
+
+<sup>3</sup> Der koordinierte Sanitätsdienst ist die zuständige Behörde für die Festlegung des Grades der Betriebsbereitschaft von sanitätsdienstlichen Schutzanlagen.
+
 #### § 13
 
-**Schutzanlagen**
+**Bedarfsplanung von Schutzanlagen**
 
-<sup>1</sup> Die Dienststelle Militär, Zivilschutz und Justizvollzug bewilligt die Umnutzung der Schutzanlagen.
+<sup>1</sup> Die Dienststelle Militär, Zivilschutz und Justizvollzug legt den Bedarf an Schutzanlagen fest und bewilligt deren Umnutzung.
 
-<sup>2</sup> Die Gemeinden sind für die Wartung und den Unterhalt der Schutzanlagen gemäss den Vorgaben des Bundes zuständig.
+<sup>2</sup> …
 
 #### § 14
 
@@ -158,7 +194,7 @@ beschliesst:
 
 <sup>1</sup> Die Dienststelle Militär, Zivilschutz und Justizvollzug führt eine Übersicht über die verfügbaren Schutzplätze für die Bevölkerung.
 
-<sup>2</sup> Sie stellt eine minimale Planung der Zuweisung der Bevölkerung zu den Schutzräumen sicher.
+<sup>2</sup> Sie stellt den Gemeinden und Partnerorganisationen auf Verlangen die Resultate der Zuweisungsplanung zur Verfügung.
 
 <sup>3</sup> Sie stellt die erforderliche Software zur Verfügung und erlässt Weisungen über die Zusammenarbeit zwischen Kanton und Gemeinden.
 
@@ -170,15 +206,15 @@ beschliesst:
 
 <sup>2</sup> Die Höhe der Ersatzbeiträge richtet sich nach dem Anhang dieser Verordnung.
 
-<sup>3</sup> Die Gemeinde stellt bei der Dienststelle Militär, Zivilschutz und Justizvollzug mit den erforderlichen Unterlagen ein Gesuch über die Verwendung der bis zum 31. Dezember 2011 verfügten und von den Gemeinden verwalteten Ersatzbeiträge.
+<sup>3</sup> Die Gemeinde stellt bei der Dienststelle Militär, Zivilschutz und Justizvollzug mit den erforderlichen Unterlagen ein Gesuch über die Verwendung der bis zum 31. Dezember 2011 verfügten und von den Gemeinden verwalteten Ersatzbeiträge. Sie erstattet der zuständigen kantonalen Behörde auf deren Verlangen Bericht über die Verwendung der Ersatzbeiträge.
 
-<sup>4</sup> Die Dienststelle Militär, Zivilschutz und Justizvollzug bewilligt die Verwendung der bis zum 31. Dezember 2011 verfügten und von den Gemeinden verwalteten Ersatzbeiträge nach der Prioritätenordnung gemäss Artikel 22 Absatz 1 der eidgenössischen Verordnung über den Zivilschutz (Zivilschutzverordnung) vom 5. Dezember 2003[^15-1].
+<sup>4</sup> Die Dienststelle Militär, Zivilschutz und Justizvollzug bewilligt die Verwendung der bis zum 31. Dezember 2011 verfügten und von den Gemeinden verwalteten Ersatzbeiträge nach der Prioritätenordnung gemäss Artikel 62 Absatz 3 des Bundesgesetzes über den Bevölkerungsschutz und den Zivilschutz (BZG) vom 20. Dezember 2019[^15-1].
 
-<sup>5</sup> Sie verwaltet die ab dem 1. Januar 2012 verfügten Ersatzbeiträge und verwendet sie auf Gesuch hin und von Amtes wegen. Sie kann Mittel aus dem kantonalen Ersatzbeitragsfonds für weitere Massnahmen des Zivilschutzes im Sinn von Artikel 22 Absatz 1c der eidgenössischen Zivilschutzverordnung verwenden, sofern die Finanzierung der Aufgaben gemäss Artikel 22 Absatz 1a und b der eidgenössischen Zivilschutzverordnung durch den kantonalen Ersatzbeitragsfonds und die Ersatzbeitragsfonds der Gemeinden im ganzen Kanton sichergestellt ist.
+<sup>5</sup> Sie verwaltet die ab dem 1. Januar 2012 verfügten Ersatzbeiträge und verwendet sie auf Gesuch hin und von Amtes wegen. Sie kann Mittel aus dem kantonalen Ersatzbeitragsfonds für weitere Massnahmen des Zivilschutzes im Sinn von Artikel 62 Absatz 3a-f BZG verwenden, sofern die Finanzierung der öffentlichen Schutzräume der Gemeinden und die Erneuerung der öffentlichen und privaten Schutzräume durch den kantonalen Ersatzbeitragsfonds und die Ersatzbeitragsfonds der Gemeinden im ganzen Kanton sichergestellt ist.
 
 <sup>6</sup> Der Verzugszins im Sinn von § 18a Absatz 2 des Gesetzes über den Zivilschutz beträgt 5 Prozent.
 
-[^15-1]: SR [520.11](https://db.clex.ch/link/Bund/520.11/de). Auf diese Verordnung wird im Folgenden nicht mehr hingewiesen.
+[^15-1]: SR [520.1](https://db.clex.ch/link/Bund/520.1/de). Auf dieses Gesetz wird im Folgenden nicht mehr hingewiesen.
 
 #### § 16
 
@@ -190,17 +226,13 @@ beschliesst:
 
 #### § 17
 
-**Alarmierung**
-
-<sup>1</sup> Die Gemeinden sind für die Betriebsbereitschaft und den Unterhalt der Alarmierungsmittel nach den Vorgaben des Bundes verantwortlich.
-
-<sup>2</sup> Die Dienststelle Militär, Zivilschutz und Justizvollzug führt das Inventar der Alarmierungsmittel und ist für die Koordination unter den Partnerorganisationen zuständig.
+**…**
 
 ## 5 Strafbestimmungen
 
 #### § 18
 
-<sup>1</sup> Widerhandlungen gegen die Strafbestimmungen gemäss den Artikeln 68 und 69 des Bundesgesetzes über den Bevölkerungsschutz und den Zivilschutz vom 4. Oktober 2002[^18-1] sind der Dienststelle Militär, Zivilschutz und Justizvollzug durch die Zivilschutzorganisationen zu melden. Diese leitet die Anzeige den zuständigen Untersuchungsbehörden weiter.
+<sup>1</sup> Widerhandlungen gegen die Strafbestimmungen gemäss den Artikeln 68 und 69 des Bundesgesetzes über den Bevölkerungsschutz und den Zivilschutz (BZG) vom 20. Dezember 2019[^18-1] sind der Dienststelle Militär, Zivilschutz und Justizvollzug durch die Zivilschutzorganisationen zu melden. Diese leitet die Anzeige den zuständigen Untersuchungsbehörden weiter.
 
 <sup>2</sup> Bei leichten Fällen kann die Zivilschutzorganisation auf eine Meldung an die Dienststelle Militär, Zivilschutz und Justizvollzug und auf eine Strafanzeige verzichten und eine Verwarnung aussprechen.
 
