@@ -4,13 +4,13 @@ number: "812.113"
 title: Direktionsverordnung über die Spitalversorgung
 short: SpVDV
 language: de
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-11-23
+version: 2023-01-01
+valid_until: 2025-02-28
+version_adopted: 2022-12-06
 adopted: 2021-11-23
 in_force: 2022-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/812.113"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2598/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2774/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +19,11 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2598/pdf_file"
 
 (SpVDV)
 
-vom 23.11.2021 (Stand 01.01.2022)
+vom 23.11.2021 (Stand 01.01.2023)
 
 Der Direktor der Gesundheits-, Sozial- und Integrationsdirektion des Kantons Bern
 
-gestützt auf Artikel 27b Absatz 1, Artikel 32 Absatz 1, Artikel 33 Absatz 3, Artikel 34 Absatz 2, Artikel 35 Absatz 3 und Artikel 48 Absatz 1 der Spitalversorgungsverordnung vom 23. Oktober 2013 (SpVV)[^ingress-1],
+gestützt auf Artikel 27b Absatz 1, Artikel 31c Absatz 3, Artikel 31e Absatz 2, Artikel 32 Absatz 1, Artikel 33 Absatz 3, Artikel 34 Absatz 2, Artikel 35 Absatz 3 und Artikel 48 Absatz 1 der Spitalversorgungsverordnung vom 23. Oktober 2013 (SpVV)[^ingress-1],
 
 beschliesst:
 
@@ -37,13 +37,14 @@ beschliesst:
 
 - a die Höhe des genormten Betriebsaufwands im Rettungswesen,
 - b die Parameter zur Aus- und Weiterbildung in nichtuniversitären Gesundheitsberufen,
-- c die Art, den Umfang und den Zeitpunkt der Datenlieferung der Leistungserbringer.
+- c die Art, den Umfang und den Zeitpunkt der Datenlieferung der Leistungserbringer,
+- d die unterversorgten Fachrichtungen im Rahmen der ärztlichen Weiterbildung.
 
 #### Art. 2
 
 **Genormter Betriebsaufwand im Rettungswesen**
 
-<sup>1</sup> Der genormte Betriebsaufwand beträgt 1'707'617 Franken pro Jahr und Rettungsteam.
+<sup>1</sup> Der genormte Betriebsaufwand beträgt 1'714'969 Franken pro Jahr und Rettungsteam.
 
 <sup>2</sup> Allfällige Abgeltungen für Leistungen im Rahmen des kantonalen Bevölkerungsschutz- und Zivilschutzgesetzes vom 19. März 2014 (KBZG)[^2-1] sind im Betrag nach Absatz 1 nicht enthalten.
 
@@ -70,6 +71,22 @@ beschliesst:
 <sup>2</sup> Die Erbringer von Rettungsleistungen liefern dem Gesundheitsamt die Daten nach Anhang 6.
 
 <sup>3</sup> Die Leistungserbringer übermitteln dem Gesundheitsamt die Daten nach den Ziffern 1 sowie 5 bis 9 des Anhangs 5 auf der elektronischen Plattform, die ihnen das Gesundheitsamt zur Verfügung stellt.
+
+#### Art. 4a
+
+**Unterversorgte Fachrichtungen im Rahmen der ärztlichen Weiterbildung**
+
+<sup>1</sup> Als unterversorgte Fachrichtungen im Rahmen der Abgeltung von Weiterbildungsleistungen nach Artikel 31c SpVV gelten
+
+- a die Kinder- und Jugendmedizin,
+- b die Kinder- und Jugendpsychiatrie und -psychotherapie.
+
+<sup>2</sup> Als unterversorgte Fachrichtungen im Rahmen der Förderung von Weiterbildungsstellen nach Artikel 31e SpVV gelten
+
+- a die Allgemeine Innere Medizin,
+- b die Psychiatrie und Psychotherapie,
+- c die Kinder- und Jugendmedizin,
+- d die Kinder- und Jugendpsychiatrie und -psychotherapie.
 
 #### Art. 5
 
