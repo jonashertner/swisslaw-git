@@ -3,20 +3,19 @@ canton: GL
 number: VIII D/13/1
 title: "Einführungsgesetz zum Bundesgesetz über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung"
 language: de
-version: 2012-01-01
-valid_until: 2022-12-31
-version_adopted: 2011-05-01
+version: 2023-01-01
+version_adopted: 2021-09-05
 adopted: 2007-05-06
 in_force: 2008-01-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/VIII-D.13.1"
-pdf: "https://gesetze.gl.ch/api/de/versions/2006/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2375/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Einführungsgesetz zum Bundesgesetz über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung
 
-Vom 06.05.2007 (Stand 01.01.2012)
+Vom 06.05.2007 (Stand 01.01.2023)
 
 (Erlassen von der Landsgemeinde am 6. Mai 2007)
 
@@ -36,7 +35,15 @@ Vom 06.05.2007 (Stand 01.01.2012)
 
 <sup>1</sup> Der Regierungsrat legt für die stationäre Altersbetreuung die maximal anrechenbaren Tagestaxen fest.
 
-<sup>2</sup> Er orientiert sich dabei an den Kosten, die in einem dem üblichen Standard entsprechenden, wirtschaftlich geführten Heim anfallen.
+<sup>2</sup> Er orientiert sich dabei an den transparent ausgewiesenen Kosten einer wirksamen, zweckmässigen und wirtschaftlichen Leistungserbringung.
+
+<sup>3</sup> Die Tagestaxen werden direkt dem Leistungserbringer ausgerichtet.
+
+#### Art. 2a
+
+**Taxe für intermediäre Strukturen**
+
+<sup>1</sup> Der Regierungsrat legt für die Betreuung in intermediären Strukturen die maximal anrechenbaren Tagestaxen fest. Artikel 2 Absätze 2 und 3 gelten dabei sinngemäss.
 
 #### Art. 3
 
@@ -49,6 +56,12 @@ Vom 06.05.2007 (Stand 01.01.2012)
 **Persönliche Auslagen für Heimbewohner**
 
 <sup>1</sup> Der Regierungsrat bestimmt die Höhe der anerkannten persönlichen Auslagen für Personen, die dauernd oder längere Zeit in einem Heim oder Spital leben.
+
+#### Art. 4a
+
+**Mietzinshöchstbeträge**
+
+<sup>1</sup> Der Regierungsrat kann Änderungen der Mietzinshöchstbeträge beantragen.
 
 #### Art. 5
 
