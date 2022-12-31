@@ -4,13 +4,13 @@ number: "412.21"
 title: Verordnung über die Anstellung der Lehrenden an den Volksschulen
 short: Anstellungsverordnung Volksschule
 language: de
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-03-29
+version: 2023-01-01
+valid_until: 2023-07-31
+version_adopted: 2022-12-13
 adopted: 2008-06-02
 in_force: 2009-01-01
 url: "https://ar.clex.ch/app/de/texts_of_law/412.21"
-pdf: "https://ar.clex.ch/api/de/versions/1379/pdf_file"
+pdf: "https://ar.clex.ch/api/de/versions/1450/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://ar.clex.ch/api/de/versions/1379/pdf_file"
 
 (Anstellungsverordnung Volksschule)
 
-vom 02.06.2008 (Stand 01.01.2022)
+vom 02.06.2008 (Stand 01.01.2023)
 
 Der Kantonsrat von Appenzell Ausserrhoden,
 
@@ -280,31 +280,31 @@ beschliesst:
 
 <table>
 <tr><th>Stufe</th><th>I.</th><th>II.</th></tr>
-<tr><td>A1</td><td>78‘800</td><td>94'500</td></tr>
-<tr><td>A2</td><td>81'600</td><td>97'300</td></tr>
-<tr><td>A3</td><td>82‘000</td><td>101'300</td></tr>
-<tr><td>A4</td><td>82‘600</td><td>101'300</td></tr>
-<tr><td>B1</td><td>85‘000</td><td>105'300</td></tr>
-<tr><td>B2</td><td>86'536</td><td>109'319</td></tr>
-<tr><td>B3</td><td>89'951</td><td>113'346</td></tr>
-<tr><td>B4</td><td>93'369</td><td>117'492</td></tr>
-<tr><td>B5</td><td>96'881</td><td>117'492</td></tr>
-<tr><td>B6</td><td>96'976</td><td>117'492</td></tr>
-<tr><td>B7</td><td>96'976</td><td>117'492</td></tr>
-<tr><td>B8</td><td>96'976</td><td>117'492</td></tr>
-<tr><td>C1</td><td>99'258</td><td>121'641</td></tr>
-<tr><td>C2</td><td>102'109</td><td>125'677</td></tr>
-<tr><td>C3</td><td>104'962</td><td>129'712</td></tr>
-<tr><td>C4</td><td>107'813</td><td>133'748</td></tr>
-<tr><td>C5</td><td>110'776</td><td>137'783</td></tr>
-<tr><td>C6</td><td>110'776</td><td>138'053</td></tr>
-<tr><td>C7</td><td>110'776</td><td>138'053</td></tr>
-<tr><td>C8</td><td>110'885</td><td>138'053</td></tr>
-<tr><td>C9</td><td>110'885</td><td>138'053</td></tr>
-<tr><td>D1</td><td>113'172</td><td>138'634</td></tr>
-<tr><td>D2</td><td>115'000</td><td>139'485</td></tr>
-<tr><td>D3</td><td>116'715</td><td>140'063</td></tr>
-<tr><td>D4</td><td>118'782</td><td>140'917</td></tr>
+<tr><td>A1</td><td>80'376</td><td>96'390</td></tr>
+<tr><td>A2</td><td>83'232</td><td>99'246</td></tr>
+<tr><td>A3</td><td>83'640</td><td>103'326</td></tr>
+<tr><td>A4</td><td>84'252</td><td>103'326</td></tr>
+<tr><td>B1</td><td>86'700</td><td>107'406</td></tr>
+<tr><td>B2</td><td>88'267</td><td>111'505</td></tr>
+<tr><td>B3</td><td>91'750</td><td>115'613</td></tr>
+<tr><td>B4</td><td>95'236</td><td>119'842</td></tr>
+<tr><td>B5</td><td>98'819</td><td>119'842</td></tr>
+<tr><td>B6</td><td>98'916</td><td>119'842</td></tr>
+<tr><td>B7</td><td>98'916</td><td>119'842</td></tr>
+<tr><td>B8</td><td>98'916</td><td>119'842</td></tr>
+<tr><td>C1</td><td>101'243</td><td>124'074</td></tr>
+<tr><td>C2</td><td>104'151</td><td>128'191</td></tr>
+<tr><td>C3</td><td>107'061</td><td>132'306</td></tr>
+<tr><td>C4</td><td>109'969</td><td>136'423</td></tr>
+<tr><td>C5</td><td>112'992</td><td>140'539</td></tr>
+<tr><td>C6</td><td>112'992</td><td>140'814</td></tr>
+<tr><td>C7</td><td>112'992</td><td>140'814</td></tr>
+<tr><td>C8</td><td>113'103</td><td>140'814</td></tr>
+<tr><td>C9</td><td>113'103</td><td>140'814</td></tr>
+<tr><td>D1</td><td>115'435</td><td>141'407</td></tr>
+<tr><td>D2</td><td>117'300</td><td>142'275</td></tr>
+<tr><td>D3</td><td>119'049</td><td>142'864</td></tr>
+<tr><td>D4</td><td>121'158</td><td>143'735</td></tr>
 </table>
 
 <sup>2</sup> Lehrenden mit Klassenverantwortung wird die Unterrichtszeit ohne Lohnkürzung um 30 Jahresstunden reduziert. Die Schulleitung beschliesst die Verteilung, wenn mehrere Personen die Verantwortung für die Schulklasse tragen.
