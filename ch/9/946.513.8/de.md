@@ -4,11 +4,11 @@ title: "Verordnung vom 19. Mai 2010 über das Inverkehrbringen von nach ausländ
 short: VIPaV
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/350"
 language: de
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2010-05-19
 in_force: 2010-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/350/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2010-350-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/350/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/350/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2010-350-20230101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/350/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/350/20220101/de"
 
 (Verordnung über das Inverkehrbringen von Produkten nach ausländischen Vorschriften, VIPaV)
 
-vom 19. Mai 2010 (Stand am 1. Januar 2022)
+vom 19. Mai 2010 (Stand am 1. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -54,7 +54,7 @@ Vom Grundsatz nach Artikel 16*a* Absatz 1 THG ausgenommen sind:
   die folgenden mit Chemikalien behandelten oder Chemikalien enthaltenden Produkte:
 
   - 1\. bleihaltige Anstrichfarben und Lacke sowie damit behandelte Produkte (Anhang 2.8 der Chemikalien-Risikoreduktions-Verordnung vom 18. Mai 2005[^2-1], ChemRRV),
-  - 2\.[^2-2] ...
+  - 2\.[^2-2] …
   - 3\.[^2-3] gefährliche Stoffe und Zubereitungen, die auf der Etikette keine Angabe zur Herstellerin nach Artikel 10 Absatz 3 Buchstabe a der Chemikalienverordnung vom 5. Juni 2015[^2-4] (ChemV) enthalten, sowie Stoffe und Zubereitungen nach Artikel 19 ChemV, die im Sicherheitsdatenblatt nicht alle Angaben nach Anhang 2 Ziffer 3.2 ChemV enthalten,
   - 4\.[^2-5] in der Luft stabile Stoffe sowie Zubereitungen und Produkte, welche die Anforderungen nach den Anhängen 1.5, 2.3, 2.9, 2.10, 2.11 und 2.12 ChemRRV nicht erfüllen,
   - 5\. Holz und Holzwerkstoffe, welche die Anforderungen nach Anhang 2.4 Ziffer 1 und Anhang 2.17 ChemRRV nicht erfüllen,
@@ -64,23 +64,23 @@ Vom Grundsatz nach Artikel 16*a* Absatz 1 THG ausgenommen sind:
 
   die folgenden Lebensmittel:
 
-  - 1\.[^2-6] ...
-  - 2\.[^2-7] ...
+  - 1\.[^2-6] …
+  - 2\.[^2-7] …
   - 3\. Tabakfabrikate und Ersatzprodukte, deren Detailverkaufspackung nicht mit dem Kleinhandelspreis in Schweizerfranken und der Firmenbezeichnung oder Reversnummer des inländischen Herstellers oder des Importeurs nach Artikel 16 Absatz 1 Buchstaben a und b des Tabaksteuergesetzes vom 21. März 1969[^2-8] in Verbindung mit Artikel 31 der Tabaksteuerverordnung vom 14. Oktober 2009[^2-9] versehen sind,
   - 4\.[^2-10] Tabakerzeugnisse und Raucherwaren mit Tabakersatzstoffen, deren Verpackungen nicht mit die Warnhinweise ergänzenden Abbildungen nach Artikel 12 Absatz 5 der Tabakverordnung vom 27. Oktober 2004[^2-11] in Verbindung mit der Verordnung des EDI vom 10. Dezember 2007[^2-12] über kombinierte Warnhinweise auf Tabakprodukten versehen sind; vom Grundsatz nach Artikel 16*a* Absatz 1 THG nicht ausgenommen sind Zigaretten, Tabak zum Selbstdrehen und Wasserpfeifentabak,
-  - 5\.[^2-13] ...
+  - 5\.[^2-13] …
   - 6\. Konsumeier in der Schale, Spiegeleier, gekochte Eier sowie gekochte und geschälte Eier (Traiteureier) aus in der Schweiz nicht zugelassener Käfighaltung von Hühnern und ohne Deklaration nach den Artikeln 2, 4 und 5 der Landwirtschaftlichen Deklarationsverordnung vom 26. November 2003[^2-14] (LDV),
   - 7\.[^2-15] Lebensmittel ohne Deklaration hinsichtlich unbeabsichtigter Vermischungen mit allergenen Substanzen nach Artikel 11 Absatz 5 der Verordnung des EDI vom 16. Dezember 2016[^2-16] betreffend die Information über Lebensmittel,
   - 8\.[^2-17] Lebensmittel tierischer Herkunft, die einen Hinweis «ohne GVO[^2-18]» tragen, der den Anforderungen nach Artikel 37 Absätze 4 und 5 der Lebensmittel- und Gebrauchsgegenständeverordnung vom 16. Dezember 2016[^2-19] (LGV) nicht genügt,
   - 9\.[^2-20] Lebensmittel, die mit Verfahren hergestellt wurden, die nach Artikel 28 Absatz 1 LGV bewilligungspflichtig sind, sowie Lebensmittel, die GVO sind, solche enthalten oder daraus gewonnen wurden und die nach Artikel 31 LGV bewilligungspflichtig sind,
-  - 10\.[^2-21] ...
+  - 10\.[^2-21] …
   - 11\. Fleisch, Fleischzubereitungen und Fleischerzeugnisse von Hauskaninchen aus in der Schweiz nicht zugelassener Haltungsform und ohne Deklaration nach den Artikeln 2, 3 und 5 LDV;
 
 - c.
 
   die folgenden übrigen Produkte:
 
-  - 1\.[^2-22] ...
+  - 1\.[^2-22] …
   - 2\.
 
     Eisenbahninfrastruktur und Eisenbahnfahrzeuge, die nicht den schweizerischen sicherheitsrelevanten Produktevorschriften gemäss folgenden Erlassen entsprechen:
@@ -92,24 +92,27 @@ Vom Grundsatz nach Artikel 16*a* Absatz 1 THG ausgenommen sind:
     - – Verordnung vom 5. Dezember 1994[^2-27] über elektrische Anlagen von Bahnen
     - – Ausführungsbestimmungen zu den in dieser Ziffer genannten Erlassen,
 
-  - 3\.[^2-28] ...
+  - 3\.[^2-28] …
   - 4\. dem Edelmetallkontrollgesetz vom 20. Juni 1933[^2-29] unterstellte Waren, welche die Vorschriften betreffend Feingehalte und betreffend die Bezeichnung, Kennzeichnung und materielle Zusammensetzung nach den Artikeln 1–3 und 5–21 des Edelmetallkontrollgesetzes nicht erfüllen,
   - 5\.[^2-30]
 
-    die folgenden Geräte, welche die technischen Vorschriften gemäss den Artikeln 3–8 sowie den Anhängen 1.1, 1.3, 1.15, 1.21, 2.4 und 3.2 der Energieeffizienzverordnung vom 1. November 2017[^2-31] nicht einhalten:
+    die folgenden Geräte, welche die technischen Vorschriften gemäss den Artikeln 3–8 sowie den Anhängen 1.1, 1.3, 1.15–1.16, 1.18, 1.21, 2.4, 2.14 und 3.2 der Energieeffizienzverordnung vom 1. November 2017[^2-31] nicht einhalten:
 
-    - – netzbetriebene Kühl-, Tiefkühl- und Gefriergeräte sowie deren Kombinationen
+    - – netzbetriebene Kühlgeräte
     - – netzbetriebene Haushaltswäschetrockner
-    - – Warmwasserspeicher mit einem Speichervolumen von ≤ 500 Litern
-    - – netzbetriebene Getränkekühler mit Direktverkaufsfunktion, vertikale und kombinierte Kühlschränke für Supermärkte sowie vertikale und kombinierte Gefrierschränke für Supermärkte
-    - – netzbetriebene komplexe Set-Top-Boxen
+    - – bei Warmwasserbereitern und Warmwasserspeichern: elektrische konventionelle Warmwasserbereiter mit einem Speichervolumen von ≥ 150 Litern und Warmwasserspeicher mit einem Speichervolumen von ≤ 500 Litern
+    - – bei Raumheizgeräten und Kombiheizgeräten: elektrische Raumheizgeräte und elektrische Kombiheizgeräte
+    - – bei Einzelraumheizgeräten: elektrische Einzelraumheizgeräte
+    - – bei netzbetriebenen Kühlgeräten mit Direktverkaufsfunktion: Getränkekühler mit Direktverkaufsfunktion, vertikale und kombinierte Kühlschränke für Supermärkte sowie vertikale und kombinierte Gefrierschränke für Supermärkte
+    - – bei netzbetriebenen Set-Top-Boxen: komplexe Set-Top-Boxen
+    - – netzbetriebene gewerbliche Kochfelder, offene Gratinier- oder Warmhalte-Öfen mit starker Oberhitze (Salamander) und Fritteusen
     - – netzbetriebene Haushaltskaffeemaschinen,
 
   - 6\.[^2-32] der Verordnung vom 4. Juni 2010[^2-33] über die Deklaration von Holz und Holzprodukten unterstellte Hölzer und Holzprodukte, welche die Vorschriften zur Deklaration nach den Artikeln 2–4 der genannten Verordnung nicht erfüllen,
-  - 7\.[^2-34] Baumaschinen nach Artikel 19*a* der Luftreinhalte-Verordnung vom 16. Dezember 1985[^2-35] (LRV), sofern sie die Anforderungen nach Anhang 4 Ziffer 3 LRV nicht erfüllen,
-  - 8\.[^2-36] der Pelzdeklarationsverordnung vom 7. Dezember 2012[^2-37] unterstellte Pelze und Pelzprodukte, welche die Vorschriften zur Deklaration nach den Artikeln 2*a*–7 der genannten Verordnung nicht erfüllen,
-  - 9\.[^2-38] andere Elektrizitätszähler als Wirkenergiezähler, für die das Eidgenössische Justiz- und Polizeidepartement gestützt auf Artikel 33 der Messmittelverordnung vom 15. Februar 2006[^2-39] Bestimmungen erlassen hat, insbesondere Elektrizitätszähler für die Blindenergiemessung, die Leistungsmessung oder die Lastgangbildung,
-  - 10\.[^2-40] naturbelassene Holzpellets und -briketts, sofern sie die Anforderungen nach Anhang 5 Ziffer 32 LRV nicht erfüllen.
+  - 7\.[^2-34] …
+  - 8\.[^2-35] der Pelzdeklarationsverordnung vom 7. Dezember 2012[^2-36] unterstellte Pelze und Pelzprodukte, welche die Vorschriften zur Deklaration nach den Artikeln 2*a*–7 der genannten Verordnung nicht erfüllen,
+  - 9\.[^2-37] andere Elektrizitätszähler als Wirkenergiezähler, für die das Eidgenössische Justiz- und Polizeidepartement gestützt auf Artikel 33 der Messmittelverordnung vom 15. Februar 2006[^2-38] Bestimmungen erlassen hat, insbesondere Elektrizitätszähler für die Blindenergiemessung, die Leistungsmessung oder die Lastgangbildung,
+  - 10\.[^2-39] naturbelassene Holzpellets und -briketts, sofern sie die Anforderungen nach Anhang 5 Ziffer 32 LRV nicht erfüllen.
 
 [^2-1]: [SR 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
 [^2-2]: Aufgehoben durch Ziff. II 2 der V vom 17. April 2019, mit Wirkung seit 1. Juni 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
@@ -137,20 +140,19 @@ Vom Grundsatz nach Artikel 16*a* Absatz 1 THG ausgenommen sind:
 [^2-24]: [SR 742.141.1](https://fedlex.data.admin.ch/eli/cc/1983/1902_1902_1902)
 [^2-25]: [SR 742.141.11](https://fedlex.data.admin.ch/eli/cc/2024/240)
 [^2-26]: [SR 734.0](https://fedlex.data.admin.ch/eli/cc/19/259_252_257)
-[^2-27]: [[AS 1995 1024](https://fedlex.data.admin.ch/eli/oc/1995/1024_1024_1024), [1997 1008](https://fedlex.data.admin.ch/eli/oc/1997/1008_1008_1008)Anhang Ziff. 5 [1016](https://fedlex.data.admin.ch/eli/oc/1997/1016_1016_1016)Anhang 5, [1998 54](https://fedlex.data.admin.ch/eli/oc/1998/54_54_54)Anhang Ziff. 6, [2000 741](https://fedlex.data.admin.ch/eli/oc/2000/124)Art. 10 Ziff. 1 [762](https://fedlex.data.admin.ch/eli/oc/2000/127)Ziff. II 5, [2009 6243](https://fedlex.data.admin.ch/eli/oc/2009/763)Anhang 3 Ziff. 6. [AS 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)Anhang 2 Ziff. II]
+[^2-27]: [[AS 1995 1024](https://fedlex.data.admin.ch/eli/oc/1995/1024_1024_1024); [1997 1008](https://fedlex.data.admin.ch/eli/oc/1997/1008_1008_1008)Anhang Ziff. 5, [1016](https://fedlex.data.admin.ch/eli/oc/1997/1016_1016_1016)Anhang 5; [1998 54](https://fedlex.data.admin.ch/eli/oc/1998/54_54_54)Anhang Ziff. 6; [2000 741](https://fedlex.data.admin.ch/eli/oc/2000/124)Art. 10 Ziff. 1, [762](https://fedlex.data.admin.ch/eli/oc/2000/127)Ziff. II 5; [2009 6243](https://fedlex.data.admin.ch/eli/oc/2009/763)Anhang 3 Ziff. 6. [AS 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)Anhang 2 Ziff. II]
 [^2-28]: Aufgehoben durch Ziff. III der V vom 11. April 2018, mit Wirkung seit 1. Jan. 2022 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
 [^2-29]: [SR 941.31](https://fedlex.data.admin.ch/eli/cc/50/345_357_401)
-[^2-30]: Fassung gemäss Ziff. III der V vom 22. April 2020, in Kraft seit 15. Mai 2020 ([AS 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
+[^2-30]: Fassung gemäss Ziff. III der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 776](https://fedlex.data.admin.ch/eli/oc/2022/776)).
 [^2-31]: [SR 730.02](https://fedlex.data.admin.ch/eli/cc/2017/765)
 [^2-32]: Eingefügt durch Art. 10 der V vom 4. Juni 2010 über die Deklaration von Holz und Holzprodukten, in Kraft seit 1. Okt. 2010 ([AS 2010 2873](https://fedlex.data.admin.ch/eli/oc/2010/379)).
 [^2-33]: [SR 944.021](https://fedlex.data.admin.ch/eli/cc/2010/379)
-[^2-34]: Eingefügt durch Ziff. I 4 der V vom 29. Juni 2011 über Anpassungen von Verordnungen im Umweltbereich, in Kraft seit 1. Aug. 2011 ([AS 2011 3379](https://fedlex.data.admin.ch/eli/oc/2011/454)).
-[^2-35]: [SR 814.318.142.1](https://fedlex.data.admin.ch/eli/cc/1986/208_208_208)
-[^2-36]: Eingefügt durch Art. 13 der Pelzdeklarationsverordnung vom 7. Dez. 2012 ([AS 2013 579](https://fedlex.data.admin.ch/eli/oc/2013/114)). Fassung gemäss Ziff. II der V vom 19. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 611](https://fedlex.data.admin.ch/eli/oc/2020/113)).
-[^2-37]: [SR 944.022](https://fedlex.data.admin.ch/eli/cc/2013/114)
-[^2-38]: Eingefügt durch Ziff. I der V vom 26. Aug. 2015, in Kraft seit 1. Okt. 2015 ([AS 2014 3121](https://fedlex.data.admin.ch/eli/oc/2014/525)).
-[^2-39]: [SR 941.210](https://fedlex.data.admin.ch/eli/cc/2006/245)
-[^2-40]: Eingefügt durch Ziff. III der V vom 14. Okt. 2015, in Kraft seit 16. Nov. 2015 ([AS 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)).
+[^2-34]: Eingefügt durch Ziff. I 4 der V vom 29. Juni 2011 über Anpassungen von Verordnungen im Umweltbereich ([AS 2011 3379](https://fedlex.data.admin.ch/eli/oc/2011/454)). Aufgehoben durch Ziff. III der V vom 11. April 2018, mit Wirkung seit 1. Jan. 2023 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
+[^2-35]: Eingefügt durch Art. 13 der Pelzdeklarationsverordnung vom 7. Dez. 2012 ([AS 2013 579](https://fedlex.data.admin.ch/eli/oc/2013/114)). Fassung gemäss Ziff. II der V vom 19. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 611](https://fedlex.data.admin.ch/eli/oc/2020/113)).
+[^2-36]: [SR 944.022](https://fedlex.data.admin.ch/eli/cc/2013/114)
+[^2-37]: Eingefügt durch Ziff. I der V vom 26. Aug. 2015, in Kraft seit 1. Okt. 2015 ([AS 2014 3121](https://fedlex.data.admin.ch/eli/oc/2014/525)).
+[^2-38]: [SR 941.210](https://fedlex.data.admin.ch/eli/cc/2006/245)
+[^2-39]: Eingefügt durch Ziff. III der V vom 14. Okt. 2015, in Kraft seit 16. Nov. 2015 ([AS 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)).
 
 #### Art. 3
 
@@ -443,6 +445,6 @@ Anhang
 
 Die nachstehenden Verordnungen werden wie folgt geändert:
 
-...[^annexu1-lvlu1-1]
+…[^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: Die Änd. können unter [AS 2010 2631](https://fedlex.data.admin.ch/eli/oc/2010/350)konsultiert werden.

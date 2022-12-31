@@ -4,11 +4,11 @@ title: "Ordonnance du 19 mai 2010 réglant la mise sur le marché de produits fa
 short: OPPEtr
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/350"
 language: fr
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2010-05-19
 in_force: 2010-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/350/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2010-350-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/350/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/350/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2010-350-20230101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/350/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/350/20220101/fr"
 
 (Ordonnance sur la mise sur le marché de produits fabriqués selon des prescriptions étrangères, OPPEtr)
 
-du 19 mai 2010 (Etat le 1<sup>er</sup> janvier 2022)
+du 19 mai 2010 (État le 1<sup>er</sup> janvier 2023)
 
 Le Conseil fédéral suisse,
 
@@ -64,23 +64,23 @@ Font exception au principe fixé à l’art. 16*a*, al. 1, LETC:
 
   les denrées alimentaires suivantes:
 
-  - 1\.[^2-6] ...
-  - 2\.[^2-7] ...
+  - 1\.[^2-6] …
+  - 2\.[^2-7] …
   - 3\. les produits du tabac et les produits contenant des succédanés de tabac dont l’emballage de vente au détail n’indique pas, comme le prévoit l’art. 16, al. 1, let. a et b, de la loi fédérale du 21 mars 1969 sur l’imposition du tabac[^2-8], en relation avec l’art. 31 de l’ordonnance du 14 octobre 2009 sur l’imposition du tabac[^2-9], le prix de vente au détail en francs suisses, ni la raison sociale ou le numéro de revers du fabricant en Suisse ou de l’importateur,
   - 4\.[^2-10] les produits du tabac et les produits contenant des succédanés de tabac destinés à être fumés dont l’emballage ne comporte pas les illustrations complétant les mises en garde, comme le prévoit l’art. 12, al. 5, de l’ordonnance du 27 octobre 2004 sur le tabac[^2-11], en relation avec l’ordonnance du DFI du 10 décembre 2007 concernant les mises en garde combinées sur les produits du tabac[^2-12]; ne font pas exception au principe fixé à l’art. 16*a*, al. 1, LETC les cigarettes, le tabac à rouler et le tabac pour pipes à eau,
-  - 5\.[^2-13] ...
+  - 5\.[^2-13] …
   - 6\. les œufs de consommation en coquille, les œufs au plat, les œufs cuits ainsi que les œufs cuits écalés (contenus dans des préparations gastronomiques) provenant d’élevages en batteries non admis en Suisse, qui ne sont pas assortis d’une déclaration conforme aux art. 2, 4 et 5 de l’ordonnance agricole du 26 novembre 2003 sur la déclaration (OAgrD)[^2-14],
   - 7\.[^2-15] les denrées alimentaires qui ne sont pas assorties d’une déclaration relative aux mélanges involontaires de substances allergènes conformément à l’art. 11, al. 5, de l’ordonnance du DFI du 16 décembre 2016 concernant l’information sur les denrées alimentaires[^2-16],
   - 8\.[^2-17] les denrées alimentaires portant l’indication «produit sans recours au génie génétique[^2-18]» qui ne satisfont pas aux exigences formulées à l’art. 37, al. 4 et 5, de l’ordonnance du 16 décembre 2016 sur les denrées alimentaires et les objets usuels (ODAlOUs)[^2-19],
   - 9\.[^2-20] les denrées alimentaires fabriquées selon des procédés soumis à autorisation en vertu de l’art. 28, al. 1, ODAlOUs, ainsi que les denrées alimentaires qui sont des OGM, qui contiennent de tels organismes ou qui en sont issues, et qui sont soumises à autorisation en vertu de l’art. 31 de ladite ordonnance,
-  - 10\.[^2-21] ...
+  - 10\.[^2-21] …
   - 11\. la viande, les préparations de viande et les produits à base de viande provenant de lapins domestiques élevés selon un mode d’élevage non admis en Suisse et qui ne sont pas assortis d’une déclaration conforme aux art. 2, 3 et 5 OAgrD;
 
 - c.
 
   les autres produits suivants:
 
-  - 1\.[^2-22] ...
+  - 1\.[^2-22] …
   - 2\.
 
     les infrastructures ferroviaires et les véhicules de chemins de fer non conformes aux prescriptions techniques suisses pertinentes en matière de sécurité telles qu’elles sont prévues par:
@@ -96,20 +96,23 @@ Font exception au principe fixé à l’art. 16*a*, al. 1, LETC:
   - 4\. les ouvrages soumis à la loi du 20 juin 1933 sur le contrôle des métaux précieux[^2-29] qui ne sont pas conformes aux prescriptions concernant les titres et à celles concernant la désignation, le marquage et la composition matérielle énumérées aux art. 1 à 3 et 5 à 21 de ladite loi,
   - 5\.[^2-30]
 
-    les appareils suivants qui ne respectent pas les prescriptions techniques prévues aux art. 3 à 8 et aux annexes 1.1, 1.3, 1.15, 1.21, 2.4 et 3.2 de l’ordonnance du 1<sup>er</sup> novembre 2017 sur les exigences relatives à l’efficacité énergétique[^2-31]:
+    les appareils suivants qui ne respectent pas les prescriptions techniques prévues aux art. 3 à 8 et aux annexes 1.1, 1.3, 1.5, 1.15, 1.16, 1.18, 1.21, 2.4, 2.14 et 3.2 de l’ordonnance du 1<sup>er</sup> novembre 2017 sur les exigences relatives à l’efficacité énergétique[^2-31]:
 
-    - – les appareils de réfrigération et les congélateurs alimentés par le secteur et les combinaisons de tels appareils
+    - – les appareils de réfrigération alimentés par le secteur
     - – les sèche-linge domestiques à tambour alimentés par le secteur
-    - – les ballons d’eau chaude ayant un volume de stockage ≤500 litres
-    - – les appareils de réfrigération de boissons disposant d’une fonction de vente directe, les armoires frigorifiques verticales ou mixtes de supermarché et les congélateurs verticaux ou mixtes de supermarché
-    - – les décodeurs (set-top box) complexes alimentés par le secteur
+    - – pour ce qui est des chauffe-eau et des ballons d’eau chaude: les chauffe-eau électriques conventionnels ayant un volume de stockage ≥ 150 litres et les ballons d’eau chaude ayant un volume de stockage ≤ 500 litres
+    - – pour ce qui est des dispositifs de chauffage des locaux et des dispositifs de chauffage mixtes: les dispositifs de chauffage des locaux électriques et les dispositifs de chauffage mixtes électriques
+    - – pour ce qui est des dispositifs de chauffage décentralisés: les dispositifs de chauffage décentralisés électriques
+    - – pour ce qui est des appareils de réfrigération alimentés par le secteur disposant d’une fonction de vente directe: les appareils de réfrigération de boissons disposant d’une fonction de vente directe, les armoires frigorifiques verticales ou mixtes de supermarché et les congélateurs verticaux ou mixtes de supermarché
+    - – pour ce qui est des décodeurs (set-top box) alimentés par le secteur: les décodeurs (set-top box) complexes
+    - – les plaques de cuisson professionnelles, les fours professionnels à gratin ou de maintien au chaud ouverts, diffusant une chaleur supérieure intense (salamandres) et les friteuses professionnelles alimentés par le secteur
     - – les machines à café domestiques alimentées par le secteur,
 
   - 6\.[^2-32] les bois et les produits en bois soumis à l’ordonnance du 4 juin 2010 sur la déclaration concernant le bois et les produits en bois[^2-33] qui ne satisfont pas aux prescriptions relatives à la déclaration énoncées aux art. 2 à 4 de ladite ordonnance,
-  - 7\.[^2-34] les machines de chantier visées à l’art. 19*a* de l’ordonnance du 16 décembre 1985 sur la protection de l’air (OPair)[^2-35], si elles ne satisfont pas aux exigences énoncées à l’annexe 4, ch. 3, OPair,
-  - 8\.[^2-36] Les fourrures et les produits de la pelleterie soumis aux dispositions de l’ordonnance du 7 décembre 2012 sur la déclaration des fourrures et des produits de la pelleterie[^2-37] qui ne respectent pas les art. 2*a* à 7 de ladite ordonnance,
-  - 9\.[^2-38] les compteurs d’électricité autres que les compteurs d’énergie active, pour lesquels le Département fédéral de justice et police a édicté des prescriptions selon l’art. 33 de l’ordonnance du 15 février 2006 sur les instruments de mesure[^2-39], notamment les compteurs pour la mesure de l’énergie réactive, la mesure de la puissance ou l’établissement de la courbe de charge,
-  - 10\.[^2-40] les granulés et les briquettes de bois à l’état naturel dans la mesure où ils ne remplissent pas les exigences au sens de l’annexe 5, ch. 32 OPair.
+  - 7\.[^2-34] …
+  - 8\.[^2-35] Les fourrures et les produits de la pelleterie soumis aux dispositions de l’ordonnance du 7 décembre 2012 sur la déclaration des fourrures et des produits de la pelleterie[^2-36] qui ne respectent pas les art. 2*a* à 7 de ladite ordonnance,
+  - 9\.[^2-37] les compteurs d’électricité autres que les compteurs d’énergie active, pour lesquels le Département fédéral de justice et police a édicté des prescriptions selon l’art. 33 de l’ordonnance du 15 février 2006 sur les instruments de mesure[^2-38], notamment les compteurs pour la mesure de l’énergie réactive, la mesure de la puissance ou l’établissement de la courbe de charge,
+  - 10\.[^2-39] les granulés et les briquettes de bois à l’état naturel dans la mesure où ils ne remplissent pas les exigences au sens de l’annexe 5, ch. 32 OPair.
 
 [^2-1]: [RS 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
 [^2-2]: Abrogé par le ch. II 2 de l’O du 17 avr. 2019, avec effet au 1<sup>er</sup> juin 2019 ([RO 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
@@ -140,17 +143,16 @@ Font exception au principe fixé à l’art. 16*a*, al. 1, LETC:
 [^2-27]: [[RO 1995 1024](https://fedlex.data.admin.ch/eli/oc/1995/1024_1024_1024), [1997 1008](https://fedlex.data.admin.ch/eli/oc/1997/1008_1008_1008)annexe ch. 5 [1016](https://fedlex.data.admin.ch/eli/oc/1997/1016_1016_1016)annexe 5, [1998 54](https://fedlex.data.admin.ch/eli/oc/1998/54_54_54)annexe ch. 6, [2000 741](https://fedlex.data.admin.ch/eli/oc/2000/124)art. 10 ch. 1 [762](https://fedlex.data.admin.ch/eli/oc/2000/127)ch. II 5, [2009 6243](https://fedlex.data.admin.ch/eli/oc/2009/763)annexe 3 ch. 6. [RO 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)annexe 2 ch. I]
 [^2-28]: Abrogé par le ch. III de l’O du 11 avr. 2018, avec effet au 1<sup>er</sup> janv. 2022 ([RO 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
 [^2-29]: [RS 941.31](https://fedlex.data.admin.ch/eli/cc/50/345_357_401)
-[^2-30]: Nouvelle teneur selon le ch. III de l’O du 22 avr. 2020, en vigueur depuis le 15 mai 2020 ([RO 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
+[^2-30]: Nouvelle teneur selon le ch. III de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 776](https://fedlex.data.admin.ch/eli/oc/2022/776)).
 [^2-31]: [RS 730.02](https://fedlex.data.admin.ch/eli/cc/2017/765)
 [^2-32]: Introduit par l’art. 10 de l’O du 4 juin 2010 sur la déclaration concernant le bois et les produits en bois, en vigueur depuis le 1<sup>er</sup> oct. 2010 ([RO 2010 2873](https://fedlex.data.admin.ch/eli/oc/2010/379)).
 [^2-33]: [RS 944.021](https://fedlex.data.admin.ch/eli/cc/2010/379)
-[^2-34]: Introduit par le ch. I 4 de l’O du 29 juin 2011 sur des adaptations d’O dans le domaine de l’environnement, en vigueur depuis le 1<sup>er</sup> août 2011 ([RO 2011 3379](https://fedlex.data.admin.ch/eli/oc/2011/454)).
-[^2-35]: [RS 814.318.142.1](https://fedlex.data.admin.ch/eli/cc/1986/208_208_208)
-[^2-36]: Introduit par l’art. 13 de l’O du 7 déc. 2012 sur la déclaration des fourrures ([RO 2013 579](https://fedlex.data.admin.ch/eli/oc/2013/114)). Nouvelle teneur selon le ch. II de l’O du 19 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 611](https://fedlex.data.admin.ch/eli/oc/2020/113)).
-[^2-37]: [RS 944.022](https://fedlex.data.admin.ch/eli/cc/2013/114)
-[^2-38]: Introduit par le ch. I de l’O du 26 août 2015, en vigueur depuis le 1<sup>er</sup> oct. 2015 ([RO 2015 3121](https://fedlex.data.admin.ch/eli/oc/2015/582)).
-[^2-39]: [RS 941.210](https://fedlex.data.admin.ch/eli/cc/2006/245)
-[^2-40]: Introduit par le ch. III de l’O du 14 oct. 2015, en vigueur depuis le 16 nov. 2015 ([RO 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)).
+[^2-34]: Introduit par le ch. I 4 de l’O du 29 juin 2011 sur des adaptations d’O dans le domaine de l’environnement ([RO 2011 3379](https://fedlex.data.admin.ch/eli/oc/2011/454)). Abrogé par le ch. III de l’O du 11 avr. 2018, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
+[^2-35]: Introduit par l’art. 13 de l’O du 7 déc. 2012 sur la déclaration des fourrures ([RO 2013 579](https://fedlex.data.admin.ch/eli/oc/2013/114)). Nouvelle teneur selon le ch. II de l’O du 19 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 611](https://fedlex.data.admin.ch/eli/oc/2020/113)).
+[^2-36]: [RS 944.022](https://fedlex.data.admin.ch/eli/cc/2013/114)
+[^2-37]: Introduit par le ch. I de l’O du 26 août 2015, en vigueur depuis le 1<sup>er</sup> oct. 2015 ([RO 2015 3121](https://fedlex.data.admin.ch/eli/oc/2015/582)).
+[^2-38]: [RS 941.210](https://fedlex.data.admin.ch/eli/cc/2006/245)
+[^2-39]: Introduit par le ch. III de l’O du 14 oct. 2015, en vigueur depuis le 16 nov. 2015 ([RO 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)).
 
 #### Art. 3
 
