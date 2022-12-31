@@ -3,20 +3,20 @@ canton: SG
 number: "216.11"
 title: Personalverordnung der Pädagogischen Hochschule St.Gallen
 language: de
-version: 2016-08-01
-valid_until: 2022-12-31
-version_adopted: 2016-08-23
+version: 2023-01-01
+valid_until: 2023-08-31
+version_adopted: 2022-10-25
 adopted: 2005-06-28
 in_force: 2007-09-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/216.11"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2156/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3407/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Personalverordnung der Pädagogischen Hochschule St.Gallen
 
-vom 28.06.2005 (Stand 01.08.2016)
+vom 28.06.2005 (Stand 01.01.2023)
 
 Die Regierung des Kantons St.Gallen
 
@@ -283,5 +283,16 @@ als Verordnung:[^ingress-1]
 <sup>1</sup> Dieser Erlass wird nach Genehmigung durch den Kantonsrat[^23-1] ab 1. September 2007 angewendet.
 
 [^23-1]: Art. 7 Abs. 2 Bst. d Ziff. 2 GPHSG.
+
+#### Art. 28
+
+**e) Bekanntgabe der zukünftigen Einstufung**
+
+<sup>1</sup> Den Mitarbeitenden werden vor dem 1. September 2023 die Zuordnung ihrer Stelle zur entsprechenden Referenzfunktion, das massgebende Lohnband, die Höhe des Lohns ab 1. September 2023 sowie eine Änderung beim Anspruch auf Weiterbildungsurlaub schriftlich mitgeteilt.
+
+<sup>2</sup> Bestehende Arbeitsverträge sowie Verfügungen, mit denen bestehende Dienstverhältnisse vor Vollzugsbeginn des Nachtrags zur Personalverordnung der Pädagogischen Hochschule des Kantons St.Gallen vom 28. August 2012[^28-1] begründet wurden, bedürfen keiner Anpassung nach Art. 3 Bst. e der Personalverordnung vom 13. Dezember 2011[^28-2].
+
+[^28-1]: nGS 47-119.
+[^28-2]: sGS [143.11](https://www.gesetzessammlung.sg.ch/data/143.11/de).
 
 nGS 41–40
