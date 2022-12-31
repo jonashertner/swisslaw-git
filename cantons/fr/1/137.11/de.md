@@ -4,13 +4,12 @@ number: "137.11"
 title: Verordnung über den Anwaltsberuf
 short: AnwV
 language: de
-version: 2022-02-01
-valid_until: 2022-12-31
-version_adopted: 2022-02-18
+version: 2023-01-01
+version_adopted: 2022-11-02
 adopted: 2003-07-01
 in_force: 2003-07-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/137.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/7383/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8405/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Anwaltsberuf – V
 
 (AnwV)
 
-vom 01.07.2003 (Fassung in Kraft getreten am 01.02.2022)
+vom 01.07.2003 (Fassung in Kraft getreten am 01.01.2023)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -37,7 +36,7 @@ beschliesst:
 
 **Gegenstand**
 
-<sup>1</sup> Diese Verordnung regelt den Vollzug des Gesetzes über den Anwaltsberuf.
+<sup>1</sup> Diese Verordnung regelt den Vollzug des Gesetzes über den Anwaltsberuf[^1-1].
 
 <sup>2</sup> Sie regelt im Besonderen:
 
@@ -50,9 +49,11 @@ beschliesst:
 
 <sup>3</sup> …
 
+[^1-1]: SGF [137.1](https://bdlf.fr.ch/data/137.1/de)
+
 #### Art. 2
 
-**Anwaltskommission (Art. 3, 4 und 5 AnwG) – Organisation**
+**Anwaltskommission (Art. 3, 4 und 5 AnwG[^2-1]) – Organisation**
 
 <sup>1</sup> Die Anwaltskommission bezeichnet aus ihren Mitgliedern zwei Vizepräsidentinnen oder Vizepräsidenten; die eine Person muss französischer, die andere deutscher Sprache sein.
 
@@ -64,9 +65,11 @@ beschliesst:
 
 <sup>5</sup> Die Anwaltskommission hat ihre Adresse beim Amt für Justiz.
 
+[^2-1]: SGF [137.1](https://bdlf.fr.ch/data/137.1/de)
+
 #### Art. 3
 
-**Anwaltskommission (Art. 3, 4 und 5 AnwG) – Tätigkeit**
+**Anwaltskommission (Art. 3, 4 und 5 AnwG[^3-1]) – Tätigkeit**
 
 <sup>1</sup> Die Anwaltskommission wird von ihrer Präsidentin oder ihrem Präsidenten nach Bedarf einberufen, jedoch mindestens einmal im Halbjahr oder wenn drei ihrer Mitglieder es verlangen.
 
@@ -80,11 +83,15 @@ beschliesst:
 - d) Erteilung von Praktikumsbewilligungen und Bewilligungen für eine verkürzte Praktikumsdauer;
 - e) Entscheide über die Zweckmässigkeit der Veröffentlichung eines durch die Aufsichtsbehörde eines anderen Kantons mitgeteilten vorsorglich angeordneten oder befristeten Berufsausübungsverbotes.
 
+[^3-1]: SGF [137.1](https://bdlf.fr.ch/data/137.1/de)
+
 #### Art. 4
 
-**Anwaltskommission (Art. 3, 4 und 5 AnwG) – Beratendes Organ**
+**Anwaltskommission (Art. 3, 4 und 5 AnwG[^4-1]) – Beratendes Organ**
 
 <sup>1</sup> Die Anwaltskommission wird von der Sicherheits-, Justiz- und Sportdirektion und vom Staatsrat in allen Belangen in Zusammenhang mit dem Anwaltsberuf zu Rate gezogen. Sie kann in den Bereichen ihrer Zuständigkeit Vorschläge unterbreiten.
+
+[^4-1]: SGF [137.1](https://bdlf.fr.ch/data/137.1/de)
 
 #### Art. 4a
 
@@ -106,13 +113,15 @@ beschliesst:
 
 #### Art. 5
 
-**Allgemeines (Art. 9 und 10 AnwG)**
+**Allgemeines (Art. 9 und 10 AnwG[^5-1])**
 
 <sup>1</sup> Das Register und die Liste werden in Form von Aktenheften geführt; sie enthalten die mitgeteilten Daten sowie die eingereichten Bescheinigungen und Dokumente. Die darin enthaltenen Daten haben Beweiskraft.
 
 <sup>2</sup> Das Amt für Justiz kann von Amtes wegen bei den zuständigen Behörden überprüfen, ob die für die Eintragung notwendigen persönlichen Voraussetzungen erfüllt sind.
 
 <sup>3</sup> Es veröffentlicht im Internet den oder die Namen und Vornamen, den Sitz des Anwaltsbüros und das Datum der Erlangung des Anwaltspatentes der im Register oder in der Liste eingetragenen Personen.
+
+[^5-1]: SGF [137.1](https://bdlf.fr.ch/data/137.1/de)
 
 #### Art. 6
 
@@ -132,11 +141,13 @@ beschliesst:
 
 #### Art. 7
 
-**Berufshaftpflichtversicherung (Art. 12 Bst. f BGFA)**
+**Berufshaftpflichtversicherung (Art. 12 Bst. f BGFA[^7-1])**
 
 <sup>1</sup> Die im Register eingetragenen Personen haben den Nachweis zu erbringen, dass sie eine Berufshaftpflichtversicherung in der Höhe von mindestens 1 Million Franken abgeschlossen haben. Dem Amt für Justiz ist eine entsprechende Bescheinigung zu übermitteln.
 
 <sup>2</sup> Die Versicherungsgesellschaft hat der Anwaltskommission jede Auflösung dieser Haftpflichtversicherung oder Verminderung der Versicherungssumme zu melden.
+
+[^7-1]: SR [935.61](https://db.clex.ch/link/Bund/935.61/de)
 
 #### Art. 8
 
@@ -150,11 +161,13 @@ beschliesst:
 
 #### Art. 9
 
-**Informationspflicht (Art. 12 Bst. j BGFA)**
+**Informationspflicht (Art. 12 Bst. j BGFA[^9-1])**
 
 <sup>1</sup> Die im Register oder in der Liste eingetragenen Personen teilen dem Amt für Justiz schriftlich und unverzüglich jede Änderung der verzeichneten Daten mit.
 
 <sup>2</sup> Diejenigen, die ihr Anwaltsbüro als Kapitalgesellschaft gründen wollen, übermitteln der Anwaltskommission vor der Gründung der Gesellschaft einen Entwurf der Statuten.
+
+[^9-1]: SR [935.61](https://db.clex.ch/link/Bund/935.61/de)
 
 #### Art. 10
 
@@ -166,17 +179,19 @@ beschliesst:
 
 #### Art. 11
 
-**Streichung (Art. 14 AnwG)**
+**Streichung (Art. 14 AnwG[^11-1])**
 
 <sup>1</sup> Die im Register oder in der Liste eingetragene Person kann jederzeit die Streichung ihrer Eintragung verlangen; die Streichung wird gemäss Artikel 13 des Gesetzes veröffentlicht.
 
 <sup>2</sup> Die betreffende Person richtet ihr Gesuch an die Anwaltskommission.
 
+[^11-1]: SGF [137.1](https://bdlf.fr.ch/data/137.1/de)
+
 ## 3 Anwaltspraktikum
 
 #### Art. 12
 
-**Einzureichende Dokumente (Art. 18 AnwG)**
+**Einzureichende Dokumente (Art. 18 AnwG[^12-1])**
 
 <sup>1</sup> Die betreffende Person richtet ihr Gesuch um Erteilung einer Bewilligung schriftlich an die Anwaltskommission. Folgende Dokumente sind beizulegen:
 
@@ -185,9 +200,11 @@ beschliesst:
 - c) ein Strafregisterauszug oder eine entsprechende Bescheinigung;
 - d) eine Bescheinigung des Betreibungsamtes und des Konkursamtes.
 
+[^12-1]: SGF [137.1](https://bdlf.fr.ch/data/137.1/de)
+
 #### Art. 13
 
-**Praktikantenregister (Art. 19 AnwG)**
+**Praktikantenregister (Art. 19 AnwG[^13-1])**
 
 <sup>1</sup> Das Praktikantenregister enthält zusätzlich zu den Dokumenten nach Artikel 12 folgende Daten:
 
@@ -200,15 +217,19 @@ beschliesst:
 
 <sup>3</sup> Das Amt für Justiz veröffentlicht im Internet den Namen und Vornamen der Anwaltspraktikantinnen und -praktikanten, den Namen des Anwaltsbüros, in dem das Praktikum absolviert wird, sowie das Datum des Ablaufs der Praktikumsbewilligung.
 
+[^13-1]: SGF [137.1](https://bdlf.fr.ch/data/137.1/de)
+
 #### Art. 14
 
-**Teilzeit und Praktikumsunterbrüche (Art. 20 und 21 AnwG)**
+**Teilzeit und Praktikumsunterbrüche (Art. 20 und 21 AnwG[^14-1])**
 
 <sup>1</sup> Die Anwaltskommission kann ausnahmsweise bewilligen, dass ein Praktikum in Teilzeit absolviert wird. Bei Teilzeit verlängert sich die Praktikumsdauer entsprechend.
 
 <sup>2</sup> Praktikumsunterbrüche, die länger als einen Monat dauern, haben eine entsprechende Verlängerung der Praktikumsdauer zur Folge; sie sind der Anwaltskommission im Voraus zu melden.
 
 <sup>3</sup> In der Regel ist das Praktikum in ein und demselben Anwaltsbüro zu absolvieren. Die Anwaltskommission kann auf schriftliches, begründetes Gesuch hin Ausnahmen bewilligen.
+
+[^14-1]: SGF [137.1](https://bdlf.fr.ch/data/137.1/de)
 
 #### Art. 15
 
@@ -220,15 +241,18 @@ beschliesst:
 
 #### Art. 16
 
-**Anzeige (Art. 32 und 33 AnwG)**
+**Anzeige (Art. 32 und 33 AnwG[^16-1])**
 
 <sup>1</sup> Jede Person, die sich über eine Verletzung der Berufspflichten oder der Bestimmungen des Anwaltsgesetzes durch eine Anwältin oder einen Anwalt beschweren will, kann sich an die Anwaltskommission wenden.
 
 <sup>2</sup> Erscheint die Anzeige nicht von vornherein unbegründet, so informiert die Anwaltskommission die Anwältin oder den Anwalt über die Vorwürfe und fordert sie oder ihn auf, sich dazu zu äussern.
 
-<sup>3</sup> Der summarische Entscheid über die Nichtweiterverfolgung nach Artikel 33 AnwG muss innert drei Monaten getroffen werden.
+<sup>3</sup> Der summarische Entscheid über die Nichtweiterverfolgung nach Artikel 33 AnwG[^16-2] muss innert drei Monaten getroffen werden.
 
 <sup>4</sup> Der anzeigenden Person wird mitgeteilt, ob ihrer Anzeige Folge gegeben wurde oder nicht.
+
+[^16-1]: SGF [137.1](https://bdlf.fr.ch/data/137.1/de)
+[^16-2]: SGF [137.1](https://bdlf.fr.ch/data/137.1/de)
 
 #### Art. 17
 
@@ -244,11 +268,13 @@ beschliesst:
 
 #### Art. 19
 
-**Entscheid (Art. 33 und 36 AnwG)**
+**Entscheid (Art. 33 und 36 AnwG[^19-1])**
 
 <sup>1</sup> Die von der Anwaltskommission getroffenen Entscheide werden begründet und den betroffenen Anwältinnen oder Anwälten mitgeteilt.
 
 <sup>2</sup> Das vorsorglich angeordnete, das befristete und das dauernde Berufsausübungsverbot werden den Aufsichtsbehörden der anderen Kantone mitgeteilt.
+
+[^19-1]: SGF [137.1](https://bdlf.fr.ch/data/137.1/de)
 
 ## 4a Anwaltsprüfungen
 
@@ -395,6 +421,19 @@ beschliesst:
 #### Art. 19m
 
 <sup>1</sup> Die Frist, in der gemäss dem Gesetz über die Verwaltungsrechtspflege Beschwerde eingereicht werden kann, beginnt mit der Zustellung des Protokollauszugs zu laufen, der den Misserfolg festhält.
+
+#### Art. 19n
+
+**Prüfungsbetrug**
+
+<sup>1</sup> Einen Prüfungsbetrug begeht, wer die Prüfungsresultate in unzulässiger Weise beeinflusst oder zu beeinflussen versucht, namentlich wer:
+
+- a) während der schriftlichen oder mündlichen Prüfung nicht erlaubte Mittel verwendet oder zu verwenden versucht;
+- b) während der schriftlichen oder mündlichen Prüfung die Hilfe Dritter oder anderer Kandidatinnen oder Kandidaten in Anspruch nimmt oder solche Handlungen versucht.
+
+<sup>2</sup> Prüfungsbetrug wird mit dem Ausschluss von der Examenssession und einem Misserfolg bei den Prüfungen bestraft.
+
+<sup>3</sup> Der Misserfolg und der Ausschluss von der Examenssession wegen Betrug werden in einem Entscheid der Prüfungskommission festgehalten.
 
 ## 5 Gebühren
 

@@ -4,13 +4,12 @@ number: "137.11"
 title: "Ordonnance sur la profession d'avocat"
 short: OAv
 language: fr
-version: 2022-02-01
-valid_until: 2022-12-31
-version_adopted: 2022-02-18
+version: 2023-01-01
+version_adopted: 2022-11-02
 adopted: 2003-07-01
 in_force: 2003-07-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/137.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7383/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8405/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Profession d'avocat – O
 
 (OAv)
 
-du 01.07.2003 (version entrée en vigueur le 01.02.2022)
+du 01.07.2003 (version entrée en vigueur le 01.01.2023)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -37,7 +36,7 @@ Arrête:
 
 **Objet**
 
-<sup>1</sup> La présente ordonnance règle l'exécution de la loi sur la profession d'avocat.
+<sup>1</sup> La présente ordonnance règle l'exécution de la loi sur la profession d'avocat[^1-1].
 
 <sup>2</sup> Elle règle en particulier:
 
@@ -50,9 +49,11 @@ Arrête:
 
 <sup>3</sup> …
 
+[^1-1]: RSF [137.1](https://bdlf.fr.ch/data/137.1/fr)
+
 #### Art. 2
 
-**Commission du barreau (art. 3, 4 et 5 LAv) – Organisation**
+**Commission du barreau (art. 3, 4 et 5 LAv[^2-1]) – Organisation**
 
 <sup>1</sup> La Commission du barreau désigne parmi ses membres deux vice-présidents ou vice-présidentes, l'un francophone et l'autre germanophone.
 
@@ -64,9 +65,11 @@ Arrête:
 
 <sup>5</sup> L'adresse de la Commission du barreau est au Service de la justice.
 
+[^2-1]: RSF [137.1](https://bdlf.fr.ch/data/137.1/fr)
+
 #### Art. 3
 
-**Commission du barreau (art. 3, 4 et 5 LAv) – Fonctionnement**
+**Commission du barreau (art. 3, 4 et 5 LAv[^3-1]) – Fonctionnement**
 
 <sup>1</sup> La Commission du barreau est convoquée par la présidence selon les besoins, mais au moins une fois par semestre, ou si trois membres en font la demande.
 
@@ -80,11 +83,15 @@ Arrête:
 - d) délivre les autorisations de stage et accorde une réduction de la durée de celui-ci;
 - e) décide de l'opportunité de publier un retrait provisoire de l'autorisation ou une interdiction temporaire de pratiquer communiqués par l'autorité de surveillance d'un autre canton.
 
+[^3-1]: RSF [137.1](https://bdlf.fr.ch/data/137.1/fr)
+
 #### Art. 4
 
-**Commission du barreau (art. 3, 4 et 5 LAv) – Organe consultatif**
+**Commission du barreau (art. 3, 4 et 5 LAv[^4-1]) – Organe consultatif**
 
 <sup>1</sup> La Commission du barreau est consultée par la Direction de la sécurité, de la justice et du sport ou par le Conseil d'Etat sur tous les problèmes concernant la profession d'avocat et peut formuler des propositions dans les domaines de sa compétence.
+
+[^4-1]: RSF [137.1](https://bdlf.fr.ch/data/137.1/fr)
 
 #### Art. 4a
 
@@ -106,13 +113,15 @@ Arrête:
 
 #### Art. 5
 
-**Généralités (art. 9 et 10 LAv)**
+**Généralités (art. 9 et 10 LAv[^5-1])**
 
 <sup>1</sup> Le registre et le tableau, tenus sous la forme de dossiers matériels, contiennent les données communiquées ainsi que les attestations et documents produits. Ils font foi des données qu'ils contiennent.
 
 <sup>2</sup> Le Service de la justice peut procéder d'office à la vérification, auprès des autorités compétentes, de la réalisation des conditions personnelles à l'inscription.
 
 <sup>3</sup> Il diffuse sur l'Internet les nom(s), prénom(s), lieu du siège de l'étude et date d'obtention du brevet d'avocat des personnes inscrites au registre ou au tableau.
+
+[^5-1]: RSF [137.1](https://bdlf.fr.ch/data/137.1/fr)
 
 #### Art. 6
 
@@ -132,11 +141,13 @@ Arrête:
 
 #### Art. 7
 
-**Assurance responsabilité civile professionnelle (art. 12 let. f LLCA)**
+**Assurance responsabilité civile professionnelle (art. 12 let. f LLCA[^7-1])**
 
 <sup>1</sup> Les personnes inscrites au registre doivent prouver qu'elles ont conclu une assurance responsabilité civile professionnelle d'un montant minimal de 1 million de francs. Une attestation est fournie à cet égard au Service de la justice.
 
 <sup>2</sup> La suppression ou la réduction de l'assurance responsabilité civile sera annoncée par la compagnie d'assurances à la Commission du barreau.
+
+[^7-1]: RS [935.61](https://db.clex.ch/link/Bund/935.61/fr)
 
 #### Art. 8
 
@@ -150,11 +161,13 @@ Arrête:
 
 #### Art. 9
 
-**Obligation d'informer (art. 12 let. j LLCA)**
+**Obligation d'informer (art. 12 let. j LLCA[^9-1])**
 
 <sup>1</sup> Les personnes inscrites au registre ou au tableau sont tenues d'annoncer au Service de la justice, par écrit et sans délai, toute modification des données enregistrées.
 
 <sup>2</sup> Celles qui envisagent de constituer leur étude sous forme de société de capitaux adressent à la Commission du barreau, préalablement à la constitution de la société, un projet de statuts de celle-ci.
+
+[^9-1]: RS [935.61](https://db.clex.ch/link/Bund/935.61/fr)
 
 #### Art. 10
 
@@ -166,17 +179,19 @@ Arrête:
 
 #### Art. 11
 
-**Renonciation (art. 14 LAv)**
+**Renonciation (art. 14 LAv[^11-1])**
 
 <sup>1</sup> La personne inscrite au registre ou au tableau peut en tout temps requérir la radiation de son inscription; cette renonciation est publiée conformément à l'article 13 de la loi.
 
 <sup>2</sup> La personne concernée adresse sa requête à la Commission du barreau.
 
+[^11-1]: RSF [137.1](https://bdlf.fr.ch/data/137.1/fr)
+
 ## 3 Stage d'avocat
 
 #### Art. 12
 
-**Documents à produire (art. 18 LAv)**
+**Documents à produire (art. 18 LAv[^12-1])**
 
 <sup>1</sup> La personne concernée adresse sa requête d'autorisation par écrit à la Commission du barreau, en produisant les documents suivants:
 
@@ -185,9 +200,11 @@ Arrête:
 - c) un extrait du casier judiciaire ou une attestation analogue;
 - d) une attestation de l'Office des poursuites et de l'Office des faillites.
 
+[^12-1]: RSF [137.1](https://bdlf.fr.ch/data/137.1/fr)
+
 #### Art. 13
 
-**Registre des stagiaires (art. 19 LAv)**
+**Registre des stagiaires (art. 19 LAv[^13-1])**
 
 <sup>1</sup> Le registre des stagiaires contient, en plus des documents mentionnés à l'article 12, les données personnelles suivantes:
 
@@ -200,15 +217,19 @@ Arrête:
 
 <sup>3</sup> Le Service de la justice diffuse sur l'Internet les nom(s) et prénom(s) des avocats et avocates stagiaires, le nom de l'étude dans laquelle le stage est effectué ainsi que l'échéance de l'autorisation de stage.
 
+[^13-1]: RSF [137.1](https://bdlf.fr.ch/data/137.1/fr)
+
 #### Art. 14
 
-**Temps partiel et interruptions de stage (art. 20 et 21 LAv)**
+**Temps partiel et interruptions de stage (art. 20 et 21 LAv[^14-1])**
 
 <sup>1</sup> Exceptionnellement, la Commission du barreau peut autoriser un stage à temps partiel. Si une formation à temps partiel est acceptée, la durée du stage est prolongée en conséquence.
 
 <sup>2</sup> Les interruptions de stage d'une durée supérieure à un mois entraînent une prolongation correspondante du stage; elles doivent faire l'objet d'un avis préalable à la Commission du barreau.
 
 <sup>3</sup> En règle générale, le stage est effectué dans une seule étude. La Commission du barreau peut autoriser des exceptions sur le vu d'une demande écrite motivée.
+
+[^14-1]: RSF [137.1](https://bdlf.fr.ch/data/137.1/fr)
 
 #### Art. 15
 
@@ -220,15 +241,18 @@ Arrête:
 
 #### Art. 16
 
-**Dénonciation (art. 32 et 33 LAv)**
+**Dénonciation (art. 32 et 33 LAv[^16-1])**
 
 <sup>1</sup> Toute personne ayant à se plaindre d'une violation par un avocat ou une avocate de ses devoirs professionnels ou des dispositions de la loi sur la profession d'avocat peut s'adresser à la Commission du barreau.
 
 <sup>2</sup> Si la dénonciation n'apparaît pas d'emblée mal fondée, la Commission du barreau informe l'avocat ou l'avocate des reproches qui lui sont faits et l'invite à se prononcer.
 
-<sup>3</sup> La décision sommaire de classement de l'article 33 LAv doit être rendue dans un délai de trois mois.
+<sup>3</sup> La décision sommaire de classement de l'article 33 LAv[^16-2] doit être rendue dans un délai de trois mois.
 
 <sup>4</sup> L'auteur-e d'une dénonciation est avisé-e si une suite a été donnée ou non à sa dénonciation.
+
+[^16-1]: RSF [137.1](https://bdlf.fr.ch/data/137.1/fr)
+[^16-2]: RSF [137.1](https://bdlf.fr.ch/data/137.1/fr)
 
 #### Art. 17
 
@@ -244,11 +268,13 @@ Arrête:
 
 #### Art. 19
 
-**Décision (art. 33 et 36 LAv)**
+**Décision (art. 33 et 36 LAv[^19-1])**
 
 <sup>1</sup> Les décisions de la Commission du barreau sont motivées et notifiées aux avocats ou avocates concernés.
 
 <sup>2</sup> Les décisions de retrait provisoire de l'autorisation ou d'interdiction temporaire ou définitive de pratiquer sont communiquées aux autorités de surveillance des autres cantons.
+
+[^19-1]: RSF [137.1](https://bdlf.fr.ch/data/137.1/fr)
 
 ## 4a Examens au barreau
 
@@ -395,6 +421,19 @@ Arrête:
 #### Art. 19m
 
 <sup>1</sup> Le délai pour recourir conformément au code de procédure et de juridiction administrative commence à courir dès la réception de l'extrait du procès-verbal constatant l'échec.
+
+#### Art. 19n
+
+**Fraude**
+
+<sup>1</sup> Commet une fraude la personne qui influe ou tente d'influer de manière illicite sur les résultats des examens, en particulier qui:
+
+- a) pendant l'épreuve écrite ou orale, utilise ou tente d'utiliser des moyens non autorisés;
+- b) pendant l'épreuve écrite ou orale, accepte l'aide d'un tiers, l'aide d'autres candidats, ou tente de tels actes.
+
+<sup>2</sup> La fraude est sanctionnée par une exclusion de la session et un échec aux examens.
+
+<sup>3</sup> L'échec aux examens et l'exclusion de la session pour cause de fraude font l'objet d'une décision de la Commission.
 
 ## 5 Emoluments
 
