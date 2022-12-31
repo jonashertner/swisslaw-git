@@ -4,7 +4,7 @@ number: "850.051"
 title: "LOI du 02.12.2003 sur l'action sociale vaudoise (LASV)"
 short: LASV
 language: fr
-version: 2022-01-01
+version: 2023-01-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/850.051?id=8b71b9d3-03d0-4865-8475-19e60cc46a73"
 ---
 
@@ -140,7 +140,7 @@ décrète
 - g. assure la formation des collaborateurs du département et, conjointement avec les associations de communes, celle des autorités d'application pour l'exécution de la présente loi ;
 - h. exerce l'action alimentaire conformément aux articles 289, alinéa 2 et 329, alinéa 3 du Code civil[^7-3] ;
 - i. engage la poursuite en vue de l'exécution forcée des décisions entrées en force au sens de l'article 43 de la présente loi ;
-- j. avalise la dénonciation ou, le cas échéant, dénonce aux autorités pénales compétentes les infractions à la présente loi ;
+- j. avalise la dénonciation, dénonce aux autorités pénales compétentes les infractions à la présente loi ou, le cas échéant, porte plainte contre toute personne responsable de violations à la présente loi ; le département a qualité de partie avec tous les droits, au sens de l'article 104, alinéa 2 CPP ;
 - k. signale à la justice de paix les cas où une curatelle de portée générale devrait être instituée (art.398 du Code civil) ;
 - l. cautionne, sur demande des autorités d'application, l'allocation par celles-ci d'aides financières exceptionnelles ;
 - m. signale à l'autorité de protection les cas où les curateurs négligent leurs devoirs envers les personnes concernées relevant de la présente loi ;
