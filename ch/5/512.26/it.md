@@ -4,18 +4,22 @@ title: Ordinanza del 14 aprile 1999 concernente l’istruzione della truppa in c
 short: OITIP
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/225"
 language: it
-version: 1999-05-01
+version: 2023-01-01
 adopted: 1999-04-14
 in_force: 1999-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/225/19990501/it/xml/fedlex-data-admin-ch-eli-cc-1999-225-19990501-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/225/19990501/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/225/20230101/it/xml/fedlex-data-admin-ch-eli-cc-1999-225-20230101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/225/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza concernente l’istruzione della truppa in caso di impieghi di polizia
 
-del 14 aprile 1999 (Stato 1° maggio 1999)
+(OITIP)[^t-1]
+
+del 14 aprile 1999 (Stato 1° gennaio 2023)
+
+[^t-1]: Nuovo testo giusta il n. II 2 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 791](https://fedlex.data.admin.ch/eli/oc/2022/791)).
 
 Il Consiglio federale svizzero,
 
@@ -57,15 +61,18 @@ Nella presente ordinanza s’intendono per:
 
 **Truppe da istruire**
 
-<sup>1</sup> Il capo delle Forze terrestri designa, secondo le opzioni del capo dello Stato maggiore generale, le formazioni che, nell’ambito di operazioni di organi civili di polizia devono essere istruite per impieghi sussidiari di sicurezza.
+<sup>1</sup> Il comandante delle Forze terrestri[^3-1] designa, secondo le opzioni del capo Comando Operazioni[^3-2], le formazioni che, nell’ambito di operazioni di organi civili di polizia devono essere istruite per impieghi sussidiari di sicurezza.
 
 <sup>2</sup> Per i compiti del servizio d’ordine devono essere istruiti soltanto la Polizia militare e il Corpo della guardia delle fortificazioni.
+
+[^3-1]: Nuova espr. giusta il n. II 2 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 791](https://fedlex.data.admin.ch/eli/oc/2022/791)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^3-2]: Nuova espr. giusta il n. II 2 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 791](https://fedlex.data.admin.ch/eli/oc/2022/791)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 #### Art. 4
 
 **Competenze**
 
-Nel loro ambito di competenza, il capo dello Stato maggiore generale, il capo delle Forze terrestri e i comandanti delle Grandi Unità possono ordinare l’istruzione della truppa nel quadro di impieghi civili di polizia e attribuire loro materiale di polizia supplementare.
+Nel loro ambito di competenza, il capo Comando Operazioni, il comandante delle Forze terrestri e i comandanti delle Grandi Unità possono ordinare l’istruzione della truppa nel quadro di impieghi civili di polizia e attribuire loro materiale di polizia supplementare.
 
 #### Art. 5
 
@@ -83,11 +90,9 @@ L’istruzione nell’ambito di operazioni di organi civili di polizia può esse
 
 <sup>1</sup> Alla truppa è consentito l’impiego dell’arma da fuoco soltanto per legittima difesa e in stato di necessità.
 
-<sup>2</sup> Essa può applicare ulteriori misure coercitive di polizia soltanto per quanto necessario all’adempimento del compito civile di polizia che le è stato assegnato.
+<sup>2</sup> e <sup>3</sup> ...[^6-1]
 
-<sup>3</sup> Del rimanente, si applicano le disposizioni dell’ordinanza del 26 ottobre 1994[^6-1] concernente i poteri di polizia dell’esercito.
-
-[^6-1]: [RS 510.32](https://fedlex.data.admin.ch/eli/cc/1995/40_40_40)
+[^6-1]: Abrogati dal n. II 2 dell’O del 23 nov. 2022, con effetto dal 1° gen. 2023 ([RU 2022 791](https://fedlex.data.admin.ch/eli/oc/2022/791)).
 
 #### Art. 7
 
@@ -95,7 +100,7 @@ L’istruzione nell’ambito di operazioni di organi civili di polizia può esse
 
 <sup>1</sup> Gli organi civili di polizia chiamati a partecipare sono responsabili per l’istruzione tecnica.
 
-<sup>2</sup> Prima dell’inizio dell’istruzione, il capo dello Stato maggiore generale, il capo delle Forze terrestri e i comandanti delle Grandi Unità concordano i dettagli con gli organi civili di polizia.
+<sup>2</sup> Prima dell’inizio dell’istruzione, il capo Comando Operazioni, il comandante delle Forze terrestri e i comandanti delle Grandi Unità concordano i dettagli con gli organi civili di polizia.
 
 #### Art. 8
 
@@ -115,7 +120,7 @@ Il Dipartimento federale della difesa, della protezione della popolazione e dell
 
 **Diritto vigente: modifica**
 
-...*[^10-1]*
+...[^10-1]
 
 [^10-1]: La mod. può essere consultata alla [RU 1999 1511](https://fedlex.data.admin.ch/eli/oc/1999/225).
 

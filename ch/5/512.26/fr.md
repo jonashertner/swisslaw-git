@@ -4,18 +4,22 @@ title: Ordonnance du 14 avril 1999 concernant l’instruction de la troupe en ca
 short: OITEP
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/225"
 language: fr
-version: 1999-05-01
+version: 2023-01-01
 adopted: 1999-04-14
 in_force: 1999-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/225/19990501/fr/xml/fedlex-data-admin-ch-eli-cc-1999-225-19990501-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/225/19990501/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/225/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-1999-225-20230101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/225/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance concernant l’instruction de la troupe en cas d’engagements de police
 
-du 14 avril 1999 (Etat le 1<sup>er</sup> mai 1999)
+(OITEP)[^t-1]
+
+du 14 avril 1999 (État le 1<sup>er</sup> janvier 2023)
+
+[^t-1]: Nouvelle teneur selon le ch. II 2 de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 791](https://fedlex.data.admin.ch/eli/oc/2022/791)).
 
 Le Conseil fédéral suisse,
 
@@ -57,15 +61,18 @@ Dans la présente ordonnance, les termes ci-après signifient:
 
 **Instruction des troupes**
 
-<sup>1</sup> Conformément aux directives du chef de l’Etat-major général, le chef des Forces terrestres désigne les formations qui sont instruites pour des engagements subsidiaires de sûreté, dans le cadre d’opérations d’organes civils de police.
+<sup>1</sup> Conformément aux directives du chef du commandement des Opérations[^3-1], le commandant des Forces terrestres[^3-2] désigne les formations qui sont instruites pour des engagements subsidiaires de sûreté, dans le cadre d’opérations d’organes civils de police.
 
 <sup>2</sup> Seuls la police militaire et le Corps des gardes-fortifications sont instruits pour les tâches relevant du service d’ordre.
+
+[^3-1]: Nouvelle expression selon le ch. II 2 de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 791](https://fedlex.data.admin.ch/eli/oc/2022/791)). Il a été tenu compte de cette mod. dans tout le texte.
+[^3-2]: Nouvelle expression selon le ch. II 2 de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 791](https://fedlex.data.admin.ch/eli/oc/2022/791)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 4
 
 **Compétences**
 
-Dans leur domaine de compétence, le chef de l’Etat-major général, le chef des Forces terrestres et les commandants des Grandes Unités peuvent ordonner l’instruction de la troupe dans le cadre d’engagements civils de police et lui attribuer du matériel de police supplémentaire.
+Dans leur domaine de compétence, le chef du commandement des Opérations, le commandant des Forces terrestres et les commandants des Grandes Unités peuvent ordonner l’instruction de la troupe dans le cadre d’engagements civils de police et lui attribuer du matériel de police supplémentaire.
 
 #### Art. 5
 
@@ -83,11 +90,9 @@ L’instruction dans le cadre d’opérations d’organes civils de police peut 
 
 <sup>1</sup> La troupe ne peut engager d’armes à feu qu’en cas de légitime défense et en état de nécessité.
 
-<sup>2</sup> Elle ne peut appliquer d’ autres mesures de contrainte policière que si cela est nécessaire pour remplir la mission des organes civils de police.
+<sup>2</sup> et <sup>3</sup> …[^6-1]
 
-<sup>3</sup> Par ailleurs, les dispositions de l’ordonnance du 26 octobre 1994 concernant les pouvoirs de police de l’armée[^6-1] sont applicables.
-
-[^6-1]: [RS 510.32](https://fedlex.data.admin.ch/eli/cc/1995/40_40_40)
+[^6-1]: Abrogés par le ch. II 2 de l’O du 23 nov. 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 791](https://fedlex.data.admin.ch/eli/oc/2022/791)).
 
 #### Art. 7
 
@@ -95,7 +100,7 @@ L’instruction dans le cadre d’opérations d’organes civils de police peut 
 
 <sup>1</sup> Les organes civils de police mis à contribution sont responsables de l’instruction technique.
 
-<sup>2</sup> Avant le début de l’instruction, le chef de l’Etat-major général, le chef des Forces terrestres et les commandants des Grandes Unités règlent les détails avec les organes civils de police.
+<sup>2</sup> Avant le début de l’instruction, le chef du commandement des Opérations, le commandant des Forces terrestres et les commandants des Grandes Unités règlent les détails avec les organes civils de police.
 
 #### Art. 8
 
