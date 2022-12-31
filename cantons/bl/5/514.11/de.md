@@ -3,20 +3,20 @@ canton: BL
 number: "514.11"
 title: Verordnung über die Investitionshilfen in der Landwirtschaft
 language: de
-version: 2021-05-01
-valid_until: 2022-12-31
-version_adopted: 2021-03-16
+version: 2023-01-01
+valid_until: 2025-01-31
+version_adopted: 2022-12-06
 adopted: 1999-01-26
 in_force: 1999-02-01
 url: "https://bl.clex.ch/app/de/texts_of_law/514.11"
-pdf: "https://bl.clex.ch/api/de/versions/3271/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3470/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Investitionshilfen in der Landwirtschaft
 
-Vom 26.01.1999 (Stand 01.05.2021)
+Vom 26.01.1999 (Stand 01.01.2023)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -49,6 +49,8 @@ beschliesst:
 <sup>2</sup> Gesuche um Unterstützung nach § 1 sind schriftlich an den Ebenrain zu richten.
 
 <sup>3</sup> Der Ebenrain bereitet die Entscheide der Kommission vor.
+
+<sup>4</sup> Der Ebenrain führt die Landwirtschaftliche Kreditkasse mit eigenständiger Rechnung gemäss § 10. Er weist diese integral in der Rechnung des Ebenrain aus.
 
 #### § 3
 
