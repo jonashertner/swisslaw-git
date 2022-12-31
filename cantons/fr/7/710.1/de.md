@@ -4,13 +4,13 @@ number: "710.1"
 title: Raumplanungs- und Baugesetz
 short: RPBG
 language: de
-version: 2019-01-01
-valid_until: 2022-12-31
-version_adopted: 2018-06-21
+version: 2023-01-01
+valid_until: 2023-09-30
+version_adopted: 2021-11-05
 adopted: 2008-12-02
 in_force: 2010-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/710.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/7186/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7586/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Raumplanungs- und Baugesetz
 
 (RPBG)
 
-vom 02.12.2008 (Fassung in Kraft getreten am 01.01.2019)
+vom 02.12.2008 (Fassung in Kraft getreten am 01.01.2023)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -186,6 +186,8 @@ beschliesst:
 <sup>3</sup> Er wird von einem erläuternden Bericht begleitet.
 
 <sup>4</sup> Er legt insbesondere fest, wie die Lage und die Grösse der Bauzonen auf überkommunaler Ebene koordiniert werden.
+
+<sup>5</sup> Die kantonale Mobilitätsstrategie im Sinne des Mobilitätsgesetzes wird darin integriert.
 
 #### Art. 15
 
@@ -463,7 +465,7 @@ beschliesst:
 
 <sup>1</sup> Der Gemeinderichtplan legt die Ziele mindestens in den Bereichen der Bodennutzung, der Bodenressourcen, der Mobilität, der Landschaften und Geotope und der Energie fest.
 
-<sup>2</sup> Insbesondere legt dieser Plan das Verkehrsnetz fest, wobei er die bestehenden Verkehrsbelastungen, die von der Gemeinde vorgesehene Entwicklung der Mobilität und die entstehenden Umwelteinflüsse berücksichtigt.
+<sup>2</sup> Insbesondere beinhaltet dieser Plan die kommunalen Planungen im Sinne der Mobilitätsgesetzgebung.
 
 #### Art. 42
 
@@ -473,7 +475,7 @@ beschliesst:
 
 <sup>2</sup> Das Erschliessungsprogramm:
 
-- a) wird auf der Grundlage des Zonennutzungsplans, der Übersicht über den Stand der Erschliessung sowie der Konzepte oder der Pläne über die Erschliessung ausgearbeitet;
+- a) wird auf der Grundlage des Zonennutzungsplans, der kommunalen Planungen im Sinne des Mobilitätsgesetzes, der Übersicht über den Stand der Erschliessung sowie der Konzepte oder der Pläne über die Erschliessung ausgearbeitet;
 - b) muss mit dem Finanzplan der Gemeinde abgestimmt werden;
 - c) berücksichtigt die bauliche Entwicklung auf dem Gemeindegebiet.
 
@@ -782,6 +784,8 @@ beschliesst:
 
 <sup>4</sup> Die Eigentümerschaft muss sich an den Planungs- und Genehmigungskosten beteiligen. Die Artikel 100 ff. sind sinngemäss anwendbar.
 
+<sup>5</sup> Das für die Mobilität zuständige Amt kann eine Verkehrsstudie verlangen, wenn aufgrund des Detailbebauungsplans ein Verkehrsanstieg zu erwarten ist.
+
 #### Art. 68
 
 **Überprüfung**
@@ -1078,7 +1082,7 @@ beschliesst:
 
 **Feinerschliessung**
 
-<sup>1</sup> In der Regel wird die Feinerschliessung von der betroffenen Grundeigentümerschaft oder von einer Baulandumlegungsgenossenschaft verwirklicht.
+<sup>1</sup> In der Regel wird die Feinerschliessung, mit Ausnahme der Mobilitätsinfrastrukturen, von der betroffenen Grundeigentümerschaft oder von einer Baulandumlegungsgenossenschaft verwirklicht.
 
 <sup>2</sup> Zahlt die Gemeinde einen Beitrag, so werden der Ansatz und die Bedingungen in den Gemeindevorschriften festgelegt.
 
@@ -1098,7 +1102,7 @@ beschliesst:
 
 **Erschliessungsausführung**
 
-<sup>1</sup> Die Ausführung der Erschliessung untersteht dem Baubewilligungsverfahren. Die Bestimmungen der Spezialgesetzgebung bleiben vorbehalten.
+<sup>1</sup> Die Ausführung der Erschliessung, mit Ausnahme der Mobilitätsinfrastrukturen, untersteht dem Baubewilligungsverfahren. Die Bestimmungen der Spezialgesetzgebung bleiben vorbehalten.
 
 ### 2.5.2 Finanzielle Beteiligung der Grundeigentümerschaft und Erschliessungsanspruch
 
@@ -1382,7 +1386,7 @@ beschliesst:
 - 1\. Schulen, Spitäler, Institutionen des sozial-medizinischen Bereichs, Verwaltungsgebäude, Friedhöfe;
 - 2 …
 - 3\. Anlagen für die Wasser- und Energieversorgung sowie für das Fernmeldewesen;
-- 4\. Verbindungswege und dazugehörige Plätze, Radwege, Fuss- und Wanderwege, Spazierwege, Parks, öffentliche Plätze und Brunnen;
+- 4\. Mobilitätsinfrastrukturen, Parks, öffentliche Plätze und Brunnen;
 - 5\. öffentliche Anlagen für kulturelle Zwecke, Sport- und Erholungsanlagen, Skipisten und Bergbahnen;
 - 6\. Schiffs- und Bootshäfen;
 - 7\. unter Schutz gestellte Naturgüter;

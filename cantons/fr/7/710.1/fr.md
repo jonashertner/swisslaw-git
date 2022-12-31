@@ -4,13 +4,13 @@ number: "710.1"
 title: "Loi sur l'aménagement du territoire et les constructions"
 short: LATeC
 language: fr
-version: 2019-01-01
-valid_until: 2022-12-31
-version_adopted: 2018-06-21
+version: 2023-01-01
+valid_until: 2023-09-30
+version_adopted: 2021-11-05
 adopted: 2008-12-02
 in_force: 2010-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/710.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7186/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7586/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Aménagement du territoire et constructions – L
 
 (LATeC)
 
-du 02.12.2008 (version entrée en vigueur le 01.01.2019)
+du 02.12.2008 (version entrée en vigueur le 01.01.2023)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -186,6 +186,8 @@ Décrète:
 <sup>3</sup> Il est accompagné d'un rapport explicatif.
 
 <sup>4</sup> En particulier, le plan directeur cantonal définit la manière de coordonner l'emplacement et le dimensionnement des zones à bâtir à l'échelle supracommunale.
+
+<sup>5</sup> La stratégie cantonale de mobilité au sens de la législation sur la mobilité y est intégrée.
 
 #### Art. 15
 
@@ -463,7 +465,7 @@ Décrète:
 
 <sup>1</sup> Le plan directeur communal fixe les objectifs de la commune au minimum en matière d'utilisation du sol, de ressources du sous-sol, de mobilité, de sites, paysages et géotopes et d'énergie.
 
-<sup>2</sup> En particulier, ce plan détermine le réseau des transports, en tenant compte des charges existantes, de la mobilité liée au développement prévu par la commune et des impacts sur l'environnement qui en résultent.
+<sup>2</sup> En particulier, ce plan inclut les planifications communales au sens de la législation sur la mobilité.
 
 #### Art. 42
 
@@ -473,7 +475,7 @@ Décrète:
 
 <sup>2</sup> Le programme d'équipement:
 
-- a) est établi sur la base du plan d'affectation des zones, de l'aperçu de l'état de l'équipement ainsi que des conceptions ou des plans relatifs à l'équipement;
+- a) est établi sur la base du plan d'affectation des zones, des planifications communales au sens de la législation sur la mobilité, de l'aperçu de l'état de l'équipement ainsi que des conceptions ou des plans relatifs à l'équipement;
 - b) doit être coordonné avec le plan financier de la commune;
 - c) tient compte du développement de la construction sur le territoire communal.
 
@@ -782,6 +784,8 @@ Décrète:
 
 <sup>4</sup> Les propriétaires sont tenus de contribuer aux frais de planification et d'approbation. Les articles 100 et suivants sont applicables par analogie.
 
+<sup>5</sup> Le Service en charge de la mobilité peut exiger une étude de trafic lorsqu'une augmentation de trafic en raison du plan d'aménagement de détail est vraisemblable.
+
 #### Art. 68
 
 **Réexamen**
@@ -1078,7 +1082,7 @@ Décrète:
 
 **Equipement de détail**
 
-<sup>1</sup> En règle générale, l'équipement de détail est réalisé par les propriétaires des terrains concernés ou par un syndicat de remaniement de terrains à bâtir.
+<sup>1</sup> En règle générale, l'équipement de détail, à l'exception des infrastructures de mobilité, est réalisé par les propriétaires des terrains concernés ou par un syndicat de remaniement de terrains à bâtir.
 
 <sup>2</sup> En cas de subvention par la commune, le taux et les modalités en sont fixés par la réglementation communale.
 
@@ -1098,7 +1102,7 @@ Décrète:
 
 **Exécution de l'équipement**
 
-<sup>1</sup> L'exécution de l'équipement est soumise à la procédure de permis de construire. Les dispositions de la législation spéciale sont réservées.
+<sup>1</sup> L'exécution de l'équipement, à l'exception des infrastructures de mobilité, est soumise à la procédure de permis de construire. Les dispositions de la législation spéciale sont réservées.
 
 ### 2.5.2 Participation financière des propriétaires fonciers et droit à l'équipement
 
@@ -1382,7 +1386,7 @@ Décrète:
 - 1\. écoles, hôpitaux, établissements médico-sociaux, bâtiments administratifs, cimetières;
 - 2 …
 - 3\. installations servant à l'approvisionnement en eau et en énergie et aux télécommunications;
-- 4\. voies de communication et places y relatives, voies cyclables, chemins piétons et de randonnée pédestre, promenades, parcs, places publiques et fontaines;
+- 4\. infrastructures de mobilité, parcs, places publiques et fontaines;
 - 5\. installations publiques culturelles, de sport et de détente, pistes de ski et installations de remontée mécanique;
 - 6\. ports et ports de petite batellerie;
 - 7\. objets naturels mis sous protection;
