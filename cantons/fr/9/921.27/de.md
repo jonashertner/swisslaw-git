@@ -3,13 +3,13 @@ canton: FR
 number: "921.27"
 title: Reglement über die besonderen Entschädigungen für das Personal des Amts für Wald und Natur
 language: de
-version: 2019-04-01
-valid_until: 2022-12-31
-version_adopted: 2019-04-02
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2023-01-17
 adopted: 1991-07-09
 in_force: 1991-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/921.27"
-pdf: "https://bdlf.fr.ch/api/de/versions/5996/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7724/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/5996/pdf_file"
 
 Forstpersonal, besondere Entschädigungen – R
 
-vom 09.07.1991 (Fassung in Kraft getreten am 01.04.2019)
+vom 09.07.1991 (Fassung in Kraft getreten am 01.01.2023)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -180,7 +180,7 @@ beschliesst:
 
 <sup>4</sup> Wildhüterinnen-Fischereiaufseherinnen und Wildhüter-Fischereiaufseher, die im Rahmen ihrer Tätigkeit ihre persönliche Informatikausrüstung für dienstliche Zwecke (Büroarbeit) benützen, erhalten eine Entschädigung nach Artikel 10b dieses Reglements.
 
-<sup>5</sup> Wildhüterinnen-Fischereiaufseherinnen und Wildhüter-Fischereiaufseher, die ihr Privatfahrzeug im Rahmen ihrer Tätigkeit für notwendige Fahrten verwenden, erhalten eine Kilometerentschädigung gemäss der Tabelle im Anhang II des StPR, zuzüglich 10 Rappen. Für Schwertransporte (zum Beispiel: Elektrofischfanggeräte, Fischbehälter) oder für Fahrten mit einem Anhänger beträgt die Kilometerentschädigung 89 Rappen.
+<sup>5</sup> Wildhüterinnen-Fischereiaufseherinnen und Wildhüter-Fischereiaufseher, die ihr Privatfahrzeug zur Erfüllung ihrer Tätigkeit verwenden, erhalten eine Kilometerentschädigung von 1 Franken.
 
 #### Art. 11b
 

@@ -3,13 +3,13 @@ canton: FR
 number: "921.27"
 title: Règlement relatif aux indemnités spéciales versées au personnel du Service des forêts et de la nature
 language: fr
-version: 2019-04-01
-valid_until: 2022-12-31
-version_adopted: 2019-04-02
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2023-01-17
 adopted: 1991-07-09
 in_force: 1991-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/921.27"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5996/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7724/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/5996/pdf_file"
 
 Personnel forestier, indemnités spéciales – R
 
-du 09.07.1991 (version entrée en vigueur le 01.04.2019)
+du 09.07.1991 (version entrée en vigueur le 01.01.2023)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -180,7 +180,7 @@ Arrête:
 
 <sup>4</sup> Les gardes-faune qui utilisent dans le cadre de leurs fonctions leur matériel informatique personnel pour exercer leur activité (travail de bureau) bénéficient de l'indemnité fixée à l'article 10b du présent règlement.
 
-<sup>5</sup> Les gardes-faune qui utilisent leur véhicule privé pour effectuer les déplacements nécessaires à l'accomplissement de leur travail touchent une indemnité kilométrique calculée selon le barème figurant dans l'annexe 2 du RPers, augmentée de 10 centimes. Pour les transports lourds (p. ex. appareils de pêche électrique, bacs à poissons) ou lorsque le véhicule tracte une remorque, l'indemnité kilométrique est de 89 centimes.
+<sup>5</sup> Les gardes-faune qui utilisent leur véhicule privé pour effectuer les déplacements nécessaires à l'accomplissement de leur travail touchent une indemnité kilométrique de 1 franc.
 
 #### Art. 11b
 
