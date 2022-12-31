@@ -4,13 +4,12 @@ number: "914.41"
 title: Verordnung über die selbständigen Anteilrechte und das Alpbuch
 short: VSAA
 language: de
-version: 2020-01-01
-valid_until: 2022-12-31
-version_adopted: 2019-07-02
+version: 2023-01-01
+version_adopted: 2022-11-08
 adopted: 2019-07-02
 in_force: 2020-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/914.41"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2800/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3408/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2800/pdf_file"
 
 (VSAA)
 
-vom 02.07.2019 (Stand 01.01.2020)
+vom 02.07.2019 (Stand 01.01.2023)
 
 Die Regierung des Kantons St.Gallen
 
@@ -114,7 +113,7 @@ als Verordnung:[^ingress-2]
 - b) die Nummer des Alpbuchblatts;
 - c) den Hinweis «Alpbuch nach kantonalem Recht»;
 - d) die Gesamtzahl der selbständigen Anteilrechte;
-- e) die Art des Nutzungsrechts;
+- e) …
 - f) den Hinweis auf das für das Alp- oder Weidegrundstück bestehende Hauptbuchblatt;
 - g) den Namen der Alpkorporation sowie der Alp oder der Weide;
 - h) Eigentümerin oder Eigentümer mit Erwerbstitel;
@@ -171,7 +170,7 @@ als Verordnung:[^ingress-2]
 
 **Errichtung des Alpbuchs**
 
-<sup>1</sup> Politische Gemeinden, die das Alpbuch noch nicht eingeführt haben oder noch über ein nach Art. 12 Abs. 2 der Verordnung über das Alpbuch vom 22. März 1951[^13-1] angelegtes provisorisches Alpbuch verfügen, errichten innert dreier Jahre nach Vollzugsbeginn dieses Erlasses das Alpbuch nach den Vorschriften dieses Erlasses.
+<sup>1</sup> Politische Gemeinden, die das Alpbuch noch nicht eingeführt haben oder noch über ein nach Art. 12 Abs. 2 der Verordnung über das Alpbuch vom 22. März 1951[^13-1] angelegtes provisorisches Alpbuch verfügen, errichten innert sechs Jahren nach Vollzugsbeginn dieses Erlasses das Alpbuch nach den Vorschriften dieses Erlasses.
 
 <sup>2</sup> Sie bereinigen vorgängig die dinglichen Rechte an den selbständigen Anteilrechten, soweit diese nicht den Bestimmungen von Art. 187 und 188 des Einführungsgesetzes zum Schweizerischen Zivilgesetzbuch vom 3. Juli 1911[^13-2] entsprechen.
 
