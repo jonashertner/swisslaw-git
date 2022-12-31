@@ -4,13 +4,12 @@ number: "435.411"
 title: Gesetz über die Berner Fachhochschule
 short: FaG
 language: de
-version: 2020-07-01
-valid_until: 2022-12-31
-version_adopted: 2020-04-22
+version: 2023-01-01
+version_adopted: 2022-03-08
 adopted: 2003-06-19
 in_force: 2004-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/435.411"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1854/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2667/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,18 +18,17 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1854/pdf_file"
 
 (FaG)
 
-vom 19.06.2003 (Stand 01.07.2020)
+vom 19.06.2003 (Stand 01.01.2023)
 
 Der Grosse Rat des Kantons Bern,
 
-in Ausführung von Artikel 44 der Kantonsverfassung[^ingress-1], gestützt auf das Bundesgesetz vom 6. Oktober 1995 über die Fachhochschulen (Fachhochschulgesetz, FHSG)[^ingress-2],
+in Ausführung von Artikel 44 der Kantonsverfassung[^ingress-1],
 
 auf Antrag des Regierungsrates,
 
 beschliesst:
 
-[^ingress-1]: BSG 101.1
-[^ingress-2]: SR 414.71
+[^ingress-1]: BSG [101.1](https://www.belex.sites.be.ch/data/101.1/de)
 
 ## 1 Grundlagen
 
@@ -38,7 +36,7 @@ beschliesst:
 
 **Grundsätzliches**
 
-<sup>1</sup> Der Kanton Bern unterhält die Berner Fachhochschule. Diese bietet in gesamtschweizerischer Koordination Studiengänge in kantonaler und bundesrechtlicher Regelungskompetenz an.
+<sup>1</sup> Der Kanton unterhält die Berner Fachhochschule.
 
 <sup>2</sup> Die Berner Fachhochschule ist eine öffentlich-rechtliche Anstalt mit eigener Rechtspersönlichkeit. Sie ist innerhalb der Grenzen von Verfassung und Gesetz autonom.
 
@@ -51,13 +49,9 @@ beschliesst:
 
 #### Art. 2
 
-**Studienformen**
+**Struktur, Umfang und Dauer der Studien**
 
-<sup>1</sup> Das Studium an der Berner Fachhochschule wird angeboten als
-
-- a Vollzeitstudium,
-- b berufsbegleitendes Studium,
-- c Studium, das sich in Ausbildungsblöcke mit anerkannten Zwischenabschlüssen gliedert.
+<sup>1</sup> …
 
 <sup>2</sup> Struktur und Umfang der Studien richten sich nach national und international anerkannten Richtlinien.
 
@@ -69,11 +63,11 @@ beschliesst:
 
 #### Art. 3
 
-**Bescheinigungen**
+**Titel und Bescheinigungen**
 
-<sup>1</sup> Die Berner Fachhochschule verleiht Bachelor- und Mastertitel, Diplome, Ausweise sowie weitere Bescheinigungen.
+<sup>1</sup> Die Berner Fachhochschule verleiht Bachelor- und Mastertitel gemäss den schweizerischen Koordinationsvorschriften und stellt Bescheinigungen aus.
 
-<sup>2</sup> Sie entzieht einen Titel, ein Diplom, einen Ausweis oder eine weitere Bescheinigung bei Erwerb durch Täuschung oder Irrtum.
+<sup>2</sup> Sie entzieht einen Titel oder eine Bescheinigung bei Erwerb durch Täuschung oder Irrtum.
 
 ## 2 Aufgaben der Berner Fachhochschule
 
@@ -101,7 +95,13 @@ beschliesst:
 
 <sup>7</sup> Sie erbringt Dienstleistungen für Dritte.
 
-<sup>8</sup> Sie fördert den Wissens- und Innovationstransfer und leistet einen wirkungsvollen Beitrag zur Nachhaltigen Entwicklung.
+<sup>8</sup> Sie fördert den Wissens- und Innovationstransfer und leistet in ihren Kernaufgaben in Lehre, Forschung und Entwicklung sowie Dienstleistungen einen wirkungsvollen Beitrag zur Nachhaltigen Entwicklung.
+
+#### Art. 4a
+
+**Beitrag zur Klimaneutralität**
+
+<sup>1</sup> Die Berner Fachhochschule leistet im Rahmen ihrer Kompetenzen den erforderlichen Beitrag zur Erreichung der Klimaneutralität.
 
 #### Art. 5
 
@@ -159,14 +159,20 @@ beschliesst:
 
 <sup>1</sup> Die Angehörigen der Berner Fachhochschule sind die Studierenden sowie die Mitarbeiterinnen und Mitarbeiter.
 
-<sup>2</sup> Es werden folgende Kategorien von Mitarbeiterinnen und Mitarbeitern unterschieden:
+<sup>2</sup> Mitarbeiterinnen und Mitarbeiter sind
 
-- a die Rektorin oder der Rektor,
-- b die Departementsleiterinnen und Departementsleiter,
+- a–b …
 - c die Dozentinnen und Dozenten,
 - d die Assistentinnen und Assistenten,
 - e die wissenschaftlichen Mitarbeiterinnen und Mitarbeiter sowie
 - f die weiteren Mitarbeiterinnen und Mitarbeiter.
+
+<sup>3</sup> Drittmittelangestellte sind Mitarbeiterinnen und Mitarbeiter,
+
+- a deren Gehalt weder aus dem jährlichen Kantonsbeitrag, noch aus Grund- und Investitionsbeiträgen des Bundes, noch aus Studiengebühren oder Beiträgen für Studierende gemäss interkantonalen Vereinbarungen finanziert wird und
+- b deren Arbeitsvertrag diese Anstellungsart ausdrücklich festhält.
+
+<sup>4</sup> Der Regierungsrat kann weitere Kategorien von Mitarbeiterinnen und Mitarbeitern festlegen.
 
 #### Art. 11
 
@@ -233,20 +239,34 @@ beschliesst:
 
 #### Art. 18
 
-**Personalrecht, Gehalt, Anstellung**
+**Personalrecht, Allgemeines**
 
 <sup>1</sup> Soweit dieses Gesetz und seine Ausführungsbestimmungen keine besonderen Vorschriften über die Anstellung der Mitarbeiterinnen und Mitarbeiter der Berner Fachhochschule enthalten, gilt die Personalgesetzgebung.
 
-<sup>2</sup> Der Regierungsrat regelt das Nähere zum Gehalt und zur Anstellung sowie die Zuständigkeiten durch Verordnung. Er kann für die in der Lehre und für die in der Forschung und Entwicklung tätigen Mitarbeiterinnen und Mitarbeiter sowie für die Mitglieder der Fachhochschulleitung Regelungen vorsehen, die von der Personalgesetzgebung abweichen; dies gilt für
+<sup>2</sup> Der Regierungsrat kann durch Verordnung von der Personalgesetzgebung abweichende Bestimmungen für folgende Bereiche erlassen, um den spezifischen Rahmenbedingungen von Arbeitsverhältnissen an der Berner Fachhochschule oder um bestimmten Kategorien von Mitarbeiterinnen und Mitarbeitern Rechnung zu tragen:
 
-- a die Befristung des Angestelltenverhältnisses,
-- b die Bemessung des Gehalts innerhalb der gesetzlichen Höchstbeträge,
-- c die Fristen und Termine für die Beendigung des Angestelltenverhältnisses,
-- d die Folgen der Beendigung des Angestelltenverhältnisses,
-- e die Regelungen betreffend finanzielle Abgeltung von Ferien- und Zeitguthaben,
-- f die Regelungen betreffend Langzeitkonti.
+- a Vertragsdauer,
+- b Fristen, Termine und Folgen der Beendigung von Arbeitsverhältnissen,
+- c Beschäftigungsgrad als feste Zahl oder Bandbreite,
+- d Festlegung des Gehalts bei Stellenantritt und des individuellen Gehaltsaufstiegs,
+- e Arbeitszeitmodell,
+- f Auslagenersatz.
 
-<sup>3</sup> Er kann die Befugnis, Zuständigkeiten zur Anstellung zu regeln, dem Schulrat übertragen.
+<sup>3</sup> Er kann die Befugnisse gemäss Absatz 2 ganz oder teilweise dem Fachhochschulrat übertragen.
+
+#### Art. 18a
+
+**Zuständigkeiten**
+
+<sup>1</sup> Der Regierungsrat bezeichnet die zuständigen Anstellungsbehörden und regelt die weiteren Zuständigkeiten durch Verordnung, soweit dieses Gesetz nichts anderes bestimmt.
+
+<sup>2</sup> Er kann diese Befugnis ganz oder teilweise dem Fachhochschulrat übertragen.
+
+#### Art. 18b
+
+**Ausnahmen von Einvernehmen oder Zustimmung**
+
+<sup>1</sup> Wird in der Personalgesetzgebung das Einvernehmen mit einer kantonalen Stelle oder deren Zustimmung vorausgesetzt, so ist die Berner Fachhochschule davon ausgenommen.
 
 #### Art. 19
 
@@ -254,15 +274,17 @@ beschliesst:
 
 <sup>1</sup> Nebenbeschäftigungen von Mitarbeiterinnen und Mitarbeitern dürfen die dienstliche Tätigkeit und den Betrieb der Berner Fachhochschule nicht beeinträchtigen.
 
-<sup>2</sup> Nebenbeschäftigungen von Mitarbeiterinnen und Mitarbeitern mit einem Beschäftigungsgrad von mindestens 80 Prozent sind bewilligungspflichtig.
+<sup>2</sup> Sie sind bewilligungspflichtig.
 
 <sup>3</sup> Bei dauernder erheblicher Belastung wird die Bewilligung an die Bedingung geknüpft, den Beschäftigungsgrad herabzusetzen.
 
-<sup>4</sup> Wird für eine Nebenbeschäftigung die Infrastruktur der Berner Fachhochschule beansprucht, so sind die Kosten abzugelten.
+<sup>4</sup> Wird bei einer Nebenbeschäftigung die Infrastruktur oder das Personal der Berner Fachhochschule beansprucht, so sind die Kosten abzugelten. Die Abgeltung kann pauschaliert werden.
 
-<sup>5</sup> Die Nebenbeschäftigungen, die zeitliche Belastung und die Erträge sind jährlich in Form einer Selbstdeklaration zu melden. Zuständig für die Durchführung des Selbstdeklarationsverfahrens ist die Rektorin oder der Rektor.
+<sup>5</sup> In der Regel sind die Nebenbeschäftigungen, die zeitliche Belastung und die Erträge jährlich in Form einer Selbstdeklaration zu melden.
 
-<sup>6</sup> Der Regierungsrat regelt das Nähere durch Verordnung.
+<sup>6</sup> Der Regierungsrat kann Ausnahmen von der Bewilligungs- und Deklarationspflicht vorsehen. Er kann diese Befugnis ganz oder teilweise dem Fachhochschulrat übertragen.
+
+<sup>7</sup> Er regelt die Einzelheiten zu den zulässigen Nebenbeschäftigungen, die Zuständigkeiten und die Einzelheiten des Bewilligungs- und Deklarationsverfahrens sowie die Abgeltung durch Verordnung. Er kann diese Befugnis ganz oder teilweise dem Fachhochschulrat übertragen.
 
 ### 3.2.2 Dozentinnen und Dozenten
 
@@ -288,11 +310,9 @@ beschliesst:
 
 <sup>1</sup> Die Berner Fachhochschule kann den Dozentinnen und Dozenten Forschungs- oder Bildungsurlaube gewähren.
 
-<sup>2</sup> Das Gehalt der Dozentin oder des Dozenten wird während des Bezugs eines Forschungs- oder Bildungsurlaubs, der mehr als drei Monate dauert, um zehn Prozent gekürzt. Der Betrag aus der Gehaltskürzung dient der Finanzierung von Stellvertretungen.
+<sup>2–3</sup> …
 
-<sup>3</sup> Wenn die Dozentin oder der Dozent während des Urlaubs oder innerhalb von zwei Jahren nach Bezug des Urlaubs aus dem Kantonsdienst austritt, hat sie oder er das während des Urlaubs bezogene Gehalt je nach Zeitpunkt des Austritts ganz oder teilweise zurückzuzahlen.
-
-<sup>4</sup> Der Regierungsrat regelt das Nähere, insbesondere die Einzelheiten zur Gewährung von Forschungs- und Bildungsurlauben sowie den Umfang der Rückzahlungspflicht, durch Verordnung.
+<sup>4</sup> Der Regierungsrat regelt die Gewährung von Forschungs- und Bildungsurlauben sowie die damit zusammenhängenden Rechte und Pflichten durch Verordnung. Er kann diese Befugnis ganz oder teilweise dem Fachhochschulrat übertragen.
 
 ### 3.2.3 Assistentinnen und Assistenten
 
@@ -310,25 +330,50 @@ beschliesst:
 
 #### Art. 24
 
-<sup>1</sup> Die wissenschaftlichen Mitarbeiterinnen und Mitarbeiter wirken an den Forschungs- und Entwicklungsarbeiten sowie an den Dienstleistungen mit.
+<sup>1</sup> Die wissenschaftlichen Mitarbeiterinnen und Mitarbeiter wirken in der Lehre, an den Forschungs- und Entwicklungsarbeiten sowie an den Dienstleistungen mit.
 
-<sup>2</sup> Die Dauer der Anstellung ist in der Regel nicht befristet.
+<sup>2</sup> …
 
 <sup>3</sup> Der Regierungsrat regelt das Nähere durch Verordnung.
+
+### 3.2.5 Drittmittelangestellte
+
+#### Art. 24a
+
+**Kündigungsgrund**
+
+<sup>1</sup> Bei Drittmittelangestellten gilt das Auslaufen der Drittmittel als Kündigungsgrund.
+
+#### Art. 24b
+
+**Privatrechtliche Anstellungen**
+
+<sup>1</sup> Drittmittelangestellte können privatrechtlich angestellt werden, wenn die Berner Fachhochschule durch das Drittmittelprojekt
+
+- a im Wettbewerb mit privaten Anbieterinnen und Anbietern steht und
+- b keinen gesetzlichen Auftrag erfüllt.
+
+<sup>2</sup> Die personalrechtlichen Bestimmungen dieses Gesetzes und seiner Ausführungsbestimmungen sowie die Personalgesetzgebung finden auf die privatrechtlichen Anstellungen keine Anwendung.
 
 ### 3.3 Studierende
 
 #### Art. 25
 
-**Zulassung zum Studium**
+**Zulassung und Ausschluss**
 
-<sup>1</sup> Die Zulassung zum Studium richtet sich nach dem Bundesrecht. Vorbehalten bleiben die Zulassungsbeschränkungen.
+<sup>1</sup> Zum Bachelorstudium wird zugelassen, wer die Voraussetzungen gemäss dem Bundesgesetz vom 30. September 2011 über die Förderung der Hochschulen und die Koordination im schweizerischen Hochschulbereich (Hochschulförderungs- und -koordinationsgesetz, HFKG)[^25-1] und dessen Ausführungsbestimmungen erfüllt. Der Regierungsrat regelt das Nähere durch Verordnung.
 
-<sup>2</sup> Ein endgültiger Ausschluss in einem Studiengang infolge Nichtbestehens von Kompetenznachweisen an einer anderen Fachhochschule schliesst eine Zulassung zum Studium im gleichen Studiengang aus. Der Regierungsrat kann Ausnahmen durch Verordnung vorsehen.
+<sup>1a</sup> Zum Masterstudium wird zugelassen, wer einen Bachelortitel oder einen gleichwertigen Hochschulabschluss vorweisen kann. Der Fachhochschulrat kann in den Studienreglementen zusätzliche Zulassungsvoraussetzungen festlegen.
 
-<sup>3</sup> Die Zulassung wird im Übrigen in Reglementen, die der Schulrat erlässt, geregelt.
+<sup>1b</sup> Im Übrigen regelt der Fachhochschulrat die Zulassung durch Reglemente.
+
+<sup>2</sup> Ein endgültiger Ausschluss in einem Studiengang infolge Nichtbestehens von Kompetenznachweisen an einer Fachhochschule schliesst eine Zulassung zum Studium im gleichen Studiengang aus. Der Regierungsrat kann Ausnahmen durch Verordnung vorsehen.
+
+<sup>3</sup> Die Berner Fachhochschule kann Studienanwärterinnen und Studienanwärtern die Immatrikulation verweigern und Studierende vom Weiterstudium ausschliessen, wenn sie die persönlichen Voraussetzungen für eine künftige Berufsausübung mit Blick auf die Wahrung der Integrität der ihnen anvertrauten schutzbedürftigen Personen nicht erfüllen. Der Regierungsrat regelt das Nähere durch Verordnung.
 
 <sup>4</sup> …
+
+[^25-1]: SR [414.20](https://db.clex.ch/link/Bund/414.20/de)
 
 #### Art. 25a
 
@@ -346,7 +391,7 @@ beschliesst:
 
 **Zulassungsbeschränkung**
 
-<sup>1</sup> Der Regierungsrat kann auf Antrag des Schulrates für Departemente, Studiengänge und Fachbereiche Zulassungsbeschränkungen anordnen.
+<sup>1</sup> Der Regierungsrat kann auf Antrag des Fachhochschulrates für Departemente, Studiengänge und Fachbereiche Zulassungsbeschränkungen anordnen.
 
 <sup>2</sup> Die Anordnung von Zulassungsbeschränkungen setzt voraus, dass
 
@@ -356,11 +401,11 @@ beschliesst:
 
 <sup>3</sup> Die Zulassungsbeschränkungen sind für jedes Studienjahr neu anzuordnen.
 
-<sup>4</sup> Bei Zulassungsbeschränkungen entscheidet die Eignung der Studienanwärterinnen und -anwärter.
+<sup>4</sup> Bei Zulassungsbeschränkungen entscheidet die Eignung der Studienanwärterinnen und Studienanwärter.
 
 <sup>5</sup> Die Eignungsabklärung erfolgt durch fachbezogene Eignungsprüfungen vor oder während des Studiums.
 
-<sup>6</sup> Für die Eignungsabklärung vor Aufnahme des Studiums kann von den Studienanwärterinnen und -anwärtern eine Gebühr von 100 bis 500 Franken verlangt werden.
+<sup>6</sup> Für die Eignungsabklärung vor Aufnahme des Studiums kann von den Studienanwärterinnen und Studienanwärtern eine Gebühr von 100 bis 500 Franken verlangt werden.
 
 <sup>7</sup> Der Regierungsrat regelt das Nähere durch Verordnung.
 
@@ -368,7 +413,7 @@ beschliesst:
 
 **Ausländische Studienanwärterinnen und Studienanwärter**
 
-<sup>1</sup> Bei Zulassungsbeschränkungen können für ausländische Studienanwärterinnen und Studienanwärter ohne Niederlassungsbewilligung besondere Zulassungsbedingungen festgelegt werden, insbesondere betreffend Wohnsitz, Ausländerstatus und Vorbildungsausweis.
+<sup>1</sup> Bei Zulassungsbeschränkungen können für ausländische Studienanwärterinnen und Studienanwärter ohne Niederlassungsbewilligung besondere Zulassungsvoraussetzungen festgelegt werden, insbesondere betreffend Wohnsitz, Ausländerstatus und Vorbildungsausweis.
 
 <sup>2</sup> Der Regierungsrat regelt das Nähere durch Verordnung.
 
@@ -410,10 +455,12 @@ beschliesst:
 
 <sup>1</sup> Die Organe der Berner Fachhochschule sind
 
-- a der Schulrat,
+- a der Fachhochschulrat,
 - b die Rektorin oder der Rektor,
+- b1 die Vizerektorinnen und Vizerektoren,
+- b2 die Verwaltungsdirektorin oder der Verwaltungsdirektor,
 - c die Fachhochschulleitung,
-- d die Departementsleiterinnen und -leiter,
+- d die Departementsleiterinnen und Departementsleiter,
 - e die Departementsleitung,
 - f die Rekurskommission.
 
@@ -430,30 +477,38 @@ beschliesst:
 
 ### 4.2 Die Berner Fachhochschule als Gesamtheit
 
-### 4.2.1 Schulrat
+### 4.2.1 Fachhochschulrat
 
 #### Art. 32
 
 **Stellung, Zusammensetzung und Wahl**
 
-<sup>1</sup> Der Schulrat ist das strategische Führungsorgan der Berner Fachhochschule. Er ist dem Kanton gegenüber für die Führung der Berner Fachhochschule verantwortlich.
+<sup>1</sup> Der Fachhochschulrat ist das strategische Führungsorgan der Berner Fachhochschule. Er ist dem Kanton gegenüber für die Führung der Berner Fachhochschule verantwortlich.
 
-<sup>2</sup> Er setzt sich zusammen aus
+<sup>2</sup> Er setzt sich aus folgenden Mitgliedern zusammen, die nicht der Berner Fachhochschule angehören:
 
-- a sieben Mitgliedern, die nicht der Berner Fachhochschule angehören,
-- b der Rektorin oder dem Rektor von Amtes wegen,
-- c einer Vertreterin oder einem Vertreter der Dozierenden und
-- d einer Vertreterin oder einem Vertreter der Studierenden.
+- a der Präsidentin oder dem Präsidenten sowie
+- b sechs weiteren Mitgliedern.
+- c–d …
 
-<sup>3</sup> Der Regierungsrat wählt die Mitglieder des Schulrates sowie die Präsidentin oder den Präsidenten für eine Amtsdauer von vier Jahren. Die ausgewählten Persönlichkeiten sollen die Fachbereiche der Berner Fachhochschule angemessen abdecken. Zweimalige Wiederwahl ist möglich. Die Dozierenden bzw. die Studierenden delegieren ihre Vertreterin oder ihren Vertreter selbstständig.
+<sup>3</sup> Der Regierungsrat wählt die Präsidentin oder den Präsidenten und die weiteren Mitglieder des Fachhochschulrates für eine Amtsdauer von vier Jahren. Die ausgewählten Persönlichkeiten sollen die Fachbereiche der Berner Fachhochschule angemessen abdecken. Zweimalige Wiederwahl ist möglich.
 
-<sup>4</sup> Je eine Vertreterin oder ein Vertreter der Fachhochschulleitung sowie der Bildungs- und Kulturdirektion nimmt mit beratender Stimme an den Sitzungen des Schulrates teil.
+<sup>4</sup> Mit beratender Stimme nehmen an den Sitzungen des Fachhochschulrates teil:
+
+- a die Rektorin oder der Rektor von Amtes wegen,
+- b eine Vertreterin oder ein Vertreter der Dozierenden,
+- c eine Vertreterin oder ein Vertreter der Studierenden,
+- d eine Vertreterin oder ein Vertreter der wissenschaftlichen Mitarbeiterinnen und Mitarbeiter sowie der Assistentinnen und Assistenten,
+- e eine Vertreterin oder ein Vertreter der Fachhochschulleitung,
+- f eine Vertreterin oder ein Vertreter der Bildungs- und Kulturdirektion.
+
+<sup>5</sup> Die Vertreterinnen und Vertreter gemäss Absatz 4 Buchstaben b bis f werden von ihren jeweiligen Organisationen selbstständig delegiert.
 
 #### Art. 33
 
 **Zuständigkeiten**
 
-<sup>1</sup> Der Schulrat
+<sup>1</sup> Der Fachhochschulrat
 
 - a beschliesst über die Errichtung und Aufhebung von Departementen,
 - b erlässt das Statut,
@@ -464,20 +519,25 @@ beschliesst:
 - g beschliesst den Geschäftsbericht,
 - h beschliesst die weiteren Berichte gemäss Artikel 46,
 - i stellt die Rektorin oder den Rektor an,
-- k stellt die Departementsleiterinnen und -leiter an,
+- i1 stellt die Vizerektorinnen und die Vizerektoren an,
+- i2 stellt die Verwaltungsdirektorin oder den Verwaltungsdirektor an,
+- k stellt die Departementsleiterinnen und Departementsleiter an,
 - l erlässt die Reglemente über Bereiche, welche die Berner Fachhochschule als Gesamtheit betreffen, insbesondere über die Finanzen und Organisation,
 - m genehmigt die Statuten der Vereinigung der Studierenden,
 - n erlässt die Studienreglemente,
 - o erlässt die Weiterbildungsreglemente,
-- p verabschiedet das Qualitätsentwicklungskonzept.
+- p verabschiedet das Qualitätsentwicklungskonzept,
+- q entscheidet über die Errichtung, Zusammenlegung und Aufhebung von Studiengängen, unter Vorbehalt der Genehmigung des Leistungsauftrags durch den Regierungsrat.
 
 <sup>2</sup> Er erfüllt die weiteren Aufgaben, die ihm durch die Fachhochschulgesetzgebung übertragen sind.
+
+<sup>3</sup> Er legt die Zuständigkeiten für die Verleihung von Bachelor- und Mastertiteln sowie die Ausstellung von Bescheinigungen, einschliesslich die Entscheide über die Ergebnisse von Prüfungen, durch Reglement fest.
 
 #### Art. 34
 
 **Ausschüsse**
 
-<sup>1</sup> Der Schulrat kann Ausschüsse bilden.
+<sup>1</sup> Der Fachhochschulrat kann Ausschüsse bilden.
 
 <sup>2</sup> Das Statut regelt deren Einsetzung und Aufgaben.
 
@@ -485,26 +545,47 @@ beschliesst:
 
 #### Art. 35
 
-<sup>1</sup> Die Rektorin oder der Rektor führt die Berner Fachhochschule operativ. Sie oder er ist dem Schulrat gegenüber für die Geschäftsführung verantwortlich.
+<sup>1</sup> Die Rektorin oder der Rektor führt die Berner Fachhochschule operativ. Sie oder er ist dem Fachhochschulrat gegenüber für die Geschäftsführung verantwortlich.
 
-<sup>2</sup> Die Rektorin oder der Rektor nimmt insbesondere die nachfolgend aufgeführten Aufgaben wahr. Sie oder er
+<sup>2</sup> Sie oder er nimmt insbesondere die nachfolgend aufgeführten Aufgaben wahr. Sie oder er
 
 - a vertritt die Berner Fachhochschule gegen innen und aussen,
 - b führt den Vorsitz in der Fachhochschulleitung,
 - c leitet das Rektorat der Berner Fachhochschule,
-- d setzt die Beschlüsse des Schulrates um,
+- d setzt die Beschlüsse des Fachhochschulrates um,
 - e ist verantwortlich für den Finanzhaushalt der Berner Fachhochschule,
-- f ist verantwortlich für die Personaladministration der Berner Fachhochschule,
+- f trägt die Gesamtverantwortung für die Personalführung der Berner Fachhochschule,
 - g ist Zulassungsbehörde,
 - h ist für alle Angelegenheiten der Berner Fachhochschule als Gesamtheit zuständig, die keinem anderen Organ übertragen sind.
 
 <sup>3</sup> Das Statut regelt das Nähere.
 
+### 4.2.2a Vizerektorinnen und Vizerektoren
+
+#### Art. 35a
+
+<sup>1</sup> Vizerektorinnen und Vizerektoren führen das Vizerektorat und sind verantwortlich für die Weiterentwicklung ihres Leistungsbereichs an der Berner Fachhochschule.
+
+<sup>2</sup> Das Statut regelt das Nähere.
+
+### 4.2.2b Verwaltungsdirektorin oder Verwaltungsdirektor
+
+#### Art. 35b
+
+<sup>1</sup> Die Verwaltungsdirektorin oder der Verwaltungsdirektor ist verantwortlich für die administrative Führung der Berner Fachhochschule.
+
+<sup>2</sup> Das Statut regelt das Nähere.
+
 ### 4.2.3 Fachhochschulleitung
 
 #### Art. 36
 
-<sup>1</sup> Die Fachhochschulleitung setzt sich zusammen aus der Rektorin oder dem Rektor und den Departementsleiterinnen und -leitern.
+<sup>1</sup> Die Fachhochschulleitung setzt sich zusammen aus
+
+- a der Rektorin oder dem Rektor,
+- b den Vizerektorinnen und Vizerektoren,
+- c der Verwaltungsdirektorin oder dem Verwaltungsdirektor und
+- d den Departementsleiterinnen und Departementsleitern.
 
 <sup>2</sup> Sie ist insbesondere zuständig für
 
@@ -522,7 +603,7 @@ beschliesst:
 
 <sup>1</sup> Ständige Kommissionen bestehen für Geschäftsbereiche, die für die Berner Fachhochschule als Gesamtheit oder für ein Departement von Bedeutung sind, sowie für fächerübergreifende Fragen.
 
-<sup>2</sup> Das Statut bezeichnet die ständigen Kommissionen und regelt deren Zusammensetzung und Aufgaben sowie die Wahl und Amtsdauer der Mitglieder.
+<sup>2</sup> …
 
 ### 4.3 Departemente
 
@@ -544,17 +625,17 @@ beschliesst:
 
 **Departementsleitung**
 
-<sup>1</sup> Die Departementsleitung setzt sich zusammen aus der Departementsleiterin oder dem Departementsleiter und den ihr bzw. ihm unterstellten Fachbereichsleiterinnen und Fachbereichsleitern.
+<sup>1</sup> Die Departementsleitung unterstützt die Fachhochschulleitung insbesondere bei deren Koordinationsaufgaben.
 
-<sup>2</sup> Sie unterstützt die Fachhochschulleitung insbesondere bei deren Koordinationsbestrebungen.
+<sup>2</sup> Das Statut regelt das Nähere, insbesondere die Zusammensetzung der Departementsleitung.
 
-<sup>3</sup> Das Statut regelt das Nähere. Es kann weitere Mitglieder der Departementsleitung vorsehen.
+<sup>3</sup> …
 
 #### Art. 41
 
-**Organisation des Studienangebotes**
+**Organisation des Studienangebots**
 
-<sup>1</sup> Bei der Organisation des berufsbegleitenden Studienangebotes soll nach Möglichkeit auf die Bedürfnisse der Studierenden sowie von Wirtschaft und Gesellschaft Rücksicht genommen werden.
+<sup>1</sup> Bei der Organisation des Studienangebots soll nach Möglichkeit auf die Bedürfnisse der Studierenden sowie von Wirtschaft und Gesellschaft Rücksicht genommen werden.
 
 ### 4.4 Beiräte
 
@@ -603,6 +684,8 @@ beschliesst:
 <sup>3</sup> Er berücksichtigt die strategischen Zielsetzungen des Kantons in den anderen öffentlichen Aufgabenbereichen, namentlich im Medizinalbereich und der Wirtschaftsförderung.
 
 #### Art. 46
+
+**Berichterstattung**
 
 <sup>1</sup> Die Berner Fachhochschule legt der Bildungs- und Kulturdirektion vor:
 
@@ -690,7 +773,7 @@ beschliesst:
 
 **Gebühren**
 
-<sup>1</sup> Die Berner Fachhochschule erhebt für ihre Leistungen im Studium Gebühren. Die Studiengebühren betragen 500 bis 1000 Franken pro Semester. Die Prüfungsgebühren betragen 150 bis 500 Franken.
+<sup>1</sup> Die Berner Fachhochschule erhebt für ihre Leistungen im Studium Gebühren. Die Studiengebühren betragen 500 bis 1000 Franken pro Semester.
 
 <sup>2</sup> Studierende, die an der Berner Fachhochschule für die Zulassung zum gewählten Studiengang erforderliche Ergänzungsangebote besuchen, haben Gebühren von 2000 bis 4000 Franken pro Semester zu entrichten.
 
@@ -700,9 +783,14 @@ beschliesst:
 
 <sup>5</sup> Für ausländische Studierende ohne Niederlassungsbewilligung können unter Berücksichtigung internationaler Abkommen kostendeckende Gebühren erhoben werden.
 
-<sup>6</sup> Die Berner Fachhochschule erhebt für Fachhörerinnen und Fachhörer Gebühren. Die Gebühren betragen höchstens 150 Franken pro Semesterwochenstunde und höchstens 1200 Franken pro Semester.
+<sup>6</sup> Die Berner Fachhochschule erhebt für Fachhörerinnen und Fachhörer Gebühren. Die Gebühren betragen höchstens 1200 Franken pro Semester.
 
-<sup>7</sup> Der Regierungsrat regelt die Gebühren durch Verordnung. Er kann diese Befugnis ganz oder teilweise der Bildungs- und Kulturdirektion übertragen.
+<sup>6a</sup> Die Prüfungsgebühren betragen 150 bis 500 Franken.
+
+<sup>7</sup> Der Regierungsrat regelt die Gebühren durch Verordnung, wobei er
+
+- a die Befugnis zur Festlegung der Gebühren gemäss den Absätzen 1 bis 5 ganz oder teilweise der Bildungs- und Kulturdirektion übertragen kann,
+- b die Befugnis zur Festlegung der Gebühren gemäss den Absätzen 6 und 6a ganz oder teilweise der Bildungs- und Kulturdirektion oder dem Fachhochschulrat übertragen kann.
 
 #### Art. 52a
 
@@ -710,7 +798,7 @@ beschliesst:
 
 <sup>1</sup> Die Berner Fachhochschule erhebt für die öffentlich-rechtlichen Dienstleistungen Gebühren. Diese sind grundsätzlich kostendeckend und marktgerecht festzulegen.
 
-<sup>2</sup> Der Regierungsrat regelt die Gebühren durch Verordnung. Er kann diese Befugnis ganz oder teilweise der Bildungs- und Kulturdirektion oder dem Schulrat übertragen.
+<sup>2</sup> Der Regierungsrat regelt die Gebühren durch Verordnung. Er kann diese Befugnis ganz oder teilweise der Bildungs- und Kulturdirektion oder dem Fachhochschulrat übertragen.
 
 #### Art. 53
 
@@ -727,6 +815,18 @@ beschliesst:
 #### Art. 54
 
 **…**
+
+#### Art. 54a
+
+**Geistiges Eigentum**
+
+<sup>1</sup> Immaterielle Arbeitsergebnisse, welche die Mitarbeiterinnen und Mitarbeiter in Erfüllung ihrer dienstrechtlichen Verpflichtungen sowie in Ausübung der beruflichen Tätigkeit schaffen, gelten ohne Weiteres als der Berner Fachhochschule abgetreten.
+
+<sup>2</sup> Bei Computerprogrammen, welche die Mitarbeiterinnen und Mitarbeiter in Erfüllung ihrer dienstrechtlichen Verpflichtungen sowie in Ausübung der beruflichen Tätigkeit schaffen, liegen die ausschliesslichen Verwendungsbefugnisse bei der Berner Fachhochschule.
+
+<sup>3</sup> Sind immaterielle Arbeitsergebnisse im Rahmen einer Nebenbeschäftigung entstanden, so werden die Erträge aus der Verwertung wie Erträge aus Nebenbeschäftigungen behandelt.
+
+<sup>4</sup> Bei einer dienstrechtlichen Verpflichtung für verschiedene Arbeitgeberinnen und Arbeitgeber wird das Recht an den immateriellen Arbeitsergebnissen vertraglich geregelt.
 
 #### Art. 55
 
@@ -754,13 +854,9 @@ beschliesst:
 
 **Regierungsrat**
 
-<sup>1</sup> Der Regierungsrat
+<sup>1</sup> Der Regierungsrat beschliesst den jährlichen Kantonsbeitrag an die Berner Fachhochschule. Er kann diese Befugnis durch Verordnung an die Bildungs- und Kulturdirektion übertragen.
 
-- a entscheidet über die Errichtung, Zusammenlegung und Aufhebung von Studiengängen,
-- b beschliesst den jährlichen Kantonsbeitrag an die Berner Fachhochschule.
-- c …
-
-<sup>2</sup> Er kann die Befugnis gemäss Absatz 1 Buchstabe b durch Verordnung an die Bildungs- und Kulturdirektion übertragen.
+<sup>2</sup> …
 
 <sup>3</sup> Er erfüllt die weiteren Aufgaben, die ihm durch die Fachhochschulgesetzgebung übertragen sind.
 
@@ -774,9 +870,9 @@ beschliesst:
 
 - a die Planung, Steuerung und Finanzierung,
 - b Grundzüge der Qualitätssicherung und -entwicklung,
-- c die Anstellung und die berufliche Vorsorge der Mitarbeiterinnen und Mitarbeiter,
-- d die Entschädigung der Mitglieder des Schulrats,
-- e das Sekretariat des Schulrats.
+- c die berufliche Vorsorge der Mitarbeiterinnen und Mitarbeiter,
+- d die Entschädigung der Mitglieder des Fachhochschulrates,
+- e das Sekretariat des Fachhochschulrates.
 
 #### Art. 58
 
@@ -790,7 +886,7 @@ beschliesst:
 
 <sup>4</sup> Sie ist für alle Angelegenheiten zuständig, die nicht der Berner Fachhochschule oder einer anderen kantonalen oder eidgenössischen Behörde übertragen sind.
 
-## 7 Verfahren, Rechtspflege, Straf- und Disziplinarrecht
+## 7 Verfahren, Rechtspflege, wissenschaftliche Integrität, Straf- und Disziplinarrecht
 
 #### Art. 59
 
@@ -804,7 +900,7 @@ beschliesst:
 
 **Rechtspflege**
 
-<sup>1</sup> Gegen Verfügungen des Schulrates, der Fachhochschulleitung und der Rektorin oder des Rektors kann Beschwerde bei der Bildungs- und Kulturdirektion erhoben werden. Vorbehalten bleibt Absatz 4.
+<sup>1</sup> Gegen Verfügungen des Fachhochschulrates, der Fachhochschulleitung und der Rektorin oder des Rektors, ausgenommen Verfügungen betreffend die Verleihung von Bachelor- und Mastertiteln sowie die Ausstellung von Bescheinigungen, kann Beschwerde bei der Bildungs- und Kulturdirektion erhoben werden. Vorbehalten bleibt Absatz 4.
 
 <sup>2</sup> Gegen andere Verfügungen, die in Anwendung dieses Gesetzes ergehen, kann Beschwerde bei der Rekurskommission der Berner Fachhochschule erhoben werden. Vorbehalten bleibt Absatz 4.
 
@@ -816,11 +912,28 @@ beschliesst:
 
 <sup>6</sup> Der Regierungsrat erlässt Bestimmungen über die Organisation der Rekurskommission und die Wahl ihrer Mitglieder.
 
+#### Art. 60a
+
+**Wissenschaftliche Integrität**
+
+<sup>1</sup> Die Angehörigen der Berner Fachhochschule sowie alle weiteren an der Berner Fachhochschule wissenschaftlich tätigen Personen sind verpflichtet, die Regeln der wissenschaftlichen Integrität und der guten wissenschaftlichen Praxis zu beachten.
+
+<sup>2</sup> Die Berner Fachhochschule konkretisiert diese Regeln durch Reglement.
+
+<sup>3</sup> Sie kann zur Gewährleistung der Regeln der wissenschaftlichen Integrität und der guten wissenschaftlichen Praxis in- und ausländischen Hochschulen sowie Forschungs- und Forschungsförderungsinstitutionen im Einzelfall Auskünfte darüber erteilen,
+
+- a ob eine Verletzung oder der begründete Verdacht einer Verletzung dieser Regeln durch ihre Verpflichteten vorliegt,
+- b welche Sanktionen gegen die entsprechenden Verpflichteten verhängt wurden.
+
+<sup>4</sup> Sie kann ihrerseits bei Institutionen gemäss Absatz 3 über ihre Verpflichteten sowie über Verpflichtete anderer Institutionen, mit denen sie Forschungspartnerschaften unterhielt, unterhält oder eingehen will, die gleichen Auskünfte einholen.
+
+<sup>5</sup> Die Befugnis zum Erteilen oder Einholen von Auskünften verjährt fünf Jahre, nachdem die Berner Fachhochschule vom Verdacht auf einen Regelverstoss Kenntnis erlangt hat. Diese Frist wird durch jede Untersuchungshandlung unterbrochen. Die absolute Verjährung beträgt zehn Jahre.
+
 #### Art. 61
 
 **Strafbestimmung**
 
-<sup>1</sup> Wer behauptet, Inhaberin oder Inhaber eines Titels, eines Ausweises oder einer anderen Bescheinigung nach Artikel 3 zu sein, ohne die erforderlichen Prüfungen bestanden zu haben, wird mit Busse bestraft. Die strafrechtlichen Bestimmungen des Bundes bleiben vorbehalten.
+<sup>1</sup> Wer unbefugt behauptet, Inhaberin oder Inhaber eines Titels oder einer Bescheinigung nach Artikel 3 zu sein, wird mit Busse bestraft. Die strafrechtlichen Bestimmungen des Bundesrechts sowie des interkantonalen Rechts bleiben vorbehalten.
 
 #### Art. 61a
 
@@ -828,7 +941,7 @@ beschliesst:
 
 <sup>1</sup> Zur Gewährleistung eines geordneten Hochschulbetriebs regelt der Regierungsrat das Disziplinarrecht der Berner Fachhochschule durch Verordnung.
 
-<sup>2</sup> Die Rektorin oder der Rektor kann gegen Studierende, die schwer oder wiederholt gegen die Disziplinarordnung oder gegen den Grundsatz der Lauterkeit der Wissenschaft verstossen, folgende Sanktionen ergreifen:
+<sup>2</sup> Die Rektorin oder der Rektor kann gegen Studierende, die schwer oder wiederholt gegen die Disziplinarordnung oder gegen die Regeln der wissenschaftlichen Integrität verstossen, folgende Sanktionen ergreifen:
 
 - a Ausschluss von einzelnen Lehrveranstaltungen sowie von der Benützung einzelner Einrichtungen der Berner Fachhochschule für die Dauer von einem oder mehreren Semestern,
 - b vorübergehender oder dauerhafter Ausschluss vom Studium an der Berner Fachhochschule.
@@ -951,6 +1064,16 @@ beschliesst:
 <sup>2</sup> Der Zeitpunkt des Übergangs zur neuen Finanzierung gemäss Ziffer 4 der Übergangsbestimmungen wird für die Berner Fachhochschule und die Pädagogische Hochschule auf den 1. Januar 2014 festgelegt.
 
 <sup>3</sup> Die Eröffnungsbilanzen der Berner Fachhochschule und der Pädagogischen Hochschule gemäss Ziffer 5 der Übergangsbestimmungen werden vom Regierungsrat im Frühjahr/Sommer 2014 beschlossen.
+
+## T2 Übergangsbestimmungen der Änderung vom 08.03.2022
+
+#### Art. T2-1
+
+**Anpassung bestehender Arbeitsverhältnisse**
+
+<sup>1</sup> Der Regierungsrat regelt die Anpassung der bestehenden Arbeitsverhältnisse an das neue Recht.
+
+<sup>2</sup> Er kann diese Befugnis ganz oder teilweise dem Fachhochschulrat übertragen.
 
 Bern, 19. Juni 2003
 
