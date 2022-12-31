@@ -3,20 +3,20 @@ canton: LU
 number: "402"
 title: Kulturförderungsgesetz
 language: de
-version: 2022-12-01
-valid_until: 2022-12-31
-version_adopted: 2022-09-12
+version: 2023-01-01
+valid_until: 2026-12-31
+version_adopted: 2021-10-25
 adopted: 1994-09-13
 in_force: 1995-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/402"
-pdf: "https://srl.lu.ch/api/de/versions/3990/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3998/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Kulturförderungsgesetz
 
-vom 13.09.1994 (Stand 01.12.2022)
+vom 13.09.1994 (Stand 01.01.2023)
 
 Der Grosse Rat des Kantons Luzern,
 
@@ -121,8 +121,8 @@ beschliesst:
 
 <sup>2</sup> Verbandsmitglieder sind
 
-- a. der Kanton Luzern mit einer Beteiligung von 70 Prozent,
-- b. die Stadt Luzern mit einer Beteiligung von 30 Prozent.
+- a. der Kanton Luzern mit einer Beteiligung von 60 Prozent,
+- b. die Stadt Luzern mit einer Beteiligung von 40 Prozent.
 
 <sup>3</sup> Der Zweckverband bestimmt die grossen Kulturbetriebe des Kantons Luzern, denen er Beiträge ausrichtet, und schliesst mit ihnen Leistungsvereinbarungen ab. Der Beschluss des Zweckverbandes, dass einem Kulturbetrieb Beiträge ausgerichtet werden, bedarf der Genehmigung des Kantonsrates und der Stadt Luzern.
 
@@ -143,13 +143,18 @@ beschliesst:
 
 #### § 9
 
-**Übergangsbestimmung zur Änderung vom 10. September 2007**
+**…**
 
-<sup>1</sup> Der Zweckverband beschliesst über die Beiträge ab 2009. Die Finanzierungsanteile von Kanton und Stadt Luzern gemäss § 7a kommen ab 2012 zur Anwendung.
+#### § 9a
 
-<sup>2</sup> Bei der Finanzierung des Kunstmuseums Luzern kommen für die Jahre 2009 bis 2011 die heutigen Finanzierungsanteile von Kanton und Stadt zur Anwendung.
+**Übergangsbestimmung zur Änderung vom 25. Oktober 2021**
 
-<sup>3</sup> Bei der Finanzierung des Luzerner Sinfonieorchesters und des Luzerner Theaters werden die Beitragssätze für die Jahre 2009 bis 2011, ausgehend von einer hälftigen Kostentragung von Kanton und Stadt im Jahre 2008, schrittweise den Beitragssätzen gemäss § 7a Absatz 2 angepasst.
+<sup>1</sup> Die Finanzierungsanteile von Kanton und Stadt Luzern gemäss § 7a Absatz 2 kommen ab 2025 zur Anwendung.
+
+<sup>2</sup> Sie werden schrittweise wie folgt angepasst:
+
+- a. 2023: Beteiligung des Kantons Luzern von 66,67 Prozent und der Stadt Luzern von 33,33 Prozent;
+- b. 2024: Beteiligung des Kantons Luzern von 63,33 Prozent und der Stadt Luzern von 36,67 Prozent.
 
 #### § 10
 
