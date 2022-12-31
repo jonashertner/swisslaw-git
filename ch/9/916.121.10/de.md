@@ -4,11 +4,11 @@ title: "Verordnung vom 7. Dezember 1998 über die Ein- und Ausfuhr von Gemüse, 
 short: VEAGOG
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/3244_3244_3244"
 language: de
-version: 2022-01-01
+version: 2023-01-01
 adopted: 1998-12-07
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/3244_3244_3244/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1998-3244_3244_3244-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/3244_3244_3244/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/3244_3244_3244/20230101/de/xml/fedlex-data-admin-ch-eli-cc-1998-3244_3244_3244-20230101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/3244_3244_3244/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/3244_3244_3244/20220101/de"
 
 (VEAGOG)
 
-vom 7. Dezember 1998 (Stand am 1. Januar 2022)
+vom 7. Dezember 1998 (Stand am 1. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -57,7 +57,7 @@ Die Generaleinfuhrbewilligung (GEB) ist in Artikel 1 der Agrareinfuhrverordnung 
 Zollkontingentsanteile werden nur Personen zugeteilt, die in der betreffenden Branche gewerbsmässig Waren einführen. Ausgenommen sind Einfuhren im Rahmen des Zollkontingents Nummer 104 nach Anhang 2 der Freihandelsverordnung vom 8. März 2002[^3-2].
 
 [^3-1]: Fassung gemäss Ziff. I der V vom 23. Juni 2004, in Kraft seit 1. Nov. 2004 ([AS 2004 3443](https://fedlex.data.admin.ch/eli/oc/2004/456)).
-[^3-2]: [**2002** 1158, **2004** 4599 4971, **2005** 569, **2006** 867 Anhang Ziff. 3 2901 2995 Anhang 4 Ziff. II 8 4659, **2007** 1469 Anhang 4 Ziff. 22 2273 3417. [AS 2008 3519](https://fedlex.data.admin.ch/eli/oc/2008/455)Art. 7]. Siehe heute: die Freihandelsverordnung 1 vom 18. Juni 2008 ([SR 632.421.0](https://fedlex.data.admin.ch/eli/cc/2008/455)).
+[^3-2]: [**2002** 1158; **2004** 4599, 4971; **2005** 569; **2006** 867 Anhang Ziff. 3, 2901, 2995 Anhang 4 Ziff. II 8, 4659; **2007** 1469 Anhang 4 Ziff. 22, 2273, 3417. [AS 2008 3519](https://fedlex.data.admin.ch/eli/oc/2008/455)Art. 7]. Siehe heute: die Freihandelsverordnung 1 vom 18. Juni 2008 ([SR 632.421.0](https://fedlex.data.admin.ch/eli/cc/2008/455)).
 
 ## 2. Kapitel: Marktordnungen
 
@@ -147,10 +147,11 @@ Als zu Beginn der Bewirtschaftungsperiode vorhanden im Sinne von Artikel 15 des 
 
 <sup>1</sup> Die anmeldepflichtige Person nach Artikel 55 der Zollverordnung vom 1. November 2006[^7a-2], die Inhaberin oder Inhaber von Zollkontingentsanteilen ist, kann in der nicht bewirtschafteten Periode eingeführte landwirtschaftliche Erzeugnisse, die zu Beginn der Bewirtschaftungsperiode auf Handelsstufe bei ihr noch vorhanden sind, auf den Beginn des entsprechenden Zeitpunkts nach Artikel 7 Absatz 1 ihrem Zollkontingentsanteil anrechnen lassen.
 
-<sup>2</sup> Die Inhaberin oder der Inhaber von Zollkontingentsanteilen muss die anzurechnende Warenmenge vor dem Einreichen der Zollanmeldung nach Artikel 59 der Zollverordnung vom 1. November 2006 über die gesicherte Internetanwendung abbuchen.
+<sup>2</sup> Die Inhaberin oder der Inhaber von Zollkontingentsanteilen muss die anzurechnende Warenmenge vor dem Einreichen der Zollanmeldung nach Artikel 59 der Zollverordnung über die vom BLW bereitgestellte Internetanwendung abbuchen.[^7a-3]
 
 [^7a-1]: Eingefügt durch Anhang 4 Ziff. 51 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 [^7a-2]: [SR 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)
+[^7a-3]: Fassung gemäss Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 734](https://fedlex.data.admin.ch/eli/oc/2022/734)).
 
 #### Art. 8
 
@@ -180,7 +181,7 @@ Als zu Beginn der Bewirtschaftungsperiode vorhanden im Sinne von Artikel 15 des 
 
 Das BLW kann das Zollkontingent Nummer 16 vorübergehend erhöhen:
 
-- a.[^10-1] ...
+- a.[^10-1] …
 - b. bei nachgewiesenen Ernteausfällen von Schweizer Konserven- und Tiefkühlgemüse;
 - c. für die Zuteilung einer Mindestmenge an Erstgesuchsteller.
 
@@ -287,7 +288,7 @@ Das BLW legt die Daten nach den Artikeln 4 Absatz 1 Buchstabe b, 6 Absatz 1 Buch
 
 <sup>1</sup> Das BLW beauftragt eine private Organisation mit der Kontrolle der Konformität mit den Normen der Europäischen Gemeinschaft.[^20-1]
 
-<sup>2</sup> Der Leistungsauftrag wird mittels Vertrag für einen Zeitraum von höchstens vier Jahren erteilt. Es besteht kein Rechtsanspruch auf ein Mandat für die Durchführung der Konformitätskontrollen.
+<sup>2</sup> Der Leistungsauftrag wird mittels Vertrag erteilt. Es besteht kein Rechtsanspruch auf den Abschluss eines Leistungsauftrags.[^20-2]
 
 <sup>3</sup> Die Kosten der Konformitätskontrolle werden vom BLW und von der Organisation getragen.
 
@@ -296,6 +297,7 @@ Das BLW legt die Daten nach den Artikeln 4 Absatz 1 Buchstabe b, 6 Absatz 1 Buch
 <sup>5</sup> Das BLW beaufsichtigt die mit der Durchführung der Kontrolle beauftragte Organisation.
 
 [^20-1]: Fassung gemäss Ziff. I der V vom 8. März 2002, in Kraft seit 1. Juni 2002 ([AS 2002 936](https://fedlex.data.admin.ch/eli/oc/2002/166)).
+[^20-2]: Fassung gemäss Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 734](https://fedlex.data.admin.ch/eli/oc/2022/734)).
 
 ### 2. Abschnitt: Notwendige Daten
 
@@ -316,7 +318,7 @@ Die Kantone sind für die Erhebung der Daten nach Artikel 49 der Agrareinfuhrver
 
 <sup>2</sup> Es kann die Koordinationsstellen mit der Erhebung der Daten nach Artikel 49 der Agrareinfuhrverordnung vom 26. Oktober 2011[^22-1] beauftragen.[^22-2]
 
-<sup>3</sup> Der Leistungsauftrag wird mittels Vertrag für einen Zeitraum von höchstens vier Jahren erteilt. Es besteht kein Rechtsanspruch auf den Abschluss eines Leistungsauftrages.
+<sup>3</sup> Der Leistungsauftrag wird mittels Vertrag erteilt. Es besteht kein Rechtsanspruch auf den Abschluss eines Leistungsauftrags.[^22-3]
 
 <sup>4</sup> Das BLW kann dafür Entschädigungen leisten.
 
@@ -324,6 +326,7 @@ Die Kantone sind für die Erhebung der Daten nach Artikel 49 der Agrareinfuhrver
 
 [^22-1]: [SR 916.01](https://fedlex.data.admin.ch/eli/cc/2011/770)
 [^22-2]: Fassung gemäss Anhang 7 Ziff. 7 der Agrareinfuhrverordnung vom 26. Okt. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 5325](https://fedlex.data.admin.ch/eli/oc/2011/770)).
+[^22-3]: Fassung gemäss Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 734](https://fedlex.data.admin.ch/eli/oc/2022/734)).
 
 ### 3. Abschnitt: Verwaltungsmassnahmen
 
@@ -363,7 +366,7 @@ In Abweichung von Artikel 16 erfolgt die Zuteilung der Anteile am Zollkontingent
 
 Diese Verordnung tritt am 1. Januar 1999 in Kraft.
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 1 und 9)
 
@@ -378,7 +381,7 @@ Die Vermarktungsnormen der Europäischen Union für die unten aufgeführten Ware
 <tr><td>0702</td><td>Tomaten, frisch oder gekühlt</td></tr>
 <tr><td>0703</td><td>Speisezwiebeln, Schalotten, Knoblauch, Lauch und andere Gemüse der *Allium*-Arten, frisch oder gekühlt</td></tr>
 <tr><td>0704</td><td>Kohl, Blumenkohl, Kohlrabi, Wirsingkohl und ähnliche geniessbare Kohlarten der Gattung *Brassica*, frisch oder gekühlt</td></tr>
-<tr><td>0705</td><td>Salate (*Lactuca sativa*) und Chicorée (*C**i**chorium*-Arten), frisch oder gekühlt</td></tr>
+<tr><td>0705</td><td>Salate (*Lactuca sativa*) und Chicorée (*Cichorium*-Arten), frisch oder gekühlt</td></tr>
 <tr><td>0706</td><td>Karotten und Speisemöhren, Speiserüben, rote Rüben, Schwarzwurzeln, Knollensellerie, Rettiche und ähnliche geniessbare Wurzeln, frisch oder gekühlt</td></tr>
 <tr><td>0707</td><td>Gurken und Cornichons, frisch oder gekühlt</td></tr>
 <tr><td>0708</td><td>Hülsenfrüchte, auch ausgelöst, frisch oder gekühlt</td></tr>
@@ -402,7 +405,7 @@ Die Vermarktungsnormen der Europäischen Union für die unten aufgeführten Ware
 
 [^annex1-lvlu1-1]: Durchführungsverordnung (EU) Nr. 543/2011 der Kommission vom 7. Juni 2011 mit Durchführungsbestimmungen zur Verordnung (EG) Nr. 1234/2007 des Rates für die Sektoren Obst und Gemüse und Verarbeitungserzeugnisse aus Obst und Gemüse, Fassung gemäss ABl. L 157 vom 15.6.2011, S. 1.
 
-Anhang 2*[^t-2]*
+Anhang 2[^t-2]
 
 (Art. 4)
 

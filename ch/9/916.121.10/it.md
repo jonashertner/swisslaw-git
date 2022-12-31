@@ -4,11 +4,11 @@ title: "Ordinanza del 7 dicembre 1998 concernente l'importazione e l'esportazion
 short: OIEVFF
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/3244_3244_3244"
 language: it
-version: 2022-01-01
+version: 2023-01-01
 adopted: 1998-12-07
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/3244_3244_3244/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1998-3244_3244_3244-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/3244_3244_3244/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/3244_3244_3244/20230101/it/xml/fedlex-data-admin-ch-eli-cc-1998-3244_3244_3244-20230101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/3244_3244_3244/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/3244_3244_3244/20220101/it"
 
 (OIEVFF)
 
-del 7 dicembre 1998 (Stato 1° gennaio 2022)
+del 7 dicembre 1998 (Stato 1° gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -147,10 +147,11 @@ Per prodotti agricoli in commercio all’inizio del periodo amministrato ai sens
 
 <sup>1</sup> La persona soggetta all’obbligo di dichiarazione secondo l’articolo 55 dell’ordinanza del 1° novembre 2006[^7a-2] sulle dogane, che è titolare di quote di contingenti doganali, può fare computare sulla sua quota del contingente doganale, all’inizio del periodo corrispondente di cui all’articolo 7 capoverso 1, prodotti agricoli importati durante il periodo non amministrato e ancora in commercio presso di essa all’inizio del periodo amministrato.
 
-<sup>2</sup> Il titolare delle quote di contingenti doganali deve annullare via Internet mediante un’applicazione sicura il quantitativo di merce computabile prima di presentare la dichiarazione doganale di cui all’articolo 59 dell’ordinanza del 1° novembre 2006 sulle dogane.
+<sup>2</sup> Il titolare delle quote di contingenti doganali deve annullare tramite l’applicazione Internet messa a disposizione dall’UFAG il quantitativo di merce computabile prima di presentare la dichiarazione doganale di cui all’articolo 59 dell’ordinanza sulle dogane.[^7a-3]
 
 [^7a-1]: Introdotto dall’all. 4 n. 51 dell’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 [^7a-2]: [RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)
+[^7a-3]: Nuovo testo giusta il n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 734](https://fedlex.data.admin.ch/eli/oc/2022/734)).
 
 #### Art. 8
 
@@ -287,7 +288,7 @@ L’UFAG fissa in un’ordinanza le date di cui agli articoli 4 capoverso 1 lett
 
 <sup>1</sup> L’UFAG affida ad un’organizzazione privata l’esecuzione del controllo di conformità alle norme della Comunità europea.[^20-1]
 
-<sup>2</sup> Tale mandato di prestazione è attribuito mediante contratto per un periodo massimo di quattro anni. Non sussiste alcun diritto alla conclusione di un mandato di controllo della conformità.
+<sup>2</sup> Il mandato di prestazione è attribuito mediante contratto. Non sussiste alcun diritto alla conclusione di un mandato di prestazione.[^20-2]
 
 <sup>3</sup> I costi del controllo di conformità sono assunti dall’UFAG e dall’organizzazione.
 
@@ -296,6 +297,7 @@ L’UFAG fissa in un’ordinanza le date di cui agli articoli 4 capoverso 1 lett
 <sup>5</sup> L’UFAG sorveglia l’organizzazione incaricata dell’esecuzione dei controlli.
 
 [^20-1]: Nuovo testo giusta il n. I dell’O dell’ 8 mar. 2002, in vigore dal 1° giu. 2002 ([RU 2002 936](https://fedlex.data.admin.ch/eli/oc/2002/166)).
+[^20-2]: Nuovo testo giusta il n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 734](https://fedlex.data.admin.ch/eli/oc/2022/734)).
 
 ### Sezione 2: Dati necessari
 
@@ -316,7 +318,7 @@ I Cantoni sono responsabili della rilevazione dei dati giusta l’articolo 49 de
 
 <sup>2</sup> Può incaricare i servizi di coordinazione della rilevazione dei dati conformemente all’articolo 49 dell’ordinanza del 26 ottobre 2011[^22-1] sulle importazioni agricole.[^22-2]
 
-<sup>3</sup> Tale mandato di prestazione è attribuito mediante contratto per un periodo massimo di quattro anni. Non sussiste alcun diritto alla conclusione di un tale mandato di prestazione.
+<sup>3</sup> Il mandato di prestazione è attribuito mediante contratto. Non sussiste alcun diritto alla conclusione di un mandato di prestazione.[^22-3]
 
 <sup>4</sup> L’UFAG può versare a tale scopo indennità.
 
@@ -324,6 +326,7 @@ I Cantoni sono responsabili della rilevazione dei dati giusta l’articolo 49 de
 
 [^22-1]: [RS 916.01](https://fedlex.data.admin.ch/eli/cc/2011/770)
 [^22-2]: Nuovo testo giusta l’all. 7 n. 7 dell’O del 26 ott. 2011 sulle importazioni agricole, in vigore dal 1° gen. 2012 ([RU 2011 5325](https://fedlex.data.admin.ch/eli/oc/2011/770)).
+[^22-3]: Nuovo testo giusta il n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 734](https://fedlex.data.admin.ch/eli/oc/2022/734)).
 
 ### Sezione 3: Provvedimenti amministrativi
 
@@ -363,7 +366,7 @@ In deroga all’articolo 16, per il periodo di contingentamento 2021 le quote de
 
 La presente ordinanza entra in vigore il 1° gennaio 1999.
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 (art. 1 e 9)
 
@@ -382,7 +385,7 @@ Le norme di commercializzazione comunitarie per le merci di seguito elencate son
 <tr><td>0706</td><td>Carote, navoni, barbabietole da insalata, salsefrica o barba di becco, sedani-rapa, ravanelli e simili radici commestibili, freschi o refrigerati</td></tr>
 <tr><td>0707</td><td>Cetrioli e cetriolini, freschi o refrigerati</td></tr>
 <tr><td>0708</td><td>Legumi da granella, anche sgranati, freschi o refrigerati</td></tr>
-<tr><td>ex 0709</td><td>Altri ortaggi, freschi o refrigerati, esclusi i funghi non coltivati delle voci 0709.5200/5900, i pimenti del genere *Caps**i**cum* o del genere *Pimenta* della voce 0709.6090, le olive della voce 0709.9200, il mais dolce e i capperi della voce 0709.9999 nonché i germogli commestibili ottenuti dalla germinazione di semi della voce 0709.</td></tr>
+<tr><td>ex 0709</td><td>Altri ortaggi, freschi o refrigerati, esclusi i funghi non coltivati delle voci 0709.5200/5900, i pimenti del genere *Capsicum* o del genere *Pimenta* della voce 0709.6090, le olive della voce 0709.9200, il mais dolce e i capperi della voce 0709.9999 nonché i germogli commestibili ottenuti dalla germinazione di semi della voce 0709.</td></tr>
 <tr><td>ex 0802</td><td>Altra frutta a guscio, fresca o secca, anche sgusciata o decorticata, escluse le mandorle amare della voce 0802.1100, le mandorle sgusciate della voce 0802.1200, le nocciole sgusciate della voce 0802.22, le noci comuni sgusciate della voce 0802.32, i pistacchi delle voci 0802.51 e 0802.52, le noci macadamia delle voci 0802.61 e 0802.62, noci di cola (Cola spp.) della voce 0802.7000, noci di arec (o di betel) della voce 0802.8000, pinoli delle voci 0802.9100 a 0802.9200 e altra frutta a guscio della voce 0802.9900</td></tr>
 <tr><td>ex 0803.1000</td><td>Banane da cuocere, fresche</td></tr>
 <tr><td>0804.2010</td><td>Fichi, freschi</td></tr>
@@ -402,7 +405,7 @@ Le norme di commercializzazione comunitarie per le merci di seguito elencate son
 
 [^annex1-lvlu1-1]: Regolamento di esecuzione (UE) n. 543/2011 della Commissione, del 7 giugno 2011, recante modalità di applicazione del regolamento (CE) n. 1234/2007 nei settori degli ortofrutticoli freschi e degli ortofrutticoli trasformati, versione della GU L 157 del 15.6.2011, pag. 1.
 
-Allegato 2*[^t-2]*
+Allegato 2[^t-2]
 
 (art. 4)
 

@@ -4,11 +4,11 @@ title: "Ordonnance du 7 décembre 1998 sur l'importation et l'exportation de lé
 short: OIELFP
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/3244_3244_3244"
 language: fr
-version: 2022-01-01
+version: 2023-01-01
 adopted: 1998-12-07
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/3244_3244_3244/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1998-3244_3244_3244-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/3244_3244_3244/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/3244_3244_3244/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-1998-3244_3244_3244-20230101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/3244_3244_3244/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/3244_3244_3244/20220101/fr"
 
 (OIELFP)
 
-du 7 décembre 1998 (Etat le 1<sup>er</sup> janvier 2022)
+du 7 décembre 1998 (État le 1<sup>er</sup> janvier 2023)
 
 Le Conseil fédéral suisse,
 
@@ -28,7 +28,7 @@ arrête:
 [^ingress-1]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
 [^ingress-2]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 [^ingress-3]: [RS 946.201](https://fedlex.data.admin.ch/eli/cc/1982/1923_1923_1923)
-[^ingress-4]: Nouvelle teneur selon le ch. 51 de l’annexe 4 à l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^ingress-4]: Nouvelle teneur selon l’annexe 4 ch. 51 de l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 ## Chapitre 1 Dispositions générales
 
@@ -38,7 +38,7 @@ arrête:
 
 La présente ordonnance règle l’importation des légumes frais, des fruits frais, des légumes congelés, des fleurs coupées, des fruits à cidre, des produits de fruits et des plants d’arbres fruitiers énumérés dans l’annexe 1, ch. 7, 8 et 10 à 13, de l’ordonnance du 26 octobre 2011 sur les importations agricoles[^1-2] et l’exportation de légumes frais et de fruits frais énumérés dans l’annexe 1.
 
-[^1-1]: Nouvelle teneur selon le ch. 7 de l’annexe 7 à l’O du 26 oct. 2011 sur les importations agricoles, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5325](https://fedlex.data.admin.ch/eli/oc/2011/770)).
+[^1-1]: Nouvelle teneur selon l’annexe 7 ch. 7 de l’O du 26 oct. 2011 sur les importations agricoles, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5325](https://fedlex.data.admin.ch/eli/oc/2011/770)).
 [^1-2]: [RS 916.01](https://fedlex.data.admin.ch/eli/cc/2011/770)
 
 #### Art. 2
@@ -47,7 +47,7 @@ La présente ordonnance règle l’importation des légumes frais, des fruits fr
 
 Le permis général d’importation (PGI) est réglementé à l’art. 1 de l’ordonnance du 26 octobre 2011 sur les importations agricoles[^2-2].
 
-[^2-1]: Nouvelle teneur selon le ch. 7 de l’annexe 7 à l’O du 26 oct. 2011 sur les importations agricoles, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5325](https://fedlex.data.admin.ch/eli/oc/2011/770)).
+[^2-1]: Nouvelle teneur selon l’annexe 7 ch. 7 de l’O du 26 oct. 2011 sur les importations agricoles, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5325](https://fedlex.data.admin.ch/eli/oc/2011/770)).
 [^2-2]: [RS 916.01](https://fedlex.data.admin.ch/eli/cc/2011/770)
 
 #### Art. 3
@@ -78,7 +78,7 @@ Les fruits frais et les légumes frais peuvent être importés au taux du contin
 
 [^4-1]: Nouvelle teneur selon le ch. I de l’O du 16 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 3329](https://fedlex.data.admin.ch/eli/oc/2016/564)).
 [^4-2]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)annexe
-[^4-3]: Nouvelle teneur selon le ch. 7 de l’annexe 7 à l’O du 26 oct. 2011 sur les importations agricoles, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5325](https://fedlex.data.admin.ch/eli/oc/2011/770)).
+[^4-3]: Nouvelle teneur selon l’annexe 7 ch. 7 de l’O du 26 oct. 2011 sur les importations agricoles, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5325](https://fedlex.data.admin.ch/eli/oc/2011/770)).
 [^4-4]: Nouvelle expression selon le ch. I de l’O du 16 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 3329](https://fedlex.data.admin.ch/eli/oc/2016/564)). Il a été tenu compte de cette mod. dans tout le texte.
 [^4-5]: Nouvelle teneur de la phrase selon le ch. I de l’O du 9 juin 2006, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2527](https://fedlex.data.admin.ch/eli/oc/2006/391)).
 
@@ -97,10 +97,10 @@ L’OFAG peut, en dérogation à l’al. 2, autoriser à l’importation:
 - a.[^5-5] des parties de contingents tarifaires lorsque l’offre de fruits ou de légumes suisses n’est pas en mesure de couvrir les besoins de l’industrie de transformation pour la fabrication des produits des positions tarifaires 0710/0713, 0811/0813, 2001/2009, 2202 et 2208/2209 et des chap. 16, 19 et 21;
 - b. du 1<sup>er</sup> avril jusqu’au 14 juin, des parties de contingents tarifaires de pommes des positions tarifaires 0808.1022 et 0808.1032, dans la limite de 2500 t, lorsqu’il convient d’élargir l’assortiment.[^5-6]
 
-[^5-1]: Nouvelle teneur selon le ch. 7 de l’annexe 7 à l’O du 26 oct. 2011 sur les importations agricoles, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5325](https://fedlex.data.admin.ch/eli/oc/2011/770)).
+[^5-1]: Nouvelle teneur selon l’annexe 7 ch. 7 de l’O du 26 oct. 2011 sur les importations agricoles, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5325](https://fedlex.data.admin.ch/eli/oc/2011/770)).
 [^5-2]: [RS 916.01](https://fedlex.data.admin.ch/eli/cc/2011/770)
 [^5-3]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2013 en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Il a été tenu compte de cette mod. dans tout le texte.
-[^5-4]: Nouvelle teneur selon le ch. 7 de l’annexe 7 à l’O du 26 oct. 2011 sur les importations agricoles, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5325](https://fedlex.data.admin.ch/eli/oc/2011/770)).
+[^5-4]: Nouvelle teneur selon l’annexe 7 ch. 7 de l’O du 26 oct. 2011 sur les importations agricoles, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5325](https://fedlex.data.admin.ch/eli/oc/2011/770)).
 [^5-5]: Nouvelle teneur selon le ch. I de l’O du 11 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5529](https://fedlex.data.admin.ch/eli/oc/2020/960)).
 [^5-6]: Nouvelle teneur selon le ch. I de l’O du 12 janv. 2000, en vigueur depuis le 1<sup>er</sup> mars 2000 ([RO 2000 392](https://fedlex.data.admin.ch/eli/oc/2000/81)).
 
@@ -138,7 +138,7 @@ Sont réputées encore dans le commerce au début de la période administrée au
 
 <sup>3</sup> Les réserves encore disponibles dans le circuit de commercialisation, qui ne sont pas épuisées dans un délai de deux jours, doivent faire l’objet d’une nouvelle déclaration en douane conformément à l’art. 55 de l’ordonnance du 1<sup>er</sup> novembre 2006 sur les douanes[^7-3].[^7-4]
 
-[^7-1]: Nouvelle teneur selon le ch. 51 de l’annexe 4 à l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^7-1]: Nouvelle teneur selon l’annexe 4 ch. 51 de l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 [^7-2]: [[RO 2000 394](https://fedlex.data.admin.ch/eli/oc/2000/82); [2001 452](https://fedlex.data.admin.ch/eli/oc/2001/89); [2004 4393](https://fedlex.data.admin.ch/eli/oc/2004/672); [2006 3313](https://fedlex.data.admin.ch/eli/oc/2006/513); [2010 4593](https://fedlex.data.admin.ch/eli/oc/2010/663); [2011 5403](https://fedlex.data.admin.ch/eli/oc/2011/771). [RO 2016 3331](https://fedlex.data.admin.ch/eli/oc/2016/565)art. 5]. Voir actuellement l’O de l’OFAG du 16 sept. 2016 ([RS 916.121.100](https://fedlex.data.admin.ch/eli/cc/2016/565)).
 [^7-3]: [RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)
 [^7-4]: Nouvelle teneur selon le ch. I de l’O du 14 nov. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6265](https://fedlex.data.admin.ch/eli/oc/2007/832)).
@@ -149,10 +149,11 @@ Sont réputées encore dans le commerce au début de la période administrée au
 
 <sup>1</sup> La personne assujettie à l’obligation de déclarer au sens de l’art. 55 de l’ordonnance du 1<sup>er</sup> novembre 2006 sur les douanes[^7a-2] qui détient des parts de contingent tarifaire peut faire imputer des produits agricoles importés pendant la période non administrée et qui se trouvent encore dans le commerce, chez elle, au début de la période administrée, sur sa part de contingent tarifaire au début de la période correspondante définie à l’art. 7, al. 1.
 
-<sup>2</sup> Le détenteur des parts de contingent tarifaire doit déduire la quantité de marchandise à imputer de sa part de contingent tarifaire via l’accès Internet sécurisé avant la présentation de la déclaration en douane au sens de l’art. 59 de l’ordonnance du 1<sup>er</sup> novembre 2006 sur les douanes.
+<sup>2</sup> Le détenteur des parts de contingent tarifaire doit déduire la quantité de marchandise à imputer de sa part de contingent tarifaire via l’application Internet mise à disposition par l’OFAG, avant la présentation de la déclaration en douane au sens de l’art. 59 de l’ordonnance sur les douanes.[^7a-3]
 
-[^7a-1]: Introduit par le ch. 51 de l’annexe 4 à l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^7a-1]: Introduit par l’annexe 4 ch. 51 de l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 [^7a-2]: [RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)
+[^7a-3]: Nouvelle teneur selon le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 734](https://fedlex.data.admin.ch/eli/oc/2022/734)).
 
 #### Art. 8
 
@@ -171,8 +172,8 @@ Sont réputées encore dans le commerce au début de la période administrée au
 <sup>3</sup> L’OFAG peut adapter l’annexe 1 au règlement en vigueur dans la Communauté européenne et désigner les marchandises concernées.[^9-3]
 
 [^9-1]: Nouvelle teneur selon le ch. I de l’O du 8 mars 2002, en vigueur depuis le 1<sup>er</sup> juin 2002 ([RO 2002 936](https://fedlex.data.admin.ch/eli/oc/2002/166)).
-[^9-2]: Nouvelle teneur selon le ch. 7 de l’annexe 7 à l’O du 26 oct. 2011 sur les importations agricoles, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5325](https://fedlex.data.admin.ch/eli/oc/2011/770)).
-[^9-3]: Nouvelle teneur selon le ch. 7 de l’annexe 7 à l’O du 26 oct. 2011 sur les importations agricoles, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5325](https://fedlex.data.admin.ch/eli/oc/2011/770)).
+[^9-2]: Nouvelle teneur selon l’annexe 7 ch. 7 de l’O du 26 oct. 2011 sur les importations agricoles, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5325](https://fedlex.data.admin.ch/eli/oc/2011/770)).
+[^9-3]: Nouvelle teneur selon l’annexe 7 ch. 7 de l’O du 26 oct. 2011 sur les importations agricoles, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5325](https://fedlex.data.admin.ch/eli/oc/2011/770)).
 
 ### Section 2 Légumes congelés
 
@@ -182,7 +183,7 @@ Sont réputées encore dans le commerce au début de la période administrée au
 
 L’OFAG peut temporairement augmenter le contingent tarifaire n<sup>o</sup> 16:
 
-- a.[^10-1] ...
+- a.[^10-1] …
 - b. s’il est prouvé que les récoltes de légumes suisses destinés à la congélation et à la conservation ont subi des pertes;
 - c. afin d’assurer l’attribution d’une quantité minimale aux nouveaux requérants.
 
@@ -289,7 +290,7 @@ L’OFAG fixe par voie d’ordonnance les dates prévues aux art. 4, al. 1, let.
 
 <sup>1</sup> L’OFAG charge une organisation privée de l’exécution du contrôle de conformité aux normes de la Communauté européenne.[^20-1]
 
-<sup>2</sup> Le mandat de prestation est attribué par contrat, pour une période maximum de quatre ans. Il n’existe aucun droit à la conclusion d’un mandat de contrôle de conformité.
+<sup>2</sup> Le mandat de prestation est attribué par contrat. Il n’existe aucun droit à la conclusion d’un mandat de prestation.[^20-2]
 
 <sup>3</sup> Les frais du contrôle de conformité sont à la charge de l’OFAG et de l’organisation.
 
@@ -298,6 +299,7 @@ L’OFAG fixe par voie d’ordonnance les dates prévues aux art. 4, al. 1, let.
 <sup>5</sup> L’OFAG surveille l’organisation chargée de l’exécution du contrôle de conformité.
 
 [^20-1]: Nouvelle teneur selon le ch. I de l’O du 8 mars 2002, en vigueur depuis le 1<sup>er</sup> juin 2002 ([RO 2002 936](https://fedlex.data.admin.ch/eli/oc/2002/166)).
+[^20-2]: Nouvelle teneur selon le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 734](https://fedlex.data.admin.ch/eli/oc/2022/734)).
 
 ### Section 2 Données nécessaires
 
@@ -307,7 +309,7 @@ L’OFAG fixe par voie d’ordonnance les dates prévues aux art. 4, al. 1, let.
 
 Les cantons répondent du relevé des données prévues à l’art. 49 de l’ordonnance du 26 octobre 2011 sur les importations agricoles[^21-2].
 
-[^21-1]: Nouvelle teneur selon le ch. 7 de l’annexe 7 à l’O du 26 oct. 2011 sur les importations agricoles, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5325](https://fedlex.data.admin.ch/eli/oc/2011/770)).
+[^21-1]: Nouvelle teneur selon l’annexe 7 ch. 7 de l’O du 26 oct. 2011 sur les importations agricoles, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5325](https://fedlex.data.admin.ch/eli/oc/2011/770)).
 [^21-2]: [RS 916.01](https://fedlex.data.admin.ch/eli/cc/2011/770)
 
 #### Art. 22
@@ -318,14 +320,15 @@ Les cantons répondent du relevé des données prévues à l’art. 49 de l’or
 
 <sup>2</sup> Il peut charger les services de coordination de relever les données prévues à l’art. 49 de l’ordonnance du 26 octobre 2011 sur les importations agricoles[^22-1].[^22-2]
 
-<sup>3</sup> Le mandat de prestation est attribué par contrat, pour une période maximum de quatre ans. Il n’existe aucun droit à la conclusion d’un mandat de prestation.
+<sup>3</sup> Le mandat de prestation est attribué par contrat. Il n’existe aucun droit à la conclusion d’un mandat de prestation.[^22-3]
 
 <sup>4</sup> L’OFAG peut verser des indemnités à cet effet.
 
 <sup>5</sup> Il surveille les services mentionnés à l’al. 1.
 
 [^22-1]: [RS 916.01](https://fedlex.data.admin.ch/eli/cc/2011/770)
-[^22-2]: Nouvelle teneur selon le ch. 7 de l’annexe 7 à l’O du 26 oct. 2011 sur les importations agricoles, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5325](https://fedlex.data.admin.ch/eli/oc/2011/770)).
+[^22-2]: Nouvelle teneur selon l’annexe 7 ch. 7 de l’O du 26 oct. 2011 sur les importations agricoles, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5325](https://fedlex.data.admin.ch/eli/oc/2011/770)).
+[^22-3]: Nouvelle teneur selon le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 734](https://fedlex.data.admin.ch/eli/oc/2022/734)).
 
 ### Section 3 Mesures administratives
 
@@ -335,7 +338,7 @@ Les cantons répondent du relevé des données prévues à l’art. 49 de l’or
 
 Le titulaire d’un PGI qui ne respecte pas les charges prescrites à l’art. 6, al. 2, doit acquitter le THC sur la marchandise importée.
 
-[^23-1]: Nouvelle teneur selon le ch. 51 de l’annexe 4 à l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
+[^23-1]: Nouvelle teneur selon l’annexe 4 ch. 51 de l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 
 ### Section 4 Dispositions finales
 
@@ -365,7 +368,7 @@ En dérogation à l’art. 16, l’attribution des parts du contingent tarifaire
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 1999.
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 (art. 1 et 9)
 
@@ -404,7 +407,7 @@ Les normes de commercialisation communautaires pour les marchandises énumérée
 
 [^annex1-lvlu1-1]: Règlement d’exécution (UE) n<sup>o</sup> 543/2011 de la Commission du 7 juin 2011 portant modalités d’application du règlement (CE) n<sup>o</sup> 1234/2007 du Conseil en ce qui concerne les secteurs des fruits et légumes et des fruits et légumes transformés, version du JO L 157 du 15.6.2011, p. 1.
 
-Annexe 2*[^t-2]*
+Annexe 2[^t-2]
 
 (art. 4)
 
