@@ -1,24 +1,25 @@
 ---
 canton: VS
 number: "721.1"
-title: "Loi sur l'aménagement des cours d'eau"
+title: "Loi sur les dangers naturels et l'aménagement des cours d'eau"
 short: LDNACE
 language: fr
-version: 2014-10-03
-corrected: 2017-09-20
-version_adopted: 2014-09-11
+version: 2023-01-01
+valid_until: 2026-10-31
+version_adopted: 2022-06-10
 adopted: 2022-06-10
 in_force: 2023-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/721.1"
-pdf: "https://lex.vs.ch/api/fr/versions/308/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/fr/versions/3147/pdf_file"
 ---
 
-> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi. Le canton ne publie cette version qu’en PDF : le texte en est extrait, la structure déduite de la mise en page.
+> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
-# Loi sur l'aménagement des cours d'eau
+# Loi sur les dangers naturels et l'aménagement des cours d'eau
 
-du 15 mars 2007
+(LDNACE)
+
+du 10.06.2022 (état 01.01.2023)
 
 Le Grand Conseil du canton du Valais
 
@@ -26,449 +27,479 @@ vu les articles 17 alinéa 2, 31 et 42 de la Constitution cantonale;
 
 vu la loi fédérale sur l'aménagement des cours d'eau du 21 juin 1991;
 
+vu la loi fédérale sur les forêts du 4 octobre 1991 (LFo);
+
 sur la proposition du Conseil d'Etat,
 
 ordonne:
 
-### Section 1: Dispositions générales
+## 1 Dispositions générales
 
 #### Art. 1
 
 **But**
 
-<sup>1</sup> La présente loi a pour but de protéger de manière durable les personnes, les animaux et les biens matériels importants contre les crues, de réparer les dommages provoqués par des événements particuliers et de maintenir, restaurer ou aménager les cours d'eau dans un état aussi naturel que possible.
+<sup>1</sup> La présente loi a pour but d'assurer:
 
-<sup>2</sup> Elle sert également à l'application de la législation fédérale sur l'aménagement des cours d'eau.
+- a) la protection des personnes et des biens de valeur notable contre les dangers naturels;
+- b) l'entretien et l'aménagement des cours d'eau et lacs dans un état aussi naturel que possible.
+
+<sup>2</sup> Elle sert également à l'application des législations fédérales suivantes: loi sur l'aménagement des cours d'eau, loi sur les forêts (en ce qui concerne les dangers naturels), loi sur la protection des eaux (en ce qui concerne l'espace réservé aux eaux superficielles et leur revitalisation).
 
 #### Art. 2
 
-**Objet**
+**Objet et champ d'application**
 
-<sup>1</sup> La loi règle l'aménagement et l'entretien des cours d'eau, le financement des mesures y relatives, ainsi que la surveillance des cours d'eau.
+<sup>1</sup> La loi règle la gestion des dangers naturels, l'entretien et l'aménagement des eaux superficielles définies par la présente loi (ci-après: cours d'eau et lacs) ainsi que le financement des mesures y relatives.
 
-<sup>2</sup> L'aménagement des cours d'eau comprend la protection active et passive contre les crues ainsi que les mesures contre les mouvements de terrain en relation avec les cours d'eau.
+<sup>2</sup> Pour les cours d'eau et lacs, l'aménagement comprend les mesures constructives pour la protection contre les crues et les mesures de revitalisation.
 
-<sup>3</sup> Une ordonnance complète la présente loi.
+<sup>3</sup> Dans la limite de la présente loi et de ses dispositions d'exécution les domaines de dangers visés sont:
+
+- a) les dangers gravitaires: dangers hydrologiques, glissements de terrain, processus de chute, avalanches;
+- b) les dangers tectoniques: tremblements de terre;
+- c) les dangers météo-climatiques et autres: sécheresse, incendie de forêt, vague de chaleur ou de froid, fortes précipitations, grêle, tempête, neige, foudre, remontée de nappe phréatique.
+
+<sup>4</sup> Sont exclus des cours d'eau et lacs tous les linéaires ou plans d'eau ayant fonction principalement d'évacuation des eaux claires, découlant d'une concession d'utilisation de droit privé ou servant uniquement à l'utilisation de la force hydraulique, à l'irrigation ou au drainage.
+
+<sup>5</sup> Les compétences et les devoirs en matière de dangers naturels qui concernent notamment les routes nationales, les installations militaires, les entreprises ferroviaires, les installations électriques ainsi que les ouvrages d'accumulation sont régis par les législations spéciales.
 
 #### Art. 3
 
-**Champ d'application**
+**Principes de base**
 
-<sup>1</sup> La loi est applicable à toutes les eaux superficielles y compris les sections enterrées.
+<sup>1</sup> La protection contre les dangers naturels se fait selon les principes de la gestion intégrée des risques qui considère tous les types de dangers naturels et de mesures et qui implique l'ensemble des autorités et des propriétaires d'infrastructures compétents dans la planification, la conception et la mise en œuvre des mesures, dans une perspective durable des points de vue écologique, économique et social.
 
-<sup>2</sup> La détermination des cours d'eau soumis à la présente loi est réglée dans l'ordonnance.
+<sup>2</sup> La gestion intégrée des risques doit être assurée par des mesures de prévention, d'intervention et constructives. Les mesures de prévention, en particulier les mesures d’aménagement du territoire, doivent être privilégiées. Lorsque ces mesures de prévention sont insuffisantes, inopportunes ou impossibles, les autres mesures peuvent être prises.
+
+<sup>3</sup> L'appréciation des risques liés aux dangers naturels tient notamment compte de l'analyse cantonale des risques élaborée et mise à jour par l'Observatoire cantonal des risques (OCRI).
+
+<sup>4</sup> La protection contre les dangers naturels respecte les principes suivants:
+
+- a) prise en compte des connaissances récentes en matière de dangers naturels et d'aménagement des cours d'eau;
+- b) exécution des mesures de manière économique et selon les règles de l’art;
+- c) appréciation des mesures dans leur ensemble et dans leur action conjointe par rapport aux autres dispositions légales pertinentes.
+
+<sup>5</sup> Dans le domaine de compétence des collectivités publiques (canton et communes) et des propriétaires d'infrastructures (art. 4):
+
+- a) les personnes qui sont exposées à un risque peuvent s'attendre à ce que les collectivités publiques et propriétaires d'infrastructures le limitent pour eux;
+- b) elles sont tenues de consentir des efforts pour atteindre le niveau de sécurité visé en protégeant les objets et en adoptant un comportement approprié face aux risques.
+
+<sup>6</sup> Les collectivités publiques et propriétaires d'infrastructures définissent, pour chaque type de bien à protéger, l'ampleur des efforts qu'elles veulent et peuvent consentir en faveur de leur sécurité en tenant compte du risque et de la criticité des infrastructures.
+
+<sup>7</sup> Dans les domaines hors de la compétence des collectivités publiques et propriétaires d'infrastructures (art. 4), les personnes qui sont exposées à un risque ne peuvent pas s'attendre à ce qu'une institution le limite pour eux. Elles doivent définir le degré de protection qu'elles souhaitent et assurer leur protection en conséquence.
 
 #### Art. 4
 
-**Eaux superficielles**
+**Compétences et devoirs en matière de gestion intégrée des risques**
 
-<sup>1</sup> Les eaux superficielles, telles que les lacs, les étangs, les fleuves, les rivières, les torrents et les courants d'eau dans un chenal naturel ou artificiel, comprennent le lit, les berges, les rives, les digues ainsi que les contre-canaux.
+<sup>1</sup> Dans le domaine des dangers naturels gravitaires au sens de l'article 2 alinéa 3 lettre a:
 
-<sup>2</sup> Le département chargé des cours d'eau (ci-après département) définit les eaux publiques superficielles, en dresse un inventaire ainsi qu'un plan cartographique.
+- a) les collectivités publiques s'impliquent activement, notamment en offrant une protection tenant compte des risques sur l'étendue du territoire et des infrastructures qui les concerne et en transmettant l'alerte et l'alarme afin que les protagonistes privés puissent assumer leurs responsabilités;
+- b) le canton est compétent pour le Rhône, le Léman et pour le réseau routier cantonal;
+- c) les communes sont compétentes sur leur territoire pour les zones à bâtir et leurs accès, les petites entités urbanisées hors zones à bâtir et leurs accès, leurs infrastructures et les voies de communications communales;
+- d) les propriétaires et exploitants d'infrastructures sont compétents pour leurs installations indépendamment de la zone à laquelle elles sont affectées, le cas échéant conformément aux législations spéciales régissant ces infrastructures;
+- e) les propriétaires privés des bâtiments et infrastructures situés hors zone à bâtir, sous réserve des dispositions de la lettre c), sont compétents sur leur propriété. Ils doivent s'informer sur la situation de danger et son évolution possible, y compris pour les accès, le cas échéant, d’adapter leur utilisation, et d'en informer les éventuels usagers. Le service en charge des dangers naturels gravitaires (ci-après: le service) publie les recommandations à suivre et les mesures de protection à adopter par les propriétaires privés.
 
-<sup>3</sup> Selon l'intérêt public qu'elles présentent, ces eaux sont délimitées en tant que fonds indépendants. Pour les eaux superficielles non délimitées, la ligne apparente de leur action régulière est prise généralement comme limite.
+<sup>2</sup> Dans le domaine des dangers tectoniques au sens de l'article 2 alinéa 3 lettre b:
+
+- a) le canton se charge de la sensibilisation de la population au comportement à adopter en cas de séisme, notamment via un programme d'éducation spécifique;
+- b) le canton et les communes élaborent leur propre plan d'urgence pour l'intervention en cas de séisme majeur. Le canton appuie les communes sur le plan technique dans l'élaboration de ce plan;
+- c) les collectivités publiques, propriétaires et exploitants d'infrastructures et propriétaires privés sont compétents pour la prévention contre les séismes qui pourraient affecter leurs biens. Cette prévention comprend notamment l'analyse de la capacité des bâtiments et infrastructures à résister aux tremblements de terre et l'exécution des mesures de renforcement nécessaires. Demeurent réservées les législations spéciales applicables aux propriétaires et exploitants d'infrastructures;
+- d) Les cartes de microzonages sismiques et de sols de fondations sont élaborées par le canton, pour les zones qu'il juge nécessaires.
+
+<sup>3</sup> Dans le domaine des dangers météo-climatiques et autres dangers au sens de l'article 2 alinéa 3 lettre c, les collectivités publiques sont tenues de transmettre l'alerte et l'alarme et les informations nécessaires à ceux qui y sont exposés. La police cantonale est l'organisme cantonal chargé de transmettre l'alerte et l'alarme à la population.
+
+<sup>4</sup> Le Conseil d'Etat désigne les entités administratives cantonales en charge des différents types de dangers naturels.
+
+<sup>5</sup> Pour assumer les tâches qui leur sont dévolues par la présente loi, les communes peuvent collaborer entre elles ou constituer une personne morale de droit privé, selon les modalités prévues par la loi sur les communes.
 
 #### Art. 5
 
-**Principes de base**
+**Compétences en matière d'aménagement des cours d'eau et lacs**
 
-<sup>1</sup> La protection contre les crues doit en priorité être assurée par l’entretien des cours d’eau et par des mesures passives, telles que la détermination de l’espace réservé aux eaux et sa prise en compte dans les plans directeurs, les plans d’affectation des zones, règlements des constructions et des zones et autres activités ayant des effets sur l’organisation du territoire ou des systèmes de prévision et d’alerte. Lorsque de telles mesures sont insuffisantes, inopportunes ou impossibles, des mesures actives doivent être prises.<sup>4</sup>
+<sup>1</sup> L'aménagement et l'entretien des cours d'eau et lacs incombent:
 
-<sup>2</sup> Lors d'interventions dans les cours d'eau ou dans leurs périmètres d'influence, l'auteur de celles-ci respectera les principes suivants:
+- a) au canton pour le Rhône et le Léman; il agit par le biais du département chargé des cours d'eau et des dangers naturels (ci-après: département);
+- b) aux communes pour les cours d'eau et lacs de l'inventaire cantonal, au sens de l’article 7, sis sur leur territoire;
+- c) au propriétaire du bien-fonds riverain ou au titulaire d’un droit de superficie pour les lacs privés;
+- d) au bénéficiaire d'une concession ou d'un droit d'eau, dans la mesure où lors de l'octroi de ceux-ci, l'obligation d'aménager ou d'entretenir les cours d'eau selon la législation en la matière a été transférée au concessionnaire;
+- e) aux consortages ou aux privés.
 
-- a) prise en compte des connaissances récentes en matière d'aménagement des cours d'eau lors de l'élaboration des projets et de l'exécution des mesures;
+<sup>2</sup> Le département peut déléguer aux communes ou à des tiers certaines tâches d'aménagement, d'intervention d'urgence et d'entretien pour le Rhône ou le Léman. La délégation fait l'objet d'une publication dans le Bulletin officiel. Les détails sont réglés dans l'ordonnance.
 
-- b) prise en considération des caractéristiques des différentes eaux du bassin versant et du réseau hydrologique ainsi que des possibilités de rétention;
-
-- c) prise en compte de la valeur des biens à protéger selon les objectifs de protection dans le choix du débit de dimensionnement;
-
-- d) mise en place d'un mode de gestion des risques résiduels;
-
-- e) réservation d'un espace permettant d'assurer la protection contre les crues et les différentes fonctions des cours d'eau;
-
-- f) maintien ou rétablissement de l'équilibre et des interactions entre eaux superficielles et eaux souterraines selon les fonctionnalités à assurer;
-
-- g) maintien ou rétablissement, dans la mesure du possible, du caractère naturel des cours d'eau par des mesures de renaturation;
-
-- h) mise en place de mesures permettant de recevoir une flore et une faune de cours d’eau diversifiées;<sup>4</sup>
-
-- i) entretien de la végétation riveraine, au besoin remplacement par des plantes adaptées au milieu ou création nouvelle de manière à ce qu'une végétation appropriée au lieu puisse se développer;
-
-- k) prise en considération des exigences de l'aménagement du territoire, de la protection de l'environnement, de la nature, du paysage, ainsi que de la pêche, de l'agriculture et de la sylviculture;
-
-- l) prise en compte des intérêts de la navigation et de l'utilisation des forces hydrauliques;
-
-- m) maintien ou construction des chemins de service servant à l'entretien dans la mesure nécessaire à l'aménagement des cours d'eau;
-
-- n) respect de l'utilisation économique des moyens.
+<sup>3</sup> Les communes peuvent confier à des tiers l'exécution de certaines tâches d'aménagement et d'entretien des cours d'eau et lacs communaux.
 
 #### Art. 6
 
-**Compétence**
+**Réserve d'autorisations spéciales**
 
-Les autorités compétentes selon la présente loi sont:
+<sup>1</sup> Les autorisations spéciales et dispositions prévues par les lois fédérales ou d'autres lois cantonales relatives notamment aux routes nationales, les installations militaires, les entreprises ferroviaires, les installations électriques, les ouvrages d'accumulation, les ouvrages de forces hydrauliques, aux ouvrages hydrauliques, aux travaux d'entretien et aux autres constructions, installations et mesures sur les cours d'eau et lacs demeurent réservées.
 
-- a) le canton pour le Rhône et le Léman; il agit par le biais du service en charge de l’aménagement des cours d’eau (ci-après: le service);<sup>4</sup>
+<sup>2</sup> L'article 38 de la présente loi relatif à la coordination est applicable.
 
-- b) les communes pour les rivières, les torrents, les lacs et les canaux déclarés d'intérêt public sis sur leur territoire.
+## 2 Gestion intégrée des risques
+
+### 2.1 Prévention
+
+### 2.1.1 Documents de base
 
 #### Art. 7
 
-**Propriété des eaux**
+**Inventaire cantonal des cours d'eau et lacs**
 
-<sup>1</sup> Les eaux publiques font partie du domaine public cantonal ou communal.
+<sup>1</sup> Le département définit à titre indicatif les cours d'eau et lacs, en dresse un inventaire ainsi qu'une carte.
 
-<sup>2</sup> Les litiges concernant la question de savoir si les eaux sont de nature publique ou privée relèvent de la compétence du juge civil.
+<sup>2</sup> Lors d'un projet de construction, le propriétaire d'un immeuble sur lequel passe un écoulement doit s'informer du statut de cet écoulement avant de le modifier.
 
 #### Art. 8
 
-**Réserve d'autorisations spéciales**
+**Documents de base**
 
-<sup>1</sup> Les autorisations spéciales prévues par les lois fédérales ou d'autres lois cantonales relatives notamment aux ouvrages de forces hydrauliques, aux ouvrages hydrauliques, aux travaux d'entretien et aux autres constructions, installations et mesures sur les cours d'eau demeurent réservées.
+<sup>1</sup> Les entités compétentes élaborent et actualisent les documents et les données de base nécessaires à assurer la gestion intégrée des risques. Il s’agit notamment du cadastre des évènements, des cartes de danger, des cartes de microzonage sismique, des plans d’alarme et d'intervention, des concepts et objectifs de protection sur le plan cantonal et du cadastre des ouvrages de protection.
 
-<sup>2</sup> L'article 34 relatif à la coordination est applicable.
-
-### Section 2: Organisation
+<sup>2</sup> Les entités compétentes doivent fournir au service, et selon ses directives, l’ensemble des données nécessaires à la gestion des risques et à l’information du public.
 
 #### Art. 9
 
-**Obligations du propriétaire**
+**Cartes des dangers naturels**
 
-<sup>1</sup> L'aménagement et l'entretien des cours d'eau incombent:
+<sup>1</sup> Les cartes des dangers sont élaborées et mises à jour par les autorités compétentes et transmises au service.
 
-- a) au canton pour le Rhône et le Lac Léman;
+<sup>2</sup> Dans un délai de 3 mois, qui peut être prolongé pour de justes motifs, le service:
 
-- b) aux communes ou associations de communes pour les rivières, les torrents, les lacs et les canaux déclarés d'intérêt public sis sur leur territoire;
+- a) contrôle que les cartes ont été élaborées selon les normes et qu'elles reflètent les connaissances actuelles du danger (validation);
+- b) demande les compléments nécessaires;
+- c) informe les autorités compétentes de la validité des cartes.
 
-- c) au propriétaire du bien-fonds riverain ou au titulaire du droit de superficie (riverain des lacs) pour les lacs privés;
+<sup>3</sup> Les cartes de danger du Rhône et du Léman sont établies par le département.
 
-- d) au bénéficiaire d'une concession de forces hydrauliques, dans la mesure où lors de l'octroi de la concession, l'obligation d'aménager ou d'entretenir les cours d'eau selon la législation en matière d'utilisation des forces hydrauliques a été transférée au concessionnaire;
+<sup>4</sup> Les cartes des dangers sont obligatoires dans les zones à bâtir. Pour les processus auxquels elles sont appropriées, elles peuvent, en cas de nécessité, être étendues à d’autres portions du territoire.
 
-- e) aux consortages ou aux privés.
-
-<sup>2</sup> Le canton peut déléguer certaines tâches d'entretien des cours d'eau cantonaux aux communes ou les confier à des tiers. Les détails sont réglés dans l'ordonnance.
-
-<sup>3</sup> La commune peut confier à des tiers l'exécution de certaines tâches d'entretien des cours d'eau communaux.
-
-<sup>4</sup> Si une voie publique cantonale passe à proximité immédiate d'un cours d'eau ou qu'elle le franchit, l'obligation d'aménager le cours d'eau incombe au canton dans la mesure de l'intérêt de cette voie.
+<sup>5</sup> Les autorités compétentes doivent tenir compte des cartes des dangers dès leur validation par le service.
 
 #### Art. 10
 
-**Association de communes**
+**Homologation des plans de zones de danger**
 
-<sup>1</sup> Les communes peuvent s'associer pour l'accomplissement de leurs tâches relatives aux cours d'eau. Si nécessaire, les projets d'aménagement se font sur la base d'un plan d'aménagement intercommunal des cours d'eau.
+<sup>1</sup> Les cartes de danger sont mises à l’enquête publique sous forme de plans de zones de danger avec un fond parcellaire dans un délai de 3 mois après la validation par le service. Ce délai peut être prolongé pour de justes motifs.
 
-<sup>2</sup> Sauf dispositions contraires de la présente loi, la constitution, la modification, la dissolution et l'organisation de l'association sont régies par les dispositions de la loi sur les communes.
+<sup>2</sup> Les plans de zones de danger ainsi que les prescriptions les accompagnant sont mis à l’enquête publique:
 
-<sup>3</sup> A défaut d'entente entre les intéressées, le Conseil d'Etat peut ordonner, sur la proposition d'une commune ou d'office, la création d'une association de communes, si cela est indispensable à l'accomplissement rationnel des tâches liées à l'aménagement et à l'entretien des cours d'eau. Dans ce cas, le Conseil d'Etat définit les tâches et règle l'organisation, le financement et la dissolution de l'association.
+- a) par la commune de situation;
+- b) par le département pour le Rhône et le Léman.
 
-### Section 3: Planification
+<sup>3</sup> Les plans de zones de danger peuvent être mis à l’enquête publique par secteur, par type de danger, ou les deux.
+
+<sup>4</sup> Les zones de danger sont reportées à titre indicatif dans les plans d'affectation des zones après leur approbation.
+
+<sup>5</sup> Le chapitre 3 de la présente loi est applicable à la procédure d'homologation des zones de danger.
 
 #### Art. 11
 
-**Etudes de base et plan sectoriel des cours d'eau**
+**Organisation du territoire, constructions et utilisation dans les secteurs exposés au danger**
 
-<sup>1</sup> Le canton élabore, d'entente avec les communes, les études de base et le plan sectoriel cantonal des cours d'eau.
+<sup>1</sup> Les décisions en matière d'organisation du territoire, notamment les autorisations de construire, sont délivrées sur la base des connaissances de danger les plus récentes.
 
-<sup>2</sup> Il tient compte des conceptions et plans sectoriels de la Confédération, des plans directeurs cantonaux, ainsi que des programmes de développement régional et des plans d'aménagement régionaux et communaux.
+<sup>2</sup> En cas de danger naturel avéré, l’autorité compétente au sens de la loi sur les constructions ou de la loi sur la protection de la population et la gestion des situations particulières et extraordinaires peut à tout moment interdire l’utilisation de bâtiments et installations, ou leurs accès, si ceux-ci sont de nature à mettre en péril la vie humaine.
+
+<sup>3</sup> Dans les territoires où les cartes de danger sont en cours d'élaboration, les autorités compétentes en la matière se déterminent sur la compatibilité de tout projet d'organisation du territoire ou de construction, de transformation et de changement d’affectation de bâtiments et d'installations, après consultation des organes cantonaux spécialisés.
+
+<sup>4</sup> Le propriétaire du fonds peut apporter la preuve que les dangers qui menacent le bien-fonds ou son accès ont été écartés par des mesures de sécurité pour autant que le danger n’a pas été reporté ou augmenté sur les parcelles voisines.
 
 #### Art. 12
 
-**Objet du plan sectoriel des cours d'eau**
+**Autorisation de construire dans les secteurs exposés au danger**
 
-<sup>1</sup> Le plan sectoriel des cours d'eau décrit dans les grandes lignes la manière dont les objectifs visés doivent être atteints et indique comment ils doivent être coordonnés entre eux et avec ceux de l'aménagement du territoire.
+<sup>1</sup> Tout projet en matière d'organisation du territoire portant sur un secteur exposé au danger et toute demande d'autorisation de construire ou d'installation exposée au danger doivent faire l'objet d'un préavis du service concerné.
 
-<sup>2</sup> Il désigne, en fonction de l’importance du cours d’eau dans le bassin versant, tout ou partie des éléments suivants:<sup>4</sup> a) les cours d’eau et les rives qui doivent être maintenus, autant que possible, dans un état naturel, aménagés ou rétablis dans un état proche de la nature ainsi que l’espace qui leur est réservé;<sup>4</sup> b) les périmètres de dangers dans lesquels aucune installation ou bâtiment nouveau ne devrait être construit, ou ne pourrait l'être qu'avec une protection adéquate contre les crues;
+<sup>2</sup> Sur les territoires dont il est connu par expérience, ou dont il est possible de prévoir qu’ils comportent un danger (ci-après: secteur exposé à un danger) et que celui-ci est élevé:
 
-- c) les sections des cours d’eau et des rives pour lesquelles des mesures de protection actives contre les crues ou de revitalisation doivent être prises;<sup>4</sup>
+- a) les nouvelles constructions et installations ne sont pas autorisées. Des exceptions peuvent être admises aux conditions dérogatoires définies dans l'ordonnance;
+- b) les transformations, rénovations et changements d'affectation peuvent être autorisés uniquement si les risques s'en trouvent diminués ou, exceptionnellement, inchangés.
 
-- d) les périmètres d'inondation potentielle ou d'écrêtement des crues;
+<sup>3</sup> Dans les secteurs exposés à un danger moyen, faible ou résiduel, les nouvelles constructions et installations, les transformations et changements d'affectation ne peuvent être autorisés que si les conditions définies dans l'ordonnance sont respectées.
 
-- e) le degré de sécurité à atteindre;
-
-- f) les espaces à proximité des cours d'eau où des mesures contre les mouvements de terrain doivent être prises;
-
-- g) les chemins de service existants ou à aménager pour l'entretien des rives;
-
-- h) les mesures qui revêtent de l'importance pour le bilan alluvionnaire;
-
-- i) les sections des cours d'eau pour lesquelles la réalisation d'ouvrages hydrauliques ne nécessite pas un plan d'aménagement des cours d'eau.
-
-#### Art. 12a
-
-<sup>4</sup> Elaboration du plan sectoriel des cours d'eau; force obligatoire
-
-<sup>1</sup> Avant l'adoption du plan sectoriel des cours d'eau, le Conseil d'Etat s'assure que la consultation des communes et des services concernés a eu lieu et vérifie que la coordination avec les autres activités ayant des effets sur l'organisation du territoire, notamment avec les plans directeurs cantonaux, a été faite.
-
-<sup>2</sup> Le Conseil d'Etat adopte définitivement le plan sectoriel des cours d'eau ainsi que ses modifications.
-
-<sup>3</sup> Si le plan directeur cantonal doit être adapté pour le rendre compatible avec le plan sectoriel des cours d'eau, l'adaptation correspondante doit être approuvée, au plus tard, en même temps que l'adoption du plan sectoriel des cours d'eau.
-
-<sup>4</sup> Le plan sectoriel des cours d'eau a force obligatoire pour les autorités.
-
-<sup>5</sup> Les règles relatives à l'adoption du plan sectoriel des cours d'eau s'appliquent à ses modifications. Une procédure simplifiée en cas de modification mineure est prévue dans l'ordonnance.
-
-#### Art. 12b
-
-<sup>4</sup> Planification des revitalisations
-
-<sup>1</sup> Le département, par le service, planifie la revitalisation des eaux dans les délais fixés par la loi, le cas échéant sur proposition des propriétaires des eaux superficielles.
-
-<sup>2</sup> Le Conseil d’Etat approuve la planification cantonale des revitalisations.
-
-<sup>3</sup> La planification cantonale des revitalisations tient compte des bénéfices pour la nature et le paysage, des effets prévisibles en matière de réduction des risques contre les crues ainsi que des répercussions économiques.
-
-- a) Elle contient des données sur:
-
-- 1\. l’état écomorphologique des eaux;
-
-- 2\. les installations sises dans l’espace réservé aux eaux;
-
-- 3\. le potentiel écologique des eaux;
-
-- 4\. leur importance pour le paysage.
-
-- b) Elle fixe:
-
-- 1\. les objectifs par bassin versant;
-
-- 2\. les tronçons à revitaliser;
-
-- 3\. le type de mesures à prendre;
-
-- 4\. les délais priorisés de réalisation en fonction de l’utilité des mesures pour la nature et le paysage, de leur efficacité et leur synergie avec d’autres mesures de protection contre les crues ou de biotopes.
-
-<sup>4</sup> La planification est prise en compte dans la détermination de l’espace réservé aux eaux, le plan sectoriel et d’aménagement des cours d’eau, les plans directeurs, les plans d’affectation des zones ainsi que les règlements des constructions et des zones.
+<sup>4</sup> Le service peut, dans des cas justifiés et sur la base d'une expertise, autoriser des exceptions.
 
 #### Art. 13
 
-<sup>4</sup> Espace réservé aux eaux superficielles
+**Plans d’alarme et d'intervention**
 
-<sup>1</sup> L’espace réservé aux eaux superficielles (cours d’eau et étendues d’eau) au sens du droit fédéral est destiné à garantir:
+<sup>1</sup> Les plans d'alarme et d'intervention (ci-après: PAI) sont établis pour les dangers naturels menaçant les zones à bâtir et les biens de valeur notable sur la base des objectifs de protection et des cartes de danger.
 
-- a) la protection contre les crues,
+<sup>2</sup> Le canton, par ses services concernés, établit les PAI pour le Rhône et le Léman et les infrastructures critiques dont il est compétent.
 
-- b) les fonctions écologiques et socio-économiques des eaux ainsi que leur revitalisation selon l’article 23 de la présente loi,
+<sup>3</sup> Les communes et les tiers établissent, en tenant compte des PAI cantonaux, leurs PAI pour les zones à bâtir et les biens de valeur notable dont ils sont compétents.
 
-- c) leur entretien et leur utilisation.
+<sup>4</sup> Les communes assurent la coordination des différents PAI de leur territoire et leur intégration dans leur plan d'urgence.
 
-<sup>2</sup> Les critères de définition de l’espace réservé des grands cours d’eau sont fixés dans une ordonnance spécifique qui est soumise à l’approbation du Grand Conseil.
+<sup>5</sup> Les communes coordonnent leurs PAI avec ceux des communes avoisinantes.
 
-<sup>3</sup> La détermination de l’espace réservé aux eaux superficielles incombe:
-
-- a) au canton pour les eaux superficielles lui appartenant (Rhône et Léman);
-
-- b) aux communes pour les eaux superficielles leur appartenant et selon les directives du département. Pour les eaux superficielles faisant la limite entre deux ou plusieurs communes, l’espace réservé de celles-ci doit être déterminé de manière coordonnée. A défaut d’entente entre les intéressées, le Conseil d’Etat, agissant sur requête d’une commune ou d’office, tente, sous l’égide du département, une conciliation. En cas d’échec ou de refus, il peut ordonner une coordination et, au besoin, prendre les mesures nécessaires aux frais des défaillantes.
-
-<sup>4</sup> L’espace réservé aux eaux superficielles est déterminé sous la forme de plans et de prescriptions fixant les possibilités d’utilisation du sol ainsi que les restrictions du droit de propriété. Ces documents sont mis à l’enquête publique auprès de la ou des communes de situation. Des remarques et oppositions motivées peuvent être déposées, dans un délai de trente jours dès la publication dans le Bulletin officiel. La commune transmet le projet au département avec les remarques ainsi que les oppositions accompagnées de son préavis.
-
-<sup>5</sup> Après consultation notamment du service ainsi que de ceux en charge de la protection de l’environnement, de la pêche, de la faune, de l’aménagement du territoire, de la nature et de l’agriculture, le Conseil d’Etat statue sur les oppositions et approuve les plans ainsi que les prescriptions l’accompagnant.
-
-<sup>6</sup> L’espace réservé peut être délimité ponctuellement dans le cadre des procédures d’approbation de projets d’exécution d’aménagement ou de revitalisation des cours d’eau.
-
-<sup>7</sup> L’espace réservé aux eaux est reporté à titre indicatif dans les plans d’affectation des zones et dans les règlements des constructions et des zones par les communes.
-
-<sup>8</sup> L’autorisation exceptionnelle dans l’espace cours d’eau au sens de l’article 41c OEaux est délivrée par le département, puis intégrée dans la décision rendue par l’autorité compétente de la procédure décisive, après mise à l’enquête publique coordonnée et consultation notamment du service ainsi que de ceux en charge de l’environnement, de la pêche, de la faune, de l’aménagement du territoire et de la protection de la nature et du paysage.
+### 2.1.2 Planification des espaces réservés, des revitalisations et des aménagements des cours d'eau et lacs
 
 #### Art. 14
 
-<sup>4</sup> Plans d’aménagement et de revitalisation des cours d’eau
+**Espace réservé aux cours d’eau et lacs**
 
-<sup>1</sup> Avant l’élaboration d’un projet d’exécution, le département, les communes ou les associations de communes doivent élaborer un plan d’aménagement ou de revitalisation des cours d’eau concernés relevant de leur compétence.<sup>4</sup>
+<sup>1</sup> L’espace réservé aux cours d’eau et lacs est destiné à garantir:
 
-<sup>2</sup> Les plans d’aménagement et de revitalisation des cours d’eau définissent dans un secteur délimité les mesures particulières d’aménagement et règlent le mode d’utilisation du sol dans l’emprise du projet. Ils servent de base aux projets d’exécution et contiennent principalement:<sup>4</sup> a) un rapport technique intersectoriel sur les eaux et leur gestion dans le bassin versant;<sup>4</sup> b) un dossier de plans, indiquant notamment l’espace réservé aux eaux et les variantes d’étude;<sup>4</sup> c) un rapport ou une notice d’impact sur l’environnement pour la ou les variantes retenues;<sup>4</sup> d) l'aperçu des dangers naturels existants avant et après aménagement;
+- a) la protection contre les crues;
+- b) les fonctions écologiques et socio-économiques des eaux ainsi que leur revitalisation;
+- c) leur entretien et leur utilisation.
 
-- e) les indications précises sur les secteurs ayant subi des dommages;
+<sup>2</sup> La détermination de l’espace réservé incombe:
 
-- f) les besoins de terrain, les possibilités et variantes étudiées;
+- a) au canton pour le Rhône et le Léman;
+- b) aux communes pour les cours d’eau et lacs leur appartenant et conformément aux directives du département.
 
-- g) la justification de la variante retenue;
+<sup>3</sup> L’espace réservé aux cours d'eau et lacs, composé de plans et de prescriptions, est mis à l’enquête publique par l’autorité compétente.
 
-- h) la nécessité des mesures projetées;
+<sup>4</sup> L’autorité de la procédure décisive est compétente pour l’autorisation de construire des installations dans l’espace réservé aux cours d’eau selon la législation fédérale sur la protection des eaux, après mise à l’enquête publique de la demande et consultation des services concernés.
 
-- i) si nécessaire, les propositions de modification du plan d'affectation des zones et de la réglementation y relative.
+<sup>5</sup> Les critères de définition des grands cours d'eau et de leur espace réservé sont fixés dans une ordonnance spécifique.
 
-<sup>3</sup> Les plans d’aménagement et de revitalisation des cours d’eau font l’objet d’une information publique, puis d’une adoption par le Conseil d’Etat. Dans les trente jours qui suivent la publication, les observations et réserves éventuelles doivent être adressées, par écrit, auprès de la commune de situation, ou du département s’il s’agit du Rhône et du Léman.<sup>4</sup>
+<sup>6</sup> L'espace réservé aux cours d'eau et lacs peut être mis à l'enquête publique par secteur.
 
-<sup>4</sup> Avant l’adoption des plans d’aménagement et de revitalisation des cours d’eau, le Conseil d’Etat s’assure que la solution choisie est compatible avec les prescriptions fédérales, cantonales et communales relatives à l’utilisation du sol, en particulier avec les plans directeurs cantonaux et les plans d’affectation de zones.<sup>4</sup>
+<sup>7</sup> L’espace réservé aux cours d'eau et lacs est reporté à titre indicatif dans les plans d'affectation des zones et dans les règlements des constructions et des zones par les communes.
 
-<sup>5</sup> Les effets des plans d’aménagement et de revitalisation des cours d’eau sont limités à dix ans. Ce délai peut exceptionnellement être prolongé.<sup>4</sup>
+<sup>8</sup> Le chapitre 3 de la présente loi est applicable à la procédure d'approbation de l'espace réservé aux cours d'eau et lacs.
 
 #### Art. 15
 
-**Zones réservées**
+**Planification cantonale des revitalisations des cours d'eau et lacs**
 
-<sup>1</sup> S'il n'existe aucun plan d'aménagement des cours d'eau ou si les plans d'aménagement des cours d'eau existants doivent être modifiés ou si des portions du territoire sont exposées à des dangers, l'autorité compétente peut déclarer des territoires exactement délimités, zones réservées au sens de la législation sur l'aménagement du territoire. A l'intérieur de ces zones réservées, rien ne doit être entrepris qui puisse entraver la réalisation du projet ou mettre en danger les personnes, les animaux ou des biens matériels importants.
+<sup>1</sup> Le département, par le service, planifie la revitalisation des cours d'eau et lacs. Les services concernés ainsi que les propriétaires sont consultés lors de l'établissement ou de toute modification de cette planification cantonale.
 
-<sup>2</sup> La création d'une zone réservée et la prolongation de sa durée de validité doivent faire l'objet d'une enquête publique. La publication désigne le périmètre concerné et le but poursuivi par la création ou le maintien de la zone réservée. Dans les 30 jours qui suivent la publication, les opposants éventuels peuvent faire valoir, par écrit, auprès de l'autorité compétente que la zone réservée prévue n'est pas nécessaire, que sa durée est excessive ou que le but poursuivi est inopportun. Le Conseil d'Etat statue sur les oppositions non liquidées, sous réserve d'un recours au Tribunal cantonal.
+<sup>2</sup> Les autorités communales tiennent compte de la planification cantonale de la revitalisation des cours d'eau et lacs.
 
-<sup>3</sup> Les zones réservées entrent en force dès la publication de la décision les instituant. Elles ont en principe effet pour la durée de cinq ans. L'autorité compétente peut prolonger cette durée pour de justes motifs.
+<sup>3</sup> Le Conseil d’Etat approuve la planification cantonale des revitalisations des cours d'eau et lacs ainsi que ses modifications.
 
-### Section 4: Zones de danger
+<sup>4</sup> La planification cantonale est prise en compte dans la détermination de l’espace réservé aux cours d'eau et lacs, les plans d’aménagement des cours d’eau et lacs, le plan directeur cantonal, les plans d’affectation des zones ainsi que les règlements des constructions et des zones.
 
 #### Art. 16
 
-**Elaboration des projets**
+**Plans d'aménagement des cours d'eau et lacs**
 
-<sup>1</sup> Les projets de zones de danger concernant les inondations potentielles sont élaborés et reportés sur des plans:
+<sup>1</sup> Les plans d'aménagement des cours d'eau et lacs définissent dans les grandes lignes les mesures d'aménagement des cours d'eau et lacs concernés.
 
-- a) par le département pour le Rhône et le lac Léman;
+<sup>2</sup> Sont compétents pour élaborer un plan d'aménagement:
 
-- b) par le conseil municipal pour les autres cours d'eau.
+- a) le canton pour le Rhône et le Léman;
+- b) les communes pour les cours d'eau et lacs relevant de leur compétence.
 
-<sup>2</sup> Ils sont accompagnés de prescriptions fixant les mesures de construction et les restrictions du droit de propriété. Ces documents sont élaborés conformément aux dispositions légales et aux directives et normes techniques en la matière.
+<sup>3</sup> Avant l’élaboration d’un projet, les communes pour les cours d’eau et lacs relevant de leur compétence ainsi que le canton pour le Léman peuvent élaborer, avec les services concernés, un plan d’aménagement.
 
-<sup>3</sup> Les projets de zones de danger (plan et prescriptions) établis par les communes sont soumis au département pour examen préalablement à l'enquête publique.
+<sup>4</sup> Le canton élabore un plan d'aménagement du Rhône.
+
+<sup>5</sup> Les plans d’aménagement des cours d’eau et lacs font l’objet d’une information publique, puis d’une adoption par le Conseil d’Etat. Dans les 30 jours qui suivent la publication, les observations et réserves éventuelles doivent être adressées, par écrit, auprès de la commune de situation, ou du département s’il s’agit du Rhône ou du Léman.
+
+<sup>6</sup> Les plans d’aménagement sont évalués périodiquement en fonction de l’évolution des connaissances et notamment des données scientifiques, de la technique relative à l’aménagement des cours d’eau ou des bases légales applicables aux domaines concernés par le plan d’aménagement.
+
+### 2.1.3 Entretien des ouvrages de protection, des cours d'eau et lacs
 
 #### Art. 17
 
-**Procédure**
+**Contrôle et entretien des ouvrages de protection, des cours d'eau et lacs**
 
-<sup>1</sup> Tous les projets de zones de danger sont mis à l'enquête publique par la commune de situation auprès de laquelle peuvent être déposées des remarques et oppositions motivées, dans un délai de 30 jours dès la publication dans le Bulletin Officiel. La commune transmet les projets au département avec les remarques et oppositions non conciliées accompagnées de son préavis.
+<sup>1</sup> Les autorités compétentes ou les tiers au sens des articles 4 et 5 contrôlent et entretiennent les ouvrages de protection, les cours d'eau et les lacs.
 
-<sup>2</sup> Le Conseil d'Etat statue sur les oppositions en tant qu'elles n'ont pas un caractère de droit privé et approuve le plan de zones de danger ainsi que les prescriptions l'accompagnant. La décision peut faire d'objet d'un recours au Tribunal cantonal.
+<sup>2</sup> Le service, d'entente avec les communes concernées, vérifie par échantillonnage l’état d’entretien des ouvrages de protection, des cours d'eau et lacs.
+
+<sup>3</sup> Le service édicte des recommandations d'entretien à l'attention des communes et des tiers.
 
 #### Art. 18
 
-**Mesures de construction et restrictions du droit de propriété**
+**Principes de l’entretien des cours d’eau et lacs**
 
-<sup>1</sup> Les zones de danger délimitées définitivement (plan et prescriptions) sont reportées à titre indicatif dans les plans d'affectation des zones et dans les règlements des constructions et des zones par les communes qui adaptent périodiquement ces documents en conséquence.
+<sup>1</sup> Les cours d'eau et lacs doivent être entretenus afin de maintenir le niveau de protection approprié.
 
-<sup>2</sup> Les plans et prescriptions relatifs aux zones de danger ont force obligatoire pour les autorités et les particuliers.
+<sup>2</sup> Sont aussi considérées comme de l’entretien des cours d'eau et lacs toutes les mesures propres à assurer un écoulement dynamique et naturel, en tenant compte des exigences de sécurité et d'environnement ainsi que des prescriptions légales relatives aux zones alluviales.
 
-<sup>3</sup> En l'absence de plans et prescriptions en force, les mesures de construction et les restrictions du droit de propriété font, si nécessaire, l'objet de décisions ponctuelles par l'autorité compétente en matière d'autorisation de construire. La procédure est réglée par la loi sur la procédure et la juridiction administratives.
+<sup>3</sup> L'entretien des cours d'eau et lacs comprend notamment:
+
+- a) les travaux de curage et de nettoyage;
+- b) l'entretien des rives, des berges et des chemins de service;
+- c) les mesures simples de stabilisation du lit et des berges;
+- d) la gestion de la végétation riveraine, y compris une lutte adaptée contre les plantes exotiques invasives (néophytes) et les mesures différenciées pour la promotion de la biodiversité;
+- e) les travaux nécessaires pour assurer, cas échéant, la navigabilité des voies d’eau et lacs, conformément à la législation spéciale ou dans la concession idoine;
+- f) l'entretien des aménagements paysagers et des zones de loisirs et détente réalisés dans le cadre de projets de revitalisation.
 
 #### Art. 19
 
-**Coordination**
+**Travaux d'entretien - Exécution**
 
-Le département coordonne les projets de zones de danger touchant le territoire de plusieurs collectivités publiques.
+<sup>1</sup> Les travaux d'entretien peuvent être réalisés sans mise à l'enquête publique et sans décision d'approbation des plans, sous réserve des autorisations spéciales nécessaires et des directives en vigueur.
 
 #### Art. 20
 
-**Mesures provisionnelles**
+**Principes d’entretien des ouvrages de protection**
 
-<sup>1</sup> Dans les territoires où les plans de zones de danger et les prescriptions y relatives sont en cours d'élaboration, le département, respectivement la commune, se détermine sur la compatibilité de tout projet de construction et de transformation de bâtiments et d'installations, après consultation des organes cantonaux spécialisés.
+<sup>1</sup> Les ouvrages de protection doivent être entretenus afin de maintenir le niveau de protection pour lequel ils ont été dimensionnés.
 
-<sup>2</sup> L'autorité compétente en matière de construction décide de la suspension de la procédure d'autorisation pour tout projet pouvant être exposé à un danger naturel au sens de la législation sur les constructions.
+<sup>2</sup> L'entretien des ouvrages de protection consiste à préserver l’aptitude au service par des mesures simples et régulières.
+
+### 2.1.4 Spécificités des installations hydroélectriques
 
 #### Art. 21
 
-**Exécution par substitution**
+**Mesures préventives et indemnisation**
 
-Lorsque l'autorité communale n'exécute pas ses tâches et qu'un intérêt public le justifie, le département ordonne ou prend les mesures nécessaires aux frais de la défaillante, après sommation.
+<sup>1</sup> Le Conseil d'Etat ordonne, en cas d'urgence, les mesures préventives à prendre par les exploitants d'installations hydroélectriques. Il peut déléguer sa compétence à l'Organe cantonal de conduite (OCC).
 
-### Section 5: Aménagement des cours d'eau
+<sup>2</sup> Les éventuelles prétentions d'indemnisation des exploitants doivent être réglées par voie conventionnelle. Les principes d'indemnisation sont définis dans l'ordonnance.
+
+<sup>3</sup> Le Conseil d’Etat peut déléguer sa compétence au service.
+
+### 2.2 Surveillance, conduite et intervention
 
 #### Art. 22
 
 **Principes**
 
-<sup>1</sup> Lorsqu'un déficit de protection est identifié et que le danger ne peut pas être écarté par des travaux d'entretien ou par des mesures d'aménagement du territoire, des mesures de protection active doivent être prises.
+<sup>1</sup> L'observation des dangers naturels et la conduite de l'intervention d'urgence en cas d'évènement dû aux dangers naturels sont gérées par les entités compétentes (art. 4 et 5) sur la base des plans d'alarme et d'intervention spécifiques (art. 13).
 
-<sup>2</sup> Toute mesure dépassant l'entretien ordinaire nécessite l'établissement d'un projet d'aménagement des cours d'eau.
+<sup>2</sup> L’intervention d’urgence comprend les mesures organisationnelles et les travaux d’urgence entrepris au cours des évènements mettant en danger des personnes ou des biens de valeur notable.
 
 #### Art. 23
 
-<sup>4</sup> Revitalisation des eaux superficielles
+**Organes de conduite et d'intervention**
 
-<sup>1</sup> Les eaux superficielles sont à revitaliser lorsque, cumulativement:<sup>4</sup> a) elles présentent un déficit écologique;<sup>4</sup> b) leur potentiel écologique est important;<sup>4</sup> c) une plus-value socio-économique liée à leur valeur paysagère est apportée;<sup>4</sup> d) la démarche est économiquement supportable.<sup>4</sup>
+<sup>1</sup> Les organes de conduite des communes sont leurs états-majors de conduite communal (EMC) ou régional (EMCR), qui s'appuient sur leur cellule dangers naturels au sens de la législation sur la protection de la population et la gestion des situations particulières et extraordinaires.
 
-<sup>2</sup> Les mesures de revitalisation doivent garantir le respect des objectifs de protection contre les crues. Elles comprennent notamment:<sup>4</sup> a) l’augmentation de l’espace minimal réservé aux eaux afin de garantir la biodiversité;<sup>4</sup> b) la mise à ciel ouvert anticipée de tronçons de cours d’eau;<sup>4</sup> c) l’aménagement naturel du lit et des berges de tronçons supplémentaires;<sup>4</sup> d) la mise en réseau de biotopes aquatiques par la suppression d’obstacles.<sup>4</sup>
+<sup>2</sup> Le canton est doté d'une cellule scientifique cantonale spécialisée dans les dangers naturels (CSDN) rattachée à l’OCC et sur laquelle les autorités compétentes peuvent s'appuyer en cas d'évènement particulier ou extraordinaire ou en cas de doute sur la dangerosité d'un évènement prévisible.
 
-<sup>3</sup> La réalisation des mesures de revitalisation incombe au propriétaire des eaux ou à des tiers, après consultation du propriétaire, et doit être conforme à la planification cantonale.<sup>4</sup>
+<sup>3</sup> Le fonctionnement entre les EMC et les EMCR, leur cellule dangers naturels et la CSDN est réglé dans des conventions entre les communes et le canton.
 
 #### Art. 24
 
-**Mesures d'aménagement des cours d'eau**
+**Réseau d'observateurs et cellule dangers naturels des états-majors communaux ou régionaux**
 
-<sup>1</sup> Les mesures de protection passive comprennent notamment:
+<sup>1</sup> Les communes nomment, en collaboration avec le service, des observateurs de dangers naturels communaux ou régionaux, qui ont pour tâche de suivre l'évolution des dangers naturels sur le terrain, de récolter les données et de fournir les informations et les conseils nécessaires aux personnes amenées à prendre des décisions tant aux niveaux communal ou régional que cantonal.
 
-- l’adaptation des règlements de construction dans les zones de danger et dans l’espace réservé aux eaux dans le cadre de l’adaptation des plans d’affectation de zones,<sup>4</sup>
+<sup>2</sup> Les observateurs de dangers naturels font partie de la cellule dangers naturels d'au moins un EMC ou EMCR. Ils peuvent être appelés à soutenir des états-majors voisins.
 
-- la mise en place de systèmes de prévision et d'alertes,
-
-- les mesures prises en application de la législation sur l'organisation en cas de catastrophes et de situations extraordinaires.
-
-<sup>2</sup> Les mesures de protection active contre les crues comprennent notamment:
-
-- a correction du profil d'écoulement,
-
-- les mesures de retenue d'eau et d'alluvions,
-
-- la gestion de ces derniers,
-
-- la dérivation et/ou le laminage des crues,
-
-- le détournement des eaux,
-
-- la réfection ou le remplacement d’ouvrages de protection existants réalisé si possible en même temps que la revitalisation du cours d’eau, <sup>4</sup>
-
-- les mesures prises contre les mouvements de terrains (stabilisation des pentes par des mesures naturelles et techniques, etc.).
-
-<sup>3</sup> Les mesures de protection passive et active contre les crues peuvent être combinées.
+<sup>3</sup> Le service appuie l'Office cantonal de la protection de la population (OCPP) pour la partie technique de la formation des observateurs de dangers naturels au sens de la législation sur la protection de la population et la gestion des situations particulières et extraordinaires.
 
 #### Art. 25
 
-**Projets d'exécution**
+**Cellule scientifique cantonale pour les dangers naturels (CSDN)**
 
-<sup>1</sup> L’aménagement et la revitalisation des cours d’eau cantonaux et communaux fait l’objet de projets d’exécution ayant force exécutoire.<sup>4</sup>
+<sup>1</sup> La CSDN dépend administrativement du service.
 
-<sup>2</sup> Les projets d'exécution sont établis:
+<sup>2</sup> Elle est constituée du personnel de l'administration cantonale compétent en matière de dangers naturels.
 
-- a) par le département pour les cours d'eau cantonaux et par substitution pour les cours d'eau communaux si une commune omet d'établir un projet d'aménagement des cours d'eau;
+<sup>3</sup> Elle assure en tout temps, dans les limites de ses connaissances et de ses moyens, un suivi des prévisions et des données disponibles en matière de dangers naturels grâce notamment au réseau de surveillance, d'alerte et d'alarme défini à l’article 26 et les met à disposition des autorités compétentes.
 
-- b) par les communes pour les cours d'eau communaux;
+<sup>4</sup> Elle assure le fonctionnement de la permanence cantonale pour les dangers naturels qui permet en tout temps aux entités compétentes (art. 4 et 5) d'obtenir un appui pour l'aide à la décision en cas d'évènement.
 
-- c) par les tiers concernés pour les autres cours d'eau.
+<sup>5</sup> Le département en charge de la sécurité approuve les dispositions organisationnelles et techniques prises par la CSDN pour veiller à être atteignable en tout temps.
+
+<sup>6</sup> En cas de nécessité, la CSDN peut faire appel à des tiers.
 
 #### Art. 26
 
-**Contenu du projet d'exécution**
+**Réseau cantonal de surveillance, d'alerte et d'alarme**
 
-<sup>1</sup> Le projet d'exécution contient notamment:
+<sup>1</sup> Afin de disposer des bases de décision nécessaires à la prévision, à l’alerte et à l'alarme, à l’identification du danger ainsi qu’au suivi d’évènements naturels, le canton met en place, gère et entretient, en collaboration avec les communes et en complément au réseau national de mesures, un réseau cantonal de mesures, de prévision, d’alerte et d'alarme pour les dangers naturels.
 
-- a) un rapport technique, devis inclus;<sup>4</sup>
+### 2.3 Mesures constructives
 
-- b) un dossier de plans, espace réservé aux eaux et expropriations incluses;<sup>4</sup>
-
-- c) un rapport ou une notice d’impact sur l’environnement;<sup>4</sup>
-
-- d) les demandes d’autorisations spéciales;<sup>4</sup>
-
-- e) abrogée;<sup>4</sup>
-
-- f) abrogée;<sup>4</sup>
-
-- g) abrogée.<sup>4</sup>
-
-<sup>2</sup> Les détails sont réglés dans l'ordonnance.
+### 2.3.1 Aménagements des cours d'eau et lacs et des ouvrages de protection
 
 #### Art. 27
 
-**Enquête publique; consultation individuelle**
+**Principes**
 
-<sup>1</sup> Le projet d'exécution et les documents y relatifs sont déposés publiquement pendant 30 jours par les soins du département ou de la commune au bureau communal où tout intéressé peut en prendre connaissance. La publication mentionnant le droit de faire opposition a lieu par insertion dans le Bulletin Officiel et dans la commune de situation selon l'usage local.
-
-<sup>2</sup> L'autorité compétente peut renoncer à cette enquête publique lorsqu'il s'agit d'un projet de peu d'importance ou de modifications mineures et si les propriétaires intéressés ont donné leur accord par écrit, ou si l'occasion leur a été donnée d'en prendre connaissance et d'y faire opposition.
+<sup>1</sup> Au-delà d’un risque pouvant être considéré comme acceptable et s'il ne peut être significativement réduit par des mesures de prévention ou d’intervention, les autorités compétentes doivent mettre à l'étude des mesures d'aménagement, de construction d’ouvrages de protection ou de déplacement de l’objet ou de l’installation menacée.
 
 #### Art. 28
 
-**Effet du dépôt public du projet ou de l'avis personnel**
+**Revitalisation des cours d'eau et lacs**
 
-Dès la mise à l'enquête publique du projet ou dès notification de l'avis personnel prévu à l'article 27 alinéa 2, et jusqu'à l'entrée en vigueur de la décision d'approbation du projet, il ne peut être apporté aucune modification à l'état des immeubles bâtis ou non bâtis nécessaires à la réalisation du projet, sauf autorisation expresse de l'autorité compétente.
+<sup>1</sup> Les cours d'eau et les lacs doivent être revitalisés lorsque les conditions cumulatives suivantes sont remplies:
+
+- a) ils présentent un déficit écologique;
+- b) leur potentiel écologique et leur valeur pour la nature et le paysage sont importants;
+- c) la démarche est économiquement supportable.
+
+<sup>2</sup> Les projets de revitalisation doivent prendre en considération l'ensemble des intérêts prépondérants dans le périmètre concerné. En particulier, les intérêts environnementaux, la protection contre les crues, l'impact à large échelle sur l'environnement naturel et bâti ainsi que l'utilisation du territoire et des ressources sont intégrés dans l'élaboration et l'optimisation des mesures.
+
+<sup>3</sup> La réalisation des mesures de revitalisation incombe au propriétaire des eaux ou à des tiers, après consultation du propriétaire.
 
 #### Art. 29
 
-**Opposition; réserve de droit**
+**Mise en œuvre des mesures et délégation de compétence**
 
-<sup>1</sup> Les motifs de l'opposition contre le projet d'exécution ne peuvent porter que sur la violation de dispositions de droit public.
+<sup>1</sup> Le canton, les communes ou les tiers concernés planifient et mettent en œuvre, en collaboration avec le service concerné, les mesures de protection qui s'imposent pour réduire le risque pour les personnes et les biens d'une valeur notable.
 
-<sup>2</sup> La réserve de droit formulée dans le délai d'opposition a pour but d'orienter le requérant et l'autorité sur l'existence de droits privés touchés par le projet d'exécution et sur les éventuelles demandes d'indemnité.
+<sup>2</sup> En cas de nécessité et pour de justes motifs, ils peuvent déléguer cette compétence.
+
+### 2.3.2 Mesures urgentes et remise en état
 
 #### Art. 30
 
-**Délai et forme**
+**Mesures urgentes et remise en état**
+
+<sup>1</sup> Les mesures urgentes et de remise en état propres à écarter un risque de dommage important et imminent ou à rétablir la sécurité par suite d'un évènement qui s'est déjà produit ne nécessitent pas l'établissement d'un projet de mise à l’enquête publique. Les autorisations spéciales nécessaires aux mesures urgentes ou à la remise en état peuvent être demandées a posteriori.
+
+<sup>2</sup> L'autorité compétente ordonne les mesures urgentes et de remise en état et consulte dans la mesure du possible les organes cantonaux concernés.
+
+<sup>3</sup> La remise en état d’un ouvrage consiste à rétablir la sécurité et l’aptitude au service de ce dernier.
+
+<sup>4</sup> La remise en état d’un cours d’eau consiste à rétablir un écoulement dynamique et naturel en tenant compte des exigences de sécurité et d’environnement.
+
+<sup>5</sup> Les mesures urgentes et de remise en état prises dont les effets dépassent le rétablissement de l'état antérieur sont soumises à l'approbation du Conseil d'Etat.
+
+## 3 Procédure
+
+## 3.1 Dispositions générales
+
+#### Art. 31
+
+**Compétences, consultation préalable et mise à l'enquête publique**
+
+<sup>1</sup> Le Conseil d'Etat est l'autorité compétente pour approuver les plans de zones de danger, les projets d'aménagement des cours d'eau et lacs, leurs espaces réservés ainsi que des ouvrages de protection. Demeure réservée l'approbation des plans et projets régis par des législations spéciales.
+
+<sup>2</sup> Le service juridique du département (ci-après: organe d'instruction) assure la coordination de la procédure de consultation ainsi que la direction de la procédure d'approbation.
+
+<sup>3</sup> Les mesures constructives sortant du cadre de l’entretien, des mesures urgentes et de remise en état font l’objet d’une mise à l’enquête publique.
+
+<sup>4</sup> Les services et offices concernés sont consultés par l'organe d'instruction avant la mise à l’enquête publique et le projet est adapté en fonction des conditions et des demandes de compléments des services et offices pour autant que ces dernières ne contreviennent pas aux objectifs du projet.
+
+<sup>5</sup> La mise à l’enquête publique des projets d’aménagement de cours d’eau et de lacs et d’ouvrages de protection doit intervenir au plus tard une année après la fin de la consultation. Ce délai peut être prolongé pour de justes motifs.
+
+<sup>6</sup> L'organe d'instruction détermine la nécessité de procéder à une nouvelle consultation des services et offices concernés après la mise à l'enquête publique du dossier. Sont notamment pris en considération l'ampleur et la complexité du dossier.
+
+<sup>7</sup> En cas d'abandon d'un projet mis à l'enquête publique, l'information doit être faite par publication au Bulletin officiel.
+
+#### Art. 32
+
+**Contenu du projet de mise à l'enquête publique**
+
+<sup>1</sup> Le projet de mise à l’enquête publique est établi selon les dispositions d'exécution en vigueur.
+
+<sup>2</sup> Le contenu minimum des dossiers mis à l’enquête publique est défini dans l’ordonnance.
+
+#### Art. 33
+
+**Enquête publique – Consultation individuelle**
+
+<sup>1</sup> Le projet de mise à l’enquête publique et les documents y relatifs sont déposés publiquement pendant 30 jours par les soins du département ou de la commune au bureau communal où tout intéressé peut en prendre connaissance. La publication mentionnant le droit de faire opposition a lieu par insertion dans le Bulletin officiel et dans la commune de situation selon l'usage local.
+
+<sup>2</sup> L'autorité compétente peut renoncer à cette enquête publique lorsqu'il s'agit d'un projet de peu d'importance ou de modifications mineures et si les propriétaires intéressés ont donné leur accord par écrit, ou si l'occasion leur a été donnée d'en prendre connaissance et d'y faire opposition.
+
+#### Art. 34
+
+**Opposition a) Réserve de droit**
+
+<sup>1</sup> Les motifs de l'opposition contre le projet ne peuvent porter que sur la violation de dispositions de droit public.
+
+<sup>2</sup> La réserve de droit formulée dans le délai d'opposition a pour but d'orienter le requérant et l'autorité sur l'existence de droits privés touchés par le projet et sur les éventuelles demandes d'indemnité.
+
+#### Art. 35
+
+**b) Délai et forme**
 
 <sup>1</sup> Le délai d'opposition est de 30 jours.
 
@@ -476,446 +507,351 @@ Dès la mise à l'enquête publique du projet ou dès notification de l'avis per
 
 <sup>3</sup> Un représentant est désigné pour les oppositions collectives; à défaut, le premier des signataires est considéré comme représentant.
 
-#### Art. 31
+#### Art. 36
 
 **Transmission du dossier**
 
-<sup>1</sup> Le conseil municipal transmet au Conseil d'Etat, en principe dans les 30 jours suivant l'expiration du délai d'enquête publique, le dossier accompagné de la confirmation du dépôt public, des oppositions éventuelles et de son préavis.
+<sup>1</sup> Le conseil municipal transmet au Conseil d'Etat, en principe dans les 30 jours suivant l'expiration du délai d'enquête publique, le dossier accompagné de la confirmation du dépôt public, des oppositions éventuelles et de sa prise de position tant sur le projet que sur les oppositions formulées.
 
 <sup>2</sup> S'il s'agit d'un projet communal, le conseil municipal peut tenter une conciliation avec les opposants avant la transmission du dossier.
 
-#### Art. 32
+#### Art. 37
 
 **Séance de conciliation**
 
-<sup>1</sup> En cas d'opposition, l'organe d'instruction peut inviter les parties à une séance de conciliation. Il peut également le faire en cas d'allégation d'une réserve de droit.
+<sup>1</sup> En cas d'opposition, l'organe d'instruction peut inviter les parties à une séance de conciliation.
 
 <sup>2</sup> Le résultat des pourparlers et l'indication des oppositions non liquidées sont consignés dans un procès-verbal.
 
-#### Art. 33
-
-**Exécution anticipée**
-
-<sup>1</sup> Dès l'expiration de l'enquête publique, le Conseil d'Etat peut autoriser l'exécution anticipée de mesures projetées a) dans la mesure où il n'y a pas d'opposition et b) si le projet d'exécution est susceptible d'être approuvé.
-
-<sup>2</sup> L'autorisation de procéder à l'exécution anticipée est accordée aux risques et périls du requérant et n'équivaut pas à une promesse de subventionnement.
-
-#### Art. 34
+#### Art. 38
 
 **Coordination**
 
-<sup>1</sup> Lorsque le projet d'exécution nécessite des décisions émanant de plusieurs autorités en relation étroite avec la décision d'approbation, celles-ci doivent être coordonnées par l'autorité compétente matériellement et formellement dans la procédure d'approbation.
+<sup>1</sup> Lorsqu'un projet nécessite plusieurs autorisations relevant d’autorités distinctes, les décisions spéciales sont intégrées dans une décision globale rendue par l’autorité cantonale de la procédure décisive, contre laquelle une seule voie de recours est ouverte.
 
-<sup>2</sup> A cette fin et lorsque les différentes décisions relèvent du niveau cantonal, le Conseil d’Etat dirige la procédure d’instruction, recueille les prises de position des autorités ou des organes concernés et procède à la pesée des intérêts en présence. En cas de contradiction et à défaut de conciliation, il tranche.<sup>4</sup>
-
-<sup>3</sup> Il intègre dans sa décision globale toutes les autorisations de compétence cantonale relative à l’objet de manière à n’ouvrir qu’une seule voie de droit à l’encontre de sa décision. Si cette attraction de compétences ne peut se faire, il veille à ce que les décisions séparées ne soient pas contradictoires et qu’elles soient notifiées simultanément.<sup>4</sup>
-
-#### Art. 35
-
-**Décision sur le projet d'exécution**
-
-<sup>1</sup> Le Conseil d'Etat procède à la pesée des intérêts en présence avant d'adopter ou de refuser le projet d'exécution en tenant compte en particulier du plan sectoriel et des plans d'aménagement des cours d'eau. Il statue sur les oppositions non liquidées en tant qu'elles n'ont pas un caractère de droit privé.
-
-<sup>2</sup> L’approbation du projet d’exécution comprend la déclaration d’utilité publique et confère le droit d’exproprier tous les droits réels immobiliers et les droits résultant des dispositions sur la propriété foncière en matière de rapport de voisinage, de même que les droits personnels des locataires ou des fermiers des immeubles à exproprier. Pour le surplus, la loi cantonale sur les expropriations ainsi que les dispositions sur l’abornement selon les articles 65 ss de la loi cantonale sur les routes sont applicables.<sup>4</sup>
-
-#### Art. 35bis
-
-<sup>2,3,4</sup>
-
-<sup>1</sup> Abrogé
-
-#### Art. 36
-
-**Force exécutoire du projet d'exécution**
-
-<sup>1</sup> Le département rend notoire par publication dans le Bulletin Officiel que la décision d'approbation du projet d'exécution a force exécutoire. Cet avis fait mention de la date d'entrée en force du projet d'exécution.
-
-<sup>2</sup> Le projet d'exécution en force est déposé également dans la ou les communes de situation où chaque intéressé peut en prendre connaissance.
-
-#### Art. 37
-
-**Abandon, modification du projet en force**
-
-Les dispositions de procédure précitées sont applicables par analogie à la modification importante du projet d'exécution et à l'abandon du projet d'exécution en force.
-
-#### Art. 38
-
-**Conséquences de l'entrée en vigueur du projet d'exécution**
-
-<sup>1</sup> Dès que le projet d'exécution a force exécutoire, rien ne peut être entrepris qui puisse entraver sa réalisation. Sont en particulier interdites les constructions sur les surfaces nécessaires aux travaux d'aménagement des cours d'eau dans les zones d'interdiction de bâtir fixées par les alignements légaux ou dans des plans d'affectation spéciaux.
-
-<sup>2</sup> Si la réalisation du projet d'exécution est imminente, l'autorité compétente peut également interdire tous travaux d'entretien ayant pour effet d'augmenter la valeur de l'immeuble ou de justifier une indemnité.
-
-### Section 6: Entretien des cours d'eau
+<sup>2</sup> Les décisions sont notifiées séparément, mais de manière simultanée, lorsqu'une attraction de compétences n’est pas réalisable, notamment quand la décision de la procédure décisive est communale.
 
 #### Art. 39
 
-**Principes**
+**Décision sur le projet**
 
-<sup>1</sup> Les cours d'eau et les ouvrages de protection contre les crues doivent être entretenus afin d'assurer le niveau de protection requis.
+<sup>1</sup> Sur proposition de l'organe d'instruction, le Conseil d'Etat approuve ou refuse le projet. La décision comprend notamment la pesée des intérêts et le traitement des oppositions n'ayant pas un caractère de droit privé.
 
-<sup>2</sup> Servent à l'entretien des cours d'eau, toutes les mesures propres à maintenir la fonction des ouvrages de protection contre les crues et à assurer un écoulement dynamique et naturel, en tenant compte des exigences de sécurité et d'environnement.
-
-<sup>3</sup> L'entretien des cours d'eau comprend notamment:
-
-- a) les travaux de curage et de nettoyage;
-
-- b) l'entretien des rives, des berges et des chemins de service;
-
-- c) les travaux de réfection de peu d'importance sur les ouvrages hydrauliques;
-
-- d) les mesures simples de stabilisation du lit et des berges;
-
-- e) la gestion de la végétation naturelle riveraine.
-
-<sup>4</sup> La charge des travaux nécessaires pour assurer la navigabilité sur les eaux concédées pour la navigation, comme l'enlèvement de matériaux flottants, est fixée selon la législation spéciale ou dans la concession.
+<sup>2</sup> L’approbation du projet d'aménagement de cours d'eau, de lac ou d'ouvrage de protection comprend, en outre, la déclaration d’utilité publique et confère le droit d’exproprier tous les droits réels immobiliers et les droits résultant des dispositions sur la propriété foncière en matière de rapport de voisinage, de même que les droits personnels des locataires ou des fermiers des immeubles à exproprier. Pour le surplus, la loi cantonale sur les expropriations ainsi que les articles 64 ss de la loi cantonale sur les routes sont applicables.
 
 #### Art. 40
 
-**Travaux d'entretien; exécution**
+**Force exécutoire du projet**
 
-<sup>1</sup> Les travaux d'entretien peuvent être réalisés sans projet d'exécution sous réserve des autorisations spéciales nécessaires et des directives en vigueur.
+<sup>1</sup> Le département rend notoire par publication dans le Bulletin officiel que la décision d'approbation du projet mis à l'enquête publique a force exécutoire.
 
-<sup>2</sup> Si une contribution de l'Etat est attendue, les travaux d'entretien doivent être annoncés préalablement par écrit au département.
+<sup>2</sup> Le projet approuvé et en force est déposé également dans la ou les communes de situation où chaque intéressé peut en prendre connaissance.
 
-<sup>3</sup> Dans les 30 jours à compter de l'annonce des travaux d'entretien, le département autorise leur exécution:
-
-- a) s'ils correspondent aux travaux d'entretien ordinaire des cours d'eau et aux directives en vigueur;
-
-- b) s'ils sont conformes au plan d'aménagement des cours d'eau;
-
-- c) s'ils respectent l'ordre de priorité établi par le canton d'entente avec les communes.
-
-### Section 7: Cas particuliers
+### 3.2 Spécificités des projets d'aménagement des cours d'eau et lacs ainsi que des ouvrages de protection
 
 #### Art. 41
 
-<sup>1</sup> Mesures provisoires et cas de faible importance
+**Effet du dépôt public du projet ou de la consultation individuelle**
 
-<sup>1</sup> Lorsque des déficits de sécurité sont constatés et que les conditions pour des mesures urgentes ne sont pas remplies, une procédure simplifiée peut être appliquée pour des mesures provisoires.
-
-<sup>2</sup> La priorité sera donnée aux mesures permettant de réduire le plus rapidement possible les dommages potentiels ou les risques existants. Par contre, les mesures dont l'influence sur la sécurité est secondaire sont soumises à la procédure ordinaire.
-
-<sup>3</sup> Les mesures décidées en procédure simplifiée ne doivent pas porter préjudice aux solutions définitives.
-
-<sup>4</sup> Les détails sont réglés dans l'ordonnance.
-
-<sup>5</sup> Le délai de l'enquête publique est de 20 jours.
-
-<sup>6</sup> Après l'adoption des mesures provisoires par le Conseil d'Etat, le requérant engage la procédure ordinaire des articles 25ss.
-
-<sup>7</sup> La procédure simplifiée peut également être appliquée pour les cas de faible importance.
+<sup>1</sup> Dès la mise à l'enquête publique du projet ou de la consultation individuelle prévue à l'article 33 et jusqu'à l'entrée en vigueur de la décision d'approbation du projet, il ne peut être apporté aucune modification à l'état des immeubles bâtis ou non bâtis nécessaires à la réalisation du projet, sauf autorisation expresse de l'autorité compétente.
 
 #### Art. 42
 
-**Mesures urgentes**
+**Exécution anticipée partielle**
 
-<sup>1</sup> Les mesures urgentes propres à écarter un risque de dommage important et imminent ou à rétablir la sécurité par suite d'un événement qui s'est déjà produit ne nécessitent pas l'établissement d'un projet d'aménagement des cours d'eau.
+<sup>1</sup> Dès l'expiration de l'enquête publique, le Conseil d'Etat peut autoriser l'exécution anticipée partielle de mesures projetées pour autant qu'il n'a pas d'opposition sur le tronçon, la mesure ou le secteur concerné.
 
-<sup>2</sup> L'autorité compétente ordonne les mesures urgentes et consulte dans la mesure du possible les organes cantonaux concernés.
-
-<sup>3</sup> Les mesures urgentes prises dont les effets dépassent le rétablissement de l'état antérieur sont soumises à l'approbation du Conseil d'Etat.
+<sup>2</sup> L'autorisation de procéder à l'exécution anticipée est accordée aux risques et périls du requérant et n'équivaut pas à une promesse de subventionnement.
 
 #### Art. 43
 
-**Contributions fédérales et réalisation**
+**Durée de validité de la décision**
 
-<sup>1</sup> Le canton entreprend les démarches nécessaires à l'obtention des contributions fédérales aux aménagements de cours d'eau, octroyées sous forme de décisions ou dans le cadre de conventions-programmes.
+<sup>1</sup> La décision d’approbation devient caduque si l'exécution du projet n'a pas commencé dans les 3 ans dès son entrée en force.
 
-<sup>2</sup> La réalisation des mesures convenues avec la Confédération fait l'objet d'un programme de mise en oeuvre.
+<sup>2</sup> Le délai ne commence pas à courir ou est suspendu lorsque la décision d’approbation ne peut être mise en œuvre pour des motifs techniques et que le maître d’ouvrage entreprend avec diligence les démarches nécessaires à la poursuite du projet.
 
-<sup>3</sup> Les modalités sont fixées dans l'ordonnance.
-
-### Section 8: Financement
+<sup>3</sup> L'autorité de la procédure décisive peut, sur demande et pour de justes motifs, prolonger de 3 ans au plus la durée de validité d’une décision d’approbation d’un projet. La prolongation est exclue lorsque la situation de fait ou de droit déterminante au moment de l'octroi de la décision d’approbation du projet a changé.
 
 #### Art. 44
 
-<sup>4</sup> Aménagement et revitalisation
+**Abandon ou modification du projet en force**
 
-<sup>1</sup> Pour les cours d'eau communaux, après déduction d'éventuelles contributions de tiers:
+<sup>1</sup> Les dispositions de procédure précitées sont applicables par analogie à la modification importante du projet approuvé et à l’abandon du projet approuvé et en force.
 
-- a) le canton participe à l'aménagement des cours d'eau par une subvention comprise entre 65 pour cent et 85 pour cent des coûts reconnus. La subvention cantonale comprend les contributions reçues de la Confédération;
-
-abis) le canton participe à la revitalisation des cours d’eau par une subvention allant jusqu’à 90 pour cent des coûts reconnus. La subvention cantonale comprend les contributions reçues de la Confédération;<sup>4</sup> b) la subvention cantonale dépend de la nature des mesures d’aménagement et/ou de revitalisation, de leur intérêt pour la nature et la société. Les conditions d’octroi des subventions, les critères visant à établir la priorité des projets et leur taux de subventionnement sont précisés dans l’ordonnance;<sup>4</sup> c) le canton peut octroyer aux communes une subvention complémentaire extraordinaire de 10 pour cent au maximum pour des travaux qu'elles ne pourraient exécuter sans compromettre leur situation financière;
-
-- d) la subvention cantonale peut être octroyée sous forme forfaitaire.
-
-<sup>2</sup> Pour les cours d'eau cantonaux, après déduction des participations de la Confédération et d'éventuelles contributions de tiers:
-
-- a) les communes participent à l'aménagement des cours d'eau par une contribution de 20 pour cent des coûts restants reconnus, mais au maximum de 5 pour cent des coûts totaux reconnus;
-
-- b) le canton peut prendre à sa charge tout ou partie de la participation des communes si celle-ci compromet leur situation financière.
-
-<sup>3</sup> La répartition des participations communales et des contributions de tiers s'effectue notamment sur la base des principes de bénéfice et de causalité. Les modalités sont fixées dans l'ordonnance.
-
-<sup>4</sup> Les frais d'aménagement des cours d'eau privés sont à la charge des propriétaires, sous réserve d'autres dispositions.
+<sup>2</sup> En cas de modifications importantes du projet ou des conditions naturelles après approbation, les services concernés doivent être à nouveau consultés, cas échéant une nouvelle mise à l’enquête publique est nécessaire.
 
 #### Art. 45
 
-**Participation**
+**Conséquences de l'entrée en force du projet**
 
-Lorsque des travaux d'aménagement de cours d'eau communaux sont réalisés à proximité d'une route cantonale ou que cette dernière franchit le cours d'eau, le canton participe au coût des travaux dans la mesure de l'intérêt qu'il en retire.
+<sup>1</sup> Dès que le projet a force exécutoire, rien ne peut être entrepris qui puisse entraver sa réalisation. Sont en particulier interdites les constructions sur les surfaces nécessaires aux travaux d'aménagement des cours d'eau et lacs dans les zones d'interdiction de bâtir fixées par des plans d'affectation spéciaux.
+
+<sup>2</sup> Si la réalisation du projet est imminente, l'autorité compétente peut également interdire tous travaux d'entretien ayant pour effet d'augmenter la valeur de l'immeuble ou de justifier une indemnité.
+
+## 4 Financement
+
+### 4.1 Organisation du financement
 
 #### Art. 46
 
-**Entretien**
+**Organisation du financement**
 
-<sup>1</sup> Après déduction d'éventuelles participations de tiers:
+<sup>1</sup> La répartition des coûts entre les intéressés au projet s’effectue principalement sur la base des principes de bénéfice et causalité. Les principes de répartition et les modes de calcul sont définis dans une directive du département. L’autorité compétente détermine par voie de décision et par projet les bénéficiaires appelés à participer à l’ouvrage ainsi que leur part de financement.
 
-- a) le canton participe à l'entretien des cours d'eau communaux par une subvention de 30 pour cent à 50 pour cent en tenant compte de l'intérêt des collectivités publiques concernées; les modalités concernant le calcul du subventionnement sont fixées dans l'ordonnance;
+<sup>2</sup> Le financement distingue les coûts reconnus au subventionnement de ceux qui ne le sont pas (coûts non reconnus). Les critères déterminant les coûts reconnus sont définis dans une directive du département.
 
-- b) les communes participent à l'entretien des cours d'eau cantonaux sis sur leur territoire par une contribution de 30 pour cent.
+<sup>3</sup> Si des bénéficiaires au projet n’ont pas droit à des subventions, leur part est déduite du montant des coûts reconnus avant le calcul de la subvention.
 
-<sup>2</sup> La subvention cantonale peut être octroyée sous forme forfaitaire.
+<sup>4</sup> Si la réalisation d’une construction autorisée, selon les articles 11 et 12, augmente les coûts futurs à charge du propriétaire du cours d’eau, du lac ou de l'ouvrage de protection, le bénéficiaire ou celui qui en est la cause supporte les frais supplémentaires.
 
-<sup>3</sup> Les frais d'entretien des cours d'eau privés sont à la charge des propriétaires, sous réserve d'autres dispositions.
+<sup>5</sup> Le projet doit contenir les principes de son organisation du financement entre les bénéficiaires avant la mise à l’enquête publique.
+
+<sup>6</sup> Les donations ne sont pas déduites des coûts reconnus lors du calcul de la subvention pour autant qu’elles n’excèdent pas la part restante à charge du bénéficiaire.
+
+<sup>7</sup> Le financement de la réalisation de la 3<sup>e</sup> correction du Rhône est réglé par la loi sur le financement de la 3<sup>e</sup> correction du Rhône (LFinR3).
+
+### 4.2 Subventionnement
 
 #### Art. 47
 
-**Etudes et travaux d'intérêt général**
+**Principes de subventionnement**
 
-<sup>1</sup> Les études à caractère général, notamment le plan sectoriel, les systèmes de mesures hydrométéorologiques, les systèmes de prévision et d'alarme, les recherches à caractère fondamental ou appliqué, sont à la charge du canton.
+<sup>1</sup> Les bénéficiaires du subventionnement sont définis dans l’ordonnance en fonction du type d'objet à protéger.
 
-<sup>2</sup> Après déduction d'éventuelles participations de tiers, les communes qui en retirent un intérêt particulier peuvent être appelées à participer aux frais jusqu'à concurrence de 20 pour cent.
+<sup>2</sup> Les subventions du canton incluent les éventuelles participations financières de la Confédération.
 
-<sup>3</sup> Les mesures passives au sens de l'article 24 sont financées selon la législation spécifique.
+<sup>3</sup> Seules les mesures considérées comme proportionnées selon les directives en vigueur sont subventionnées.
+
+<sup>4</sup> Les subventions peuvent être allouées sous forme de forfait ou en pour cent des coûts reconnus.
+
+<sup>5</sup> Si une contribution du canton supérieure à 10'000 francs est attendue, les études et les travaux doivent être annoncés préalablement par écrit au service.
 
 #### Art. 48
 
-**Contribution de tiers**
+**Subventionnement des mesures préventives**
 
-<sup>1</sup> Le canton, les communes et les corporations de droit public peuvent percevoir des contributions des propriétaires fonciers et des bénéficiaires concernés pour l'aménagement, l'entretien, ainsi que les études et travaux d'intérêt général.
+<sup>1</sup> Le canton soutient, par l'octroi de subventions d’un taux de 90 pour cent des coûts reconnus, l’établissement et l’actualisation des documents de base, des cartes de dangers naturels et des plans d'alarme et d'intervention.
 
-<sup>2</sup> La loi concernant la perception des contributions des propriétaires fonciers aux frais d'équipement et aux frais d'autres ouvrages publics est applicable par analogie.
+<sup>2</sup> Le canton soutient, par l'octroi de subventions d’un taux de 70 pour cent des coûts reconnus, les frais de formation et de fonctionnement des observateurs de dangers naturels communaux ou régionaux.
 
-<sup>3</sup> Les contributions perçues par le canton sont déposées dans le fonds pour le financement du projet de la 3<sup>e</sup> correction du Rhône.<sup>5</sup>
+<sup>3</sup> Le canton soutient, par l'octroi de subventions d’un taux de 70 pour cent des coûts reconnus, la mise en place et l’exploitation des systèmes de surveillance, d’alerte et d’alarme destinés à protéger la population et les biens de valeur notable contre les dangers naturels et respectant les principes de la gestion intégrée des risques.
+
+<sup>4</sup> Le canton soutient, par l'octroi de subventions d’un taux de 70 pour cent des coûts reconnus, l’inspection et l'entretien des cours d'eau et lacs communaux et des ouvrages de protection. Les cas ne pouvant être considérés comme des mesures simples et régulières et les cas ayant un gain sécuritaire important peuvent être traités financièrement comme des projets et, à ce titre, bénéficier d'un subventionnement cantonal tel que décrit à l'article 49.
+
+<sup>5</sup> Le financement de l’entretien d’ouvrages de tiers selon les articles 4 et 5 incombe à leur propriétaire. Au cas où la construction de ces ouvrages de protection a été subventionnée, leur entretien peut l'être également.
+
+<sup>6</sup> Les frais d'entretien des cours d'eau et lacs privés sont à la charge des propriétaires, sous réserve d'autres dispositions.
 
 #### Art. 49
 
-**Indemnité pour mesures d'aménagement des cours d'eau**
+**Subventionnement des aménagements des cours d’eau et lacs et ouvrages de protection, des mesures urgentes et des remises en état**
 
-<sup>1</sup> Une pleine indemnité est accordée lorsque des mesures d'aménagement des cours d'eau apportent au droit de propriété des restrictions équivalant à une expropriation.
+<sup>1</sup> Le canton soutient, par l'octroi de subventions allant jusqu'à 90 pour cent des coûts reconnus et 50 pour cent au minimum, les mesures constructives destinées à protéger la population et les biens de valeur notable contre les dangers naturels ainsi que les mesures de revitalisation, en respectant les principes de la gestion intégrée des risques.
 
-<sup>2</sup> Une indemnité est accordée pour des dégâts supplémentaires provoqués par des mesures d'aménagement.
+<sup>2</sup> La subvention cantonale est fixée en tenant compte des règles de subventions fédérales, de la gestion intégrée des risques, de la valeur des objets à protéger, ainsi que de la nature des mesures constructives, de leur intérêt pour la nature et la société. Les conditions d'octroi des subventions, les critères visant à établir la priorité des projets et leur taux de subventionnement sont précisés dans une directive du département.
 
-<sup>3</sup> L'indemnité est à la charge des collectivités auxquelles incombent l'aménagement et l'entretien des cours d'eau.
+<sup>3</sup> Le canton peut octroyer aux communes une subvention complémentaire extraordinaire de 10 pour cent au maximum pour des travaux qu'elles ne pourraient exécuter sans compromettre leur situation financière. Le taux total de la subvention ne doit pas dépasser 95 pour cent.
 
-### Section 9: Surveillance et police des eaux
+<sup>4</sup> Le canton peut refuser de participer aux mesures de protection ou réduire les subventions lorsqu’il n’a pas été suffisamment tenu compte, dans l’utilisation du sol, des dangers potentiels, notamment par la non-observation des cartes de danger ou des mises en garde des autorités.
+
+<sup>5</sup> En cas de mesure urgente ou de remise en état, le subventionnement peut être obtenu si ces travaux ont été au préalable autorisés par le service.
+
+### 4.3 Autres financements
 
 #### Art. 50
 
-**Compétence, haute surveillance et surveillance**
+**Aménagement du Léman et entretien du Rhône et du Léman**
 
-<sup>1</sup> Le Conseil d'Etat exerce la haute surveillance sur l'ensemble des cours d'eau ainsi que sur la police des eaux.
+<sup>1</sup> Pour les parties du Léman sises sur leur territoire, après déduction des participations de la Confédération et d'éventuelles contributions de bénéficiaires:
 
-<sup>2</sup> Le département exerce au nom du Conseil d'Etat la surveillance sur l'aménagement et l'entretien des cours d'eau et sur la police des eaux, ainsi que la police des eaux sur le Rhône et le lac Léman.
+- a) les communes participent aux travaux d’aménagement par une contribution de 20 pour cent des coûts restants reconnus, mais au maximum de 5 pour cent des coûts totaux reconnus;
+- b) le canton peut prendre à sa charge tout ou partie de la participation des communes si celle-ci compromet leur situation financière.
 
-<sup>3</sup> La police des eaux sur les autres cours d'eau incombe aux communes.
+<sup>2</sup> La répartition des participations communales et des contributions des bénéficiaires s'effectue notamment sur la base des principes de bénéfice et de causalité. Les modalités sont fixées dans une directive du département.
 
-<sup>4</sup> Le département donne des conseils sur l'aménagement et l'entretien, sert d'intermédiaire entre les communes et assure la coordination lors de travaux urgents.
+<sup>3</sup> Les communes participent financièrement à l'entretien des parties du Rhône et du Léman sises sur leur territoire par une contribution de 30 pour cent, indépendamment de la décision de délégation aux communes des tâches d'entretien de la part du canton. Les cas ne pouvant être considérés comme des mesures simples et régulières et les cas ayant un gain sécuritaire important peuvent être traités financièrement selon la LFinR3.
 
 #### Art. 51
 
-**Contrôle des cours d'eau**
+**Etudes et travaux d'intérêt général**
 
-<sup>1</sup> L'autorité compétente au sens de l'article 6 contrôle l'état des cours d'eau, les travaux d'aménagement et d'entretien ainsi que le respect des dispositions légales en matière de police des eaux.
+<sup>1</sup> Les projets de recherche à caractère fondamental ou appliqué et entrant dans le champ d’application selon l’article 2 peuvent être entièrement à la charge du canton.
 
-<sup>2</sup> Le département, d'entente avec les communes concernées, inspecte périodiquement les cours d'eau.
-
-<sup>3</sup> Les communes riveraines annoncent au département les sources de danger relatives aux cours d'eau.
+<sup>2</sup> Le développement et la maintenance du réseau cantonal de surveillance, d’alerte et d’alarme est à la charge du canton. Une contribution aux frais peut être convenue avec les tiers intéressés.
 
 #### Art. 52
 
-**Exécution par substitution**
+**Contributions de propriétaires fonciers**
 
-<sup>1</sup> Si les autorités compétentes ne remplissent pas leurs obligations en matière de cours d'eau, le Conseil d'Etat ordonne toutes les mesures nécessaires et leur fixe un délai convenable pour exécuter leurs tâches après les avoir entendues.
+<sup>1</sup> Le canton et les communes peuvent percevoir des contributions des propriétaires fonciers concernés.
 
-<sup>2</sup> En cas d'inexécution dans le délai imparti, le Conseil d'Etat a notamment les compétences suivantes:
-
-- a) il édicte au besoin un projet d'aménagement des cours d'eau conformément aux prescriptions de la présente loi;
-
-- b) il fixe à l'autorité défaillante un nouveau délai pour l'exécution des travaux et la menace d'exécution par substitution en cas d'inexécution;
-
-- c) il fait exécuter les travaux aux frais de l'autorité défaillante en cas d'inexécution de la décision dans le délai imparti. Les dispositions relatives à la répartition des frais sont applicables par analogie. L'autorité défaillante supporte les frais supplémentaires causés par la négligence dans l'obligation d'aménager les cours d'eau et par l'intervention relevant de l'obligation de surveillance.
-
-<sup>3</sup> En cas d'urgence, les mesures ordonnées sont immédiatement exécutoires.
+<sup>2</sup> La loi concernant la perception des contributions des propriétaires fonciers aux frais d'équipement et aux frais d'autres ouvrages publics est applicable.
 
 #### Art. 53
 
-**Mesures particulières de la police des eaux**
+**Indemnité pour mesures de protection**
 
-Il incombe en particulier aux autorités compétentes:
+<sup>1</sup> Une pleine indemnité est accordée lorsque des mesures de protection apportent au droit de propriété des restrictions équivalant à une expropriation.
 
-- a) de faire rétablir l'état conforme au droit lorsque des travaux de construction ont été réalisés illicitement, ou que des dispositions en matière d'aménagement et d'entretien des cours d'eau ou des conditions et charges n'ont pas été respectées;
+<sup>2</sup> En cas d’évènement, une indemnité est accordée pour des dégâts supplémentaires provoqués par des mesures de gestion du risque.
 
-- b) de veiller à la suppression des troubles causés à l'ordre public et provenant des cours d'eau mal entretenus;
+<sup>3</sup> L'indemnité est à la charge des collectivités auxquelles incombent l'aménagement et l'entretien des mesures de protection.
 
-- c) de dresser procès-verbal des infractions aux dispositions de la présente loi.
+## 5 Tâches du canton
 
 #### Art. 54
 
-**Procédure de remise en état des lieux**
+**Tâches**
 
-<sup>1</sup> L'autorité de police des eaux ordonne l'arrêt des travaux et fixe un délai convenable pour la remise en état des lieux sous la menace d'une exécution par substitution lorsqu'il est procédé à des interventions illicites. L'ordre d'arrêt des travaux est immédiatement exécutoire.
+<sup>1</sup> Le département compétent pour le domaine de danger naturel concerné est chargé du conseil aux communes et aux tiers concernés pour la gestion intégrée des risques en matière de dangers naturels. Il assure la coordination avec les services concernés et organes spécialisés. Il veille en particulier au respect des bases légales et des normes en la matière.
 
-<sup>2</sup> La décision de remise en état des lieux doit contenir les éléments suivants:
-
-- a) la détermination exacte de la mesure à prendre par l'obligé pour rétablir une situation conforme au droit;
-
-- b) l'indication du délai d'exécution de la mesure ordonnée;
-
-- c) la menace de l'exécution par substitution en cas de non-respect du délai fixé;
-
-- d) le cas échéant, l'indication de la possibilité de présenter un nouveau projet.
-
-<sup>3</sup> La procédure suivante est applicable:
-
-- a) la décision de rétablissement de l'état antérieur est suspendue lorsqu'un projet d'exécution est déposé dans les 30 jours dès sa notification. L'autorité peut prolonger ce délai pour de justes motifs. Une telle procédure de régularisation est exclue lorsque le projet a déjà fait l'objet d'une décision entrée en force;
-
-- b) si le projet d'exécution est partiellement ou totalement approuvé, l'autorité de police des eaux adapte, si nécessaire, la décision de rétablissement de l'état antérieur et fixe, le cas échéant, un nouveau délai;
-
-- c) en cas de refus de l'approbation ou lorsque la demande de régularisation est retirée, l'autorité de police des eaux fixe un nouveau délai convenable pour le rétablissement de l'état antérieur.
-
-<sup>4</sup> L'autorité de police des eaux exécute ou fait exécuter par un tiers, aux frais du responsable des interventions ou travaux illicites, les mesures de rétablissement de l'état antérieur ayant force exécutoire lorsque ces mesures n'ont pas été exécutées dans le délai imparti.
-
-### Section 10: Dispositions diverses
+<sup>2</sup> Les prestations fournies au bénéfice des communes ou des tiers par le service compétent dans le domaine de danger naturel concerné peuvent faire l'objet d'une facturation. Sont réservées les dispositions sur la loi fixant le tarif des frais et dépens devant les autorités judiciaires ou administratives.
 
 #### Art. 55
 
-**Constructions dans l'emprise des cours d'eau**
+**Haute surveillance et surveillance**
 
-Toute demande d'autorisation de construire portant sur une construction ou une installation sise dans l'emprise des cours d'eau doit faire l'objet d'un préavis motivé du service chargé des cours d'eau.
+<sup>1</sup> Le Conseil d'Etat exerce la haute surveillance sur la mise en œuvre des principes de la gestion intégrée des risques.
+
+<sup>2</sup> Le département compétent pour le domaine de danger naturel concerné exerce au nom du Conseil d'Etat la surveillance sur l'aménagement et l'entretien des cours d'eau et lacs ainsi que sur la mise en œuvre des principes de la gestion intégrée des risques.
 
 #### Art. 56
 
-<sup>4</sup> Extraction de matériaux dans les cours d’eau
+**Arrêt des travaux et remise en état des lieux conformes au droit pour les aménagements de cours d'eau et lacs et les ouvrages de protection**
 
-<sup>1</sup> Pour des motifs de sécurité et d’entretien, le Conseil d’Etat, ou le Conseil municipal dans les limites fixées dans la loi sur les communes, peut délivrer une concession ou une autorisation d’extraction de matériaux, pour autant que le bilan alluvionnaire naturel ne s’en trouve pas durablement perturbé et que les dispositions sur la protection des eaux ou la protection de la nature sont respectées. Les concessions communales doivent être approuvées par le Conseil d’Etat. Demeure réservé l’octroi d’une autorisation spéciale selon la législation sur la protection des eaux.<sup>4</sup>
+<sup>1</sup> Il incombe à l'autorité de la procédure décisive de faire rétablir l'état conforme au droit lorsque des travaux sont réalisés illicitement, ou que des dispositions ou des conditions et charges n'ont pas été respectées; cette mesure peut comprendre l’arrêt des travaux et la remise en état des lieux conforme au droit.
 
-<sup>2</sup> Les redevances perçues pour l'extraction de graviers dans le lac Léman et le Rhône sont fixées par le Conseil d'Etat; les communes fixent le montant pour les autres cours d'eau.
-
-<sup>2bis</sup> Les redevances perçues pour l'extraction de graviers dans le Rhône et dépassant les 1,4 million de francs de recette annuelle sont déposées dans le fonds pour le financement du projet de la 3<sup>e</sup> correction du Rhône.<sup>5</sup>
-
-<sup>3</sup> Si le bilan alluvionnaire risque d'être perturbé par l'extraction de graviers ou si des dispositions concernant la protection des eaux ou la protection de la nature sont violées, l'autorisation ou la concession peut être révoquée ou restreinte par l'autorité compétente.
-
-<sup>4</sup> A l'expiration de la concession ou de l'autorisation, le rétablissement doit être effectué selon le plan de remise en état. Le bénéficiaire de l'autorisation doit notamment évacuer à ses frais les installations d'extraction. En cas d'octroi d'une concession ou d'une autorisation, une sûreté peut être exigée pour garantir l'exécution du rétablissement par substitution.
-
-<sup>5</sup> Les détails sont réglés dans l'ordonnance.
+<sup>2</sup> L'organe d'instruction du département assure la direction de la procédure.
 
 #### Art. 57
 
+**Procédure d’arrêt des travaux et remise en état des lieux conforme au droit pour les aménagements de cours d'eau et lacs et les ouvrages de protection**
+
+<sup>1</sup> L’autorité de la procédure décisive arrête les travaux et fixe un délai convenable pour la remise en état des lieux conforme au droit sous la menace d'une exécution par substitution.
+
+<sup>2</sup> Si une régularisation est manifestement d’emblée exclue, l’autorité compétente rend une décision de remise en état des lieux conforme au droit. Cette décision doit indiquer la mesure exacte pour rétablir une situation conforme au droit, le délai d’exécution, la menace d’exécution par substitution et les voies de recours.
+
+<sup>3</sup> Si une régularisation n’est pas d’emblée exclue, l’autorité compétente impartit un délai convenable pour mettre à l’enquête publique un projet en vue de la régularisation des travaux illicites effectués. A défaut de mise à l’enquête publique dans le délai fixé, l’autorité compétente fait élaborer un projet, les frais y relatifs étant à la charge du défaillant.
+
+<sup>4</sup> 10 ans après le jour où l’état de fait contraire au droit était reconnaissable, la remise en état des lieux ne peut être exigée que si elle est commandée par des intérêts publics impératifs. La prescription absolue est de 30 ans dès l’achèvement des travaux.
+
+#### Art. 58
+
+**Exécution par substitution**
+
+<sup>1</sup> Si les autorités compétentes ou les propriétaires d'infrastructures au sens de l'article 4 ne remplissent pas les obligations qui leur incombent selon la présente loi, le Conseil d'Etat, par le département compétent pour le danger naturel concerné, ordonne toutes les mesures nécessaires et leur fixe un délai convenable pour exécuter leurs tâches après les avoir entendus.
+
+<sup>2</sup> En cas d'inexécution dans le délai imparti, le département compétent pour le danger naturel concerné a notamment les compétences suivantes:
+
+- a) il fait établir au besoin un projet conformément aux prescriptions de la présente loi;
+- b) il fixe par décision au défaillant un nouveau délai pour l'exécution des travaux et la menace d'exécution par substitution en cas d'inexécution;
+- c) il fait exécuter les travaux aux frais du défaillant en cas d'inexécution de la décision dans le délai imparti. Les dispositions relatives à la répartition des frais sont applicables par analogie. Le défaillant supporte les frais supplémentaires causés par la négligence dans l'obligation de gérer les risques;
+- d) lorsque l’entretien des ouvrages qui ont fait l’objet de subventions est manifestement négligé, le département peut ordonner la remise en état aux frais de l'intéressé ou exiger la restitution des subventions versées.
+
+<sup>3</sup> Lorsque le défaillant n'exécute pas ses tâches et qu'il en résulte un péril sérieux, le département ordonne ou prend les mesures nécessaires aux frais du défaillant.
+
+## 6 Dispositions diverses
+
+#### Art. 59
+
+**Extraction de matériaux dans les cours d'eau et les lacs**
+
+<sup>1</sup> Les autorisations d'extraction de matériaux dans les cours d'eau et les lacs et les conditions y relatives, de même que les aspects sécuritaires liés à cette activité, sont réglés dans une législation spéciale.
+
+#### Art. 60
+
 **Restrictions à la propriété des fonds riverains**
 
-<sup>1</sup> Les riverains des cours d'eau doivent tolérer que les autorités ou des tiers pénètrent sur leurs fonds, y circulent ou les utilisent de toute autre manière pour exécuter des travaux d'aménagement ou d'entretien des cours d'eau, inspecter les constructions et installations et procéder à des contrôles.
+<sup>1</sup> Les riverains des cours d'eau et lacs doivent tolérer que les autorités ou des tiers pénètrent sur leurs fonds, y circulent ou les utilisent de tout autre manière pour exécuter des travaux d'aménagement ou d'entretien des cours d'eau et lacs, inspecter les constructions et installations et procéder à des contrôles.
 
 <sup>2</sup> Les intérêts des riverains doivent être pris en considération. Ceux-ci doivent être informés préalablement, cas d'urgence exceptés.
 
 <sup>3</sup> Si des dommages sont causés, les auteurs sont solidairement responsables.
 
-#### Art. 58
+#### Art. 61
 
 **Hypothèque légale directe**
 
-Pour garantir les créances découlant de l'aménagement et de l'entretien des cours d'eau ainsi que toutes les autres mesures, l'Etat et les communes disposent d'une hypothèque légale directe, valable sans inscription au Registre foncier.
+<sup>1</sup> Pour garantir les créances découlant de l'aménagement et de l'entretien des cours d'eau et lacs ainsi que toutes les autres mesures, l'Etat et les communes disposent d'une hypothèque légale directe, valable sans inscription au Registre foncier.
 
-#### Art. 59
+<sup>2</sup> Demeurent réservées les dispositions spéciales applicables aux concessionnaires des chemins de fer.
+
+#### Art. 62
 
 **Voies de droit**
 
-Les décisions prises en application de la présente loi sont soumises aux dispositions de la loi sur la procédure et la juridiction administratives.
+<sup>1</sup> Les décisions prises en application de la présente loi sont soumises aux dispositions de la loi sur la procédure et la juridiction administrative.
 
-#### Art. 60
+#### Art. 63
 
 **Actes punissables et sanctions pénales**
 
-<sup>1</sup> Est puni par l'autorité compétente d'une amende de 1'000 à 100'000 francs:
+<sup>1</sup> Est puni par l'autorité de la procédure décisive d'une amende de 1'000 à 100'000 francs:
 
-- a) celui qui en tant que responsable (notamment concessionnaire, bénéficiaire d'une autorisation, responsable du projet, maître d'ouvrage, ingénieur, chef de chantier, entrepreneur) exécute ou fait exécuter des travaux sans être au bénéfice d'une approbation, concession ou autorisation en force, ne respecte pas les conditions et charges liées à l'approbation, à la concession ou à l'autorisation octroyée, requiert une approbation, une concession ou une autorisation sur la base d'informations inexactes, ne se soumet pas à des ordres de police des eaux qui lui ont été adressés;
-
+- a) celui qui en tant que responsable (notamment concessionnaire, bénéficiaire d'une autorisation, responsable du projet, maître d'ouvrage, ingénieur, chef de chantier, entrepreneur) exécute ou fait exécuter des travaux sans être au bénéfice d'une approbation, concession ou autorisation en force, sous-traite sans accord préalable de l'autorité compétente, ne respecte pas les conditions et charges liées à l'approbation, à la concession ou à l'autorisation octroyée, requiert une approbation, une concession ou une autorisation sur la base d'informations inexactes;
 - b) celui qui ne satisfait pas à une obligation que la loi met à sa charge;
-
 - c) celui qui contrevient de toute autre manière à la loi ou à ses dispositions d'exécution.
 
-<sup>2</sup> Dans les cas graves, notamment lorsqu'un projet d'exécution est réalisé malgré un refus d'approbation, lorsque des prescriptions ont été violées par cupidité ou lorsqu'il y a récidive, l'amende peut être portée à 200'000 francs. En outre les gains illicites sont confisqués conformément à l'article 59 du code pénal suisse.
+<sup>2</sup> Dans les cas graves, notamment lorsqu'un projet est réalisé malgré un refus d'approbation, lorsque des prescriptions ont été violées par cupidité ou lorsqu'il y a récidive, l'amende peut être portée à 200'000 francs. En outre, les valeurs patrimoniales liées à l’infraction sont confisquées conformément aux dispositions du code pénal suisse.
 
 <sup>3</sup> Une amende de 10'000 francs au minimum est prononcée en sus à l'encontre de celui qui poursuit les travaux, continue l'exploitation ou utilise l'installation lorsqu'un ordre d'arrêt ou une interdiction lui a été signifié.
 
-<sup>4</sup> En cas d'inexécution d'une décision ordonnant la remise en état des lieux, des amendes plus élevées sont prononcées à l'échéance du délai accordé par l'autorité compétente qui fixe un nouveau délai, ce aussi longtemps que l'état illicite subsiste.
+<sup>4</sup> Dans les cas de peu de gravité, l'amende prévue à l'alinéa 1 peut être réduite.
 
-<sup>5</sup> Dans les cas de peu de gravité, l'amende prévue à l'alinéa 1 peut être réduite.
+<sup>5</sup> Demeurent réservées les dispositions pénales plus sévères prévues par d'autres lois.
 
-<sup>6</sup> Demeurent réservées les dispositions pénales plus sévères prévues par d'autres lois.
+<sup>6</sup> L’autorité de la procédure décisive peut renoncer à poursuivre la personne physique lorsque l’infraction est commise dans la gestion d’une personne morale, d’une société en nom collectif ou en commandite, d’une entreprise individuelle ou d’une collectivité sans personnalité juridique ou de quelque autre manière dans l’exercice d’une activité pour un tiers.
 
-#### Art. 61
+#### Art. 64
 
 **Prescription**
 
-<sup>1</sup> Les infractions se prescrivent par cinq ans à compter de l'instant où elles sont reconnaissables. Les amendes se prescrivent dans le même délai à compter du moment où le prononcé devient exécutoire.
+<sup>1</sup> Les infractions se prescrivent par 5 ans à compter de l'instant où elles sont reconnaissables.
 
-<sup>2</sup> La prescription relative aux infractions est interrompue par tout acte d'instruction et la prescription relative aux peines par tout acte d'exécution.
+<sup>2</sup> Tout acte de l'autorité administrative interrompt la prescription.
 
-<sup>3</sup> La prescription absolue intervient après dix ans.
+## 7 Dispositions finales
 
-<sup>4</sup> La prescription relative à la remise en état des lieux intervient après dix ans. La prescription absolue est de 30 ans dès l'achèvement des travaux.
-
-### Section 11: Dispositions finales
-
-#### Art. 62
+#### Art. 65
 
 **Exécution**
 
 <sup>1</sup> Les autorités compétentes prennent toutes les mesures relatives à l'application de la présente loi.
 
-<sup>2</sup> Le Conseil d'Etat édicte:
+<sup>2</sup> Le Conseil d'Etat édicte l’ordonnance sur les dangers naturels et l’aménagement des cours d’eau et arrête les dispositions d'exécution nécessaires à l'application de la présente loi. L'ordonnance fixe des règles concernant notamment:
 
-- a) une ordonnance sur l’aménagement des cours d’eau portant notamment sur les objets suivants: les cours d’eau assujettis, la délégation de tâches, le contenu matériel essentiel des prescriptions accompagnant les zones de danger, le contenu du projet d’exécution, la répartition financière des projets, les critères de participation des communes, le subventionnement;[^62-1]
+- a) la répartition des compétences entre les services et offices (art. 4 al. 4);
+- b) les détails concernant la délégation du département aux communes de tâches liées aux dangers naturels et aux cours d'eau (art. 5 al. 2 et art. 29 al. 2);
+- c) les cartes de danger ainsi que les zones de danger (art. 9 et art. 10);
+- d) la définition des conditions dérogatoires nécessaires pour l’octroi de l’autorisation de construire dans les secteurs exposés à un danger (art. 12 al. 2 et 3);
+- e) les principes d'indemnisation pour les exploitants des installations hydroélectriques (art. 21 al. 2);
+- f) le contenu minimum des dossiers mis à l'enquête publique (art. 32 al. 2);
+- g) les définitions des projets de peu d'importance, de modification mineure et de modification importante (art. 33 al. 2 et art. 44 al. 1);
+- h) la définition des bénéficiaires de subventionnement (art. 47 al. 1).
 
-- b) toutes les autres dispositions nécessaires à l'exécution de la présente loi.
+## T1 Disposition transitoire
 
-[^62-1]: Modification du 16 mai 2013 (loi cantonale BO No 36/2013, BO 01.01.14 sur la protection des eaux du 16 mai 2013, art. No 52/2013
+#### Art. T1-1
 
-#### Art. 63
+<sup>1</sup> La présente loi s’applique dès son entrée en vigueur. Toute décision d’approbation prise après son entrée en vigueur doit appliquer la présente loi.
 
-**Abrogation**
+<sup>2</sup> La consultation préalable prévue à l'article 31 ne s'applique pas aux projets mis à l'enquête publique avant l'entrée en vigueur de la présente loi.
 
-La présente loi abroge toutes les dispositions qui lui sont contraires et notamment la loi sur les cours d'eau du 6 juillet 1932.
+<sup>3</sup> Pour les décisions d'octroi de subvention rendues avant l'entrée en vigueur de la présente loi, le taux de subventionnement appliqué demeure inchangé. Toutes les demandes de subvention pendantes n'ayant pas encore fait l'objet d'une décision de la part de l'autorité compétente au moment de l'entrée en vigueur de la présente loi sont soumises au nouveau droit.
 
-#### Art. 64
+<sup>4</sup> Les dispositions suivantes sont applicables jusqu’à l’entrée en vigueur de la législation spécifique régissant les extractions de matériaux dans les cours d’eau et les lacs:
 
-**Dispositions transitoires**
+- a) pour des motifs de sécurité et d’entretien, le Conseil d’Etat, ou le conseil municipal dans les limites fixées dans la loi sur les communes, peut délivrer une concession ou une autorisation d’extraction de matériaux, pour autant que le bilan alluvionnaire naturel ne s’en trouve pas durablement perturbé et que les dispositions sur la protection des eaux ou la protection de la nature sont respectées. Les concessions communales doivent être approuvées par le Conseil d’Etat. Demeure réservé l’octroi d’une autorisation spéciale selon la législation sur la protection des eaux;
+- b) les redevances perçues pour l'extraction de graviers dans le Léman et le Rhône sont fixées par le Conseil d'Etat; les communes fixent le montant pour les autres cours d'eau et lacs;
+- c) si le bilan alluvionnaire risque d'être perturbé par l'extraction de graviers ou si des dispositions concernant la protection des eaux ou la protection de la nature sont violées, l'autorisation ou la concession peut être révoquée ou restreinte par l'autorité compétente;
+- d) à l'expiration de la concession ou de l'autorisation, le rétablissement doit être effectué selon le plan de remise en état. Le bénéficiaire de l'autorisation doit notamment évacuer à ses frais les installations d'extraction. En cas d'octroi d'une concession ou d'une autorisation, une sûreté peut être exigée pour garantir l'exécution du rétablissement par substitution;
+- e) lorsque le domaine public est utilisé, une concession ou une autorisation d'utilisation du domaine public est nécessaire pour des constructions ou des installations à caractère durable. Elles sont accordées:
+  - 1\. par le Conseil d'Etat pour l'utilisation du domaine public cantonal, la commune de situation entendue,
+  - 2\. par le conseil municipal pour l'utilisation du domaine public communal, avec approbation du Conseil d'Etat;
+- f) les extractions relatives à un entretien sécuritaire ou à une remise en état après une crue ne nécessitent pas de concession; elles font l'objet d'une autorisation délivrée par le Conseil d'Etat, respectivement le conseil municipal;
+- g) une zone adéquate est à délimiter dans le plan d'affectation de zones. Si nécessaire, un plan d'aménagement détaillé est élaboré, qui règle dans le détail l'affectation du sol et qui précise les mesures particulières d'aménagement ainsi que de gestion et d'exploitation des matériaux. Les principes et la marche à suivre sont définis dans le plan directeur cantonal;
+- h) l'autorisation de construire est délivrée si la demande est conforme à la zone selon l'article 22 de la loi fédérale sur l'aménagement du territoire (LAT). A défaut d'une zone adéquate, l'exploitation peut exceptionnellement faire l'objet d'une autorisation au sens de l'article 24 LAT. Dans tous les cas, l'autorisation de construire est délivrée par la Commission cantonale des constructions;
+- i) les directives du Conseil d'Etat concernant la gestion des matériaux pierreux et terreux sont applicables.
 
-<sup>1</sup> Les projets d'exécution pour lesquels l'enquête publique a eu lieu avant l'entrée en vigueur de la présente loi sont adoptés et réalisés selon l'ancien droit.
-
-<sup>2</sup> Le critère de la force financière des communes pour le calcul du taux de subvention et pour la participation financière des communes est maintenu jusqu'à l'entrée en vigueur de la loi sur la péréquation financière.
-
-<sup>3</sup> La procédure relative aux zones de danger définie aux articles 16ss est applicable aux zones d'avalanches, de chutes de pierres, d'instabilités de terrain et aux autres zones de dangers naturels jusqu'à la mise en vigueur de la législation spéciale y relative.
-
-<sup>4</sup> L'élaboration et l'adoption du plan sectoriel des cours d'eau peuvent se faire par étapes. Le défaut temporaire de plan sectoriel n'empêche pas l'adoption de plans d'aménagement des cours d'eau, respectivement de projets d'exécution.
-
-#### Art. 65
-
-**Disposition finale**
-
-<sup>1</sup> La présente loi est soumise au référendum facultatif.
-
-<sup>2</sup> Le Conseil d'Etat fixe la date de son entrée en vigueur.
-
-Ainsi adopté en deuxième lecture en séance du Grand Conseil, à Sion, le 15 mars 2007.
-
-Le président du Grand Conseil: Albert Bétrisey Le chef du Service parlementaire: Claude Bumann
-
-**Entrée en**
-
-### Intitulé et modifications Publication
-
-**1.01.2008**
-
-vigueur Loi sur l'aménagement des cours d'eau RO/VS 2007, 519
-
-## Autres notes
-
-- [1] Nouvelle teneur selon ch. I de la modification RO/VS 2010, 130 et 1.01.2010 de la loi sur les construction du 12.11.2009 344
-- [2] Nouvelle teneur selon l'art. 57 let. d de la loi BO No 48/2010 26.04.2011 sur la protection de l'environnement (LcPE) du 17/2011 18.11.2010
-- [3] Nouvelle teneur selon ch. II al. 2 let. c de la BO No 38/2010 1.01.2012 modification de la loi sur la protection de la nature, du paysage et des sites du 14.09.2011
-- [51] 
-- [5] Modification du 11 septembre 2014 (décret BO No 40/2014; BO 03.10.2014 créant un fonds pour le financement du projet No 15/2015; BO No de la 3e correction du Rhône du 11 septembre 26/2015 2014, art. 4)
+RCV RO/AGS 2022-112
