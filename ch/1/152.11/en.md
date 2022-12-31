@@ -3,11 +3,11 @@ sr: "152.11"
 title: Ordinance of 8 September 1999 to the Federal Act on Archiving (Archiving Ordinance)
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/371"
 language: en
-version: 2022-01-01
+version: 2023-01-01
 adopted: 1999-09-08
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/371/20220101/en/xml/fedlex-data-admin-ch-eli-cc-1999-371-20220101-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/371/20220101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/371/20230101/en/xml/fedlex-data-admin-ch-eli-cc-1999-371-20230101-en-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/371/20230101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Archiving Ordinance)
 
-of 8 September 1999 (Status as of 1 January 2022)
+of 8 September 1999 (Status as of 1 January 2023)
 
 The Swiss Federal Council,
 
@@ -416,7 +416,7 @@ The ownership of archive records may not be transferred unless the archives are 
 
 This Ordinance comes into force on 1 October 1999.
 
-Annex 1*[^t-1]*
+Annex 1[^t-1]
 
 (Art. 2 para. 1)
 
@@ -453,7 +453,7 @@ Federal Department of Finance
 - – Swiss Federal Audit Office
 - – Swiss Financial Market Supervisory Authority[^annex1-lvlu1-lvlb-2]
 
-Federal Department of Economic Affairs, Education and Research*[^annex1-lvlu1-lvlb-3]*
+Federal Department of Economic Affairs, Education and Research[^annex1-lvlu1-lvlb-3]
 
 - – Competition Commission
 
@@ -481,7 +481,7 @@ Federal Department of the Environment, Transport, Energy and Communications
 - – Railways Arbitration Commission
 - – Independent Complaints Authority for Radio and Television (ICA)
 
-Annex 2*[^t-2]*
+Annex 2[^t-2]
 
 (Art. 2 para. 2)
 
@@ -511,17 +511,17 @@ Annex 2*[^t-2]*
 - – Federal Pension Fund PUBLICA
 - – Swiss Federal Institute of Metrology METAS
 
-Annex 3*[^t-3]*
+Annex 3[^t-3]
 
 (Art. 14 para. 5)
 
 ## List of Archive Records with Extended Retention Periods
 
-[^t-3]: Amended by No I of the FDHA O of 10 Nov. 2021, in force since 1 Jan. 2022 ([AS 2021 691](https://fedlex.data.admin.ch/eli/oc/2021/691)).
+[^t-3]: Amended by No I of the FDHA O of 21 Nov. 2022, in force since 1 Jan. 2023 ([AS 2022 710](https://fedlex.data.admin.ch/eli/oc/2022/710)).
 
 (Art. 12 para. 1 ArchA)
 
 - – Archive records subject to a 50-year retention period in accordance with Article 12 paragraph 1 ArchA and Article 14 paragraph 5 ArchO.
 - – The list may be amended or extended by the Federal Department of Home Affairs. The up-to-date list shall be held by the Federal Archives and is accessible to the public. The updated Annex shall be published annually in the Official Compilation.
 
-**The current list is not translated. For further information, please co****n****sult the list in the Swiss language versions of the ArchO.**
+**The current list is not translated. For further information, please consult the list in the Swiss language versions of the ArchO.**
