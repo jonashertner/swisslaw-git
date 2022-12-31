@@ -4,13 +4,13 @@ number: "760.155"
 title: Ordinaziun davart il manaschi da pestga
 short: "prescripziuns da pestga, PP"
 language: rm
-version: 2021-01-01
-corrected: 2021-11-15
-version_adopted: 2020-11-24
+version: 2023-01-01
+valid_until: 2025-12-31
+version_adopted: 2022-12-05
 adopted: 2019-12-10
 in_force: 2020-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/760.155"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3178/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3286/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3178/pdf_file"
 
 (prescripziuns da pestga, PP)
 
-dals 10-12-2019 (versiun dals 01-01-2021)
+dals 10-12-2019 (versiun dals 01-01-2023)
 
 Sa basond sin l'art. 45 al. 1 da la constituziun chantunala[^ingress-1] sco er sin l'art. 5, l'art. 12, l'art. 14, l'art. 15a, l'art. 29, l'art. 30 al. 1 ed ils art. 36 ss. da la lescha chantunala da pestga[^ingress-2]
 
@@ -210,11 +210,11 @@ relaschada da la regenza ils 10 da december 2019
 
 **2. auas cun restricziun dal dumber da peschs che dastgan vegnir pigliads**
 
-<sup>1</sup> Il dumber da peschs che dastgan vegnir pigliads per di è limità a 6 salmonids per auas currentas ed a 10 salmonids per auas stagnantas.
+<sup>1</sup> Il dumber da peschs che dastgan vegnir pigliads per di è limità a 4 salmonids per auas currentas ed a 6 salmonids per auas stagnantas.
 
-<sup>2</sup> Tut en tut na dastgan betg vegnir pigliads pli che 10 salmonids durant il medem di.
+<sup>2</sup> Tut en tut na dastgan betg vegnir pigliads pli che 6 salmonids durant il medem di.
 
-<sup>3</sup> En l'entir intschess da l'En tenor l'agiunta 1 cifra II (regiun D1 e D2, senza lais) è il dumber da peschs che dastgan vegnir pigliads per di limità a 4 salmonids en auas currentas.
+<sup>3</sup> …
 
 <sup>4</sup> Dal dumber da peschs che dastgan vegnir pigliads per di dastgan maximalmain 2 peschs en auas currentas esser litschalas.
 
@@ -321,17 +321,19 @@ relaschada da la regenza ils 10 da december 2019
 
 <sup>2</sup> Ils peschs che dastgan vegnir pigliads ston vegnir prendids a la riva cun mauns bletschs, sturnids cun in pitg sin il chau, silsuenter mazzads cun in tagl da las brantschas u sbuttatschads e pir lura fatgs libers da la pertga.
 
-<sup>3</sup> Ils peschs pigliads betg permess che vegnan giuditgads da la pestgadra u dal pestgader sco betg pli abels da viver, ston vegnir mazzads immediatamain e mess enavos en l'aua. Sche tals peschs vegnan giuditgads sco abels da viver, na dastgan els betg vegnir mazzads e ston medemamain vegnir mess enavos immediatamain en l'aua.
+<sup>3</sup> Ils peschs pigliads betg permess ston vegnir prendids a la riva cun mauns bletschs e, sch'els èn abels da viver, vegnir mess immediatamain enavos en l'aua. Ils peschs che han traguttì il crutsch memia fitg, ston vegnir mess enavos en l'aua cun tagliar giu la cavaletta.
+
+<sup>4</sup> Ils peschs tenor l'alinea 3 che vegnan giuditgads da la pestgadra u dal pestgader sco betg pli abels da viver, ston vegnir mazzads immediatamain e mess enavos en l'aua.
 
 #### Art. 32
 
 **Conservaziun**
 
-<sup>1</sup> Mo a possessuras e possessurs d'in attest davart las enconuschientschas da la materia èsi permess da conservar durant in curt temp peschs vivs pigliads (incl. peschs d'estga) en trintgettas, vaschs da peschs, nassas e recipients da conservaziun sumegliants. Cun midar ora regularmain l'aua èsi da procurar che la qualitad da l'aua correspundia a quella da l'aua da provegnientscha.
+<sup>1</sup> Mo a possessuras e possessurs d'in attest davart las enconuschientschas da la materia èsi permess da conservar durant in curt temp peschs vivs pigliads (incl. peschs d'estga) en trintgettas, en raits da tegnair en salv peschs vivs ed en recipients da conservaziun sumegliants. Cun midar ora regularmain l'aua èsi da procurar che la qualitad da l'aua correspundia a quella da l'aua da provegnientscha.
 
 <sup>2</sup> Cun midar ora l'aua na dastgan ils peschs ch'èn gia conservads, betg puspè vegnir mess enavos en l'aua.
 
-<sup>3</sup> Las clasiras, nua ch'i vegnan conservads peschs u nua ch'i vegnan mess en temporarmain peschs, ston avair ina qualitad da l'aua che satisfa a las pretensiuns da las spezias da peschs respectivas. Las clasiras ston esser munidas cun ina marca da proprietad bain visibla e ston vegnir svidadas fin il pli tard ils 31 d'october e suenter ston ellas vegnir tegnidas avertas.
+<sup>3</sup> Cura che la pestgadra u il pestgader banduna l'aua, ston ils peschs conservads – cun excepziun da la frilla – vegnir narcotisads e mazzads confurm a la protecziun dals animals.
 
 ### 3.6. Duvrar e pigliar estgas natiralas
 
@@ -345,13 +347,13 @@ relaschada da la regenza ils 10 da december 2019
 
 **Pigliar peschs d'estga e macrofauna d'aua**
 
-<sup>1</sup> Las possessuras ed ils possessurs d'ina patenta da pestga dastgan pigliar peschs d'estga e macrofauna d'aua dals 24 da schaner fin ils 31 d'october mo per l'agen diever.
+<sup>1</sup> Las possessuras ed ils possessurs d'ina patenta da pestga sco er d'in attest davart las enconuschientschas da la materia dastgan pigliar peschs d'estga e macrofauna d'aua dals 24 da schaner fin ils 31 d'october mo per l'agen diever.
 
 <sup>2</sup> Per pigliar peschs d'estga ston vegnir duvradas nassas u buttiglias da peschs d'estga, sco ch'ellas pon vegnir cumpradas sin la fiera. Questas nassas u questas buttiglias da peschs d'estga ston esser munidas cun il num da la proprietaria u dal proprietari.
 
 <sup>3</sup> La pestgadra u il pestgader dastga duvrar a medem temp mo in utensil da pestga (nassa u buttiglia da peschs d'estga).
 
-<sup>4</sup> Ils peschs d'estga pigliads na dastgan betg vegnir mess enavos en l'aua.
+<sup>4</sup> Ils peschs d'estga pigliads dastgan vegnir mess enavos mo en l'aua da provegnientscha.
 
 #### Art. 35
 
@@ -370,6 +372,8 @@ relaschada da la regenza ils 10 da december 2019
 **Scumond d'estgas natiralas**
 
 <sup>1</sup> En las suandantas auas èsi scumandà da duvrar estgas natiralas: lai artifizial Oldis (3008), Caluoriweiher (3010), Doggilochsee (3019), Plävigginsee (3025).
+
+<sup>2</sup> En il Doggilochsee (3019) ed en il Plävigginsee (3025) dastgan plinavant vegnir duvrads sco estgas mo mustgas artifizialas, sco mustgas sitgas e mustgas bletschas, nimfas, streamers e chaussas sumegliantas.
 
 ## 4. Statistica da pestga
 
@@ -415,7 +419,7 @@ relaschada da la regenza ils 10 da december 2019
 
 **Excepziuns en il cas singul**
 
-<sup>1</sup> En cas da derschentadas e svidadas planisadas d'implants d'accumulaziun, en cas d'autras intervenziuns tecnicas pli grondas en las auas u en cas da regulaziuns da la populaziun cun cleras intenziuns e da durada limitada en l'interess da la pestga e dal mantegniment da la diversitad da las spezias po il departament da construcziun, traffic e selvicultura concluder excepziuns per las auas respectivas areguard ils utensils da pestga, las metodas da pestgar, ils temps da pestga, las mesiras dals peschs ed ils dumbers da peschs che dastgan vegnir pigliads.
+<sup>1</sup> En cas da derschentadas e svidadas planisadas d'implants d'accumulaziun, en cas d'autras intervenziuns tecnicas pli grondas en las auas u en cas da regulaziuns da la populaziun cun cleras intenziuns e da durada limitada en l'interess da la pestga e dal mantegniment da la diversitad da las spezias po il Departament d'infrastructura, energia e mobilitad concluder excepziuns per las auas respectivas areguard ils utensils da pestga, las metodas da pestgar, ils temps da pestga, las mesiras dals peschs ed ils dumbers da peschs che dastgan vegnir pigliads.
 
 <sup>2</sup> Las regulaziuns correspundentas ston vegnir publitgadas en il fegl uffizial chantunal.
 

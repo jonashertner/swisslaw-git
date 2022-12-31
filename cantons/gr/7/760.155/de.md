@@ -4,13 +4,13 @@ number: "760.155"
 title: Verordnung über den Fischereibetrieb
 short: "Fischereibetriebsvorschriften, FBV"
 language: de
-version: 2021-01-01
-corrected: 2021-11-15
-version_adopted: 2020-11-24
+version: 2023-01-01
+valid_until: 2025-12-31
+version_adopted: 2022-12-05
 adopted: 2019-12-10
 in_force: 2020-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/760.155"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3178/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3286/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3178/pdf_file"
 
 (Fischereibetriebsvorschriften, FBV)
 
-Vom 10.12.2019 (Stand 01.01.2021)
+Vom 10.12.2019 (Stand 01.01.2023)
 
 Gestützt auf Art. 45 Abs. 1 der Kantonsverfassung[^ingress-1] und Art. 5, Art. 12, Art. 14, Art. 15a, Art. 29, Art. 30 Abs. 1 und Art. 36 ff. des kantonalen Fischereigesetzes[^ingress-2]
 
@@ -210,11 +210,11 @@ von der Regierung erlassen am 10. Dezember 2019
 
 **2. Gewässer mit Fangzahlbeschränkung**
 
-<sup>1</sup> Das Tagesfanglimit beträgt für Fliessgewässer sechs und für stehende Gewässer zehn Edelfische.
+<sup>1</sup> Das Tagesfanglimit beträgt für Fliessgewässer vier und für stehende Gewässer sechs Edelfische.
 
-<sup>2</sup> Insgesamt dürfen am gleichen Tag nicht mehr als zehn Edelfische gefangen werden.
+<sup>2</sup> Insgesamt dürfen am gleichen Tag nicht mehr als sechs Edelfische gefangen werden.
 
-<sup>3</sup> Im gesamten Einzugsgebiet des Inns gemäss Anhang 1 Ziffer II (Region D1 und D2, ohne Seen) beträgt das Tagesfanglimit an Fliessgewässern vier Edelfische.
+<sup>3</sup> …
 
 <sup>4</sup> Der Anteil an Äschen am Tagesfang darf in Fliessgewässern höchstens zwei Stück betragen.
 
@@ -321,17 +321,19 @@ von der Regierung erlassen am 10. Dezember 2019
 
 <sup>2</sup> Gefangene, zum Fang freigegebene Fische sind mit nasser Hand anzulanden, mit einem Schlag auf den Kopf zu betäuben, anschliessend mit einem Kiemenschnitt zu töten oder auszunehmen und erst dann von der Angel zu lösen.
 
-<sup>3</sup> Gefangene, zum Fang nicht freigegebene Fische, die von der Fischerin oder dem Fischer als nicht mehr lebensfähig beurteilt werden, müssen sofort getötet und ins Wasser zurückversetzt werden. Werden solche Fische als lebensfähig beurteilt, dürfen sie nicht getötet werden und müssen ebenfalls sofort ins Wasser zurückversetzt werden.
+<sup>3</sup> Gefangene, zum Fang nicht freigegebene Fische sind mit nasser Hand anzulanden und falls lebensfähig sofort ins Wasser zurückzuversetzen. Fische, die den Angelhaken tief geschluckt haben, sind durch Abschneiden des Vorfachs ins Wasser zurückzuversetzen.
+
+<sup>4</sup> Werden Fische gemäss Absatz 3 von der Fischerin oder dem Fischer als nicht mehr lebensfähig beurteilt, müssen sie sofort getötet und ins Wasser zurückversetzt werden.
 
 #### Art. 32
 
 **Hälterung**
 
-<sup>1</sup> Die kurzfristige Lebendhälterung von gefangenen Fischen (inkl. Köderfischen) in Trinketten, Lägeln, Fischkörben, Reusen und ähnlichen Hälterungsgefässen ist nur Inhaberinnen und Inhabern eines Sachkundeausweises gestattet. Durch regelmässigen Wasserwechsel ist dafür zu sorgen, dass die Wasserqualität derjenigen des Herkunftsgewässers entspricht.
+<sup>1</sup> Die kurzfristige Lebendhälterung von gefangenen Fischen (inkl. Köderfischen) in Trinketten, Setzkeschern und ähnlichen Hälterungsgefässen ist nur Inhaberinnen und Inhabern eines Sachkundeausweises gestattet. Durch regelmässigen Wasserwechsel ist dafür zu sorgen, dass die Wasserqualität derjenigen des Herkunftsgewässers entspricht.
 
 <sup>2</sup> Bereits gehälterte Fische dürfen nicht im Austausch wieder ins Wasser zurückversetzt werden.
 
-<sup>3</sup> Gehege, in denen Fische gehalten oder in die Fische vorübergehend eingesetzt werden, müssen eine Wasserqualität aufweisen, die den Ansprüchen der jeweiligen Fischarten genügt. Diese Gehege müssen mit einer gut sichtbaren Eigentumsmarke versehen sein und sind bis spätestens am 31. Oktober zu entleeren und danach offen zu halten.
+<sup>3</sup> Mit Ausnahme der Elritze sind gehälterte Fische beim Verlassen des Gewässers tierschutzkonform zu betäuben und zu töten.
 
 ### 3.6. Verwendung und Fang von Naturködern
 
@@ -345,13 +347,13 @@ von der Regierung erlassen am 10. Dezember 2019
 
 **Fang von Köderfischen und Fischnährtieren**
 
-<sup>1</sup> Köderfische und Fischnährtiere dürfen nur für den Eigenbedarf von Inhaberinnen und Inhabern eines Fischereipatents vom 24. Januar bis 31. Oktober gefangen werden.
+<sup>1</sup> Köderfische und Fischnährtiere dürfen von Inhaberinnen und Inhabern eines Fischereipatents sowie eines Sachkundenachweises vom 24. Januar bis 31. Oktober nur für den Eigenbedarf gefangen werden.
 
 <sup>2</sup> Für den Fang von Köderfischen sind handelsübliche Reusen oder Köderfischflaschen zu verwenden. Diese müssen mit dem Namen der Eigentümerin oder des Eigentümers versehen sein.
 
 <sup>3</sup> Die Fischerin oder der Fischer darf gleichzeitig nur ein Fanggerät (Reuse oder Köderflasche) verwenden.
 
-<sup>4</sup> Gefangene Köderfische dürfen nicht ins Gewässer zurückversetzt werden.
+<sup>4</sup> Gefangene Köderfische dürfen nur ins Herkunftsgewässer zurückversetzt werden.
 
 #### Art. 35
 
@@ -370,6 +372,8 @@ von der Regierung erlassen am 10. Dezember 2019
 **Naturköderverbot**
 
 <sup>1</sup> In den folgenden Gewässern ist die Verwendung von Naturködern verboten: Baggersee Oldis (3008), Caluoriweiher (3010), Doggilochsee (3019), Plävigginsee (3025).
+
+<sup>2</sup> Im Doggilochsee (3019) und im Plävigginsee (3025) dürfen zudem nur Kunstfliegen, wie Trocken- und Nassfliegen, Nymphen, Streamer und dergleichen, als Köder verwendet werden.
 
 ## 4. Fangstatistik
 
@@ -415,7 +419,7 @@ von der Regierung erlassen am 10. Dezember 2019
 
 **Ausnahmen im Einzelfall**
 
-<sup>1</sup> Bei bevorstehenden Spülungen und Entleerungen von Stauhaltungen, anderen grösseren technischen Gewässereingriffen oder gezielten und befristeten Bestandesregulierungen im Interesse der Fischerei und der Erhaltung der Artenvielfalt kann das Bau-, Verkehrs- und Forstdepartement für die betreffenden Gewässer Ausnahmen bezüglich Fanggeräte, Fangmethoden, Fangzeiten, Fangmasse und Fangzahlen beschliessen.
+<sup>1</sup> Bei bevorstehenden Spülungen und Entleerungen von Stauhaltungen, anderen grösseren technischen Gewässereingriffen oder gezielten und befristeten Bestandesregulierungen im Interesse der Fischerei und der Erhaltung der Artenvielfalt kann das Departement für Infrastruktur, Energie und Mobilität für die betreffenden Gewässer Ausnahmen bezüglich Fanggeräte, Fangmethoden, Fangzeiten, Fangmasse und Fangzahlen beschliessen.
 
 <sup>2</sup> Die entsprechenden Regelungen sind im Kantonsamtsblatt zu publizieren.
 

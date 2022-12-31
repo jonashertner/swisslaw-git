@@ -4,13 +4,13 @@ number: "760.155"
 title: "Ordinanza relativa all'esercizio della pesca"
 short: "Prescrizioni per l'esercizio della pesca, PEP"
 language: it
-version: 2021-01-01
-corrected: 2021-11-15
-version_adopted: 2020-11-24
+version: 2023-01-01
+valid_until: 2025-12-31
+version_adopted: 2022-12-05
 adopted: 2019-12-10
 in_force: 2020-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/760.155"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3178/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3286/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/3178/pdf_file"
 
 (Prescrizioni per l'esercizio della pesca, PEP)
 
-del 10.12.2019 (stato 01.01.2021)
+del 10.12.2019 (stato 01.01.2023)
 
 emanata dal Governo il 10 dicembre 2019
 
@@ -210,11 +210,11 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e l'art. 5, l'ar
 
 **2. Corpi d'acqua con limitazione del numero di catture**
 
-<sup>1</sup> Il limite di catture giornaliero ammonta a sei salmonidi per i corsi d'acqua e a dieci per le acque stagnanti.
+<sup>1</sup> Il limite di catture giornaliero ammonta a quattro salmonidi per i corsi d'acqua e a sei per le acque stagnanti.
 
-<sup>2</sup> Complessivamente non si possono catturare più di dieci salmonidi nello stesso giorno.
+<sup>2</sup> Complessivamente non si possono catturare più di sei salmonidi nello stesso giorno.
 
-<sup>3</sup> In tutto il bacino imbrifero dell'Inn conformemente all'allegato 1 numero II (regione D1 e D2, senza laghi) il limite di catture giornaliero in corsi d'acqua ammonta a quattro salmonidi.
+<sup>3</sup> …
 
 <sup>4</sup> Il numero di temoli catturati in un giorno nei corsi d'acqua può essere di al massimo due esemplari.
 
@@ -321,17 +321,19 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e l'art. 5, l'ar
 
 <sup>2</sup> I pesci catturati di cui è ammessa la cattura devono essere tirati a riva con le mani bagnate, devono essere storditi con un colpo sulla testa, in seguito devono essere uccisi con il taglio dell'arteria branchiale oppure eviscerati e solo allora devono essere staccati dall'amo.
 
-<sup>3</sup> I pesci catturati di cui non è ammessa la cattura che i pescatori giudicano non più in grado di sopravvivere devono essere uccisi immediatamente e rimessi in acqua. Se questi pesci sono ritenuti in grado di sopravvivere, non vanno uccisi, ma devono essere rimessi in acqua immediatamente.
+<sup>3</sup> I pesci catturati di cui non è ammessa la cattura devono essere tirati a riva con le mani bagnate e se sono in grado di sopravvivere devono essere immediatamente rimessi in acqua. I pesci che hanno ingoiato l'amo in profondità devono essere rimessi in acqua tagliando il terminale.
+
+<sup>4</sup> Se il pescatore giudica non più in grado di sopravvivere i pesci conformemente al capoverso 3, tali pesci devono essere uccisi immediatamente e rimessi in acqua.
 
 #### Art. 32
 
 **Stabulazione**
 
-<sup>1</sup> La stabulazione per un breve periodo dei pesci catturati (compresi i pesci da esca) in brentelli, piccoli fusti, cestini da pesca, nasse e contenitori simili è permessa soltanto ai pescatori in possesso dell'attestato specialistico. Con un ricambio regolare dell'acqua si deve garantire che la qualità corrisponda a quella dell'acqua da cui sono stati estratti i pesci.
+<sup>1</sup> La stabulazione per un breve periodo dei pesci catturati (compresi i pesci da esca) in brentelli, reti porta pesci e contenitori simili è permessa soltanto ai pescatori in possesso dell'attestato specialistico. Con un ricambio regolare dell'acqua si deve garantire che la qualità corrisponda a quella dell'acqua da cui sono stati estratti i pesci.
 
 <sup>2</sup> Pesci già stabulati non possono essere rimessi in acqua per sostituirli con altri.
 
-<sup>3</sup> I bacini nei quali i pesci vengono tenuti oppure vengono stabulati per un breve periodo devono contenere acqua di qualità tale da soddisfare le esigenze delle relative specie. Questi bacini devono essere muniti di un contrassegno di proprietà ben visibile, devono essere svuotati entro il 31 ottobre e in seguito devono essere lasciati aperti.
+<sup>3</sup> Fatta eccezione per le sanguinerole, al momento di lasciare il corpo d'acqua i pesci già stabulati devono essere storditi e uccisi in modo conforme alla protezione degli animali.
 
 ### 3.6. Utilizzo e cattura di esche naturali
 
@@ -345,13 +347,13 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e l'art. 5, l'ar
 
 **Cattura di pesci da esca e organismi per la nutrizione dei pesci**
 
-<sup>1</sup> I pesci da esca e gli organismi per la nutrizione dei pesci possono essere catturati dai titolari di una licenza di pesca soltanto per uso proprio tra il 24 gennaio e il 31 ottobre.
+<sup>1</sup> I pesci da esca e gli organismi per la nutrizione dei pesci possono essere catturati dai titolari di una licenza di pesca nonché di un attestato di competenza soltanto per uso proprio tra il 24 gennaio e il 31 ottobre.
 
 <sup>2</sup> Per la cattura di pesci da esca occorre utilizzare nasse o bottiglie per pesci da esca normalmente reperibili in commercio. Queste devono recare il nome del proprietario.
 
 <sup>3</sup> Il pescatore può usare soltanto un attrezzo di cattura (nassa o bottiglia per pesci da esca) alla volta.
 
-<sup>4</sup> I pesci da esca catturati non possono essere rimessi in acqua.
+<sup>4</sup> I pesci da esca catturati possono essere rimessi soltanto nell'acqua da cui sono stati estratti.
 
 #### Art. 35
 
@@ -370,6 +372,8 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e l'art. 5, l'ar
 **Divieto di utilizzare esche naturali**
 
 <sup>1</sup> L'utilizzo di esche naturali è vietato nei seguenti corpi d'acqua: lago artificiale Oldis (3008), Caluoriweiher (3010), Doggilochsee (3019), Plävigginsee (3025).
+
+<sup>2</sup> Nel Doggilochsee (3019) e nel Plävigginsee (3025) quali esche possono inoltre essere utilizzate solo mosche artificiali, come mosche secche e mosche bagnate, mosche a ninfa, streamer e simili.
 
 ## 4. Statistica sulle catture
 
@@ -415,7 +419,7 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e l'art. 5, l'ar
 
 **Eccezioni in casi singoli**
 
-<sup>1</sup> In caso di imminenti spurghi e svuotamenti di bacini di ritenzione, di altri importanti interventi tecnici nelle acque o in caso di regolazioni degli effettivi mirate e limitate nel tempo che sono nell'interesse della pesca e della salvaguardia della varietà delle specie, il Dipartimento costruzioni, trasporti e foreste può decidere eccezioni relative agli attrezzi di cattura, ai metodi di cattura, ai periodi di pesca, nonché alle lunghezze di cattura e al numero delle catture.
+<sup>1</sup> In caso di imminenti spurghi e svuotamenti di bacini di ritenzione, di altri importanti interventi tecnici nelle acque o in caso di regolazioni degli effettivi mirate e limitate nel tempo che sono nell'interesse della pesca e della salvaguardia della varietà delle specie, il Dipartimento infrastrutture, energia e mobilità può decidere eccezioni relative agli attrezzi di cattura, ai metodi di cattura, ai periodi di pesca, nonché alle lunghezze di cattura e al numero delle catture.
 
 <sup>2</sup> Le rispettive regolamentazioni devono essere pubblicate sul Foglio ufficiale cantonale.
 
