@@ -4,13 +4,12 @@ number: "140.2"
 title: Loi sur les agglomérations
 short: LAgg
 language: fr
-version: 2021-01-01
-valid_until: 2022-12-31
-version_adopted: 2020-08-21
+version: 2023-01-01
+version_adopted: 2021-11-05
 adopted: 2020-08-21
 in_force: 2021-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/140.2"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6679/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7578/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Agglomérations – L
 
 (LAgg)
 
-du 21.08.2020 (version entrée en vigueur le 01.01.2021)
+du 21.08.2020 (version entrée en vigueur le 01.01.2023)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -66,13 +65,7 @@ Décrète:
 
 #### Art. 4
 
-**Conditions et modalités du soutien de l'Etat**
-
-<sup>1</sup> L'Etat soutient financièrement les études d'élaboration des projets d'agglomération à raison de 30 % des coûts totaux, jusqu'à un montant maximal de 300'000 francs par période de planification. Les coûts totaux de référence sont déterminés après déduction des subventions fédérales et, le cas échéant, des subventions cantonales prévues par d'autres lois. Le Conseil d'Etat arrête les autres critères d'octroi de ce soutien financier.
-
-<sup>2</sup> L'Etat peut accorder un soutien financier aux organismes responsables de la mise en œuvre des mesures des projets d'agglomération pour les mesures d'infrastructures de transports et de requalification des espaces publics, après déduction, le cas échéant, des subventions fédérales et des subventions cantonales prévues par d'autres lois.
-
-<sup>3</sup> Le règlement d'exécution détermine le processus de reconnaissance des mesures ainsi que les modalités d'octroi et le taux du soutien financier. Le Conseil d'Etat fixe le montant maximal du soutien financier pour chaque génération de projet d'agglomération.
+**…**
 
 #### Art. 5
 

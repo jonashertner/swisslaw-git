@@ -4,13 +4,12 @@ number: "140.2"
 title: Gesetz über die Agglomerationen
 short: AggG
 language: de
-version: 2021-01-01
-valid_until: 2022-12-31
-version_adopted: 2020-08-21
+version: 2023-01-01
+version_adopted: 2021-11-05
 adopted: 2020-08-21
 in_force: 2021-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/140.2"
-pdf: "https://bdlf.fr.ch/api/de/versions/6679/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7578/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Agglomerationen – G
 
 (AggG)
 
-vom 21.08.2020 (Fassung in Kraft getreten am 01.01.2021)
+vom 21.08.2020 (Fassung in Kraft getreten am 01.01.2023)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -66,13 +65,7 @@ beschliesst:
 
 #### Art. 4
 
-**Voraussetzungen und Modalitäten der staatlichen Unterstützung**
-
-<sup>1</sup> Der Staat unterstützt die Studien zur Ausarbeitung von Agglomerationsprogrammen finanziell in der Höhe von 30 % der Gesamtkosten und bis zu einem Betrag von höchstens 300'000 Franken pro Planungsperiode. Die Gesamt-Referenzkosten werden nach Abzug der Bundessubventionen und gegebenenfalls der in anderen Gesetzen vorgesehenen kantonalen Subventionen bestimmt. Der Staatsrat legt die weiteren Kriterien für die Gewährung dieser finanziellen Unterstützung fest.
-
-<sup>2</sup> Der Staat kann den Trägerschaften, die für die Umsetzung der Massnahmen des Agglomerationsprogramms verantwortlich sind, eine zusätzliche finanzielle Unterstützung für die Verkehrsinfrastrukturmassnahmen und die Massnahmen zur Neugestaltung des öffentlichen Raums gewähren, gegebenenfalls nach Abzug der Bundessubventionen und der in anderen Gesetzen vorgesehenen kantonalen Subventionen.
-
-<sup>3</sup> Im Vollzugsreglement werden das Verfahren zur Anerkennung von Massnahmen sowie die Modalitäten für die Gewährung und der Anteil der finanziellen Unterstützung bestimmt. Der Staatsrat legt den Höchstbetrag der finanziellen Unterstützung für jede Generation eines Agglomerationsprogramms fest.
+**…**
 
 #### Art. 5
 
