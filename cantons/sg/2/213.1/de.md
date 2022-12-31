@@ -4,13 +4,13 @@ number: "213.1"
 title: Volksschulgesetz
 short: VSG
 language: de
-version: 2021-08-03
-valid_until: 2022-12-31
-version_adopted: 2021-08-03
+version: 2023-01-01
+valid_until: 2023-02-28
+version_adopted: 2023-08-08
 adopted: 1983-01-13
 in_force: 1983-04-16
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/213.1"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3214/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3532/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3214/pdf_file"
 
 (VSG)
 
-vom 13.01.1983 (Stand 03.08.2021)
+vom 13.01.1983 (Stand 01.01.2023)
 
 Der Grosse Rat des Kantons St.Gallen
 
@@ -272,35 +272,33 @@ als Gesetz:[^ingress-3]
 
 #### Art. 21
 
-**Lehrmittel a) Bezeichnung**
+**Lehrmittel a) Qualitätskriterien und Empfehlung**
 
-<sup>1</sup> Der Bildungsrat bezeichnet die obligatorischen Lehrmittel.
+<sup>1</sup> Der Bildungsrat legt Qualitätskriterien für Lehrmittel fest.
 
-<sup>2</sup> Er kann weitere Lehrmittel empfehlen.
+<sup>2</sup> Die Schulträger empfehlen Lehrmittel auf Grundlage der Qualitätskriterien nach Abs. 1 dieser Bestimmung. Sie sprechen sich in geeigneter Weise untereinander ab und beziehen die fachliche Einschätzung des zuständigen Departementes in ihre Entscheidungsfindung mit ein.
 
 #### Art. 22
 
-**b) Abgabe 1. durch den Kanton**
+**b) Entwicklung und Abgabe durch den Kanton**
 
-<sup>1</sup> Der Kanton gibt den Schulträgern und den Trägern anerkannter privater Sonderschulen die obligatorischen und die empfohlenen Lehrmittel ab.
+<sup>1</sup> Der Kanton kann Lehrmittel entwickeln und diese den Schulträgern unentgeltlich abgeben.
 
-<sup>2</sup> Der Kanton und der Schulträger tragen die Kosten der abgegebenen Lehrmittel je zur Hälfte. Für Lehrmittel, die der Kanton den Trägern anerkannter privater Sonderschulen abgibt, trägt der Kanton die Kosten vollumfänglich.
+<sup>2</sup> Für Lehrmittel, die der Kanton den Trägern anerkannter privater Sonderschulen abgibt, trägt er die Kosten.
+
+<sup>3</sup> Für die Erstellung, den Einkauf und die Abgabe von Lehrmitteln führt der Kanton eine eigene Rechnung auf Vollkostenbasis. Gewinn und Verlust werden auf die nächste Rechnung vorgetragen.
 
 #### Art. 23
 
-**2. durch den Schulträger**
+**c) Bestimmung und Abgabe durch den Schulträger**
 
-<sup>1</sup> Der Schulträger stellt weitere Lehrmittel und das Verbrauchsmaterial zur Verfügung.
+<sup>1</sup> Der Schulträger bestimmt die Lehrmittel und stellt diese und das Verbrauchsmaterial zur Verfügung. Er trägt hierfür die Kosten.
 
 <sup>2</sup> Der Rat kann für Fächer und Kurse, deren Durchführung einen ausserordentlichen Materialaufwand erfordert, von den Eltern einen Beitrag an die Kosten verlangen.
 
 #### Art. 23bis
 
-**c) eigene Rechnung**
-
-<sup>1</sup> Für die Erstellung, den Einkauf und die Abgabe von Lehrmitteln in seinem Zuständigkeitsbereich führt der Kanton eine eigene Rechnung auf Vollkostenbasis.
-
-<sup>2</sup> Gewinn und Verlust werden auf die nächste Rechnung vorgetragen.
+**…**
 
 #### Art. 24
 
