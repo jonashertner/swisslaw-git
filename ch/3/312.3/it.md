@@ -3,18 +3,18 @@ sr: "312.3"
 title: Ordinanza del 10 novembre 2004 concernente la comunicazione di decisioni penali cantonali
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/729"
 language: it
-version: 2021-12-01
+version: 2023-01-01
 adopted: 2004-11-10
 in_force: 2005-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/729/20211201/it/xml/fedlex-data-admin-ch-eli-cc-2004-729-20211201-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/729/20211201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/729/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2004-729-20230101-it-xml-11.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/729/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Ordinanza concernente la comunicazione di decisioni penali cantonali****
+# Ordinanza concernente la comunicazione di decisioni penali cantonali
 
-del 10 novembre 2004 (Stato 1° dicembre 2021) (Stato 1° dicembre 2021)[^t-1]
+del 10 novembre 2004 (Stato 1° gennaio 2023)[^t-1]
 
 [^t-1]: Tit. abbreviato abrogato dal n. II 1 dell’O del 3 dic. 2010, con effetto dal 1° gen. 2011 ([RU 2010 5999](https://fedlex.data.admin.ch/eli/oc/2010/862)).
 
@@ -92,7 +92,7 @@ Le autorità cantonali comunicano tutte le sentenze, decisioni amministrative di
 - 24\. legge del 20 giugno 1986 sulla caccia (RS *922.0*): comunicazione all’Ufficio federale dell’ambiente;
 - 25\. legge federale del 21 giugno 1991 sulla pesca (RS *923.0*): comunicazione all’Ufficio federale dell’ambiente;
 - 25<sup>bis</sup>.[^3-13] legge del 16 dicembre 2005 sui revisori (RS *221.302*): comunicazione all’Autorità federale di sorveglianza dei revisori;
-- 26\. legge federale del 9 giugno 1977[^3-14] sulla metrologia [RU *1977* 2394]: comunicazione all'Istituto federale di metrologia (METAS)[^3-15];
+- 26\. legge federale del 9 giugno 1977[^3-14] sulla metrologia [RU *1977* 2394]: comunicazione all’Istituto federale di metrologia (METAS)[^3-15];
 - 27\. legge del 20 giugno 1933 sul controllo dei metalli preziosi (RS *941.31*): comunicazione all’Amministrazione federale delle dogane;
 - 28\. legge del 25 marzo 1977 sugli esplosivi (RS *941.41*): comunicazione all’Ufficio federale di polizia;
 - 28<sup>bis</sup>.[^3-16] legge federale del 6 ottobre 1995 sugli ostacoli tecnici al commercio (RS *946.51*): comunicazione alla Segreteria di Stato dell’economia;
@@ -131,11 +131,11 @@ Le decisioni penali devono essere trasmesse immediatamente, in copia integrale e
 
 La presente ordinanza entra in vigore il 1° gennaio 2005.
 
-Allegato*[^t-2]*
+Allegato[^t-2]
 
 ## Compendio delle norme federali che prevedono esse stesse l’obbligo di comunicazione
 
-[^t-2]: Aggiornato dall’all. 4 n. II 12 dell’O del 22 ago. 2007 sui revisori ([RU 2007 3989](https://fedlex.data.admin.ch/eli/oc/2007/534)), dal n. 4 dell’all. all’O del 19 ott. 2011 ([RU 2011 4759](https://fedlex.data.admin.ch/eli/oc/2011/674)), dal n. I dell’O del 2 set. 2015 ([RU 2015 3159](https://fedlex.data.admin.ch/eli/oc/2015/591)), dal n. III 1 dell’O del 3 giu. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)) e dall’all. 4 n. II 3 dell’O del del 16 ago. 2017 sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)).
+[^t-2]: Aggiornato dall’all. 4 n. II 12 dell’O del 22 ago. 2007 sui revisori ([RU 2007 3989](https://fedlex.data.admin.ch/eli/oc/2007/534)), dal n. 4 dell’all. all’O del 19 ott. 2011 ([RU 2011 4759](https://fedlex.data.admin.ch/eli/oc/2011/674)), dal n. I dell’O del 2 set. 2015 ([RU 2015 3159](https://fedlex.data.admin.ch/eli/oc/2015/591)), dal n. III 1 dell’O del 3 giu. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)), dall’all. 4 n. II 3 dell’O del del 16 ago. 2017 sulle attività informative ([RU 2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)) e dall’all. 2 n. 4 dell’O del 25 mag. 2022 sui precursori di sostanze esplodenti, in vigore dal 1° gen. 2023 ([RU 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)).
 
 - 1\. Legge federale del 25 settembre 2015 sulle attività informative, articolo 74 capoverso 7 (RS *121*);
 - 1*a*. Legge federale del 16 dicembre 1983 sull’acquisto di fondi da parte di persone all’estero, articolo 35 (RS *211.412.41*);
@@ -151,13 +151,14 @@ Allegato*[^t-2]*
 - 11\. ...
 - 12\. Legge federale del 23 settembre 1953 sulla navigazione marittima sotto bandiera svizzera, articolo 15 capoverso 3 (RS *747.30*);
 - 13\. Legge federale del 3 ottobre 1951 sugli stupefacenti, articolo 28 capoverso 2[^annexu1-lvlu1-3] (RS *812.121*);
-- [tab] 14. Legge del 6 ottobre 1995 sul servizio civile, articolo 78*a* capoverso 1 (RS *824.0*);
-- [tab] 15 a 18. ...
+- 14\. Legge del 6 ottobre 1995 sul servizio civile, articolo 78*a* capoverso 1 (RS *824.0*);
+- 15\. a 18. ...
 - 19\. Legge del 29 aprile 1998 sull’agricoltura, articolo 166 capoverso 4 (RS *910.1*);
 - 20\. Legge del 20 giugno 1986 sulla caccia, articolo 22 capoverso 1 (RS *922.0*);
 - 21\. Legge federale dell’8 giugno 1923 concernente le lotterie e le scommesse professionalmente organizzate, articolo 52 capoverso 1 [CS *10* 250];
-- [tab] 21<sup>bis</sup>. Legge del 16 dicembre 2005 sui revisori, articolo 24 (RS *221.302*);
+- 21<sup>bis</sup>. Legge del 16 dicembre 2005 sui revisori, articolo 24 (RS *221.302*);
 - 22\. Legge federale del 26 settembre 1958 concernente la garanzia dei rischi delle esportazioni, articolo 16 capoverso 5 [RU *1959* 385][^annexu1-lvlu1-4];
+- 22<sup>bis</sup>. Legge federale del 25 settembre 2020 sui precursori di sostanze esplodenti, articolo 20 (RS *941.42*);
 - 23\. Legge del 10 ottobre 1997 sul riciclaggio di denaro, articolo 29 capoverso 2[^annexu1-lvlu1-5] (RS *955.0*).
 
 [^annexu1-lvlu1-1]: Questo cpv. è abrogato.

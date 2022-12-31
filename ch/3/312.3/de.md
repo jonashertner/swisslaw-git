@@ -3,18 +3,18 @@ sr: "312.3"
 title: Verordnung vom 10. November 2004 über die Mitteilung kantonaler Strafentscheide
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/729"
 language: de
-version: 2021-12-01
+version: 2023-01-01
 adopted: 2004-11-10
 in_force: 2005-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/729/20211201/de/xml/fedlex-data-admin-ch-eli-cc-2004-729-20211201-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/729/20211201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/729/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2004-729-20230101-de-xml-11.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/729/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Verordnung über die Mitteilung kantonaler Strafentscheide****
+# Verordnung über die Mitteilung kantonaler Strafentscheide
 
-vom 10. November 2004 (Stand am 1. Dezember 2021)[^t-1]
+vom 10. November 2004 (Stand am 1. Januar 2023)[^t-1]
 
 [^t-1]: Kurztitel aufgehoben durch Ziff. II 1 der V vom 3. Dez. 2010 über die Anpassung des Verordnungsrechts im Hinblick auf das Inkrafttreten der Strafprozessordnung, mit Wirkung seit 1. Jan. 2011 ([AS 2010 5999](https://fedlex.data.admin.ch/eli/oc/2010/862)).
 
@@ -131,11 +131,11 @@ Die Strafentscheide sind nach ihrem Erlass ohne Verzug in vollständiger Ausfert
 
 Diese Verordnung tritt am 1. Januar 2005 in Kraft.
 
-Anhang*[^t-2]*
+Anhang[^t-2]
 
 ## Übersicht über die Bestimmungen des Bundesrechts, welche die Mitteilungspflicht selbst begründen
 
-[^t-2]: Bereinigt gemäss Anhang Ziff. II 4 der Revisionsaufsichtsverordnung vom 22. Aug. 2007 ([AS 2007 3989](https://fedlex.data.admin.ch/eli/oc/2007/534)), Anhang Ziff. 4 der V vom 19. Okt. 2011 ([AS 2011 4759](https://fedlex.data.admin.ch/eli/oc/2011/674)), Ziff. I der V vom 2. Sept. 2015 ([AS 2015 3159](https://fedlex.data.admin.ch/eli/oc/2015/591)), Ziff. III 1 der V vom 3. Juni 2016 ([AS 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)) und Anhang 4 Ziff. II 3 der Nachrichtendienstverordnung vom 16. Aug. 2017, in Kraft seit 1. Sept. 2017 ([AS 2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)).
+[^t-2]: Bereinigt gemäss Anhang Ziff. II 4 der Revisionsaufsichtsverordnung vom 22. Aug. 2007 ([AS 2007 3989](https://fedlex.data.admin.ch/eli/oc/2007/534)), Anhang Ziff. 4 der V vom 19. Okt. 2011 ([AS 2011 4759](https://fedlex.data.admin.ch/eli/oc/2011/674)), Ziff. I der V vom 2. Sept. 2015 ([AS 2015 3159](https://fedlex.data.admin.ch/eli/oc/2015/591)), Ziff. III 1 der V vom 3. Juni 2016 ([AS 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)), Anhang 4 Ziff. II 3 der Nachrichtendienstverordnung vom 16. Aug. 2017 ([AS 2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)) und Anhang 2 Ziff. 4 der Vorläuferstoffverordnung vom 25. Mai 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)).
 
 - 1\. Nachrichtendienstgesetz vom 25. September 2015, Artikel 74 Absatz 7 (SR *121*)
 - 1*a*. Bundesgesetz vom 16. Dezember 1983 über den Erwerb von Grundstücken durch Personen im Ausland, Artikel 35 (SR *211.412.41*);
@@ -146,8 +146,8 @@ Anhang*[^t-2]*
 - 6\. Bundesgesetz vom 15. Juni 1934 über die Bundesstrafrechtspflege, Artikel 255 [BStP; BS *3* 303], betreffend Strafsachen, die gestützt auf die Artikel 18 und 18<sup>bis</sup> BStP an die Kantone übertragen worden sind;
 - 7\. Bundesgesetz vom 19. März 2004 über die Teilung eingezogener Vermögenswerte, Artikel 6 Absatz 1 (SR *312.4*);
 - 8\. Bundesgesetz vom 22. März 1974 über das Verwaltungsstrafrecht, Artikel 79 Absatz 2 in Verbindung mit Artikel 74 Absatz 1, betreffend Strafsachen, die gestützt auf Artikel 73 Absatz 1 an die Kantone übertragen worden sind (SR *313.0*);
-- 9\. Bevölkerungs- und Zivilschutzgesetz vom 4. Oktober 2002, Artikel 70 Absatz 2[^annexu1-lvlu1-1] (AS *2003* 4187);
-- 10\. Landesversorgungsgesetz vom 8. Oktober 1982, Artikel 50 Absatz 3 (AS *1983* 931)[^annexu1-lvlu1-2];
+- 9\. Bevölkerungs- und Zivilschutzgesetz vom 4. Oktober 2002, Artikel 70 Absatz 2[^annexu1-lvlu1-1] [AS *2003* 4187];
+- 10\. Landesversorgungsgesetz vom 8. Oktober 1982, Artikel 50 Absatz 3 [AS *1983* 931][^annexu1-lvlu1-2];
 - 11\. ...
 - 12\. Seeschifffahrtsgesetz vom 23. September 1953, Artikel 15 Absatz 3 (SR *747.30*);
 - 13\. Betäubungsmittelgesetz vom 3. Oktober 1951, Artikel 28 Absatz 2 (SR *812.121*)[^annexu1-lvlu1-3];
@@ -156,8 +156,9 @@ Anhang*[^t-2]*
 - 19\. Landwirtschaftsgesetz vom 29. April 1998, Artikel 166 Absatz 4 (SR *910.1*);
 - 20\. Jagdgesetz vom 20. Juni 1986, Artikel 22 Absatz 1 (SR *922.0*);
 - 21\. Bundesgesetz vom 8. Juni 1923 betreffend die Lotterien und die gewerbsmässigen Wetten, Artikel 52 Absatz 1 [BS *10* 255];
-- [tab] 21<sup>bis</sup>. Revisionsaufsichtsgesetz vom 16. Dezember 2005, Artikel 24 (BS *10* 255);
+- [tab] 21<sup>bis</sup>. Revisionsaufsichtsgesetz vom 16. Dezember 2005, Artikel 24 (SR *321.302*);
 - 22\. Bundesgesetz vom 26. September 1958 über die Exportrisikogarantie, Artikel 16 Absatz 5 [AS *1959* 391][^annexu1-lvlu1-4];
+- [tab] 22<sup>bis</sup>. Vorläuferstoffgesetz vom 25. September 2020, Artikel 20 (SR *941.42*);
 - 23\. Geldwäschereigesetz vom 10. Oktober 1997, Artikel 29 Absatz 2[^annexu1-lvlu1-5] (SR *955.0*).
 
 [^annexu1-lvlu1-1]: Dieser Abs. ist heute aufgehoben.

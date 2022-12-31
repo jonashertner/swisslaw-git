@@ -3,18 +3,18 @@ sr: "312.3"
 title: Ordonnance du 10 novembre 2004 réglant la communication des décisions pénales prises par les autorités cantonales
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/729"
 language: fr
-version: 2021-12-01
+version: 2023-01-01
 adopted: 2004-11-10
 in_force: 2005-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/729/20211201/fr/xml/fedlex-data-admin-ch-eli-cc-2004-729-20211201-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/729/20211201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/729/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2004-729-20230101-fr-xml-11.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/729/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Ordonnance réglant la communication des décisions pénales prises par les autorités cantonales****
+# Ordonnance réglant la communication des décisions pénales prises par les autorités cantonales
 
-du 10 novembre 2004 (Etat le 1<sup>er</sup> décembre 2021)[^t-1]
+du 10 novembre 2004 (État le 1<sup>er</sup> janvier 2023)[^t-1]
 
 [^t-1]: Tit. court abrogé par le ch. II 1 de l’O du 3 déc. 2010, avec effet au 1<sup>er</sup> janv. 2011 ([RO 2010 5999](https://fedlex.data.admin.ch/eli/oc/2010/862)).
 
@@ -99,7 +99,7 @@ Les autorités cantonales sont tenues de communiquer tous les jugements, prononc
 - 29\.[^3-16] loi du 22 juin 2007 sur la surveillance des marchés financiers (LFINMA)[^3-17]: communication à l’Autorité fédérale de surveillance des marchés financiers (FINMA);
 - 30\.[^3-18] lois sur les marchés financiers visées à l’art. 1, al. 1, LFINMA: communication à la FINMA.
 
-[^3-1]: Actuellement: Loi du 16 déc. 2005 sur les étrangers et l'intégration ([RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)).
+[^3-1]: Actuellement: Loi du 16 déc. 2005 sur les étrangers et l’intégration ([RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)).
 [^3-2]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2015 en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Il a été tenu compte de cette mod. dans tout le texte.
 [^3-3]: Actuellement: L du 21 juin 2013 sur la protection des armoiries de la Suisse et des autres signes publics ([RS 232.21](https://fedlex.data.admin.ch/eli/cc/2015/613)).
 [^3-4]: Actuellement: L du 17 juin 2011 sur l’encouragement du sport ([RS 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)).
@@ -113,7 +113,7 @@ Les autorités cantonales sont tenues de communiquer tous les jugements, prononc
 [^3-12]: Introduit par l’annexe ch. II 4 de l’O du 22 août 2007 sur la surveillance de la révision, en vigueur depuis le 1<sup>er</sup> sept. 2007 ([RO 2007 3989](https://fedlex.data.admin.ch/eli/oc/2007/534)).
 [^3-13]: Actuellement: LF du 17 juin 2011 sur la métrologie ([RS 941.20](https://fedlex.data.admin.ch/eli/cc/2012/734)).
 [^3-14]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2013 en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
-[^3-15]: Introduit par le ch. 1 de l’annexe à l’O du 19 mai 2010 sur la mise sur le marché de produits fabriqués selon des prescriptions étrangères, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2631](https://fedlex.data.admin.ch/eli/oc/2010/350)).
+[^3-15]: Introduit par l’annexe ch. 1 de l’O du 19 mai 2010 sur la mise sur le marché de produits fabriqués selon des prescriptions étrangères, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2010 2631](https://fedlex.data.admin.ch/eli/oc/2010/350)).
 [^3-16]: Nouvelle teneur selon l’annexe 1 ch. II 3 de l’O du 6 nov. 2019 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
 [^3-17]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
 [^3-18]: Nouvelle teneur selon l’annexe 1 ch. II 3 de l’O du 6 nov. 2019 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4633](https://fedlex.data.admin.ch/eli/oc/2019/763)).
@@ -130,11 +130,11 @@ Les décisions pénales doivent être communiquées en expédition intégrale sa
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2005.
 
-Annexe*[^t-2]*
+Annexe[^t-2]
 
 ## Vue d’ensemble des dispositions du droit fédéral énonçant l’obligation de communiquer les décisions
 
-[^t-2]: Mise à jour par l’annexe ch. II 4 de l’O du 22 août 2007 sur la surveillance de la révision ([RO 2007 3989](https://fedlex.data.admin.ch/eli/oc/2007/534)), l’annexe ch. 4 de l’O du 19 oct. 2011 ([RO 2011 4759](https://fedlex.data.admin.ch/eli/oc/2011/674)), le ch. I de l’O du 2 sept. 2015 ([RO 2015 3159](https://fedlex.data.admin.ch/eli/oc/2015/591)), le ch. III 1 de l’O du 3 juin 2016 ([RO 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)) et l’annexe 4 ch. II 3 de l’O du 16 août 2017 sur le renseignement, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)).
+[^t-2]: Mise à jour par l’annexe ch. II 4 de l’O du 22 août 2007 sur la surveillance de la révision ([RO 2007 3989](https://fedlex.data.admin.ch/eli/oc/2007/534)), l’annexe ch. 4 de l’O du 19 oct. 2011 ([RO 2011 4759](https://fedlex.data.admin.ch/eli/oc/2011/674)), le ch. I de l’O du 2 sept. 2015 ([RO 2015 3159](https://fedlex.data.admin.ch/eli/oc/2015/591)), le ch. III 1 de l’O du 3 juin 2016 ([RO 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)), l’annexe 4 ch. II 3 de l’O du 16 août 2017 sur le renseignement ([RO 2017 4151](https://fedlex.data.admin.ch/eli/oc/2017/495)) et l’annexe 2 ch. 4 de l’O du 25 mai 2022 sur les précurseurs de substances explosibles, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)).
 
 - 1\. Loi fédérale du 25 septembre 2015 sur le renseignement, art. 74, al. 7 (RS *121*);
 - 1*a*. Loi fédérale du 16 décembre 1983 sur l’acquisition d’immeubles par des personnes à l’étranger, art. 35 (RS *211.412.41*);
@@ -151,12 +151,13 @@ Annexe*[^t-2]*
 - 12\. Loi fédérale du 23 septembre 1953 sur la navigation maritime sous pavillon suisse, art. 15, al. 3 (RS *747.30*);
 - 13\. Loi du 3 octobre 1951 sur les stupéfiants, art. 28, al. 2[^annexu1-lvlu1-3] (RS *812.121*);
 - 14\. Loi fédérale du 6 octobre 1995 sur le service civil, art. 78*a*, al. 1 (RS *824.0*);
-- 15\. à 18 ...
+- 15\. à 18. ...
 - 19\. Loi du 29 avril 1998 sur l’agriculture, art. 166, al. 4 (RS *910.1*);
 - 20\. Loi du 20 juin 1986 sur la chasse, art. 22, al. 1 (RS *922.0*);
 - 21\. Loi fédérale du 8 juin 1923 sur les loteries et les paris professionnels, art. 52, al. 1 [RS *10* 247];
 - 21<sup>bis</sup>. Loi fédérale du 16 décembre 2005 sur la surveillance de la révision, art. 24 (RS *221.302*);
 - 22\. Loi fédérale du 26 septembre 1958 sur la garantie contre les risques à l’exportation, art. 16, al. 5 [RO *1959* 409][^annexu1-lvlu1-4];
+- 22<sup>bis</sup>. Loi fédérale du 25 septembre 2020 sur les précurseurs de substances explosibles, art. 20 (RS *941.42*);
 - 23\. Loi du 10 octobre 1997 sur le blanchiment d’argent, art. 29, al. 2[^annexu1-lvlu1-5] (RS *955.0*).
 
 [^annexu1-lvlu1-1]: Cet al. est abrogé.
