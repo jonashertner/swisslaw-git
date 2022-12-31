@@ -3,11 +3,11 @@ sr: "0.412.151.4"
 title: Accordo del 30 ottobre 2014 tra il Consiglio federale svizzero e il Governo del Principato del Liechtenstein sul riconoscimento reciproco di attestati di capacità e certificati di formazione pratica della formazione professionale di base (con all.)
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/16"
 language: it
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2014-10-30
 in_force: 2015-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/16/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2015-16-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/16/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/16/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2015-16-20230101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/16/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Concluso il 30 ottobre 2014 Entrato in vigore mediante scambio di note il 1° gennaio 2015
 
-(Stato 1° gennaio 2022)
+(Stato 1° gennaio 2023)
 
 Il Consiglio federale svizzero
 
@@ -111,16 +111,16 @@ Fatto a Berna, il 30 ottobre 2014, in duplice originale in lingua tedesca.
 <tr><td>Per il Consiglio federale svizzero: Johann N. Schneider-Ammann</td><td>Per il Governo del Principato del Liechtenstein: Aurelia Frick</td></tr>
 </table>
 
-Allegato*[^t-1]*
+Allegato[^t-1]
 
 (art. 4 cpv. 1)
 
-## Certificati della formazione professionale di base reciprocamente riconosciuti****
+## Certificati della formazione professionale di base reciprocamente riconosciuti
 
 [^annexu1-lvlu1-1]
 
-[^t-1]: Aggiornato dalle mod. in vigore dal 1° gen. 2016 ([RU 2016 47](https://fedlex.data.admin.ch/eli/oc/2016/9)), dal 1° gen. 2017 ([RU 2016 3151](https://fedlex.data.admin.ch/eli/oc/2016/525)), dal 1° gen. 2018 ([RU 2017 5201](https://fedlex.data.admin.ch/eli/oc/2017/572)), dal 1° gen. 2019 ([RU 2019 837](https://fedlex.data.admin.ch/eli/oc/2019/142)), dal 1° gen. 2020 ([RU 2019 2943](https://fedlex.data.admin.ch/eli/oc/2019/535)), dal 1° gen. 2021 ([RU 2021 93](https://fedlex.data.admin.ch/eli/oc/2021/93)) e dal 1° gen. 2022 ([RU 2021 923](https://fedlex.data.admin.ch/eli/oc/2021/923)).
-[^annexu1-lvlu1-1]: Tutti i titoli sono pubblicati nella Raccolta ufficiale delle leggi federali (RU) mediante rimando alla rispettiva ordinanza. Le ordinanze svizzere determinanti ai fini del riconoscimento reciproco dei diplomi non sono pubblicate né nella RU né nella Raccolta sistematica (RS). Possono essere ottenute presso l’Ufficio federale delle costruzioni e della logistica (UFCL), Vendita di pubblicazioni federali, 3003 Berna, www.bundespublikationen.ch. Il testo è pubblicato su Internet e può essere scaricato all’indirizzo www.bvz.admin.ch. Per ogni titolo è inoltre pubblicata la rispettiva ordinanza nel Liechtensteinischen Landesgesetzblatt. Le ordinanze del Liechtenstein determinanti ai fini del riconoscimento reciproco dei diplomi sono pubblicate su Internet all’indirizzo www.gesetze.li.
+[^t-1]: Aggiornato dalle mod. in vigore dal 1° gen. 2016 ([RU 2016 47](https://fedlex.data.admin.ch/eli/oc/2016/9)), dal 1° gen. 2017 ([RU 2016 3151](https://fedlex.data.admin.ch/eli/oc/2016/525)), dal 1° gen. 2018 ([RU 2017 5201](https://fedlex.data.admin.ch/eli/oc/2017/572)), dal 1° gen. 2019 ([RU 2019 837](https://fedlex.data.admin.ch/eli/oc/2019/142)), dal 1° gen. 2020 ([RU 2019 2943](https://fedlex.data.admin.ch/eli/oc/2019/535)), dal 1° gen. 2021 ([RU 2021 93](https://fedlex.data.admin.ch/eli/oc/2021/93)), dal 1° gen. 2022 ([RU 2021 923](https://fedlex.data.admin.ch/eli/oc/2021/923)) e dal 1° gen. 2023 ([RU 2022 653](https://fedlex.data.admin.ch/eli/oc/2022/653)).
+[^annexu1-lvlu1-1]: Per ogni titolo è pubblicata nella Raccolta ufficiale delle leggi federali (RU) e poi ripresa nella Raccolta sistematica del diritto federale (RS) un’ordinanza corrispondente. Queste ordinanze svizzere, determinanti ai fini del riconoscimento reciproco dei diplomi, sono disponibili sulla piattaforma di pubblicazione della Confederazione, accessibile al pubblico, all’indirizzo [www.fedlex.admin.ch](http://www.fedlex.admin.ch/) Per ogni titolo è inoltre pubblicata la rispettiva ordinanza nel Liechtensteinischen Landesgesetzblatt. Le ordinanze del Liechtenstein determinanti ai fini del riconoscimento reciproco dei diplomi sono pubblicate su Internet all’indirizzo www.gesetze.li.
 
 <table>
 <tr><th>Numero della professione</th><th colspan="2">Denominazione maschile CH/FL</th><th colspan="2">Denominazione femminile CH/FL</th><th colspan="2">Indirizzo professionale</th></tr>
@@ -172,6 +172,7 @@ Allegato*[^t-1]*
 <tr><td>51007</td><td colspan="2">Aiuto muratore CFP/ Aiuto muratore CP</td><td colspan="2">Aiuto muratrice CFP/ Aiuto muratrice CP</td><td colspan="2"></td></tr>
 <tr><td>51104</td><td colspan="2">Aiuto piastrellista CFP/ Aiuto piastrellista CP</td><td colspan="2">Aiuto piastrellista CFP/ Aiuto piastrellista CP</td><td colspan="2"></td></tr>
 <tr><td>53003</td><td colspan="2">Aiuto pittore CFP/ Aiuto pittore CP</td><td colspan="2">Aiuto pittrice CFP/ Aiuto pittrice CP</td><td colspan="2"></td></tr>
+<tr><td>35318</td><td colspan="2">Allestitore di prodotti stampati AFC / Allestitore di prodotti stampati AC</td><td colspan="2">Allestitore di prodotti stampati AFC / Allestitore di prodotti stampati AC</td><td colspan="2"></td></tr>
 <tr><td>35316</td><td colspan="2">Assistente alla stampa e all’allestimento CFP/Assistente alla stampa e all’allestimento CP</td><td colspan="2">Assistente alla stampa e all’allestimento CFP/Assistente alla stampa e all’allestimento CP</td><td colspan="2"></td></tr>
 <tr><td>68103</td><td colspan="2">Assistente d’ufficio CFP/ Assistente d’ufficio CP</td><td colspan="2">Assistente d’ufficio CFP/ Assistente d’ufficio CP</td><td colspan="2"></td></tr>
 <tr><td>71100</td><td colspan="2">Assistente del commercio al dettaglio CFP/Assistente del commercio al dettaglio CP</td><td colspan="2">Assistente del commercio al dettaglio CFP/Assistente del commercio al dettaglio CP</td><td colspan="2"></td></tr>
@@ -203,9 +204,12 @@ Allegato*[^t-1]*
 <tr><td>71195</td><td colspan="2">Assistente del commercio al dettaglio CFP/Assistente del commercio al dettaglio CP</td><td colspan="2">Assistente del commercio al dettaglio CFP/Assistente del commercio al dettaglio CP</td><td colspan="2">Rami: Gestione pezzi di ricambio</td></tr>
 <tr><td>71197</td><td colspan="2">Assistente del commercio al dettaglio CFP/Assistente del commercio al dettaglio CP</td><td colspan="2">Assistente del commercio al dettaglio CFP/Assistente del commercio al dettaglio CP</td><td colspan="2">Rami: Chioschi</td></tr>
 <tr><td>71198</td><td colspan="2">Assistente del commercio al dettaglio CFP/Assistente del commercio al dettaglio CP</td><td colspan="2">Assistente del commercio al dettaglio CFP/Assistente del commercio al dettaglio CP</td><td colspan="2">Rami: Posta</td></tr>
+<tr><td>71800– 71822</td><td colspan="2">Assistente del commercio al dettaglio CFP / Assistente del commercio al dettaglio CP</td><td colspan="2">Assistente del commercio al dettaglio CFP / Assistente del commercio al dettaglio CP</td><td colspan="2"></td></tr>
+<tr><td>71900– 71922</td><td colspan="2">Impiegato del commercio al dettaglio AFC & Impiegato del commercio al dettaglio AC</td><td colspan="2">Impiegata del commercio al dettaglio AFC / Impiegata del commercio al dettaglio AC</td><td colspan="2"></td></tr>
 <tr><td>86912</td><td colspan="2">Assistente dentale AFC/ Assistente dentale AC</td><td colspan="2">Assistente dentale AFC/ Assistente dentale AC</td><td colspan="2"></td></tr>
 <tr><td>86916</td><td colspan="2">Assistente dentale AFC / Assistente dentale AC</td><td colspan="2">Assistente dentale AFC / Assistente dentale AC</td><td colspan="2"></td></tr>
 <tr><td>70610</td><td colspan="2">Assistente di farmacia AFC/ Assistente di farmacia AC</td><td colspan="2">Assistente di farmacia AFC/ Assistente di farmacia AC</td><td colspan="2"></td></tr>
+<tr><td>70611</td><td colspan="2">Assistente di farmacia AFC / Assistente di farmacia AC</td><td colspan="2">Assistente di farmacia AFC / Assistente di farmacia AC</td><td colspan="2"></td></tr>
 <tr><td>46317</td><td colspan="2">Assistente di manutenzione per automobili CFP/Assistente di manutenzione per automobili CP</td><td colspan="2">Assistente di manutenzione per automobili CFP/Assistente di manutenzione per automobili CP</td><td colspan="2"></td></tr>
 <tr><td>46318</td><td colspan="2">Assistente di manutenzione per automobili CFP/ Assistente di manutenzione per automobili CP</td><td colspan="2">Assistente di manutenzione per automobili CFP/ Assistente di manutenzione per automobili CP</td><td colspan="2"></td></tr>
 <tr><td>86910</td><td colspan="2">Assistente di studio medico AFC/ Assistente di studio medico AC</td><td colspan="2">Assistente di studio medico AFC/ Assistente di studio medico AC</td><td colspan="2"></td></tr>
@@ -270,6 +274,7 @@ Allegato*[^t-1]*
 <tr><td>64104</td><td colspan="2">Geomatico AFC/Geomatico AC</td><td colspan="2">Geomatica AFC/Geomatica AC</td><td colspan="2"></td></tr>
 <tr><td>52002</td><td colspan="2">Gessatore-costruttore a secco AFC/ Gessatore-costruttore a secco AC</td><td colspan="2">Gessatrice-costruttrice a secco AFC/ Gessatrice-costruttrice a secco AC</td><td colspan="2"></td></tr>
 <tr><td>70507</td><td colspan="2">Gestore dell’informazione e della documentazione AFC/ Gestore dell’informazione e della documentazione AC</td><td colspan="2">Gestrice dell’informazione e della documentazione AFC/ Gestrice dell’informazione e della documentazione AC</td><td colspan="2"></td></tr>
+<tr><td>70508</td><td colspan="2">Gestore dell’informazione e della documentazione AFC / Gestore dell’informazione e della documentazione AC</td><td colspan="2">Gestrice dell’informazione e della documentazione AFC / Gestrice dell’informazione e della documentazione AC</td><td colspan="2"></td></tr>
 <tr><td>80607</td><td colspan="2">Gestore della cura di tessili AFC/ Gestore della cura di tessili AC</td><td colspan="2">Gestrice della cura di tessili AFC/ Gestrice della cura di tessili AC</td><td colspan="2"></td></tr>
 <tr><td>17000</td><td colspan="2">Giardiniere AFC/Giardiniere AC</td><td colspan="2">Giardiniera AFC/Giardiniera AC</td><td colspan="2"></td></tr>
 <tr><td>17012</td><td colspan="2">Giardiniere AFC/Giardiniere AC</td><td colspan="2">Giardiniera AFC/Giardiniera AC</td><td colspan="2">Paesaggismo</td></tr>
@@ -486,6 +491,7 @@ Allegato*[^t-1]*
 <tr><td>35315</td><td colspan="2">Operatore postpress AFC/ Operatore postpress AC</td><td colspan="2">Operatrice postpress AFC/ Operatrice postpress AC</td><td colspan="2">Allestimento di prodotti stampati (Durata 3 anni)</td></tr>
 <tr><td>53106</td><td colspan="2">Operatore pubblicitario AFC/ Operatore pubblicitario AC</td><td colspan="2">Operatrice pubblicitaria AFC/ Operatrice pubblicitaria AC</td><td colspan="2"></td></tr>
 <tr><td>53108</td><td colspan="2">Operatore pubblicitario AFC Operatore pubblicitario AC</td><td colspan="2">Operatrice pubblicitaria AFC Operatrice pubblicitaria AC</td><td colspan="2"></td></tr>
+<tr><td>53109</td><td colspan="2">Operatore pubblicitario AFC / Operatore pubblicitario AC</td><td colspan="2">Operatore pubblicitario AFC / Operatore pubblicitario AC</td><td colspan="2"></td></tr>
 <tr><td>94303</td><td colspan="2">Operatore socioassistenziale AFC/ Operatore socioassistenziale AC</td><td colspan="2">Operatrice socioassistenziale AFC/ Operatrice socioassistenziale AC</td><td colspan="2"></td></tr>
 <tr><td>94304</td><td colspan="2">Operatore socioassistenziale AFC/ Operatore socioassistenziale AC</td><td colspan="2">Operatrice socioassistenziale AFC/ Operatrice socioassistenziale AC</td><td colspan="2">Assistenza agli handicappati</td></tr>
 <tr><td>94305</td><td colspan="2">Operatore socioassistenziale AFC/ Operatore socioassistenziale AC</td><td colspan="2">Operatrice socioassistenziale AFC/ Operatrice socioassistenziale AC</td><td colspan="2">Assistenza agli anziani</td></tr>
@@ -499,6 +505,7 @@ Allegato*[^t-1]*
 <tr><td>86914</td><td>Operatore sociosanitario AFC/ Operatore sociosanitario AC</td><td colspan="3">Operatrice sociosanitaria AFC/ Operatrice sociosanitaria AC</td><td colspan="2"></td></tr>
 <tr><td>17011</td><td colspan="2">Orticoltore AFC (campo professionale agricoltura)/ Orticoltore AC (campo professionale agricoltura)</td><td colspan="2">Orticoltrice AFC (campo professionale agricoltura)/ Orticoltrice AC (campo professionale agricoltura)</td><td colspan="2"></td></tr>
 <tr><td>85504</td><td colspan="2">Ottico AFC/Ottico AC</td><td colspan="2">Ottica AFC/Ottica AC</td><td colspan="2"></td></tr>
+<tr><td>85506</td><td colspan="2">Ottico AFC / Ottico AC</td><td colspan="2">Ottico AFC / Ottico AC</td><td colspan="2"></td></tr>
 <tr><td>21104</td><td colspan="2">Panettiere-pasticciere-confettiere AFC/ Panettiere-pasticciere-confettiere AC</td><td colspan="2">Panettiera-pasticciera-confettiera AFC/ Panettiera-pasticciera-confettiera AC</td><td colspan="2"></td></tr>
 <tr><td>21105</td><td colspan="2">Panettiere-pasticciere-confettiere AFC/ Panettiere-pasticciere-confettiere AC</td><td colspan="2">Panettiera-pasticciera-confettiera AFC/ Panettiera-pasticciera-confettiera AC</td><td colspan="2">Panetteria-pasticceria</td></tr>
 <tr><td>21106</td><td colspan="2">Panettiere-pasticciere-confettiere AFC/ Panettiere-pasticciere-confettiere AC</td><td colspan="2">Panettiera-pasticciera-confettiera AFC/ Panettiera-pasticciera-confettiera AC</td><td colspan="2">Pasticceria-confetteria</td></tr>
@@ -520,6 +527,7 @@ Allegato*[^t-1]*
 <tr><td>34708</td><td colspan="2">Poligrafo AFC/Poligrafo AC</td><td colspan="2">Poligrafa AFC/Poligrafa AC</td><td colspan="2">Concezione dei media</td></tr>
 <tr><td>34709</td><td colspan="2">Poligrafo AFC/Poligrafo AC</td><td colspan="2">Poligrafa AFC/Poligrafa AC</td><td colspan="2">Produzione dei media</td></tr>
 <tr><td>34710</td><td colspan="2">Poligrafo AFC/Poligrafo AC</td><td colspan="2">Poligrafa AFC/Poligrafa AC</td><td colspan="2"></td></tr>
+<tr><td>34711</td><td colspan="2">Poligrafo AFC / Poligrafo AC</td><td colspan="2">Poligrafa AFC / Poligrafa AC</td><td colspan="2"></td></tr>
 <tr><td>45705</td><td colspan="2">Polimeccanico AFC/ Polimeccanico AC</td><td colspan="2">Polimeccanica AFC/ Polimeccanica AC</td><td colspan="2"></td></tr>
 <tr><td>45706</td><td colspan="2">Polimeccanico AFC/ Polimeccanico AC</td><td colspan="2">Polimeccanica AFC/ Polimeccanica AC</td><td colspan="2">Profilo G</td></tr>
 <tr><td>45707</td><td colspan="2">Polimeccanico AFC/ Polimeccanico AC</td><td colspan="2">Polimeccanica AFC/ Polimeccanica AC</td><td colspan="2">Profilo E</td></tr>
@@ -574,6 +582,7 @@ Allegato*[^t-1]*
 <tr><td>34203</td><td colspan="2">Tecnologo dei media AFC/ Tecnologo dei media AC</td><td colspan="2">Tecnologa dei media AFC/ Tecnologa dei media AC</td><td colspan="2">Serigrafia</td></tr>
 <tr><td>21605</td><td colspan="2">Tecnologo del latte AFC/ Tecnologo del latte AC</td><td colspan="2">Tecnologa del latte AFC/ Tecnologa del latte AC</td><td colspan="2"></td></tr>
 <tr><td>21606</td><td colspan="2">Tecnologo del latte AFC / Tecnologo del latte AC</td><td colspan="2">Tecnologa del latte AFC / Tecnologa del latte AC</td><td colspan="2"></td></tr>
+<tr><td>35317</td><td colspan="2">Tecnologo di rilegatura AFC / Tecnologo di rilegatura AC</td><td colspan="2">Tecnologa di rilegatura AFC / Tecnologa di rilegatura AC</td><td colspan="2"></td></tr>
 <tr><td>34126</td><td colspan="2">Tecnologo di stampa AFC/ Tecnologo di stampa AC</td><td colspan="2">Tecnologa di stampa AFC/ Tecnologa di stampa AC</td><td colspan="2">Serigrafia</td></tr>
 <tr><td>34127</td><td colspan="2">Tecnologo di stampa AFC/ Tecnologo di stampa AC</td><td colspan="2">Tecnologa di stampa AFC/ Tecnologa di stampa AC</td><td colspan="2">Reprografia</td></tr>
 <tr><td>34128</td><td colspan="2">Tecnologo di stampa AFC/ Tecnologo di stampa AC</td><td colspan="2">Tecnologa di stampa AFC/ Tecnologa di stampa AC</td><td colspan="2">Stampa a fogli</td></tr>
