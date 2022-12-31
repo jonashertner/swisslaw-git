@@ -4,13 +4,13 @@ number: "152.210"
 title: Dekret über die Geschäftsführung des Grossen Rates
 short: "Geschäftsordnung, GO"
 language: de
-version: 2020-08-01
-valid_until: 2022-12-31
-version_adopted: 2020-05-12
+version: 2023-01-01
+valid_until: 2025-12-31
+version_adopted: 2022-09-20
 adopted: 1991-06-04
 in_force: 1991-08-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/152.210"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2874/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3262/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2874/pdf_file"
 
 (Geschäftsordnung, GO)
 
-Vom 04.06.1991 (Stand 01.08.2020)
+Vom 04.06.1991 (Stand 01.01.2023)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -55,6 +55,16 @@ beschliesst:
 
 <sup>1</sup> Funktionsbezeichnungen in diesem Dekret beziehen sich auf beide Geschlechter.
 
+#### § 3a
+
+**Vertretung**
+
+<sup>1</sup> Hat eine nichtgewählte Kandidatin oder ein nichtgewählter Kandidat eine Vertretung gemäss § 7a GVG abgelehnt, bleibt die Übernahme einer anderen Vertretung durch diese Kandidatin oder diesen Kandidaten nach wie vor möglich.
+
+<sup>2</sup> Rückt für ein aus dem Grossen Rat ausscheidendes Mitglied eine bereits für ein anderes Mitglied als Vertretung bestimmte Person nach, kann für das bisher vertretene andere Mitglied unter Berücksichtigung einer verbleibenden Mindestdauer von drei Monaten eine neue Vertretung bestimmt werden.
+
+<sup>3</sup> Kann gemäss § 7a Abs. 3 GVG keine Bestimmung der Vertretung erfolgen, ist eine Ergänzungswahl ausgeschlossen.
+
 ## 2. Organisation
 
 ### 2.1. Das Präsidium
@@ -79,7 +89,8 @@ beschliesst:
 - l) er vertritt den Grossen Rat nach aussen;
 - m) er regelt die Arbeitsteilung mit seinen Vizepräsidenten von Fall zu Fall;
 - n) er entscheidet in dringenden Fällen anstelle des Büros über die Gesuche betreffend Einholung von Rechtsauskünften beim Rechtsdienst des Regierungsrates;
-- o) er bestellt das Wahlbüro zur Durchführung von Wahlen.
+- o) er bestellt das Wahlbüro zur Durchführung von Wahlen;
+- p) er prüft, ob die Voraussetzungen zur Vertretung eines längerfristig verhinderten Mitglieds erfüllt sind und stellt das Zustandekommen der Vertretung fest.
 
 ### 2.2. Das Büro
 
@@ -249,7 +260,7 @@ beschliesst:
 
 <sup>3</sup> Den Kommissionen sind ein oder mehrere Aufgabenbereiche zur laufenden Behandlung zu übertragen. Die Aufgabenbereiche und die jeweils verantwortliche Kommission sind in Anhang 1 des Dekrets über die wirkungsorientierte Steuerung von Aufgaben und Finanzen (DAF) vom 5. Juni 2012[^17-1] festgelegt.
 
-<sup>4</sup> Die Aufgaben der Geschäftsprüfungskommission werden durch das Büro bestimmt.
+<sup>4</sup> …
 
 [^17-1]: SAR [612.310](https://gesetzessammlungen.ag.ch/data/612.310/de)
 
@@ -318,6 +329,22 @@ beschliesst:
 <sup>1</sup> Die Kommission für öffentliche Sicherheit (SIK) ist für die Oberaufsicht über den Vollzug des Bundesgesetzes über den Nachrichtendienst (Nachrichtendienstgesetz, NDG) vom 25. September 2015[^20b-1] im Kanton Aargau zuständig. Sie bildet dazu eine besondere Subkommission.
 
 [^20b-1]: SR [121](https://db.clex.ch/link/Bund/121/de)
+
+#### § 20c
+
+**Geschäftsprüfungskommission**
+
+<sup>1</sup> Die Geschäftsprüfungskommission beziehungsweise der Grosse Rat prüft die Geschäftsführung des Regierungsrats, der Verwaltung, des Obergerichts und weiterer Trägerinnen und Träger von kantonalen Aufgaben mittels Inspektionen, Abklärungen und Untersuchungen insbesondere im Hinblick auf deren Rechtmässigkeit, Zweckmässigkeit, Wirksamkeit und Wirtschaftlichkeit.
+
+<sup>2</sup> Sie ist in der Wahl der Prüfthemen frei und kann Empfehlungen an die geprüften Stellen abgeben.
+
+<sup>3</sup> Sie erstattet dem Grossen Rat jährlich sowie zusätzlich nach Bedarf Bericht über ihre Tätigkeiten.
+
+<sup>4</sup> Sie koordiniert ihre Tätigkeiten namentlich mit den Fachkommissionen und der Finanzkontrolle.
+
+<sup>5</sup> Sie organisiert sich in Subkommissionen und Arbeitsgruppen.
+
+<sup>6</sup> Für ihre Tätigkeiten erlässt sie ein durch das Büro zu genehmigendes Reglement.
 
 #### § 21
 
@@ -554,7 +581,7 @@ beschliesst:
 
 <sup>3</sup> Anträge auf Nichteintreten oder Rückweisung sind unmittelbar nach den Ausführungen des Kommissionsberichterstatters zu stellen und zu begründen.
 
-<sup>4</sup> Ist das Eintreten auf die Vorlage nicht bestritten, findet keine Eintretensdebatte statt, sofern der Rat nicht anders beschliesst. Der Präsident stellt in diesem Falle fest, dass der Rat stillschweigend mit der Behandlung einverstanden ist.
+<sup>4</sup> Ist das Eintreten auf die Vorlage nicht bestritten, kann auf eine Eintretensdebatte verzichtet werden. Der Präsident stellt in diesem Fall fest, dass der Rat stillschweigend mit der Behandlung einverstanden ist.
 
 #### § 49
 
@@ -893,6 +920,14 @@ beschliesst:
 **Aufrechterhaltung, Abschreibung**
 
 <sup>1</sup> Der Regierungsrat hat im Jahresbericht begründete Anträge zu stellen über die Aufrechterhaltung oder Abschreibung von überwiesenen Motionen und Postulaten.
+
+#### § 83a
+
+**Fristwahrung**
+
+<sup>1</sup> Der Zeitpunkt des jeweiligen Fristablaufs von überwiesenen Motionen und Postulaten ist in der öffentlich zugänglichen Datenbank für die Geschäfte des Grossen Rates entsprechend auszuweisen.
+
+<sup>2</sup> Überwiesene Motionen und Postulate, bei denen die jeweiligen Fristen gemäss § 42 Abs. 3 GVG nicht gewahrt wurden, sind in der öffentlich zugänglichen Datenbank für die Geschäfte des Grossen Rates gesondert zu kennzeichnen.
 
 ### 4.3.5. Interpellationen
 
