@@ -4,11 +4,11 @@ title: "Legge del 23 marzo 2007 sull'approvvigionamento elettrico (LAEl)"
 short: LAEl
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/418"
 language: it
-version: 2021-06-01
+version: 2023-01-01
 adopted: 2007-03-23
 in_force: 2007-07-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/418/20210601/it/xml/fedlex-data-admin-ch-eli-cc-2007-418-20210601-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/418/20210601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/418/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2007-418-20230101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/418/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/418/20210601/it"
 
 (LAEl)
 
-del 23 marzo 2007 (Stato 1° giugno 2021)
+del 23 marzo 2007 (Stato 1° gennaio 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -197,7 +197,7 @@ Se è realizzato un utile sotto il profilo economico, gli eventuali indennizzi p
 - a. ridurre i costi di trasporto delle reti ad alta tensione;
 - b. potenziare o sviluppare le reti ad alta tensione.
 
-### Sezione 3:**** Sviluppo delle reti
+### Sezione 3: Sviluppo delle reti
 
 [^chap2-sec3-1]
 
@@ -448,7 +448,7 @@ Le entrate risultanti dalle procedure di attribuzione orientate al mercato vanno
 [^17-1]: Nuovo testo giusta il n. I della LF del 17 mar. 2017, in vigore dal 1° ott. 2017 ([RU 2017 4999](https://fedlex.data.admin.ch/eli/oc/2017/537); [FF 2016 7427](https://fedlex.data.admin.ch/eli/fga/2016/1952)[7449](https://fedlex.data.admin.ch/eli/fga/2016/1954)).
 [^17-2]: Nuovo testo giusta il n. I 2 della LF del 15 dic. 2017 sulla trasformazione e l’ampliamento delle reti elettriche, in vigore dal 1° giu. 2019 ([RU 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3393](https://fedlex.data.admin.ch/eli/fga/2016/785)).
 
-### Sezione 2*a*:**** Misurazioni e sistemi di controllo
+### Sezione 2*a*: Misurazioni e sistemi di controllo
 
 [^chap3-sec2a-1]
 
@@ -628,6 +628,24 @@ La ElCom è competente in particolare per:
 **Tutela giurisdizionale**
 
 Le decisioni della ElCom sono impugnabili con ricorso al Tribunale amministrativo federale.
+
+## Capitolo 4*a*: Progetti pilota
+
+[^chap4a-1]
+
+[^chap4a-1]: Introdotto dal n. III della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+
+#### Art. 23a
+
+<sup>1</sup> Il DATEC può autorizzare progetti pilota volti allo sviluppo di tecnologie, modelli aziendali o prodotti innovativi nel settore dell’energia, nella misura in cui permettano di acquisire esperienze utili in vista di una modifica legislativa.
+
+<sup>2</sup> I progetti pilota sono limitati sotto il profilo materiale, temporale e geografico. La loro durata massima è di quattro anni. Tale durata può essere prolungata una volta di due anni al massimo.
+
+<sup>3</sup> Il DATEC disciplina mediante ordinanza le condizioni quadro per ciascun progetto pilota, nonché i diritti e gli obblighi dei partecipanti ai progetti. Le modalità del servizio universale, i compiti dei gestori di rete e l’utilizzazione della rete possono divergere dalle disposizioni della presente legge.
+
+<sup>4</sup> Se nell’ambito di un progetto pilota i consumatori finali sono esentati dall’obbligo di versare il corrispettivo per l’utilizzazione della rete, il DATEC può prevedere che i costi di rete non coperti siano inclusi nelle prestazioni di servizio relative al sistema della società nazionale di rete.
+
+<sup>5</sup> Il Consiglio federale disciplina i presupposti, lo svolgimento e la valutazione dei progetti pilota.
 
 ## Capitolo 5: Convenzioni internazionali
 

@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 23. März 2007 über die Stromversorgung (Stromversorgu
 short: StromVG
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/418"
 language: de
-version: 2021-06-01
+version: 2023-01-01
 adopted: 2007-03-23
 in_force: 2007-07-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/418/20210601/de/xml/fedlex-data-admin-ch-eli-cc-2007-418-20210601-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/418/20210601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/418/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2007-418-20230101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/418/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/418/20210601/de"
 
 (Stromversorgungsgesetz, StromVG)
 
-vom 23. März 2007 (Stand am 1. Juni 2021)
+vom 23. März 2007 (Stand am 1. Januar 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -196,7 +196,7 @@ Wird ein Gewinn erwirtschaftet, so müssen allfällige Abgeltungen für Mehrkost
 - a. die Reduktion der Übertragungskosten der Hochspannungsnetze;
 - b. die Verstärkung oder den Ausbau der Hochspannungsnetze.
 
-### 3. Abschnitt:**** Netzentwicklung
+### 3. Abschnitt: Netzentwicklung
 
 [^chap2-sec3-1]
 
@@ -446,7 +446,7 @@ Einnahmen aus marktorientierten Zuteilungsverfahren sind zu verwenden für:
 [^17-1]: Fassung gemäss Ziff. I des BG vom 17. März 2017, in Kraft seit 1. Okt. 2017 ([AS 2017 4999](https://fedlex.data.admin.ch/eli/oc/2017/537); [BBl 2016 8313](https://fedlex.data.admin.ch/eli/fga/2016/1952)[8333](https://fedlex.data.admin.ch/eli/fga/2016/1954)).
 [^17-2]: Fassung gemäss Ziff. I 2 des BG vom 15. Dez. 2017 über den Um- und Ausbau der Stromnetze, in Kraft seit 1. Juni 2019 ([AS 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [BBl 2016 3865](https://fedlex.data.admin.ch/eli/fga/2016/785)).
 
-### 2*a*. Abschnitt:**** Messwesen und Steuersysteme
+### 2*a*. Abschnitt: Messwesen und Steuersysteme
 
 [^chap3-sec2a-1]
 
@@ -626,6 +626,24 @@ Sie ist insbesondere zuständig für:
 **Rechtsschutz**
 
 Gegen Verfügungen der ElCom kann beim Bundesverwaltungsgericht Beschwerde geführt werden.
+
+## 4*a*. Kapitel: Pilotprojekte
+
+[^chap4a-1]
+
+[^chap4a-1]: Eingefügt durch Ziff. III des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2023 ([AS 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [BBl 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+
+#### Art. 23a
+
+<sup>1</sup> Das UVEK kann Pilotprojekte zur Entwicklung von innovativen Technologien, Geschäftsmodellen oder Produkten im Energiesektor bewilligen, soweit diese notwendig sind, um Erfahrungen im Hinblick auf eine Gesetzesänderung zu sammeln.
+
+<sup>2</sup> Die Pilotprojekte sind inhaltlich, zeitlich und räumlich begrenzt. Ihre Dauer beträgt höchstens vier Jahre. Sie kann einmalig um maximal zwei Jahre verlängert werden.
+
+<sup>3</sup> Das UVEK regelt die Rahmenbedingungen für jedes Pilotprojekt sowie die Rechte und Pflichten der Teilnehmer des Pilotprojekts in einer Verordnung. Dabei kann es bei der Grundversorgung, den Aufgaben der Netzbetreiber sowie der Netznutzung von den Bestimmungen dieses Gesetzes abweichen.
+
+<sup>4</sup> Das UVEK kann vorsehen, dass ungedeckte Netzkosten Teil der Systemdienstleistungen der nationalen Netzgesellschaft sind, wenn Endverbraucher im Rahmen eines Pilotprojektes von der Pflicht zur Entrichtung des Netznutzungsentgeltes befreit werden sollen.
+
+<sup>5</sup> Der Bundesrat regelt die Voraussetzungen für die Durchführung von Pilotprojekten, das Verfahren und die Auswertung der Pilotprojekte.
 
 ## 5. Kapitel: Internationale Vereinbarungen
 

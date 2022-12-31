@@ -4,11 +4,11 @@ title: "Loi du 23 mars 2007 sur l'approvisionnement en électricité (LApEl)"
 short: LApEl
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/418"
 language: fr
-version: 2021-06-01
+version: 2023-01-01
 adopted: 2007-03-23
 in_force: 2007-07-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/418/20210601/fr/xml/fedlex-data-admin-ch-eli-cc-2007-418-20210601-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/418/20210601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/418/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-418-20230101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/418/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/418/20210601/fr"
 
 (LApEl)
 
-du 23 mars 2007 (Etat le 1<sup>er</sup> juin 2021)
+du 23 mars 2007 (État le 1<sup>er</sup> janvier 2023)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -196,7 +196,7 @@ Si un bénéfice est réalisé, les éventuelles indemnisations pour coûts supp
 - a. à la réduction des coûts de transport des réseaux à haute tension;
 - b. au renforcement ou au développement des réseaux à haute tension.
 
-### Section 3**** Développement du réseau
+### Section 3 Développement du réseau
 
 [^chap2-sec3-1]
 
@@ -446,7 +446,7 @@ Les recettes provenant de procédures d’attribution axées sur les règles du 
 [^17-1]: Nouvelle teneur selon le ch. I de la LF du 17 mars 2017, en vigueur depuis le 1<sup>er</sup> oct. 2017 ([RO 2017 4999](https://fedlex.data.admin.ch/eli/oc/2017/537); [FF 2016 8081](https://fedlex.data.admin.ch/eli/fga/2016/1952)[8103](https://fedlex.data.admin.ch/eli/fga/2016/1954)).
 [^17-2]: Nouvelle teneur selon le ch. I 2 de la LF du 15 déc. 2017 sur la transformation et l’extension des réseaux électriques, en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3679](https://fedlex.data.admin.ch/eli/fga/2016/785)).
 
-### Section 2*a***** Systèmes de mesure et de commande
+### Section 2*a* Systèmes de mesure et de commande
 
 [^chap3-sec2a-1]
 
@@ -627,6 +627,24 @@ L’ElCom est notamment compétente pour:
 **Voies de recours**
 
 Les décisions de l’ElCom peuvent faire l’objet d’un recours auprès du Tribunal administratif fédéral.
+
+## Chapitre 4*a* Projets pilotes
+
+[^chap4a-1]
+
+[^chap4a-1]: Introduit par le ch. III de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+
+#### Art. 23a
+
+<sup>1</sup> Le DETEC peut autoriser des projets pilotes visant le développement de technologies, de modèles d’affaires ou de produits innovants dans le secteur de l’énergie dans la mesure où ils permettent de recueillir des expériences en vue d’une modification de la loi.
+
+<sup>2</sup> Les projets pilotes sont limités d’un point de vue matériel, temporel et géographique. Leur durée maximale est de quatre ans. Elle peut être prolongée une fois de deux ans au plus.
+
+<sup>3</sup> Le DETEC règle les conditions-cadres pour chaque projet pilote ainsi que les droits et devoirs des participants par voie d’ordonnance. Les modalités de l’approvisionnement de base, les tâches des gestionnaires de réseau et l’utilisation du réseau peuvent s’écarter des dispositions de la présente loi.
+
+<sup>4</sup> Si dans le cadre d’un projet pilote, des consommateurs finaux sont exemptés de l’obligation de verser la rémunération pour l’utilisation du réseau, le DETEC peut prévoir que les coûts de réseau non couverts font partie des services-système de la société nationale du réseau de transport.
+
+<sup>5</sup> Le Conseil fédéral règle les conditions préalables, le déroulement et l’évaluation des projets pilotes.
 
 ## Chapitre 5 Conventions internationales
 
