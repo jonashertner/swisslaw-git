@@ -3,11 +3,11 @@ canton: ZH
 number: "414.253.611"
 title: Studienordnung für den Bachelorstudiengang Soziale Arbeit an der Zürcher Hochschule für Angewandte Wissenschaften
 language: de
-version: "2022-02-01"
-nachtrag: "116"
-valid_until: 2023-01-01
+version: "2023-01-01"
+nachtrag: "119"
+valid_until: 2023-04-01
 adopted: 2010-11-08
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_611-2010_11_08-2011_08_01-116.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_611-2010_11_08-2011_08_01-119.html"
 text: pdf
 ---
 
@@ -75,7 +75,7 @@ Wer ein Modul nicht besteht, muss die nicht bestandenen Leistungsnachweise des M
 
 **1**
 
-- 1\. 4. 22 - 116
+- 1\. 1. 23 - 119
 
 <sup>2</sup> Die Einzelheiten zur Aufnahmeprüfung werden im Anhang geregelt.
 
@@ -152,11 +152,11 @@ Die Praxisausbildung findet in einer vom Departement Soziale Arbeit anerkannten 
 
 ### E. Studienabschluss und Bachelordiplom
 
-#### § 13
-
 **Titel**
 
-Das Bachelorstudium wird mit dem Titel «Bachelor of Science ZFH in Sozialer Arbeit» abgeschlossen.
+§ 13.[^hEStudienabschluss-1] Das Bachelorstudium wird mit dem Titel «Bachelor of Science ZHAW in Sozialer Arbeit» abgeschlossen.
+
+[^hEStudienabschluss-1]: Fassung gemäss B vom 2. Juni 2022 (OS 77, 508; ABl 2022-08-19). In Kraft seit 1. Januar 2023.
 
 #### § 14
 
@@ -174,7 +174,7 @@ Das Bachelordiplom wird erteilt, wenn die gemäss Anhang erforderlichen Module b
 
 **3**
 
-- 1\. 4. 22 - 116
+- 1\. 1. 23 - 119
 
 <sup>3</sup> Die Praxismodule und das Bachelormodul können besonders gewichtet werden. Die Gewichtung wird im Anhang festgehalten.
 
@@ -196,7 +196,7 @@ Diese Studienordnung ersetzt das Reglement betreffend den Bachelorstudiengang in
 
 <sup>2</sup> Die Studienleitung regelt die Anrechnung bereits erbrachter Leistungen durch individuelle Transferregelungen.
 
-[^17-1]: Eingefügt durch B vom 23. August 2018 (OS 74, 26; ABl 2018-12-07). In Kraft seit 1. Februar 2019.
+[^17-1]: Fassung gemäss B vom 2. Juni 2022 (OS 77, 508; ABl 2022-08-19). In Kraft seit 1. Januar 2023.
 
 ### Anhang zur Studienordnung für den Bachelorstudiengang Soziale Arbeit an der Zürcher Hochschule für Angewandte Wissenschaften
 
@@ -204,10 +204,10 @@ Diese Studienordnung ersetzt das Reglement betreffend den Bachelorstudiengang in
 
 Der Anhang zur Studienordnung für den Bachelorstudiengang Soziale Arbeit an der Zürcher Hochschule für Angewandte Wissenschaften wird weder in die Offizielle Gesetzessammlung (OS) noch in die Zürcher Loseblattsammlung (LS) aufgenommen. Er kann bei der
 
-Zürcher Hochschule für Angewandte Wissenschaften Ressort Lehre Gertrudstrasse 15 Postfach 8400 Winterthur
+Zürcher Hochschule für Angewandte Wissenschaften Ressort Bildung Gertrudstrasse 15 Postfach 8400 Winterthur
 
-bezogen oder unter (www.zhaw.ch) eingesehen werden.
+bezogen oder unter www.zhaw.ch eingesehen werden.
 
 **5**
 
-- 1\. 4. 22 - 116
+- 1\. 1. 23 - 119
