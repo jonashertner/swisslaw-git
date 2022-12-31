@@ -2,32 +2,34 @@
 canton: SO
 number: "732.1"
 title: Gesetz über den öffentlichen Verkehr
-short: ÖV-Gesetz
+short: ÖVG
 language: de
-version: 2020-07-01
-valid_until: 2022-12-31
-version_adopted: 2020-01-28
+version: 2023-01-01
+version_adopted: 2022-06-28
 adopted: 2022-06-28
 in_force: 2023-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/732.1"
-pdf: "https://bgs.so.ch/api/de/versions/4930/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5301/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Gesetz über den öffentlichen Verkehr
 
-(ÖV-Gesetz)
+(ÖVG)
 
-Vom 27.09.1992 (Stand 01.07.2020)
+Vom 28.06.2022 (Stand 01.01.2023)
 
-Der Kantonsrat von Solothurn
+Der Kantonsrat des Kantons Solothurn
 
-gestützt auf Artikel 71 und 120 der Kantonsverfassung vom 8. Juni 1986
+gestützt auf Artikel 120 der Verfassung des Kantons Solothurn (KV) vom 8. Juni 1986[^ingress-1] und Artikel 36 der Verordnung über die Personenbeförderung (VPB) vom 4. November 2009[^ingress-2]
 
-nach Kenntnisnahme von Botschaft und Entwurf des Regierungsrates vom 9. Juli 1991
+nach Kenntnisnahme von Botschaft und Entwurf des Regierungsrates vom 8. März 2022 (RRB Nr. 2022/324)
 
 beschliesst:
+
+[^ingress-1]: BGS [111.1](https://bgs.so.ch/data/111.1/de).
+[^ingress-2]: SR [745.11](https://db.clex.ch/link/Bund/745.11/de).
 
 ## 1. Allgemeine Bestimmungen
 
@@ -35,235 +37,166 @@ beschliesst:
 
 **Zweck**
 
-<sup>1</sup> Kanton und Einwohnergemeinden fördern zusammen mit dem Bund und den Nachbarkantonen den öffentlichen Verkehr mit dem Ziel,
+<sup>1</sup> Dieses Gesetz bezweckt die Stärkung des öffentlichen Personenverkehrs nach wirtschaftlichen Grundsätzen im Rahmen einer integrierten, auf den Fernverkehr und die Raumordnung abgestimmten Verkehrspolitik.
 
-- a) im Kanton und zu den benachbarten Eisenbahnknotenpunkten ein Grundangebot an Leistungen des öffentlichen Verkehrs sicherzustellen;
-- b) das Umsteigen auf umweltschonende öffentliche Verkehrsmittel zu begünstigen;
-- c) den öffentlichen und privaten Verkehr zu koordinieren.
+<sup>2</sup> Die Umsetzung des Gesetzes:
+
+- a) stärkt das Gesamtverkehrssystem des Kantons;
+- b) fördert eine umweltgerechte, wirtschaftliche und allen Bevölkerungskreisen zugängliche Mobilität;
+- c) leistet einen wesentlichen Beitrag zur Entlastung des Strassennetzes und zur Reduktion der durch den Strassenverkehr verursachten, schädlichen Emissionen;
+- d) trägt zur Standortattraktivität des Kantons bei.
 
 #### § 2
 
-**Geltungsbereich**
+**Regelungsbereich**
 
-<sup>1</sup> Das Gesetz gilt für alle Unternehmen, die im Interesse des Kantons im öffentlichen Verkehr, inklusive Transporte im Sinne von § 9 Absatz 3, tätig sind.
+<sup>1</sup> Dieses Gesetz ergänzt die Personenbeförderungsgesetzgebung des Bundes für den öffentlichen Personenverkehr im Kanton Solothurn.
 
-<sup>2</sup>
+<sup>2</sup> Es regelt insbesondere das Verhältnis zwischen kantonalen Behörden einerseits und konzessionierten Transportunternehmen sowie Einwohnergemeinden bzw. Schulträgern andererseits bei der Organisation und Finanzierung des öffentlichen Personenverkehrs und der Schülertransporte.
 
-<sup>3</sup>
-
-<sup>4</sup>
+<sup>3</sup> Das Gesetz regelt neben den vom Bund subventionierten Leistungen auch den vom Bund nicht abgegoltenen Orts- und Ausflugsverkehr, die Schülertransporte sowie kantonale Investitionsbeiträge an Anlagen für den öffentlichen Verkehr.
 
 #### § 3
 
-**Zusammenarbeit der Unternehmen**
+**Grundsätze für die finanziellen Beiträge**
 
-<sup>1</sup> Der Kanton fördert die technische, betriebliche und tarifarische Zusammenarbeit zwischen den Unternehmen des öffentlichen Verkehrs.
+<sup>1</sup> Der Kanton trägt die in diesem Gesetz vorgesehenen Beiträge, soweit diese nicht vom Bund, von beteiligten Kantonen, von spezifisch begünstigten Einwohnergemeinden oder von weiteren Interessierten übernommen werden.
 
-<sup>2</sup> Der Kanton knüpft seine Leistungen an Bedingungen der Zusammenarbeit, insbesondere des Beitritts zu Tarifverbunden und gegebenenfalls Verkehrsverbunden. Vorbehalten bleiben bundesrechtlich vorgesehene finanzielle Regelungen.
+<sup>2</sup> Bei den nach § 4 bestellten Verkehrsangeboten kommt das Kennzahlensystem gemäss Artikel 20 der Verordnung über die Abgeltung des regionalen Personenverkehrs (ARPV) vom 11. November 2009[^3-1] zur Anwendung.
 
-## 2. Massnahmen
+[^3-1]: SR [745.16](https://db.clex.ch/link/Bund/745.16/de).
+
+## 2. Leistungen und Finanzierung
+
+### 2.1. Fahrplanangebot
 
 #### § 4
 
-**Art der Massnahmen**
+**Angebot des regionalen Personenverkehrs sowie des Orts- und Ausflugsverkehrs**
 
-<sup>1</sup> Kanton und Einwohnergemeinden können sich an Unternehmen des öffentlichen Verkehrs gegen Aktien oder andere Rechte beteiligen.
+<sup>1</sup> Der Kanton bestellt:
 
-<sup>2</sup> Der öffentliche Verkehr wird gefördert durch:
+- a) gemeinsam mit dem Bund und den beteiligten Kantonen sowie nach Konsultation der betroffenen Einwohnergemeinden das Angebot des regionalen Personenverkehrs;
+- b) in Absprache mit den betroffenen Einwohnergemeinden das Angebot des Ortsverkehrs;
+- c) in Absprache mit den betroffenen Regionen und Einwohnergemeinden das Angebot des Ausflugsverkehrs zur Erschliessung von Gebieten, die im kantonalen Richtplan bezeichnet sind.
 
-- a) Entschädigungen für Leistungen, die der Kanton mit den Unternehmen des öffentlichen Verkehrs vereinbart hat;
-- b) Investitionsbeiträge;
-- c) Darlehen;
-- d) Finanzhilfen.
+<sup>2</sup> Der Kanton kann in Absprache mit den beteiligten Einwohnergemeinden Versuchsbetriebe zur Abklärung der Nachfrage bei neuen oder verlängerten Linien oder zur Erprobung neuartiger Verkehrsformen bestellen.
 
 #### § 5
 
-**Vereinbarung von Leistungen**
+**Anforderungen an die Wirtschaftlichkeit**
 
-<sup>1</sup> Der Kanton legt, gegebenenfalls zusammen mit dem Bund und den Nachbarkantonen, nach Anhörung der betroffenen Einwohnergemeinden, das Grundangebot im öffentlichen Verkehr fest. Zu diesem Zweck schliesst der Kanton mit den Unternehmen des öffentlichen Verkehrs Vereinbarungen ab.
+<sup>1</sup> Gemeinsam mit dem Bund und den beteiligten Kantonen bestellte Angebote des regionalen Personenverkehrs haben den Voraussetzungen der minimalen Wirtschaftlichkeit gemäss Artikel 6 Absatz 1 Buchstabe e ARPV[^5-1] zu genügen.
 
-<sup>2</sup> In der Vereinbarung werden das Liniennetz, die Bedienungshäufigkeit der Haltestellen, die Tariferleichterungen und die Entschädigungen sowie weitere Auflagen und Bedingungen geregelt.
+<sup>2</sup> Angebote des Ortsverkehrs und des Ausflugsverkehrs haben einen Kostendeckungsgrad von mindestens 20 Prozent aufzuweisen.
 
-<sup>3</sup> Der Kanton kann Versuchsbetriebe des öffentlichen Verkehrs von kantonalem und regionalem Interesse unterstützen, namentlich zur Abklärung der Nachfrage bei neuen oder verlängerten Linien oder zur Erprobung neuartiger Verkehrsformen.
+<sup>3</sup> Kommen bei der Bereitstellung des Fahrplanangebots gemäss § 4 Betriebsmittel zum Einsatz, welche in ökologischer Hinsicht die gesetzlichen Mindestanforderungen übertreffen, können die damit verbundenen Mehrkosten von höchstens 20 Prozent vom Kanton übernommen werden.
 
-<sup>4</sup> Einwohnergemeinden und weitere Interessierte können mit den Unternehmen Leistungen auf eigene Rechnung vereinbaren.
+[^5-1]: SR [745.16](https://db.clex.ch/link/Bund/745.16/de).
 
 #### § 6
 
-**Entschädigung von Leistungen**
+**Kostenbeteiligung der Einwohnergemeinden an den Leistungen des Kantons**
 
-<sup>1</sup> Für das vereinbarte Grundangebot (§ 5) wird den Unternehmen die Differenz zwischen den erzielbaren Erträgen und den Kosten entschädigt, die trotz effizienter Betriebsführung entsteht.
+<sup>1</sup> Die Kostenbeteiligung der Einwohnergemeinden an den Leistungen des Kantons bezieht sich auf finanzielle Beiträge
 
-<sup>2</sup> Vereinbarte Tariferleichterungen werden den Unternehmen entschädigt.
+- a) nach § 4 Absatz 1;
+- b) aus Verpflichtungen gegenüber dem Bund aufgrund Artikel 49 des Eisenbahngesetzes (EBG) vom 20. Dezember 1957[^6-1];
+- c) aufgrund der Vereinbarung vom 1. November 1989 betreffend den integralen Tarifverbund Nordwestschweiz (TNW) ab 1. Januar 1990.
 
-<sup>3</sup> Die Unternehmen haben mögliche gewinnbringende Nebengeschäfte, die mit ihrem Leistungsangebot im öffentlichen Verkehr zusammenhängen, zu nutzen, soweit dadurch nicht Wettbewerbsverzerrungen zu anderen Wirtschaftsunternehmen entstehen.
+<sup>2</sup> Für Leistungen nach Absatz 1 haben sich die Einwohnergemeinden zusammen mit 37 Prozent an den Beiträgen des Kantons zu beteiligen, die diesem nach § 3 Absatz 1 verbleiben.
 
-<sup>4</sup> Unternehmen, welche Entschädigungen für vereinbarte Leistungen beanspruchen, sind zur Führung einer Kostenrechnung verpflichtet. Das Bau- und Justizdepartement[^6-1] kann in das gesamte Rechnungswesen dieser Unternehmen Einsicht nehmen.
+<sup>3</sup> Die Beiträge der einzelnen Einwohnergemeinden nach Absatz 1 richten sich zu 30 Prozent nach der Einwohnerzahl und zu 70 Prozent nach dem bestellten Fahrplanangebot.
 
-[^6-1]: Neue Departementsbezeichnung ab 1. August 2000.
+<sup>4</sup> Der Kanton kann seinen Anteil erhöhen, wenn sich für einzelne Einwohnergemeinden eine unverhältnismässig hohe Belastung pro Kopf und Jahr ergäbe. Die jährliche Pro-Kopf-Belastung einer Einwohnergemeinde ist unverhältnismässig hoch, wenn sie mehr als das Doppelte des Durchschnitts aller Einwohnergemeinden beträgt.
+
+<sup>5</sup> Der Regierungsrat regelt in einer Verordnung die Kriterien zur Bemessung der Beiträge der einzelnen Einwohnergemeinden nach Absätzen 3 und 4.
+
+<sup>6</sup> Der Regierungsrat beschliesst jährlich die Kostenbeteiligung der Einwohnergemeinden.
+
+[^6-1]: SR [742.101](https://db.clex.ch/link/Bund/742.101/de).
 
 #### § 7
 
-**Investitionsbeiträge, Darlehen**
+**Kostenbeteiligung der Einwohnergemeinden an Versuchsbetrieben**
 
-<sup>1</sup> Der Kanton kann den Unternehmen des öffentlichen Verkehrs Investitionsbeiträge oder zinslose Darlehen an ihre Infrastruktur gewähren.
+<sup>1</sup> Die beteiligten Einwohnergemeinden haben zusammen mindestens 50 Prozent der ungedeckten Kosten von Versuchsbetrieben nach § 4 Absatz 2 für eine Dauer von in der Regel vier Jahren zu tragen.
 
-<sup>2</sup> Der Kanton kann ferner, soweit Kantonsstrassen betroffen sind, Investitionsbeiträge leisten an:
-
-- a) Bushaltestellen;
-- b) Investitionen zur Entflechtung des privaten und öffentlichen Verkehrs;
-- c) Umsteigeanlagen.
-
-<sup>3</sup> Der Kanton kann überdies Investitionsbeiträge leisten an die verkehrsmässige Erschliessung übergeordneter Knotenpunkte des öffentlichen Verkehrs sowie an Busbahnhöfe, Parkplätze und Zweiradabstellplätze bei Bahnhöfen und Haltestellen des öffentlichen Verkehrs.
+### 2.2. Schülertransporte
 
 #### § 8
 
-**Finanzhilfen**
+**Schülertransporte**
 
-<sup>1</sup> Ist ein Unternehmen des öffentlichen Verkehrs nach Ausschöpfung seiner finanziellen Reserven in seiner Existenz bedroht, und ist seine Weiterexistenz von kantonalem Interesse, so leistet der Kanton Finanzhilfe.
+<sup>1</sup> Der Kanton trägt die Kosten der Schulträger für den Schülertransport an die öffentlichen Volksschulen einschliesslich der öffentlichen progymnasialen und gymnasialen Klassen, die der obligatorischen Schulzeit zugerechnet werden, soweit der Schulweg unzumutbar ist.
 
-<sup>2</sup> Die Finanzhilfe kann mit besonderen Auflagen verbunden werden.
+<sup>2</sup> Der Schülertransport nach Absatz 1 hat nach Möglichkeit mit dem nach § 4 bestellten Fahrplanangebot zu erfolgen.
 
-## 3. Finanzierung
+<sup>3</sup> Der Regierungsrat regelt die Einzelheiten in einer Verordnung.
+
+### 2.3. Investitionen
 
 #### § 9
 
-**Leistungen des Kantons**
+**Investitionsbeiträge**
 
-<sup>1</sup> Der Kanton trägt die in diesem Gesetz vorgesehenen Leistungen, soweit diese nicht vom Bund, von Nachbarkantonen, von Einwohnergemeinden oder von weiteren Interessierten übernommen werden.
+<sup>1</sup> Der Kanton kann Investitionsbeiträge leisten an den Ausbau und die verkehrsmässige Erschliessung übergeordneter Knotenpunkte des öffentlichen Verkehrs sowie an Haltestellen für die grenzüberschreitende Personenbeförderung gemäss Artikel 42 Absatz 4 VPB[^9-1].
 
-<sup>2</sup> Die finanziellen Leistungen des Kantons können davon abhängig gemacht werden, dass auch der Bund, Nachbarkantone, Einwohnergemeinden oder weitere Interessierte angemessene Leistungen erbringen.
+<sup>2</sup> Er trägt mindestens 40 Prozent von den nicht vom Bund getragenen Kosten. Der Kanton kann für seine Beiträge spezifische Leistungen des Grundeigentümers, der begünstigten Einwohnergemeinden oder Dritter voraussetzen.
 
-<sup>3</sup> Der Kanton trägt die Kosten der Schulträger für den Transport der Schüler der öffentlichen Volksschulen sowie der öffentlichen progymnasialen und gymnasialen Klassen, die der obligatorischen Schulzeit zugerechnet werden, sofern der Weg weit oder beschwerlich ist. Einzelheiten regelt der Regierungsrat durch Verordnung.
+[^9-1]: SR [745.11](https://db.clex.ch/link/Bund/745.11/de).
 
-<sup>4</sup> Die Kantonsleistungen werden aus allgemeinen Staatsmitteln finanziert. Vorbehalten bleibt Absatz 5.
-
-<sup>5</sup> Die Investitionsbeiträge des Kantons nach § 7 Absätze 2 und 3 werden aus dem Ertrag der Steuern und Gebühren für Motorfahrzeuge und Fahrräder finanziert.
+## 3. Zuständigkeiten
 
 #### § 10
 
-**Leistungen der Einwohnergemeinden**
+**Kantonsrat**
 
-<sup>1</sup> Soweit der Kanton nach § 9 Absatz 1 finanzielle Leistungen aus allgemeinen Staatsmitteln erbringt, haben die Einwohnergemeinden zusammen 37% der nicht vom Bund, von Nachbarkantonen oder von weiteren Interessierten gedeckten Aufwendungen und Ausgaben zu übernehmen.
+<sup>1</sup> Der Kantonsrat beschliesst in Kenntnis des geplanten Verkehrsangebotes die Verpflichtungskredite für die auf die Fahrplanperiode abgestimmten Globalbudgets für den öffentlichen Verkehr.
 
-<sup>2</sup> Die Leistungen der Einwohnergemeinden richten sich zu 2/7 nach der Einwohnerzahl und zu 5/7 nach dem Angebot an Verkehrsleistungen.
+<sup>2</sup> Er beschliesst unter Vorbehalt des Referendums die Verpflichtungskredite für Ausgaben nach Artikel 35 und 36 der Kantonsverfassung[^10-1].
 
-<sup>3</sup> Besteht an einem bestimmten Leistungsangebot ein vermindertes kantonales Interesse, so kann der Kanton seinen Anteil nach Absatz 1 zu Lasten der interessierten Einwohnergemeinden bis auf 30 % herabsetzen.
-
-<sup>4</sup> Der Kanton kann seinen Anteil erhöhen, wenn sich für einzelne Einwohnergemeinden eine unverhältnismässig hohe Belastung pro Kopf und Jahr ergäbe. Die jährliche Pro-Kopf-Belastung einer Einwohnergemeinde ist unverhältnismässig hoch, wenn sie mehr als das Anderthalbfache (1.5) des Durchschnitts aller Einwohnergemeinden beträgt.
-
-<sup>5</sup> Bei Versuchsbetrieben nach § 5 Absatz 3 beträgt der Beitrag der beteiligten Gemeinden mindestens 70% an den Kosten gemäss Absatz 1. Dieser Anteil wird nach dem Interesse der einzelnen Gemeinden verteilt.
-
-<sup>6</sup> Der Kanton trägt die Kosten für Schülertransporte.
-
-## 4. Zuständigkeiten
+[^10-1]: BGS [111.1](https://bgs.so.ch/data/111.1/de).
 
 #### § 11
 
-**Kantonsrat**
+**Regierungsrat**
 
-<sup>1</sup> Der Kantonsrat beschliesst unter Vorbehalt von Absatz 2 über:
+<sup>1</sup> Der Regierungsrat wird mit dem Vollzug beauftragt. Er schliesst in endgültiger Zuständigkeit die zum Vollzug dieses Gesetzes nötigen Verträge ab, insbesondere mit Transportunternehmen, Bund, Kantonen und dem benachbarten Ausland.
 
-- a) die Beteiligung des Kantons an Unternehmen des öffentlichen Verkehrs;
-- b) …
-- c) die Verpflichtungskredite über Entschädigungen für Leistungen (§ 6), wobei zusätzliche Kosten, die bei interkantonalem Verkehr aus der Verbesserung des Grundangebots entstehen, nicht als neue Ausgaben gelten, wenn der Anteil des Kantons an der Linie weniger als 20% beträgt.
-- d) die Investitionsbeiträge und Darlehen (§ 7);
-- e) die Finanzhilfen und die damit verbundenen Auflagen (§ 8);
-- f) den Anteil des Kantons bei vermindertem kantonalem Interesse (§ 10 Absatz 3).
+<sup>2</sup> Er kann folgende Befugnisse in einer Verordnung an das Departement übertragen:
 
-<sup>2</sup> Neue einmalige Ausgaben nach Absatz 1 literae a, d und e von mehr als zehn Millionen Franken unterliegen der Volksabstimmung.
+- a) die Erteilung von kantonalen Bewilligungen nach Artikel 7 des Bundesgesetzes über die Personenbeförderung (PBG) vom 20. März 2009[^11-1] ;
+- b) die Aufhebung von Haltestellen, die dem Fahrplanangebot nach § 4 dienen;
+- c) die Berechnung der Abgeltungen für Schülertransporte nach § 8.
 
-<sup>3</sup> …
+[^11-1]: SR [745.1](https://db.clex.ch/link/Bund/745.1/de).
 
 #### § 12
 
-**Regierungsrat**
+**Schulträger**
 
-<sup>1</sup> Der Regierungsrat wird mit dem Vollzug beauftragt. Er kann einzelne Befugnisse dem Bau- und Justizdepartement oder dem Amt für Verkehr und Tiefbau übertragen.
-
-<sup>2</sup> Der Regierungsrat hat folgende unübertragbare Befugnisse:
-
-- a) Abschluss von Vereinbarungen über Leistungen (§ 5) mit den Unternehmen des öffentlichen Verkehrs und deren Entschädigungen (§ 6);
-- b) Bewilligung von Investitionsbeiträgen (§ 7) bis 250'000 Franken;
-- c) Festsetzung der Leistungen der einzelnen Einwohnergemeinden (§ 10 Abs. 2);
-- d) Erhöhung des Kantonsanteils zugunsten der Einwohnergemeinden, die durch ihre Leistungsanteile unverhältnismässig hoch belastet würden (§ 10 Abs. 4);
-- e) Wahl der Vertreter oder Vertreterinnen des Kantons in den Organen der konzessionierten Unternehmen des öffentlichen Verkehrs, wobei das für die Leistungsvereinbarungen zuständige Departement und Amt nicht Einsitz nehmen dürfen;
-- f) Wahl der Mitglieder der Verkehrskoordinationskommission.
-
-<sup>3</sup> Die Befugnisse nach literae a und c stützen sich auf Kriterien, die in einer Verordnung zu regeln sind.
-
-#### § 12bis
-
-**Bau- und Justizdepartement**
-
-<sup>1</sup> Das Bau- und Justizdepartement ist Bewilligungs- und Aufsichtsbehörde gemäss Verordnung über die Personenbeförderungskonzession des Bundes vom 25. November 1998.
+<sup>1</sup> Der Schulträger entscheidet über den Anspruch eines Schulkindes hinsichtlich Kostenübernahme des Schülertransports im Einzelfall.
 
 #### § 13
 
-**Mitsprache der Gemeinden**
-
-<sup>1</sup> Der Kanton unterbreitet alle wesentlichen Massnahmen zur Förderung des öffentlichen Verkehrs den betroffenen Einwohnergemeinden zur Stellungnahme.
-
-<sup>2</sup> …
-
-<sup>3</sup> Den Einwohnergemeinden steht in den Organen der konzessionierten Unternehmen des öffentlichen Verkehrs eine angemessene Vertretung zu.
-
-<sup>4</sup> Die Regionalplanungsgruppen schlagen dem Regierungsrat ihre Vertreter oder Vertreterinnen in der Verkehrskoordinationskommission (§ 14 Abs. 4) vor.
-
-#### § 13bis
-
-**Schulträger**
-
-<sup>1</sup> Der Schulträger entscheidet über die Kostenübernahme des Schülertransports im Einzelfall.
-
-#### § 14
-
-**Verkehrskoordinationskommission**
-
-<sup>1</sup> Die Verkehrskoordinationskommission berät den Regierungsrat in Fragen der Förderung des öffentlichen Verkehrs, der Koordination zwischen öffentlichem und privatem Verkehr sowie der Gesamtverkehrspolitik. Sie kann Anträge stellen und kontrolliert die Ergebnisse der Massnahmen.
-
-<sup>2</sup> …
-
-<sup>3</sup> Als Mitglieder der Verkehrskoordinationskommission werden neben Vertretern des Kantons insbesondere Vertretungen der Regionalplanungsgruppen, der Unternehmen des öffentlichen Verkehrs und der Verkehrsverbände gewählt.
-
-#### § 15
-
 **Rechtsweg**
 
-<sup>1</sup> Gegen Verfügungen von Schulträgern kann innert 10 Tagen beim Bau- und Justizdepartement und gegen dessen Entscheid innerhalb der gleichen Frist beim Verwaltungsgericht Beschwerde geführt werden.
+<sup>1</sup> Gegen Verfügungen von Schulträgern kann innert 10 Tagen beim Departement Beschwerde geführt werden.
 
-<sup>2</sup> Gegen andere Verfügungen des Bau- und Justizdepartementes kann innert 10 Tagen beim Regierungsrat Beschwerde geführt werden.
+<sup>2</sup> Gegen erstinstanzliche Verfügungen des Departements und gegen Beschwerdeentscheide des Departements kann innert 10 Tagen beim Verwaltungsgericht Beschwerde geführt werden.
 
-## 5. Übergangs- und Schlussbestimmungen
+<sup>3</sup> Das Verfahren richtet sich nach den Bestimmungen des Gesetzes über den Rechtsschutz in Verwaltungssachen (VRG) vom 15. November 1970[^13-1] und des Gesetzes über die Gerichtsorganisation (GO) vom 13. März 1977[^13-2].
 
-#### § 16
+[^13-1]: BGS [124.11](https://bgs.so.ch/data/124.11/de).
+[^13-2]: BGS [125.12](https://bgs.so.ch/data/125.12/de).
 
-**Aufhebung bisherigen Rechts**
+KRB Nr. RG 0033/2022 vom 28. Juni 2022.
 
-<sup>1</sup> Das Gesetz über die Förderung des öffentlichen Verkehrs vom 10. März 1974[^16-1] ist aufgehoben.
+Dieser Beschluss unterliegt dem fakultativen Referendum.
 
-[^16-1]: GS 86, 330.
+Die Referendumsfrist ist am 21. Oktober 2022 unbenutzt abgelaufen.
 
-#### § 17
+Inkrafttreten am 1. Januar 2023.
 
-**Änderung des Gesetzes über die Gerichtsorganisation**
-
-<sup>1</sup> Die Änderung wurde im entsprechenden Erlass nachgeführt.
-
-#### § 18
-
-**Änderung des Gesetzes über die Steuern und Gebühren für Motorfahrzeuge und Fahrräder**
-
-<sup>1</sup> Die Änderung wurde im entsprechenden Erlass nachgeführt.
-
-#### § 19
-
-**Inkrafttreten**
-
-<sup>1</sup> Dieses Gesetz tritt nach Annahme durch das Volk auf einen vom Regierungsrat festzusetzenden Zeitpunkt in Kraft.
-
-<sup>2</sup> Der Regierungsrat legt die Übergangsbestimmungen in einer Verordnung fest.
-
-Inkrafttreten am 1. Januar 1993.
-
-GS 92, 620
+GS 2022, 21
