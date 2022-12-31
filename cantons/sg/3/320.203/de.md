@@ -3,20 +3,19 @@ canton: SG
 number: "320.203"
 title: Kantonsratsbeschluss über die Gewährung von Beiträgen für die Notfallversorgung
 language: de
-version: 2021-07-15
-valid_until: 2022-12-31
-version_adopted: 2021-06-13
+version: 2023-01-01
+version_adopted: 2022-08-09
 adopted: 2021-06-13
 in_force: 2021-07-15
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/320.203"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3186/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3401/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Kantonsratsbeschluss über die Gewährung von Beiträgen für die Notfallversorgung
 
-vom 13.06.2021 (Stand 15.07.2021)
+vom 13.06.2021 (Stand 01.01.2023)
 
 Der Kantonsrat des Kantons St.Gallen
 
@@ -34,11 +33,12 @@ als Beschluss:[^ingress-3]
 
 #### Ziff. 1
 
-<sup>1</sup> Der Kanton St.Gallen kann folgende jährlich wiederkehrende Beiträge für die Aufrechterhaltung der Notfallversorgung an den kantonalen Spitalstandorten gewähren:
+<sup>1</sup> Der Kanton St.Gallen kann folgende jährlich wiederkehrende Beiträge für die Aufrechterhaltung der Notfallversorgung an den folgenden Spitalstandorten gewähren:
 
-- a) Spitalregion Rheintal Werdenberg Sarganserland bis zu Fr. 2'000'000.–;
+- a) Spitalregion Rheintal Werdenberg Sarganserland bis zu Fr. 1'000'000.–;
 - b) Spital Linth bis zu Fr. 1'000'000.–;
-- c) Spitalregion Fürstenland Toggenburg bis zu Fr. 1'000'000.–.
+- c) Spitalregion Fürstenland Toggenburg bis zu Fr. 1'000'000.–;
+- d) Spital Walenstadt bis zu Fr. 1'000'000.–.
 
 #### Ziff. 2
 
