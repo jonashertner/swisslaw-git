@@ -3,13 +3,13 @@ canton: FR
 number: "631.131"
 title: Ordonnance DFIN relative à la perception des créances fiscales
 language: fr
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-10-20
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2022-12-06
 adopted: 2014-11-07
 in_force: 2015-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/631.131"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6935/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7663/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/6935/pdf_file"
 
 Perception des créances fiscales – O
 
-du 07.11.2014 (version entrée en vigueur le 01.01.2022)
+du 07.11.2014 (version entrée en vigueur le 01.01.2023)
 
 La Direction des finances
 
@@ -26,7 +26,7 @@ Vu les articles 201 et suivants de la loi du 6 juin 2000 sur les impôts cantona
 
 Vu les articles 50 al. 2 et 58 al. 3 de la loi du 14 septembre 2007 sur l'impôt sur les successions et les donations (LISD);
 
-Vu les articles 42 al. 2 et 48 al. 3 de la loi du 1er mai 1996 sur les droits de mutation et les droits sur les gages immobiliers (LDMG);
+Vu les articles 42 al. 2 et 48 al. 3 de la loi du 1<sup>er</sup> mai 1996 sur les droits de mutation et les droits sur les gages immobiliers (LDMG);
 
 Vu les articles 41 et suivants de la loi du 10 mai 1963 sur les impôts communaux (LICo);
 
@@ -34,7 +34,7 @@ Vu les articles 12 et suivants de la loi du 26 septembre 1990 concernant les rap
 
 Considérant:
 
-La Direction des finances fixe les taux des intérêts rémunératoires, moratoires et compensatoires afférents aux paiements d'impôts périodiques et non périodiques, à l'impôt à la source et aux amendes. Elle détermine en outre les conditions auxquelles il n'est pas compté d'intérêt pour des raisons d'économie ou par simplification administrative.
+La Direction des finances fixe les taux des intérêts rémunératoires et moratoires afférents aux paiements d'impôts périodiques et non périodiques, à l'impôt à la source et aux amendes. Elle détermine en outre les conditions auxquelles il n'est pas compté d'intérêt pour des raisons d'économie ou par simplification administrative.
 
 Ordonne:
 
@@ -62,9 +62,7 @@ Ordonne:
 
 #### Art. 4
 
-**Intérêt compensatoire**
-
-<sup>1</sup> Le taux de l'intérêt compensatoire est fixé à 0 %.
+**…**
 
 #### Art. 5
 
@@ -86,7 +84,7 @@ Ordonne:
 
 <sup>3</sup> A l'exception des intérêts rémunératoires qui ont été comptabilisés en application de l'alinéa 2, tous les intérêts sur les impôts de l'année fiscale sont cumulés. Si ce cumul représente une valeur absolue supérieure à 10 francs, ces intérêts sont comptabilisés à la date de notification du décompte.
 
-<sup>4</sup> Lorsque, après mise en compte d'un éventuel intérêt moratoire, rémunératoire ou compensatoire, le solde en faveur de l'Etat ou du contribuable n'excède pas 10 francs, il n'y a respectivement ni encaissement ni remboursement de ce montant.
+<sup>4</sup> Lorsque, après mise en compte d'un éventuel intérêt moratoire ou rémunératoire, le solde en faveur de l'Etat ou du contribuable n'excède pas 10 francs, il n'y a respectivement ni encaissement ni remboursement de ce montant.
 
 #### Art. 7
 

@@ -3,13 +3,13 @@ canton: FR
 number: "631.131"
 title: Verordnung FIND über den Bezug der Steuerforderungen
 language: de
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-10-20
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2022-12-06
 adopted: 2014-11-07
 in_force: 2015-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/631.131"
-pdf: "https://bdlf.fr.ch/api/de/versions/6935/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7663/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,15 +18,15 @@ pdf: "https://bdlf.fr.ch/api/de/versions/6935/pdf_file"
 
 Bezug der Steuerforderungen – V
 
-vom 07.11.2014 (Fassung in Kraft getreten am 01.01.2022)
+vom 07.11.2014 (Fassung in Kraft getreten am 01.01.2023)
 
 Die Finanzdirektion
 
 gestützt auf die Artikel 201 ff. des Gesetzes vom 6. Juni 2000 über die direkten Kantonssteuern (DStG);
 
-gestützt auf die Artikel 50 Abs. 2 und 58 Abs. 3 des Gesetzes vom 14. September 2007 über die Erbschafts- und Schenkungssteuer (ESchG);
+gestützt auf die Artikel 50 Abs. 2 und 58 Abs. 3 des Gesetzes vom 14. September 2007 über die Erbschafts‑ und Schenkungssteuer (ESchG);
 
-gestützt auf die Artikel 42 Abs. 2 und 48 Abs. 3 des Gesetzes von 1. Mai 1996 über die Handänderungs- und Grundpfandrechtssteuern (HGStG);
+gestützt auf die Artikel 42 Abs. 2 und 48 Abs. 3 des Gesetzes vom 1. Mai 1996 über die Handänderungs- und Grundpfandrechtssteuern (HGStG);
 
 gestützt auf die Artikel 41 ff. des Gesetzes vom 10. Mai 1963 über die Gemeindesteuern (GStG);
 
@@ -34,9 +34,9 @@ gestützt auf die Artikel 12 ff. des Gesetzes vom 26. September 1990 über die B
 
 in Erwägung:
 
-Die Finanzdirektion legt die Zinssätze der Verzugs-, Vergütungs- und Ausgleichszinsen fest für periodische und nicht periodische Steuern, für die Quellensteuer sowie für die Bussen. Zudem erlässt sie die Bedingungen, unter denen auf die Berechnung eines Zinses aus Billigkeitsgründen oder zur Vermeidung unnötiger Umtriebe verzichtet wird.
+Die Finanzdirektion legt die Zinssätze der Vergütungs- und der Verzugszinsen für periodische und nicht periodische Steuern, für die Quellensteuer sowie für die Bussen fest. Zudem erlässt sie die Bedingungen, unter denen aus Billigkeitsgründen oder zur Vermeidung unnötiger Umtriebe auf die Berechnung eines Zinses verzichtet wird.
 
-verordnet:
+Verordnet:
 
 #### Art. 1
 
@@ -62,9 +62,7 @@ verordnet:
 
 #### Art. 4
 
-**Ausgleichszins**
-
-<sup>1</sup> Der Zinssatz des Ausgleichszinses beträgt 0 %.
+**…**
 
 #### Art. 5
 
@@ -86,7 +84,7 @@ verordnet:
 
 <sup>3</sup> Mit Ausnahme der Vergütungszinsen, die in Anwendung von Absatz 2 verbucht wurden, werden alle Zinsen auf den Steuern des Steuerjahres zusammengezogen. Übersteigt der kumulierte Betrag den Wert von 10 Franken, so werden diese Zinsen auf das Eröffnungsdatum der Abrechnung verbucht.
 
-<sup>4</sup> Beträgt nach Anrechnung eines möglichen Verzugs-, Vergütungs- oder Ausgleichszinses der Saldo zugunsten des Kantons oder der steuerpflichtigen Person nicht mehr als 10 Franken, so erfolgt weder ein Bezug noch eine Rückerstattung dieses Betrags.
+<sup>4</sup> Beträgt nach Anrechnung eines möglichen Verzugs- oder Vergütungszinses der Saldo zugunsten des Kantons oder der steuerpflichtigen Person nicht mehr als 10 Franken, so erfolgt weder ein Bezug noch eine Rückerstattung dieses Betrags.
 
 #### Art. 7
 
