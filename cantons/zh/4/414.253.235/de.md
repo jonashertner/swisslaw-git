@@ -3,11 +3,10 @@ canton: ZH
 number: "414.253.235"
 title: Studienordnung für den Masterstudiengang Hebamme an der Zürcher Hochschule für Angewandte Wissenschaften
 language: de
-version: "2019-02-01"
-nachtrag: "104"
-valid_until: 2023-01-01
+version: "2023-01-01"
+nachtrag: "119"
 adopted: 2016-11-03
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_235-2016_11_03-2017_04_01-104.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_235-2016_11_03-2017_04_01-119.html"
 text: pdf
 ---
 
@@ -65,7 +64,7 @@ beschliesst:
 
 **1**
 
-- 1\. 4. 19 - 104
+- 1\. 1. 23 - 119
 
 ### B. Zulassung zum Studium
 
@@ -170,7 +169,7 @@ Die zu besuchenden Module für den Masterstudiengang werden im Anhang geregelt.
 
 **3**
 
-- 1\. 4. 19 - 104
+- 1\. 1. 23 - 119
 
 ### F. Studienabschluss und Masterdiplom
 
@@ -182,11 +181,11 @@ Das Studium gilt als bestanden, wenn a. alle im Anhang vorgeschriebenen Module b
 
 - b. 90 Credits erreicht sind.
 
-#### § 18
-
 **Titel**
 
-Der Masterstudiengang Hebamme wird mit dem Titel «Master of Science ZFH Hebamme» abgeschlossen.
+§ 18.[^17-1] Der Masterstudiengang Hebamme wird mit dem Titel «Master of Science ZHAW Hebamme» abgeschlossen.
+
+[^17-1]: Fassung gemäss B vom 2. Juni 2022 (OS 77, 495; ABl 2022-08-19). In Kraft seit 1. Januar 2023.
 
 #### § 19
 
@@ -200,10 +199,10 @@ Der Masterstudiengang Hebamme wird mit dem Titel «Master of Science ZFH Hebamme
 
 Der Anhang zur Studienordnung für den Masterstudiengang Hebamme an der Zürcher Hochschule für Angewandte Wissenschaften wird weder in die Offizielle Gesetzessammlung (OS) noch in die Zürcher Loseblattsammlung (LS) aufgenommen. Er kann bei der
 
-Zürcher Hochschule für Angewandte Wissenschaften Ressort Lehre Gertrudstrasse 15 Postfach 8400 Winterthur
+Zürcher Hochschule für Angewandte Wissenschaften Ressort Bildung Gertrudstrasse 15 Postfach 8400 Winterthur
 
 bezogen oder unter (www.zhaw.ch) eingesehen werden.
 
 **5**
 
-- 1\. 4. 19 - 104
+- 1\. 1. 23 - 119
