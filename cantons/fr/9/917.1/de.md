@@ -4,13 +4,13 @@ number: "917.1"
 title: Gesetz über die Bodenverbesserungen
 short: BVG
 language: de
-version: 2022-01-01
-valid_until: 2022-12-31
+version: 2023-01-01
+valid_until: 2024-02-29
 version_adopted: 2021-11-05
 adopted: 1990-05-30
 in_force: 1991-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/917.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/7066/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7596/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Bodenverbesserungen – G
 
 (BVG)
 
-vom 30.05.1990 (Fassung in Kraft getreten am 01.01.2022)
+vom 30.05.1990 (Fassung in Kraft getreten am 01.01.2023)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -143,7 +143,7 @@ beschliesst:
 
 **Angeordnete Bodenverbesserung**
 
-<sup>1</sup> Besteht ein öffentliches Interesse, insbesondere beim Strassen- und Schienenbau oder bei Gewässerkorrektionen, so kann der Staatsrat die Durchführung einer Güterzusammenlegung oder einer andern Bodenverbesserung sowie Massnahmen zur Erhaltung der landwirtschaftlichen, rebbaulichen und forstwirtschaftlichen Fläche anordnen.
+<sup>1</sup> Besteht ein öffentliches Interesse, insbesondere beim Bau einer Mobilitätsinfrastruktur oder bei Gewässerkorrektionen, so kann der Staatsrat die Durchführung einer Güterzusammenlegung oder einer anderen Bodenverbesserung sowie Massnahmen zur Erhaltung der landwirtschaftlichen, rebbaulichen und forstwirtschaftlichen Fläche anordnen.
 
 <sup>2</sup> Das Unternehmen organisiert sich als Bodenverbesserungskörperschaft. Wenn nötig entscheidet der Staatsrat über deren Organisation.
 
@@ -219,9 +219,11 @@ beschliesst:
 
 <sup>1</sup> Die Bodenverbesserungsprojekte, die Bauten betreffen, werden nach den Artikeln 16 ff. aufgelegt. Nach Abschluss des Auflage- und Einspracheverfahrens werden sie von der Direktion genehmigt.
 
-<sup>2</sup> Sie sind den in der Raumplanungs- und Baugesetzgebung und in der Strassengesetzgebung vorgesehenen Bewilligungsverfahren nicht unterstellt.
+<sup>2</sup> Sie sind den in der Raumplanungs- und Baugesetzgebung vorgesehenen Bewilligungsverfahren nicht unterstellt; die Absätze 3 und 4 bleiben vorbehalten.
 
 <sup>3</sup> Für Hochbauten ist jedoch lediglich eine öffentliche Auflage und eine Baubewilligung gemäss Raumplanungs- und Baugesetzgebung erforderlich.
+
+<sup>4</sup> Mobilitätsinfrastrukturen, die in ein Bodenverbesserungsprojekt eingebunden sind und nicht überwiegend einem land-, forst- oder alpwirtschaftlichen Interesse dienen, unterliegen der Gesetzgebung über die Mobilität.
 
 #### Art. 18b
 
@@ -917,23 +919,23 @@ beschliesst:
 
 <sup>3</sup> Diese Entscheide werden vor der Erstellung des neuen Zustandes getroffen.
 
+#### Art. 94a
+
+**Wege – Rechtsstellung**
+
+<sup>1</sup> Von einer Körperschaft erstellte Wege gelten als Privatstrassen.
+
 #### Art. 95
 
 **Wege – Übernahme von Wegen**
 
-<sup>1</sup> Unter Vorbehalt der Genehmigung durch die zuständige Gemeindebehörde werden die Wege in der Regel durch die Gemeinde übernommen.
+<sup>1</sup> Die Körperschaft, solange sie nicht aufgelöst ist, oder die Unterhaltskörperschaft, wenn sie gebildet wird, können von der Gemeinde verlangen, dass sie das Eigentum an einer privaten Bodenverbesserungsstrasse übernimmt.
 
-<sup>2</sup> Die Schätzungskommission kann nicht übernommene Wege zu öffentlichen Flurwegen erklären.
+<sup>2</sup> …
 
 #### Art. 96
 
-**Wege – Nicht übernommene Wege**
-
-<sup>1</sup> Wege, die nicht zu den öffentlichen Sachen der Gemeinde übergegangen sind (Art. 95), gelten als Privatstrassen, die gemäss Entscheid der Schätzungskommission dem Gemeingebrauch zugewiesen wurden oder nicht.
-
-<sup>2</sup> Die Änderung dieser Zweckbestimmung wird durch den Gemeinderat oder, wenn der Weg auf dem Gebiet mehrerer Gemeinden gelegen ist, durch den Staatsrat beschlossen. Wurde die Körperschaft nicht aufgelöst, so fällt der Entscheid in ihre Kompetenz; wurde eine Unterhaltskörperschaft gegründet, so ist sie dafür zuständig.
-
-<sup>3</sup> Die Entscheide über die Zweckbestimmung und deren Änderung sind während dreissig Tagen öffentlich aufzulegen.
+**…**
 
 #### Art. 97
 
@@ -1069,9 +1071,9 @@ beschliesst:
 
 #### Art. 113
 
-**Anpassung – der öffentlichen Fusswege**
+**Anpassung – der öffentlichen Durchgänge**
 
-<sup>1</sup> Die Schätzungskommission passt ebenfalls die öffentlichen Fusswege gemäss Artikel 112 an.
+<sup>1</sup> Die Schätzungskommission passt ebenfalls die öffentlichen Durchgänge gemäss Artikel 112 an.
 
 #### Art. 114
 
@@ -1150,7 +1152,7 @@ beschliesst:
 - c) die Bonitierungsgrundsätze und -muster, die Detailbonitierungen und die Ansprüche jedes Eigentümers;
 - d) das generelle Wegnetz und die anderen gemeinschaftlichen Werke, deren Klassifizierung sowie ihre Hauptmerkmale;
 - e) die Abzüge;
-- f) der neue Zustand des Eigentums, der Dienstbarkeiten, der Grundlasten, der vorgemerkten persönlichen Rechte und der öffentlichen Fusswege sowie die Ausgleichszahlungen und ihre Anpassung an den Realwert;
+- f) der neue Zustand des Eigentums, der Dienstbarkeiten, der Grundlasten, der vorgemerkten persönlichen Rechte und der öffentlichen Durchgänge sowie die Ausgleichszahlungen und ihre Anpassung an den Realwert;
 - g) die vorübergehenden Werte;
 - h) der Übergangskataster, unter Vorbehalt der Ergänzungen, die in die Kompetenz des Grundbuchverwalters fallen;
 - i) der Vermarkungsplan;
@@ -1452,11 +1454,13 @@ beschliesst:
 
 **Rechtsstellung der Wege**
 
-<sup>1</sup> Durch eine Körperschaft erstellte Alpwege, die nicht von den Gemeinden übernommen wurden, auf deren Gebiet sie liegen, gelten als Privatstrassen, die, gemäss Entscheid der Körperschaft und nach Anhören der Gemeinden, dem Gemeingebrauch zugewiesen wurden oder nicht.
+<sup>1</sup> Von einer Körperschaft erstellte Alpwege gelten als Privatstrassen.
 
-<sup>2</sup> Die Änderung dieser Zweckbestimmung wird durch die Körperschaft nach Anhören der Gemeinden beschlossen.
+<sup>1a</sup> Die Körperschaft kann von der Gemeinde verlangen, dass sie das Eigentum an einem Alpweg übernimmt.
 
-<sup>3</sup> Die Entscheide über die Zweckbestimmung oder deren Änderung sind während dreissig Tagen öffentlich aufzulegen.
+<sup>2</sup> …
+
+<sup>3</sup> …
 
 #### Art. 158
 
@@ -1464,7 +1468,7 @@ beschliesst:
 
 <sup>1</sup> Die durch die Gemeinden übernommenen Wege werden durch diese unterhalten, sobald die Übertragung vollzogen wurde.
 
-<sup>2</sup> Die Körperschaftswege werden, unabhängig davon, ob sie dem Gemeingebrauch zugewiesen wurden oder nicht, von der Körperschaft unterhalten. Die Gemeinden können dennoch den Unterhalt übernehmen und von den interessierten Eigentümern einen von der Schätzungskommission festgesetzten Beitrag verlangen.
+<sup>2</sup> Die Wege, die im Eigentum der Körperschaft bleiben, unabhängig davon, ob sie im Gemeingebrauch sind oder nicht, werden von der Körperschaft unterhalten. Die Gemeinden können dennoch den Unterhalt übernehmen und von den interessierten Eigentümern einen von der Schätzungskommission festgesetzten Beitrag verlangen.
 
 #### Art. 159
 

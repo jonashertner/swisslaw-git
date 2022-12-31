@@ -4,13 +4,13 @@ number: "917.1"
 title: Loi sur les améliorations foncières
 short: LAF
 language: fr
-version: 2022-01-01
-valid_until: 2022-12-31
+version: 2023-01-01
+valid_until: 2024-02-29
 version_adopted: 2021-11-05
 adopted: 1990-05-30
 in_force: 1991-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/917.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7066/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7596/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Améliorations foncières – L
 
 (LAF)
 
-du 30.05.1990 (version entrée en vigueur le 01.01.2022)
+du 30.05.1990 (version entrée en vigueur le 01.01.2023)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -143,7 +143,7 @@ Décrète:
 
 **Amélioration imposée**
 
-<sup>1</sup> Dans l'intérêt public, notamment lors de la construction de routes, de voies ferrées ou lors de corrections de cours d'eau, le Conseil d'Etat peut ordonner l'exécution d'un remaniement parcellaire ou d'une autre amélioration foncière, ainsi que les mesures propres à assurer le maintien des aires agricole, viticole et forestière.
+<sup>1</sup> Dans l'intérêt public, notamment lors de la construction d'une infrastructure de mobilité ou lors de corrections de cours d'eau, le Conseil d'Etat peut ordonner l'exécution d'un remaniement parcellaire ou d'une autre amélioration foncière, ainsi que les mesures propres à assurer le maintien des aires agricole, viticole et forestière.
 
 <sup>2</sup> L'entreprise s'organise sous la forme d'un syndicat d'améliorations foncières. Au besoin, le Conseil d'Etat décide de cette organisation.
 
@@ -219,9 +219,11 @@ Décrète:
 
 <sup>1</sup> Les projets d'améliorations foncières qui concernent des constructions sont mis à l'enquête conformément aux articles 16 et suivants. Au terme de la procédure d'enquête et d'opposition, ils sont approuvés par la Direction.
 
-<sup>2</sup> Ils ne sont pas soumis aux procédures d'autorisation prévues par la législation sur l'aménagement du territoire et les constructions et par la législation sur les routes.
+<sup>2</sup> Sous réserve des alinéas 3 et 4, ils ne sont pas soumis aux procédures d'autorisation prévues par la législation sur l'aménagement du territoire et les constructions.
 
-<sup>3</sup> Toutefois, les ouvrages du bâtiment sont soumis exclusivement à l'enquête publique et à l'obligation du permis de construire prévues par la législation sur l'aménagement du territoire et les constructions.
+<sup>3</sup> Les ouvrages du bâtiment sont soumis exclusivement à l'enquête publique et à l'obligation du permis de construire prévues par la législation sur l'aménagement du territoire et les constructions.
+
+<sup>4</sup> Les infrastructures de mobilité incluses dans un projet d'amélioration foncière et qui ne servent pas majoritairement un intérêt d'exploitation agricole, forestière ou alpestre sont soumises à la législation sur la mobilité.
 
 #### Art. 18b
 
@@ -917,23 +919,23 @@ Décrète:
 
 <sup>3</sup> Ces décisions sont prises avant l'établissement du nouvel état.
 
+#### Art. 94a
+
+**Chemins – Statut**
+
+<sup>1</sup> Les chemins construits par un syndicat sont des routes privées.
+
 #### Art. 95
 
 **Chemins – Reprise des chemins**
 
-<sup>1</sup> Généralement et sous réserve de l'approbation de l'autorité communale compétente, les chemins sont repris par la commune.
+<sup>1</sup> Le syndicat tant qu'il n'est pas dissous ou le syndicat d'entretien s'il est constitué peut demander à la commune de reprendre la propriété d'une route privée d'amélioration foncière.
 
-<sup>2</sup> Les chemins non repris peuvent être classés chemins publics de dévestiture par la commission de classification.
+<sup>2</sup> …
 
 #### Art. 96
 
-**Chemins – Chemins non repris**
-
-<sup>1</sup> Les chemins qui ne passent pas au domaine public communal (art. 95) sont des routes privées qui, sur décision de la commission de classification, sont affectées ou non à l'usage commun.
-
-<sup>2</sup> La désaffectation est décidée par le conseil communal, ou par le Conseil d'Etat si le chemin est situé sur le territoire de plusieurs communes. La décision est de la compétence du syndicat tant qu'il n'est pas dissous ou du syndicat d'entretien s'il est constitué.
-
-<sup>3</sup> Les décisions concernant l'affectation et la désaffectation sont mises à l'enquête publique pendant trente jours.
+**…**
 
 #### Art. 97
 
@@ -1069,9 +1071,9 @@ Décrète:
 
 #### Art. 113
 
-**Adaptation – des sentiers publics**
+**Adaptation – des passages publics**
 
-<sup>1</sup> La commission de classification adapte également les sentiers publics, conformément à l'article 112.
+<sup>1</sup> La commission de classification adapte également les passages publics, conformément à l'article 112.
 
 #### Art. 114
 
@@ -1150,7 +1152,7 @@ Décrète:
 - c) les principes de taxation, les taxes types, les taxes de détail et les prétentions de chaque propriétaire;
 - d) le réseau général des chemins et les autres ouvrages collectifs, leur classification ainsi que leurs principales caractéristiques;
 - e) les retenues;
-- f) le nouvel état de propriété, des servitudes, des charges foncières, des droits personnels annotés et des sentiers publics ainsi que les soultes et leur adaptation à la valeur réelle;
+- f) le nouvel état de propriété, des servitudes, des charges foncières, des droits personnels annotés et des passages publics ainsi que les soultes et leur adaptation à la valeur réelle;
 - g) les valeurs passagères;
 - h) le cadastre transitoire, sous réserve des compléments de la compétence du conservateur du registre foncier;
 - i) le plan d'abornement;
@@ -1452,11 +1454,13 @@ Décrète:
 
 **Statut des chemins**
 
-<sup>1</sup> A moins qu'ils ne soient repris par les communes dont ils empruntent le territoire, les chemins alpestres construits par un syndicat sont des routes privées qui, sur décision du syndicat et après consultation des communes, sont affectées ou non à l'usage commun.
+<sup>1</sup> Les chemins alpestres construits par un syndicat sont des routes privées.
 
-<sup>2</sup> La désaffectation est décidée par le syndicat, après consultation des communes.
+<sup>1a</sup> Le syndicat peut demander à la commune de reprendre la propriété d'un chemin alpestre.
 
-<sup>3</sup> Les décisions concernant l'affectation et la désaffectation sont mises à l'enquête publique pendant trente jours.
+<sup>2</sup> …
+
+<sup>3</sup> …
 
 #### Art. 158
 
@@ -1464,7 +1468,7 @@ Décrète:
 
 <sup>1</sup> Les chemins repris par les communes sont entretenus par elles, dès que le transfert a été opéré.
 
-<sup>2</sup> Les chemins du syndicat, affectés ou non à l'usage commun, sont entretenus par le syndicat. Les communes peuvent toutefois se charger de l'entretien et demander aux propriétaires intéressés une contribution fixée par la commission de classification.
+<sup>2</sup> Les chemins restés en propriété du syndicat, qu'ils soient à usage public ou non, sont entretenus par le syndicat. Les communes peuvent toutefois se charger de l'entretien et demander aux propriétaires intéressés une contribution fixée par la commission de classification.
 
 #### Art. 159
 
