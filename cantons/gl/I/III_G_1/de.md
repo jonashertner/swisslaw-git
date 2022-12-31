@@ -4,13 +4,12 @@ number: III G/1
 title: Gesetz über die Verwaltungsrechtspflege
 short: Verwaltungsrechtspflegegesetz
 language: de
-version: 2022-07-01
-valid_until: 2022-12-31
-version_adopted: 2021-09-05
+version: 2023-01-01
+version_adopted: 2022-05-01
 adopted: 1986-05-04
 in_force: 1987-10-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/III-G.1"
-pdf: "https://gesetze.gl.ch/api/de/versions/2286/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2395/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2286/pdf_file"
 
 (Verwaltungsrechtspflegegesetz)
 
-Vom 04.05.1986 (Stand 01.07.2022)
+Vom 04.05.1986 (Stand 01.01.2023)
 
 Die Landsgemeinde,
 
@@ -68,6 +67,16 @@ beschliesst:
 
 **…**
 
+#### Art. 4a
+
+**Schriftlichkeit**
+
+<sup>1</sup> Wo nach diesem Gesetz Schriftlichkeit verlangt wird, ist die qualifizierte elektronische Signatur gemäss Bundesgesetz über die elektronische Signatur[^4a-1] der eigenhändigen Unterschrift gleichgestellt.
+
+<sup>2</sup> Der Regierungsrat kann für elektronische Eingaben Erleichterungen vorsehen.
+
+[^4a-1]: SR 943.03
+
 #### Art. 5
 
 **Anwendung auf Kirchen und Kirchgemeinden**
@@ -98,6 +107,16 @@ beschliesst:
 
 <sup>3</sup> Die Rechtspflegebestimmungen des Bundesrechts gehen vor.
 
+#### Art. 7a
+
+**Plattform für die elektronische Kommunikation**
+
+<sup>1</sup> Das Gesetz über die digitale Verwaltung[^7a-1] ist auf die Verfahren nach diesem Gesetz anwendbar.
+
+<sup>2</sup> Davon ausgenommen sind die Verfahren vor dem Verwaltungsgericht, den unabhängigen Rekurskommissionen sowie den verwaltungsunabhängigen Kommissionen.
+
+[^7a-1]: GS [II H/1](https://gesetze.gl.ch/data/II-H.1/de)
+
 ## 2. Grundsätze des staatlichen Handelns
 
 #### Art. 8
@@ -122,6 +141,14 @@ beschliesst:
 <sup>1</sup> Die Behörde wendet das Recht von Amtes wegen an.
 
 <sup>2</sup> Der Regierungsrat und die verwaltungsgerichtlichen Behörden überprüfen von Amtes wegen oder auf Antrag vorfrageweise die Geltung und Rechtmässigkeit der im hängigen Fall anwendbaren Vorschriften. Sie wenden keine Vorschrift an, die dem Bundesrecht oder höherstehendem kantonalen Recht widerspricht.
+
+#### Art. 9a
+
+**Führung und Weitergabe von Akten**
+
+<sup>1</sup> Die Behörden führen die Akten digital und geben sie elektronisch weiter.
+
+<sup>2</sup> Ausgenommen sind Akten, die sich aus technischen oder beweisrechtlichen Gründen nicht eignen.
 
 ## 3. Allgemeine Verfahrensbestimmungen und Bestimmungen für das Verfahren von Behörden, die als erste oder einzige Instanz entscheiden
 
@@ -223,6 +250,21 @@ beschliesst:
 
 <sup>2</sup> Solange die Partei die Vollmacht nicht widerruft, macht die Behörde ihre Mitteilungen an den Vertreter.
 
+#### Art. 18a
+
+**Pflicht zum digitalen Verkehr**
+
+<sup>1</sup> Personen, die berufsmässig handeln, und juristische Personen können den Austausch von Dokumenten mit den Behörden nur über die jeweilige Plattform für die Übermittlung elektronischer Dokumente abwickeln.
+
+<sup>2</sup> Als berufsmässig handelnde Person gilt:
+
+- a. wer nach dem kantonalen Anwaltsgesetz zur Parteivertretung vor glarnerischen Gerichten berechtigt ist;
+- b. wer bereit ist, in einer unbestimmten Vielzahl von Fällen die Vertretung zu übernehmen.
+
+<sup>3</sup> Wer zur Benutzung der jeweiligen Plattform für die Übermittlung elektronischer Dokumente verpflichtet ist und Eingaben auf Papier einreicht, dem setzt die Behörde eine angemessene Frist für die elektronische Einreichung mit der Androhung, dass die Eingabe sonst unbeachtet bleibt.
+
+<sup>4</sup> Ausgenommen sind Dokumente, die sich aus technischen oder beweisrechtlichen Gründen nicht eignen.
+
 ### 3.3. Ablauf des Verfahrens
 
 ### 3.3.1. Allgemein
@@ -318,11 +360,11 @@ beschliesst:
 
 **Form des Verfahrens und der Eingaben**
 
-<sup>1</sup> Das nichtstreitige Verfahren erster Instanz kann im Rahmen dieses Gesetzes mündlich oder schriftlich durchgeführt werden.
+<sup>1</sup> Das nichtstreitige Verfahren erster Instanz kann im Rahmen dieses Gesetzes mündlich, schriftlich oder elektronisch durchgeführt werden.
 
 <sup>2</sup> Die übrigen Verfahren sind schriftlich, ausgenommen, wenn eine Vorschrift eine mündliche Parteiverhandlung vorschreibt oder gestattet.
 
-<sup>3</sup> Eine Eingabe ist grundsätzlich schriftlich zu machen. Ein Begehren kann bei der zuständigen Behörde aber auch zu Protokoll gegeben werden.
+<sup>3</sup> Eine Eingabe ist grundsätzlich schriftlich oder elektronisch zu machen. Ein Begehren kann bei der zuständigen Behörde aber auch zu Protokoll gegeben werden.
 
 <sup>4</sup> Die Behörde kann unter Fristansetzung eine Begründung, Verdeutlichung, Berichtigung oder Ergänzung der Eingabe verlangen.
 
@@ -338,7 +380,7 @@ beschliesst:
 
 **Vorladungen**
 
-<sup>1</sup> Die Vorladung muss schriftlich und, dringliche Fälle ausgenommen, spätestens 14 Tage vor dem angesetzten Termin erfolgen.
+<sup>1</sup> Die Vorladung muss schriftlich oder elektronisch und, dringliche Fälle ausgenommen, spätestens 14 Tage vor dem angesetzten Termin erfolgen.
 
 <sup>2</sup> Die Vorladung enthält Angaben über:
 
@@ -356,7 +398,9 @@ beschliesst:
 
 <sup>2</sup> Wenn der Empfänger ausserhalb des Kantons seinen Wohnsitz, Sitz oder regelmässigen Aufenthalt hat, kann die Behörde die am Ort zuständige Instanz ersuchen, die Zustellung vorzunehmen.
 
-<sup>3</sup> Parteien mit Wohnsitz, Sitz oder regelmässigem Aufenthalt im Ausland müssen auf Verlangen der Behörde in der Schweiz ein Zustelldomizil bezeichnen. Leistet eine Partei dieser Aufforderung nicht Folge, können die Zustellungen unterbleiben oder durch öffentliche Bekanntmachung erfolgen.
+<sup>2a</sup> Die Parteien können überdies ein Benutzerkonto auf der jeweiligen Plattform für die Übermittlung elektronischer Dokumente angeben und verlangen, dass der Austausch von Dokumenten mit ihnen über dieses abgewickelt wird.
+
+<sup>3</sup> Parteien mit Wohnsitz, Sitz oder regelmässigem Aufenthalt im Ausland müssen auf Verlangen der Behörde in der Schweiz ein Zustelldomizil oder ein Benutzerkonto auf der jeweiligen Plattform für die Übermittlung elektronischer Dokumente bezeichnen. Leistet eine Partei dieser Aufforderung nicht Folge, können die Zustellungen unterbleiben oder durch öffentliche Bekanntmachung erfolgen.
 
 <sup>3a</sup> Sind an einem Verfahren mehrere Parteien beteiligt, die eine gemeinsame Eingabe oder inhaltlich gleiche Eingaben eingereicht haben, kann die Behörde sie verpflichten, ein gemeinsames Zustelldomizil oder einen gemeinsamen Vertreter zu bezeichnen. Leisten die Beteiligten dieser Aufforderung nicht Folge, kann die Verwaltungsbehörde entweder ein Zustelldomizil bezeichnen oder einen Vertreter bestimmen.
 
@@ -378,6 +422,8 @@ beschliesst:
 
 <sup>1</sup> Eine Frist, die durch eine Mitteilung oder Veröffentlichung oder den Eintritt eines Ereignisses ausgelöst wird, beginnt am folgenden Tag zu laufen.
 
+<sup>1a</sup> Bei der Zustellung über die jeweilige Plattform für die Übermittlung von elektronischen Dokumenten beginnt die Frist im Zeitpunkt zu laufen, der auf der Abrufquittung ausgewiesen wird, spätestens jedoch am siebten Tag nach der Übermittlung, sofern die Person mit einer Zustellung rechnen musste.
+
 <sup>2</sup> Fällt der letzte Tag einer Frist auf einen Samstag, Sonntag oder staatlich anerkannten Feiertag, so endigt sie am nächsten Werktag.
 
 #### Art. 33
@@ -395,6 +441,11 @@ beschliesst:
 <sup>1</sup> Schriftliche Eingaben müssen spätestens am letzten Tag der Frist eingereicht oder der schweizerischen Post oder einer schweizerischen diplomatischen Vertretung im Ausland übergeben werden.
 
 <sup>2</sup> Die Frist gilt auch dann als gewahrt, wenn eine Eingabe rechtzeitig bei einer unzuständigen Behörde eingereicht wird.
+
+<sup>3</sup> Bei elektronischer Einreichung einer Eingabe ist für die Einhaltung der Frist der Zeitpunkt massgebend, der in der Eingangsquittung ausgewiesen ist. Die Behörde kann die Nachreichung von Dokumenten auf Papier verlangen, wenn:
+
+- a. aufgrund technischer Probleme die Gefahr besteht, dass die Bearbeitung innert nützlicher Frist nicht möglich ist;
+- b. die Dokumente auf Papier zur Überprüfung der Echtheit oder zur weiteren Verwendung notwendig sind.
 
 #### Art. 35
 
@@ -547,13 +598,13 @@ beschliesst:
 
 #### Art. 50
 
-<sup>1</sup> Die Behörde kann von anderen Behörden, die aufgrund ihrer amtlichen Tätigkeit Auskunft geben können, nach den Bestimmungen über die Amts- und Rechtshilfe (Art. 24 - 25) einen schriftlichen Bericht zum Nachweis von Tatsachen einholen.
+<sup>1</sup> Die Behörde kann von anderen Behörden, die aufgrund ihrer amtlichen Tätigkeit Auskunft geben können, nach den Bestimmungen über die Amts- und Rechtshilfe (Art. 24–25) einen schriftlichen oder elektronischen Bericht zum Nachweis von Tatsachen einholen.
 
 ### 3.5.5. Auskünfte von Drittpersonen
 
 #### Art. 51
 
-<sup>1</sup> Wenn die Umstände es rechtfertigen, kann die Behörde von vertrauenswürdigen und zur Auskunft fähigen privaten Personen mündliche oder schriftliche Auskünfte einholen.
+<sup>1</sup> Wenn die Umstände es rechtfertigen, kann die Behörde von vertrauenswürdigen und zur Auskunft fähigen privaten Personen mündliche, schriftliche oder elektronische Auskünfte einholen.
 
 <sup>2</sup> Vor einer Befragung sind die Personalien festzustellen und die Beziehungen des Befragten zu den Parteien und zur Angelegenheit abzuklären; eine mündlich erteilte Auskunft muss in einem Protokoll festgehalten werden.
 
@@ -682,7 +733,7 @@ beschliesst:
 
 <sup>1</sup> Die Parteien haben Anspruch auf rechtliches Gehör.
 
-<sup>2</sup> Die Behörde muss die Parteien vor Erlass einer Verfügung oder vor einem sonstigen Entscheid zum Sachverhalt und zur Rechtslage persönlich oder schriftlich anhören.
+<sup>2</sup> Die Behörde muss die Parteien vor Erlass einer Verfügung oder vor einem sonstigen Entscheid zum Sachverhalt und zur Rechtslage persönlich, schriftlich oder elektronisch anhören.
 
 <sup>3</sup> Sind in einer Sache mehrere Parteien mit unterschiedlichen Interessen beteiligt, so hört die Behörde jede Partei zu den Vorbringen der andern an. Eine Anhörung entfällt, wenn die Vorbringen einer Partei unerheblich erscheinen oder aus schliesslich zugunsten einer andern Partei lauten.
 
@@ -726,7 +777,7 @@ beschliesst:
 
 **Akteneinsicht**
 
-<sup>1</sup> Jede Partei hat Anspruch darauf, in ihrer Angelegenheit alle Akten einzusehen; das sind namentlich:
+<sup>1</sup> Jede Partei hat Anspruch darauf, in ihrer Angelegenheit folgende Akten in der Form einzusehen, in der sie vorliegen:
 
 - a. die Eingaben von Parteien und die Vernehmlassungen von Behörden;
 - b. alle als Beweismittel dienenden Akten, und
@@ -735,6 +786,8 @@ beschliesst:
 <sup>2</sup> Die Partei kann gegen Entgelt Fotokopien erhalten.
 
 <sup>3</sup> Anwälten werden die Akten auf Antrag zugestellt.
+
+<sup>3a</sup> Personen, die mit der Behörde über die jeweilige Plattform für die Übermittlung von elektronischen Dokumenten kommunizieren, wird die Akteneinsicht auf dieser Plattform gewährt.
 
 <sup>4</sup> Für die Einsicht in die Akten einer erledigten Sache kann eine Gebühr erhoben werden.
 
@@ -836,7 +889,7 @@ beschliesst:
 
 **Form**
 
-<sup>1</sup> Die Behörde eröffnet den Parteien den Entscheid schriftlich; notfalls macht sie ihn nach Artikel 31 öffentlich bekannt.
+<sup>1</sup> Die Behörde eröffnet den Parteien den Entscheid schriftlich oder elektronisch; notfalls macht sie ihn nach Artikel 31 öffentlich bekannt.
 
 <sup>2</sup> Sie kann anwesenden Parteien verfahrensleitende und andere Zwischenentscheide mündlich eröffnen; sie muss diese aber schriftlich bestätigen, wenn eine Partei dies unverzüglich verlangt.
 
@@ -1576,6 +1629,8 @@ beschliesst:
 <sup>1</sup> Dieses Gesetz ist nicht anwendbar auf Verfahren, die im Zeitpunkt seines Inkrafttretens hängig sind; in allen diesen Fällen gilt das bisherige Recht einschliesslich der früheren Zuständigkeiten.
 
 <sup>2</sup> Die Bestimmungen über die Zuständigkeit und den Ausstand (Art. 10-14) und über die Revision und Erläuterung (Art. 117-122) sind mit Inkrafttreten auf alle Verfahren anwendbar.
+
+<sup>3</sup> Personen, die zum digitalen Verkehr mit Behörden verpflichtet sind (Art. 18a), können Daten und Dokumente noch während zweier Jahre physisch übermitteln. Die Frist beginnt mit dem Tag zu laufen, an dem die Behörden die jeweilige Plattform für die Übermittlung bezeichnen.
 
 #### Art. 140a
 
