@@ -3,13 +3,12 @@ canton: FR
 number: "631.411"
 title: Verordnung FIND über den Abzug von Berufskosten bei unselbstständiger Erwerbstätigkeit
 language: de
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-11-22
+version: 2023-01-01
+version_adopted: 2022-10-13
 adopted: 2006-12-14
 in_force: 2007-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/631.411"
-pdf: "https://bdlf.fr.ch/api/de/versions/7014/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7574/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/7014/pdf_file"
 
 Abzug von Berufskosten bei unselbstständiger Erwerbstätigkeit – V
 
-vom 14.12.2006 (Fassung in Kraft getreten am 01.01.2022)
+vom 14.12.2006 (Fassung in Kraft getreten am 01.01.2023)
 
 Die Finanzdirektion
 
@@ -40,7 +39,7 @@ verordnet:
 
 <sup>3</sup> Der Ehegatte oder die eingetragene Partnerin bzw. der eingetragene Partner kann keine zusätzlichen Fahrkosten abziehen, wenn sie oder er für die Fahrt zur Arbeitsstätte dasselbe Fahrzeug wie die steuerpflichtige Person benützt.
 
-<sup>4</sup> Bei Fahrgemeinschaften, d.h. bei gemeinsamen Fahrten mit Arbeitskollegen, kann der volle Fahrkostenabzug nur einmal gewährt werden.
+<sup>4</sup> Bei Fahrgemeinschaften, d. h. bei gemeinsamen Fahrten mit Arbeitskollegen, kann der volle Fahrkostenabzug nur einmal gewährt werden.
 
 <sup>5</sup> Nicht abziehbar sind die vom Arbeitgeber oder einem Dritten übernommenen Aufwendungen, der durch die berufliche Stellung der steuerpflichtigen Person bedingte Privataufwand (sog. Standesauslagen) und die Aufwendungen für den Unterhalt der steuerpflichtigen Person und ihrer Familie (Art. 35 Bst. a DStG).
 
@@ -56,7 +55,7 @@ verordnet:
 
 **Fahrkosten**
 
-<sup>1</sup> Die notwendigen Kosten für Fahrten zwischen Wohn- und Arbeitsstätte sind im Falle einer beachtlichen Entfernung, d.h. mindestens 1,5 km, abziehbar.
+<sup>1</sup> Die notwendigen Kosten für Fahrten zwischen Wohn- und Arbeitsstätte sind im Falle einer beachtlichen Entfernung, d. h. mindestens 1,5 km, abziehbar. Der maximale Abzug pro Jahr beträgt 12'000 Franken.
 
 <sup>2</sup> Der Abzug beträgt:
 

@@ -3,13 +3,12 @@ canton: FR
 number: "631.411"
 title: Ordonnance DFIN sur la déduction des frais professionnels des personnes exerçant une activité lucrative dépendante
 language: fr
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-11-22
+version: 2023-01-01
+version_adopted: 2022-10-13
 adopted: 2006-12-14
 in_force: 2007-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/631.411"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7014/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7574/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/7014/pdf_file"
 
 Déduction des frais professionnels des salariés – O
 
-du 14.12.2006 (version entrée en vigueur le 01.01.2022)
+du 14.12.2006 (version entrée en vigueur le 01.01.2023)
 
 La Direction des finances
 
@@ -56,7 +55,7 @@ Ordonne:
 
 **Frais de déplacement**
 
-<sup>1</sup> Les frais nécessaires de déplacement entre le domicile et le lieu de travail sont déductibles en cas de distance notable, soit au minimum 1,5 km.
+<sup>1</sup> Les frais nécessaires de déplacement entre le domicile et le lieu de travail sont déductibles en cas de distance notable, soit au minimum 1,5 km, mais au maximum jusqu'à concurrence de 12'000 francs par an.
 
 <sup>2</sup> La déduction est fixée comme il suit:
 
