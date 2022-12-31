@@ -4,11 +4,11 @@ title: "Legge federale del 20 marzo 2009 sul trasporto di viaggiatori (Legge sul
 short: LTV
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/680"
 language: it
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2009-03-20
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/680/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2009-680-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/680/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/680/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2009-680-20230101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/680/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/680/20220101/it"
 
 (Legge sul trasporto di viaggiatori, LTV)
 
-del 20 marzo 2009[^t-1] (Stato 1° gennaio 2022)
+del 20 marzo 2009[^t-1] (Stato 1° gennaio 2023)
 
 [^t-1]: All. 1 della LF del 20 mar. 2009 sulla Riforma delle ferrovie 2 ([RU 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679)).
 
@@ -321,7 +321,7 @@ Le imprese devono:
 
 [^18-1]: Introdotta dal n. I 9 della LF del 28 set. 2018 sull’organizzazione dell’infrastruttura ferroviaria, in vigore dal 1° ge. 2021 ([RU 2020 1889](https://fedlex.data.admin.ch/eli/oc/2020/393); [FF 2016 7711](https://fedlex.data.admin.ch/eli/fga/2016/2093)).
 
-## Sezione 3*a*:**** Uso degli impianti e dei veicoli
+## Sezione 3*a*: Uso degli impianti e dei veicoli
 
 [^sec3a-1]
 
@@ -573,7 +573,7 @@ Il mittente è tenuto a:
 
 <sup>3</sup> Se si è verificato un danno, si presume che sia dovuto al trasporto. Tuttavia, se dimostra l’esistenza di circostanze particolari, definite dal Consiglio federale, indicanti un’altra origine del danno, l’impresa è responsabile soltanto in quanto il danneggiato provi che il danno non è dovuto a tali circostanze.
 
-## Sezione 6: Offerta di trasporto oggetto di ordinazione: disposizioni generali****
+## Sezione 6: Offerta di trasporto oggetto di ordinazione: disposizioni generali
 
 [^sec6-1]
 
@@ -585,11 +585,11 @@ Il mittente è tenuto a:
 
 <sup>1</sup> La Confederazione e i Cantoni (i committenti) indennizzano le imprese di trasporto per i costi non coperti, pianificati in quanto tali, dell’offerta di trasporto da essi ordinata congiuntamente nell’ambito del traffico regionale viaggiatori.[^28-1]
 
-<sup>1bis</sup> Per il 2020 e il 2021 la Confederazione e i Cantoni indennizzano inoltre le imprese per le perdite rimanenti dopo lo scioglimento della riserva speciale di cui all’articolo 36 capoverso 2, secondo le rispettive quote stabilite all’articolo 30. Le altre riserve delle imprese non sono considerate. L’indennità è versata in base ai conti economici delle singole linee delle imprese.[^28-2]
+<sup>1bis</sup> ...[^28-2]
 
 <sup>2</sup> Le offerte del traffico locale e quelle senza funzione di collegamento sono escluse dalle prestazioni federali.
 
-<sup>2bis</sup> In deroga al capoverso 2, per il 2020 e il 2021 la Confederazione versa per il traffico locale indennità pari a un terzo delle perdite finanziarie dovute alla COVID-19. L’indennità è versata in base ai conti economici delle singole linee delle imprese.[^28-3]
+<sup>2bis</sup> ...[^28-3]
 
 <sup>3</sup> La Confederazione assume integralmente l’onere dei costi non coperti, pianificati in quanto tali, delle offerte di trasporto d’importanza nazionale da essa ordinate. Può inoltre assumere i costi di prestazioni legate all’offerta di trasporto quando esse giovano o sono accessibili a tutte le imprese.[^28-4]
 
@@ -606,18 +606,7 @@ Il mittente è tenuto a:
 
 #### Art. 28a
 
-**Offerte turistiche**[^28a-1]
-
-<sup>1</sup> Se un Cantone sostiene finanziariamente offerte turistiche che dispongono di una concessione per il trasporto di viaggiatori o di un’autorizzazione cantonale per l’esercizio di un impianto a fune, la Confederazione può partecipare al finanziamento.
-
-<sup>2</sup>
-
-Gli aiuti finanziari della Confederazione sono versati soltanto se:
-
-- a. le perdite finanziarie dovute alla COVID-19 nel periodo compreso tra il 1° marzo 2020 e il 31 dicembre 2021 sono superiori a un terzo delle riserve costituite negli esercizi 2017–2019; e
-- b. l’impresa non distribuisce dividendi per gli esercizi 2020, 2021 e 2022.
-
-<sup>3</sup> Gli aiuti finanziari della Confederazione ammontano all’80 per cento del sostegno del Cantone.
+[^28a-1]
 
 [^28a-1]: Introdotto dal n. I 4 della LF del 25 set. 2020 sul sostegno ai trasporti pubblici nella crisi della COVID-19 ([RU 2020 3825](https://fedlex.data.admin.ch/eli/oc/2020/708); [FF 2020 5907](https://fedlex.data.admin.ch/eli/fga/2020/1731)). Nuovo testo giusta il n. I della LF del 17 dic. 2021 (Proroga del sostegno ai trasporti pubblici nella crisi della COVID-19), in vigore dal 1° gen. 2022 al 31 dic. 2022 ([RU 2021 877](https://fedlex.data.admin.ch/eli/oc/2021/877); [FF 2021 2614](https://fedlex.data.admin.ch/eli/fga/2021/2614)).
 
@@ -739,7 +728,7 @@ La procedura di ordinazione è svolta ogni due anni. L’UFT armonizza la proced
 
 [^31c-1]: Introdotto dal n. I 7 della LF del 16 mar. 2012 sulla seconda fase della Riforma delle ferrovie 2, in vigore dal 1° lug. 2013 ([RU 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 823](https://fedlex.data.admin.ch/eli/fga/2011/131)).
 
-## Sezione 6*a*: Offerta di trasporto oggetto di ordinazione: procedura di messa a concorso****
+## Sezione 6*a*: Offerta di trasporto oggetto di ordinazione: procedura di messa a concorso
 
 [^sec6a-1]
 
@@ -928,7 +917,7 @@ L’UFT decide:
 
 [^32l-1]: Introdotto dal n. I 7 della LF del 16 mar. 2012 sulla seconda fase della Riforma delle ferrovie 2, in vigore dal 1° lug. 2013 ([RU 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 823](https://fedlex.data.admin.ch/eli/fga/2011/131)).
 
-## Sezione 6*b*: Offerta di trasporto oggetto di ordinazione: disposizioni speciali per le offerte non messe a concorso****
+## Sezione 6*b*: Offerta di trasporto oggetto di ordinazione: disposizioni speciali per le offerte non messe a concorso
 
 [^sec6b-1]
 
@@ -990,7 +979,7 @@ Sentiti i Cantoni, l’UFT può disporre misure per raggiungere gli obiettivi o 
 
 <sup>2</sup> Se i ricavi[^36-2] e le prestazioni finanziarie della Confederazione e dei Cantoni superano i costi globali di un settore di trasporto che dà diritto all’indennità, l’impresa attribuisce almeno due terzi di tale eccedenza alla riserva speciale per la copertura di disavanzi futuri dei settori di trasporto che danno diritto all’indennità. Se la riserva speciale dei settori di trasporto raggiunge il 25 per cento della cifra d’affari annuale dei settori che danno diritto all’indennità o 12 milioni di franchi, l’impresa può disporre liberamente dell’utile.
 
-<sup>2bis</sup> In deroga al capoverso 2, negli anni 2020 e 2021 l’intera eccedenza va attribuita alla riserva speciale. Le imprese che per il 2020 e il 2021 ricevono un’indennità supplementare secondo l’articolo 28 capoverso 1<sup>bis</sup> o 2<sup>bis</sup> non possono distribuire dividendi per gli esercizi degli anni 2020, 2021 e 2022.[^36-3]
+<sup>2bis</sup> ...[^36-3]
 
 <sup>3</sup> Se l’impresa cessa la sua attività nel settore di trasporto che dà diritto all’indennità, la riserva speciale deve essere sciolta.
 

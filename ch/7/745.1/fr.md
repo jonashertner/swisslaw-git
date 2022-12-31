@@ -4,20 +4,20 @@ title: Loi du 20 mars 2009 sur le transport de voyageurs (LTV)
 short: LTV
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/680"
 language: fr
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2009-03-20
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/680/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2009-680-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/680/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/680/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2009-680-20230101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/680/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Loi sur le transport de voyageurs**<sup>∗</sup>**
+# Loi sur le transport de voyageurs<sup></sup>
 
 (LTV)[^t-1]
 
-du 20 mars 2009[^t-2] (Etat le 1<sup>er</sup> janvier 2022)
+du 20 mars 2009[^t-2] (État le 1<sup>er</sup> janvier 2023)
 
 [^t-1]: <sup>∗</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 [^t-2]: Annexe 1 de la loi du 20 mars 2009 sur la réforme des chemins de fer 2 ([RO 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679)).
@@ -311,7 +311,7 @@ Les entreprises sont tenues:
 
 [^18-1]: Introduite par le ch. I 9 de la LF du 28 sept. 2018 sur l’organisation de l’infrastructure ferroviaire, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 1889](https://fedlex.data.admin.ch/eli/oc/2020/393); [FF 2016 8399](https://fedlex.data.admin.ch/eli/fga/2016/2093)).
 
-## Section 3*a***** Utilisation des installations et des véhicules
+## Section 3*a* Utilisation des installations et des véhicules
 
 [^sec3a-1]
 
@@ -560,7 +560,7 @@ Il incombe à l’expéditeur:
 
 <sup>3</sup> Le dommage constaté est présumé résulter du transport. Toutefois, lorsque l’entreprise établit l’existence de circonstances particulières, définies par le Conseil fédéral, qui font supposer que le dommage a d’autres causes, l’entreprise n’est responsable que dans la mesure où la personne lésée prouve que le dommage n’est pas dû à ces circonstances.
 
-## Section 6 Prestations de transport commandées: dispositions générales****
+## Section 6 Prestations de transport commandées: dispositions générales
 
 [^sec6-1]
 
@@ -572,11 +572,11 @@ Il incombe à l’expéditeur:
 
 <sup>1</sup> Pour la prestation du transport régional de voyageurs qu’ils commandent conjointe-ment, la Confédération et les cantons (commanditaires) indemnisent les entreprises pour les coûts non couverts selon les comptes planifiés.[^28-2]
 
-<sup>1bis</sup> Pour les années 2020 et 2021, ils indemnisent en outre, dans la proportion des parts fixées conformément à l’art. 30, les entreprises pour les pertes qui subsistent après dissolution de la réserve spéciale visée à l’art. 36, al. 2. Les autres réserves des entreprises ne sont pas prises en considération. L’indemnisation a lieu sur la base des comptes de résultats par ligne des entreprises.[^28-3]
+<sup>1bis</sup> …[^28-3]
 
 <sup>2</sup> Le trafic local et les lignes sans fonction de desserte sont exclus des prestations fédérales.
 
-<sup>2bis</sup> Pour les années 2020 et 2021, en dérogation à l’al. 2, la Confédération verse des indemnités au titre du trafic local à hauteur du tiers des pertes financières dues au COVID-19. L’indemnisation a lieu sur la base des comptes de résultats par ligne des entreprises.[^28-4]
+<sup>2bis</sup> …[^28-4]
 
 <sup>3</sup> La Confédération prend intégralement en charge les coûts non couverts planifiés des prestations d’importance nationale qu’elle commande. Elle peut indemniser les coûts de prestations relatives à l’offre de transport lorsque celles-ci servent à toutes les entreprises ou sont à leur disposition.[^28-5]
 
@@ -593,18 +593,7 @@ Il incombe à l’expéditeur:
 
 #### Art. 28a
 
-**Offres touristiques**[^28a-1]
-
-<sup>1</sup> Si un canton soutient des offres touristiques soumises à concession de transport de voyageurs ou à autorisation cantonale permettant d’exploiter des installations de transport à câbles, la Confédération peut participer au financement.
-
-<sup>2</sup>
-
-Les aides financières de la Confédération présupposent que:
-
-- a. les pertes financières dues au COVID-19 subies pendant la période du 1<sup>er</sup> mars 2020 au 31 décembre 2021 sont supérieures à un tiers des réserves constituées au cours des exercices 2017 à 2019;
-- b. l’entreprise ne verse pas de dividendes pour les exercices 2020, 2021 et 2022.
-
-<sup>3</sup> L’aide financière fédérale s’élève à 80 % du soutien cantonal.
+[^28a-1]
 
 [^28a-1]: Introduit par le ch. I 4 de la LF du 25 sept. 2020 sur le soutien des transports publics durant la crise du COVID-19 ([RO 2020 3825](https://fedlex.data.admin.ch/eli/oc/2020/708); [FF 2020 6493](https://fedlex.data.admin.ch/eli/fga/2020/1731)). Nouvelle teneur selon le ch. I de la LF du 17 déc. 2021 (Prolongation du soutien aux transports publics durant la crise du COVID-19), en vigueur du 1<sup>er</sup> janv. au 31 déc. 2022 ([RO 2021 877](https://fedlex.data.admin.ch/eli/oc/2021/877); [FF 2021 2614](https://fedlex.data.admin.ch/eli/fga/2021/2614)).
 
@@ -723,7 +712,7 @@ La procédure de commande a lieu tous les deux ans. L’OFT synchronise la proc�
 
 [^31c-1]: Introduit par le ch. I 7 de la LF du 16 mars 2012 sur la 2<sup>e</sup> partie de la réforme des chemins de fer 2, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 857](https://fedlex.data.admin.ch/eli/fga/2011/131)).
 
-## Section 6*a* Prestations de transport commandées: procédure de mise au concours****
+## Section 6*a* Prestations de transport commandées: procédure de mise au concours
 
 [^sec6a-1]
 
@@ -912,7 +901,7 @@ L’OFT arrête les décisions suivantes:
 
 [^32l-1]: Introduit par le ch. I 7 de la LF du 16 mars 2012 sur la 2<sup>e</sup> partie de la réforme des chemins de fer 2, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 857](https://fedlex.data.admin.ch/eli/fga/2011/131)).
 
-## Section 6*b* Prestations de transport commandées: dispositions spécifiques aux prestations qui ne sont pas mises au concours****
+## Section 6*b* Prestations de transport commandées: dispositions spécifiques aux prestations qui ne sont pas mises au concours
 
 [^sec6b-1]
 
@@ -974,7 +963,7 @@ Après avoir consulté les cantons, l’OFT peut ordonner des mesures afin d’a
 
 <sup>2</sup> Lorsque les recettes et les prestations financières fournies par la Confédération et les cantons dépassent les dépenses globales d’un secteur de transport bénéficiant d’indemnités, l’entreprise affecte au moins deux tiers de cet excédent à une réserve spéciale destinée à couvrir les futurs déficits des secteurs indemnisés. Si cette réserve spéciale atteint 25 % du chiffre d’affaires annuel des secteurs bénéficiant d’indemnités ou si elle atteint 12 millions de francs, le bénéfice est à la libre disposition de l’entreprise.
 
-<sup>2bis</sup> En dérogation à l’al. 2, l’excédent est attribué dans sa totalité à la réserve spéciale en 2020 et en 2021. Les entreprises qui reçoivent une indemnité supplémentaire pour les années 2020 et 2021 au titre de l’art. 28, al. 1<sup>bis</sup> ou 2<sup>bis</sup>, ne peuvent pas distribuer de dividendes au titre des exercices 2020, 2021 et 2022.[^36-1]
+<sup>2bis</sup> …[^36-1]
 
 <sup>3</sup> Si l’entreprise cesse son activité dans les secteurs de transport bénéficiant d’indemnités, elle doit dissoudre la réserve spéciale.
 
