@@ -3,18 +3,18 @@ sr: "672.933.61"
 title: Ordonnance du 15 juin 1998 concernant la convention de double imposition américano-suisse du 2 octobre 1996
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/1807_1807_1807"
 language: fr
-version: 2022-01-01
+version: 2023-01-01
 adopted: 1998-06-15
 in_force: 1998-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/1807_1807_1807/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1998-1807_1807_1807-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/1807_1807_1807/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/1807_1807_1807/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-1998-1807_1807_1807-20230101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/1807_1807_1807/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance concernant la convention de double imposition américano‑suisse du 2 octobre 1996
 
-du 15 juin 1998 (Etat le 1<sup>er</sup> janvier 2022)
+du 15 juin 1998 (État le 1<sup>er</sup> janvier 2023)
 
 Le Conseil fédéral suisse,
 
@@ -72,47 +72,52 @@ Le droit au remboursement de l’impôt anticipé suisse retenu à la source s�
 
 **Procédure en vue du remboursement**
 
-<sup>1</sup> Le remboursement de l’impôt anticipé suisse retenu à la source doit être demandé au moyen d’une formule officielle à l’Administration fédérale des contributions au plus tard le 31 décembre de la troisième année suivant l’expiration de l’année civile en laquelle est échu le rendement imposé. Il convient d’utiliser les formules 82 I pour les personnes physiques, 82 C pour les entreprises et 82 E pour les autres bénéficiaires. Si ce délai n’est pas respecté, le droit au remboursement s’éteint.
+<sup>1</sup> Le remboursement de l’impôt anticipé suisse retenu à la source doit être demandé au moyen d’une formule officielle à l’Administration fédérale des contributions (AFC) au plus tard le 31 décembre de la troisième année suivant l’expiration de l’année civile en laquelle est échu le rendement imposé. Il convient d’utiliser les formules 82 I pour les personnes physiques, 82 C pour les entreprises et 82 E pour les autres bénéficiaires. Si ce délai n’est pas respecté, le droit au remboursement s’éteint.[^3-1]
 
-<sup>2</sup> Ce délai est réputé observé si, avant son expiration, la formule de requête dûment remplie et accompagnée des moyens de preuve nécessaires parvient à l’Administration fédérale des contributions ou est remise à son adresse à la poste suisse ou à une représentation diplomatique ou consulaire suisse à l’étranger.
+<sup>2</sup> Ce délai est réputé observé si, avant son expiration, la formule de requête dûment remplie et accompagnée des moyens de preuve nécessaires parvient à l’AFC[^3-2] ou est remise à son adresse à la poste suisse ou à une représentation diplomatique ou consulaire suisse à l’étranger.
 
-<sup>3</sup> L’Administration fédérale des contributions examine la demande. Elle demande les renseignements complémentaires et moyens de preuve nécessaires directement à la personne requérante ou par l’intermédiaire de l’autorité compétente des États-Unis prévue à l’art. 3, par. 1, let. f, (ii), de la convention.
+<sup>3</sup> L’AFC examine la demande. Elle demande les renseignements complémentaires et moyens de preuve nécessaires directement à la personne requérante ou par l’intermédiaire de l’autorité compétente des États-Unis prévue à l’art. 3, par. 1, let. f, (ii), de la convention.
 
-<sup>4</sup> Si l’Administration fédérale des contributions rejette la demande en tout ou en partie, elle le communique au requérant.[^3-1]
+<sup>4</sup> Si l’AFC rejette la demande en tout ou en partie, elle le communique au requérant.[^3-3]
 
-<sup>5</sup> Si le requérant n’est pas d’accord avec la communication de l’Administration fédérale des contributions et si le différend ne peut pas être levé d’une autre manière, il peut demander à l’Administration fédérale des contributions de rendre une décision.[^3-2]
+<sup>5</sup> Si le requérant n’est pas d’accord avec la communication de l’AFC et si le différend ne peut pas être levé d’une autre manière, il peut demander à l’AFC de rendre une décision.[^3-4]
 
-[^3-1]: Nouvelle teneur selon le ch. II 9 de l’O du 10 nov. 2021 modifiant le droit fédéral dans le domaine de l’exécution des conventions internationales dans le domaine fiscal, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 704](https://fedlex.data.admin.ch/eli/oc/2021/704)).
-[^3-2]: Introduit par le ch. II 9 de l’O du 10 nov. 2021 modifiant le droit fédéral dans le domaine de l’exécution des conventions internationales dans le domaine fiscal, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 704](https://fedlex.data.admin.ch/eli/oc/2021/704)).
+[^3-1]: Nouvelle teneur selon le ch. I 4 de l’O du 4 mai 2022 sur la procédure de déclaration au sein du groupe en matière d’impôt anticipé, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 307](https://fedlex.data.admin.ch/eli/oc/2022/307)).
+[^3-2]: Nouvelle expression selon le ch. I 4 de l’O du 4 mai 2022 sur la procédure de déclaration au sein du groupe en matière d’impôt anticipé, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 307](https://fedlex.data.admin.ch/eli/oc/2022/307)). Il a été tenu compte de cette mod. dans tout le texte
+[^3-3]: Nouvelle teneur selon le ch. II 9 de l’O du 10 nov. 2021 modifiant le droit fédéral dans le domaine de l’exécution des conventions internationales dans le domaine fiscal, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 704](https://fedlex.data.admin.ch/eli/oc/2021/704)).
+[^3-4]: Introduit par le ch. II 9 de l’O du 10 nov. 2021 modifiant le droit fédéral dans le domaine de l’exécution des conventions internationales dans le domaine fiscal, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 704](https://fedlex.data.admin.ch/eli/oc/2021/704)).
 
 #### Art. 4
 
 **Procédure de déclaration de dividendes payés dans les cas de participations importantes**[^4-1]
 
-<sup>1</sup> Une société suisse peut être autorisée, sur demande, à réduire à seulement 5 % les dividendes versés à une société de capitaux américaine s’il est établi, de la manière prévue aux al. 2 à 4, que les conditions prévues aux art. 10, par. 2, let. a, et 22 de la Convention sont remplies
+<sup>1</sup> Une société suisse peut être autorisée, sur demande, à réduire de seulement 5 % les dividendes versés à une société américaine au sens de l’art. 3, par. 1, let. b, de la Convention s’il est établi, de la manière prévue aux al. 2 à 4, que les conditions prévues aux art. 10, par. 2, let. a, et 22 de la Convention sont remplies.[^4-2]
 
 <sup>2</sup>
 
-La société suisse qui paie les dividendes doit adresser sa demande à l’aide de la formule 823, avant l’échéance des dividendes, à l’Administration fédérale des contributions. Elle doit attester à cette occasion que la société de capitaux américaine:
+La société suisse qui paie les dividendes doit adresser sa demande à l’AFC à l’aide de la formule 823, avant l’échéance des dividendes. Elle doit attester à cette occasion que la société américaine:
 
 - a. dispose directement d’au moins 10 % des voix qui peuvent s’exprimer dans son assemblée générale, et
-- b. qu’elle a droit aux avantages de la Convention conformément à l’art. 22 de cette dernière.
+- b. qu’elle a droit aux avantages de la Convention conformément à l’art. 22 de cette dernière.[^4-3]
 
-<sup>3</sup> L’Administration fédérale des contributions examine la demande. Elle n’accorde l’autorisation que s’il est établi que la société de capitaux américaine à laquelle l’impôt devrait être transféré a droit au dégrèvement de cet impôt prévu par l’art. 10, par. 2, let. a, de la Convention. L’autorisation, donnée par écrit, est valable trois ans.
+<sup>3</sup> L’AFC examine la demande. Elle n’accorde l’autorisation que s’il est établi que la société américaine à laquelle l’impôt devrait être transféré a droit au dégrèvement de cet impôt prévu par l’art. 10, par. 2, let. a, de la Convention. L’autorisation, donnée par écrit, est valable cinq ans.[^4-4]
 
-<sup>4</sup> Si la demande est rejetée en tout ou en partie par l’Administration fédérale des contributions, la société suisse peut exiger d’elle une décision. Cette décision lui sera notifiée avec l’indication des motifs et des voies de droit.
+<sup>4</sup> Si la demande est rejetée en tout ou en partie par l’AFC, la société suisse peut exiger d’elle une décision. Cette décision lui sera notifiée avec l’indication des motifs et des voies de droit.
 
-<sup>5</sup> La société suisse qui verse les dividendes doit avertir immédiatement l’Administration fédérale des contributions dès que les conditions à remplir pour avoir droit à la procédure de déclaration ne sont plus réunies.
+<sup>5</sup> La société suisse qui verse les dividendes doit avertir immédiatement l’AFC dès que les conditions à remplir pour avoir droit à la procédure de déclaration ne sont plus réunies.
 
 [^4-1]: Nouvelle teneur selon le ch. I de l’O du 22 déc. 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2005 23](https://fedlex.data.admin.ch/eli/oc/2005/8)).
+[^4-2]: Nouvelle teneur selon le ch. I 4 de l’O du 4 mai 2022 sur la procédure de déclaration au sein du groupe en matière d’impôt anticipé, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 307](https://fedlex.data.admin.ch/eli/oc/2022/307)).
+[^4-3]: Nouvelle teneur selon le ch. I 4 de l’O du 4 mai 2022 sur la procédure de déclaration au sein du groupe en matière d’impôt anticipé, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 307](https://fedlex.data.admin.ch/eli/oc/2022/307)).
+[^4-4]: Nouvelle teneur selon le ch. I 4 de l’O du 4 mai 2022 sur la procédure de déclaration au sein du groupe en matière d’impôt anticipé, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 307](https://fedlex.data.admin.ch/eli/oc/2022/307)).
 
 #### Art. 4a
 
-**Déclaration à l’Administration fédérale des contributions**[^4a-1]
+**Déclaration à l’AFC**[^4a-1]
 
-<sup>1</sup> Si elle dispose d’une autorisation, la société suisse qui paie les dividendes déclare spontanément le paiement des dividendes à l’Administration fédérale des contributions, dans les 30 jours qui suivent l’échéance, à l’aide de la formule 108 qu’elle joint à la déclaration officielle.
+<sup>1</sup> Si elle dispose d’une autorisation, la société suisse qui paie les dividendes déclare spontanément le paiement des dividendes à l’AFC, dans les 30 jours qui suivent l’échéance, à l’aide de la formule 108 qu’elle joint à la déclaration officielle.
 
-<sup>2</sup> Les dispositions de l’al. 1 sont également applicables si une demande n’a pas été déposée ou si la décision n’a pas encore été prise. En l’absence d’e demande, la demande doit être faite ultérieurement, à l’aide de la formule 108. Si l’examen de l’Administration fédérale des contributions révèle que la procédure de déclaration a été utilisée abusivement, l’impôt anticipé et, le cas échéant les intérêts moratoires, seront perçus après coup. Si la perception ultérieure est contestée, l’Administration fédérale des contributions rend une décision.
+<sup>2</sup> Les dispositions de l’al. 1 sont également applicables si une demande n’a pas été déposée ou si la décision n’a pas encore été prise. En l’absence d’e demande, la demande doit être faite ultérieurement, à l’aide de la formule 108. Si l’examen de l’AFC révèle que la procédure de déclaration a été utilisée abusivement, l’impôt anticipé et, le cas échéant les intérêts moratoires, seront perçus après coup. Si la perception ultérieure est contestée, l’AFC rend une décision.
 
 [^4a-1]: Introduit par le ch. I de l’O du 22 déc. 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2005 23](https://fedlex.data.admin.ch/eli/oc/2005/8)).
 
@@ -120,7 +125,7 @@ La société suisse qui paie les dividendes doit adresser sa demande à l’aide
 
 **Voies de droit**[^5-1]
 
-Les décisions de l’Administration fédérale des contributions visées aux art. 3, al. 4, et 4, al. 4, sont sujettes à recours conformément aux dispositions générales de la procédure fédérale.
+Les décisions de l’AFC visées aux art. 3, al. 4, et 4, al. 4, sont sujettes à recours conformément aux dispositions générales de la procédure fédérale.
 
 [^5-1]: Nouvelle teneur selon le ch. II 53 de l’O du 8 nov. 2006 portant adaptation d’O du CF à la révision totale de la procédure fédérale, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
 
@@ -128,7 +133,7 @@ Les décisions de l’Administration fédérale des contributions visées aux ar
 
 **Recouvrement de l’impôt par les États-Unis**
 
-S’il se révèle après coup qu’un remboursement de l’impôt anticipé suisse retenu à la source a été accordé à tort à une personne requérante domiciliée aux États-Unis ou que le montant de l’impôt remboursé a excédé celui auquel cette personne aurait eu droit selon les dispositions de la convention, l’autorité compétente des États-Unis désignée à l’art. 3, par. 1, let. f, (ii), de la convention réclamera au requérant, de son chef ou à la demande de l’Administration fédérale des contributions, le montant qui doit être restitué selon l’art. 26, par. 2, de la convention, et le transmettra à l’Administration fédérale des contributions.
+S’il se révèle après coup qu’un remboursement de l’impôt anticipé suisse retenu à la source a été accordé à tort à une personne requérante domiciliée aux États-Unis ou que le montant de l’impôt remboursé a excédé celui auquel cette personne aurait eu droit selon les dispositions de la convention, l’autorité compétente des États-Unis désignée à l’art. 3, par. 1, let. f, (ii), de la convention réclamera au requérant, de son chef ou à la demande de l’AFC, le montant qui doit être restitué selon l’art. 26, par. 2, de la convention, et le transmettra à l’AFC.
 
 ## Section 2 Impôts à la source sur d’autres revenus de source suisse
 
@@ -205,9 +210,9 @@ Une personne physique résidente de Suisse au sens de l’art. 4 de la conventio
 
 **Recouvrement de l’impôt par la Suisse**
 
-<sup>1</sup> S’il se révèle que le dégrèvement total ou partiel de l’impôt américain a été obtenu abusivement au moyen de la convention, l’Administration fédérale des contributions recouvre après coup le montant d’impôt éludé pour le compte des autorités fiscales des États-Unis.
+<sup>1</sup> S’il se révèle que le dégrèvement total ou partiel de l’impôt américain a été obtenu abusivement au moyen de la convention, l’AFC recouvre après coup le montant d’impôt éludé pour le compte des autorités fiscales des États-Unis.
 
-<sup>2</sup> L’Administration fédérale des contributions peut demander des renseignements, exiger des pièces justificatives, donner des instructions et prendre les décisions nécessaires à cet effet.
+<sup>2</sup> L’AFC peut demander des renseignements, exiger des pièces justificatives, donner des instructions et prendre les décisions nécessaires à cet effet.
 
 <sup>3</sup> L’art. 5 est applicable par analogie aux réclamations et recours déposés contre ces décisions.
 
@@ -215,13 +220,13 @@ Une personne physique résidente de Suisse au sens de l’art. 4 de la conventio
 
 **Retenue supplémentaire d’impôt concernant l’encaissement de dividendes et d’intérêts américains par l’intermédiaire d’établissements payeurs suisses**[^11-1]
 
-<sup>1</sup> La personne qui, en sa qualité de «Qualified Intermediary», reçoit en Suisse pour le compte de tiers, de la part de sociétés américaines ou de leurs établissements payeurs, des dividendes américains réduits à 85 ou 95 % de leur montant brut destinés à être payés immédiatement ou crédités à des bénéficiaires effectifs résidents de Suisse ou à être remis à une personne résidente d’un État étranger à la demande de ces derniers, doit retenir sur le montant reçu 15 % (en cas de versement de 85 % du montant brut) ou 25 % (en cas de versement de 95 % du montant brut) du dividende brut; elle doit transmettre cette retenue en francs suisses à l’Administration fédérale des contributions (compte 30-4120-3), en même temps qu’un avis sur formule 182, au plus tard 30 jours après l’expiration du trimestre au cours duquel le paiement a été effectué.
+<sup>1</sup> La personne qui, en sa qualité de «Qualified Intermediary», reçoit en Suisse pour le compte de tiers, de la part de sociétés américaines ou de leurs établissements payeurs, des dividendes américains réduits à 85 ou 95 % de leur montant brut destinés à être payés immédiatement ou crédités à des bénéficiaires effectifs résidents de Suisse ou à être remis à une personne résidente d’un État étranger à la demande de ces derniers, doit retenir sur le montant reçu 15 % (en cas de versement de 85 % du montant brut) ou 25 % (en cas de versement de 95 % du montant brut) du dividende brut; elle doit transmettre cette retenue en francs suisses à l’AFC (compte 30-4120-3), en même temps qu’un avis sur formule 182, au plus tard 30 jours après l’expiration du trimestre au cours duquel le paiement a été effectué.
 
-<sup>2</sup> La personne qui, en sa qualité de «Qualified Intermediary», reçoit en Suisse pour le compte de tiers, de la part de débiteurs américains ou de leurs établissements payeurs, la totalité du montant brut des intérêts américains dégrevés de l’impôt à la source américain en vertu de la convention, et destinés à être payés immédiatement ou crédités à des bénéficiaires effectifs résidents de Suisse, ou à être remis à une personne résidente d’un État étranger à la demande de ces derniers, doit retenir 30 % de l’intérêt brut sur le montant reçu; elle doit transmettre cette retenue en francs suisses à l’Administration fédérale des contributions (compte 30-4120-3), en même temps qu’un avis sur formule 182, au plus tard 30 jours après l’expiration du trimestre au cours duquel le paiement a été effectué.
+<sup>2</sup> La personne qui, en sa qualité de «Qualified Intermediary», reçoit en Suisse pour le compte de tiers, de la part de débiteurs américains ou de leurs établissements payeurs, la totalité du montant brut des intérêts américains dégrevés de l’impôt à la source américain en vertu de la convention, et destinés à être payés immédiatement ou crédités à des bénéficiaires effectifs résidents de Suisse, ou à être remis à une personne résidente d’un État étranger à la demande de ces derniers, doit retenir 30 % de l’intérêt brut sur le montant reçu; elle doit transmettre cette retenue en francs suisses à l’AFC (compte 30-4120-3), en même temps qu’un avis sur formule 182, au plus tard 30 jours après l’expiration du trimestre au cours duquel le paiement a été effectué.
 
 <sup>3</sup> Un «Qualified Intermediary», qui doit opérer une retenue d’impôt en vertu des al. 1 et 2, peut déléguer ce devoir à un autre «Qualified Intermediary» suisse. L’art. 12 s’applique toutefois au «Qualified Intermediary» qui a procédé à une telle délégation. Ce dernier est également responsable de l’exactitude des informations qu’il transmet au «Qualified Intermediary» délégataire en vue de l’opération de retenue de l’impôt.
 
-<sup>4</sup> La retenue supplémentaire d’impôt n’est pas prélevée sur les dividendes et intérêts américains reçus pour le compte de personnes qui sont exonérées de l’impôt en vertu de l’art. 56 LIFD[^11-2] ou qui sont rattachées directement au SIS SegaIntersettle ou à un autre établissement de clearing reconnu par l’Administration fédérale des contributions.
+<sup>4</sup> La retenue supplémentaire d’impôt n’est pas prélevée sur les dividendes et intérêts américains reçus pour le compte de personnes qui sont exonérées de l’impôt en vertu de l’art. 56 LIFD[^11-2] ou qui sont rattachées directement au SIS SegaIntersettle ou à un autre établissement de clearing reconnu par l’AFC.
 
 <sup>5</sup> La conversion en francs suisses de la retenue supplémentaire d’impôt se fait au cours pratiqué le jour de la réception en Suisse du dividende ou de l’intérêt américains. Si la personne tenue d’opérer la retenue supplémentaire d’impôt crédite le dividende ou l’intérêt américains au bénéficiaire effectif avant cette date, la conversion doit se faire sur la base du cours moyen de l’offre et de la demande au dernier jour ouvrable avant la réception du dividende ou de l’intérêt américains.
 
@@ -253,13 +258,13 @@ La personne tenue d’opérer la retenue supplémentaire d’impôt doit remettr
 
 **Surveillance**
 
-<sup>1</sup> L’administration fédérale des contributions veille à ce que les dispositions des art. 11 et 12 soient observées.
+<sup>1</sup> L’AFC veille à ce que les dispositions des art. 11 et 12 soient observées.
 
 <sup>2</sup> Elle peut demander des renseignements, exiger des pièces justificatives, donner des instructions et prendre les décisions nécessaires à cet effet.
 
 <sup>3</sup> L’art. 5 est applicable par analogie aux réclamations et recours déposés contre ces décisions.
 
-<sup>4</sup> Toute personne qui est tenue de procéder à la retenue supplémentaire d’impôt ou qui a délégué ce devoir à une autre personne selon l’art. 11, al. 3, doit veiller à ce que son contrôleur externe rende compte annuellement à l’Administration fédérale des contributions du respect des prescriptions de la présente ordonnance qui régissent le décompte et le versement de la retenue supplémentaire d’impôt.[^13-1]
+<sup>4</sup> Toute personne qui est tenue de procéder à la retenue supplémentaire d’impôt ou qui a délégué ce devoir à une autre personne selon l’art. 11, al. 3, doit veiller à ce que son contrôleur externe rende compte annuellement à l’AFC du respect des prescriptions de la présente ordonnance qui régissent le décompte et le versement de la retenue supplémentaire d’impôt.[^13-1]
 
 [^13-1]: Introduit par le ch. I de l’O du 1<sup>er</sup> nov. 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2998](https://fedlex.data.admin.ch/eli/oc/2000/543)).
 
@@ -318,7 +323,7 @@ Toute personne qui a droit, en vertu de l’art. 14, au remboursement ou à l’
 
 **Remboursement ou imputation de la retenue supplémentaire d’impôt demandés à tort**
 
-<sup>1</sup> S’il se révèle qu’une retenue supplémentaire d’impôt déduite en vertu de l’art. 11 a été remboursée ou imputée à tort, son montant doit être restitué à l’Administration fédérale des contributions (compte 30-4120-3).[^16-1]
+<sup>1</sup> S’il se révèle qu’une retenue supplémentaire d’impôt déduite en vertu de l’art. 11 a été remboursée ou imputée à tort, son montant doit être restitué à l’AFC (compte 30-4120-3).[^16-1]
 
 <sup>2</sup> Le recouvrement incombe à l’office qui a décidé à tort le remboursement ou l’imputation.
 
@@ -345,7 +350,7 @@ Les chapitres deuxième et troisième de la LIA[^17-1] sont applicables par anal
 [^18-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2998](https://fedlex.data.admin.ch/eli/oc/2000/543)).
 [^18-2]: [RS 642.21](https://fedlex.data.admin.ch/eli/cc/1966/371_385_384)
 
-## Section 4**** Échange général d’informations
+## Section 4 Échange général d’informations
 
 [^sec4-1]
 
@@ -355,13 +360,13 @@ Les chapitres deuxième et troisième de la LIA[^17-1] sont applicables par anal
 
 **Informations provenant des États-Unis**
 
-L’Administration fédérale des contributions évalue à l’attention des autorités fiscales des cantons les informations qui lui sont transmises par l’autorité américaine compétente au sujet des dividendes, intérêts, redevances de licences, ainsi que des pensions et rentes viagères privées qui ont été versés en provenance des États-Unis à des bénéficiaires suisses.
+L’AFC évalue à l’attention des autorités fiscales des cantons les informations qui lui sont transmises par l’autorité américaine compétente au sujet des dividendes, intérêts, redevances de licences, ainsi que des pensions et rentes viagères privées qui ont été versés en provenance des États-Unis à des bénéficiaires suisses.
 
 #### Art. 20
 
 **Demandes de remboursement et déclarations de dividendes**[^20-1]
 
-L’Administration fédérale des contributions peut transmettre à l’autorité américaine compétente les duplicatas des formulaires 108 et des demandes de remboursement de l’impôt anticipé que lui font parvenir les bénéficiaires américains de dividendes et d’intérêts suisses.
+L’AFC peut transmettre à l’autorité américaine compétente les duplicatas des formulaires 108 et des demandes de remboursement de l’impôt anticipé que lui font parvenir les bénéficiaires américains de dividendes et d’intérêts suisses.
 
 [^20-1]: Nouvelle teneur selon le ch. I de l’O du 22 déc. 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2005 23](https://fedlex.data.admin.ch/eli/oc/2005/8)).
 
@@ -369,7 +374,7 @@ L’Administration fédérale des contributions peut transmettre à l’autorit�
 
 **Exécution de la convention**
 
-<sup>1</sup> L’Administration fédérale des contributions transmet à l’autorité américaine compétente les renseignements que le droit suisse permet d’obtenir, qui sont nécessaires à la correcte application des dispositions de la convention.
+<sup>1</sup> L’AFC transmet à l’autorité américaine compétente les renseignements que le droit suisse permet d’obtenir, qui sont nécessaires à la correcte application des dispositions de la convention.
 
 <sup>2</sup> Elle informe à l’avance la personne intéressée dans l’affaire en cause (personne concernée) au sujet du genre et de l’étendue des renseignements à transmettre.
 
@@ -379,13 +384,13 @@ L’Administration fédérale des contributions peut transmettre à l’autorit�
 
 **Procédure**
 
-<sup>1</sup> L’Administration fédérale des contributions statue sur toutes les contestations au sujet de la transmission d’informations et de la communication de renseignements.
+<sup>1</sup> L’AFC statue sur toutes les contestations au sujet de la transmission d’informations et de la communication de renseignements.
 
-<sup>2</sup> Si la personne concernée ne consent pas à la transmission de renseignements à l’autorité américaine compétente ou ne répond pas dans les 30 jours, l’Administration fédérale des contributions prend une décision.
+<sup>2</sup> Si la personne concernée ne consent pas à la transmission de renseignements à l’autorité américaine compétente ou ne répond pas dans les 30 jours, l’AFC prend une décision.
 
-<sup>3</sup> Les voies de droit contre les décisions et prononcés de l’Administration fédérale des contributions sont réglées par l’art. 5.
+<sup>3</sup> Les voies de droit contre les décisions et prononcés de l’AFC sont réglées par l’art. 5.
 
-## Section 4*a***** Échange de renseignements en cas de soupçon de fraude fiscale
+## Section 4*a* Échange de renseignements en cas de soupçon de fraude fiscale
 
 [^sec4a-1]
 
@@ -395,21 +400,21 @@ L’Administration fédérale des contributions peut transmettre à l’autorit�
 
 **Examen préliminaire des demandes américaines**
 
-<sup>1</sup> Les demandes d’échange de renseignements de l’autorité américaine compétente en vue de prévenir les fraudes visées à l’art. 26 de la convention font l’objet d’un examen préliminaire par l’Administration fédérale des contributions.
+<sup>1</sup> Les demandes d’échange de renseignements de l’autorité américaine compétente en vue de prévenir les fraudes visées à l’art. 26 de la convention font l’objet d’un examen préliminaire par l’AFC.
 
-<sup>2</sup> S’il ne peut être donné suite à une demande d’échange de renseignements, l’Administration fédérale des contributions en fait part à l’autorité américaine compétente. Cette dernière peut compléter sa demande.
+<sup>2</sup> S’il ne peut être donné suite à une demande d’échange de renseignements, l’AFC en fait part à l’autorité américaine compétente. Cette dernière peut compléter sa demande.
 
-<sup>3</sup> Lorsque, selon l’examen préliminaire, les conditions de l’art. 26 de la convention, en relation avec le ch. 10 de son protocole, sont vraisemblablement remplies, l’Administration fédérale des contributions informe la personne qui détient en Suisse des renseignements s’y rapportant (détenteur de renseignements) de l’existence de la demande et des renseignements demandés. Le reste du contenu de la demande ne doit pas être communiqué au détenteur de renseignements (art. 26, par. 1, 3<sup>e</sup> phrase, de la convention).
+<sup>3</sup> Lorsque, selon l’examen préliminaire, les conditions de l’art. 26 de la convention, en relation avec le ch. 10 de son protocole, sont vraisemblablement remplies, l’AFC informe la personne qui détient en Suisse des renseignements s’y rapportant (détenteur de renseignements) de l’existence de la demande et des renseignements demandés. Le reste du contenu de la demande ne doit pas être communiqué au détenteur de renseignements (art. 26, par. 1, 3<sup>e</sup> phrase, de la convention).
 
-<sup>4</sup> L’Administration fédérale des contributions demande simultanément au détenteur de renseignements de lui remettre les renseignements et d’inviter la personne concernée à désigner en Suisse un mandataire ayant pouvoir de recevoir des notifications.
+<sup>4</sup> L’AFC demande simultanément au détenteur de renseignements de lui remettre les renseignements et d’inviter la personne concernée à désigner en Suisse un mandataire ayant pouvoir de recevoir des notifications.
 
 #### Art. 20d
 
 **Obtention des renseignements**
 
-<sup>1</sup> Si le détenteur de renseignements remet à l’Administration fédérale des contributions les renseignements demandés, cette dernière examine les renseignements et prend une décision finale.
+<sup>1</sup> Si le détenteur de renseignements remet à l’AFC les renseignements demandés, cette dernière examine les renseignements et prend une décision finale.
 
-<sup>2</sup> Si le détenteur de renseignements, la personne concernée ou son mandataire ayant pouvoir de recevoir des notifications ne consent pas à la remise des renseignements demandés dans un délai de quatorze jours, l’Administration fédérale des contributions prend une décision à l’encontre du détenteur de renseignements, par laquelle elle exige la remise des renseignements désignés dans la demande américaine.
+<sup>2</sup> Si le détenteur de renseignements, la personne concernée ou son mandataire ayant pouvoir de recevoir des notifications ne consent pas à la remise des renseignements demandés dans un délai de quatorze jours, l’AFC prend une décision à l’encontre du détenteur de renseignements, par laquelle elle exige la remise des renseignements désignés dans la demande américaine.
 
 <sup>3</sup> Le secret bancaire ou un secret professionnel ne fait pas obstacle à l’obtention des renseignements.
 
@@ -417,9 +422,9 @@ L’Administration fédérale des contributions peut transmettre à l’autorit�
 
 **Droits de la personne concernée**
 
-<sup>1</sup> L’Administration fédérale des contributions notifie également à la personne concernée qui a désigné un mandataire suisse habilité à recevoir des notifications, la décision adressée au détenteur de renseignements ainsi qu’une copie de la demande de l’autorité américaine compétente, pour autant que la demande n’exige pas expressément le maintien du secret.
+<sup>1</sup> L’AFC notifie également à la personne concernée qui a désigné un mandataire suisse habilité à recevoir des notifications, la décision adressée au détenteur de renseignements ainsi qu’une copie de la demande de l’autorité américaine compétente, pour autant que la demande n’exige pas expressément le maintien du secret.
 
-<sup>2</sup> Si la personne concernée n’a pas désigné de mandataire habilité à recevoir des notifications, la notification devra être entreprise par l’autorité américaine compétente selon le droit américain. Simultanément, l’administration fédérale des contributions fixe à la personne concernée un délai pour consentir à l’échange de renseignements ou pour désigner un mandataire habilité à recevoir des notifications.
+<sup>2</sup> Si la personne concernée n’a pas désigné de mandataire habilité à recevoir des notifications, la notification devra être entreprise par l’autorité américaine compétente selon le droit américain. Simultanément, l’AFC fixe à la personne concernée un délai pour consentir à l’échange de renseignements ou pour désigner un mandataire habilité à recevoir des notifications.
 
 <sup>3</sup>
 
@@ -428,19 +433,19 @@ La personne concernée peut prendre part à la procédure et consulter le dossie
 - a. pour les pièces et les actes de procédure qu’il y a lieu de garder secrets, ou
 - b. lorsque l’art. 26 de la convention l’exige.
 
-<sup>4</sup> Les objets, documents et pièces qui ont été remis à l’Administration fédérale des contributions ou que cette dernière a obtenus ne doivent pas être utilisés à des fins d’application du droit fiscal suisse. L’art. 20*j*, al. 4, est réservé.
+<sup>4</sup> Les objets, documents et pièces qui ont été remis à l’AFC ou que cette dernière a obtenus ne doivent pas être utilisés à des fins d’application du droit fiscal suisse. L’art. 20*j*, al. 4, est réservé.
 
 #### Art. 20f
 
 **Mesures de contrainte**
 
-<sup>1</sup> Si les renseignements exigés dans la décision ne sont pas remis à l’Administration fédérale des contributions dans le délai fixé, des mesures de contrainte peuvent être exécutées. Des objets et des documents et pièces présentés sous forme écrite ou sur des supports de données ou d’images peuvent être saisis et des perquisitions opérées.
+<sup>1</sup> Si les renseignements exigés dans la décision ne sont pas remis à l’AFC dans le délai fixé, des mesures de contrainte peuvent être exécutées. Des objets et des documents et pièces présentés sous forme écrite ou sur des supports de données ou d’images peuvent être saisis et des perquisitions opérées.
 
-<sup>2</sup> Les mesures de contrainte doivent être ordonnées par le directeur de l’Administration fédérale des contributions ou par son remplaçant. Elles doivent être exécutées par des fonctionnaires formés à cet effet et seuls peuvent être saisis les objets, les documents et les pièces qui pourraient être en relation avec la demande d’échange de renseignements.
+<sup>2</sup> Les mesures de contrainte doivent être ordonnées par le directeur de l’AFC ou par son remplaçant. Elles doivent être exécutées par des fonctionnaires formés à cet effet et seuls peuvent être saisis les objets, les documents et les pièces qui pourraient être en relation avec la demande d’échange de renseignements.
 
-<sup>3</sup> S’il y a péril en la demeure et qu’une mesure ne puisse pas être arrêtée à temps, le fonctionnaire peut prendre une mesure de contrainte de sa propre initiative. La mesure doit être approuvée dans les trois jours par le Directeur de l’Administration fédérale des contributions ou par son remplaçant.
+<sup>3</sup> S’il y a péril en la demeure et qu’une mesure ne puisse pas être arrêtée à temps, le fonctionnaire peut prendre une mesure de contrainte de sa propre initiative. La mesure doit être approuvée dans les trois jours par le Directeur de l’AFC ou par son remplaçant.
 
-<sup>4</sup> La police des cantons et des communes soutient l’Administration fédérale des contributions dans l’exécution des mesures de contraintes.
+<sup>4</sup> La police des cantons et des communes soutient l’AFC dans l’exécution des mesures de contraintes.
 
 #### Art. 20g
 
@@ -466,9 +471,9 @@ La personne concernée peut prendre part à la procédure et consulter le dossie
 
 **Exécution simplifiée**
 
-<sup>1</sup> Lorsque la personne concernée consent à la remise des renseignements à l’autorité américaine compétente, elle peut en informer l’Administration fédérale des contributions par écrit. Ce consentement est irrévocable.
+<sup>1</sup> Lorsque la personne concernée consent à la remise des renseignements à l’autorité américaine compétente, elle peut en informer l’AFC par écrit. Ce consentement est irrévocable.
 
-<sup>2</sup> L’Administration fédérale des contributions constate l’accord par écrit et clôt la procédure par la transmission des renseignements à l’autorité américaine compétente.
+<sup>2</sup> L’AFC constate l’accord par écrit et clôt la procédure par la transmission des renseignements à l’autorité américaine compétente.
 
 <sup>3</sup> Si le consentement ne concerne qu’une partie des renseignements, les autres objets, documents et pièces sont obtenus conformément aux art. 20*d* et suivants et transmis au moyen d’une décision finale.
 
@@ -476,19 +481,19 @@ La personne concernée peut prendre part à la procédure et consulter le dossie
 
 **Clôture de la procédure**
 
-<sup>1</sup> L’Administration fédérale des contributions prend une décision finale motivée. Dans cette dernière, elle se prononce sur l’existence d’une fraude fiscale et décide de la transmission à l’autorité américaine compétente des objets, documents et pièces.
+<sup>1</sup> L’AFC prend une décision finale motivée. Dans cette dernière, elle se prononce sur l’existence d’une fraude fiscale et décide de la transmission à l’autorité américaine compétente des objets, documents et pièces.
 
 <sup>2</sup> La décision est notifiée à la personne concernée par l’intermédiaire de son mandataire habilité à recevoir des notifications.
 
 <sup>3</sup> Si aucun mandataire habilité à recevoir des notifications n’a été désigné, la notification a lieu par publication dans la Feuille fédérale.
 
-<sup>4</sup> Après l’entrée en force de la décision finale, les renseignements transmis à l’autorité américaine compétente peuvent être utilisés par l’Administration fédérale des contributions.
+<sup>4</sup> Après l’entrée en force de la décision finale, les renseignements transmis à l’autorité américaine compétente peuvent être utilisés par l’AFC.
 
 #### Art. 20k
 
 **Voies de droit**
 
-<sup>1</sup> La décision finale de l’Administration fédérale des contributions relative à la transmission de renseignements est sujette à recours conformément aux dispositions générales de la procédure fédérale.[^20k-1]
+<sup>1</sup> La décision finale de l’AFC relative à la transmission de renseignements est sujette à recours conformément aux dispositions générales de la procédure fédérale.[^20k-1]
 
 <sup>2</sup> Le détenteur de renseignements a également qualité pour recourir dans la mesure où il fait valoir des intérêts propres.
 
@@ -503,13 +508,13 @@ La personne concernée peut prendre part à la procédure et consulter le dossie
 
 **Demande sans indications personnelles**[^20l-1]
 
-<sup>1</sup> Si les personnes concernées ne sont pas identifiées par des indications personnelles dans la demande mais par un modèle de comportement déterminé, l’Administration fédérale des contributions invite le détenteur de renseignements à identifier ces personnes et à faire désigner par celles-ci une personne en Suisse habilitée à recevoir des notifications.
+<sup>1</sup> Si les personnes concernées ne sont pas identifiées par des indications personnelles dans la demande mais par un modèle de comportement déterminé, l’AFC invite le détenteur de renseignements à identifier ces personnes et à faire désigner par celles-ci une personne en Suisse habilitée à recevoir des notifications.
 
-<sup>2</sup> L’Administration fédérale des contributions informe en outre les personnes concernées par une publication dans la Feuille Fédérale de l’existence d’une demande d’assistance administrative et de leur devoir de désigner une personne en Suisse habilitée à recevoir des notifications.
+<sup>2</sup> L’AFC informe en outre les personnes concernées par une publication dans la Feuille Fédérale de l’existence d’une demande d’assistance administrative et de leur devoir de désigner une personne en Suisse habilitée à recevoir des notifications.
 
-<sup>3</sup> Elle fait référence dans la publication à l’exécution simplifiée prévue à l’art. 20*i* et indique qu’elle notifiera sa décision finale à une personne habilitée à recevoir des notifications qu’elle aura désignée si la personne concernée n’en désigne pas une dans le délai prescrit. Les personnes concernées doivent également être informées du fait qu’elles peuvent obtenir des informations complémentaires sur la procédure auprès de la personne habilitée à recevoir des notifications désignée par l’Administration fédérale des contributions.
+<sup>3</sup> Elle fait référence dans la publication à l’exécution simplifiée prévue à l’art. 20*i* et indique qu’elle notifiera sa décision finale à une personne habilitée à recevoir des notifications qu’elle aura désignée si la personne concernée n’en désigne pas une dans le délai prescrit. Les personnes concernées doivent également être informées du fait qu’elles peuvent obtenir des informations complémentaires sur la procédure auprès de la personne habilitée à recevoir des notifications désignée par l’AFC.
 
-<sup>4</sup> L’Administration fédérale des contributions annonce la publication dans la Feuille Fédérale dans les médias américains.
+<sup>4</sup> L’AFC annonce la publication dans la Feuille Fédérale dans les médias américains.
 
 <sup>5</sup> Les personnes concernées doivent désigner une personne habilitée à recevoir des notifications dans le délai de 20 jours. Si l’obligation individuelle mentionnée à l’al. 1 ne peut être notifiée, le délai commence à courir à partir du jour de la publication dans la Feuille Fédérale mentionnée à l’al. 2.
 
@@ -524,7 +529,7 @@ La personne concernée peut prendre part à la procédure et consulter le dossie
 Conformément à l’art. 61 de la LIA[^21-1], est punie toute personne qui, intentionnellement ou par négligence, à son propre avantage ou à celui d’une tierce personne:
 
 - a. ne se conforme pas à l’obligation de déduire une retenue supplémentaire d’impôt;
-- b. ne verse pas à l’Administration fédérale des contributions une retenue supplémentaire d’impôt opérée à tort ou à raison;
+- b. ne verse pas à l’AFC une retenue supplémentaire d’impôt opérée à tort ou à raison;
 - c. obtient un remboursement ou une imputation injustifiée d’une retenue supplémentaire d’impôt.
 
 <sup>2</sup>
@@ -552,7 +557,7 @@ Conformément à l’art. 62 de la LIA, est punie toute personne qui, intentionn
 
 L’ordonnance du 2 novembre 1951[^22-1] concernant la convention américano-suisse de double imposition est abrogée.
 
-[^22-1]: [[RO 1951 1032](https://fedlex.data.admin.ch/eli/oc/1951/1031_1032_1058), [1962 1680](https://fedlex.data.admin.ch/eli/oc/1962/1622_1680_1702)art. 8, [1967 91](https://fedlex.data.admin.ch/eli/oc/1967/83_91_85), [1974 1962](https://fedlex.data.admin.ch/eli/oc/1974/1962_1962_1962), [1975 2266](https://fedlex.data.admin.ch/eli/oc/1975/2266_2266_2266)]
+[^22-1]: [[RO 1951 1032](https://fedlex.data.admin.ch/eli/oc/1951/1031_1032_1058); [1962 1680](https://fedlex.data.admin.ch/eli/oc/1962/1622_1680_1702)art. 8; [1967 91](https://fedlex.data.admin.ch/eli/oc/1967/83_91_85); [1974 1962](https://fedlex.data.admin.ch/eli/oc/1974/1962_1962_1962); [1975 2266](https://fedlex.data.admin.ch/eli/oc/1975/2266_2266_2266)]
 
 #### Art. 23
 
@@ -561,6 +566,14 @@ L’ordonnance du 2 novembre 1951[^22-1] concernant la convention américano-sui
 <sup>1</sup> Sous réserve de l’al. 2, la présente ordonnance est applicable aux impôts à la source retenus sur les revenus payés ou crédités le 1<sup>er</sup> février 1998 ou après cette date.
 
 <sup>2</sup> S’agissant des contribuables qui ont demandé, selon l’art. 29, par. 3, de la convention, de bénéficier encore durant douze mois, à compter de l’entrée en vigueur de la présente ordonnance, du droit en vigueur antérieurement, ce droit demeure applicable aux impôts à la source retenus sur les revenus payés ou crédités jusqu’au 31 janvier 1999.
+
+#### Art. 23a
+
+**Disposition transitoire de la modification du 4 mai 2022**[^23a-1]
+
+L’art. 4, al. 1 à 3, de l’ancien droit s’applique aux demandes d’autorisation qui sont pendantes à l’entrée en vigueur de la modification du 4 mai 2022.
+
+[^23a-1]: Introduit par le ch. I 4 de l’O du 4 mai 2022 sur la procédure de déclaration au sein du groupe en matière d’impôt anticipé, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 307](https://fedlex.data.admin.ch/eli/oc/2022/307)).
 
 #### Art. 24
 

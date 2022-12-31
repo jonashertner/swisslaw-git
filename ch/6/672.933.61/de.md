@@ -3,18 +3,18 @@ sr: "672.933.61"
 title: Verordnung vom 15. Juni 1998 zum schweizerisch-amerikanischen Doppelbesteuerungsabkommen vom 2. Oktober 1996
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/1807_1807_1807"
 language: de
-version: 2022-01-01
+version: 2023-01-01
 adopted: 1998-06-15
 in_force: 1998-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/1807_1807_1807/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1998-1807_1807_1807-20220101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/1807_1807_1807/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/1807_1807_1807/20230101/de/xml/fedlex-data-admin-ch-eli-cc-1998-1807_1807_1807-20230101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/1807_1807_1807/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung zum schweizerisch-amerikanischen Doppelbesteuerungsabkommen vom 2. Oktober 1996
 
-vom 15. Juni 1998 (Stand am 1. Januar 2022)
+vom 15. Juni 1998 (Stand am 1. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -72,47 +72,52 @@ Der Anspruch auf Rückerstattung der an der Quelle erhobenen schweizerischen Ver
 
 **Verfahren für die Rückerstattung**
 
-<sup>1</sup> Die Rückerstattung der an der Quelle erhobenen schweizerischen Verrechnungssteuer muss spätestens am 31. Dezember des dritten Jahres, das auf den Ablauf des Kalenderjahres folgt, in dem der besteuerte Ertrag fällig geworden ist, auf amtlichem Formular bei der Eidgenössischen Steuerverwaltung beantragt werden. Für natürliche Personen ist das Formular 82 I, für Gesellschaften das Formular 82 C und für andere Empfänger das Formular 82 E zu verwenden. Wird die Frist nicht eingehalten, so ist der Anspruch verwirkt.
+<sup>1</sup> Die Rückerstattung der an der Quelle erhobenen schweizerischen Verrechnungssteuer muss spätestens am 31. Dezember des dritten Jahres, das auf den Ablauf des Kalenderjahres folgt, in dem der besteuerte Ertrag fällig geworden ist, auf amtlichem Formular bei der Eidgenössischen Steuerverwaltung (ESTV) beantragt werden. Für natürliche Personen ist das Formular 82 I, für Gesellschaften das Formular 82 C und für andere Empfänger das Formular 82 E zu verwenden. Wird die Frist nicht eingehalten, so ist der Anspruch verwirkt.[^3-1]
 
-<sup>2</sup> Die Frist gilt als eingehalten, wenn der vollständig ausgefüllte Antrag samt den erforderlichen Beweismitteln vor ihrem Ablauf bei der Eidgenössischen Steuerverwaltung eintrifft oder zu deren Handen der schweizerischen Post oder einer schweizerischen diplomatischen oder konsularischen Vertretung im Ausland übergeben wird.
+<sup>2</sup> Die Frist gilt als eingehalten, wenn der vollständig ausgefüllte Antrag samt den erforderlichen Beweismitteln vor ihrem Ablauf bei der ESTV[^3-2] eintrifft oder zu deren Handen der schweizerischen Post oder einer schweizerischen diplomatischen oder konsularischen Vertretung im Ausland übergeben wird.
 
-<sup>3</sup> Die Eidgenössische Steuerverwaltung prüft den Antrag. Notwendige ergänzende Auskünfte oder Beweismittel verlangt sie direkt bei der antragstellenden Person oder durch Vermittlung der nach Artikel 3 Absatz 1 Buchstabe f (ii) des Abkommens zuständigen Behörde der Vereinigten Staaten.
+<sup>3</sup> Die ESTV prüft den Antrag. Notwendige ergänzende Auskünfte oder Beweismittel verlangt sie direkt bei der antragstellenden Person oder durch Vermittlung der nach Artikel 3 Absatz 1 Buchstabe f (ii) des Abkommens zuständigen Behörde der Vereinigten Staaten.
 
-<sup>4</sup> Weist die Eidgenössische Steuerverwaltung den Antrag ab oder entspricht sie ihm nur teilweise, so teilt sie dies der antragstellenden Person mit.[^3-1]
+<sup>4</sup> Weist die ESTV den Antrag ab oder entspricht sie ihm nur teilweise, so teilt sie dies der antragstellenden Person mit.[^3-3]
 
-<sup>5</sup> Ist die antragstellende Person mit der Mitteilung der Eidgenössischen Steuerverwaltung nicht einverstanden und lässt sich der Anstand nicht auf andere Weise erledigen, so kann sie einen Entscheid der Eidgenössischen Steuerverwaltung verlangen.[^3-2]
+<sup>5</sup> Ist die antragstellende Person mit der Mitteilung der ESTV nicht einverstanden und lässt sich der Anstand nicht auf andere Weise erledigen, so kann sie einen Entscheid der ESTV verlangen.[^3-4]
 
-[^3-1]: Fassung gemäss Ziff. II 9 der V vom 10. Nov. 2021 über Anpassungen des Bundesrechts im Bereich der Durchführung von internationalen Abkommen im Steuerbereich, in Kraft seit 1. Jan. 2022 ([AS 2021 704](https://fedlex.data.admin.ch/eli/oc/2021/704)).
-[^3-2]: Eingefügt durch Ziff. II 9 der V vom 10. Nov. 2021 über Anpassungen des Bundesrechts im Bereich der Durchführung von internationalen Abkommen im Steuerbereich, in Kraft seit 1. Jan. 2022 ([AS 2021 704](https://fedlex.data.admin.ch/eli/oc/2021/704)).
+[^3-1]: Fassung gemäss Ziff. I 4 der V vom 4. Mai 2022 über das Meldeverfahren im Konzern bei der Verrechnungssteuer, in Kraft seit 1. Jan. 2023 ([AS 2022 307](https://fedlex.data.admin.ch/eli/oc/2022/307)).
+[^3-2]: Ausdruck gemäss Ziff. I 4 der V vom 4. Mai 2022 über das Meldeverfahren im Konzern bei der Verrechnungssteuer, in Kraft seit 1. Jan. 2023 ([AS 2022 307](https://fedlex.data.admin.ch/eli/oc/2022/307)). Diese Änd. wurde im ganzen Text berücksichtigt.
+[^3-3]: Fassung gemäss Ziff. II 9 der V vom 10. Nov. 2021 über Anpassungen des Bundesrechts im Bereich der Durchführung von internationalen Abkommen im Steuerbereich, in Kraft seit 1. Jan. 2022 ([AS 2021 704](https://fedlex.data.admin.ch/eli/oc/2021/704)).
+[^3-4]: Eingefügt durch Ziff. II 9 der V vom 10. Nov. 2021 über Anpassungen des Bundesrechts im Bereich der Durchführung von internationalen Abkommen im Steuerbereich, in Kraft seit 1. Jan. 2022 ([AS 2021 704](https://fedlex.data.admin.ch/eli/oc/2021/704)).
 
 #### Art. 4
 
 **Meldeverfahren für Dividenden aus wesentlichen Beteiligungen**[^4-1]
 
-<sup>1</sup> Einer schweizerischen Gesellschaft kann auf Gesuch hin bewilligt werden, die einer amerikanischen Kapitalgesellschaft ausgerichteten Dividenden nur um 5 Prozent zu kürzen, wenn im Meldeverfahren nach den Absätzen 2–4 festgestellt worden ist, dass die Voraussetzungen der Artikel 10 Absatz 2 Buchstabe a und 22 des Abkommens erfüllt sind.
+<sup>1</sup> Einer schweizerischen Gesellschaft kann auf Gesuch hin bewilligt werden, die einer amerikanischen Gesellschaft im Sinne von Artikel 3 Absatz 1 Buchstabe b des Abkommens ausgerichteten Dividenden nur um 5 Prozent zu kürzen, wenn im Meldeverfahren nach den Absätzen 2–4 festgestellt worden ist, dass die Voraussetzungen der Artikel 10 Absatz 2 Buchstabe a und 22 des Abkommens erfüllt sind.[^4-2]
 
 <sup>2</sup>
 
-Die die Dividenden zahlende schweizerische Gesellschaft muss das Gesuch mit Formular 823 bei der Eidgenössischen Steuerverwaltung einreichen, bevor die Dividenden fällig werden. Gleichzeitig muss sie nachweisen, dass die amerikanische Kapitalgesellschaft:
+Die die Dividenden zahlende schweizerische Gesellschaft muss das Gesuch mit Formular 823 bei der ESTV einreichen, bevor die Dividenden fällig werden. Gleichzeitig muss sie nachweisen, dass die amerikanische Gesellschaft:
 
-- a. unmittelbar über mindestens 10 Prozent der Stimmrechte, die in ihrer Generalversammlung ausgeübt werden können, verfügt; und
-- b. nach Artikel 22 des Abkommens abkommensberechtigt ist.
+- a. unmittelbar über mindestens 10 Prozent der Stimmrechte verfügt, die in ihrer Generalversammlung ausgeübt werden können; und
+- b. nach Artikel 22 des Abkommens abkommensberechtigt ist.[^4-3]
 
-<sup>3</sup> Die Eidgenössische Steuerverwaltung prüft das Gesuch. Eine Bewilligung wird nur erteilt, wenn feststeht, dass die amerikanische Kapitalgesellschaft, auf die die Steuer zu überwälzen wäre, Anspruch auf die in Artikel 10 Absatz 2 Buchstabe a des Abkommens vorgesehene Entlastung von dieser Steuer hätte. Die Bewilligung wird schriftlich mitgeteilt und gilt drei Jahre.
+<sup>3</sup> Die ESTV prüft das Gesuch. Eine Bewilligung wird nur erteilt, wenn feststeht, dass die amerikanische Gesellschaft, auf die die Steuer zu überwälzen wäre, Anspruch auf die in Artikel 10 Absatz 2 Buchstabe a des Abkommens vorgesehene Entlastung von dieser Steuer hätte. Die Bewilligung wird schriftlich mitgeteilt und gilt fünf Jahre.[^4-4]
 
-<sup>4</sup> Wird das Gesuch ganz oder teilweise abgelehnt, so kann die schweizerische Gesellschaft von der Eidgenössischen Steuerverwaltung einen Entscheid verlangen. Dieser wird ihr mit einer Begründung und einer Rechtsmittelbelehrung eröffnet.
+<sup>4</sup> Wird das Gesuch ganz oder teilweise abgelehnt, so kann die schweizerische Gesellschaft von der ESTV einen Entscheid verlangen. Dieser wird ihr mit einer Begründung und einer Rechtsmittelbelehrung eröffnet.
 
-<sup>5</sup> Die die Dividenden zahlende schweizerische Gesellschaft muss der Eidgenössischen Steuerverwaltung unverzüglich Meldung erstatten, sobald die Voraussetzungen für die Beanspruchung des Meldeverfahrens nicht mehr erfüllt sind.
+<sup>5</sup> Die die Dividenden zahlende schweizerische Gesellschaft muss der ESTV unverzüglich Meldung erstatten, sobald die Voraussetzungen für die Beanspruchung des Meldeverfahrens nicht mehr erfüllt sind.
 
 [^4-1]: Fassung gemäss Ziff. I der V vom 22. Dez. 2004, in Kraft seit 1. Jan. 2005 ([AS 2005 23](https://fedlex.data.admin.ch/eli/oc/2005/8)).
+[^4-2]: Fassung gemäss Ziff. I 4 der V vom 4. Mai 2022 über das Meldeverfahren im Konzern bei der Verrechnungssteuer, in Kraft seit 1. Jan. 2023 ([AS 2022 307](https://fedlex.data.admin.ch/eli/oc/2022/307)).
+[^4-3]: Fassung gemäss Ziff. I 4 der V vom 4. Mai 2022 über das Meldeverfahren im Konzern bei der Verrechnungssteuer, in Kraft seit 1. Jan. 2023 ([AS 2022 307](https://fedlex.data.admin.ch/eli/oc/2022/307)).
+[^4-4]: Fassung gemäss Ziff. I 4 der V vom 4. Mai 2022 über das Meldeverfahren im Konzern bei der Verrechnungssteuer, in Kraft seit 1. Jan. 2023 ([AS 2022 307](https://fedlex.data.admin.ch/eli/oc/2022/307)).
 
 #### Art. 4a
 
-**Meldung an die Eidgenössische Steuerverwaltung**[^4a-1]
+**Meldung an die ESTV**[^4a-1]
 
-<sup>1</sup> Verfügt die die Dividenden zahlende schweizerische Gesellschaft über eine Bewilligung, so meldet sie die Ausrichtung der Dividende unaufgefordert und innert 30 Tagen mit Formular 108. Dieses ist zusammen mit dem amtlichen Erhebungsformular bei der Eidgenössischen Steuerverwaltung einzureichen.
+<sup>1</sup> Verfügt die die Dividenden zahlende schweizerische Gesellschaft über eine Bewilligung, so meldet sie die Ausrichtung der Dividende unaufgefordert und innert 30 Tagen mit Formular 108. Dieses ist zusammen mit dem amtlichen Erhebungsformular bei der ESTV einzureichen.
 
-<sup>2</sup> Absatz 1 gilt auch, wenn ein Bewilligungsgesuch nicht eingereicht oder noch nicht darüber entschieden wurde. Liegt ein Bewilligungsgesuch nicht vor, so ist dieses zusammen mit dem Formular 108 nachzureichen. Ergibt die Prüfung der Eidgenössischen Steuerverwaltung, dass vom Meldeverfahren zu Unrecht Gebrauch gemacht wurde, so werden die Verrechnungssteuer und ein allfälliger Verzugszins nacherhoben. Wird die Nacherhebung bestritten, so trifft die Eidgenössische Steuerverwaltung einen Entscheid.
+<sup>2</sup> Absatz 1 gilt auch, wenn ein Bewilligungsgesuch nicht eingereicht oder noch nicht darüber entschieden wurde. Liegt ein Bewilligungsgesuch nicht vor, so ist dieses zusammen mit dem Formular 108 nachzureichen. Ergibt die Prüfung der ESTV, dass vom Meldeverfahren zu Unrecht Gebrauch gemacht wurde, so werden die Verrechnungssteuer und ein allfälliger Verzugszins nacherhoben. Wird die Nacherhebung bestritten, so trifft die ESTV einen Entscheid.
 
 [^4a-1]: Eingefügt durch Ziff. I der V vom 22. Dez. 2004, in Kraft seit 1. Jan. 2005 ([AS 2005 23](https://fedlex.data.admin.ch/eli/oc/2005/8)).
 
@@ -120,7 +125,7 @@ Die die Dividenden zahlende schweizerische Gesellschaft muss das Gesuch mit Form
 
 **Rechtsmittel**[^5-1]
 
-Entscheide der Eidgenössischen Steuerverwaltung im Sinne der Artikel 3 Absatz 4 und 4 Absatz 4 unterliegen der Beschwerde nach den allgemeinen Bestimmungen über die Bundesrechtspflege.
+Entscheide der ESTV im Sinne der Artikel 3 Absatz 4 und 4 Absatz 4 unterliegen der Beschwerde nach den allgemeinen Bestimmungen über die Bundesrechtspflege.
 
 [^5-1]: Fassung gemäss Ziff. II 53 der V vom 8. Nov. 2006 über die Anpassung von Bundesratsverordnungen an die Totalrevision der Bundesrechtspflege, in Kraft seit 1. Jan. 2007 ([AS 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
 
@@ -128,7 +133,7 @@ Entscheide der Eidgenössischen Steuerverwaltung im Sinne der Artikel 3 Absatz 4
 
 **Steuereinzug durch die Vereinigten Staaten**
 
-Stellt sich heraus, dass eine Rückerstattung der an der Quelle erhobenen schweizerischen Verrechnungssteuer einer in den Vereinigten Staaten ansässigen Person zu Unrecht gewährt wurde oder dass der Betrag der zurückerstatteten Steuer denjenigen übersteigt, auf den sie nach den Bestimmungen des Abkommens Anspruch hat, so wird die nach Artikel 3 Absatz 1 Buchstabe f (ii) des Abkommens zuständige Behörde der Vereinigten Staaten aus eigenem Antrieb oder auf Ersuchen der Eidgenössischen Steuerverwaltung den wieder einzuzahlenden Betrag nach Artikel 26 Absatz 2 des Abkommens einfordern und an die Eidgenössische Steuerverwaltung überweisen.
+Stellt sich heraus, dass eine Rückerstattung der an der Quelle erhobenen schweizerischen Verrechnungssteuer einer in den Vereinigten Staaten ansässigen Person zu Unrecht gewährt wurde oder dass der Betrag der zurückerstatteten Steuer denjenigen übersteigt, auf den sie nach den Bestimmungen des Abkommens Anspruch hat, so wird die nach Artikel 3 Absatz 1 Buchstabe f (ii) des Abkommens zuständige Behörde der Vereinigten Staaten aus eigenem Antrieb oder auf Ersuchen der ESTV den wieder einzuzahlenden Betrag nach Artikel 26 Absatz 2 des Abkommens einfordern und an die ESTV überweisen.
 
 ## 2. Abschnitt: Quellensteuern auf anderen Einkünften aus schweizerischen Quellen
 
@@ -205,9 +210,9 @@ Eine natürliche Person, die nach Artikel 4 des Abkommens in der Schweiz ansäss
 
 **Steuereinzug durch die Schweiz**
 
-<sup>1</sup> Stellt sich heraus, dass unter Berufung auf das Abkommen die volle oder teilweise Entlastung von der amerikanischen Steuer zu Unrecht erwirkt worden ist, so zieht die Eidgenössische Steuerverwaltung den entgangenen Steuerbetrag zuhanden der Steuerbehörden der Vereinigten Staaten nachträglich ein.
+<sup>1</sup> Stellt sich heraus, dass unter Berufung auf das Abkommen die volle oder teilweise Entlastung von der amerikanischen Steuer zu Unrecht erwirkt worden ist, so zieht die ESTV den entgangenen Steuerbetrag zuhanden der Steuerbehörden der Vereinigten Staaten nachträglich ein.
 
-<sup>2</sup> Die Eidgenössische Steuerverwaltung ist befugt, Auskünfte zu verlangen, Belege einzufordern, Anweisungen zu erteilen und Entscheide zu treffen, die hierzu erforderlich sind.
+<sup>2</sup> Die ESTV ist befugt, Auskünfte zu verlangen, Belege einzufordern, Anweisungen zu erteilen und Entscheide zu treffen, die hierzu erforderlich sind.
 
 <sup>3</sup> Für Einsprachen und Beschwerden gegen diese Entscheide gilt Artikel 5 sinngemäss.
 
@@ -215,13 +220,13 @@ Eine natürliche Person, die nach Artikel 4 des Abkommens in der Schweiz ansäss
 
 **Zusätzlicher Steuerrückbehalt beim Bezug von amerikanischen Dividenden und Zinsen über schweizerische Zwischenstellen**[^11-1]
 
-<sup>1</sup> Wer in der Schweiz als «Qualified Intermediary» für fremde Rechnung von amerikanischen Gesellschaften oder deren Zahlstellen amerikanische Dividenden zu 85 oder 95 Prozent ihres Bruttobetrags entgegennimmt, muss von dem zwecks unmittelbarer Zahlung oder Gutschrift an nutzungsberechtigte Empfängerinnen oder Empfänger, die in der Schweiz ansässig sind, oder zwecks Vergütung in deren Auftrag an eine im Ausland ansässige Person empfangenen Betrag 15 Prozent (bei Entgegennahme von 85 Prozent des Bruttobetrags) oder 25 Prozent (bei Entgegennahme von 95 Prozent des Bruttobetrags) der Bruttodividende zurückbehalten und bis 30 Tage nach Ende des Quartals, in dem die Gutschrift erfolgt ist, in Schweizerfranken unter gleichzeitiger Anzeige auf Formular 182 an die Eidgenössische Steuerverwaltung (Konto 30-4120-3) abführen.
+<sup>1</sup> Wer in der Schweiz als «Qualified Intermediary» für fremde Rechnung von amerikanischen Gesellschaften oder deren Zahlstellen amerikanische Dividenden zu 85 oder 95 Prozent ihres Bruttobetrags entgegennimmt, muss von dem zwecks unmittelbarer Zahlung oder Gutschrift an nutzungsberechtigte Empfängerinnen oder Empfänger, die in der Schweiz ansässig sind, oder zwecks Vergütung in deren Auftrag an eine im Ausland ansässige Person empfangenen Betrag 15 Prozent (bei Entgegennahme von 85 Prozent des Bruttobetrags) oder 25 Prozent (bei Entgegennahme von 95 Prozent des Bruttobetrags) der Bruttodividende zurückbehalten und bis 30 Tage nach Ende des Quartals, in dem die Gutschrift erfolgt ist, in Schweizerfranken unter gleichzeitiger Anzeige auf Formular 182 an die ESTV (Konto 30-4120-3) abführen.
 
-<sup>2</sup> Wer in der Schweiz als «Qualified Intermediary» für fremde Rechnung von amerikanischen Schuldnern oder deren Zahlstellen amerikanische Zinsen, die auf Grund des Abkommens von dem nach dem internen Recht der Vereinigten Staaten zu erhebenden Steuerabzug an der Quelle ausgenommen sind, zum vollen Bruttobetrag entgegennimmt, muss von dem zwecks unmittelbarer Zahlung oder Gutschrift an nutzungsberechtigte Empfängerinnen oder Empfänger, die in der Schweiz ansässig sind, oder zwecks Vergütung in deren Auftrag an eine im Ausland ansässige Person empfangenen Betrag 30 Prozent des Bruttozinses zurückbehalten und bis 30 Tage nach Ende des Quartals, in dem die Gutschrift erfolgt ist, in Schweizerfranken unter gleichzeitiger Anzeige auf Formular 182 an die Eidgenössische Steuerverwaltung (Konto 30-4120-3) abführen.
+<sup>2</sup> Wer in der Schweiz als «Qualified Intermediary» für fremde Rechnung von amerikanischen Schuldnern oder deren Zahlstellen amerikanische Zinsen, die auf Grund des Abkommens von dem nach dem internen Recht der Vereinigten Staaten zu erhebenden Steuerabzug an der Quelle ausgenommen sind, zum vollen Bruttobetrag entgegennimmt, muss von dem zwecks unmittelbarer Zahlung oder Gutschrift an nutzungsberechtigte Empfängerinnen oder Empfänger, die in der Schweiz ansässig sind, oder zwecks Vergütung in deren Auftrag an eine im Ausland ansässige Person empfangenen Betrag 30 Prozent des Bruttozinses zurückbehalten und bis 30 Tage nach Ende des Quartals, in dem die Gutschrift erfolgt ist, in Schweizerfranken unter gleichzeitiger Anzeige auf Formular 182 an die ESTV (Konto 30-4120-3) abführen.
 
 <sup>3</sup> Ein «Qualified Intermediary», der einen Steuerrückbehalt nach den Absätzen 1 und 2 abführen muss, kann diese Pflicht auf einen anderen schweizerischen «Qualified Intermediary» übertragen. Artikel 12 findet jedoch auf den seine Abführungspflicht übertragenden «Qualified Intermediary» Anwendung. Dieser ist auch verantwortlich für die Richtigkeit der Informationen, die er dem «Qualified Intermediary», der die Abführungspflicht übernommen hat, im Hinblick auf die Abführung des Steuerrückbehalts zur Verfügung stellt.
 
-<sup>4</sup> Der zusätzliche Steuerrückbehalt ist nicht zu erheben auf amerikanischen Dividenden und Zinsen, die für Rechnung von Personen empfangen werden, welche nach Artikel 56 DBG von der Steuerpflicht befreit oder unmittelbar der SIS SegaIntersettle oder einer anderen von der Eidgenössischen Steuerverwaltung anerkannten Clearingstelle angeschlossen sind.
+<sup>4</sup> Der zusätzliche Steuerrückbehalt ist nicht zu erheben auf amerikanischen Dividenden und Zinsen, die für Rechnung von Personen empfangen werden, welche nach Artikel 56 DBG von der Steuerpflicht befreit oder unmittelbar der SIS SegaIntersettle oder einer anderen von der ESTV anerkannten Clearingstelle angeschlossen sind.
 
 <sup>5</sup> Für die Umrechnung des zusätzlichen Steuerrückbehalts in Schweizerfranken gilt der Kurs am Tag des Eingangs der amerikanischen Dividende oder des Zinses in der Schweiz. Vergütet die zum Abzug des zusätzlichen Steuerrückbehalts verpflichtete Person die amerikanischen Dividenden oder Zinsen der nutzungsberechtigten Empfängerin oder dem nutzungsberechtigten Empfänger vor diesem Zeitpunkt, so gilt für die Umrechnung das Mittel des Geld- und Briefkurses am letzten Werktag vor dem Eingang der amerikanischen Dividende oder des amerikanischen Zinses.
 
@@ -252,13 +257,13 @@ Die zum zusätzlichen Steuerrückbehalt verpflichtete Person muss der Empfänger
 
 **Überwachung**
 
-<sup>1</sup> Die Eidgenössische Steuerverwaltung überwacht die Einhaltung der Bestimmungen der Artikel 11 und 12.
+<sup>1</sup> Die ESTV überwacht die Einhaltung der Bestimmungen der Artikel 11 und 12.
 
 <sup>2</sup> Sie ist befugt, Auskünfte zu verlangen, Belege einzufordern, Anweisungen zu erteilen und Entscheide zu treffen, die hierzu erforderlich sind.
 
 <sup>3</sup> Für Einsprachen und Beschwerden gegen diese Entscheide gilt Artikel 5 sinngemäss.
 
-<sup>4</sup> Wer zur Vornahme des zusätzlichen Steuerrückbehalts verpflichtet ist oder diese Pflicht nach Artikel 11 Absatz 3 auf eine andere Person übertragen hat, muss dafür sorgen, dass seine externe Revisionsstelle jährlich der Eidgenössischen Steuerverwaltung Bericht über die Einhaltung der Vorschriften dieser Verordnung über die Abrechnung und Ablieferung des zusätzlichen Steuerrückbehalts erstattet.[^13-1]
+<sup>4</sup> Wer zur Vornahme des zusätzlichen Steuerrückbehalts verpflichtet ist oder diese Pflicht nach Artikel 11 Absatz 3 auf eine andere Person übertragen hat, muss dafür sorgen, dass seine externe Revisionsstelle jährlich der ESTV Bericht über die Einhaltung der Vorschriften dieser Verordnung über die Abrechnung und Ablieferung des zusätzlichen Steuerrückbehalts erstattet.[^13-1]
 
 [^13-1]: Eingefügt durch Ziff. I der V vom 1. Nov. 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2998](https://fedlex.data.admin.ch/eli/oc/2000/543)).
 
@@ -317,7 +322,7 @@ Die nach Artikel 14 zur Rückforderung oder Verrechnung des zusätzlichen Steuer
 
 **Zu Unrecht beanspruchte Rückerstattung oder Verrechnung des zusätzlichen Steuerrückbehalts**
 
-<sup>1</sup> Stellt sich heraus, dass ein nach Artikel 11 abgezogener zusätzlicher Steuerrückbehalt zu Unrecht zurückerstattet oder verrechnet worden ist, so ist er wieder an die Eidgenössische Steuerverwaltung (Konto 30-4120-3) einzuzahlen.[^16-1]
+<sup>1</sup> Stellt sich heraus, dass ein nach Artikel 11 abgezogener zusätzlicher Steuerrückbehalt zu Unrecht zurückerstattet oder verrechnet worden ist, so ist er wieder an die ESTV (Konto 30-4120-3) einzuzahlen.[^16-1]
 
 <sup>2</sup> Der Wiedereinzug ist Sache der Stelle, welche die ungerechtfertigte Rückerstattung oder Verrechnung angeordnet hat.
 
@@ -344,7 +349,7 @@ Der zweite und der dritte Abschnitt des VStG[^17-1] sind sinngemäss anwendbar, 
 [^18-1]: Fassung gemäss Ziff. I der V vom 1. Nov. 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2998](https://fedlex.data.admin.ch/eli/oc/2000/543)).
 [^18-2]: [SR 642.21](https://fedlex.data.admin.ch/eli/cc/1966/371_385_384)
 
-## 4. Abschnitt:**** Allgemeiner Informationsaustausch
+## 4. Abschnitt: Allgemeiner Informationsaustausch
 
 [^sec4-1]
 
@@ -354,13 +359,13 @@ Der zweite und der dritte Abschnitt des VStG[^17-1] sind sinngemäss anwendbar, 
 
 **Meldungen der Vereinigten Staaten**
 
-Die Eidgenössische Steuerverwaltung wertet die ihr von der zuständigen amerikanischen Behörde erstatteten Meldungen über die an schweizerische Empfängerinnen und Empfänger ausgerichteten amerikanischen Dividenden, Zinsen, Lizenzerträge, privaten Pensionen und Leibrenten zuhanden der Steuerbehörden der Kantone aus.
+Die ESTV wertet die ihr von der zuständigen amerikanischen Behörde erstatteten Meldungen über die an schweizerische Empfängerinnen und Empfänger ausgerichteten amerikanischen Dividenden, Zinsen, Lizenzerträge, privaten Pensionen und Leibrenten zuhanden der Steuerbehörden der Kantone aus.
 
 #### Art. 20
 
 **Rückerstattungsanträge und Meldungen von Dividenden**[^20-1]
 
-Die Eidgenössische Steuerverwaltung kann der zuständigen amerikanischen Behörde Doppel der Formulare 108 sowie der Anträge auf Rückerstattung der Verrechnungssteuer übermitteln, die von amerikanischen Empfängern schweizerischer Dividenden und Zinsen eingereicht wurden.
+Die ESTV kann der zuständigen amerikanischen Behörde Doppel der Formulare 108 sowie der Anträge auf Rückerstattung der Verrechnungssteuer übermitteln, die von amerikanischen Empfängern schweizerischer Dividenden und Zinsen eingereicht wurden.
 
 [^20-1]: Fassung gemäss Ziff. I der V vom 22. Dez. 2004, in Kraft seit 1. Jan. 2005 ([AS 2005 23](https://fedlex.data.admin.ch/eli/oc/2005/8)).
 
@@ -368,7 +373,7 @@ Die Eidgenössische Steuerverwaltung kann der zuständigen amerikanischen Behör
 
 **Durchführung des Abkommens**
 
-<sup>1</sup> Die Eidgenössische Steuerverwaltung übermittelt der zuständigen amerikanischen Behörde die nach schweizerischem Recht erhältlichen Informationen, die zur richtigen Durchführung der Bestimmungen des Abkommens notwendig sind.
+<sup>1</sup> Die ESTV übermittelt der zuständigen amerikanischen Behörde die nach schweizerischem Recht erhältlichen Informationen, die zur richtigen Durchführung der Bestimmungen des Abkommens notwendig sind.
 
 <sup>2</sup> Sie informiert die in der Sache berechtigte Person (betroffene Person) im Voraus über Art und Umfang der zu übermittelnden Informationen.
 
@@ -378,13 +383,13 @@ Die Eidgenössische Steuerverwaltung kann der zuständigen amerikanischen Behör
 
 **Verfahren**
 
-<sup>1</sup> Die Eidgenössische Steuerverwaltung entscheidet über alle Anstände, die sich aus der Erstattung von Meldungen und der Erteilung von Auskünften ergeben.
+<sup>1</sup> Die ESTV entscheidet über alle Anstände, die sich aus der Erstattung von Meldungen und der Erteilung von Auskünften ergeben.
 
-<sup>2</sup> Stimmt die betroffene Person der Übermittlung von Informationen an die zuständige amerikanische Behörde nicht zu oder antwortet sie innert 30 Tagen nicht, so erlässt die Eidgenössische Steuerverwaltung eine Verfügung.
+<sup>2</sup> Stimmt die betroffene Person der Übermittlung von Informationen an die zuständige amerikanische Behörde nicht zu oder antwortet sie innert 30 Tagen nicht, so erlässt die ESTV eine Verfügung.
 
-<sup>3</sup> Die Rechtsmittel gegen Entscheide und Verfügungen der Eidgenössischen Steuerverwaltung richten sich nach Artikel 5.
+<sup>3</sup> Die Rechtsmittel gegen Entscheide und Verfügungen der ESTV richten sich nach Artikel 5.
 
-## 4*a*. Abschnitt:**** Informationsaustausch bei Verdacht auf Abgabebetrug
+## 4*a*. Abschnitt: Informationsaustausch bei Verdacht auf Abgabebetrug
 
 [^sec4a-1]
 
@@ -394,21 +399,21 @@ Die Eidgenössische Steuerverwaltung kann der zuständigen amerikanischen Behör
 
 **Vorprüfung amerikanischer Ersuchen**
 
-<sup>1</sup> Ersuchen der zuständigen amerikanischen Behörde um Informationsaustausch zur Verhütung von Betrugsdelikten nach Artikel 26 des Abkommens werden von der Eidgenössischen Steuerverwaltung vorgeprüft.
+<sup>1</sup> Ersuchen der zuständigen amerikanischen Behörde um Informationsaustausch zur Verhütung von Betrugsdelikten nach Artikel 26 des Abkommens werden von der ESTV vorgeprüft.
 
-<sup>2</sup> Kann einem Ersuchen um Informationsaustausch nicht entsprochen werden, so teilt die Eidgenössische Steuerverwaltung dies der zuständigen amerikanischen Behörde mit. Diese kann ihr Ersuchen ergänzen.
+<sup>2</sup> Kann einem Ersuchen um Informationsaustausch nicht entsprochen werden, so teilt die ESTV dies der zuständigen amerikanischen Behörde mit. Diese kann ihr Ersuchen ergänzen.
 
-<sup>3</sup> Zeigt die Vorprüfung, dass die Voraussetzungen nach Artikel 26 des Abkommens in Verbindung mit Ziffer 10 des Protokolls glaubhaft gemacht sind, so informiert die Eidgenössische Steuerverwaltung diejenige Person, die in der Schweiz über die einschlägigen Informationen verfügt (Informationsinhaber), über den Eingang des Ersuchens und über die darin verlangten Informationen. Der übrige Inhalt des Ersuchens darf dem Informationsinhaber nicht mitgeteilt werden (Art. 26 Abs. 1 dritter Satz des Abkommens).
+<sup>3</sup> Zeigt die Vorprüfung, dass die Voraussetzungen nach Artikel 26 des Abkommens in Verbindung mit Ziffer 10 des Protokolls glaubhaft gemacht sind, so informiert die ESTV diejenige Person, die in der Schweiz über die einschlägigen Informationen verfügt (Informationsinhaber), über den Eingang des Ersuchens und über die darin verlangten Informationen. Der übrige Inhalt des Ersuchens darf dem Informationsinhaber nicht mitgeteilt werden (Art. 26 Abs. 1 dritter Satz des Abkommens).
 
-<sup>4</sup> Die Eidgenössische Steuerverwaltung ersucht den Informationsinhaber gleichzeitig, ihr die Informationen zuzustellen und die betroffene Person aufzufordern, in der Schweiz einen Zustellungsbevollmächtigten zu bezeichnen.
+<sup>4</sup> Die ESTV ersucht den Informationsinhaber gleichzeitig, ihr die Informationen zuzustellen und die betroffene Person aufzufordern, in der Schweiz einen Zustellungsbevollmächtigten zu bezeichnen.
 
 #### Art. 20d
 
 **Beschaffung der Informationen**
 
-<sup>1</sup> Übergibt der Informationsinhaber die verlangten Informationen der Eidgenössischen Steuerverwaltung, so prüft diese die Informationen und erlässt eine Schlussverfügung.
+<sup>1</sup> Übergibt der Informationsinhaber die verlangten Informationen der ESTV, so prüft diese die Informationen und erlässt eine Schlussverfügung.
 
-<sup>2</sup> Stimmt der Informationsinhaber oder die betroffene Person bzw. ihr Zustellungsbevollmächtigter der Übergabe der verlangten Informationen innerhalb von 14 Tagen nicht zu, so erlässt die Eidgenössische Steuerverwaltung gegenüber dem Informationsinhaber eine Verfügung, mit der sie die Herausgabe der im amerikanischen Ersuchen bezeichneten Informationen verlangt.
+<sup>2</sup> Stimmt der Informationsinhaber oder die betroffene Person bzw. ihr Zustellungsbevollmächtigter der Übergabe der verlangten Informationen innerhalb von 14 Tagen nicht zu, so erlässt die ESTV gegenüber dem Informationsinhaber eine Verfügung, mit der sie die Herausgabe der im amerikanischen Ersuchen bezeichneten Informationen verlangt.
 
 <sup>3</sup> Das Bankgeheimnis oder ein Berufsgeheimnis steht der Beschaffung der Informationen nicht entgegen.
 
@@ -416,9 +421,9 @@ Die Eidgenössische Steuerverwaltung kann der zuständigen amerikanischen Behör
 
 **Rechte der betroffenen Person**
 
-<sup>1</sup> Die Eidgenössische Steuerverwaltung eröffnet die an den Informationsinhaber gerichtete Verfügung sowie eine Kopie des Ersuchens der zuständigen amerikanischen Behörde auch der betroffenen Person, die einen schweizerischen Zustellungsbevollmächtigten bezeichnet hat, soweit im Ersuchen nicht ausdrücklich die Geheimhaltung verlangt wird.
+<sup>1</sup> Die ESTV eröffnet die an den Informationsinhaber gerichtete Verfügung sowie eine Kopie des Ersuchens der zuständigen amerikanischen Behörde auch der betroffenen Person, die einen schweizerischen Zustellungsbevollmächtigten bezeichnet hat, soweit im Ersuchen nicht ausdrücklich die Geheimhaltung verlangt wird.
 
-<sup>2</sup> Hat die betroffene Person keinen Zustellungsbevollmächtigten bezeichnet, so ist die Eröffnung von der zuständigen amerikanischen Behörde nach amerikanischem Recht vorzunehmen. Gleichzeitig setzt die Eidgenössische Steuerverwaltung der Person eine Frist zur Zustimmung zum Informationsaustausch oder zur Bestellung eines Zustellungsbevollmächtigten.
+<sup>2</sup> Hat die betroffene Person keinen Zustellungsbevollmächtigten bezeichnet, so ist die Eröffnung von der zuständigen amerikanischen Behörde nach amerikanischem Recht vorzunehmen. Gleichzeitig setzt die ESTV der Person eine Frist zur Zustimmung zum Informationsaustausch oder zur Bestellung eines Zustellungsbevollmächtigten.
 
 <sup>3</sup>
 
@@ -427,19 +432,19 @@ Die betroffene Person kann sich am Verfahren beteiligen und Einsicht in die Akte
 - a. für Aktenstücke und Verfahrenshandlungen, für die Geheimhaltungsgründe bestehen; oder
 - b. wenn Artikel 26 des Abkommens dies erfordert.
 
-<sup>4</sup> Gegenstände, Dokumente und Unterlagen, die der Eidgenössischen Steuerverwaltung ausgehändigt oder von ihr beschafft wurden, dürfen nicht zur Durchsetzung des schweizerischen Steuerrechts verwendet werden. Artikel 20*j* Absatz 4 bleibt vorbehalten.
+<sup>4</sup> Gegenstände, Dokumente und Unterlagen, die der ESTV ausgehändigt oder von ihr beschafft wurden, dürfen nicht zur Durchsetzung des schweizerischen Steuerrechts verwendet werden. Artikel 20*j* Absatz 4 bleibt vorbehalten.
 
 #### Art. 20f
 
 **Zwangsmassnahmen**
 
-<sup>1</sup> Werden die in der Verfügung verlangten Informationen nicht innert der verfügten Frist der Eidgenössischen Steuerverwaltung übergeben, so können Massnahmen unter Anwendung von Zwang durchgeführt werden. Dabei können Gegenstände, Dokumente und Unterlagen in Schriftform oder auf Bild- oder Datenträgern beschlagnahmt sowie Hausdurchsuchungen vorgenommen werden.
+<sup>1</sup> Werden die in der Verfügung verlangten Informationen nicht innert der verfügten Frist der ESTV übergeben, so können Massnahmen unter Anwendung von Zwang durchgeführt werden. Dabei können Gegenstände, Dokumente und Unterlagen in Schriftform oder auf Bild- oder Datenträgern beschlagnahmt sowie Hausdurchsuchungen vorgenommen werden.
 
-<sup>2</sup> Zwangsmassnahmen sind vom Direktor der Eidgenössischen Steuerverwaltung oder von dessen Stellvertreter anzuordnen. Sie sind von besonders ausgebildeten Beamten durchzuführen, und es dürfen nur Gegenstände, Dokumente und Unterlagen beschlagnahmt werden, die im Zusammenhang mit dem Ersuchen um Informationsaustausch von Bedeutung sein könnten.
+<sup>2</sup> Zwangsmassnahmen sind vom Direktor der ESTV oder von dessen Stellvertreter anzuordnen. Sie sind von besonders ausgebildeten Beamten durchzuführen, und es dürfen nur Gegenstände, Dokumente und Unterlagen beschlagnahmt werden, die im Zusammenhang mit dem Ersuchen um Informationsaustausch von Bedeutung sein könnten.
 
-<sup>3</sup> Ist Gefahr im Verzug und kann eine Massnahme nicht rechtzeitig angeordnet werden, so darf der Beamte von sich aus eine Zwangsmassnahme durchführen. Die Massnahme ist innert drei Tagen vom Direktor der Eidgenössischen Steuerverwaltung oder von seinem Stellvertreter zu genehmigen.
+<sup>3</sup> Ist Gefahr im Verzug und kann eine Massnahme nicht rechtzeitig angeordnet werden, so darf der Beamte von sich aus eine Zwangsmassnahme durchführen. Die Massnahme ist innert drei Tagen vom Direktor der ESTV oder von seinem Stellvertreter zu genehmigen.
 
-<sup>4</sup> Die Polizei der Kantone und Gemeinden unterstützt die Eidgenössische Steuerverwaltung bei der Durchführung der Zwangsmassnahmen.
+<sup>4</sup> Die Polizei der Kantone und Gemeinden unterstützt die ESTV bei der Durchführung der Zwangsmassnahmen.
 
 #### Art. 20g
 
@@ -465,9 +470,9 @@ Die betroffene Person kann sich am Verfahren beteiligen und Einsicht in die Akte
 
 **Vereinfachte Ausführung**
 
-<sup>1</sup> Stimmt die betroffene Person der Aushändigung der Informationen an die zuständige amerikanische Behörde zu, so kann sie die Eidgenössische Steuerverwaltung darüber schriftlich informieren. Die Zustimmung ist unwiderruflich.
+<sup>1</sup> Stimmt die betroffene Person der Aushändigung der Informationen an die zuständige amerikanische Behörde zu, so kann sie die ESTV darüber schriftlich informieren. Die Zustimmung ist unwiderruflich.
 
-<sup>2</sup> Die Eidgenössische Steuerverwaltung hält die Zustimmung schriftlich fest und schliesst das Verfahren durch Übermittlung der Informationen an die zuständige amerikanische Behörde.
+<sup>2</sup> Die ESTV hält die Zustimmung schriftlich fest und schliesst das Verfahren durch Übermittlung der Informationen an die zuständige amerikanische Behörde.
 
 <sup>3</sup> Betrifft die Zustimmung nur einen Teil der Informationen, so werden die restlichen Gegenstände, Dokumente und Unterlagen nach den Artikeln 20*d* ff. beschafft und mittels Schlussverfügung übermittelt.
 
@@ -475,19 +480,19 @@ Die betroffene Person kann sich am Verfahren beteiligen und Einsicht in die Akte
 
 **Abschluss des Verfahrens**
 
-<sup>1</sup> Die Eidgenössische Steuerverwaltung erlässt eine begründete Schlussverfügung. Darin äussert sie sich zur Frage, ob ein Abgabebetrug vorliegt, und entscheidet über die Übermittlung von Gegenständen, Dokumenten und Unterlagen an die zuständige amerikanische Behörde.
+<sup>1</sup> Die ESTV erlässt eine begründete Schlussverfügung. Darin äussert sie sich zur Frage, ob ein Abgabebetrug vorliegt, und entscheidet über die Übermittlung von Gegenständen, Dokumenten und Unterlagen an die zuständige amerikanische Behörde.
 
 <sup>2</sup> Die Verfügung wird der betroffenen Person über den Zustellungsbevollmächtigten eröffnet.
 
 <sup>3</sup> Ist kein Zustellungsbevollmächtigter bezeichnet worden, so erfolgt die Eröffnung durch Publikation im Bundesblatt.
 
-<sup>4</sup> Nach Eintritt der Rechtskraft der Schlussverfügung können die der zuständigen amerikanischen Behörde übermittelten Informationen von der Eidgenössischen Steuerverwaltung verwendet werden.
+<sup>4</sup> Nach Eintritt der Rechtskraft der Schlussverfügung können die der zuständigen amerikanischen Behörde übermittelten Informationen von der ESTV verwendet werden.
 
 #### Art. 20k
 
 **Rechtsmittel**
 
-<sup>1</sup> Die Schlussverfügung der Eidgenössischen Steuerverwaltung über die Übermittlung von Informationen unterliegt der Beschwerde nach den allgemeinen Bestimmungen über die Bundesrechtspflege.[^20k-1]
+<sup>1</sup> Die Schlussverfügung der ESTV über die Übermittlung von Informationen unterliegt der Beschwerde nach den allgemeinen Bestimmungen über die Bundesrechtspflege.[^20k-1]
 
 <sup>2</sup> Zur Beschwerde ist auch der Informationsinhaber befugt, soweit er eigene Interessen geltend macht.
 
@@ -502,11 +507,11 @@ Die betroffene Person kann sich am Verfahren beteiligen und Einsicht in die Akte
 
 **Ersuchen ohne Personenangaben**[^20l-1]
 
-<sup>1</sup> Werden die betroffenen Personen im Ersuchen nicht direkt durch Personenangaben genannt, sondern anhand eines bestimmten Verhaltensmusters bestimmt, so ersucht die Eidgenössische Steuerverwaltung den Informationsinhaber, die betroffenen Personen zu identifizieren und sie aufzufordern, in der Schweiz je einen Zustellungsbevollmächtigen zu bezeichnen.
+<sup>1</sup> Werden die betroffenen Personen im Ersuchen nicht direkt durch Personenangaben genannt, sondern anhand eines bestimmten Verhaltensmusters bestimmt, so ersucht die ESTV den Informationsinhaber, die betroffenen Personen zu identifizieren und sie aufzufordern, in der Schweiz je einen Zustellungsbevollmächtigen zu bezeichnen.
 
-<sup>2</sup> Die Eidgenössische Steuerverwaltung informiert den Kreis der betroffenen Personen durch Publikation im Bundesblatt über das Amtshilfeersuchen und über deren Pflicht, je einen Zustellungsbevollmächtigten in der Schweiz zu bezeichnen.
+<sup>2</sup> Die ESTV informiert den Kreis der betroffenen Personen durch Publikation im Bundesblatt über das Amtshilfeersuchen und über deren Pflicht, je einen Zustellungsbevollmächtigten in der Schweiz zu bezeichnen.
 
-<sup>3</sup> Sie weist in der Publikation auf die vereinfachte Ausführung nach Artikel 20*i* hin sowie darauf, dass sie ihre Schlussverfügung einem von ihr bezeichneten Zustellungsbevollmächtigten zustellt, wenn die betroffene Person innert Frist keinen solchen bezeichnet hat. Sie orientiert die betroffenen Personen darüber, dass diese beim von der Eidgenössischen Steuerverwaltung bezeichneten Zustellungsbevollmächtigten weitere Informationen über das Verfahren erhalten können.
+<sup>3</sup> Sie weist in der Publikation auf die vereinfachte Ausführung nach Artikel 20*i* hin sowie darauf, dass sie ihre Schlussverfügung einem von ihr bezeichneten Zustellungsbevollmächtigten zustellt, wenn die betroffene Person innert Frist keinen solchen bezeichnet hat. Sie orientiert die betroffenen Personen darüber, dass diese beim von der ESTV bezeichneten Zustellungsbevollmächtigten weitere Informationen über das Verfahren erhalten können.
 
 <sup>4</sup> Sie informiert in den amerikanischen Medien über die Publikation im Bundesblatt.
 
@@ -523,7 +528,7 @@ Die betroffene Person kann sich am Verfahren beteiligen und Einsicht in die Akte
 Nach Artikel 61 des VStG[^21-1] wird bestraft, wer vorsätzlich oder fahrlässig, zum eigenen Vorteil oder zum Vorteil einer anderen Person:
 
 - a. der Pflicht zum Abzug eines Steuerrückbehalts nicht nachkommt;
-- b. einen zu Recht oder zu Unrecht vorgenommenen Steuerrückbehalt der Eidgenössischen Steuerverwaltung nicht abliefert;
+- b. einen zu Recht oder zu Unrecht vorgenommenen Steuerrückbehalt der ESTV nicht abliefert;
 - c. eine ungerechtfertigte Rückerstattung oder Verrechnung eines Steuerrückbehalts erwirkt.
 
 <sup>2</sup>
@@ -560,6 +565,14 @@ Die Verordnung vom 2. November 1951[^22-1] zum schweizerisch-amerikanischen Dopp
 <sup>1</sup> Unter Vorbehalt von Absatz 2 ist diese Verordnung anwendbar auf Quellensteuern für Einkünfte, die ab dem 1. Februar 1998 gezahlt oder gutgeschrieben werden.
 
 <sup>2</sup> Für Steuerpflichtige, die nach Artikel 29 Absatz 3 des Abkommens beantragt haben, noch während zwölf Monaten ab Inkrafttreten dieser Verordnung nach bisherigem Recht behandelt zu werden, gilt für Quellensteuern auf Einkünften, die bis zum 31. Januar 1999 gezahlt oder gutgeschrieben werden, das bisherige Recht.
+
+#### Art. 23a
+
+**Übergangsbestimmung zur Änderung vom 4. Mai 2022**[^23a-1]
+
+Auf Bewilligungsgesuche, die beim Inkrafttreten der Änderung vom 4. Mai 2022 hängig sind, ist Artikel 4 Absätze 1–3 bisherigen Rechts anwendbar.
+
+[^23a-1]: Eingefügt durch Ziff. I 4 der V vom 4. Mai 2022 über das Meldeverfahren im Konzern bei der Verrechnungssteuer, in Kraft seit 1. Jan. 2023 ([AS 2022 307](https://fedlex.data.admin.ch/eli/oc/2022/307)).
 
 #### Art. 24
 
