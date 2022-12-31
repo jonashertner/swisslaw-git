@@ -4,13 +4,13 @@ number: "170.310"
 title: "Ordinaziun davart l'organisaziun da la regenza e da l'administraziun"
 short: OORA
 language: rm
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-12-21
+version: 2023-01-01
+valid_until: 2024-03-31
+version_adopted: 2022-11-22
 adopted: 2006-10-24
 in_force: 2007-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/170.310"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3214/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3279/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3214/pdf_file"
 
 (OORA)
 
-dals 24-10-2006 (versiun dals 01-01-2022)
+dals 24-10-2006 (versiun dals 01-01-2023)
 
 sa basond sin l'art. 49 da la constituziun chantunala[^ingress-1] e sin l'art. 24 da la lescha davart l'organisaziun da la regenza e da l'administraziun[^ingress-2]
 
@@ -35,6 +35,14 @@ relaschada da la regenza ils 24 d'october 2006
 **Lieu e di da las sesidas**
 
 <sup>1</sup> Las sesidas han lieu per regla il mardi en la chasa grischa a Cuira.
+
+#### Art. 1a
+
+**Conferenzas da telefon e da video**
+
+<sup>1</sup> Sche las circumstanzas pretendan quai, pon las sesidas da la Regenza avair lieu en furma da conferenzas da telefon u da video.
+
+<sup>2</sup> En cas d'impediments excepziunals motivads pon las commembras ed ils commembers da la Regenza sco er la chanceliera u il chancelier sa participar a las sesidas da la Regenza sur ina colliaziun da telefon u da video.
 
 #### Art. 2
 

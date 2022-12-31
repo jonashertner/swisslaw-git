@@ -4,13 +4,13 @@ number: "170.310"
 title: "Ordinanza sull'organizzazione del Governo e dell'Amministrazione"
 short: OOGA
 language: it
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-12-21
+version: 2023-01-01
+valid_until: 2024-03-31
+version_adopted: 2022-11-22
 adopted: 2006-10-24
 in_force: 2007-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/170.310"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3214/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3279/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/3214/pdf_file"
 
 (OOGA)
 
-del 24.10.2006 (stato 01.01.2022)
+del 24.10.2006 (stato 01.01.2023)
 
 emanata dal Governo il 24 ottobre 2006
 
@@ -35,6 +35,14 @@ visti l'art. 49 della Costituzione cantonale [^ingress-1] e l'art. 24 della legg
 **Luogo e giorno di seduta**
 
 <sup>1</sup> Di regola le sedute si tengono il martedì nella Residenza governativa a Coira.
+
+#### Art. 1a
+
+**Conferenze telefoniche e videoconferenze**
+
+<sup>1</sup> Se le circostanze lo richiedono, le sedute del Governo possono essere tenute in conferenza telefonica o in videoconferenza.
+
+<sup>2</sup> In casi eccezionali motivati, i membri del Governo e il cancelliere che hanno un impedimento possono partecipare alle sedute del Governo in collegamento telefonico o video.
 
 #### Art. 2
 
