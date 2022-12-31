@@ -3,24 +3,23 @@ canton: LU
 number: 595a
 title: Verordnung zum Gesetz über den Schutz der Kulturdenkmäler
 language: de
-version: 2014-01-01
-valid_until: 2022-12-31
-version_adopted: 2013-11-26
+version: 2023-01-01
+version_adopted: 2022-09-20
 adopted: 2009-07-10
 in_force: 2009-08-01
 url: "https://srl.lu.ch/app/de/texts_of_law/595a"
-pdf: "https://srl.lu.ch/api/de/versions/2535/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4275/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zum Gesetz über den Schutz der Kulturdenkmäler
 
-vom 10.07.2009 (Stand 01.01.2014)
+vom 10.07.2009 (Stand 01.01.2023)
 
 Der Regierungsrat des Kantons Luzern,
 
-gestützt auf die §§ 1a Absatz 5, 13a Absatz 5, 18 Unterabsatz a, 20 Absatz 2 und 21 des Gesetzes über den Schutz der Kulturdenkmäler vom 8. März 1960[^ingress-1],
+gestützt auf die §§ 1a Absatz 5, 6 Absatz 2, 13a Absatz 5, 18 Unterabsatz a, 20 Absatz 2, 21 und 22 Absatz 1 des Gesetzes über den Schutz der Kulturdenkmäler vom 8. März 1960[^ingress-1],
 
 auf Antrag des Bildungs- und Kulturdepartementes,
 
@@ -32,11 +31,11 @@ beschliesst:
 
 #### § 1
 
-**Dienststelle Hochschulbildung und Kultur[^1-1]**
+**Dienststelle Kultur[^1-1]**
 
-<sup>1</sup> Die Dienststelle Hochschulbildung und Kultur (Dienststelle) ist die zuständige Dienststelle gemäss § 21 des Gesetzes über den Schutz der Kulturdenkmäler[^1-2].
+<sup>1</sup> Die Dienststelle Kultur ist die zuständige Dienststelle gemäss § 21 des Gesetzes über den Schutz der Kulturdenkmäler[^1-2].
 
-[^1-1]: Gemäss Änderung vom 30. August 2011, in Kraft seit dem 1. September 2011 (G 2011 235), wurde die Bezeichnung «Dienststelle Hochschulbildung, Kultur und Sport» durch «Dienststelle Hochschulbildung und Kultur» ersetzt.
+[^1-1]: Gemäss Änderung vom 15. November 2022, in Kraft seit dem 1. November 2023 (G 2022 254), wurde die Bezeichnung «Dienststelle Hochschulbildung und Kultur» durch «Dienststelle Kultur» ersetzt.
 [^1-2]: SRL Nr. [595](https://srl.lu.ch/data/595/de)
 
 #### § 2
@@ -72,6 +71,14 @@ beschliesst:
 <sup>2</sup> Sie legt nach Rücksprache mit den Gemeinden den Zeitplan der Inventarisierung fest.
 
 <sup>3</sup> Die Gemeinden stellen der Dienststelle alle Informationen zur Verfügung, die für die Inventarisierung von Interesse sind, namentlich Zonenpläne, eigene Inventare und Archivgut. Die Dienststelle kann Vorarbeiten der Gemeinden übernehmen.
+
+#### § 4a
+
+**Untersuchung und Erfassung**
+
+<sup>1</sup> Die Untersuchung und Erfassung umfasst in der Regel eine Besichtigung und Beschreibung der Objekte von aussen.
+
+<sup>2</sup> Mit dem Einverständnis der Eigentümerinnen und Eigentümer können zusätzliche Abklärungen, insbesondere eine Besichtigung der Innenräume, vorgenommen werden.
 
 #### § 5
 
@@ -112,6 +119,10 @@ beschliesst:
 <sup>1</sup> Haben sich die Verhältnisse erheblich geändert, wird das Bauinventar überprüft und nötigenfalls angepasst.
 
 <sup>2</sup> Das Bauinventar wird in der Regel gemeindeweise alle zehn Jahre gesamthaft überprüft und nötigenfalls angepasst.
+
+<sup>3</sup> Anpassungen im Einzelfall sind vorzunehmen bei Änderungen aufgrund von Feststellungsentscheiden gemäss § 1c Absatz 2 des Gesetzes über den Schutz der Kulturdenkmäler[^8-1] oder wenn ein Objekt untergegangen ist.
+
+[^8-1]: SRL Nr. [595](https://srl.lu.ch/data/595/de)
 
 ### 2.2 Archäologisches Fundstelleninventar
 
@@ -158,6 +169,28 @@ beschliesst:
 <sup>1</sup> Das archäologische Fundstelleninventar ist laufend anzupassen.
 
 <sup>2</sup> Es wird von der Dienststelle in Papier- und in elektronischer Form geführt. Bei Abweichungen geht das Papierexemplar vor.
+
+## 2a Beiträge
+
+#### § 13a
+
+**Beiträge bei denkmalgeschützten Immobilien**
+
+<sup>1</sup> Die Beiträge gemäss § 6 Absatz 2 des Gesetzes über den Schutz der Kulturdenkmäler[^13a-1] richten sich nach der Bedeutung des Objekts und betragen, unter Vorbehalt von Absatz 2,
+
+- a. bei Objekten von nationalem Interesse — 20–30 Prozent
+- b. bei Objekten von regionalem Interesse — 15–25 Prozent
+- c. bei Objekten von lokalem Interesse — 10–20 Prozent
+
+<sup>2</sup> Verfügt ein denkmalgeschütztes Objekt für die Eigentümerinnen und Eigentümer über keinen Nutzwert mehr und dient ausschliesslich dem Ortsbild- und Landschaftsschutz, können Beiträge bis zu 50 Prozent der Mehraufwendungen geleistet werden.
+
+[^13a-1]: SRL Nr. [595](https://srl.lu.ch/data/595/de)
+
+#### § 13b
+
+**Beiträge bei schützenswerten Immobilien**
+
+<sup>1</sup> An die Kosten der Erhaltung und Renovation von im Bauinventar als schützenswert eingetragenen Objekten können im Rahmen der verfügbaren Mittel Beiträge bis maximal 50'000 Franken pro Objekt geleistet werden.
 
 ## 3 Schlussbestimmungen
 
