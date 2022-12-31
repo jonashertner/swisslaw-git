@@ -4,13 +4,13 @@ number: IV B/31/1
 title: Verordnung über die Volksschule
 short: "Volksschulverordnung, VSV"
 language: de
-version: 2017-08-01
-valid_until: 2022-12-31
-version_adopted: 2016-02-24
+version: 2023-01-01
+valid_until: 2026-07-31
+version_adopted: 2022-12-07
 adopted: 2009-12-23
 in_force: 2011-08-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/IV-B.31.1"
-pdf: "https://gesetze.gl.ch/api/de/versions/1864/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2392/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/1864/pdf_file"
 
 (Volksschulverordnung, VSV)
 
-Vom 23.12.2009 (Stand 01.08.2017)
+Vom 23.12.2009 (Stand 01.01.2023)
 
 Der Landrat,
 
@@ -252,17 +252,7 @@ verordnet:
 
 #### Art. 22
 
-**Bemessung der Beiträge an die Tagesstrukturen für Schulpflichtige und an die Betreuung vorschulpflichtiger Kinder**
-
-<sup>1</sup> Der Kanton richtet jährlich für jedes betreute Kind einen pauschalen Beitrag an die Betreuungskosten aus.
-
-<sup>2</sup> Die Beitragshöhe richtet sich nach dem Umfang der täglich in Anspruch genommenen Betreuung und nach der wirtschaftlichen Leistungsfähigkeit der Erziehungsberechtigten gemäss Sozialtarif.
-
-<sup>3</sup> Der Landrat bestimmt auf Antrag des Regierungsrates jährlich mit dem Budget den Höchstwert einer Beitragspauschale mit Wirkung auf Beginn des folgenden Schuljahres.
-
-<sup>4</sup> Der Regierungsrat legt die Abstufung der Sozialtarife fest.
-
-<sup>5</sup> Von den Gesamtkosten der Tagesstrukturen für Schulpflichtige trägt jede Gemeinde einen Anteil in der Höhe von mindestens 10 Prozent.
+**…**
 
 #### Art. 23
 
