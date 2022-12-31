@@ -3,12 +3,13 @@ canton: FR
 number: "831.0.12"
 title: Verordnung über die Richtsätze für die Bemessung der materiellen Hilfe nach dem Sozialhilfegesetz
 language: de
-version: 2017-01-01
-valid_until: 2022-12-31
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2022-11-14
 adopted: 2006-05-02
 in_force: 2007-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/831.0.12"
-pdf: "https://bdlf.fr.ch/api/de/versions/5592/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7639/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -17,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/5592/pdf_file"
 
 Sozialhilfe, Bemessung der materiellen Hilfe – V
 
-vom 02.05.2006 (Fassung in Kraft getreten am 01.01.2017)
+vom 02.05.2006 (Fassung in Kraft getreten am 01.01.2023)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -55,12 +56,12 @@ beschliesst:
 
 <table>
 <tr><th>Haushaltsgrösse</th><th>Monatliche Pauschale</th><th>Äquivalenzskala: Multiplikator</th><th>Monatliche Pauschale je Person (gerundet)</th></tr>
-<tr><td>1 Person</td><td>Fr. 986</td><td>1,00</td><td>Fr. 986</td></tr>
-<tr><td>2 Personen</td><td>Fr. 1'509</td><td>1,53</td><td>Fr. 755</td></tr>
-<tr><td>3 Personen</td><td>Fr. 1'834</td><td>1,86</td><td>Fr. 611</td></tr>
-<tr><td>4 Personen</td><td>Fr. 2'110</td><td>2,14</td><td>Fr. 528</td></tr>
-<tr><td>5 Personen</td><td>Fr. 2'386</td><td>2,42</td><td>Fr. 477</td></tr>
-<tr><td>je weitere Person</td><td>+ Fr. 200</td><td></td><td></td></tr>
+<tr><td>1 Person</td><td>Fr. 997</td><td>1,00</td><td>Fr. 997</td></tr>
+<tr><td>2 Personen</td><td>Fr. 1'525</td><td>1,53</td><td>Fr. 763</td></tr>
+<tr><td>3 Personen</td><td>Fr. 1'854</td><td>1,86</td><td>Fr. 618</td></tr>
+<tr><td>4 Personen</td><td>Fr. 2'134</td><td>2,14</td><td>Fr. 533</td></tr>
+<tr><td>5 Personen</td><td>Fr. 2'413</td><td>2,42</td><td>Fr. 483</td></tr>
+<tr><td>je weitere Person</td><td>+ Fr. 202</td><td></td><td></td></tr>
 </table>
 
 #### Art. 3

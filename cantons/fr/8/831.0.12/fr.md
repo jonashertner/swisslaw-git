@@ -3,12 +3,13 @@ canton: FR
 number: "831.0.12"
 title: "Ordonnance fixant les normes de calcul de l'aide matérielle de la loi sur l'aide sociale"
 language: fr
-version: 2017-01-01
-valid_until: 2022-12-31
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2022-11-14
 adopted: 2006-05-02
 in_force: 2007-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/831.0.12"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5592/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7639/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -17,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/5592/pdf_file"
 
 Aide sociale, calcul de l'aide matérielle – O
 
-du 02.05.2006 (version entrée en vigueur le 01.01.2017)
+du 02.05.2006 (version entrée en vigueur le 01.01.2023)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -55,12 +56,12 @@ Arrête:
 
 <table>
 <tr><th>Nombre de personnes dans le ménage</th><th>Forfait par mois</th><th>Echelle d'équivalence: coefficient</th><th>Forfait par mois par personne (arrondi)</th></tr>
-<tr><td>1 personne</td><td>Fr. 986</td><td>1,00</td><td>Fr. 986</td></tr>
-<tr><td>2 personnes</td><td>Fr. 1'509</td><td>1,53</td><td>Fr. 755</td></tr>
-<tr><td>3 personnes</td><td>Fr. 1'834</td><td>1,86</td><td>Fr. 611</td></tr>
-<tr><td>4 personnes</td><td>Fr. 2'110</td><td>2,14</td><td>Fr. 528</td></tr>
-<tr><td>5 personnes</td><td>Fr. 2'386</td><td>2,42</td><td>Fr. 477</td></tr>
-<tr><td>par personne supplémentaire</td><td>+ Fr. 200</td><td></td><td></td></tr>
+<tr><td>1 personne</td><td>Fr. 997</td><td>1,00</td><td>Fr. 997</td></tr>
+<tr><td>2 personnes</td><td>Fr. 1'525</td><td>1,53</td><td>Fr. 763</td></tr>
+<tr><td>3 personnes</td><td>Fr. 1'854</td><td>1,86</td><td>Fr. 618</td></tr>
+<tr><td>4 personnes</td><td>Fr. 2'134</td><td>2,14</td><td>Fr. 533</td></tr>
+<tr><td>5 personnes</td><td>Fr. 2'413</td><td>2,42</td><td>Fr. 483</td></tr>
+<tr><td>par personne supplémentaire</td><td>+ Fr. 202</td><td></td><td></td></tr>
 </table>
 
 #### Art. 3
