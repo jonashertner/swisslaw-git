@@ -4,13 +4,12 @@ number: "331"
 title: Gesetz über die Staats- und Gemeindesteuern
 short: Steuergesetz
 language: de
-version: 2021-01-01
-valid_until: 2022-12-31
-version_adopted: 2020-06-11
+version: 2023-01-01
+version_adopted: 2022-09-15
 adopted: 1974-02-07
 in_force: 2009-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/331"
-pdf: "https://bl.clex.ch/api/de/versions/2718/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3502/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bl.clex.ch/api/de/versions/2718/pdf_file"
 
 (Steuergesetz)
 
-Vom 07.02.1974 (Stand 01.01.2021)
+Vom 07.02.1974 (Stand 01.01.2023)
 
 Der Landrat des Kantons Basel-Landschaft beschliesst als Gesetz:[^ingress-1]
 
@@ -494,7 +493,9 @@ Der Landrat des Kantons Basel-Landschaft beschliesst als Gesetz:[^ingress-1]
 
 **8. Mietwert selbst genutzter Liegenschaften (Eigenmietwert)**
 
-<sup>1</sup> Der Eigenmietwert leitet sich von dem gemäss dem Sachversicherungsgesetz vom 12. Januar 1981[^27ter-1] geschätzten einfachen Brandlagerwert einer Liegenschaft ab, welcher mit einem gemeindespezifischen Korrekturfaktor, einem Korrekturfaktor nach Alter der Liegenschaft und einem Korrekturfaktor für Stockwerkeigentum multipliziert wird, was den steuerlichen Brandlagerwert ergibt.
+<sup>1</sup> Der Eigenmietwert leitet sich vom einfachen Brandlagerwert einer Liegenschaft ab, welcher mit einem gemeindespezifischen Korrekturfaktor, einem Korrekturfaktor nach Alter der Liegenschaft und einem Korrekturfaktor für Stockwerkeigentum multipliziert wird, was den steuerlichen Brandlagerwert ergibt.
+
+<sup>1<sup>bis</sup></sup> Als einfacher Brandlagerwert gilt der Zeitwert gemäss der Gebäudeversicherungsgesetzgebung, zurückgerechnet auf den Basiswert 1939 von 100 Indexpunkten.
 
 <sup>2</sup> Die gemeindespezifischen Korrekturfaktoren werden vom Regierungsrat festgelegt.
 
@@ -531,8 +532,6 @@ Der Landrat des Kantons Basel-Landschaft beschliesst als Gesetz:[^ingress-1]
 <sup>9</sup> Einer erheblichen raummässigen Unternutzung des selbst genutzten Wohneigentums ist bei der behördlichen Festlegung des Eigenmietwertes auf Antrag Rechnung zu tragen. Das Nähere regelt der Regierungsrat.
 
 <sup>10</sup> Die kantonale Steuerverwaltung stellt den betroffenen Steuerpflichtigen jedes Jahr ein Informationsschreiben mit den jeweils aktuellen Angaben zu den individuellen Liegenschaftswerten zu. Aus diesem müssen der steuerliche Brandlagerwert und diejenigen weiteren Zahlen betreffend die Liegenschaft hervorgehen, welche die betroffenen Steuerpflichtigen für die Einreichung ihrer Steuererklärungen benötigen. Der Versand dieser Dokumente hat auch dann jährlich zu erfolgen, wenn sich keine Änderungen gegenüber dem Vorjahr ergeben haben.
-
-[^27ter-1]: GS 27.690, SGS [350](https://bl.clex.ch/data/350/de)
 
 #### § 27quater
 
@@ -580,9 +579,11 @@ Der Landrat des Kantons Basel-Landschaft beschliesst als Gesetz:[^ingress-1]
 - m. die Gewinne, die in Spielbanken mit Spielbankenspielen erzielt werden, die nach dem Bundesgesetz vom 29. September 2017[^28-1] über Geldspiele (Geldspielgesetz, BGS) zugelassen sind, sofern diese Gewinne nicht aus selbstständiger Erwerbstätigkeit stammen;
 - n. die einzelnen Gewinne bis zum Betrag von CHF 1 Mio. aus der Teilnahme an Grossspielen, die nach dem BGS zugelassen sind, und aus der Online-Teilnahme an Spielbankenspielen, die nach dem BGS zugelassen sind;
 - o. die Gewinne aus Kleinspielen, die nach dem BGS zugelassen sind;
-- p. die einzelnen Gewinne aus Lotterien und Geschicklichkeitsspielen zur Verkaufsförderung, die nach Art. 1 Abs. 2 Bst. d und e BGS diesem nicht unterstehen, sofern die Grenze von CHF 1‘000.– nicht überschritten wird.
+- p. die einzelnen Gewinne aus Lotterien und Geschicklichkeits-spielen zur Verkaufsförderung, die nach Art. 1 Abs. 2 Bst. d und e BGS diesem nicht unterstehen, sofern die Grenze von CHF 1‘000.– nicht überschritten wird;
+- q. Einkünfte aufgrund des Bundesgesetzes über Überbrückungsleistungen für ältere Arbeitslose vom 19. Juni 2020[^28-2].
 
 [^28-1]: [SR 935.51](https://db.clex.ch/link/Bund/935.51/de)
+[^28-2]: [SR 837.2](https://db.clex.ch/link/Bund/837.2/de)
 
 #### § 29
 
@@ -823,7 +824,7 @@ Je nach Höhe des satzbestimmenden Einkommens wird der Steuerbetrag für das Ste
 
 <sup>3</sup> Bei der Bewertung bestrittener oder unsicherer Rechte und Forderungen ist der Wahrscheinlichkeit von Verlusten Rechnung zu tragen.
 
-<sup>4</sup> Steht der Verkehrswert nach den Absätzen 1 und 2 in einem offensichtlichen Missverhältnis zum Ertrag, so ist der Steuerwert vom Regierungsrat angemessen herabzusetzen.
+<sup>4</sup> …
 
 <sup>5</sup> Das Nähere bestimmt die Vollziehungsverordnung.
 
@@ -861,23 +862,24 @@ Je nach Höhe des satzbestimmenden Einkommens wird der Steuerbetrag für das Ste
 
 <sup>1</sup> Für die Steuerberechnung werden vom Reinvermögen abgezogen:
 
-- a. für in ungetrennter Ehe lebende Steuerpflichtige sowie für Steuerpflichtige, welche die satzbestimmende Reduktion gemäss § 34 Absatz 2 geltend machen können — CHF 150'000;
-- b. für alle anderen Steuerpflichtigen — CHF 75'000.
+- a. für in ungetrennter Ehe lebende Steuerpflichtige sowie für Steuerpflichtige, welche die satzbestimmende Reduktion gemäss § 34 Abs. 2 geltend machen können — CHF 180'000;
+- b. für alle anderen Steuerpflichtigen — CHF 90'000.
 
 #### § 51
 
 **2. Vermögenssteuersatz**
 
-<sup>1</sup> Für Vermögen von CHF 10'000 beträgt der Vermögenssteuersatz 1,15‰.
+<sup>1</sup> Vermögen unter CHF 10'000 sind steuerfrei.
 
-<sup>2</sup> Für jedes um CHF 1000 höhere Vermögen erhöht sich der Steuersatz gleichmässig bei steuerbaren Vermögen von:
+<sup>2</sup> Der Vermögenssteuersatz beträgt bei steuerbaren Vermögen:
 
-- a. CHF 10'000 bis 500'000 — um je 0,005‰ bis auf 3,6‰;
-- b. CHF 500'000 bis 1'000'000 — um je 0,002‰ bis auf 4,6‰.
+- a. für die ersten CHF 150'000 — 1,1 ‰;
+- b. für die weiteren CHF 200'000 von CHF 150'001 bis CHF 350'000 — 2,9 ‰;
+- c. für die über CHF 350'000 liegenden Vermögensteile — 3,3 ‰.
 
-<sup>3</sup> Für Vermögen über CHF 1'000'000 beträgt der Steuersatz einheitlich 4,6‰.
+<sup>3</sup> …
 
-<sup>4</sup> Vermögen unter CHF 10'000 sind steuerfrei.
+<sup>4</sup> …
 
 ### 1.2.3 Steuern der juristischen Personen
 
