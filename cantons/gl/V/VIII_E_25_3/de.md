@@ -3,13 +3,12 @@ canton: GL
 number: VIII E/25/3
 title: Verordnung über den Fonds zur ergänzenden Unterstützung von Familien
 language: de
-version: 2014-09-01
-valid_until: 2022-12-31
-version_adopted: 2014-04-22
+version: 2023-01-01
+version_adopted: 2022-11-08
 adopted: 2009-10-13
 in_force: 2009-10-13
 url: "https://gesetze.gl.ch/app/de/texts_of_law/VIII-E.25.3"
-pdf: "https://gesetze.gl.ch/api/de/versions/1710/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2367/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/1710/pdf_file"
 
 Verordnung
 
-Vom 13.10.2009 (Stand 01.09.2014)
+Vom 13.10.2009 (Stand 01.01.2023)
 
 Der Regierungsrat,
 
@@ -60,7 +59,7 @@ verordnet:
 
 **Kontrolle**
 
-<sup>1</sup> Berichterstattung und Rechnungslegung erfolgen im Rahmen des Amtsberichts.
+<sup>1</sup> Berichterstattung und Rechnungslegung erfolgen im Rahmen des Tätigkeitsberichts.
 
 #### Art. 5
 
