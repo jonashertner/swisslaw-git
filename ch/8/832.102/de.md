@@ -4,11 +4,11 @@ title: Verordnung vom 27. Juni 1995 über die Krankenversicherung (KVV)
 short: KVV
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867"
 language: de
-version: 2022-09-01
+version: 2023-01-01
 adopted: 1995-06-27
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867/20220901/de/xml/fedlex-data-admin-ch-eli-cc-1995-3867_3867_3867-20220901-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20220901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867/20230101/de/xml/fedlex-data-admin-ch-eli-cc-1995-3867_3867_3867-20230101-de-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20220901/de"
 
 (KVV)
 
-vom 27. Juni 1995 (Stand am 1. September 2022)
+vom 27. Juni 1995 (Stand am 1. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
@@ -52,10 +52,11 @@ Versicherungspflichtig sind zudem:
 - a.[^1-2] Ausländer und Ausländerinnen mit einer Kurzaufenthalts- oder Aufenthaltsbewilligung nach den Artikeln 32 und 33 des Bundesgesetzes vom 16. Dezember 2005[^1-3] über die Ausländerinnen und Ausländer und über die Integration (AIG), die mindestens drei Monate gültig ist;
 - b.[^1-4] unselbstständig erwerbstätige Ausländer und Ausländerinnen, deren Kurzaufenthaltsbewilligung weniger als drei Monate gültig ist, sofern sie für Behandlungen in der Schweiz nicht über einen gleichwertigen Versicherungsschutz verfügen;
 - c.[^1-5] Personen, die ein Asylgesuch in der Schweiz nach Artikel 18 des Asylgesetzes vom 26. Juni 1998[^1-6] (AsylG) gestellt haben, und Personen, welchen nach Artikel 66 des AsylG vorübergehender Schutz gewährt wurde, sowie Personen, für welche die vorläufige Aufnahme nach Artikel 83 AIG verfügt worden ist;
-- d.[^1-7] Personen, welche in einem Mitgliedstaat der Europäischen Union wohnen und nach dem in Artikel 95*a* Buchstabe a des Gesetzes genannten Abkommen vom 21. Juni 1999[^1-8] zwischen der Schweizerischen Eidgenossenschaft einerseits und der Europäischen Gemeinschaft sowie ihren Mitgliedstaaten andererseits über die Freizügigkeit (Freizügigkeitsabkommen) sowie seinem Anhang II der schweizerischen Versicherung unterstellt sind;
-- e.[^1-9] Personen, welche in Island oder Norwegen wohnen und nach dem in Artikel 95*a* Buchstabe b des Gesetzes genannten Abkommen vom 21. Juni 2001[^1-10] zur Änderung des Übereinkommens zur Errichtung der Europäischen Freihandelsassoziation (EFTA-Abkommen), seinem Anhang K und Anlage 2 zu Anhang K der schweizerischen Versicherung unterstellt sind;
-- f.[^1-11] Personen mit einer Kurzaufenthalts- oder einer Aufenthaltsbewilligung nach dem Freizügigkeitsabkommen oder dem EFTA-Abkommen, die mindestens drei Monate gültig ist;
-- g.[^1-12] Personen, die während längstens drei Monaten in der Schweiz erwerbstätig sind und nach dem Freizügigkeitsabkommen oder dem EFTA-Abkommen hierfür keine Aufenthaltsbewilligung benötigen, sofern sie für Behandlungen in der Schweiz nicht über einen gleichwertigen Versicherungsschutz verfügen.
+- d.[^1-7] Personen, die in einem Mitgliedstaat der Europäischen Union wohnen und nach dem in Artikel 95*a* Absatz 1 des Gesetzes genannten Abkommen vom 21. Juni 1999[^1-8] zwischen der Schweizerischen Eidgenossenschaft einerseits und der Europäischen Gemeinschaft sowie ihren Mitgliedstaaten andererseits über die Freizügigkeit (Freizügigkeitsabkommen) sowie seinem Anhang II der schweizerischen Versicherung unterstellt sind;
+- e.[^1-9] Personen, die in Island oder Norwegen wohnen und nach dem in Artikel 95*a* Absatz 2 des Gesetzes genannten Abkommen vom 21. Juni 2001[^1-10] zur Änderung des Übereinkommens zur Errichtung der Europäischen Freihandelsassoziation (EFTA-Abkommen), seinem Anhang K und Anlage 2 zu Anhang K der schweizerischen Versicherung unterstellt sind;
+- e<sup>bis</sup>.[^1-11] Personen, die in einem Staat wohnen, mit dem ein Abkommen über soziale Sicherheit besteht, und die aufgrund dieses Abkommens der schweizerischen Versicherung unterstellt sind;
+- f.[^1-12] Personen mit einer Kurzaufenthalts- oder einer Aufenthaltsbewilligung nach dem Freizügigkeitsabkommen oder dem EFTA-Abkommen, die mindestens drei Monate gültig ist;
+- g.[^1-13] Personen, die während längstens drei Monaten in der Schweiz erwerbstätig sind und nach dem Freizügigkeitsabkommen oder dem EFTA-Abkommen hierfür keine Aufenthaltsbewilligung benötigen, sofern sie für Behandlungen in der Schweiz nicht über einen gleichwertigen Versicherungsschutz verfügen.
 
 [^1-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 [^1-2]: Fassung gemäss Ziff. I 4 der V vom 24. Okt. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5627](https://fedlex.data.admin.ch/eli/oc/2007/773)).
@@ -63,12 +64,13 @@ Versicherungspflichtig sind zudem:
 [^1-4]: Fassung gemäss Ziff. I 4 der V vom 24. Okt. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5627](https://fedlex.data.admin.ch/eli/oc/2007/773)).
 [^1-5]: Fassung gemäss Ziff. I 4 der V vom 24. Okt. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5627](https://fedlex.data.admin.ch/eli/oc/2007/773)).
 [^1-6]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
-[^1-7]: Eingefügt durch Ziff. I der V vom 3. Juli 2001 ([AS 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)). Fassung gemäss Ziff. I der V vom 2. Nov. 2011, in Kraft seit 1. April 2012 ([AS 2012 955](https://fedlex.data.admin.ch/eli/oc/2012/162)).
+[^1-7]: Eingefügt durch Ziff. I der V vom 3. Juli 2001 ([AS 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)). Fassung gemäss Ziff. I 1 der V vom 26. Okt. 2022 über die Änderung von Verordnungen im Bereich der Krankenversicherung zur Umsetzung des Abkommens zur Koordinierung der sozialen Sicherheit zwischen der Schweizerischen Eidgenossenschaft und dem Vereinigten Königreich von Grossbritannien und Nordirland, in Kraft seit 1. Jan. 2023 ([AS 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
 [^1-8]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^1-9]: Eingefügt durch Ziff. I der V vom 3. Juli 2001 ([AS 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)). Fassung gemäss Ziff. I der V vom 22. Mai 2002, in Kraft seit 1. Juni 2002 ([AS 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)).
+[^1-9]: Eingefügt durch Ziff. I der V vom 3. Juli 2001 ([AS 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)). Fassung gemäss Ziff. I 1 der V vom 26. Okt. 2022 über die Änderung von Verordnungen im Bereich der Krankenversicherung zur Umsetzung des Abkommens zur Koordinierung der sozialen Sicherheit zwischen der Schweizerischen Eidgenossenschaft und dem Vereinigten Königreich von Grossbritannien und Nordirland, in Kraft seit 1. Jan. 2023 ([AS 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
 [^1-10]: [SR 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
-[^1-11]: Eingefügt durch Ziff. I der V vom 22. Mai 2002, in Kraft seit 1. Juni 2002 ([AS 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)).
-[^1-12]: Eingefügt durch Ziff. I der V vom 3. Dez. 2004, in Kraft seit 1. Jan. 2005 ([AS 2004 5075](https://fedlex.data.admin.ch/eli/oc/2004/784)).
+[^1-11]: Eingefügt durch Ziff. I 1 der V vom 26. Okt. 2022 über die Änderung von Verordnungen im Bereich der Krankenversicherung zur Umsetzung des Abkommens zur Koordinierung der sozialen Sicherheit zwischen der Schweizerischen Eidgenossenschaft und dem Vereinigten Königreich von Grossbritannien und Nordirland, in Kraft seit 1. Jan. 2023 ([AS 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
+[^1-12]: Eingefügt durch Ziff. I der V vom 22. Mai 2002, in Kraft seit 1. Juni 2002 ([AS 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)).
+[^1-13]: Eingefügt durch Ziff. I der V vom 3. Dez. 2004, in Kraft seit 1. Jan. 2005 ([AS 2004 5075](https://fedlex.data.admin.ch/eli/oc/2004/784)).
 
 #### Art. 2
 
@@ -80,57 +82,65 @@ Es unterstehen nicht der Versicherungspflicht:
 
 - a.[^2-1] aktive und pensionierte Bundesbedienstete, die nach Artikel 1*a* Absatz 1 Buchstabe b Ziffern 1–7[^2-2] und Artikel 2 des Bundesgesetzes vom 19. Juni 1992[^2-3] über die Militärversicherung (MVG) der Militärversicherung unterstellt sind;
 - b. Personen, die sich ausschliesslich zur ärztlichen Behandlung oder zur Kur in der Schweiz aufhalten;
-- c.[^2-4] Personen, die nach dem Freizügigkeitsabkommen[^2-5] sowie seinem Anhang II, dem EFTA-Abkommen[^2-6], seinem Anhang K und Anlage 2 zu Anhang K oder einem Abkommen über Soziale Sicherheit wegen ihrer Erwerbstätigkeit in einem anderen Staat den Rechtsvorschriften dieses Staates unterstellt sind;
+- c.[^2-4] Personen, die nach dem Freizügigkeitsabkommen[^2-5] sowie seinem Anhang II, dem EFTA-Abkommen[^2-6], seinem Anhang K und Anlage 2 zu Anhang K oder einem Abkommen über soziale Sicherheit wegen ihrer Erwerbstätigkeit in einem anderen Staat den Rechtsvorschriften dieses Staates unterstellt sind;
 - d.[^2-7] Personen, die wegen des Bezugs einer Leistung einer ausländischen Arbeitslosenversicherung nach dem Freizügigkeitsabkommen sowie seinem Anhang II oder dem EFTA-Abkommen, seinem Anhang K und Anlage 2 zu Anhang K den Rechtsvorschriften eines anderen Staates unterstellt sind;
-- e.[^2-8] Personen, die keinen Anspruch auf eine schweizerische Rente haben, aber nach dem Freizügigkeitsabkommen sowie seinem Anhang II Anspruch auf eine Rente eines Mitgliedstaates der Europäischen Union oder nach dem EFTA-Abkommen, seinem Anhang K und Anlage 2 zu Anhang K Anspruch auf eine isländische oder norwegische Rente haben;
-- f.[^2-9] Personen, die als Familienangehörige einer unter den Buchstaben c, d oder e erwähnten Person in deren ausländischen Krankenversicherung mitversichert sind und entweder Anspruch auf Leistungsaushilfe haben oder für Behandlungen in der Schweiz über einen gleichwertigen Versicherungsschutz verfügen;
-- g.[^2-10] Personen, die als Familienangehörige einer Person in deren ausländischen Krankenversicherung mitversichert sind und Anspruch auf Leistungsaushilfe haben.
+- e.[^2-8]
 
-<sup>2</sup> Auf Gesuch hin von der Versicherungspflicht ausgenommen sind Personen, die nach dem Recht eines Staates, mit dem keine Regelung über die Abgrenzung der Versicherungspflicht besteht, obligatorisch krankenversichert sind, sofern der Einbezug in die schweizerische Versicherung für sie eine Doppelbelastung bedeuten würde und sie für Behandlungen in der Schweiz über einen gleichwertigen Versicherungsschutz verfügen. Dem Gesuch ist eine schriftliche Bestätigung der zuständigen ausländischen Stelle mit allen erforderlichen Angaben beizulegen.[^2-11]
+  Personen, die keinen Anspruch auf eine schweizerische Rente haben, aber:
 
-<sup>3</sup> …[^2-12]
+  - 1\. nach dem Freizügigkeitsabkommen sowie seinem Anhang II Anspruch auf eine Rente eines Mitgliedstaates der Europäischen Union haben,
+  - 2\. nach dem EFTA-Abkommen, seinem Anhang K und Anlage 2 zu Anhang K Anspruch auf eine isländische oder norwegische Rente haben, oder
+  - 3\. nach dem Abkommen vom 9. September 2021[^2-9] zur Koordinierung der sozialen Sicherheit zwischen der Schweizerischen Eidgenossenschaft und dem Vereinigten Königreich von Grossbritannien und Nordirland (Abkommen mit dem Vereinigten Königreich) Anspruch auf eine britische Rente haben;
 
-<sup>4</sup> Auf Gesuch hin von der Versicherungspflicht ausgenommen sind Personen, die sich im Rahmen einer Aus- oder Weiterbildung in der Schweiz aufhalten, wie namentlich Studierende, Schüler und Schülerinnen, Praktikanten und Praktikantinnen sowie Stagiaires, sowie die sie begleitenden Familienangehörigen im Sinne von Artikel 3 Absatz 2, sofern sie während der gesamten Geltungsdauer der Befreiung für Behandlungen in der Schweiz über einen gleichwertigen Versicherungsschutz verfügen.[^2-13] Dem Gesuch ist eine schriftliche Bestätigung der zuständigen ausländischen Stelle mit allen erforderlichen Angaben beizulegen. Die zuständige kantonale Behörde kann die betreffende Person höchstens für drei Jahre von der Versicherungspflicht befreien. Auf Gesuch hin kann die Befreiung um höchstens drei weitere Jahre verlängert werden. Die betreffende Person kann die Befreiung oder einen Verzicht auf die Befreiung ohne besonderen Grund nicht widerrufen.[^2-14]
+- f.[^2-10] Personen, die als Familienangehörige einer unter den Buchstaben c, d oder e erwähnten Person in deren ausländischen Krankenversicherung mitversichert sind und entweder Anspruch auf Leistungsaushilfe haben oder für Behandlungen in der Schweiz über einen gleichwertigen Versicherungsschutz verfügen;
+- g.[^2-11] Personen, die als Familienangehörige einer Person in deren ausländischen Krankenversicherung mitversichert sind und Anspruch auf Leistungsaushilfe haben.
 
-<sup>4bis</sup> …[^2-15]
+<sup>2</sup> Auf Gesuch hin von der Versicherungspflicht ausgenommen sind Personen, die nach dem Recht eines Staates, mit dem keine Regelung über die Abgrenzung der Versicherungspflicht besteht, obligatorisch krankenversichert sind, sofern der Einbezug in die schweizerische Versicherung für sie eine Doppelbelastung bedeuten würde und sie für Behandlungen in der Schweiz über einen gleichwertigen Versicherungsschutz verfügen. Dem Gesuch ist eine schriftliche Bestätigung der zuständigen ausländischen Stelle mit allen erforderlichen Angaben beizulegen.[^2-12]
 
-<sup>5</sup> Auf Gesuch hin von der Versicherungspflicht ausgenommen sind in die Schweiz entsandte Arbeitnehmer und Arbeitnehmerinnen, welche gestützt auf eine zwischenstaatliche Vereinbarung über soziale Sicherheit von der Beitragspflicht in der schweizerischen Alters-, Hinterlassenen- und Invalidenversicherung (AHV/IV) befreit sind, sowie die sie begleitenden Familienangehörigen im Sinne von Artikel 3 Absatz 2, wenn der Arbeitgeber oder die Arbeitgeberin sich verpflichtet, dafür zu sorgen, dass während der gesamten Geltungsdauer der Befreiung für Behandlungen in der Schweiz mindestens die Leistungen nach KVG versichert sind. Diese Regelung gilt sinngemäss auch für andere Personen, die gestützt auf eine zwischenstaatliche Vereinbarung durch eine Ausnahmebewilligung während eines vorübergehenden Aufenthaltes in der Schweiz von der Beitragspflicht in der AHV/IV befreit sind. Die betreffende Person und der Arbeitgeber oder die Arbeitgeberin können die Befreiung oder einen Verzicht auf die Befreiung nicht widerrufen.[^2-16]
+<sup>3</sup> …[^2-13]
 
-<sup>6</sup> Auf Gesuch hin von der Versicherungspflicht ausgenommen sind Personen, die in einem Mitgliedstaat der Europäischen Union wohnen, sofern sie nach dem Freizügigkeitsabkommen sowie seinem Anhang II von der Versicherungspflicht befreit werden können und nachweisen, dass sie im Wohnstaat und während eines Aufenthalts in einem anderen Mitgliedstaat der Europäischen Union und in der Schweiz für den Krankheitsfall gedeckt sind.[^2-17]
+<sup>4</sup> Auf Gesuch hin von der Versicherungspflicht ausgenommen sind Personen, die sich im Rahmen einer Aus- oder Weiterbildung in der Schweiz aufhalten, wie namentlich Studierende, Schüler und Schülerinnen, Praktikanten und Praktikantinnen sowie Stagiaires, sowie die sie begleitenden Familienangehörigen im Sinne von Artikel 3 Absatz 2, sofern sie während der gesamten Geltungsdauer der Befreiung für Behandlungen in der Schweiz über einen gleichwertigen Versicherungsschutz verfügen.[^2-14] Dem Gesuch ist eine schriftliche Bestätigung der zuständigen ausländischen Stelle mit allen erforderlichen Angaben beizulegen. Die zuständige kantonale Behörde kann die betreffende Person höchstens für drei Jahre von der Versicherungspflicht befreien. Auf Gesuch hin kann die Befreiung um höchstens drei weitere Jahre verlängert werden. Die betreffende Person kann die Befreiung oder einen Verzicht auf die Befreiung ohne besonderen Grund nicht widerrufen.[^2-15]
 
-<sup>7</sup> Auf Gesuch hin von der Versicherungspflicht ausgenommen sind Personen, die über eine Aufenthaltsbewilligung für Personen ohne Erwerbstätigkeit nach dem Freizügigkeitsabkommen oder dem EFTA-Abkommen verfügen, sofern sie während der gesamten Geltungsdauer der Befreiung für Behandlungen in der Schweiz über einen gleichwertigen Versicherungsschutz verfügen. Dem Gesuch ist eine schriftliche Bestätigung der zuständigen ausländischen Stelle mit allen erforderlichen Angaben beizulegen. Die betreffende Person kann die Befreiung oder einen Verzicht auf die Befreiung ohne besonderen Grund nicht widerrufen.[^2-18]
+<sup>4bis</sup> …[^2-16]
 
-<sup>8</sup> Auf Gesuch hin von der Versicherungspflicht ausgenommen sind Personen, für welche eine Unterstellung unter die schweizerische Versicherung eine klare Verschlechterung des bisherigen Versicherungsschutzes oder der bisherigen Kostendeckung zur Folge hätte und die sich auf Grund ihres Alters und/oder ihres Gesundheitszustandes nicht oder nur zu kaum tragbaren Bedingungen im bisherigen Umfang zusatzversichern könnten. Dem Gesuch ist eine schriftliche Bestätigung der zuständigen ausländischen Stelle mit allen erforderlichen Angaben beizulegen. Die betreffende Person kann die Befreiung oder einen Verzicht auf die Befreiung ohne besonderen Grund nicht widerrufen.[^2-19]
+<sup>5</sup> Auf Gesuch hin von der Versicherungspflicht ausgenommen sind in die Schweiz entsandte Arbeitnehmer und Arbeitnehmerinnen, welche gestützt auf eine zwischenstaatliche Vereinbarung über soziale Sicherheit von der Beitragspflicht in der schweizerischen Alters-, Hinterlassenen- und Invalidenversicherung (AHV/IV) befreit sind, sowie die sie begleitenden Familienangehörigen im Sinne von Artikel 3 Absatz 2, wenn der Arbeitgeber oder die Arbeitgeberin sich verpflichtet, dafür zu sorgen, dass während der gesamten Geltungsdauer der Befreiung für Behandlungen in der Schweiz mindestens die Leistungen nach KVG versichert sind. Diese Regelung gilt sinngemäss auch für andere Personen, die gestützt auf eine zwischenstaatliche Vereinbarung durch eine Ausnahmebewilligung während eines vorübergehenden Aufenthaltes in der Schweiz von der Beitragspflicht in der AHV/IV befreit sind. Die betreffende Person und der Arbeitgeber oder die Arbeitgeberin können die Befreiung oder einen Verzicht auf die Befreiung nicht widerrufen.[^2-17]
+
+<sup>6</sup> Auf Gesuch hin von der Versicherungspflicht ausgenommen sind Personen, die in einem Mitgliedstaat der Europäischen Union wohnen, sofern sie nach dem Freizügigkeitsabkommen sowie seinem Anhang II von der Versicherungspflicht befreit werden können und nachweisen, dass sie im Wohnstaat und während eines Aufenthalts in einem anderen Mitgliedstaat der Europäischen Union und in der Schweiz für den Krankheitsfall gedeckt sind.[^2-18]
+
+<sup>7</sup> Auf Gesuch hin von der Versicherungspflicht ausgenommen sind Personen, die über eine Aufenthaltsbewilligung für Personen ohne Erwerbstätigkeit nach dem Freizügigkeitsabkommen oder dem EFTA-Abkommen verfügen, sofern sie während der gesamten Geltungsdauer der Befreiung für Behandlungen in der Schweiz über einen gleichwertigen Versicherungsschutz verfügen. Dem Gesuch ist eine schriftliche Bestätigung der zuständigen ausländischen Stelle mit allen erforderlichen Angaben beizulegen. Die betreffende Person kann die Befreiung oder einen Verzicht auf die Befreiung ohne besonderen Grund nicht widerrufen.[^2-19]
+
+<sup>8</sup> Auf Gesuch hin von der Versicherungspflicht ausgenommen sind Personen, für welche eine Unterstellung unter die schweizerische Versicherung eine klare Verschlechterung des bisherigen Versicherungsschutzes oder der bisherigen Kostendeckung zur Folge hätte und die sich auf Grund ihres Alters und/oder ihres Gesundheitszustandes nicht oder nur zu kaum tragbaren Bedingungen im bisherigen Umfang zusatzversichern könnten. Dem Gesuch ist eine schriftliche Bestätigung der zuständigen ausländischen Stelle mit allen erforderlichen Angaben beizulegen. Die betreffende Person kann die Befreiung oder einen Verzicht auf die Befreiung ohne besonderen Grund nicht widerrufen.[^2-20]
 
 [^2-1]: Fassung gemäss Ziff. I der V vom 11. Sept. 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3908](https://fedlex.data.admin.ch/eli/oc/2002/605)).
 [^2-2]: Siehe: nach Art. 1*a* Abs. 1 Bst. b Ziff. 1-6
 [^2-3]: [SR 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
-[^2-4]: Eingefügt durch Ziff. I der V vom 22. Mai 2002, in Kraft seit 1. Juni 2002 ([AS 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)).
+[^2-4]: Eingefügt durch Ziff. I der V vom 22. Mai 2002 ([AS 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)). Fassung gemäss Ziff. I 1 der V vom 26. Okt. 2022 über die Änderung von Verordnungen im Bereich der Krankenversicherung zur Umsetzung des Abkommens zur Koordinierung der sozialen Sicherheit zwischen der Schweizerischen Eidgenossenschaft und dem Vereinigten Königreich von Grossbritannien und Nordirland, in Kraft seit 1. Jan. 2023 ([AS 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
 [^2-5]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
 [^2-6]: [SR 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
 [^2-7]: Eingefügt durch Ziff. I der V vom 22. Mai 2002, in Kraft seit 1. Juni 2002 ([AS 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)).
-[^2-8]: Eingefügt durch Ziff. I der V vom 22. Mai 2002 ([AS 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)). Fassung gemäss Ziff. I der V vom 2. Nov. 2011, in Kraft seit 1. April 2012 ([AS 2012 955](https://fedlex.data.admin.ch/eli/oc/2012/162)).
-[^2-9]: Eingefügt durch Ziff. I der V vom 22. Mai 2002 ([AS 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)). Fassung gemäss Ziff. I der V vom 6. Juni 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445)).
-[^2-10]: Eingefügt durch Ziff. I der V vom 6. Juni 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445)).
-[^2-11]: Fassung gemäss Ziff. I der V vom 22. Mai 2002, in Kraft seit 1. Juni 2002 ([AS 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)).
-[^2-12]: Aufgehoben durch Ziff. I der V vom 22. Mai 2002, mit Wirkung seit 1. Juni 2002 ([AS 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)).
-[^2-13]: Fassung gemäss Ziff. I der V vom 6. Juni 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445)).
-[^2-14]: Eingefügt durch Ziff. I der V vom 25. Nov. 1996 ([AS 1996 3139](https://fedlex.data.admin.ch/eli/oc/1996/3139_3139_3139)). Fassung gemäss Ziff. I der V vom 3. Juli 2001, in Kraft seit 1. Juni 2002 ([AS 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)).
-[^2-15]: Eingefügt durch Ziff. I der V vom 3. Juli 2001 ([AS 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)). Aufgehoben durch Ziff. I der V vom 29. Nov. 2013, mit Wirkung seit 1. Jan. 2014 ([AS 2013 4523](https://fedlex.data.admin.ch/eli/oc/2013/800)). Siehe auch die UeB dieser Änd. am Ende des Textes.
-[^2-16]: Eingefügt durch Ziff. I der V vom 25. Nov. 1996, in Kraft seit 1. Jan. 1997 ([AS 1996 3139](https://fedlex.data.admin.ch/eli/oc/1996/3139_3139_3139)).
-[^2-17]: Eingefügt durch Ziff. I der V vom 3. Juli 2001 ([AS 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)). Fassung gemäss Ziff. I der V vom 2. Nov. 2011, in Kraft seit 1. April 2012 ([AS 2012 955](https://fedlex.data.admin.ch/eli/oc/2012/162)).
-[^2-18]: Eingefügt durch Ziff. I der V vom 3. Juli 2001 ([AS 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)). Fassung gemäss Ziff. I der V vom 22. Mai 2002, in Kraft seit 1. Juni 2002 ([AS 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)).
-[^2-19]: Eingefügt durch Ziff. I der V vom 3. Juli 2001, in Kraft seit 1. Juni 2002 ([AS 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)).
+[^2-8]: Eingefügt durch Ziff. I der V vom 22. Mai 2002 ([AS 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)). Fassung gemäss Ziff. I 1 der V vom 26. Okt. 2022 über die Änderung von Verordnungen im Bereich der Krankenversicherung zur Umsetzung des Abkommens zur Koordinierung der sozialen Sicherheit zwischen der Schweizerischen Eidgenossenschaft und dem Vereinigten Königreich von Grossbritannien und Nordirland, in Kraft seit 1. Jan. 2023 ([AS 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
+[^2-9]: [SR 0.831.109.367.2](https://fedlex.data.admin.ch/eli/cc/2021/818)
+[^2-10]: Eingefügt durch Ziff. I der V vom 22. Mai 2002 ([AS 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)). Fassung gemäss Ziff. I der V vom 6. Juni 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445)).
+[^2-11]: Eingefügt durch Ziff. I der V vom 6. Juni 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445)).
+[^2-12]: Fassung gemäss Ziff. I der V vom 22. Mai 2002, in Kraft seit 1. Juni 2002 ([AS 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)).
+[^2-13]: Aufgehoben durch Ziff. I der V vom 22. Mai 2002, mit Wirkung seit 1. Juni 2002 ([AS 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)).
+[^2-14]: Fassung gemäss Ziff. I der V vom 6. Juni 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445)).
+[^2-15]: Eingefügt durch Ziff. I der V vom 25. Nov. 1996 ([AS 1996 3139](https://fedlex.data.admin.ch/eli/oc/1996/3139_3139_3139)). Fassung gemäss Ziff. I der V vom 3. Juli 2001, in Kraft seit 1. Juni 2002 ([AS 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)).
+[^2-16]: Eingefügt durch Ziff. I der V vom 3. Juli 2001 ([AS 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)). Aufgehoben durch Ziff. I der V vom 29. Nov. 2013, mit Wirkung seit 1. Jan. 2014 ([AS 2013 4523](https://fedlex.data.admin.ch/eli/oc/2013/800)). Siehe auch die UeB dieser Änd. am Ende des Textes.
+[^2-17]: Eingefügt durch Ziff. I der V vom 25. Nov. 1996, in Kraft seit 1. Jan. 1997 ([AS 1996 3139](https://fedlex.data.admin.ch/eli/oc/1996/3139_3139_3139)).
+[^2-18]: Eingefügt durch Ziff. I der V vom 3. Juli 2001 ([AS 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)). Fassung gemäss Ziff. I der V vom 2. Nov. 2011, in Kraft seit 1. April 2012 ([AS 2012 955](https://fedlex.data.admin.ch/eli/oc/2012/162)).
+[^2-19]: Eingefügt durch Ziff. I der V vom 3. Juli 2001 ([AS 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)). Fassung gemäss Ziff. I der V vom 22. Mai 2002, in Kraft seit 1. Juni 2002 ([AS 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)).
+[^2-20]: Eingefügt durch Ziff. I der V vom 3. Juli 2001, in Kraft seit 1. Juni 2002 ([AS 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)).
 
 #### Art. 3
 
 **Grenzgänger und Grenzgängerinnen**
 
-<sup>1</sup> Nicht der Versicherungspflicht nach Artikel 1 Absatz 2 Buchstaben d und e unterstellte Grenzgänger und Grenzgängerinnen, die in der Schweiz eine Erwerbstätigkeit ausüben, sowie ihre Familienangehörigen, sofern diese im Ausland nicht eine krankenversicherungspflichtige Erwerbstätigkeit ausüben, werden auf eigenes Gesuch hin der schweizerischen Versicherung unterstellt.[^3-1]
+<sup>1</sup> Nicht der Versicherungspflicht nach Artikel 1 Absatz 2 Buchstaben d–e<sup>bis</sup> unterstellte Grenzgänger und Grenzgängerinnen, die in der Schweiz eine Erwerbstätigkeit ausüben, sowie ihre Familienangehörigen, sofern diese im Ausland nicht eine krankenversicherungspflichtige Erwerbstätigkeit ausüben, werden auf eigenes Gesuch hin der schweizerischen Versicherung unterstellt.[^3-1]
 
 <sup>2</sup> Als Familienangehörige gelten Ehegatten sowie Kinder bis zum vollendeten 18. Altersjahr und Kinder, die das 25. Altersjahr noch nicht vollendet haben und in Ausbildung begriffen sind.
 
-[^3-1]: Fassung gemäss Ziff. I der V vom 22. Mai 2002, in Kraft seit 1. Juni 2002 ([AS 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)).
+[^3-1]: Fassung gemäss Ziff. I 1 der V vom 26. Okt. 2022 über die Änderung von Verordnungen im Bereich der Krankenversicherung zur Umsetzung des Abkommens zur Koordinierung der sozialen Sicherheit zwischen der Schweizerischen Eidgenossenschaft und dem Vereinigten Königreich von Grossbritannien und Nordirland, in Kraft seit 1. Jan. 2023 ([AS 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
 
 #### Art. 4
 
@@ -219,9 +229,7 @@ Folgende Personen und die sie begleitenden Familienangehörigen im Sinne von Art
 
 <sup>7</sup> Aktive und pensionierte Bundesbedienstete nach Artikel 2 Absatz 1 Buchstabe a, die aus der Militärversicherung ausscheiden, müssen sich innert drei Monaten nach Ausscheiden aus der Militärversicherung bei einem Versicherer nach Artikel 11[^7-10] des Gesetzes für Krankenpflege versichern. Bei rechtzeitigem Versicherungsbeitritt beginnt die Versicherung im Zeitpunkt des Ausscheidens aus der Militärversicherung.
 
-<sup>8</sup> Versicherungspflichtige Personen nach Artikel 1 Absatz 2 Buchstaben d und e sind verpflichtet, sich innert drei Monaten nach Entstehung der Versicherungspflicht in der Schweiz zu versichern. Versichern sie sich innert dieser Frist, so beginnt die Versicherung im Zeitpunkt der Unterstellung unter die schweizerische Versicherung.
-
-Versichern sie sich später, beginnt die Versicherung im Zeitpunkt des Beitritts. Die Versicherung endet, wenn diese Personen die Voraussetzungen für eine Unterstellung unter die schweizerische Versicherung nach dem Freizügigkeitsabkommen[^7-11] sowie seinem Anhang II oder dem EFTA-Abkommen[^7-12], seinem Anhang K und Anlage 2 zu Anhang K nicht mehr erfüllen.[^7-13]
+<sup>8</sup> Versicherungspflichtige Personen nach Artikel 1 Absatz 2 Buchstaben d–e<sup>bis</sup> sind verpflichtet, sich innert drei Monaten nach Entstehung der Versicherungspflicht in der Schweiz zu versichern. Versichern sie sich innert dieser Frist, so beginnt die Versicherung im Zeitpunkt der Unterstellung unter die schweizerische Versicherung. Versichern sie sich später, so beginnt die Versicherung im Zeitpunkt des Beitritts. Die Versicherung endet, wenn diese Personen die Voraussetzungen für eine Unterstellung unter die schweizerische Versicherung nach dem Freizügigkeitsabkommen[^7-11] und dessen Anhang II, nach dem EFTA-Abkommen[^7-12] und dessen Anhang K und dessen Anlage 2 zu Anhang K oder nach anderen internationalen Abkommen nicht mehr erfüllen.[^7-13]
 
 [^7-1]: Fassung gemäss Ziff. I der V vom 26. April 2006, in Kraft seit 10. Mai 2006 ([AS 2006 1717](https://fedlex.data.admin.ch/eli/oc/2006/269)).
 [^7-2]: Fassung gemäss Ziff. I der V vom 22. Mai 2002, in Kraft seit 1. Juni 2002 ([AS 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)).
@@ -235,7 +243,7 @@ Versichern sie sich später, beginnt die Versicherung im Zeitpunkt des Beitritts
 [^7-10]: Siehe seit dem 1. Jan. 2016: Art. 2 und 3 des Krankenversicherungsaufsichtsgesetzes vom 26. Sept. 2014 ([SR 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)).
 [^7-11]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
 [^7-12]: [SR 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
-[^7-13]: Eingefügt durch Ziff. I der V vom 3. Juli 2001 ([AS 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)). Fassung gemäss Ziff. I der V vom 22. Mai 2002, in Kraft seit 1. Juni 2002 ([AS 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)).
+[^7-13]: Eingefügt durch Ziff. I der V vom 3. Juli 2001 ([AS 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)). Fassung gemäss Ziff. I 1 der V vom 26. Okt. 2022 über die Änderung von Verordnungen im Bereich der Krankenversicherung zur Umsetzung des Abkommens zur Koordinierung der sozialen Sicherheit zwischen der Schweizerischen Eidgenossenschaft und dem Vereinigten Königreich von Grossbritannien und Nordirland, in Kraft seit 1. Jan. 2023 ([AS 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
 
 #### Art. 7a
 
@@ -285,15 +293,16 @@ Die Versicherer informieren die Versicherten nach Artikel 6*a* Absatz 1 des Gese
 
 <sup>1</sup> Die Kantone informieren periodisch die Bevölkerung über die Versicherungspflicht. Sie achten insbesondere darauf, dass Personen, die aus dem Ausland zuziehen, sowie Eltern von Neugeborenen rechtzeitig informiert werden.
 
-<sup>1bis</sup> Mit der Information über die Versicherungspflicht von Kurzaufenthaltern und -aufenthalterinnen, von Aufenthaltern und Aufenthalterinnen sowie von Niedergelassenen gelten auch deren Familienangehörige als informiert, die in einem Mitgliedstaat der Europäischen Union, in Island oder Norwegen wohnen.[^10-1]
+<sup>1bis</sup> Mit der Information über die Versicherungspflicht von Kurzaufenthaltern und -aufenthalterinnen, von Aufenthaltern und Aufenthalterinnen sowie von Niedergelassenen gelten auch deren Familienangehörige als informiert, die in einem Mitgliedstaat der Europäischen Union, in Island, in Norwegen oder im Vereinigten Königreich[^10-1] wohnen.[^10-2]
 
-<sup>2</sup> Die zuständige kantonale Behörde entscheidet über die in den Artikeln 2 Absätze 2–5 und 6 Absatz 3 vorgesehenen Gesuche.[^10-2]
+<sup>2</sup> Die zuständige kantonale Behörde entscheidet über die in den Artikeln 2 Absätze 2–5 und 6 Absatz 3 vorgesehenen Gesuche.[^10-3]
 
-<sup>3</sup> Die rentenauszahlenden Sozialversicherer und die Organe der Arbeitslosenversicherung unterstützen die Kantone bei der Information über die Versicherungspflicht von Personen nach Artikel 6*a* Absatz 1 Buchstaben b und c des Gesetzes.[^10-3]
+<sup>3</sup> Die rentenauszahlenden Sozialversicherer und die Organe der Arbeitslosenversicherung unterstützen die Kantone bei der Information über die Versicherungspflicht von Personen nach Artikel 6*a* Absatz 1 Buchstaben b und c des Gesetzes.[^10-4]
 
-[^10-1]: Eingefügt durch Ziff. I der V vom 3. Juli 2001 ([AS 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)). Fassung gemäss Ziff. I der V vom 2. Nov. 2011, in Kraft seit 1. April 2012 ([AS 2012 955](https://fedlex.data.admin.ch/eli/oc/2012/162)).
-[^10-2]: Fassung gemäss Ziff. I der V vom 25. Nov. 1996, in Kraft seit 1. Jan. 1997 ([AS 1996 3139](https://fedlex.data.admin.ch/eli/oc/1996/3139_3139_3139)).
-[^10-3]: Eingefügt durch Ziff. I der V vom 3. Juli 2001, in Kraft seit 1. Juni 2002 ([AS 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)).
+[^10-1]: Ausdruck gemäss Ziff. I 1 der V vom 26. Okt. 2022 über die Änderung von Verordnungen im Bereich der Krankenversicherung zur Umsetzung des Abkommens zur Koordinierung der sozialen Sicherheit zwischen der Schweizerischen Eidgenossenschaft und dem Vereinigten Königreich von Grossbritannien und Nordirland, in Kraft seit 1. Jan. 2023 ([AS 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+[^10-2]: Eingefügt durch Ziff. I der V vom 3. Juli 2001 ([AS 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)). Fassung gemäss Ziff. I der V vom 2. Nov. 2011, in Kraft seit 1. April 2012 ([AS 2012 955](https://fedlex.data.admin.ch/eli/oc/2012/162)).
+[^10-3]: Fassung gemäss Ziff. I der V vom 25. Nov. 1996, in Kraft seit 1. Jan. 1997 ([AS 1996 3139](https://fedlex.data.admin.ch/eli/oc/1996/3139_3139_3139)).
+[^10-4]: Eingefügt durch Ziff. I der V vom 3. Juli 2001, in Kraft seit 1. Juni 2002 ([AS 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)).
 
 ### 2. Kapitel: Sistierung der Versicherungspflicht und der Unfalldeckung
 
@@ -366,19 +375,21 @@ Die Versicherer informieren die Versicherten nach Artikel 6*a* Absatz 1 des Gese
 
 <sup>2</sup>
 
-Die gemeinsame Einrichtung übernimmt überdies Koordinationsaufgaben zur Erfüllung der sich aus Artikel 95*a* des Gesetzes ergebenden Verpflichtungen. Namentlich erfüllt sie folgende Aufgaben:
+Die gemeinsame Einrichtung übernimmt überdies Koordinationsaufgaben zur Erfüllung der sich aus Artikel 95*a* des Gesetzes oder internationaler Vereinbarungen ergebenden Verpflichtungen. Namentlich erfüllt sie folgende Aufgaben:[^19-3]
 
-- a. Sie ermittelt aufgrund der anerkannten Kostenstatistiken des zuständigen Organs der Europäischen Union (Verwaltungskommission für die Koordinierung der Systeme der sozialen Sicherheit) oder der Statistiken des betreffenden Staates die Ansätze je Person, die die Versicherer der Prämienberechnung für die in einem Mitgliedstaat der Europäischen Union, in Island oder Norwegen wohnhaften Versicherten zu Grunde zu legen haben.
-- b. Sie erstellt bis zum 31. Mai einen Bericht zu Handen des BAG über die durchgeführte Leistungsaushilfe unter Angabe der Zahl der Fälle, der Gesamtkosten und der ausstehenden Rückzahlungen; die Daten sind nach den Mitgliedstaaten der Europäischen Union, nach Island und Norwegen und nach den schweizerischen Versicherern zu differenzieren.[^19-3]
+- a. Sie ermittelt aufgrund der anerkannten Kostenstatistiken des zuständigen Organs der Europäischen Union (Verwaltungskommission für die Koordinierung der Systeme der sozialen Sicherheit) oder der Statistiken des betreffenden Staates die Ansätze je Person, die die Versicherer der Prämienberechnung für die in einem Mitgliedstaat der Europäischen Union, in Island, in Norwegen oder im Vereinigten Königreich wohnhaften Versicherten zu Grunde zu legen haben.
+- b.[^19-4] Sie erstellt bis zum 31. Mai einen Bericht zu Handen des BAG über die durchgeführte Leistungsaushilfe unter Angabe der Zahl der Fälle, der Gesamtkosten und der ausstehenden Rückzahlungen; die Daten sind nach den Mitgliedstaaten der Europäischen Union, nach Island, nach Norwegen, nach dem Vereinigten Königreich und nach den schweizerischen Versicherern zu differenzieren.[^19-5]
 
-<sup>3</sup> Die Versicherer tragen proportional zur Anzahl der bei ihnen obligatorisch für Krankenpflege versicherten Personen die Kosten der Aufgaben, welche die gemeinsame Einrichtung als aushelfender Träger erfüllt, sowie die Kosten der Berichterstattung gemäss Absatz 2 Buchstabe b. Der Bund trägt die durch die Vorfinanzierung der Leistungsaushilfe entstehenden Zinskosten, die Kosten der Aufgaben, welche die gemeinsame Einrichtung als Verbindungsstelle erfüllt, sowie die Kosten für die Ermittlungen gemäss Absatz 2 Buchstabe a.[^19-4]
+<sup>3</sup> Die Versicherer tragen proportional zur Anzahl der bei ihnen obligatorisch für Krankenpflege versicherten Personen die Kosten der Aufgaben, welche die gemeinsame Einrichtung als aushelfender Träger erfüllt, sowie die Kosten der Berichterstattung gemäss Absatz 2 Buchstabe b. Der Bund trägt die durch die Vorfinanzierung der Leistungsaushilfe entstehenden Zinskosten, die Kosten der Aufgaben, welche die gemeinsame Einrichtung als Verbindungsstelle erfüllt, sowie die Kosten für die Ermittlungen gemäss Absatz 2 Buchstabe a.[^19-6]
 
 <sup>4</sup> Haben Versicherer und Leistungserbringer gemäss Artikel 42 Absatz 2 des Gesetzes vertraglich vereinbart, dass der Versicherer die Vergütung schuldet, so wird die gemeinsame Einrichtung bei der Durchführung der Leistungsaushilfe den vertragsschliessenden Versicherern gleichgestellt.
 
 [^19-1]: Fassung gemäss Ziff. I der V vom 3. Juli 2001, in Kraft seit 1. Juni 2002 ([AS 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)).
 [^19-2]: Fassung gemäss Ziff. I der V vom 6. Juni 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445)).
-[^19-3]: Fassung gemäss Ziff. I der V vom 2. Nov. 2011, in Kraft seit 1. April 2012 ([AS 2012 955](https://fedlex.data.admin.ch/eli/oc/2012/162)).
-[^19-4]: Fassung gemäss Ziff. I der V vom 2. Nov. 2011, in Kraft seit 1. April 2012 ([AS 2012 955](https://fedlex.data.admin.ch/eli/oc/2012/162)).
+[^19-3]: Fassung gemäss Ziff. I 1 der V vom 26. Okt. 2022 über die Änderung von Verordnungen im Bereich der Krankenversicherung zur Umsetzung des Abkommens zur Koordinierung der sozialen Sicherheit zwischen der Schweizerischen Eidgenossenschaft und dem Vereinigten Königreich von Grossbritannien und Nordirland, in Kraft seit 1. Jan. 2023 ([AS 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
+[^19-4]: Fassung gemäss Ziff. I 1 der V vom 26. Okt. 2022 über die Änderung von Verordnungen im Bereich der Krankenversicherung zur Umsetzung des Abkommens zur Koordinierung der sozialen Sicherheit zwischen der Schweizerischen Eidgenossenschaft und dem Vereinigten Königreich von Grossbritannien und Nordirland, in Kraft seit 1. Jan. 2023 ([AS 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
+[^19-5]: Fassung gemäss Ziff. I der V vom 2. Nov. 2011, in Kraft seit 1. April 2012 ([AS 2012 955](https://fedlex.data.admin.ch/eli/oc/2012/162)).
+[^19-6]: Fassung gemäss Ziff. I der V vom 2. Nov. 2011, in Kraft seit 1. April 2012 ([AS 2012 955](https://fedlex.data.admin.ch/eli/oc/2012/162)).
 
 #### Art. 19a
 
@@ -471,7 +482,11 @@ Die gemeinsame Einrichtung entscheidet bei Streitigkeiten zwischen ihr und einem
 
 [^27-1]: Fassung gemäss Ziff. II 95 der V vom 8. Nov. 2006 über die Anpassung von Bundesratsverordnungen an die Totalrevision der Bundesrechtspflege, in Kraft seit 1. Jan. 2007 ([AS 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
 
-### 3. Abschnitt: Aufsichtsdaten
+### 3. Abschnitt: Daten
+
+[^part1-tit2-chap5-sec3-1]
+
+[^part1-tit2-chap5-sec3-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 814](https://fedlex.data.admin.ch/eli/oc/2022/814)).
 
 #### Art. 28
 
@@ -479,47 +494,62 @@ Die gemeinsame Einrichtung entscheidet bei Streitigkeiten zwischen ihr und einem
 
 <sup>1</sup>
 
-Die Daten, die von den Versicherern nach Artikel 35 Absatz 2 KVAG[^28-2] weitergegeben werden müssen, dienen dazu:[^28-3]
+Die Versicherer müssen dem BAG zur Erfüllung der Aufgaben nach Artikel 21 Absatz 2 Buchstaben a–c KVG regelmässig pro versicherte Person folgende Daten weitergeben:
 
-- a.[^28-4] die einheitliche Anwendung des Gesetzes und des KVAG zu überwachen;
-- b. die Kostenentwicklung zu verfolgen;
-- c. die Wirtschaftlichkeit der erbrachten Leistungen zu kontrollieren (statistische Kontrolle der Kosten nach Geschlecht, Alter, Wohnort, Leistungserbringer);
-- d. die Gleichbehandlung der Versicherten sicherzustellen;
-- e. sicherzustellen, dass die Prämienunterschiede den kantonalen und regionalen Kostenunterschieden entsprechen und die Mittel der Sozialversicherung ausschliesslich zu deren Zwecken eingesetzt werden;
-- f. die Entscheidungsgrundlagen für die Durchführung von gesetzlich vorgesehenen ordentlichen oder ausserordentlichen Massnahmen zur Eindämmung der Kostenentwicklung vorzubereiten;
-- g.[^28-5] die Wirkungen des Gesetzes und des KVAG zu verfolgen und Entscheidungsgrundlagen für allfällig notwendige Gesetzes- und Gesetzesvollzugsänderungen bereitzustellen.
+- a.
 
-<sup>2</sup> Das BAG sorgt dafür, dass den Krankenversicherern durch die Bereitstellung der Daten möglichst wenig Aufwand entsteht. Es kann die Daten zur Aufwandverminderung mit anderen Datenquellen verknüpfen, wenn es die Daten vorher anonymisiert. Es stellt die Resultate der Erhebungen den am Vollzug des KVAG und des Gesetzes beteiligten Stellen zur Verfügung.[^28-6]
+  soziodemografische Angaben:
 
-<sup>3</sup>
+  - 1\. Verbindungscode,
+  - 2\. Alter, Geschlecht und Wohnort,
+  - 3\. Risikogruppe nach Artikel 11 der Verordnung vom 19. Oktober 2016[^28-2] über den Risikoausgleich (VORA) und Einteilung der versicherten Person in eine pharmazeutische Kostengruppe nach Artikel 12 VORA;
 
-Die Versicherer müssen dem BAG jährlich pro versicherte Person namentlich folgende Daten weitergeben:
+- b.
 
-- a. Alter, Geschlecht und Wohnort der Versicherten;
-- b. ihren Ein- und Austritt sowie die Todesfälle;
-- c. die von den Versicherten im Rahmen der sozialen Krankenversicherung abgeschlossenen Versicherungsarten mit Angabe der Höhe der Prämie und der Franchise;
-- d. Umfang, Art, Tarifpositionen und Kosten der im Laufe eines ganzen Jahres erhaltenen Rechnungen für Leistungen nach dem Gesetz;
-- e. die jeweiligen Erbringer der Leistungen;
-- f. die Höhe der erhobenen Kostenbeteiligung.
+  Angaben zur Versicherungsdeckung:
 
-<sup>3bis</sup> …[^28-7]
+  - 1\. Beginn und Ende der Deckungsperiode,
+  - 2\. Prämieneigenschaften, wie örtlicher Tätigkeitsbereich des Versicherers, Prämienregion, Kategorie der besonderen Versicherungsformen nach den Artikeln 93–101, Versicherungsform, Modellbezeichnung und dessen Abkürzung, Zugehörigkeit der versicherten Person zu einem Haushalt mit mehreren Kindern oder jungen Erwachsenen, Prämienstufe in der Bonusversicherung, Höhe der Franchise und Unfalldeckung,
+  - 3\. Höhe der Prämie, mit und ohne Beitrag des Kantons, Prämienzuschlag nach Artikel 8, Prämienermässigungen und andere Abschläge,
+  - 4\. Angabe, ob die Versicherungsdeckung nach Artikel 3 Absatz 4 KVG sistiert ist oder nicht,
+  - 5\. Angabe, ob die versicherte Person dem Risikoausgleich unterstellt ist oder nicht,
+  - 6\. Mutationsgründe bezogen auf die Versicherungsdeckung, wie Eintritt und Austritt, Geburt, Tod, Versichererwechsel und interner Wechsel,
+  - 7\. Gesamtkosten der vergüteten Leistungen und Kostenbeteiligung,
+  - 8\. für Versicherte mit einem Austritt in einem der Vorjahre: Austrittsdatum;
 
-<sup>4</sup> Sie müssen dem BAG die Daten nach Absatz 3 auf elektronischen Datenträgern zur Verfügung stellen. Das BAG kann sie davon auf Gesuch hin für eine befristete Zeit befreien, wenn ihnen die Lieferung mangels technischer Voraussetzungen nicht möglich ist.
+- c.
 
-<sup>5</sup> Die Versicherer haben die Daten nach Absatz 3 korrekt, vollständig, fristgerecht und auf eigene Kosten zu liefern. Das BAG ist dafür verantwortlich, dass im Rahmen der Datenverwendung und der Datenverknüpfung die Anonymität der Versicherten gewahrt ist.[^28-8]
+  Angaben der Abrechnungsbelege zu den Deckungsperioden nach Buchstabe b:
 
-<sup>6</sup> Sie müssen dem BAG auf eigene Kosten jährlich die vollständigen Angaben des Zahlstellenregisters übermitteln.
+  - 1\. Belegnummer in pseudonymisierter Form,
+  - 2\. Datum der Abrechnung,
+  - 3\. Beginn und Ende der Behandlung,
+  - 4\. Gesamtkosten der vergüteten Leistungen und Kostenbeteiligung,
+  - 5\. Angaben zum Leistungserbringer, wie Zahlstellenregisternummer oder Identifikationsnummer (Global Location Number, GLN),
+  - 6\. Leistungsbereich, wie Krankheit, Prävention, Geburtsgebrechen, Unfall und Mutterschaft,
+  - 7\. Art der Leistung, wie Behandlungsart, Tariftyp und Kostenart,
+  - 8\. Höhe des in Rechnung gestellten Betrags, des vergüteten Betrags, des Franchisenanteils und des Selbstbehalts,
+  - 9\. bei stationären Leistungen: Beitrag an die Kosten des Spitalaufenthalts und Aufenthaltsdauer,
+  - 10\. bei ambulanten Leistungen: Anzahl Konsultationen.
 
-<sup>7</sup> Das BAG erlässt nach Anhören der Versicherer Weisungen zu den nach den Absätzen 1–6 zu treffenden Vorkehren.
+<sup>2</sup> Sie müssen dem BAG alle Daten, die sie aggregiert oder pro versicherte Person weitergeben müssen, elektronisch zur Verfügung stellen. Das BAG kann sie bei Erhebungsanpassungen auf Gesuch hin davon für eine befristete Zeit befreien, wenn ihnen die Lieferung aufgrund fehlender technischer Voraussetzungen nicht möglich ist.
 
-[^28-1]: Fassung gemäss Ziff. I der V vom 22. Okt. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 5097](https://fedlex.data.admin.ch/eli/oc/2008/708)).
-[^28-2]: [SR 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
-[^28-3]: Fassung gemäss Art. 31 der V vom 19. Okt. 2016 über den Risikoausgleich in der Krankenversicherung, in Kraft seit 1. Jan. 2020 ([AS 2016 4059](https://fedlex.data.admin.ch/eli/oc/2016/674)).
-[^28-4]: Fassung gemäss Anhang Ziff. 3 der Krankenversicherungsaufsichtsverordnung vom 18. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)).
-[^28-5]: Fassung gemäss Anhang Ziff. 3 der Krankenversicherungsaufsichtsverordnung vom 18. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)).
-[^28-6]: Fassung gemäss Anhang Ziff. 3 der Krankenversicherungsaufsichtsverordnung vom 18. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)).
-[^28-7]: Eingefügt durch Ziff. I der V vom 1. Febr. 2017, in Kraft vom 1. März 2017 bis zum 31. Dez. 2020 ([AS 2017 623](https://fedlex.data.admin.ch/eli/oc/2017/106), [2019 4771](https://fedlex.data.admin.ch/eli/oc/2019/786)).
-[^28-8]: Fassung gemäss Ziff. I der V vom 29. Juni 2016, in Kraft seit 1. Aug. 2016 ([AS 2016 2689](https://fedlex.data.admin.ch/eli/oc/2016/429)).
+<sup>3</sup> Die Versicherer müssen dem BAG die Daten nach Absatz 2 korrekt, vollständig, fristgerecht und auf eigene Kosten liefern.
+
+<sup>4</sup> Sie müssen dem BAG auf eigene Kosten regelmässig die vollständigen Angaben des Zahlstellenregisters weitergeben.
+
+<sup>5</sup> Das BAG sorgt dafür, dass den Versicherern durch die Bereitstellung der Daten möglichst wenig Aufwand entsteht.
+
+<sup>6</sup> Zur Aufwandminderung kann das BAG die Daten nach Absatz 1 mit anderen Datenquellen verknüpfen, sofern dies zur Erfüllung seiner Aufgaben nach Artikel 21 Absatz <sup>2</sup> Buchstaben a–c KVG erforderlich ist. Zur Erfüllung weiterer Aufgaben darf es die Daten nach Absatz 1 nur mit anderen Datenquellen verknüpfen, wenn die Daten anonymisiert wurden.
+
+<sup>7</sup> Das BAG erlässt nach Anhören der Versicherer Weisungen zu den nach den Absätzen 1–4 zu treffenden Vorkehren.
+
+<sup>8</sup> Die Datenverwendung im Sinne von Artikel 21 Absatz 3 KVG umfasst jede Form der Datenbearbeitung im Sinne des Datenschutzrechts des Bundes, einschliesslich der Datenbekanntgabe.
+
+<sup>9</sup> Das BAG stellt die Resultate der mit den Daten nach Absatz 2 durchgeführten Erhebungen den am Vollzug des KVG beteiligten Stellen zur Verfügung. Es stellt sicher, dass die Anonymität der Versicherten gewährleistet bleibt.
+
+[^28-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 814](https://fedlex.data.admin.ch/eli/oc/2022/814)).
+[^28-2]: [SR 832.112.1](https://fedlex.data.admin.ch/eli/cc/2016/674)
 
 #### Art. 28a
 
@@ -531,11 +561,18 @@ Die Versicherer müssen dem BAG jährlich pro versicherte Person namentlich folg
 
 **Veröffentlichung der Daten der Versicherer**[^28b-1]
 
-<sup>1</sup> Das BAG veröffentlicht die Daten nach Artikel 28 so, dass namentlich Angaben über die Versicherungsform, die Versicherungsleistungen und die Kosten, gesondert nach Alter, Geschlecht und Region sowie nach Kategorien von Leistungserbringern, Betrieben und Pflegeleistungen, ersichtlich sind.
+<sup>1</sup> Das BAG veröffentlicht die Daten nach Artikel 28 unter Wahrung der Anonymität der Versicherten und stellt diese auf einem Portal des Bundes zur Datenveröffentlichung elektronisch zur Verfügung.
 
 <sup>2</sup>
 
-Das BAG veröffentlicht je Versicherer folgende Kennzahlen der sozialen Krankenversicherung:
+Es sorgt dafür:
+
+- a. dass namentlich Angaben über die Versicherungsform, die Versicherungsleistungen und die Kosten, gesondert nach Alter, Geschlecht und Region sowie nach Kategorien von Leistungserbringern, Betrieben und Pflegeleistungen, ersichtlich sind;
+- b. dass Daten pro versicherte Person keinen Rückschluss auf die Versicherer ermöglichen.
+
+<sup>3</sup>
+
+Das BAG veröffentlicht je Versicherer namentlich folgende Kennzahlen der sozialen Krankenversicherung:
 
 - a. Einnahmen und Ausgaben;
 - b. Ergebnis je versicherte Person;
@@ -548,7 +585,26 @@ Das BAG veröffentlicht je Versicherer folgende Kennzahlen der sozialen Krankenv
 - i. Prämien;
 - j. Bilanz und Betriebsrechnung.
 
-[^28b-1]: Eingefügt durch Ziff. I der V vom 22. Okt. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 5097](https://fedlex.data.admin.ch/eli/oc/2008/708)).
+[^28b-1]: Eingefügt durch Ziff. I der V vom 22. Okt. 2008 ([AS 2008 5097](https://fedlex.data.admin.ch/eli/oc/2008/708)). Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 814](https://fedlex.data.admin.ch/eli/oc/2022/814)).
+
+#### Art. 28c
+
+**Gesuch für besondere Nutzung**[^28c-1]
+
+<sup>1</sup> Wer für eine besondere Nutzung zusätzlich zu den nach Artikel 28*b* veröffentlichten Daten weitere Daten benötigt oder die Daten in einer anderen Form benötigt, kann ein Gesuch beim BAG stellen.
+
+<sup>2</sup> Das BAG prüft das Gesuch unter Berücksichtigung des Datenschutzrechts. Es führt eine individuelle und materielle Einzelfallprüfung durch und bestimmt insbesondere unter dem Gesichtspunkt des Re-Identifikationsrisikos der versicherten Person, ob Daten weitergegeben werden dürfen. Sofern dies zutrifft, prüft es, welche Daten in welchem Detaillierungsgrad, pro versicherte Person oder aggregiert weitergegeben werden dürfen. Es stellt sicher, dass das Amtsgeheimnis gewahrt bleibt und kann die Weitergabe der Daten vom Abschluss eines Datenschutzvertrags abhängig machen.
+
+<sup>3</sup> Es kann nach einer individuellen und materiellen Einzelfallprüfung Daten, die nach Artikel 28 Absatz 1 erhoben wurden, den am Vollzug des KVG beteiligten Stellen regelmässig zur Verfügung stellen, sofern es sicherstellt, dass die Anonymität der Versicherten gewährleistet bleibt und die Daten für die Erfüllung ihrer Aufgaben nach dem KVG erforderlich sind. Es kann die Weitergabe der Daten vom Abschluss eines Datenschutzvertrags abhängig machen.
+
+<sup>4</sup> Es veröffentlicht die Namen der Empfänger der Daten nach den Absätzen 2 und 3 regelmässig.
+
+<sup>5</sup> Es gibt die Daten nach Massgabe seiner technischen, organisatorischen und personellen Möglichkeiten weiter.
+
+<sup>6</sup> Es kann für die Bearbeitung des Gesuches eine Gebühr erheben. Diese wird nach Zeitaufwand bemessen, darf aber 10 000 Franken nicht überschreiten. Der Stundenansatz beträgt je nach erforderlicher Sachkenntnis und Funktionsstufe des ausführenden Personals 90–200 Franken. Im Übrigen gelten die Bestimmungen der Allgemeinen Gebührenverordnung vom 8. September 2004[^28c-2].
+
+[^28c-1]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 814](https://fedlex.data.admin.ch/eli/oc/2022/814)).
+[^28c-2]: [SR 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
 
 #### Art. 29
 
@@ -780,11 +836,11 @@ Bei der Beurteilung der Wirksamkeit, Zweckmässigkeit und Wirtschaftlichkeit kom
 
 <sup>3</sup> Die obligatorische Krankenpflegeversicherung übernimmt im Rahmen von Artikel 29 des Gesetzes die Kosten einer Entbindung, die im Ausland stattgefunden hat, weil nur so das Kind die Staatsangehörigkeit der Mutter oder des Vaters erwerben konnte oder weil das Kind, in der Schweiz geboren, staatenlos wäre.
 
-<sup>4</sup> Für Leistungen nach den Absätzen 1 und 2 und für die Behandlung im Ausland von Grenzgängern und Grenzgängerinnen, entsandten Arbeitnehmern und Arbeitnehmerinnen und Personen im öffentlichen Dienst sowie ihren Familienangehörigen (Art. 3–5) wird höchstens der doppelte Betrag der Kosten übernommen, die in der Schweiz vergütet würden, in den Fällen von Absatz 3 höchstens der einfache Betrag. Für Versicherte nach den Artikeln 4 und 5 richtet sich die Kostenübernahme nach den Tarifen und Preisen an ihrem letzten Wohnort in der Schweiz. Sofern die Behandlung für Versicherte nach Artikel 1 Absatz 2 Buchstaben d und e nicht nach den Regeln über die internationale Leistungsaushilfe erfolgt, richtet sich die Kostenübernahme nach den Tarifen und Preisen an ihrem letzten Wohn- oder Arbeitsort in der Schweiz; lässt sich keiner dieser Orte ermitteln, so richtet sich die Kostenübernahme nach den Tarifen und Preisen des Kantons, in dem der Versicherer seinen Sitz hat.[^36-1]
+<sup>4</sup> Für Leistungen nach den Absätzen 1 und 2 und für die Behandlung im Ausland von Grenzgängern und Grenzgängerinnen, entsandten Arbeitnehmern und Arbeitnehmerinnen und Personen im öffentlichen Dienst sowie ihren Familienangehörigen (Art. 3–5) wird höchstens der doppelte Betrag der Kosten übernommen, die in der Schweiz vergütet würden, in den Fällen von Absatz 3 höchstens der einfache Betrag. Für Versicherte nach den Artikeln 4 und 5 richtet sich die Kostenübernahme nach den Tarifen und Preisen an ihrem letzten Wohnort in der Schweiz. Sofern die Behandlung für Versicherte nach Artikel 1 Absatz 2 Buchstaben d–e<sup>bis</sup> nicht nach den Regeln über die internationale Leistungsaushilfe erfolgt, richtet sich die Kostenübernahme nach den Tarifen und Preisen an ihrem letzten Wohn- oder Arbeitsort in der Schweiz; lässt sich keiner dieser Orte ermitteln, so richtet sich die Kostenübernahme nach den Tarifen und Preisen des Kantons, in dem der Versicherer seinen Sitz hat.[^36-1]
 
 <sup>5</sup> Vorbehalten bleiben die Bestimmungen über die internationale Leistungsaushilfe.[^36-2]
 
-[^36-1]: Dritter Satz eingefügt durch Ziff. I der V vom 3. Juli 2001 ([AS 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)). Fassung gemäss Ziff. I der V vom 22. Mai 2002, in Kraft seit 1. Juni 2002 ([AS 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)).
+[^36-1]: Fassung gemäss Ziff. I 1 der V vom 26. Okt. 2022 über die Änderung von Verordnungen im Bereich der Krankenversicherung zur Umsetzung des Abkommens zur Koordinierung der sozialen Sicherheit zwischen der Schweizerischen Eidgenossenschaft und dem Vereinigten Königreich von Grossbritannien und Nordirland, in Kraft seit 1. Jan. 2023 ([AS 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
 [^36-2]: Eingefügt durch Ziff. I der V vom 3. Juli 2001, in Kraft seit 1. Juni 2002 ([AS 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)).
 
 #### Art. 36a
@@ -814,7 +870,7 @@ Das Programm muss folgende Anforderungen erfüllen:
 
 <sup>1</sup> Referenzkanton nach Artikel 41 Absatz 2<sup>ter</sup> KVG ist der Kanton Bern.
 
-<sup>2</sup> Bei Versicherten, die in einem Mitgliedstaat der Europäischen Union, in Island oder in Norwegen wohnen und die eine schweizerische Rente beziehen, sowie bei deren Familienangehörigen überweisen die Versicherer bei stationärer Behandlung in der Schweiz dem Spital ihren Anteil sowie als Vorleistung den gemäss Artikel 49*a* Absatz 3<sup>bis</sup> erster Satz KVG festgelegten kantonalen Anteil. Für die Rückerstattung der Vorleistung reichen die Versicherer ihre Forderungen an die Kantone bei der gemeinsamen Einrichtung ein.
+<sup>2</sup> Bei Versicherten, die in einem Mitgliedstaat der Europäischen Union, in Island, in Norwegen oder im Vereinigten Königreich wohnen und die eine schweizerische Rente beziehen, sowie bei deren Familienangehörigen überweisen die Versicherer bei stationärer Behandlung in der Schweiz dem Spital ihren Anteil sowie als Vorleistung den gemäss Artikel 49*a* Absatz 3<sup>bis</sup> erster Satz KVG festgelegten kantonalen Anteil. Für die Rückerstattung der Vorleistung reichen die Versicherer ihre Forderungen an die Kantone bei der gemeinsamen Einrichtung ein.
 
 [^36b-1]: Eingefügt durch Ziff. I der V vom 15. Nov. 2017, in Kraft seit 1. Jan. 2019 ([AS 2017 6723](https://fedlex.data.admin.ch/eli/oc/2017/749)).
 
@@ -822,9 +878,9 @@ Das Programm muss folgende Anforderungen erfüllen:
 
 **Kostenübernahme bei internationaler Leistungsaushilfe für im Ausland versicherte Personen**[^37-1]
 
-Bei Personen, die in einem Mitgliedstaat der Europäischen Union, in Island, in Liechtenstein oder in Norwegen wohnen und bei einem Aufenthalt in der Schweiz aufgrund von Artikel 95*a* KVG Anspruch auf internationale Leistungsaushilfe haben, übernimmt bei stationärer Behandlung in einem Listenspital in der Schweiz der ausländische Versicherer die Vergütungen, die nach Artikel 49 Absatz 1 KVG in Rechnung gestellt werden.
+Bei Personen, die in einem Mitgliedstaat der Europäischen Union, in Island, in Liechtenstein, in Norwegen oder im Vereinigten Königreich wohnen und bei einem Aufenthalt in der Schweiz aufgrund von Artikel 95*a* KVG oder internationaler Vereinbarungen Anspruch auf internationale Leistungsaushilfe haben, übernimmt bei stationärer Behandlung in einem Listenspital in der Schweiz der ausländische Versicherer die Vergütungen, die nach Artikel 49 Absatz 1 KVG in Rechnung gestellt werden.
 
-[^37-1]: Fassung gemäss Ziff. I der V vom 15. Nov. 2017, in Kraft seit 1. Jan. 2019 ([AS 2017 6723](https://fedlex.data.admin.ch/eli/oc/2017/749)).
+[^37-1]: Fassung gemäss Ziff. I 1 der V vom 26. Okt. 2022 über die Änderung von Verordnungen im Bereich der Krankenversicherung zur Umsetzung des Abkommens zur Koordinierung der sozialen Sicherheit zwischen der Schweizerischen Eidgenossenschaft und dem Vereinigten Königreich von Grossbritannien und Nordirland, in Kraft seit 1. Jan. 2023 ([AS 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
 
 ### 3. Kapitel: Kommissionen
 
@@ -1296,16 +1352,17 @@ Psychologische Psychotherapeuten und psychologische Psychotherapeutinnen werden 
 
   Sie haben eine klinische Erfahrung von drei Jahren, davon mindestens 12 Monate in psychotherapeutisch-psychiatrischen Einrichtungen, die über eine der folgenden Anerkennungen des Schweizerischen Instituts für ärztliche Weiter- und Fortbildung (SIWF) verfügen:
 
-  - 1\. ambulante oder stationäre Weiterbildungsstätte der Kategorie A oder der Kategorie B nach dem Weiterbildungsprogramm «Facharzt für Psychiatrie und Psychotherapie» vom 1. Juli 2009[^50c-3] in der Fassung vom 15. Dezember 2016;
-  - 2\. Weiterbildungsstätte der Kategorien A, B oder C nach dem Weiterbildungsprogramm «Facharzt für Kinder- und Jugendpsychiatrie und ‑psychotherapie» vom 1. Juli 2006[^50c-4] in der Fassung vom 20. Dezember 2018.
+  - 1\.[^50c-3] ambulante oder stationäre Weiterbildungsstätte der Kategorie A, B oder C nach dem Weiterbildungsprogramm «Facharzt für Psychiatrie und Psychotherapie» vom 1. Juli 2009[^50c-4] in der Fassung vom 15. Dezember 2016;
+  - 2\. Weiterbildungsstätte der Kategorien A, B oder C nach dem Weiterbildungsprogramm «Facharzt für Kinder- und Jugendpsychiatrie und ‑psychotherapie» vom 1. Juli 2006[^50c-5] in der Fassung vom 20. Dezember 2018.
 
 - c. Sie üben ihren Beruf selbstständig und auf eigene Rechnung aus.
 - d. Sie weisen nach, dass sie die Qualitätsanforderungen nach Artikel 58*g* erfüllen.
 
-[^50c-1]: Eingefügt durch Ziff. I der V vom 19. März 2021 ([AS 2021 188](https://fedlex.data.admin.ch/eli/oc/2021/188)). Fassung gemäss Ziff. I der V vom 23. Juni 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
+[^50c-1]: Eingefügt durch Ziff. I der V vom 19. März 2021 ([AS 2021 188](https://fedlex.data.admin.ch/eli/oc/2021/188)). Fassung gemäss Ziff. I der V vom 23. Juni 2021, in Kraft seit 1. Juli 2022 ([AS 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
 [^50c-2]: [SR 935.81](https://fedlex.data.admin.ch/eli/cc/2012/268)
-[^50c-3]: Das Dokument ist einsehbar unter: www.bag.admin.ch/ref.
+[^50c-3]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 814](https://fedlex.data.admin.ch/eli/oc/2022/814)).
 [^50c-4]: Das Dokument ist einsehbar unter: www.bag.admin.ch/ref.
+[^50c-5]: Das Dokument ist einsehbar unter: www.bag.admin.ch/ref.
 
 #### Art. 50d
 
@@ -1752,12 +1809,12 @@ Die Leistungserbringer haben in ihren Rechnungen alle administrativen und medizi
 
 <sup>3</sup> Bei Analysen erfolgt die Rechnungsstellung an den Schuldner der Vergütung ausschliesslich durch das Laboratorium, das die Analyse durchgeführt hat. Pauschaltarife nach Artikel 49 des Gesetzes bleiben vorbehalten.
 
-<sup>4</sup> …[^59-4]
+<sup>4</sup> Die Leistungserbringer stellen sicher, dass die Rechnung für die versicherte Person nachvollziehbar ist und dass insbesondere Art, Dauer und Inhalt der Behandlung verständlich dargestellt werden.[^59-4]
 
 [^59-1]: Fassung gemäss Ziff. I der V vom 4. Juli 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 4089](https://fedlex.data.admin.ch/eli/oc/2012/474)).
 [^59-2]: [SR 832.105](https://fedlex.data.admin.ch/eli/cc/2007/101)
 [^59-3]: Ausdruck gemäss Anhang Ziff. II 36 der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)). Diese Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.
-[^59-4]: Aufgehoben durch Ziff. I der V vom 3. Dez. 2021, mit Wirkung seit 1. Jan. 2022 ([AS 2021 838](https://fedlex.data.admin.ch/eli/oc/2021/838)).
+[^59-4]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 814](https://fedlex.data.admin.ch/eli/oc/2022/814)).
 
 #### Art. 59a
 
@@ -1867,6 +1924,85 @@ Die Tarifpartner müssen dem Bundesrat nach den Artikeln 46 Absatz 4 und 49 Absa
 <sup>3</sup> Für die Aufteilung der Finanzierung des Fallbeitrags gilt Artikel 49*a* Absätze 1 und 2 des Gesetzes sinngemäss.
 
 [^59e-1]: Eingefügt durch Ziff. I der V vom 22. Okt. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 5097](https://fedlex.data.admin.ch/eli/oc/2008/708)). Siehe auch die SchlB dieser Änd. am Ende dieses Textes.
+
+#### Art. 59f
+
+**Datenbekanntgabe im Tarifwesen für ambulante Behandlungen**[^59f-1]
+
+<sup>1</sup>
+
+Die Pflicht zur Datenbekanntgabe nach Artikel 47*b* Absatz 1 KVG umfasst folgende Daten:
+
+- a.
+
+  allgemeine Betriebsdaten, namentlich:
+
+  - 1\. Betriebstyp, einschliesslich Rechtsform,
+  - 2\. Standorte,
+  - 3\. medizinisch-technische Infrastruktur,
+  - 4\. Betriebsdauer pro Jahr;
+
+- b.
+
+  Daten zum Personalbestand des Betriebs, namentlich:
+
+  - 1\. Anzahl Leistungserbringer, aufgeschlüsselt nach den Kategorien nach Artikel 35 Absatz 2 KVG und nach Spezialisierung, sowie weiteres Personal,
+  - 2\. Angaben zum Beschäftigungsvolumen der Leistungserbringer, aufgeschlüsselt nach den Kategorien nach Artikel 35 Absatz 2 KVG und nach Spezialisierung, sowie des weiteren Personals;
+
+- c. Leistungstyp, Untersuchungen und Behandlungen;
+- d.
+
+  Gestehungskosten der Leistungen, namentlich:
+
+  - 1\. Personalaufwand pro Personalkategorie, einschliesslich separat ausgewiesener berufliche Vorsorge,
+  - 2\. Materialaufwand und Materialmenge,
+  - 3\. Raumaufwand und Raumfläche,
+  - 4\. Kapitalaufwand sowie Eigen- und Fremdkapital,
+  - 5\. Abschreibungen und Anlagevermögen,
+  - 6\. Investitionsaufwand;
+
+- e. quantitative Informationen zur Aufschlüsselung der Gestehungskosten nach den einzelnen Leistungen in Abhängigkeit des Kostenmodells, insbesondere die Dauer der Leistung und Anzahl Patientinnen und Patienten;
+- f.
+
+  Entwicklung der Kosten zulasten der obligatorischen Krankenpflegeversicherung, namentlich:
+
+  - 1\. Tarifpositionen, Leistungsvolumen und Kosten der abgerechneten Leistungen,
+  - 2\. Anzahl der ambulant behandelten Patientinnen und Patienten,
+  - 3\. Anzahl Konsultationen pro Patientin und Patient.
+
+<sup>2</sup> Daten, die vom BFS gestützt auf Artikel 30 erhoben wurden, dürfen nicht aufgrund von Absatz 1 verlangt werden.
+
+[^59f-1]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 814](https://fedlex.data.admin.ch/eli/oc/2022/814)).
+
+#### Art. 59g
+
+**Übermittlung der Daten**[^59g-1]
+
+<sup>1</sup> Die Daten nach Artikel 59*f* müssen dem EDI oder der zuständigen Kantonsregierung korrekt, vollständig, fristgerecht, auf eigene Kosten, unter Wahrung der Anonymität der Patientinnen und Patienten und in verschlüsselter Form elektronisch übermittelt werden.
+
+<sup>2</sup> Stellt das EDI oder die zuständige Kantonsregierung Mängel in der Datenlieferung fest, so ist eine Nachfrist zur Übermittlung korrekter und vollständiger Daten zu setzen, bevor Sanktionen nach Artikel 47*b* Absatz 2 KVG ergriffen werden können.
+
+[^59g-1]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 814](https://fedlex.data.admin.ch/eli/oc/2022/814)).
+
+#### Art. 59h
+
+**Kantonale Bearbeitungsreglemente**[^59h-1]
+
+Für die Erhebung und Bearbeitung von Daten nach Artikel 47*b* KVG erstellt die zuständige Kantonsregierung ein Bearbeitungsreglement, das die interne Organisation festlegt und insbesondere das Datenbearbeitungs- und Kontrollverfahren in Anwendung der kantonalen Bestimmungen zum Datenschutz umschreibt und alle Unterlagen über die Planung, die Realisierung und den Betrieb der Datenbearbeitungssysteme und der Informatikmittel enthält. Sie aktualisiert das Reglement regelmässig.
+
+[^59h-1]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 814](https://fedlex.data.admin.ch/eli/oc/2022/814)).
+
+#### Art. 59i
+
+**Sicherheit und Aufbewahrung der Daten**[^59i-1]
+
+Soweit die Aufbewahrung, die Löschung und die Vernichtung der Daten nicht anderweitig geregelt sind, müssen die Behörden, denen Daten nach Artikel 47*b* KVG bekannt gegeben werden, folgende Grundsätze einhalten:
+
+- a. Sie müssen die Daten durch die erforderlichen organisatorischen und technischen Massnahmen gegen unbefugtes Bearbeiten schützen.
+- b. Sie müssen die Daten löschen, sobald diese zur Erreichung des Zwecks, zu dem sie weitergegeben wurden, nicht mehr benötigt werden.
+- c. Sie müssen die Daten spätestens fünf Jahre nach deren Erhalt vernichten, sofern die Daten nicht archiviert werden müssen.
+
+[^59i-1]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 814](https://fedlex.data.admin.ch/eli/oc/2022/814)).
 
 ### 2. Abschnitt: Analysenliste
 
@@ -2375,7 +2511,7 @@ Die Artikel 71*a*–71*d* finden für die Übernahme der Kosten in folgenden Fä
 - a. Arzneimittel, die zur Behandlung von Covid-19 eingesetzt werden und Wirkstoffe enthalten, die in Anhang 5 der Covid-19-Verordnung 3 vom 19. Juni 2020[^71e-2] aufgeführt sind;
 - b. Arzneimittel, die über eine gültige Zulassung des Instituts mit einer Indikation für die Behandlung von Covid-19 verfügen.
 
-[^71e-1]: Eingefügt durch Ziff. III der V vom 12. Mai 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)). Fassung gemäss Ziff. I der V vom 17. Dez. 2021, in Kraft vom 1. Jan. 2022 bis zum 31. Dez. 2022 ([AS 2021 892](https://fedlex.data.admin.ch/eli/oc/2021/892)).
+[^71e-1]: Eingefügt durch Ziff. III der V vom 12. Mai 2021 ([AS 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)). Fassung gemäss Ziff. I der V vom 17. Dez. 2021, in Kraft vom 1. Jan. 2022 bis zum 31. Dez. 2022, verlängert bis zum 30. Juni 2024 ([AS 2021 892](https://fedlex.data.admin.ch/eli/oc/2021/892); [2022 838](https://fedlex.data.admin.ch/eli/oc/2022/838)Ziff. IV).
 [^71e-2]: [SR 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
 
 #### Art. 71f
@@ -2666,6 +2802,122 @@ Das EDI setzt nach Anhören der zuständigen Kommission die Massnahmen nach Arti
 
 [^77k-1]: Eingefügt durch Ziff. I der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
 
+## 4*a*. Titel: Pilotprojekte
+
+[^tit4a-1]
+
+[^tit4a-1]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 814](https://fedlex.data.admin.ch/eli/oc/2022/814)).
+
+#### Art. 77l
+
+**Gesuch**
+
+<sup>1</sup> Das Gesuch um Bewilligung eines Pilotprojekts ist beim BAG einzureichen. Es kann namentlich von einem oder mehreren Kantonen, einem oder mehreren Leistungserbringern, einem oder mehreren Versicherern oder einer oder mehreren Patientenorganisationen eingereicht werden.
+
+<sup>2</sup>
+
+Es muss mindestens umfassen:
+
+- a. Name oder Bezeichnung der Gesuchsteller;
+- b. ausführliche Beschreibung des Pilotprojekts, der geplanten Massnahmen, der angestrebten Ziele, der erwarteten Wirkung und der Auswirkungen namentlich auf Kantone, Versicherer, Leistungserbringer und Versicherte;
+- c. Bestimmungen des KVG und dieser Verordnung, von denen abgewichen werden soll, und die an ihrer Stelle anwendbare Regelung;
+- d. Kriterien für die Teilnahme am Pilotprojekt einschliesslich der Frist, innerhalb derer der Widerruf der Zustimmung zur Teilnahme wirksam wird;
+- e. Evaluationskonzept mit Angaben zu den regelmässigen Evaluationen und zur Schlussevaluation;
+- f. Finanzierungskonzept für das Pilotprojekt und die Evaluationen;
+- g. Zeitplan für die Durchführung des Pilotprojekts und der Evaluationen.
+
+#### Art. 77m
+
+**Kosten**
+
+Die Kosten für das Pilotprojekt und die Evaluationen, sowie die mit der Wiederherstellung des vor dessen Durchführung bestehenden Zustands verbundenen Verwaltungskosten gehen zulasten der Inhaber der Bewilligung für das Pilotprojekt.
+
+#### Art. 77n
+
+**Bewilligung**
+
+<sup>1</sup>
+
+Das EDI bewilligt nur Pilotprojekte, mit denen Massnahmen erprobt werden, die die folgenden Voraussetzungen erfüllen:
+
+- a. Die Massnahmen sind in Bezug auf das geltende Recht innovativ.
+- b. Die Massnahmen eignen sich dazu, eines der Ziele nach Artikel 59*b* Absatz 1 KVG in einem der Bereiche nach Artikel 59*b* Absatz 2 KVG zu erreichen.
+- c. Die Massnahmen eignen sich dazu, in das Gesetz aufgenommen zu werden.
+
+<sup>2</sup>
+
+Die Bewilligungsverfügung enthält namentlich:
+
+- a. die Namen der Gesuchsteller;
+- b. die erwartete Wirkung und die Auswirkungen namentlich auf Kantone, Versicherer, Leistungserbringer und Versicherte;
+- c. das Evaluationskonzept;
+- d. die Namen einer oder mehrerer unabhängigen Fachpersonen für die Evaluationen des Pilotprojekts.
+
+<sup>3</sup> Das EDI verweigert die Bewilligung, wenn für die Versicherten bei einer Teilnahme am Pilotprojekt das Recht auf Übernahme der Kosten von Leistungen der obligatorischen Krankenpflegeversicherung nicht gewährleistet ist.
+
+<sup>4</sup> Es widerruft die Bewilligung, wenn sich vor Abschluss des Pilotprojekts herausstellt, dass die erwartete Wirkung nicht erreicht werden kann oder die Rechte der Versicherten verletzt werden.
+
+<sup>5</sup> Das BAG informiert die Öffentlichkeit regelmässig über die laufenden Pilotprojekte.
+
+#### Art. 77o
+
+**Verordnungen des EDI zu den Pilotprojekten**
+
+<sup>1</sup>
+
+Zusätzlich zu den Punkten nach Artikel 59*b* Absatz 5 KVG legt die Verordnung des EDI zum jeweiligen Pilotprojekt fest:
+
+- a. die Voraussetzungen für die Teilnahme;
+- b. die Massnahmen, die mit dem Pilotprojekt umgesetzt werden können;
+- c. die angestrebten Ziele;
+- d. der räumliche Anwendungsbereich des Pilotprojekts;
+- e. die Laufzeit des Pilotprojekts;
+- f. die Frist, innerhalb derer der Widerruf einer versicherten Person der Zustimmung zur Teilnahme am Pilotprojekt wirksam wird.
+
+<sup>2</sup> Die Laufzeit des Pilotprojekts beträgt höchstens drei Jahre. Sie kann einmal verlängert werden.
+
+<sup>3</sup> Die Frist nach Absatz 1 Buchstabe f darf höchstens bis zum Ende des laufenden Kalenderjahres dauern. Die Kündigungsfrist muss mindestens einen Monat betragen.
+
+<sup>4</sup> Das EDI hebt die Verordnung zum Pilotprojekt auf, wenn es die Bewilligung für das Pilotprojekt widerruft.
+
+#### Art. 77p
+
+**Teilnahme**
+
+<sup>1</sup> Am Pilotprojekt dürfen nur Versicherte teilnehmen, die der Teilnahme ausdrücklich zugestimmt haben, nachdem sie über die Auswirkungen dieser Teilnahme auf ihre Rechte und Pflichten informiert worden sind.
+
+<sup>2</sup> Sie können die Zustimmung widerrufen.
+
+#### Art. 77q
+
+**Evaluationen**
+
+<sup>1</sup> Das Pilotprojekt muss während seiner Umsetzung regelmässig evaluiert werden. Nach Abschluss des Projekts muss eine Schlussevaluation durchgeführt werden.
+
+<sup>2</sup>
+
+In den Evaluationsberichten muss insbesondere beurteilt werden:
+
+- a. ob das Pilotprojekt das angestrebte Ziel erreicht;
+- b. welchen Einfluss die Massnahmen des Pilotprojekts auf das Gesundheitssystem haben;
+- c. ob es einen Konflikt zwischen den Massnahmen des Pilotprojekts und gesetzlichen Bestimmungen gibt, zu denen in der Verordnung keine Abweichung vorgesehen ist;
+- d. ob die erprobten Massnahmen in das Gesetz aufgenommen werden können.
+
+#### Art. 77r
+
+**Berichterstattung an den Bundesrat**
+
+<sup>1</sup> Das EDI prüft die Evaluationsberichte.
+
+<sup>2</sup>
+
+Auf der Grundlage dieser Prüfung erstattet es dem Bundesrat Bericht über:
+
+- a. die Wirkung der erprobten Massnahmen auf die Kostendämpfung, die Stärkung der Qualität oder die Förderung der Digitalisierung;
+- b. die Auswirkungen der Massnahmen namentlich auf Kantone, Versicherer, Leistungserbringer und Versicherte.
+
+<sup>3</sup> Erscheint es nach der Prüfung der Berichte zu den Zwischenevaluationen sinnvoll, dass die Bestimmungen nach Abschluss des Pilotprojekts gemäss Artikel 59*b* Absatz 7 KVG anwendbar bleiben, so kann das EDI dem Bundesrat bereits vor der Schlussevaluation Bericht erstatten.
+
 ### 5. Titel: Finanzierung
 
 ### 1. Kapitel: …
@@ -2780,14 +3032,14 @@ Die Prämien sind im Voraus und in der Regel monatlich zu bezahlen.
 
 <sup>1ter</sup> Der Minimalbetrag nach Absatz 1<sup>bis</sup> entspricht dem Durchschnitt aller Prämien des laufenden Jahres für die betreffenden Prämienregion und Altersgruppe. Das BAG teilt den Versicherern jährlich diesen Betrag mit.[^91-3]
 
-<sup>2</sup> Für Personen nach den Artikeln 4 und 5, die ihren Wohnort ausserhalb der Europäischen Union und ausserhalb von Island und Norwegen haben und die in der Schweiz versichert sind, muss der Versicherer eine Prämie nach den ausgewiesenen Kosten festlegen. Ist dies angesichts der Anzahl der betroffenen Personen unverhältnismässig, so kann der Versicherer bei diesen Personen die Prämien am letzten Wohnort in der Schweiz oder am Sitz des Versicherers anwenden.[^91-4]
+<sup>2</sup> Für Personen nach den Artikeln 4 und 5, die ihren Wohnort ausserhalb eines Mitgliedstaats der Europäischen Union, Islands, Norwegens und des Vereinigten Königreichs haben und die in der Schweiz versichert sind, muss der Versicherer eine Prämie nach den ausgewiesenen Kosten festlegen. Ist dies angesichts der Anzahl der betroffenen Personen unverhältnismässig, so kann der Versicherer bei diesen Personen die Prämien am letzten Wohnort in der Schweiz oder am Sitz des Versicherers anwenden.[^91-4]
 
 <sup>3</sup> Die Abstufung nach Altersgruppen für Versicherte nach Artikel 61 Absatz 3 des Gesetzes erfolgt aufgrund der Geburtsjahre.
 
 [^91-1]: Fassung gemäss Anhang Ziff. 3 der Krankenversicherungsaufsichtsverordnung vom 18. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)).
 [^91-2]: Eingefügt durch Anhang Ziff. 3 der Krankenversicherungsaufsichtsverordnung vom 18. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)).
 [^91-3]: Eingefügt durch Anhang Ziff. 3 der Krankenversicherungsaufsichtsverordnung vom 18. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)).
-[^91-4]: Fassung gemäss Ziff. I der V vom 15. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6723](https://fedlex.data.admin.ch/eli/oc/2017/749)).
+[^91-4]: Fassung gemäss Ziff. I 1 der V vom 26. Okt. 2022 über die Änderung von Verordnungen im Bereich der Krankenversicherung zur Umsetzung des Abkommens zur Koordinierung der sozialen Sicherheit zwischen der Schweizerischen Eidgenossenschaft und dem Vereinigten Königreich von Grossbritannien und Nordirland, in Kraft seit 1. Jan. 2023 ([AS 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
 
 #### Art. 91a
 
@@ -2826,12 +3078,12 @@ Die Prämien sind im Voraus und in der Regel monatlich zu bezahlen.
 
 [^92-1]: Aufgehoben durch Anhang Ziff. 3 der Krankenversicherungsaufsichtsverordnung vom 18. Nov. 2015, mit Wirkung seit 1. Jan. 2016 ([AS 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)).
 
-### 1*a*. Abschnitt: Prämien der Versicherten mit Wohnort in einem Mitgliedstaat der Europäischen Union, in Island oder Norwegen
+### 1*a*. Abschnitt: Prämien der Versicherten mit Wohnort in einem Mitgliedstaat der Europäischen Union, in Island, in Norwegen oder im Vereinigten Königreich
 
-[^part1-tit5-chap2-sec1a-1][^part1-tit5-chap2-sec1a-2]
+[^tit4a-tit5-chap2-sec1a-1][^tit4a-tit5-chap2-sec1a-2]
 
-[^part1-tit5-chap2-sec1a-1]: Eingefügt durch Ziff. I der V vom 3. Juli 2001, in Kraft seit 1. Juni 2002 ([AS 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)).
-[^part1-tit5-chap2-sec1a-2]: Fassung gemäss Ziff. I der V vom 2. Nov. 2011, in Kraft seit 1. April 2012 ([AS 2012 955](https://fedlex.data.admin.ch/eli/oc/2012/162)).
+[^tit4a-tit5-chap2-sec1a-1]: Eingefügt durch Ziff. I der V vom 3. Juli 2001, in Kraft seit 1. Juni 2002 ([AS 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)).
+[^tit4a-tit5-chap2-sec1a-2]: Fassung gemäss Ziff. I der V vom 2. Nov. 2011, in Kraft seit 1. April 2012 ([AS 2012 955](https://fedlex.data.admin.ch/eli/oc/2012/162)).
 
 #### Art. 92a
 
@@ -2847,10 +3099,10 @@ Wohnt die versicherte Person im Ausland, so erhebt der Versicherer die Prämien 
 
 ### 1*b*. Abschnitt: Prämien von nothilfeberechtigten Personen nach Artikel 82 AsylG
 
-[^part1-tit5-chap2-sec1b-1][^part1-tit5-chap2-sec1b-2]
+[^tit4a-tit5-chap2-sec1b-1][^tit4a-tit5-chap2-sec1b-2]
 
-[^part1-tit5-chap2-sec1b-1]: Eingefügt durch Ziff. I der V vom 6. Juli 2011, in Kraft seit 1. Aug. 2011 ([AS 2011 3535](https://fedlex.data.admin.ch/eli/oc/2011/478)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
-[^part1-tit5-chap2-sec1b-2]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^tit4a-tit5-chap2-sec1b-1]: Eingefügt durch Ziff. I der V vom 6. Juli 2011, in Kraft seit 1. Aug. 2011 ([AS 2011 3535](https://fedlex.data.admin.ch/eli/oc/2011/478)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
+[^tit4a-tit5-chap2-sec1b-2]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
 
 #### Art. 92d
 
@@ -3018,9 +3270,9 @@ Die Sistierung der Fälligkeit der Prämien wird ohne rückwirkende Bezahlung de
 
 #### Art. 101a
 
-**Besondere Versicherungsformen für Versicherte mit Wohnort in einem Mitgliedstaat der Europäischen Union, in Island oder Norwegen**[^101a-1]
+**Besondere Versicherungsformen für Versicherte mit Wohnort in einem Mitgliedstaat der Europäischen Union, in Island, in Norwegen oder im Vereinigten Königreich**[^101a-1]
 
-Die besonderen Versicherungsformen nach den Artikeln 93–101 stehen nicht offen für Versicherte, die in einem Mitgliedstaat der Europäischen Union, in Island oder Norwegen wohnen.
+Die besonderen Versicherungsformen nach den Artikeln 93–101 stehen nicht offen für Versicherte, die in einem Mitgliedstaat der Europäischen Union, in Island, in Norwegen oder im Vereinigten Königreich wohnen.
 
 [^101a-1]: Eingefügt durch Ziff. I der V vom 3. Juli 2001 ([AS 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)). Fassung gemäss Ziff. I der V vom 2. Nov. 2011, in Kraft seit 1. April 2012 ([AS 2012 955](https://fedlex.data.admin.ch/eli/oc/2012/162)).
 
@@ -3048,14 +3300,14 @@ Die besonderen Versicherungsformen nach den Artikeln 93–101 stehen nicht offen
 
 <sup>5</sup> Die Versicherer können für Erwachsene, bei denen der Versicherungsschutz auf weniger als ein Kalenderjahr angelegt ist, eine Pauschale für Franchise und Selbstbehalt bei Inanspruchnahme von Leistungen erheben. Diese Pauschale beträgt 250 Franken innerhalb eines Zeitraumes von 90 Tagen. Sie darf nicht in Verbindung mit besonderen Versicherungsformen nach den Artikeln 93–101*a* angeboten werden.[^103-3]
 
-<sup>6</sup> Bei Versicherten, die in einem Mitgliedstaat der Europäischen Union, in Island, Liechtenstein oder Norwegen wohnen und die bei einem Aufenthalt in der Schweiz aufgrund von Artikel 95*a* des Gesetzes Anspruch auf internationale Leistungsaushilfe haben, wird eine Pauschale für Franchise und Selbstbehalt erhoben. Die Pauschale beträgt für Erwachsene 92 Franken und für Kinder 33 Franken innerhalb eines Zeitraumes von 30 Tagen.[^103-4]
+<sup>6</sup> Bei Versicherten, die in einem Mitgliedstaat der Europäischen Union, in Island, in Liechtenstein, in Norwegen oder im Vereinigten Königreich wohnen und die bei einem Aufenthalt in der Schweiz aufgrund von Artikel 95*a* des Gesetzes oder internationaler Vereinbarungen Anspruch auf internationale Leistungsaushilfe haben, wird eine Pauschale für Franchise und Selbstbehalt erhoben. Die Pauschale beträgt für Erwachsene 92 Franken und für Kinder 33 Franken innerhalb eines Zeitraumes von 30 Tagen.[^103-4]
 
-<sup>7</sup> Für Versicherte, die in einem Mitgliedstaat der Europäischen Union, in Island oder Norwegen wohnen und in der Schweiz versichert sind, gelten die Absätze 1–4 sinngemäss.[^103-5]
+<sup>7</sup> Für Versicherte, in einem Mitgliedstaat der Europäischen Union, in Island, in Norwegen oder im Vereinigten Königreich wohnen und in der Schweiz versichert sind, gelten die Absätze 1–4 sinngemäss.[^103-5]
 
 [^103-1]: Fassung gemäss Ziff. I der V vom 6. Juni 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445)).
 [^103-2]: Fassung gemäss Ziff. I der V vom 6. Juni 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445)).
 [^103-3]: Fassung gemäss Ziff. I der V vom 3. Dez. 2004, in Kraft seit 1. Jan. 2005 ([AS 2004 5075](https://fedlex.data.admin.ch/eli/oc/2004/784)).
-[^103-4]: Eingefügt durch Ziff. I der V vom 3. Juli 2001 ([AS 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)). Fassung gemäss Ziff. I der V vom 2. Nov. 2011, in Kraft seit 1. April 2012 ([AS 2012 955](https://fedlex.data.admin.ch/eli/oc/2012/162)).
+[^103-4]: Eingefügt durch Ziff. I der V vom 3. Juli 2001 ([AS 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)). Fassung gemäss Ziff. I 1 der V vom 26. Okt. 2022 über die Änderung von Verordnungen im Bereich der Krankenversicherung zur Umsetzung des Abkommens zur Koordinierung der sozialen Sicherheit zwischen der Schweizerischen Eidgenossenschaft und dem Vereinigten Königreich von Grossbritannien und Nordirland, in Kraft seit 1. Jan. 2023 ([AS 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
 [^103-5]: Eingefügt durch Ziff. I der V vom 3. Juli 2001 ([AS 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)). Fassung gemäss Ziff. I der V vom 2. Nov. 2011, in Kraft seit 1. April 2012 ([AS 2012 955](https://fedlex.data.admin.ch/eli/oc/2012/162)).
 
 #### Art. 104
@@ -3123,9 +3375,9 @@ Das EDI bezeichnet die Leistungen, für die nach Artikel 64 Absatz 6 Buchstabe a
 
 ### 3*a*. Kapitel: Nichtbezahlung von Prämien und Kostenbeteiligungen
 
-[^part1-tit5-chap3a-1]
+[^tit4a-tit5-chap3a-1]
 
-[^part1-tit5-chap3a-1]: Eingefügt durch Ziff. I der V vom 27. Juni 2007, in Kraft seit 1. Aug. 2007 ([AS 2007 3573](https://fedlex.data.admin.ch/eli/oc/2007/439)).
+[^tit4a-tit5-chap3a-1]: Eingefügt durch Ziff. I der V vom 27. Juni 2007, in Kraft seit 1. Aug. 2007 ([AS 2007 3573](https://fedlex.data.admin.ch/eli/oc/2007/439)).
 
 #### Art. 105a
 
@@ -3270,11 +3522,11 @@ Sie überprüft die Richtigkeit und die Vollständigkeit der Angaben des Versich
 
 #### Art. 105m
 
-**Versicherte mit Wohnort in einem Mitgliedstaat der Europäischen Union, in Island oder in Norwegen**[^105m-1]
+**in einem Mitgliedstaat der Europäischen Union, in Island, in Norwegen oder im Vereinigten Königreich**[^105m-1]
 
 <sup>1</sup>
 
-Ist es nach dem Recht eines Mitgliedstaats der Europäischen Union, Islands oder Norwegens möglich, dass der Schweizer Versicherer die unbezahlten Prämien und Kostenbeteiligungen einbringt, so sind folgende Bestimmungen anwendbar auf Versicherte, die in einem solchen Staat wohnen und die fälligen Prämien oder Kostenbeteiligungen nicht bezahlen:
+Ist es nach dem Recht eines Mitgliedstaats der Europäischen Union, Islands, Norwegens oder des Vereinigten Königreichs möglich, dass der Schweizer Versicherer die unbezahlten Prämien und Kostenbeteiligungen einbringt, so sind folgende Bestimmungen anwendbar auf Versicherte, die in einem solchen Staat wohnen und die fälligen Prämien oder Kostenbeteiligungen nicht bezahlen:[^105m-2]
 
 - a.
 
@@ -3286,21 +3538,23 @@ Ist es nach dem Recht eines Mitgliedstaats der Europäischen Union, Islands oder
 
 - b. Artikel 64*a* Absätze 1, 2 und 6 des Gesetzes und die Artikel 105*b* und 105*l* auf Rentnerinnen und Rentnern sowie deren Familienangehörige; der Versicherer übernimmt die Verlustscheine.
 
-<sup>2</sup> Ist es nach dem Recht eines Mitgliedstaats der Europäischen Union, Islands oder Norwegens nicht möglich, dass der Schweizer Versicherer die unbezahlten Prämien und Kostenbeteiligungen einbringt, so hat der Versicherer der versicherten Person, die die fälligen Prämien oder Kostenbeteiligungen nicht bezahlt, nach mindestens einer schriftlichen Mahnung, eine Zahlungsaufforderung zuzustellen, ihr eine Nachfrist von 30 Tagen einzuräumen und sie auf die Folgen des Zahlungsverzugs hinzuweisen. Bezahlt die versicherte Person trotz Zahlungsaufforderung die Prämien, Kostenbeteiligungen und Verzugszinse nicht innert der gesetzten Frist, so kann der Versicherer die Übernahme der Kosten für die Leistungen aufschieben. Gleichzeitig muss er die versicherte Person und den zuständigen aushelfenden Träger am Wohnort der versicherten Person informieren. Der Aufschub endet, sobald die gemahnten Prämien und Kostenbeteiligungen sowie die angefallenen Verzugszinse bezahlt sind. Der Versicherer darf während eines Aufschubs der Übernahme der Kosten die Versicherungsleistungen mit geschuldeten Prämien oder Kostenbeteiligungen verrechnen.
+<sup>2</sup> Ist es nach dem Recht eines Mitgliedstaats der Europäischen Union, Islands, Norwegens oder des Vereinigten Königreichs nicht möglich, dass der Schweizer Versicherer die unbezahlten Prämien und Kostenbeteiligungen einbringt, so hat der Versicherer der versicherten Person, die die fälligen Prämien oder Kostenbeteiligungen nicht bezahlt, nach mindestens einer schriftlichen Mahnung, eine Zahlungsaufforderung zuzustellen, ihr eine Nachfrist von 30 Tagen einzuräumen und sie auf die Folgen des Zahlungsverzugs hinzuweisen. Bezahlt die versicherte Person trotz Zahlungsaufforderung die Prämien, Kostenbeteiligungen und Verzugszinse nicht innert der gesetzten Frist, so kann der Versicherer die Übernahme der Kosten für die Leistungen aufschieben. Gleichzeitig muss er die versicherte Person und den zuständigen aushelfenden Träger am Wohnort der versicherten Person informieren. Der Aufschub endet, sobald die gemahnten Prämien und Kostenbeteiligungen sowie die angefallenen Verzugszinse bezahlt sind. Der Versicherer darf während eines Aufschubs der Übernahme der Kosten die Versicherungsleistungen mit geschuldeten Prämien oder Kostenbeteiligungen verrechnen.[^105m-3]
 
 [^105m-1]: Eingefügt durch Ziff. I der V vom 22. Juni 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 3527](https://fedlex.data.admin.ch/eli/oc/2011/477)).
+[^105m-2]: Fassung gemäss Ziff. I 1 der V vom 26. Okt. 2022 über die Änderung von Verordnungen im Bereich der Krankenversicherung zur Umsetzung des Abkommens zur Koordinierung der sozialen Sicherheit zwischen der Schweizerischen Eidgenossenschaft und dem Vereinigten Königreich von Grossbritannien und Nordirland, in Kraft seit 1. Jan. 2023 ([AS 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
+[^105m-3]: Fassung gemäss Ziff. I 1 der V vom 26. Okt. 2022 über die Änderung von Verordnungen im Bereich der Krankenversicherung zur Umsetzung des Abkommens zur Koordinierung der sozialen Sicherheit zwischen der Schweizerischen Eidgenossenschaft und dem Vereinigten Königreich von Grossbritannien und Nordirland, in Kraft seit 1. Jan. 2023 ([AS 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
 
 ### 4. Kapitel: Prämienverbilligung durch die Kantone
 
-[^part1-tit5-chap4-1]
+[^tit4a-tit5-chap4-1]
 
-[^part1-tit5-chap4-1]: Fassung gemäss Ziff. I der V vom 3. Juli 2001, in Kraft seit 1. Juni 2002 ([AS 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)).
+[^tit4a-tit5-chap4-1]: Fassung gemäss Ziff. I der V vom 3. Juli 2001, in Kraft seit 1. Juni 2002 ([AS 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)).
 
 ### 1. Abschnitt: Anspruchsberechtigte
 
-[^part1-tit5-chap4-sec1-1]
+[^tit4a-tit5-chap4-sec1-1]
 
-[^part1-tit5-chap4-sec1-1]: Eingefügt durch Ziff. I der V vom 22. Juni 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 3527](https://fedlex.data.admin.ch/eli/oc/2011/477)).
+[^tit4a-tit5-chap4-sec1-1]: Eingefügt durch Ziff. I der V vom 22. Juni 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 3527](https://fedlex.data.admin.ch/eli/oc/2011/477)).
 
 #### Art. 106
 
@@ -3312,7 +3566,7 @@ Anspruch auf Prämienverbilligung haben auch versicherungspflichtige Personen na
 
 #### Art. 106a
 
-**Prämienverbilligung durch die Kantone für Versicherte, die in einem Mitgliedstaat der Europäischen Union, in Island oder Norwegen wohnen[^106a-1]**
+**Prämienverbilligung durch die Kantone für Versicherte, die in einem Mitgliedstaat der Europäischen Union, in Island, in Norwegen oder im Vereinigten Königreich wohnen[^106a-1]**
 
 <sup>1</sup>
 
@@ -3322,16 +3576,16 @@ Die Prämienverbilligung richtet sich nach Artikel 65*a* des Gesetzes:
 - b. für versicherte Familienangehörige einer versicherten Person nach Buchstabe a, selbst wenn ein anderer versicherter Familienangehöriger nur eine schweizerische Rente bezieht;
 - c. für versicherte Familienangehörige einer versicherten Person, die in der Schweiz erwerbstätig ist oder eine Leistung der schweizerischen Arbeitslosenversicherung bezieht, selbst wenn ein anderer versicherter Familienangehöriger nur eine schweizerische Rente bezieht.
 
-<sup>2</sup> Die Kantone dürfen bei der Prüfung der bescheidenen wirtschaftlichen Verhältnisse der in einem Mitgliedstaat der Europäischen Union, in Island oder Norwegen wohnenden Versicherten das Einkommen und das Reinvermögen derjenigen Familienangehörigen, die dem Verfahren nach Artikel 66*a* des Gesetzes unterstellt sind, nicht berücksichtigen.[^106a-2]
+<sup>2</sup> Die Kantone dürfen bei der Prüfung der bescheidenen wirtschaftlichen Verhältnisse der in einem Mitgliedstaat der Europäischen Union, in Island, in Norwegen oder im Vereinigten Königreich wohnenden Versicherten das Einkommen und das Reinvermögen derjenigen Familienangehörigen, die dem Verfahren nach Artikel 66*a* des Gesetzes unterstellt sind, nicht berücksichtigen.[^106a-2]
 
 [^106a-1]: Fassung gemäss Ziff. I der V vom 2. Nov. 2011, in Kraft seit 1. April 2012 ([AS 2012 955](https://fedlex.data.admin.ch/eli/oc/2012/162)).
 [^106a-2]: Fassung gemäss Ziff. I der V vom 2. Nov. 2011, in Kraft seit 1. April 2012 ([AS 2012 955](https://fedlex.data.admin.ch/eli/oc/2012/162)).
 
 ### 2. Abschnitt: Durchführung der Prämienverbilligung
 
-[^part1-tit5-chap4-sec2-1]
+[^tit4a-tit5-chap4-sec2-1]
 
-[^part1-tit5-chap4-sec2-1]: Eingefügt durch Ziff. I der V vom 22. Juni 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 3527](https://fedlex.data.admin.ch/eli/oc/2011/477)).
+[^tit4a-tit5-chap4-sec2-1]: Eingefügt durch Ziff. I der V vom 22. Juni 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 3527](https://fedlex.data.admin.ch/eli/oc/2011/477)).
 
 #### Art. 106b
 

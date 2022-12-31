@@ -4,11 +4,11 @@ title: "Ordinanza del 27 giugno 1995 sull'assicurazione malattie (OAMal)"
 short: OAMal
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867"
 language: it
-version: 2022-09-01
+version: 2023-01-01
 adopted: 1995-06-27
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867/20220901/it/xml/fedlex-data-admin-ch-eli-cc-1995-3867_3867_3867-20220901-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20220901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867/20230101/it/xml/fedlex-data-admin-ch-eli-cc-1995-3867_3867_3867-20230101-it-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20220901/it"
 
 (OAMal)
 
-del 27 giugno 1995 (Stato 1° settembre 2022) (Stato 1° settembre 2022)
+del 27 giugno 1995 (Stato 1° gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -52,10 +52,11 @@ Sono inoltre tenuti ad assicurarsi:
 - a.[^1-2] gli stranieri con permesso di soggiorno di breve durata o di dimora ai sensi degli articoli 32 e 33 della legge federale del 16 dicembre 2005[^1-3] sugli stranieri e la loro integrazione (LStrI)[^1-4], valevole almeno tre mesi;
 - b.[^1-5] gli stranieri esercitanti un’attività lucrativa dipendente con permesso di soggiorno di breve durata valevole meno di tre mesi, se non beneficiano di una copertura assicurativa equivalente per le cure in Svizzera;
 - c.[^1-6] le persone che hanno presentato una domanda d’asilo in Svizzera conformemente all’articolo 18 della legge del 26 giugno 1998[^1-7] sull’asilo (LAsi), le persone cui è stata concessa la protezione provvisoria secondo l’articolo 66 LAsi nonché le persone, per le quali è stata decisa l’ammissione provvisoria conformemente all’articolo 83 LStrI;
-- d.[^1-8] le persone che risiedono in uno Stato membro dell’Unione europea e sono soggette all’assicurazione svizzera ai sensi dell’Accordo del 21 giugno 1999[^1-9] tra la Confederazione Svizzera, da una parte, e la Comunità europea ed i suoi Stati membri, dall’altra, sulla libera circolazione delle persone (Accordo sulla libera circolazione delle persone) e del relativo allegato II, menzionati nell’articolo 95*a* lettera a della legge;
-- e.[^1-10] le persone che risiedono in Islanda o in Norvegia e sono soggette all’assicurazione svizzera ai sensi dell’Accordo del 21 giugno 2001[^1-11] di emendamento della Convenzione istitutiva dell’Associazione europea di libero scambio (Accordo AELS), del relativo allegato K e dell’appendice 2 dell’allegato K, menzionati nell’articolo 95*a* lettera b della legge;
-- f.[^1-12] le persone con permesso di dimora di breve durata o permesso di dimora ai sensi dell’Accordo sulla libera circolazione delle persone o dell’Accordo AELS, valevole almeno tre mesi;
-- g.[^1-13] le persone che esercitano un’attività lucrativa in Svizzera per un periodo inferiore ai tre mesi e che conformemente all’Accordo sulla libera circolazione delle persone o all’Accordo AELS non necessitano di un permesso di dimora, sempre che per i trattamenti in Svizzera non dispongano di una copertura assicurativa equivalente.
+- d.[^1-8] le persone che risiedono in uno Stato membro dell’Unione europea e sono soggette all’assicurazione svizzera ai sensi dell’Accordo del 21 giugno 1999[^1-9] tra la Confederazione Svizzera, da una parte, e la Comunità europea ed i suoi Stati membri, dall’altra, sulla libera circolazione delle persone (Accordo sulla libera circolazione delle persone) e del relativo allegato II, menzionati nell’articolo 95*a* capoverso 1 della legge;
+- e.[^1-10] le persone che risiedono in Islanda o in Norvegia e sono soggette all’assicurazione svizzera ai sensi dell’Accordo del 21 giugno 2001[^1-11] di emendamento della Convenzione istitutiva dell’Associazione europea di libero scambio (Accordo AELS), del relativo allegato K e dell’appendice 2 dell’allegato K, menzionati nell’articolo 95*a* capoverso 2 della legge;
+- e<sup>bis</sup>.[^1-12] le persone che risiedono in uno Stato con il quale sussiste un accordo di sicurezza sociale e che, in virtù di tale accordo, sono soggette all’assicurazione svizzera;
+- f.[^1-13] le persone con permesso di dimora di breve durata o permesso di dimora ai sensi dell’Accordo sulla libera circolazione delle persone o dell’Accordo AELS, valevole almeno tre mesi;
+- g.[^1-14] le persone che esercitano un’attività lucrativa in Svizzera per un periodo inferiore ai tre mesi e che conformemente all’Accordo sulla libera circolazione delle persone o all’Accordo AELS non necessitano di un permesso di dimora, sempre che per i trattamenti in Svizzera non dispongano di una copertura assicurativa equivalente.
 
 [^1-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 [^1-2]: Nuovo testo giusta il n. I 4 dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5627](https://fedlex.data.admin.ch/eli/oc/2007/773)).
@@ -64,12 +65,13 @@ Sono inoltre tenuti ad assicurarsi:
 [^1-5]: Nuovo testo giusta il n. I 4 dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5627](https://fedlex.data.admin.ch/eli/oc/2007/773)).
 [^1-6]: Nuovo testo giusta il n. I 4 dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5627](https://fedlex.data.admin.ch/eli/oc/2007/773)).
 [^1-7]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
-[^1-8]: Introdotta dal n. I dell’O del 3 lug. 2001 ([RU 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)). Nuovo testo giusta il n. I dell’O del 2 nov. 2011, in vigore dal 1° apr. 2012 ([RU 2012 955](https://fedlex.data.admin.ch/eli/oc/2012/162)).
+[^1-8]: Introdotta dal n. I dell’O del 3 lug. 2001 ([RU 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)). Nuovo testo giusta il n. I 1 dell’O del 26 ott. 2022 sulla modifica di ordinanze in materia di assicurazione malattie in attuazione della Convenzione sul coordinamento della sicurezza sociale tra il Regno Unito di Gran Bretagna e Irlanda del Nord e la Confederazione Svizzera, in vigore dal 1° gen. 2023 ([RU 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
 [^1-9]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^1-10]: Introdotta dal n. I dell’O del 3 lug. 2001 ([RU 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)). Nuovo testo giusta il n. I dell’O del 22 mag. 2002, in vigore il 1° giu. 2002 ([RU 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)).
+[^1-10]: Introdotta dal n. I dell’O del 3 lug. 2001 ([RU 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)). Nuovo testo giusta il n. I 1 dell’O del 26 ott. 2022 sulla modifica di ordinanze in materia di assicurazione malattie in attuazione della Convenzione sul coordinamento della sicurezza sociale tra il Regno Unito di Gran Bretagna e Irlanda del Nord e la Confederazione Svizzera, in vigore dal 1° gen. 2023 ([RU 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
 [^1-11]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
-[^1-12]: Introdotta dal n. I dell’O del 22 mag. 2002, in vigore il 1° giu. 2002 ([RU 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)).
-[^1-13]: Introdotta dal n. I dell’O del 3 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2004 5075](https://fedlex.data.admin.ch/eli/oc/2004/784)).
+[^1-12]: Introdotta dal n. I 1 dell’O del 26 ott. 2022 sulla modifica di ordinanze in materia di assicurazione malattie in attuazione della Convenzione sul coordinamento della sicurezza sociale tra il Regno Unito di Gran Bretagna e Irlanda del Nord e la Confederazione Svizzera, in vigore dal 1° gen. 2023 ([RU 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
+[^1-13]: Introdotta dal n. I dell’O del 22 mag. 2002, in vigore il 1° giu. 2002 ([RU 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)).
+[^1-14]: Introdotta dal n. I dell’O del 3 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2004 5075](https://fedlex.data.admin.ch/eli/oc/2004/784)).
 
 #### Art. 2
 
@@ -81,57 +83,65 @@ Non sono soggetti all’obbligo d’assicurazione:
 
 - a.[^2-1] gli agenti della Confederazione, in attività o in pensione, sottoposti all’assicurazione militare ai sensi dell’articolo 1*a* capoverso 1 lettera b numeri 1 a 7[^2-2] e dell’articolo 2 della legge federale del 19 giugno 1992[^2-3] sull’assicurazione militare (LAM);
 - b. le persone che soggiornano in Svizzera al solo scopo di seguire un trattamento medico o una cura;
-- c.[^2-4] le persone che, in virtù dell’Accordo sulla libera circolazione delle persone[^2-5] e del relativo allegato II, dell’Accordo AELS[^2-6] e del relativo allegato K e dell’appendice 2 dell’allegato K o di una convenzione di sicurezza sociale, sottostanno alla normativa di un altro Stato a causa della loro attività lucrativa in tale Stato;
+- c.[^2-4] le persone che, in virtù dell’Accordo sulla libera circolazione delle persone[^2-5] e del relativo allegato II, dell’Accordo AELS[^2-6] e del relativo allegato K e dell’appendice 2 dell’allegato K o di una convenzione di sicurezza sociale, sottostanno alla normativa di un altro Stato in ragione della loro attività lucrativa in tale Stato;
 - d.[^2-7] le persone che, in virtù dell’Accordo sulla libera circolazione delle persone e del relativo allegato II o dell’Accordo AELS, del relativo allegato K e dell’appendice 2 dell’allegato K, sottostanno alla normativa di un altro Stato poiché percepiscono una prestazione di un’assicurazione estera contro la disoccupazione;
-- e.[^2-8] le persone che non hanno diritto a una rendita svizzera ma hanno diritto a una rendita di uno Stato membro dell’Unione europea in virtù dell’Accordo sulla libera circolazione delle persone e del relativo allegato II o a una rendita islandese o norvegese in virtù dell’Accordo AELS, del relativo allegato K e dell’appendice 2 dell’allegato K;
-- f.[^2-9] le persone che sono incluse nell’assicurazione malattie estera di una delle persone di cui alle lettere c, d o e quali suoi familiari e hanno diritto all’assistenza reciproca in materia di prestazioni o beneficiano di una copertura equivalente per le cure in Svizzera;
-- g.[^2-10] le persone che sono incluse nell’assicurazione malattie estera di una persona quali suoi familiari e hanno diritto all’assistenza reciproca in materia di prestazioni.
+- e.[^2-8]
 
-<sup>2</sup> A domanda, sono esentate dall’obbligo d’assicurazione le persone obbligatoriamente assicurate contro le malattie in virtù del diritto di uno Stato con il quale non sussiste alcuna normativa concernente la delimitazione dell’obbligo di assicurazione, se l’assoggettamento all’assicurazione svizzera costituirebbe un doppio onere e se esse beneficiano di una copertura assicurativa equivalente per le cure in Svizzera. Alla domanda va accluso un attestato scritto dell’organo estero competente che dia tutte le informazioni necessarie.[^2-11]
+  le persone che non hanno diritto a una rendita svizzera ma:
 
-<sup>3</sup> ...[^2-12]
+  - 1\. in virtù dell’Accordo sulla libera circolazione delle persone e del relativo allegato II hanno diritto a una rendita in uno Stato membro dell’Unione europea,
+  - 2\. in virtù dell’Accordo AELS, del relativo allegato K e dell’appendice 2 dell’allegato K hanno diritto a una rendita islandese o norvegese,
+  - 3\. in virtù della Convenzione del 9 settembre 2021[^2-9] sul coordinamento della sicurezza sociale tra il Regno Unito di Gran Bretagna e Irlanda del Nord e la Confederazione Svizzera (Convenzione con il Regno Unito) hanno diritto a una rendita britannica;
 
-<sup>4</sup> A domanda, sono esentate dall’obbligo di assicurazione le persone che soggiornano in Svizzera nell’ambito di una formazione o di un perfezionamento, quali studenti, allievi, praticanti e stagisti, come pure i familiari ai sensi dell’articolo 3 capoverso 2 che li accompagnano, purché durante l’intera durata di validità dell’esenzione beneficino di una copertura assicurativa equivalente per le cure in Svizzera.[^2-13] La domanda dev’essere corredata di un attestato scritto dell’organo estero competente che dia tutte le informazioni necessarie. L’autorità cantonale competente può esonerare queste persone dall’obbligo di assicurarsi per al massimo tre anni. A domanda, l’esenzione può essere prolungata di altri tre anni al massimo. L’interessato non può revocare l’esenzione o la rinuncia all’esenzione senza un motivo particolare.[^2-14]
+- f.[^2-10] le persone che sono incluse nell’assicurazione malattie estera di una delle persone di cui alle lettere c, d o e quali suoi familiari e hanno diritto all’assistenza reciproca in materia di prestazioni o beneficiano di una copertura equivalente per le cure in Svizzera;
+- g.[^2-11] le persone che sono incluse nell’assicurazione malattie estera di una persona quali suoi familiari e hanno diritto all’assistenza reciproca in materia di prestazioni.
 
-<sup>4bis</sup> ...[^2-15]
+<sup>2</sup> A domanda, sono esentate dall’obbligo d’assicurazione le persone obbligatoriamente assicurate contro le malattie in virtù del diritto di uno Stato con il quale non sussiste alcuna normativa concernente la delimitazione dell’obbligo di assicurazione, se l’assoggettamento all’assicurazione svizzera costituirebbe un doppio onere e se esse beneficiano di una copertura assicurativa equivalente per le cure in Svizzera. Alla domanda va accluso un attestato scritto dell’organo estero competente che dia tutte le informazioni necessarie.[^2-12]
 
-<sup>5</sup> Su domanda, sono esentati dall’obbligo d’assicurazione i lavoratori distaccati in Svizzera non tenuti a pagare i contributi dell’assicurazione per la vecchiaia, i superstiti e l’invalidità (AVS/AI) in virtù di una convenzione internazionale di sicurezza sociale come pure i loro familiari ai sensi dell’articolo 3 capoverso 2, se il datore di lavoro provvede affinché durante l’intera durata di validità dell’esenzione siano almeno coperte le prestazioni secondo la LAMal per le cure in Svizzera. Questa norma si applica per analogia ad altre persone non tenute a pagare contributi dell’AVS/AI in caso di soggiorno temporaneo in Svizzera in virtù di un’autorizzazione prevista da una convenzione internazionale. L’interessato e il suo datore di lavoro non può revocare l’esenzione o la rinuncia all’esenzione.[^2-16]
+<sup>3</sup> ...[^2-13]
 
-<sup>6</sup> A domanda, sono esentate dall’obbligo d’assicurazione le persone residenti in uno Stato membro dell’Unione europea, purché possano esservi esentate conformemente all’Accordo sulla libera circolazione delle persone e al relativo allegato II e dimostrino di essere coperte in caso di malattia sia nello Stato di residenza sia durante un soggiorno in un altro Stato membro dell’Unione europea o in Svizzera.[^2-17]
+<sup>4</sup> A domanda, sono esentate dall’obbligo di assicurazione le persone che soggiornano in Svizzera nell’ambito di una formazione o di un perfezionamento, quali studenti, allievi, praticanti e stagisti, come pure i familiari ai sensi dell’articolo 3 capoverso 2 che li accompagnano, purché durante l’intera durata di validità dell’esenzione beneficino di una copertura assicurativa equivalente per le cure in Svizzera.[^2-14] La domanda dev’essere corredata di un attestato scritto dell’organo estero competente che dia tutte le informazioni necessarie. L’autorità cantonale competente può esonerare queste persone dall’obbligo di assicurarsi per al massimo tre anni. A domanda, l’esenzione può essere prolungata di altri tre anni al massimo. L’interessato non può revocare l’esenzione o la rinuncia all’esenzione senza un motivo particolare.[^2-15]
 
-<sup>7</sup> A domanda, sono esentate dall’obbligo d’assicurazione le persone che dispongono di un permesso di dimora per persone senza attività lucrativa secondo l’Accordo sulla libera circolazione delle persone o l’Accordo AELS, purché durante l’intera validità dell’esenzione beneficino di una copertura assicurativa equivalente per le cure in Svizzera. La domanda dev’essere corredata di un attestato scritto dell’organo estero competente che dia tutte le informazioni necessarie. L’interessato non può revocare l’esenzione o la rinuncia all’esenzione senza un motivo particolare.[^2-18]
+<sup>4bis</sup> ...[^2-16]
 
-<sup>8</sup> A domanda, sono esentate dall’obbligo d’assicurazione le persone a cui l’assoggettamento all’assicurazione svizzera provoca un netto peggioramento della protezione assicurativa o della copertura dei costi e che a causa della loro età e/o del loro stato di salute non possono stipulare un’assicurazione complementare equiparabile o lo possono fare solo a condizioni difficilmente sostenibili. La domanda dev’essere corredata di un attestato scritto dell’organo estero competente che dia tutte le informazioni necessarie. L’interessato non può revocare l’esenzione o la rinuncia all’esenzione senza un motivo particolare.[^2-19]
+<sup>5</sup> Su domanda, sono esentati dall’obbligo d’assicurazione i lavoratori distaccati in Svizzera non tenuti a pagare i contributi dell’assicurazione per la vecchiaia, i superstiti e l’invalidità (AVS/AI) in virtù di una convenzione internazionale di sicurezza sociale come pure i loro familiari ai sensi dell’articolo 3 capoverso 2, se il datore di lavoro provvede affinché durante l’intera durata di validità dell’esenzione siano almeno coperte le prestazioni secondo la LAMal per le cure in Svizzera. Questa norma si applica per analogia ad altre persone non tenute a pagare contributi dell’AVS/AI in caso di soggiorno temporaneo in Svizzera in virtù di un’autorizzazione prevista da una convenzione internazionale. L’interessato e il suo datore di lavoro non può revocare l’esenzione o la rinuncia all’esenzione.[^2-17]
+
+<sup>6</sup> A domanda, sono esentate dall’obbligo d’assicurazione le persone residenti in uno Stato membro dell’Unione europea, purché possano esservi esentate conformemente all’Accordo sulla libera circolazione delle persone e al relativo allegato II e dimostrino di essere coperte in caso di malattia sia nello Stato di residenza sia durante un soggiorno in un altro Stato membro dell’Unione europea o in Svizzera.[^2-18]
+
+<sup>7</sup> A domanda, sono esentate dall’obbligo d’assicurazione le persone che dispongono di un permesso di dimora per persone senza attività lucrativa secondo l’Accordo sulla libera circolazione delle persone o l’Accordo AELS, purché durante l’intera validità dell’esenzione beneficino di una copertura assicurativa equivalente per le cure in Svizzera. La domanda dev’essere corredata di un attestato scritto dell’organo estero competente che dia tutte le informazioni necessarie. L’interessato non può revocare l’esenzione o la rinuncia all’esenzione senza un motivo particolare.[^2-19]
+
+<sup>8</sup> A domanda, sono esentate dall’obbligo d’assicurazione le persone a cui l’assoggettamento all’assicurazione svizzera provoca un netto peggioramento della protezione assicurativa o della copertura dei costi e che a causa della loro età e/o del loro stato di salute non possono stipulare un’assicurazione complementare equiparabile o lo possono fare solo a condizioni difficilmente sostenibili. La domanda dev’essere corredata di un attestato scritto dell’organo estero competente che dia tutte le informazioni necessarie. L’interessato non può revocare l’esenzione o la rinuncia all’esenzione senza un motivo particolare.[^2-20]
 
 [^2-1]: Nuovo testo giusta il n. I dell’O dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3908](https://fedlex.data.admin.ch/eli/oc/2002/605)).
-[^2-2]: Ora: art. 1*a* cpv. 1 lett. b n. 1-6
+[^2-2]: Ora: art. 1*a* cpv. 1 lett. b n. 1–6
 [^2-3]: [RS 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
-[^2-4]: Introdotta dal n. I dell’O del 22 mag. 2002, in vigore il 1° giu. 2002 ([RU 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)).
+[^2-4]: Introdotta dal n. I dell’O del 22 mag. 2002 ([RU 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)). Nuovo testo giusta il n. I 1 dell’O del 26 ott. 2022 sulla modifica di ordinanze in materia di assicurazione malattie in attuazione della Convenzione sul coordinamento della sicurezza sociale tra il Regno Unito di Gran Bretagna e Irlanda del Nord e la Confederazione Svizzera, in vigore dal 1° gen. 2023 ([RU 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
 [^2-5]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
 [^2-6]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
 [^2-7]: Introdotta dal n. I dell’O del 22 mag. 2002, in vigore il 1° giu. 2002 ([RU 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)).
-[^2-8]: Introdotta dal n. I dell’O del 22 mag. 2002 ([RU 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)). Nuovo testo giusta il n. I dell’O del 2 nov. 2011, in vigore dal 1° apr. 2012 ([RU 2012 955](https://fedlex.data.admin.ch/eli/oc/2012/162)).
-[^2-9]: Introdotta dal n. I dell’O del 22 mag. 2002 ([RU 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)). Nuovo testo giusta il n. I dell’O del 6 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445)).
-[^2-10]: Introdotta dal n. I dell’O del 6 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445)).
-[^2-11]: Nuovo testo giusta il n. I dell’O del 22 mag. 2002, in vigore il 1° giu. 2002 ([RU 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)).
-[^2-12]: Abrogato dal n. I dell’O del 22 mag. 2002, con effetto dal 1° giu. 2002 ([RU 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)).
-[^2-13]: Nuovo testo giusta il n. I dell’O del 6 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445)).
-[^2-14]: Introdotto dal n. I dell’O del 25 nov. 1996 ([RU 1996 3139](https://fedlex.data.admin.ch/eli/oc/1996/3139_3139_3139)). Nuovo testo giusta il n. I dell’O del 3 lug. 2001, in vigore dal 1° giu. 2002 ([RU 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)).
-[^2-15]: Introdotto dal n. I dell’O del 3 lug. 2001 ([RU 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)). Abrogato dal n. I dell’O del 29 nov. 2013, con effetto dal 1° gen. 2014 ([RU 2013 4523](https://fedlex.data.admin.ch/eli/oc/2013/800)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
-[^2-16]: Introdotto dal n. I dell’O del 25 nov. 1996, in vigore dal 1° gen. 1997 ([RU 1996 3139](https://fedlex.data.admin.ch/eli/oc/1996/3139_3139_3139)).
-[^2-17]: Introdotto dal n. I dell’O del 3 lug. 2001 ([RU 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)). Nuovo testo giusta il n. I dell’O del 2 nov. 2011, in vigore dal 1° apr. 2012 ([RU 2012 955](https://fedlex.data.admin.ch/eli/oc/2012/162)).
-[^2-18]: Introdotto dal n. I dell’O del 3 lug. 2001 ([RU 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)). Nuovo testo giusta il n. I dell’O del 22 mag. 2002, in vigore il 1° giu. 2002 ([RU 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)).
-[^2-19]: Introdotto dal n. I dell’O del 3 lug. 2001, in vigore dal 1° giu. 2002 ([RU 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)).
+[^2-8]: Introdotta dal n. I dell’O del 22 mag. 2002 ([RU 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)). Nuovo testo giusta il n. I 1 dell’O del 26 ott. 2022 sulla modifica di ordinanze in materia di assicurazione malattie in attuazione della Convenzione sul coordinamento della sicurezza sociale tra il Regno Unito di Gran Bretagna e Irlanda del Nord e la Confederazione Svizzera, in vigore dal 1° gen. 2023 ([RU 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
+[^2-9]: [RS 0.831.109.367.2](https://fedlex.data.admin.ch/eli/cc/2021/818)
+[^2-10]: Introdotta dal n. I dell’O del 22 mag. 2002 ([RU 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)). Nuovo testo giusta il n. I dell’O del 6 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445)).
+[^2-11]: Introdotta dal n. I dell’O del 6 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445)).
+[^2-12]: Nuovo testo giusta il n. I dell’O del 22 mag. 2002, in vigore il 1° giu. 2002 ([RU 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)).
+[^2-13]: Abrogato dal n. I dell’O del 22 mag. 2002, con effetto dal 1° giu. 2002 ([RU 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)).
+[^2-14]: Nuovo testo giusta il n. I dell’O del 6 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445)).
+[^2-15]: Introdotto dal n. I dell’O del 25 nov. 1996 ([RU 1996 3139](https://fedlex.data.admin.ch/eli/oc/1996/3139_3139_3139)). Nuovo testo giusta il n. I dell’O del 3 lug. 2001, in vigore dal 1° giu. 2002 ([RU 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)).
+[^2-16]: Introdotto dal n. I dell’O del 3 lug. 2001 ([RU 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)). Abrogato dal n. I dell’O del 29 nov. 2013, con effetto dal 1° gen. 2014 ([RU 2013 4523](https://fedlex.data.admin.ch/eli/oc/2013/800)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
+[^2-17]: Introdotto dal n. I dell’O del 25 nov. 1996, in vigore dal 1° gen. 1997 ([RU 1996 3139](https://fedlex.data.admin.ch/eli/oc/1996/3139_3139_3139)).
+[^2-18]: Introdotto dal n. I dell’O del 3 lug. 2001 ([RU 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)). Nuovo testo giusta il n. I dell’O del 2 nov. 2011, in vigore dal 1° apr. 2012 ([RU 2012 955](https://fedlex.data.admin.ch/eli/oc/2012/162)).
+[^2-19]: Introdotto dal n. I dell’O del 3 lug. 2001 ([RU 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)). Nuovo testo giusta il n. I dell’O del 22 mag. 2002, in vigore il 1° giu. 2002 ([RU 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)).
+[^2-20]: Introdotto dal n. I dell’O del 3 lug. 2001, in vigore dal 1° giu. 2002 ([RU 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)).
 
 #### Art. 3
 
 **Frontalieri**
 
-<sup>1</sup> A loro domanda vengono assoggettati all’assicurazione svizzera i frontalieri che esercitano un’attività lucrativa in Svizzera non soggetti all’obbligo d’assicurazione ai sensi dell’articolo 1 capoverso 2 lettera d ed e nonché i loro familiari, purché non esercitino all’estero un’attività lucrativa per cui siano tenuti ad assicurarsi contro le malattie.[^3-1]
+<sup>1</sup> A loro domanda vengono assoggettati all’assicurazione svizzera i frontalieri che esercitano un’attività lucrativa in Svizzera non soggetti all’obbligo d’assicurazione ai sensi dell’articolo 1 capoverso 2 lettere d–e<sup>bis</sup> nonché i loro familiari, purché non esercitino all’estero un’attività lucrativa per cui siano tenuti ad assicurarsi contro le malattie.[^3-1]
 
 <sup>2</sup> Sono considerati familiari il coniuge e i figli che non hanno ancora compiuto i 18 anni come pure i figli in formazione che non hanno ancora compiuto i 25 anni.
 
-[^3-1]: Nuovo testo giusta il n. I dell’O del 22 mag. 2002, in vigore il 1° giu. 2002 ([RU 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)).
+[^3-1]: Nuovo testo giusta il n. I 1 dell’O del 26 ott. 2022 sulla modifica di ordinanze in materia di assicurazione malattie in attuazione della Convenzione sul coordinamento della sicurezza sociale tra il Regno Unito di Gran Bretagna e Irlanda del Nord e la Confederazione Svizzera, in vigore dal 1° gen. 2023 ([RU 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
 
 #### Art. 4
 
@@ -176,7 +186,7 @@ Le seguenti persone e i loro familiari che le accompagnano, ai sensi dell’arti
 
 <sup>3</sup> Le persone che hanno cessato di esercitare le loro funzioni presso beneficiari istituzionali secondo l’articolo 2 capoverso 1 lettere a, b, i o k della legge sullo Stato ospite sono, a domanda, esentati dall’obbligo d’assicurazione se beneficiano, per le cure in Svizzera, di una copertura assicurativa equivalente. Alla domanda va accluso un attestato scritto dell’organo competente del loro beneficiario istituzionale precedente che dia tutte le informazioni necessarie. L’interessato non può revocare l’esenzione o la rinuncia all’esenzione.[^6-4]
 
-<sup>4</sup> Le persone assicurate insieme a una persona secondo i capoversi 1 o 3 presso l’assicurazione malattie di un beneficiario istitutionale secondo l’articolo 2 capoverso 1 lettere a, b, i o k della legge sullo Stato ospite e che non fruiscono personalmente di privilegi o immunità sono, a domanda, esentate dall’obbligo d’assicurazione se beneficiano, per le cure in Svizzera, di una copertura assicurativa equivalente. Alla domanda va accluso un attestato scritto dell’organo competente del beneficiario istituzionale che dia tutte le informazioni necessarie. L’interessato non può revocare l’esenzione o la rinuncia all’esenzione.[^6-5]
+<sup>4</sup> Le persone assicurate insieme a una persona secondo i capoversi 1 o 3 presso l’assicurazione malattie di un beneficiario istituzionale secondo l’articolo 2 capoverso 1 lettere a, b, i o k della legge sullo Stato ospite e che non fruiscono personalmente di privilegi o immunità sono, a domanda, esentate dall’obbligo d’assicurazione se beneficiano, per le cure in Svizzera, di una copertura assicurativa equivalente. Alla domanda va accluso un attestato scritto dell’organo competente del beneficiario istituzionale che dia tutte le informazioni necessarie. L’interessato non può revocare l’esenzione o la rinuncia all’esenzione.[^6-5]
 
 [^6-1]: Nuovo testo giusta l’all. n. 15 dell’O del 7 dic. 2007 sullo Stato ospite, in vigore dal 1° gen. 2008 ([RU 2007 6657](https://fedlex.data.admin.ch/eli/oc/2007/861)).
 [^6-2]: Nuovo testo giusta il n. I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6723](https://fedlex.data.admin.ch/eli/oc/2017/749)).
@@ -221,7 +231,7 @@ Le seguenti persone e i loro familiari che le accompagnano, ai sensi dell’arti
 
 <sup>7</sup> Gli agenti della Confederazione in attività o in pensione ai sensi dell’articolo 2 capoverso 1 lettera a che escono dall’assicurazione militare devono assicurarsi per le cure medico-sanitarie presso un assicuratore designato nell’articolo 11[^7-10] della legge entro tre mesi dall’uscita dall’assicurazione militare. Se l’affiliazione è tempestiva, l’assicurazione inizia dall’uscita dall’assicurazione militare.
 
-<sup>8</sup> Le persone tenute ad assicurarsi ai sensi dell’articolo 1 capoverso 2 lettere d ed e devono assicurarsi entro tre mesi dalla nascita dell’obbligo d’assicurazione in Svizzera. Se si assicurano entro questo termine, l’assicurazione inizia dall’assoggettamento all’assicurazione svizzera. Se si assicurano più tardi, l’assicurazione inizia dalla data dell’affiliazione. L’assicurazione cessa se queste persone non adempiono più le condizioni per un assoggettamento all’assicurazione svizzera conformemente all’Accordo sulla libera circolazione delle persone[^7-11] e al relativo allegato II o all’Accordo AELS[^7-12], al relativo allegato K e all’appendice 2 dell’allegato K.[^7-13]
+<sup>8</sup> Le persone tenute ad assicurarsi ai sensi dell’articolo 1 capoverso 2 lettere d–e<sup>bis</sup> devono assicurarsi entro tre mesi dalla nascita dell’obbligo d’assicurazione in Svizzera. Se si assicurano entro questo termine, l’assicurazione inizia dall’assoggettamento all’assicurazione svizzera. Se si assicurano più tardi, l’assicurazione inizia dalla data dell’affiliazione. L’assicurazione cessa se queste persone non adempiono più le condizioni per un assoggettamento all’assicurazione svizzera conformemente all’Accordo sulla libera circolazione delle persone[^7-11] e al relativo allegato II, all’Accordo AELS[^7-12], al relativo allegato K e all’appendice 2 dell’allegato K o ad altri accordi internazionali.[^7-13]
 
 [^7-1]: Nuovo testo giusta il n. I dell’O del 26 apr. 2006, in vigore dal 10 mag. 2006 ([RU 2006 1717](https://fedlex.data.admin.ch/eli/oc/2006/269)).
 [^7-2]: Nuovo testo giusta il n. I dell’O del 22 mag. 2002, in vigore il 1° giu. 2002 ([RU 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)).
@@ -235,7 +245,7 @@ Le seguenti persone e i loro familiari che le accompagnano, ai sensi dell’arti
 [^7-10]: Dal 1° gen. 2016: art. 2 e 3 della legge del 16 set. 2014 sulla vigilanza sull’assicurazione malattie ([RS 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)).
 [^7-11]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
 [^7-12]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
-[^7-13]: Introdotto dal n. I dell’O del 3 lug. 2001 ([RU 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)). Nuovo testo giusta il n. I dell’O del 22 mag. 2002, in vigore il 1° giu. 2002 ([RU 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)).
+[^7-13]: Introdotto dal n. I dell’O del 3 lug. 2001 ([RU 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)). Nuovo testo giusta il n. I 1 dell’O del 26 ott. 2022 sulla modifica di ordinanze in materia di assicurazione malattie in attuazione della Convenzione sul coordinamento della sicurezza sociale tra il Regno Unito di Gran Bretagna e Irlanda del Nord e la Confederazione Svizzera, in vigore dal 1° gen. 2023 ([RU 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
 
 #### Art. 7a
 
@@ -285,15 +295,16 @@ Gli assicuratori informano per iscritto gli assicurati di cui all’articolo 6*a
 
 <sup>1</sup> I Cantoni informano periodicamente la popolazione circa l’obbligo d’assicurazione. Provvedono segnatamente affinché le persone provenienti dall’estero e i genitori di neonati siano informati tempestivamente.
 
-<sup>1bis</sup> Le informazioni sull’obbligo d’assicurazione destinate ai detentori di un permesso di soggiorno di breve durata, di un permesso di dimora o di un permesso di domicilio valgono parimenti per i loro familiari residenti in uno Stato membro dell’Unione europea, in Islanda o in Norvegia.[^10-1]
+<sup>1bis</sup> Le informazioni sull’obbligo d’assicurazione destinate ai detentori di un permesso di soggiorno di breve durata, di un permesso di dimora o di un permesso di domicilio valgono parimenti per i loro familiari in uno Stato membro dell’Unione europea, in Islanda, in Norvegia o nel Regno Unito[^10-1].[^10-2]
 
-<sup>2</sup> L’autorità cantonale competente decide delle domande di cui all’articolo 2 capoversi 3–5 e all’articolo 6 capoverso 3.[^10-2]
+<sup>2</sup> L’autorità cantonale competente decide delle domande di cui all’articolo 2 capoversi 3–5 e all’articolo 6 capoverso 3.[^10-3]
 
-<sup>3</sup> Gli assicuratori sociali preposti al pagamento delle rendite e gli organi dell’assicurazione contro la disoccupazione assistono i Cantoni nel compito d’informare circa l’obbligo d’assicurazione delle persone di cui all’articolo 6*a* capoverso 1 lettere b e c della legge.[^10-3]
+<sup>3</sup> Gli assicuratori sociali preposti al pagamento delle rendite e gli organi dell’assicurazione contro la disoccupazione assistono i Cantoni nel compito d’informare circa l’obbligo d’assicurazione delle persone di cui all’articolo 6*a* capoverso 1 lettere b e c della legge.[^10-4]
 
-[^10-1]: Introdotto dal n. I dell’O del 3 lug. 2001 ([RU 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)). Nuovo testo giusta il n. I dell’O del 2 nov. 2011, in vigore dal 1° apr. 2012 ([RU 2012 955](https://fedlex.data.admin.ch/eli/oc/2012/162)).
-[^10-2]: Nuovo testo giusta il n. I dell’O del 25 nov. 1996, in vigore dal 1° gen. 1997 ([RU 1996 3139](https://fedlex.data.admin.ch/eli/oc/1996/3139_3139_3139)).
-[^10-3]: Introdotto dal n. I dell’O del 3 lug. 2001, in vigore dal 1° giu. 2002 ([RU 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)).
+[^10-1]: Nuova espr. giusta il n. I 1 dell’O del 26 ott. 2022 sulla modifica di ordinanze in materia di assicurazione malattie in attuazione della Convenzione sul coordinamento della sicurezza sociale tra il Regno Unito di Gran Bretagna e Irlanda del Nord e la Confederazione Svizzera, in vigore dal 1° gen. 2023 ([RU 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)). Di detta mod. é tenuto conto il tutto il testo.
+[^10-2]: Introdotto dal n. I dell’O del 3 lug. 2001 ([RU 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)). Nuovo testo giusta il n. I dell’O del 2 nov. 2011, in vigore dal 1° apr. 2012 ([RU 2012 955](https://fedlex.data.admin.ch/eli/oc/2012/162)).
+[^10-3]: Nuovo testo giusta il n. I dell’O del 25 nov. 1996, in vigore dal 1° gen. 1997 ([RU 1996 3139](https://fedlex.data.admin.ch/eli/oc/1996/3139_3139_3139)).
+[^10-4]: Introdotto dal n. I dell’O del 3 lug. 2001, in vigore dal 1° giu. 2002 ([RU 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)).
 
 ### Capitolo 2: Sospensione dell’obbligo d’assicurazione e della copertura dell’infortunio
 
@@ -366,19 +377,21 @@ Gli assicuratori informano per iscritto gli assicurati di cui all’articolo 6*a
 
 <sup>2</sup>
 
-L’istituzione comune assume inoltre compiti di coordinamento per l’adempimento degli obblighi di cui all’articolo 95*a* della legge. Adempie segnatamente i compiti seguenti:
+L’istituzione comune assume inoltre compiti di coordinamento per l’adempimento degli obblighi derivanti dall’articolo 95*a* della legge o da convenzioni internazionali. Adempie segnatamente i compiti seguenti:[^19-3]
 
-- a. stabilisce, in base alle statistiche dei costi riconosciuti dall’organo competente dell’Unione europea (Commissione amministrativa per il coordinamento dei sistemi di sicurezza sociale) o in base alle statistiche dello Stato considerato, le aliquote pro capite che gli assicuratori devono considerare per il calcolo dei premi degli assicurati residenti in uno Stato membro dell’Unione europea, in Islanda o in Norvegia;
-- b. appronta entro il 31 maggio un rapporto all’attenzione dell’UFSP sull’esecuzione dell’assistenza reciproca in materia di prestazioni, evidenziando il numero di casi, i costi complessivi e i rimborsi arretrati; i dati vanno differenziati per ogni singolo Stato membro dell’Unione europea, per l’Islanda, per la Norvegia e per ogni singolo assicuratore svizzero.[^19-3]
+- a. stabilisce, in base alle statistiche dei costi riconosciuti dall’organo competente dell’Unione europea (Commissione amministrativa per il coordinamento dei sistemi di sicurezza sociale) o in base alle statistiche dello Stato considerato, le aliquote pro capite che gli assicuratori devono considerare per il calcolo dei premi degli assicurati residenti in uno Stato membro dell’Unione europea, in Islanda, in Norvegia o nel Regno Unito;
+- b.[^19-4] appronta entro il 31 maggio un rapporto all’attenzione dell’UFSP sull’esecuzione dell’assistenza reciproca in materia di prestazioni, evidenziando il numero di casi, i costi complessivi e i rimborsi arretrati; i dati vanno differenziati per ogni singolo Stato membro dell’Unione europea, per l’Islanda, per la Norvegia, per il Regno Unito e per ogni singolo assicuratore svizzero.[^19-5]
 
-<sup>3</sup> I costi inerenti l’esecuzione dei compiti che l’istituzione comune adempie in qualità di istituzione d’assistenza reciproca come pure quelli inerenti il rapporto di cui al capoverso 2 lettera b sono assunti dagli assicuratori proporzionalmente al numero di persone che assicurano a titolo obbligatorio per le cure medico-sanitarie. La Confederazione assume gli interessi maturati in seguito al prefinanziamento dell’assistenza reciproca in materia di prestazioni, i costi dei compiti che l’istituzione comune svolge in qualità di organo di collegamento, come pure i costi per i calcoli di cui al capoverso 2 lettera a.[^19-4]
+<sup>3</sup> I costi inerenti l’esecuzione dei compiti che l’istituzione comune adempie in qualità di istituzione d’assistenza reciproca come pure quelli inerenti il rapporto di cui al capoverso 2 lettera b sono assunti dagli assicuratori proporzionalmente al numero di persone che assicurano a titolo obbligatorio per le cure medico-sanitarie. La Confederazione assume gli interessi maturati in seguito al prefinanziamento dell’assistenza reciproca in materia di prestazioni, i costi dei compiti che l’istituzione comune svolge in qualità di organo di collegamento, come pure i costi per i calcoli di cui al capoverso 2 lettera a.[^19-6]
 
 <sup>4</sup> Se, giusta l’articolo 42 capoverso 2 della legge, assicuratori e fornitori di prestazioni hanno stabilito per convenzione che l’assicuratore è il debitore della rimunerazione, l’istituzione comune è assimilata, nell’esecuzione dell’assistenza reciproca in materia di prestazioni, agli assicuratori convenzionati.
 
 [^19-1]: Nuovo testo giusta il n. I dell’O del 3 lug. 2001, in vigore dal 1° giu. 2002 ([RU 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)).
 [^19-2]: Nuovo testo giusta il n. I dell’O del 6 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445)).
-[^19-3]: Nuovo testo giusta il n. I dell’O del 2 nov. 2011, in vigore dal 1° apr. 2012 ([RU 2012 955](https://fedlex.data.admin.ch/eli/oc/2012/162)).
-[^19-4]: Nuovo testo giusta il n. I dell’O del 2 nov. 2011, in vigore dal 1° apr. 2012 ([RU 2012 955](https://fedlex.data.admin.ch/eli/oc/2012/162)).
+[^19-3]: Nuovo testo giusta il n. I 1 dell’O del 26 ott. 2022 sulla modifica di ordinanze in materia di assicurazione malattie in attuazione della Convenzione sul coordinamento della sicurezza sociale tra il Regno Unito di Gran Bretagna e Irlanda del Nord e la Confederazione Svizzera, in vigore dal 1° gen. 2023 ([RU 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
+[^19-4]: Nuovo testo giusta il n. I 1 dell’O del 26 ott. 2022 sulla modifica di ordinanze in materia di assicurazione malattie in attuazione della Convenzione sul coordinamento della sicurezza sociale tra il Regno Unito di Gran Bretagna e Irlanda del Nord e la Confederazione Svizzera, in vigore dal 1° gen. 2023 ([RU 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
+[^19-5]: Nuovo testo giusta il n. I dell’O del 2 nov. 2011, in vigore dal 1° apr. 2012 ([RU 2012 955](https://fedlex.data.admin.ch/eli/oc/2012/162)).
+[^19-6]: Nuovo testo giusta il n. I dell’O del 2 nov. 2011, in vigore dal 1° apr. 2012 ([RU 2012 955](https://fedlex.data.admin.ch/eli/oc/2012/162)).
 
 #### Art. 19a
 
@@ -471,7 +484,11 @@ L’istituzione comune statuisce pronunciando una decisione ai sensi dell’arti
 
 [^27-1]: Nuovo testo giusta il n. II 95 dell’O dell’8 nov. 2006 concernente l’adeguamento di ordinanze del Consiglio federale alla revisione totale dell’organizzazione giudiziaria federale, in vigore dal 1° gen. 2007 ([RU 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
 
-### Sezione 3: Dati relativi alla vigilanza
+### Sezione 3: Dati
+
+[^part1-tit2-chap5-sec3-1]
+
+[^part1-tit2-chap5-sec3-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 814](https://fedlex.data.admin.ch/eli/oc/2022/814)).
 
 #### Art. 28
 
@@ -479,47 +496,59 @@ L’istituzione comune statuisce pronunciando una decisione ai sensi dell’arti
 
 <sup>1</sup>
 
-I dati che devono essere comunicati dagli assicuratori conformemente all’articolo 35 capoverso 2 LVAMal[^28-2] servono a:[^28-3]
+Per adempiere i compiti di cui all’articolo 21 capoverso 2 lettere a–c LAMal, gli assicuratori comunicano regolarmente all’UFSP i seguenti dati di ogni assicurato:
 
-- a.[^28-4] verificare l’applicazione uniforme della legge e della LVAMal;
-- b. analizzare l’evoluzione dei costi;
-- c. controllare l’economicità delle prestazioni fornite (controllo statistico dei costi secondo il sesso, l’età, il domicilio, i fornitori di prestazioni);
-- d. garantire la parità di trattamento degli assicurati;
-- e. garantire che le differenze di premio corrispondano alle differenze dei costi cantonali e regionali e che le risorse dell’assicurazione sociale siano utilizzate esclusivamente per i suoi scopi;
-- f. approntare le basi decisionali per eseguire i provvedimenti ordinari o straordinari previsti dalla legge, intesi ad arginare l’evoluzione dei costi;
-- g.[^28-5] analizzare gli effetti della legge e della LVAMal e predisporre le basi decisionali per le modifiche della legge e della sua relativa esecuzione che si rendessero necessarie.
+- a.
 
-<sup>2</sup> L’UFSP provvede affinché la fornitura dei dati provochi agli assicuratori il minore aggravio di lavoro possibile. Per ridurre tale aggravio può, previa anonimizzazione dei dati, collegare questi ultimi con altre fonti di dati. Mette a disposizione degli organismi preposti all’esecuzione della LVAMal e della legge i risultati delle rilevazioni.[^28-6]
+  dati sociodemografici:
 
-<sup>3</sup>
+  - 1\. il codice di collegamento,
+  - 2\. l’età, il sesso e il domicilio,
+  - 3\. il gruppo di rischio secondo l’articolo 11 dell’ordinanza del 19 ottobre 2016[^28-2] sulla compensazione dei rischi nell’assicurazione malattie (OCoR) e la ripartizione dell’assicurato in un gruppo di costo farmaceutico secondo l’articolo 12 OCoR;
 
-Gli assicuratori comunicano annualmente all’UFSP, in particolare, i seguenti dati di ogni assicurato:
+- b.
 
-- a. l’età, il sesso e il domicilio;
-- b. le ammissioni, le dimissioni e i decessi;
-- c. i rami d’assicurazione sottoscritti nell’ambito dell’assicurazione sociale malattie, con indicazione dell’ammontare dei premi e della franchigia;
-- d. l’entità, il genere, le posizioni tariffali e i costi delle prestazioni previste dalla legge che risultano dalle fatture ricevute durante un intero anno;
-- e. i fornitori delle prestazioni;
-- f. l’ammontare riscosso della partecipazione ai costi.
+  informazioni sulla copertura assicurativa:
 
-<sup>3bis</sup> ...[^28-7]
+  - 1\. l’inizio e la fine del periodo di copertura,
+  - 2\. le caratteristiche dei premi, quali il raggio d’attività territoriale dell’assicuratore, la regione di premio, la categoria delle forme particolari d’assicurazione di cui agli articoli 93–101, la forma di assicurazione, la denominazione del modello e la sua abbreviazione, l’appartenenza dell’assicurato a un’economia domestica con più minorenni o giovani adulti, il grado di premi nell’assicurazione con bonus, l’ammontare della franchigia e la copertura dell’infortunio,
+  - 3\. l’ammontare del premio con e senza il contributo del Cantone, il supplemento di premio di cui all’articolo 8, le riduzioni di premi e altri ribassi,
+  - 4\. l’indicazione se la copertura assicurativa di cui all’articolo 3 capoverso 4 LAMal sia sospesa o meno,
+  - 5\. l’indicazione se l’assicurato sia assoggettato alla compensazione dei rischi o meno,
+  - 6\. i motivi del cambiamento riferiti alla copertura assicurativa, quali ammissione e dimissione, nascita, decesso, cambiamento d’assicuratore e cambiamento interno,
+  - 7\. i costi complessivi delle prestazioni rimunerate e la partecipazione ai costi,
+  - 8\. per gli assicurati con una dimissione in uno degli anni precedenti: la data di dimissione;
 
-<sup>4</sup> Forniscono all’UFSP i dati di cui al capoverso 3 mediante supporti elettronici. Possono, su richiesta, esserne dispensati dall’UFSP per un periodo limitato se non dispongono dei mezzi tecnici adeguati.
+- c. indicazioni dei giustificativi di conteggio relative ai periodi di copertura secondo la lettera b;
+  - 1\. il numero di giustificativo in forma pseudonimizzata,
+  - 2\. la data del conteggio,
+  - 3\. l’inizio e la fine del trattamento,
+  - 4\. i costi complessivi delle prestazioni rimunerate e la partecipazione ai costi,
+  - 5\. indicazioni sul fornitore di prestazioni, come il numero di registro dei codici creditori o il numero d’identificazione (*Global Location Number*, GLN),
+  - 6\. il campo delle prestazioni, come malattia, prevenzione, infermità congenite, infortunio e maternità,
+  - 7\. il genere della prestazione, come il tipo di terapia, di tariffa e di costo,
+  - 8\. l’ammontare dell’importo fatturato, dell’importo rimunerato, della quota di franchigia e dell’aliquota percentuale,
+  - 9\. in caso di prestazioni ospedaliere: il contributo ai costi di degenza ospedaliera e la durata della degenza,
+  - 10\. in caso di prestazioni ambulatoriali: il numero delle consultazioni.
 
-<sup>5</sup> Gli assicuratori forniscono tempestivamente i dati secondo il capoverso 3 in modo corretto, completo e a proprie spese. L’UFSP è responsabile affinché, nell’ambito dell’utilizzazione e del collegamento dei dati, sia salvaguardato l’anonimato degli assicurati.[^28-8]
+<sup>2</sup> Gli assicuratori forniscono all’UFSP tutti i dati da comunicare, in forma aggregata o per ogni assicurato, in formato elettronico. In caso di adeguamento delle rilevazioni possono, su richiesta, esserne dispensati dall’UFSP per un periodo limitato se mancano i mezzi tecnici adeguati.
 
-<sup>6</sup> Comunicano annualmente all’UFSP, a proprie spese e in modo completo, i dati del registro del codice creditori.
+<sup>3</sup> Gli assicuratori forniscono all’UFSP i dati di cui al capoverso 2 in modo corretto, completo, tempestivo e a proprie spese.
 
-<sup>7</sup> L’UFSP, consultati gli assicuratori, stabilisce direttive sulle misure di cui ai capoversi 1–6.
+<sup>4</sup> Gli assicuratori comunicano regolarmente all’UFSP, a proprie spese, i dati completi del registro dei codici creditori.
 
-[^28-1]: Nuovo testo giusta il n. I dell’O del 22 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 5097](https://fedlex.data.admin.ch/eli/oc/2008/708)).
-[^28-2]: [RS 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
-[^28-3]: Nuovo testo giusta l’art. 31 dell’O del 19 ott. 2016 sulla compensazione dei rischi nell’assicurazione malattie, in vigore dal 1° gen. 2020 ([RU 2016 4059](https://fedlex.data.admin.ch/eli/oc/2016/674)).
-[^28-4]: Nuovo testo giusta l’all. n. 3 dell’O del 18 nov. 2015 sulla vigilanzasull’assicurazione malattie, in vigore dal 1° gen. 2016 ([RU 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)).
-[^28-5]: Nuovo testo giusta l’all. n. 3 dell’O del 18 nov. 2015 sulla vigilanza sull’assicurazione malattie, in vigore dal 1° gen. 2016 ([RU 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)).
-[^28-6]: Nuovo testo giusta l’all. n. 3 dell’O del 18 nov. 2015 sulla vigilanza sull’assicurazione malattie, in vigore dal 1° gen. 2016 ([RU 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)).
-[^28-7]: Introdotto dal n. I dell’O del 1° feb. 2017, in vigore dal 1° mar. 2017 fino al 31 dic. 2020 ([RU 2017 623](https://fedlex.data.admin.ch/eli/oc/2017/106), [2019 4771](https://fedlex.data.admin.ch/eli/oc/2019/786)).
-[^28-8]: Nuovo testo giusta il n. I dell’O del 29 giu. 2016, in vigore dal 1° ago. 2016 ([RU 2016 2689](https://fedlex.data.admin.ch/eli/oc/2016/429))
+<sup>5</sup> L’UFSP provvede affinché la fornitura dei dati provochi agli assicuratori il minore aggravio di lavoro possibile.
+
+<sup>6</sup> Per ridurre tale aggravio, l’UFSP può collegare i dati di cui al capoverso 1 con altre fonti di dati, laddove questo risulti necessario per adempiere i propri compiti di cui all’articolo 21 capoverso 2 lettere a–c LAMal. Per adempiere ulteriori compiti, può collegare i dati di cui al capoverso 1 con altre fonti di dati, soltanto se tali dati sono stati anonimizzati.
+
+<sup>7</sup> L’UFSP, consultati gli assicuratori, stabilisce direttive sulle misure di cui ai capoversi 1–4.
+
+<sup>8</sup> L’utilizzazione dei dati ai sensi dell’articolo 21 capoverso 3 LAMal comprende qualsiasi forma di trattamento degli stessi in virtù del diritto in materia di protezione dei dati della Confederazione, compresa la loro comunicazione.
+
+<sup>9</sup> L’UFSP mette a disposizione degli organismi preposti all’esecuzione della LAMal i risultati delle rilevazioni effettuate con i dati di cui al capoverso 2. Assicura che l’anonimato degli assicurati resti garantito.
+
+[^28-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 814](https://fedlex.data.admin.ch/eli/oc/2022/814)).
+[^28-2]: [RS 832.112.1](https://fedlex.data.admin.ch/eli/cc/2016/674)
 
 #### Art. 28a
 
@@ -531,11 +560,18 @@ Gli assicuratori comunicano annualmente all’UFSP, in particolare, i seguenti d
 
 **Pubblicazione dei dati degli assicuratori**[^28b-1]
 
-<sup>1</sup> L’UFSP pubblica i dati di cui all’articolo 28 in modo da fornire informazioni segnatamente sulle forme d’assicurazione, le prestazioni e i costi suddivisi secondo l’età, il sesso e la regione come pure secondo le categorie di fornitori di prestazioni, d’istituti e di cure.
+<sup>1</sup> L’UFSP pubblica i dati di cui all’articolo 28 salvaguardando l’anonimato degli assicurati e li mette a disposizione in formato elettronico su un portale della Confederazione per la pubblicazione di dati.
 
 <sup>2</sup>
 
-L’UFSP pubblica per assicuratore i seguenti dati relativi all’assicurazione malattie sociale:
+L’UFSP provvede:
+
+- a. a fornire informazioni riguardanti segnatamente la forma di assicurazione, le prestazioni dell’assicurazione e i costi suddivisi secondo l’età, il sesso e la regione come pure secondo le categorie di fornitori di prestazioni, d’istituti e di cure;
+- b. affinché i dati pubblicati di ogni assicurato non permettano di risalire agli assicuratori.
+
+<sup>3</sup>
+
+L’UFSP pubblica per assicuratore segnatamente i seguenti dati relativi all’assicurazione sociale malattie:
 
 - a. entrate e uscite;
 - b. risultato per assicurato;
@@ -546,9 +582,28 @@ L’UFSP pubblica per assicuratore i seguenti dati relativi all’assicurazione 
 - g. costi amministrativi;
 - h. effettivo degli assicurati;
 - i. premi;
-- j. bilancio e conto d’esercizio
+- j. bilancio e conto d’esercizio.
 
-[^28b-1]: Introdotto dal n. I dell’O del 22 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 5097](https://fedlex.data.admin.ch/eli/oc/2008/708)).
+[^28b-1]: Introdotto dal n. I dell’O del 22 ott. 2008 ([RU 2008 5097](https://fedlex.data.admin.ch/eli/oc/2008/708)). Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 814](https://fedlex.data.admin.ch/eli/oc/2022/814)).
+
+#### Art. 28c
+
+**Domanda di utilizzazione particolare**[^28c-1]
+
+<sup>1</sup> Chiunque, per un’utilizzazione particolare, necessita oltre ai dati pubblicati secondo l’articolo 28*b* anche di ulteriori dati o di dati in un’altra forma può farne domanda all’UFSP.
+
+<sup>2</sup> L’UFSP esamina la domanda tenendo conto del diritto in materia di protezione dei dati. Effettua una verifica individuale e materiale di ciascun caso e decide, in particolare nell’ottica del rischio di reidentificazione dell’assicurato, se i dati possono essere trasmessi. Se tale rischio sussiste, esamina quali dati per ogni assicurato o in forma aggregata possono essere trasmessi e con quale grado di dettaglio. Assicura il rispetto del segreto d’ufficio e può subordinare la trasmissione dei dati alla conclusione di un contratto sulla protezione dei dati.
+
+<sup>3</sup> Dopo una verifica individuale e materiale di ciascun caso, l’UFSP può mettere regolarmente a disposizione degli organismi preposti all’esecuzione della LAMal i dati rilevati di cui all’articolo 28 capoverso 1, se garantisce che l’anonimato degli assicurati resti garantito e i dati siano necessari per l’adempimento dei propri compiti secondo la LAMal. Può subordinare la trasmissione dei dati alla conclusione di un contratto sulla protezione dei dati.
+
+<sup>4</sup> Pubblica regolarmente i nomi dei destinatari dei dati di cui ai capoversi 2 e 3.
+
+<sup>5</sup> Trasmette i dati secondo le proprie possibilità tecniche, organizzative e personali.
+
+<sup>6</sup> Per il trattamento della domanda può riscuotere una tassa. Essa è commisurata al tempo impiegato, ma non può superare i 10 000 franchi. La tariffa oraria oscilla tra 90 e 200 franchi a seconda della competenza specifica richiesta e della classe di funzione del personale incaricato. Per il rimanente si applicano le disposizioni dell’ordinanza generale dell’8 settembre 2004[^28c-2] sugli emolumenti.
+
+[^28c-1]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 814](https://fedlex.data.admin.ch/eli/oc/2022/814)).
+[^28c-2]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
 
 #### Art. 29
 
@@ -780,13 +835,12 @@ La valutazione dell’efficacia, dell’appropriatezza e dell’economicità del
 
 <sup>3</sup> L’assicurazione obbligatoria delle cure medico-sanitarie assume, nei limiti dell’articolo 29 della legge, i costi del parto effettuato all’estero se questo costituisce la sola possibilità di procurare al figlio la nazionalità della madre o del padre oppure nel caso in cui il figlio, se nascesse in Svizzera, risulterebbe apolide.
 
-<sup>4</sup> Le prestazioni di cui ai capoversi 1 e 2 e i trattamenti dispensati all’estero ai frontalieri, ai lavoratori distaccati all’estero e alle persone al servizio di una collettività pubblica, come pure ai loro familiari (art. 3 a 5), sono assunti al massimo fino a un importo pari al doppio del corrispettivo rimborso in Svizzera e, nei casi di cui al capoverso 3, per un importo pari a quello in Svizzera. Per gli assicurati di cui agli articoli 4 e 5, la rimunerazione è effettuata in base alle tariffe e ai prezzi valevoli nel loro ultimo luogo di domicilio in Svizzera. Se ad assicurati ai sensi dell’articolo 1 capoverso 2 lettere d ed e vengono dispensate cure difformemente dalle regole dell’assistenza reciproca internazionale in materia di prestazioni, i costi vengono assunti secondo le tariffe ed i prezzi praticati nel loro ultimo luogo di residenza o di lavoro; non potendosi determinare alcuno di questi luoghi, i costi saranno assunti secondo le tariffe ed i prezzi del Cantone di domicilio dell’assicuratore.[^36-1]<sup>,</sup> [^36-2]
+<sup>4</sup> Le prestazioni di cui ai capoversi 1 e 2 e i trattamenti dispensati all’estero ai frontalieri, ai lavoratori distaccati all’estero e alle persone al servizio di una collettività pubblica, come pure ai loro familiari (art. 3 a 5), sono assunti al massimo fino a un importo pari al doppio del corrispettivo rimborso in Svizzera e, nei casi di cui al capoverso 3, per un importo pari a quello in Svizzera. Per gli assicurati di cui agli articoli 4 e 5, la rimunerazione è effettuata in base alle tariffe e ai prezzi valevoli nel loro ultimo luogo di domicilio in Svizzera. Se ad assicurati ai sensi dell’articolo 1 capoverso 2 lettere d–e<sup>bis</sup> vengono dispensate cure difformemente dalle regole dell’assistenza reciproca internazionale in materia di prestazioni, i costi vengono assunti secondo le tariffe ed i prezzi praticati nel loro ultimo luogo di residenza o di lavoro; non potendosi determinare alcuno di questi luoghi, i costi saranno assunti secondo le tariffe ed i prezzi del Cantone di domicilio dell’assicuratore.[^36-1]
 
-<sup>5</sup> Sono salve le disposizioni sull’assistenza reciproca internazionale in materia di prestazioni.[^36-3]
+<sup>5</sup> Sono salve le disposizioni sull’assistenza reciproca internazionale in materia di prestazioni.[^36-2]
 
-[^36-1]: Per. introdotto dal n. I dell’O del 3 lug. 2001 ([RU 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)). Nuovo testo giusta il n. I dell’O del 22 mag. 2002, in vigore il 1° giu. 2002 ([RU 2002 1633](https://fedlex.data.admin.ch/eli/oc/2002/251)).
-[^36-2]: Nuovo testo giusta il n. I dell’O del 15 giu. 1998, in vigore dal 1° ago. 1998 ([RU 1998 1818](https://fedlex.data.admin.ch/eli/oc/1998/1818_1818_1818)).
-[^36-3]: Introdotto dal n. I dell’O del 3 lug. 2001, in vigore dal 1° giu. 2002 ([RU 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)).
+[^36-1]: Nuovo testo giusta il n. I 1 dell’O del 26 ott. 2022 sulla modifica di ordinanze in materia di assicurazione malattie in attuazione della Convenzione sul coordinamento della sicurezza sociale tra il Regno Unito di Gran Bretagna e Irlanda del Nord e la Confederazione Svizzera, in vigore dal 1° gen. 2023 ([RU 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
+[^36-2]: Introdotto dal n. I dell’O del 3 lug. 2001, in vigore dal 1° giu. 2002 ([RU 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)).
 
 #### Art. 36a
 
@@ -815,7 +869,7 @@ Il programma deve adempiere le esigenze seguenti:
 
 <sup>1</sup> Il Cantone di riferimento di cui all’articolo 41 capoverso 2<sup>ter</sup> LAMal è il Cantone di Berna.
 
-<sup>2</sup> Se gli assicurati che risiedono in uno Stato membro dell’Unione europea, in Islanda o in Norvegia e percepiscono una rendita svizzera o i loro familiari si avvalgono di cure ospedaliere in Svizzera, gli assicuratori versano all’ospedale la loro quotaparte nonché la quotaparte cantonale stabilita conformemente all’articolo 49*a* capoverso 3<sup>bis</sup> primo periodo LAMal come prestazione anticipata. Per ottenere il rimborso della prestazione anticipata, gli assicuratori presentano all’istituzione comune i loro crediti nei confronti dei Cantoni.
+<sup>2</sup> Se gli assicurati che risiedono in uno Stato membro dell’Unione europea, in Islanda, in Norvegia o nel Regno Unito e percepiscono una rendita svizzera o i loro familiari si avvalgono di cure ospedaliere in Svizzera, gli assicuratori versano all’ospedale la loro quotaparte nonché la quotaparte cantonale stabilita conformemente all’articolo 49*a* capoverso 3<sup>bis</sup> primo periodo LAMal come prestazione anticipata. Per ottenere il rimborso della prestazione anticipata, gli assicuratori presentano all’istituzione comune i loro crediti nei confronti dei Cantoni.
 
 [^36b-1]: Introdotto dal n. I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2019 ([RU 2017 6723](https://fedlex.data.admin.ch/eli/oc/2017/749)).
 
@@ -823,9 +877,9 @@ Il programma deve adempiere le esigenze seguenti:
 
 **Assunzione dei costi in caso di assistenza reciproca internazionale in materia di prestazioni per persone assicurate all’estero**[^37-1]
 
-Se le persone che risiedono in uno Stato membro dell’Unione europea, in Islanda, nel Liechtenstein o in Norvegia e che durante un soggiorno in Svizzera hanno diritto all’assistenza reciproca internazionale in materia di prestazioni giusta l’articolo 95*a* LAMal si avvalgono di cure ospedaliere in Svizzera in un ospedale figurante nell’elenco, l’assicuratore estero assume le rimunerazioni fatturate secondo l’articolo 49 capoverso 1 LAMal.
+Se le persone che risiedono in uno Stato membro dell’Unione europea, in Islanda, nel Liechtenstein, in Norvegia o nel Regno Unito e che durante un soggiorno in Svizzera hanno diritto all’assistenza reciproca internazionale in materia di prestazioni in base all’articolo 95*a* LAMal o a convenzioni internazionali si avvalgono di cure ospedaliere in Svizzera in un ospedale figurante nell’elenco, l’assicuratore estero assume le rimunerazioni fatturate secondo l’articolo 49 capoverso 1 LAMal.
 
-[^37-1]: Nuovo testo giusta il n. I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2019 ([RU 2017 6723](https://fedlex.data.admin.ch/eli/oc/2017/749)).
+[^37-1]: Nuovo testo giusta il n. I 1 dell’O del 26 ott. 2022 sulla modifica di ordinanze in materia di assicurazione malattie in attuazione della Convenzione sul coordinamento della sicurezza sociale tra il Regno Unito di Gran Bretagna e Irlanda del Nord e la Confederazione Svizzera, in vigore dal 1° gen. 2023 ([RU 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
 
 ### Capitolo 3: Commissioni
 
@@ -901,6 +955,7 @@ La Commissione federale delle prestazioni generali e delle questioni fondamental
 - f. due rappresentanti degli assicurati;
 - g. un rappresentante dei Cantoni;
 - h. un rappresentante della Commissione delle analisi, dei mezzi e degli apparecchi;
+
 - i. un docente di analisi di laboratorio (perito scientifico);
 - j. due rappresentanti dell’etica medica;
 - k. un rappresentante dell’industria della tecnica medica.[^37d-3]
@@ -1295,16 +1350,17 @@ Gli psicologi psicoterapeuti sono autorizzati se adempiono le seguenti condizion
 
   avere acquisito un’esperienza clinica di tre anni, di cui almeno 12 mesi presso un istituto che offre trattamenti di psicoterapia e psichiatria e disporre di uno dei seguenti riconoscimenti dell’Istituto svizzero per la formazione medica (ISFM):
 
-  - 1\. centro di perfezionamento professionale ambulatoriale o stazionario di categoria A o B secondo il programma di perfezionamento professionale «Specialista in psichiatria e psicoterapia» del 1° luglio 2009[^50c-3] nella versione del 15 dicembre 2016,
-  - 2\. centro di perfezionamento professionale di categoria A, B o C secondo il programma di perfezionamento professionale «Specialista in psichiatria e psicoterapia infantile e adolescenziale» del 1° luglio 2006[^50c-4] nella versione del 20 dicembre 2018;
+  - 1\.[^50c-3] centro di perfezionamento professionale ambulatoriale o ospedaliero di categoria A, B o C secondo il programma di perfezionamento professionale «Specialista in psichiatria e psicoterapia» del 1° luglio 2009[^50c-4] nella versione del 15 dicembre 2016,
+  - 2\. centro di perfezionamento professionale di categoria A, B o C secondo il programma di perfezionamento professionale «Specialista in psichiatria e psicoterapia infantile e adolescenziale» del 1° luglio 2006[^50c-5] nella versione del 20 dicembre 2018;
 
 - c. esercitare a titolo indipendente e per conto proprio;
 - d. dimostrare che adempiono i requisiti di qualità definiti nell’articolo 58*g.*
 
 [^50c-1]: Introdotto dal n. I dell’O del 19 mar. 2021 ([RU 2021 188](https://fedlex.data.admin.ch/eli/oc/2021/188)). Nuovo testo giusta il n. I dell’O del 23 giu. 2021, in vigore dal 1° lug. 2022 ([RU 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 [^50c-2]: [RS 935.81](https://fedlex.data.admin.ch/eli/cc/2012/268)
-[^50c-3]: Il documento può essere consultato al seguente indirizzo Internet: www.ufsp.admin.ch/ref.
+[^50c-3]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 814](https://fedlex.data.admin.ch/eli/oc/2022/814)).
 [^50c-4]: Il documento può essere consultato al seguente indirizzo Internet: www.ufsp.admin.ch/ref.
+[^50c-5]: Il documento può essere consultato al seguente indirizzo Internet: www.ufsp.admin.ch/ref.
 
 #### Art. 50d
 
@@ -1751,12 +1807,12 @@ I fornitori di prestazioni devono fornire nelle loro fatture tutte le indicazion
 
 <sup>3</sup> Per le analisi, la fatturazione al debitore della rimunerazione è effettuata esclusivamente dal laboratorio che ha eseguito l’analisi. Le tariffe forfettarie secondo l’articolo 49 della legge rimangono salve.
 
-<sup>4</sup> ...[^59-4]
+<sup>4</sup> I fornitori di prestazioni assicurano che le loro fatture siano chiare per gli assicurati e che in particolare indichino in modo comprensibile il genere, la durata e il contenuto delle cure. [^59-4]
 
 [^59-1]: Nuovo testo giusta il n. I dell’O del 4 lug. 2012, in vigore dal 1° gen. 2013 ([RU 2012 4089](https://fedlex.data.admin.ch/eli/oc/2012/474)).
 [^59-2]: [RS 832.105](https://fedlex.data.admin.ch/eli/cc/2007/101)
 [^59-3]: Nuova espr. giusta l’all. n. II 36 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
-[^59-4]: Abrogato dal n. I dell’O del 3 dic. 2021, con effetto dal 1° gen. 2022 ([RU 2021 838](https://fedlex.data.admin.ch/eli/oc/2021/838)).
+[^59-4]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 814](https://fedlex.data.admin.ch/eli/oc/2022/814)).
 
 #### Art. 59a
 
@@ -1867,6 +1923,85 @@ Le parti contraenti sottopongono la convenzione tariffale all’approvazione del
 <sup>3</sup> Per la ripartizione del finanziamento del contributo per ogni caso è applicabile per analogia l’articolo 49*a* capoversi 1 e 2 della legge.
 
 [^59e-1]: Introdotto dal n. I dell’O del 22 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 5097](https://fedlex.data.admin.ch/eli/oc/2008/708)). Vedi anche le disp. fin. di detta mod. alla fine del presente testo.
+
+#### Art. 59f
+
+**Comunicazione dei dati sulle tariffe nel settore delle cure ambulatoriali**[^59f-1]
+
+<sup>1</sup>
+
+L’obbligo di comunicazione dei dati secondo l’articolo 47*b* capoverso 1 LAMal comprende i seguenti dati:
+
+- a.
+
+  dati generali sull’attività, segnatamente:
+
+  - 1\. tipo di impresa, compresa la forma giuridica,
+  - 2\. sedi,
+  - 3\. infrastruttura medico-tecnica,
+  - 4\. periodo di operatività annuale;
+
+- b.
+
+  dati sull’effettivo del personale dell’impresa, segnatamente:
+
+  - 1\. numero di fornitori di prestazioni, suddiviso per categorie di cui all’articolo 35 capoverso 2 LAMal e in base alla specializzazione, nonché rimanente personale,
+  - 2\. indicazioni sul volume di occupazione dei fornitori di prestazioni, suddivise per categorie di cui all’articolo 35 capoverso 2 LAMal e in base alla specializzazione, nonché del rimanente personale;
+
+- c. tipo di prestazioni, esami e cure;
+- d.
+
+  costi di produzione delle prestazioni, segnatamente:
+
+  - 1\. spese per il personale per categoria di personale, compresa la previdenza professionale comprovata separatamente,
+  - 2\. costi e quantità del materiale,
+  - 3\. costi per l’uso di spazi e superficie degli spazi,
+  - 4\. costi del capitale nonché capitale proprio e capitale di terzi,
+  - 5\. ammortamenti e immobilizzazioni,
+  - 6\. spese per investimenti;
+
+- e. informazioni quantitative sull’imputazione dei costi di produzione alle singole prestazioni in base al modello di costi, e in particolare durata della prestazione e numero di pazienti;
+- f. evoluzione dei costi a carico dell’assicurazione obbligatoria delle cure
+
+  medico-sanitarie, segnatamente:
+
+  - 1\. posizioni tariffali, volume delle prestazioni e costi delle prestazioni conteggiate,
+  - 2\. numero di pazienti curati in regime ambulatoriale,
+  - 3\. numero di consultazioni per paziente.
+
+<sup>2</sup> I dati rilevati dall’UST in virtù dell’articolo 30 non possono essere richiesti sulla base del capoverso 1.
+
+[^59f-1]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 814](https://fedlex.data.admin.ch/eli/oc/2022/814)).
+
+#### Art. 59g
+
+**Trasmissione dei dati**[^59g-1]
+
+<sup>1</sup> I dati di cui all’articolo 59*f* devono essere trasmessi al DFI o al governo cantonale competente in modo corretto, completo, tempestivo e a proprie spese, salvaguardando l’anonimato dei pazienti, in forma codificata e per via elettronica.
+
+<sup>2</sup> Se constata delle carenze nella fornitura di dati, il DFI o il governo cantonale competente deve fissare un termine di proroga per la trasmissione di dati corretti e completi, prima che possano essere adottate le sanzioni previste all’articolo 47*b* capoverso 2 LAMal.
+
+[^59g-1]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 814](https://fedlex.data.admin.ch/eli/oc/2022/814)).
+
+#### Art. 59h
+
+**Regolamenti cantonali per il trattamento dei dati**[^59h-1]
+
+Per la rilevazione e il trattamento dei dati secondo l’articolo 47*b* LAMal, il governo cantonale competente elabora un regolamento che descrive l’organizzazione interna e in particolare le procedure di trattamento e di controllo dei dati in applicazione delle disposizioni cantonali sulla protezione dei dati e comprende tutti i documenti relativi alla pianificazione, elaborazione e gestione dei sistemi di trattamento dei dati e dei mezzi informatici. Il governo cantonale lo aggiorna regolarmente.
+
+[^59h-1]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 814](https://fedlex.data.admin.ch/eli/oc/2022/814)).
+
+#### Art. 59i
+
+**Sicurezza e conservazione dei dati**[^59i-1]
+
+Nella misura in cui la conservazione, la cancellazione e la distruzione dei dati non sono disciplinate altrimenti, le autorità che ricevono dati secondo l’articolo 47*b* LAMal devono rispettare i principi seguenti:
+
+- a. adottare le necessarie misure tecniche e organizzative per proteggere i dati contro il trattamento non autorizzato;
+- b. cancellare i dati non appena non servono più per raggiungere lo scopo per il quale sono stati comunicati;
+- c. distruggere i dati al più tardi cinque anni dopo averli ricevuti, tranne se devono essere archiviati.
+
+[^59i-1]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 814](https://fedlex.data.admin.ch/eli/oc/2022/814)).
 
 ### Sezione 2: Elenco delle analisi
 
@@ -2375,7 +2510,7 @@ Gli articoli 71*a*–71*d* non si applicano all’assunzione dei costi dei:
 - a. medicamenti impiegati per il trattamento di pazienti affetti da COVID-19 e contenenti principi attivi elencati nell’allegato 5 dell’ordinanza 3 COVID-19 del 19 giugno 2020[^71e-2];
 - b. medicamenti validamente omologati dall’Istituto con un’indicazione per il trattamento dei pazienti affetti da COVID-19.
 
-[^71e-1]: Introdotto dal n. III dell’O del 12 mag. 2021 ([RU 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)). Nuovo testo giusta il n. I dell’O del 17 dic. 2021, in vigore dal 1° gen. 2022 al 31 dic. 2022 ([RU 2021 892](https://fedlex.data.admin.ch/eli/oc/2021/892)).
+[^71e-1]: Introdotto dal n. III dell’O del 12 mag. 2021 ([RU 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)). Nuovo testo giusta il n. I dell’O del 17 dic. 2021, in vigore dal 1° gen. 2022 al 31 dic. 2022, prorogato sino al 30 giu. 2024 ([RU 2021 892](https://fedlex.data.admin.ch/eli/oc/2021/892); [2022 838](https://fedlex.data.admin.ch/eli/oc/2022/838)n. IV).
 [^71e-2]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
 
 #### Art. 71f
@@ -2384,7 +2519,7 @@ Gli articoli 71*a*–71*d* non si applicano all’assunzione dei costi dei:
 
 Gli articoli 71*a*–71*d* non si applicano all’assunzione dei costi dei medicamenti impiegati per il trattamento ambulatoriale o ospedaliero di pazienti affetti da vaiolo delle scimmie.
 
-[^71f-1]: Introdotto dal n. III dell’O del 24 ago. 2022, in vigore dal 1° set. 2022 fino al 31 dic. 2023 ([RU 2022 467](https://fedlex.data.admin.ch/eli/oc/2022/467)).
+[^71f-1]: Introdotto dal n. III dell’O del 24 ago. 2022, in vigore dal 1° set. 2022 sino al 31 dic. 2023 ([RU 2022 467](https://fedlex.data.admin.ch/eli/oc/2022/467)).
 
 ### Sezione 5: Disposizioni comuni per l’Elenco delle analisi, l’Elenco dei medicamenti con tariffa e l’Elenco delle specialità
 
@@ -2665,6 +2800,122 @@ Sentita la competente commissione, il DFI stabilisce le misure di cui all’arti
 
 [^77k-1]: Introdotto dal n. I dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152))
 
+### Titolo 4*a*: Progetti pilota
+
+[^part1-tit4a-1]
+
+[^part1-tit4a-1]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 814](https://fedlex.data.admin.ch/eli/oc/2022/814)).
+
+#### Art. 77l
+
+**Domanda**
+
+<sup>1</sup> La domanda di autorizzazione di un progetto pilota deve essere presentata all’UFSP, segnatamente da uno o più Cantoni, uno o più fornitori di prestazioni, uno o più assicuratori o una o più organizzazioni di pazienti.
+
+<sup>2</sup>
+
+Deve comprendere almeno:
+
+- a. il nome o la denominazione del richiedente;
+- b. la descrizione dettagliata del progetto pilota, delle misure previste, degli obiettivi perseguiti, dell’effetto atteso e delle conseguenze segnatamente per i Cantoni, gli assicuratori, i fornitori di prestazioni e gli assicurati;
+- c. le disposizioni della LAMal e della presente ordinanza alle quali derogare e il regolamento applicabile in sostituzione delle stesse;
+- d. i criteri per la partecipazione al progetto pilota, compreso il termine entro il quale la revoca al consenso alla partecipazione ha effetto;
+- e. un piano di valutazione con indicazioni sulle valutazioni periodiche e sulla valutazione finale;
+- f. un piano di finanziamento per il progetto pilota e le valutazioni;
+- g. uno scadenzario per la realizzazione del progetto pilota e delle valutazioni.
+
+#### Art. 77m
+
+**Costi**
+
+I costi del progetto pilota e delle valutazioni così come i costi amministrativi legati al ripristino dello stato anteriore alla sua esecuzione sono a carico del titolare dell’autorizzazione per il progetto pilota.
+
+#### Art. 77n
+
+**Autorizzazione**
+
+<sup>1</sup>
+
+Il DFI autorizza soltanto progetti pilota volti alla sperimentazione di misure adempienti le seguenti condizioni:
+
+- a. le misure risultano innovative in relazione al diritto vigente;
+- b. le misure sono adeguate per raggiungere uno degli obiettivi di cui all’articolo 59*b* capoverso 1 LAMal in uno degli ambiti di cui all’articolo 59*b* capoverso 2 LAMal;
+- c. le misure sono adeguate per essere recepite nella legge.
+
+<sup>2</sup>
+
+La decisione di autorizzazione comprende nello specifico:
+
+- a. i nomi dei richiedenti;
+- b. l’effetto atteso e le conseguenze segnatamente per i Cantoni, gli assicuratori, i fornitori di prestazioni e gli assicurati;
+- c. il piano di valutazione;
+- d. i nomi di uno o più specialisti indipendenti per le valutazioni del progetto pilota.
+
+<sup>3</sup> Il DFI nega l’autorizzazione se per gli assicurati che partecipano al progetto pilota non è garantito il diritto all’assunzione dei costi di prestazioni dell’assicurazione obbligatoria delle cure medico-sanitarie.
+
+<sup>4</sup> Il DFI revoca l’autorizzazione se prima della conclusione del progetto pilota emerge che l’effetto atteso non può essere ottenuto o che sono lesi i diritti degli assicurati.
+
+<sup>5</sup> L’UFSP informa regolarmente il pubblico in merito ai progetti pilota in corso.
+
+#### Art. 77o
+
+**Ordinanze del DFI sui progetti pilota**
+
+<sup>1</sup>
+
+Oltre ai punti di cui all’articolo 59*b* capoverso 5 LAMal, l’ordinanza del DFI sul rispettivo progetto pilota disciplina:
+
+- a. i requisiti per la partecipazione;
+- b. le misure che possono essere attuate con il progetto pilota;
+- c. gli obiettivi perseguiti;
+- d. il campo di applicazione territoriale del progetto pilota;
+- e. la durata del progetto pilota;
+- f. il termine entro il quale la revoca di un assicurato al consenso alla partecipazione al progetto pilota ha effetto.
+
+<sup>2</sup> La durata del progetto pilota è al massimo di tre anni e può essere prorogata una volta.
+
+<sup>3</sup> Il termine di cui al capoverso 1 lettera f può coincidere al massimo con la fine dell’anno civile in corso. Il termine di preavviso deve essere almeno di un mese.
+
+<sup>4</sup> Revocandone l’autorizzazione, il DFI abroga l’ordinanza sul progetto pilota.
+
+#### Art. 77p
+
+**Partecipazione**
+
+<sup>1</sup> Al progetto pilota possono partecipare soltanto gli assicurati che hanno acconsentito espressamente, dopo essere stati informati in merito alle conseguenze di tale partecipazione sui loro diritti e obblighi.
+
+<sup>2</sup> Gli assicurati possono revocare il loro consenso.
+
+#### Art. 77q
+
+**Valutazioni**
+
+<sup>1</sup> Nel corso della sua attuazione il progetto pilota deve essere valutato periodicamente. Dopo la sua conclusione deve essere effettuata una valutazione finale.
+
+<sup>2</sup>
+
+I rapporti di valutazione devono valutare in particolare:
+
+- a. se il progetto pilota raggiunge l’obiettivo perseguito;
+- b. quale impatto hanno le misure del progetto pilota sul sistema sanitario;
+- c. se le misure del progetto pilota entrano in conflitto con le disposizioni legali per le quali nell’ordinanza non è prevista alcuna deroga;
+- d. se le misure sperimentate possono essere recepite nella legge.
+
+#### Art. 77r
+
+**Rapporto al Consiglio federale**
+
+<sup>1</sup> Il DFI esamina i rapporti di valutazione.
+
+<sup>2</sup>
+
+Basandosi su tale esame, presenta al Consiglio federale un rapporto:
+
+- a. sull’effetto delle misure sperimentate sul contenimento dei costi, sul rafforzamento della qualità o sulla promozione della digitalizzazione;
+- b. sulle conseguenze delle misure segnatamente per i Cantoni, gli assicuratori, i fornitori di prestazioni e gli assicurati.
+
+<sup>3</sup> Se in seguito all’esame dei rapporti sulle valutazioni intermedie sembra opportuno che le disposizioni restino applicabili dopo la conclusione del progetto pilota conformemente all’articolo 59*b* capoverso 7 LAMal, il DFI può presentare un rapporto al Consiglio federale già prima della valutazione finale.
+
 ### Titolo 5: Finanziamento
 
 ### Capitolo 1: ...
@@ -2779,14 +3030,14 @@ I premi devono essere pagati in anticipo e di regola mensilmente.
 
 <sup>1ter</sup> L’importo minimo di cui al capoverso 1<sup>bis</sup> corrisponde alla media di tutti i premi dell’anno in corso per la regione di premio e il gruppo di età interessati. L’UFSP comunica questo importo agli assicurati ogni anno.[^91-3]
 
-<sup>2</sup> Per le persone di cui agli articoli 4 e 5, che non risiedono in uno Stato membro dell’Unione europea, in Islanda o in Norvegia e che sono assicurate in Svizzera, l’assicuratore fissa un premio in base ai costi comprovati. Qualora, in considerazione del numero delle persone interessate, ciò risulti sproporzionato, l’assicuratore può applicare i premi svizzeri dell’ultimo domicilio della persona in Svizzera o della sede dell’assicuratore.[^91-4]
+<sup>2</sup> Per le persone di cui agli articoli 4 e 5 che non risiedono né in uno Stato membro dell’Unione europea, né in Islanda, in Norvegia o nel Regno Unito e che sono assicurate in Svizzera, l’assicuratore fissa un premio in base ai costi comprovati. Qualora, in considerazione del numero delle persone interessate, ciò risulti sproporzionato, l’assicuratore può applicare i premi svizzeri dell’ultimo domicilio della persona in Svizzera o della sede dell’assicuratore.[^91-4]
 
 <sup>3</sup> Per gli assicurati di cui all’articolo 61 capoverso 3 della legge, la graduazione dei premi secondo i gruppi d’età è effettuata in base all’anno di nascita.
 
 [^91-1]: Nuovo testo giusta l’all. n. 3 dell’O del 18 nov. 2015 sulla vigilanza sull’assicurazione malattie, in vigore dal 1° gen. 2016 ([RU 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)).
 [^91-2]: Introdotto dall’all. n. 3 dell’O del 18 nov. 2015 sulla vigilanza sull’assicurazione malattie, in vigore dal 1° gen. 2016 ([RU 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)).
 [^91-3]: Introdotto dall’all. n. 3 dell’O del 18 nov. 2015 sulla vigilanza sull’assicurazione malattie, in vigore dal 1° gen. 2016 ([RU 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)).
-[^91-4]: Nuovo testo giusta il n. I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6723](https://fedlex.data.admin.ch/eli/oc/2017/749)).
+[^91-4]: Nuovo testo giusta il n. I 1 dell’O del 26 ott. 2022 sulla modifica di ordinanze in materia di assicurazione malattie in attuazione della Convenzione sul coordinamento della sicurezza sociale tra il Regno Unito di Gran Bretagna e Irlanda del Nord e la Confederazione Svizzera, in vigore dal 1° gen. 2023 ([RU 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
 
 #### Art. 91a
 
@@ -2825,7 +3076,7 @@ I premi devono essere pagati in anticipo e di regola mensilmente.
 
 [^92-1]: Abrogato dall’all. n. 3 dell’O del 18 nov. 2015 sulla vigilanza sull’assicurazione malattie, con effetto dal 1° gen. 2016 ([RU 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)).
 
-### Sezione 1*a*: Premi degli assicurati residenti in uno Stato membro dell’Unione europea, in Islanda o in Norvegia
+### Sezione 1*a*: Premi degli assicurati residenti in uno Stato membro dell’Unione europea, in Islanda, in Norvegia o nel Regno Unito
 
 [^part1-tit5-chap2-sec1a-1][^part1-tit5-chap2-sec1a-2]
 
@@ -3016,9 +3267,9 @@ La sospensione della scadenza dei premi è abrogata senza versamento retroattivo
 
 #### Art. 101a
 
-**Forme particolari d’assicurazione per gli assicurati residenti in uno Stato membro dell’Unione europea, in Islanda o in Norvegia**[^101a-1]
+**Forme particolari d’assicurazione per gli assicurati residenti in uno Stato membro dell’Unione europea, in Islanda, in Norvegia o nel Regno Unito**[^101a-1]
 
-Gli assicurati residenti in uno Stato membro dell’Unione europea, in Islanda o in Norvegia non possono aderire alle forme particolari d’assicurazione di cui agli articoli 93–101.
+Gli assicurati residenti in uno Stato membro dell’Unione europea, in Islanda, in Norvegia o nel Regno Unito non possono aderire alle forme particolari d’assicurazione di cui agli articoli 93–101.
 
 [^101a-1]: Introdotto dal n. I dell’O del 3 lug. 2001 ([RU 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)). Nuovo testo giusta il n. I dell’O del 2 nov. 2011, in vigore dal 1° apr. 2012 ([RU 2012 955](https://fedlex.data.admin.ch/eli/oc/2012/162)).
 
@@ -3046,15 +3297,15 @@ Gli assicurati residenti in uno Stato membro dell’Unione europea, in Islanda o
 
 <sup>5</sup> Per gli adulti la cui protezione assicurativa è prevista per meno di un anno civile, gli assicuratori possono riscuotere un importo forfetario per la franchigia e l’aliquota percentuale in caso di ricorso a prestazioni. Questo importo forfetario ammonta a franchi 250 per un periodo di 90 giorni. Esso non può essere offerto in combinazione con forme speciali di assicurazione di cui agli articoli 93–101*a*.[^103-4]
 
-<sup>6</sup> Per gli assicurati residenti in uno Stato membro dell’Unione europea, in Islanda, nel Liechtenstein o in Norvegia e che in caso di soggiorno in Svizzera hanno diritto all’assistenza reciproca internazionale in materia di prestazioni in base all’articolo 95*a* della legge, viene riscosso un importo globale per la franchigia e per l’aliquota percentuale. L’importo ammonta, per un periodo di 30 giorni, a 92 franchi per gli adulti e a 33 franchi per gli assicurati che non hanno ancora compiuto 18 anni.[^103-5]
+<sup>6</sup> Per gli assicurati residenti in uno Stato membro dell’Unione europea, in Islanda, nel Liechtenstein, in Norvegia o nel Regno Unito e che in caso di soggiorno in Svizzera hanno diritto all’assistenza reciproca internazionale in materia di prestazioni in base all’articolo 95*a* della legge o a convenzioni internazionali, viene riscosso un importo globale per la franchigia e per l’aliquota percentuale. L’importo ammonta, per un periodo di 30 giorni, a 92 franchi per gli adulti e a 33 franchi per gli assicurati che non hanno ancora compiuto 18 anni.[^103-5]
 
-<sup>7</sup> I capoversi 1–4 si applicano per analogia agli assicurati che risiedono in uno Stato membro dell’Unione europea, in Islanda o in Norvegia e che sono assicurati in Svizzera.[^103-6]
+<sup>7</sup> I capoversi 1–4 si applicano per analogia agli assicurati che risiedono in uno Stato membro dell’Unione europea, in Islanda, in Norvegia o nel Regno Unito e che sono assicurati in Svizzera.[^103-6]
 
 [^103-1]: Nuovo testo giusta il n. I dell’O del 6 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445)).
 [^103-2]: [RU 2003 3991](https://fedlex.data.admin.ch/eli/oc/2003/577)
 [^103-3]: Nuovo testo giusta il n. I dell’O del 6 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445)).
 [^103-4]: Nuovo testo giusta il n. I dell’O del 3 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2004 5075](https://fedlex.data.admin.ch/eli/oc/2004/784)). Vedi anche le disp. fin. di detta mod. alla fine del presente testo.
-[^103-5]: Introdotto dal n. I dell’O del 3 lug. 2001 ([RU 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)). Nuovo testo giusta il n. I dell’O del 2 nov. 2011, in vigore dal 1° apr. 2012 ([RU 2012 955](https://fedlex.data.admin.ch/eli/oc/2012/162)).
+[^103-5]: Introdotto dal n. I dell’O del 3 lug. 2001 ([RU 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)). Nuovo testo giusta il n. I 1 dell’O del 26 ott. 2022 sulla modifica di ordinanze in materia di assicurazione malattie in attuazione della Convenzione sul coordinamento della sicurezza sociale tra il Regno Unito di Gran Bretagna e Irlanda del Nord e la Confederazione Svizzera, in vigore dal 1° gen. 2023 ([RU 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
 [^103-6]: Introdotto dal n. I dell’O del 3 lug. 2001 ([RU 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)). Nuovo testo giusta il n. I dell’O del 2 nov. 2011, in vigore dal 1° apr. 2012 ([RU 2012 955](https://fedlex.data.admin.ch/eli/oc/2012/162)).
 
 #### Art. 104
@@ -3267,11 +3518,11 @@ Verifica l’esattezza e la completezza delle informazioni fornite dagli assicur
 
 #### Art. 105m
 
-**Assicurati che risiedono in uno Stato membro dell’Unione europea, in Islanda o in Norvegia**[^105m-1]
+**Assicurati che risiedono in uno Stato membro dell’Unione europea, in Islanda, in Norvegia o nel Regno Unito**[^105m-1]
 
 <sup>1</sup>
 
-Se il diritto di uno Stato membro dell’Unione europea, dell’Islanda o della Norvegia permette all’assicuratore svizzero di recuperare i premi e le partecipazioni ai costi non pagati, le seguenti disposizioni si applicano agli assicurati che vivono in uno di questi Stati e non pagano i premi e le partecipazioni ai costi scaduti:
+Se il diritto di uno Stato membro dell’Unione europea, dell’Islanda, della Norvegia o del Regno Unito permette all’assicuratore svizzero di recuperare i premi e le partecipazioni ai costi non pagati, le seguenti disposizioni si applicano agli assicurati che vivono in uno di questi Stati e non pagano i premi e le partecipazioni ai costi scaduti:[^105m-2]
 
 - a.
 
@@ -3283,9 +3534,11 @@ Se il diritto di uno Stato membro dell’Unione europea, dell’Islanda o della 
 
 - b. articolo 64*a* capoversi 1, 2 e 6 della legge e articoli 105*b* e 105*l* ai beneficiari di rendite e ai loro familiari; l’assicuratore rileva i certificati di carenza di beni.
 
-<sup>2</sup> Se il diritto di uno Stato membro dell’Unione europea, dell’Islanda o della Norvegia non permette all’assicuratore svizzero di recuperare i premi e le partecipazioni ai costi non pagati, l’assicuratore invia all’assicurato che non paga i premi o le partecipazione ai costi esigibili una diffida di pagamento preceduta almeno da un sollecito scritto, gli assegna un termine supplementare di 30 giorni e gli indica le conseguenze della mora. Se, nonostante la diffida, l’assicurato non paga i premi, le partecipazioni ai costi e gli interessi di mora entro il termine stabilito, l’assicuratore può sospendere l’assunzione dei costi delle prestazioni. Esso deve nel contempo informare l’assicurato e l’istituzione di assistenza competente nel luogo di residenza del medesimo in merito alla sospensione. La sospensione termina non appena sono stati pagati i premi e le partecipazioni ai costi oggetto della diffida, nonché gli interessi di mora accumulati. Durante la sospensione dell’assunzione delle prestazioni, gli assicuratori possono compensare le prestazioni con i premi o le partecipazioni ai costi dovuti.
+<sup>2</sup> Se il diritto di uno Stato membro dell’Unione europea, dell’Islanda, della Norvegia o del Regno Unito non permette all’assicuratore svizzero di recuperare i premi e le partecipazioni ai costi non pagati, l’assicuratore invia all’assicurato che non paga i premi o le partecipazioni ai costi esigibili una diffida di pagamento preceduta almeno da un sollecito scritto, gli assegna un termine supplementare di 30 giorni e gli indica le conseguenze della mora. Se, nonostante la diffida, l’assicurato non paga i premi, le partecipazioni ai costi e gli interessi di mora entro il termine stabilito, l’assicuratore può sospendere l’assunzione dei costi delle prestazioni. Esso deve nel contempo informare l’assicurato e l’istituzione di assistenza competente nel luogo di residenza del medesimo in merito alla sospensione. La sospensione termina non appena sono stati pagati i premi e le partecipazioni ai costi oggetto della diffida, nonché gli interessi di mora accumulati. Durante la sospensione dell’assunzione delle prestazioni, gli assicuratori possono compensare le prestazioni con i premi o le partecipazioni ai costi dovuti.[^105m-3]
 
 [^105m-1]: Introdotto dal n. I dell’O del 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3527](https://fedlex.data.admin.ch/eli/oc/2011/477)).
+[^105m-2]: Nuovo testo giusta il n. I 1 dell’O del 26 ott. 2022 sulla modifica di ordinanze in materia di assicurazione malattie in attuazione della Convenzione sul coordinamento della sicurezza sociale tra il Regno Unito di Gran Bretagna e Irlanda del Nord e la Confederazione Svizzera, in vigore dal 1° gen. 2023 ([RU 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
+[^105m-3]: Nuovo testo giusta il n. I 1 dell’O del 26 ott. 2022 sulla modifica di ordinanze in materia di assicurazione malattie in attuazione della Convenzione sul coordinamento della sicurezza sociale tra il Regno Unito di Gran Bretagna e Irlanda del Nord e la Confederazione Svizzera, in vigore dal 1° gen. 2023 ([RU 2022 658](https://fedlex.data.admin.ch/eli/oc/2022/658)).
 
 ### Capitolo 4: Riduzione dei premi da parte dei Cantoni
 
@@ -3305,7 +3558,7 @@ Hanno diritto alla riduzione dei premi anche le persone tenute ad assicurarsi ai
 
 #### Art. 106a
 
-**Riduzione dei premi da parte dei Cantoni per gli assicurati che risiedono in uno Stato membro dell’Unione europea, in Islanda o in Norvegia[^106a-1]**
+**Riduzione dei premi da parte dei Cantoni per gli assicurati che risiedono in uno Stato membro dell’Unione europea, in Islanda, in Norvegia o nel Regno Unito[^106a-1]**
 
 <sup>1</sup>
 
@@ -3315,7 +3568,7 @@ Per le seguenti persone la riduzione dei premi è praticata secondo l’articolo
 - b. i familiari assicurati di una persona assicurata ai sensi della lettera a, anche se un altro familiare assicurato percepisce solo una rendita svizzera;
 - c. i familiari assicurati di una persona assicurata che esercita un’attività lucrativa in Svizzera o che beneficia di una prestazione dell’assicurazione svizzera contro la disoccupazione, anche se un altro familiare assicurato percepisce solo una rendita svizzera.
 
-<sup>2</sup> All’atto di verificare le modeste condizioni economiche degli assicurati residenti in uno Stato membro dell’Unione europea, in Islanda o in Norvegia, i Cantoni non possono prendere in considerazione il reddito e la sostanza netta dei familiari assoggettati alla procedura ai sensi dell’articolo 66*a* della legge.[^106a-2]
+<sup>2</sup> All’atto di verificare le modeste condizioni economiche degli assicurati residenti in uno Stato membro dell’Unione europea, in Islanda, in Norvegia o nel Regno Unito, i Cantoni non possono prendere in considerazione il reddito e la sostanza netta dei familiari assoggettati alla procedura ai sensi dell’articolo 66*a* della legge.[^106a-2]
 
 [^106a-1]: Nuovo testo giusta il n. I dell’O del 2 nov. 2011, in vigore dal 1° apr. 2012 ([RU 2012 955](https://fedlex.data.admin.ch/eli/oc/2012/162)).
 [^106a-2]: Nuovo testo giusta il n. I dell’O del 2 nov. 2011, in vigore dal 1° apr. 2012 ([RU 2012 955](https://fedlex.data.admin.ch/eli/oc/2012/162)).
@@ -3503,9 +3756,9 @@ L’assicuratore-malattie che anticipa le prestazioni deve avvertire l’assicur
 
 ### Sezione 4: Obbligo dell’assicuratore d’informare
 
-[^part3-tit1-chap1-sec4-1]
+[^part2-tit1-chap1-sec4-1]
 
-[^part3-tit1-chap1-sec4-1]: Nuovo testo giusta il n. I dell’O dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3908](https://fedlex.data.admin.ch/eli/oc/2002/605)).
+[^part2-tit1-chap1-sec4-1]: Nuovo testo giusta il n. I dell’O dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3908](https://fedlex.data.admin.ch/eli/oc/2002/605)).
 
 #### Art. 120
 
@@ -3542,9 +3795,9 @@ Trattandosi di prestazioni in natura, vi è sovrindennizzo nella misura in cui, 
 
 ## Parte quarta: Decisione, spese di comunicazione e pubblicazione di dati
 
-[^part4-1]
+[^part3-1]
 
-[^part4-1]: Nuovo testo giusta il n. I dell’O dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3908](https://fedlex.data.admin.ch/eli/oc/2002/605)).
+[^part3-1]: Nuovo testo giusta il n. I dell’O dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3908](https://fedlex.data.admin.ch/eli/oc/2002/605)).
 
 #### Art. 127
 
@@ -3635,7 +3888,7 @@ I laboratori già ammessi in virtù degli articoli 53 e 54 come fornitori di pre
 
 [^136-1]
 
-[^136-1]: Abrogato dal n. IV 51 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)). Il testo del 1° gen. ha effetto fino al 31 dic. 2018 ([RU 2017 6723](https://fedlex.data.admin.ch/eli/oc/2017/749)).
+[^136-1]: Abrogato dal n. IV 51 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)). Il testo del 1° gen. ha effetto sino al 31 dic. 2018 ([RU 2017 6723](https://fedlex.data.admin.ch/eli/oc/2017/749)).
 
 ### Titolo 2: Entrata in vigore
 
@@ -4040,11 +4293,11 @@ Sono abrogate:
 - h. l’ordinanza VIII del 30 ottobre 1968[^annex2-lvlu1-lvl1-8] sull’assicurazione contro le malattie concernente la scelta dei medicamenti e delle analisi;
 - i. l’ordinanza del 22 novembre 1989[^annex2-lvlu1-lvl1-9] concernente l’esercizio di altri generi d’assicurazione da parte delle casse malati riconosciute.
 
-[^annex2-lvlu1-lvl1-1]: [[RU 1964 1329](https://fedlex.data.admin.ch/eli/oc/1964/1289_1296_1329), [1974 978](https://fedlex.data.admin.ch/eli/oc/1974/978_978_978), [1986 685](https://fedlex.data.admin.ch/eli/oc/1986/685_685_685), [1990 1675](https://fedlex.data.admin.ch/eli/oc/1990/1675_1675_1675), [1991 609](https://fedlex.data.admin.ch/eli/oc/1991/609_609_609)[2547](https://fedlex.data.admin.ch/eli/oc/1991/2547_2547_2547), [1992 1738](https://fedlex.data.admin.ch/eli/oc/1992/1738_1738_1738)art. 18]
-[^annex2-lvlu1-lvl1-2]: [[RU 1965 33](https://fedlex.data.admin.ch/eli/oc/1965/31_32_33), [1984 1481](https://fedlex.data.admin.ch/eli/oc/1984/1481_1481_1481), [1990 1674](https://fedlex.data.admin.ch/eli/oc/1990/1674_1674_1674), [1991 606](https://fedlex.data.admin.ch/eli/oc/1991/606_606_606)[2546](https://fedlex.data.admin.ch/eli/oc/1991/2546_2546_2546)]
-[^annex2-lvlu1-lvl1-3]: [[RU 1965 45](https://fedlex.data.admin.ch/eli/oc/1965/41_45_45), [1968 43](https://fedlex.data.admin.ch/eli/oc/1968/43_43_43)n. V [1024](https://fedlex.data.admin.ch/eli/oc/1968/1068_1107_1024), [1969 1149](https://fedlex.data.admin.ch/eli/oc/1969/1126_1147_1149)n. II, [1974 978](https://fedlex.data.admin.ch/eli/oc/1974/978_978_978)n. II,[1983 38](https://fedlex.data.admin.ch/eli/oc/1983/38_38_38)art. 142,[1984 1485](https://fedlex.data.admin.ch/eli/oc/1984/1485_1485_1485), [1986 85](https://fedlex.data.admin.ch/eli/oc/1986/85_85_85)]
+[^annex2-lvlu1-lvl1-1]: [[RU 1964 1329](https://fedlex.data.admin.ch/eli/oc/1964/1289_1296_1329); [1974 978](https://fedlex.data.admin.ch/eli/oc/1974/978_978_978), [1986 685](https://fedlex.data.admin.ch/eli/oc/1986/685_685_685), [1990 1675](https://fedlex.data.admin.ch/eli/oc/1990/1675_1675_1675); [1991 609](https://fedlex.data.admin.ch/eli/oc/1991/609_609_609), [2547](https://fedlex.data.admin.ch/eli/oc/1991/2547_2547_2547); [1992 1738](https://fedlex.data.admin.ch/eli/oc/1992/1738_1738_1738)art. 18]
+[^annex2-lvlu1-lvl1-2]: [[RU 1965 33](https://fedlex.data.admin.ch/eli/oc/1965/31_32_33); [1984 1481](https://fedlex.data.admin.ch/eli/oc/1984/1481_1481_1481); [1990 1674](https://fedlex.data.admin.ch/eli/oc/1990/1674_1674_1674); [1991 606](https://fedlex.data.admin.ch/eli/oc/1991/606_606_606), [2546](https://fedlex.data.admin.ch/eli/oc/1991/2546_2546_2546)]
+[^annex2-lvlu1-lvl1-3]: [[RU 1965 45](https://fedlex.data.admin.ch/eli/oc/1965/41_45_45); [1968 43](https://fedlex.data.admin.ch/eli/oc/1968/43_43_43)n. V, [1024](https://fedlex.data.admin.ch/eli/oc/1968/1068_1107_1024), [1969 1149](https://fedlex.data.admin.ch/eli/oc/1969/1126_1147_1149)n. II; [1974 978](https://fedlex.data.admin.ch/eli/oc/1974/978_978_978)n. II;[1983 38](https://fedlex.data.admin.ch/eli/oc/1983/38_38_38)art. 142;[1984 1485](https://fedlex.data.admin.ch/eli/oc/1984/1485_1485_1485); [1986 85](https://fedlex.data.admin.ch/eli/oc/1986/85_85_85)]
 [^annex2-lvlu1-lvl1-4]: [[RU 1965 60](https://fedlex.data.admin.ch/eli/oc/1965/55_59_60)]
-[^annex2-lvlu1-lvl1-5]: [[RU 1965 93](https://fedlex.data.admin.ch/eli/oc/1965/90_94_93), [1969 81](https://fedlex.data.admin.ch/eli/oc/1969/77_81_81)n. II lett. B n.3 1241, **1970** 1648, **1984** 1479, **1986** 80 1706, **1990** 21 2039, **1991** 370all. n. 18]
+[^annex2-lvlu1-lvl1-5]: [[RU 1965 93](https://fedlex.data.admin.ch/eli/oc/1965/90_94_93); [1969 81](https://fedlex.data.admin.ch/eli/oc/1969/77_81_81)n. II lett. B n. 3, 1241; **1970** 1648; **1984** 1479; **1986** 80, 1706; **1990** 21, 2039; **1991** 370all. n. 18]
 [^annex2-lvlu1-lvl1-6]: [[RU 1966 515](https://fedlex.data.admin.ch/eli/oc/1966/499_519_515), [1971 1186](https://fedlex.data.admin.ch/eli/oc/1971/1185_1186_1186)]
 [^annex2-lvlu1-lvl1-7]: [[RU 1966 586](https://fedlex.data.admin.ch/eli/oc/1966/570_590_586)]
 [^annex2-lvlu1-lvl1-8]: [[RU 1968 1282](https://fedlex.data.admin.ch/eli/oc/1968/1318_1366_1282), [1982 2178](https://fedlex.data.admin.ch/eli/oc/1982/2178_2178_2178), [1984 1486](https://fedlex.data.admin.ch/eli/oc/1984/1486_1486_1486), [1986 89](https://fedlex.data.admin.ch/eli/oc/1986/89_89_89), [1988 1563](https://fedlex.data.admin.ch/eli/oc/1988/1563_1563_1563)]
