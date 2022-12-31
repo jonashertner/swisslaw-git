@@ -3,22 +3,21 @@ canton: BS
 number: RiE 111.100
 title: Gemeindeordnung der Einwohnergemeinde Riehen
 language: de
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-04-28
+version: 2023-01-01
+version_adopted: 2021-12-15
 adopted: 2002-02-27
 in_force: 2003-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/RiE%20111.100"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5374/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5712/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Gemeindeordnung der Einwohnergemeinde Riehen
 
-Gemeindeordnung | Riehen: Einwohnergemeinde[^t-1]
+Gemeindeordnung - Wappen[^t-1]
 
-Vom 27. Februar 2002 (Stand 1. Januar 2022)
+Vom 27. Februar 2002 (Stand 1. Januar 2023)
 
 Der Einwohnerrat der Einwohnergemeinde Riehen
 
@@ -63,6 +62,8 @@ folgende Gemeindeordnung:
 
 <sup>3</sup> Sie berücksichtigen die regionalen und kantonalen Zusammenhänge.
 
+<sup>4</sup> Das staatliche Handeln ist auf eine ökologisch, wirtschaftlich und sozial nachhaltige Entwicklung der Gemeinde auszurichten.
+
 #### § 3
 
 **Erlass von Verfügungen**
@@ -85,11 +86,11 @@ folgende Gemeindeordnung:
 
 **Ausstand**
 
-<sup>1</sup> Mitglieder des Gemeinderats, Mitglieder von Kommissionen des Einwohnerrats oder des Gemeinderats sowie Angestellte der Gemeindeverwaltung treten bei Geschäften, an denen sie ein unmittelbares persönliches Interesse haben, bei deren Vorbereitung, Beratung und Beschlussfassung in Ausstand.
+<sup>1</sup> Mitglieder des Gemeinderats, Mitglieder von Kommissionen des Gemeinderats sowie Angestellte der Gemeindeverwaltung treten bei Geschäften, an denen sie ein unmittelbares persönliches Interesse haben, bei deren Vorbereitung, Beratung und Beschlussfassung in den Ausstand.
 
 <sup>2</sup> Sie treten auch dann in Ausstand, wenn das Geschäft die unmittelbaren persönlichen Interessen von natürlichen oder juristischen Personen betrifft, deren gesetzliche, statutarische oder vertragliche Vertreterinnen oder Vertreter sie sind.
 
-<sup>3</sup> Mitglieder des Einwohnerrats legen im Ratsplenum bei der Behandlung von Geschäften, an denen sie ein unmittelbares persönliches Interesse haben, ihre Interessenbindungen zu Beginn der Beratung offen. Die Pflicht zur Offenlegung besteht auch bei Interessenbindungen gemäss Abs. 2. Sie treten bei der Beschlussfassung in Ausstand.
+<sup>3</sup> Die Ausstandspflicht der Mitglieder des Einwohnerrats und dessen Kommissionen regelt die Geschäftsordnung des Einwohnerrats der Einwohnergemeinde Riehen vom 24. Oktober 2002.
 
 #### § 5
 
@@ -177,7 +178,7 @@ folgende Gemeindeordnung:
 
 - a) Beschlüsse formeller Natur wie Kenntnisnahme und Eintreten, Verfahrensbeschlüsse oder Validierungsbeschlüsse,
 - b) Wahlen,
-- c) Genehmigung von Budget, Rechnung, Produktrahmen, Geschäftsbericht und Leistungsberichten,
+- c) Beschluss der Budgetkredite und Genehmigung des Jahresberichts,
 - d) sich aus der Oberaufsicht über die Verwaltung ergebende Geschäfte.
 
 #### § 13
@@ -271,15 +272,15 @@ folgende Gemeindeordnung:
 <sup>3</sup> In die Zuständigkeit des Einwohnerrats fallen folgende Geschäfte:
 
 - a) Erlass der Gemeindeordnung,
-- b) Erlass weiterer Ordnungen, insbesondere der eigenen Geschäftsordnung, der Personal- und der Lohnordnung sowie der Ordnungen über die Erhebung Steuern und anderen Abgaben,
+- b) Erlass weiterer Ordnungen, insbesondere der Finanzhaushaltordnung, der eigenen Geschäftsordnung, der Personal- und der Lohnordnung sowie der Ordnungen über die Erhebung von Steuern und anderen Abgaben,
 - c) Wahlen gemäss den erlassenen Ordnungen,
-- d) Erlass in der Regel eines Leistungsauftrags pro Politikbereich (Produktgruppe) und Bewilligung der zugehörigen Globalkredite,
-- e) Bewilligung weiterer Kredite nach Massgabe dieser Ordnung,
-- f) Festsetzung des Steuerfusses, vorbehältlich der ausserordentlichen Zuständigkeit des Gemeinderats gemäss § 38 Abs. 3,
-- g) Genehmigung des Produktrahmens im Sinne eines Verzeichnisses der Politikbereiche,
-- h) Genehmigung des Jahresbudgets, der Rechnung und des Geschäftsberichts des Gemeinderats sowie der periodischen Leistungsberichte in den einzelnen Politikbereichen,
+- d) Bewilligung der Budgetkredite sowie der Nachtragskredite zu den Budgetkrediten,
+- e) Ausgabenbewilligungen und deren Erhöhungen nach Massgabe dieser Ordnung und der Finanzhaushaltordnung,
+- f) Festsetzung des Steuerfusses,
+- g) …
+- h) Genehmigung des Jahresberichts,
 - i) Genehmigung der vom Gemeinderat abgeschlossenen wichtigen Verträge oder Ermächtigung zu solchem Vertragsschluss,
-- j) Genehmigung von Rechtsgeschäften über Grundstücke im Finanzvermögen, deren Wert 1 Million Franken übersteigt,
+- j) Genehmigung von Rechtsgeschäften über Grundstücke im Finanzvermögen, deren Wert 12 Millionen Franken übersteigt,
 - k) Wahl der Revisionsstelle,
 - l) Beschlussfassung in allen übrigen Angelegenheiten, die nach übergeordnetem Recht in seine Zuständigkeit fallen, namentlich im Bereich der Raumordnung,
 - m) Beschlussfassung über die Einreichung eines Begehrens auf Erlass, Änderung oder Aufhebung von Verfassungs- und Gesetzesbestimmungen im Kanton gemäss § 66 Abs. 1 der Kantonsverfassung,
@@ -322,12 +323,12 @@ folgende Gemeindeordnung:
 <sup>3</sup> Insbesondere
 
 - a) bereitet er die Geschäfte des Einwohnerrats vor und ist verantwortlich für den Vollzug der Beschlüsse,
-- b) erarbeitet er periodisch Leitlinien für die langfristige Entwicklung der Gemeinde und sorgt für eine vorausschauende Planung,
-- c) definiert er die von der Gemeinde erbrachten oder vermittelten Leistungen (Produkte) und fasst diese im Verzeichnis der Politikbereiche (Produktrahmen) zusammen,
-- d) erstellt er den Politikplan und legt diesen dem Einwohnerrat zur Kenntnisnahme vor,
+- b) beschliesst er das Gemeindeleitbild, die strategische Planung sowie die Legislaturziele und legt diese dem Einwohnerrat zur Kenntnisnahme vor,
+- c) …
+- d) erstellt er den Aufgaben- und Finanzplan und legt diesen dem Einwohnerrat zur Kenntnisnahme vor,
 - e) erlässt er die erforderlichen Reglemente,
 - f) gewährleistet er bevölkerungsnahe, ziel- und wirkungsorientierte Dienstleistungen der Gemeinde,
-- g) ist er zuständig für die Verwaltungsorganisation und schliesst mit der Gemeindeverwaltung oder mit Dritten Leistungsvereinbarungen zur Umsetzung der Leistungsaufträge ab,
+- g) ist er zuständig für die Verwaltungsorganisation,
 - h) vertritt er die Gemeinde nach aussen und sorgt für die Information der Bevölkerung,
 - i) kann er für Übertretungen seiner Reglemente Bussen bis zum Betrag von CHF 500 vorsehen,
 - j) beschliesst er über die Aufnahme von Darlehen und Gemeindeanleihen.
@@ -342,10 +343,10 @@ folgende Gemeindeordnung:
 
 - a) Ratsbüro,
 - b) Geschäftsprüfungskommission,
-- c) Sachkommissionen für die verschiedenen Politikbereiche,
+- c) Sachkommissionen,
 - d) Wahlprüfungskommission,
 - e) Kommission für Volksanregungen und Petitionen,
-- f) Finanzkoordinationskommission.
+- f) Finanzkommission.
 
 <sup>2</sup> Der Einwohnerrat kann gemäss den Bestimmungen seiner Geschäftsordnung weitere ständige Kommissionen bilden oder themenbezogen Spezialkommissionen mit befristetem Auftrag einsetzen.
 
@@ -393,39 +394,48 @@ folgende Gemeindeordnung:
 
 #### § 30
 
-**Aufgaben- und Finanzplanung (Politikplan)**
-
-<sup>1</sup> Der Politikplan beschreibt die vorgesehene Entwicklung der Gemeindeaufgaben und stellt für jeden Politikbereich (Produktgruppe) die Ziele und erwarteten Entwicklungen sowie die benötigten Mittel dar.
-
-<sup>2</sup> Der Politikplan wird für mindestens vier Jahre erstellt.
-
-<sup>3</sup> Er wird im Sinne einer fortlaufenden Planung jährlich den veränderten Verhältnissen und neuen Erkenntnissen angepasst.
+**…**
 
 #### § 31
 
-**Leistungsaufträge und Leistungsvereinbarungen**
-
-<sup>1</sup> Der Einwohnerrat beschliesst für die einzelnen Politikbereiche (Produktgruppen) ein- oder mehrjährige Leistungsaufträge mit zugehörigen Globalkrediten.
-
-<sup>2</sup> Die Leistungsaufträge definieren für jeden Politikbereich in den Grundzügen die Menge und Qualität der zu erbringenden Leistungen sowie die beabsichtigte Wirkung in Kenntnis der damit verbundenen Kosten.
-
-<sup>3</sup> Rechtserlasse, welche den entsprechenden Politikbereich betreffen, werden nach Möglichkeit zusammen mit dem jeweiligen Leistungsauftrag beschlossen.
-
-<sup>4</sup> Die Leistungsaufträge werden in Leistungsvereinbarungen zwischen Gemeinderat und Verwaltung oder mit Dritten entsprechend den beschlossenen Vorgaben konkretisiert und umgesetzt.
+**…**
 
 #### § 32
 
-**Leistungs- und Kostenerfassung, Berichtswesen**
-
-<sup>1</sup> Ein standardisiertes Verfahren sorgt durch Erfassen der wesentlichen Daten über Leistung, Qualität und Kosten für Auskunft über Abweichungen zwischen Zielvorgaben und Zielerreichung.
-
-<sup>2</sup> Im Rahmen des Berichtswesens legen Verwaltung und Gemeinderat stufengerecht über Aufgabenerfüllung, Kosten und Art der Finanzierung Rechenschaft ab.
+**…**
 
 #### § 33
 
 **Grundsätze der Haushaltführung**
 
-<sup>1</sup> Der Gemeindehaushalt ist nach den Grundsätzen der Gesetzmässigkeit, der Wirksamkeit, des Haushaltgleichgewichts, der Nachhaltigkeit, der Wirtschaftlichkeit und der Dringlichkeit der Aufgaben zu führen.
+<sup>1</sup> Der Gemeindehaushalt ist nach den Grundsätzen der Gesetzmässigkeit, der Wirksamkeit, des Haushaltgleichgewichts, der Wirtschaftlichkeit und der Dringlichkeit der Aufgaben zu führen.
+
+#### § 33a
+
+**Strategische Planung**
+
+<sup>1</sup> Der Gemeinderat ist für die strategische Planung der Aufgaben und Finanzen zuständig.
+
+<sup>2</sup> Er beschliesst:
+
+- a) die Finanzstrategie und andere übergeordnete Strategien,
+- b) die Sachstrategien als Strategien der Bereiche der Verwaltung.
+
+#### § 33b
+
+**Legislaturziele**
+
+<sup>1</sup> Der Gemeinderat legt die politischen Schwerpunkte für eine Legislaturperiode in der Form von Legislaturzielen fest.
+
+<sup>2</sup> Der Stand der Umsetzung wird im Aufgaben- und Finanzplan sowie im Jahresbericht erläutert.
+
+#### § 33c
+
+**Aufgaben- und Finanzplan**
+
+<sup>1</sup> Der Aufgaben- und Finanzplan dient der mittelfristigen Steuerung von Aufgaben und Finanzen. Er enthält das Budgetjahr und die folgenden drei Kalenderjahre.
+
+<sup>2</sup> Er wird im Sinne einer fortlaufenden Planung jährlich den veränderten Verhältnissen und neuen Erkenntnissen angepasst.
 
 #### § 34
 
@@ -439,71 +449,45 @@ folgende Gemeindeordnung:
 
 #### § 35
 
-**Ausgaben**
-
-<sup>1</sup> Ausgaben werden beschlossen als
-
-- a) Globalkredite zu Leistungsaufträgen,
-- b) Verpflichtungskredite,
-- c) Nachkredite.
-
-<sup>2</sup> Globalkredite enthalten alle Aufwendungen, die zur Erfüllung eines Leistungsauftrags nötig sind. Investitionen können mit dem Globalkredit beschlossen werden, wenn sie im Einzelfall 100'000 Franken nicht übersteigen. Weitergehende Investitionen werden als Verpflichtungskredit beschlossen und fliessen mit den Abschreibungs- und Zinskosten in den Globalkredit ein.
-
-<sup>3</sup> Verpflichtungskredite sind insbesondere Ausgabenbeschlüsse zur Schaffung von Vermögenswerten mit mehrjähriger Nutzungsdauer.
-
-<sup>4</sup> Reicht der beschlossene Kredit zur Erfüllung der Aufgabe nicht aus, bedarf es eines Nachkredits, bevor weitere Verpflichtungen eingegangen werden.
+**…**
 
 #### § 36
 
-**Zuständigkeit des Einwohnerrats**
+**Bewilligung von Ausgaben**
 
-<sup>1</sup> Der Einwohnerrat beschliesst
+<sup>1</sup> Die Ausgabenbewilligung erfolgt
 
-- a) Globalkredite zu den Leistungsaufträgen,
-- b) Verpflichtungskredite, wenn die Ausgabe im Einzelfall 200'000 Franken übersteigt,
-- c) Nachkredite, wenn der Gemeinderat nicht zuständig ist.
+- a) bei Vorhaben mit neuen Ausgaben über CHF 300'000 durch einen Beschluss des Einwohnerrats über den gesamten Betrag des Vorhabens,
+- b) bei neuen Ausgaben bis CHF 300'000 und bei gebundenen Ausgaben durch Beschluss des Gemeinderats.
+- c) …
 
 #### § 37
 
-**Zuständigkeit des Gemeinderats**
-
-<sup>1</sup> Der Gemeinderat beschliesst
-
-- a) Verpflichtungskredite, wenn die Ausgabe im Einzelfall 200'000 Franken nicht übersteigt,
-- b) Nachkredite zu Verpflichtungskrediten, wenn der ursprüngliche Kredit und der Nachkredit zusammen 200 000 Franken nicht übersteigen,
-- c) Nachkredite zu Global- oder Verpflichtungskrediten bis zu 10 Prozent des vom Einwohnerrat beschlossenen Kredits, höchstens jedoch 200'000 Franken,
-- d) gebundene Ausgaben,
-- e) Rechtsgeschäfte über Grundstücke im Finanzvermögen, deren Wert 2 Millionen Franken nicht übersteigt.
-
-<sup>2</sup> Er legt fest, wer über bewilligte Ausgaben verfügen kann.
+**…**
 
 #### § 38
 
-**Budget und Steuerfuss**
-
-<sup>1</sup> Der Gemeinderat erstellt das jährliche Budget im Sinne eines Zusammenzugs der im nächsten Jahr anfallenden Nettokosten zur Erfüllung der Leistungsaufträge.
-
-<sup>2</sup> Der Einwohnerrat legt in Kenntnis des Budgets den Steuerfuss für das nächste Jahr fest. Der Steuerfuss muss so festgesetzt werden, dass kein Bilanzfehlbetrag resultiert.
-
-<sup>3</sup> Ergibt sich in der Jahresrechnung dennoch ein Bilanzfehlbetrag, legt der Gemeinderat für das nächste Jahr den Steuerfuss so fest, dass der Bilanzfehlbetrag abgeschrieben werden kann.
+**…**
 
 #### § 39
 
-**Rechnungslegung**
-
-<sup>1</sup> Die Gemeinde führt eine Finanzbuchhaltung und eine Kostenrechnung.
-
-<sup>2</sup> Der Gemeinderat erstellt die Jahresrechnung nach den Grundsätzen des Harmonisierten Rechnungsmodells und in Anlehnung an die internationalen Standards der Rechnungslegung. Eine externe Revisionsstelle prüft die Rechnung.
-
-<sup>3</sup> Der Gemeinderat unterbreitet dem Einwohnerrat die Bilanz und die Rechnung des vorangegangenen Jahres zur Genehmigung. Art der Rechnungslegung und Detaillierungsgrad richten sich nach dem Budget.
+**…**
 
 #### § 40
 
 **Weitere Bestimmungen zum Finanzhaushalt**
 
-<sup>1</sup> Der Einwohnerrat regelt das Nähere in einer Ordnung.
+<sup>1</sup> Der Einwohnerrat regelt das Nähere in der Finanzhaushaltordnung.
 
 ## VI. Übergangs- und Schlussbestimmungen
+
+#### § 40a
+
+**Übergangsbestimmungen zur Änderung vom 15. Dezember 2021**
+
+<sup>1</sup> Die bisherigen Regelungen gelten für den Vollzug des Finanzhaushalts und für die Bewilligung von Verpflichtungskrediten bis Ende 2023 und für den Geschäftsbericht 2023 bis zu dessen Genehmigung durch den Einwohnerrat im 2024.
+
+<sup>2</sup> Altrechtliche Verpflichtungskredite gelten hinsichtlich aller Aspekte als Ausgabenbewilligungen.
 
 #### § 41
 
