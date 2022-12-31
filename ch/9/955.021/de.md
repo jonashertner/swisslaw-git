@@ -4,11 +4,11 @@ title: "Verordnung vom 12. November 2018 der Eidgenössischen Spielbankenkommiss
 short: GwV-ESBK
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/802"
 language: de
-version: 2019-01-01
+version: 2023-01-01
 adopted: 2018-11-12
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/802/20190101/de/xml/fedlex-data-admin-ch-eli-cc-2018-802-20190101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/802/20190101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/802/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2018-802-20230101-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/802/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/802/20190101/de"
 
 (Geldwäschereiverordnung ESBK, GwV-ESBK)
 
-vom 12. November 2018 (Stand am 1. Januar 2019)
+vom 12. November 2018 (Stand am 1. Januar 2023)
 
 Die Eidgenössische Spielbankenkommission (ESBK),
 
@@ -25,8 +25,8 @@ gestützt auf Artikel 17 des Geldwäschereigesetzes vom 10. Oktober 1997[^ingres
 
 verordnet:
 
-[^ingress-1]: [SR 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
-[^ingress-2]: [SR 935.51](https://fedlex.data.admin.ch/eli/cc/2018/795)
+[^ingress-1]: [SR 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
+[^ingress-2]: [SR 935.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11107)
 
 ## 1. Kapitel: Gegenstand und Geltungsbereich
 
@@ -74,7 +74,7 @@ Die Spielbank muss bei online durchgeführten Spielen eine Spielerin oder einen 
 - a. Einzahlung auf ihr oder sein Spielerkonto nach Artikel 50 Absatz 1 der Geldspielverordnung vom 7. November 2018[^3-1] (VGS); oder
 - b. Überweisung von Gewinnen und Guthaben auf ihr oder sein Zahlungskonto nach Artikel 50 Absatz 2 VGS.
 
-[^3-1]: [SR 935.511](https://fedlex.data.admin.ch/eli/cc/2018/796)
+[^3-1]: [SR 935.511](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11108)
 
 #### Art. 4
 
@@ -116,7 +116,7 @@ Die Echtheit der Kopie eines amtlichen Ausweises nach Artikel 5 Absatz 1 Buchsta
 
 <sup>2</sup> Als Echtheitsbestätigung gilt ebenfalls eine Ausweiskopie aus der Datenbank eines anerkannten Anbieters von Zertifizierungsdiensten nach dem Bundesgesetz vom 18. März 2016[^6-1] über die elektronische Signatur in Kombination mit einer elektronischen Authentifizierung durch die Spielerin oder den Spieler. Diese Ausweiskopie muss im Rahmen der Ausstellung eines qualifizierten Zertifikats eingeholt worden sein.
 
-[^6-1]: [SR 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
+[^6-1]: [SR 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)
 
 ### 2. Abschnitt: Feststellung der wirtschaftlich berechtigten Person
 
@@ -187,7 +187,7 @@ Eine Geschäftsbeziehung gilt als dauernd, wenn die Spielbank der Spielerin oder
 
 Die Spielbank erfüllt ihre Pflicht zur Registrierung der Transaktionen bei online durchgeführten Spielen durch die Erfassung der Daten gemäss Artikel 39 der Spielbankenverordnung EJPD vom 7. November 2018[^11-1].
 
-[^11-1]: [SR 935.521.21](https://fedlex.data.admin.ch/eli/cc/2004/674)
+[^11-1]: [SR 935.511.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11109)
 
 ### 4. Abschnitt: Besondere Sorgfaltspflichten
 
@@ -221,7 +221,7 @@ Als Kriterien kommen insbesondere in Frage:
 <sup>3</sup> Die Kriterien nach Absatz 2 Buchstaben a, b und f weisen insbesondere dann auf Geschäftsbeziehungen mit erhöhtem Risiko hin, wenn ein Land betroffen ist, das auf den Listen des Groupe d’action financière der Hochrisikostaaten und nicht kooperativen Staaten (GAFI-Listen)[^13-1] aufgeführt oder von internationalen Sanktionen nach dem Embargogesetz vom 22. März 2002[^13-2] betroffen ist.
 
 [^13-1]: www.fatf-gafi.org &gt; pays &gt; juridictions à hauts risques et juridictions sous surveillance
-[^13-2]: [SR 946.231](https://fedlex.data.admin.ch/eli/cc/2002/564)
+[^13-2]: [SR 946.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11413)
 
 #### Art. 14
 
@@ -282,64 +282,36 @@ Die Abklärungen umfassen je nach Bedarf:
 
 <sup>2</sup> Die Spielbank überprüft die Ergebnisse der Abklärungen auf ihre Plausibilität, dokumentiert sie und prüft, ob die Voraussetzungen für eine Meldung nach Artikel 9 Absatz 1 GwG erfüllt sind.
 
-### 5. Abschnitt: Meldungen, Aufrechterhaltung oder Abbruch der Geschäftsbeziehung
+### 5. Abschnitt: Dokumentationspflicht, Ablehnung oder Abbruch der Geschäftsbeziehung
 
-### (Art. 9–11*a* GwG)
+[^chap2-sec5-1]
+
+[^chap2-sec5-1]: Fassung gemäss Ziff. I der V der ESBK vom 25. Okt. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 706](https://fedlex.data.admin.ch/eli/oc/2022/706)).
+
+### (Art. 3–7 GwG)
 
 #### Art. 18
 
-**Meldungen**
+**Dokumentation**
 
-### (Art. 9 GwG und 305<sup>ter</sup> Abs. 2 StGB)
-
-<sup>1</sup> Die Spielbank muss die Meldungen nach Artikel 9 GwG in einer Form erstatten, die die Vorgaben der Meldestelle für Geldwäscherei einhält.
-
-<sup>2</sup> Die Spielbank, die bei zweifelhaften Geschäftsbeziehungen ihr Melderecht nach Artikel 305<sup>ter</sup> Absatz 2 Strafgesetzbuch (StGB)[^18-1] nicht ausübt, muss die Gründe hierfür dokumentieren.
-
-[^18-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+Erstattet die Spielbank keine Verdachtsmeldung, weil sie den Verdacht aufgrund zusätzlicher Abklärungen gemäss Artikel 6 GwG ausräumen konnte, so dokumentiert sie die zugrundeliegenden Gründe.
 
 #### Art. 19
 
-**Pflicht zur Aufrechterhaltung der Geschäftsbeziehung**
-
-<sup>1</sup>
-
-Die Spielbank darf eine Geschäftsbeziehung nicht abbrechen, wenn:
-
-- a. die Voraussetzungen für die Meldepflicht nach Artikel 9 GwG gegeben sind;
-- b. sie ihr Melderecht nach Artikel 305<sup>ter</sup> Absatz 2 StGB ausübt.
-
-<sup>2</sup> Sie darf eine Geschäftsbeziehung weder abbrechen noch den Abzug bedeutender Vermögenswerte zulassen, wenn konkrete Anzeichen dafür bestehen, dass behördliche Sicherstellungsmassnahmen unmittelbar bevorstehen.
+Aufgehoben
 
 #### Art. 20
 
 **Ablehnung oder Abbruch der Geschäftsbeziehung**
 
-<sup>1</sup>
-
-Die Spielbank lehnt die Aufnahme einer Geschäftsbeziehung ab oder bricht eine bereits eingegangene Geschäftsbeziehung ab, wenn:
+Die Spielbank lehnt die Aufnahme einer Geschäftsbeziehung ab oder bricht eine bereits eingegangene Geschäftsbeziehung unter Vorbehalt von Artikel 12*a* der Geldwäschereiverordnung vom 11. November 2015[^20-1] ab, wenn:
 
 - a. es ihr nicht gelingt, die Identität der Spielerin oder des Spielers zu überprüfen oder die wirtschaftlich berechtigte Person zu identifizieren;
 - b. es ihr nicht gelingt, die wirtschaftlichen Hintergründe der Spielerin oder des Spielers abzuklären;
 - c. ihre Zweifel an den Angaben der Spielerin oder des Spielers auch nach der Durchführung des Verfahrens nach Artikel 5 Absatz 1 GwG bestehen bleiben;
-- d. sie den Verdacht hat, dass ihr gegenüber wissentlich falsche Angaben über die Identität oder die wirtschaftlichen Hintergründe der Spielerin oder des Spielers oder über die wirtschaftlich berechtigte Person gemacht wurden.
+- d. sie den Verdacht hat, dass ihr gegenüber wissentlich falsche Angaben über die Identität der Spielerin oder des Spielers oder über ihren oder seinen wirtschaftlichen Hintergrund oder über die wirtschaftlich berechtigte Person gemacht wurden.
 
-<sup>2</sup>
-
-Sie entscheidet nach eigenem Ermessen über die Weiterführung oder den Abbruch der Geschäftsbeziehung, wenn:
-
-- a.
-
-  die Meldestelle für Geldwäscherei ihr nach einer Meldung nach Artikel 9 Absatz 1 Buchstabe a GwG innert 20 Arbeitstagen:
-
-  - 1\. keine Mitteilung macht,
-  - 2\. mitteilt, dass die Meldung nicht an eine Strafverfolgungsbehörde weitergeleitet wird,
-  - 3\. mitteilt, dass die Meldung an eine Strafverfolgungsbehörde weitergeleitet wird, und die Spielbank ab dem Zeitpunkt dieser Mitteilung innert fünf Arbeitstagen keine Verfügung der Strafverfolgungsbehörde erhält;
-
-- b. sie nach einer Meldung nach Artikel 9 Absatz 1 Buchstabe c GwG nicht innert fünf Arbeitstagen eine Verfügung der Strafverfolgungsbehörde erhält; oder
-- c. sie nach einer Meldung nach Artikel 305<sup>ter</sup> Absatz 2 StGB eine Mitteilung der Meldestelle für Geldwäscherei erhält, wonach die Meldung nicht an eine Strafverfolgungsbehörde weitergeleitet wird.
-
-<sup>3</sup> Die Spielbank, die die Geschäftsbeziehung abbrechen will, darf den Rückzug bedeutender Vermögenswerte durch die Spielerin oder den Spieler nur in einer Form gestatten, die es den Strafverfolgungsbehörden erlaubt, deren Spur weiterzuverfolgen.
+[^20-1]: [SR 955.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11600)
 
 ## 3. Kapitel: Organisatorische Massnahmen
 
@@ -369,7 +341,7 @@ Die Dokumentation umfasst insbesondere:
 
 <sup>5</sup> Die im Zusammenhang mit einer Meldung nach Artikel 9 Absatz 1 GwG oder nach Artikel 305<sup>ter</sup> Absatz 2 StGB[^21-1] gesammelten Daten vernichtet sie fünf Jahre nach der Meldung an die zuständige Behörde.
 
-[^21-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^21-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### 2. Abschnitt: Interne Organisation
 

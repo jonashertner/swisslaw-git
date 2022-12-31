@@ -4,11 +4,11 @@ title: "Ordinanza del 12 novembre 2018 della Commissione federale delle case da 
 short: ORD-CFCG
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/802"
 language: it
-version: 2019-01-01
+version: 2023-01-01
 adopted: 2018-11-12
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/802/20190101/it/xml/fedlex-data-admin-ch-eli-cc-2018-802-20190101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/802/20190101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/802/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2018-802-20230101-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/802/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/802/20190101/it"
 
 (Ordinanza della CFCG sul riciclaggio di denaro, ORD-CFCG)
 
-del 12 novembre 2018 (Stato 1° gennaio 2019)
+del 12 novembre 2018 (Stato 1° gennaio 2023)
 
 La Commissione federale delle case da gioco (CFCG),
 
@@ -25,8 +25,8 @@ visto l’articolo 17 della legge del 10 ottobre 1997[^ingress-1] sul riciclaggi
 
 ordina:
 
-[^ingress-1]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
-[^ingress-2]: [RS 935.51](https://fedlex.data.admin.ch/eli/cc/2018/795)
+[^ingress-1]: [RS 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
+[^ingress-2]: [RS 935.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11107)
 
 ## Capitolo 1: Oggetto e campo d’applicazione
 
@@ -74,7 +74,7 @@ Nel settore dei giochi in linea, la casa da gioco identifica e registra il gioca
 - a. versamento sul suo conto giocatore secondo l’articolo 50 capoverso 1 dell’ordinanza del 7 novembre 2018[^3-1] sui giochi in denaro (OGD); o
 - b. versamento di vincite e averi sul conto di pagamento secondo l’articolo 50 capoverso 2 OGD.
 
-[^3-1]: [RS 935.511](https://fedlex.data.admin.ch/eli/cc/2018/796)
+[^3-1]: [RS 935.511](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11108)
 
 #### Art. 4
 
@@ -116,7 +116,7 @@ La copia del documento d’identità di cui all’articolo 5 capoverso 1 lettera
 
 <sup>2</sup> È considerata attestazione di autenticità valida anche la copia del documento d’identità presente nella banca dati di un prestatore di servizi di certificazione riconosciuto secondo la legge federale del 18 marzo 2016[^6-1] sulla firma elettronica in combinazione con un’autenticazione elettronica effettuata dal giocatore in questo ambito. La copia del documento d’identità è richiesta nel quadro dell’emissione di un certificato qualificato.
 
-[^6-1]: [RS 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
+[^6-1]: [RS 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)
 
 ### Sezione 2: Accertamento dell’avente economicamente diritto
 
@@ -187,7 +187,7 @@ Una relazione d’affari è considerata duratura se la casa da gioco mette a dis
 
 La casa da gioco adempie l’obbligo di registrare le transazioni nel settore dei giochi in linea rilevando i dati di cui all’articolo 39 dell’ordinanza del DFGP del 7 novembre 2018[^11-1] sulle case da gioco.
 
-[^11-1]: [RS 935.521.21](https://fedlex.data.admin.ch/eli/cc/2004/674)
+[^11-1]: [RS 935.511.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11109)
 
 ### Sezione 4: Obblighi di diligenza particolari
 
@@ -221,7 +221,7 @@ Entrano in considerazione segnatamente i criteri seguenti:
 <sup>3</sup> I criteri di cui al capoverso 2 lettere a, b ed f indicano relazioni d’affari che comportano un rischio elevato in particolare se il Paese interessato figura negli elenchi delle giurisdizioni ad alto rischio e non cooperanti del Gruppo d’azione finanziaria (GAFI)[^13-1] o se è soggetto a sanzioni internazionali ai sensi della legge del 22 marzo 2002[^13-2] sugli embarghi.
 
 [^13-1]: www.fatf-gafi.org &gt; pays &gt; juridictions à hauts risques et juridictions sous surveillance
-[^13-2]: [RS 946.231](https://fedlex.data.admin.ch/eli/cc/2002/564)
+[^13-2]: [RS 946.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11413)
 
 #### Art. 14
 
@@ -282,64 +282,36 @@ A seconda del caso i chiarimenti comprendono:
 
 <sup>2</sup> La casa da gioco verifica la plausibilità dei chiarimenti ottenuti, li documenta ed esamina se sono adempiute le condizioni per una comunicazione ai sensi dell’articolo 9 capoverso 1 LRD.
 
-### Sezione 5 Comunicazioni, mantenimento o interruzione della relazione d’affari
+### Sezione 5: Documentazione, rifiuto o interruzione della relazione d’affari
 
-### (art. 9–11*a* LRD)
+[^chap2-sec5-1]
+
+[^chap2-sec5-1]: Nuovo testo giusta il n. I dell’O del 25 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 706](https://fedlex.data.admin.ch/eli/oc/2022/706)).
+
+### (art. 3–7 LRD)
 
 #### Art. 18
 
-**Comunicazioni**
+**Documentazione**
 
-### (art. 9 LRD; art. 305<sup>ter</sup> cpv.2 CP)
-
-<sup>1</sup> La casa da gioco effettua le comunicazioni secondo l’articolo 9 LRD in una forma conforme alle istruzioni dell’Ufficio di comunicazione in materia di riciclaggio di denaro.
-
-<sup>2</sup> La casa da gioco che, in caso di una relazione d’affari sospetta, ne documenta i motivi non esercita il suo diritto di comunicazione ai sensi dell’articolo 305<sup>ter</sup> capoverso 2 del Codice penale (CP)[^18-1].
-
-[^18-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+Se la casa da gioco non effettua alcuna comunicazione perché è riuscita a dissipare il sospetto mediante chiarimenti complementari secondo l’articolo 6 LRD, ne documenta i motivi.
 
 #### Art. 19
 
-**Obbligo di mantenere la relazione d’affari**
-
-<sup>1</sup>
-
-La casa da gioco non può interrompere una relazione d’affari:
-
-- a. se sono soddisfatte le condizioni relative all’obbligo di comunicazione ai sensi dell’articolo 9 LRD;
-- b. se esercita il suo diritto di comunicazione ai sensi dell’articolo 305<sup>ter</sup> capoverso 2 CP.
-
-<sup>2</sup> La casa da gioco non può interrompere una relazione d’affari né autorizzare il ritiro di importanti valori patrimoniali se indizi concreti indicano che un’autorità sta per adottare misure di sicurezza.
+Abrogato
 
 #### Art. 20
 
 **Rifiuto o interruzione della relazione d’affari**
 
-<sup>1</sup>
-
-La casa da gioco rifiuta di avviare una relazione d’affari o interrompe una relazione d’affari già avviata se:
+La casa da gioco rifiuta di avviare una relazione d’affari oppure, fatto salvo l’articolo 12*a* dell’ordinanza dell’11 novembre 2015[^20-1] sul riciclaggio di denaro, interrompe una relazione d’affari già avviata se:
 
 - a. non riesce a verificare l’identità del giocatore o identificare l’avente economicamente diritto;
 - b. non riesce a chiarire il contesto economico del giocatore;
 - c. dubita delle indicazioni fornite dal giocatore anche dopo che è stata attuata la procedura di cui all’articolo 5 capoverso 1 LRD;
 - d. sospetta che le siano state fornite intenzionalmente indicazioni false sull’identità del giocatore o sul suo contesto economico oppure sull’avente economicamente diritto.
 
-<sup>2</sup>
-
-La casa da gioco sceglie, a propria discrezione, se mantenere o no una relazione d’affari:
-
-- a.
-
-  se entro 20 giorni lavorativi da una comunicazione ai sensi dell’articolo 9 capoverso 1 lettera a LRD, l’Ufficio di comunicazione in materia di riciclaggio di denaro:
-
-  - 1\. non le fornisce informazioni,
-  - 2\. la informa che la comunicazione non viene trasmessa a un’autorità di perseguimento penale,
-  - 3\. la informa che la comunicazione è trasmessa a un’autorità di perseguimento penale e che a partire da tale trasmissione non riceve alcuna decisione dell’autorità di perseguimento penale entro cinque giorni lavorativi;
-
-- b. se dopo una comunicazione ai sensi dell’articolo 9 capoverso 1 lettera c LRD non riceve alcuna decisione dell’autorità di perseguimento penale entro cinque giorni lavorativi dal momento in cui è giunta questa informazione; oppure
-- c. se dopo una comunicazione ai sensi dell’articolo 305<sup>ter</sup> capoverso 2 CP, l’Ufficio di comunicazione in materia di riciclaggio di denaro la informa che la sua comunicazione non sarà inoltrata a un’autorità di perseguimento penale.
-
-<sup>3</sup> Se intende interrompere la relazione d’affari, la casa da gioco può autorizzare il prelievo di importanti valori patrimoniali da parte del giocatore unicamente in una forma tale da consentire alle autorità di perseguimento penale di seguirne la traccia.
+[^20-1]: [RS 955.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11600)
 
 ## Capitolo 3: Provvedimenti organizzativi
 
@@ -369,7 +341,7 @@ La documentazione comprende segnatamente:
 
 <sup>5</sup> La casa da gioco distrugge i dati relativi a una comunicazione ai sensi dell’articolo 9 capoverso 1 LRD o dell’articolo 305<sup>ter</sup> capoverso 2 CP[^21-1], cinque anni dopo la comunicazione all’autorità competente.
 
-[^21-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^21-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### Sezione 2: Organizzazione interna
 
@@ -433,4 +405,4 @@ L’ordinanza della Commissione federale delle case da gioco del 24 giugno 2015[
 
 La presente ordinanza entra in vigore simultaneamente alla LGD[^27-1].
 
-[^27-1]: Entrata in vigore il 1° gennaio 2019 ([RU 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795)).
+[^27-1]: Entrata in vigore il 1° gen. 2019 ([RU 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795)).

@@ -4,11 +4,11 @@ title: "Ordonnance du 12 novembre 2018 de la Commission fédérale des maisons d
 short: OBA-CFMJ
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/802"
 language: fr
-version: 2019-01-01
+version: 2023-01-01
 adopted: 2018-11-12
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/802/20190101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-802-20190101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/802/20190101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/802/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-802-20230101-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/802/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/802/20190101/fr"
 
 (Ordonnance de la CFMJ sur le blanchiment d’argent, OBA-CFMJ)
 
-du 12 novembre 2018 (Etat le 1<sup>er</sup> janvier 2019)
+du 12 novembre 2018 (État le 1<sup>er</sup> janvier 2023)
 
 La Commission fédérale des maisons de jeu (CFMJ),
 
@@ -25,8 +25,8 @@ vu l’art. 17 de la loi du 10 octobre 1997 sur le blanchiment d’argent (LBA)[
 
 arrête:
 
-[^ingress-1]: [RS 955.0](https://fedlex.data.admin.ch/eli/cc/1998/892_892_892)
-[^ingress-2]: [RS 935.51](https://fedlex.data.admin.ch/eli/cc/2018/795)
+[^ingress-1]: [RS 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
+[^ingress-2]: [RS 935.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11107)
 
 ## Chapitre 1 Objet et champ d’application
 
@@ -74,7 +74,7 @@ Dans le domaine des jeux en ligne, la maison de jeu procède à l’identificati
 - a. versement sur son compte joueur selon l’art. 50, al. 1, de l’ordonnance du 7 novembre 2018 sur les jeux d’argent (OJAr)[^3-1], ou
 - b. versement des gains ou des avoirs sur son compte de paiement selon l’art. 50, al. 2, OJAr.
 
-[^3-1]: [RS 935.511](https://fedlex.data.admin.ch/eli/cc/2018/796)
+[^3-1]: [RS 935.511](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11108)
 
 #### Art. 4
 
@@ -95,7 +95,7 @@ La preuve de l’identité du joueur peut être apportée par:
 - a. un document d’identité officiel rédigé en alphabet latin et muni d’une photographie tel qu’un passeport, une carte d’identité ou un permis de conduire;
 - b. la copie certifiée conforme selon l’art. 6 du document d’identité visé à la let. a;
 - c. la copie du document d’identité visé à la let. a, accompagnée d’une preuve que le joueur dispose d’un compte de paiement libellé à son nom en Suisse;
-- d. un moyen d’identification électronique reconnu par l’Etat;
+- d. un moyen d’identification électronique reconnu par l’État;
 - e. une identification vidéo ou en ligne, ou
 - f. tout autre moyen équivalent préalablement approuvé par la CFMJ.
 
@@ -116,7 +116,7 @@ La copie du document d’identité visé à l’art. 5, al. 1, let. a, doit êtr
 
 <sup>2</sup> Est également réputé certificat de conformité la copie d’un document d’identité issue de la banque de données d’un fournisseur reconnu de services de certification au sens de la loi du 18 mars 2016 sur la signature électronique[^6-1], en combinaison avec une authentification électronique par le joueur. La copie du document d’identité doit être établie dans le cadre de la délivrance d’un certificat qualifié.
 
-[^6-1]: [RS 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
+[^6-1]: [RS 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)
 
 ### Section 2 Identification de l’ayant droit économique
 
@@ -187,7 +187,7 @@ Une relation d’affaires est considérée comme durable lorsque la maison de je
 
 La maison de jeu remplit son obligation d’enregistrement des transactions dans le domaine des jeux en ligne en recueillant les données visées à l’art. 39 de l’ordonnance du DFJP du 7 novembre 2018 sur les maisons de jeu[^11-1].
 
-[^11-1]: [RS 935.521.21](https://fedlex.data.admin.ch/eli/cc/2004/674)
+[^11-1]: [RS 935.511.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11109)
 
 ### Section 4 Obligations de diligence particulières
 
@@ -221,7 +221,7 @@ Entrent notamment en considération les critères suivants:
 <sup>3</sup> Les critères définis à l’al. 2, let. a, b et f, indiquent des relations d’affaires comportant un risque accru, notamment lorsque le pays concerné figure sur les listes de juridictions à haut risque et non coopératives du Groupe d’action financière (GAFI)[^13-1] ou fait l’objet de sanctions internationales au sens de la loi du 22 mars 2002 sur les embargos[^13-2].
 
 [^13-1]: www.fatf-gafi.org &gt; pays &gt; juridictions à hauts risques et juridictions sous surveillance
-[^13-2]: [RS 946.231](https://fedlex.data.admin.ch/eli/cc/2002/564)
+[^13-2]: [RS 946.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11413)
 
 #### Art. 14
 
@@ -282,64 +282,36 @@ Les clarifications consistent, selon le cas, à:
 
 <sup>2</sup> La maison de jeu vérifie la plausibilité du résultat des clarifications, consigne ses conclusions par écrit et examine si les conditions d’une communication au sens de l’art. 9, al. 1, LBA sont remplies.
 
-### Section 5 Communications, maintien ou rupture de la relation d’affaires
+### Section 5 Documentation, refus ou rupture de la relation d’affaires
 
-### (art. 9 à 11*a* LBA)
+[^chap2-sec5-1]
+
+[^chap2-sec5-1]: Nouvelle teneur selon le ch. I de l’O de la CFMJ du 25 oct. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 706](https://fedlex.data.admin.ch/eli/oc/2022/706)).
+
+### (art. 3 à 7 LBA)
 
 #### Art. 18
 
-**Communications**
+**Documentation**
 
-### (art. 9 LBA et 305<sup>ter</sup>, al.2, CP)
-
-<sup>1</sup> La maison de jeu doit effectuer les communications visées à l’art. 9 LBA dans une forme qui respecte les prescriptions du Bureau de communication en matière de blanchiment d’argent.
-
-<sup>2</sup> La maison de jeu qui n’exerce pas son droit de communication selon l’art. 305<sup>ter</sup>, al. 2, du code pénal (CP)[^18-1] dans le cas d’une relation d’affaires douteuse doit en documenter les raisons.
-
-[^18-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+Si la maison de jeu n’effectue pas de communication parce qu’elle a pu écarter le soupçon après avoir effectué des clarifications supplémentaires au sens de l’art. 6 LBA, elle doit en documenter les raisons.
 
 #### Art. 19
 
-**Obligation de maintenir la relation d’affaires**
-
-<sup>1</sup>
-
-La maison de jeu ne peut pas rompre une relation d’affaires:
-
-- a. lorsque les conditions déterminant l’obligation de communiquer au sens de l’art. 9 LBA sont remplies;
-- b. lorsqu’elle exerce son droit de communiquer selon l’art. 305<sup>ter</sup>, al. 2, CP.
-
-<sup>2</sup> Elle ne peut ni rompre une relation d’affaires, ni autoriser le retrait d’importantes valeurs patrimoniales lorsque des signes concrets indiquent que des mesures de sûreté sont sur le point d’être adoptées par une autorité.
+Abrogé
 
 #### Art. 20
 
 **Refus ou rupture de la relation d’affaires**
 
-<sup>1</sup>
-
-La maison de jeu refuse d’établir une relation d’affaires ou rompt une relation d’affaires déjà engagée:
+La maison de jeu refuse d’établir une relation d’affaires ou rompt une relation d’affaires déjà engagée, sous réserve de l’art. 12*a* de l’ordonnance du 11 novembre 2015 sur le blanchiment d’argent[^20-1]:
 
 - a. lorsqu’elle ne parvient pas à vérifier l’identité du joueur ou à identifier l’ayant droit économique;
 - b. lorsqu’elle ne parvient pas à clarifier l’arrière-plan économique du joueur;
-- c. lorsqu’elle doute de la véracité des indications données par le joueur, même après la mise en oeuvre de la procédure prévue à l’art. 5, al. 1, LBA;
+- c. lorsqu’elle doute de la véracité des indications données par le joueur, même après la mise en œuvre de la procédure prévue à l’art. 5, al. 1, LBA;
 - d. lorsqu’elle soupçonne qu’on lui a donné sciemment de fausses indications sur l’identité du joueur ou son arrière-plan économique, ou sur l’ayant droit économique.
 
-<sup>2</sup>
-
-Elle choisit, selon sa propre appréciation, de maintenir ou non une relation d’affaires:
-
-- a.
-
-  si dans un délai de 20 jours ouvrables suivant une communication selon l’art. 9, al. 1, let. a, LBA, le Bureau de communication en matière de blanchiment d’argent:
-
-  - 1\. ne lui donne pas d’informations,
-  - 2\. l’informe que la communication ne sera pas transmise à une autorité de poursuite pénale,
-  - 3\. l’informe que la communication sera transmise à une autorité de poursuite pénale et qu’elle ne recevra aucune décision de l’autorité de poursuite pénale dans un délai de cinq jours ouvrables;
-
-- b. si après une communication selon l’art. 9, al. 1, let. c, LBA, elle ne reçoit aucune décision de l’autorité de poursuite pénale dans un délai de cinq jours ouvrables après avoir reçu cette information, ou
-- c. si après une communication selon l’art. 305<sup>ter</sup>, al. 2, CP, elle reçoit une communication du Bureau de communication en matière de blanchiment d’argent selon laquelle la communication ne sera pas transmise à une autorité de poursuite pénale.
-
-<sup>3</sup> Si la maison de jeu choisit de rompre la relation d’affaires, elle ne peut autoriser le retrait d’importantes valeurs patrimoniales par le joueur que sous une forme permettant à l’autorité de poursuite pénale de suivre la trace de ces valeurs.
+[^20-1]: [RS 955.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11600)
 
 ## Chapitre 3 Mesures organisationnelles
 
@@ -369,7 +341,7 @@ Cette documentation comprend notamment:
 
 <sup>5</sup> Elle détruit les données se rapportant à une communication selon l’art. 9, al. 1, LBA, ou l’art. 305<sup>ter</sup>, al. 2, CP[^21-1], cinq ans après la communication à l’autorité compétente.
 
-[^21-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^21-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### Section 2 Organisation interne
 
