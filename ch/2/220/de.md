@@ -4,18 +4,18 @@ title: "Bundesgesetz vom 30. März 1911 betreffend die Ergänzung des Schweizeri
 short: OR
 eli: "https://fedlex.data.admin.ch/eli/cc/27/317_321_377"
 language: de
-version: 2022-01-01
+version: 2023-01-01
 adopted: 1911-03-30
 in_force: 1912-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20220101/de/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20220101-de-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20230101/de/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20230101-de-xml-25.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Bundesgesetz betreffend die Ergänzung des Schweizerischen Zivilgesetzbuches (Fünfter Teil: Obligationenrecht)
 
-vom 30. März 1911 (Stand am 1. Januar 2022)
+vom 30. März 1911 (Stand am 1. Januar 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -163,7 +163,7 @@ Ist für einen Vertrag die schriftliche Form gesetzlich vorgeschrieben, so gilt 
 
 <sup>1</sup> Ein Vertrag, für den die schriftliche Form gesetzlich vorgeschrieben ist, muss die Unterschriften aller Personen tragen, die durch ihn verpflichtet werden sollen.
 
-<sup>2</sup> *…*[^13-1]
+<sup>2</sup> …[^13-1]
 
 [^13-1]: Aufgehoben durch Anhang Ziff. 2 des BG vom 19. Dez. 2003 über die elektronische Signatur, mit Wirkung seit 1. Jan. 2005 ([AS 2004 5085](https://fedlex.data.admin.ch/eli/oc/2004/788); [BBl 2001 5679](https://fedlex.data.admin.ch/eli/fga/2001/889)).
 
@@ -702,7 +702,7 @@ Bei Tötung eines Menschen oder Körperverletzung kann der Richter unter Würdig
 
 <sup>2</sup> Vorbehalten bleibt ihm der Rückgriff, wenn das Tier von einem andern oder durch das Tier eines andern gereizt worden ist.
 
-<sup>3</sup> *…*[^56-1]
+<sup>3</sup> …[^56-1]
 
 [^56-1]: Aufgehoben durch Art. 27 Ziff. 3 des Jagdgesetzes vom 20. Juni 1986, mit Wirkung seit 1. April 1988 ([AS 1988 506](https://fedlex.data.admin.ch/eli/oc/1988/506_506_506); [BBl 1983 II 1197](https://fedlex.data.admin.ch/eli/fga/1983/2_1197_1229_1169)).
 
@@ -1492,7 +1492,7 @@ Die Verjährung beginnt nicht und steht still, falls sie begonnen hat:
 
 [^134-1]: Fassung gemäss Anhang Ziff. 1 des BG vom 20. März 2015 (Kindesunterhalt), in Kraft seit 1. Jan. 2017 ([AS 2015 4299](https://fedlex.data.admin.ch/eli/oc/2015/728); [BBl 2014 529](https://fedlex.data.admin.ch/eli/fga/2014/98)).
 [^134-2]: Fassung gemäss Anhang Ziff. 10 des BG vom 19. Dez. 2008 (Erwachsenenschutz, Personenrecht und Kindesrecht), in Kraft seit 1. Jan. 2013 ([AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [BBl 2006 7001](https://fedlex.data.admin.ch/eli/fga/2006/899)).
-[^134-3]: Eingefügt durch Anhang Ziff. 11 des Partnerschaftsgesetzes vom 18. Juni 2004, in Kraft seit 1. Jan. 2007 ([AS 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); BBl **20****03** 1288).
+[^134-3]: Eingefügt durch Anhang Ziff. 11 des Partnerschaftsgesetzes vom 18. Juni 2004, in Kraft seit 1. Jan. 2007 ([AS 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [BBl 2003 1288](https://fedlex.data.admin.ch/eli/fga/2003/194)).
 [^134-4]: Fassung gemäss Ziff. II Art. 1 Ziff. 5 des BG vom 25. Juni 1971, in Kraft seit 1. Jan. 1972 ([AS 1971 1465](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461); [BBl 1967 II 241](https://fedlex.data.admin.ch/eli/fga/1967/2_241_249_177)). Siehe auch die Schl- und UeB des X. Tit.
 [^134-5]: Fassung gemäss Ziff. I des BG vom 15. Juni 2018 (Revision des Verjährungsrechts), in Kraft seit 1. Jan. 2020 ([AS 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [BBl 2014 235](https://fedlex.data.admin.ch/eli/fga/2014/65)).
 [^134-6]: Eingefügt durch Ziff. I des BG vom 15. Juni 2018 (Revision des Verjährungsrechts), in Kraft seit 1. Jan. 2020 ([AS 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [BBl 2014 235](https://fedlex.data.admin.ch/eli/fga/2014/65)).
@@ -1741,7 +1741,7 @@ Wird eine Bedingung in der Absicht beigefügt, eine widerrechtliche oder unsittl
 
 <sup>3</sup> Ist ein Reugeld verabredet worden, so kann der Geber gegen Zurücklassung des bezahlten und der Empfänger gegen Erstattung des doppelten Betrages von dem Vertrage zurücktreten.
 
-### B. *…*
+### B. …
 
 #### Art. 159
 
@@ -1777,7 +1777,7 @@ Wird eine Bedingung in der Absicht beigefügt, eine widerrechtliche oder unsittl
 
 <sup>1</sup> Die Abrede, dass Teilzahlungen im Falle des Rücktrittes dem Gläubiger verbleiben sollen, ist nach den Vorschriften über die Konventionalstrafe zu beurteilen.
 
-<sup>2</sup> *…*[^162-1]
+<sup>2</sup> …[^162-1]
 
 [^162-1]: Aufgehoben durch Anhang 2 Ziff. II 1 des BG vom 23. März 2001 über den Konsumkredit, mit Wirkung seit 1. Jan. 2003 ([AS 2002 3846](https://fedlex.data.admin.ch/eli/oc/2002/593); [BBl 1999 III 3155](https://fedlex.data.admin.ch/eli/fga/1999/1_3155_2879_2697)).
 
@@ -1967,7 +1967,7 @@ Wo das Gesetz für die Übertragung von Forderungen besondere Bestimmungen aufst
 [^181-2]: [SR 221.301](https://fedlex.data.admin.ch/eli/cc/2004/320)
 [^181-3]: Eingefügt durch Anhang Ziff. 2 des Fusionsgesetzes vom 3. Okt. 2003 ([AS 2004 2617](https://fedlex.data.admin.ch/eli/oc/2004/320); [BBl 2000 4337](https://fedlex.data.admin.ch/eli/fga/2000/921)). Fassung gemäss Ziff. I 3 des BG vom 16. Dez. 2005 (GmbH-Recht sowie Anpassungen im Aktien-, Genossenschafts-, Handelsregister- und Firmenrecht), in Kraft seit 1. Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 
-### VI. *…*
+### VI. …
 
 #### Art. 182
 
@@ -2346,7 +2346,7 @@ Eine Vereinbarung über die Verkürzung der Verjährungsfrist ist ungültig, wen
 <sup>3</sup> Vorkaufsverträge, die den Kaufpreis nicht zum voraus bestimmen, sind in schriftlicher Form gültig.[^216-2]
 
 [^216-1]: Fassung gemäss Ziff. II des BG vom 4. Okt. 1991 über die Teilrevision des Zivilgesetzbuches (Immobiliarsachenrecht) und des Obligationenrechts (Grundstückkauf), in Kraft seit 1. Jan. 1994 ([AS 1993 1404](https://fedlex.data.admin.ch/eli/oc/1993/1404_1404_1404); [BBl 1988 III 953](https://fedlex.data.admin.ch/eli/fga/1988/3_953_889_821)).
-[^216-2]: Fassung gemäss Ziff. II des BG vom 4. Okt. 1991 über die Teilrevision des Zivilgesetzbuches (Immobiliarsachenrecht) und des Obligationenrechts (Grundstückkauf), in Kraft seit 1. Jan. 1994 (AS **19****93** 1404; [BBl 1988 III 953](https://fedlex.data.admin.ch/eli/fga/1988/3_953_889_821)).
+[^216-2]: Fassung gemäss Ziff. II des BG vom 4. Okt. 1991 über die Teilrevision des Zivilgesetzbuches (Immobiliarsachenrecht) und des Obligationenrechts (Grundstückkauf), in Kraft seit 1. Jan. 1994 ([AS 1993 1404](https://fedlex.data.admin.ch/eli/oc/1993/1404_1404_1404); [BBl 1988 III 953](https://fedlex.data.admin.ch/eli/fga/1988/3_953_889_821)).
 
 ### A<sup>bis</sup>. Befristung und Vormerkung
 
@@ -2493,7 +2493,7 @@ Im Übrigen finden auf den Grundstückkauf die Bestimmungen über den Fahrniskau
 
 [^226-1]: Aufgehoben durch Ziff. I des BG vom 23. März 1962, mit Wirkung seit 1. Jan. 1963 ([AS 1962 1047](https://fedlex.data.admin.ch/eli/oc/1962/1047_1082_1085); [BBl 1960 I 523](https://fedlex.data.admin.ch/eli/fga/1960/1_523_537_282)).
 
-### C. *…*
+### C. …
 
 #### Art. 226a<sup>–</sup>226d
 
@@ -2651,7 +2651,7 @@ Wird die eingetauschte Sache entwehrt oder wegen ihrer Mängel zurückgegeben, s
 
 <sup>2</sup> Aus dem Vermögen eines Handlungsunfähigen dürfen nur übliche Gelegenheitsgeschenke ausgerichtet werden. Die Verantwortlichkeit des gesetzlichen Vertreters bleibt vorbehalten.[^240-1]
 
-<sup>3</sup> *…* [^240-2]
+<sup>3</sup> …[^240-2]
 
 [^240-1]: Fassung gemäss Anhang Ziff. 10 des BG vom 19. Dez. 2008 (Erwachsenenschutz, Personenrecht und Kindesrecht), in Kraft seit 1. Jan. 2013 ([AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [BBl 2006 7001](https://fedlex.data.admin.ch/eli/fga/2006/899)).
 [^240-2]: Aufgehoben durch Anhang Ziff. 10 des BG vom 19. Dez. 2008 (Erwachsenenschutz, Personenrecht und Kindesrecht), mit Wirkung seit 1. Jan. 2013 ([AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [BBl 2006 7001](https://fedlex.data.admin.ch/eli/fga/2006/899)).
@@ -3587,7 +3587,7 @@ Will der Mieter eine Erstreckung des Mietverhältnisses verlangen, so muss er da
 
 <sup>2</sup> Abweichende Vereinbarungen sind nichtig.
 
-### Vierter Abschnitt: *…*
+### Vierter Abschnitt: …
 
 #### Art. 274–274g
 
@@ -3595,7 +3595,7 @@ Will der Mieter eine Erstreckung des Mietverhältnisses verlangen, so muss er da
 
 [^274274g-1]: Aufgehoben durch Anhang 1 Ziff. II 5 der Zivilprozessordnung vom 19. Dez. 2008, mit Wirkung seit 1. Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
-### Achter Titel<sup>b</sup> <sup>is</sup>: Die Pacht
+### Achter Titel<sup>bis</sup>: Die Pacht
 
 [^part2-tit8bis-1]
 
@@ -3625,8 +3625,8 @@ Die Bestimmungen über die Pacht von Wohn- und Geschäftsräumen gelten auch fü
 
 <sup>2</sup> Im Übrigen gilt das Obligationenrecht mit Ausnahme der Bestimmungen über die Pacht von Wohn- und Geschäftsräumen.[^276a-2]
 
-[^276a-1]: SR **2****21.213.2**
-[^276a-2]: Fassung gemäss Anhang 1 Ziff. II 5 der Zivilprozessordnung vom 19. Dez. 2008, in Kraft seit 1. Jan. 2011 (AS **20****10** 1739; [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^276a-1]: [SR 221.213.2](https://fedlex.data.admin.ch/eli/cc/1986/926_926_926)
+[^276a-2]: Fassung gemäss Anhang 1 Ziff. II 5 der Zivilprozessordnung vom 19. Dez. 2008, in Kraft seit 1. Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
 ### B. Inventaraufnahme
 
@@ -4086,7 +4086,7 @@ Ein Darlehen, für dessen Rückzahlung weder ein bestimmter Termin noch eine Kü
 
 [^part2-tit10-1]
 
-[^part2-tit10-1]: Fassung gemäss Ziff. I des BG vom 25. Juni 1971, in Kraft seit 1. Jan. 1972 (AS **1****971** 1465; [BBl 1967 II 241](https://fedlex.data.admin.ch/eli/fga/1967/2_241_249_177)). Siehe auch Art. 7 Schl- und UeB des X. Tit. am Schluss des OR.
+[^part2-tit10-1]: Fassung gemäss Ziff. I des BG vom 25. Juni 1971, in Kraft seit 1. Jan. 1972 ([AS 1971 1465](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461); [BBl 1967 II 241](https://fedlex.data.admin.ch/eli/fga/1967/2_241_249_177)). Siehe auch Art. 7 Schl- und UeB des X. Tit. am Schluss des OR.
 
 ### Erster Abschnitt: Der Einzelarbeitsvertrag
 
@@ -4286,7 +4286,7 @@ Der Arbeitnehmer hat die vertraglich übernommene Arbeit in eigener Person zu le
 
 <sup>3</sup> Werden die Versicherungsleistungen erst nach einer Wartezeit gewährt, so hat der Arbeitgeber für diese Zeit mindestens vier Fünftel des Lohnes zu entrichten.[^324b-1]
 
-[^324b-1]: Eingefügt durch Anhang Ziff. 12 des Unfallversicherungsgesetzes vom 20. März 1981, in Kraft seit 1. Jan. 1984 ([AS 1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)[1724](https://fedlex.data.admin.ch/eli/oc/1982/1724_1724_1724)Art. 1 Abs. 1; BBl **197****6** III 141).
+[^324b-1]: Eingefügt durch Anhang Ziff. 12 des Unfallversicherungsgesetzes vom 20. März 1981, in Kraft seit 1. Jan. 1984 ([AS 1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)[1724](https://fedlex.data.admin.ch/eli/oc/1982/1724_1724_1724)Art. 1 Abs. 1; [BBl 1976 III 141](https://fedlex.data.admin.ch/eli/fga/1976/3_141_143_155)).
 
 ### IV. Abtretung und Verpfändung von Lohnforderungen
 
@@ -4353,7 +4353,7 @@ Der Arbeitnehmer hat die vertraglich übernommene Arbeit in eigener Person zu le
 
 <sup>2</sup> Stellt der Arbeitnehmer im Einverständnis mit dem Arbeitgeber selbst ein Motorfahrzeug, so sind ihm überdies die öffentlichen Abgaben für das Fahrzeug, die Prämien für die Haftpflichtversicherung und eine angemessene Entschädigung für die Abnützung des Fahrzeugs nach Massgabe des Gebrauchs für die Arbeit zu vergüten.
 
-<sup>3</sup> *…*[^327b-1]
+<sup>3</sup> …[^327b-1]
 
 [^327b-1]: Aufgehoben durch Anhang Ziff. 12 des Unfallversicherungsgesetzes vom 20. März 1981, mit Wirkung seit 1. Jan. 1984 ([AS 1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)[1724](https://fedlex.data.admin.ch/eli/oc/1982/1724_1724_1724)Art. 1 Abs. 1; [BBl 1976 III 141](https://fedlex.data.admin.ch/eli/fga/1976/3_141_143_155)).
 
@@ -4426,7 +4426,7 @@ Der Arbeitgeber darf Daten über den Arbeitnehmer nur bearbeiten, soweit sie des
 
 <sup>1</sup> Der Arbeitgeber hat dem Arbeitnehmer jedes Dienstjahr wenigstens vier Wochen, dem Arbeitnehmer bis zum vollendeten 20. Altersjahr wenigstens fünf Wochen Ferien zu gewähren.[^329a-1]
 
-<sup>2</sup> *…*[^329a-2]
+<sup>2</sup> …[^329a-2]
 
 <sup>3</sup> Für ein unvollständiges Dienstjahr sind Ferien entsprechend der Dauer des Arbeitsverhältnisses im betreffenden Dienstjahr zu gewähren.
 
@@ -4447,15 +4447,18 @@ Die Ferien dürfen vom Arbeitgeber auch nicht gekürzt werden, wenn:
 
 - a. eine Arbeitnehmerin wegen Schwangerschaft bis zu zwei Monate an der Arbeitsleistung verhindert ist;
 - b. eine Arbeitnehmerin einen Mutterschaftsurlaub nach Artikel 329*f* bezogen hat;
-- c. ein Arbeitnehmer einen Vaterschaftsurlaub nach Artikel 329*g* bezogen hat; oder
-- d. eine Arbeitnehmerin oder ein Arbeitnehmer einen Betreuungsurlaub nach Artikel 329*i* bezogen hat.[^329b-3]
+- c.[^329b-3] ein Arbeitnehmer einen Vaterschaftsurlaub nach Artikel 329*g* bezogen hat;
+- d. eine Arbeitnehmerin oder ein Arbeitnehmer einen Betreuungsurlaub nach Artikel 329*i* bezogen hat,
+- e.[^329b-4] eine Arbeitnehmerin oder ein Arbeitnehmer einen Adoptionsurlaub nach Artikel 329*j* bezogen hat.[^329b-5]
 
-<sup>4</sup> Durch Normalarbeitsvertrag oder Gesamtarbeitsvertrag kann eine von den Absätzen 2 und 3 abweichende Regelung getroffen werden, wenn sie für den Arbeitnehmer im Ganzen mindestens gleichwertig ist.[^329b-4]
+<sup>4</sup> Durch Normalarbeitsvertrag oder Gesamtarbeitsvertrag kann eine von den Absätzen 2 und 3 abweichende Regelung getroffen werden, wenn sie für den Arbeitnehmer im Ganzen mindestens gleichwertig ist.[^329b-6]
 
 [^329b-1]: Fassung gemäss Art. 117 des Arbeitslosenversicherungsgesetzes, in Kraft seit 1. Jan. 1984 ([AS 1982 2184](https://fedlex.data.admin.ch/eli/oc/1982/2184_2184_2184), [1983 1204](https://fedlex.data.admin.ch/eli/oc/1983/1204_1204_1204); [BBl 1980 III 489](https://fedlex.data.admin.ch/eli/fga/1980/3_489_485_469)).
 [^329b-2]: Fassung gemäss Art. 13 des JFG vom 6. Okt. 1989, in Kraft seit 1. Jan. 1991 ([AS 1990 2007](https://fedlex.data.admin.ch/eli/oc/1990/2007_2007_2007); [BBl 1988 I 825](https://fedlex.data.admin.ch/eli/fga/1988/1_825_777_641)).
-[^329b-3]: Fassung gemäss Ziff. II 1 des BG vom 20. Dez. 2019 über die Verbesserung der Vereinbarkeit von Erwerbstätigkeit und Angehörigenbetreuung, in Kraft seit 1. Juli 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
-[^329b-4]: Eingefügt durch Ziff. I des BG vom 16. Dez. 1983, in Kraft seit 1. Juli 1984 ([AS 1984 580](https://fedlex.data.admin.ch/eli/oc/1984/580_580_580); [BBl 1982 III 201](https://fedlex.data.admin.ch/eli/fga/1982/3_201_177_161)).
+[^329b-3]: Fassung gemäss Anhang Ziff. 1 des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2023 ([AS 2022 468](https://fedlex.data.admin.ch/eli/oc/2022/468); [BBl 2019 7095](https://fedlex.data.admin.ch/eli/fga/2019/2553), [7303](https://fedlex.data.admin.ch/eli/fga/2019/2640)).
+[^329b-4]: Fassung gemäss Anhang Ziff. 1 des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2023 ([AS 2022 468](https://fedlex.data.admin.ch/eli/oc/2022/468); [BBl 2019 7095](https://fedlex.data.admin.ch/eli/fga/2019/2553), [7303](https://fedlex.data.admin.ch/eli/fga/2019/2640)).
+[^329b-5]: Fassung gemäss Ziff. II 1 des BG vom 20. Dez. 2019 über die Verbesserung der Vereinbarkeit von Erwerbstätigkeit und Angehörigenbetreuung, in Kraft seit 1. Juli 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
+[^329b-6]: Eingefügt durch Ziff. I des BG vom 16. Dez. 1983, in Kraft seit 1. Juli 1984 ([AS 1984 580](https://fedlex.data.admin.ch/eli/oc/1984/580_580_580); [BBl 1982 III 201](https://fedlex.data.admin.ch/eli/fga/1982/3_201_177_161)).
 
 ### c. Zusammenhang und Zeitpunkt
 
@@ -4548,6 +4551,23 @@ Die Arbeitnehmerin oder der Arbeitnehmer hat Anspruch auf bezahlten Urlaub für 
 
 [^329i-1]: Eingefügt durch Ziff. II 1 des BG vom 20. Dez. 2019 über die Verbesserung der Vereinbarkeit von Erwerbstätigkeit und Angehörigenbetreuung, in Kraft seit 1. Juli 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 [^329i-2]: [SR 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
+
+### 8. Adoptions- urlaub
+
+#### Art. 329j
+
+[^329j-1]
+
+<sup>1</sup> Nimmt die Arbeitnehmerin oder der Arbeitnehmer ein Kind zur Adoption auf, so hat sie oder er bei Erfüllen der Voraussetzungen gemäss Artikel 16*t* EOG[^329j-2] Anspruch auf einen Adoptionsurlaub von zwei Wochen.
+
+<sup>2</sup> Der Adoptionsurlaub muss innerhalb des ersten Jahres nach Aufnahme des Kindes bezogen werden.
+
+<sup>3</sup> Er kann von einem Elternteil bezogen oder unter den Eltern aufgeteilt werden. Ein gleichzeitiger Bezug ist ausgeschlossen.
+
+<sup>4</sup> Er kann wochen- oder tageweise bezogen werden.
+
+[^329j-1]: Eingefügt durch Anhang Ziff. 1 des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2023 ([AS 2022 468](https://fedlex.data.admin.ch/eli/oc/2022/468); [BBl 2019 7095](https://fedlex.data.admin.ch/eli/fga/2019/2553), [7303](https://fedlex.data.admin.ch/eli/fga/2019/2640)).
+[^329j-2]: [SR 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
 
 ### IX. Übrige Pflichten
 
@@ -4854,7 +4874,7 @@ Wird der Betrieb oder der Betriebsteil während einer Nachlassstundung, im Rahme
 
 <sup>3</sup> Bei einer effektiven Verkürzung der Probezeit infolge Krankheit, Unfall oder Erfüllung einer nicht freiwillig übernommenen gesetzlichen Pflicht erfolgt eine entsprechende Verlängerung der Probezeit.
 
-[^335b-1]: Eingefügt durch Ziff. I des BG vom 18. März 1988, in Kraft seit 1. Jan. 1989 (AS **19****88** 1472; [BBl 1984 II 551](https://fedlex.data.admin.ch/eli/fga/1984/2_551_574_494)).
+[^335b-1]: Eingefügt durch Ziff. I des BG vom 18. März 1988, in Kraft seit 1. Jan. 1989 ([AS 1988 1472](https://fedlex.data.admin.ch/eli/oc/1988/1472_1472_1472); [BBl 1984 II 551](https://fedlex.data.admin.ch/eli/fga/1984/2_551_574_494)).
 
 ### c. nach Ablauf der Probezeit
 
@@ -4978,7 +4998,7 @@ Der Arbeitgeber verhandelt:
 
 <sup>4</sup> Die Arbeitnehmerverbände, die Arbeitnehmervertretung oder die Arbeitnehmer können zu den Verhandlungen Sachverständige heranziehen. Diese sind gegenüber betriebsfremden Personen zur Verschwiegenheit verpflichtet.
 
-[^335i-1]: Eingefügt durch Anhang des BG vom 21. Juni 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); BBl **201****0** 6455).
+[^335i-1]: Eingefügt durch Anhang des BG vom 21. Juni 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [BBl 2010 6455](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
 
 ### c. Aufstellung durch ein Schiedsgericht
 
@@ -5161,7 +5181,7 @@ Wird der Arbeitgeber zahlungsunfähig, so kann der Arbeitnehmer das Arbeitsverh�
 
 <sup>3</sup> Erlischt der Anspruch auf Entschädigung nicht durch Verrechnung, so ist er durch Klage oder Betreibung innert 30 Tagen seit dem Nichtantritt oder Verlassen der Arbeitsstelle geltend zu machen; andernfalls ist der Anspruch verwirkt.[^337d-1]
 
-<sup>4</sup> *…*[^337d-2]
+<sup>4</sup> …[^337d-2]
 
 [^337d-1]: Fassung gemäss Ziff. I des BG vom 18. März 1988, in Kraft seit 1. Jan. 1989 ([AS 1988 1472](https://fedlex.data.admin.ch/eli/oc/1988/1472_1472_1472); [BBl 1984 II 551](https://fedlex.data.admin.ch/eli/fga/1984/2_551_574_494)). Im Gegensatz zum Entwurf des BR wurde von der BVers ein mit der ursprünglichen Fassung völlig identischer Text angenommen.
 [^337d-2]: Aufgehoben durch Ziff. I des BG vom 18. März 1988, mit Wirkung seit 1. Jan. 1989 ([AS 1988 1472](https://fedlex.data.admin.ch/eli/oc/1988/1472_1472_1472); [BBl 1984 II 551](https://fedlex.data.admin.ch/eli/fga/1984/2_551_574_494)).
@@ -5811,43 +5831,43 @@ Erlässt ein Kanton in Anwendung von Artikel 360*a* einen Normalarbeitsvertrag, 
 
 #### Art. 361
 
-<sup>1</sup> Durch Abrede, Normalarbeitsvertrag oder Gesamtarbeitsvertrag darf von den folgenden Vorschriften weder zuungunsten des Arbeitgebers noch des Arbeitnehmers abgewichen werden:
+<sup>1</sup>
 
-<table>
-<tr><td>Artikel 321*c*:</td><td>Absatz 1 (Überstundenarbeit)</td></tr>
-<tr><td>Artikel 323:</td><td>Absatz 4 (Vorschuss)</td></tr>
-<tr><td>Artikel 323*b*:</td><td>Absatz 2 (Verrechnung mit Gegenforderungen)</td></tr>
-<tr><td>Artikel 325:</td><td>Absatz 2 (Abtretung und Verpfändung von Lohnforderungen)</td></tr>
-<tr><td>Artikel 326:</td><td>Absatz 2 (Zuweisung von Arbeit)</td></tr>
-<tr><td>Artikel 329*d*:</td><td>Absätze 2 und 3 (Ferienlohn)</td></tr>
-<tr><td>Artikel 331:</td><td>Absätze 1 und 2 (Zuwendungen für die Personalfürsorge)</td></tr>
-<tr><td>Artikel 331*b:*</td><td>(Abtretung und Verpfändung von Forderungen auf Vorsorgeleistungen)[^361-1]</td></tr>
-<tr><td>*…*[^361-2]</td><td></td></tr>
-<tr><td>Artikel 334:</td><td>Absatz 3 (Kündigung beim langjährigen Arbeitsverhältnis)</td></tr>
-<tr><td>Artikel 335:</td><td>(Kündigung des Arbeitsverhältnisses)</td></tr>
-<tr><td>Artikel 335*k*:</td><td>(Sozialplan während eines Konkurs- oder eines Nachlassverfahrens)[^361-3]</td></tr>
-<tr><td>Artikel 336:</td><td>Absatz 1 (Missbräuchliche Kündigung)</td></tr>
-<tr><td>Artikel 336*a*:</td><td>(Entschädigung bei missbräuchlicher Kündigung)</td></tr>
-<tr><td>Artikel 336*b*:</td><td>(Geltendmachung der Entschädigung)</td></tr>
-<tr><td>Artikel 336*d*:</td><td>(Kündigung zur Unzeit durch den Arbeitnehmer)</td></tr>
-<tr><td>Artikel 337:</td><td>Absätze 1 und 2 (Fristlose Auflösung aus wichtigen Gründen)</td></tr>
-<tr><td>Artikel 337*b*:</td><td>Absatz 1 (Folgen bei gerechtfertigter Auflösung)</td></tr>
-<tr><td>Artikel 337*d*:</td><td>(Folgen bei ungerechtfertigtem Nichtantritt oder Verlassen der Arbeitsstelle)</td></tr>
-<tr><td>Artikel 339:</td><td>Absatz 1 (Fälligkeit der Forderungen)</td></tr>
-<tr><td>Artikel 339*a*:</td><td>(Rückgabepflichten)</td></tr>
-<tr><td>Artikel 340*b*:</td><td>Absätze 1 und 2 (Folgen der Übertretung des Konkurrenzverbotes)</td></tr>
-<tr><td>Artikel 342:</td><td>Absatz 2 (Zivilrechtliche Wirkungen des öffentlichen Rechts)</td></tr>
-<tr><td>*…*[^361-4]</td><td></td></tr>
-<tr><td>Artikel 346:</td><td>(Vorzeitige Auflösung des Lehrvertrages)</td></tr>
-<tr><td>Artikel 349*c*:</td><td>Absatz 3 (Verhinderung an der Reisetätigkeit)</td></tr>
-<tr><td>Artikel 350:</td><td>(Besondere Kündigung)</td></tr>
-<tr><td>Artikel 350*a*:</td><td>Absatz 2 (Rückgabepflichten).[^361-5]</td></tr>
-</table>
+Durch Abrede, Normalarbeitsvertrag oder Gesamtarbeitsvertrag darf von den folgenden Vorschriften weder zuungunsten des Arbeitgebers noch des Arbeitnehmers abgewichen werden:
+
+- Artikel 321*c*: Absatz 1 (Überstundenarbeit)
+- Artikel 323: Absatz 4 (Vorschuss)
+- Artikel 323*b*: Absatz 2 (Verrechnung mit Gegenforderungen)
+- Artikel 325: Absatz 2 (Abtretung und Verpfändung von Lohnforderungen)
+- Artikel 326: Absatz 2 (Zuweisung von Arbeit)
+- Artikel 329*d*: Absätze 2 und 3 (Ferienlohn)
+- Artikel 331: Absätze 1 und 2 (Zuwendungen für die Personalfürsorge)
+- Artikel 331*b*: (Abtretung und Verpfändung von Forderungen auf Vorsorgeleistungen)[^361-1]
+- [tab] …[^361-2]
+- Artikel 334: Absatz 3 (Kündigung beim langjährigen Arbeitsverhältnis)
+- Artikel 335: (Kündigung des Arbeitsverhältnisses)
+- Artikel 335*k*: (Sozialplan während eines Konkurs- oder eines Nachlassverfahrens)[^361-3]
+- Artikel 336: Absatz 1 (Missbräuchliche Kündigung)
+- Artikel 336*a*: (Entschädigung bei missbräuchlicher Kündigung)
+- Artikel 336*b*: (Geltendmachung der Entschädigung)
+- Artikel 336*d*: (Kündigung zur Unzeit durch den Arbeitnehmer)
+- Artikel 337: Absätze 1 und 2 (Fristlose Auflösung aus wichtigen Gründen)
+- Artikel 337*b*: Absatz 1 (Folgen bei gerechtfertigter Auflösung)
+- Artikel 337*d*: (Folgen bei ungerechtfertigtem Nichtantritt oder Verlassen der Arbeitsstelle)
+- Artikel 339: Absatz 1 (Fälligkeit der Forderungen)
+- Artikel 339*a*: (Rückgabepflichten)
+- Artikel 340*b*: Absätze 1 und 2 (Folgen der Übertretung des Konkurrenzverbotes)
+- Artikel 342: Absatz 2 (Zivilrechtliche Wirkungen des öffentlichen Rechts)
+- [tab] …[^361-4]
+- Artikel 346: (Vorzeitige Auflösung des Lehrvertrages)
+- Artikel 349*c*: Absatz 3 (Verhinderung an der Reisetätigkeit)
+- Artikel 350: (Besondere Kündigung)
+- Artikel 350*a*: Absatz 2 (Rückgabepflichten).[^361-5]
 
 <sup>2</sup> Abreden sowie Bestimmungen von Normalarbeitsverträgen und Gesamtarbeitsverträgen, die von den vorstehend angeführten Vorschriften zuungunsten des Arbeitgebers oder des Arbeitnehmers abweichen, sind nichtig.
 
 [^361-1]: Eingefügt durch Anhang Ziff. 2 des Freizügigkeitsgesetzes vom 17. Dez. 1993, in Kraft seit 1. Jan. 1995 ([AS 1994 2386](https://fedlex.data.admin.ch/eli/oc/1994/2386_2386_2386); [BBl 1992 III 533](https://fedlex.data.admin.ch/eli/fga/1992/3_533_529_477)).
-[^361-2]: Aufgehoben durch Anhang Ziff. 2 des Freizügigkeitsgesetzes vom 17. Dez. 1993, mit Wirkung seit 1. Jan. 1995 (AS **199****4** 2386; [BBl 1992 III 533](https://fedlex.data.admin.ch/eli/fga/1992/3_533_529_477)).
+[^361-2]: Aufgehoben durch Anhang Ziff. 2 des Freizügigkeitsgesetzes vom 17. Dez. 1993, mit Wirkung seit 1. Jan. 1995 ([AS 1994 2386](https://fedlex.data.admin.ch/eli/oc/1994/2386_2386_2386); [BBl 1992 III 533](https://fedlex.data.admin.ch/eli/fga/1992/3_533_529_477)).
 [^361-3]: Eingefügt durch Anhang des BG vom 21. Juni 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [BBl 2010 6455](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
 [^361-4]: Aufgehoben durch Anhang Ziff. 5 des Gerichtsstandsgesetzes vom 24. März 2000, mit Wirkung seit 1. Jan. 2001 ([AS 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); [BBl 1999 III 2829](https://fedlex.data.admin.ch/eli/fga/1999/1_2829_2591_2427)).
 [^361-5]: Fassung gemäss Ziff. I des BG vom 18. März 1988, in Kraft seit 1. Jan. 1989 ([AS 1988 1472](https://fedlex.data.admin.ch/eli/oc/1988/1472_1472_1472); [BBl 1984 II 551](https://fedlex.data.admin.ch/eli/fga/1984/2_551_574_494)).
@@ -5856,69 +5876,70 @@ Erlässt ein Kanton in Anwendung von Artikel 360*a* einen Normalarbeitsvertrag, 
 
 #### Art. 362
 
-<sup>1</sup> Durch Abrede, Normalarbeitsvertrag oder Gesamtarbeitsvertrag darf von den folgenden Vorschriften nicht zuungunsten der Arbeitnehmerin oder des Arbeitnehmers abgewichen werden:[^362-1]
+<sup>1</sup>
 
-<table>
-<tr><td>Artikel 321*e*:</td><td>(Haftung des Arbeitnehmers)</td></tr>
-<tr><td>Artikel 322*a*:</td><td>Absätze 2 und 3 (Anteil am Geschäftsergebnis)</td></tr>
-<tr><td>Artikel 322*b*:</td><td>Absätze 1 und 2 (Entstehung des Provisionsanspruchs)</td></tr>
-<tr><td>Artikel 322*c*:</td><td>(Provisionsabrechnung)</td></tr>
-<tr><td>Artikel 323*b*:</td><td>Absatz 1 zweiter Satz (Lohnabrechnung)</td></tr>
-<tr><td>Artikel 324:</td><td>(Lohn bei Annahmeverzug des Arbeitgebers)</td></tr>
-<tr><td>Artikel 324*a*:</td><td>Absätze 1 und 3 (Lohn bei Verhinderung des Arbeitnehmers)</td></tr>
-<tr><td>Artikel 324*b*:</td><td>(Lohn bei obligatorischer Versicherung des Arbeitnehmers)</td></tr>
-<tr><td>Artikel 326:</td><td>Absätze 1, 3 und 4 (Akkordlohnarbeit)</td></tr>
-<tr><td>Artikel 326*a*:</td><td>(Akkordlohn)</td></tr>
-<tr><td>Artikel 327*a*:</td><td>Absatz 1 (Auslagenersatz im Allgemeinen)</td></tr>
-<tr><td>Artikel 327*b*:</td><td>Absatz 1 (Auslagenersatz bei Motorfahrzeug)</td></tr>
-<tr><td>Artikel 327*c*:</td><td>Absatz 2 (Vorschuss für Auslagen)</td></tr>
-<tr><td>Artikel 328:</td><td>(Schutz der Persönlichkeit des Arbeitnehmers im Allgemeinen)</td></tr>
-<tr><td>Artikel 328*a*:</td><td>(Schutz der Persönlichkeit bei Hausgemeinschaft)</td></tr>
-<tr><td>Artikel 328*b*:</td><td>(Schutz der Persönlichkeit bei der Bearbeitung von Personendaten)[^362-2]</td></tr>
-<tr><td>Artikel 329:</td><td>Absätze 1, 2 und 3 (Freizeit)</td></tr>
-<tr><td>Artikel 329*a*:</td><td>Absätze 1 und 3 (Dauer der Ferien)</td></tr>
-<tr><td>Artikel 329*b*:</td><td>Absätze 2 und 3 (Kürzung der Ferien)</td></tr>
-<tr><td>Artikel 329*c*:</td><td>(Zusammenhang und Zeitpunkt der Ferien)</td></tr>
-<tr><td>Artikel 329*d*:</td><td>Absatz 1 (Ferienlohn)</td></tr>
-<tr><td>Artikel 329*e*:</td><td>Absätze 1 und 3 (Jugendurlaub)[^362-3]</td></tr>
-<tr><td>Artikel 329*f*:</td><td>(Mutterschaftsurlaub)[^362-4]</td></tr>
-<tr><td>Artikel 329*g*:</td><td>(Vaterschaftsurlaub)[^362-5]</td></tr>
-<tr><td>Artikel 329*h*:</td><td>(Urlaub für die Betreuung von Angehörigen)[^362-6]</td></tr>
-<tr><td>Artikel 329*i*:</td><td>(Urlaub für die Betreuung eines wegen Krankheit oder Unfall gesundheitlich schwer beeinträchtigten Kindes)[^362-7]</td></tr>
-<tr><td>Artikel 330:</td><td>Absätze 1, 3 und 4 (Kaution)</td></tr>
-<tr><td>Artikel 330*a*:</td><td>(Zeugnis)</td></tr>
-<tr><td>Artikel 331:</td><td>Absätze 3 und 4 (Beitragsleistung und Auskunftspflicht bei Personalfürsorge)</td></tr>
-<tr><td>Artikel 331*a*:</td><td>(Beginn und Ende des Vorsorgeschutzes)[^362-8]</td></tr>
-<tr><td>*…*[^362-9]</td><td></td></tr>
-<tr><td>Artikel 332:</td><td>Absatz 4 (Vergütung bei Erfindungen)</td></tr>
-<tr><td>Artikel 333:</td><td>Absatz 3 (Haftung bei Übergang des Arbeitsverhältnisses)</td></tr>
-<tr><td>Artikel 335*c*:</td><td>Absatz 3 (Kündigungsfristen)[^362-10]</td></tr>
-<tr><td>Artikel 335*i*:</td><td>(Verhandlungspflicht zwecks Abschlusses eines Sozialplans)[^362-11]</td></tr>
-<tr><td>Artikel 335*j*:</td><td>(Aufstellung des Sozialplans durch ein Schiedsgericht)[^362-12]</td></tr>
-<tr><td>Artikel 336:</td><td>Absatz 2 (Missbräuchliche Kündigung durch den Arbeitgeber)</td></tr>
-<tr><td>Artikel 336*c*:</td><td>(Kündigung zur Unzeit durch den Arbeitgeber)</td></tr>
-<tr><td>Artikel 337*a*:</td><td>(Fristlose Auflösung wegen Lohngefährdung)</td></tr>
-<tr><td>Artikel 337*c*:</td><td>Absatz 1 (Folgen bei ungerechtfertigter Entlassung)</td></tr>
-<tr><td>Artikel 338:</td><td>(Tod des Arbeitnehmers)</td></tr>
-<tr><td>Artikel 338*a*:</td><td>(Tod des Arbeitgebers)</td></tr>
-<tr><td>Artikel 339*b*:</td><td>(Voraussetzungen der Abgangsentschädigung)</td></tr>
-<tr><td>Artikel 339*d*:</td><td>(Ersatzleistungen)</td></tr>
-<tr><td>Artikel 340:</td><td>Absatz 1 (Voraussetzungen des Konkurrenzverbotes)</td></tr>
-<tr><td>Artikel 340*a*:</td><td>Absatz 1 (Beschränkung des Konkurrenzverbotes)</td></tr>
-<tr><td>Artikel 340*c*:</td><td>(Wegfall des Konkurrenzverbotes)</td></tr>
-<tr><td>Artikel 341:</td><td>Absatz 1 (Unverzichtbarkeit)</td></tr>
-<tr><td>Artikel 345*a*:</td><td>(Pflichten des Lehrmeisters[^362-13])</td></tr>
-<tr><td>Artikel 346*a*:</td><td>(Lehrzeugnis)</td></tr>
-<tr><td>Artikel 349*a*:</td><td>Absatz 1 (Lohn des Handelsreisenden)</td></tr>
-<tr><td>Artikel 349*b*:</td><td>Absatz 3 (Ausrichtung der Provision)</td></tr>
-<tr><td>Artikel 349*c*:</td><td>Absatz 1 (Lohn bei Verhinderung an der Reisetätigkeit)</td></tr>
-<tr><td>Artikel 349*e*:</td><td>Absatz 1 (Retentionsrecht des Handelsreisenden)</td></tr>
-<tr><td>Artikel 350*a*:</td><td>Absatz 1 (Provision bei Beendigung des Arbeitsverhältnisses)</td></tr>
-<tr><td>Artikel 352*a*:</td><td>Absatz 3 (Haftung des Heimarbeitnehmers)</td></tr>
-<tr><td>Artikel 353:</td><td>(Abnahme des Arbeitserzeugnisses)</td></tr>
-<tr><td>Artikel 353*a*:</td><td>(Ausrichtung des Lohnes)</td></tr>
-<tr><td>Artikel 353*b*:</td><td>Absatz 1 (Lohn bei Verhinderung an der Arbeitsleistung).[^362-14]</td></tr>
-</table>
+Durch Abrede, Normalarbeitsvertrag oder Gesamtarbeitsvertrag darf von den folgenden Vorschriften nicht zuungunsten der Arbeitnehmerin oder des Arbeitnehmers abgewichen werden:[^362-1]
+
+- Artikel 321*e*: (Haftung des Arbeitnehmers)
+- Artikel 322*a*: Absätze 2 und 3 (Anteil am Geschäftsergebnis)
+- Artikel 322*b*: Absätze 1 und 2 (Entstehung des Provisionsanspruchs)
+- Artikel 322*c*: (Provisionsabrechnung)
+- Artikel 323*b*: Absatz 1 zweiter Satz (Lohnabrechnung)
+- Artikel 324: (Lohn bei Annahmeverzug des Arbeitgebers)
+- Artikel 324*a*: Absätze 1 und 3 (Lohn bei Verhinderung des Arbeitnehmers)
+- Artikel 324*b*: (Lohn bei obligatorischer Versicherung des Arbeitnehmers)
+- Artikel 326: Absätze 1, 3 und 4 (Akkordlohnarbeit)
+- Artikel 326*a*: (Akkordlohn)
+- Artikel 327*a*: Absatz 1 (Auslagenersatz im Allgemeinen)
+- Artikel 327*b*: Absatz 1 (Auslagenersatz bei Motorfahrzeug)
+- Artikel 327*c*: Absatz 2 (Vorschuss für Auslagen)
+- Artikel 328: (Schutz der Persönlichkeit des Arbeitnehmers im Allgemeinen)
+- Artikel 328*a*: (Schutz der Persönlichkeit bei Hausgemeinschaft)
+- Artikel 328*b*: (Schutz der Persönlichkeit bei der Bearbeitung von Personendaten)[^362-2]
+- Artikel 329: Absätze 1, 2 und 3 (Freizeit)
+- Artikel 329*a*: Absätze 1 und 3 (Dauer der Ferien)
+- Artikel 329*b*: Absätze 2 und 3 (Kürzung der Ferien)
+- Artikel 329*c*: (Zusammenhang und Zeitpunkt der Ferien)
+- Artikel 329*d*: Absatz 1 (Ferienlohn)
+- Artikel 329*e*: Absätze 1 und 3 (Jugendurlaub)[^362-3]
+- Artikel 329*f*: (Mutterschaftsurlaub)[^362-4]
+- Artikel 329*g*: (Vaterschaftsurlaub)[^362-5]
+- Artikel 329*h*: (Urlaub für die Betreuung von Angehörigen)[^362-6]
+- Artikel 329*i*: (Urlaub für die Betreuung eines wegen Krankheit oder Unfall gesundheitlich schwer beeinträchtigten Kindes)[^362-7]
+- Artikel 329*j*: (Adoptionsurlaub)[^362-8]
+- Artikel 330: Absätze 1, 3 und 4 (Kaution)
+- Artikel 330*a*: (Zeugnis)
+- Artikel 331: Absätze 3 und 4 (Beitragsleistung und Auskunftspflicht bei Personalfürsorge)
+- Artikel 331*a*: (Beginn und Ende des Vorsorgeschutzes)[^362-9]
+- …[^362-10]
+- Artikel 332: Absatz 4 (Vergütung bei Erfindungen)
+- Artikel 333: Absatz 3 (Haftung bei Übergang des Arbeitsverhältnisses)
+- Artikel 335*c*: Absatz 3 (Kündigungsfristen)[^362-11]
+- Artikel 335*i*: (Verhandlungspflicht zwecks Abschlusses eines Sozialplans)[^362-12]
+- Artikel 335*j*: (Aufstellung des Sozialplans durch ein Schiedsgericht)[^362-13]
+- Artikel 336: Absatz 2 (Missbräuchliche Kündigung durch den Arbeitgeber)
+- Artikel 336*c*: (Kündigung zur Unzeit durch den Arbeitgeber)
+- Artikel 337*a*: (Fristlose Auflösung wegen Lohngefährdung)
+- Artikel 337*c*: Absatz 1 (Folgen bei ungerechtfertigter Entlassung)
+- Artikel 338: (Tod des Arbeitnehmers)
+- Artikel 338*a*: (Tod des Arbeitgebers)
+- Artikel 339*b*: (Voraussetzungen der Abgangsentschädigung)
+- Artikel 339*d*: (Ersatzleistungen)
+- Artikel 340: Absatz 1 (Voraussetzungen des Konkurrenzverbotes)
+- Artikel 340*a*: Absatz 1 (Beschränkung des Konkurrenzverbotes)
+- Artikel 340*c*: (Wegfall des Konkurrenzverbotes)
+- Artikel 341: Absatz 1 (Unverzichtbarkeit)
+- Artikel 345*a*: (Pflichten des Lehrmeisters[^362-14])
+- Artikel 346*a*: (Lehrzeugnis)
+- Artikel 349*a*: Absatz 1 (Lohn des Handelsreisenden)
+- Artikel 349*b*: Absatz 3 (Ausrichtung der Provision)
+- Artikel 349*c*: Absatz 1 (Lohn bei Verhinderung an der Reisetätigkeit)
+- Artikel 349*e*: Absatz 1 (Retentionsrecht des Handelsreisenden)
+- Artikel 350*a*: Absatz 1 (Provision bei Beendigung des Arbeitsverhältnisses)
+- Artikel 352*a*: Absatz 3 (Haftung des Heimarbeitnehmers)
+- Artikel 353: (Abnahme des Arbeitserzeugnisses)
+- Artikel 353*a*: (Ausrichtung des Lohnes)
+- Artikel 353*b*: Absatz 1 (Lohn bei Verhinderung an der Arbeitsleistung).[^362-15]
 
 <sup>2</sup> Abreden sowie Bestimmungen von Normalarbeitsverträgen und Gesamtarbeitsverträgen, die von den vorstehend angeführten Vorschriften zuungunsten des Arbeitnehmers abweichen, sind nichtig.
 
@@ -5929,13 +5950,14 @@ Erlässt ein Kanton in Anwendung von Artikel 360*a* einen Normalarbeitsvertrag, 
 [^362-5]: Eingefügt durch Ziff. II 1 des BG vom 20. Dez. 2019 über die Verbesserung der Vereinbarkeit von Erwerbstätigkeit und Angehörigenbetreuung, in Kraft seit 1. Jan. 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 [^362-6]: Eingefügt durch Ziff. II 1 des BG vom 20. Dez. 2019 über die Verbesserung der Vereinbarkeit von Erwerbstätigkeit und Angehörigenbetreuung, in Kraft seit 1. Jan. 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 [^362-7]: Eingefügt durch Ziff. II 1 des BG vom 20. Dez. 2019 über die Verbesserung der Vereinbarkeit von Erwerbstätigkeit und Angehörigenbetreuung, in Kraft seit 1. Juli 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
-[^362-8]: Fassung gemäss Anhang Ziff. 2 des Freizügigkeitsgesetzes vom 17. Dez. 1993, in Kraft seit 1. Jan. 1995 ([AS 1994 2386](https://fedlex.data.admin.ch/eli/oc/1994/2386_2386_2386); [BBl 1992 III 533](https://fedlex.data.admin.ch/eli/fga/1992/3_533_529_477)).
-[^362-9]: Aufgehoben durch Anhang Ziff. 2 des Freizügigkeitsgesetzes vom 17. Dez. 1993, mit Wirkung seit 1. Jan. 1995 ([AS 1994 2386](https://fedlex.data.admin.ch/eli/oc/1994/2386_2386_2386); [BBl 1992 III 533](https://fedlex.data.admin.ch/eli/fga/1992/3_533_529_477)).
-[^362-10]: Eingefügt durch Ziff. II 1 des BG vom 20. Dez. 2019 über die Verbesserung der Vereinbarkeit von Erwerbstätigkeit und Angehörigenbetreuung, in Kraft seit 1. Jan. 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
-[^362-11]: Eingefügt durch Anhang des BG vom 21. Juni 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [BBl 2010 6455](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
+[^362-8]: Eingefügt durch Anhang Ziff. 1 des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2023 ([AS 2022 468](https://fedlex.data.admin.ch/eli/oc/2022/468); [BBl 2019 7095](https://fedlex.data.admin.ch/eli/fga/2019/2553), [7303](https://fedlex.data.admin.ch/eli/fga/2019/2640)).
+[^362-9]: Fassung gemäss Anhang Ziff. 2 des Freizügigkeitsgesetzes vom 17. Dez. 1993, in Kraft seit 1. Jan. 1995 ([AS 1994 2386](https://fedlex.data.admin.ch/eli/oc/1994/2386_2386_2386); [BBl 1992 III 533](https://fedlex.data.admin.ch/eli/fga/1992/3_533_529_477)).
+[^362-10]: Aufgehoben durch Anhang Ziff. 2 des Freizügigkeitsgesetzes vom 17. Dez. 1993, mit Wirkung seit 1. Jan. 1995 ([AS 1994 2386](https://fedlex.data.admin.ch/eli/oc/1994/2386_2386_2386); [BBl 1992 III 533](https://fedlex.data.admin.ch/eli/fga/1992/3_533_529_477)).
+[^362-11]: Eingefügt durch Ziff. II 1 des BG vom 20. Dez. 2019 über die Verbesserung der Vereinbarkeit von Erwerbstätigkeit und Angehörigenbetreuung, in Kraft seit 1. Jan. 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 [^362-12]: Eingefügt durch Anhang des BG vom 21. Juni 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [BBl 2010 6455](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
-[^362-13]: Heute: des Arbeitgebers.
-[^362-14]: Fassung gemäss Ziff. I des BG vom 18. März 1988, in Kraft seit 1. Jan. 1989 ([AS 1988 1472](https://fedlex.data.admin.ch/eli/oc/1988/1472_1472_1472); [BBl 1984 II 551](https://fedlex.data.admin.ch/eli/fga/1984/2_551_574_494)).
+[^362-13]: Eingefügt durch Anhang des BG vom 21. Juni 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [BBl 2010 6455](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
+[^362-14]: Heute: des Arbeitgebers.
+[^362-15]: Fassung gemäss Ziff. I des BG vom 18. März 1988, in Kraft seit 1. Jan. 1989 ([AS 1988 1472](https://fedlex.data.admin.ch/eli/oc/1988/1472_1472_1472); [BBl 1984 II 551](https://fedlex.data.admin.ch/eli/fga/1984/2_551_574_494)).
 
 ### Elfter Titel: Der Werkvertrag
 
@@ -7107,7 +7129,7 @@ Der Frachtführer hat sofort nach Ankunft des Gutes dem Empfänger Anzeige zu ma
 
 <sup>3</sup> Die besonderen Vorschriften für die Frachtverträge der Anbieterinnen von Postdiensten, der Eisenbahnen und Dampfschiffe bleiben vorbehalten.[^455-1]
 
-[^455-1]: Fassung gemäss Anhang Ziff. II 2 des Postgesetzes 17. Dez. 2010, in Kraft seit 1. Okt. 2012 ([AS 2012 4993](https://fedlex.data.admin.ch/eli/oc/2012/585); BBl **20****09** 5181).
+[^455-1]: Fassung gemäss Anhang Ziff. II 2 des Postgesetzes 17. Dez. 2010, in Kraft seit 1. Okt. 2012 ([AS 2012 4993](https://fedlex.data.admin.ch/eli/oc/2012/585); [BBl 2009 5181](https://fedlex.data.admin.ch/eli/fga/2009/917)).
 
 ### D. Mitwirkung einer öffentlichen Transportanstalt
 
@@ -7752,7 +7774,7 @@ Der Bürge kann vom Hauptschuldner Sicherstellung und, wenn die Hauptschuld fäl
 
 Aus Glücksspielen in Spielbanken entstehen klagbare Forderungen, sofern die Spielbank von der zuständigen Behörde genehmigt wurde.
 
-[^515a-1]: Eingefügt durch Anhang Ziff. 5 des Spielbankengesetzes vom 18. Dez. 1998, in Kraft seit 1. April 2000 (AS **2****000** 677; [BBl 1997 III 145](https://fedlex.data.admin.ch/eli/fga/1997/3_145_137_129)).
+[^515a-1]: Eingefügt durch Anhang Ziff. 5 des Spielbankengesetzes vom 18. Dez. 1998, in Kraft seit 1. April 2000 ([AS 2000 677](https://fedlex.data.admin.ch/eli/oc/2000/118); [BBl 1997 III 145](https://fedlex.data.admin.ch/eli/fga/1997/3_145_137_129)).
 
 ### Zweiundzwanzigster Titel: Der Leibrentenvertrag und die Verpfründung
 
@@ -7790,7 +7812,7 @@ Der Leibrentenvertrag bedarf zu seiner Gültigkeit der schriftlichen Form.
 
 [^part2-tit22-lvlA-lvlIII-lvl2-1]
 
-[^part2-tit22-lvlA-lvlIII-lvl2-1]: Fassung gemäss Anhang Ziff. 6 des BG vom 16. Dez. 1994, in Kraft seit 1. Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); BBl **199****1** III 1).
+[^part2-tit22-lvlA-lvlIII-lvl2-1]: Fassung gemäss Anhang Ziff. 6 des BG vom 16. Dez. 1994, in Kraft seit 1. Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 #### Art. 519
 
@@ -8181,7 +8203,7 @@ In das Handelsregister können nur solche Anordnungen über die Vertretung einge
 
 [^part3-tit24-chap2-lvlB-1]
 
-[^part3-tit24-chap2-lvlB-1]: Fassung gemäss Ziff. I 3 des BG vom 23. Dez. 2011 (Rechnungslegungsrecht), in Kraft seit 1. Jan. 2013 (AS **20****12** 6679; [BBl 2008 1589](https://fedlex.data.admin.ch/eli/fga/2008/416)).
+[^part3-tit24-chap2-lvlB-1]: Fassung gemäss Ziff. I 3 des BG vom 23. Dez. 2011 (Rechnungslegungsrecht), in Kraft seit 1. Jan. 2013 ([AS 2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810); [BBl 2008 1589](https://fedlex.data.admin.ch/eli/fga/2008/416)).
 
 #### Art. 558
 
@@ -8250,7 +8272,7 @@ Enthält das Handelsregister keine entgegenstehenden Eintragungen, so sind gutgl
 
 <sup>1</sup> Die Vertretungsbefugnis kann einem Gesellschafter aus wichtigen Gründen entzogen werden.
 
-<sup>2</sup> Macht ein Gesellschafter solche Gründe glaubhaft, so kann auf seinen Antrag das Gericht, wenn Gefahr im Verzug liegt, die Vertretungsbefugnis vorläufig entziehen. Diese richterliche Verfügung ist im Handelsregister einzutragen.
+<sup>2</sup> Macht ein Gesellschafter solche Gründe glaubhaft, so kann auf seinen Antrag das Gericht, wenn Gefahr im Verzug liegt, die Vertretungsbefugnis vorläufig entziehen. Diese gerichtliche Verfügung ist im Handelsregister einzutragen.
 
 ### IV. Prokura und Handlungsvollmacht
 
@@ -8452,7 +8474,9 @@ Die Erben eines Gesellschafters haben für die Liquidation einen gemeinsamen Ver
 
 <sup>1</sup> Die Liquidatoren haben bei Beginn der Liquidation eine Bilanz aufzustellen.
 
-<sup>2</sup> Bei länger andauernder Liquidation sind jährliche Zwischenbilanzen zu errichten.
+<sup>2</sup> Bei länger andauernder Liquidation sind jährliche Zwischenabschlüsse[^587-1] zu errichten.
+
+[^587-1]: Ausdruck gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)). Diese Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.
 
 ### II. Rückzahlung des Kapitals und Verteilung des Überschusses
 
@@ -8494,7 +8518,9 @@ Nach Beendigung der Liquidation haben die Liquidatoren die Löschung der Firma i
 
 <sup>1</sup> Die fünfjährige Verjährung kann dem Gläubiger, der seine Befriedigung nur aus ungeteiltem Gesellschaftsvermögen sucht, nicht entgegengesetzt werden.
 
-<sup>2</sup> Übernimmt ein Gesellschafter das Geschäft mit Aktiven und Passiven, so kann er den Gläubigern die fünfjährige Verjährung nicht entgegenhalten. Dagegen tritt für die ausgeschiedenen Gesellschafter an Stelle der fünfjährigen die zweijährige Frist nach den Grundsätzen der Schuldübernahme; ebenso wenn ein Dritter das Geschäft mit Aktiven und Passiven übernimmt.
+<sup>2</sup> Übernimmt ein Gesellschafter das Geschäft mit Aktiven und Passiven, so kann er den Gläubigern die fünfjährige Verjährung nicht entgegenhalten. Dagegen tritt für die ausgeschiedenen Gesellschafter anstelle der fünfjährigen die dreijährige Frist nach den Grundsätzen der Schuldübernahme; ebenso wenn ein Dritter das Geschäft mit Aktiven und Passiven übernimmt.[^592-1]
+
+[^592-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### C. Unterbrechung
 
@@ -8741,23 +8767,29 @@ Im Konkurse des Kommanditärs haben weder die Gesellschaftsgläubiger noch die G
 
 #### Art. 620
 
-<sup>1</sup> Die Aktiengesellschaft ist eine Gesellschaft mit eigener Firma, deren zum voraus bestimmtes Kapital (Aktienkapital[^620-1]) in Teilsummen (Aktien) zerlegt ist und für deren Verbindlichkeiten nur das Gesellschaftsvermögen haftet.
+[^620-1]
 
-<sup>2</sup> Die Aktionäre sind nur zu den statutarischen Leistungen verpflichtet und haften für die Verbindlichkeiten der Gesellschaft nicht persönlich.
+<sup>1</sup> Die Aktiengesellschaft ist eine Kapitalgesellschaft, an der eine oder mehrere Personen oder Handelsgesellschaften beteiligt sind. Für ihre Verbindlichkeiten haftet nur das Gesellschaftsvermögen.
 
-<sup>3</sup> Die Aktiengesellschaft kann auch für andere als wirtschaftliche Zwecke gegründet werden.
+<sup>2</sup> Die Aktionäre sind nur zu den statutarischen Leistungen verpflichtet.
 
-[^620-1]: Ausdruck gemäss Ziff. II 1 des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Diese Änderung ist im ganzen Erlass berücksichtigt.
+<sup>3</sup> Aktionär ist, wer mit mindestens einer Aktie an der Gesellschaft beteiligt ist.
 
-### B. Mindestkapital
+[^620-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### B. Aktienkapital
 
 #### Art. 621
 
 [^621-1]
 
-Das Aktienkapital muss mindestens 100 000 Franken betragen.
+<sup>1</sup> Das Aktienkapital beträgt mindestens 100 000 Franken.
 
-[^621-1]: Fassung gemäss Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+<sup>2</sup> Zulässig ist auch ein Aktienkapital in der für die Geschäftstätigkeit wesentlichen ausländischen Währung. Zum Zeitpunkt der Errichtung muss dieses einem Gegenwert von mindestens 100 000 Franken entsprechen. Lautet das Aktienkapital auf eine ausländische Währung, so haben die Buchführung und die Rechnungslegung in derselben Währung zu erfolgen. Der Bundesrat legt die zulässigen Währungen fest.
+
+<sup>3</sup> Die Generalversammlung kann den Wechsel der Währung, auf die das Aktienkapital lautet, auf den Beginn eines Geschäftsjahrs beschliessen. In einem solchen Fall passt der Verwaltungsrat die Statuten an. Er stellt dabei fest, dass die Voraussetzungen von Absatz 2 erfüllt sind, und hält den angewandten Umrechnungskurs fest. Die Beschlüsse der Generalversammlung und des Verwaltungsrats müssen öffentlich beurkundet werden.
+
+[^621-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### C. Aktien
 
@@ -8775,27 +8807,31 @@ Das Aktienkapital muss mindestens 100 000 Franken betragen.
 
 <sup>2ter</sup> Werden sämtliche Beteiligungspapiere dekotiert, so muss die Gesellschaft die bestehenden Inhaberaktien innerhalb einer Frist von sechs Monaten entweder in Namenaktien umwandeln oder als Bucheffekten ausgestalten. [^622-5]
 
-<sup>3</sup> Die Statuten können bestimmen, dass Namenaktien später in Inhaberaktien oder Inhaberaktien in Namenaktien umgewandelt werden sollen oder dürfen.
+<sup>3</sup> Namenaktien können in Inhaberaktien und Inhaberaktien können in Namenaktien umgewandelt werden.[^622-6]
 
-<sup>4</sup> Der Nennwert der Aktie muss mindestens 1 Rappen betragen.[^622-6]
+<sup>4</sup> Die Aktien weisen einen Nennwert auf, der grösser als null ist.[^622-7]
 
-<sup>5</sup> Die Aktientitel müssen durch mindestens ein Mitglied des Verwaltungsrates[^622-7] unterschrieben sein. Die Gesellschaft kann bestimmen, dass auch auf Aktien, die in grosser Zahl ausgegeben werden, mindestens eine Unterschrift eigenhändig beigesetzt werden muss.
+<sup>5</sup> Werden Aktientitel ausgegeben, so müssen sie von mindestens einem Mitglied des Verwaltungsrats unterschrieben sein.[^622-8]
 
 [^622-1]: [SR 957.1](https://fedlex.data.admin.ch/eli/cc/2009/450)
 [^622-2]: Fassung gemäss Ziff. I 1 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Febr. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 [^622-3]: Eingefügt durch Ziff. I 1 des BG vom 21. Juni 2019 zur Umsetzung von Empfehlungen des Globalen Forums über Transparenz und Informationsaustausch für Steuerzwecke ([AS 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [BBl 2019 279](https://fedlex.data.admin.ch/eli/fga/2019/18)). Fassung gemäss Ziff. I 1 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Febr. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 [^622-4]: Eingefügt durch Ziff. I 1 des BG vom 21. Juni 2019 zur Umsetzung von Empfehlungen des Globalen Forums über Transparenz und Informationsaustausch für Steuerzwecke, in Kraft seit 1. Nov. 2019 ([AS 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [BBl 2019 279](https://fedlex.data.admin.ch/eli/fga/2019/18)).
 [^622-5]: Eingefügt durch Ziff. I 1 des BG vom 21. Juni 2019 zur Umsetzung von Empfehlungen des Globalen Forums über Transparenz und Informationsaustausch für Steuerzwecke, in Kraft seit 1. Nov. 2019 ([AS 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [BBl 2019 279](https://fedlex.data.admin.ch/eli/fga/2019/18)).
-[^622-6]: Fassung gemäss Ziff. I des BG vom 15. Dez. 2000, in Kraft seit 1. Mai 2001 ([AS 2001 1047](https://fedlex.data.admin.ch/eli/oc/2001/153); [BBl 2000 4337](https://fedlex.data.admin.ch/eli/fga/2000/921)Ziff. 2.2.1 5501).
-[^622-7]: Ausdruck gemäss Ziff. II 3 des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Diese Änderung ist im ganzen Erlass berücksichtigt.
+[^622-6]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^622-7]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^622-8]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### II. Zerlegung und Zusammenlegung
 
 #### Art. 623
 
-<sup>1</sup> Die Generalversammlung ist befugt, durch Statutenänderung bei unverändert bleibendem Aktienkapital die Aktien in solche von kleinerem Nennwert zu zerlegen oder zu solchen von grösserem Nennwert zusammenzulegen.
+<sup>1</sup> Die Generalversammlung ist befugt, durch Statutenänderung bei unverändert bleibendem Aktienkapital[^623-1] die Aktien in solche von kleinerem Nennwert zu zerlegen oder zu solchen von grösserem Nennwert zusammenzulegen.
 
-<sup>2</sup> Die Zusammenlegung von Aktien bedarf der Zustimmung des Aktionärs.
+<sup>2</sup> Für die Zusammenlegung von Aktien, die nicht an einer Börse kotiert sind, bedarf es der Zustimmung aller betroffenen Aktionäre.[^623-2]
+
+[^623-1]: Ausdruck gemäss Ziff. II 1 des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Diese Änderung ist im ganzen Erlass berücksichtigt.
+[^623-2]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### III. Ausgabebetrag
 
@@ -8807,92 +8843,66 @@ Das Aktienkapital muss mindestens 100 000 Franken betragen.
 
 [^624-1]: Aufgehoben durch Ziff. I des BG vom 4. Okt. 1991, mit Wirkung seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 
-### D. Aktionäre
-
 #### Art. 625
 
 [^625-1]
 
-Eine Aktiengesellschaft kann durch eine oder mehrere natürliche oder juristische Personen oder andere Handelsgesellschaften gegründet werden.
+[^625-1]: Aufgehoben durch Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), mit Wirkung seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-[^625-1]: Fassung gemäss Ziff. I 3 des BG vom 16. Dez. 2005 (GmbH-Recht sowie Anpassungen im Aktien-, Genossenschafts-, Handelsregister- und Firmenrecht), in Kraft seit 1. Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+### D. Gesetzlich vorgeschriebener Inhalt der Statuten
 
-### E. Statuten
+[^part3-tit26-chap1-lvlD-1]
 
-### I. Gesetzlich vorgeschriebener Inhalt
+[^part3-tit26-chap1-lvlD-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 626
 
 [^626-1]
 
+<sup>1</sup>
+
 Die Statuten müssen Bestimmungen enthalten über:
 
 - 1\. die Firma und den Sitz der Gesellschaft;
 - 2\. den Zweck der Gesellschaft;
-- 3\. die Höhe des Aktienkapitals und den Betrag der darauf geleisteten Einlagen;
+- 3\.[^626-2] die Höhe und die Währung des Aktienkapitals sowie den Betrag der darauf geleisteten Einlagen;
 - 4\. Anzahl, Nennwert und Art der Aktien;
-- 5\. die Einberufung der Generalversammlung und das Stimmrecht der Aktionäre;
-- 6\. die Organe für die Verwaltung und für die Revision;
-- 7\. die Form der von der Gesellschaft ausgehenden Bekanntmachungen.
+- 5\. und 6.[^626-3] …
+- 7\.[^626-4] die Form der Mitteilungen der Gesellschaft an ihre Aktionäre.
+
+<sup>2</sup>
+
+In einer Gesellschaft, deren Aktien an einer Börse kotiert sind, müssen die Statuten zudem Bestimmungen enthalten über:
+
+- 1\. die Anzahl der Tätigkeiten, welche die Mitglieder des Verwaltungsrats, der Geschäftsleitung und des Beirats in vergleichbaren Funktionen bei anderen Unternehmen mit wirtschaftlichem Zweck ausüben dürfen;
+- 2\. die maximale Dauer der Verträge, die den Vergütungen für die Mitglieder des Verwaltungsrats, der Geschäftsleitung und des Beirats zugrunde liegen, und die maximale Kündigungsfrist für unbefristete Verträge (Art. 735*b*);
+- 3\. die Grundsätze zu den Aufgaben und Zuständigkeiten des Vergütungsausschusses;
+- 4\. die Einzelheiten zur Abstimmung der Generalversammlung über die Vergütungen des Verwaltungsrats, der Geschäftsleitung und des Beirats.[^626-5]
+
+<sup>3</sup> Nicht als andere Unternehmen nach Absatz 2 Ziffer 1 gelten Unternehmen, die durch die Gesellschaft kontrolliert werden oder die die Gesellschaft kontrollieren.[^626-6]
 
 [^626-1]: Fassung gemäss Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^626-2]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^626-3]: Aufgehoben durch Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), mit Wirkung seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^626-4]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^626-5]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^626-6]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-### II. Weitere Bestimmungen
+#### Art. 627 und 628
 
-### 1. Im Allgemeinen
+[^627628-1]
 
-#### Art. 627
+[^627628-1]: Aufgehoben durch Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), mit Wirkung seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-[^627-1]
-
-Zu ihrer Verbindlichkeit bedürfen der Aufnahme in die Statuten Bestimmungen über:
-
-- 1\. Die Änderung der Statuten, soweit sie von den gesetzlichen Bestimmungen abweichen;
-- 2\. die Ausrichtung von Tantiemen;
-- 3\. die Zusicherung von Bauzinsen;
-- 4\. die Begrenzung der Dauer der Gesellschaft;
-- 5\. Konventionalstrafen bei nicht rechtzeitiger Leistung der Einlage;
-- 6\. die genehmigte und die bedingte Kapitalerhöhung;
-- 7\.[^627-2] …
-- 8\. die Beschränkung der Übertragbarkeit von Namenaktien;
-- 9\. die Vorrechte einzelner Kategorien von Aktien, über Partizipationsscheine, Genussscheine und über die Gewährung besonderer Vorteile;
-- 10\. die Beschränkung des Stimmrechts und des Rechts der Aktionäre, sich vertreten zu lassen;
-- 11\. die im Gesetz nicht vorgesehenen Fälle, in denen die Generalversammlung nur mit qualifizierter Mehrheit Beschluss fassen kann;
-- 12\. die Ermächtigung zur Übertragung der Geschäftsführung auf einzelne Mitglieder des Verwaltungsrates oder Dritte;
-- 13\. die Organisation und die Aufgaben der Revisionsstelle, sofern dabei über die gesetzlichen Vorschriften hinausgegangen wird;
-- 14\.[^627-3] die Möglichkeit, in bestimmter Form ausgegebene Aktien in eine andere Form umzuwandeln, sowie eine Verteilung der dabei entstehenden Kosten, soweit sie von der Regelung des Bucheffektengesetzes vom 3. Oktober 2008[^627-4] abweicht.
-
-[^627-1]: Fassung gemäss Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-[^627-2]: Aufgehoben durch Ziff. I 2 des BG vom 12. Dez. 2014 zur Umsetzung der 2012 revidierten Empfehlungen der Groupe d’action financière, mit Wirkung seit 1. Juli 2015 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
-[^627-3]: Eingefügt durch Anhang Ziff. 3 des Bucheffektengesetzes vom 3. Okt. 2008, in Kraft seit 1. Jan. 2010 ([AS 2009 3577](https://fedlex.data.admin.ch/eli/oc/2009/450); [BBl 2006 9315](https://fedlex.data.admin.ch/eli/fga/2006/1228)).
-[^627-4]: [SR 957.1](https://fedlex.data.admin.ch/eli/cc/2009/450)
-
-### 2. Im besonderen Sacheinlagen, Sachübernahmen, besondere Vorteile
-
-[^part3-tit26-chap1-lvlE-lvlII-lvl2-1]
-
-[^part3-tit26-chap1-lvlE-lvlII-lvl2-1]: Fassung gemäss Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-
-#### Art. 628
-
-<sup>1</sup> Leistet ein Aktionär eine Sacheinlage, so müssen die Statuten den Gegenstand und dessen Bewertung sowie den Namen des Einlegers und die ihm zukommenden Aktien angeben.[^628-1]
-
-<sup>2</sup> Übernimmt die Gesellschaft von Aktionären oder einer diesen nahe stehenden Person Vermögenswerte oder beabsichtigt sie solche Sachübernahmen, so müssen die Statuten den Gegenstand, den Namen des Veräusserers und die Gegenleistung der Gesellschaft angeben.[^628-2]
-
-<sup>3</sup> Werden bei der Gründung zugunsten der Gründer oder anderer Personen besondere Vorteile ausbedungen, so sind die begünstigten Personen in den Statuten mit Namen aufzuführen, und es ist der gewährte Vorteil nach Inhalt und Wert genau zu bezeichnen.
-
-<sup>4</sup> Die Generalversammlung kann nach zehn Jahren Bestimmungen der Statuten über Sacheinlagen oder Sachübernahmen aufheben. Bestimmungen über Sachübernahmen können auch aufgehoben werden, wenn die Gesellschaft endgültig auf die Sachübernahme verzichtet.[^628-3] [^628-4]
-
-[^628-1]: Fassung gemäss Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-[^628-2]: Fassung gemäss Ziff. I 3 des BG vom 16. Dez. 2005 (GmbH-Recht sowie Anpassungen im Aktien-, Genossenschafts-, Handelsregister- und Firmenrecht), in Kraft seit 1. Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
-[^628-3]: Zweiter Satz eingefügt durch Ziff. I 3 des BG vom 16. Dez. 2005 (GmbH-Recht sowie Anpassungen im Aktien-, Genossenschafts-, Handelsregister- und Firmenrecht), in Kraft seit 1. Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
-[^628-4]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-
-### F. Gründung
+### E. Gründung
 
 ### I. Errichtungsakt
 
 ### 1. Inhalt
+
+[^part3-tit26-chap1-lvlE-lvlI-lvl1-1]
+
+[^part3-tit26-chap1-lvlE-lvlI-lvl1-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 629
 
@@ -8902,15 +8912,18 @@ Zu ihrer Verbindlichkeit bedürfen der Aufnahme in die Statuten Bestimmungen üb
 
 <sup>2</sup>
 
-In diesem Errichtungsakt zeichnen die Gründer die Aktien und stellen fest:
+In diesem Errichtungsakt zeichnen die Gründer die Aktien und stellen fest, dass:
 
-- 1\. dass sämtliche Aktien gültig gezeichnet sind;
-- 2\. dass die versprochenen Einlagen dem gesamten Ausgabebetrag entsprechen;
-- 3\. dass die gesetzlichen und statutarischen Anforderungen an die Leistung der Einlagen erfüllt sind;
-- 4\.[^629-2] dass keine anderen Sacheinlagen, Sachübernahmen und beabsichtigten Sachübernahmen, Verrechnungstatbestände oder besonderen Vorteile bestehen als die in den Belegen genannten.
+- 1\. sämtliche Aktien gültig gezeichnet sind;
+- 2\. die versprochenen Einlagen dem gesamten Ausgabebetrag entsprechen;
+- 3\. die gesetzlichen und statutarischen Anforderungen an die geleisteten Einlagen im Zeitpunkt der Unterzeichnung des Errichtungsakts erfüllt sind;
+- 4\. keine anderen Sacheinlagen, Verrechnungstatbestände oder besonderen Vorteile bestehen als die in den Belegen genannten.[^629-2]
+
+<sup>3</sup> Wird das Aktienkapital in ausländischer Währung festgelegt oder werden Einlagen in einer anderen Währung geleistet als derjenigen des Aktienkapitals, so sind die angewandten Umrechnungskurse in der öffentlichen Urkunde anzugeben.[^629-3]
 
 [^629-1]: Fassung gemäss Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-[^629-2]: Eingefügt durch Ziff. I 2 des BG vom 17. März 2017 (Handelsregisterrecht), in Kraft seit 1. Jan. 2021 ([AS 2020 957](https://fedlex.data.admin.ch/eli/oc/2020/178); [BBl 2015 3617](https://fedlex.data.admin.ch/eli/fga/2015/956)).
+[^629-2]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^629-3]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 2. Aktienzeichnung
 
@@ -8942,9 +8955,10 @@ Dem Errichtungsakt sind folgende Unterlagen beizulegen:
 - 3\. die Prüfungsbestätigung;
 - 4\. die Bestätigung über die Hinterlegung von Einlagen in Geld;
 - 5\. die Sacheinlageverträge;
-- 6\. bereits vorliegende Sachübernahmeverträge.
+- 6\.[^631-2] …
 
 [^631-1]: Fassung gemäss Ziff. I 3 des BG vom 16. Dez. 2005 (GmbH-Recht sowie Anpassungen im Aktien-, Genossenschafts-, Handelsregister- und Firmenrecht), in Kraft seit 1. Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^631-2]: Aufgehoben durch Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), mit Wirkung seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### III. Einlagen
 
@@ -8956,9 +8970,10 @@ Dem Errichtungsakt sind folgende Unterlagen beizulegen:
 
 <sup>1</sup> Bei der Errichtung der Gesellschaft muss die Einlage für mindestens 20 Prozent des Nennwertes jeder Aktie geleistet sein.
 
-<sup>2</sup> In allen Fällen müssen die geleisteten Einlagen mindestens 50 000 Franken betragen.
+<sup>2</sup> In allen Fällen müssen die geleisteten Einlagen mindestens 50 000 Franken betragen. Lautet das Aktienkapital auf eine ausländische Währung, so müssen die geleisteten Einlagen zum Zeitpunkt der Errichtung einem Gegenwert von mindestens 50 000 Franken entsprechen.[^632-2]
 
 [^632-1]: Fassung gemäss Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^632-2]: Zweiter Satz eingefügt durch Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 2. Leistung der Einlagen
 
@@ -8968,11 +8983,13 @@ Dem Errichtungsakt sind folgende Unterlagen beizulegen:
 
 [^633-1]
 
-<sup>1</sup> Einlagen in Geld müssen bei einem dem Bankengesetz vom 8. November 1934[^633-2] unterstellten Institut zur ausschliesslichen Verfügung der Gesellschaft hinterlegt werden.
+<sup>1</sup> Einlagen in Geld müssen bei einer Bank nach Artikel 1 Absatz 1 des Bankengesetzes vom 8. November 1934[^633-2] zur ausschliesslichen Verfügung der Gesellschaft hinterlegt werden.
 
-<sup>2</sup> Das Institut gibt den Betrag erst frei, wenn die Gesellschaft in das Handelsregister eingetragen ist.
+<sup>2</sup> Die Bank gibt den Betrag erst frei, wenn die Gesellschaft im Handelsregister eingetragen ist.
 
-[^633-1]: Fassung gemäss Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+<sup>3</sup> Als Einlagen in Geld gelten Einzahlungen in der Währung, auf die das Aktienkapital lautet, sowie Einzahlungen in anderen zum Aktienkapital frei konvertierbaren Währungen.
+
+[^633-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 [^633-2]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
 
 ### b. Sacheinlagen
@@ -8981,25 +8998,48 @@ Dem Errichtungsakt sind folgende Unterlagen beizulegen:
 
 [^634-1]
 
-Sacheinlagen gelten nur dann als Deckung, wenn:
+<sup>1</sup>
 
-- 1\. sie gestützt auf einen schriftlichen oder öffentlich beurkundeten Sacheinlagevertrag geleistet werden;
-- 2\. die Gesellschaft nach ihrer Eintragung in das Handelsregister sofort als Eigentümerin darüber verfügen kann oder einen bedingungslosen Anspruch auf Eintragung in das Grundbuch erhält;
-- 3\. ein Gründungsbericht mit Prüfungsbestätigung vorliegt.
+Gegenstände einer Sacheinlage gelten als Deckung, wenn die folgenden Voraussetzungen erfüllt sind:
 
-[^634-1]: Fassung gemäss Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+- 1\. Sie können als Aktiven bilanziert werden.
+- 2\. Sie können in das Vermögen der Gesellschaft übertragen werden.
+- 3\. Die Gesellschaft kann nach ihrer Eintragung in das Handelsregister sofort als Eigentümerin frei darüber verfügen oder erhält, im Falle eines Grundstücks, einen bedingungslosen Anspruch auf Eintragung in das Grundbuch.
+- 4\. Sie können durch Übertragung auf Dritte verwertet werden.
 
-### c. Nachträgliche Leistung
+<sup>2</sup> Die Sacheinlage ist schriftlich zu vereinbaren. Der Vertrag ist öffentlich zu beurkunden, wenn dies für die Übertragung des Gegenstandes vorgeschrieben ist.
+
+<sup>3</sup> Eine einzige öffentliche Urkunde genügt auch dann, wenn Grundstücke, die Gegenstand der Sacheinlage sind, in verschiedenen Kantonen liegen. Die Urkunde muss durch eine Urkundsperson am Sitz der Gesellschaft errichtet werden.
+
+<sup>4</sup> Die Statuten müssen den Gegenstand und dessen Bewertung sowie den Namen des Einlegers und die dafür ausgegebenen Aktien sowie allfällige weitere Gegenleistungen der Gesellschaft angeben. Die Generalversammlung kann die Statutenbestimmungen nach zehn Jahren aufheben.
+
+[^634-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### c. Verrechnung mit einer Forderung
 
 #### Art. 634a
 
 [^634a-1]
 
+<sup>1</sup> Die Liberierung kann auch durch Verrechnung mit einer Forderung erfolgen.
+
+<sup>2</sup> Die Verrechnung mit einer Forderung gilt auch als Deckung, wenn die Forderung nicht mehr durch Aktiven gedeckt ist.
+
+<sup>3</sup> Die Statuten müssen den Betrag der zur Verrechnung gebrachten Forderung, den Namen des Aktionärs und die ihm zukommenden Aktien angeben. Die Generalversammlung kann die Statutenbestimmungen nach zehn Jahren aufheben.
+
+[^634a-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1991 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733): [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### d. Nachträgliche Leistung
+
+#### Art. 634b
+
+[^634b-1]
+
 <sup>1</sup> Der Verwaltungsrat beschliesst die nachträgliche Leistung von Einlagen auf nicht voll liberierte Aktien.
 
-<sup>2</sup> Die nachträgliche Leistung kann in Geld, durch Sacheinlage oder durch Verrechnung erfolgen.
+<sup>2</sup> Die nachträgliche Leistung kann in Geld, durch Sacheinlage, durch Verrechnung mit einer Forderung oder durch Umwandlung von frei verwendbarem Eigenkapital erfolgen.
 
-[^634a-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733): [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^634b-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 3. Prüfung der Einlagen
 
@@ -9011,11 +9051,12 @@ Sacheinlagen gelten nur dann als Deckung, wenn:
 
 Die Gründer geben in einem schriftlichen Bericht Rechenschaft über:
 
-- 1\. die Art und den Zustand von Sacheinlagen oder Sachübernahmen und die Angemessenheit der Bewertung;
+- 1\.[^635-2] die Art und den Zustand von Sacheinlagen und die Angemessenheit der Bewertung;
 - 2\. den Bestand und die Verrechenbarkeit der Schuld;
 - 3\. die Begründung und die Angemessenheit besonderer Vorteile zugunsten von Gründern oder anderen Personen.
 
 [^635-1]: Fassung gemäss Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^635-2]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### b. Prüfungsbestätigung
 
@@ -9027,15 +9068,29 @@ Ein zugelassener Revisor prüft den Gründungsbericht und bestätigt schriftlich
 
 [^635a-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1991 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Fassung gemäss Ziff. I 3 des BG vom 16. Dez. 2005 (GmbH-Recht sowie Anpassungen im Aktien-, Genossenschafts-, Handelsregister- und Firmenrecht), in Kraft seit 1. Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 
-#### Art. 636–639
+### IV. Besondere Vorteile
 
-[^636639-1]
+#### Art. 636
 
-[^636639-1]: Aufgehoben durch Ziff. I des BG vom 4. Okt. 1991, mit Wirkung seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^636-1]
 
-### G. Eintragung ins Handelsregister
+Werden bei der Gründung zugunsten der Gründer oder anderer Personen besondere Vorteile ausbedungen, so sind in den Statuten die begünstigten Personen mit Namen sowie Inhalt und Wert des gewährten Vorteils anzugeben.
+
+[^636-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+#### Art. 637–639
+
+[^637639-1]
+
+[^637639-1]: Aufgehoben durch Ziff. I des BG vom 4. Okt. 1991, mit Wirkung seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+
+### F. Eintragung ins Handelsregister
 
 ### I. Gesellschaft
+
+[^part3-tit26-chap1-lvlF-lvlI-1]
+
+[^part3-tit26-chap1-lvlF-lvlI-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 640
 
@@ -9043,7 +9098,7 @@ Ein zugelassener Revisor prüft den Gründungsbericht und bestätigt schriftlich
 
 Die Gesellschaft ist ins Handelsregister des Ortes einzutragen, an dem sie ihren Sitz hat.
 
-[^640-1]: Fassung gemäss Ziff. I 3 des BG vom 16. Dez. 2005 (GmbH-Recht sowie Anpassungen im Aktien-, Genossenschafts-, Handelsregister- und Firmenrecht), in Kraft seit 1. Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); BBl **2****002** 3148, **2004** 3969).
+[^640-1]: Fassung gemäss Ziff. I 3 des BG vom 16. Dez. 2005 (GmbH-Recht sowie Anpassungen im Aktien-, Genossenschafts-, Handelsregister- und Firmenrecht), in Kraft seit 1. Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 
 ### II. …
 
@@ -9053,23 +9108,21 @@ Die Gesellschaft ist ins Handelsregister des Ortes einzutragen, an dem sie ihren
 
 [^641-1]: Aufgehoben durch Ziff. I 2 des BG vom 17. März 2017 (Handelsregisterrecht), mit Wirkung seit 1. Jan. 2021 ([AS 2020 957](https://fedlex.data.admin.ch/eli/oc/2020/178); [BBl 2015 3617](https://fedlex.data.admin.ch/eli/fga/2015/956)).
 
-### III. Sacheinlagen, Sachübernahmen, besondere Vorteile
+### III. …
 
 #### Art. 642
 
 [^642-1]
 
-Der Gegenstand von Sacheinlagen und die dafür ausgegebenen Aktien, der Gegenstand von Sachübernahmen und die Gegenleistung der Gesellschaft sowie Inhalt und Wert besonderer Vorteile müssen ins Handelsregister eingetragen werden.
+[^642-1]: Aufgehoben durch Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), mit Wirkung seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-[^642-1]: Fassung gemäss Ziff. I 3 des BG vom 16. Dez. 2005 (GmbH-Recht sowie Anpassungen im Aktien-, Genossenschafts-, Handelsregister- und Firmenrecht), in Kraft seit 1. Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
-
-### H. Erwerb der Persönlichkeit
+### G. Erwerb der Persönlichkeit
 
 ### I. Zeitpunkt; mangelnde Voraussetzungen
 
-[^part3-tit26-chap1-lvlH-lvlI-1]
+[^part3-tit26-chap1-lvlG-lvlI-1]
 
-[^part3-tit26-chap1-lvlH-lvlI-1]: Fassung gemäss Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^part3-tit26-chap1-lvlG-lvlI-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 643
 
@@ -9083,13 +9136,19 @@ Der Gegenstand von Sacheinlagen und die dafür ausgegebenen Aktien, der Gegensta
 
 [^643-1]: Zweiter Satz aufgehoben durch Ziff. I 3 des BG vom 16. Dez. 2005 (GmbH-Recht sowie Anpassungen im Aktien-, Genossenschafts-, Handelsregister- und Firmenrecht), mit Wirkung seit 1. Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 
-### II. Vor der Eintragung ausgegebene Aktien
+### II. Nichtigkeit von Aktien, die vor der Eintragung ausgegeben werden
+
+[^part3-tit26-chap1-lvlG-lvlII-1]
+
+[^part3-tit26-chap1-lvlG-lvlII-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 644
 
-<sup>1</sup> Die vor der Eintragung der Gesellschaft ausgegebenen Aktien sind nichtig; dagegen werden die aus der Aktienzeichnung hervorgehenden Verpflichtungen dadurch nicht berührt.
+<sup>1</sup> Aktien, die vor der Eintragung der Gesellschaft ins Handelsregister ausgegeben werden, sind nichtig; die aus der Aktienzeichnung hervorgehenden Verpflichtungen werden dadurch nicht berührt.[^644-1]
 
 <sup>2</sup> Wer vor der Eintragung Aktien ausgibt, wird für allen dadurch verursachten Schaden haftbar.
+
+[^644-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### III. Vor der Eintragung eingegangene Verpflichtungen
 
@@ -9105,89 +9164,70 @@ Der Gegenstand von Sacheinlagen und die dafür ausgegebenen Aktien, der Gegensta
 
 [^646-1]: Aufgehoben durch Ziff. I des BG vom 4. Okt. 1991, mit Wirkung seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 
-### J. Statutenänderung
+### H. Statutenänderung
 
 #### Art. 647
 
 [^647-1]
 
-Jeder Beschluss der Generalversammlung oder des Verwaltungsrates über eine Änderung der Statuten muss öffentlich beurkundet und ins Handelsregister eingetragen werden.
+Der Beschluss der Generalversammlung oder des Verwaltungsrats über eine Änderung der Statuten ist öffentlich zu beurkunden und ins Handelsregister einzutragen.
 
-[^647-1]: Fassung gemäss Ziff. I 3 des BG vom 16. Dez. 2005 (GmbH-Recht sowie Anpassungen im Aktien-, Genossenschafts-, Handelsregister- und Firmenrecht), in Kraft seit 1. Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^647-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-#### Art. 648–649
+#### Art. 648 und 649
 
 [^648649-1]
 
 [^648649-1]: Aufgehoben durch Ziff. I des BG vom 4. Okt. 1991, mit Wirkung seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 
-### K. Erhöhung des Aktienkapitals
+### I. Erhöhung und Herabsetzung des Aktienkapitals
 
-### I. Ordentliche und genehmigte Kapitalerhöhung
+### I. Ordentliche Kapitalerhöhung
 
-### 1. Ordentliche Kapitalerhöhung
+### 1. Beschluss der Generalversammlung
 
 #### Art. 650
 
 [^650-1]
 
-<sup>1</sup> Die Erhöhung des Aktienkapitals wird von der Generalversammlung beschlossen; sie ist vom Verwaltungsrat innerhalb von drei Monaten durchzuführen.
+<sup>1</sup> Die Generalversammlung beschliesst die ordentliche Erhöhung des Aktienkapitals.
 
 <sup>2</sup>
 
-Der Beschluss der Generalversammlung muss öffentlich beurkundet werden und angeben:
+Der Beschluss der Generalversammlung muss öffentlich beurkundet werden und folgende Angaben enthalten:
 
-- 1\. den gesamten Nennbetrag, um den das Aktienkapital erhöht werden soll, und den Betrag der darauf zu leistenden Einlagen;
-- 2\. Anzahl, Nennwert und Art der Aktien sowie Vorrechte einzelner Kategorien;
-- 3\. den Ausgabebetrag oder die Ermächtigung an den Verwaltungsrat, diesen festzusetzen, sowie den Beginn der Dividendenberechtigung;
-- 4\. die Art der Einlagen, bei Sacheinlagen deren Gegenstand und Bewertung sowie den Namen des Sacheinlegers und die ihm zukommenden Aktien;
-- 5\. bei Sachübernahmen den Gegenstand, den Namen des Veräusserers und die Gegenleistung der Gesellschaft;
-- 6\. Inhalt und Wert von besonderen Vorteilen sowie die Namen der begünstigten Personen;
-- 7\. eine Beschränkung der Übertragbarkeit neuer Namenaktien;
-- 8\. eine Einschränkung oder Aufhebung des Bezugsrechtes und die Zuweisung nicht ausgeübter oder entzogener Bezugsrechte;
-- 9\. die Voraussetzungen für die Ausübung vertraglich erworbener Bezugsrechte.
+- 1\. den Nennbetrag oder gegebenenfalls den maximalen Nennbetrag, um den das Aktienkapital erhöht werden soll;
+- 2\. die Anzahl oder gegebenenfalls die maximale Anzahl, Nennwert und Art der neu ausgegebenen Aktien sowie Vorrechte, die mit einzelnen Kategorien von Aktien verbunden sind;
+- 3\. den Ausgabebetrag oder die Ermächtigung des Verwaltungsrats, diesen festzusetzen, sowie den Zeitpunkt, ab dem die neuen Aktien zum Bezug von Dividenden berechtigen;
+- 4\. bei Sacheinlagen: deren Gegenstand und Bewertung sowie den Namen des Einlegers und die dafür ausgegebenen Aktien sowie allfällige weitere Gegenleistungen der Gesellschaft;
+- 5\. bei Liberierung durch Verrechnung mit einer Forderung: den Betrag der zur Verrechnung gebrachten Forderung, den Namen des Gläubigers und die ihm zukommenden Aktien;
+- 6\. die Umwandlung von frei verwendbarem Eigenkapital;
+- 7\. Inhalt und Wert von besonderen Vorteilen sowie die Namen der begünstigten Personen;
+- 8\. eine Beschränkung der Übertragbarkeit neuer Namenaktien;
+- 9\. eine Einschränkung oder Aufhebung des Bezugsrechts und die Folgen, wenn dieses nicht ausgeübt oder entzogen wird;
+- 10\. die Voraussetzungen für die Ausübung vertraglich erworbener Bezugsrechte.
 
-<sup>3</sup> Wird die Kapitalerhöhung nicht innerhalb von drei Monaten ins Handelsregister eingetragen, so fällt der Beschluss der Generalversammlung dahin.
+<sup>3</sup> Die Kapitalerhöhung muss innerhalb von sechs Monaten nach dem Beschluss der Generalversammlung beim Handelsregisteramt zur Eintragung angemeldet werden; sonst fällt der Beschluss dahin.
 
-[^650-1]: Fassung gemäss Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733): [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-
-### 2. Genehmigte Kapitalerhöhung
-
-### a. Statutarische Grundlage
+[^650-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 651
 
 [^651-1]
 
-<sup>1</sup> Die Generalversammlung kann durch Statutenänderung den Verwaltungsrat ermächtigen, das Aktienkapital innert einer Frist von längstens zwei Jahren zu erhöhen.
-
-<sup>2</sup> Die Statuten geben den Nennbetrag an, um den der Verwaltungsrat das Aktienkapital erhöhen kann. Das genehmigte Kapital darf die Hälfte des bisherigen Aktienkapitals nicht übersteigen.
-
-<sup>3</sup> Die Statuten enthalten überdies die Angaben, welche für die ordentliche Kapitalerhöhung verlangt werden, mit Ausnahme der Angaben über den Ausgabebetrag, die Art der Einlagen, die Sachübernahmen und den Beginn der Dividendenberechtigung.
-
-<sup>4</sup> Im Rahmen der Ermächtigung kann der Verwaltungsrat Erhöhungen des Aktienkapitals durchführen. Dabei erlässt er die notwendigen Bestimmungen, soweit sie nicht schon im Beschluss der Generalversammlung enthalten sind.
-
-<sup>5</sup> Vorbehalten bleiben die Vorschriften des Bankengesetzes vom 8. November 1934[^651-2] über das Vorratskapital.[^651-3]
-
-[^651-1]: Fassung gemäss Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-[^651-2]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^651-3]: Eingefügt durch Anhang Ziff. 1 des BG vom 30. Sept. 2011 (Stärkung der Stabilität im Finanzsektor), in Kraft seit 1. März 2012 ([AS 2012 811](https://fedlex.data.admin.ch/eli/oc/2012/126); [BBl 2011 4717](https://fedlex.data.admin.ch/eli/fga/2011/762)).
-
-### b. Anpassung der Statuten
+[^651-1]: Aufgehoben durch Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), mit Wirkung seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 651a
 
 [^651a-1]
 
-<sup>1</sup> Nach jeder Kapitalerhöhung setzt der Verwaltungsrat den Nennbetrag des genehmigten Kapitals in den Statuten entsprechend herab.
+[^651a-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1991 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Aufgehoben durch Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), mit Wirkung seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-<sup>2</sup> Nach Ablauf der für die Durchführung der Kapitalerhöhung festgelegten Frist wird die Bestimmung über die genehmigte Kapitalerhöhung auf Beschluss des Verwaltungsrates aus den Statuten gestrichen.
+### 2. Aktienzeichnung
 
-[^651a-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1****983** II 745).
+[^part3-tit26-chap1-lvlI-lvlI-lvl2-1]
 
-### 3. Gemeinsame Vorschriften
-
-### a. Aktienzeichnung
+[^part3-tit26-chap1-lvlI-lvlI-lvl2-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 652
 
@@ -9195,13 +9235,13 @@ Der Beschluss der Generalversammlung muss öffentlich beurkundet werden und ange
 
 <sup>1</sup> Die Aktien werden in einer besonderen Urkunde (Zeichnungsschein) nach den für die Gründung geltenden Regeln gezeichnet.
 
-<sup>2</sup> Der Zeichnungsschein muss auf den Beschluss der Generalversammlung über die Erhöhung oder die Ermächtigung zur Erhöhung des Aktienkapitals und auf den Beschluss des Verwaltungsrates über die Erhöhung Bezug nehmen. Verlangt das Gesetz einen Emissionsprospekt, so nimmt der Zeichnungsschein auch auf diesen Bezug.
+<sup>2</sup> Der Zeichnungsschein muss auf den Beschluss der Generalversammlung über die Erhöhung des Aktienkapitals und den entsprechenden Beschluss des Verwaltungsrates Bezug nehmen. Verlangt das Gesetz einen Prospekt, so nimmt der Zeichnungsschein auch auf diesen Bezug.[^652-2]
 
-<sup>3</sup> Enthält der Zeichnungsschein keine Befristung, so endet seine Verbindlichkeit drei Monate nach der Unterzeichnung.
+<sup>3</sup> …[^652-3]
 
 [^652-1]: Fassung gemäss Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-
-### b. …
+[^652-2]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^652-3]: Aufgehoben durch Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), mit Wirkung seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 652a
 
@@ -9209,7 +9249,11 @@ Der Beschluss der Generalversammlung muss öffentlich beurkundet werden und ange
 
 [^652a-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1991 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Aufgehoben durch Anhang Ziff. 1 des Finanzdienstleistungsgesetzes vom 15. Juni 2018, mit Wirkung seit 1. Jan. 2020 ([AS 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
-### c. Bezugsrecht
+### 3. Bezugsrecht und Ausgabebetrag
+
+[^part3-tit26-chap1-lvlI-lvlI-lvl3-1]
+
+[^part3-tit26-chap1-lvlI-lvlI-lvl3-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 652b
 
@@ -9217,13 +9261,21 @@ Der Beschluss der Generalversammlung muss öffentlich beurkundet werden und ange
 
 <sup>1</sup> Jeder Aktionär hat Anspruch auf den Teil der neu ausgegebenen Aktien, der seiner bisherigen Beteiligung entspricht.
 
-<sup>2</sup> Der Beschluss der Generalversammlung über die Erhöhung des Aktienkapitals darf das Bezugsrecht nur aus wichtigen Gründen aufheben. Als wichtige Gründe gelten insbesondere die Übernahme von Unternehmen, Unternehmensteilen oder Beteiligungen sowie die Beteiligung der Arbeitnehmer. Durch die Aufhebung des Bezugsrechts darf niemand in unsachlicher Weise begünstigt oder benachteiligt werden.
+<sup>2</sup> Der Beschluss der Generalversammlung über die Erhöhung des Aktienkapitals darf das Bezugsrecht nur aus wichtigen Gründen einschränken oder aufheben. Als wichtige Gründe gelten insbesondere die Übernahme von Unternehmen, Unternehmensteilen oder Beteiligungen sowie die Beteiligung der Arbeitnehmer.[^652b-2]
 
 <sup>3</sup> Die Gesellschaft kann dem Aktionär, welchem sie ein Recht zum Bezug von Aktien eingeräumt hat, die Ausübung dieses Rechtes nicht wegen einer statutarischen Beschränkung der Übertragbarkeit von Namenaktien verwehren.
 
-[^652b-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+<sup>4</sup> Durch die Einschränkung oder Aufhebung des Bezugsrechts oder die Festsetzung des Ausgabebetrags darf niemand in unsachlicher Weise begünstigt oder benachteiligt werden.[^652b-3]
 
-### d. Leistung der Einlagen
+[^652b-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^652b-2]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^652b-3]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### 4. Leistung der Einlagen
+
+[^part3-tit26-chap1-lvlI-lvlI-lvl4-1]
+
+[^part3-tit26-chap1-lvlI-lvlI-lvl4-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 652c
 
@@ -9233,7 +9285,11 @@ Soweit das Gesetz nichts anderes vorschreibt, sind die Einlagen nach den Bestimm
 
 [^652c-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 
-### e. Erhöhung aus Eigenkapital
+### 5. Erhöhung aus Eigenkapital
+
+[^part3-tit26-chap1-lvlI-lvlI-lvl5-1]
+
+[^part3-tit26-chap1-lvlI-lvlI-lvl5-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 652d
 
@@ -9241,12 +9297,25 @@ Soweit das Gesetz nichts anderes vorschreibt, sind die Einlagen nach den Bestimm
 
 <sup>1</sup> Das Aktienkapital kann auch durch Umwandlung von frei verwendbarem Eigenkapital erhöht werden.
 
-<sup>2</sup> Die Deckung des Erhöhungsbetrags ist mit der Jahresrechnung in der von den Aktionären genehmigten Fassung und dem Revisionsbericht eines zugelassenen Revisors nachzuweisen. Liegt der Bilanzstichtag mehr als sechs Monate zurück, so ist ein geprüfter Zwischenabschluss erforderlich.[^652d-2]
+<sup>2</sup>
+
+Die Deckung des Erhöhungsbetrags wird nachgewiesen:
+
+- 1\. mit der Jahresrechnung in der von der Generalversammlung genehmigten und durch einen zugelassenen Revisor geprüften Fassung; oder
+
+- 2\. mit einem durch einen zugelassenen Revisor geprüften Zwischenabschluss, sofern der Bilanzstichtag im Zeitpunkt des Beschlusses der Generalversammlung mehr als sechs Monate zurückliegt.[^652d-2]
+
+<sup>3</sup> Die Statuten müssen den Umstand angeben, dass die Kapitalerhöhung durch Umwandlung von frei verwendbarem Eigenkapital erfolgte.[^652d-3]
 
 [^652d-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-[^652d-2]: Fassung gemäss Ziff. I 3 des BG vom 16. Dez. 2005 (GmbH-Recht sowie Anpassungen im Aktien-, Genossenschafts-, Handelsregister- und Firmenrecht), in Kraft seit 1. Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^652d-2]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^652d-3]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-### f. Kapitalerhöhungsbericht
+### 6. Kapitalerhöhungsbericht
+
+[^part3-tit26-chap1-lvlI-lvlI-lvl6-1]
+
+[^part3-tit26-chap1-lvlI-lvlI-lvl6-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 652e
 
@@ -9254,15 +9323,20 @@ Soweit das Gesetz nichts anderes vorschreibt, sind die Einlagen nach den Bestimm
 
 Der Verwaltungsrat gibt in einem schriftlichen Bericht Rechenschaft über:
 
-- 1\. die Art und den Zustand von Sacheinlagen oder Sachübernahmen und die Angemessenheit der Bewertung;
+- 1\.[^652e-2] die Art und den Zustand von Sacheinlagen und die Angemessenheit der Bewertung;
 - 2\. den Bestand und die Verrechenbarkeit der Schuld;
 - 3\. die freie Verwendbarkeit von umgewandeltem Eigenkapital;
 - 4\. die Einhaltung des Generalversammlungsbeschlusses, insbesondere über die Einschränkung oder die Aufhebung des Bezugsrechtes und die Zuweisung nicht ausgeübter oder entzogener Bezugsrechte;
 - 5\. die Begründung und die Angemessenheit besonderer Vorteile zugunsten einzelner Aktionäre oder anderer Personen.
 
 [^652e-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^652e-2]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-### g. Prüfungsbestätigung
+### 7. Prüfungsbestätigung
+
+[^part3-tit26-chap1-lvlI-lvlI-lvl7-1]
+
+[^part3-tit26-chap1-lvlI-lvlI-lvl7-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 652f
 
@@ -9275,7 +9349,7 @@ Der Verwaltungsrat gibt in einem schriftlichen Bericht Rechenschaft über:
 [^652f-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 [^652f-2]: Fassung gemäss Ziff. I 3 des BG vom 16. Dez. 2005 (GmbH-Recht sowie Anpassungen im Aktien-, Genossenschafts-, Handelsregister- und Firmenrecht), in Kraft seit 1. Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 
-### h. Statutenänderung und Feststellungen
+### 8. Statutenänderung und Feststellungen des Verwaltungsrats
 
 #### Art. 652g
 
@@ -9283,40 +9357,29 @@ Der Verwaltungsrat gibt in einem schriftlichen Bericht Rechenschaft über:
 
 <sup>1</sup>
 
-Liegen der Kapitalerhöhungsbericht und, sofern erforderlich, die Prüfungsbestätigung vor, so ändert der Verwaltungsrat die Statuten und stellt dabei fest:
+Liegen der Kapitalerhöhungsbericht und, sofern erforderlich, die Prüfungsbestätigung vor, so ändert der Verwaltungsrat die Statuten und stellt dabei fest, dass:
 
-- 1\. dass sämtliche Aktien gültig gezeichnet sind;
-- 2\. dass die versprochenen Einlagen dem gesamten Ausgabebetrag entsprechen;
-- 3\. dass die Einlagen entsprechend den Anforderungen des Gesetzes, der Statuten oder des Generalversammlungsbeschlusses geleistet wurden;
-- 4\.[^652g-2] dass keine anderen Sacheinlagen, Sachübernahmen und beabsichtigten Sachübernahmen, Verrechnungstatbestände oder besonderen Vorteile bestehen als die in den Belegen genannten.
+- 1\. sämtliche Aktien gültig gezeichnet sind;
+- 2\. die versprochenen Einlagen dem gesamten Ausgabebetrag entsprechen;
+- 3\. die Anforderungen des Gesetzes, der Statuten und des Generalversammlungsbeschlusses an die Leistung der Einlagen im Zeitpunkt der Feststellungen erfüllt sind;
+- 4\. keine anderen Sacheinlagen, Verrechnungstatbestände oder besonderen Vorteile bestehen, als die in den Belegen genannten;
+- 5\. ihm die Belege, die der Kapitalerhöhung zugrunde liegen, vorgelegen haben.
 
-<sup>2</sup> Beschluss und Feststellungen sind öffentlich zu beurkunden. Die Urkundsperson hat die Belege, die der Kapitalerhöhung zugrunde liegen, einzeln zu nennen und zu bestätigen, dass sie dem Verwaltungsrat vorgelegen haben.
+<sup>2</sup> Der Beschluss über die Änderung der Statuten und die Feststellungen sind öffentlich zu beurkunden. Die Urkundsperson hat die Belege, die der Kapitalerhöhung zugrunde liegen, einzeln zu nennen und zu bestätigen, dass sie ihr vorgelegen haben. Die Belege sind der öffentlichen Urkunde beizulegen.
 
-<sup>3</sup> Der öffentlichen Urkunde sind die geänderten Statuten, der Kapitalerhöhungsbericht, die Prüfungsbestätigung sowie die Sacheinlageverträge und die bereits vorliegenden Sachübernahmeverträge beizulegen.
+[^652g-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1991 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-[^652g-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-[^652g-2]: Eingefügt durch Ziff. I 2 des BG vom 17. März 2017 (Handelsregisterrecht), in Kraft seit 1. Jan. 2021 ([AS 2020 957](https://fedlex.data.admin.ch/eli/oc/2020/178); [BBl 2015 3617](https://fedlex.data.admin.ch/eli/fga/2015/956)).
-
-### i. Eintragung in das Handelsregister; Nichtigkeit vorher ausgegebener Aktien
+### 9. Nichtigkeit von Aktien, die vor der Eintragung ausgegeben werden
 
 #### Art. 652h
 
 [^652h-1]
 
-<sup>1</sup> Der Verwaltungsrat meldet die Statutenänderung und seine Feststellungen beim Handelsregister zur Eintragung an.
+Aktien, die vor der Eintragung der Kapitalerhöhung ins Handelsregister ausgegeben werden, sind nichtig; die aus der Aktienzeichnung hervorgehenden Verpflichtungen werden dadurch nicht berührt.
 
-<sup>2</sup>
+[^652h-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1991 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-Einzureichen sind:
-
-- 1\. die öffentlichen Urkunden über die Beschlüsse der Generalversammlung und des Verwaltungsrates mit den Beilagen;
-- 2\. eine beglaubigte Ausfertigung der geänderten Statuten.
-
-<sup>3</sup> Aktien, die vor der Eintragung der Kapitalerhöhung ausgegeben werden, sind nichtig; die aus der Aktienzeichnung hervorgehenden Verpflichtungen werden dadurch nicht berührt.
-
-[^652h-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 (AS **199****2** 733; [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-
-### II. Bedingte Kapitalerhöhung
+### II. Erhöhung aus bedingtem Kapital
 
 ### 1. Grundsatz
 
@@ -9324,15 +9387,16 @@ Einzureichen sind:
 
 [^653-1]
 
-<sup>1</sup> Die Generalversammlung kann eine bedingte Kapitalerhöhung beschliessen, indem sie in den Statuten den Gläubigern von neuen Anleihens- oder ähnlichen Obligationen gegenüber der Gesellschaft oder ihren Konzerngesellschaften sowie den Arbeitnehmern Rechte auf den Bezug neuer Aktien (Wandel- oder Optionsrechte) einräumt.
+<sup>1</sup> Die Generalversammlung kann ein bedingtes Kapital beschliessen, indem sie den Aktionären, den Gläubigern von Anleihensobligationen oder ähnlichen Obligationen, den Arbeitnehmern, den Mitgliedern des Verwaltungsrats der Gesellschaft oder einer anderen Konzerngesellschaft oder Dritten das Recht einräumt, neue Aktien zu beziehen (Wandel- und Optionsrechte).
 
-<sup>2</sup> Das Aktienkapital erhöht sich ohne weiteres in dem Zeitpunkt und in dem Umfang, als diese Wandel- oder Optionsrechte ausgeübt und die Einlagepflichten durch Verrechnung oder Einzahlung erfüllt werden.
+<sup>2</sup> Das Aktienkapital erhöht sich ohne Weiteres, sobald und soweit die Wandel- oder Optionsrechte ausgeübt und die Einlagepflichten durch Einzahlung oder durch Verrechnung erfüllt werden.
 
-<sup>3</sup> Vorbehalten bleiben die Vorschriften des Bankengesetzes vom 8. November 1934[^653-2] über das Wandlungskapital.[^653-3]
+<sup>3</sup> Die Bestimmungen zur Erhöhung des Aktienkapitals aus bedingtem Kapital sind sinngemäss auch im Fall einer Auferlegung von Wandel- und Erwerbspflichten anwendbar.
 
-[^653-1]: Fassung gemäss Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+<sup>4</sup> Vorbehalten bleiben die Vorschriften des Bankengesetzes vom 8. November 1934[^653-2] über das Wandlungskapital.
+
+[^653-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 [^653-2]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^653-3]: Eingefügt durch Anhang Ziff. 1 des BG vom 30. Sept. 2011 (Stärkung der Stabilität im Finanzsektor), in Kraft seit 1. März 2012 ([AS 2012 811](https://fedlex.data.admin.ch/eli/oc/2012/126); [BBl 2011 4717](https://fedlex.data.admin.ch/eli/fga/2011/762)).
 
 ### 2. Schranken
 
@@ -9340,11 +9404,12 @@ Einzureichen sind:
 
 [^653a-1]
 
-<sup>1</sup> Der Nennbetrag, um den das Aktienkapital bedingt erhöht werden kann, darf die Hälfte des bisherigen Aktienkapitals nicht übersteigen.
+<sup>1</sup> Der Nennbetrag, um den das Aktienkapital bedingt erhöht werden kann, darf die Hälfte des im Handelsregister eingetragenen Aktienkapitals nicht übersteigen.[^653a-2]
 
 <sup>2</sup> Die geleistete Einlage muss mindestens dem Nennwert entsprechen.
 
 [^653a-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^653a-2]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 3. Statutarische Grundlage
 
@@ -9356,12 +9421,13 @@ Einzureichen sind:
 
 Die Statuten müssen angeben:
 
-- 1\. den Nennbetrag der bedingten Kapitalerhöhung;
+- 1\.[^653b-2] den Nennbetrag des bedingten Kapitals;
 - 2\. Anzahl, Nennwert und Art der Aktien;
 - 3\. den Kreis der Wandel- oder der Optionsberechtigten;
-- 4\. die Aufhebung der Bezugsrechte der bisherigen Aktionäre;
+- 4\.[^653b-3] eine Einschränkung oder Aufhebung des Bezugsrechts der bisherigen Aktionäre, sofern die Optionsrechte nicht diesen zugeteilt werden;
 - 5\. Vorrechte einzelner Kategorien von Aktien;
-- 6\. die Beschränkung der Übertragbarkeit neuer Namenaktien.
+- 6\. die Beschränkung der Übertragbarkeit neuer Namenaktien;
+- 7\.[^653b-4] die Form der Ausübung der Wandel- oder Optionsrechte und des Verzichts auf diese Rechte.
 
 <sup>2</sup>
 
@@ -9370,9 +9436,13 @@ Werden die Anleihens- oder ähnlichen Obligationen, mit denen Wandel- oder Optio
 - 1\. die Voraussetzungen für die Ausübung der Wandel- oder der Optionsrechte;
 - 2\. die Grundlagen, nach denen der Ausgabebetrag zu berechnen ist.
 
-<sup>3</sup> Wandel- oder Optionsrechte, die vor der Eintragung der Statutenbestimmung über die bedingte Kapitalerhöhung im Handelsregister eingeräumt werden, sind nichtig.
+<sup>3</sup> Wandel- oder Optionsrechte, die vor der Eintragung der Statutenbestimmung über die Kapitalerhöhung aus bedingtem Kapital in das Handelsregister eingeräumt werden, sind nichtig.[^653b-5]
 
 [^653b-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^653b-2]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^653b-3]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^653b-4]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^653b-5]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 4. Schutz der Aktionäre
 
@@ -9380,13 +9450,20 @@ Werden die Anleihens- oder ähnlichen Obligationen, mit denen Wandel- oder Optio
 
 [^653c-1]
 
-<sup>1</sup> Sollen bei einer bedingten Kapitalerhöhung Anleihens- oder ähnliche Obligationen, mit denen Wandel- oder Optionsrechte verbunden sind, ausgegeben werden, so sind diese Obligationen vorweg den Aktionären entsprechend ihrer bisherigen Beteiligung zur Zeichnung anzubieten.
+<sup>1</sup> Werden den Aktionären im Rahmen des bedingten Kapitals Optionsrechte eingeräumt, so sind die Vorschriften über das Bezugsrecht bei der ordentlichen Kapitalerhöhung sinngemäss anwendbar.
 
-<sup>2</sup> Dieses Vorwegzeichnungsrecht kann beschränkt oder aufgehoben werden, wenn ein wichtiger Grund vorliegt.
+<sup>2</sup> Werden im Rahmen des bedingten Kapitals Anleihensobligationen oder ähnliche Obligationen ausgegeben, mit denen Wandel- oder Optionsrechte verbunden sind, so sind diese Obligationen vorweg den Aktionären entsprechend ihrer bisherigen Beteiligung zur Zeichnung anzubieten.
 
-<sup>3</sup> Durch die für eine bedingte Kapitalerhöhung notwendige Aufhebung des Bezugsrechtes sowie durch eine Beschränkung oder Aufhebung des Vorwegzeichnungsrechtes darf niemand in unsachlicher Weise begünstigt oder benachteiligt werden.
+<sup>3</sup>
 
-[^653c-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+Dieses Vorwegzeichnungsrecht kann beschränkt oder aufgehoben werden, wenn:
+
+- 1\. ein wichtiger Grund vorliegt; oder
+- 2\. die Aktien an einer Börse kotiert sind und die Anleihensobligationen oder ähnlichen Obligationen zu angemessenen Bedingungen ausgegeben werden.
+
+<sup>4</sup> Die Einschränkung oder Aufhebung des Bezugsrechts oder des Vorwegzeichnungsrechts darf niemanden in unsachlicher Weise begünstigen oder benachteiligen.
+
+[^653c-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1991 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 5. Schutz der Wandel- oder Optionsberechtigten
 
@@ -9394,11 +9471,12 @@ Werden die Anleihens- oder ähnlichen Obligationen, mit denen Wandel- oder Optio
 
 [^653d-1]
 
-<sup>1</sup> Dem Gläubiger oder dem Arbeitnehmer, dem ein Wandel- oder ein Optionsrecht zum Erwerb von Namenaktien zusteht, kann die Ausübung dieses Rechtes nicht wegen einer Beschränkung der Übertragbarkeit von Namenaktien verwehrt werden, es sei denn, dass dies in den Statuten und im Emissionsprospekt vorbehalten wird.
+<sup>1</sup> Den Personen, die ein Wandel- oder Optionsrecht haben, kann die Ausübung dieses Rechts nicht wegen einer Beschränkung der Übertragbarkeit der Namenaktien verwehrt werden, es sei denn, dies wird in den Statuten und im Prospekt vorbehalten.[^653d-2]
 
 <sup>2</sup> Wandel- oder Optionsrechte dürfen durch die Erhöhung des Aktienkapitals, durch die Ausgabe neuer Wandel- oder Optionsrechte oder auf andere Weise nur beeinträchtigt werden, wenn der Konversionspreis gesenkt oder den Berechtigten auf andere Weise ein angemessener Ausgleich gewährt wird, oder wenn die gleiche Beeinträchtigung auch die Aktionäre trifft.
 
 [^653d-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^653d-2]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 6. Durchführung der Kapitalerhöhung
 
@@ -9408,14 +9486,16 @@ Werden die Anleihens- oder ähnlichen Obligationen, mit denen Wandel- oder Optio
 
 [^653e-1]
 
-<sup>1</sup> Wandel- oder Optionsrechte werden durch eine schriftliche Erklärung ausgeübt, die auf die Statutenbestimmung über die bedingte Kapitalerhöhung hinweist; verlangt das Gesetz einen Emissionsprospekt, so nimmt die Erklärung auch auf diesen Bezug.
+<sup>1</sup> Die Erklärung zur Ausübung der Wandel- oder Optionsrechte weist auf die Statutenbestimmung über das bedingte Kapital hin; verlangt das Gesetz einen Prospekt, so weist die Erklärung auch darauf hin.[^653e-2]
 
-<sup>2</sup> Die Leistung der Einlage durch Geld oder Verrechnung muss bei einem Bankinstitut erfolgen, das dem Bankengesetz vom 8. November 1934 [^653e-2] unterstellt ist.
+<sup>2</sup> Einlagen in Geld müssen bei einer Bank nach Artikel 1 Absatz 1 des Bankengesetzes vom 8. November 1934[^653e-3] zur ausschliesslichen Verfügung der Gesellschaft hinterlegt werden.[^653e-4]
 
 <sup>3</sup> Die Aktionärsrechte entstehen mit der Erfüllung der Einlagepflicht.
 
 [^653e-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-[^653e-2]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^653e-2]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^653e-3]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^653e-4]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### b. Prüfungsbestätigung
 
@@ -9423,34 +9503,38 @@ Werden die Anleihens- oder ähnlichen Obligationen, mit denen Wandel- oder Optio
 
 [^653f-1]
 
-<sup>1</sup> Ein zugelassener Revisionsexperte prüft nach Abschluss jedes Geschäftsjahres, auf Verlangen des Verwaltungsrats schon vorher, ob die Ausgabe der neuen Aktien dem Gesetz, den Statuten und, wenn ein solcher erforderlich ist, dem Emissionsprospekt entsprochen hat.[^653f-2]
+<sup>1</sup> Nach Ablauf jedes Geschäftsjahres prüft ein zugelassener Revisionsexperte, ob die Ausgabe der neuen Aktien dem Gesetz, den Statuten und gegebenenfalls dem Prospekt entsprochen hat. Er bestätigt das Ergebnis schriftlich.
 
-<sup>2</sup> Er bestätigt dies schriftlich.
+<sup>2</sup> Der Verwaltungsrat kann eine frühere Prüfung anordnen.
 
-[^653f-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-[^653f-2]: Fassung gemäss Ziff. I 3 des BG vom 16. Dez. 2005 (GmbH-Recht sowie Anpassungen im Aktien-, Genossenschafts-, Handelsregister- und Firmenrecht), in Kraft seit 1. Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^653f-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1991 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-### c. Anpassung der Statuten
+### c. Statutenänderung und Feststellungen des Verwaltungsrats
 
 #### Art. 653g
 
 [^653g-1]
 
-<sup>1</sup> Nach Eingang der Prüfungsbestätigung stellt der Verwaltungsrat in öffentlicher Urkunde Anzahl, Nennwert und Art der neu ausgegebenen Aktien sowie die Vorrechte einzelner Kategorien und den Stand des Aktienkapitals am Schluss des Geschäftsjahres oder im Zeitpunkt der Prüfung fest. Er nimmt die nötigen Statutenanpassungen vor.
+<sup>1</sup>
 
-<sup>2</sup> In der öffentlichen Urkunde stellt die Urkundsperson fest, dass die Prüfungsbestätigung die verlangten Angaben enthält.
+Nach Eingang der Prüfungsbestätigung ändert der Verwaltungsrat die Statuten und stellt dabei fest:
 
-[^653g-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+- 1\. Anzahl, Nennwert und Art der neu ausgegebenen Aktien;
+- 2\. gegebenenfalls die Vorrechte, die mit einzelnen Aktienkategorien verbunden sind;
+- 3\. den Stand des Aktienkapitals und des bedingten Kapitals nach Ablauf des Geschäftsjahres oder im Zeitpunkt der Prüfung;
+- 4\. dass ihm die Belege, die der Kapitalerhöhung zugrunde liegen, vorgelegen haben.
 
-### d. Eintragung in das Handelsregister
+<sup>2</sup> Enthalten die Statuten ein Kapitalband, so passt der Verwaltungsrat im Rahmen der Statutenänderung die obere und die untere Grenze des Kapitalbands entsprechend dem Umfang der Kapitalerhöhung an, es sei denn, die Kapitalerhöhung erfolgt gestützt auf eine Ermächtigung des Verwaltungsrats, das Kapital mit bedingtem Kapital zu erhöhen.
+
+<sup>3</sup> Der Beschluss über die Änderung der Statuten und die Feststellungen sind öffentlich zu beurkunden. Die Urkundsperson hat die Belege, die der Kapitalerhöhung zugrunde liegen, einzeln zu nennen und zu bestätigen, dass sie ihr vorgelegen haben. Die Belege sind der öffentlichen Urkunde beizulegen.
+
+[^653g-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1991 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 653h
 
 [^653h-1]
 
-Der Verwaltungsrat meldet dem Handelsregister spätestens drei Monate nach Abschluss des Geschäftsjahres die Statutenänderung an und reicht die öffentliche Urkunde und die Prüfungsbestätigung ein.
-
-[^653h-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^653h-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1991 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Aufgehoben durch Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), mit Wirkung seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 7. Streichung
 
@@ -9458,19 +9542,222 @@ Der Verwaltungsrat meldet dem Handelsregister spätestens drei Monate nach Absch
 
 [^653i-1]
 
-<sup>1</sup> Sind die Wandel- oder die Optionsrechte erloschen und wird dies von einem zugelassenen Revisionsexperten in einem schriftlichen Prüfungsbericht bestätigt, so hebt der Verwaltungsrat die Statutenbestimmungen über die bedingte Kapitalerhöhung auf.
+<sup>1</sup>
 
-<sup>2</sup> In der öffentlichen Urkunde stellt die Urkundsperson fest, dass der Prüfungsbericht die verlangten Angaben enthält.
+Der Verwaltungsrat kann die Statutenbestimmung über das bedingte Kapital aufheben oder sie anpassen, wenn:
 
-[^653i-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1991 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Fassung gemäss Ziff. I 3 des BG vom 16. Dez. 2005 (GmbH-Recht sowie Anpassungen im Aktien-, Genossenschafts-, Handelsregister- und Firmenrecht), in Kraft seit 1. Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+- 1\. die Wandel- oder Optionsrechte erloschen sind;
+- 2\. keine Wandel- oder Optionsrechte eingeräumt worden sind; oder
+- 3\. alle oder ein Teil der Berechtigten auf die Ausübung der ihnen eingeräumten Wandel- oder Optionsrechte verzichtet haben.
 
-### III. Vorzugsaktien
+<sup>2</sup> Die Statuten dürfen nur geändert werden, wenn ein zugelassener Revisionsexperte den Sachverhalt schriftlich bestätigt hat.
+
+[^653i-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1991 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### III. Herabsetzung des Aktienkapitals
+
+### 1. Ordentliche Kapitalherabsetzung
+
+### a. Grundsätze
+
+#### Art. 653j
+
+[^653j-1]
+
+<sup>1</sup> Die Generalversammlung beschliesst die Herabsetzung des Aktienkapitals. Der Verwaltungsrat bereitet die Herabsetzung vor und führt sie durch.
+
+<sup>2</sup> Die Kapitalherabsetzung kann durch eine Herabsetzung des Nennwerts oder durch die Vernichtung von Aktien erfolgen.
+
+<sup>3</sup> Das Aktienkapital darf nur unter 100 000 Franken herabgesetzt werden, sofern es gleichzeitig mindestens bis zu diesem Betrag wieder erhöht wird. Lautet das Aktienkapital auf eine ausländische Währung, so muss es durch ein Kapital mit einem Gegenwert von mindestens 100 000 Franken ersetzt werden.
+
+<sup>4</sup> Die Herabsetzung des Aktienkapitals muss innerhalb von sechs Monaten nach dem Beschluss der Generalversammlung beim Handelsregisteramt zur Eintragung angemeldet werden; sonst fällt der Beschluss dahin.
+
+[^653j-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### b. Sicherstellung von Forderungen
+
+#### Art. 653k
+
+[^653k-1]
+
+<sup>1</sup> Soll das Aktienkapital herabgesetzt werden, so weist der Verwaltungsrat die Gläubiger darauf hin, dass sie unter Anmeldung ihrer Forderungen Sicherstellung verlangen können. Der Hinweis muss im Schweizerischen Handelsamtsblatt veröffentlicht werden. Die Anmeldung hat schriftlich zu erfolgen, unter Angabe von Betrag und Rechtsgrund der Forderung.
+
+<sup>2</sup> Die Gesellschaft muss die Forderungen der Gläubiger in dem Umfang, in dem die bisherige Deckung durch die Kapitalherabsetzung vermindert wird, sicherstellen, wenn die Gläubiger es innerhalb von 30 Tagen nach der Veröffentlichung im Schweizerischen Handelsamtsblatt verlangen.
+
+<sup>3</sup> Die Pflicht zur Sicherstellung entfällt, wenn die Gesellschaft die Forderung erfüllt oder nachweist, dass die Erfüllung der Forderung durch die Herabsetzung des Aktienkapitals nicht gefährdet wird. Liegt die Prüfungsbestätigung vor, so wird vermutet, dass die Erfüllung der Forderung nicht gefährdet wird.
+
+[^653k-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### c. Zwischenabschluss
+
+#### Art. 653l
+
+[^653l-1]
+
+Liegt der Bilanzstichtag im Zeitpunkt, in dem die Generalversammlung die Herabsetzung des Aktienkapitals beschliesst, mehr als sechs Monate zurück, so muss die Gesellschaft einen Zwischenabschluss erstellen.
+
+[^653l-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### d. Prüfungsbestätigung
+
+#### Art. 653m
+
+[^653m-1]
+
+<sup>1</sup> Ein zugelassener Revisionsexperte muss gestützt auf den Abschluss und das Ergebnis des Schuldenrufs schriftlich bestätigen, dass die Forderungen der Gläubiger trotz der Herabsetzung des Aktienkapitals voll gedeckt sind.
+
+<sup>2</sup> Liegt die Prüfungsbestätigung im Zeitpunkt der Beschlussfassung durch die Generalversammlung bereits vor, so informiert der Verwaltungsrat über das Ergebnis. Der zugelassene Revisionsexperte muss an der Generalversammlung anwesend sein, wenn diese nicht durch einstimmigen Beschluss auf seine Anwesenheit verzichtet hat.
+
+[^653m-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### e. Beschluss der Generalversammlung
+
+#### Art. 653n
+
+[^653n-1]
+
+Der Beschluss der Generalversammlung über die Herabsetzung des Aktienkapitals muss öffentlich beurkundet werden und folgende Angaben enthalten:
+
+- 1\. den Nennbetrag oder gegebenenfalls den maximalen Nennbetrag, um den das Aktienkapital herabgesetzt wird;
+- 2\. die Art und Weise der Durchführung der Kapitalherabsetzung, namentlich die Angabe, ob die Herabsetzung durch Herabsetzung des Nennwerts oder durch Vernichtung von Aktien erfolgt;
+- 3\. die Verwendung des Herabsetzungsbetrags.
+
+[^653n-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### f. Änderung der Statuten und Feststellungen des Verwaltungsrats; Eintragung in das Handelsregister
+
+#### Art. 653o
+
+[^653o-1]
+
+<sup>1</sup> Sind alle Voraussetzungen der Herabsetzung des Aktienkapitals erfüllt, so ändert der Verwaltungsrat die Statuten und stellt dabei fest, dass die Anforderungen des Gesetzes, der Statuten und des Generalversammlungsbeschlusses im Zeitpunkt der Feststellungen erfüllt sind und dass ihm die Belege, die der Kapitalherabsetzung zugrunde liegen, vorgelegen haben.
+
+<sup>2</sup> Der Beschluss über die Statutenänderung und die Feststellungen des Verwaltungsrats sind öffentlich zu beurkunden. Die Urkundsperson hat die Belege, die der Kapitalherabsetzung zugrunde liegen, einzeln zu nennen und zu bestätigen, dass sie ihr vorgelegen haben. Die Belege sind der öffentlichen Urkunde beizulegen.
+
+<sup>3</sup> Durch Kapitalherabsetzung frei gewordene Mittel dürfen Aktionären erst nach der Eintragung der Kapitalherabsetzung ins Handelsregister ausgerichtet werden.
+
+[^653o-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### 2. Kapitalherabsetzung im Falle einer Unterbilanz
+
+#### Art. 653p
+
+[^653p-1]
+
+<sup>1</sup> Wird das Aktienkapital zur teilweisen oder vollständigen Beseitigung einer durch Verluste entstandenen Unterbilanz herabgesetzt und bestätigt ein zugelassener Revisionsexperte zuhanden der Generalversammlung, dass der Betrag der Kapitalherabsetzung den Betrag dieser Unterbilanz nicht übersteigt, so finden die Bestimmungen der ordentlichen Kapitalherabsetzung zur Sicherstellung von Forderungen, zum Zwischenabschluss, zur Prüfungsbestätigung und zu den Feststellungen des Verwaltungsrats keine Anwendung.
+
+<sup>2</sup> Der Beschluss der Generalversammlung enthält die Angaben gemäss Artikel 653*n*. Er nimmt Bezug auf das Ergebnis des Prüfungsberichts und ändert die Statuten.
+
+[^653p-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### 3. Gleichzeitige Herabsetzung und Erhöhung des Aktienkapitals
+
+### a. Grundsatz
+
+#### Art. 653q
+
+[^653q-1]
+
+<sup>1</sup> Wird das Aktienkapital herabgesetzt und gleichzeitig mindestens auf den bisherigen Betrag erhöht und wird der Betrag der geleisteten Einlage nicht herabgesetzt, so finden die Bestimmungen zur Kapitalherabsetzung, die die Sicherstellung von Forderungen, den Zwischenabschluss, die Prüfungsbestätigung und die Feststellungen des Verwaltungsrats betreffen, keine Anwendung.
+
+<sup>2</sup> Die Bestimmungen zur ordentlichen Kapitalerhöhung finden hingegen entsprechend Anwendung.
+
+<sup>3</sup> Der Verwaltungsrat muss die Statuten nicht anpassen, sofern die Anzahl und der Nennwert der Aktien sowie der Betrag der darauf geleisteten Einlagen unverändert bleiben.
+
+[^653q-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### b. Vernichtung von Aktien
+
+#### Art. 653r
+
+[^653r-1]
+
+<sup>1</sup> Wird das Aktienkapital zum Zweck der Sanierung auf null herabgesetzt und gleichzeitig wieder erhöht, so gehen die bisherigen Mitgliedschaftsrechte der Aktionäre mit der Herabsetzung unter. Ausgegebene Aktien müssen vernichtet werden.
+
+<sup>2</sup> Bei der Wiedererhöhung des Aktienkapitals steht den bisherigen Aktionären ein Bezugsrecht zu, das ihnen nicht entzogen werden kann.
+
+[^653r-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### IV. Kapitalband
+
+### 1. Ermächtigung
+
+#### Art. 653s
+
+[^653s-1]
+
+<sup>1</sup> Die Statuten können den Verwaltungsrat ermächtigen, während einer Dauer von längstens fünf Jahren das Aktienkapital innerhalb einer Bandbreite (Kapitalband) zu verändern. Sie legen fest, innerhalb welcher Grenzen der Verwaltungsrat das Aktienkapital erhöhen und herabsetzen darf.
+
+<sup>2</sup> Die obere Grenze des Kapitalbands darf das im Handelsregister eingetragene Aktienkapital höchstens um die Hälfte übersteigen. Die untere Grenze des Kapitalbands darf das im Handelsregister eingetragene Aktienkapital höchstens um die Hälfte unterschreiten.
+
+<sup>3</sup> Die Statuten können die Befugnisse des Verwaltungsrats beschränken. Sie können insbesondere vorsehen, dass der Verwaltungsrat das Aktienkapital nur erhöhen oder nur herabsetzen kann.
+
+<sup>4</sup> Die Statuten dürfen den Verwaltungsrat nur dann ermächtigen, das Aktienkapital herabzusetzen, wenn die Gesellschaft nicht auf die eingeschränkte Revision der Jahresrechnung verzichtet hat.
+
+[^653s-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### 2. Statutarische Grundlagen
+
+#### Art. 653t
+
+[^653t-1]
+
+<sup>1</sup>
+
+Wird ein Kapitalband eingeführt, so müssen die Statuten Folgendes angeben:
+
+- 1\. die untere und die obere Grenze des Kapitalbands;
+- 2\. das Datum, an dem die Ermächtigung des Verwaltungsrats zur Veränderung des Aktienkapitals endet;
+- 3\. Einschränkungen, Auflagen und Bedingungen der Ermächtigung;
+- 4\. Anzahl, Nennwert und Art der Aktien sowie die Vorrechte einzelner Kategorien von Aktien oder Partizipationsscheinen;
+- 5\. Inhalt und Wert von besonderen Vorteilen sowie die Namen der begünstigten Personen;
+- 6\. Beschränkungen der Übertragbarkeit neuer Namenaktien;
+- 7\. eine Einschränkung oder Aufhebung des Bezugsrechts beziehungsweise die wichtigen Gründe, aus denen der Verwaltungsrat das Bezugsrecht einschränken oder aufheben kann, sowie die Zuweisung nicht ausgeübter oder entzogener Bezugsrechte;
+- 8\. die Voraussetzungen für die Ausübung vertraglich erworbener Bezugsrechte;
+- 9\. die Ermächtigung des Verwaltungsrats zur Erhöhung des Kapitals mit bedingtem Kapital und die Angaben gemäss Artikel 653*b*;
+- 10\. die Ermächtigung des Verwaltungsrats zur Schaffung eines Partizipationskapitals.
+
+<sup>2</sup> Nach Ablauf der für die Ermächtigung festgelegten Dauer streicht der Verwaltungsrat die Bestimmungen über das Kapitalband aus den Statuten.
+
+[^653t-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### 3. Erhöhung und Herabsetzung des Aktienkapitals innerhalb des Kapitalbands
+
+#### Art. 653u
+
+[^653u-1]
+
+<sup>1</sup> Im Rahmen seiner Ermächtigung kann der Verwaltungsrat das Aktienkapital erhöhen und herabsetzen.
+
+<sup>2</sup> Beschliesst der Verwaltungsrat, das Aktienkapital zu erhöhen oder herabzusetzen, so erlässt er die notwendigen Bestimmungen, soweit sie nicht im Ermächtigungsbeschluss der Generalversammlung enthalten sind.
+
+<sup>3</sup> Bei einer Herabsetzung des Aktienkapitals innerhalb des Kapitalbands sind die Bestimmungen zur Sicherstellung von Forderungen, zum Zwischenabschluss und zur Prüfungsbestätigung bei der ordentlichen Kapitalherabsetzung sinngemäss anwendbar.
+
+<sup>4</sup> Nach jeder Erhöhung oder Herabsetzung des Aktienkapitals macht der Verwaltungsrat die erforderlichen Feststellungen und ändert die Statuten entsprechend. Der Beschluss über die Statutenänderung und die Feststellungen des Verwaltungsrats sind öffentlich zu beurkunden.
+
+<sup>5</sup> Im Übrigen gelten die Vorschriften über die ordentliche beziehungsweise die Kapitalerhöhung aus bedingtem Kapital und über die Kapitalherabsetzung sinngemäss.
+
+[^653u-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### 4. Erhöhung oder Herabsetzung des Aktienkapitals durch die Generalversammlung
+
+#### Art. 653v
+
+[^653v-1]
+
+<sup>1</sup> Beschliesst die Generalversammlung während der Dauer der Ermächtigung des Verwaltungsrats, das Aktienkapital herauf- oder herabzusetzen oder die Währung des Aktienkapitals zu ändern, so fällt der Beschluss über das Kapitalband dahin. Die Statuten sind entsprechend anzupassen.
+
+<sup>2</sup> Beschliesst die Generalversammlung ein bedingtes Kapital, so erhöhen sich die obere und die untere Grenze des Kapitalbands entsprechend dem Umfang der Erhöhung des Aktienkapitals. Die Generalversammlung kann stattdessen im Rahmen des bestehenden Kapitalbands nachträglich eine Ermächtigung des Verwaltungsrats zur Erhöhung des Kapitals mit bedingtem Kapital beschliessen.
+
+[^653v-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### V. Vorzugsaktien
 
 ### 1. Voraussetzungen
 
-[^part3-tit26-chap1-lvlK-lvlIII-lvl1-1]
+[^part3-tit26-chap1-lvlI-lvlV-lvl1-1]
 
-[^part3-tit26-chap1-lvlK-lvlIII-lvl1-1]: Fassung gemäss Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^part3-tit26-chap1-lvlI-lvlV-lvl1-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 654
 
@@ -9488,9 +9775,9 @@ Der Verwaltungsrat meldet dem Handelsregister spätestens drei Monate nach Absch
 
 ### 2. Stellung der Vorzugsaktien
 
-[^part3-tit26-chap1-lvlK-lvlIII-lvl2-1]
+[^part3-tit26-chap1-lvlI-lvlV-lvl2-1]
 
-[^part3-tit26-chap1-lvlK-lvlIII-lvl2-1]: Fassung gemäss Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^part3-tit26-chap1-lvlI-lvlV-lvl2-1]: Fassung gemäss Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 
 #### Art. 656
 
@@ -9498,21 +9785,39 @@ Der Verwaltungsrat meldet dem Handelsregister spätestens drei Monate nach Absch
 
 <sup>2</sup> Die Vorrechte können sich namentlich auf die Dividende mit oder ohne Nachbezugsrecht, auf den Liquidationsanteil und auf die Bezugsrechte für den Fall der Ausgabe neuer Aktien erstrecken.
 
-### L. Partizipationsscheine
+### J. Partizipationsscheine
 
 ### I. Begriff; anwendbare Vorschriften
+
+[^part3-tit26-chap1-lvlJ-lvlI-1]
+
+[^part3-tit26-chap1-lvlJ-lvlI-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 656a
 
 [^656a-1]
 
-<sup>1</sup> Die Statuten können ein Partizipationskapital vorsehen, das in Teilsummen (Partizipationsscheine) zerlegt ist. Diese Partizipationsscheine werden gegen Einlage ausgegeben, haben einen Nennwert und gewähren kein Stimmrecht.
+<sup>1</sup> Die Statuten können ein Partizipationskapital vorsehen, das in Teilsummen (Partizipationsscheine) zerlegt ist. Diese Partizipationsscheine müssen auf dieselbe Währung wie das Aktienkapital lauten. Sie werden gegen Einlage ausgegeben, haben einen Nennwert und gewähren kein Stimmrecht.[^656a-2]
 
 <sup>2</sup> Die Bestimmungen über das Aktienkapital, die Aktie und den Aktionär gelten, soweit das Gesetz nichts anderes vorsieht, auch für das Partizipationskapital, den Partizipationsschein und den Partizipanten.
 
 <sup>3</sup> Die Partizipationsscheine sind als solche zu bezeichnen.
 
+<sup>4</sup>
+
+Partizipationskapital kann geschaffen werden:
+
+- 1\. bei der Gründung;
+- 2\. durch ordentliche Kapitalerhöhung;
+- 3\. durch Kapitalerhöhung aus bedingtem Kapital;
+- 4\. innerhalb eines Kapitalbands.[^656a-3]
+
+<sup>5</sup> Die Umwandlung von Aktien in Partizipationsscheine bedarf der Zustimmung sämtlicher betroffener Aktionäre.[^656a-4]
+
 [^656a-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^656a-2]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^656a-3]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^656a-4]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### II. Partizipations- und Aktienkapital
 
@@ -9520,17 +9825,43 @@ Der Verwaltungsrat meldet dem Handelsregister spätestens drei Monate nach Absch
 
 [^656b-1]
 
-<sup>1</sup> Das Partizipationskapital darf das Doppelte des Aktienkapitals nicht übersteigen.
+<sup>1</sup> Der Anteil des Partizipationskapitals, der sich aus Partizipationsscheinen zusammensetzt, die an einer Börse kotiert sind, darf das Zehnfache des im Handelsregister eingetragenen Aktienkapitals nicht übersteigen. Der übrige Teil des Partizipationskapitals darf das Doppelte des im Handelsregister eingetragenen Aktienkapitals nicht übersteigen.
 
-<sup>2</sup> Die Bestimmungen über das Mindestkapital und über die Mindestgesamteinlage finden keine Anwendung.
+<sup>2</sup> Die Bestimmungen über das Mindestkapital finden keine Anwendung.
 
-<sup>3</sup> In den Bestimmungen über die Einschränkungen des Erwerbs eigener Aktien, die allgemeine Reserve, die Einleitung einer Sonderprüfung gegen den Willen der Generalversammlung und über die Meldepflicht bei Kapitalverlust ist das Partizipationskapital dem Aktienkapital zuzuzählen.
+<sup>3</sup>
 
-<sup>4</sup> Eine genehmigte oder eine bedingte Erhöhung des Aktien- und des Partizipationskapitals darf insgesamt die Hälfte der Summe des bisherigen Aktien- und Partizipationskapitals nicht übersteigen.
+Das Partizipationskapital ist dem Aktienkapital zuzurechnen bei:
 
-<sup>5</sup> Partizipationskapital kann im Verfahren der genehmigten oder bedingten Kapitalerhöhung geschaffen werden.
+- 1\. der Bildung der gesetzlichen Gewinnreserve;
+- 2\. der Verwendung der gesetzlichen Kapital- und Gewinnreserven;
+- 3\. der Beurteilung, ob eine Unterbilanz oder ein Kapitalverlust vorliegt;
+- 4\. der Beschränkung des Umfangs einer Erhöhung des Kapitals aus bedingtem Kapital;
+- 5\. der Festlegung der unteren und der oberen Grenze eines Kapitalbands.
 
-[^656b-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+<sup>4</sup>
+
+Die Schwellenwerte sind für Aktionäre und Partizipanten gesondert zu berechnen bei:
+
+- 1\. der Einleitung einer Sonderuntersuchung im Fall der Ablehnung eines entsprechenden Antrags durch die Generalversammlung;
+- 2\. der Auflösung der Gesellschaft durch Urteil des Gerichts;
+- 3\. der Meldung der wirtschaftlich berechtigten Person gemäss Artikel 697*j*.
+
+<sup>5</sup>
+
+Sie werden berechnet:
+
+- 1\. für den Erwerb eigener Aktien auf der Grundlage der ausgegebenen Aktien;
+- 2\. für den Erwerb eigener Partizipationsscheine auf der Grundlage der ausgegebenen Partizipationsscheine.
+
+<sup>6</sup>
+
+Sie sind ausschliesslich auf der Grundlage des Aktienkapitals zu berechnen:
+
+- 1\. für das Recht auf Einberufung der Generalversammlung;
+- 2\. für das Traktandierungs- und Antragsrecht.
+
+[^656b-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1991 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### III. Rechtsstellung des Partizipanten
 
@@ -9542,13 +9873,19 @@ Der Verwaltungsrat meldet dem Handelsregister spätestens drei Monate nach Absch
 
 <sup>1</sup> Der Partizipant hat kein Stimmrecht und, sofern die Statuten nichts anderes bestimmen, keines der damit zusammenhängenden Rechte.
 
-<sup>2</sup> Als mit dem Stimmrecht zusammenhängende Rechte gelten das Recht auf Einberufung einer Generalversammlung, das Teilnahmerecht, das Recht auf Auskunft, das Recht auf Einsicht und das Antragsrecht.
+<sup>2</sup> Als mit dem Stimmrecht zusammenhängende Rechte gelten das Recht auf Einberufung einer Generalversammlung, das Teilnahmerecht, das Recht auf Auskunft, das Recht auf Einsicht und das Traktandierungs- und Antragsrecht.[^656c-2]
 
-<sup>3</sup> Gewähren ihm die Statuten kein Recht auf Auskunft oder Einsicht oder kein Antragsrecht auf Einleitung einer Sonderprüfung (Art. 697*a* ff.), so kann der Partizipant Begehren um Auskunft oder Einsicht oder um Einleitung einer Sonderprüfung schriftlich zuhanden der Generalversammlung stellen.
+<sup>3</sup> Unter den gleichen Voraussetzungen wie der Aktionär hat der Partizipant ein Recht auf Einleitung einer Sonderuntersuchung. Sehen die Statuten keine weitergehenden Rechte vor, so kann der Partizipant Begehren um Auskunft, Einsicht und Einleitung einer Sonderuntersuchung schriftlich zuhanden der Generalversammlung stellen.[^656c-3]
 
 [^656c-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^656c-2]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^656c-3]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-### 2. Bekanntgabe von Einberufung und Beschlüssen der Generalversammlung
+### 2. Bekanntgabe der Einberufung und Information über Generalversammlungsbeschlüsse
+
+[^part3-tit26-chap1-lvlJ-lvlIII-lvl2-1]
+
+[^part3-tit26-chap1-lvlJ-lvlIII-lvl2-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 656d
 
@@ -9556,9 +9893,10 @@ Der Verwaltungsrat meldet dem Handelsregister spätestens drei Monate nach Absch
 
 <sup>1</sup> Den Partizipanten muss die Einberufung der Generalversammlung zusammen mit den Verhandlungsgegenständen und den Anträgen bekannt gegeben werden.
 
-<sup>2</sup> Jeder Beschluss der Generalversammlung ist unverzüglich am Gesellschaftssitz und bei den eingetragenen Zweigniederlassungen zur Einsicht der Partizipanten aufzulegen. Die Partizipanten sind in der Bekanntgabe darauf hinzuweisen.
+<sup>2</sup> Jeder Partizipant kann verlangen, dass ihm das Protokoll innerhalb von 30 Tagen nach der Generalversammlung zugänglich gemacht wird.[^656d-2]
 
 [^656d-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^656d-2]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 3. Vertretung im Verwaltungsrat
 
@@ -9602,7 +9940,11 @@ Die Statuten können den Partizipanten einen Anspruch auf einen Vertreter im Ver
 
 [^656g-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 
-### M. Genussscheine
+### K. Genussscheine
+
+[^part3-tit26-chap1-lvlK-1]
+
+[^part3-tit26-chap1-lvlK-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 657
 
@@ -9626,19 +9968,21 @@ Die Statuten können den Partizipanten einen Anspruch auf einen Vertreter im Ver
 
 [^658-1]: Aufgehoben durch Ziff. I des BG vom 4. Okt. 1991, mit Wirkung seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 
-### N. Eigene Aktien
+### L. Eigene Aktien
 
-### I. Einschränkung des Erwerbs
+### I. Voraussetzungen und Einschränkungen des Erwerbs
 
 #### Art. 659
 
 [^659-1]
 
-<sup>1</sup> Die Gesellschaft darf eigene Aktien nur dann erwerben, wenn frei verwendbares Eigenkapital in der Höhe der dafür nötigen Mittel vorhanden ist und der gesamte Nennwert dieser Aktien 10 Prozent des Aktienkapitals nicht übersteigt.
+<sup>1</sup> Die Gesellschaft darf eigene Aktien nur dann erwerben, wenn frei verwendbares Eigenkapital in der Höhe des Anschaffungswerts vorhanden ist.
 
-<sup>2</sup> Werden im Zusammenhang mit einer Übertragbarkeitsbeschränkung Namenaktien erworben, so beträgt die Höchstgrenze 20 Prozent. Die über 10 Prozent des Aktienkapitals hinaus erworbenen eigenen Aktien sind innert zweier Jahre zu veräussern oder durch Kapitalherabsetzung zu vernichten.
+<sup>2</sup> Der Erwerb eigener Aktien ist auf 10 Prozent des im Handelsregister eingetragenen Aktienkapitals beschränkt.
 
-[^659-1]: Fassung gemäss Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+<sup>3</sup> Steht der Erwerb im Zusammenhang mit einer Übertragbarkeitsbeschränkung oder einer Auflösungsklage, so beträgt die Höchstgrenze 20 Prozent. Die über 10 Prozent hinaus erworbenen Aktien sind innert zweier Jahre zu veräussern oder durch Kapitalherabsetzung zu vernichten.
+
+[^659-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### II. Folgen des Erwerbs
 
@@ -9646,25 +9990,27 @@ Die Statuten können den Partizipanten einen Anspruch auf einen Vertreter im Ver
 
 [^659a-1]
 
-<sup>1</sup> Das Stimmrecht und die damit verbundenen Rechte eigener Aktien ruhen.
+<sup>1</sup> Erwirbt eine Gesellschaft eigene Aktien, so ruhen für diese Aktien das Stimmrecht und die damit verbundenen Rechte.
 
-<sup>2</sup> Die Gesellschaft hat für die eigenen Aktien einen dem Anschaffungswert entsprechenden Betrag gesondert als Reserve auszuweisen.
+<sup>2</sup> Das Stimmrecht und die damit verbundenen Rechte ruhen auch, wenn die Gesellschaft eigene Aktien überträgt und die Rücknahme oder die Rückgabe entsprechender Aktien vereinbart wird.
 
-[^659a-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+<sup>3</sup> Wird das Stimmrecht ausgeübt, obwohl es ruht, so kommen die Bestimmungen über die unbefugte Teilnahme an der Generalversammlung (Art. 691) zur Anwendung.
 
-### III. Erwerb durch Tochtergesellschaften
+<sup>4</sup> Die Gesellschaft hat in der Bilanz für die eigenen Aktien einen dem Anschaffungswert entsprechenden Betrag als Minusposten des Eigenkapitals darzustellen (Art. 959*a* Abs. 2 Ziff. 3 Bst. e).
+
+[^659a-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1991 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### III. Eigene Aktien im Konzern
 
 #### Art. 659b
 
 [^659b-1]
 
-<sup>1</sup> Ist eine Gesellschaft an Tochtergesellschaften mehrheitlich beteiligt, so gelten für den Erwerb ihrer Aktien durch diese Tochtergesellschaften die gleichen Einschränkungen und Folgen wie für den Erwerb eigener Aktien.
+<sup>1</sup> Kontrolliert eine Gesellschaft ein oder mehrere Unternehmen (Art. 963), so gelten für den Erwerb ihrer Aktien durch diese Unternehmen die Voraussetzungen, Einschränkungen und Folgen für den Erwerb eigener Aktien sinngemäss.
 
-<sup>2</sup> Erwirbt eine Gesellschaft die Mehrheitsbeteiligung an einer anderen Gesellschaft, die ihrerseits Aktien der Erwerberin hält, so gelten diese Aktien als eigene Aktien der Erwerberin.
+<sup>2</sup> Die kontrollierende Gesellschaft hat für die Aktien gemäss Absatz 1 einen dem Anschaffungswert dieser Aktien entsprechenden Betrag gesondert als gesetzliche Gewinnreserve auszuweisen.
 
-<sup>3</sup> Die Reservebildung obliegt der Gesellschaft, welche die Mehrheitsbeteiligung hält.
-
-[^659b-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^659b-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1991 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### Zweiter Abschnitt: Rechte und Pflichten der Aktionäre
 
@@ -9714,83 +10060,17 @@ Die Anteile am Gewinn und am Liquidationsergebnis sind, sofern die Statuten nich
 
 [^663a663b-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1991 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Aufgehoben durch Ziff. I 1 des BG vom 23. Dez. 2011 (Rechnungslegungsrecht), mit Wirkung seit 1. Jan. 2013 ([AS 2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810); [BBl 2008 1589](https://fedlex.data.admin.ch/eli/fga/2008/416)).
 
-### B. Geschäftsbericht
-
-[^part3-tit26-chap2-lvlB-1]
-
-[^part3-tit26-chap2-lvlB-1]: Fassung gemäss Ziff. I 1 des BG vom 23. Dez. 2011 (Rechnungslegungsrecht), in Kraft seit 1. Jan. 2013 ([AS 2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810); [BBl 2008 1589](https://fedlex.data.admin.ch/eli/fga/2008/416)).
-
-### I. Zusätzliche Angaben bei Gesellschaften mit kotierten Aktien
-
-### 1. Vergütungen
-
 #### Art. 663b<sup>bis</sup>
 
 [^663bbis-1]
 
-<sup>1</sup>
-
-Gesellschaften, deren Aktien an einer Börse kotiert sind, haben im Anhang zur Bilanz anzugeben:
-
-- 1\. alle Vergütungen, die sie direkt oder indirekt an gegenwärtige Mitglieder des Verwaltungsrates ausgerichtet haben;
-- 2\. alle Vergütungen, die sie direkt oder indirekt an Personen ausgerichtet haben, die vom Verwaltungsrat ganz oder zum Teil mit der Geschäftsführung betraut sind (Geschäftsleitung);
-- 3\. alle Vergütungen, die sie direkt oder indirekt an gegenwärtige Mitglieder des Beirates ausgerichtet haben;
-- 4\. Vergütungen, die sie direkt oder indirekt an frühere Mitglieder des Verwaltungsrates, der Geschäftsleitung und des Beirates ausgerichtet haben, sofern sie in einem Zusammenhang mit der früheren Tätigkeit als Organ der Gesellschaft stehen oder nicht marktüblich sind;
-- 5\. nicht marktübliche Vergütungen, die sie direkt oder indirekt an Personen ausgerichtet haben, die den in den Ziffern 1–4 genannten Personen nahe stehen.
-
-<sup>2</sup>
-
-Als Vergütungen gelten insbesondere:
-
-- 1\. Honorare, Löhne, Bonifikationen und Gutschriften;
-- 2\. Tantiemen, Beteiligungen am Umsatz und andere Beteiligungen am Geschäftsergebnis;
-- 3\. Sachleistungen;
-- 4\. die Zuteilung von Beteiligungen, Wandel- und Optionsrechten;
-- 5\. Abgangsentschädigungen;
-- 6\. Bürgschaften, Garantieverpflichtungen, Pfandbestellungen zugunsten Dritter und andere Sicherheiten;
-- 7\. der Verzicht auf Forderungen;
-- 8\. Aufwendungen, die Ansprüche auf Vorsorgeleistungen begründen oder erhöhen;
-- 9\. sämtliche Leistungen für zusätzliche Arbeiten.
-
-<sup>3</sup>
-
-Im Anhang zur Bilanz sind zudem anzugeben:
-
-- 1\. alle Darlehen und Kredite, die den gegenwärtigen Mitgliedern des Verwaltungsrates, der Geschäftsleitung und des Beirates gewährt wurden und noch ausstehen;
-- 2\. Darlehen und Kredite, die zu nicht marktüblichen Bedingungen an frühere Mitglieder des Verwaltungsrates, der Geschäftsleitung und des Beirates gewährt wurden und noch ausstehen;
-- 3\. Darlehen und Kredite, die zu nicht marktüblichen Bedingungen an Personen, die den in den Ziffern 1 und 2 genannten Personen nahe stehen, gewährt wurden und noch ausstehen.
-
-<sup>4</sup>
-
-Die Angaben zu Vergütungen und Krediten müssen umfassen:
-
-- 1\. den Gesamtbetrag für den Verwaltungsrat und den auf jedes Mitglied entfallenden Betrag unter Nennung des Namens und der Funktion des betreffenden Mitglieds;
-- 2\. den Gesamtbetrag für die Geschäftsleitung und den höchsten auf ein Mitglied entfallenden Betrag unter Nennung des Namens und der Funktion des betreffenden Mitglieds;
-- 3\. den Gesamtbetrag für den Beirat und den auf jedes Mitglied entfallenden Betrag unter Nennung des Namens und der Funktion des betreffenden Mitglieds.
-
-<sup>5</sup> Vergütungen und Kredite an nahe stehende Personen sind gesondert auszuweisen. Die Namen der nahe stehenden Personen müssen nicht angegeben werden. Im Übrigen finden die Vorschriften über die Angaben zu Vergütungen und Krediten an Mitglieder des Verwaltungsrates, der Geschäftsleitung und des Beirates entsprechende Anwendung.
-
-[^663bbis-1]: Eingefügt durch Ziff. I des BG vom 7. Okt. 2005 (Transparenz betreffend Vergütungen an Mitglieder des Verwaltungsrates und der Geschäftsleitung), in Kraft seit 1. Jan. 2007 ([AS 2006 2629](https://fedlex.data.admin.ch/eli/oc/2006/401); [BBl 2004 4471](https://fedlex.data.admin.ch/eli/fga/2004/731)).
-
-### 2. Beteiligungen
-
-[^part3-tit26-chap2-lvlB-lvlI-lvl2-1]
-
-[^part3-tit26-chap2-lvlB-lvlI-lvl2-1]: Fassung gemäss Ziff. I 1 des BG vom 23. Dez. 2011 (Rechnungslegungsrecht), in Kraft seit 1. Jan. 2013 ([AS 2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810); [BBl 2008 1589](https://fedlex.data.admin.ch/eli/fga/2008/416)).
+[^663bbis-1]: Eingefügt durch Ziff. I des BG vom 7. Okt. 2005 (Transparenz betreffend Vergütungen an Mitglieder des Verwaltungsrates und der Geschäftsleitung) ([AS 2006 2629](https://fedlex.data.admin.ch/eli/oc/2006/401); [BBl 2004 4471](https://fedlex.data.admin.ch/eli/fga/2004/731)). Aufgehoben durch Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), mit Wirkung seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 663c
 
 [^663c-1]
 
-<sup>1</sup> Gesellschaften, deren Aktien[^663c-2] an einer Börse kotiert sind, haben im Anhang zur Bilanz bedeutende Aktionäre und deren Beteiligungen anzugeben, sofern diese ihnen bekannt sind oder bekannt sein müssten.
-
-<sup>2</sup> Als bedeutende Aktionäre gelten Aktionäre und stimmrechtsverbundene Aktionärsgruppen, deren Beteiligung 5 Prozent aller Stimmrechte übersteigt. Enthalten die Statuten eine tiefere prozentmässige Begrenzung der Namenaktien (Art. 685*d* Abs. 1), so gilt für die Bekanntgabepflicht diese Grenze.
-
-<sup>3</sup> Anzugeben sind weiter die Beteiligungen an der Gesellschaft sowie die Wandel- und Optionsrechte jedes gegenwärtigen Mitglieds des Verwaltungsrates, der Geschäftsleitung und des Beirates mit Einschluss der Beteiligungen der ihm nahe stehenden Personen unter Nennung des Namens und der Funktion des betreffenden Mitglieds.[^663c-3]
-
-[^663c-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-[^663c-2]: Berichtigt von der Redaktionskommission der BVers [Art. 33 GVG – [AS 1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)].
-[^663c-3]: Eingefügt durch Ziff. I des BG vom 7. Okt. 2005 (Transparenz betreffend Vergütungen an Mitglieder des Verwaltungsrates und der Geschäftsleitung), in Kraft seit 1. Jan. 2007 ([AS 2006 2629](https://fedlex.data.admin.ch/eli/oc/2006/401); [BBl 2004 4471](https://fedlex.data.admin.ch/eli/fga/2004/731)).
+[^663c-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1991 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Aufgehoben durch Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), mit Wirkung seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 663d–663h
 
@@ -9828,115 +10108,88 @@ Die Angaben zu Vergütungen und Krediten müssen umfassen:
 
 [^669-1]: Aufgehoben durch Ziff. I 1 des BG vom 23. Dez. 2011 (Rechnungslegungsrecht), mit Wirkung seit 1. Jan. 2013 ([AS 2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810); [BBl 2008 1589](https://fedlex.data.admin.ch/eli/fga/2008/416)).
 
-### II. Bewertung. Aufwertung
-
-[^part3-tit26-chap2-lvlB-lvlII-1]
-
-[^part3-tit26-chap2-lvlB-lvlII-1]: Fassung gemäss Ziff. I 1 des BG vom 23. Dez. 2011 (Rechnungslegungsrecht), in Kraft seit 1. Jan. 2013 ([AS 2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810); [BBl 2008 1589](https://fedlex.data.admin.ch/eli/fga/2008/416)).
-
 #### Art. 670
 
 [^670-1]
 
-<sup>1</sup> Ist die Hälfte des Aktienkapitals und der gesetzlichen Reserven infolge eines Bilanzverlustes nicht mehr gedeckt, so dürfen zur Beseitigung der Unterbilanz Grundstücke oder Beteiligungen, deren wirklicher Wert über die Anschaffungs- oder Herstellungskosten gestiegen ist, bis höchstens zu diesem Wert aufgewertet werden. Der Aufwertungsbetrag ist gesondert als Aufwertungsreserve auszuweisen.
-
-<sup>2</sup> Die Aufwertung ist nur zulässig, wenn ein zugelassener Revisor zuhanden der Generalversammlung schriftlich bestätigt, dass die gesetzlichen Bestimmungen eingehalten sind.[^670-2]
-
-[^670-1]: Fassung gemäss Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-[^670-2]: Fassung gemäss Ziff. I 3 des BG vom 16. Dez. 2005 (GmbH-Recht sowie Anpassungen im Aktien-, Genossenschafts-, Handelsregister- und Firmenrecht), in Kraft seit 1. Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), **2****004** 3969).
+[^670-1]: Aufgehoben durch Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), mit Wirkung seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### C. Reserven
 
-### I. Gesetzliche Reserven
-
-### 1. Allgemeine Reserve
+### I. Gesetzliche Kapitalreserve
 
 #### Art. 671
 
 [^671-1]
 
-<sup>1</sup> 5 Prozent des Jahresgewinnes sind der allgemeinen Reserve zuzuweisen, bis diese 20 Prozent des einbezahlten Aktienkapitals erreicht.
+<sup>1</sup>
 
-<sup>2</sup>
+Der gesetzlichen Kapitalreserve sind zuzuweisen:
 
-Dieser Reserve sind, auch nachdem sie die gesetzliche Höhe erreicht hat, zuzuweisen:
+- 1\. der Erlös, der bei der Ausgabe von Aktien über den Nennwert und die Ausgabekosten hinaus erzielt wird;
+- 2\. die zurückbehaltene Einzahlung auf ausgefallene Aktien (Art. 681 Abs. 2), soweit für die dafür neu ausgegebenen Aktien kein Mindererlös erzielt wird;
+- 3\. weitere durch Inhaber von Beteiligungspapieren geleistete Einlagen und Zuschüsse.
 
-- 1\. ein bei der Ausgabe von Aktien nach Deckung der Ausgabekosten über den Nennwert hinaus erzielter Mehrerlös, soweit er nicht zu Abschreibungen oder zu Wohlfahrtszwecken verwendet wird;
-- 2\. was von den geleisteten Einzahlungen auf ausgefallene Aktien übrig bleibt, nachdem ein allfälliger Mindererlös aus den dafür ausgegebenen Aktien gedeckt worden ist;
-- 3\. 10 Prozent der Beträge, die nach Bezahlung einer Dividende von 5 Prozent als Gewinnanteil ausgerichtet werden.
+<sup>2</sup> Die gesetzliche Kapitalreserve darf an die Aktionäre zurückbezahlt werden, wenn die gesetzlichen Kapital- und Gewinnreserven, abzüglich des Betrags allfälliger Verluste, die Hälfte des im Handelsregister eingetragenen Aktienkapitals übersteigen.
 
-<sup>3</sup> Die allgemeine Reserve darf, soweit sie die Hälfte des Aktienkapitals nicht übersteigt, nur zur Deckung von Verlusten oder für Massnahmen verwendet werden, die geeignet sind, in Zeiten schlechten Geschäftsganges das Unternehmen durchzuhalten, der Arbeitslosigkeit entgegenzuwirken oder ihre Folgen zu mildern.
+<sup>3</sup> Gesellschaften, deren Zweck hauptsächlich in der Beteiligung an anderen Unternehmen besteht (Holdinggesellschaften), dürfen die gesetzliche Kapitalreserve an die Aktionäre zurückbezahlen, wenn die gesetzlichen Kapital- und Gewinnreserven 20 Prozent des im Handelsregister eingetragenen Aktienkapitals überschreiten.
 
-<sup>4</sup> Die Bestimmungen in Absatz 2 Ziffer 3 und Absatz 3 gelten nicht für Gesellschaften, deren Zweck hauptsächlich in der Beteiligung an anderen Unternehmen besteht (Holdinggesellschaften).
+<sup>4</sup> Für die Berechnung der Grenzwerte nach den Absätzen 2 und 3 dürfen die gesetzliche Gewinnreserve für eigene Aktien im Konzern (Art. 659*b*) und die gesetzliche Gewinnreserve aus Aufwertungen (Art. 725*c*) nicht berücksichtigt werden.
 
-<sup>5</sup> …[^671-2]
+[^671-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-<sup>6</sup> …[^671-3]
+#### Art. 671a und 671b
 
-[^671-1]: Fassung gemäss Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-[^671-2]: Aufgehoben durch Ziff. II 2 des BG vom 20. März 2009 über die Bahnreform 2, mit Wirkung seit 1. Jan. 2010 ([AS 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [BBl 2005 2415](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2681](https://fedlex.data.admin.ch/eli/fga/2007/425)).
-[^671-3]: Aufgehoben durch Anhang Ziff. II 1 des Versicherungsaufsichtsgesetzes vom 17. Dez. 2004, mit Wirkung seit 1. Jan. 2006 ([AS 2005 5269](https://fedlex.data.admin.ch/eli/oc/2005/734); [BBl 2003 3789](https://fedlex.data.admin.ch/eli/fga/2003/577)).
+[^671a671b-1]
 
-### 2. Reserve für eigene Aktien
+[^671a671b-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1991 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Aufgehoben durch Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), mit Wirkung seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-#### Art. 671a
-
-[^671a-1]
-
-Die Reserve für eigene Aktien kann bei Veräusserung oder Vernichtung von Aktien im Umfang der Anschaffungswerte aufgehoben werden.
-
-[^671a-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-
-### 3. Aufwertungsreserve
-
-#### Art. 671b
-
-[^671b-1]
-
-Die Aufwertungsreserve kann nur durch Umwandlung in Aktienkapital sowie durch Wiederabschreibung oder Veräusserung der aufgewerteten Aktiven aufgelöst werden.
-
-[^671b-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-
-### II. Statutarische Reserven
-
-### 1. Im Allgemeinen
+### II. Gesetzliche Gewinnreserve
 
 #### Art. 672
 
 [^672-1]
 
-<sup>1</sup> Die Statuten können bestimmen, dass der Reserve höhere Beträge als 5 Prozent des Jahresgewinnes zuzuweisen sind und dass die Reserve mehr als die vom Gesetz vorgeschriebenen 20 Prozent des einbezahlten Aktienkapitals betragen muss.
+<sup>1</sup> Der gesetzlichen Gewinnreserve sind 5 Prozent des Jahresgewinns zuzuweisen. Liegt ein Verlustvortrag vor, so ist dieser vor der Zuweisung an die Reserve zu beseitigen.
 
-<sup>2</sup> Sie können die Anlage weiterer Reserven vorsehen und deren Zweckbestimmung und Verwendung festsetzen.
+<sup>2</sup> Die gesetzliche Gewinnreserve ist zu äufnen, bis sie zusammen mit der gesetzlichen Kapitalreserve die Hälfte des im Handelsregister eingetragenen Aktienkapitals erreicht. Holdinggesellschaften müssen die gesetzliche Gewinnreserve äufnen, bis diese zusammen mit der gesetzlichen Kapitalreserve 20 Prozent des im Handelsregister eingetragenen Aktienkapitals erreicht.
 
-[^672-1]: Fassung gemäss Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+<sup>3</sup> Für die Ermittlung und Verwendung der gesetzlichen Gewinnreserve gilt Artikel 671 Absätze 2, 3 und 4 entsprechend.
 
-### 2. Zu Wohlfahrtszwecken für Arbeitnehmer
+[^672-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### III. Freiwillige Gewinnreserven
 
 #### Art. 673
 
 [^673-1]
 
-Die Statuten können insbesondere auch Reserven zur Gründung und Unterstützung von Wohlfahrtseinrichtungen für Arbeitnehmer des Unternehmens vorsehen.
+<sup>1</sup> Die Generalversammlung kann in den Statuten oder durch Beschluss die Bildung freiwilliger Gewinnreserven vorsehen.
 
-[^673-1]: Fassung gemäss Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+<sup>2</sup> Freiwillige Gewinnreserven dürfen nur gebildet werden, wenn das dauernde Gedeihen des Unternehmens unter Berücksichtigung der Interessen aller Aktionäre dies rechtfertigt.
 
-### III. Verhältnis des Gewinnanteils zu den Reserven
+<sup>3</sup> Die Generalversammlung beschliesst über die Verwendung freiwilliger Gewinnreserven; vorbehalten bleiben die Vorschriften über die Verrechnung mit Verlusten.
+
+[^673-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### IV. Verrechnung mit Verlusten
 
 #### Art. 674
 
 [^674-1]
 
-<sup>1</sup> Die Dividende darf erst festgesetzt werden, nachdem die dem Gesetz und den Statuten entsprechenden Zuweisungen an die gesetzlichen und statutarischen Reserven abgezogen worden sind.
+<sup>1</sup>
 
-<sup>2</sup> Die Generalversammlung kann die Bildung von Reserven beschliessen, die im Gesetz und in den Statuten nicht vorgesehen sind oder über deren Anforderungen hinausgehen, soweit
+Verluste müssen in folgender Reihenfolge verrechnet werden mit:
 
-- 1\. dies zu Wiederbeschaffungszwecken notwendig ist;
-- 2\. die Rücksicht auf das dauernde Gedeihen des Unternehmens oder auf die Ausrichtung einer möglichst gleichmässigen Dividende es unter Berücksichtigung der Interessen aller Aktionäre rechtfertigt.
+- 1\. dem Gewinnvortrag;
+- 2\. den freiwilligen Gewinnreserven;
+- 3\. der gesetzlichen Gewinnreserve;
+- 4\. der gesetzlichen Kapitalreserve.
 
-<sup>3</sup> Ebenso kann die Generalversammlung zur Gründung und Unterstützung von Wohlfahrtseinrichtungen für Arbeitnehmer des Unternehmens und zu anderen Wohlfahrtszwecken aus dem Bilanzgewinn auch dann Reserven bilden, wenn sie in den Statuten nicht vorgesehen sind.
+<sup>2</sup> Anstelle der Verrechnung mit der gesetzlichen Gewinnreserve oder der gesetzlichen Kapitalreserve dürfen verbleibende Verluste auch teilweise oder ganz auf die neue Jahresrechnung vorgetragen werden.
 
-[^674-1]: Fassung gemäss Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^674-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### D. Dividenden, Bauzinse und Tantiemen
 
@@ -9948,9 +10201,30 @@ Die Statuten können insbesondere auch Reserven zur Gründung und Unterstützung
 
 <sup>2</sup> Dividenden dürfen nur aus dem Bilanzgewinn und aus hierfür gebildeten Reserven ausgerichtet werden.[^675-1]
 
-[^675-1]: Fassung gemäss Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+<sup>3</sup> Dividenden dürfen erst festgesetzt werden, nachdem die Zuweisungen an die gesetzliche Gewinnreserve und an die freiwilligen Gewinnreserven erfolgt sind.[^675-2]
 
-### II. Bauzinse
+[^675-1]: Fassung gemäss Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^675-2]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### II. Zwischendividenden
+
+#### Art. 675a
+
+[^675a-1]
+
+<sup>1</sup> Die Generalversammlung kann gestützt auf einen Zwischenabschluss die Ausrichtung einer Zwischendividende beschliessen.
+
+<sup>2</sup> Die Revisionsstelle muss den Zwischenabschluss vor dem Beschluss der Generalversammlung prüfen. Keine Prüfung ist erforderlich, wenn die Gesellschaft ihre Jahresrechnung nicht durch eine Revisionsstelle eingeschränkt prüfen lassen muss. Auf die Prüfung kann verzichtet werden, wenn sämtliche Aktionäre der Ausrichtung der Zwischendividende zustimmen und die Forderungen der Gläubiger dadurch nicht gefährdet werden.
+
+<sup>3</sup> Die Bestimmungen über die Dividenden finden Anwendung (Art. 660 Abs. 1 und 3, 661, 671–674, 675 Abs. 2, 677, 678, 731 sowie 958*e*).
+
+[^675a-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### III. Bauzinse
+
+[^part3-tit26-chap2-lvlD-lvlIII-1]
+
+[^part3-tit26-chap2-lvlD-lvlIII-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 676
 
@@ -9958,7 +10232,11 @@ Die Statuten können insbesondere auch Reserven zur Gründung und Unterstützung
 
 <sup>2</sup> Wird das Unternehmen durch die Ausgabe neuer Aktien erweitert, so kann im Beschlusse über die Kapitalerhöhung den neuen Aktien eine bestimmte Verzinsung zu Lasten des Anlagekontos bis zu einem genau anzugebenden Zeitpunkt, höchstens jedoch bis zur Aufnahme des Betriebes der neuen Anlage zugestanden werden.
 
-### III. Tantiemen
+### IV. Tantiemen
+
+[^part3-tit26-chap2-lvlD-lvlIV-1]
+
+[^part3-tit26-chap2-lvlD-lvlIV-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 677
 
@@ -9976,17 +10254,37 @@ Gewinnanteile an Mitglieder des Verwaltungsrates dürfen nur dem Bilanzgewinn en
 
 [^678-1]
 
-<sup>1</sup> Aktionäre und Mitglieder des Verwaltungsrates sowie diesen nahe stehende Personen, die ungerechtfertigt und in bösem Glauben Dividenden, Tantiemen, andere Gewinnanteile oder Bauzinse bezogen haben, sind zur Rückerstattung verpflichtet.
+<sup>1</sup> Aktionäre, Mitglieder des Verwaltungsrats, mit der Geschäftsführung befasste Personen und Mitglieder des Beirats sowie ihnen nahestehende Personen sind zur Rückerstattung von Dividenden, Tantiemen, anderen Gewinnanteilen, Vergütungen, Bauzinsen, gesetzlichen Kapital- und Gewinnreserven oder anderen Leistungen verpflichtet, wenn sie diese ungerechtfertigt bezogen haben.
 
-<sup>2</sup> Sie sind auch zur Rückerstattung anderer Leistungen der Gesellschaft verpflichtet, soweit diese in einem offensichtlichen Missverhältnis zur Gegenleistung und zur wirtschaftlichen Lage der Gesellschaft stehen.
+<sup>2</sup> Übernimmt die Gesellschaft von solchen Personen Vermögenswerte oder schliesst sie mit diesen sonstige Rechtsgeschäfte ab, so werden diese Personen rückerstattungspflichtig, soweit ein offensichtliches Missverhältnis zwischen Leistung und Gegenleistung besteht.
 
-<sup>3</sup> Der Anspruch auf Rückerstattung steht der Gesellschaft und dem Aktionär zu; dieser klagt auf Leistung an die Gesellschaft.
+<sup>3</sup> Artikel 64 findet Anwendung.
 
-<sup>4</sup> Die Pflicht zur Rückerstattung verjährt fünf Jahre nach Empfang der Leistung.
+<sup>4</sup> Der Anspruch auf Rückerstattung steht der Gesellschaft und dem Aktionär zu. Der Anspruch des Aktionärs geht auf Leistung an die Gesellschaft.
 
-[^678-1]: Fassung gemäss Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 (AS **19****92** 733; [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+<sup>5</sup> Die Generalversammlung kann beschliessen, dass die Gesellschaft Klage auf Rückerstattung erhebt. Sie kann den Verwaltungsrat oder einen Vertreter mit der Prozessführung betrauen.
 
-### II. Tantiemen im Konkurs
+<sup>6</sup> Im Konkurs der Gesellschaft kommt Artikel 757 sinngemäss zur Anwendung.
+
+[^678-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### II. Verjährung
+
+#### Art. 678a
+
+[^678a-1]
+
+<sup>1</sup> Der Rückerstattungsanspruch verjährt mit Ablauf von drei Jahren, nachdem die Gesellschaft oder der Aktionär davon Kenntnis erhalten hat, in jedem Fall aber zehn Jahre nach Entstehung des Anspruchs. Die Frist steht während des Verfahrens auf Anordnung einer Sonderuntersuchung und deren Durchführung still.
+
+<sup>2</sup> Hat der Empfänger durch sein Verhalten eine strafbare Handlung begangen, so verjährt der Rückerstattungsanspruch frühestens mit Eintritt der strafrechtlichen Verfolgungsverjährung. Tritt diese infolge eines erstinstanzlichen Strafurteils nicht mehr ein, so verjährt der Anspruch frühestens mit Ablauf von drei Jahren seit Eröffnung des Urteils.
+
+[^678a-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### III. Tantiemen im Konkurs
+
+[^part3-tit26-chap2-lvlE-lvlIII-1]
+
+[^part3-tit26-chap2-lvlE-lvlIII-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 679
 
@@ -10017,19 +10315,23 @@ Gewinnanteile an Mitglieder des Verwaltungsrates dürfen nur dem Bilanzgewinn en
 
 <sup>1</sup> Ein Aktionär, der den Ausgabebetrag seiner Aktie nicht zur rechten Zeit einbezahlt, ist zur Zahlung von Verzugszinsen verpflichtet.
 
-<sup>2</sup> Der Verwaltungsrat ist überdies befugt, den säumigen Aktionär seiner Rechte aus der Zeichnung der Aktien und seiner geleisteten Teilzahlungen verlustig zu erklären und an Stelle der ausgefallenen neue Aktien auszugeben. Wenn die ausgefallenen Titel bereits ausgegeben sind und nicht beigebracht werden können, so ist die Verlustigerklärung im Schweizerischen Handelsamtsblatt sowie in der von den Statuten vorgesehenen Form zu veröffentlichen.
+<sup>2</sup> Der Verwaltungsrat[^681-1] ist überdies befugt, den säumigen Aktionär seiner Rechte aus der Zeichnung der Aktien und seiner geleisteten Teilzahlungen verlustig zu erklären und an Stelle der ausgefallenen neue Aktien auszugeben. Wenn die ausgefallenen Titel bereits ausgegeben sind und nicht beigebracht werden können, so ist die Verlustigerklärung im Schweizerischen Handelsamtsblatt sowie in der von den Statuten vorgesehenen Form zu veröffentlichen.
 
 <sup>3</sup> Die Statuten können einen Aktionär für den Fall der Säumnis auch zur Entrichtung einer Konventionalstrafe verpflichten.
+
+[^681-1]: Ausdruck gemäss Ziff. II 3 des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Diese Änderung ist im ganzen Erlass berücksichtigt.
 
 ### 2. Aufforderung zur Leistung
 
 #### Art. 682
 
-<sup>1</sup> Beabsichtigt der Verwaltungsrat, den säumigen Aktionär seiner Rechte aus der Zeichnung verlustig zu erklären oder von ihm die in den Statuten vorgesehene Konventionalstrafe zu fordern, so hat er im Schweizerischen Handelsamtsblatt sowie in der von den Statuten vorgesehenen Form mindestens dreimal eine Aufforderung zur Einzahlung zu erlassen, unter Ansetzung einer Nachfrist von mindestens einem Monat, von der letzten Veröffentlichung an gerechnet. Der Aktionär darf seiner Rechte aus der Zeichnung erst verlustig erklärt oder für die Konventionalstrafe belangt werden, wenn er auch innerhalb der Nachfrist die Einzahlung nicht leistet.
+<sup>1</sup> Beabsichtigt der Verwaltungsrat, den säumigen Aktionär seiner Rechte aus der Zeichnung verlustig zu erklären oder von ihm die in den Statuten vorgesehene Konventionalstrafe zu fordern, so hat er im Schweizerischen Handelsamtsblatt sowie in der von den Statuten vorgesehenen Form eine Aufforderung zur Einzahlung zu erlassen, unter Ansetzung einer Nachfrist von mindestens 30 Tagen, von der Veröffentlichung an gerechnet.[^682-1] Der Aktionär darf seiner Rechte aus der Zeichnung erst verlustig erklärt oder für die Konventionalstrafe belangt werden, wenn er auch innerhalb der Nachfrist die Einzahlung nicht leistet.
 
 <sup>2</sup> Bei Namenaktien tritt an die Stelle der Veröffentlichungen eine Zahlungsaufforderung und Ansetzung der Nachfrist an die im Aktienbuch eingetragenen Aktionäre durch eingeschriebenen Brief. In diesem Falle läuft die Nachfrist vom Empfang der Zahlungsaufforderung an.
 
 <sup>3</sup> Der säumige Aktionär haftet der Gesellschaft für den Betrag, der durch die Leistungen des neuen Aktionärs nicht gedeckt ist.
+
+[^682-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### G. Ausgabe und Übertragung der Aktien
 
@@ -10131,12 +10433,13 @@ Gewinnanteile an Mitglieder des Verwaltungsrates dürfen nur dem Bilanzgewinn en
 
 <sup>1</sup> Bei börsenkotierten Namenaktien kann die Gesellschaft einen Erwerber als Aktionär nur ablehnen, wenn die Statuten eine prozentmässige Begrenzung der Namenaktien vorsehen, für die ein Erwerber als Aktionär anerkannt werden muss, und diese Begrenzung überschritten wird.
 
-<sup>2</sup> Die Gesellschaft kann überdies die Eintragung in das Aktienbuch verweigern, wenn der Erwerber auf ihr Verlangen nicht ausdrücklich erklärt, dass er die Aktien im eigenen Namen und auf eigene Rechnung erworben hat.
+<sup>2</sup> Die Gesellschaft kann einen Erwerber zudem ablehnen, wenn dieser auf ihr Verlangen nicht ausdrücklich erklärt, dass er die Aktien im eigenen Namen und auf eigene Rechnung erworben hat, dass keine Vereinbarung über die Rücknahme oder die Rückgabe entsprechender Aktien besteht und dass er das mit den Aktien verbundene wirtschaftliche Risiko trägt. Sie kann die Eintragung nicht aus dem Grund verweigern, dass das Gesuch durch die Bank des Erwerbers gestellt wurde.[^685d-2]
 
-<sup>3</sup> Sind börsenkotierte[^685d-2] Namenaktien durch Erbgang, Erbteilung oder eheliches Güterrecht erworben worden, kann der Erwerber nicht abgelehnt werden.
+<sup>3</sup> Sind börsenkotierte[^685d-3] Namenaktien durch Erbgang, Erbteilung oder eheliches Güterrecht erworben worden, kann der Erwerber nicht abgelehnt werden.
 
 [^685d-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-[^685d-2]: Berichtigt von der Redaktionskommission der BVers (Art. 33 GVG – [AS 1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)).
+[^685d-2]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^685d-3]: Berichtigt von der Redaktionskommission der BVers (Art. 33 GVG – [AS 1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)).
 
 ### b. Meldepflicht
 
@@ -10186,15 +10489,18 @@ Lehnt die Gesellschaft das Gesuch des Erwerbers um Anerkennung innert 20 Tagen n
 
 <sup>2</sup> Die Eintragung in das Aktienbuch setzt einen Ausweis über den Erwerb der Aktie zu Eigentum oder die Begründung einer Nutzniessung voraus.
 
+<sup>2bis</sup> Gesellschaften, deren Aktien an einer Börse kotiert sind, stellen sicher, dass die Eigentümer oder Nutzniesser das Gesuch um Eintragung in das Aktienbuch auf elektronischem Weg stellen können.[^686-3]
+
 <sup>3</sup> Die Gesellschaft muss die Eintragung auf dem Aktientitel bescheinigen.
 
 <sup>4</sup> Im Verhältnis zur Gesellschaft gilt als Aktionär oder als Nutzniesser, wer im Aktienbuch eingetragen ist.
 
-<sup>5</sup> Die Belege, die einer Eintragung zugrunde liegen, müssen während zehn Jahren nach der Streichung des Eigentümers oder Nutzniessers aus dem Aktienbuch aufbewahrt werden.[^686-3]
+<sup>5</sup> Die Belege, die einer Eintragung zugrunde liegen, müssen während zehn Jahren nach der Streichung des Eigentümers oder Nutzniessers aus dem Aktienbuch aufbewahrt werden.[^686-4]
 
 [^686-1]: Fassung gemäss Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 [^686-2]: Zweiter Satz eingefügt durch Ziff. I 2 des BG vom 12. Dez. 2014 zur Umsetzung der 2012 revidierten Empfehlungen der Groupe d’action financière, in Kraft seit 1. Juli 2015 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
-[^686-3]: Eingefügt durch Ziff. I 2 des BG vom 12. Dez. 2014 zur Umsetzung der 2012 revidierten Empfehlungen der Groupe d’action financière, in Kraft seit 1. Juli 2015 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
+[^686-3]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^686-4]: Eingefügt durch Ziff. I 2 des BG vom 12. Dez. 2014 zur Umsetzung der 2012 revidierten Empfehlungen der Groupe d’action financière, in Kraft seit 1. Juli 2015 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
 
 ### b. Streichung
 
@@ -10244,9 +10550,10 @@ Die Gesellschaft kann nach Anhörung des Betroffenen Eintragungen im Aktienbuch 
 
 <sup>1</sup> Der Aktionär übt seine Rechte in den Angelegenheiten der Gesellschaft, wie Bestellung der Organe, Abnahme des Geschäftsberichtes und Beschlussfassung über die Gewinnverwendung, in der Generalversammlung aus.
 
-<sup>2</sup> Er kann seine Aktien in der Generalversammlung selbst vertreten oder durch einen Dritten vertreten lassen, der unter Vorbehalt abweichender statutarischer Bestimmungen nicht Aktionär zu sein braucht.
+<sup>2</sup> …[^689-2]
 
 [^689-1]: Fassung gemäss Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^689-2]: Aufgehoben durch Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), mit Wirkung seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 2. Berechtigung gegenüber der Gesellschaft
 
@@ -10256,9 +10563,16 @@ Die Gesellschaft kann nach Anhörung des Betroffenen Eintragungen im Aktienbuch 
 
 <sup>1</sup> Die Mitgliedschaftsrechte aus Namenaktien kann ausüben, wer durch den Eintrag im Aktienbuch ausgewiesen oder vom Aktionär dazu schriftlich bevollmächtigt ist.
 
-<sup>2</sup> Die Mitgliedschaftsrechte aus Inhaberaktien kann ausüben, wer sich als Besitzer ausweist, indem er die Aktien vorlegt. Der Verwaltungsrat kann eine andere Art des Besitzesausweises anordnen.
+<sup>2</sup> Die Mitgliedschaftsrechte aus Inhaberaktien kann ausüben, wer sich als Besitzer ausweist, indem er die Aktien vorlegt. Das Stimmrecht kann nur ausüben, wer bei der Teilnahme an der Generalversammlung Namen und Wohnort bekannt gibt.[^689a-2]
+
+<sup>3</sup> Wer eine Inhaberaktie aufgrund einer Verpfändung, Hinterlegung oder leihweisen Überlassung besitzt, darf die Mitgliedschaftsrechte nur ausüben, wenn er vom Aktionär dazu schriftlich bevollmächtigt ist.[^689a-3]
+
+<sup>4</sup> Der Verwaltungsrat kann weitere Formen der Berechtigung gegenüber der Gesellschaft zulassen, soweit die Statuten nichts anderes vorsehen.[^689a-4]
 
 [^689a-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^689a-2]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^689a-3]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^689a-4]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 3. Vertretung des Aktionärs
 
@@ -10268,50 +10582,86 @@ Die Gesellschaft kann nach Anhörung des Betroffenen Eintragungen im Aktienbuch 
 
 [^689b-1]
 
-<sup>1</sup> Wer Mitwirkungsrechte als Vertreter ausübt, muss die Weisungen des Vertretenen befolgen.
+<sup>1</sup> Der Aktionär kann seine Mitwirkungsrechte, insbesondere sein Stimmrecht, durch einen Vertreter seiner Wahl ausüben lassen.
 
-<sup>2</sup> Wer eine Inhaberaktie aufgrund einer Verpfändung, Hinterlegung oder leihweisen Überlassung besitzt, darf die Mitgliedschaftsrechte nur ausüben, wenn er vom Aktionär hierzu in einem besonderen Schriftstück bevollmächtigt wurde.
+<sup>2</sup> Die Organstimmrechtsvertretung und die Depotstimmrechtsvertretung sind unzulässig bei Gesellschaften, deren Aktien an einer Börse kotiert sind.
 
-[^689b-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+<sup>3</sup> Setzt die Gesellschaft einen unabhängigen Stimmrechtsvertreter oder einen Organstimmrechtsvertreter ein, so ist dieser verpflichtet, die Stimmrechte weisungsgemäss auszuüben. Hat er keine Weisungen erhalten, so enthält er sich der Stimme. Der Verwaltungsrat erstellt Formulare, die zur Erteilung der Vollmachten und Weisungen verwendet werden müssen.
 
-### b. Organvertreter
+<sup>4</sup> Die Unabhängigkeit des unabhängigen Stimmrechtsvertreters darf weder tatsächlich noch dem Anschein nach beeinträchtigt sein. Die Vorschriften zur Unabhängigkeit der Revisionsstelle bei der ordentlichen Revision (Art. 728 Abs. 2–6) sind entsprechend anwendbar.
+
+<sup>5</sup> Als unabhängige Stimmrechtsvertreter können natürliche oder juristische Personen oder Personengesellschaften eingesetzt werden.
+
+[^689b-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1991 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### b. Unabhängige Stimmrechtsvertretung in Gesellschaften, deren Aktien an einer Börse kotiert sind
 
 #### Art. 689c
 
 [^689c-1]
 
-Schlägt die Gesellschaft den Aktionären ein Mitglied ihrer Organe oder eine andere abhängige Person für die Stimmrechtsvertretung an einer Generalversammlung vor, so muss sie zugleich eine unabhängige Person bezeichnen, die von den Aktionären mit der Vertretung beauftragt werden kann.
+<sup>1</sup> In Gesellschaften, deren Aktien an einer Börse kotiert sind, wählt die Generalversammlung den unabhängigen Stimmrechtsvertreter. Die Amtsdauer endet mit dem Abschluss der nächsten ordentlichen Generalversammlung. Wiederwahl ist möglich.
 
-[^689c-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+<sup>2</sup> Die Generalversammlung kann den unabhängigen Stimmrechtsvertreter auf das Ende der Generalversammlung abberufen.
 
-### c. Depotvertreter
+<sup>3</sup> Hat die Generalversammlung keinen unabhängigen Stimmrechtsvertreter gewählt, so ernennt der Verwaltungsrat einen solchen für die nächste Generalversammlung. Die Statuten können andere Regeln zur Behebung dieses Organisationsmangels vorsehen.
+
+<sup>4</sup>
+
+Der Verwaltungsrat stellt sicher, dass die Aktionäre insbesondere die Möglichkeit haben, dem unabhängigen Stimmrechtsvertreter:
+
+- 1\. zu jedem in der Einberufung gestellten Antrag zu Verhandlungsgegenständen Weisungen zu erteilen;
+- 2\. zu nicht angekündigten Anträgen zu Verhandlungsgegenständen sowie zu neuen Verhandlungsgegenständen gemäss Artikel 704*b* allgemeine Weisungen zu erteilen.
+
+<sup>5</sup> Der unabhängige Stimmrechtsvertreter behandelt die Weisungen der einzelnen Aktionäre bis zur Generalversammlung vertraulich. Er kann der Gesellschaft eine allgemeine Auskunft über die eingegangenen Weisungen erteilen. Er darf die Auskunft nicht früher als drei Werktage vor der Generalversammlung erteilen und muss anlässlich der Generalversammlung erklären, welche Informationen er der Gesellschaft erteilt hat.
+
+<sup>6</sup> Vollmachten und Weisungen können nur für die kommende Generalversammlung erteilt werden. Sie können auch elektronisch erteilt werden.
+
+[^689c-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1991 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### c. Unabhängige Stimmrechtsvertretung und Organstimmrechtsvertretung in Gesellschaften, deren Aktien nicht an einer Börse kotiert sind
 
 #### Art. 689d
 
 [^689d-1]
 
-<sup>1</sup> Wer als Depotvertreter Mitwirkungsrechte aus Aktien, die bei ihm hinterlegt sind, ausüben will, ersucht den Hinterleger vor jeder Generalversammlung um Weisungen für die Stimmabgabe.
+<sup>1</sup> Die Statuten von Gesellschaften, deren Aktien nicht an einer Börse kotiert sind, können vorsehen, dass ein Aktionär nur durch einen anderen Aktionär in der Generalversammlung vertreten werden kann.
 
-<sup>2</sup> Sind Weisungen des Hinterlegers nicht rechtzeitig erhältlich, so übt der Depotvertreter das Stimmrecht nach einer allgemeinen Weisung des Hinterlegers aus; fehlt eine solche, so folgt er den Anträgen des Verwaltungsrates.
+<sup>2</sup> Enthalten die Statuten eine solche Bestimmung, so muss der Verwaltungsrat auf Verlangen eines Aktionärs einen unabhängigen Stimmrechtsvertreter oder einen Organstimmrechtsvertreter bezeichnen, dem die Ausübung der Mitwirkungsrechte übertragen werden kann.
 
-<sup>3</sup> Als Depotvertreter gelten die dem Bankengesetz vom 8. November 1934[^689d-2] unterstellten Institute und die Finanzinstitute nach dem Finanzinstitutsgesetz vom 15. Juni 2018[^689d-3].[^689d-4]
+<sup>3</sup> Der Verwaltungsrat muss in diesem Fall spätestens zehn Tage vor der Generalversammlung den Aktionären mitteilen, wen sie mit der Vertretung beauftragen können. Kommt der Verwaltungsrat dieser Pflicht nicht nach, so kann sich der Aktionär durch einen beliebigen Dritten vertreten lassen. Die Statuten regeln die Einzelheiten der Bezeichnung des Vertreters.
 
-[^689d-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-[^689d-2]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^689d-3]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
-[^689d-4]: Fassung gemäss Anhang Ziff. II 1 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+<sup>4</sup> Artikel 689*c* Absatz 4 ist im Fall einer unabhängigen Stimmrechtsvertretung wie auch einer Organstimmrechtsvertretung anwendbar.
 
-### d. Bekanntgabe
+[^689d-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1991 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### d. Depotstimmrechtsvertretung in Gesellschaften, deren Aktien nicht an einer Börse kotiert sind
 
 #### Art. 689e
 
 [^689e-1]
 
-<sup>1</sup> Organe, unabhängige Stimmrechtsvertreter und Depotvertreter geben der Gesellschaft Anzahl, Art, Nennwert und Kategorie der von ihnen vertretenen Aktien bekannt. Unterbleiben diese Angaben, so sind die Beschlüsse der Generalversammlung unter den gleichen Voraussetzungen anfechtbar wie bei unbefugter Teilnahme an der Generalversammlung.
+<sup>1</sup> Wer bei einer Gesellschaft, deren Aktien nicht an einer Börse kotiert sind, Stimmrechte aus Aktien ausüben will, die bei ihm hinterlegt sind, ersucht den Hinterleger vor jeder Generalversammlung um Weisungen für die Stimmabgabe.
 
-<sup>2</sup> Der Vorsitzende teilt die Angaben gesamthaft für jede Vertretungsart der Generalversammlung mit. Unterlässt er dies, obschon ein Aktionär es verlangt hat, so kann jeder Aktionär die Beschlüsse der Generalversammlung mit Klage gegen die Gesellschaft anfechten.
+<sup>2</sup> Sind Weisungen des Hinterlegers nicht rechtzeitig erhältlich, so übt der Depotvertreter das Stimmrecht nach einer allgemeinen Weisung des Hinterlegers aus; fehlt eine solche, so enthält er sich der Stimme.
 
-[^689e-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+<sup>3</sup> Als Depotvertreter gelten die dem Bankengesetz vom 8. November 1934[^689e-2] unterstellten Institute und die Finanzinstitute nach dem Finanzinstitutsgesetz vom 15. Juni 2018[^689e-3].
+
+[^689e-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1991 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^689e-2]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^689e-3]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+
+### e. Bekanntgabe
+
+#### Art. 689f
+
+[^689f-1]
+
+<sup>1</sup> Unabhängige Stimmrechtsvertreter, Organstimmrechtsvertreter und Depotvertreter geben der Gesellschaft Anzahl, Art, Nennwert und Kategorie der von ihnen vertretenen Aktien bekannt. Unterlassen sie dies, so sind die Beschlüsse der Generalversammlung unter den gleichen Voraussetzungen anfechtbar wie bei unbefugter Teilnahme an der Generalversammlung (Art. 691).
+
+<sup>2</sup> Der Vorsitzende teilt der Generalversammlung diese Angaben gesamthaft für jede Vertretungsart mit. Unterlässt er dies, obschon ein Aktionär es verlangt hat, so kann jeder Aktionär die Beschlüsse der Generalversammlung mit Klage gegen die Gesellschaft anfechten.
+
+[^689f-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 4. Mehrere Berechtigte
 
@@ -10333,7 +10683,11 @@ Schlägt die Gesellschaft den Aktionären ein Mitglied ihrer Organe oder eine an
 
 <sup>2</sup> Jeder Aktionär ist befugt, gegen die Teilnahme unberechtigter Personen beim Verwaltungsrat oder zu Protokoll der Generalversammlung Einspruch zu erheben.
 
+<sup>2bis</sup> Mitglieder des Verwaltungsrats und der Geschäftsleitung sind berechtigt, an der Generalversammlung teilzunehmen.[^691-1]
+
 <sup>3</sup> Wirken Personen, die zur Teilnahme an der Generalversammlung nicht befugt sind, bei einem Beschlusse mit, so kann jeder Aktionär, auch wenn er nicht Einspruch erhoben hat, diesen Beschluss anfechten, sofern die beklagte Gesellschaft nicht nachweist, dass diese Mitwirkung keinen Einfluss auf die Beschlussfassung ausgeübt hatte.
+
+[^691-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### III. Stimmrecht in der Generalversammlung
 
@@ -10345,7 +10699,9 @@ Schlägt die Gesellschaft den Aktionären ein Mitglied ihrer Organe oder eine an
 
 <sup>2</sup> Jeder Aktionär hat, auch wenn er nur eine Aktie besitzt, zum mindesten eine Stimme. Doch können die Statuten die Stimmenzahl der Besitzer mehrerer Aktien beschränken.
 
-<sup>3</sup> Bei der Herabsetzung des Nennwerts der Aktien im Fall einer Sanierung der Gesellschaft kann das Stimmrecht dem ursprünglichen Nennwert entsprechend beibehalten werden.
+<sup>3</sup> …[^692-1]
+
+[^692-1]: Aufgehoben durch Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), mit Wirkung seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 2. Stimmrechtsaktien
 
@@ -10361,11 +10717,13 @@ Die Bemessung des Stimmrechts nach der Zahl der Aktien ist nicht anwendbar für:
 
 - 1\. die Wahl der Revisionsstelle;
 - 2\. die Ernennung von Sachverständigen zur Prüfung der Geschäftsführung oder einzelner Teile;
-- 3\. die Beschlussfassung über die Einleitung einer Sonderprüfung;
-- 4\. die Beschlussfassung über die Anhebung einer Verantwortlichkeitsklage.[^693-2]
+- 3\.[^693-2] die Beschlussfassung über die Einleitung einer Sonderuntersuchung;
+- 4\.[^693-3] die Beschlussfassung über die Erhebung einer Verantwortlichkeitsklage.[^693-4]
 
 [^693-1]: Fassung gemäss Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-[^693-2]: Fassung gemäss Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^693-2]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^693-3]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^693-4]: Fassung gemäss Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 
 ### 3. Entstehung des Stimmrechts
 
@@ -10383,138 +10741,152 @@ Das Stimmrecht entsteht, sobald auf die Aktie der gesetzlich oder statutarisch f
 
 [^695-1]: Aufgehoben durch Ziff. I 3 des BG vom 16. Dez. 2005 (GmbH-Recht sowie Anpassungen im Aktien-, Genossenschafts-, Handelsregister- und Firmenrecht), mit Wirkung seit 1. Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 
-### IV. Kontrollrechte der Aktionäre
-
-### 1. Bekanntgabe des Geschäftsberichtes
-
 #### Art. 696
 
 [^696-1]
 
-<sup>1</sup> Spätestens 20 Tage vor der ordentlichen Generalversammlung sind der Geschäftsbericht und der Revisionsbericht den Aktionären am Gesellschaftssitz zur Einsicht aufzulegen. Jeder Aktionär kann verlangen, dass ihm unverzüglich eine Ausfertigung dieser Unterlagen zugestellt wird.
+[^696-1]: Aufgehoben durch Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), mit Wirkung seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-<sup>2</sup> Namenaktionäre sind hierüber durch schriftliche Mitteilung zu unterrichten, Inhaberaktionäre durch Bekanntgabe im Schweizerischen Handelsamtsblatt sowie in der von den Statuten vorgeschriebenen Form.
+### IV. Auskunfts- und Einsichtsrecht
 
-<sup>3</sup> Jeder Aktionär kann noch während eines Jahres nach der Generalversammlung von der Gesellschaft den Geschäftsbericht in der von der Generalversammlung genehmigten Form sowie den Revisionsbericht verlangen.
-
-[^696-1]: Fassung gemäss Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-
-### 2. Auskunft und Einsicht
+### 1. Auskunftsrecht
 
 #### Art. 697
 
 [^697-1]
 
-<sup>1</sup> Jeder Aktionär ist berechtigt, an der Generalversammlung vom Verwaltungsrat Auskunft über die Angelegenheiten der Gesellschaft und von der Revisionsstelle über Durchführung und Ergebnis ihrer Prüfung zu verlangen.
+<sup>1</sup> Jeder Aktionär ist berechtigt, an der Generalversammlung vom Verwaltungsrat Auskunft über die Angelegenheiten der Gesellschaft und von der Revisionsstelle Auskunft über Durchführung und Ergebnis ihrer Prüfung zu verlangen.
 
-<sup>2</sup> Die Auskunft ist insoweit zu erteilen, als sie für die Ausübung der Aktionärsrechte erforderlich ist. Sie kann verweigert werden, wenn durch sie Geschäftsgeheimnisse oder andere schutzwürdige Interessen der Gesellschaft gefährdet werden.
+<sup>2</sup> In Gesellschaften, deren Aktien nicht an einer Börse kotiert sind, können Aktionäre, die zusammen mindestens 10 Prozent des Aktienkapitals oder der Stimmen vertreten, vom Verwaltungsrat schriftlich Auskunft über die Angelegenheiten der Gesellschaft verlangen.
 
-<sup>3</sup> Die Geschäftsbücher und Korrespondenzen können nur mit ausdrücklicher Ermächtigung der Generalversammlung oder durch Beschluss des Verwaltungsrates und unter Wahrung der Geschäftsgeheimnisse eingesehen werden.
+<sup>3</sup> Der Verwaltungsrat erteilt die Auskunft innert vier Monaten. Die Antworten des Verwaltungsrats sind zudem spätestens an der nächsten Generalversammlung zur Einsicht für die Aktionäre aufzulegen.
 
-<sup>4</sup> Wird die Auskunft oder die Einsicht ungerechtfertigterweise verweigert, so ordnet das Gericht sie auf Antrag an.[^697-2]
+<sup>4</sup> Die Auskunft muss erteilt werden, soweit sie für die Ausübung der Aktionärsrechte erforderlich ist und soweit keine Geschäftsgeheimnisse oder anderen schutzwürdigen Interessen der Gesellschaft gefährdet werden. Eine Verweigerung der Auskunft ist schriftlich zu begründen.
 
-[^697-1]: Fassung gemäss Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-[^697-2]: Fassung gemäss Anhang 1 Ziff. II 5 der Zivilprozessordnung vom 19. Dez. 2008, in Kraft seit 1. Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^697-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-### V. Recht auf Einleitung einer Sonderprüfung
-
-### 1. Mit Genehmigung der Generalversammlung
+### 2. Einsichtsrecht
 
 #### Art. 697a
 
 [^697a-1]
 
-<sup>1</sup> Jeder Aktionär kann der Generalversammlung beantragen, bestimmte Sachverhalte durch eine Sonderprüfung abklären zu lassen, sofern dies zur Ausübung der Aktionärsrechte erforderlich ist und er das Recht auf Auskunft oder das Recht auf Einsicht bereits ausgeübt hat.
+<sup>1</sup> Die Geschäftsbücher und die Akten können von Aktionären eingesehen werden, die zusammen mindestens 5 Prozent des Aktienkapitals oder der Stimmen vertreten.
 
-<sup>2</sup> Entspricht die Generalversammlung dem Antrag, so kann die Gesellschaft oder jeder Aktionär innert 30 Tagen das Gericht um Einsetzung eines Sonderprüfers ersuchen.
+<sup>2</sup> Der Verwaltungsrat gewährt die Einsicht innert vier Monaten nach Eingang der Anfrage. Die Aktionäre dürfen Notizen machen.
 
-[^697a-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+<sup>3</sup> Die Einsicht muss gewährt werden, soweit sie für die Ausübung der Aktionärsrechte erforderlich ist und soweit keine Geschäftsgeheimnisse oder anderen schutzwürdigen Interessen der Gesellschaft gefährdet werden. Eine Verweigerung der Einsicht ist schriftlich zu begründen.
 
-### 2. Bei Ablehnung durch die Generalversammlung
+[^697a-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1991 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### 3. Ablehnung des Begehrens um Auskunft oder Einsicht
 
 #### Art. 697b
 
 [^697b-1]
 
-<sup>1</sup> Entspricht die Generalversammlung dem Antrag nicht, so können Aktionäre, die zusammen mindestens 10 Prozent des Aktienkapitals oder Aktien im Nennwert von 2 Millionen Franken vertreten, innert dreier Monate das Gericht ersuchen, einen Sonderprüfer einzusetzen.
+Wird die Auskunft oder die Einsicht ganz oder teilweise verweigert oder verunmöglicht, so können die Aktionäre innerhalb von 30 Tagen vom Gericht die Anordnung der Auskunft oder Einsicht verlangen.
 
-<sup>2</sup> Die Gesuchsteller haben Anspruch auf Einsetzung eines Sonderprüfers, wenn sie glaubhaft machen, dass Gründer oder Organe Gesetz oder Statuten verletzt und damit die Gesellschaft oder die Aktionäre geschädigt haben.
+[^697b-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1991 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-[^697b-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+### V. Recht auf Einleitung einer Sonderuntersuchung
 
-### 3. Einsetzung
+### 1. Mit Genehmigung der Generalversammlung
 
 #### Art. 697c
 
 [^697c-1]
 
-<sup>1</sup> Das Gericht entscheidet nach Anhörung der Gesellschaft und des seinerzeitigen Antragstellers.
+<sup>1</sup> Jeder Aktionär, der das Recht auf Auskunft oder das Recht auf Einsicht bereits ausgeübt hat, kann der Generalversammlung beantragen, bestimmte Sachverhalte durch unabhängige Sachverständige untersuchen zu lassen, sofern dies zur Ausübung der Aktionärsrechte erforderlich ist.
 
-<sup>2</sup> Entspricht das Gericht dem Gesuch, so beauftragt es einen unabhängigen Sachverständigen mit der Durchführung der Prüfung. Es umschreibt im Rahmen des Gesuches den Prüfungsgegenstand.
+<sup>2</sup> Entspricht die Generalversammlung dem Antrag, so kann die Gesellschaft oder jeder Aktionär innert 30 Tagen dem Gericht beantragen, die Sachverständigen zu bezeichnen, welche die Sonderuntersuchung durchführen.
 
-<sup>3</sup> Das Gericht kann die Sonderprüfung auch mehreren Sachverständigen gemeinsam übertragen.
+[^697c-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1991 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-[^697c-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-
-### 4. Tätigkeit
+### 2. Bei Ablehnung durch die Generalversammlung
 
 #### Art. 697d
 
 [^697d-1]
 
-<sup>1</sup> Die Sonderprüfung ist innert nützlicher Frist und ohne unnötige Störung des Geschäftsganges durchzuführen.
+<sup>1</sup>
 
-<sup>2</sup> Gründer, Organe, Beauftragte, Arbeitnehmer, Sachwalter und Liquidatoren müssen dem Sonderprüfer Auskunft über erhebliche Tatsachen erteilen. Im Streitfall entscheidet das Gericht.
+Entspricht die Generalversammlung dem Antrag nicht, so können Aktionäre innerhalb von drei Monaten vom Gericht die Anordnung einer Sonderuntersuchung verlangen, sofern sie zusammen mindestens über eine der folgenden Beteiligungen verfügen:
 
-<sup>3</sup> Der Sonderprüfer hört die Gesellschaft zu den Ergebnissen der Sonderprüfung an.
+- 1\. bei Gesellschaften, deren Aktien an einer Börse kotiert sind: 5 Prozent des Aktienkapitals oder der Stimmen;
+- 2\. bei anderen Gesellschaften, deren Aktien nicht an einer Börse kotiert sind: 10 Prozent des Aktienkapitals oder der Stimmen.
 
-<sup>4</sup> Er ist zur Verschwiegenheit verpflichtet.
+<sup>2</sup> Das Begehren auf Anordnung einer Sonderuntersuchung kann sich auf alle Fragen erstrecken, die Gegenstand des Begehrens um Auskunft oder Einsicht waren oder die in der Beratung des Antrags auf Durchführung einer Sonderuntersuchung in der Generalversammlung angesprochen wurden, soweit ihre Beantwortung für die Ausübung der Aktionärsrechte erforderlich ist.
 
-[^697d-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+<sup>3</sup> Das Gericht ordnet die Sonderuntersuchung an, wenn die Gesuchsteller glaubhaft machen, dass Gründer oder Organe Gesetz oder Statuten verletzt haben und die Verletzung geeignet ist, die Gesellschaft oder die Aktionäre zu schädigen.
 
-### 5. Bericht
+[^697d-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1991 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### 3. Verfahren vor Gericht
 
 #### Art. 697e
 
 [^697e-1]
 
-<sup>1</sup> Der Sonderprüfer berichtet einlässlich über das Ergebnis seiner Prüfung, wahrt aber das Geschäftsgeheimnis. Er legt seinen Bericht dem Gericht vor.
+<sup>1</sup> Das Gericht entscheidet nach Anhörung der Gesellschaft und des Aktionärs, der den Antrag auf eine Sonderuntersuchung in der Generalversammlung gestellt hat.
 
-<sup>2</sup> Das Gericht stellt den Bericht der Gesellschaft zu und entscheidet auf ihr Begehren, ob Stellen des Berichtes das Geschäftsgeheimnis oder andere schutzwürdige Interessen der Gesellschaft verletzen und deshalb den Gesuchstellern nicht vorgelegt werden sollen.
+<sup>2</sup> Entspricht das Gericht dem Begehren, so bezeichnet es die mit der Sonderuntersuchung betrauten unabhängigen Sachverständigen und umschreibt den Prüfungsgegenstand.
 
-<sup>3</sup> Er gibt der Gesellschaft und den Gesuchstellern Gelegenheit, zum bereinigten Bericht Stellung zu nehmen und Ergänzungsfragen zu stellen.
+[^697e-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1991 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-[^697e-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-
-### 6. Behandlung und Bekanntgabe
+### 4. Durchführung der Sonderuntersuchung
 
 #### Art. 697f
 
 [^697f-1]
 
-<sup>1</sup> Der Verwaltungsrat unterbreitet der nächsten Generalversammlung den Bericht und die Stellungnahmen dazu.
+<sup>1</sup> Die Sonderuntersuchung ist innert nützlicher Frist und ohne unnötige Störung des Geschäftsgangs durchzuführen.
 
-<sup>2</sup> Jeder Aktionär kann während eines Jahres nach der Generalversammlung von der Gesellschaft eine Ausfertigung des Berichtes und der Stellungnahmen verlangen.
+<sup>2</sup> Gründer, Organe, Beauftragte, Arbeitnehmer, Sachwalter und Liquidatoren müssen den Sachverständigen Auskunft über alle erheblichen Tatsachen erteilen. Im Streitfall entscheidet das Gericht.
 
-[^697f-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+<sup>3</sup> Die Sachverständigen hören die Gesellschaft zu den Ergebnissen der Sonderuntersuchung an.
 
-### 7. Kostentragung
+<sup>4</sup> Sie sind zur Geheimhaltung verpflichtet.
+
+[^697f-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1991 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### 5. Bericht
 
 #### Art. 697g
 
 [^697g-1]
 
-<sup>1</sup> Entspricht das Gericht dem Gesuch um Einsetzung eines Sonderprüfers, so überbindet es den Vorschuss und die Kosten der Gesellschaft. Wenn besondere Umstände es rechtfertigen, kann es die Kosten ganz oder teilweise den Gesuchstellern auferlegen.
+<sup>1</sup> Die Sachverständigen berichten schriftlich einlässlich über das Ergebnis ihrer Untersuchung. Wurde die Sonderuntersuchung durch das Gericht angeordnet, so legen die Sachverständigen ihren Bericht dem Gericht vor.
 
-<sup>2</sup> Hat die Generalversammlung der Sonderprüfung zugestimmt, so trägt die Gesellschaft die Kosten.
+<sup>2</sup> Das Gericht stellt den Bericht der Gesellschaft zu und entscheidet auf ihren Antrag, ob Teile des Berichts das Geschäftsgeheimnis oder andere schutzwürdige Interessen der Gesellschaft verletzen und deshalb den Gesuchstellern nicht vorgelegt werden dürfen.
 
-[^697g-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+<sup>3</sup> Es gibt dem Verwaltungsrat und den Gesuchstellern Gelegenheit, zum bereinigten Bericht Stellung zu nehmen und Ergänzungsfragen zu stellen.
+
+[^697g-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1991 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### 6. Behandlung und Bekanntgabe
 
 #### Art. 697h
 
 [^697h-1]
 
-[^697h-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1991 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Aufgehoben durch Ziff. I 1 des BG vom 23. Dez. 2011 (Rechnungslegungsrecht), mit Wirkung seit 1. Jan. 2013 ([AS 2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810); [BBl 2008 1589](https://fedlex.data.admin.ch/eli/fga/2008/416)).
+<sup>1</sup> Der Verwaltungsrat unterbreitet der nächsten Generalversammlung den Bericht der Sachverständigen sowie seine Stellungnahme und diejenige der Gesuchsteller dazu.
+
+<sup>2</sup> Jeder Aktionär kann während eines Jahres nach der Generalversammlung von der Gesellschaft auf deren Kosten eine Ausfertigung des Berichts und der Stellungnahmen verlangen.
+
+[^697h-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1991 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### 7. Kosten der Sonderuntersuchung
+
+#### Art. 697h<sup>bis</sup>
+
+[^697hbis-1]
+
+<sup>1</sup> Die Gesellschaft trägt die Kosten der Sonderuntersuchung. Sie leistet auch allfällige Kostenvorschüsse.
+
+<sup>2</sup> Wenn besondere Umstände es rechtfertigen, kann das Gericht die Kosten ganz oder teilweise den Gesuchstellern auferlegen.
+
+[^697hbis-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 697i
 
@@ -10584,6 +10956,22 @@ Das Stimmrecht entsteht, sobald auf die Aktie der gesetzlich oder statutarisch f
 
 [^697m-1]: Eingefügt durch Ziff. I 2 des BG vom 12. Dez. 2014 zur Umsetzung der 2012 revidierten Empfehlungen der Groupe d’action financière, in Kraft seit 1. Juli 2015 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
 
+### L. Schiedsgericht
+
+#### Art. 697n
+
+[^697n-1]
+
+<sup>1</sup> Die Statuten können vorsehen, dass gesellschaftsrechtliche Streitigkeiten durch ein Schiedsgericht mit Sitz in der Schweiz beurteilt werden. Wenn die Statuten es nicht anders bestimmen, bindet die Schiedsklausel die Gesellschaft, die Organe der Gesellschaft, die Mitglieder der Organe und die Aktionäre.
+
+<sup>2</sup> Für das Verfahren vor dem Schiedsgericht gelten die Bestimmungen des 3. Teils der Zivilprozessordnung[^697n-2]; das zwölfte Kapitel des Bundesgesetzes vom 18. Dezember 1987[^697n-3] über das Internationale Privatrecht ist nicht anwendbar.
+
+<sup>3</sup> Die Statuten können die Einzelheiten regeln, insbesondere durch Verweisung auf eine Schiedsordnung. Sie stellen jedenfalls sicher, dass Personen, die von den Rechtswirkungen des Schiedsspruchs direkt betroffen sein können, über die Einleitung und die Beendigung des Verfahrens informiert werden und sich bei der Bestellung des Schiedsgerichts und als Intervenienten am Verfahren beteiligen können.
+
+[^697n-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^697n-2]: [SR 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
+[^697n-3]: [SR 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
+
 ### Dritter Abschnitt: Organisation der Aktiengesellschaft
 
 ### A. Die Generalversammlung
@@ -10602,57 +10990,210 @@ Ihr stehen folgende unübertragbare Befugnisse zu:
 - 2\. die Wahl der Mitglieder des Verwaltungsrates und der Revisionsstelle;
 - 3\.[^698-1] die Genehmigung des Lageberichts und der Konzernrechnung;
 - 4\. die Genehmigung der Jahresrechnung sowie die Beschlussfassung über die Verwendung des Bilanzgewinnes, insbesondere die Festsetzung der Dividende und der Tantieme;
-- 5\. die Entlastung der Mitglieder des Verwaltungsrates;
-- 6\. die Beschlussfassung über die Gegenstände, die der Generalversammlung durch das Gesetz oder die Statuten vorbehalten sind.[^698-2]
+- 5\.[^698-2] die Festsetzung der Zwischendividende und die Genehmigung des dafür erforderlichen Zwischenabschlusses;
+- 6\.[^698-3] die Beschlussfassung über die Rückzahlung der gesetzlichen Kapitalreserve;
+- 7\.[^698-4] die Entlastung der Mitglieder des Verwaltungsrats;
+- 8\.[^698-5] die Dekotierung der Beteiligungspapiere der Gesellschaft;
+- 9\.[^698-6] die Beschlussfassung über die Gegenstände, die der Generalversammlung durch das Gesetz oder die Statuten vorbehalten sind.[^698-7]
+
+<sup>3</sup>
+
+Bei Gesellschaften, deren Aktien an einer Börse kotiert sind, stehen ihr folgende weitere unübertragbare Befugnisse zu:
+
+- 1\. die Wahl des Präsidenten des Verwaltungsrats;
+- 2\. die Wahl der Mitglieder des Vergütungsausschusses;
+- 3\. die Wahl des unabhängigen Stimmrechtsvertreters;
+- 4\. die Abstimmung über die Vergütungen des Verwaltungsrats, der Geschäftsleitung und des Beirats.[^698-8]
 
 [^698-1]: Fassung gemäss Ziff. I 1 des BG vom 23. Dez. 2011 (Rechnungslegungsrecht), in Kraft seit 1. Jan. 2013 ([AS 2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810); [BBl 2008 1589](https://fedlex.data.admin.ch/eli/fga/2008/416)).
-[^698-2]: Fassung gemäss Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^698-2]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^698-3]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^698-4]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^698-5]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^698-6]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^698-7]: Fassung gemäss Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^698-8]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-### II. Einberufung und Traktandierung
+### II. Einberufung und Durchführung der Generalversammlung
 
-### 1. Recht und Pflicht
-
-[^part3-tit26-chap3-lvlA-lvlII-lvl1-1]
-
-[^part3-tit26-chap3-lvlA-lvlII-lvl1-1]: Fassung gemäss Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+### 1. Art der Einberufung
 
 #### Art. 699
 
-<sup>1</sup> Die Generalversammlung wird durch den Verwaltungsrat, nötigenfalls durch die Revisionsstelle[^699-1] einberufen. Das Einberufungsrecht steht auch den Liquidatoren und den Vertretern der Anleihensgläubiger zu.
+[^699-1]
 
-<sup>2</sup> Die ordentliche Versammlung findet alljährlich innerhalb sechs Monaten nach Schluss des Geschäftsjahres statt, ausserordentliche Versammlungen werden je nach Bedürfnis einberufen.
+<sup>1</sup> Die Generalversammlung wird durch den Verwaltungsrat, nötigenfalls durch die Revisionsstelle einberufen. Das Einberufungsrecht steht auch den Liquidatoren und den Vertretern der Anleihensgläubiger zu.
 
-<sup>3</sup> Die Einberufung einer Generalversammlung kann auch von einem oder mehreren Aktionären, die zusammen mindestens 10 Prozent des Aktienkapitals vertreten, verlangt werden. Aktionäre, die Aktien im Nennwerte von 1 Million Franken vertreten, können die Traktandierung eines Verhandlungsgegenstandes verlangen. Einberufung und Traktandierung werden schriftlich unter Angabe des Verhandlungsgegenstandes und der Anträge anbegehrt.[^699-2]
+<sup>2</sup> Die ordentliche Generalversammlung findet jährlich innerhalb von sechs Monaten nach Abschluss des Geschäftsjahres statt.
 
-<sup>4</sup> Entspricht der Verwaltungsrat diesem Begehren nicht binnen angemessener Frist, so hat das Gericht auf Antrag der Gesuchsteller die Einberufung anzuordnen.
+<sup>3</sup>
 
-[^699-1]: Ausdruck gemäss Ziff. II 2 des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Diese Änderung ist im ganzen Erlass berücksichtigt.
-[^699-2]: Fassung gemäss Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+Aktionäre können die Einberufung einer Generalversammlung verlangen, sofern sie zusammen mindestens über eine der folgenden Beteiligungen verfügen:
 
-### 2. Form
+- 1\. bei Gesellschaften, deren Aktien an einer Börse kotiert sind: 5 Prozent des Aktienkapitals oder der Stimmen;
+- 2\. bei anderen Gesellschaften: 10 Prozent des Aktienkapitals oder der Stimmen.
+
+<sup>4</sup> Sie müssen die Einberufung schriftlich verlangen. Die Verhandlungsgegenstände und Anträge müssen im Begehren enthalten sein.
+
+<sup>5</sup> Entspricht der Verwaltungsrat dem Begehren nicht innert angemessener Frist, längstens aber innert 60 Tagen, so können die Gesuchsteller dem Gericht beantragen, die Einberufung anzuordnen.
+
+[^699-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### 2. Bekanntmachung des Geschäftsberichts
+
+#### Art. 699a
+
+[^699a-1]
+
+<sup>1</sup> Mindestens 20 Tage vor der Generalversammlung sind den Aktionären der Geschäftsbericht und die Revisionsberichte zugänglich zu machen. Sofern die Unterlagen nicht elektronisch zugänglich sind, kann jeder Aktionär verlangen, dass ihm diese rechtzeitig zugestellt werden.
+
+<sup>2</sup> Sofern die Unterlagen nicht elektronisch zugänglich sind, kann jeder Aktionär während eines Jahres nach der Generalversammlung verlangen, dass ihm der Geschäftsbericht in der von der Generalversammlung genehmigten Form sowie die Revisionsberichte zugestellt werden.
+
+[^699a-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### 3. Traktandierungs- und Antragsrecht
+
+#### Art. 699b
+
+[^699b-1]
+
+<sup>1</sup>
+
+Aktionäre können die Traktandierung von Verhandlungsgegenständen verlangen, sofern sie zusammen mindestens über eine der folgenden Beteiligungen verfügen:
+
+- 1\. in Gesellschaften, deren Aktien an einer Börse kotiert sind: 0,5 Prozent des Aktienkapitals oder der Stimmen;
+- 2\. in anderen Gesellschaften: 5 Prozent des Aktienkapitals oder der Stimmen.
+
+<sup>2</sup> Unter den gleichen Voraussetzungen können die Aktionäre verlangen, dass Anträge zu Verhandlungsgegenständen in die Einberufung der Generalversammlung aufgenommen werden.
+
+<sup>3</sup> Mit der Traktandierung oder den Anträgen können die Aktionäre eine kurze Begründung einreichen. Diese muss in die Einberufung der Generalversammlung aufgenommen werden.
+
+<sup>4</sup> Entspricht der Verwaltungsrat einem Begehren nicht, so können die Gesuchsteller dem Gericht beantragen, die Traktandierung von Verhandlungsgegenständen oder die Aufnahme von Anträgen und entsprechenden Begründungen in die Einberufung der Generalversammlung anzuordnen.
+
+<sup>5</sup> In der Generalversammlung kann jeder Aktionär Anträge im Rahmen der Verhandlungsgegenstände stellen.
+
+[^699b-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### 4. Inhalt der Einberufung
 
 #### Art. 700
 
 [^700-1]
 
-<sup>1</sup> Die Generalversammlung ist spätestens 20 Tage vor dem Versammlungstag in der durch die Statuten vorgeschriebenen Form einzuberufen.
+<sup>1</sup> Der Verwaltungsrat teilt den Aktionären die Einberufung der Generalversammlung mindestens 20 Tage vor dem Versammlungstag mit.
 
-<sup>2</sup> In der Einberufung sind die Verhandlungsgegenstände sowie die Anträge des Verwaltungsrates und der Aktionäre bekanntzugeben, welche die Durchführung einer Generalversammlung oder die Traktandierung eines Verhandlungsgegenstandes verlangt haben.
+<sup>2</sup>
 
-<sup>3</sup> Über Anträge zu nicht gehörig angekündigten Verhandlungsgegenständen können keine Beschlüsse gefasst werden; ausgenommen sind Anträge auf Einberufung einer ausserordentlichen Generalversammlung, auf Durchführung einer Sonderprüfung und auf Wahl einer Revisionsstelle infolge eines Begehrens eines Aktionärs.[^700-2]
+In der Einberufung sind bekanntzugeben:
 
-<sup>4</sup> Zur Stellung von Anträgen im Rahmen der Verhandlungsgegenstände und zu Verhandlungen ohne Beschlussfassung bedarf es keiner vorgängigen Ankündigung.
+- 1\. das Datum, der Beginn, die Art und der Ort der Generalversammlung;
+- 2\. die Verhandlungsgegenstände;
+- 3\. die Anträge des Verwaltungsrats und bei Gesellschaften, deren Aktien an einer Börse kotiert sind, eine kurze Begründung dieser Anträge;
+- 4\. gegebenenfalls die Anträge der Aktionäre samt kurzer Begründung;
+- 5\. gegebenenfalls der Name und die Adresse des unabhängigen Stimmrechtsvertreters.
 
-[^700-1]: Fassung gemäss Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-[^700-2]: Fassung gemäss Ziff. I 3 des BG vom 16. Dez. 2005 (GmbH-Recht sowie Anpassungen im Aktien-, Genossenschafts-, Handelsregister- und Firmenrecht), in Kraft seit 1. Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); BBl **200****2** 3148, **2004** 3969).
+<sup>3</sup> Der Verwaltungsrat stellt sicher, dass die Verhandlungsgegenstände die Einheit der Materie wahren, und legt der Generalversammlung alle Informationen vor, die für ihre Beschlussfassung notwendig sind.
 
-### 3. Universalversammlung
+<sup>4</sup> Er darf die Verhandlungsgegenstände in der Einberufung summarisch darstellen, sofern er den Aktionären weiterführende Informationen auf anderem Weg zugänglich macht.
+
+[^700-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### 5. Universalversammlung und Zustimmung zu einem Antrag
 
 #### Art. 701
 
-<sup>1</sup> Die Eigentümer oder Vertreter sämtlicher Aktien können, falls kein Widerspruch erhoben wird, eine Generalversammlung ohne Einhaltung der für die Einberufung vorgeschriebenen Formvorschriften abhalten.
+[^701-1]
 
-<sup>2</sup> In dieser Versammlung kann über alle in den Geschäftskreis der Generalversammlung fallenden Gegenstände gültig verhandelt und Beschluss gefasst werden, solange die Eigentümer oder Vertreter sämtlicher Aktien anwesend sind.
+<sup>1</sup> Die Eigentümer oder Vertreter sämtlicher Aktien können, falls kein Widerspruch erhoben wird, eine Generalversammlung ohne Einhaltung der für die Einberufung geltenden Vorschriften abhalten.
+
+<sup>2</sup> In dieser Versammlung kann über alle in den Geschäftskreis der Generalversammlung fallenden Gegenstände gültig verhandelt und Beschluss gefasst werden, solange die Eigentümer oder Vertreter sämtlicher Aktien daran teilnehmen.
+
+<sup>3</sup> Eine Generalversammlung kann ebenfalls ohne Einhaltung der für die Einberufung geltenden Vorschriften abgehalten werden, wenn die Beschlüsse auf schriftlichem Weg auf Papier oder in elektronischer Form erfolgen, sofern nicht ein Aktionär oder dessen Vertreter die mündliche Beratung verlangt.
+
+[^701-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### 6. Tagungsort
+
+### a. Im Allgemeinen
+
+#### Art. 701a
+
+[^701a-1]
+
+<sup>1</sup> Der Verwaltungsrat bestimmt den Tagungsort der Generalversammlung.
+
+<sup>2</sup> Durch die Festlegung des Tagungsortes darf für keinen Aktionär die Ausübung seiner Rechte im Zusammenhang mit der Generalversammlung in unsachlicher Weise erschwert werden.
+
+<sup>3</sup> Die Generalversammlung kann an verschiedenen Orten gleichzeitig durchgeführt werden. Die Voten der Teilnehmer müssen in diesem Fall unmittelbar in Bild und Ton an sämtliche Tagungsorte übertragen werden.
+
+[^701a-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### b. Ausländischer Tagungsort
+
+#### Art. 701b
+
+[^701b-1]
+
+<sup>1</sup> Die Generalversammlung kann im Ausland durchgeführt werden, wenn die Statuten dies vorsehen und der Verwaltungsrat in der Einberufung einen unabhängigen Stimmrechtsvertreter bezeichnet.
+
+<sup>2</sup> Bei Gesellschaften, deren Aktien nicht an einer Börse kotiert sind, kann der Verwaltungsrat auf die Bezeichnung eines unabhängigen Stimmrechtsvertreters verzichten, sofern alle Aktionäre damit einverstanden sind.
+
+[^701b-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### 7. Verwendung elektronischer Mittel
+
+### a. Ausübung der Aktionärsrechte
+
+#### Art. 701c
+
+[^701c-1]
+
+Der Verwaltungsrat kann vorsehen, dass Aktionäre, die nicht am Ort der Generalversammlung anwesend sind, ihre Rechte auf elektronischem Weg ausüben können.
+
+[^701c-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### b. Virtuelle Generalversammlung
+
+#### Art 701d
+
+[^701d-1]
+
+<sup>1</sup> Eine Generalversammlung kann mit elektronischen Mitteln ohne Tagungsort durchgeführt werden, wenn die Statuten dies vorsehen und der Verwaltungsrat in der Einberufung einen unabhängigen Stimmrechtsvertreter bezeichnet.
+
+<sup>2</sup> Bei Gesellschaften, deren Aktien nicht an einer Börse kotiert sind, können die Statuten vorsehen, dass auf die Bezeichnung eines unabhängigen Stimmrechtsvertreters verzichtet werden kann.
+
+[^701d-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### c. Voraussetzungen für die Verwendung elektronischer Mittel
+
+#### Art. 701e
+
+[^701e-1]
+
+<sup>1</sup> Der Verwaltungsrat regelt die Verwendung elektronischer Mittel.
+
+<sup>2</sup>
+
+Er stellt sicher, dass:
+
+- 1\. die Identität der Teilnehmer feststeht;
+- 2\. die Voten in der Generalversammlung unmittelbar übertragen werden;
+- 3\. jeder Teilnehmer Anträge stellen und sich an der Diskussion beteiligen kann;
+- 4\. das Abstimmungsergebnis nicht verfälscht werden kann.
+
+[^701e-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### d. Technische Probleme
+
+#### Art. 701f
+
+[^701f-1]
+
+<sup>1</sup> Treten während der Generalversammlung technische Probleme auf, sodass die Generalversammlung nicht ordnungsgemäss durchgeführt werden kann, so muss sie wiederholt werden.
+
+<sup>2</sup> Beschlüsse, welche die Generalversammlung vor dem Auftreten der technischen Probleme gefasst hat, bleiben gültig.
+
+[^701f-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### III. Vorbereitende Massnahmen; Protokoll
 
@@ -10666,36 +11207,50 @@ Ihr stehen folgende unübertragbare Befugnisse zu:
 
 Er sorgt für die Führung des Protokolls. Dieses hält fest:
 
-- 1\. Anzahl, Art, Nennwert und Kategorie der Aktien, die von den Aktionären, von den Organen, von unabhängigen Stimmrechtsvertretern und von Depotvertretern vertreten werden;
-- 2\. die Beschlüsse und die Wahlergebnisse;
-- 3\. die Begehren um Auskunft und die darauf erteilten Antworten;
-- 4\. die von den Aktionären zu Protokoll gegebenen Erklärungen.
+- 1\. das Datum, den Beginn und das Ende sowie die Art und den Ort der Generalversammlung;
+- 2\. die Anzahl, die Art, den Nennwert und die Kategorie der vertretenen Aktien, unter Angabe der Aktien, die vom unabhängigen Stimmrechtsvertreter, von den Organstimmrechtsvertretern oder von Depotvertretern vertreten werden;
+- 3\. die Beschlüsse und die Wahlergebnisse;
+- 4\. die in der Generalversammlung gestellten Begehren um Auskunft und die darauf erteilten Antworten;
+- 5\. die von den Aktionären zu Protokoll gegebenen Erklärungen;
+- 6\. relevante technische Probleme, die bei der Durchführung der Generalversammlung auftreten.[^702-2]
 
-<sup>3</sup> Die Aktionäre sind berechtigt, das Protokoll einzusehen.
+<sup>3</sup> Das Protokoll muss vom Protokollführer und vom Vorsitzenden der Generalversammlung unterzeichnet werden.[^702-3]
+
+<sup>4</sup> Jeder Aktionär kann verlangen, dass ihm das Protokoll innerhalb von 30 Tagen nach der Generalversammlung zugänglich gemacht wird.[^702-4]
+
+<sup>5</sup> Bei Gesellschaften, deren Aktien an einer Börse kotiert sind, sind die Beschlüsse und die Wahlergebnisse unter Angabe der genauen Stimmenverhältnisse innerhalb von 15 Tagen nach der Generalversammlung auf elektronischem Weg zugänglich zu machen.[^702-5]
 
 [^702-1]: Fassung gemäss Ziff. I des BG vom 4. Okt. 1991. in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^702-2]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^702-3]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^702-4]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^702-5]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-### IV. Teilnahme der Mitglieder des Verwaltungsrates
+### IV. Äusserungsrecht der Mitglieder des Verwaltungsrats und der Geschäftsleitung; Antragsrecht des Verwaltungsrats
 
 #### Art. 702a
 
 [^702a-1]
 
-Die Mitglieder des Verwaltungsrates sind berechtigt, an der Generalversammlung teilzunehmen. Sie können Anträge stellen.
+<sup>1</sup> Nehmen die Mitglieder des Verwaltungsrats oder der Geschäftsleitung an der Generalversammlung teil, so dürfen sie sich zu jedem Verhandlungsgegenstand äussern.
 
-[^702a-1]: Eingefügt durch Ziff. I 3 des BG vom 16. Dez. 2005 (GmbH-Recht sowie Anpassungen im Aktien-, Genossenschafts-, Handelsregister- und Firmenrecht), in Kraft seit 1. Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+<sup>2</sup> Der Verwaltungsrat kann zu jedem Verhandlungsgegenstand Anträge stellen.
+
+[^702a-1]: Eingefügt durch Ziff. I 3 des BG vom 16. Dez. 2005 (GmbH-Recht sowie Anpassungen im Aktien-, Genossenschafts-, Handelsregister- und Firmenrecht) ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)). Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### V. Beschlussfassung und Wahlen
 
 ### 1. Im Allgemeinen
 
-[^part3-tit26-chap3-lvlA-lvlV-lvl1-1]
-
-[^part3-tit26-chap3-lvlA-lvlV-lvl1-1]: Fassung gemäss Ziff. I 3 des BG vom 16. Dez. 2005 (GmbH-Recht sowie Anpassungen im Aktien-, Genossenschafts-, Handelsregister- und Firmenrecht), in Kraft seit 1. Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
-
 #### Art. 703
 
-Die Generalversammlung fasst ihre Beschlüsse und vollzieht ihre Wahlen, soweit das Gesetz oder die Statuten es nicht anders bestimmen, mit der absoluten Mehrheit der vertretenen Aktienstimmen.
+[^703-1]
+
+<sup>1</sup> Die Generalversammlung fasst ihre Beschlüsse und vollzieht ihre Wahlen, soweit das Gesetz oder die Statuten es nicht anders bestimmen, mit der Mehrheit der vertretenen Aktienstimmen.
+
+<sup>2</sup> Die Statuten können für den Fall von Stimmengleichheit vorsehen, dass der Vorsitzende den Stichentscheid hat.
+
+[^703-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 2. Wichtige Beschlüsse
 
@@ -10705,25 +11260,33 @@ Die Generalversammlung fasst ihre Beschlüsse und vollzieht ihre Wahlen, soweit 
 
 <sup>1</sup>
 
-Ein Beschluss der Generalversammlung, der mindestens zwei Drittel der vertretenen Stimmen und die absolute Mehrheit der vertretenen Aktiennennwerte auf sich vereinigt, ist erforderlich für:
+Ein Beschluss der Generalversammlung, der mindestens zwei Drittel der vertretenen Stimmen und die Mehrheit der vertretenen Aktiennennwerte auf sich vereinigt, ist erforderlich für:
 
-- 1\. die Änderung des Gesellschaftszweckes;
-- 2\. die Einführung von Stimmrechtsaktien;
-- 3\. die Beschränkung der Übertragbarkeit von Namenaktien;
-- 4\.[^704-2] eine genehmigte oder eine bedingte Kapitalerhöhung oder die Schaffung von Vorratskapital gemäss Artikel 12 des Bankengesetzes vom 8. November 1934[^704-3];
-- 5\. die Kapitalerhöhung aus Eigenkapital, gegen Sacheinlage oder zwecks Sachübernahme und die Gewährung von besonderen Vorteilen;
-- 6\. die Einschränkung oder Aufhebung des Bezugsrechtes;
-- 7\. die Verlegung des Sitzes der Gesellschaft;
-- 8\.[^704-4] die Auflösung der Gesellschaft.
+- 1\. die Änderung des Gesellschaftszwecks;
+- 2\. die Zusammenlegung von Aktien, soweit dafür nicht die Zustimmung aller betroffenen Aktionäre erforderlich ist;
+- 3\. die Kapitalerhöhung aus Eigenkapital, gegen Sacheinlagen oder durch Verrechnung mit einer Forderung und die Gewährung von besonderen Vorteilen;
+- 4\. die Einschränkung oder Aufhebung des Bezugsrechts;
+- 5\. die Einführung eines bedingten Kapitals, die Einführung eines Kapitalbands oder die Schaffung von Vorratskapital gemäss Artikel 12 des Bankengesetzes vom 8. November 1934[^704-2];
+- 6\. die Umwandlung von Partizipationsscheinen in Aktien;
+- 7\. die Beschränkung der Übertragbarkeit von Namenaktien;
+- 8\. die Einführung von Stimmrechtsaktien;
+- 9\. den Wechsel der Währung des Aktienkapitals;
+- 10\. die Einführung des Stichentscheids des Vorsitzenden in der Generalversammlung;
+- 11\. eine Statutenbestimmung zur Durchführung der Generalversammlung im Ausland;
+- 12\. die Dekotierung der Beteiligungspapiere der Gesellschaft;
+- 13\. die Verlegung des Sitzes der Gesellschaft;
+- 14\. die Einführung einer statutarischen Schiedsklausel;
+- 15\. der Verzicht auf die Bezeichnung eines unabhängigen Stimmrechtsvertreters für die Durchführung einer virtuellen Generalversammlung bei Gesellschaften, deren Aktien nicht an einer Börse kotiert sind;
+- 16\. die Auflösung der Gesellschaft.[^704-3]
 
-<sup>2</sup> Statutenbestimmungen, die für die Fassung bestimmter Beschlüsse grössere Mehrheiten als die vom Gesetz vorgeschriebenen festlegen, können nur mit dem vorgesehenen Mehr eingeführt werden.
+<sup>2</sup> Statutenbestimmungen, die für die Fassung bestimmter Beschlüsse grössere Mehrheiten als die vom Gesetz vorgeschriebenen festlegen, können nur mit dem vorgesehenen Mehr eingeführt, geändert oder aufgehoben werden.[^704-4]
 
 <sup>3</sup> Namenaktionäre, die einem Beschluss über die Zweckänderung oder die Einführung von Stimmrechtsaktien nicht zugestimmt haben, sind während sechs Monaten nach dessen Veröffentlichung im Schweizerischen Handelsamtsblatt an statutarische Beschränkungen der Übertragbarkeit der Aktien nicht gebunden.
 
-[^704-1]: Fassung gemäss Ziff. I des BG vom 4. Okt. 1991. in Kraft seit 1. Juli 1992 (AS **1****992** 733; [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-[^704-2]: Fassung gemäss Anhang Ziff. 1 des BG vom 30. Sept. 2011 (Stärkung der Stabilität im Finanzsektor), in Kraft seit 1. März 2012 ([AS 2012 811](https://fedlex.data.admin.ch/eli/oc/2012/126); [BBl 2011 4717](https://fedlex.data.admin.ch/eli/fga/2011/762)).
-[^704-3]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^704-4]: Fassung gemäss Ziff. I 3 des BG vom 16. Dez. 2005 (GmbH-Recht sowie Anpassungen im Aktien-, Genossenschafts-, Handelsregister- und Firmenrecht), in Kraft seit 1. Jan. 2008 (AS **2****007** 4791; [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^704-1]: Fassung gemäss Ziff. I des BG vom 4. Okt. 1991. in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^704-2]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^704-3]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^704-4]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 3. Umwandlung von Inhaber- in Namenaktien
 
@@ -10735,17 +11298,29 @@ Der Beschluss der Generalversammlung über die Umwandlung von Inhaberaktien in N
 
 [^704a-1]: Eingefügt durch Ziff. I 2 des BG vom 12. Dez. 2014 zur Umsetzung der 2012 revidierten Empfehlungen der Groupe d’action financière, in Kraft seit 1. Juli 2015 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
 
-### VI. Abberufung des Verwaltungsrates und der Revisionsstelle
+### 4. Ankündigung der Verhandlungsgegenstände
+
+#### Art. 704b
+
+[^704b-1]
+
+Über Anträge zu nicht gehörig angekündigten Verhandlungsgegenständen können keine Beschlüsse gefasst werden; ausgenommen sind Anträge auf Einberufung einer ausserordentlichen Generalversammlung, auf Durchführung einer Sonderuntersuchung und auf Wahl einer Revisionsstelle.
+
+[^704b-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### VI. Abberufungsrecht
 
 [^part3-tit26-chap3-lvlA-lvlVI-1]
 
-[^part3-tit26-chap3-lvlA-lvlVI-1]: Fassung gemäss Ziff. I 3 des BG vom 16. Dez. 2005 (GmbH-Recht sowie Anpassungen im Aktien-, Genossenschafts-, Handelsregister- und Firmenrecht), in Kraft seit 1. Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^part3-tit26-chap3-lvlA-lvlVI-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 705
 
-<sup>1</sup> Die Generalversammlung ist berechtigt, die Mitglieder des Verwaltungsrates und der Revisionsstelle sowie allfällige von ihr gewählte Bevollmächtigte und Beauftragte abzuberufen.
+<sup>1</sup> Die Generalversammlung kann alle Personen, die sie gewählt hat, abberufen.[^705-1]
 
 <sup>2</sup> Entschädigungsansprüche der Abberufenen bleiben vorbehalten.
+
+[^705-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### VII. Anfechtung von Generalversammlungsbeschlüssen
 
@@ -10808,7 +11383,7 @@ Nichtig sind insbesondere Beschlüsse der Generalversammlung, die:
 
 [^706b-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 
-### B. Der Verwaltungsrat****
+### B. Der Verwaltungsrat
 
 [^part3-tit26-chap3-lvlB-1]
 
@@ -10857,19 +11432,17 @@ Nichtig sind insbesondere Beschlüsse der Generalversammlung, die:
 
 ### 3. Amtsdauer
 
-[^part3-tit26-chap3-lvlB-lvlI-lvl3-1]
-
-[^part3-tit26-chap3-lvlB-lvlI-lvl3-1]: Fassung gemäss Ziff. I 3 des BG vom 16. Dez. 2005 (GmbH-Recht sowie Anpassungen im Aktien-, Genossenschafts-, Handelsregister- und Firmenrecht), in Kraft seit 1. Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
-
 #### Art. 710
 
 [^710-1]
 
-<sup>1</sup> Die Mitglieder des Verwaltungsrates werden auf drei Jahre gewählt, sofern die Statuten nichts anderes bestimmen. Die Amtsdauer darf jedoch sechs Jahre nicht übersteigen.
+<sup>1</sup> Die Amtsdauer der Mitglieder des Verwaltungsrats von Gesellschaften, deren Aktien an einer Börse kotiert sind, endet spätestens mit dem Abschluss der nächsten ordentlichen Generalversammlung. Die Mitglieder werden einzeln gewählt.
 
-<sup>2</sup> Wiederwahl ist möglich.
+<sup>2</sup> Bei Gesellschaften, deren Aktien nicht an einer Börse kotiert sind, beträgt die Amtsdauer drei Jahre, sofern die Statuten nichts anderes bestimmen; die Amtsdauer darf jedoch sechs Jahre nicht übersteigen. Die Mitglieder werden einzeln gewählt, es sei denn, die Statuten sehen es anders vor oder der Vorsitzende der Generalversammlung ordnet es mit Zustimmung aller vertretenen Aktionäre anders an.
 
-[^710-1]: Fassung gemäss Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+<sup>3</sup> Wiederwahl ist möglich.
+
+[^710-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 711
 
@@ -10879,17 +11452,21 @@ Nichtig sind insbesondere Beschlüsse der Generalversammlung, die:
 
 ### II. Organisation
 
-### 1. Präsident und Sekretär
+### 1. Präsident
 
 #### Art. 712
 
 [^712-1]
 
-<sup>1</sup> Der Verwaltungsrat bezeichnet seinen Präsidenten und den Sekretär. Dieser muss dem Verwaltungsrat nicht angehören.
+<sup>1</sup> Bei Gesellschaften, deren Aktien an einer Börse kotiert sind, wählt die Generalversammlung eines der Mitglieder des Verwaltungsrats zum Präsidenten. Dessen Amtsdauer endet spätestens mit dem Abschluss der nächsten ordentlichen Generalversammlung.
 
-<sup>2</sup> Die Statuten können bestimmen, dass der Präsident durch die Generalversammlung gewählt wird.
+<sup>2</sup> Bei Gesellschaften, deren Aktien nicht an einer Börse kotiert sind, wählt der Verwaltungsrat eines seiner Mitglieder zum Präsidenten. Die Statuten können bestimmen, dass der Präsident durch die Generalversammlung gewählt wird.
 
-[^712-1]: Fassung gemäss Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+<sup>3</sup> Wiederwahl ist möglich.
+
+<sup>4</sup> Ist das Amt des Präsidenten vakant, so ernennt der Verwaltungsrat für die verbleibende Amtsdauer einen neuen Präsidenten. Die Statuten können andere Regeln zur Behebung dieses Organisationsmangels vorsehen.
+
+[^712-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 2. Beschlüsse
 
@@ -10899,11 +11476,19 @@ Nichtig sind insbesondere Beschlüsse der Generalversammlung, die:
 
 <sup>1</sup> Die Beschlüsse des Verwaltungsrates werden mit der Mehrheit der abgegebenen Stimmen gefasst. Der Vorsitzende hat den Stichentscheid, sofern die Statuten nichts anderes vorsehen.
 
-<sup>2</sup> Beschlüsse können auch auf dem Wege der schriftlichen Zustimmung zu einem gestellten Antrag gefasst werden, sofern nicht ein Mitglied die mündliche Beratung verlangt.
+<sup>2</sup>
 
-<sup>3</sup> Über die Verhandlungen und Beschlüsse ist ein Protokoll zu führen, das vom Vorsitzenden und vom Sekretär unterzeichnet wird.
+Der Verwaltungsrat kann seine Beschlüsse fassen:
+
+- 1\. an einer Sitzung mit Tagungsort;
+- 2\. unter Verwendung elektronischer Mittel, in sinngemässer Anwendung der Artikel 701*c*–701*e*;
+- 3\. auf schriftlichem Weg auf Papier oder in elektronischer Form, sofern nicht ein Mitglied die mündliche Beratung verlangt. Im Fall der Beschlussfassung auf elektronischem Weg ist keine Unterschrift erforderlich; vorbehalten bleibt eine anderslautende, schriftliche Festlegung des Verwaltungsrats.[^713-2]
+
+<sup>3</sup> Über die Verhandlungen und Beschlüsse ist ein Protokoll zu führen; dieses wird vom Vorsitzenden und vom Protokollführer unterzeichnet.[^713-3]
 
 [^713-1]: Fassung gemäss Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^713-2]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^713-3]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 3. Nichtige Beschlüsse
 
@@ -10975,12 +11560,15 @@ Der Verwaltungsrat hat folgende unübertragbare und unentziehbare Aufgaben:
 - 4\. die Ernennung und Abberufung der mit der Geschäftsführung und der Vertretung betrauten Personen;
 - 5\. die Oberaufsicht über die mit der Geschäftsführung betrauten Personen, namentlich im Hinblick auf die Befolgung der Gesetze, Statuten, Reglemente und Weisungen;
 - 6\. die Erstellung des Geschäftsberichtes[^716a-2] sowie die Vorbereitung der Generalversammlung und die Ausführung ihrer Beschlüsse;
-- 7\. die Benachrichtigung des Gerichts im Falle der Überschuldung.
+- 7\.[^716a-3] die Einreichung eines Gesuchs um Nachlassstundung und die Benachrichtigung des Gerichts im Falle der Überschuldung;
+- 8\.[^716a-4] bei Gesellschaften, deren Aktien an einer Börse kotiert sind: die Erstellung des Vergütungsberichts.
 
 <sup>2</sup> Der Verwaltungsrat kann die Vorbereitung und die Ausführung seiner Beschlüsse oder die Überwachung von Geschäften Ausschüssen oder einzelnen Mitgliedern zuweisen. Er hat für eine angemessene Berichterstattung an seine Mitglieder zu sorgen.
 
 [^716a-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 [^716a-2]: Berichtigt von der Redaktionskommission der BVers [Art. 33 GVG – [AS 1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)].
+[^716a-3]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^716a-4]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 3. Übertragung der Geschäftsführung
 
@@ -10988,15 +11576,25 @@ Der Verwaltungsrat hat folgende unübertragbare und unentziehbare Aufgaben:
 
 [^716b-1]
 
-<sup>1</sup> Die Statuten können den Verwaltungsrat ermächtigen, die Geschäftsführung nach Massgabe eines Organisationsreglementes ganz oder zum Teil an einzelne Mitglieder oder an Dritte zu übertragen.
+<sup>1</sup> Sehen die Statuten nichts anderes vor, so kann der Verwaltungsrat die Geschäftsführung nach Massgabe eines Organisationsreglements ganz oder zum Teil einzelnen Mitgliedern oder Dritten übertragen (Geschäftsleitung).
 
-<sup>2</sup> Dieses Reglement ordnet die Geschäftsführung, bestimmt die hierfür erforderlichen Stellen, umschreibt deren Aufgaben und regelt insbesondere die Berichterstattung. Der Verwaltungsrat orientiert Aktionäre und Gesellschaftsgläubiger, die ein schutzwürdiges Interesse glaubhaft machen, auf Anfrage hin schriftlich über die Organisation der Geschäftsführung.
+<sup>2</sup> Bei Gesellschaften, deren Aktien an einer Börse kotiert sind, kann die Geschäftsführung einzelnen Mitgliedern des Verwaltungsrats oder anderen natürlichen Personen übertragen werden. Die Vermögensverwaltung kann auch juristischen Personen übertragen werden.
 
-<sup>3</sup> Soweit die Geschäftsführung nicht übertragen worden ist, steht sie allen Mitgliedern des Verwaltungsrates gesamthaft zu.
+<sup>3</sup> Das Organisationsreglement ordnet die Geschäftsführung, bestimmt die hierfür erforderlichen Stellen, umschreibt deren Aufgaben und regelt insbesondere die Berichterstattung.
 
-[^716b-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733), [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+<sup>4</sup> Der Verwaltungsrat orientiert Aktionäre und Gesellschaftsgläubiger, die ein schutzwürdiges Interesse glaubhaft machen, auf Anfrage hin schriftlich oder in elektronischer Form über die Organisation der Geschäftsführung.
+
+<sup>5</sup> Soweit die Geschäftsführung nicht übertragen worden ist, steht sie allen Mitgliedern des Verwaltungsrates gesamthaft zu.
+
+[^716b-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1991 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733), [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### IV. Sorgfalts- und Treuepflicht
+
+### 1. Im Allgemeinen
+
+[^part3-tit26-chap3-lvlB-lvlIV-lvl1-1]
+
+[^part3-tit26-chap3-lvlB-lvlIV-lvl1-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 717
 
@@ -11007,6 +11605,18 @@ Der Verwaltungsrat hat folgende unübertragbare und unentziehbare Aufgaben:
 <sup>2</sup> Sie haben die Aktionäre unter gleichen Voraussetzungen gleich zu behandeln.
 
 [^717-1]: Fassung gemäss Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+
+### 2. Interessenkonflikte
+
+#### Art. 717a
+
+[^717a-1]
+
+<sup>1</sup> Die Mitglieder des Verwaltungsrats und der Geschäftsleitung informieren den Verwaltungsrat unverzüglich und vollständig über sie betreffende Interessenkonflikte.
+
+<sup>2</sup> Der Verwaltungsrat ergreift die Massnahmen, die zur Wahrung der Interessen der Gesellschaft nötig sind.
+
+[^717a-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### V. Vertretung
 
@@ -11053,27 +11663,23 @@ Wird die Gesellschaft beim Abschluss eines Vertrages durch diejenige Person vert
 
 [^part3-tit26-chap3-lvlB-lvlV-lvl4-1]
 
-[^part3-tit26-chap3-lvlB-lvlV-lvl4-1]: Fassung gemäss Ziff. I 3 des BG vom 16. Dez. 2005 (GmbH-Recht sowie Anpassungen im Aktien-, Genossenschafts-, Handelsregister- und Firmenrecht), in Kraft seit 1. Jan. 2008 (AS **2****007** 4791; [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^part3-tit26-chap3-lvlB-lvlV-lvl4-1]: Fassung gemäss Ziff. I 3 des BG vom 16. Dez. 2005 (GmbH-Recht sowie Anpassungen im Aktien-, Genossenschafts-, Handelsregister- und Firmenrecht), in Kraft seit 1. Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 
 #### Art. 719
 
 Die zur Vertretung der Gesellschaft befugten Personen haben in der Weise zu zeichnen, dass sie der Firma der Gesellschaft ihre Unterschrift beifügen.
 
-### 5. Eintragung
+#### Art. 720
+
+[^720-1]
+
+[^720-1]: Aufgehoben durch Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), mit Wirkung seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### 5. Prokuristen und Bevollmächtigte
 
 [^part3-tit26-chap3-lvlB-lvlV-lvl5-1]
 
-[^part3-tit26-chap3-lvlB-lvlV-lvl5-1]: Fassung gemäss Ziff. I 3 des BG vom 16. Dez. 2005 (GmbH-Recht sowie Anpassungen im Aktien-, Genossenschafts-, Handelsregister- und Firmenrecht), in Kraft seit 1. Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
-
-#### Art. 720
-
-Die zur Vertretung der Gesellschaft befugten Personen sind vom Verwaltungsrat zur Eintragung in das Handelsregister anzumelden, unter Vorlegung einer beglaubigten Abschrift des Beschlusses. Sie haben ihre Unterschrift beim Handelsregisteramt zu zeichnen oder die Zeichnung in beglaubigter Form einzureichen.
-
-### 6. Prokuristen und Bevollmächtigte
-
-[^part3-tit26-chap3-lvlB-lvlV-lvl6-1]
-
-[^part3-tit26-chap3-lvlB-lvlV-lvl6-1]: Fassung gemäss Ziff. I 3 des BG vom 16. Dez. 2005 (GmbH-Recht sowie Anpassungen im Aktien-, Genossenschafts-, Handelsregister- und Firmenrecht), in Kraft seit 1. Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^part3-tit26-chap3-lvlB-lvlV-lvl5-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 721
 
@@ -11083,11 +11689,11 @@ Der Verwaltungsrat kann Prokuristen und andere Bevollmächtigte ernennen.
 
 [^721-1]: Fassung gemäss Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 
-### VI. Haftung der Organe
+### VI. Haftung für Organe
 
 [^part3-tit26-chap3-lvlB-lvlVI-1]
 
-[^part3-tit26-chap3-lvlB-lvlVI-1]: Fassung gemäss Ziff. I 3 des BG vom 16. Dez. 2005 (GmbH-Recht sowie Anpassungen im Aktien-, Genossenschafts-, Handelsregister- und Firmenrecht), in Kraft seit 1. Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^part3-tit26-chap3-lvlB-lvlVI-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 722
 
@@ -11103,37 +11709,77 @@ Die Gesellschaft haftet für den Schaden aus unerlaubten Handlungen, die eine zu
 
 [^723724-1]: Aufgehoben durch Ziff. I des BG vom 4. Okt. 1991, mit Wirkung seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 
-### VII. Kapitalverlust und Überschuldung
+### VII. Drohende Zahlungsunfähigkeit, Kapitalverlust und Überschuldung
 
-### 1. Anzeigepflichten
+### 1. Drohende Zahlungsunfähigkeit
 
 #### Art. 725
 
 [^725-1]
 
-<sup>1</sup> Zeigt die letzte Jahresbilanz, dass die Hälfte des Aktienkapitals und der gesetzlichen Reserven nicht mehr gedeckt ist, so beruft der Verwaltungsrat unverzüglich eine Generalversammlung ein und beantragt ihr Sanierungsmassnahmen.
+<sup>1</sup> Der Verwaltungsrat überwacht die Zahlungsfähigkeit der Gesellschaft.
 
-<sup>2</sup> Wenn begründete Besorgnis einer Überschuldung besteht, muss eine Zwischenbilanz erstellt und diese einem zugelassenen Revisor zur Prüfung vorgelegt werden.[^725-2] Ergibt sich aus der Zwischenbilanz, dass die Forderungen der Gesellschaftsgläubiger weder zu Fortführungs- noch zu Veräusserungswerten gedeckt sind, so hat der Verwaltungsrat das Gericht zu benachrichtigen, sofern nicht Gesellschaftsgläubiger im Ausmass dieser Unterdeckung im Rang hinter alle anderen Gesellschaftsgläubiger zurücktreten.
+<sup>2</sup> Droht die Gesellschaft zahlungsunfähig zu werden, so ergreift der Verwaltungsrat Massnahmen zur Sicherstellung der Zahlungsfähigkeit. Er trifft, soweit erforderlich, weitere Massnahmen zur Sanierung der Gesellschaft oder beantragt der Generalversammlung solche, soweit sie in deren Zuständigkeit fallen. Er reicht nötigenfalls ein Gesuch um Nachlassstundung ein.
 
-<sup>3</sup> Verfügt die Gesellschaft über keine Revisionsstelle, so obliegen dem zugelassenen Revisor die Anzeigepflichten der eingeschränkt prüfenden Revisionsstelle.[^725-3]
+<sup>3</sup> Der Verwaltungsrat handelt mit der gebotenen Eile.
 
-[^725-1]: Fassung gemäss Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-[^725-2]: Fassung gemäss Ziff. I 3 des BG vom 16. Dez. 2005 (GmbH-Recht sowie Anpassungen im Aktien-, Genossenschafts-, Handelsregister- und Firmenrecht), in Kraft seit 1. Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
-[^725-3]: Eingefügt durch Ziff. I 3 des BG vom 16. Dez. 2005 (GmbH-Recht sowie Anpassungen im Aktien-, Genossenschafts-, Handelsregister- und Firmenrecht), in Kraft seit 1. Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^725-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-### 2. Eröffnung oder Aufschub des Konkurses
+### 2. Kapitalverlust
 
 #### Art. 725a
 
 [^725a-1]
 
-<sup>1</sup> Das Gericht eröffnet auf die Benachrichtigung hin den Konkurs. Es kann ihn auf Antrag des Verwaltungsrates oder eines Gläubigers aufschieben, falls Aussicht auf Sanierung besteht; in diesem Falle trifft es Massnahmen zur Erhaltung des Vermögens.
+<sup>1</sup> Zeigt die letzte Jahresrechnung, dass die Aktiven abzüglich der Verbindlichkeiten die Hälfte der Summe aus Aktienkapital, nicht an die Aktionäre zurückzahlbarer gesetzlicher Kapitalreserve und gesetzlicher Gewinnreserve nicht mehr decken, so ergreift der Verwaltungsrat Massnahmen zur Beseitigung des Kapitalverlusts. Er trifft, soweit erforderlich, weitere Massnahmen zur Sanierung der Gesellschaft oder beantragt der Generalversammlung solche, soweit sie in deren Zuständigkeit fallen.
 
-<sup>2</sup> Das Gericht kann einen Sachwalter bestellen und entweder dem Verwaltungsrat die Verfügungsbefugnis entziehen oder dessen Beschlüsse von der Zustimmung des Sachwalters abhängig machen. Es umschreibt die Aufgaben des Sachwalters.
+<sup>2</sup> Hat die Gesellschaft keine Revisionsstelle, so muss die letzte Jahresrechnung vor ihrer Genehmigung durch die Generalversammlung überdies einer eingeschränkten Revision durch einen zugelassenen Revisor unterzogen werden. Der Verwaltungsrat ernennt den zugelassenen Revisor.
 
-<sup>3</sup> Der Konkursaufschub muss nur veröffentlicht werden, wenn dies zum Schutze Dritter erforderlich ist.
+<sup>3</sup> Die Revisionspflicht nach Absatz 2 entfällt, wenn der Verwaltungsrat ein Gesuch um Nachlassstundung einreicht.
 
-[^725a-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+<sup>4</sup> Der Verwaltungsrat und die Revisionsstelle oder der zugelassene Revisor handeln mit der gebotenen Eile.
+
+[^725a-1]: Eingefügt durch Ziff. I des BG vom 4. Okt. 1991 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### 3. Überschuldung
+
+#### Art. 725b
+
+[^725b-1]
+
+<sup>1</sup> Besteht begründete Besorgnis, dass die Verbindlichkeiten der Gesellschaft nicht mehr durch die Aktiven gedeckt sind, so erstellt der Verwaltungsrat unverzüglich je einen Zwischenabschluss zu Fortführungswerten und Veräusserungswerten. Auf den Zwischenabschluss zu Veräusserungswerten kann verzichtet werden, wenn die Annahme der Fortführung gegeben ist und der Zwischenabschluss zu Fortführungswerten keine Überschuldung aufweist. Ist die Annahme der Fortführung nicht gegeben, so genügt ein Zwischenabschluss zu Veräusserungswerten.
+
+<sup>2</sup> Der Verwaltungsrat lässt die Zwischenabschlüsse durch die Revisionsstelle oder, wenn eine solche fehlt, durch einen zugelassenen Revisor prüfen; er ernennt den zugelassenen Revisor.
+
+<sup>3</sup> Ist die Gesellschaft gemäss den beiden Zwischenabschlüssen überschuldet, so benachrichtigt der Verwaltungsrat das Gericht. Dieses eröffnet den Konkurs oder verfährt nach Artikel 173*a* des Bundesgesetzes vom 11. April 1889[^725b-2] über Schuldbetreibung und Konkurs.
+
+<sup>4</sup>
+
+Die Benachrichtigung des Gerichts kann unterbleiben:
+
+- 1\. wenn Gesellschaftsgläubiger im Ausmass der Überschuldung im Rang hinter alle anderen Gläubiger zurücktreten und ihre Forderungen stunden, sofern der Rangrücktritt den geschuldeten Betrag und die Zinsforderungen während der Dauer der Überschuldung umfasst; oder
+- 2\. solange begründete Aussicht besteht, dass die Überschuldung innert angemessener Frist, spätestens aber 90 Tage nach Vorliegen der geprüften Zwischenabschlüssen, behoben werden kann und dass die Forderungen der Gläubiger nicht zusätzlich gefährdet werden.
+
+<sup>5</sup> Verfügt die Gesellschaft über keine Revisionsstelle, so obliegen dem zugelassenen Revisor die Anzeigepflichten der eingeschränkt prüfenden Revisionsstelle.
+
+<sup>6</sup> Der Verwaltungsrat und die Revisionsstelle oder der zugelassene Revisor handeln mit der gebotenen Eile.
+
+[^725b-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^725b-2]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+
+### 4. Aufwertung von Grundstücken und Beteiligungen
+
+#### Art. 725c
+
+[^725c-1]
+
+<sup>1</sup> Zur Behebung eines Kapitalverlusts nach Artikel 725*a* oder einer Überschuldung nach Artikel 725*b* dürfen Grundstücke und Beteiligungen, deren wirklicher Wert über die Anschaffungs- oder Herstellungskosten gestiegen ist, bis höchstens zu diesem Wert aufgewertet werden. Der Aufwertungsbetrag ist unter der gesetzlichen Gewinnreserve gesondert als Aufwertungsreserve auszuweisen.
+
+<sup>2</sup> Die Aufwertung ist nur zulässig, wenn die Revisionsstelle oder, wenn eine solche fehlt, ein zugelassener Revisor schriftlich bestätigt, dass die gesetzlichen Bestimmungen eingehalten sind.
+
+<sup>3</sup> Die Aufwertungsreserve kann nur durch Umwandlung in Aktien- oder Partizipationskapital sowie durch Wertberichtigung oder Veräusserung der aufgewerteten Aktiven aufgelöst werden.
+
+[^725c-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### VIII. Abberufung und Einstellung
 
@@ -11183,11 +11829,14 @@ Folgende Gesellschaften müssen ihre Jahresrechnung und gegebenenfalls ihre Konz
 
 - 3\. Gesellschaften, die zur Erstellung einer Konzernrechnung verpflichtet sind.
 
+<sup>1bis</sup> Erfolgt die Rechnungslegung nicht in Franken, so ist zur Festlegung der Werte gemäss Absatz 1 Ziffer 2 für die Bilanzsumme der Umrechnungskurs zum Bilanzstichtag und für den Umsatzerlös der Jahresdurchschnittskurs massgebend.[^727-2]
+
 <sup>2</sup> Eine ordentliche Revision muss auch dann vorgenommen werden, wenn Aktionäre, die zusammen mindestens 10 Prozent des Aktienkapitals vertreten, dies verlangen.
 
 <sup>3</sup> Verlangt das Gesetz keine ordentliche Revision der Jahresrechnung, so können die Statuten vorsehen oder kann die Generalversammlung beschliessen, dass die Jahresrechnung ordentlich geprüft wird.
 
 [^727-1]: Fassung gemäss Ziff. I des BG vom 17. Juni 2011 (Revisionsrecht), in Kraft seit 1. Jan. 2012 ([AS 2011 5863](https://fedlex.data.admin.ch/eli/oc/2011/808); [BBl 2008 1589](https://fedlex.data.admin.ch/eli/fga/2008/416)). Siehe auch die UeB dieser Änd. hiernach.
+[^727-2]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 2. Eingeschränkte Revision
 
@@ -11213,7 +11862,7 @@ Folgende Gesellschaften müssen ihre Jahresrechnung und gegebenenfalls ihre Konz
 
 <sup>2</sup> Die übrigen Gesellschaften, die zur ordentlichen Revision verpflichtet sind, müssen als Revisionsstelle einen zugelassenen Revisionsexperten nach den Vorschriften des Revisionsaufsichtsgesetzes vom 16. Dezember 2005 bezeichnen. Sie müssen Prüfungen, die nach den gesetzlichen Vorschriften durch einen zugelassenen Revisor vorzunehmen sind, ebenfalls von einem zugelassenen Revisionsexperten durchführen lassen.
 
-[^727b-1]: SR **221.3****02**
+[^727b-1]: [SR 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
 
 ### 2. Bei eingeschränkter Revision
 
@@ -11249,7 +11898,9 @@ Mit der Unabhängigkeit nicht vereinbar ist insbesondere:
 
 <sup>5</sup> Die Unabhängigkeit ist auch dann nicht gegeben, wenn Personen die Unabhängigkeitsvoraussetzungen nicht erfüllen, die der Revisionsstelle, den an der Revision beteiligten Personen, den Mitgliedern des obersten Leitungs- oder Verwaltungsorgans oder anderen Personen mit Entscheidfunktion nahe stehen.
 
-<sup>6</sup> Die Bestimmungen über die Unabhängigkeit erfassen auch Gesellschaften, die mit der zu prüfenden Gesellschaft oder der Revisionsstelle unter einheitlicher Leitung stehen.
+<sup>6</sup> Die Bestimmungen über die Unabhängigkeit erfassen auch Unternehmen, die durch die Gesellschaft oder die Revisionsstelle kontrolliert werden oder die Gesellschaft oder die Revisionsstelle kontrollieren.[^728-1]
+
+[^728-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 2. Aufgaben der Revisionsstelle
 
@@ -11263,11 +11914,14 @@ Die Revisionsstelle prüft, ob:
 
 - 1\. die Jahresrechnung und gegebenenfalls die Konzernrechnung den gesetzlichen Vorschriften, den Statuten und dem gewählten Regelwerk entsprechen;
 - 2\. der Antrag des Verwaltungsrats an die Generalversammlung über die Verwendung des Bilanzgewinnes den gesetzlichen Vorschriften und den Statuten entspricht;
-- 3\. ein internes Kontrollsystem existiert.
+- 3\. ein internes Kontrollsystem existiert;
+- 4\.[^728a-1] bei Gesellschaften, deren Aktien an einer Börse kotiert sind, der Vergütungsbericht den gesetzlichen Vorschriften und den Statuten entspricht.
 
 <sup>2</sup> Die Revisionsstelle berücksichtigt bei der Durchführung und bei der Festlegung des Umfangs der Prüfung das interne Kontrollsystem.
 
 <sup>3</sup> Die Geschäftsführung des Verwaltungsrats ist nicht Gegenstand der Prüfung durch die Revisionsstelle.
+
+[^728a-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### b. Revisionsbericht
 
@@ -11301,9 +11955,13 @@ Zudem informiert sie die Generalversammlung über Verstösse gegen das Gesetz od
 
 <sup>3</sup> Ist die Gesellschaft offensichtlich überschuldet und unterlässt der Verwaltungsrat die Anzeige, so benachrichtigt die Revisionsstelle das Gericht.
 
-### IV. Eingeschränkte Revision (Review)
+### IV. Eingeschränkte Revision
 
 ### 1. Unabhängigkeit der Revisionsstelle
+
+[^part3-tit26-chap3-lvlC-lvlIV-lvl1-1]
+
+[^part3-tit26-chap3-lvlC-lvlIV-lvl1-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 729
 
@@ -11373,7 +12031,9 @@ Ist die Gesellschaft offensichtlich überschuldet und unterlässt der Verwaltung
 
 <sup>3</sup> Tritt eine Revisionsstelle zurück, so hat sie den Verwaltungsrat über die Gründe zu informieren; dieser teilt sie der nächsten Generalversammlung mit.
 
-<sup>4</sup> Die Generalversammlung kann die Revisionsstelle jederzeit mit sofortiger Wirkung abberufen.
+<sup>4</sup> Die Generalversammlung kann die Revisionsstelle nur aus wichtigen Gründen abberufen.[^730a-1]
+
+[^730a-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 3. Auskunft und Geheimhaltung
 
@@ -11411,7 +12071,7 @@ Ist die Gesellschaft offensichtlich überschuldet und unterlässt der Verwaltung
 
 <sup>3</sup> Die Generalversammlung kann zur Prüfung der Geschäftsführung oder einzelner Teile Sachverständige ernennen.
 
-### D.**** Mängel in der Organisation der Gesellschaft
+### D. Mängel in der Organisation der Gesellschaft
 
 [^part3-tit26-chap3-lvlD-1]
 
@@ -11447,65 +12107,128 @@ Das Gericht kann insbesondere:
 [^731b-2]: Eingefügt durch Ziff. I 1 des BG vom 21. Juni 2019 zur Umsetzung von Empfehlungen des Globalen Forums über Transparenz und Informationsaustausch für Steuerzwecke, in Kraft seit 1. Nov. 2019 ([AS 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [BBl 2019 279](https://fedlex.data.admin.ch/eli/fga/2019/18)).
 [^731b-3]: Eingefügt durch Ziff. I 2 des BG vom 17. März 2017 (Handelsregisterrecht), in Kraft seit 1. Jan. 2021 ([AS 2020 957](https://fedlex.data.admin.ch/eli/oc/2020/178); [BBl 2015 3617](https://fedlex.data.admin.ch/eli/fga/2015/956)).
 
-### Vierter Abschnitt: Herabsetzung des Aktienkapitals
+### Vierter Abschnitt: Vergütungen bei Gesellschaften, deren Aktien an einer Börse kotiert sind
 
-### A. Herabsetzungsbeschluss
+[^part3-tit26-chap4-1]
+
+[^part3-tit26-chap4-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023, Art. 734*f* in Kraft seit 1. Jan. 2021 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### A. Geltungsbereich
 
 #### Art. 732
 
-<sup>1</sup> Beabsichtigt eine Aktiengesellschaft, ihr Aktienkapital herabzusetzen, ohne es gleichzeitig bis zur bisherigen Höhe durch neues, voll einzubezahlendes Kapital zu ersetzen, so hat die Generalversammlung eine entsprechende Änderung der Statuten zu beschliessen.
+<sup>1</sup> Die Bestimmungen dieses Abschnitts gelten für Gesellschaften, deren Aktien an einer Börse kotiert sind.
 
-<sup>2</sup> Sie darf einen solchen Beschluss nur fassen, wenn ein zugelassener Revisionsexperte in einem Prüfungsbericht bestätigt, dass die Forderungen der Gläubiger trotz der Herabsetzung des Aktienkapitals voll gedeckt sind. Der Revisionsexperte muss an der Generalversammlung anwesend sein.[^732-1]
-
-<sup>3</sup> Im Beschluss ist das Ergebnis des Prüfungsberichts festzustellen und anzugeben, in welcher Art und Weise die Kapitalherabsetzung durchgeführt werden soll.[^732-2]
-
-<sup>4</sup> Ein aus der Kapitalherabsetzung allfällig sich ergebender Buchgewinn ist ausschliesslich zu Abschreibungen zu verwenden.
-
-<sup>5</sup> Das Aktienkapital darf nur unter 100 000 Franken herabgesetzt werden, sofern es gleichzeitig durch neues, voll einzubezahlendes Kapital in der Höhe von mindestens 100 000 Franken ersetzt wird.[^732-3]
-
-[^732-1]: Fassung gemäss Ziff. I 3 des BG vom 16. Dez. 2005 (GmbH-Recht sowie Anpassungen im Aktien-, Genossenschafts-, Handelsregister- und Firmenrecht), in Kraft seit 1. Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
-[^732-2]: Fassung gemäss Ziff. I 3 des BG vom 16. Dez. 2005 (GmbH-Recht sowie Anpassungen im Aktien-, Genossenschafts-, Handelsregister- und Firmenrecht), in Kraft seit 1. Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), **2****004** 3969).
-[^732-3]: Fassung gemäss Ziff. I 3 des BG vom 16. Dez. 2005 (GmbH-Recht sowie Anpassungen im Aktien-, Genossenschafts-, Handelsregister- und Firmenrecht), in Kraft seit 1. Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
-
-### B. Vernichtung von Aktien im Fall einer Sanierung
+<sup>2</sup> Andere Gesellschaften können in ihren Statuten vorsehen, dass sie diesen Abschnitt teilweise oder vollständig anwenden.
 
 #### Art. 732a
 
-[^732a-1]
+Aufgehoben
 
-<sup>1</sup> Wird das Aktienkapital zum Zwecke der Sanierung auf null herabgesetzt und anschliessend wieder erhöht, so gehen die bisherigen Mitgliedschaftsrechte der Aktionäre mit der Herabsetzung unter. Ausgegebene Aktien müssen vernichtet werden.
-
-<sup>2</sup> Bei der Wiedererhöhung des Aktienkapitals steht den bisherigen Aktionären ein Bezugsrecht zu, das ihnen nicht entzogen werden kann.
-
-[^732a-1]: Eingefügt durch Ziff. I 3 des BG vom 16. Dez. 2005 (GmbH-Recht sowie Anpassungen im Aktien-, Genossenschafts-, Handelsregister- und Firmenrecht), in Kraft seit 1. Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
-
-### C. Aufforderung an die Gläubiger
-
-[^part3-tit26-chap4-lvlC-1]
-
-[^part3-tit26-chap4-lvlC-1]: Fassung gemäss Ziff. I 3 des BG vom 16. Dez. 2005 (GmbH-Recht sowie Anpassungen im Aktien-, Genossenschafts-, Handelsregister- und Firmenrecht), in Kraft seit 1. Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+### B. Vergütungsausschuss
 
 #### Art. 733
 
-Hat die Generalversammlung die Herabsetzung des Aktienkapitals beschlossen, so veröffentlicht der Verwaltungsrat den Beschluss dreimal im Schweizerischen Handelsamtsblatt und überdies in der in den Statuten vorgesehenen Form und gibt den Gläubigern bekannt, dass sie binnen zwei Monaten, von der dritten Bekanntmachung im Schweizerischen Handelsamtsblatt an gerechnet, unter Anmeldung ihrer Forderungen Befriedigung oder Sicherstellung verlangen können.
+<sup>1</sup> Die Generalversammlung wählt die Mitglieder des Vergütungsausschusses einzeln.
 
-### D. Durchführung der Herabsetzung
+<sup>2</sup> Wählbar sind nur Mitglieder des Verwaltungsrats.
 
-[^part3-tit26-chap4-lvlD-1]
+<sup>3</sup> Die Amtsdauer endet mit dem Abschluss der nächsten ordentlichen Generalversammlung. Wiederwahl ist möglich.
 
-[^part3-tit26-chap4-lvlD-1]: Fassung gemäss Ziff. I 3 des BG vom 16. Dez. 2005 (GmbH-Recht sowie Anpassungen im Aktien-, Genossenschafts-, Handelsregister- und Firmenrecht), in Kraft seit 1. Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+<sup>4</sup> Ist der Vergütungsausschuss nicht vollständig besetzt, so ernennt der Verwaltungsrat für die verbleibende Amtsdauer die fehlenden Mitglieder. Die Statuten können andere Regeln zur Behebung dieses Organisationsmangels vorsehen.
+
+<sup>5</sup> Die Statuten regeln die Grundsätze zu den Aufgaben und Zuständigkeiten des Vergütungsausschusses.
+
+### C. Vergütungsbericht
+
+### I. Im Allgemeinen
 
 #### Art. 734
 
-Die Herabsetzung des Aktienkapitals darf erst nach Ablauf der den Gläubigern gesetzten Frist und nach Befriedigung oder Sicherstellung der angemeldeten Gläubiger durchgeführt und erst in das Handelsregister eingetragen werden, wenn durch öffentliche Urkunde festgestellt ist, dass die Vorschriften dieses Abschnittes erfüllt sind. Der Urkunde ist der Prüfungsbericht beizulegen.[^734-1]
+<sup>1</sup> Der Verwaltungsrat erstellt jährlich einen schriftlichen Vergütungsbericht.
 
-[^734-1]: Fassung zweiter Satz gemäss Ziff. I 3 des BG vom 16. Dez. 2005 (GmbH-Recht sowie Anpassungen im Aktien-, Genossenschafts-, Handelsregister- und Firmenrecht), in Kraft seit 1. Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+<sup>2</sup> Die Bestimmungen des zweiunddreissigsten Titels über die Grundsätze ordnungsmässiger Rechnungslegung, die Darstellung, Währung und Sprache und die Führung und Aufbewahrung der Geschäftsbücher sind für den Vergütungsbericht entsprechend anwendbar.
 
-#### Art. 734a–734e
+<sup>3</sup> Für die Bekanntgabe und die Veröffentlichung des Vergütungsberichts sind die Bestimmungen über die Bekanntmachung und Veröffentlichung des Geschäftsberichts entsprechend anwendbar.
 
-[^734a734e-1]
+### II. Vergütungen an den Verwaltungsrat, die Geschäftsleitung und den Beirat
 
-[^734a734e-1]: Treten zu einem späteren Zeitpunkt in Kraft ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+#### Art. 734a
+
+<sup>1</sup>
+
+Im Vergütungsbericht sind alle Vergütungen anzugeben, welche die Gesellschaft direkt oder indirekt ausgerichtet hat an:
+
+- 1\. gegenwärtige Mitglieder des Verwaltungsrats;
+- 2\. gegenwärtige Mitglieder der Geschäftsleitung;
+- 3\. gegenwärtige Mitglieder des Beirats;
+- 4\. frühere Mitglieder des Verwaltungsrats, der Geschäftsleitung und des Beirats, sofern sie in einem Zusammenhang mit der früheren Tätigkeit als Organ der Gesellschaft stehen; ausgenommen sind Leistungen der beruflichen Vorsorge.
+
+<sup>2</sup>
+
+Als Vergütungen gelten insbesondere:
+
+- 1\. Honorare, Löhne, Bonifikationen und Gutschriften;
+- 2\. Tantiemen, Beteiligungen am Umsatz und andere Beteiligungen am Geschäftsergebnis;
+- 3\. Dienst- und Sachleistungen;
+- 4\. die Zuteilung von Beteiligungspapieren, Wandel- und Optionsrechten;
+- 5\. Antrittsprämien;
+- 6\. Bürgschaften, Garantieverpflichtungen, Pfandbestellungen und andere Sicherheiten;
+- 7\. der Verzicht auf Forderungen;
+- 8\. Aufwendungen, die Ansprüche auf Vorsorgeleistungen begründen oder erhöhen;
+- 9\. sämtliche Leistungen für zusätzliche Arbeiten;
+- 10\. Entschädigungen im Zusammenhang mit Konkurrenzverboten.
+
+<sup>3</sup>
+
+Die Angaben zu den Vergütungen umfassen:
+
+- 1\. den Gesamtbetrag für den Verwaltungsrat und den auf jedes Mitglied entfallenden Betrag unter Nennung des Namens und der Funktion des betreffenden Mitglieds;
+- 2\. den Gesamtbetrag für die Geschäftsleitung und den höchsten auf ein Mitglied entfallenden Betrag unter Nennung des Namens und der Funktion des betreffenden Mitglieds;
+- 3\. den Gesamtbetrag für den Beirat und den auf jedes Mitglied entfallenden Betrag unter Nennung des Namens und der Funktion des betreffenden Mitglieds;
+- 4\. gegebenenfalls die Namen und Funktionen der Mitglieder der Geschäftsleitung, an die Zusatzbeträge bezahlt wurden.
+
+### III. Darlehen und Kredite an den Verwaltungsrat, die Geschäftsleitung und den Beirat
+
+#### Art. 734b
+
+<sup>1</sup>
+
+Im Vergütungsbericht sind anzugeben:
+
+- 1\. die Darlehen und Kredite, die den gegenwärtigen Mitgliedern des Verwaltungsrats, der Geschäftsleitung und des Beirats gewährt wurden und noch ausstehen;
+- 2\. die Darlehen und Kredite, die früheren Mitgliedern des Verwaltungsrats, der Geschäftsleitung und des Beirats zu nicht marktüblichen Bedingungen gewährt wurden und noch ausstehen.
+
+<sup>2</sup> Für die Angaben zu den Darlehen und Krediten gilt Artikel 734*a* Absatz 3 sinngemäss.
+
+### IV. Vergütungen, Darlehen und Kredite an nahestehende Personen
+
+#### Art. 734c
+
+<sup>1</sup>
+
+Im Vergütungsbericht sind gesondert anzugeben:
+
+- 1\. die nicht marktüblichen Vergütungen, welche die Gesellschaft direkt oder indirekt an Personen ausgerichtet hat, die gegenwärtigen oder früheren Mitgliedern des Verwaltungsrats, der Geschäftsleitung oder des Beirats nahestehen;
+- 2\. die Darlehen und Kredite, die Personen, die gegenwärtigen oder früheren Mitgliedern des Verwaltungsrats, der Geschäftsleitung oder des Beirats nahestehen, zu nicht marktüblichen Bedingungen gewährt wurden und noch ausstehen.
+
+<sup>2</sup> Die Namen der nahestehenden Personen müssen nicht angegeben werden.
+
+<sup>3</sup> Im Übrigen finden die Vorschriften über die Angaben zu Vergütungen, Darlehen und Krediten an Mitglieder des Verwaltungsrats, der Geschäftsleitung und des Beirats Anwendung.
+
+### V. Beteiligungsrechte und Optionen auf solche Rechte
+
+#### Art. 734d
+
+Im Vergütungsbericht sind die Beteiligungsrechte an der Gesellschaft sowie die Optionen auf solche Rechte jedes gegenwärtigen Mitglieds des Verwaltungsrats, der Geschäftsleitung und des Beirats mit Einschluss der dem Mitglied nahestehenden Personen unter Nennung des Namens und der Funktion des betreffenden Mitglieds anzugeben.
+
+### VI. Tätigkeiten bei anderen Unternehmen
+
+#### Art. 734e
+
+<sup>1</sup> Der Vergütungsbericht nennt die Funktionen der Mitglieder des Verwaltungsrats, der Geschäftsleitung und des Beirats in anderen Unternehmen gemäss Artikel 626 Absatz 2 Ziffer 1.
+
+<sup>2</sup> Die Angaben umfassen den Namen des Mitglieds, die Bezeichnung des Unternehmens und die ausgeübte Funktion.
 
 ### VII. Vertretung der Geschlechter im Verwaltungsrat und in der Geschäftsleitung
 
@@ -11518,17 +12241,71 @@ Sofern nicht jedes Geschlecht mindestens zu 30 Prozent im Verwaltungsrat und zu 
 - 1\. die Gründe, weshalb die Geschlechter nicht wie vorgesehen vertreten sind; und
 - 2\. die Massnahmen zur Förderung des weniger stark vertretenen Geschlechts.
 
-[^734f-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2021 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)). Siehe auch Art. 4 der UeB dieser Änd. am Schluss des Textes.
+[^734f-1]: Siehe auch Art. 4 der UeB Änd. 19.06.2020 am Schluss des Textes.
 
-### E. Herabsetzung im Fall einer Unterbilanz
+### D. Abstimmungen der Generalversammlung
 
-[^part3-tit26-chap4-lvlE-1]
-
-[^part3-tit26-chap4-lvlE-1]: Fassung gemäss Ziff. I 3 des BG vom 16. Dez. 2005 (GmbH-Recht sowie Anpassungen im Aktien-, Genossenschafts-, Handelsregister- und Firmenrecht), in Kraft seit 1. Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+### I. Vergütungen
 
 #### Art. 735
 
-Die Aufforderung an die Gläubiger und ihre Befriedigung oder Sicherstellung können unterbleiben, wenn das Aktienkapital zum Zwecke der Beseitigung einer durch Verluste entstandenen Unterbilanz in einem diese letztere nicht übersteigenden Betrage herabgesetzt wird.
+<sup>1</sup> Die Generalversammlung stimmt über die Vergütungen ab, die der Verwaltungsrat, die Geschäftsleitung und der Beirat direkt oder indirekt von der Gesellschaft erhalten.
+
+<sup>2</sup> Die Statuten regeln die Einzelheiten zur Abstimmung. Sie können das weitere Vorgehen bei einer Ablehnung der Vergütungen durch die Generalversammlung regeln.
+
+<sup>3</sup>
+
+Die folgenden Regeln müssen eingehalten werden:
+
+- 1\. Die Generalversammlung stimmt jährlich über die Vergütungen ab.
+- 2\. Die Generalversammlung stimmt gesondert über den Gesamtbetrag der Vergütungen des Verwaltungsrats, der Geschäftsleitung und des Beirats ab.
+- 3\. Die Abstimmung der Generalversammlung hat bindende Wirkung.
+- 4\. Wird prospektiv über variable Vergütungen abgestimmt, so muss der Generalversammlung der Vergütungsbericht zur Konsultativabstimmung vorgelegt werden.
+
+### II. Zusatzbetrag für die Geschäftsleitung
+
+#### Art. 735a
+
+<sup>1</sup> Für den Fall, dass die Generalversammlung über die Vergütungen der Geschäftsleitung prospektiv abstimmt, können die Statuten einen Zusatzbetrag vorsehen für die Vergütungen von Personen, die nach der Abstimmung neu als Mitglieder der Geschäftsleitung ernannt werden.
+
+<sup>2</sup> Der Zusatzbetrag darf nur verwendet werden, wenn der von der Generalversammlung beschlossene Gesamtbetrag der Vergütungen der Geschäftsleitung bis zur nächsten Abstimmung der Generalversammlung nicht für die Vergütungen der neuen Mitglieder ausreicht.
+
+<sup>3</sup> Die Generalversammlung stimmt nicht über den verwendeten Zusatzbetrag ab.
+
+### E. Dauer der Verträge
+
+#### Art. 735b
+
+<sup>1</sup> Die Dauer der Verträge, die den Vergütungen für die Mitglieder des Verwaltungsrats zugrunde liegen, darf die Amtsdauer nicht überschreiten.
+
+<sup>2</sup> Die Dauer befristeter Verträge und die Kündigungsfrist unbefristeter Verträge, die den Vergütungen für die Mitglieder der Geschäftsleitung und des Beirats zugrunde liegen, dürfen höchstens ein Jahr betragen.
+
+### F. Unzulässige Vergütungen
+
+### I. In der Gesellschaft
+
+#### Art. 735c
+
+Folgende Vergütungen für gegenwärtige und frühere Mitglieder des Verwaltungsrats, der Geschäftsleitung und des Beirats oder für ihnen nahestehende Personen sind unzulässig:
+
+- 1\. Abgangsentschädigungen, die vertraglich vereinbart oder statutarisch vorgesehen sind; nicht als Abgangsentschädigungen gelten Vergütungen, die bis zur Beendigung der Verträge geschuldet sind;
+- 2\. Entschädigungen aufgrund eines Konkurrenzverbots, die den Durchschnitt der Vergütungen der letzten drei Geschäftsjahre übersteigen, oder aufgrund eines geschäftsmässig nicht begründeten Konkurrenzverbots;
+- 3\. nicht marktübliche Vergütungen im Zusammenhang mit einer früheren Tätigkeit als Organ der Gesellschaft;
+- 4\. Antrittsprämien, die keinen nachweisbaren finanziellen Nachteil kompensieren;
+- 5\. Vergütungen, die im Voraus ausgerichtet werden;
+- 6\. Provisionen für die Übernahme oder Übertragung von Unternehmen oder Teilen davon;
+- 7\. Darlehen, Kredite, Vorsorgeleistungen ausserhalb der beruflichen Vorsorge und erfolgsabhängige Vergütungen, deren Grundsätze in den Statuten nicht vorgesehen sind;
+- 8\. die Zuteilung von Beteiligungspapieren, Wandel- und Optionsrechten, deren Grundsätze in den Statuten nicht vorgesehen sind.
+
+### II. Im Konzern
+
+#### Art. 735d
+
+Unzulässig sind Vergütungen an Mitglieder des Verwaltungsrats, der Geschäftsleitung und des Beirats oder an ihnen nahestehende Personen für Tätigkeiten in Unternehmen, die durch die Gesellschaft kontrolliert werden, sofern diese Vergütungen:
+
+- 1\. unzulässig wären, wenn sie direkt von der Gesellschaft ausgerichtet würden;
+- 2\. in den Statuten der Gesellschaft nicht vorgesehen sind; oder
+- 3\. von der Generalversammlung der Gesellschaft nicht gutgeheissen worden sind.
 
 ### Fünfter Abschnitt: Auflösung der Aktiengesellschaft
 
@@ -11538,25 +12315,34 @@ Die Aufforderung an die Gläubiger und ihre Befriedigung oder Sicherstellung kö
 
 #### Art. 736
 
+<sup>1</sup>
+
 Die Gesellschaft wird aufgelöst:
 
 - 1\. nach Massgabe der Statuten;
 - 2\. durch einen Beschluss der Generalversammlung, über den eine öffentliche Urkunde zu errichten ist;
 - 3\. durch die Eröffnung des Konkurses;
-- 4\.[^736-1] durch Urteil des Gerichts, wenn Aktionäre, die zusammen mindestens zehn Prozent des Aktienkapitals vertreten, aus wichtigen Gründen die Auflösung verlangen. Statt derselben kann das Gericht auf eine andere sachgemässe und den Beteiligten zumutbare Lösung erkennen;
+- 4\.[^736-1] durch Urteil des Gerichts, wenn Aktionäre, die zusammen mindestens 10 Prozent des Aktienkapitals oder der Stimmen vertreten, aus wichtigen Gründen die Auflösung verlangen;
 - 5\. in den übrigen vom Gesetze vorgesehenen Fällen.
 
-[^736-1]: Fassung gemäss Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+<sup>2</sup> Bei der Klage auf Auflösung aus wichtigen Gründen kann das Gericht anstelle der Auflösung eine andere sachgemässe und den Beteiligten zumutbare Lösung anordnen.[^736-2]
 
-### II. Anmeldung beim Handelsregister
+[^736-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^736-2]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### II. Eintragung ins Handelsregister
 
 #### Art. 737
 
 [^737-1]
 
-Erfolgt die Auflösung der Gesellschaft nicht durch Konkurs oder richterliches Urteil, so ist sie vom Verwaltungsrat zur Eintragung in das Handelsregister anzumelden.
+<sup>1</sup> Die Auflösung einer Gesellschaft muss ins Handelsregister eingetragen werden.
 
-[^737-1]: Fassung gemäss Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+<sup>2</sup> Die Auflösung durch Urteil ist vom Gericht dem Handelsregisteramt unverzüglich zu melden.
+
+<sup>3</sup> Die Auflösung aus anderen Gründen ist von der Gesellschaft beim Handelsregisteramt anzumelden.
+
+[^737-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### III. Folgen
 
@@ -11566,7 +12352,7 @@ Erfolgt die Auflösung der Gesellschaft nicht durch Konkurs oder richterliches U
 
 Die aufgelöste Gesellschaft tritt in Liquidation, unter Vorbehalt der Fälle der Fusion, der Aufspaltung und der Übertragung ihres Vermögens auf eine Körperschaft des öffentlichen Rechts.
 
-[^738-1]: Fassung gemäss Anhang Ziff. 2 des Fusionsgesetzes vom 3. Okt. 2003, in Kraft seit 1. Juli 2004 (AS **200****4** 2617; [BBl 2000 4337](https://fedlex.data.admin.ch/eli/fga/2000/921)).
+[^738-1]: Fassung gemäss Anhang Ziff. 2 des Fusionsgesetzes vom 3. Okt. 2003, in Kraft seit 1. Juli 2004 ([AS 2004 2617](https://fedlex.data.admin.ch/eli/oc/2004/320); [BBl 2000 4337](https://fedlex.data.admin.ch/eli/fga/2000/921)).
 
 ### B. Auflösung mit Liquidation
 
@@ -11635,7 +12421,7 @@ Die aufgelöste Gesellschaft tritt in Liquidation, unter Vorbehalt der Fälle de
 
 <sup>4</sup> Sie dürfen Aktiven auch freihändig verkaufen, wenn die Generalversammlung nichts anderes angeordnet hat.
 
-<sup>5</sup> Sie haben bei länger andauernder Liquidation jährliche Zwischenbilanzen aufzustellen.
+<sup>5</sup> Sie haben bei länger andauernder Liquidation jährliche Zwischenabschlüsse aufzustellen.
 
 <sup>6</sup> Die Gesellschaft haftet für den Schaden aus unerlaubten Handlungen, die ein Liquidator in Ausübung seiner geschäftlichen Verrichtungen begeht.
 
@@ -11653,12 +12439,13 @@ Die aufgelöste Gesellschaft tritt in Liquidation, unter Vorbehalt der Fälle de
 
 <sup>1</sup> Das Vermögen der aufgelösten Gesellschaft wird nach Tilgung ihrer Schulden, soweit die Statuten nichts anderes bestimmen, unter die Aktionäre nach Massgabe der einbezahlten Beträge und unter Berücksichtigung der Vorrechte einzelner Aktienkategorien verteilt.[^745-1]
 
-<sup>2</sup> Die Verteilung darf frühestens nach Ablauf eines Jahres vollzogen werden, von dem Tage an gerechnet, an dem der Schuldenruf zum dritten Mal ergangen ist.
+<sup>2</sup> Die Verteilung darf frühestens nach Ablauf eines Jahres vollzogen werden, von dem Tag an gerechnet, an dem der Schuldenruf ergangen ist.[^745-2]
 
-<sup>3</sup> Eine Verteilung darf bereits nach Ablauf von drei Monaten erfolgen, wenn ein zugelassener Revisionsexperte bestätigt, dass die Schulden getilgt sind und nach den Umständen angenommen werden kann, dass keine Interessen Dritter gefährdet werden.[^745-2]
+<sup>3</sup> Eine Verteilung darf bereits nach Ablauf von drei Monaten erfolgen, wenn ein zugelassener Revisionsexperte bestätigt, dass die Schulden getilgt sind und nach den Umständen angenommen werden kann, dass keine Interessen Dritter gefährdet werden.[^745-3]
 
 [^745-1]: Fassung gemäss Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-[^745-2]: Fassung gemäss Ziff. I 3 des BG vom 16. Dez. 2005 (GmbH-Recht sowie Anpassungen im Aktien-, Genossenschafts-, Handelsregister- und Firmenrecht), in Kraft seit 1. Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^745-2]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^745-3]: Fassung gemäss Ziff. I 3 des BG vom 16. Dez. 2005 (GmbH-Recht sowie Anpassungen im Aktien-, Genossenschafts-, Handelsregister- und Firmenrecht), in Kraft seit 1. Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 
 ### IV. Löschung im Handelsregister
 
@@ -11718,11 +12505,12 @@ Nach Beendigung der Liquidation ist das Erlöschen der Firma von den Liquidatore
 
 Gründer, Mitglieder des Verwaltungsrates und alle Personen, die bei der Gründung mitwirken, werden sowohl der Gesellschaft als den einzelnen Aktionären und Gesellschaftsgläubigern für den Schaden verantwortlich, wenn sie:
 
-- 1\. absichtlich oder fahrlässig Sacheinlagen, Sachübernahmen oder die Gewährung besonderer Vorteile zugunsten von Aktionären oder anderen Personen in den Statuten, einem Gründungsbericht oder einem Kapitalerhöhungsbericht unrichtig oder irreführend angeben, verschweigen oder verschleiern, oder bei der Genehmigung einer solchen Massnahme in anderer Weise dem Gesetz zuwiderhandeln;
+- 1\.[^753-2] in den Statuten, einem Gründungsbericht oder einem Kapitalerhöhungsbericht absichtlich oder fahrlässig Sacheinlagen oder die Gewährung besonderer Vorteile zugunsten von Aktionären und anderen Personen unrichtig oder irreführend angeben, verschweigen oder verschleiern oder bei der Genehmigung einer solchen Massnahme in anderer Weise dem Gesetz zuwiderhandeln;
 - 2\. absichtlich oder fahrlässig die Eintragung der Gesellschaft in das Handelsregister aufgrund einer Bescheinigung oder Urkunde veranlassen, die unrichtige Angaben enthält;
 - 3\. wissentlich dazu beitragen, dass Zeichnungen zahlungsunfähiger Personen angenommen werden.
 
 [^753-1]: Fassung gemäss Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^753-2]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### III. Haftung für Verwaltung, Geschäftsführung und Liquidation
 
@@ -11746,7 +12534,7 @@ Gründer, Mitglieder des Verwaltungsrates und alle Personen, die bei der Gründu
 
 <sup>2</sup> Wurde die Prüfung von einer Finanzkontrolle der öffentlichen Hand oder von einem ihrer Mitarbeiter durchgeführt, so haftet das betreffende Gemeinwesen. Der Rückgriff auf die an der Prüfung beteiligten Personen richtet sich nach dem öffentlichen Recht.[^755-2]
 
-[^755-1]: Fassung gemäss Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 (AS **1****992** 733; [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^755-1]: Fassung gemäss Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 [^755-2]: Eingefügt durch Ziff. I 3 des BG vom 16. Dez. 2005 (GmbH-Recht sowie Anpassungen im Aktien-, Genossenschafts-, Handelsregister- und Firmenrecht), in Kraft seit 1. Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 
 ### B. Schaden der Gesellschaft
@@ -11759,10 +12547,10 @@ Gründer, Mitglieder des Verwaltungsrates und alle Personen, die bei der Gründu
 
 <sup>1</sup> Neben der Gesellschaft sind auch die einzelnen Aktionäre berechtigt, den der Gesellschaft verursachten Schaden einzuklagen. Der Anspruch des Aktionärs geht auf Leistung an die Gesellschaft.
 
-<sup>2</sup> …[^756-2]
+<sup>2</sup> Die Generalversammlung kann beschliessen, dass die Gesellschaft die Klage erhebt. Sie kann den Verwaltungsrat oder einen Vertreter mit der Prozessführung betrauen.[^756-2]
 
 [^756-1]: Fassung gemäss Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-[^756-2]: Aufgehoben durch Anhang 1 Ziff. II 5 der Zivilprozessordnung vom 19. Dez. 2008, mit Wirkung seit 1. Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^756-2]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### II. Ansprüche im Konkurs
 
@@ -11776,8 +12564,11 @@ Gründer, Mitglieder des Verwaltungsrates und alle Personen, die bei der Gründu
 
 <sup>3</sup> Vorbehalten bleibt die Abtretung von Ansprüchen der Gesellschaft gemäss Artikel 260 des Schuldbetreibungs- und Konkursgesetzes vom 11. April 1889.
 
+<sup>4</sup> In die Berechnung des Schadens der Gesellschaft sind Forderungen von Gesellschaftsgläubigern, die im Rang hinter alle anderen Gläubiger zurückgetreten sind, nicht einzubeziehen.[^757-3]
+
 [^757-1]: Fassung gemäss Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 [^757-2]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^757-3]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### III. Wirkung des Entlastungsbeschlusses
 
@@ -11787,9 +12578,10 @@ Gründer, Mitglieder des Verwaltungsrates und alle Personen, die bei der Gründu
 
 <sup>1</sup> Der Entlastungsbeschluss der Generalversammlung wirkt nur für bekanntgegebene Tatsachen und nur gegenüber der Gesellschaft sowie gegenüber den Aktionären, die dem Beschluss zugestimmt oder die Aktien seither in Kenntnis des Beschlusses erworben haben.
 
-<sup>2</sup> Das Klagerecht der übrigen Aktionäre erlischt sechs Monate nach dem Entlastungsbeschluss.
+<sup>2</sup> Das Klagerecht der übrigen Aktionäre erlischt zwölf Monate nach dem Entlastungsbeschluss. Die Frist steht während des Verfahrens auf Anordnung einer Sonderuntersuchung und während deren Durchführung still.[^758-2]
 
 [^758-1]: Fassung gemäss Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^758-2]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### C. Solidarität und Rückgriff
 
@@ -11811,11 +12603,12 @@ Gründer, Mitglieder des Verwaltungsrates und alle Personen, die bei der Gründu
 
 [^760-1]
 
-<sup>1</sup> Der Anspruch auf Schadenersatz gegen die nach den vorstehenden Bestimmungen verantwortlichen Personen verjährt in fünf Jahren von dem Tage an, an dem der Geschädigte Kenntnis vom Schaden und von der Person des Ersatzpflichtigen erlangt hat, jedenfalls aber mit dem Ablaufe von zehn Jahren, vom Tage an gerechnet, an welchem das schädigende Verhalten erfolgte oder aufhörte.
+<sup>1</sup> Der Anspruch auf Schadenersatz gegen die nach den vorstehenden Bestimmungen verantwortlichen Personen verjährt in drei Jahren von dem Tag an, an dem der Geschädigte Kenntnis vom Schaden und von der Person des Ersatzpflichtigen erlangt hat, jedenfalls aber mit dem Ablauf von zehn Jahren, vom Tage an gerechnet, an welchem das schädigende Verhalten erfolgte oder aufhörte. Die Frist steht während des Verfahrens auf Anordnung einer Sonderuntersuchung und während deren Durchführung still.[^760-2]
 
 <sup>2</sup> Hat die ersatzpflichtige Person durch ihr schädigendes Verhalten eine strafbare Handlung begangen, so verjährt der Anspruch auf Schadenersatz frühestens mit Eintritt der strafrechtlichen Verfolgungsverjährung. Tritt diese infolge eines erstinstanzlichen Strafurteils nicht mehr ein, so verjährt der Anspruch frühestens mit Ablauf von drei Jahren seit Eröffnung des Urteils.
 
 [^760-1]: Fassung gemäss Ziff. I des BG vom 15. Juni 2018 (Revision des Verjährungsrechts), in Kraft seit 1. Jan. 2020 ([AS 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [BBl 2014 235](https://fedlex.data.admin.ch/eli/fga/2014/65)).
+[^760-2]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 761
 
@@ -11829,14 +12622,18 @@ Gründer, Mitglieder des Verwaltungsrates und alle Personen, die bei der Gründu
 
 <sup>1</sup> Haben Körperschaften des öffentlichen Rechts wie Bund, Kanton, Bezirk oder Gemeinde ein öffentliches Interesse an einer Aktiengesellschaft, so kann der Körperschaft in den Statuten der Gesellschaft das Recht eingeräumt werden, Vertreter in den Verwaltungsrat oder in die Revisionsstelle abzuordnen, auch wenn sie nicht Aktionärin ist.[^762-1]
 
-<sup>2</sup> Bei solchen Gesellschaften sowie bei gemischtwirtschaftlichen Unternehmungen, an denen eine Körperschaft des öffentlichen Rechts als Aktionär beteiligt ist, steht das Recht zur Abberufung der von ihr abgeordneten Mitglieder des Verwaltungsrates und der Revisionsstelle nur ihr selbst zu.
+<sup>2</sup> Bei solchen Gesellschaften sowie bei gemischtwirtschaftlichen Unternehmungen, an denen eine Körperschaft des öffentlichen Rechts als Aktionär beteiligt ist, steht das Recht zur Abberufung der von ihr abgeordneten Mitglieder des Verwaltungsrates und der Revisionsstelle[^762-2] nur ihr selbst zu.
 
-<sup>3</sup> Die von einer Körperschaft des öffentlichen Rechts abgeordneten Mitglieder des Verwaltungsrates und der Revisionsstelle haben die gleichen Rechte und Pflichten wie die von der Generalversammlung gewählten.[^762-2]
+<sup>3</sup> Die von einer Körperschaft des öffentlichen Rechts abgeordneten Mitglieder des Verwaltungsrates und der Revisionsstelle haben die gleichen Rechte und Pflichten wie die von der Generalversammlung gewählten.[^762-3]
 
 <sup>4</sup> Für die von einer Körperschaft des öffentlichen Rechts abgeordneten Mitglieder haftet die Körperschaft der Gesellschaft, den Aktionären und den Gläubigern gegenüber, unter Vorbehalt des Rückgriffs nach dem Recht des Bundes und der Kantone.
 
+<sup>5</sup> Das Recht von Körperschaften des öffentlichen Rechts, Vertreter in den Verwaltungsrat abzuordnen oder abzuberufen, gilt auch bei Gesellschaften, deren Aktien an einer Börse kotiert sind.[^762-4]
+
 [^762-1]: Fassung gemäss Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-[^762-2]: Fassung gemäss Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^762-2]: Ausdruck gemäss Ziff. II 2 des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Diese Änderung ist im ganzen Erlass berücksichtigt.
+[^762-3]: Fassung gemäss Ziff. I des BG vom 4. Okt. 1991, in Kraft seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^762-4]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### Achter Abschnitt: Ausschluss der Anwendung des Gesetzes auf öffentlich-rechtliche Anstalten
 
@@ -11866,11 +12663,11 @@ Gründer, Mitglieder des Verwaltungsrates und alle Personen, die bei der Gründu
 
 <sup>1</sup> Die unbeschränkt haftenden Mitglieder bilden die Verwaltung der Kommanditaktiengesellschaft. Ihnen steht die Geschäftsführung und die Vertretung zu. Sie sind in den Statuten zu nennen.
 
-<sup>2</sup> Der Name, der Wohnsitz, der Heimatort und die Funktion der Mitglieder der Verwaltung sowie der zur Vertretung befugten Personen sind ins Handelsregister einzutragen.[^765-1]
+<sup>2</sup> …[^765-1]
 
 <sup>3</sup> Für Änderungen im Bestande der unbeschränkt haftenden Mitglieder bedarf es der Zustimmung der bisherigen Mitglieder und der Änderung der Statuten.
 
-[^765-1]: Fassung gemäss Ziff. I 3 des BG vom 16. Dez. 2005 (GmbH-Recht sowie Anpassungen im Aktien-, Genossenschafts-, Handelsregister- und Firmenrecht), in Kraft seit 1. Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^765-1]: Aufgehoben durch Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), mit Wirkung seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### II. Zustimmung zu Generalversammlungsbeschlüssen
 
@@ -11946,15 +12743,23 @@ Beschlüsse der Generalversammlung über Umwandlung des Gesellschaftszweckes, Er
 
 #### Art. 773
 
-Das Stammkapital muss mindestens 20 000 Franken betragen.
+[^773-1]
+
+<sup>1</sup> Das Stammkapital beträgt mindestens 20 000 Franken.
+
+<sup>2</sup> Zulässig ist auch ein Stammkapital in der für die Geschäftstätigkeit wesentlichen ausländischen Währung. Die Bestimmungen des Aktienrechts über das Aktienkapital in einer ausländischen Währung finden sinngemäss Anwendung.
+
+[^773-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### C. Stammanteile
 
 #### Art. 774
 
-<sup>1</sup> Der Nennwert der Stammanteile muss mindestens 100 Franken betragen. Im Falle einer Sanierung kann er bis auf einen Franken herabgesetzt werden.
+<sup>1</sup> Die Stammanteile weisen einen Nennwert auf, der grösser als null ist.[^774-1]
 
 <sup>2</sup> Die Stammanteile müssen mindestens zum Nennwert ausgegeben werden.
+
+[^774-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### D. Genussscheine
 
@@ -11962,11 +12767,13 @@ Das Stammkapital muss mindestens 20 000 Franken betragen.
 
 Die Statuten können die Schaffung von Genussscheinen vorsehen; die Vorschriften des Aktienrechts sind entsprechend anwendbar.
 
-### E. Gesellschafter
+### E. …
 
 #### Art. 775
 
-Eine Gesellschaft mit beschränkter Haftung kann durch eine oder mehrere natürliche oder juristische Personen oder andere Handelsgesellschaften gegründet werden.
+[^775-1]
+
+[^775-1]: Aufgehoben durch Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), mit Wirkung seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### F. Statuten
 
@@ -11979,48 +12786,17 @@ Die Statuten müssen Bestimmungen enthalten über:
 - 1\. die Firma und den Sitz der Gesellschaft;
 - 2\. den Zweck der Gesellschaft;
 - 3\. die Höhe des Stammkapitals sowie die Anzahl und den Nennwert der Stammanteile;
-- 4\. die Form der von der Gesellschaft ausgehenden Bekanntmachungen.
+- 4\.[^776-1] die Form der Mitteilungen der Gesellschaft an ihre Gesellschafter.
 
-### II. Bedingt notwendiger Inhalt
+[^776-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### II. …
 
 #### Art. 776a
 
-<sup>1</sup>
+[^776a-1]
 
-Zu ihrer Verbindlichkeit bedürfen der Aufnahme in die Statuten Bestimmungen über:
-
-- 1\. die Begründung und die Ausgestaltung von Nachschuss- und Nebenleistungspflichten;
-- 2\. die Begründung und die Ausgestaltung von Vorhand-, Vorkaufs- oder Kaufsrechten der Gesellschafter oder der Gesellschaft an den Stammanteilen;
-- 3\. Konkurrenzverbote der Gesellschafter;
-- 4\. Konventionalstrafen zur Sicherung der Erfüllung gesetzlicher oder statutarischer Pflichten;
-- 5\. Vorrechte, die mit einzelnen Kategorien von Stammanteilen verbunden sind (Vorzugsstammanteile);
-- 6\. Vetorechte von Gesellschaftern betreffend Beschlüsse der Gesellschafterversammlung;
-- 7\. die Beschränkung des Stimmrechts und des Rechts der Gesellschafter, sich vertreten zu lassen;
-- 8\. Genussscheine;
-- 9\. statutarische Reserven;
-- 10\. Befugnisse der Gesellschafterversammlung, die dieser über die gesetzlichen Zuständigkeiten hinaus zugewiesen werden;
-- 11\. die Genehmigung bestimmter Entscheide der Geschäftsführer durch die Gesellschafterversammlung;
-- 12\. das Erfordernis der Zustimmung der Gesellschafterversammlung zur Bezeichnung von natürlichen Personen, die für Gesellschafter, die juristische Personen oder Handelsgesellschaften sind, das Recht zur Geschäftsführung ausüben;
-- 13\. die Befugnis der Geschäftsführer, Direktoren, Prokuristen sowie Handlungsbevollmächtigte zu ernennen;
-- 14\. die Ausrichtung von Tantiemen an die Geschäftsführer;
-- 15\. die Zusicherung von Bauzinsen;
-- 16\. die Organisation und die Aufgaben der Revisionsstelle, sofern dabei über die gesetzlichen Vorschriften hinausgegangen wird;
-- 17\. die Gewährung eines statutarischen Austrittsrechts, die Bedingungen für dessen Ausübung und die auszurichtende Abfindung;
-- 18\. besondere Gründe für den Ausschluss von Gesellschaftern aus der Gesellschaft;
-- 19\. andere als die gesetzlichen Auflösungsgründe.
-
-<sup>2</sup>
-
-Zu ihrer Verbindlichkeit bedürfen ebenfalls der Aufnahme in die Statuten von den gesetzlichen Vorschriften abweichende Regelungen:
-
-- 1\. der Beschlussfassung über die nachträgliche Schaffung von neuen Vorzugsstammanteilen;
-- 2\. der Übertragung von Stammanteilen;
-- 3\. der Einberufung der Gesellschafterversammlung;
-- 4\. der Bemessung des Stimmrechts der Gesellschafter;
-- 5\. der Beschlussfassung in der Gesellschafterversammlung;
-- 6\. der Beschlussfassung der Geschäftsführer;
-- 7\. der Geschäftsführung und der Vertretung;
-- 8\. zu den Konkurrenzverboten der Geschäftsführer.
+[^776a-1]: Aufgehoben durch Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), mit Wirkung seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### G. Gründung
 
@@ -12036,11 +12812,12 @@ In diesem Errichtungsakt zeichnen die Gründer die Stammanteile und stellen fest
 
 - 1\. sämtliche Stammanteile gültig gezeichnet sind;
 - 2\. die Einlagen dem gesamten Ausgabebetrag entsprechen;
-- 3\. die gesetzlichen und statutarischen Anforderungen an die Leistung der Einlagen erfüllt sind;
+- 3\.[^777-1] die gesetzlichen und statutarischen Anforderungen an die Einlagen im Zeitpunkt der Unterzeichnung des Errichtungsakts erfüllt sind;
 - 4\. sie die statutarischen Nachschuss- oder Nebenleistungspflichten übernehmen;
-- 5\.[^777-1] keine anderen Sacheinlagen, Sachübernahmen und beabsichtigten Sachübernahmen, Verrechnungstatbestände oder besonderen Vorteile bestehen als die in den Belegen genannten.
+- 5\.[^777-2] dass keine anderen Sacheinlagen, Verrechnungstatbestände oder besonderen Vorteile bestehen, als die in den Belegen genannten.
 
-[^777-1]: Eingefügt durch Ziff. I 2 des BG vom 17. März 2017 (Handelsregisterrecht), in Kraft seit 1. Jan. 2021 ([AS 2020 957](https://fedlex.data.admin.ch/eli/oc/2020/178); [BBl 2015 3617](https://fedlex.data.admin.ch/eli/fga/2015/956)).
+[^777-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^777-2]: Eingefügt durch Ziff. I 2 des BG vom 17. März 2017 (Handelsregisterrecht) ([AS 2020 957](https://fedlex.data.admin.ch/eli/oc/2020/178); [BBl 2015 3617](https://fedlex.data.admin.ch/eli/fga/2015/956)). Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### II. Zeichnung der Stammanteile
 
@@ -12073,7 +12850,9 @@ Dem Errichtungsakt sind folgende Unterlagen beizulegen:
 - 3\. die Prüfungsbestätigung;
 - 4\. die Bestätigung über die Hinterlegung von Einlagen in Geld;
 - 5\. die Sacheinlageverträge;
-- 6\. bereits vorliegende Sachübernahmeverträge.
+- 6\.[^777b-1] …
+
+[^777b-1]: Aufgehoben durch Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), mit Wirkung seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### IV. Einlagen
 
@@ -12085,9 +12864,12 @@ Dem Errichtungsakt sind folgende Unterlagen beizulegen:
 
 Im Übrigen sind die Vorschriften des Aktienrechts entsprechend anwendbar für:
 
-- 1\. die Angabe der Sacheinlagen, der Sachübernahmen und der besonderen Vorteile in den Statuten;
-- 2\. die Eintragung von Sacheinlagen, Sachübernahmen und von besonderen Vorteilen ins Handelsregister;
+- 1\.[^777c-1] die Angabe der Sacheinlagen, der Verrechnungen und der besonderen Vorteile in den Statuten;
+- 2\.[^777c-2] …
 - 3\. die Leistung und die Prüfung der Einlagen.
+
+[^777c-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^777c-2]: Aufgehoben durch Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), mit Wirkung seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### H. Eintragung ins Handelsregister
 
@@ -12131,7 +12913,11 @@ Die Gesellschaft ist ins Handelsregister des Ortes einzutragen, an dem sie ihren
 
 #### Art. 780
 
-Jeder Beschluss der Gesellschafterversammlung über eine Änderung der Statuten muss öffentlich beurkundet und ins Handelsregister eingetragen werden.
+[^780-1]
+
+Der Beschluss der Gesellschafterversammlung oder der Geschäftsführer über eine Änderung der Statuten ist öffentlich zu beurkunden und ins Handelsregister einzutragen.
+
+[^780-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### L. Erhöhung des Stammkapitals
 
@@ -12143,7 +12929,7 @@ Jeder Beschluss der Gesellschafterversammlung über eine Änderung der Statuten 
 
 <sup>3</sup> Die Zeichnung und die Einlagen richten sich nach den Vorschriften über die Gründung. Der Hinweis auf statutarische Rechte und Pflichten ist nicht erforderlich, wenn der Zeichner bereits Gesellschafter ist. Für den Zeichnungsschein sind zudem die Vorschriften über die Erhöhung des Aktienkapitals entsprechend anwendbar. Ein öffentliches Angebot zur Zeichnung der Stammanteile ist ausgeschlossen.[^781-1]
 
-<sup>4</sup> Die Erhöhung des Stammkapitals muss innerhalb von drei Monaten nach dem Beschluss der Gesellschafterversammlung beim Handelsregister zur Eintragung angemeldet werden; sonst fällt der Beschluss dahin.
+<sup>4</sup> Die Erhöhung des Stammkapitals muss innerhalb von sechs Monaten nach dem Beschluss der Gesellschafterversammlung beim Handelsregisteramt zur Eintragung angemeldet werden; sonst fällt der Beschluss dahin.[^781-2]
 
 <sup>5</sup>
 
@@ -12157,6 +12943,7 @@ Im Übrigen sind die Vorschriften des Aktienrechts über die ordentliche Kapital
 - 6\. die Eintragung der Erhöhung des Stammkapitals ins Handelsregister und die Nichtigkeit vorher ausgegebener Urkunden.
 
 [^781-1]: Fassung gemäss Ziff. I 2 des BG vom 17. März 2017 (Handelsregisterrecht), in Kraft seit 1. Jan. 2021 ([AS 2020 957](https://fedlex.data.admin.ch/eli/oc/2020/178); [BBl 2015 3617](https://fedlex.data.admin.ch/eli/fga/2015/956)).
+[^781-2]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### M. Herabsetzung des Stammkapitals
 
@@ -12164,11 +12951,13 @@ Im Übrigen sind die Vorschriften des Aktienrechts über die ordentliche Kapital
 
 <sup>1</sup> Die Gesellschafterversammlung kann die Herabsetzung des Stammkapitals beschliessen.
 
-<sup>2</sup> Das Stammkapital darf in keinem Fall unter 20 000 Franken herabgesetzt werden.
+<sup>2</sup> Das Stammkapital darf nur unter 20 000 Franken herabgesetzt werden, sofern es gleichzeitig mindestens bis zu diesem Betrag wieder erhöht wird.[^782-1]
 
 <sup>3</sup> Zur Beseitigung einer durch Verluste entstandenen Unterbilanz darf das Stammkapital nur herabgesetzt werden, wenn die Gesellschafter die in den Statuten vorgesehenen Nachschüsse voll geleistet haben.
 
 <sup>4</sup> Im Übrigen sind die Vorschriften über die Herabsetzung des Aktienkapitals entsprechend anwendbar.
+
+[^782-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### N. Erwerb eigener Stammanteile
 
@@ -12318,9 +13107,11 @@ In das Anteilbuch sind einzutragen:
 
 #### Art. 791
 
-<sup>1</sup> Die Gesellschafter sind mit Name, Wohnsitz und Heimatort sowie mit der Anzahl und dem Nennwert ihrer Stammanteile ins Handelsregister einzutragen.
+[^791-1]
 
-<sup>2</sup> Die Gesellschaft muss die Eintragung anmelden.
+Die Gesellschafter sind mit der Anzahl und dem Nennwert ihrer Stammanteile ins Handelsregister einzutragen.
+
+[^791-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### V. Gemeinschaftliches Eigentum
 
@@ -12419,31 +13210,31 @@ Geleistete Nachschüsse dürfen nur dann ganz oder teilweise zurückbezahlt werd
 
 Die nachträgliche Einführung oder Erweiterung statutarischer Nachschuss- oder Nebenleistungspflichten bedarf der Zustimmung aller davon betroffenen Gesellschafter.
 
-### E. Dividenden, Zinse, Tantiemen
+### IV. Schiedsgericht
 
-### I. Dividenden
+#### Art. 797a
+
+[^797a-1]
+
+Die Vorschriften des Aktienrechts zum Schiedsgericht sind entsprechend anwendbar.
+
+[^797a-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### E. Dividenden, Zinse, Tantiemen
 
 #### Art. 798
 
-<sup>1</sup> Dividenden dürfen nur aus dem Bilanzgewinn und aus hierfür gebildeten Reserven ausgerichtet werden.
+[^798-1]
 
-<sup>2</sup> Die Dividende darf erst festgesetzt werden, nachdem die dem Gesetz und den Statuten entsprechenden Zuweisungen an die gesetzlichen und statutarischen Reserven abgezogen worden sind.
+Die Vorschriften des Aktienrechts über Dividenden, Zwischendividenden, Bauzinse und Tantiemen sind entsprechend anwendbar.
 
-<sup>3</sup> Die Dividenden sind im Verhältnis des Nennwerts der Stammanteile festzusetzen; wurden Nachschüsse geleistet, so ist deren Betrag für die Bemessung der Dividenden dem Nennwert zuzurechnen; die Statuten können eine abweichende Regelung vorsehen.
+[^798-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-### II. Zinsen
+#### Art. 798a und 798b
 
-#### Art. 798a
+[^798a798b-1]
 
-<sup>1</sup> Für das Stammkapital und geleistete Nachschüsse dürfen keine Zinsen bezahlt werden.
-
-<sup>2</sup> Die Ausrichtung von Bauzinsen ist zulässig. Die Vorschrift des Aktienrechts über Bauzinse ist entsprechend anwendbar.
-
-### III. Tantiemen
-
-#### Art. 798b
-
-Die Statuten können die Ausrichtung von Tantiemen an Geschäftsführer vorsehen. Die Vorschriften des Aktienrechts über Tantiemen sind entsprechend anwendbar.
+[^798a798b-1]: Aufgehoben durch Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), mit Wirkung seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### F. Vorzugsstammanteile
 
@@ -12481,11 +13272,13 @@ Für die Reserven sind die Vorschriften des Aktienrechts entsprechend anwendbar.
 
 <sup>1</sup> Jeder Gesellschafter kann von den Geschäftsführern Auskunft über alle Angelegenheiten der Gesellschaft verlangen.
 
-<sup>2</sup> Hat die Gesellschaft keine Revisionsstelle, so kann jeder Gesellschafter in die Bücher und Akten uneingeschränkt Einsicht nehmen. Hat sie eine Revisionsstelle, so besteht ein Recht zur Einsichtnahme nur, soweit ein berechtigtes Interesse glaubhaft gemacht wird.
+<sup>2</sup> Hat die Gesellschaft keine Revisionsstelle, so kann jeder Gesellschafter in die Geschäftsbücher und Akten uneingeschränkt Einsicht nehmen.[^802-1] Hat sie eine Revisionsstelle, so besteht ein Recht zur Einsichtnahme nur, soweit ein berechtigtes Interesse glaubhaft gemacht wird.
 
 <sup>3</sup> Besteht Gefahr, dass der Gesellschafter die erlangten Kenntnisse zum Schaden der Gesellschaft für gesellschaftsfremde Zwecke verwendet, so können die Geschäftsführer die Auskunft und die Einsichtnahme im erforderlichen Umfang verweigern; auf Antrag des Gesellschafters entscheidet die Gesellschafterversammlung.
 
 <sup>4</sup> Verweigert die Gesellschafterversammlung die Auskunft oder die Einsicht ungerechtfertigterweise, so ordnet sie das Gericht auf Antrag des Gesellschafters an.
+
+[^802-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### L. Treuepflicht und Konkurrenzverbot
 
@@ -12515,9 +13308,10 @@ Der Gesellschafterversammlung stehen folgende unübertragbare Befugnisse zu:
 
 - 1\. die Änderung der Statuten;
 - 2\. die Bestellung und die Abberufung von Geschäftsführern;
-- 3\. die Bestellung und die Abberufung der Mitglieder der Revisionsstelle und des Konzernrechnungsprüfers;
-- 4\.[^804-1] die Genehmigung des Lageberichts und der Konzernrechnung;
+- 3\.[^804-1] die Bestellung und die Abberufung der Mitglieder der Revisionsstelle;
+- 4\.[^804-2] die Genehmigung des Lageberichts und der Konzernrechnung;
 - 5\. die Genehmigung der Jahresrechnung sowie die Beschlussfassung über die Verwendung des Bilanzgewinnes, insbesondere die Festsetzung der Dividende und der Tantieme;
+- 5<sup>bis</sup>.[^804-3] die Beschlussfassung über die Rückzahlung von Kapitalreserven;
 - 6\. die Festsetzung der Entschädigung der Geschäftsführer;
 - 7\. die Entlastung der Geschäftsführer;
 - 8\. die Zustimmung zur Abtretung von Stammanteilen beziehungsweise die Anerkennung als stimmberechtigter Gesellschafter;
@@ -12534,7 +13328,9 @@ Der Gesellschafterversammlung stehen folgende unübertragbare Befugnisse zu:
 
 <sup>3</sup> Die Gesellschafterversammlung ernennt die Direktoren, die Prokuristen sowie die Handlungsbevollmächtigten. Die Statuten können diese Befugnis auch den Geschäftsführern einräumen.
 
-[^804-1]: Fassung gemäss Ziff. I 3 des BG vom 23. Dez. 2011 (Rechnungslegungsrecht), in Kraft seit 1. Jan. 2013 ([AS 2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810); [BBl 2008 1589](https://fedlex.data.admin.ch/eli/fga/2008/416)).
+[^804-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^804-2]: Fassung gemäss Ziff. I 3 des BG vom 23. Dez. 2011 (Rechnungslegungsrecht), in Kraft seit 1. Jan. 2013 ([AS 2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810); [BBl 2008 1589](https://fedlex.data.admin.ch/eli/fga/2008/416)).
+[^804-3]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### II. Einberufung und Durchführung
 
@@ -12546,21 +13342,27 @@ Der Gesellschafterversammlung stehen folgende unübertragbare Befugnisse zu:
 
 <sup>3</sup> Die Gesellschafterversammlung ist spätestens 20 Tage vor dem Versammlungstag einzuberufen. Die Statuten können diese Frist verlängern oder bis auf zehn Tage verkürzen. Die Möglichkeit einer Universalversammlung bleibt vorbehalten.
 
-<sup>4</sup> Beschlüsse können auch schriftlich gefasst werden, sofern nicht ein Gesellschafter die mündliche Beratung verlangt.
+<sup>4</sup> …[^805-1]
 
 <sup>5</sup>
 
-Im Übrigen sind die Vorschriften des Aktienrechts entsprechend anwendbar für:
+Im Übrigen sind die Vorschriften des Aktienrechts über die Generalversammlung entsprechend anwendbar für:
 
 - 1\. die Einberufung;
-- 2\. das Einberufungs- und Antragsrecht der Gesellschafter;
+- 2\.[^805-2] das Einberufungs-, das Traktandierungs- und das Antragsrecht der Gesellschafter;
+- 2<sup>bis</sup>.[^805-3] den Tagungsort und die Verwendung elektronischer Mittel;
 - 3\. die Verhandlungsgegenstände;
 - 4\. die Anträge;
-- 5\. die Universalversammlung;
+- 5\.[^805-4] die Universalversammlung und die Zustimmung zu einem Antrag;
 - 6\. die vorbereitenden Massnahmen;
 - 7\. das Protokoll;
 - 8\. die Vertretung der Gesellschafter;
 - 9\. die unbefugte Teilnahme.
+
+[^805-1]: Aufgehoben durch Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), mit Wirkung seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^805-2]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^805-3]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^805-4]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### III. Stimmrecht
 
@@ -12634,13 +13436,19 @@ Ein Beschluss der Gesellschafterversammlung, der mindestens zwei Drittel der ver
 - 4\. die Zustimmung zur Abtretung von Stammanteilen beziehungsweise die Anerkennung als stimmberechtigter Gesellschafter;
 - 5\. die Erhöhung des Stammkapitals;
 - 6\. die Einschränkung oder Aufhebung des Bezugsrechtes;
+- 6<sup>bis</sup>.[^808b-1] den Wechsel der Währung für das Stammkapital;
 - 7\. die Zustimmung zu Tätigkeiten der Geschäftsführer sowie der Gesellschafter, die gegen die Treuepflicht oder das Konkurrenzverbot verstossen;
 - 8\. den Antrag an das Gericht, einen Gesellschafter aus wichtigem Grund auszuschliessen;
 - 9\. den Ausschluss eines Gesellschafters aus in den Statuten vorgesehenen Gründen;
 - 10\. die Verlegung des Sitzes der Gesellschaft;
+- [tab] 10<sup>bis</sup>.[^808b-2] die Einführung einer statutarischen Schiedsklausel;
 - 11\. die Auflösung der Gesellschaft.
 
-<sup>2</sup> Statutenbestimmungen, die für die Fassung bestimmter Beschlüsse grössere Mehrheiten als die vom Gesetz vorgeschriebenen festlegen, können nur mit dem vorgesehenen Mehr eingeführt werden.
+<sup>2</sup> Statutenbestimmungen, die für die Fassung bestimmter Beschlüsse grössere Mehrheiten als die vom Gesetz vorgeschriebenen festlegen, können nur mit dem vorgesehenen Mehr eingeführt, geändert oder aufgehoben werden.[^808b-3]
+
+[^808b-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^808b-2]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^808b-3]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### VI. Anfechtung von Beschlüssen der Gesellschafterversammlung
 
@@ -12676,9 +13484,9 @@ Unter Vorbehalt der nachfolgenden Bestimmungen haben die Geschäftsführer folge
 - 2\. die Festlegung der Organisation im Rahmen von Gesetz und Statuten;
 - 3\. die Ausgestaltung des Rechnungswesens und der Finanzkontrolle sowie der Finanzplanung, sofern diese für die Führung der Gesellschaft notwendig ist;
 - 4\. die Aufsicht über die Personen, denen Teile der Geschäftsführung übertragen sind, namentlich im Hinblick auf die Befolgung der Gesetze, Statuten, Reglemente und Weisungen;
-- 5\. die Erstellung des Geschäftsberichtes (Jahresrechnung, Jahresbericht und gegebenenfalls Konzernrechnung);
+- 5\.[^810-1] die Erstellung des Geschäftsberichts;
 - 6\. die Vorbereitung der Gesellschafterversammlung sowie die Ausführung ihrer Beschlüsse;
-- 7\. die Benachrichtigung des Gerichts im Falle der Überschuldung.
+- 7\.[^810-2] die Einreichung eines Gesuchs um Nachlassstundung und die Benachrichtigung des Gerichts im Falle der Überschuldung.
 
 <sup>3</sup>
 
@@ -12687,6 +13495,9 @@ Wer den Vorsitz der Geschäftsführung innehat, beziehungsweise der einzige Gesc
 - 1\. die Einberufung und Leitung der Gesellschafterversammlung;
 - 2\. Bekanntmachungen gegenüber den Gesellschaftern;
 - 3\. die Sicherstellung der erforderlichen Anmeldungen beim Handelsregister.
+
+[^810-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^810-2]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### III. Genehmigung durch die Gesellschafterversammlung
 
@@ -12731,9 +13542,10 @@ Die Geschäftsführer sowie Dritte, die mit der Geschäftsführung befasst sind,
 
 <sup>5</sup> Die zur Vertretung der Gesellschaft befugten Personen haben in der Weise zu zeichnen, dass sie der Firma der Gesellschaft ihre Unterschrift beifügen.
 
-<sup>6</sup> Sie müssen ins Handelsregister eingetragen werden. Sie haben ihre Unterschrift beim Handelsregisteramt zu zeichnen oder die Zeichnung in beglaubigter Form einzureichen.
+<sup>6</sup> …[^814-2]
 
 [^814-1]: Fassung gemäss Ziff. I 2 des BG vom 12. Dez. 2014 zur Umsetzung der 2012 revidierten Empfehlungen der Groupe d’action financière, in Kraft seit 1. Juli 2015 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
+[^814-2]: Aufgehoben durch Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), mit Wirkung seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### VII. Abberufung von Geschäftsführern; Entziehung der Vertretungsbefugnis
 
@@ -12775,13 +13587,15 @@ Die Gesellschaft haftet für den Schaden aus unerlaubten Handlungen, die eine zu
 
 Bei Mängeln in der Organisation der Gesellschaft sind die Vorschriften des Aktienrechts entsprechend anwendbar.
 
-### E. Kapitalverlust und Überschuldung
+### E. Drohende Zahlungsunfähigkeit, Kapitalverlust und Überschuldung
 
 #### Art. 820
 
-<sup>1</sup> Für die Anzeigepflichten bei Kapitalverlust und Überschuldung der Gesellschaft sowie für die Eröffnung und den Aufschub des Konkurses sind die Vorschriften des Aktienrechts entsprechend anwendbar.
+[^820-1]
 
-<sup>2</sup> Das Gericht kann den Konkurs auf Antrag der Geschäftsführer oder eines Gläubigers aufschieben, namentlich wenn ausstehende Nachschüsse unverzüglich einbezahlt werden und Aussicht auf Sanierung besteht.
+Die Bestimmungen des Aktienrechts zur drohenden Zahlungsunfähigkeit, zum Kapitalverlust, zur Überschuldung sowie zur Aufwertung von Grundstücken und Beteiligungen sind entsprechend anwendbar.
+
+[^820-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### Vierter Abschnitt: Auflösung und Ausscheiden
 
@@ -12916,7 +13730,11 @@ Für die Verantwortlichkeit der Personen, die bei der Gründung mitwirken oder m
 
 #### Art. 830
 
-Die Genossenschaft entsteht nach Aufstellung der Statuten und deren Genehmigung in der konstituierenden Versammlung durch Eintragung in das Handelsregister.
+[^830-1]
+
+Die Genossenschaft wird errichtet, indem die Gründer in öffentlicher Urkunde erklären, eine Genossenschaft zu gründen, und darin die Statuten und die Organe festlegen.
+
+[^830-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 2. Zahl der Mitglieder
 
@@ -12936,13 +13754,14 @@ Die Genossenschaft entsteht nach Aufstellung der Statuten und deren Genehmigung 
 
 Die Statuten müssen Bestimmungen enthalten über:
 
-- 1\. den Namen (die Firma) und den Sitz der Genossenschaft;
+- 1\.[^832-1] die Firma und den Sitz der Genossenschaft;
 - 2\. den Zweck der Genossenschaft;
-- 3\. eine allfällige Verpflichtung der Genossenschafter zu Geld- oder andern Leistungen sowie deren Art und Höhe;
-- 4\.[^832-1] die Organe für die Verwaltung und für die Revision und die Art der Ausübung der Vertretung;
-- 5\. die Form der von der Genossenschaft ausgehenden Bekanntmachungen.
+- 3\. und 4.[^832-2] …
+- 5\.[^832-3] die Form der Mitteilungen der Genossenschaft an ihre Genossenschafter.
 
-[^832-1]: Fassung gemäss Ziff. I 3 des BG vom 16. Dez. 2005 (GmbH-Recht sowie Anpassungen im Aktien-, Genossenschafts-, Handelsregister- und Firmenrecht), in Kraft seit 1. Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^832-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^832-2]: Aufgehoben durch Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), mit Wirkung seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^832-3]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 2. Weitere Bestimmungen
 
@@ -12952,12 +13771,16 @@ Zu ihrer Verbindlichkeit bedürfen der Aufnahme in die Statuten:
 
 - 1\. Vorschriften über die Schaffung eines Genossenschaftskapitals durch Genossenschaftsanteile (Anteilscheine);
 - 2\. Bestimmungen über nicht durch Einzahlung geleistete Einlagen auf das Genossenschaftskapital (Sacheinlagen), deren Gegenstand und deren Anrechnungsbetrag, sowie über die Person des einlegenden Genossenschafters;
-- 3\. Bestimmungen über Vermögenswerte, die bei der Gründung übernommen werden, über die hiefür zu leistende Vergütung und über die Person des Eigentümers der zu übernehmenden Vermögenswerte;
+- 3\.[^833-1] …
 - 4\. von den gesetzlichen Bestimmungen abweichende Vorschriften über den Eintritt in die Genossenschaft und über den Verlust der Mitgliedschaft;
-- 5\. Bestimmungen über die persönliche Haftung und die Nachschusspflicht der Genossenschafter;
+- 5\.[^833-2] Bestimmungen über die persönliche Haftung, die Nachschusspflicht und eine Verpflichtung der Genossenschafter zu Geld- oder anderen Leistungen sowie die Art und Höhe der entsprechenden Leistungen;
 - 6\. von den gesetzlichen Bestimmungen abweichende Vorschriften über die Organisation, die Vertretung, die Abänderung der Statuten und über die Beschlussfassung der Generalversammlung;
 - 7\. Beschränkungen und Erweiterungen in der Ausübung des Stimmrechtes;
-- 8\. Bestimmungen über die Berechnung und die Verwendung des Reinertrages und des Liquidationsüberschusses.
+- 8\.[^833-3] Bestimmungen über die Berechnung und die Verwendung des Bilanzgewinns und des Liquidationsüberschusses.
+
+[^833-1]: Aufgehoben durch Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), mit Wirkung seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^833-2]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^833-3]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### III. Konstituierende Versammlung
 
@@ -12965,13 +13788,13 @@ Zu ihrer Verbindlichkeit bedürfen der Aufnahme in die Statuten:
 
 <sup>1</sup> Die Statuten sind schriftlich abzufassen und einer von den Gründern einzuberufenden Versammlung zur Beratung und Genehmigung vorzulegen.
 
-<sup>2</sup> Überdies ist ein schriftlicher Bericht der Gründer über allfällige Sacheinlagen und zu übernehmenden Vermögenswerte der Versammlung bekanntzugeben und von ihr zu beraten. Die Gründer haben zu bestätigen, dass keine anderen Sacheinlagen, Sachübernahmen und beabsichtigten Sachübernahmen, Verrechnungstatbestände oder besonderen Vorteile bestehen als die in den Belegen genannten.[^834-1]
+<sup>2</sup> Überdies ist ein schriftlicher Bericht der Gründer über allfällige Sacheinlagen der Versammlung bekanntzugeben und von ihr zu beraten. Die Gründer haben zu bestätigen, dass keine anderen Sacheinlagen, Verrechnungstatbestände oder besonderen Vorteile bestehen, als die in den Belegen genannten.[^834-1]
 
 <sup>3</sup> Diese Versammlung bestellt auch die notwendigen Organe.
 
 <sup>4</sup> Bis zur Eintragung der Genossenschaft in das Handelsregister kann die Mitgliedschaft nur durch Unterzeichnung der Statuten begründet werden.
 
-[^834-1]: Zweiter Satz eingefügt durch Ziff. I 2 des BG vom 17. März 2017 (Handelsregisterrecht), in Kraft seit 1. Jan. 2021 ([AS 2020 957](https://fedlex.data.admin.ch/eli/oc/2020/178); [BBl 2015 3617](https://fedlex.data.admin.ch/eli/fga/2015/956)).
+[^834-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### IV. Eintragung ins Handelsregister
 
@@ -13014,6 +13837,16 @@ Die Gesellschaft ist ins Handelsregister des Ortes einzutragen, an dem sie ihren
 <sup>2</sup> Ist vor der Eintragung im Namen der Genossenschaft gehandelt worden, so haften die Handelnden persönlich und solidarisch.
 
 <sup>3</sup> Wurden solche Verpflichtungen ausdrücklich im Namen der zu bildenden Genossenschaft eingegangen und innerhalb einer Frist von drei Monaten nach der Eintragung in das Handelsregister von der Genossenschaft übernommen, so werden die Handelnden befreit, und es haftet die Genossenschaft.
+
+### D. Statutenänderung
+
+#### Art. 838a
+
+[^838a-1]
+
+Der Beschluss der Generalversammlung oder der Verwaltung über eine Änderung der Statuten ist öffentlich zu beurkunden und ins Handelsregister einzutragen.
+
+[^838a-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### Zweiter Abschnitt: Erwerb der Mitgliedschaft
 
@@ -13175,15 +14008,20 @@ Die Rechte, die den Genossenschaftern in den Angelegenheiten der Genossenschaft,
 
 ### II. Kontrollrecht der Genossenschafter
 
-### 1. Bekanntgabe der Bilanz
+### 1. Bekanntmachung des Geschäftsberichts
+
+[^part3-tit29-chap4-lvlD-lvlII-lvl1-1]
+
+[^part3-tit29-chap4-lvlD-lvlII-lvl1-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 856
 
 <sup>1</sup> Spätestens zehn Tage vor der Generalversammlung oder der Urabstimmung, die über die Genehmigung des Lageberichts, der Konzernrechnung und der Jahresrechnung zu entscheiden hat, sind diese mit dem Revisionsbericht zur Einsicht der Genossenschafter am Sitz der Genossenschaft aufzulegen.[^856-1]
 
-<sup>2</sup> Die Statuten können bestimmen, dass jeder Genossenschafter berechtigt ist, auf Kosten der Genossenschaft eine Abschrift der Betriebsrechnung und der Bilanz zu verlangen.
+<sup>2</sup> Sofern die Unterlagen nicht elektronisch zugänglich sind, kann jeder Genossenschafter während eines Jahres nach der Generalversammlung verlangen, dass ihm der Geschäftsbericht in der von der Generalversammlung genehmigten Form sowie der Revisionsbericht zugestellt werden.[^856-2]
 
 [^856-1]: Fassung gemäss Ziff. I 3 des BG vom 23. Dez. 2011 (Rechnungslegungsrecht), in Kraft seit 1. Jan. 2013 ([AS 2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810); [BBl 2008 1589](https://fedlex.data.admin.ch/eli/fga/2008/416)).
+[^856-2]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 2. Auskunfterteilung
 
@@ -13199,7 +14037,11 @@ Die Rechte, die den Genossenschaftern in den Angelegenheiten der Genossenschaft,
 
 [^857-1]: Fassung gemäss Ziff. I 3 des BG vom 16. Dez. 2005 (GmbH-Recht sowie Anpassungen im Aktien-, Genossenschafts-, Handelsregister- und Firmenrecht), in Kraft seit 1. Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 
-### III. Allfällige Rechte auf den Reinertrag
+### III. Allfällige Rechte auf den Jahresgewinn
+
+[^part3-tit29-chap4-lvlD-lvlIII-1]
+
+[^part3-tit29-chap4-lvlD-lvlIII-1]: Ausdruck gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)). Diese Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.
 
 ### 1. …
 
@@ -13213,17 +14055,17 @@ Die Rechte, die den Genossenschaftern in den Angelegenheiten der Genossenschaft,
 
 #### Art. 859
 
-<sup>1</sup> Ein Reinertrag aus dem Betriebe der Genossenschaft fällt, wenn die Statuten es nicht anders bestimmen, in seinem ganzen Umfange in das Genossenschaftsvermögen.
+<sup>1</sup> Ein Jahresgewinn aus dem Betriebe der Genossenschaft fällt, wenn die Statuten es nicht anders bestimmen, in seinem ganzen Umfange in das Genossenschaftsvermögen.
 
-<sup>2</sup> Ist eine Verteilung des Reinertrages unter die Genossenschafter vorgesehen, so erfolgt sie, soweit die Statuten es nicht anders ordnen, nach dem Masse der Benützung der genossenschaftlichen Einrichtungen durch die einzelnen Mitglieder.
+<sup>2</sup> Ist eine Verteilung des Jahresgewinns unter die Genossenschafter vorgesehen, so erfolgt sie, soweit die Statuten es nicht anders ordnen, nach dem Masse der Benützung der genossenschaftlichen Einrichtungen durch die einzelnen Mitglieder.
 
-<sup>3</sup> Bestehen Anteilscheine, so darf die auf sie entfallende Quote des Reinertrages den landesüblichen Zinsfuss für langfristige Darlehen ohne besondere Sicherheiten nicht übersteigen.
+<sup>3</sup> Bestehen Anteilscheine, so darf die auf sie entfallende Quote des Jahresgewinns den landesüblichen Zinsfuss für langfristige Darlehen ohne besondere Sicherheiten nicht übersteigen.
 
 ### 3. Pflicht zur Bildung und Äufnung eines Reservefonds
 
 #### Art. 860
 
-<sup>1</sup> Soweit der Reinertrag in anderer Weise als zur Äufnung des Genossenschaftsvermögens verwendet wird, ist davon jährlich ein Zwanzigstel einem Reservefonds zuzuweisen. Diese Zuweisung hat während mindestens 20 Jahren zu erfolgen; wenn Anteilscheine bestehen, hat die Zuweisung auf alle Fälle so lange zu erfolgen, bis der Reservefonds einen Fünftel des Genossenschaftskapitals ausmacht.
+<sup>1</sup> Soweit der Jahresgewinn in anderer Weise als zur Äufnung des Genossenschaftsvermögens verwendet wird, ist davon jährlich ein Zwanzigstel einem Reservefonds zuzuweisen. Diese Zuweisung hat während mindestens 20 Jahren zu erfolgen; wenn Anteilscheine bestehen, hat die Zuweisung auf alle Fälle so lange zu erfolgen, bis der Reservefonds einen Fünftel des Genossenschaftskapitals ausmacht.
 
 <sup>2</sup> Durch die Statuten kann eine weitergehende Äufnung des Reservefonds vorgeschrieben werden.
 
@@ -13233,15 +14075,15 @@ Die Rechte, die den Genossenschaftern in den Angelegenheiten der Genossenschaft,
 
 [^860-1]: Aufgehoben durch Anhang Ziff. II 1 des Versicherungsaufsichtsgesetzes vom 17. Dez. 2004, mit Wirkung seit 1. Jan. 2006 ([AS 2005 5269](https://fedlex.data.admin.ch/eli/oc/2005/734); [BBl 2003 3789](https://fedlex.data.admin.ch/eli/fga/2003/577)).
 
-### 4. Reinertrag bei Kreditgenossenschaften
+### 4. Jahresgewinn bei Kreditgenossenschaften
 
 #### Art. 861
 
-<sup>1</sup> Kreditgenossenschaften können in den Statuten von den Bestimmungen der vorstehenden Artikel abweichende Vorschriften über die Verteilung des Reinertrages erlassen, doch sind auch sie gehalten, einen Reservefonds zu bilden und den vorstehenden Bestimmungen gemäss zu verwenden.
+<sup>1</sup> Kreditgenossenschaften können in den Statuten von den Bestimmungen der vorstehenden Artikel abweichende Vorschriften über die Verteilung des Jahresgewinns erlassen, doch sind auch sie gehalten, einen Reservefonds zu bilden und den vorstehenden Bestimmungen gemäss zu verwenden.
 
-<sup>2</sup> Dem Reservefonds ist alljährlich mindestens ein Zehntel des Reinertrages zuzuweisen, bis der Fonds die Höhe von einem Zehntel des Genossenschaftskapitals erreicht hat.
+<sup>2</sup> Dem Reservefonds ist alljährlich mindestens ein Zehntel des Jahresgewinns zuzuweisen, bis der Fonds die Höhe von einem Zehntel des Genossenschaftskapitals erreicht hat.
 
-<sup>3</sup> Wird auf die Genossenschaftsanteile eine Quote des Reinertrages verteilt, die den landesüblichen Zinsfuss für langfristige Darlehen ohne besondere Sicherheiten übersteigt, so ist von dem diesen Zinsfuss übersteigenden Betrag ein Zehntel ebenfalls dem Reservefonds zuzuweisen.
+<sup>3</sup> Wird auf die Genossenschaftsanteile eine Quote des Jahresgewinns verteilt, die den landesüblichen Zinsfuss für langfristige Darlehen ohne besondere Sicherheiten übersteigt, so ist von dem diesen Zinsfuss übersteigenden Betrag ein Zehntel ebenfalls dem Reservefonds zuzuweisen.
 
 ### 5. Fonds zu Wohlfahrtszwecken
 
@@ -13257,11 +14099,11 @@ Die Rechte, die den Genossenschaftern in den Angelegenheiten der Genossenschaft,
 
 #### Art. 863
 
-<sup>1</sup> Die dem Gesetz und den Statuten entsprechenden Einlagen in Reserve- und andere Fonds sind in erster Linie von dem zur Verteilung gelangenden Reinertrag in Abzug zu bringen.
+<sup>1</sup> Die dem Gesetz und den Statuten entsprechenden Einlagen in Reserve- und andere Fonds sind in erster Linie von dem zur Verteilung gelangenden Jahresgewinn in Abzug zu bringen.
 
 <sup>2</sup> Soweit die Rücksicht auf das dauernde Gedeihen des Unternehmens es als angezeigt erscheinen lässt, kann die Generalversammlung auch solche Reserveanlagen beschliessen, die im Gesetz oder in den Statuten nicht vorgesehen sind oder über deren Anforderungen hinausgehen.
 
-<sup>3</sup> In gleicher Weise können zum Zwecke der Gründung und Unterstützung von Wohlfahrtseinrichtungen für Angestellte, Arbeiter und Genossenschafter sowie zu andern Wohlfahrtszwecken Beiträge aus dem Reinertrag auch dann ausgeschieden werden, wenn sie in den Statuten nicht vorgesehen sind; solche Beitrage stehen unter den Bestimmungen über die statutarischen Wohlfahrtsfonds.
+<sup>3</sup> In gleicher Weise können zum Zwecke der Gründung und Unterstützung von Wohlfahrtseinrichtungen für Angestellte, Arbeiter und Genossenschafter sowie zu andern Wohlfahrtszwecken Beiträge aus dem Jahresgewinn auch dann ausgeschieden werden, wenn sie in den Statuten nicht vorgesehen sind; solche Beitrage stehen unter den Bestimmungen über die statutarischen Wohlfahrtsfonds.
 
 ### IV. Abfindungsanspruch
 
@@ -13374,11 +14216,13 @@ Bestimmungen der Statuten, welche die Haftung auf bestimmte Zeit oder auf besond
 
 <sup>1</sup> Änderungen an den Haftungs- oder Nachschussverpflichtungen der Genossenschafter sowie die Herabsetzung oder Aufhebung der Anteilscheine können nur auf dem Wege der Statutenrevision vorgenommen werden.
 
-<sup>2</sup> Auf die Herabsetzung oder Aufhebung der Anteilscheine finden überdies die Bestimmungen über die Herabsetzung des Grundkapitals bei der Aktiengesellschaft Anwendung.
+<sup>2</sup> Auf die Herabsetzung oder Aufhebung der Anteilscheine finden überdies die Bestimmungen über die Kapitalherabsetzung bei der Aktiengesellschaft Anwendung.[^874-1]
 
 <sup>3</sup> Von einer Verminderung der Haftung oder der Nachschusspflicht werden die vor der Veröffentlichung der Statutenrevision entstandenen Verbindlichkeiten nicht betroffen.
 
 <sup>4</sup> Die Neubegründung oder Vermehrung der Haftung oder der Nachschusspflicht wirkt mit der Eintragung des Beschlusses zugunsten aller Gläubiger der Genossenschaft.
+
+[^874-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### g. Haftung neu eintretender Genossenschafter
 
@@ -13434,12 +14278,16 @@ Ihr stehen folgende unübertragbare Befugnisse zu:
 
 - 1\. die Festsetzung und Änderung der Statuten;
 - 2\.[^879-1] Wahl der Verwaltung und der Revisionsstelle;
-- 3\.[^879-2] die Genehmigung des Lageberichts und der Konzernrechnung;
+- 2<sup>bis</sup>.[^879-2] die Genehmigung der Jahresrechnung sowie gegebenenfalls die Beschlussfassung über die Verwendung des Bilanzgewinns;
+- 3\.[^879-3] die Genehmigung des Lageberichts und der Konzernrechnung;
+- 3<sup>bis</sup>.[^879-4] die Beschlussfassung über die Rückzahlung von Kapitalreserven;
 - 4\. die Entlastung der Verwaltung;
 - 5\. die Beschlussfassung über die Gegenstände, die der Generalversammlung durch das Gesetz oder die Statuten vorbehalten sind.
 
 [^879-1]: Fassung gemäss Ziff. I 3 des BG vom 16. Dez. 2005 (GmbH-Recht sowie Anpassungen im Aktien-, Genossenschafts-, Handelsregister- und Firmenrecht), in Kraft seit 1. Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
-[^879-2]: Fassung gemäss Ziff. I 3 des BG vom 23. Dez. 2011 (Rechnungslegungsrecht), in Kraft seit 1. Jan. 2013 ([AS 2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810); [BBl 2008 1589](https://fedlex.data.admin.ch/eli/fga/2008/416)).
+[^879-2]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^879-3]: Fassung gemäss Ziff. I 3 des BG vom 23. Dez. 2011 (Rechnungslegungsrecht), in Kraft seit 1. Jan. 2013 ([AS 2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810); [BBl 2008 1589](https://fedlex.data.admin.ch/eli/fga/2008/416)).
+[^879-4]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### II. Urabstimmung
 
@@ -13581,6 +14429,16 @@ Jeder Genossenschafter hat in der Generalversammlung oder in der Urabstimmung ei
 
 [^893-1]: Fassung gemäss Anhang Ziff. 2 des Fusionsgesetzes vom 3. Okt. 2003, in Kraft seit 1. Juli 2004 ([AS 2004 2617](https://fedlex.data.admin.ch/eli/oc/2004/320); [BBl 2000 4337](https://fedlex.data.admin.ch/eli/fga/2000/921)).
 
+### XII. Tagungsort und Verwendung elektronischer Mittel
+
+#### Art. 893a
+
+[^893a-1]
+
+Die Vorschriften des Aktienrechts über den Tagungsort und die Verwendung elektronischer Mittel bei der Vorbereitung und Durchführung der Generalversammlung sind sinngemäss anwendbar.
+
+[^893a-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
 ### B. Verwaltung
 
 ### I. Wählbarkeit
@@ -13660,15 +14518,13 @@ Wird die Genossenschaft beim Abschluss eines Vertrages durch diejenige Person ve
 
 Die zur Vertretung der Genossenschaft befugten Personen haben in der Weise zu zeichnen, dass sie der Firma der Genossenschaft ihre Unterschrift beifügen.
 
-### 5. Eintragung
-
-[^part3-tit29-chap5-lvlB-lvlIV-lvl5-1]
-
-[^part3-tit29-chap5-lvlB-lvlIV-lvl5-1]: Fassung gemäss Ziff. I 3 des BG vom 16. Dez. 2005 (GmbH-Recht sowie Anpassungen im Aktien-, Genossenschafts-, Handelsregister- und Firmenrecht), in Kraft seit 1. Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+### 5. …
 
 #### Art. 901
 
-Die zur Vertretung der Genossenschaft befugten Personen sind von der Verwaltung zur Eintragung in das Handelsregister anzumelden unter Vorlegung einer beglaubigten Abschrift des Beschlusses. Sie haben ihre Unterschrift beim Handelsregisteramt zu zeichnen oder die Zeichnung in beglaubigter Form einzureichen.
+[^901-1]
+
+[^901-1]: Aufgehoben durch Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), mit Wirkung seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### V. Pflichten
 
@@ -13685,25 +14541,37 @@ Sie ist insbesondere verpflichtet:
 - 1\. die Geschäfte der Generalversammlung vorzubereiten und deren Beschlüsse auszuführen;
 - 2\. die mit der Geschäftsführung und Vertretung Beauftragten im Hinblick auf die Beobachtung der Gesetze, der Statuten und allfälliger Reglemente zu überwachen und sich über den Geschäftsgang regelmässig unterrichten zu lassen.
 
-<sup>3</sup> Die Verwaltung ist dafür verantwortlich, dass ihre Protokolle und diejenigen der Generalversammlung, die notwendigen Geschäftsbücher sowie das Genossenschafterverzeichnis regelmässig geführt werden, dass die Betriebsrechnung und die Jahresbilanz nach den gesetzlichen Vorschriften aufgestellt und der Revisionsstelle zur Prüfung unterbreitet und die vorgeschriebenen Anzeigen an das Handelsregisteramt über Eintritt und Austritt der Genossenschafter gemacht werden.[^902-1]
+<sup>3</sup>
 
-[^902-1]: Fassung gemäss Ziff. I 3 des BG vom 16. Dez. 2005 (GmbH-Recht sowie Anpassungen im Aktien-, Genossenschafts-, Handelsregister- und Firmenrecht), in Kraft seit 1. Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+Die Verwaltung ist dafür verantwortlich, dass:
 
-### 2. Anzeigepflicht bei Überschuldung und bei Kapitalverlust
+- 1\. ihre Protokolle und diejenigen der Generalversammlung, die notwendigen Geschäftsbücher sowie das Genossenschafterverzeichnis geführt werden;
+- 2\. der Geschäftsbericht nach den gesetzlichen Vorschriften aufgestellt und der Revisionsstelle zur Prüfung unterbreitet wird; und
+- 3\. die Anzeigen an das Handelsregisteramt über Eintritt und Austritt der Genossenschafter gemacht werden.[^902-1]
+
+[^902-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### 2. Rückerstattung von Leistungen
+
+#### Art. 902a
+
+[^902a-1]
+
+Auf die Rückerstattung von Leistungen sind die Vorschriften des Aktienrechts entsprechend anwendbar.
+
+[^902a-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### 3. Drohende Zahlungsunfähigkeit, Kapitalverlust und Überschuldung
 
 #### Art. 903
 
-<sup>1</sup> Besteht begründete Besorgnis einer Überschuldung, so hat die Verwaltung sofort auf Grund der Veräusserungswerte eine Zwischenbilanz aufzustellen.
+[^903-1]
 
-<sup>2</sup> Zeigt die letzte Jahresbilanz und eine daraufhin zu errichtende Liquidationsbilanz oder zeigt eine Zwischenbilanz, dass die Forderungen der Genossenschaftsgläubiger durch die Aktiven nicht mehr gedeckt sind, so hat die Verwaltung das Gericht zu benachrichtigen. Dieses hat die Konkurseröffnung auszusprechen, falls nicht die Voraussetzungen eines Aufschubes gegeben sind.
+<sup>1</sup> Die Bestimmungen des Aktienrechts zur drohenden Zahlungsunfähigkeit, zur Überschuldung sowie zur Aufwertung von Grundstücken und Beteiligungen sind entsprechend anwendbar.
 
-<sup>3</sup> Bei Genossenschaften mit Anteilscheinen hat die Verwaltung unverzüglich eine Generalversammlung einzuberufen und diese von der Sachlage zu unterrichten, wenn die letzte Jahresbilanz ergibt, dass die Hälfte des Genossenschaftskapitals nicht mehr gedeckt ist.
+<sup>2</sup> Bei Genossenschaften mit Anteilscheinen sind überdies die Bestimmungen des Aktienrechts über den Kapitalverlust entsprechend anwendbar.
 
-<sup>4</sup> Bei Genossenschaften mit Nachschusspflicht muss das Gericht erst benachrichtigt werden, wenn der durch die Bilanz ausgewiesene Verlust nicht innert drei Monaten durch Nachschüsse der Mitglieder gedeckt wird.
-
-<sup>5</sup> Auf Antrag der Verwaltung oder eines Gläubigers kann das Gericht, falls Aussicht auf Sanierung besteht, die Konkurseröffnung aufschieben. In diesem Falle trifft es die zur Erhaltung des Vermögens geeigneten Massnahmen, wie Inventaraufnahme, Bestellung eines Sachwalters.
-
-<sup>6</sup> Bei konzessionierten Versicherungsgenossenschaften gelten die Ansprüche der Mitglieder aus Versicherungsverträgen als Gläubigerrechte.
+[^903-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### VI. Rückerstattung entrichteter Zahlungen
 
@@ -13786,11 +14654,19 @@ Die Genossenschaft wird aufgelöst:
 - 3\. durch Eröffnung des Konkurses;
 - 4\. in den übrigen vom Gesetze vorgesehenen Fällen.
 
-### B. Anmeldung beim Handelsregister
+### B. Eintragung ins Handelsregister
 
 #### Art. 912
 
-Erfolgt die Auflösung der Genossenschaft nicht durch Konkurs, so ist sie von der Verwaltung zur Eintragung in das Handelsregister anzumelden.
+[^912-1]
+
+<sup>1</sup> Die Auflösung einer Genossenschaft muss ins Handelsregister eingetragen werden.
+
+<sup>2</sup> Die Auflösung durch Urteil ist vom Gericht dem Handelsregisteramt unverzüglich zu melden.
+
+<sup>3</sup> Die Auflösung aus anderen Gründen ist von der Genossenschaft beim Handelsregisteramt anzumelden.
+
+[^912-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### C. Liquidation, Verteilung des Vermögens
 
@@ -13858,11 +14734,12 @@ Alle mit der Verwaltung, Geschäftsführung, Revision oder Liquidation befassten
 
 [^919-1]
 
-<sup>1</sup> Der Anspruch auf Schadenersatz gegen die nach den vorstehenden Bestimmungen verantwortlichen Personen verjährt in fünf Jahren von dem Tage an, an dem der Geschädigte Kenntnis vom Schaden und von der Person des Ersatzpflichtigen erlangt hat, jedenfalls aber mit dem Ablaufe von zehn Jahren, vom Tage an gerechnet, an welchem das schädigende Verhalten erfolgte oder aufhörte.
+<sup>1</sup> Der Anspruch auf Schadenersatz gegen die nach den vorstehenden Bestimmungen verantwortlichen Personen verjährt in drei Jahren von dem Tag an, an dem der Geschädigte Kenntnis vom Schaden und von der Person des Ersatzpflichtigen erlangt hat, jedenfalls aber mit dem Ablauf von zehn Jahren, vom Tage an gerechnet, an welchem das schädigende Verhalten erfolgte oder aufhörte.[^919-2]
 
 <sup>2</sup> Hat die ersatzpflichtige Person durch ihr schädigendes Verhalten eine strafbare Handlung begangen, so verjährt der Anspruch auf Schadenersatz frühestens mit Eintritt der strafrechtlichen Verfolgungsverjährung. Tritt diese infolge eines erstinstanzlichen Strafurteils nicht mehr ein, so verjährt der Anspruch frühestens mit Ablauf von drei Jahren seit Eröffnung des Urteils.
 
 [^919-1]: Fassung gemäss Ziff. I des BG vom 15. Juni 2018 (Revision des Verjährungsrechts), in Kraft seit 1. Jan. 2020 ([AS 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [BBl 2014 235](https://fedlex.data.admin.ch/eli/fga/2014/65)).
+[^919-2]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### E. Bei Kredit- und Versicherungsgenossenschaften
 
@@ -14062,17 +14939,21 @@ Die im Handelsregister eingetragenen Rechtseinheiten erhalten eine Unternehmens-
 
 <sup>1</sup> Weist eine Rechtseinheit keine Geschäftstätigkeit mehr auf und hat sie keine verwertbaren Aktiven mehr, so löscht das Handelsregisteramt sie aus dem Handelsregister.
 
-<sup>2</sup> Das Handelsregisteramt fordert die Rechtseinheit auf, ein Interesse an der Aufrechterhaltung des Eintrags mitzuteilen. Bleibt diese Aufforderung ergebnislos, so fordert es weitere Betroffene durch dreimalige Publikation im Schweizerischen Handelsamtsblatt auf, ein solches Interesse mitzuteilen. Bleibt auch diese Aufforderung ergebnislos, so wird die Rechtseinheit gelöscht.
+<sup>2</sup> Das Handelsregisteramt fordert die Rechtseinheit auf, ein Interesse an der Aufrechterhaltung des Eintrags mitzuteilen. Bleibt diese Aufforderung ergebnislos, so fordert es weitere Betroffene durch Publikation im Schweizerischen Handelsamtsblatt auf, ein solches Interesse mitzuteilen. Bleibt auch diese Aufforderung ergebnislos, so wird die Rechtseinheit gelöscht.[^934-1]
 
 <sup>3</sup> Machen weitere Betroffene ein Interesse an der Aufrechterhaltung des Eintrags geltend, so überweist das Handelsregisteramt die Angelegenheit dem Gericht zum Entscheid.
+
+[^934-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 2. Bei fehlendem Rechtsdomizil von Einzelunternehmen und Zweigniederlassungen
 
 #### Art. 934a
 
-<sup>1</sup> Hat ein Einzelunternehmen kein Rechtsdomizil mehr, so wird es vom Handelsregisteramt nach dreimaliger ergebnisloser Aufforderung im Schweizerischen Handelsamtsblatt aus dem Handelsregister gelöscht.
+<sup>1</sup> Hat ein Einzelunternehmen kein Rechtsdomizil mehr, so wird es vom Handelsregisteramt nach ergebnisloser Aufforderung im Schweizerischen Handelsamtsblatt aus dem Handelsregister gelöscht.[^934a-1]
 
 <sup>2</sup> Hat eine Zweigniederlassung mit Hauptniederlassung in der Schweiz kein Rechtsdomizil mehr, so wird die Zweigniederlassung vom Handelsregisteramt nach ergebnisloser Aufforderung der Hauptniederlassung aus dem Handelsregister gelöscht.
+
+[^934a-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### VI. Wiedereintragung
 
@@ -14349,12 +15230,12 @@ Die Eintragung einer Firma entbindet den Berechtigten nicht von der Einhaltung a
 
 <sup>2</sup> Wer durch den unbefugten Gebrauch einer Firma beeinträchtigt wird, kann auf Unterlassung der weitern Führung der Firma und bei Verschulden auf Schadenersatz klagen.
 
-### Zweiunddreissigster Titel:**** Kaufmännische Buchführung, Rechnungslegung, weitere Transparenz- und Sorgfaltspflichten****
+### Zweiunddreissigster Titel: Kaufmännische Buchführung, Rechnungslegung, weitere Transparenz- und Sorgfaltspflichten
 
 [^part4-tit32-1][^part4-tit32-2]
 
 [^part4-tit32-1]: Fassung gemäss Ziff. I 2 des BG vom 23. Dez. 2011 (Rechnungslegungsrecht), in Kraft seit 1. Jan. 2013 ([AS 2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810); [BBl 2008 1589](https://fedlex.data.admin.ch/eli/fga/2008/416)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
-[^part4-tit32-2]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Indirekter Gegenvorschlag zur Volksinitiative «Für verantwortungsvolle Unternehmen – zum Schutz von Mensch und Umwelt»), in Kraft seit 1. Jan. 2022 ([AS 2021 846](https://fedlex.data.admin.ch/eli/oc/2021/846); BBl **2****017** 399).
+[^part4-tit32-2]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Indirekter Gegenvorschlag zur Volksinitiative «Für verantwortungsvolle Unternehmen – zum Schutz von Mensch und Umwelt»), in Kraft seit 1. Jan. 2022 ([AS 2021 846](https://fedlex.data.admin.ch/eli/oc/2021/846); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### Erster Abschnitt: Allgemeine Bestimmungen
 
@@ -14435,6 +15316,10 @@ Sie folgt den Grundsätzen ordnungsmässiger Buchführung. Namentlich sind zu be
 
 <sup>2</sup> Sofern die Nettoerlöse aus Lieferungen und Leistungen oder die Finanzerträge 100 000 Franken nicht überschreiten, kann auf die zeitliche Abgrenzung verzichtet und stattdessen auf Ausgaben und Einnahmen abgestellt werden.
 
+<sup>3</sup> Erfolgt die Rechnungslegung nicht in Franken, so ist zur Festlegung des Wertes gemäss Absatz 2 der Jahresdurchschnittskurs massgebend.[^958b-1]
+
+[^958b-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
 ### III. Grundsätze ordnungsmässiger Rechnungslegung
 
 #### Art. 958c
@@ -14467,7 +15352,11 @@ Für die Rechnungslegung sind insbesondere die folgenden Grundsätze massgebend:
 
 <sup>4</sup> Die Rechnungslegung erfolgt in einer der Landessprachen oder in Englisch.
 
-### D. Offenlegung und Einsichtnahme
+### D. Veröffentlichung und Einsichtnahme
+
+[^part4-tit32-chap1-lvlD-1]
+
+[^part4-tit32-chap1-lvlD-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 958e
 
@@ -14479,6 +15368,10 @@ Jahresrechnung und Konzernrechnung sind nach der Genehmigung durch das zuständi
 - 2\. Beteiligungspapiere an einer Börse kotiert hat.
 
 <sup>2</sup> Die übrigen Unternehmen müssen den Gläubigern, die ein schutzwürdiges Interesse nachweisen, Einsicht in den Geschäftsbericht und in die Revisionsberichte gewähren. Im Streitfall entscheidet das Gericht.
+
+<sup>3</sup> Nutzt das Unternehmen eine Verzichtsmöglichkeit gemäss Artikel 961*d* Absatz 1, 962 Absatz 3 oder 963*a* Absatz 1 Ziffer 2, so richten sich die Veröffentlichung und die Einsichtnahme nach den Vorschriften für die eigene Jahresrechnung.[^958e-1]
+
+[^958e-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### E. Führung und Aufbewahrung der Geschäftsbücher
 
@@ -14492,7 +15385,11 @@ Jahresrechnung und Konzernrechnung sind nach der Genehmigung durch das zuständi
 
 <sup>4</sup> Der Bundesrat erlässt die Vorschriften über die zu führenden Geschäftsbücher, die Grundsätze zu deren Führung und Aufbewahrung sowie über die verwendbaren Informationsträger.
 
-### Zweiter Abschnitt: Jahresrechnung
+### Zweiter Abschnitt: Jahresrechnung und Zwischenabschluss
+
+[^part4-tit32-chap2-1]
+
+[^part4-tit32-chap2-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### A. Bilanz
 
@@ -14570,12 +15467,19 @@ Unter den Passiven müssen ihrer Fälligkeit entsprechend mindestens folgende Po
   - a. Grund-, Gesellschafter- oder Stiftungskapital, gegebenenfalls gesondert nach Beteiligungskategorien,
   - b. gesetzliche Kapitalreserve,
   - c. gesetzliche Gewinnreserve,
-  - d. freiwillige Gewinnreserven oder kumulierte Verluste als Minusposten,
-  - e. eigene Kapitalanteile als Minusposten.
+  - d.[^959a-1] freiwillige Gewinnreserven,
+  - e.[^959a-2] eigene Kapitalanteile als Minusposten,
+  - f.[^959a-3] Gewinnvortrag oder Verlustvortrag als Minusposten,
+  - g.[^959a-4] Jahresgewinn oder Jahresverlust als Minusposten.
 
 <sup>3</sup> Weitere Positionen müssen in der Bilanz oder im Anhang einzeln ausgewiesen werden, sofern dies für die Beurteilung der Vermögens- oder Finanzierungslage durch Dritte wesentlich oder aufgrund der Tätigkeit des Unternehmens üblich ist.
 
 <sup>4</sup> Forderungen und Verbindlichkeiten gegenüber direkt oder indirekt Beteiligten und Organen sowie gegenüber Unternehmen, an denen direkt oder indirekt eine Beteiligung besteht, müssen jeweils gesondert in der Bilanz oder im Anhang ausgewiesen werden.
+
+[^959a-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^959a-2]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^959a-3]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^959a-4]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### B. Erfolgsrechnung; Mindestgliederung
 
@@ -14636,7 +15540,7 @@ Der Anhang muss weiter folgende Angaben enthalten, sofern diese nicht bereits au
 - 1\. Firma oder Name sowie Rechtsform und Sitz des Unternehmens;
 - 2\. eine Erklärung darüber, ob die Anzahl Vollzeitstellen im Jahresdurchschnitt nicht über 10, über 50 beziehungsweise über 250 liegt;
 - 3\. Firma, Rechtsform und Sitz der Unternehmen, an denen direkte oder wesentliche indirekte Beteiligungen bestehen, unter Angabe des Kapital- und des Stimmenanteils;
-- 4\. Anzahl eigener Anteile, die das Unternehmen selbst und die Unternehmen, an denen es beteiligt ist, halten;
+- 4\.[^959c-1] Anzahl eigener Anteile, die das Unternehmen selbst oder die von ihm kontrollierten Unternehmen (Art. 963) halten;
 - 5\. Erwerb und Veräusserung eigener Anteile und die Bedingungen, zu denen sie erworben oder veräussert wurden;
 - 6\. der Restbetrag der Verbindlichkeiten aus kaufvertragsähnlichen Leasinggeschäften und anderen Leasingverpflichtungen, sofern diese nicht innert zwölf Monaten ab Bilanzstichtag auslaufen oder gekündigt werden können;
 - 7\. Verbindlichkeiten gegenüber Vorsorgeeinrichtungen;
@@ -14646,11 +15550,16 @@ Der Anhang muss weiter folgende Angaben enthalten, sofern diese nicht bereits au
 - 11\. Anzahl und Wert von Beteiligungsrechten oder Optionen auf solche Rechte für alle Leitungs- und Verwaltungsorgane sowie für die Mitarbeitenden;
 - 12\. Erläuterungen zu ausserordentlichen, einmaligen oder periodenfremden Positionen der Erfolgsrechnung;
 - 13\. wesentliche Ereignisse nach dem Bilanzstichtag;
-- 14\. bei einem vorzeitigen Rücktritt der Revisionsstelle: die Gründe, die dazu geführt haben.
+- 14\.[^959c-2] bei einem vorzeitigen Rücktritt oder einer Abberufung der Revisionsstelle: die Gründe, die dazu geführt haben;
+- 15\.[^959c-3] alle Kapitalerhöhungen und Kapitalherabsetzungen, die der Verwaltungsrat innerhalb eines Kapitalbands vorgenommen hat.
 
 <sup>3</sup> Einzelunternehmen und Personengesellschaften können auf die Erstellung des Anhangs verzichten, wenn sie nicht zur Rechnungslegung nach den Vorschriften für grössere Unternehmen verpflichtet sind. Werden in den Vorschriften zur Mindestgliederung von Bilanz und Erfolgsrechnung zusätzliche Angaben gefordert und wird auf die Erstellung eines Anhangs verzichtet, so sind diese Angaben direkt in der Bilanz oder in der Erfolgsrechnung auszuweisen.
 
 <sup>4</sup> Unternehmen, die Anleihensobligationen ausstehend haben, müssen Angaben zu deren Beträgen, Zinssätzen, Fälligkeiten und zu den weiteren Konditionen machen.
+
+[^959c-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^959c-2]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^959c-3]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### D. Bewertung
 
@@ -14723,6 +15632,26 @@ Rückstellungen dürfen zudem insbesondere gebildet werden für:
 
 <sup>4</sup> Nicht mehr begründete Rückstellungen müssen nicht aufgelöst werden.
 
+### E. Zwischenabschluss
+
+#### Art. 960f
+
+[^960f-1]
+
+<sup>1</sup> Ein Zwischenabschluss ist nach den Vorschriften zur Jahresrechnung zu erstellen und enthält eine Bilanz, eine Erfolgsrechnung und einen Anhang. Die Vorschriften für grössere Unternehmen und Konzerne bleiben vorbehalten.
+
+<sup>2</sup>
+
+Vereinfachungen oder Verkürzungen sind zulässig, sofern keine Beeinträchtigung der Darstellung des Geschäftsgangs entsteht. Es sind mindestens die Überschriften und Zwischensummen auszuweisen, die in der letzten Jahresrechnung enthalten sind. Zudem enthält der Anhang des Zwischenabschlusses die folgenden Angaben:
+
+- 1\. den Zweck des Zwischenabschlusses;
+- 2\. die Vereinfachungen und Verkürzungen, einschliesslich allfälliger Abweichungen von den für die letzte Jahresrechnung verwendeten Grundsätzen;
+- 3\. weitere Faktoren, welche die wirtschaftliche Lage des Unternehmens während der Berichtsperiode wesentlich beeinflusst haben, insbesondere Ausführungen zur Saisonalität.
+
+<sup>3</sup> Der Zwischenabschluss ist als solcher zu bezeichnen. Er ist vom Vorsitzenden des obersten Leitungs- oder Verwaltungsorgans und der innerhalb des Unternehmens für den Zwischenabschluss zuständigen Person zu unterzeichnen.
+
+[^960f-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
 ### Dritter Abschnitt: Rechnungslegung für grössere Unternehmen
 
 ### A. Zusätzliche Anforderungen an den Geschäftsbericht
@@ -14769,11 +15698,20 @@ Der Lagebericht muss namentlich Aufschluss geben über:
 
 <sup>3</sup> Der Lagebericht darf der Darstellung der wirtschaftlichen Lage in der Jahresrechnung nicht widersprechen.
 
-### E. Erleichterung infolge Konzernrechnung
+### E. Erleichterungen
+
+[^part4-tit32-chap3-lvlE-1]
+
+[^part4-tit32-chap3-lvlE-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 961d
 
-<sup>1</sup> Auf die zusätzlichen Angaben im Anhang zur Jahresrechnung, die Geldflussrechnung und den Lagebericht kann verzichtet werden, wenn das Unternehmen selbst oder eine juristische Person, die das Unternehmen kontrolliert, eine Konzernrechnung nach einem anerkannten Standard zur Rechnungslegung erstellt.
+<sup>1</sup>
+
+Auf die zusätzlichen Angaben im Anhang zur Jahresrechnung, die Geldflussrechnung und den Lagebericht kann verzichtet werden, wenn:
+
+- 1\. das Unternehmen einen Abschluss oder eine Konzernrechnung nach einem anerkannten Standard zur Rechnungslegung erstellt; oder
+- 2\. eine juristische Person, die das Unternehmen kontrolliert, eine Konzernrechnung nach einem anerkannten Standard zur Rechnungslegung erstellt.[^961d-1]
 
 <sup>2</sup>
 
@@ -14782,6 +15720,8 @@ Es können eine Rechnungslegung nach den Vorschriften dieses Abschnitts verlange
 - 1\. Gesellschafter, die mindestens 10 Prozent des Grundkapitals vertreten;
 - 2\. 10 Prozent der Genossenschafter oder 20 Prozent der Vereinsmitglieder;
 - 3\. jeder Gesellschafter oder jedes Mitglied, das einer persönlichen Haftung oder einer Nachschusspflicht unterliegt.
+
+[^961d-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### Vierter Abschnitt: Abschluss nach anerkanntem Standard zur Rechnungslegung
 
@@ -14867,11 +15807,14 @@ Eine juristische Person ist von der Pflicht zur Erstellung einer Konzernrechnung
 Eine Konzernrechnung ist dennoch zu erstellen, wenn:
 
 - 1\. dies für eine möglichst zuverlässige Beurteilung der wirtschaftlichen Lage notwendig ist;
-- 2\. Gesellschafter, die mindestens 20 Prozent des Grundkapitals vertreten oder 10 Prozent der Genossenschafter oder 10 Prozent der Vereinsmitglieder dies verlangen;
+- 2\.[^963a-1] Gesellschafter, die mindestens 20 Prozent des Grundkapitals vertreten, oder 10 Prozent der Genossenschafter oder 20 Prozent der Vereinsmitglieder dies verlangen;
 - 3\. ein Gesellschafter oder ein Vereinsmitglied, der oder das einer persönlichen Haftung oder einer Nachschusspflicht unterliegt, dies verlangt; oder
 - 4\. die Stiftungsaufsichtsbehörde dies verlangt.
 
-<sup>3</sup> Verzichtet eine juristische Person gemäss Absatz 1 Ziffer 2 auf die Erstellung der Konzernrechnung für den Unterkonzern, so muss sie die Konzernrechnung des Oberkonzerns nach den Vorschriften für die eigene Jahresrechnung bekannt machen.
+<sup>3</sup> Erfolgt die Rechnungslegung nicht in Franken, so ist zur Festlegung der Werte gemäss Absatz 1 Ziffer 1 für die Bilanzsumme der Umrechnungskurs zum Bilanzstichtag und für den Umsatzerlös der Jahresdurchschnittskurs massgebend.[^963a-2]
+
+[^963a-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^963a-2]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### C. Anerkannte Standards zur Rechnungslegung
 
@@ -14903,7 +15846,7 @@ Eine Konzernrechnung ist dennoch nach einem anerkannten Standard zur Rechnungsle
 
 [^964-1]: Aufgehoben durch Ziff. I des BG vom 22. Dez. 1999, mit Wirkung seit 1. Juni 2002 ([AS 2002 949](https://fedlex.data.admin.ch/eli/oc/2002/170); [BBl 1999 5149](https://fedlex.data.admin.ch/eli/fga/1999/1_5149_4753_4457)).
 
-### Sechster Abschnitt:**** Transparenz über nichtfinanzielle Belange
+### Sechster Abschnitt: Transparenz über nichtfinanzielle Belange
 
 [^part4-tit32-chap6-1]
 
@@ -14980,7 +15923,7 @@ Das oberste Leitungs- oder Verwaltungsorgan stellt sicher, dass der Bericht:
 
 <sup>3</sup> Für die Führung und Aufbewahrung der Berichte gilt Artikel 958*f* sinngemäss.
 
-### Siebter Abschnitt:**** Transparenz bei Rohstoffunternehmen
+### Siebter Abschnitt: Transparenz bei Rohstoffunternehmen
 
 [^part4-tit32-chap7-1]
 
@@ -15052,7 +15995,7 @@ Für die Führung und die Aufbewahrung des Berichts über Zahlungen an staatlich
 
 Der Bundesrat kann im Rahmen eines international abgestimmten Vorgehens festlegen, dass die Verpflichtungen nach den Artikeln 964*d*–964*h* auch auf Unternehmen Anwendung finden, die mit Rohstoffen handeln.
 
-### Achter Abschnitt:**** Sorgfaltspflichten und Transparenz bezüglich Mineralien und Metallen aus Konfliktgebieten und Kinderarbeit
+### Achter Abschnitt: Sorgfaltspflichten und Transparenz bezüglich Mineralien und Metallen aus Konfliktgebieten und Kinderarbeit
 
 [^part4-tit32-chap8-1]
 
@@ -15112,7 +16055,7 @@ Das oberste Leitungs- oder Verwaltungsorgan stellt sicher, dass der Bericht:
 
 <sup>5</sup> Unternehmen, die Produkte und Dienstleistungen von Unternehmen anbieten, die einen Bericht verfasst haben, müssen für diese Produkte und Dienstleistungen selber keinen Bericht erstellen.
 
-## Fünfte Abteilung:**** Die Wertpapiere
+## Fünfte Abteilung: Die Wertpapiere
 
 [^part5-1]
 
@@ -15178,9 +16121,11 @@ Mit der Indossierung und der Übergabe der indossierten Urkunde gehen bei allen 
 
 #### Art. 971
 
-<sup>1</sup> Wird ein Wertpapier vermisst, so kann es durch den Richter kraftlos erklärt werden.
+<sup>1</sup> Wird ein Wertpapier vermisst, so kann es durch das Gericht[^971-1] kraftlos erklärt werden.
 
 <sup>2</sup> Die Kraftloserklärung kann verlangen, wer zur Zeit des Verlustes oder der Entdeckung des Verlustes an dem Papier berechtigt ist.
+
+[^971-1]: Ausdruck gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)). Diese Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.
 
 ### II. Verfahren. Wirkung
 
@@ -15447,7 +16392,7 @@ Hat sich der Schuldner im Namenpapier das Recht vorbehalten, jedem Inhaber der U
 
 #### Art. 981
 
-<sup>1</sup> Inhaberpapiere, wie Aktien, Obligationen, Genussscheine, Couponsbogen, Bezugsscheine für Couponsbogen, jedoch mit Ausschluss einzelner Coupons, werden auf Begehren des Berechtigten durch den Richter kraftlos erklärt.
+<sup>1</sup> Inhaberpapiere, wie Aktien, Obligationen, Genussscheine, Couponsbogen, Bezugsscheine für Couponsbogen, jedoch mit Ausschluss einzelner Coupons, werden auf Begehren des Berechtigten durch das Gericht kraftlos erklärt.
 
 <sup>2</sup> …[^981-1]
 
@@ -15475,9 +16420,11 @@ Erachtet der Richter die Darstellung des Gesuchstellers über seinen frühern Be
 
 #### Art. 984
 
-<sup>1</sup> Die Aufforderung zur Vorlegung der Urkunde ist dreimal im Schweizerischen Handelsamtsblatt zu veröffentlichen.
+<sup>1</sup> Die Aufforderung zur Vorlegung der Urkunde ist im Schweizerischen Handelsamtsblatt zu veröffentlichen.[^984-1]
 
-<sup>2</sup> In besonderen Fällen kann der Richter noch in anderer Weise für angemessene Veröffentlichung sorgen.
+<sup>2</sup> In besonderen Fällen kann das Gericht noch in anderer Weise für angemessene Veröffentlichung sorgen.
+
+[^984-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 5. Wirkung
 
@@ -15485,17 +16432,17 @@ Erachtet der Richter die Darstellung des Gesuchstellers über seinen frühern Be
 
 #### Art. 985
 
-<sup>1</sup> Wird das abhanden gekommene Inhaberpapier vorgelegt, so setzt der Richter dem Gesuchsteller Frist zur Anhebung der Klage auf Herausgabe der Urkunde.
+<sup>1</sup> Wird das abhanden gekommene Inhaberpapier vorgelegt, so setzt das Gericht dem Gesuchsteller Frist zur Anhebung der Klage auf Herausgabe der Urkunde.
 
-<sup>2</sup> Klagt der Gesuchsteller nicht binnen dieser Frist, so gibt der Richter die Urkunde zurück und hebt das Zahlungsverbot auf.
+<sup>2</sup> Klagt der Gesuchsteller nicht binnen dieser Frist, so gibt das Gericht die Urkunde zurück und hebt das Zahlungsverbot auf.
 
 ### b. Bei Nichtvorlegung
 
 #### Art. 986
 
-<sup>1</sup> Wird das abhanden gekommene Inhaberpapier innert der angesetzten Frist nicht vorgelegt, so kann der Richter die Urkunde kraftlos erklären oder je nach Umständen weitere Anordnungen treffen.
+<sup>1</sup> Wird das abhanden gekommene Inhaberpapier innert der angesetzten Frist nicht vorgelegt, so kann das Gericht die Urkunde kraftlos erklären oder je nach Umständen weitere Anordnungen treffen.
 
-<sup>2</sup> Die Kraftloserklärung eines Inhaberpapiers ist sofort im Schweizerischen Handelsamtsblatt, nach Ermessen des Richters auch anderweitig zu veröffentlichen.
+<sup>2</sup> Die Kraftloserklärung eines Inhaberpapiers ist sofort im Schweizerischen Handelsamtsblatt, nach Ermessen des Gerichts auch anderweitig zu veröffentlichen.
 
 <sup>3</sup> Nach der Kraftloserklärung ist der Gesuchsteller berechtigt, auf seine Kosten die Ausfertigung einer neuen Urkunde oder die Erfüllung der fälligen Leistung zu fordern.
 
@@ -15503,9 +16450,9 @@ Erachtet der Richter die Darstellung des Gesuchstellers über seinen frühern Be
 
 #### Art. 987
 
-<sup>1</sup> Sind einzelne Coupons abhanden gekommen, so hat der Richter auf Begehren des Berechtigten zu verfügen, dass der Betrag bei Verfall oder, sofern der Coupon bereits verfallen ist, sofort gerichtlich hinterlegt werde.
+<sup>1</sup> Sind einzelne Coupons abhanden gekommen, so hat das Gericht auf Begehren des Berechtigten zu verfügen, dass der Betrag bei Verfall oder, sofern der Coupon bereits verfallen ist, sofort gerichtlich hinterlegt werde.
 
-<sup>2</sup> Nach Ablauf von drei Jahren seit dem Verfalltage ist, wenn sich inzwischen kein Berechtigter gemeldet hat, der Betrag nach Verfügung des Richters an den Gesuchsteller herauszugeben.
+<sup>2</sup> Nach Ablauf von drei Jahren seit dem Verfalltage ist, wenn sich inzwischen kein Berechtigter gemeldet hat, der Betrag nach Verfügung des Gerichts an den Gesuchsteller herauszugeben.
 
 ### III. Bei Banknoten und ähnlichen Papieren
 
@@ -16363,9 +17310,9 @@ Die Verjährung wird durch Anhebung der Klage, durch Einreichung des Betreibungs
 
 #### Art. 1072
 
-<sup>1</sup> Derjenige, dem ein Wechsel abhanden gekommen ist, kann beim Richter verlangen, dass dem Bezogenen die Bezahlung des Wechsels verboten werde.[^1072-1]
+<sup>1</sup> Derjenige, dem ein Wechsel abhanden gekommen ist, kann beim Gericht verlangen, dass dem Bezogenen die Bezahlung des Wechsels verboten werde.[^1072-1]
 
-<sup>2</sup> Der Richter ermächtigt mit dem Zahlungsverbot den Bezogenen, am Verfalltage den Wechselbetrag zu hinterlegen, und bestimmt den Ort der Hinterlegung.
+<sup>2</sup> Das Gericht ermächtigt mit dem Zahlungsverbot den Bezogenen, am Verfalltage den Wechselbetrag zu hinterlegen, und bestimmt den Ort der Hinterlegung.
 
 [^1072-1]: Fassung gemäss Anhang Ziff. 5 des Gerichtsstandsgesetzes vom 24. März 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); [BBl 1999 III 2829](https://fedlex.data.admin.ch/eli/fga/1999/1_2829_2591_2427)).
 
@@ -16373,9 +17320,9 @@ Die Verjährung wird durch Anhebung der Klage, durch Einreichung des Betreibungs
 
 #### Art. 1073
 
-<sup>1</sup> Ist der Inhaber des Wechsels bekannt, so setzt der Richter dem Gesuchsteller eine angemessene Frist zur Anhebung der Klage auf Herausgabe des Wechsels.
+<sup>1</sup> Ist der Inhaber des Wechsels bekannt, so setzt das Gericht dem Gesuchsteller eine angemessene Frist zur Anhebung der Klage auf Herausgabe des Wechsels.
 
-<sup>2</sup> Klagt der Gesuchsteller nicht binnen dieser Frist, so hebt der Richter das dem Bezogenen auferlegte Zahlungsverbot auf.
+<sup>2</sup> Klagt der Gesuchsteller nicht binnen dieser Frist, so hebt das Gericht das dem Bezogenen auferlegte Zahlungsverbot auf.
 
 ### 3. Unbekannter Inhaber
 
@@ -16391,7 +17338,7 @@ Die Verjährung wird durch Anhebung der Klage, durch Einreichung des Betreibungs
 
 #### Art. 1075
 
-Erachtet der Richter die Darstellung des Gesuchstellers über den frühern Besitz und über den Verlust des Wechsels für glaubhaft, so fordert er durch öffentliche Bekanntmachung den Inhaber auf, innerhalb bestimmter Frist den Wechsel vorzulegen, widrigenfalls die Kraftloserklärung ausgesprochen werde.
+Erachtet das Gericht die Darstellung des Gesuchstellers über den frühern Besitz und über den Verlust des Wechsels für glaubhaft, so fordert es durch öffentliche Bekanntmachung den Inhaber auf, innerhalb bestimmter Frist den Wechsel vorzulegen, widrigenfalls die Kraftloserklärung ausgesprochen werde.
 
 ### c. Fristen
 
@@ -16399,7 +17346,7 @@ Erachtet der Richter die Darstellung des Gesuchstellers über den frühern Besit
 
 <sup>1</sup> Die Vorlegungsfrist beträgt mindestens drei Monate und höchstens ein Jahr.
 
-<sup>2</sup> Der Richter ist indessen an die Mindestdauer von drei Monaten nicht gebunden, wenn bei verfallenen Wechseln die Verjährung vor Ablauf der drei Monate eintreten würde.
+<sup>2</sup> Das Gericht ist indessen an die Mindestdauer von drei Monaten nicht gebunden, wenn bei verfallenen Wechseln die Verjährung vor Ablauf der drei Monate eintreten würde.
 
 <sup>3</sup> Die Frist läuft bei verfallenen Wechseln vom Tage der ersten öffentlichen Bekanntmachung, bei noch nicht verfallenen Wechseln vom Verfall an.
 
@@ -16407,9 +17354,11 @@ Erachtet der Richter die Darstellung des Gesuchstellers über den frühern Besit
 
 #### Art. 1077
 
-<sup>1</sup> Die Aufforderung zur Vorlegung des Wechsels ist dreimal im Schweizerischen Handelsamtsblatt zu veröffentlichen.
+<sup>1</sup> Die Aufforderung zur Vorlegung des Wechsels ist im Schweizerischen Handelsamtsblatt zu veröffentlichen.[^1077-1]
 
-<sup>2</sup> In besondern Fällen kann der Richter noch in anderer Weise für angemessene Veröffentlichung sorgen.
+<sup>2</sup> In besondern Fällen kann das Gericht noch in anderer Weise für angemessene Veröffentlichung sorgen.
+
+[^1077-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 4. Wirkung
 
@@ -16417,23 +17366,23 @@ Erachtet der Richter die Darstellung des Gesuchstellers über den frühern Besit
 
 #### Art. 1078
 
-<sup>1</sup> Wird der abhanden gekommene Wechsel vorgelegt, so setzt der Richter dem Gesuchsteller eine Frist zur Anhebung der Klage auf Herausgabe des Wechsels.
+<sup>1</sup> Wird der abhanden gekommene Wechsel vorgelegt, so setzt das Gericht dem Gesuchsteller eine Frist zur Anhebung der Klage auf Herausgabe des Wechsels.
 
-<sup>2</sup> Klagt der Gesuchsteller nicht binnen dieser Frist, so gibt der Richter den Wechsel zurück und hebt das dem Bezogenen auferlegte Zahlungsverbot auf.
+<sup>2</sup> Klagt der Gesuchsteller nicht binnen dieser Frist, so gibt das Gericht den Wechsel zurück und hebt das dem Bezogenen auferlegte Zahlungsverbot auf.
 
 ### b. Bei Nichtvorlegung
 
 #### Art. 1079
 
-<sup>1</sup> Wird der abhanden gekommene Wechsel innert der angesetzten Frist nicht vorgelegt, so hat der Richter ihn kraftlos zu erklären.
+<sup>1</sup> Wird der abhanden gekommene Wechsel innert der angesetzten Frist nicht vorgelegt, so hat das Gericht ihn kraftlos zu erklären.
 
 <sup>2</sup> Nach der Kraftloserklärung des Wechsels kann der Gesuchsteller seinen wechselmässigen Anspruch noch gegen den Annehmenden geltend machen.
 
-### 5. Richterliche Verfügungen
+### 5. Gerichtliche Verfügungen
 
 #### Art. 1080
 
-<sup>1</sup> Der Richter kann schon vor der Kraftloserklärung dem Annehmer die Hinterlegung und gegen Sicherstellung selbst die Zahlung des Wechselbetrages zur Pflicht machen.
+<sup>1</sup> Das Gericht kann schon vor der Kraftloserklärung dem Annehmer die Hinterlegung und gegen Sicherstellung selbst die Zahlung des Wechselbetrages zur Pflicht machen.
 
 <sup>2</sup> Die Sicherheit haftet dem gutgläubigen Erwerber des Wechsels. Sie wird frei, wenn der Wechsel kraftlos erklärt wird oder die Ansprüche aus ihm sonst erlöschen.
 
@@ -17260,9 +18209,9 @@ Warenpapiere, die von einem Lagerhalter oder Frachtführer als Wertpapier ausges
 
 <sup>2</sup> Die Vollmacht eines durch die Anleihensbedingungen bestellten Vertreters kann durch einen Beschluss der Gläubigergemeinschaft mit Zustimmung des Schuldners jederzeit widerrufen oder abgeändert werden.
 
-<sup>3</sup> Der Richter kann aus wichtigen Gründen auf Antrag eines Anleihensgläubigers oder des Schuldners die Vollmacht als erloschen erklären.
+<sup>3</sup> Das Gericht kann aus wichtigen Gründen auf Antrag eines Anleihensgläubigers oder des Schuldners die Vollmacht als erloschen erklären.
 
-<sup>4</sup> Fällt die Vollmacht aus irgendeinem Grunde dahin, so trifft auf Verlangen eines Anleihensgläubigers oder des Schuldners der Richter die zum Schutze der Anleihensgläubiger und des Schuldners notwendigen Anordnungen.
+<sup>4</sup> Fällt die Vollmacht aus irgendeinem Grunde dahin, so trifft auf Verlangen eines Anleihensgläubigers oder des Schuldners das Gericht die zum Schutze der Anleihensgläubiger und des Schuldners notwendigen Anordnungen.
 
 ### IV. Kosten
 
@@ -17301,7 +18250,7 @@ Warenpapiere, die von einem Lagerhalter oder Frachtführer als Wertpapier ausges
 <sup>4</sup> Hat oder hatte der Schuldner nur eine Niederlassung in der Schweiz, so ist das Gericht am Ort dieser Niederlassung zwingend zuständig.[^1165-2]
 
 [^1165-1]: Fassung gemäss Anhang 1 Ziff. II 5 der Zivilprozessordnung vom 19. Dez. 2008, in Kraft seit 1. Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
-[^1165-2]: Fassung gemäss Anhang 1 Ziff. II 5 der Zivilprozessordnung vom 19. Dez. 2008, in Kraft seit 1. Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); BBl **200****6** 7221).
+[^1165-2]: Fassung gemäss Anhang 1 Ziff. II 5 der Zivilprozessordnung vom 19. Dez. 2008, in Kraft seit 1. Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
 ### 2. Stundung
 
@@ -17480,7 +18429,7 @@ Die Genehmigung darf nur verweigert werden:
 
 #### Art. 1182
 
-Beschlüsse im Sinne der Artikel 1180 und 1181, die das Gesetz oder vertragliche Vereinbarungen verletzen, können von jedem Anleihensgläubiger der Gemeinschaft, der nicht zugestimmt hat, binnen 30 Tagen, nachdem er von ihnen Kenntnis erhalten hat, beim Richter angefochten werden.
+Beschlüsse im Sinne der Artikel 1180 und 1181, die das Gesetz oder vertragliche Vereinbarungen verletzen, können von jedem Anleihensgläubiger der Gemeinschaft, der nicht zugestimmt hat, binnen 30 Tagen, nachdem er von ihnen Kenntnis erhalten hat, beim Gericht angefochten werden.
 
 ### E. Besondere Anwendungsfälle
 
@@ -17514,13 +18463,17 @@ Beschlüsse im Sinne der Artikel 1180 und 1181, die das Gesetz oder vertragliche
 
 <sup>4</sup> Das Bundesgericht kann nach Eingang des Gesuches um Einberufung einer Gläubigerversammlung eine Stundung mit den in Artikel 1166 vorgesehenen Wirkungen anordnen.
 
-### F. Zwingendes Recht
+### F. Abweichende Abreden
 
 #### Art. 1186
 
-<sup>1</sup> Die Rechte, die das Gesetz der Gläubigergemeinschaft und dem Anleihensvertreter zuweist, können durch die Anleihensbedingungen oder durch besondere Abreden zwischen den Gläubigen und dem Schuldner weder ausgeschlossen noch beschränkt werden.
+[^1186-1]
 
-<sup>2</sup> Die erschwerenden Bestimmungen der Anleihensbedingungen über das Zustandekommen der Beschlüsse der Gläubigerversammlung bleiben vorbehalten.
+<sup>1</sup> Die Rechte, die das Gesetz der Gläubigergemeinschaft und dem Anleihensvertreter zuweist, können durch die Anleihensbedingungen oder durch besondere Abreden zwischen den Gläubigern und dem Schuldner nur ausgeschlossen, geändert oder beschränkt werden, wenn eine Mehrheit der Gläubiger weiterhin die Anleihensbedingungen anpassen kann.
+
+<sup>2</sup> Soweit Anleihensobligationen gesamthaft oder teilweise ausserhalb der Schweiz öffentlich ausgegeben werden, können anstelle der Bestimmungen dieses Abschnitts die Bestimmungen einer anderen mit der öffentlichen Ausgabe zusammenhängenden Rechtsordnung über die Gläubigergemeinschaft, ihre Vertretung, Versammlung und Beschlüsse für anwendbar erklärt werden.
+
+[^1186-1]: Fassung gemäss Anhang Ziff. 2 des BG vom 17. Dez. 2021 (Insolvenz und Einlagensicherung), in Kraft seit 1. Jan. 2023 ([AS 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [BBl 2020 6359](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
 
 ## Übergangsbestimmungen des Bundesgesetzes vom 30. März 1911
 
@@ -17534,9 +18487,9 @@ Der Bundesrat ist beauftragt, auf Grundlage der Bestimmungen des Bundesgesetzes 
 
 [^u1-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233).
 [^u1-2]: Die Änderungen können unter [AS 27 317](https://fedlex.data.admin.ch/eli/oc/27/317_321_377)konsultiert werden.
-[^u1-3]: [BS **1** 173; [AS 1962 789](https://fedlex.data.admin.ch/eli/oc/1962/789_827_848)Art. 11 Abs. 3, [1978 712](https://fedlex.data.admin.ch/eli/oc/1978/712_712_712)Art. 89 Bst. b]
+[^u1-3]: [BS **1** 173; [AS 1962 789](https://fedlex.data.admin.ch/eli/oc/1962/789_827_848)Art. 11 Abs. 3; [1978 712](https://fedlex.data.admin.ch/eli/oc/1978/712_712_712)Art. 89 Bst. b]
 
-## Schlussbestimmungen der Änderung vom 23. März 1962****
+## Schlussbestimmungen der Änderung vom 23. März 1962
 
 [^u2-1]
 
@@ -17574,7 +18527,7 @@ Der Bundesrat ist beauftragt, auf Grundlage der Bestimmungen des Bundesgesetzes 
 
 Der Bundesrat bestimmt den Zeitpunkt des Inkrafttretens dieses Gesetzes.
 
-## Übergangsbestimmungen der Änderung vom 16. Dezember 2005****
+## Übergangsbestimmungen der Änderung vom 16. Dezember 2005
 
 [^u3-1]
 
@@ -17668,7 +18621,7 @@ Die Ausschliesslichkeit von Firmen, die vor dem Inkrafttreten dieses Gesetzes im
 
 [^u3-11-1]: [AS 53 185](https://fedlex.data.admin.ch/eli/oc/53/185_185_189)
 
-## Übergangsbestimmung zur Änderung vom 17. Juni 2011****
+## Übergangsbestimmung zur Änderung vom 17. Juni 2011
 
 [^u4-1]
 
@@ -17676,7 +18629,7 @@ Die Ausschliesslichkeit von Firmen, die vor dem Inkrafttreten dieses Gesetzes im
 
 Die Bestimmung dieser Änderung gilt vom ersten Geschäftsjahr an, das mit dem Inkrafttreten dieser Änderung oder danach beginnt.
 
-## Übergangsbestimmungen der Änderung vom 23. Dezember 2011****
+## Übergangsbestimmungen der Änderung vom 23. Dezember 2011
 
 [^u5-1]
 
@@ -17704,7 +18657,7 @@ Die Bestimmung dieser Änderung gilt vom ersten Geschäftsjahr an, das mit dem I
 
 <sup>4</sup> Bei erstmaliger Anwendung der Vorschriften zur Rechnungslegung kann auf die Nennung der Zahlen der Vorjahre verzichtet werden. Bei der zweiten Anwendung müssen nur die Zahlen des Vorjahres angegeben werden. Werden Zahlen der vorgängigen Geschäftsjahre genannt, so kann auf die Stetigkeit der Darstellung und die Gliederung verzichtet werden. Im Anhang ist auf diesen Umstand hinzuweisen.
 
-## Übergangsbestimmungen der Änderung vom 12. Dezember 2014****
+## Übergangsbestimmungen der Änderung vom 12. Dezember 2014
 
 [^u6-1]
 
@@ -17736,7 +18689,7 @@ Die Bestimmung dieser Änderung gilt vom ersten Geschäftsjahr an, das mit dem I
 
 <sup>2</sup> Die Frist für die Verwirkung der Vermögensrechte (Art. 697*m* Abs. 3) läuft in diesem Fall sechs Monate nach Inkrafttreten der Änderung vom 12. Dezember 2014 ab.
 
-## Übergangsbestimmungen der Änderung vom 25. September 2015****
+## Übergangsbestimmungen der Änderung vom 25. September 2015
 
 [^u7-1]
 
@@ -17764,7 +18717,7 @@ Kollektiv-, Kommandit- und Kommanditaktiengesellschaften, die im Zeitpunkt des I
 
 Wurde die Firma einer Kollektiv-, Kommandit- oder Kommanditaktiengesellschaft vor dem Inkrafttreten der Änderung vom 25. September 2015 ins Handelsregister eingetragen, so beurteilt sich ihre Ausschliesslichkeit nach Artikel 946 des geltenden und nach Artikel 951 des bisherigen Rechts.
 
-## Übergangsbestimmungen zur Änderung vom 17. März 2017****
+## Übergangsbestimmungen zur Änderung vom 17. März 2017
 
 [^u8-1]
 
@@ -17786,7 +18739,7 @@ Wurde die Firma einer Kollektiv-, Kommandit- oder Kommanditaktiengesellschaft vo
 
 Institute des öffentlichen Rechts, die vor Inkrafttreten des neuen Rechts errichtet wurden und die eine überwiegend privatwirtschaftliche Erwerbstätigkeit ausüben, müssen sich innert zwei Jahren ins Handelsregister eintragen lassen.
 
-## Übergangsbestimmungen zur Änderung vom 21. Juni 2019****
+## Übergangsbestimmungen zur Änderung vom 21. Juni 2019
 
 [^u9-1]
 
@@ -17869,19 +18822,35 @@ Die Artikel 4–8 gelten für Gesellschaften, die keine Beteiligungspapiere an e
 
 <sup>2</sup> Aktionäre, deren Aktien ohne eigenes Verschulden nichtig geworden sind, können unter Nachweis ihrer Aktionärseigenschaft zum Zeitpunkt des Nichtigwerdens der Aktien innerhalb von zehn Jahren nach diesem Zeitpunkt gegenüber der Gesellschaft einen Anspruch auf Entschädigung geltend machen. Die Entschädigung entspricht dem wirklichen Wert der Aktien zum Zeitpunkt ihrer Umwandlung nach Artikel 4. Ist der wirkliche Wert der Aktien zum Zeitpunkt der Geltendmachung des Anspruchs tiefer als zum Zeitpunkt ihrer Umwandlung, so schuldet die Gesellschaft diesen tieferen Wert. Eine Entschädigung ist ausgeschlossen, wenn die Gesellschaft nicht über das erforderliche frei verwendbare Eigenkapital verfügt.
 
-## Übergangsbestimmungen zur Änderung vom 19. Juni 2020****
+## Übergangsbestimmungen zur Änderung vom 19. Juni 2020
 
 [^u10-1]
 
-[^u10-1]: [AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2021 846](https://fedlex.data.admin.ch/eli/oc/2021/846)Ziff. III 1; [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)
+[^u10-1]: [AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2021 846](https://fedlex.data.admin.ch/eli/oc/2021/846)Ziff. III 1; [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)
 
-### A.–C. …
+### A. Allgemeine Regel
 
-#### Art. 1–3
+#### Art. 1
 
-[^u10-13-1]
+<sup>1</sup> Die Artikel 1–4 des Schlusstitels des Zivilgesetzbuches[^u10-1-1] gelten für die Änderung vom 19. Juni 2020, soweit die folgenden Bestimmungen nichts anderes vorsehen.
 
-[^u10-13-1]: Treten zu einem späteren Zeitpunkt in Kraft ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+<sup>2</sup> Die Bestimmungen des neuen Rechts werden mit seinem Inkrafttreten auf bestehende Gesellschaften anwendbar.
+
+[^u10-1-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+
+### B. Anpassung von Statuten und Reglementen
+
+#### Art. 2
+
+<sup>1</sup> Gesellschaften, die im Zeitpunkt des Inkrafttretens des neuen Rechts im Handelsregister eingetragen sind, jedoch den neuen Vorschriften nicht entsprechen, müssen innerhalb von zwei Jahren ihre Statuten und Reglemente den neuen Bestimmungen anpassen.
+
+<sup>2</sup> Bestimmungen der Statuten und Reglemente, die mit dem neuen Recht nicht vereinbar sind, bleiben bis zur Anpassung, längstens aber noch zwei Jahre nach Inkrafttreten des neuen Rechts in Kraft.
+
+### C. Genehmigte Kapitalerhöhung und Kapitalerhöhung aus bedingtem Kapital
+
+#### Art. 3
+
+Für genehmigte Kapitalerhöhungen und Kapitalerhöhungen aus bedingtem Kapital, die vor Inkrafttreten des neuen Rechts beschlossen wurden, kommt das bisherige Recht zur Anwendung. Die Beschlüsse der Generalversammlung können nicht mehr verlängert oder geändert werden.
 
 ### D. Vertretung der Geschlechter
 
@@ -17891,13 +18860,17 @@ Die Artikel 4–8 gelten für Gesellschaften, die keine Beteiligungspapiere an e
 
 <sup>2</sup> Die Pflicht zur Berichterstattung im Vergütungsbericht gemäss Artikel 734*f* gilt für die Geschäftsleitung spätestens ab dem Geschäftsjahr, das zehn Jahre nach Inkrafttreten des neuen Rechts beginnt.
 
-### E. und F. …
+### E. Konkursaufschub
 
-#### Art. 5 und 6
+#### Art. 5
 
-[^u10-56-1]
+Auf einen Konkursaufschub, der vor Inkrafttreten des neuen Rechts bewilligt worden ist, kommt bis zu dessen Abschluss das bisherige Recht zur Anwendung.
 
-[^u10-56-1]: Treten zu einem späteren Zeitpunkt in Kraft ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+### F. Anpassung altrechtlicher Verträge
+
+#### Art. 6
+
+Die im Zeitpunkt des Inkrafttretens des neuen Rechts bestehenden Verträge sind innerhalb von zwei Jahren ab Inkrafttreten des neuen Rechts anzupassen. Nach Ablauf dieser Frist sind die Vorschriften des neuen Rechts auf alle Verträge anwendbar.
 
 ### G. Transparenz bei Rohstoffunternehmen
 
@@ -17905,7 +18878,7 @@ Die Artikel 4–8 gelten für Gesellschaften, die keine Beteiligungspapiere an e
 
 Die Artikel 964*d*–964*h* finden erstmals Anwendung auf das Geschäftsjahr, das ein Jahr nach Inkrafttreten des neuen Rechts beginnt.
 
-## Übergangsbestimmung zur Änderung vom 19. Juni 2020****
+## Übergangsbestimmung zur Änderung vom 19. Juni 2020
 
 [^u11-1]
 
@@ -17913,7 +18886,7 @@ Die Artikel 964*d*–964*h* finden erstmals Anwendung auf das Geschäftsjahr, da
 
 Die Vorschriften des 6. Abschnitts und des 8. Abschnitts des 32. Titels finden erstmals Anwendung auf das Geschäftsjahr, das ein Jahr nach Inkrafttreten der Änderung vom 19. Juni 2020 beginnt.
 
-## Schlussbestimmungen zum VIII. Titel und zum VIII<sup>bis</sup>. Titel****
+## Schlussbestimmungen zum VIII. Titel und zum VIII<sup>bis</sup>. Titel
 
 [^u12-1]
 
@@ -17923,7 +18896,7 @@ Die Vorschriften des 6. Abschnitts und des 8. Abschnitts des 32. Titels finden e
 
 Der Bundesbeschluss vom 30. Juni 1972[^u12-1-1] über Massnahmen gegen Missbräuche im Mietwesen wird aufgehoben.
 
-[^u12-1-1]: [[AS 1972 1502](https://fedlex.data.admin.ch/eli/oc/1972/1502_1531_1703), [1977 1269](https://fedlex.data.admin.ch/eli/oc/1977/1269_1269_1269), [1982 1234](https://fedlex.data.admin.ch/eli/oc/1982/1234_1234_1234), [1987 1189](https://fedlex.data.admin.ch/eli/oc/1987/1189_1189_1189)]
+[^u12-1-1]: [[AS 1972 1502](https://fedlex.data.admin.ch/eli/oc/1972/1502_1531_1703); [1977 1269](https://fedlex.data.admin.ch/eli/oc/1977/1269_1269_1269); [1982 1234](https://fedlex.data.admin.ch/eli/oc/1982/1234_1234_1234); [1987 1189](https://fedlex.data.admin.ch/eli/oc/1987/1189_1189_1189)]
 
 #### Art. 2–4
 
@@ -17943,7 +18916,7 @@ Der Bundesbeschluss vom 30. Juni 1972[^u12-1-1] über Massnahmen gegen Missbräu
 
 <sup>2</sup> Der Bundesrat bestimmt das Inkrafttreten.
 
-## Schluss- und Übergangsbestimmungen zum X. Titel****
+## Schluss- und Übergangsbestimmungen zum X. Titel
 
 [^u13-1]
 
@@ -17953,7 +18926,7 @@ Der Bundesbeschluss vom 30. Juni 1972[^u12-1-1] über Massnahmen gegen Missbräu
 
 #### Art. 1
 
-…*[^u13-1-1]*
+…[^u13-1-1]
 
 [^u13-1-1]: Die Änderungen können unter [AS 1971 1465](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461)konsultiert werden.
 
@@ -17961,7 +18934,7 @@ Der Bundesbeschluss vom 30. Juni 1972[^u12-1-1] über Massnahmen gegen Missbräu
 
 #### Art. 2
 
-…*[^u13-2-1]*
+…[^u13-2-1]
 
 [^u13-2-1]: Die Änderungen können unter [AS 1971 1465](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461)konsultiert werden.
 
@@ -17969,7 +18942,7 @@ Der Bundesbeschluss vom 30. Juni 1972[^u12-1-1] über Massnahmen gegen Missbräu
 
 #### Art. 3
 
-…*[^u13-3-1]*
+…[^u13-3-1]
 
 [^u13-3-1]: Die Änderungen können unter [AS 1971 1465](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461)konsultiert werden.
 
@@ -17977,7 +18950,7 @@ Der Bundesbeschluss vom 30. Juni 1972[^u12-1-1] über Massnahmen gegen Missbräu
 
 #### Art. 4
 
-…*[^u13-4-1]*
+…[^u13-4-1]
 
 [^u13-4-1]: Die Änderungen können unter [AS 1971 1465](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461)konsultiert werden.
 
@@ -17985,7 +18958,7 @@ Der Bundesbeschluss vom 30. Juni 1972[^u12-1-1] über Massnahmen gegen Missbräu
 
 #### Art. 5
 
-…*[^u13-5-1]*
+…[^u13-5-1]
 
 [^u13-5-1]: Die Änderungen können unter [AS 1971 1465](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461)konsultiert werden.
 
@@ -18008,15 +18981,15 @@ Mit dem Inkrafttreten dieses Gesetzes werden aufgehoben:
 - 11\. Artikel 20 Absatz 2 und 59 des Bundesgesetzes vom 20. September 1963[^u13-6-10] über die Berufsbildung,
 - 12\. Artikel 64[^u13-6-11] und 72 Absatz 2 Buchstabe *a* des Arbeitsgesetzes vom 13. März 1964[^u13-6-12].
 
-[^u13-6-1]: [BS **8** 281; [AS 1959 858](https://fedlex.data.admin.ch/eli/oc/1959/858_888_876), [1964 965](https://fedlex.data.admin.ch/eli/oc/1964/965_961_981)Ziff. I-III, [1968 64](https://fedlex.data.admin.ch/eli/oc/1968/64_66_65), [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)Ziff. I 611, [1978 1836](https://fedlex.data.admin.ch/eli/oc/1978/1836_1836_1836)Anhang Ziff. 4, [1982 196](https://fedlex.data.admin.ch/eli/oc/1982/196_196_196)[1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)Anhang Ziff. 1 [2184](https://fedlex.data.admin.ch/eli/oc/1982/2184_2184_2184)Art. 114, [1990 1091](https://fedlex.data.admin.ch/eli/oc/1990/1091_1091_1091), [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)Ziff. II 412, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Anhang Ziff. 37 [2350](https://fedlex.data.admin.ch/eli/oc/1992/2350_2350_2350), [1995 511](https://fedlex.data.admin.ch/eli/oc/1995/511_511_511). [AS 1995 1328](https://fedlex.data.admin.ch/eli/oc/1995/1328_1328_1328)Anhang Ziff. 1]
+[^u13-6-1]: [BS **8** 281; [AS 1959 858](https://fedlex.data.admin.ch/eli/oc/1959/858_888_876); [1964 965](https://fedlex.data.admin.ch/eli/oc/1964/965_961_981)Ziff. I-III, [1968 64](https://fedlex.data.admin.ch/eli/oc/1968/64_66_65); [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)Ziff. I 611; [1978 1836](https://fedlex.data.admin.ch/eli/oc/1978/1836_1836_1836)Anhang Ziff. 4; [1982 196](https://fedlex.data.admin.ch/eli/oc/1982/196_196_196), [1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)Anhang Ziff. 1, [2184](https://fedlex.data.admin.ch/eli/oc/1982/2184_2184_2184)Art. 114; [1990 1091](https://fedlex.data.admin.ch/eli/oc/1990/1091_1091_1091); [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)Ziff. II 412; [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Anhang Ziff. 37, [2350](https://fedlex.data.admin.ch/eli/oc/1992/2350_2350_2350); [1995 511](https://fedlex.data.admin.ch/eli/oc/1995/511_511_511). [AS 1995 1328](https://fedlex.data.admin.ch/eli/oc/1995/1328_1328_1328)Anhang Ziff. 1]
 [^u13-6-2]: [SR 821.41](https://fedlex.data.admin.ch/eli/cc/30/535_539_517)
 [^u13-6-3]: [BS **8** 229; [AS 1951 1231](https://fedlex.data.admin.ch/eli/oc/1951/1231_1239_1273)Art. 14 Abs. 2; [1966 57](https://fedlex.data.admin.ch/eli/oc/1966/57_57_57)Art. 68. [AS 1983 108](https://fedlex.data.admin.ch/eli/oc/1983/108_108_108)Art. 21 Ziff. 3]
 [^u13-6-4]: [BS **2** 776; [AS 1966 57](https://fedlex.data.admin.ch/eli/oc/1966/57_57_57)Art. 69]
 [^u13-6-5]: [AS **1949** II 1293]
-[^u13-6-6]: [AS **1****953** 1073; **1954** 1364 Art. 1; **1958** 659; **1959** 588; **1960** 1279; **1962** 203, 1144 Art. 14, 1412; **1967** 722; **1968** 92; **1974** 763; **1975** 1088; **1977** 2249 Ziff. I, 921, 942, 931; **1979** 2058; **1982** 1676 Anhang Ziff. 6; **1988** 640; **1989** 504 Art. 33 Bst. c; **1991** 362 Ziff. II 51; 857 Anhang Ziff. 25; 2611; **1992** 1860 Art. 75 Ziff. 5, 1986 Art. 36 Abs. 1; **1993** 1410 Art. 92 Ziff. 4, 1571, 2080 Anhang Ziff. 11; **19****94** 28; **1995** 1469 Art. 59 Ziff. 3, 1837, 3517 Ziff. I 2; **1996** 2588 Anhang Ziff. 2, 2783; **1997** 1187, 1190; **1998** 1822. [AS 1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)Anhang Bst. c]
+[^u13-6-6]: [[AS 1953 1073](https://fedlex.data.admin.ch/eli/oc/1953/1073_1095_1133); [1954 1364](https://fedlex.data.admin.ch/eli/oc/1954/1364_1399_1426)Art. 1; [1958 659](https://fedlex.data.admin.ch/eli/oc/1958/659_688_688); [1959 588](https://fedlex.data.admin.ch/eli/oc/1959/588_610_590); [1960 1279](https://fedlex.data.admin.ch/eli/oc/1960/1279_1334_1335); [1962 203](https://fedlex.data.admin.ch/eli/oc/1962/203_205_207), [1144](https://fedlex.data.admin.ch/eli/oc/1962/1144_1185_1191)Art. 14, [1412](https://fedlex.data.admin.ch/eli/oc/1962/1412_1463_1472); [1967 722](https://fedlex.data.admin.ch/eli/oc/1967/722_766_760); [1968 92](https://fedlex.data.admin.ch/eli/oc/1968/92_92_95); [1974 763](https://fedlex.data.admin.ch/eli/oc/1974/763_763_763); [1975 1088](https://fedlex.data.admin.ch/eli/oc/1975/1088_1088_1088); [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)Ziff. I, 921, 942, [931](https://fedlex.data.admin.ch/eli/oc/1977/931_931_931); [1979 2058](https://fedlex.data.admin.ch/eli/oc/1979/2058_2060_2060); [1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)Anhang Ziff. 6; [1988 640](https://fedlex.data.admin.ch/eli/oc/1988/640_640_640); [1989 504](https://fedlex.data.admin.ch/eli/oc/1989/504_504_504)Art. 33 Bst. c; [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)Ziff. II 51; [857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)Anhang Ziff. 25; [2611](https://fedlex.data.admin.ch/eli/oc/1991/2611_2611_2611); [1992 1860](https://fedlex.data.admin.ch/eli/oc/1992/1860_1860_1860)Art. 75 Ziff. 5, [1986](https://fedlex.data.admin.ch/eli/oc/1992/1986_1986_1986)Art. 36 Abs. 1; [1993 1410](https://fedlex.data.admin.ch/eli/oc/1993/1410_1410_1410)Art. 92 Ziff. 4, [1571](https://fedlex.data.admin.ch/eli/oc/1993/1571_1571_1571), [2080](https://fedlex.data.admin.ch/eli/oc/1993/2080_2080_2080)Anhang Ziff. 11; [1994 28](https://fedlex.data.admin.ch/eli/oc/1994/28_28_28); [1995 1469](https://fedlex.data.admin.ch/eli/oc/1995/1469_1469_1469)Art. 59 Ziff. 3, [1837](https://fedlex.data.admin.ch/eli/oc/1995/1837_1837_1837), [3517](https://fedlex.data.admin.ch/eli/oc/1995/3517_3517_3517)Ziff. I 2; [1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588)Anhang Ziff. 2, [2783](https://fedlex.data.admin.ch/eli/oc/1996/2783_2783_2783); [1997 1187](https://fedlex.data.admin.ch/eli/oc/1997/1187_1187_1187), [1190](https://fedlex.data.admin.ch/eli/oc/1997/1190_1190_1190); [1998 1822](https://fedlex.data.admin.ch/eli/oc/1998/1822_1822_1822). [AS 1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)Anhang Bst. c]
 [^u13-6-7]: [SR 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050). Heute: BG über den Erwerbsersatz für Dienstleistende und bei Mutterschaft (Erwerbsersatzgesetz, EOG).
 [^u13-6-8]: [SR 221.215.311](https://fedlex.data.admin.ch/eli/cc/1956/1543_1645_1658)
-[^u13-6-9]: [[AS 1962 1089](https://fedlex.data.admin.ch/eli/oc/1962/1089_1127_1131); [1964 487](https://fedlex.data.admin.ch/eli/oc/1964/487_483_485)Art. 22 Abs. 2 Bst. b;[1968 1025](https://fedlex.data.admin.ch/eli/oc/1968/1025_1065_981)Art. 35; [1969 310](https://fedlex.data.admin.ch/eli/oc/1969/310_318_319)Ziff. III; **1971** 751; [1](https://fedlex.data.admin.ch/eli/oc/1971/1_1_1)**978** 50, 570; [1985 1649](https://fedlex.data.admin.ch/eli/oc/1985/1649_1649_1649); [1990 1882](https://fedlex.data.admin.ch/eli/oc/1990/1882_1882_1882)Anhang Ziff. 7; [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Anhang Ziff. 22; **1993** 2043 Anhang Ziff. 3; [1994 2626](https://fedlex.data.admin.ch/eli/oc/1994/2626_2626_2626)Art. 71]
+[^u13-6-9]: [[AS 1962 1089](https://fedlex.data.admin.ch/eli/oc/1962/1089_1127_1131); [1964 487](https://fedlex.data.admin.ch/eli/oc/1964/487_483_485)Art. 22 Abs. 2 Bst. b;[1968 1025](https://fedlex.data.admin.ch/eli/oc/1968/1025_1065_981)Art. 35; [1969 310](https://fedlex.data.admin.ch/eli/oc/1969/310_318_319)Ziff. III; **1971** 751; [1978 50](https://fedlex.data.admin.ch/eli/oc/1978/50_50_50), [570](https://fedlex.data.admin.ch/eli/oc/1978/570_570_); [1985 1649](https://fedlex.data.admin.ch/eli/oc/1985/1649_1649_1649); [1990 1882](https://fedlex.data.admin.ch/eli/oc/1990/1882_1882_1882)Anhang Ziff. 7; [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Anhang Ziff. 22; **1993** 2043 Anhang Ziff. 3; [1994 2626](https://fedlex.data.admin.ch/eli/oc/1994/2626_2626_2626)Art. 71]
 [^u13-6-10]: [[AS 1965 321](https://fedlex.data.admin.ch/eli/oc/1965/321_325_321), [428](https://fedlex.data.admin.ch/eli/oc/1965/428__); [1968 86](https://fedlex.data.admin.ch/eli/oc/1968/86_87_89); [1972 1681](https://fedlex.data.admin.ch/eli/oc/1972/1681_1709_1885); [1975 1078](https://fedlex.data.admin.ch/eli/oc/1975/1078_1078_1078)Ziff. III; [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)Ziff. I 331. [AS 1979 1687](https://fedlex.data.admin.ch/eli/oc/1979/1687_1687_1687)Art. 75]
 [^u13-6-11]: Dieser Art. ist heute aufgehoben.
 [^u13-6-12]: [SR 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
@@ -18042,7 +19015,7 @@ Der Bundesrat bestimmt den Zeitpunkt des Inkrafttretens dieses Gesetzes.
 
 [^u14-1]
 
-[^u14-1]: Eingefügt durch Ziff. II des BG vom 4. Febr. 1949, in Kraft seit 1. Jan. 1950 (AS **1949** I 802; BBl **1****947** III 661).
+[^u14-1]: Eingefügt durch Ziff. II des BG vom 4. Febr. 1949, in Kraft seit 1. Jan. 1950 (AS **1949** I 802; [BBl 1947 III 661](https://fedlex.data.admin.ch/eli/fga/1947/3_661_681_)).
 
 ### A. Übergangsrecht
 
@@ -18068,7 +19041,7 @@ Der Bundesrat bestimmt den Zeitpunkt des Inkrafttretens dieses Gesetzes.
 
 Der Bundesrat bestimmt den Zeitpunkt des Inkrafttretens dieses Gesetzes.
 
-## Übergangsbestimmungen zum XX. Titel****
+## Übergangsbestimmungen zum XX. Titel
 
 [^u15-1]
 
@@ -18092,7 +19065,7 @@ Der Bundesrat bestimmt den Zeitpunkt des Inkrafttretens dieses Gesetzes.
 [^u15-2]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 [^u15-3]: Fassung gemäss Anhang Ziff. 2 des Zollgesetzes vom 18. März 2005, in Kraft seit 1. Mai 2007 ([AS 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [BBl 2004 567](https://fedlex.data.admin.ch/eli/fga/2004/129)).
 
-## Schluss- und Übergangsbestimmungen zu den Titeln XXIV–XXXIII****
+## Schluss- und Übergangsbestimmungen zu den Titeln XXIV–XXXIII
 
 [^u16-1]
 
@@ -18145,7 +19118,7 @@ Haben Aktiengesellschaften, Kommanditaktiengesellschaften und Genossenschaften v
 
 <sup>2</sup> Wenn bei der Aufstellung einer Bilanz ein solcher Bundesratsbeschluss zur Anwendung gekommen ist, ist dies in der Bilanz zu vermerken.
 
-### II. *…*
+### II. …
 
 #### Art. 6
 
@@ -18215,7 +19188,7 @@ Für Fälle, auf die die Bestimmungen der Verordnung vom 20. Februar 1918[^u16-1
 [^u16-13-1]: [[AS 34 231](https://fedlex.data.admin.ch/eli/oc/34/231_231_249); [35 297](https://fedlex.data.admin.ch/eli/oc/35/297_301_396); [36 623](https://fedlex.data.admin.ch/eli/oc/36/623_637_599)[893](https://fedlex.data.admin.ch/eli/oc/36/893_913_933)]
 [^u16-13-2]: [[AS 51 673](https://fedlex.data.admin.ch/eli/oc/51/673_684_779); [53 454](https://fedlex.data.admin.ch/eli/oc/53/454_454_459); [57 1514](https://fedlex.data.admin.ch/eli/oc/57/1514_1549_1595); [58 934](https://fedlex.data.admin.ch/eli/oc/58/934_936_978); **62** 1088; [63 1342](https://fedlex.data.admin.ch/eli/oc/63/1342_1343_1348)]
 
-### H. *…*
+### H. …
 
 #### Art. 14
 
@@ -18269,7 +19242,7 @@ Mit dem Inkrafttreten dieses Gesetzes sind die damit im Widerspruch stehenden zi
 
 [^u16-19-1]: Dieser Abschnitt ist in der Fassung des BG vom 1. April 1949 in Kraft gesetzt worden. Für den Text in der ursprünglichen Fassung siehe [AS 53 185](https://fedlex.data.admin.ch/eli/oc/53/185_185_189).
 
-## Schlussbestimmungen zum XXVI. Titel****
+## Schlussbestimmungen zum XXVI. Titel
 
 [^u17-1]
 
@@ -18347,7 +19320,7 @@ Dieses Gesetz untersteht dem fakultativen Referendum.
 
 Der Bundesrat bestimmt das Inkrafttreten.
 
-## Schlussbestimmungen zum zweiten Abschnitt des XXXIV. Titels****
+## Schlussbestimmungen zum zweiten Abschnitt des XXXIV. Titels
 
 [^u18-1]
 

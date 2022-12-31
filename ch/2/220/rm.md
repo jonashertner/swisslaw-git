@@ -4,11 +4,11 @@ title: "Lescha federala dals 30 da mars 1911 davart la cumplettaziun dal cudesch
 short: DO
 eli: "https://fedlex.data.admin.ch/eli/cc/27/317_321_377"
 language: rm
-version: 2022-01-01
+version: 2023-01-01
 adopted: 1911-03-30
 in_force: 1912-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20220101/rm/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20220101-rm-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20220101/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20230101/rm/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20230101-rm-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20230101/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20220101/rm"
 
 Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Confederaziun, numnadamain en la correspundenza cun persunas da lingua rumantscha. La translaziun d’in decret federal serva a l’infurmaziun, n’ha dentant nagina validitad legala.
 
-dals 30 da mars 1911 (versiun dal 1. da schaner 2022)
+dals 30 da mars 1911 (versiun dal 1. da schaner 2023)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -2774,7 +2774,7 @@ En cas da l’empermischun da donaziun po il donatur revocar l’empermischun e 
 
 Sch’il donatur è s’obligà a prestaziuns periodicas, extingua questa obligaziun cun la mort dal donatur, nun ch’i saja vegnì fixà insatge auter.
 
-### Otgavel titel:**** La locaziun
+### Otgavel titel: La locaziun
 
 [^part2-tit8-1]
 
@@ -3597,7 +3597,7 @@ Sch’il locatari vul pretender che la relaziun da locaziun vegnia prolungada, s
 
 [^274274g-1]: Abolì tras la cifra II 5 da l’agiunta 1 da la Procedura civila dals 19 da dec. 2008, cun effect dapi il 1. da schan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
-### Otgavel titel<sup>bis</sup>:**** La fittanza
+### Otgavel titel<sup>bis</sup>: La fittanza
 
 [^part2-tit8bis-1]
 
@@ -4084,7 +4084,7 @@ Il dretg da l’emprestant da consegnar l’emprest da daners ed il dretg da l�
 
 Sch’il contract na fixescha ni ina tscherta data ni in termin da disditga e sch’el n’oblighescha betg l’emprestant da rembursar l’emprest da daners sin cumond da l’emprestader, sto l’emprestant rembursar l’emprest da daners entaifer 6 emnas a partir da l’emprim cumond.
 
-### Dieschavel titel:**** Il contract da lavur
+### Dieschavel titel: Il contract da lavur
 
 [^part2-tit10-1]
 
@@ -4238,7 +4238,7 @@ Il lavurant sto prestar persunalmain la lavur ch’el ha surpiglià tras il cont
 
 <sup>1</sup> Sche quai è vegnì concludì, sche quai è usità u sche quai è determinà tras in contract normal u tras in contract collectiv da lavur, dastga il patrun retegnair ina part dal salari.
 
-<sup>2</sup> Dal salari che sto vegnir pajà il singul di da pajament na dastgi betg vegnir retegnì dapli ch’in 10avel dal salari ed en tut betg dapli ch’il salari per 1 emna da lavur; dentant po in contract normal u in contract collectiv da lavur prevair ina retenziun pli auta.
+<sup>2</sup> Dal salari che sto vegnir pajà il singul di da pajament na dastgi betg vegnir retegnì dapli ch’in dieschavel dal salari ed en tut betg dapli ch’il salari per 1 emna da lavur; dentant po in contract normal u in contract collectiv da lavur prevair ina retenziun pli auta.
 
 <sup>3</sup> Sch’i n’è vegnì concludì u sch’i n’è usità nagut auter u sch’i n’è determinà nagut auter tras in contract normal u tras in contract collectiv da lavur, vala il salari retegnì sco garanzia per las pretensiuns dal patrun che resultan tras la relaziun da lavur e betg sco chasti convenziunal.
 
@@ -4439,7 +4439,7 @@ Il patrun dastga mo elavurar datas davart il lavurant, sche questas datas concer
 
 #### Art. 329b
 
-<sup>1</sup> Sch’il lavurant è impedì da lavurar per atgna culpa, e quai en tut durant dapli che 1 mais entaifer 1 onn da servetsch, po il patrun reducir las vacanzas per in 12avel per mintga mais entir d’absenza.[^329b-1]
+<sup>1</sup> Sch’il lavurant è impedì da lavurar per atgna culpa, e quai en tut durant dapli che 1 mais entaifer 1 onn da servetsch, po il patrun reducir las vacanzas per in dudeschavel per mintga mais entir d’absenza.[^329b-1]
 
 <sup>2</sup> Sche l’impediment n’importa en tut betg dapli che 1 mais entaifer 1 onn da servetsch e sch’el è vegnì chaschunà senza la culpa dal lavurant tras motivs che sa chattan tar la persuna dal lavurant, sco malsogna, accident, adempliment d’obligaziuns legalas, execuziun d’in uffizi public u congedi per giuvenils, na dastga il patrun betg reducir las vacanzas.[^329b-2]
 
@@ -4449,15 +4449,18 @@ Il patrun na dastga er betg reducir las vacanzas, sche:
 
 - a. ina lavuranta è impedida da lavurar fin 2 mais pervia da gravidanza;
 - b. ina lavuranta ha retratg in congedi da maternitad tenor l’artitgel 329*f*;
-- c. in lavurant ha retratg in congedi da paternitad tenor l’artitgel 329*g*; u
-- d. ina lavuranta u in lavurant ha retratg in congedi d’assistenza tenor l’artitgel 329*i*.[^329b-3]
+- c.[^329b-3] in lavurant ha retratg in congedi da paternitad tenor l’artitgel 329*g*;
+- d. ina lavuranta u in lavurant ha retratg in congedi d’assistenza tenor l’artitgel 329*i*;
+- e.[^329b-4] ina lavuranta u in lavurant ha retratg in congedi d’adopziun tenor l’artitgel 329*j*.[^329b-5]
 
-<sup>4</sup> Tras in contract normal u tras in contract collectiv da lavur poi vegnir concludida ina regulaziun che divergescha dals alineas 2 e 3, sche quella è tut en tut almain equivalenta per il lavurant.[^329b-4]
+<sup>4</sup> Tras in contract normal u tras in contract collectiv da lavur poi vegnir concludida ina regulaziun che divergescha dals alineas 2 e 3, sche quella è tut en tut almain equivalenta per il lavurant.[^329b-6]
 
 [^329b-1]: Versiun tenor l’art. 117 da la LF davart l’assicuranza cunter la dischoccupaziun, en vigur dapi il 1. da schan. 1984 ([AS 1982 2184](https://fedlex.data.admin.ch/eli/oc/1982/2184_2184_2184); [BBl 1980 III 489](https://fedlex.data.admin.ch/eli/fga/1980/3_489_485_469)).
 [^329b-2]: Versiun tenor l’art. 13 da la LF dals 6 d’oct. 1989 davart la lavur cun giuvenils, en vigur dapi il 1. da schan. 1991 ([AS 1990 2007](https://fedlex.data.admin.ch/eli/oc/1990/2007_2007_2007); [BBl 1988 I 825](https://fedlex.data.admin.ch/eli/fga/1988/1_825_777_641)).
-[^329b-3]: Versiun tenor la cifra II 1 da la LF dals 20 da dec. 2019 davart la meglieraziun da la cumpatibilitad da l’activitad da gudogn cun la tgira da confamigliars, en vigur dapi il 1. da fan. 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
-[^329b-4]: Integrà tras la cifra I da la LF dals 16 da dec. 1983, en vigur dapi il 1. da fan. 1984 ([AS 1984 580](https://fedlex.data.admin.ch/eli/oc/1984/580_580_580); BBl **1982** III201).
+[^329b-3]: Versiun tenor la cifra 1 da l’agiunta da la LF dal 1. d’oct. 2021, en vigur dapi il 1. da schan. 2023 ([AS 2022 468](https://fedlex.data.admin.ch/eli/oc/2022/468); [BBl 2019 7095](https://fedlex.data.admin.ch/eli/fga/2019/2553), [7303](https://fedlex.data.admin.ch/eli/fga/2019/2640)).
+[^329b-4]: Versiun tenor la cifra 1 da l’agiunta da la LF dal 1. d’oct. 2021, en vigur dapi il 1. da schan. 2023 ([AS 2022 468](https://fedlex.data.admin.ch/eli/oc/2022/468); [BBl 2019 7095](https://fedlex.data.admin.ch/eli/fga/2019/2553), [7303](https://fedlex.data.admin.ch/eli/fga/2019/2640)).
+[^329b-5]: Versiun tenor la cifra II 1 da la LF dals 20 da dec. 2019 davart la meglieraziun da la cumpatibilitad da l’activitad da gudogn cun la tgira da confamigliars, en vigur dapi il 1. da fan. 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
+[^329b-6]: Integrà tras la cifra I da la LF dals 16 da dec. 1983, en vigur dapi il 1. da fan. 1984 ([AS 1984 580](https://fedlex.data.admin.ch/eli/oc/1984/580_580_580); BBl **1982** III201).
 
 ### c. Coerenza e data
 
@@ -4551,6 +4554,23 @@ Il lavurant ha il dretg d’in congedi pajà per il temp ch’è necessari per a
 [^329i-1]: Integrà tras la cifra II 1 da la LF dals 20 da dec. 2019 davart la meglieraziun da la cumpatibilitad da l’activitad da gudogn cun la tgira da confamigliars, en vigur dapi il 1. da fan. 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 [^329i-2]: [SR 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
 
+### 8. Congedi d’adopziun
+
+#### Art. 329j
+
+[^329j-1]
+
+<sup>1</sup> Il lavurant che recepescha in uffant en vista ad in’adopziun, ha il dretg d’in congedi d’adopziun da 2 emnas, sche las premissas tenor l’artitgel 16*t* LCG[^329j-2] èn ademplidas.
+
+<sup>2</sup> Il congedi d’adopziun sto vegnir retratg entaifer l’emprim onn suenter la recepziun da l’uffant.
+
+<sup>3</sup> Il congedi d’adopziun po vegnir retratg d’in genitur u vegnir repartì sin ils geniturs. Ils geniturs na pon betg retrair a medem temp il congedi.
+
+<sup>4</sup> El po vegnir retratg per emna u per di.
+
+[^329j-1]: Integrà tras la cifra 1 da l’agiunta da la LF dal 1. d’oct. 2021, en vigur dapi il 1. da schan. 2023 ([AS 2022 468](https://fedlex.data.admin.ch/eli/oc/2022/468); [BBl 2019 7095](https://fedlex.data.admin.ch/eli/fga/2019/2553), [7303](https://fedlex.data.admin.ch/eli/fga/2019/2640)).
+[^329j-2]: [SR 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
+
 ### IX. Ulteriuras obligaziuns
 
 ### 1. Cauziun
@@ -4593,7 +4613,7 @@ Sch’ina relaziun da lavur è vegnida concludida per in temp illimità u per da
 
 [^330b-1]: Integrà tras l’art. 2 cifra 2 dal COF dals 17 da dec. 2004 pertutgant l’approvaziun e la realisaziun dal protocol concernent l’extensiun da la cunvegna davart la libra circulaziun da persunas sin ils novs stadis commembers da la CE tranter la Confederaziun svizra d’ina vart e la Communitad europeica e ses stadis commembers da l’autra vart sco er pertutgant l’approvaziun da la revisiun da las mesiras accumpagnantas concernent la libra circulaziun da persunas, en vigur dapi il 1. d’avr. 2006 ([AS 2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178); [BBl 2004 5891](https://fedlex.data.admin.ch/eli/fga/2004/1081)[6565](https://fedlex.data.admin.ch/eli/fga/2004/1105)).
 
-### D. Prevenziun dal persunal
+### D. Provediment dal persunal
 
 ### I. Obligaziuns dal patrun
 
@@ -4603,7 +4623,7 @@ Sch’ina relaziun da lavur è vegnida concludida per in temp illimità u per da
 
 #### Art. 331
 
-<sup>1</sup> Sch’il patrun furnescha prestaziuns a la prevenziun dal persunal[^331-1] u sch’ils lavurants pajan contribuziuns per quest intent, sto il patrun transferir questas prestaziuns u contribuziuns ad ina fundaziun, ad in’associaziun u ad ina instituziun dal dretg public.
+<sup>1</sup> Sch’il patrun furnescha prestaziuns al provediment dal persunal[^331-1] u sch’ils lavurants pajan contribuziuns per quest intent, sto il patrun transferir questas prestaziuns u contribuziuns ad ina fundaziun, ad in’associaziun u ad ina instituziun dal dretg public.
 
 <sup>2</sup> Sche las prestaziuns dal patrun e sche eventualas contribuziuns dal lavurant vegnan applitgadas per assicurar il lavurant cunter malsogna, cunter accidents, sur la vita, cunter invaliditad u en cas da mort tar ina interpresa ch’è suttamessa a la surveglianza da las assicuranzas u tar in’autra cassa da malsauns renconuschida, na sto il patrun betg transferir las prestaziuns u las contribuziuns tenor l’alinea precedent, sch’il lavurant ha ina pretensiun directa cunter l’instituziun d’assicuranza il mument ch’il cas assicurà capita.
 
@@ -5149,7 +5169,7 @@ Sch’il patrun daventa insolvent, po il lavurant schliar immediatamain la relaz
 
 <sup>2</sup> Il lavurant sto sa laschar deducir quai ch’el ha spargnà pervia da la fin da la relaziun da lavur sco er quai ch’el ha gudagnà tras in’autra lavur u ha tralaschà intenziunadamain da gudagnar.
 
-<sup>3</sup> Il derschader po obligar il patrun da pajar al lavurant ina indemnisaziun ch’el fixescha tenor liber appreziar, tegnend quint da tut las circumstanzas; questa indemnisaziun na dastga dentant betg surpassar il salari dal lavurant per 6 mais.
+<sup>3</sup> Il derschader po obligar il patrun da pajar al lavurant ina indemnisaziun ch’el fixescha tenor appreziar, tegnend quint da tut las circumstanzas; questa indemnisaziun na dastga dentant betg surpassar il salari dal lavurant per 6 mais.
 
 [^337c-1]: Versiun tenor la cifra I da la LF dals 18 da mars 1988, en vigur dapi il 1. da schan. 1989 ([AS 1988 1472](https://fedlex.data.admin.ch/eli/oc/1988/1472_1472_1472); [BBl 1984 II 551](https://fedlex.data.admin.ch/eli/fga/1984/2_551_574_494)).
 
@@ -5311,7 +5331,7 @@ Resalvadas restan:
 
 ### Segund chapitel: Ils contracts individuals spezials da lavur
 
-### A.**** Il contract d’emprendissadi
+### A. Il contract d’emprendissadi
 
 [^part2-tit10-chap2-lvlA-1]
 
@@ -5488,7 +5508,7 @@ La relaziun da lavur sto vegnir reglada tras in contract en scrit che duai en sp
 
 <sup>1</sup> Sch’il viagiatur da commerzi è impedì senza sia culpa d’exequir sia activitad da viagiatur e sch’il salari al sto tuttina vegnir pajà sin fundament da la lescha u dal contract, vegn quest salari calculà sin fundament dal salari fix e sin fundament d’ina indemnisaziun adequata per la perdita da la provisiun.
 
-<sup>2</sup> Sche la provisiun importa main ch’in 5avel dal salari, poi vegnir concludì en scrit ch’i na stoppia betg vegnir pajada ina indemnisaziun per la perdita da la provisiun, en cas ch’il viagiatur da commerzi saja impedì senza sia culpa d’exequir sia activitad da viagiatur.
+<sup>2</sup> Sche la provisiun importa main ch’in tschintgavel dal salari, poi vegnir concludì en scrit ch’i na stoppia betg vegnir pajada ina indemnisaziun per la perdita da la provisiun, en cas ch’il viagiatur da commerzi saja impedì senza sia culpa d’exequir sia activitad da viagiatur.
 
 <sup>3</sup> Sch’il viagiatur da commerzi survegn tuttina l’entir salari, en cas ch’el è impedì senza sia culpa d’exequir sia activitad da viagiatur, sto el – sin dumonda dal patrun – lavurar en ses manaschi, premess ch’el saja abel da prestar questa lavur e premess che questa lavur possia vegnir pretendida dad el.
 
@@ -5514,7 +5534,7 @@ La relaziun da lavur sto vegnir reglada tras in contract en scrit che duai en sp
 
 #### Art. 350
 
-<sup>1</sup> Sche la provisiun importa almain in 5avel dal salari e sch’ella è suttamessa a fluctuaziuns stagiunalas considerablas, dastga il patrun disdir la relaziun da lavur al viagiatur da commerzi, che ha lavurà per el dapi la fin da la stagiun precedenta, durant la nova stagiun mo per la fin dal segund mais che suonda il mais da la disditga.
+<sup>1</sup> Sche la provisiun importa almain in tschintgavel dal salari e sch’ella è suttamessa a fluctuaziuns stagiunalas considerablas, dastga il patrun disdir la relaziun da lavur al viagiatur da commerzi, che ha lavurà per el dapi la fin da la stagiun precedenta, durant la nova stagiun mo per la fin dal segund mais che suonda il mais da la disditga.
 
 <sup>2</sup> Sut las medemas premissas dastga il viagiatur da commerzi disdir la relaziun da lavur al patrun, che l’ha occupà fin la fin da la stagiun, fin al cumenzament da la proxima stagiun mo per la fin dal segund mais che suonda il mais da la disditga.
 
@@ -5815,38 +5835,38 @@ Sch’in chantun decretescha in contract normal da lavur en applicaziun da l’a
 
 #### Art. 361
 
-<sup>1</sup> Tras ina cunvegna, tras in contract normal u tras in contract collectiv da lavur na dastgi vegnir divergià da las suandantas disposiziuns ni a disfavur dal lavurant ni a disfavur dal patrun:
+<sup>1</sup>
 
-<table>
-<tr><td>[tab] artitgel 321*c*:</td><td>[tab] alinea 1 (lavur supplementara)</td></tr>
-<tr><td>[tab] artitgel 323:</td><td>[tab] alinea 4 (pajament anticipà)</td></tr>
-<tr><td>[tab] artitgel 323*b*:</td><td>[tab] alinea 2 (scuntrada cun cuntrapretensiuns)</td></tr>
-<tr><td>[tab] artitgel 325:</td><td>[tab] alinea 2 (cessiun ed impegnaziun da pretensiuns da salari)</td></tr>
-<tr><td>[tab] artitgel 326:</td><td>[tab] alinea 2 (assegnaziun da lavur)</td></tr>
-<tr><td>[tab] artitgel 329*d*:</td><td>[tab] alineas 2 e 3 (salari da vacanzas)</td></tr>
-<tr><td>[tab] artitgel 331:</td><td>[tab] alineas 1 e 2 (prestaziuns a la prevenziun dal persunal)</td></tr>
-<tr><td>[tab] artitgel 331*b:*</td><td>[tab] (cessiun ed impegnaziun da pretensiuns da prestaziuns da prevenziun)[^361-1]</td></tr>
-<tr><td>[tab] ...[^361-2]</td><td>[tab]</td></tr>
-<tr><td>[tab] artitgel 334:</td><td>[tab] alinea 3 (disditga d’ina relaziun da lavur da blers onns)</td></tr>
-<tr><td>[tab] artitgel 335:</td><td>[tab] (disditga da la relaziun da lavur)</td></tr>
-<tr><td>[tab] artitgel 335*k*:</td><td>[tab] (plan social durant ina procedura da concurs u d’accumodament)[^361-3]</td></tr>
-<tr><td>[tab] artitgel 336:</td><td>[tab] alinea 1 (disditga abusiva)</td></tr>
-<tr><td>[tab] artitgel 336*a*:</td><td>[tab] (indemnisaziun en cas d’ina disditga abusiva u nungiustifitgada)</td></tr>
-<tr><td>[tab] artitgel 336*b*:</td><td>[tab] (far valair l’indemnisaziun)</td></tr>
-<tr><td>[tab] artitgel 336*d*:</td><td>[tab] (disditga da temp maladattà tras il lavurant)</td></tr>
-<tr><td>[tab] artitgel 337:</td><td>[tab] alineas 1 e 2 (schliaziun immediata per motivs impurtants)</td></tr>
-<tr><td>[tab] artitgel 337*b*:</td><td>[tab] alinea 1 (consequenzas en cas da schliaziun giustifitgada)</td></tr>
-<tr><td>[tab] artitgel 337*d*:</td><td>[tab] (consequenzas, sch’il lavurant na cumpara betg a la lavur u banduna la lavur senza motivs giustifitgads)</td></tr>
-<tr><td>[tab] artitgel 339:</td><td>[tab] alinea 1 (pajament da las pretensiuns)</td></tr>
-<tr><td>[tab] artitgel 339*a*:</td><td>[tab] (restituziun)</td></tr>
-<tr><td>[tab] artitgel 340*b*:</td><td>[tab] alineas 1 e 2 (consequenzas dal surpassament dal scumond da concurrenza)</td></tr>
-<tr><td>[tab] artitgel 342:</td><td>[tab] alinea 2 (effects dal dretg public sin il dretg civil)</td></tr>
-<tr><td>[tab] ...[^361-4]</td><td>[tab]</td></tr>
-<tr><td>[tab] artitgel 346:</td><td>[tab] (schliaziun anticipada dal contract d’emprendissadi)</td></tr>
-<tr><td>[tab] artitgel 349*c*:</td><td>[tab] alinea 3 (impediment da viagiar)</td></tr>
-<tr><td>[tab] artitgel 350:</td><td>[tab] (disditga speziala)</td></tr>
-<tr><td>[tab] artitgel 350*a*:</td><td>[tab] alinea 2 (restituziun).[^361-5]</td></tr>
-</table>
+Tras ina cunvegna, tras in contract normal u tras in contract collectiv da lavur na dastgi vegnir divergià da las suandantas disposiziuns ni a disfavur dal lavurant ni a disfavur dal patrun:
+
+- artitgel 321*c*: alinea 1 (lavur supplementara)
+- artitgel 323: alinea 4 (pajament anticipà)
+- artitgel 323*b*: alinea 2 (scuntrada cun cuntrapretensiuns)
+- artitgel 325: alinea 2 (cessiun ed impegnaziun da pretensiuns da salari)
+- artitgel 326: alinea 2 (assegnaziun da lavur)
+- artitgel 329*d*: alineas 2 e 3 (salari da vacanzas)
+- artitgel 331: alineas 1 e 2 (prestaziuns al provediment dal persunal)
+- artitgel 331*b*: (cessiun ed impegnaziun da pretensiuns da prestaziuns da provediment)[^361-1]
+- [tab] …[^361-2]
+- artitgel 334: alinea 3 (disditga d’ina relaziun da lavur da blers onns)
+- artitgel 335: (disditga da la relaziun da lavur)
+- artitgel 335*k*: (plan social durant ina procedura da concurs u d’accumodament)[^361-3]
+- artitgel 336: alinea 1 (disditga abusiva)
+- artitgel 336*a*: (indemnisaziun en cas d’ina disditga abusiva u nungiustifitgada)
+- artitgel 336*b*: (far valair l’indemnisaziun)
+- artitgel 336*d*: (disditga da temp maladattà tras il lavurant)
+- artitgel 337: alineas 1 e 2 (schliaziun immediata per motivs impurtants)
+- artitgel 337*b*: alinea 1 (consequenzas en cas da schliaziun giustifitgada)
+- artitgel 337*d*: (consequenzas, sch’il lavurant na cumpara betg a la lavur u banduna la lavur senza motivs giustifitgads)
+- artitgel 339: alinea 1 (pajament da las pretensiuns)
+- artitgel 339*a*: (restituziun)
+- artitgel 340*b*: alineas 1 e 2 (consequenzas dal surpassament dal scumond da concurrenza)
+- artitgel 342: alinea 2 (effects dal dretg public sin il dretg civil)
+- [tab] …[^361-4]
+- artitgel 346: (schliaziun anticipada dal contract d’emprendissadi)
+- artitgel 349*c*: alinea 3 (impediment da viagiar)
+- artitgel 350: (disditga speziala)
+- artitgel 350*a*: alinea 2 (restituziun).[^361-5]
 
 <sup>2</sup> Cunvegnas e disposiziuns da contracts collectivs e da contracts normals da lavur che divergeschan da las prescripziuns numnadas qua survart a disfavur dal patrun u dal lavurant, èn nunvalaivlas.
 
@@ -5860,86 +5880,88 @@ Sch’in chantun decretescha in contract normal da lavur en applicaziun da l’a
 
 #### Art. 362
 
-<sup>1</sup> Tras ina cunvegna, tras in contract normal da lavur u tras in contract collectiv da lavur na dastgi betg vegnir divergià da las suandantas disposiziuns a disfavur dal lavurant:[^362-1]
+<sup>1</sup>
 
-<table>
-<tr><td>[tab] artitgel 321*e*:</td><td>[tab] (responsabladad dal lavurant)</td></tr>
-<tr><td>[tab] artitgel 322*a*:</td><td>[tab] alineas 2 e 3 (participaziun al resultat da la fatschenta)</td></tr>
-<tr><td>[tab] artitgel 322*b*:</td><td>[tab] alineas 1 e 2 (cumenzament dal dretg da survegnir ina provisiun)</td></tr>
-<tr><td>[tab] artitgel 322*c*:</td><td>[tab] (rendaquint da la provisiun)</td></tr>
-<tr><td>[tab] artitgel 323*b*:</td><td>[tab] alinea 1 segunda frasa (rendaquint dal salari)</td></tr>
-<tr><td>[tab] artitgel 324:</td><td>[tab] (salari en cas da retard dal patrun)</td></tr>
-<tr><td>[tab] artitgel 324*a*:</td><td>[tab] alineas 1 e 3 (salari en cas da retard dal lavurant)</td></tr>
-<tr><td>[tab] artitgel 324*b*:</td><td>[tab] (salari en cas d’ina assicuranza obligatorica dal lavurant)</td></tr>
-<tr><td>[tab] artitgel 326:</td><td>[tab] alineas 1, 3 e 4 (lavur en accord)</td></tr>
-<tr><td>[tab] artitgel 326*a*:</td><td>[tab] (salari per la lavur en accord)</td></tr>
-<tr><td>[tab] artitgel 327*a*:</td><td>[tab] alinea 1 (indemnisaziun da las expensas en general)</td></tr>
-<tr><td>[tab] artitgel 327*b*:</td><td>[tab] alinea 1 (indemnisaziun da las expensas per l’utilisaziun d’in vehichel a motor)</td></tr>
-<tr><td>[tab] artitgel 327*c*:</td><td>[tab] alinea 2 (pajament anticipà per expensas)</td></tr>
-<tr><td>[tab] artitgel 328:</td><td>[tab] (protecziun da la persunalitad dal lavurant en general)</td></tr>
-<tr><td>[tab] artitgel 328*a*:</td><td>[tab] (protecziun da la persunalitad dal lavurant en la chasada dal patrun)</td></tr>
-<tr><td>[tab] artitgel 328*b*:</td><td>[tab] (protecziun da la persunalitad a chaschun da l’elavuraziun da datas da persunas)[^362-2]</td></tr>
-<tr><td>[tab] artitgel 329:</td><td>[tab] alineas 1, 2 e 3 (temp liber)</td></tr>
-<tr><td>[tab] artitgel 329*a*:</td><td>[tab] alineas 1 e 3 (durada da las vacanzas)</td></tr>
-<tr><td>[tab] artitgel 329*b*:</td><td>[tab] alineas 2 e 3 (reducziun da las vacanzas)</td></tr>
-<tr><td>[tab] artitgel 329*c*:</td><td>[tab] (coerenza e data da las vacanzas)</td></tr>
-<tr><td>[tab] artitgel 329*d*:</td><td>[tab] alinea 1 (salari da vacanzas)</td></tr>
-<tr><td>[tab] artitgel 329*e*:</td><td>[tab] alineas 1 e 3 (congedi per giuvenils)[^362-3]</td></tr>
-<tr><td>[tab] artitgel 329*f*:</td><td>[tab] (congedi da maternitad)[^362-4]</td></tr>
-<tr><td>[tab] artitgel 329*g*:</td><td>[tab] (congedi da paternitad)[^362-5]</td></tr>
-<tr><td>[tab] artitgel 329*h*:</td><td>[tab] (congedi per l’assistenza da confamigliars)[^362-6]</td></tr>
-<tr><td>[tab] artitgel 329*i*:</td><td>[tab] (congedi per tgirar in uffant cun grevs problems da la sanadad pervia da malsogna u d’accident)[^362-7]</td></tr>
-<tr><td>[tab] artitgel 330:</td><td>[tab] alineas 1, 3 e 4 (cauziun)</td></tr>
-<tr><td>[tab] artitgel 330*a*:</td><td>[tab] (attestat)</td></tr>
-<tr><td>[tab] artitgel 331:</td><td>[tab] alineas 3 e 4 (contribuziun ed obligaziun da dar infurmaziuns en connex cun la prevenziun dal persunal)</td></tr>
-<tr><td>[tab] artitgel 331*a*:</td><td>[tab] (cumenzament e fin da la prevenziun)[^362-8]</td></tr>
-<tr><td>[tab] ...[^362-9]</td><td>[tab]</td></tr>
-<tr><td>[tab] artitgel 332:</td><td>[tab] alinea 4 (indemnisaziun en cas d’invenziuns)</td></tr>
-<tr><td>[tab] artitgel 333:</td><td>[tab] alinea 3 (responsabladad en cas d’in transferiment da la relaziun da lavur)</td></tr>
-<tr><td>[tab] artitgel 335*c*:</td><td>[tab] alinea 3 (termins da disditga)[^362-10]</td></tr>
-<tr><td>[tab] artitgel 335*i*:</td><td>[tab] (obligaziun da manar tractativas per concluder in plan social)[^362-11]</td></tr>
-<tr><td>[tab] artitgel 335*j*:</td><td>[tab] (fixaziun dal plan social tras ina dretgira da cumpromiss)[^362-12]</td></tr>
-<tr><td>[tab] artitgel 336:</td><td>[tab] alinea 2 (disditga abusiva tras il patrun)</td></tr>
-<tr><td>[tab] artitgel 336*c*:</td><td>[tab] (disditga da temp maladattà tras il patrun)</td></tr>
-<tr><td>[tab] artitgel 337*a*:</td><td>[tab] (schliaziun immediata pervia d’insolvenza dal patrun)</td></tr>
-<tr><td>[tab] artitgel 337*c*:</td><td>[tab] alinea 1 (consequenzas en cas da relaschada nungiustifitgada)</td></tr>
-<tr><td>[tab] artitgel 338:</td><td>[tab] (mort dal lavurant)</td></tr>
-<tr><td>[tab] artitgel 338*a*:</td><td>[tab] (mort dal patrun)</td></tr>
-<tr><td>[tab] artitgel 339*b*:</td><td>[tab] (premissas da l’indemnisaziun da partenza)</td></tr>
-<tr><td>[tab] artitgel 339*d*:</td><td>[tab] (prestaziuns da cumpensaziun)</td></tr>
-<tr><td>[tab] artitgel 340:</td><td>[tab] alinea 1 (premissas dal scumond da concurrenza)</td></tr>
-<tr><td>[tab] artitgel 340*a*:</td><td>[tab] alinea 1 (restricziun dal scumond da concurrenza)</td></tr>
-<tr><td>[tab] artitgel 340*c*:</td><td>[tab] (scrudada dal scumond da concurrenza)</td></tr>
-<tr><td>[tab] artitgel 341:</td><td>[tab] alinea 1 (nunpussaivladad da renunziar a la surannaziun)</td></tr>
-<tr><td>[tab] artitgel 345*a*:</td><td>[tab] (obligaziuns dal patrun d’emprendissadi[^362-13])</td></tr>
-<tr><td>[tab] artitgel 346*a*:</td><td>[tab] (attestat d’emprendissadi)</td></tr>
-<tr><td>[tab] artitgel 349*a*:</td><td>[tab] alinea 1 (salari dal viagiatur da commerzi)</td></tr>
-<tr><td>[tab] artitgel 349*b*:</td><td>[tab] alinea 3 (pajament da la provisiun)</td></tr>
-<tr><td>[tab] artitgel 349*c*:</td><td>[tab] alinea 1 (salari en cas d’impediment da viagiar)</td></tr>
-<tr><td>[tab] artitgel 349*e*:</td><td>[tab] alinea 1 (dretg da retenziun dal viagiatur da commerzi)</td></tr>
-<tr><td>[tab] artitgel 350*a*:</td><td>[tab] alinea 1 (provisiun a la fin da la relaziun da lavur)</td></tr>
-<tr><td>[tab] artitgel 352*a*:</td><td>[tab] alinea 3 (responsabladad dal lavurant a chasa)</td></tr>
-<tr><td>[tab] artitgel 353:</td><td>[tab] (collaudaziun dal product)</td></tr>
-<tr><td>artitgel 353*a*:</td><td>(pajament dal salari)</td></tr>
-<tr><td>artitgel 353*b*:</td><td>alinea 1 (salari en cas d’impediment da lavurar).[^362-14]</td></tr>
-</table>
+Tras ina cunvegna, tras in contract normal da lavur u tras in contract collectiv da lavur na dastgi betg vegnir divergià da las suandantas disposiziuns a disfavur dal lavurant:[^362-1]
+
+- artitgel 321*e*: (responsabladad dal lavurant)
+- artitgel 322*a*: alineas 2 e 3 (participaziun al resultat da la fatschenta)
+- artitgel 322*b*: alineas 1 e 2 (cumenzament dal dretg da survegnir ina provisiun)
+- artitgel 322*c*: (rendaquint da la provisiun)
+- artitgel 323*b*: alinea 1 segunda frasa (rendaquint dal salari)
+- artitgel 324: (salari en cas da retard dal patrun)
+- artitgel 324*a*: alineas 1 e 3 (salari en cas da retard dal lavurant)
+- artitgel 324*b*: (salari en cas d’ina assicuranza obligatorica dal lavurant)
+- artitgel 326: alineas 1, 3 e 4 (lavur en accord)
+- artitgel 326*a*: (salari per la lavur en accord)
+- artitgel 327*a*: alinea 1 (indemnisaziun da las expensas en general)
+- artitgel 327*b*: alinea 1 (indemnisaziun da las expensas per l’utilisaziun d’in vehichel a motor)
+- artitgel 327*c*: alinea 2 (pajament anticipà per expensas)
+- artitgel 328: (protecziun da la persunalitad dal lavurant en general)
+- artitgel 328*a*: (protecziun da la persunalitad dal lavurant en la chasada dal patrun)
+- artitgel 328*b*: (protecziun da la persunalitad a chaschun da l’elavuraziun da datas da persunas)[^362-2]
+- artitgel 329: alineas 1, 2 e 3 (temp liber)
+- artitgel 329*a*: alineas 1 e 3 (durada da las vacanzas)
+- artitgel 329*b*: alineas 2 e 3 (reducziun da las vacanzas)
+- artitgel 329*c*: (coerenza e data da las vacanzas)
+- artitgel 329*d*: alinea 1 (salari da vacanzas)
+- artitgel 329*e*: alineas 1 e 3 (congedi per giuvenils)[^362-3]
+- artitgel 329*f*: (congedi da maternitad)[^362-4]
+- artitgel 329*g*: (congedi da paternitad)[^362-5]
+- artitgel 329*h*: (congedi per l’assistenza da confamigliars)[^362-6]
+- artitgel 329*i*: (congedi per tgirar in uffant cun grevs problems da la sanadad pervia da malsogna u d’accident)[^362-7]
+- artitgel 329*j*: (congedi d’adopziun)[^362-8]
+- artitgel 330: alineas 1, 3 e 4 (cauziun)
+- artitgel 330*a*: (attestat)
+- artitgel 331: alineas 3 e 4 (contribuziun ed obligaziun da dar infurmaziuns en connex cun il provediment dal persunal)
+- artitgel 331*a*: (cumenzament e fin dal provediment)[^362-9]
+- …[^362-10]
+- artitgel 332: alinea 4 (indemnisaziun en cas d’invenziuns)
+- artitgel 333: alinea 3 (responsabladad en cas d’in transferiment da la relaziun da lavur)
+- artitgel 335*c*: alinea 3 (termins da disditga)[^362-11]
+- artitgel 335*i*: (obligaziun da manar tractativas per concluder in plan social)[^362-12]
+- artitgel 335*j*: (fixaziun dal plan social tras ina dretgira da cumpromiss)[^362-13]
+- artitgel 336: alinea 2 (disditga abusiva tras il patrun)
+- artitgel 336*c*: (disditga da temp maladattà tras il patrun)
+- artitgel 337*a*: (schliaziun immediata pervia d’insolvenza dal patrun)
+- artitgel 337*c*: alinea 1 (consequenzas en cas da relaschada nungiustifitgada)
+- artitgel 338: (mort dal lavurant)
+- artitgel 338*a*: (mort dal patrun)
+- artitgel 339*b*: (premissas da l’indemnisaziun da partenza)
+- artitgel 339*d*: (prestaziuns da cumpensaziun)
+- artitgel 340: alinea 1 (premissas dal scumond da concurrenza)
+- artitgel 340*a*: alinea 1 (restricziun dal scumond da concurrenza)
+- artitgel 340*c*: (scrudada dal scumond da concurrenza)
+- artitgel 341: alinea 1 (nunpussaivladad da renunziar a la surannaziun)
+- artitgel 345*a*: (obligaziuns dal patrun d’emprendissadi[^362-14])
+- artitgel 346*a*: (attestat d’emprendissadi)
+- artitgel 349*a*: alinea 1 (salari dal viagiatur da commerzi)
+- artitgel 349*b*: alinea 3 (pajament da la provisiun)
+- artitgel 349*c*: alinea 1 (salari en cas d’impediment da viagiar)
+- artitgel 349*e*: alinea 1 (dretg da retenziun dal viagiatur da commerzi)
+- artitgel 350*a*: alinea 1 (provisiun a la fin da la relaziun da lavur)
+- artitgel 352*a*: alinea 3 (responsabladad dal lavurant a chasa)
+- artitgel 353: (collaudaziun dal product)
+- artitgel 353*a*: (pajament dal salari)
+- artitgel 353*b*: alinea 1 (salari en cas d’impediment da lavurar).[^362-15]
 
 <sup>2</sup> Cunvegnas e disposiziuns da contracts collectivs e da contracts normals da lavur che divergeschan da las prescripziuns numnadas qua survart a disfavur dal lavurant, èn nunvalaivlas.
 
 [^362-1]: Versiun tenor la cifra II 1 da la LF dals 20 da dec. 2019 davart la meglieraziun da la cumpatibilitad da l’activitad da gudogn cun la tgira da confamigliars, en vigur dapi il 1. da schan. 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
-[^362-2]: Integrà tras la cifra 2 da l’agiunta da la LF dals 19 da zer. 1992 davart la protecziun da datas, en vigur dapi il 1. da fan. 1993 (AS **1993** 1954; [BBl 1988 II 413](https://fedlex.data.admin.ch/eli/fga/1988/2_413_421_353)).
+[^362-2]: Integrà tras la cifra 2 da l’agiunta da la LF dals 19 da zer. 1992 davart la protecziun da datas, en vigur dapi il 1. da fan. 1993 ([AS 1993 1945](https://fedlex.data.admin.ch/eli/oc/1993/1945_1945_1945); [BBl 1988 II 413](https://fedlex.data.admin.ch/eli/fga/1988/2_413_421_353)).
 [^362-3]: Integrà tras l’art. 13 da la LF dals 6 d’oct. 1989 davart la lavur cun giuvenils, en vigur dapi il 1. da schan. 1991 ([AS 1990 2007](https://fedlex.data.admin.ch/eli/oc/1990/2007_2007_2007); [BBl 1988 I 825](https://fedlex.data.admin.ch/eli/fga/1988/1_825_777_641)).
 [^362-4]: Integrà tras la cifra 1 da l’agiunta da la LF dals 3 d’oct. 2003, en vigur dapi il 1. da fan. 2005 ([AS 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [BBl 2002 7522](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1112](https://fedlex.data.admin.ch/eli/fga/2003/169)[2923](https://fedlex.data.admin.ch/eli/fga/2003/381)).
 [^362-5]: Integrà tras la cifra II 1 da la LF dals 20 da dec. 2019 davart la meglieraziun da la cumpatibilitad da l’activitad da gudogn cun la tgira da confamigliars, en vigur dapi il 1. da schan. 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 [^362-6]: Integrà tras la cifra II 1 da la LF dals 20 da dec. 2019 davart la meglieraziun da la cumpatibilitad da l’activitad da gudogn cun la tgira da confamigliars, en vigur dapi il 1. da schan. 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 [^362-7]: Integrà tras la cifra II 1 da la LF dals 20 da dec. 2019 davart la meglieraziun da la cumpatibilitad da l’activitad da gudogn cun la tgira da confamigliars, en vigur dapi il 1. da fan. 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
-[^362-8]: Versiun tenor la cifra 2 da l’agiunta da la LF dals 17 da dec. 1993 davart la libra circulaziun, en vigur dapi il 1. da schan. 1995 ([AS 1994 2386](https://fedlex.data.admin.ch/eli/oc/1994/2386_2386_2386); [BBl 1992 III 533](https://fedlex.data.admin.ch/eli/fga/1992/3_533_529_477)).
-[^362-9]: Abolì tras la cifra 2 da l’agiunta da la LF dals 17 da dec. 1993 davart la libra circulaziun, cun effect dapi il 1. da schan. 1995 ([AS 1994 2386](https://fedlex.data.admin.ch/eli/oc/1994/2386_2386_2386); [BBl 1992 III 533](https://fedlex.data.admin.ch/eli/fga/1992/3_533_529_477)).
-[^362-10]: Integrà tras la cifra II 1 da la LF dals 20 da dec. 2019 davart la meglieraziun da la cumpatibilitad da l’activitad da gudogn cun la tgira da confamigliars, en vigur dapi il 1. da schan. 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
-[^362-11]: Integrà tras l’agiunta da la LF dals 21 da zer. 2013, en vigur dapi il 1. da schan. 2014 ([AS 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [BBl 2010 6455](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
+[^362-8]: Integrà tras la cifra 1 da l’agiunta da la LF dal 1. d’oct. 2021, en vigur dapi il 1. da schan. 2023 ([AS 2022 468](https://fedlex.data.admin.ch/eli/oc/2022/468); [BBl 2019 7095](https://fedlex.data.admin.ch/eli/fga/2019/2553), [7303](https://fedlex.data.admin.ch/eli/fga/2019/2640)).
+[^362-9]: Versiun tenor la cifra 2 da l’agiunta da la LF dals 17 da dec. 1993 davart la libra circulaziun, en vigur dapi il 1. da schan. 1995 ([AS 1994 2386](https://fedlex.data.admin.ch/eli/oc/1994/2386_2386_2386); [BBl 1992 III 533](https://fedlex.data.admin.ch/eli/fga/1992/3_533_529_477)).
+[^362-10]: Abolì tras la cifra 2 da l’agiunta da la LF dals 17 da dec. 1993 davart la libra circulaziun, cun effect dapi il 1. da schan. 1995 ([AS 1994 2386](https://fedlex.data.admin.ch/eli/oc/1994/2386_2386_2386); [BBl 1992 III 533](https://fedlex.data.admin.ch/eli/fga/1992/3_533_529_477)).
+[^362-11]: Integrà tras la cifra II 1 da la LF dals 20 da dec. 2019 davart la meglieraziun da la cumpatibilitad da l’activitad da gudogn cun la tgira da confamigliars, en vigur dapi il 1. da schan. 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 [^362-12]: Integrà tras l’agiunta da la LF dals 21 da zer. 2013, en vigur dapi il 1. da schan. 2014 ([AS 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [BBl 2010 6455](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
-[^362-13]: Ussa: dal patrun.
-[^362-14]: Versiun tenor la cifra I da la LF dals 18 da mars 1988, en vigur dapi il 1. da schan. 1989 ([AS 1988 1472](https://fedlex.data.admin.ch/eli/oc/1988/1472_1472_1472); [BBl 1984 II 551](https://fedlex.data.admin.ch/eli/fga/1984/2_551_574_494)).
+[^362-13]: Integrà tras l’agiunta da la LF dals 21 da zer. 2013, en vigur dapi il 1. da schan. 2014 ([AS 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [BBl 2010 6455](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
+[^362-14]: Ussa: dal patrun.
+[^362-15]: Versiun tenor la cifra I da la LF dals 18 da mars 1988, en vigur dapi il 1. da schan. 1989 ([AS 1988 1472](https://fedlex.data.admin.ch/eli/oc/1988/1472_1472_1472); [BBl 1984 II 551](https://fedlex.data.admin.ch/eli/fga/1984/2_551_574_494)).
 
 ### Indeschavel titel: Il contract d’execuziun da lavurs
 
@@ -6373,7 +6395,7 @@ Sch’il mandant daventa probablamain permanentamain inabel da giuditgar, sto il
 
 Il mandant u ses ertavel è obligà da laschar exequir il mandatari las fatschentas ch’el ha manà avant che avair survegnì enconuschientscha da l’extincziun dal mandat, sco sch’il mandat existiss anc adina.
 
-### Emprim chapitel<sup>bis</sup>:**** Mandat per l’intermediaziun da maridaglias u da partenadis
+### Emprim chapitel<sup>bis</sup>: Mandat per l’intermediaziun da maridaglias u da partenadis
 
 [^part2-tit13-chap1bis-1]
 
@@ -6566,7 +6588,7 @@ Sch’igl è vegnì concludì in salari sproporziunà per l’intermediatur per 
 
 I resta resalvà als chantuns da far prescripziuns spezialas davart las activitads dals agents da bursa, dals intermediaturs sco er dals intermediaturs da plazzas.
 
-### Quart chapitel:**** Il contract d’agentura
+### Quart chapitel: Il contract d’agentura
 
 [^part2-tit13-chap4-1]
 
@@ -6808,7 +6830,7 @@ Tgi che procura ina fatschenta per in’autra persuna senza avair in mandat da t
 
 #### Art. 422
 
-<sup>1</sup> Sche l’administratur ha stuì surpigliar la gestiun d’ina fatschenta pervia da l’interess dal patrun, è quel obligà da pajar al manader da fatschenta tut las anticipaziuns ch’èn stadas necessarias u utilas ed adattadas a las relaziuns, inclusiv ils tschains, e da deliberar l’administratur en la medema dimensiun da las obligaziuns ch’el ha surpiglià sco er da prestar indemnisaziun per auters donns tenor liber appreziar dal derschader.
+<sup>1</sup> Sche l’administratur ha stuì surpigliar la gestiun d’ina fatschenta pervia da l’interess dal patrun, è quel obligà da pajar al manader da fatschenta tut las anticipaziuns ch’èn stadas necessarias u utilas ed adattadas a las relaziuns, inclusiv ils tschains, e da deliberar l’administratur en la medema dimensiun da las obligaziuns ch’el ha surpiglià sco er da prestar indemnisaziun per auters donns tenor appreziar dal derschader.
 
 <sup>2</sup> Quest dretg ha l’administratur, sch’el ha agì cun la premura necessaria, er alura, sch’il resultat intenziunà n’è betg vegnì cuntanschì.
 
@@ -7443,7 +7465,7 @@ Sche pliras persunas han deposità ina chaussa, da la quala las relaziuns giurid
 
 <sup>2</sup> Las disposiziuns davart il dretg da retenziun dal locatur vegnan applitgadas confurm al senn.
 
-### Ventgavel titel:**** La garanzia
+### Ventgavel titel: La garanzia
 
 [^part2-tit20-1]
 
@@ -7908,17 +7930,17 @@ Sch’il vitalizià ha surdà in bain immobigliar al vitaliziari, ha el – sco 
 
 <sup>2</sup> Ella è ina societad simpla en il senn da quest titel, uschenavant ch’ella n’ha betg il caracter distinctiv d’ina da las autras societads ch’èn regladas da la lescha.
 
-### B. Relaziun dals associads tranter sai
+### B. Relaziun dals societaris tranter sai
 
 ### I. Contribuziuns
 
 #### Art. 531
 
-<sup>1</sup> Mintga associà ha da prestar ina contribuziun, saja quai en furma da daners, da chaussas, da credits u da lavur.
+<sup>1</sup> Mintga societari ha da prestar ina contribuziun, saja quai en furma da daners, da chaussas, da credits u da lavur.
 
-<sup>2</sup> Ils associads han da prestar contribuziuns egualas che han da correspunder tenor la spezia e tenor la dimensiun a l’intent concludì da la societad, nun ch’i dettia ina cunvegna cuntraria.
+<sup>2</sup> Ils societaris han da prestar contribuziuns egualas che han da correspunder tenor la spezia e tenor la dimensiun a l’intent concludì da la societad, nun ch’i dettia ina cunvegna cuntraria.
 
-<sup>3</sup> Pertutgant il surpigliar la ristga e pertutgant l’obligaziun da dar garanzia vegnan applitgads ils princips dal contract da locaziun, uschenavant ch’il singul associà ha da surlaschar il diever d’ina chaussa, ed ils princips dal contract da cumpra, uschenavant ch’el ha da transferir la proprietad.
+<sup>3</sup> Pertutgant il surpigliar la ristga e pertutgant l’obligaziun da dar garanzia vegnan applitgads ils princips dal contract da locaziun, uschenavant ch’il singul societari ha da surlaschar il diever d’ina chaussa, ed ils princips dal contract da cumpra, uschenavant ch’el ha da transferir la proprietad.
 
 ### II. Gudogn e perdita
 
@@ -7926,23 +7948,23 @@ Sch’il vitalizià ha surdà in bain immobigliar al vitaliziari, ha el – sco 
 
 #### Art. 532
 
-Mintga associà è obligà da parter cun ils auters associads in gudogn che appartegna tenor sia natira a la societad.
+Mintga societari è obligà da parter cun ils auters societaris in gudogn che appartegna tenor sia natira a la societad.
 
 ### 2. Participaziun al gudogn ed a la perdita
 
 #### Art. 533
 
-<sup>1</sup> Mintga associà ha la medema part vi dal gudogn e vi da la perdita, senza resguard da la spezia e da la grondezza da sia contribuziun, nun ch’i dettia ina cunvegna cuntraria.
+<sup>1</sup> Mintga societari ha la medema part vi dal gudogn e vi da la perdita, senza resguard da la spezia e da la grondezza da sia contribuziun, nun ch’i dettia ina cunvegna cuntraria.
 
 <sup>2</sup> Sch’igl è vegnida concludida mo la part vi dal gudogn u mo la part vi da la perdita, vala quest conclus per tuts dus cas.
 
-<sup>3</sup> La cunvegna ch’in associà, che ha da contribuir lavur per l’intent cuminaivel, duaja avair part mo vi dal gudogn, ma betg vi da la perdita, è valaivla.
+<sup>3</sup> La cunvegna ch’in societari, che ha da contribuir lavur per l’intent cuminaivel, duaja avair part mo vi dal gudogn, ma betg vi da la perdita, è valaivla.
 
 ### III. Conclus da la societad
 
 #### Art. 534
 
-<sup>1</sup> Ils conclus da la societad vegnan prendids cun il consentiment da tut ils associads.
+<sup>1</sup> Ils conclus da la societad vegnan prendids cun il consentiment da tut ils societaris.
 
 <sup>2</sup> Sch’il contract prevesa ina maioritad da las vuschs, correspunda quella a la pluralitad da las persunas.
 
@@ -7950,11 +7972,11 @@ Mintga associà è obligà da parter cun ils auters associads in gudogn che appa
 
 #### Art. 535
 
-<sup>1</sup> La gestiun po vegnir ademplida da tut ils associads, nun ch’ella saja vegnida surdada tras contract u tras conclus exclusivamain ad in u a plirs associads u a terzas persunas.
+<sup>1</sup> La gestiun po vegnir ademplida da tut ils societaris, nun ch’ella saja vegnida surdada tras contract u tras conclus exclusivamain ad in u a plirs societaris u a terzas persunas.
 
-<sup>2</sup> Sche la gestiun po vegnir ademplida u da tuts u da plirs associads, po mintgin dad els agir senza la cooperaziun dals auters; mintgin dals auters associads che ha il dretg d’ademplir la gestiun ha dentant il dretg – faschond opposiziun – d’impedir quest agir, avant che quel saja cumplenì.
+<sup>2</sup> Sche la gestiun po vegnir ademplida u da tuts u da plirs societaris, po mintgin dad els agir senza la cooperaziun dals auters; mintgin dals auters societaris che ha il dretg d’ademplir la gestiun ha dentant il dretg – faschond opposiziun – d’impedir quest agir, avant che quel saja cumplenì.
 
-<sup>3</sup> Per nominar in mandatari general e per far acts giuridics che surpassan la gestiun ordinaria da las fatschentas cuminaivlas dovri il consentiment da tut ils associads, nun ch’i smanatschia in privel tras il retardament.
+<sup>3</sup> Per nominar in mandatari general e per far acts giuridics che surpassan la gestiun ordinaria da las fatschentas cuminaivlas dovri il consentiment da tut ils societaris, nun ch’i smanatschia in privel tras il retardament.
 
 ### V. Responsabladad tranter sai
 
@@ -7962,15 +7984,15 @@ Mintga associà è obligà da parter cun ils auters associads in gudogn che appa
 
 #### Art. 536
 
-Nagins dals associads na dastgan far fatschentas per lur avantatg persunal che impedeschan u che pregiuditgeschan l’intent da la societad.
+Nagins dals societaris na dastgan far fatschentas per lur avantatg persunal che impedeschan u che pregiuditgeschan l’intent da la societad.
 
-### 2. Expensas, obligaziuns e prestaziuns dals associads
+### 2. Expensas, obligaziuns e prestaziuns dals societaris
 
 #### Art. 537
 
-<sup>1</sup> Sch’in dals associads ha fatg expensas u sch’el ha surpiglià obligaziuns per fatschentas da la societad e sch’el ha chaschunà perditas che stattan en in connex direct cun sia gestiun u sch’el ha chaschunà ristgas che n’èn betg separablas da la gestiun, ston ils auters associads star buns per el.
+<sup>1</sup> Sch’in dals societaris ha fatg expensas u sch’el ha surpiglià obligaziuns per fatschentas da la societad e sch’el ha chaschunà perditas che stattan en in connex direct cun sia gestiun u sch’el ha chaschunà ristgas che n’èn betg separablas da la gestiun, ston ils auters societaris star buns per el.
 
-<sup>2</sup> Per daners che l’associà dat sco anticipaziun po el pretender tschains a partir dal di ch’el ha dà quels.
+<sup>2</sup> Per daners ch’il societari dat sco anticipaziun po el pretender tschains a partir dal di ch’el ha dà quels.
 
 <sup>3</sup> El n’ha percunter betg il dretg da pretender ina bunificaziun per sias stentas persunalas.
 
@@ -7978,69 +8000,69 @@ Nagins dals associads na dastgan far fatschentas per lur avantatg persunal che i
 
 #### Art. 538
 
-<sup>1</sup> Mintga associà è obligà d’applitgar quella premura e quel quità per las fatschentas da la societad ch’el impunda per sias atgnas fatschentas.
+<sup>1</sup> Mintga societari è obligà d’applitgar quella premura e quel quità per las fatschentas da la societad ch’el impunda per sias atgnas fatschentas.
 
-<sup>2</sup> El stat bun vers ils ulteriurs associads per il donn ch’el ha chaschunà per sia culpa, senza pudair cumpensar quel cun ils avantatgs ch’el ha procurà a la societad cun autras chaschuns.
+<sup>2</sup> El stat bun vers ils ulteriurs societaris per il donn ch’el ha chaschunà per sia culpa, senza pudair cumpensar quel cun ils avantatgs ch’el ha procurà a la societad cun autras chaschuns.
 
-<sup>3</sup> L’associà che ademplescha la gestiun e che survegn ina bunificaziun per sia lavur stat bun tenor las disposiziuns davart il mandat.
+<sup>3</sup> Il societari che ademplescha la gestiun e che survegn ina bunificaziun per sia lavur stat bun tenor las disposiziuns davart il mandat.
 
 ### VI. Retratga e restricziun da la gestiun
 
 #### Art. 539
 
-<sup>1</sup> La cumpetenza d’ademplir la gestiun ch’è vegnida surdada ad in associà en il contract da societad na dastga ni vegnir retratga ni vegnir restrenschida dals auters associads senza motivs impurtants.
+<sup>1</sup> La cumpetenza d’ademplir la gestiun ch’è vegnida surdada ad in societari en il contract da societad na dastga ni vegnir retratga ni vegnir restrenschida dals auters societaris senza motivs impurtants.
 
-<sup>2</sup> Sch’igl èn avant maun motivs impurtants, po la cumpetenza d’ademplir la gestiun vegnir retratga da mintgin dals associads er alura, sch’il contract da societad dispona insatge auter.
+<sup>2</sup> Sch’igl èn avant maun motivs impurtants, po la cumpetenza d’ademplir la gestiun vegnir retratga da mintgin dals societaris er alura, sch’il contract da societad dispona insatge auter.
 
 <sup>3</sup> In motiv è en spezial avant maun, sche quel che ademplescha la gestiun è sa fatg culpabel d’ina greva violaziun da sias obligaziuns u sch’el ha pers l’abilitad d’ademplir la gestiun bain ed en urden.
 
-### VII. Associads ch’èn autorisads e che n’èn betg autorisads d’ademplir la gestiun
+### VII. Societaris ch’èn autorisads e che n’èn betg autorisads d’ademplir la gestiun
 
 ### 1. En general
 
 #### Art. 540
 
-<sup>1</sup> Sch’i n’è betg previs insatge auter en las disposiziuns da quest titel u en il contract da societad, vegnan applitgadas las prescripziuns davart il mandat per la relaziun tranter l’associà che ademplescha la gestiun ed ils auters associads.
+<sup>1</sup> Sch’i n’è betg previs insatge auter en las disposiziuns da quest titel u en il contract da societad, vegnan applitgadas las prescripziuns davart il mandat per la relaziun tranter il societari che ademplescha la gestiun ed ils auters societaris.
 
-<sup>2</sup> Sch’in associà che n’ha betg il dretg d’ademplir la gestiun, procura fatschentas da la societad u sch’in associà che ha il dretg d’ademplir la gestiun surpassa sias cumpetenzas, vegnan applitgadas las disposiziuns davart la gestiun senza mandat.
+<sup>2</sup> Sch’in societari che n’ha betg il dretg d’ademplir la gestiun, procura fatschentas da la societad u sch’in societari che ha il dretg d’ademplir la gestiun surpassa sias cumpetenzas, vegnan applitgadas las disposiziuns davart la gestiun senza mandat.
 
 ### 2. Invista da las fatschentas da la societad
 
 #### Art. 541
 
-<sup>1</sup> L’associà ch’è exclus da la gestiun ha il dretg da s’infurmar persunalmain davart l’andament da las fatschentas da la societad, da prender invista dals cudeschs da fatschenta e dals palpiris da la societad e da far per sasez ina survista davart il stadi da la facultad cuminaivla.
+<sup>1</sup> Il societari ch’è exclus da la gestiun ha il dretg da s’infurmar persunalmain davart l’andament da las fatschentas da la societad, da prender invista dals cudeschs da fatschenta e dals palpiris da la societad e da far per sasez ina survista davart il stadi da la facultad cuminaivla.
 
 <sup>2</sup> Ina cunvegna cuntraria è nunvalaivla.
 
-### VIII. Admissiun da novs associads e participaziun da terzas persunas
+### VIII. Admissiun da novs societaris e participaziun da terzas persunas
 
 #### Art. 542
 
-<sup>1</sup> In associà na po betg admetter ina terza persuna en la societad senza il consentiment dals auters associads.
+<sup>1</sup> In societari na po betg admetter ina terza persuna en la societad senza il consentiment dals auters societaris.
 
-<sup>2</sup> Sch’in associà lascha sa participar ina terza persuna vi da sia part u sch’el ceda a quella sia part, na daventa questa terza persuna betg associada cun ils auters e na survegn en spezial betg il dretg da prender invista da las fatschentas da la societad.
+<sup>2</sup> Sch’in societari lascha sa participar ina terza persuna vi da sia part u sch’el ceda a quella sia part, na daventa questa terza persuna betg associada cun ils auters e na survegn en spezial betg il dretg da prender invista da las fatschentas da la societad.
 
-### C. Relaziun dals associads vers terzas persunas
+### C. Relaziun dals societaris vers terzas persunas
 
 ### I. Represchentanza
 
 #### Art. 543
 
-<sup>1</sup> Sch’in associà fa fatschentas cun ina terza persuna sin quint da la fatschenta, dentant en ses agen num, daventa el sulet debitur u creditur vers questa terza persuna.
+<sup>1</sup> Sch’in societari fa fatschentas cun ina terza persuna sin quint da la fatschenta, dentant en ses agen num, daventa el sulet debitur u creditur vers questa terza persuna.
 
-<sup>2</sup> Sch’in associà fa fatschentas cun ina terza persuna en num da la societad u en num da tut ils associads, daventan ils ulteriurs associads debiturs u crediturs vers questa terza persuna mo uschenavant che quai correspunda a las disposiziuns da la represchentanza.
+<sup>2</sup> Sch’in societari fa fatschentas cun ina terza persuna en num da la societad u en num da tut ils societaris, daventan ils ulteriurs societaris debiturs u crediturs vers questa terza persuna mo uschenavant che quai correspunda a las disposiziuns da la represchentanza.
 
-<sup>3</sup> In’autorisaziun dal singul associà, da represchentar la societad u tut ils associads vers terzas persunas vegn supponida, uschespert che la gestiun è vegnida confidada ad el.
+<sup>3</sup> In’autorisaziun dal singul societari, da represchentar la societad u tut ils societaris vers terzas persunas vegn supponida, uschespert che la gestiun è vegnida confidada ad el.
 
 ### II. Effect da la represchentanza
 
 #### Art. 544
 
-<sup>1</sup> Chaussas, dretgs reals u pretensiuns ch’èn vegnids transferids a la societad u ch’èn vegnids acquistads per la societad, tutgan cuminaivlamain als associads a norma dal contract da societad.
+<sup>1</sup> Chaussas, dretgs reals u pretensiuns ch’èn vegnids transferids a la societad u ch’èn vegnids acquistads per la societad, tutgan cuminaivlamain als societaris a norma dal contract da societad.
 
-<sup>2</sup> Per lur satisfacziun pon ils crediturs d’in associà far valair lur dretgs mo per la part da liquidaziun da lur debitur, nun ch’il contract da societad disponia autramain.
+<sup>2</sup> Per lur satisfacziun pon ils crediturs d’in societari far valair lur dretgs mo per la part da liquidaziun da lur debitur, nun ch’il contract da societad disponia autramain.
 
-<sup>3</sup> Sch’ils associads han surpiglià cuminaivlamain u tras represchentanza obligaziuns vers ina terza persuna, stattan els buns solidaricamain vers quella, cun la resalva d’ina cunvegna cuntraria.
+<sup>3</sup> Sch’ils societaris han surpiglià cuminaivlamain u tras represchentanza obligaziuns vers ina terza persuna, stattan els buns solidaricamain vers quella, cun la resalva d’ina cunvegna cuntraria.
 
 ### D. Finiziun da la societad
 
@@ -8055,11 +8077,11 @@ Nagins dals associads na dastgan far fatschentas per lur avantatg persunal che i
 La societad vegn dissolvida:
 
 - 1\. sche la finamira, per la quala ella è vegnida fundada, è cuntanschida u sch’igl è daventà nunpussaivel da la cuntanscher;
-- 2\. sch’in associà mora e sch’i n’è betg vegnì concludì gia ordavant per quest cas, che la societad duaja vegnir cuntinuada cun ils ertavels;
-- 3\.[^545-1] sche la part da liquidaziun d’in associà è l’object d’ina utilisaziun sfurzada u sch’in associà fa concurs e vegn mess sut curatella cumplessiva;
+- 2\. sch’in societari mora e sch’i n’è betg vegnì concludì gia ordavant per quest cas, che la societad duaja vegnir cuntinuada cun ils ertavels;
+- 3\.[^545-1] sche la part da liquidaziun d’in societari è l’object d’ina utilisaziun sfurzada u sch’in societari fa concurs e vegn mess sut curatella cumplessiva;
 - 4\. tras ina cunvegna reciproca;
 - 5\. sch’il temp è scadì, per il qual la societad è vegnida fundada;
-- 6\. tras la disditga d’in dals associads, sch’ina tala disditga è resalvada en il contract da societad u sche la societad è vegnida fundada per ina durada illimitada u per il temp da vita d’in dals associads;
+- 6\. tras la disditga d’in dals societaris, sch’ina tala disditga è resalvada en il contract da societad u sche la societad è vegnida fundada per ina durada illimitada u per il temp da vita d’in dals societaris;
 - 7\. tras la sentenzia da la dretgira[^545-2], sche la societad duai vegnir dissolvida per in motiv impurtant.
 
 <sup>2</sup> Per motivs impurtants po la dissoluziun da la societad vegnir pretendida avant che la durada dal contract è scadida u, sch’il contract è vegnì fatg per ina durada illimitada, senza ina disditga precedenta.
@@ -8071,7 +8093,7 @@ La societad vegn dissolvida:
 
 #### Art. 546
 
-<sup>1</sup> Sche la societad è vegnida fundada per ina durada illimitada u per il temp da vita d’in dals associads, po mintga associà disdir il contract, observond in termin da disditga da 6 mais.
+<sup>1</sup> Sche la societad è vegnida fundada per ina durada illimitada u per il temp da vita d’in dals societaris, po mintga societari disdir il contract, observond in termin da disditga da 6 mais.
 
 <sup>2</sup> La disditga duai dentant vegnir fatga en buna fai e betg da temp maladattà e dastga vegnir fatga mo per la fin d’in onn da gestiun per il cas ch’igl èn previs rendaquints annuals.
 
@@ -8081,11 +8103,11 @@ La societad vegn dissolvida:
 
 #### Art. 547
 
-<sup>1</sup> Sche la societad vegn dissolvida en autra moda che tras disditga, exista vinavant la cumpetenza d’in associà d’ademplir la gestiun en sia favur, fin ch’el vegn a savair da la dissoluziun u ch’el stuess vegnir a savair da tala cun far l’attenziun duaivla.
+<sup>1</sup> Sche la societad vegn dissolvida en autra moda che tras disditga, exista vinavant la cumpetenza d’in societari d’ademplir la gestiun en sia favur, fin ch’el vegn a savair da la dissoluziun u ch’el stuess vegnir a savair da tala cun far l’attenziun duaivla.
 
-<sup>2</sup> Sche la societad vegn dissolvida tras la mort d’in associà, ha l’ertavel da quel d’annunziar immediatamain il mortori als auters associads e da cuntinuar en buna fai cun la gestiun da las fatschentas che ses testader sto far, fin ch’ins ha prendì las mesiras necessarias.
+<sup>2</sup> Sche la societad vegn dissolvida tras la mort d’in societari, ha l’ertavel da quel d’annunziar immediatamain il mortori als auters societaris e da cuntinuar en buna fai cun la gestiun da las fatschentas che ses testader sto far, fin ch’ins ha prendì las mesiras necessarias.
 
-<sup>3</sup> Ils auters associads han perentant da cuntinuar en medema moda e maniera cun la gestiun da las fatschentas.
+<sup>3</sup> Ils auters societaris han perentant da cuntinuar en medema moda e maniera cun la gestiun da las fatschentas.
 
 ### III. Liquidaziun
 
@@ -8093,7 +8115,7 @@ La societad vegn dissolvida:
 
 #### Art. 548
 
-<sup>1</sup> En cas da la liquidaziun, ch’ils associads han da far suenter che la societad è vegnida dissolvida, na vegnan las chaussas ch’in associà a appurtà sco proprietad en la societad betg restituidas ad el.
+<sup>1</sup> En cas da la liquidaziun, ch’ils societaris han da far suenter che la societad è vegnida dissolvida, na vegnan las chaussas ch’in societari a appurtà sco proprietad en la societad betg restituidas ad el.
 
 <sup>2</sup> El ha dentant il dretg sin il pretsch, per il qual ils apports èn vegnids surpigliads.
 
@@ -8103,17 +8125,17 @@ La societad vegn dissolvida:
 
 #### Art. 549
 
-<sup>1</sup> Sch’i resta in surpli suenter la deducziun dals debits cuminaivels, suenter la cumpensaziun da las expensas e da las anticipaziuns als singuls associads e suenter la restituziun dals imports da facultad, sto quest surpli vegnir repartì tranter ils associads sco gudogn.
+<sup>1</sup> Sch’i resta in surpli suenter la deducziun dals debits cuminaivels, suenter la cumpensaziun da las expensas e da las anticipaziuns als singuls societaris e suenter la restituziun dals imports da facultad, sto quest surpli vegnir repartì tranter ils societaris sco gudogn.
 
-<sup>2</sup> Sche la facultad cuminaivla na basta betg – suenter ch’ils debits èn vegnids pajads e suenter che las expensas e che las anticipaziuns èn vegnidas cumpensadas – per restituir ils imports da facultad ch’èn vegnids appurtads, han ils associads da purtar questas mancanzas sco deficit.
+<sup>2</sup> Sche la facultad cuminaivla na basta betg – suenter ch’ils debits èn vegnids pajads e suenter che las expensas e che las anticipaziuns èn vegnidas cumpensadas – per restituir ils imports da facultad ch’èn vegnids appurtads, han ils societaris da purtar questas mancanzas sco deficit.
 
 ### 3. Proceder tar la liquidaziun
 
 #### Art. 550
 
-<sup>1</sup> La liquidaziun che suonda la dissoluziun da la societad sto vegnir fatga da tut ils associads en moda cuminaivla, inclusiv quels ch’èn stads exclus da la gestiun.
+<sup>1</sup> La liquidaziun che suonda la dissoluziun da la societad sto vegnir fatga da tut ils societaris en moda cuminaivla, inclusiv quels ch’èn stads exclus da la gestiun.
 
-<sup>2</sup> Sch’il contract da societad ha però pertutgà mo tschertas singulas fatschentas ch’in dals associads ha gì da procurar en ses agen num sin quint da la societad, ha quel da liquidar sulet questas fatschentas er suenter che la societad è vegnida dissolvida, ed ha da render quint als ulteriurs associads.
+<sup>2</sup> Sch’il contract da societad ha però pertutgà mo tschertas singulas fatschentas ch’in dals societaris ha gì da procurar en ses agen num sin quint da la societad, ha quel da liquidar sulet questas fatschentas er suenter che la societad è vegnida dissolvida, ed ha da render quint als ulteriurs societaris.
 
 ### IV. Responsabladad vers terzas persunas
 
@@ -8121,7 +8143,7 @@ La societad vegn dissolvida:
 
 La dissoluziun da la societad na mida nagut vi da las obligaziuns ch’èn vegnidas surpigliadas vers terzas persunas.
 
-## Terza partiziun:**** Las societads commerzialas e l’associaziun
+## Terza partiziun: Las societads commerzialas e l’associaziun
 
 [^part3-1]
 
@@ -8137,7 +8159,7 @@ La dissoluziun da la societad na mida nagut vi da las obligaziuns ch’èn vegni
 
 <sup>1</sup> La societad collectiva è ina societad, en la quala duas u pliras persunas natiralas s’uneschan sut ina firma communabla cun l’intent da far commerzi, da manar ina fabrica u da manar in’autra interpresa en furma commerziala, e quai senza restrenscher lur responsabladad vers ils crediturs da la societad.
 
-<sup>2</sup> Ils associads ston laschar inscriver la societad en il register da commerzi.
+<sup>2</sup> Ils societaris ston laschar inscriver la societad en il register da commerzi.
 
 ### B. Societad betg commerziala
 
@@ -8161,23 +8183,23 @@ La societad sto vegnir inscritta en il register da commerzi da quel lieu, nua ch
 
 #### Art. 555
 
-En il register da commerzi pon vegnir inscrittas mo talas disposiziuns davart la represchentanza da la societad, las qualas restrenschan la represchentanza ad in u a singuls associads ubain ad in associà en cuminanza cun auters associads u en cuminanza cun procurists.
+En il register da commerzi pon vegnir inscrittas mo talas disposiziuns davart la represchentanza da la societad, las qualas restrenschan la represchentanza ad in u a singuls societaris ubain ad in societari en cuminanza cun auters societaris u en cuminanza cun procurists.
 
 ### III. Pretensiuns formalas
 
 #### Art. 556
 
-<sup>1</sup> L’annunzia dals fatgs che ston vegnir inscrits u l’annunzia da lur midada sto vegnir suttascritta persunalmain da tut ils associads tar l’uffizi dal register da commerzi u vegnir inoltrada en scrit cun suttascripziuns legalisadas.
+<sup>1</sup> L’annunzia dals fatgs che ston vegnir inscrits u l’annunzia da lur midada sto vegnir suttascritta persunalmain da tut ils societaris tar l’uffizi dal register da commerzi u vegnir inoltrada en scrit cun suttascripziuns legalisadas.
 
-<sup>2</sup> Ils associads che duain represchentar la societad han da dar persunalmain la suttascripziun da la firma e lur atgna suttascripziun tar l’uffizi dal register da commerzi u d’inoltrar las suttascripziuns en furma legalisada.
+<sup>2</sup> Ils societaris che duain represchentar la societad han da dar persunalmain la suttascripziun da la firma e lur atgna suttascripziun tar l’uffizi dal register da commerzi u d’inoltrar las suttascripziuns en furma legalisada.
 
-### Segund chapitel: Relaziun dals associads tranter sai
+### Segund chapitel: Relaziun dals societaris tranter sai
 
 ### A. Libertad contractuala, renviament a la societad simpla
 
 #### Art. 557
 
-<sup>1</sup> La relaziun giuridica dals associads tranter sai è determinada en emprima lingia tras il contract da societad.
+<sup>1</sup> La relaziun giuridica dals societaris tranter sai è determinada en emprima lingia tras il contract da societad.
 
 <sup>2</sup> Sch’il contract na dispona betg autramain, vegnan applitgadas las prescripziuns davart la societad simpla, cun resalva da las divergenzas che resultan tras las suandantas disposiziuns.
 
@@ -8189,11 +8211,11 @@ En il register da commerzi pon vegnir inscrittas mo talas disposiziuns davart la
 
 #### Art. 558
 
-<sup>1</sup> Per mintga onn da gestiun sto – sin basa dal quint annual – vegnir eruì il gudogn u la perdita e vegnir calculada la quota da mintga associà.[^558-1]
+<sup>1</sup> Per mintga onn da gestiun sto – sin basa dal quint annual – vegnir eruì il gudogn u la perdita e vegnir calculada la quota da mintga societari.[^558-1]
 
-<sup>2</sup> A mintga associà dastgan vegnir bunifitgads ils tschains per sia quota da chapital tenor il contract, er sche questa quota è sa reducida tras la perdita da l’onn da gestiun. Sch’il contract na dispona betg autramain, importa il tschains 4 pertschient.
+<sup>2</sup> A mintga societari dastgan vegnir bunifitgads ils tschains per sia quota da chapital tenor il contract, er sche questa quota è sa reducida tras la perdita da l’onn da gestiun. Sch’il contract na dispona betg autramain, importa il tschains 4 pertschient.
 
-<sup>3</sup> Eruind il gudogn e la perdita vegn in onurari, ch’è fixà contractualmain per la lavur d’in associà, tractà sco debit da la societad.
+<sup>3</sup> Eruind il gudogn e la perdita vegn in onurari, ch’è fixà contractualmain per la lavur d’in societari, tractà sco debit da la societad.
 
 [^558-1]: Versiun tenor la cifra I 3 da la LF dals 23 da dec. 2011 (dretg da rendaquint), en vigur dapi il 1. da schan. 2013 ([AS 2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810); [BBl 2008 1589](https://fedlex.data.admin.ch/eli/fga/2008/416)).
 
@@ -8201,11 +8223,11 @@ En il register da commerzi pon vegnir inscrittas mo talas disposiziuns davart la
 
 #### Art. 559
 
-<sup>1</sup> Mintga associà ha il dretg da prender or da la cassa da la societad il gudogn, ils tschains ed ils onuraris da l’onn da gestiun scadì.
+<sup>1</sup> Mintga societari ha il dretg da prender or da la cassa da la societad il gudogn, ils tschains ed ils onuraris da l’onn da gestiun scadì.
 
 <sup>2</sup> Sch’il contract prevesa quai, dastgan ils tschains ed ils onuraris vegnir retratgs gia durant l’onn da gestiun, ils gudogns percunter pir suenter l’approvaziun dal rapport da gestiun.[^559-1]
 
-<sup>3</sup> Ils gudogns, ils tschains ed ils onuraris ch’in associà na retira betg, vegnan agiuntads a sia quota da chapital suenter l’approvaziun dal rapport da gestiun, nun ch’in auter associà fetschia objecziuns cunter quai.[^559-2]
+<sup>3</sup> Ils gudogns, ils tschains ed ils onuraris ch’in societari na retira betg, vegnan agiuntads a sia quota da chapital suenter l’approvaziun dal rapport da gestiun, nun ch’in auter societari fetschia objecziuns cunter quai.[^559-2]
 
 [^559-1]: Versiun tenor la cifra I 3 da la LF dals 23 da dec. 2011 (dretg da rendaquint), en vigur dapi il 1. da schan. 2013 ([AS 2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810); [BBl 2008 1589](https://fedlex.data.admin.ch/eli/fga/2008/416)).
 [^559-2]: Versiun tenor la cifra I 3 da la LF dals 23 da dec. 2011 (dretg da rendaquint), en vigur dapi il 1. da schan. 2013 ([AS 2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810); [BBl 2008 1589](https://fedlex.data.admin.ch/eli/fga/2008/416)).
@@ -8214,15 +8236,15 @@ En il register da commerzi pon vegnir inscrittas mo talas disposiziuns davart la
 
 #### Art. 560
 
-<sup>1</sup> Sche la quota da chapital è vegnida reducida tras perditas, mantegna l’associà ses dretg da retrair ils onuraris ed ils tschains che ston vegnir calculads sin basa da la quota da chapital reducida; ina quota dal gudogn dastga dentant pir puspè vegnir pajada, cur che la reducziun ch’è resultada tras la perdita, è gulivada.
+<sup>1</sup> Sche la quota da chapital è vegnida reducida tras perditas, mantegna il societari ses dretg da retrair ils onuraris ed ils tschains che ston vegnir calculads sin basa da la quota da chapital reducida; ina quota dal gudogn dastga dentant pir puspè vegnir pajada, cur che la reducziun ch’è resultada tras la perdita, è gulivada.
 
-<sup>2</sup> Ils associads n’èn betg obligads da pajar apports pli auts che quai ch’il contract prevesa, ubain da cumplettar lur apports, sche quels èn sa reducids tras la perdita.
+<sup>2</sup> Ils societaris n’èn betg obligads da pajar apports pli auts che quai ch’il contract prevesa, ubain da cumplettar lur apports, sche quels èn sa reducids tras la perdita.
 
 ### E. Scumond da concurrenza
 
 #### Art. 561
 
-Senza il consentiment dals ulteriurs associads na dastga in associà – en la branscha da la societad – ni far fatschentas per agen quint u per quint da terzas persunas ni sa participar ad in’autra interpresa sco associà cun responsabladad illimitada, sco commanditari u sco commember d’ina societad cun responsabladad limitada.
+Senza il consentiment dals ulteriurs societaris na dastga in societari – en la branscha da la societad – ni far fatschentas per agen quint u per quint da terzas persunas ni sa participar ad in’autra interpresa sco societari cun responsabladad illimitada, sco commanditari u sco commember d’ina societad cun responsabladad limitada.
 
 ### Terz chapitel: Relaziun da la societad vers terzas persunas
 
@@ -8238,13 +8260,13 @@ Sut ses num po la societad acquistar dretgs e surpigliar obligaziuns, purtar pla
 
 #### Art. 563
 
-Sch’il register da commerzi na cuntegna naginas inscripziuns cuntrarias, han terzas persunas da buna fai il dretg da supponer che mintga singul associà saja autorisà da represchentar la societad.
+Sch’il register da commerzi na cuntegna naginas inscripziuns cuntrarias, han terzas persunas da buna fai il dretg da supponer che mintga singul societari saja autorisà da represchentar la societad.
 
 ### II. Extensiun
 
 #### Art. 564
 
-<sup>1</sup> Ils associads ch’èn autorisads da represchentar la societad han il dretg da far en num da la societad tut ils acts giuridics che pon vegnir cumpigliads da l’intent da la societad.
+<sup>1</sup> Ils societaris ch’èn autorisads da represchentar la societad han il dretg da far en num da la societad tut ils acts giuridics che pon vegnir cumpigliads da l’intent da la societad.
 
 <sup>2</sup> Clausulas che limitassan l’extensiun da l’autorisaziun da represchentanza n’han nagin effect vers terzas persunas da buna fai.
 
@@ -8252,71 +8274,71 @@ Sch’il register da commerzi na cuntegna naginas inscripziuns cuntrarias, han t
 
 #### Art. 565
 
-<sup>1</sup> L’autorisaziun da represchentanza po vegnir retratga d’in associà per motivs impurtants.
+<sup>1</sup> L’autorisaziun da represchentanza po vegnir retratga d’in societari per motivs impurtants.
 
-<sup>2</sup> Sin dumonda d’in associà che fa valair vardaivlamain tals motivs po la dretgira retrair provisoricamain l’autorisaziun da represchentanza, sch’in privel smanatscha. Questa disposiziun giudiziala sto vegnir inscritta en il register da commerzi.
+<sup>2</sup> Sin dumonda d’in societari che fa valair vardaivlamain tals motivs po la dretgira retrair provisoricamain l’autorisaziun da represchentanza, sch’in privel smanatscha. Questa disposiziun giudiziala sto vegnir inscritta en il register da commerzi.
 
 ### IV. Procura e mandat commerzial
 
 #### Art. 566
 
-Igl è pussaivel da dar la procura e da conceder in mandat commerzial per manar l’entira interpresa mo cun il consentiment da tut ils associads ch’èn autorisads da represchentar la societad, ma mintgin dad els po revocar efficaziamain la procura u in mandat commerzial visavi terzas persunas.
+Igl è pussaivel da dar la procura e da conceder in mandat commerzial per manar l’entira interpresa mo cun il consentiment da tut ils societaris ch’èn autorisads da represchentar la societad, ma mintgin dad els po revocar efficaziamain la procura u in mandat commerzial visavi terzas persunas.
 
 ### V. Acts giuridics e responsabladad per acts illegals
 
 #### Art. 567
 
-<sup>1</sup> La societad acquista dretgs e surpiglia obligaziuns tras ils acts giuridics che vegnan concludids en ses num tras in associà ch’è autorisà da represchentar la societad.
+<sup>1</sup> La societad acquista dretgs e surpiglia obligaziuns tras ils acts giuridics che vegnan concludids en ses num tras in societari ch’è autorisà da represchentar la societad.
 
 <sup>2</sup> I basta che l’intenziun d’agir per la societad resultia tras las circumstanzas.
 
-<sup>3</sup> La societad è responsabla per il donn che resulta tras acts illegals ch’in associà commetta, exequind sias fatschentas.
+<sup>3</sup> La societad è responsabla per il donn che resulta tras acts illegals ch’in societari commetta, exequind sias fatschentas.
 
 ### C. Posiziun dals crediturs da la societad
 
-### I. Responsabladad dals associads
+### I. Responsabladad dals societaris
 
 #### Art. 568
 
-<sup>1</sup> Ils associads stattan buns solidaricamain e cun tut lur facultad per tut las obligaziuns da la societad.
+<sup>1</sup> Ils societaris stattan buns solidaricamain e cun tut lur facultad per tut las obligaziuns da la societad.
 
-<sup>2</sup> Ina cunvegna cuntraria tranter ils associads n’ha nagin effect vers terzas persunas.
+<sup>2</sup> Ina cunvegna cuntraria tranter ils societaris n’ha nagin effect vers terzas persunas.
 
-<sup>3</sup> Il singul associà po dentant, er suenter sia extrada da la societad, vegnir accusà persunalmain per debits da la societad pir, sch’el sez ha fatg concurs, sche la societad è vegnida dissolvida u sche la societad è vegnida stumada senza success. La responsabladad da l’associà sin basa d’ina garanzia solidarica ch’è vegnida surpigliada a favur da la societad resta resalvada.
+<sup>3</sup> Il singul societari po dentant, er suenter sia extrada da la societad, vegnir accusà persunalmain per debits da la societad pir, sch’el sez ha fatg concurs, sche la societad è vegnida dissolvida u sche la societad è vegnida stumada senza success. La responsabladad dal societari sin basa d’ina garanzia solidarica ch’è vegnida surpigliada a favur da la societad resta resalvada.
 
-### II. Responsabladad da novs associads
+### II. Responsabladad da novs societaris
 
 #### Art. 569
 
-<sup>1</sup> Tgi che sa participescha ad ina societad collectiva, è responsabel solidaricamain cun ils ulteriurs associads sco er cun sia entira facultad er per las obligaziuns da la societad ch’existivan gia avant sia participaziun.
+<sup>1</sup> Tgi che sa participescha ad ina societad collectiva, è responsabel solidaricamain cun ils ulteriurs societaris sco er cun sia entira facultad er per las obligaziuns da la societad ch’existivan gia avant sia participaziun.
 
-<sup>2</sup> Ina cunvegna cuntraria tranter ils associads n’ha nagin effect vers terzas persunas.
+<sup>2</sup> Ina cunvegna cuntraria tranter ils societaris n’ha nagin effect vers terzas persunas.
 
 ### III. Concurs da la societad
 
 #### Art. 570
 
-<sup>1</sup> Ils crediturs da la societad han il dretg da vegnir cuntentads or da la facultad da la societad, cun exclusiun dals crediturs privats dals singuls associads.
+<sup>1</sup> Ils crediturs da la societad han il dretg da vegnir cuntentads or da la facultad da la societad, cun exclusiun dals crediturs privats dals singuls societaris.
 
-<sup>2</sup> Ils associads na pon betg sa participar al concurs sco crediturs per far valair lur apports da chapital e lur tschains currents, bain dentant per far valair lur pretensiuns sin ils tschains scadids, sin ils onuraris u sin las expensas fatgas en l’interess da la societad.
+<sup>2</sup> Ils societaris na pon betg sa participar al concurs sco crediturs per far valair lur apports da chapital e lur tschains currents, bain dentant per far valair lur pretensiuns sin ils tschains scadids, sin ils onuraris u sin las expensas fatgas en l’interess da la societad.
 
-### IV. Concurs da la societad e dals associads
+### IV. Concurs da la societad e dals societaris
 
 #### Art. 571
 
-<sup>1</sup> Il concurs da la societad n’ha chaschuna betg il concurs dals singuls associads.
+<sup>1</sup> Il concurs da la societad n’ha chaschuna betg il concurs dals singuls societaris.
 
-<sup>2</sup> Medemamain na chaschuna il concurs d’in associà betg il concurs da la societad.
+<sup>2</sup> Medemamain na chaschuna il concurs d’in societari betg il concurs da la societad.
 
-<sup>3</sup> En cas d’in concurs dal singul associà sa drizzan ils dretgs dals crediturs da la societad tenor las prescripziuns da la Lescha federala dals 11 d’avrigl 1889[^571-1] davart scussiun e concurs.
+<sup>3</sup> En cas d’in concurs dal singul societari sa drizzan ils dretgs dals crediturs da la societad tenor las prescripziuns da la Lescha federala dals 11 d’avrigl 1889[^571-1] davart scussiun e concurs.
 
 [^571-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
 
-### D. Posiziun dal creditur privat d’in associà
+### D. Posiziun dal creditur privat d’in societari
 
 #### Art. 572
 
-<sup>1</sup> Ils crediturs privats d’ina associà n’han betg il dretg da recurrer a la facultad da la societad per survegnir pajaments u garanzias.
+<sup>1</sup> Ils crediturs privats d’ina societari n’han betg il dretg da recurrer a la facultad da la societad per survegnir pajaments u garanzias.
 
 <sup>2</sup> En l’execuziun sfurzada han els mo il dretg sin ils tschains, sin ils onuraris, sin il gudogn e sin las quotas da liquidaziun che tutgan al debitur sin basa dal contract da societad.
 
@@ -8324,13 +8346,13 @@ Igl è pussaivel da dar la procura e da conceder in mandat commerzial per manar 
 
 #### Art. 573
 
-<sup>1</sup> Il debitur da la societad na po betg cumpensar ina pretensiun da la societad cun ina pretensiun ch’el ha cunter in singul associà.
+<sup>1</sup> Il debitur da la societad na po betg cumpensar ina pretensiun da la societad cun ina pretensiun ch’el ha cunter in singul societari.
 
-<sup>2</sup> Medemamain na po in associà betg cumpensar ina pretensiun da ses creditur cun ina pretensiun che ses creditur debitescha a la societad.
+<sup>2</sup> Medemamain na po in societari betg cumpensar ina pretensiun da ses creditur cun ina pretensiun che ses creditur debitescha a la societad.
 
-<sup>3</sup> Sch’in creditur da la societad è percunter a medem temp debitur privat d’in associà, è admessa la cumpensaziun tant a favur dal creditur da la societad sco er a favur da l’associà, uschespert che l’associà po vegnir accusà persunalmain per in debit da la societad.
+<sup>3</sup> Sch’in creditur da la societad è percunter a medem temp debitur privat d’in societari, è admessa la cumpensaziun tant a favur dal creditur da la societad sco er a favur dal societari, uschespert ch’il societari po vegnir accusà persunalmain per in debit da la societad.
 
-### Quart chapitel: Dissoluziun da la societad ed extrada dals associads
+### Quart chapitel: Dissoluziun da la societad ed extrada dals societaris
 
 ### A. En general
 
@@ -8338,61 +8360,61 @@ Igl è pussaivel da dar la procura e da conceder in mandat commerzial per manar 
 
 <sup>1</sup> La societad vegn dissolvida tras la decleraziun dal concurs. Per la dissoluziun valan dal rest las disposiziuns davart la societad simpla, nun ch’i resultia insatge auter tras las prescripziuns da quest titel.
 
-<sup>2</sup> Ils associads han d’annunziar la dissoluziun a l’uffizi dal register da commerzi, cun excepziun dal cas da concurs.
+<sup>2</sup> Ils societaris han d’annunziar la dissoluziun a l’uffizi dal register da commerzi, cun excepziun dal cas da concurs.
 
 <sup>3</sup> Sch’igl è vegnì fatg in plant sin dissoluziun da la societad, po la dretgira ordinar mesiras preventivas sin dumonda d’ina partida.
 
-### B. Disditga tras ils crediturs d’in associà
+### B. Disditga tras ils crediturs d’in societari
 
 #### Art. 575
 
-<sup>1</sup> Sch’in associà ha fatg concurs, po l’administraziun dal concurs – observond in termin da disditga d’almain 6 mais – pretender che la societad vegnia dissolvida, e quai er sche la societad è vegnida fundada per in temp limità.
+<sup>1</sup> Sch’in societari ha fatg concurs, po l’administraziun dal concurs – observond in termin da disditga d’almain 6 mais – pretender che la societad vegnia dissolvida, e quai er sche la societad è vegnida fundada per in temp limità.
 
-<sup>2</sup> Il medem dretg ha il creditur d’in associà, sche quest creditur ha impegnà la quota da liquidaziun da l’associà.
+<sup>2</sup> Il medem dretg ha il creditur d’in societari, sche quest creditur ha impegnà la quota da liquidaziun dal societari.
 
-<sup>3</sup> Uschè ditg che la dissoluziun n’è betg inscritta en il register da commerzi, pon la societad u ils ulteriurs associads dentant evitar l’effect d’ina tala disditga cun cuntentar la massa da concurs u il creditur stumant.
+<sup>3</sup> Uschè ditg che la dissoluziun n’è betg inscritta en il register da commerzi, pon la societad u ils ulteriurs societaris dentant evitar l’effect d’ina tala disditga cun cuntentar la massa da concurs u il creditur stumant.
 
-### C. Extrada d’associads
+### C. Extrada da societaris
 
 ### I. Cunvegna
 
 #### Art. 576
 
-Sch’ils associads èn sa cunvegnids avant la dissoluziun da cuntinuar cun la societad malgrà l’extrada d’in u da plirs associads, finescha la societad mo per ils extrants; dal rest exista ella vinavant cun tut ils dretgs e cun tut las obligaziuns da fin ussa.
+Sch’ils societaris èn sa cunvegnids avant la dissoluziun da cuntinuar cun la societad malgrà l’extrada d’in u da plirs societaris, finescha la societad mo per ils extrants; dal rest exista ella vinavant cun tut ils dretgs e cun tut las obligaziuns da fin ussa.
 
 ### II. Exclusiun tras la dretgira
 
 #### Art. 577
 
-Sche la dissoluziun da la societad pudess vegnir pretendida per motivs impurtants e sche quests motivs sa chattan en emprima lingia en la persuna d’in u da plirs associads, po la dretgira pronunziar lur exclusiun, ordinond che lur quotas vi da la facultad da la societad vegnian pajadas or, premess che tut ils ulteriurs associads pretendian quai.
+Sche la dissoluziun da la societad pudess vegnir pretendida per motivs impurtants e sche quests motivs sa chattan en emprima lingia en la persuna d’in u da plirs societaris, po la dretgira pronunziar lur exclusiun, ordinond che lur quotas vi da la facultad da la societad vegnian pajadas or, premess che tut ils ulteriurs societaris pretendian quai.
 
-### III. Exclusiun tras ils ulteriurs associads
+### III. Exclusiun tras ils ulteriurs societaris
 
 #### Art. 578
 
-Sch’in associà fa concurs u sch’in da ses crediturs, che ha impegnà sia quota da liquidaziun, pretenda che la societad vegnia dissolvida, pon ils ulteriurs associads l’excluder da la societad e pajar or sia quota vi da la facultad da la societad.
+Sch’in societari fa concurs u sch’in da ses crediturs, che ha impegnà sia quota da liquidaziun, pretenda che la societad vegnia dissolvida, pon ils ulteriurs societaris l’excluder da la societad e pajar or sia quota vi da la facultad da la societad.
 
-### IV. En cas da dus associads
+### IV. En cas da dus societaris
 
 #### Art. 579
 
-<sup>1</sup> Sche la societad sa cumpona mo da dus associads, po quel che n’ha chaschunà nagins motivs per dissolver la societad, cuntinuar cun la fatschenta sut las medemas premissas e pajar or a l’auter associà sia quota vi da la facultad da la societad.
+<sup>1</sup> Sche la societad sa cumpona mo da dus societaris, po quel che n’ha chaschunà nagins motivs per dissolver la societad, cuntinuar cun la fatschenta sut las medemas premissas e pajar or a l’auter societari sia quota vi da la facultad da la societad.
 
-<sup>2</sup> La dretgira po disponer il medem, sche la dissoluziun vegn pretendida per in motiv che sa chatta en emprima lingia en la persuna dad in dals associads.
+<sup>2</sup> La dretgira po disponer il medem, sche la dissoluziun vegn pretendida per in motiv che sa chatta en emprima lingia en la persuna dad in dals societaris.
 
 ### V. Fixaziun da l’import
 
 #### Art. 580
 
-<sup>1</sup> L’import che tutga a l’associà extrant vegn fixà en ina cunvegna.
+<sup>1</sup> L’import che tutga al societari extrant vegn fixà en ina cunvegna.
 
-<sup>2</sup> Sch’il contract da societad na cuntegna naginas disposiziuns correspundentas e sche las partidas na vegnan betg da sa cunvegnir, fixescha la dretgira l’import, resguardond la situaziun finanziala da la societad il mument da l’extrada ed in’eventuala culpa da l’associà extrant.
+<sup>2</sup> Sch’il contract da societad na cuntegna naginas disposiziuns correspundentas e sche las partidas na vegnan betg da sa cunvegnir, fixescha la dretgira l’import, resguardond la situaziun finanziala da la societad il mument da l’extrada ed in’eventuala culpa dal societari extrant.
 
 ### VI. Inscripziun
 
 #### Art. 581
 
-L’extrada d’in associà sco er la cuntinuaziun da la fatschenta tras in associà ston vegnir inscrittas en il register da commerzi.
+L’extrada d’in societari sco er la cuntinuaziun da la fatschenta tras in societari ston vegnir inscrittas en il register da commerzi.
 
 ### D. Mancanzas en l’organisaziun da la societad
 
@@ -8410,15 +8432,15 @@ En cas da mancanzas en l’organisaziun prescritta per la societad collectiva è
 
 #### Art. 582
 
-Suenter la dissoluziun da la societad ha lieu sia liquidaziun tenor las suandantas prescripziuns, nun ch’ils associads hajan fixà in’autra regulaziun per far la repartiziun u nun che la societad haja fatg concurs.
+Suenter la dissoluziun da la societad ha lieu sia liquidaziun tenor las suandantas prescripziuns, nun ch’ils societaris hajan fixà in’autra regulaziun per far la repartiziun u nun che la societad haja fatg concurs.
 
 ### B. Liquidaturs
 
 #### Art. 583
 
-<sup>1</sup> La liquidaziun vegn fatga dals associads ch’èn autorisads da represchentar la societad, uschenavant ch’i n’existan nagins impediments en lur persuna ed uschenavant ch’ils associads na sa cunvegnan betg da designar auters liquidaturs.
+<sup>1</sup> La liquidaziun vegn fatga dals societaris ch’èn autorisads da represchentar la societad, uschenavant ch’i n’existan nagins impediments en lur persuna ed uschenavant ch’ils societaris na sa cunvegnan betg da designar auters liquidaturs.
 
-<sup>2</sup> Sin dumonda d’in associà e per motivs impurtants po la dretgira revocar ils liquidaturs e numnar auters.
+<sup>2</sup> Sin dumonda d’in societari e per motivs impurtants po la dretgira revocar ils liquidaturs e numnar auters.
 
 <sup>3</sup> Ils liquidaturs ston vegnir inscrits en il register da commerzi, e quai er sche lur designaziun na mida betg la represchentanza existenta da la societad.
 
@@ -8426,7 +8448,7 @@ Suenter la dissoluziun da la societad ha lieu sia liquidaziun tenor las suandant
 
 #### Art. 584
 
-Ils ertavels d’in associà han da designar in represchentant communabel per la liquidaziun.
+Ils ertavels d’in societari han da designar in represchentant communabel per la liquidaziun.
 
 ### D. Dretgs ed obligaziuns dals liquidaturs
 
@@ -8436,7 +8458,7 @@ Ils ertavels d’in associà han da designar in represchentant communabel per la
 
 <sup>2</sup> Els ston represchentar la societad en ils acts giuridics che tutgan tar la liquidaziun e pon far process, enclegientschas e contracts da cumpromiss e – sche quai è necessari per la liquidaziun – far novas fatschentas per la societad.
 
-<sup>3</sup> Sch’in associà s’oppona cunter ina vendita en bloc ch’è vegnida concludida dals liquidaturs, cunter la refusa d’ina tala vendita u cunter ina tscherta moda e maniera d’alienar bains immobigliars, decida la dretgira sin dumonda da quest associà.
+<sup>3</sup> Sch’in societari s’oppona cunter ina vendita en bloc ch’è vegnida concludida dals liquidaturs, cunter la refusa d’ina tala vendita u cunter ina tscherta moda e maniera d’alienar bains immobigliars, decida la dretgira sin dumonda da quest societari.
 
 <sup>4</sup> La societad è responsabla per il donn che resulta tras acts illegals ch’in liquidatur commetta, exequind sias fatschentas.
 
@@ -8444,7 +8466,7 @@ Ils ertavels d’in associà han da designar in represchentant communabel per la
 
 #### Art. 586
 
-<sup>1</sup> Ils daners e las valurs ch’i na dovra betg durant la liquidaziun vegnan repartids provisoricamain tranter ils associads a quint da la quota da liquidaziun definitiva.
+<sup>1</sup> Ils daners e las valurs ch’i na dovra betg durant la liquidaziun vegnan repartids provisoricamain tranter ils societaris a quint da la quota da liquidaziun definitiva.
 
 <sup>2</sup> Per cuvrir obligaziuns dispitaivlas u obligaziuns che n’èn betg anc da pajar, ston vegnir retegnids ils meds necessaris.
 
@@ -8456,15 +8478,17 @@ Ils ertavels d’in associà han da designar in represchentant communabel per la
 
 <sup>1</sup> Al cumenzament da la liquidaziun han ils liquidaturs da far ina bilantscha.
 
-<sup>2</sup> En cas ch’ina liquidaziun dura pli ditg, sto vegnir fatga mintga onn ina bilantscha intermediara.
+<sup>2</sup> En cas ch’ina liquidaziun dura pli ditg, sto vegnir fatga mintga onn ina clusiun intermediara[^587-1].
+
+[^587-1]: Expressiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)). Questa midada è vegnida fatga en las disposiziuns numnadas en la AS.
 
 ### II. Restituziun dal chapital e repartiziun dal surpli
 
 #### Art. 588
 
-<sup>1</sup> La facultad che resta suenter l’amortisaziun dals debits vegn duvrada l’emprim per restituir il chapital als associads ed alura per pajar ils tschains per la durada da la liquidaziun.
+<sup>1</sup> La facultad che resta suenter l’amortisaziun dals debits vegn duvrada l’emprim per restituir il chapital als societaris ed alura per pajar ils tschains per la durada da la liquidaziun.
 
-<sup>2</sup> In surpli sto vegnir repartì tranter ils associads tenor las prescripziuns davart la participaziun al gudogn.
+<sup>2</sup> In surpli sto vegnir repartì tranter ils societaris tenor las prescripziuns davart la participaziun al gudogn.
 
 ### G. Extincziun en il register da commerzi
 
@@ -8476,9 +8500,9 @@ Cur che la liquidaziun è finida, han ils liquidaturs da procurar che la firma v
 
 #### Art. 590
 
-<sup>1</sup> Durant 10 onns suenter che la firma è vegnida stizzada en il register da commerzi vegnan ils cudeschs ed ils documents da la societad dissolvida conservads en in lieu che vegn designà dals associads u – sche quels na vegnan betg da sa cunvegnir – en in lieu che vegn designà da l’uffizi dal register da commerzi.
+<sup>1</sup> Durant 10 onns suenter che la firma è vegnida stizzada en il register da commerzi vegnan ils cudeschs ed ils documents da la societad dissolvida conservads en in lieu che vegn designà dals societaris u – sche quels na vegnan betg da sa cunvegnir – en in lieu che vegn designà da l’uffizi dal register da commerzi.
 
-<sup>2</sup> Ils associads sco er lur ertavels mantegnan il dretg da prender invista dals cudeschs e dals documents.
+<sup>2</sup> Ils societaris sco er lur ertavels mantegnan il dretg da prender invista dals cudeschs e dals documents.
 
 ### Sisavel chapitel: Surannaziun
 
@@ -8486,11 +8510,11 @@ Cur che la liquidaziun è finida, han ils liquidaturs da procurar che la firma v
 
 #### Art. 591
 
-<sup>1</sup> Las pretensiuns dals crediturs da la societad cunter in associà per obligaziuns da la societad suranneschan entaifer 5 onns, suenter che sia extrada u suenter che la dissoluziun da la societad è vegnida publitgada en il Fegl uffizial svizzer da commerzi, nun ch’i valia in termin da surannaziun pli curt pervia da la natira da la pretensiun.
+<sup>1</sup> Las pretensiuns dals crediturs da la societad cunter in societari per obligaziuns da la societad suranneschan entaifer 5 onns, suenter che sia extrada u suenter che la dissoluziun da la societad è vegnida publitgada en il Fegl uffizial svizzer da commerzi, nun ch’i valia in termin da surannaziun pli curt pervia da la natira da la pretensiun.
 
 <sup>2</sup> Sche la pretensiun sto vegnir pajada pir suenter questa publicaziun, cumenza la surannaziun il mument che la pretensiun sto vegnir pajada.
 
-<sup>3</sup> Questa surannaziun na vegn betg applitgada per pretensiuns dals associads tranter sai.
+<sup>3</sup> Questa surannaziun na vegn betg applitgada per pretensiuns dals societaris tranter sai.
 
 ### B. Cas spezials
 
@@ -8498,13 +8522,15 @@ Cur che la liquidaziun è finida, han ils liquidaturs da procurar che la firma v
 
 <sup>1</sup> La surannaziun da 5 onns na po betg vegnir fatga valair cunter il creditur che vul vegnir cuntentà sulettamain or da la facultad da la societad che n’è betg repartida.
 
-<sup>2</sup> Sch’in associà surpiglia la fatschenta cun las activas e cun las passivas, na po el betg far valair la surannaziun da 5 onns cunter ils crediturs. Per ils associads extrads vegn il termin da 5 onns percunter remplazzà tras il termin da 2 onns tenor ils princips da la surpigliada da debits; il medem vala, sch’ina terza persuna surpiglia la fatschenta cun las activas e cun las passivas.
+<sup>2</sup> Sch’in societari surpiglia la fatschenta cun las activas e cun las passivas, na po el betg far valair la surannaziun da 5 onns cunter ils crediturs. Per ils societaris extrads vegn il termin da 5 onns percunter remplazzà tras il termin da 3 onns tenor ils princips da la surpigliada da debits; il medem vala, sch’ina terza persuna surpiglia la fatschenta cun las activas e cun las passivas.[^592-1]
+
+[^592-1]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### C. Interrupziun
 
 #### Art. 593
 
-L’interrupziun da la surannaziun cunter la societad ch’exista vinavant u cunter in auter associà na po betg interrumper la surannaziun cunter in associà extrà.
+L’interrupziun da la surannaziun cunter la societad ch’exista vinavant u cunter in auter societari na po betg interrumper la surannaziun cunter in societari extrà.
 
 ### Ventgatschintgavel titel: La societad commanditara
 
@@ -8516,9 +8542,9 @@ L’interrupziun da la surannaziun cunter la societad ch’exista vinavant u cun
 
 <sup>1</sup> En ina societad commanditara s’uneschan duas u pliras persunas sut ina firma communabla cun l’intent da far commerzi, da manar ina fabrica u da manar in’autra interpresa en furma commerziala, e quai uschia che almain in commember è responsabel illimitadamain, entant che in u plirs auters commembers èn responsabels sco commanditaris mo fin a l’import d’in tschert apport da facultad, numnà summa commanditara.
 
-<sup>2</sup> Mo persunas natiralas pon esser associads cun responsabladad illimitada; percunter pon er persunas giuridicas e societads commerzialas esser commanditaris.
+<sup>2</sup> Mo persunas natiralas pon esser societaris cun responsabladad illimitada; percunter pon er persunas giuridicas e societads commerzialas esser commanditaris.
 
-<sup>3</sup> Ils associads ston laschar inscriver la societad en il register da commerzi.
+<sup>3</sup> Ils societaris ston laschar inscriver la societad en il register da commerzi.
 
 ### B. Societad betg commerziala
 
@@ -8549,17 +8575,17 @@ Sch’ina tala societad maina ina interpresa en furma betg commerziala, exista e
 
 #### Art. 597
 
-<sup>1</sup> L’annunzia dals fatgs che ston vegnir inscrits u l’annunzia da lur midada sto vegnir suttascritta da tut ils associads tar l’uffizi dal register da commerzi u vegnir inoltrada en scrit cun suttascripziuns legalisadas.
+<sup>1</sup> L’annunzia dals fatgs che ston vegnir inscrits u l’annunzia da lur midada sto vegnir suttascritta da tut ils societaris tar l’uffizi dal register da commerzi u vegnir inoltrada en scrit cun suttascripziuns legalisadas.
 
-<sup>2</sup> Ils associads cun responsabladad illimitada che duain represchentar la societad han da dar persunalmain la suttascripziun da la firma e lur atgna suttascripziun tar l’uffizi dal register da commerzi u d’inoltrar las suttascripziuns en furma legalisada.
+<sup>2</sup> Ils societaris cun responsabladad illimitada che duain represchentar la societad han da dar persunalmain la suttascripziun da la firma e lur atgna suttascripziun tar l’uffizi dal register da commerzi u d’inoltrar las suttascripziuns en furma legalisada.
 
-### Segund chapitel: Relaziun dals associads tranter sai
+### Segund chapitel: Relaziun dals societaris tranter sai
 
 ### A. Libertad contractuala. Renviament a la societad collectiva
 
 #### Art. 598
 
-<sup>1</sup> La relaziun giuridica dals associads tranter sai è determinada en emprima lingia tras il contract da societad.
+<sup>1</sup> La relaziun giuridica dals societaris tranter sai è determinada en emprima lingia tras il contract da societad.
 
 <sup>2</sup> Sch’il contract na dispona betg autramain, vegnan applitgadas las prescripziuns davart la societad collectiva, cun resalva da las divergenzas che resultan tras las suandantas disposiziuns.
 
@@ -8567,7 +8593,7 @@ Sch’ina tala societad maina ina interpresa en furma betg commerziala, exista e
 
 #### Art. 599
 
-La gestiun da la societad vegn procurada da l’associà u dals associads cun responsabladad illimitada.
+La gestiun da la societad vegn procurada dal societari u dals societaris cun responsabladad illimitada.
 
 ### C. Posiziun dal commanditari
 
@@ -8587,7 +8613,7 @@ La gestiun da la societad vegn procurada da l’associà u dals associads cun re
 
 <sup>1</sup> Il commanditari ha da surpigliar ina perdita fin maximalmain a l’import da sia summa commanditara.
 
-<sup>2</sup> Sch’i manca ina cunvegna che regla la participaziun dal commanditari al gudogn ed a la perdita, decida la dretgira en chaussa tenor liber appreziar.
+<sup>2</sup> Sch’i manca ina cunvegna che regla la participaziun dal commanditari al gudogn ed a la perdita, decida la dretgira en chaussa tenor appreziar.
 
 <sup>3</sup> Sche la summa commanditara n’è betg vegnida pajada cumplainamain u sch’ella è vegnida reducida posteriuramain, dastgan ils tschains, ils gudogns ed eventuals onuraris vegnir agiuntads ad ella mo, fin ch’ella ha puspè cuntanschì ses import cumplain.
 
@@ -8603,13 +8629,13 @@ Sut ses num po la societad acquistar dretgs e surpigliar obligaziuns, purtar pla
 
 #### Art. 603
 
-La societad vegn represchentada tras l’associà u tras ils associads cun responsabladad illimitada tenor las prescripziuns che valan per la societad collectiva.
+La societad vegn represchentada tras il societari u tras ils societaris cun responsabladad illimitada tenor las prescripziuns che valan per la societad collectiva.
 
-### C. Responsabladad da l’associà cun responsabladad illimitada
+### C. Responsabladad dal societari cun responsabladad illimitada
 
 #### Art. 604
 
-L’associà cun responsabladad illimitada po vegnir accusà persunalmain per in debit da la societad pir, sche la societad è vegnida dissolvida u sche la societad è vegnida stumada senza success.
+Il societari cun responsabladad illimitada po vegnir accusà persunalmain per in debit da la societad pir, sche la societad è vegnida dissolvida u sche la societad è vegnida stumada senza success.
 
 ### D. Responsabladad dal commanditari
 
@@ -8617,13 +8643,13 @@ L’associà cun responsabladad illimitada po vegnir accusà persunalmain per in
 
 #### Art. 605
 
-Sch’il commanditari fa fatschentas per la societad senza declerar expressivamain ch’el ageschia mo sco procurist u sco mandatari, è el responsabel per questas fatschentas vers terzas persunas sco in associà cun responsabladad illimitada.
+Sch’il commanditari fa fatschentas per la societad senza declerar expressivamain ch’el ageschia mo sco procurist u sco mandatari, è el responsabel per questas fatschentas vers terzas persunas sco in societari cun responsabladad illimitada.
 
 ### II. Mancanza da l’inscripziun
 
 #### Art. 606
 
-Sche la societad ha fatg fatschentas avant che s’inscriver en il register da commerzi, è il commanditari responsabel per las obligaziuns ch’èn resultadas fin a l’inscripziun vers terzas persunas sco in associà cun responsabladad illimitada, nun ch’el cumprovia che las terzas persunas enconuschevan la limitaziun da sia responsabladad.
+Sche la societad ha fatg fatschentas avant che s’inscriver en il register da commerzi, è il commanditari responsabel per las obligaziuns ch’èn resultadas fin a l’inscripziun vers terzas persunas sco in societari cun responsabladad illimitada, nun ch’el cumprovia che las terzas persunas enconuschevan la limitaziun da sia responsabladad.
 
 ### III. ...
 
@@ -8647,7 +8673,7 @@ Sche la societad ha fatg fatschentas avant che s’inscriver en il register da c
 
 #### Art. 609
 
-<sup>1</sup> Sch’il commanditari reducescha – tras ina cunvegna cun ils ulteriurs associads u tras retratgas – la summa commanditara ch’è inscritta en il register da commerzi u ch’è vegnida communitgada en autra moda, ha questa midada in effect sin terzas persunas pir, cur ch’ella è vegnida inscritta en il register da commerzi ed è vegnida publitgada.
+<sup>1</sup> Sch’il commanditari reducescha – tras ina cunvegna cun ils ulteriurs societaris u tras retratgas – la summa commanditara ch’è inscritta en il register da commerzi u ch’è vegnida communitgada en autra moda, ha questa midada in effect sin terzas persunas pir, cur ch’ella è vegnida inscritta en il register da commerzi ed è vegnida publitgada.
 
 <sup>2</sup> Per las obligaziuns ch’èn resultadas avant questa communicaziun resta il commanditari responsabel cun l’entira summa commanditara.
 
@@ -8675,13 +8701,13 @@ Sche la societad ha fatg fatschentas avant che s’inscriver en il register da c
 
 <sup>1</sup> Tgi che sa participescha ad ina societad collectiva u commanditara sco commanditari, è responsabel cun la summa commanditara er per las obligaziuns da la societad ch’existivan gia avant sia participaziun.
 
-<sup>2</sup> Ina cunvegna cuntraria tranter ils associads n’ha nagin effect sin terzas persunas.
+<sup>2</sup> Ina cunvegna cuntraria tranter ils societaris n’ha nagin effect sin terzas persunas.
 
 ### E. Posiziun dals crediturs privats
 
 #### Art. 613
 
-<sup>1</sup> Ils crediturs privats d’in associà cun responsabladad illimitada u d’in commanditari n’han betg il dretg da recurrer a la facultad da la societad per survegnir pajaments u garanzias.
+<sup>1</sup> Ils crediturs privats d’in societari cun responsabladad illimitada u d’in commanditari n’han betg il dretg da recurrer a la facultad da la societad per survegnir pajaments u garanzias.
 
 <sup>2</sup> En l’execuziun sfurzada han els mo il dretg sin ils tschains, sin il gudogn e sin las quotas da liquidaziun sco er sin eventuals onuraris che tutgan al debitur sin basa dal contract da societad.
 
@@ -8699,23 +8725,23 @@ Sche la societad ha fatg fatschentas avant che s’inscriver en il register da c
 
 #### Art. 615
 
-<sup>1</sup> Il concurs da la societad n’ha chaschuna betg il concurs dals singuls associads.
+<sup>1</sup> Il concurs da la societad n’ha chaschuna betg il concurs dals singuls societaris.
 
-<sup>2</sup> Medemamain na chaschuna il concurs d’in associà betg il concurs da la societad.
+<sup>2</sup> Medemamain na chaschuna il concurs d’in societari betg il concurs da la societad.
 
 ### II. Concurs da la societad
 
 #### Art. 616
 
-<sup>1</sup> En il concurs da la societad vegn la facultad da la societad duvrada per cuntentar ils crediturs da la societad, cun exclusiun dals crediturs privats dals singuls associads.
+<sup>1</sup> En il concurs da la societad vegn la facultad da la societad duvrada per cuntentar ils crediturs da la societad, cun exclusiun dals crediturs privats dals singuls societaris.
 
 <sup>2</sup> Quai ch’il commanditari ha pajà a la societad a quint da sia summa commanditara, na po el betg far valair sco pretensiun.
 
-### III. Proceder cunter l’associà cun responsabladad illimitada
+### III. Proceder cunter il societari cun responsabladad illimitada
 
 #### Art. 617
 
-Sche la facultad da la societad na basta betg per cuntentar ils crediturs da la societad, han quels il dretg da pretender che l’entir rest da lur pretensiuns nunpajadas vegnia pajà or da la facultad privata da mintga singul associà cun responsabladad illimitada, e quai en concurrenza cun lur crediturs privats.
+Sche la facultad da la societad na basta betg per cuntentar ils crediturs da la societad, han quels il dretg da pretender che l’entir rest da lur pretensiuns nunpajadas vegnia pajà or da la facultad privata da mintga singul societari cun responsabladad illimitada, e quai en concurrenza cun lur crediturs privats.
 
 ### IV. Concurs dal commanditari
 
@@ -8727,13 +8753,13 @@ En il concurs dal commanditari n’han ni ils crediturs da la societad ni la soc
 
 #### Art. 619
 
-<sup>1</sup> Per la dissoluziun e per la liquidaziun da la societad sco er per la surannaziun da las pretensiuns cunter ils associads valan las medemas disposiziuns sco tar la societad collectiva.
+<sup>1</sup> Per la dissoluziun e per la liquidaziun da la societad sco er per la surannaziun da las pretensiuns cunter ils societaris valan las medemas disposiziuns sco tar la societad collectiva.
 
-<sup>2</sup> Sch’in commanditari fa concurs u sche sia quota da liquidaziun vegn impegnada, èn applitgablas analogamain las disposiziuns che valan per l’associà collectiv. Percunter na vegn la societad betg dissolvida, sch’il commanditari mora u sch’el vegn mess sut curatella cumplessiva.[^619-1]
+<sup>2</sup> Sch’in commanditari fa concurs u sche sia quota da liquidaziun vegn impegnada, èn applitgablas analogamain las disposiziuns che valan per il societari collectiv. Percunter na vegn la societad betg dissolvida, sch’il commanditari mora u sch’el vegn mess sut curatella cumplessiva.[^619-1]
 
 [^619-1]: Versiun da la segunda frasa tenor la cifra 10 da l’agiunta da la LF dals 19 da dec. 2008 (protecziun da creschids, dretg da persunas e dretg dals uffants), en vigur dapi il 1. da schan. 2013 ([AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [BBl 2006 7001](https://fedlex.data.admin.ch/eli/fga/2006/899)).
 
-### Ventgasisavel titel:**** La societad anonima
+### Ventgasisavel titel: La societad anonima
 
 [^part3-tit26-1]
 
@@ -8745,23 +8771,29 @@ En il concurs dal commanditari n’han ni ils crediturs da la societad ni la soc
 
 #### Art. 620
 
-<sup>1</sup> La societad anonima è ina societad cun atgna firma; ses chapital è determinà gia ordavant (chapital d’aczias[^620-1]) ed è dividì en summas parzialas (aczias), e per sias obligaziuns stat buna mo la facultad da la societad.
+[^620-1]
 
-<sup>2</sup> Ils acziunaris èn obligads mo a las prestaziuns statutaras e n’èn betg responsabels persunalmain per las obligaziuns da la societad.
+<sup>1</sup> La societad anonima è ina societad da chapital, a la quala ina u pliras persunas u societads commerzialas èn participadas. Per sias obligaziuns stat buna mo la facultad da la societad.
 
-<sup>3</sup> La societad anonima po vegnir fundada er per intents betg economics.
+<sup>2</sup> Ils acziunaris èn obligads mo a las prestaziuns statutaras.
 
-[^620-1]: Expressiun tenor la cifra II 1 da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745). Questa midada è resguardada en l’entir decret.
+<sup>3</sup> Acziunari è, tgi ch’è participà a la societad cun almain in’aczia.
 
-### B. Chapital minimal
+[^620-1]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### B. Chapital d’aczias
 
 #### Art. 621
 
 [^621-1]
 
-Il chapital d’aczias sto importar almain 100 000 francs.
+<sup>1</sup> Il chapital d’aczias importa almain 100 000 francs.
 
-[^621-1]: Versiun tenor la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745).
+<sup>2</sup> Admissibel è er in chapital d’aczias en la valuta estra la pli impurtanta per l’activitad commerziala. Il mument da la constituziun sto il chapital d’aczias correspunder ad ina cuntravalur d’almain 100 000 francs. Sch’il chapital d’aczias è fixà en ina valuta estra, sto questa valuta vegnir utilisada er per la contabilitad e per il rendaquint. Il Cussegl federal fixescha las valutas admissiblas.
+
+<sup>3</sup> La radunanza generala po concluder da midar per il cumenzament d’in onn da gestiun la valuta ch’è fixada per il chapital d’aczias. En in tal cas adatta il cussegl d’administraziun ils statuts. El constatescha che las premissas da l’alinea 2 èn ademplidas e fixescha il curs che vegn applitgà per il stgomi. Ils conclus da la radunanza generala e dal cussegl d’administraziun ston vegnir documentads publicamain.
+
+[^621-1]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### C. Aczias
 
@@ -8779,27 +8811,31 @@ Il chapital d’aczias sto importar almain 100 000 francs.
 
 <sup>2ter</sup> Sche tut ils titels da participaziun vegnan dequotads, sto la societad – entaifer 6 mais – ubain transfurmar las aczias al possessur existentas en aczias al num ubain las concepir sco vaglias contabilisadas.[^622-5]
 
-<sup>3</sup> Ils statuts pon prevair che las aczias al num duajan u dastgian vegnir convertidas pli tard en aczias al possessur u che aczias al possessur dastgan vegnir convertidas pli tard en aczias al num.
+<sup>3</sup> Aczias al num pon vegnir convertidas en aczias al possessur ed aczias al possessur pon vegnir convertidas en aczias al num.[^622-6]
 
-<sup>4</sup> La valur nominala da l’aczia sto importar almain 1 rap.[^622-6]
+<sup>4</sup> Las aczias han ina valur nominala ch’è pli gronda che nulla.[^622-7]
 
-<sup>5</sup> Ils titels da las aczias ston vegnir suttascrits d’almain in commember dal cussegl d’administraziun[^622-7]. La societad po decider che er aczias che vegnan emessas en grond dumber stoppian purtar almain ina suttascripziun ch’è scritta cun agen maun.
+<sup>5</sup> Sch’i vegnan emess titels, ston quels vegnir suttascrits d’almain in commember dal cussegl d’administraziun.[^622-8]
 
 [^622-1]: [SR 957.1](https://fedlex.data.admin.ch/eli/cc/2009/450)
 [^622-2]: Versiun tenor la cifra I 1 da la LF dals 25 da sett. 2020 davart l’adattaziun dal dretg federal als svilups da la tecnologia dals registers electronics distribuids, en vigur dapi il 1. da favr. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 [^622-3]: Integrà tras la cifra I 1 da la LF dals 21 da zer. 2019 davart la realisaziun da las recumandaziuns dal Forum global per la transparenza ed il barat d’infurmaziuns per intents fiscals ([AS 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [BBl 2019 279](https://fedlex.data.admin.ch/eli/fga/2019/18)). Versiun tenor la cifra I 1 da la LF dals 25 da sett. 2020 davart l’adattaziun dal dretg federal als svilups da la tecnologia dals registers electronics distribuids, en vigur dapi il 1. da favr. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 [^622-4]: Integrà tras la cifra I 1 da la LF dals 21 da zer. 2019 davart la realisaziun da las recumandaziuns dal Forum global per la transparenza ed il barat d’infurmaziuns per intents fiscals, en vigur dapi il 1. da nov. 2019 ([AS 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [BBl 2019 279](https://fedlex.data.admin.ch/eli/fga/2019/18)).
 [^622-5]: Integrà tras la cifra I 1 da la LF dals 21 da zer. 2019 davart la realisaziun da las recumandaziuns dal Forum global per la transparenza ed il barat d’infurmaziuns per intents fiscals, en vigur dapi il 1. da nov. 2019 ([AS 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [BBl 2019 279](https://fedlex.data.admin.ch/eli/fga/2019/18)).
-[^622-6]: Versiun tenor la cifra I da la LF dals 15 da dec. 2000, en vigur dapi il 1. da matg 2001 ([AS 2001 1047](https://fedlex.data.admin.ch/eli/oc/2001/153); [BBl 2000 4337](https://fedlex.data.admin.ch/eli/fga/2000/921)cifra 2.2.1 5501).
-[^622-7]: Expressiun tenor la cifra II 3 da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745). Questa midada è resguardada en l’entir decret.
+[^622-6]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^622-7]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^622-8]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### II. Divisiun e reuniun
 
 #### Art. 623
 
-<sup>1</sup> Tras ina midada dals statuts ha la radunanza generala il dretg da divider las aczias en talas d’ina valur nominala pli pitschna u da reunir ellas en talas d’ina valur nominala pli gronda, premess ch’il chapital d’aczias restia il medem.
+<sup>1</sup> Tras ina midada dals statuts ha la radunanza generala il dretg da divider las aczias en talas d’ina valur nominala pli pitschna u da reunir ellas en talas d’ina valur nominala pli gronda, premess ch’il chapital d’aczias[^623-1] restia il medem.
 
-<sup>2</sup> La reuniun dad aczias sto vegnir approvada da l’acziunari.
+<sup>2</sup> Per reunir aczias che n’èn betg quotadas ad ina bursa dovri il consentiment da tut ils acziunaris pertutgads.[^623-2]
+
+[^623-1]: Expressiun tenor la cifra II 1 da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Questa midada è resguardada en l’entir decret.
+[^623-2]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### III. Import d’emissiun
 
@@ -8811,92 +8847,66 @@ Il chapital d’aczias sto importar almain 100 000 francs.
 
 [^624-1]: Abolì tras la cifra I da la LF dals 4 d’oct. 1991, cun effect dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 
-### D. Acziunaris
-
 #### Art. 625
 
 [^625-1]
 
-Ina societad anonima po vegnir fundada dad ina u da pliras persunas natiralas u giuridicas ubain dad autras societads commerzialas.
+[^625-1]: Abolì tras la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), cun effect dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-[^625-1]: Versiun tenor la cifra I 3 da la LF dals 16 da dec. 2005 (dretg da ScRL sco er adattaziuns en il dretg d’aczias, en il dretg d’associaziun, en il dretg dal register da commerzi ed en il dretg da firmas), en vigur dapi il 1. da schan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+### D. Disposiziuns statutaras prescrittas da la lescha
 
-### E. Statuts
+[^part3-tit26-chap1-lvlD-1]
 
-### I. Disposiziuns prescrittas da la lescha
+[^part3-tit26-chap1-lvlD-1]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 626
 
 [^626-1]
 
+<sup>1</sup>
+
 Ils statuts ston cuntegnair disposiziuns davart:
 
 - 1\. la firma e la sedia da la societad;
 - 2\. l’intent da la societad;
-- 3\. l’autezza dal chapital d’aczias e l’import dals apports prestads;
+- 3\.[^626-2] l’autezza e la valuta dal chapital d’aczias sco er l’import dals apports prestads per tal;
 - 4\. il dumber, la valur nominala e la spezia da las aczias;
-- 5\. la convocaziun da la radunanza generala ed il dretg da votar dals acziunaris;
-- 6\. ils organs per l’administraziun e per la revisiun;
-- 7\. la furma, tenor la quala las communicaziuns da la societad ston vegnir fatgas.
+- 5\. e 6.[^626-3] …
+- 7\.[^626-4] la furma da las communicaziuns da la societad a ses acziunaris.
 
-[^626-1]: Versiun tenor la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745).
+<sup>2</sup>
 
-### II. Ulteriuras disposiziuns
+En cas d’ina societad cun aczias quotadas ad ina bursa ston ils statuts ultra da quai cuntegnair disposiziuns davart:
 
-### 1. En general
+- 1\. il dumber d’activitads ch’ils commembers dal cussegl d’administraziun, da la direcziun e dal cussegl consultativ dastgan exequir en funcziuns cumparegliablas en autras interpresas cun finamiras economicas;
+- 2\. la durada maximala dals contracts che prevesan las indemnisaziuns dals commembers dal cussegl d’administraziun, da la direcziun e dal cussegl consultativ, sco er il termin da disditga maximal per contracts da durada illimitada (art. 735*b*);
+- 3\. ils princips concernent las incumbensas e concernent las cumpetenzas da la cumissiun d’indemnisaziun;
+- 4\. ils detagls concernent la votaziun da la radunanza generala davart las indemnisaziuns dal cussegl d’administraziun, da la direcziun e dal cussegl consultativ.[^626-5]
 
-#### Art. 627
+<sup>3</sup> Betg sco autras interpresas en il senn da l’alinea 2 cifra 1 na valan interpresas che vegnan controlladas da la societad u che controlleschan la societad.[^626-6]
 
-[^627-1]
+[^626-1]: Versiun tenor la cifra I da la LF dals 4 d’oct. 1991, cun effect dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^626-2]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^626-3]: Abolì tras la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), cun effect dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^626-4]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^626-5]: Integrà tras la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^626-6]: Integrà tras la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-Per esser liantas ston esser fixadas en ils statuts disposiziuns davart:
+#### Art. 627 e 628
 
-- 1\. la midada dals statuts, uschenavant ch’els divergeschan da las disposiziuns legalas;
-- 2\. il pajament da tantiemas;
-- 3\. la garanzia da tschains da construcziun;
-- 4\. la limitaziun da la durada da la societad;
-- 5\. ils chastis convenziunals, en cas che l’apport na vegn betg prestà a temp;
-- 6\. l’augment dal chapital approvà e l’augment dal chapital cundiziunà;
-- 7\.[^627-2] ...
-- 8\. la restricziun da la transferibilitad d’aczias al num;
-- 9\. ils privilegis da singulas categorias d’aczias, ils certificats da participaziun, ils certificats da giudida e la concessiun d’avantatgs spezials;
-- 10\. la limitaziun dal dretg da votar dals acziunaris e da lur dretg da sa laschar represchentar;
-- 11\. ils cas che n’èn betg previs en la lescha, en ils quals la radunanza generala po concluder mo cun maioritad qualifitgada;
-- 12\. l’autorisaziun da transferir la gestiun a singuls commembers dal cussegl d’administraziun u a terzas persunas;
-- 13\. l’organisaziun e las incumbensas dal post da revisiun, sche questas disposiziuns surpassan las prescripziuns legalas.
-- 14\.[^627-3] la pussaivladad da transfurmar aczias emessas en ina furma en in’autra furma e la repartiziun dals custs che quai chaschuna, tant enavant ch’ellas devieschan da las directivas da la Lescha dals 3 d’october 2008[^627-4] davart las vaglias contabilisadas.
+[^627628-1]
 
-[^627-1]: Versiun tenor la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745).
-[^627-2]: Abolì tras la cifra I 2 da la LF dals 12 da dec. 2014 davart la realisaziun da las recumandaziuns dal «Groupe d’action financière», revedidas l’onn 2012, cun effect dapi il 1. da fan. 2015 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
-[^627-3]: Integrà tras la cifra 3 da la LF davart las vaglias contabilisadas dals 3 d’oct. 2008, en vigur dapi il 1. da schan. 2010 ([AS 2009 3577](https://fedlex.data.admin.ch/eli/oc/2009/450); [BBl 2006 9315](https://fedlex.data.admin.ch/eli/fga/2006/1228)).
-[^627-4]: [SR 957.1](https://fedlex.data.admin.ch/eli/cc/2009/450)
+[^627628-1]: Abolì tras la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), cun effect dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-### 2. En spezial: apports en natiralias, surpigliadas da bains, avantatgs spezials
-
-[^part3-tit26-chap1-lvlE-lvlII-lvl2-1]
-
-[^part3-tit26-chap1-lvlE-lvlII-lvl2-1]: Versiun tenor la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745).
-
-#### Art. 628
-
-<sup>1</sup> Sche l’acziunari fa in apport en natiralias, ston ils statuts inditgar l’object e la valitaziun da quest apport sco er il num da l’apportader e las aczias che vegnan attribuidas ad el.[^628-1]
-
-<sup>2</sup> Sche la societad surpiglia u ha l’intenziun da surpigliar valurs da facultad dals acziunars u d’ina persuna che stat en ina stretga relaziun cun quels, ston ils statuts inditgar l’object, il num da l’alienader e la cuntraprestaziun da la societad.[^628-2]
-
-<sup>3</sup> Sch’i vegnan fixads avantatgs spezials a chaschun da la fundaziun a favur dals fundaturs u d’autras persunas, ston ils statuts menziunar il num da las persunas favurisadas, ed il cuntegn e la valur da l’avantatg concedì ston vegnir designads exactamain.
-
-<sup>4</sup> Suenter 10 onns po la radunanza generala abolir disposiziuns statutaras davart apports en natiralias u davart surpigliadas da bains. Disposiziuns davart surpigliadas da bains pon er vegnir abolidas, sche la societad renunzia definitivamain a talas surpigliadas.[^628-3] [^628-4]
-
-[^628-1]: Versiun tenor la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745).
-[^628-2]: Versiun tenor la cifra I 3 da la LF dals 16 da dec. 2005 (dretg da ScRL sco er adattaziuns en il dretg d’aczias, en il dretg d’associaziun, en il dretg dal register da commerzi ed en il dretg da firmas), en vigur dapi il 1. da schan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
-[^628-3]: Integrà la segunda frasa tras la cifra I 3 da la LF dals 16 da dec. 2005 (dretg da ScRL sco er adattaziuns en il dretg d’aczias, en il dretg d’associaziun, en il dretg dal register da commerzi ed en il dretg da firmas), en vigur dapi il 1. da schan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
-[^628-4]: Integrà tras la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745).
-
-### F. Fundaziun
+### E. Fundaziun
 
 ### I. Act da constituziun
 
 ### 1. Cuntegn
+
+[^part3-tit26-chap1-lvlE-lvlI-lvl1-1]
+
+[^part3-tit26-chap1-lvlE-lvlI-lvl1-1]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 629
 
@@ -8910,11 +8920,14 @@ En quest act da constituziun suttascrivan ils fundaturs las aczias e constatesch
 
 - 1\. che tut las aczias èn vegnidas suttascrittas en moda valaivla;
 - 2\. ch’ils apports empermess correspundan a l’entir import d’emissiun;
-- 3\. ch’ils apports èn vegnids fatgs tenor las pretensiuns legalas e statutaras;
-- 4\.[^629-2] ch’i n’existan nagins apports en natiralias, naginas surpigliadas da bains, naginas surpigliadas da bains previsas e naginas cumpensaziuns da credits u avantatgs spezials, auter che quellas e quels numnads en ils mussaments.
+- 3\. ch’ils apports prestads adempleschan las pretensiuns legalas e statutaras il mument da la suttascripziun da l’act da constituziun;
+- 4\. ch’i n’existan nagins apports en natiralias, naginas cumpensaziuns da credits u avantatgs spezials, auter che quellas e quels numnads en ils mussaments.[^629-2]
+
+<sup>3</sup> Sch’il chapital d’aczias vegn fixà en ina valuta estra u sch’ils apports vegnan prestads en in’autra valuta che quella dal chapital d’aczias, sto il document public inditgar ils curs da stgomi applitgads.[^629-3]
 
 [^629-1]: Versiun tenor la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745).
-[^629-2]: Integrà tras la cifra I 2 da la LF dals 17 da mars 2017 (dretg dal register da commerzi), en vigur dapi il 1. da schan. 2021 ([AS 2020 957](https://fedlex.data.admin.ch/eli/oc/2020/178); [BBl 2015 3617](https://fedlex.data.admin.ch/eli/fga/2015/956)).
+[^629-2]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^629-3]: Integrà tras la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 2. Suttascripziun d’aczias
 
@@ -8946,9 +8959,10 @@ A l’act da constituziun ston vegnir agiuntads ils suandants documents:
 - 3\. la conferma da controlla;
 - 4\. la conferma ch’ils apports en daners sajan vegnids deponids;
 - 5\. ils contracts d’apports en natiralias;
-- 6\. ils contracts davart la surpigliada da bains ch’èn gia avant maun.
+- 6\.[^631-2] …
 
 [^631-1]: Versiun tenor la cifra I 3 da la LF dals 16 da dec. 2005 (dretg da ScRL sco er adattaziuns en il dretg d’aczias, en il dretg d’associaziun, en il dretg dal register da commerzi ed en il dretg da firmas), en vigur dapi il 1. da schan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^631-2]: Abolì tras la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), cun effect dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### III. Apports
 
@@ -8960,9 +8974,10 @@ A l’act da constituziun ston vegnir agiuntads ils suandants documents:
 
 <sup>1</sup> Cur che la societad vegn constituida, ston ils sutsegnaders avair prestà almain 20 pertschient da la valur nominala da mintga aczia.
 
-<sup>2</sup> En mintga cas ston ils apports prestads importar almain 50 000 francs.
+<sup>2</sup> En mintga cas ston ils apports prestads importar almain 50 000 francs. Sch’il chapital d’aczias è fixà en ina valuta estra, ston ils apports prestads correspunder ad ina cuntravalur d’almain 50 000 francs il mument da la constituziun.[^632-2]
 
 [^632-1]: Versiun tenor la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745).
+[^632-2]: Integrà la segunda frasa tras la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 2. Prestaziun dals apports
 
@@ -8972,11 +8987,13 @@ A l’act da constituziun ston vegnir agiuntads ils suandants documents:
 
 [^633-1]
 
-<sup>1</sup> Apport en daners ston vegnir deponids tar in institut ch’è suttamess a la Lescha federala dals 8 da november 1934[^633-2] davart las bancas e cassas da spargn e ston star exclusivamain a disposiziun da la societad.
+<sup>1</sup> Ils apports en daners ston vegnir deponids tar ina banca tenor l’artitgel 1 alinea 1 da la Lescha da bancas dals 8 da november 1934[^633-2] e ston star a la disposiziun exclusiva da la societad.
 
-<sup>2</sup> L’institut dat liber quest import pir, cur che la societad è inscritta en il register da commerzi.
+<sup>2</sup> La banca dat liber quest import pir, cura che la societad è inscritta en il register da commerzi.
 
-[^633-1]: Versiun tenor la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745).
+<sup>3</sup> Sco apports en daners valan pajaments en la valuta ch’è fixada per il chapital d’aczias, sco er pajaments en autras valutas libramain convertiblas en la valuta dal chapital d’aczias.
+
+[^633-1]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 [^633-2]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
 
 ### b. Apports en natiralias
@@ -8985,25 +9002,48 @@ A l’act da constituziun ston vegnir agiuntads ils suandants documents:
 
 [^634-1]
 
-Ils apports en natiralias valan mo alura sco garanzia, sche:
+<sup>1</sup>
 
-- 1\. els vegnan prestads sin basa d’in contract d’apports en natiralias en scrit u sin basa d’in contract d’apports en natiralias ch’è documentà publicamain;
-- 2\. la societad po – suenter sia inscripziun en il register da commerzi – disponer immediatamain da quests apports sco proprietaria u survegn in dretg nuncundiziunà ch’ils apports vegnian inscrits en il register funsil;
-- 3\. igl è avant maun in rapport da fundaziun cun ina conferma da controlla.
+Ils objects d’in apport en natiralias valan sco garanzia, sche las suandantas premissas èn ademplidas:
 
-[^634-1]: Versiun tenor la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745).
+- 1\. els pon vegnir bilantschads sco activas;
+- 2\. els pon vegnir transferids en la facultad da la societad;
+- 3\. suenter lur inscripziun en il register da commerzi po la societad disponer immediatamain e libramain da quests objects sco proprietaria u survegn, en cas da bains immobigliars, il dretg nuncundiziunà che quests bains immobigliars vegnian inscrits en il register funsil;
+- 4\. els pon vegnir utilisads tras il transferiment a terzas persunas.
 
-### c. Prestaziun posteriura
+<sup>2</sup> L’apport en natiralias sto vegnir fixà en scrit. Il contract sto vegnir documentà publicamain, sche quai è prescrit per transferir l’object.
+
+<sup>3</sup> In unic document public basta er, sch’ils bains immobigliars ch’èn l’object da l’apport en natiralias, èn situads en differents chantuns. Il document sto vegnir constituì tras in funcziunari da documentaziun a la sedia da la societad.
+
+<sup>4</sup> Ils statuts ston inditgar l’object e la valitaziun da l’apport, il num da l’apportader e las aczias emessas per l’apport sco er eventualas ulteriuras cuntraprestaziuns da la societad. La radunanza generala po abolir las disposiziuns statutaras suenter 10 onns.
+
+[^634-1]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### c. Scuntrada cun ina pretensiun
 
 #### Art. 634a
 
 [^634a-1]
 
+<sup>1</sup> La liberaziun è er pussaivla tras la scuntrada cun ina pretensiun.
+
+<sup>2</sup> La scuntrada cun ina pretensiun vala er sco garanzia, sche la pretensiun n’è betg pli garantida tras las activas.
+
+<sup>3</sup> Ils statuts ston inditgar l’import da la pretensiun che vegn scuntrada, il num da l’acziunari e las aczias che al vegnan attribuidas. La radunanza generala po abolir las disposiziuns statutaras suenter 10 onns.
+
+[^634a-1]: Integrà tras la cifra I da la LF dals 4 d’oct. 1991 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### d. Prestaziun posteriura
+
+#### Art. 634b
+
+[^634b-1]
+
 <sup>1</sup> Il cussegl d’administraziun decida, sch’i ston vegnir prestads apports posteriurs sin aczias che n’èn betg liberadas cumplainamain.
 
-<sup>2</sup> La prestaziun posteriura po vegnir fatga en daners, tras in apport en natiralias u tras ina cumpensaziun.
+<sup>2</sup> La prestaziun posteriura è pussaivla en daners, tras in apport en natiralias, tras la scuntrada cun ina pretensiun u tras la conversiun d’agen chapital libramain disponibel.
 
-[^634a-1]: Integrà tras la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745).
+[^634b-1]: Integrà tras la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 3. Controlla dals apports
 
@@ -9015,11 +9055,12 @@ Ils apports en natiralias valan mo alura sco garanzia, sche:
 
 En in rapport en scrit rendan ils fundaturs quint davart:
 
-- 1\. la spezia ed il stadi d’apports en natiralias u da surpigliadas da bains e l’adequatezza da la valitaziun;
+- 1\.[^635-2] la spezia ed il stadi d’apports en natiralias e l’adequatezza da la valitaziun;
 - 2\. l’existenza e la cumpensabladad dal debit;
 - 3\. ils motivs e l’adequatezza d’avantatgs spezials a favur da fundaturs u d’autras persunas.
 
 [^635-1]: Versiun tenor la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745).
+[^635-2]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### b. Conferma da la controlla
 
@@ -9031,15 +9072,29 @@ In revisur admess controllescha il rapport da fundaziun e conferma en scrit che 
 
 [^635a-1]: Integrà tras la cifra I da la LF dals 4 d’oct. 1991 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Versiun tenor la cifra I 3 da la LF dals 16 da dec. 2005 (dretg da ScRL sco er adattaziuns en il dretg d’aczias, en il dretg d’associaziun, en il dretg dal register da commerzi ed en il dretg da firmas), en vigur dapi il 1. da schan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 
-#### Art. 636–639
+### IV. Avantatgs spezials
 
-[^636639-1]
+#### Art. 636
 
-[^636639-1]: Abolì tras la cifra I da la LF dals 4 d’oct. 1991, cun effect dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^636-1]
 
-### G. Inscripziun en il register da commerzi
+Sch’i vegnan fixads, a chaschun da la fundaziun, avantatgs spezials a favur dals fundaturs u d’autras persunas, ston ils statuts inditgar il num da las persunas favurisadas sco er il cuntegn e la valur dals avantatgs concedids.
+
+[^636-1]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+#### Art. 637–639
+
+[^637639-1]
+
+[^637639-1]: Abolì tras la cifra I da la LF dals 4 d’oct. 1991, cun effect dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+
+### F. Inscripziun en il register da commerzi
 
 ### I. Societad
+
+[^part3-tit26-chap1-lvlF-lvlI-1]
+
+[^part3-tit26-chap1-lvlF-lvlI-1]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 640
 
@@ -9057,23 +9112,21 @@ La societad sto vegnir inscritta en il register da commerzi da quel lieu, nua ch
 
 [^641-1]: Abolì tras la cifra I 2 da la LF dals 17 da mars 2017 (dretg dal register da commerzi), cun effect dapi il 1. da schan. 2021 ([AS 2020 957](https://fedlex.data.admin.ch/eli/oc/2020/178); [BBl 2015 3617](https://fedlex.data.admin.ch/eli/fga/2015/956)).
 
-### III. Apports en natiralias, surpigliadas da bains, avantatgs spezials
+### III. …
 
 #### Art. 642
 
 [^642-1]
 
-L’object dals apports en natiralias e las aczias che vegnan emessas per quests apports, l’object da las surpigliadas da bains e la cuntraprestaziun da la societad sco er il cuntegn e la valur dals avantatgs spezials ston vegnir inscrits en il register da commerzi.
+[^642-1]: Abolì tras la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), cun effect dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-[^642-1]: Versiun tenor la cifra I 3 da la LF dals 16 da dec. 2005 (dretg da ScRL sco er adattaziuns en il dretg d’aczias, en il dretg d’associaziun, en il dretg dal register da commerzi ed en il dretg da firmas), en vigur dapi il 1. da schan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
-
-### H. Acquist da la persunalitad
+### G. Acquist da la persunalitad giuridica
 
 ### I. Termin; mancanza da premissas
 
-[^part3-tit26-chap1-lvlH-lvlI-1]
+[^part3-tit26-chap1-lvlG-lvlI-1]
 
-[^part3-tit26-chap1-lvlH-lvlI-1]: Versiun tenor la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745).
+[^part3-tit26-chap1-lvlG-lvlI-1]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 643
 
@@ -9087,13 +9140,19 @@ L’object dals apports en natiralias e las aczias che vegnan emessas per quests
 
 [^643-1]: Abolì la segunda frasa tras la cifra I 3 da la LF dals 16 da dec. 2005 (dretg da ScRL sco er adattaziuns dal dretg d’aczias, d’associaziuns, dal register da commerzi e da firmas), cun effect dapi il 1. da schan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 
-### II. Aczias emessas avant l’inscripziun
+### II. Nunvalaivladad d’aczias emessas avant l’inscripziun
+
+[^part3-tit26-chap1-lvlG-lvlII-1]
+
+[^part3-tit26-chap1-lvlG-lvlII-1]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 644
 
-<sup>1</sup> Las aczias ch’èn vegnidas emessas avant l’inscripziun da la societad èn nunvalaivlas; las obligaziuns che resultan tras la suttascripziun d’aczias restan percunter intactas.
+<sup>1</sup> Las aczias che vegnan emessas avant l’inscripziun da la societad en il register da commerzi èn nunvalaivlas; las obligaziuns che resultan tras la suttascripziun d’aczias restan percunter intactas.[^644-1]
 
 <sup>2</sup> Tgi che emetta aczias avant l’inscripziun, è responsabel per tut ils donns che resultan tras quai.
+
+[^644-1]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### III. Obligaziuns surpigliadas avant l’inscripziun
 
@@ -9109,89 +9168,70 @@ L’object dals apports en natiralias e las aczias che vegnan emessas per quests
 
 [^646-1]: Abolì tras la cifra I da la LF dals 4 d’oct. 1991, cun effect dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 
-### J. Midada dals statuts
+### H. Midada dals statuts
 
 #### Art. 647
 
 [^647-1]
 
-Mintga conclus da la radunanza generala u dal cussegl d’administraziun davart ina midada dals statuts sto vegnir documentà publicamain e vegnir inscrit en il register da commerzi.
+Il conclus da la radunanza generala u dal cussegl d’administraziun davart ina midada dals statuts sto vegnir documentà publicamain e vegnir inscrit en il register da commerzi.
 
-[^647-1]: Versiun tenor la cifra I 3 da la LF dals 16 da dec. 2005 (dretg da ScRL sco er adattaziuns en il dretg d’aczias, en il dretg d’associaziun, en il dretg dal register da commerzi ed en il dretg da firmas), en vigur dapi il 1. da schan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^647-1]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-#### Art. 648–649
+#### Art. 648 e 649
 
 [^648649-1]
 
-[^648649-1]: Abolì per il 1. da fan. 1992 tras la cifra I da la LF dals 4 d’oct. 1991, cun effect dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^648649-1]: Abolì tras la cifra I da la LF dals 4 d’oct. 1991, cun effect dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 
-### K. Augment dal chapital d’aczias
+### I. Augment e reducziun dal chapital d’aczias
 
-### I. Augment dal chapital ordinari ed approvà
+### I. Augment ordinari dal chapital
 
-### 1. Augment dal chapital ordinari
+### 1. Conclus da la radunanza generala
 
 #### Art. 650
 
 [^650-1]
 
-<sup>1</sup> L’augment dal chapital d’aczias vegn concludì da la radunanza generala; el sto vegnir exequì dal cussegl d’administraziun entaifer 3 mais.
+<sup>1</sup> La radunanza generala concluda l’augment ordinari dal chapital d’aczias.
 
 <sup>2</sup>
 
-Il conclus da la radunanza generala sto vegnir documentà publicamain e sto inditgar:
+Il conclus da la radunanza generala sto vegnir documentà publicamain e sto cuntegnair las suandantas indicaziuns:
 
-- 1\. l’entir import nominal, per il qual il chapital d’aczias duai vegnir augmentà, e l’import dals apports che ston vegnir prestads;
-- 2\. il dumber, la valur nominala e la spezia da las aczias sco er ils privilegis da singulas categorias;
-- 3\. l’import d’emissiun u l’autorisaziun al cussegl d’administraziun da fixar quest import, sco er il cumenzament dal dretg da retrair dividendas;
-- 4\. la spezia dals apports, en cas d’apports en natiralias lur object e lur valitaziun sco er il num da la persuna che fa l’apport en natiralias e las aczias che vegnan attribuidas ad ella;
-- 5\. en cas da surpigliada da bains l’object, il num da l’alienader e la cuntraprestaziun da la societad;
-- 6\. il cuntegn e la valur dals avantatgs spezials sco er il num da las persunas favurisadas;
-- 7\. ina restricziun da la transferibilitad da novas aczias al num;
-- 8\. ina restricziun u in’aboliziun dal dretg da suttascripziun e l’attribuziun da dretgs da suttascripziun che n’èn betg vegnids exequids u ch’èn vegnids retratgs;
-- 9\. las premissas per exequir ils dretgs da suttascripziun ch’èn vegnids acquistads tras contract.
+- 1\. l’import nominal u eventualmain l’import nominal maximal, per il qual il chapital d’aczias duai vegnir augmentà;
+- 2\. il dumber u eventualmain il dumber maximal, la valur nominala e la spezia da las aczias emessas da nov sco er ils privilegis ch’èn colliads cun singulas categorias d’aczias;
+- 3\. l’import d’emissiun u l’autorisaziun dal cussegl d’administraziun da fixar quest import sco er il mument, a partir dal qual las novas aczias dattan il dretg da retrair dividendas;
+- 4\. en cas d’apports en natiralias: l’object e la valitaziun da l’apport, il num da l’apportader e las aczias emessas per l’apport sco er eventualas ulteriuras cuntraprestaziuns da la societad;
+- 5\. en cas d’ina liberaziun tras la scuntrada cun ina pretensiun: l’import da la pretensiun che vegn scuntrada, il num dal creditur e las aczias che al vegnan attribuidas;
+- 6\. la conversiun d’agen chapital libramain disponibel;
+- 7\. il cuntegn e la valur dals avantatgs spezials sco er ils nums da las persunas favurisadas;
+- 8\. ina restricziun da la transferibilitad da novas aczias al num;
+- 9\. ina restricziun u in’aboliziun dal dretg da suttascripziun e las consequenzas, sche quest dretg na vegn betg exequì u vegn retratg;
+- 10\. las premissas per exequir ils dretgs da suttascripziun ch’èn vegnids acquistads tras contract.
 
-<sup>3</sup> Sche l’augment dal chapital na vegn betg inscrit entaifer 3 mais en il register da commerzi, scada il conclus da la radunanza generala.
+<sup>3</sup> L’inscripziun da l’augment dal chapital sto vegnir annunziada a l’uffizi dal register da commerzi entaifer 6 mais suenter il conclus da la radunanza generala; cas cuntrari scada il conclus.
 
-[^650-1]: Versiun tenor la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745).
-
-### 2. Augment dal chapital approvà
-
-### a. Basa statutara
+[^650-1]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 651
 
 [^651-1]
 
-<sup>1</sup> Cun ina midada dals statuts po la radunanza generala autorisar il cussegl d’administraziun d’augmentar il chapital d’aczias entaifer in termin da maximalmain 2 onns.
-
-<sup>2</sup> Ils statuts inditgeschan l’import nominal, per il qual il cussegl d’administraziun po augmentar il chapital d’aczias. Il chapital approvà na dastga betg surpassar la mesadad dal chapital d’aczias existent.
-
-<sup>3</sup> Ils statuts cuntegnan ultra da quai las indicaziuns che vegnan pretendidas per l’augment dal chapital ordinari, cun excepziun da las indicaziuns che concernan l’import d’emissiun, la spezia dals apports, la surpigliada da bains ed il cumenzament dal dretg da retrair dividendas.
-
-<sup>4</sup> En il rom da l’autorisaziun po il cussegl d’administraziun augmentar il chapital d’aczias. El decretescha las disposiziuns necessarias, uschenavant che quellas n’èn betg gia cuntegnidas en il conclus da la radunanza generala.
-
-<sup>5</sup> Resalvadas restan las prescripziuns da la Lescha da banca dals 8 da november 1934[^651-2] davart il chapital da reserva.[^651-3]
-
-[^651-1]: Versiun tenor la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745).
-[^651-2]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^651-3]: Integrà tras la cifra 1 da l’annexa da la LF dals 30 da sett. 2011 (rinforzament da la stabilitad dal sectur da finanzas), en vigur dapi il 1. da mars 2012 ([AS 2012 811](https://fedlex.data.admin.ch/eli/oc/2012/126); [BBl 2011 4717](https://fedlex.data.admin.ch/eli/fga/2011/762)).
-
-### b. Adattaziun dals statuts
+[^651-1]: Abolì tras la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), cun effect dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 651a
 
 [^651a-1]
 
-<sup>1</sup> Suenter mintga augment dal chapital reducescha il cussegl d’administraziun correspundentamain l’import nominal dal chapital approvà che figurescha en ils statuts.
+[^651a-1]: Integrà tras la cifra I da la LF dals 4 d’oct. 1991 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Abolì tras la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), cun effect dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-<sup>2</sup> Suenter la scadenza dal termin ch’è vegnì fixà per augmentar il chapital concluda il cussegl d’administraziun da stritgar or dals statuts la disposiziun statutara correspundenta.
+### 2. Suttascripziun d’aczias
 
-[^651a-1]: Integrà tras la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745).
+[^part3-tit26-chap1-lvlI-lvlI-lvl2-1]
 
-### 3. Prescripziuns cuminaivlas
-
-### a. Suttascripziun d’aczias
+[^part3-tit26-chap1-lvlI-lvlI-lvl2-1]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 652
 
@@ -9199,13 +9239,13 @@ Il conclus da la radunanza generala sto vegnir documentà publicamain e sto indi
 
 <sup>1</sup> Las aczias vegnan suttascrittas en in document spezial (scrit da suttascripziun) tenor las reglas che valevan per la fundaziun.
 
-<sup>2</sup> Il scrit da suttascripziun sto sa referir al conclus da la radunanza generala davart l’augment u davart l’autorisaziun d’augmentar il chapital d’aczias sco er al conclus dal cussegl d’administraziun davart quest augment. Sche la lescha pretenda in prospect d’emissiun, sa referescha il scrit da suttascripziun er a quel.
+<sup>2</sup> Il scrit da suttascripziun sto sa referir al conclus da la radunanza generala davart l’augment dal chapital d’aczias ed al conclus correspundent dal cussegl d’administraziun. Sche la lescha pretenda in prospect, sa referescha il scrit da suttascripziun er a quel.[^652-2]
 
-<sup>3</sup> Sch’il scrit da suttascripziun na cuntegna betg in termin, perda el ses caracter obligant 3 mais suenter la suttascripziun.
+<sup>3</sup> …[^652-3]
 
 [^652-1]: Versiun tenor la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745).
-
-### b. ...
+[^652-2]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^652-3]: Abolì tras la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), cun effect dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 652a
 
@@ -9213,7 +9253,11 @@ Il conclus da la radunanza generala sto vegnir documentà publicamain e sto indi
 
 [^652a-1]: Integrà tras la cifra I da la LF dals 4 d’oct. 1991 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Abolì tras la cifra 1 da l’agiunta da la LF dals 15 da zer. 2018 davart ils servetschs finanziars, cun effect dapi il 1. da schan. 2020 ([AS 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
-### c. Dretg da suttascripziun
+### 3. Dretg da suttascripziun ed import d’emissiun
+
+[^part3-tit26-chap1-lvlI-lvlI-lvl3-1]
+
+[^part3-tit26-chap1-lvlI-lvlI-lvl3-1]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 652b
 
@@ -9221,13 +9265,21 @@ Il conclus da la radunanza generala sto vegnir documentà publicamain e sto indi
 
 <sup>1</sup> Mintga acziunari ha il dretg da suttascriver quella part da las aczias che vegnan emessas da nov, la quala correspunda a sia participaziun anteriura.
 
-<sup>2</sup> Il conclus da la radunanza generala davart l’augment dal chapital d’aczias dastga abolir il dretg da suttascripziun mo per motivs impurtants. Sco motivs impurtants valan en spezial la surpigliada d’interpresas, da parts d’interpresas u da participaziuns sco er la participaziun dals lavurants. Tras l’aboliziun dal dretg da suttascripziun na dastga nagin vegnir favurisà u dischavantagià en moda nungiustifitgada.
+<sup>2</sup> Il conclus da la radunanza generala davart l’augment dal chapital d’aczias dastga restrenscher u abolir il dretg da suttascripziun mo per motivs impurtants. Sco motivs impurtants valan en spezial la surpigliada d’interpresas, da parts d’interpresas u da participaziuns sco er la participaziun dals lavurants.[^652b-2]
 
 <sup>3</sup> Pervia d’ina restricziun statutara da la transferibilitad d’aczias al num na po la societad betg scumandar a l’acziunari da far diever dal dretg da suttascriver aczias ch’ella ha concedì a l’acziunari.
 
-[^652b-1]: Integrà tras la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745).
+<sup>4</sup> Tras la restricziun u tras l’aboliziun dal dretg da suttascripziun u tras la fixaziun da l’import d’emissiun na dastga nagin vegnir favurisà u dischavantagià en moda nungiustifitgada.[^652b-3]
 
-### d. Prestaziun dals apports
+[^652b-1]: Integrà tras la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745).
+[^652b-2]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^652b-3]: Integrà tras la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### 4. Prestaziun dals apports
+
+[^part3-tit26-chap1-lvlI-lvlI-lvl4-1]
+
+[^part3-tit26-chap1-lvlI-lvlI-lvl4-1]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 652c
 
@@ -9237,7 +9289,11 @@ Sche la lescha na prescriva nagut auter, ston ils apports vegnir prestads tenor 
 
 [^652c-1]: Integrà tras la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745).
 
-### e. Augment tras agen chapital
+### 5. Augment tras agen chapital
+
+[^part3-tit26-chap1-lvlI-lvlI-lvl5-1]
+
+[^part3-tit26-chap1-lvlI-lvlI-lvl5-1]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 652d
 
@@ -9245,12 +9301,24 @@ Sche la lescha na prescriva nagut auter, ston ils apports vegnir prestads tenor 
 
 <sup>1</sup> Il chapital d’aczias po vegnir augmentà er cun converter agen chapital che stat a libra disposiziun.
 
-<sup>2</sup> La cumprova che l’import d’augment saja garantì vegn furnida cun il quint annual, en la versiun approvada dals acziunaris, e cun il rapport da revisiun d’in revisur admess. Sche la bilantscha da quests quints è vegnida fatga avant passa 6 mais, è necessaria ina bilantscha intermediara controllada.[^652d-2]
+<sup>2</sup>
+
+La cumprova che l’import da l’augment saja garantì vegn furnida:
+
+- 1\. cun il quint annual en la versiun approvada da la radunanza generala e controllada d’in revisur admess; u
+- 2\. cun ina clusiun intermediara controllada d’in revisur admess, sch’i èn passads – il mument dal conclus da la radunanza generala – dapli che 6 mais dapi il di da referenza da la bilantscha.[^652d-2]
+
+<sup>3</sup> Ils statuts ston menziunar ch’il chapital è vegnì augmentà tras la conversiun d’agen chapital libramain disponibel.[^652d-3]
 
 [^652d-1]: Integrà tras la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745).
-[^652d-2]: Versiun tenor la cifra I 3 da la LF dals 16 da dec. 2005 (dretg da ScRL sco er adattaziuns en il dretg d’aczias, en il dretg d’associaziun, en il dretg dal register da commerzi ed en il dretg da firmas), en vigur dapi il 1. da schan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^652d-2]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^652d-3]: Integrà tras la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-### f. Rapport davart l’augment dal chapital
+### 6. Rapport davart l’augment dal chapital
+
+[^part3-tit26-chap1-lvlI-lvlI-lvl6-1]
+
+[^part3-tit26-chap1-lvlI-lvlI-lvl6-1]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 652e
 
@@ -9258,15 +9326,20 @@ Sche la lescha na prescriva nagut auter, ston ils apports vegnir prestads tenor 
 
 En in rapport en scrit renda il cussegl d’administraziun quint davart:
 
-- 1\. la spezia ed il stadi d’apports en natiralias u da surpigliadas da bains e l’adequatezza da la valitaziun;
+- 1\.[^652e-2] la spezia ed il stadi d’apports en natiralias e l’adequatezza da la valitaziun;
 - 2\. l’existenza e la cumpensabladad dal debit;
 - 3\. la libra disponibladad d’agen chapital convertì;
 - 4\. l’observaziun dal conclus da la radunanza generala, en spezial davart la restricziun u davart l’aboliziun dal dretg da suttascripziun e davart l’attribuziun da dretgs da suttascripziun che n’èn betg vegnids exequids u ch’èn vegnids retratgs;
 - 5\. ils motivs e l’adequatezza d’avantatgs spezials a favur da singuls acziunaris u d’autras persunas.
 
 [^652e-1]: Integrà tras la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745).
+[^652e-2]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-### g. Conferma da la controlla
+### 7. Conferma da la controlla
+
+[^part3-tit26-chap1-lvlI-lvlI-lvl7-1]
+
+[^part3-tit26-chap1-lvlI-lvlI-lvl7-1]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 652f
 
@@ -9279,7 +9352,7 @@ En in rapport en scrit renda il cussegl d’administraziun quint davart:
 [^652f-1]: Integrà tras la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745).
 [^652f-2]: Versiun tenor la cifra I 3 da la LF dals 16 da dec. 2005 (dretg da ScRL sco er adattaziuns en il dretg d’aczias, en il dretg d’associaziun, en il dretg dal register da commerzi ed en il dretg da firmas), en vigur dapi il 1. da schan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 
-### h. Midada dals statuts e constataziuns
+### 8. Midada dals statuts e constataziuns dal cussegl d’administraziun
 
 #### Art. 652g
 
@@ -9287,40 +9360,29 @@ En in rapport en scrit renda il cussegl d’administraziun quint davart:
 
 <sup>1</sup>
 
-Cur ch’il rapport davart l’augment dal chapital e – sche necessari – la conferma da controlla èn avant maun, mida il cussegl d’administraziun ils statuts e constatescha:
+Cura ch’il rapport davart l’augment dal chapital e – sche necessari – la conferma da la controlla èn avant maun, mida il cussegl d’administraziun ils statuts e constatescha:
 
 - 1\. che tut las aczias èn vegnidas suttascrittas en moda valaivla;
 - 2\. ch’ils apports empermess correspundan a l’entir import d’emissiun;
-- 3\. ch’ils apports èn vegnids prestadas confurm a las pretensiuns da la lescha, dals statuts u dal conclus da la radunanza generala;
-- 4\.[^652g-2] ch’i n’existan nagins apports en natiralias, naginas surpigliadas da bains, naginas surpigliadas da bains previsas e naginas cumpensaziuns da credits u avantatgs spezials, auter che quellas e quels numnads en ils mussaments.
+- 3\. ch’ils apports prestads adempleschan las pretensiuns da la lescha, dals statuts e dal conclus da la radunanza generala il mument da las constataziuns;
+- 4\. ch’i n’existan nagins apports en natiralias, naginas cumpensaziuns da credits u avantatgs spezials, auter che quellas e quels numnads en ils mussaments;
+- 5\. ch’ils mussaments ch’èn stads la basa per l’augment dal chapital, èn stads avant maun ad el.
 
-<sup>2</sup> Il conclus e las constataziuns ston vegnir documentads publicamain. Il funcziunari da documentaziun ha da numnar tut ils singuls mussaments ch’eran la basa per l’augment dal chapital ed ha da confermar che quels sajan stads avant maun al cussegl d’administraziun.
+<sup>2</sup> Il conclus davart la midada dals statuts e las constataziuns ston vegnir documentads publicamain. Il funcziunari da documentaziun sto numnar tut ils singuls mussaments ch’èn stads la basa per l’augment dal chapital e confermar ch’els sajan stads avant maun ad el. Ils mussaments ston vegnir agiuntads al document public.
 
-<sup>3</sup> Al document public ston vegnir agiuntads ils statuts midads, il rapport davart l’augment dal chapital, la conferma da controlla sco er ils contracts d’apports en natiralias ed ils contracts davart la surpigliada da bains ch’èn gia avant maun.
+[^652g-1]: Integrà tras la cifra I da la LF dals 4 d’oct. 1991 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-[^652g-1]: Integrà tras la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745).
-[^652g-2]: Integrà tras la cifra I 2 da la LF dals 17 da mars 2017 (dretg dal register da commerzi), en vigur dapi il 1. da schan. 2021 ([AS 2020 957](https://fedlex.data.admin.ch/eli/oc/2020/178); [BBl 2015 3617](https://fedlex.data.admin.ch/eli/fga/2015/956)).
-
-### i. Inscripziun en il register da commerzi, nunvalaivladad d’aczias emessas avant l’inscripziun
+### 9. Nunvalaivladad d’aczias emessas avant l’inscripziun
 
 #### Art. 652h
 
 [^652h-1]
 
-<sup>1</sup> Il cussegl d’administraziun annunzia la midada dals statuts e sias constataziuns al register da commerzi per laschar las inscriver.
+Las aczias che vegnan emessas avant l’inscripziun da l’augment dal chapital en il register da commerzi èn nunvalaivlas; las obligaziuns che resultan tras la suttascripziun d’aczias restan percunter intactas.
 
-<sup>2</sup>
+[^652h-1]: Integrà tras la cifra I da la LF dals 4 d’oct. 1991 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-I ston vegnir inoltrads:
-
-- 1\. ils documents publics davart ils conclus da la radunanza generala e dal cussegl d’administraziun cun las agiuntas;
-- 2\. in exemplar legalisà dals statuts midads.
-
-<sup>3</sup> Las aczias che vegnan emessas avant l’inscripziun da l’augment dal chapital èn nunvalaivlas; las obligaziuns che resultan tras la suttascripziun d’aczias restan percunter intactas.
-
-[^652h-1]: Integrà tras la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745).
-
-### II. Augment dal chapital cundiziunà
+### II. Augment tras chapital cundiziunà
 
 ### 1. Princip
 
@@ -9328,27 +9390,29 @@ I ston vegnir inoltrads:
 
 [^653-1]
 
-<sup>1</sup> La radunanza generala po concluder in augment dal chapital cundiziunà, concedind en ils statuts als crediturs da novas obligaziuns d’emprest u d’obligaziuns sumegliantas visavi la societad u vers sias societads commembras sco er als lavurants il dretg da suttascriver novas aczias (dretgs da conversiun u d’opziun).
+<sup>1</sup> La radunanza generala po concluder in chapital cundiziunà cun conceder als acziunaris, als crediturs d’obligaziuns d’emprest u d’obligaziuns sumegliantas, als lavurants, als commembers dal cussegl d’administraziun da la societad u d’ina autra societad dal concern ubain a terzas persunas il dretg d’acquistar novas aczias (dretgs da conversiun u d’opziun).
 
-<sup>2</sup> Il chapital d’aczias s’augmenta senza auter quel mument ed en quella dimensiun che quests dretgs da conversiun u d’opziun vegnan exequids e che las obligaziuns d’apport vegnan ademplidas tras ina cumpensaziun u tras in pajament.
+<sup>2</sup> Il chapital d’aczias s’augmenta senz’auter, uschespert ed uschenavant ch’ils dretgs da conversiun u d’opziun vegnan exequids e che las obligaziuns d’apport vegnan ademplidas tras pajament u tras cumpensaziun.
 
-<sup>3</sup> Resalvadas restan las prescripziuns da la Lescha da bancas dals 8 da november 1934[^653-2] davart il chapital convertibel.[^653-3]
+<sup>3</sup> Las disposiziuns davart l’augment dal chapital d’aczias tras chapital cundiziunà èn applitgablas analogamain er en cas ch’i vegnan imponidas obligaziuns da conversiun e d’acquist.
 
-[^653-1]: Versiun tenor la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745).
+<sup>4</sup> Resalvadas restan las prescripziuns da la Lescha da bancas dals 8 da november 1934[^653-2] davart il chapital convertibel.
+
+[^653-1]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 [^653-2]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^653-3]: Integrà tras la cifra 1 da l’annexa da la LF dals 30 da sett. 2011 (rinforzament da la stabilitad dal sectur da finanzas), en vigur dapi il 1. da mars 2012 ([AS 2012 811](https://fedlex.data.admin.ch/eli/oc/2012/126); [BBl 2011 4717](https://fedlex.data.admin.ch/eli/fga/2011/762)).
 
-### 2. Limits
+### 2. Limitas
 
 #### Art. 653a
 
 [^653a-1]
 
-<sup>1</sup> L’import nominal, per il qual il chapital d’aczias po vegnir augmentà, na dastga betg surpassar la mesadad dal chapital d’aczias existent.
+<sup>1</sup> L’import nominal, per il qual il chapital d’aczias po vegnir augmentà, na dastga betg surpassar la mesadad dal chapital d’aczias inscrit en il register da commerzi.[^653a-2]
 
 <sup>2</sup> L’apport prestà sto correspunder almain a la valur nominala.
 
 [^653a-1]: Integrà tras la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745).
+[^653a-2]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 3. Basa statutara
 
@@ -9360,12 +9424,13 @@ I ston vegnir inoltrads:
 
 Ils statuts ston inditgar:
 
-- 1\. l’import nominal da l’augment dal chapital cundiziunà;
+- 1\.[^653b-2] l’import nominal dal chapital cundiziunà;
 - 2\. il dumber, la valur nominala e la spezia da las aczias;
 - 3\. il circul dals possessurs d’in dretg da conversiun u d’opziun;
-- 4\. l’aboliziun dals dretgs da suttascripziun dals acziunaris vertents;
+- 4\.[^653b-3] ina restricziun u aboliziun dal dretg da suttascripziun dals acziunaris vertents, uschenavant ch’ils dretgs d’opziun na vegnan betg attribuids ad els;
 - 5\. ils privilegis da singulas categorias d’aczias;
-- 6\. la restricziun da la transferibilitad da novas aczias al num.
+- 6\. la restricziun da la transferibilitad da novas aczias al num;
+- 7\.[^653b-4] la furma da l’execuziun dals dretgs da conversiun u d’opziun e da la renunzia a quests dretgs.
 
 <sup>2</sup>
 
@@ -9374,9 +9439,13 @@ Sche las obligaziuns d’emprest u sche las obligaziuns sumegliantas che cuntegn
 - 1\. las premissas per exequir ils dretgs da conversiun u d’opziun;
 - 2\. las basas per calcular l’import d’emissiun.
 
-<sup>3</sup> Ils dretgs da conversiun u d’opziun che vegnan concedids avant che la disposiziun statutara davart l’augment dal chapital cundiziunà è vegnida inscritta en il register da commerzi, èn nunvalaivels.
+<sup>3</sup> Ils dretgs da conversiun u d’opziun che vegnan concedids avant che la disposiziun statutara davart l’augment dal chapital tras chapital cundiziunà vegn inscritta en il register da commerzi, èn nunvalaivels.[^653b-5]
 
 [^653b-1]: Integrà tras la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745).
+[^653b-2]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^653b-3]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^653b-4]: Integrà tras la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^653b-5]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 4. Protecziun dals acziunaris
 
@@ -9384,13 +9453,20 @@ Sche las obligaziuns d’emprest u sche las obligaziuns sumegliantas che cuntegn
 
 [^653c-1]
 
-<sup>1</sup> Sch’i duain – a chaschun d’in augment dal chapital cundiziunà – vegnir emessas obligaziuns d’emprest u obligaziuns sumegliantas che cuntegnan dretgs da conversiun u d’opziun, ston quellas vegnir offridas l’emprim als acziunaris per la suttascripziun, e quai en proporziun da lur participaziun anteriura.
+<sup>1</sup> Sche dretgs d’opziun vegnan concedids als acziunaris en il rom dal chapital cundiziunà, èn applitgablas analogamain las prescripziuns davart il dretg da suttascripziun en cas d’in augment ordinari dal chapital.
 
-<sup>2</sup> Quest dretg da suttascripziun preferenzial po vegnir restrenschì u abolì, sch’igl è avant maun in motiv impurtant.
+<sup>2</sup> Sch’i vegnan emessas – en il rom dal chapital cundiziunà – obligaziuns d’emprest u obligaziuns sumegliantas che cuntegnan dretgs da conversiun u d’opziun, ston questas obligaziuns vegnir offridas l’emprim als acziunaris per la suttascripziun, e quai en proporziun da lur participaziun anteriura.
 
-<sup>3</sup> Tras l’aboliziun dal dretg da suttascripziun, ch’è necessaria per in augment dal chapital cundiziunà, sco er tras ina restricziun u tras in’aboliziun dal dretg da suttascripziun preferenzial na dastga nagin vegnir favurisà u dischavantagià en moda nungiustifitgada.
+<sup>3</sup>
 
-[^653c-1]: Integrà tras la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745).
+Quest dretg da suttascripziun preferenzial po vegnir restrenschì u abolì:
+
+- 1\. sch’igl è avant maun in motiv impurtant; u
+- 2\. sche las aczias èn quotadas ad ina bursa e las obligaziuns d’emprest u las obligaziuns sumegliantas vegnan emessas sut cundiziuns commensuradas.
+
+<sup>4</sup> Tras la restricziun u tras l’aboliziun dal dretg da suttascripziun u tras il dretg da suttascripziun preferenzial na dastga nagin vegnir favurisà u dischavantagià en moda nungiustifitgada.
+
+[^653c-1]: Integrà tras la cifra I da la LF dals 4 d’oct. 1991 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 5. Protecziun dals possessurs d’in dretg da conversiun u d’opziun
 
@@ -9398,11 +9474,12 @@ Sche las obligaziuns d’emprest u sche las obligaziuns sumegliantas che cuntegn
 
 [^653d-1]
 
-<sup>1</sup> Al creditur u al lavurant che ha in dretg da conversiun u d’opziun per acquistar aczias al num na poi betg vegnir scumandà da far diever da quest dretg pervia d’ina restricziun da la transferibilitad d’aczias al num, nun che quai saja previs en ils statuts ed en il prospect d’emissiun.
+<sup>1</sup> A las persunas che han in dretg da conversiun u d’opziun na poi betg vegnir scumandà d’exequir quest dretg pervia d’ina restricziun da la transferibilitad da las aczias al num, nun che quai saja previs en ils statuts ed en il prospect.[^653d-2]
 
 <sup>2</sup> Tras l’augment dal chapital d’aczias, tras l’emissiun da novs dretgs da conversiun u d’opziun u en autra moda dastgan ils dretgs da conversiun u d’opziun vegnir restrenschids mo, sch’il pretsch da conversiun vegn sbassà, sch’i vegn concedida in’autra cumpensaziun adequata als possessurs da quests dretgs u sche la medema restricziun tutga er ils acziunaris.
 
 [^653d-1]: Integrà tras la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745).
+[^653d-2]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 6. Execuziun da l’augment dal chapital
 
@@ -9412,14 +9489,16 @@ Sche las obligaziuns d’emprest u sche las obligaziuns sumegliantas che cuntegn
 
 [^653e-1]
 
-<sup>1</sup> Ils dretgs da conversiun u d’opziun vegnan exequids tras ina decleraziun en scrit che renviescha a la disposiziun statutara davart l’augment dal chapital cundiziunà; sche la lescha pretenda in prospect d’emissiun, sa referescha la decleraziun er a quel.
+<sup>1</sup> La decleraziun davart l’execuziun dals dretgs da conversiun u d’opziun renviescha a la disposiziun statutara davart il chapital cundiziunà; sche la lescha pretenda in prospect, renviescha la decleraziun er a quel.[^653e-2]
 
-<sup>2</sup> La prestaziun da l’apport en daners u tras ina cumpensaziun sto vegnir fatga tar in institut da banca ch’è suttamess a la Lescha federala dals 8 da november 1934 [^653e-2] davart las bancas e cassas da spargn.
+<sup>2</sup> Ils apports en daners ston vegnir deponids tar ina banca tenor l’artitgel 1 alinea 1 da la Lescha da bancas dals 8 da november 1934[^653e-3] e ston star a la disposiziun exclusiva da la societad.[^653e-4]
 
 <sup>3</sup> Ils dretgs d’acziunari naschan il mument che l’obligaziun d’apport è ademplida.
 
 [^653e-1]: Integrà tras la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745).
-[^653e-2]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^653e-2]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^653e-3]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^653e-4]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### b. Conferma da la controlla
 
@@ -9427,34 +9506,38 @@ Sche las obligaziuns d’emprest u sche las obligaziuns sumegliantas che cuntegn
 
 [^653f-1]
 
-<sup>1</sup> A la fin da mintga onn da gestiun, e sin dumonda dal cussegl d’administraziun gia avant, controllescha in expert da revisiun admess, sche las novas aczias sajan vegnidas emessas confurm a la lescha, confurm als statuts e – sch’in tal è necessari – confurm al prospect d’emissiun.[^653f-2]
+<sup>1</sup> A la fin da mintga onn da gestiun controllescha in expert da revisiun admess, sche las novas aczias èn vegnidas emessas confurm a la lescha, confurm als statuts ed eventualmain confurm al prospect. El conferma il resultat en scrit.
 
-<sup>2</sup> El conferma quai en scrit.
+<sup>2</sup> Il cussegl d’administraziun po ordinar che questa controlla vegnia fatga pli baud.
 
-[^653f-1]: Integrà tras la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745).
-[^653f-2]: Versiun tenor la cifra I 3 da la LF dals 16 da dec. 2005 (dretg da ScRL sco er adattaziuns en il dretg d’aczias, en il dretg d’associaziun, en il dretg dal register da commerzi ed en il dretg da firmas), en vigur dapi il 1. da schan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^653f-1]: Integrà tras la cifra I da la LF dals 4 d’oct. 1991 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-### c. Adattaziun dals statuts
+### c. Midada dals statuts e constataziuns dal cussegl d’administraziun
 
 #### Art. 653g
 
 [^653g-1]
 
-<sup>1</sup> Suenter che la conferma da controlla è entrada, constatescha il cussegl d’administraziun cun ina documentaziun publica il dumber, la valur nominala e la spezia da las aczias ch’èn vegnidas emessas da nov, e plinavant ils privilegis da singulas categorias ed il stadi dal chapital d’aczias a la fin da l’onn da gestiun u il mument da la controlla. El fa las adattaziuns necessarias dals statuts.
+<sup>1</sup>
 
-<sup>2</sup> En il document public constatescha il funcziunari da documentaziun che la conferma da controlla cuntegnia las indicaziuns pretendidas.
+Suenter che la conferma da la controlla è entrada, mida il cussegl d’administraziun ils statuts e constatescha:
 
-[^653g-1]: Integrà tras la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745).
+- 1\. il dumber, la valur nominala e la spezia da las aczias emessas da nov;
+- 2\. eventualmain ils privilegis ch’èn colliads cun singulas categorias d’aczias;
+- 3\. il stadi dal chapital d’aczias e dal chapital cundiziunà a la fin da l’onn da gestiun u il mument da la controlla;
+- 4\. ch’ils mussaments ch’èn stads la basa per l’augment dal chapital, èn stads avant maun ad el.
 
-### d. Inscripziun en il register da commerzi
+<sup>2</sup> Sch’ils statuts cuntegnan ina marscha da chapital, adatta il cussegl d’administraziun – en il rom da la midada dals statuts – la limita superiura ed inferiura da la marscha da chapital confurm a la dimensiun da l’augment dal chapital, nun ch’il chapital vegnia augmentà sin basa d’ina autorisaziun dal cussegl d’administraziun d’auzar il chapital tras chapital cundiziunà.
+
+<sup>3</sup> Il conclus davart la midada dals statuts e las constataziuns ston vegnir documentads publicamain. Il funcziunari da documentaziun sto numnar tut ils singuls mussaments ch’èn stads la basa per l’augment dal chapital e confermar ch’els sajan stads avant maun ad el. Ils mussaments ston vegnir agiuntads al document public.
+
+[^653g-1]: Integrà tras la cifra I da la LF dals 4 d’oct. 1991 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 653h
 
 [^653h-1]
 
-Il pli tard 3 mais suenter la fin da l’onn da gestiun annunzia il cussegl d’administraziun la midada dals statuts al register da commerzi, ed inoltrescha il document public e la conferma da controlla.
-
-[^653h-1]: Integrà tras la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745).
+[^653h-1]: Integrà tras la cifra I da la LF dals 4 d’oct. 1991 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Abolì tras la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), cun effect dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 7. Stritgada
 
@@ -9462,19 +9545,222 @@ Il pli tard 3 mais suenter la fin da l’onn da gestiun annunzia il cussegl d’
 
 [^653i-1]
 
-<sup>1</sup> Sch’ils dretgs da conversiun u d’opziun èn extinguids e sche quai vegn confermà en il rapport da controlla d’in expert da revisiun admess, abolescha il cussegl d’administraziun las disposiziuns statutaras davart l’augment dal chapital cundiziunà.
+<sup>1</sup>
 
-<sup>2</sup> En il document public constatescha il funcziunari da documentaziun ch’il rapport da controlla cuntegnia las indicaziuns pretendidas.
+Il cussegl d’administraziun po abolir u adattar la disposiziun statutara davart il chapital cundiziunà, sche:
 
-[^653i-1]: Integrà tras la cifra I da la LF dals 4 d’oct. 1991 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Versiun tenor la cifra I 3 da la LF dals 16 da dec. 2005 (dretg da ScRL sco er adattaziuns en il dretg d’aczias, en il dretg d’associaziun, en il dretg dal register da commerzi ed en il dretg da firmas), en vigur dapi il 1. da schan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+- 1\. ils dretgs da conversiun u d’opziun èn extinguids;
+- 2\. nagins dretgs da conversiun u d’opziun n’èn vegnids concedids; u
+- 3\. tuts u ina part dals possessurs dals dretgs da conversiun u d’opziun han renunzià a l’execuziun da quests dretgs concedids ad els.
 
-### III. Aczias privilegiadas
+<sup>2</sup> Ils statuts dastgan mo vegnir midads, sch’in expert da revisiun admess ha confermà quests fatgs en scrit.
+
+[^653i-1]: Integrà tras la cifra I da la LF dals 4 d’oct. 1991 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### III. Reducziun dal chapital d’aczias
+
+### 1. Reducziun ordinaria dal chapital
+
+### a. Princips
+
+#### Art. 653j
+
+[^653j-1]
+
+<sup>1</sup> La radunanza generala concluda la reducziun dal chapital d’aczias. Il cussegl d’administraziun prepara ed exequescha la reducziun.
+
+<sup>2</sup> Il chapital po vegnir reducì tras ina reducziun da la valur nominala u tras la destrucziun d’aczias.
+
+<sup>3</sup> Il chapital d’aczias dastga mo vegnir reducì sut 100 000 francs, sch’el vegn a medem temp puspè augmentà almain fin a quest import. Sch’il chapital d’aczias è fixà en ina valuta estra, sto el vegnir remplazzà tras in chapital d’ina cuntravalur d’almain 100 000 francs.
+
+<sup>4</sup> L’inscripziun da la reducziun dal chapital d’aczias sto vegnir annunziada a l’uffizi dal register da commerzi entaifer 6 mais suenter il conclus da la radunanza generala; cas cuntrari scada il conclus.
+
+[^653j-1]: Integrà tras la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### b. Garanzia da las pretensiuns
+
+#### Art. 653k
+
+[^653k-1]
+
+<sup>1</sup> Sch’il chapital d’aczias duai vegnir reducì, renda il cussegl d’administraziun attent ils crediturs ch’els pon pretender garanzias, sch’els annunzian lur pretensiuns. L’avis sto vegnir publitgà en il Fegl uffizial svizzer da commerzi. Las pretensiuns ston vegnir annunziadas en scrit, cun inditgar lur import e lur motiv giuridic.
+
+<sup>2</sup> La societad sto garantir las pretensiuns dals crediturs en la dimensiun che la garanzia vertenta vegn diminuida tras la reducziun dal chapital, sch’ils crediturs pretendan quai entaifer 30 dis dapi la publicaziun en il Fegl uffizial svizzer da commerzi.
+
+<sup>3</sup> L’obligaziun da garanzia scroda, sche la societad ademplescha la pretensiun u sch’ella cumprova che l’adempliment da la pretensiun na vegn betg periclità tras la reducziun dal chapital d’aczias. Sch’ina conferma da la controlla è avant maun, vegni supponì che l’adempliment da la pretensiun na vegnia betg periclità.
+
+[^653k-1]: Integrà tras la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### c. Clusiun intermediara
+
+#### Art. 653l
+
+[^653l-1]
+
+Sch’i èn passads – il mument che la radunanza generala concluda da reducir il chapital d’aczias – dapli che 6 mais dapi il di da referenza da la bilantscha, sto la societad far ina clusiun intermediara.
+
+[^653l-1]: Integrà tras la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### d. Conferma da la controlla
+
+#### Art. 653m
+
+[^653m-1]
+
+<sup>1</sup> In expert da revisiun admess sto confermar en scrit, sin basa da la clusiun e sin basa dal resultat dal clom da quints, che las pretensiuns dals crediturs èn garantidas cumplainamain, malgrà la reducziun dal chapital d’aczias.
+
+<sup>2</sup> Sche la conferma da la controlla è gia avant maun il mument che la radunanza generala prenda il conclus, infurmescha il cussegl d’administraziun davart il resultat. L’expert da revisiun admess sto esser preschent a la radunanza generala, nun che tala haja concludì unanimamain da desister da sia preschientscha.
+
+[^653m-1]: Integrà tras la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### e. Conclus da la radunanza generala
+
+#### Art. 653n
+
+[^653n-1]
+
+Il conclus da la radunanza generala davart la reducziun dal chapital d’aczias sto vegnir documentà publicamain e sto cuntegnair las suandantas indicaziuns:
+
+- 1\. l’import nominal u eventualmain l’import nominal maximal, per il qual il chapital d’aczias vegn reducì;
+- 2\. la moda e maniera da la reducziun dal chapital, en spezial l’indicaziun, sch’il chapital vegn diminuì tras ina reducziun da la valur nominala u tras la destrucziun d’aczias;
+- 3\. l’utilisaziun da l’import da la reducziun dal chapital.
+
+[^653n-1]: Integrà tras la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### f. Midada dals statuts e constataziuns dal cussegl d’administraziu; inscripziun en il register da commerzi
+
+#### Art. 653o
+
+[^653o-1]
+
+<sup>1</sup> Sche tut las premissas per reducir il chapital d’aczias èn ademplidas, mida il cussegl d’administraziun ils statuts e constatescha che las pretensiuns da la lescha, dals statuts e dal conclus da la radunanza generala èn ademplidas il mument da las constataziuns e ch’ils mussaments ch’èn stads la basa per la reducziun dal chapital, èn stads avant maun ad el.
+
+<sup>2</sup> Il conclus davart la midada dals statuts e las constataziuns dal cussegl d’administraziun ston vegnir documentads publicamain. Il funcziunari da documentaziun sto numnar tut ils singuls mussaments ch’èn stads la basa per la reducziun dal chapital e confermar ch’els sajan stads avant maun ad el. Ils mussaments ston vegnir agiuntads al document public.
+
+<sup>3</sup> Ils meds finanzials disponibels en consequenza da la reducziun dal chapital dastgan vegnir pajads als acziunaris pir suenter l’inscripziun da la reducziun dal chapital en il register da commerzi.
+
+[^653o-1]: Integrà tras la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### 2. Reducziun dal chapital en cas d’ina bilantscha deficitara
+
+#### Art. 653p
+
+[^653p-1]
+
+<sup>1</sup> Sch’il chapital d’aczias vegn reducì per eliminar per part u dal tuttafatg ina bilantscha deficitara resultada tras perditas, e sch’in expert da revisiun admess conferma per mauns da la radunanza generala che l’import da la reducziun dal chapital na surpassa betg l’import da questa bilantscha deficitara, n’èn las disposiziuns davart la reducziun ordinaria dal chapital concernent la garanzia da las pretensiuns, concernent la clusiun intermediara, concernent la conferma da la controlla e concernent las constataziuns dal cussegl d’administraziun betg applitgablas.
+
+<sup>2</sup> Il conclus da la radunanza generala cuntegna las indicaziuns tenor l’artitgel 653*n*. El sa referescha al resultat dal rapport da controlla e mida ils statuts.
+
+[^653p-1]: Integrà tras la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### 3. Reducziun ed augment dal chapital d’aczias a medem temp
+
+### a. Princip
+
+#### Art. 653q
+
+[^653q-1]
+
+<sup>1</sup> Sch’il chapital d’aczias vegn reducì ed auzà a medem temp almain fin a l’import vertent e sche l’import dals apports prestads na vegn betg reducì, n’èn las disposiziuns davart la reducziun dal chapital concernent la garanzia da las pretensiuns, concernent la clusiun intermediara, concernent la conferma da la controlla e concernent las constataziuns dal cussegl d’administraziun betg applitgablas.
+
+<sup>2</sup> Las disposiziuns davart l’augment ordinari dal chapital vegnan percunter applitgadas analogamain.
+
+<sup>3</sup> Il cussegl d’administraziun na sto betg adattar ils statuts, sch’il dumber e la valur nominala da las aczias sco er l’import dals apports prestads per talas na vegnan betg midads.
+
+[^653q-1]: Integrà tras la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### b. Destrucziun d’aczias
+
+#### Art. 653r
+
+[^653r-1]
+
+<sup>1</sup> Sch’il chapital d’aczias vegn reducì a nulla ed a medem temp puspè augmentà per intents da sanaziun, van ils dretgs da commembranza dals acziunaris anteriurs a perder tras la reducziun. Las aczias emessas ston vegnir destruidas.
+
+<sup>2</sup> Cura ch’il chapital d’aczias vegn puspè augmentà, han ils acziunaris anteriurs in dretg da suttascripziun che na po betg vegnir retratg dad els.
+
+[^653r-1]: Integrà tras la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### IV. Marscha da chapital
+
+### 1. Autorisaziun
+
+#### Art. 653s
+
+[^653s-1]
+
+<sup>1</sup> Ils statuts pon autorisar il cussegl d’administraziun da midar il chapital d’aczias, durant maximalmain 5 onns, entaifer tschertas limitas (marscha da chapital). Els fixeschan, entaifer tge limitas ch’il cussegl d’administraziun dastga auzar e reducir il chapital d’aczias.
+
+<sup>2</sup> La limita superiura da la marscha da chapital dastga esser maximalmain per la mesadad pli auta ch’il chapital d’aczias inscrit en il register da commerzi. La limita inferiura da la marscha da chapital dastga esser maximalmain per la mesadad pli bassa ch’il chapital d’aczias inscrit en il register da commerzi.
+
+<sup>3</sup> Ils statuts pon restrenscher las cumpetenzas dal cussegl d’administraziun. En spezial pon els prevair ch’il cussegl d’administraziun po unicamain auzar u unicamain reducir il chapital d’aczias.
+
+<sup>4</sup> Ils statuts dastgan mo autorisar il cussegl d’administraziun da reducir il chapital d’aczias, sche la societad n’ha betg desistì da la revisiun limitada dal quint annual.
+
+[^653s-1]: Integrà tras la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### 2. Basas statutaras
+
+#### Art. 653t
+
+[^653t-1]
+
+<sup>1</sup>
+
+Sch’i vegn introducì ina marscha da chapital, ston ils statuts inditgar il suandant:
+
+- 1\. la limita superiura ed inferiura da la marscha da chapital;
+- 2\. la data da scadenza da l’autorisaziun dal cussegl d’administraziun da midar il chapital d’aczias;
+- 3\. restricziuns, pretensiuns e cundiziuns da l’autorisaziun;
+- 4\. il dumber, la valur nominala e la spezia da las aczias sco er ils privilegis da singulas categorias d’aczias u da certificats da participaziun;
+- 5\. il cuntegn e la valur dals avantatgs spezials sco er ils nums da las persunas favurisadas;
+- 6\. restricziuns da la transferibilitad da novas aczias al num;
+- 7\. la restricziun u l’aboliziun dal dretg da suttascripziun respectivamain ils motivs impurtants, per ils quals il cussegl d’administraziun po restrenscher u abolir il dretg da suttascripziun, sco er l’attribuziun da dretgs da suttascripziun betg exequids u retratgs;
+- 8\. las premissas per exequir ils dretgs da suttascripziun ch’èn vegnids acquistads tras contract;
+- 9\. l’autorisaziun dal cussegl d’administraziun d’auzar il chapital d’aczias tras chapital cundiziunà e las indicaziuns tenor l’artitgel 653*b*;
+- 10\. l’autorisaziun dal cussegl d’administraziun da stgaffir in chapital da participaziun.
+
+<sup>2</sup> Suenter la scadenza da la perioda previsa per l’autorisaziun stritga il cussegl d’administraziun las disposiziuns davart la marscha da chapital or dals statuts.
+
+[^653t-1]: Integrà tras la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### 3. Augment e reducziun dal chapital d’aczias entaifer la marscha da chapital
+
+#### Art. 653u
+
+[^653u-1]
+
+<sup>1</sup> En il rom da sia autorisaziun po il cussegl d’administraziun auzar e reducir il chapital d’aczias.
+
+<sup>2</sup> Sch’il cussegl d’administraziun concluda d’auzar u da reducir il chapital d’aczias, decretescha el las disposiziuns necessarias, uschenavant che quellas n’èn betg cuntegnidas en il conclus d’autorisaziun da la radunanza generala.
+
+<sup>3</sup> Sch’il chapital d’aczias vegn reducì entaifer la marscha da chapital, èn applitgablas analogamain las disposiziuns concernent la garanzia da las pretensiuns, concernent la clusiun intermediara e concernent la conferma da la controlla en cas d’ina reducziun ordinaria dal chapital.
+
+<sup>4</sup> Suenter mintga augment u reducziun dal chapital d’aczias fa il cussegl d’administraziun las constataziuns necessarias e mida ils statuts. Il conclus davart la midada dals statuts e las constataziuns dal cussegl d’administraziun ston vegnir documentads publicamain.
+
+<sup>5</sup> Dal rest valan analogamain las prescripziuns davart l’augment ordinari dal chapital respectivamain davart l’augment dal chapital tras chapital cundiziunà e davart la reducziun dal chapital.
+
+[^653u-1]: Integrà tras la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### 4. Augment u reducziun dal chapital d’aczias tras la radunanza generala
+
+#### Art. 653v
+
+[^653v-1]
+
+<sup>1</sup> Sche la radunanza generala concluda durant il temp che l’autorisaziun dal cussegl d’administraziun è en vigur, d’auzar u da reducir il chapital d’aczias u da midar la valuta dal chapital d’aczias, scroda il conclus davart la marscha da chapital. Ils statuts ston vegnir adattads correspundentamain.
+
+<sup>2</sup> Sche la radunanza generala concluda in chapital cundiziunà, s’augmentan la limita superiura e la limita inferiura da la marscha da chapital tut tenor la dimensiun da l’augment dal chapital d’aczias. Empè da quai po la radunanza generala concluder posteriuramain, en il rom da la marscha da chapital existenta, d’autorisar il cussegl d’administraziun d’auzar il chapital tras chapital cundiziunà.
+
+[^653v-1]: Integrà tras la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### V. Aczias privilegiadas
 
 ### 1. Premissas
 
-[^part3-tit26-chap1-lvlK-lvlIII-lvl1-1]
+[^part3-tit26-chap1-lvlI-lvlV-lvl1-1]
 
-[^part3-tit26-chap1-lvlK-lvlIII-lvl1-1]: Versiun tenor la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745).
+[^part3-tit26-chap1-lvlI-lvlV-lvl1-1]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 654
 
@@ -9492,9 +9778,9 @@ Il pli tard 3 mais suenter la fin da l’onn da gestiun annunzia il cussegl d’
 
 ### 2. Posiziun da las aczias privilegiadas
 
-[^part3-tit26-chap1-lvlK-lvlIII-lvl2-1]
+[^part3-tit26-chap1-lvlI-lvlV-lvl2-1]
 
-[^part3-tit26-chap1-lvlK-lvlIII-lvl2-1]: Versiun tenor la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745).
+[^part3-tit26-chap1-lvlI-lvlV-lvl2-1]: Versiun tenor la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745).
 
 #### Art. 656
 
@@ -9502,21 +9788,39 @@ Il pli tard 3 mais suenter la fin da l’onn da gestiun annunzia il cussegl d’
 
 <sup>2</sup> Ils privilegis pon s’extender en spezial sin la dividenda cun u senza dretg da survegnir dividendas supplementaras, sin la quota da la liquidaziun e sin ils dretgs da suttascripziun en cas ch’i vegnan emessas novas aczias.
 
-### L. Certificats da participaziun
+### J. Certificats da participaziun
 
 ### I. Noziun; prescripziuns applitgablas
+
+[^part3-tit26-chap1-lvlJ-lvlI-1]
+
+[^part3-tit26-chap1-lvlJ-lvlI-1]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 656a
 
 [^656a-1]
 
-<sup>1</sup> Ils statuts pon prevair in chapital da participaziun ch’è dividì en summas parzialas (certificats da participaziun). Quests certificats da participaziun vegnan emess cunter in apport; els han ina valur nominala e na dattan betg il dretg da votar.
+<sup>1</sup> Ils statuts pon prevair in chapital da participaziun ch’è dividì en summas parzialas (certificats da participaziun). Ils certificats da participaziun ston avair la medema valuta sco il chapital d’aczias. Els vegnan emess cunter in apport, han ina valur nominala e na concedan nagin dretg da votar.[^656a-2]
 
 <sup>2</sup> Uschenavant che la lescha na prevesa nagut auter, valan las disposiziuns davart il chapital d’aczias, davart l’aczia e davart l’acziunari er per il chapital da participaziun, per il certificat da participaziun e per il participant.
 
 <sup>3</sup> Ils certificats da participaziun ston vegnir designads sco tals.
 
+<sup>4</sup>
+
+Chapital da participaziun po vegnir stgaffì:
+
+- 1\. il mument da la fundaziun;
+- 2\. tras in augment ordinari dal chapital;
+- 3\. tras in augment dal chapital tras chapital cundiziunà;
+- 4\. entaifer la marscha da chapital.[^656a-3]
+
+<sup>5</sup> Per converter aczias en certificats da participaziun dovri il consentiment da tut ils acziunaris pertutgads.[^656a-4]
+
 [^656a-1]: Integrà tras la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745).
+[^656a-2]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^656a-3]: Integrà tras la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^656a-4]: Integrà tras la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### II. Chapital da participaziun e chapital d’aczias
 
@@ -9524,17 +9828,43 @@ Il pli tard 3 mais suenter la fin da l’onn da gestiun annunzia il cussegl d’
 
 [^656b-1]
 
-<sup>1</sup> Il chapital da participaziun na dastga betg surpassar il dubel dal chapital d’aczias.
+<sup>1</sup> La cumpart dal chapital da participaziun che sa cumpona da certificats da participaziun, ils quals èn quotads ad ina bursa, na dastga betg esser pli che diesch giadas pli gronda ch’il chapital d’aczias inscrit en il register da commerzi. L’ulteriura part dal chapital da participaziun na dastga betg esser pli che duas giadas pli gronda ch’il chapital d’aczias inscrit en il register da commerzi.
 
-<sup>2</sup> Las disposiziuns davart il chapital minimal e davart l’apport total minimal n’èn betg applitgablas.
+<sup>2</sup> Las disposiziuns davart il chapital minimal n’èn betg applitgablas.
 
-<sup>3</sup> En las disposiziuns davart las restricziuns da l’acquist d’atgnas aczias, davart la reserva generala, davart l’introducziun d’ina controlla speziala cunter la voluntad da la radunanza generala e davart l’obligaziun d’annunzia en cas da perdita da chapital sto il chapital da participaziun vegnir agiuntà al chapital d’aczias.
+<sup>3</sup>
 
-<sup>4</sup> In augment approvà u in augment cundiziunà dal chapital d’aczias e dal chapital da participaziun na dastga tut en tut betg surpassar la mesadad da la summa dal chapital d’aczias e dal chapital da participaziun existent.
+Il chapital da participaziun sto vegnir agiuntà al chapital d’aczias, sch’i sa tracta:
 
-<sup>5</sup> Il chapital da participaziun po vegnir creà tras la procedura da l’augment dal chapital approvà u dal chapital cundiziunà.
+- 1\. da furmar la reserva legala dal gudogn;
+- 2\. d’utilisar las reservas legalas dal chapital e dal gudogn;
+- 3\. da giuditgar, sch’igl è avant maun ina bilantscha deficitara u ina perdita da chapital;
+- 4\. da limitar la dimensiun d’in augment dal chapital tras chapital cundiziunà;
+- 5\. da fixar la limita inferiura e superiura d’ina marscha da chapital.
 
-[^656b-1]: Integrà tras la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745).
+<sup>4</sup>
+
+Las valurs da sava ston vegnir calculadas separadamain per ils acziunaris e per ils participants, sch’i sa tracta:
+
+- 1\. d’introducir in’examinaziun speziala en cas che la radunanza generala refusa ina dumonda correspundenta;
+- 2\. da dissolver la societad tras la sentenzia d’ina dretgira;
+- 3\. d’annunziar la persuna che ha il dretg economic tenor l’artitgel 697*j*.
+
+<sup>5</sup>
+
+Las valurs da sava vegnan calculadas:
+
+- 1\. sin basa da las aczias emessas per acquistar atgnas aczias;
+- 2\. sin basa dals certificats da participaziun emess per acquistar agens certificats da participaziun.
+
+<sup>6</sup>
+
+Las valurs da sava ston vegnir calculadas exclusivamain sin basa dal chapital d’aczias, sch’i sa tracta:
+
+- 1\. dal dretg da convocar la radunanza generala;
+- 2\. dal dretg da tractandaziun ed il dretg da far propostas.
+
+[^656b-1]: Integrà tras la cifra I da la LF dals 4 d’oct. 1991 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### III. Posiziun giuridica dal participant
 
@@ -9546,13 +9876,19 @@ Il pli tard 3 mais suenter la fin da l’onn da gestiun annunzia il cussegl d’
 
 <sup>1</sup> Il participant n’ha betg il dretg da votar ed – uschenavant ch’ils statuts na disponan betg autramain – nagins dretgs che stattan en connex cun il dretg da votar.
 
-<sup>2</sup> Sco dretgs che stattan en connex cun il dretg da votar valan il dretg da convocar ina radunanza generala, il dretg da sa participar ad ina radunanza generala, il dretg da survegnir infurmaziuns, il dretg da prender invista da documents ed il dretg da far propostas.
+<sup>2</sup> Sco dretgs che stattan en connex cun il dretg da votar valan il dretg da convocar ina radunanza generala, il dretg da sa participar ad ina radunanza generala, il dretg da survegnir infurmaziuns, il dretg da prender invista da documents, il dretg da tractandaziun ed il dretg da far propostas.[^656c-2]
 
-<sup>3</sup> Sch’ils statuts na concedan betg ad el il dretg da survegnir infurmaziuns, da prender invista da documents u da far propostas (art. 697*a* ss.), po il participant far ina dumonda en scrit per mauns da la radunanza generala cun l’intent da survegnir infurmaziuns, da prender invista da documents u d’introducir ina controlla speziala.
+<sup>3</sup> Sut las medemas premissas sco l’acziunari ha il participant in dretg d’introducir in’examinaziun speziala. Sch’ils statuts na concedan nagins ulteriurs dretgs, po il participant far ina dumonda en scrit per mauns da la radunanza generala per survegnir infurmaziuns, per pudair prender invista da documents u per introducir in’examinaziun speziala.[^656c-3]
 
 [^656c-1]: Integrà tras la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745).
+[^656c-2]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^656c-3]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-### 2. Communicaziun da la convocaziun e dals conclus da la radunanza generala
+### 2. Communicaziun da la convocaziun ed infurmaziun davart ils conclus da la radunanza generala
+
+[^part3-tit26-chap1-lvlJ-lvlIII-lvl2-1]
+
+[^part3-tit26-chap1-lvlJ-lvlIII-lvl2-1]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 656d
 
@@ -9560,9 +9896,10 @@ Il pli tard 3 mais suenter la fin da l’onn da gestiun annunzia il cussegl d’
 
 <sup>1</sup> Al participant ston vegnir communitgadas la convocaziun da la radunanza generala sco er la glista da tractandas e las propostas.
 
-<sup>2</sup> Tut ils conclus da la radunanza generala ston vegnir exponids immediatamain a la sedia da la societad ed en las filialas ch’èn inscrittas en il register da commerzi, per ch’ils participants possian prender invista da tals. En la communicaziun ston ils participants vegnir rendids attents a questa exposiziun.
+<sup>2</sup> Mintga participant po pretender ch’il protocol al vegnia mess a disposiziun entaifer 30 dis suenter la radunanza generala.[^656d-2]
 
 [^656d-1]: Integrà tras la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745).
+[^656d-2]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 3. Represchentanza en il cussegl d’administraziun
 
@@ -9606,7 +9943,11 @@ Ils statuts pon conceder als participants il dretg d’avair in represchentant e
 
 [^656g-1]: Integrà tras la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745).
 
-### M. Certificats da giudida
+### K. Certificats da giudida
+
+[^part3-tit26-chap1-lvlK-1]
+
+[^part3-tit26-chap1-lvlK-1]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 657
 
@@ -9630,19 +9971,21 @@ Ils statuts pon conceder als participants il dretg d’avair in represchentant e
 
 [^658-1]: Abolì tras la cifra I da la LF dals 4 d’oct. 1991, cun effect dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 
-### N. Atgnas aczias
+### L. Atgnas aczias
 
-### I. Restricziun da l’acquist
+### I. Premissas e restricziuns da l’acquist
 
 #### Art. 659
 
 [^659-1]
 
-<sup>1</sup> La societad dastga acquistar atgnas aczias mo, sch’igl è avant maun tant agen chapital a libra disposiziun sco quai ch’i vegn duvrà per l’acquist e sche la valur nominala da tut questas aczias na surpassa betg 10 pertschient dal chapital d’aczias.
+<sup>1</sup> La societad dastga acquistar atgnas aczias mo, sch’igl è avant maun agen chapital libramain disponibel en l’autezza da la valur d’acquisiziun.
 
-<sup>2</sup> Sch’ella acquista aczias al num en connex cun ina restricziun da la transferibilitad, importa il limit maximal 20 pertschient. Las atgnas aczias ch’èn vegnidas acquistadas sur il limit da 10 pertschient dal chapital d’aczias, ston vegnir alienadas u annulladas tras ina reducziun dal chapital entaifer 2 onns.
+<sup>2</sup> L’acquist d’atgnas aczias è limità a 10 pertschient dal chapital d’aczias inscrit en il register da commerzi.
 
-[^659-1]: Versiun tenor la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745).
+<sup>3</sup> Sche l’acquist stat en connex cun ina restricziun da la transferibilitad u cun in plant da dissoluziun, importa la limita maximala 20 pertschient. Las aczias acquistadas sur la limita da 10 pertschient ston vegnir alienadas u vegnir destruidas tras ina reducziun dal chapital entaifer 2 onns.
+
+[^659-1]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### II. Consequenzas da l’acquist
 
@@ -9650,25 +9993,27 @@ Ils statuts pon conceder als participants il dretg d’avair in represchentant e
 
 [^659a-1]
 
-<sup>1</sup> Il dretg da votar da las atgnas aczias ed ils dretgs ch’èn colliads cun quellas èn suspendids.
+<sup>1</sup> Sch’ina societad acquista atgnas aczias, èn suspendids – per questas aczias – il dretg da votar ed ils dretgs ch’èn colliads cun tal.
 
-<sup>2</sup> Per las atgnas aczias ha la societad da constituir ina reserva separada d’in import che correspunda a la valur d’acquisiziun da questas aczias.
+<sup>2</sup> Il dretg da votar ed ils dretgs ch’èn colliads cun tal èn er suspendids, sche la societad transferescha atgnas aczias e fixescha da prender enavos u da restituir aczias correspundentas.
 
-[^659a-1]: Integrà tras la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745).
+<sup>3</sup> Sch’il dretg da votar vegn exequì, cumbain ch’el è suspendì, vegnan applitgadas las disposiziuns davart la participaziun nunautorisada a la radunanza generala (art. 691).
 
-### III. Acquist tras filialas
+<sup>4</sup> En la bilantscha sto la societad preschentar, sco post negativ da l’agen chapital (art. 959*a* al. 2 cifra 3 lit. e), in import che correspunda a la valur d’acquisiziun da las atgnas aczias.
+
+[^659a-1]: Integrà tras la cifra I da la LF dals 4 d’oct. 1991 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### III. Atgnas aczias entaifer il concern
 
 #### Art. 659b
 
 [^659b-1]
 
-<sup>1</sup> Sch’ina societad è participada cun ina maioritad vi da filialas, valan – per l’acquist da sias aczias tras questas filialas – las medemas restricziuns e consequenzas sco per l’acquist d’atgnas aczias.
+<sup>1</sup> Sch’ina societad controllescha ina u pliras interpresas (art. 963), valan analogamain las premissas, las restricziuns e las consequenzas per l’acquist d’atgnas aczias, sche questas interpresas acquistan sias aczias.
 
-<sup>2</sup> Sch’ina societad acquista ina participaziun da maioritad vi d’ina autra societad, che tegna da sia vart aczias da l’acquistadra, valan questas aczias sco atgnas aczias da l’acquistadra.
+<sup>2</sup> Per las aczias tenor l’alinea 1 sto la societad controllanta constituir separadamain ina reserva legala dal gudogn d’in import che correspunda a la valur d’acquisiziun da questas aczias.
 
-<sup>3</sup> L’obligaziun da constituir reservas è chaussa da la societad che ha la participaziun da maioritad.
-
-[^659b-1]: Integrà tras la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745).
+[^659b-1]: Integrà tras la cifra I da la LF dals 4 d’oct. 1991 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### Segund chapitel: Dretgs ed obligaziuns dals acziunaris
 
@@ -9718,83 +10063,17 @@ Las quotas dal gudogn e dal retgav da la liquidaziun ston vegnir calculadas en l
 
 [^663a663b-1]: Integrà tras la cifra I da la LF dals 4 d’oct. 1991 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Abolì tras la cifra I 1 da la LF dals 23 da dec. 2011 (dretg da rendaquint), cun effect dapi il 1. da schan. 2013 ([AS 2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810); [BBl 2008 1589](https://fedlex.data.admin.ch/eli/fga/2008/416)).
 
-### B. Rapport da gestiun
-
-[^part3-tit26-chap2-lvlB-1]
-
-[^part3-tit26-chap2-lvlB-1]: Versiun tenor la cifra I 1 da la LF dals 23 da dec. 2011 (dretg da rendaquint), en vigur dapi il 1. da schan. 2013 ([AS 2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810); [BBl 2008 1589](https://fedlex.data.admin.ch/eli/fga/2008/416)).
-
-### I. Indicaziuns supplementaras per las societads cun aczias quotadas a la bursa
-
-### 1. Indemnisaziuns
-
 #### Art. 663b<sup>bis</sup>
 
 [^663bbis-1]
 
-<sup>1</sup>
-
-Las societads cun aczias ch’èn quotadas ad ina bursa han d’inditgar en l’agiunta da la bilantscha:
-
-- 1\. tut las indemnisaziuns ch’ellas han pajà directamain u indirectamain a commembers actuals dal cussegl d’administraziun;
-- 2\. tut las indemnisaziuns ch’ellas han pajà directamain u indirectamain a persunas, a las qualas il cussegl d’administraziun ha delegà dal tuttafatg u per part la gestiun da la societad (direcziun);
-- 3\. tut las indemnisaziuns ch’ellas han pajà directamain u indirectamain a commembers actuals dal cussegl consultativ;
-- 4\. las indemnisaziuns ch’ellas han pajà directamain u indirectamain a commembers anteriurs dal cussegl d’administraziun, da la direcziun e dal cussegl consultativ, sche questas indemnisaziuns stattan en connex cun l’activitad anteriura sco organ da la societad u n’èn betg usitadas sin il martgà;
-- 5\. indemnisaziuns che n’èn betg usitadas sin il martgà e ch’ellas han pajà directamain u indirectamain a persunas che stattan en ina stretga relaziun cun las persunas che vegnan numnadas en las cifras 1 fin 4.
-
-<sup>2</sup>
-
-Sco indemnisaziuns valan en spezial:
-
-- 1\. onuraris, salaris e bunificaziuns;
-- 2\. tantiemas, participaziuns a la svieuta ed autras participaziuns al resultat da la fatschenta;
-- 3\. prestaziuns materialas;
-- 4\. l’attribuziun da participaziuns, da dretgs da conversiun e d’opziun;
-- 5\. indemnisaziuns da partenza;
-- 6\. garanzias, obligaziuns da garanzia, constituziuns da pegns a favur da terzas persunas ed autras segirezzas;
-- 7\. la renunzia a pretensiuns;
-- 8\. expensas che constitueschan u augmentan ils dretgs da survegnir prestaziuns da prevenziun;
-- 9\. tut las prestaziuns per lavurs supplementaras.
-
-<sup>3</sup>
-
-En l’agiunta da la bilantscha ston plinavant vegnir inditgads:
-
-- 1\. tut ils emprests e tut ils credits betg anc pajads, ch’èn vegnids concedids als commembers actuals dal cussegl d’administraziun, da la direcziun e dal cussegl consultativ;
-- 2\. emprests e credits betg anc pajads, ch’èn vegnids concedids sut cundiziuns che n’èn betg usitadas sin il martgà a commembers anteriurs dal cussegl d’administraziun, da la direcziun e dal cussegl consultativ;
-- 3\. emprests e credits betg anc pajads, ch’èn vegnids concedids sut cundiziuns che n’èn betg usitadas sin il martgà a persunas che stattan en ina stretga relaziun cun las persunas che vegnan numnadas en las cifras 1 e 2.
-
-<sup>4</sup>
-
-Las indicaziuns davart las indemnisaziuns e davart ils credits ston cumpigliar:
-
-- 1\. l’import total che vegn pajà al cussegl d’administraziun e l’import che vegn pajà a mintga commember, inditgond il num e la funcziun dal commember respectiv;
-- 2\. l’import total che vegn pajà a la direcziun e l’import il pli aut che vegn pajà ad in singul commember, inditgond il num e la funcziun dal commember respectiv;
-- 3\. l’import total che vegn pajà al cussegl consultativ e l’import che vegn pajà a mintga commember, inditgond il num e la funcziun dal commember respectiv.
-
-<sup>5</sup> Indemnisaziuns e credits che vegnan pajads a persunas che stattan en ina stretga relaziun cun ils commembers dal cussegl d’administraziun u da la direcziun ston vegnir declerads separadamain. Ils nums da questas persunas na ston betg vegnir inditgads. Dal rest vegnan applitgadas analogamain las prescripziuns concernent las indicaziuns davart las indemnisaziuns e davart ils credits che vegnan pajads a commembers dal cussegl d’administraziun, da la direcziun e dal cussegl consultativ.
-
-[^663bbis-1]: Integrà tras la cifra I da la LF dals 7 d’oct. 2005 (transparenza concernent las indemnisaziuns che vegnan pajadas als commembers dal cussegl d’administraziun e da la direcziun), en vigur dapi il 1. da schan. 2007 ([AS 2006 2629](https://fedlex.data.admin.ch/eli/oc/2006/401); [BBl 2004 4471](https://fedlex.data.admin.ch/eli/fga/2004/731)).
-
-### 2. Participaziuns
-
-[^part3-tit26-chap2-lvlB-lvlI-lvl2-1]
-
-[^part3-tit26-chap2-lvlB-lvlI-lvl2-1]: Versiun tenor la cifra I 1 da la LF dals 23 da dec. 2011 (dretg da rendaquint), en vigur dapi il 1. da schan. 2013 ([AS 2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810); [BBl 2008 1589](https://fedlex.data.admin.ch/eli/fga/2008/416)).
+[^663bbis-1]: Integrà tras la cifra I da la LF dals 7 d’oct. 2005 (transparenza concernent las indemnisaziuns che vegnan pajadas als commembers dal cussegl d’administraziun e da la direcziun) ([AS 2006 2629](https://fedlex.data.admin.ch/eli/oc/2006/401); [BBl 2004 4471](https://fedlex.data.admin.ch/eli/fga/2004/731)). Abolì tras la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), cun effect dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 663c
 
 [^663c-1]
 
-<sup>1</sup> Las societads cun aczias[^663c-2] ch’èn quotadas ad ina bursa han d’inditgar en l’agiunta da la bilantscha ils acziunaris impurtants e lur participaziuns, uschenavant ch’ellas enconuschan u stuessan enconuscher quests acziunaris.
-
-<sup>2</sup> Sco acziunaris impurtants valan ils acziunaris e las gruppas d’acziunaris ch’èn liadas tras convenziuns da votar, sche lur participaziun surpassa 5 pertschient da tut ils dretgs da votar. Sch’ils statuts cuntegnan ina limitaziun procentuala pli bassa per las aczias al num (art. 685*d* al. 1), vala quest limit areguard l’obligaziun da publicaziun.
-
-<sup>3</sup> D’inditgar èn plinavant las participaziuns vi da la societad sco er ils dretgs da conversiun e d’opziun da mintga commember actual dal cussegl d’administraziun, da la direcziun e dal cussegl consultativ, inclusiv las participaziuns da las persunas che stattan en ina stretga relaziun cun quests commembers, inditgond il num e la funcziun dals commembers respectivs.[^663c-3]
-
-[^663c-1]: Integrà tras la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-[^663c-2]: Rectifitgà da la Cumissiun da redacziun da l’AF (art. 33 LRC – [AS 1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)).
-[^663c-3]: Integrà tras la cifra I da la LF dals 7 d’oct. 2005 (transparenza concernent las indemnisaziuns che vegnan pajadas als commembers dal cussegl d’administraziun e da la direcziun), en vigur dapi il 1. da schan. 2007 ([AS 2006 2629](https://fedlex.data.admin.ch/eli/oc/2006/401); [BBl 2004 4471](https://fedlex.data.admin.ch/eli/fga/2004/731)).
+[^663c-1]: Integrà tras la cifra I da la LF dals 4 d’oct. 1991 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Abolì tras la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), cun effect dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 663d–663h
 
@@ -9832,117 +10111,88 @@ Las indicaziuns davart las indemnisaziuns e davart ils credits ston cumpigliar:
 
 [^669-1]: Abolì tras la cifra I 1 da la LF dals 23 da dec. 2011 (dretg da rendaquint), cun effect dapi il 1. da schan. 2013 ([AS 2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810); [BBl 2008 1589](https://fedlex.data.admin.ch/eli/fga/2008/416)).
 
-### II. Valitaziun. Augment da la valur
-
-[^part3-tit26-chap2-lvlB-lvlII-1]
-
-[^part3-tit26-chap2-lvlB-lvlII-1]: Versiun tenor la cifra I 1 da la LF dals 23 da dec. 2011 (dretg da rendaquint), en vigur dapi il 1. da schan. 2013 ([AS 2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810); [BBl 2008 1589](https://fedlex.data.admin.ch/eli/fga/2008/416)).
-
 #### Art. 670
 
 [^670-1]
 
-<sup>1</sup> Sche la mesadad dal chapital d’aczias e da las reservas legalas n’è betg pli cuvrida pervia d’ina perdita che resulta tras la bilantscha, dastga – cun l’intent d’eliminar la bilantscha deficitara – la valur da bains immobigliars u da participaziuns vegnir augmentada fin a maximalmain questa valur, en cas che lur valur reala è s’augmentada sur ils custs d’acquisiziun u da producziun. L’import da l’augment da la valur sto figurar separadamain en la bilantscha sco reserva da l’augment da la valur.
-
-<sup>2</sup> L’augment da la valur è admissibla mo, sch’in revisur admess conferma en scrit per mauns da la radunanza generala che las disposiziuns legalas sajan vegnidas observadas.[^670-2]
-
-[^670-1]: Versiun tenor la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-[^670-2]: Versiun tenor la cifra I 3 da la LF dals 16 da dec. 2005 (dretg da ScRL sco er adattaziuns en il dretg d’aczias, en il dretg d’associaziun, en il dretg dal register da commerzi ed en il dretg da firmas), en vigur dapi il 1. da schan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^670-1]: Abolì tras la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), cun effect dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### C. Reservas
 
-### I. Reservas legalas
-
-### 1. Reserva generala
+### I. Reserva legala dal chapital
 
 #### Art. 671
 
 [^671-1]
 
-<sup>1</sup> 5 pertschient dal gudogn annual sto vegnir attribuì a la reserva generala, fin che quella cuntanscha 20 pertschient dal chapital d’aczias liberà.
+<sup>1</sup>
 
-<sup>2</sup>
+A la reserva legala dal chapital vegnan attribuids:
 
-Er suenter che questa reserva ha cuntanschì l’autezza legala, la ston vegnir attribuids:
+- 1\. il retgav che vegn cuntanschì tar l’emissiun d’aczias sur lur valur nominala, minus ils custs d’emissiun;
+- 2\. il pajament retegnì sin aczias annulladas (art. 681 al. 2), uschenavant ch’i na vegn betg cuntanschì in retgav pli pitschen per las aczias emessas da nov;
+- 3\. ulteriurs apports e pajaments prestads tras ils titulars da titels da participaziun.
 
-- 1\. in retgav supplementar che deriva da l’emissiun d’aczias, che surpassa lur valur nominala e che resta suenter la cuvrida dals custs d’emissiun, nun che quel vegnia duvrà per far amortisaziuns u per intents da prevenziun;
-- 2\. il saldo dals pajaments prestads sin aczias annulladas, suenter ch’in eventual retgav pli pitschen, che fiss resultà tras las aczias ch’èn vegnidas emessas per quest intent, è vegnì cuvert;
-- 3\. 10 pertschient dals imports che vegnan pajads sco quota dal gudogn suenter il pajament d’ina dividenda da 5 pertschient.
+<sup>2</sup> La reserva legala dal chapital dastga vegnir pajada enavos als acziunaris, sche las reservas legalas dal chapital e dal gudogn, minus l’import d’eventualas perditas, surpassan la mesadad dal chapital d’aczias inscrit en il register da commerzi.
 
-<sup>3</sup> Uschenavant che la reserva generala na surpassa betg la mesadad dal chapital d’aczias, dastga ella vegnir duvrada mo per cuvrir perditas u per prender mesiras che permettan a l’interpresa da sa mantegnair en temps d’in nausch andament da las fatschentas, d’evitar la dischoccupaziun u da mitigiar sias consequenzas.
+<sup>3</sup> Las societads che han principalmain l’intent da sa participar ad autras interpresas (societads da holding), dastgan pajar enavos la reserva legala dal chapital als acziunaris, sche las reservas legalas dal chapital e dal gudogn surpassan 20 pertschient dal chapital d’aczias inscrit en il register da commerzi.
 
-<sup>4</sup> Las disposiziuns da l’alinea 2 cifra 3 e da l’alinea 3 na valan betg per societads che han l’intent principal da sa participar ad autras interpresas (societads da holding).
+<sup>4</sup> La reserva legala dal gudogn per atgnas aczias entaifer il concern (art. 659*b*) e la reserva legala dal gudogn tras augments da la valur (art. 725*c*) na dastgan betg vegnir resguardadas per calcular las valurs da sava tenor ils alineas 2 e 3.
 
-<sup>5</sup> ...[^671-2]
+[^671-1]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-<sup>6</sup> ...[^671-3]
+#### Art. 671a e 671b
 
-[^671-1]: Versiun tenor la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745).
-[^671-2]: Abolì tras la cifra II 2 da la LF dals 20 da mars 2009 davart la refurma da viafier 2, cun effect dapi il 1. da schan. 2010 ([AS 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [BBl 2005 2415](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2681](https://fedlex.data.admin.ch/eli/fga/2007/425)).
-[^671-3]: Abolì tras la cifra II 1 da l’agiunta da la LF dals 17 da dec. 2004 davart la surveglianza da las interpresas d’assicuranza, cun effect dapi il 1. da schan. 2006 ([AS 2005 5269](https://fedlex.data.admin.ch/eli/oc/2005/734); [BBl 2003 3789](https://fedlex.data.admin.ch/eli/fga/2003/577)).
+[^671a671b-1]
 
-### 2. Reserva per atgnas aczias
+[^671a671b-1]: Integrà tras la cifra I da la LF dals 4 d’oct. 1991 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Abolì tras la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), cun effect dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-#### Art. 671a
-
-[^671a-1]
-
-La reserva per atgnas aczias po vegnir abolida en la dimensiun da las valurs d’acquisiziun, sche las aczias vegnan alienadas u annulladas.
-
-[^671a-1]: Integrà tras la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745).
-
-### 3. Reserva per l’augment da la valur
-
-#### Art. 671b
-
-[^671b-1]
-
-La reserva per l’augment da la valur po vegnir dissolvida mo tras ina conversiun en chapital d’aczias, tras ina reamortisaziun u tras in’alienaziun da las aczias, da las qualas la valur è vegnida augmentada.
-
-[^671b-1]: Integrà tras la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745).
-
-### II. Reservas statutaras
-
-### 1. En general
+### II. Reserva legala dal gudogn
 
 #### Art. 672
 
 [^672-1]
 
-<sup>1</sup> Ils statuts pon prevair ch’i stoppia vegnir attribuì dapli che 5 pertschient dal gudogn annual a la reserva e che la reserva stoppia importar dapli ch’ils 20 pertschient dal chapital d’aczias liberà, ils quals vegnan prescrits da la lescha.
+<sup>1</sup> A la reserva legala dal gudogn ston vegnir attribuids 5 pertschient dal gudogn annual. In eventual transport da perditas sto vegnir eliminà avant l’attribuziun a la reserva.
 
-<sup>2</sup> Els pon prevair la constituziun d’ulteriuras reservas e fixar lur intent e lur applicaziun.
+<sup>2</sup> La reserva legala dal gudogn vegn alimentada, fin ch’ella cuntanscha, ensemen cun la reserva legala dal chapital, la mesadad dal chapital d’aczias inscrit en il register da commerzi. Las societads da holding ston alimentar la reserva legala dal gudogn, fin ch’ella cuntanscha, ensemen cun la reserva legala dal chapital, 20 pertschient dal chapital d’aczias inscrit en il register da commerzi.
 
-[^672-1]: Versiun tenor la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745).
+<sup>3</sup> Per eruir e per utilisar la reserva legala dal gudogn vala l’artitgel 671 alineas 2, 3 e 4 analogamain.
 
-### 2. Per intents da prevenziun a favur dals lavurants
+[^672-1]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### III. Reservas facultativas dal gudogn
 
 #### Art. 673
 
 [^673-1]
 
-Ils statuts pon prevair en spezial er reservas per fundar e per sustegnair instituziuns da prevenziun a favur dals lavurants da l’interpresa.
+<sup>1</sup> En ils statuts u tras in conclus po la radunanza generala prevair da furmar reservas facultativas dal gudogn.
 
-[^673-1]: Versiun tenor la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745).
+<sup>2</sup> Reservas facultativas dal gudogn dastgan vegnir furmadas mo, sche la prosperitad duraivla da l’interpresa giustifitgescha quai e sch’ils interess da tut ils acziunaris vegnan resguardads.
 
-### III. Relaziun tranter quota dal gudogn e reservas
+<sup>3</sup> La radunanza generala decida davart l’utilisaziun da reservas facultativas dal gudogn; resalvadas restan las prescripziuns davart la cumpensaziun da las perditas.
+
+[^673-1]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### IV. Cumpensaziun da las perditas
 
 #### Art. 674
 
 [^674-1]
 
-<sup>1</sup> La dividenda dastga vegnir fixada pir, suenter che las attribuziuns a las reservas legalas e statutaras èn vegnidas deducidas confurm a la lescha ed als statuts.
+<sup>1</sup>
 
-<sup>2</sup>
+Las perditas ston vegnir cumpensadas en la suandanta successiun cun:
 
-La radunanza generala po concluder la constituziun da reservas che n’èn betg previsas en la lescha ed en ils statuts u che surpassan lur pretensiuns:
+- 1\. il transport dal gudogn;
+- 2\. las reservas facultativas dal gudogn;
+- 3\. las reservas legalas dal gudogn;
+- 4\. la reserva legala dal chapital.
 
-- 1\. sche quai è necessari per intents da reacquisiziun;
-- 2\. sche questas reservas èn giustifitgadas per garantir la prosperitad durabla da l’interpresa u il pajament d’ina dividenda uschè constanta sco pussaivel, e sch’ellas resguardan ils interess da tut ils acziunaris.
+<sup>2</sup> Empè da vegnir cumpensadas cun la reserva legala dal gudogn u cun la reserva legala dal chapital, dastgan perditas restantas er vegnir transportadas per part u dal tuttafatg sin il nov quint annual.
 
-<sup>3</sup> Per fundar e per sustegnair instituziuns da prevenziun a favur dals lavurants da l’interpresa sco er per auters intents da prevenziun po la radunanza generala medemamain constituir reservas cun il gudogn che resulta tras la bilantscha, er sche talas n’èn betg previsas en ils statuts.
-
-[^674-1]: Versiun tenor la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745).
+[^674-1]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### D. Dividendas, tschains da construcziun e tantiemas
 
@@ -9954,9 +10204,30 @@ La radunanza generala po concluder la constituziun da reservas che n’èn betg 
 
 <sup>2</sup> Las dividendas dastgan vegnir pajadas mo cun il gudogn che resulta tras la bilantscha e cun las reservas ch’èn vegnidas constituidas per quest intent.[^675-1]
 
-[^675-1]: Versiun tenor la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745).
+<sup>3</sup> Las dividendas dastgan vegnir fixadas pir suenter las attribuziuns a la reserva legala dal gudogn ed a las reservas facultativas dal gudogn.[^675-2]
 
-### II. Tschains da construcziun
+[^675-1]: Versiun tenor la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745).
+[^675-2]: Integrà tras la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### II. Dividendas intermediaras
+
+#### Art. 675a
+
+[^675a-1]
+
+<sup>1</sup> Sa basond sin ina clusiun intermediara po la radunanza generala decider da pajar ina dividenda intermediara.
+
+<sup>2</sup> Il post da revisiun sto controllar la clusiun intermediara avant il conclus da la radunanza generala. Ina controlla n’è betg necessaria, sche la societad na sto betg suttametter ses quint annual ad ina controlla limitada tras in post da revisiun. D’ina controlla poi vegnir desistì, sche tut ils acziunaris acceptan il pajament da la dividenda intermediara e sche las pretensiuns dals crediturs na vegnan betg periclitadas qua tras.
+
+<sup>3</sup> Las disposiziuns davart las dividendas èn applitgablas (art. 660 al. 1 e 3, 661, 671–674, 675 al. 2, 677, 678, 731 sco er 958*e*).
+
+[^675a-1]: Integrà tras la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### III. Tschains da construcziun
+
+[^part3-tit26-chap2-lvlD-lvlIII-1]
+
+[^part3-tit26-chap2-lvlD-lvlIII-1]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 676
 
@@ -9964,7 +10235,11 @@ La radunanza generala po concluder la constituziun da reservas che n’èn betg 
 
 <sup>2</sup> Sche l’interpresa vegn engrondida tras l’emissiun da novas aczias, po il conclus davart l’augment dal chapital attribuir a las novas aczias in tschert tschains a quint dal conto d’investiziun, e quai fin ad ina data che sto vegnir inditgada exactamain, maximalmain dentant fin che las novas installaziuns vegnan messas en funcziun.
 
-### III. Tantiemas
+### IV. Tantiemas
+
+[^part3-tit26-chap2-lvlD-lvlIV-1]
+
+[^part3-tit26-chap2-lvlD-lvlIV-1]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 677
 
@@ -9982,17 +10257,37 @@ Als commembers dal cussegl d’administraziun dastgan vegnir attribuidas quotas 
 
 [^678-1]
 
-<sup>1</sup> Acziunaris e commembers dal cussegl d’administraziun sco er persunas che stattan en ina stretga relaziun cun quels, che han retratg nungiustifitgadamain e da mala fai dividendas, tantiemas, autras quotas dal gudogn u tschains da construcziun, èn obligads da restituir quai.
+<sup>1</sup> Ils acziunaris, ils commembers dal cussegl d’administraziun, las persunas che s’occupan da la gestiun ed ils commembers dal cussegl consultativ sco er las persunas che han ina stretga relaziun cun talas e tals, ston restituir las dividendas, las tantiemas, autras participaziuns al gudogn, las indemnisaziuns, ils tschains da construcziun, las reservas legalas dal chapital e dal gudogn u autras prestaziuns ch’ellas ed els han retratg nungiustifitgadamain.
 
-<sup>2</sup> Els èn obligads da restituir er autras prestaziuns da la societad, sche quellas stattan en ina disproporziun evidenta cun la cuntraprestaziun e cun la situaziun economica da la societad.
+<sup>2</sup> Sche la societad surpiglia valurs da facultad da talas persunas u concluda auters acts giuridics cun questas persunas, èn quellas suttamessas a l’obligaziun da restituziun, sch’igl exista ina disproporziun evidenta tranter la prestaziun e la cuntraprestaziun.
 
-<sup>3</sup> Il dretg sin restituziun han la societad e l’acziunari; l’acziunari porta plant sin ina prestaziun a la societad.
+<sup>3</sup> L’artitgel 64 è applitgabel.
 
-<sup>4</sup> L’obligaziun da restituziun surannescha 5 onns suenter avair survegnì la prestaziun.
+<sup>4</sup> Il dretg da restituziun han la societad e l’acziunari. L’acziunari po mo purtar plant sin ina prestaziun a la societad.
 
-[^678-1]: Versiun tenor la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745).
+<sup>5</sup> La radunanza generala po decider che la societad inoltreschia in plant sin restituziun. Ella po incumbensar il cussegl d’administraziun u in represchentant da manar il process.
 
-### II. Tantiemas en cas da concurs
+<sup>6</sup> En il concurs da la societad vegn applitgà analogamain l’artitgel 757.
+
+[^678-1]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### II. Surannaziun
+
+#### Art. 678a
+
+[^678a-1]
+
+<sup>1</sup> Il dretg da restituziun surannescha 3 onns suenter che la societad u l’acziunari ha survegnì enconuschientscha da tal, en mintga cas dentant 10 onns suenter ch’il dretg è naschì. Il termin è suspendì durant la procedura sin ordinaziun d’ina examinaziun speziala e durant la realisaziun da questa examinaziun.
+
+<sup>2</sup> Sch’il retschavider ha commess in malfatg tras ses cumportament, surannescha il dretg da restituziun il pli baud cun l’entrada da la surannaziun da la persecuziun penala. Sche la surannaziun da la persecuziun penala na cumenza betg pli en consequenza d’ina sentenzia penala da l’emprima instanza, surannescha il dretg il pli baud 3 onns suenter la communicaziun da la sentenzia.
+
+[^678a-1]: Integrà tras la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### III. Tantiemas en cas da concurs
+
+[^part3-tit26-chap2-lvlE-lvlIII-1]
+
+[^part3-tit26-chap2-lvlE-lvlIII-1]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 679
 
@@ -10023,19 +10318,23 @@ Als commembers dal cussegl d’administraziun dastgan vegnir attribuidas quotas 
 
 <sup>1</sup> In acziunari che na paja betg a temp l’import d’emissiun da sias aczias, è obligà da pajar tschains da retard.
 
-<sup>2</sup> Ultra da quai è il cussegl d’administraziun autorisà da declerar che l’acziunari tardivant perdia ses dretgs che resultan tras la suttascripziun da las aczias sco er ses pajaments parzials gia prestads, ed el po emetter novas aczias empè da las aczias annulladas. Sch’ils titels annullads emess na vegnan betg restituids, sto la decleraziun da perdita vegnir publitgada en il Fegl uffizial svizzer da commerzi sco er en la furma ch’è previsa en ils statuts.
+<sup>2</sup> Ultra da quai è il cussegl d’administraziun[^681-1] autorisà da declerar che l’acziunari tardivant perdia ses dretgs che resultan tras la suttascripziun da las aczias sco er ses pajaments parzials gia prestads, ed el po emetter novas aczias empè da las aczias annulladas. Sch’ils titels annullads emess na vegnan betg restituids, sto la decleraziun da perdita vegnir publitgada en il Fegl uffizial svizzer da commerzi sco er en la furma ch’è previsa en ils statuts.
 
 <sup>3</sup> Ils statuts pon er obligar in acziunari tardivant da pajar in chasti convenziunal.
 
-### 2. Appel al pajament
+[^681-1]: Expressiun tenor la cifra II 3 da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Questa midada è resguardada en l’entir decret.
+
+### 2. Appel da pajament
 
 #### Art. 682
 
-<sup>1</sup> Sch’il cussegl d’administraziun ha l’intenziun da declerar a l’acziunari tardivant ch’el perdia ses dretgs che resultan tras la suttascripziun u da pretender dad el il chasti convenziunal ch’è previs en ils statuts, sto el publitgar almain trais giadas in appel al pajament en il Fegl uffizial svizzer da commerzi sco er en la furma ch’è previsa en ils statuts, e quai fixond in termin supplementar d’almain 1 mais quintà a partir da l’ultima publicaziun. Pir sche l’acziunari na presta er betg il pajament entaifer il termin supplementar, dastgi vegnir declerà ch’el haja pers ses dretgs che resultan tras la suttascripziun u dastga vegnir applitgà il chasti convenziunal.
+<sup>1</sup> Sch’il cussegl d’administraziun ha l’intenziun da declerar a l’acziunari tardivant ch’el perdia ses dretgs che resultan tras la suttascripziun, u da pretender dad el il chasti convenziunal ch’è previs en ils statuts, sto el publitgar in appel al pajament en il Fegl uffizial svizzer da commerzi sco er en la furma ch’è previsa en ils statuts, e quai fixond in termin supplementar d’almain 30 dis quintà a partir da la publicaziun.[^682-1] Pir sche l’acziunari na presta er betg il pajament entaifer il termin supplementar, dastgi vegnir declerà ch’el haja pers ses dretgs che resultan tras la suttascripziun u dastga vegnir applitgà il chasti convenziunal.
 
-<sup>2</sup> En cas d’aczias al num vegnan las publicaziuns remplazzadas tras in appel al pajament e tras in termin supplementar che vegnan tramess cun ina brev recumandada als acziunaris ch’èn inscrits en il register da las aczias. En quest cas cumenza il termin supplementar il mument ch’ils acziunaris retschaivan l’appel al pajament.
+<sup>2</sup> En cas d’aczias al num vegnan las publicaziuns remplazzadas tras in appel da pajament e tras in termin supplementar che vegnan tramess cun ina brev recumandada als acziunaris ch’èn inscrits en il register da las aczias. En quest cas cumenza il termin supplementar il mument ch’ils acziunaris retschaivan l’appel da pajament.
 
 <sup>3</sup> L’acziunari tardivant è responsabel vers la societad per l’import che n’è betg cuvrì tras las prestaziuns dal nov acziunari.
+
+[^682-1]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### G. Emissiun e transferiment da las aczias
 
@@ -10137,12 +10436,13 @@ Als commembers dal cussegl d’administraziun dastgan vegnir attribuidas quotas 
 
 <sup>1</sup> En cas d’aczias al num ch’èn quotadas a la bursa po la societad refusar in acquistader sco acziunari mo, sch’ils statuts prevesan ina limitaziun procentuala da las aczias al num, fin a la quala in acquistader sto vegnir renconuschì sco acziunari, e sche questa limitaziun vegn surpassada.
 
-<sup>2</sup> Ultra da quai po la societad refusar l’inscripziun en il register da las aczias, sche l’acquistader na declera – sin dumonda da la societad – betg expressivamain ch’el haja acquistà las aczias en agen num e sin agen quint.
+<sup>2</sup> Plinavant po la societad refusar in acquistader, sche quel na declera – sin dumonda da la societad – betg expressivamain ch’el haja acquistà las aczias en agen num e sin agen quint, ch’i n’existian naginas cunvegnas da prender enavos u da restituir aczias correspundentas e ch’el portia la ristga economica ch’è colliada cun las aczias. Mo perquai che la dumonda è vegnida inoltrada tras la banca da l’acquistader, na po ella betg refusar l’inscripziun.[^685d-2]
 
-<sup>3</sup> Sche aczias al num ch’èn quotadas a la bursa[^685d-2] èn vegnidas acquistadas tras ierta, tras ina partiziun d’ierta u tras il dretg dals bains matrimonials, na po l’acquistader betg vegnir refusà.
+<sup>3</sup> Sche aczias al num ch’èn quotadas a la bursa[^685d-3] èn vegnidas acquistadas tras ierta, tras ina partiziun d’ierta u tras il dretg dals bains matrimonials, na po l’acquistader betg vegnir refusà.
 
 [^685d-1]: Integrà tras la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745).
-[^685d-2]: Rectifitgà da la Cumissiun da redacziun da l’AF (art. 33 LRC – [AS 1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)).
+[^685d-2]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^685d-3]: Rectifitgà da la Cumissiun da redacziun da l’AF (art. 33 LRC – [AS 1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)).
 
 ### b. Obligaziun d’annunzia
 
@@ -10192,15 +10492,18 @@ Sche la societad na refusa betg entaifer 20 dis la renconuschientscha da l’acq
 
 <sup>2</sup> L’inscripziun en il register da las aczias ha lieu mo, sch’i vegn cumprovà che l’aczia saja vegnida acquistada sco proprietad u ch’i saja vegnida constituida ina giudida.
 
+<sup>2bis</sup> Las societads cun aczias quotadas ad ina bursa procuran ch’ils proprietaris u ils giudiders possian inoltrar sin via electronica la dumonda d’inscripziun en il register da las aczias.[^686-3]
+
 <sup>3</sup> La societad sto confermar l’inscripziun sin il titel da l’aczia.
 
 <sup>4</sup> Sco acziunari u sco giudider visavi la societad vala, tgi ch’è inscrit en il register da las aczias.
 
-<sup>5</sup> Ils mussaments che resultan d’ina inscripziun ston vegnir conservads durant 10 onns suenter ch’il proprietari u il giudider è vegnì stritgà or dal register da las aczias.[^686-3]
+<sup>5</sup> Ils mussaments che resultan d’ina inscripziun ston vegnir conservads durant 10 onns suenter ch’il proprietari u il giudider è vegnì stritgà or dal register da las aczias.[^686-4]
 
 [^686-1]: Versiun tenor la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745).
 [^686-2]: Integrà la segunda frasa tras la cifra I 2 da la LF dals 12 da dec. 2014 davart la realisaziun da las recumandaziuns dal «Groupe d’action financière», revedidas l’onn 2012, en vigur dapi il 1. da fan. 2015 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
-[^686-3]: Integrà tras la cifra I 2 da la LF dals 12 da dec. 2014 davart la realisaziun da las recumandaziuns dal «Groupe d’action financière», revedidas l’onn 2012, en vigur dapi il 1. da fan. 2015 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
+[^686-3]: Integrà tras la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^686-4]: Integrà tras la cifra I 2 da la LF dals 12 da dec. 2014 davart la realisaziun da las recumandaziuns dal «Groupe d’action financière», revedidas l’onn 2012, en vigur dapi il 1. da fan. 2015 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
 
 ### b. Stritgada
 
@@ -10250,9 +10553,10 @@ Suenter avair tadlà il pertutgà po la societad stritgar inscripziuns en il reg
 
 <sup>1</sup> Ses dretgs en fatschentas da la societad, sco la nominaziun dals organs, l’approvaziun dal rapport da gestiun e la decisiun davart l’utilisaziun dal gudogn, exequescha l’acziunari a la radunanza generala.
 
-<sup>2</sup> A la radunanza generala po el represchentar sez sias aczias u las laschar represchentar tras ina terza persuna che na sto – cun resalva da disposiziuns statutaras divergentas – betg esser acziunaria.
+<sup>2</sup> …[^689-2]
 
 [^689-1]: Versiun tenor la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745).
+[^689-2]: Abolì tras la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), cun effect dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 2. Legitimaziun vers la societad
 
@@ -10262,9 +10566,16 @@ Suenter avair tadlà il pertutgà po la societad stritgar inscripziuns en il reg
 
 <sup>1</sup> Exequir ils dretgs da commembranza che resultan tras aczias al num po, tgi ch’è inscrit en il register da las aczias u tgi che ha in’autorisaziun en scrit da l’acziunari.
 
-<sup>2</sup> Exequir ils dretgs da commembranza che resultan da las aczias al possessur po, tgi che sa legitimescha sco possessur, preschentond las aczias. Il cussegl d’administraziun po ordinar in’autra moda per cumprovar il possess.
+<sup>2</sup> Exequir ils dretgs da commembranza che resultan da las aczias al possessur po, tgi che sa legitimescha sco possessur, preschentond las aczias. Exequir il dretg da votar po mo, tgi che inditgescha ses num e ses lieu da domicil, cura ch’el sa participescha a la radunanza generala.[^689a-2]
+
+<sup>3</sup> Tgi che posseda in’aczia al possessur sin basa d’ina impegnaziun, d’in deposit u d’in emprest, dastga exequir ils dretgs da commembranza mo, sch’el ha survegnì l’autorisaziun respectiva en scrit da l’acziunari.[^689a-3]
+
+<sup>4</sup> Il cussegl d’administraziun po admetter ulteriuras furmas da la legitimaziun vers la societad, uschenavant ch’ils statuts na prevesan nagut auter.[^689a-4]
 
 [^689a-1]: Integrà tras la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745).
+[^689a-2]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^689a-3]: Integrà tras la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^689a-4]: Integrà tras la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 3. Represchentanza da l’acziunari
 
@@ -10274,50 +10585,86 @@ Suenter avair tadlà il pertutgà po la societad stritgar inscripziuns en il reg
 
 [^689b-1]
 
-<sup>1</sup> Tgi che exequescha dretgs da cundecisiun sco represchentant, sto observar las directivas dal represchentà.
+<sup>1</sup> L’acziunari po laschar exequir ses dretgs da cundecisiun, cunzunt ses dretg da votar, d’in represchentant da sia tscherna.
 
-<sup>2</sup> Tgi che posseda in’aczia al possessur sin basa d’ina impegnaziun, d’in deposit u d’in emprest, dastga exequir ils dretgs da commembranza mo, sch’el ha survegnì l’autorisaziun da l’acziunari tras in document spezial.
+<sup>2</sup> La represchentanza dal dretg da votar da l’organ e la represchentanza dal dretg da votar dal deposit èn scumandadas per societads cun aczias quotadas ad ina bursa.
 
-[^689b-1]: Integrà tras la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745).
+<sup>3</sup> Sche la societad engascha in represchentant independent dal dretg da votar u in represchentant dal dretg da votar da l’organ, è quel obligà d’exequir il dretg da votar tenor las instrucziuns. Sch’el n’ha survegnì naginas instrucziuns, s’abstegna el da la vusch. Il cussegl d’administraziun prepara formulars che ston vegnir duvrads per dar las autorisaziuns e las instrucziuns.
 
-### b. Tras in commember d’in organ da la societad
+<sup>4</sup> L’independenza dal represchentant independent dal dretg da votar na dastga esser restrenschida ni effectivamain ni apparentamain. Las prescripziuns davart l’independenza dal post da revisiun per la revisiun ordinaria (art. 728 al. 2–6) èn applitgablas analogamain.
+
+<sup>5</sup> Sco represchentants independents dal dretg da votar pon vegnir elegidas persunas natiralas u giuridicas ubain societads da persunas.
+
+[^689b-1]: Integrà tras la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### b. Represchentanza independenta dal dretg da votar en societads cun aczias quotadas ad ina bursa
 
 #### Art. 689c
 
 [^689c-1]
 
-Sche la societad propona als acziunaris in commember da ses organs u in’autra persuna dependenta per represchentar ils dretgs da votar ad ina radunanza generala, sto ella designar a medem temp ina persuna independenta che po vegnir incumbensada dals acziunaris cun la represchentanza.
+<sup>1</sup> En societads cun aczias quotadas ad ina bursa elegia la radunanza generala il represchentant independent dal dretg da votar. La durada d’uffizi finescha cun la conclusiun da la proxima radunanza generala ordinaria. La reelecziun è pussaivla.
 
-[^689c-1]: Integrà tras la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745).
+<sup>2</sup> La radunanza generala po revocar il represchentant independent dal dretg da votar per la fin da la radunanza generala.
 
-### c. Tras in depositari
+<sup>3</sup> Sche la radunanza generala n’ha betg elegì in represchentant independent dal dretg da votar, nominescha il cussegl d’administraziun in tal per la proxima radunanza generala. Ils statuts pon prevair autras reglas per eliminar questa mancanza organisatorica.
+
+<sup>4</sup>
+
+Il cussegl d’administraziun procura ch’ils acziunaris hajan en spezial la pussaivladad da dar al represchentant independent dal dretg da votar:
+
+- 1\. instrucziuns davart mintga proposta che figurescha en la convocaziun e che pertutga las tractandas;
+- 2\. instrucziuns generalas davart propostas betg annunziadas che pertutgan las tractandas sco er davart novas tractandas tenor l’artitgel 704*b*.
+
+<sup>5</sup> Fin a la radunanza generala tracta il represchentant independent dal dretg da votar en moda confidenziala las instrucziuns dals singuls acziunaris. El po dar ina infurmaziun generala a la societad davart las instrucziuns survegnidas. El dastga dar l’infurmaziun il pli baud 3 dis da lavur avant la radunanza generala, ed a chaschun da la radunanza generala sto el inditgar, tge infurmaziuns ch’el ha dà a la societad.
+
+<sup>6</sup> Autorisaziuns ed instrucziuns pon vegnir dadas mo per la proxima radunanza generala. Ellas pon vegnir dadas er sin via electronica.
+
+[^689c-1]: Integrà tras la cifra I da la LF dals 4 d’oct. 1991 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### c. Represchentanza independenta dal dretg da votar e represchentanza dal dretg da votar da l’organ en societads senza aczias quotadas ad ina bursa
 
 #### Art. 689d
 
 [^689d-1]
 
-<sup>1</sup> Tgi che vul exequir sco depositari dretgs da cundecisiun che resultan tras aczias ch’èn depositadas tar el, fa dar il depositur avant mintga radunanza generala las directivas per votar.
+<sup>1</sup> Ils statuts da societads senza aczias quotadas ad ina bursa pon prevair ch’in acziunari po vegnir represchentà en la radunanza generala mo tras in auter acziunari.
 
-<sup>2</sup> Sch’il depositari na survegn betg a temp las directivas dal depositur, exequescha el il dretg da votar tenor ina directiva generala dal depositur; sch’ina tala manca, suonda el las propostas dal cussegl d’administraziun.
+<sup>2</sup> Sch’ils statuts cuntegnan ina tala disposiziun, sto il cussegl d’administraziun designar – sin dumonda d’in acziunari – in represchentant independent dal dretg da votar u in represchentant dal dretg da votar da l’organ, che po vegnir incumbensà cun l’exercizi dals dretgs da cundecisiun.
 
-<sup>3</sup> Sco depositaris valan ils instituts ch’èn suttamess a la Lescha federala dals 8 da november 1934[^689d-2] davart las bancas e cassas da spargn sco er ils instituts da finanzas tenor la Lescha federala dals 15 da zercladur 2018[^689d-3] davart ils instituts da finanzas.[^689d-4]
+<sup>3</sup> En quest cas sto il cussegl d’administraziun communitgar als acziunaris il pli tard 10 dis avant la radunanza generala, tgi ch’els pon incumbensar cun la represchentanza. Sch’il cussegl d’administraziun n’ademplescha betg questa obligaziun, po l’acziunari sa laschar represchentar tras in terz da sia tscherna. Ils statuts reglan ils detagls da la designaziun dal represchentant.
 
-[^689d-1]: Integrà tras la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745).
-[^689d-2]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^689d-3]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
-[^689d-4]: Versiun tenor la cifra II 1 da l’agiunta da la LF dals 15 da zer. 2018 davart ils instituts da finanzas, en vigur dapi il 1. da schan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+<sup>4</sup> L’artitgel 689*c* alinea 4 è applitgabel en cas d’ina represchentanza independenta dal dretg da votar sco er d’ina represchentanza dal dretg da votar da l’organ.
 
-### d. Communicaziun
+[^689d-1]: Integrà tras la cifra I da la LF dals 4 d’oct. 1991 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### d. Represchentanza dal dretg da votar dal deposit en societads senza aczias quotadas ad ina bursa
 
 #### Art. 689e
 
 [^689e-1]
 
-<sup>1</sup> Ils organs, ils represchentants independents dal dretg da votar ed ils depositaris communitgeschan a la societad il dumber, la spezia, la valur nominala e la categoria da las aczias ch’els represchentan. Sch’els na fan betg questas indicaziuns, èn ils conclus da la radunanza generala contestabels sut las medemas premissas sco en cas d’ina participaziun nunautorisada a la radunanza generala.
+<sup>1</sup> Tgi che vul exequir – en ina societad senza aczias quotadas ad ina bursa – ils dretgs da votar che resultan tras aczias depositadas tar el, fa dar il depositur avant mintga radunanza generala las instrucziuns per votar.
+
+<sup>2</sup> Sch’il depositari na survegn betg a temp las instrucziuns dal depositur, exequescha el il dretg da votar tenor ina instrucziun generala dal depositur; sch’ina tala manca, s’abstegna el da la vusch.
+
+<sup>3</sup> Sco depositaris valan ils instituts ch’èn suttamess a la Lescha federala dals 8 da november 1934[^689e-2] davart las bancas e cassas da spargn sco er ils instituts da finanzas tenor la Lescha federala dals 15 da zercladur 2018[^689e-3] davart ils instituts da finanzas.
+
+[^689e-1]: Integrà tras la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^689e-2]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^689e-3]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+
+### e. Communicaziun
+
+#### Art. 689f
+
+[^689f-1]
+
+<sup>1</sup> Ils represchentants independents dal dretg da votar, ils represchentants dal dretg da votar da l’organ ed ils depositaris communitgeschan a la societad il dumber, la spezia, la valur nominala e la categoria da las aczias ch’els represchentan. Sch’els na fan betg quai, èn ils conclus da la radunanza generala contestabels sut las medemas premissas sco en cas d’ina participaziun nunautorisada a la radunanza generala (art. 691).
 
 <sup>2</sup> Il parsura communitgescha questas indicaziuns a la radunanza generala, e quai globalmain per mintga moda da represchentaziun. Sch’el na fa betg quai, cumbain ch’in acziunari ha pretendì quai, po mintga acziunari contestar ils conclus da la radunanza generala cun in plant cunter la societad.
 
-[^689e-1]: Integrà tras la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745).
+[^689f-1]: Integrà tras la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 4. Plirs proprietaris, giudida
 
@@ -10339,7 +10686,11 @@ Sche la societad propona als acziunaris in commember da ses organs u in’autra 
 
 <sup>2</sup> Cunter la participaziun da persunas nunautorisadas ha mintga acziunari il dretg da protestar tar il cussegl d’administraziun u per mauns dal protocol da la radunanza generala.
 
+<sup>2bis</sup> Ils commembers dal cussegl d’administraziun e da la direcziun han il dretg da sa participar a la radunanza generala.[^691-1]
+
 <sup>3</sup> Sche persunas che n’èn betg autorisadas da sa participar a la radunanza generala coopereschan ad in conclus, po mintga acziunari – er sch’el n’ha betg fatg protesta – contestar quest conclus, nun che la societad accusada cumprovia che questa cooperaziun n’haja gì nagina influenza sin il conclus.
+
+[^691-1]: Integrà tras la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### III. Dretg da votar a la radunanza generala
 
@@ -10351,7 +10702,9 @@ Sche la societad propona als acziunaris in commember da ses organs u in’autra 
 
 <sup>2</sup> Mintga acziunari ha almain ina vusch, e quai er sch’el posseda mo in’unica aczia. Ils statuts pon dentant limitar il dumber da las vuschs dals possessurs da pliras aczias.
 
-<sup>3</sup> Sche la valur nominala da las aczias vegn reducida a chaschun d’ina sanaziun da la societad, po il dretg da votar vegnir mantegnì confurm a la valur nominala oriunda.
+<sup>3</sup> …[^692-1]
+
+[^692-1]: Abolì tras la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), cun effect dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 2. Aczias cun dretg da votar
 
@@ -10367,11 +10720,13 @@ La fixaziun dal dretg da votar tenor il dumber da las aczias na po betg vegnir a
 
 - 1\. eleger il post da revisiun;
 - 2\. nominar experts per laschar controllar la gestiun u singulas parts da la gestiun;
-- 3\. decider davart l’introducziun d’ina controlla speziala;
-- 4\. decider, sch’i duai vegnir purtà in plant da responsabladad.[^693-2]
+- 3\.[^693-2] decider davart l’introducziun d’ina examinaziun speziala;
+- 4\.[^693-3] decider davart l’inoltraziun d’in plant da responsabladad.[^693-4]
 
 [^693-1]: Versiun tenor la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745).
-[^693-2]: Versiun tenor la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745).
+[^693-2]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^693-3]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^693-4]: Versiun tenor la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 
 ### 3. Cumenzament dal dretg da votar
 
@@ -10389,138 +10744,152 @@ Il dretg da votar cumenza, uschespert che l’import che vegn fixà da la lescha
 
 [^695-1]: Abolì tras la cifra I 3 da la LF dals 16 da dec. 2005 (dretg da ScRL sco er adattaziuns en il dretg d’aczias, en il dretg d’associaziun, en il dretg dal register da commerzi ed en il dretg da firmas), cun effect dapi il 1. da schan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 
-### IV. Dretgs da controlla dals acziunaris
-
-### 1. Communicaziun dal rapport da gestiun
-
 #### Art. 696
 
 [^696-1]
 
-<sup>1</sup> Il pli tard 20 dis avant la radunanza generala ordinaria ston il rapport da gestiun ed il rapport da revisiun vegnir exponids a la sedia da la societad, per ch’ils acziunaris possian prender invista da tals. Mintga acziunari po pretender ch’in exemplar da quests documents vegnia tramess immediatamain ad el.
+[^696-1]: Abolì tras la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), cun effect dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-<sup>2</sup> Ils possessurs d’aczias al num ston vegnir infurmads en chaussa tras ina communicaziun en scrit, ils possessurs d’aczias al possessur tras ina publicaziun en il Fegl uffizial svizzer da commerzi sco er en la furma che vegn prescritta dals statuts.
+### IV. Dretg da survegnir infurmaziuns e da prender invista
 
-<sup>3</sup> Anc durant 1 onn suenter la radunanza generala po mintga acziunari pretender da la societad il rapport da gestiun en la furma ch’è vegnida approvada da la radunanza generala sco er il rapport da revisiun.
-
-[^696-1]: Versiun tenor la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745).
-
-### 2. Infurmaziun ed invista
+### 1. Dretg da survegnir infurmaziuns
 
 #### Art. 697
 
 [^697-1]
 
-<sup>1</sup> A la radunanza generala ha mintga acziunari il dretg da pretender infurmaziuns dal cussegl d’administraziun davart las fatschentas da la societad e dal post da revisiun davart l’execuziun e davart il resultat da sia controlla.
+<sup>1</sup> A la radunanza generala ha mintga acziunari il dretg da pretender infurmaziuns dal cussegl d’administraziun davart las fatschentas da la societad ed infurmaziuns dal post da revisiun davart l’execuziun e davart il resultat da sia controlla.
 
-<sup>2</sup> Las infurmaziuns ston vegnir dadas, tant enavant ch’ellas èn necessarias per exequir ils dretgs d’acziunari. Ellas pon vegnir refusadas, sch’ellas pericliteschan secrets da fatschenta u auters interess da la societad ch’èn degns da vegnir protegids.
+<sup>2</sup> En societads senza aczias quotadas ad ina bursa pon acziunaris – che represchentan ensemen almain 10 pertschient dal chapital d’aczias u da las vuschs – pretender en scrit infurmaziuns dal cussegl d’administraziun davart las fatschentas da la societad.
 
-<sup>3</sup> Dals cudeschs da fatschenta e da la correspundenza poi vegnir prendì invista mo cun l’autorisaziun expressiva da la radunanza generala u sin fundament d’in conclus dal cussegl d’administraziun, sut la cundiziun ch’ils secrets da fatschenta vegnian mantegnids.
+<sup>3</sup> Il cussegl d’administraziun furnescha las infurmaziuns entaifer 4 mais. Las respostas dal cussegl d’administraziun ston plinavant vegnir exponidas il pli tard a la proxima radunanza generala, per ch’ils acziunaris possian prender invista da talas.
 
-<sup>4</sup> Sche l’infurmaziun u sche l’invista vegn refusada nungiustifitgadamain, vegn ella ordinada da la dretgira sin dumonda.[^697-2]
+<sup>4</sup> Las infurmaziuns ston vegnir furnidas, sch’ellas èn necessarias per exequir ils dretgs dals acziunaris e sch’ellas na pericliteschan nagins secrets da fatschenta u auters interess da la societad ch’èn degns da vegnir protegids. Sche las infurmaziuns vegnan refusadas, sto quai vegnir motivà en scrit.
 
-[^697-1]: Versiun tenor la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745).
-[^697-2]: Versiun tenor la cifra II 5 da l’agiunta 1 da la Procedura civila dals 19 da dec. 2008, en vigur dapi il 1. da schan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^697-1]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-### V. Dretg sin l’introducziun d’ina controlla speziala
-
-### 1. Cun l’approvaziun da la radunanza generala
+### 2. Dretg da prender invista
 
 #### Art. 697a
 
 [^697a-1]
 
-<sup>1</sup> A la radunanza generala po mintga acziunari proponer da laschar sclerir tscherts fatgs tras ina controlla speziala, sche quai è necessari per exequir ils dretgs d’acziunari e sch’el ha gia exequì ses dretg da survegnir infurmaziuns u da prender invista da documents.
+<sup>1</sup> Acziunaris pon prender invista dals cudeschs da fatschenta e da las actas, sch’els represchentan ensemen almain 5 pertschient dal chapital d’aczias u da las vuschs.
 
-<sup>2</sup> Sche la radunanza generala accepta la proposta, po la societad u mintga acziunari dumandar entaifer 30 dis la dretgira da designar in controllader spezial.
+<sup>2</sup> Il cussegl d’administraziun conceda l’invista entaifer 4 mais suenter l’inoltraziun da la dumonda. Ils acziunaris dastgan far notizias.
 
-[^697a-1]: Integrà tras la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745).
+<sup>3</sup> L’invista sto vegnir concedida, sch’ella è necessaria per exequir ils dretgs dals acziunaris e sch’ella na periclitescha nagins secrets da fatschenta u auters interess da la societad ch’èn degns da vegnir protegids. Sche l’invista vegn refusada, sto quai vegnir motivà en scrit.
 
-### 2. En cas da refusa tras la radunanza generala
+[^697a-1]: Integrà tras la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### 3. Refusa da la dumonda da survegnir infurmaziuns u da prender invista
 
 #### Art. 697b
 
 [^697b-1]
 
-<sup>1</sup> Sche la radunanza generala refusa la proposta, pon acziunaris – che represchentan ensemen almain 10 pertschient dal chapital d’aczias u aczias d’ina valur nominala da 2 milliuns francs – dumandar entaifer 3 mais la dretgira da designar in controllader spezial.
+Sche las infurmaziuns u l’invista vegnan refusadas u impedidas dal tuttafatg u per part, pon ils acziunaris pretender entaifer 30 dis da la dretgira, ch’ella ordineschia a la societad da furnir las infurmaziuns u da conceder l’invista.
 
-<sup>2</sup> Ils petents han il dretg sin la designaziun d’in controllader spezial, sch’els pon far valair vardaivlamain che fundaturs u che organs hajan violà la lescha u ils statuts ed hajan uschia donnegià la societad u ils acziunaris.
+[^697b-1]: Integrà tras la cifra I da la LF dals 4 d’oct. 1991 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-[^697b-1]: Integrà tras la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745).
+### V. Dretg sin l’introducziun d’ina examinaziun speziala
 
-### 3. Designaziun
+### 1. Cun l’approvaziun da la radunanza generala
 
 #### Art. 697c
 
 [^697c-1]
 
-<sup>1</sup> La dretgira decida suenter avair tadlà la societad ed il petent che ha pretendì la controlla.
+<sup>1</sup> Mintga acziunari che ha gia exequì ses dretg da survegnir infurmaziuns u da prender invista, po proponer a la radunanza generala da laschar sclerir tscherts fatgs tras experts independents, sche quai è necessari per exequir ils dretgs d’acziunari.
 
-<sup>2</sup> Sche la dretgira accepta la dumonda, incumbensescha ella in expert independent da far la controlla. En il rom da la dumonda circumscriva ella il cuntegn da la controlla.
+<sup>2</sup> Sche la radunanza generala accepta la proposta, po la societad u mintga acziunari pretender entaifer 30 dis da la dretgira, ch’ella designeschia ils experts che fan l’examinaziun speziala.
 
-<sup>3</sup> La dretgira po er incumbensar plirs experts da far cuminaivlamain la controlla speziala.
+[^697c-1]: Integrà tras la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-[^697c-1]: Integrà tras la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745).
-
-### 4. Activitad
+### 2. En cas da refusa tras la radunanza generala
 
 #### Art. 697d
 
 [^697d-1]
 
-<sup>1</sup> La controlla speziala sto vegnir fatga a temp util e senza disturbar inutilamain l’andament da las fatschentas.
+<sup>1</sup>
 
-<sup>2</sup> Ils fundaturs, ils organs, ils incumbensads, ils lavurants, ils curaturs ed ils liquidaturs ston infurmar il controllader spezial davart fatgs relevants. En cas da dispita decida la dretgira.
+Sche la radunanza generala refusa la proposta, pon ils acziunaris pretender entaifer 3 mais da la dretgira, ch’ella ordineschia in’examinaziun speziala, sch’els tegnan ensemen almain ina da las suandantas participaziuns:
 
-<sup>3</sup> Il controllader spezial taidla la societad concernent ils resultats da la controlla speziala.
+- 1\. en societads cun aczias quotadas ad ina bursa: 5 pertschient dal chapital d’aczias u da las vuschs;
+- 2\. en autras societads senza aczias quotadas ad ina bursa: 10 pertschient dal chapital d’aczias u da las vuschs.
 
-<sup>4</sup> El è suttamess a l’obligaziun da discreziun.
+<sup>2</sup> La dumonda d’ordinar in’examinaziun speziala po s’extender sin tut las dumondas ch’èn stadas l’object da la dumonda da survegnir infurmaziuns u da prender invista u ch’èn vegnidas discutadas da la radunanza generala en la tractativa davart la dumonda da realisar in’examinaziun speziala, uschenavant che la resposta a questas dumondas è necessaria per exequir ils dretgs d’acziunari.
 
-[^697d-1]: Integrà tras la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745).
+<sup>3</sup> La dretgira ordinescha l’examinaziun speziala, sch’ils petents pon far valair vardaivlamain che fundaturs u organs hajan violà la lescha u ils statuts e che la violaziun saja buna da donnegiar la societad u ils acziunaris.
 
-### 5. Rapport
+[^697d-1]: Integrà tras la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### 3. Procedura giudiziala
 
 #### Art. 697e
 
 [^697e-1]
 
-<sup>1</sup> Il controllader spezial rapporta detagliadamain davart il resultat da sia controlla, mantegna dentant il secret da fatschenta. El preschenta ses rapport a la dretgira.
+<sup>1</sup> La dretgira decida suenter avair tadlà la societad sco er l’acziunari che ha dumandà in’examinaziun speziala en la radunanza generala.
 
-<sup>2</sup> La dretgira trametta il rapport a la societad e decida sin ses giavisch, sch’il rapport cuntegna passaschas che violeschan il secret da fatschenta u auters interess da la societad ch’èn degns da vegnir protegids e sche questas passaschas na duain perquai betg vegnir suttamessas als petents.
+<sup>2</sup> Sche la dretgira accepta la dumonda, designescha ella ils experts independents che realiseschan l’examinaziun speziala, e circumscriva l’object da l’examinaziun.
 
-<sup>3</sup> A la societad ed als petents dat el la chaschun da prender posiziun davart il rapport rectifitgà e da far dumondas supplementaras.
+[^697e-1]: Integrà tras la cifra I da la LF dals 4 d’oct. 1991 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-[^697e-1]: Integrà tras la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745).
-
-### 6. Deliberaziun e communicaziun
+### 4. Realisaziun da l’examinaziun speziala
 
 #### Art. 697f
 
 [^697f-1]
 
-<sup>1</sup> Il cussegl d’administraziun suttametta il rapport e las posiziuns respectivas a la proxima radunanza generala.
+<sup>1</sup> L’examinaziun speziala sto vegnir fatga a temp util e senza disturbar nunnecessariamain l’andament da las fatschentas.
 
-<sup>2</sup> Durant 1 onn suenter la radunanza generala po mintga acziunari pretender da la societad in exemplar dal rapport e da las posiziuns.
+<sup>2</sup> Ils fundaturs, ils organs, ils incumbensads, ils lavurants, ils curaturs ed ils liquidaturs ston infurmar l’expert davart tut ils fatgs relevants. En cas da dispita decida la dretgira.
 
-[^697f-1]: Integrà tras la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745).
+<sup>3</sup> Ils experts taidlan la societad concernent ils resultats da l’examinaziun speziala.
 
-### 7. Adossament dals custs
+<sup>4</sup> Els èn obligads da mantegnair il secret.
+
+[^697f-1]: Integrà tras la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### 5. Rapport
 
 #### Art. 697g
 
 [^697g-1]
 
-<sup>1</sup> Sche la dretgira accepta la dumonda da designar in controllader spezial, adossescha ella la provisiun ed ils custs a la societad. Sche circumstanzas spezialas giustifitgeschan quai, po ella adossar ils custs dal tuttafatg u per part als petents.
+<sup>1</sup> Ils experts rapportan en scrit e detagliadamain davart il resultat da lur examinaziun. Sche l’examinaziun speziala è vegnida ordinada da la dretgira, preschentan ils experts lur rapport a la dretgira.
 
-<sup>2</sup> Sche la radunanza generala ha acceptà la controlla speziala, surpiglia la societad ils custs.
+<sup>2</sup> La dretgira trametta il rapport a la societad e decida sin dumonda da la societad, sche tschertas parts dal rapport violeschan il secret da fatschenta u auters interess da la societad ch’èn degns da vegnir protegids, e sche questas parts na dastgan perquai betg vegnir suttamessas als petents.
 
-[^697g-1]: Integrà tras la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745).
+<sup>3</sup> Al cussegl d’administraziun ed als petents dat la dretgira la chaschun da prender posiziun davart il rapport rectifitgà e da far dumondas supplementaras.
+
+[^697g-1]: Integrà tras la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### 6. Deliberaziun e communicaziun
 
 #### Art. 697h
 
 [^697h-1]
 
-[^697h-1]: Integrà tras la cifra I da la LF dals 4 d’oct. 1991 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Abolì tras la cifra I 1 da la LF dals 23 da dec. 2011 (dretg da rendaquint), cun effect dapi il 1. da schan. 2013 ([AS 2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810); [BBl 2008 1589](https://fedlex.data.admin.ch/eli/fga/2008/416)).
+<sup>1</sup> A la proxima radunanza generala suttametta il cussegl d’administraziun il rapport dals experts, sia atgna posiziun sco er la posiziun dals petents.
+
+<sup>2</sup> Durant 1 onn suenter la radunanza generala po mintga acziunari pretender da la societad – sin donn e cust da la societad – in exemplar dal rapport e da las posiziuns.
+
+[^697h-1]: Integrà tras la cifra I da la LF dals 4 d’oct. 1991 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### 7. Custs da l’examinaziun speziala
+
+#### Art. 697h<sup>bis</sup>
+
+[^697hbis-1]
+
+<sup>1</sup> La societad surpiglia ils custs da l’examinaziun speziala. Ella paja er eventualas anticipaziuns dals custs.
+
+<sup>2</sup> Sche circumstanzas spezialas giustifitgeschan quai, po la dretgira adossar tut ils custs u ina part da tals als petents.
+
+[^697hbis-1]: Integrà tras la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 697i
 
@@ -10590,6 +10959,22 @@ Il dretg da votar cumenza, uschespert che l’import che vegn fixà da la lescha
 
 [^697m-1]: Integrà tras la cifra I 2 da la LF dals 12 da dec. 2014 davart la realisaziun da las recumandaziuns dal «Groupe d’action financière», revedidas l’onn 2012, en vigur dapi il 1. da fan. 2015 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
 
+### L. Dretgira da cumpromiss
+
+#### Art. 697n
+
+[^697n-1]
+
+<sup>1</sup> Ils statuts pon prevair che dispitas dal dretg da societads vegnian giuditgadas d’ina dretgira da cumpromiss cun sedia en Svizra. Sch’ils statuts na disponan betg autramain, è la clausula da cumpromiss lianta per la societad, per ils organs da la societad, per ils commembers dals organs e per ils acziunaris.
+
+<sup>2</sup> Per la procedura davant la dretgira da cumpromiss èn applitgablas las disposiziuns da la 3. part dal Cudesch da procedura civila[^697n-2]; il 12. chapitel da la Lescha federala dals 18 da december 1987[^697n-3] davart il dretg internaziunal privat n’è betg applitgabel.
+
+<sup>3</sup> Ils statuts pon reglar ils detagls, en spezial tras il renviament ad in urden da cumpromiss. En mintga cas garanteschan els che las persunas, che pon esser pertutgadas directamain dals effects giuridics da la sentenzia da cumpromiss, vegnian infurmadas davart l’introducziun e la terminaziun da la procedura e possian sa participar a la nominaziun da la dretgira da cumpromiss sco er intervegnir en la procedura.
+
+[^697n-1]: Integrà tras la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^697n-2]: [SR 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
+[^697n-3]: [SR 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
+
 ### Terz chapitel: Organisaziun da la societad anonima
 
 ### A. La radunanza generala
@@ -10608,57 +10993,210 @@ Ella ha las suandantas cumpetenzas intransferiblas:
 - 2\. eleger ils commembers dal cussegl d’administraziun e dal post da revisiun;
 - 3\.[^698-1] approvar il rapport da situaziun ed il quint dal concern;
 - 4\. approvar il quint annual sco er decider davart l’utilisaziun dal gudogn che resulta tras la bilantscha, en spezial fixar la dividenda e la tantiema;
-- 5\. distgargiar ils commembers dal cussegl d’administraziun;
-- 6\. decider davart fatschentas ch’èn resalvadas a la radunanza generala tras la lescha u tras ils statuts.[^698-2]
+- 5\.[^698-2] fixar la dividenda intermediara ed approvar la clusiun intermediara necessaria per quest intent;
+- 6\.[^698-3] decider davart la restituziun da la reserva legala dal chapital;
+- 7\.[^698-4] distgargiar ils commembers dal cussegl d’administraziun;
+- 8\.[^698-5] dequotar ils titels da participaziun da la societad;
+- 9\.[^698-6] decider davart fatschentas ch’èn resalvadas a la radunanza generala tras la lescha u tras ils statuts.[^698-7]
+
+<sup>3</sup>
+
+En societads cun aczias quotadas ad ina bursa ha ella las suandantas ulteriuras cumpetenzas intransferiblas:
+
+- 1\. eleger il president dal cussegl d’administraziun;
+- 2\. eleger ils commembers da la cumissiun d’indemnisaziun;
+- 3\. eleger il represchentant independent dal dretg da votar;
+- 4\. votar davart las indemnisaziuns dal cussegl d’administraziun, da la direcziun e dal cussegl consultativ.[^698-8]
 
 [^698-1]: Versiun tenor la cifra I 1 da la LF dals 23 da dec. 2011 (dretg da rendaquint), en vigur dapi il 1. da schan. 2013 ([AS 2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810); [BBl 2008 1589](https://fedlex.data.admin.ch/eli/fga/2008/416)).
-[^698-2]: Versiun tenor la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745).
+[^698-2]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^698-3]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^698-4]: Integrà tras la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^698-5]: Integrà tras la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^698-6]: Integrà tras la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^698-7]: Versiun tenor la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^698-8]: Integrà tras la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-### II. Convocaziun ed inscripziun en la glista da tractandas
+### II. Convocaziun e realisaziun da la radunanza generala
 
-### 1. Dretg ed obligaziun
-
-[^part3-tit26-chap3-lvlA-lvlII-lvl1-1]
-
-[^part3-tit26-chap3-lvlA-lvlII-lvl1-1]: Versiun tenor la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745).
+### 1. Moda da convocaziun
 
 #### Art. 699
 
-<sup>1</sup> La radunanza generala vegn convocada dal cussegl d’administraziun, en cas da basegn dal post da revisiun[^699-1]. Il dretg da convocaziun han er ils liquidaturs ed ils represchentants dals crediturs d’emprests.
+[^699-1]
 
-<sup>2</sup> La radunanza ordinaria ha lieu mintga onn entaifer 6 mais suenter la fin da l’onn da gestiun; radunanzas extraordinarias vegnan convocadas tut tenor basegn.
+<sup>1</sup> La radunanza generala vegn convocada dal cussegl d’administraziun, en cas da basegn dal post da revisiun. Il dretg da convocaziun han er ils liquidaturs ed ils represchentants dals crediturs d’emprests.
 
-<sup>3</sup> La convocaziun d’ina radunanza generala po er vegnir pretendida d’in u da plirs acziunaris che represchentan ensemen almain 10 pertschient dal chapital d’aczias. Acziunaris che represchentan aczias d’ina valur nominala dad 1 milliun francs pon pretender ch’in object vegnia inscrit en la glista da tractandas. La convocaziun e l’inscripziun en la glista da tractandas ston vegnir dumandadas en scrit, inditgond l’object da tractanda e las propostas.[^699-2]
+<sup>2</sup> La radunanza generala ordinaria ha lieu mintga onn entaifer 6 mais suenter la clusiun da l’onn da gestiun.
 
-<sup>4</sup> Sch’il cussegl d’administraziun n’accepta betg questa dumonda entaifer in termin adequat, ha la dretgira d’ordinar la convocaziun sin proposta dals petents.
+<sup>3</sup>
 
-[^699-1]: Expressiun tenor la cifra II 2 da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745). Questa midada è resguardada en l’entir decret.
-[^699-2]: Versiun tenor la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745).
+Acziunaris pon pretender la convocaziun d’ina radunanza generala, sch’els tegnan ensemen almain ina da las suandantas participaziuns:
 
-### 2. Furma
+- 1\. en societads cun aczias quotadas ad ina bursa: 5 pertschient dal chapital d’aczias u da las vuschs;
+- 2\. en autras societads: 10 pertschient dal chapital d’aczias u da las vuschs.
+
+<sup>4</sup> Els ston pretender en scrit la convocaziun. La dumonda sto cuntegnair las tractandas e las propostas.
+
+<sup>5</sup> Sch’il cussegl d’administraziun n’accepta betg la dumonda entaifer in termin adequat, dentant maximalmain entaifer 60 dis, pon ils petents dumandar la dretgira d’ordinar la convocaziun.
+
+[^699-1]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### 2. Communicaziun dal rapport da gestiun
+
+#### Art. 699a
+
+[^699a-1]
+
+<sup>1</sup> Almain 20 dis avant la radunanza generala ston il rapport da gestiun ed ils rapports da revisiun vegnir rendids accessibels als acziunaris. Sch’ils documents n’èn betg accessibels electronicamain, po mintga acziunari pretender ch’els al vegnian tramess ad uras.
+
+<sup>2</sup> Sch’ils documents n’èn betg accessibels electronicamain, po mintga acziunari pretender durant 1 onn suenter la radunanza generala, ch’i vegnia tramess ad el il rapport da gestiun en la furma approvada da la radunanza generala sco er ils rapports da revisiun.
+
+[^699a-1]: Integrà tras la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### 3. Dretg da tractandaziun e dretg da far propostas
+
+#### Art. 699b
+
+[^699b-1]
+
+<sup>1</sup>
+
+Acziunaris pon pretender la tractandaziun d’objects, sch’els tegnan ensemen almain ina da las suandantas participaziuns:
+
+- 1\. en societads cun aczias quotadas ad ina bursa: 0,5 pertschient dal chapital d’aczias u da las vuschs;
+- 2\. en autras societads: 5 pertschient dal chapital d’aczias u da las vuschs.
+
+<sup>2</sup> Sut las medemas premissas pon ils acziunaris pretender che propostas davart tractandas vegnian integradas en la convocaziun da la radunanza generala.
+
+<sup>3</sup> Cun la tractandaziun u cun las propostas pon ils acziunaris inoltrar ina curta motivaziun. Quella sto vegnir integrada en la convocaziun da la radunanza generala.
+
+<sup>4</sup> Sch’il cussegl d’administraziun n’accepta betg ina dumonda, pon ils petents dumandar la dretgira d’ordinar la tractandaziun d’objects u l’integraziun da propostas e da motivaziuns correspundentas en la convocaziun da la radunanza generala.
+
+<sup>5</sup> A la radunanza generala po mintga acziunari far propostas en il rom da las tractandas.
+
+[^699b-1]: Integrà tras la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### 4. Cuntegn da la convocaziun
 
 #### Art. 700
 
 [^700-1]
 
-<sup>1</sup> La radunanza generala sto vegnir convocada il pli tard 20 dis avant il di da la radunanza en la furma che vegn prescritta dals statuts.
+<sup>1</sup> Il cussegl d’administraziun communitgescha als acziunaris la convocaziun da la radunanza generala almain 20 dis avant il di da la radunanza.
 
-<sup>2</sup> En la convocaziun ston vegnir inditgads ils objects da tractanda sco er las propostas dal cussegl d’administraziun e dals acziunaris che han pretendì da convocar ina radunanza generala u d’inscriver in object en la glista da tractandas.
+<sup>2</sup>
 
-<sup>3</sup> Davart objects che n’èn betg vegnids inscrits duidamain en la glista da tractandas na pon vegnir prendidas naginas decisiuns; exceptadas da quai èn propostas da convocar ina radunanza generala extraordinaria, da far ina controlla speziala e d’eleger in post da revisiun en consequenza d’ina dumonda d’in acziunari.[^700-2]
+En la convocaziun stoi vegnir inditgà:
 
-<sup>4</sup> Per far propostas en il rom dals objects da tractanda e per tractar fatschentas, per las qualas i na sto betg vegnir prendida ina decisiun, na dovri betg in’annunzia precedenta.
+- 1\. la data, il cumenzament, il gener ed il lieu da la radunanza generala;
+- 2\. las tractandas;
+- 3\. las propostas dal cussegl d’administraziun ed – en societads cun aczias quotadas ad ina bursa – ina curta motivaziun da questas propostas;
+- 4\. eventualmain las propostas dals acziunaris cun ina curta motivaziun;
+- 5\. eventualmain il num e l’adressa dal represchentant independent dal dretg da votar.
 
-[^700-1]: Versiun tenor la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745).
-[^700-2]: Versiun tenor la cifra I 3 da la LF dals 16 da dec. 2005 (dretg da ScRL sco er adattaziuns en il dretg d’aczias, en il dretg d’associaziun, en il dretg dal register da commerzi ed en il dretg da firmas), en vigur dapi il 1. da schan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+<sup>3</sup> Il cussegl d’administraziun procura che las tractandas observian l’unitad da la materia e suttametta a la radunanza generala tut las infurmaziuns ch’èn necessarias per prender ses conclus.
 
-### 3. Radunanza da tut ils acziunaris
+<sup>4</sup> En la convocaziun dastga il cussegl d’administraziun preschentar las tractandas en moda summarica, sch’el metta a disposiziun als acziunaris infurmaziuns pli detagliadas en autra moda.
+
+[^700-1]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### 5. Radunanza universala ed approvaziun d’ina proposta
 
 #### Art. 701
 
-<sup>1</sup> Sch’i na vegn betg fatg opposiziun, pon ils proprietaris u ils represchentants da tut las aczias far ina radunanza generala senza observar las formalitads ch’èn prescrittas per la convocaziun.
+[^701-1]
 
-<sup>2</sup> Questa radunanza po tractar valaivlamain tut ils objects che appartegnan a la cumpetenza da la radunanza generala e prender conclus davart quests objects, uschè ditg ch’ils proprietaris u ch’ils represchentants da tut las aczias èn preschents.
+<sup>1</sup> Sch’i na vegn betg fatg opposiziun, pon ils proprietaris u ils represchentants da tut las aczias far ina radunanza generala senza observar las prescripziuns che valan per la convocaziun.
+
+<sup>2</sup> Uschenavant ch’ils proprietaris u ils represchentants da tut las aczias sa participeschan a questa radunanza, po ella tractar e decider valaivlamain davart tut ils objects che appartegnan a la cumpetenza da la radunanza generala.
+
+<sup>3</sup> Ina radunanza generala po medemamain vegnir salvada senza observar las prescripziuns che valan per la convocaziun, sch’ils conclus vegnan prendids en scrit sin palpiri u en furma electronica, uschenavant ch’in acziunari u ses represchentant na pretenda betg ina tractativa a bucca.
+
+[^701-1]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### 6. Lieu da la radunanza
+
+### a. En general
+
+#### Art. 701a
+
+[^701a-1]
+
+<sup>1</sup> Il cussegl d’administraziun fixescha il lieu da la radunanza generala.
+
+<sup>2</sup> La fixaziun dal lieu da la radunanza na dastga difficultar a nagins acziunaris en moda nunfundada l’exercizi da lur dretgs en connex cun la radunanza generala.
+
+<sup>3</sup> La radunanza generala po vegnir salvada il medem mument en differents lieus. En quest cas ston ils votums dals participants vegnir transmess audiovisualmain en directa en tut ils lieus da radunanza.
+
+[^701a-1]: Integrà tras la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### b. A l’exteriur
+
+#### Art. 701b
+
+[^701b-1]
+
+<sup>1</sup> La radunanza generala po vegnir salvada a l’exteriur, sch’ils statuts prevesan quai e sch’il cussegl d’administraziun designescha en la convocaziun in represchentant independent dal dretg da votar.
+
+<sup>2</sup> En societads senza aczias quotadas ad ina bursa po il cussegl d’administraziun desister da designar in represchentant independent dal dretg da votar, sche quai è bun per tut ils acziunaris.
+
+[^701b-1]: Integrà tras la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### 7. Utilisaziun da meds electronics
+
+### a. Exercizi dals dretgs d’acziunari
+
+#### Art. 701c
+
+[^701c-1]
+
+Il cussegl d’administraziun po prevair che acziunaris possian exequir lur dretgs sin via electronica, sch’els n’èn betg preschents al lieu da la radunanza generala.
+
+[^701c-1]: Integrà tras la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### b. Radunanza generala virtuala
+
+#### Art 701d
+
+[^701d-1]
+
+<sup>1</sup> Ina radunanza generala po vegnir salvada cun meds electronics senza lieu da dieta, sch’ils statuts prevesan quai e sch’il cussegl d’administraziun designescha en la convocaziun in represchentant independent dal dretg da votar.
+
+<sup>2</sup> En societads senza aczias quotadas ad ina bursa pon ils statuts prevair la pussaivladad da renunziar a la designaziun d’in represchentant independent dal dretg da votar.
+
+[^701d-1]: Integrà tras la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### c. Premissas per l’utilisaziun da meds electronics
+
+#### Art. 701e
+
+[^701e-1]
+
+<sup>1</sup> Il cussegl d’administraziun regla l’utilisaziun da meds electronics.
+
+<sup>2</sup>
+
+El procura che:
+
+- 1\. l’identitad dals participants saja clera;
+- 2\. ils votums da la radunanza generala vegnian transmess en directa;
+- 3\. mintga participant possia far propostas e sa participar a la discussiun;
+- 4\. il resultat da la votaziun na possia betg vegnir sfalsifitgà.
+
+[^701e-1]: Integrà tras la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### d. Problems tecnics
+
+#### Art. 701f
+
+[^701f-1]
+
+<sup>1</sup> Sch’i dat problems tecnics durant la radunanza generala, uschia ch’ella na po betg vegnir salvada confurm a l’urden, sto ella vegnir repetida.
+
+<sup>2</sup> Conclus che la radunanza generala ha prendì avant ch’ils problems tecnics èn cumparids, restan valaivels.
+
+[^701f-1]: Integrà tras la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### III. Mesiras preparatoricas; protocol
 
@@ -10672,36 +11210,50 @@ Ella ha las suandantas cumpetenzas intransferiblas:
 
 El procura ch’i vegnia scrit in protocol che cuntegna:
 
-- 1\. il dumber, la spezia, la valur nominala e la categoria da las aczias che vegnan represchentadas dals acziunaris, dals organs, dals represchentants independents dal dretg da votar e dals depositaris;
-- 2\. ils conclus ed ils resultats da las elecziuns;
-- 3\. las dumondas da survegnir infurmaziuns e las respostas respectivas;
-- 4\. las decleraziuns ch’ils acziunaris han dà per mauns dal protocol.
+- 1\. la data, il cumenzament e la fin sco er la furma ed il lieu da la radunanza generala;
+- 2\. il dumber, la spezia, la valur nominala e la categoria da las aczias represchentadas, cun l’indicaziun da las aczias che vegnan represchentadas dal represchentant independent dal dretg da votar, dals represchentants dal dretg da votar da l’organ u dals depositaris;
+- 3\. ils conclus ed ils resultats da las elecziuns;
+- 4\. las dumondas da survegnir infurmaziuns, formuladas durant la radunanza generala, e las respostas respectivas;
+- 5\. las decleraziuns ch’ils acziunaris han dà per mauns dal protocol;
+- 6\. ils problems tecnics relevants ch’èn resultads durant la radunanza generala.[^702-2]
 
-<sup>3</sup> Ils acziunaris han il dretg da prender invista dal protocol.
+<sup>3</sup> Il protocol sto vegnir suttascrit dal protocollist e dal parsura da la radunanza generala.[^702-3]
+
+<sup>4</sup> Mintga acziunari po pretender ch’il protocol al vegnia mess a disposiziun entaifer 30 dis suenter la radunanza generala.[^702-4]
+
+<sup>5</sup> En societads cun aczias quotadas ad ina bursa ston ils conclus ed ils resultats da las elecziuns, inclusiv l’indicaziun da las relaziuns exactas da las vuschs, vegnir mess a disposiziun sin via electronica entaifer 15 dis suenter la radunanza generala.[^702-5]
 
 [^702-1]: Versiun tenor la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745).
+[^702-2]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^702-3]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^702-4]: Integrà tras la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^702-5]: Integrà tras la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-### IV. Participaziun dals commembers dal cussegl d’administraziun
+### IV. Dretg dals commembers dal cussegl d’administraziun e da la direcziun da s’exprimer; dretg dal cussegl d’administraziun da far propostas
 
 #### Art. 702a
 
 [^702a-1]
 
-Ils commembers dal cussegl d’administraziun han il dretg da sa participar a la radunanza generala. Els pon far propostas.
+<sup>1</sup> Sch’ils commembers dal cussegl d’administraziun u da la direcziun sa participeschan a la radunanza generala, dastgan els s’exprimer davart mintga tractanda.
 
-[^702a-1]: Integrà tras la cifra I 3 da la LF dals 16 da dec. 2005 (dretg da ScRL sco er adattaziuns en il dretg d’aczias, en il dretg d’associaziun, en il dretg dal register da commerzi ed en il dretg da firmas), en vigur dapi il 1. da schan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+<sup>2</sup> Il cussegl d’administraziun po far propostas tar mintga tractanda.
+
+[^702a-1]: Integrà tras la cifra I 3 da la LF dals 16 da dec. 2005 (dretg da ScRL sco er adattaziuns dal dretg d’aczias, d’associaziuns, dal register da commerzi e da firmas) ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)). Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### V. Conclus ed elecziuns
 
 ### 1. En general
 
-[^part3-tit26-chap3-lvlA-lvlV-lvl1-1]
-
-[^part3-tit26-chap3-lvlA-lvlV-lvl1-1]: Versiun tenor la cifra I 3 da la LF dals 16 da dec. 2005 (dretg da ScRL sco er adattaziuns en il dretg d’aczias, en il dretg d’associaziun, en il dretg dal register da commerzi ed en il dretg da firmas), en vigur dapi il 1. da schan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
-
 #### Art. 703
 
-La radunanza generala prenda ses conclus e fa sias elecziuns cun la maioritad absoluta da las vuschs d’aczias, nun che la lescha u ch’ils statuts fixeschian insatge auter.
+[^703-1]
+
+<sup>1</sup> La radunanza generala prenda ses conclus e fa sias elecziuns cun la maioritad da las vuschs d’aczias represchentadas, nun che la lescha u ch’ils statuts fixeschian insatge auter.
+
+<sup>2</sup> Ils statuts pon prevair ch’il parsura haja la vusch decisiva en cas da paritad da las vuschs.
+
+[^703-1]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 2. Conclus impurtants
 
@@ -10711,25 +11263,33 @@ La radunanza generala prenda ses conclus e fa sias elecziuns cun la maioritad ab
 
 <sup>1</sup>
 
-In conclus da la radunanza generala che vegn approvà d’almain dus terzs da las vuschs represchentadas sco er da la maioritad absoluta da las valurs nominalas represchentadas, è necessari per:
+In conclus da la radunanza generala che vegn approvà d’almain dus terzs da las vuschs represchentadas sco er da la maioritad da las valurs nominalas da las aczias represchentadas, è necessari per:
 
 - 1\. midar l’intent da la societad;
-- 2\. introducir aczias cun dretg da votar;
-- 3\. restrenscher la transferibilitad d’aczias al num;
-- 4\.[^704-2] per effectuar in augment da chapital approvà u cundiziunà ubain per stgaffir chapital da reserva tenor l’artitgel 12 da la Lescha da bancas dals 8 da november 1934[^704-3];
-- 5\. augmentar il chapital tras agen chapital, cunter in apport en natiralias u per surpigliar bains, e conceder avantatgs spezials;
-- 6\. restrenscher u abolir il dretg da suttascripziun;
-- 7\. spustar la sedia da la societad;
-- 8\.[^704-4] dissolver la societad.
+- 2\. reunir aczias, nun che quai dovria il consentiment da tut ils acziunaris pertutgads;
+- 3\. augmentar il chapital tras agen chapital, tras apports en natiralias u tras la scuntrada cun ina pretensiun, e conceder avantatgs spezials;
+- 4\. restrenscher u abolir il dretg da suttascripziun;
+- 5\. introducir in chapital cundiziunà, introducir ina marscha da chapital u stgaffir chapital da reserva tenor l’artitgel 12 da la Lescha da bancas dals 8 da november 1934[^704-2];
+- 6\. converter certificats da participaziun en aczias;
+- 7\. restrenscher la transferibilitad d’aczias al num;
+- 8\. introducir aczias cun dretg da votar;
+- 9\. midar la valuta dal chapital d’aczias;
+- 10\. introducir la vusch decisiva dal parsura en la radunanza generala;
+- 11\. fixar ina disposiziun statutara per salvar la radunanza generala a l’exteriur;
+- 12\. dequotar ils titels da participaziun da la societad;
+- 13\. spustar la sedia da la societad;
+- 14\. introducir in clausula da cumpromiss en ils statuts;
+- 15\. desister da designar in represchentant independent dal dretg da votar per salvar ina radunanza generala virtuala en societads senza aczias quotadas ad ina bursa;
+- 16\. dissolver la societad.[^704-3]
 
-<sup>2</sup> Disposiziuns statutaras che fixeschan maioritads pli grondas che quellas ch’èn prescrittas da la lescha per prender tscherts conclus, pon vegnir introducidas mo cun la maioritad previsa.
+<sup>2</sup> Disposiziuns statutaras che prevesan – per tscherts conclus – maioritads pli grondas che las maioritads prescrittas da la lescha, pon vegnir introducidas, midadas u abolidas mo cun la maioritad previsa.[^704-4]
 
 <sup>3</sup> Ils possessurs d’aczias al num che n’han betg approvà in conclus davart la midada da l’intent da la societad u davart l’introducziun d’aczias cun dretg da votar n’èn betg liads vi da las restricziuns statutaras da la transferibilitad da las aczias, e quai durant 6 mais suenter la publicaziun dal conclus en il Fegl uffizial svizzer da commerzi.
 
 [^704-1]: Versiun tenor la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745).
-[^704-2]: Integrà tras la cifra 1 da l’annexa da la LF dals 30 da sett. 2011 (rinforzament da la stabilitad dal sectur da finanzas), en vigur dapi il 1. da mars 2012 ([AS 2012 811](https://fedlex.data.admin.ch/eli/oc/2012/126); [BBl 2011 4717](https://fedlex.data.admin.ch/eli/fga/2011/762)).
-[^704-3]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^704-4]: Versiun tenor la cifra I 3 da la LF dals 16 da dec. 2005 (dretg da ScRL sco er adattaziuns en il dretg d’aczias, en il dretg d’associaziun, en il dretg dal register da commerzi ed en il dretg da firmas), en vigur dapi il 1. da schan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^704-2]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^704-3]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^704-4]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 3. Conversiun d’aczias al possessur en aczias al num
 
@@ -10741,17 +11301,29 @@ Davart la conversiun d’aczias al possessur en aczias al num po la radunanza ge
 
 [^704a-1]: Integrà tras la cifra I 2 da la LF dals 12 da dec. 2014 davart la realisaziun da las recumandaziuns dal «Groupe d’action financière», revedidas l’onn 2012, en vigur dapi il 1. da fan. 2015 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
 
-### VI. Revocaziun dal cussegl d’administraziun e dal post da revisiun
+### 4. Annunzia da las tractandas
+
+#### Art. 704b
+
+[^704b-1]
+
+Davart tractandas che n’èn betg vegnidas annunziadas duidamain, na pon vegnir prendidas naginas decisiuns; exceptadas da quai èn propostas da convocar ina radunanza generala extraordinaria, da realisar in’examinaziun speziala e d’eleger in post da revisiun.
+
+[^704b-1]: Integrà tras la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### VI. Dretg da revocaziun
 
 [^part3-tit26-chap3-lvlA-lvlVI-1]
 
-[^part3-tit26-chap3-lvlA-lvlVI-1]: Versiun tenor la cifra I 3 da la LF dals 16 da dec. 2005 (dretg da ScRL sco er adattaziuns en il dretg d’aczias, en il dretg d’associaziun, en il dretg dal register da commerzi ed en il dretg da firmas), en vigur dapi il 1. da schan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^part3-tit26-chap3-lvlA-lvlVI-1]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 705
 
-<sup>1</sup> La radunanza generala ha il dretg da revocar ils commembers dal cussegl d’administraziun e dal post da revisiun sco er eventuals auters mandataris ed incumbensads ch’ella ha elegì.
+<sup>1</sup> La radunanza generala po revocar tut las persunas ch’ella ha elegì.[^705-1]
 
 <sup>2</sup> Pretensiuns d’indemnisaziun dals revocads restan resalvadas.
+
+[^705-1]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### VII. Contestaziun da conclus da la radunanza generala
 
@@ -10814,7 +11386,7 @@ Nunvalaivels èn en spezial ils conclus da la radunanza generala che:
 
 [^706b-1]: Integrà tras la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745).
 
-### B. Il cussegl d’administraziun****
+### B. Il cussegl d’administraziun
 
 [^part3-tit26-chap3-lvlB-1]
 
@@ -10861,21 +11433,19 @@ Nunvalaivels èn en spezial ils conclus da la radunanza generala che:
 
 [^709-1]: Versiun tenor la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745).
 
-### 3. Perioda d’uffizi
-
-[^part3-tit26-chap3-lvlB-lvlI-lvl3-1]
-
-[^part3-tit26-chap3-lvlB-lvlI-lvl3-1]: Versiun tenor la cifra I 3 da la LF dals 16 da dec. 2005 (dretg da ScRL sco er adattaziuns en il dretg d’aczias, en il dretg d’associaziun, en il dretg dal register da commerzi ed en il dretg da firmas), en vigur dapi il 1. da schan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+### 3. Durada d’uffizi
 
 #### Art. 710
 
 [^710-1]
 
-<sup>1</sup> Ils commembers dal cussegl d’administraziun vegnan elegids per 3 onns, nun ch’ils statuts fixeschian insatge auter. La perioda d’uffizi na dastga dentant betg surpassar 6 onns.
+<sup>1</sup> La durada d’uffizi dals commembers dal cussegl d’administraziun da societads cun aczias quotadas ad ina bursa finescha il pli tard cun la conclusiun da la proxima radunanza generala ordinaria. Ils commembers vegnan elegids individualmain.
 
-<sup>2</sup> Ina reelecziun è pussaivla.
+<sup>2</sup> En societads senza aczias quotadas ad ina bursa importa la durada d’uffizi 3 onns, nun ch’ils statuts disponian autramain; la durada d’uffizi na dastga dentant betg surpassar 6 onns. Ils commembers vegnan elegids individualmain, nun ch’ils statuts prevesian insatge auter u ch’il parsura da la radunanza generala ordineschia insatge auter cun il consentiment da tut ils acziunaris represchentads.
 
-[^710-1]: Versiun tenor la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745).
+<sup>3</sup> Ina reelecziun è pussaivla.
+
+[^710-1]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 711
 
@@ -10885,17 +11455,21 @@ Nunvalaivels èn en spezial ils conclus da la radunanza generala che:
 
 ### II. Organisaziun
 
-### 1. President e secretari
+### 1. President
 
 #### Art. 712
 
 [^712-1]
 
-<sup>1</sup> Il cussegl d’administraziun designescha ses president ed il secretari. Il secretari na sto betg appartegnair al cussegl d’administraziun.
+<sup>1</sup> En societads cun aczias quotadas ad ina bursa elegia la radunanza generala il president or dal ravugl dals commembers dal cussegl d’administraziun. Sia durada d’uffizi finescha il pli tard cun la conclusiun da la proxima radunanza generala ordinaria.
 
-<sup>2</sup> Ils statuts pon fixar ch’il president vegnia elegì da la radunanza generala.
+<sup>2</sup> En societads senza aczias quotadas ad ina bursa elegia il cussegl d’administraziun il president or dal ravugl da ses commembers. Ils statuts pon prevair che la radunanza generala elegia il president.
 
-[^712-1]: Versiun tenor la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745).
+<sup>3</sup> Ina reelecziun è pussaivla.
+
+<sup>4</sup> Sche l’uffizi dal president è vacant, nominescha il cussegl d’administraziun in nov president per la durada d’uffizi restanta. Ils statuts pon prevair autras reglas per eliminar questa mancanza organisatorica.
+
+[^712-1]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 2. Conclus
 
@@ -10905,11 +11479,19 @@ Nunvalaivels èn en spezial ils conclus da la radunanza generala che:
 
 <sup>1</sup> Ils conclus dal cussegl d’administraziun vegnan prendidas cun la maioritad da las vuschs dadas. Il parsura ha la vusch decisiva, nun ch’ils statuts fixeschian insatge auter.
 
-<sup>2</sup> Conclus pon er vegnir prendids sin la via dal consentiment en scrit, nun ch’in commember pretendia la tractativa a bucca.
+<sup>2</sup>
 
-<sup>3</sup> Davart las tractativas e davart ils conclus sto vegnir fatg in protocol che vegn suttascrit dal parsura e dal secretari.
+Il cussegl d’administraziun po prender ses conclus:
+
+- 1\. en il rom d’ina sesida cun lieu da radunanza;
+- 2\. tras l’utilisaziun da meds electronics, applitgond analogamain ils artitgels 701*c*–701*e*;
+- 3\. en scrit sin palpiri u en furma electronica, uschenavant ch’in commember na pretenda betg ina tractativa a bucca. Sch’ils conclus vegnan prendids sin via electronica, na dovri nagina suttascripziun; resalvada resta ina disposiziun divergenta ch’il cussegl d’administraziun ha determinà en scrit.[^713-2]
+
+<sup>3</sup> Las tractativas ed ils conclus ston vegnir protocollads; il protocol vegn suttascrit dal parsura e dal protocollist.[^713-3]
 
 [^713-1]: Versiun tenor la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745).
+[^713-2]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^713-3]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 3. Conclus nunvalaivels
 
@@ -10981,28 +11563,41 @@ Il cussegl d’administraziun ha las suandantas incumbensas intransferiblas e nu
 - 4\. nominar e revocar las persunas ch’èn incumbensadas cun la gestiun e cun la represchentanza;
 - 5\. exequir la surveglianza suprema da las persunas ch’èn incumbensadas cun la gestiun, en spezial en vista a l’observaziun da las leschas, dals statuts, dals reglaments e da las directivas;
 - 6\. far il rapport da gestiun[^716a-2] sco er preparar la radunanza generala ed exequir ses conclus;
-- 7\. infurmar la dretgira en cas d’ina surdebitaziun.
+- 7\.[^716a-3] inoltrar ina dumonda da moratori d’accumodament ed infurmar la dretgira en cas d’ina surdebitaziun;
+- 8\.[^716a-4] en societads cun aczias quotadas ad ina bursa: rediger il rapport d’indemnisaziun.
 
 <sup>2</sup> Il cussegl d’administraziun po surdar la preparaziun e l’execuziun da ses conclus u la surveglianza da fatschentas a giuntas u a singuls commembers. El ha da procurar che ses commembers vegnian infurmads adequatamain.
 
 [^716a-1]: Integrà tras la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745).
 [^716a-2]: Rectifitgà da la Cumissiun da redacziun da l’AF (art. 33 LRC – [AS 1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)).
+[^716a-3]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^716a-4]: Integrà tras la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-### 3. Delegaziun da la gestiun
+### 3. Transferiment da la gestiun
 
 #### Art. 716b
 
 [^716b-1]
 
-<sup>1</sup> Ils statuts pon autorisar il cussegl d’administraziun da delegar la gestiun a norma d’in reglament d’organisaziun dal tuttafatg u per part a singuls commembers u a terzas persunas.
+<sup>1</sup> Sch’ils statuts na prevesan nagut auter, po il cussegl d’administraziun transferir – sin basa d’in reglament d’organisaziun – l’entira gestiun u ina part da tala a singuls commembers u a terzas persunas (direcziun).
 
-<sup>2</sup> Quest reglament regla la gestiun, fixescha las plazzas necessarias, circumscriva lur incumbensas e regla en spezial l’obligaziun da dar rapport. Sin dumonda dals acziunaris e dals crediturs da la societad che fan valair in interess ch’è degn da vegnir protegì, als orientescha il cussegl d’administraziun en scrit davart l’organisaziun da la gestiun.
+<sup>2</sup> En societads cun aczias quotadas ad ina bursa po la gestiun vegnir transferida a singuls commembers dal cussegl d’administraziun u ad autras persunas natiralas. L’administraziun da la facultad po er vegnir transferida a persunas giuridicas.
 
-<sup>3</sup> Sche la gestiun n’è betg vegnida delegada, vegn ella exequida cuminaivlamain da tut ils commembers dal cussegl d’administraziun.
+<sup>3</sup> Il reglament regla la gestiun, fixescha las plazzas necessarias, circumscriva lur incumbensas e regla en spezial la rapportaziun.
 
-[^716b-1]: Integrà tras la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745).
+<sup>4</sup> Sin dumonda dals acziunaris e dals crediturs da la societad che fan valair in interess degn da vegnir protegì, als orientescha il cussegl d’administraziun en scrit u en furma electronica davart l’organisaziun da la gestiun.
+
+<sup>5</sup> Sche la gestiun n’è betg vegnida transferida, vegn ella exequida cuminaivlamain da tut ils commembers dal cussegl d’administraziun.
+
+[^716b-1]: Integrà tras la cifra I da la LF dals 4 d’oct. 1991 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### IV. Quità e fidaivladad
+
+### 1. En general
+
+[^part3-tit26-chap3-lvlB-lvlIV-lvl1-1]
+
+[^part3-tit26-chap3-lvlB-lvlIV-lvl1-1]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 717
 
@@ -11013,6 +11608,18 @@ Il cussegl d’administraziun ha las suandantas incumbensas intransferiblas e nu
 <sup>2</sup> Els han da tractar da medema maniera ils acziunaris che sa chattan en la medema situaziun.
 
 [^717-1]: Versiun tenor la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745).
+
+### 2. Conflicts d’interess
+
+#### Art. 717a
+
+[^717a-1]
+
+<sup>1</sup> Ils commembers dal cussegl d’administraziun e da la direcziun infurmeschan immediatamain e cumplettamain il cussegl d’administraziun davart conflicts d’interess che pertutgan lur persuna.
+
+<sup>2</sup> Il cussegl d’administraziun prenda las mesiras necessarias per mantegnair ils interess da la societad.
+
+[^717a-1]: Integrà tras la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### V. Represchentanza
 
@@ -11065,21 +11672,17 @@ Sche la societad fa in contract e sch’ella vegn represchentada en questa fatsc
 
 Las persunas ch’èn autorisadas da represchentar la societad han da suttascriver uschia ch’ellas agiunteschan lur suttascripziun a la firma da la societad.
 
-### 5. Inscripziun
+#### Art. 720
+
+[^720-1]
+
+[^720-1]: Abolì tras la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), cun effect dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### 5. Procurists e mandataris
 
 [^part3-tit26-chap3-lvlB-lvlV-lvl5-1]
 
-[^part3-tit26-chap3-lvlB-lvlV-lvl5-1]: Versiun tenor la cifra I 3 da la LF dals 16 da dec. 2005 (dretg da ScRL sco er adattaziuns en il dretg d’aczias, en il dretg d’associaziun, en il dretg dal register da commerzi ed en il dretg da firmas), en vigur dapi il 1. da schan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
-
-#### Art. 720
-
-Las persunas ch’èn autorisadas da represchentar la societad ston vegnir annunziadas dal cussegl d’administraziun per l’inscripziun en il register da commerzi, preschentond ina copia legalisada dal conclus. Ellas ston dar lur suttascripziun tar l’uffizi dal register da commerzi u inoltrar la suttascripziun en furma legalisada.
-
-### 6. Procurists e mandataris
-
-[^part3-tit26-chap3-lvlB-lvlV-lvl6-1]
-
-[^part3-tit26-chap3-lvlB-lvlV-lvl6-1]: Versiun tenor la cifra I 3 da la LF dals 16 da dec. 2005 (dretg da ScRL sco er adattaziuns en il dretg d’aczias, en il dretg d’associaziun, en il dretg dal register da commerzi ed en il dretg da firmas), en vigur dapi il 1. da schan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^part3-tit26-chap3-lvlB-lvlV-lvl5-1]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 721
 
@@ -11089,11 +11692,11 @@ Il cussegl d’administraziun po nominar procurists ed auters mandataris.
 
 [^721-1]: Versiun tenor la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745).
 
-### VI. Responsabladad dals organs
+### VI. Responsabladad per ils organs
 
 [^part3-tit26-chap3-lvlB-lvlVI-1]
 
-[^part3-tit26-chap3-lvlB-lvlVI-1]: Versiun tenor la cifra I 3 da la LF dals 16 da dec. 2005 (dretg da ScRL sco er adattaziuns en il dretg d’aczias, en il dretg d’associaziun, en il dretg dal register da commerzi ed en il dretg da firmas), en vigur dapi il 1. da schan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^part3-tit26-chap3-lvlB-lvlVI-1]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 722
 
@@ -11109,37 +11712,77 @@ La societad è responsabla per il donn ch’ina persuna, ch’è incumbensada cu
 
 [^723724-1]: Abolì tras la cifra I da la LF dals 4 d’oct. 1991, cun effect dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 
-### VII. Perdita da chapital e surdebitaziun
+### VII. Insolvenza smanatschanta, perdita da chapital e surdebitaziun
 
-### 1. Obligaziuns d’annunzia
+### 1. Insolvenza smanatschanta
 
 #### Art. 725
 
 [^725-1]
 
-<sup>1</sup> Sche l’ultima bilantscha annuala mussa che la mesadad dal chapital d’aczias e da las reservas legalas n’è betg pli cuvrida, convochescha il cussegl d’administraziun immediatamain ina radunanza generala e la propona mesiras da sanaziun.
+<sup>1</sup> Il cussegl d’administraziun surveglia la solvenza da la societad.
 
-<sup>2</sup> Sch’igl exista ina tema fundada d’ina surdebitaziun, sto vegnir fatga ina bilantscha intermediara che sto vegnir suttamessa ad in revisur admess per la laschar controllar.[^725-2] Sche la bilantscha intermediara mussa che las pretensiuns dals crediturs da la societad n’èn cuvridas ni areguard las valurs d’explotaziun ni areguard las valurs d’alienaziun, sto il cussegl d’administraziun infurmar la dretgira, nun ch’ils crediturs da la societad acceptian che lur pretensiun vegnia plazzada davos tut ils auters crediturs da la societad en la dimensiun da questa cuvrida insuffizienta.
+<sup>2</sup> Sch’igl exista il privel che la societad pudess daventar insolventa, prenda il cussegl d’administraziun mesiras per garantir la solvenza. Sche necessari prenda el ulteriuras mesiras per sanar la societad u propona a la radunanza generala da prender talas mesiras, sche quai tutga en la cumpetenza da la radunanza generala. En cas da basegn inoltrescha el ina dumonda da moratori d’accumodament.
 
-<sup>3</sup> Sche la societad n’ha betg in post da revisiun, ha il revisur admess d’ademplir las obligaziuns d’annunzia dal post da revisiun che fa la controlla limitada.[^725-3]
+<sup>3</sup> Il cussegl d’administraziun agescha cun la prescha duida.
 
-[^725-1]: Versiun tenor la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745).
-[^725-2]: Versiun tenor la cifra I 3 da la LF dals 16 da dec. 2005 (dretg da ScRL sco er adattaziuns dal dretg d’aczias, d’associaziuns, dal register da commerzi e da firmas), cun effect dapi il 1. da schan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
-[^725-3]: Integrà tras la cifra I 3 da la LF dals 16 da dec. 2005 (dretg da ScRL sco er adattaziuns en il dretg d’aczias, en il dretg d’associaziun, en il dretg dal register da commerzi ed en il dretg da firmas), en vigur dapi il 1. da schan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^725-1]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-### 2. Decleraziun u suspensiun dal concurs
+### 2. Perdita da chapital
 
 #### Art. 725a
 
 [^725a-1]
 
-<sup>1</sup> Cur che la dretgira ha survegnì l’annunzia, declera ella il concurs. Sin dumonda dal cussegl d’administraziun u d’in creditur po ella suspender il concurs, sch’igl exista ina pussaivladad da sanar la societad; en quest cas prenda ella mesiras per mantegnair la facultad.
+<sup>1</sup> Sche l’ultim quint annual mussa che las activas na cuvran, suenter la deducziun da las obligaziuns, betg pli la mesadad da la summa dal chapital d’aczias, da la reserva legala dal chapital che na dastga betg vegnir pajada enavos als acziunari sco er da la reserva legala dal gudogn, prenda il cussegl d’administraziun mesiras per eliminar la perdita da chapital. Sche necessari prenda el ulteriuras mesiras per sanar la societad u propona a la radunanza generala da prender talas mesiras, sche quai tutga en la cumpetenza da la radunanza generala.
 
-<sup>2</sup> La dretgira po nominar in curatur e po ubain privar il cussegl d’administraziun da sia cumpetenza da disponer ubain suttametter ils conclus dal cussegl d’administraziun al consentiment dal curatur. Ella circumscriva las incumbensas dal curatur.
+<sup>2</sup> Sche la societad n’ha betg in post da revisiun, sto l’ultim quint annual ultra da quai vegnir suttamess ad in revisur admess per laschar far ina revisiun limitada, avant ch’el vegn approvà da la radunanza generala. Il cussegl d’administraziun nominescha il revisur admess.
 
-<sup>3</sup> La suspensiun dal concurs sto vegnir publitgada mo, sche quai è necessari per proteger terzas persunas.
+<sup>3</sup> L’obligaziun da revisiun tenor l’alinea 2 scroda, sch’il cussegl d’administraziun inoltrescha ina dumonda da moratori d’accumodament.
 
-[^725a-1]: Integrà tras la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745).
+<sup>4</sup> Il cussegl d’administraziun ed il post da revisiun u il revisur admess ageschan cun la prescha duida.
+
+[^725a-1]: Integrà tras la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### 3. Surdebitaziun
+
+#### Art. 725b
+
+[^725b-1]
+
+<sup>1</sup> Sch’igl exista ina tema fundada che las obligaziuns da la societad na sajan betg pli cuvridas tras las activas, fa il cussegl d’administraziun immediatamain ina clusiun intermediara da las valurs d’explotaziun ed ina clusiun intermediara da las valurs d’alienaziun. D’ina clusiun intermediara da las valurs d’alienaziun poi vegnir desistì, sch’i dat motivs da supponer che l’activitad vegnia cuntinuada e sche la clusiun intermediara da las valurs d’explotaziun na mussa nagina surdebitaziun. Sch’i na dat nagins motivs da supponer che l’activitad vegnia cuntinuada, basta ina clusiun intermediara da las valurs d’alienaziun.
+
+<sup>2</sup> Il cussegl d’administraziun lascha examinar las clusiuns intermediaras tras il post da revisiun u – en cas che la societad n’ha betg in post da revisiun – tras in revisur admess; el nominescha il revisur admess.
+
+<sup>3</sup> Sche las duas clusiuns intermediaras mussan che la societad è surdebitada, infurmescha il cussegl d’administraziun la dretgira. Quella declera il concurs u proceda tenor l’artitgel 173*a* da la Lescha federala dals 11 d’avrigl 1889[^725b-2] davart la scussiun ed il concurs.
+
+<sup>4</sup>
+
+La dretgira na sto betg vegnir infurmada:
+
+- 1\. sche tscherts crediturs da la societad prorogheschan lur pretensiuns ed acceptan ch’els vegnian plazzads davos tut ils auters crediturs en la dimensiun da la surdebitaziun, uschenavant che la cessiun dal rang cumpiglia l’import debità e las pretensiuns da tschains durant la surdebitaziun; u
+- 2\. uscheditg ch’i dat buns motivs da sperar che la surdebitaziun possia vegnir eliminada entaifer in termin adequat, il pli tard dentant 90 dis suenter che las clusiuns intermediaras controlladas èn avant maun, e che las pretensiuns dals crediturs na vegnian betg periclitadas supplementarmain.
+
+<sup>5</sup> Sche la societad n’ha betg in post da revisiun, ha il revisur admess d’ademplir las obligaziuns d’annunzia dal post da revisiun che fa la controlla limitada.
+
+<sup>6</sup> Il cussegl d’administraziun ed il post da revisiun u il revisur admess ageschan cun la prescha duida.
+
+[^725b-1]: Integrà tras la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^725b-2]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+
+### 4. Revalitaziun da bains immobigliars e da participaziuns
+
+#### Art. 725c
+
+[^725c-1]
+
+<sup>1</sup> Per eliminar ina perdita da chapital tenor l’artitgel 725*a* u ina surdebitaziun tenor l’artitgel 725*b* dastga, en cas nua che la valur reala da bains immobigliars u da participaziuns è s’augmentada sur ils custs d’acquisiziun u da producziun, lur valur vegnir augmentada maximalmain fin a questa plivalur. L’import da revalitaziun sto figurar separadamain en la reserva legala dal gudogn sco reserva da revalitaziun.
+
+<sup>2</sup> La revalitaziun è mo admissibla, sch’il post da revisiun u – en cas che la societad n’ha betg in post da revisiun – in revisur admess conferma en scrit che las disposiziuns legalas vegnian observadas.
+
+<sup>3</sup> La reserva da revalitaziun po vegnir dissolvida mo tras ina conversiun en chapital d’aczias u en chapital da participaziun, tras ina rectificaziun da la valur u tras l’alienaziun da las activas revalitadas.
+
+[^725c-1]: Integrà tras la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### VIII. Revocaziun e suspensiun
 
@@ -11155,7 +11798,7 @@ La societad è responsabla per il donn ch’ina persuna, ch’è incumbensada cu
 
 <sup>3</sup> Las pretensiuns d’indemnisaziun da las persunas ch’èn vegnidas revocadas u ch’èn vegnidas suspendidas da lur funcziuns restan resalvadas.
 
-### C.**** Il post da revisiun
+### C. Il post da revisiun
 
 [^part3-tit26-chap3-lvlC-1]
 
@@ -11189,11 +11832,14 @@ Las suandantas societads ston laschar far in post da revisiun ina controlla ordi
 
 - 3\. societads che han l’obligaziun da cumpilar in quint dal concern.
 
+<sup>1bis</sup> Sch’il rendaquint na vegn betg preschentà en francs, vegnan las valurs tenor l’alinea 1 cifra 2 fixadas sco suonda: per la summa da bilantscha sin basa dal curs da stgomi dal di da referenza da la bilantscha e per il retgav da la svieuta sin basa da la media annuala dal curs.[^727-2]
+
 <sup>2</sup> Ina revisiun ordinaria sto vegnir fatga er, sche acziunaris che represchentan ensemen almain 10 pertschient dal chapital d’aczias, pretendan quai.
 
 <sup>3</sup> Sche la lescha na pretenda betg ina revisiun ordinaria dal quint annual, pon ils statuts prevair u po la radunanza generala concluder ch’il quint annual vegnia suttamess ad ina controlla ordinaria.
 
 [^727-1]: Versiun tenor la cifra 1 da la LF dals 17 da zer. 2011 (dretg da revisiun), en vigur dapi il 1. da schan. 2012 ([AS 2011 5863](https://fedlex.data.admin.ch/eli/oc/2011/808); [BBl 2008 159](https://fedlex.data.admin.ch/eli/fga/2008/55)). Guardar er disp. trans. da questa midada.
+[^727-2]: Integrà tras la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 2. Revisiun limitada
 
@@ -11207,7 +11853,7 @@ Las suandantas societads ston laschar far in post da revisiun ina controlla ordi
 
 <sup>4</sup> Sch’ils acziunaris han renunzià ad ina revisiun limitada, vala questa renunzia er per ils onns suandants. Mintga acziunari ha dentant il dretg da pretender in revisiun limitada il pli tard 10 dis avant la radunanza generala. En quest cas sto la radunanza generala eleger il post da revisiun.
 
-<sup>5</sup> Sche necessari adattescha il cussegl d’administraziun ils statuts ed annunzia al register da commerzi l’extincziun u l’inscripziun dal post da revisiun.
+<sup>5</sup> Sche necessari adatta il cussegl d’administraziun ils statuts ed annunzia al register da commerzi l’extincziun u l’inscripziun dal post da revisiun.
 
 ### II. Pretensiuns al post da revisiun
 
@@ -11255,7 +11901,9 @@ Betg cumpatibel cun l’independenza è en spezial:
 
 <sup>5</sup> L’independenza n’è er betg dada, sche persunas che stattan en in stretga relaziun cun il post da revisiun, cun las persunas ch’èn participadas a la revisiun, cun ils commembers da l’organ directiv u administrativ suprem u cun autras persunas cun funcziuns da decisiun n’adempleschan betg las premissas d’independenza.
 
-<sup>6</sup> Las disposiziuns davart l’independenza valan er per societads che stattan sut ina direcziun unitara cun la societad che duai vegnir controllada u cun il post da revisiun.
+<sup>6</sup> Las disposiziuns davart l’independenza valan er per interpresas che vegnan controlladas da la societad u dal post da revisiun ubain che controlleschan la societad u il post da revisiun.[^728-1]
+
+[^728-1]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 2. Incumbensas dal post da revisiun
 
@@ -11269,11 +11917,14 @@ Il post da revisiun controllescha, sche:
 
 - 1\. il quint annual ed eventualmain il quint dal concern correspundan a las prescripziuns legalas, als statuts ed a las reglas tschernidas;
 - 2\. la proposta dal cussegl d’administraziun a la radunanza generala davart l’utilisaziun dal gudogn che resulta tras la bilantscha correspunda a las prescripziuns ed als statuts;
-- 3\. igl exista in sistem da controlla intern.
+- 3\. igl exista in sistem da controlla intern;
+- 4\.[^728a-1] il rapport d’indemnisaziun da societads cun aczias quotadas ad ina bursa correspunda a las prescripziuns legalas ed als statuts.
 
 <sup>2</sup> Faschond la controlla e fixond la dimensiun da quella, resguarda il post da revisiun il sistem da controlla intern.
 
 <sup>3</sup> La gestiun dal cussegl d’administraziun n’è betg object da la controlla dal post da revisiun.
+
+[^728a-1]: Integrà tras la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### b. Rapport da revisiun
 
@@ -11307,9 +11958,13 @@ Plinavant infurmescha el la radunanza generala davart cuntravenziuns cunter la l
 
 <sup>3</sup> Sche la societad è evidentamain indebitada e sch’il cussegl d’administraziun tralascha d’annunziar quai, infurmescha il post da revisiun la dretgira.
 
-### IV. Revisiun limitada (review)
+### IV. Revisiun limitada
 
 ### 1. Independenza dal post da revisiun
+
+[^part3-tit26-chap3-lvlC-lvlIV-lvl1-1]
+
+[^part3-tit26-chap3-lvlC-lvlIV-lvl1-1]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 729
 
@@ -11379,7 +12034,9 @@ Sche la societad è evidentamain indebitada e sch’il cussegl d’administraziu
 
 <sup>3</sup> Sch’in post da revisiun demissiunescha, sto el infurmar il cussegl d’administraziun davart ils motivs; quel communitgescha la demissiun a la proxima radunanza generala.
 
-<sup>4</sup> La radunanza generala po revocar da tut temp il post da revisiun cun effect immediat.
+<sup>4</sup> La radunanza generala po revocar il post da revisiun mo per motivs impurtants.[^730a-1]
+
+[^730a-1]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 3. Infurmaziuns e secretezza
 
@@ -11417,7 +12074,7 @@ Sche la societad è evidentamain indebitada e sch’il cussegl d’administraziu
 
 <sup>3</sup> La radunanza generala po nominar experts per laschar controllar la gestiun u singulas parts da la gestiun.
 
-### D.**** Mancanzas en l’organisaziun da la societad
+### D. Mancanzas en l’organisaziun da la societad
 
 [^part3-tit26-chap3-lvlD-1]
 
@@ -11453,65 +12110,128 @@ La dretgira po en spezial:
 [^731b-2]: Integrà tras la cifra I 1 da la LF dals 21 da zer. 2019 davart la realisaziun da las recumandaziuns dal Forum global per la transparenza ed il barat d’infurmaziuns per intents fiscals, en vigur dapi il 1. da nov. 2019 ([AS 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [BBl 2019 279](https://fedlex.data.admin.ch/eli/fga/2019/18)).
 [^731b-3]: Integrà tras la cifra I 2 da la LF dals 17 da mars 2017 (dretg dal register da commerzi), en vigur dapi il 1. da schan. 2021 ([AS 2020 957](https://fedlex.data.admin.ch/eli/oc/2020/178); [BBl 2015 3617](https://fedlex.data.admin.ch/eli/fga/2015/956)).
 
-### Quart chapitel: Reducziun dal chapital d’aczias
+### Quart chapitel: Indemnisaziuns en societads cun aczias quotadas ad ina bursa
 
-### A. Conclus da reducziun
+[^part3-tit26-chap4-1]
+
+[^part3-tit26-chap4-1]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023, art. 734*f* en vigur dapi il 1. da schan. 2021 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### A. Champ d’applicaziun
 
 #### Art. 732
 
-<sup>1</sup> Sch’ina societad anonima ha l’intent da reducir ses chapital d’aczias senza remplazzar a medem temp l’import da reducziun tras nov chapital che sto vegnir liberà cumplainamain, sto la radunanza generala concluder ina midada correspundenta dals statuts.
+<sup>1</sup> Las disposiziuns da quest chapitel valan per societads cun aczias quotadas ad ina bursa.
 
-<sup>2</sup> Ella dastga prender in tal conclus mo, sch’in expert da revisiun admess conferma en in rapport da controlla che las pretensiuns dals crediturs sajan cuvridas cumplainamain, malgrà la reducziun dal chapital d’aczias. L’expert da revisiun sto esser preschent a la radunanza generala.[^732-1]
-
-<sup>3</sup> Il conclus sto constatar il resultat dal rapport da controlla ed inditgar, en tge moda che la reducziun dal chapital duai vegnir exequida.[^732-2]
-
-<sup>4</sup> In gudogn da contabilitad che resulta eventualmain tras la reducziun dal chapital sto vegnir utilisà exclusivamain per far amortisaziuns.
-
-<sup>5</sup> Il chapital d’aczias dastga vegnir reducì sut 100 000 mo, sch’el vegn remplazzà a medem temp tras nov chapital en l’autezza d’almain 100 000 francs, che sto vegnir liberà cumplainamain.[^732-3]
-
-[^732-1]: Versiun tenor la cifra I 3 da la LF dals 16 da dec. 2005 (dretg da ScRL sco er adattaziuns en il dretg d’aczias, en il dretg d’associaziun, en il dretg dal register da commerzi ed en il dretg da firmas), en vigur dapi il 1. da schan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
-[^732-2]: Versiun tenor la cifra I 3 da la LF dals 16 da dec. 2005 (dretg da ScRL sco er adattaziuns en il dretg d’aczias, en il dretg d’associaziun, en il dretg dal register da commerzi ed en il dretg da firmas), en vigur dapi il 1. da schan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
-[^732-3]: Versiun tenor la cifra I 3 da la LF dals 16 da dec. 2005 (dretg da ScRL sco er adattaziuns en il dretg d’aczias, en il dretg d’associaziun, en il dretg dal register da commerzi ed en il dretg da firmas), en vigur dapi il 1. da schan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
-
-### B. Annullaziun d’aczias a chaschun d’ina sanaziun
+<sup>2</sup> Autras societads pon prevair en lur statuts, che quest chapitel saja applitgabel per part u dal tuttafatg per ellas.
 
 #### Art. 732a
 
-[^732a-1]
+Abolì
 
-<sup>1</sup> Sch’il chapital d’aczias vegn reducì a nulla ed alura puspè augmentà per intents da sanaziun, van ils dretgs da commembranza dals acziunaris anteriurs a perder tras la reducziun. Las aczias emessas ston vegnir annulladas.
-
-<sup>2</sup> Cur ch’il chapital d’aczias vegn puspè augmentà, han ils acziunaris anteriurs in dretg da suttascripziun che na po betg vegnir retratg dad els.
-
-[^732a-1]: Integrà tras la cifra I 3 da la LF dals 16 da dec. 2005 (dretg da ScRL sco er adattaziuns en il dretg d’aczias, en il dretg d’associaziun, en il dretg dal register da commerzi ed en il dretg da firmas), en vigur dapi il 1. da schan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
-
-### C. Appel als crediturs
-
-[^part3-tit26-chap4-lvlC-1]
-
-[^part3-tit26-chap4-lvlC-1]: Versiun tenor la cifra I 3 da la LF dals 16 da dec. 2005 (dretg da ScRL sco er adattaziuns en il dretg d’aczias, en il dretg d’associaziun, en il dretg dal register da commerzi ed en il dretg da firmas), en vigur dapi il 1. da schan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+### B. Cumissiun d’indemnisaziun
 
 #### Art. 733
 
-Sche la radunanza generala ha concludì da reducir il chapital d’aczias, publitgescha il cussegl d’administraziun il conclus trais giadas en il Fegl uffizial svizzer da commerzi ed ultra da quai en la furma ch’è previsa en ils statuts, infurmond ils crediturs ch’els possian annunziar lur pretensiuns e pretender ina satisfacziun u ina garanzia, e quai entaifer 2 mais quintà davent da la terza publicaziun en il Fegl uffizial svizzer da commerzi.
+<sup>1</sup> La radunanza generala elegia individualmain ils commembers da la cumissiun d’indemnisaziun.
 
-### D. Execuziun da la reducziun
+<sup>2</sup> Elegibels èn mo commembers dal cussegl d’administraziun.
 
-[^part3-tit26-chap4-lvlD-1]
+<sup>3</sup> La durada d’uffizi finescha cun la conclusiun da la proxima radunanza generala ordinaria. La reelecziun è pussaivla.
 
-[^part3-tit26-chap4-lvlD-1]: Versiun tenor la cifra I 3 da la LF dals 16 da dec. 2005 (dretg da ScRL sco er adattaziuns en il dretg d’aczias, en il dretg d’associaziun, en il dretg dal register da commerzi ed en il dretg da firmas), en vigur dapi il 1. da schan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+<sup>4</sup> Sche la cumissiun d’indemnisaziun n’è betg occupada cumplettamain, nominescha il cussegl d’administraziun ils commembers mancants per la durada d’uffizi restanta. Ils statuts pon prevair autras reglas per eliminar questa mancanza organisatorica.
+
+<sup>5</sup> Ils statuts reglan ils princips concernent las incumbensas e concernent las cumpetenzas da la cumissiun d’indemnisaziun.
+
+### C. Rapport d’indemnisaziun
+
+### I. En general
 
 #### Art. 734
 
-Il chapital d’aczias dastga vegnir reducì pir suenter la scadenza dal termin ch’è vegnì fixà per ils crediturs e pir suenter ch’ils crediturs annunziads han survegnì ina satisfacziun u ina garanzia; la reducziun dastga vegnir inscritta en il register da commerzi pir, cur ch’igl è vegnì constatà tras in document public che las prescripziuns da quest chapitel sajan ademplidas. Il rapport da controlla sto vegnir agiuntà al document public.[^734-1]
+<sup>1</sup> Il cussegl d’administraziun redigia mintga onn in rapport d’indemnisaziun en scrit.
 
-[^734-1]: Versiun da la segunda frasa tenor la cifra I 3 da la LF dals 16 da dec. 2005 (dretg da ScRL sco er adattaziuns en il dretg d’aczias, en il dretg d’associaziun, en il dretg dal register da commerzi ed en il dretg da firmas), en vigur dapi il 1. da schan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+<sup>2</sup> Las disposiziuns dal trentadusavel titel davart ils princips dal rendaquint regular, da la preschentaziun, da la valuta e da la lingua sco er da la gestiun e da la conservaziun dals cudeschs da fatschenta èn applitgablas analogamain per il rapport d’indemnisaziun.
 
-#### Art. 734a–734e
+<sup>3</sup> Per communitgar e per publitgar il rapport d’indemnisaziun èn applitgablas analogamain las disposiziuns davart la communicaziun e davart la publicaziun dal rapport da gestiun.
 
-[^734a734e-1]
+### II. Indemnisaziuns al cussegl d’administraziun, a la direcziun ed al cussegl consultativ
 
-[^734a734e-1]: Entran en vigur pli tard ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+#### Art. 734a
+
+<sup>1</sup>
+
+En il rapport d’indemnisaziun ston vegnir inditgadas tut las indemnisaziuns che la societad ha pajà directamain u indirectamain:
+
+- 1\. a commembers actuals dal cussegl d’administraziun;
+- 2\. a commembers actuals da la direcziun;
+- 3\. a commembers actuals dal cussegl consultativ;
+- 4\. ad anteriurs commembers dal cussegl d’administraziun, da la direcziun e dal cussegl consultativ, sche las indemnisaziuns han in connex cun l’anteriura activitad sco organ da la societad; exceptadas èn prestaziuns dal provediment professiunal.
+
+<sup>2</sup>
+
+Sco indemnisaziuns valan en spezial:
+
+- 1\. onuraris, salaris e bunificaziuns;
+- 2\. tantiemas, participaziuns a la svieuta ed autras participaziuns al resultat da la fatschenta;
+- 3\. prestaziuns da servetsch e prestaziuns materialas;
+- 4\. l’attribuziun da titels da participaziun sco er da dretgs da conversiun e d’opziun;
+- 5\. premias d’entrada;
+- 6\. garanzias, obligaziuns da garanzia, constituziuns da pegns ed autras segirezzas;
+- 7\. la renunzia a pretensiuns;
+- 8\. expensas che constitueschan u augmentan ils dretgs da survegnir prestaziuns da provediment;
+- 9\. tut las prestaziuns per lavurs supplementaras;
+- 10\. indemnisaziuns en connex cun scumonds da concurrenza.
+
+<sup>3</sup>
+
+Las indicaziuns davart las indemnisaziuns cumpiglian:
+
+- 1\. l’import total che vegn pajà al cussegl d’administraziun e l’import che vegn pajà a mintga commember, inditgond il num e la funcziun dal commember respectiv;
+- 2\. l’import total che vegn pajà a la direcziun e l’import il pli aut che vegn pajà ad in singul commember, inditgond il num e la funcziun dal commember respectiv;
+- 3\. l’import total che vegn pajà al cussegl consultativ e l’import che vegn pajà a mintga commember, inditgond il num e la funcziun dal commember respectiv;
+- 4\. eventualmain ils nums e las funcziuns dals commembers da la direcziun che han survegnì pajaments supplementars.
+
+### III. Emprests e credits al cussegl d’administraziun, a la direcziun ed al cussegl consultativ
+
+#### Art. 734b
+
+<sup>1</sup>
+
+En il rapport d’indemnisaziun ston vegnir inditgads:
+
+- 1\. ils emprests ed ils credits betg anc restituids, ch’eran vegnids concedids als commembers actuals dal cussegl d’administraziun, da la direcziun e dal cussegl consultativ;
+- 2\. ils emprests ed ils credits betg anc restituids, ch’eran vegnids concedids sut cundiziuns betg usitadas sin il martgà ad anteriurs commembers dal cussegl d’administraziun, da la direcziun e dal cussegl consultativ.
+
+<sup>2</sup> Per las indicaziuns davart ils emprests e davart ils credits vala l’artitgel 734*a* alinea 3 analogamain.
+
+### IV. Indemnisaziuns, emprests e credits a persunas cun ina stretga relaziun
+
+#### Art. 734c
+
+<sup>1</sup>
+
+En il rapport d’indemnisaziun stoi vegnir inditgà separadamain:
+
+- 1\. las indemnisaziuns betg usitadas sin il martgà, che la societad ha pajà directamain u indirectamain a persunas che han ina stretga relaziun cun commembers actuals u anteriurs dal cussegl d’administraziun, da la direcziun u dal cussegl consultativ;
+- 2\. ils emprests ed ils credits betg anc restituids, ch’eran vegnids concedids sut cundiziuns betg usitadas sin il martgà a persunas che han ina stretga relaziun cun commembers actuals u anteriurs dal cussegl d’administraziun, da la direcziun u dal cussegl consultativ.
+
+<sup>2</sup> Ils nums da las persunas cun ina stretga relaziun na ston betg vegnir inditgads.
+
+<sup>3</sup> Dal rest vegnan applitgadas las prescripziuns concernent las indicaziuns davart las indemnisaziuns, davart ils emprests e davart ils credits che vegnan pajads a commembers dal cussegl d’administraziun, da la direcziun e dal cussegl consultativ.
+
+### V. Dretgs da participaziun ed opziuns sin tals dretgs
+
+#### Art. 734d
+
+En il rapport d’indemnisaziun ston vegnir inditgads ils dretgs da participaziun a la societad sco er las opziuns sin tals dretgs, e quai da mintga commember actual dal cussegl d’administraziun, da la direcziun e dal cussegl consultativ, inclusiv las persunas che han ina stretga relaziun cun quests commembers, inditgond il num e la funcziun dals commembers respectivs.
+
+### VI. Activitads tar autras interpresas
+
+#### Art. 734e
+
+<sup>1</sup> Il rapport d’indemnisaziun menziunescha las funcziuns tenor l’artitgel 626 alinea 2 cifra 1, ch’ils commembers dal cussegl d’administraziun, da la direcziun e dal cussegl administrativ exequeschan en autras interpresas.
+
+<sup>2</sup> Las indicaziuns cuntegnan il num dal commember, la designaziun da l’interpresa e la funcziun exequida.
 
 ### VII. Represchentanza da las schlattainas en il cussegl d’administraziun ed en la direcziun
 
@@ -11522,19 +12242,73 @@ Il chapital d’aczias dastga vegnir reducì pir suenter la scadenza dal termin 
 Sch’ina schlattaina n’è betg represchentada cun almain 30 pertschient en il cussegl d’administraziun e cun almain 20 pertschient en la direcziun, stoi vegnir inditgà il suandant en il rapport d’indemnisaziun da societads che surpassan las valurs tenor l’artitgel 727 alinea 1 cifra 2:
 
 - 1\. ils motivs, pertge che las schlattainas n’èn betg represchentadas sco previs; e
-- 2\. las mesiras per promover la schlattaina che n’è betg represchentada uschè bain.
+- 2\. las mesiras per promover la schlattaina ch’è sutrepreschentada.
 
-[^734f-1]: Integrà tras la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2021 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)). Guardar er art. 4 da las disp. trans. da questa midada a la fin dal text.
+[^734f-1]: Guardar er art. 4 da las disp. trans. da la midada dals 19 da zer. 2020 a la fin dal text.
 
-### E. Reducziun en cas d’ina bilantscha deficitara
+### D. Votaziuns da la radunanza generala
 
-[^part3-tit26-chap4-lvlE-1]
-
-[^part3-tit26-chap4-lvlE-1]: Versiun tenor la cifra I 3 da la LF dals 16 da dec. 2005 (dretg da ScRL sco er adattaziuns en il dretg d’aczias, en il dretg d’associaziun, en il dretg dal register da commerzi ed en il dretg da firmas), en vigur dapi il 1. da schan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+### I. Indemnisaziuns
 
 #### Art. 735
 
-L’appel als crediturs sco er lur satisfacziun u lur garanzia na ston betg avair lieu, sch’il chapital d’aczias vegn reducì cun l’intent d’eliminar ina bilantscha deficitara che resulta da perditas, e quai per in import che na surpassa betg la bilantscha deficitara.
+<sup>1</sup> La radunanza generala votescha davart las indemnisaziuns che la societad paja directamain u indirectamain al cussegl d’administraziun, a la direcziun u al cussegl consultativ.
+
+<sup>2</sup> Ils statuts reglan ils detagls da la votaziun. Els pon reglar, co ch’i duai vegnir procedì, sche la radunanza generala refusa las indemnisaziuns.
+
+<sup>3</sup>
+
+Las suandantas reglas ston vegnir observadas:
+
+- 1\. la radunanza generala votescha annualmain davart las indemnisaziuns;
+- 2\. la radunanza generala votescha separadamain davart l’import total da las indemnisaziuns dal cussegl d’administraziun, da la direcziun e dal cussegl consultativ;
+- 3\. la votaziun da la radunanza generala ha in effect liant;
+- 4\. sch’i vegn votà en moda prospectiva davart indemnisaziuns variablas, sto il rapport d’indemnisaziun vegnir suttamess a la votaziun consultativa da la radunanza generala.
+
+### II. Import supplementar per la direcziun
+
+#### Art. 735a
+
+<sup>1</sup> Per il cas che la radunanza generala votescha en moda prospectiva davart las indemnisaziuns da la direcziun, pon ils statuts prevair in import supplementar per indemnisar commembers da la direcziun che vegnan nominads da nov suenter la votaziun.
+
+<sup>2</sup> L’import supplementar dastga vegnir duvrà mo, sche l’import total concludì da la radunanza generala per indemnisar la direcziun na basta betg per indemnisar ils novs commembers fin a la proxima votaziun da la radunanza generala.
+
+<sup>3</sup> La radunanza generala na votescha betg davart l’import supplementar duvrà.
+
+### E. Durada dals contracts
+
+#### Art. 735b
+
+<sup>1</sup> La durada dals contracts che prevesan las indemnisaziuns dals commembers dal cussegl d’administraziun, na dastga betg surpassar la durada d’uffizi.
+
+<sup>2</sup> La durada dals contracts da durada limitada ed il termin da desditga dals contracts da durada illimitada, che prevesan las indemnisaziuns dals commembers da la direcziun e dal cussegl consultativ, dastgan importar maximalmain 1 onn.
+
+### F. Indemnisaziuns scumandadas
+
+### I. En la societad
+
+#### Art. 735c
+
+Las suandantas indemnisaziuns a commembers actuals u anteriurs dal cussegl d’administraziun, da la direcziun u dal cussegl consultativ u a persunas che han ina stretga relaziun cun els, èn scumandadas:
+
+- 1\. indemnisaziuns da partenza ch’èn fixadas tras contract u previsas en ils statuts; las indemnisaziuns ch’èn debitadas fin a la scadenza dals contracts na valan betg sco indemnisaziuns da partenza;
+- 2\. indemnisaziuns sin basa d’in scumond da concurrenza, sch’ellas surpassan la media da las indemnisaziuns dals ultims 3 onns da gestiun, u indemnisaziuns sin basa d’in scumond da concurrenza che n’è betg motivà tras l’utilisaziun commerziala;
+- 3\. indemnisaziuns betg usitadas sin il martgà en connex cun in’anteriura activitad sco organ da la societad;
+- 4\. premias d’entrada che na cumpenseschan nagin dischavantatg finanzial cumprovabel;
+- 5\. indemnisaziuns pajadas anticipadamain;
+- 6\. provisiuns per surpigliar u per transferir interpresas u parts d’interpresas;
+- 7\. emprests, credits, prestaziuns da provediment ordaifer il provediment professiunal ed indemnisaziuns dependentas dal success, sche lur princips n’èn betg previs en ils statuts;
+- 8\. l’attribuziun da titels da participaziun sco er da dretgs da conversiun e d’opziun, sche lur princips n’èn betg previs en ils statuts.
+
+### II. En il concern
+
+#### Art. 735d
+
+Igl è scumandà da pajar indemnisaziuns a commembers dal cussegl d’administraziun, da la direcziun e dal cussegl consultativ u a persunas che han ina stretga relaziun cun els per activitads en interpresas che vegnan controlladas da la societad, sche questas indemnisaziuns:
+
+- 1\. fissan scumandadas, sch’ellas vegnissan pajadas directamain da la societad;
+- 2\. n’èn betg previsas en ils statuts da la societad; u
+- 3\. n’èn betg vegnidas approvadas da la radunanza generala da la societad.
 
 ### Tschintgavel chapitel: Dissoluziun da la societad anonima
 
@@ -11544,25 +12318,34 @@ L’appel als crediturs sco er lur satisfacziun u lur garanzia na ston betg avai
 
 #### Art. 736
 
+<sup>1</sup>
+
 La societad vegn dissolvida:
 
 - 1\. a norma dals statuts;
 - 2\. tras in conclus da la radunanza generala che sto vegnir documentà publicamain;
 - 3\. tras la decleraziun dal concurs;
-- 4\.[^736-1] tras ina sentenzia giudiziala, sche acziunaris che represchentan ensemen almain 10 pertschient dal chapital d’aczias, pretendan la dissoluziun per motivs impurtants. Empè da la dissoluziun po la dretgira concluder in’autra soluziun adequata ch’è supportabla per las persunas participadas;
+- 4\.[^736-1] tras ina sentenzia giudiziala, sche acziunaris che represchentan ensemen almain 10 pertschient dal chapital d’aczias u da las vuschs, pretendan la dissoluziun per motivs impurtants;
 - 5\. en ils ulteriurs cas ch’èn previs da la lescha.
 
-[^736-1]: Versiun tenor la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+<sup>2</sup> En cas d’in plant sin dissoluziun per motivs impurtants po la dretgira – empè da pronunziar la dissoluziun – ordinar in’autra soluziun adequata ed acceptabla per ils participads.[^736-2]
 
-### II. Annunzia al register da commerzi
+[^736-1]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^736-2]: Integrà tras la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### II. Inscripziun en il register da commerzi
 
 #### Art. 737
 
 [^737-1]
 
-Sche la societad na vegn betg dissolvida tras concurs u tras ina sentenzia giudiziala, sto la dissoluziun vegnir annunziada dal cussegl d’administraziun per l’inscripziun en il register da commerzi.
+<sup>1</sup> La dissoluziun d’ina societad sto vegnir inscritta en il register da commerzi.
 
-[^737-1]: Versiun tenor la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745).
+<sup>2</sup> En cas d’ina dissoluziun tras sentenzia sto la dretgira infurmar immediatamain l’uffizi dal register da commerzi.
+
+<sup>3</sup> Sche la societad vegn dissolvida per auters motivs, sto la societad infurmar l’uffizi dal register da commerzi.
+
+[^737-1]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### III. Consequenzas
 
@@ -11641,7 +12424,7 @@ La societad dissolvida entra en liquidaziun, cun resalva dals cas da la fusiun, 
 
 <sup>4</sup> Els dastgan er vender las activas a maun liber, nun che la radunanza generala haja ordinà insatge auter.
 
-<sup>5</sup> En cas che la liquidaziun dura pli ditg, ston els far mintga onn ina bilantscha intermediara.
+<sup>5</sup> En cas che la liquidaziun dura pli ditg, ston els far mintga onn clusiuns intermediaras.
 
 <sup>6</sup> La societad è responsabla per il donn che resulta tras acts illegals ch’in liquidatur commetta, exequind sias fatschentas.
 
@@ -11659,12 +12442,13 @@ La societad dissolvida entra en liquidaziun, cun resalva dals cas da la fusiun, 
 
 <sup>1</sup> Suenter ch’ils debits èn pajads, vegn repartida la facultad da la societad dissolvida sin ils acziunaris a norma dals imports ch’èn vegnids pajads e resguardond ils privilegis da singulas categorias d’aczias, nun ch’ils statuts disponian insatge auter.[^745-1]
 
-<sup>2</sup> La repartiziun dastga vegnir fatga il pli baud suenter la scadenza dad 1 onn, quintà a partir dal di ch’il clom da quints è vegnì publitgà per la terza giada.
+<sup>2</sup> La repartiziun dastga vegnir fatga il pli baud suenter la scadenza dad 1 onn, quintà a partir dal di ch’il clom da quints è vegnì publitgà.[^745-2]
 
-<sup>3</sup> Ina repartiziun dastga vegnir fatga gia suenter la scadenza da 3 mais, sch’in expert da revisiun admess conferma ch’ils debits sajan pajads e ch’i possia – tenor las circumstanzas – vegnir supponì che nagins interess da terzas persunas vegnian periclitads.[^745-2]
+<sup>3</sup> Ina repartiziun dastga vegnir fatga gia suenter la scadenza da 3 mais, sch’in expert da revisiun admess conferma ch’ils debits sajan pajads e ch’i possia – tenor las circumstanzas – vegnir supponì che nagins interess da terzas persunas vegnian periclitads.[^745-3]
 
 [^745-1]: Versiun tenor la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745).
-[^745-2]: Versiun tenor la cifra I 3 da la LF dals 16 da dec. 2005 (dretg da ScRL sco er adattaziuns en il dretg d’aczias, en il dretg d’associaziun, en il dretg dal register da commerzi ed en il dretg da firmas), en vigur dapi il 1. da schan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^745-2]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^745-3]: Versiun tenor la cifra I 3 da la LF dals 16 da dec. 2005 (dretg da ScRL sco er adattaziuns en il dretg d’aczias, en il dretg d’associaziun, en il dretg dal register da commerzi ed en il dretg da firmas), en vigur dapi il 1. da schan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 
 ### IV. Extincziun en il register da commerzi
 
@@ -11724,11 +12508,12 @@ Suenter che la liquidaziun è finida, ston ils liquidaturs annunziar l’extincz
 
 Ils fundaturs, ils commembers dal cussegl d’administraziun e tut las persunas che coopereschan a la fundaziun, daventan responsabels tant vers la societad sco er vers ils singuls acziunaris e crediturs da la societad per il donn, sch’els:
 
-- 1\. inditgeschan en moda faussa u en ina moda che maina en errur, taschentan u zuppentan intenziunadamain u per negligientscha apports en natiralias, surpigliadas da bains u la concessiun d’avantatgs spezials a favur d’acziunaris u d’autras persunas, en ils statuts, en in rapport da fundaziun u en in rapport davart l’augment dal chapital, ubain cuntrafan en autra moda a la lescha a chaschun da l’approvaziun d’ina tala mesira;
+- 1\.[^753-2] inditgeschan en moda incorrecta u engianaivla, taschentan u zuppentan – intenziunadamain u per negligientscha – apports en natiralias u la concessiun d’avantatgs spezials a favur d’acziunaris e d’autras persunas en ils statuts, en in rapport da fundaziun u en in rapport davart l’augment dal chapital, ubain cuntrafan en autra moda a la lescha a chaschun da l’approvaziun d’ina tala mesira;
 - 2\. fan inscriver intenziunadamain u per negligientscha la societad en il register da commerzi sin basa d’ina attestaziun u d’in document che cuntegnan indicaziuns faussas;
 - 3\. contribueschan sapientivamain al fatg che suttascripziuns da persunas insolventas vegnan acceptadas.
 
 [^753-1]: Versiun tenor la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745).
+[^753-2]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### III. Per l’administraziun, per la gestiun e per la liquidaziun
 
@@ -11765,10 +12550,10 @@ Ils fundaturs, ils commembers dal cussegl d’administraziun e tut las persunas 
 
 <sup>1</sup> Ultra da la societad han er ils singuls acziunaris il dretg da purtar plant sin ina indemnisaziun dal donn ch’è vegnì chaschunà a la societad. L’acziunari po mo purtar plant sin ina prestaziun a la societad.
 
-<sup>2</sup> ...[^756-2]
+<sup>2</sup> La radunanza generala po decider che la societad inoltreschia il plant. Ella po incumbensar il cussegl d’administraziun u in represchentant da manar il process.[^756-2]
 
 [^756-1]: Versiun tenor la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745).
-[^756-2]: Abolì tras la cifra II 5 da l’agiunta 1 da la Procedura civila dals 19 da dec. 2008, cun effect dapi il 1. da schan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^756-2]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### II. Pretensiuns en il concurs
 
@@ -11782,8 +12567,11 @@ Ils fundaturs, ils commembers dal cussegl d’administraziun e tut las persunas 
 
 <sup>3</sup> Resalvada resta la cessiun da pretensiuns da la societad tenor l’artitgel 260 da la Lescha federala dals 11 d’avrigl 1889 davart scussiun e concurs.
 
+<sup>4</sup> Las pretensiuns dals crediturs da la societad che han acceptà ch’els vegnian plazzads davos tut ils auters crediturs, na vegnan betg resguardadas per calcular il donn da la societad.[^757-3]
+
 [^757-1]: Versiun tenor la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745).
 [^757-2]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^757-3]: Integrà tras la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### III. Effect dal conclus da distgargia
 
@@ -11793,9 +12581,10 @@ Ils fundaturs, ils commembers dal cussegl d’administraziun e tut las persunas 
 
 <sup>1</sup> Il conclus da distgargia da la radunanza generala vala mo per fatgs enconuschents ed ha mo in effect vers la societad sco er vers ils acziunaris che han approvà quest conclus u che han acquistà dapi lura las aczias, enconuschend il conclus.
 
-<sup>2</sup> Il dretg dals ulteriurs acziunaris da purtar plant extingua 6 mais suenter che la distgargia è vegnida concludida.
+<sup>2</sup> Il dretg dals ulteriurs acziunaris da purtar plant extingua 12 mais suenter il conclus da distgargia. Il termin è suspendì durant la procedura sin ordinaziun d’ina examinaziun speziala e durant la realisaziun da questa examinaziun.[^758-2]
 
 [^758-1]: Versiun tenor la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745).
+[^758-2]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### C. Solidaritad e regress
 
@@ -11817,11 +12606,12 @@ Ils fundaturs, ils commembers dal cussegl d’administraziun e tut las persunas 
 
 [^760-1]
 
-<sup>1</sup> Il dretg sin indemnisaziun cunter las persunas responsablas tenor las disposiziuns qua survart surannescha suenter 5 onns a partir dal di che la persuna donnegiada è vegnida a savair dal donn e da la persuna che sto pajar l’indemnisaziun, en mintga cas dentant suenter 10 onns quintà a partir dal di ch’il cumportament donnegiant ha gì lieu u è vegnì terminà.
+<sup>1</sup> Il dretg sin indemnisaziun cunter las persunas responsablas tenor las disposiziuns qua survart surannescha suenter 5 onns a partir dal di che la persuna donnegiada è vegnida a savair dal donn e da la persuna che sto pajar l’indemnisaziun, en mintga cas dentant suenter 10 onns quintà a partir dal di ch’il cumportament donnegiant ha gì lieu u è vegnì terminà. Il termin è suspendì durant la procedura sin ordinaziun d’ina examinaziun speziala e durant la realisaziun da questa examinaziun.[^760-2]
 
 <sup>2</sup> Sche la persuna responsabla ha commess in malfatg tras ses cumportament donnegiant, surannescha il dretg d’indemnisaziun il pli baud cun l’entrada da la surannaziun da la persecuziun penala. Sche la surannaziun da la persecuziun penala n’entra betg pli en consequenza d’ina sentenzia penala da l’emprima instanza, surannescha il dretg il pli baud 3 onns suenter la communicaziun da la sentenzia.
 
 [^760-1]: Versiun tenor la cifra I da la LF dals 15 da zer. 2018 (revisiun dal dretg da surannaziun), en vigur dapi il 1. da schan. 2020 ([AS 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [BBl 2014 235](https://fedlex.data.admin.ch/eli/fga/2014/65)).
+[^760-2]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 761
 
@@ -11835,14 +12625,18 @@ Ils fundaturs, ils commembers dal cussegl d’administraziun e tut las persunas 
 
 <sup>1</sup> Sch’ina corporaziun da dretg public sco la Confederaziun, in chantun, in district u ina vischnanca ha in interess public vi d’ina societad anonima, pon ils statuts da la societad conceder a la corporaziun il dretg da delegar represchentants en il cussegl d’administraziun u en il post da revisiun, er sche la corporaziun n’è betg acziunaria.[^762-1]
 
-<sup>2</sup> En cas da talas societads sco er en cas dad interpresas semiprivatas, a las qualas ina corporaziun da dretg public è participada sco acziunaria, ha mo questa corporaziun sezza il dretg da revocar ils commembers dal cussegl d’administraziun e dal post da revisiun ch’ella ha delegà.
+<sup>2</sup> En cas da talas societads sco er en cas dad interpresas semiprivatas, a las qualas ina corporaziun da dretg public è participada sco acziunaria, ha mo questa corporaziun sezza il dretg da revocar ils commembers dal cussegl d’administraziun e dal post da revisiun[^762-2] ch’ella ha delegà.
 
-<sup>3</sup> Ils commembers dal cussegl d’administraziun e dal post da revisiun ch’èn vegnids delegads d’ina corporaziun da dretg public han ils medems dretgs e las medemas obligaziuns sco quels ch’èn vegnids elegids da la radunanza generala.[^762-2]
+<sup>3</sup> Ils commembers dal cussegl d’administraziun e dal post da revisiun ch’èn vegnids delegads d’ina corporaziun da dretg public han ils medems dretgs e las medemas obligaziuns sco quels ch’èn vegnids elegids da la radunanza generala.[^762-3]
 
 <sup>4</sup> Per ils commembers ch’èn vegnids delegads d’ina corporaziun da dretg public è la corporaziun responsabla vers la societad, vers ils acziunaris e vers ils crediturs, cun resalva dal regress tenor il dretg federal e chantunal.
 
+<sup>5</sup> Il dretg da las corporaziuns da dretg public da delegar represchentants en il cussegl d’administraziun u da revocar tals, vala er per societads cun aczias quotadas ad ina bursa.[^762-4]
+
 [^762-1]: Versiun tenor la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745).
-[^762-2]: Versiun tenor la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745).
+[^762-2]: Expressiun tenor la cifra II 2 da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Questa midada è resguardada en l’entir decret.
+[^762-3]: Versiun tenor la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745).
+[^762-4]: Integrà tras la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### Otgavel chapitel: Instituziuns da dretg public che n’èn betg suttamessas a questa lescha
 
@@ -11858,7 +12652,7 @@ Ils fundaturs, ils commembers dal cussegl d’administraziun e tut las persunas 
 
 #### Art. 764
 
-<sup>1</sup> La societad acziunara commanditara è ina societad, da la quala il chapital è dividì en aczias e tar la quala in u plirs commembers èn responsabels illimitadamain e solidaricamain vers ils crediturs da la societad, sumegliantamain als associads d’ina societad collectiva.
+<sup>1</sup> La societad acziunara commanditara è ina societad, da la quala il chapital è dividì en aczias e tar la quala in u plirs commembers èn responsabels illimitadamain e solidaricamain vers ils crediturs da la societad, sumegliantamain als societaris d’ina societad collectiva.
 
 <sup>2</sup> Per la societad acziunara commanditara vegnan applitgadas las disposiziuns davart la societad anonima, nun ch’i saja previs insatge auter.
 
@@ -11872,11 +12666,11 @@ Ils fundaturs, ils commembers dal cussegl d’administraziun e tut las persunas 
 
 <sup>1</sup> Ils commembers che stattan buns illimitadamain furman l’administraziun da la societad acziunara commanditara. Els han la cumpetenza da l’administrar e da la represchentar. Lur nums ston esser inditgads en ils statuts.
 
-<sup>2</sup> Il num, il domicil, il lieu d’origin e la funcziun dals commembers da l’administraziun sco er da las persunas che han il dretg da represchentar la societad ston vegnir inscrits en il register da commerzi.[^765-1]
+<sup>2</sup> …[^765-1]
 
 <sup>3</sup> Per midar il dumber dals commembers che stattan buns illimitadamain dovri il consentiment dals auters commembers che fan part da l’administraziun sco er ina midada dals statuts.
 
-[^765-1]: Versiun tenor la cifra I 3 da la LF dals 16 da dec. 2005 (dretg da ScRL sco er adattaziuns en il dretg d’aczias, en il dretg d’associaziun, en il dretg dal register da commerzi ed en il dretg da firmas), en vigur dapi il 1. da schan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^765-1]: Abolì tras la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), cun effect dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### II. Consentiment als conclus da la radunanza generala
 
@@ -11916,7 +12710,7 @@ Conclus da la radunanza generala davart la midada da l’intent da la societad, 
 
 #### Art. 770
 
-<sup>1</sup> La societad prenda ina fin cun l’extrada, cun la mort, cun l’inabilitad d’agir u cun il concurs da tut ils associads cun responsabladad illimitada.
+<sup>1</sup> La societad prenda ina fin cun l’extrada, cun la mort, cun l’inabilitad d’agir u cun il concurs da tut ils societaris cun responsabladad illimitada.
 
 <sup>2</sup> Per dissolver la societad acziunara commanditara valan dal rest las medemas prescripziuns sco per dissolver ina societad anonima; la radunanza generala na po dentant betg decider ina dissoluziun avant il termin ch’è fixà en ils statuts senza il consentiment da l’administraziun.
 
@@ -11928,11 +12722,11 @@ Conclus da la radunanza generala davart la midada da l’intent da la societad, 
 
 #### Art. 771
 
-<sup>1</sup> L’associà che stat bun illimitadamain ha il medem dretg da disditga sco l’associà collectiv.
+<sup>1</sup> Il societari che stat bun illimitadamain ha il medem dretg da disditga sco il societari collectiv.
 
-<sup>2</sup> Sch’in da plirs associads che stattan buns illimitadamain fa diever da ses dretg da disditga, vegn la societad cuntinuada dals auters, nun ch’ils statuts disponian autramain.
+<sup>2</sup> Sch’in da plirs societaris che stattan buns illimitadamain fa diever da ses dretg da disditga, vegn la societad cuntinuada dals auters, nun ch’ils statuts disponian autramain.
 
-### Ventgotgavel titel:**** La societad cun responsabladad limitada
+### Ventgotgavel titel: La societad cun responsabladad limitada
 
 [^part3-tit28-1]
 
@@ -11946,21 +12740,29 @@ Conclus da la radunanza generala davart la midada da l’intent da la societad, 
 
 <sup>1</sup> La societad cun responsabladad limitada è ina societad da chapital che sa referescha ad ina persuna ed a la quala ina u pliras persunas u societads commerzialas èn participadas. Ses chapital da basa è fixà en ils statuts. Responsabla per ses debits è unicamain la facultad da la societad.
 
-<sup>2</sup> Ils associads èn participads al chapital da basa cun mintgamai almain ina quota da basa. Ils statuts pon preveder per els in’obligaziun da far pajaments supplementars u da furnir prestaziuns accessoricas.
+<sup>2</sup> Ils societaris èn participads al chapital da basa cun mintgamai almain ina quota da basa. Ils statuts pon preveder per els in’obligaziun da far pajaments supplementars u da furnir prestaziuns accessoricas.
 
 ### B. Chapital da basa
 
 #### Art. 773
 
-Il chapital da basa sto importar almain 20 000 francs.
+[^773-1]
+
+<sup>1</sup> Il chapital da basa importa almain 20 000 francs.
+
+<sup>2</sup> Admissibel è er in chapital da basa en la valuta estra la pli impurtanta per l’activitad commerziala. Las disposiziuns dal dretg d’aczias davart il chapital d’aczias en ina valuta estra vegnan applitgadas analogamain.
+
+[^773-1]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### C. Quotas da basa
 
 #### Art. 774
 
-<sup>1</sup> La valur nominala da las quotas da basa ston importar almain 100 francs. En cas d’ina sanaziun da la societad po la valur nominala vegnir reducida fin ad 1 franc.
+<sup>1</sup> Las quotas da basa han ina valur nominala ch’è pli gronda che nulla.[^774-1]
 
 <sup>2</sup> Las quotas da basa ston vegnir emessas almain a la valur nominala.
+
+[^774-1]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### D. Certificats da giudida
 
@@ -11968,11 +12770,13 @@ Il chapital da basa sto importar almain 20 000 francs.
 
 Ils statuts pon preveder l’emissiun da certificats da giudida; las prescripziuns dal dretg d’aczias èn applitgablas correspundentamain.
 
-### E. Associads
+### E. …
 
 #### Art. 775
 
-Ina societad cun responsabladad limitada po vegnir fundada dad ina u da pliras persunas natiralas u giuridicas ubain dad autras societads commerzialas.
+[^775-1]
+
+[^775-1]: Abolì tras la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), cun effect dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### F. Statuts
 
@@ -11985,48 +12789,17 @@ Ils statuts ston cuntegnair disposiziuns davart:
 - 1\. la firma e la sedia da la societad;
 - 2\. l’intent da la societad;
 - 3\. l’import dal chapital da basa sco er il dumber e la valur nominala da las quotas da basa;
-- 4\. la furma, tenor la quala las communicaziuns da la societad ston vegnir fatgas.
+- 4\.[^776-1] la furma da las communicaziuns da la societad a ses societaris.
 
-### II. Ulteriuras disposiziuns
+[^776-1]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### II. …
 
 #### Art. 776a
 
-<sup>1</sup>
+[^776a-1]
 
-Per esser liantas ston esser fixadas en ils statuts disposiziuns davart:
-
-- 1\. la constituziun e la concepziun da l’obligaziun da far pajaments supplementars u da furnir prestaziuns accessoricas;
-- 2\. la constituziun e la concepziun dals dretgs da preferenza, dals dretgs da precumpra u dals dretgs da cumpra sin las quotas da basa a favur dals associads sco er a favur da la societad;
-- 3\. il scumond per ils associads da far concurrenza;
-- 4\. ils chastis convenziunals per garantir che las obligaziuns legalas u statutaras vegnian ademplidas;
-- 5\. ils privilegis ch’èn colliads cun tschertas categorias da quotas da basa (quotas da basa privilegiadas);
-- 6\. ils dretgs da veto dals associads concernent ils conclus da la radunanza dals associads;
-- 7\. la limitaziun dal dretg da votar dals associads e da lur dretg da sa laschar represchentar;
-- 8\. ils certificats da giudida;
-- 9\. las reservas statutaras;
-- 10\. las cumpetenzas da la radunanza dals associads che vegnan attribuidas ad ella e che surpassan las cumpetenzas legalas;
-- 11\. l’approvaziun da tschertas decisiuns dals mainagestiun tras la radunanza dals associads;
-- 12\. la necessitad da laschar approvar la radunanza dals associads la designaziun da las persunas natiralas che exequeschan il dretg da la gestiun per ils associads, ils quals èn persunas giuridicas u societads commerzialas;
-- 13\. la cumpetenza dals mainagestiun da nominar directurs, procurists sco er mandataris;
-- 14\. il pajament da tantiemas als mainagestiun;
-- 15\. la garanzia da tschains da construcziun;
-- 16\. l’organisaziun e las incumbensas dal post da revisiun, sche questas disposiziuns surpassan en quest connex las prescripziuns legalas;
-- 17\. l’introducziun d’in dretg statutar da sortir da la societad, las cundiziuns per l’execuziun da quest dretg e l’indemnisaziun correspundenta;
-- 18\. ils motivs spezials d’excluder associads da la societad;
-- 19\. ils auters motivs da dissoluziun che quels che vegnan previs da la lescha.
-
-<sup>2</sup>
-
-Per esser liantas ston er esser fixadas en ils statuts reglamentaziuns che divergeschan da las prescripziuns legalas davart:
-
-- 1\. la deliberaziun davart la creaziun posteriura da novas quotas da basa privilegiadas;
-- 2\. il transferiment da quotas da basa;
-- 3\. la convocaziun da la radunanza dals associads;
-- 4\. la fixaziun dal dretg da votar dals associads;
-- 5\. la deliberaziun da la radunanza dals associads;
-- 6\. la deliberaziun dals mainagestiun;
-- 7\. la gestiun e la represchentanza;
-- 8\. ils scumonds per ils mainagestiun da far concurrenza.
+[^776a-1]: Abolì tras la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), cun effect dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### G. Fundaziun
 
@@ -12042,11 +12815,12 @@ En quest act da constituziun suttascrivan ils fundaturs las quotas da basa e con
 
 - 1\. che tut las quotas da basa èn suttascrittas en moda valaivla;
 - 2\. ch’ils apports correspundan a l’entir import d’emissiun;
-- 3\. che las pretensiuns da la lescha e dals statuts per pajar apports èn ademplidas;
+- 3\.[^777-1] ch’ils apports adempleschan las pretensiuns legalas e statutaras il mument da la suttascripziun da l’act da constituziun;
 - 4\. ch’els acceptan l’obligaziun statutara da far pajaments supplementars u da furnir prestaziuns accessoricas;
-- 5\.[^777-1] ch’i n’existan nagins apports en natiralias, naginas surpigliadas da bains, naginas surpigliadas da bains previsas e naginas cumpensaziuns da credits u avantatgs spezials, auter che quellas e quels numnads en ils mussaments.
+- 5\.[^777-2] ch’i n’existan nagins apports en natiralias, naginas cumpensaziuns da credits u avantatgs spezials, auter che quellas e quels numnads en ils mussaments.
 
-[^777-1]: Integrà tras la cifra I 2 da la LF dals 17 da mars 2017 (dretg dal register da commerzi), en vigur dapi il 1. da schan. 2021 ([AS 2020 957](https://fedlex.data.admin.ch/eli/oc/2020/178); [BBl 2015 3617](https://fedlex.data.admin.ch/eli/fga/2015/956)).
+[^777-1]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^777-2]: Integrà tras la cifra I 2 da la LF dals 17 da mars 2017 (dretg dal register da commerzi) ([AS 2020 957](https://fedlex.data.admin.ch/eli/oc/2020/178); [BBl 2015 3617](https://fedlex.data.admin.ch/eli/fga/2015/956)). Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### II. Suttascripziun da las quotas da basa
 
@@ -12060,8 +12834,8 @@ En il document davart la suttascripziun stoi vegnir renvià a las disposiziuns s
 
 - 1\. las obligaziuns da far pajaments supplementars;
 - 2\. las obligaziuns da furnir prestaziuns accessoricas;
-- 3\. ils scumonds per ils associads da far concurrenza;
-- 4\. ils dretgs da preferenza, ils dretgs da precumpra u ils dretgs da cumpra dals associads u da la societad;
+- 3\. ils scumonds per ils societaris da far concurrenza;
+- 4\. ils dretgs da preferenza, ils dretgs da precumpra u ils dretgs da cumpra dals societaris u da la societad;
 - 5\. ils chastis convenziunals.
 
 ### III. Mussaments
@@ -12079,7 +12853,9 @@ A l’act da constituziun ston vegnir agiuntads ils suandants documents:
 - 3\. la conferma da verificaziun;
 - 4\. la conferma davart il deposit d’apports en daners;
 - 5\. ils contracts d’apports en natiralias;
-- 6\. ils contracts davart la surpigliada da bains ch’èn gia avant maun.
+- 6\.[^777b-1] …
+
+[^777b-1]: Abolì tras la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), cun effect dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### IV. Apports
 
@@ -12089,11 +12865,14 @@ A l’act da constituziun ston vegnir agiuntads ils suandants documents:
 
 <sup>2</sup>
 
-Dal rest vegnan applitgadas correspundentamain las prescripziuns dal dretg da la societad anonima per:
+Dal rest vegnan applitgadas correspundentamain las prescripziuns dal dretg d’aczias per:
 
-- 1\. l’indicaziun dals apports en natiralias, da las surpigliadas da bains e dals avantatgs spezials en ils statuts;
-- 2\. l’inscripziun dals apports en natiralias, da las surpigliadas da bains e dals avantatgs spezials en il register da commerzi;
+- 1\.[^777c-1] l’indicaziun dals apports en natiralias, da las scuntradas e dals avantatgs spezials en ils statuts;
+- 2\.[^777c-2] …
 - 3\. la prestaziun e la verificaziun dals apports.
+
+[^777c-1]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^777c-2]: Abolì tras la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), cun effect dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### H. Inscripziun en il register da commerzi
 
@@ -12121,7 +12900,7 @@ La societad sto vegnir inscritta en il register da commerzi dal lieu, nua ch’e
 
 <sup>2</sup> Ella survegn la persunalitad giuridica er, sche las premissas per l’inscripziun n’èn effectivamain betg ademplidas.
 
-<sup>3</sup> Sch’i n’eran betg ademplidas tschertas premissas legalas u statutaras a chaschun da la fundaziun e sch’igl èn vegnids periclitads u violads tras quai en moda considerabla ils interess dals crediturs u dals associads, po la dretgira – sin dumonda d’ina da questas persunas – disponer la dissoluziun da la societad.
+<sup>3</sup> Sch’i n’eran betg ademplidas tschertas premissas legalas u statutaras a chaschun da la fundaziun e sch’igl èn vegnids periclitads u violads tras quai en moda considerabla ils interess dals crediturs u dals societaris, po la dretgira – sin dumonda d’ina da questas persunas – disponer la dissoluziun da la societad.
 
 <sup>4</sup> Il dretg da purtar plant extingua 3 mais suenter la publicaziun da la fundaziun da la societad en il Fegl uffizial svizzer da commerzi.
 
@@ -12137,44 +12916,51 @@ La societad sto vegnir inscritta en il register da commerzi dal lieu, nua ch’e
 
 #### Art. 780
 
-Mintga conclus da la radunanza dals associads davart ina midada dals statuts sto vegnir documentà publicamain ed inscrit en il register da commerzi.
+[^780-1]
+
+Il conclus da la radunanza dals societaris u dals mainagestiun davart ina midada dals statuts sto vegnir documentà publicamain e vegnir inscrit en il register da commerzi.
+
+[^780-1]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### L. Augment dal chapital da basa
 
 #### Art. 781
 
-<sup>1</sup> La radunanza dals associads po concluder l’augment dal chapital da basa.
+<sup>1</sup> La radunanza dals societaris po concluder l’augment dal chapital da basa.
 
 <sup>2</sup> L’augment sto vegnir realisà dals mainagestiun.
 
-<sup>3</sup> La suttascripziun da las quotas da basa ed ils apports sa drizzan tenor las prescripziuns davart la fundaziun. In renviament a dretgs ed ad obligaziuns statutaras n’è betg necessari, sch’il sutsegnader è gia associà. Las prescripziuns davart l’augment dal chapital d’aczias vegnan ultra da quai applitgadas correspundentamain per il scrit da suttascripziun. In’offerta publica per suttascriver las quotas da basa è exclusa.[^781-1]
+<sup>3</sup> La suttascripziun da las quotas da basa ed ils apports sa drizzan tenor las prescripziuns davart la fundaziun. In renviament a dretgs ed ad obligaziuns statutaras n’è betg necessari, sch’il sutsegnader è gia societari. Las prescripziuns davart l’augment dal chapital d’aczias vegnan ultra da quai applitgadas correspundentamain per il scrit da suttascripziun. In’offerta publica per suttascriver las quotas da basa è exclusa.[^781-1]
 
-<sup>4</sup> L’augment dal chapital da basa sto vegnir annunzià per l’inscripziun en il register da commerzi entaifer 3 mais suenter il conclus da la radunanza dals associads; cas cuntrari scada il conclus.
+<sup>4</sup> L’inscripziun da l’augment dal chapital da basa sto vegnir annunziada a l’uffizi dal register da commerzi entaifer 6 mais suenter il conclus da la radunanza dals societaris; cas cuntrari scada il conclus.[^781-2]
 
 <sup>5</sup>
 
-Dal rest vegnan applitgadas correspundentamain las prescripziuns dal dretg da la societad anonima davart l’augment dal chapital ordinari per:
+Dal rest vegnan applitgadas correspundentamain las prescripziuns dal dretg d’aczias davart l’augment dal chapital ordinari per:
 
-- 1\. la furma ed il cuntegn dal conclus da la radunanza dals associads;
-- 2\. il dretg da subscripziun dals associads;
+- 1\. la furma ed il cuntegn dal conclus da la radunanza dals societaris;
+- 2\. il dretg da subscripziun dals societaris;
 - 3\. l’augment dal chapital da basa tras l’agen chapital;
 - 4\. il rapport davart l’augment dal chapital e la conferma da verificaziun;
 - 5\. la midada dals statuts e las constataziuns dals mainagestiun;
 - 6\. l’inscripziun da l’augment dal chapital da basa en il register da commerzi e la nunvalaivladad dals documents ch’èn vegnids emess avant l’inscripziun.
 
 [^781-1]: Versiun tenor la cifra I 2 da la LF dals 17 da mars 2017 (dretg dal register da commerzi), en vigur dapi il 1. da schan. 2021 ([AS 2020 957](https://fedlex.data.admin.ch/eli/oc/2020/178); [BBl 2015 3617](https://fedlex.data.admin.ch/eli/fga/2015/956)).
+[^781-2]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### M. Reducziun dal chapital da basa
 
 #### Art. 782
 
-<sup>1</sup> La radunanza dals associads po concluder la reducziun dal chapital da basa.
+<sup>1</sup> La radunanza dals societaris po concluder la reducziun dal chapital da basa.
 
-<sup>2</sup> Il chapital da basa na dastga en nagin cas vegnir reducì ad in import da main che 20 000 francs.
+<sup>2</sup> Il chapital da basa dastga mo vegnir reducì sut 20 000 francs, sch’el vegn a medem temp puspè augmentà almain fin a quest import.[^782-1]
 
-<sup>3</sup> Il chapital da basa dastga mo vegnir reducì per eliminar ina bilantscha deficitara che resulta da perditas, sch’ils associads han fatg tut ils pajaments supplementars ch’èn previs en ils statuts.
+<sup>3</sup> Il chapital da basa dastga mo vegnir reducì per eliminar ina bilantscha deficitara che resulta da perditas, sch’ils societaris han fatg tut ils pajaments supplementars ch’èn previs en ils statuts.
 
 <sup>4</sup> Dal rest vegnan applitgadas correspundentamain las prescripziuns davart la reducziun dal chapital d’aczias.
+
+[^782-1]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### N. Acquist da quotas da basa proprias
 
@@ -12188,7 +12974,7 @@ Dal rest vegnan applitgadas correspundentamain las prescripziuns dal dretg da la
 
 <sup>4</sup> Dal rest vegnan applitgadas correspundentamain las prescripziuns davart aczias proprias per l’acquist da quotas da basa proprias tras la societad.
 
-### Segund chapitel: Dretgs ed obligaziuns dals associads
+### Segund chapitel: Dretgs ed obligaziuns dals societaris
 
 ### A. Quotas da basa
 
@@ -12210,7 +12996,7 @@ Dal rest vegnan applitgadas correspundentamain las prescripziuns dal dretg da la
 
 <sup>1</sup> La cessiun da quotas da basa sco er l’obligaziun da ceder talas quotas ston vegnir fixadas en scrit.
 
-<sup>2</sup> Il contract da cessiun sto renviar als medems dretgs statutars ed a las medemas obligaziuns statutaras sco il document che concerna la suttascripziun da las quotas da basa, nun che l’acquistader saja gia associà.[^785-1]
+<sup>2</sup> Il contract da cessiun sto renviar als medems dretgs statutars ed a las medemas obligaziuns statutaras sco il document che concerna la suttascripziun da las quotas da basa, nun che l’acquistader saja gia societari.[^785-1]
 
 [^785-1]: Versiun tenor la cifra I 2 da la LF dals 17 da mars 2017 (dretg dal register da commerzi), en vigur dapi il 1. da schan. 2021 ([AS 2020 957](https://fedlex.data.admin.ch/eli/oc/2020/178); [BBl 2015 3617](https://fedlex.data.admin.ch/eli/fga/2015/956)).
 
@@ -12218,7 +13004,7 @@ Dal rest vegnan applitgadas correspundentamain las prescripziuns dal dretg da la
 
 #### Art. 786
 
-<sup>1</sup> La cessiun da quotas da basa sto vegnir approvada da la radunanza dals associads. La radunanza dals associads po refusar l’approvaziun senza inditgar motivs.
+<sup>1</sup> La cessiun da quotas da basa sto vegnir approvada da la radunanza dals societaris. La radunanza dals societaris po refusar l’approvaziun senza inditgar motivs.
 
 <sup>2</sup>
 
@@ -12230,27 +13016,27 @@ Ils statuts pon divergiar da questa regulaziun:
 - 4\. excludend la cessiun;
 - 5\. prevesend che l’approvaziun po vegnir refusada, sch’i vegn dubità che las obligaziuns statutaras da far pajaments supplementars u da furnir prestaziuns accessoricas vegnian ademplidas e sch’i na vegn betg prestada ina segirezza che la societad pretenda.
 
-<sup>3</sup> Sch’ils statuts excludan la cessiun u sche la radunanza dals associads refusa dad approvar la cessiun, resta resalvà il dretg da sortida per motivs impurtants.
+<sup>3</sup> Sch’ils statuts excludan la cessiun u sche la radunanza dals societaris refusa dad approvar la cessiun, resta resalvà il dretg da sortida per motivs impurtants.
 
 ### c. Transferiment dals dretgs
 
 #### Art. 787
 
-<sup>1</sup> Sche la cessiun da las quotas da basa suttastat a l’approvaziun da la radunanza dals associads, va ella pir en vigur cun questa approvaziun.
+<sup>1</sup> Sche la cessiun da las quotas da basa suttastat a l’approvaziun da la radunanza dals societaris, va ella pir en vigur cun questa approvaziun.
 
-<sup>2</sup> L’approvaziun vala sco concedida, sche la radunanza dals associads na refusa betg la dumonda dad approvar la cessiun entaifer 6 mais suenter sia entrada.
+<sup>2</sup> L’approvaziun vala sco concedida, sche la radunanza dals societaris na refusa betg la dumonda dad approvar la cessiun entaifer 6 mais suenter sia entrada.
 
 ### 2. Modas spezialas d’acquisiziun
 
 #### Art. 788
 
-<sup>1</sup> Sche las quotas da basa vegnan acquistadas tras ierta, tras la partiziun d’ierta, tras il dretg dals bains matrimonials u tras l’execuziun sfurzada, vegnan tut ils dretgs e tut las obligaziuns ch’èn colliads cun quai transferids a l’acquistader senza l’approvaziun da la radunanza dals associads.
+<sup>1</sup> Sche las quotas da basa vegnan acquistadas tras ierta, tras la partiziun d’ierta, tras il dretg dals bains matrimonials u tras l’execuziun sfurzada, vegnan tut ils dretgs e tut las obligaziuns ch’èn colliads cun quai transferids a l’acquistader senza l’approvaziun da la radunanza dals societaris.
 
-<sup>2</sup> Per pudair far diever da ses dretg da votar e dals dretgs che stattan en connex cun il dretg da votar, sto l’acquistader dentant vegnir renconuschì da la radunanza dals associads sco associà cun dretg da votar.
+<sup>2</sup> Per pudair far diever da ses dretg da votar e dals dretgs che stattan en connex cun il dretg da votar, sto l’acquistader dentant vegnir renconuschì da la radunanza dals societaris sco societari cun dretg da votar.
 
-<sup>3</sup> La radunanza dals associads po mo refusar ad el la renconuschientscha, sche la societad offra ad el da surpigliar las quotas da basa a la valur reala il mument da la dumonda. L’offerta po vegnir fatga sin agen quint u sin quint dad auters associads u da terzas persunas. Sche l’acquistader na refusa betg questa offerta entaifer 1 mais suenter ch’el enconuscha la valur reala, vala l’offerta sco acceptada.
+<sup>3</sup> La radunanza dals societaris po mo refusar ad el la renconuschientscha, sche la societad offra ad el da surpigliar las quotas da basa a la valur reala il mument da la dumonda. L’offerta po vegnir fatga sin agen quint u sin quint dad auters societaris u da terzas persunas. Sche l’acquistader na refusa betg questa offerta entaifer 1 mais suenter ch’el enconuscha la valur reala, vala l’offerta sco acceptada.
 
-<sup>4</sup> La renconuschientscha vala sco concedida, sche la radunanza dals associads na refusa betg la dumonda da renconuschientscha entaifer 6 mais suenter sia entrada.
+<sup>4</sup> La renconuschientscha vala sco concedida, sche la radunanza dals societaris na refusa betg la dumonda da renconuschientscha entaifer 6 mais suenter sia entrada.
 
 <sup>5</sup> Ils statuts pon renunziar a la necessitad da la renconuschientscha.
 
@@ -12274,7 +13060,7 @@ Ils statuts pon divergiar da questa regulaziun:
 
 #### Art. 789b
 
-<sup>1</sup> Ils statuts pon prevair la necessitad d’approvaziun da la radunanza dals associads per stabilir in dretg da pegn sin las quotas da basa. La radunanza dals associads dastga refusar l’approvaziun mo, sch’igl è avant maun in motiv impurtant.
+<sup>1</sup> Ils statuts pon prevair la necessitad d’approvaziun da la radunanza dals societaris per stabilir in dretg da pegn sin las quotas da basa. La radunanza dals societaris dastga refusar l’approvaziun mo, sch’igl è avant maun in motiv impurtant.
 
 <sup>2</sup> Sch’ils statuts excludan la cessiun da las quotas da basa, èsi er exclus da stabilir in dretg da pegn sin ina quota da basa.
 
@@ -12288,14 +13074,14 @@ Ils statuts pon divergiar da questa regulaziun:
 
 En il register da participaziun ston vegnir registrads:
 
-- 1\. il num e l’adressa dals associads;
-- 2\. il dumber, la valur nominala ed eventualmain er la categoria da las quotas da basa da mintga associà;
+- 1\. il num e l’adressa dals societaris;
+- 2\. il dumber, la valur nominala ed eventualmain er la categoria da las quotas da basa da mintga societari;
 - 3\. il num e l’adressa dals giudiders;
 - 4\. il num e l’adressa dals crediturs da pegn.
 
-<sup>3</sup> Ils associads che n’èn betg autorisads da far diever dal dretg da votar e dals dretgs che stattan en connex cun il dretg da votar, ston vegnir designads sco associads senza dretg da votar.
+<sup>3</sup> Ils societaris che n’èn betg autorisads da far diever dal dretg da votar e dals dretgs che stattan en connex cun il dretg da votar, ston vegnir designads sco societaris senza dretg da votar.
 
-<sup>4</sup> Ils associads han il dretg da prender invista dal register da participaziun.
+<sup>4</sup> Ils societaris han il dretg da prender invista dal register da participaziun.
 
 <sup>5</sup> Ils mussaments che resultan d’ina inscripziun ston vegnir conservads durant 10 onns suenter che la persuna inscritta è vegnida stritgada or dal register da participaziun.[^790-2]
 
@@ -12310,11 +13096,11 @@ En il register da participaziun ston vegnir registrads:
 
 <sup>1</sup> Tgi che acquista – sulet u en enclegientscha cuminaivla cun terzas persunas – quotas da basa e cuntanscha u surpassa uschia la limita da 25 pertschient dal chapital da basa u dals dretg da votar, sto annunziar a la societad entaifer 1 mais il prenum, il num e l’adressa da la persuna natirala, per la quala el agescha la finala (persuna che ha il dretg economic).
 
-<sup>2</sup> Sche l’associà è ina persuna giuridica u ina societad da persunas, sto mintga persuna natirala che controllescha l’associà applitgond l’artitgel 963 alinea 2 tenor il senn, vegnir annunziada sco persuna che ha il dretg economic. Sch’i n’existan naginas talas persunas, sto l’associà annunziar quai a la societad.
+<sup>2</sup> Sch’il societari è ina persuna giuridica u ina societad da persunas, sto mintga persuna natirala che controllescha il societari applitgond l’artitgel 963 alinea 2 tenor il senn, vegnir annunziada sco persuna che ha il dretg economic. Sch’i n’existan naginas talas persunas, sto il societari annunziar quai a la societad.
 
-<sup>3</sup> Sche l’associà è ina societad da chapital, da la quala ils dretgs da participaziun èn quotads a la bursa, sch’el vegn controllà d’ina tala societad en il senn da l’artitgel 963 alinea 2 u sch’el controllescha ina tala societad en quest senn, sto el annunziar mo quest fatg sco er la firma e la sedia da questa societad da chapital.
+<sup>3</sup> Sch’il societari è ina societad da chapital, da la quala ils dretgs da participaziun èn quotads a la bursa, sch’el vegn controllà d’ina tala societad en il senn da l’artitgel 963 alinea 2 u sch’el controllescha ina tala societad en quest senn, sto el annunziar mo quest fatg sco er la firma e la sedia da questa societad da chapital.
 
-<sup>4</sup> L’associà sto annunziar a la societad entaifer 3 mais mintga midada dal prenum, dal num u da l’adressa da la persuna che ha il dretg economic.
+<sup>4</sup> Il societari sto annunziar a la societad entaifer 3 mais mintga midada dal prenum, dal num u da l’adressa da la persuna che ha il dretg economic.
 
 <sup>5</sup> Las disposiziuns dal dretg d’aczias concernent la glista da las persunas che han il dretg economic (art. 697*l*) e las consequenzas da l’inobservanza da las obligaziuns d’annunzia (art. 697*m*) èn applitgablas tenor il senn.
 
@@ -12324,9 +13110,11 @@ En il register da participaziun ston vegnir registrads:
 
 #### Art. 791
 
-<sup>1</sup> Ils associads ston vegnir inscrits en il register da commerzi cun lur num, cun lur domicil e cun lur lieu d’origin sco er cun il dumber e cun la valur nominala da lur quotas da basa.
+[^791-1]
 
-<sup>2</sup> La societad sto annunziar l’inscripziun.
+Ils societaris ston vegnir inscrits en il register da commerzi cun il dumber e cun la valur nominala da lur quotas da basa.
+
+[^791-1]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### V. Proprietad collectiva
 
@@ -12341,11 +13129,11 @@ Sche pliras persunas autorisadas han il dretg nundividì d’ina quota da basa, 
 
 #### Art. 793
 
-<sup>1</sup> Ils associads èn obligads da pajar in apport che correspunda a l’import d’emissiun da lur quotas da basa.
+<sup>1</sup> Ils societaris èn obligads da pajar in apport che correspunda a l’import d’emissiun da lur quotas da basa.
 
 <sup>2</sup> Ils apports na dastgan betg vegnir restituids.
 
-### C. Responsabladad dals associads
+### C. Responsabladad dals societaris
 
 #### Art. 794
 
@@ -12359,11 +13147,11 @@ Per las obligaziuns da la societad stat buna unicamain la facultad da la societa
 
 #### Art. 795
 
-<sup>1</sup> Ils statuts pon obligar ils associads da far pajaments supplementars.
+<sup>1</sup> Ils statuts pon obligar ils societaris da far pajaments supplementars.
 
 <sup>2</sup> Sch’ils statuts prevesan in’obligaziun da far pajaments supplementars, ston quels fixar l’import dals pajaments supplementars ch’èn colliads cun ina quota da basa. Quest import na dastga betg surpassar il dubel da la valur nominala da la quota da basa.
 
-<sup>3</sup> Ils associads ston mo star buns per ils pajaments ch’èn colliads cun las atgnas quotas da basa.
+<sup>3</sup> Ils societaris ston mo star buns per ils pajaments ch’èn colliads cun las atgnas quotas da basa.
 
 ### 2. Incassament
 
@@ -12399,23 +13187,23 @@ Pajaments supplementars, ch’èn gia vegnids pajads, dastgan mo vegnir rembursa
 
 #### Art. 795d
 
-<sup>1</sup> L’obligaziun per associads, che sortan da la societad, da far pajaments supplementars, dura vinavant durant 3 onns, cun resalva da las suandantas restricziuns. L’inscripziun en il register da commerzi fixescha il termin da sortida.
+<sup>1</sup> L’obligaziun per societaris, che sortan da la societad, da far pajaments supplementars, dura vinavant durant 3 onns, cun resalva da las suandantas restricziuns. L’inscripziun en il register da commerzi fixescha il termin da sortida.
 
-<sup>2</sup> Associads sortids èn obligads da far pajaments supplementars mo, sche la societad fa concurs.
+<sup>2</sup> Societaris sortids èn obligads da far pajaments supplementars mo, sche la societad fa concurs.
 
 <sup>3</sup> Lur obligaziun da far pajaments supplementars croda, uschenavant che l’obligaziun è vegnida ademplida d’in successur legal.
 
-<sup>4</sup> L’obligaziun per associads sortids da far pajaments supplementars na dastga betg vegnir augmentada.
+<sup>4</sup> L’obligaziun per societaris sortids da far pajaments supplementars na dastga betg vegnir augmentada.
 
 ### II. Prestaziuns accessoricas
 
 #### Art. 796
 
-<sup>1</sup> Ils statuts pon obligar ils associads da furnir prestaziuns accessoricas.
+<sup>1</sup> Ils statuts pon obligar ils societaris da furnir prestaziuns accessoricas.
 
-<sup>2</sup> Quels pon mo prevair obligaziuns da furnir prestaziuns accessoricas, che servan a l’intent da la societad, a mantegnair l’independenza da la societad u a mantegnair la cumposiziun dal circul dals associads.
+<sup>2</sup> Quels pon mo prevair obligaziuns da furnir prestaziuns accessoricas, che servan a l’intent da la societad, a mantegnair l’independenza da la societad u a mantegnair la cumposiziun dal circul dals societaris.
 
-<sup>3</sup> L’object e la dimensiun da l’obligaziun da furnir prestaziuns accessoricas ch’è colliada cun ina quota da basa, sco er ulteriurs puncts d’ina tala obligaziun, ils quals èn essenzials tenor las circumstanzas, ston vegnir fixads en ils statuts. Per la circumscripziun pli detagliada poi vegnir renvià ad in reglament da la radunanza dals associads.
+<sup>3</sup> L’object e la dimensiun da l’obligaziun da furnir prestaziuns accessoricas ch’è colliada cun ina quota da basa, sco er ulteriurs puncts d’ina tala obligaziun, ils quals èn essenzials tenor las circumstanzas, ston vegnir fixads en ils statuts. Per la circumscripziun pli detagliada poi vegnir renvià ad in reglament da la radunanza dals societaris.
 
 <sup>4</sup> L’obligaziun statutara da pajar daners u da prestar autras valurs da facultad è suttamessa a las disposiziuns davart ils pajaments supplementars, sch’i n’è betg previs ina cuntraprestaziun adequata e sche l’incassament serva a la societad da cuvrir ils basegns da l’agen chapital.
 
@@ -12423,33 +13211,33 @@ Pajaments supplementars, ch’èn gia vegnids pajads, dastgan mo vegnir rembursa
 
 #### Art. 797
 
-L’introducziun posteriura u l’extensiun da las obligaziuns statutaras da far pajaments supplementars u da furnir prestaziuns accessoricas sto vegnir approvada da tut ils associads pertutgads.
+L’introducziun posteriura u l’extensiun da las obligaziuns statutaras da far pajaments supplementars u da furnir prestaziuns accessoricas sto vegnir approvada da tut ils societaris pertutgads.
+
+### IV. Dretgira da cumpromiss
+
+#### Art. 797a
+
+[^797a-1]
+
+Las prescripziuns dal dretg d’aczias davart la dretgira da cumpromiss èn applitgablas analogamain.
+
+[^797a-1]: Integrà tras la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### E. Dividendas, tschains, tantiemas
 
-### I. Dividendas
-
 #### Art. 798
 
-<sup>1</sup> Las dividendas dastgan mo vegnir pajadas cun il gudogn che resulta da la bilantscha e cun reservas ch’èn vegnidas constituidas per quest intent.
+[^798-1]
 
-<sup>2</sup> La dividenda dastga pir vegnir fixada, suenter che las assegnaziuns a las reservas legalas ed a las reservas statutaras èn vegnidas deducidas confurm a la lescha ed als statuts.
+Las prescripziuns dal dretg d’aczias davart dividendas, davart dividendas intermediaras, davart tschains da construcziun e davart tantiemas èn applitgablas analogamain.
 
-<sup>3</sup> Las dividendas ston vegnir fixadas en proporziun da la valur nominala da las quotas da basa; sch’igl èn vegnids fatgs pajaments supplementars, sto l’import da quests pajaments vegnir quintà vitiers a la valur nominala per calcular las dividendas; ils statuts pon prevair ina regulaziun divergenta.
+[^798-1]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-### II. Tschains
+#### Art. 798a e 798b
 
-#### Art. 798a
+[^798a798b-1]
 
-<sup>1</sup> Per il chapital da basa e per pajaments supplementars fatgs na dastgan vegnir pajads nagins tschains.
-
-<sup>2</sup> Igl è admess da pajar tschains da construcziun. La prescripziun dal dretg d’aczias davart tschains da construcziun è applitgabla correspundentamain.
-
-### III. Tantiemas
-
-#### Art. 798b
-
-Ils statuts pon prevair da pajar tantiemas als mainagestiun. Las prescripziuns dal dretg d’aczias davart tantiemas èn applitgablas correspundentamain.
+[^798a798b-1]: Abolì tras la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), cun effect dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### F. Quotas da basa privilegiadas
 
@@ -12461,7 +13249,7 @@ Per las quotas da basa privilegiadas èn las prescripziuns dal dretg d’aczias 
 
 #### Art. 800
 
-Per restituir prestaziuns da la societad als associads, als mainagestiun sco er a persunas che stattan datiers a quels èn applitgablas correspundentamain las prescripziuns dal dretg d’aczias.
+Per restituir prestaziuns da la societad als societaris, als mainagestiun sco er a persunas che stattan datiers a quels èn applitgablas correspundentamain las prescripziuns dal dretg d’aczias.
 
 ### H. Reservas
 
@@ -12477,96 +13265,107 @@ Per las reservas èn applitgablas correspundentamain las prescripziuns dal dretg
 
 #### Art. 801a
 
-<sup>1</sup> Il rapport da gestiun ed il rapport da revisiun ston vegnir tramess als associads il pli tard ensemen cun l’invit a la radunanza ordinaria dals associads.
+<sup>1</sup> Il rapport da gestiun ed il rapport da revisiun ston vegnir tramess als societaris il pli tard ensemen cun l’invit a la radunanza ordinaria dals societaris.
 
-<sup>2</sup> Ils associads pon pretender che la versiun dal rapport da gestiun, ch’è vegnida approvada dad els, als vegnia tramess suenter la radunanza dals associads.
+<sup>2</sup> Ils societaris pon pretender che la versiun dal rapport da gestiun, ch’è vegnida approvada dad els, als vegnia tramess suenter la radunanza dals societaris.
 
 ### K. Dretg da survegnir infurmaziuns e da prender invista
 
 #### Art. 802
 
-<sup>1</sup> Mintga associà po pretender dals mainagestiun infurmaziuns davart tut las fatschentas da la societad.
+<sup>1</sup> Mintga societari po pretender dals mainagestiun infurmaziuns davart tut las fatschentas da la societad.
 
-<sup>2</sup> Sche la societad n’ha betg in post da revisiun, po mintga associà prender invista dals cudeschs e da las actas senza restricziuns. Sche la societad ha in post da revisiun, vala il dretg da prender invista mo, uschenavant ch’i po vegnir fatg valair in interess giustifitgà.
+<sup>2</sup> Sche la societad n’ha betg in post da revisiun, po mintga societari prender invista dals cudeschs da fatschenta e da las actas senza restricziuns.[^802-1] Sche la societad ha in post da revisiun, vala il dretg da prender invista mo, uschenavant ch’i po vegnir fatg valair in interess giustifitgà.
 
-<sup>3</sup> Sch’igl exista il privel che l’associà dovra las enconuschientschas ch’el ha acquistà per intents esters che fan donn a la societad, pon ils mainagestiun refusar en la dimensiun necessaria da dar infurmaziuns e da laschar prender invista; la radunanza dals associads decida sin dumonda da l’associà.
+<sup>3</sup> Sch’igl exista il privel ch’il societari dovra las enconuschientschas ch’el ha acquistà per intents esters che fan donn a la societad, pon ils mainagestiun refusar en la dimensiun necessaria da dar infurmaziuns e da laschar prender invista; la radunanza dals societaris decida sin dumonda dal societari.
 
-<sup>4</sup> Sche la radunanza dals associads refusa nungiustifitgadamain da dar infurmaziuns u da laschar prender invista, ordinescha la dretgira quella sin dumonda da l’associà.
+<sup>4</sup> Sche la radunanza dals societaris refusa nungiustifitgadamain da dar infurmaziuns u da laschar prender invista, ordinescha la dretgira quella sin dumonda dal societari.
+
+[^802-1]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### L. Obligaziun da fidaivladad e scumond da concurrenza
 
 #### Art. 803
 
-<sup>1</sup> Ils associads èn obligads da mantegnair il secret da fatschenta.
+<sup>1</sup> Ils societaris èn obligads da mantegnair il secret da fatschenta.
 
-<sup>2</sup> Els ston tralaschar tut quai che periclitescha ils interess da la societad. Els na dastgan en spezial betg far fatschentas ch’èn in avantatg spezial per els e che pericliteschan l’intent da la societad. Ils statuts pon prevair ch’ils associads stoppian tralaschar activitads che concurrenzeschan la societad.
+<sup>2</sup> Els ston tralaschar tut quai che periclitescha ils interess da la societad. Els na dastgan en spezial betg far fatschentas ch’èn in avantatg spezial per els e che pericliteschan l’intent da la societad. Ils statuts pon prevair ch’ils societaris stoppian tralaschar activitads che concurrenzeschan la societad.
 
-<sup>3</sup> Ils associads dastgan pratitgar activitads che cuntrafan a l’obligaziun da fidaivladad u ad in eventual scumond da concurrenza, sche tut ils ulteriurs associads dattan lur consentiment en scrit. Ils statuts pon prevair, ch’i saja necessari – empè da quai – l’approvaziun da la radunanza dals associads.
+<sup>3</sup> Ils societaris dastgan pratitgar activitads che cuntrafan a l’obligaziun da fidaivladad u ad in eventual scumond da concurrenza, sche tut ils ulteriurs societaris dattan lur consentiment en scrit. Ils statuts pon prevair, ch’i saja necessari – empè da quai – l’approvaziun da la radunanza dals societaris.
 
 <sup>4</sup> Las prescripziuns spezialas davart il scumond da concurrenza per ils mainagestiun restan resalvadas.
 
 ### Terz chapitel: Organisaziun da la societad
 
-### A. Radunanza dals associads
+### A. Radunanza dals societaris
 
 ### I. Incumbensas
 
 #### Art. 804
 
-<sup>1</sup> L’organ suprem da la societad è la radunanza dals associads.
+<sup>1</sup> L’organ suprem da la societad è la radunanza dals societaris.
 
 <sup>2</sup>
 
-La radunanza dals associads ha las suandantas cumpetenzas intransferiblas:
+La radunanza dals societaris ha las suandantas cumpetenzas intransferiblas:
 
 - 1\. modifitgar ils statuts;
 - 2\. nominar e revocar ils mainagestiun;
-- 3\. nominar e revocar ils commembers dal post da revisiun ed il revisur da quints dal concern;
-- 4\.[^804-1] approvar il rapport da situaziun ed il quint dal concern;
+- 3\.[^804-1] nominar e revocar ils commembers dal post da revisiun;
+- 4\.[^804-2] approvar il rapport da situaziun ed il quint dal concern;
 - 5\. approvar il quint annual sco er decider davart il diever dal gudogn che resulta da la bilantscha, en spezial fixar la dividenda e la tantiema;
+- 5<sup>bis</sup>.[^804-3] decider davart la restituziun da reservas dal chapital;
 - 6\. fixar l’indemnisaziun dals mainagestiun;
 - 7\. distgargiar ils mainagestiun;
-- 8\. approvar la cessiun da las quotas da basa respectivamain renconuscher ils associads cun dretg da votar;
+- 8\. approvar la cessiun da las quotas da basa respectivamain renconuscher ils societaris cun dretg da votar;
 - 9\. approvar l’installaziun d’in dretg da pegn sin las quotas da basa, sch’ils statuts prevesan quai;
 - 10\. decider davart l’execuziun dals dretgs statutars da preferenza, da precumpra e da cumpra;
 - 11\. autorisar ils mainagestiun d’acquistar atgnas quotas da basa tras la societad u d’approvar in tal acquist;
 - 12\. reglar pli detagliadamain las obligaziuns da furnir prestaziuns accessoricas en in reglament, sch’ils statuts renvieschan ad in reglament;
-- 13\. approvar activitads dals mainagestiun e dals associads che cuntrafan a l’obligaziun da fidaivladad u al scumond da concurrenza, sch’ils statuts desistan da la necessitad che tut ils associads ston approvar talas activitads;
-- 14\. decider davart la dumonda, sch’i duai vegnir pretendì da la dretgira d’excluder in associà per motivs impurtants;
-- 15\. excluder in associà per motivs ch’èn previs en ils statuts;
+- 13\. approvar activitads dals mainagestiun e dals societaris che cuntrafan a l’obligaziun da fidaivladad u al scumond da concurrenza, sch’ils statuts desistan da la necessitad che tut ils societaris ston approvar talas activitads;
+- 14\. decider davart la dumonda, sch’i duai vegnir pretendì da la dretgira d’excluder in societari per motivs impurtants;
+- 15\. excluder in societari per motivs ch’èn previs en ils statuts;
 - 16\. dissolver la societad;
-- 17\. approvar las fatschentas dals mainagestiun, las qualas ston vegnir approvadas da la radunanza dals associads tenor ils statuts;
-- 18\. decider davart ils objects che la lescha u ch’ils statuts resalvan per la radunanza dals associads u ch’ils mainagestiun suttamettan ad ella.
+- 17\. approvar las fatschentas dals mainagestiun, las qualas ston vegnir approvadas da la radunanza dals societaris tenor ils statuts;
+- 18\. decider davart ils objects che la lescha u ch’ils statuts resalvan per la radunanza dals societaris u ch’ils mainagestiun suttamettan ad ella.
 
-<sup>3</sup> La radunanza dals associads nominescha ils directurs, ils procurists sco er ils mandataris. Ils statuts pon conceder questa cumpetenza er als mainagestiun.
+<sup>3</sup> La radunanza dals societaris nominescha ils directurs, ils procurists sco er ils mandataris. Ils statuts pon conceder questa cumpetenza er als mainagestiun.
 
-[^804-1]: Versiun tenor la cifra I 3 da la LF dals 23 da dec. 2011 (dretg da rendaquint), en vigur dapi il 1. da schan. 2013 ([AS 2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810); [BBl 2008 1589](https://fedlex.data.admin.ch/eli/fga/2008/416)).
+[^804-1]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^804-2]: Versiun tenor la cifra I 3 da la LF dals 23 da dec. 2011 (dretg da rendaquint), en vigur dapi il 1. da schan. 2013 ([AS 2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810); [BBl 2008 1589](https://fedlex.data.admin.ch/eli/fga/2008/416)).
+[^804-3]: Integrà tras la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### II. Convocaziun e realisaziun
 
 #### Art. 805
 
-<sup>1</sup> La radunanza dals associads vegn convocada dals mainagestiun, en cas da basegn dal post da revisiun. Il dretg da convocaziun han er ils liquidaturs.
+<sup>1</sup> La radunanza dals societaris vegn convocada dals mainagestiun, en cas da basegn dal post da revisiun. Il dretg da convocaziun han er ils liquidaturs.
 
 <sup>2</sup> La radunanza ordinaria ha lieu mintga onn entaifer 6 mais suenter la conclusiun da l’onn da gestiun. Radunanzas extraordinarias vegnan convocadas a norma dals statuts ed en cas da basegn.
 
-<sup>3</sup> La radunanza dals associads sto vegnir convocada il pli tard 20 dis avant il di da la radunanza. Ils statuts pon prolungar quest termin u al reducir fin a 10 dis. La pussaivladad per ina radunanza universala resta resalvada.
+<sup>3</sup> La radunanza dals societaris sto vegnir convocada il pli tard 20 dis avant il di da la radunanza. Ils statuts pon prolungar quest termin u al reducir fin a 10 dis. La pussaivladad per ina radunanza universala resta resalvada.
 
-<sup>4</sup> Conclus pon er vegnir prendids en scrit, premess ch’in commember na pretendia betg la tractativa a bucca.
+<sup>4</sup> …[^805-1]
 
 <sup>5</sup>
 
-Dal rest pon vegnir applitgadas correspundentamain las prescripziuns dal dretg da la societad anonima per:
+Dal rest vegnan applitgadas correspundentamain las prescripziuns dal dretg d’aczias davart la radunanza generala per:
 
 - 1\. la convocaziun;
-- 2\. il dretg da convocar ed il dretg da far propostas per ils associads;
+- 2\.[^805-2] il dretg da convocaziun, il dretg da tractandaziun ed il dretg da far propostas per ils societaris;
+- 2<sup>bis</sup>.[^805-3] il lieu da radunanza e l’utilisaziun da meds electronics;
 - 3\. ils objects da tractativa;
 - 4\. las propostas;
-- 5\. la radunanza universala;
+- 5\.[^805-4] la radunanza universala e l’approvaziun d’ina proposta;
 - 6\. las mesiras preparatoricas;
 - 7\. il protocol;
-- 8\. la represchentanza dals associads;
+- 8\. la represchentanza dals societaris;
 - 9\. la participaziun senza dretg.
+
+[^805-1]: Abolì tras la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), cun effect dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^805-2]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^805-3]: Integrà tras la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^805-4]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### III. Dretg da votar
 
@@ -12574,9 +13373,9 @@ Dal rest pon vegnir applitgadas correspundentamain las prescripziuns dal dretg d
 
 #### Art. 806
 
-<sup>1</sup> Il dretg da votar dals associads sa drizza tenor la valur nominala da lur quotas da basa. Ils associads han mintgamai almain ina vusch. Ils statuts pon limitar il dumber da las vuschs dals possessurs da pliras quotas da basa.
+<sup>1</sup> Il dretg da votar dals societaris sa drizza tenor la valur nominala da lur quotas da basa. Ils societaris han mintgamai almain ina vusch. Ils statuts pon limitar il dumber da las vuschs dals possessurs da pliras quotas da basa.
 
-<sup>2</sup> Ils statuts pon fixar il dretg da votar independentamain da la valur nominala, uschia ch’i tutga a mintga quota da basa ina vusch. En quest cas ston las quotas da basa cun la valur nominala la pli bassa valair almain in 10avel da la valur nominala da las ulteriuras quotas da basa.
+<sup>2</sup> Ils statuts pon fixar il dretg da votar independentamain da la valur nominala, uschia ch’i tutga a mintga quota da basa ina vusch. En quest cas ston las quotas da basa cun la valur nominala la pli bassa valair almain in dieschavel da la valur nominala da las ulteriuras quotas da basa.
 
 <sup>3</sup>
 
@@ -12592,9 +13391,9 @@ La fixaziun dal dretg da votar tenor il dumber da las quotas da basa na po betg 
 
 <sup>1</sup> En connex cun conclus davart la distgargia dal mainagestiun n’han las persunas ch’èn sa participadas en ina moda u l’autra a la gestiun nagin dretg da votar.
 
-<sup>2</sup> En connex cun conclus davart l’acquist d’atgnas quotas da basa tras la societad n’ha l’associà che ceda questas quotas da basa nagin dretg da votar.
+<sup>2</sup> En connex cun conclus davart l’acquist d’atgnas quotas da basa tras la societad n’ha il societari che ceda questas quotas da basa nagin dretg da votar.
 
-<sup>3</sup> En connex cun conclus davart il consentiment d’activitads dals associads che cuntrafan a l’obligaziun da fidaivladad u al scumond da concurrenza n’ha la persuna pertutgada nagin dretg da votar.
+<sup>3</sup> En connex cun conclus davart il consentiment d’activitads dals societaris che cuntrafan a l’obligaziun da fidaivladad u al scumond da concurrenza n’ha la persuna pertutgada nagin dretg da votar.
 
 ### 3. Giudida
 
@@ -12606,9 +13405,9 @@ En cas da la giudida d’ina quota da basa ha il giudider il dretg da votar e tu
 
 #### Art. 807
 
-<sup>1</sup> Ils statuts pon conceder als associads in dretg da veto cunter tscherts conclus da la radunanza dals associads. Ils statuts ston circumscriver ils conclus, per ils quals il dretg da veto vala.
+<sup>1</sup> Ils statuts pon conceder als societaris in dretg da veto cunter tscherts conclus da la radunanza dals societaris. Ils statuts ston circumscriver ils conclus, per ils quals il dretg da veto vala.
 
-<sup>2</sup> L’introducziun posteriura d’in dretg da veto sto vegnir approvada da tut ils associads.
+<sup>2</sup> L’introducziun posteriura d’in dretg da veto sto vegnir approvada da tut ils societaris.
 
 <sup>3</sup> Il dretg da veto na po betg vegnir transferì.
 
@@ -12618,13 +13417,13 @@ En cas da la giudida d’ina quota da basa ha il giudider il dretg da votar e tu
 
 #### Art. 808
 
-La radunanza dals associads prenda ses conclus e realisescha sias elecziuns cun la maioritad absoluta da las vuschs represchentadas, nun che la lescha u ch’ils statuts prescrivian insatge auter.
+La radunanza dals societaris prenda ses conclus e realisescha sias elecziuns cun la maioritad absoluta da las vuschs represchentadas, nun che la lescha u ch’ils statuts prescrivian insatge auter.
 
 ### 2. Decisiun da tagl
 
 #### Art. 808a
 
-Il president da la radunanza dals associads prenda la decisiun da tagl. Ils statuts pon prevair ina regulaziun divergenta.
+Il president da la radunanza dals societaris prenda la decisiun da tagl. Ils statuts pon prevair ina regulaziun divergenta.
 
 ### 3. Conclus impurtants
 
@@ -12632,27 +13431,33 @@ Il president da la radunanza dals associads prenda la decisiun da tagl. Ils stat
 
 <sup>1</sup>
 
-In conclus da la radunanza dals associads che survegn almain dus terzs da las vuschs represchentadas sco er la maioritad absoluta da l’entir chapital da basa, cun il qual è colliada l’execuziun dal dretg da votar, è necessari per:
+In conclus da la radunanza dals societaris che survegn almain dus terzs da las vuschs represchentadas sco er la maioritad absoluta da l’entir chapital da basa, cun il qual è colliada l’execuziun dal dretg da votar, è necessari per:
 
 - 1\. midar l’intent da la societad;
 - 2\. introducir las quotas da basa che han il dretg da votar privilegià;
 - 3\. engrevgiar, excluder u facilitar la transferibilitad da las quotas da basa;
-- 4\. approvar la cessiun da las quotas da basa respectivamain renconuscher ils associads che han il dretg da votar;
+- 4\. approvar la cessiun da las quotas da basa respectivamain renconuscher ils societaris che han il dretg da votar;
 - 5\. augmentar il chapital da basa;
 - 6\. restrenscher u abolir il dretg da suttascripziun;
-- 7\. approvar activitads dals mainagestiun sco er dals associads che cuntrafan a l’obligaziun da fidaivladad u al scumond da concurrenza;
-- 8\. dumandar la dretgira d’excluder in associà per motivs impurtants;
-- 9\. excluder in associà per motivs ch’èn previs en ils statuts;
+- 6<sup>bis</sup>.[^808b-1] midar la valuta dal chapital da basa;
+- 7\. approvar activitads dals mainagestiun sco er dals societaris che cuntrafan a l’obligaziun da fidaivladad u al scumond da concurrenza;
+- 8\. dumandar la dretgira d’excluder in societari per motivs impurtants;
+- 9\. excluder in societari per motivs ch’èn previs en ils statuts;
 - 10\. spustar la sedia da la societad;
+- 10<sup>bis</sup>.[^808b-2] introducir in clausula da cumpromiss en ils statuts;
 - 11\. dissolver la societad.
 
-<sup>2</sup> Disposiziuns dals statuts che fixeschan maioritads pli grondas che quellas ch’èn prescrittas da la lescha per prender tscherts conclus, pon mo vegnir introducidas cun la maioritad previsa.
+<sup>2</sup> Disposiziuns statutaras che prevesan – per tscherts conclus – maioritads pli grondas che las maioritads prescrittas da la lescha, pon vegnir introducidas, midadas u abolidas mo cun la maioritad previsa.[^808b-3]
 
-### VI. Contestaziun dals conclus da la radunanza dals associads
+[^808b-1]: Integrà tras la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^808b-2]: Integrà tras la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^808b-3]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### VI. Contestaziun dals conclus da la radunanza dals societaris
 
 #### Art. 808c
 
-Per contestar ils conclus da la radunanza dals associads èn applitgablas correspundentamain las prescripziuns dal dretg d’aczias.
+Per contestar ils conclus da la radunanza dals societaris èn applitgablas correspundentamain las prescripziuns dal dretg d’aczias.
 
 ### B. Gestiun e represchentanza
 
@@ -12660,11 +13465,11 @@ Per contestar ils conclus da la radunanza dals associads èn applitgablas corres
 
 #### Art. 809
 
-<sup>1</sup> Tut ils associads exequeschan communablamain la gestiun. Ils statuts pon reglar la gestiun en moda divergenta.
+<sup>1</sup> Tut ils societaris exequeschan communablamain la gestiun. Ils statuts pon reglar la gestiun en moda divergenta.
 
-<sup>2</sup> Mo persunas natiralas pon vegnir nominadas sco mainagestiun. Sch’ina persuna giuridica u sch’ina societad commerziala sa participescha a la societad, designescha quella eventualmain ina persuna natirala che pratitgescha questa funcziun per ella. Ils statuts pon pretender per quest cas il consentiment da la radunanza dals associads.
+<sup>2</sup> Mo persunas natiralas pon vegnir nominadas sco mainagestiun. Sch’ina persuna giuridica u sch’ina societad commerziala sa participescha a la societad, designescha quella eventualmain ina persuna natirala che pratitgescha questa funcziun per ella. Ils statuts pon pretender per quest cas il consentiment da la radunanza dals societaris.
 
-<sup>3</sup> Sche la societad ha plirs mainagestiun, sto la radunanza dals associads reglar il presidi.
+<sup>3</sup> Sche la societad ha plirs mainagestiun, sto la radunanza dals societaris reglar il presidi.
 
 <sup>4</sup> Sche la societad ha plirs mainagestiun, decidan quels cun la maioritad da las vuschs che vegnan dadas. Il president prenda la decisiun da tagl. Ils statuts pon prevair ina regulaziun divergenta da la deliberaziun tras ils mainagestiun.
 
@@ -12672,7 +13477,7 @@ Per contestar ils conclus da la radunanza dals associads èn applitgablas corres
 
 #### Art. 810
 
-<sup>1</sup> Ils mainagestiun èn cumpetents per tut las fatschentas che na vegnan betg attribuidas tenor la lescha u tenor ils statuts a la radunanza dals associads.
+<sup>1</sup> Ils mainagestiun èn cumpetents per tut las fatschentas che na vegnan betg attribuidas tenor la lescha u tenor ils statuts a la radunanza dals societaris.
 
 <sup>2</sup>
 
@@ -12682,19 +13487,22 @@ Cun resalva da las disposiziuns che suondan qua sutvart, han ils mainagestiun la
 - 2\. determinar l’organisaziun en il rom da la lescha e dals statuts;
 - 3\. concepir la contabilitad e la controlla da finanzas sco er la planisaziun da finanzas, premess che quella saja necessaria per manar la societad;
 - 4\. survegliar las persunas ch’èn incaricadas cun parts da la gestiun, en spezial en vista a l’observaziun da las leschas, dals statuts, dals reglaments e da las directivas;
-- 5\. elavurar il rapport da gestiun (il quint annual, il rapport annual ed eventualmain il quint dal concern);
-- 6\. preparar la radunanza dals associads sco er exequir lur conclus;
-- 7\. infurmar la dretgira en cas d’ina surdebitaziun.
+- 5\.[^810-1] rediger il rapport da gestiun;
+- 6\. preparar la radunanza dals societaris sco er exequir lur conclus;
+- 7\.[^810-2] inoltrar ina dumonda da moratori d’accumodament ed infurmar la dretgira en cas d’ina surdebitaziun.
 
 <sup>3</sup>
 
 Il president dals mainagestiun, respectivamain l’unic mainagestiun ha las suandantas incumbensas:
 
-- 1\. convocar e manar la radunanza dals associads;
-- 2\. far tut las communicaziuns als associads;
+- 1\. convocar e manar la radunanza dals societaris;
+- 2\. far tut las communicaziuns als societaris;
 - 3\. garantir che las annunzias necessarias sajan fatgas tar il register da commerzi.
 
-### III. Approvaziun tras la radunanza dals associads
+[^810-1]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^810-2]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### III. Approvaziun tras la radunanza dals societaris
 
 #### Art. 811
 
@@ -12702,10 +13510,10 @@ Il president dals mainagestiun, respectivamain l’unic mainagestiun ha las suan
 
 Ils statuts pon prevair, ch’ils mainagestiun:
 
-- 1\. stoppian suttametter tscherts conclus per l’approvaziun da la radunanza dals associads;
-- 2\. possian suttametter singulas dumondas per l’approvaziun da la radunanza dals associads.
+- 1\. stoppian suttametter tscherts conclus per l’approvaziun da la radunanza dals societaris;
+- 2\. possian suttametter singulas dumondas per l’approvaziun da la radunanza dals societaris.
 
-<sup>2</sup> L’approvaziun da la radunanza dals associads na limitescha betg la responsabladad dals mainagestiun.
+<sup>2</sup> L’approvaziun da la radunanza dals societaris na limitescha betg la responsabladad dals mainagestiun.
 
 ### IV. Quità e fidaivladad; scumond da concurrenza
 
@@ -12713,15 +13521,15 @@ Ils statuts pon prevair, ch’ils mainagestiun:
 
 <sup>1</sup> Ils mainagestiun sco er terzas persunas che sa fatschentan cun la gestiun ston ademplir lur incumbensa cun tut quità e mantegnair en buna fai ils interess da la societad.
 
-<sup>2</sup> Els suttastattan a la medema obligaziun da fidaivladad sco ils associads.
+<sup>2</sup> Els suttastattan a la medema obligaziun da fidaivladad sco ils societaris.
 
-<sup>3</sup> Els na dastgan betg exequir ina activitad da concurrenza, nun ch’ils statuts prevesian insatge auter u che tut ils ulteriurs associads approvian questa activitad en scrit. Ils statuts pon prevair, ch’i saja necessari – empè da quai – l’approvaziun da la radunanza dals associads.
+<sup>3</sup> Els na dastgan betg exequir ina activitad da concurrenza, nun ch’ils statuts prevesian insatge auter u che tut ils ulteriurs societaris approvian questa activitad en scrit. Ils statuts pon prevair, ch’i saja necessari – empè da quai – l’approvaziun da la radunanza dals societaris.
 
 ### V. Tractament egual
 
 #### Art. 813
 
-Ils mainagestiun sco er terzas persunas che sa fatschentan cun la gestiun ston tractar ils associads en moda eguala, sche las premissas èn las medemas.
+Ils mainagestiun sco er terzas persunas che sa fatschentan cun la gestiun ston tractar ils societaris en moda eguala, sche las premissas èn las medemas.
 
 ### VI. Represchentanza
 
@@ -12737,21 +13545,22 @@ Ils mainagestiun sco er terzas persunas che sa fatschentan cun la gestiun ston t
 
 <sup>5</sup> Las persunas che han il dretg da represchentar la societad ston suttascriver agiuntond lur suttascripziun a la firma da la societad.
 
-<sup>6</sup> Ellas ston vegnir inscrittas en il register da commerzi. Ellas ston dar lur suttascripziun tar l’uffizi dal register da commerzi u inoltrar la suttascripziun en furma legalisada.
+<sup>6</sup> …[^814-2]
 
 [^814-1]: Versiun tenor la cifra I 2 da la LF dals 12 da dec. 2014 davart la realisaziun da las recumandaziuns dal «Groupe d’action financière», revedidas l’onn 2012, en vigur dapi il 1. da fan. 2015 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
+[^814-2]: Abolì tras la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), cun effect dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### VII. Revocaziun dals mainagestiun; retratga da l’autorisaziun da represchentanza
 
 #### Art. 815
 
-<sup>1</sup> La radunanza dals associads po revocar da tut temp ils mainagestiun ch’ella ha elegì.
+<sup>1</sup> La radunanza dals societaris po revocar da tut temp ils mainagestiun ch’ella ha elegì.
 
-<sup>2</sup> Mintga associà po pretender da la dretgira da revocar u da limitar l’autorisaziun da gestiun e da represchentanza d’in mainagestiun, sch’igl è avant maun in motiv impurtant, en spezial, sche la persuna respectiva ha violà grevamain sias obligaziuns u sch’ella ha pers l’abilitad da manar bain ina fatschenta.
+<sup>2</sup> Mintga societari po pretender da la dretgira da revocar u da limitar l’autorisaziun da gestiun e da represchentanza d’in mainagestiun, sch’igl è avant maun in motiv impurtant, en spezial, sche la persuna respectiva ha violà grevamain sias obligaziuns u sch’ella ha pers l’abilitad da manar bain ina fatschenta.
 
 <sup>3</sup> Ils mainagestiun pon suspender da tut temp directurs, procurists u mandataris da lur funcziun.
 
-<sup>4</sup> Sche questas persunas èn vegnidas elegidas da la radunanza dals associads, sto vegnir convocada immediatamain ina radunanza dals associads.
+<sup>4</sup> Sche questas persunas èn vegnidas elegidas da la radunanza dals societaris, sto vegnir convocada immediatamain ina radunanza dals societaris.
 
 <sup>5</sup> Las pretensiuns d’indemnisaziun da las persunas ch’èn vegnidas revocadas u da las persunas ch’èn vegnidas suspendidas da lur funcziuns restan resalvadas.
 
@@ -12773,7 +13582,7 @@ La societad stat buna per il donn che resulta tras acts illegals ch’ina persun
 
 <sup>1</sup> Per il post da revisiun èn applitgablas correspundentamain las prescripziuns dal dretg d’aczias.
 
-<sup>2</sup> In associà che suttastat ad in’obligaziun da far pajaments supplementars po pretender ina revisiun ordinaria dal quint annual.
+<sup>2</sup> In societari che suttastat ad in’obligaziun da far pajaments supplementars po pretender ina revisiun ordinaria dal quint annual.
 
 ### D. Mancanzas en l’organisaziun da la societad
 
@@ -12781,13 +13590,15 @@ La societad stat buna per il donn che resulta tras acts illegals ch’ina persun
 
 En cas da mancanzas en l’organisaziun da la societad èn applitgablas correspundentamain las prescripziuns dal dretg d’aczias.
 
-### E. Perdita da chapital e surdebitaziun
+### E. Insolvenza smanatschanta, perdita da chapital e surdebitaziun
 
 #### Art. 820
 
-<sup>1</sup> Per l’obligaziun d’annunziar ina perdita da chapital ed ina surdebitaziun da la societad sco er per la decleraziun e per la suspensiun dal concurs èn applitgablas correspundentamain las prescripziuns dal dretg d’aczias.
+[^820-1]
 
-<sup>2</sup> La dretgira po suspender il concurs sin dumonda dals mainagestiun u sin dumonda d’in creditur, en spezial, sch’i vegnan pajads immediatamain ils pajaments supplementars che n’èn anc betg vegnids pajads e sch’ina sanaziun è en vista.
+Las disposiziuns dal dretg d’aczias davart l’insolvenza smanatschanta, davart la perdita da chapital, davart la surdebitaziun sco er davart la revalitaziun da bains immobigliars e da participaziuns èn applitgablas analogamain.
+
+[^820-1]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### Quart chapitel: Dissoluziun ed extrada
 
@@ -12802,13 +13613,13 @@ En cas da mancanzas en l’organisaziun da la societad èn applitgablas correspu
 La societad cun responsabladad limitada vegn dissolvida:
 
 - 1\. sch’i dat motivs da dissoluziun ch’èn previs en ils statuts;
-- 2\. sche la radunanza dals associads concluda la dissoluziun;
+- 2\. sche la radunanza dals societaris concluda la dissoluziun;
 - 3\. sch’i vegn declerà il concurs;
 - 4\. en ils ulteriurs cas ch’èn previs da la lescha;
 
-<sup>2</sup> Sche la radunanza dals associads concluda la dissoluziun, sto quest conclus vegnir documentà publicamain.
+<sup>2</sup> Sche la radunanza dals societaris concluda la dissoluziun, sto quest conclus vegnir documentà publicamain.
 
-<sup>3</sup> Mintga associà po pretender da la dretgira la dissoluziun da la societad per motivs impurtants. La dretgira po – empè da la dissoluziun – approvar in’autra soluziun ch’è adequata e ch’è supportabla per las persunas participadas, en spezial l’indemnisaziun da l’associà che porta plant tenor la valur reala da sias quotas da basa.
+<sup>3</sup> Mintga societari po pretender da la dretgira la dissoluziun da la societad per motivs impurtants. La dretgira po – empè da la dissoluziun – approvar in’autra soluziun ch’è adequata e ch’è supportabla per las persunas participadas, en spezial l’indemnisaziun dal societari che porta plant tenor la valur reala da sias quotas da basa.
 
 ### II. Consequenzas
 
@@ -12818,31 +13629,31 @@ La societad cun responsabladad limitada vegn dissolvida:
 
 <sup>2</sup> La dissoluziun d’ina societad sto vegnir inscritta en il register da commerzi. La dissoluziun tras sentenzia sto vegnir annunziada immediatamain da la dretgira al register da commerzi. La dissoluziun per auters motivs sto la societad annunziar al register da commerzi.
 
-### B. Extrada dals associads
+### B. Extrada dals societaris
 
 ### I. Sortida
 
 #### Art. 822
 
-<sup>1</sup> In associà po dumandar a la dretgira la permissiun da sortir da la societad per motivs impurtants.
+<sup>1</sup> In societari po dumandar a la dretgira la permissiun da sortir da la societad per motivs impurtants.
 
-<sup>2</sup> Ils statuts pon conceder als associads in dretg da sortir e far dependent quel da tschertas cundiziuns.
+<sup>2</sup> Ils statuts pon conceder als societaris in dretg da sortir e far dependent quel da tschertas cundiziuns.
 
 ### II. Sortida adesiva
 
 #### Art. 822a
 
-<sup>1</sup> Sch’in associà dumonda da sortir per motivs impurtants u sch’el declera sia sortida sa basond sin il dretg da sortir statutar, ston ils mainagestiun infurmar immediatamain ils ulteriurs associads.
+<sup>1</sup> Sch’in societari dumonda da sortir per motivs impurtants u sch’el declera sia sortida sa basond sin il dretg da sortir statutar, ston ils mainagestiun infurmar immediatamain ils ulteriurs societaris.
 
-<sup>2</sup> Sche auters associads dumondan, entaifer 3 mais suenter l’entrada da questa communicaziun, da sortir per motivs impurtants u sch’els exequeschan il dretg da sortir statutar, ston tut ils associads che sortan vegnir tractads en moda eguala en proporziun a la valur nominala da lur quotas da basa. Sch’igl èn vegnids fatgs pajaments supplementars, ston lur imports vegnir quintads vitiers a la valur nominala.
+<sup>2</sup> Sche auters societaris dumondan, entaifer 3 mais suenter l’entrada da questa communicaziun, da sortir per motivs impurtants u sch’els exequeschan il dretg da sortir statutar, ston tut ils societaris che sortan vegnir tractads en moda eguala en proporziun a la valur nominala da lur quotas da basa. Sch’igl èn vegnids fatgs pajaments supplementars, ston lur imports vegnir quintads vitiers a la valur nominala.
 
 ### III. Exclusiun
 
 #### Art. 823
 
-<sup>1</sup> Sch’i dat in motiv impurtant, po la societad dumandar a la dretgira d’excluder in associà.
+<sup>1</sup> Sch’i dat in motiv impurtant, po la societad dumandar a la dretgira d’excluder in societari.
 
-<sup>2</sup> Ils statuts pon prevair che la radunanza dals associads po excluder associads da la societad, sch’igl èn avant maun tscherts motivs.
+<sup>2</sup> Ils statuts pon prevair che la radunanza dals societaris po excluder societaris da la societad, sch’igl èn avant maun tscherts motivs.
 
 <sup>3</sup> Las prescripziuns davart la sortida adesiva èn applitgablas correspundentamain.
 
@@ -12850,7 +13661,7 @@ La societad cun responsabladad limitada vegn dissolvida:
 
 #### Art. 824
 
-En ina procedura concernent l’extrada d’in associà po la dretgira decider sin dumonda d’ina partida da suspender singuls u tut ils dretgs e singulas u tut las obligaziuns da commembranza da la persuna pertutgada.
+En ina procedura concernent l’extrada d’in societari po la dretgira decider sin dumonda d’ina partida da suspender singuls u tut ils dretgs e singulas u tut las obligaziuns da commembranza da la persuna pertutgada.
 
 ### V. Indemnisaziun
 
@@ -12858,7 +13669,7 @@ En ina procedura concernent l’extrada d’in associà po la dretgira decider s
 
 #### Art. 825
 
-<sup>1</sup> Sch’in associà extrescha da la societad, ha el il dretg da survegnir ina indemnisaziun che correspunda a la valur reala da sias quotas da basa.
+<sup>1</sup> Sch’in societari extrescha da la societad, ha el il dretg da survegnir ina indemnisaziun che correspunda a la valur reala da sias quotas da basa.
 
 <sup>2</sup> Per in’extrada sin basa d’in dretg statutar da sortir da la societad, pon ils statuts fixar ina indemnisaziun en moda divergenta.
 
@@ -12876,15 +13687,15 @@ L’indemnisaziun sto vegnir pajada cun l’extrada, uschenavant che la societad
 
 <sup>2</sup> In expert da revisiun admess sto constatar l’autezza da l’agen chapital che po vegnir utilisà. Sche quel na basta betg per pajar l’indemnisaziun, sto l’expert da revisiun ultra da quai prender posiziun davart la dumonda, en tge dimensiun ch’il chapital da basa pudess vegnir reducì.
 
-<sup>3</sup> L’associà ch’è extrà ha ina pretensiun subordinada senza tschains per la part da l’indemnisaziun che n’è anc betg vegnida pajada. Questa pretensiun sto vegnir pajada, sch’i vegn constatà en il rapport da gestiun annual che la societad disponia dad agen chapital che po vegnir utilisà.
+<sup>3</sup> Il societari ch’è extrà ha ina pretensiun subordinada senza tschains per la part da l’indemnisaziun che n’è anc betg vegnida pajada. Questa pretensiun sto vegnir pajada, sch’i vegn constatà en il rapport da gestiun annual che la societad disponia dad agen chapital che po vegnir utilisà.
 
-<sup>4</sup> Uscheditg che l’indemnisaziun n’è betg pajada dal tuttafatg, po l’associà ch’extrescha pretender che la societad designeschia in post da revisiun e ch’ella laschia reveder en moda ordinaria il quint annual.
+<sup>4</sup> Uscheditg che l’indemnisaziun n’è betg pajada dal tuttafatg, po il societari ch’extrescha pretender che la societad designeschia in post da revisiun e ch’ella laschia reveder en moda ordinaria il quint annual.
 
 ### C. Liquidaziun
 
 #### Art. 826
 
-<sup>1</sup> Mintga associà ha il dretg da survegnir ina part dal resultat da la liquidaziun che correspunda a la proporziun tranter la valur nominala da sias quotas da basa ed il chapital da basa. Sch’igl èn vegnids fatgs pajaments supplementars e sche quels n’èn betg vegnids restituids, sto lur import vegnir quintà vitiers a las quotas da basa dals associads respectivs ed al chapital da basa. Ils statuts pon prevair ina regulaziun divergenta.
+<sup>1</sup> Mintga societari ha il dretg da survegnir ina part dal resultat da la liquidaziun che correspunda a la proporziun tranter la valur nominala da sias quotas da basa ed il chapital da basa. Sch’igl èn vegnids fatgs pajaments supplementars e sche quels n’èn betg vegnids restituids, sto lur import vegnir quintà vitiers a las quotas da basa dals societaris respectivs ed al chapital da basa. Ils statuts pon prevair ina regulaziun divergenta.
 
 <sup>2</sup> Per la dissoluziun da la societad tras liquidaziun èn applitgablas correspundentamain las prescripziuns dal dretg d’aczias.
 
@@ -12922,7 +13733,11 @@ Federaziuns da persunas da dretg public èn suttamessas al dretg da la Confedera
 
 #### Art. 830
 
-L’associaziun exista suenter che la radunanza constitutiva ha deliberà ed approvà ils statuts e suenter ch’ella è vegnida inscritta en il register da commerzi.
+[^830-1]
+
+L’associaziun vegn constituida cun in document public, en il qual ils fundaturs decleran da constituir in’associaziun e fixeschan ils statuts ed ils organs.
+
+[^830-1]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 2. Dumber da commembers
 
@@ -12930,7 +13745,7 @@ L’associaziun exista suenter che la radunanza constitutiva ha deliberà ed app
 
 <sup>1</sup> Almain set commembers ston sa participar a la fundaziun d’ina associaziun.
 
-<sup>2</sup> Sch’il dumber dals associads sa sminuescha pli tard sut quest dumber minimal, ston vegnir applitgadas correspundentamain las prescripziuns dal dretg d’aczias davart mancanzas en l’organisaziun da la societad.[^831-1]
+<sup>2</sup> Sch’il dumber dals societaris sa sminuescha pli tard sut quest dumber minimal, ston vegnir applitgadas correspundentamain las prescripziuns dal dretg d’aczias davart mancanzas en l’organisaziun da la societad.[^831-1]
 
 [^831-1]: Versiun tenor la cifra I 3 da la LF dals 16 da dec. 2005 (dretg da ScRL sco er adattaziuns en il dretg d’aczias, en il dretg d’associaziun, en il dretg dal register da commerzi ed en il dretg da firmas), en vigur dapi il 1. da schan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 
@@ -12942,13 +13757,14 @@ L’associaziun exista suenter che la radunanza constitutiva ha deliberà ed app
 
 Ils statuts ston cuntegnair disposiziuns davart:
 
-- 1\. il num (la firma) e la sedia da l’associaziun;
+- 1\.[^832-1] la firma e la sedia da l’associaziun;
 - 2\. l’intent da l’associaziun;
-- 3\. in’obligaziun eventuala dals associads da furnir prestaziuns en daners u autras prestaziuns sco er davart la natira e la valur da questas prestaziuns;
-- 4\.[^832-1] ils organs per l’administraziun e per la revisiun e la moda e maniera da represchentar l’associaziun;
-- 5\. la furma, tenor la quala las communicaziuns da l’associaziun ston vegnir fatgas.
+- 3\. e 4.[^832-2] …
+- 5\.[^832-3] la furma da las communicaziuns da l’associaziun a ses associads.
 
-[^832-1]: Versiun tenor la cifra I 3 da la LF dals 16 da dec. 2005 (dretg da ScRL sco er adattaziuns en il dretg d’aczias, en il dretg d’associaziun, en il dretg dal register da commerzi ed en il dretg da firmas), en vigur dapi il 1. da schan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^832-1]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^832-2]: Abolì tras la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), cun effect dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^832-3]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 2. Ulteriuras disposiziuns
 
@@ -12958,12 +13774,16 @@ Per esser liantas ston esser fixadas en ils statuts:
 
 - 1\. prescripziuns davart la furmaziun d’in chapital d’associaziun tras participaziuns dals associads (certificats da participaziun);
 - 2\. disposiziuns davart ils apports al chapital d’associaziun che na vegnan betg fatgs tras pajament (apports en natiralias), davart lur object e davart lur valur sco er davart la persuna da l’associà che fa quests apports;
-- 3\. disposiziuns davart valurs da facultad ch’èn vegnidas surpigliadas tar la fundaziun, davart l’indemnisaziun che sto vegnir prestada per questas valurs e davart la persuna dal proprietari da questas valurs da facultad;
+- 3\.[^833-1] …
 - 4\. prescripziuns che divergeschan da las disposiziuns legalas davart la participaziun a l’associaziun e davart la perdita da la commembranza;
-- 5\. disposiziuns davart la responsabladad persunala dals associads e davart lur obligaziun da far pajaments supplementars;
+- 5\.[^833-2] disposiziuns davart la responsabladad persunala dals associads, davart lur obligaziun da far pajaments supplementars u da furnir prestaziuns en daners u en autra furma sco er davart il gener e l’autezza da las prestaziuns correspundentas;
 - 6\. prescripziuns che divergeschan da las disposiziuns legalas davart l’organisaziun, davart la represchentanza, davart la midada dals statuts e davart las decisiuns che ston vegnir prendidas da la radunanza generala;
 - 7\. restricziuns ed extensiuns dal dretg da votar;
-- 8\. disposiziuns davart la calculaziun e davart l’utilisaziun dal retgav net e dal surpli da liquidaziun.
+- 8\.[^833-3] disposiziuns davart la calculaziun e davart l’utilisaziun dal gudogn che resulta tras la bilantscha sco er dal surpli da liquidaziun.
+
+[^833-1]: Abolì tras la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), cun effect dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^833-2]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^833-3]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### III. Radunanza constitutiva
 
@@ -12971,13 +13791,13 @@ Per esser liantas ston esser fixadas en ils statuts:
 
 <sup>1</sup> Ils statuts ston esser avant maun en furma scritta e ston vegnir preschentads – per il tractament e per l’approvaziun – ad ina radunanza che sto vegnir convocada dals fundaturs.
 
-<sup>2</sup> Ultra da quai han ils fundaturs da preschentar a la radunanza in rapport en scrit davart eventuals apports en natiralias e davart valurs da facultad che ston vegnir surpigliadas; quest rapport sto vegnir tractà a la radunanza. Ils fundaturs ston confermar ch’i n’existan nagins apports en natiralias, naginas surpigliadas da bains, naginas surpigliadas da bains previsas e naginas cumpensaziuns da credits u avantatgs spezials, auter che quellas e quels numnads en ils mussaments.[^834-1]
+<sup>2</sup> Ultra da quai han ils fundaturs da preschentar a la radunanza in rapport en scrit davart eventuals apports en natiralias; quest rapport sto vegnir tractà a la radunanza. Ils fundaturs ston confermar ch’i n’existan nagins apports en natiralias, naginas cumpensaziuns da credits e nagins avantatgs spezials, auter che quellas e quels numnads en ils mussaments.[^834-1]
 
 <sup>3</sup> Questa radunanza nominescha er ils organs necessaris.
 
 <sup>4</sup> Fin che l’associaziun n’è betg inscritta en il register da commerzi, po la commembranza mo vegnir declerada cun suttascriver ils statuts.
 
-[^834-1]: Integrà la segunda frasa tras la cifra I 2 da la LF dals 17 da mars 2017 (dretg dal register da commerzi), en vigur dapi il 1. da schan. 2021 ([AS 2020 957](https://fedlex.data.admin.ch/eli/oc/2020/178); [BBl 2015 3617](https://fedlex.data.admin.ch/eli/fga/2015/956)).
+[^834-1]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### IV. Inscripziun en il register da commerzi
 
@@ -13020,6 +13840,16 @@ L’associaziun sto vegnir inscritta en il register da commerzi da quel lieu, nu
 <sup>2</sup> Tgi che ha agì en num da l’associaziun avant l’inscripziun, è responsabel persunalmain e solidaricamain per sias acziuns.
 
 <sup>3</sup> Sche talas obligaziuns èn vegnidas fatgas expressivamain en num da l’associaziun che duai vegnir fundada e sche l’associaziun surpiglia questas obligaziuns entaifer in termin da 3 mais suenter l’inscripziun en il register da commerzi, vegnan deliberadas las persunas che han agì, e l’associaziun è responsabla.
+
+### D. Midada dals statuts
+
+#### Art. 838a
+
+[^838a-1]
+
+Il conclus da la radunanza generala u da l’administraziun davart ina midada dals statuts sto vegnir documentà publicamain e vegnir inscrit en il register da commerzi.
+
+[^838a-1]: Integrà tras la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### Segund chapitel: Acquist da la commembranza
 
@@ -13181,15 +14011,20 @@ Ils dretgs ch’ils associads han en fatgs da l’associaziun, en spezial aregua
 
 ### II. Dretg da controlla dals associads
 
-### 1. Communicaziun da la bilantscha
+### 1. Communicaziun dal rapport da gestiun
+
+[^part3-tit29-chap4-lvlD-lvlII-lvl1-1]
+
+[^part3-tit29-chap4-lvlD-lvlII-lvl1-1]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 856
 
 <sup>1</sup> Il pli tard 10 dis avant la radunanza generala u avant la votaziun per correspundenza, che decida davart l’approvaziun dal rapport da situaziun, dal quint dal concern e dal quint annual, ston quests documents vegnir deponids a la sedia da l’associaziun, per ch’ils associads possian prender invista da tals.[^856-1]
 
-<sup>2</sup> Ils statuts pon fixar che mintga associà ha il dretg da pretender ina copia dal quint da gestiun e da la bilantscha, e quai sin donn e cust da l’associaziun.
+<sup>2</sup> Sch’ils documents n’èn betg accessibels electronicamain, po mintga associà pretender durant 1 onn suenter la radunanza generala, ch’i vegnia tramess ad el il rapport da gestiun en la furma approvada da la radunanza generala sco er il rapport da revisiun.[^856-2]
 
 [^856-1]: Versiun tenor la cifra I 3 da la LF dals 23 da dec. 2011 (dretg da rendaquint), en vigur dapi il 1. da schan. 2013 ([AS 2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810); [BBl 2008 1589](https://fedlex.data.admin.ch/eli/fga/2008/416)).
+[^856-2]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 2. Dar infurmaziuns
 
@@ -13205,9 +14040,13 @@ Ils dretgs ch’ils associads han en fatgs da l’associaziun, en spezial aregua
 
 [^857-1]: Versiun tenor la cifra I 3 da la LF dals 16 da dec. 2005 (dretg da ScRL sco er adattaziuns en il dretg d’aczias, en il dretg d’associaziun, en il dretg dal register da commerzi ed en il dretg da firmas), en vigur dapi il 1. da schan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 
-### III. Eventuals dretgs dal retgav net
+### III. Eventuals dretgs dal gudogn annual
 
-### 1. ...
+[^part3-tit29-chap4-lvlD-lvlIII-1]
+
+[^part3-tit29-chap4-lvlD-lvlIII-1]: Expressiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)). Questa midada è vegnida fatga en las disposiziuns numnadas en la AS.
+
+### 1. …
 
 #### Art. 858
 
@@ -13219,17 +14058,17 @@ Ils dretgs ch’ils associads han en fatgs da l’associaziun, en spezial aregua
 
 #### Art. 859
 
-<sup>1</sup> In retgav net or dal manaschi da l’associaziun croda entiramain a la facultad da l’associaziun, nun ch’ils statuts disponian autramain.
+<sup>1</sup> In gudogn annual dal manaschi da l’associaziun croda entiramain a la facultad da l’associaziun, nun ch’ils statuts disponian autramain.
 
-<sup>2</sup> Sch’igl è previs da reparter il retgav net tranter ils associads, vegn quella repartiziun fatga tenor la proporziun, en la quala ils singuls commember han utilisà las instituziuns da l’associaziun, nun ch’ils statuts reglian quai autramain.
+<sup>2</sup> Sch’igl è previs da reparter il gudogn annual tranter ils associads, vegn questa repartiziun fatga tenor la proporziun, en la quala ils singuls commembers han utilisà las instituziuns da l’associaziun, nun ch’ils statuts reglian quai autramain.
 
-<sup>3</sup> Sch’igl existan certificats da participaziun, na dastga la quota dal retgav net che tutga a quels certificats betg surpassar il tschains usità per emprests da daners a lunga durada ch’èn vegnids concedids senza garanzias spezialas.
+<sup>3</sup> Sch’i existan certificats da participaziun, na dastga la quota dal gudogn annual che tutga a quests certificats betg surpassar il tschains usità per emprests da daners a lunga durada ch’èn vegnids concedids senza garanzias spezialas.
 
 ### 3. Obligaziun da furmar e d’augmentar in fond da reservas
 
 #### Art. 860
 
-<sup>1</sup> Uschenavant ch’il retgav net vegn duvrà en autra maniera che per augmentar la facultad da l’associaziun, sto vegnir assegnà mintga onn in 20avel da quel ad in fond da reservas. Questa assegnaziun sto vegnir fatga almain durant 20 onns; sch’igl existan certificats da participaziun, ha l’assegnaziun da vegnir fatga en mintga cas uschè ditg, fin ch’il fond da reservas cuntanscha in 5avel dal chapital da l’associaziun.
+<sup>1</sup> Uschenavant ch’il gudogn annual vegn duvrà en autra maniera che per augmentar la facultad da l’associaziun, sto vegnir assegnà mintga onn in ventgavel da quel ad in fond da reservas. Questa assegnaziun sto vegnir fatga almain durant 20 onns; sch’i existan certificats da participaziun, ha l’assegnaziun da vegnir fatga en mintga cas uschè ditg, fin ch’il fond da reservas cuntanscha in tschintgavel dal chapital da l’associaziun.
 
 <sup>2</sup> Ils statuts pon prescriver ch’il fond da reservas vegnia augmentà anc pli fitg.
 
@@ -13239,15 +14078,15 @@ Ils dretgs ch’ils associads han en fatgs da l’associaziun, en spezial aregua
 
 [^860-1]: Abolì tras la cifra II 1 da l’agiunta da la LF dals 17 da dec. 2004 davart la surveglianza da las interpresas d’assicuranza, cun effect dapi il 1. da schan. 2006 ([AS 2005 5269](https://fedlex.data.admin.ch/eli/oc/2005/734); [BBl 2003 3789](https://fedlex.data.admin.ch/eli/fga/2003/577)).
 
-### 4. Retgav net tar associaziuns per credits
+### 4. Gudogn annual tar associaziuns da credit
 
 #### Art. 861
 
-<sup>1</sup> Associaziuns da credit pon decretar en ils statuts prescripziuns davart la repartiziun dal retgav net che divergeschan da las disposiziuns dals artitgels qua survart; ellas èn dentant er obligadas da furmar in fond da reservas e d’al duvrar tenor las disposiziuns qua survart.
+<sup>1</sup> Associaziuns da credit pon decretar en ils statuts prescripziuns davart la repartiziun dal gudogn annual che divergeschan da las disposiziuns dals artitgels qua survart; er ellas èn dentant obligadas da furmar in fond da reservas e d’al duvrar tenor las disposiziuns qua survart.
 
-<sup>2</sup> Al fond da reservas sto vegnir assegnà mintga onn almain in 10avel dal retgav net, e quai fin ch’el ha cuntanschì in autezza d’in 10avel dal chapital da l’associaziun.
+<sup>2</sup> Al fond da reservas sto vegnir assegnà mintga onn almain in dieschavel dal gudogn annual, e quai fin ch’el ha cuntanschì in’autezza d’in dieschavel dal chapital da l’associaziun.
 
-<sup>3</sup> Sch’i vegn repartì sin ils certificats da participaziun ina quota dal retgav net che surpassa il tschains usità per emprests da daners a lunga durada ch’èn vegnids concedids senza garanzias spezialas, sto da l’import che surpassa quest tschains er vegnir assegnà in 10avel al fond da reservas.
+<sup>3</sup> Sch’i vegn repartì sin ils certificats da participaziun ina quota dal gudogn annual che surpassa il tschains usità per emprests da daners a lunga durada ch’èn vegnids concedids senza garanzias spezialas, sto in dieschavel da l’import che surpassa quest tschains medemamain vegnir assegnà al fond da reservas.
 
 ### 5. Fond per intents da prevenziun
 
@@ -13263,11 +14102,11 @@ Ils dretgs ch’ils associads han en fatgs da l’associaziun, en spezial aregua
 
 #### Art. 863
 
-<sup>1</sup> Ils apports en fonds da reserva ed en auters fonds che correspundan a la lescha ed als statuts ston vegnir deducids en emprima lingia dal retgav net che duai vegnir distribuì.
+<sup>1</sup> Ils apports en fonds da reserva ed en auters fonds che correspundan a la lescha ed als statuts ston vegnir deducids en emprima lingia dal gudogn annual che duai vegnir distribuì.
 
 <sup>2</sup> La radunanza generala po er approvar tals apports da reserva che n’èn betg previs en la lescha u en ils statuts ubain che surpassan las pretensiuns da la lescha u dals statuts, uschenavant che quai para dad esser inditgà cun resguard da la prosperitad durabla da l’interpresa.
 
-<sup>3</sup> Da medema maniera pon vegnir zavradas contribuziuns or dal retgav net, er sch’ellas n’èn betg previsas en ils statuts, per fundar e per sustegnair instituziuns da prevenziun per emploiads, per lavurants e per associads sco er per auters intents da prevenziun; talas contribuziuns èn suttamessas a las disposiziuns davart ils fonds da prevenziun statutars.
+<sup>3</sup> Da medema maniera pon vegnir zavradas contribuziuns or dal gudogn annual, er sch’ellas n’èn betg previsas en ils statuts, per fundar e per sustegnair instituziuns da provediment per emploiads, per lavurants e per associads sco er per auters intents da provediment; talas contribuziuns èn suttamessas a las disposiziuns davart ils fonds da provediment statutars.
 
 ### IV. Dretg vi da la facultad da l’associaziun
 
@@ -13380,11 +14219,13 @@ Disposiziuns dals statuts che restrenschan la responsabladad ad in tschert temp 
 
 <sup>1</sup> Midadas da las obligaziuns da responsabladad u da las obligaziuns da far in pajament supplementar da vart dals associads sco er la reducziun u l’aboliziun dals certificats da participaziun pon mo vegnir fatgas tras ina revisiun dals statuts.
 
-<sup>2</sup> Per reducir u per abolir ils certificats da participaziun vegnan ultra da quai applitgadas las disposiziuns davart la reducziun dal chapital da basa tar la societad anonima.
+<sup>2</sup> Per reducir u per abolir ils certificats da participaziun vegnan ultra da quai applitgadas las disposiziuns davart la reducziun dal chapital da la societad anonima.[^874-1]
 
 <sup>3</sup> Las obligaziuns ch’èn naschidas avant la publicaziun da la revisiun dals statuts na vegnan betg pertutgadas d’ina reducziun da la responsabladad u da l’obligaziun da far in pajament supplementar.
 
 <sup>4</sup> La nova fundaziun u l’extensiun da la responsabladad u da l’obligaziun da far in pajament supplementar ha in effect en favur da tut ils crediturs da l’associaziun a partir dal mument ch’il conclus è inscrit.
+
+[^874-1]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### g. Responsabladad da novs associads
 
@@ -13436,16 +14277,20 @@ Disposiziuns dals statuts che restrenschan la responsabladad ad in tschert temp 
 
 <sup>2</sup>
 
-Ella ha las suandantas cumpetenzas intransmissiblas:
+Ella ha las suandantas cumpetenzas intransferiblas:
 
 - 1\. fixar e midar ils statuts;
 - 2\.[^879-1] eleger l’administraziun ed il post da revisiun;
-- 3\.[^879-2] approvar il rapport da situaziun ed il quint dal concern;
+- 2<sup>bis</sup>.[^879-2] approvar il quint annual sco er eventualmain decider davart l’utilisaziun dal gudogn che resulta tras la bilantscha;
+- 3\.[^879-3] approvar il rapport da situaziun ed il quint dal concern;
+- 3<sup>bis</sup>.[^879-4] decider davart la restituziun da reservas dal chapital;
 - 4\. distgargiar l’administraziun;
 - 5\. decider davart fatschentas ch’èn resalvadas a la radunanza generala tras la lescha u tras ils statuts.
 
 [^879-1]: Versiun tenor la cifra I 3 da la LF dals 16 da dec. 2005 (dretg da ScRL sco er adattaziuns en il dretg d’aczias, en il dretg d’associaziun, en il dretg dal register da commerzi ed en il dretg da firmas), en vigur dapi il 1. da schan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
-[^879-2]: Versiun tenor la cifra I 3 da la LF dals 23 da dec. 2011 (dretg da rendaquint), en vigur dapi il 1. da schan. 2013 ([AS 2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810); [BBl 2008 1589](https://fedlex.data.admin.ch/eli/fga/2008/416)).
+[^879-2]: Integrà tras la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^879-3]: Versiun tenor la cifra I 3 da la LF dals 23 da dec. 2011 (dretg da rendaquint), en vigur dapi il 1. da schan. 2013 ([AS 2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810); [BBl 2008 1589](https://fedlex.data.admin.ch/eli/fga/2008/416)).
+[^879-4]: Integrà tras la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### II. Votaziun per correspundenza
 
@@ -13459,9 +14304,9 @@ En cas ch’ina associaziun ha pli che 300 commembers u en cas che la maioritad 
 
 #### Art. 881
 
-<sup>1</sup> La radunanza generala vegn convocada da l’administraziun u d’in auter organ che ha, tenor ils statuts, il dretg da far quai u – sche necessari – dal post da revisiun.[^881-1] Il dretg da la convocar han er ils liquidaturs ed ils represchentants dals crediturs d’emprests da daners.
+<sup>1</sup> La radunanza generala vegn convocada da l’administraziun u d’in auter organ che ha, tenor ils statuts, il dretg da far quai u – sche necessari – dal post da revisiun.[^881-1] Il dretg da la convocar han er ils liquidaturs ed ils represchentants dals crediturs d’emprests.
 
-<sup>2</sup> La radunanza generala sto vegnir convocada, sche quai vegn pretendì d’almain in 10avel dals associads u – en cas d’associaziuns che han main che 30 commembers – d’almain trais associads.
+<sup>2</sup> La radunanza generala sto vegnir convocada, sche quai vegn pretendì d’almain in dieschavel dals associads u – en cas d’associaziuns che han main che 30 commembers – d’almain trais associads.
 
 <sup>3</sup> Sche l’administraziun n’accepta betg questa dumonda entaifer in termin adequat, ha la dretgira d’ordinar la convocaziun sin proposta dals petents.
 
@@ -13549,7 +14394,7 @@ Mintga associà ha ina vusch en la radunanza generala u tar la votaziun per corr
 
 <sup>1</sup> La radunanza generala ha il dretg da revocar ils commembers da l’administraziun e dal post da revisiun sco er auters autorisads e mandataris ch’ella ha elegì.[^890-1]
 
-<sup>2</sup> Sin dumonda d’almain in 10avel dals associads po la dretgira disponer la revocaziun, sch’i èn avant maun motivs impurtants, en spezial sch’ils revocads han negligì las obligaziuns ch’èn vegnidas delegadas ad els u sch’els n’èn betg stads en cas da las ademplir. En in tal cas ha ella – sche necessari – da disponer ina nova elecziun tras ils organs cumpetents da l’associaziun e da prender las mesiras necessarias per questa fasa intermediara.
+<sup>2</sup> Sin dumonda d’almain in dieschavel dals associads po la dretgira disponer la revocaziun, sch’i èn avant maun motivs impurtants, en spezial sch’ils revocads han negligì las obligaziuns ch’èn vegnidas delegadas ad els u sch’els n’èn betg stads en cas da las ademplir. En in tal cas ha ella – sche necessari – da disponer ina nova elecziun tras ils organs cumpetents da l’associaziun e da prender las mesiras necessarias per questa fasa intermediara.
 
 <sup>3</sup> Pretensiuns d’indemnisaziun dals revocads restan resalvadas.
 
@@ -13583,9 +14428,19 @@ Mintga associà ha ina vusch en la radunanza generala u tar la votaziun per corr
 
 <sup>1</sup> Las associaziuns d’assicuranza concessiunadas che han passa 1000 commembers pon transferir tras ils statuts las cumpetenzas da la radunanza generala per part u dal tuttafatg a l’administraziun.
 
-<sup>2</sup> Las cumpetenzas da la radunanza generala per introducir u per extender l’obligaziun da far in pajament supplementar, per dissolver, per fusiunar, per sparter l’associaziun e per midar la furma giuridica da l’associaziun èn intransmissiblas.[^893-1]
+<sup>2</sup> Las cumpetenzas da la radunanza generala per introducir u per extender l’obligaziun da far in pajament supplementar, per dissolver, per fusiunar, per sparter l’associaziun e per midar la furma giuridica da l’associaziun èn intransferiblas.[^893-1]
 
 [^893-1]: Versiun tenor la cifra 2 da l’agiunta da la L dals 3 d’oct. 2003 davart la fusiun, en vigur dapi il 1. da fan. 2004 ([AS 2004 2617](https://fedlex.data.admin.ch/eli/oc/2004/320); [BBl 2000 4337](https://fedlex.data.admin.ch/eli/fga/2000/921)).
+
+### XII. Lieu da radunanza ed utilisaziun da meds electronics
+
+#### Art. 893a
+
+[^893a-1]
+
+Las prescripziuns dal dretg d’aczias davart il lieu da radunanza e davart l’utilisaziun da meds electronics per preparar e per salvar la radunanza generala èn applitgablas analogamain.
+
+[^893a-1]: Integrà tras la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### B. Administraziun
 
@@ -13666,15 +14521,13 @@ Sche l’associaziun fa in contract e sch’ella vegn represchentada en questa f
 
 Las persunas che han il dretg da represchentar l’associaziun ston suttascriver uschia ch’ellas agiunteschan lur suttascripziun a la firma da l’associaziun.
 
-### 5. Inscripziun
-
-[^part3-tit29-chap5-lvlB-lvlIV-lvl5-1]
-
-[^part3-tit29-chap5-lvlB-lvlIV-lvl5-1]: Versiun tenor la cifra I 3 da la LF dals 16 da dec. 2005 (dretg da ScRL sco er adattaziuns en il dretg d’aczias, en il dretg d’associaziun, en il dretg dal register da commerzi ed en il dretg da firmas), en vigur dapi il 1. da schan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+### 5. …
 
 #### Art. 901
 
-Las persunas ch’èn autorisadas da represchentar l’associaziun ston vegnir annunziadas da l’administraziun per l’inscripziun en il register da commerzi, preschentond ina copia legalisada dal conclus. Ellas ston dar lur suttascripziun tar l’uffizi dal register da commerzi u inoltrar lur suttascripziun en furma legalisada.
+[^901-1]
+
+[^901-1]: Abolì tras la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), cun effect dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### V. Obligaziuns
 
@@ -13691,25 +14544,37 @@ En spezial è ella obligada:
 - 1\. da preparar las fatschentas da la radunanza generala e d’exequir ils conclus da tala;
 - 2\. da survegliar che las persunas, ch’èn incumbensadas cun la gestiun e cun la represchentanza, observian las leschas, ils statuts ed eventuals reglaments e da sa laschar infurmar regularmain davart l’andament da las fatschentas.
 
-<sup>3</sup> L’administraziun è responsabla che ses protocols e che quels da la radunanza generala, ch’ils cudeschs da fatschenta necessaris e che las glistas dals associads vegnian manads regularmain; ella procura ch’il quint annual e che la bilantscha annuala sajan fatgs tenor las prescripziuns legalas e ch’els vegnian suttamess a l’examinaziun dal post da revisiun; plinavant è ella responsabla che las entradas e che las extradas dad associads vegnian annunziadas confurm a las prescripziuns a l’uffizi dal register da commerzi.[^902-1]
+<sup>3</sup>
 
-[^902-1]: Versiun tenor la cifra I 3 da la LF dals 16 da dec. 2005 (dretg da ScRL sco er adattaziuns en il dretg d’aczias, en il dretg d’associaziun, en il dretg dal register da commerzi ed en il dretg da firmas), en vigur dapi il 1. da schan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+L’administraziun è responsabla:
 
-### 2. Obligaziun d’annunzia en cas da surdebitaziun ed en cas da perdita da chapital
+- 1\. per manar ses protocols, ils protocols da la radunanza generala, ils cudeschs da fatschenta necessaris sco er la glista dals associads;
+- 2\. per rediger il rapport da gestiun tenor las prescripziuns legalas e per al suttametter a l’examinaziun dal post da revisiun; e
+- 3\. per annunziar las entradas e las extradas dals associads a l’uffizi dal register da commerzi.[^902-1]
+
+[^902-1]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### 2. Restituziun da prestaziuns
+
+#### Art. 902a
+
+[^902a-1]
+
+Per la restituziun da prestaziuns èn applitgablas analogamain las prescripziuns dal dretg d’aczias.
+
+[^902a-1]: Integrà tras la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### 3. Insolvenza smanatschanta, perdita da chapital e surdebitaziun
 
 #### Art. 903
 
-<sup>1</sup> Sch’igl exista la tema fundada d’ina surdebitaziun, ha l’administraziun da far immediatamain ina bilantscha provisorica sin basa da las valurs d’alienaziun.
+[^903-1]
 
-<sup>2</sup> Sche l’ultima bilantscha annuala e sch’ina bilantscha da liquidaziun che sto vegnir fatga sin quai u sch’ina bilantscha provisorica mussan che las pretensiuns dals crediturs da l’associaziun na sajan betg pli cuvridas tras las activas, sto l’administraziun annunziar quai a la dretgira. Quella ha da declerar il concurs, nun che las premissas per ina suspensiun sajan avant maun.
+<sup>1</sup> Las disposiziuns dal dretg d’aczias davart l’insolvenza smanatschanta, davart la surdebitaziun sco er davart la revalitaziun da bains immobigliars e da participaziuns èn applitgablas analogamain.
 
-<sup>3</sup> En cas d’associaziuns cun certificats da participaziun ha l’administraziun da convocar immediatamain ina radunanza generala e d’infurmar quella en chaussa, sch’i resulta da l’ultima bilantscha annuala che la mesadad dal chapital da l’associaziun na saja betg pli cuvrida.
+<sup>2</sup> En cas d’associaziuns cun certificats da participaziun èn ultra da quai applitgablas analogamain las disposiziuns dal dretg d’aczias davart la perdita da chapital.
 
-<sup>4</sup> En cas d’associads cun l’obligaziun da far in pajament supplementar sto la dretgira vegnir infurmada pir, sche la perdita che vegn constatada en la bilantscha na po betg vegnir cuvrida entaifer 3 mais cun pajaments supplementars dals associads.
-
-<sup>5</sup> Sin proposta da l’administraziun u d’in creditur po la dretgira suspender la decleraziun da concurs, sch’ina sanaziun è en vista. En quest cas prenda ella las mesiras ch’èn adattadas per mantegnair la facultad, sco l’inventarisaziun e la nominaziun d’in cumissari.
-
-<sup>6</sup> En cas d’associaziuns d’assicuranza concessiunadas valan las pretensiuns dals commembers che derivan da contracts d’assicuranza sco dretgs dals crediturs.
+[^903-1]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### VI. Restituziun da pajaments
 
@@ -13719,7 +14584,7 @@ En spezial è ella obligada:
 
 <sup>2</sup> La restituziun è exclusa, nun ch’ella possia vegnir pretendida sin basa da las disposiziuns davart l’enritgiment nungiustifitgà.
 
-<sup>3</sup> La dretgira decida tenor liber appreziar, suenter ch’ella ha considerà tut las circumstanzas.
+<sup>3</sup> La dretgira decida tenor appreziar, suenter ch’ella ha considerà tut las circumstanzas.
 
 ### VII. Suspensiun e revocaziun
 
@@ -13792,11 +14657,19 @@ L’associaziun vegn dissolvida:
 - 3\. tras la decleraziun dal concurs;
 - 4\. en ils ulteriurs cas ch’èn previs da la lescha.
 
-### B. Annunzia a l’uffizi dal register da commerzi
+### B. Inscripziun en il register da commerzi
 
 #### Art. 912
 
-Sche la dissoluziun da l’associaziun na vegn betg fatga tras concurs, ha l’administraziun da l’annunziar per l’inscripziun en il register da commerzi.
+[^912-1]
+
+<sup>1</sup> La dissoluziun d’ina associaziun sto vegnir inscritta en il register da commerzi.
+
+<sup>2</sup> En cas d’ina dissoluziun tras sentenzia sto la dretgira infurmar immediatamain l’uffizi dal register da commerzi.
+
+<sup>3</sup> Sche la societad vegn dissolvida per auters motivs, sto l’associaziun infurmar l’uffizi dal register da commerzi.
+
+[^912-1]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### C. Liquidaziun, repartiziun da la facultad
 
@@ -13864,11 +14737,12 @@ Tut las persunas ch’èn incumbensadas cun l’administraziun, cun la gestiun, 
 
 [^919-1]
 
-<sup>1</sup> Il dretg sin indemnisaziun cunter las persunas responsablas tenor las disposiziuns qua survart surannescha suenter 5 onns a partir dal di che la persuna donnegiada è vegnida a savair dal donn e da la persuna che sto pajar l’indemnisaziun, en mintga cas dentant suenter 10 onns quintà a partir dal di ch’il cumportament donnegiant ha gì lieu u è vegnì terminà.
+<sup>1</sup> Il dretg sin indemnisaziun cunter las persunas responsablas tenor las disposiziuns qua survart surannescha suenter 5 onns a partir dal di che la persuna donnegiada è vegnida a savair dal donn e da la persuna che sto pajar l’indemnisaziun, en mintga cas dentant suenter 10 onns quintà a partir dal di ch’il cumportament donnegiant ha gì lieu u è vegnì terminà.[^919-2]
 
 <sup>2</sup> Sche la persuna responsabla ha commess in malfatg tras ses cumportament donnegiant, surannescha il dretg d’indemnisaziun il pli baud cun l’entrada da la surannaziun da la persecuziun penala. Sche la surannaziun da la persecuziun penala n’entra betg pli en consequenza d’ina sentenzia penala da l’emprima instanza, surannescha il dretg il pli baud 3 onns suenter la communicaziun da la sentenzia.
 
 [^919-1]: Versiun tenor la cifra I da la LF dals 15 da zer. 2018 (revisiun dal dretg da surannaziun), en vigur dapi il 1. da schan. 2020 ([AS 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [BBl 2014 235](https://fedlex.data.admin.ch/eli/fga/2014/65)).
+[^919-2]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### E. En cas d’associaziuns da credit e d’assicuranza
 
@@ -13929,13 +14803,13 @@ Per ils commembers da l’associaziun participanta na dastga la participaziun ad
 [^926-1]: Versiun tenor la cifra I 3 da la LF dals 16 da dec. 2005 (dretg da ScRL sco er adattaziuns en il dretg d’aczias, en il dretg d’associaziun, en il dretg dal register da commerzi ed en il dretg da firmas), en vigur dapi il 1. da schan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 [^926-2]: Versiun da l’emprima frasa tenor la cifra I 3 da la LF dals 16 da dec. 2005 (dretg da ScRL sco er adattaziuns en il dretg d’aczias, en il dretg d’associaziun, en il dretg dal register da commerzi ed en il dretg da firmas), en vigur dapi il 1. da schan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 
-## Quarta partiziun:**** Il register da commerzi, las firmas commerzialas e la contabilitad commerziala
+## Quarta partiziun: Il register da commerzi, las firmas commerzialas e la contabilitad commerziala
 
 [^part4-1]
 
 [^part4-1]: Versiun tenor la LF dals 18 da dec. 1936, en vigur dapi il 1. da fan. 1937 ([AS 53 185](https://fedlex.data.admin.ch/eli/oc/53/185_185_189); [BBl 1928 I 205](https://fedlex.data.admin.ch/eli/fga/1928/1_205_233_253), **1932** I217). Guardar disp. fin. e trans. dals titels XXIV–XXXIII a la fin dal DO.
 
-### Trentavel titel:**** Il register da commerzi
+### Trentavel titel: Il register da commerzi
 
 [^part4-tit30-1]
 
@@ -14068,17 +14942,21 @@ Las unitads giuridicas inscrittas en il register da commerzi survegnan in numer 
 
 <sup>1</sup> Sch’ina unitad giuridica n’ha pli ni activitads commerzialas ni activas utilisablas, stizza l’uffizi dal register da commerzi questa unitad giuridica or dal register da commerzi.
 
-<sup>2</sup> Per quest intent supplitgescha l’uffizi dal register da commerzi l’unitad giuridica da communitgar in interess vi dal mantegniment da l’inscripziun. Sche questa supplica n’ha nagin success, fa el trais giadas ina publicaziun en il Fegl uffizial svizzer da commerzi, supplitgond ulteriuras persunas pertutgadas da communitgar in interess. Sch’er questa supplica n’ha nagin success, vegn stizzada l’unitad giuridica.
+<sup>2</sup> Per quest intent supplitgescha l’uffizi dal register da commerzi l’unitad giuridica da communitgar in interess vi dal mantegniment da l’inscripziun. Sche questa supplica n’ha nagin success, fa el ina publicaziun en il Fegl uffizial svizzer da commerzi, supplitgond ulteriuras persunas pertutgadas da communitgar in interess. Sch’er questa supplica n’ha nagin success, vegn stizzada l’unitad giuridica.[^934-1]
 
 <sup>3</sup> Sche ulteriuras persunas pertutgadas fan valair in interess vi dal mantegniment da l’inscripziun, surdat l’uffizi dal register da commerzi la chaussa a la dretgira per la decisiun.
+
+[^934-1]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 2. Interpresas singulas e filialas senza domicil legal
 
 #### Art. 934a
 
-<sup>1</sup> Sch’ina interpresa singula n’ha pli nagin domicil legal, la stizza l’uffizi dal register da commerzi or dal register da commerzi, suenter ch’el ha publitgà trais giadas senza success ina supplica en il Fegl uffizial svizzer.
+<sup>1</sup> Sch’ina interpresa singula n’ha nagin domicil legal pli, la stizza l’uffizi dal register da commerzi or dal register da commerzi, suenter ch’el ha publitgà senza success ina supplica en il Fegl uffizial svizzer.[^934a-1]
 
 <sup>2</sup> Sch’ina filiala cun sedia principala en Svizra n’ha pli nagin domicil legal, la stizza l’uffizi dal register da commerzi or dal register da commerzi, suenter ch’el ha suttamess senza success ina supplica a la sedia principala.
+
+[^934a-1]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### VI. Reinscripziun
 
@@ -14309,7 +15187,7 @@ La firma d’ina societad commerziala u d’ina associaziun sto sa distinguer cl
 
 #### Art. 954
 
-La firma vertenta po vegnir mantegnida, sch’il num dal possessur da la fatschenta u d’in associà ch’è cuntegnì en quella firma è vegnì midà tras la lescha u tras l’autoritad cumpetenta.
+La firma vertenta po vegnir mantegnida, sch’il num dal possessur da la fatschenta u d’in societari ch’è cuntegnì en quella firma è vegnì midà tras la lescha u tras l’autoritad cumpetenta.
 
 ### B. Obligaziun da duvrar la firma ed il num
 
@@ -14355,7 +15233,7 @@ Tras l’inscripziun d’ina firma na vegn la persuna autorisada betg deliberada
 
 <sup>2</sup> Tgi che vegn pregiuditgà tras l’utilisaziun nunautorisada d’ina firma, po dumandar dal derschader da metter ina fin a quest abus; en cas da culpa po el purtar plant per pretender ina indemnisaziun.
 
-### Trentadusavel titel:**** Contabilitad commerziala, rendaquint, ulteriuras obligaziuns da transparenza e da diligenza****
+### Trentadusavel titel: Contabilitad commerziala, rendaquint, ulteriuras obligaziuns da transparenza e da diligenza
 
 [^part4-tit32-1][^part4-tit32-2]
 
@@ -14441,6 +15319,10 @@ Ella observa ils princips da la contabilitad regulara. En spezial ston vegnir re
 
 <sup>2</sup> Sch’ils retgavs nets da las furniziuns e da las prestaziuns u sch’ils retgavs finanzials na surpassan betg 100 000 francs, pon ins desister da la cunfinaziun temporala e far empè da quai ina contabilitad da las expensas e da las entradas.
 
+<sup>3</sup> Sch’il rendaquint na vegn betg preschentà en francs, è la media annuala dal curs decisiva per fixar la valur tenor l’alinea 2.[^958b-1]
+
+[^958b-1]: Integrà tras la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
 ### III. Princips dal rendaquint regular
 
 #### Art. 958c
@@ -14475,6 +15357,10 @@ Per il rendaquint èn decisivs en spezial ils suandants princips:
 
 ### D. Publicaziun ed invista
 
+[^part4-tit32-chap1-lvlD-1]
+
+[^part4-tit32-chap1-lvlD-1]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
 #### Art. 958e
 
 <sup>1</sup>
@@ -14485,6 +15371,10 @@ Suenter che l’organ cumpetent ha approvà il quint annual ed il quint dal conc
 - 2\. titels da participaziun da l’interpresa èn quotads ad ina bursa.
 
 <sup>2</sup> Las ulteriuras interpresas ston dar als crediturs che cumprovan in interess degn da vegnir protegì, il dretg da prender invista dal rapport da gestiun e dals rapports da revisiun. En cas da dispita decida il derschader.
+
+<sup>3</sup> Sche l’interpresa fa diever d’ina pussaivladad da renunzia tenor l’artitgel 961*d* alinea 1, 962 alinea 3 u 963*a* alinea 1 cifra 2, sa drizzan la publicaziun e l’invista tenor las prescripziuns per l’agen quint annual.[^958e-1]
+
+[^958e-1]: Integrà tras la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### E. Manar e conservar ils cudeschs da fatschenta
 
@@ -14498,7 +15388,11 @@ Suenter che l’organ cumpetent ha approvà il quint annual ed il quint dal conc
 
 <sup>4</sup> Il Cussegl federal decretescha las prescripziuns davart ils cudeschs da fatschenta ch’èn da manar, davart ils princips per manar e conservar tals sco er davart ils purtaders d’infurmaziuns che dastgan vegnir utilisads.
 
-### Segund chapitel: Quint annual
+### Segund chapitel: Quint annual e clusiun intermediara
+
+[^part4-tit32-chap2-1]
+
+[^part4-tit32-chap2-1]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### A. Bilantscha
 
@@ -14574,14 +15468,21 @@ Tar las passivas ston vegnir preschentadas separadamain – tut tenor la data ch
   agen chapital:
 
   - a. chapital da basa, chapital da la societad u chapital da la fundaziun, eventualmain zavrà tenor categorias da participaziun,
-  - b. reserva legala da chapital,
-  - c. reserva legala da gudogn,
-  - d. reservas facultativas da gudogn u perditas cumuladas sco posts negativs,
-  - e. atgnas parts dal chapital sco posts negativs.
+  - b. reserva legala dal chapital,
+  - c. reserva legala dal gudogn,
+  - d.[^959a-1] reservas facultativas dal gudogn,
+  - e.[^959a-2] atgnas quotas dal chapital sco posts negativs,
+  - f.[^959a-3] il transport dal gudogn u da la perdita sco post negativ,
+  - g.[^959a-4] il gudogn annual u la perdita annuala sco post negativ.
 
 <sup>3</sup> Ulteriuras posiziuns ston vegnir preschentadas separadamain en la bilantscha u en l’agiunta, sche quai è impurtant per che terzas persunas possian giuditgar la situaziun da la facultad u da la finanziaziun u sche quai è usità en il sectur d’activitad da l’interpresa.
 
 <sup>4</sup> Pretensiuns e debits envers persunas participadas directamain u indirectamain, envers organs ed envers interpresas, vi da las qualas l’interpresa è participada directamain u indirectamain, ston mintgamai vegnir preschentads separadamain en la bilantscha u en l’agiunta.
+
+[^959a-1]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^959a-2]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^959a-3]: Integrà tras la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^959a-4]: Integrà tras la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### B. Quint economic; structura minimala
 
@@ -14642,7 +15543,7 @@ L’agiunta sto plinavant cuntegnair las suandantas indicaziuns, sche quellas na
 - 1\. la firma u il num sco er la furma giuridica e la sedia da l’interpresa;
 - 2\. ina decleraziun ch’il dumber da plazzas a temp cumplain na surpassia betg 10, 50 respectivamain 250 en la media annuala;
 - 3\. la firma, la furma giuridica e la sedia da las interpresas, vi da las qualas l’interpresa è participada en moda directa u en moda indirecta relevanta, inditgond la quota da chapital e la quota dals dretgs da votar;
-- 4\. il dumber d’atgnas quotas che vegnan tegnidas da l’interpresa sezza e da las interpresas, vi da las qualas l’interpresa è participada;
+- 4\.[^959c-1] il dumber d’atgnas quotas che vegnan tegnidas da l’interpresa sezza u da las interpresas ch’ella controllescha (art. 963);
 - 5\. l’acquist e l’alienaziun d’atgnas quotas e las cundiziuns, sut las qualas ellas èn vegnidas acquistadas u alienadas;
 - 6\. l’import restant dals debits or da fatschentas da leasing sumegliantas al contract da cumpra ed or d’autras fatschentas da leasing, sche quellas na fineschan betg entaifer 12 mais a partir dal di da referenza da la bilantscha u na pon betg vegnir disditgas entaifer quest termin;
 - 7\. ils debits envers instituziuns da prevenziun;
@@ -14652,11 +15553,16 @@ L’agiunta sto plinavant cuntegnair las suandantas indicaziuns, sche quellas na
 - 11\. il dumber e la valur da dretgs da participaziun u d’opziuns sin tals dretgs per tut ils organs directivs ed administrativs sco er per ils collavuraturs;
 - 12\. explicaziuns davart posiziuns extraordinarias u unicas dal quint economic u davart posiziuns che sa refereschan ad autras periodas;
 - 13\. eveniments impurtants suenter il di da referenza da la bilantscha;
-- 14\. en cas d’ina demissiun anticipada dal post da revisiun: ils motivs da questa demissiun.
+- 14\.[^959c-2] en cas d’ina demissiun anticipada u d’ina revocaziun dal post da revisiun: ils motivs da questa demissiun u revocaziun;
+- 15\.[^959c-3] tut ils augments e tut las reducziuns dal chapital ch’il cussegl d’administraziun ha fatg entaifer la marscha da chapital.
 
 <sup>3</sup> Las interpresas singulas e las societads da persunas pon desister da rediger l’agiunta, sch’ellas n’èn betg obligadas da far il rendaquint tenor las prescripziuns per interpresas pli grondas. Sche las prescripziuns davart la structura minimala da la bilantscha e dal quint economic pretendan indicaziuns supplementaras, ma sch’i vegn desistì da rediger in’agiunta, ston questas indicaziuns vegnir fatgas directamain en la bilantscha u en il quint economic.
 
 <sup>4</sup> Las interpresas che debiteschan obligaziuns d’emprest ston inditgar ils imports, las tariffas da tschains, la scadenza sco er autras cundiziuns da talas.
+
+[^959c-1]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^959c-2]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^959c-3]: Integrà tras la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### D. Valitaziun
 
@@ -14729,6 +15635,26 @@ Retenziuns dastgan plinavant vegnir fatgas en spezial per:
 
 <sup>4</sup> Las restituziuns che n’èn betg pli giustifitgadas na ston betg vegnir dissolvidas.
 
+### E. Clusiun intermediara
+
+#### Art. 960f
+
+[^960f-1]
+
+<sup>1</sup> Ina clusiun intermediara vegn fatga tenor las prescripziuns per il quint annual e cuntegna ina bilantscha, in quint economic ed in’agiunta. Las prescripziuns per interpresas pli grondas e per concerns restan resalvadas.
+
+<sup>2</sup>
+
+Simplificaziuns u scursanidas èn admissiblas, sche la preschentaziun da l’andament da las fatschentas na vegn betg restrenschida. Vegnir preschentadas ston almain las rubricas e las summas intermediaras ch’èn cuntegnidas en l’ultim quint annual. Plinavant cuntegna l’agiunta da la clusiun intermediara las suandantas indicaziuns:
+
+- 1\. l’intent da la clusiun intermediara;
+- 2\. las simplificaziuns e las scursanidas, inclusiv eventualas divergenzas dals princips applitgads per l’ultim quint annual;
+- 3\. ulteriurs facturs che han influenzà essenzialmain la situaziun economica da l’interpresa durant la perioda da rapport, en spezial explicaziuns davart la stagiunalitad.
+
+<sup>3</sup> La clusiun intermediara sto vegnir designada sco tala. Ella sto vegnir suttascritta dal parsura da l’organ directiv u administrativ suprem e da la persuna ch’è responsabla entaifer l’interpresa per la clusiun intermediara.
+
+[^960f-1]: Integrà tras la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
 ### Terz chapitel: Rendaquint en interpresas grondas
 
 ### A. Pretensiuns supplementaras envers il rapport da gestiun
@@ -14775,19 +15701,30 @@ Il rapport da situaziun sto infurmar en spezial davart:
 
 <sup>3</sup> Il rapport da situaziun na dastga betg star en cuntradicziun cun la preschentaziun da la situaziun economica en il quint annual.
 
-### E. Facilitaziun en consequenza dal quint dal concern
+### E. Facilitaziuns
+
+[^part4-tit32-chap3-lvlE-1]
+
+[^part4-tit32-chap3-lvlE-1]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 961d
 
-<sup>1</sup> Da las indicaziuns supplementaras en l’agiunta dal quint annual, dal quint da la circulaziun dals daners sco er dal rapport da situaziun po l’interpresa desister, sch’ella sezza u ina persuna giuridica, che controllescha l’interpresa, fa in quint dal concern tenor in standard da rendaquint renconuschì.
+<sup>1</sup>
+
+Da las indicaziuns supplementaras en l’agiunta dal quint annual, dal quint da la circulaziun dals daners sco er dal rapport da situaziun poi vegnir desistì, sche:
+
+- 1\. l’interpresa fa ina clusiun u in quint dal concern tenor in standard da rendaquint renconuschì; u
+- 2\. ina persuna giuridica, che controllescha l’interpresa, fa in quint dal concern tenor in standard da rendaquint renconuschì.[^961d-1]
 
 <sup>2</sup>
 
 In rendaquint tenor las prescripziuns da quest chapitel po vegnir pretendì:
 
-- 1\. dals associads che represchentan almain 10 pertschient dal chapital da basa;
+- 1\. dals societaris che represchentan almain 10 pertschient dal chapital da basa;
 - 2\. da 10 pertschient dals commembers da l’associaziun u da 20 pertschient dals commembers da l’uniun;
-- 3\. da mintga associà u commember ch’è suttamess ad ina responsabladad persunala u ad in’obligaziun da far pajaments supplementars.
+- 3\. da mintga societari u commember ch’è suttamess ad ina responsabladad persunala u ad in’obligaziun da far pajaments supplementars.
+
+[^961d-1]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### Quart chapitel: Clusiun tenor in standard da rendaquint renconuschì
 
@@ -14807,9 +15744,9 @@ Ultra dal quint annual tenor quest titel sto vegnir fatga ina clusiun tenor in s
 
 Ina clusiun tenor in standard renconuschì po plinavant vegnir pretendida:
 
-- 1\. dals associads che represchentan almain 20 pertschient dal chapital da basa;
+- 1\. dals societaris che represchentan almain 20 pertschient dal chapital da basa;
 - 2\. da 10 pertschient dals commembers da l’associaziun u da 20 pertschient dals commembers da l’uniun;
-- 3\. dals associads u da commembers ch’èn suttamess ad ina responsabladad persunala u ad in’obligaziun da far pajaments supplementars.
+- 3\. dals societaris u da commembers ch’èn suttamess ad ina responsabladad persunala u ad in’obligaziun da far pajaments supplementars.
 
 <sup>3</sup> L’obligaziun da far ina clusiun tenor in standard renconuschì croda davent, sch’i vegn fatg in quint dal concern tenor in standard renconuschì.
 
@@ -14873,11 +15810,14 @@ Ina persuna giuridica è deliberada da l’obligaziun da far in quint dal concer
 In quint dal concern sto tuttina vegnir fatg, sche:
 
 - 1\. quai è necessari per giuditgar en moda uschè fidabla sco pussaivel la situaziun economica;
-- 2\. quai vegn pretendì dad associads che represchentan almain 20 pertschient dal chapital da basa, da 10 pertschient dals commembers da l’associaziun u da 10 pertschient dals commembers da l’uniun;
-- 3\. quai vegn pretendì d’in associà u d’in commember da l’uniun ch’è suttamess ad ina responsabladad persunala u ad in’obligaziun da far pajaments supplementars; u
+- 2\.[^963a-1] quai vegn pretendì da societaris che represchentan almain 20 pertschient dal chapital da basa, u da 10 pertschient dals associads u da 20 pertschient dals commembers da l’uniun;
+- 3\. quai vegn pretendì d’in societari u d’in commember da l’uniun ch’è suttamess ad ina responsabladad persunala u ad in’obligaziun da far pajaments supplementars; u
 - 4\. quai vegn pretendì da l’autoritad da surveglianza da la fundaziun.
 
-<sup>3</sup> Sch’ina persuna giuridica desista tenor l’alinea 1 cifra 2 da far il quint dal concern per il sutconcern, sto ella publitgar il quint dal concern superiur tenor las prescripziuns per l’agen quint annual.
+<sup>3</sup> Sch’il rendaquint na vegn betg preschentà en francs, vegnan las valurs tenor l’alinea 1 cifra 1 fixadas sco suonda: per la summa da bilantscha sin basa dal curs da stgomi dal di da referenza da la bilantscha e per il retgav da la svieuta sin basa da la media annuala dal curs.[^963a-2]
+
+[^963a-1]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^963a-2]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### C. Standards da rendaquint renconuschids
 
@@ -14899,8 +15839,8 @@ Il quint dal concern da las suandantas interpresas sto vegnir fatg tenor in stan
 
 In quint dal concern sto tuttina vegnir fatg tenor in standard da rendaquint renconuschì, sche:
 
-- 1\. quai vegn pretendì dad associads che represchentan almain 20 pertschient dal chapital da basa, da 10 pertschient dals commembers da l’associaziun u da 20 pertschient dals commembers da l’uniun;
-- 2\. quai vegn pretendì d’in associà u d’in commember da l’uniun ch’è suttamess ad ina responsabladad persunala u ad in’obligaziun da far pajaments supplementars; u
+- 1\. quai vegn pretendì da societaris che represchentan almain 20 pertschient dal chapital da basa, da 10 pertschient dals commembers da l’associaziun u da 20 pertschient dals commembers da l’uniun;
+- 2\. quai vegn pretendì d’in societari u d’in commember da l’uniun ch’è suttamess ad ina responsabladad persunala u ad in’obligaziun da far pajaments supplementars; u
 - 3\. quai vegn pretendì da l’autoritad da surveglianza da la fundaziun.
 
 #### Art. 964
@@ -14909,7 +15849,7 @@ In quint dal concern sto tuttina vegnir fatg tenor in standard da rendaquint ren
 
 [^964-1]: Abolì tras la cifra I da la LF dals 22 da dec. 1999, cun effect dapi il 1. da zer. 2002 ([AS 2002 949](https://fedlex.data.admin.ch/eli/oc/2002/170); [BBl 1999 5149](https://fedlex.data.admin.ch/eli/fga/1999/1_5149_4753_4457)).
 
-### Sisavel chapitel:**** Transparenza davart dumondas betg finanzialas
+### Sisavel chapitel: Transparenza davart dumondas betg finanzialas
 
 [^part4-tit32-chap6-1]
 
@@ -14986,7 +15926,7 @@ L’organ directiv u administrativ suprem procura ch’il rapport:
 
 <sup>3</sup> Per manar e per conservar ils rapports vala l’artitgel 958*f* tenor il senn.
 
-### Settavel chapitel:**** Transparenza d’interpresas dal sectur da materias primas
+### Settavel chapitel: Transparenza d’interpresas dal sectur da materias primas
 
 [^part4-tit32-chap7-1]
 
@@ -15017,7 +15957,7 @@ Ils pajaments a posts statals pon consister da prestaziuns en daners u da presta
 - 1\. pajaments per dretgs da producziun;
 - 2\. taglias sin la producziun, sin ils retgavs u sin ils gudogns d’interpresas, cun excepziun da taglias sin la plivalur u sin la svieuta e d’autras taglias sin il consum;
 - 3\. indemnisaziuns d’utilisaziun;
-- 4\. dividendas, cun excepziun da las dividendas pajadas ad in post statal sco associà da questa interpresa, uschenavant che questas dividendas vegnan pajadas al post statal sut las medemas cundiziuns sco als auters associads;
+- 4\. dividendas, cun excepziun da las dividendas pajadas ad in post statal sco societari da questa interpresa, uschenavant che questas dividendas vegnan pajadas al post statal sut las medemas cundiziuns sco als auters societaris;
 - 5\. bonus da suttascripziun, da scuverta e da producziun;
 - 6\. taxas da licenza, da locaziun e d’access u autras cuntraprestaziuns per permissiuns u per concessiuns;
 - 7\. pajaments a favur da la meglieraziun da l’infrastructura.
@@ -15058,7 +15998,7 @@ Per manar e per conservar il rapport davart ils pajaments a posts statals vala a
 
 En il rom d’in proceder coordinà sin plaun internaziunal po il Cussegl federal fixar che las obligaziuns tenor ils artitgels 964*d*–964*h* valian er per interpresas che fan commerzi cun materias primas.
 
-### Otgavel chapitel:**** Obligaziuns da diligenza e transparenza areguard minerals e metals che derivan da territoris da conflict ed areguard la lavur d’uffants
+### Otgavel chapitel: Obligaziuns da diligenza e transparenza areguard minerals e metals che derivan da territoris da conflict ed areguard la lavur d’uffants
 
 [^part4-tit32-chap8-1]
 
@@ -15118,7 +16058,7 @@ L’organ directiv u administrativ suprem procura ch’il rapport:
 
 <sup>5</sup> Interpresas che offran products e servetschs d’interpresas che han fatg in rapport, na ston betg far in agen rapport per quests products e servetschs.
 
-## Tschintgavla partiziun:**** Las vaglias
+## Tschintgavla partiziun: Las vaglias
 
 [^part5-1]
 
@@ -15184,9 +16124,11 @@ Cun l’indossament e cun la surdada dal document indossà vegnan transferids il
 
 #### Art. 971
 
-<sup>1</sup> Ina vaglia ch’è ida a perder po vegnir annullada dal derschader.
+<sup>1</sup> Ina vaglia ch’è ida a perder po vegnir annullada da la dretgira[^971-1].
 
 <sup>2</sup> L’annullaziun po pretender tgi che ha il dretg dal titel il mument che quel è ì a perder u il mument ch’ins ha constatà la perdita.
+
+[^971-1]: Expressiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)). Questa midada è vegnida fatga en las disposiziuns numnadas en la AS.
 
 ### II. Procedura, effect
 
@@ -15453,7 +16395,7 @@ Sch’il debitur ha resalvà en il titel nominal il dretg da dastgar pajar a min
 
 #### Art. 981
 
-<sup>1</sup> Ils titels al possessur sco aczias, sco obligaziuns, sco certificats da giudida, sco fegls da cupons, sco taluns per retrair tals fegls, dentant cun exclusiun da singuls cupons, vegnan annullads dal derschader sin dumonda da la persuna autorisada.
+<sup>1</sup> Ils titels al possessur sco aczias, obligaziuns, certificats da giudida, fegls da cupons, taluns per retrair tals fegls, dentant cun exclusiun da singuls cupons, vegnan annullads da la dretgira sin dumonda da la persuna autorisada.
 
 <sup>2</sup> ...[^981-1]
 
@@ -15481,9 +16423,11 @@ Sch’il derschader è da l’avis che la preschentaziun dal petent concernent s
 
 #### Art. 984
 
-<sup>1</sup> L’appel da preschentar il document sto vegnir publitgà trais giadas en il Fegl uffizial svizzer da commerzi.
+<sup>1</sup> L’appel da preschentar il document sto vegnir publitgà en il Fegl uffizial svizzer da commerzi.[^984-1]
 
-<sup>2</sup> En cas spezials po il derschader procurar anc en in’autra moda per ina publicaziun adequata.
+<sup>2</sup> En cas spezials po la dretgira procurar anc en autra moda per ina publicaziun adequata.
+
+[^984-1]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 5. Effects
 
@@ -15491,17 +16435,17 @@ Sch’il derschader è da l’avis che la preschentaziun dal petent concernent s
 
 #### Art. 985
 
-<sup>1</sup> Sch’il titel al possessur ch’è ì a perder vegn preschentà, fixescha il derschader per il petent in termin per purtar in plant per cuntanscher ch’il document vegnia restituì.
+<sup>1</sup> Sch’il titel al possessur ch’è ì a perder vegn preschentà, fixescha la dretgira per il petent in termin per purtar in plant per cuntanscher ch’il document vegnia restituì.
 
-<sup>2</sup> Sch’il petent na porta betg plant entaifer quest termin, restituescha il derschader il document ed annullescha il scumond da pajar.
+<sup>2</sup> Sch’il petent na porta betg plant entaifer quest termin, restituescha la dretgira il document ed annullescha il scumond da pajar.
 
 ### b. Sch’il document na vegn betg preschentà
 
 #### Art. 986
 
-<sup>1</sup> Sch’il titel al possessur ch’è ì a perder na vegn betg preschentà entaifer il termin fixà, al po il derschader annullar u – tenor las circumstanzas – ordinar ulteriuras mesiras.
+<sup>1</sup> Sch’il titel al possessur ch’è ì a perder na vegn betg preschentà entaifer il termin fixà, al po la dretgira annullar u – tenor las circumstanzas – ordinar ulteriuras mesiras.
 
-<sup>2</sup> L’annullaziun d’in titel al possessur sto vegnir publitgada immediatamain en il Fegl uffizial svizzer da commerzi, tenor liber appreziar dal derschader er en autra moda.
+<sup>2</sup> L’annullaziun d’in titel al possessur sto vegnir publitgada immediatamain en il Fegl uffizial svizzer da commerzi, tenor appreziar da la dretgira er en autra moda.
 
 <sup>3</sup> Suenter l’annullaziun ha il petent il dretg da pretender sin agens custs l’emissiun d’in nov document u la prestaziun dal pajament debità.
 
@@ -15509,9 +16453,9 @@ Sch’il derschader è da l’avis che la preschentaziun dal petent concernent s
 
 #### Art. 987
 
-<sup>1</sup> Sche singuls cupons èn ids a perder, sto il derschader ordinar sin dumonda da la persuna autorisada, che l’import dal cupon stoppia vegnir deponì tar la dretgira il mument ch’el scada u immediatamain, en cas ch’el è gia scadì.
+<sup>1</sup> Sche singuls cupons èn ids a perder, sto la dretgira ordinar sin dumonda da la persuna autorisada, che l’import dal cupon stoppia vegnir deponì tar la dretgira il mument ch’el scada u immediatamain, en cas ch’el è gia scadì.
 
-<sup>2</sup> Suenter ch’igl èn passads 3 onns dapi il di da scadenza e sche nagina persuna autorisada n’è s’annunziada en il fratemp, sto il derschader ordinar la restituziun da l’import al petent.
+<sup>2</sup> Suenter ch’i èn passads 3 onns dapi il di da scadenza e sche nagina persuna autorisada n’è s’annunziada en il fratemp, sto la dretgira ordinar la restituziun da l’import al petent.
 
 ### III. En cas da bancnotas e da titels sumegliants
 
@@ -16371,9 +17315,9 @@ La surannaziun vegn interrutta cun l’inoltraziun dal plant, cun l’inoltraziu
 
 #### Art. 1072
 
-<sup>1</sup> Tgi che ha pers ina cambiala en ina maniera u l’autra, po pretender dal derschader, ch’i vegnia scumandà al trassà da pajar la cambiala[^1072-1].
+<sup>1</sup> Tgi che ha pers ina cambiala en ina maniera u l’autra, po pretender da la dretgira, ch’i vegnia scumandà al trassà da pajar la cambiala.[^1072-1]
 
-<sup>2</sup> Cun il scumond da pajar dat il derschader al trassà il dretg da depositar la summa da la cambiala il di che quella scada, ed el fixescha il lieu dal deposit.
+<sup>2</sup> Cun il scumond da pajar dat la dretgira al trassà il dretg da depositar la summa da la cambiala il di che quella scada, ed ella fixescha il lieu dal deposit.
 
 [^1072-1]: Versiun tenor la cifra 5 da l’agiunta da la LF dals 24 da mars 2000 davart la cumpetenza en chaussas civilas, en vigur dapi il 1. da schan. 2001 ([AS 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); [BBl 1999 III 2829](https://fedlex.data.admin.ch/eli/fga/1999/1_2829_2591_2427)).
 
@@ -16381,9 +17325,9 @@ La surannaziun vegn interrutta cun l’inoltraziun dal plant, cun l’inoltraziu
 
 #### Art. 1073
 
-<sup>1</sup> Sch’il possessur da la cambiala è enconuschent, fixescha il derschader in termin adequat per il petent per purtar plant sin restituziun da la cambiala.
+<sup>1</sup> Sch’il possessur da la cambiala è enconuschent, fixescha la dretgira in termin adequat per il petent per purtar plant sin restituziun da la cambiala.
 
-<sup>2</sup> Sch’il petent na porta betg plant entaifer quest termin, abolescha il derschader il scumond da pajar ch’è vegnì decretà per il trassà.
+<sup>2</sup> Sch’il petent na porta betg plant entaifer quest termin, abolescha la dretgira il scumond da pajar ch’è vegnì decretà per il trassà.
 
 ### 3. Possessur nunenconuschent
 
@@ -16399,7 +17343,7 @@ La surannaziun vegn interrutta cun l’inoltraziun dal plant, cun l’inoltraziu
 
 #### Art. 1075
 
-Sch’il derschader è da l’avis che la preschentaziun dal petent concernent l’anteriur possess e concernent la perdita da la cambiala saja credibla, pretenda el dal possessur – cun ina communicaziun publica – da preschentar la cambiala entaifer in tschert termin, cas cuntrari vegn annullada la cambiala.
+Sche la dretgira è da l’avis che la preschentaziun dal petent concernent l’anteriur possess e concernent la perdita da la cambiala saja credibla, pretenda ella dal possessur – cun ina communicaziun publica – da preschentar la cambiala entaifer in tschert termin, cas cuntrari vegn annullada la cambiala.
 
 ### c. Termins
 
@@ -16407,7 +17351,7 @@ Sch’il derschader è da l’avis che la preschentaziun dal petent concernent l
 
 <sup>1</sup> Il termin per preschentar la cambiala dura almain 3 mais e maximalmain 1 onn.
 
-<sup>2</sup> Il derschader n’è però betg lià a la durada minimala da 3 mais, sche la surannaziun d’ina cambiala scadida entrass avant la scadenza da quest termin.
+<sup>2</sup> La dretgira n’è però betg liada a la durada minimala da 3 mais, sche la surannaziun d’ina cambiala scadida entrass avant la scadenza da quest termin.
 
 <sup>3</sup> En cas da cambialas scadidas curra il termin a partir da l’emprim di da la publicaziun, en cas da cambialas betg anc scadidas a partir dal di da scadenza.
 
@@ -16415,9 +17359,11 @@ Sch’il derschader è da l’avis che la preschentaziun dal petent concernent l
 
 #### Art. 1077
 
-<sup>1</sup> La pretensiun da preschentar la cambiala sto vegnir publitgada trais giadas en il Fegl uffizial svizzer da commerzi.
+<sup>1</sup> La pretensiun da preschentar la cambiala sto vegnir publitgada en il Fegl uffizial svizzer da commerzi.[^1077-1]
 
-<sup>2</sup> En cas spezials po il derschader procurar anc en in’autra moda per ina publicaziun adequata.
+<sup>2</sup> En cas spezials po la dretgira procurar anc en autra moda per ina publicaziun adequata.
+
+[^1077-1]: Versiun tenor la cifra I da la LF dals 19 da zer. 2020 (dretg d’aczias), en vigur dapi il 1. da schan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 4. Effect
 
@@ -16425,15 +17371,15 @@ Sch’il derschader è da l’avis che la preschentaziun dal petent concernent l
 
 #### Art. 1078
 
-<sup>1</sup> Sch’i vegn preschentada la cambiala ch’è ida a perder, fixescha il derschader in termin per il petent per purtar plant sin restituziun da la cambiala.
+<sup>1</sup> Sche la cambiala ch’è ida a perder vegn preschentada, fixescha la dretgira in termin per il petent per purtar plant sin restituziun da la cambiala.
 
-<sup>2</sup> Sch’il petent na porta betg plant entaifer quest termin, restituescha il derschader la cambiala ed abolescha il scumond da pajar ch’è vegnì dà al trassà.
+<sup>2</sup> Sch’il petent na porta betg plant entaifer quest termin, restituescha la dretgira la cambiala ed abolescha il scumond da pajar ch’è vegnì dà al trassà.
 
 ### b. En cas che la cambiala na vegn betg preschentada
 
 #### Art. 1079
 
-<sup>1</sup> Sche la cambiala ch’è ida a perder na vegn betg preschentada entaifer il termin fixà, l’ha il derschader dad annullar.
+<sup>1</sup> Sche la cambiala ch’è ida a perder na vegn betg preschentada entaifer il termin fixà, la sto la dretgira annullar.
 
 <sup>2</sup> Suenter l’annullaziun da la cambiala po il petent anc far valair ses dretgs or da la cambiala cunter l’acceptader.
 
@@ -16441,7 +17387,7 @@ Sch’il derschader è da l’avis che la preschentaziun dal petent concernent l
 
 #### Art. 1080
 
-<sup>1</sup> Il derschader po obligar l’acceptader gia avant l’annullaziun da la cambiala da depositar la summa da la cambiala u schizunt da la pajar cunter ina garanzia.
+<sup>1</sup> La dretgira po obligar l’acceptader gia avant l’annullaziun da la cambiala da depositar la summa da la cambiala u schizunt da la pajar cunter ina garanzia.
 
 <sup>2</sup> La summa da la garanzia stat buna vers quel che ha acquistà la cambiala da buna fai. Ella vegn libra, sche la cambiala vegn annullada u sche las pretensiuns vers quella extinguan en autra maniera.
 
@@ -17202,7 +18148,7 @@ Ils titels da martganzia che vegnan emess d’in possessur d’in magasin u d’
 
 [^1156-1]: Abolì tras la cifra 1 da l’agiunta da la LF dals 15 da zer. 2018 davart ils servetschs finanziars, cun effect dapi il 1. da schan. 2020 ([AS 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
-### Segund chapitel:**** La cuminanza dals crediturs en cas d’obligaziuns d’emprest
+### Segund chapitel: La cuminanza dals crediturs en cas d’obligaziuns d’emprest
 
 [^part5-tit34-chap2-1]
 
@@ -17268,9 +18214,9 @@ Ils titels da martganzia che vegnan emess d’in possessur d’in magasin u d’
 
 <sup>2</sup> Il plainpudair d’in represchentant che vegn designà en las cundiziuns d’emprest po vegnir revocà u midà da tut temp tras in conclus da la cuminanza da crediturs e cun il consentiment dal debitur.
 
-<sup>3</sup> Sin dumonda d’in creditur d’emprest u dal debitur e per motivs impurtants po il derschader declerar il plainpudair sco extinguì.
+<sup>3</sup> Sin dumonda d’in creditur d’in emprest u dal debitur e per motivs impurtants po la dretgira declerar il plainpudair sco extinguì.
 
-<sup>4</sup> Sch’il plainpudair extingua per in motiv u l’auter, prenda il derschader – sin dumonda d’in creditur d’emprest u dal debitur – las mesiras ch’èn necessarias per proteger ils interess dals crediturs e dal debitur.
+<sup>4</sup> Sch’il plainpudair extingua per in motiv u l’auter, prenda la dretgira – sin dumonda d’in creditur d’in emprest u dal debitur – las mesiras ch’èn necessarias per proteger ils interess dals crediturs e dal debitur.
 
 ### IV. Custs
 
@@ -17278,7 +18224,7 @@ Ils titels da martganzia che vegnan emess d’in possessur d’in magasin u d’
 
 <sup>1</sup> Ils custs d’ina represchentanza ch’è previsa en las cundiziuns d’emprest sto surpigliar il debitur d’emprest.
 
-<sup>2</sup> Ils custs d’ina represchentanza ch’è tschernida da la cuminanza da crediturs vegnan cuvrids da las prestaziuns dal debitur d’emprest e deducids a tut ils crediturs d’emprest a norma da la valur nominala da las obligaziuns ch’els possedan.
+<sup>2</sup> Ils custs d’ina represchentanza ch’è tschernida da la cuminanza da crediturs vegnan cuvrids da las prestaziuns dal debitur d’emprest e deducids a tut ils crediturs d’emprests a norma da la valur nominala da las obligaziuns ch’els possedan.
 
 ### C. Radunanza dals crediturs
 
@@ -17290,7 +18236,7 @@ Ils titels da martganzia che vegnan emess d’in possessur d’in magasin u d’
 
 <sup>2</sup> Ils conclus da la cuminanza da crediturs vegnan prendids da la radunanza dals crediturs ed èn valaivels, sch’els adempleschan las cundiziuns che la lescha prevesa en general u per singulas mesiras.
 
-<sup>3</sup> Uschenavant ch’i s’opponan conclus giuridicamain valaivels da la radunanza dals crediturs, na pon ils singuls crediturs d’emprest betg pli far valair lur dretgs individualmain.
+<sup>3</sup> Uschenavant ch’i s’opponan conclus giuridicamain valaivels da la radunanza dals crediturs, na pon ils singuls crediturs d’emprests betg pli far valair lur dretgs individualmain.
 
 <sup>4</sup> Ils custs per convocar e per far ina radunanza dals crediturs paja il debitur.
 
@@ -17302,7 +18248,7 @@ Ils titels da martganzia che vegnan emess d’in possessur d’in magasin u d’
 
 <sup>1</sup> La radunanza dals crediturs vegn convocada dal debitur.
 
-<sup>2</sup> Il debitur è obligà da la convocar entaifer 20 dis, sche crediturs d’emprest che possedan ensemen in ventgavel dal chapital, ch’è en circulaziun, u sch’il represchentant dals crediturs pretendan en scrit la convocaziun, inditgond l’intent ed ils motivs.
+<sup>2</sup> Il debitur è obligà da la convocar entaifer 20 dis, sche crediturs d’emprests che possedan ensemen in ventgavel dal chapital, ch’è en circulaziun, u sch’il represchentant dals crediturs pretendan en scrit la convocaziun, inditgond l’intent ed ils motivs.
 
 <sup>3</sup> Sch’il debitur na dat betg suatientscha a questa dumonda, po il derschader autorisar ils petents da convocar sezs ina radunanza dals crediturs. Obligantamain cumpetent è il derschader dal domicil actual dal debitur u da ses ultim domicil en Svizra.[^1165-1]
 
@@ -17315,13 +18261,13 @@ Ils titels da martganzia che vegnan emess d’in possessur d’in magasin u d’
 
 #### Art. 1166
 
-<sup>1</sup> Las pretensiuns dals crediturs d’emprest che ston vegnir pajadas vegnan suttamessas ad ina prorogaziun a partir dal mument che l’invit a la radunanza dals crediturs è vegnì publitgà correctamain fin al mument che la procedura davant l’autoritad da relasch è terminada cun vigur legala.
+<sup>1</sup> Las pretensiuns dals crediturs d’emprests che ston vegnir pajadas vegnan suttamessas ad ina prorogaziun a partir dal mument che l’invit a la radunanza dals crediturs è vegnì publitgà correctamain fin al mument che la procedura davant l’autoritad da relasch è terminada cun vigur legala.
 
 <sup>2</sup> Questa prorogaziun na vala betg sco sistida dals pajaments en il senn da la Lescha federala dals 11 d’avrigl 1889[^1166-1] davart scussiun e concurs; ina decleraziun dal concurs na po betg vegnir pretendida senza ch’i saja vegnida fatga precedentamain ina scussiun.
 
-<sup>3</sup> Durant la durada da la prorogaziun è interrut il curs dals termins da surannaziun e da scadenza che pon vegnir interruts da la scussiun, per las pretensiuns dals crediturs d’emprest che ston vegnir pajadas.
+<sup>3</sup> Durant la durada da la prorogaziun è interrut il curs dals termins da surannaziun e da scadenza che pon vegnir interruts da la scussiun, per las pretensiuns dals crediturs d’emprests che ston vegnir pajadas.
 
-<sup>4</sup> Sch’il debitur fa in diever abusiv dal dretg da prorogaziun, po l’autoritad chantunala superiura da relasch revocar la prorogaziun sin dumonda d’in creditur d’emprest.
+<sup>4</sup> Sch’il debitur fa in diever abusiv dal dretg da prorogaziun, po l’autoritad chantunala superiura da relasch revocar la prorogaziun sin dumonda d’in creditur d’in emprest.
 
 [^1166-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
 
@@ -17337,13 +18283,13 @@ Ils titels da martganzia che vegnan emess d’in possessur d’in magasin u d’
 
 <sup>3</sup> In proprietari d’obligaziuns ch’èn engrevgiadas cun in dretg da pegn u da retenziun a favur dal debitur na perda betg il dretg da votar.
 
-### 2. Represchentanza da singuls crediturs d’emprest
+### 2. Represchentanza da singuls crediturs d’emprests
 
 #### Art. 1168
 
-<sup>1</sup> Per represchentar crediturs d’emprest dovri in plainpudair en scrit, nun che la represchentanza sa basia sin la lescha.
+<sup>1</sup> Per represchentar crediturs d’emprests dovri in plainpudair en scrit, nun che la represchentanza sa basia sin la lescha.
 
-<sup>2</sup> Al debitur n’èsi betg permess da represchentar ils crediturs d’emprest che han il dretg da votar.
+<sup>2</sup> Al debitur n’èsi betg permess da represchentar ils crediturs d’emprests che han il dretg da votar.
 
 ### IV. Prescripziuns da procedura
 
@@ -17399,7 +18345,7 @@ Ina maioritad d’almain dus terzs dal chapital ch’è en circulaziun è necess
 
 #### Art. 1173
 
-<sup>1</sup> Nagin dals crediturs d’emprest na po vegnir obligà cun in conclus da la cuminanza da tolerar autras intervenziuns en ils dretgs dals crediturs che quellas previsas en l’artitgel 1170 u da furnir prestaziuns che n’èn betg vegnidas previsas ni en las cundiziuns d’emprest ni en la cunvegna cun els a chaschun da l’emissiun da l’obligaziun.
+<sup>1</sup> Nagins dals crediturs d’emprests na pon vegnir obligads cun in conclus da la cuminanza da tolerar autras intervenziuns en ils dretgs dals crediturs che quellas previsas en l’artitgel 1170 u da furnir prestaziuns che n’èn betg vegnidas previsas ni en las cundiziuns d’emprest ni en la cunvegna cun els a chaschun da l’emissiun da l’obligaziun.
 
 <sup>2</sup> La radunanza dals crediturs n’ha betg la cumpetenza d’extender ils dretgs dals crediturs senza il consentiment dal debitur.
 
@@ -17429,11 +18375,11 @@ Ina proposta da prender las mesiras ch’èn numnadas en l’artitgel 1170 dastg
 
 #### Art. 1176
 
-<sup>1</sup> Ils conclus che cuntegnan ina intervenziun en ils dretgs dals crediturs han mo in effect ed èn mo liants per ils crediturs d’emprest che na dattan betg lur consentiment, sch’els èn vegnids approvads da l’autoritad chantunala superiura da relasch.
+<sup>1</sup> Ils conclus che cuntegnan ina intervenziun en ils dretgs dals crediturs han mo in effect ed èn mo liants per ils crediturs d’emprests che na dattan betg lur consentiment, sch’els èn vegnids approvads da l’autoritad chantunala superiura da relasch.
 
 <sup>2</sup> Il debitur ha da suttametter quests conclus a questa autoritad per l’approvaziun, e quai entaifer 1 mais dapi ch’els èn vegnids prendids.
 
-<sup>3</sup> Il di da la tractativa vegn publitgà cun la communicaziun als crediturs d’emprest ch’els possian far lur objecziuns en scrit u er a bucca a chaschun da la tractativa.
+<sup>3</sup> Il di da la tractativa vegn publitgà cun la communicaziun als crediturs d’emprests ch’els possian far lur objecziuns en scrit u er a bucca a chaschun da la tractativa.
 
 <sup>4</sup> Ils custs da la procedura d’approvaziun vegnan surpigliads dal debitur.
 
@@ -17445,26 +18391,26 @@ L’approvaziun dastga vegnir refusada mo:
 
 - 1\. sche las prescripziuns davart la convocaziun da la radunanza dals crediturs e davart las cundiziuns per cuntanscher ils conclus da quella èn vegnidas violadas;
 - 2\. sch’i sa mussa ch’il conclus, ch’è vegnì prendì per evitar ina situaziun d’urgenza dal debitur, n’è betg stà necessari;
-- 3\. sch’ils interess cuminaivels dals crediturs d’emprest n’èn betg mantegnids e defendids en moda suffizienta;
+- 3\. sch’ils interess cuminaivels dals crediturs d’emprests n’èn betg mantegnids e defendids en moda suffizienta;
 - 4\. sch’il conclus è vegnì prendì en moda incorrecta u en moda betg permessa.
 
 ### c. Recurs
 
 #### Art. 1178
 
-<sup>1</sup> Sche l’approvaziun vegn dada, po mintga creditur d’emprest che n’ha betg dà il consentiment al conclus, recurrer cunter quella entaifer 30 dis tar il Tribunal federal pervia da violaziun da leschas u perquai ch’ella na correspunda betg a las circumstanzas; applitgada vegn la procedura previsa per chaussas da scussiun e da concurs.
+<sup>1</sup> Sche l’approvaziun vegn dada, po mintga creditur d’in emprest che n’ha betg dà il consentiment al conclus, recurrer cunter quella entaifer 30 dis tar il Tribunal federal pervia da violaziun da leschas u perquai ch’ella na correspunda betg a las circumstanzas; applitgada vegn la procedura previsa per chaussas da scussiun e da concurs.
 
-<sup>2</sup> Medemamain pon il creditur d’emprest che ha dà ses consentiment ed il debitur recurrer cunter il conclus, cun il qual i vegn refusada l’approvaziun.
+<sup>2</sup> Medemamain pon il creditur d’in emprest che ha dà ses consentiment ed il debitur recurrer cunter il conclus, cun il qual i vegn refusada l’approvaziun.
 
 ### d. Revocaziun
 
 #### Art. 1179
 
-<sup>1</sup> Sch’i sa mussa posteriuramain ch’il conclus da la radunanza dals crediturs è vegnì prendì en moda incorrecta u en moda betg permessa, po l’autoritad chantunala superiura da relasch – sin dumonda d’in creditur d’emprest – revocar l’approvaziun dal tuttafatg u per part.
+<sup>1</sup> Sch’i sa mussa posteriuramain ch’il conclus da la radunanza dals crediturs è vegnì prendì en moda incorrecta u en moda betg permessa, po l’autoritad chantunala superiura da relasch – sin dumonda d’in creditur d’in emprest – revocar l’approvaziun dal tuttafatg u per part.
 
-<sup>2</sup> La dumonda sto vegnir fatga entaifer 6 mais dapi ch’il creditur d’emprest ha enconuschientscha da l’irregularitad dal conclus.
+<sup>2</sup> La dumonda sto vegnir fatga entaifer 6 mais dapi ch’il creditur d’in emprest ha enconuschientscha da l’irregularitad dal conclus.
 
-<sup>3</sup> Il debitur e mintga creditur d’emprest pon far recurs cunter la revocaziun entaifer 30 dis tar il Tribunal federal pervia da violaziun da leschas e perquai ch’ella na correspunda betg a las circumstanzas che vegnan applitgadas en la procedura previsa per chaussas da scussiun e da concurs. Medemamain po mintga creditur d’emprest che ha pretendì la revocaziun far recurs cunter la refusa da l’approvaziun.
+<sup>3</sup> Il debitur e mintga creditur d’in emprest pon far recurs cunter la revocaziun entaifer 30 dis tar il Tribunal federal pervia da violaziun da leschas e perquai ch’ella na correspunda betg a las circumstanzas che vegnan applitgadas en la procedura previsa per chaussas da scussiun e da concurs. Medemamain po mintga creditur d’in emprest che ha pretendì la revocaziun far recurs cunter la refusa da l’approvaziun.
 
 ### II. Auters conclus
 
@@ -17472,7 +18418,7 @@ L’approvaziun dastga vegnir refusada mo:
 
 #### Art. 1180
 
-<sup>1</sup> Per revocar u per midar il plainpudair ch’è vegnì dà ad in represchentant dals crediturs d’emprest dovri il consentiment dals crediturs che represchentan dapli che la mesadad dal chapital ch’è en circulaziun.
+<sup>1</sup> Per revocar u per midar il plainpudair ch’è vegnì dà ad in represchentant dals crediturs d’emprests dovri il consentiment dals crediturs che represchentan dapli che la mesadad dal chapital ch’è en circulaziun.
 
 <sup>2</sup> La medema maioritad dovra in conclus, cun il qual in represchentant dals crediturs survegn il plainpudair per mantegnair e per defender en moda unitara ils dretgs dals crediturs en cas da concurs dal debitur.
 
@@ -17488,7 +18434,7 @@ L’approvaziun dastga vegnir refusada mo:
 
 #### Art. 1182
 
-Conclus en il senn dals artitgels 1180 e 1181 che violeschan la lescha u las cunvegnas contractualas pon vegnir contestads tar il derschader da mintga creditur d’emprest da la cuminanza che n’ha betg dà ses consentiment, e quai entaifer 30 dis dapi ch’el ha enconuschientscha da quests conclus.
+Conclus en il senn dals artitgels 1180 e 1181 che violeschan la lescha u las cunvegnas contractualas, pon vegnir contestads davant dretgira tras mintga creditur d’in emprest da la cuminanza che n’ha betg dà ses consentiment, e quai entaifer 30 dis dapi ch’el ha enconuschientscha da quests conclus.
 
 ### E. Cas spezials
 
@@ -17496,7 +18442,7 @@ Conclus en il senn dals artitgels 1180 e 1181 che violeschan la lescha u las cun
 
 #### Art. 1183
 
-<sup>1</sup> Sch’in creditur d’emprest fa concurs, convochescha l’administraziun da concurs immediatamain ina radunanza dals crediturs d’emprest; quella dat al represchentant gia numnà u che sto anc vegnir numnà da la radunanza il plainpudair da mantegnair e da defender en moda unitara ils dretgs dals crediturs d’emprest en la procedura da concurs.
+<sup>1</sup> Sch’in creditur d’in emprest fa concurs, convochescha l’administraziun da concurs immediatamain ina radunanza dals crediturs d’emprests; quella dat al represchentant gia numnà u che sto anc vegnir numnà da la radunanza il plainpudair da mantegnair e da defender en moda unitara ils dretgs dals crediturs d’emprests en la procedura da concurs.
 
 <sup>2</sup> Sche la radunanza n’è betg en cas da numnar in mandatari, represchenta mintga creditur individualmain ses dretgs.
 
@@ -17504,7 +18450,7 @@ Conclus en il senn dals artitgels 1180 e 1181 che violeschan la lescha u las cun
 
 #### Art. 1184
 
-<sup>1</sup> En la procedura da relasch – cun resalva da las prescripziuns davart ils emprests ch’èn garantids tras pegns – na prendan ils crediturs d’emprest betg in conclus spezial pertutgant il concordat, e per lur consentiment valan exclusivamain las prescripziuns da la Lescha federala dals 11 d’avrigl 1889[^1184-1] davart scussiun e concurs.
+<sup>1</sup> En la procedura da relasch – cun resalva da las prescripziuns davart ils emprests ch’èn garantids tras pegns – na prendan ils crediturs d’emprests betg in conclus spezial pertutgant il concordat, e per lur consentiment valan exclusivamain las prescripziuns da la Lescha federala dals 11 d’avrigl 1889[^1184-1] davart scussiun e concurs.
 
 <sup>2</sup> Per ils crediturs d’emprests ch’èn garantids tras pegns – uschenavant che lur dretgs da creditur duain esser suttamess a restricziuns pli rigurusas che quai che muntan ils effects da la procedura da relasch – vegnan applitgadas las disposiziuns davart la cuminanza da crediturs.
 
@@ -17514,7 +18460,7 @@ Conclus en il senn dals artitgels 1180 e 1181 che violeschan la lescha u las cun
 
 #### Art. 1185
 
-<sup>1</sup> Per ils crediturs d’emprest d’ina interpresa da viafier u da navigaziun èn applitgablas las disposiziuns da quest chapitel, cun resalva da las suandantas prescripziuns spezialas.
+<sup>1</sup> Per ils crediturs d’emprests d’ina interpresa da viafier u da navigaziun èn applitgablas las disposiziuns da quest chapitel, cun resalva da las suandantas prescripziuns spezialas.
 
 <sup>2</sup> La dumonda per convocar ina radunanza dals crediturs sto vegnir fatga al Tribunal federal.
 
@@ -17522,13 +18468,17 @@ Conclus en il senn dals artitgels 1180 e 1181 che violeschan la lescha u las cun
 
 <sup>4</sup> Suenter che la dumonda per convocar ina radunanza dals crediturs è arrivada, po il Tribunal federal ordinar ina prorogaziun cun ils effects ch’èn previs en l’artitgel 1166.
 
-### F. Dretg stringent
+### F. Cunvegnas divergentas
 
 #### Art. 1186
 
-<sup>1</sup> Ils dretgs che la lescha attribuescha a la cuminanza dals crediturs ed al represchentant da quels na pon ni vegnir exclus ni vegnir limitads tras las cundiziuns d’emprest u tras cunvegnas spezialas tranter ils crediturs ed il debitur.
+[^1186-1]
 
-<sup>2</sup> Resalvadas restan las disposiziuns pli rigurusas da las cundiziuns d’emprest che pertutgan il proceder da la radunanza dals crediturs per cuntanscher ils conclus.
+<sup>1</sup> Ils dretgs che la lescha attribuescha a la cuminanza dals crediturs ed a ses represchentant pon mo vegnir exclus, midads u limitads tras las cundiziuns d’emprest u tras cunvegnas spezialas tranter ils crediturs ed il debitur, sch’ina maioritad dals crediturs po vinavant adattar las cundiziuns d’emprest.
+
+<sup>2</sup> Sche obligaziuns d’emprest vegnan emessas dal tuttafatg u per part ordaifer la Svizra, pon las disposiziuns d’in auter urden giuridic che stat en connex cun l’emissiun publica e che regla la cuminanza dals crediturs, lur represchentanza, la radunanza ed ils conclus, vegnir decleradas per applitgablas empè da las disposiziuns da quest chapitel.
+
+[^1186-1]: Versiun tenor la cifra 2 da l’agiunta da la LF dals 17 da dec. 2021 (insolvenza e garanzia dals deposits), en vigur dapi il 1. da schan. 2023 ([AS 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [BBl 2020 6359](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
 
 ## Disposiziuns transitoricas da la Lescha federala dals 30 da mars 1911
 
@@ -17544,7 +18494,7 @@ Il Cussegl federal è incumbensà da publitgar questa lescha sin basa da las dis
 [^u1-2]: Las modificaziuns pon vegnir consultadas en la [AS 27 317](https://fedlex.data.admin.ch/eli/oc/27/317_321_377).
 [^u1-3]: [BS **1** 173; [AS 1962 789](https://fedlex.data.admin.ch/eli/oc/1962/789_827_848)art. 11 al. 3, [1978 712](https://fedlex.data.admin.ch/eli/oc/1978/712_712_712)art. 89 lit. b]
 
-## Disposiziuns finalas da la midada dals 23 da mars 1962****
+## Disposiziuns finalas da la midada dals 23 da mars 1962
 
 [^u2-1]
 
@@ -17582,7 +18532,7 @@ Il Cussegl federal è incumbensà da publitgar questa lescha sin basa da las dis
 
 Il Cussegl federal fixescha il termin che questa lescha entra en vigur.
 
-## Disposiziuns transitoricas da la midada dals 16 da december 2005****
+## Disposiziuns transitoricas da la midada dals 16 da december 2005
 
 [^u3-1]
 
@@ -17614,7 +18564,7 @@ Il Cussegl federal fixescha il termin che questa lescha entra en vigur.
 
 <sup>1</sup> Sch’i n’èn – en societads cun responsabladad limitada ch’èn inscrittas en il register da commerzi il mument che questa lescha entra en vigur – vegnids prestads nagins apports che correspundan a l’import d’emissiun da tut las quotas da basa, ston quels vegnir prestads entaifer 2 onns.
 
-<sup>2</sup> Fin ch’ils apports a l’import dal chapital da basa n’èn betg vegnids prestads cumplainamain, stattan ils associads buns tenor l’artitgel 802 da la versiun dals 18 da december 1936[^u3-3-1] dal Dretg d’obligaziuns.
+<sup>2</sup> Fin ch’ils apports a l’import dal chapital da basa n’èn betg vegnids prestads cumplainamain, stattan ils societaris buns tenor l’artitgel 802 da la versiun dals 18 da december 1936[^u3-3-1] dal Dretg d’obligaziuns.
 
 [^u3-3-1]: [AS 53 185](https://fedlex.data.admin.ch/eli/oc/53/185_185_189)
 
@@ -17624,7 +18574,7 @@ Il Cussegl federal fixescha il termin che questa lescha entra en vigur.
 
 <sup>1</sup> Participaziuns a societads cun responsabladad limitada, che han ina valur nominala e che vegnan decleradas tar las passivas da la bilantscha, che na dattan dentant nagin dretg da votar (certificats da participaziun), valan suenter la scadenza da 2 onns sco quotas da basa cun ils medems dretgs da facultad, sch’ellas na vegnan betg annulladas entaifer quest termin cun ina reducziun dal chapital. Sche las participaziuns vegnan annulladas, ston ils participants vertents vegnir indemnisads a l’import da la valur reala.
 
-<sup>2</sup> Ils conclus necessaris da la radunanza dals associads pon vegnir prendids cun la maioritad absoluta da las vuschs represchentadas, er sch’ils statuts prevesan insatge auter.
+<sup>2</sup> Ils conclus necessaris da la radunanza dals societaris pon vegnir prendids cun la maioritad absoluta da las vuschs represchentadas, er sch’ils statuts prevesan insatge auter.
 
 <sup>3</sup> Per participaziuns a societads cun responsabladad limitada che na vegnan betg decleradas tar las passivas da la bilantscha vegnan applitgadas – suenter che questa lescha è entrada en vigur – las prescripziuns davart ils certificats da giudida, e quai er, sch’ellas èn designadas sco certificats da participaziun. Ellas na dastgan inditgar nagina valur nominala e ston vegnir designadas sco certificats da giudida. La designaziun dals titels ed ils statuts ston vegnir adattads entaifer 2 onns.
 
@@ -17660,13 +18610,13 @@ Las disposiziuns da questa lescha che concernan il post da revisiun valan a part
 
 #### Art. 9
 
-Sch’ina societad cun responsabladad limitada ha integrà – e quai mo cun repeter disposiziuns dal dretg vegl – prescripziuns en ils statuts che prevesan maioritads qualifitgadas per las deliberaziuns tras la radunanza dals associads, po la radunanza dals associads concluder entaifer 2 onns cun la maioritad absoluta da las vuschs represchentadas che questas disposiziuns vegnian adattadas al nov dretg.
+Sch’ina societad cun responsabladad limitada ha integrà – e quai mo cun repeter disposiziuns dal dretg vegl – prescripziuns en ils statuts che prevesan maioritads qualifitgadas per las deliberaziuns tras la radunanza dals societaris, po la radunanza dals societaris concluder entaifer 2 onns cun la maioritad absoluta da las vuschs represchentadas che questas disposiziuns vegnian adattadas al nov dretg.
 
 ### K. Annullaziun d’aczias e da quotas da basa a chaschun d’ina sanaziun
 
 #### Art. 10
 
-Sch’il chapital d’aczias u sch’il chapital da basa è vegnì reducì a nulla ed alura puspè augmentà per intents da sanaziun, e quai avant l’entrada en vigur da questa lescha, van ils dretgs da commembranza dals acziunaris u dals associads anteriurs a perder tras l’entrada en vigur.
+Sch’il chapital d’aczias u sch’il chapital da basa è vegnì reducì a nulla ed alura puspè augmentà per intents da sanaziun, e quai avant l’entrada en vigur da questa lescha, van ils dretgs da commembranza dals acziunaris u dals societaris anteriurs a perder tras l’entrada en vigur.
 
 ### L. Exclusivitad da firmas inscrittas
 
@@ -17676,7 +18626,7 @@ L’exclusivitad da firmas ch’èn vegnidas inscrittas en il register da commer
 
 [^u3-11-1]: [AS 53 185](https://fedlex.data.admin.ch/eli/oc/53/185_185_189)
 
-## Disposiziun transitorica da la midada dals 17 da zercladur 2011****
+## Disposiziun transitorica da la midada dals 17 da zercladur 2011
 
 [^u4-1]
 
@@ -17684,7 +18634,7 @@ L’exclusivitad da firmas ch’èn vegnidas inscrittas en il register da commer
 
 La disposiziun da questa midada vala a partir da l’emprim onn da gestiun che cumenza cun l’entrada en vigur da questa midada u suenter.
 
-## Disposiziuns transitoricas da la midada dals 23 da december 2011****
+## Disposiziuns transitoricas da la midada dals 23 da december 2011
 
 [^u5-1]
 
@@ -17712,7 +18662,7 @@ La disposiziun da questa midada vala a partir da l’emprim onn da gestiun che c
 
 <sup>4</sup> Tar l’emprima applicaziun da las prescripziuns davart il rendaquint poi vegnir desistì da numnar las cifras dals onns precedents. Tar la segunda applicaziun ston vegnir inditgadas mo las cifras da l’onn precedent. Sch’i vegnan numnadas las cifras dals onns da gestiun precedents, poi vegnir renunzià a la cuntinuitad da la preschentaziun ed a la structura. En l’agiunta stoi vegnir rendì attent quest fatg.
 
-## Disposiziuns transitoricas da la midada dals 12 da december 2014****
+## Disposiziuns transitoricas da la midada dals 12 da december 2014
 
 [^u6-1]
 
@@ -17744,7 +18694,7 @@ La disposiziun da questa midada vala a partir da l’emprim onn da gestiun che c
 
 <sup>2</sup> Il termin per la perdita dals dretgs da facultad (art. 697*m* al. 3) scada en quest cas 6 mais suenter l’entrada en vigur da la midada dals 12 da december 2014.
 
-## Disposiziuns transitoricas da la midada dals 25 da settember 2015****
+## Disposiziuns transitoricas da la midada dals 25 da settember 2015
 
 [^u7-1]
 
@@ -17772,7 +18722,7 @@ Societads collectivas, societads commanditaras e societads acziunaras commandita
 
 Sche la firma d’ina societad collectiva, d’ina societad commanditara u d’ina societad acziunara commanditara era vegnida inscritta en il register da commerzi avant l’entrada en vigur da la midada dals 25 da settember 2015, vegn sia exclusivitad giuditgada tenor l’artitgel 946 dretg actual e tenor l’artitgel 951 dal dretg anteriur.
 
-## Disposiziuns transitoricas da la midada dals 17 da mars 2017****
+## Disposiziuns transitoricas da la midada dals 17 da mars 2017
 
 [^u8-1]
 
@@ -17794,7 +18744,7 @@ Sche la firma d’ina societad collectiva, d’ina societad commanditara u d’i
 
 Ils instituts da dretg public ch’èn vegnids constituids avant l’entrada en vigur dal dretg nov e che pratitgeschan principalmain in’activitad da gudogn en l’economia privata, ston sa laschar inscriver entaifer 2 onns en il register da commerzi.
 
-## Disposiziuns transitoricas da la midada dals 21 da zercladur 2019****
+## Disposiziuns transitoricas da la midada dals 21 da zercladur 2019
 
 [^u9-1]
 
@@ -17877,21 +18827,35 @@ Ils artitgels 4–8 valan per societads che n’han betg quotà titels da partic
 
 <sup>2</sup> Acziunaris, dals quals las aczias èn daventadas nunvalaivlas senza atgna culpa, pon far valair in dretg d’indemnisaziun envers la societad entaifer 10 onns suenter il mument che las aczias daventan nunvalaivlas, sch’els cumprovan ch’els avevan la qualitad d’acziunari, cur che las aczias èn daventadas nunvalaivlas. L’indemnisaziun correspunda a la valur effectiva da las aczias il mument da lur conversiun tenor l’artitgel 4. Sche la valur effectiva da las aczias è – il mument ch’il dretg vegn fatg valair – pli bassa ch’il mument da lur conversiun, debitescha la societad questa valur pli bassa. Ina indemnisaziun è exclusa, sche la societad na dispona betg da l’agen chapital libramain disponibel necessari.
 
-## Disposiziuns transitoricas da la midada dals 19 da zercladur 2020****
+## Disposiziuns transitoricas da la midada dals 19 da zercladur 2020
 
 [^u10-1]
 
-[^u10-1]: [AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)
+[^u10-1]: [AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2021 846](https://fedlex.data.admin.ch/eli/oc/2021/846)cifra III 1; [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)
 
-### A.–C.
+### A. Regla generala
 
-#### Art. 1–3
+#### Art. 1
 
-[^u10-13-1]
+<sup>1</sup> Ils artitgels 1–4 dal titel final dal Cudesch civil svizzer[^u10-1-1] valan per la midada dals 19 da zercladur 2020, uschenavant che las suandantas disposiziuns na prevesan betg insatge auter.
 
-...
+<sup>2</sup> Il mument ch’il dretg nov entra en vigur èn sias disposiziuns applitgablas per las societads existentas.
 
-[^u10-13-1]: Entran en vigur pli tard ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^u10-1-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+
+### B. Adattaziun dals statuts e dals reglaments
+
+#### Art. 2
+
+<sup>1</sup> Societads ch’èn inscrittas en il register da commerzi il mument ch’il dretg nov entra en vigur, ma che na correspundan betg a las novas prescripziuns, ston adattar lur statuts e lur reglaments entaifer 2 onns a las novas disposiziuns.
+
+<sup>2</sup> Las disposiziuns dals statuts e dals reglaments che n’èn betg cumpatiblas cun il dretg nov, restan en vigur fin a l’adattaziun, maximalmain dentant anc 2 onns suenter l’entrada en vigur dal dretg nov.
+
+### C. Augment dal chapital approvà ed augment dal chapital tras chapital cundiziunà
+
+#### Art. 3
+
+Per augments dal chapital approvads e per augments dal chapital tras chapital cundiziunà, ch’èn vegnids concludids avant l’entrada en vigur dal dretg nov, resta applitgabel il dretg anteriur. Ils conclus da la radunanza generala na pon betg pli vegnir prolungads u midads.
 
 ### D. Represchentanza da las schlattainas
 
@@ -17901,13 +18865,17 @@ Ils artitgels 4–8 valan per societads che n’han betg quotà titels da partic
 
 <sup>2</sup> L’obligaziun d’inditgar en il rapport d’indemnisaziun las infurmaziuns tenor l’art. 734*f* vala per la direcziun il pli tard a partir da l’onn da gestiun che cumenza 10 onns suenter l’entrada en vigur dal dretg nov.
 
-### E. ed F. ...
+### E. Suspensiun dal concurs
 
-#### Art. 5 e 6
+#### Art. 5
 
-[^u10-56-1]
+Per ina suspensiun dal concurs ch’è vegnida permessa avant l’entrada en vigur dal dretg nov, resta applitgabel il dretg vertent, fin che la suspensiun è terminada.
 
-[^u10-56-1]: Entran en vigur pli tard ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+### F. Adattaziun da contracts concludids tenor il dretg anteriur
+
+#### Art. 6
+
+Ils contracts existents il mument da l’entrada en vigur dal dretg nov ston vegnir adattads entaifer 2 onns suenter l’entrada en vigur dal dretg nov. Suenter la scadenza da quest termin èn las prescripziuns dal dretg nov applitgablas per tut ils contracts.
 
 ### G. Transparenza d’interpresas dal sectur da materias primas
 
@@ -17915,7 +18883,7 @@ Ils artitgels 4–8 valan per societads che n’han betg quotà titels da partic
 
 Ils artitgels 964*d*–964*h* vegnan applitgads per l’emprima giada per l’onn da gestiun che cumenza 1 onn suenter l’entrada en vigur dal dretg nov.
 
-## Disposiziun transitorica da la midada dals 19 da zercladur 2020****
+## Disposiziun transitorica da la midada dals 19 da zercladur 2020
 
 [^u11-1]
 
@@ -17923,7 +18891,7 @@ Ils artitgels 964*d*–964*h* vegnan applitgads per l’emprima giada per l’on
 
 Las prescripziuns dal 6. chapitel e dal 8. chapitel dal 32. titel vegnan applitgadas per l’emprima giada per l’onn da gestiun che cumenza 1 onn suenter l’entrada en vigur da la midada dals 19 da zercladur 2020.
 
-## Disposiziuns finalas da l’otgavel titel e da l’otgavel titel<sup>bis</sup>****
+## Disposiziuns finalas da l’otgavel titel e da l’otgavel titel<sup>bis</sup>
 
 [^u12-1]
 
@@ -17933,7 +18901,7 @@ Las prescripziuns dal 6. chapitel e dal 8. chapitel dal 32. titel vegnan applitg
 
 Il Conclus federal dals 30 da zercladur 1972[^u12-1-1] davart mesiras cunter l’abus en ils fatgs da locaziun vegn abolì.
 
-[^u12-1-1]: [[AS 1972 1502](https://fedlex.data.admin.ch/eli/oc/1972/1502_1531_1703), [1977 1269](https://fedlex.data.admin.ch/eli/oc/1977/1269_1269_1269), [1982 1234](https://fedlex.data.admin.ch/eli/oc/1982/1234_1234_1234), [1987 1189](https://fedlex.data.admin.ch/eli/oc/1987/1189_1189_1189)]
+[^u12-1-1]: [[AS 1972 1502](https://fedlex.data.admin.ch/eli/oc/1972/1502_1531_1703); [1977 1269](https://fedlex.data.admin.ch/eli/oc/1977/1269_1269_1269); [1982 1234](https://fedlex.data.admin.ch/eli/oc/1982/1234_1234_1234); [1987 1189](https://fedlex.data.admin.ch/eli/oc/1987/1189_1189_1189)]
 
 #### Art. 2–4
 
@@ -17953,7 +18921,7 @@ Il Conclus federal dals 30 da zercladur 1972[^u12-1-1] davart mesiras cunter l�
 
 <sup>2</sup> Il Cussegl federal fixescha l’entrada en vigur.
 
-## Disposiziuns finalas e transitoricas dal dieschavel titel****
+## Disposiziuns finalas e transitoricas dal dieschavel titel
 
 [^u13-1]
 
@@ -17963,7 +18931,7 @@ Il Conclus federal dals 30 da zercladur 1972[^u12-1-1] davart mesiras cunter l�
 
 #### Art. 1
 
-...*[^u13-1-1]*
+...[^u13-1-1]
 
 [^u13-1-1]: Las modificaziuns pon vegnir consultadas en la [AS 1971 1465](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461).
 
@@ -17971,7 +18939,7 @@ Il Conclus federal dals 30 da zercladur 1972[^u12-1-1] davart mesiras cunter l�
 
 #### Art. 2
 
-...*[^u13-2-1]*
+...[^u13-2-1]
 
 [^u13-2-1]: Las modificaziuns pon vegnir consultadas en la [AS 1971 1465](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461).
 
@@ -17979,7 +18947,7 @@ Il Conclus federal dals 30 da zercladur 1972[^u12-1-1] davart mesiras cunter l�
 
 #### Art. 3
 
-...*[^u13-3-1]*
+...[^u13-3-1]
 
 [^u13-3-1]: Las modificaziuns pon vegnir consultadas en la [AS 1971 1465](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461).
 
@@ -17987,7 +18955,7 @@ Il Conclus federal dals 30 da zercladur 1972[^u12-1-1] davart mesiras cunter l�
 
 #### Art. 4
 
-...*[^u13-4-1]*
+...[^u13-4-1]
 
 [^u13-4-1]: Las modificaziuns pon vegnir consultadas en la [AS 1971 1465](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461).
 
@@ -17995,7 +18963,7 @@ Il Conclus federal dals 30 da zercladur 1972[^u12-1-1] davart mesiras cunter l�
 
 #### Art. 5
 
-...*[^u13-5-1]*
+...[^u13-5-1]
 
 [^u13-5-1]: Las modificaziuns pon vegnir consultadas en la [AS 1971 1465](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461).
 
@@ -18018,7 +18986,7 @@ Cun l’entrada en vigur da questa lescha vegnan abolids:
 - 11\. ils artitgels 20 alinea 2 e 59 da la Lescha federala dals 20 da settember 1963[^u13-6-10] davart la furmaziun professiunala;
 - 12\. ils artitgels 64[^u13-6-11] e 72 alinea 2 litera *a* da la Lescha federala dals 13 da mars 1964[^u13-6-12] davart la lavur en l’industria, en il mastergn ed en il commerzi.
 
-[^u13-6-1]: [BS **8** 281; [AS 1959 858](https://fedlex.data.admin.ch/eli/oc/1959/858_888_876); [1964 965](https://fedlex.data.admin.ch/eli/oc/1964/965_961_981)cifras I–II; **1968** 6; **1977** 2249 cifra I, 611; **1978** 1836 agiunta cifra 4; **1982** 196, 1676 agiunta cifra 1, 2184 art. 114; **1990** 1091; **1991** 362 cifra II 412; **1992** 288 agiunta cifra 37, 2350; **1995** 511. [AS 1995 1328](https://fedlex.data.admin.ch/eli/oc/1995/1328_1328_1328)agiunta cifra 1]
+[^u13-6-1]: [BS **8** 281; [AS 1959 858](https://fedlex.data.admin.ch/eli/oc/1959/858_888_876); [1964 965](https://fedlex.data.admin.ch/eli/oc/1964/965_961_981)cifras I–III, **1968** 64; **1977** 2249 cifra I 611; **1978** 1836 agiunta cifra 4; **1982** 196, 1676 agiunta cifra 1, 2184 art. 114; **1990** 1091; **1991** 362 cifra II 412; **1992** 288 agiunta cifra 37, 2350; **1995** 511. [AS 1995 1328](https://fedlex.data.admin.ch/eli/oc/1995/1328_1328_1328)agiunta cifra 1]
 [^u13-6-2]: [SR 821.41](https://fedlex.data.admin.ch/eli/cc/30/535_539_517)
 [^u13-6-3]: [BS **8** 229; [AS 1951 1231](https://fedlex.data.admin.ch/eli/oc/1951/1231_1239_1273)art. 14 al. 2; [1966 57](https://fedlex.data.admin.ch/eli/oc/1966/57_57_57)art. 68. [AS 1983 108](https://fedlex.data.admin.ch/eli/oc/1983/108_108_108)art. 21 cifra 3]
 [^u13-6-4]: [BS **2** 776; [AS 1966 57](https://fedlex.data.admin.ch/eli/oc/1966/57_57_57)art. 69]
@@ -18048,7 +19016,7 @@ Cun l’entrada en vigur da questa lescha vegnan abolids:
 
 Il Cussegl federal fixescha il termin che questa lescha entra en vigur.
 
-## Disposiziuns finalas dal quart chapitel dal tredeschavel titel****
+## Disposiziuns finalas dal quart chapitel dal tredeschavel titel
 
 [^u14-1]
 
@@ -18078,7 +19046,7 @@ Il Cussegl federal fixescha il termin che questa lescha entra en vigur.
 
 Il Cussegl federal fixescha il termin che questa lescha entra en vigur.
 
-## Disposiziuns transitoricas dal ventgavel titel****
+## Disposiziuns transitoricas dal ventgavel titel
 
 [^u15-1]
 
@@ -18102,7 +19070,7 @@ Il Cussegl federal fixescha il termin che questa lescha entra en vigur.
 [^u15-2]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 [^u15-3]: Versiun tenor la cifra 2 da l’agiunta da la L da dazi dals 18 da mars 2005, en vigur dapi il 1. da matg 2007 ([AS 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [BBl 2004 567](https://fedlex.data.admin.ch/eli/fga/2004/129)).
 
-## Disposiziuns finalas e transitoricas dal ventgaquatteravel fin al trentatraisavel titel****
+## Disposiziuns finalas e transitoricas dal ventgaquatteravel fin al trentatraisavel titel
 
 [^u16-1]
 
@@ -18128,7 +19096,7 @@ Las prescripziuns dal titel final dal Cudesch civil svizzer[^u16-1-1] vegnan er 
 
 <sup>3</sup> Sche las societads n’adempleschan betg questa prescripziun, vegnan ellas decleradas d’uffizi sco schliadas tras l’administratur dal register da commerzi.
 
-<sup>4</sup> Per associaziuns d’assicuranza e per associaziuns per credits po il Cussegl federal prolungar l’applitgabladad dal dretg vegl en il singul cas. La dumonda al sto vegnir fatga avant che 3 onns èn scadids dapi che la lescha è entrada en vigur.
+<sup>4</sup> Per associaziuns d’assicuranza e da credit po il Cussegl federal prolungar l’applitgabladad dal dretg vegl en il singul cas. La dumonda al sto vegnir fatga avant che 3 onns èn scadids dapi che la lescha è entrada en vigur.
 
 ### II. Fonds da prevenziun
 
@@ -18222,7 +19190,7 @@ Cambialas e schecs ch’èn vegnids emess avant l’entrada en vigur da questa l
 
 Las disposiziuns da l’Ordinaziun dals 20 da favrer 1918[^u16-13-1] davart la cuminanza da crediturs en cas d’obligaziuns d’emprest e dals conclus cumplettants dal Cussegl federal[^u16-13-2] restan vinavant en vigur per ils cas, per ils quals ellas vegnissan applitgadas.
 
-[^u16-13-1]: [[AS 34 231](https://fedlex.data.admin.ch/eli/oc/34/231_231_249); [35 297](https://fedlex.data.admin.ch/eli/oc/35/297_301_396); [36 623](https://fedlex.data.admin.ch/eli/oc/36/623_637_599), [893](https://fedlex.data.admin.ch/eli/oc/36/893_913_933)]
+[^u16-13-1]: [[AS 34 231](https://fedlex.data.admin.ch/eli/oc/34/231_231_249); [35 297](https://fedlex.data.admin.ch/eli/oc/35/297_301_396); [36 623](https://fedlex.data.admin.ch/eli/oc/36/623_637_599)[893](https://fedlex.data.admin.ch/eli/oc/36/893_913_933)]
 [^u16-13-2]: [[AS 51 673](https://fedlex.data.admin.ch/eli/oc/51/673_684_779); [53 454](https://fedlex.data.admin.ch/eli/oc/53/454_454_459); [57 1514](https://fedlex.data.admin.ch/eli/oc/57/1514_1549_1595); [58 934](https://fedlex.data.admin.ch/eli/oc/58/934_936_978); **62** 1088; [63 1342](https://fedlex.data.admin.ch/eli/oc/63/1342_1343_1348)]
 
 ### H. ...
@@ -18279,7 +19247,7 @@ Cun l’entrada en vigur da questa lescha vegnan abolidas las disposiziuns dal d
 
 [^u16-19-1]: Questa part è vegnida messa en vigur en la versiun da la LF dal 1. d’avr. 1949. Pertutgant il text da la versiun oriunda guardar [AS 53 185](https://fedlex.data.admin.ch/eli/oc/53/185_185_189).
 
-## Disposiziuns finalas dal ventgasisavel titel****
+## Disposiziuns finalas dal ventgasisavel titel
 
 [^u17-1]
 
@@ -18335,7 +19303,7 @@ Societads che han – applitgond l’artitgel 10 da las disposiziuns finalas e t
 
 #### Art. 6
 
-Sch’ina societad ha integrà – e quai mo cun repeter disposiziuns dal dretg vertent – prescripziuns en ils statuts che prevesan maioritads qualifitgadas per tscherts conclus, po la radunanza dals associads concluder entaifer 1 onn dapi l’entrada en vigur da questa lescha cun la maioritad absoluta da tut las vuschs d’aczias represchentadas che questas disposiziuns vegnian adattadas al nov dretg.
+Sch’ina societad ha integrà – e quai mo cun repeter disposiziuns dal dretg vertent – prescripziuns en ils statuts che prevesan maioritads qualifitgadas per tscherts conclus, po la radunanza generala concluder entaifer 1 onn dapi l’entrada en vigur da questa lescha cun la maioritad absoluta da tut las vuschs d’aczias represchentadas che questas disposiziuns vegnian adattadas al nov dretg.
 
 ### C. Midada da leschas federalas
 
@@ -18357,7 +19325,7 @@ Questa lescha è suttamessa al referendum facultativ.
 
 Il Cussegl federal fixescha l’entrada en vigur.
 
-## Disposiziuns finalas dal segund chapitel dal trentaquatteravel titel****
+## Disposiziuns finalas dal segund chapitel dal trentaquatteravel titel
 
 [^u18-1]
 
@@ -18374,4 +19342,4 @@ Il Cussegl federal fixescha l’entrada en vigur.
 
 [^u18-2]: Las modificaziuns pon vegnir consultadas en la AS **1949** I 791.
 [^u18-3]: Las modificaziuns pon vegnir consultadas en la AS **1949** I 791.
-[^u18-4]: [[AS 34 231](https://fedlex.data.admin.ch/eli/oc/34/231_231_249); [35 297](https://fedlex.data.admin.ch/eli/oc/35/297_301_396); [36 623](https://fedlex.data.admin.ch/eli/oc/36/623_637_599), [893](https://fedlex.data.admin.ch/eli/oc/36/893_913_933)]
+[^u18-4]: [[AS 34 231](https://fedlex.data.admin.ch/eli/oc/34/231_231_249); [AS 35 297](https://fedlex.data.admin.ch/eli/oc/35/297_301_396); [AS 36 623](https://fedlex.data.admin.ch/eli/oc/36/623_637_599), [893](https://fedlex.data.admin.ch/eli/oc/36/893_913_933)]

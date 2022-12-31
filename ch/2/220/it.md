@@ -4,11 +4,11 @@ title: "Legge federale del 30 marzo 1911 di complemento del Codice civile svizze
 short: CO
 eli: "https://fedlex.data.admin.ch/eli/cc/27/317_321_377"
 language: it
-version: 2022-01-01
+version: 2023-01-01
 adopted: 1911-03-30
 in_force: 1912-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20220101/it/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20220101-it-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20230101/it/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20230101-it-xml-25.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20220101/it"
 
 (Libro quinto: Diritto delle obbligazioni)
 
-del 30 marzo 1911 (Stato 1° gennaio 2022)
+del 30 marzo 1911 (Stato 1° gennaio 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -1540,7 +1540,7 @@ La prescrizione è interrotta:
 
 <sup>1</sup> Coll’interruzione incomincia a decorrere una nuova prescrizione.
 
-<sup>2</sup> Ove il credito sia riconosciuto mediante il rilascio di un titolo o sia stabilito con sentenza del giudici, il nuovo termine di prescrizione è sempre di dieci anni.
+<sup>2</sup> Ove il credito sia riconosciuto mediante il rilascio di un titolo o sia stabilito con sentenza del giudice, il nuovo termine di prescrizione è sempre di dieci anni.
 
 ### b. In caso di atti del creditore
 
@@ -2775,7 +2775,7 @@ In caso di donazione promessa il donatore può revocare la promessa e rifiutarne
 
 Quando il donatore si sia obbligato ad una prestazione periodica, l’obbligazione si estingue con la sua morte, salvo convenzione contraria.
 
-### Titolo ottavo:**** Della locazione
+### Titolo ottavo: Della locazione
 
 [^part2-tit8-1]
 
@@ -3266,7 +3266,7 @@ La disdetta data dal locatore e l’imposizione di un termine di pagamento con c
 
 #### Art. 266o
 
-La disdetta che non osserva le condizioni previste dagli articoli 266*1*–266*n* è nulla.
+La disdetta che non osserva le condizioni previste dagli articoli 266*l*–266*n* è nulla.
 
 ### P. Restituzione della cosa
 
@@ -3598,7 +3598,7 @@ Il conduttore che intende domandare la protrazione della locazione deve presenta
 
 [^274274g-1]: Abrogati dall’all. 1 n. II 5 del Codice di procedura civile del 19 dic. 2008, con effetto dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
-### Titolo ottavo<sup>bis</sup>:**** Dell’affitto
+### Titolo ottavo<sup>bis</sup>: Dell’affitto
 
 [^part2-tit8bis-1]
 
@@ -4085,7 +4085,7 @@ L’azione del mutuatario per la consegna del mutuo e quella del mutuante per l�
 
 Un mutuo la cui restituzione non sia stata pattuita entro un dato termine, né dietro un determinato preavviso, né al verificarsi della richiesta a gradimento del mutuante, deve restituirsi entro sei settimane dalla prima richiesta.
 
-### Titolo decimo:**** Del contratto di lavoro
+### Titolo decimo: Del contratto di lavoro
 
 [^part2-tit10-1]
 
@@ -4450,15 +4450,18 @@ Il datore di lavoro non può neppure ridurre le vacanze:
 
 - a. di una lavoratrice che, causa gravidanza, è impedita di lavorare per due mesi al massimo;
 - b. di una lavoratrice che ha fruito di un congedo di maternità ai sensi dell’articolo 329*f*;
-- c. di un lavoratore che ha fruito di un congedo di paternità ai sensi dell’articolo 329*g*; o
-- d. di un lavoratore o di una lavoratrice che ha fruito di un congedo di assistenza ai sensi dell’articolo 329*i*.[^329b-3]
+- c.[^329b-3] di un lavoratore che ha fruito di un congedo di paternità ai sensi dell’articolo 329*g*;
+- d. di un lavoratore o di una lavoratrice che ha fruito di un congedo di assistenza ai sensi dell’articolo 329*i,* o
+- e.[^329b-4] di un lavoratore o di una lavoratrice che ha fruito di un congedo di adozione ai sensi dell’articolo 329*j*.[^329b-5]
 
-<sup>4</sup> Alle disposizioni dei capoversi 2 e 3 può essere derogato mediante contratto normale o collettivo di lavoro a condizione tuttavia che tale ordinamento costituisca, nell’insieme, una soluzione almeno equivalente per i lavoratori.[^329b-4]
+<sup>4</sup> Alle disposizioni dei capoversi 2 e 3 può essere derogato mediante contratto normale o collettivo di lavoro a condizione tuttavia che tale ordinamento costituisca, nell’insieme, una soluzione almeno equivalente per i lavoratori.[^329b-6]
 
 [^329b-1]: Nuovo testo giusta l’art. 117 della L del 25 giu. 1982 sull’assicurazione contro la disoccupazione, in vigore dal 1° gen. 1984 ([RU 1982 2184](https://fedlex.data.admin.ch/eli/oc/1982/2184_2184_2184)[1983 1204](https://fedlex.data.admin.ch/eli/oc/1983/1204_1204_1204); [FF 1980 III 469](https://fedlex.data.admin.ch/eli/fga/1980/3_489_485_469)).
 [^329b-2]: Nuovo testo giusta l’art. 13 della L del 6 ott. 1989 sulle attività giovanili, in vigore dal 1° gen. 1991 ([RU 1990 2007](https://fedlex.data.admin.ch/eli/oc/1990/2007_2007_2007); [FF 1988 I 641](https://fedlex.data.admin.ch/eli/fga/1988/1_825_777_641)).
-[^329b-3]: Nuovo testo giusta il n. II 1 della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° lug. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
-[^329b-4]: Introdotto dal n. I della LF del 16 dic. 1983, in vigore dal 1° lug. 1984 ([RU 1984 580](https://fedlex.data.admin.ch/eli/oc/1984/580_580_580); [FF 1982 III 161](https://fedlex.data.admin.ch/eli/fga/1982/3_201_177_161)).
+[^329b-3]: Nuovo testo giusta l’all. n. 1 della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 468](https://fedlex.data.admin.ch/eli/oc/2022/468); [FF 2019 5841](https://fedlex.data.admin.ch/eli/fga/2019/2553), [6005](https://fedlex.data.admin.ch/eli/fga/2019/2640)).
+[^329b-4]: Introdotta dall’all. n. 1 della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 468](https://fedlex.data.admin.ch/eli/oc/2022/468); [FF 2019 5841](https://fedlex.data.admin.ch/eli/fga/2019/2553), [6005](https://fedlex.data.admin.ch/eli/fga/2019/2640)).
+[^329b-5]: Nuovo testo giusta il n. II 1 della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° lug. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
+[^329b-6]: Introdotto dal n. I della LF del 16 dic. 1983, in vigore dal 1° lug. 1984 ([RU 1984 580](https://fedlex.data.admin.ch/eli/oc/1984/580_580_580); [FF 1982 III 161](https://fedlex.data.admin.ch/eli/fga/1982/3_201_177_161)).
 
 ### c. Continuità e data
 
@@ -4552,6 +4555,23 @@ Il lavoratore ha diritto a un congedo pagato per il tempo necessario all’assis
 
 [^329i-1]: Introdotto dal n. II 1 della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° lug. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 [^329i-2]: [RS 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
+
+### 8. Congedo di adozione
+
+#### Art. 329j
+
+[^329j-1]
+
+<sup>1</sup> In caso di adozione, il lavoratore ha diritto a un congedo di adozione di due settimane se adempie le condizioni di cui all’articolo 16*t* LIPG[^329j-2].
+
+<sup>2</sup> Il congedo di adozione deve essere preso entro un anno dall’accoglimento dell’adottando.
+
+<sup>3</sup> Il congedo di adozione può essere preso da uno dei genitori o diviso tra di essi. I genitori non possono prenderlo contemporaneamente.
+
+<sup>4</sup> Può essere preso in settimane o in giorni.
+
+[^329j-1]: Introdotta dall’all. n. 1 della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 468](https://fedlex.data.admin.ch/eli/oc/2022/468); [FF 2019 5841](https://fedlex.data.admin.ch/eli/fga/2019/2553), [6005](https://fedlex.data.admin.ch/eli/fga/2019/2640)).
+[^329j-2]: [RS 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
 
 ### IX. Altri obblighi
 
@@ -4788,7 +4808,7 @@ Il datore di lavoro che trasferisce l’azienda o una parte di essa a un terzo �
 
 [^333b-1]
 
-Se l’azienda o una parte di essa è trasferita a un terzo nel corso di una moratoria concordataria a seguito di un fallimento o di un concordato con abbandono dell’attivo, il rapporto di lavoro passa con tutti i diritti e gli obblighi all’acquirente se tale trasferimento è stato concordato con l’acquirente e il lavoratore non vi si oppone. Per il resto si applicano per analogia gli articoli333, eccettuato il capoverso3, e 333*a*.
+Se l’azienda o una parte di essa è trasferita a un terzo nel corso di una moratoria concordataria a seguito di un fallimento o di un concordato con abbandono dell’attivo, il rapporto di lavoro passa con tutti i diritti e gli obblighi all’acquirente se tale trasferimento è stato concordato con l’acquirente e il lavoratore non vi si oppone. Per il resto si applicano per analogia gli articoli 333, eccettuato il capoverso 3, e 333*a*.
 
 [^333b-1]: Introdotto dall’all. della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
 
@@ -5022,7 +5042,7 @@ La disdetta da parte del datore di lavoro è abusiva segnatamente se data:
 
 - a. per l’appartenenza o la non appartenenza del lavoratore a un’associazione di lavoratori o per il legittimo esercizio di un’attività sindacale da parte del lavoratore;
 - b. durante il periodo nel quale il lavoratore è nominato rappresentante dei salariati in una commissione aziendale o in un’istituzione legata all’impresa e il datore di lavoro non può provare che aveva un motivo giustificato di disdetta.
-- c.[^336-3] nel quadro di un licenziamento collettivo, qualora non siano stati consultati la rappresentanza dei lavoratori o, in mancanza, i lavo ratori medesimi (art. 335*f*).
+- c.[^336-3] nel quadro di un licenziamento collettivo, qualora non siano stati consultati la rappresentanza dei lavoratori o, in mancanza, i lavoratori medesimi (art. 335*f*).
 
 <sup>3</sup> Nei casi previsti dal capoverso 2 lettera b, la tutela dei rappresentanti dei lavoratori il cui mandato sia cessato in seguito al trasferimento del rapporto di lavoro (art. 333) continua fino al momento in cui il mandato sarebbe cessato se non fosse sopravvenuto il trasferimento del rapporto di lavoro.[^336-4]
 
@@ -5303,7 +5323,7 @@ Sono riservate:
 
 ### Capo secondo: Dei contratti individuali speciali di lavoro
 
-### A.**** Del contratto di tirocinio
+### A. Del contratto di tirocinio
 
 [^part2-tit10-chap2-lvlA-1]
 
@@ -5672,7 +5692,7 @@ Nel contratto collettivo conchiuso tra associazioni, le parti possono stipulare 
 
 - a. la stipulazione, il contenuto e la fine del rapporto di lavoro, il diritto conferendo qui unicamente un’azione di accertamento;
 - b. il pagamento di contributi a una cassa di compensazione o ad altra istituzione attenenti ai rapporti di lavoro, la rappresentazione dei lavoratori nell’azienda e la salvaguardia della pace del lavoro;
-- c. i controlli, le cauzioni e le pene convenzionali, in relazione alle disposizione delle lettere *a* e *b*.
+- c. i controlli, le cauzioni e le pene convenzionali, in relazione alle disposizioni delle lettere *a* e *b*.
 
 <sup>2</sup> Le parti possono stipulare le disposizioni previste nel capoverso 1 soltanto se espressamente autorizzate dai loro statuti o dal loro organo supremo.
 
@@ -5940,25 +5960,27 @@ articolo 329*h* (congedo di assistenza ai famigliari);[^362-5]
 
 articolo 329*i* (congedo di assistenza a un figlio con gravi problemi di salute dovuti a malattia o infortunio);[^362-6]
 
+articolo 329*j* (congedo di adozione);[^362-7]
+
 articolo 330 capoversi 1, 3 e 4 (cauzione);
 
 articolo 330*a* (attestato);
 
 articolo 331 capoversi 3 e 4 (contributi e obbligo di informazione nel campo della previdenza a favore del personale);
 
-articolo 331*a* (inizio e fine della previdenza);[^362-7]
+articolo 331*a* (inizio e fine della previdenza);[^362-8]
 
-...[^362-8]
+...[^362-9]
 
 articolo 332 capoverso 4 (compenso in caso d’invenzione);
 
 articolo 333 capoverso 3 (responsabilità in caso di trasferimento del rapporto di lavoro);
 
-articolo 335*c* capoverso 3 (termini di disdetta);[^362-9]
+articolo 335*c* capoverso 3 (termini di disdetta);[^362-10]
 
-articolo 335*i* (obbligo di negoziazione);[^362-10]
+articolo 335*i* (obbligo di negoziazione);[^362-11]
 
-articolo 335*j* (elaborazione del piano sociale da parte di un tribunale arbitrale);[^362-11]
+articolo 335*j* (elaborazione del piano sociale da parte di un tribunale arbitrale);[^362-12]
 
 articolo 336 capoverso 2 (disdetta abusiva da parte del datore di lavoro);
 
@@ -5984,7 +6006,7 @@ articolo 340*c* (cessazione del divieto di concorrenza);
 
 articolo 341 capoverso 1 (irrinunciabilità);
 
-articolo 345*a* (obblighi del maestro di tirocinio[^362-12]);
+articolo 345*a* (obblighi del maestro di tirocinio[^362-13]);
 
 articolo 346*a* (attestato di tirocinio);
 
@@ -6004,7 +6026,7 @@ articolo 353 (accettazione del prodotto del lavoro);
 
 articolo 353*a* (pagamento del salario);
 
-articolo 353*b* capoverso 1 (salario in caso di impedimento al lavoro).[^362-13]
+articolo 353*b* capoverso 1 (salario in caso di impedimento al lavoro).[^362-14]
 
 <sup>2</sup> Sono nulli gli accordi e le clausole di contratti normali e contratti collettivi di lavoro deroganti alle disposizioni surriferite a svantaggio del lavoratore.
 
@@ -6014,13 +6036,14 @@ articolo 353*b* capoverso 1 (salario in caso di impedimento al lavoro).[^362-13]
 [^362-4]: Introdotto dal n. II 1 della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° gen. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 [^362-5]: Introdotto dal n. II 1 della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° gen. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 [^362-6]: Introdotto dal n. II 1 della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° lug. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
-[^362-7]: Nuovo testo giusta l’all. n. 2 della LF del 17 dic. 1993 sul libero passaggio nella previdenza professionale per la vecchiaia, i superstiti e l’invalidità, in vigore dal 1° gen. 1995 ([RU 1994 2386](https://fedlex.data.admin.ch/eli/oc/1994/2386_2386_2386); [FF 1992 III 477](https://fedlex.data.admin.ch/eli/fga/1992/3_533_529_477)).
-[^362-8]: Abrogato dall’all. n. 2 della LF del 17 dic. 1993 sul libero passaggio nella previdenza professionale per la vecchiaia, i superstiti e l’invalidità, con effetto dal 1° gen. 1995 ([RU 1994 2386](https://fedlex.data.admin.ch/eli/oc/1994/2386_2386_2386); [FF 1992 III 477](https://fedlex.data.admin.ch/eli/fga/1992/3_533_529_477)).
-[^362-9]: Introdotto n. II 1 della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° gen. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
-[^362-10]: Introdotto dall’all. della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
+[^362-7]: Introdotto dall’all. n. 1 della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 468](https://fedlex.data.admin.ch/eli/oc/2022/468); [FF 2019 5841](https://fedlex.data.admin.ch/eli/fga/2019/2553), [6005](https://fedlex.data.admin.ch/eli/fga/2019/2640)).
+[^362-8]: Nuovo testo giusta l’all. n. 2 della LF del 17 dic. 1993 sul libero passaggio nella previdenza professionale per la vecchiaia, i superstiti e l’invalidità, in vigore dal 1° gen. 1995 ([RU 1994 2386](https://fedlex.data.admin.ch/eli/oc/1994/2386_2386_2386); [FF 1992 III 477](https://fedlex.data.admin.ch/eli/fga/1992/3_533_529_477)).
+[^362-9]: Abrogato dall’all. n. 2 della LF del 17 dic. 1993 sul libero passaggio nella previdenza professionale per la vecchiaia, i superstiti e l’invalidità, con effetto dal 1° gen. 1995 ([RU 1994 2386](https://fedlex.data.admin.ch/eli/oc/1994/2386_2386_2386); [FF 1992 III 477](https://fedlex.data.admin.ch/eli/fga/1992/3_533_529_477)).
+[^362-10]: Introdotto n. II 1 della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° gen. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 [^362-11]: Introdotto dall’all. della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
-[^362-12]: Ora: del datore di lavoro.
-[^362-13]: Nuovo testo giusta il n. I del DF del 18 mar. 1988, in vigore dal 1° gen. 1989 ([RU 1988 1472](https://fedlex.data.admin.ch/eli/oc/1988/1472_1472_1472); [FF 1984 II 494](https://fedlex.data.admin.ch/eli/fga/1984/2_551_574_494)).
+[^362-12]: Introdotto dall’all. della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
+[^362-13]: Ora: del datore di lavoro.
+[^362-14]: Nuovo testo giusta il n. I del DF del 18 mar. 1988, in vigore dal 1° gen. 1989 ([RU 1988 1472](https://fedlex.data.admin.ch/eli/oc/1988/1472_1472_1472); [FF 1984 II 494](https://fedlex.data.admin.ch/eli/fga/1984/2_551_574_494)).
 
 ### Titolo undecimo: Del contratto di appalto
 
@@ -6455,7 +6478,7 @@ Se il mandante è presumibilmente affetto da durevole incapacità di discernimen
 
 Riguardo a ciò che il mandatario ha fatto prima che gli fosse nota la cessazione del mandato, il mandante o il suo erede sono tenuti verso di lui, come se il mandato fosse ancora sussistente.
 
-### Capo primo<sup>bis</sup>:**** Del mandato di mediazione matrimoniale o di ricerca di partner
+### Capo primo<sup>bis</sup>: Del mandato di mediazione matrimoniale o di ricerca di partner
 
 [^part2-tit13-chap1bis-1]
 
@@ -6648,7 +6671,7 @@ Se per indicare l’occasione di conchiudere un contratto individuale di lavoro 
 
 È riservato ai Cantoni l’emanazione di speciali dispositivi sugli agenti di borsa, sensali ed uffici di collocamento.
 
-### Capo quarto: Del contratto d’agenzia****
+### Capo quarto: Del contratto d’agenzia
 
 [^part2-tit13-chap4-1]
 
@@ -7203,7 +7226,7 @@ Il vetturale deve, non appena arrivare le merci, darne notizia al destinatario.
 
 <sup>2</sup> Sono riservate le convenzioni in contrario tra il vetturale o spedizioniere ed il committente.
 
-<sup>3</sup> Questo Articolo non è applicabile agli impresari dei trasporti a domicilio (camioneurs).
+<sup>3</sup> Questo articolo non è applicabile agli impresari dei trasporti a domicilio (camioneurs).
 
 ### E. Responsabilità dello spedizioniere
 
@@ -7521,7 +7544,7 @@ Se più persone, per tutelare i loro diritti, hanno depositato presso un terzo, 
 
 <sup>2</sup> Sono applicabili per analogia le disposizioni circa il diritto di ritenzione del locatore.
 
-### Titolo ventesimo: Della fideiussione****
+### Titolo ventesimo: Della fideiussione
 
 [^part2-tit20-1]
 
@@ -8200,7 +8223,7 @@ La società si scioglie:
 
 Lo scioglimento della società non altera le obbligazioni assunte verso i terzi.
 
-## Parte terza: Delle società commerciali e della società cooperativa****
+## Parte terza: Delle società commerciali e della società cooperativa
 
 [^part3-1]
 
@@ -8535,7 +8558,9 @@ Gli eredi di un socio devono designare un comune mandatario che li rappresenti n
 
 <sup>1</sup> All’inizio della liquidazione, i liquidatori devono allestire un bilancio.
 
-<sup>2</sup> Se la liquidazione si protrae, i liquidatori devono allestire bilanci intermedi annuali.
+<sup>2</sup> Se la liquidazione si protrae, i liquidatori devono allestire conti intermedi[^587-1] annuali.
+
+[^587-1]: Nuova espr. giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
 
 ### II. Rimborso del capitale e ripartizione dell’avanzo
 
@@ -8577,7 +8602,9 @@ Terminata la liquidazione, i liquidatori devono far cancellare la ditta nel regi
 
 <sup>1</sup> La prescrizione quinquennale non è opponibile al creditore che proceda soltanto sul patrimonio della società rimasto indiviso.
 
-<sup>2</sup> Qualora l’impresa sia assunta con l’attivo ed il passivo da un socio, egli non può opporre ai creditori la prescrizione quinquennale. Invece, per gli altri soci, la prescrizione quinquennale è sostituita da quella biennale secondo le disposizioni sull’assunzione di debito; quest’ultima norma vale anche ove l’impresa sia assunta con l’attivo ed il passivo da un terzo.
+<sup>2</sup> Qualora l’impresa sia assunta con l’attivo ed il passivo da un socio, egli non può opporre ai creditori la prescrizione quinquennale. Invece, per gli altri soci, la prescrizione quinquennale è sostituita da quella triennale secondo le disposizioni sull’assunzione di debito; quest’ultima norma vale anche ove l’impresa sia assunta con l’attivo ed il passivo da un terzo.[^592-1]
+
+[^592-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### C. Interruzione
 
@@ -8812,7 +8839,7 @@ Nel fallimento dell’accomandante non spetta né ai creditori della società n�
 
 [^619-1]: Nuovo testo del per. giusta l’all. n. 10 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
 
-### Titolo ventesimosesto: Della società anonima****
+### Titolo ventesimosesto: Della società anonima
 
 [^part3-tit26-1]
 
@@ -8824,23 +8851,29 @@ Nel fallimento dell’accomandante non spetta né ai creditori della società n�
 
 #### Art. 620
 
-<sup>1</sup> La società anonima è quella che si forma sotto una ditta propria, il cui capitale (capitale azionario[^620-1]), anticipatamente determinato, si divide in parti (azioni) e per i debiti della quale non risponde se non il patrimonio sociale.
+[^620-1]
 
-<sup>2</sup> Gli azionisti sono tenuti soltanto alle prestazioni statutarie e non sono personalmente responsabili dei debiti della società.
+<sup>1</sup> La società anonima è una società di capitali cui partecipano una o più persone o società commerciali. Per i debiti risponde soltanto il patrimonio sociale.
 
-<sup>3</sup> La società anonima può proporsi anche un fine non economico.
+<sup>2</sup> Gli azionisti sono tenuti soltanto alle prestazioni statutarie.
 
-[^620-1]: Nuovo termine giusta il n. II 1 della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Di detta mod. è tenuto conto in tutto il presente testo.
+<sup>3</sup> È considerato azionista chiunque partecipa alla società con almeno un’azione.
 
-### B. Capitale minimo
+[^620-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### B. Capitale azionario
 
 #### Art. 621
 
 [^621-1]
 
-Il capitale azionario non può essere inferiore a 100 000 franchi.
+<sup>1</sup> Il capitale azionario non può essere inferiore a 100 000 franchi.
 
-[^621-1]: Nuovo testo giusta il n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+<sup>2</sup> Esso può essere espresso nella moneta estera più importante per l’attività dell’impresa. All’atto della costituzione deve corrispondere a un controvalore di almeno 100 000 franchi. Se il capitale azionario è espresso in una moneta estera, questa deve essere impiegata per la contabilità e la presentazione dei conti. Il Consiglio federale stabilisce quali monete sono ammesse.
+
+<sup>3</sup> L’assemblea generale può decidere di cambiare, all’inizio di un esercizio, la moneta in cui è espresso il capitale azionario. In tal caso il consiglio d’amministrazione modifica lo statuto. Accerta che le condizioni di cui al capoverso 2 siano adempiute e specifica il corso di conversione applicato. Le deliberazioni dell’assemblea generale e del consiglio d’amministrazione devono risultare da un atto pubblico.
+
+[^621-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### C. Azioni
 
@@ -8858,26 +8891,31 @@ Il capitale azionario non può essere inferiore a 100 000 franchi.
 
 <sup>2ter</sup> Se tutti i suoi titoli di partecipazione non sono più quotati in borsa, entro sei mesi la società deve convertire le azioni al portatore esistenti in azioni nominative o conferire loro la forma di titoli contabili.[^622-5]
 
-<sup>3</sup> Lo statuto può disporre che azioni nominative dovranno o potranno essere convertite nella forma al portatore o azioni al portatore nella forma nominativa.
+<sup>3</sup> Le azioni nominative possono essere convertite nella forma al portatore e le azioni al portatore nella forma nominativa.[^622-6]
 
-<sup>4</sup> Il valore nominale dell’azione non può essere inferiore a 1 centesimo.[^622-6]
+<sup>4</sup> Le azioni hanno un valore nominale superiore a zero.[^622-7]
 
-<sup>5</sup> I titoli delle azioni devono essere sottoscritti da almeno un amministratore. La società può stabilire che, anche ove si tratti d’azioni emesse in gran numero, una firma almeno sia autografa.
+<sup>5</sup> Se sono emessi titoli, questi sono firmati da almeno un membro del consiglio d’amministrazione.[^622-8]
 
 [^622-1]: [RS 957.1](https://fedlex.data.admin.ch/eli/cc/2009/450)
 [^622-2]: Nuovo testo giusta il n. I 1 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° feb. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 [^622-3]: Introdotto dal n. I 1 della LF del 21 giu. 2019 che attua le raccomandazioni del Forum globale sulla trasparenza e sullo scambio di informazioni a fini fiscali ([RU 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [FF 2019 275](https://fedlex.data.admin.ch/eli/fga/2019/18)). Nuovo testo giusta il n. I 1 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° feb. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 [^622-4]: Introdotto dal n. I 1 della LF del 21 giu. 2019 che attua le raccomandazioni del Forum globale sulla trasparenza e sullo scambio di informazioni a fini fiscali, in vigore dal 1° nov. 2019 ([RU 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [FF 2019 275](https://fedlex.data.admin.ch/eli/fga/2019/18)).
 [^622-5]: Introdotto dal n. I 1 della LF del 21 giu. 2019 che attua le raccomandazioni del Forum globale sulla trasparenza e sullo scambio di informazioni a fini fiscali, in vigore dal 1° nov. 2019 ([RU 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [FF 2019 275](https://fedlex.data.admin.ch/eli/fga/2019/18)).
-[^622-6]: Nuovo testo giusta il n. I della LF del 15 dic. 2000, in vigore dal 1° mag. 2001 ([RU 2001 1047](https://fedlex.data.admin.ch/eli/oc/2001/153); [FF 2000 3765](https://fedlex.data.admin.ch/eli/fga/2000/921)n. 2.2.1 4798).
+[^622-6]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^622-7]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^622-8]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### II. Divisione e riunione
 
 #### Art. 623
 
-<sup>1</sup> L’assemblea generale ha il diritto, mediante modificazione dello statuto, di dividere le azioni in titoli, di minor valore nominale o di riunirle in titoli di maggior valore nominale, purché il capitale azionario rimanga invariato.
+<sup>1</sup> L’assemblea generale ha il diritto, mediante modificazione dello statuto, di dividere le azioni in titoli, di minor valore nominale o di riunirle in titoli di maggior valore nominale, purché il capitale azionario[^623-1] rimanga invariato.
 
-<sup>2</sup> Per la riunione di azioni occorre il consenso dell’azionista.
+<sup>2</sup> Per la riunione di azioni non quotate in borsa occorre il consenso di tutti gli azionisti interessati.[^623-2]
+
+[^623-1]: Nuovo termine giusta il n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Di detta mod. è tenuto cono in tutte le disp. menzionate nella RU.
+[^623-2]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### III. Prezzo di emissione
 
@@ -8889,88 +8927,66 @@ Il capitale azionario non può essere inferiore a 100 000 franchi.
 
 [^624-1]: Abrogati dal n. I della LF del 4 ott. 1991, con effetto dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 
-### D. Azionisti
-
 #### Art. 625
 
 [^625-1]
 
-Una società anonima può essere costituita da una o più persone fisiche o giuridiche o da altre società commerciali.
+[^625-1]: Abrogato dal n. I della LF del 19 giu. 2020 (Diritto della società anonima), con effetto dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-[^625-1]: Nuovo testo giusta il n. I 3 della LF del 16 dic. 2005 (Diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), in vigore dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+### D. Disposizioni statutarie richieste per legge
 
-### E. Statuto
+[^part3-tit26-chap1-lvlC-lvlD-1]
 
-### I. Disposizioni richieste dalla legge
+[^part3-tit26-chap1-lvlC-lvlD-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 626
 
 [^626-1]
 
+<sup>1</sup>
+
 Lo statuto deve contenere disposizioni sui punti seguenti:
 
 - 1\. la ditta e la sede della società;
 - 2\. lo scopo della società;
-- 3\. l’ammontare del capitale azionario e dei conferimenti effettuati;
+- 3\.[^626-2] l’ammontare e la moneta del capitale azionario, nonché l’ammontare dei conferimenti effettuati;
 - 4\. il numero, il valore nominale e la specie delle azioni;
-- 5\. la convocazione dell’assemblea generale ed il diritto di voto degli azionisti;
-- 6\. gli organi incaricati dell’amministrazione e della revisione;
-- 7\. la forma nella quale devono essere fatte le pubblicazioni sociali.
+- 5\. e 6.[^626-3] ...
+- 7\.[^626-4] la forma delle comunicazioni della società agli azionisti.
+
+<sup>2</sup>
+
+In una società le cui azioni sono quotate in borsa, lo statuto deve inoltre contenere disposizioni sui punti seguenti:
+
+- 1\. il numero delle attività che i membri del consiglio d’amministrazione, della direzione e del consiglio consultivo possono esercitare con funzioni analoghe in altre imprese aventi un fine economico;
+- 2\. la durata massima dei contratti che prevedono le retribuzioni dei membri del consiglio d’amministrazione, della direzione e del consiglio consultivo e il termine massimo di disdetta dei contratti a tempo indeterminato (art. 735*b*);
+- 3\. i principi relativi alle attribuzioni e alle competenze del comitato di retribuzione;
+- 4\. i dettagli del voto dell’assemblea generale sulle retribuzioni del consiglio d’amministrazione, della direzione e del consiglio consultivo.[^626-5]
+
+<sup>3</sup> Le imprese controllate dalla società o che la controllano non sono considerate altre imprese secondo il capoverso 2 numero 1.[^626-6]
 
 [^626-1]: Nuovo testo giusta il n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^626-2]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^626-3]: Abrogati dal n. I della LF del 19 giu. 2020 (Diritto della società anonima), con effetto dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^626-4]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^626-5]: Introdotto dal n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^626-6]: Introdotto dal n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-### II. Altre disposizioni
+#### Art. 627 e 628
 
-### 1. In genere
+[^627628-1]
 
-#### Art. 627
+[^627628-1]: Abrogati dal n. I della LF del 19 giu. 2020 (Diritto della società anonima), con effetto dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-[^627-1]
-
-Non obbligano, se non sono contenute nello statuto, le disposizioni riguardanti:
-
-- 1\. la modificazione dello statuto in deroga alle norme legali;
-- 2\. l’attribuzione di quote di utili;
-- 3\. l’attribuzione d’interessi per il periodo d’avviamento;
-- 4\. la limitazione della durata della società;
-- 5\. le pene convenzionali per il caso in cui i conferimenti non siano effettuati tempestivamente;
-- 6\. l’aumento autorizzato e condizionale del capitale;
-- 7\.[^627-2] ...
-- 8\. la limitazione della facoltà di trasferire le azioni nominative;
-- 9\. i privilegi inerenti a determinate categorie di azioni, come pure i buoni di partecipazione, i buoni di godimento e la concessione di vantaggi speciali;
-- 10\. la limitazione del diritto di voto degli azionisti e del loro diritto di farsi rappresentare;
-- 11\. i casi, non previsti dalla legge, nei quali l’assemblea generale può deliberare solo a maggioranza qualificata;
-- 12\. la facoltà di delegare la gestione a singoli membri del consiglio d’amministrazione o a terzi;
-- 13\. l’organizzazione e le attribuzioni dell’ufficio di revisione eccedenti l’ambito fissato dalla legge;
-- 14\.[^627-3] la possibilità di convertire in una forma diversa azioni emesse sotto una forma determinata, nonché una ripartizione delle spese risultanti, sempre che diverga dalla normativa della legge del 3 ottobre 2008[^627-4] sui titoli contabili.
-
-[^627-1]: Nuovo testo giusta il n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-[^627-2]: Abrogato dal n. I 2 della LF del 12 dic. 2014 concernente l’attuazione delle Raccomandazioni del Gruppo d’azione finanziaria rivedute nel 2012, con effetto dal 1° lug. 2015 ([RU 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 563](https://fedlex.data.admin.ch/eli/fga/2014/100)).
-[^627-3]: Introdotto dall’all. n. 3 della L del 3 ott. 2008 sui titoli contabili, in vigore dal 1° gen. 2010 ([RU 2009 3577](https://fedlex.data.admin.ch/eli/oc/2009/450); [FF 2006 8533](https://fedlex.data.admin.ch/eli/fga/2006/1228)).
-[^627-4]: [RS 957.1](https://fedlex.data.admin.ch/eli/cc/2009/450)
-
-### 2. In particolare, conferimenti in natura, assunzione di beni, vantaggi speciali
-
-#### Art. 628
-
-<sup>1</sup> Qualora un azionista conferisca una quota in natura, lo statuto deve indicare l’oggetto e la stima di questo conferimento come pure il nome del conferente e le azioni che gli sono attribuite.[^628-1]
-
-<sup>2</sup> Qualora la società assuma o si proponga di assumere beni da azionisti o da una persona loro vicina, lo statuto deve indicare l’oggetto di questa assunzione, il nome dell’alienante e la controprestazione della società.[^628-2]
-
-<sup>3</sup> Qualora, al momento della costituzione della società, siano pattuiti speciali vantaggi a favore dei promotori o d’altre persone, lo statuto deve indicare i nomi dei beneficiari e, in modo preciso, il contenuto ed il valore di siffatti vantaggi.
-
-<sup>4</sup> L’assemblea generale può decidere, dopo dieci anni, di abrogare le disposizioni statutarie concernenti i conferimenti in natura o le assunzioni di beni. Le disposizioni statutarie concernenti le assunzioni di beni possono inoltre essere abrogate se la società rinuncia definitivamente a tali assunzioni.[^628-3] [^628-4]
-
-[^628-1]: Nuovo testo giusta il n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-[^628-2]: Nuovo testo giusta il n. I 3 della LF del 16 dic. 2005 (Diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), in vigore dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
-[^628-3]: Per. introdotto dal n. I 3 della LF del 16 dic. 2005 (Diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), in vigore dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
-[^628-4]: Introdotto dal n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-
-### F. Costituzione
+### E. Costituzione
 
 ### I. Atto costitutivo
 
 ### 1. Contenuto
+
+[^part3-tit26-chap1-lvlD-lvlI-lvl1-1]
+
+[^part3-tit26-chap1-lvlD-lvlI-lvl1-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 629
 
@@ -8984,11 +9000,15 @@ In questo atto i promotori sottoscrivono le azioni e accertano che:
 
 - 1\. tutte le azioni sono state validamente sottoscritte;
 - 2\. i conferimenti promessi corrispondono al prezzo totale d’e missione;
-- 3\. i conferimenti sono stati effettuati conformemente a quanto richiesto dalla legge e dallo statuto;
-- 4\.[^629-2] non vi sono altri conferimenti in natura, assunzioni di beni e previste assunzioni di beni, compensazioni di crediti o vantaggi speciali oltre a quelli menzionati nei documenti giustificativi.
+- 3\.[^629-2] al momento della firma dell’atto costitutivo i conferimenti sono stati effettuati conformemente a quanto richiesto dalla legge e dallo statuto;
+- 4\.[^629-3] non vi sono altri conferimenti in natura, compensazioni di crediti o vantaggi speciali oltre a quelli menzionati nei documenti giustificativi.
+
+<sup>3</sup> Se il capitale azionario è espresso in una moneta estera o i conferimenti sono effettuati in una moneta diversa da quella del capitale azionario, l’atto pubblico deve indicare i corsi di conversione applicati.[^629-4]
 
 [^629-1]: Nuovo testo giusta il n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-[^629-2]: Introdotto dal n. I 2 della LF del 17 mar. 2017 (Diritto del registro di commercio), in vigore dal 1° gen. 2021 ([RU 2020 957](https://fedlex.data.admin.ch/eli/oc/2020/178); [FF 2015 2849](https://fedlex.data.admin.ch/eli/fga/2015/956)).
+[^629-2]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^629-3]: Introdotto dal n. I 2 della LF del 17 mar. 2017 (Diritto del registro di commercio) ([RU 2020 957](https://fedlex.data.admin.ch/eli/oc/2020/178); [FF 2015 2849](https://fedlex.data.admin.ch/eli/fga/2015/956)). Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^629-4]: Introdotto dal n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 2. Sottoscrizione delle azioni
 
@@ -9020,9 +9040,10 @@ All’atto costitutivo devono essere acclusi:
 - 3\. l’attestazione di verifica;
 - 4\. l’attestazione di deposito dei conferimenti in denaro;
 - 5\. i contratti riguardanti i conferimenti in natura;
-- 6\. i contratti esistenti di assunzione di beni.
+- 6\.[^631-2] ...
 
 [^631-1]: Nuovo testo giusta il n. I 3 della LF del 16 dic. 2005 (Diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), in vigore dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^631-2]: Abrogato dal n. I della LF del 19 giu. 2020 (Diritto della società anonima), con effetto dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### III. Conferimenti
 
@@ -9034,9 +9055,10 @@ All’atto costitutivo devono essere acclusi:
 
 <sup>1</sup> All’atto della costituzione della società i sottoscrittori devono aver liberato almeno il 20 per cento del valore nominale di ogni azione.
 
-<sup>2</sup> In ogni caso, la somma dei conferimenti effettuati non deve essere inferiore a 50 000 franchi.
+<sup>2</sup> In ogni caso, la somma dei conferimenti effettuati non deve essere inferiore a 50 000 franchi. Se il capitale azionario è espresso in una moneta estera, i conferimenti effettuati devono corrispondere, all’atto della costituzione, a un controvalore di almeno 50 000 franchi.[^632-2]
 
 [^632-1]: Nuovo testo giusta il n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^632-2]: Per. introdotto dal n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 2. Prestazione dei conferimenti
 
@@ -9046,11 +9068,13 @@ All’atto costitutivo devono essere acclusi:
 
 [^633-1]
 
-<sup>1</sup> I conferimenti in denaro devono essere depositati presso un istituto soggetto alla legge federale dell’8 novembre 1934[^633-2] su le banche e le casse di risparmio ed essere tenuti a disposizione esclusiva della società.
+<sup>1</sup> I conferimenti in denaro devono essere depositati presso una banca secondo l’articolo 1 capoverso 1 della legge dell’8 novembre 1934[^633-2] sulle banche ed essere tenuti a disposizione esclusiva della società.
 
-<sup>2</sup> L’istituto può consegnare questa somma alla società solo dopo l’iscrizione di quest’ultima nel registro di commercio.
+<sup>2</sup> La banca può rimettere questa somma alla società solo dopo l’iscrizione di quest’ultima nel registro di commercio.
 
-[^633-1]: Nuovo testo giusta il n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+<sup>3</sup> Sono considerati conferimenti in denaro i versamenti nella moneta in cui è espresso il capitale azionario, nonché i versamenti effettuati in una moneta liberamente convertibile diversa da quella del capitale azionario.
+
+[^633-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 [^633-2]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
 
 ### b. Conferimenti in natura
@@ -9059,25 +9083,48 @@ All’atto costitutivo devono essere acclusi:
 
 [^634-1]
 
-I conferimenti in natura valgono come copertura solo qualora:
+<sup>1</sup>
 
-- 1\. siano effettuati in base ad un contratto stipulato in forma scritta o con atto pubblico;
-- 2\. la società, dal momento della sua iscrizione nel registro di commercio, possa disporne immediatamente come proprietaria od ottenga il diritto incondizionato di chiederne l’iscrizione nel registro fondiario;
-- 3\. sia stata esibita una relazione sulla costituzione con attestazione di verifica.
+Gli oggetti di un conferimento in natura valgono come copertura se sono soddisfatte le seguenti condizioni:
 
-[^634-1]: Nuovo testo giusta il n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+- 1\. possono essere iscritti a bilancio negli attivi;
+- 2\. possono essere trasferiti nel patrimonio della società;
+- 3\. la società, dopo l’iscrizione nel registro di commercio, può immediatamente e liberamente disporne come proprietaria o, se si tratta di fondi, ottiene il diritto incondizionato di chiederne l’iscrizione nel registro fondiario;
+- 4\. possono essere realizzati mediante trasferimento a terzi.
 
-### c. Conferimenti ulteriori
+<sup>2</sup> Il conferimento in natura va stipulato per scritto. Il contratto richiede l’atto pubblico se per il trasferimento dell’oggetto in questione è prescritta tale forma.
+
+<sup>3</sup> È sufficiente un solo atto pubblico anche quando i fondi oggetto del conferimento sono situati in più Cantoni. L’atto va steso da un pubblico ufficiale nel luogo di sede della società.
+
+<sup>4</sup> Lo statuto deve indicare l’oggetto e la stima del conferimento come pure il nome del conferente e le azioni emesse quale corrispettivo nonché eventuali altre controprestazioni della società. L’assemblea generale può abrogare le disposizioni statutarie dopo dieci anni.
+
+[^634-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### c. Compensazione di un credito
 
 #### Art. 634a
 
 [^634a-1]
 
+<sup>1</sup> La liberazione può essere effettuata anche mediante la compensazione di un credito.
+
+<sup>2</sup> La compensazione di un credito vale come copertura anche se il credito non è più coperto da attivi.
+
+<sup>3</sup> Lo statuto deve indicare l’importo del credito da compensare, il nome dell’azionista e le azioni che gli sono attribuite. L’assemblea generale può abrogare le disposizioni statutarie dopo dieci anni.
+
+[^634a-1]: Introdotto dal n. I della LF del 4 ott. 1991 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### d. Conferimenti ulteriori
+
+#### Art. 634b
+
+[^634b-1]
+
 <sup>1</sup> Il consiglio d’amministrazione decide se devono essere richiesti conferimenti ulteriori relativi alle azioni non interamente liberate.
 
-<sup>2</sup> Il conferimento ulteriore può essere effettuato in denaro, in natura o mediante compensazione.
+<sup>2</sup> Il conferimento ulteriore può essere effettuato in denaro, in natura, mediante compensazione di un credito o mediante conversione di capitale proprio liberamente disponibile.
 
-[^634a-1]: Introdotto dal n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^634b-1]: Introdotto dal n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 3. Verifica dei conferimenti
 
@@ -9089,11 +9136,12 @@ I conferimenti in natura valgono come copertura solo qualora:
 
 I promotori danno in una relazione scritta ragguagli su:
 
-- 1\. la specie e lo stato dei conferimenti in natura o dei beni da assumere, e l’adeguatezza della loro stima;
+- 1\.[^635-2] la specie e lo stato dei conferimenti in natura e l’adeguatezza della loro stima;
 - 2\. l’esistenza del debito e la sua compensabilità;
 - 3\. le ragioni e l’adeguatezza dei vantaggi speciali accordati a promotori o ad altri.
 
 [^635-1]: Nuovo testo giusta il n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^635-2]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### b. Attestazione di verifica
 
@@ -9105,15 +9153,29 @@ Un revisore abilitato verifica la relazione sulla costituzione e attesta per scr
 
 [^635a-1]: Introdotto dal n. I della LF del 4 ott. 1991 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Nuovo testo giusta il n. I 3 della LF del 16 dic. 2005 (Diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), in vigore dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 
-#### Art. 636 a 639
+### IV. Vantaggi speciali
 
-[^636639-1]
+#### Art. 636
 
-[^636639-1]: Abrogati dal n. I della LF del 4 ott. 1991, con effetto dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^636-1]
 
-### G. Iscrizione nel registro di commercio
+Qualora, al momento della costituzione della società, siano pattuiti speciali vantaggi a favore dei promotori o di altre persone, lo statuto deve indicare i nomi dei beneficiari, nonché il contenuto e il valore di siffatti vantaggi.
+
+[^636-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+#### Art. 637 a 639
+
+[^637639-1]
+
+[^637639-1]: Abrogati dal n. I della LF del 4 ott. 1991, con effetto dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+
+### F. Iscrizione nel registro di commercio
 
 ### I. Società
+
+[^part3-tit26-chap1-lvlE-lvlI-1]
+
+[^part3-tit26-chap1-lvlE-lvlI-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 640
 
@@ -9131,23 +9193,21 @@ La società dev’essere iscritta nel registro di commercio del luogo in cui ha 
 
 [^641-1]: Abrogato dal n. I 2 della LF del 17 mar. 2017 (Diritto del registro di commercio), con effetto dal 1° gen. 2021 ([RU 2020 957](https://fedlex.data.admin.ch/eli/oc/2020/178); [FF 2015 2849](https://fedlex.data.admin.ch/eli/fga/2015/956)).
 
-### III. Conferimenti in natura, assunzione di beni e vantaggi speciali
+### III. ...
 
 #### Art. 642
 
 [^642-1]
 
-L’oggetto dei conferimenti in natura e le azioni emesse quale corrispettivo, l’oggetto dell’assunzione di beni e la controprestazione della società, come pure il contenuto e il valore dei vantaggi speciali devono essere iscritti nel registro di commercio.
+[^642-1]: Abrogato dal n. I della LF del 19 giu. 2020 (Diritto della società anonima), con effetto dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-[^642-1]: Nuovo testo giusta il n. I 3 della LF del 16 dic. 2005 (Diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), in vigore dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
-
-### H. Acquisto della personalità
+### G. Acquisto della personalità
 
 ### I. Momento; mancanza dei requisiti
 
-[^part3-tit26-chap1-lvlH-lvlI-1]
+[^part3-tit26-chap1-lvlF-lvlI-1]
 
-[^part3-tit26-chap1-lvlH-lvlI-1]: Nuovo testo giusta il n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^part3-tit26-chap1-lvlF-lvlI-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 643
 
@@ -9161,13 +9221,19 @@ L’oggetto dei conferimenti in natura e le azioni emesse quale corrispettivo, l
 
 [^643-1]: Per. abrogato dal n. I 3 della LF del 16 dic. 2005 (Diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), con effetto dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 
-### II. Azioni emesse prima della iscrizione
+### II. Nullità delle azioni emesse prima dell’iscrizione
+
+[^part3-tit26-chap1-lvlF-lvlII-1]
+
+[^part3-tit26-chap1-lvlF-lvlII-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 644
 
-<sup>1</sup> Le azioni emesse prima dell’iscrizione della società sono nulle; la nullità non influisce tuttavia sugli obblighi derivanti dalla loro sottoscrizione.
+<sup>1</sup> Le azioni emesse prima dell’iscrizione della società nel registro di commercio sono nulle; la nullità non influisce sugli obblighi derivanti dalla loro sottoscrizione.[^644-1]
 
 <sup>2</sup> Chi emette azioni prima dell’iscrizione risponde d’ogni danno derivato dall’emissione.
+
+[^644-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### III. Obbligazioni assunte prima dell’iscrizione
 
@@ -9183,7 +9249,11 @@ L’oggetto dei conferimenti in natura e le azioni emesse quale corrispettivo, l
 
 [^646-1]: Abrogato dal n. I della LF del 4 ott. 1991, con effetto dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 
-### J. Modificazione dello statuto
+### H. Modificazione dello statuto
+
+[^part3-tit26-chap1-lvlG-1]
+
+[^part3-tit26-chap1-lvlG-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 647
 
@@ -9199,73 +9269,51 @@ Ogni deliberazione dell’assemblea generale o del consiglio d’amministrazione
 
 [^648649-1]: Abrogati dal n. I della LF del 4 ott. 1991, con effetto dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 
-### K. Aumento del capitale azionario
+### I. Aumento e riduzione del capitale azionario
 
-### I. Aumento ordinario e aumento autorizzato
+### I. Aumento ordinario
 
-### 1. Aumento ordinario
+### 1. Deliberazione dell’assemblea generale
 
 #### Art. 650
 
 [^650-1]
 
-<sup>1</sup> L’aumento del capitale azionario è deliberato dall’assemblea generale e deve essere attuato dal consiglio d’amministrazione entro tre mesi.
+<sup>1</sup> L’aumento ordinario del capitale azionario è deliberato dall’assemblea generale.
 
 <sup>2</sup>
 
 La deliberazione dell’assemblea generale deve risultare da un atto pubblico e indicare:
 
-- 1\. l’ammontare nominale totale dell’aumento e l’ammontare dei conferimenti da effettuare;
-- 2\. il numero, il valore nominale e la specie delle azioni, come pure i privilegi inerenti a determinate categorie;
+- 1\. l’ammontare nominale o, se del caso, l’ammontare nominale massimo dell’aumento;
+- 2\. il numero o, se del caso, il numero massimo, il valore nominale e la specie delle nuove azioni emesse, come pure i privilegi inerenti a determinate categorie di azioni;
 - 3\. il prezzo d’emissione o l’autorizzazione data al consiglio d’amministrazione di determinarlo, come pure il momento a partire dal quale le nuove azioni danno diritto a un dividendo;
-- 4\. la specie dei conferimenti e, in caso di conferimento in natura, il suo oggetto e la sua stima, il nome del conferente e le azioni che gli sono attribuite;
-- 5\. in caso di assunzione di beni, il suo oggetto, il nome dell’alienante e la controprestazione della società;
-- 6\. in caso di vantaggi speciali, il contenuto e il valore del vantaggio e il nome dei beneficiari;
-- 7\. ogni limitazione della trasferibilità delle nuove azioni nominative;
-- 8\. ogni limitazione o soppressione del diritto d’opzione, come pure l’utilizzazione dei diritti d’opzione non esercitati o soppressi;
-- 9\. le condizioni per l’esercizio di diritti d’opzione acquistati contrattualmente.
+- 4\. in caso di conferimento in natura, il suo oggetto e la sua stima, il nome del conferente e le azioni emesse quale corrispettivo nonché eventuali altre controprestazioni della società;
+- 5\. in caso di liberazione mediante compensazione, il credito da compensare, il nome del creditore e le azioni che gli sono attribuite;
+- 6\. la conversione di capitale proprio liberamente disponibile;
+- 7\. in caso di vantaggi speciali, il contenuto e il valore degli stessi e il nome dei beneficiari;
+- 8\. ogni limitazione della trasferibilità delle nuove azioni nominative;
+- 9\. ogni limitazione o soppressione del diritto d’opzione, come pure le conseguenze del suo mancato esercizio o della sua soppressione;
+- 10\. le condizioni per l’esercizio di diritti d’opzione acquistati contrattualmente.
 
-<sup>3</sup> Qualora l’aumento del capitale non sia iscritto nel registro di commercio nel termine di tre mesi, la deliberazione dell’assemblea generale decade.
+<sup>3</sup> L’aumento del capitale deve essere notificato per l’iscrizione all’ufficio del registro di commercio entro sei mesi dalla deliberazione dell’assemblea generale; in caso contrario la deliberazione decade.
 
-[^650-1]: Nuovo testo giusta il n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+**Art. 651**[^650-2]
 
-### 2. Aumento autorizzato
-
-### a. Base statutaria
-
-#### Art. 651
-
-[^651-1]
-
-<sup>1</sup> L’assemblea generale può, mediante modificazione dello statuto, autorizzare il consiglio d’amministrazione ad aumentare il capitale azionario entro un termine non superiore a due anni.
-
-<sup>2</sup> Lo statuto indica di quale ammontare nominale il consiglio d’amministrazione può aumentare il capitale azionario. Il capitale autorizzato non può eccedere la metà del capitale azionario esistente.
-
-<sup>3</sup> Lo statuto deve inoltre contenere le indicazioni richieste in caso di aumento ordinario, eccettuate quelle concernenti il prezzo d’emissione, la specie dei conferimenti, le assunzioni di beni e il momento a partire dal quale le nuove azioni danno diritto a un dividendo.
-
-<sup>4</sup> Entro i limiti dell’autorizzazione, il consiglio d’amministrazione può procedere ad aumenti del capitale azionario. Esso emana le disposizioni necessarie che non fossero contenute nella deliberazione dell’assemblea generale.
-
-<sup>5</sup> Sono fatte salve le disposizioni della legge dell’8 novembre 1934[^651-2] sulle banche concernenti il capitale di riserva.[^651-3]
-
-[^651-1]: Nuovo testo giusta il n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-[^651-2]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^651-3]: Introdotto dall’all. n. 1 della LF del 30 set. 2011 (Rafforzamento della stabilità nel settore finanziario), in vigore dal 1° mar. 2012 ([RU 2012 811](https://fedlex.data.admin.ch/eli/oc/2012/126); [FF 2011 4211](https://fedlex.data.admin.ch/eli/fga/2011/762)).
-
-### b. Adeguamento dello statuto
+[^650-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^650-2]: Abrogato dal n. I della LF del 19 giu. 2020 (Diritto della società anonima), con effetto dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 651a
 
 [^651a-1]
 
-<sup>1</sup> Dopo ogni aumento del capitale azionario, il consiglio d’amministrazione riduce in misura corrispondente nello statuto l’ammontare nominale del capitale autorizzato.
+[^651a-1]: Introdotto dal n. I della LF del 4 ott. 1991 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Abrogato dal n. I della LF del 19 giu. 2020 (Diritto della società anonima), con effetto dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-<sup>2</sup> Scaduto il termine per l’aumento del capitale, il consiglio d’amministrazione decide l’abrogazione della relativa disposizione statutaria.
+### 2. Sottoscrizione di azioni
 
-[^651a-1]: Introdotto dal n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^part3-tit26-chap1-lvlH-lvlI-lvl1-lvl2-1]
 
-### 3. Disposizioni comuni
-
-### a. Sottoscrizione di azioni
+[^part3-tit26-chap1-lvlH-lvlI-lvl1-lvl2-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 652
 
@@ -9273,11 +9321,13 @@ La deliberazione dell’assemblea generale deve risultare da un atto pubblico e 
 
 <sup>1</sup> Le azioni sono sottoscritte in un documento speciale (scheda di sottoscrizione) secondo le norme vigenti per la costituzione.
 
-<sup>2</sup> La scheda di sottoscrizione deve riferirsi alla deliberazione d’aumento presa dall’assemblea generale, oppure alla deliberazione con cui l’assemblea generale ha autorizzato l’aumento del capitale e alla decisione d’aumento presa dal consiglio d’amministrazione. Se la legge prescrive un prospetto d’emissione, la scheda di sottoscrizione vi si riferisce parimenti.
+<sup>2</sup> La scheda di sottoscrizione deve riferirsi alla deliberazione d’aumento presa dall’assemblea generale e alla relativa decisione del consiglio d’amministrazione. Se la legge prescrive un prospetto, la scheda di sottoscrizione vi si riferisce parimenti.[^652-2]
 
-<sup>3</sup> La scheda di sottoscrizione che non fissa un termine perde il suo carattere vincolante tre mesi dopo che sia stata firmata.
+<sup>3</sup> ...[^652-3]
 
 [^652-1]: Nuovo testo giusta il n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^652-2]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^652-3]: Abrogato dal n. I della LF del 19 giu. 2020 (Diritto della società anonima), con effetto dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### b. ...
 
@@ -9287,7 +9337,11 @@ La deliberazione dell’assemblea generale deve risultare da un atto pubblico e 
 
 [^652a-1]: Introdotto dal n. I della LF del 4 ott. 1991 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Abrogato dall’all. n. 1 della L del 15 giu. 2018 sui servizi finanziari, con effetto dal 1° gen. 2020 ([RU 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
-### c. Diritto d’opzione
+### 3. Diritto d’opzione e prezzo d’emissione
+
+[^part3-tit26-chap1-lvlH-lvlI-lvl1-lvl3-1]
+
+[^part3-tit26-chap1-lvlH-lvlI-lvl1-lvl3-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 652b
 
@@ -9295,13 +9349,21 @@ La deliberazione dell’assemblea generale deve risultare da un atto pubblico e 
 
 <sup>1</sup> Ogni azionista ha diritto alla parte delle nuove azioni emesse che corrisponde alla sua partecipazione anteriore.
 
-<sup>2</sup> La deliberazione dell’assemblea generale di aumentare il capitale azionario può sopprimere il diritto d’opzione soltanto per gravi motivi. Sono gravi motivi segnatamente l’assunzione di imprese o parti d’impresa o partecipazioni, nonché la compartecipazione dei lavoratori. Nessuno dev’essere avvantaggiato o svantaggiato in modo incongruo dalla soppressione del diritto d’opzione.
+<sup>2</sup> La deliberazione dell’assemblea generale di aumentare il capitale azionario può limitare o sopprimere il diritto d’opzione soltanto per gravi motivi. Sono gravi motivi segnatamente l’assunzione di imprese, parti d’impresa o partecipazioni, nonché la compartecipazione dei lavoratori.[^652b-2]
 
 <sup>3</sup> La società non può, in seguito a limitazione statutaria della trasferibilità delle azioni nominative, impedire l’esercizio del diritto di acquistare azioni all’azionista cui lo abbia concesso.
 
-[^652b-1]: Introdotto dal n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+<sup>4</sup> Nessuno dev’essere avvantaggiato o svantaggiato in modo incongruo dalla limitazione o soppressione del diritto d’opzione o dalla fissazione del prezzo d’emissione.[^652b-3]
 
-### d. Prestazione dei conferimenti
+[^652b-1]: Introdotto dal n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^652b-2]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^652b-3]: Introdotto dal n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### 4. Prestazione dei conferimenti
+
+[^part3-tit26-chap1-lvlH-lvlI-lvl1-lvl4-1]
+
+[^part3-tit26-chap1-lvlH-lvlI-lvl1-lvl4-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 652c
 
@@ -9311,7 +9373,11 @@ Salvo disposizione contraria della legge, i conferimenti sono effettuati secondo
 
 [^652c-1]: Introdotto dal n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 
-### e. Aumento mediante capitale proprio
+### 5. Aumento mediante capitale proprio
+
+[^part3-tit26-chap1-lvlH-lvlI-lvl1-lvl5-1]
+
+[^part3-tit26-chap1-lvlH-lvlI-lvl1-lvl5-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 652d
 
@@ -9319,12 +9385,24 @@ Salvo disposizione contraria della legge, i conferimenti sono effettuati secondo
 
 <sup>1</sup> Il capitale azionario può essere aumentato anche mediante conversione di capitale proprio liberamente disponibile.
 
-<sup>2</sup> La prova della copertura dell’ammontare dell’aumento è addotta con il conto annuale nella versione approvata dagli azionisti e con la relazione di revisione di un revisore abilitato. Se questo conto risale a più di sei mesi, è necessario un bilancio intermedio verificato.[^652d-2]
+<sup>2</sup>
+
+La prova della copertura dell’ammontare dell’aumento è addotta:
+
+- 1\. con il conto annuale nella versione approvata dall’assemblea generale e verificata da un revisore abilitato; o
+- 2\. con un conto intermedio verificato da un revisore abilitato se, al momento della deliberazione dell’assemblea generale, la data di chiusura del bilancio risale a più di sei mesi.[^652d-2]
+
+<sup>3</sup> Se l’aumento di capitale è effettuato mediante conversione di capitale proprio liberamente disponibile, lo statuto deve segnalarlo.[^652d-3]
 
 [^652d-1]: Introdotto dal n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-[^652d-2]: Nuovo testo giusta il n. I 3 della LF del 16 dic. 2005 (Diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), in vigore dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^652d-2]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^652d-3]: Introdotto dal n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-### f. Relazione sull’aumento del capitale
+### 6. Relazione sull’aumento del capitale
+
+[^part3-tit26-chap1-lvlH-lvlI-lvl1-lvl6-1]
+
+[^part3-tit26-chap1-lvlH-lvlI-lvl1-lvl6-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 652e
 
@@ -9332,15 +9410,20 @@ Salvo disposizione contraria della legge, i conferimenti sono effettuati secondo
 
 Il consiglio d’amministrazione dà in una relazione scritta ragguagli su:
 
-- 1\. la specie e lo stato dei conferimenti in natura o delle assunzioni di beni, e l’adeguatezza della loro stima;
+- 1\.[^652e-2] la specie e lo stato dei conferimenti in natura e l’adeguatezza della loro stima;
 - 2\. l’esistenza del debito e la sua compensabilità;
 - 3\. la libera disponibilità del capitale proprio convertito;
 - 4\. il rispetto della deliberazione dell’assemblea generale, in particolare per quanto concerne la limitazione o soppressione del diritto d’opzione e l’utilizzazione dei diritti d’opzione non esercitati o soppressi;
 - 5\. le ragioni e l’adeguatezza dei vantaggi speciali accordati a singoli azionisti o ad altri.
 
 [^652e-1]: Introdotto dal n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^652e-2]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-### g. Attestazione di verifica
+### 7. Attestazione di verifica
+
+[^part3-tit26-chap1-lvlH-lvlI-lvl1-lvl7-1]
+
+[^part3-tit26-chap1-lvlH-lvlI-lvl1-lvl7-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 652f
 
@@ -9353,7 +9436,7 @@ Il consiglio d’amministrazione dà in una relazione scritta ragguagli su:
 [^652f-1]: Introdotto dal n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 [^652f-2]: Nuovo testo giusta il n. I 3 della LF del 16 dic. 2005 (Diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), in vigore dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 
-### h. Modificazione dello statuto e accertamenti
+### 8. Modificazione dello statuto e accertamenti del consiglio d’amministrazione
 
 #### Art. 652g
 
@@ -9361,40 +9444,29 @@ Il consiglio d’amministrazione dà in una relazione scritta ragguagli su:
 
 <sup>1</sup>
 
-Ricevuta la relazione sull’aumento del capitale e, se necessaria l’attestazione di verifica, il consiglio d’amministrazione modifica lo statuto e accerta che:
+Ricevuta la relazione sull’aumento del capitale e, se necessaria, l’attestazione di verifica, il consiglio d’amministrazione modifica lo statuto e accerta che:
 
 - 1\. tutte le azioni sono validamente sottoscritte;
 - 2\. i conferimenti promessi corrispondono al prezzo totale d’emissione;
-- 3\. i conferimenti sono stati effettuati conformemente a quanto richiesto dalla legge, dallo statuto o dalla deliberazione dell’assemblea generale;
-- 4\.[^652g-2] non vi sono altri conferimenti in natura, assunzioni di beni e previste assunzioni di beni, compensazioni di crediti o vantaggi speciali oltre a quelli menzionati nei documenti giustificativi.
+- 3\. al momento degli accertamenti, i conferimenti sono stati effettuati conformemente a quanto richiesto dalla legge, dallo statuto e dalla deliberazione dell’assemblea generale;
+- 4\. non vi sono altri conferimenti in natura, compensazioni di crediti o vantaggi speciali oltre a quelli menzionati nei documenti giustificativi;
+- 5\. i singoli documenti su cui si fonda l’aumento del capitale gli sono stati esibiti.
 
-<sup>2</sup> La decisione e gli accertamenti devono risultare da un atto pubblico. Il pubblico ufficiale menziona i singoli documenti su cui si fonda l’aumento del capitale e attesta che sono stati esibiti al consiglio d’amministrazione.
+<sup>2</sup> La deliberazione sulla modificazione dello statuto e gli accertamenti devono risultare da un atto pubblico. Il pubblico ufficiale menziona i singoli documenti su cui si fonda l’aumento del capitale e attesta che questi gli sono stati esibiti. Tali documenti devono essere acclusi all’atto pubblico.
 
-<sup>3</sup> All’atto pubblico devono essere acclusi lo statuto modificato, la relazione sull’aumento, l’attestazione di verifica, come pure i contratti riguardanti i conferimenti in natura e i contratti esistenti di assunzione di beni.
+[^652g-1]: Introdotto dal n. I della LF del 4 ott. 1991 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-[^652g-1]: Introdotto dal n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-[^652g-2]: Introdotto dal n. I 2 della LF del 17 mar. 2017 (Diritto del registro di commercio), in vigore dal 1° gen. 2021 ([RU 2020 957](https://fedlex.data.admin.ch/eli/oc/2020/178); [FF 2015 2849](https://fedlex.data.admin.ch/eli/fga/2015/956)).
-
-### i. Iscrizione nel registro di commercio; nullità delle azioni emesse prima dell’iscrizione
+### 9. Nullità delle azioni emesse prima dell’iscrizione
 
 #### Art. 652h
 
 [^652h-1]
 
-<sup>1</sup> Il consiglio d’amministrazione notifica per iscrizione al registro di commercio la modificazione dello statuto e gli accertamenti da lui fatti.
+Le azioni emesse prima dell’iscrizione dell’aumento del capitale nel registro di commercio sono nulle; la nullità non influisce sugli obblighi derivanti dalla loro sottoscrizione.
 
-<sup>2</sup>
+[^652h-1]: Introdotto dal n. I della LF del 4 ott. 1991 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-Alla notificazione si devono unire:
-
-- 1\. l’atto pubblico relativo alla deliberazione dell’assemblea generale e quello relativo alla decisione del consiglio d’amministrazione, con gli allegati;
-- 2\. una copia autentica dello statuto modificato.
-
-<sup>3</sup> Le azioni emesse prima dell’iscrizione dell’aumento del capitale sono nulle; la nullità non influisce sugli obblighi derivanti dalla loro sottoscrizione.
-
-[^652h-1]: Introdotto dal n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-
-### II. Aumento condizionale
+### II. Aumento con capitale condizionale
 
 ### 1. Principio
 
@@ -9402,15 +9474,16 @@ Alla notificazione si devono unire:
 
 [^653-1]
 
-<sup>1</sup> L’assemblea generale può decidere un aumento condizionale del capitale accordando nello statuto ai titolari di nuove obbligazioni di prestiti o di obbligazioni similari nei confronti della società o delle società facenti parte del suo gruppo, come pure ai lavoratori, il diritto di acquistare nuove azioni (diritti di conversione o d’opzione).
+<sup>1</sup> L’assemblea generale può decidere di creare un capitale condizionale accordando agli azionisti, ai titolari di obbligazioni di prestiti o di obbligazioni similari, ai lavoratori, ai membri del consiglio d’amministrazione della società o di altre società del gruppo o a terzi il diritto di acquistare nuove azioni (diritti di conversione e d’opzione).
 
-<sup>2</sup> Il capitale azionario aumenta senz’altro al momento e nella misura in cui tali diritti di conversione o d’opzione sono esercitati e in cui gli obblighi di conferimento sono adempiuti mediante compensazione o in denaro.
+<sup>2</sup> Il capitale azionario aumenta senz’altro al momento e nella misura in cui i diritti di conversione o d’opzione sono esercitati e in cui gli obblighi di conferimento sono adempiuti in denaro o mediante compensazione.
 
-<sup>3</sup> Sono fatte salve le disposizioni della legge dell’8 novembre 1934[^653-2] sulle banche concernenti il capitale convertibile.[^653-3]
+<sup>3</sup> Le disposizioni sull’aumento del capitale azionario con capitale condizionale sono applicabili per analogia anche nel caso in cui siano previsti obblighi di conversione o di acquisto.
 
-[^653-1]: Nuovo testo giusta il n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+<sup>4</sup> Sono fatte salve le disposizioni della legge dell’8 novembre 1934[^653-2] sulle banche concernenti il capitale convertibile.
+
+[^653-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 [^653-2]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^653-3]: Introdotto dall’all. n. 1 della LF del 30 set. 2011 (Rafforzamento della stabilità nel settore finanziario), in vigore dal 1° mar. 2012 ([RU 2012 811](https://fedlex.data.admin.ch/eli/oc/2012/126); [FF 2011 4211](https://fedlex.data.admin.ch/eli/fga/2011/762)).
 
 ### 2. Limiti
 
@@ -9418,11 +9491,12 @@ Alla notificazione si devono unire:
 
 [^653a-1]
 
-<sup>1</sup> L’ammontare nominale di cui il capitale azionario può essere aumentato condizionalmente non può eccedere la metà del capitale azionario esistente.
+<sup>1</sup> L’ammontare nominale di cui il capitale azionario può essere aumentato con capitale condizionale non può eccedere la metà del capitale azionario iscritto nel registro di commercio.[^653a-2]
 
 <sup>2</sup> Il conferimento effettuato deve corrispondere almeno al valore nominale.
 
 [^653a-1]: Introdotto dal n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^653a-2]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 3. Base statutaria
 
@@ -9434,12 +9508,13 @@ Alla notificazione si devono unire:
 
 Lo statuto deve indicare:
 
-- 1\. l’ammontare nominale dell’aumento condizionale del capitale;
+- 1\.[^653b-2] l’ammontare nominale del capitale condizionale;
 - 2\. il numero, il valore nominale e la specie delle azioni;
 - 3\. la cerchia dei titolari dei diritti di conversione o d’opzione;
-- 4\. la soppressione dei diritti d’opzione degli attuali azionisti;
+- [tab] 4.[^653b-3] la limitazione o la soppressione dei diritti d’opzione spettanti agli attuali azionisti, in quanto non siano loro accordati i diritti d’opzione ai sensi del presente articolo;
 - 5\. i privilegi inerenti a determinate categorie d’azioni;
-- 6\. la limitazione della trasferibilità delle nuove azioni nominative.
+- 6\. la limitazione della trasferibilità delle nuove azioni nominative;
+- 7\.[^653b-4] la forma in cui esercitare i diritti di conversione o d’opzione e in cui rinunciare a questi diritti.
 
 <sup>2</sup>
 
@@ -9448,9 +9523,13 @@ Se agli azionisti non è offerta previamente la sottoscrizione delle obbligazion
 - 1\. le condizioni d’esercizio dei diritti di conversione o d’opzione;
 - 2\. i criteri secondo i quali va calcolato il prezzo d’emissione.
 
-<sup>3</sup> Sono nulli i diritti di conversione o d’opzione accordati prima dell’iscrizione nel registro di commercio della disposizione statutaria sull’aumento condizionale del capitale.
+<sup>3</sup> Sono nulli i diritti di conversione o d’opzione accordati prima dell’iscrizione nel registro di commercio della disposizione statutaria sull’aumento del capitale con capitale condizionale.[^653b-5]
 
 [^653b-1]: Introdotto dal n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^653b-2]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^653b-3]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^653b-4]: Introdotto dal n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^653b-5]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 4. Tutela degli azionisti
 
@@ -9458,13 +9537,20 @@ Se agli azionisti non è offerta previamente la sottoscrizione delle obbligazion
 
 [^653c-1]
 
-<sup>1</sup> Qualora l’aumento condizionale del capitale sia connesso con l’emissione di obbligazioni di prestiti o di obbligazioni similari dotate di diritti di conversione o d’opzione, agli azionisti deve essere offerta previamente la sottoscrizione di tali obbligazioni nella stessa proporzione della loro partecipazione anteriore.
+<sup>1</sup> Ai diritti d’opzione accordati agli azionisti nell’ambito del capitale condizionale si applicano per analogia le disposizioni concernenti il diritto d’opzione in caso di aumento ordinario del capitale.
 
-<sup>2</sup> Questo diritto preferenziale di sottoscrizione può essere limitato o soppresso in caso di gravi motivi.
+<sup>2</sup> Qualora il capitale condizionale sia connesso con l’emissione di obbligazioni di prestiti o di obbligazioni similari dotate di diritti di conversione o d’opzione, agli azionisti deve essere offerta previamente la sottoscrizione di tali obbligazioni nella stessa proporzione della loro partecipazione anteriore.
 
-<sup>3</sup> La soppressione del diritto d’opzione, necessaria per procedere a un aumento condizionale del capitale, e la limitazione o soppressione del diritto preferenziale di sottoscrizione non devono avvantaggiare o svantaggiare alcuno in modo incongruo.
+<sup>3</sup>
 
-[^653c-1]: Introdotto dal n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+Questo diritto preferenziale di sottoscrizione può essere limitato o soppresso:
+
+- 1\. in caso di gravi motivi; o
+- 2\. se le azioni sono quotate in borsa e le obbligazioni di prestiti o le obbligazioni similari sono emesse a condizioni eque.
+
+<sup>4</sup> La limitazione o la soppressione del diritto d’opzione o del diritto preferenziale di sottoscrizione non deve avvantaggiare o svantaggiare alcuno in modo incongruo.
+
+[^653c-1]: Introdotto dal n. I della LF del 4 ott. 1991 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 5. Tutela dei titolari di un diritto di conversione o d’opzione
 
@@ -9472,11 +9558,12 @@ Se agli azionisti non è offerta previamente la sottoscrizione delle obbligazion
 
 [^653d-1]
 
-<sup>1</sup> Il creditore o lavoratore titolare di un diritto di conversione o d’opzione che gli permetta di acquistare azioni nominative non può essere impedito nell’esercizio di tale diritto in virtù di una limitazione della trasferibilità delle azioni nominative, a meno che questa riserva non sia stata prevista nello statuto e nel prospetto d’emissione.
+<sup>1</sup> Il titolare di un diritto di conversione o d’opzione non può essere impedito nell’esercizio di tale diritto in virtù di una limitazione della trasferibilità delle azioni nominative, a meno che questa riserva non sia stata prevista nello statuto e nel prospetto.[^653d-2]
 
 <sup>2</sup> I diritti di conversione o d’opzione possono essere pregiudicati per effetto di un aumento del capitale azionario, di un’emissione di nuovi diritti di conversione o di opzione o in altra guisa, soltanto se il prezzo di conversione è abbassato o una compensazione adeguata è accordata in altro modo ai titolari oppure se anche gli azionisti subiscono lo stesso pregiudizio.
 
 [^653d-1]: Introdotto dal n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^653d-2]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 6. Attuazione dell’aumento
 
@@ -9486,14 +9573,16 @@ Se agli azionisti non è offerta previamente la sottoscrizione delle obbligazion
 
 [^653e-1]
 
-<sup>1</sup> I diritti di conversione o d’opzione sono esercitati con una dichiarazione scritta che rinvia alla disposizione statutaria sull’aumento condizionale del capitale; se la legge prescrive un prospetto d’emissione, la dichiarazione vi si riferisce parimenti.
+<sup>1</sup> La dichiarazione mediante la quale sono esercitati i diritti di conversione o d’opzione rinvia alla disposizione statutaria sul capitale condizionale; se la legge prescrive un prospetto, la dichiarazione vi si riferisce parimenti.[^653e-2]
 
-<sup>2</sup> I conferimenti in denaro o mediante compensazione si effettuano presso un istituto bancario soggetto alla legge federale dell’8 novembre 1934[^653e-2] su le banche e le casse di risparmio.
+<sup>2</sup> I conferimenti in denaro devono essere depositati presso una banca secondo l’articolo 1 capoverso 1 della legge dell’8 novembre 1934[^653e-3] sulle banche ed essere tenuti a disposizione esclusiva della società.[^653e-4]
 
 <sup>3</sup> I diritti dell’azionista nascono non appena sia stato adempiuto l’obbligo del conferimento.
 
 [^653e-1]: Introdotto dal n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-[^653e-2]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^653e-2]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^653e-3]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^653e-4]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### b. Attestazione di verifica
 
@@ -9501,34 +9590,38 @@ Se agli azionisti non è offerta previamente la sottoscrizione delle obbligazion
 
 [^653f-1]
 
-<sup>1</sup> Alla fine di ogni esercizio, o anteriormente se il consiglio d’amministrazione lo chiede, un perito revisore abilitato verifica se l’emissione delle nuove azioni sia avvenuta conformemente alla legge, allo statuto e, qualora fosse necessario, al prospetto d’emissione.[^653f-2]
+<sup>1</sup> Alla fine di ogni esercizio un perito revisore abilitato verifica se l’emissione delle nuove azioni sia avvenuta conformemente alla legge, allo statuto e, qualora fosse necessario, al prospetto. Il perito revisore attesta per scritto l’esito della verifica.
 
-<sup>2</sup> Egli attesta per scritto tale conformità.
+<sup>2</sup> Il consiglio d’amministrazione può disporre che tale verifica sia eseguita anteriormente.
 
-[^653f-1]: Introdotto dal n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-[^653f-2]: Nuovo testo giusta il n. I 3 della LF del 16 dic. 2005 (Diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), in vigore dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^653f-1]: Introdotto dal n. I della LF del 4 ott. 1991 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-### c. Adeguamento dello statuto
+### c. Modificazione dello statuto e accertamenti del consiglio d’amministrazione
 
 #### Art. 653g
 
 [^653g-1]
 
-<sup>1</sup> Ricevuta l’attestazione di verifica, il consiglio d’amministrazione accerta con atto pubblico il numero, il valore nominale e la specie delle nuove azioni emesse, come pure i privilegi inerenti a determinate categorie e lo stato del capitale azionario alla fine dell’esercizio annuale o al momento della verifica. Esso procede agli adeguamenti statutari necessari.
+<sup>1</sup>
 
-<sup>2</sup> Il pubblico ufficiale accerta nell’atto pubblico che l’attestazione di verifica contiene le indicazioni richieste.
+Ricevuta l’attestazione di verifica, il consiglio d’amministrazione modifica lo statuto e accerta:
 
-[^653g-1]: Introdotto dal n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+- 1\. il numero, il valore nominale e la specie delle nuove azioni emesse;
+- 2\. se del caso, i privilegi inerenti a determinate categorie di azioni;
+- 3\. lo stato del capitale azionario e del capitale condizionale alla fine dell’esercizio annuale o al momento della verifica;
+- 4\. che i singoli documenti su cui si fonda l’aumento del capitale gli sono stati esibiti.
 
-### d. Iscrizione nel registro di commercio
+<sup>2</sup> Se lo statuto prevede un margine di variazione del capitale, il consiglio d’amministrazione modifica lo statuto adeguando il limite superiore e inferiore del margine di variazione in funzione dell’aumento del capitale azionario, sempre che l’aumento non si basi sull’autorizzazione data al consiglio d’amministrazione di aumentare il capitale con capitale condizionale.
+
+<sup>3</sup> La decisione relativa alla modificazione dello statuto e gli accertamenti devono risultare da un atto pubblico. Il pubblico ufficiale menziona i singoli documenti su cui si fonda l’aumento del capitale e attesta che questi gli sono stati esibiti. Tali documenti devono essere acclusi all’atto pubblico.
+
+[^653g-1]: Introdotto dal n. I della LF del 4 ott. 1991 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 653h
 
 [^653h-1]
 
-Entro tre mesi dalla chiusura dell’esercizio, il consiglio d’amministrazione notifica al registro di commercio, per iscrizione, la modificazione statutaria e produce all’uopo l’atto pubblico e l’attestazione di verifica.
-
-[^653h-1]: Introdotto dal n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^653h-1]: Introdotto dal n. I della LF del 4 ott. 1991 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Abrogato dal n. I della LF del 19 giu. 2020 (Diritto della società anonima), con effetto dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 7. Abrogazione
 
@@ -9536,19 +9629,222 @@ Entro tre mesi dalla chiusura dell’esercizio, il consiglio d’amministrazione
 
 [^653i-1]
 
-<sup>1</sup> Dopo che un perito revisore abilitato abbia accertato per scritto l’estinzione dei diritti di conversione o d’opzione, il consiglio d’amministrazione abroga le disposizioni statutarie sull’aumento condizionale del capitale.
+<sup>1</sup>
 
-<sup>2</sup> Il pubblico ufficiale accerta nell’atto pubblico che la relazione di revisione contiene le indicazioni richieste.
+Il consiglio d’amministrazione può abrogare o modificare le disposizioni statutarie sul capitale condizionale se:
 
-[^653i-1]: Introdotto dal n. I della LF del 4 ott. 1991 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Nuovo testo giusta il n. I 3 della LF del 16 dic. 2005 (Diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), in vigore dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+- 1\. i diritti di conversione o d’opzione sono estinti;
+- 2\. tali diritti non sono stati accordati; o
+- 3\. tutti i titolari, o parte di essi, hanno rinunciato all’esercizio dei diritti di conversione o d’opzione loro accordati.
 
-### III. Azioni privilegiate
+<sup>2</sup> Lo statuto può essere modificato soltanto se un perito revisore abilitato ha attestato per scritto questi fatti.
+
+[^653i-1]: Introdotto dal n. I della LF del 4 ott. 1991 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### III. Riduzione del capitale azionario
+
+### 1. Riduzione ordinaria
+
+### a. Principi
+
+#### Art. 653j
+
+[^653j-1]
+
+<sup>1</sup> La riduzione del capitale azionario è deliberata dall’assemblea generale. È preparata e attuata dal consiglio d’amministrazione.
+
+<sup>2</sup> La riduzione del capitale può essere attuata mediante la riduzione del valore nominale o la soppressione di azioni.
+
+<sup>3</sup> Il capitale azionario può essere ridotto a una somma inferiore a 100 000 franchi soltanto se è simultaneamente aumentato almeno sino a concorrenza di questo ammontare. Se è espresso in una moneta estera, il capitale azionario deve essere sostituito da un capitale con un controvalore di almeno 100 000 franchi.
+
+<sup>4</sup> La riduzione del capitale azionario deve essere notificata per l’iscrizione all’ufficio del registro di commercio entro sei mesi dalla deliberazione dell’assemblea generale; in caso contrario la deliberazione decade.
+
+[^653j-1]: Introdotto dal n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### b. Garanzia dei crediti
+
+#### Art. 653k
+
+[^653k-1]
+
+<sup>1</sup> Se si intende ridurre il capitale azionario, il consiglio d’amministrazione informa i creditori che possono produrre i loro crediti ed esigere garanzie. La diffida deve essere pubblicata nel Foglio ufficiale svizzero di commercio. I crediti devono essere prodotti per scritto, con indicazione del loro importo e del loro titolo giuridico.
+
+<sup>2</sup> Se i creditori ne fanno richiesta entro 30 giorni dalla pubblicazione nel Foglio ufficiale svizzero di commercio, la società deve garantire i loro crediti nella misura in cui la riduzione del capitale abbia ridotto la copertura dei crediti.
+
+<sup>3</sup> L’obbligo di prestare garanzia si estingue se la società soddisfa il credito o prova che la riduzione del capitale azionario non compromette il soddisfacimento del credito. In presenza dell’attestazione di verifica, si presume che il soddisfacimento del credito non sia compromesso.
+
+[^653k-1]: Introdotto dal n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### c. Conto intermedio
+
+#### Art. 653l
+
+[^653l-1]
+
+Se la data di chiusura del bilancio precede di oltre sei mesi quella in cui l’assemblea generale delibera la riduzione del capitale, la società deve stilare un conto intermedio.
+
+[^653l-1]: Introdotto dal n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### d. Attestazione di verifica
+
+#### Art. 653m
+
+[^653m-1]
+
+<sup>1</sup> Un perito revisore abilitato deve attestare per scritto, fondandosi sulla chiusura contabile e sull’esito della diffida ai creditori, che i debiti sono interamente coperti nonostante la riduzione del capitale azionario.
+
+<sup>2</sup> Se l’attestazione di verifica è già disponibile quando l’assemblea generale delibera sulla riduzione del capitale azionario, il consiglio d’amministrazione informa sull’esito della verifica. Il perito revisore abilitato deve presenziare all’assemblea generale, a meno che quest’ultima non abbia deciso all’unanimità di rinunciare alla sua presenza.
+
+[^653m-1]: Introdotto dal n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### e. Deliberazione dell’assemblea generale
+
+#### Art. 653n
+
+[^653n-1]
+
+La deliberazione dell’assemblea generale concernente la riduzione del capitale azionario deve risultare da un atto pubblico e indicare:
+
+- 1\. l’ammontare nominale della riduzione o, se del caso, l’ammontare nominale massimo della medesima;
+- 2\. le modalità di esecuzione della riduzione del capitale azionario, specificando segnatamente se la riduzione è effettuata mediante la riduzione del valore nominale o la soppressione di azioni;
+- 3\. l’impiego dell’ammontare della riduzione del capitale.
+
+[^653n-1]: Introdotto dal n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### f. Modificazione dello statuto e accertamenti del consiglio d’amministrazione; iscrizione nel registro di commercio
+
+#### Art. 653o
+
+[^653o-1]
+
+<sup>1</sup> Se sono adempiute le condizioni cui è subordinata la riduzione del capitale azionario, il consiglio d’amministrazione modifica lo statuto e accerta che, al momento degli accertamenti, la riduzione è conforme a quanto richiesto dalla legge, dallo statuto e dalla deliberazione dell’assemblea generale e che i documenti giustificativi su cui si fonda la riduzione del capitale gli sono stati esibiti.
+
+<sup>2</sup> La decisione relativa alla modificazione dello statuto e gli accertamenti del consiglio d’amministrazione devono risultare da un atto pubblico. Il pubblico ufficiale menziona i singoli documenti su cui si fonda la riduzione del capitale e attesta che gli sono stati esibiti. Tali documenti devono essere acclusi all’atto pubblico.
+
+<sup>3</sup> I mezzi resisi disponibili a seguito della riduzione del capitale possono essere distribuiti agli azionisti soltanto dopo che la riduzione è stata iscritta nel registro di commercio.
+
+[^653o-1]: Introdotto dal n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### 2. Riduzione del capitale in caso di bilancio in disavanzo
+
+#### Art. 653p
+
+[^653p-1]
+
+<sup>1</sup> Se il capitale azionario è ridotto per togliere in tutto o in parte un’eccedenza passiva accertata nel bilancio e risultante da perdite, e un perito revisore abilitato attesta all’assemblea generale che l’ammontare della riduzione del capitale non supera tale eccedenza, le disposizioni sulla riduzione ordinaria del capitale riguardanti la garanzia dei crediti, il conto intermedio, l’attestazione di verifica e gli accertamenti del consiglio d’amministrazione non si applicano.
+
+<sup>2</sup> La deliberazione dell’assemblea generale contiene le indicazioni di cui all’articolo 653*n*. Fa riferimento all’esito della relazione di revisione e modifica lo statuto.
+
+[^653p-1]: Introdotto dal n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### 3. Riduzione e aumento simultanei
+
+### a. Principio
+
+#### Art. 653q
+
+[^653q-1]
+
+<sup>1</sup> Se il capitale azionario è ridotto e simultaneamente aumentato in modo da raggiungere almeno l’ammontare precedente e i conferimenti effettuati non sono ridotti, le disposizioni sulla riduzione del capitale riguardanti la garanzia dei crediti, il conto intermedio, l’attestazione di verifica e gli accertamenti del consiglio d’amministrazione non si applicano.
+
+<sup>2</sup> Le disposizioni sull’aumento ordinario del capitale si applicano nondimeno per analogia.
+
+<sup>3</sup> Il consiglio d’amministrazione non deve adeguare lo statuto se il numero e il valore nominale delle azioni, nonché l’ammontare dei conferimenti effettuati rimangono invariati.
+
+[^653q-1]: Introdotto dal n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### b. Soppressione delle azioni
+
+#### Art. 653r
+
+[^653r-1]
+
+<sup>1</sup> Se, a fini di risanamento, il capitale azionario è ridotto a zero e simultaneamente aumentato, i diritti societari degli azionisti decadono all’atto della riduzione. Le azioni emesse devono essere soppresse.
+
+<sup>2</sup> All’atto dell’aumento del capitale azionario, gli azionisti hanno un diritto d’opzione di cui non possono essere privati.
+
+[^653r-1]: Introdotto dal n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### IV. Margine di variazione del capitale
+
+### 1. Autorizzazione
+
+#### Art. 653s
+
+[^653s-1]
+
+<sup>1</sup> Lo statuto può autorizzare il consiglio d’amministrazione a modificare, per cinque anni al massimo, il capitale azionario entro determinati limiti (margine di variazione del capitale). Stabilisce i limiti entro i quali il consiglio d’amministrazione può aumentare o ridurre il capitale azionario.
+
+<sup>2</sup> Il limite superiore del margine di variazione del capitale non può eccedere di oltre la metà il capitale azionario iscritto nel registro di commercio. Il limite inferiore del margine di variazione del capitale dev’essere pari almeno alla metà del capitale azionario iscritto nel registro di commercio.
+
+<sup>3</sup> Lo statuto può limitare i poteri del consiglio d’amministrazione. Può in particolare prevedere che il consiglio d’amministrazione sia autorizzato soltanto ad aumentare o a ridurre il capitale azionario.
+
+<sup>4</sup> Lo statuto può autorizzare il consiglio d’amministrazione a ridurre il capitale azionario soltanto se la società non ha rinunciato alla revisione limitata del conto annuale.
+
+[^653s-1]: Introdotto dal n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### 2. Basi statutarie
+
+#### Art. 653t
+
+[^653t-1]
+
+<sup>1</sup>
+
+Se è introdotto un margine di variazione del capitale, lo statuto deve indicare:
+
+- 1\. il limite superiore e il limite inferiore di tale margine;
+- 2\. la data in cui scade l’autorizzazione del consiglio d’amministrazione di modificare il capitale azionario;
+- 3\. le restrizioni, gli oneri e le condizioni cui è subordinata l’autorizzazione;
+- 4\. il numero, il valore nominale e la specie delle azioni, come pure i privilegi inerenti a determinate categorie di azioni o buoni di partecipazione;
+- 5\. in caso di vantaggi speciali, il contenuto e il valore degli stessi e il nome dei beneficiari;
+- 6\. ogni limitazione della trasferibilità delle nuove azioni nominative;
+- 7\. ogni limitazione o soppressione del diritto d’opzione o i gravi motivi per i quali il consiglio d’amministrazione può limitare o sopprimere tale diritto, come pure la destinazione dei diritti d’opzione non esercitati o soppressi;
+- 8\. le condizioni per l’esercizio di diritti d’opzione acquistati contrattualmente;
+- 9\. l’autorizzazione concessa al consiglio d’amministrazione di aumentare il capitale con capitale condizionale e le indicazioni di cui all’articolo 653*b*;
+- 10\. l’autorizzazione concessa al consiglio d’amministrazione di emettere un capitale di partecipazione.
+
+<sup>2</sup> Scaduta la durata di validità dell’autorizzazione, il consiglio d’amministrazione abroga le disposizioni statutarie relative al margine di variazione del capitale.
+
+[^653t-1]: Introdotto dal n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### 3. Aumento e riduzione del capitale azionario entro il margine di variazione del capitale
+
+#### Art. 653u
+
+[^653u-1]
+
+<sup>1</sup> Il consiglio d’amministrazione può aumentare e ridurre il capitale azionario entro i limiti stabiliti dall’autorizzazione dell’assemblea generale.
+
+<sup>2</sup> Se decide di aumentare o ridurre il capitale azionario, il consiglio d’amministrazione emana le disposizioni necessarie in quanto non siano contenute nella deliberazione di autorizzazione dell’assemblea generale.
+
+<sup>3</sup> Se si riduce il capitale azionario entro il margine di variazione previsto, si applicano per analogia le disposizioni sulla riduzione ordinaria di capitale riguardanti la garanzia dei crediti, il conto intermedio e l’attestazione di verifica.
+
+<sup>4</sup> Dopo ogni aumento o riduzione del capitale, il consiglio d’amministrazione procede agli accertamenti occorrenti e modifica lo statuto. La decisione relativa alla modificazione dello statuto e gli accertamenti devono risultare da un atto pubblico.
+
+<sup>5</sup> Per il rimanente, si applicano per analogia le disposizioni concernenti l’aumento ordinario, l’aumento con capitale condizionale e la riduzione del capitale.
+
+[^653u-1]: Introdotto dal n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### 4. Aumento o riduzione del capitale azionario da parte dell’assemblea generale
+
+#### Art. 653v
+
+[^653v-1]
+
+<sup>1</sup> Se durante la validità dell’autorizzazione data al consiglio d’amministrazione l’assemblea generale decide di aumentare o ridurre il capitale azionario oppure di cambiare la moneta del capitale azionario, la deliberazione relativa al margine di variazione del capitale decade. Lo statuto è modificato di conseguenza.
+
+<sup>2</sup> Se l’assemblea generale decide di introdurre un capitale condizionale, il limite superiore e il limite inferiore del margine di variazione del capitale sono innalzati nella misura corrispondente all’aumento del capitale azionario. In luogo di quanto precede, l’assemblea generale può autorizzare in seguito il consiglio d’amministrazione ad aumentare il capitale con capitale condizionale, entro i limiti del margine di variazione esistente.
+
+[^653v-1]: Introdotto dal n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### V. Azioni privilegiate
 
 ### 1. Condizioni
 
-[^part3-tit26-chap1-lvlK-lvlIII-lvl1-1]
+[^part3-tit26-chap1-lvlH-lvlV-lvl1-1]
 
-[^part3-tit26-chap1-lvlK-lvlIII-lvl1-1]: Nuovo testo giusta il n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^part3-tit26-chap1-lvlH-lvlV-lvl1-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 654
 
@@ -9566,9 +9862,9 @@ Entro tre mesi dalla chiusura dell’esercizio, il consiglio d’amministrazione
 
 ### 2. Diritti inerenti alle azioni privilegiate
 
-[^part3-tit26-chap1-lvlK-lvlIII-lvl2-1]
+[^part3-tit26-chap1-lvlH-lvlV-lvl2-1]
 
-[^part3-tit26-chap1-lvlK-lvlIII-lvl2-1]: Nuovo testo giusta il n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^part3-tit26-chap1-lvlH-lvlV-lvl2-1]: Nuovo testo giusta il n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 
 #### Art. 656
 
@@ -9576,21 +9872,39 @@ Entro tre mesi dalla chiusura dell’esercizio, il consiglio d’amministrazione
 
 <sup>2</sup> Possono essere accordati privilegi specialmente nella ripartizione dei dividendi, con o senza diritto a sopraddividendi, e in quella dell’avanzo della liquidazione, come pure a proposito della offerta in opzione di nuove azioni che fossero emesse.
 
-### L. Buoni di partecipazione
+### J. Buoni di partecipazione
 
 ### I. Nozione; disposizioni applicabili
+
+[^part3-tit26-chap1-lvlJ-1]
+
+[^part3-tit26-chap1-lvlJ-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 656a
 
 [^656a-1]
 
-<sup>1</sup> Lo statuto può prevedere un capitale di partecipazione suddiviso in quote (buoni di partecipazione). Tali buoni di partecipazione sono emessi contro un conferimento, hanno un valore nominale e non accordano diritto di voto.
+<sup>1</sup> Lo statuto può prevedere un capitale di partecipazione suddiviso in quote (buoni di partecipazione). Tali buoni di partecipazione devono essere emessi nella medesima moneta del capitale azionario. Sono emessi contro un conferimento, hanno un valore nominale e non accordano diritto di voto.[^656a-2]
 
 <sup>2</sup> Salvo disposizione contraria della legge, le norme sul capitale azionario, sull’azione e sull’azionista sono applicabili anche al capitale di partecipazione, al buono di partecipazione e al partecipante.
 
 <sup>3</sup> I buoni di partecipazione devono essere designati come tali.
 
+<sup>4</sup>
+
+Il capitale di partecipazione può essere creato:
+
+- 1\. all’atto della costituzione della società;
+- 2\. mediante aumento ordinario del capitale;
+- 3\. mediante aumento del capitale con capitale condizionale;
+- 4\. nell’ambito di un margine di variazione del capitale.[^656a-3]
+
+<sup>5</sup> Per la conversione di azioni in buoni di partecipazione occorre il consenso di tutti gli azionisti interessati.[^656a-4]
+
 [^656a-1]: Introdotto dal n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^656a-2]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^656a-3]: Introdotto dal n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^656a-4]: Introdotto dal n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### II. Capitale di partecipazione e capitale azionario
 
@@ -9598,17 +9912,43 @@ Entro tre mesi dalla chiusura dell’esercizio, il consiglio d’amministrazione
 
 [^656b-1]
 
-<sup>1</sup> Il capitale di partecipazione non può eccedere il doppio del capitale azionario.
+<sup>1</sup> L’ammontare del capitale di partecipazione costituito da buoni di partecipazione quotati in borsa non può eccedere il decuplo del capitale azionario iscritto nel registro di commercio. L’ammontare residuo del capitale di partecipazione non può eccedere il doppio del capitale azionario iscritto nel registro di commercio.
 
-<sup>2</sup> Le disposizioni sul capitale minimo e sui conferimenti minimi totali non sono applicabili.
+<sup>2</sup> Le disposizioni sul capitale minimo non sono applicabili.
 
-<sup>3</sup> In materia di limitazione dell’acquisto delle azioni proprie, di riserva generale, di istituzione di una verifica speciale contro la volontà dell’assemblea generale e di avviso obbligatorio in caso di perdita di capitale, il capitale di partecipazione va aggiunto al capitale azionario.
+<sup>3</sup>
 
-<sup>4</sup> L’aumento autorizzato o condizionale del capitale azionario e del capitale di partecipazione non può eccedere in totale la metà della somma del capitale azionario e del capitale di partecipazione esistenti.
+Il capitale di partecipazione va sommato al capitale azionario quando si tratta di:
 
-<sup>5</sup> Il capitale di partecipazione può essere creato mediante la procedura dell’aumento autorizzato o condizionale.
+- 1\. costituire la riserva legale da utili;
+- 2\. impiegare le riserve legali da capitale e le riserve legali da utili;
+- 3\. accertare l’esistenza di un bilancio in disavanzo o di una perdita di capitale;
+- 4\. definire i limiti di un aumento del capitale con capitale condizionale;
+- 5\. determinare il limite inferiore e superiore del margine di variazione del capitale.
 
-[^656b-1]: Introdotto dal n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+<sup>4</sup>
+
+I valori soglia vanno calcolati separatamente per gli azionisti e i partecipanti nei seguenti casi:
+
+- 1\. l’istituzione di una verifica speciale nel caso in cui l’assemblea generale abbia respinto tale proposta;
+- 2\. lo scioglimento della società per sentenza del giudice;
+- 3\. l’annuncio dell’avente diritto economico secondo l’articolo 697*j*.
+
+<sup>5</sup>
+
+I valori soglia vanno calcolati in base:
+
+- 1\. alle azioni emesse, per l’acquisto di azioni proprie;
+- 2\. ai buoni di partecipazione emessi, per l’acquisto di propri buoni di partecipazione.
+
+<sup>6</sup>
+
+Essi vanno calcolati esclusivamente in base al capitale azionario per quanto concerne:
+
+- 1\. il diritto di chiedere la convocazione dell’assemblea generale;
+- 2\. il diritto di chiedere l’iscrizione di oggetti all’ordine del giorno e il diritto di proposta.
+
+[^656b-1]: Introdotto dal n. I della LF del 4 ott. 1991 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### III. Statuto giuridico del partecipante
 
@@ -9620,13 +9960,19 @@ Entro tre mesi dalla chiusura dell’esercizio, il consiglio d’amministrazione
 
 <sup>1</sup> Il partecipante non ha diritto di voto né, se lo statuto non stabilisce altrimenti, diritti ad esso inerenti.
 
-<sup>2</sup> Sono considerati diritti inerenti al diritto di voto il diritto di esigere la convocazione dell’assemblea generale e di prendervi parte, il diritto di ottenere ragguagli, di consultare documenti e di proposta.
+<sup>2</sup> Sono considerati diritti inerenti al diritto di voto il diritto di esigere la convocazione dell’assemblea generale e di prendervi parte, il diritto di ottenere ragguagli, di consultare documenti, di chiedere l’iscrizione di oggetti all’ordine del giorno e di proposta.[^656c-2]
 
-<sup>3</sup> Se lo statuto non gli accorda il diritto di ottenere ragguagli, di consultare documenti o di proporre l’istituzione di una verifica speciale (art. 697*a* segg.), il partecipante può chiedere per scritto all’assemblea generale di ottenere ragguagli, di consultare documenti o di istituire una verifica speciale.
+<sup>3</sup> Alle stesse condizioni previste per l’azionista, il partecipante ha diritto di chiedere l’istituzione di una verifica speciale. Se lo statuto non gli accorda diritti più ampi, il partecipante può chiedere per scritto all’assemblea generale di ottenere ragguagli, di consultare documenti o di istituire una verifica speciale.[^656c-3]
 
 [^656c-1]: Introdotto dal n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^656c-2]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^656c-3]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-### 2. Comunicazione della convocazione e delle deliberazioni dell’assemblea generale
+### 2. Comunicazione della convocazione e informazione sulle deliberazioni dell’assemblea generale
+
+[^part3-tit26-chap1-lvlJ-lvlII-lvl2-1]
+
+[^part3-tit26-chap1-lvlJ-lvlII-lvl2-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 656d
 
@@ -9634,9 +9980,10 @@ Entro tre mesi dalla chiusura dell’esercizio, il consiglio d’amministrazione
 
 <sup>1</sup> La convocazione all’assemblea generale è comunicata ai partecipanti con l’indicazione degli oggetti all’ordine del giorno e le proposte.
 
-<sup>2</sup> Ogni deliberazione dell’assemblea generale è posta senza indugio a disposizione dei partecipanti presso la sede della società e presso quella delle sue succursali iscritte nel registro di commercio perché ne possano prendere conoscenza. Tale deposito deve essere segnalato nella comunicazione destinata ai partecipanti.
+<sup>2</sup> Ogni partecipante può chiedere che il verbale gli sia reso accessibile entro 30 giorni dall’assemblea generale.[^656d-2]
 
 [^656d-1]: Introdotto dal n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^656d-2]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 3. Rappresentanza in seno al consiglio d’amministrazione
 
@@ -9680,7 +10027,11 @@ Lo statuto può accordare ai partecipanti il diritto di avere un rappresentante 
 
 [^656g-1]: Introdotto dal n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 
-### M. Buoni di godimento
+### K. Buoni di partecipazione
+
+[^part3-tit26-chap1-lvlK-1]
+
+[^part3-tit26-chap1-lvlK-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 657
 
@@ -9704,19 +10055,21 @@ Lo statuto può accordare ai partecipanti il diritto di avere un rappresentante 
 
 [^658-1]: Abrogato dal n. I della LF del 4 ott. 1991, con effetto dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 
-### N. Azioni proprie
+### L. Azioni proprie
 
-### I. Limitazione dell’acquisto
+### I. Condizioni e limitazioni dell’acquisto
 
 #### Art. 659
 
 [^659-1]
 
-<sup>1</sup> La società può acquistare azioni proprie solo se possiede capitale proprio liberamente disponibile equivalente all’ammontare dei mezzi necessari per l’acquisto, e se il valore nominale complessivo di tali azioni non eccede il 10 per cento del capitale azionario.
+<sup>1</sup> La società può acquistare azioni proprie solo se possiede capitale proprio liberamente disponibile equivalente al valore d’acquisto.
 
-<sup>2</sup> Se sono acquistate azioni nominative nell’ambito di una restrizione della trasferibilità, il limite massimo è del 20 per cento. Nella misura in cui eccedono il 10 per cento del capitale azionario, le azioni proprie devono, nel termine di due anni, essere alienate o annullate mediante una riduzione del capitale.
+<sup>2</sup> L’acquisto di azioni proprie è limitato al 10 per cento del capitale azionario iscritto nel registro di commercio.
 
-[^659-1]: Nuovo testo giusta il n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+<sup>3</sup> Se le azioni sono acquistate nell’ambito di una restrizione della trasferibilità o di un’azione di scioglimento, il limite massimo è del 20 per cento. Nella misura in cui eccedono il 10 per cento del capitale azionario, le azioni proprie devono, nel termine di due anni, essere alienate o soppresse mediante una riduzione del capitale.
+
+[^659-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### II. Conseguenze dell’acquisto
 
@@ -9724,25 +10077,27 @@ Lo statuto può accordare ai partecipanti il diritto di avere un rappresentante 
 
 [^659a-1]
 
-<sup>1</sup> Il diritto di voto delle azioni proprie e i diritti ad esso inerenti sono sospesi.
+<sup>1</sup> Se la società acquista azioni proprie, il diritto di voto di queste azioni e i diritti ad esso inerenti sono sospesi.
 
-<sup>2</sup> La società è tenuta a costituire per le azioni proprie una riserva a sé stante il cui ammontare corrisponde al loro valore d’acquisto.
+<sup>2</sup> Il diritto di voto e i diritti ad esso inerenti sono sospesi anche qualora la società alieni azioni proprie e ne convenga il riacquisto o la restituzione.
 
-[^659a-1]: Introdotto dal n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+<sup>3</sup> Se il diritto di voto è esercitato nonostante sia sospeso, si applicano le disposizioni sulla partecipazione illecita all’assemblea generale (art. 691).
 
-### III. Acquisto da parte di filiali
+<sup>4</sup> La società è tenuta a iscrivere a bilancio, quale posta negativa del capitale proprio (art. 959*a* cpv. 2 n. 3 lett. e), un importo corrispondente al valore d’acquisto delle azioni proprie.
+
+[^659a-1]: Introdotto dal n. I della LF del 4 ott. 1991 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### III. Azioni proprie in seno al gruppo
 
 #### Art. 659b
 
 [^659b-1]
 
-<sup>1</sup> Se una società ha una partecipazione maggioritaria in proprie filiali, le stesse limitazioni e conseguenze previste per il caso d’acquisto delle azioni proprie valgono per l’acquisto delle sue azioni da parte di tali filiali.
+<sup>1</sup> Se una società controlla una o più imprese (art. 963), all’acquisto delle sue azioni da parte di tali imprese si applicano per analogia le condizioni, limitazioni e conseguenze previste per l’acquisto di azioni proprie da parte della società.
 
-<sup>2</sup> Se una società acquista una partecipazione maggioritaria in un’altra società che, a sua volta, possiede azioni della società acquirente, queste ultime azioni sono considerate azioni proprie della società acquirente.
+<sup>2</sup> Per le azioni di cui al capoverso 1, la società controllante è tenuta a costituire una riserva legale da utili a sé stante il cui ammontare corrisponda al loro valore d’acquisto.
 
-<sup>3</sup> L’obbligo di costituire la riserva incombe alla società che detiene la partecipazione maggioritaria.
-
-[^659b-1]: Introdotto dal n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^659b-1]: Introdotto dal n. I della LF del 4 ott. 1991 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### Capo secondo: Diritti ed obblighi degli azionisti
 
@@ -9792,83 +10147,21 @@ Salvo diversa disposizione dello statuto, le quote d’utili netti e d’avanzo 
 
 [^663a663b-1]: Introdotti dal n. I della LF del 4 ott. 1991 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Abrogati dal n. I 1 della LF del 23 dic. 2011 (Diritto contabile), con effetto dal 1° gen. 2013 ([RU 2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810); [FF 2008 1321](https://fedlex.data.admin.ch/eli/fga/2008/416)).
 
-### B. Relazione sulla gestione
+### B. ...
 
-[^part3-tit26-chap2-lvlB-1]
-
-[^part3-tit26-chap2-lvlB-1]: Nuovo testo giusta il n. I 1 della LF del 23 dic. 2011 (Diritto contabile), in vigore dal 1° gen. 2013 ([RU 2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810); [FF 2008 1321](https://fedlex.data.admin.ch/eli/fga/2008/416)).
-
-### I. Indicazioni supplementari per le società con azioni quotate in borsa
-
-### 1. Retribuzioni
+### I. ...
 
 #### Art. 663b<sup>bis</sup>
 
 [^663bbis-1]
 
-<sup>1</sup>
-
-Le società con azioni quotate in borsa sono tenute ad indicare nell’allegato del bilancio:
-
-- 1\. tutte le retribuzioni da esse direttamente o indirettamente corrisposte a membri attuali del consiglio d’amministrazione;
-- 2\. tutte le retribuzioni da esse direttamente o indirettamente corrisposte a persone cui il consiglio d’amministrazione ha delegato in tutto o in parte la gestione della società (direzione);
-- 3\. tutte le retribuzioni da esse direttamente o indirettamente corrisposte a membri attuali del consiglio consultivo;
-- 4\. le retribuzioni da esse direttamente o indirettamente corrisposte a ex membri del consiglio d’amministrazione, della direzione e del consiglio consultivo, sempre che abbiano una relazione con l’attività svolta a suo tempo da costoro in veste di organi della società o non siano usuali sul mercato;
-- 5\. le retribuzioni non usuali sul mercato da esse direttamente o indirettamente corrisposte a persone vicine a quelle menzionate nei numeri 1–4.
-
-<sup>2</sup>
-
-Sono considerate retribuzioni in particolare:
-
-- 1\. gli onorari, i salari, i bonus e gli accrediti;
-- 2\. le partecipazioni agli utili, le partecipazioni alla cifra d’affari e altre forme di partecipazione al risultato dell’esercizio;
-- 3\. le prestazioni in natura;
-- 4\. l’attribuzione di partecipazioni, di diritti di conversione e d’opzione;
-- 5\. le indennità di partenza;
-- 6\. le fideiussioni, gli impegni di garanzia, le costituzioni di pegni a favore di terzi e altre forme di garanzia;
-- 7\. la rinuncia a crediti;
-- 8\. le spese per il conseguimento di prestazioni previdenziali o che ne accrescono l’entità;
-- 9\. tutte le prestazioni che retribuiscono lavori supplementari.
-
-<sup>3</sup>
-
-Nell’allegato del bilancio vanno inoltre indicati:
-
-- 1\. tutti i mutui e crediti non ancora rimborsati concessi ai membri attuali del consiglio d’amministrazione, della direzione e del consiglio consultivo;
-- 2\. i mutui e crediti non ancora rimborsati concessi a condizioni non usuali sul mercato a ex membri del consiglio d’amministrazione, della direzione e del consiglio consultivo;
-- 3\. i mutui e crediti non ancora rimborsati concessi a condizioni non usuali sul mercato a persone vicine a quelle menzionate nei numeri 1 e 2.
-
-<sup>4</sup>
-
-Le indicazioni concernenti le retribuzioni e i crediti devono comprendere:
-
-- 1\. l’importo totale corrisposto al consiglio d’amministrazione e l’importo percepito da ciascun membro, con menzione del suo nominativo e della sua funzione;
-- 2\. l’importo totale corrisposto alla direzione e l’importo massimo percepito da un singolo membro, con menzione del suo nominativo e della sua funzione;
-- 3\. l’importo totale corrisposto al consiglio consultivo e l’importo percepito da ciascun membro, con menzione del suo nominativo e della sua funzione.
-
-<sup>5</sup> Le retribuzioni e i crediti concessi a persone vicine ai membri del consiglio d’amministrazione o della direzione vanno dichiarati separatamente. Non è necessario indicare i nominativi di tali persone. Per il rimanente, sono applicabili per analogia le norme concernenti le indicazioni relative alle retribuzioni e ai crediti concessi ai membri del consiglio d’amministrazione e della direzione.
-
-[^663bbis-1]: Introdotto dal n. I della LF del 7 ott. 2005 (trasparenza delle retribuzioni corrisposte ai membri del consiglio d’amministrazione e della direzione), in vigore dal 1° gen. 2007 ([RU 2006 2629](https://fedlex.data.admin.ch/eli/oc/2006/401); [FF 2004 3995](https://fedlex.data.admin.ch/eli/fga/2004/731)).
-
-### 2. Partecipazioni
-
-[^part3-tit26-chap2-lvlB-lvlI-lvl2-1]
-
-[^part3-tit26-chap2-lvlB-lvlI-lvl2-1]: Nuovo testo giusta il n. I 1 della LF del 23 dic. 2011 (Diritto contabile), in vigore dal 1° gen. 2013 ([RU 2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810); [FF 2008 1321](https://fedlex.data.admin.ch/eli/fga/2008/416)).
+[^663bbis-1]: Introdotto dal n. I della LF del 7 ott. 2005 (trasparenza delle retribuzioni corrisposte ai membri del consiglio d’amministrazione e della direzione) ([RU 2006 2629](https://fedlex.data.admin.ch/eli/oc/2006/401); [FF 2004 3995](https://fedlex.data.admin.ch/eli/fga/2004/731)). Abrogato dal n. I della LF del 19 giu. 2020 (Diritto della società anonima), con effetto dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 663c
 
 [^663c-1]
 
-<sup>1</sup> Le società con azioni quotate in borsa sono tenute, in quanto li conoscano o li dovrebbero conoscere, ad indicare, nell’allegato del bilancio, gli azionisti importanti e le loro partecipazioni[^663c-2].
-
-<sup>2</sup> Sono azionisti importanti gli azionisti e i gruppi di azionisti legati da convenzioni di voto, la cui partecipazione eccede il 5 per cento dell’insieme dei voti. Se lo statuto prevede un limite inferiore, in per cento, del numero di azioni nominative (art. 685*d* cpv. 1), questo limite è determinante per l’obbligo di indicare.
-
-<sup>3</sup> Vanno dichiarati anche le partecipazioni alla società e i diritti di conversione e di opzione detenuti da ciascun membro attuale del consiglio d’amministrazione, della direzione e del consiglio consultivo, incluse le partecipazioni delle persone a lui vicine, con indicazione del suo nominativo e della sua funzione.[^663c-3]
-
-[^663c-1]: Introdotto dal n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-[^663c-2]: Testo rettificato dalla Commissione di redazione dell’AF (art. 33 LRC – [RU 1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)).
-[^663c-3]: Introdotto dal n. I della LF del 7 ott. 2005 (trasparenza delle retribuzioni corrisposte ai membri del consiglio d’amministrazione e della direzione), in vigore dal 1° gen. 2007 ([RU 2006 2629](https://fedlex.data.admin.ch/eli/oc/2006/401); [FF 2004 3995](https://fedlex.data.admin.ch/eli/fga/2004/731)).
+[^663c-1]: Introdotto dal n. I della LF del 4 ott. 1991 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Abrogato dal n. I della LF del 19 giu. 2020 (Diritto della società anonima), con effetto dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 663d a 663h
 
@@ -9906,125 +10199,96 @@ Le indicazioni concernenti le retribuzioni e i crediti devono comprendere:
 
 [^669-1]: Abrogato dal n. I 1 della LF del 23 dic. 2011 (Diritto contabile), con effetto dal 1° gen. 2013 ([RU 2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810); [FF 2008 1321](https://fedlex.data.admin.ch/eli/fga/2008/416)).
 
-### II. Valutazione e rivalutazione
-
-[^part3-tit26-chap2-lvlB-lvlII-1]
-
-[^part3-tit26-chap2-lvlB-lvlII-1]: Nuovo testo giusta il n. I 1 della LF del 23 dic. 2011 (Diritto contabile), in vigore dal 1° gen. 2013 ([RU 2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810); [FF 2008 1321](https://fedlex.data.admin.ch/eli/fga/2008/416)).
-
 #### Art. 670
 
 [^670-1]
 
-<sup>1</sup> Se la metà del capitale azionario e delle riserve legali non è più coperta in seguito ad una perdita risultante dal bilancio, i fondi o le partecipazioni il cui valore reale ecceda il prezzo d’acquisto o di costo possono essere rivalutati fino a concorrenza di tale valore, allo scopo di equilibrare il bilancio deficitario. L’ammontare della rivalutazione deve figurare separatamente nel bilancio come riserva di rivalutazione.
-
-<sup>2</sup> La rivalutazione può aver luogo solo se un revisore abilitato attesti per scritto, a destinazione dell’assemblea generale, che sono adempiute le condizioni legali.[^670-2]
-
-[^670-1]: Nuovo testo giusta il n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-[^670-2]: Nuovo testo giusta il n. I 3 della LF del 16 dic. 2005 (Diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), in vigore dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^670-1]: Abrogato dal n. I della LF del 19 giu. 2020 (Diritto della società anonima), con effetto dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### C. Riserve
 
-### I. Riserve legali
-
-### 1. Riserva generale
+### I. Riserva legale da capitale
 
 #### Art. 671
 
 [^671-1]
 
-<sup>1</sup> Il 5 per cento dell’utile dell’esercizio è assegnato alla riserva generale sino a che questa abbia raggiunto il 20 per cento del capitale azionario versato.
+<sup>1</sup>
 
-<sup>2</sup>
+Sono assegnati alla riserva legale da capitale:
 
-Sono altresì assegnati a questa riserva, anche quando essa abbia raggiunto l’ammontare legale:
+- 1\. il ricavo proveniente dall’emissione di azioni sopra la pari, dedotte le spese d’emissione;
+- 2\. i versamenti non rimborsati su azioni annullate (art. 681 cpv. 2), in quanto non sia subita alcuna perdita sulle nuove azioni emesse;
+- 3\. altri conferimenti e versamenti suppletivi effettuati da titolari di titoli di partecipazione.
 
-- 1\. il ricavo proveniente dall’emissione di azioni ed eccedente il loro valore nominale, dopo copertura delle spese d’emissione, nella misura in cui non sia utilizzato per ammortamenti o a scopi di previdenza;
-- 2\. il saldo dei versamenti effettuati su azioni annullate, diminuito della perdita che fosse stata subita con le azioni emesse in loro sostituzione;
-- 3\. il 10 per cento degli importi distribuiti a titolo di partecipazione all’utile dopo il versamento di un dividendo del 5 per cento.
+<sup>2</sup> La riserva legale da capitale può essere rimborsata agli azionisti se le riserve legali da capitale e da utili, dedotte eventuali perdite, eccedono la metà del capitale azionario iscritto nel registro di commercio.
 
-<sup>3</sup> La riserva generale, in quanto non superi la metà del capitale azionario, può essere adoperata solo per sopperire a perdite o per prendere misure che permettano all’impresa di reggersi in tempo di cattivo andamento degli affari, d’evitare la disoccupazione dei propri dipendenti o d’attenuarne le conseguenze.
+<sup>3</sup> Le società il cui scopo consiste prevalentemente nella partecipazione ad altre imprese (società holding) possono rimborsare agli azionisti la riserva legale da capitale se quest’ultima e la riserva legale da utili eccedono il 20 per cento del capitale azionario iscritto nel registro di commercio.
 
-<sup>4</sup> Le disposizioni contenute nel capoverso 2 numero 3 e nel capoverso 3 non si applicano alle società il cui scopo consiste prevalentemente nella partecipazione ad altre imprese (società holding).
+<sup>4</sup> Nel calcolare i valori soglia secondo i capoversi 2 e 3 non può essere tenuto conto della riserva legale da utili per azioni proprie in seno al gruppo (art. 659*b*) né della riserva legale da utili risultante da rivalutazioni (art. 725*c*).
 
-<sup>5</sup> ...[^671-2]
+[^671-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-<sup>6</sup> ...[^671-3]
+#### Art. 671a e 671b
 
-[^671-1]: Nuovo testo giusta il n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-[^671-2]: Abrogato dal n. II 2 della LF del 20 mar. 2009 sulla Riforma delle ferrovie 2, con effetto dal 1° gen. 2010 ([RU 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [FF 2005 2183](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2457](https://fedlex.data.admin.ch/eli/fga/2007/425)).
-[^671-3]: Abrogato dall’all. n. II 1 della LF del 17 dic. 2004 sulla sorveglianza degli assicuratori, con effetto dal 1° gen. 2006 ([RU 2005 5269](https://fedlex.data.admin.ch/eli/oc/2005/734); [FF 2003 3233](https://fedlex.data.admin.ch/eli/fga/2003/577)).
+[^671a671b-1]
 
-### 2. Riserva per azioni proprie
+[^671a671b-1]: Introdotti dal n. I della LF del 4 ott. 1991 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Abrogati dal n. I della LF del 19 giu. 2020 (Diritto della società anonima), con effetto dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-#### Art. 671a
-
-[^671a-1]
-
-La riserva per azioni proprie può essere sciolta nella misura dei valori d’acquisto se le azioni sono alienate od annullate.
-
-[^671a-1]: Introdotto dal n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-
-### 3. Riserva di rivalutazione
-
-#### Art. 671b
-
-[^671b-1]
-
-La riserva di rivalutazione può essere sciolta soltanto se trasformata in capitale azionario, nonché mediante riammortamento o alienazione degli attivi rivalutati.
-
-[^671b-1]: Introdotto dal n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-
-### II. Riserve statutarie
-
-### 1. In genere
+### II. Riserva legale da utili
 
 #### Art. 672
 
 [^672-1]
 
-<sup>1</sup> Lo statuto può disporre che alla riserva sia assegnata una frazione dell’utile dell’esercizio maggiore del 5 per cento e che la riserva debba ammontare a più del 20 per cento legalmente prescritto del capitale azionario versato.
+<sup>1</sup> Alla riserva legale da utili va assegnato il 5 per cento dell’utile dell’esercizio. Prima di assegnare tale importo alla riserva va eliminata l’eventuale perdita riportata.
 
-<sup>2</sup> Esso può prevedere la costituzione di altre riserve e determinarne la destinazione e l’impiego.
+<sup>2</sup> La riserva legale da utili va alimentata sino a che abbia raggiunto, unitamente alla riserva legale da capitale, la metà del capitale azionario iscritto nel registro di commercio. Le società holding devono alimentare la riserva legale da utili sino a che abbia raggiunto, unitamente alla riserva legale da capitale, il 20 per cento del capitale azionario iscritto nel registro di commercio.
 
-[^672-1]: Nuovo testo giusta il n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+<sup>3</sup> Alla determinazione e all’impiego della riserva legale da utili si applica per analogia l’articolo 671 capoversi 2, 3 e 4.
 
-### 2. A scopo di previdenza a favore di lavoratori
+[^672-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### III. Riserve facoltative da utili
 
 #### Art. 673
 
 [^673-1]
 
-Lo statuto può in particolare prevedere anche la costituzione di riserve destinate a creare e sostenere istituzioni di previdenza a favore di lavoratori dell’impresa.
+<sup>1</sup> L’assemblea generale può prevedere nello statuto o deliberare la costituzione di riserve facoltative da utili.
 
-[^673-1]: Nuovo testo giusta il n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+<sup>2</sup> Le riserve facoltative da utili possono essere costituite soltanto se ciò è giustificato per garantire durevolmente la prosperità dell’impresa, tenendo conto degli interessi di tutti gli azionisti.
 
-### III. Relazione tra il dividendo e le riserve
+<sup>3</sup> L’assemblea generale delibera circa l’impiego delle riserve facoltative da utili; sono fatte salve le disposizioni sulla compensazione delle perdite.
+
+[^673-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### IV. Compensazione delle perdite
 
 #### Art. 674
 
 [^674-1]
 
-<sup>1</sup> Il dividendo non può essere determinato prima che siano state assegnate alle riserve legali e statutarie le somme loro destinate dalla legge e dallo statuto.
+<sup>1</sup>
 
-<sup>2</sup>
+Le perdite sono compensate con, nell’ordine:
 
-L’assemblea generale può deliberare la costituzione di riserve che non siano previste dalla legge e dallo statuto o che ne eccedano le esigenze, nella misura in cui ciò sia:
+- 1\. l’utile riportato;
+- 2\. le riserve facoltative da utili;
+- 3\. la riserva legale da utili;
+- 4\. la riserva legale da capitale.
 
-- 1\. necessario per scopi di sostituzione;
-- 2\. giustificato per garantire durevolmente la prosperità dell’impresa o la ripartizione di un dividendo quanto costante possibile, tenendo conto degli interessi di tutti gli azionisti.
+<sup>2</sup> Anziché essere compensate con la riserva legale da utili o con la riserva legale da capitale, le perdite rimanenti possono essere riportate in tutto o in parte nel nuovo conto annuale.
 
-<sup>3</sup> L’assemblea generale può parimenti, anche quando ciò non sia previsto dallo statuto, costituire riserve prelevate sull’utile risultante dal bilancio, con cui creare e sostenere istituzioni di previdenza a favore di lavoratori dell’impresa o destinate ad altri scopi di previdenza.
-
-[^674-1]: Nuovo testo giusta il n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^674-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### D. Dividendi, interessi per il periodo d’avviamento e tantièmes
 
 ### I. Dividendi
 
-[^part3-tit26-chap2-lvlD-lvlI-1]
+[^part3-tit26-chap2-lvlE-lvlI-1]
 
-[^part3-tit26-chap2-lvlD-lvlI-1]: Nuovo testo giusta il n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^part3-tit26-chap2-lvlE-lvlI-1]: Nuovo testo giusta il n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 
 #### Art. 675
 
@@ -10032,9 +10296,30 @@ L’assemblea generale può deliberare la costituzione di riserve che non siano 
 
 <sup>2</sup> Possono essere prelevati dividendi solo sopra l’utile risultante dal bilancio e sulle riserve all’uopo costituite.[^675-1]
 
-[^675-1]: Nuovo testo giusta il n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+<sup>3</sup> I dividendi possono essere determinati soltanto dopo che alla riserva legale da utili e alle riserve facoltative da utili siano state assegnate le somme loro destinate.[^675-2]
 
-### II. Interessi per il periodo d’avviamento
+[^675-1]: Nuovo testo giusta il n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^675-2]: Introdotto dal n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### II. Acconti sui dividendi
+
+#### Art. 675a
+
+[^675a-1]
+
+<sup>1</sup> Basandosi su un conto intermedio, l’assemblea generale può deliberare il versamento di acconti sui dividendi.
+
+<sup>2</sup> L’ufficio di revisione deve verificare il conto intermedio prima della deliberazione dell’assemblea generale. La verifica non è necessaria se la società non è tenuta a sottoporre il proprio conto annuale a una revisione limitata da parte di un ufficio di revisione. È inoltre possibile rinunciare alla verifica se tutti gli azionisti hanno acconsentito al versamento di acconti sui dividendi e il soddisfacimento dei crediti non ne risulta compromesso.
+
+<sup>3</sup> Si applicano inoltre le disposizioni sui dividendi (art. 660 cpv. 1 e 3, 661, 671–674, 675 cpv. 2, 677, 678, 731 e 958*e*).
+
+[^675a-1]: Introdotto dal n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### III. Interessi per il periodo d’avviamento
+
+[^part3-tit26-chap2-lvlE-lvlIII-1]
+
+[^part3-tit26-chap2-lvlE-lvlIII-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 676
 
@@ -10042,7 +10327,11 @@ L’assemblea generale può deliberare la costituzione di riserve che non siano 
 
 <sup>2</sup> Se l’impresa è ampliata mediante l’emissione di nuove azioni, la deliberazione d’aumento del capitale sociale può attribuire alle nuove azioni interessi, in una misura determinata, da iscriversi nel conto d’impianto, fino ad una data esattamente indicata e che non potrà essere posteriore al principio dell’esercizio dell’impresa ampliata.
 
-### III. Partecipazione agli utili (tantièmes)
+### IV. Partecipazione agli utili (tantièmes)
+
+[^part3-tit26-chap2-lvlE-lvlIV-1]
+
+[^part3-tit26-chap2-lvlE-lvlIV-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 677
 
@@ -10060,17 +10349,37 @@ Quote di utili possono essere attribuite agli amministratori solo se prelevate s
 
 [^678-1]
 
-<sup>1</sup> Gli azionisti e gli amministratori, come pure le persone loro vicine, che abbiano riscosso indebitamente e in mala fede dividendi, tantièmes, altre quote di utili o interessi per il periodo d’avviamento, sono tenuti a restituirli.
+<sup>1</sup> Gli azionisti, i membri del consiglio d’amministrazione, le persone che si occupano della gestione e i membri del consiglio consultivo, come pure le persone loro vicine, sono tenuti a restituire dividendi, tantièmes, altre quote di utili, retribuzioni, interessi per il periodo d’avviamento, riserve legali da capitale e da utili o altre prestazioni che abbiano riscosso indebitamente.
 
-<sup>2</sup> Essi devono restituire anche altre prestazioni della società, in quanto siano manifestamente sproporzionate rispetto alla loro controprestazione e alla situazione economica della società.
+<sup>2</sup> Se la società ha assunto beni da queste persone o ha concluso con esse altri negozi giuridici, queste sono tenute alla restituzione, nella misura in cui vi sia una sproporzione manifesta tra prestazione e controprestazione.
 
-<sup>3</sup> Il diritto di chiedere la restituzione spetta alla società e all’azionista; la domanda giudiziale di quest’ultimo è volta ad una prestazione alla società.
+<sup>3</sup> Si applica l’articolo 64.
 
-<sup>4</sup> L’obbligo di restituzione si prescrive in cinque anni dal momento in cui la prestazione è stata ricevuta.
+<sup>4</sup> Il diritto di chiedere la restituzione spetta alla società e all’azionista. La domanda dell’azionista è volta ad una prestazione alla società.
 
-[^678-1]: Nuovo testo giusta il n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+<sup>5</sup> L’assemblea generale può deliberare che la società proponga azione di restituzione. Può incaricare il consiglio d’amministrazione o un rappresentante di condurre la causa.
 
-### II. Partecipazioni agli utili in caso di fallimento della società
+<sup>6</sup> Nel fallimento della società si applica per analogia l’articolo 757.
+
+[^678-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### II. Prescrizione
+
+#### Art. 678a
+
+[^678a-1]
+
+<sup>1</sup> L’azione di restituzione si prescrive in tre anni dal momento in cui la società o l’azionista ha avuto conoscenza del suo diritto, ma in ogni caso in dieci anni dal giorno in cui è nato tale diritto. Il termine resta sospeso durante la procedura d’istituzione di una verifica speciale e durante l’esecuzione della verifica.
+
+<sup>2</sup> Se il fatto commesso dal beneficiario costituisce un fatto punibile, l’azione di restituzione si prescrive al più presto alla scadenza del termine di prescrizione dell’azione penale. Se la prescrizione dell’azione penale si estingue a seguito di una sentenza penale di prima istanza, l’azione civile si prescrive al più presto in tre anni dalla comunicazione della sentenza.
+
+[^678a-1]: Introdotto dal n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### III. Partecipazioni agli utili in caso di fallimento della società
+
+[^part3-tit26-chap2-lvlF-lvlIII-1]
+
+[^part3-tit26-chap2-lvlF-lvlIII-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 679
 
@@ -10105,17 +10414,19 @@ Quote di utili possono essere attribuite agli amministratori solo se prelevate s
 
 <sup>3</sup> Lo statuto può anche comminare una pena convenzionale all’azionista moroso.
 
-[^681-1]: Nuovo termine giusta il n. II 1 della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^681-1]: Nuovo termine giusta il n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Di detta mod. è tenuto cono in tutte le disp. menzionate nella RU.
 
 ### 2. Diffida al pagamento
 
 #### Art. 682
 
-<sup>1</sup> Quando il consiglio d’amministrazione si proponga di dichiarare l’azionista moroso decaduto dai suoi diritti come sottoscrittore o di esigerne la pena convenzionale prevista nello statuto, essa deve diffidarlo al pagamento almeno tre volte sul *Foglio ufficiale svizzero di commercio* ed inoltre nella forma prescritta dallo statuto, assegnandogli un termine supplementare di almeno un mese a far data dall’ultima pubblicazione. Solo se l’azionista non paga neppure nel termine supplementare, esso può essere dichiarato decaduto dai suoi diritti come sottoscrittore o può essergli chiesta la pena convenzionale.
+<sup>1</sup> Quando il consiglio d’amministrazione si proponga di dichiarare l’azionista moroso decaduto dai suoi diritti come sottoscrittore o di esigerne la pena convenzionale prevista nello statuto, esso deve diffidarlo al pagamento sul Foglio ufficiale svizzero di commercio ed inoltre nella forma prescritta dallo statuto, assegnandogli un termine supplementare di almeno 30 giorni a far data dalla pubblicazione.[^682-1] Solo se l’azionista non paga neppure nel termine supplementare, esso può essere dichiarato decaduto dai suoi diritti come sottoscrittore o può essergli chiesta la pena convenzionale.
 
 <sup>2</sup> Se le azioni sono nominative, le pubblicazioni sono sostituite da una diffida, con assegno del termine supplementare, fatta per lettera raccomandata all’azionista iscritto nel libro delle azioni. In questo caso, il termine supplementare corre dal ricevimento della diffida.
 
 <sup>3</sup> L’azionista moroso risponde verso la società della perdita da essa subita nell’emissione delle azioni destinate a sostituire quelle annullate.
+
+[^682-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### G. Emissione e trasferimento delle azioni
 
@@ -10218,12 +10529,13 @@ Quote di utili possono essere attribuite agli amministratori solo se prelevate s
 
 <sup>1</sup> La società può rifiutare come azionista l’acquirente di azioni nominative quotate in borsa, soltanto se lo statuto prevede un limite massimo, in per cento, del numero di azioni nominative per le quali l’acquirente deve essere riconosciuto come azionista, e questo limite è superato.
 
-<sup>2</sup> La società può inoltre rifiutare l’iscrizione nel libro delle azioni se, su sua domanda, l’acquirente non dichiara espressamente che ha acquistato le azioni in proprio nome e per proprio conto.
+<sup>2</sup> La società può inoltre rifiutare l’acquirente se, su sua domanda, questi non dichiara espressamente che ha acquistato le azioni in proprio nome e per proprio conto, che non sono stati convenuti il riacquisto o la restituzione delle stesse e che si assume il rischio economico legato alle azioni. Non può rifiutare l’iscrizione per il solo fatto che la domanda è stata presentata dalla banca dell’acquirente.[^685d-2]
 
-<sup>3</sup> Se azioni nominative quotate[^685d-2] in borsa sono state acquistate per successione, divisione ereditaria o in virtù del regime matrimoniale dei beni, l’acquirente non può essere rifiutato come azionista.
+<sup>3</sup> Se azioni nominative quotate[^685d-3] in borsa sono state acquistate per successione, divisione ereditaria o in virtù del regime matrimoniale dei beni, l’acquirente non può essere rifiutato come azionista.
 
 [^685d-1]: Introdotto dal n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-[^685d-2]: Testo rettificato dalla Commissione di redazione dell’AF (art. 33 LRC – [RU 1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)).
+[^685d-2]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^685d-3]: Testo rettificato dalla Commissione di redazione dell’AF (art. 33 LRC – [RU 1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)).
 
 ### b. Obbligo di annunciare
 
@@ -10273,15 +10585,18 @@ Se la società non rifiuta il riconoscimento entro 20 giorni, l’acquirente è 
 
 <sup>2</sup> L’iscrizione nel libro delle azioni ha luogo soltanto ove sia provato l’acquisto in proprietà dell’azione o la costituzione di un usufrutto su di essa.
 
+<sup>2bis</sup> Le società le cui azioni sono quotate in borsa provvedono affinché i proprietari e gli usufruttuari possano presentare per via elettronica la domanda di iscrizione nel libro delle azioni.[^686-3]
+
 <sup>3</sup> La società è tenuta a far menzione sul titolo dell’avvenuta iscrizione.
 
 <sup>4</sup> Nei confronti della società si considera azionista o usufruttuario soltanto chi è iscritto nel libro delle azioni.
 
-<sup>5</sup> I documenti giustificativi su cui si fonda l’iscrizione devono essere conservati per dieci anni dopo la cancellazione del proprietario o dell’usufruttuario dal libro delle azioni.[^686-3]
+<sup>5</sup> I documenti giustificativi su cui si fonda l’iscrizione devono essere conservati per dieci anni dopo la cancellazione del proprietario o dell’usufruttuario dal libro delle azioni.[^686-4]
 
 [^686-1]: Nuovo testo giusta il n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 [^686-2]: Per. introdotto dal n. I 2 della LF del 12 dic. 2014 concernente l attuazione delle Raccomandazioni del Gruppo d’azione finanziaria rivedute nel 2012, in vigore dal 1° lug. 2015 ([RU 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 563](https://fedlex.data.admin.ch/eli/fga/2014/100)).
-[^686-3]: Introdotto dal n. I 2 della LF del 12 dic. 2014 concernente l’attuazione delle Raccomandazioni del Gruppo d’azione finanziaria rivedute nel 2012, in vigore dal 1° lug. 2015 ([RU 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 563](https://fedlex.data.admin.ch/eli/fga/2014/100)).
+[^686-3]: Introdotto dal n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^686-4]: Introdotto dal n. I 2 della LF del 12 dic. 2014 concernente l’attuazione delle Raccomandazioni del Gruppo d’azione finanziaria rivedute nel 2012, in vigore dal 1° lug. 2015 ([RU 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 563](https://fedlex.data.admin.ch/eli/fga/2014/100)).
 
 ### b. Cancellazione
 
@@ -10327,9 +10642,10 @@ Sentito l’interessato, la società può cancellare iscrizioni nel libro delle 
 
 <sup>1</sup> Negli affari sociali l’azionista esercita i suoi diritti nell’assemblea generale, in particolare quelli che concernono la designazione degli organi, l’approvazione della relazione sulla gestione e la deliberazione sull’impiego dell’utile.
 
-<sup>2</sup> Egli può rappresentare personalmente le proprie azioni nell’assemblea generale, o farle rappresentare da un terzo, il quale, salvo disposizione contraria dello statuto, non deve necessariamente essere azionista.
+<sup>2</sup> ... [^689-2]
 
 [^689-1]: Nuovo testo giusta il n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^689-2]: Abrogato dal n. I della LF del 19 giu. 2020 (Diritto della società anonima), con effetto dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 2. Legittimazione nei confronti della società
 
@@ -10339,9 +10655,16 @@ Sentito l’interessato, la società può cancellare iscrizioni nel libro delle 
 
 <sup>1</sup> Può esercitare i diritti sociali inerenti all’azione nominativa chi è iscritto nel libro delle azioni o vi è autorizzato mediante una procura scritta dell’azionista.
 
-<sup>2</sup> Può esercitare i diritti sociali inerenti all’azione al portatore chi si legittima esibendo l’azione. Il consiglio d’amministrazione può stabilire un altro modo di provare il possesso.
+<sup>2</sup> Può esercitare i diritti sociali inerenti all’azione al portatore chi si legittima esibendo l’azione. Può esercitare il diritto di voto soltanto chi partecipa all’assemblea generale e vi comunica il proprio nominativo e il proprio domicilio.[^689a-2]
+
+<sup>3</sup> Il possessore di un’azione al portatore costituita in pegno, depositata o prestata può esercitare i diritti sociali soltanto se vi è autorizzato mediante procura scritta dell’azionista.[^689a-3]
+
+<sup>4</sup> Il consiglio d’amministrazione può prevedere altre forme di legittimazione nei confronti della società, salvo disposizione contraria dello statuto.[^689a-4]
 
 [^689a-1]: Introdotto dal n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^689a-2]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^689a-3]: Introdotto dal n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^689a-4]: Introdotto dal n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 3. Rappresentanza dell’azionista
 
@@ -10351,56 +10674,92 @@ Sentito l’interessato, la società può cancellare iscrizioni nel libro delle 
 
 [^689b-1]
 
-<sup>1</sup> Chi esercita diritti sociali quale rappresentante è tenuto a seguire le istruzioni del rappresentato.
+<sup>1</sup> L’azionista può esercitare i suoi diritti sociali, in particolare il diritto di voto, per il tramite di un rappresentante di sua scelta.
 
-<sup>2</sup> Il possessore di un’azione al portatore costituita in pegno, depositata o prestata può esercitare i diritti sociali soltanto se ne è stato autorizzato dall’azionista con speciale scrittura.
+<sup>2</sup> La rappresentanza da parte di un membro di un organo della società o da parte di un depositario sono vietate nelle società le cui azioni sono quotate in borsa.
 
-[^689b-1]: Introdotto dal n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+<sup>3</sup> Il rappresentante indipendente e quello appartenente a un organo societario istituiti dalla società sono obbligati a esercitare i diritti di voto secondo le istruzioni. Se non hanno ricevuto istruzioni, si astengono. Il consiglio d’amministrazione appronta i moduli da utilizzare per conferire procure e istruzioni.
 
-### b. Da parte di un membro di un organo della società
+<sup>4</sup> L’indipendenza del rappresentante indipendente non deve essere compromessa né di fatto né in apparenza. Le disposizioni sull’indipendenza dell’ufficio di revisione nella revisione ordinaria (art. 728 cpv. 2–6) sono applicabili per analogia.
+
+<sup>5</sup> Il rappresentante indipendente può essere una persona fisica o giuridica o una società di persone.
+
+[^689b-1]: Introdotto dal n. I della LF del 4 ott. 1991 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### b. Rappresentante indipendente nelle società le cui azioni sono quotate in borsa
 
 #### Art. 689c
 
 [^689c-1]
 
-Se propone agli azionisti un membro dei suoi organi o altra persona da essa dipendente per rappresentarli in un’assemblea generale, la società è tenuta a designare altresì una persona indipendente che gli azionisti possano scegliere come loro rappresentante.
+<sup>1</sup> Nelle società le cui azioni sono quotate in borsa, il rappresentante indipendente è eletto dall’assemblea generale. Il mandato termina alla conclusione della successiva assemblea generale ordinaria. È ammessa la rielezione.
 
-[^689c-1]: Introdotto dal n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+<sup>2</sup> L’assemblea generale può revocare il rappresentante indipendente per la fine dell’assemblea generale.
 
-### c. Da parte di un depositario
+<sup>3</sup> Se l’assemblea generale non ha eletto un rappresentante indipendente, il consiglio d’amministrazione ne nomina uno per la successiva assemblea generale. Lo statuto può prevedere altre regole per rimediare a questa lacuna nell’organizzazione.
+
+<sup>4</sup>
+
+Il consiglio d’amministrazione garantisce che gli azionisti abbiano in particolare la possibilità di conferire al rappresentante indipendente:
+
+- 1\. istruzioni su ciascuna proposta che figura nella convocazione e riguarda oggetti all’ordine del giorno;
+- 2\. istruzioni generali su proposte non annunciate relative a oggetti all’ordine del giorno e a nuovi oggetti secondo l’articolo 704*b*.
+
+<sup>5</sup> Il rappresentante indipendente tratta in modo confidenziale le istruzioni impartite dall’azionista sino a che non si svolga l’assemblea generale. Può fornire alla società ragguagli generali sulle istruzioni impartitegli. Può fornirli al più presto tre giorni feriali prima dell’assemblea generale e nel corso della medesima deve comunicare il contenuto delle informazioni fornite alla società.
+
+<sup>6</sup> Le procure e le istruzioni possono essere conferite soltanto per la successiva assemblea generale. Possono essere conferite anche per via elettronica.
+
+[^689c-1]: Introdotto dal n. I della LF del 4 ott. 1991 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### c. Rappresentante indipendente e rappresentante appartenente a un organo societario nelle società le cui azioni non sono quotate in borsa
 
 #### Art. 689d
 
 [^689d-1]
 
-<sup>1</sup> Per esercitare i diritti sociali delle azioni ricevute in deposito, il rappresentante depositario chiede al deponente istruzioni per il voto, prima di ogni assemblea generale.
+<sup>1</sup> Lo statuto delle società le cui azioni non sono quotate in borsa può prevedere che un azionista possa farsi rappresentare nell’assemblea generale soltanto da un altro azionista.
 
-<sup>2</sup> Se le istruzioni del deponente non sono date tempestivamente, il rappresentante depositario esercita il diritto di voto conformemente alle istruzioni generali del deponente; in difetto di queste segue le proposte del consiglio d’amministrazione.
+<sup>2</sup> Se lo statuto contiene una tale disposizione, il consiglio d’amministrazione è tenuto a designare, su domanda di un azionista, un rappresentante indipendente o un organo cui possa essere delegato l’esercizio dei diritti di partecipazione.
 
-<sup>3</sup> Sono considerati rappresentanti depositari gli istituti soggetti alla legge dell’8 novembre 1934[^689d-2] sulle banche, come pure gli istituti finanziari soggetti alla legge del 15 giugno 2018[^689d-3] sugli istituti finanziari.[^689d-4]
+<sup>3</sup> Al più tardi dieci giorni prima dell’assemblea generale, il consiglio d’amministrazione deve in tal caso comunicare agli azionisti il nominativo della persona cui può essere affidata la rappresentanza. Se il consiglio d’amministrazione viene meno a tale obbligo, l’azionista può farsi rappresentare nell’assemblea generale da un terzo di sua scelta. Lo statuto disciplina le modalità di designazione del rappresentante.
 
-[^689d-1]: Introdotto dal n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-[^689d-2]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^689d-3]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
-[^689d-4]: Nuovo testo giusta l’all. n. II 1 della LF del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+<sup>4</sup> L’articolo 689*c* capoverso 4 si applica sia al rappresentante indipendente, sia al rappresentante appartenente a un organo della società.
 
-### d. Comunicazione
+[^689d-1]: Introdotto dal n. I della LF del 4 ott. 1991 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### d. Rappresen-tanza da parte di un depositario nelle società le cui azioni non sono quotate in borsa
 
 #### Art. 689e
 
 [^689e-1]
 
-<sup>1</sup> Gli organi, i rappresentanti indipendenti e i rappresentanti depositari comunicano alla società il numero, la specie, il valore nominale e la categoria delle azioni da essi rappresentate. In assenza di tali indicazioni, le deliberazioni dell’assemblea generale possono essere impugnate alle stesse condizioni che nel caso di partecipazione illecita all’assemblea generale.
+<sup>1</sup> Per esercitare i diritti di voto in una società le cui azioni non sono quotate in borsa, il rappresentante depositario chiede al deponente istruzioni per il voto, prima di ogni assemblea generale.
+
+<sup>2</sup> Se le istruzioni del deponente non sono date tempestivamente, il rappresentante depositario esercita il diritto di voto conformemente alle istruzioni generali del deponente; in difetto di queste, si astiene dal voto.
+
+<sup>3</sup> Sono considerati rappresentanti depositari gli istituti assoggettati alla legge dell’8 novembre 1934[^689e-2] sulle banche e gli istituti finanziari ai sensi della legge del 15 giugno 2018[^689e-3] sugli istituti finanziari.
+
+[^689e-1]: Introdotto dal n. I della LF del 4 ott. 1991 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^689e-2]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^689e-3]: [RS 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+
+### e. Comunicazione
+
+#### Art. 689f
+
+[^689f-1]
+
+<sup>1</sup> I rappresentanti indipendenti, i rappresentanti appartenenti a organi societari e i rappresentanti depositari comunicano alla società il numero, la specie, il valore nominale e la categoria delle azioni da essi rappresentate. Se non forniscono tali indicazioni, le deliberazioni dell’assemblea generale possono essere impugnate alle stesse condizioni che nel caso di partecipazione illecita all’assemblea generale (art. 691).
 
 <sup>2</sup> Il presidente comunica queste indicazioni all’assemblea generale globalmente per ogni modo di rappresentanza. Se, pur essendone richiesto da un azionista, non le fornisce, ogni azionista può impugnare le deliberazioni dell’assemblea generale convenendo in giudizio la società.
 
-[^689e-1]: Introdotto dal n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^689f-1]: Introdotto dal n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 4. In caso di proprietà collettiva e d’usufrutto
 
-[^part3-tit26-chap2-lvlJ-lvlI-lvl4-1]
+[^part3-tit26-chap2-lvlK-lvlI-lvl4-1]
 
-[^part3-tit26-chap2-lvlJ-lvlI-lvl4-1]: Nuovo testo giusta il n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^part3-tit26-chap2-lvlK-lvlI-lvl4-1]: Nuovo testo giusta il n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 
 #### Art. 690
 
@@ -10416,7 +10775,11 @@ Se propone agli azionisti un membro dei suoi organi o altra persona da essa dipe
 
 <sup>2</sup> Ogni azionista può opporsi, presso il consiglio d’amministrazione o con iscrizione nel processo verbale, a che partecipino all’assemblea generale persone che non vi hanno diritto.
 
+<sup>2bis</sup> I membri del consiglio d’amministrazione e della direzione hanno il diritto di partecipare all’assemblea generale.[^691-1]
+
 <sup>3</sup> Qualora ad una deliberazione dell’assemblea generale abbiano cooperato persone, che non avevano il diritto di parteciparvi, ogni azionista, ancorché non si sia opposto alla loro partecipazione può contestare davanti al giudice la deliberazione in quanto la società convenuta non provi che la deliberazione stessa sarebbe stata presa anche senza tale cooperazione.
+
+[^691-1]: Introdotto dal n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### III. Diritto di voto nell’assemblea generale
 
@@ -10428,7 +10791,9 @@ Se propone agli azionisti un membro dei suoi organi o altra persona da essa dipe
 
 <sup>2</sup> Ogni azionista ha almeno un voto anche se possegga una sola azione. Lo statuto può tuttavia limitare il numero dei voti spettanti ai possessori di più azioni.
 
-<sup>3</sup> Qualora si riduca il valore nominale delle azioni in occasione d’un assestamento della società, il diritto di voto può essere conservato in conformità del valore nominale primitivo.
+<sup>3</sup> ...[^692-1]
+
+[^692-1]: Abrogato dal n. I della LF del 19 giu. 2020 (Diritto della società anonima), con effetto dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 2. Azioni con diritto di voto privilegiato
 
@@ -10445,10 +10810,11 @@ La determinazione del diritto di voto secondo il numero delle azioni non vale pe
 - 1\. la nomina dell’ufficio di revisione;
 - 2\. la designazione di periti incaricati di verificare la gestione o parti di essa;
 - 3\. la deliberazione sulla proposta di istituire una verifica speciale;
-- 4\. la deliberazione sulla questione se debba essere promossa un’azione di responsabilità.[^693-2]
+- 4\.[^693-2] la deliberazione sulla promozione di un’azione di responsabilità.[^693-3]
 
 [^693-1]: Nuovo testo giusta il n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-[^693-2]: Nuovo testo giusta il n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^693-2]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^693-3]: Nuovo testo giusta il n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 
 ### 3. Inizio del diritto di voto
 
@@ -10466,138 +10832,152 @@ Il diritto di voto nasce non appena sia versato sull’azione l’importo determ
 
 [^695-1]: Abrogato dal n. I 3 della LF del 16 dic. 2005 (Diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), con effetto dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 
-### IV. Diritti di controllo degli azionisti
-
-### 1. Comunicazione della relazione sulla gestione
-
 #### Art. 696
 
 [^696-1]
 
-<sup>1</sup> 20 giorni almeno prima dell’assemblea generale ordinaria devono depositarsi presso la sede della società, perché possano esservi consultate dagli azionisti, la relazione sulla gestione e la relazione dei revisori. Ogni azionista può esigere che un esemplare di questi documenti gli sia inviato senza indugio.
+[^696-1]: Abrogato dal n. I della LF del 19 giu. 2020 (Diritto della società anonima), con effetto dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-<sup>2</sup> I titolari di azioni nominative sono informati mediante una comunicazione scritta, i titolari di azioni al portatore mediante un avviso pubblicato nel «Foglio ufficiale svizzero di commercio», come pure nella forma prescritta dallo statuto.
+### IV. Diritto a ragguagli e diritto di consultazione
 
-<sup>3</sup> Ogni azionista può ancora, nell’anno seguente l’assemblea generale, esigere dalla società la relazione sulla gestione nella versione approvata dall’assemblea generale e la relazione dei revisori.
-
-[^696-1]: Nuovo testo giusta il n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-
-### 2. Ragguagli e consultazione
+### 1. Diritto ai ragguagli
 
 #### Art. 697
 
 [^697-1]
 
-<sup>1</sup> Nell’assemblea generale ogni azionista può chiedere al consiglio d’amministrazione ragguagli sugli affari della società, e all’ufficio di revisione sull’esecuzione e il risultato della sua verifica.
+<sup>1</sup> Nell’assemblea generale ogni azionista può chiedere al consiglio d’amministrazione ragguagli sugli affari della società, e all’ufficio di revisione ragguagli sull’esecuzione e il risultato della sua verifica.
 
-<sup>2</sup> I ragguagli devono essere dati nella misura in cui sono necessari per l’esercizio dei diritti dell’azionista. Possono essere rifiutati se compromettessero segreti d’affari o altri interessi della società degni di protezione.
+<sup>2</sup> Nelle società le cui azioni non sono quotate in borsa, azionisti che rappresentino insieme almeno il 10 per cento del capitale azionario o dei voti possono chiedere per scritto al consiglio d’amministrazione ragguagli sugli affari della società.
 
-<sup>3</sup> I libri e la corrispondenza possono essere consultati soltanto in virtù di un’autorizzazione espressa dell’assemblea generale o di una decisione del consiglio d’amministrazione, sempreché i segreti d’affari siano salvaguardati.
+<sup>3</sup> Il consiglio d’amministrazione fornisce i ragguagli entro quattro mesi. Le risposte devono inoltre essere messe a disposizione degli azionisti, perché possano prenderne visione al più tardi in occasione dell’assemblea generale successiva.
 
-<sup>4</sup> Il giudice ordina, su richiesta, che i ragguagli siano forniti o la consultazione autorizzata, se sono stati rifiutati in modo ingiustificato.[^697-2]
+<sup>4</sup> I ragguagli devono essere forniti nella misura in cui siano necessari per l’esercizio dei diritti dell’azionista e non compromettano segreti d’affari o altri interessi degni di protezione della società. Se i ragguagli vengono negati, la decisione dev’essere motivata per scritto.
 
-[^697-1]: Nuovo testo giusta il n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-[^697-2]: Nuovo testo giusta l’all. 1 n. II 5 del Codice di procedura civile del 19 dic. 2008, in vigore dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^697-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-### V. Diritto all’istituzione di una verifica speciale
-
-### 1. Con l’accordo dell’assemblea generale
+### 2. Diritto di consultazione
 
 #### Art. 697a
 
 [^697a-1]
 
-<sup>1</sup> Ogni azionista può proporre all’assemblea generale che sia eseguita una verifica speciale destinata a chiarire determinati fatti, in quanto ciò sia necessario per l’esercizio dei suoi diritti ed egli già si sia valso del suo diritto di ottenere ragguagli o di consultare documenti.
+<sup>1</sup> I libri e gli atti possono essere consultati da azionisti che rappresentino insieme almeno il 5 per cento del capitale azionario o dei voti.
 
-<sup>2</sup> Se l’assemblea generale accede alla proposta, la società od ogni azionista può, entro 30 giorni, chiedere al giudice di designare un controllore speciale.
+<sup>2</sup> Il consiglio d’amministrazione accorda la consultazione entro quattro mesi dalla ricezione della domanda. Gli azionisti possono prendere appunti.
 
-[^697a-1]: Introdotto dal n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+<sup>3</sup> La consultazione va accordata nella misura in cui sia necessaria per l’esercizio dei diritti dell’azionista e non comprometta segreti d’affari o altri interessi degni di protezione della società. Se la consultazione viene negata, la decisione dev’essere motivata per scritto.
 
-### 2. In caso di rifiuto da parte dell’assemblea generale
+[^697a-1]: Introdotto dal n. I della LF del 4 ott. 1991 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### 3. Reiezione della domanda di ragguagli o di consultazione
 
 #### Art. 697b
 
 [^697b-1]
 
-<sup>1</sup> Se l’assemblea generale non accede alla proposta, la designazione giudiziale di un controllore speciale può essere chiesta, entro il termine di tre mesi, da azionisti che rappresentino insieme almeno il 10 per cento del capitale azionario o azioni per un valore nominale di 2 milioni di franchi.
+Se i ragguagli o la consultazione sono stati rifiutati in tutto o in parte o resi impossibili, entro 30 giorni gli azionisti possono chiedere al giudice di ordinare che i ragguagli siano forniti o la consultazione accordata.
 
-<sup>2</sup> I richiedenti hanno diritto alla designazione di un controllore speciale ove rendano verosimile che promotori od organi hanno violato la legge o lo statuto e danneggiato in tal guisa la società o gli azionisti.
+[^697b-1]: Introdotto dal n. I della LF del 4 ott. 1991 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-[^697b-1]: Introdotto dal n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+### V. Diritto all’istituzione di una verifica speciale
 
-### 3. Istituzione
+### 1. Con l’accordo dell’assemblea generale
 
 #### Art. 697c
 
 [^697c-1]
 
-<sup>1</sup> Il giudice decide dopo aver sentito la società e la persona che ha proposto la verifica speciale all’assemblea generale.
+<sup>1</sup> Ogni azionista che già si è avvalso del diritto di ottenere ragguagli o di consultare documenti può proporre all’assemblea generale che periti indipendenti verifichino determinati fatti, in quanto ciò sia necessario per l’esercizio dei suoi diritti.
 
-<sup>2</sup> Se accoglie la richiesta, il giudice incarica un perito indipendente di eseguire la verifica. Egli ne delimita l’oggetto entro i limiti della richiesta.
+<sup>2</sup> Se l’assemblea generale accede alla proposta, la società od ogni azionista può, entro trenta giorni, chiedere al giudice di designare i periti incaricati di eseguire la verifica speciale.
 
-<sup>3</sup> Il giudice può altresì deferire la verifica speciale a più periti congiuntamente.
+[^697c-1]: Introdotto dal n. I della LF del 4 ott. 1991 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-[^697c-1]: Introdotto dal n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-
-### 4. Attività
+### 2. In caso di rifiuto da parte dell’assemblea generale
 
 #### Art. 697d
 
 [^697d-1]
 
-<sup>1</sup> La verifica speciale deve essere effettuata entro un termine utile e senza perturbare l’andamento degli affari.
+<sup>1</sup>
 
-<sup>2</sup> I promotori, gli organi, i mandatari, i lavoratori, i commissari e i liquidatori sono tenuti a fornire ragguagli al controllore speciale sui fatti rilevanti. In caso di disaccordo, decide il giudice.
+Se l’assemblea generale non accede alla proposta, entro tre mesi azionisti che detengano insieme almeno una delle partecipazioni seguenti possono chiedere al giudice di ordinare una verifica speciale:
 
-<sup>3</sup> Il controllore speciale sente la società sul risultato della verifica speciale.
+- 1\. il 5 per cento del capitale azionario o dei voti, nelle società le cui azioni sono quotate in borsa;
+- 2\. il 10 per cento del capitale azionario o dei voti, nelle altre società.
 
-<sup>4</sup> Egli è soggetto al dovere di discrezione.
+<sup>2</sup> La richiesta di istituzione di una verifica speciale può concernere tutte le questioni che figuravano nella domanda di ragguagli o di consultazione o che sono state sollevate nella discussione dell’assemblea generale riguardante la proposta di istituire una verifica speciale, nella misura in cui la risposta a tali questioni sia necessaria per l’esercizio dei diritti dell’azionista.
 
-[^697d-1]: Introdotto dal n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+<sup>3</sup> Il giudice ordina la verifica speciale se i richiedenti rendono verosimile che promotori od organi hanno violato la legge o lo statuto e tale violazione è atta a danneggiare la società o gli azionisti.
 
-### 5. Rapporto
+[^697d-1]: Introdotto dal n. I della LF del 4 ott. 1991 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### 3. Procedura giudiziaria
 
 #### Art. 697e
 
 [^697e-1]
 
-<sup>1</sup> Il controllore speciale riferisce in modo dettagliato, ma salvaguardando i segreti d’affari, sul risultato della sua verifica. Egli presenta il suo rapporto al giudice.
+<sup>1</sup> Il giudice decide dopo aver sentito la società e l’azionista che ha proposto la verifica speciale all’assemblea generale.
 
-<sup>2</sup> Il giudice trasmette il rapporto alla società e decide, a richiesta di quest’ultima, se determinati passaggi del rapporto ledano segreti d’affari od altri interessi sociali degni di protezione e se debbano essere pertanto sottratti alla consultazione dei richiedenti.
+<sup>2</sup> Se accoglie la richiesta, il giudice designa i periti indipendenti incaricati di eseguire la verifica speciale e delimita l’oggetto della stessa.
 
-<sup>3</sup> Egli dà alla società e ai richiedenti l’occasione di esprimersi sul rapporto appurato e di presentare domande complementari.
+[^697e-1]: Introdotto dal n. I della LF del 4 ott. 1991 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-[^697e-1]: Introdotto dal n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-
-### 6. Deliberazione e comunicazione
+### 4. Esecuzione della verifica speciale
 
 #### Art. 697f
 
 [^697f-1]
 
-<sup>1</sup> Il consiglio d’amministrazione sottopone il rapporto e le osservazioni all’assemblea generale successiva.
+<sup>1</sup> La verifica speciale deve essere effettuata entro un termine utile e senza perturbare vanamente l’andamento degli affari.
 
-<sup>2</sup> Ogni azionista può, nell’anno seguente l’assemblea generale, esigere dalla società un esemplare del rapporto e delle osservazioni.
+<sup>2</sup> I promotori, gli organi, i mandatari, i lavoratori, i commissari e i liquidatori sono tenuti a fornire ragguagli ai periti su tutti i fatti rilevanti. In caso di disaccordo, decide il giudice.
 
-[^697f-1]: Introdotto dal n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+<sup>3</sup> I periti sentono la società sul risultato della verifica speciale.
 
-### 7. Onere delle spese
+<sup>4</sup> Essi devono mantenere il segreto.
+
+[^697f-1]: Introdotto dal n. I della LF del 4 ott. 1991 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### 5. Rapporto
 
 #### Art. 697g
 
 [^697g-1]
 
-<sup>1</sup> Se accoglie la richiesta di designare un controllore speciale, il giudice pone l’anticipo e le spese a carico della società. Ove circostanze particolari lo giustifichino, può addossare le spese integralmente o in parte ai richiedenti.
+<sup>1</sup> I periti riferiscono per scritto e in modo dettagliato sul risultato della loro verifica. Se la verifica speciale è stata ordinata dal giudice, i periti gli presentano il loro rapporto.
 
-<sup>2</sup> Se l’assemblea generale ha approvato la verifica speciale, la società ne sopporta le spese.
+<sup>2</sup> Il giudice trasmette il rapporto alla società e decide, a richiesta di quest’ultima, se determinate parti del rapporto ledano segreti d’affari o altri interessi sociali degni di protezione e se debbano pertanto essere sottratte alla consultazione dei richiedenti.
 
-[^697g-1]: Introdotto dal n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+<sup>3</sup> Il giudice dà al consiglio d’amministrazione e ai richiedenti l’occasione di esprimersi sul rapporto appurato e di presentare domande complementari.
+
+[^697g-1]: Introdotto dal n. I della LF del 4 ott. 1991 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### 6. Deliberazione e comunicazione
 
 #### Art. 697h
 
 [^697h-1]
 
-[^697h-1]: Introdotto dal n. I della LF del 4 ott. 1991 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Abrogato dal n. I 1 della LF del 23 dic. 2011 (Diritto contabile), con effetto dal 1° gen. 2013 ([RU 2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810); [FF 2008 1321](https://fedlex.data.admin.ch/eli/fga/2008/416)).
+<sup>1</sup> Il consiglio d’amministrazione sottopone all’assemblea generale successiva il rapporto dei periti, le sue osservazioni e quelle dei richiedenti la verifica speciale.
+
+<sup>2</sup> Ogni azionista può, nell’anno seguente l’assemblea generale, esigere dalla società e a spese della medesima un esemplare del rapporto e delle osservazioni.
+
+[^697h-1]: Introdotto dal n. I della LF del 4 ott. 1991 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### 7. Spese della verifica speciale
+
+#### Art. 697h<sup>bis</sup>
+
+[^697hbis-1]
+
+<sup>1</sup> La società assume le spese della verifica speciale. Versa anche eventuali anticipi delle spese.
+
+<sup>2</sup> Ove circostanze particolari lo giustifichino, il giudice può addossare le spese integralmente o in parte ai richiedenti.
+
+[^697hbis-1]: Introdotto dal n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 697i
 
@@ -10649,9 +11029,9 @@ Il diritto di voto nasce non appena sia versato sull’azione l’importo determ
 
 ### III. Inosservanza degli obblighi di annunciare
 
-[^part3-tit26-chap2-lvlK-lvlIII-1]
+[^part3-tit26-chap2-lvlL-lvlIII-1]
 
-[^part3-tit26-chap2-lvlK-lvlIII-1]: Nuovo testo giusta il n. I 1 della LF del 21 giu. 2019 che attua le raccomandazioni del Forum globale sulla trasparenza e sullo scambio di informazioni a fini fiscali, in vigore dal 1° mag. 2021 ([RU 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [FF 2019 275](https://fedlex.data.admin.ch/eli/fga/2019/18)).
+[^part3-tit26-chap2-lvlL-lvlIII-1]: Nuovo testo giusta il n. I 1 della LF del 21 giu. 2019 che attua le raccomandazioni del Forum globale sulla trasparenza e sullo scambio di informazioni a fini fiscali, in vigore dal 1° mag. 2021 ([RU 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [FF 2019 275](https://fedlex.data.admin.ch/eli/fga/2019/18)).
 
 #### Art. 697m
 
@@ -10667,6 +11047,22 @@ Il diritto di voto nasce non appena sia versato sull’azione l’importo determ
 
 [^697m-1]: Introdotto dal n. I 2 della LF del 12 dic. 2014 concernente l’attuazione delle Raccomandazioni del Gruppo d’azione finanziaria rivedute nel 2012, in vigore dal 1° lug. 2015 ([RU 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 563](https://fedlex.data.admin.ch/eli/fga/2014/100)).
 [^697m-2]: Vedi anche la disp. trans. della mod del 12 dic. 2014 alla fine del presente testo.
+
+### L. Tribunale arbitrale
+
+#### Art. 697n
+
+[^697n-1]
+
+<sup>1</sup> Lo statuto può prevedere che le controversie societarie siano giudicate da un tribunale arbitrale con sede in Svizzera. Salvo disposizione contraria dello statuto, la clausola compromissoria è vincolante per la società, per gli organi e i loro membri e per gli azionisti.
+
+<sup>2</sup> Al procedimento dinanzi al tribunale arbitrale si applicano le disposizioni della parte terza del Codice di procedura civile[^697n-2]; il capitolo 12 della legge federale del 18 dicembre 1987[^697n-3] sul diritto internazionale privato non è applicabile.
+
+<sup>3</sup> Lo statuto può disciplinare i dettagli, in particolare rinviando a un regolamento d’arbitrato. Provvede in ogni caso affinché le persone che possono essere direttamente interessate dagli effetti giuridici del lodo siano informate riguardo all’apertura e alla chiusura del procedimento e possano prendere parte alla costituzione del tribunale arbitrale e intervenire nel procedimento.
+
+[^697n-1]: Introdotto dal n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^697n-2]: [RS 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
+[^697n-3]: [RS 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
 
 ### Capo terzo: Organizzazione della società anonima
 
@@ -10686,57 +11082,211 @@ All’assemblea generale spettano i poteri intrasmissibili seguenti:[^698-1]
 - 2\. la nomina degli amministratori e dei membri dell’ufficio di revisione;
 - 3\.[^698-2] l’approvazione della relazione annuale e del conto di gruppo;
 - 4\. l’approvazione del conto annuale, come pure la deliberazione sull’impiego dell’utile risultante dal bilancio, in modo particolare la determinazione del dividendo e della partecipazione agli utili;
-- 5\. il discarico agli amministratori;
-- 6\. le deliberazioni sopra le materie ad essa riservate dalla legge o dallo statuto.[^698-3]
+- 5\.[^698-3] la determinazione degli acconti sui dividendi e l’approvazione del conto intermedio necessario a tal fine;
+- 6\.[^698-4] la deliberazione sul rimborso della riserva legale da capitale;
+- 7\.[^698-5] il discarico ai membri del consiglio d’amministrazione;
+- 8\.[^698-6] la revoca della quotazione dei titoli di partecipazione della società;
+- 9\.[^698-7] le deliberazioni sopra le materie ad essa riservate dalla legge o dallo statuto.[^698-8]
+
+<sup>3</sup>
+
+Nelle società le cui azioni sono quotate in borsa, all’assemblea generale spettano inoltre i poteri intrasmissibili seguenti:
+
+- 1\. l’elezione del presidente del consiglio d’amministrazione;
+- 2\. l’elezione dei membri del comitato di retribuzione;
+- 3\. l’elezione del rappresentante indipendente;
+- 4\. il voto sulle retribuzioni del consiglio d’amministrazione, della direzione e del consiglio consultivo.[^698-9]
 
 [^698-1]: Nuovo testo giusta il n. I 3 della LF del 16 dic. 2005 (Diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), in vigore dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 [^698-2]: Nuovo testo giusta il n. I 1 della LF del 23 dic. 2011 (Diritto contabile), in vigore dal 1° gen. 2013 ([RU 2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810); [FF 2008 1321](https://fedlex.data.admin.ch/eli/fga/2008/416)).
-[^698-3]: Nuovo testo giusta il n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^698-3]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^698-4]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^698-5]: Introdotto dal n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^698-6]: Introdotto dal n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^698-7]: Introdotto dal n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^698-8]: Nuovo testo giusta il n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^698-9]: Introdotto dal n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-### II. Convocazione e iscrizione all’ordine del giorno
+### II. Convocazione e svolgimento dell’assemblea generale
 
-### 1. Diritto e obbligo
-
-[^part3-tit26-chap3-lvlA-lvlII-lvl1-1]
-
-[^part3-tit26-chap3-lvlA-lvlII-lvl1-1]: Nuovo testo giusta il n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+### 1. Modalità di convocazione
 
 #### Art. 699
 
-<sup>1</sup> L’assemblea generale è convocata dal consiglio d’amministrazione e, quando occorra, dall’ufficio di revisione; il diritto di convocarla spetta anche ai liquidatori ed ai rappresentanti degli obbligazionisti.
+[^699-1]
 
-<sup>2</sup> L’assemblea generale ha luogo ogni anno, entro sei mesi dalla chiusura dell’esercizio annuale; ogni qualvolta lo richieda il bisogno, si convocano assemblee straordinarie.
+<sup>1</sup> L’assemblea generale è convocata dal consiglio d’amministrazione, all’occorrenza dall’ufficio di revisione. Anche i liquidatori e i rappresentanti degli obbligazionisti hanno il diritto di convocarla.
 
-<sup>3</sup> Uno o più azionisti, che rappresentano insieme almeno il 10 per cento del capitale azionario, possono pure chiedere per scritto la convocazione dell’assemblea generale. Azionisti che rappresentano azioni per un valore nominale di 1 milione di franchi possono chiedere l’iscrizione di un oggetto all’ordine del giorno. La convocazione e l’iscrizione all’ordine del giorno devono essere chieste per scritto, indicando l’oggetto e le proposte.[^699-1]
+<sup>2</sup> L’assemblea generale ordinaria ha luogo ogni anno, entro sei mesi dalla chiusura dell’esercizio annuale.
 
-<sup>4</sup> Qualora il consiglio d’amministrazione non dia seguito entro un congruo termine a siffatta domanda, la convocazione sarà ordinata dal giudice ad istanza dei richiedenti.
+<sup>3</sup>
 
-[^699-1]: Nuovo testo giusta il n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+Possono chiedere la convocazione dell’assemblea generale gli azionisti che detengono insieme almeno una delle partecipazioni seguenti:
 
-### 2. Forma
+- 1\. il 5 per cento del capitale azionario o dei voti, nelle società le cui azioni sono quotate in borsa;
+- 2\. il 10 per cento del capitale azionario o dei voti, nelle altre società.
+
+<sup>4</sup> La convocazione dev’essere chiesta per scritto. Gli oggetti da iscrivere all’ordine del giorno e le proposte devono essere indicati nella domanda.
+
+<sup>5</sup> Se il consiglio d’amministrazione non dà seguito alla domanda entro un congruo termine, comunque non eccedente 60 giorni, i richiedenti possono chiedere al giudice di ordinare la convocazione.
+
+[^699-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### 2. Comunica-zione della relazione sulla gestione
+
+#### Art. 699a
+
+[^699a-1]
+
+<sup>1</sup> La relazione sulla gestione e le relazioni di revisione devono essere rese accessibili agli azionisti almeno 20 giorni prima dell’assemblea generale. Se i documenti non sono accessibili per via elettronica, ogni azionista può chiedere che gli siano inviati per tempo.
+
+<sup>2</sup> Se i documenti non sono accessibili per via elettronica, nell’anno successivo all’assemblea generale ogni azionista può chiedere alla società di inviargli la relazione sulla gestione nella versione approvata dall’assemblea generale e le relazioni di revisione.
+
+[^699a-1]: Introdotto dal n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### 3. Iscrizione di oggetti all’ordine del giorno e diritto di proposta
+
+#### Art. 699b
+
+[^699b-1]
+
+<sup>1</sup>
+
+Possono chiedere l’iscrizione di oggetti all’ordine del giorno gli azionisti che detengono insieme almeno una delle partecipazioni seguenti:
+
+- 1\. lo 0,5 per cento del capitale azionario o dei voti, nelle società le cui azioni sono quotate in borsa;
+- 2\. il 5 per cento del capitale azionario o dei voti, nelle altre società.
+
+<sup>2</sup> Alle stesse condizioni, gli azionisti possono chiedere che nella convocazione dell’assemblea generale siano inserite proposte relative agli oggetti iscritti all’ordine del giorno.
+
+<sup>3</sup> Gli azionisti possono corredare di una breve motivazione le richieste di iscrizione di oggetti all’ordine del giorno o le proposte. La motivazione deve essere riportata nella convocazione dell’assemblea generale.
+
+<sup>4</sup> Se il consiglio d’amministrazione non dà seguito a una domanda, i richiedenti possono chiedere al giudice di ordinare l’iscrizione degli oggetti all’ordine del giorno o l’inserimento delle proposte e delle relative motivazioni nella convocazione dell’assemblea generale.
+
+<sup>5</sup> Nell’assemblea generale ogni azionista può presentare proposte concernenti gli oggetti all’ordine del giorno.
+
+[^699b-1]: Introdotto dal n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### 4. Contenuto della convocazione
 
 #### Art. 700
 
 [^700-1]
 
-<sup>1</sup> La convocazione dell’assemblea generale deve farsi nella forma prescritta dallo statuto, almeno 20 giorni prima di quello fissato per l’adunanza.
+<sup>1</sup> Il consiglio d’amministrazione comunica agli azionisti la convocazione dell’assemblea generale almeno 20 giorni prima di quello fissato per l’adunanza.
 
-<sup>2</sup> Sono indicati nella convocazione gli oggetti all’ordine del giorno, come pure le proposte del consiglio d’amministrazione e degli azionisti che hanno chiesto la convocazione dell’assemblea generale o l’iscrizione di un oggetto all’ordine del giorno.
+<sup>2</sup>
 
-<sup>3</sup> Nessuna deliberazione può essere presa su oggetti che non siano stati debitamente iscritti all’ordine del giorno; sono eccettuate le proposte di convocare un’assemblea generale straordinaria, di procedere a una verifica speciale e di designare un ufficio di revisione in seguito a una richiesta di un azionista.[^700-2]
+Nella convocazione sono indicati:
 
-<sup>4</sup> Non occorre comunicare anticipatamente le proposte che entrano nell’ambito degli oggetti all’ordine del giorno né le discussioni non seguite da un voto.
+- 1\. la data, l’ora d’inizio, la forma e il luogo dell’assemblea generale;
+- 2\. gli oggetti all’ordine del giorno;
+- 3\. le proposte del consiglio d’amministrazione e, nelle società le cui azioni sono quotate in borsa, una breve motivazione delle stesse;
+- 4\. se del caso, le proposte degli azionisti corredate di una breve motivazione;
+- 5\. se del caso, il nome e l’indirizzo del rappresentante indipendente.
 
-[^700-1]: Nuovo testo giusta il n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-[^700-2]: Nuovo testo giusta il n. I 3 della LF del 16 dic. 2005 (Diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), in vigore dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+<sup>3</sup> Il consiglio d’amministrazione provvede affinché gli oggetti all’ordine del giorno rispettino il principio dell’unità della materia e fornisce all’assemblea generale tutte le informazioni necessarie ai fini delle deliberazioni.
 
-### 3. Riunione di tutti gli azionisti
+<sup>4</sup> Nella convocazione il consiglio d’amministrazione può presentare sommariamente gli oggetti all’ordine del giorno se mette a disposizione degli azionisti informazioni complementari secondo altre modalità.
+
+[^700-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### 5. Riunione di tutti gli azionisti e approvazione di una proposta
 
 #### Art. 701
 
-<sup>1</sup> I proprietari o i rappresentanti di tutte le azioni possono, purché nessuno vi si opponga, tenere un’assemblea generale anche senza osservare le formalità prescritte per la convocazione.
+[^701-1]
 
-<sup>2</sup> Finché i proprietari od i rappresentanti di tutte le azioni sono presenti, siffatta assemblea può validamente trattare tutti gli argomenti di spettanza dell’assemblea generale e deliberare su di essi.
+<sup>1</sup> I proprietari o i rappresentanti di tutte le azioni possono, purché nessuno vi si opponga, tenere un’assemblea generale anche senza osservare le disposizioni relative alla convocazione.
+
+<sup>2</sup> Finché i proprietari o i rappresentanti di tutte le azioni vi partecipano, siffatta assemblea può validamente trattare tutti gli argomenti di spettanza dell’assemblea generale e deliberare su di essi.
+
+<sup>3</sup> Un’assemblea generale può tenersi senza osservare le disposizioni sulla convocazione anche nel caso in cui le deliberazioni siano prese in forma scritta, sia questa su supporto cartaceo o elettronico, sempre che un azionista o un suo rappresentante non abbia chiesto la deliberazione orale.
+
+[^701-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### 6. Luogo dell’assemblea
+
+### a. In genere
+
+#### Art. 701a
+
+[^701a-1]
+
+<sup>1</sup> Il consiglio d’amministrazione stabilisce il luogo in cui si svolge l’assemblea generale.
+
+<sup>2</sup> Il luogo di svolgimento dell’assemblea non può comportare, per nessun azionista, alcun ostacolo incongruo all’esercizio dei suoi diritti riguardo all’assemblea generale.
+
+<sup>3</sup> L’assemblea generale può svolgersi simultaneamente in più luoghi. In tal caso, gli interventi dei partecipanti sono trasmessi in diretta audiovisiva in tutti i luoghi in cui si svolge l’assemblea.
+
+[^701a-1]: Introdotto dal n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### b. All’estero
+
+#### Art. 701b
+
+[^701b-1]
+
+<sup>1</sup> L’assemblea generale può svolgersi all’estero se lo statuto lo prevede e se nella convocazione il consiglio d’amministrazione designa un rappresentante indipendente.
+
+<sup>2</sup> Nelle società le cui azioni non sono quotate in borsa, il consiglio d’amministrazione può rinunciare a designare un rappresentante indipendente se tutti gli azionisti vi acconsentono.
+
+[^701b-1]: Introdotto dal n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### 7. Impiego di mezzi di comunicazione elettronici
+
+### a. Esercizio dei diritti dell’azionista
+
+#### Art. 701c
+
+[^701c-1]
+
+Il consiglio d’amministrazione può prevedere che gli azionisti che non sono presenti nel luogo in cui si svolge l’assemblea generale possano esercitare i loro diritti per via elettronica.
+
+[^701c-1]: Introdotto dal n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### b. Assemblea generale virtuale
+
+#### Art. 701d
+
+[^701d-1]
+
+<sup>1</sup> L’assemblea generale può svolgersi per via elettronica e senza luogo di riunione fisico se lo statuto lo prevede e se nella convocazione il consiglio d’amministrazione designa un rappresentante indipendente.
+
+<sup>2</sup> Nelle società le cui azioni non sono quotate in borsa, lo statuto può prevedere la possibilità di non designare un rappresentante indipendente.
+
+[^701d-1]: Introdotto dal n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### c. Condizioni per l’impiego di mezzi di comunicazione elettronici
+
+#### Art. 701e
+
+[^701e-1]
+
+<sup>1</sup> Il consiglio d’amministrazione disciplina l’impiego di mezzi di comunicazione elettronici.
+
+<sup>2</sup>
+
+Garantisce che:
+
+- 1\. l’identità dei partecipanti sia accertata;
+- 2\. gli interventi in seno all’assemblea generale siano trasmessi in diretta;
+- 3\. ogni partecipante possa presentare proposte e prendere parte alle discussioni;
+- 4\. l’esito delle votazioni non possa essere alterato.
+
+[^701e-1]: Introdotto dal n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### d. Problemi tecnici
+
+#### Art. 701f
+
+[^701f-1]
+
+<sup>1</sup> Se non può svolgersi regolarmente a causa di problemi tecnici, l’assemblea generale deve essere riconvocata.
+
+<sup>2</sup> Le deliberazioni prese dall’assemblea generale prima dell’insorgere dei problemi tecnici restano valide.
+
+[^701f-1]: Introdotto dal n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### III. Misure preparatorie; processo verbale
 
@@ -10750,36 +11300,50 @@ All’assemblea generale spettano i poteri intrasmissibili seguenti:[^698-1]
 
 Esso provvede alla tenuta del processo verbale. Quest’ultimo indica:
 
-- 1\. il numero, la specie, il valore nominale e la categoria delle azioni rappresentate dagli azionisti, dagli organi, dai rappresentanti indipendenti e dai rappresentanti depositari;
-- 2\. le deliberazioni e i risultati delle nomine;
-- 3\. le domande di ragguagli e le relative risposte;
-- 4\. le dichiarazioni date a verbale dagli azionisti.
+- 1\. la data, l’ora d’inizio e la fine, nonché la forma e il luogo dell’assemblea generale;
+- 2\. il numero, la specie, il valore nominale e la categoria delle azioni rappresentate, con la menzione delle azioni rappresentate dal rappresentante indipendente, dal rappresentante appartenente a un organo societario e dal rappresentante depositario;
+- 3\. le deliberazioni e i risultati delle nomine;
+- 4\. le domande di ragguagli poste durante l’assemblea generale e le relative risposte;
+- 5\. le dichiarazioni date a verbale dagli azionisti;
+- 6\. i problemi tecnici rilevanti sorti durante lo svolgimento dell’assemblea generale.[^702-2]
 
-<sup>3</sup> Gli azionisti hanno diritto di consultare il processo verbale.
+<sup>3</sup> Il processo verbale deve essere firmato dal suo estensore e dal presidente dell’assemblea generale.[^702-3]
+
+<sup>4</sup> Ciascun azionista può chiedere che il processo verbale gli sia reso accessibile entro 30 giorni dall’assemblea generale.[^702-4]
+
+<sup>5</sup> Nelle società le cui azioni sono quotate in borsa, le deliberazioni e i risultati delle nomine, comprensivi della ripartizione esatta dei voti, devono essere resi disponibili per via elettronica al più tardi 15 giorni dopo l’assemblea generale.[^702-5]
 
 [^702-1]: Nuovo testo giusta il n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^702-2]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^702-3]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^702-4]: Introdotto dal n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^702-5]: Introdotto dal n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-### IV. Partecipazione dei membri del consiglio d’amministrazione
+### IV. Diritto di esprimersi dei membri del consiglio di amministrazione e della direzione; diritto di presentare proposte del consiglio d’amministrazione
 
 #### Art. 702a
 
 [^702a-1]
 
-I membri del consiglio d’amministrazione hanno diritto di partecipare all’assemblea generale. Possono presentare proposte.
+<sup>1</sup> Se partecipano all’assemblea generale, i membri del consiglio d’amministrazione o della direzione possono esprimersi su ogni oggetto all’ordine del giorno.
 
-[^702a-1]: Introdotto dal n. I 3 della LF del 16 dic. 2005 (Diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), in vigore dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+<sup>2</sup> Il consiglio d’amministrazione può inoltre presentare proposte sugli oggetti all’ordine del giorno.
+
+[^702a-1]: Introdotto dal n. I 3 della LF del 16 dic. 2005 (Diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali) ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)). Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### V. Deliberazioni e nomine
 
 ### 1. In genere
 
-[^part3-tit26-chap3-lvlA-lvlV-lvl1-1]
-
-[^part3-tit26-chap3-lvlA-lvlV-lvl1-1]: Nuovo testo giusta il n. I 3 della LF del 16 dic. 2005 (Diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), in vigore dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
-
 #### Art. 703
 
-Salvo contraria disposizione della legge o dello statuto, l’assemblea generale prende le sue deliberazioni e fa le nomine di sua competenza a maggioranza assoluta di voti delle azioni rappresentate.
+[^703-1]
+
+<sup>1</sup> Salvo contraria disposizione della legge o dello statuto, l’assemblea generale prende le sue deliberazioni e fa le nomine di sua competenza a maggioranza dei voti delle azioni rappresentate.
+
+<sup>2</sup> Lo statuto può prevedere che, in caso di parità, il voto del presidente sia preponderante.
+
+[^703-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 2. Deliberazioni importanti
 
@@ -10789,25 +11353,33 @@ Salvo contraria disposizione della legge o dello statuto, l’assemblea generale
 
 <sup>1</sup>
 
-Una deliberazione dell’assemblea generale approvata da almeno due terzi dei voti rappresentati e dalla maggioranza assoluta dei valori nominali rappresentati è necessaria per:
+Una deliberazione dell’assemblea generale approvata da almeno due terzi dei voti rappresentati e dalla maggioranza dei valori nominali rappresentati è necessaria per:
 
 - 1\. la modificazione dello scopo sociale;
-- 2\. l’introduzione di azioni con diritto di voto privilegiato;
-- 3\. la limitazione della trasferibilità delle azioni nominative;
-- 4\.[^704-2] l’aumento autorizzato o condizionale del capitale azionario o la creazione di capitale di riserva secondo l’articolo 12 della legge dell’8 novembre 1934[^704-3] sulle banche;
-- 5\. l’aumento del capitale con capitale proprio, mediante conferimento in natura o per un’assunzione di beni, e la concessione di vantaggi speciali;
-- 6\. la limitazione o soppressione del diritto d’opzione;
-- 7\. il trasferimento della sede della società;
-- 8\.[^704-4] lo scioglimento della società.
+- 2\. la riunione di azioni, sempre che non richieda il consenso di tutti gli azionisti interessati;
+- 3\. l’aumento del capitale con capitale proprio, mediante conferimenti in natura o mediante compensazione con un credito, e la concessione di vantaggi speciali;
+- 4\. la limitazione o soppressione del diritto d’opzione;
+- 5\. l’introduzione di un capitale condizionale, l’introduzione di un margine di variazione del capitale o la creazione di capitale di riserva secondo l’articolo 12 della legge dell’8 novembre 1934[^704-2] sulle banche;
+- 6\. la conversione di buoni di partecipazione in azioni;
+- 7\. la limitazione della trasferibilità delle azioni nominative;
+- 8\. l’introduzione di azioni con diritto di voto privilegiato;
+- 9\. il cambiamento della moneta del capitale azionario;
+- 10\. l’introduzione del voto preponderante del presidente nell’assemblea generale;
+- 11\. l’introduzione nello statuto di una disposizione concernente lo svolgimento dell’assemblea generale all’estero;
+- 12\. la revoca della quotazione dei titoli di partecipazione della società;
+- 13\. il trasferimento della sede della società;
+- 14\. l’introduzione nello statuto di una clausola compromissoria;
+- 15\. la rinuncia alla designazione di un rappresentante indipendente in un’assemblea generale virtuale di una società le cui azioni non sono quotate in borsa;
+- 16\. lo scioglimento della società.[^704-3]
 
-<sup>2</sup> Le disposizioni statutarie che prevedono, per talune deliberazioni, una maggioranza superiore a quella prescritta dalla legge possono essere adottate soltanto alla maggioranza prevista.
+<sup>2</sup> Le disposizioni statutarie che prevedono, per talune deliberazioni, una maggioranza superiore a quella prescritta dalla legge possono essere adottate, modificate o abrogate soltanto alla maggioranza prevista.[^704-4]
 
 <sup>3</sup> I titolari di azioni nominative che non abbiano aderito ad una deliberazione concernente la modificazione dello scopo sociale o l’introduzione di azioni con diritto di voto privilegiato non sono vincolati, durante un periodo di sei mesi dalla pubblicazione di questa deliberazione nel «Foglio ufficiale svizzero di commercio», alle limitazioni statutarie della trasferibilità delle azioni.
 
 [^704-1]: Nuovo testo giusta il n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-[^704-2]: Nuovo testo giusta l’all. n. 1 della LF del 30 set. 2011 (Rafforzamento della stabilità nel settore finanziario), in vigore dal 1° mar. 2012 ([RU 2012 811](https://fedlex.data.admin.ch/eli/oc/2012/126); [FF 2011 4211](https://fedlex.data.admin.ch/eli/fga/2011/762)).
-[^704-3]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^704-4]: Nuovo testo giusta il n. I 3 della LF del 16 dic. 2005 (Diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), in vigore dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^704-2]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^704-3]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^704-4]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 3. Conversione di azioni al portatore in azioni nominative
 
@@ -10819,17 +11391,29 @@ La deliberazione dell’assemblea generale di convertire le azioni al portatore 
 
 [^704a-1]: Introdotto dal n. I 2 della LF del 12 dic. 2014 concernente l’attuazione delle Raccomandazioni del Gruppo d’azione finanziaria rivedute nel 2012, in vigore dal 1° lug. 2015 ([RU 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 563](https://fedlex.data.admin.ch/eli/fga/2014/100)).
 
-### VI. Revoca del consiglio d’am-ministrazione e dell’ufficio di revisione
+### 4. Iscrizione degli oggetti all’ordine del giorno
+
+#### Art. 704b
+
+[^704b-1]
+
+Nessuna deliberazione può essere presa su oggetti che non siano stati debitamente iscritti all’ordine del giorno; sono eccettuate le proposte di convocare un’assemblea generale straordinaria, di procedere a una verifica speciale e di designare un ufficio di revisione.
+
+[^704b-1]: Introdotto dal n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### VI. Diritto di revoca
 
 [^part3-tit26-chap3-lvlA-lvlVI-1]
 
-[^part3-tit26-chap3-lvlA-lvlVI-1]: Nuovo testo giusta il n. I 3 della LF del 16 dic. 2005 (Diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), in vigore dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^part3-tit26-chap3-lvlA-lvlVI-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 705
 
-<sup>1</sup> L’assemblea generale può revocare gli amministratori ed i revisori, come pure gli altri procuratori e mandatari ch’essa avesse nominati.
+<sup>1</sup> L’assemblea generale può revocare tutte le persone che ha nominato.[^705-1]
 
 <sup>2</sup> Rimangono riservate le azioni di risarcimento che spettassero alle persone revocate.
+
+[^705-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### VII. Diritto di contestare le deliberazioni dell’assemblea generale
 
@@ -10865,7 +11449,7 @@ Possono essere contestate in particolare le deliberazioni che:
 
 [^706a-1]
 
-<sup>1</sup> Il diritto di contestare le deliberazioni si estingue se l’azione non e proposta entro due mesi dall’assemblea generale.
+<sup>1</sup> Il diritto di contestare le deliberazioni si estingue se l’azione non è proposta entro due mesi dall’assemblea generale.
 
 <sup>2</sup> Se l’azione è proposta dal consiglio d’amministrazione, il giudice designa un rappresentante della società.
 
@@ -10892,7 +11476,7 @@ Sono nulle in particolare le deliberazioni dell’assemblea generale che:
 
 [^706b-1]: Introdotto dal n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 
-### B. Il consiglio d’amministrazione****
+### B. Il consiglio d’amministrazione
 
 [^part3-tit26-chap3-lvlB-1]
 
@@ -10941,19 +11525,17 @@ Sono nulle in particolare le deliberazioni dell’assemblea generale che:
 
 ### 3. Durata del mandato
 
-[^part3-tit26-chap3-lvlB-lvlI-lvl3-1]
-
-[^part3-tit26-chap3-lvlB-lvlI-lvl3-1]: Nuovo testo giusta il n. I 1 della LF del 16 dic. 2005 (Diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), in vigore dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
-
 #### Art. 710
 
 [^710-1]
 
-<sup>1</sup> Gli amministratori sono eletti per tre anni, salvo disposizione contraria dello statuto. La durata del mandato non può tuttavia superare i sei anni.
+<sup>1</sup> Il mandato dei membri del consiglio d’amministrazione delle società le cui azioni sono quotate in borsa termina al più tardi alla conclusione della successiva assemblea generale ordinaria. I membri sono eletti individualmente.
 
-<sup>2</sup> È ammessa la rielezione.
+<sup>2</sup> Nelle società le cui azioni non sono quotate in borsa, la durata del mandato è di tre anni, sempre che lo statuto non disponga altrimenti; la durata del mandato non può tuttavia eccedere sei anni. I membri sono eletti individualmente, a meno che lo statuto non preveda altrimenti o il presidente dell’assemblea generale decida diversamente con il consenso di tutti gli azionisti rappresentati.
 
-[^710-1]: Nuovo testo giusta il n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+<sup>3</sup> È ammessa la rielezione.
+
+[^710-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 711
 
@@ -10963,17 +11545,21 @@ Sono nulle in particolare le deliberazioni dell’assemblea generale che:
 
 ### II. Organizzazione
 
-### 1. Presidente e segretario
+### 1. Presidente
 
 #### Art. 712
 
 [^712-1]
 
-<sup>1</sup> Il consiglio d’amministrazione designa il suo presidente e un segretario. Questi non deve necessariamente appartenere al consiglio.
+<sup>1</sup> Nelle società le cui azioni sono quotate in borsa, l’assemblea generale elegge presidente uno dei membri del consiglio d’amministrazione. Il mandato del presidente termina al più tardi alla conclusione della successiva assemblea generale ordinaria.
 
-<sup>2</sup> Lo statuto può disporre che il presidente sia eletto dall’assemblea generale.
+<sup>2</sup> Nelle società le cui azioni non sono quotate in borsa, il consiglio d’amministrazione elegge presidente uno dei suoi membri. Lo statuto può disporre che il presidente sia eletto dall’assemblea generale.
 
-[^712-1]: Nuovo testo giusta il n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+<sup>3</sup> È ammessa la rielezione.
+
+<sup>4</sup> Se la carica di presidente è vacante, il consiglio d’amministrazione nomina un nuovo presidente per la rimanente durata del mandato. Lo statuto può prevedere altre regole per rimediare a questa lacuna nell’organizzazione.
+
+[^712-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 2. Decisioni
 
@@ -10983,11 +11569,19 @@ Sono nulle in particolare le deliberazioni dell’assemblea generale che:
 
 <sup>1</sup> Le decisioni del consiglio d’amministrazione sono prese a maggioranza dei voti emessi. Il presidente ha voto preponderante, salvo disposizione contraria dello statuto.
 
-<sup>2</sup> Le decisioni possono essere prese anche sotto forma dell’annuenza scritta ad una proposta, purché la discussione orale non sia chiesta da un amministratore.
+<sup>2</sup>
 
-<sup>3</sup> Sulle discussioni e decisioni è tenuto un processo verbale, firmato dal presidente e dal segretario.
+Il consiglio d’amministrazione può prendere le sue decisioni:
+
+- 1\. nell’ambito di una seduta in un luogo di riunione;
+- 2\. avvalendosi di mezzi di comunicazione elettronici in applicazione analogica degli articoli 701*c*–701*e*;
+- 3\. in forma scritta, sia questa su supporto cartaceo o elettronico, sempre che un membro non abbia chiesto la discussione orale. Se la decisione è presa per via elettronica la firma non è necessaria, a meno che il consiglio d’amministrazione non abbia disposto altrimenti per scritto.[^713-2]
+
+<sup>3</sup> Sulle discussioni e decisioni è tenuto un processo verbale; questo è firmato dal presidente e dall’estensore.[^713-3]
 
 [^713-1]: Nuovo testo giusta il n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^713-2]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^713-3]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 3. Decisioni nulle
 
@@ -11043,7 +11637,11 @@ Ogni amministratore può esigere dal presidente, indicando i motivi, la convocaz
 
 [^716-1]: Nuovo testo giusta il n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 
-### 2. Attribuzioni inalienabili
+### 2. Attribuzioni intrasmissibili
+
+[^part3-tit26-chap3-lvlB-lvlIII-lvl2-1]
+
+[^part3-tit26-chap3-lvlB-lvlIII-lvl2-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 716a
 
@@ -11059,13 +11657,16 @@ Il consiglio d’amministrazione ha le attribuzioni intrasmissibili e inalienabi
 - 4\. la nomina e la revoca delle persone incaricate della gestione e della rappresentanza;
 - 5\. l’alta vigilanza sulle persone incaricate della gestione, in particolare per quanto concerne l’osservanza della legge, dello statuto, dei regolamenti e delle istruzioni;
 - 6\. l’allestimento della relazione sulla gestione[^716a-3], la preparazione dell’assemblea generale e l’esecuzione delle sue deliberazioni;
-- 7\. l’avviso al giudice in caso di eccedenza dei debiti.
+- 7\.[^716a-4] la presentazione di una domanda di moratoria concordataria e l’avviso al giudice in caso di eccedenza di debiti;
+- 8\.[^716a-5] l’allestimento della relazione sulle retribuzioni, nelle società le cui azioni sono quotate in borsa.
 
 <sup>2</sup> Il consiglio d’amministrazione può attribuire la preparazione e l’esecuzione delle sue decisioni o la vigilanza su determinati affari a comitati di amministratori o a singoli amministratori. Provvede per un’adeguata informazione dei suoi membri.
 
 [^716a-1]: Introdotto dal n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 [^716a-2]: Nuovo testo giusta il n. I 3 della LF del 16 dic. 2005 (Diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), in vigore dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 [^716a-3]: Testo rettificato dalla Commissione di redazione dell’AF (art. 33 LRC – [RU 1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)).
+[^716a-4]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^716a-5]: Introdotto dal n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 3. Delega della gestione
 
@@ -11073,15 +11674,25 @@ Il consiglio d’amministrazione ha le attribuzioni intrasmissibili e inalienabi
 
 [^716b-1]
 
-<sup>1</sup> Lo statuto può autorizzare il consiglio d’amministrazione a delegare integralmente o in parte la gestione a singoli amministratori o a terzi, conformemente al regolamento d’organizzazione.
+<sup>1</sup> Sempre che lo statuto non disponga altrimenti, il consiglio d’amministrazione può delegare integralmente o in parte la gestione a singoli amministratori o a terzi (direzione), conformemente al regolamento d’organizzazione.
 
-<sup>2</sup> Il regolamento stabilisce le modalità di gestione, determina i posti necessari, ne definisce le attribuzioni e disciplina in particolare l’obbligo di riferire. Il consiglio d’amministrazione, a domanda di azionisti o di creditori della società che giustificano un interesse degno di protezione, li informa per scritto sull’organizzazione della gestione.
+<sup>2</sup> Nelle società le cui azioni sono quotate in borsa, la gestione può essere delegata a singoli amministratori o ad altre persone fisiche. La gestione patrimoniale può essere delegata anche a persone giuridiche.
 
-<sup>3</sup> Nella misura in cui non sia stata delegata, la gestione è esercitata dagli amministratori congiuntamente.
+<sup>3</sup> Il regolamento d’organizzazione stabilisce le modalità di gestione, determina i posti necessari, ne definisce le attribuzioni e disciplina in particolare l’obbligo di riferire.
 
-[^716b-1]: Introdotto dal n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+<sup>4</sup> Il consiglio d’amministrazione, a domanda di azionisti o di creditori della società che giustificano un interesse degno di protezione, li informa per scritto o per via elettronica sull’organizzazione della gestione.
+
+<sup>5</sup> Nella misura in cui non sia stata delegata, la gestione è esercitata dagli amministratori congiuntamente.
+
+[^716b-1]: Introdotto dal n. I della LF del 4 ott. 1991 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### IV. Obbligo di diligenza e di fedeltà
+
+### 1. In genere
+
+[^part3-tit26-chap3-lvlB-lvlV-1]
+
+[^part3-tit26-chap3-lvlB-lvlV-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 717
 
@@ -11092,6 +11703,18 @@ Il consiglio d’amministrazione ha le attribuzioni intrasmissibili e inalienabi
 <sup>2</sup> Devono trattare allo stesso modo gli azionisti che si trovano nella stessa situazione.
 
 [^717-1]: Nuovo testo giusta il n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+
+### 2. Conflitti d’interessi
+
+#### Art. 717a
+
+[^717a-1]
+
+<sup>1</sup> I membri del consiglio d’amministrazione e della direzione informano compiutamente e senza indugio il consiglio d’amministrazione sui loro conflitti d’interessi.
+
+<sup>2</sup> Il consiglio d’amministrazione prende i provvedimenti necessari alla salvaguardia degli interessi della società.
+
+[^717a-1]: Introdotto dal n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### V. Rappresentanza
 
@@ -11136,29 +11759,25 @@ Se all’atto della conclusione di un contratto la società è rappresentata dal
 
 ### 4. Firma
 
-[^part3-tit26-chap3-lvlB-lvlV-lvl4-1]
+[^part3-tit26-chap3-lvlB-lvlVI-lvl4-1]
 
-[^part3-tit26-chap3-lvlB-lvlV-lvl4-1]: Nuovo testo giusta il n. I 3 della LF del 16 dic. 2005 (Diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), in vigore dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^part3-tit26-chap3-lvlB-lvlVI-lvl4-1]: Nuovo testo giusta il n. I 3 della LF del 16 dic. 2005 (Diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), in vigore dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 
 #### Art. 719
 
 Le persone autorizzate a rappresentare la società firmano per essa, aggiungendo alla ditta sociale la propria firma.
 
-### 5. Iscrizione
-
-[^part3-tit26-chap3-lvlB-lvlV-lvl5-1]
-
-[^part3-tit26-chap3-lvlB-lvlV-lvl5-1]: Nuovo testo giusta il n. I 3 della LF del 16 dic. 2005 (Diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), in vigore dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
-
 #### Art. 720
 
-Il Consiglio d’amministrazione deve notificare per l’iscrizione all’ufficio del registro di commercio le persone autorizzate a rappresentare la società, producendo una copia autenticata della deliberazione che conferisce loro tale facoltà. Esse devono fare la loro firma davanti all’ufficio del registro di commercio o produrla autenticata.
+[^720-1]
 
-### 6. Procuratori e mandatari
+[^720-1]: Abrogato dal n. I della LF del 19 giu. 2020 (Diritto della società anonima), con effetto dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-[^part3-tit26-chap3-lvlB-lvlV-lvl6-1]
+### 5. Procuratori e mandatari
 
-[^part3-tit26-chap3-lvlB-lvlV-lvl6-1]: Nuovo testo giusta il n. I 3 della LF del 16 dic. 2005 (Diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), in vigore dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^part3-tit26-chap3-lvlB-lvlVI-lvl5-1]
+
+[^part3-tit26-chap3-lvlB-lvlVI-lvl5-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 721
 
@@ -11184,38 +11803,77 @@ La società risponde del danno che una persona, a cui è affidata la sua gestion
 
 [^723724-1]: Abrogati dal n. I della LF del 4 ott. 1991, con effetto dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 
-### VII. Perdita di capitale ed eccedenza dei debiti
+### VII. Rischio d’insolvenza, perdita di capitale ed eccedenza di debiti
 
-### 1. Avvisi obbligatori
+### 1. Rischio d’insolvenza
 
 #### Art. 725
 
 [^725-1]
 
-<sup>1</sup> Se risulta dall’ultimo bilancio annuale che la metà del capitale azionario e delle riserve legali non è più coperta, il consiglio d’amministrazione convoca immediatamente l’assemblea generale e le propone misure di risanamento.
+<sup>1</sup> Il consiglio d’amministrazione sorveglia la solvibilità della società.
 
-<sup>2</sup> Se esiste fondato timore che la società abbia un’eccedenza di debiti, deve essere allestito un bilancio intermedio soggetto alla verifica di un revisore abilitato.[^725-2] Ove risulti da tale bilancio che i debiti sociali non sono coperti né stimando i beni secondo il valore d’esercizio, né stimandoli secondo il valore di alienazione, il consiglio d’amministrazione ne avvisa il giudice, salvo che creditori della società accettino, per questa insufficienza d’attivo, di essere relegati a un grado inferiore a quello di tutti gli altri creditori della società.[^725-3]
+<sup>2</sup> Se vi è il rischio che la società diventi insolvente, il consiglio d’amministrazione adotta provvedimenti che garantiscano la solvibilità. Nella misura del necessario, adotta altri provvedimenti di risanamento della società o ne propone l’adozione all’assemblea generale qualora siano di competenza di quest’ultima. Se necessario, presenta una domanda di moratoria concordataria.
 
-<sup>3</sup> Se una società non dispone di un ufficio di revisione, gli avvisi obbligatori relativi alla verifica limitata incombono al revisore abilitato.[^725-4]
+<sup>3</sup> Il consiglio d’amministrazione interviene con la dovuta sollecitudine.
 
-[^725-1]: Nuovo testo giusta il n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-[^725-2]: Nuovo testo giusta il n. I 3 della LF del 16 dic. 2005 (Diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), in vigore dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
-[^725-3]: [RU 1993 2766](https://fedlex.data.admin.ch/eli/oc/1993/__2766)
-[^725-4]: Introdotto dal n. I 3 della LF del 16 dic. 2005 (Diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), in vigore dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^725-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-### 2. Dichiarazione o differimento del fallimento
+### 2. Perdita di capitale
 
 #### Art. 725a
 
 [^725a-1]
 
-<sup>1</sup> Ricevuto l’avviso, il giudice dichiara il fallimento. Egli può tuttavia differirlo, ad istanza del consiglio d’amministrazione o di un creditore, quando il risanamento appaia probabile; in tal caso prende le misure appropriate per la conservazione del patrimonio sociale.
+<sup>1</sup> Se dall’ultimo conto annuale risulta che gli attivi, una volta dedotti i debiti, non coprono più la metà della somma del capitale azionario e delle riserve legali da capitale e da utili non rimborsabili agli azionisti, il consiglio d’amministrazione adotta misure atte a eliminare la perdita di capitale. Se necessario, adotta altre misure di risanamento della società o ne propone l’adozione all’assemblea generale qualora siano di competenza di quest’ultima.
 
-<sup>2</sup> Il giudice può designare un commissario, e privare il consiglio d’amministrazione del suo potere di disposizione o subordinare le sue decisioni all’approvazione del commissario. Egli delimita in modo dettagliato le attribuzioni del commissario.
+<sup>2</sup> Se la società non ha un ufficio di revisione, l’ultimo conto annuale dev’essere sottoposto a revisione limitata da parte di un revisore abilitato prima di essere approvato dall’assemblea generale. Il revisore abilitato è nominato dal consiglio d’amministrazione.
 
-<sup>3</sup> Il differimento del fallimento è pubblicato solo se la tutela dei terzi lo esige.
+<sup>3</sup> L’obbligo di revisione secondo il capoverso 2 si estingue se il consiglio d’amministrazione presenta una domanda di moratoria concordataria.
 
-[^725a-1]: Introdotto dal n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+<sup>4</sup> Il consiglio d’amministrazione e l’ufficio di revisione o il revisore abilitato intervengono con la dovuta sollecitudine.
+
+[^725a-1]: Introdotto dal n. I della LF del 4 ott. 1991 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### 3. Eccedenza di debiti
+
+#### Art. 725b
+
+[^725b-1]
+
+<sup>1</sup> Se sussiste fondato timore che i debiti della società non siano più coperti dagli attivi, il consiglio d’amministrazione allestisce immediatamente due conti intermedi stimando rispettivamente i beni secondo il valore d’esercizio e secondo il valore di alienazione. Si può rinunciare alla stesura del conto intermedio al valore di alienazione se vi è motivo di presumere la continuazione dell’attività e se dal conto intermedio al valore d’esercizio non risulta un’eccedenza di debiti. Se non vi è motivo di presumere la continuazione dell’attività, è sufficiente stilare il conto intermedio secondo il valore di alienazione.
+
+<sup>2</sup> Il consiglio d’amministrazione fa verificare i conti intermedi dall’ufficio di revisione o, ove non ve ne sia alcuno, nomina un revisore abilitato a cui affidare la verifica.
+
+<sup>3</sup> Se da entrambi i conti intermedi risulta che la società ha un’eccedenza di debiti, il consiglio d’amministrazione ne dà avviso al giudice. Questi dichiara il fallimento o procede secondo l’articolo 173*a* della legge federale dell’11 aprile 1889[^725b-2] sulla esecuzione e sul fallimento.
+
+<sup>4</sup>
+
+L’avviso al giudice può essere omesso:
+
+- 1\. se determinati creditori della società accettano di concedere una dilazione e di essere retrocessi a un grado posteriore a tutti gli altri creditori per crediti di importo almeno pari all’eccedenza dei debiti, a condizione che la retrocessione si estenda all’importo dovuto e agli interessi maturati durante l’eccedenza dei debiti; o
+- 2\. fintanto che vi sono fondate prospettive di eliminare l’eccedenza dei debiti entro un termine adeguato, ma al più tardi 90 giorni dopo la presentazione dei conti intermedi, e di non compromettere ulteriormente il soddisfacimento dei crediti.
+
+<sup>5</sup> Se la società non dispone di un ufficio di revisione, gli avvisi obbligatori relativi alla verifica limitata incombono al revisore abilitato.
+
+<sup>6</sup> Il consiglio d’amministrazione, l’ufficio di revisione o il revisore abilitato intervengono con la dovuta sollecitudine.
+
+[^725b-1]: Introdotto dal n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^725b-2]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+
+### 4. Rivalutazione di fondi e partecipazioni
+
+#### Art. 725c
+
+[^725c-1]
+
+<sup>1</sup> Per eliminare una perdita di capitale secondo l’articolo 725*a* o un’eccedenza di debiti secondo l’articolo 725*b,* i fondi o le partecipazioni il cui valore reale ecceda il prezzo d’acquisto o di costo possono essere rivalutati fino a concorrenza di tale valore. L’ammontare della rivalutazione deve figurare separatamente nella riserva legale da utili come riserva di rivalutazione.
+
+<sup>2</sup> La rivalutazione può aver luogo solo se l’ufficio di revisione o, ove non ve ne sia uno, un revisore abilitato attesta per scritto che sono adempiute le condizioni legali.
+
+<sup>3</sup> La riserva di rivalutazione può essere sciolta soltanto mediante conversione in capitale azionario o in capitale di partecipazione e mediante rettifica di valore o alienazione degli attivi rivalutati.
+
+[^725c-1]: Introdotto dal n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### VIII. Revoca e sospensione
 
@@ -11231,7 +11889,7 @@ La società risponde del danno che una persona, a cui è affidata la sua gestion
 
 <sup>3</sup> Rimangono riservate le azioni di risarcimento che spettassero alle persone revocate o sospese dal loro ufficio.
 
-### C.**** L’ufficio di revisione
+### C. L’ufficio di revisione
 
 [^part3-tit26-chap3-lvlC-1]
 
@@ -11265,11 +11923,14 @@ Le seguenti società fanno verificare mediante revisione ordinaria effettuata da
 
 - 3\. società obbligate ad allestire un conto di gruppo.
 
+<sup>1bis</sup> Se i conti non sono redatti in franchi, la somma di bilancio e la cifra d’affari secondo il capoverso 1 numero 2 sono stabiliti rispettivamente in base al corso di conversione alla data di chiusura del bilancio e al corso medio annuale.[^727-2]
+
 <sup>2</sup> Si procede a una revisione ordinaria anche quando azionisti rappresentanti insieme almeno il 10 per cento del capitale azionario lo chiedono.
 
 <sup>3</sup> Se la legge non la esige, la revisione ordinaria del conto annuale può essere prevista nello statuto o decisa dall’assemblea generale.
 
 [^727-1]: Nuovo testo giusta il n. I della LF del 17 giu. 2011 (Norme sulla revisione), in vigore dal 1° gen. 2012 ([RU 2011 5863](https://fedlex.data.admin.ch/eli/oc/2011/808); [FF 2008 1321](https://fedlex.data.admin.ch/eli/fga/2008/416)). Vedi anche la disp. trans. di detta mod. alla fine del presente testo.
+[^727-2]: Introdotto dal n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 2. Revisione limitata
 
@@ -11331,7 +11992,9 @@ Sono incompatibili con l’indipendenza in particolare:
 
 <sup>5</sup> L’indipendenza non è data nemmeno se i requisiti di indipendenza non sono adempiuti da persone vicine all’ufficio di revisione, alle persone coinvolte nella revisione, ai membri dell’organo superiore di direzione o amministrazione o ad altre persone con funzione decisionale.
 
-<sup>6</sup> Le disposizioni concernenti l’indipendenza si applicano altresì alle società poste sotto una direzione unica con la società da verificare o con l’ufficio di revisione.
+<sup>6</sup> Le disposizioni concernenti l’indipendenza si applicano anche alle imprese che sono controllate dalla società o dall’ufficio di revisione o che controllano la società o l’ufficio di revisione.[^728-1]
+
+[^728-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 2. Attribuzioni dell’ufficio di revisione
 
@@ -11345,11 +12008,14 @@ L’ufficio di revisione verifica se:
 
 - 1\. il conto annuale ed eventualmente il conto di gruppo siano conformi alle disposizioni legali, allo statuto e alla normativa tecnica prescelta;
 - 2\. la proposta del consiglio d’amministrazione all’assemblea generale sull’impiego dell’utile risultante dal bilancio sia conforme alle disposizioni legali e allo statuto;
-- 3\. esista un sistema di controllo interno.
+- 3\. esista un sistema di controllo interno;
+- 4\.[^728a-1] nelle società le cui azioni sono quotate in borsa, la relazione sulle retribuzioni sia conforme alle disposizioni legali e allo statuto.
 
 <sup>2</sup> Nell’eseguire la verifica e nel determinarne la portata l’ufficio di revisione tiene conto del sistema di controllo interno.
 
 <sup>3</sup> La gestione del consiglio d’amministrazione non è oggetto della verifica da parte dell’ufficio di revisione.
+
+[^728a-1]: Introdotto dal n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### b. Relazione di revisione
 
@@ -11383,9 +12049,13 @@ L’ufficio di revisione informa inoltre l’assemblea generale su violazioni de
 
 <sup>3</sup> Se la società è manifestamente oberata di debiti, l’ufficio di revisione ne dà avviso al giudice qualora il consiglio d’amministrazione ometta di farlo.
 
-### IV. Revisione limitata (review)
+### IV. Revisione limitata
 
 ### 1. Indipendenza dell’ufficio di revisione
+
+[^part3-tit26-chap3-lvlC-lvlIV-lvl1-1]
+
+[^part3-tit26-chap3-lvlC-lvlIV-lvl1-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 729
 
@@ -11455,7 +12125,9 @@ Se la società è manifestamente oberata di debiti, l’ufficio di revisione ne 
 
 <sup>3</sup> Nel dare le proprie dimissioni, l’ufficio di revisione ne indica i motivi al consiglio d’amministrazione; questo li comunica all’assemblea generale successiva.
 
-<sup>4</sup> L’assemblea generale può revocare l’ufficio di revisione in qualsiasi momento e con effetto immediato.
+<sup>4</sup> L’assemblea generale può revocare l’ufficio di revisione soltanto per gravi motivi.[^730a-1]
+
+[^730a-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 3. Ragguagli e segreto
 
@@ -11493,7 +12165,7 @@ Se la società è manifestamente oberata di debiti, l’ufficio di revisione ne 
 
 <sup>3</sup> L’assemblea generale può nominare periti per l’esame della gestione o di singole parti di essa.
 
-### D.**** Lacune nell’organizzazione della società
+### D. Lacune nell’organizzazione della società
 
 [^part3-tit26-chap3-lvlD-1]
 
@@ -11529,67 +12201,128 @@ Il giudice può segnatamente:
 [^731b-2]: Introdotto dal n. I della LF del 21 giu. 2019 che attua le raccomandazioni del Forum globale sulla trasparenza e sullo scambio di informazioni a fini fiscali, in vigore dal 1° nov. 2019 ([RU 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [FF 2019 275](https://fedlex.data.admin.ch/eli/fga/2019/18)).
 [^731b-3]: Introdotto dal n. I 2 della LF del 17 mar. 2017 (Diritto del registro di commercio), in vigore dal 1° gen. 2021 ([RU 2020 957](https://fedlex.data.admin.ch/eli/oc/2020/178); [FF 2015 2849](https://fedlex.data.admin.ch/eli/fga/2015/956)).
 
-### Capo quarto: Riduzione del capitale azionario
+### Capo quarto: Retribuzioni nelle società le cui azioni sono quotate in borsa
 
-### A. Deliberazione di riduzione
+[^part3-tit26-chap4-1]
+
+[^part3-tit26-chap4-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023, art.734*f* il 1° gen. 2021 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### A. Campo d’applicazione
 
 #### Art. 732
 
-<sup>1</sup> Qualora una società anonima intenda ridurre il suo capitale azionario, senza sostituire nello stesso tempo l’ammontare della riduzione con capitale nuovo da versare interamente, l’assemblea generale deve modificare conformemente lo statuto.
+<sup>1</sup> Le disposizioni del presente capo si applicano alle società le cui azioni sono quotate in borsa.
 
-<sup>2</sup> L’assemblea generale può così deliberare solo se un perito revisore abilitato conferma in una relazione di verifica che i debiti della società rimarranno interamente coperti nonostante la riduzione del capitale azionario. Il perito revisore deve essere presente all’assemblea generale.[^732-1]
-
-<sup>3</sup> Nella deliberazione dev’essere riprodotto il risultato della relazione di verifica e indicato in che modo dev’essere eseguita la riduzione del capitale.[^732-2]
-
-<sup>4</sup> Il guadagno contabile che potesse risultare dalla riduzione del capitale, dovrà servire esclusivamente ad ammortamenti.
-
-<sup>5</sup> Il capitale azionario può essere ridotto a una somma inferiore a 100 000 franchi soltanto se è simultaneamente sostituito, sino a concorrenza di almeno 100 000 franchi, con capitale nuovo da versare interamente.[^732-3]
-
-[^732-1]: Nuovo testo giusta il n. I 3 della LF del 16 dic. 2005 (Diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), in vigore dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
-[^732-2]: Nuovo testo giusta il n. I 3 della LF del 16 dic. 2005 (Diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), in vigore dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
-[^732-3]: Nuovo testo giusta il n. I 3 della LF del 16 dic. 2005 (Diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), in vigore dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
-
-### B. Soppressione delle azioni in caso di risanamento
+<sup>2</sup> Le altre società possono prevedere nello statuto che il presente capo si applichi in tutto o in parte.
 
 #### Art. 732a
 
-[^732a-1]
+Abrogato
 
-<sup>1</sup> Se, a fini di risanamento, il capitale azionario è ridotto a zero e nuovamente aumentato, i diritti societari degli azionisti decadono all’atto della riduzione. Le azioni emesse devono essere soppresse.
-
-<sup>2</sup> All’atto dell’aumento del capitale azionario, gli azionisti hanno un diritto d’opzione di cui non possono essere privati.
-
-[^732a-1]: Introdotto dal n. I 3 della LF del 16 dic. 2005 (Diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), in vigore dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
-
-### C. Diffida ai creditori
-
-[^part3-tit26-chap4-lvlC-1]
-
-[^part3-tit26-chap4-lvlC-1]: Nuovo testo giusta il n. I 3 della LF del 16 dic. 2005 (Diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), in vigore dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+### B. Comitato di retribuzione
 
 #### Art. 733
 
-Deliberata che sia dall’assemblea generale la riduzione del capitale azionario, il consiglio d’amministrazione pubblica la deliberazione tre volte nel *Foglio ufficiale svizzero di commercio* ed altresì nella forma prevista dallo statuto, informando i creditori che, nei due mesi successivi alla terza pubblicazione nel *Foglio ufficiale svizzero di commer**cio,* essi potranno produrre i loro crediti ed esigere d’essere soddisfatti o garantiti.
+<sup>1</sup> L’assemblea generale nomina individualmente i membri del comitato di retribuzione.
 
-### D. Attuazione della riduzione
+<sup>2</sup> È eleggibile soltanto chi è membro del consiglio d’amministrazione.
 
-[^part3-tit26-chap4-lvlD-1]
+<sup>3</sup> Il mandato termina alla fine della successiva assemblea generale ordinaria. È ammessa la rielezione.
 
-[^part3-tit26-chap4-lvlD-1]: Nuovo testo giusta il n. I 3 della LF del 16 dic. 2005 (Diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), in vigore dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+<sup>4</sup> Se il comitato di retribuzione non è al completo, il consiglio d’amministrazione nomina i membri mancanti per la rimanente durata del mandato. Lo statuto può prevedere altre regole per rimediare a questa lacuna nell’organizzazione.
+
+<sup>5</sup> Lo statuto stabilisce i principi relativi alle attribuzioni e alle competenze del comitato di retribuzione.
+
+### C. Relazione sulle retribuzioni
+
+### I. In genere
 
 #### Art. 734
 
-La riduzione del capitale azionario può essere attuata solo dopo che il termine assegnato ai creditori sia spirato e che i crediti notificati siano stati soddisfatti o garantiti; essa non può essere iscritta prima che sia accertato mediante atto pubblico che le norme del presente capo sono state osservate. All’atto pubblico dev’essere unita la relazione di verifica.[^734-1]
+<sup>1</sup> Il consiglio d’amministrazione allestisce annualmente una relazione scritta sulle retribuzioni.
 
-[^734-1]: Nuovo testo del per. giusta il n. I 3 della LF del 16 dic. 2005 (Diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), in vigore dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+<sup>2</sup> Le disposizioni del titolo trentesimosecondo concernenti i principi della presentazione regolare dei conti, la presentazione, la moneta e la lingua nonché la tenuta e conservazione dei libri sono applicabili per analogia alla relazione sulle retribuzioni.
 
-### ...
+<sup>3</sup> Alla comunicazione e alla pubblicazione della relazione sulle retribuzioni sono applicabili per analogia le disposizioni sulla comunicazione e la pubblicazione della relazione sulla gestione.
 
-#### Art. 734a–734e
+### II. Retribuzioni del consiglio d’amministrazio-ne, della direzione e del consiglio consultivo
 
-[^734a734e-1]
+#### Art. 734a
 
-[^734a734e-1]: Entrano in vigore in un secondo tempo ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+<sup>1</sup>
+
+Nella relazione sulle retribuzioni vanno indicate tutte le retribuzioni che la società ha corrisposto direttamente o indirettamente:
+
+- 1\. ai membri attuali del consiglio d’amministrazione;
+- 2\. ai membri attuali della direzione;
+- 3\. ai membri attuali del consiglio consultivo;
+- 4\. a ex membri del consiglio d’amministrazione, della direzione e del consiglio consultivo, sempre che abbiano una relazione con l’attività svolta a suo tempo da costoro in veste di organi della società; sono eccettuate le prestazioni della previdenza professionale.
+
+<sup>2</sup>
+
+Sono considerate retribuzioni in particolare:
+
+- 1\. gli onorari, i salari, i bonus e gli accrediti;
+- 2\. i tantièmes, le partecipazioni alla cifra d’affari e altre forme di partecipazione al risultato dell’esercizio;
+- 3\. le prestazioni di servizi e le prestazioni in natura;
+- 4\. l’attribuzione di titoli di partecipazione, di diritti di conversione e d’opzione;
+- 5\. le indennità d’assunzione;
+- 6\. le fideiussioni, gli impegni di garanzia, le costituzioni di pegni e altre forme di garanzia;
+- 7\. la rinuncia a crediti;
+- 8\. le spese per il conseguimento di prestazioni previdenziali o che ne accrescono l’entità;
+- 9\. tutte le prestazioni che retribuiscono lavori supplementari;
+- 10\. le indennità legate a un divieto di concorrenza.
+
+<sup>3</sup>
+
+Le indicazioni concernenti le retribuzioni comprendono:
+
+- 1\. l’importo totale corrisposto al consiglio d’amministrazione e l’importo percepito da ciascun membro, con menzione del suo nominativo e della sua funzione;
+- 2\. l’importo totale corrisposto alla direzione e l’importo massimo percepito da un singolo membro, con menzione del suo nominativo e della sua funzione;
+- 3\. l’importo totale corrisposto al consiglio consultivo e l’importo percepito da ciascun membro, con menzione del suo nominativo e della sua funzione;
+- 4\. se del caso, il nome e la funzione dei membri della direzione cui sono stati corrisposti importi aggiuntivi.
+
+### III. Mutui e crediti al consiglio d’amministrazio-ne, alla direzione e al consiglio consultivo
+
+#### Art. 734b
+
+<sup>1</sup>
+
+Nella relazione sulle retribuzioni vanno indicati:
+
+- 1\. i mutui e i crediti non ancora rimborsati concessi ai membri attuali del consiglio d’amministrazione, della direzione e del consiglio consultivo;
+- 2\. i mutui e i crediti non ancora rimborsati concessi a condizioni non usuali sul mercato a ex membri del consiglio d’amministrazione, della direzione e del consiglio consultivo.
+
+<sup>2</sup> Alle indicazioni sui mutui e i crediti si applica per analogia l’articolo 734*a* capoverso 3.
+
+### IV. Retribuzioni, mutui e crediti a persone vicine
+
+#### Art. 734c
+
+<sup>1</sup>
+
+Nella relazione sulle retribuzioni vanno indicati separatamente:
+
+- 1\. le retribuzioni non usuali sul mercato che la società ha corrisposto direttamente o indirettamente a persone vicine a membri attuali ed ex membri del consiglio d’amministrazione, della direzione e del consiglio consultivo;
+- 2\. i mutui e i crediti non ancora rimborsati concessi a condizioni non usuali sul mercato a persone vicine a membri attuali o ex membri del consiglio d’amministrazione, della direzione e del consiglio consultivo.
+
+<sup>2</sup> Non è necessario indicare i nominativi delle persone vicine.
+
+<sup>3</sup> Per il rimanente, si applicano le disposizioni concernenti le indicazioni relative alle retribuzioni, ai mutui e ai crediti concessi ai membri del consiglio d’amministrazione, della direzione e del consiglio consultivo.
+
+### V. Diritti di partecipazione e opzioni su tali diritti
+
+#### Art. 734d
+
+Nella relazione sulle retribuzioni vanno indicati i diritti di partecipazione alla società e le opzioni su tali diritti di ciascun membro attuale del consiglio d’amministrazione, della direzione e del consiglio consultivo, e delle persone a lui vicine, con menzione del suo nominativo e della sua funzione.
+
+### VI. Attività in altre imprese
+
+#### Art. 734e
+
+<sup>1</sup> La relazione sulle retribuzioni menziona le funzioni di cui all’articolo 626 capoverso 2 numero 1 svolte in altre imprese da membri del consiglio d’amministrazione, della direzione e del consiglio consultivo.
+
+<sup>2</sup> Vanno indicati il nominativo del membro, la denominazione dell’impresa e la funzione svolta.
 
 ### VII. Rappresentanza dei sessi nel consiglio d’amministrazio-ne e nella direzione
 
@@ -11602,17 +12335,71 @@ Se uno dei sessi non è rappresentato almeno in ragione del 30 per cento nel con
 - 1\. i motivi per i quali il sesso in questione non è rappresentato come previsto; e
 - 2\. i provvedimenti per promuoverne la rappresentanza.
 
-[^734f-1]: Introdotto dal n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2021 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)). Vedi anche l’art. 4 delle disp. trans. di detta mod. alla fine del presente testo.
+[^734f-1]: Vedi anche l’art. 4 delle disp. trans. della mod. del 19 giu. 2020 alla fine del presente testo.
 
-### E. Riduzione in caso di bilancio in disavanzo
+### D. Voto dell’assemblea generale
 
-[^part3-tit26-chap4-lvlE-1]
-
-[^part3-tit26-chap4-lvlE-1]: Nuovo testo giusta il n. I 3 della LF del 16 dic. 2005 (Diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), in vigore dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+### I. Retribuzioni
 
 #### Art. 735
 
-Tanto la diffida ai creditori quanto il soddisfacimento o la garanzia dei loro crediti, possono essere omessi se, per togliere un’eccedenza passiva accertata nel bilancio e risultante da perdite, il capitale azionario è ridotto di un importo che non superi siffatta eccedenza.
+<sup>1</sup> L’assemblea generale vota sulle retribuzioni che il consiglio d’amministrazione, la direzione e il consiglio consultivo percepiscono direttamente o indirettamente dalla società.
+
+<sup>2</sup> Lo statuto disciplina i dettagli del voto. Può disciplinare il modo di procedere nel caso in cui l’assemblea generale rifiuti di approvare le retribuzioni.
+
+<sup>3</sup>
+
+Devono essere rispettate le seguenti regole:
+
+- 1\. l’assemblea generale vota annualmente sulle retribuzioni;
+- 2\. l’assemblea generale vota separatamente sugli importi totali delle retribuzioni del consiglio d’amministrazione, della direzione e del consiglio consultivo;
+- 3\. il voto dell’assemblea generale ha carattere vincolante;
+- 4\. in caso di voto a titolo prospettivo sulle retribuzioni variabili, la relazione sulle retribuzioni deve essere sottoposta al voto consultivo dell’assemblea generale.
+
+### II. Importo aggiuntivo per la direzione
+
+#### Art. 735a
+
+<sup>1</sup> Nel caso in cui l’assemblea generale voti a titolo prospettivo sulle retribuzioni della direzione, lo statuto può prevedere un importo aggiuntivo per le retribuzioni dei membri della direzione nominati dopo il voto.
+
+<sup>2</sup> L’importo aggiuntivo può essere utilizzato soltanto se l’importo totale deciso dall’assemblea generale per le retribuzioni della direzione non è sufficiente per retribuire il nuovo membro fino al successivo voto dell’assemblea generale.
+
+<sup>3</sup> L’assemblea generale non vota sull’importo aggiuntivo utilizzato.
+
+### E. Durata dei contratti
+
+#### Art. 735b
+
+<sup>1</sup> La durata dei contratti che prevedono le retribuzioni dei membri del consiglio d’amministrazione non deve superare la durata del mandato.
+
+<sup>2</sup> La durata dei contratti a tempo determinato e il termine di disdetta dei contratti a tempo indeterminato che prevedono le retribuzioni dei membri della direzione e del consiglio consultivo non devono superare un anno.
+
+### F. Retribuzioni vietate
+
+### I. Nella società
+
+#### Art. 735c
+
+Le seguenti retribuzioni di membri attuali ed ex membri del consiglio d’amministrazione, della direzione e del consiglio consultivo o di persone loro vicine sono vietate:
+
+- 1\. le indennità di partenza pattuite per contratto o previste dallo statuto; non sono considerate indennità di partenza le retribuzioni dovute fino alla fine del contratto;
+- 2\. le indennità per un divieto di concorrenza che superano la media delle retribuzioni dei tre ultimi esercizi o quelle per un divieto di concorrenza che non è giustificato dall’uso commerciale;
+- 3\. le retribuzioni non usuali sul mercato per un’attività precedentemente svolta in veste di organo della società;
+- 4\. le indennità d’assunzione che non compensano uno svantaggio finanziario comprovabile;
+- 5\. le retribuzioni anticipate;
+- 6\. le provvigioni per l’assunzione o il trasferimento di imprese o parti d’impresa;
+- 7\. i mutui, i crediti e le prestazioni previdenziali al di fuori della previdenza professionale e le retribuzioni in funzione del risultato i cui principi non sono previsti dallo statuto;
+- 8\. l’attribuzione di titoli di partecipazione, diritti di conversione e di opzione i cui principi non sono previsti nello statuto.
+
+### II. Nel gruppo
+
+#### Art. 735d
+
+Sono vietate le retribuzioni a membri del consiglio d’amministrazione, della direzione e del consiglio consultivo, o a persone loro vicine, per attività presso imprese controllate dalla società, se tali retribuzioni:
+
+- 1\. sarebbero vietate se fossero corrisposte direttamente dalla società;
+- 2\. non sono previste nello statuto; o
+- 3\. non sono state approvate dall’assemblea generale della società.
 
 ### Capo quinto: Scioglimento della società
 
@@ -11622,25 +12409,34 @@ Tanto la diffida ai creditori quanto il soddisfacimento o la garanzia dei loro c
 
 #### Art. 736
 
+<sup>1</sup>
+
 La società si scioglie:
 
 - 1\. in conformità dello statuto;
 - 2\. per deliberazione dell’assemblea generale che risulti da atto pubblico;
 - 3\. per la dichiarazione del suo fallimento;
-- 4\.[^736-1] per sentenza del giudice, quando azionisti che rappresentino insieme il 10 per cento almeno del capitale azionario chiedano per gravi motivi lo scioglimento. Il giudice può anche decidere un’altra soluzione adeguata e sopportabile dagli interessati;
+- 4\.[^736-1] per sentenza del giudice, quando azionisti che rappresentino insieme il 10 per cento almeno del capitale azionario o dei voti chiedano per gravi motivi lo scioglimento;
 - 5\. per gli altri motivi previsti dalla legge.
 
-[^736-1]: Nuovo testo giusta il n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+<sup>2</sup> Nel caso dell’azione di scioglimento per gravi motivi il giudice può, anziché pronunciare lo scioglimento, ordinare un’altra soluzione adeguata e sopportabile per gli interessati.[^736-2]
 
-### II. Notificazione al registro di commercio
+[^736-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^736-2]: Introdotto dal n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### II. Iscrizione nel registro di commercio
 
 #### Art. 737
 
 [^737-1]
 
-Lo scioglimento della società, eccetto che avvenga per fallimento o sentenza del giudice, dev’essere notificato dal consiglio d’amministrazione per l’iscrizione nel registro di commercio.
+<sup>1</sup> Lo scioglimento della società deve essere iscritto nel registro di commercio.
 
-[^737-1]: Nuovo testo giusta il n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+<sup>2</sup> Se la società è sciolta per sentenza del giudice, questi ne informa senza indugio l’ufficio del registro di commercio.
+
+<sup>3</sup> Se è sciolta per altri motivi, la società notifica lo scioglimento all’ufficio del registro di commercio.
+
+[^737-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### III. Conseguenze
 
@@ -11719,7 +12515,7 @@ La società sciolta entra in liquidazione, tranne nei casi di fusione, di scissi
 
 <sup>4</sup> Essi possono realizzare l’attivo anche ad offerte private, salvo che l’assemblea generale non abbia preso una diversa deliberazione.
 
-<sup>5</sup> Se la liquidazione si protrae, i liquidatori devono allestire annualmente un bilancio intermedio.
+<sup>5</sup> Se la liquidazione si protrae, i liquidatori devono allestire annualmente un conto intermedio.
 
 <sup>6</sup> La società risponde del danno che un liquidatore cagiona con atti illeciti commessi nell’esercizio delle sue incombenze.
 
@@ -11737,12 +12533,13 @@ La società sciolta entra in liquidazione, tranne nei casi di fusione, di scissi
 
 <sup>1</sup> Estinti i debiti, il patrimonio della società disciolta è, salvo disposizione contraria dello statuto, ripartito tra gli azionisti nella misura dei versamenti da essi eseguiti e tenuto conto dei privilegi inerenti a determinate categorie di azioni.[^745-1]
 
-<sup>2</sup> La ripartizione non può farsi prima che sia trascorso un anno dal giorno in cui la diffida ai creditori fu pubblicata per la terza volta.
+<sup>2</sup> La ripartizione non può farsi prima che sia trascorso un anno dal giorno in cui la diffida ai creditori fu pubblicata.[^745-2]
 
-<sup>3</sup> Si può procedere alla ripartizione già dopo tre mesi qualora un perito revisore abilitato confermi che i debiti sono estinti e dalle circostanze può essere dedotto che non è messo in pericolo alcun interesse di terzi.[^745-2]
+<sup>3</sup> Si può procedere alla ripartizione già dopo tre mesi qualora un perito revisore abilitato confermi che i debiti sono estinti e dalle circostanze può essere dedotto che non è messo in pericolo alcun interesse di terzi.[^745-3]
 
 [^745-1]: Nuovo testo giusta il n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-[^745-2]: Nuovo testo giusta il n. I 3 della LF del 16 dic. 2005 (Diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), in vigore dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^745-2]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^745-3]: Nuovo testo giusta il n. I 3 della LF del 16 dic. 2005 (Diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), in vigore dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 
 ### IV. Cancellazione nel registro di commercio
 
@@ -11802,11 +12599,12 @@ Terminata la liquidazione, i liquidatori devono notificare all’ufficio del reg
 
 I promotori, gli amministratori e tutti coloro che cooperano alla costituzione di una società sono responsabili sia verso la società sia verso i singoli azionisti e creditori della società per il danno loro cagionato:
 
-- 1\. indicando in modo inesatto o suscettibile d’indurre in errore, sottacendo o dissimulando, intenzionalmente o per negligenza, conferimenti in natura o assunzioni di beni o vantaggi speciali accordati ad azionisti o ad altri, nello statuto, in una relazione dei promotori o d’aumento del capitale, o agendo in altro modo contrario alla legge in occasione dell’approvazione di una misura di tal genere;
+- 1\.[^753-2] indicando in modo inesatto o suscettibile d’indurre in errore, sottacendo o dissimulando, intenzionalmente o per negligenza, conferimenti in natura o vantaggi speciali accordati ad azionisti o ad altri, nello statuto, in una relazione dei promotori o d’aumento del capitale, o agendo in altro modo contrario alla legge in occasione dell’approvazione di una misura di tal genere;
 - 2\. facendo iscrivere, intenzionalmente o per negligenza, la società nel registro di commercio in base ad un’attestazione o a un documento contenenti indicazioni inesatte;
 - 3\. contribuendo scientemente a far accettare sottoscrizioni da persone insolventi.
 
 [^753-1]: Nuovo testo giusta il n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^753-2]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### III. Responsabilità per l’amministrazione, la gestione e la liquidazione
 
@@ -11843,10 +12641,10 @@ I promotori, gli amministratori e tutti coloro che cooperano alla costituzione d
 
 <sup>1</sup> Per chiedere il risarcimento del danno causato alla società possono agire in giudizio, oltre la società, anche i singoli azionisti. La domanda di questi ultimi può tendere solo a far ottenere una prestazione alla società.
 
-<sup>2</sup> ...[^756-2]
+<sup>2</sup> L’assemblea generale può deliberare che la società proponga l’azione di responsabilità. Può incaricare il consiglio d’amministrazione o un rappresentante di condurre la causa.[^756-2]
 
 [^756-1]: Nuovo testo giusta il n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-[^756-2]: Abrogato dall’all. 1 n. II 5 del Codice di procedura civile del 19 dic. 2008, con effetto dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^756-2]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### II. Pretese nel fallimento
 
@@ -11860,8 +12658,11 @@ I promotori, gli amministratori e tutti coloro che cooperano alla costituzione d
 
 <sup>3</sup> È fatta salva la cessione delle pretese della società, giusta l’articolo 260 della legge federale dell’11 aprile 1889 sull’esecuzione e sul fallimento.
 
+<sup>4</sup> Nel calcolare il danno subito dalla società non sono presi in considerazione i crediti dei creditori sociali che hanno accettato di essere relegati a un grado posteriore a quello di tutti gli altri creditori.[^757-3]
+
 [^757-1]: Nuovo testo giusta il n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 [^757-2]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^757-3]: Introdotto dal n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### III. Effetti del discarico
 
@@ -11871,9 +12672,10 @@ I promotori, gli amministratori e tutti coloro che cooperano alla costituzione d
 
 <sup>1</sup> La deliberazione di discarico presa dall’assemblea generale vale solo per i fatti noti ed è opponibile solo alla società e agli azionisti che l’abbiano approvata o che abbiano acquistato le azioni dopo aver avuto conoscenza del discarico.
 
-<sup>2</sup> Il diritto d’agire degli altri azionisti si estingue sei mesi dopo la deliberazione di discarico.
+<sup>2</sup> Il diritto d’agire degli altri azionisti si estingue dodici mesi dopo la deliberazione di discarico. Il termine resta sospeso durante la procedura d’istituzione di una verifica speciale e durante l’esecuzione della verifica.[^758-2]
 
 [^758-1]: Nuovo testo giusta il n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^758-2]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### C. Solidarietà e regresso
 
@@ -11895,11 +12697,12 @@ I promotori, gli amministratori e tutti coloro che cooperano alla costituzione d
 
 [^760-1]
 
-<sup>1</sup> Le azioni di risarcimento contro le persone responsabili a norma delle precedenti disposizioni si prescrivono in cinque anni dal giorno in cui il danneggiato ha avuto conoscenza del danno e della persona responsabile, ma in ogni caso in dieci anni dal giorno in cui il fatto dannoso è stato commesso o è cessato.
+<sup>1</sup> Le azioni di risarcimento contro le persone responsabili a norma delle precedenti disposizioni si prescrivono in tre anni dal giorno in cui il danneggiato conobbe il danno e la persona responsabile, e in ogni caso nel termine di dieci anni dal giorno in cui ha avuto luogo o è cessato l’atto che ha causato il danno. Il termine rimane sospeso durante la procedura d’istituzione di una verifica speciale e durante l’esecuzione della verifica.[^760-2]
 
 <sup>2</sup> Se il fatto dannoso commesso dalla persona responsabile costituisce un fatto punibile, l’azione di risarcimento si prescrive al più presto alla scadenza del termine di prescrizione dell’azione penale. Se la prescrizione dell’azione penale si estingue a seguito di una sentenza penale di prima istanza, l’azione civile si prescrive al più presto in tre anni dalla comunicazione della sentenza.
 
 [^760-1]: Nuovo testo giusta il n. I della LF del 15 giu. 2018 (Revisione della disciplina della prescrizione), in vigore dal 1° gen. 2020 ([RU 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [FF 2014 211](https://fedlex.data.admin.ch/eli/fga/2014/65)).
+[^760-2]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 761
 
@@ -11919,8 +12722,11 @@ I promotori, gli amministratori e tutti coloro che cooperano alla costituzione d
 
 <sup>4</sup> Per gli amministratori ed i revisori designati dalla corporazione di diritto pubblico, questa risponde verso la società, gli azionisti e i creditori, salvo il regresso secondo il diritto federale o cantonale.
 
+<sup>5</sup> Il diritto della corporazione di diritto pubblico di delegare una o più persone a rappresentarla nel consiglio d’amministrazione oppure di revocarle sussiste anche nelle società le cui azioni sono quotate in borsa.[^762-3]
+
 [^762-1]: Nuovo testo giusta il n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 [^762-2]: Nuovo testo giusta il n. I della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^762-3]: Introdotto dal n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### Capo ottavo: Istituti di diritto pubblico non soggetti alla presente legge
 
@@ -11950,11 +12756,11 @@ I promotori, gli amministratori e tutti coloro che cooperano alla costituzione d
 
 <sup>1</sup> I soci illimitatamente responsabili formano l’amministrazione della società in accomandita per azioni. Spettano loro la gestione e la rappresentanza della società. Lo statuto deve indicare i loro nomi.
 
-<sup>2</sup> Il nome, il domicilio, il luogo d’origine e la funzione dei membri dell’amministrazione (amministratori) e delle persone autorizzate a rappresentare la società devono essere iscritti nel registro di commercio.[^765-1]
+<sup>2</sup> ...[^765-1]
 
 <sup>3</sup> Ogni cambiamento dei soci illimitatamente responsabili esige il consenso dei membri che rimangono a far parte dell’amministrazione ed una modificazione dello statuto.
 
-[^765-1]: Nuovo testo giusta il n. I 3 della LF del 16 dic. 2005 (Diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), in vigore dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^765-1]: Abrogato dal n. I della LF del 19 giu. 2020 (Diritto della società anonima), con effetto dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### II. Annuenza a deliberazioni dell’assemblea generale
 
@@ -12010,7 +12816,7 @@ Le deliberazioni dell’assemblea generale riguardanti il cambiamento dello scop
 
 <sup>2</sup> Quando uno tra più soci illimitatamente responsabili dia disdetta, la società è continuata dagli altri, salvo disposizione contraria dello statuto.
 
-### Titolo ventesimottavo:**** Della società a garanzia limitata
+### Titolo ventesimottavo: Della società a garanzia limitata
 
 [^part3-tit28-1]
 
@@ -12030,15 +12836,23 @@ Le deliberazioni dell’assemblea generale riguardanti il cambiamento dello scop
 
 #### Art. 773
 
-Il capitale sociale non può essere inferiore a 20 000 franchi.
+[^773-1]
+
+<sup>1</sup> Il capitale sociale non può essere inferiore a 20 000 franchi.
+
+<sup>2</sup> Il capitale sociale può essere espresso nella moneta estera più importante per l’attività dell’impresa. Le disposizioni del diritto della società anonima concernenti il capitale azionario in una moneta estera si applicano per analogia.
+
+[^773-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### C. Quote sociali
 
 #### Art. 774
 
-<sup>1</sup> Il valore nominale delle quote sociali non può essere inferiore a 100 franchi. In occasione di un risanamento della società può essere ridotto fino a 1 franco.
+<sup>1</sup> Le quote sociali hanno un valore nominale superiore a zero.[^774-1]
 
 <sup>2</sup> Le quote sociali devono essere emesse almeno al valore nominale.
+
+[^774-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### D. Buoni di godimento
 
@@ -12046,11 +12860,13 @@ Il capitale sociale non può essere inferiore a 20 000 franchi.
 
 Lo statuto può prevedere l’emissione di buoni di godimento; le disposizioni del diritto della società anonima si applicano per analogia.
 
-### E. Soci
+### E. ...
 
 #### Art. 775
 
-Una società a garanzia limitata può essere costituita da una o più persone fisiche o giuridiche o da altre società commerciali.
+[^775-1]
+
+[^775-1]: Abrogato dal n. I della LF del 19 giu. 2020 (Diritto della società anonima), con effetto dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### F. Statuto
 
@@ -12058,53 +12874,23 @@ Una società a garanzia limitata può essere costituita da una o più persone fi
 
 #### Art. 776
 
-Lo statuto deve contenere disposizioni su:
+Lo statuto deve contenere disposizioni sui punti seguenti:[^776-1]
 
 - 1\. la ditta e la sede della società;
 - 2\. lo scopo della società;
 - 3\. l’importo del capitale sociale nonché il numero e il valore nominale delle quote sociali;
-- 4\. la forma nella quale devono essere fatte le pubblicazioni sociali.
+- 4\.[^776-2] la forma delle comunicazioni della società ai soci.
 
-### II. Altre disposizioni
+[^776-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^776-2]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### II. ...
 
 #### Art. 776a
 
-<sup>1</sup>
+[^776a-1]
 
-Non vincolano, se non sono contenute nello statuto, le disposizioni riguardanti:
-
-- 1\. l’introduzione dell’obbligo di effettuare versamenti suppletivi o di fornire prestazioni accessorie e le relative modalità;
-- 2\. l’introduzione a favore dei soci o della società di diritti preferenziali, di prelazione o di compera sulle quote sociali e le relative modalità;
-- 3\. il divieto di concorrenza imposto ai soci;
-- 4\. le pene convenzionali volte ad assicurare l’adempimento di obblighi legali o statutari;
-- 5\. i privilegi inerenti a determinate categorie di quote sociali (quote sociali privilegiate);
-- 6\. il conferimento ai soci di diritti di veto concernenti le deliberazioni dell’assemblea dei soci;
-- 7\. la limitazione del diritto di voto dei soci e del loro diritto di farsi rappresentare;
-- 8\. i buoni di godimento;
-- 9\. le riserve statutarie;
-- 10\. l’attribuzione all’assemblea dei soci di competenze che vanno oltre quelle previste dalla legge;
-- 11\. l’approvazione di determinate decisioni dei gerenti da parte dell’assemblea dei soci;
-- 12\. l’obbligo di sottoporre all’approvazione dell’assemblea dei soci la designazione di persone fisiche che esercitino il diritto di gestione per conto di soci che sono persone giuridiche o società commerciali;
-- 13\. la facoltà dei gerenti di nominare direttori, procuratori e mandatari;
-- 14\. il versamento di tantièmes ai gerenti;
-- 15\. l’attribuzione di interessi per il periodo di avviamento;
-- 16\. l’organizzazione e le attribuzioni dell’ufficio di revisione, in quanto tali disposizioni eccedano l’ambito fissato dalla legge;
-- 17\. il conferimento di un diritto statutario di recedere dalla società, le condizioni di esercizio di tale diritto e la relativa indennità;
-- 18\. i motivi speciali di esclusione di un socio dalla società;
-- 19\. le cause di scioglimento non previste dalla legge.
-
-<sup>2</sup>
-
-Non vincolano, se non sono contenute nello statuto, neppure le deroghe alle prescrizioni di legge riguardanti:
-
-- 1\. le deliberazioni concernenti la creazione ulteriore di nuove quote sociali privilegiate;
-- 2\. il trasferimento di quote sociali;
-- 3\. la convocazione dell’assemblea dei soci;
-- 4\. la determinazione del diritto di voto dei soci;
-- 5\. le deliberazioni dell’assemblea dei soci;
-- 6\. le deliberazioni dei gerenti;
-- 7\. la gestione e la rappresentanza;
-- 8\. il divieto di concorrenza imposto ai gerenti.
+[^776a-1]: Abrogato dal n. I della LF del 19 giu. 2020 (Diritto della società anonima), con effetto dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### G. Costituzione
 
@@ -12120,11 +12906,12 @@ In questo atto costitutivo i promotori sottoscrivono le quote sociali e accertan
 
 - 1\. tutte le quote sociali sono state validamente sottoscritte;
 - 2\. i conferimenti corrispondono al prezzo totale di emissione;
-- 3\. i conferimenti sono stati effettuati conformemente a quanto richiesto dalla legge e dallo statuto;
+- 3\.[^777-1] al momento della firma dell’atto costitutivo, i conferimenti sono stati effettuati conformemente a quanto richiesto dalla legge e dallo statuto;
 - 4\. accettano l’obbligo statutario di effettuare versamenti suppletivi o di fornire prestazioni accessorie;
-- 5\.[^777-1] non vi sono altri conferimenti in natura, assunzioni di beni e previste assunzioni di beni, compensazioni di crediti o vantaggi speciali oltre a quelli menzionati nei documenti giustifica
+- 5\.[^777-2] non vi sono altri conferimenti in natura, compensazioni di crediti o vantaggi speciali oltre a quelli menzionati nei documenti giustificativi.
 
-[^777-1]: Introdotto dal n. I 2 della LF del 17 mar. 2017 (Diritto del registro di commercio), in vigore dal 1° gen. 2021 ([RU 2020 957](https://fedlex.data.admin.ch/eli/oc/2020/178); [FF 2015 2849](https://fedlex.data.admin.ch/eli/fga/2015/956)).
+[^777-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^777-2]: Introdotto dal n. I 2 della LF del 17 mar. 2017 (Diritto del registro di commercio) ([RU 2020 957](https://fedlex.data.admin.ch/eli/oc/2020/178); [FF 2015 2849](https://fedlex.data.admin.ch/eli/fga/2015/956)). Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### II. Sottoscrizione delle quote sociali
 
@@ -12154,7 +12941,9 @@ All’atto costitutivo devono essere acclusi:
 - 3\. l’attestazione di verifica;
 - 4\. l’attestazione di deposito dei conferimenti in denaro;
 - 5\. i contratti riguardanti i conferimenti in natura;
-- 6\. i contratti esistenti di assunzione di beni.
+- 6\.[^777b-1] ...
+
+[^777b-1]: Abrogato dal n. I della LF del 19 giu. 2020 (Diritto della società anonima), con effetto dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### IV. Conferimenti
 
@@ -12166,9 +12955,12 @@ All’atto costitutivo devono essere acclusi:
 
 Per il rimanente, le disposizioni del diritto della società anonima si applicano per analogia:
 
-- 1\. all’indicazione nello statuto dei conferimenti in natura, dell’assunzione di beni e dei vantaggi speciali;
-- 2\. all’iscrizione nel registro di commercio dei conferimenti in natura, dell’assunzione di beni e dei vantaggi speciali;
+- 1\.[^777c-1] all’indicazione nello statuto dei conferimenti in natura, delle compensazioni e dei vantaggi speciali;
+- 2\.[^777c-2] *...*
 - 3\. alla prestazione e alla verifica dei conferimenti.
+
+[^777c-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^777c-2]: Abrogato dal n. I della LF del 19 giu. 2020 (Diritto della società anonima), con effetto dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### H. Iscrizione nel registro di commercio
 
@@ -12208,11 +13000,15 @@ La società deve essere iscritta nel registro di commercio del luogo in cui ha s
 
 <sup>2</sup> Se entro tre mesi dall’iscrizione la società assume impegni espressamente contratti in suo nome, le persone che li hanno contratti ne sono liberate e ne risponde soltanto la società.
 
-### K. Modifica dello statuto
+### K. Modificazione dello statuto
 
 #### Art. 780
 
-Ogni deliberazione dell’assemblea dei soci che modifichi lo statuto deve risultare da un atto pubblico ed essere iscritta nel registro di commercio.
+[^780-1]
+
+La deliberazione dell’assemblea dei soci o dei gerenti che modifichi lo statuto deve risultare da un atto pubblico ed essere iscritta nel registro di commercio.
+
+[^780-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### L. Aumento del capitale sociale
 
@@ -12224,7 +13020,7 @@ Ogni deliberazione dell’assemblea dei soci che modifichi lo statuto deve risul
 
 <sup>3</sup> La sottoscrizione delle quote sociali e i conferimenti sono retti dalle disposizioni concernenti la costituzione della società. Il rinvio ai diritti e agli obblighi statutari non è necessario se il sottoscrittore è già socio. Alla scheda di sottoscrizione si applicano inoltre per analogia le disposizioni del diritto della società anonima concernenti l’aumento del capitale azionario. L’offerta pubblica di sottoscrizione delle quote sociali è esclusa.[^781-1]
 
-<sup>4</sup> L’aumento del capitale sociale dev’essere notificato per l’iscrizione nel registro di commercio entro tre mesi dalla deliberazione dell’assemblea dei soci; in caso contrario la deliberazione decade.
+<sup>4</sup> L’aumento del capitale sociale dev’essere notificato per l’iscrizione nel registro di commercio entro sei mesi dalla deliberazione dell’assemblea dei soci; in caso contrario la deliberazione decade.[^781-2]
 
 <sup>5</sup>
 
@@ -12238,6 +13034,7 @@ Per il rimanente, le disposizioni del diritto della società anonima concernenti
 - 6\. all’iscrizione dell’aumento del capitale sociale nel registro di commercio e alla nullità dei titoli emessi prima dell’iscrizione.
 
 [^781-1]: Nuovo testo giusta il n. I 2 della LF del 17 mar. 2017 (Diritto del registro di commercio), in vigore dal 1° gen. 2021 ([RU 2020 957](https://fedlex.data.admin.ch/eli/oc/2020/178); [FF 2015 2849](https://fedlex.data.admin.ch/eli/fga/2015/956)).
+[^781-2]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### M. Riduzione del capitale sociale
 
@@ -12245,11 +13042,13 @@ Per il rimanente, le disposizioni del diritto della società anonima concernenti
 
 <sup>1</sup> L’assemblea dei soci può deliberare la riduzione del capitale sociale.
 
-<sup>2</sup> Il capitale sociale non può in nessun caso essere ridotto a una somma inferiore a 20 000 franchi.
+<sup>2</sup> Il capitale sociale può essere ridotto a una somma inferiore a 20 000 franchi soltanto se è simultaneamente aumentato almeno sino a concorrenza di questo ammontare.[^782-1]
 
 <sup>3</sup> Il capitale sociale può essere ridotto al fine di eliminare un’eccedenza passiva accertata nel bilancio e risultante da perdite soltanto se i soci hanno integralmente effettuato i versamenti suppletivi previsti nello statuto.
 
 <sup>4</sup> Per il rimanente, si applicano per analogia le disposizioni del diritto della società anonima concernenti la riduzione del capitale azionario.
+
+[^782-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### N. Acquisto di quote sociali proprie
 
@@ -12399,9 +13198,11 @@ Nel libro delle quote sono iscritti:
 
 #### Art. 791
 
-<sup>1</sup> I soci devono essere iscritti nel registro di commercio indicando il loro nome, domicilio e luogo d’origine, nonché il numero e il valore nominale delle loro quote sociali.
+[^791-1]
 
-<sup>2</sup> La notificazione per l’iscrizione è fatta dalla società.
+I soci devono essere iscritti nel registro di commercio indicando il numero e il valore nominale delle loro quote sociali.
+
+[^791-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### V. Proprietà collettiva
 
@@ -12500,31 +13301,31 @@ I versamenti suppletivi effettuati possono essere rimborsati, in tutto o in part
 
 L’introduzione susseguente e l’estensione di obblighi statutari di effettuare versamenti suppletivi o di fornire prestazioni accessorie richiedono il consenso di tutti i soci interessati.
 
-### E. Dividendi, interessi e tantièmes
+### IV. Tribunale arbitrale
 
-### I. Dividendi
+#### Art. 797a
+
+[^797a-1]
+
+Le disposizioni del diritto della società anonima sul tribunale arbitrale sono applicabili per analogia.
+
+[^797a-1]: Introdotto dal n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### E. Dividendi, interessi e tantièmes
 
 #### Art. 798
 
-<sup>1</sup> Possono essere prelevati dividendi soltanto sull’utile risultante dal bilancio e sulle riserve costituite a tal fine.
+[^798-1]
 
-<sup>2</sup> Il dividendo non può essere determinato prima che siano state assegnate alle riserve legali e statutarie le somme loro destinate dalla legge e dallo statuto.
+Le disposizioni del diritto della società anonima sui dividendi, gli acconti sui dividendi, gli interessi per il periodo d’avviamento e i tantièmes si applicano per analogia.
 
-<sup>3</sup> I dividendi devono essere determinati in proporzione al valore nominale delle quote sociali; se sono stati effettuati versamenti suppletivi, il loro importo deve essere sommato al valore nominale delle quote sociali; lo statuto può prevedere un disciplinamento diverso.
+[^798-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-### II. Interessi
+#### Art. 798a e 798b
 
-#### Art. 798a
+[^798a798b-1]
 
-<sup>1</sup> Non possono essere pagati interessi a favore del capitale sociale e dei versamenti suppletivi effettuati.
-
-<sup>2</sup> È ammesso il versamento di interessi per il periodo di avviamento. La disposizione del diritto della società anonima concernente gli interessi per il periodo di avviamento si applica per analogia.
-
-### III. Tantièmes
-
-#### Art. 798b
-
-Lo statuto può prevedere il versamento di tantièmes ai gerenti. Le disposizioni del diritto della società anonima concernenti i tantièmes si applicano per analogia.
+[^798a798b-1]: Abrogati dal n. I della LF del 19 giu. 2020 (Diritto della società anonima), con effetto dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### F. Quote sociali privilegiate
 
@@ -12562,11 +13363,13 @@ Le disposizioni del diritto della società anonima concernenti le riserve si app
 
 <sup>1</sup> Ogni socio può esigere dai gerenti ragguagli su tutti gli affari della società.
 
-<sup>2</sup> Se la società non ha un ufficio di revisione, ogni socio può consultare libri e atti senza restrizioni. Se la società ha un ufficio di revisione, il diritto di consultazione è accordato soltanto in quanto sia reso verosimile un interesse legittimo.
+<sup>2</sup> Se la società non ha un ufficio di revisione, ogni socio può consultare i libri della società e gli atti senza restrizioni.[^802-1] Se la società ha un ufficio di revisione, il diritto di consultazione è accordato soltanto in quanto sia reso verosimile un interesse legittimo.
 
 <sup>3</sup> Se vi è il rischio che il socio utilizzi le informazioni ottenute per scopi estranei alla società e a danno della stessa, i gerenti possono rifiutare, per quanto necessario, di fornire ragguagli o di autorizzare la consultazione; su richiesta del socio, decide l’assemblea dei soci.
 
 <sup>4</sup> In caso di rifiuto ingiustificato dell’assemblea dei soci, il giudice ordina, ad istanza del socio, che i ragguagli siano forniti o la consultazione autorizzata.
+
+[^802-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### L. Obbligo di fedeltà e divieto di concorrenza
 
@@ -12596,9 +13399,10 @@ All’assemblea dei soci spettano le attribuzioni intrasmissibili seguenti:
 
 - 1\. la modifica dello statuto;
 - 2\. la nomina e la revoca dei gerenti;
-- 3\. la nomina e la revoca dei membri dell’ufficio di revisione e del revisore del conto di gruppo;
-- 4\.[^804-1] l’approvazione della relazione annuale e del conto di gruppo;
+- 3\.[^804-1] la nomina e la revoca dei membri dell’ufficio di revisione;
+- 4\.[^804-2] l’approvazione della relazione annuale e del conto di gruppo;
 - 5\. l’approvazione del conto annuale e la deliberazione sull’impiego dell’utile risultante dal bilancio, in particolare la determinazione dei dividendi e dei tantièmes;
+- 5<sup>bis</sup>.[^804-3] la deliberazione sul rimborso delle riserve da capitale;
 - 6\. la determinazione dell’indennità dei gerenti;
 - 7\. il discarico ai gerenti;
 - 8\. l’approvazione della cessione di quote sociali e il riconoscimento di un acquirente quale socio con diritto di voto;
@@ -12615,7 +13419,9 @@ All’assemblea dei soci spettano le attribuzioni intrasmissibili seguenti:
 
 <sup>3</sup> L’assemblea dei soci nomina i direttori, i procuratori e i mandatari. Lo statuto può conferire tale attribuzione anche ai gerenti.
 
-[^804-1]: Nuovo testo giusta il n. I 3 della LF del 23 dic. 2011 (Diritto contabile), in vigore dal 1° gen. 2013 ([RU 2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810); [FF 2008 1321](https://fedlex.data.admin.ch/eli/fga/2008/416)).
+[^804-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^804-2]: Nuovo testo giusta il n. I 3 della LF del 23 dic. 2011 (Diritto contabile), in vigore dal 1° gen. 2013 ([RU 2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810); [FF 2008 1321](https://fedlex.data.admin.ch/eli/fga/2008/416)).
+[^804-3]: Introdotto dal n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### II. Convocazione e svolgimento
 
@@ -12627,21 +13433,27 @@ All’assemblea dei soci spettano le attribuzioni intrasmissibili seguenti:
 
 <sup>3</sup> L’assemblea dei soci è convocata almeno 20 giorni prima di quello fissato per l’adunanza. Lo statuto può prorogare questo termine o abbreviarlo sino a dieci giorni. È fatta salva la possibilità di una riunione di tutti i soci.
 
-<sup>4</sup> Le deliberazioni dell’assemblea dei soci possono anche essere prese per scritto, sempreché un socio non chieda la discussione orale.
+<sup>4</sup> ...[^805-1]
 
 <sup>5</sup>
 
 Per il rimanente, le disposizioni del diritto della società anonima concernenti l’assemblea generale si applicano per analogia:
 
 - 1\. alla convocazione;
-- 2\. al diritto di convocazione e di proposta dei soci;
+- 2\.[^805-2] al diritto di convocazione, al diritto di chiedere l’iscrizione di oggetti all’ordine del giorno e al diritto di proposta dei soci;
+- 2<sup>bis</sup>.[^805-3] al luogo di riunione e all’impiego di mezzi di comunicazione elettronici;
 - 3\. agli oggetti in deliberazione;
 - 4\. alle proposte;
-- 5\. alla riunione di tutti i soci;
+- 5\.[^805-4] alla riunione di tutti i soci e all’approvazione di una proposta;
 - 6\. alle misure preparatorie;
 - 7\. al processo verbale;
 - 8\. alla rappresentanza dei soci;
 - 9\. alla partecipazione abusiva.
+
+[^805-1]: Abrogato dal n. I della LF del 19 giu. 2020 (Diritto della società anonima), con effetto dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^805-2]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^805-3]: Introdotto dal n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^805-4]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### III. Diritto di voto
 
@@ -12715,13 +13527,19 @@ Una deliberazione dell’assemblea dei soci approvata da almeno due terzi dei vo
 - 4\. l’approvazione della cessione di quote sociali e il riconoscimento di un acquirente quale socio con diritto di voto;
 - 5\. l’aumento del capitale sociale;
 - 6\. la limitazione o la soppressione del diritto di opzione;
+- [tab] 6<sup>bis</sup>.[^808b-1] il cambiamento della moneta in cui è espresso il capitale sociale;
 - 7\. l’approvazione di attività dei gerenti e dei soci che violano l’obbligo di fedeltà o il divieto di concorrenza;
 - 8\. la domanda giudiziale di escludere un socio per gravi motivi;
 - 9\. l’esclusione di un socio per un motivo previsto nello statuto;
 - 10\. il trasferimento della sede della società;
+- [tab] 10<sup>bis</sup>.[^808b-2] l’introduzione nello statuto di una clausola compromissoria;
 - 11\. lo scioglimento della società.
 
-<sup>2</sup> Le disposizioni statutarie che prevedono, per talune deliberazioni, una maggioranza superiore a quella prescritta dalla legge possono essere adottate soltanto alla maggioranza prevista.
+<sup>2</sup> Le disposizioni statutarie che prevedono, per talune deliberazioni, una maggioranza superiore a quella prescritta dalla legge possono essere adottate, modificate o abrogate soltanto alla maggioranza prevista.[^808b-3]
+
+[^808b-1]: Introdotto dal n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^808b-2]: Introdotto dal n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^808b-3]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### VI. Diritto di contestare le deliberazioni dell’assemblea dei soci
 
@@ -12757,9 +13575,9 @@ Fatte salve le disposizioni di cui agli articoli 811 e seguenti, i gerenti hanno
 - 2\. la definizione dell’organizzazione della società, nei limiti previsti dalla legge e dallo statuto;
 - 3\. l’organizzazione della contabilità e del controllo finanziario, nonché l’elaborazione del piano finanziario per quanto necessario alla gestione della società;
 - 4\. la vigilanza sulle persone incaricate di parti della gestione, segnatamente per quanto concerne l’osservanza della legge, dello statuto, dei regolamenti e delle istruzioni;
-- 5\. l’elaborazione della relazione sulla gestione (conto annuale, rapporto annuale e, se del caso, conto di gruppo);
+- 5\.[^810-1] l’allestimento della relazione sulla gestione;
 - 6\. la preparazione dell’assemblea dei soci e l’esecuzione delle sue deliberazioni;
-- 7\. l’avviso al giudice in caso di indebitamento eccessivo.
+- 7\.[^810-2] la presentazione di una domanda di moratoria concordataria e l’avviso al giudice in caso di eccedenza di debiti.
 
 <sup>3</sup>
 
@@ -12768,6 +13586,9 @@ Il presidente dei gerenti o il gerente unico ha le attribuzioni seguenti:
 - 1\. convocare e dirigere l’assemblea dei soci;
 - 2\. provvedere per le comunicazioni ai soci;
 - 3\. accertarsi che siano fatte le notificazioni necessarie all’ufficio del registro di commercio.
+
+[^810-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^810-2]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### III. Approvazione dell’assemblea dei soci
 
@@ -12812,9 +13633,10 @@ I gerenti e i terzi che si occupano della gestione devono trattare allo stesso m
 
 <sup>5</sup> Le persone autorizzate a rappresentare la società firmano per essa aggiungendo alla ditta sociale la propria firma.
 
-<sup>6</sup> Le persone autorizzate a rappresentare la società devono essere iscritte nel registro di commercio. Devono fare la loro firma davanti all’ufficio del registro di commercio o produrla autenticata.
+<sup>6</sup> ...[^814-2]
 
 [^814-1]: Nuovo testo giusta il n. I 2 della LF del 12 dic. 2015 concernente l attuazione delle Raccomandazioni del Gruppo d’azione finanziaria rivedute nel 2012, in vigore dal 1° lug. 2015 ([RU 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 563](https://fedlex.data.admin.ch/eli/fga/2014/100)).
+[^814-2]: Abrogato dal n. I della LF del 19 giu. 2020 (Diritto della società anonima), con effetto dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### VII. Revoca di gerenti; revoca del potere di rappresentanza
 
@@ -12856,13 +13678,15 @@ La società risponde del danno che una persona cui è affidata la sua gestione o
 
 Le disposizioni del diritto della società anonima concernenti le lacune nell’organizzazione della società si applicano per analogia.
 
-### E. Perdita di capitale e indebitamento eccessivo
+### E. Rischio di insolvenza, perdita di capitale ed eccedenza di debiti
 
 #### Art. 820
 
-<sup>1</sup> Le disposizioni del diritto della società anonima concernenti gli avvisi obbligatori in caso di perdita di capitale ed eccedenza dei debiti della società e la dichiarazione e il differimento del fallimento si applicano per analogia.
+[^820-1]
 
-<sup>2</sup> Il giudice può differire il fallimento, ad istanza dei gerenti o di un creditore, segnatamente se i versamenti suppletivi non ancora eseguiti sono effettuati senza indugio e il risanamento appare probabile.
+Le disposizioni del diritto della società anonima concernenti il rischio d’insolvenza, la perdita di capitale e l’eccedenza di debiti, nonché la rivalutazione di fondi e di partecipazioni sono applicabili per analogia.
+
+[^820-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### Capo quarto: Scioglimento e uscita
 
@@ -12996,7 +13820,11 @@ Le unioni di persone del diritto pubblico, anche se perseguono scopi cooperativi
 
 #### Art. 830
 
-La società cooperativa esiste, dopo che lo statuto è stato compilato ed approvato dall’assemblea costitutiva, con l’iscrizione nel registro di commercio.
+[^830-1]
+
+La società cooperativa è costituita con un atto pubblico nel quale i promotori dichiarano di costituire una società cooperativa, ne stabiliscono lo statuto e ne designano gli organi.
+
+[^830-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 2. Numero dei soci
 
@@ -13016,11 +13844,14 @@ La società cooperativa esiste, dopo che lo statuto è stato compilato ed approv
 
 Lo statuto deve contenere disposizioni sui punti seguenti:
 
-- 1\. il nome (la ditta) e la sede della società;
+- 1\.[^832-1] la ditta e la sede della società
 - 2\. lo scopo della società;
-- 3\. l’obbligo che esistesse per i soci d’eseguire prestazioni pecuniarie o d’altra natura, come pure la specie ed i limiti di siffatte prestazioni;
-- 4\. gli organi incaricati dell’amministrazione e della revisione, e il modo in cui la società si fa rappresentare;
-- 5\. la forma nella quale devono essere fatte le pubblicazioni sociali.
+- [tab] 3. e 4.[^832-2] ...
+- 5\.[^832-3] la forma delle comunicazioni della società ai soci.
+
+[^832-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^832-2]: Abrogati dal n. I della LF del 19 giu. 2020 (Diritto della società anonima), con effetto dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^832-3]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 2. Altre disposizioni
 
@@ -13030,12 +13861,16 @@ Non obbligano, se non sono contenute nello statuto, le disposizioni riguardanti:
 
 - 1\. la formazione di un capitale sociale mediante il conferimento di quote da parte dei soci (creazione di certificati di quota);
 - 2\. i conferimenti di capitale sociale in natura, il loro oggetto, il prezzo per il quale sono accettati e la persona del socio che li eseguisce;
-- 3\. l’assunzione di beni da parte della società all’atto della costituzione, il compenso per essi dovuto e la persona del proprietario dei beni da assumere;
+- 3\.[^833-1] ...
 - 4\. le deroghe alle norme legali su l’ammissione nella società e la perdita della qualità di socio;
-- 5\. la responsabilità individuale dei soci ed il loro obbligo di fare versamenti suppletivi;
+- 5\.[^833-2] la responsabilità personale dei soci, il loro obbligo di effettuare versamenti suppletivi oppure di fornire prestazioni pecuniarie o di altro genere, come pure la specie ed i limiti di tali prestazioni;
 - 6\. le deroghe alle norme legali su l’organizzazione, la rappresentanza, la modificazione dello statuto e le deliberazioni dell’assemblea generale;
 - 7\. ogni limitazione o estensione nell’esercizio del diritto di voto;
-- 8\. la determinazione e la destinazione dell’avanzo del conto d’esercizio e della liquidazione.
+- 8\.[^833-3] la determinazione e la destinazione dell’utile risultante dal bilancio e della liquidazione.
+
+[^833-1]: Abrogato dal n. I della LF del 19 giu. 2020 (Diritto della società anonima), con effetto dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^833-2]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^833-3]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### III. Assemblea costitutiva
 
@@ -13043,13 +13878,13 @@ Non obbligano, se non sono contenute nello statuto, le disposizioni riguardanti:
 
 <sup>1</sup> Lo statuto dev’essere steso in forma scritta e presentato ad un’assemblea, da convocarsi dai promotori, per esservi discusso ed approvato.
 
-<sup>2</sup> Dato il caso, sarà inoltre presentata all’assemblea e discussa da essa una relazione scritta dei promotori sui conferimenti in natura e sull’assunzione di beni. I promotori confermano che non vi sono altri conferimenti in natura, assunzioni di beni e previste assunzioni di beni, compensazioni di crediti o vantaggi speciali oltre a quelli menzionati nei documenti giustificativi.[^834-1]
+<sup>2</sup> È inoltre presentata all’assemblea e discussa da essa una relazione scritta dei promotori su eventuali conferimenti in natura. I promotori sono tenuti a confermare che non vi sono altri conferimenti in natura, compensazioni di crediti o vantaggi speciali oltre a quelli menzionati nei documenti giustificativi.[^834-1]
 
 <sup>3</sup> L’assemblea costitutiva nomina anche gli organi necessari.
 
 <sup>4</sup> Fino a che la società sia iscritta nel registro di commercio, la qualità di socio può acquistarsi solo mediante la firma dello statuto.
 
-[^834-1]: Per. introdotto dal n. I 2 della LF del 17 mar. 2017 (Diritto del registro di commercio), in vigore dal 1° gen. 2021 ([RU 2020 957](https://fedlex.data.admin.ch/eli/oc/2020/178); [FF 2015 2849](https://fedlex.data.admin.ch/eli/fga/2015/956)).
+[^834-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### IV. Iscrizione nel registro di commercio
 
@@ -13092,6 +13927,16 @@ La società dev’essere iscritta nel registro di commercio del luogo in cui ha 
 <sup>2</sup> Coloro che hanno agito in nome della società prima della sua iscrizione nel registro di commercio sono responsabili personalmente ed in solido.
 
 <sup>3</sup> Se tuttavia siffatte obbligazioni furono espressamente contratte in nome della società cooperativa da costituire e se la società le assume nel termine di tre mesi dall’iscrizione nel registro di commercio, coloro che le hanno contratte ne sono liberati e la sola società ne è responsabile.
+
+### D. Modificazione dello statuto
+
+#### Art. 838a
+
+[^838a-1]
+
+La deliberazione dell’assemblea generale o dell’amministrazione che modifichi lo statuto deve risultare da un atto pubblico ed essere iscritta nel registro di commercio.
+
+[^838a-1]: Introdotto dal n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### Capo secondo: Acquisto della qualità di socio
 
@@ -13253,15 +14098,20 @@ I soci esercitano mediante partecipazione all’assemblea generale o, nei casi p
 
 ### II. Diritto di controllo dei soci
 
-### 1. Comunicazione del bilancio
+### 1. Comunica-zione della relazione sulla gestione
+
+[^part3-tit29-chap4-lvlD-lvlII-lvl1-1]
+
+[^part3-tit29-chap4-lvlD-lvlII-lvl1-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 856
 
 <sup>1</sup> Dieci giorni almeno prima dell’assemblea generale convocata per approvare la relazione annuale, il conto di gruppo e il conto annuale o prima della votazione per corrispondenza su tale argomento, questi documenti e la relazione di revisione devono essere depositati presso la sede sociale affinché possano esservi consultati dai soci.[^856-1]
 
-<sup>2</sup> Lo statuto può concedere ad ogni socio il diritto d’esigere, a spese della società una copia del conto d’esercizio e del bilancio.
+<sup>2</sup> Se i documenti non sono accessibili per via elettronica, nell’anno successivo all’assemblea generale ogni socio può chiedere alla società di inviargli la relazione sulla gestione nella versione approvata dall’assemblea generale e la relazione di revisione.[^856-2]
 
 [^856-1]: Nuovo testo giusta il n. I 3 della LF del 23 dic. 2011 (Diritto contabile), in vigore dal 1° gen. 2013 ([RU 2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810); [FF 2008 1321](https://fedlex.data.admin.ch/eli/fga/2008/416)).
+[^856-2]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 2. Ragguagli
 
@@ -13275,7 +14125,11 @@ I soci esercitano mediante partecipazione all’assemblea generale o, nei casi p
 
 <sup>4</sup> Il diritto di controllo dei soci non potrà essere tolto o menomato né dallo statuto né dalle deliberazioni d’un organo sociale.
 
-### III. Eventuali diritti sull'avvanzo netto
+### III. Eventuali diritti sull’utile dell’esercizio
+
+[^part3-tit29-chap4-lvlD-lvlIII-1]
+
+[^part3-tit29-chap4-lvlD-lvlIII-1]: Nuova espr. giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
 
 ### 1. ...
 
@@ -13289,17 +14143,17 @@ I soci esercitano mediante partecipazione all’assemblea generale o, nei casi p
 
 #### Art. 859
 
-<sup>1</sup> L’avanzo netto dell’esercizio va per intiero ad aumentare il patrimonio sociale, salvo diversa disposizione dello statuto.
+<sup>1</sup> L’utile dell’esercizio va per intiero ad aumentare il patrimonio sociale, salvo diversa disposizione dello statuto.
 
-<sup>2</sup> Qualora sia prevista una ripartizione dell’avanzo netto tra i soci, essa ha luogo, salvo disposizione contraria dello statuto, nella proporzione in cui i singoli soci hanno utilizzato le istituzioni della società.
+<sup>2</sup> Qualora sia prevista una ripartizione dell’utile dell’esercizio tra i soci, essa ha luogo, salvo disposizione contraria dello statuto, nella proporzione in cui i singoli soci hanno utilizzato le istituzioni della società.
 
-<sup>3</sup> Se esistono certificati di quota, la parte dell’avanzo netto ad essi attribuita non può eccedere il tasso usuale dell’interesse per i prestiti a lunga scadenza non specialmente garantiti.
+<sup>3</sup> Se esistono certificati di quota, la parte dell’utile dell’esercizio ad essi attribuita non può eccedere il tasso usuale dell’interesse per i prestiti a lunga scadenza non specialmente garantiti.
 
 ### 3. Obbligo di formare un fondo di riserva e di accrescerlo
 
 #### Art. 860
 
-<sup>1</sup> Qualora l’avanzo netto non vada ad aumentare il patrimonio sociale, sopra di esso dev’essere annualmente prelevato un ventesimo per formare un fondo di riserva. Questo prelevamento dev’essere continuato per almeno 20 anni; se esistono certificati di quota, il prelevamento dev’essere in ogni caso continuato fino a che il fondo abbia raggiunto un quinto del capitale sociale.
+<sup>1</sup> Qualora l’utile dell’esercizio non vada ad aumentare il patrimonio sociale, sopra di esso dev’essere annualmente prelevato un ventesimo per formare un fondo di riserva. Questo prelevamento dev’essere continuato per almeno 20 anni; se esistono certificati di quota, il prelevamento dev’essere in ogni caso continuato fino a che il fondo abbia raggiunto un quinto del capitale sociale.
 
 <sup>2</sup> Lo statuto può disporre che il fondo di riserva sia alimentato in misura maggiore.
 
@@ -13309,15 +14163,15 @@ I soci esercitano mediante partecipazione all’assemblea generale o, nei casi p
 
 [^860-1]: Abrogato dall’all. n. II 1 della LF del 17 dic. 2004 sulla sorveglianza degli assicuratori, con effetto dal 1° gen. 2006 ([RU 2005 5269](https://fedlex.data.admin.ch/eli/oc/2005/734); [FF 2003 3233](https://fedlex.data.admin.ch/eli/fga/2003/577)).
 
-### 4. Avanzo netto nelle società cooperative di credito
+### 4. Utile dell’esercizio nelle società cooperative di credito
 
 #### Art. 861
 
-<sup>1</sup> Le società cooperative di credito possono derogare nel loro statuto alle disposizioni dei precedenti articoli circa la ripartizione dell’avanzo netto, ma sono tenute a costituire un fondo di riserva e ad adoperarlo in conformità delle precedenti norme.
+<sup>1</sup> Le società cooperative di credito possono derogare nel loro statuto alle disposizioni dei precedenti articoli circa la ripartizione dell’utile dell’esercizio, ma sono tenute a costituire un fondo di riserva e ad adoperarlo in conformità delle precedenti norme.
 
-<sup>2</sup> Al fondo di riserva dev’essere annualmente assegnato un decimo almeno dell’avanzo netto, fino a che il fondo abbia raggiunto il decimo del capitale sociale.
+<sup>2</sup> Al fondo di riserva dev’essere annualmente assegnato un decimo almeno dell’utile dell’esercizio, fino a che il fondo abbia raggiunto il decimo del capitale sociale.
 
-<sup>3</sup> Se ai certificati di quota è attribuita una parte dell’avanzo netto superiore al tasso usuale dell’interesse per i prestiti a lunga scadenza senza speciali garanzie, deve parimente essere versato al fondo di riserva un decimo di detta eccedenza.
+<sup>3</sup> Se ai certificati di quota è attribuita una parte dell’utile dell’esercizio superiore al tasso usuale dell’interesse per i prestiti a lunga scadenza senza speciali garanzie, deve parimente essere versato al fondo di riserva un decimo di detta eccedenza.
 
 ### 5. Fondi di previdenza
 
@@ -13338,11 +14192,11 @@ I soci esercitano mediante partecipazione all’assemblea generale o, nei casi p
 
 #### Art. 863
 
-<sup>1</sup> Sopra l’avanzo netto destinato alla distribuzione dovranno eseguirsi in primo luogo i prelevamenti legali e statutari per i fondi di riserva e d’altro genere.
+<sup>1</sup> Sopra l’utile dell’esercizio destinato alla distribuzione dovranno eseguirsi in primo luogo i prelevamenti legali e statutari per i fondi di riserva e d’altro genere.
 
 <sup>2</sup> L’assemblea generale può prelevare anche a titolo di riserva somme non previste né dalla legge né dallo statuto o che eccedano le esigenze della legge e dello statuto, quando ciò sembri opportuno per assicurare la durevole prosperità dell’impresa.
 
-<sup>3</sup> Essa può parimente prelevare sopra gli utili netti, anche quando ciò non sia previsto dallo statuto, somme per creare e sostenere istituzioni di previdenza[^863-1] a favore d’impiegati, d’operai o di soci ovvero destinate ad altri scopi di previdenza[^863-2]; questi prelevamenti soggiacciono alle norme riguardanti i fondi statutari di previdenza[^863-3].
+<sup>3</sup> Essa può parimente prelevare sopra gli utili dell’esercizio, anche quando ciò non sia previsto dallo statuto, somme per creare e sostenere istituzioni di previdenza[^863-1] a favore d’impiegati, d’operai o di soci ovvero destinate ad altri scopi di previdenza[^863-2]; questi prelevamenti soggiacciono alle norme riguardanti i fondi statutari di previdenza[^863-3].
 
 [^863-1]: Nuovo termine giusta il n. I lett. c della LF del 21 mar. 1958, in vigore dal 1° lug. 1958 ([RU 1958 393](https://fedlex.data.admin.ch/eli/oc/1958/379_389_393); FF **1958** 266).
 [^863-2]: Nuovo termine giusta il n. I lett. c della LF del 21 mar. 1958, in vigore dal 1° lug. 1958 ([RU 1958 393](https://fedlex.data.admin.ch/eli/oc/1958/379_389_393); FF **1958** 266).
@@ -13459,11 +14313,13 @@ Non sono valide le disposizioni statutarie che limitano la responsabilità ad un
 
 <sup>1</sup> Solo mediante una revisione dello statuto, la responsabilità dei soci e il loro obbligo d’eseguire versamenti suppletivi possono essere modificati ed i certificati di quota sociale ridotti o soppressi.
 
-<sup>2</sup> Le disposizioni riguardanti la riduzione del capitale sociale della società anonima s’applicano altresì alla riduzione e alla soppressione dei certificati di quota.
+<sup>2</sup> Alla riduzione e alla soppressione dei certificati di quota si applicano inoltre le disposizioni del diritto della società anonima concernenti la riduzione del capitale azionario.[^874-1]
 
 <sup>3</sup> Da una modificazione, che diminuisca la responsabilità o l’obbligo di eseguire versamenti suppletivi, non sono toccati i debiti nati prima della iscrizione della revisione statutaria.
 
 <sup>4</sup> La modificazione dello statuto che introduce o estende la responsabilità dei soci o il loro obbligo d’eseguire versamenti suppletivi giova a tutti i creditori dal momento della sua iscrizione.
+
+[^874-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### g. Responsabilità dei nuovi soci
 
@@ -13519,13 +14375,17 @@ L’assemblea generale ha i poteri intrasmissibili seguenti:[^879-1]
 
 - 1\. l’approvazione e la modificazione dello statuto;
 - 2\.[^879-2] la nomina dell’amministrazione e dell’ufficio di revisione;
-- 3\.[^879-3] l’approvazione della relazione annuale e del conto di gruppo;
+- 2<sup>bis</sup>.[^879-3] l’approvazione del conto annuale e, se del caso, la deliberazione sull’impiego dell’utile risultante dal bilancio;
+- 3\.[^879-4] l’approvazione della relazione annuale e del conto di gruppo;
+- 3<sup>bis</sup>.[^879-5] la deliberazione sul rimborso delle riserve da capitale;
 - 4\. il discarico all’amministrazione;
 - 5\. le deliberazioni sopra le materie ad essa riservate dalla legge o dallo statuto.
 
 [^879-1]: Nuovo testo giusta il n. I 3 della LF del 16 dic. 2005 (Diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), in vigore dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 [^879-2]: Nuovo testo giusta il n. I 3 della LF del 16 dic. 2005 (Diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), in vigore dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
-[^879-3]: Nuovo testo giusta il n. I 3 della LF del 23 dic. 2011 (Diritto contabile), in vigore dal 1° gen. 2013 ([RU 2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810); [FF 2008 1321](https://fedlex.data.admin.ch/eli/fga/2008/416)).
+[^879-3]: Introdotto dal n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^879-4]: Nuovo testo giusta il n. I 3 della LF del 23 dic. 2011 (Diritto contabile), in vigore dal 1° gen. 2013 ([RU 2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810); [FF 2008 1321](https://fedlex.data.admin.ch/eli/fga/2008/416)).
+[^879-5]: Introdotto dal n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### II. Voto per corrispondenza
 
@@ -13617,7 +14477,7 @@ Nell’assemblea generale o nella votazione per corrispondenza ogni socio ha un 
 
 <sup>3</sup> Il recesso non può in tal caso essere fatto dipendere dal pagamento d’una indennità.
 
-### VII. Revoca dell’amministrazione e dell’ufficio di revisione
+### VIII. Revoca dell’amministrazione e dell’ufficio di revisione
 
 #### Art. 890
 
@@ -13658,6 +14518,16 @@ Nell’assemblea generale o nella votazione per corrispondenza ogni socio ha un 
 <sup>2</sup> Non possono essere delegati i poteri dell’assemblea generale riguardanti l’introduzione o l’aggravamento dell’obbligo di eseguire versamenti suppletivi, lo scioglimento della società, la sua fusione, la sua scissione e la trasformazione della sua forma giuridica.[^893-1]
 
 [^893-1]: Nuovo testo giusta l’all. n. 2 della LF del 3 ott. 2003 sulla fusione, in vigore dal 1° lug. 2004 ([RU 2004 2617](https://fedlex.data.admin.ch/eli/oc/2004/320); [FF 2000 3765](https://fedlex.data.admin.ch/eli/fga/2000/921)).
+
+### XII. Luogo di riunione e impiego di mezzi di comunicazione elettronici
+
+#### Art. 893a
+
+[^893a-1]
+
+Le disposizioni del diritto della società anonima concernenti il luogo di riunione e l’impiego di mezzi di comunicazione elettronici si applicano per analogia alla preparazione e allo svolgimento dell’assemblea generale.
+
+[^893a-1]: Introdotto dal n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### B. Amministrazione
 
@@ -13738,15 +14608,11 @@ Se all’atto della conclusione di un contratto la società è rappresentata dal
 
 Le persone autorizzate a rappresentare la società cooperativa firmano per essa aggiungendo alla ditta sociale la propria firma.
 
-### 5. Iscrizione
-
-[^part3-tit29-chap5-lvlB-lvlIV-lvl5-1]
-
-[^part3-tit29-chap5-lvlB-lvlIV-lvl5-1]: Nuovo testo giusta il n. I 3 della LF del 16 dic. 2005 (Diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), in vigore dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
-
 #### Art. 901
 
-L’amministrazione deve notificare per l’iscrizione all’ufficio del registro di commercio le persone autorizzate a rappresentare la società, producendo una copia autenticata della deliberazione che conferisce loro tale facoltà. Esse devono fare la loro firma davanti all’ufficio del registro di commercio o produrla autenticata.
+[^901-1]
+
+[^901-1]: Abrogato dal n. I della LF del 19 giu. 2020 (Diritto della società anonima), con effetto dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### V. Doveri
 
@@ -13763,25 +14629,37 @@ Essa ha l’obbligo in ispecie:
 - 1\. di preparare gli affari che saranno trattati dall’assemblea generale e d’eseguire le deliberazioni della medesima;
 - 2\. di vigilare sulle persone incaricate della gestione e della rappresentanza affinché esse rispettino la legge, lo statuto e, ove esistano regolamenti, questi ultimi, e di farsi ragguagliare regolarmente dell’andamento degli affari.
 
-<sup>3</sup> L’amministrazione risponde della regolare tenuta dei suoi processi verbali, di quelli dell’assemblea generale, dei libri necessari e dell’elenco dei soci; essa risponde inoltre dell’allestimento del conto d’esercizio e del bilancio annuale in conformità delle norme legali e della loro consegna per esame all’ufficio di revisione, come pure delle prescritte notificazioni all’ufficio del registro di commercio concernenti l’ammissione e l’uscita dei soci.[^902-1]
+<sup>3</sup>
 
-[^902-1]: Nuovo testo giusta il n. I 3 della LF del 16 dic. 2005 (Diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), in vigore dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+L’amministrazione risponde:
 
-### 2. Avviso obbligatorio in caso di insolvenza e di perdita di capitale sociale
+- 1\. della tenuta dei suoi processi verbali, di quelli dell’assemblea generale, dei libri necessari e dell’elenco dei soci;
+- 2\. della conformità alle disposizioni legali dell’allestimento della relazione sulla gestione e della relativa verifica da parte dell’ufficio di revisione;
+- 3\. delle notificazioni all’ufficio del registro di commercio concernenti l’ammissione e l’uscita dei soci.[^902-1]
+
+[^902-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### 2. Restituzione di prestazioni
+
+#### Art. 902a
+
+[^902a-1]
+
+Le disposizioni del diritto della società anonima si applicano per analogia alla restituzione di prestazioni.
+
+[^902a-1]: Introdotto dal n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### 3. Rischio di insolvenza, perdita di capitale ed eccedenza di debiti
 
 #### Art. 903
 
-<sup>1</sup> Se esiste fondato timore che la società sia insolvente, l’amministrazione deve immediatamente allestire un bilancio intermedio, nel quale i beni vanno iscritti per il loro valore venale.
+[^903-1]
 
-<sup>2</sup> Se risulta dall’ultimo bilancio annuale e da un bilancio di liquidazione da allestire posteriormente o da un bilancio intermedio che l’attivo non è più sufficiente a coprire i debiti della società, l’amministrazione deve darne notizia al giudice. Questi pronuncerà il fallimento, ove non ricorrano le condizioni d’un differimento.
+<sup>1</sup> Le disposizioni del diritto della società anonima concernenti il rischio d’insolvenza, l’eccedenza di debiti e la rivalutazione di fondi e di partecipazioni si applicano per analogia.
 
-<sup>3</sup> Nelle società che hanno emesso certificati di quota, se risulta dall’ultimo bilancio annuale che la metà del capitale sociale non è più coperta, l’amministrazione deve convocare immediatamente un’assemblea generale e dargliene notizia.
+<sup>2</sup> Nelle società che hanno emesso certificati di quota si applicano inoltre per analogia le disposizioni del diritto della società anonima sulla perdita di capitale.
 
-<sup>4</sup> Nelle società che hanno introdotto l’obbligo di eseguire versamenti suppletivi, il giudice deve essere avvertito solo quando la perdita accertata dal bilancio non sia coperta entro tre mesi da versamenti suppletivi dei soci.
-
-<sup>5</sup> Ad istanza dell’amministrazione o di un creditore e quando l’assestamento appaia probabile, il giudice può differire la dichiarazione di fallimento. Egli prende in tal caso le misure appropriate per la conservazione del patrimonio sociale, quali l’allestimento dell’inventario e la nomina d’un curatore.
-
-<sup>6</sup> Nelle società mutue d’assicurazione al beneficio d’una concessione, i crediti dei soci derivanti da contratti d’assicurazione sono parificati a crediti ordinari.
+[^903-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### VI. Restituzione di somme riscosse
 
@@ -13862,11 +14740,19 @@ La società cooperativa si scioglie:
 - 3\. per la dichiarazione del fallimento;
 - 4\. per gli altri motivi previsti dalla legge.
 
-### B. Notificazione al registro di commercio
+### B. Iscrizione nel registro di commercio
 
 #### Art. 912
 
-Lo scioglimento della società, eccetto che avvenga per fallimento, dev’essere notificato dall’amministrazione per l’iscrizione nel registro di commercio.
+[^912-1]
+
+<sup>1</sup> Lo scioglimento della società deve essere iscritto nel registro di commercio.
+
+<sup>2</sup> Se la società è sciolta per sentenza del giudice, questi ne informa senza indugio l’ufficio del registro di commercio.
+
+<sup>3</sup> Se è sciolta per altri motivi, la società notifica lo scioglimento all’ufficio del registro di commercio.
+
+[^912-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### C. Liquidazione. Ripartizione del patrimonio
 
@@ -13934,11 +14820,12 @@ Tutte le persone incaricate dell’amministrazione, della gestione, della revisi
 
 [^919-1]
 
-<sup>1</sup> Le azioni di risarcimento contro le persone responsabili a norma delle precedenti disposizioni si prescrivono in cinque anni dal giorno in cui il danneggiato ha avuto conoscenza del danno e della persona responsabile, ma in ogni caso in dieci anni dal giorno in cui il fatto dannoso è stato commesso o è cessato.
+<sup>1</sup> Le azioni di risarcimento contro le persone responsabili a norma delle precedenti disposizioni si prescrivono in tre anni dal giorno in cui il danneggiato conobbe il danno e la persona responsabile, e in ogni caso nel termine di dieci anni dal giorno in cui ha avuto luogo o è cessato l’atto che ha causato il danno.[^919-2]
 
 <sup>2</sup> Se il fatto dannoso commesso dalla persona responsabile costituisce un fatto punibile, l’azione di risarcimento si prescrive al più presto alla scadenza del termine di prescrizione dell’azione penale. Se la prescrizione dell’azione penale si estingue a seguito di una sentenza penale di prima istanza, l’azione civile si prescrive al più presto in tre anni dalla comunicazione della sentenza.
 
 [^919-1]: Nuovo testo giusta il n. I della LF del 15 giu. 2018 (Revisione della disciplina della prescrizione), in vigore dal 1° gen. 2020 ([RU 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [FF 2014 211](https://fedlex.data.admin.ch/eli/fga/2014/65)).
+[^919-2]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### E. Nelle cooperative di credito e nelle società mutue d’assicurazione
 
@@ -13998,13 +14885,13 @@ L’ingresso d’una società cooperativa in una federazione non può avere per 
 
 [^926-1]: Nuovo testo giusta il n. I 3 della LF del 16 dic. 2005 (Diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), in vigore dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 
-## Parte quarta: Del registro di commercio, delle ditte commerciali e della contabilità commerciale****
+## Parte quarta: Del registro di commercio, delle ditte commerciali e della contabilità commerciale
 
 [^part4-1]
 
 [^part4-1]: Nuovo testo giusta la LF del 18 dic. 1936, in vigore dal 1° lug. 1937 ([RU 53 189](https://fedlex.data.admin.ch/eli/oc/53/185_185_189); FF **1931** 539, **1932** 201). Vedi le disp. fin. e trans. tit. XXIV–XXXIII, alla fine del presente Codice.
 
-### Titolo trentesimo:**** Del registro di commercio
+### Titolo trentesimo: Del registro di commercio
 
 [^part4-tit30-1]
 
@@ -14137,17 +15024,21 @@ Agli enti giuridici iscritti nel registro di commercio è assegnato un numero d�
 
 <sup>1</sup> Se un ente giuridico non esercita più alcuna attività e non ha più attivi realizzabili, l’ufficio del registro di commercio lo cancella d’ufficio dal registro di commercio.
 
-<sup>2</sup> A tal fine l’ufficio del registro di commercio intima all’ente giuridico di comunicargli un eventuale interesse al mantenimento dell’iscrizione. Se questa diffida rimane infruttuosa, mediante tre pubblicazioni successive nel Foglio ufficiale svizzero di commercio intima agli altri interessati di comunicargli un tale interesse. Se anche questa diffida rimane infruttuosa, cancella l’ente giuridico.
+<sup>2</sup> A tal fine l’ufficio del registro di commercio intima all’ente giuridico di comunicargli un eventuale interesse al mantenimento dell’iscrizione. Se questa diffida rimane infruttuosa, mediante pubblicazione nel Foglio ufficiale svizzero di commercio intima agli altri interessati di comunicargli un tale interesse. Se anche questa diffida rimane infruttuosa, cancella l’ente giuridico.[^934-1]
 
 <sup>3</sup> Se altri interessati fanno valere un interesse al mantenimento dell’iscrizione, l’ufficio del registro di commercio trasmette il caso al giudice per decisione.
+
+[^934-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 2. In assenza di domicilio legale di imprese individuali o di succursali
 
 #### Art. 934a
 
-<sup>1</sup> Se un’impresa individuale non dispone più di un domicilio legale, l’ufficio del registro di commercio la cancella d’ufficio dal registro di commercio qualora la diffida pubblicata tre volte nel Foglio ufficiale svizzero di commercio sia rimasta infruttuosa.
+<sup>1</sup> Se un’impresa individuale non dispone più di un domicilio legale, l’ufficio del registro di commercio la cancella d’ufficio dal registro di commercio qualora la diffida pubblicata nel Foglio ufficiale svizzero di commercio sia rimasta infruttuosa.[^934a-1]
 
 <sup>2</sup> Se una succursale di un’impresa la cui sede principale si trova in Svizzera non dispone più di un domicilio legale, l’ufficio del registro di commercio la cancella d’ufficio qualora la diffida della sede principale pubblicata tre volte nel Foglio ufficiale svizzero di commercio sia rimasta infruttuosa.
+
+[^934a-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### VI. Reiscrizione
 
@@ -14425,7 +15316,7 @@ L’iscrizione di una ditta nel registro di commercio non esenta l’avente diri
 
 <sup>2</sup> Chiunque risenta pregiudizio per l’indebito uso d’una ditta può procedere affinché cessi l’abuso e si faccia luogo, in caso di colpa, al risarcimento dei danni.
 
-### Titolo trentesimosecondo:**** Della contabilità commerciale, della presentazione dei conti nonché degli altri obblighi di trasparenza e di diligenza****
+### Titolo trentesimosecondo: Della contabilità commerciale, della presentazione dei conti nonché degli altri obblighi di trasparenza e di diligenza
 
 [^part4-tit32-1][^part4-tit32-2]
 
@@ -14511,6 +15402,10 @@ La contabilità rispetta i principi della tenuta regolare dei conti. Vanno segna
 
 <sup>2</sup> Se l’importo netto dei ricavi da forniture e prestazioni o i ricavi finanziari non eccedono 100 000 franchi, si può derogare al principio della correlazione temporale, limitandosi a tenere la contabilità delle entrate e delle uscite.
 
+<sup>3</sup> Se i conti non sono redatti in franchi, il corso medio annuale è decisivo per stabilire il valore secondo il capoverso 2.[^958b-1]
+
+[^958b-1]: Introdotto dal n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
 ### III. Principi della presentazione regolare dei conti
 
 #### Art. 958c
@@ -14556,6 +15451,10 @@ Dopo essere stati approvati dall’organo competente, il conto annuale e il cont
 
 <sup>2</sup> Le altre imprese devono autorizzare i creditori che dimostrino un interesse degno di protezione a consultare la relazione sulla gestione e le relazioni di revisione. In caso di disaccordo, decide il giudice.
 
+<sup>3</sup> Se l’impresa si avvale delle possibilità di rinuncia previste agli articoli 961*d* capoverso 1, 962 capoverso 3 o 963*a* capoverso 1 numero 2, la pubblicazione e la consultazione sono rette dalle disposizioni applicabili al proprio conto annuale.[^958e-1]
+
+[^958e-1]: Introdotto dal n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
 ### E. Tenuta e conservazione dei libri
 
 #### Art. 958f
@@ -14568,7 +15467,11 @@ Dopo essere stati approvati dall’organo competente, il conto annuale e il cont
 
 <sup>4</sup> Il Consiglio federale emana le disposizioni concernenti i libri da tenere, i principi applicabili alla loro tenuta e conservazione e i supporti d’informazione utilizzabili.
 
-### Capo secondo: Conto annuale
+### Capo secondo: Conto annuale e conto intermedio
+
+[^part4-tit32-chap2-1]
+
+[^part4-tit32-chap2-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### A. Bilancio
 
@@ -14646,12 +15549,19 @@ Nei passivi del bilancio devono figurare, in ordine di esigibilità decrescente,
   - a. capitale sociale o capitale della fondazione, se del caso suddiviso per categoria di diritti di partecipazione,
   - b. riserva legale da capitale,
   - c. riserva legale da utili,
-  - d. riserve facoltative da utili o perdite accumulate, queste ultime da iscriversi quale posta negativa,
-  - e. proprie quote del capitale, da iscriversi quale posta negativa.
+  - d.[^959a-1] riserve facoltative da utili,
+  - e.[^959a-2] proprie quote del capitale, da iscriversi quale posta negativa,
+  - f.[^959a-3] utile o perdita riportati, da iscriversi quale posta negativa,
+  - g.[^959a-4] utile o perdita dell’esercizio, da iscriversi quale posta negativa.
 
 <sup>3</sup> Il bilancio o l’allegato devono contenere altre poste qualora ciò sia importante ai fini della valutazione della situazione patrimoniale o finanziaria da parte di terzi o usuale nel settore d’attività dell’impresa.
 
 <sup>4</sup> I crediti e i debiti nei confronti dei partecipanti diretti o indiretti, degli organi e delle imprese nelle quali è detenuta direttamente o indirettamente una partecipazione devono essere indicati separatamente nel bilancio o nell’allegato.
+
+[^959a-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^959a-2]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^959a-3]: Introdotta dal n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^959a-4]: Introdotta dal n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### B. Conto economico; articolazione minima
 
@@ -14712,7 +15622,7 @@ L’allegato deve inoltre contenere le indicazioni seguenti, sempreché non risu
 - 1\. la ditta commerciale o il nome, la forma giuridica e la sede dell’impresa;
 - 2\. se del caso, una dichiarazione attestante che la media annua di posti di lavoro a tempo pieno non supera le 10, le 50 o le 250 unità;
 - 3\. la ditta commerciale, la forma giuridica e la sede delle imprese nelle quali è detenuta una partecipazione diretta o un’importante partecipazione indiretta, nonché la quota del capitale e dei diritti di voto;
-- 4\. il numero di quote sociali proprie detenute dall’impresa stessa e dalle imprese in cui questa ha una partecipazione;
+- 4\.[^959c-1] il numero di quote sociali proprie detenute dall’impresa stessa o da imprese da essa controllate (art. 963);
 - 5\. l’acquisto e l’alienazione di quote sociali proprie da parte dell’impresa, nonché le condizioni alle quali le stesse sono state acquistate o alienate;
 - 6\. il saldo dei debiti derivanti da contratti di leasing analoghi alla vendita e da altri contratti di leasing, sempre che tali contratti non scadano o non possano essere disdetti entro dodici mesi dalla data di chiusura del bilancio;
 - 7\. i debiti nei confronti di istituti di previdenza;
@@ -14722,11 +15632,16 @@ L’allegato deve inoltre contenere le indicazioni seguenti, sempreché non risu
 - 11\. il numero e il valore dei diritti di partecipazione o delle opzioni sugli stessi attribuiti ai membri degli organi di direzione o di amministrazione o ai lavoratori;
 - 12\. spiegazioni inerenti a poste del conto economico straordinarie, uniche o relative ad altri periodi contabili;
 - 13\. gli eventi importanti successivi alla data di chiusura del bilancio;
-- 14\. in caso di dimissioni anticipate dell’ufficio di revisione, i motivi delle stesse.
+- 14\.[^959c-2] in caso di dimissioni anticipate o di revoca dell’ufficio di revisione, i motivi delle stesse;
+- 15\.[^959c-3] tutti gli aumenti e le riduzioni del capitale effettuati dal consiglio d’amministrazione entro i limiti del margine di variazione del capitale.
 
 <sup>3</sup> Le imprese individuali e le società di persone possono rinunciare alla stesura dell’allegato se non sono tenute a presentare i conti conformemente alle disposizioni applicabili alle grandi imprese. Se le disposizioni concernenti l’articolazione minima del bilancio e del conto economico esigono che siano fornite informazioni supplementari e l’impresa non redige un allegato, tali informazioni devono figurare direttamente nel bilancio o nel conto economico.
 
 <sup>4</sup> Le imprese debitrici di prestiti in obbligazioni devono indicare l’importo, il tasso d’interesse, la scadenza e le altre condizioni di tali prestiti.
+
+[^959c-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^959c-2]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^959c-3]: Introdotto dal n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### D. Valutazione
 
@@ -14799,6 +15714,26 @@ Possono inoltre essere costituiti accantonamenti segnatamente per:
 
 <sup>4</sup> Gli accantonamenti che non sono più giustificati non devono obbligatoriamente essere sciolti.
 
+### E. Conto intermedio
+
+#### Art. 960f
+
+[^960f-1]
+
+<sup>1</sup> Il conto intermedio è allestito conformemente alle disposizioni sul conto annuale e comprende un bilancio, un conto economico e un allegato. Sono fatte salve le disposizioni applicabili alle grandi imprese e ai gruppi.
+
+<sup>2</sup>
+
+Le semplificazioni e le forme abbreviate sono consentite purché non ne risenta l’esposizione dell’andamento degli affari. Devono essere indicate almeno le rubriche e le somme intermedie figuranti nell’ultimo conto annuale. L’allegato del conto intermedio contiene inoltre le seguenti indicazioni:
+
+- 1\. lo scopo del conto intermedio;
+- 2\. le semplificazioni e le forme abbreviate, comprese eventuali deroghe ai principi applicati nell’ultimo conto annuale;
+- 3\. gli altri fattori che hanno considerevolmente influenzato la situazione economica dell’impresa durante il periodo in rassegna, in particolare la stagionalità.
+
+<sup>3</sup> Il conto intermedio va designato come tale. Deve essere firmato dal presidente dell’organo superiore di direzione o di amministrazione e dalla persona cui compete l’allestimento del conto intermedio in seno all’impresa.
+
+[^960f-1]: Introdotto dal n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
 ### Capo terzo: Presentazione dei conti delle grandi imprese
 
 ### A. Requisiti supplementari per la relazione sulla gestione
@@ -14845,11 +15780,20 @@ La relazione annuale fornisce segnatamente ragguagli su:
 
 <sup>3</sup> La relazione annuale non deve essere in contraddizione con l’esposizione della situazione economica dell’impresa offerta dal conto annuale.
 
-### E. Agevolazioni in caso di conto di gruppo
+### E. Agevolazioni
+
+[^part4-tit32-chap3-lvlE-1]
+
+[^part4-tit32-chap3-lvlE-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 961d
 
-<sup>1</sup> L’impresa non è tenuta a fornire indicazioni supplementari nell’allegato né ad allestire un conto dei flussi di tesoreria e una relazione annuale se essa stessa o una persona giuridica da cui è controllata allestisce un conto di gruppo in base a una norma contabile riconosciuta.
+<sup>1</sup>
+
+L’impresa non è tenuta a fornire indicazioni supplementari nell’allegato né ad allestire un conto dei flussi di tesoreria e una relazione annuale se:
+
+- 1\. allestisce una chiusura contabile o un conto di gruppo in base a una norma contabile riconosciuta; o
+- 2\. una persona giuridica da cui l’impresa è controllata allestisce un conto di gruppo in base a una norma contabile riconosciuta.[^961d-1]
 
 <sup>2</sup>
 
@@ -14858,6 +15802,8 @@ Possono chiedere che i conti siano presentati conformemente alle disposizioni de
 - 1\. soci che rappresentino almeno il 10 per cento del capitale sociale;
 - 2\. il 10 per cento dei membri della società cooperativa o il 20 per cento di quelli dell’associazione;
 - 3\. qualsiasi socio o membro personalmente responsabile o tenuto a effettuare versamenti suppletivi.
+
+[^961d-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### Capo quarto: Chiusura contabile in base a una norma contabile riconosciuta
 
@@ -14943,11 +15889,14 @@ Una persona giuridica è esonerata dall’obbligo di allestire il conto di grupp
 Il conto di gruppo dev’essere tuttavia allestito se:
 
 - 1\. è necessario per garantire una valutazione il più possibile attendibile della situazione economica;
-- 2\. soci che rappresentino almeno il 20 per cento del capitale sociale, il 10 per cento dei membri della società cooperativa o il 10 per cento di quelli dell’associazione lo richiedono;
+- 2\.[^963a-1] soci che rappresentino almeno il 20 per cento del capitale sociale, il 10 per cento dei membri della società cooperativa o il 20 per cento di quelli dell’associazione lo richiedono;
 - 3\. un socio o un membro di un’associazione personalmente responsabile o tenuto a effettuare versamenti suppletivi lo richiede;
 - 4\. l’autorità di vigilanza sulle fondazioni lo richiede.
 
-<sup>3</sup> Se non allestisce il conto di gruppo per il sottogruppo in virtù del capoverso 1 numero 2, la persona giuridica deve comunicare il conto di gruppo della società madre conformemente alle disposizioni applicabili al proprio conto annuale.
+<sup>3</sup> Se i conti non sono redatti in franchi, la somma di bilancio e la cifra d’affari di cui al capoverso 1 numero 1 sono stabiliti rispettivamente in base al corso di conversione alla data della chiusura di bilancio e in base al corso medio annuale.[^963a-2]
+
+[^963a-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^963a-2]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### C. Norme contabili riconosciute
 
@@ -14979,7 +15928,7 @@ Il conto di gruppo deve tuttavia essere allestito in base a una norma contabile 
 
 [^964-1]: Abrogato dal n. I della LF del 22 dic. 1999, con effetto dal 1° giu. 2002 ([RU 2002 949](https://fedlex.data.admin.ch/eli/oc/2002/170); [FF 1999 4457](https://fedlex.data.admin.ch/eli/fga/1999/1_5149_4753_4457)).
 
-### Capo sesto:**** Trasparenza concernente aspetti extrafinanziari
+### Capo sesto: Trasparenza concernente aspetti extrafinanziari
 
 [^part4-tit32-chap6-1]
 
@@ -15056,7 +16005,7 @@ L’organo superiore di direzione o di amministrazione provvede affinché la rel
 
 <sup>3</sup> L’articolo 958*f* si applica per analogia alla tenuta e alla conservazione delle relazioni.
 
-### Capo settimo:**** Trasparenza nelle imprese del settore delle materie prime
+### Capo settimo: Trasparenza nelle imprese del settore delle materie prime
 
 [^part4-tit32-chap7-1]
 
@@ -15128,7 +16077,7 @@ Alla tenuta e alla conservazione della relazione sui pagamenti a favore degli en
 
 Nell’ambito di un processo coordinato sul piano internazionale, il Consiglio federale può prevedere che gli obblighi di cui agli articoli 964*d*–964*h* si applichino anche alle imprese che commerciano in materie prime.
 
-### Capo ottavo:**** Obblighi di diligenza e trasparenza in relazione a minerali e metalli originari di zone di conflitto e al lavoro minorile
+### Capo ottavo: Obblighi di diligenza e trasparenza in relazione a minerali e metalli originari di zone di conflitto e al lavoro minorile
 
 [^part4-tit32-chap8-1]
 
@@ -15188,7 +16137,7 @@ L’organo superiore di direzione o di amministrazione provvede affinché la rel
 
 <sup>5</sup> Le imprese che offrono prodotti e servizi di imprese che hanno redatto una siffatta relazione non sono tenute a presentarne una propria concernente tali prodotti e servizi.
 
-## Parte quinta: Dei titoli di credito (cartevalori)****
+## Parte quinta: Dei titoli di credito (cartevalori)
 
 [^part5-1]
 
@@ -15551,9 +16500,11 @@ Qualora il giudice reputi che l’istante ha reso verosimili il possesso e la pe
 
 #### Art. 984
 
-<sup>1</sup> La diffida di produrre il titolo dev’essere pubblicata tre volte nel *Foglio ufficiale svizzero di commercio.*
+<sup>1</sup> La diffida di produrre il titolo dev’essere pubblicata nel Foglio ufficiale svizzero di commercio.[^984-1]
 
 <sup>2</sup> In casi speciali il giudice può provvedere anche in altro modo ad un’opportuna pubblicità.
+
+[^984-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 5. Effetti
 
@@ -16493,9 +17444,11 @@ Qualora siano resi verosimili il possesso e lo smarrimento della cambiale, il gi
 
 #### Art. 1077
 
-<sup>1</sup> La diffida dev’essere pubblicata tre volte nel *Foglio ufficiale svizzero di commercio.*
+<sup>1</sup> La diffida dev’essere pubblicata nel Foglio ufficiale svizzero di commercio.[^1077-1]
 
 <sup>2</sup> In casi speciali il giudice può provvedere anche in altro modo ad un’opportuna pubblicità.
+
+[^1077-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 4. Effetti
 
@@ -17311,7 +18264,7 @@ I titoli rappresentanti merci, emessi come titoli di credito da un magazziniere 
 
 [^1156-1]: Abrogato dall’all. n. 1 della L del 15 giu. 2018 sui servizi finanziari, con effetto dal 1° gen. 2020 ([RU 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
-### Capo secondo: Della comunione degli obbligazionisti****
+### Capo secondo: Della comunione degli obbligazionisti
 
 [^part5-tit34-chap2-1]
 
@@ -17528,7 +18481,7 @@ L’assenso dei rappresentanti di almeno due terzi del capitale in circolazione 
 
 [^1175-1]
 
-Una proposta relativa ai provvedimenti previsti nell’articolo1170 non può essere presentata dal debitore né formare argomento di deliberazione nell’assemblea degli obbligazionisti, se non sulla base d’un conto di situazione il giorno dell’assemblea o sulla base di un bilancio regolarmente allestito per una data non anteriore a sei mesi e, qualora esista un ufficio di revisione, accertato conforme dallo stesso.
+Una proposta relativa ai provvedimenti previsti nell’articolo 1170 non può essere presentata dal debitore né formare argomento di deliberazione nell’assemblea degli obbligazionisti, se non sulla base d’un conto di situazione il giorno dell’assemblea o sulla base di un bilancio regolarmente allestito per una data non anteriore a sei mesi e, qualora esista un ufficio di revisione, accertato conforme dallo stesso.
 
 [^1175-1]: Nuovo testo giusta il n. I 3 della LF del 16 dic. 2005 (Diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), in vigore dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 
@@ -17631,13 +18584,17 @@ Contro le deliberazioni previste negli articoli 1180 e 1181 ogni obbligazionista
 
 <sup>4</sup> Non appena gli è stata presentata l’istanza per la convocazione di un’assemblea degli obbligazionisti, il Tribunale federale può ordinare una moratoria con gli effetti previsti nell’articolo 1166.
 
-### F. Diritto imperativo
+### F. Accordi derogatori
 
 #### Art. 1186
 
-<sup>1</sup> I diritti che la legge conferisce alla comunione degli obbligazionisti ed al suo rappresentante non possono essere né soppressi né menomati dalle condizioni del prestito o da pattuizioni speciali fra gli obbligazionisti ed il debitore.
+[^1186-1]
 
-<sup>2</sup> Sono riservate le disposizioni delle condizioni del prestito che possono assoggettare a requisiti più rigorosi le deliberazioni dell’assemblea degli obbligazionisti.
+<sup>1</sup> I diritti che la legge conferisce alla comunione degli obbligazionisti ed al suo rappresentante possono essere soppressi, modificati o menomati dalle condizioni del prestito o da pattuizioni speciali fra gli obbligazionisti ed il debitore soltanto se una maggioranza dei creditori può continuare ad adeguare le condizioni del prestito.
+
+<sup>2</sup> Qualora le obbligazioni di prestiti siano emesse al pubblico integralmente o parzialmente al di fuori della Svizzera, in luogo delle disposizioni del presente capo possono essere dichiarate applicabili le disposizioni sulla comunione degli obbligazionisti nonché sulla rappresentanza, l’assemblea e le deliberazioni della stessa contenute in un altro ordinamento giuridico e riguardanti l’emissione pubblica.
+
+[^1186-1]: Nuovo testo giusta l’all. n. 2 della LF del 17 dic. 2021 (Insolvenza e garanzia dei depositi), in vigore dal 1° gen. 2023 ([RU 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 5647](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
 
 ## Disposizioni transitorie della legge federale del 30 marzo 1911
 
@@ -17651,7 +18608,7 @@ II. La presente legge entrerà in vigore col 1° gennaio 1912. Conforme alla leg
 [^u1-2]: Le mod. possono essere consultate alla [RU 27 377](https://fedlex.data.admin.ch/eli/oc/27/317_321_377).
 [^u1-3]: [CS **1** 168; [RU 1962 848](https://fedlex.data.admin.ch/eli/oc/1962/789_827_848)art. 11 cpv. 3. [RU 1978 688](https://fedlex.data.admin.ch/eli/oc/1978/688_688_688)art. 89 lett. b]
 
-## Disposizioni finali della modificazione del 23 marzo 1962****
+## Disposizioni finali della modificazione del 23 marzo 1962
 
 [^u2-1]
 
@@ -17695,7 +18652,7 @@ Negli articoli 1 e 13 della legge federale del 30 settembre 1943[^u2-2-1] sulla 
 
 Il Consiglio federale stabilisce il giorno in cui la presente legge entra in vigore.
 
-## Disposizioni transitorie della modifica del 16 dicembre 2005****
+## Disposizioni transitorie della modifica del 16 dicembre 2005
 
 [^u3-1]
 
@@ -17789,7 +18746,7 @@ Il diritto esclusivo di valersi delle ditte iscritte nel registro di commercio p
 
 [^u3-11-1]: [RU 53 189](https://fedlex.data.admin.ch/eli/oc/53/185_185_189)
 
-## Disposizione transitoria della modifica del 17 giugno 2011****
+## Disposizione transitoria della modifica del 17 giugno 2011
 
 [^u4-1]
 
@@ -17797,7 +18754,7 @@ Il diritto esclusivo di valersi delle ditte iscritte nel registro di commercio p
 
 Le disposizioni della presente modifica si applicano a partire dal primo esercizio che comincia con l’entrata in vigore della presente legge o successivamente.
 
-## Disposizione transitoria della modifica del 23 dicembre 2011****
+## Disposizione transitoria della modifica del 23 dicembre 2011
 
 [^u5-1]
 
@@ -17825,7 +18782,7 @@ Le disposizioni della presente modifica si applicano a partire dal primo eserciz
 
 <sup>4</sup> All’atto della prima applicazione delle disposizioni relative alla presentazione dei conti, l’impresa può rinunciare a indicare le cifre degli esercizi precedenti. All’atto della seconda applicazione vanno indicate soltanto le cifre dell’esercizio precedente. Qualora indichi le cifre degli esercizi anteriori, l’impresa può derogare al principio della continuità nella presentazione e nell’articolazione. Tale scelta va segnalata nell’allegato.
 
-## Disposizioni transitorie della modifica del 12 dicembre 2014****
+## Disposizioni transitorie della modifica del 12 dicembre 2014
 
 [^u6-1]
 
@@ -17857,7 +18814,7 @@ Le disposizioni della presente modifica si applicano a partire dal primo eserciz
 
 <sup>2</sup> Il termine di decadenza dei diritti patrimoniali (art. 697*m* cpv. 3) scade in questo caso sei mesi dopo l’entrata in vigore della modifica del 12 dicembre 2014.
 
-## Disposizioni transitorie della modifica del 25 settembre 2015****
+## Disposizioni transitorie della modifica del 25 settembre 2015
 
 [^u7-1]
 
@@ -17885,7 +18842,7 @@ Le società in nome collettivo, in accomandita o in accomandita per azioni iscri
 
 Il diritto esclusivo di usare la ditta di una società in nome collettivo, in accomandita o in accomandita per azioni iscritta nel registro di commercio prima dell’entrata in vigore della modifica del 25 settembre 2015 è retto dagli articoli 946 del diritto vigente e 951 del diritto anteriore.
 
-## Disposizioni transitorie della modifica del 17 marzo 2017****
+## Disposizioni transitorie della modifica del 17 marzo 2017
 
 [^u8-1]
 
@@ -17907,7 +18864,7 @@ Il diritto esclusivo di usare la ditta di una società in nome collettivo, in ac
 
 Gli istituti di diritto pubblico costituiti prima dell’entrata in vigore del nuovo diritto e che esercitano principalmente un’attività economica privata devono farsi iscrivere nel registro di commercio entro due anni.
 
-## Disposizioni transitorie della modifica del 21 giugno 2019****
+## Disposizioni transitorie della modifica del 21 giugno 2019
 
 [^u9-1]
 
@@ -17990,41 +18947,35 @@ Gli articoli 4–8 si applicano a società che non hanno titoli di partecipazion
 
 <sup>2</sup> Gli azionisti le cui azioni sono state annullate per motivi a loro non imputabili possono, entro dieci anni dall’annullamento delle azioni, far valere nei confronti della società un diritto a un’indennità, purché siano in grado di dimostrare la loro qualità di azionisti al momento dell’annullamento delle azioni. L’indennità corrisponde al valore reale delle azioni al momento della loro conversione secondo l’articolo 4. Se al momento in cui è fatto valere il diritto all’indennità il valore reale delle azioni è inferiore rispetto al loro valore reale al momento della conversione, la società deve agli azionisti questo valore più basso. Il versamento di un’indennità è escluso se la società non dispone del capitale proprio disponibile necessario.
 
-## Disposizioni transitorie della modifica del 17 marzo 2017****
+## Disposizioni transitorie della modifica del 19 giugno 2020
 
 [^u10-1]
 
-[^u10-1]: [RU 2020 957](https://fedlex.data.admin.ch/eli/oc/2020/178); [FF 2015 2849](https://fedlex.data.admin.ch/eli/fga/2015/956).
+[^u10-1]: [RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2021 846](https://fedlex.data.admin.ch/eli/oc/2021/846)n. III 1; [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)
 
-### A. Regole generali
+### A. Regola generale
 
 #### Art. 1
 
-<sup>1</sup> Gli articoli 1−4 del titolo finale del Codice civile[^u10-1-1] si applicano alla modifica del 17 marzo 2017, in quanto le disposizioni seguenti non prevedano altrimenti.
+<sup>1</sup> Gli articoli 1–4 del titolo finale del Codice civile[^u10-1-1] si applicano alla modifica del 19 giugno 2020, in quanto le disposizioni seguenti non prevedano altrimenti.
 
-<sup>2</sup> Dalla sua entrata in vigore il nuovo diritto si applica agli enti giuridici esistenti.
+<sup>2</sup> Dall’entrata in vigore della nuova legge, le disposizioni della stessa si applicano anche alle società già esistenti.
 
 [^u10-1-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 
-### B. Obbligo d’iscrizione degli istituti di diritto pubblico
+### B. Adeguamento dello statuto e dei regolamenti
 
 #### Art. 2
 
-Gli istituti di diritto pubblico costituiti prima dell’entrata in vigore del nuovo diritto e che esercitano principalmente un’attività economica privata devono farsi iscrivere nel registro di commercio entro due anni.
+<sup>1</sup> Le società che, al momento dell’entrata in vigore della presente modifica, sono iscritte nel registro di commercio ma i cui statuti o regolamenti non sono conformi alle nuove disposizioni devono adeguarli entro due anni.
 
-## Disposizioni transitorie della modifica del 19 giugno 2020****
+<sup>2</sup> Le disposizioni statutarie e regolamentari non conformi alla presente modifica restano in vigore sino al loro adeguamento, ma al massimo per due anni dall’entrata in vigore della nuova legge.
 
-[^u11-1]
+### C. Aumento autorizzato del capitale e aumento del capitale con capitale condizionale
 
-[^u11-1]: [RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2021 846](https://fedlex.data.admin.ch/eli/oc/2021/846)n. III 1; [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)
+#### Art. 3
 
-### A. a C. ...
-
-#### Art. 1 a 3
-
-[^u11-13-1]
-
-[^u11-13-1]: Entrano in vigore in un secondo tempo ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+Agli aumenti autorizzati del capitale e agli aumenti con capitale condizionale deliberati prima dell’entrata in vigore della nuova legge si applica il diritto anteriore. Tali deliberazioni non possono più essere prorogate o modificate.
 
 ### D. Rappresentanza dei sessi
 
@@ -18034,13 +18985,17 @@ Gli istituti di diritto pubblico costituiti prima dell’entrata in vigore del n
 
 <sup>2</sup> L’obbligo di riferire nella relazione sulle retribuzioni conformemente all’articolo 734*f* si applica alla direzione al più tardi a decorrere dall’esercizio che ha inizio dieci anni dopo l’entrata in vigore della nuova legge.
 
-### E. ed F. ...
+### E. Differimento del fallimento
 
-#### Art. 5 e 6
+#### Art. 5
 
-[^u11-56-1]
+Fino alla sua conclusione, al differimento del fallimento autorizzato prima dell’entrata in vigore della nuova legge si applica il diritto anteriore.
 
-[^u11-56-1]: Entrano in vigore in un secondo tempo ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+### F. Adeguamento di contratti stipulati secondo il diritto anteriore
+
+#### Art. 6
+
+I contratti esistenti al momento dell’entrata in vigore della nuova legge devono essere adeguati entro due anni da tale data. Trascorso tale termine, le disposizioni della nuova legge sono applicabili a tutti i contratti.
 
 ### G. Trasparenza delle imprese del settore delle materie prime
 
@@ -18048,34 +19003,34 @@ Gli istituti di diritto pubblico costituiti prima dell’entrata in vigore del n
 
 Gli articoli 964*d*–964*h* si applicano a decorrere dall’esercizio che ha inizio un anno dopo l’entrata in vigore della nuova legge.
 
-## Disposizione transitoria della modifica del 19 giugno 2020****
+## Disposizione transitoria della modifica del 19 giugno 2020
 
-[^u12-1]
+[^u11-1]
 
-[^u12-1]: [RU 2021 846](https://fedlex.data.admin.ch/eli/oc/2021/846); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)
+[^u11-1]: [RU 2021 846](https://fedlex.data.admin.ch/eli/oc/2021/846); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)
 
 Le disposizioni dei capi sesto e ottavo del titolo trentesimosecondo si applicano a decorrere dall’esercizio che comincia un anno dopo l’entrata in vigore della modifica del 19 giugno 2020.
 
-## Disposizioni finali dei titoli VIII e VIII<sup>bis</sup> ****
+## Disposizioni finali dei titoli VIII e VIII<sup>bis</sup>
 
-[^u13-1]
+[^u12-1]
 
-[^u13-1]: Introdotte dal n. II della LF del 15 dic. 1989, in vigore dal 1° lug. 1990 ([RU 1990 802](https://fedlex.data.admin.ch/eli/oc/1990/802_802_802); FF **1985** I 1202).
+[^u12-1]: Introdotte dal n. II della LF del 15 dic. 1989, in vigore dal 1° lug. 1990 ([RU 1990 802](https://fedlex.data.admin.ch/eli/oc/1990/802_802_802); FF **1985** I 1202).
 
 #### Art. 1
 
-Il decreto federale del 30 giugno 1972[^u13-1-1] concernente provvedimenti contro gli abusi in materia di locazione è abrogato.
+Il decreto federale del 30 giugno 1972[^u12-1-1] concernente provvedimenti contro gli abusi in materia di locazione è abrogato.
 
-[^u13-1-1]: [[RU 1972 1703](https://fedlex.data.admin.ch/eli/oc/1972/1502_1531_1703), [1977 1269](https://fedlex.data.admin.ch/eli/oc/1977/1269_1269_1269), [1982 1234](https://fedlex.data.admin.ch/eli/oc/1982/1234_1234_1234), [1987 1189](https://fedlex.data.admin.ch/eli/oc/1987/1189_1189_1189)]
+[^u12-1-1]: [[RU 1972 1703](https://fedlex.data.admin.ch/eli/oc/1972/1502_1531_1703), [1977 1269](https://fedlex.data.admin.ch/eli/oc/1977/1269_1269_1269), [1982 1234](https://fedlex.data.admin.ch/eli/oc/1982/1234_1234_1234), [1987 1189](https://fedlex.data.admin.ch/eli/oc/1987/1189_1189_1189)]
 
 #### Art. 2 a 4
 
-La legge federale del 4 ottobre 1985[^u13-24-1] sull’affitto agricolo è modificata come segue:
+La legge federale del 4 ottobre 1985[^u12-24-1] sull’affitto agricolo è modificata come segue:
 
-...[^u13-24-2]
+...[^u12-24-2]
 
-[^u13-24-1]: [RS 221.213.2](https://fedlex.data.admin.ch/eli/cc/1986/926_926_926)
-[^u13-24-2]: Le mod. possono essere consultate alla [RU 1990 802](https://fedlex.data.admin.ch/eli/oc/1990/802_802_802).
+[^u12-24-1]: [RS 221.213.2](https://fedlex.data.admin.ch/eli/cc/1986/926_926_926)
+[^u12-24-2]: Le mod. possono essere consultate alla [RU 1990 802](https://fedlex.data.admin.ch/eli/oc/1990/802_802_802).
 
 #### Art. 5
 
@@ -18089,51 +19044,51 @@ La legge federale del 4 ottobre 1985[^u13-24-1] sull’affitto agricolo è modif
 
 <sup>2</sup> Il Consiglio federale ne determina l’entrata in vigore.
 
-## Disposizioni finali e transitorie del titolo X****
+## Disposizioni finali e transitorie del titolo X
 
-[^u14-1]
+[^u13-1]
 
-[^u14-1]: Introdotte dal n. II della LF del 25 giu. 1971, in vigore dal 1° gen. 1972 ([RU 1971 1461](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461); [FF 1968 II 177](https://fedlex.data.admin.ch/eli/fga/1968/2___177)).
+[^u13-1]: Introdotte dal n. II della LF del 25 giu. 1971, in vigore dal 1° gen. 1972 ([RU 1971 1461](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461); [FF 1968 II 177](https://fedlex.data.admin.ch/eli/fga/1968/2___177)).
 
 ### Modificazione del CO
 
 #### Art. 1
 
-...[^u14-1-1]
+...[^u13-1-1]
 
-[^u14-1-1]: Le mod. possono essere consultate alla [RU 1971 1461](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461); [FF 1968 II 177](https://fedlex.data.admin.ch/eli/fga/1968/2___177).
+[^u13-1-1]: Le mod. possono essere consultate alla [RU 1971 1461](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461); [FF 1968 II 177](https://fedlex.data.admin.ch/eli/fga/1968/2___177).
 
 ### Modificazione del CC
 
 #### Art. 2
 
-...[^u14-2-1]
+...[^u13-2-1]
 
-[^u14-2-1]: Le mod. possono essere consultate alla [RU 1971 1461](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461); [FF 1968 II 177](https://fedlex.data.admin.ch/eli/fga/1968/2___177).
+[^u13-2-1]: Le mod. possono essere consultate alla [RU 1971 1461](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461); [FF 1968 II 177](https://fedlex.data.admin.ch/eli/fga/1968/2___177).
 
 ### Modificazione della legge sul contratto di assicurazione
 
 #### Art. 3
 
-...[^u14-3-1]
+...[^u13-3-1]
 
-[^u14-3-1]: La mod. può essere consultata alla [RU 1971 1461](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461); [FF 1968 II 177](https://fedlex.data.admin.ch/eli/fga/1968/2___177).
+[^u13-3-1]: La mod. può essere consultata alla [RU 1971 1461](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461); [FF 1968 II 177](https://fedlex.data.admin.ch/eli/fga/1968/2___177).
 
 ### Modificazione della legge sull’agricoltura
 
 #### Art. 4
 
-...[^u14-4-1]
+...[^u13-4-1]
 
-[^u14-4-1]: La mod. può essere consultata alla [RU 1971 1461](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461); [FF 1968 II 177](https://fedlex.data.admin.ch/eli/fga/1968/2___177).
+[^u13-4-1]: La mod. può essere consultata alla [RU 1971 1461](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461); [FF 1968 II 177](https://fedlex.data.admin.ch/eli/fga/1968/2___177).
 
 ### Modificazione della legge sul lavoro
 
 #### Art. 5
 
-...[^u14-5-1]
+...[^u13-5-1]
 
-[^u14-5-1]: Le mod. possono essere consultate alla [RU 1971 1461](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461); [FF 1968 II 177](https://fedlex.data.admin.ch/eli/fga/1968/2___177).
+[^u13-5-1]: Le mod. possono essere consultate alla [RU 1971 1461](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461); [FF 1968 II 177](https://fedlex.data.admin.ch/eli/fga/1968/2___177).
 
 ### Abrogazione di disposizioni di diritto federale
 
@@ -18142,30 +19097,30 @@ La legge federale del 4 ottobre 1985[^u13-24-1] sull’affitto agricolo è modif
 All’entrata in vigore della presente legge sono abrogati:
 
 - 1\. gli articoli 159 e 463 del Codice delle obbligazioni;
-- 2\. l’articolo 130 della legge federale del 13 giugno 1911[^u14-6-1] sul l’assicurazione contro le malattie e gli infortuni;
-- 3\. gli articoli 20 a 26, 28, 29 e 69 capoversi 2 e 5 della legge federale del 18 giugno 1914[^u14-6-2] sul lavoro nelle fabbriche;
-- 4\. gli articoli 4, 8 capoversi 1, 2 e 5, 9 e 19 della legge federale del 12 dicembre 1940[^u14-6-3] sul lavoro a domicilio;
-- 5\. la legge federale del 13 giugno 1941[^u14-6-4] sulle condizioni d’impiego dei commessi viaggiatori;
-- 6\. la legge federale del 1° aprile 1949[^u14-6-5] che limita il diritto di disdire i rapporti d’impiego in caso di servizio militare;
-- 7\. gli articoli 96 e 97 della legge federale del 3 ottobre 1951[^u14-6-6] concernente il promovimento dell’agricoltura e la conservazione del ceto rurale (Legge sull’agricoltura);
-- 8\. l’articolo 32 della legge federale del 25 settembre 1952[^u14-6-7] sulla indennità di perdita di guadagno per gli obbligati al servizio militare e di protezione civile (Ordinamento delle indennità per perdita di guadagno);
-- 9\. l’articolo 19 della legge federale del 28 settembre 1956[^u14-6-8] concernente il conferimento del carattere obbligatorio generale al contratto collettivo di lavoro;
-- 10\. l’articolo 49 della legge federale del 23 marzo 1962[^u14-6-9] sulla protezione civile;
-- 11\. gli articoli 20 capoverso 2 e 59 della legge federale del 20 settembre 1963[^u14-6-10] sulla formazione professionale;
-- 12\. gli articoli 64[^u14-6-11] e 72 capoverso 2 lettera a della legge federale del 13 marzo 1964[^u14-6-12] sul lavoro nell’industria, nell’artigianato e nel commercio (Legge sul lavoro).
+- 2\. l’articolo 130 della legge federale del 13 giugno 1911[^u13-6-1] sul l’assicurazione contro le malattie e gli infortuni;
+- 3\. gli articoli 20 a 26, 28, 29 e 69 capoversi 2 e 5 della legge federale del 18 giugno 1914[^u13-6-2] sul lavoro nelle fabbriche;
+- 4\. gli articoli 4, 8 capoversi 1, 2 e 5, 9 e 19 della legge federale del 12 dicembre 1940[^u13-6-3] sul lavoro a domicilio;
+- 5\. la legge federale del 13 giugno 1941[^u13-6-4] sulle condizioni d’impiego dei commessi viaggiatori;
+- 6\. la legge federale del 1° aprile 1949[^u13-6-5] che limita il diritto di disdire i rapporti d’impiego in caso di servizio militare;
+- 7\. gli articoli 96 e 97 della legge federale del 3 ottobre 1951[^u13-6-6] concernente il promovimento dell’agricoltura e la conservazione del ceto rurale (Legge sull’agricoltura);
+- 8\. l’articolo 32 della legge federale del 25 settembre 1952[^u13-6-7] sulla indennità di perdita di guadagno per gli obbligati al servizio militare e di protezione civile (Ordinamento delle indennità per perdita di guadagno);
+- 9\. l’articolo 19 della legge federale del 28 settembre 1956[^u13-6-8] concernente il conferimento del carattere obbligatorio generale al contratto collettivo di lavoro;
+- 10\. l’articolo 49 della legge federale del 23 marzo 1962[^u13-6-9] sulla protezione civile;
+- 11\. gli articoli 20 capoverso 2 e 59 della legge federale del 20 settembre 1963[^u13-6-10] sulla formazione professionale;
+- 12\. gli articoli 64[^u13-6-11] e 72 capoverso 2 lettera a della legge federale del 13 marzo 1964[^u13-6-12] sul lavoro nell’industria, nell’artigianato e nel commercio (Legge sul lavoro).
 
-[^u14-6-1]: [CS **8** 273; [RU 1959 876](https://fedlex.data.admin.ch/eli/oc/1959/858_888_876), [1964 981](https://fedlex.data.admin.ch/eli/oc/1964/965_961_981), [1968 65](https://fedlex.data.admin.ch/eli/oc/1968/64_66_65), [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)n. I 611, **1978** 1837 all. n. 4, [1982 196](https://fedlex.data.admin.ch/eli/oc/1982/196_196_196)[1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)all. n. 1 [2184](https://fedlex.data.admin.ch/eli/oc/1982/2184_2184_2184)art. 114, [1990 1091](https://fedlex.data.admin.ch/eli/oc/1990/1091_1091_1091), [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)n. II 412, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 37, [1995 511](https://fedlex.data.admin.ch/eli/oc/1995/511_511_511). [RU 1995 1328](https://fedlex.data.admin.ch/eli/oc/1995/1328_1328_1328)all. n. 1]
-[^u14-6-2]: [RS 821.41](https://fedlex.data.admin.ch/eli/cc/30/535_539_517)
-[^u14-6-3]: [CS **8** 223; [RU 1951 1273](https://fedlex.data.admin.ch/eli/oc/1951/1231_1239_1273)art. 14 cpv. 2, [1966 57](https://fedlex.data.admin.ch/eli/oc/1966/57_57_57)art. 68. [RU 1983 108](https://fedlex.data.admin.ch/eli/oc/1983/108_108_108)art. 21 n. 3]
-[^u14-6-4]: [CS **2** 763; [RU 1966 57](https://fedlex.data.admin.ch/eli/oc/1966/57_57_57)art. 69]
-[^u14-6-5]: [RU **1949** II 1117]
-[^u14-6-6]: [[RU 1953 1133](https://fedlex.data.admin.ch/eli/oc/1953/1073_1095_1133), [1962 1191](https://fedlex.data.admin.ch/eli/oc/1962/1144_1185_1191)art. 14, [1967 760](https://fedlex.data.admin.ch/eli/oc/1967/722_766_760), [1968 95](https://fedlex.data.admin.ch/eli/oc/1968/92_92_95), [1974 763](https://fedlex.data.admin.ch/eli/oc/1974/763_763_763), [1975 1204](https://fedlex.data.admin.ch/eli/oc/1975/__1204), [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)I 921 942 [931](https://fedlex.data.admin.ch/eli/oc/1977/931_931_931), [1979 2060](https://fedlex.data.admin.ch/eli/oc/1979/2058_2060_2060), [1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)all. n. 6, [1988 640](https://fedlex.data.admin.ch/eli/oc/1988/640_640_640), [1989 504](https://fedlex.data.admin.ch/eli/oc/1989/504_504_504)art. 33 lett. c, [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)II 51 [857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)all. n. 25 [2611](https://fedlex.data.admin.ch/eli/oc/1991/2611_2611_2611), [1992 1986](https://fedlex.data.admin.ch/eli/oc/1992/1986_1986_1986)art. 36 cpv. 1 [1860](https://fedlex.data.admin.ch/eli/oc/1992/1860_1860_1860)art. 75 n. 5, [1993 1410](https://fedlex.data.admin.ch/eli/oc/1993/1410_1410_1410)art. 92 n. 4 [1571](https://fedlex.data.admin.ch/eli/oc/1993/1571_1571_1571)[2080](https://fedlex.data.admin.ch/eli/oc/1993/2080_2080_2080)all. n. 11, [1994 28](https://fedlex.data.admin.ch/eli/oc/1994/28_28_28), [1995 1469](https://fedlex.data.admin.ch/eli/oc/1995/1469_1469_1469)art. 59 n. 3 [1837](https://fedlex.data.admin.ch/eli/oc/1995/1837_1837_1837)[3517](https://fedlex.data.admin.ch/eli/oc/1995/3517_3517_3517)I 2, [1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588)all. n. 2, [1997 1187](https://fedlex.data.admin.ch/eli/oc/1997/1187_1187_1187)[1190](https://fedlex.data.admin.ch/eli/oc/1997/1190_1190_1190), [1998 1822](https://fedlex.data.admin.ch/eli/oc/1998/1822_1822_1822)art. 15. RU **1988** 3033 all. lett. c]
-[^u14-6-7]: [RS 843.1](https://fedlex.data.admin.ch/eli/cc/1981/2088_2088_2088). Ora: LF sulle indennità di perdita di guadagno per chi presta servizio e in caso di maternità.
-[^u14-6-8]: [RS 221.215.311](https://fedlex.data.admin.ch/eli/cc/1956/1543_1645_1658)
-[^u14-6-9]: [[RU 1962 1131](https://fedlex.data.admin.ch/eli/oc/1962/1089_1127_1131), **1964** 486 art. 22 cpv. 2 lett. b, [1968 83](https://fedlex.data.admin.ch/eli/oc/1968/81_81_83)[981](https://fedlex.data.admin.ch/eli/oc/1968/1025_1065_981)art. 35, [1969 319](https://fedlex.data.admin.ch/eli/oc/1969/310_318_319)n. III, [1971 751](https://fedlex.data.admin.ch/eli/oc/1971/__751), [1978 50](https://fedlex.data.admin.ch/eli/oc/1978/50_50_50)[266](https://fedlex.data.admin.ch/eli/oc/1978/__266)[484](https://fedlex.data.admin.ch/eli/oc/1978/484_484_484), [1985 1649](https://fedlex.data.admin.ch/eli/oc/1985/1649_1649_1649), [1990 1882](https://fedlex.data.admin.ch/eli/oc/1990/1882_1882_1882)app. n. 7, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 22, [1993 3043](https://fedlex.data.admin.ch/eli/oc/1993/3043_3043_3043)all. n. 3. [RU 1994 2626](https://fedlex.data.admin.ch/eli/oc/1994/2626_2626_2626)art. 71].
-[^u14-6-10]: [[RU 1965 321](https://fedlex.data.admin.ch/eli/oc/1965/321_325_321), [1968 89](https://fedlex.data.admin.ch/eli/oc/1968/86_87_89), [1972 1885](https://fedlex.data.admin.ch/eli/oc/1972/1681_1709_1885), [1975 1078](https://fedlex.data.admin.ch/eli/oc/1975/1078_1078_1078)n. III; [RU 1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)n. I 331. [RU 1979 1687](https://fedlex.data.admin.ch/eli/oc/1979/1687_1687_1687)art. 75]
-[^u14-6-11]: Questo art. ha ora un nuovo testo.
-[^u14-6-12]: [RS 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
+[^u13-6-1]: [CS **8** 273; [RU 1959 876](https://fedlex.data.admin.ch/eli/oc/1959/858_888_876); [1964 981](https://fedlex.data.admin.ch/eli/oc/1964/965_961_981); [1968 65](https://fedlex.data.admin.ch/eli/oc/1968/64_66_65); [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)n. I, [611](https://fedlex.data.admin.ch/eli/oc/1977/611_611_611); **1978** 1837 all. n. 4; [1982 196](https://fedlex.data.admin.ch/eli/oc/1982/196_196_196); [1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)all. n. 1, [2184](https://fedlex.data.admin.ch/eli/oc/1982/2184_2184_2184)art. 114; [1990 1091](https://fedlex.data.admin.ch/eli/oc/1990/1091_1091_1091); [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)n. II 412; [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 37; [1995 511](https://fedlex.data.admin.ch/eli/oc/1995/511_511_511). [RU 1995 1328](https://fedlex.data.admin.ch/eli/oc/1995/1328_1328_1328)all. n. 1]
+[^u13-6-2]: [RS 821.41](https://fedlex.data.admin.ch/eli/cc/30/535_539_517)
+[^u13-6-3]: [CS **8** 223; [RU 1951 1273](https://fedlex.data.admin.ch/eli/oc/1951/1231_1239_1273)art. 14 cpv. 2, [1966 57](https://fedlex.data.admin.ch/eli/oc/1966/57_57_57)art. 68. [RU 1983 108](https://fedlex.data.admin.ch/eli/oc/1983/108_108_108)art. 21 n. 3]
+[^u13-6-4]: [CS **2** 763; [RU 1966 57](https://fedlex.data.admin.ch/eli/oc/1966/57_57_57)art. 69]
+[^u13-6-5]: [RU **1949** II 1117]
+[^u13-6-6]: [[RU 1953 1133](https://fedlex.data.admin.ch/eli/oc/1953/1073_1095_1133); [1962 1191](https://fedlex.data.admin.ch/eli/oc/1962/1144_1185_1191)art. 14; [1967 760](https://fedlex.data.admin.ch/eli/oc/1967/722_766_760); [1968 95](https://fedlex.data.admin.ch/eli/oc/1968/92_92_95); [1974 763](https://fedlex.data.admin.ch/eli/oc/1974/763_763_763); [1975 1204](https://fedlex.data.admin.ch/eli/oc/1975/__1204); [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)I, 921, 942, [931](https://fedlex.data.admin.ch/eli/oc/1977/931_931_931); [1979 2060](https://fedlex.data.admin.ch/eli/oc/1979/2058_2060_2060); [1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)all. n. 6; [1988 640](https://fedlex.data.admin.ch/eli/oc/1988/640_640_640); [1989 504](https://fedlex.data.admin.ch/eli/oc/1989/504_504_504)art. 33 lett. c; [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)II 51, [857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)all. n. 25, [2611](https://fedlex.data.admin.ch/eli/oc/1991/2611_2611_2611); [1992 1986](https://fedlex.data.admin.ch/eli/oc/1992/1986_1986_1986)art. 36 cpv. 1 [1860](https://fedlex.data.admin.ch/eli/oc/1992/1860_1860_1860)art. 75 n. 5; [1993 1410](https://fedlex.data.admin.ch/eli/oc/1993/1410_1410_1410)art. 92 n. 4, [1571](https://fedlex.data.admin.ch/eli/oc/1993/1571_1571_1571), [2080](https://fedlex.data.admin.ch/eli/oc/1993/2080_2080_2080)all. n. 11; [1994 28](https://fedlex.data.admin.ch/eli/oc/1994/28_28_28); [1995 1469](https://fedlex.data.admin.ch/eli/oc/1995/1469_1469_1469)art. 59 n. 3, [1837](https://fedlex.data.admin.ch/eli/oc/1995/1837_1837_1837), [3517](https://fedlex.data.admin.ch/eli/oc/1995/3517_3517_3517)I 2; [1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588)all. n. 2; [1997 1187](https://fedlex.data.admin.ch/eli/oc/1997/1187_1187_1187), [1190](https://fedlex.data.admin.ch/eli/oc/1997/1190_1190_1190); [1998 1822](https://fedlex.data.admin.ch/eli/oc/1998/1822_1822_1822)art. 15. RU **1988** 3033 all. lett. c]
+[^u13-6-7]: [RS 843.1](https://fedlex.data.admin.ch/eli/cc/1981/2088_2088_2088). Ora: LF sulle indennità di perdita di guadagno per chi presta servizio e in caso di maternità.
+[^u13-6-8]: [RS 221.215.311](https://fedlex.data.admin.ch/eli/cc/1956/1543_1645_1658)
+[^u13-6-9]: [[RU 1962 1131](https://fedlex.data.admin.ch/eli/oc/1962/1089_1127_1131); **1964** 486 art. 22 cpv. 2 lett. b; [1968 83](https://fedlex.data.admin.ch/eli/oc/1968/81_81_83), [981](https://fedlex.data.admin.ch/eli/oc/1968/1025_1065_981)art. 35; [1969 319](https://fedlex.data.admin.ch/eli/oc/1969/310_318_319)n. III; [1971 751](https://fedlex.data.admin.ch/eli/oc/1971/__751); [1978 50](https://fedlex.data.admin.ch/eli/oc/1978/50_50_50), [266](https://fedlex.data.admin.ch/eli/oc/1978/__266), [484](https://fedlex.data.admin.ch/eli/oc/1978/484_484_484); [1985 1649](https://fedlex.data.admin.ch/eli/oc/1985/1649_1649_1649); [1990 1882](https://fedlex.data.admin.ch/eli/oc/1990/1882_1882_1882)app. n. 7; [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 22; [1993 3043](https://fedlex.data.admin.ch/eli/oc/1993/3043_3043_3043)all. n. 3. [RU 1994 2626](https://fedlex.data.admin.ch/eli/oc/1994/2626_2626_2626)art. 71].
+[^u13-6-10]: [[RU 1965 321](https://fedlex.data.admin.ch/eli/oc/1965/321_325_321); [1968 89](https://fedlex.data.admin.ch/eli/oc/1968/86_87_89); [1972 1885](https://fedlex.data.admin.ch/eli/oc/1972/1681_1709_1885); [1975 1078](https://fedlex.data.admin.ch/eli/oc/1975/1078_1078_1078)n. III; [RU 1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)n. I, 331. [RU 1979 1687](https://fedlex.data.admin.ch/eli/oc/1979/1687_1687_1687)art. 75]
+[^u13-6-11]: Questo art. ha ora un nuovo testo.
+[^u13-6-12]: [RS 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
 
 ### Adattamento di rapporti giuridici sorti sotto il diritto anteriore
 
@@ -18173,10 +19128,10 @@ All’entrata in vigore della presente legge sono abrogati:
 
 <sup>1</sup> I contratti di lavoro (contratti individuali, normali o collettivi di lavoro) già esistenti all’entrata in vigore della presente legge devono essere adattati alle sue disposizioni entro un anno; trascorso questo termine, la nuova legge si applica a tutti i contratti di lavoro.
 
-<sup>2</sup> Le istituzioni di previdenza a favore del personale già esistenti al momento dell’entrata in vigore[^u14-7-1] devono, al più tardi entro il 1° gennaio 1977, adattare i loro statuti o regolamenti alle disposizioni degli articoli 331*a*, 331*b* e 331*c* osservando le prescrizioni formali vigenti per simili modificazioni; con il 1° gennaio 1977 queste disposizioni sono applicabili a tutte le istituzioni di previdenza del personale.[^u14-7-2]
+<sup>2</sup> Le istituzioni di previdenza a favore del personale già esistenti al momento dell’entrata in vigore[^u13-7-1] devono, al più tardi entro il 1° gennaio 1977, adattare i loro statuti o regolamenti alle disposizioni degli articoli 331*a*, 331*b* e 331*c* osservando le prescrizioni formali vigenti per simili modificazioni; con il 1° gennaio 1977 queste disposizioni sono applicabili a tutte le istituzioni di previdenza del personale.[^u13-7-2]
 
-[^u14-7-1]: 1° gen. 1972.
-[^u14-7-2]: Nuovo testo giusta il n. I della LF del 25 giu. 1976, in vigore dal 1° gen. 1977 ([RU 1976 1972](https://fedlex.data.admin.ch/eli/oc/1976/1972_1972_1972); [FF 1976 I 1245](https://fedlex.data.admin.ch/eli/fga/1976/1_1269_1273_1245)).
+[^u13-7-1]: 1° gen. 1972.
+[^u13-7-2]: Nuovo testo giusta il n. I della LF del 25 giu. 1976, in vigore dal 1° gen. 1977 ([RU 1976 1972](https://fedlex.data.admin.ch/eli/oc/1976/1972_1972_1972); [FF 1976 I 1245](https://fedlex.data.admin.ch/eli/fga/1976/1_1269_1273_1245)).
 
 ### Entrata in vigore
 
@@ -18184,11 +19139,11 @@ All’entrata in vigore della presente legge sono abrogati:
 
 Il Consiglio federale fissa la data dell’entrata in vigore della presente legge.
 
-## Disposizioni finali del capo quarto del titolo XIII****
+## Disposizioni finali del capo quarto del titolo XIII
 
-[^u15-1]
+[^u14-1]
 
-[^u15-1]: Introdotte dal n. II della LF del 4 feb. 1949, in vigore dal 1° gen. 1950 (RU **1949** I 815).
+[^u14-1]: Introdotte dal n. II della LF del 4 feb. 1949, in vigore dal 1° gen. 1950 (RU **1949** I 815).
 
 ### A. Regime transitorio
 
@@ -18204,9 +19159,9 @@ Il Consiglio federale fissa la data dell’entrata in vigore della presente legg
 
 #### Art. 2
 
-...[^u15-2-1]
+...[^u14-2-1]
 
-[^u15-2-1]: La mod. può essere consultata alla RU **1949** I 815.
+[^u14-2-1]: La mod. può essere consultata alla RU **1949** I 815.
 
 ### C. Attuazione
 
@@ -18214,15 +19169,15 @@ Il Consiglio federale fissa la data dell’entrata in vigore della presente legg
 
 Il Consiglio federale fissa la data dell’entrata in vigore della presente legge.
 
-## Disposizioni transitorie del titolo XX****
+## Disposizioni transitorie del titolo XX
 
-[^u16-1]
+[^u15-1]
 
-[^u16-1]: Introdotte dal n. II della LF del 10 dic. 1941, in vigore dal 1° lug. 1942 ([RU 58 303](https://fedlex.data.admin.ch/eli/oc/58/279_279_303); FF **1940** 149).
+[^u15-1]: Introdotte dal n. II della LF del 10 dic. 1941, in vigore dal 1° lug. 1942 ([RU 58 303](https://fedlex.data.admin.ch/eli/oc/58/279_279_303); FF **1940** 149).
 
 <sup>1</sup> Le disposizioni del nuovo diritto sono applicabili a tutte le fideiussioni contratte dopo l’attuazione della presente legge.
 
-<sup>3</sup> Sono riservati gli articoli 77–80 della legge del 18 marzo 2005[^u16-2] sulle dogane.[^u16-3]
+<sup>3</sup> Sono riservati gli articoli 77–80 della legge del 18 marzo 2005[^u15-2] sulle dogane.[^u15-3]
 
 <sup>4</sup> Il Consiglio federale fissa il giorno in cui la presente legge entra in vigore.
 
@@ -18235,22 +19190,22 @@ Il Consiglio federale fissa la data dell’entrata in vigore della presente legg
 - 5\. l’articolo 505 capoverso 2 non è applicabile che ai fallimenti dichiarati e alle moratorie concesse tre mesi almeno dopo l’attuazione della legge;
 - 6\. il termine indicato nell’articolo 509 capoverso 3 decorre solo dall’attuazione della legge.
 
-[^u16-2]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^u16-3]: Nuovo testo giusta l’all. n. 2 della L del 18 mar. 2005 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [FF 2004 485](https://fedlex.data.admin.ch/eli/fga/2004/129)).
+[^u15-2]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^u15-3]: Nuovo testo giusta l’all. n. 2 della L del 18 mar. 2005 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [FF 2004 485](https://fedlex.data.admin.ch/eli/fga/2004/129)).
 
-## Disposizioni finali e transitorie dei titoli XXIV a XXXIII****
+## Disposizioni finali e transitorie dei titoli XXIV a XXXIII
 
-[^u17-1]
+[^u16-1]
 
-[^u17-1]: Introdotte dalla LF del 18 dic. 1936, in vigore dal 1° lug. 1937 ([RU 53 189](https://fedlex.data.admin.ch/eli/oc/53/185_185_189); FF **1931** 539, **1932** 201).
+[^u16-1]: Introdotte dalla LF del 18 dic. 1936, in vigore dal 1° lug. 1937 ([RU 53 189](https://fedlex.data.admin.ch/eli/oc/53/185_185_189); FF **1931** 539, **1932** 201).
 
 ### A. Riferimento al titolo finale
 
 #### Art. 1
 
-Le disposizioni del titolo finale del Codice civile svizzero del 10 dicembre 1907[^u17-1-1] valgono anche per la presente legge.
+Le disposizioni del titolo finale del Codice civile svizzero del 10 dicembre 1907[^u16-1-1] valgono anche per la presente legge.
 
-[^u17-1-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^u16-1-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 
 ### B. Adattamento al nuovo diritto delle società anteriori
 
@@ -18268,23 +19223,23 @@ Le disposizioni del titolo finale del Codice civile svizzero del 10 dicembre 190
 
 ### II. Fondi di beneficenza
 
-[^u17-lvlB-lvlII-1]
+[^u16-lvlB-lvlII-1]
 
-[^u17-lvlB-lvlII-1]: Ora: di previdenza (LF del 21 mar. 1958 – [RU 1958 393](https://fedlex.data.admin.ch/eli/oc/1958/379_389_393); FF **1958** 266).
+[^u16-lvlB-lvlII-1]: Ora: di previdenza (LF del 21 mar. 1958 – [RU 1958 393](https://fedlex.data.admin.ch/eli/oc/1958/379_389_393); FF **1958** 266).
 
 #### Art. 3
 
-Le società anonime, le società in accomandita per azioni e le società cooperative che abbiano, prima dell’attuazione di questa legge, destinato in modo manifesto beni a creare e sostenere istituzioni di beneficenza[^u17-3-1] a favore d’impiegati, di operai o, nel caso della cooperativa, anche di soci, devono, entro cinque anni, porre questi fondi in consonanza alle norme degli articoli 673[^u17-3-2] e 862[^u17-3-3].
+Le società anonime, le società in accomandita per azioni e le società cooperative che abbiano, prima dell’attuazione di questa legge, destinato in modo manifesto beni a creare e sostenere istituzioni di beneficenza[^u16-3-1] a favore d’impiegati, di operai o, nel caso della cooperativa, anche di soci, devono, entro cinque anni, porre questi fondi in consonanza alle norme degli articoli 673[^u16-3-2] e 862[^u16-3-3].
 
-[^u17-3-1]: Ora: di previdenza (LF del 21 mar. 1958 – [RU 1958 393](https://fedlex.data.admin.ch/eli/oc/1958/379_389_393); FF **1958** 266).
-[^u17-3-2]: Questo art. ha ora un nuovo testo.
-[^u17-3-3]: Questo art. ha ora un nuovo testo.
+[^u16-3-1]: Ora: di previdenza (LF del 21 mar. 1958 – [RU 1958 393](https://fedlex.data.admin.ch/eli/oc/1958/379_389_393); FF **1958** 266).
+[^u16-3-2]: Questo art. ha ora un nuovo testo.
+[^u16-3-3]: Questo art. ha ora un nuovo testo.
 
 #### Art. 4
 
-[^u17-4-1]
+[^u16-4-1]
 
-[^u17-4-1]: Abrogato dall’all. n. 2 della LF del 3 ott. 2003 sulla fusione, con effetto dal 1° lug. 2004 ([RU 2004 2617](https://fedlex.data.admin.ch/eli/oc/2004/320); [FF 2000 3765](https://fedlex.data.admin.ch/eli/fga/2000/921)).
+[^u16-4-1]: Abrogato dall’all. n. 2 della LF del 3 ott. 2003 sulla fusione, con effetto dal 1° lug. 2004 ([RU 2004 2617](https://fedlex.data.admin.ch/eli/oc/2004/320); [FF 2000 3765](https://fedlex.data.admin.ch/eli/fga/2000/921)).
 
 ### C. Norme riguardanti il bilancio
 
@@ -18300,9 +19255,9 @@ Le società anonime, le società in accomandita per azioni e le società coopera
 
 #### Art. 6
 
-[^u17-6-1]
+[^u16-6-1]
 
-[^u17-6-1]: Privo d’oggetto.
+[^u16-6-1]: Privo d’oggetto.
 
 ### D. Responsabilità dei soci delle società cooperative
 
@@ -18310,11 +19265,11 @@ Le società anonime, le società in accomandita per azioni e le società coopera
 
 <sup>1</sup> Le modificazioni che la presente legge arreca alla responsabilità dei soci delle società cooperative non menomano i diritti dei creditori esistenti al momento della sua attuazione.
 
-<sup>2</sup> Le società cooperative, i cui soci rispondono personalmente degli obblighi sociali soltanto in applicazione dell’articolo 689 del Codice delle obbligazioni fin qui in vigore[^u17-7-1], rimangono per cinque anni sottoposte ad esso codice.
+<sup>2</sup> Le società cooperative, i cui soci rispondono personalmente degli obblighi sociali soltanto in applicazione dell’articolo 689 del Codice delle obbligazioni fin qui in vigore[^u16-7-1], rimangono per cinque anni sottoposte ad esso codice.
 
 <sup>3</sup> Durante questo periodo, l’assemblea generale può, a maggioranza assoluta dei suoi voti, escludere totalmente o parzialmente o constatare esplicitamente la responsabilità personale. La disposizione dell’articolo 889 capoverso 2 riguardante il recesso non è applicabile.
 
-[^u17-7-1]: [RU 27 377](https://fedlex.data.admin.ch/eli/oc/27/317_321_377)
+[^u16-7-1]: [RU 27 377](https://fedlex.data.admin.ch/eli/oc/27/317_321_377)
 
 ### E. Ditte
 
@@ -18330,7 +19285,7 @@ Le società anonime, le società in accomandita per azioni e le società coopera
 
 #### Art. 9
 
-I libretti di cassa di risparmio e di deposito, i buoni di risparmio e di deposito emessi come titoli nominativi prima della attuazione delle presente legge sono sottoposti alle norme dell’articolo 977 sull’ammortamento anche quando il debitore non si era espressamente riservato nel titolo il diritto di pagare validamente senza presentazione del medesimo e senza ammortamento.
+I libretti di cassa di risparmio e di deposito, i buoni di risparmio e di deposito emessi come titoli nominativi prima della attuazione della presente legge sono sottoposti alle norme dell’articolo 977 sull’ammortamento anche quando il debitore non si era espressamente riservato nel titolo il diritto di pagare validamente senza presentazione del medesimo e senza ammortamento.
 
 ### II. Azioni
 
@@ -18361,26 +19316,26 @@ Le cambiali e gli assegni bancari emessi prima dell’attuazione della presente 
 
 #### Art. 13
 
-Le disposizioni dell’ordinanza del 20 febbraio 1918[^u17-13-1] concernente la comunione dei creditori nei prestiti in obbligazioni e dei decreti completivi del Consiglio federale[^u17-13-2] rimangono in vigore per i casi ai quali esse furono applicate.
+Le disposizioni dell’ordinanza del 20 febbraio 1918[^u16-13-1] concernente la comunione dei creditori nei prestiti in obbligazioni e dei decreti completivi del Consiglio federale[^u16-13-2] rimangono in vigore per i casi ai quali esse furono applicate.
 
-[^u17-13-1]: [[RU 34 249](https://fedlex.data.admin.ch/eli/oc/34/231_231_249), [35 396](https://fedlex.data.admin.ch/eli/oc/35/297_301_396), [36 599](https://fedlex.data.admin.ch/eli/oc/36/623_637_599)[933](https://fedlex.data.admin.ch/eli/oc/36/893_913_933). CS **2** 193 in fine, disp. fin. cap. II tit. XXXIV n. 4]
-[^u17-13-2]: [[RU 51 779](https://fedlex.data.admin.ch/eli/oc/51/673_684_779), [53 459](https://fedlex.data.admin.ch/eli/oc/53/454_454_459), [57 1595](https://fedlex.data.admin.ch/eli/oc/57/1514_1549_1595), [58 978](https://fedlex.data.admin.ch/eli/oc/58/934_936_978), **62** 1105, [63 1348](https://fedlex.data.admin.ch/eli/oc/63/1342_1343_1348)]
+[^u16-13-1]: [[RU 34 249](https://fedlex.data.admin.ch/eli/oc/34/231_231_249); [35 396](https://fedlex.data.admin.ch/eli/oc/35/297_301_396); [36 599](https://fedlex.data.admin.ch/eli/oc/36/623_637_599), [933](https://fedlex.data.admin.ch/eli/oc/36/893_913_933). CS **2** 193 in fine, disp. fin. cap. II tit. XXXIV n. 4]
+[^u16-13-2]: [[RU 51 779](https://fedlex.data.admin.ch/eli/oc/51/673_684_779), [53 459](https://fedlex.data.admin.ch/eli/oc/53/454_454_459), [57 1595](https://fedlex.data.admin.ch/eli/oc/57/1514_1549_1595), [58 978](https://fedlex.data.admin.ch/eli/oc/58/934_936_978), **62** 1105, [63 1348](https://fedlex.data.admin.ch/eli/oc/63/1342_1343_1348)]
 
 ### H. ...
 
 #### Art. 14
 
-[^u17-14-1]
+[^u16-14-1]
 
-[^u17-14-1]: Abrogato dall’all. n. I lett. *c* della LF del 18 dic. 1987 sul diritto privato internazionale, con effetto dal 1° gen. 1989 ([RU 1988 1776](https://fedlex.data.admin.ch/eli/oc/1988/1776_1776_1776); [FF 1983 I 239](https://fedlex.data.admin.ch/eli/fga/1983/1_263_255_239)).
+[^u16-14-1]: Abrogato dall’all. n. I lett. *c* della LF del 18 dic. 1987 sul diritto privato internazionale, con effetto dal 1° gen. 1989 ([RU 1988 1776](https://fedlex.data.admin.ch/eli/oc/1988/1776_1776_1776); [FF 1983 I 239](https://fedlex.data.admin.ch/eli/fga/1983/1_263_255_239)).
 
 ### J. Modificazioni della legge sulla esecuzione e sul fallimento
 
 #### Art. 15
 
-...[^u17-15-1]
+...[^u16-15-1]
 
-[^u17-15-1]: Le mod. possono essere consultate alla [RU 53 189](https://fedlex.data.admin.ch/eli/oc/53/185_185_189).
+[^u16-15-1]: Le mod. possono essere consultate alla [RU 53 189](https://fedlex.data.admin.ch/eli/oc/53/185_185_189).
 
 ### K. Rapporto con la legge su le banche
 
@@ -18388,25 +19343,25 @@ Le disposizioni dell’ordinanza del 20 febbraio 1918[^u17-13-1] concernente la 
 
 #### Art. 16
 
-Rimangono riservate le norme della legge federale dell’8 novembre 1934[^u17-16-1] su le banche e le casse di risparmio.
+Rimangono riservate le norme della legge federale dell’8 novembre 1934[^u16-16-1] su le banche e le casse di risparmio.
 
-[^u17-16-1]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^u16-16-1]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
 
 ### II. Modificazione di alcune norme
 
 #### Art. 17
 
-...[^u17-17-1]
+...[^u16-17-1]
 
-[^u17-17-1]: Le mod. possono essere consultate alla [RU 53 189](https://fedlex.data.admin.ch/eli/oc/53/185_185_189).
+[^u16-17-1]: Le mod. possono essere consultate alla [RU 53 189](https://fedlex.data.admin.ch/eli/oc/53/185_185_189).
 
 ### L. Abrogazione di diritto civile federale
 
 #### Art. 18
 
-Con l’attuazione della presente legge rimangono abrogate le disposizioni del diritto civile federale incompatibili con essa, in ispecie la parte terza del Codice federale delle obbligazioni del 14 giugno 1881[^u17-18-1], intitolata: «Delle società di commercio, delle cartevalori e delle ditte commerciali (art. 552 a 715 e 720 a 880).
+Con l’attuazione della presente legge rimangono abrogate le disposizioni del diritto civile federale incompatibili con essa, in ispecie la parte terza del Codice federale delle obbligazioni del 14 giugno 1881[^u16-18-1], intitolata: «Delle società di commercio, delle cartevalori e delle ditte commerciali (art. 552 a 715 e 720 a 880).
 
-[^u17-18-1]: [[RU 5 577](https://fedlex.data.admin.ch/eli/oc/5/635_577_577), **11** 490; CS **2** 770 art. 103 cpv. 1. CS **2** 3 tit. fin. art. 60 cpv. 2]
+[^u16-18-1]: [[RU 5 577](https://fedlex.data.admin.ch/eli/oc/5/635_577_577), **11** 490; CS **2** 770 art. 103 cpv. 1. CS **2** 3 tit. fin. art. 60 cpv. 2]
 
 ### M. Attuazioni della presente legge
 
@@ -18414,25 +19369,25 @@ Con l’attuazione della presente legge rimangono abrogate le disposizioni del d
 
 <sup>1</sup> La presente legge sarà attuata il 1° luglio 1937.
 
-<sup>2</sup> È fatta eccezione per il capo sulla comunione degli obbligazionisti (art. 1157 a 1182); il Consiglio federale stabilirà il giorno della sua attuazione[^u17-19-1].
+<sup>2</sup> È fatta eccezione per il capo sulla comunione degli obbligazionisti (art. 1157 a 1182); il Consiglio federale stabilirà il giorno della sua attuazione[^u16-19-1].
 
 <sup>3</sup> Il Consiglio federale è incaricato d’eseguire la presente legge.
 
-[^u17-19-1]: Questo capo è stato messo in vigore nel testo del 1° apr. 1949. Per il testo originario vedi [RU 53 189](https://fedlex.data.admin.ch/eli/oc/53/185_185_189).
+[^u16-19-1]: Questo capo è stato messo in vigore nel testo del 1° apr. 1949. Per il testo originario vedi [RU 53 189](https://fedlex.data.admin.ch/eli/oc/53/185_185_189).
 
-## Disposizioni finali del titolo XXVI****
+## Disposizioni finali del titolo XXVI
 
-[^u18-1]
+[^u17-1]
 
-[^u18-1]: Introdotte dal n. III della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^u17-1]: Introdotte dal n. III della LF del 4 ott. 1991, in vigore dal 1° lug. 1992 ([RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 713](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 
 ### A. Titolo finale del Codice civile
 
 #### Art. 1
 
-Il titolo finale del Codice civile[^u18-1-1] è applicabile parimenti alla presente legge.
+Il titolo finale del Codice civile[^u17-1-1] è applicabile parimenti alla presente legge.
 
-[^u18-1-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^u17-1-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 
 ### B. Adeguamento alla nuova disciplina legale
 
@@ -18468,9 +19423,9 @@ In complemento all’articolo 685*d* capoverso 1, la società può, in virtù di
 
 #### Art. 5
 
-Le società che, in applicazione dell’articolo 10 delle disposizioni finali e transitorie della legge federale del 18 dicembre 1936 sulla revisione dei titoli XXIV–XXXIII del Codice delle obbligazioni[^u18-5-1], hanno mantenuto azioni con diritto di voto privilegiato aventi un valore nominale inferiore a 10 franchi, come pure le società in cui le azioni più grandi hanno un valore nominale superiore a dieci volte quello delle più piccole, non sono tenute ad adeguare il loro statuto a quanto stabilito dall’articolo 693 capoverso 2 secondo periodo. Tuttavia non è più consentito loro di emettere nuove azioni il cui valore nominale sia superiore a dieci volte il valore nominale delle più piccole o inferiore al 10 per cento del valore nominale delle più grandi.
+Le società che, in applicazione dell’articolo 10 delle disposizioni finali e transitorie della legge federale del 18 dicembre 1936 sulla revisione dei titoli XXIV–XXXIII del Codice delle obbligazioni[^u17-5-1], hanno mantenuto azioni con diritto di voto privilegiato aventi un valore nominale inferiore a 10 franchi, come pure le società in cui le azioni più grandi hanno un valore nominale superiore a dieci volte quello delle più piccole, non sono tenute ad adeguare il loro statuto a quanto stabilito dall’articolo 693 capoverso 2 secondo periodo. Tuttavia non è più consentito loro di emettere nuove azioni il cui valore nominale sia superiore a dieci volte il valore nominale delle più piccole o inferiore al 10 per cento del valore nominale delle più grandi.
 
-[^u18-5-1]: Vedi qui avanti.
+[^u17-5-1]: Vedi qui avanti.
 
 ### 4. Maggioranze qualificate
 
@@ -18484,9 +19439,9 @@ Qualora una società abbia ripreso nello statuto, riproducendo semplicemente dis
 
 Sono modificate:
 
-...[^u18-7-1]
+...[^u17-7-1]
 
-[^u18-7-1]: Le mod. possono essere consultate alla [RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733).
+[^u17-7-1]: Le mod. possono essere consultate alla [RU 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733).
 
 ### D. Referendum
 
@@ -18500,13 +19455,13 @@ La presente legge sottostà al referendum facoltativo.
 
 Il Consiglio federale determina l’entrata in vigore.
 
-## Disposizioni finali del capo secondo del titolo XXXIV****
+## Disposizioni finali del capo secondo del titolo XXXIV
 
-[^u19-1]
+[^u18-1]
 
-[^u19-1]: Introdotte dal n. II della LF del 1° apr. 1949, in vigore dal 1° gen. 1950 (RU **1949** I 822).
+[^u18-1]: Introdotte dal n. II della LF del 1° apr. 1949, in vigore dal 1° gen. 1950 (RU **1949** I 822).
 
-\1. e 2. ...[^u19-2]
+\1. e 2. ...[^u18-2]
 
 \3. Le decisioni della comunione votata durante il periodo di validità del precedente diritto rimangono valide con la introduzione delle nuove disposizioni legislative.
 
@@ -18516,9 +19471,9 @@ Tuttavia, allorché un debitore avrà già fruito, in virtù di decisioni della 
 
 Inoltre, sono applicabili le disposizioni finali e transitorie della legge federale del 18 dicembre 1936 che riforma i titoli XXIV a XXXIII del Codice delle obbligazioni.
 
-\4. La presente legge abroga tutte le disposizioni ad essa contrarie, in particolare l’ordinanza del Consiglio federale del 20 febbraio 1918[^u19-3] sulla comunione dei creditori nei prestiti per obbligazioni.
+\4. La presente legge abroga tutte le disposizioni ad essa contrarie, in particolare l’ordinanza del Consiglio federale del 20 febbraio 1918[^u18-3] sulla comunione dei creditori nei prestiti per obbligazioni.
 
 \5. Il Consiglio federale fissa la data dell’entrata in vigore della presente legge.
 
-[^u19-2]: Le mod. possono essere consultate alla RU **1949** I 822.
-[^u19-3]: [[RU 34 249](https://fedlex.data.admin.ch/eli/oc/34/231_231_249), [35 396](https://fedlex.data.admin.ch/eli/oc/35/297_301_396), [36 599](https://fedlex.data.admin.ch/eli/oc/36/623_637_599)[933](https://fedlex.data.admin.ch/eli/oc/36/893_913_933)]
+[^u18-2]: Le mod. possono essere consultate alla RU **1949** I 822.
+[^u18-3]: [[RU 34 249](https://fedlex.data.admin.ch/eli/oc/34/231_231_249), [35 396](https://fedlex.data.admin.ch/eli/oc/35/297_301_396), [36 599](https://fedlex.data.admin.ch/eli/oc/36/623_637_599)[933](https://fedlex.data.admin.ch/eli/oc/36/893_913_933)]

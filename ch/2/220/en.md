@@ -4,11 +4,11 @@ title: "Federal Act of 30 March 1911 on the Amendment of the Swiss Civil Code (P
 short: CO
 eli: "https://fedlex.data.admin.ch/eli/cc/27/317_321_377"
 language: en
-version: 2022-01-01
+version: 2023-01-01
 adopted: 1911-03-30
 in_force: 1912-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20220101/en/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20220101-en-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20220101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20230101/en/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20230101-en-xml-14.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20230101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Part Five: The Code of Obligations)
 
-of 30 March 1911 (Status as of 1 January 2022)
+of 30 March 1911 (Status as of 1 January 2023)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -365,7 +365,7 @@ Where an offer to enter into a contract or the acceptance of that offer has been
 
 #### Art. 34
 
-<sup>1</sup> A principal authorising another to act on his behalf by means of a transaction may restrict or revoke such authority at any time without prejudice to any rights acquired by those involved under existing legal relationships, such as an individual contract of employment, a partnership agreement or an agency agreement.[^34-1]
+<sup>1</sup> A principal authorising another to act on his behalf by means of a transaction may restrict or revoke such authority at any time without prejudice to any rights acquired by those involved under existing legal relationships, such as an individual contract of employment, a partnership agreement or a mandate.[^34-1]
 
 <sup>2</sup> Any advance waiver of this right by the principal is void.
 
@@ -536,7 +536,7 @@ The prescriptive period for revocation is 14 days and commences as soon as the c
 
 <sup>2</sup> Where the customer has made use of the goods, he owes an appropriate rental payment to the supplier.
 
-<sup>3</sup> Where the supplier has rendered services to him, the customer must reimburse the supplier for outlays and expenses incurred in accordance with the provisions governing agency (Art. 402).
+<sup>3</sup> Where the supplier has rendered services to him, the customer must reimburse the supplier for outlays and expenses incurred in accordance with the provisions governing mandates (Art. 402).
 
 <sup>4</sup> The customer does not owe the supplier any further compensation.
 
@@ -600,7 +600,7 @@ The prescriptive period for revocation is 14 days and commences as soon as the c
 
 #### Art. 45
 
-<sup>1</sup> In the event of homicide, compensation must cover all expenses arising and in particular the funeral costs.
+<sup>1</sup> In a case of homicide, compensation must cover all expenses arising and in particular the funeral costs.
 
 <sup>2</sup> Where death did not occur immediately, the compensation must also include the costs of medical treatment and losses arising from inability to work.
 
@@ -1249,7 +1249,7 @@ No time limit need be set:
 
 <sup>2</sup> In addition he may claim damages for the lapse of the contract, unless the obligor can prove that he was not at fault.
 
-### Section Three: Obligations involving Third Parties
+### Section Three: Obligations Involving Third Parties
 
 ### A. Subrogation
 
@@ -2337,7 +2337,7 @@ An agreement to reduce the prescriptive period is null and void if:
 
 <sup>2</sup> In the case of goods with a market or stock exchange price, the seller is entitled to claim as damages the difference between the contractual sale price and the market price at the time of performance without needing to sell the object on.
 
-### Section Three: Sale of Immovable Property
+### Section Three: The Sale of Immovable Property
 
 ### A. Formal requirements
 
@@ -2451,7 +2451,7 @@ Where the agreement stipulates a date on which the buyer is to take possession o
 
 #### Art. 221
 
-In other respects the provisions governing chattel sale apply *mutatis mutandis* to the sale and purchase of land.
+In other respects, the provisions governing chattel sale apply *mutatis mutandis* to the sale and purchase of land.
 
 ### Section Four: Special Types of Sale
 
@@ -2633,7 +2633,7 @@ The rules governing contracts of sale also apply to contracts of exchange in the
 
 A party to the exchange who is dispossessed of the object received or has returned it as defective may either claim for damages or for the return of the object that he delivered.
 
-### Title Seven: Gifts
+### Title Seven: The Gift
 
 ### A. Definition
 
@@ -2776,7 +2776,7 @@ The donor who has made a promise to give may revoke the promise and refuse to fu
 
 Unless otherwise provided, where the donor has undertaken to make periodic payments or performance, his obligation is extinguished on his death.
 
-### Title Eight:**** The Lease
+### Title Eight: The Lease
 
 [^part2-tit8-1]
 
@@ -2838,7 +2838,9 @@ A tie-in transaction linked to a lease of residential or commercial premises is 
 
 <sup>1</sup> The landlord or lessor is required to make the object available on the agreed date in a condition fit for its designated use and to maintain it in that condition.
 
-<sup>2</sup> Clauses to the contrary to the detriment of the tenant or lessee are void if they are set out:
+<sup>2</sup>
+
+Clauses to the contrary to the detriment of the tenant or lessee are void if they are set out:
 
 - a. in previously formulated general terms and conditions;
 - b. in leases for residential or commercial premises.
@@ -3088,7 +3090,7 @@ However, the new owner may:
 
 #### Art. 261a
 
-Where the landlord or lessor grants a third party a limited right in rem and this is tantamount to a change of ownership, the provisions governing alienation of the object are applicable *mutatis mutandis*.
+Where the landlord or lessor grants a third party a limited right in rem and this is tantamount to a change of ownership, the provisions governing alienation of the object apply mutatis mutandis.
 
 ### III. Entry under priority notice in the land register
 
@@ -3315,7 +3317,7 @@ Notice of termination is void if it does not conform to Articles 266*l*–266*n*
 
 <sup>2</sup> Items removed secretly or by force may, with police assistance, be brought back onto the premises within ten days of their removal.
 
-### Section Two: Protection against Unfair Rents or other Unfair Claims by the Landlord in respect of Leases of Residential and Commercial Premises
+### Section Two: Protection against Unfair Rents or other Unfair Claims by the Landlord in Respect of Leases of Residential and Commercial Premises
 
 ### A. Unfair rent
 
@@ -3589,7 +3591,7 @@ A tenant wishing to apply for a lease extension must submit his request to the c
 
 <sup>2</sup> All agreements to the contrary are void.
 
-### Section Four:**** ...
+### Section Four: ...
 
 [^part2-tit8-chap4-1]
 
@@ -3597,7 +3599,7 @@ A tenant wishing to apply for a lease extension must submit his request to the c
 
 #### Art. 274–274g
 
-### Title Eight<sup>bis</sup>:**** The Usufructuary Lease
+### Title Eight<sup>bis</sup>: The Usufructuary Lease
 
 [^part2-tit8bis-1]
 
@@ -4084,7 +4086,7 @@ The borrower’s claim for delivery and the lender’s claim for acceptance of t
 
 Where a fixed-term loan contract does not stipulate the repayment date or the period of notice to terminate the contract or the expiry of the contract at any time on first request, the borrower must repay the loan within six weeks of the first request by the lender.
 
-### Title Ten:**** The Employment Contract
+### Title Ten: The Employment Contract
 
 [^part2-tit10-1]
 
@@ -4230,7 +4232,7 @@ The employee must carry out the contractually assumed tasks in person, unless ot
 
 <sup>3</sup> Shares in business results are payable as soon as the results are determined, but not later than six months after the end of the financial year.
 
-<sup>4</sup> If an employee is in hardship and requests an advance against salary due for work already performed, the employer must advance such sum as may equitably be expected of him.
+<sup>4</sup> If an employee is in hardship and requests an advance against salary due for work already performed, the employer must advance such sum as may reasonably be expected of him.
 
 ### 2. Withholding of salary
 
@@ -4375,7 +4377,7 @@ The employee must carry out the contractually assumed tasks in person, unless ot
 
 <sup>1</sup> Within the employment relationship, the employer must acknowledge and safeguard the employee’s personality rights, have due regard for his health and ensure that proper moral standards are maintained. In particular, he must ensure that employees are not sexually harassed and that any victim of sexual harassment suffers no further adverse consequences.[^328-1]
 
-<sup>2</sup> In order to safeguard the personal safety, health and integrity of his employees he must take all measures that are shown by experience to be necessary, that are feasible using the latest technology and that are appropriate to the particular circumstances of the workplace or the household, provided such measures may equitably be expected of him in the light of each specific employment relationship and the nature of the work. [^328-2] [^328-3]
+<sup>2</sup> In order to safeguard the personal safety, health and integrity of his employees he must take all measures that are shown by experience to be necessary, that are feasible using the latest technology and that are appropriate to the particular circumstances of the workplace or the household, provided such measures may reasonably be expected of him in the light of each specific employment relationship and the nature of the work.[^328-2] [^328-3]
 
 [^328-1]: Sentence inserted by Annex No 3 to the FA of 24 March 1995 on Gender Equality, in force since 1 July 1996 ([AS 1996 1498](https://fedlex.data.admin.ch/eli/oc/1996/1498_1498_1498); [BBl 1993 I 1248](https://fedlex.data.admin.ch/eli/fga/1993/1_1248_1163_987)).
 [^328-2]: Revised by the Federal Assembly Drafting Committee (Art. 33 ParlPA; [AS 1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)).
@@ -4449,15 +4451,18 @@ The employer may not reduce the holiday entitlement of:
 
 - a. a female employee who is prevented from working by pregnancy for up to two months;
 - b. a female employee who has taken maternity leave in accordance with Article 329*f*;
-- c. a male employee who has taken paternity leave in accordance with Article 329*g*; or
-- d. an employee who has taken carer’s leave in accordance with Article 329*i*.[^329b-3]
+- c.[^329b-3] a male employee who has taken paternity leave in accordance with Article 329*g*;
+- d. an employee who has taken carer’s leave in accordance with Article 329*i*,
+- e.[^329b-4] an employee who has taken adoption leave in accordance with Article 329*j*.[^329b-5]
 
-<sup>4</sup> A standard employment contract or collective employment contract may derogate from paragraphs 2 and 3 provided that, taken as a whole, it gives employees terms of at least equal benefit.[^329b-4]
+<sup>4</sup> A standard employment contract or collective employment contract may derogate from paragraphs 2 and 3 provided that, taken as a whole, it gives employees terms of at least equal benefit.[^329b-6]
 
 [^329b-1]: Amended by Art. 117 of the FA of 25 June 1982 on Unemployment Insurance, in force since 1 Jan. 1984 ([AS 1982 2184](https://fedlex.data.admin.ch/eli/oc/1982/2184_2184_2184), [1983 1204](https://fedlex.data.admin.ch/eli/oc/1983/1204_1204_1204); [BBl 1980 III 489](https://fedlex.data.admin.ch/eli/fga/1980/3_489_485_469)).
 [^329b-2]: Amended by Art. 13 of the FA of 6 Oct. 1989 on Youth Work, in force since 1 Jan. 1991 ([AS 1990 2007](https://fedlex.data.admin.ch/eli/oc/1990/2007_2007_2007); [BBl 1988 I 825](https://fedlex.data.admin.ch/eli/fga/1988/1_825_777_641)).
-[^329b-3]: Amended by No II 1 of the FA of 20 Dec. 2019 on Improving the Compatibility of Work and Caring for Family Members, in force since 1 July 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
-[^329b-4]: Inserted by No I of the FA of 16 Dec. 1983, in force since 1 July 1984 ([AS 1984 580](https://fedlex.data.admin.ch/eli/oc/1984/580_580_580); [BBl 1982 III 201](https://fedlex.data.admin.ch/eli/fga/1982/3_201_177_161)).
+[^329b-3]: Amended by Annex No 1 of the FA of 1 Oct. 2021, in force since 1 Jan. 2023 ([AS 2022 468](https://fedlex.data.admin.ch/eli/oc/2022/468); [BBl 2019 7095](https://fedlex.data.admin.ch/eli/fga/2019/2553), [7303](https://fedlex.data.admin.ch/eli/fga/2019/2640)).
+[^329b-4]: Amended by Annex No 1 of the FA of 1 Oct. 2021, in force since 1 Jan. 2023 ([AS 2022 468](https://fedlex.data.admin.ch/eli/oc/2022/468); [BBl 2019 7095](https://fedlex.data.admin.ch/eli/fga/2019/2553), [7303](https://fedlex.data.admin.ch/eli/fga/2019/2640)).
+[^329b-5]: Amended by No II 1 of the FA of 20 Dec. 2019 on Improving the Compatibility of Work and Caring for Family Members, in force since 1 July 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
+[^329b-6]: Inserted by No I of the FA of 16 Dec. 1983, in force since 1 July 1984 ([AS 1984 580](https://fedlex.data.admin.ch/eli/oc/1984/580_580_580); [BBl 1982 III 201](https://fedlex.data.admin.ch/eli/fga/1982/3_201_177_161)).
 
 ### c. Consecutive weeks, timing
 
@@ -4510,8 +4515,6 @@ The employer may not reduce the holiday entitlement of:
 
 ### 5. Paternity leave
 
-### 4. Paternity leave
-
 #### Art. 329g
 
 [^329g-1]
@@ -4530,7 +4533,7 @@ The employer may not reduce the holiday entitlement of:
 
 [^329h-1]
 
-An employee is entitled to paid leave for the time he or she spends caring for a family member or life partner with health problems; however the leave is limited to no more than three days per event and no more than ten days per year.
+An employee is entitled to paid leave for the time he or she spends caring for a family member or life partner with health problems; however, the leave is limited to no more than three days per event and no more than ten days per year.
 
 [^329h-1]: Inserted by No II 1 of the FA of 20 Dec. 2019 on Improving the Compatibility of Employment and Caring for Family Members, in force since 1 Jan. 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 
@@ -4553,6 +4556,23 @@ An employee is entitled to paid leave for the time he or she spends caring for a
 [^329i-1]: Inserted by No II 1 of the FA of 20 Dec. 2019 on Improving the Compatibility of Work and Caring for Family Members, in force since 1 July 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 [^329i-2]: [SR 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
 
+### 8. Adoption leave
+
+#### Art. 329j
+
+[^329j-1]
+
+<sup>1</sup> If an employee adopts a child, he or she shall be entitled to adoption leave of two weeks provided the requirements of Article 16*t* LECA[^329j-2] are met.
+
+<sup>2</sup> The adoption leave must be taken within one year of adopting the child.
+
+<sup>3</sup> It may be taken by one parent or shared between both parents. Both parents may not take their share of leave at the same time.
+
+<sup>4</sup> It may be taken in full weeks or on a day-to-day basis.
+
+[^329j-1]: Inserted by Annex No 1 of the FA of 1 Oct. 2021, in force since 1 Jan. 2023 ([AS 2022 468](https://fedlex.data.admin.ch/eli/oc/2022/468); [BBl 2019 7095](https://fedlex.data.admin.ch/eli/fga/2019/2553), [7303](https://fedlex.data.admin.ch/eli/fga/2019/2640)).
+[^329j-2]: [SR 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
+
 ### IX. Other duties
 
 ### 1. Security
@@ -4565,7 +4585,7 @@ An employee is entitled to paid leave for the time he or she spends caring for a
 
 <sup>3</sup> Where the employer asserts claims arising from the employment relationship and these are contested, he may retain the security until they are resolved but must at the employee’s request deposit any retained security with the court.
 
-<sup>4</sup> In the event of the employer’s bankruptcy the employee may demand the return of the security kept separate from the employer’s own assets, subject to any claims of the latter arising from the employment relationship.
+<sup>4</sup> In the event of the employer’s bankruptcy, the employee may demand the return of the security kept separate from the employer’s own assets, subject to any claims of the latter arising from the employment relationship.
 
 ### 2. Reference
 
@@ -4726,7 +4746,7 @@ The Federal Council determines:
 
 <sup>1</sup> The benefits scheme may provide in its regulations that the pledges of assignments, early withdrawals and repayments may be subject to time or volume restrictions or even refused while the fund has a cover deficit.
 
-<sup>2</sup> The Federal Council determines the conditions under which the restrictions stipulated in para. 1 are permissible and the scope thereof.
+<sup>2</sup> The Federal Council determines the conditions under which the restrictions stipulated in paragraph 1 are permissible and the scope thereof.
 
 [^331f-1]: Inserted by Annex No 2 to the FA of 18 June 2004, in force since 1 Jan. 2005 ([AS 2004 4635](https://fedlex.data.admin.ch/eli/oc/2004/711); [BBl 2003 6399](https://fedlex.data.admin.ch/eli/fga/2003/1054)).
 
@@ -5095,7 +5115,7 @@ After the probation period has expired, the employer may not terminate the emplo
 [^336c-2]: Amended by Annex No 3 to the FA of 6 Oct. 1995 on Alternative Civilian Service, in force since 1 Oct. 1996 ([AS 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [BBl 1994 III 1609](https://fedlex.data.admin.ch/eli/fga/1994/3_1609_1579_1445)).
 [^336c-3]: Revised by the Federal Assembly Drafting Committee (Art. 33 ParlPA; [AS 1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)).
 [^336c-4]: Inserted by No II of the FA of 18 Dec. 2020, in force since 1 July 2021 ([AS 2021 288](https://fedlex.data.admin.ch/eli/oc/2021/288); [BBl 2019 141](https://fedlex.data.admin.ch/eli/fga/2019/9)).
-[^336c-5]: Originally lett. c<sup>bis</sup>. Inserted by No II 1 of the FA of 20 Dec. 2019 on Improving the Compatibility of Work and Caring for Family Members, in force since 1 July 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
+[^336c-5]: Originally let. c<sup>bis</sup>. Inserted by No II 1 of the FA of 20 Dec. 2019 on Improving the Compatibility of Work and Caring for Family Members, in force since 1 July 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 
 ### b. By the employee
 
@@ -5105,7 +5125,7 @@ After the probation period has expired, the employer may not terminate the emplo
 
 <sup>1</sup> After the probation period has expired, the employee may not terminate the employment relationship if he is required to deputise for a hierarchical superior whose function the employee is capable of assuming or for the employer himself who is prevented from working by the reasons set out at Article 336*c* paragraph 1 letter a.
 
-<sup>2</sup> Article 336*c* paragraphs 2 and 3 are applicable *mutatis mutandis*.
+<sup>2</sup> Article 336*c* paragraphs 2 and 3 apply mutatis mutandis.
 
 [^336d-1]: Amended by No I of the FA of 18 March 1988, in force since 1 Jan. 1989 ([AS 1988 1472](https://fedlex.data.admin.ch/eli/oc/1988/1472_1472_1472); [BBl 1984 II 551](https://fedlex.data.admin.ch/eli/fga/1984/2_551_574_494)).
 
@@ -5159,7 +5179,7 @@ In the event of the employer’s insolvency, the employee may terminate the empl
 
 #### Art. 337d
 
-<sup>1</sup> Where the employee fails to take up his post or leaves it without notice without good cause, the employer is entitled to compensation equal to one-quarter of the employee’s monthly salary; in addition he is entitled to damages for any further losses.
+<sup>1</sup> Where the employee fails to take up his post or leaves it without notice without good cause, the employer is entitled to compensation equal to one-quarter of the employee’s monthly salary; in addition, he is entitled to damages for any further losses.
 
 <sup>2</sup> Where the employer has suffered no losses or lower losses than the value of the compensation stipulated in the previous paragraph, the court may reduce the compensation at its discretion.
 
@@ -5313,7 +5333,7 @@ The following are reserved:
 
 ### Section Two: Special Individual Employment Contracts
 
-### A.**** The Apprenticeship Contract
+### A. The Apprenticeship Contract
 
 [^part2-tit10-chap2-lvlA-1]
 
@@ -5688,7 +5708,7 @@ A collective employment contract concluded between associations may stipulate th
 
 <sup>2</sup> Clauses within the meaning of the previous paragraph may be agreed where the contracting parties are expressly authorised so to do by their articles of association or resolution passed by their governing body.
 
-<sup>3</sup> Unless otherwise stipulated in the collective employment contract, the provisions governing simple partnerships are applicable *mutatis mutandis* to relations between the contracting parties.
+<sup>3</sup> Unless otherwise stipulated in the collective employment contract, the provisions governing simple partnerships apply mutatis mutandis to relations between the contracting parties.
 
 ### III. Relationship to mandatory law
 
@@ -5889,17 +5909,18 @@ It is not permissible to derogate from the following provisions to the detriment
 - Article 329*f*: (maternity leave);[^part2-tit10-chap4-lvlB-lvlu1-4]
 - Article 329*g*: (paternity leave);[^part2-tit10-chap4-lvlB-lvlu1-5]
 - Article 329*h*: (leave to care for family members);[^part2-tit10-chap4-lvlB-lvlu1-6]
-- Article 329*i*: (Leave to care for a child whose health is seriously impaired by illness or accident)[^part2-tit10-chap4-lvlB-lvlu1-7]
+- Article 329*i*: (Leave to care for a child whose health is seriously impaired by illness or accident);[^part2-tit10-chap4-lvlB-lvlu1-7]
+- Article 329*j*: (Adoption leave);[^part2-tit10-chap4-lvlB-lvlu1-8]
 - Article 330: paragraphs 1, 3 and 4 (security);
 - Article 330*a*: (reference);
 - Article 331: paragraphs 3 and 4 (contributions and information for employee benefits);
-- Article 331*a*: (beginning and end of insurance cover);[^part2-tit10-chap4-lvlB-lvlu1-8]
-- [tab] ...[^part2-tit10-chap4-lvlB-lvlu1-9]
+- Article 331*a*: (beginning and end of insurance cover);[^part2-tit10-chap4-lvlB-lvlu1-9]
+- [tab] ...[^part2-tit10-chap4-lvlB-lvlu1-10]
 - Article 332: paragraph 4 (remuneration for inventions);
 - Article 333: paragraph 3 (liability in the event of transfer of employment relationships);
-- Article 335*c*: (notice periods)[^part2-tit10-chap4-lvlB-lvlu1-10]
-- Article 335*i*: (duty to negotiate in order to conclude a social plan)[^part2-tit10-chap4-lvlB-lvlu1-11]
-- Article 335*j*: (preparation of the social plan by an arbitral tribunal)[^part2-tit10-chap4-lvlB-lvlu1-12]
+- Article 335*c*: (notice periods)[^part2-tit10-chap4-lvlB-lvlu1-11]
+- Article 335*i*: (duty to negotiate in order to conclude a social plan)[^part2-tit10-chap4-lvlB-lvlu1-12]
+- Article 335*j*: (preparation of the social plan by an arbitral tribunal)[^part2-tit10-chap4-lvlB-lvlu1-13]
 - Article 336: paragraph 2 (wrongful termination by the employer);
 - Article 336*c*: (termination by the employer at an inopportune juncture);
 - Article 337*a*: (termination with immediate effect because salary is at risk);
@@ -5912,7 +5933,7 @@ It is not permissible to derogate from the following provisions to the detriment
 - Article. 340*a*: paragraph 1 (restrictions on prohibition of competition);
 - Article. 340*c*: (extinction of prohibition of competition);
 - Article. 341: paragraph 1 (no right of waiver);
-- Article. 345*a*: (obligations of the master[^part2-tit10-chap4-lvlB-lvlu1-13]);
+- Article. 345*a*: (obligations of the master[^part2-tit10-chap4-lvlB-lvlu1-14]);
 - Article. 346*a*: (certificate of apprenticeship);
 - Article. 349*a*: paragraph 1 (commercial traveller’s salary);
 - Article. 349*b*: paragraph 3 (payment of commission);
@@ -5922,7 +5943,7 @@ It is not permissible to derogate from the following provisions to the detriment
 - Article. 352*a*: paragraph 3 (home worker’s liability);
 - Article. 353: (acceptance of completed work);
 - Article. 353*a*: (payment of salary);
-- Article. 353*b*: paragraph 1 (salary where home worker is prevented from working).[^part2-tit10-chap4-lvlB-lvlu1-14]
+- Article. 353*b*: paragraph 1 (salary where home worker is prevented from working).[^part2-tit10-chap4-lvlB-lvlu1-15]
 
 <sup>2</sup> Any agreement or clause of a standard employment contract or collective employment contract that derogates from the aforementioned provisions to the detriment of the employee is void.
 
@@ -5933,21 +5954,22 @@ It is not permissible to derogate from the following provisions to the detriment
 [^part2-tit10-chap4-lvlB-lvlu1-5]: Inserted by No II 1 of the FA of 20 Dec. 2019 on Improving the Compatibility of Employment and Caring for Family Members, in force since 1 Jan. 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 [^part2-tit10-chap4-lvlB-lvlu1-6]: Inserted by No II 1 of the FA of 20 Dec. 2019 on Improving the Compatibility of Employment and Caring for Family Members, in force since 1 Jan. 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 [^part2-tit10-chap4-lvlB-lvlu1-7]: Inserted by No II 1 of the FA of 20 Dec. 2019 on Improving the Compatibility of Work and Caring for Family Members, in force since 1 July 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
-[^part2-tit10-chap4-lvlB-lvlu1-8]: Amended by Annex No 2 to the FA of 17 Dec. 1993 on the Vesting of Occupational Old Age, Survivors' and Invalidity Benefits, in force since 1 Jan. 1995 ([AS 1994 2386](https://fedlex.data.admin.ch/eli/oc/1994/2386_2386_2386); [BBl 1992 III 533](https://fedlex.data.admin.ch/eli/fga/1992/3_533_529_477)).
-[^part2-tit10-chap4-lvlB-lvlu1-9]: Repealed by Annex No 2 to the FA of 17 Dec. 1993 on the Vesting of Occupational Old Age, Survivors' and Invalidity Benefits, with effect from 1 Jan. 1995 ([AS 1994 2386](https://fedlex.data.admin.ch/eli/oc/1994/2386_2386_2386); [BBl 1992 III 533](https://fedlex.data.admin.ch/eli/fga/1992/3_533_529_477)).
-[^part2-tit10-chap4-lvlB-lvlu1-10]: Inserted by No II 1 of the FA of 20 Dec. 2019 on Improving the Compatibility of Employment and Caring for Family Members, in force since 1 Jan. 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
-[^part2-tit10-chap4-lvlB-lvlu1-11]: Inserted by the Annex to the FA of 21 June 2013, in force since 1 Jan. 2014 ([AS 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [BBl 2010 6455](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
+[^part2-tit10-chap4-lvlB-lvlu1-8]: Inserted by Annex No 1 of the FA of 1 Oct. 2021, in force since 1 Jan. 2023 ([AS 2022 468](https://fedlex.data.admin.ch/eli/oc/2022/468); [BBl 2019 7095](https://fedlex.data.admin.ch/eli/fga/2019/2553), [7303](https://fedlex.data.admin.ch/eli/fga/2019/2640)).
+[^part2-tit10-chap4-lvlB-lvlu1-9]: Amended by Annex No 2 to the FA of 17 Dec. 1993 on the Vesting of Occupational Old Age, Survivors' and Invalidity Benefits, in force since 1 Jan. 1995 ([AS 1994 2386](https://fedlex.data.admin.ch/eli/oc/1994/2386_2386_2386); [BBl 1992 III 533](https://fedlex.data.admin.ch/eli/fga/1992/3_533_529_477)).
+[^part2-tit10-chap4-lvlB-lvlu1-10]: Repealed by Annex No 2 to the FA of 17 Dec. 1993 on the Vesting of Occupational Old Age, Survivors' and Invalidity Benefits, with effect from 1 Jan. 1995 ([AS 1994 2386](https://fedlex.data.admin.ch/eli/oc/1994/2386_2386_2386); [BBl 1992 III 533](https://fedlex.data.admin.ch/eli/fga/1992/3_533_529_477)).
+[^part2-tit10-chap4-lvlB-lvlu1-11]: Inserted by No II 1 of the FA of 20 Dec. 2019 on Improving the Compatibility of Employment and Caring for Family Members, in force since 1 Jan. 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 [^part2-tit10-chap4-lvlB-lvlu1-12]: Inserted by the Annex to the FA of 21 June 2013, in force since 1 Jan. 2014 ([AS 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [BBl 2010 6455](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
-[^part2-tit10-chap4-lvlB-lvlu1-13]: Now: the employer.
-[^part2-tit10-chap4-lvlB-lvlu1-14]: Amended by No I of the FA of 18 March 1988, in force since 1 Jan. 1989 ([AS 1988 1472](https://fedlex.data.admin.ch/eli/oc/1988/1472_1472_1472); [BBl 1984 II 551](https://fedlex.data.admin.ch/eli/fga/1984/2_551_574_494)).
+[^part2-tit10-chap4-lvlB-lvlu1-13]: Inserted by the Annex to the FA of 21 June 2013, in force since 1 Jan. 2014 ([AS 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [BBl 2010 6455](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
+[^part2-tit10-chap4-lvlB-lvlu1-14]: Now: the employer.
+[^part2-tit10-chap4-lvlB-lvlu1-15]: Amended by No I of the FA of 18 March 1988, in force since 1 Jan. 1989 ([AS 1988 1472](https://fedlex.data.admin.ch/eli/oc/1988/1472_1472_1472); [BBl 1984 II 551](https://fedlex.data.admin.ch/eli/fga/1984/2_551_574_494)).
 
-### Title Eleven: The Contract for Work and Services
+### Title Eleven: The Work Contract
 
 ### A. Definition
 
 #### Art. 363
 
-A contract for work and services is a contract whereby the contractor undertakes to carry out work and the customer undertakes to pay him for that work.
+A work contract is a contract whereby the contractor undertakes to produce a piece of work and the customer undertakes to pay the contractor for that work.
 
 ### B. Effects
 
@@ -5961,7 +5983,7 @@ A contract for work and services is a contract whereby the contractor undertakes
 
 <sup>2</sup> The contractor is obliged to carry out the work in person or to have it carried out under his personal supervision, unless the nature of the work is such that his personal involvement is not required.
 
-<sup>3</sup> Unless otherwise required by agreement or custom, the contractor is obliged to supply the resources, tools and machinery necessary for performance of the work at his own expense.
+<sup>3</sup> Unless otherwise required by agreement or custom, the contractor is obliged to supply the resources, tools and machinery necessary for producing the work at his own expense.
 
 [^364-1]: Amended by No II Art. 1 No 6 of the FA of 25 June 1971, in force since 1 Jan. 1972 ([AS 1971 1465](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461); [BBl 1967 II 241](https://fedlex.data.admin.ch/eli/fga/1967/2_241_249_177)). See also the Final and Transitional Provisions of Title X, at the end of this Code.
 
@@ -5973,15 +5995,15 @@ A contract for work and services is a contract whereby the contractor undertakes
 
 <sup>2</sup> Where materials are supplied by the customer, the contractor must treat them with all due care, give account of how they are used and return any that remain unused to the customer.
 
-<sup>3</sup> Where in the course of his work the contractor notes defects in the materials supplied or the designated construction site or any other circumstance arises which might compromise the correct or timely performance of the work, he must inform the customer immediately, failing which he himself will be liable for any adverse consequences.
+<sup>3</sup> If, when producing the work, the contractor notes defects in the materials supplied or in the designated construction site or if any other circumstance arises which might compromise the correct or timely production of the work, he must inform the customer immediately, failing which he shall himself be liable for any adverse consequences.
 
-### 3. Prompt commencement and contractual performance of work
+### 3. Prompt commencement and contractual production of the work
 
 #### Art. 366
 
-<sup>1</sup> Where the contractor fails to commence the work on time or delays its performance in breach of contract or, through no fault of the customer, falls so far behind that there is no longer any prospect of completing the work on time, the customer is entitled to withdraw from the contract without waiting for the agreed delivery date.
+<sup>1</sup> Where the contractor does not begin the work on time or delays its production in breach of contract or, through no fault of the customer, falls so far behind that there is no longer any prospect of completing the work on time, the customer is entitled to withdraw from the contract without waiting for the agreed delivery date.
 
-<sup>2</sup> Where during the course of the work it becomes evident that, through the fault of the contractor, the work will be performed in a manner that is defective or otherwise contrary to the agreement, the customer may set or have the court set the contractor an appropriate time limit within which to take remedial action and notify him that any failure to do so will result in the hire of a third party to take such remedial action or to complete the work at the risk and expense of the contractor.
+<sup>2</sup> Where during the production of the work it becomes evident that, through the fault of the contractor, the work will be produced in a manner that is defective or otherwise contrary to the contract, the customer may set the contractor or have the contractor set an appropriate time limit within which to take remedial action and notify him that any failure to do so will result in the hire of a third party to take such remedial action or to complete the work at the risk and expense of the contractor.
 
 ### 4. Liability for defects
 
@@ -5997,17 +6019,17 @@ A contract for work and services is a contract whereby the contractor undertakes
 
 #### Art. 368
 
-<sup>1</sup> Where the work is so defective or deviates from the contractual terms to such an extent that the customer has no use for it or cannot equitably be expected to accept it, the customer may refuse acceptance and, if the contractor is at fault, seek damages.
+<sup>1</sup> Where the work is so defective or deviates from the contractual terms to such an extent that the customer has no use for it or cannot reasonably be expected to accept it, the customer may refuse acceptance and, if the contractor is at fault, seek damages.
 
 <sup>2</sup> In the case of minor defects in the work or only slight deviations from the contractual terms, the customer may reduce the price in proportion to the decrease in its value or require the contractor to rectify the work at his own expense and to pay damages if he was at fault, provided such rectification is possible without excessive cost to the contractor.
 
-<sup>3</sup> In the case of work carried out on the customer’s land or property which by its nature cannot be removed without disproportionate detriment to the contractor, the customer has only the rights stipulated in paragraph 2.
+<sup>3</sup> In the case of works produced on the customer’s land or property which by their nature cannot be removed without disproportionate detriment, the customer has only the rights stipulated in paragraph 2.
 
 ### c. Customer’s liability
 
 #### Art. 369
 
-The rights accruing to the customer in respect of defects in the work are forfeited if he is at fault for such defects due to having given instructions concerning performance of the work that were contrary to the express warnings of the contractor or for any other reason.
+The rights accruing to the customer in respect of defects in the work are forfeited if he is at fault for such defects due to having given instructions concerning production of the work that were contrary to the express warnings of the contractor or for any other reason.
 
 ### d. Approval of the work
 
@@ -6017,7 +6039,7 @@ The rights accruing to the customer in respect of defects in the work are forfei
 
 <sup>2</sup> Tacit approval is presumed where the customer omits to inspect the work and give notice of defects as provided by law.
 
-<sup>3</sup> Where defects come to light only subsequently, the customer must notify the contractor as soon as he becomes aware of them, failing which the work is deemed to have been approved even in respect of such defects.
+<sup>3</sup> Where defects come to light only subsequently, the customer must notify the contractor as soon as he becomes aware of them, otherwise the work is deemed to have been approved even in respect of such defects.
 
 ### e. Prescription
 
@@ -6025,9 +6047,9 @@ The rights accruing to the customer in respect of defects in the work are forfei
 
 [^371-1]
 
-<sup>1</sup> The right of the customer to bring claims due to defects in the work prescribe two years from acceptance of the work. However, the prescriptive period amounts to five years where defects in a movable object that has been incorporated in an immovable work in a manner consistent with its nature and purpose have caused the work to be defective.
+<sup>1</sup> The right of the customer to bring claims due to defects in the work prescribes two years from acceptance of the work. However, the prescriptive period amounts to five years where defects in a movable object that has been incorporated in an immovable work in a manner consistent with its nature and purpose have caused the work to be defective.
 
-<sup>2</sup> The customer’s claims in respect of defects in an immovable work against both the contractor and any architect or engineer who rendered services in connection with such work prescribe five years after completion of the work.
+<sup>2</sup> The customer’s claims in respect of defects in an immovable work against both the contractor and any architect or engineer who provided services in connection with such work prescribe five years after completion of the work.
 
 <sup>3</sup> Otherwise the rules governing prescription of the corresponding rights of a buyer apply *mutatis mutandis*.
 
@@ -6049,9 +6071,9 @@ The rights accruing to the customer in respect of defects in the work are forfei
 
 #### Art. 373
 
-<sup>1</sup> Where the payment was fixed in advance as an exact amount, the contractor is obliged to perform the work for the agreed amount and may not charge more even if the work entailed more labour or greater expense than predicted.
+<sup>1</sup> Where the payment was fixed in advance as an exact amount, the contractor is obliged to produce the work for the agreed amount and may not charge more even if the work entailed more labour or greater expense than predicted.
 
-<sup>2</sup> However, where performance of the work was prevented or seriously hindered by extraordinary circumstances that were unforeseeable or excluded according to the conditions assumed by both parties, the court may at its discretion authorise an increase in the price or the termination of the contract.
+<sup>2</sup> However, where production of the work was prevented or seriously hindered by extraordinary circumstances that were unforeseeable or excluded according to the conditions assumed by both parties, the court may at its discretion authorise an increase in the price or the termination of the contract.
 
 <sup>3</sup> The customer must pay the full price even where the work has entailed less labour than predicted.
 
@@ -6059,7 +6081,7 @@ The rights accruing to the customer in respect of defects in the work are forfei
 
 #### Art. 374
 
-Where the price was not fixed in advance or fixed only as an approximate amount, it is determined according to the value of the work carried out and the expenses incurred by the contractor.
+Where the price was not fixed in advance or fixed only as an approximate amount, it is determined according to the value of the work produced and the expenses incurred by the contractor.
 
 ### C. Termination
 
@@ -6075,11 +6097,11 @@ Where the price was not fixed in advance or fixed only as an approximate amount,
 
 #### Art. 376
 
-<sup>1</sup> If by accident the work is destroyed prior to completion or delivery, the contractor is not entitled to payment for work done or of expenses incurred unless the customer is in default on acceptance of the work.
+<sup>1</sup> If the work is destroyed by accident prior to completion or delivery, the contractor is not entitled to payment for work done or of expenses incurred unless the customer is in default on acceptance of the work.
 
 <sup>2</sup> In this case any loss of materials is borne by the party that supplied them.
 
-<sup>3</sup> Where the work has been destroyed either due to a defect in the materials supplied or the construction site designated by the customer or as a result of the method of performance prescribed by him, the contractor is entitled to payment for the work already done and of expenses incurred that were not included in the price, provided he alerted the customer to the risks in good time, and also to damages if the customer was at fault.
+<sup>3</sup> Where the work has been destroyed either due to a defect in the materials supplied or in the construction site designated by the customer or as a result of the method of production that he prescribed, the contractor shall be entitled to payment for the work already done and of expenses incurred that were not included in the price, provided he alerted the customer to the risks in good time, and also to damages if the customer was at fault.
 
 ### III. Withdrawal by the customer against indemnity
 
@@ -6099,7 +6121,7 @@ The customer may withdraw from the contract at any time before the work is compl
 
 #### Art. 379
 
-<sup>1</sup> Where the contractor dies or becomes incapable of finishing the work through no fault of his own, the contract for work and services lapses if it was concluded with a view to the personal attributes of the contractor.
+<sup>1</sup> Where the contractor dies or becomes incapable of finishing the work through no fault of his own, the work contract becomes void if it was concluded in view of the personal attributes of the contractor.
 
 <sup>2</sup> The customer is obliged to accept and pay for work already done to the extent it is of use to him.
 
@@ -6139,7 +6161,7 @@ A publishing contract is a contract whereby the originator – the author of a l
 
 <sup>1</sup> Where no clause was agreed that stipulates the number of editions, the publisher is entitled to produce only one.
 
-<sup>2</sup> Where nothing was agreed, the publisher determines the size of the edition but at the originator’s request must print at least enough to generate reasonable sales, and once the first print run is completed he must not print any further copies.
+<sup>2</sup> Where nothing was agreed, the publisher determines the size of the edition but at the originator’s request must print at least enough to generate reasonable sales, and once the first print run is completed, he must not print any further copies.
 
 <sup>3</sup> Where the publishing contract confers publishing rights for several or all editions of a work and the publisher fails to produce a new edition after the previous edition is exhausted, the originator may have the court set a time limit for the publication of a new edition, failing which the publisher forfeits such rights.
 
@@ -6233,49 +6255,49 @@ Unless otherwise agreed with the publisher, the originator retains the exclusive
 
 <sup>2</sup> The publisher owns the copyright to the work as a whole.
 
-### Title Thirteen: The Agency Contract
+### Title Thirteen: The Mandate
 
-### Section One: The Simple Agency Contract
+### Section One: The Simple Mandate
 
 ### A. Definition
 
 #### Art. 394
 
-<sup>1</sup> An agency contract is a contract whereby the agent undertakes to conduct certain business or provide certain services in accordance with the terms of the contract.
+<sup>1</sup> A mandate is a contract whereby the mandatee undertakes to conduct certain business or provide certain services in accordance with the terms of the contract.
 
-<sup>2</sup> Contracts for the provision of work or services not covered by any other specific type of contract are subject to the provisions governing agency.
+<sup>2</sup> Contracts for the provision of work or services not covered by any other specific type of contract are subject to the provisions governing mandates.
 
 <sup>3</sup> Remuneration is payable where agreed or customary.
 
-### B. Conclusion of the contract
+### B. Creation
 
 #### Art. 395
 
-An agency contract is deemed to have been accepted where it has not been declined immediately and relates to business which is conducted by the agent by official appointment or on a professional basis or for which he has publicly offered his services.
+A mandate is deemed to have been accepted where it has not been declined immediately and relates to business which is conducted by the mandatee by official appointment or on a professional basis or for which he has publicly offered his services.
 
 ### C. Effects
 
-### I. Scope of agency
+### I. Scope of the mandate
 
 #### Art. 396
 
-<sup>1</sup> Unless expressly defined by the contract, the scope of the agency is determined by the nature of the business to which it relates.
+<sup>1</sup> Unless expressly defined, the scope of the mandate is determined by the nature of the business to which it relates.
 
-<sup>2</sup> In particular, it includes the authority to carry out such transactions as are required for performance of the contract.
+<sup>2</sup> In particular, it includes the authority to carry out such transactions as are required for performance of the mandate.
 
-<sup>3</sup> The agent requires special authority to agree a settlement, accept an arbitration award, contract bill liabilities, alienate or encumber land or make gifts.[^396-1]
+<sup>3</sup> The mandatee requires special authority to agree a settlement, accept an arbitration award, accept liabilities under a bill of exchange, alienate or encumber land or make gifts.[^396-1]
 
 [^396-1]: Amended by Annex 1 No II 5 of the Civil Procedure Code of 19 Dec. 2008, in force since 1 Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
-### II. Obligations of the agent
+### II. Obligations of the mandatee
 
 ### 1. Compliance with instructions
 
 #### Art. 397
 
-<sup>1</sup> An agent who has received instructions from the principal on how to conduct the business entrusted to him may deviate from them only to the extent that circumstances prevent him from obtaining the principal’s permission and that he may safely assume such permission would have been forthcoming had the principal been aware of the situation.
+<sup>1</sup> A mandatee who has received instructions from the mandator on how to conduct the business entrusted to him may deviate from them only to the extent that circumstances prevent him from obtaining the mandator’s permission and that he may safely assume such permission would have been forthcoming had the mandator been aware of the situation.
 
-<sup>2</sup> Where such conditions are not satisfied and the agent nevertheless deviates from the principal’s instructions to the latter’s detriment, the agency contract is deemed to have been performed only if the agent accepts liability for the resultant damage.
+<sup>2</sup> Where such conditions are not satisfied and the mandatee nevertheless deviates from the mandator’s instructions to the latter’s detriment, the mandate is deemed to have been performed only if the mandatee accepts liability for the resultant damage.
 
 ### 1<sup>bis</sup>. Duty to notify
 
@@ -6283,7 +6305,7 @@ An agency contract is deemed to have been accepted where it has not been decline
 
 [^397a-1]
 
-If it is anticipated that the principal will become permanently incapable of judgement, the agent must notify the adult protection authority at the principal's domicile if such notification appears appropriate in order to safeguard the interests concerned.
+If it is anticipated that the mandator will become permanently incapable of judgement, the mandatee must notify the adult protection authority at the mandator's domicile if such notification appears appropriate in order to safeguard the interests concerned.
 
 [^397a-1]: Inserted by Annex No 10 of the FA of 19 Dec. 2008 (Adult Protection, Law of Persons and Law of Children), in force since 1 Jan. 2013 ([AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [BBl 2006 7001](https://fedlex.data.admin.ch/eli/fga/2006/899)).
 
@@ -6293,9 +6315,9 @@ If it is anticipated that the principal will become permanently incapable of jud
 
 #### Art. 398
 
-<sup>1</sup> The agent generally has the same duty of care as the employee in an employment relationship.[^398-1]
+<sup>1</sup> The mandatee generally has the same duty of care as the employee in an employment relationship.[^398-1]
 
-<sup>2</sup> The agent is liable to the principal for the diligent and faithful performance of the business entrusted to him.
+<sup>2</sup> The mandatee is liable to the mandator for the diligent and faithful performance of the business entrusted to him.
 
 <sup>3</sup> He must conduct such business in person unless authorised or compelled by circumstance to delegate it to a third party or where such delegation is deemed admissible by custom.
 
@@ -6305,45 +6327,45 @@ If it is anticipated that the principal will become permanently incapable of jud
 
 #### Art. 399
 
-<sup>1</sup> An agent who has delegated the business entrusted to him to a third party without authority is liable for the latter’s actions as if they were his own.
+<sup>1</sup> A mandatee who has delegated the business entrusted to him to a third party without authority is liable for the latter’s actions as if they were his own.
 
 <sup>2</sup> Where such delegation was authorised, he is liable only for any failure to act with due diligence when selecting and instructing the third party.
 
-<sup>3</sup> In both cases, claims held by the agent against the third party may be enforced by the principal directly against the third party.
+<sup>3</sup> In both cases, claims held by the mandatee against the third party may be enforced by the mandator directly against the third party.
 
 ### 3. Account of agency
 
 #### Art. 400
 
-<sup>1</sup> The agent is obliged at the principal’s request, which may be made at any time, to give an account of his agency activities and to return anything received for whatever reason as a result of such activities.
+<sup>1</sup> The mandatee is obliged at the mandator’s request, which may be made at any time, to give an account of his activities under the mandate and to return anything received for whatever reason as a result of such activities.
 
-<sup>2</sup> He must pay interest on any sums which he is late in forwarding to the principal.
+<sup>2</sup> He must pay interest on any sums which he is late in forwarding to the mandator.
 
 ### 4. Transfer of acquired rights
 
 #### Art. 401
 
-<sup>1</sup> Where the agent acting on the principal’s behalf acquires claims in his own name against third parties, such claims pass to the principal provided he has fulfilled all his obligations towards the agent under the agency relationship.
+<sup>1</sup> Where the mandatee acting on the mandator’s behalf acquires claims in his own name against third parties, such claims pass to the mandator provided he has fulfilled all his obligations towards the mandatee under the mandate relationship.
 
-<sup>2</sup> The same applies in relation to the agent’s assets if the agent is bankrupt.
+<sup>2</sup> The same applies in relation to the mandatee’s assets if the mandatee is bankrupt.
 
-<sup>3</sup> Similarly, where the agent is bankrupt, the principal may claim chattels of which the agent took possession in his own name but on the principal’s behalf, subject to the agent’s own rights of lien.
+<sup>3</sup> Similarly, where the mandatee is bankrupt, the mandator may claim chattels of which the mandatee took possession in his own name but on the mandator’s behalf, subject to the mandatee’s own rights of lien.
 
-### III. Obligations of the principal
+### III. Obligations of the mandator
 
 #### Art. 402
 
-<sup>1</sup> The principal is obliged to reimburse the agent for expenses incurred in the proper performance of the agency contract plus interest and to release him from obligations entered into.
+<sup>1</sup> The mandator is obliged to reimburse the mandatee for expenses incurred in the proper performance of the mandate plus interest and to release him from obligations entered into.
 
-<sup>2</sup> The principal must also compensate the agent for any damage incurred in performance of the agency contract unless the principal can prove that the damage occurred through no fault of his own.
+<sup>2</sup> The mandator must also compensate the mandatee for any damage incurred in performance of the mandate unless the mandator can prove that the damage occurred through no fault of his own.
 
-### IV. Liability of joint principals and agents
+### IV. Liability of joint mandators and mandatees
 
 #### Art. 403
 
-<sup>1</sup> Where several persons conclude an agency contract as principals, they are jointly and severally liable to the agent.
+<sup>1</sup> Where several persons conclude a mandate as mandators, they are jointly and severally liable to the mandatee.
 
-<sup>2</sup> Where several persons conclude an agency contract as agents, they are jointly and severally liable to the principal and, save to the extent they are authorised to delegate to third parties, may commit the principal only through joint action.
+<sup>2</sup> Where several persons conclude a mandate as mandatees, they are jointly and severally liable to the mandator and, save to the extent they are authorised to delegate to third parties, may commit the mandator only through joint action.
 
 ### D. Termination
 
@@ -6353,7 +6375,7 @@ If it is anticipated that the principal will become permanently incapable of jud
 
 #### Art. 404
 
-<sup>1</sup> The agency contract may be revoked or terminated at any time by either party.
+<sup>1</sup> The mandate may be revoked or terminated at any time by either party.
 
 <sup>2</sup> However, a party doing so at an inopportune juncture must compensate the other for any resultant damage.
 
@@ -6361,9 +6383,9 @@ If it is anticipated that the principal will become permanently incapable of jud
 
 #### Art. 405
 
-<sup>1</sup> Unless otherwise agreed or implied by the nature of the agency business, the agency contract ends on loss of capacity to act, bankruptcy, death or declaration of presumed death of the principal or the agent.[^405-1]
+<sup>1</sup> Unless otherwise agreed or implied by the nature of the business, the mandate ends on loss of capacity to act, bankruptcy, death or declaration of presumed death of the mandator or the mandatee.[^405-1]
 
-<sup>2</sup> However, where termination of the agency contract jeopardises the principal’s interests, the agent, his heir or his representative is obliged to continue conducting the agency business until such time as the principal, his heir or his representative is able to conduct it himself.
+<sup>2</sup> However, where termination of the mandate jeopardises the mandator’s interests, the mandatee, his heir or his representative is obliged to continue conducting the business until such time as the mandator, his heir or his representative is able to conduct it himself.
 
 [^405-1]: Amended by Annex No 10 of the FA of 19 Dec. 2008 (Adult Protection, Law of Persons and Law of Children), in force since 1 Jan. 2013 ([AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [BBl 2006 7001](https://fedlex.data.admin.ch/eli/fga/2006/899)).
 
@@ -6371,9 +6393,9 @@ If it is anticipated that the principal will become permanently incapable of jud
 
 #### Art. 406
 
-Actions taken by the agent before he became aware of the termination of the agency contract are binding on the principal or his heir as if the contract had still been in force.
+Actions taken by the mandatee before he became aware of the termination of the mandate are binding on the mandator or his heir as if the contract had still been in force.
 
-### <sup>Section One</sup><sup><sup>bis</sup></sup> <sup>:</sup>**** The Marriage or Partnership Brokerage Contract
+### <sup>Section One</sup><sup><sup>bis</sup></sup> <sup>:</sup> The Marriage or Partnership Brokerage Mandate
 
 [^part2-tit13-chap1bis-1]
 
@@ -6383,9 +6405,9 @@ Actions taken by the agent before he became aware of the termination of the agen
 
 #### Art. 406a
 
-<sup>1</sup> A person assuming the role of agent under a marriage or partnership brokerage contract undertakes, in exchange for remuneration, to introduce the principal to persons who are potential spouses or long-term partners.
+<sup>1</sup> A person accepting a mandate to broker a marriage or partnership undertakes, in exchange for remuneration, to introduce the mandator to persons who are potential spouses or long-term partners.
 
-<sup>2</sup> The provisions governing simple agency contracts are applicable by way of supplement to marriage or partnership brokerage contracts.
+<sup>2</sup> The provisions governing simple mandates are applicable by way of supplement to marriage or partnership brokerage mandates.
 
 ### B. Introduction of or to foreign nationals
 
@@ -6393,11 +6415,11 @@ Actions taken by the agent before he became aware of the termination of the agen
 
 #### Art. 406b
 
-<sup>1</sup> Where the person to be introduced travels from or to a foreign destination, the agent must reimburse the costs of the return journey if this takes place within six months of arrival.
+<sup>1</sup> Where the person to be introduced travels from or to a foreign destination, the mandatee must reimburse the costs of the return journey if this takes place within six months of arrival.
 
-<sup>2</sup> Where the local authority has borne such costs, it is subrogated to the claim held by the person introduced against the agent.
+<sup>2</sup> Where the local authority has borne such costs, it is subrogated to the claim held by the person introduced against the mandatee.
 
-<sup>3</sup> The agent may claim reimbursement of such travel costs from the principal only up to the maximum amount stipulated in the contract.
+<sup>3</sup> The mandatee may claim reimbursement of such travel costs from the mandator only up to the maximum amount stipulated in the contract.
 
 ### II. Duty to obtain a licence
 
@@ -6407,25 +6429,25 @@ Actions taken by the agent before he became aware of the termination of the agen
 
 <sup>2</sup>
 
-The Federal Council issues the implementing provisions and determines in particular:
+The Federal Council shall issue the implementing provisions and determine in particular:
 
-- a. licence requirements and durations;
-- b. the penalties imposed on the agent in the event of infringements;
-- c. the obligation of the agent to furnish security for the costs of repatriating persons introduced under the contract.
+- a. the requirements for and term of the licence;
+- b. the penalties imposed on the mandatee in the event of non-compliance;
+- c. the obligation of the mandatee to furnish security for the costs of repatriating persons introduced under the mandate.
 
-### C. Form and content of the contract
+### C. Form and content
 
 #### Art. 406d
 
 The contract must be done in writing and contain the following information:
 
 - 1\. the name and address of each party;
-- 2\. the number and nature of the services that the agent undertakes and the amount of the remuneration and costs, in particular registration fees, corresponding to each service;
-- 3\. the maximum amount owed to the agent by way of reimbursement for his defraying the costs of return journeys of persons travelling to or from foreign countries (Art. 406*b*);
+- 2\. the number and nature of the services that the mandatee undertakes to provide and the amount of the remuneration and costs, in particular registration fees, corresponding to each service;
+- 3\. the maximum amount owed to the mandatee by way of reimbursement for his defraying the costs of return journeys of persons travelling to or from foreign countries (Art. 406*b*);
 - 4\. the terms of payment;
-- 5\.[^406d-1] the right of the principal to give written notice of the revocation of his offer to enter into the contract or of his acceptance of the offer without compensation within 14 days;
-- 6\.[^406d-2] the stipulation that the agent is prohibited from accepting any payment before the 14-day period has expired;
-- 7\. the right of the principal to terminate the contract at any time, subject to any liability in damages arising from termination at an inopportune juncture.
+- 5\.[^406d-1] the right of the mandator to give written notice of the revocation of his offer to enter into the contract or of his acceptance of the offer without compensation within 14 days;
+- 6\.[^406d-2] the stipulation that the mandatee is prohibited from accepting any payment before the 14-day period has expired;
+- 7\. the right of the mandator to terminate the contract at any time, subject to any liability in damages arising from termination at an inopportune juncture.
 
 [^406d-1]: Amended by No I of the FA of 19 June 2015 (Revision of the right of revocation), in force since 1 Jan. 2016 ([AS 2015 4107](https://fedlex.data.admin.ch/eli/oc/2015/689); [BBl 2014 921](https://fedlex.data.admin.ch/eli/fga/2014/139)[2993](https://fedlex.data.admin.ch/eli/fga/2014/549)).
 [^406d-2]: Amended by No I of the FA of 19 June 2015 (Revision of the right of revocation), in force since 1 Jan. 2016 ([AS 2015 4107](https://fedlex.data.admin.ch/eli/oc/2015/689); [BBl 2014 921](https://fedlex.data.admin.ch/eli/fga/2014/139)[2993](https://fedlex.data.admin.ch/eli/fga/2014/549)).
@@ -6436,9 +6458,9 @@ The contract must be done in writing and contain the following information:
 
 [^406e-1]
 
-<sup>1</sup> The contract does not become binding on the principal until 14 days after he receives a duplicate signed by both parties. The agent must not accept any payment from the principal before the 14-day period has expired.
+<sup>1</sup> The contract does not become binding on the mandator until 14 days after he receives a duplicate signed by both parties. The mandatee must not accept any payment from the mandator before the 14-day period has expired.
 
-<sup>2</sup> During the period under paragraph 1, the principal may give written notice of the revocation of his offer to enter into the contract or of his acceptance of the offer. Any advance waiver of this right is invalid. In addition, the provisions on the consequences of revocation (Art. 40*f*) apply *mutatis mutandis*.
+<sup>2</sup> During the period under paragraph 1, the mandator may give written notice of the revocation of his offer to enter into the contract or of his acceptance of the offer. Any advance waiver of this right is invalid. In addition, the provisions on the consequences of revocation (Art. 40*f*) apply *mutatis mutandis*.
 
 <sup>3</sup> Notice of termination must be done in writing.
 
@@ -6456,9 +6478,9 @@ The contract must be done in writing and contain the following information:
 
 #### Art. 406g
 
-<sup>1</sup> Before the contract is signed and throughout its duration, the agent must inform the principal of any particular difficulties pertaining to the latter’s personal circumstances that might arise in the performance of the obligations thereunder.
+<sup>1</sup> Before the contract is signed and throughout its duration, the mandatee must inform the mandator of any particular difficulties pertaining to the latter’s personal circumstances that might arise in the performance of the obligations thereunder.
 
-<sup>2</sup> When processing the principal’s personal data, the agent is bound by a duty of discretion; the provisions of the Federal Act of 19 June 1992[^406g-1] on Data Protection are reserved.
+<sup>2</sup> When processing the mandator’s personal data, the mandatee is bound by a duty of discretion; the provisions of the Federal Act of 19 June 1992[^406g-1] on Data Protection apply.
 
 [^406g-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
 
@@ -6466,7 +6488,7 @@ The contract must be done in writing and contain the following information:
 
 #### Art. 406h
 
-Where excessive remuneration or expenses have been agreed, the principal may apply to the court to reduce these to an appropriate amount.
+Where excessive remuneration or expenses have been agreed, the mandator may apply to the court to reduce these to an appropriate amount.
 
 ### Section Two: The Letter of Credit and the Loan Authorisation
 
@@ -6474,7 +6496,7 @@ Where excessive remuneration or expenses have been agreed, the principal may app
 
 #### Art. 407
 
-<sup>1</sup> The provisions governing agency and payment instructions are applicable to letters of credit in which the principal instructs the addressee to pay a specified person the sums requested by the latter, whether or not a maximum amount is stipulated.
+<sup>1</sup> The provisions governing mandates and payment instructions are applicable to letters of credit in which the principal instructs the addressee to pay a specified person the sums requested by the latter, whether or not a maximum amount is stipulated.
 
 <sup>2</sup> Where the letter of credit does not stipulate a maximum amount and obviously disproportionate amounts are requested, the addressee must notify the principal and withhold payment pending further instructions.
 
@@ -6486,27 +6508,27 @@ Where excessive remuneration or expenses have been agreed, the principal may app
 
 #### Art. 408
 
-<sup>1</sup> Where a person has received and accepted an order to act as an agent in granting or renewing a loan to a third party in his own name and for his own account but on the authorisation of the principal, the principal is liable for the payee’s obligation in the same manner as a surety, provided that the agent has not exceeded his authority.
+<sup>1</sup> Where a person has received and accepted a mandate to grant or renew a loan to a third party in his own name and for his own account but on the authorisation of the mandator, the mandator is liable for the payee’s obligation in the same manner as a surety, provided that the mandatee has not exceeded his authority.
 
-<sup>2</sup> The principal incurs such liability only where the authorisation was given in writing.
+<sup>2</sup> The mandator incurs such liability only where the authorisation was given in writing.
 
 ### II. Incapacity of payee to enter into a contract
 
 #### Art. 409
 
-The principal may not plead as defence against the agent the fact that the payee did not have personal capacity to enter into the contract.
+The mandator may not plead as defence against the mandatee the fact that the payee did not have personal capacity to enter into the contract.
 
 ### III. Payment extension granted on own authority
 
 #### Art. 410
 
-The principal ceases to be liable for the obligation where the agent has on his own authority granted the payee an extension of the term of payment or has neglected to proceed against him as instructed by the principal.
+The mandator ceases to be liable for the obligation where the mandatee has on his own authority granted the payee an extension of the term of payment or has neglected to proceed against him as instructed by the mandator.
 
 ### IV. Borrower and principal
 
 #### Art. 411
 
-The legal relationship between the principal and the third party granted a loan is subject to the provisions governing the legal relationship between the surety and the principal debtor.
+The legal relationship between the mandator and the third party granted a loan is subject to the provisions governing the legal relationship between the surety and the principal debtor.
 
 ### Section Three: The Brokerage Contract
 
@@ -6514,9 +6536,9 @@ The legal relationship between the principal and the third party granted a loan 
 
 #### Art. 412
 
-<sup>1</sup> A brokerage contract is a contract whereby the broker is instructed to alert the principal to an opportunity to conclude a contract or to facilitate the conclusion of a contract in exchange for a fee.
+<sup>1</sup> A brokerage contract is a contract whereby the broker is given the mandate to arrange an opportunity to conclude a contract or to facilitate the conclusion of a contract in exchange for a fee.
 
-<sup>2</sup> The brokerage contract is generally subject to the provisions governing simple agency contracts.
+<sup>2</sup> The brokerage contract is generally subject to the provisions governing simple mandates.
 
 ### B. Broker’s fee
 
@@ -6528,7 +6550,7 @@ The legal relationship between the principal and the third party granted a loan 
 
 <sup>2</sup> Where the contract is concluded subject to a condition precedent, the fee becomes due only once such condition has been satisfied.
 
-<sup>3</sup> Where the principal has contractually undertaken to reimburse the broker’s expenses, the broker may request such reimbursement even if the transaction fails to materialise.
+<sup>3</sup> Where there is a contractual undertaking to reimburse the broker’s expenses, the broker may request such reimbursement even if the transaction fails to materialise.
 
 ### II. Fixing the fee
 
@@ -6556,7 +6578,7 @@ Where the broker acts in the interests of a third party in breach of the contrac
 
 [^417-1]
 
-Where an excessive fee has been agreed for identifying an opportunity to enter into or facilitating the conclusion of an individual employment contract or a purchase of land or buildings, on application by the debtor the court may reduce the fee to an appropriate amount.
+Where an excessive fee has been agreed for identifying an opportunity to conclude or for facilitating the conclusion of an individual employment contract or a purchase of immovable property, on application by the debtor the court may reduce the fee to an appropriate amount.
 
 [^417-1]: Amended by No II, Art. 1, No 8 of the FA of 25 June 1971, in force since 1 Jan. 1972 ([AS 1971 1465](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461); [BBl 1967 II 241](https://fedlex.data.admin.ch/eli/fga/1967/2_241_249_177)). See also the Final and Transitional Provisions of Title X, at the end of this Code.
 
@@ -6566,7 +6588,7 @@ Where an excessive fee has been agreed for identifying an opportunity to enter i
 
 The cantons reserve the right to enact special regulations governing stockbrokers, official brokers and employment agencies.
 
-### Section Four:**** The Commercial Agency Contract
+### Section Four: The Agency Contract
 
 [^part2-tit13-chap4-1]
 
@@ -6612,7 +6634,7 @@ The cantons reserve the right to enact special regulations governing stockbroker
 
 <sup>1</sup> The agent must not exploit or reveal the principal’s trade secrets with which he has been entrusted or of which he became aware by reason of the agency relationship even after the end of the commercial agency contract.
 
-<sup>2</sup> The provisions governing service contracts are applicable *mutatis mutandis* to a contractual prohibition of competition. Where such a prohibition has been agreed, on termination of the contract the agent has an inalienable entitlement to adequate special remuneration.
+<sup>2</sup> The provisions governing service contracts apply mutatis mutandis to a contractual prohibition of competition. Where such a prohibition has been agreed, on termination of the contract the agent has an inalienable entitlement to adequate special remuneration.
 
 ### C. Powers of representation
 
@@ -6736,7 +6758,7 @@ Unless otherwise provided by agreement or custom, the commission falls due at th
 
 <sup>1</sup> The principal and the agent may at any time terminate the contract with immediate effect for good cause.
 
-<sup>2</sup> The provisions governing service contracts are applicable *mutatis mutandis*.
+<sup>2</sup> The provisions governing service contracts apply *mutatis mutandis*.
 
 ### III. Death, incapacity, bankruptcy
 
@@ -6826,7 +6848,7 @@ Any person who conducts the business of another without authorisation is obliged
 
 #### Art. 424
 
-Where the agent’s actions are subsequently approved by the principal, the provisions governing agency become applicable.
+Where the agent’s actions are subsequently approved by the principal, the provisions governing mandates become applicable.
 
 ### Title Fifteen: The Commission Contract
 
@@ -6838,7 +6860,7 @@ Where the agent’s actions are subsequently approved by the principal, the prov
 
 <sup>1</sup> A buying or selling commission agent is a person who, in return for a commission, buys or sells chattels or securities in his own name but for the account of another (the principal).
 
-<sup>2</sup> The provisions governing agency apply to the commission agency relationship, unless otherwise provided in this Title.
+<sup>2</sup> The provisions governing mandates apply to the commission agency relationship, unless otherwise provided in this Title.
 
 ### II. Obligations of the commission agent
 
@@ -6856,7 +6878,7 @@ Where the agent’s actions are subsequently approved by the principal, the prov
 
 <sup>1</sup> Where the goods for sale on commission are evidently defective, the commission agent must safeguard the rights of recourse against the carrier, secure evidence of the defective condition of the goods, preserve the goods where possible and notify the principal immediately.
 
-<sup>2</sup> If the commission agent omits to discharge these obligations, he is liable for any damage caused by such omission.
+<sup>2</sup> If the commission agent omits to fulfil these obligations, he is liable for any damage caused by such omission.
 
 <sup>3</sup> Where there is a risk that the goods for sale on commission will rapidly deteriorate, the commission agent has the right and, should the interests of the principal so require, the obligation to arrange their sale with the assistance of the competent authority of the place where the goods are located.
 
@@ -6952,7 +6974,7 @@ Where the commission agent is permitted to act for his own account and he notifi
 
 #### Art. 438
 
-The commission agent is not permitted to act as buyer or seller if the principal has withdrawn his instruction and the notice of withdrawal reached the commission agent before he dispatched the notice of execution.
+The commission agent is not permitted to act as buyer or seller if the principal has withdrawn his mandate and the notice of withdrawal reached the commission agent before he dispatched the notice of execution.
 
 ### B. Forwarding contract
 
@@ -6968,7 +6990,7 @@ A forwarding agent or carrier who in return for payment undertakes to carry or f
 
 <sup>1</sup> A carrier is a person who undertakes to transport goods in return for payment (freight charge).
 
-<sup>2</sup> The provisions governing agency apply to contracts of carriage unless otherwise provided in this Title.
+<sup>2</sup> The provisions governing mandates apply to contracts of carriage unless otherwise provided in this Title.
 
 ### B. Effects
 
@@ -7199,7 +7221,7 @@ A forwarding agent who uses a state transport facility in order to perform oblig
 
 #### Art. 465
 
-<sup>1</sup> The registered power of attorney and authority to act as commercial agent may be revoked at any time without prejudice to rights accruing to the parties concerned under any existing individual contract of employment, partnership agreement, agency agreement or the like.[^465-1]
+<sup>1</sup> The registered power of attorney and authority to act as commercial agent may be revoked at any time without prejudice to rights accruing to the parties concerned under any existing individual contract of employment, partnership agreement, mandate or the like.[^465-1]
 
 <sup>2</sup> The death or incapacity of the owner of the business does not extinguish the registered power of attorney or authority to act as commercial agent.
 
@@ -7443,7 +7465,7 @@ Where two or more persons, with a view to protecting their rights, deposit an ob
 
 <sup>2</sup> The provisions governing the landlord’s or lessor’s right of lien apply *mutatis mutandis*.
 
-### Title Twenty:**** The Contract of Surety
+### Title Twenty: The Contract of Surety
 
 [^part2-tit20-1]
 
@@ -7654,7 +7676,7 @@ The surety may require that the principal debtor furnish security and demand his
 
 <sup>5</sup> The prescriptive period for the surety’s right of recourse commences on satisfaction of the creditor by the surety.
 
-<sup>6</sup> The surety has no right of recourse against the principal debtor for payment of any obligation that is not actionable or not binding on the principal debtor as a result of error or incapacity to make a contract. However, if he has assumed liability for a time-barred obligation at the behest of the principal debtor, the latter is liable to him pursuant to the provisions governing agency.
+<sup>6</sup> The surety has no right of recourse against the principal debtor for payment of any obligation that is not actionable or not binding on the principal debtor as a result of error or incapacity to make a contract. However, if he has assumed liability for a time-barred obligation at the behest of the principal debtor, the latter is liable to him pursuant to the provisions governing mandates.
 
 ### bb. Surety’s duty to notify
 
@@ -7982,7 +8004,7 @@ No partner may carry out transactions for his own benefit which thwart or obstru
 
 <sup>2</sup> He is liable to the other partners for any damage caused through his fault and may not set off against such damage the benefits obtained for the partnership in his other activities.
 
-<sup>3</sup> Managing partners who are remunerated for their management services are liable in accordance with the provisions governing agency.
+<sup>3</sup> Managing partners who are remunerated for their management services are liable in accordance with the provisions governing mandates.
 
 ### VI. Withdrawal and restriction of management authority
 
@@ -8000,7 +8022,7 @@ No partner may carry out transactions for his own benefit which thwart or obstru
 
 #### Art. 540
 
-<sup>1</sup> Unless this Title or the partnership agreement provides otherwise, the relationship between the managing partners and the other partners is subject to the provisions governing agency.
+<sup>1</sup> Unless this Title or the partnership agreement provides otherwise, the relationship between the managing partners and the other partners is subject to the provisions governing mandates.
 
 <sup>2</sup> Where a partner who lacks management authority conducts business on the partnership’s behalf or a managing partner exceeds his management authority, the provisions governing agency without authority apply.
 
@@ -8121,7 +8143,7 @@ The partnership is dissolved:
 
 The dissolution of the partnership does not affect obligations entered into with third parties.
 
-## Division Three: Commercial Enterprises and the Cooperative****
+## Division Three: Commercial Enterprises and the Cooperative
 
 [^part3-1]
 
@@ -8167,9 +8189,9 @@ The only details concerning arrangements for representation that are admissible 
 
 #### Art. 556
 
-<sup>1</sup> All applications to have facts entered or entries modified must be signed by all the partners in person at the commercial registry or submitted in writing bearing duly authenticated signatures.
+<sup>1</sup> All applications to have facts entered or entries modified must be signed by all the partners in person at the commercial register office or submitted in writing bearing duly authenticated signatures.
 
-<sup>2</sup> Partners who are to represent the partnership must enter the partnership’s business name and their own signature in person at the commercial registry or submit these in a duly authenticated form.
+<sup>2</sup> Partners who are to represent the partnership must enter the partnership’s business name and their own signature in person at the commercial register office or submit these in a duly authenticated form.
 
 ### Section Two: Relationship between Partners
 
@@ -8400,7 +8422,7 @@ The departure of a partner and the continuation of the partnership’s affairs b
 
 [^581a-1]
 
-In the case of defects in the required organisation of the general partnership the provision of company law apply accordingly.
+In the case of defects in the required organisation of the general partnership the provision of the law on companies limited by shares apply *mutatis mutandis*.
 
 [^581a-1]: Inserted by No I 2 of the FA of 17 March 2017 (Commercial Register Law), in force since 1 Jan. 2021 ([AS 2020 957](https://fedlex.data.admin.ch/eli/oc/2020/178); [BBl 2015 3617](https://fedlex.data.admin.ch/eli/fga/2015/956)).
 
@@ -8454,9 +8476,11 @@ The heirs of a partner must appoint a joint representative for the purpose of th
 
 #### Art. 587
 
-<sup>1</sup> The liquidators draw up a balance sheet at the beginning of the liquidation.
+<sup>1</sup> The liquidators shall draw up a balance sheet at the beginning of the liquidation.
 
-<sup>2</sup> Where the liquidation lasts for an extended period, interim balance sheets are drawn up every year.
+<sup>2</sup> Where the liquidation lasts for an extended period, interim accounts[^587-1] shall be drawn up every year.
+
+[^587-1]: Term in accordance with No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)). This amendment has been made in the provisions specified in the AS.
 
 ### II. Repayment of capital and distribution of surplus
 
@@ -8494,17 +8518,19 @@ On completion of the liquidation, the liquidators apply to have the partnership�
 
 ### B. Special cases
 
+### C. Interruption
+
 #### Art. 592
 
 <sup>1</sup> The five-year prescriptive period may not be invoked against a creditor seeking satisfaction solely from undivided partnership assets.
 
-<sup>2</sup> Where a partner takes over the partnership’s business with all its assets and liabilities, he may not invoke the five-year prescriptive period against its creditors. By contrast, for partners who have left the partnership, the five-year prescriptive period is replaced by the two-year prescriptive period in accordance with the principles governing assumption of debt; the same applies in the event that a third party takes over the partnership’s business with all its assets and liabilities.
+<sup>2</sup> Where a partner takes over the partnership’s business with all its assets and liabilities, he may not invoke the five-year prescriptive period against its creditors. By contrast, for partners who have left the partnership, the five-year prescriptive period is replaced by the three-year prescriptive period in accordance with the principles governing assumption of debt; the same applies in the event that a third party takes over the partnership’s business with all its assets and liabilities.[^592-1]
 
-### C. Interruption
-
-#### Art. 593
+**Art. 593**
 
 An interruption of the prescriptive period as against an ongoing partnership or another partner does not interrupt the prescriptive period as against a departing partner.
+
+[^592-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### Title Twenty-Five: The Limited Partnership
 
@@ -8549,9 +8575,9 @@ Where a limited partnership does not operate a commercial business, it does not 
 
 #### Art. 597
 
-<sup>1</sup> All applications to have facts entered or entries modified must be signed by all the partners in person at the commercial registry or submitted in writing bearing duly authenticated signatures.
+<sup>1</sup> All applications to have facts entered or entries modified must be signed by all the partners in person at the commercial register office or submitted in writing bearing duly authenticated signatures.
 
-<sup>2</sup> Partners with unlimited liability who are to represent the partnership must enter the partnership’s business name and their own signature in person at the commercial registry or submit these in a duly authenticated form.
+<sup>2</sup> Partners with unlimited liability who are to represent the partnership must enter the partnership’s business name and their own signature in person at the commercial register office or submit these in a duly authenticated form.
 
 ### Section Two: Relationship between Partners
 
@@ -8733,7 +8759,7 @@ In the event of the bankruptcy of a limited partner, neither the partnership’s
 
 [^619-1]: Second sentence amended by Annex No 10 of the FA of 19 Dec. 2008 (Adult Protection, Law of Persons and Law of Children), in force since 1 Jan. 2013 ([AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [BBl 2006 7001](https://fedlex.data.admin.ch/eli/fga/2006/899)).
 
-### Title Twenty-Six****: The Company Limited by Shares
+### Twenty-Sixth title: The Company Limited by Shares
 
 [^part3-tit26-1]
 
@@ -8745,23 +8771,29 @@ In the event of the bankruptcy of a limited partner, neither the partnership’s
 
 #### Art. 620
 
-<sup>1</sup> A company limited by shares is a company with its own business name whose pre-determined capital (share capital)[^620-1] is divided into specific amounts (shares) and whose liabilities are payable only from the company assets.
+[^620-1]
 
-<sup>2</sup> The shareholders are required only to fulfil the duties specified in the articles of association and are not personally liable for the company’s obligations.
+<sup>1</sup> The company limited by shares is a company in which one or more persons or commercial enterprises participate. It is liable for its obligations to the extent of the company’s assets.
 
-<sup>3</sup> A company limited by shares may also be established for a purpose that is non-commercial in character.
+<sup>2</sup> The shareholders are required only to fulfil the duties specified in the articles of association.
 
-[^620-1]: Term in accordance with No II 1 of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). This amendment has been taken into account throughout the Code.
+<sup>3</sup> A shareholder is any person who holds at least one share in the company.
 
-### B. Minimum share capital
+[^620-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### B. Share capital
 
 #### Art. 621
 
 [^621-1]
 
-The share capital must amount to at least 100,000 francs.
+<sup>1</sup> The share capital amounts to at least 100,000 francs.
 
-[^621-1]: Amended by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713))
+<sup>2</sup> A share capital in the foreign currency required for business operations is also permitted. At the time of foundation, this must have a value equivalent to at least 100,000 francs. If the share capital is in a foreign currency, the accounts must be kept and financial reports must be filed in the same currency. The Federal Council shall specify which currencies are permitted.
+
+<sup>3</sup> The general meeting may resolve to change the currency of the share capital at the start of any financial year. In such an event, the board of directors shall amend the articles of association. It shall establish that the requirements of paragraph 2 have been met, and specify the exchange rate applied. The resolutions of the general meeting and of the board of directors must be done as a public deed.
+
+[^621-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### C. Shares
 
@@ -8779,27 +8811,31 @@ The share capital must amount to at least 100,000 francs.
 
 <sup>2ter</sup> If all the equity securities are delisted, the company must within six months either convert the existing bearer shares into registered shares or organise them as intermediated securities.[^622-5]
 
-<sup>3</sup> The articles of association may provide that registered shares should or may subsequently be converted into bearer shares or vice versa.
+<sup>3</sup> Registered shares may be converted into bearer shares and bearer shares into registered shares.[^622-6]
 
-<sup>4</sup> The nominal value of a share must be at least 1 centime.[^622-6]
+<sup>4</sup> The shares shall have a nominal value that is greater than zero.[^622-7]
 
-<sup>5</sup> The share certificate must be signed by at least one member of the board of directors[^622-7]. The company may decide that even shares issued in large numbers must bear a handwritten signature.
+<sup>5</sup> If share certificates are issued, they must be signed by at least one member of the board of directors.[^622-8]
 
 [^622-1]: [SR 957.1](https://fedlex.data.admin.ch/eli/cc/2009/450)
-[^622-2]: Amended by No I 1 of the FA of 25 Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Feb. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
-[^622-3]: Inserted by No I 1 of the FA of 21 June 2019 on the Implementation of the Recommendations of the Global Forum on Transparency and the Exchange of Information for Tax Purposes ([AS 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [BBl 2019 279](https://fedlex.data.admin.ch/eli/fga/2019/18)). Amended by No I 1 of the FA of 25 Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Feb. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16))
+[^622-2]: Amended by No I 1 of the FA of 25. Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Feb. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^622-3]: Inserted by No I 1 of the FA of 21 June 2019 on the Implementation of the Recommendations of the Global Forum on Transparency and the Exchange of Information for Tax Purposes ([AS 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [BBl 2019 279](https://fedlex.data.admin.ch/eli/fga/2019/18)). Amended by No I 1 of the FA of 25 Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Feb. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 [^622-4]: Inserted by No I 1 of the FA of 21 June 2019 on the Implementation of the Recommendations of the Global Forum on Transparency and the Exchange of Information for Tax Purposes, in force since 1 Nov. 2019 ([AS 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [BBl 2019 279](https://fedlex.data.admin.ch/eli/fga/2019/18)).
 [^622-5]: Inserted by No I 1 of the FA of 21 June 2019 on the Implementation of the Recommendations of the Global Forum on Transparency and the Exchange of Information for Tax Purposes, in force since 1 Nov. 2019 ([AS 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [BBl 2019 279](https://fedlex.data.admin.ch/eli/fga/2019/18)).
-[^622-6]: Amended by No I of the FA of 15 Dec. 2000, in force since 1 May 2001 ([AS 2001 1047](https://fedlex.data.admin.ch/eli/oc/2001/153); [BBl 2000 4337](https://fedlex.data.admin.ch/eli/fga/2000/921)No 2.2.1 5501).
-[^622-7]: Term in accordance with No II 3 of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). This amendment has been taken into account throughout the Code.
+[^622-6]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^622-7]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^622-8]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### II. Splitting and consolidating shares
 
 #### Art. 623
 
-<sup>1</sup> By amending the articles of association, the general meeting may divide the shares into shares with a lower nominal value or consolidate them into shares with a higher nominal value, provided the share capital remains the same.
+<sup>1</sup> By amending the articles of association, the general meeting may divide the shares into shares with a lower nominal value or consolidate them into shares with a higher nominal value, provided the share capital[^623-1] remains the same.
 
-<sup>2</sup> The consolidation of shares requires the consent of the shareholder.
+<sup>2</sup> The consolidation of shares that are not listed on a stock exchange requires the consent of all the shareholders concerned.[^623-2]
+
+[^623-1]: Term in accordance with No II 1 of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). This amendment has been made throughout the Code.
+[^623-2]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### III. Issue price
 
@@ -8809,133 +8845,105 @@ The share capital must amount to at least 100,000 francs.
 
 <sup>2–3</sup> ...[^624-1]
 
-[^624-1]: Repealed by No I of the FA of 4 Oct. 1991, with effect from 1 Jan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-
-### D. Shareholders
+[^624-1]: Repealed by No I of the FA of 4 Oct. 1991, with effect from 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 
 #### Art. 625
 
 [^625-1]
 
-<sup>1</sup> A company limited by shares may be established by one or more natural persons or legal entities or other commercial enterprises.
+[^625-1]: Repealed by No I of the FA of 19 June 2020 (Company Law), with effect from 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-[^625-1]: Amended by No I 3 of the FA of 16 Dec. 2005 (Law on Limited Liability Companies and Amendments to the Law on Companies limited by Shares, Cooperatives, the Commercial Register and Business Names), in force since 1 Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+### D. Content of the articles of association prescribed by law
 
-### E. Articles of association
+[^part3-tit26-chap1-lvlD-1]
 
-### I. Content prescribed by law
+[^part3-tit26-chap1-lvlD-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 626
 
 [^626-1]
 
+<sup>1</sup>
+
 The articles of association must contain provisions concerning:
 
 - 1\. the business name and seat of the company;
+
 - 2\. the objects of the company;
-- 3\. the total share capital and the extent to which it is paid up;
+- 3\.[^626-2] the total share capital, its currency, and the extent to which it is paid up;
 - 4\. the number, nominal value and types of shares;
-- 5\. the procedure for convening general meetings and the voting rights of shareholders;
-- 6\. the governing bodies for management and auditing;
-- 7\. the form of the company’s external communications.
+- 5\. and 6.[^626-3] ...
+- 7\.[^626-4] the form of the company’s communications with its shareholders.
+
+<sup>2</sup>
+
+In a company whose shares are listed on a stock exchange, the articles of association must also contain provisions on:
+
+- 1\. the number of activities that the members of the board of directors, the executive board and the board of advisors may carry out in comparable positions in other undertakings with commercial objects;
+- 2\. the maximum term of the contracts that govern the remuneration of members of the board of directors, the executive board and the board of advisors, and the maximum notice of termination for unlimited contracts (Art. 735*b*);
+- 3\. the principles on the duties and responsibilities of the remuneration committee;
+- 4\. the details of the vote of the general meeting on the remuneration of the board of directors, the executive board and of the board of advisors.[^626-5]
+
+<sup>3</sup> Other undertakings in terms of paragraph 2 number 1 do not include undertakings that are controlled by the company or that control the company.[^626-6]
 
 [^626-1]: Amended by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^626-2]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^626-3]: Repealed by No I of the FA of 19 June 2020 (Company Law), with effect from 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^626-4]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^626-5]: Inserted by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^626-6]: Inserted by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-### II. Further provisions
+#### Art. 627 and 628
 
-### 1. In general
+[^627628-1]
 
-#### Art. 627
+[^627628-1]: Repealed by No I of the FA of 19 June 2020 (Company Law), with effect from 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-[^627-1]
-
-In order to be binding, provisions on the following matters must be included in the articles of association:
-
-- 1\. amendment of the articles of association, where different from the statutory provisions;
-- 2\. the payment of shares of profits paid to board members;
-- 3\. the interest paid to shareholders until commencement of the company’s operations;
-- 4\. limitation of the company’s duration;
-- 5\. contractual penalties for failure to pay up share capital on time;
-- 6\. capital increases from authorised capital and contingent capital increases;
-- 7\.[^627-2] ...
-- 8\. restrictions on the transferability of registered shares;
-- 9\. the preferential rights of individual share classes, participation certificates, dividend rights certificates and the granting of special privileges;
-- 10\. restrictions on the voting rights of shareholders and their rights to appoint representatives;
-- 11\. cases not envisaged in law in which the general meeting may make resolutions only by qualified majority;
-- 12\. authority to delegate management responsibilities to individual members of the board of directors or to third parties;
-- 13\. the organisation and duties of the external auditors, where these go beyond those prescribed by law;
-- 14\.[^627-3] the possibility of converting shares issued in a specific form into another form, together with an allocation of resultant costs, where this derogates from the regulations in the Uncertificated Securities Act of 3 October 2008[^627-4].
-
-[^627-1]: Amended by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-[^627-2]: Repealed by No I 2 of the FA of 12 Dec. 2014 on the Implementation of the revised recommendations 2012 of the Financial Action Task Force, with effect from 1 July 2015 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
-[^627-3]: Inserted by Annex No 3 of the Uncertificated Securities Act of 3 Oct. 2008, in force since 1 Jan. 2010 ([AS 2009 3577](https://fedlex.data.admin.ch/eli/oc/2009/450); [BBl 2006 9315](https://fedlex.data.admin.ch/eli/fga/2006/1228)).
-[^627-4]: [SR 957.1](https://fedlex.data.admin.ch/eli/cc/2009/450)
-
-### 2. Relating specifically to contributions in kind, acquisitions in kind, special privileges
-
-[^part3-tit26-chap1-lvlE-lvlII-lvl2-1]
-
-[^part3-tit26-chap1-lvlE-lvlII-lvl2-1]: Amended by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-
-#### Art. 628
-
-<sup>1</sup> Where a shareholder makes a contribution in kind, the articles of association must indicate its nature and value, the name of the contributor and the shares allocated to him.[^628-1]
-
-<sup>2</sup> Where the company acquires or intends to acquire tangible fixed assets from shareholders or close associates, the articles of association must indicate their nature, the name of the person providing them and the consideration given by the company.[^628-2]
-
-<sup>3</sup> Where special privileges are accorded to founder members or other persons on establishment of the company, the persons thus privileged must be named and each privilege precisely described and valued in the articles of association.
-
-<sup>4</sup> After ten years the general meeting may annul provisions of the articles of association concerning contributions in kind or acquisitions in kind. Provisions on acquisitions in kind may also be annulled if the company makes a final decision not to make the acquisition in kind. [^628-3] [^628-4]
-
-[^628-1]: Amended by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-[^628-2]: Amended by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-[^628-3]: Second sentence inserted by No I 3 of the FA of 16 Dec. 2005 (Law on Limited Liability Companies and Amendments to the Law on Companies limited by Shares, Cooperatives, the Commercial Register and Business Names), in force since 1 Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
-[^628-4]: Inserted by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-
-### F. Establishment
+### E. Foundation
 
 ### I. Deed of incorporation
 
 ### 1. Content
 
+[^part3-tit26-chap1-lvlE-lvlI-lvl1-1]
+
+[^part3-tit26-chap1-lvlE-lvlI-lvl1-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
 #### Art. 629
 
 [^629-1]
 
-<sup>1</sup> The company is established when the founder members declare by public deed that they are forming a company limited by shares, lay down the articles of association therein and appoint the governing bodies.
+<sup>1</sup> The company is founded when the founder members declare by public deed that they are forming a company limited by shares, lay down the articles of association therein and appoint the governing bodies.
 
 <sup>2</sup>
 
-In such deed of incorporation, the founder members subscribe for the shares and declare:
+In such deed of incorporation, the founder members shall subscribe for the shares and declare that:
 
-- 1\. that all the shares are validly subscribed for;
+- 1\. all the shares are validly subscribed for;
 - 2\. that the promised capital contributions correspond to the full issue price;
-- 3\. that the requirements for payment of capital contributions prescribed by law and the articles of association are met;
-- 4\.[^629-2] that there are no other contributions in kind, acquisitions in kind or intended acquisitions in kind, instances of offsetting or special privileges other than those mentioned in the supporting documents.
+- 3\. the requirements for payment of capital contributions prescribed by law and the articles of association are met at the time that the deed of incorporation is signed;
+- 4\. there are no contributions in kind, instances of offsetting or special privileges other than those mentioned in the supporting documents.[^629-2]
+
+<sup>3</sup> If the share capital is specified in a foreign currency or if contributions are made in a different currency from that of the share capital, the exchange rates applied must be indicated in the public deed.[^629-3]
 
 [^629-1]: Amended by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-[^629-2]: Inserted by No I 2 of the FA of 17 March 2017 (Commercial Register Law), in force since 1 Jan. 2021 ([AS 2020 957](https://fedlex.data.admin.ch/eli/oc/2020/178); [BBl 2015 3617](https://fedlex.data.admin.ch/eli/fga/2015/956)).
+[^629-2]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^629-3]: Inserted by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 2. Share subscription
 
+### II. Supporting documents
+
 #### Art. 630
 
-[^630-1]
+**Art. 631**[^630-1][^630-2]
 
 The share subscription is valid only where:
 
 - 1\. the number, nominal value, type, class and issue price of the shares are specified;
 - 2\. an unconditional commitment is given to pay up the capital corresponding to the issue price.
 
-[^630-1]: Amended by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-
-### II. Supporting documents
-
-#### Art. 631
-
-[^631-1]
-
-<sup>1</sup> In the deed of incorporation, the notary must cite each of the documents supporting the establishment of the company individually and confirm that they were presented to the founder members.
+<sup>1</sup> In the deed of incorporation, the notary must specify the foundation documents individually and confirm that they have been laid before him or her and the founder members.
 
 <sup>2</sup>
 
@@ -8944,11 +8952,13 @@ The following documents must be appended to the deed of incorporation:
 - 1\. the articles of association;
 - 2\. the incorporation report;
 - 3\. the audit confirmation;
-- 4\. confirmation of the deposit of capital contributions;
-- 5\. the agreements on contributions in kind;
-- 6\. agreements on acquisitions in kind that are already available.
+- 4\. confirmation that the capital contributions have been deposited in cash;
+- 5\. the agreements on contributions-in-kind;
+- 6\.[^630-3] …
 
-[^631-1]: Amended by No I 3 of the FA of 16 Dec. 2005 (Law on Limited Liability Companies and Amendments to the Law on Companies limited by Shares, Cooperatives, the Commercial Register and Business Names), in force since 1 Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^630-1]: Amended by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^630-2]: Amended by No I 3 of the FA of 16 Dec. 2005 (Law on Limited Liability Companies and Amendments to the Law on Companies limited by Shares, Cooperatives, the Commercial Register and Business Names), in force since 1 Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^630-3]: Repealed by No I of the FA of 19 June 2020 (Company Law), with effect from 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### III. Capital contributions
 
@@ -8958,13 +8968,14 @@ The following documents must be appended to the deed of incorporation:
 
 [^632-1]
 
-<sup>1</sup> When the company is established, capital equivalent to at least 20 per cent of the nominal value of each share must be paid up.
+<sup>1</sup> When the company is founded, capital equivalent to at least 20 per cent of the nominal value of each share must be paid up.
 
-<sup>2</sup> In all cases the capital contribution must be at least 50,000 francs.
+<sup>2</sup> In all cases the capital contribution must be at least 50,000 francs. If the share capital is in a foreign currency, the contributions made at the time of foundation must have a value equivalent to at least 50,000 francs.[^632-2]
 
 [^632-1]: Amended by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^632-2]: Second sentence inserted by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-### 2. Performance of contributions
+### 2. Payment of contributions
 
 ### a. Money contributions
 
@@ -8972,11 +8983,13 @@ The following documents must be appended to the deed of incorporation:
 
 [^633-1]
 
-<sup>1</sup> Money contributions must be deposited with an institution subject to the Federal Act of 8 November 1934[^633-2] on Banks and Savings Banks for the exclusive use of the company.
+<sup>1</sup> Money contributions must be deposited in a bank as defined in Article 1 paragraph 1 of the Banking Act of 8 November 1934[^633-2] for the exclusive use of the company.
 
-<sup>2</sup> The institution may release the money only when the company has been entered in the commercial register.
+<sup>2</sup> The bank may release the money only when the company has been entered in the commercial register.
 
-[^633-1]: Amended by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+<sup>3</sup> Money contributions are payments in the currency of the share capital and payments in freely convertible currencies that are different from that of the share capital.
+
+[^633-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 [^633-2]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
 
 ### b. Contributions in kind
@@ -8985,25 +8998,48 @@ The following documents must be appended to the deed of incorporation:
 
 [^634-1]
 
-Contributions in kind satisfy the contribution requirement only where:
+<sup>1</sup>
 
-- 1\. made on the basis of an agreement to make a contribution in kind done in writing as a public deed;
-- 2\. on being entered in the commercial register, the company immediately acquires ownership and the right to dispose of them or an unconditional right to enter them in the land register;
-- 3\. an incorporation report with audit confirmation is available.
+The items forming a contribution in kind shall satisfy the contribution requirement only if the following requirements are met:
 
-[^634-1]: Amended by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+- 1\. They may be entered as assets on the balance sheet.
+- 2\. They may be transferred to the company’s assets.
+- 3\. On the company being entered in the commercial register, the company immediately acquires ownership and may freely dispose of the items or, in the case of immovable property, receives an unconditional right to enter it in the land register.
+- 4\. Their value may be realised by transfer to a third party.
 
-### c. Subsequent contribution
+<sup>2</sup> The contribution in kind must be agreed in writing. The contract must be done as a public deed if this is required for the transfer of the object.
+
+<sup>3</sup> A single public deed is sufficient even if immovable property situated in two or more cantons constitutes the contribution in kind. The deed must be done by a notary at the seat of the company.
+
+<sup>4</sup> The articles of association must indicate the items, their valuation and the name of the contributor and the shares that they have been issued and any other considerations provided by the company. The general meeting may repeal the related provisions of the articles of association after ten years.
+
+[^634-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### c. Offset with a claim
 
 #### Art. 634a
 
 [^634a-1]
 
-<sup>1</sup> The board of directors determines the rules governing subsequent contributions in respect of shares that are not fully paid-up.
+<sup>1</sup> Shares may be paid up by offset with a claim.
 
-<sup>2</sup> Such subsequent contributions may be made in money or in kind or by means of set-off.
+<sup>2</sup> Offset with a claim shall also satisfy the contribution requirement if the claim is no longer covered by assets.
 
-[^634a-1]: Inserted by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733): [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+<sup>3</sup> The articles of association must indicate the amount of the claim being offset, the name of the shareholder and the shares that they have been issued. The general meeting may repeal the related provisions of the articles of association after ten years.
+
+[^634a-1]: Inserted by No I of the FA of 4 Oct. 1991 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733): [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### d. Subsequent contribution
+
+#### Art. 634b
+
+[^634b-1]
+
+<sup>1</sup> The board of directors shall determine the rules governing subsequent contributions in respect of shares that are not fully paid-up.
+
+<sup>2</sup> Subsequent contributions may be made in money or in kind, by offset against a claim or by converting freely disposable equity capital.
+
+[^634b-1]: Inserted by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 3. Verification of capital contributions
 
@@ -9013,13 +9049,14 @@ Contributions in kind satisfy the contribution requirement only where:
 
 [^635-1]
 
-The founder members draw up a written statutory report in which they give account of:
+The founder members shall draw up a written statutory report in which they give account of:
 
-- 1\. the nature and condition of contributions in kind or acquisitions in kind and the appropriateness of their valuation;
+- 1\.[^635-2] the nature and condition of contributions in kind and the appropriateness of their valuation;
 - 2\. the existence of debts and whether such debts may be set off;
 - 3\. the reasons for and appropriateness of special privileges accorded to founder members or other persons.
 
 [^635-1]: Amended by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^635-2]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### b. Audit confirmation
 
@@ -9027,25 +9064,39 @@ The founder members draw up a written statutory report in which they give accoun
 
 [^635a-1]
 
-A licensed auditor verifies the incorporation report and confirms in writing that it is complete and accurate.
+A licensed auditor shall verify the incorporation report and confirm in writing that it is complete and accurate.
 
-[^635a-1]: Inserted by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733), [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^635a-1]: Inserted by No I of the FA of 4 Oct. 1991 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Amended by No I 3 of the FA of 16 Dec. 2005 (Law on Limited Liability Companies and Amendments to the Law on Companies limited by Shares, Cooperatives, the Commercial Register and Business Names), in force since 1 Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 
-#### Art. 636–639
+### IV. Special privileges
 
-[^636639-1]
+#### Art. 636
 
-[^636639-1]: Repealed by No I of the FA of 4 Oct. 1991, with effect from 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^636-1]
 
-### G. Entry in the commercial register
+If special privileges are granted on foundation to the founding members or other persons, the articles of association must indicate the names of the beneficiaries and the nature and value of the privilege granted.
+
+[^636-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+#### Art. 637–639
+
+[^637639-1]
+
+[^637639-1]: Repealed by No I of the FA of 4 Oct. 1991, with effect from 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+
+### F. Entry in the commercial register
 
 ### I. Company
+
+[^part3-tit26-chap1-lvlG-1]
+
+[^part3-tit26-chap1-lvlG-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 640
 
 [^640-1]
 
-The company is entered in the commercial register of the place at which it has its seat.
+The company must be entered in the commercial register at the place where it has its seat.
 
 [^640-1]: Amended by No I 3 of the FA of 16 Dec. 2005 (Law on Limited Liability Companies and Amendments to the Law on Companies limited by Shares, Cooperatives, the Commercial Register and Business Names), in force since 1 Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 
@@ -9057,23 +9108,21 @@ The company is entered in the commercial register of the place at which it has i
 
 [^641-1]: Repealed by No I 2 of the FA of 17 March 2017 (Commercial Register Law), with effect from 1 Jan. 2021 ([AS 2020 957](https://fedlex.data.admin.ch/eli/oc/2020/178); [BBl 2015 3617](https://fedlex.data.admin.ch/eli/fga/2015/956)).
 
-### III. Contributions and acquisitions in kind, special privileges
+### III. …
 
 #### Art. 642
 
 [^642-1]
 
-<sup>1</sup> The subject matter of contributions in kind and the shares issued in exchange, the subject matter of acquisitions in kind and the consideration provided by the company, and the nature and value of special privileges must be entered in the commercial register.
+[^642-1]: Repealed by No I of the FA of 19 June 2020 (Company Law), with effect from 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-[^642-1]: Amended by No I 3 of the FA of 16 Dec. 2005 (Law on Limited Liability Companies and Amendments to the Law on Companies limited by Shares, Cooperatives, the Commercial Register and Business Names), in force since 1 Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+### G. Acquisition of legal personality
 
-### H. Acquisition of legal personality
-
-### I. Timing; entry conditions not satisfied
+### I. Time; Entry conditions not satisfied
 
 [^part3-tit26-chap1-lvlH-lvlI-1]
 
-[^part3-tit26-chap1-lvlH-lvlI-1]: Amended by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^part3-tit26-chap1-lvlH-lvlI-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 643
 
@@ -9081,19 +9130,25 @@ The company is entered in the commercial register of the place at which it has i
 
 <sup>2</sup> It acquires legal personality thereby even if the conditions for such entry were in fact not satisfied.
 
-<sup>3</sup> However, where the law or the articles of association were contravened in the establishment of the company such that the interests of creditors or shareholders were substantially jeopardised or harmed, at the request of those creditors or shareholders the court may order that the company be dissolved.[^643-1]
+<sup>3</sup> However, where the law or the articles of association were contravened in the foundation of the company such that the interests of creditors or shareholders were substantially jeopardised or harmed, at the request of those creditors or shareholders the court may order that the company be dissolved. …[^643-1]
 
 <sup>4</sup> The foregoing right of action prescribes if action is not brought within three months of publication in the Swiss Official Gazette of Commerce.
 
 [^643-1]: Second sentence repealed by No I 3 of the FA of 16 Dec. 2005 (Law on Limited Liability Companies and Amendments to the Law on Companies limited by Shares, Cooperatives, the Commercial Register and Business Names), with effect from 1 Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 
-### II. Shares issued before entry
+### II. Nullity of shares issued before registration
+
+[^part3-tit26-chap1-lvlH-lvlII-1]
+
+[^part3-tit26-chap1-lvlH-lvlII-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 644
 
-<sup>1</sup> Shares issued before the company is entered in the commercial register are void; however, the obligations arising from the share subscription remain effective.
+<sup>1</sup> Shares issued before the company is entered in the commercial register are void; obligations arising from the share subscription are unaffected thereby.[^644-1]
 
 <sup>2</sup> A person issuing shares prior to such entry is liable for all resultant losses.
+
+[^644-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### III. Obligations contracted prior to entry
 
@@ -9101,7 +9156,7 @@ The company is entered in the commercial register of the place at which it has i
 
 <sup>1</sup> A person acting in the name of the company prior to entry in the commercial register is liable personally and jointly and severally for his actions.
 
-<sup>2</sup> Where such obligations were incurred expressly in the name of the company to be established and are assumed by the latter within three months of its entry in the commercial register, the persons who contracted them are relieved of liability and only the company is liable.
+<sup>2</sup> Where such obligations were incurred expressly in the name of the company to be founded and are assumed by the latter within three months of its entry in the commercial register, the persons who contracted them are relieved of liability and only the company is liable.
 
 #### Art. 646
 
@@ -9109,103 +9164,84 @@ The company is entered in the commercial register of the place at which it has i
 
 [^646-1]: Repealed by No I of the FA of 4 Oct. 1991, with effect from 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 
-### J. Amending the articles of association
+### H. Amendment of the articles of association
 
 #### Art. 647
 
 [^647-1]
 
-<sup>1</sup> Any resolution adopted by the general meeting or the board of directors concerning an amendment of the articles of association must be done as a public deed and entered in the commercial register.
+The resolution adopted by the general meeting or the board of directors concerning an amendment of the articles of association must be done as a public deed and entered in the commercial register.
 
-[^647-1]: Amended by No I 3 of the FA of 16 Dec. 2005 (Law on Limited Liability Companies and Amendments to the Law on Companies limited by Shares, Cooperatives, the Commercial Register and Business Names), in force since 1 Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^647-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-#### Art. 648–649
+#### Art. 648 and 649
 
 [^648649-1]
 
 [^648649-1]: Repealed by No I of the FA of 4 Oct. 1991, with effect from 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 
-### K. Increase in the share capital
+### I. Increase and reduction in the share capital
 
-### I. Ordinary and authorised capital increase
+### I. Ordinary capital increase
 
-### 1. Ordinary capital increase
+### 1. Resolution of the general meeting
 
 #### Art. 650
 
 [^650-1]
 
-<sup>1</sup> A decision to increase the share capital is taken by means of resolution passed by the general meeting; it must be carried out by the board of directors within three months.
+<sup>1</sup> The general meeting may resolve to make an ordinary increase in share capital.
 
 <sup>2</sup>
 
-The resolution of the general meeting must be done as a public deed and specify:
+The resolution of the general meeting must be done as a public deed and contain the following information:
 
-- 1\. the full nominal value by which the share capital is to be increased and the amount of contributions to be paid up;
-- 2\. the number, nominal value and type of shares and the preferential rights attaching to specific share classes;
-- 3\. the issue price or the authority conferred on the board of directors to set the price, and the date on which the dividend entitlement commences;
-- 4\. the type of capital contributions to be made and, in the case of contributions in kind, their nature and value, the name of the contributor and the shares due to him in exchange;
-- 5\. in the case of acquisitions in kind, the nature of such assets, the name of the contributor and the consideration provided by the company;
-- 6\. the nature and value of special privileges and the names of the beneficiaries;
-- 7\. any restriction on the transferability of new registered shares;
-- 8\. any restrictions on or cancellation of subscription rights and the allocation of subscription rights that have not been exercised or have been withdrawn;
-- 9\. the conditions to be met when exercising contractual subscription rights.
+- 1\. the nominal value or, if applicable, the maximum nominal value by which the share capital is to be increased;
+- 2\. the number or, if applicable, the nominal value and type of newly issued shares and preferential rights pertaining to specific classes of shares;
+- 3\. the issue price or the authority conferred on the board of directors to set the price, and the date on which the new shares entitle their holders to receive dividends;
+- 4\. in the case of contributions in kind: their nature and value, the name of the contributor and the shares issued in return and any other considerations provided by the company;
+- 5\. in the case of shares paid up by offset with a claim: the amount of the claim offset, the name of the creditor and the shares due to them;
+- 6\. the conversion of freely disposable equity capital;
+- 7\. the nature and value of special privileges and the names of the beneficiaries;
+- 8\. any restriction on the transferability of new registered shares;
+- 9\. any restrictions on or cancellation of the subscription right and the consequences if this right is not exercised or is withdrawn;
+- 10\. the conditions to be met when exercising contractual subscription rights.
 
-<sup>3</sup> Where the capital increase is not entered in the commercial register within three months, the resolution of the general meeting lapses.
+<sup>3</sup> An application to register the capital increase must be filed with the commercial register office within six months of the resolution of the general meeting, otherwise the resolution becomes invalid.
 
-[^650-1]: Amended by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733): [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-
-### 2. Authorised capital increase
-
-### a. Basis in articles of association
+[^650-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 651
 
 [^651-1]
 
-<sup>1</sup> By amending the articles of association, the general meeting may authorise the board of directors to increase the share capital within a period of no more than two years.
-
-<sup>2</sup> The articles of association lay down the nominal amount by which the board of directors may increase the share capital. Such authorised capital may not exceed one-half of the existing share capital.
-
-<sup>3</sup> Further, the articles of association stipulate the same information as required for an ordinary capital increase, with the exception of the specifications concerning the issue amount, the type of contributions, acquisitions in kind and the date on which the dividend entitlement commences.
-
-<sup>4</sup> Within the limits of its authority, the board of directors may carry out share capital increases. In so doing it enacts the necessary provisions where these are not already laid down in the resolution of the general meeting.
-
-<sup>5</sup> The foregoing paragraphs are subject to the regulations of the Banking Act of 8 November 1934[^651-2] on reserve capital.[^651-3]
-
-[^651-1]: Amended by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-[^651-2]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^651-3]: Inserted by Annex No I of the FA of 30 Sept. 2011 (Securing Stability in the Financial Sector), in force since 1 March 2012 ([AS 2012 811](https://fedlex.data.admin.ch/eli/oc/2012/126); [BBl 2011 4717](https://fedlex.data.admin.ch/eli/fga/2011/762)).
-
-### b. Amendment of the articles of association
+[^651-1]: Repealed by No I of the FA of 19 June 2020 (Company Law), with effect from 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 651a
 
 [^651a-1]
 
-<sup>1</sup> Following every capital increase, the board of directors reduces the nominal amount of the authorised capital in the articles of association accordingly.
+[^651a-1]: Inserted by No I of the FA of 4 Oct. 1991 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Repealed by No I of the FA of 19 June 2020 (Company Law), with effect from 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-<sup>2</sup> On expiry of the time limit set for execution of the capital increase, the provision concerning the authorised capital increase is deleted from the articles of association by resolution of the board of directors.
+### 2. Share subscription
 
-[^651a-1]: Inserted by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^part3-tit26-chap1-lvlJ-lvlI-lvl2-1]
 
-### 3. Common provisions
-
-### a. Share subscription
+[^part3-tit26-chap1-lvlJ-lvlI-lvl2-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 652
 
 [^652-1]
 
-<sup>1</sup> The shares are subscribed in a special document (subscription form) in accordance with the provisions governing the establishment of the company.
+<sup>1</sup> The shares are subscribed in a special document (subscription form) in accordance with the provisions governing the foundation of the company.
 
-<sup>2</sup> The subscription form must make reference to the resolution of the general meeting concerning the share capital increase or the authorisation of such increase and to the resolution of the board of directors concerning the share capital increase. Where the law requires an issue prospectus, the subscription form also refers to this.
+<sup>2</sup> The subscription form must make reference to the resolution of the general meeting concerning the share capital increase and the related resolution of the board of directors. Where the law requires a prospectus, the subscription form also refers to this.[^652-2]
 
-<sup>3</sup> Where the subscription form does not indicate a time limit, it ceases to be binding three months after it was signed.
+<sup>3</sup> …[^652-3]
 
 [^652-1]: Amended by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-
-### b. ...
+[^652-2]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^652-3]: Repealed by No I of the FA of 19 June 2020 (Company Law), with effect from 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 652a
 
@@ -9213,31 +9249,47 @@ The resolution of the general meeting must be done as a public deed and specify:
 
 [^652a-1]: Inserted by No I of the FA of 4 Oct. 1991 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Repealed by Annex No 1 of the Financial Services Act of 15 June 2018, with effect from 1 Jan. 2020 ([AS 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
-### c. Subscription right
+### 3. Subscription right and issue price
+
+[^part3-tit26-chap1-lvlJ-lvlI-lvl3-1]
+
+[^part3-tit26-chap1-lvlJ-lvlI-lvl3-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 652b
 
 [^652b-1]
 
-<sup>1</sup> Every shareholder is entitled to the proportion of the newly issued shares that corresponds to his existing participation.
+<sup>1</sup> Every shareholder is entitled to the proportion of the newly issued shares that corresponds to their existing participation.
 
-<sup>2</sup> A resolution by the general meeting to increase the share capital may cancel this subscription right only for good cause. In particular, the takeover of companies, parts of companies or equity interests and employee share ownership are deemed to be good cause. The cancellation of the subscription right must not result in any improper advantage or disadvantage to the parties involved.
+<sup>2</sup> A resolution by the general meeting to increase the share capital may restrict or cancel this subscription right only for good cause. In particular, the takeover of companies, parts of companies or equity interests and employee share ownership are deemed to be good cause.[^652b-2]
 
-<sup>3</sup> Where the company has granted a shareholder the right to subscribe to shares, it may not bar him from exercising such right on the basis of a restriction on the transferability of registered shares laid down in the articles of association.
+<sup>3</sup> Where the company has granted a shareholder the right to subscribe to shares, it may not bar them from exercising such a right on the basis of a restriction on the transferability of registered shares laid down in the articles of association.
+
+<sup>4</sup> No one may gain an undue advantage or suffer an undue disadvantage as a result of the restriction or cancellation of the subscription right or the fixing of the issue price.[^652b-3]
 
 [^652b-1]: Inserted by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^652b-2]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^652b-3]: Inserted by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-### d. Making capital contributions
+### 4. Making of contributions
+
+[^part3-tit26-chap1-lvlJ-lvlI-lvl4-1]
+
+[^part3-tit26-chap1-lvlJ-lvlI-lvl4-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 652c
 
 [^652c-1]
 
-Unless the law provides otherwise, capital contributions must be made in accordance with the provisions governing the establishment of the company.
+Unless the law provides otherwise, capital contributions must be made in accordance with the provisions governing the foundation of the company.
 
 [^652c-1]: Inserted by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 
-### e. Increase from equity capital
+### 5. Increase from equity capital
+
+[^part3-tit26-chap1-lvlJ-lvlI-lvl5-1]
+
+[^part3-tit26-chap1-lvlJ-lvlI-lvl5-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 652d
 
@@ -9245,41 +9297,58 @@ Unless the law provides otherwise, capital contributions must be made in accorda
 
 <sup>1</sup> The share capital may also be increased through conversion of freely disposable equity capital.
 
-<sup>2</sup> The equity capital used to meet the amount of the increase is shown in the annual accounts as approved by the shareholders and in the audit report of a licensed auditor. If more than six months have elapsed since the accounting cut-off date, audited interim accounts are required.[^652d-2]
+<sup>2</sup>
+
+The equity capital used to meet the amount of the increase is shown:
+
+- 1\. in the annual accounts as approved by the general meeting and audited by a licensed auditor; or
+- 2\. in an interim account audited by a licensed auditor, provided the balance sheet date at the time of the resolution of the general meeting is more than six months in the past.[^652d-2]
+
+<sup>3</sup> The articles of association must indicate that the capital increase was made by converting freely disposable equity capital.[^652d-3]
 
 [^652d-1]: Inserted by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-[^652d-2]: Amended by No I 3 of the FA of 16 Dec. 2005 (Law on Limited Liability Companies and Amendments to the Law on Companies limited by Shares, Cooperatives, the Commercial Register and Business Names), in force since 1 Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^652d-2]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^652d-3]: Inserted by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-### f. Capital increase report
+### 6. Capital increase report
+
+[^part3-tit26-chap1-lvlJ-lvlI-lvl6-1]
+
+[^part3-tit26-chap1-lvlJ-lvlI-lvl6-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 652e
 
 [^652e-1]
 
-The board of directors draws up a written report in which it gives account of:
+The board of directors shall draw up a written report in which it gives account of:
 
-- 1\. the nature and condition of contributions in kind or acquisitions in kind and the appropriateness of their valuation;
+- 1\.[^652e-2] the nature and condition of contributions in kind and the appropriateness of their valuation;
 - 2\. the existence of debts and whether such debts may be set off;
 - 3\. the free disposability of the equity capital thus converted;
 - 4\. compliance with the resolution of the general meeting, in particular concerning restrictions on or cancellation of subscription rights and the allocation of subscription rights that have not been exercised or have been withdrawn;
 - 5\. the reasons for and appropriateness of special privileges accorded to specific shareholders or other persons.
 
 [^652e-1]: Inserted by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^652e-2]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-### g. Audit confirmation
+### 7. Audit confirmation
+
+[^part3-tit26-chap1-lvlJ-lvlI-lvl7-1]
+
+[^part3-tit26-chap1-lvlJ-lvlI-lvl7-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 652f
 
 [^652f-1]
 
-<sup>1</sup> A licensed auditor verifies the capital increase report and confirms in writing that it is complete and accurate.[^652f-2]
+<sup>1</sup> A licensed auditor shall verify the capital increase report and confirm in writing that it is complete and accurate.[^652f-2]
 
 <sup>2</sup> No such audit confirmation is required where the capital contribution for the new share capital is made in money, the share capital increase is not for the purpose of funding an acquisition in kind and subscription rights are not restricted or cancelled.
 
 [^652f-1]: Inserted by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 [^652f-2]: Amended by No I 3 of the FA of 16 Dec. 2005 (Law on Limited Liability Companies and Amendments to the Law on Companies limited by Shares, Cooperatives, the Commercial Register and Business Names), in force since 1 Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 
-### h. Amendment of articles of association and statements required
+### 8. Amendment of articles of association and statements from the board of directors
 
 #### Art. 652g
 
@@ -9287,40 +9356,29 @@ The board of directors draws up a written report in which it gives account of:
 
 <sup>1</sup>
 
-Once the capital increase report and, where required, the audit confirmation are available, the board of directors amends the articles of association and declares:
+Once the capital increase report and, where required, the audit confirmation are available, the board of directors shall amend the articles of association and declare that:
 
-- 1\. that all shares are validly subscribed for;
-- 2\. that the promised capital contributions correspond to the full issue price;
-- 3\. that the contributions have been made in accordance with the requirements prescribed by law, the articles of association and the resolution of the general meeting;
-- 4\.[^652g-2] that there are no other contributions in kind, acquisitions in kind or intended acquisitions in kind, instances of offsetting or special privileges other than those mentioned in the supporting documents.
+- 1\. all shares are validly subscribed for;
+- 2\. the promised capital contributions correspond to the full issue price;
+- 3\. the requirements prescribed by law, the articles of association and the resolution of the general meeting for making the contributions are met at the time of the declarations;
+- 4\. there are no contributions in kind, instances of offsetting or special privileges other than those mentioned in the supporting documents;
+- 5\. it has received the documents on which the capital increase is based.
 
-<sup>2</sup> The resolution and declarations must be done as public deeds. The notary must cite each of the documents supporting the capital increase individually and confirm that they were presented to the board of directors.
+<sup>2</sup> The resolution on the amendment of the articles of association and declarations must be done as public deeds. The notary must name each of the documents supporting the capital increase individually and confirm that the documents were presented to them. The supporting documents must be attached to the public deed.
 
-<sup>3</sup> The amended articles of association, capital increase report, audit confirmation, agreements on contributions in kind and available agreements on acquisitions in kind must be enclosed with the public deed.
+[^652g-1]: Inserted by No I of the FA of 4 Oct. 1991 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-[^652g-1]: Inserted by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-[^652g-2]: Inserted by No I 2 of the FA of 17 March 2017 (Commercial Register Law), in force since 1 Jan. 2021 ([AS 2020 957](https://fedlex.data.admin.ch/eli/oc/2020/178); [BBl 2015 3617](https://fedlex.data.admin.ch/eli/fga/2015/956)).
-
-### i. Entry in the commercial register; nullity of previously issued shares
+### 9. Nullity of shares issued before registration
 
 #### Art. 652h
 
 [^652h-1]
 
-<sup>1</sup> The board of directors notifies the amendment of the articles of association and its declarations for entry in the commercial register.
+Shares issued prior to entering the capital increase in the commercial register are void; the obligations arising from the share subscription remain effective.
 
-<sup>2</sup>
+[^652h-1]: Inserted by No I of the FA of 4 Oct. 1991 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-It must submit:
-
-- 1\. the public deeds concerning the resolutions of the general meeting and of the board of directors with their enclosures;
-- 2\. an authenticated copy of the amended articles of association.
-
-<sup>3</sup> Shares issued prior to entry of the capital increase are void; the obligations arising from the share subscription remain effective.
-
-[^652h-1]: Inserted by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-
-### II. Contingent capital increase
+### II. Increase from contingent capital
 
 ### 1. General principle
 
@@ -9328,15 +9386,16 @@ It must submit:
 
 [^653-1]
 
-<sup>1</sup> The general meeting may resolve to make a contingent capital increase by stipulating in the articles of association that creditors of new bonds and similar debt instruments issued by the company or its group companies and employees will be granted rights to subscribe to new shares (conversion or option rights).
+<sup>1</sup> The general meeting resolve to create contingent capital by granting shareholders, creditors of bonds or similar debt instruments, employees, members of the board of directors of the company or another company in the group or third parties the right to subscribe for new shares (conversion and option rights).
 
-<sup>2</sup> The share capital automatically increases whenever and to the extent that such conversion or option rights are exercised and the contribution obligations are discharged by set-off or payment.
+<sup>2</sup> The share capital automatically increases whenever and to the extent that such conversion or option rights are exercised and the contribution obligations are discharged by payment or offsetting.
 
-<sup>5</sup> The foregoing paragraphs are subject to the regulations of the Banking Act of 8 November 1934[^653-2] on reserve capital.[^653-3]
+<sup>3</sup> The provisions on increasing the share capital from contingent capital also apply *mutatis mutandis* in the event that conversion and acquisition requirements are imposed.
 
-[^653-1]: Amended by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+<sup>4</sup> The foregoing paragraphs are subject to the regulations of the Banking Act of 8 November 1934[^653-2] on reserve capital.
+
+[^653-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 [^653-2]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^653-3]: Inserted by Annex No I of the FA of 30 Sept. 2011 (Securing Stability in the Financial Sector), in force since 1 March 2012 ([AS 2012 811](https://fedlex.data.admin.ch/eli/oc/2012/126); [BBl 2011 4717](https://fedlex.data.admin.ch/eli/fga/2011/762)).
 
 ### 2. Restrictions
 
@@ -9344,11 +9403,12 @@ It must submit:
 
 [^653a-1]
 
-<sup>1</sup> The nominal amount by which the share capital may be increased in this contingent manner must not exceed one-half of the existing share capital.
+<sup>1</sup> The nominal amount by which the share capital may be increased in this contingent manner must not exceed one-half of the share capital specified in the commercial register.[^653a-2]
 
 <sup>2</sup> The capital contribution must be at least equal to the nominal value.
 
 [^653a-1]: Inserted by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^653a-2]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 3. Basis in articles of association
 
@@ -9360,12 +9420,13 @@ It must submit:
 
 The articles of association must stipulate:
 
-- 1\. the nominal amount of the contingent capital increase;
+- 1\.[^653b-2] the nominal value of the contingent capital;
 - 2\. the number, nominal value and type of shares;
 - 3\. the beneficiaries of conversion or option rights;
-- 4\. the cancellation of the subscription rights of existing shareholders;
-- 5\. preferential rights attached to specific share classes;
-- 6\. the restrictions on the transferability of newly registered shares.
+- 4\.[^653b-3] any restriction or cancellation of the subscription right of existing shareholders, provided they are not allocated the option rights;
+- 5\. preferential rights attached to specific classes of shares;
+- 6\. the restrictions on the transferability of newly registered shares;
+- 7\.[^653b-4] the procedure for exercising the conversion or option rights and for waiving these rights.
 
 <sup>2</sup>
 
@@ -9374,9 +9435,13 @@ Where the bonds or similar debt instruments to which the conversion or option ri
 - 1\. the conditions on which the conversion or option rights may be exercised;
 - 2\. the basis on which the issue amount is to be calculated.
 
-<sup>3</sup> Conversion or option rights granted before the provision of the articles of association concerning the contingent capital increase has been entered in the commercial register are void.
+<sup>3</sup> Conversion or option rights granted before the provision of the articles of association concerning the contingent capital has been entered in the commercial register are void.[^653b-5]
 
 [^653b-1]: Inserted by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^653b-2]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^653b-3]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^653b-4]: Inserted by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^653b-5]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 4. Protection of shareholders
 
@@ -9384,13 +9449,20 @@ Where the bonds or similar debt instruments to which the conversion or option ri
 
 [^653c-1]
 
-<sup>1</sup> Where bonds or similar debt instruments to which conversion or option rights attach are to be issued as part of a contingent capital increase, they must be offered first to the shareholders for subscription in proportion to the shareholders’ existing participations.
+<sup>1</sup> If the shareholders are granted option rights in connection with contingent capital, the rules on the subscription right in the case of an ordinary capital increase apply *mutatis mutandis*.
 
-<sup>2</sup> This priority subscription right may be restricted or cancelled for good cause.
+<sup>2</sup> If bonds or similar debt instruments to which conversion or option rights attach are issued in connection with contingent capital, they must be offered first to the shareholders for subscription in proportion to the shareholders’ existing participations.
 
-<sup>3</sup> Any cancellation of subscription rights required in order to carry out a contingent capital increase and any restriction or cancellation of priority subscription rights must not result in any improper advantage or disadvantage to the parties involved.
+<sup>3</sup>
 
-[^653c-1]: Inserted by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+This priority subscription right may be restricted or cancelled if:
+
+- 1\. there is good cause; or
+- 2\. the shares listed on a stock exchange and the bonds or similar debt instruments are issued subject to appropriate conditions.
+
+<sup>4</sup> No one may gain an undue advantage or suffer an undue disadvantage as a result of the restriction or cancellation of the subscription right or the priority subscription right.
+
+[^653c-1]: Inserted by No I of the FA of 4 Oct. 1991 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 5. Protection of beneficiaries of conversion or option rights
 
@@ -9398,11 +9470,12 @@ Where the bonds or similar debt instruments to which the conversion or option ri
 
 [^653d-1]
 
-<sup>1</sup> A creditor or employee who holds a conversion or option right to acquire registered shares may not be barred from exercising that right on account of restrictions on the transferability of registered shares, unless this possibility is reserved in the articles of association and the issue prospectus.
+<sup>1</sup> Persons who have a conversion or option right may not be barred from exercising that right on account of restrictions on the transferability of registered shares, unless this possibility is reserved in the articles of association and the prospectus.[^653d-2]
 
 <sup>2</sup> Conversion or option rights may be adversely affected by a share capital increase, by the issue of new conversion or option rights, or in some other manner only if the conversion price is lowered or the beneficiaries are granted some other form of adequate compensation or if the shareholders suffer the same adverse effect.
 
 [^653d-1]: Inserted by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^653d-2]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 6. Execution of capital increase
 
@@ -9412,14 +9485,16 @@ Where the bonds or similar debt instruments to which the conversion or option ri
 
 [^653e-1]
 
-<sup>1</sup> Conversion or option rights are exercised by making a written declaration that refers to the provision of the articles of association concerning the contingent capital increase; where the law requires an issue prospectus, the declaration must refer to it.
+<sup>1</sup> The declaration on the exercise of the conversion or option rights shall refer to the provision of the articles of association concerning the contingent capital; where the law requires a prospectus, the declaration must refer to it.[^653e-2]
 
-<sup>2</sup> A capital contribution in money or by set-off must be made through a banking institution subject to the Banking Act of 8 November 1934[^653e-2].
+<sup>2</sup> Money contributions must be deposited in a bank as defined in Article 1 paragraph 1 of the Banking Act of 8 November 1934[^653e-3] for the exclusive use of the company.[^653e-4]
 
 <sup>3</sup> The shareholder’s rights are established when the capital contribution is made.
 
 [^653e-1]: Inserted by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-[^653e-2]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^653e-2]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^653e-3]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^653e-4]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### b. Audit confirmation
 
@@ -9427,34 +9502,38 @@ Where the bonds or similar debt instruments to which the conversion or option ri
 
 [^653f-1]
 
-<sup>1</sup> At the end of each financial year, or earlier at the request of the board of directors, a licensed audit expert verifies whether the issue of the new shares was in conformity with the law, the articles of association and, where required, the issue prospectus.[^653f-2]
+<sup>1</sup> At the end of each financial year, a licensed audit expert shall verify whether the issue of the new shares was in conformity with the law, the articles of association and, if applicable, the prospectus. The external auditor shall confirm this in writing.
 
-<sup>2</sup> The auditor confirms this in writing.
+<sup>2</sup> The board of directors may order the audit to be conducted earlier.
 
-[^653f-1]: Inserted by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-[^653f-2]: Amended by No I 3 of the FA of 16 Dec. 2005 (Law on Limited Liability Companies and Amendments to the Law on Companies limited by Shares, Cooperatives, the Commercial Register and Business Names), in force since 1 Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^653f-1]: Inserted by No I of the FA of 4 Oct. 1991 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-### c. Amendment of the articles of association
+### c. Amendment of the articles of association and statements of the board of directors
 
 #### Art. 653g
 
 [^653g-1]
 
-<sup>1</sup> On receipt of the audit confirmation, the board of directors draws up a public deed stating the number, nominal value and type of the newly issued shares, the preferential rights attaching to specific share classes and the status of the share capital as at the end of the financial year or the date of the audit. It amends the articles of association as necessary.
+<sup>1</sup>
 
-<sup>2</sup> In the public deed, the notary states that the audit confirmation contains the required information.
+On receipt of the audit confirmation, the board of directors shall amend the articles of association and declare:
 
-[^653g-1]: Inserted by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+- 1\. the number, nominal value and type of the newly issued shares;
+- 2\. if applicable the preferential rights that pertain to individual classes of shares;
+- 3\. the status of the share capital and of the contingent capital as at the end of the financial year or the date of the audit;
+- 4\. that it has received the documents on which the capital increase is based.
 
-### d. Entry in the commercial register
+<sup>2</sup> If the articles of association specify a capital band, the board of directors shall in amending the articles of association adjust the upper and lower limits of the capital band according to the extent of the capital increase, unless the capital is being increased on the basis of authorisation granted to the board of directors to increase the capital with contingent capital.
+
+<sup>3</sup> The resolution on any amendment of the articles of association and the declarations must be done in a public deed. The notary must name the foundation documents individually and confirm that they have been laid before him or her. The supporting documents shall be attached to the public deed.
+
+[^653g-1]: Inserted by No I of the FA of 4 Oct. 1991 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 653h
 
 [^653h-1]
 
-The board of directors applies for the amendment to the articles of association to be entered in the commercial register within three months of the end of the financial year and files the public deed and the audit confirmation.
-
-[^653h-1]: Inserted by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^653h-1]: Inserted by No I of the FA of 4 Oct. 1991 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Repealed by No I of the FA of 19 June 2020 (Company Law), with effect from 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 7. Deletion
 
@@ -9462,19 +9541,222 @@ The board of directors applies for the amendment to the articles of association 
 
 [^653i-1]
 
-<sup>1</sup> Where the conversion or option rights are extinct and this is confirmed in a written report drawn up by a licensed audit expert, the board of directors annuls the provisions of the articles of association concerning the contingent capital increase.
+<sup>1</sup>
 
-<sup>2</sup> In such public deed the notary states that the auditors’ report contains the required information.
+The board of directors may repeal or amend the relevant provision of the articles of association on the contingent capital if:
 
-[^653i-1]: Inserted by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Amended by No I 3 of the FA of 16 Dec. 2005 (Law on Limited Liability Companies and Amendments to the Law on Companies limited by Shares, Cooperatives, the Commercial Register and Business Names), in force since 1 Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+- 1\. the conversion or option rights have expired;
+- 2\. no conversion or option rights were granted; or
+- 3\. all or some of those entitled have decided not to exercise the conversion or option rights granted to them.
 
-### III. Preference shares
+<sup>2</sup> The articles of association may only be amended if a licensed audit expert has confirmed the circumstances in writing.
 
-### 1. Requirements
+[^653i-1]: Inserted by No I of the FA of 4 Oct. 1991 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-[^part3-tit26-chap1-lvlK-lvlIII-lvl1-1]
+### III. Reducing the share capital
 
-[^part3-tit26-chap1-lvlK-lvlIII-lvl1-1]: Amended by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+### 1. Ordinary capital reduction
+
+### a. Principles
+
+#### Art. 653j
+
+[^653j-1]
+
+<sup>1</sup> The general meeting may pass a resolution on reducing the share capital. The board of directors shall prepare for and carry out the reduction.
+
+<sup>2</sup> The capital may be reduced by reducing the nominal value or by cancelling shares.
+
+<sup>3</sup> The share capital may only be reduced below 100,000 francs provided it is at the same time increased again at least to this amount. If the share capital is in a foreign currency, it must be replaced by capital with a value equivalent to at least 100,000 francs.
+
+<sup>4</sup> An application to register the reduction of the share capital must be filed with the commercial register office within six months of the resolution of the general meeting, otherwise the resolution becomes invalid.
+
+[^653j-1]: Inserted by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### b. Securing claims
+
+#### Art. 653k
+
+[^653k-1]
+
+<sup>1</sup> If the share capital is reduced, the board of directors shall notify the creditors that they may request security by registering their claims. The notice must be published in the Swiss Official Gazette of Commerce. Applications to register claims must be made in writing, specifying the amount of and legal grounds for the claim.
+
+<sup>2</sup> The company must secure the creditors’ claims to the extent that the previous cover has been reduced by the capital reduction, provided the creditors request it to do so within 30 days of publication in the Swiss Official Gazette of Commerce.
+
+<sup>3</sup> The obligation to secure claims lapses if the company meets the claim or proves that there is no risk that the claim will not be met as a result of reducing the share capital. If the audit confirmation is available, it may be presumed that there is no risk that the claim will not be met.
+
+[^653k-1]: Inserted by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### c. Interim account
+
+#### Art. 653l
+
+[^653l-1]
+
+If the balance sheet date is more than six months in the past at the time the general meeting passes a resolution to reduce the share capital, the company must prepare an interim account.
+
+[^653l-1]: Inserted by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### d. Audit confirmation
+
+#### Art. 653m
+
+[^653m-1]
+
+<sup>1</sup> Based on the account and the result of the call on creditors, a licensed audit expert must confirm in writing that the creditors’ claims will be fully covered even if the share capital is reduced.
+
+<sup>2</sup> If the audit confirmation is already available at the time that the general meeting passes the resolution, the board of directors shall give notice of the result. The licensed audit expert must be present at the general meeting unless the meeting has dispensed with such presence by unanimous resolution.
+
+[^653m-1]: Inserted by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### e. Resolution of the general meeting
+
+#### Art. 653n
+
+[^653n-1]
+
+The resolution of the general meeting on reducing the share capital must be done as a public deed and contain the following information:
+
+- 1\. the nominal value or if applicable the maximum nominal value by which the share capital will be reduced;
+- 2\. the method for carrying out the capital reduction, in particular whether the reduction is made by reducing the nominal value or by cancelling shares;
+- 3\. the way in which the reduced amount is to be used.
+
+[^653n-1]: Inserted by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### f. Amendment of the articles of association and declarations of the board of directors; Entry in the commercial register
+
+#### Art. 653o
+
+[^653o-1]
+
+<sup>1</sup> If all the requirements for reducing the share capital are met, the board of directors shall amend the articles of association and declare that the requirements under the law, the articles of association and the general meeting resolution are met at the time of the declarations and that it has received the supporting documents on which the capital reduction is based.
+
+<sup>2</sup> The resolution on the amendment of the articles of association and the declarations of the board of directors must be done in a public deed. The notary must specify the supporting documents on which the capital reduction is based, and confirm that the documents were presented to him or her. The supporting documents must be attached to the public deed.
+
+<sup>3</sup> Funds released by capital reduction may only be paid out to shareholders after the capital reduction has been entered in the commercial register.
+
+[^653o-1]: Inserted by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### 2. Capital reduction in the event of negative net worth
+
+#### Art. 653p
+
+[^653p-1]
+
+<sup>1</sup> If the share capital is reduced in order to partly or fully correct a situation of negative net worth caused by losses and if a licensed audit expert confirms to the general meeting that the amount of the capital reduction does not exceed the amount of the negative net worth, the provisions relating to an ordinary capital reduction on securing claims, the interim account, the audit confirmation and the declarations of the board of directors do not apply.
+
+<sup>2</sup> The resolution of the general meeting shall contain the information specified in Article 653*n*. It shall make reference to the result of the audit report and amend the articles of association.
+
+[^653p-1]: Inserted by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### 3. Simultaneous reduction and increase in share capital
+
+### a. Principle
+
+#### Art. 653q
+
+[^653q-1]
+
+<sup>1</sup> If the share capital reduced and at the same time increased to at least the previous amount and if the amount of the contribution paid is not reduced, the provisions relating to an ordinary capital reduction on securing claims, the interim account, the audit confirmation and the declarations of the board of directors do not apply.
+
+<sup>2</sup> However, the provisions relating to an ordinary capital increase apply *mutatis mutandis*.
+
+<sup>3</sup> The board of directors need not amend the articles of association, provided the number and the nominal value of the shares and the amount of the contributions made thereon remain unchanged.
+
+[^653q-1]: Inserted by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### b. Cancellation of shares
+
+#### Art. 653r
+
+[^653r-1]
+
+<sup>1</sup> If the share capital is reduced to zero for the purpose of restructuring and then increased again, the current membership rights of the shareholders lapse at the time of the reduction. Issued shares must be cancelled.
+
+<sup>2</sup> When the share capital is increased again, the former shareholders have subscription rights that may not be withdrawn from them.
+
+[^653r-1]: Inserted by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### IV. Capital band
+
+### 1. Authorisation
+
+#### Art. 653s
+
+[^653s-1]
+
+<sup>1</sup> The articles of association may authorise the board of directors to vary the share capital within a bandwidth (capital band) for a period not exceeding five years. They shall specify the limits within which the board of directors may increase and reduce the share capital.
+
+<sup>2</sup> The upper limit of the capital band may not exceed the share capital specified in the commercial register by more than half. The lower limit of the capital band may not be less than half of the share capital specified in the commercial register.
+
+<sup>3</sup> The articles of association may restrict the powers of the board of directors. They may in particular provide that the board of directors may only increase or only reduce the share capital.
+
+<sup>4</sup> The articles of association may only authorise the board of directors to reduce the share capital if the company has not dispensed with a limited audit of the annual accounts.
+
+[^653s-1]: Inserted by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### 2. Principles in the articles of association
+
+#### Art. 653t
+
+[^653t-1]
+
+<sup>1</sup>
+
+If a capital band is introduced, the articles of association must specify the following:
+
+- 1\. the lower and the upper limit of the capital band;
+- 2\. the date on which the board of directors’ authority to alter the share capital ends;
+- 3\. restrictions on and conditions and requirements for authorisation;
+- 4\. the number, nominal value and type of shares and the preferential rights of individual classes of shares or participation certificates;
+- 5\. the nature and value of special privileges and the names of the beneficiaries;
+- 6\. restrictions on the transferability of newly registered shares;
+- 7\. any restriction or cancellation of the subscription right or the good cause for which the board of directors may restrict or cancel the subscription right, and the allocation of subscription rights that have not been exercised or have been withdrawn;
+- 8\. the requirements for exercising contractually acquired subscription rights;
+- 9\. the authorisation of the board of directors to increase the capital with contingent capital and the information specified in Article 653*b*;
+- 10\. the authorisation of the board of directors to create participation capital.
+
+<sup>2</sup> On expiry of its authorisation, the board of directors shall cancel the provisions governing the capital band in the articles of association.
+
+[^653t-1]: Inserted by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### 3. Increasing and reducing the share capital within the capital band
+
+#### Art. 653u
+
+[^653u-1]
+
+<sup>1</sup> The board of directors may, within the limits of its authority, increase and reduce the share capital.
+
+<sup>2</sup> If the board of directors decides to increase or reduce the share capital, it shall issue the required provisions, unless they are contained in the general meeting’s resolution on authorisation.
+
+<sup>3</sup> In the case of a reduction of the share capital within the capital band, the provisions on securing claims, the interim account and the audit confirmation in the case of an ordinary capital reduction apply *mutatis mutandis*.
+
+<sup>4</sup> Following any increase or reduction in the share capital, the board of directors shall make the required declarations and shall amend the articles of association accordingly. The resolution on the amendment of the articles of association and the declarations of the board of directors must be done in a public deed.
+
+<sup>5</sup> Otherwise, the rules on an ordinary capital increase, a capital increase from contingent capital and a capital reduction apply *mutatis mutandis*.
+
+[^653u-1]: Inserted by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### 4. Increase or reduction of the share capital by the general meeting
+
+#### Art. 653v
+
+[^653v-1]
+
+<sup>1</sup> If the general meeting resolves to increase or reduce the share capital or to change the currency of the share capital during the term of the board of directors’ authorisation, the resolution on the capital band shall lapse. The articles of association must be amended accordingly.
+
+<sup>2</sup> If the general meeting resolves to introduce contingent capital, the upper and lower limits of the capital band shall increase to the extent of the increase in the share capital. The general meeting may instead subsequently resolve to authorise the board of directors to increase the capital with conditional capital within the limits of the existing capital range.
+
+[^653v-1]: Inserted by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### V. Preference shares
+
+### <sup><sup>1.</sup></sup> <sup><sup>Require</sup></sup><sup>-</sup><sup><sup>ments</sup></sup>
+
+[^part3-tit26-chap1-lvlJ-lvlV-lvl1-1]
+
+[^part3-tit26-chap1-lvlJ-lvlV-lvl1-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 654
 
@@ -9492,31 +9774,49 @@ The board of directors applies for the amendment to the articles of association 
 
 ### 2. Status of preference shares
 
-[^part3-tit26-chap1-lvlK-lvlIII-lvl2-1]
+[^part3-tit26-chap1-lvlJ-lvlV-lvl2-1]
 
-[^part3-tit26-chap1-lvlK-lvlIII-lvl2-1]: Amended by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^part3-tit26-chap1-lvlJ-lvlV-lvl2-1]: Amended by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 
 #### Art. 656
 
-<sup>1</sup> Preference shares enjoy the preferential rights vis-à-vis ordinary shares that are expressly conferred on them by the original articles of association or by amendment thereof. In other respects they are of equal status with the ordinary shares.
+<sup>1</sup> Preference shares enjoy the preferential rights vis-à-vis ordinary shares that are expressly conferred on them by the original articles of association or by amendment thereof. In other respects, they are of equal status with the ordinary shares.
 
 <sup>2</sup> In particular, preferential rights may relate to the dividend, with or without rights to cumulative dividends, to the share in the proceeds of liquidation and to subscription rights in the event that new shares are issued.
 
-### L. Participation certificates
+### J. Participation certificates
 
-### I. Definition; applicable provisions
+### I. Definition; applicable regulations
+
+[^part3-tit26-chap1-lvlK-lvlI-1]
+
+[^part3-tit26-chap1-lvlK-lvlI-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 656a
 
 [^656a-1]
 
-<sup>1</sup> The articles of association may provide for participation capital divided into specific amounts (participation certificates). These participation certificates are issued against a capital contribution, have a nominal value and do not confer voting rights.
+<sup>1</sup> The articles of association may provide for participation capital divided into specific amounts (participation certificates). These participation certificates must be in the same currency as the share capital. They are issued against a capital contribution, have a nominal value and do not confer the right to vote.[^656a-2]
 
 <sup>2</sup> Unless otherwise provided by law, the provisions governing share capital, shares and shareholders also apply to the participation capital, participation certificates and participation certificate holders.
 
 <sup>3</sup> The participation certificates must be designated as such.
 
+<sup>4</sup>
+
+Participation capital may be created:
+
+- 1\. on foundation;
+- 2\. by an ordinary capital increase;
+- 3\. by a capital increase from contingent capital;
+- 4\. within a capital band.[^656a-3]
+
+<sup>5</sup> The conversion of shares into participation certificates requires the consent of all the shareholders concerned.[^656a-4]
+
 [^656a-1]: Inserted by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^656a-2]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^656a-3]: Inserted by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^656a-4]: Inserted by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### II. Participation and share capital
 
@@ -9524,19 +9824,45 @@ The board of directors applies for the amendment to the articles of association 
 
 [^656b-1]
 
-<sup>1</sup> Participation capital must not exceed an amount equal to double the share capital.
+<sup>1</sup> The part of the participation capital composed of participation certificates that are listed on a stock exchange may not exceed ten times the share capital specified in the commercial register. The remaining part of the participation capital must not exceed an amount equal to double the share capital specified in the commercial register.
 
-<sup>2</sup> The provisions governing minimum capital and the minimum total contribution do not apply.
+<sup>2</sup> The provisions governing minimum capital do not apply.
 
-<sup>3</sup> For the purposes of the provisions governing restrictions on acquisition of a company's own shares, the general reserve, the instigation of a special audit against the will of the general meeting and duty of notification in the event of capital loss, participation capital is deemed to be part of the share capital.
+<sup>3</sup>
 
-<sup>4</sup> An authorised or contingent increase of the share and participation capital must not in total exceed one-half of the combined existing share and participation capital.
+The participation capital must be added to the share capital when:
 
-<sup>5</sup> Participation capital may be created by means of an authorised or contingent capital increase.
+- 1\. forming the statutory retained earnings;
+- 2\. using the statutory capital reserves and retained earnings;
+- 3\. assessing whether there is a situation of negative net worth or loss of capital;
+- 4\. restricting the extent of an increase in capital from contingent capital;
+- 5\. determining the lower and upper limits of a capital band.
 
-[^656b-1]: Inserted by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+<sup>4</sup>
 
-### III. Legal position of participation certificate holders
+The thresholds must be calculated separately for shareholders and participation certificate holders when:
+
+- 1\. instigating a special investigation in the event that a related motion is rejected by the general meeting;
+- 2\. dissolving the company by court judgment;
+- 3\. giving notice of the beneficial owner in accordance with Article 697*j*.
+
+<sup>5</sup>
+
+They shall be calculated:
+
+- 1\. based on the shares issued for the acquisition of the company’s own shares;
+- 2\. based on the participation certificates issued for the acquisition of the company’s own participation certificates.
+
+<sup>6</sup>
+
+They shall be calculated based solely on the share capital:
+
+- 1\. for the right to convene the general meeting;
+- 2\. for the right to table agenda items and motions.
+
+[^656b-1]: Inserted by No I of the FA of 4 Oct. 1991 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### III. Legal status of the participation certificate holders
 
 ### 1. In general
 
@@ -9544,15 +9870,21 @@ The board of directors applies for the amendment to the articles of association 
 
 [^656c-1]
 
-<sup>1</sup> Participation certificate holders have no voting rights and, unless otherwise provided by the articles of association, none of the rights associated therewith.
+<sup>1</sup> Participation certificate holders have no right to vote and, unless otherwise provided by the articles of association, none of the rights associated therewith.
 
-<sup>2</sup> Rights associated with voting rights are the right to convene a general meeting, the right to attend such a meeting, the right to information, the right of inspection and the right to table motions.
+<sup>2</sup> Rights associated with the right to vote are the right to convene a general meeting, the right to attend such a meeting, the right to information, the right of inspection and the right to table agenda items and motions.[^656c-2]
 
-<sup>3</sup> Where the articles of association do not grant a participation certificate holder the right to information, the right of inspection or the right to instigate a special audit (Art. 697*a* et seq.), he may submit a written request for information, access to documents or the instigation of a special audit to the general meeting.
+<sup>3</sup> Subject to the same requirements as the shareholder, the participation certificate holder has the right to instigate a special investigation. If the articles of association do not provide for any more far-reaching rights, the participation certificate holder may submit a written request for information, access to documents or the instigation of a special investigation to the general meeting.[^656c-3]
 
 [^656c-1]: Inserted by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^656c-2]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^656c-3]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-### 2. Notice and resolutions of general meetings
+### 2. Notice of and information on resolutions of general meetings
+
+[^part3-tit26-chap1-lvlK-lvlIII-lvl2-1]
+
+[^part3-tit26-chap1-lvlK-lvlIII-lvl2-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 656d
 
@@ -9560,9 +9892,10 @@ The board of directors applies for the amendment to the articles of association 
 
 <sup>1</sup> Whenever a general meeting is convened, notice must be given to participation certificate holders together with the agenda items and the motions tabled.
 
-<sup>2</sup> Every resolution passed by the general meeting must be made available without delay at the seat of the company and in its registered branch offices for inspection by participation certificate holders. Their attention must be drawn to this in the notice relating to the meeting.
+<sup>2</sup> Any participation certificate holder may request access to the minutes within the 30 days following the general meeting.[^656d-2]
 
 [^656d-1]: Inserted by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^656d-2]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 3. Representation on the board of directors
 
@@ -9584,7 +9917,7 @@ The articles of association may grant participation certificate holders the righ
 
 <sup>1</sup> The articles of association must not place participation certificate holders at a disadvantage as against shareholders in respect of the distribution of the disposable profit and the proceeds of liquidation and subscription to new shares.
 
-<sup>2</sup> Where several share classes exist, the participation certificates must be treated as at least equivalent to the lowest ranking share class.
+<sup>2</sup> Where several classes of shares exist, the participation certificates must be treated as at least equivalent to the lowest ranking class of shares.
 
 <sup>3</sup> Amendments to the articles of association and other resolutions of the general meeting that adversely affect the position of participation certificate holders are permitted only if they also adversely affect the position of the shareholders to whom the participation certificate holders are equal in status to the same degree.
 
@@ -9606,7 +9939,11 @@ The articles of association may grant participation certificate holders the righ
 
 [^656g-1]: Inserted by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 
-### M. Dividend rights certificates
+### K. Dividend rights certificates
+
+[^part3-tit26-chap1-lvlL-1]
+
+[^part3-tit26-chap1-lvlL-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 657
 
@@ -9618,7 +9955,7 @@ The articles of association may grant participation certificate holders the righ
 
 <sup>3</sup> The dividend rights certificate must not have a nominal value; it must not be called a participation certificate or issued in exchange for a capital contribution stated as an asset in the balance sheet.
 
-<sup>4</sup> By operation of law, the beneficiaries under dividend rights certificates form a community to which the provisions governing the community of bond creditors apply *mutatis mutandis*. However, a decision to waive some or all rights under dividend rights certificates is binding only if taken by the holders of a majority of all such certificates in circulation.
+<sup>4</sup> By operation of law, the beneficiaries under dividend rights certificates form a community to which the provisions governing the community of bond creditors apply mutatis mutandis. However, a decision to waive some or all rights under dividend rights certificates is binding only if taken by the holders of a majority of all such certificates in circulation.
 
 <sup>5</sup> Dividend rights certificates may be created in favour of the company’s founder members only by means of the original articles of association.
 
@@ -9628,21 +9965,23 @@ The articles of association may grant participation certificate holders the righ
 
 [^658-1]
 
-[^658-1]: Repealed by No I of the FA of 4 Oct. 1991, with effect 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^658-1]: Repealed by No I of the FA of 4 Oct. 1991, with effect from 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 
-### N. Own shares
+### L. Own shares
 
-### I. Restrictions on acquisition
+### I. Requirements for and restrictions on acquisition
 
 #### Art. 659
 
 [^659-1]
 
-<sup>1</sup> The company may acquire its own shares only where freely disposable equity capital is available in the required amount and the combined nominal value of all such shares does not exceed 10 per cent of the share capital.
+<sup>1</sup> The company may acquire its own shares only where freely disposable equity capital is available at its acquisition value.
 
-<sup>2</sup> Where registered shares are acquired in connection with a restriction on transferability, the foregoing upper limit is 20 per cent. The company’s own shares that exceed the threshold of 10 per cent of the share capital must be sold or cancelled by means of a capital reduction within two years.
+<sup>2</sup> The acquisition by a company of its own shares is limited to 10 per cent of the share capital specified in the commercial register.
 
-[^659-1]: Amended by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+<sup>3</sup> If the acquisition is connected with a restriction on transferability or an action for dissolution, the foregoing upper limit is 20 per cent. The shares that exceed the threshold of 10 per cent must be sold or cancelled by means of a capital reduction within two years.
+
+[^659-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### II. Consequences of acquisition
 
@@ -9650,27 +9989,29 @@ The articles of association may grant participation certificate holders the righ
 
 [^659a-1]
 
-<sup>1</sup> The voting rights on the company’s own shares and the rights associated therewith are suspended.
+<sup>1</sup> If a company acquires its own shares, the right to vote and the rights associated therewith for these shares shall be suspended.
 
-<sup>2</sup> The company must set aside an amount equivalent to the cost of acquiring its own shares as a separate reserve.
+<sup>2</sup> The right to vote on the company’s own shares and the rights associated therewith shall also be suspended if the company transfers its own shares and it is agreed to take back or return the shares concerned.
 
-[^659a-1]: Inserted by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+<sup>3</sup> If the right to vote is exercised, even though it is suspended, the provisions governing unauthorised participation in the general meeting (Art. 691) apply.
 
-### III. Acquisition by subsidiaries
+<sup>4</sup> The company must indicate an amount equivalent to the cost of acquiring its own shares on its balance sheet as negative items in the equity capital (Art. 959*a* para. 2 no 3 let. e).
+
+[^659a-1]: Inserted by No I of the FA of 4 Oct. 1991 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### III. Own shares in the group
 
 #### Art. 659b
 
 [^659b-1]
 
-<sup>1</sup> Where a company holds a majority interest in a subsidiary, any acquisition of its shares by such subsidiary is subject to the same restrictions and has the same consequences as the acquisition of its own shares.
+<sup>1</sup> If a company controls one or more undertakings (Art. 963), any acquisition of its shares by such an undertaking is subject to the same restrictions and has the same consequences as the acquisition of its own shares *mutatis mutandis*.
 
-<sup>2</sup> Where a company acquires a majority interest in another company which holds shares of the acquirer, these shares are deemed the acquirer’s own shares.
+<sup>2</sup> The controlling company must show a separate amount equivalent to the acquisition value of these shares for the shares in accordance with paragraph 1 as statutory retained earnings.
 
-<sup>3</sup> The obligation to form a reserve rests with the company holding the majority interest.
+**Section Two: Rights and Obligations of Shareholders**
 
-[^659b-1]: Inserted by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-
-### Section Two: Rights and Obligations of Shareholders
+[^659b-1]: Inserted by No I of the FA of 4 Oct. 1991 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### A. Entitlement to a share of the profits and proceeds of liquidation
 
@@ -9684,7 +10025,7 @@ The articles of association may grant participation certificate holders the righ
 
 <sup>2</sup> On dissolution of the company, the shareholder is entitled to a pro rata share of the liquidation proceeds, unless otherwise provided by those articles of association that relate to the allocation of the assets of the dissolved company.
 
-<sup>3</sup> The preferential rights attaching to specific share classes stipulated in the articles of association are reserved.
+<sup>3</sup> The preferential rights attaching to specific classes of shares stipulated in the articles of association are reserved.
 
 [^660-1]: Amended by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 
@@ -9718,83 +10059,17 @@ Unless the articles of association provide otherwise, the share of the profits a
 
 [^663a663b-1]: Inserted by No I of the FA of 4 Oct. 1991 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Repealed by No I 1 of the FA of 23 Dec. 2011 (Financial Reporting Law), with effect from 1 Jan. 2013 ([AS 2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810); [BBl 2008 1589](https://fedlex.data.admin.ch/eli/fga/2008/416)).
 
-### B. Annual report
-
-[^part3-tit26-chap2-lvlB-1]
-
-[^part3-tit26-chap2-lvlB-1]: Amended by No I 1 of the FA of 23 Dec. 2011 (Financial Reporting Law), in force since 1 Jan. 2013 ([AS 2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810); [BBl 2008 1589](https://fedlex.data.admin.ch/eli/fga/2008/416)).
-
-### I. Additional information on companies with listed shares
-
-### 1. Remuneration
-
 #### Art. 663b<sup>bis</sup>
 
 [^663bbis-1]
 
-<sup>1</sup>
-
-Companies whose shares are listed on a stock exchange must provide the following additional information in the notes to the balance sheet:
-
-- 1\. all remuneration distributed directly or indirectly to current members of the board of directors;
-- 2\. all remuneration distributed directly or indirectly to persons entrusted by the board of directors with all or some of the company’s management activities (executive board);
-- 3\. all remuneration distributed directly or indirectly to current members of the board of advisors;
-- 4\. all remuneration distributed directly or indirectly to former members of the board of directors, executive board and board of advisors where such remuneration relates to past activities as a governing officer of the company or is not customary market practice;
-- 5\. all remuneration distributed directly or indirectly to close associates of the persons specified in numbers 1–4 where such remuneration is not customary market practice.
-
-<sup>2</sup>
-
-In particular, the following are deemed to be remuneration:
-
-- 1\. fees, salaries, bonuses and account credits;
-- 2\. shares of profits paid to board members and commissions, participation in turnover and other forms of participation in the business results;
-- 3\. benefits in kind;
-- 4\. allocations of shares and conversion and option rights;
-- 5\. severance payments;
-- 6\. guarantee and pledge commitments in favour of third parties and other collateral commitments;
-- 7\. waivers of claims;
-- 8\. expenditures giving rise to or increasing occupational benefit entitlements;
-- 9\. all payments and benefits for additional work.
-
-<sup>3</sup>
-
-The following must also be stated in the notes to the balance sheet:
-
-- 1\. all loans and credit facilities extended to the current members of the board of directors, executive board and board of advisors that are still outstanding;
-- 2\. loans and credit facilities to former members of the board of directors, executive board and board of advisors that were extended on conditions other than the customary market conditions and are still outstanding;
-- 3\. all loans and credit facilities to close associates of the persons specified in numbers 1 and 2 that were extended on conditions other than the customary market conditions and are still outstanding.
-
-<sup>4</sup>
-
-The information provided on remuneration and credit must include:
-
-- 1\. the amount for the board of directors as a whole and the amount for each member, specifying the name and function of the member concerned;
-- 2\. the amount for the executive board as a whole and the highest amount for each member, specifying the name and function of the member concerned;
-- 3\. the total amount for the board of advisors as a whole and the amount for each member, specifying the name and function of the member concerned.
-
-<sup>5</sup> Remuneration and credits to close associates must be shown separately. The names of such associates need not be given. In other respects the provisions governing information on remuneration and credit to members of the board of directors, executive board and board of advisors apply *mutatis mutandis*.
-
-[^663bbis-1]: Inserted by No I of the FA of 7 Oct. 2005 (Transparency in relation to remuneration of members of the board of directors and the executive board), in force since 1 Jan. 2007 ([AS 2006 2629](https://fedlex.data.admin.ch/eli/oc/2006/401); [BBl 2004 4471](https://fedlex.data.admin.ch/eli/fga/2004/731)).
-
-### 2. Shareholdings
-
-[^part3-tit26-chap2-lvlB-lvlI-lvl2-1]
-
-[^part3-tit26-chap2-lvlB-lvlI-lvl2-1]: Amended by No I 1 of the FA of 23 Dec. 2011 (Financial Reporting Law), in force since 1 Jan. 2013 ([AS 2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810); [BBl 2008 1589](https://fedlex.data.admin.ch/eli/fga/2008/416)).
+[^663bbis-1]: Inserted by No I of the FA of 7 Oct. 2005 (Transparency in relation to remuneration of members of the board of directors and the executive board) ([AS 2006 2629](https://fedlex.data.admin.ch/eli/oc/2006/401); [BBl 2004 4471](https://fedlex.data.admin.ch/eli/fga/2004/731)). Repealed by No I of the FA of 19 June 2020 (Company Law), with effect from 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 663c
 
 [^663c-1]
 
-<sup>1</sup> Companies whose shares[^663c-2] are listed on a stock exchange must specify the significant shareholders and their shareholdings in the notes to the balance sheet, where these are known or ought to be known.
-
-<sup>2</sup> Significant shareholders are defined as shareholders and groups of shareholders linked through voting rights who own more than 5 per cent of all voting rights. Where the articles of association provide for a lower percentage threshold for registered shares (Art. 685*d* para. 1), that threshold applies for purposes of the duty of disclosure.
-
-<sup>3</sup> Also to be indicated are the shareholdings in the company and the conversion and option rights held by each current member of the board of directors, executive board and board of advisors including those held by their close associates, specifying the name and function of the member concerned.[^663c-3]
-
-[^663c-1]: Inserted by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-[^663c-2]: Revised by the Federal Assembly Drafting Committee (Art. 33 ParlPA; [AS 1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)).
-[^663c-3]: Inserted by No I of the FA of 7 Oct. 2005 (Transparency in relation to remuneration of members of the board of directors and the executive board), in force since 1 Jan. 2007 ([AS 2006 2629](https://fedlex.data.admin.ch/eli/oc/2006/401); [BBl 2004 4471](https://fedlex.data.admin.ch/eli/fga/2004/731)).
+[^663c-1]: Inserted by No I of the FA of 4 Oct. 1991 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Repealed by No I of the FA of 19 June 2020 (Company Law), with effect from 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 663d–663h
 
@@ -9832,115 +10107,88 @@ The information provided on remuneration and credit must include:
 
 [^669-1]: Repealed by No I 1 of the FA of 23 Dec. 2011 (Financial Reporting Law), with effect from 1 Jan. 2013 ([AS 2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810); [BBl 2008 1589](https://fedlex.data.admin.ch/eli/fga/2008/416)).
 
-### II. Valuation, revaluation
-
-[^part3-tit26-chap2-lvlB-lvlII-1]
-
-[^part3-tit26-chap2-lvlB-lvlII-1]: Amended by No I 1 of the FA of 23 Dec. 2011 (Financial Reporting Law), in force since 1 Jan. 2013 ([AS 2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810); [BBl 2008 1589](https://fedlex.data.admin.ch/eli/fga/2008/416)).
-
 #### Art. 670
 
 [^670-1]
 
-<sup>1</sup> Where as a result of a net loss for the year the company’s capital cover falls below one-half of the share capital and the legal reserves, in order to rectify the negative net worth, the company may revalue land, buildings or equity participations whose real value has risen above their value stated at cost up to a maximum equal to one-half of the share capital and the legal reserves. The revaluation amount is stated separately as a revaluation reserve.
-
-<sup>2</sup> The revaluation is permitted only where a licensed auditor issues written confirmation for the attention of the general meeting that the revaluation complies with the relevant statutory provisions.[^670-2]
-
-[^670-1]: Amended by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-[^670-2]: Amended by No I 3 of the FA of 16 Dec. 2005 (Law on Limited Liability Companies and Amendments to the Law on Companies limited by Shares, Cooperatives, the Commercial Register and Business Names), in force since 1 Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^670-1]: Repealed by No I of the FA of 19 June 2020 (Company Law), with effect from 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### C. Reserves
 
-### I. Legal reserves
-
-### 1. General reserve
+### I. Statutory capital reserve
 
 #### Art. 671
 
 [^671-1]
 
-<sup>1</sup> Five per cent of the annual profit must be allocated to the general reserve until this equals 20 per cent of the paid-up share capital.
+<sup>1</sup>
 
-<sup>2</sup>
+The following shall be assigned to the statutory capital reserve:
 
-Even after it has reached the statutory level, the following must be allocated to the general reserve:
+- 1\. any share issue proceeds in excess of the nominal value and the issue costs;
+- 2\. the amounts paid up on forfeited shares (Art. 681 para. 2) that have been retained, unless there is a shortfall on the shares newly issued in return;
+- 3\. other contributions and advances made by holders of equity securities.
 
-- 1\. any share issue proceeds in excess of the nominal value remaining after the issue costs have been met, unless used to fund write-downs or for staff welfare purposes;
-- 2\. any amount remaining from sums paid in on forfeited shares after any shortfall on the shares issued in return has been met;
-- 3\. ten per cent of the amounts distributed as the share in the profit above and beyond payment of a dividend of 5 per cent.
+<sup>2</sup> The statutory capital reserve may be repaid to the shareholders if the statutory capital reserves and retained earnings, under deduction of any losses, exceed one half of the share capital specified in the commercial register.
 
-<sup>3</sup> To the extent it does not exceed one-half of the share capital, the general reserve may be used only to cover losses or for measures designed to sustain the company through difficult times, to prevent unemployment or to mitigate its consequences.
+<sup>3</sup> Companies whose primary purpose is to hold equity participations in other companies (holding companies) may repay the statutory capital reserve to the shareholders if the statutory capital reserves and retained earnings exceed 20 per cent of the share capital specified in the commercial register.
 
-<sup>4</sup> The provisions in para. 2 number 3 and paragraph 3 do not apply to companies whose primary purpose is to hold equity participations in other companies (holding companies).
+<sup>4</sup> The statutory retained earnings for the company’s own shares in the group (Art. 659*b*) and the statutory retained earnings from revaluations (Art. 725*c*) shall not be taken into consideration when calculating the limits in paragraphs 2 and 3.
 
-<sup>5</sup> ...[^671-2]
+[^671-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-<sup>6</sup> ...[^671-3]
+#### Art. 671a and 671b
 
-[^671-1]: Amended by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-[^671-2]: Repealed by No II 2 of the FA of 20 March 2009 on Rail Reform 2, with effect from 1 Jan. 2010 ([AS 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679)5629; [BBl 2005 2415](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2681](https://fedlex.data.admin.ch/eli/fga/2007/425)).
-[^671-3]: Repealed by Annex No II 1 of the Insurance Oversight Act of 17 Dec. 2004, with effect from 1 Jan. 2006 ([AS 2005 5269](https://fedlex.data.admin.ch/eli/oc/2005/734); [BBl 2003 3789](https://fedlex.data.admin.ch/eli/fga/2003/577)).
+[^671a671b-1]
 
-### 2. Reserve for own shares
+[^671a671b-1]: Inserted by No I of the FA of 4 Oct. 1991 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Repealed by No I of the FA of 19 June 2020 (Company Law), with effect from 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-#### Art. 671a
-
-[^671a-1]
-
-The reserve for the company's own shares may be written back in the amount of any sold or destroyed shares valued at cost.
-
-[^671a-1]: Inserted by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-
-### 3. Revaluation reserve
-
-#### Art. 671b
-
-[^671b-1]
-
-The revaluation reserve may be written back only by means of conversion into share capital, fresh write-down or disposal of the revalued assets.
-
-[^671b-1]: Inserted by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-
-### II. Reserves pursuant to the articles of association
-
-### 1. In general
+### II. Statutory retained earnings
 
 #### Art. 672
 
 [^672-1]
 
-<sup>1</sup> The articles of association may stipulate that amounts greater than 5 per cent of the annual profit are to be allocated to reserves and that the reserve must contain more than the 20 per cent of paid-up share capital required by law.
+<sup>1</sup> 5 per cent of the annual profit shall be assigned to the statutory retained earnings. If there is a loss carried forward, it must be cleared before the profit is assigned to the reserve.
 
-<sup>2</sup> They may provide for the formation of further reserves and specify the purpose and use thereof.
+<sup>2</sup> The statutory retained earnings shall be increased until, when taken together with the statutory capital reserve, they reach one half of the share capital specified in the commercial register. Holding companies must increase the statutory retained earnings until, when taken with the statutory capital reserve, they reach 20 per cent of the share capital specified in the commercial register.
 
-[^672-1]: Amended by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+<sup>3</sup> Article 671 paragraphs 2, 3 and 4 applies *mutatis mutandis* to calculating and using the statutory retained earnings.
 
-### 2. For staff welfare purposes
+[^672-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### III. Voluntary retained earnings
 
 #### Art. 673
 
 [^673-1]
 
-In particular, the articles of association may provide for reserves earmarked for the foundation and funding of welfare schemes for the company’s employees.
+<sup>1</sup> The general meeting may provide for the formation of voluntary retained earnings in the articles of association or by resolution.
 
-[^673-1]: Amended by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+<sup>2</sup> Voluntary retained earnings may only be formed if justified in order to ensure the long-term prosperity of the undertaking, taking account of the interests of all the shareholders.
 
-### III. Ratio of the share in the profit to the reserves
+<sup>3</sup> The general meeting may pass a resolution on using voluntary retained earnings, subject to the rules on offsetting losses.
+
+[^673-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### IV. Offsetting losses
 
 #### Art. 674
 
 [^674-1]
 
-<sup>1</sup> The dividend may be determined only after the allocations to reserves required by the law and the articles of association have been deducted.
+<sup>1</sup>
 
-<sup>2</sup> The general meeting may resolve on the formation of reserves which are not provided for by law or the articles of association or which go beyond the requirements thereof, provided that
+Losses must be offset in the following order against:
 
-- 1\. this is necessary for replacement purposes;
-- 2\. with a view to the long-term prosperity of the company or the desirability of a stable dividend, such reserves are justified and in the best interests of the shareholders.
+- 1\. the profit carried forward;
+- 2\. the voluntary retained earnings;
+- 3\. the statutory retained earnings;
+- 4\. the statutory capital reserve.
 
-<sup>3</sup> Similarly, the general meeting may resolve on the allocation of disposable profit to form reserves for the foundation and funding of welfare schemes for the company’s employees or for other welfare purposes even where such reserves are not provided for in the articles of association.
+<sup>2</sup> Instead of being offset against the statutory retained earnings or the statutory capital reserve, remaining losses may also be carried forward in part or in their entirety to the next annual accounts.
 
-[^674-1]: Amended by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^674-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### D. Dividends, interest before commencement of operations and shares of profits paid to board members
 
@@ -9952,9 +10200,30 @@ In particular, the articles of association may provide for reserves earmarked fo
 
 <sup>2</sup> Dividends may be paid only from the disposable profit and from reserves formed for this purpose.[^675-1]
 
-[^675-1]: Amended by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+<sup>3</sup> Dividends may only be fixed after the assignments have been made to the statutory retained earnings and the voluntary retained earnings.[^675-2]
 
-### II. Interest before commencement of operations
+[^675-1]: Amended by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^675-2]: Inserted by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### II. Interim dividends
+
+#### Art. 675a
+
+[^675a-1]
+
+<sup>1</sup> The general meeting may resolve to pay an interim dividend based on an interim account.
+
+<sup>2</sup> The external auditor must review the interim account before the general meeting passes the resolution. No audit is required if the company is not required to have its annual accounts reviewed by an external auditor in a limited audit. The audit may be dispensed with if all the shareholders agree to paying the interim dividend and the creditors’ claims are not put at risk thereby.
+
+<sup>3</sup> The provisions governing dividends apply (Art. 660 para. 1 and 3, 661, 671–674, 675 para. 2, 677, 678, 731 and 958*e*).
+
+[^675a-1]: Inserted by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### III. Interest before commencement of operations
+
+[^part3-tit26-chap1-lvlD-lvlIII-1]
+
+[^part3-tit26-chap1-lvlD-lvlIII-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 676
 
@@ -9962,7 +10231,11 @@ In particular, the articles of association may provide for reserves earmarked fo
 
 <sup>2</sup> If the company is expanded by means of an issue of new shares, the resolution concerning the capital increase may provide for a specified amount of interest to be paid on the new shares from the investment account until a precisely defined date, which must be no later than the date on which the new operational facility commences operations.
 
-### III. Shares of profits paid to board members
+### IV. Shares of profits paid to board members
+
+[^part3-tit26-chap1-lvlD-lvlIV-1]
+
+[^part3-tit26-chap1-lvlD-lvlIV-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 677
 
@@ -9972,7 +10245,7 @@ Shares of the profit may be paid to members of the board of directors only out o
 
 [^677-1]: Amended by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 
-### E. Return of benefits
+### E. Repayment of benefits
 
 ### I. In general
 
@@ -9980,17 +10253,37 @@ Shares of the profit may be paid to members of the board of directors only out o
 
 [^678-1]
 
-<sup>1</sup> Shareholders and members of the board of directors and their close associates who have unduly and in bad faith received dividends, shares of profits paid to board members, other shares of profits or interest before commencement of operations are obliged to return such benefits.
+<sup>1</sup> Shareholders, members of the board of directors, persons involved in the company’s management activities and members of the board of advisors and their close associates are required to repay any dividends, shares of profits paid to board members, other shares of profits, remuneration, interest before commencement of operations, statutory capital reserves and retained earnings or other benefits that they have unduly taken.
 
-<sup>2</sup> They are likewise obliged to return other benefits received from the company to the extent these are manifestly disproportionate to the performance rendered in return and to the company’s economic situation.
+<sup>2</sup> If the company accepts assets from such persons or if it enters into other forms of legal transaction with them, these persons shall be required to repay the assets concerned where there is an obvious discrepancy between the performance and the consideration.
 
-<sup>3</sup> The claim for restitution accrues to the company and the shareholder; the latter sues for performance to the company.
+<sup>3</sup> Article 64 applies.
 
-<sup>4</sup> The obligation to return such benefits prescribes five years after they were received.
+<sup>4</sup> The claim for repayment is that of the company and the shareholder. The shareholder’s claim is for performance to the company.
 
-[^678-1]: Amended by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+<sup>5</sup> The general meeting may resolve that the company raise an action for repayment. They may delegate the conduct of the proceedings to the board of directors or a representative.
 
-### II. Shares of profits paid to board members on insolvency
+<sup>6</sup> In the event of the company’s bankruptcy, Article 757 applies *mutatis mutandis*.
+
+[^678-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### II. Prescription
+
+#### Art. 678a
+
+[^678a-1]
+
+<sup>1</sup> The claim for repayment is subject to a prescriptive period of three years from when the company or the shareholder became aware of the matter, or in any event ten years from the claim arising. This period is suspended during a procedure for ordering a special investigation and the conduct of that investigation.
+
+<sup>2</sup> If the recipient has by their conduct committed a criminal offence, the claim for repayment prescribes at the earliest when the right to prosecute the offence becomes time-barred. If the right to prosecute can no longer become time-barred because a first instance criminal judgment has been issued, the claim prescribes at the earliest three years after notice of the judgment is given.
+
+[^678a-1]: Inserted by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### III. Shares of profits paid to board members on insolvency
+
+[^part3-tit26-chap1-lvlE-lvlIII-1]
+
+[^part3-tit26-chap1-lvlE-lvlIII-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 679
 
@@ -9998,12 +10291,12 @@ Shares of the profit may be paid to members of the board of directors only out o
 
 <sup>1</sup> Where the company is declared insolvent, the members of the board of directors must return all shares of profits paid to board members received in the three years prior to commencement of insolvency proceedings, unless they can show that the conditions for payment of such shares of profits paid to board members set out in law and the articles of association were met; in particular, they must show that the payment was based on prudent accounting.
 
-<sup>2</sup> ...[^679-2]
+<sup>2</sup> …[^679-2]
 
 [^679-1]: Amended by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-[^679-2]: Repealed by the Annex to the FA of 21 June 2013, with effect from 1 Jan. 2014 ([AS 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [BBl 2010 6455](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
+[^679-2]: Repealed by Annex of the FA of 21 June 2013, with effect from 1 Jan. 2014 ([AS 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [BBl 2010 6455](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
 
-### F. Shareholder’s duty to contribute
+### F. . Shareholder’s duty to contribute
 
 ### I. Object
 
@@ -10019,21 +10312,25 @@ Shares of the profit may be paid to members of the board of directors only out o
 
 #### Art. 681
 
-<sup>1</sup> A shareholder who fails to pay in the issue amount for his share in good time is obliged to pay default interest.
+<sup>1</sup> A shareholder who fails to pay in the issue amount for their share in good time is obliged to pay default interest.
 
-<sup>2</sup> Further, the board of directors has the power to declare that the defaulting shareholder has forfeited his rights in respect of the share subscription and any part payments already made and that his shares are forfeited and to issue new ones in their place. Where the forfeited shares have already been issued and cannot be physically obtained, such declaration of forfeiture is published in the Swiss Official Gazette of Commerce and in the form envisaged by the articles of association.
+<sup>2</sup> Further, the board[^681-1] of directors has the power to declare that the defaulting shareholder has forfeited their rights in respect of the share subscription and any part payments already made and that their shares are forfeited and to issue new ones in their place. Where the forfeited shares have already been issued and cannot be physically obtained, the declaration of forfeiture is published in the Swiss Official Gazette of Commerce and in the form provided for in the articles of association.
 
 <sup>3</sup> The articles of association may also provide that a shareholder in default also be required to pay a contractual penalty.
+
+[^681-1]: Term in accordance with No II 3 of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). This amendment has been taken into account throughout the Code.
 
 ### 2. Call for performance
 
 #### Art. 682
 
-<sup>1</sup> Where the board of directors intends to declare the defaulting shareholder in forfeit of his rights in respect of the share subscription or to require him to pay the contractual penalty provided for in the articles of association, it must make at least three calls for payment in the Swiss Official Gazette of Commerce and in the form provided for by the articles of association and set a grace period for such payment of at least one month commencing on the date on which the last call was published. The shareholder may be declared in forfeit of his rights in respect of the share subscription or required to pay the contractual penalty only if he fails to make the required payment within such grace period.
+<sup>1</sup> Where the board of directors intends to declare the defaulting shareholder in forfeit of his rights in respect of the share subscription or to require him to pay the contractual penalty provided for in the articles of association, it must make a call for payment in the Swiss Official Gazette of Commerce and in the form provided for by the articles of association and set a grace period for such payment of at least 30 days commencing on the date on which the last call was published.[^682-1] The shareholder may be declared in forfeit of his rights in respect of the share subscription or required to pay the contractual penalty only if he fails to make the required payment within such grace period.
 
 <sup>2</sup> In the case of registered shares, such publication is replaced by a registered letter sent to each shareholder entered in the share register calling for payment and setting the grace period. In this case the grace period commences on receipt of the call for payment.
 
 <sup>3</sup> The defaulting shareholder is liable to the company for the amount not covered by the contributions of the new shareholder.
+
+[^682-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### G. Issue and transfer of shares
 
@@ -10135,12 +10432,13 @@ Shares of the profit may be paid to members of the board of directors only out o
 
 <sup>1</sup> In the case of listed registered shares, the company may refuse to accept the acquirer as a shareholder only where the articles of association envisage a percentage limit on the registered shares for which an acquirer must be recognised as shareholder and such limit is exceeded.
 
-<sup>2</sup> Further, the company may refuse entry in the share register where at the company’s request the acquirer fails to declare expressly that he has acquired the shares in his own name and for his own account.
+<sup>2</sup> The company may also refuse to accept an acquirer if at the company’s request the acquirer fails to declare expressly that they have acquired the shares in their own name and for their own account, that there is no agreement to take back or return the shares concerned and that they bear the economic risk associated with the shares. The company may not refuse acceptance on the grounds that the request was made by the acquirer’s bank.[^685d-2]
 
-<sup>3</sup> Where listed[^685d-2] registered shares were acquired by inheritance, division of estate or matrimonial property law, entry of the acquirer may not be refused.
+<sup>3</sup> Where listed[^685d-3] registered shares were acquired by inheritance, division of estate or matrimonial property law, entry of the acquirer may not be refused.
 
 [^685d-1]: Inserted by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-[^685d-2]: Revised by the Federal Assembly Drafting Committee (Art. 33 ParlPA; [AS 1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)).
+[^685d-2]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^685d-3]: Revised by the Federal Assembly Drafting Committee (Art. 33 ParlPA; [AS 1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)).
 
 ### b. Duty of notification
 
@@ -10160,13 +10458,13 @@ Where listed registered shares are sold on a stock exchange, the selling bank mu
 
 <sup>1</sup> Where listed registered shares are acquired on a stock exchange, the attendant rights pass to the acquirer on transfer. Where listed registered shares are acquired off-exchange, the attendant rights pass to the acquirer as soon as he has submitted a request for recognition as shareholder to the company.
 
-<sup>2</sup> Until such recognition of the acquirer by the company, he may not exercise the voting right conferred by the shares or any other rights associated with such voting right. The acquirer is not restricted in his exercise of any other shareholder rights, in particular subscription rights.
+<sup>2</sup> Until such recognition of the acquirer by the company, he may not exercise the right to vote conferred by the shares or any other rights associated with that right to vote. The acquirer is not restricted in his exercise of any other shareholder rights, in particular subscription rights.
 
-<sup>3</sup> Acquirers not yet recognised by the company are entered as shareholders without voting rights in the share register once the rights have been transferred. The corresponding shares are deemed to be unrepresented at the general meeting.
+<sup>3</sup> Acquirers not yet recognised by the company are entered as shareholders without the right to vote in the share register once the rights have been transferred. The corresponding shares are deemed to be unrepresented at the general meeting.
 
-<sup>4</sup> Where the company’s refusal is unlawful, the company must recognise the acquirer’s voting right and the rights associated therewith from the date of the court judgment and pay the acquirer damages unless it can show that it was not at fault.
+<sup>4</sup> Where the company’s refusal is unlawful, the company must recognise the acquirer’s right to vote and the rights associated therewith from the date of the court judgment and pay the acquirer damages unless it can show that it was not at fault.
 
-[^685f-1]: Inserted by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl 1983 II 745).
+[^685f-1]: Inserted by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 
 ### d. Time limit for refusal
 
@@ -10190,15 +10488,18 @@ Where the company fails to refuse the request for recognition within 20 days, th
 
 <sup>2</sup> Entry in the share register requires documentary proof that the share was acquired for ownership or of the reasons for the usufruct thereof.
 
+<sup>2bis</sup> Companies whose shares are listed on a stock exchange shall ensure that the owners or usufructuaries may apply for entry in the share register electronically.[^686-3]
+
 <sup>3</sup> The company must certify such entry on the share certificate.
 
 <sup>4</sup> In relation to the company the shareholder or usufructuary is the person entered in the share register.
 
-<sup>5</sup> The documents on which an entry is based must be retained for ten years following the deletion of the owner or usufructuary from the share register.[^686-3]
+<sup>5</sup> The documents on which an entry is based must be retained for ten years following the deletion of the owner or usufructuary from the share register.[^686-4]
 
 [^686-1]: Amended by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-[^686-2]: Second sentence inserted by No I 2 of the FA of 12 Dec. 2014 on the Implementation of the revised recommendations 2012 of the Financial Action Task Force, in force since 1 July 2015 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
-[^686-3]: Inserted by No I 2 of the FA of 12 Dec. 2014 on the Implementation of the revised recommendations 2012 of the Financial Action Task Force, in force since 1 July 2015 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
+[^686-2]: Second sentence inserted by No I 2 of the FA of 12 Dec. 2014 on the Implementation of the 2012 revised recommendations of the Financial Action Task Force, in force since 1 July 2015 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
+[^686-3]: Inserted by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^686-4]: Inserted by No I 2 of the FA of 12 Dec. 2014 on the Implementation of the 2012 revised recommendations of the Financial Action Task Force, in force since 1 July 2015 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
 
 ### b. Deletion
 
@@ -10212,9 +10513,9 @@ After hearing the parties involved the company may delete entries in the share r
 
 ### 5. Registered shares not fully paid in
 
-[^part3-tit26-chap2-lvlH-lvlII-lvl5-1]
+[^part3-tit26-chap1-lvlH-lvlII-lvl5-1]
 
-[^part3-tit26-chap2-lvlH-lvlII-lvl5-1]: Amended by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^part3-tit26-chap1-lvlH-lvlII-lvl5-1]: Amended by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 
 #### Art. 687
 
@@ -10238,7 +10539,7 @@ After hearing the parties involved the company may delete entries in the share r
 
 ### J. Personal membership rights
 
-### I. Participation in general meetings of shareholders
+### I. Teilnahme an the general meeting
 
 ### 1. General principle
 
@@ -10246,13 +10547,14 @@ After hearing the parties involved the company may delete entries in the share r
 
 [^689-1]
 
-<sup>1</sup> The shareholder exercises his rights in the company’s affairs, such as the appointment of the governing officers, approval of the annual report and resolutions concerning allocation of the profit, at the general meeting.
+<sup>1</sup> The shareholder exercises his rights in the company’s affairs, such as the appointment of the corporate bodies, approval of the annual report and resolutions concerning allocation of the profit, at the general meeting.
 
-<sup>2</sup> He may represent his shares at the general meeting himself or may have them represented by a third party who, subject to contrary provision in the articles of association, need not be a shareholder.
+<sup>2</sup> ...[^689-2]
 
 [^689-1]: Amended by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^689-2]: Repealed by No I of the FA of 19 June 2020 (Company Law), with effect from 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-### 2. Entitlement as against the company
+### 2. Entitlement against the company
 
 #### Art. 689a
 
@@ -10260,11 +10562,18 @@ After hearing the parties involved the company may delete entries in the share r
 
 <sup>1</sup> The membership rights conferred by registered shares may be exercised by any person authorised so to do by entry in the share register or a written power of attorney issued by the shareholder.
 
-<sup>2</sup> The membership rights conferred by bearer shares may be exercised by any person who shows he is in possession of the shares by presenting them. The board of directors may direct that some other form of proof of possession be given.
+<sup>2</sup> The membership rights conferred by bearer shares may be exercised by any person who shows they are in possession of the shares by presenting them. Persons attending the general meeting must provide their name and address in order to exercise their right to vote.[^689a-2]
+
+<sup>3</sup> A person in possession of a bearer share as a result of pledge, bailment or loan may exercise the attendant membership rights only if authorised to do so by the shareholder in writing.[^689a-3]
+
+<sup>4</sup> The board of directors may permit other forms of entitlement against the company, unless the articles of association provide otherwise.[^689a-4]
 
 [^689a-1]: Inserted by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^689a-2]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^689a-3]: Inserted by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^689a-4]: Inserted by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-### 3. Representation of the shareholder
+### 3. Representation of shareholders
 
 ### a. In general
 
@@ -10272,72 +10581,112 @@ After hearing the parties involved the company may delete entries in the share r
 
 [^689b-1]
 
-<sup>1</sup> A person exercising participation rights as a representative must comply with the instructions of the represented party.
+<sup>1</sup> Shareholders may have their participation rights, in particular their right to vote, exercised by a representative of their choice.
 
-<sup>2</sup> A person in possession of a bearer share as a result of pledge, bailment or loan may exercise the attendant membership rights only if specially authorised to do so by the shareholder in writing.
+<sup>2</sup> The delegation of voting rights of corporate bodies and the delegation of voting rights to custodian banks are not permitted in the case of companies whose shares are listed on a stock exchange.
 
-[^689b-1]: Inserted by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+<sup>3</sup> If the company appoints an independent voting representative or a voting representative for a corporate body, this person is obliged to vote according to their instructions. If they have not received any instructions, they shall abstain. The board of directors shall provide forms that must be used to authorise representation and issue instructions.
 
-### b. Governing officer as representative
+<sup>4</sup> The independence of the independent voting representative must not be compromised, whether in fact or in appearance. The rules on the independence of the external auditor in the case of the ordinary audit (Art. 728 para. 2–6) apply *mutatis mutandis*.
+
+<sup>5</sup> Natural persons, legal entities or partnerships may be appointed as independent voting representatives.
+
+[^689b-1]: Inserted by No I of the FA of 4 Oct. 1991 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### b. Independent voting representative in companies whose shares are listed on a stock exchange
 
 #### Art. 689c
 
 [^689c-1]
 
-Where the company proposes a member of its governing bodies or some other associate of the company to the shareholders to represent their voting rights at a general meeting, it must simultaneously designate an independent person who may be entrusted by the shareholders with the task of representing them.
+<sup>1</sup> In companies whose shares are listed on a stock exchange, the general meeting shall appoint the independent voting representative. Their term of office ends with at the end of the next ordinary general meeting. Reappointment is possible.
 
-[^689c-1]: Inserted by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+<sup>2</sup> The general meeting may remove the independent voting representative at the end of the general meeting.
 
-### c. Custodian as representative
+<sup>3</sup> If the general meeting has not appointed an independent voting representative, the board of directors shall appoint one for the next general meeting. The articles of association may have different rules to solve this organisational deficiency.
+
+<sup>4</sup>
+
+The board of directors shall ensure that the shareholders are able in particular to:
+
+- 1\. issue the independent voting representative with instructions on any motion relating to items on the agenda tabled in the notice convening the meeting;
+- 2\. issue the independent voting representative with general instructions on unannounced motions relating to items on the agenda and on new items on the agenda in accordance with Article 704*b*.
+
+<sup>5</sup> The independent voting representative shall treat the instructions from individual shareholders as confidential until the general meeting. They may provide the company with general information on the instructions received. They shall not provide the information earlier than three working days before the general meeting and must declare to the general meeting what information they have provided to the company.
+
+<sup>6</sup> Authorisation for representation and instructions may only be issued for the forthcoming general meeting. They may also be issued electronically.
+
+[^689c-1]: Inserted by No I of the FA of 4 Oct. 1991 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### c. Independent voting representative and delegation of the voting right of corporate bodies in companies whose shares are not listed on a stock exchange
 
 #### Art. 689d
 
 [^689d-1]
 
-<sup>1</sup> Where a custodian wishes to act as representative in exercising the participation rights attaching to shares deposited with him, he asks the depositors for voting instructions prior to every general meeting.
+<sup>1</sup> The articles of association of companies whose shares are not listed on a stock exchange may provide that a shareholder may only be represented by another shareholder at the general meeting.
 
-<sup>2</sup> Where the depositors’ instructions cannot be obtained in good time, the custodian exercises their voting rights in accordance with their general instructions; in the absence of general instructions, he votes in favour of the motions proposed by the board of directors.
+<sup>2</sup> If the articles of association contain a provision to this effect, the board of directors must at the request of a shareholder designate an independent voting representative or a voting representative for a corporate body who may be instructed to exercise the participation rights.
 
-<sup>3</sup> Institutions subject to the Federal Act of 8 November 1934[^689d-2] on Banks and Savings Banks and financial institutions in accordance with the Financial Institutions Act of 15 June 2018[^689d-3] are deemed to be custodians acting as representatives.[^689d-4]
+<sup>3</sup> The board of directors must in this case inform the shareholders at the latest ten days before the general meeting whom they may instruct as their representative. If the board of directors fails to comply with this duty, a shareholder may be represented by any third party. The articles of association shall regulate the details for designating the representative.
 
-[^689d-1]: Inserted by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-[^689d-2]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^689d-3]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
-[^689d-4]: Amended by Annex No II 1 of the Financial Institutions Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+<sup>4</sup> Article 689*c* paragraph 4 applies to the delegation of voting rights both to an independent voting representative and to a voting representative for corporate bodies.
 
-### d. Disclosure
+[^689d-1]: Inserted by No I of the FA of 4 Oct. 1991 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### d. Delegation of voting rights to custodian banks in companies whose shares are not listed on a stock exchange
 
 #### Art. 689e
 
 [^689e-1]
 
-<sup>1</sup> Governing officers, independent representatives of voting rights and custodians acting as representatives inform the company of the number, type, nominal value and class of the shares they represent. Failure to disclose such information renders the resolutions of the general meeting subject to challenge on the same conditions as apply to unauthorised participation in the general meeting.
+<sup>1</sup> In the case of a company whose shares are not listed on a stock exchange, any person who wishes to exercise the right to vote attached to shares deposited with them shall ask the depositors for voting instructions prior to every general meeting.
 
-<sup>2</sup> The chairman gives the general meeting the information as aggregates for each form of representation. If he fails to do so even though a shareholder has requested it, any shareholder may challenge the resolutions of the general meeting by bringing action against the company.
+<sup>2</sup> Where the depositors’ instructions cannot be obtained in good time, the custodian exercises their right to vote in accordance with their general instructions; if they do not have any instructions, they shall abstain.
 
-[^689e-1]: Inserted by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+<sup>3</sup> Institutions subject to the Federal Act of 8 November 1934[^689e-2] on Banks and Savings Banks and financial institutions in accordance with the Financial Institutions Act of 15 June 2018[^689e-3] are deemed to be custodians acting as representatives.
+
+[^689e-1]: Inserted by No I of the FA of 4 Oct. 1991 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^689e-2]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^689e-3]: [SR 954.1](https://fedlex.data.admin.ch/eli/cc/2018/801)
+
+### e. Disclosure
+
+#### Art. 689f
+
+[^689f-1]
+
+<sup>1</sup> Independent voting representatives, voting representatives for a corporate body and custodians acting as voting representatives shall inform the company of the number, type, nominal value and class of the shares they represent. If they fail to do this, the resolutions of the general meeting become subject to challenge on the same conditions as apply to unauthorised participation in the general meeting (Art. 691).
+
+<sup>2</sup> The chair shall give the general meeting aggregated information for each form of representation. If the chair fails to do so even though a shareholder has requested it, any shareholder may challenge the resolutions of the general meeting by bringing an action against the company.
+
+[^689f-1]: Inserted by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 4. Multiple beneficiaries
 
-[^part3-tit26-chap2-lvlJ-lvlI-lvl4-1]
+[^part3-tit26-chap1-lvlJ-lvlI-lvl4-2]
 
-[^part3-tit26-chap2-lvlJ-lvlI-lvl4-1]: Amended by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^part3-tit26-chap1-lvlJ-lvlI-lvl4-2]: Amended by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 
 #### Art. 690
 
 <sup>1</sup> Where a share is owned collectively, the beneficiaries of the rights it confers may exercise such rights only through a joint representative.
 
-<sup>2</sup> In the case of the usufruct of a share, such rights are represented by the usufructuary; he is liable in damages to the owner for any failure to take due account of the latter’s interests when exercising them.
+<sup>2</sup> In the case of the usufruct of a share, such rights are represented by the usufructuary; the usufructuary is liable in damages to the owner for any failure to take due account of the latter’s interests when exercising them.
 
 ### II. Unauthorised participation
 
 #### Art. 691
 
-<sup>1</sup> The lending of shares for the purpose of exercising voting rights at a general meeting is forbidden if the intention in so doing is to circumvent a restriction on voting rights.
+<sup>1</sup> The lending of shares for the purpose of exercising the right to vote at a general meeting is forbidden if the intention in so doing is to circumvent a restriction on the right to vote.
 
-<sup>2</sup> Every shareholder is entitled to object to the participation of unauthorised persons to the board of directors or in the minutes of the general meeting.
+<sup>2bis</sup> Members of the board of directors and the executive board are entitled to participate in the general meeting.[^691-1]
 
-<sup>3</sup> Where persons who are not authorised to participate in the general meeting participate in a decision on a resolution, any shareholder may challenge that resolution even if he has not raised an objection, unless the company can prove that their involvement exerted no influence on the decision made.
+<sup>2</sup> Every shareholder is entitled to object to the board of directors or in the minutes of the general meeting against the participation of unauthorised persons.
+
+<sup>3</sup> Where persons who are not authorised to participate in the general meeting participate in a decision on a resolution, any shareholder may challenge that resolution even if they have not raised an objection, unless the company can prove that their involvement exerted no influence on the decision made.
+
+[^691-1]: Inserted by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### III. Voting rights at general meetings of shareholders
 
@@ -10345,180 +10694,198 @@ Where the company proposes a member of its governing bodies or some other associ
 
 #### Art. 692
 
-<sup>1</sup> The shareholders exercise their voting rights at general meetings of shareholders in proportion to the total nominal value of the shares belonging to them.
+<sup>1</sup> The shareholders shall exercise their right to vote at general meetings of shareholders in proportion to the total nominal value of the shares belonging to them.
 
 <sup>2</sup> Every shareholder has at least one vote, even if he holds only one share. However, the articles of association may impose restrictions on the number of votes cast by holders of multiple shares.
 
-<sup>3</sup> In the event that the nominal value of the shares is reduced as part of a restructuring of the company, the voting right conferred by the original nominal value may be retained.
+<sup>3</sup> ...[^692-1]
 
-### 2. Shares with privileged voting rights
+[^692-1]: Repealed by No I of the FA of 19 June 2020 (Company Law), with effect from 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### 2. Shares with privileged right to vote
 
 #### Art. 693
 
-<sup>1</sup> The articles of association may stipulate that voting rights are determined regardless of nominal value by the number of shares belonging to each shareholder such that each share confers one vote.
+<sup>1</sup> The articles of association may stipulate that the right to vote is determined regardless of nominal value by the number of shares belonging to each shareholder, such that each share confers one vote.
 
 <sup>2</sup> In this case, shares with a lower nominal value than other shares of the same company may be issued only as registered shares and must be fully paid up. The nominal value of these other shares must not exceed ten times the nominal value of the voting shares.[^693-1]
 
 <sup>3</sup>
 
-The allocation of voting rights according to number of shares is not applicable for:
+The allocation of right to vote according to number of shares does not apply to:
 
 - 1\. the election of external auditors;
 - 2\. the appointment of experts to audit the company’s business management or parts thereof;
-- 3\. any resolution concerning the instigation of a special audit;
-- 4\. any resolution concerning the initiation of a liability action.[^693-2]
+- 3\.[^693-2] any resolution concerning the instigation of a special investigation;
+- 4\.[^693-3] any resolution concerning the raising of a liability action.[^693-4]
 
 [^693-1]: Amended by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-[^693-2]: Amended by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^693-2]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^693-3]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^693-4]: Amended by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 
-### 3. Entitlement to exercise voting right
+### 3. Entitlement to exercise right to vote
 
 #### Art. 694
 
-Voting right take effect as soon as the amount determined by law or the articles of association is paid up.
+The right to vote shall take effect as soon as the amount on the share determined by law or the articles of association is paid up.
 
-### 4. Exclusion of voting right
+### 4. Exclusion of right to vote
 
 #### Art. 695
 
-<sup>1</sup> In the case of resolutions concerning the discharge of the board of directors, persons who have participated in any manner in the management of the company’s business have no voting rights.
+<sup>1</sup> In the case of resolutions concerning the discharge of the board of directors, persons who have participated in any manner in the management of the company’s business have no right to vote.
 
-<sup>2</sup> ...[^695-1]
+<sup>2</sup> …[^695-1]
 
 [^695-1]: Repealed by No I 3 of the FA of 16 Dec. 2005 (Law on Limited Liability Companies and Amendments to the Law on Companies limited by Shares, Cooperatives, the Commercial Register and Business Names), with effect from 1 Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
-
-### IV. Shareholders’ rights of control
-
-### 1. Availability of the annual report
 
 #### Art. 696
 
 [^696-1]
 
-<sup>1</sup> No later than 20 days prior to the ordinary general meeting, the annual report and audit report must be made available for inspection by the shareholders at the seat of the company. Any shareholder may request that a copy of these reports be sent to him without delay.
+[^696-1]: Repealed by No I of the FA of 19 June 2020 (Company Law), with effect from 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-<sup>2</sup> Registered shareholders are notified of this in writing, bearer shareholders by publication in the Swiss Official Gazette of Commerce and in the form prescribed by the articles of association.
+### IV. Right to information and to inspect
 
-<sup>3</sup> Any shareholder may request a copy of the annual report in the form approved by the general meeting and of the audit report from the company during the year following the general meeting.
-
-[^696-1]: Amended by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-
-### 2. Information and inspection
+### 1. Right to information
 
 #### Art. 697
 
 [^697-1]
 
-<sup>1</sup> At the general meeting, any shareholder is entitled to information from the board of directors on the affairs of the company and from the external auditors on the methods and results of their audit.
+<sup>1</sup> At the general meeting, any shareholder is entitled to information from the board of directors on the affairs of the company and information from the external auditors on the methods and results of their audit.
 
-<sup>2</sup> The information must be given to the extent required for the proper exercise of shareholders’ rights. It may be refused where providing it would jeopardise the company’s trade secrets or other interests warranting protection.
+<sup>2</sup> In companies whose shares are not listed on a stock exchange, shareholders who together represent at least 10 per cent of the share capital or of the votes may request the board of directors in writing to provide information on company matters.
 
-<sup>3</sup> The company ledgers and business correspondence may be inspected only with the express authorisation of the general meeting or by resolution of the board of directors and only if measures are taken to safeguard trade secrets.
+<sup>3</sup> The board of directors shall provide the information within four months. The answers of the board of directors shall also be made available for inspection by the shareholders at the latest at the next general meeting.
 
-<sup>4</sup> Where information or inspection is refused without just cause, the court may order it on application.[^697-2]
+<sup>4</sup> The information must be provided insofar as it is required for the proper exercise of shareholders’ rights and provided no trade secrets or other company interests warranting protection are put at risk. Any refusal to provide information shall be justified in writing.
 
-[^697-1]: Amended by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-[^697-2]: Amended by Annex 1 No II 5 of the Civil Procedure Code of 19 Dec. 2008, in force since 1 Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^697-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-### V. Right to instigate a special audit
-
-### 1. With approval of the general meeting
+### 2. Right to inspect
 
 #### Art. 697a
 
 [^697a-1]
 
-<sup>1</sup> Any shareholder may request the general meeting to have specific matters clarified by means of a special audit, where this is necessary for the proper exercise of shareholders’ rights and he has already exercised his right to information and inspection.
+<sup>1</sup> The company ledgers and files may be inspected by shareholders who together represent at least 5 per cent of the share capital or of the votes.
 
-<sup>2</sup> Where the general meeting adopts the motion, the company or any shareholder may apply to the court within 30 days for appointment of a special auditor.
+<sup>2</sup> The board of directors shall permit inspection within four months of receiving the request. The shareholders may take notes.
 
-[^697a-1]: Inserted by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+<sup>3</sup> Inspection must be permitted insofar as it is required for the proper exercise of shareholders’ rights and provided no trade secrets or other company interests warranting protection are put at risk. Any refusal to provide information shall be justified in writing.
 
-### 2. If motion rejected by the general meeting
+[^697a-1]: Inserted by No I of the FA of 4 Oct. 1991 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### 3. Refusal of the request for information or to inspect
 
 #### Art. 697b
 
 [^697b-1]
 
-<sup>1</sup> Where the general meeting rejects the motion, shareholders together representing at least 10 per cent of the share capital or shares with a nominal value of 2 million francs may apply to the court within three months for the appointment of a special auditor.
+Where information or inspection is wholly or partly refused or made impossible, the shareholders may within 30 days apply to the court for an order to provide the information or permit inspection.
 
-<sup>2</sup> The applicants are entitled to have a special auditor appointed where they make a prima facie case that the founder members or governing officers have violated the law or the articles of association and thereby harmed the company or the shareholders.
+[^697b-1]: Inserted by No I of the FA of 4 Oct. 1991 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-[^697b-1]: Inserted by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+### V. Right to instigate a special investigation
 
-### 3. Appointment
+### 1. With approval of the general meeting
 
 #### Art. 697c
 
 [^697c-1]
 
-<sup>1</sup> The court decides after hearing the company and the applicant.
+<sup>1</sup> Any shareholder who has already exercised their right to information or to inspect may request the general meeting to have specific matters investigated by independent experts where this is necessary for the exercise of shareholders’ rights.
 
-<sup>2</sup> If the court accepts the application, it entrusts an independent expert with the task of carrying out the audit. The court defines the scope of the audit based on the application.
+<sup>2</sup> Where the general meeting adopts the motion, the company or any shareholder may apply to the court within 30 days to appoint the experts to carry out the special investigation.
 
-<sup>3</sup> The court may also entrust the special audit to several experts jointly.
+[^697c-1]: Inserted by No I of the FA of 4 Oct. 1991 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-[^697c-1]: Inserted by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-
-### 4. Audit activities
+### 2. If the motion is rejected by the general meeting
 
 #### Art. 697d
 
 [^697d-1]
 
-<sup>1</sup> The special audit must be carried out within a reasonable period and without unnecessary disruption to the company’s business.
+<sup>1</sup>
 
-<sup>2</sup> Founder members, governing officers, agents, employees, official receivers and liquidators must provide the special auditor with information on any relevant facts. In cases of doubt, the court decides.
+Where the general meeting rejects the motion, shareholders may within three months request the court to order the special investigation, provided that together they hold at least one of the following participations:
 
-<sup>3</sup> The special auditor hears the company on the results of the special audit.
+- 1\. in the case of companies whose shares are listed on a stock exchange: 5 per cent of the share capital or of the votes;
+- 2\. in the case of companies whose shares are not listed on a stock exchange: 10 per cent of the share capital or of the votes.
 
-<sup>4</sup> He is required to preserve confidentiality.
+<sup>2</sup> The request to order a special investigation may extend to all issues that were the subject of the request for information or to inspect or that were addressed in the debate on the motion to conduct a special investigation at the general meeting, provided their answering is required in order for shareholders to exercise their rights.
 
-[^697d-1]: Inserted by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+<sup>3</sup> The court shall order the special investigation if the applicants make a *prima facie* case that the founder members or corporate bodies have violated the law or the articles of association and the violation is likely to harm the company or the shareholders.
 
-### 5. Report
+[^697d-1]: Inserted by No I of the FA of 4 Oct. 1991 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### 3. Procedure before the court
 
 #### Art. 697e
 
 [^697e-1]
 
-<sup>1</sup> The special auditor draws up a detailed report on the results of his audit, although he must safeguard trade secrets. He submits his report to the court.
+<sup>1</sup> The court shall decide after hearing the company and the shareholder who tabled the motion for a special investigation at the general meeting.
 
-<sup>2</sup> The court makes the report available to the company and at its request decides whether any passages in the report violate the company’s trade secrets or other interests warranting protection and therefore may not be presented to the applicants.
+<sup>2</sup> If the court agrees to the request, it shall appoint the independent experts to conduct the special investigation and shall outline the subject matter of the investigation.
 
-<sup>3</sup> It gives the company and the applicants the opportunity to respond to the content of the report, adapted as necessary, and to ask supplementary questions.
+[^697e-1]: Inserted by No I of the FA of 4 Oct. 1991 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-[^697e-1]: Inserted by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-
-### 6. Procedure and publication
+### 4. Conduct of the special investigation
 
 #### Art. 697f
 
 [^697f-1]
 
-<sup>1</sup> The board of directors makes the report and the responses to it available to the next general meeting.
+<sup>1</sup> The special investigation shall be conducted within a reasonable period of time and without unnecessary disruption of business operations.
 
-<sup>2</sup> Any shareholder may request a copy of the report and the responses to it from the company for one year following the general meeting.
+<sup>2</sup> Founding members, corporate bodies, agents, employees, administrators and liquidators must provide the experts with information about any matters of significance. In cases of doubt, the court decides.
 
-[^697f-1]: Inserted by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+<sup>3</sup> The experts shall hear the company on the results of the special investigation.
 
-### 7. Costs
+<sup>4</sup> They are required to preserve confidentiality.
+
+[^697f-1]: Inserted by No I of the FA of 4 Oct. 1991 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### 5. Report
 
 #### Art. 697g
 
 [^697g-1]
 
-<sup>1</sup> Where the court grants the request for the appointment of a special auditor, it orders the company to make an advance payment and bear the costs. Where justified by special circumstances, it may order the applicants to bear some or all of the costs.
+<sup>1</sup> The experts shall report in writing and in detail about the result of their investigation. If the special investigation was ordered by the court, the experts shall submit their report to the court.
 
-<sup>2</sup> Where the general meeting has approved the special audit, the company bears the costs.
+<sup>2</sup> The court shall make the report available to the company and shall at its request decide whether any passages in the report violate the company’s trade secrets or other interests warranting protection and therefore may not be presented to the applicants.
 
-[^697g-1]: Inserted by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+<sup>3</sup> It shall give the board of directors and the applicants the opportunity to respond to the content of the report, adapted as necessary, and to ask supplementary questions.
+
+[^697g-1]: Inserted by No I of the FA of 4 Oct. 1991 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### 6. Procedure and publication
 
 #### Art. 697h
 
 [^697h-1]
 
-[^697h-1]: Inserted by No I of the FA of 4 Oct. 1991 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Repealed by No I 1 of the FA of 23 Dec. 2011 (Financial Reporting Law), with effect from 1 Jan. 2013 ([AS 2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810); [BBl 2008 1589](https://fedlex.data.admin.ch/eli/fga/2008/416)).
+<sup>1</sup> The board of directors shall make the experts’ report, the board’s response and that of the applicants available to the next general meeting.
+
+<sup>2</sup> Any shareholder may at the company’s expense request a copy of the report and the responses to it from the company for one year following the general meeting.
+
+[^697h-1]: Inserted by No I of the FA of 4 Oct. 1991 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### 7. Costs of the special investigation
+
+#### Art. 697h<sup>bis</sup>
+
+[^697hbis-1]
+
+<sup>1</sup> The company shall bear the costs of the special investigation. It shall also make any advance payments of costs due.
+
+<sup>2</sup> Where justified by special circumstances, the court may order the applicants to bear some or all of the costs.
+
+[^697hbis-1]: Inserted by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 697i
 
@@ -10534,7 +10901,7 @@ Voting right take effect as soon as the amount determined by law or the articles
 
 [^697j-1]
 
-<sup>1</sup> Any person who alone or by agreement with third parties acquires shares in a company whose participation rights are not listed on a stock exchange, and thus reaches or exceeds the threshold of 25 per cent of the share capital or voting rights must within one month give notice to the company of the first name and surname and the address of the natural person for whom it is ultimately acting (the beneficial owner).
+<sup>1</sup> Any person who alone or by agreement with third parties acquires shares in a company whose participation rights are not listed on a stock exchange, and thus reaches or exceeds the threshold of 25 per cent of the share capital or right to vote must within one month give notice to the company of the first name and surname and the address of the natural person for whom it is ultimately acting (the beneficial owner).
 
 <sup>2</sup> If the shareholder is a legal entity or partnership, each natural person that controls the shareholder in analogous application of Article 963 paragraph 2 must be recorded as a beneficial owner. If there is no such person, the shareholder must give notice of this to the company.
 
@@ -10550,7 +10917,7 @@ Voting right take effect as soon as the amount determined by law or the articles
 
 [^697k-1]
 
-[^697k-1]: Inserted by No I 2 of the FA of 12 Dec. 2014 on the Implementation of the revised recommendations 2012 of the Financial Action Task Force, ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)). Repealed by No I 1 of the FA of 21 June 2019 on the Implementation of the Recommendations of the Global Forum on Transparency and the Exchange of Information for Tax Purposes, with effect from 1 May 2021 ([AS 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [BBl 2019 279](https://fedlex.data.admin.ch/eli/fga/2019/18)).
+[^697k-1]: Inserted by No I 2 of the FA of 12 Dec. 2014 on the Implementation of the revised recommendations 2012 of the Financial Action Task Force ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)). Repealed by No I 1 of the FA of 21 June 2019 on the Implementation of the Recommendations of the Global Forum on Transparency and the Exchange of Information for Tax Purposes, with effect from 1 May 2021 ([AS 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [BBl 2019 279](https://fedlex.data.admin.ch/eli/fga/2019/18)).
 
 ### II. Register of beneficial owners
 
@@ -10558,27 +10925,27 @@ Voting right take effect as soon as the amount determined by law or the articles
 
 [^697l-1]
 
-<sup>1</sup> The company shall keep a register of its beneficial owners that have been notified to the company.
+<sup>1</sup> The company shall keep a register of the beneficial owners that have been notified to the company.
 
 <sup>2</sup> This register shall contain the first name and surname and the address of the beneficial owners.
 
 <sup>3</sup> The documents on which notice under Article 697*j* are based must be retained for ten years following the person’s deletion from the register.
 
-<sup>4</sup> The register must be kept in such a manner that it can be accessed in Switzerland at any time.
+<sup>4</sup> The register must be kept in such a way that it can be accessed in Switzerland at any time.
 
 [^697l-1]: Inserted by No I 2 of the FA of 12 Dec. 2014 on the Implementation of the revised recommendations 2012 of the Financial Action Task Force ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)). Amended by No I 1 of the FA of 21 June 2019 on the Implementation of the Recommendations of the Global Forum on Transparency and the Exchange of Information for Tax Purposes, in force since 1 May 2021 ([AS 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [BBl 2019 279](https://fedlex.data.admin.ch/eli/fga/2019/18)).
 
 ### III. Failure to comply with obligations to give notice
 
-[^part3-tit26-chap2-lvlJ-lvlIII-1]
+[^part3-tit26-chap1-lvlK-lvlIII-1]
 
-[^part3-tit26-chap2-lvlJ-lvlIII-1]: Amended by No I 1 of the FA of 21 June 2019 on the Implementation of the Recommendations of the Global Forum on Transparency and the Exchange of Information for Tax Purposes, in force since 1 May 2021 ([AS 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [BBl 2019 279](https://fedlex.data.admin.ch/eli/fga/2019/18)).
+[^part3-tit26-chap1-lvlK-lvlIII-1]: Amended by No I 1 of the FA of 21 June 2019 on the Implementation of the Recommendations of the Global Forum on Transparency and the Exchange of Information for Tax Purposes, in force since 1 May 2021 ([AS 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [BBl 2019 279](https://fedlex.data.admin.ch/eli/fga/2019/18)).
 
 #### Art. 697m
 
 [^697m-1]
 
-<sup>1</sup> For as long as the shareholder fails to comply with their obligations to give notice, the membership rights conferred by the shares in respect of which notice of acquisition must be given are suspended.
+<sup>1</sup> For as long as the shareholder fails to comply with their obligations to give notice, the membership rights conferred by the shares in respect of which notice of acquisition must be given shall be suspended.
 
 <sup>2</sup> The shareholder may only exercise the property rights conferred by the shares if they have complied with their obligations to give notice.
 
@@ -10586,9 +10953,25 @@ Voting right take effect as soon as the amount determined by law or the articles
 
 <sup>4</sup> The board of directors shall ensure that no shareholders exercise their rights while in breach of their obligations to give notice.
 
-[^697m-1]: Inserted by No I 2 of the FA of 12 Dec. 2014 on the Implementation of the revised recommendations 2012 of the Financial Action Task Force, in force since 1 July 2015 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
+[^697m-1]: Inserted by No I 2 of the FA of 12 Dec. 2014 on the Implementation of the 2012 revised recommendations of the Financial Action Task Force, in force since 1 July 2015 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
 
-### Section Three: Organisation of the Company Limited by Shares
+### L. Arbitral tribunal
+
+#### Art. 697n
+
+[^697n-1]
+
+<sup>1</sup> The articles of association may provide that disputes under company law be adjudicated by an arbitral tribunal that has its seat in Switzerland. Unless the articles of association provide otherwise, the arbitration clause is binding on the company, the corporate bodies of the company, the members the corporate bodies and the shareholders.
+
+<sup>2</sup> The procedure before the arbitral tribunal is governed by the provisions of Part 3 of the Civil Procedure Code[^697n-2]; Chapter 12 of Federal Act of 18 December 1987[^697n-3] on Private International Law does not apply.
+
+<sup>3</sup> The articles of association may regulate the details, in particular by reference to arbitration regulations. They shall in any event ensure that persons who may be directly affected by the legal consequences of the arbitral award are notified of the instigation and conclusion of the proceedings and may participate in appointing the arbitral tribunal and in the proceedings as an intervening party.
+
+[^697n-1]: Inserted by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^697n-2]: [SR 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
+[^697n-3]: [SR 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
+
+### Section Three Organisation of the Company Limited by Shares
 
 ### A. The General Meeting
 
@@ -10605,58 +10988,211 @@ It has the following inalienable powers:
 - 1\. to determine and amend the articles of association;
 - 2\. to elect the members of the board of directors and the external auditors;
 - 3\.[^698-1] to approve the management report and the consolidated accounts;
-- 4\. to approve the annual accounts and resolutions on the allocation of the disposable profit, and in particular to set the dividend and the shares of profits paid to board members;
-- 5\. to discharge the members of the board of directors;
-- 6\. to pass resolutions concerning the matters reserved to the general meeting by law or the articles of association.[^698-2]
+- 4\. to approve the annual accounts and pass resolutions on the allocation of the disposable profit, and in particular to set the dividend and the shares of profits paid to board members;
+- 5\.[^698-2] to determine the interim dividend and approve the interim account required therefor;
+- 6\.[^698-3] to pass resolutions on repaying the statutory capital reserve;
+- 7\.[^698-4] to discharge the members of the board of directors;
+- 8\.[^698-5] to delist the equity securities of the company;
+- 9\.[^698-6] to pass resolutions concerning the matters reserved to the general meeting by law or the articles of association.[^698-7]
+
+<sup>3</sup>
+
+In companies whose shares are listed on a stock exchange, it has the following additional inalienable powers:
+
+- 1\. to elect the chair of the board of directors;
+- 2\. to elect the members of the remuneration committee;
+- 3\. to elect the independent voting representatives;
+- 4\. to vote on the remuneration of the board of directors, the executive board and the board of advisors.[^698-8]
 
 [^698-1]: Amended by No I 1 of the FA of 23 Dec. 2011 (Financial Reporting Law), in force since 1 Jan. 2013 ([AS 2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810); [BBl 2008 1589](https://fedlex.data.admin.ch/eli/fga/2008/416)).
-[^698-2]: Amended by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^698-2]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^698-3]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^698-4]: Inserted by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^698-5]: Inserted by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^698-6]: Inserted by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^698-7]: Amended by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^698-8]: Inserted by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-### II. Convocation and agenda items
+### II. Convening and conducting the general meeting
 
-### 1. Right and duty
-
-[^part3-tit26-chap3-lvlA-lvlII-lvl1-1]
-
-[^part3-tit26-chap3-lvlA-lvlII-lvl1-1]: Amended by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl 1983 II 745).
+### 1. Method of convening the meeting
 
 #### Art. 699
 
-<sup>1</sup> The general meeting is convened by the board of directors or, where necessary, by the external auditors.[^699-1] The liquidators and the representatives of bond creditors also have the right to convene general meetings.
+[^699-1]
 
-<sup>2</sup> The ordinary general meeting takes place every year within six months of the end of the financial year, and extraordinary general meetings are convened as and when required.
+<sup>1</sup> The general meeting shall be convened by the board of directors or, where necessary, by the external auditors. The liquidators and the representatives of bond creditors shall also have the right to convene general meetings.
 
-<sup>3</sup> A general meeting may also be convened by one or more shareholders together representing at least 10 per cent of the share capital. Shareholders together representing shares with a nominal value of 1 million francs may demand that an item be placed on the agenda. Meetings are convened and items placed on the agenda by written request, including details of agenda items and motions.[^699-2]
+<sup>2</sup> The ordinary general meeting shall be held annually within six months of the end of the financial year.
 
-<sup>4</sup> Where the board of directors fails to grant such a request within a reasonable time, the court must at the request of the applicant order that a general meeting be convened.
+<sup>3</sup>
 
-[^699-1]: Term in accordance with **No** II 2 of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl 1983 II 745). This amendment has been made throughout the Code.
-[^699-2]: Amended by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+Shareholders may request that a general meeting be convened, provided they together hold at least one of the following participations:
 
-### 2. Form
+- 1\. in the case of companies whose shares are listed on a stock exchange: 5 per cent of the share capital or of the votes;
+- 2\. in the case of other companies: 10 per cent of the share capital or of the votes.
+
+<sup>4</sup> Their request that the meeting be convened must be made in writing. The items on the agenda and motions must be included in the request.
+
+<sup>5</sup> Where the board of directors fails to grant such a request within a reasonable time, but at the most within 60 days, the requesting parties may request the court to order that the meeting be convened.
+
+[^699-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### 2. Notice of the annual report
+
+#### Art. 699a
+
+[^699a-1]
+
+<sup>1</sup> The shareholders shall be given access to the annual report and the audit reports at least 20 days before the general meeting. If the documents are not electronically accessible, any shareholder may request that they be sent to them in good time.
+
+<sup>2</sup> If the documents are not electronically accessible, any shareholder may for one year following the general meeting request that they be sent the annual report in the form approved by the general meeting together with the audit reports.
+
+[^699a-1]: Inserted by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### 3. Right to table agenda items and motions
+
+#### Art. 699b
+
+[^699b-1]
+
+<sup>1</sup>
+
+Shareholders may request that items be placed on the agenda, provided they together hold at least one of the following participations:
+
+- 1\. in companies whose shares are listed on a stock exchange: 0.5 per cent of the share capital or of the votes;
+- 2\. in other companies: 5 per cent of the share capital or of the votes.
+
+<sup>2</sup> Subject to the same requirements, the shareholders may request that motions relating to items on the agenda be included in the notice convening the general meeting.
+
+<sup>3</sup> Shareholders may submit a brief explanation when placing an item on the agenda or tabling a motion. This must be included in the notice convening the general meeting.
+
+<sup>4</sup> If the board of directors refuses to accept a request, the requesting parties may request the court to order that items be placed on the agenda or that motions and related explanations be included in the notice convening the general meeting.
+
+<sup>5</sup> At the general meeting, any shareholder may table motions in relation to the items on the agenda.
+
+[^699b-1]: Inserted by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### 4. Content of the notice convening the meeting
 
 #### Art. 700
 
 [^700-1]
 
-<sup>1</sup> Notice convening the general meeting must be given no later than 20 days before the date for which it is scheduled in the form prescribed by the articles of association.
+<sup>1</sup> The board of directors shall notify the shareholders that a general meeting is to be convened at least 20 days before the day of the meeting.
 
-<sup>2</sup> The notice convening the meeting must include the agenda items and the motions of the board of directors and the shareholders who have requested that a general meeting be called or an item be placed on the agenda.
+<sup>2</sup>
 
-<sup>3</sup> No resolutions may be made on motions relating to agenda items that were not duly notified; exceptions to this are motions to convene an extraordinary general meeting or to carry out a special audit and to appoint an auditor at the request of a shareholder.[^700-2].
+The following information must be included in the notice convening the meeting:
 
-<sup>4</sup> No advance notice is required to propose motions on duly notified agenda items and to debate items without passing resolutions.
+- 1\. the date, the starting time, the form and the location of the general meeting;
+- 2\. the business to be discussed;
+- 3\. the motions of the board of directors and, in the case of companies whose shares are listed on a stock exchange, a short explanation for these motions;
+- 4\. if applicable, the shareholders’ motions with a short explanation of each;
+- 5\. if applicable, the name and the address of the independent voting representative.
 
-[^700-1]: Amended by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-[^700-2]: Amended by No I 3 of the FA of 16 Dec. 2005 (Law on Limited Liability Companies and Amendments to the Law on Companies limited by Shares, Cooperatives, the Commercial Register and Business Names), in force since 1 Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+<sup>3</sup> The board of directors shall ensure that the items on the agenda meet the requirement of unity of subject matter, and shall provide the general meeting with all the information that it requires to decide on its resolutions.
 
-### 3. Universal meeting
+<sup>4</sup> It may present the items on the agenda in the notice convening the meeting in summary form, provided it makes more detailed information available to the shareholders in another way.
+
+[^700-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### 5. Universal meeting and consent to a motion
 
 #### Art. 701
 
-<sup>1</sup> The owners or representatives of all the company’s shares may, if no objection is raised, hold a general meeting without complying with the formal requirements for convening meetings.
+[^701-1]
 
-<sup>2</sup> This meeting may hold validly discuss and pass binding resolutions on all matters within the remit of the general meeting, provided that the owners or representatives of all the shares are present.
+<sup>1</sup> The owners or representatives of all the company’s shares may, if no objection is raised, hold a general meeting without complying with the applicable regulations on convening meetings.
+
+<sup>2</sup> This meeting may validly discuss and pass binding resolutions on all matters within the remit of the general meeting, provided that the owners or representatives of all the shares participate.
+
+<sup>3</sup> A general meeting may also be held without complying with the applicable regulations on convening meetings if the resolutions are decided in writing on paper or electronically, unless a shareholder or their representative requests an oral debate.
+
+[^701-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### 6. Venue
+
+### a. In general
+
+#### Art. 701a
+
+[^701a-1]
+
+<sup>1</sup> The board of directors shall decide on the venue for the general meeting.
+
+<sup>2</sup> No shareholder shall be unduly obstructed in exercising their rights in connection with the general meeting by the choice of venue.
+
+<sup>3</sup> The general meeting may be held in various locations at the same time. In this case, the oral contributions of participants must be transmitted directly in sound and vision to all venues.
+
+[^701a-1]: Inserted by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### b. Foreign venue
+
+#### Art. 701b
+
+[^701b-1]
+
+<sup>1</sup> The general meeting may be held abroad if the articles of association so permit and the board of directors designate an independent voting representative in the notice convening the meeting.
+
+<sup>2</sup> In the case of companies whose shares are not listed on a stock exchange, the board of directors may dispense with designating an independent voting representative provided all the shareholders agree.
+
+[^701b-1]: Inserted by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### 7. Use of electronic means
+
+### a. Exercise of shareholder rights
+
+#### Art. 701c
+
+[^701c-1]
+
+The board of directors may provide that shareholders who are not present at the general meeting venue are able to exercise their rights electronically.
+
+[^701c-1]: Inserted by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### b. Virtual general meeting
+
+#### Art 701d
+
+[^701d-1]
+
+<sup>1</sup> A general meeting may be held with no venue by electronic means if the articles of association so permit and the board of directors designate an independent voting representative in the notice convening the meeting.
+
+<sup>2</sup> In the case of companies whose shares are not listed on a stock exchange, the articles of association may provide that the designation of an independent voting representative be dispensed with.
+
+[^701d-1]: Inserted by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### c. Requirements for the use of electronic means
+
+#### Art. 701e
+
+[^701e-1]
+
+<sup>1</sup> The board of directors shall regulate the use of electronic means.
+
+<sup>2</sup>
+
+It shall ensure that:
+
+- 1\. the identity of the participants is established;
+- 2\. the oral contributions at the general meeting are directly transmitted;
+- 3\. each participant can table motions and participate in the debate;
+- 4\. the result of the vote cannot be falsified.
+
+[^701e-1]: Inserted by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### d. Technical problems
+
+#### Art. 701f
+
+[^701f-1]
+
+<sup>1</sup> If technical problems arise during the general meeting, with the result that the general meeting cannot be duly conducted, the meeting must be held again.
+
+<sup>2</sup> Resolutions that the general meeting has passed before the technical problems arise remain valid.
+
+[^701f-1]: Inserted by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### III. Preparatory measures; minutes
 
@@ -10664,42 +11200,56 @@ It has the following inalienable powers:
 
 [^702-1]
 
-<sup>1</sup> The board of directors takes the necessary measures to determine voting rights.
+<sup>1</sup> The board of directors shall take the measures required to determine who has the right to vote.
 
 <sup>2</sup>
 
-It ensures that minutes are kept. These record:
+It shall ensure that minutes are kept. These record:
 
-- 1\. the number, type, nominal value and class of shares represented by the shareholders, governing officers, independent voting right representatives and custodians acting as representatives;
-- 2\. the resolutions and results of the elections;
-- 3\. the requests for information and the answers given in reply;
-- 4\. the statements made by shareholders for the record.
+- 1\. the date, the starting and end times, the form and the venue of the general meeting;
+- 2\. the number, the type, the nominal value and the class of shares represented, with details of the shares represented by the independent voting representative, by voting representatives for corporate bodies and by custodians acting as representatives;
+- 3\. the resolutions and results of the elections;
+- 4\. the requests for information made at the general meeting and the answers given in reply;
+- 5\. the statements made by shareholders for the record;
+- 6\. any significant technical problems that arise during the general meeting.[^702-2]
 
-<sup>3</sup> The shareholders are entitled to inspect the minutes.
+<sup>3</sup> The minutes must be signed by the minute-taker and by the person chairing the general meeting.[^702-3]
 
-[^702-1]: Amended by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+<sup>4</sup> Any shareholder may request access to the minutes within 30 days following the general meeting.[^702-4]
 
-### IV. Participation of members of the board of directors
+<sup>5</sup> In the case of companies whose shares are listed on a stock exchange, the resolutions and the election results with details of the exact the percentage of votes for and against shall be made electronically accessible within 15 days following the general meeting.[^702-5]
+
+[^702-1]: Amended by No I of the FA of 4 Oct. 1991. in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^702-2]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^702-3]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^702-4]: Inserted by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^702-5]: Inserted by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### IV. Right of members of the board of directors and the executive board to make a statement; Right of the board of directors to table motions
 
 #### Art. 702a
 
 [^702a-1]
 
-The members of the board of directors are entitled to participate in the general meeting. They may table motions.
+<sup>1</sup> If members of the board of directors or the executive board participate in the general meeting, they may make a statement on any item on the agenda.
 
-[^702a-1]: Inserted by No I 3 of the FA of 16 Dec. 2005 (Law on Limited Liability Companies and Amendments to the Law on Companies limited by Shares, Cooperatives, the Commercial Register and Business Names), in force since 1 Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+<sup>2</sup> The board of directors may table motions on any item on the agenda.
+
+[^702a-1]: Inserted by No I 3 of the FA of 16 Dec. 2005 (Law on Limited Liability Companies and Amendments to the Law on Companies limited by Shares, Cooperatives, the Commercial Register and Business Names) ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)). Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### V. Resolutions and elections
 
 ### 1. In general
 
-[^part3-tit26-chap3-lvlA-lvlV-lvl1-1]
-
-[^part3-tit26-chap3-lvlA-lvlV-lvl1-1]: Amended by No I 3 of the FA of 16 Dec. 2005 (Law on Limited Liability Companies and Amendments to the Law on Companies limited by Shares, Cooperatives, the Commercial Register and Business Names), in force since 1 Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
-
 #### Art. 703
 
-Unless otherwise provided by law or the articles of association, the general meeting passes resolutions and conducts elections by an absolute majority of the voting rights represented.
+[^703-1]
+
+<sup>1</sup> Unless otherwise provided by law or the articles of association, the general meeting shall pass resolutions and conduct elections by a majority of the shares bearing voting rights represented.
+
+<sup>2</sup> The articles of association may provide that in the event of a tie, the person chairing the meeting has the casting vote.
+
+[^703-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 2. Important resolutions
 
@@ -10709,25 +11259,34 @@ Unless otherwise provided by law or the articles of association, the general mee
 
 <sup>1</sup>
 
-A resolution by the general meeting requires at least two-thirds of the voting rights represented and an absolute majority of the nominal value of shares represented for:
+A resolution by the general meeting requires at least two-thirds of the votes represented and a majority of the nominal value of shares represented for each of the following:
 
 - 1\. any amendment of the company’s objects;
-- 2\. the introduction of shares with preferential voting rights;
-- 3\. any restriction on the transferability of registered shares;
-- 4\.[^704-2] an authorised or contingent capital increase or the creation of reserve capital in accordance with Article 12 of the Banking Act of 8 November 1934[^704-3];
-- 5\. a capital increase funded by equity capital, against contributions in kind or to fund acquisitions in kind and the granting of special privileges;
-- 6\. any restriction or cancellation of the subscription right;
-- 7\. a relocation of the seat of the company;
-- 8\.[^704-4] the dissolution of the company
+- 2\. the consolidation of shares, unless the consent of all the shareholders concerned is required;
 
-<sup>2</sup> Provisions of the articles of association which stipulate that larger majorities than those prescribed by law are required in order to make certain resolutions may themselves be introduced only with the planned majority.
+- 3\. a capital increase from equity capital, in return for contributions in kind or by offset with a claim, and the granting of special privileges;
+- 4\. the restriction or cancellation of the subscription right;
+- 5\. the introduction of contingent capital, the introduction of a capital band or the creation of reserve capital in accordance with Article 12 of the Banking Act of 8 November 1934[^704-2];
+- 6\. the conversion of participation certificates into shares;
+- 7\. any restriction on the transferability of registered shares;
+- 8\. the introduction of shares with preferential right to vote;
+- 9\. any change in the currency of the share capital;
+- 10\. the introduction of a casting vote for the person chairing the general meeting;
+- 11\. a provision of the articles of association on holding the general meeting abroad;
+- 12\. the delisting of the equity securities of the company;
+- 13\. the relocation of the seat of the company;
+- 14\. the introduction of an arbitration clause in the articles of association;
+- 15\. dispensing with the designation of an independent voting representative for conducting a virtual general meeting in the case of companies whose shares are not listed on a stock exchange;
+- 16\. the dissolution of the company.[^704-3]
 
-<sup>3</sup> Registered shareholders who did not vote in favour of a resolution to amend the company’s objects or to introduce shares with preferential voting rights are not bound by restrictions on the transferability of their shares imposed by the articles of association for six months following publication of such resolutions in the Swiss Official Gazette of Commerce.
+<sup>2</sup> Provisions of the articles of association which stipulate that larger majorities than those prescribed by law are required in order to make certain resolutions may themselves be introduced, amended or repealed only with the majority specified.[^704-4]
+
+<sup>3</sup> Registered shareholders who did not vote in favour of a resolution to amend the company’s objects or to introduce shares with preferential right to vote are not bound by restrictions on the transferability of their shares imposed by the articles of association for the six months following publication of such resolutions in the Swiss Official Gazette of Commerce.
 
 [^704-1]: Amended by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-[^704-2]: Amended by Annex No I of the FA of 30 Sept. 2011 (Securing Stability in the Financial Sector), in force since 1 March 2012 ([AS 2012 811](https://fedlex.data.admin.ch/eli/oc/2012/126); [BBl 2011 4717](https://fedlex.data.admin.ch/eli/fga/2011/762)).
-[^704-3]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
-[^704-4]: Amended by No I 3 of the FA of 16 Dec. 2005 (Law on Limited Liability Companies and Amendments to the Law on Companies limited by Shares, Cooperatives, the Commercial Register and Business Names), in force since 1 Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680).
+[^704-2]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^704-3]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^704-4]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 3. Conversion of bearer shares into registered shares
 
@@ -10735,29 +11294,41 @@ A resolution by the general meeting requires at least two-thirds of the voting r
 
 [^704a-1]
 
-The resolution of the general meeting on the conversion of bearer shares into registered shares may be passed by a majority of votes cast. The articles of association must not impede the conversion.
+The resolution of the general meeting on converting bearer shares into registered shares may be passed by a majority of votes cast. The articles of association must not impede the conversion.
 
-[^704a-1]: Inserted by No I 2 of the FA of 12 Dec. 2014 on the Implementation of the revised recommendations 2012 of the Financial Action Task Force, in force since 1 July 2015 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
+[^704a-1]: Inserted by No I 2 of the FA of 12 Dec. 2014 on the Implementation of the 2012 revised recommendations of the Financial Action Task Force, in force since 1 July 2015 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
 
-### VI. Dismissal of the board of directors and the auditors
+### 4. Notice the items on the agenda
 
-[^part3-tit26-chap3-lvlA-lvlVI-1]
+#### Art. 704b
 
-[^part3-tit26-chap3-lvlA-lvlVI-1]: Amended by No I 3 of the FA of 16 Dec. 2005 (Law on Limited Liability Companies and Amendments to the Law on Companies limited by Shares, Cooperatives, the Commercial Register and Business Names), in force since 1 Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^704b-1]
+
+No resolutions may be passed on motions relating to agenda items for which due notice has not been given; exceptions to this are motions to convene an extraordinary general meeting or to carry out a special audit and to appoint an external auditor.
+
+[^704b-1]: Inserted by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### VI. Right to remove
+
+[^part3-tit26-chap2-lvlA-lvlVI-1]
+
+[^part3-tit26-chap2-lvlA-lvlVI-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 705
 
-<sup>1</sup> The general meeting is entitled to dismiss the members of the board of directors and the external auditors and any registered attorneys or commercial agents appointed by them.
+<sup>1</sup> The general meeting may remove any persons that it has elected.[^705-1]
 
 <sup>2</sup> The claims for compensation of persons thus dismissed are reserved.
+
+[^705-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### VII. Challenging resolutions of the general meeting
 
 ### 1. Right of action and grounds
 
-[^part3-tit26-chap3-lvlA-lvlVII-lvl1-1]
+[^part3-tit26-chap2-lvlA-lvlVII-lvl1-1]
 
-[^part3-tit26-chap3-lvlA-lvlVII-lvl1-1]: Amended by No I 3 of the FA of 16 Dec. 2005 (Law on Limited Liability Companies and Amendments to the Law on Companies limited by Shares, Cooperatives, the Commercial Register and Business Names), in force since 1 Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^part3-tit26-chap2-lvlA-lvlVII-lvl1-1]: Amended by No I 3 of the FA of 16 Dec. 2005 (Law on Limited Liability Companies and Amendments to the Law on Companies limited by Shares, Cooperatives, the Commercial Register and Business Names), in force since 1 Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 
 #### Art. 706
 
@@ -10770,12 +11341,12 @@ The resolution of the general meeting on the conversion of bearer shares into re
 - 3\. give rise to the unequal treatment or disadvantaging of the shareholders in a manner not justified by the company’s objects;
 - 4\. transform the company into a non-profit organisation without the consent of all the shareholders.[^706-1]
 
-<sup>3–4</sup> ...[^706-2]
+<sup>3–4</sup> …[^706-2]
 
 <sup>5</sup> A court judgment that annuls a resolution made by the general meeting is effective for and against all the shareholders.
 
 [^706-1]: Amended by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-[^706-2]: Repealed by No I of the FA of 4 Oct. 1991, with effect 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^706-2]: Repealed by No I of the FA of 4 Oct. 1991, with effect from 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 
 ### 2. Procedure
 
@@ -10783,59 +11354,57 @@ The resolution of the general meeting on the conversion of bearer shares into re
 
 [^706a-1]
 
-<sup>1</sup> The right to challenge lapses if the action is not brought within two months of the general meeting.
+<sup>1</sup> The right to challenge shall lapse if the action is not brought within two months of the general meeting.
 
-<sup>2</sup> Where the board of directors is the claimant, the court appoints a representative for the company.
+<sup>2</sup> Where the board of directors is the claimant, the court shall appoint a representative for the company.
 
-<sup>3</sup> ...[^706a-2]
+<sup>3</sup> …[^706a-2]
 
 [^706a-1]: Inserted by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 [^706a-2]: Repealed by Annex 1 No II 5 of the Civil Procedure Code of 19 Dec. 2008, with effect from 1 Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
 ### VIII. Nullity
 
-[^part3-tit26-chap3-lvlA-lvlVIII-1]
+[^part3-tit26-chap2-lvlA-lvlVIII-1]
 
-[^part3-tit26-chap3-lvlA-lvlVIII-1]: Amended by No I 3 of the FA of 16 Dec. 2005 (Law on Limited Liability Companies and Amendments to the Law on Companies limited by Shares, Cooperatives, the Commercial Register and Business Names), in force since 1 Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^part3-tit26-chap2-lvlA-lvlVIII-1]: Amended by No I 3 of the FA of 16 Dec. 2005 (Law on Limited Liability Companies and Amendments to the Law on Companies limited by Shares, Cooperatives, the Commercial Register and Business Names), in force since 1 Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 
 #### Art. 706b
 
 [^706b-1]
 
-In particular, resolutions of the general meeting are void if they:
+In particular, resolutions of the general meeting shall be void if they:
 
-- 1\. remove or restrict the right to participate in the general meeting, the minimum voting right, the right to take legal action or other shareholder rights that are mandatory in law;
+- 1\. remove or restrict the right to participate in the general meeting, the minimum right to vote, the right to take legal action or other shareholder rights that are mandatory in law;
 - 2\. restrict the shareholders’ rights of control beyond the legally permissible degree, or
 - 3\. disregard the basic structures of the company limited by shares or the provisions on capital protection.
 
 [^706b-1]: Inserted by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 
-### B. The Board of Directors****
+### B. The Board of Directors
 
-[^part3-tit26-chap3-lvlB-1]
+[^part3-tit26-chap2-lvlB-1]
 
-[^part3-tit26-chap3-lvlB-1]: Amended by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^part3-tit26-chap2-lvlB-1]: Amended by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 
 ### I. In general
 
 ### 1. Eligibility
 
-[^part3-tit26-chap3-lvlB-lvlI-lvl1-1]
+[^part3-tit26-chap2-lvlB-lvlI-lvl1-1]
 
-[^part3-tit26-chap3-lvlB-lvlI-lvl1-1]: Amended by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^part3-tit26-chap2-lvlB-lvlI-lvl1-1]: Amended by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 
 #### Art. 707
 
 <sup>1</sup> The company’s board of directors comprises one or more members.[^707-1]
 
-<sup>2</sup> ...[^707-2]
+<sup>2</sup> …[^707-2]
 
 <sup>3</sup> Where a legal entity or commercial company holds an equity participation in the company, it is not eligible as such to serve as a member of the board of directors; however, its representative may be elected in its stead.
 
 [^707-1]: Amended by No I 3 of the FA of 16 Dec. 2005 (Law on Limited Liability Companies and Amendments to the Law on Companies limited by Shares, Cooperatives, the Commercial Register and Business Names), in force since 1 Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 [^707-2]: Repealed by No I 3 of the FA of 16 Dec. 2005 (Law on Limited Liability Companies and Amendments to the Law on Companies limited by Shares, Cooperatives, the Commercial Register and Business Names), with effect from 1 Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
-
-### 2. ...
 
 #### Art. 708
 
@@ -10843,37 +11412,35 @@ In particular, resolutions of the general meeting are void if they:
 
 [^708-1]: Repealed by No I 3 of the FA of 16 Dec. 2005 (Law on Limited Liability Companies and Amendments to the Law on Companies limited by Shares, Cooperatives, the Commercial Register and Business Names), with effect from 1 Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 
-### 3. Representation of shareholder classes and groups
+### 2. Representation of shareholder classes and groups
 
-[^part3-tit26-chap3-lvlB-lvlI-lvl3-1]
+[^part3-tit26-chap2-lvlB-lvlI-lvl2-1]
 
-[^part3-tit26-chap3-lvlB-lvlI-lvl3-1]: Amended by No I 3 of the FA of 16 Dec. 2005 (Law on Limited Liability Companies and Amendments to the Law on Companies limited by Shares, Cooperatives, the Commercial Register and Business Names), in force since 1 Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^part3-tit26-chap2-lvlB-lvlI-lvl2-1]: Amended by No I 3 of the FA of 16 Dec. 2005 (Law on Limited Liability Companies and Amendments to the Law on Companies limited by Shares, Cooperatives, the Commercial Register and Business Names), in force since 1 Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 
 #### Art. 709
 
 [^709-1]
 
-<sup>1</sup> Where two or more different share classes exist with regard to voting or property rights, the articles of association must stipulate that the shareholders of each different share class are entitled to elect at least one representative to the board of directors.
+<sup>1</sup> Where two or more different classes of shares exist with regard to voting or property rights, the articles of association must stipulate that the shareholders of each different class of shares are entitled to elect at least one representative to the board of directors.
 
 <sup>2</sup> The articles of association may contain special provisions to protect minorities or specific groups of shareholders.
 
 [^709-1]: Amended by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 
-### 4. Term of office
-
-[^part3-tit26-chap3-lvlB-lvlI-lvl4-1]
-
-[^part3-tit26-chap3-lvlB-lvlI-lvl4-1]: Amended by No I 3 of the FA of 16 Dec. 2005 (Law on Limited Liability Companies and Amendments to the Law on Companies limited by Shares, Cooperatives, the Commercial Register and Business Names), in force since 1 Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+### 3. Term of office
 
 #### Art. 710
 
 [^710-1]
 
-<sup>1</sup> The members of the board of directors are elected for a three-year term of office unless the articles of association provide otherwise. However, the term of office must not exceed six years.
+<sup>1</sup> The term of office of members of the board of directors of companies whose shares are listed on a stock exchange shall end at the latest on conclusion of the next ordinary general meeting. Members are elected individually.
 
-<sup>2</sup> Re-election is possible.
+<sup>2</sup> In the case of companies whose shares are not listed on a stock exchange, the term of office amounts to three years, unless the articles of association provide otherwise; however, the term of office must not exceed six years. Members are elected individually, unless the articles of association provide otherwise or the person chairing the general meeting issues a different order with the consent of all the shareholders represented.
 
-[^710-1]: Amended by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+<sup>3</sup> Re-election is possible.
+
+[^710-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 711
 
@@ -10883,17 +11450,21 @@ In particular, resolutions of the general meeting are void if they:
 
 ### II. Organisation
 
-### 1. Chairman and secretary
+### 1. Chair
 
 #### Art. 712
 
 [^712-1]
 
-<sup>1</sup> The board of directors appoints a chairman and a secretary. The latter need not be a member of the board of directors.
+<sup>1</sup> In the case of companies whose shares are listed on a stock exchange, the general meeting shall elect one of the members of the board of directors to be chair. The chair’s term of office ends at the latest on conclusion of the next ordinary general meeting.
 
-<sup>2</sup> The articles of association may stipulate that the chairman be elected by the general meeting.
+<sup>2</sup> In the case of companies whose shares are not listed on a stock exchange, the board of directors shall elect one of its members to be chair. The articles of association may stipulate that the chair be elected by the general meeting.
 
-[^712-1]: Amended by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+<sup>3</sup> Re-election is possible.
+
+<sup>4</sup> If the office of chair becomes vacant, the board of directors shall appoint a new chair for the remaining term of office. The articles of association may provide for different rules on remedying this organisational deficiency.
+
+[^712-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 2. Resolutions
 
@@ -10901,13 +11472,21 @@ In particular, resolutions of the general meeting are void if they:
 
 [^713-1]
 
-<sup>1</sup> The resolutions of the board of directors are made by majority of votes cast. The chairman has a casting vote, unless the articles of association provide otherwise.
+<sup>1</sup> Resolutions of the board of directors are passed by a majority of the votes cast. The chairman has a casting vote, unless the articles of association provide otherwise.
 
-<sup>2</sup> Resolutions may also be made by written consent to a proposed motion, provided no member requests that it be debated orally.
+<sup>2</sup>
 
-<sup>3</sup> Minutes are kept of the board’s discussions and resolutions and signed by the chairman and the secretary.
+The board of directors may pass its resolutions:
+
+- 1\. at a meeting that has a physical venue;
+- 2\. by using electronic means, applying Articles 701*c*–701*e* *mutatis mutandis*;
+- 3\. in writing on paper or electronically, unless a member requests that it be debated orally. If the resolution is passed electronically, no signature is required, unless the board of directors specify a different requirement in writing.[^713-2]
+
+<sup>3</sup> Minutes shall be kept of the board’s discussions and resolutions; these shall be signed by the chair and by the minute-taker.[^713-3]
 
 [^713-1]: Amended by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^713-2]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^713-3]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 3. Void resolutions
 
@@ -10925,11 +11504,11 @@ The grounds for the nullity of resolutions by the general meeting apply *mutatis
 
 [^715-1]
 
-Any member of the board of directors may request that the chairman convene a meeting without delay, but must state the reasons for his request.
+Any member of the board of directors may request that the chair convene a meeting without delay, but must state the reasons for his request.
 
 [^715-1]: Amended by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 
-### 5. Right to information and inspection
+### 5. Right to information and of inspection
 
 #### Art. 715a
 
@@ -10939,11 +11518,11 @@ Any member of the board of directors may request that the chairman convene a mee
 
 <sup>2</sup> At meetings, all members of the board of directors and all persons entrusted with managing the company’s business are obliged to give information.
 
-<sup>3</sup> Outside meetings, any member may request information from the persons entrusted with managing the company’s business concerning the company’s business performance and, with the chairman’s authorisation, specific transactions.
+<sup>3</sup> Outside meetings, any member may request information from the persons entrusted with managing the company’s business concerning the company’s business performance and, with the chair’s authorisation, specific transactions.
 
-<sup>4</sup> Where required for the performance of his duties, any member may request the chairman to have books of account and documents made available to him for inspection.
+<sup>4</sup> Where required for the performance of their duties, any member may request the chair to have books of account and documents made available to them for inspection.
 
-<sup>5</sup> If the chairman refuses a request for information, a request to be heard or an application to inspect documents, the board of directors rules on the matter.
+<sup>5</sup> If the chair refuses a request for information, a request to be heard or an application to inspect documents, the board of directors shall rule on the matter.
 
 <sup>6</sup> Rulings or resolutions of the board of directors conferring on the directors more extensive rights to obtain information or inspect documents are reserved.
 
@@ -10959,7 +11538,7 @@ Any member of the board of directors may request that the chairman convene a mee
 
 <sup>1</sup> The board of directors may pass resolutions on all matters not reserved to the general meeting by law or the articles of association.
 
-<sup>2</sup> The board of directors manages the business of the company, unless responsibility for such management has been delegated.
+<sup>2</sup> The board of directors shall manage the business of the company, unless responsibility for such management has been delegated.
 
 [^716-1]: Amended by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 
@@ -10971,20 +11550,23 @@ Any member of the board of directors may request that the chairman convene a mee
 
 <sup>1</sup>
 
-The board of directors has the following non-transferable and inalienable duties:
+The board of directors shall have the following non-transferable and inalienable duties:
 
-- 1\. the overall management of the company and the issuing of all necessary directives;
-- 2\. determination of the company’s organisation;
-- 3\. the organisation of the accounting, financial control and financial planning systems as required for management of the company;
-- 4\. the appointment and dismissal of persons entrusted with managing and representing the company;
+- 1\. the overall management of the company and issuing the required directives;
+- 2\. determining the company’s organisation;
+- 3\. organising the accounting, financial control and financial planning systems as required for management of the company;
+- 4\. appointing and dismissing persons entrusted with managing and representing the company;
 - 5\. overall supervision of the persons entrusted with managing the company, in particular with regard to compliance with the law, articles of association, operational regulations and directives;
-- 6\. compilation of the annual report[^716a-2], preparation for the general meeting and implementation of its resolutions;
-- 7\. notification of the court in the event that the company is overindebted.
+- 6\. compiling the annual report[^716a-2], preparing for the general meeting and implementing its resolutions;
+- 7\.[^716a-3] filing an application for a debt restructuring moratorium and notifying the court in the event that the company is overindebted;
+- 8\.[^716a-4] in the case of companies whose shares are listed on a stock exchange: preparing the remuneration report.
 
 <sup>2</sup> The board of directors may assign responsibility for preparing and implementing its resolutions or monitoring transactions to committees or individual members. It must ensure appropriate reporting to its members.
 
 [^716a-1]: Inserted by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 [^716a-2]: Revised by the Federal Assembly Drafting Committee (Art. 33 ParlPA; [AS 1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)).
+[^716a-3]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^716a-4]: Inserted by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 3. Delegation of business management
 
@@ -10992,15 +11574,25 @@ The board of directors has the following non-transferable and inalienable duties
 
 [^716b-1]
 
-<sup>1</sup> The articles of association may authorise the board of directors to delegate the management of all or part of the company’s business to individual members or third parties in accordance with its organisational regulations.
+<sup>1</sup> Unless the articles of association provide otherwise, the board of directors may delegate the management of all or part of the company’s business in accordance with organisational regulations to individual members or third parties (executive board).
 
-<sup>2</sup> These regulations regulate the management of the company’s business, stipulate the bodies required to carry this out, define their duties and, in particular, regulate the company’s internal reporting. On request, the board of directors issues information in writing concerning the organisation of the business management to shareholders and company creditors with a demonstrable interest warranting protection.
+<sup>2</sup> In the case of companies whose shares are listed on a stock exchange, the management of the company’s business may be delegated to individual members of the board of directors or to other natural persons. The management of the company’s assets may be delegated to natural persons or legal entities.
 
-<sup>3</sup> Where management of the company’s business has not been delegated, it is the responsibility of all the members of the board of directors.
+<sup>3</sup> The organisational regulations shall regulate the management of the company’s business, stipulate the bodies required to carry this out, define their duties and, in particular, regulate the company’s internal reporting.
 
-[^716b-1]: Inserted by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+<sup>4</sup> On request, the board of directors shall issue information in writing or electronically concerning the organisation of the business management to shareholders and company creditors with a demonstrable interest warranting protection.
+
+<sup>5</sup> Where management of the company’s business has not been delegated, it is the responsibility of all the members of the board of directors.
+
+[^716b-1]: Inserted by No I of the FA of 4 Oct. 1991 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### IV. Duty of care and loyalty
+
+### 1. In general
+
+[^part3-tit26-chap2-lvlB-lvlIV-lvl1-1]
+
+[^part3-tit26-chap2-lvlB-lvlIV-lvl1-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 717
 
@@ -11012,6 +11604,18 @@ The board of directors has the following non-transferable and inalienable duties
 
 [^717-1]: Amended by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 
+### 2. Conflicts of interest
+
+#### Art. 717a
+
+[^717a-1]
+
+<sup>1</sup> The members of the board of directors and the executive board shall inform the board of directors immediately and comprehensively of any conflicts of interest affecting them.
+
+<sup>2</sup> The board of directors shall take the measures required to safeguard the company’s interests.
+
+[^717a-1]: Inserted by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
 ### V. Representation
 
 ### 1. In general
@@ -11020,7 +11624,7 @@ The board of directors has the following non-transferable and inalienable duties
 
 [^718-1]
 
-<sup>1</sup> The board of directors represents the company externally. Unless the articles of association or the organisational regulations stipulate otherwise, every member has authority to represent the company.
+<sup>1</sup> The board of directors shall represent the company externally. Unless the articles of association or the organisational regulations stipulate otherwise, every member shall have the authority to represent the company.
 
 <sup>2</sup> The board of directors may delegate the task of representation to one or more members (managing directors) or third parties (executive officers).
 
@@ -11039,9 +11643,9 @@ The board of directors has the following non-transferable and inalienable duties
 
 <sup>1</sup> The persons with authority to represent the company may carry out any legal acts on behalf of the company that are consistent with the company’s objects.
 
-<sup>2</sup> A restriction of such authority has no effect as against bona fide third parties; any provisions governing exclusive representation of the principal place of business or a branch office or governing joint representation of the company that are entered in the commercial register are exceptions to this rule.
+<sup>2</sup> Any restriction of such authority shall have no effect against bona fide third parties; any provisions governing exclusive representation of the principal place of business or a branch office or governing joint representation of the company that are entered in the commercial register are exceptions to this rule.
 
-[^718a-1]: Inserted by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^718a-1]: Inserted by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733), [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 
 ### 3. Contracts between the company and its representative
 
@@ -11053,31 +11657,27 @@ If the company is represented in the conclusion of a contract by the person with
 
 [^718b-1]: Inserted by No I of the FA of 4 Oct. 1991 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Amended by No I 3 of the FA of 16 Dec. 2005 (Law on Limited Liability Companies and Amendments to the Law on Companies limited by Shares, Cooperatives, the Commercial Register and Business Names), in force since 1 Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 
-### 3. Signatures
+### 4. Signatures
 
-[^part3-tit26-chap3-lvlB-lvlV-lvl4-1]
+[^part3-tit26-chap2-lvlB-lvlV-lvl4-1]
 
-[^part3-tit26-chap3-lvlB-lvlV-lvl4-1]: Amended by No I 3 of the FA of 16 Dec. 2005 (Law on Limited Liability Companies and Amendments to the Law on Companies limited by Shares, Cooperatives, the Commercial Register and Business Names), in force since 1 Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), **2004** 3969969).
+[^part3-tit26-chap2-lvlB-lvlV-lvl4-1]: Amended by No I 3 of the FA of 16 Dec. 2005 (Law on Limited Liability Companies and Amendments to the Law on Companies limited by Shares, Cooperatives, the Commercial Register and Business Names), in force since 1 Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 
 #### Art. 719
 
 The persons with authority to represent the company must sign by appending their signature to the business name of the company.
 
-### 4. Registration
-
-[^part3-tit26-chap3-lvlB-lvlV-lvl5-1]
-
-[^part3-tit26-chap3-lvlB-lvlV-lvl5-1]: Amended by No I 3 of the FA of 16 Dec. 2005 (Law on Limited Liability Companies and Amendments to the Law on Companies limited by Shares, Cooperatives, the Commercial Register and Business Names), in force since 1 Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
-
 #### Art. 720
 
-The board of directors must apply to have the persons with authority to represent the company entered in the commercial register and submit an authenticated copy of the relevant resolution. They must enter their own signatures in person at the commercial registry or submit these in a duly authenticated form.
+[^720-1]
+
+[^720-1]: Repealed by No I of the FA of 19 June 2020 (Company Law), with effect from 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 5. Registered attorneys and commercial agents
 
-[^part3-tit26-chap3-lvlB-lvlV-lvl6-1]
+[^part3-tit26-chap2-lvlB-lvlV-lvl5-1]
 
-[^part3-tit26-chap3-lvlB-lvlV-lvl6-1]: Amended by No I 3 of the FA of 16 Dec. 2005 (Law on Limited Liability Companies and Amendments to the Law on Companies limited by Shares, Cooperatives, the Commercial Register and Business Names), in force since 1 Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^part3-tit26-chap2-lvlB-lvlV-lvl5-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 721
 
@@ -11089,15 +11689,15 @@ The board of directors may appoint registered attorneys and other commercial age
 
 ### VI. Directors’ and officers’ liability
 
-[^part3-tit26-chap3-lvlB-lvlVI-1]
+[^part3-tit26-chap2-lvlB-lvlVI-1]
 
-[^part3-tit26-chap3-lvlB-lvlVI-1]: Amended by No I 3 of the FA of 16 Dec. 2005 (Law on Limited Liability Companies and Amendments to the Law on Companies limited by Shares, Cooperatives, the Commercial Register and Business Names), in force since 1 Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^part3-tit26-chap2-lvlB-lvlVI-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 722
 
 [^722-1]
 
-The company is liable for any damage caused by unauthorised acts carried out in the exercise of his company function by a person with authority to represent the company or manage its business.
+The company shall be liable for any loss or damage caused by unauthorised acts carried out in the exercise of its business activities by a person authorised to manage or represent the company.
 
 [^722-1]: Amended by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 
@@ -11107,43 +11707,83 @@ The company is liable for any damage caused by unauthorised acts carried out in 
 
 [^723724-1]: Repealed by No I of the FA of 4 Oct. 1991, with effect from 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 
-### VII. Capital loss and overindebtedness
+### VII. Imminent insolvency, loss of capital and overindebtedness
 
-### 1. Duty to notify
+### 1. Imminent Insolvency
 
 #### Art. 725
 
 [^725-1]
 
-<sup>1</sup> Where the last annual balance sheet shows that one-half of the share capital and the legal reserves are no longer covered, the board of directors must without delay convene a general meeting and propose financial restructuring measures.
+<sup>1</sup> The board of directors shall monitor the solvency of the company.
 
-<sup>2</sup> Where there is good cause to suspect overindebtedness, an interim balance sheet must be drawn up and submitted to a licensed auditor for examination.[^725-2] If the interim balance sheet shows that the claims of the company’s creditors are not covered, whether the assets are appraised at going concern or liquidation values, the board of directors must notify the court unless certain company creditors subordinate their claims to those of all other company creditors to the extent of the capital deficit.
+<sup>2</sup> If the company is threatened with insolvency, the board of directors shall take measures to ensure its solvency. It shall take, where necessary, further measures to restructure the company or shall request the general meeting to approve such measures if they fall within the competence of the general meeting. It shall, if necessary, apply for a debt restructuring moratorium.
 
-<sup>3</sup> If the company does not have an auditor, the licensed auditor must comply with the reporting duties of the auditor conducting a limited audit.[^725-3]
+<sup>3</sup> The board of directors shall act with the required urgency.
 
-[^725-1]: Amended by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-[^725-2]: Amended by No I 3 of the FA of 16 Dec. 2005 (Law on Limited Liability Companies and Amendments to the Law on Companies limited by Shares, Cooperatives, the Commercial Register and Business Names), in force since 1 Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
-[^725-3]: Inserted by No I 3 of the FA of 16 Dec. 2005 (Law on Limited Liability Companies and Amendments to the Law on Companies limited by Shares, Cooperatives, the Commercial Register and Business Names), in force since 1 Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^725-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-### 2. Commencement or stay of insolvency proceedings
+### 2. Capital loss
 
 #### Art. 725a
 
 [^725a-1]
 
-<sup>1</sup> On receiving notification, the court commences insolvency proceedings. On application by the board of directors or by a creditor it may grant a stay of insolvency proceedings where there is a prospect of financial restructuring; in this case the court orders measures to preserve the company’s assets.
+<sup>1</sup> If the most recent annual accounts indicate that the assets less the liabilities no longer cover half of the sum of the share capital, the statutory capital reserve not to be repaid to the shareholders and the statutory retained earnings, the board of directors shall take measures to rectify the loss of capital. It shall take, where necessary, further measures to restructure the company or shall request the general meeting to approve such measures if they fall within the competence of the general meeting.
 
-<sup>2</sup> The court may appoint an administrative receiver and either deprive the board of directors of its power of disposal or make its resolutions conditional on the consent of the administrative receiver. It defines the duties of the administrative receiver.
+<sup>2</sup> If the company does not have an external auditor, the most recent annual accounts must also undergo a limited audit by a licensed auditor before their approval by the general meeting. The board of directors shall appoint the licensed auditor.
 
-<sup>3</sup> Public notice of the stay of insolvency proceedings is required only where necessary to protect third parties.
+<sup>3</sup> The audit requirement in paragraph 2 does not apply if the board of directors applies for a debt restructuring moratorium.
 
-[^725a-1]: Inserted by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+<sup>4</sup> The board of directors and the external auditor or the licensed auditor shall act with the required urgency.
+
+[^725a-1]: Inserted by No I of the FA of 4 Oct. 1991 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### 3.Overindebtedness
+
+#### Art. 725b
+
+[^725b-1]
+
+<sup>1</sup> If there is justified concern that the company’s liabilities are no longer covered by its assets, the board of directors shall immediately prepare an interim account at going concern values and sale values. An interim account at sale values is not required if it is assumed that the company will continue to operate and the interim account at going concern values does not indicate overindebtedness. If it is assumed that the company will not continue to operate, an interim account at sale values is sufficient.
+
+<sup>2</sup> The board of directors shall have the interim accounts audited by the external auditor or if there is no external auditor, by a licensed auditor; it shall appoint the licensed auditor.
+
+<sup>3</sup> If the company is overindebted according to the two interim accounts, the board of directors shall notify the court. The court shall open bankruptcy proceedings or proceed in accordance with Article 173*a* of the Federal Act of 11 April 1889[^725b-2] on Debt Enforcement and Bankruptcy.
+
+<sup>4</sup>
+
+Notification of the court is not required:
+
+- 1\. if the company’s creditors subordinate their claims to those of all other company creditors to the extent of the overindebtedness, provided the subordination of the amount due and the interest claims apply for the duration of the overindebtedness; or
+- 2\. provided there is a reasonable prospect that the overindebtedness can be remedied within a reasonable period, but no later than 90 days after submission of the audited interim accounts, and that the claims of the creditors are not additionally jeopardised.
+
+<sup>5</sup> If the company does not have an external auditor, the licensed auditor must comply with the reporting duties of the external auditor conducting a limited audit.
+
+<sup>6</sup> The board of directors and the external auditor or the licensed auditor shall act with the required urgency.
+
+[^725b-1]: Inserted by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^725b-2]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+
+### 4. Revaluation of immovable property and participations
+
+#### Art. 725c
+
+[^725c-1]
+
+<sup>1</sup> In order to remedy a loss of capital in accordance with Article 725*a* or overindebtedness in accordance with Article 725*b*, immovable property and participations whose true value has exceeded their acquisition or production costs may be revalued at a maximum of the true value. The amount of the revaluation shall be shown separately under the statutory retained earnings as the revaluation reserve.
+
+<sup>2</sup> Revaluation is permitted only if the external auditor or, if there is no external auditor, a licensed auditor confirms in writing that the statutory provisions have been complied with.
+
+<sup>3</sup> The revaluation reserve may only be dissolved by conversion into share or participation capital and by valuation adjustment or sale of the revalued assets.
+
+[^725c-1]: Inserted by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### VIII. Dismissal and suspension
 
-[^part3-tit26-chap3-lvlB-lvlVIII-1]
+[^part3-tit26-chap2-lvlB-lvlVIII-1]
 
-[^part3-tit26-chap3-lvlB-lvlVIII-1]: Amended by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^part3-tit26-chap2-lvlB-lvlVIII-1]: Amended by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 
 #### Art. 726
 
@@ -11153,11 +11793,11 @@ The company is liable for any damage caused by unauthorised acts carried out in 
 
 <sup>3</sup> Claims for compensation by persons dismissed or suspended are reserved.
 
-### C.**** The External Auditors
+### C. External Auditors
 
-[^part3-tit26-chap3-lvlC-1]
+[^part3-tit26-chap2-lvlC-1]
 
-[^part3-tit26-chap3-lvlC-1]: Amended by No I 1 of the FA of 16 Dec. 2005 (Law on Limited Liability Companies and Amendments to the Law on Companies limited by Shares, Cooperatives, the Commercial Register and Business Names), in force since 1 Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^part3-tit26-chap2-lvlC-1]: Amended by No I 1 of the FA of 16 Dec. 2005 (Law on Limited Liability Companies and Amendments to the Law on Companies limited by Shares, Cooperatives, the Commercial Register and Business Names), in force since 1 Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680))..
 
 ### I. Audit requirement
 
@@ -11167,55 +11807,58 @@ The company is liable for any damage caused by unauthorised acts carried out in 
 
 <sup>1</sup>
 
-The following companies must have their annual accounts and if applicable their consolidated accounts reviewed by an auditor in an ordinary audit:
+The following companies must have their annual accounts and if applicable their consolidated accounts reviewed by an external auditor in an ordinary audit:
 
 - 1\.
 
-  publicly traded companies; these are companies that:
+  Publicly traded companies; these are companies that:
 
   - a. have equity securities listed on a stock exchange,
   - b. have bonds outstanding,
   - c. contribute at least 20 per cent of the assets or of the turnover to the consolidated accounts of a company in terms of letter a or b;
 
-- 2\.[^727-1]
+- 2\. [^727-1]
 
-  companies that exceed two of the following thresholds in two successive financial years:
+  Companies that exceed two of the following thresholds in two successive financial years:
 
   - a. a balance sheet total of 20 million francs,
   - b. sales revenue of 40 million francs,
   - c. 250 full-time positions on annual average;
 
-- 3\. companies that are required to prepare consolidated accounts.
+- 3\. Companies that are required to prepare consolidated accounts.
+
+<sup>1bis</sup> If the financial reporting is not carried out in francs, in order to ascertain the values in accordance with paragraph 1 number 2, the exchange rate as at the balance sheet date shall be applied for the balance sheet total and the annual average exchange rate for the sales revenue.[^727-2]
 
 <sup>2</sup> An ordinary audit must be carried out if shareholders who represent at least 10 per cent of the share capital so request.
 
 <sup>3</sup> If the law does not require an ordinary audit of the annual accounts, the articles of association may provide or the general meeting may decide that the annual accounts be subjected to an ordinary audit.
 
 [^727-1]: Amended by No I of the FA of 17 June 2011 (Auditing Law), in force since 1 Jan. 2012 ([AS 2011 5863](https://fedlex.data.admin.ch/eli/oc/2011/808); [BBl 2008 1589](https://fedlex.data.admin.ch/eli/fga/2008/416)). See also the Transitional provision below relating to this amendment.
+[^727-2]: Inserted by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 2. Limited audit
 
 #### Art. 727a
 
-<sup>1</sup> If the requirements for an ordinary audit are not met, the company must have its annual accounts reviewed by an auditor in a limited audit.
+<sup>1</sup> If the requirements for an ordinary audit are not met, the company must have its annual accounts reviewed by an external auditor in a limited audit.
 
 <sup>2</sup> With the consent of all the shareholders, a limited audit may be dispensed with if the company does not have more than ten full-time employees on annual average.
 
 <sup>3</sup> The board of directors may request the shareholders in writing for their consent. It may set a period of at least 20 days for reply and give notice that failure to reply will be regarded as consent.
 
-<sup>4</sup> If the shareholders have dispensed with a limited audit, this also applies for subsequent years. Any shareholder has however the right, at the latest 10 days before the general meeting, to request a limited audit. In such an event, the general meeting must appoint the auditor.
+<sup>4</sup> If the shareholders have dispensed with a limited audit, this also applies for subsequent years. Any shareholder has however the right, at the latest 10 days before the general meeting, to request a limited audit. In such an event, the general meeting must appoint the external auditor.
 
-<sup>5</sup> The board of directors amends the articles of association to the extent required and applies to the commercial register for the deletion or the registration of the auditor.
+<sup>5</sup> The board of directors shall amend the articles of association to the extent required and apply to the commercial register for the deletion or the registration of the external auditor.
 
-### II. Requirements for the auditor
+### II. Requirements for the external auditor
 
 ### 1. In an ordinary audit
 
 #### Art. 727b
 
-<sup>1</sup> Publicly traded companies must appoint as an auditor an audit firm under state oversight in terms of the Auditor Oversight Act of 16 December 2005[^727b-1]. They must also arrange for audits that must be carried out in terms of the statutory provisions by a licensed auditor or a licensed audit expert to be carried out by a state supervised audit company.
+<sup>1</sup> Publicly traded companies must appoint as an external auditor an audit company under state oversight in terms of the Auditor Oversight Act of 16 December 2005[^727b-1]. They must also arrange for audits that must be carried out in terms of the statutory provisions by a licensed auditor or a licensed audit expert to be carried out by a state supervised audit company.
 
-<sup>2</sup> Other companies that are required to have an ordinary audit must appoint as auditor a licensed audit expert in terms of the Auditor Oversight Act of 16 December 2005. They must also arrange for audits that must be carried out in terms of the statutory provisions by a licensed auditor to be carried out by a licensed audit expert.
+<sup>2</sup> Other companies that are required to have an ordinary audit must appoint as external auditor a licensed audit expert in terms of the Auditor Oversight Act of 16 December 2005. They must also arrange for audits that must be carried out in terms of the statutory provisions by a licensed auditor to be carried out by a licensed audit expert.
 
 [^727b-1]: [SR 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
 
@@ -11223,17 +11866,17 @@ The following companies must have their annual accounts and if applicable their 
 
 #### Art. 727c
 
-Companies that are required to have a limited audit must appoint as auditor a licensed auditor in terms of the Auditor Oversight Act of 16 December 2005[^727c-1].
+Companies that are required to have a limited audit must appoint as external auditor a licensed auditor in terms of the Auditor Oversight Act of 16 December 2005[^727c-1].
 
 [^727c-1]: [SR 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
 
 ### III. Ordinary audit
 
-### 1. Independence of the auditor
+### 1. Independence of the external auditor
 
 #### Art. 728
 
-<sup>1</sup> The auditor must be independent and form its audit opinion objectively. Its true or apparent independence must not be adversely affected.
+<sup>1</sup> The external auditor must be independent and form its audit opinion objectively. Its true or apparent independence must not be adversely affected.
 
 <sup>2</sup>
 
@@ -11242,46 +11885,51 @@ The following are in particular not compatible with independence:
 - 1\. membership of the board of directors, any other decision-making function in the company or any employment relationship with it;
 - 2\. a direct or significant indirect participation in the share capital or a substantial claim against or debt due to the company;
 - 3\. a close relationship between the person managing the audit and a member of the board of directors, another person in a decision-making function, or a major shareholder;
-- 4\. the involvement in the accounting or the provision of any other services which give rise to a risk that the auditor will have to review its own work;
+- 4\. the involvement in the accounting or the provision of any other services which give rise to a risk that the external auditor will have to review its own work;
 - 5\. the assumption of a duty that leads to economic dependence;
-- 6\. the conclusion of a contract on non-market conditions or of a contract that establishes an interest on the part of the auditor in the result of the audit;
+- 6\. the conclusion of a contract on non-market conditions or of a contract that establishes an interest on the part of the external auditor in the result of the audit;
 - 7\. the acceptance of valuable gifts or of special privileges.
 
-<sup>3</sup> The provisions on independence apply to all persons involved in the audit. If the auditor is a partnership or a legal entity, then the provisions on independence also apply to the members of the supreme management or administrative body and to other persons with a decision-making function.
+<sup>3</sup> The provisions on independence apply to all persons involved in the audit. If the external auditor is a partnership or a legal entity, then the provisions on independence also apply to the members of the supreme management or administrative body and to other persons with a decision-making function.
 
-<sup>4</sup> Employees of the auditor that are not involved in the audit may not be members of the board of directors or exercise any other decision-making function in the company being audited.
+<sup>4</sup> Employees of the external auditor that are not involved in the audit may not be members of the board of directors or exercise any other decision-making function in the company being audited.
 
-<sup>5</sup> There is no independence if persons who do not meet the requirements of independence are closely connected to the auditor, persons involved in the audit, the members of the supreme management or administrative bodies or others persons with a decision-making function.
+<sup>5</sup> There is no independence if persons who do not meet the requirements of independence are closely associated with the external auditor, persons involved in the audit, the members of the supreme management or administrative bodies or others persons with a decision-making function.
 
-<sup>6</sup> The provisions on independence also apply to companies that are under the same management as the company being audited or the auditor.
+<sup>6</sup> The provisions on independence also apply to undertakings controlled by the company or the external auditor or that control the company or the external auditor.[^728-1]
 
-### 2. Duties of the auditor
+[^728-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-### a. Subject matter and extent of the audit
+### 2. Duties of the external auditor
+
+### a. Object and extent of the audit
 
 #### Art. 728a
 
 <sup>1</sup>
 
-The auditor examines whether:
+The external auditor shall examine whether:
 
 - 1\. the annual accounts and, if applicable, the consolidated accounts comply with the statutory provisions, the articles of association and the chosen set of financial reporting standards;
 - 2\. the motion made by the board of directors to the general meeting on the allocation of the balance sheet profit complies with the statutory provisions and the articles of association;
-- 3\. there is an internal system of control.
+- 3\. there is an internal system of control;
+- 4\.[^728a-1] in the case of companies whose shares are listed on a stock exchange, the remuneration report complies with the statutory rules and the articles of association.
 
-<sup>2</sup> The auditor takes account of the internal system of control when carrying out the audit and in determining the extent of the audit.
+<sup>2</sup> The external auditor takes account of the internal system of control when carrying out the audit and in determining the extent of the audit.
 
-<sup>3</sup> The management of the board of directors is not the subject matter of the audit carried out by the auditor.
+<sup>3</sup> The management of the board of directors is not the subject matter of the audit carried out by the external auditor.
+
+[^728a-1]: Inserted by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### b. Audit report
 
 #### Art. 728b
 
-<sup>1</sup> The auditor provides the board of directors with a comprehensive report with conclusions on the financial reporting, the internal system of control as well as the conduct and the result of the audit.
+<sup>1</sup> The external auditor provides the board of directors with a comprehensive report with conclusions on the financial reporting, the internal system of control as well as the conduct and the result of the audit.
 
 <sup>2</sup>
 
-The auditor provides the general meeting with a summary report in writing on the result of the audit. This report contains:
+The external auditor provides the general meeting with a summary report in writing on the result of the audit. This report contains:
 
 - 1\. an assessment on the result of the audit;
 - 2\. information on independence;
@@ -11290,47 +11938,51 @@ The auditor provides the general meeting with a summary report in writing on the
 
 <sup>3</sup> Both reports must be signed by the person who managed the audit.
 
-### c. Duty to notify
+### c. Duties to notify
 
 #### Art. 728c
 
-<sup>1</sup> If the auditor finds that there have been infringements of the law, the articles of association or the organisational regulations, it gives notice of this to the board of directors in writing.
+<sup>1</sup> If the external auditor finds that there have been infringements of the law, the articles of association or the organisational regulations, it shall give notice of this to the board of directors in writing.
 
 <sup>2</sup>
 
 In addition, it informs the general meeting of any infringements of the law or the articles of association, if:
 
 - 1\. these are material; or
-- 2\. the board of directors fails to take any appropriate measures on the basis of written notice given by the auditor.
+- 2\. the board of directors fails to take any appropriate measures on the basis of written notice given by the external auditor.
 
-<sup>3</sup> If the company is clearly overindebted and the board of directors fails to notify the court of this, then the auditor will notify the court.
+<sup>3</sup> If the company is clearly overindebted and the board of directors fails to notify the court of this, then the external auditor will notify the court.
 
-### IV. Limited audit (Review)
+### IV. Limited audit
 
-### 1. Independence of the auditor
+### 1. Independence of the external auditor
+
+[^part3-tit26-chap2-lvlC-lvlIV-lvl1-1]
+
+[^part3-tit26-chap2-lvlC-lvlIV-lvl1-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 729
 
-<sup>1</sup> The auditor must be independent and form its audit assessment objectively. Its true or apparent independence must not be adversely affected.
+<sup>1</sup> The external auditor must be independent and form its audit opinion objectively. Its true or apparent independence must not be adversely affected.
 
 <sup>2</sup> Involvement in the accounting and the provision of other services for the company being audited are permitted. In the event that the risk of auditing its own work arises, a reliable audit must be ensured by means of suitable organisational and staffing measures.
 
-### 2. Duties of the auditor
+### 2. Duties of the external auditor
 
-### a. Subject matter and extent of the audit
+### a. Object and extent of the audit
 
 #### Art. 729a
 
 <sup>1</sup>
 
-The auditor examines whether there are circumstances that indicate that:
+The external auditor examines whether there are circumstances that indicate that:
 
 - 1\. the annual accounts do not comply with the statutory provisions or the articles of association;
 - 2\. the motion made by the board of directors to the general meeting on the allocation of the balance sheet profit does not comply with the statutory provisions and the articles of association.
 
-<sup>2</sup> The audit is limited to conducting interviews, analytical audit activities and appropriate detailed inspections.
+<sup>2</sup> The audit shall be limited to conducting interviews, analytical audit activities and appropriate detailed inspections.
 
-<sup>3</sup> The management of the board of directors is not the subject matter of the audit carried out by the auditor.
+<sup>3</sup> The management of the board of directors is not the subject matter of the audit carried out by the external auditor.
 
 ### b. Audit report
 
@@ -11338,7 +11990,7 @@ The auditor examines whether there are circumstances that indicate that:
 
 <sup>1</sup>
 
-The auditor provides the general meeting with a summary report in writing on the result of the audit. This report contains:
+The external auditor provides the general meeting with a summary report in writing on the result of the audit. This report contains:
 
 - 1\. a reference to the limited nature of the audit;
 - 2\. an assessment on the result of the audit;
@@ -11351,47 +12003,49 @@ The auditor provides the general meeting with a summary report in writing on the
 
 #### Art. 729c
 
-If the company is obviously overindebted and the board of directors fails to notify the court, then the auditor will notify the court.
+If the company is obviously overindebted and the board of directors fails to notify the court, then the external auditor will notify the court.
 
 ### V. Common provisions
 
-### 1. Appointment of the auditor
+### 1. Appointment of the external auditor
 
 #### Art. 730
 
-<sup>1</sup> The general meeting appoints the auditor.
+<sup>1</sup> The general meeting shall appoint the external auditor.
 
 <sup>2</sup> One or more natural persons or legal entities or partnerships may be appointed.
 
-<sup>3</sup> Public audit offices or their employees may also be appointed as auditor provided they meet the requirements of this Code. The provisions on independence apply *mutatis mutandis*.
+<sup>3</sup> Public audit offices or their employees may also be appointed as external auditor provided they meet the requirements of this Code. The provisions on independence apply *mutatis mutandis*.
 
-<sup>4</sup> At least one member of the auditor must be resident in Switzerland, or have its registered office or a registered branch office in Switzerland.
+<sup>4</sup> At least one member of the external auditor must be resident in Switzerland, or have its registered office or a registered branch office in Switzerland.
 
-### 2. Term of office of the auditor
+### 2. Term of office of the external auditor
 
 #### Art. 730a
 
-<sup>1</sup> The auditor is appointed for a period of one up to three financial years. Its term of office ends on the adoption of the annual accounts for the final year. Re-appointment is possible.
+<sup>1</sup> The external auditor shall be appointed for a period of one up to three financial years. Its term of office ends on the adoption of the annual accounts for the final year. Re-appointment is possible.
 
 <sup>2</sup> In the case of an ordinary audit, the person who manages the audit may exercise his mandate for seven years at the most. He may only accept the same mandate again after an interruption of three years.
 
-<sup>3</sup> If an auditor resigns, it must notify the board of directors of the reasons; the board of directors informs the next general meeting of these reasons.
+<sup>3</sup> If an external auditor resigns, it must notify the board of directors of the reasons; the board of directors informs the next general meeting of these reasons.
 
-<sup>4</sup> The general meeting may remove an auditor at any time with immediate effect.
+<sup>4</sup> The general meeting may only remove the external auditor for good cause.[^730a-1]
+
+[^730a-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 3. Information and confidentiality
 
 #### Art. 730b
 
-<sup>1</sup> The board of directors provides the auditor with all the documents and information that it requires, in writing if so requested.
+<sup>1</sup> The board of directors shall provide the external auditor with all the documents and information that it requires, in writing if so requested.
 
-<sup>2</sup> The auditor safeguards the business secrets of the company in its assessments, unless it is required by law to disclose such information. In its reports, in submitting notices and in providing information to the general meeting, it safeguards the business secrets of the company.
+<sup>2</sup> The external auditor shall safeguard the business secrets of the company in its assessments, unless it is required by law to disclose such information. In its reports, in submitting notices and in providing information to the general meeting, it safeguards the business secrets of the company.
 
-### 4. Documentation and safekeeping of documents
+### 4. Documentation and retention
 
 #### Art. 730c
 
-<sup>1</sup> The auditor must document all audit services and keep audit reports and any other essential documents for at least ten years. It must ensure that electronic data can be made readable for the same period.
+<sup>1</sup> The external auditor must document all audit services and keep audit reports and any other essential documents for at least ten years. It must ensure that electronic data can be made readable for the same period.
 
 <sup>2</sup> The documents must make it possible to confirm compliance with the statutory provisions in an efficient manner.
 
@@ -11399,27 +12053,27 @@ If the company is obviously overindebted and the board of directors fails to not
 
 #### Art. 731
 
-1 In companies that are required to have their annual accounts and, if applicable, their consolidated accounts reviewed by an auditor, the audit report must be submitted, before the annual accounts and the consolidated accounts are approved at the general meeting, and a resolution is passed on the allocation of the balance sheet profit.
+<sup>1</sup> In companies that are required to have their annual accounts and, if applicable, their consolidated accounts reviewed by an external auditor, the audit report must be submitted before the annual accounts and the consolidated accounts are approved at the general meeting and a resolution is passed on the allocation of the balance sheet profit.
 
-<sup>2</sup> If an ordinary audit is carried out, the auditor must be present at the general meeting. The general meeting may waive the presence of the auditor by unanimous resolution.
+<sup>2</sup> If an ordinary audit is carried out, the external auditor must be present at the general meeting. The general meeting may waive the presence of the external auditor by unanimous resolution.
 
-<sup>3</sup> If the required audit report is not submitted, the resolutions on the approval of the annual accounts and the consolidated accounts as well as on the allocation of the balance sheet profit are null and void. If the provisions on the presence of the auditor are infringed, these resolutions may be challenged.
+<sup>3</sup> If the required audit report is not submitted, the resolutions on the approval of the annual accounts and the consolidated accounts and on the allocation of the balance sheet profit are null and void. If the provisions on the presence of the external auditor are infringed, these resolutions may be challenged.
 
 ### 6. Special provisions
 
 #### Art. 731a
 
-<sup>1</sup> The articles of association and the general meeting may specify details on the organisation of the auditor in more detail and expand its range of duties.
+<sup>1</sup> The articles of association and the general meeting may specify details on the organisation of the external auditor in more detail and expand its range of duties.
 
-<sup>2</sup> The auditor may not be assigned duties of the board of directors, or duties that adversely affect its independence.
+<sup>2</sup> The external auditor may not be assigned duties of the board of directors, or duties that adversely affect its independence.
 
 <sup>3</sup> The general meeting may appoint experts to audit the management or individual aspects thereof.
 
-### D.**** Defects in the Organisation of the Company
+### D. Defects in the Organisation of the Company
 
-[^part3-tit26-chap3-lvlD-1]
+[^part3-tit26-chap2-lvlD-1]
 
-[^part3-tit26-chap3-lvlD-1]: Inserted by No I 3 of the FA of 16 Dec. 2005 (Law on Limited Liability Companies and Amendments to the Law on Companies limited by Shares, Cooperatives, the Commercial Register and Business Names), in force since 1 Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^part3-tit26-chap2-lvlD-1]: Inserted by No I 3 of the FA of 16 Dec. 2005 (Law on Limited Liability Companies and Amendments to the Law on Companies limited by Shares, Cooperatives, the Commercial Register and Business Names), in force since 1 Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 
 #### Art. 731b
 
@@ -11428,9 +12082,9 @@ If the company is obviously overindebted and the board of directors fails to not
 Any shareholder or creditor may request the court to take the required measures if a company has any of the following organisational defects:
 
 - 1\. The company lacks any of the required corporate bodies.
-- 2\. A required corporate body of the company is not composed correctly.
+- 2\. A required corporate body is not composed correctly.
 - 3\. The company is not keeping the share register or the register of its reported beneficial owners in accordance with the regulations.
-- 4\. The company has issued bearer shares without having equity securities listed on a stock exchange or organising the bearer shares as intermediated securities
+- 4\. The company has issued bearer shares without having equity securities listed on a stock exchange or organising the bearer shares as intermediated securities.
 - 5\. The company is no longer legally domiciled at its seat.[^731b-1]
 
 <sup>1bis</sup>
@@ -11441,7 +12095,7 @@ The court may in particular:
 - 2\. appoint the required corporate body or an administrator;
 - 3\. dissolve the company and order its liquidation according to the regulations on insolvency proceedings.[^731b-2]
 
-<sup>2</sup> If the court appoints the required corporate body or an administrator, it determines the duration for which the appointment is valid. It requires the company to bear the costs and to make an advance payment to the appointed persons.
+<sup>2</sup> If the court appoints the required corporate body or an administrator, it determines the duration for which the appointment is valid. It shall requires the company to bear the costs and to make an advance payment to the appointed persons.
 
 <sup>3</sup> If there is good cause, the company may request the court to remove the persons the court has appointed.
 
@@ -11451,65 +12105,128 @@ The court may in particular:
 [^731b-2]: Inserted by No I 1 of the FA of 21 June 2019 on the Implementation of the Recommendations of the Global Forum on Transparency and the Exchange of Information for Tax Purposes, in force since 1 Nov. 2019 ([AS 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [BBl 2019 279](https://fedlex.data.admin.ch/eli/fga/2019/18)).
 [^731b-3]: Inserted by No I 2 of the FA of 17 March 2017 (Commercial Register Law), in force since 1 Jan. 2021 ([AS 2020 957](https://fedlex.data.admin.ch/eli/oc/2020/178); [BBl 2015 3617](https://fedlex.data.admin.ch/eli/fga/2015/956)).
 
-### Section Four: Reduction of the Share Capital
+### Section Four: Remuneration in Companies whose Shares are Listed on a Stock Exchange
 
-### A. Resolution to reduce the capital
+[^part3-tit26-chap3-1]
+
+[^part3-tit26-chap3-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023, Art. 734*f* in force since 1 Jan. 2021 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### A. Scope of application
 
 #### Art. 732
 
-<sup>1</sup> Where a company limited by shares intends to reduce its share capital without simultaneously replacing the decrease with new, fully paid-up capital, the general meeting must pass a resolution to amend the articles of association accordingly.
+<sup>1</sup> The provisions of this section apply to companies whose shares are listed on a stock exchange.
 
-<sup>2</sup> The resolution may be adopted only where it has been ascertained by means of a special audit report that the claims of the company’s creditors are fully covered despite the reduction in the share capital. The audit report must be prepared by a licensed audit expert. The licensed audit expert must be present at the general meeting which adopts the resolution.[^732-1]
-
-<sup>3</sup> The resolution must contain the results of the audit report and the method by which the capital reduction is to be carried out.[^732-2]
-
-<sup>4</sup> Any book profit arising from the capital reduction must be used solely for write-downs.
-
-<sup>5</sup> The share capital may be reduced below 100,000 francs only if it is at the same time replaced by new fully paid-up capital of at least 100,000 francs.[^732-3]
-
-[^732-1]: Amended by No I 3 of the FA of 16 Dec. 2005 (Law on Limited Liability Companies and Amendments to the Law on Companies limited by Shares, Cooperatives, the Commercial Register and Business Names), in force since 1 Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
-[^732-2]: Amended by No I 3 of the FA of 16 Dec. 2005 (Law on Limited Liability Companies and Amendments to the Law on Companies limited by Shares, Cooperatives, the Commercial Register and Business Names), in force since 1 Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
-[^732-3]: Amended by No I 3 of the FA of 16 Dec. 2005 (Law on Limited Liability Companies and Amendments to the Law on Companies limited by Shares, Cooperatives, the Commercial Register and Business Names), in force since 1 Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
-
-### B. Cancellation of shares in the event of restructuring
+<sup>2</sup> Other companies may provide in their articles of association that they apply this section in full or in part.
 
 #### Art. 732a
 
-[^732a-1]
+Repealed
 
-<sup>1</sup> If the share capital is reduced to zero for the purpose of restructuring measures and then increased again, the current membership rights of the shareholders lapse at the time of the reduction. Issued shares must be cancelled.
-
-<sup>2</sup> When the share capital is increased again, the former shareholders have subscription rights that may not be withdrawn from them.
-
-[^732a-1]: Inserted by No I 3 of the FA of 16 Dec. 2005 (Law on Limited Liability Companies and Amendments to the Law on Companies limited by Shares, Cooperatives, the Commercial Register and Business Names), in force since 1 Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
-
-### B. Call on creditors
-
-[^part3-tit26-chap4-lvlC-1]
-
-[^part3-tit26-chap4-lvlC-1]: Amended by No I 3 of the FA of 16 Dec. 2005 (Law on Limited Liability Companies and Amendments to the Law on Companies limited by Shares, Cooperatives, the Commercial Register and Business Names), in force since 1 Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+### B. Remuneration committee
 
 #### Art. 733
 
-If the general meeting passes a resolution to reduce the share capital, the board of directors must give public notice of the resolution three times in the Swiss Official Gazette of Commerce as well as in the form envisaged in the articles of association and announce to the creditors that within two months commencing with the third publication in the Swiss Official Gazette of Commerce that they may register their claims to be satisfied or secured.
+<sup>1</sup> The general meeting shall elect the members of the remuneration committee individually.
 
-### C. Implementation of the reduction
+<sup>2</sup> Only members of the board of directors may be elected.
 
-[^part3-tit26-chap4-lvlD-1]
+<sup>3</sup> The term of office ends on conclusion of the next ordinary general meeting. Re-election is possible.
 
-[^part3-tit26-chap4-lvlD-1]: Amended by No I 3 of the FA of 16 Dec. 2005 (Law on Limited Liability Companies and Amendments to the Law on Companies limited by Shares, Cooperatives, the Commercial Register and Business Names), in force since 1 Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+<sup>4</sup> If there are any vacancies on the remuneration committee, the board of directors shall appoint the members required for the remaining term of office. The articles of association may provide for other rules on remedying this organisational deficiency.
+
+<sup>5</sup> The articles of association shall regulate the principles on the duties and responsibilities of the remuneration committee.
+
+### C. Remuneration report
+
+### I. In general
 
 #### Art. 734
 
-The reduction of the share capital may be carried out only after the time limit set for the creditors has expired and the registered claims have been satisfied or secured and may be entered in the commercial register only when it has been verified by public deed that the provisions of this Section are fulfilled. The deed must be enclosed with the special audit report.[^734-1]
+<sup>1</sup> The board of directors shall prepare a written remuneration report each year.
 
-[^734-1]: Second sentence Amended by No I 3 of the FA of 16 Dec. 2005 (Law on Limited Liability Companies and Amendments to the Law on Companies limited by Shares, Cooperatives, the Commercial Register and Business Names), in force since 1 Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+<sup>2</sup> The provisions of the thirty-second title on the principles of proper financial reporting, the presentation, currency and language and the keeping and retention of the company ledgers apply *mutatis mutandis* to the remuneration report.
 
-#### Art. 734a–734e
+<sup>3</sup> The provisions governing notice and publication of the annual report apply *mutatis mutandis* to notice and publication of the remuneration report.
 
-[^734a734e-1]
+### II. Remuneration of the board of directors, the executive board and the board of advisors
 
-[^734a734e-1]: Come into force at a later date ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+#### Art. 734a
+
+<sup>1</sup>
+
+The remuneration report shall specify all the remuneration that the company has paid directly or indirectly to:
+
+- 1\. current members of the board of directors;
+- 2\. current members of the executive board;
+- 3\. current members of the board of advisors;
+- 4\. former members of the board of directors, the executive board or the board of advisors, provided they are connected with their former activity as a corporate body of the company; the foregoing does not apply to occupational pension benefits.
+
+<sup>2</sup>
+
+In particular, the following are deemed to be remuneration:
+
+- 1\. fees, salaries, bonuses and account credits;
+- 2\. shares of profits paid to board members and commissions, participation in turnover and other forms of participation in the business results;
+- 3\. services and benefits in kind;
+- 4\. the allocation of equity securities, and conversion and option rights;
+- 5\. joining bonuses;
+- 6\. guarantee and pledge commitments and other collateral commitments;
+- 7\. waivers of claims;
+- 8\. expenditures giving rise to or increasing occupational benefit entitlements;
+- 9\. all payments and benefits for additional work;
+- 10\. compensation connected with the prohibition of competition.
+
+<sup>3</sup>
+
+The details of the remuneration shall include:
+
+- 1\. the amount for the board of directors as a whole and the amount for each member, specifying the name and function of the member concerned;
+- 2\. the amount for the executive board as a whole and the highest amount for each member, specifying the name and function of the member concerned;
+- 3\. the amount for the board of advisors as a whole and the amount for each member, specifying the name and function of the member concerned;
+- 4\. if applicable the names and functions of the members of the executive board to whom additional amounts have been paid.
+
+### III. Loans and credit facilities for the board of directors, the executive board and the board of advisors
+
+#### Art. 734b
+
+<sup>1</sup>
+
+The remuneration report shall specify:
+
+- 1\. loans and credit facilities granted to the current members of the board of directors, executive board and board of advisors that are still outstanding;
+- 2\. loans and credit facilities granted to former members of the board of directors, executive board and board of advisors that were granted on conditions other than the customary market conditions and are still outstanding.
+
+<sup>2</sup> Article 734*a* paragraph 3 applies *mutatis mutandis* to the information on loans and credit facilities.
+
+### IV. Remuneration, loans and credit facilities granted to close associates
+
+#### Art. 734c
+
+<sup>1</sup>
+
+The following shall be shown separately in the remuneration report:
+
+- 1\. the remuneration that the company has paid directly or indirectly on conditions other than the customary market conditions to persons closely associated with current or former members of the board of directors, the executive board or the board of advisors;
+- 2\. the loans and credit facilities granted on conditions other than the customary market conditions to persons closely associated with current or former members of the board of directors, the executive board or the board of advisors which are still outstanding.
+
+<sup>2</sup> The names of the close associates need not be provided.
+
+<sup>3</sup> The rules on information on the remuneration of, and loans and credit facilities granted to members of the board of directors, the executive board and the board of advisors otherwise apply.
+
+### V. Participation rights and options on such rights
+
+#### Art. 734d
+
+The remuneration report must indicate the participation rights in the company and the options on such rights of each current member of the board of directors, the executive board and the board of advisors including the member’s close associates, as well as providing the name and function of the member concerned.
+
+### VI. Activities in other undertakings
+
+#### Art. 734e
+
+<sup>1</sup> The remuneration report shall specify the functions of the members of the board of directors, the executive board and the board of advisors in other undertakings in accordance with Article 626 paragraph 2 number 1.
+
+<sup>2</sup> The details shall include the name of the member and of the undertaking and the function exercised.
 
 ### VII. Gender representation of on the board of directors and in the executive board
 
@@ -11522,17 +12239,71 @@ Unless each gender makes up at least 30 per cent of the board of directors and 2
 - 1\. the reasons why genders are not represented as required; and
 - 2\. the measures being taken to increase representation of the less well represented gender.
 
-[^734f-1]: Inserted by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2021 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)). See also Art. 4 of the Transitional Provision to this Amendment at the end of the text.
+[^734f-1]: See also Art. 4 of the transitional provision to the Amendment of 19.06.2020 at the end of the text.
 
-### D. Reduction in the case of negative net worth
+### D. Voting in the general meeting
 
-[^part3-tit26-chap4-lvlE-1]
-
-[^part3-tit26-chap4-lvlE-1]: Amended by No I 3 of the FA of 16 Dec. 2005 (Law on Limited Liability Companies and Amendments to the Law on Companies limited by Shares, Cooperatives, the Commercial Register and Business Names), in force since 1 Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+### I. Remuneration
 
 #### Art. 735
 
-The call to creditors and the satisfaction or securing of their claims may be omitted where the share capital is to be reduced in order to correct a situation of negative net worth caused by losses by an amount not exceeding such losses.
+<sup>1</sup> The general meeting shall vote on the remuneration that the board of directors, the executive board and the board of advisors directly or indirectly receive from the company.
+
+<sup>2</sup> The articles of association shall regulate the details of the vote. They may regulate the procedure in the event that the general meeting does not agree to the remuneration.
+
+<sup>3</sup>
+
+The following rules must be observed:
+
+- 1\. The general meeting shall vote annually on the remuneration.
+- 2\. The general meeting shall vote separately on the total amount for the remuneration of the board of directors, the executive board and the board of advisors.
+- 3\. The vote of the general meeting is binding.
+- 4\. If variable remuneration is voted on prospectively, the remuneration report must be submitted to the general meeting for an advisory vote.
+
+### II. Additional amount for the executive board
+
+#### Art. 735a
+
+<sup>1</sup> In the event that the general meeting votes prospectively on the remuneration of the executive board, the articles of association may provide for an additional amount for the remuneration of persons newly appointed as members of the executive board after the vote.
+
+<sup>2</sup> The additional amount may only be used if the total amount of remuneration for the executive board agreed by the general meeting is not sufficient to remunerate the new members until the next vote of the general meeting.
+
+<sup>3</sup> The general meeting does not vote on the additional amount used.
+
+### E. Term of contracts
+
+#### Art. 735b
+
+<sup>1</sup> The term of the contracts governing the remuneration of the members of the board of directors may not exceed their term of office.
+
+<sup>2</sup> The term of limited contracts and the notice of termination for unlimited contracts that govern the remuneration of the members of the executive board and the board of advisors may amount to a maximum of one year.
+
+### F. Remuneration that is not permitted
+
+### I. In the company
+
+#### Art. 735c
+
+The following remuneration for current and former members of the board of directors, the executive board and the board of advisors or for their close associates is not permitted:
+
+- 1\. severance payments that are contractually agreed or provided for in the articles of association; remuneration that is due until the termination of the contracts does not constitute a severance payment;
+- 2\. compensation related to a ban on competition that exceeds the average remuneration for the last three financial years, or compensation related to a ban on competition that is not justified on business grounds;
+- 3\. remuneration paid on conditions other than the customary market conditions connected with a previous activity as a corporate body of the company;
+- 4\. joining bonuses that do not compensate for a verifiable financial disadvantage;
+- 5\. remuneration paid in advance;
+- 6\. commission paid for taking over or transferring undertakings or parts thereof;
+- 7\. loans, credit facilities, pension benefits other than occupational pensions and performance-related remuneration not provided for in principle in the articles of association;
+- 8\. the allocation of equity securities or conversion and option rights not provided for in principle in the articles of association.
+
+### II. In the group
+
+#### Art. 735d
+
+Remuneration for members of the board of directors, the executive board and the board of advisors or their close associates for activities in undertakings controlled by the company is not permitted, provided the remuneration:
+
+- 1\. would not be permitted if it were paid directly by the company;
+- 2\. is not provided for in the articles of association of the company; or
+- 3\. has not been approved by the general meeting of the company.
 
 ### Section Five: Dissolution of a Company Limited by Shares
 
@@ -11542,25 +12313,34 @@ The call to creditors and the satisfaction or securing of their claims may be om
 
 #### Art. 736
 
-The company is dissolved:
+<sup>1</sup>
+
+The company shall be dissolved:
 
 - 1\. in accordance with the articles of association;
 - 2\. by resolution of the general meeting, to be recorded in a public deed;
 - 3\. by the commencement of insolvency proceedings;
-- 4\.[^736-1] by court judgment if shareholders together representing at least ten per cent of the share capital request its dissolution for good cause. The court may order a different solution if appropriate and conscionable for the interested parties;
+- 4\.[^736-1] by court judgment if shareholders together representing at least ten per cent of the share capital or the votes request its dissolution for good cause;
 - 5\. in the other cases envisaged by law.
 
-[^736-1]: Amended by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+<sup>2</sup> In the case of an action for dissolution for good cause, instead of dissolution, the court may order another appropriate solution that is acceptable to those concerned.[^736-2]
 
-### II. Notification for entry in the commercial register
+[^736-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^736-2]: Inserted by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### II. Entry in the commercial register
 
 #### Art. 737
 
 [^737-1]
 
-Where the company is dissolved for reasons other than insolvency or a court judgment, the board of directors notifies the dissolution for entry in the commercial register.
+<sup>1</sup> The dissolution of a company must be entered in the commercial register.
 
-[^737-1]: Amended by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+<sup>2</sup> Notice of dissolution by court judgment must be given by the court to the commercial register office immediately.
+
+<sup>3</sup> Notice of dissolution on other grounds must be given by the company to the commercial register office.
+
+[^737-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### III. Consequences
 
@@ -11568,39 +12348,39 @@ Where the company is dissolved for reasons other than insolvency or a court judg
 
 [^738-1]
 
-The dissolved company enters into liquidation, with the exception of cases involving a merger, a split or the transfer of its assets to a public sector corporation.
+The dissolved company shall enter into liquidation, except in cases involving a merger, a split or the transfer of its assets to a public sector corporation.
 
-[^738-1]: Amended by Annex No 2 of the Mergers Act of 3 Oct. 2003, in force since 1 July 2004 (([AS 2004 2617](https://fedlex.data.admin.ch/eli/oc/2004/320); [BBl 2000 4337](https://fedlex.data.admin.ch/eli/fga/2000/921)).
+[^738-1]: Amended by Annex No 2 of the Mergers Act of 3 Oct. 2003, in force since 1 July 2004 ([AS 2004 2617](https://fedlex.data.admin.ch/eli/oc/2004/320); [BBl 2000 4337](https://fedlex.data.admin.ch/eli/fga/2000/921)).
 
 ### B. Dissolution with liquidation
 
-### I. Consequences of liquidation; powers
+### I. Consequences of liquidation. powers
 
 #### Art. 739
 
-<sup>1</sup> A company entering into liquidation retains its legal personality and its existing business name, albeit with the words “in liquidation” appended to it, until such time as its assets have been distributed among the shareholders.
+<sup>1</sup> A company entering into liquidation shall retain its legal personality and its existing business name, albeit with the words “in liquidation” appended to it, until such time as its assets have been distributed among the shareholders.
 
-<sup>2</sup> As of the company’s entry into liquidation, the powers of its governing officers are limited to such actions as are necessary to carry out the liquidation but which by their nature may not be performed by the liquidators.
+<sup>2</sup> As of the company’s entry into liquidation, the powers of its corporate bodies shall be limited to such actions as are necessary to carry out the liquidation but which by their nature may not be performed by the liquidators.
 
 ### II. Appointment and dismissal of the liquidators
 
 ### 1. Appointment
 
-[^part3-tit26-chap5-lvlB-lvlII-lvl1-1]
+[^part3-tit26-chap4-lvlB-lvlII-lvl1-1]
 
-[^part3-tit26-chap5-lvlB-lvlII-lvl1-1]: Amended by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^part3-tit26-chap4-lvlB-lvlII-lvl1-1]: Amended by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 
 #### Art. 740
 
-<sup>1</sup> The liquidation is carried out by the board of directors, unless the articles of association or a resolution by the general meeting delegate it to other persons.
+<sup>1</sup> The liquidation shall be carried out by the board of directors, unless the articles of association or a resolution by the general meeting delegate it to other persons.
 
-<sup>2</sup> The board of directors notifies the liquidators for entry in the commercial register, even where the liquidation is carried out by the board of directors.
+<sup>2</sup> The board of directors shall notify the liquidators for entry in the commercial register, even where the liquidation is carried out by the board of directors.
 
 <sup>3</sup> At least one of the liquidators must be resident in Switzerland and authorised to represent the company.[^740-1]
 
-<sup>4</sup> Where the company is dissolved by court judgment, the court appoints the liquidators.[^740-2]
+<sup>4</sup> Where the company is dissolved by court judgment, the court shall appoint the liquidators.[^740-2]
 
-<sup>5</sup> In the event of insolvency, the insolvency administrators carry out the liquidation in accordance with the provisions of insolvency law. The governing officers of the company retain their authority to represent the company only to the extent such representation is still necessary.
+<sup>5</sup> In the event of insolvency, the insolvency administrators shall carry out the liquidation in accordance with the provisions of insolvency law. The corporate bodies of the company shall retain their authority to represent the company only to the extent such representation is still necessary.
 
 [^740-1]: Amended by No I 3 of the FA of 16 Dec. 2005 (Law on Limited Liability Companies and Amendments to the Law on Companies limited by Shares, Cooperatives, the Commercial Register and Business Names), in force since 1 Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 [^740-2]: Amended by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
@@ -11625,7 +12405,7 @@ The dissolved company enters into liquidation, with the exception of cases invol
 
 <sup>1</sup> On taking up their office, the liquidators must draw up a balance sheet.
 
-<sup>2</sup> The creditors are informed of the dissolution of the company and requested to register their claims, by separate letter in the case of creditors identifiable from the accounting records or in some other manner, and by public announcement in the Swiss Official Gazette of Commerce as well as in the form envisaged in the articles of association in the case of unknown creditors and those whose address is not known.
+<sup>2</sup> The creditors shall be informed of the dissolution of the company and requested to register their claims, by separate letter in the case of creditors identifiable from the accounting records or in some other manner, and by public announcement in the Swiss Official Gazette of Commerce as well as in the form envisaged in the articles of association in the case of unknown creditors and those whose address is not known.
 
 ### 2. Other duties
 
@@ -11639,7 +12419,7 @@ The dissolved company enters into liquidation, with the exception of cases invol
 
 <sup>4</sup> They may also dispose of assets by private sale, unless the general meeting has instructed otherwise.
 
-<sup>5</sup> Where the liquidation lasts for an extended period, they must draw up interim balance sheets every year.
+<sup>5</sup> Where the liquidation lasts for an extended period, they must draw up interim accounts every year.
 
 <sup>6</sup> The company is liable for any damage resulting from unauthorised acts by a liquidator in the exercise of his duties.
 
@@ -11655,20 +12435,21 @@ The dissolved company enters into liquidation, with the exception of cases invol
 
 #### Art. 745
 
-<sup>1</sup> Unless the articles of association provide otherwise, once the debts of the dissolved company have been discharged, its assets are distributed among the shareholders in proportion to the amounts they contributed and with due regard to the preferential rights attaching to specific share classes.[^745-1]
+<sup>1</sup> Unless the articles of association provide otherwise, once the debts of the dissolved company have been discharged, its assets are distributed among the shareholders in proportion to the amounts they contributed and with due regard to the preferential rights attaching to specific classes of shares.[^745-1]
 
-<sup>2</sup> The distribution may take place no sooner than one year after the day on which the call to creditors was made for the third time.
+<sup>2</sup> The distribution may take place no sooner than one year after the day on which the call to creditors was made.[^745-2]
 
-<sup>3</sup> Such distribution may take place after only three months where a licensed audit expert confirms that the debts have been redeemed and that in the circumstances it may safely be assumed that no third party interests will be harmed.[^745-2]
+<sup>3</sup> Such distribution may take place after only three months where a licensed audit expert confirms that the debts have been redeemed and that in the circumstances it may safely be assumed that no third-party interests will be harmed.[^745-3]
 
 [^745-1]: Amended by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-[^745-2]: Amended by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^745-2]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^745-3]: Amended by No I 3 of the FA of 16 Dec. 2005 (Law on Limited Liability Companies and Amendments to the Law on Companies limited by Shares, Cooperatives, the Commercial Register and Business Names), in force since 1 Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 
 ### IV. Deletion from the commercial register
 
 #### Art. 746
 
-On completion of the liquidation process, the liquidators apply to the commercial registry for the deletion of the business name.
+On completion of the liquidation process, the liquidators shall apply to the commercial register office for the deletion of the business name.
 
 ### V. Retention of the share register, accounting records and register
 
@@ -11676,21 +12457,21 @@ On completion of the liquidation process, the liquidators apply to the commercia
 
 [^747-1]
 
-<sup>1</sup> The share register, the accounting records and the register under Article 697*l* and the underlying documents must be kept in a safe place for ten years following the deletion of the company. This place shall be decided by the liquidators or if they are unable to agree, by the commercial registry.
+<sup>1</sup> The share register, the accounting records and the register under Article 697*l* and the underlying documents must be kept in a safe place for ten years following the deletion of the company. This place shall be decided by the liquidators or if they are unable to agree, by the commercial register office.
 
 <sup>2</sup> The share register and the register must be retained in such a manner that they can be accessed at any time in Switzerland.
 
-[^747-1]: Amended by No I 2 of the FA of 12 Dec. 2014 on the Implementation of the revised recommendations 2012 of the Financial Action Task Force, in force since 1 July 2015 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
+[^747-1]: Amended by No I 2 of the FA of 12 Dec. 2014 on the Implementation of the 2012 revised recommendations of the Financial Action Task Force, in force since 1 July 2015 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
 
 ### C. Dissolution without liquidation
 
 ### I. ...
 
-### **Art. 748**─**750**
+#### Art. 748–750
 
-[^part3-tit26-chap5-lvlC-lvlI-lvlu1-1]
+[^748750-1]
 
-[^part3-tit26-chap5-lvlC-lvlI-lvlu1-1]: Repealed by Annex No 2 of the Mergers Act of 3 Oct. 2003, with effect from 1 July 2004 ([AS 2004 2617](https://fedlex.data.admin.ch/eli/oc/2004/320); [BBl 2000 4337](https://fedlex.data.admin.ch/eli/fga/2000/921)).
+[^748750-1]: Repealed by Annex No 2 of the Mergers Act of 3 Oct. 2003, with effect from 1 July 2004 ([AS 2004 2617](https://fedlex.data.admin.ch/eli/oc/2004/320); [BBl 2000 4337](https://fedlex.data.admin.ch/eli/fga/2000/921)).
 
 ### II. Takeover by a public sector corporation
 
@@ -11698,7 +12479,7 @@ On completion of the liquidation process, the liquidators apply to the commercia
 
 <sup>1</sup> Where the assets of a company limited by shares are taken over by the Confederation, by a canton or, under guarantee from the canton, by a district or commune, with the consent of the general meeting it may be agreed that no liquidation take place.
 
-<sup>2</sup> The resolution of the general meeting must be made in accordance with the provisions governing dissolution and notified to the commercial registry.
+<sup>2</sup> The resolution of the general meeting must be made in accordance with the provisions governing dissolution and notified to the commercial register office.
 
 <sup>3</sup> On entry of the resolution in the commercial register, the transfer of the company’s assets and debts is complete and the company’s name must be deleted.
 
@@ -11722,11 +12503,12 @@ On completion of the liquidation process, the liquidators apply to the commercia
 
 Founder members, members of the board of directors and all persons involved in establishing the company are liable both to the company and to the individual shareholders and creditors for the losses arising where they:
 
-- 1\. wilfully or negligently conceal, disguise or give inaccurate or misleading information on contributions in kind, acquisitions in kind or the granting of special privileges to shareholders or other persons in the articles of association, the statutory report or a capital increase report or otherwise act unlawfully in approving such a measure;
+- 1\.[^753-2] wilfully or negligently conceal, disguise or give inaccurate or misleading information in the articles of association, an incorporation report or a capital increase report on contributions in kind or the granting of special privileges to shareholders and other persons, or otherwise act unlawfully in approving such a measure;
 - 2\. wilfully or negligently induce the entry of the company in the commercial register on the basis of a certificate or deed containing inaccurate information;
 - 3\. knowingly contribute to the acceptance of subscriptions from insolvent persons.
 
 [^753-1]: Amended by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^753-2]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### III. Liability for administration, business management and liquidation
 
@@ -11740,13 +12522,13 @@ Founder members, members of the board of directors and all persons involved in e
 
 [^754-1]: Amended by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 
-### IV. Auditors’ liability
+### IV. External auditors’ liability
 
 #### Art. 755
 
 [^755-1]
 
-All persons engaged in auditing the annual and consolidated accounts, the company’s establishment, a capital increase or a capital reduction are liable both to the company and to the individual shareholders and creditors for the losses arising from any intentional or negligent breach of their duties.
+All persons engaged in auditing the annual and consolidated accounts, the company’s foundation, a capital increase or a capital reduction are liable both to the company and to the individual shareholders and creditors for the losses arising from any intentional or negligent breach of their duties.
 
 <sup>2</sup> If the audit is conducted by a public audit office or by one of its employees, the relevant public authority is liable. Legal action against persons involved in the audit is governed by public law.[^755-2]
 
@@ -11763,25 +12545,28 @@ All persons engaged in auditing the annual and consolidated accounts, the compan
 
 <sup>1</sup> In addition to the company, the individual shareholders are also entitled to sue for any losses caused to the company. The shareholder’s claim is for performance to the company.
 
-<sup>2</sup> ...[^756-2]
+<sup>2</sup> The general meeting may resolve that the company raise the action. It may instruct the board of directors or a representative to conduct the proceedings.[^756-2]
 
 [^756-1]: Amended by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-[^756-2]: Repealed by Annex 1 No II 5 of the Civil Procedure Code of 19 Dec. 2008, with effect from 1 Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^756-2]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-### II. Claims in insolvency
+### II. Claims in bankruptcy
 
 #### Art. 757
 
 [^757-1]
 
-<sup>1</sup> In the event of the insolvency of the damaged company, its creditors are entitled to request that the company be compensated for the losses suffered. However, in the first instance the insolvency administrators may assert the claims of the shareholders and the company’s creditors.
+<sup>1</sup> In the event of the bankruptcy of the damaged company, its creditors are entitled to request that the company be compensated for the losses suffered. However, in the first instance the insolvency administrators may assert the claims of the shareholders and the company’s creditors.
 
-<sup>2</sup> Where the insolvency administrators waive their right to assert such claims, any shareholder or creditor is entitled to bring them. The proceeds are first used to satisfy the claims of the litigant creditors in accordance with the provisions of the Debt Collection and Bankruptcy Act of 11 April 1889[^757-2]. Any surplus is divided among the litigant shareholders in proportion to their equity participation in the company; the remainder is added to the insolvent’s estate.
+<sup>2</sup> Where the insolvency administrators waive their right to assert such claims, any shareholder or creditor shall be entitled to bring them. The proceeds shall first be used to satisfy the claims of the litigant creditors in accordance with the provisions of the Debt Collection and Bankruptcy Act of 11 April 1889[^757-2]. Any surplus shall be divided among the litigant shareholders in proportion to their equity participation in the company; the remainder shall be added to the insolvent’s estate.
 
 <sup>3</sup> The assignment of claims held by the company in accordance with Article 260 of the Debt Collection and Bankruptcy Act of 11 April 1889 is reserved.
 
+<sup>4</sup> In assessing the damage to the company, the claims of the company’s creditors that have been subordinated to those of all other creditors shall not be included.[^757-3]
+
 [^757-1]: Amended by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 [^757-2]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^757-3]: Inserted by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### III. Effect of the resolution of release
 
@@ -11789,11 +12574,12 @@ All persons engaged in auditing the annual and consolidated accounts, the compan
 
 [^758-1]
 
-<sup>1</sup> The resolution of release adopted by the general meeting is effective only for disclosed facts and only as against the company and those shareholders who approved the resolution or who have since acquired their shares in full knowledge of the resolution.
+<sup>1</sup> The resolution of release adopted by the general meeting shall be effective only for disclosed facts and only as against the company and those shareholders who approved the resolution or who have since acquired their shares in full knowledge of the resolution.
 
-<sup>2</sup> The right of action of the other shareholders lapses six months after the resolution of release.
+<sup>2</sup> The right of action of the other shareholders shall lapse twelve months after the resolution of release. This period shall be suspended during the procedure to order a special investigation and during the conduct of the investigation.[^758-2]
 
 [^758-1]: Amended by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^758-2]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### C. Joint and several liability and recourse
 
@@ -11801,25 +12587,26 @@ All persons engaged in auditing the annual and consolidated accounts, the compan
 
 [^759-1]
 
-<sup>1</sup> Where two or more persons are liable for the losses, each is jointly and severally liable with the others to the extent that the damage is personally attributable to him on account of his own fault and the circumstances.
+<sup>1</sup> Where two or more persons are liable for the losses, each is jointly and severally liable with the others to the extent that the damage is personally attributable to him or her on account of his or her own fault and the circumstances.
 
 <sup>2</sup> The claimant may bring action against several persons jointly for the total losses and request that the court determine the liability of each individual defendant in the same proceedings.
 
-<sup>3</sup> The right of recourse among several defendants is determined by the court with due regard to all the circumstances.
+<sup>3</sup> The right of recourse among several defendants shall be determined by the court with due regard to all the circumstances.
 
 [^759-1]: Amended by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 
-### Prescription
+### D. Prescription
 
 #### Art. 760
 
 [^760-1]
 
-<sup>1</sup> The claim for damages against any person held liable pursuant to the above provisions prescribes five years after the date on which the person suffering damage learned of the damage and of the person liable for it but in any event ten years after the date on which the harmful conduct took place or ceased.
+<sup>1</sup> The claim for damages against any person held liable pursuant to the above provisions prescribes three years after the date on which the person suffering damage learned of the damage and of the person liable for it but in any event ten years after the date on which the harmful conduct took place or ceased. This period shall be suspended during the procedure to order a special investigation and during the conduct of the investigation.[^760-2]
 
-<sup>2</sup> If the person liable has committed a criminal offence through his or her harmful conduct, then the right to damages or satisfaction prescribes at the earliest when the right to prosecute the offence becomes time-barred. If the right to prosecute is no longer liable to become time-barred because a first instance criminal judgment has been issued, the right to claim damages or satisfaction prescribes at the earliest three years after notice of the judgment is given.
+<sup>2</sup> If the person liable has committed a criminal offence through their harmful conduct, then the right to damages or satisfaction prescribes at the earliest when the right to prosecute the offence becomes time-barred. If the right to prosecute is no longer liable to become time-barred because a first instance criminal judgment has been issued, the right to claim damages or satisfaction prescribes at the earliest three years after notice of the judgment is given.
 
 [^760-1]: Amended by No I of the FA of 15 June 2018 (Revision of the Law on Prescription), in force since 1 Jan. 2020 ([AS 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [BBl 2014 235](https://fedlex.data.admin.ch/eli/fga/2014/65)).
+[^760-2]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 761
 
@@ -11833,22 +12620,26 @@ All persons engaged in auditing the annual and consolidated accounts, the compan
 
 <sup>1</sup> Where public sector corporations such as the Confederation, or a canton, district or commune have a public interest in a company limited by shares, the articles of association of the company may grant that corporation the right to appoint representatives to the board of directors or the external auditors, even if it is not a shareholder.[^762-1]
 
-<sup>2</sup> In such companies and in public-private enterprises in which a public sector corporation participates as a shareholder, only the public sector corporation has the right to dismiss the representatives it appointed to the board of directors and the external auditors.
+<sup>2</sup> In such companies and in public-private enterprises in which a public sector corporation participates as a shareholder, only the public sector corporation has the right to dismiss the representatives it appointed to the board of directors and the external auditors.[^762-2]
 
-<sup>3</sup> The members of the board of directors and external auditors appointed by a public sector corporation have the same rights and duties as those elected by the general meeting.[^762-2]
+<sup>3</sup> The members of the board of directors and external auditors appointed by a public sector corporation have the same rights and duties as those elected by the general meeting.[^762-3]
 
 <sup>4</sup> The public sector corporation is liable to the company, shareholders and creditors for the actions of the members of the board of directors and external auditors it appoints, subject to rights of recourse under federal and cantonal law.
 
+<sup>5</sup> The right of public sector corporations to appoint or remove representatives on the board of directors also applies to companies whose shares are listed on a stock exchange.[^762-4]
+
 [^762-1]: Amended by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-[^762-2]: Amended by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^762-2]: Term in accordance with No II 2 of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)). This amendment has been taken into account throughout the Code.
+[^762-3]: Amended by No I of the FA of 4 Oct. 1991, in force since 1 July 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
+[^762-4]: Inserted by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### Section Eight: Exclusion of Application of the Code to Public-Sector Entities
 
 #### Art. 763
 
-<sup>1</sup> The provisions governing the company limited by shares are not applicable to companies and entities established by special cantonal legislation and partly administered by the public authorities, such as banks, insurance or electricity companies, even if their capital is entirely or partly divided into shares and was raised with the help of private individuals, providing the canton assumes secondary liability for the obligations of such companies and entities.
+<sup>1</sup> The provisions governing the company limited by shares do not apply to companies and entities established by special cantonal legislation and partly administered by the public authorities, such as banks, insurance or electricity companies, even if their capital is entirely or partly divided into shares and was raised with the help of private individuals, providing the canton assumes secondary liability for the obligations of such companies and entities.
 
-<sup>2</sup> The provisions governing the company limited by shares are not applicable to companies and entities established by special cantonal legislation prior to 1 January 1883 and partly administered by the public authorities even if the canton does not assume secondary liability for their obligations.
+<sup>2</sup> The provisions governing the company limited by shares do not apply to companies and entities established by special cantonal legislation prior to 1 January 1883 and partly administered by the public authorities even if the canton does not assume secondary liability for their obligations.
 
 ### Title Twenty-Seven: The Partnership limited by Shares
 
@@ -11870,11 +12661,11 @@ All persons engaged in auditing the annual and consolidated accounts, the compan
 
 <sup>1</sup> The partners with unlimited liability constitute the directors of the partnership limited by shares. They are responsible for business management and representation. They must be named in the articles of association.
 
-<sup>2</sup> The names of the directors and persons authorised to represent the partnership and their addresses, places of origin and function must be entered in the commercial register.[^765-1]
+<sup>2</sup> …[^765-1]
 
 <sup>3</sup> Any changes to the body of partners with unlimited liability require the consent of the existing partners and the amendment of the articles of association.
 
-[^765-1]: Amended by No I 3 of the FA of 16 Dec. 2005 (Law on Limited Liability Companies and Amendments to the Law on Companies limited by Shares, Cooperatives, the Commercial Register and Business Names), in force since 1 Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^765-1]: Repealed by No I of the FA of 19 June 2020 (Company Law), with effect from 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### II. Approval of resolutions of the general meeting
 
@@ -11918,7 +12709,7 @@ Resolutions of the general meeting concerning modification of the partnership’
 
 <sup>2</sup> In other respects, dissolution of the partnership limited by shares is governed by the same provisions as apply to the dissolution of companies limited by shares; however, it may be dissolved by resolution of the general meeting before the date set in the articles of association only with the consent of the directors.
 
-<sup>3</sup> ...[^770-1]
+<sup>3</sup> …[^770-1]
 
 [^770-1]: Repealed by Annex No 2 of the Mergers Act of 3 Oct. 2003, with effect from 1 July 2004 ([AS 2004 2617](https://fedlex.data.admin.ch/eli/oc/2004/320); [BBl 2000 4337](https://fedlex.data.admin.ch/eli/fga/2000/921)).
 
@@ -11930,7 +12721,7 @@ Resolutions of the general meeting concerning modification of the partnership’
 
 <sup>2</sup> Where one of two or more partners with unlimited liability exercises his right to resign, unless the articles of association provide otherwise the partnership is continued by the others.
 
-### Title Twenty-Eight:**** The Limited Liability Company
+### Title Twenty-Eight: The Limited Liability Company
 
 [^part3-tit28-1]
 
@@ -11942,7 +12733,7 @@ Resolutions of the general meeting concerning modification of the partnership’
 
 #### Art. 772
 
-<sup>1</sup> A limited liability company is an incorporated company with separate legal personality in which one or more persons or commercial enterprises participate. Its nominal capital is specified in the articles of association. It is liable for its obligations to the extent of the company assets.
+<sup>1</sup> A limited liability company is a company with separate legal personality in which one or more persons or commercial enterprises participate. Its nominal capital is specified in the articles of association. It is liable for its obligations to the extent of the company assets.
 
 <sup>2</sup> Each company member participates in the nominal capital by making at least one capital contribution. The articles of association may stipulate obligations to make additional financial and material contributions.
 
@@ -11950,27 +12741,37 @@ Resolutions of the general meeting concerning modification of the partnership’
 
 #### Art. 773
 
-The nominal capital must amount to at least 20,000 francs.
+[^773-1]
+
+<sup>1</sup> The nominal capital shall amount to at least 20,000 francs.
+
+<sup>2</sup> A nominal capital in the foreign currency required for business operations is also permitted. The provisions of the law on companies limited by shares on share capital in a foreign currency apply *mutatis mutandis*.
+
+[^773-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### C. Capital contributions
 
 #### Art. 774
 
-<sup>1</sup> The nominal value of the capital contribution must be at least 100 francs. In the event of restructuring, it may be reduced to one franc.
+<sup>1</sup> The capital contributions shall have a nominal value that is greater than zero.[^774-1]
 
 <sup>2</sup> Capital contributions must be paid up to at least their nominal value.
 
-### D. Profit sharing certificates
+[^774-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### D. Dividend rights certificates
 
 #### Art. 774a
 
-The articles of association may provide for the creation of profit sharing certificates; the corresponding provisions for companies limited by shares apply.
+The articles of association may provide for the creation of profit-sharing certificates; the corresponding provisions for companies limited by shares apply.
 
-### E. Company members
+### E. …
 
 #### Art. 775
 
-A limited liability company may be established by one or more natural persons or legal entities or other commercial enterprises.
+[^775-1]
+
+[^775-1]: Repealed by No I of the FA of 19 June 2020 (Company Law), with effect from 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### F. Articles of association
 
@@ -11983,66 +12784,38 @@ The articles of association must contain provisions on:
 - 1\. the business name and seat of the company;
 - 2\. the objects of the company;
 - 3\. the amount of nominal capital and of the number and nominal value of the capital contributions;
-- 4\. the form of the company’s external communications.
+- 4\.[^776-1] the form of the company’s communications with its members.
 
-### II. Conditional requirements as to content
+[^776-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### II. ...
 
 #### Art. 776a
 
-In order to be binding, provisions on the following matters must be included in the articles of association:
+[^776a-1]
 
-- 1\. the grounds and terms for making additional financial and material contributions;
-- 2\. the grounds for and the terms of first option, pre-emption and purchase rights of company members or the company in relation to the capital contributions;
-- 3\. prohibition of competition clauses applicable to company members;
-- 4\. contractual penalties to ensure the fulfilment of obligations imposed by law or the articles of association;
-- 5\. preferential rights that are tied to individual classes of capital contributions (preferential capital contributions);
-- 6\. company members' rights to veto resolutions of the members’ general meeting;
-- 7\. restrictions on the voting rights of company members and their rights to appoint representatives;
-- 8\. profit-sharing certificates;
-- 9\. reserves in accordance with the articles of association;
-- 10\. powers accorded to the members’ general meeting that go beyond its statutory responsibilities;
-- 11\. the approval by the members’ general meeting of certain decisions made by the managing directors;
-- 12\. the requirement of the consent of the members' general meeting to the designation of natural persons to exercise management rights for company members that are the legal entities or commercial enterprises;
-- 13\. the power of the managing director to appoint managers, authorised signatories and authorised officers;
-- 14\. the payment of shares of profits to the managing directors;
-- 15\. interest paid to company members until commencement of the company’s operations;
-- 16\. the organisation and duties of the auditor, where these go beyond those prescribed by law;
-- 17\. the granting of a right to resign under the articles of association, the conditions for exercising the same and the severance payment to be made;
-- 18\. special reasons for excluding company members from the company;
-- 19\. grounds for dissolution that differ from the statutory grounds.
+[^776a-1]: Repealed by No I of the FA of 19 June 2020 (Company Law), with effect from 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-<sup>2</sup>
+### G. Foundation
 
-In order to be binding, provisions on the following matters that differ from the statutory regulations must also be included in the articles of association:
-
-- 1\. resolutions on the subsequent creation of new preferential capital contributions;
-- 2\. the transfer of capital contributions;
-- 3\. the convening of the members’ general meeting;
-- 4\. the allocation of voting rights to company members;
-- 5\. resolutions passed in the members’ general meeting;
-- 6\. decisions made by the managing director;
-- 7\. management and the representation;
-- 8\. prohibition of competition clauses applicable to the managing directors.
-
-### G. Establishment
-
-### I. Certificate of incorporation
+### I. deed of incorporation
 
 #### Art. 777
 
-<sup>1</sup> The company is established when the founder members declare in public deed that they are founding a limited liability company, lay down the articles of association and appoint the management bodies.
+<sup>1</sup> The company is founded when the founder members declare in public deed that they are founding a limited liability company, lay down the articles of association and appoint the corporate bodies.
 
 <sup>2</sup>
 
-In the certificate of incorporation, the founder members subscribe for the capital contributions and state that:
+In the deed of incorporation, the founder members shall subscribe for the capital contributions and state that:
 
 - 1\. all capital contributions are validly subscribed for;
 - 2\. the capital contributions correspond to their total issue price;
-- 3\. the statutory requirements and requirements of the articles of association for the payment of the capital contributions are fulfilled;
+- 3\.[^777-1] the statutory requirements and requirements of the articles of association for the payment of the capital contributions are met at the time of signature of the deed of incorporation;
 - 4\. they accept the obligations in terms of the articles of association to make additional financial or material contributions;
-- 5\.[^777-1] there are no other contributions in kind, acquisitions in kind or intended acquisitions in kind, instances of offsetting or special privileges other than those mentioned in the supporting documents.
+- 5\.[^777-2] there are no contributions in kind, instances of offsetting or special privileges other than those mentioned in the supporting documents.
 
-[^777-1]: Inserted by No I 2 of the FA of 17 March 2017 (Commercial Register Law), in force since 1 Jan. 2021 ([AS 2020 957](https://fedlex.data.admin.ch/eli/oc/2020/178); [BBl 2015 3617](https://fedlex.data.admin.ch/eli/fga/2015/956)).
+[^777-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^777-2]: Inserted by No I 2 of the FA of 17 March 2017 (Commercial Register Law) ([AS 2020 957](https://fedlex.data.admin.ch/eli/oc/2020/178); [BBl 2015 3617](https://fedlex.data.admin.ch/eli/fga/2015/956)). Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### II. Subscription for capital contributions
 
@@ -12064,18 +12837,20 @@ In the subscription deed, reference must be made to the provisions of the articl
 
 #### Art. 777b
 
-<sup>1</sup> In the certificate of incorporation, the notary must specify the foundation documents individually and confirm that they have been laid before him and the founder members.
+<sup>1</sup> In the deed of incorporation, the notary must specify the foundation documents individually and confirm that they have been laid before him and the founder members.
 
 <sup>2</sup>
 
-The following documents must be appended to the certificate of incorporation:
+The following documents must be appended to the deed of incorporation:
 
 - 1\. the articles of association;
 - 2\. the incorporation report;
 - 3\. the audit confirmation;
 - 4\. confirmation that the capital contributions have been deposited in cash;
 - 5\. the agreements on contributions-in-kind;
-- 6\. existing agreements on acquisitions-in-kind.
+- 6\.[^777b-1] …
+
+[^777b-1]: Repealed by No I of the FA of 19 June 2020 (Company Law), with effect from 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### IV. Capital contributions
 
@@ -12087,9 +12862,12 @@ The following documents must be appended to the certificate of incorporation:
 
 In addition, the provisions on companies limited by shares apply to:
 
-- 1\. the specification of contributions in kind, acquisitions in kind and the special privileges in the articles of association;
-- 2\. the entry of details of contributions in kind, acquisitions in kind and of special privileges in the commercial register;
+- 1\.[^777c-1] the specification of contributions in kind, instances of offsetting and the special privileges in the articles of association;
+- 2\.[^777c-2] …
 - 3\. the payment and audit of capital contributions.
+
+[^777c-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^777c-2]: Repealed by No I of the FA of 19 June 2020 (Company Law), with effect from 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### H. Entry in the commercial register
 
@@ -12113,13 +12891,13 @@ The company must be entered in the commercial register at the place where it has
 
 #### Art. 779
 
-<sup>1</sup> The company acquires legal personality through entry in the commercial register.
+<sup>1</sup> The company shall acquire legal personality through entry in the commercial register.
 
-<sup>2</sup> It also acquires legal personality even if the requirements for registration are not in fact fulfilled.
+<sup>2</sup> It shall also acquire legal personality even if the requirements for registration are not in fact fulfilled.
 
-<sup>3</sup> Where the requirements of the law or the articles of association are not fulfilled on establishment and if the interests of creditors or company members are substantially jeopardised or harmed thereby, the court may order the dissolution of the company at the request of a creditor or member.
+<sup>3</sup> Where the requirements of the law or the articles of association are not fulfilled on foundation and if the interests of creditors or company members are substantially jeopardised or harmed thereby, the court may order the dissolution of the company at the request of a creditor or member.
 
-<sup>4</sup> The right to take legal action lapses three months after notice is published of the establishment of the company in the Swiss Official Gazette of Commerce.
+<sup>4</sup> The right to take legal action shall lapse three months after notice is published of the foundation of the company in the Swiss Official Gazette of Commerce.
 
 ### II. Obligations entered into before registration
 
@@ -12133,7 +12911,11 @@ The company must be entered in the commercial register at the place where it has
 
 #### Art. 780
 
-A resolution of the members’ general meeting on an amendment to the articles of association must be publicly certified and entered in the commercial register.
+[^780-1]
+
+The resolution of the members’ general meeting or the managing directors on an amendment to the articles of association must be done as a public deed and entered in the commercial register.
+
+[^780-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### L. Increase in the nominal capital
 
@@ -12143,9 +12925,9 @@ A resolution of the members’ general meeting on an amendment to the articles o
 
 <sup>2</sup> The implementation of the resolution is the responsibility of the managing directors.
 
-<sup>3</sup> Subscription and the capital contributions are governed by the regulations on the establishment of the company. The reference to rights and obligations under the articles of association is not required if the subscriber is already a member. The relevant regulations on increasing the capital of a company limited by shares also apply to the subscription form. A public invitation to subscribe to the capital contributions is not permitted.[^781-1]
+<sup>3</sup> Subscription and the capital contributions are governed by the regulations on the foundation of the company. The reference to rights and obligations under the articles of association is not required if the subscriber is already a member. The relevant regulations on increasing the capital of a company limited by shares also apply to the subscription form. A public invitation to subscribe to the capital contributions is not permitted.[^781-1]
 
-<sup>4</sup> An application to register the increase in the nominal capital must be filed with the commercial register within three months of the resolution of the members’ general meeting, otherwise the resolution becomes invalid.
+<sup>4</sup> An application to register the increase in the nominal capital must be filed with the commercial register office within six months of the resolution of the members’ general meeting, otherwise the resolution becomes invalid.[^781-2]
 
 <sup>5</sup>
 
@@ -12159,6 +12941,7 @@ In addition, the corresponding provisions on an ordinary increase in capital for
 - 6\. the registration of the increase in nominal capital in the commercial register and the nullity of official documents issued previously.
 
 [^781-1]: Amended by No I 2 of the FA of 17 March 2017 (Commercial Register Law), in force since 1 Jan. 2021 ([AS 2020 957](https://fedlex.data.admin.ch/eli/oc/2020/178); [BBl 2015 3617](https://fedlex.data.admin.ch/eli/fga/2015/956)).
+[^781-2]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### M. Reduction of the nominal capital
 
@@ -12166,11 +12949,13 @@ In addition, the corresponding provisions on an ordinary increase in capital for
 
 <sup>1</sup> The members’ general meeting may resolve to reduce the nominal capital.
 
-<sup>2</sup> Under no circumstances may the nominal capital be reduced below 20,000 francs.
+<sup>2</sup> The nominal capital may be reduced to less than 20 000 francs provided it is at the same time increased again at least to this amount.[^782-1]
 
 <sup>3</sup> In order to eliminate a deficit balance caused by losses, the nominal capital may be reduced only if the company members have paid the additional financial contributions provided for in the articles of association in full.
 
 <sup>4</sup> In addition, the relevant regulations on the reduction of the capital of a company limited by shares apply.
+
+[^782-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### N. Acquisition of own capital contributions
 
@@ -12240,9 +13025,9 @@ The articles of association made deviate from the foregoing by:
 
 #### Art. 788
 
-<sup>1</sup> Where capital contributions are acquired through inheritance, distribution of an estate, matrimonial property law or enforcement proceedings, all related rights and obligations are transferred to the acquirer without requiring the consent of the members’ general meeting.
+<sup>1</sup> Where capital contributions are acquired through inheritance, distribution of an estate, matrimonial property law or enforcement proceedings, all related rights and obligations shall be transferred to the acquirer without requiring the consent of the members’ general meeting.
 
-<sup>2</sup> In order to exercise voting rights and related rights, however, the acquirer requires the recognition of the members’ general meeting as a company member who is eligible to vote.
+<sup>2</sup> In order to exercise right to vote and related rights, however, the acquirer shall require the recognition of the members’ general meeting as a company member who is eligible to vote.
 
 <sup>3</sup> The members’ general meeting may refuse such recognition only if the company offers to acquire the capital contributions from the acquirer at their true value. The offer may be made for the company's own account or for the account of other company members or third parties. Unless the acquirer rejects the offer within a month of receiving notice of the true value, the offer is deemed to be accepted.
 
@@ -12256,7 +13041,7 @@ The articles of association made deviate from the foregoing by:
 
 <sup>1</sup> If the law or the articles of association stipulate that the true value of the capital contributions should be determined, the parties may request the court to make the valuation.
 
-<sup>2</sup> The court allocates the costs of the proceedings and the valuation at its discretion.
+<sup>2</sup> The court shall allocate the costs of the proceedings and the valuation at its discretion.
 
 ### 4. Usufruct
 
@@ -12278,7 +13063,7 @@ The articles of association made deviate from the foregoing by:
 
 #### Art. 790
 
-<sup>1</sup> The company keeps a register of capital contributions. It must be kept in such a manner that it can be accessed at any time in Switzerland.[^790-1]
+<sup>1</sup> The company shall keep a register of capital contributions. It must be kept in such a manner that it can be accessed at any time in Switzerland.[^790-1]
 
 <sup>2</sup>
 
@@ -12289,14 +13074,14 @@ The following information must be entered in the register of contributions:
 - 3\. the names and addresses of usufructuaries;
 - 4\. the names and addresses of charge creditors.
 
-<sup>3</sup> Company members not entitled to exercise voting rights and related rights must be specifically indicated as company members without the right to vote.
+<sup>3</sup> Company members not entitled to exercise the right to vote and related rights must be specifically indicated as company members without the right to vote.
 
 <sup>4</sup> Company members have the right to inspect the register of contributions.
 
 <sup>5</sup> The documents on which an entry is based must be retained for ten years following the deletion of the person concerned from the register of capital contributions.[^790-2]
 
-[^790-1]: Second sentence inserted by No I 2 of the FA of 12 Dec. 2014 on the Implementation of the revised recommendations 2012 of the Financial Action Task Force, in force since 1 July 2015 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
-[^790-2]: Inserted by No I 2 of the FA of 12 Dec. 2014 on the Implementation of the revised recommendations 2012 of the Financial Action Task Force, in force since 1 July 2015 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
+[^790-1]: Second sentence inserted by No I 2 of the FA of 12 Dec. 2014 on the Implementation of the 2012 revised recommendations of the Financial Action Task Force, in force since 1 July 2015 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
+[^790-2]: Inserted by No I 2 of the FA of 12 Dec. 2014 on the Implementation of the 2012 revised recommendations of the Financial Action Task Force, in force since 1 July 2015 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
 
 ### III<sup>bis</sup>. Notice of the beneficial owner of the capital contributions
 
@@ -12304,7 +13089,7 @@ The following information must be entered in the register of contributions:
 
 [^790a-1]
 
-<sup>1</sup> Any person who alone or by agreement with third parties acquires capital contributions and thus reaches or exceeds the threshold of 25 per cent of the nominal capital or voting rights must within one month give notice to the company of the first name and surname and the address of the natural person for whom it is ultimately acting (the beneficial owner).
+<sup>1</sup> Any person who alone or by agreement with third parties acquires capital contributions and thus reaches or exceeds the threshold of 25 per cent of the nominal capital or rights to vote must within one month give notice to the company of the first name and surname and the address of the natural person for whom it is ultimately acting (the beneficial owner).
 
 <sup>2</sup> If the company member is a legal entity or partnership, each natural person that controls the company member in analogous application of Article 963 paragraph 2 must be recorded as a beneficial owner. If there is no such person, the company member must give notice of this to the company.
 
@@ -12312,17 +13097,19 @@ The following information must be entered in the register of contributions:
 
 <sup>4</sup> The company member must within three months give notice to the company of any change to the first name or surname or the address of the beneficial owner.
 
-<sup>5</sup> The provisions of the law on companies limited by shares relating to the register of beneficial owners (Art. 697*l*) and the consequences of failing to comply with the obligations to give notice (Art. 697*m*) apply *mutatis mutandis*.
+<sup>5</sup> The provisions of the law on companies limited by shares relating to the register of beneficial owners (Art. 697*l*) and the consequences of failing to comply with the obligations to give notice (Art. 697*m*) apply mutatis mutandis.
 
-[^790a-1]: Inserted by No I 2 of the FA of 12 Dec. 2014 on the Implementation of the revised recommendations 2012 of the Financial Action Task Force ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)). Amended by No I 1 of the FA of 21 June 2019 on the Implementation of the Recommendations of the Global Forum on Transparency and the Exchange of Information for Tax Purposes, in force since 1 Nov. 2019 ([AS 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [BBl 2019 279](https://fedlex.data.admin.ch/eli/fga/2019/18)).
+[^790a-1]: Inserted by No I 2 of the FA of 12 Dec. 2014 on the Implementation of the revised recommendations 2012 of the Financial Action Task Force ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)). Amended by No I 1 of the FA of 21 June 2019 on the Implementation of the Recommendations of the Global Forum on Transparency and the Exchange of Information for Tax Purposes, in force since 1. Nov. 2019 ([AS 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [BBl 2019 279](https://fedlex.data.admin.ch/eli/fga/2019/18)).
 
 ### IV. Entry in the commercial register
 
 #### Art. 791
 
-<sup>1</sup> The name, address and place of origin of company members, together with the number and the nominal value of their capital contributions must be entered in the commercial register.
+[^791-1]
 
-<sup>2</sup> The company must give notice of registration.
+The company members, together with the number and the nominal value of their capital contributions must be entered in the commercial register.
+
+[^791-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### V. Common property
 
@@ -12341,7 +13128,7 @@ Where a capital contribution has two or more holders:
 
 <sup>2</sup> The payments may not be refunded.
 
-### C. Liability the company members
+### C. Liability of the company members
 
 #### Art. 794
 
@@ -12365,7 +13152,7 @@ The company is liable for its obligations to the extent of the company assets on
 
 #### Art. 795a
 
-<sup>1</sup> Additional financial contributions are called in by the managing directors.
+<sup>1</sup> Additional financial contributions shall be called in by the managing directors.
 
 <sup>2</sup>
 
@@ -12375,7 +13162,7 @@ They may be called in only if:
 - 2\. the company is unable to continue its business affairs in the proper manner without the additional funds;
 - 3\. the company requires equity capital for reasons specified in the articles of association.
 
-<sup>3</sup> Additional financial contributions fall due for payment if the company is declared bankrupt.
+<sup>3</sup> Additional financial contributions shall become due for payment if the company is declared bankrupt.
 
 ### 3. Repayment
 
@@ -12395,11 +13182,11 @@ Additional financial contributions may only be refunded in full or in part if th
 
 #### Art. 795d
 
-<sup>1</sup> Company members who resign from the company remain subject to the obligation to make additional financial contributions for three further years subject to the following conditions. The time of resignation is determined by the entry in the commercial register.
+<sup>1</sup> Company members who resign from the company remain subject to the obligation to make additional financial contributions for three further years subject to the following restrictions. The time of resignation is determined by the entry in the commercial register.
 
 <sup>2</sup> Company members who have been excluded must only make additional financial contributions if the company is declared bankrupt.
 
-<sup>3</sup> Their obligation to make additional financial contributions lapses insofar as it has been fulfilled by a legal successor.
+<sup>3</sup> Their obligation to make additional financial contributions shall lapse insofar as it has been fulfilled by a legal successor.
 
 <sup>4</sup> The extent of the obligation of company members who have resigned to make additional financial contributions may not be increased.
 
@@ -12421,37 +13208,37 @@ Additional financial contributions may only be refunded in full or in part if th
 
 The retrospective introduction or amendment of obligations to make additional financial or material contributions under the articles of association requires the consent of all the company members concerned.
 
-### E. Dividends, interest, shares of profits
+### IV. Arbitral tribunal
 
-### I. Dividends
+#### Art. 797a
+
+[^797a-1]
+
+The provisions of the law on companies limited by shares on the arbitral tribunal apply *mutatis mutandis*.
+
+[^797a-1]: Inserted by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### E. Dividends, interest, shares of profits paid to board members
 
 #### Art. 798
 
-<sup>1</sup> Dividends may only be paid from the balance sheet profit and from reserves formed for that purpose.
+[^798-1]
 
-<sup>2</sup> The dividend may only be determined once the allocations to the reserves required by law and by the articles of association have been deducted.
+The provisions of the law on companies limited by shares on dividends, interim dividends, interest before commencement of operations and shares of profits paid to board members apply *mutatis mutandis*.
 
-<sup>3</sup> The dividends must be determined in proportion to the nominal value of the capital contributions; if additional financial contributions have been made, this amount must be added to the nominal value in order to determine the dividends; the articles of association may provide for a different arrangement.
+[^798-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
-### II. Interest
+#### Art. 798a and 798b
 
-#### Art. 798a
+[^798a798b-1]
 
-<sup>1</sup> No interest may be paid on the nominal capital and additional financial contributions made.
-
-<sup>2</sup> The payment of interest to company members prior to commencement of the company’s operations is permitted. The corresponding provisions of the law on companies limited by shares on interest paid to company members prior to commencement of the company’s operations apply.
-
-### III. Shares of profits
-
-#### Art. 798b
-
-The articles of association may provide for the payment of shares of profits to managing directors. The corresponding provisions of the law on companies limited by shares on the payment of shares of profits to managing directors apply.
+[^798a798b-1]: Repealed by No I of the FA of 19 June 2020 (Company Law), with effect from 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### F. Preferential capital contributions
 
 #### Art. 799
 
-The corresponding provisions of the law on companies limited by shares on preference shares apply to preferential capital contributions.
+The provisions of the law on companies limited by shares on preference shares apply *mutatis mutandis* to preferential capital contributions.
 
 ### G. Refund of payments
 
@@ -12469,7 +13256,7 @@ The relevant provisions of the law on companies limited by shares apply to the r
 
 [^801-1]: Amended by No I 3 of the FA of 23 Dec. 2011 (Financial Reporting Law), in force since 1 Jan. 2013 ([AS 2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810); [BBl 2008 1589](https://fedlex.data.admin.ch/eli/fga/2008/416)).
 
-### J. Notification of the annual report
+### J. Sending the annual report
 
 #### Art. 801a
 
@@ -12477,17 +13264,19 @@ The relevant provisions of the law on companies limited by shares apply to the r
 
 <sup>2</sup> The company members may request that they be sent the version of the annual report that they have approved after members' general meeting.
 
-### K. Right to information and to inspect documents
+### K. Right to information and of inspection
 
 #### Art. 802
 
 <sup>1</sup> Any company member may request the managing directors to provide information on any company matter.
 
-<sup>2</sup> Unless the company has an auditor, company members have unrestricted access to the company books and files. If the company has an auditor, the books and files may be inspected only if a legitimate interest is credibly demonstrated.
+<sup>2</sup> Unless the company has an external auditor, company members have unrestricted access to the company ledgers and files.[^802-1] If the company has an external auditor, the books and files may be inspected only if a legitimate interest is credibly demonstrated.
 
 <sup>3</sup> If there is a risk that a company member may use the information obtained for non-company purposes that may be detrimental to the company, the managing directors may refuse to provide information and allow access to the extent required; if the company member so requests, the members’ general meeting decides on the matter.
 
 <sup>4</sup> If the members’ general meeting refuses to provide information or allow access without justification, the court may issue the relevant order at the request of the company member.
+
+[^802-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### L. Duty of loyalty and prohibition of competition
 
@@ -12517,9 +13306,10 @@ The members’ general meeting has the following inalienable powers:
 
 - 1\. to amend the articles of association;
 - 2\. to appoint and the remove the managing directors;
-- 3\. to appoint and remove the members of the auditor;
-- 4\.[^804-1] to approve the management report and the consolidated accounts;
+- 3\.[^804-1] to appoint and remove the members of the external auditor;
+- 4\.[^804-2] to approve the management report and the consolidated accounts;
 - 5\. to approve the annual accounts and the resolution on the allocation of the balance sheet profit, and in particular to set the dividend and the shares of profits paid to managing directors;
+- 5<sup>bis</sup>.[^804-3] to pass resolutions on repaying capital reserves;
 - 6\. to determine the fees paid to managing directors;
 - 7\. to discharge the managing directors;
 - 8\. to consent to the assignment of capital contributions or to recognise company members as having the right to vote;
@@ -12536,33 +13326,41 @@ The members’ general meeting has the following inalienable powers:
 
 <sup>3</sup> The members’ general meeting appoints the managers, the authorised signatories and authorised officers. The articles of association may also grant these powers to the managing directors.
 
-[^804-1]: Amended by No I 3 of the FA of 23 Dec. 2011 (Financial Reporting Law), in force since 1 Jan. 2013 ([AS 2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810); [BBl 2008 1589](https://fedlex.data.admin.ch/eli/fga/2008/416)).
+[^804-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^804-2]: Amended by No I 3 of the FA of 23 Dec. 2011 (Financial Reporting Law), in force since 1 Jan. 2013 ([AS 2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810); [BBl 2008 1589](https://fedlex.data.admin.ch/eli/fga/2008/416)).
+[^804-3]: Inserted by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### II. Convening and conduct of the meeting
 
 #### Art. 805
 
-<sup>1</sup> The members’ general meeting is convened by the managing directors, or if necessary by the auditors. The liquidators also have the right to convene a members' general meeting.
+<sup>1</sup> The members’ general meeting is convened by the managing directors, or if necessary by the external auditors. The liquidators also have the right to convene a members' general meeting.
 
 <sup>2</sup> The annual meeting is held every year within six months of the end of the financial year. Extraordinary meetings are convened in accordance with the articles of association or as required.
 
 <sup>3</sup> The members’ general meeting must be convened 20 days at the latest before the date of the meeting. The articles of association may extend this period or reduce it to no less than ten days. The possibility of a universal meeting is reserved.
 
-<sup>4</sup> Resolutions may also be done in writing unless a company members requests an oral discussion.
+<sup>4</sup> …[^805-1]
 
 <sup>5</sup>
 
-In addition, the relevant provisions on the company limited by shares apply to:
+In addition, the provisions of the law on companies limited by shares relating to the general meeting apply mutatis mutandis to:
 
 - 1\. convening the meeting;
-- 2\. the right of company members to convene a meeting and table motions;
+- 2\.[^805-2] the right of company members to convene a meeting and table agenda items and motions;
+- 2<sup>bis</sup>.[^805-3] the venue and the use of electronic means;
 - 3\. the business to be discussed;
 - 4\. motions;
-- 5\. universal meetings;
+- 5\.[^805-4] universal meetings and consent to a motion;
 - 6\. preparatory measures;
 - 7\. the minutes;
 - 8\. the representation of company members;
 - 9\. the participation of unauthorised persons.
+
+[^805-1]: Repealed by No I of the FA of 19 June 2020 (Company Law), with effect from 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^805-2]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^805-3]: Inserted by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^805-4]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### III. Voting rights
 
@@ -12570,15 +13368,15 @@ In addition, the relevant provisions on the company limited by shares apply to:
 
 #### Art. 806
 
-<sup>1</sup> The voting rights of company members are determined by the nominal value of their capital contributions. Each company member has at least one vote. The articles of association may limit the number of votes allocated to the owner of several capital contributions.
+<sup>1</sup> The right to vote of company members shall be determined by the nominal value of their capital contributions. Each company member shall have at least one vote. The articles of association may limit the number of votes allocated to the owner of several capital contributions.
 
-<sup>2</sup> The articles of association may specify that voting rights are not dependent on nominal value with the result that each capital contribution carries one vote. In this case, the capital contributions with the lowest nominal value must be worth at least one tenth of the nominal value of the other capital contributions.
+<sup>2</sup> The articles of association may specify that right to vote are not dependent on nominal value with the result that each capital contribution carries one vote. In this case, the capital contributions with the lowest nominal value must be worth at least one tenth of the nominal value of the other capital contributions.
 
 <sup>3</sup>
 
-The determination of the voting rights according to the number of capital contributions does not apply to:
+The determination of the right to vote according to the number of capital contributions does not apply to:
 
-- 1\. the appointment of the members of the auditor;
+- 1\. the appointment of the members of the external auditor;
 - 2\. the appointment of experts to inspect management practices or individual parts thereof;
 - 3\. the resolution on raising a liability action.
 
@@ -12614,13 +13412,13 @@ In the case of a usufruct over a capital contribution, the usufructuary has the 
 
 #### Art. 808
 
-The members’ general meeting passes resolutions and conducts its elections by an absolute majority of the votes represented, unless the law or articles of association provide otherwise.
+The members’ general meeting shall pass resolutions and conduct its elections by an absolute majority of the votes represented, unless the law or articles of association provide otherwise.
 
 ### 2. Casting vote
 
 #### Art. 808a
 
-The chair of the members’ general meeting has the casting vote. The articles of association may provide otherwise.
+The chair of the members’ general meeting shall have the casting vote. The articles of association may provide otherwise.
 
 ### 3. Important resolutions
 
@@ -12630,19 +13428,25 @@ The chair of the members’ general meeting has the casting vote. The articles o
 
 A resolution of the members’ general meeting passed by a majority of at least two thirds of the votes represented and an absolute majority of the entire nominal capital in respect of which a right to vote may be exercised is required in the case of:
 
-- 1\. the amendment of the objects of the company;
-- 2\. the introduction of capital contributions with preferential voting rights;
-- 3\. an increase in or easing of the restrictions on or the prohibition of the transferability of capital contributions;
-- 4\. consent to the assignment of capital contributions or recognition as a company member who is entitled to vote;
-- 5\. an increase in the nominal capital;
-- 6\. the restriction or revocation of subscription rights;
-- 7\. consent to activities of the managing director or company members that are contrary to the duty of loyalty or the prohibition of competition;
-- 8\. an application to the court to exclude a company member for good cause;
-- 9\. the exclusion of a company member on the grounds specified in the articles of association planned;
-- 10\. the relocation of the seat of the company;
-- 11\. the dissolution the company.
+- 1\. amending the objects of the company;
+- 2\. introducing capital contributions with preferential right to vote;
+- 3\. increasing or easing the restrictions on or the prohibition of the transferability of capital contributions;
+- 4\. consenting to the assignment of capital contributions or recognition as a company member who is entitled to vote;
+- 5\. increasing the nominal capital;
+- 6\. restricting or revoking subscription rights;
+- 6<sup>bis</sup>.[^808b-1] changing the currency of the nominal capital;
+- 7\. consenting to activities of the managing director or company members that are contrary to the duty of loyalty or the prohibition of competition;
+- 8\. applying to the court to exclude a company member for good cause;
+- 9\. excluding a company member on the grounds specified in the articles of association planned;
+- 10\. relocating the seat of the company;
+- [tab] 10<sup>bis</sup>.[^808b-2] introducing an arbitration clause into the articles of association;
+- 11\. dissolving the company.
 
-<sup>2</sup> Provisions of the articles of association stipulating larger majorities than those required by law for certain resolutions may only be introduced if approved by the planned majority.
+<sup>2</sup> Provisions of the articles of association stipulating larger majorities than those required by law for certain resolutions may only be introduced, amended or repealed if approved by the required majority.[^808b-3]
+
+[^808b-1]: Inserted by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^808b-2]: Inserted by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^808b-3]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### VI. Contesting resolutions of the members' general meeting
 
@@ -12652,43 +13456,46 @@ The relevant provisions on companies limited by shares apply to the contesting o
 
 ### B. Management and representation
 
-### I. designation the managing director and organisation
+### I. Designation the managing director and organisation
 
 #### Art. 809
 
 <sup>1</sup> The company members are jointly responsible for the management of the company. The articles of association may adopt alternative provisions on management.
 
-<sup>2</sup> Only natural persons may be appointed as managing directors. Where a legal entity or a commercial enterprise is a participant in the company, if applicable it appoints a natural person to exercise this function in its stead. The articles of association may require the consent of the members' general meeting for this.
+<sup>2</sup> Only natural persons may be appointed as managing directors. Where a legal entity or a commercial enterprise is a participant in the company, if applicable it shall appoint a natural person to exercise this function in its stead. The articles of association may require the consent of the members' general meeting for this.
 
-<sup>3</sup> Where a company has two or more managing directors, the members' general meeting must appoint a chairman.
+<sup>3</sup> Where a company has two or more managing directors, the members' general meeting must appoint a chair.
 
-<sup>4</sup> Where a company has two or more managing directors, they decide by a majority of the votes cast. The chairman has the casting vote. The articles of association may adopt alternative provisions on decision making by the managing directors.
+<sup>4</sup> Where a company has two or more managing directors, they decide by a majority of the votes cast. The chair has the casting vote. The articles of association may adopt alternative provisions on decision making by the managing directors.
 
 ### II. Duties of the managing directors
 
 #### Art. 810
 
-<sup>1</sup> The managing directors are responsible for all matters not assigned by law or the articles of association to the members’ general meeting.
+<sup>1</sup> The managing directors shall be responsible for all matters not assigned by law or the articles of association to the members’ general meeting.
 
 <sup>2</sup>
 
-Subject to the reservation of the following provisions, the managing directors have the following inalienable and irrevocable duties:
+Subject to the reservation of the following provisions, the managing directors shall have the following inalienable and irrevocable duties:
 
 - 1\. the overall management of the company and issuing the required directives;
 - 2\. determining the organisation in accordance with the law and the articles of association;
 - 3\. organising the accounting, financial control and financial planning systems as required for the management of the company;
 - 4\. supervising of the persons who are delegated management responsibilities, in particular with regard to compliance with the law, articles of association, regulations and directives;
-- 5\. the preparation of the annual report (annual accounts, management report and if applicable consolidated accounts);
-- 6\. the preparation for the members’ general meeting as well as the implementation of its resolutions;
-- 7\. the notification of the court in the event that the company is overindebted.
+- 5\.[^810-1] preparing the annual report;
+- 6\. preparing for the members’ general meeting and implementing its resolutions;
+- 7\.[^810-2] filing an application for a debt restructuring moratorium and notifying the court in the event that the company is overindebted.
 
 <sup>3</sup>
 
-The chairman of the executive board or if applicable the sole managing director has the following duties:
+The chair of the executive board or if applicable the sole managing director has the following duties:
 
 - 1\. to convene and chair the members’ general meeting;
 - 2\. to issue communications to the company members;
 - 3\. to ensure the required notifications are made to the commercial register.
+
+[^810-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^810-2]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### III. Approval by the members' general meeting
 
@@ -12733,9 +13540,10 @@ The managing directors and third parties who are involved in management must tre
 
 <sup>5</sup> The persons authorised to represent the company must sign on its behalf by appending their signature to the business name.
 
-<sup>6</sup> They must be entered in the commercial register. They must enter their own signatures in person at the office of the commercial registrar or submit these in a duly authenticated form.
+<sup>6</sup> …[^814-2]
 
-[^814-1]: Amended by No I 2 of the FA of 12 Dec. 2014 on the Implementation of the revised recommendations 2012 of the Financial Action Task Force, in force since 1 July 2015 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
+[^814-1]: Amended by No I 2 of the FA of 12 Dec. 2014 on the Implementation of the 2012 revised recommendations of the Financial Action Task Force, in force since 1 July 2015 ([AS 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [BBl 2014 605](https://fedlex.data.admin.ch/eli/fga/2014/100)).
+[^814-2]: Repealed by No I of the FA of 19 June 2020 (Company Law), with effect from 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### VII. Removal of managing directors; Revocation of the right to represent the company
 
@@ -12763,27 +13571,29 @@ Decisions made by the managing directors are subject *mutatis mutandis* to the s
 
 The company is liable for losses or damage caused by unauthorised acts carried out in the exercise of his business activities by a person authorised to manage or represent the company.
 
-### C. Auditor
+### C. External auditor
 
 #### Art. 818
 
-<sup>1</sup> The relevant provisions on companies limited by shares apply to the auditor.
+<sup>1</sup> The relevant provisions on companies limited by shares apply to the external auditor.
 
 <sup>2</sup> A company member subject to an obligation to make additional financial contributions may request an ordinary audit of the annual accounts.
 
-### D. Defects in the organisation the company
+### D. Defects in the Organisation of the Company
 
 #### Art. 819
 
 The relevant provisions on companies limited by shares apply to defects in the organisation the company.
 
-### E. Loss of capital and overindebtedness
+### E. Imminent insolvency, loss of capital and overindebtedness
 
 #### Art. 820
 
-<sup>1</sup> The relevant provisions on companies limited by shares apply to the duty to notify in the event of a loss of capital or the overindebtedness of the company and to the commencement and stay of bankruptcy proceedings.
+[^820-1]
 
-<sup>2</sup> The court may stay bankruptcy proceedings at the request of the managing directors or of a creditor, in particular if outstanding additional capital contributions will be paid without delay and there is a prospect of restructuring.
+The provisions of the law on companies limited by shares on imminent insolvency, loss of capital, overindebtedness and the revaluation of immovable property and participations apply *mutatis mutandis*.
+
+[^820-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### Section Four: Dissolution and Resignation
 
@@ -12802,7 +13612,7 @@ A limited liability company must be dissolved:
 - 3\. if bankruptcy proceedings are commenced;
 - 4\. in the other cases provided for by the law.
 
-<sup>2</sup> If the members’ general meeting resolves to dissolve the company, the resolution must be in the form of a public deed.
+<sup>2</sup> If the members’ general meeting resolves to dissolve the company, the resolution must be done as a public deed.
 
 <sup>3</sup> Any company member may request the court to dissolve the company for good cause. Instead of dissolution, the court may opt for an alternative solution that is appropriate and reasonable for the persons concerned, such as the payment of a financial settlement to the company member requesting dissolution commensurate with the true value of his capital contribution.
 
@@ -12810,7 +13620,7 @@ A limited liability company must be dissolved:
 
 #### Art. 821a
 
-<sup>1</sup> The relevant provisions on companies limited by shares apply to the consequences of dissolution.
+<sup>1</sup> The relevant provisions on companies limited by shares apply *mutatis mutandis* to the consequences of dissolution.
 
 <sup>2</sup> The dissolution of a company must be entered in the commercial register. Where dissolution is ordered by the court, the court must notify the commercial register without delay. Where dissolution is on other grounds, the company must notify the Commercial Register.
 
@@ -12872,33 +13682,33 @@ The financial settlement becomes due for payment when the company members leaves
 
 <sup>2</sup> A licensed audit expert must establish the extent of the disposable equity capital. If this is insufficient to pay the financial settlement, he must state his opinion on the extent to which the nominal capital could be reduced.
 
-<sup>3</sup> The former company member holds a non-interest-bearing subordinate ranking claim in respect of any portion of the financial settlement that is not paid out. This becomes due for payment to the extent that disposable equity capital is declared to be available in the annual annual report.
+<sup>3</sup> The former company member holds a non-interest-bearing subordinate ranking claim in respect of any portion of the financial settlement that is not paid out. This becomes due for payment to the extent that disposable equity capital is declared to be available in the annual report.
 
-<sup>4</sup> For as long as the financial settlement has not been paid in full, the former company member may request that the company appoint an auditor and arrange for an ordinary audit of the annual accounts.
+<sup>4</sup> For as long as the financial settlement has not been paid in full, the former company member may request that the company appoint an external auditor and arrange for an ordinary audit of the annual accounts.
 
 ### C. Liquidation
 
 #### Art. 826
 
-<sup>1</sup> Each company member has the right to a share of the proceeds of liquidation corresponding to fraction that nominal value of his capital contribution represents of the nominal capital. Where additional financial contributions have been made and not refunded, their value must be added to the capital contributions of the company member concerned and to the nominal capital. The articles of association may adopt an alternative provision.
+<sup>1</sup> Each company member shall have the right to a share of the proceeds of liquidation corresponding to fraction that nominal value of his capital contribution represents of the nominal capital. Where additional financial contributions have been made and not refunded, their value must be added to the capital contributions of the company member concerned and to the nominal capital. The articles of association may adopt an alternative provision.
 
-<sup>2</sup> The relevant provisions on companies limited by shares apply to the dissolution of a company with liquidation.
+<sup>2</sup> The relevant provisions on companies limited by shares apply *mutatis mutandis* to the dissolution of a company with liquidation.
 
 ### Section Five: Liability
 
 #### Art. 827
 
-The relevant provisions on companies limited by shares apply to the liability of persons who are involved in the establishment, management, auditing or liquidation of a limited liability company.
+The relevant provisions on companies limited by shares apply to the liability of persons who are involved in the foundation, management, auditing or liquidation of a limited liability company.
 
 ### Title Twenty-Nine: The Cooperative
 
-### Section One: Definition and Establishment
+### Section One: Definition and Foundation
 
 ### A. Cooperatives under the Code of Obligations
 
 #### Art. 828
 
-<sup>1</sup> A cooperative is a corporate entity consisting of an unlimited number of persons or commercial enterprises which primarily aims to promote or safeguard the economic interests of the society’s members by way of collective self-help or which is established for charitable purposes.[^828-1]
+<sup>1</sup> A cooperative is a corporate entity consisting of an unlimited number of persons or commercial enterprises which primarily aims to promote or safeguard the economic interests of the cooperative’s members by way of collective self-help or which is founded for charitable purposes.[^828-1]
 
 <sup>2</sup> Cooperatives with a predetermined nominal capital are not permitted.
 
@@ -12910,7 +13720,7 @@ The relevant provisions on companies limited by shares apply to the liability of
 
 Associations of persons under public law are governed by federal and cantonal public law even where formed to pursue cooperative purposes.
 
-### C. Establishment
+### C. Foundation
 
 ### I. Requirements
 
@@ -12918,15 +13728,19 @@ Associations of persons under public law are governed by federal and cantonal pu
 
 #### Art. 830
 
-The cooperative is established by entry in the commercial register once the articles of association have been drawn up and approved by the constituent assembly.
+[^830-1]
+
+A cooperative shall be founded by the founders declaring in a public deed that they are founding a cooperative and specifying therein the articles of association and the governing bodies.
+
+[^830-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 2. Number of members
 
 #### Art. 831
 
-<sup>1</sup> At least seven members must be involved in the establishment of a cooperative.
+<sup>1</sup> At least seven members must be involved in the foundation of a cooperative.
 
-<sup>2</sup> Where the number of members subsequently drops below the minimum number, the provisions of the law on companies limited by shares on defects in the organisation of a company apply.[^831-1]
+<sup>2</sup> Where the number of members subsequently drops below the minimum number, the provisions of the law on companies limited by shares on defects in the organisation of a company apply *mutatis mutandis*.[^831-1]
 
 [^831-1]: Amended by No I 3 of the FA of 16 Dec. 2005 (Law on Limited Liability Companies and Amendments to the Law on Companies limited by Shares, Cooperatives, the Commercial Register and Business Names), in force since 1 Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 
@@ -12938,13 +13752,14 @@ The cooperative is established by entry in the commercial register once the arti
 
 The articles of association must contain provisions concerning:
 
-- 1\. the name (business name) and seat of the cooperative;
+- 1\.[^832-1] the business name and seat of the cooperative;
 - 2\. the objects of the cooperative;
-- 3\. any obligation on members to make cash or other contributions and the nature and amount thereof;
-- 4\.[^832-1] the governing bodies for the administration and for auditing and the manner in which it is to be represented;
-- 5\. the form of the cooperative’s external communications.
+- [tab] 3. and 4.[^832-2] …
+- 5\.[^832-3] the form of the cooperative’s communications with its members.
 
-[^832-1]: Amended by No I 3 of the FA of 16 Dec. 2005 (Law on Limited Liability Companies and Amendments to the Law on Companies limited by Shares, Cooperatives, the Commercial Register and Business Names), in force since 1 Jan. 2008 (AS **2007** 479 ; [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+[^832-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^832-2]: Repealed by No I of the FA of 19 June 2020 (Company Law), with effect from 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^832-3]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 2. Further provisions
 
@@ -12954,26 +13769,30 @@ In order to be binding, provisions on the following matters must be included in 
 
 - 1\. creation of the cooperative’s nominal capital by means of cooperative shares (share certificates);
 - 2\. contributions in kind to the cooperative’s nominal capital, the nature and imputed value thereof and the requirements pertaining to the person of the contributor;
-- 3\. assets taken over on establishment of the society, the remuneration for such assets and the requirements pertaining to the person of their owner;
+- 3\.[^833-1] …
 - 4\. accession to the cooperative and loss of membership, where such rules differ from the statutory provisions;
-- 5\. members’ personal liability and their liability to make additional contributions;
-- 6\. the organisation and representation of the society, amendment of its articles of association and the adoption of resolutions by the general assembly, where such rules differ from the statutory provisions;
-- 7\. restrictions on or extensions of the exercise of members’ voting rights;
-- 8\. the calculation and allocation of net profit and the liquidation surplus.
+- 5\.[^833-2] members’ personal liability and their liability to make additional contributions and an obligation for members to make cash or other contributions and the nature and amount thereof;
+- 6\. the organisation and representation of the cooperative, amendment of its articles of association and the adoption of resolutions by the general assembly, where such rules differ from the statutory provisions;
+- 7\. restrictions on or extensions of the exercise of members’ right to vote;
+- 8\.[^833-3] the calculation and allocation of balance sheet profit and the liquidation surplus.
+
+[^833-1]: Repealed by No I of the FA of 19 June 2020 (Company Law), with effect from 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^833-2]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^833-3]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### III. Constituent assembly
 
 #### Art. 834
 
-<sup>1</sup> The articles of association are drawn up in writing and submitted to an assembly convened by the founder members for consultation and approval.
+<sup>1</sup> The articles of association shall be drawn up in writing and submitted to an assembly convened by the founder members for consultation and approval.
 
-<sup>2</sup> Further, a written report by the founder members on any contributions in kind and assets to be taken over is made available to the assembly for consultation. The founder members must confirm that there are no other contributions in kind, acquisitions in kind or intended acquisitions in kind, instances of offsetting or special privileges other than those mentioned in the supporting documents.[^834-1]
+<sup>2</sup> In addition, a written report by the founder members on any contributions in kind shall be made available to the assembly for consultation. The founder members must confirm that there are no contributions in kind, instances of offsetting or special privileges other than those mentioned in the supporting documents.[^834-1]
 
-<sup>3</sup> This assembly also appoints the necessary governing bodies.
+<sup>3</sup> This assembly shall also appoint the necessary governing bodies.
 
 <sup>4</sup> Until the cooperative has been entered in the commercial register, the membership may be established only by signing the articles of association.
 
-[^834-1]: Second sentence inserted by No I 2 of the FA of 17 March 2017 (Commercial Register Law), in force since 1 Jan. 2021 ([AS 2020 957](https://fedlex.data.admin.ch/eli/oc/2020/178); [BBl 2015 3617](https://fedlex.data.admin.ch/eli/fga/2015/956)).
+[^834-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### IV. Entry in the commercial register
 
@@ -12983,7 +13802,7 @@ In order to be binding, provisions on the following matters must be included in 
 
 [^835-1]
 
-The cooperative is entered in the commercial register of the place at which it has its seat.
+The cooperative shall be entered in the commercial register of the place at which it has its seat.
 
 [^835-1]: Amended by No I 3 of the FA of 16 Dec. 2005 (Law on Limited Liability Companies and Amendments to the Law on Companies limited by Shares, Cooperatives, the Commercial Register and Business Names), in force since 1 Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 
@@ -13011,11 +13830,21 @@ The cooperative is entered in the commercial register of the place at which it h
 
 #### Art. 838
 
-<sup>1</sup> The cooperative acquires legal personality only through entry in the commercial register.
+<sup>1</sup> The cooperative shall acquire legal personality only through entry in the commercial register.
 
-<sup>2</sup> A person acting in the name of the cooperative prior to entry in the commercial register is liable personally and jointly and severally for his actions.
+<sup>2</sup> Persons acting in the name of the cooperative prior to entry in the commercial register are liable personally and jointly and severally for their actions.
 
-<sup>3</sup> Where such obligations were entered into expressly in the name of the cooperative to be established and are assumed by the latter within three months of its entry in the commercial register, the persons who contracted them are released and only the cooperative is liable.
+<sup>3</sup> Where such obligations were entered into expressly in the name of the cooperative to be founded and are assumed by the latter within three months of its entry in the commercial register, the persons who contracted them are released and only the cooperative is liable.
+
+### D. Amendment of the articles of association
+
+#### Art. 838a
+
+[^838a-1]
+
+A resolution of the general assembly or the board on an amendment of the articles of association must be done as a public deed and entered in the commercial register.
+
+[^838a-1]: Inserted by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### Section Two: Acquisition of Membership
 
@@ -13035,13 +13864,13 @@ The cooperative is entered in the commercial register of the place at which it h
 
 <sup>2</sup> Where, in addition to being liable with its assets, a cooperative provides for personal liability or the liability to make additional contributions on the part of the individual members, the declaration of accession must state such obligations expressly.
 
-<sup>3</sup> The directors decide on acceptance of new members, unless under the articles of association, a mere declaration of accession is sufficient or a resolution of the general assembly is required.
+<sup>3</sup> The board shall decide on acceptance of new members, unless under the articles of association a mere declaration of accession is sufficient or a resolution of the general assembly is required.
 
 ### C. In connection with an insurance policy
 
 #### Art. 841
 
-<sup>1</sup> Where membership of the cooperative is linked with taking out an insurance policy with such society, membership is acquired on acceptance of the insurance application by the competent governing body.
+<sup>1</sup> Where membership of the cooperative is linked with taking out an insurance policy with the cooperative, membership shall be acquired on acceptance of the insurance application by the competent governing body.
 
 <sup>2</sup> Insurance policies concluded by a licensed insurance cooperative with its members are subject to the Federal Act of 2 April 1908[^841-1] on Insurance Policies in the same manner as insurance policies concluded with third parties.
 
@@ -13055,11 +13884,11 @@ The cooperative is entered in the commercial register of the place at which it h
 
 #### Art. 842
 
-<sup>1</sup> Provided no resolution has been made to dissolve the cooperative, every member is free to leave.
+<sup>1</sup> Unless a resolution has been passed to dissolve the cooperative, any member is free to leave.
 
-<sup>2</sup> The articles of association may provide that the departing member is obliged to pay an appropriate severance penalty where in the circumstances his departure causes the cooperative significant losses or jeopardises its continued existence.
+<sup>2</sup> The articles of association may provide that a departing member is required to pay an appropriate severance penalty where in the circumstances the departure causes the cooperative significant losses or jeopardises its continued existence.
 
-<sup>3</sup> Any permanent ban on or excessive obstacle to departure imposed by the articles of association or by agreement is void.
+<sup>3</sup> Any permanent ban on or excessive obstacle to departure imposed by the articles of association or by agreement shall be void.
 
 ### II. Restriction of departure
 
@@ -13073,7 +13902,7 @@ The cooperative is entered in the commercial register of the place at which it h
 
 #### Art. 844
 
-<sup>1</sup> Members may leave only as of the end of the financial year and on expiry of one year’s notice.
+<sup>1</sup> Members may leave only at the end of the financial year and on expiry of one year’s notice.
 
 <sup>2</sup> The articles of association may stipulate a shorter notice period and may permit departures in the course of the financial year.
 
@@ -13081,7 +13910,7 @@ The cooperative is entered in the commercial register of the place at which it h
 
 #### Art. 845
 
-Where the articles of association grant a departing member a share of the cooperative’s assets, a bankrupt member’s right to leave may be exercised by the bankruptcy administrators or, if his share has been attached, by the debt collection office.
+Where the articles of association grant a departing member a share of the cooperative’s assets, a bankrupt member’s right to leave may be exercised by the bankruptcy administrators or, if the member’s share has been attached, by the debt collection office.
 
 ### B. Exclusion
 
@@ -13091,7 +13920,7 @@ Where the articles of association grant a departing member a share of the cooper
 
 <sup>2</sup> Moreover, a member may be excluded at any time for good cause.
 
-<sup>3</sup> Exclusions are decided by the general assembly. The articles of association may stipulate that the directors are responsible, in which case the excluded member has right of recourse to the general assembly. A member may appeal against his exclusion to the courts within three months.
+<sup>3</sup> Exclusions shall be decided by the general assembly. The articles of association may stipulate that the board is responsible, in which case the excluded member has a right of recourse to the general assembly. A member may appeal against exclusion to the courts within three months.
 
 <sup>4</sup> The excluded member may be required to pay an appropriate severance penalty on the same conditions as apply to members with an unrestricted right of departure.
 
@@ -13099,9 +13928,9 @@ Where the articles of association grant a departing member a share of the cooper
 
 #### Art. 847
 
-<sup>1</sup> Membership lapses on the death of the member.
+<sup>1</sup> Membership shall lapse on the death of the member.
 
-<sup>2</sup> However, the articles of association may stipulate that his heirs automatically become members of the cooperative.
+<sup>2</sup> However, the articles of association may stipulate that the member’s heirs automatically become members of the cooperative.
 
 <sup>3</sup> Further, the articles of association may stipulate that the heirs or one of two or more heirs must, on written request, be recognised as member in place of the deceased member.
 
@@ -13119,9 +13948,9 @@ Where membership of a cooperative is linked to the holding of an office or an em
 
 #### Art. 849
 
-<sup>1</sup> The assignment of shares in the cooperative and, where a certificate is issued as proof of membership or such share, the transfer of this certificate do not automatically make the acquirer a member. He becomes a member only after the existing members have passed a resolution of acceptance as required by law and the articles of association.
+<sup>1</sup> The assignment of shares in the cooperative and, where a certificate is issued as proof of membership or such share, the transfer of this certificate do not automatically make the acquirer a member. The acquirer becomes a member only after the existing members have passed a resolution of acceptance as required by law and the articles of association.
 
-<sup>2</sup> Until such time as the acquirer becomes a member, the alienator is entitled to exercise his personal membership rights.
+<sup>2</sup> Until such time as the acquirer becomes a member, the alienator is entitled to exercise the personal membership rights.
 
 <sup>3</sup> Where membership of a cooperative is linked with a contract, the articles of association may stipulate that, if the contract is subsequently taken over, membership automatically passes to the legal successor.
 
@@ -13131,15 +13960,15 @@ Where membership of a cooperative is linked to the holding of an office or an em
 
 <sup>1</sup> The articles of association may make membership of a cooperative conditional on ownership or commercial exploitation of a property.
 
-<sup>2</sup> In such cases the articles of association may stipulate that, in the event that the property or commercial operations change hands, membership automatically passes to the acquirer.
+<sup>2</sup> In such cases the articles of association may stipulate that, in the event that the property or commercial operations change hands, membership shall automatically pass to the acquirer.
 
-<sup>3</sup> A transfer of membership resulting from the alienation of property is valid as against third parties only if entered under priority notice in the land register.
+<sup>3</sup> A transfer of membership resulting from the alienation of property shall be valid as against third parties only if entered under priority notice in the land register.
 
 ### F. Departure of the legal successor
 
 #### Art. 851
 
-In the case of transfer and inheritance of membership, the conditions for leaving the society are the same for the legal successor as for the former member.
+In the case of transfer and inheritance of membership, the conditions for leaving the cooperative are the same for the legal successor as for the former member.
 
 ### Section Four: Rights and Obligations of the Members
 
@@ -13173,35 +14002,42 @@ The members all have equal rights and obligations, unless the law makes an excep
 
 #### Art. 855
 
-The rights of members to participate in the affairs of the cooperative, in particular with regard to the management of its business and the promotion of the society’s interests, are exercised by taking part in the general assembly of members or, where prescribed by law, in ballots.
+The rights of members to participate in the affairs of the cooperative, in particular with regard to the management of its business and the promotion of the cooperative’s interests, are exercised by taking part in the general assembly of members or, where prescribed by law, in ballots.
 
-### II. Control by the members
+### II. Control by the members 1. Notice of the annual report
 
-### 1. Disclosure of the balance sheet
+[^part3-tit29-chap4-lvlD-lvlII-1]
+
+[^part3-tit29-chap4-lvlD-lvlII-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 856
 
 <sup>1</sup> No later than ten days prior to the general assembly of members or the ballot to decide on approval of the management report, the consolidated accounts and the annual accounts, these documents together with the audit report must be made available at the seat of the cooperative for inspection by its members.[^856-1]
 
-<sup>2</sup> The articles of association may stipulate that each member is entitled, at his own expense, to request a copy of the profit and loss account and the balance sheet from the cooperative.
+<sup>2</sup> Unless the documents are electronically accessible, any member may for one year following the general assembly request that they be sent the annual report in the form approved by the general assembly together with the audit report.[^856-2]
 
 [^856-1]: Amended by No I 3 of the FA of 23 Dec. 2011 (Financial Reporting Law), in force since 1 Jan. 2013 ([AS 2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810); [BBl 2008 1589](https://fedlex.data.admin.ch/eli/fga/2008/416)).
+[^856-2]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 2. Release of information
 
 #### Art. 857
 
-<sup>1</sup> The members may draw the attention of the auditor to dubious procedures and request the necessary information.[^857-1]
+<sup>1</sup> The members may draw the attention of the external auditor to dubious procedures and request the necessary information.[^857-1]
 
-<sup>2</sup> The society’s ledgers and business correspondence may be inspected only with the express authorisation of the general assembly of members or by resolution of the directors and if measures are taken to safeguard trade secrets.
+<sup>2</sup> The cooperative’s ledgers and business correspondence may be inspected only with the express authorisation of the general assembly of members or by resolution of the board and if measures are taken to safeguard trade secrets.
 
 <sup>3</sup> The court may order the cooperative to provide the members with information on significant matters relevant to the exercise of their right of control in the form of authenticated copies from its ledgers or correspondence. The court order must not jeopardise the interests of the cooperative.
 
-<sup>4</sup> The members’ right of control may not be excluded or restricted either by the articles of association or by resolutions made by a governing body of the society.
+<sup>4</sup> The members’ right of control may not be excluded or restricted either by the articles of association or by resolutions made by a governing body of the cooperative.
 
 [^857-1]: Amended by No I 3 of the FA of 16 Dec. 2005 (Law on Limited Liability Companies and Amendments to the Law on Companies limited by Shares, Cooperatives, the Commercial Register and Business Names), in force since 1 Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 
-### III. Rights to share the net profit
+### III. Rights to share in the annual profit
+
+[^part3-tit29-chap4-lvlD-lvlII-lvl2-1]
+
+[^part3-tit29-chap4-lvlD-lvlII-lvl2-1]: Term in accordance with No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)). This amendment has been made in the provisions specified in the AS.
 
 ### 1. ...
 
@@ -13215,35 +14051,35 @@ The rights of members to participate in the affairs of the cooperative, in parti
 
 #### Art. 859
 
-<sup>1</sup> Unless the articles of association provide otherwise, any net profit on the cooperative’s business operations passes in its entirety to the society’s assets.
+<sup>1</sup> Unless the articles of association provide otherwise, any annual profit on the cooperative’s business operations passes in its entirety to the cooperative’s assets.
 
-<sup>2</sup> Where distribution of the net profit among the members is provided for, unless the articles of association dictate otherwise, it is distributed according to the use of the society’s facilities by individual members.
+<sup>2</sup> Where distribution of the annual profit among the members is provided for, unless the articles of association dictate otherwise, it shall be distributed according to the use of the cooperative’s facilities by individual members.
 
-<sup>3</sup> Where share certificates exist, the portion of the net profit paid out on them must not exceed the usual rate of interest for long-term loans without special security.
+<sup>3</sup> Where share certificates exist, the portion of the annual profit paid out on them must not exceed the usual rate of interest for long-term loans without special security.
 
 ### 3. Duty to form and accumulate a reserve fund
 
 #### Art. 860
 
-<sup>1</sup> Where the net profit is used for a purpose other than to build up the society’s assets, each year one twentieth of it must be allocated to a reserve fund. Such allocations must be made for at least 20 years; where share certificates exist, they must in any event be made until the reserve fund is equal to one-fifth of the society’s capital.
+<sup>1</sup> Where the net profit is used for a purpose other than to build up the cooperative’s assets, each year one twentieth of it must be allocated to a reserve fund. Such allocations must be made for at least 20 years; where share certificates exist, they must in any event be made until the reserve fund is equal to one-fifth of the cooperative’s capital.
 
 <sup>2</sup> The articles of association may stipulate that the reserve fund must be accumulated more rapidly.
 
-<sup>3</sup> To the extent that the reserve fund does not exceed one-half of the society’s other assets or, where share certificates exist, one-half of the society’s capital, it may be used only to cover losses or for measures designed to sustain the society’s pursuit of its objects in difficult times.
+<sup>3</sup> To the extent that the reserve fund does not exceed one-half of the cooperative’s other assets or, where share certificates exist, one-half of the cooperative’s capital, it may be used only to cover losses or for measures designed to sustain the cooperative’s pursuit of its objects in difficult times.
 
 <sup>4</sup> ...[^860-1]
 
 [^860-1]: Repealed by Annex No II 1 of the Insurance Oversight Act of 17 Dec. 2004, with effect from 1 Jan. 2006 ([AS 2005 5269](https://fedlex.data.admin.ch/eli/oc/2005/734); [BBl 2003 3789](https://fedlex.data.admin.ch/eli/fga/2003/577)).
 
-### 4. Net profit at credit cooperatives
+### 4. Annual profit at credit cooperatives
 
 #### Art. 861
 
-<sup>1</sup> Credit cooperatives may lay down articles of association that derogate from the provisions governing distribution of net profit contained in the previous articles, but they too are obliged to form a reserve fund and to use it in accordance with the above provisions.
+<sup>1</sup> Credit cooperatives may lay down articles of association that derogate from the provisions governing distribution of annual profit contained in the previous articles, but they too are obliged to form a reserve fund and to use it in accordance with the above provisions.
 
-<sup>2</sup> Each year at least one-tenth of the net profit must be allocated to the reserve fund until it equals one-tenth of the cooperative’s nominal capital.
+<sup>2</sup> Each year at least one-tenth of the annual profit must be allocated to the reserve fund until it equals one-tenth of the cooperative’s nominal capital.
 
-<sup>3</sup> Where a portion of the net profit is paid out to holders of shares in the cooperative and that portion exceeds the usual rate of interest for long-term loans without special security, one-tenth of the amount by which it exceeds the usual interest rate must likewise be allocated to the reserve fund.
+<sup>3</sup> Where a portion of the annual profit is paid out to holders of shares in the cooperative and that portion exceeds the usual rate of interest for long-term loans without special security, one-tenth of the amount by which it exceeds the usual interest rate must likewise be allocated to the reserve fund.
 
 ### 5. Welfare funds
 
@@ -13259,11 +14095,11 @@ The rights of members to participate in the affairs of the cooperative, in parti
 
 #### Art. 863
 
-<sup>1</sup> Allocations to the reserve fund and other funds in accordance with the law and the articles of association are deducted in the first instance from the net profit available for distribution.
+<sup>1</sup> Allocations to the reserve fund and other funds in accordance with the law and the articles of association shall be deducted in the first instance from the annual profit available for distribution.
 
-<sup>2</sup> Where it is deemed appropriate in order to secure the long-term health of the cooperative, the general assembly of members may also resolve to create reserves which are not envisaged by or meet higher requirements than are specified by the law or the articles of association.
+<sup>2</sup> Where it is deemed appropriate in order to secure the long-term success of the cooperative, the general assembly of members may also resolve to create reserves which are not envisaged by or meet higher requirements than are specified by the law or the articles of association.
 
-<sup>3</sup> Similarly, contributions may be deducted from the net profit for the purpose of creating and financing welfare funds for employees, other workers and members or for other welfare purposes even where these are not envisaged in the articles of association; such contributions are subject to the provisions governing welfare funds established by the articles of association.
+<sup>3</sup> Similarly, contributions may be deducted from the annual profit for the purpose of creating and financing welfare funds for employees, other workers and members or for other welfare purposes even where these are not envisaged in the articles of association; such contributions are subject to the provisions governing welfare funds established by the articles of association.
 
 ### IV. Entitlement to settlement
 
@@ -13271,13 +14107,13 @@ The rights of members to participate in the affairs of the cooperative, in parti
 
 #### Art. 864
 
-<sup>1</sup> The articles of association determine whether the departing members or their heirs have claims on the society’s assets and, if so, what those claims are. Such claims must be calculated on the basis of the net balance sheet assets excluding reserves at the time the member leaves the cooperative.
+<sup>1</sup> The articles of association shall specify whether the departing members or their heirs have claims on the cooperative’s assets and, if so, what those claims are. Such claims must be calculated on the basis of the net balance sheet assets excluding reserves at the time the member leaves the cooperative.
 
-<sup>2</sup> The articles of association may grant the departing member or his heirs the right to the full or partial repayment of the value of his share certificate excluding the entry fee. They may stipulate that this repayment be deferred for up to three years after the member’s departure.
+<sup>2</sup> The articles of association may grant departing members or their heirs the right to the full or partial repayment of the value of their share certificate excluding the entry fee. They may stipulate that this repayment be deferred for up to three years after the member’s departure.
 
-<sup>3</sup> Even where the articles of association make no such provision, the cooperative remains entitled to defer the repayment for up to three years where it would cause the society considerable losses or jeopardise its continued existence. Any entitlement of the cooperative to a severance penalty paid by the departing member is unaffected by this provision.
+<sup>3</sup> Even where the articles of association make no such provision, the cooperative remains entitled to defer the repayment for up to three years where it would cause the cooperative considerable losses or jeopardise its continued existence. Any entitlement of the cooperative to a severance penalty paid by the departing member is unaffected by this provision.
 
-<sup>4</sup> The claims of the departing member or his heirs prescribe three years after the time at which the settlement becomes payable by the cooperative.
+<sup>4</sup> The claims of departing members or their heirs prescribe three years after the time at which the settlement becomes payable by the cooperative.
 
 ### 2. By law
 
@@ -13285,7 +14121,7 @@ The rights of members to participate in the affairs of the cooperative, in parti
 
 <sup>1</sup> Where the articles of association make no provision for a settlement entitlement, departing members or their heirs have no such entitlement.
 
-<sup>2</sup> Where the cooperative is dissolved within one year of the member’s departure or death and the assets are distributed, the departed member or his heirs have the same entitlement as the members present on dissolution.
+<sup>2</sup> Where the cooperative is dissolved within one year of the member’s departure or death and the assets are distributed, the departed member or their heirs have the same entitlement as the members present on dissolution.
 
 ### E. Duties
 
@@ -13303,9 +14139,9 @@ The members are obliged to safeguard the interests of the cooperative loyally an
 
 <sup>2</sup> Where the members are obliged to pay in contributions on share certificates or to make other contributions, the cooperative must call them in by registered letter with an appropriate time limit for performance.
 
-<sup>3</sup> Where no payment is forthcoming on first request and the member fails to comply within one month of a second call for payment, he may be declared to have forfeited his rights as member of the cooperative, providing he was previously warned of this consequence by registered letter.
+<sup>3</sup> Where no payment is forthcoming on first request and the member fails to comply within one month of a second call for payment, the member may be declared to have forfeited their rights as member of the cooperative, providing they were previously warned of this consequence by registered letter.
 
-<sup>4</sup> Unless the articles of association provide otherwise, the declaration of forfeiture does not release the member from obligations already due or falling due by virtue of his exclusion.
+<sup>4</sup> Unless the articles of association provide otherwise, the declaration of forfeiture does not release the member from obligations already due or falling due by virtue of their exclusion.
 
 ### III. Liability
 
@@ -13321,17 +14157,17 @@ The cooperative is liable with its assets for its obligations. It is liable excl
 
 #### Art. 869
 
-<sup>1</sup> Except in the case of licensed insurance cooperatives, the articles of association may provide that, after the society’s assets, the members have unlimited personal liability.
+<sup>1</sup> Except in the case of licensed insurance cooperatives, the articles of association may provide that, after the cooperative’s assets, the members have unlimited personal liability.
 
-<sup>2</sup> Where this is the case and creditors suffer losses on the insolvency of the cooperative, the members are jointly and severally liable with their entire assets for all obligations of the society. Claims in respect of this liability are brought by the insolvency administrators until the insolvency proceedings are complete.
+<sup>2</sup> Where this is the case and creditors suffer losses on the insolvency of the cooperative, the members are jointly and severally liable with their entire assets for all obligations of the cooperative. Claims in respect of this liability are brought by the insolvency administrators until the insolvency proceedings are complete.
 
 ### b. Limited liability
 
 #### Art. 870
 
-<sup>1</sup> Except in the case of licensed insurance cooperatives, the articles of association may provide that, after the society’s assets, the members have limited personal liability for the cooperative’s obligations above and beyond their membership contributions and the value of their cooperative shares, although only up to a specified amount.
+<sup>1</sup> Except in the case of licensed insurance cooperatives, the articles of association may provide that, after the cooperative’s assets, the members have limited personal liability for the cooperative’s obligations above and beyond their membership contributions and the value of their cooperative shares, although only up to a specified amount.
 
-<sup>2</sup> Where shares are held in the society, the amount for which the individual members are liable is determined by the value of their share.
+<sup>2</sup> Where shares are held in the cooperative, the amount for which the individual members are liable is determined by the value of their share.
 
 <sup>3</sup> Claims in respect of this liability are brought by the insolvency administrators until the insolvency proceedings are complete.
 
@@ -13341,9 +14177,9 @@ The cooperative is liable with its assets for its obligations. It is liable excl
 
 <sup>1</sup> Instead of or in addition to such liability, the articles of association may require the members to make additional contributions, which may be used only to cover net losses for the year.
 
-<sup>2</sup> The liability to make additional contributions may be unlimited or else limited to specified amounts or to a specified proportion of the member’s contribution or share in the society.
+<sup>2</sup> The liability to make additional contributions may be unlimited or else limited to specified amounts or to a specified proportion of the member’s contribution or share in the cooperative.
 
-<sup>3</sup> Where the articles of association make no provision on how additional contributions are to be shared among the members, the amount due from each is determined according to the value of his share in the society or, where no such shares exist, on a per capita basis.
+<sup>3</sup> Where the articles of association make no provision on how additional contributions are to be shared among the members, the amount due from each is determined according to the value of their shares in the cooperative or, where no such shares exist, on a per capita basis.
 
 <sup>4</sup> The additional contributions may be called in at any time. If the cooperative is insolvent, the right to call in additional contributions accrues to the insolvency administrators.
 
@@ -13359,11 +14195,11 @@ Any provisions made in the articles of association which limit liability to a sp
 
 #### Art. 873
 
-<sup>1</sup> In the event of the insolvency of a cooperative in which the members are personally liable or liable to make additional contributions, at the same time as they draw up the schedule of claims the insolvency administrators must determine and call in the provisional personal liability of each individual member or the additional contributions he must make.
+<sup>1</sup> In the event of the insolvency of a cooperative in which the members are personally liable or liable to make additional contributions, at the same time as they draw up the schedule of claims the insolvency administrators must determine and call in the provisional personal liability of each individual member or the additional contributions they must make.
 
 <sup>2</sup> Irrecoverable amounts must be spread equally among the other members, and surpluses repaid once the final distribution plan has been formulated. The members’ right of recourse against each other is reserved.
 
-<sup>3</sup> The provisional determination of members’ obligations and the distribution plan are subject to challenge by appeal on procedural grounds pursuant to the Debt Collection and Bankruptcy Act of 11 April 1889[^873-1].
+<sup>3</sup> The provisional determination of members’ obligations and the distribution plan are subject to challenge by appeal on procedural grounds pursuant to the Debt Enforcement and Bankruptcy Act of 11 April 1889[^873-1].
 
 <sup>4</sup> The procedure is determined by Federal Council ordinance.[^873-2]
 
@@ -13376,25 +14212,27 @@ Any provisions made in the articles of association which limit liability to a sp
 
 <sup>1</sup> The provisions governing the personal liability or liability to make additional contributions of the members and the reduction or cancellation of share certificates may be amended only by amending the articles of association.
 
-<sup>2</sup> Furthermore, the provisions governing reductions of share capital by companies limited by shares are applicable to any reduction or cancellation of share certificates.
+<sup>2</sup> Furthermore, the provisions governing reductions of capital by companies limited by shares apply to any reduction or cancellation of share certificates.[^874-1]
 
-<sup>3</sup> Any reduction of a member’s personal liability or liability to make additional contributions has no effect on obligations that arose prior to publication of the amendment to the articles of association.
+<sup>3</sup> Any reduction of a member’s personal liability or liability to make additional contributions shall have no effect on obligations that arose prior to publication of the amendment to the articles of association.
 
 <sup>4</sup> Where a member’s personal liability or liability to make additional contributions is established or increased, on entry of the resolution in the commercial register it works in favour of all creditors of the cooperative.
+
+[^874-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### g. Liability of new members
 
 #### Art. 875
 
-<sup>1</sup> A person joining a cooperative in which the members are personally liable or liable to make additional contributions has the same liability as the other members for the society’s obligations, including those that arose before he joined.
+<sup>1</sup> A person joining a cooperative in which the members are personally liable or liable to make additional contributions has the same liability as the other members for the cooperative’s obligations, including those that arose before the new member joined.
 
-<sup>2</sup> Any contrary provision made in the articles of association or by agreement between the members has no effect as against third parties.
+<sup>2</sup> Any contrary provision made in the articles of association or by agreement between the members has no effect against third parties.
 
 ### h. Liability after departure or dissolution
 
 #### Art. 876
 
-<sup>1</sup> Where a member with limited or unlimited liability leaves the society as a result of his death or some other reason, he remains liable for the obligations arising prior to his departure if the cooperative becomes insolvent within one year or any longer period stipulated in the articles of association of the date on which his departure was entered in the commercial register.
+<sup>1</sup> Where a member with limited or unlimited liability leaves the cooperative as a result of death or for some other reason, that member remains liable for the obligations arising prior to departure if the cooperative becomes insolvent within one year or any longer period stipulated in the articles of association of the date on which the departure was entered in the commercial register.
 
 <sup>2</sup> Any liability to make additional contributions remains effective on the same conditions and subject to the same time limits.
 
@@ -13404,11 +14242,11 @@ Any provisions made in the articles of association which limit liability to a sp
 
 #### Art. 877
 
-<sup>1</sup> Where the members have limited or unlimited liability for the society’s debts or are liable to make additional contributions, the directors must notify every accession or departure of a member for entry in the commercial register within three months.
+<sup>1</sup> Where the members have limited or unlimited liability for the cooperative’s debts or are liable to make additional contributions, the board must notify every accession or departure of a member for entry in the commercial register within three months.
 
-<sup>2</sup> Further, every departing or excluded member and the heirs of a member have the right to have the member’s departure, exclusion or death entered in the register on their initiative. The commercial registry must immediately notify the society’s directors of any such notification.
+<sup>2</sup> Further, every departing or excluded member and the heirs of a member have the right to have the member’s departure, exclusion or death entered in the register on their initiative. The commercial register office must immediately notify the cooperative’s board of any such notification.
 
-<sup>3</sup> Licensed insurance cooperatives are exempt from the duty to notify their members for entry in the commercial registrar.
+<sup>3</sup> Licensed insurance cooperatives are exempt from the duty to notify their members for entry in the commercial register.
 
 ### k. Prescriptive periods for liability
 
@@ -13435,13 +14273,17 @@ Any provisions made in the articles of association which limit liability to a sp
 It has the following inalienable powers:
 
 - 1\. to determine and amend the articles of association;
-- 2\.[^879-1] to elect the directors and the auditor;
-- 3\.[^879-2] to approve the management report and the consolidated accounts;
-- 4\. to discharge the directors;
+- 2\.[^879-1] to elect the board and the external auditor;
+- 2<sup>bis</sup>.[^879-2] to approve the annual accounts and if applicable to pass resolutions on the allocation of the balance sheet profit;
+- 3\.[^879-3] to approve the management report and the consolidated accounts;
+- 3<sup>bis</sup>.[^879-4] to pass resolutions on repaying capital reserves;
+- 4\. to discharge the board;
 - 5\. to make resolutions concerning the matters reserved to the general assembly of members by law or the articles of association.
 
 [^879-1]: Amended by No I 3 of the FA of 16 Dec. 2005 (Law on Limited Liability Companies and Amendments to the Law on Companies limited by Shares, Cooperatives, the Commercial Register and Business Names), in force since 1 Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
-[^879-2]: Amended by No I 3 of the FA of 23 Dec. 2011 (Financial Reporting Law), in force since 1 Jan. 2013 ([AS 2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810); [BBl 2008 1589](https://fedlex.data.admin.ch/eli/fga/2008/416)).
+[^879-2]: Inserted by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^879-3]: Amended by No I 3 of the FA of 23 Dec. 2011 (Financial Reporting Law), in force since 1 Jan. 2013 ([AS 2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810); [BBl 2008 1589](https://fedlex.data.admin.ch/eli/fga/2008/416)).
+[^879-4]: Inserted by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### II. Ballot
 
@@ -13455,11 +14297,11 @@ In the case of cooperatives with more than 300 members or in which the majority 
 
 #### Art. 881
 
-<sup>1</sup> The general assembly of members is convened by the board of directors or any other governing body on which the articles of association confer such authority, and where necessary by the auditor.[^881-1] The liquidators and the representatives of bond creditors also have the right to convene a general assembly.
+<sup>1</sup> The general assembly of members shall be convened by the board or any other governing body on which the articles of association confer such authority, and where necessary by the external auditor.[^881-1] The liquidators and the representatives of bond creditors also have the right to convene a general assembly.
 
 <sup>2</sup> The general assembly of members must be convened at the request of at least one-tenth of the members or, in the case of cooperatives with fewer than 30 members, at least three members.
 
-<sup>3</sup> Where the board of directors fails to grant such a request within a reasonable delay, on application the court must order that a general assembly be convened.
+<sup>3</sup> Where the board fails to grant such a request within a reasonable period, on application the court must order that a general assembly be convened.
 
 [^881-1]: First sentence Amended by No I 3 of the FA of 16 Dec. 2005 (Law on Limited Liability Companies and Amendments to the Law on Companies limited by Shares, Cooperatives, the Commercial Register and Business Names), in force since 1 Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 
@@ -13469,7 +14311,7 @@ In the case of cooperatives with more than 300 members or in which the majority 
 
 <sup>1</sup> The general assembly of members must be convened in the form prescribed by the articles of association but in any event no later than five days before the date for which it is scheduled.
 
-<sup>2</sup> In the case of cooperatives with more than 30 members, the convocation is effective as soon as it is publicly announced.
+<sup>2</sup> In the case of cooperatives with more than 30 members, convocation is effective as soon as it is publicly announced.
 
 ### 3. Agenda items
 
@@ -13485,7 +14327,7 @@ In the case of cooperatives with more than 300 members or in which the majority 
 
 #### Art. 884
 
-Where all the society’s members are present they may, if no objection is raised, pass resolutions without needing to comply with the formal convocation requirements.
+Where all the cooperative’s members are present, they may, if no objection is raised, pass resolutions without needing to comply with the formal convocation requirements.
 
 ### IV. Voting rights
 
@@ -13497,17 +14339,17 @@ Every member has one vote at the general assembly of members or in the ballot.
 
 #### Art. 886
 
-<sup>1</sup> A member may exercise his right to vote at the general assembly of members by appointing another member to act as proxy, but no proxy may represent more than one member.
+<sup>1</sup> A member may exercise their right to vote at the general assembly of members by appointing another member to act as their representative, but no representative may represent more than one member.
 
-<sup>2</sup> In the case of cooperatives with more than 1,000 members the articles of association may stipulate that each member may represent more than one other member but never more than nine.
+<sup>2</sup> In the case of cooperatives with more than 1,000 members, the articles of association may stipulate that each member may represent more than one other member but never more than nine.
 
 <sup>3</sup> The articles of association reserve the right to permit representation of members by relatives with capacity to act.
 
-### VI. Exclusion of voting rights
+### VI. Exclusion of right to vote
 
 #### Art. 887
 
-<sup>1</sup> In the case of resolutions concerning the discharge of the board of directors, persons who have participated in any manner in the management of the society’s business have no voting right.
+<sup>1</sup> In the case of resolutions concerning the discharge of the board, persons who have participated in any manner in the management of the cooperative’s business have no right to vote.
 
 <sup>2</sup> ...[^887-1]
 
@@ -13519,9 +14361,9 @@ Every member has one vote at the general assembly of members or in the ballot.
 
 #### Art. 888
 
-<sup>1</sup> Unless otherwise provided by law or the articles of association, the general assembly of members passes resolutions and decides elections by absolute majority of the votes cast. The same applies to resolutions and elections by ballot.
+<sup>1</sup> Unless otherwise provided for by law or the articles of association, the general assembly of members shall pass resolutions and decide elections by an absolute majority of the votes cast. The same applies to resolutions and elections by ballot.
 
-<sup>2</sup> The dissolution of the cooperative and any amendment of the articles of association require a majority of two-thirds of the votes cast. The articles of association may stipulate more restrictive conditions for such resolutions.[^888-1]
+<sup>2</sup> The dissolution of the cooperative and any amendment to the articles of association require a majority of two-thirds of the votes cast. The articles of association may stipulate more restrictive conditions for such resolutions.[^888-1]
 
 [^888-1]: Amended by Annex No 2 of the Mergers Act of 3 Oct. 2003, in force since 1 July 2004 ([AS 2004 2617](https://fedlex.data.admin.ch/eli/oc/2004/320); [BBl 2000 4337](https://fedlex.data.admin.ch/eli/fga/2000/921)).
 
@@ -13531,11 +14373,11 @@ Every member has one vote at the general assembly of members or in the ballot.
 
 <sup>1</sup> Resolutions to introduce or increase the members’ personal liability or their liability to make additional contributions require the consent of three-quarters of all members.
 
-<sup>2</sup> Members who did not vote in favour are not bound by such resolutions providing they give notice of their departure from the society within three months of the publication of the resolution in question. Such departure takes effect as of the date on which the resolution comes into force.
+<sup>2</sup> Members who did not vote in favour are not bound by such resolutions providing they give notice of their departure from the cooperative within three months of the publication of the resolution in question. Such departure takes effect as of the date on which the resolution comes into force.
 
 <sup>3</sup> In such cases, departure may not be made conditional on payment of a severance penalty.
 
-### VIII. Dismissal of the directors and the auditor
+### VIII. Dismissal of the board and the external auditor
 
 [^part3-tit29-chap5-lvlA-lvlVIII-1]
 
@@ -13543,7 +14385,7 @@ Every member has one vote at the general assembly of members or in the ballot.
 
 #### Art. 890
 
-<sup>1</sup> The general assembly of members is entitled to dismiss the members of the board of directors and the auditor and any registered attorneys or commercial agents appointed by them.[^890-1]
+<sup>1</sup> The general assembly of members is entitled to dismiss the members of the board and the external auditor and any registered attorneys or commercial agents appointed by them.[^890-1]
 
 <sup>2</sup> On application by at least one-tenth of the members, the court may order such dismissals where good cause exists and, in particular, where the persons in question neglected their duties or were unable to fulfil them. In such cases the court must, where necessary, order that fresh elections be held by the competent body of the cooperative and take appropriate measures for the interim.
 
@@ -13555,7 +14397,7 @@ Every member has one vote at the general assembly of members or in the ballot.
 
 #### Art. 891
 
-<sup>1</sup> The board of directors or any member may challenge resolutions made by the general assembly of members or by ballot which violate the law or the articles of association by bringing action against the cooperative before the court. Where the board of directors is the claimant, the court appoints a representative for the cooperative.
+<sup>1</sup> The board or any member may challenge resolutions made by the general assembly of members or by ballot which violate the law or the articles of association by bringing action against the cooperative before the court. Where the board is the claimant, the court shall appoint a representative for the cooperative.
 
 <sup>2</sup> The right of challenge lapses where the action is not brought within two months of the adoption of the resolution.
 
@@ -13569,7 +14411,7 @@ Every member has one vote at the general assembly of members or in the ballot.
 
 <sup>2</sup> Rules governing the composition, election and convocation of the assembly of delegates are laid down in the articles of association.
 
-<sup>3</sup> Every delegate has one vote in the assembly of delegates, unless different provision for voting rights is made in the articles of association.
+<sup>3</sup> Every delegate has one vote in the assembly of delegates, unless different provision for right to vote is made in the articles of association.
 
 <sup>4</sup> In other respects the statutory provisions governing the general assembly of members apply to the assembly of delegates.
 
@@ -13577,13 +14419,23 @@ Every member has one vote at the general assembly of members or in the ballot.
 
 #### Art. 893
 
-<sup>1</sup> Licensed insurance cooperatives with more than 1,000 members may delegate all or some of the powers of the general assembly of members to the board of directors by means of the articles of association.
+<sup>1</sup> Licensed insurance cooperatives with more than 1,000 members may delegate all or some of the powers of the general assembly of members to the board by means of the articles of association.
 
 <sup>2</sup> The powers of the general assembly of members to introduce or increase the members’ liability to make additional contributions and to dissolve, merge, split and modify the legal form of the cooperative are not transferable.[^893-1]
 
 [^893-1]: Amended by Annex No 2 of the Mergers Act of 3 Oct. 2003, in force since 1 July 2004 ([AS 2004 2617](https://fedlex.data.admin.ch/eli/oc/2004/320); [BBl 2000 4337](https://fedlex.data.admin.ch/eli/fga/2000/921)).
 
-### B. Directors
+### XII. Venue and use of electronic means
+
+#### Art. 893a
+
+[^893a-1]
+
+The rules of the law on companies limited by shares on the venue and using electronic means when preparing for and conducting the general assembly apply *mutatis mutandis*.
+
+[^893a-1]: Inserted by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### B. Board
 
 ### I. Eligibility
 
@@ -13591,9 +14443,9 @@ Every member has one vote at the general assembly of members or in the ballot.
 
 #### Art. 894
 
-<sup>1</sup> The board of directors of the cooperative consists of at least three persons; a majority of them must be members.
+<sup>1</sup> The board of the cooperative shall comprise at least three persons; a majority of them must be members.
 
-<sup>2</sup> Where a legal entity or commercial company holds a participation in the cooperative, it is not eligible as such to serve as a member of the board of directors; however, its representative may be elected in its stead.
+<sup>2</sup> Where a legal entity or commercial company holds a participation in the cooperative, it shall not be eligible as such to serve as a member of the board; however, its representative may be elected in its stead.
 
 ### 2....
 
@@ -13607,15 +14459,15 @@ Every member has one vote at the general assembly of members or in the ballot.
 
 #### Art. 896
 
-<sup>1</sup> The directors are elected for a maximum term of office of four years, but may be re-elected unless the articles of association provide otherwise.
+<sup>1</sup> The members of the board shall be elected for a maximum term of office of four years, but may be re-elected unless the articles of association provide otherwise.
 
-<sup>2</sup> The provisions governing companies limited by shares apply to terms of office of directors of licensed insurance cooperatives.
+<sup>2</sup> The provisions governing companies limited by shares apply to terms of office of members of the board of licensed insurance cooperatives.
 
 ### III. Administrative committees
 
 #### Art. 897
 
-The articles of association may delegate some of the duties and powers of the board of directors to one or more committees elected by the directors.
+The articles of association may delegate some of the duties and powers of the board to one or more committees elected by the board.
 
 ### IV. Business management and representation
 
@@ -13625,7 +14477,7 @@ The articles of association may delegate some of the duties and powers of the bo
 
 [^898-1]
 
-<sup>1</sup> The articles of association may authorise the general assembly of members or the directors to delegate responsibility for managing the society’s business or parts thereof and for representing the society to one or more persons, business managers or executive officers, who need not be members of the cooperative.
+<sup>1</sup> The articles of association may authorise the general assembly of members or the board to delegate responsibility for managing the cooperative’s business or parts thereof and for representing the cooperative to one or more persons, business managers or executive officers, who need not be members of the cooperative.
 
 <sup>2</sup> A cooperative must be able to be represented by a person who is resident in Switzerland. This person must be a director, a business manager or an executive officer. This person must have access to the register under Article 837.[^898-2]
 
@@ -13638,9 +14490,9 @@ The articles of association may delegate some of the duties and powers of the bo
 
 <sup>1</sup> The persons with authority to represent the cooperative may carry out in its name any transactions conducive to the achievement of the cooperative’s objects.
 
-<sup>2</sup> Any restriction of such authority has no effect in relation to bona fide third parties, subject to any provisions entered in the commercial register that govern exclusive representation of the principal place of business or a branch office or joint management of the society.
+<sup>2</sup> Any restriction of such authority shall have no effect in relation to bona fide third parties, subject to any provisions entered in the commercial register that govern exclusive representation of the principal place of business or a branch office or joint management of the cooperative.
 
-<sup>3</sup> The cooperative is liable for any damage resulting from unauthorised acts carried out in the exercise of his function by a person authorised to manage the cooperative’s business or to represent it.
+<sup>3</sup> The cooperative is liable for any loss or damage resulting from unauthorised acts carried out in the exercise of his function by a person authorised to manage the cooperative’s business or to represent it.
 
 ### 3. Contracts between the cooperative and its representatives
 
@@ -13648,7 +14500,7 @@ The articles of association may delegate some of the duties and powers of the bo
 
 [^899a-1]
 
-If the cooperative is represented in the conclusion of a contract by the same person with whom it is concluding the contract, the contract must be done in writing. This requirement does not apply to contract relating to everyday business where the value of the cooperative's goods or services does not exceed 1,000 francs.
+If the cooperative is represented in the conclusion of a contract by the same person with whom it is concluding the contract, the contract must be done in writing. This requirement does not apply to contracts relating to everyday business where the value of the cooperative's goods or services does not exceed 1,000 francs.
 
 [^899a-1]: Inserted by No I 3 of the FA of 16 Dec. 2005 (Law on Limited Liability Companies and Amendments to the Law on Companies limited by Shares, Cooperatives, the Commercial Register and Business Names), in force since 1 Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 
@@ -13660,17 +14512,15 @@ If the cooperative is represented in the conclusion of a contract by the same pe
 
 #### Art. 900
 
-The persons with authority to represent the cooperative must sign by appending their signature to the society’s business name.
+The persons with authority to represent the cooperative must sign by appending their signature to the cooperative’s business name.
 
-### 5. Entry
-
-[^part3-tit29-chap5-lvlB-lvlIV-lvl5-1]
-
-[^part3-tit29-chap5-lvlB-lvlIV-lvl5-1]: Amended by No I 3 of the FA of 16 Dec. 2005 (Law on Limited Liability Companies and Amendments to the Law on Companies limited by Shares, Cooperatives, the Commercial Register and Business Names), in force since 1 Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+### 5. …
 
 #### Art. 901
 
-The board of directors must apply to have persons with authority to represent the cooperative entered in the commercial register and submit an authenticated copy of the relevant resolution. These persons must enter their own signatures in person at the commercial registry or submit these in a duly authenticated form.
+[^901-1]
+
+[^901-1]: Repealed by No I of the FA of 19 June 2020 (Company Law), with effect from 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### V. Duties
 
@@ -13678,56 +14528,68 @@ The board of directors must apply to have persons with authority to represent th
 
 #### Art. 902
 
-<sup>1</sup> The directors must conduct the business of the cooperative with all diligence and employ their best endeavours to further the cooperative’s cause.
+<sup>1</sup> The board must conduct the business of the cooperative with all diligence and employ its best endeavours to further the cooperative’s cause.
 
 <sup>2</sup>
 
-In particular, they have a duty:
+In particular, it has a duty:
 
 - 1\. to prepare the business of the general assembly of members and implement its resolutions;
-- 2\. to supervise the persons entrusted with the cooperative’s business management and representation with regard to compliance with the law, the articles of association and any applicable regulations and to keep themselves regularly informed of the society’s business performance.
+- 2\. to supervise the persons entrusted with the cooperative’s business management and representation with regard to compliance with the law, the articles of association and any applicable regulations and to keep itself regularly informed of the cooperative’s business performance.
 
-<sup>3</sup> The directors are responsible for ensuring that the minutes of their meetings, the minutes of the general assembly, the necessary accounting records and the membership list are kept properly, that the profit and loss account and the annual balance sheet are drawn up and submitted to the auditor for examination in accordance with the statutory provisions and that the prescribed notifications concerning accessions and departures of members are made to the commercial registry.[^902-1]
+<sup>3</sup>
 
-[^902-1]: Amended by No I 3 of the FA of 16 Dec. 2005 (Law on Limited Liability Companies and Amendments to the Law on Companies limited by Shares, Cooperatives, the Commercial Register and Business Names), in force since 1 Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
+The board is responsible for ensuring that:
 
-### 2. Duty to notify capital loss and overindebtedness
+- 1\. the minutes of its meetings, the minutes of the general assembly, the necessary accounting records and the membership list are kept properly;
+- 2\. the annual report is drawn up and submitted to the external auditor for examination in accordance with the statutory provisions; and
+- 3\. the prescribed notifications concerning accessions and departures of members are made to the commercial register office.[^902-1]
+
+[^902-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### 2. Repayment of contributions
+
+#### Art. 902a
+
+[^902a-1]
+
+The rules of the law on companies limited by shares apply *mutatis mutandis* to the repayment of contributions.
+
+[^902a-1]: Inserted by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
+### 3. Imminent insolvency, loss of capital and overindebtedness
 
 #### Art. 903
 
-<sup>1</sup> Where there is good cause to suspect overindebtedness, the directors must immediately draw up an interim balance sheet at sale values.
+[^903-1]
 
-<sup>2</sup> Where the last annual balance sheet and subsequent liquidation balance sheet or an interim balance sheet show that the claims of the society’s creditors are no longer covered, the board of directors must notify the court. The court must commence insolvency proceedings, unless the requirements for a stay of such proceedings are fulfilled.
+<sup>1</sup> The provisions of the law on companies limited by shares on imminent insolvency, overindebtedness and the revaluation of immovable property and participations apply *mutatis mutandis*.
 
-<sup>3</sup> In the case of cooperatives with share certificates, where the last annual balance sheet shows that one-half of the nominal capital is no longer covered, the directors must convene a general assembly of members without delay and inform the assembly of the situation.
+<sup>2</sup> In the case of cooperatives with share certificates, the provisions of the law on companies limited by shares on loss of capital also apply *mutatis mutandis*.
 
-<sup>4</sup> In the case of cooperatives whose members are liable to make additional contributions, the court need not be notified if the balance sheet loss is covered within three months by additional contributions from the members.
-
-<sup>5</sup> On application by the board of directors or by a creditor, the court may grant a stay of insolvency proceedings where there is a prospect of financial restructuring. In this case, the court orders measures to preserve the society’s assets, such as the taking of an inventory and the appointment of an administrative receiver.
-
-<sup>6</sup> In the case of licensed insurance cooperatives, the members’ claims under insurance policies count as creditors’ rights.
+[^903-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### VI. Return of payments to members
 
 #### Art. 904
 
-<sup>1</sup> In the event that the cooperative becomes insolvent, the members of the board of directors are obliged to reimburse the cooperative's creditors for all payments received in the three years prior to the onset of insolvency in the form of shares in the profit or under any other designation to the extent such payments exceed adequate remuneration for the consideration rendered and should not have been made under a prudent accounting regime.
+<sup>1</sup> In the event that the cooperative becomes insolvent, the board is obliged to reimburse the cooperative's creditors for all payments received in the three years prior to the onset of insolvency in the form of shares in the profit or under any other designation to the extent such payments exceed adequate remuneration for the consideration rendered and should not have been made under a prudent accounting regime.
 
-<sup>2</sup> Such reimbursement is excluded to the extent that no claim for it exists under the provisions governing unjust enrichment.
+<sup>2</sup> Such reimbursement shall be excluded to the extent that no claim for it exists under the provisions governing unjust enrichment.
 
-<sup>3</sup> The court decides at its discretion, taking due account of all the circumstances.
+<sup>3</sup> The court shall decide at its discretion, taking due account of all the circumstances.
 
 ### VII. Dismissal and suspension
 
 #### Art. 905
 
-<sup>1</sup> The board of directors may at any time dismiss the committees, business managers, executive officers and other registered attorneys and commercial agents that it has appointed.
+<sup>1</sup> The board may at any time dismiss the committees, business managers, executive officers and other registered attorneys and commercial agents that it has appointed.
 
-<sup>2</sup> The registered attorneys and commercial agents appointed by the general assembly of members may be suspended from their duties at any time by the board of directors, providing a general meeting is convened immediately.
+<sup>2</sup> The registered attorneys and commercial agents appointed by the general assembly of members may be suspended from their duties at any time by the board, providing a general meeting is convened immediately.
 
 <sup>3</sup> Claims for compensation made by persons dismissed or suspended are reserved.
 
-### C. Auditor
+### C. External auditor
 
 ### I. In general
 
@@ -13735,7 +14597,7 @@ In particular, they have a duty:
 
 [^906-1]
 
-<sup>1</sup> The auditor is governed by the corresponding provisions on companies limited by shares.
+<sup>1</sup> The external auditor is governed *mutatis mutandis* by the provisions on companies limited by shares.
 
 <sup>2</sup>
 
@@ -13753,7 +14615,7 @@ An ordinary audit of the annual accounts may be requested by:
 
 [^907-1]
 
-<sup>1</sup> In the case of cooperatives in which the members are personally liable or liable to make additional capital contributions, the auditor must verify that the membership list[^907-2] has been kept correctly. If the cooperative has no auditor, the directors must arrange for the membership list[^907-3] to be verified by a licensed auditor.
+<sup>1</sup> In the case of cooperatives in which the members are personally liable or liable to make additional capital contributions, the external auditor must verify that the membership list[^907-2] has been kept correctly. If the cooperative has no external auditor, the board must arrange for the membership list[^907-3] to be verified by a licensed auditor.
 
 [^907-1]: Amended by No I 3 of the FA of 16 Dec. 2005 (Law on Limited Liability Companies and Amendments to the Law on Companies limited by Shares, Cooperatives, the Commercial Register and Business Names), in force since 1 Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 [^907-2]: Revised by the Federal Assembly Drafting Committee (Art. 58 para. 1 ParlA; [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
@@ -13781,32 +14643,40 @@ In the case of defects in the organisation of a cooperative, the corresponding p
 
 #### Art. 911
 
-The cooperative is dissolved:
+The cooperative shall be dissolved:
 
 - 1\. in accordance with the articles of association;
 - 2\. by resolution of the general assembly of members;
-- 3\. by commencement of insolvency proceedings;
+- 3\. by the commencement of insolvency proceedings;
 - 4\. in the other cases provided for by law.
 
-### B. Notification for entry in the commercial register
+### B. Entry in the commercial register
 
 #### Art. 912
 
-Where the company is dissolved for reasons other than insolvency, the board of directors notifies the dissolution for entry in the commercial register.
+[^912-1]
+
+<sup>1</sup> The dissolution of a cooperative must be entered in the commercial register.
+
+<sup>2</sup> Notice of dissolution by court judgment must be given by the court to the commercial register office immediately.
+
+<sup>3</sup> Notice of dissolution on other grounds must be given by the cooperative to the commercial register office.
+
+[^912-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### C. Liquidation, distribution of assets
 
 #### Art. 913
 
-<sup>1</sup> The cooperative is liquidated in accordance with the provisions governing companies limited by shares, subject to the following provisions.
+<sup>1</sup> The cooperative shall be liquidated in accordance with the provisions governing companies limited by shares, subject to the following provisions.
 
 <sup>2</sup> The assets of the dissolved cooperative remaining after payment of all its debts and repayment of any shares may be distributed among the members only where the articles of association provide for such distribution.
 
 <sup>3</sup> Unless the articles of association provide otherwise, in this case the assets are distributed among the members as at the time of dissolution or their legal successors on a per capita basis. The statutory entitlement of departed members or their heirs to a financial settlement is reserved.
 
-<sup>4</sup> Where the articles of association make no provision for such distribution among the members, the liquidation surplus must be used for the society’s purpose or to promote charitable causes.
+<sup>4</sup> Where the articles of association make no provision for such distribution among the members, the liquidation surplus must be used for the cooperative’s purpose or to promote charitable causes.
 
-<sup>5</sup> Unless the articles of association provide otherwise, the general assembly of members decides on this matter.
+<sup>5</sup> Unless the articles of association provide otherwise, the general assembly of members shall decide on this matter.
 
 ### D. ...
 
@@ -13822,7 +14692,7 @@ Where the company is dissolved for reasons other than insolvency, the board of d
 
 <sup>1</sup> Where the assets of a cooperative are taken over by the Confederation, by a canton or, under guarantee from the canton, by a district or commune, with the consent of the general assembly of members it may be agreed that no liquidation will take place.
 
-<sup>2</sup> The resolution of the general assembly of members must be made in accordance with the provisions governing dissolution and notified to the commercial registry.
+<sup>2</sup> The resolution of the general assembly of members must be made in accordance with the provisions governing dissolution and notice thereof given to the commercial register office.
 
 <sup>3</sup> On entry of such resolution in the commercial register, the transfer of the cooperative’s assets and debts is complete and the cooperative's name must be deleted.
 
@@ -13842,7 +14712,7 @@ All persons engaged in the administration, business management or auditing or li
 
 #### Art. 917
 
-<sup>1</sup> Any director or liquidator who wilfully or negligently breaches his statutory duties with regard to the overindebtedness of the cooperative is liable to the cooperative, the individual members and the creditors for the losses arising.
+<sup>1</sup> Any director or liquidator who wilfully or negligently breaches their statutory duties with regard to the overindebtedness of the cooperative is liable to the cooperative, the individual members and the creditors for the losses arising.
 
 <sup>2</sup> Claims for compensation for losses suffered by the members and the creditors only indirectly through harm done to the cooperative must be brought in accordance with the provisions governing companies limited by shares.
 
@@ -13852,7 +14722,7 @@ All persons engaged in the administration, business management or auditing or li
 
 <sup>1</sup> Where two or more persons are responsible for the same loss, they are jointly and severally liable.
 
-<sup>2</sup> The right of recourse among several defendants is determined by the court with due regard to the degree of fault.
+<sup>2</sup> The right of recourse among several defendants shall be determined by the court with due regard to the degree of fault.
 
 ### D. Prescription
 
@@ -13860,17 +14730,18 @@ All persons engaged in the administration, business management or auditing or li
 
 [^919-1]
 
-<sup>1</sup> The claim for damages against any person held liable under the above provisions prescribes five years after the date on which the person suffering damage learned of the damage and of the person liable for it but in any event ten years after the date on which the harmful conduct took place or ceased.
+<sup>1</sup> A claim for damages against any person held liable under the above provisions prescribes three years after the date on which the person suffering damage learned of the damage and of the person liable for it but in any event ten years after the date on which the harmful conduct took place or ceased.[^919-2]
 
 <sup>2</sup> If the person liable has committed a criminal offence through his or her harmful conduct, then the right to damages or satisfaction prescribes at the earliest when the right to prosecute the offence becomes time-barred. If the right to prosecute is no longer liable to become time-barred because a first instance criminal judgment has been issued, the right to claim damages or satisfaction prescribes at the earliest three years after notice of the judgment is given.
 
 [^919-1]: Amended by No I of the FA of 15 June 2018 (Revision of the Law on Prescription), in force since 1 Jan. 2020 ([AS 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [BBl 2014 235](https://fedlex.data.admin.ch/eli/fga/2014/65)).
+[^919-2]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### E. Liability in credit and insurance cooperatives
 
 #### Art. 920
 
-In the case of credit cooperatives and licensed insurance cooperatives, liability is determined according to the provisions governing companies limited by shares.
+In the case of credit cooperatives and licensed insurance cooperatives, liability shall be determined according to the provisions governing companies limited by shares.
 
 ### Section Eight: Cooperative Unions
 
@@ -13886,52 +14757,52 @@ Three or more cooperatives may form a cooperative union and constitute it as a c
 
 #### Art. 922
 
-<sup>1</sup> Unless the articles of association provide otherwise, the supreme governing body of the cooperative union is the assembly of delegates.
+<sup>1</sup> Unless the articles of association provide otherwise, the supreme governing body of the cooperative union shall be the assembly of delegates.
 
-<sup>2</sup> The articles of association determine the number of delegates from the affiliated societies.
+<sup>2</sup> The articles of association shall determine the number of delegates from the affiliated societies.
 
-<sup>3</sup> Unless the articles of association provide otherwise, each delegate has one vote.
+<sup>3</sup> Unless the articles of association provide otherwise, each delegate shall have one vote.
 
-### II. Board of directors
+### II. Board
 
 #### Art. 923
 
-Unless the articles of association provide otherwise, the board of directors is made up of members from the affiliated cooperatives.
+Unless the articles of association provide otherwise, the board shall be made up of members from the affiliated cooperatives.
 
 ### III. Monitoring, challenge
 
 #### Art. 924
 
-<sup>1</sup> The articles of association may grant the directors of the union the right to monitor the business activities of the affiliated cooperatives.
+<sup>1</sup> The articles of association may grant the board of the union the right to monitor the business activities of the affiliated cooperatives.
 
-<sup>2</sup> They may the grant the directors of the union the right to challenge in court the resolutions made by the individual affiliated societies.
+<sup>2</sup> They may the grant the board of the union the right to challenge in court the resolutions made by the individual affiliated societies.
 
 ### IV. Exclusion of new obligations
 
 #### Art. 925
 
-Accession to a cooperative union may not bring with it any obligations for the members of the acceding society which they do not already have by law or under the articles of association of their own cooperative.
+Accession to a cooperative union may not bring with it any obligations for the members of the acceding cooperative which they do not already have by law or under the articles of association of their own cooperative.
 
 ### Section Nine: Involvement of Public Sector Corporations
 
 #### Art. 926
 
-<sup>1</sup> Where public sector corporations such as the Confederation or a canton, district or commune have a public interest in a cooperative, the cooperative’s articles of association may grant that corporation the right to appoint representatives to the board of directors or the auditor.[^926-1]
+<sup>1</sup> Where public sector corporations such as the Confederation or a canton, district or commune have a public interest in a cooperative, the cooperative’s articles of association may grant that corporation the right to appoint representatives to the board or the external auditor.[^926-1]
 
-<sup>2</sup> These directors and auditors appointed by a public sector corporation have the same rights and duties as those elected by the cooperative.
+<sup>2</sup> These directors and external auditors appointed by a public sector corporation shall have the same rights and duties as those elected by the cooperative.
 
-<sup>3</sup> Only the public sector corporation has the right to dismiss the representatives it appointed to the board of directors and the auditor.[^926-2] The public sector corporation is liable to the cooperative, its members and creditors for the actions of these representatives, subject to rights of recourse under federal and cantonal law.
+<sup>3</sup> Only the public sector corporation shall have the right to dismiss the representatives that it appointed to the board and the external auditor.[^926-2] The public sector corporation is liable to the cooperative, its members and creditors for the actions of these representatives, subject to the rights of recourse under federal and cantonal law.
 
 [^926-1]: Amended by No I 3 of the FA of 16 Dec. 2005 (Law on Limited Liability Companies and Amendments to the Law on Companies limited by Shares, Cooperatives, the Commercial Register and Business Names), in force since 1 Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 [^926-2]: First sentence Amended by No I 3 of the FA of 16 Dec. 2005 (Law on Limited Liability Companies and Amendments to the Law on Companies limited by Shares, Cooperatives, the Commercial Register and Business Names), in force since 1 Jan. 2008 ([AS 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 
-## Division Four:**** The Commercial Register, Business Names and Commercial Accounting
+## Division Four: The Commercial Register, Business Names and Commercial Accounting
 
 [^part4-1]
 
 [^part4-1]: Amended by the Federal Act of 18 Dec. 1936, in force since 1 July 1937 ([AS 53 185](https://fedlex.data.admin.ch/eli/oc/53/185_185_189); [BBl 1928 I 205](https://fedlex.data.admin.ch/eli/fga/1928/1_205_233_253), [1932 I 217](https://fedlex.data.admin.ch/eli/fga/1932/1_217__)). See the Final and Transitional Provisions of Title XXIV–XXXIII, at the end of this Code.
 
-### Title Thirty:**** The Commercial Register
+### Title Thirty: The Commercial Register
 
 [^part4-tit30-1]
 
@@ -14024,7 +14895,7 @@ Legal entities for the purpose of this Title are:
 
 #### Art. 930
 
-The legal entities recorded in the commercial register registered are assigned a business identification number in accordance with the Federal Act of 18 June 2010[^930-1] on the Business Identification Number.
+The legal entities entered in the commercial register registered are assigned a business identification number in accordance with the Federal Act of 18 June 2010[^930-1] on the Business Identification Number.
 
 [^930-1]: [SR 431.03](https://fedlex.data.admin.ch/eli/cc/2010/705)
 
@@ -14034,9 +14905,9 @@ The legal entities recorded in the commercial register registered are assigned a
 
 #### Art. 931
 
-<sup>1</sup> A natural person who operates a business that in the most recent financial year achieved revenues of at least 100 000 francs must have their sole proprietorships recorded in the commercial register at the place of establishment. Exempted from this obligation are members of the liberal professions and farmers who do not operate a commercial business.
+<sup>1</sup> A natural person who operates a business that in the most recent financial year achieved revenues of at least 100 000 francs must have their sole proprietorships entered in the commercial register at the place of foundation. Exempted from this obligation are members of the liberal professions and farmers who do not operate a commercial business.
 
-<sup>2</sup> Branch offices must be recorded in the commercial register of the place where they are located.
+<sup>2</sup> Branch offices must be entered in the commercial register of the place where they are located.
 
 <sup>3</sup> Sole proprietorships and branch offices that are not required to register are nonetheless entitled to be registered.
 
@@ -14044,7 +14915,7 @@ The legal entities recorded in the commercial register registered are assigned a
 
 #### Art. 932
 
-<sup>1</sup> Public institutions must be recorded in the commercial register if they primarily carry on a private gainful economic activity or if the federal, cantonal or communal law requires their registration. They shall be registered at the location of their seat.
+<sup>1</sup> Public institutions must be entered in the commercial register if they primarily carry on a private gainful economic activity or if the federal, cantonal or communal law requires their registration. They shall be registered at the location of their seat.
 
 <sup>2</sup> Public institutions that are not required to register are nonetheless entitled to be registered.
 
@@ -14052,7 +14923,7 @@ The legal entities recorded in the commercial register registered are assigned a
 
 #### Art. 933
 
-<sup>1</sup> If a fact must be recorded in the commercial register, any change in this fact must also be recorded.
+<sup>1</sup> If a fact must be entered in the commercial register, any change in this fact must also be recorded.
 
 <sup>2</sup> A person no longer associated with an entity is entitled to apply for the entry relating to them to be deleted. The Ordinance regulates the details.
 
@@ -14064,17 +14935,21 @@ The legal entities recorded in the commercial register registered are assigned a
 
 <sup>1</sup> If a legal entity is no longer operating as a business and if it no longer has any disposable assets, the commercial register office shall delete it from the commercial register.
 
-<sup>2</sup> The commercial register office shall request the legal entity to give notice of any interest in keeping the entry. If there is no response to this request, it shall request other persons concerned to give notice of any such interest by publishing the request three times in the Swiss Official Commercial Gazette. If there is no response to this request, the legal entity shall be deleted.
+<sup>2</sup> The commercial register office shall request the legal entity to give notice of any interest in keeping the entry. If there is no response to this request, it shall request other persons concerned to give notice of any such interest by publishing the request in the Swiss Official Commercial Gazette. If there is no response to this request, the legal entity shall be deleted.[^934-1]
 
 <sup>3</sup> If other persons concerned give notice of an interest in keeping the entry, the commercial register office shall refer the matter to the court for a decision.
+
+[^934-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 2. In the event of a sole proprietorship or branch office having no domicile
 
 #### Art. 934a
 
-<sup>1</sup> If a sole proprietorship no longer has a domicile, then if there is no response to a request published three times in the Swiss Official Commercial Gazette, it shall be deleted from the commercial register.
+<sup>1</sup> If a sole proprietorship no longer has a domicile, then if there is no response to a request published in the Swiss Official Commercial Gazette, it shall be deleted from the commercial register.[^934a-1]
 
 <sup>2</sup> If a branch office with a principal place of business in Switzerland no longer has a domicile, the branch office shall be deleted by the commercial register office if there is no response to a request made to the principal place of business.
+
+[^934a-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### VI. Reinstatement
 
@@ -14119,7 +14994,7 @@ A person shall have a legitimate interest in particular if:
 
 #### Art. 936b
 
-<sup>1</sup> If a fact is recorded in the commercial register, no one may claim that they were unaware of it.
+<sup>1</sup> If a fact is entered in the commercial register, no one may claim that they were unaware of it.
 
 <sup>2</sup> Where the entry of a fact is required but such fact was not entered in the register, it may be relied on in relation to third parties only if it can be shown that they were aware of the said fact.
 
@@ -14145,7 +15020,7 @@ The commercial register authorities shall verify whether the legal requirements 
 
 #### Art. 939
 
-<sup>1</sup> If the commercial register office identifies defects in the organisational aspects required by law of trading companies, cooperatives, associations, foundations not subject to supervision or branch offices with principal place of business abroad that are recorded in the commercial register, it shall request the legal entity concerned to rectify the defect, and fix a deadline for doing so.
+<sup>1</sup> If the commercial register office identifies defects in the organisational aspects required by law of trading companies, cooperatives, associations, foundations not subject to supervision or branch offices with principal place of business abroad that are entered in the commercial register, it shall request the legal entity concerned to rectify the defect, and fix a deadline for doing so.
 
 <sup>2</sup> If the defect is not rectified not within the deadline, the office shall refer the matter to the court. The court shall take the required measures.
 
@@ -14351,7 +15226,7 @@ The registration of a business name does not relieve the persons entitled to use
 
 <sup>2</sup> A party whose interests are injured by the unauthorised use of a business name may apply for an injunction banning further abuse of the business name and sue for damages if the unauthorised user is at fault.
 
-### Title Thirty-Two:**** Commercial Accounting, Financial Reporting, other Transparency and Due Diligence Obligations****
+### Title Thirty-Two: Commercial Accounting, Financial Reporting, Other Transparency and Due Diligence Obligations
 
 [^part4-tit32-1][^part4-tit32-2]
 
@@ -14377,7 +15252,7 @@ The following need only keep accounts on income and expenditure and on their ass
 
 - 1\. sole proprietorships and partnerships with less than 500,000 francs sales revenue in the last financial year;
 - 2\. associations and foundations which are not required to be entered in the commercial Register;
-- 3\. foundations that are exempt from the requirement to appoint an auditor under Article 83*b* paragraph 2 Swiss Civil Code[^957-1].
+- 3\. foundations that are exempt from the requirement to appoint an external auditor under Article 83*b* paragraph 2 Swiss Civil Code[^957-1].
 
 <sup>3</sup> For undertakings in accordance with paragraph 2, recognised accounting principles apply *mutatis mutandis*.
 
@@ -14437,6 +15312,10 @@ It follows the recognised accounting principles. Particular note must be taken o
 
 <sup>2</sup> Provided the net proceeds from the sale of goods or services or financial income does not exceed 100,000 francs, accruals based on time may be dispensed with and instead based on expenditure and income.
 
+<sup>3</sup> If the financial reporting is not carried out in francs, the annual average exchange rate shall be applied to ascertain the value in accordance with paragraph 2.[^958b-1]
+
+[^958b-1]: Inserted by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
 ### III. Recognised financial reporting principles
 
 #### Art. 958c
@@ -14471,6 +15350,10 @@ The following principles in particular apply to financial reports:
 
 ### D. Publication and inspection
 
+[^part4-tit32-chap1-lvlD-1]
+
+[^part4-tit32-chap1-lvlD-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
 #### Art. 958e
 
 <sup>1</sup>
@@ -14481,6 +15364,10 @@ Following their approval by the competent management body, the annual accounts a
 - 2\. has equity securities listed on a stock market.
 
 <sup>2</sup> Other undertakings must allow creditors who prove a legitimate interest to inspect the annual report and the audit reports. In the event of a dispute, the court decides.
+
+<sup>3</sup> If the undertaking exercises a waiver in accordance with Article 961*d* paragraph 1, 962 paragraph 3 or 963*a* paragraph 1 number 2, publication and inspection shall be governed by the rules for its own annual accounts.[^958e-1]
+
+[^958e-1]: Inserted by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### E. Keeping and retaining accounting records
 
@@ -14494,7 +15381,11 @@ Following their approval by the competent management body, the annual accounts a
 
 <sup>4</sup> The Federal Council shall issue regulations on the accounting records that must be kept, the principles for keeping and retaining them and on the information carriers that may be used.
 
-### Section Two: Annual Accounts
+### Section Two: Annual Accounts and Interim Accounts
+
+[^part4-tit32-chap2-1]
+
+[^part4-tit32-chap2-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### A. Balance sheet
 
@@ -14572,18 +15463,25 @@ The due date of liabilities must be shown based on at least the following items,
   - a. basic, shareholder or foundation capital, if applicable separately according to participation classes,
   - b. statutory capital reserves,
   - c. statutory retained earnings,
-  - d. voluntary retained earnings or accumulated losses as negative items,
-  - e. own capital shares as negative items.
+  - d.[^959a-1] voluntary retained earnings,
+  - e.[^959a-2] own capital shares as negative items,
+  - f.[^959a-3] profit carried forward or loss carried forward as negative items,
+  - g.[^959a-4] annual profit or annual loss as negative items.
 
 <sup>3</sup> Other items must be shown individually on the balance sheet or in the notes to the accounts, provided this is essential so that third parties can assess the asset or financing position or is customary as a result of the activity of the company.
 
 <sup>4</sup> Receivables and liabilities vis-à-vis direct or indirect participants and management bodies and vis-à-vis undertakings in which there is a direct or indirect participation must in each case be shown separately on the balance sheet or in the notes to the accounts.
 
+[^959a-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^959a-2]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^959a-3]: Inserted by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^959a-4]: Inserted by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
 ### B. Profit and loss account; minimum structure
 
 #### Art. 959b
 
-<sup>1</sup> The profit and loss account presents the earnings of the company over the financial year. It may be prepared according to the period-based accounting method or the cost of sales method.
+<sup>1</sup> The profit and loss account shall present the earnings of the company over the financial year. It may be prepared according to the period-based accounting method or the cost of sales method.
 
 <sup>2</sup>
 
@@ -14616,7 +15514,7 @@ If the cost of sales method is used (activity-based costing method), a minimum o
 
 <sup>4</sup> If the cost of sales method is used, the notes to the accounts must also show the staff costs and, as a single item, depreciation and valuation adjustments to fixed asset items.
 
-<sup>5</sup> Other items must been shown individually in the profit and loss account or in the notes to the accounts to the extent that this is essential in order that third parties can assess the earning power or is customary as a result of the activity of the company.
+<sup>5</sup> Other items must be shown individually in the profit and loss account or in the notes to the accounts to the extent that this is essential in order that third parties can assess the earning power or is customary as a result of the activity of the company.
 
 ### C. Notes to the accounts
 
@@ -14638,7 +15536,7 @@ The notes to the accounts must also include the following information, unless it
 - 1\. the business name or name of the undertaking as well as its legal form and registered office;
 - 2\. a declaration as to whether the number of full-time positions on annual average is no more than 10, 50 or 250;
 - 3\. the business name, legal form and registered office of undertakings in which direct or substantial indirect shareholdings are held, stating the share of the capital and votes held;
-- 4\. the number of its own shares that the undertaking itself holds and that are held by undertakings in which it has shareholdings;
+- 4\.[^959c-1] the number of its own shares that the undertaking itself or the undertakings that it controls hold (Art. 963);
 - 5\. acquisitions and sales of its own shares and the terms on which they were acquired or sold;
 - 6\. the residual amount of the liabilities from sale-like leasing transactions and other leasing obligations, unless these expire or may be terminated within twelve months of the balance sheet date expiry or be terminated may;
 - 7\. liabilities vis-à-vis pension schemes;
@@ -14648,11 +15546,16 @@ The notes to the accounts must also include the following information, unless it
 - 11\. the number and value of shares or options on shares held by management or administrative bodies and by employees;
 - 12\. explanations of exceptional, non-recurring or prior-period items in the profit and loss account;
 - 13\. significant events occurring after the balance sheet date;
-- 14\. in the event of the auditor's premature resignation: the reasons therefor.
+- 14\.[^959c-2] in the event of the external auditor’s premature resignation or removal: the reasons therefor;
+- 15\.[^959c-3] all the capital increases and capital reductions that the board of directors has made within a capital band.
 
 <sup>3</sup> Sole proprietorships and partnerships may dispense with notes to the accounts if they are not required to file financial reports under the regulations for larger undertakings. If additional information is required in the regulations on the minimum structure of the balance sheet and profit and loss account and the notes to the accounts are dispensed with, this information must be shown directly on the balance sheet or in the profit and loss account.
 
 <sup>4</sup> Undertakings with outstanding debentures must provide information on the amounts concerned, interest rates, maturity dates and other conditions.
+
+[^959c-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^959c-2]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^959c-3]: Inserted by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### D. Valuation
 
@@ -14704,7 +15607,7 @@ The notes to the accounts must also include the following information, unless it
 
 <sup>2</sup> Long-term means a period of more than twelve months.
 
-<sup>3</sup> Shareholdings are shares in the capital of another undertaking that are held for the long-term and confer a significant influence. This is presumed if the shares confer at least 20 per cent of the voting rights.
+<sup>3</sup> Shareholdings are shares in the capital of another undertaking that are held for the long-term and confer a significant influence. This is presumed if the shares confer at least 20 per cent of the right to vote.
 
 ### III. Liabilities
 
@@ -14725,6 +15628,26 @@ Provisions may also be made in particular for:
 
 <sup>4</sup> Provisions that are no longer required need not be cancelled.
 
+### E. Interim account
+
+#### Art. 960f
+
+[^960f-1]
+
+<sup>1</sup> An interim account shall be prepared in accordance with the rules on annual accounts and shall comprise a balance sheet, a profit and loss account and the notes to the accounts. The rules for larger undertakings and groups are reserved.
+
+<sup>2</sup>
+
+Simplifications or abbreviations are permitted provided they do not adversely affect the presentation of the business performance. The account must as a minimum have the headings and subtotals contained in the most recent annual accounts. In addition, the notes to interim accounts shall contain the following information:
+
+- 1\. the purpose of the interim account;
+- 2\. the simplifications and abbreviations, including any derogations from the principles applied in the most recent annual accounts;
+- 3\. other factors that have significantly influenced the economic situation of the undertaking during the reporting period, in particular comments on seasonal factors.
+
+<sup>3</sup> The interim account shall be designated as such. It must be signed by the chair of the highest management or administration body and the person responsible within the undertaking for the interim account.
+
+[^960f-1]: Inserted by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+
 ### Section Three: Financial Report for Larger Undertakings
 
 ### A. Additional requirements for the annual report
@@ -14744,7 +15667,7 @@ Undertakings that are required by law to have an ordinary audit must:
 The notes to the annual accounts must also contain the following information:
 
 - 1\. long-term interest-bearing liabilities, arranged according to due date within one to five years or after five years;
-- 2\. on the fees paid to the auditor, with separate items for audit services and other services.
+- 2\. on the fees paid to the external auditor, with separate items for audit services and other services.
 
 ### C. Cash flow statement
 
@@ -14771,11 +15694,20 @@ The management report must in particular provide information on:
 
 <sup>3</sup> The management report must not contradict the economic position presented in the annual accounts.
 
-### E. Simplification due to consolidated accounts
+### E. Simplifications
+
+[^part4-tit32-chap3-lvlE-1]
+
+[^part4-tit32-chap3-lvlE-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 961d
 
-<sup>1</sup> The additional information in the notes to the annual accounts, the cash flow statement and the management report may be dispensed with if the undertaking itself or a legal entity controlling the undertaking prepares consolidated accounts in accordance with a recognised financial reporting standard.
+<sup>1</sup>
+
+The additional information in the notes to the annual accounts, the cash flow statement and the management report may be dispensed with if:
+
+- 1\. the undertaking prepares an account or consolidated accounts in accordance with a recognised financial reporting standard; or
+- 2\. a legal entity that controls the undertaking prepares consolidated accounts in accordance with a recognised financial reporting standard.[^961d-1]
 
 <sup>2</sup>
 
@@ -14784,6 +15716,8 @@ The following persons may request financial reports in accordance with the regul
 - 1\. company members who represent at least 10 per cent of the basic capital;
 - 2\. 10 per cent of cooperative members or 20 per cent of the members of an association;
 - 3\. any company member or any member subject to personal liability or a duty to pay in further capital.
+
+[^961d-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### Section Four: Financial Statements in accordance with Recognised Financial Reporting Standards
 
@@ -14869,11 +15803,14 @@ A legal entity is exempt from the duty to prepare consolidated accounts if it:
 Consolidated accounts must nonetheless be prepared where:
 
 - 1\. this is necessary in order to make the most reliable assessment of the economic position;
-- 2\. company members who represent at least 20 per cent of the basic capital or 10 per cent of the members of a cooperative or 10 per cent of the members of an association so require;
+- 2\.[^963a-1] company members who represent at least 20 per cent of the basic capital or 10 per cent of the members of a cooperative or 20 per cent of the members of an association so require;
 - 3\. a company member or an association member subject to personal liability or a duty to pay in further capital so requires; or
 - 4\. the foundation supervisory authority so requires.
 
-<sup>3</sup> If a legal entity in accordance with paragraph 1 number 2 dispenses with preparing the consolidated accounts for the subsidiary group, it must disclose the consolidated accounts of the parent group in accordance with the regulations for its own annual accounts.
+<sup>3</sup> If the financial reporting is not carried out in francs, in order to ascertain the values in accordance with paragraph 1 number 1 the exchange rate on the balance sheet date shall be applied for the balance sheet total and the annual average exchange rate for the sales revenue.[^963a-2]
+
+[^963a-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^963a-2]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### C. Recognised financial reporting standards
 
@@ -14905,9 +15842,7 @@ Consolidated accounts must nonetheless be prepared in accordance with a recognis
 
 [^964-1]: Repealed by No I of the FA of 22 Dec. 1999, with effect from 1 June 2002 ([AS 2002 949](https://fedlex.data.admin.ch/eli/oc/2002/170); [BBl 1999 5149](https://fedlex.data.admin.ch/eli/fga/1999/1_5149_4753_4457)).
 
-### Section Six****: Transparency on Non-Financial Matters
-
-[^part4-tit32-chap6-1]
+### Section Six[^part4-tit32-chap6-1]: Transparency on Non-Financial Matters
 
 [^part4-tit32-chap6-1]: Inserted by No I und III 1 of the FA of 19 June 2020 (Indirect Counter-Proposal to the Popular Initiative "For responsible businesses – protecting human rights and the environment"), in force since 1 Jan. 2022 ([AS 2021 846](https://fedlex.data.admin.ch/eli/oc/2021/846); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)). See also the transitional provision to this Amendment at the end of the text.
 
@@ -14982,7 +15917,7 @@ The supreme management or governing body shall ensure that the report:
 
 <sup>3</sup> Article 958*f* applies by analogy to keeping and retaining the reports.
 
-### Section Seven:**** Transparency in Raw Material Companies
+### Section Seven: Transparency in Raw Material Companies
 
 [^part4-tit32-chap7-1]
 
@@ -15026,7 +15961,7 @@ The payments made to state bodies may comprise payments in cash or kind. They in
 
 <sup>1</sup> The report on payments made to state bodies shall only cover payments related to business operations in the mineral, petroleum or natural gas extraction industry or to the harvesting of timber in primary forests.
 
-<sup>2</sup> It covers any payments of 100,000 francs or more in any financial year made to state bodies, and includes both individual payments and payments made in two or more smaller sums that together amount to 100 000 francs or more.
+<sup>2</sup> It covers any payments of 100,000 francs or more in any financial year made to state bodies, and includes both individual payments and payments made in two or more smaller sums that together amount to 100,000 francs or more.
 
 <sup>3</sup> The report must indicate the amount of the payments made in total and broken down by type of service to each state body and each project.
 
@@ -15054,7 +15989,7 @@ Article 958*f* applies to keeping and retaining the report on payments made to s
 
 The Federal Council may stipulate as part of an internationally coordinated procedure that that the obligations in Articles 964*a*–964*e* shall also apply to companies trading in raw materials.
 
-### Section Eight:**** Due Diligence and Transparency in relation to Minerals and Metals from Conflict-Affected Areas and Child Labour
+### Section Eight: Due Diligence and Transparency in relation to Minerals and Metals from Conflict-Affected Areas and Child Labour
 
 [^part4-tit32-chap8-1]
 
@@ -15114,7 +16049,7 @@ The supreme management or governing body shall ensure that the report:
 
 <sup>5</sup> Undertakings that offer products and services from undertakings that have prepared a report are not themselves required to prepare a report for those products and services.
 
-## Division Five:**** Negotiable Securities
+## Division Five: Negotiable Securities
 
 [^part5-1]
 
@@ -15180,9 +16115,11 @@ In the case of all transferable securities, unless the content or nature of the 
 
 #### Art. 971
 
-<sup>1</sup> A negotiable security that has been lost may be cancelled by the court.
+<sup>1</sup> A negotiable security that has been lost may be cancelled by the court[^971-1].
 
 <sup>2</sup> Cancellation may be requested by the beneficiary of the instrument at the time it was lost or its loss was discovered.
+
+[^971-1]: Term in accordance with No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)). This amendment has been made in the provisions specified in the AS.
 
 ### II. Procedure, effect
 
@@ -15473,9 +16410,11 @@ Where the court is satisfied that the applicant was in possession of the securit
 
 #### Art. 984
 
-<sup>1</sup> The call for presentation of the security must be published three times in the Swiss Official Gazette of Commerce.
+<sup>1</sup> The call for presentation of the security must be published in the Swiss Official Gazette of Commerce.[^984-1]
 
 <sup>2</sup> In special cases, the court may adopt other means of publicising the call for presentation.
+
+[^984-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 5. Effect
 
@@ -16126,7 +17065,7 @@ Where recourse is had following a partial acceptance, the party paying the unacc
 
 #### Art. 1049
 
-<sup>1</sup> A party with right of recourse may, where no comment to the contrary exists, exercise such right by drawing a new bill of exchange (re-exchange bill) on one of his preceding endorsers which is payable on sight and domiciled at the place of residence of the preceding endorser.
+<sup>1</sup> A party with right of recourse may, where no comment to the contrary exists, exercise such right by drawing a new bill of exchange (re-exchange bill) on one of his preceding endorsers which is payable on sight at the place of residence of the preceding endorser.
 
 <sup>2</sup> In addition to the amounts specified in Articles 1045 and 1046, the re-exchange bill includes the brokerage fee and the stamp duty for the re-exchange bill.
 
@@ -16353,7 +17292,7 @@ Where the text of a bill of exchange is amended, those persons who append their 
 
 #### Art. 1070
 
-The prescriptive period is interrupted by commencement of action on the bill, submission of an application for debt enforcement proceedings, service of a third party notice or petition in insolvency.
+The prescriptive period is interrupted by commencement of action on the bill, submission of an application for debt enforcement proceedings, service of a third-party notice or petition in insolvency.
 
 ### b. Effects
 
@@ -16413,9 +17352,11 @@ Where the court is satisfied that the applicant was in possession of the bill of
 
 #### Art. 1077
 
-<sup>1</sup> The call for presentation of the bill of exchange must be published three times in the Swiss Official Gazette of Commerce.
+<sup>1</sup> The call for presentation of the bill of exchange must be published in the Swiss Official Gazette of Commerce.[^1077-1]
 
 <sup>2</sup> In special cases the court may adopt other appropriate means for publicising the call for presentation.
+
+[^1077-1]: Amended by No I of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 4. Effect
 
@@ -16941,7 +17882,7 @@ By way of recourse, the bearer may claim:
 
 <sup>1</sup> Where insuperable obstacles (statutory provisions enacted by a state or some other instance of force majeure) militate against the timely presentation of the cheque or timely protest or equivalent declaration, the time limits for such actions are extended.
 
-<sup>2</sup> The bearer is obliged to notify the immediately preceding endorser of the force majeure event without delay and to note such notification together with the date and place and his signature on the cheque or an annex thereto; in other respects the provisions set out in Article 1042 are applicable.
+<sup>2</sup> The bearer is obliged to notify the immediately preceding endorser of the force majeure event without delay and to note such notification together with the date and place and his signature on the cheque or an annex thereto; in other respects, the provisions set out in Article 1042 are applicable.
 
 <sup>3</sup> Once the force majeure ceases to apply, the holder must present the cheque for acceptance or for payment without delay and, where necessary, make protest or similar declaration.
 
@@ -17226,7 +18167,7 @@ Documents of title to goods issued by a warehouse keeper or carrier as negotiabl
 
 [^1156-1]: Repealed by Annex No 1 of the Financial Services Act of 15 June 2018, with effect from 1 Jan. 2020 ([AS 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
-### Section Two:**** Community of Bond Creditors
+### Section Two: Community of Bond Creditors
 
 [^part5-tit34-chap2-1]
 
@@ -17355,11 +18296,11 @@ Documents of title to goods issued by a warehouse keeper or carrier as negotiabl
 
 #### Art. 1167
 
-<sup>1</sup> Each owner of a bond or his representative, or in the case of bonds under a usufruct either the usufructuary or his representative, has the right to vote. However, the usufructuary is liable in damages to the owner for any failure to take due account of the latter’s interests when exercising the voting rights.
+<sup>1</sup> Each owner of a bond or his representative, or in the case of bonds under a usufruct either the usufructuary or his representative, has the right to vote. However, the usufructuary is liable in damages to the owner for any failure to take due account of the latter’s interests when exercising the right to vote.
 
-<sup>2</sup> Bonds owned by or held in usufruct by the borrower confer no voting rights. However, where bonds belonging to the borrower have been given in pledge, the pledgee is entitled to exercise the associated voting rights.
+<sup>2</sup> Bonds owned by or held in usufruct by the borrower confer no right to vote. However, where bonds belonging to the borrower have been given in pledge, the pledgee is entitled to exercise the associated right to vote.
 
-<sup>3</sup> A charge or special lien held by the borrower on bonds does not preclude the voting rights of the owners of such bonds.
+<sup>3</sup> A charge or special lien held by the borrower on bonds does not preclude the right to vote of the owners of such bonds.
 
 ### 2. Representation of individual bond creditors
 
@@ -17367,13 +18308,13 @@ Documents of title to goods issued by a warehouse keeper or carrier as negotiabl
 
 <sup>1</sup> Representation of bond creditors requires a written power of attorney, unless such representation has its basis in law.
 
-<sup>2</sup> The borrower is excluded from representing bond creditors with voting rights.
+<sup>2</sup> The borrower is excluded from representing bond creditors with right to vote.
 
 ### IV. Procedure
 
 #### Art. 1169
 
-The Federal Council enacts provisions governing convocation of the creditors’ meeting, communication of the agenda, proof of entitlement to participate in the creditors’ meeting, moderation of the general meeting and the recording and communication of its resolutions.
+The Federal Council shall enact provisions governing convening the creditors’ meeting, giving notice of the agenda, proving entitlement to participate in the creditors’ meeting, chairing the general meeting and recording and giving notice of its resolutions.
 
 ### D. Resolutions of the community of creditors
 
@@ -17413,7 +18354,7 @@ A majority of at least two-thirds of the bond capital in circulation is required
 
 #### Art. 1172
 
-<sup>1</sup> When determining the total bond capital in circulation, bonds that do not confer voting rights are disregarded.
+<sup>1</sup> When determining the total bond capital in circulation, bonds that do not confer right to vote shall be disregarded.
 
 <sup>2</sup> Where a motion put to the creditors’ meeting fails to attain the requisite number of votes, the borrower may register votes making up the shortfall by written and authenticated declarations made within two months of the date of the meeting to the chairman of the meeting and thereby bring about a valid resolution.
 
@@ -17443,7 +18384,7 @@ A majority of at least two-thirds of the bond capital in circulation is required
 
 [^1175-1]
 
-An application to take the measures described in Article 1170 may be made by the borrower and considered by the creditors’ meeting only on the basis of status report drawn up as at the date of the creditors’ meeting or a balance sheet drawn up as at a date no more than six months prior to the meeting in accordance with standard practice and, where applicable, certified by the auditor as true and fair.
+An application to take the measures described in Article 1170 may be made by the borrower and considered by the creditors’ meeting only on the basis of status report drawn up as at the date of the creditors’ meeting or a balance sheet drawn up as at a date no more than six months prior to the meeting in accordance with standard practice and, where applicable, certified by the external auditor as true and fair.
 
 [^1175-1]: Amended by No I 3 of the FA of 16 Dec. 2005 (Law on Limited Liability Companies and Amendments to the Law on Companies limited by Shares, Cooperatives, the Commercial Register and Business Names), in force since 1 Jan. 2008 (AS 2007 4791; [BBl 2002 3148](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3969](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 
@@ -17506,7 +18447,7 @@ Official approval may be refused only where:
 
 <sup>1</sup> Resolutions which neither encroach on the creditors’ rights nor impose further material contributions on the creditors require merely an absolute majority of the votes represented, unless the law stipulates otherwise or the bond issue conditions impose stricter requirements.
 
-<sup>2</sup> The majority is determined in all cases according to the nominal value of the bond capital conferring voting rights that is represented at the creditors’ meeting.
+<sup>2</sup> The majority is determined in all cases according to the nominal value of the bond capital conferring right to vote that is represented at the creditors’ meeting.
 
 ### 3. Challenge
 
@@ -17546,13 +18487,17 @@ Any resolution within the meaning of Articles 1180 and 1181 which contravenes th
 
 <sup>4</sup> On receipt of a request for convocation of a creditors’ meeting, the Federal Supreme Court may order a stay of enforcement with the effects envisaged in Article 1166.
 
-### F. Mandatory law
+### F. Differing agreements
 
 #### Art. 1186
 
-<sup>1</sup> The rights conferred by law on the community of creditors and the bond representative may be neither excluded nor restricted by the bond issue conditions or other special agreements between the creditors and the borrower.
+[^1186-1]
 
-<sup>2</sup> This does not apply to provisions made in the bond issue conditions whereby more restrictive requirements are placed on the adoption of resolutions by the creditors’ meeting.
+<sup>1</sup> The rights conferred by law on the community of creditors and the bond representative may only be excluded, amended or restricted by the bond issue conditions or other special agreements between the creditors and the borrower if a majority of creditors are still entitled to amend the bond conditions.
+
+<sup>2</sup> Where bonds are publicly issued in whole or in part outside Switzerland, the provisions of another legal system related to the public issue of bonds concerning the community of creditors, its representation, meeting and resolutions may be declared applicable instead of the provisions of this section.
+
+[^1186-1]: Amended by Annex No 2 of the FA of 17 Dec. 2021 (Insolvency and Deposit Protection), in force since 1 Jan. 2023 ([AS 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [BBl 2020 6359](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
 
 ## Transitional Provisions to the Federal Act of 30 March 1911
 
@@ -17568,11 +18513,11 @@ The Federal Council is charged with making arrangements to publicise this Code o
 [^u1-2]: The amendments may be consulted under [AS 27 317](https://fedlex.data.admin.ch/eli/oc/27/317_321_377).
 [^u1-3]: [BS **1** 173; [AS 1962 789](https://fedlex.data.admin.ch/eli/oc/1962/789_827_848)Art. 11 para. 3, [1978 712](https://fedlex.data.admin.ch/eli/oc/1978/712_712_712)Art. 89 No b]
 
-## Final Provisions to the Amendment of 23 March 1962****
+## Final Provisions to the Amendment of 23 March 1962
 
 [^u2-1]
 
-[^u2-1]: Inserted by No II of the FA of 23. March 1962, in force since 1 Jan. 1963 ([AS 1962 1047](https://fedlex.data.admin.ch/eli/oc/1962/1047_1082_1085)1056; [BBl 1960 I 523](https://fedlex.data.admin.ch/eli/fga/1960/1_523_537_282)).
+[^u2-1]: Inserted by No II of the FA of 23 March 1962, in force since 1 Jan. 1963 ([AS 1962 1047](https://fedlex.data.admin.ch/eli/oc/1962/1047_1082_1085)1056; [BBl 1960 I 523](https://fedlex.data.admin.ch/eli/fga/1960/1_523_537_282)).
 
 ### A. Preferential payments on bankruptcy
 
@@ -17598,7 +18543,7 @@ The Federal Council is charged with making arrangements to publicise this Code o
 
 <sup>2</sup> Only Article 226*k* applies to advance payment agreements entered into prior to the commencement of this Act. These agreements must however be adapted to the provisions of the Article 227*b* within one year, failing which they lapse and the purchaser must be paid his entire credit balance with all the interest and benefits credited to him.
 
-[^u2-3-1]: These Art. have now been repealed.
+[^u2-3-1]: These articles have now been repealed.
 
 ### D. Entry into force
 
@@ -17606,7 +18551,7 @@ The Federal Council is charged with making arrangements to publicise this Code o
 
 The Federal Council determines the date on which this Act enters into force.
 
-## Transitional Provisions to the Amendment of 16 December 2005****
+## Transitional Provisions to the Amendment of 16 December 2005
 
 [^u3-1]
 
@@ -17630,7 +18575,7 @@ The Federal Council determines the date on which this Act enters into force.
 
 <sup>3</sup> For limited liability companies that are entered in the commercial register when this Code comes into force, Articles 808*a* and 809 paragraph 4 second sentence only apply after expiry of the period allowed to amend the articles of association.
 
-<sup>4</sup> Companies limited by shares and cooperatives that are entered in the commercial register when this Code comes into force whose name does not comply with the new statutory requirements must adapt their name to the new provisions within two years. On expiry of this period, the commercial registry amends the name ex officio.
+<sup>4</sup> Companies limited by shares and cooperatives that are entered in the commercial register when this Code comes into force whose name does not comply with the new statutory requirements must adapt their name to the new provisions within two years. On expiry of this period, the commercial register office amends the name ex officio.
 
 ### C. Payment of contributions
 
@@ -17646,7 +18591,7 @@ The Federal Council determines the date on which this Act enters into force.
 
 #### Art. 4
 
-<sup>1</sup> Shares in limited liability companies that indicate a nominal value and which are recorded under liabilities on the balance sheet, but will confer no voting rights (participation certificates), are deemed after two years to be capital contributions with the same property rights if they are not cancelled during this period by means of a reduction in capital. If the shares are cancelled, the former participants must be paid compensation corresponding to the true value of the certificates.
+<sup>1</sup> Shares in limited liability companies that indicate a nominal value and which are recorded under liabilities on the balance sheet, but will confer no right to vote (participation certificates), are deemed after two years to be capital contributions with the same property rights if they are not cancelled during this period by means of a reduction in capital. If the shares are cancelled, the former participants must be paid compensation corresponding to the true value of the certificates.
 
 <sup>2</sup> The required resolutions of the members' general meeting may be passed with an absolute majority of the votes represented, even if the articles of association provide otherwise.
 
@@ -17658,7 +18603,7 @@ The Federal Council determines the date on which this Act enters into force.
 
 Where limited liability companies acquired their own capital contributions before this Act comes into force, they must, provided they exceed 10 per cent of the nominal capital, sell the same or cancel the same by means of a reduction in capital, within two years.
 
-### F. duty to pay in further capital
+### F. Duty to pay in further capital
 
 #### Art. 6
 
@@ -17666,17 +18611,17 @@ Where limited liability companies acquired their own capital contributions befor
 
 <sup>2</sup> Otherwise, the new provisions apply after this Act comes into force, in particular in relation to the call for additional capital contributions.
 
-### G. Auditor
+### G. External auditor
 
 #### Art. 7
 
-The provisions of this Act on the auditor apply from the first financial year that begins when this Act comes into force or thereafter.
+The provisions of this Act on the external auditor apply from the first financial year that begins when this Act comes into force or thereafter.
 
 ### H. Voting rights
 
 #### Art. 8
 
-<sup>1</sup> Limited liability companies that have conferred voting rights before this Act comes into force that are not dependent on the nominal value of the capital contributions are not required to amend the corresponding provisions to the requirements von Article 806.
+<sup>1</sup> Limited liability companies that have conferred right to vote before this Act comes into force that are not dependent on the nominal value of the capital contributions are not required to amend the corresponding provisions to the requirements of Article 806.
 
 <sup>2</sup> On the issue of new capital contributions, Article 806 paragraph 2 second sentence must be observed in every case.
 
@@ -17700,7 +18645,7 @@ The exclusivity of business names that were entered in the commercial register b
 
 [^u3-11-1]: [AS 53 185](https://fedlex.data.admin.ch/eli/oc/53/185_185_189)
 
-## Transitional Provision to the Amendment of 17 June 2011****
+## Transitional Provision to the Amendment of 17 June 2011
 
 [^u4-1]
 
@@ -17708,7 +18653,7 @@ The exclusivity of business names that were entered in the commercial register b
 
 The provision in this amendment applies from the first financial year beginning on or after the date on which this amendment comes into force.
 
-## Transitional Provision to the Amendment of 23 December 2011****
+## Transitional Provision to the Amendment of 23 December 2011
 
 [^u5-1]
 
@@ -17728,7 +18673,7 @@ The provision in this amendment applies from the first financial year beginning 
 
 #### Art. 2
 
-<sup>1</sup> The regulations in Title Thirty Two first apply in the financial year that begins two years after this Amendment comes into force.
+<sup>1</sup> The regulations in Title Thirty-Two first apply in the financial year that begins two years after this Amendment comes into force.
 
 <sup>2</sup> The basis for the application of the provisions on financial reporting by larger undertakings is formed by the balance sheet total, sales revenue and number of full-time positions on annual average in the two years before this Amendment comes into force
 
@@ -17736,7 +18681,7 @@ The provision in this amendment applies from the first financial year beginning 
 
 <sup>4</sup> When applying the regulations on financial reporting for the first time, it is not required to specify the figures from previous years. When applying the regulations for the second time, only the figures from the previous year need be specified. If figures from previous financial years are specified, consistency of presentation and structure are not required. Reference must be made to this in the notes to the accounts.
 
-## Transitional Provisions to the Amendment of 12 December 2014****
+## Transitional Provisions to the Amendment of 12 December 2014
 
 [^u6-1]
 
@@ -17768,7 +18713,7 @@ The provision in this amendment applies from the first financial year beginning 
 
 <sup>2</sup> The deadline for the lapse of property rights (Art. 697*m* para. 3) in this case is six months after the Amendment of 12 December 2014 comes into force.
 
-## Transitional Provisions to the Amendment of 25 September 2015****
+## Transitional Provisions to the Amendment of 25 September 2015
 
 [^u7-1]
 
@@ -17796,7 +18741,7 @@ General and limited partnerships and partnerships limited by shares that are ent
 
 If the business name of a general or limited partnership or partnership limited by shares was entered in the commercial register before the Amendment of 25 September 2015 comes into force, its exclusivity is assessed in accordance with Article 946 of the current law and Article 951 of the previous law.
 
-## Transitional Provisions to the Amendment of 17 March 2017****
+## Transitional Provisions to the Amendment of 17 March 2017
 
 [^u8-1]
 
@@ -17816,9 +18761,9 @@ If the business name of a general or limited partnership or partnership limited 
 
 #### Art. 2
 
-Public institutions established before the new law comes into force and which primarily carry on a private gainful economic activity must be recorded in the commercial register within two years.
+Public institutions established before the new law comes into force and which primarily carry on a private gainful economic activity must be entered in the commercial register within two years.
 
-## Transitional provisions to the Amendment of 21 June 2019****
+## Transitional provisions to the Amendment of 21 June 2019
 
 [^u9-1]
 
@@ -17870,14 +18815,14 @@ Articles 4–8 apply to companies that have no equity securities listed on a sto
 
 <sup>3</sup> A company that has listed equity securities or that has organised its converted shares as intermediated securities need not amend its articles of association provided:
 
-- a. the general meeting decides to convert the converted shares into bearer shares without changing their number, the nominal value or the share class; and
+- a. the general meeting decides to convert the converted shares into bearer shares without changing their number, the nominal value or the class of shares; and
 - b. the company requests registration in accordance with Article 622 paragraph 2<sup>bis</sup>.
 
 ### 4. Updating of the share register and suspension of rights
 
 #### Art. 6
 
-<sup>1</sup> Following the conversion of bearer shares into registered shares, the company shall enter details of the shareholders that have fulfilled the obligation to give notice in Article 697*i* of the previous law in the share register.
+<sup>1</sup> Following converting bearer shares into registered shares, the company shall enter details of the shareholders that have fulfilled the obligation to give notice in Article 697*i* of the previous law in the share register.
 
 <sup>2</sup> The membership rights of shareholders who have not complied with the obligation to give notice are suspended and their property rights lapse. The board of directors shall ensure that no shareholders exercise their rights while in breach of this provision.
 
@@ -17901,19 +18846,35 @@ Articles 4–8 apply to companies that have no equity securities listed on a sto
 
 <sup>2</sup> Shareholders whose shares have become null and void through no fault of their own and who can prove that they were shareholders on the date that the shares became null and void, may within ten years of this date claim compensation from the company. The compensation corresponds to the true value of the shares at the time of their conversion in accordance with Article 4. If the true value of the shares on pursuing the claim is lower than that at the time of their conversion, the company need only pay the lower value. Compensation is excluded if the company does not have the required freely disposable shareholders’ equity.
 
-## Transitional Provision to the Amendment of 19 June 2020****
+## Transitional Provision to the Amendment of 19 June 2020
 
 [^u10-1]
 
-[^u10-1]: [AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2021 846](https://fedlex.data.admin.ch/eli/oc/2021/846)No III 1; [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)
+[^u10-1]: [AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2021 846](https://fedlex.data.admin.ch/eli/oc/2021/846)No III 1; [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)
 
-### A.–C. ...
+### A. General rule
 
-#### Art. 1–3
+#### Art. 1
 
-[^u10-13-1]
+<sup>1</sup> Articles 1–4 of the Final Title to the Civil Code[^u10-1-1] apply to die Amendment of 19 June 2020, unless the following provisions provide otherwise.
 
-[^u10-13-1]: Come into force at a later date ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+<sup>2</sup> The provisions of the new law become applicable to existing companies when it comes into force.
+
+[^u10-1-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+
+### B. Amendment of articles of association and regulations
+
+#### Art. 2
+
+<sup>1</sup> Companies that are entered in the commercial register at the time that the new law comes into force but which are not in compliance with the new rules must adapt their articles of association and regulations to the new provisions within two years.
+
+<sup>2</sup> Provisions of the articles of association and regulations that are not compatible with the new law remain in force until they are amended, but for no longer than two years after the new law comes into force.
+
+### C. Approved capital increases and capital increases from contingent capital
+
+#### Art. 3
+
+The previous law applies to approved capital increases and capital increases from contingent capital for which a resolution was passed before the new law comes into force. The resolutions of the general meeting may no longer be extended or amended.
 
 ### D. Gender representation
 
@@ -17923,13 +18884,17 @@ Articles 4–8 apply to companies that have no equity securities listed on a sto
 
 <sup>2</sup> The obligation to report in the remuneration report in accordance with Article 734*f* applies to the executive board at the latest from the financial year that begins ten years after the new law comes into force.
 
-### E. und F. ...
+### E. Stay of bankruptcy
 
 #### Art. 5
 
-**und **6**[^u10-5-1]**
+A stay of bankruptcy that was granted before the new law comes into force shall until its conclusion be governed by the previous law.
 
-[^u10-5-1]: Come into force at a later date ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+### F. Amendment of contracts under the previous law
+
+#### Art. 6
+
+Contracts existing at the time that the new law comes into force shall be adapted to the new law within two years of it coming into force. On expiry of this period, the rules of the new law apply to all contracts.
 
 ### G. Transparency in raw material companies
 
@@ -17937,7 +18902,7 @@ Articles 4–8 apply to companies that have no equity securities listed on a sto
 
 Articles 964*d*–964*h* apply for the first time to the financial year that begins one year after the new law comes into force.
 
-## Transitional provision to the Amendment of 19 June 2020****
+## Transitional provision to the Amendment of 19 June 2020
 
 [^u11-1]
 
@@ -17945,7 +18910,7 @@ Articles 964*d*–964*h* apply for the first time to the financial year that beg
 
 The provisions of Section 6 and Section 8 of Title 32 apply for the first time to the financial year that begins one year after the Amendment of 19 June 2020 comes into force.
 
-## Final Provisions on Title Eight and Title Eight<sup>bis</sup> ****
+## Final Provisions to Title Eight and Title Eight<sup>bis</sup>
 
 [^u12-1]
 
@@ -17973,9 +18938,9 @@ The Federal Decree of 30 June 1972[^u12-1-1] on Measures against Abuses in Tenan
 
 <sup>1</sup> This Act is subject to an optional referendum.
 
-<sup>2</sup> The Federal Council determines the commencement date.
+<sup>2</sup> The Federal Council shall determine the commencement date.
 
-## Final and Transitional Provisions on Title X****
+## Final and Transitional Provisions to Title X
 
 [^u13-1]
 
@@ -18040,16 +19005,16 @@ The following provisions are repealed on the commencement of this Act:
 - 11\. Art. 20 paragraph 2 and 59 of the Federal Act of 20 September 1963[^u13-6-10] on Vocational Education and Training,
 - 12\. Art. 64[^u13-6-11] and 72 paragraph 2 letter *a* of the Employment Act of 13 March 1964[^u13-6-12].
 
-[^u13-6-1]: [BS **8** 281; [AS 1959 858](https://fedlex.data.admin.ch/eli/oc/1959/858_888_876), [1964 965](https://fedlex.data.admin.ch/eli/oc/1964/965_961_981)No I–III, **1968** 64, **1977** 2249 No I 611, **1978** 1836 Annex No 4, **1982** 196 1676 Annex No 1 2184 Art. 114, **1990** 1091, **1991** 362 No II 412, **1992** 288 Annex No 37 2350, **1995** 511. [AS 1995 1328](https://fedlex.data.admin.ch/eli/oc/1995/1328_1328_1328)Annex No 1]
+[^u13-6-1]: [BS **8** 281; [AS 1959 858](https://fedlex.data.admin.ch/eli/oc/1959/858_888_876); [1964 965](https://fedlex.data.admin.ch/eli/oc/1964/965_961_981)No I–III; **1968** 64; **1977** 2249 No I, 611; **1978** 1836 Annex No 4; **1982** 196, 1676 Annex No 1, 2184 Art. 114; **1990** 1091; **1991** 362 No II, 412; **1992** 288 Annex No 37, 2350; **1995** 511. [AS 1995 1328](https://fedlex.data.admin.ch/eli/oc/1995/1328_1328_1328)Annex No 1]
 [^u13-6-2]: [SR 821.41](https://fedlex.data.admin.ch/eli/cc/30/535_539_517)
 [^u13-6-3]: [BS **8** 229; [AS 1951 1231](https://fedlex.data.admin.ch/eli/oc/1951/1231_1239_1273)Art. 14 para. 2, [1966 57](https://fedlex.data.admin.ch/eli/oc/1966/57_57_57)Art. 68. [AS 1983 108](https://fedlex.data.admin.ch/eli/oc/1983/108_108_108)Art. 21 No 3]
 [^u13-6-4]: [BS **2** 776; [AS 1966 57](https://fedlex.data.admin.ch/eli/oc/1966/57_57_57)Art. 69]
 [^u13-6-5]: [AS **1949** II 1293]
-[^u13-6-6]: [[AS 1953 1073](https://fedlex.data.admin.ch/eli/oc/1953/1073_1095_1133), [1954 1364](https://fedlex.data.admin.ch/eli/oc/1954/1364_1399_1426)Art. 1, [1958 659](https://fedlex.data.admin.ch/eli/oc/1958/659_688_688), [1959 588](https://fedlex.data.admin.ch/eli/oc/1959/588_610_590), [1960 1279](https://fedlex.data.admin.ch/eli/oc/1960/1279_1334_1335), [1962 203](https://fedlex.data.admin.ch/eli/oc/1962/203_205_207)[1144](https://fedlex.data.admin.ch/eli/oc/1962/1144_1185_1191)Art. 14 [1412](https://fedlex.data.admin.ch/eli/oc/1962/1412_1463_1472), [1967 722](https://fedlex.data.admin.ch/eli/oc/1967/722_766_760), [1968 92](https://fedlex.data.admin.ch/eli/oc/1968/92_92_95), [1974 763](https://fedlex.data.admin.ch/eli/oc/1974/763_763_763), [1975 1088](https://fedlex.data.admin.ch/eli/oc/1975/1088_1088_1088), [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)No I 921 942 [931](https://fedlex.data.admin.ch/eli/oc/1977/931_931_931), [1979 2058](https://fedlex.data.admin.ch/eli/oc/1979/2058_2060_2060), [1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)Annex No 6, [1988 640](https://fedlex.data.admin.ch/eli/oc/1988/640_640_640), [1989 504](https://fedlex.data.admin.ch/eli/oc/1989/504_504_504)Art. 33 No c, [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)No II 51 [857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)Annex No 25 [2611](https://fedlex.data.admin.ch/eli/oc/1991/2611_2611_2611), [1992 1860](https://fedlex.data.admin.ch/eli/oc/1992/1860_1860_1860)Art. 75 No 5 [1986](https://fedlex.data.admin.ch/eli/oc/1992/1986_1986_1986)Art. 36 para. 1, [1993 1410](https://fedlex.data.admin.ch/eli/oc/1993/1410_1410_1410)Art. 92 No 4 [1571](https://fedlex.data.admin.ch/eli/oc/1993/1571_1571_1571)[2080](https://fedlex.data.admin.ch/eli/oc/1993/2080_2080_2080)Annex No 11, [1994 28](https://fedlex.data.admin.ch/eli/oc/1994/28_28_28), [1995 1469](https://fedlex.data.admin.ch/eli/oc/1995/1469_1469_1469)Art. 59 No 3 [1837](https://fedlex.data.admin.ch/eli/oc/1995/1837_1837_1837)[3517](https://fedlex.data.admin.ch/eli/oc/1995/3517_3517_3517)No I 2, [1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588)Annex No 2 [2783](https://fedlex.data.admin.ch/eli/oc/1996/2783_2783_2783), [1997 1187](https://fedlex.data.admin.ch/eli/oc/1997/1187_1187_1187)[1190](https://fedlex.data.admin.ch/eli/oc/1997/1190_1190_1190), [1998 1822](https://fedlex.data.admin.ch/eli/oc/1998/1822_1822_1822). [AS 1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)Annex No c]
+[^u13-6-6]: [[AS 1953 1073](https://fedlex.data.admin.ch/eli/oc/1953/1073_1095_1133); [1954 1364](https://fedlex.data.admin.ch/eli/oc/1954/1364_1399_1426)Art. 1; [1958 659](https://fedlex.data.admin.ch/eli/oc/1958/659_688_688); [1959 588](https://fedlex.data.admin.ch/eli/oc/1959/588_610_590); [1960 1279](https://fedlex.data.admin.ch/eli/oc/1960/1279_1334_1335); [1962 203](https://fedlex.data.admin.ch/eli/oc/1962/203_205_207), [1144](https://fedlex.data.admin.ch/eli/oc/1962/1144_1185_1191)Art. 14, [1412](https://fedlex.data.admin.ch/eli/oc/1962/1412_1463_1472); [1967 722](https://fedlex.data.admin.ch/eli/oc/1967/722_766_760); [1968 92](https://fedlex.data.admin.ch/eli/oc/1968/92_92_95); [1974 763](https://fedlex.data.admin.ch/eli/oc/1974/763_763_763); [1975 1088](https://fedlex.data.admin.ch/eli/oc/1975/1088_1088_1088); [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)No I, 921, 942, [931](https://fedlex.data.admin.ch/eli/oc/1977/931_931_931); [1979 2058](https://fedlex.data.admin.ch/eli/oc/1979/2058_2060_2060); [1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)Annex No 6; [1988 640](https://fedlex.data.admin.ch/eli/oc/1988/640_640_640); [1989 504](https://fedlex.data.admin.ch/eli/oc/1989/504_504_504)Art. 33 lett. c; [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)No II 51, [857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)Annex No 25, [2611](https://fedlex.data.admin.ch/eli/oc/1991/2611_2611_2611); [1992 1860](https://fedlex.data.admin.ch/eli/oc/1992/1860_1860_1860)Art. 75 No 5, [1986](https://fedlex.data.admin.ch/eli/oc/1992/1986_1986_1986)Art. 36 para. 1; [1993 1410](https://fedlex.data.admin.ch/eli/oc/1993/1410_1410_1410)Art. 92 No 4, [1571](https://fedlex.data.admin.ch/eli/oc/1993/1571_1571_1571), [2080](https://fedlex.data.admin.ch/eli/oc/1993/2080_2080_2080)Annex No 11; [1994 28](https://fedlex.data.admin.ch/eli/oc/1994/28_28_28); [1995 1469](https://fedlex.data.admin.ch/eli/oc/1995/1469_1469_1469)Art. 59 No 3, [1837](https://fedlex.data.admin.ch/eli/oc/1995/1837_1837_1837), [3517](https://fedlex.data.admin.ch/eli/oc/1995/3517_3517_3517)No I 2; [1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588)Annex No 2, [2783](https://fedlex.data.admin.ch/eli/oc/1996/2783_2783_2783); [1997 1187](https://fedlex.data.admin.ch/eli/oc/1997/1187_1187_1187), [1190](https://fedlex.data.admin.ch/eli/oc/1997/1190_1190_1190); [1998 1822](https://fedlex.data.admin.ch/eli/oc/1998/1822_1822_1822). [AS 1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)Annex lett. c]
 [^u13-6-7]: [SR 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050). Now: Federal Act on Compensation for Loss of Earnings for Persons on Military Service or Maternity Leave (Loss of Earnings Compensation Act, LECA).
 [^u13-6-8]: [SR 221.215.311](https://fedlex.data.admin.ch/eli/cc/1956/1543_1645_1658)
-[^u13-6-9]: [[AS 1962 1089](https://fedlex.data.admin.ch/eli/oc/1962/1089_1127_1131), [1964 487](https://fedlex.data.admin.ch/eli/oc/1964/487_483_485)Art. 22 para. 2 No b,[1968 1025](https://fedlex.data.admin.ch/eli/oc/1968/1025_1065_981)Art. 35, [1969 310](https://fedlex.data.admin.ch/eli/oc/1969/310_318_319)No III, **1971** 751, [1978 50](https://fedlex.data.admin.ch/eli/oc/1978/50_50_50)[570](https://fedlex.data.admin.ch/eli/oc/1978/570_570_), [1985 1649](https://fedlex.data.admin.ch/eli/oc/1985/1649_1649_1649), [1990 1882](https://fedlex.data.admin.ch/eli/oc/1990/1882_1882_1882)Annex No 7, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Annex No 22, **1993** 2043 Annex No 3, [1994 2626](https://fedlex.data.admin.ch/eli/oc/1994/2626_2626_2626)Art. 71]
-[^u13-6-10]: [[AS 1965 321](https://fedlex.data.admin.ch/eli/oc/1965/321_325_321)[428](https://fedlex.data.admin.ch/eli/oc/1965/428__), [1968 86](https://fedlex.data.admin.ch/eli/oc/1968/86_87_89), [1972 1681](https://fedlex.data.admin.ch/eli/oc/1972/1681_1709_1885), [1975 1078](https://fedlex.data.admin.ch/eli/oc/1975/1078_1078_1078)No III, [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)No I 331. [AS 1979 1687](https://fedlex.data.admin.ch/eli/oc/1979/1687_1687_1687)Art. 75]
+[^u13-6-9]: [[AS 1962 1089](https://fedlex.data.admin.ch/eli/oc/1962/1089_1127_1131); [1964 487](https://fedlex.data.admin.ch/eli/oc/1964/487_483_485)Art. 22 para. 2 No b;[1968 1025](https://fedlex.data.admin.ch/eli/oc/1968/1025_1065_981)Art. 35; [1969 310](https://fedlex.data.admin.ch/eli/oc/1969/310_318_319)No III; **1971** 751; [1978 50](https://fedlex.data.admin.ch/eli/oc/1978/50_50_50), [570](https://fedlex.data.admin.ch/eli/oc/1978/570_570_); [1985 1649](https://fedlex.data.admin.ch/eli/oc/1985/1649_1649_1649); [1990 1882](https://fedlex.data.admin.ch/eli/oc/1990/1882_1882_1882)Annex No 7; [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Annex No 22; **1993** 2043 Annex No 3; [1994 2626](https://fedlex.data.admin.ch/eli/oc/1994/2626_2626_2626)Art. 71]
+[^u13-6-10]: [[AS 1965 321](https://fedlex.data.admin.ch/eli/oc/1965/321_325_321), [428](https://fedlex.data.admin.ch/eli/oc/1965/428__); [1968 86](https://fedlex.data.admin.ch/eli/oc/1968/86_87_89); [1972 1681](https://fedlex.data.admin.ch/eli/oc/1972/1681_1709_1885); [1975 1078](https://fedlex.data.admin.ch/eli/oc/1975/1078_1078_1078)No III; [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)No I 331. [AS 1979 1687](https://fedlex.data.admin.ch/eli/oc/1979/1687_1687_1687)Art. 75]
 [^u13-6-11]: This Art. has now been repealed.
 [^u13-6-12]: [SR 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
 
@@ -18070,7 +19035,7 @@ Contracts of employment in existence when this Act comes into force (individual 
 
 The Federal Council shall determine the commencement date of this Act.
 
-## Final Provisions on the Fourth Section of Title XIII****
+## Final Provisions to the Fourth Section of Title XIII
 
 [^u14-1]
 
@@ -18100,7 +19065,7 @@ The Federal Council shall determine the commencement date of this Act.
 
 The Federal Council determines the commencement date of this Act.
 
-## Transitional provisions on Title XX****
+## Transitional provisions to Title XX
 
 [^u15-1]
 
@@ -18124,7 +19089,7 @@ The Federal Council determines the commencement date of this Act.
 [^u15-2]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 [^u15-3]: Amended by Annex No 2 of the Customs Act of 18 March 2005, in force since 1 May 2007 ([AS 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [BBl 2004 567](https://fedlex.data.admin.ch/eli/fga/2004/129)).
 
-## Final and Transitional Provisions on Titles XXIV‑XXXIII****
+## Final and Transitional Provisions to Titles XXIV‑XXXIII
 
 [^u16-1]
 
@@ -18244,7 +19209,7 @@ Bills of exchange and cheques issued before this Act comes into force are govern
 
 The Ordinance of 20 February 1918[^u16-13-1] relating to the community of bond creditors and the provisions of the supplementary Federal Council Decrees[^u16-13-2] continue to apply to the cases to which they applied previously.
 
-[^u16-13-1]: [[AS 34 231](https://fedlex.data.admin.ch/eli/oc/34/231_231_249), [35 297](https://fedlex.data.admin.ch/eli/oc/35/297_301_396), [36 623](https://fedlex.data.admin.ch/eli/oc/36/623_637_599)[893](https://fedlex.data.admin.ch/eli/oc/36/893_913_933)]
+[^u16-13-1]: [[AS 34 231](https://fedlex.data.admin.ch/eli/oc/34/231_231_249); [35 297](https://fedlex.data.admin.ch/eli/oc/35/297_301_396); [36 623](https://fedlex.data.admin.ch/eli/oc/36/623_637_599), [893](https://fedlex.data.admin.ch/eli/oc/36/893_913_933)]
 [^u16-13-2]: [[AS 51 673](https://fedlex.data.admin.ch/eli/oc/51/673_684_779), [53 454](https://fedlex.data.admin.ch/eli/oc/53/454_454_459), [57 1514](https://fedlex.data.admin.ch/eli/oc/57/1514_1549_1595), [58 934](https://fedlex.data.admin.ch/eli/oc/58/934_936_978), **62** 1088, [63 1342](https://fedlex.data.admin.ch/eli/oc/63/1342_1343_1348)]
 
 ### H. ...
@@ -18301,7 +19266,7 @@ On the entry into force of this Act, the federal private law provisions that are
 
 [^u16-19-1]: This section was brought into force in the version contained in the Federal Act of 1 April 1949. For the original version of the text, see [AS 53 185](https://fedlex.data.admin.ch/eli/oc/53/185_185_189).
 
-## Final Provisions to the XXVI Title****
+## Final Provisions to Title XXVI
 
 [^u17-1]
 
@@ -18323,7 +19288,7 @@ The Final Title of the Civil Code[^u17-1-1] applies to this Act.
 
 <sup>1</sup> Companies limited by shares and partnerships limited by shares that are entered in the commercial register when this Act comes into force, but which do not comply with the new statutory provisions, must amend their articles of association to the new provisions within five years.
 
-<sup>2</sup> Companies which, despite being publicly required to do so through repeated notice in the Swiss Official Gazette of Commerce and in the cantonal official gazettes, do not within five years amend the provisions of their articles of association governing minimum capital, the minimum contribution and the participation and dividend rights certificates, will be dissolved by the court at the request of the commercial registrar. They may allow an additional period of a maximum of six months. Companies that were established before 1 January 1985 are exempted from the amendment of the provision of their articles of association on minimum capital. Companies whose participation capital on 1 January 1985 was more than twice the share capital are exempted from having to amend the statutory limit.
+<sup>2</sup> Companies which, despite being publicly required to do so through repeated notice in the Swiss Official Gazette of Commerce and in the cantonal official gazettes, do not within five years amend the provisions of their articles of association governing minimum capital, the minimum contribution and the participation and dividend rights certificates, will be dissolved by the court at the request of the commercial registrar. They may allow an additional period of a maximum of six months. Companies that were founded before 1 January 1985 are exempted from the amendment of the provision of their articles of association on minimum capital. Companies whose participation capital on 1 January 1985 was more than twice the share capital are exempted from having to amend the statutory limit.
 
 <sup>3</sup> Other provisions of the articles of association that are incompatible with the new law remain in force until they are amended, but for five years at the most.
 
@@ -18345,11 +19310,11 @@ The Final Title of the Civil Code[^u17-1-1] applies to this Act.
 
 Further to Article 685*d* paragraph 1, the company may, on the basis of a provision of the articles of association, refuse to accept persons as acquirers of registered shares listed on the stock market, provided and for as long as their acceptance could prevent the company from providing evidence of the composition of the shareholder groups as required by federal legislation.
 
-### 3. Shares with preferential voting rights
+### 3. Shares with preferential right to vote
 
 #### Art. 5
 
-Companies that retain shares with preferential voting rights with a nominal value of under ten francs, in application of Article 10 of the Final and Transitional provisions of the Federal Act of 18 December 1936[^u17-5-1] on the Revision of Titles 24–33 of the Code of Obligations, as well as companies, where the nominal value the larger shares is more than ten times the nominal value of the smaller shares are not required to amend their articles of association in accordance with Article 693 paragraph 2 second sentence. However, they are not permitted to issue any new shares whose nominal value is more than ten times that of the smaller shares or less than ten per cent of the nominal value of the larger shares.
+Companies that retain shares with preferential right to vote with a nominal value of under ten francs, in application of Article 10 of the Final and Transitional provisions of the Federal Act of 18 December 1936[^u17-5-1] on the Revision of Titles 24–33 of the Code of Obligations, as well as companies, where the nominal value the larger shares is more than ten times the nominal value of the smaller shares are not required to amend their articles of association in accordance with Article 693 paragraph 2 second sentence. However, they are not permitted to issue any new shares whose nominal value is more than ten times that of the smaller shares or less than ten per cent of the nominal value of the larger shares.
 
 [^u17-5-1]: See above.
 
@@ -18357,7 +19322,7 @@ Companies that retain shares with preferential voting rights with a nominal valu
 
 #### Art. 6
 
-Where a company has adopted provisions in its articles of association governing qualified majorities for certain resolutions by simply reproducing provisions of the previous law, it may within one year of this Act coming into force resolve to amend such provisions in accordance by an absolute majority of the voting rights represented.
+Where a company has adopted provisions in its articles of association governing qualified majorities for certain resolutions by simply reproducing provisions of the previous law, it may within one year of this Act coming into force resolve to amend such provisions in accordance by an absolute majority of the right to vote represented.
 
 ### C. Amendment of federal legislation
 
@@ -18377,9 +19342,9 @@ This Act is subject to an optional referendum.
 
 #### Art. 9
 
-The Federal Council determines the commencement date.
+The Federal Council shall determine the commencement date.
 
-## Final Provisions on the Second Section of Title XXXIV****
+## Final Provisions to the Second Section of Title XXXIV
 
 [^u18-1]
 
@@ -18392,8 +19357,8 @@ The Federal Council determines the commencement date.
 - However, if a borrower has already been granted facilitations under the previous law by resolutions of the community of creditors that are equivalent or correspond to those provided for in Article 1170, appropriate account must be taken thereof in the application of this provision.
 - In all other respects, the Final and Transitional Provisions of the Federal Act of 18 December 1936 on the Revision of Titles XXIV–XXXIII of the Code of Obligations apply.
 - 4\. On commencement of this Act, contradictory provisions, and in particular the Ordinance of the Federal Council of 20 February 1918[^u18-4] on the Community of Bond Creditors, are repealed.
-- 5\. The Federal Council determines the commencement date of this Act.
+- 5\. The Federal Council shall determine the commencement date of this Act.
 
 [^u18-2]: The amendments may be consulted under AS **1949** I 791.
 [^u18-3]: The amendments may be consulted under AS **1949** I 791.
-[^u18-4]: [[AS 34 231](https://fedlex.data.admin.ch/eli/oc/34/231_231_249), [35 297](https://fedlex.data.admin.ch/eli/oc/35/297_301_396), [36 623](https://fedlex.data.admin.ch/eli/oc/36/623_637_599)[893](https://fedlex.data.admin.ch/eli/oc/36/893_913_933)]
+[^u18-4]: [[AS 34 231](https://fedlex.data.admin.ch/eli/oc/34/231_231_249); [35 297](https://fedlex.data.admin.ch/eli/oc/35/297_301_396); [36 623](https://fedlex.data.admin.ch/eli/oc/36/623_637_599), [893](https://fedlex.data.admin.ch/eli/oc/36/893_913_933)]
