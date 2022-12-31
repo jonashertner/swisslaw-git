@@ -3,11 +3,11 @@ canton: ZH
 number: "414.253.865"
 title: Studienordnung für den Masterstudiengang Accounting and Controlling an der Zürcher Hochschule für Angewandte Wissenschaften
 language: de
-version: "2020-04-01"
-nachtrag: "108"
-valid_until: 2023-01-01
+version: "2023-01-01"
+nachtrag: "119"
+valid_until: 2024-12-01
 adopted: 2015-12-10
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_865-2015_12_10-2016_05_01-108.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_865-2015_12_10-2016_05_01-119.html"
 text: pdf
 ---
 
@@ -25,11 +25,11 @@ beschliesst:
 
 [^t-1]: OS 71, 125; Begründung siehe ABl 2016-02-26. Vom Fachhochschulrat genehmigt am 9. Februar 2016.
 [^t-2]: Inkrafttreten: 1. Mai 2016.
-[^t-3]: LS 414.252.3. 1. 4. 20 - 108 3
+[^t-3]: LS 414.252.3. 1. 1. 23 - 119 3
 
 ### A. Allgemeine Bestimmungen
 
-[^hAAllgemeineBestim-1]: LS 414.252.3. 1. 4. 20 - 108 3
+[^hAAllgemeineBestim-1]: LS 414.252.3. 1. 1. 23 - 119 3
 
 #### § 1
 
@@ -69,7 +69,7 @@ a.[^hBZulassungzumStu-2] Bachelorabschluss in Business Administration im Umfang 
 
 **1**
 
-- 1\. 4. 20 - 108
+- 1\. 1. 23 - 119
 
 - b. gleichwertiger Hochschulabschluss aus einem verwandten Studiengang im Umfang von 180 ECTS-Credits, wovon mindestens 12 ECTS-Credits aus den Themenbereichen Accounting and Controlling stammen müssen.
 
@@ -137,19 +137,18 @@ Die Module werden in deutscher oder englischer Sprache durchgeführt.
 
 ### E. Studienabschluss und Masterdiplom
 
-#### § 12
-
 **Titel**
 
-Das Masterstudium wird mit dem Titel «Master of Science ZFH in Accounting and Controlling» abgeschlossen.
+§ 12.[^hEStudienabschluss-1] Das Masterstudium wird mit dem Titel «Master of Science ZHAW in Accounting and Controlling» abgeschlossen.
 
-[^12-1]: Fassung gemäss B vom 23. August 2018 (OS 74, 40; ABl 2018-12-07). In Kraft seit 1. Februar 2019.
+[^hEStudienabschluss-1]: Fassung gemäss B vom 2. Juni 2022 (OS 77, 522; ABl 2022-08-19). In Kraft seit 1. Januar 2023.
+[^hEStudienabschluss-2]: Fassung gemäss B vom 23. August 2018 (OS 74, 40; ABl 2018-12-07). In Kraft seit 1. Februar 2019.
 
 #### § 13
 
 **Abschluss des Studiums**
 
-Der Mastertitel wird vergeben, wenn a.[^12-1] alle erforderlichen Pflichtmodule bestanden und b. 90 ECTS-Credits[^12-1] erreicht sind.
+Der Mastertitel wird vergeben, wenn a.[^hEStudienabschluss-2] alle erforderlichen Pflichtmodule bestanden und b. 90 ECTS-Credits[^hEStudienabschluss-2] erreicht sind.
 
 **Abschlussnote**
 
@@ -174,13 +173,13 @@ Der Mastertitel wird vergeben, wenn a.[^12-1] alle erforderlichen Pflichtmodule 
 
 Der Anhang zur Studienordnung für den Masterstudiengang Accounting and Controlling an der Zürcher Hochschule für Angewandte Wissenschaften wird weder in die Offizielle Gesetzessammlung (OS) noch in die Zürcher Loseblattsammlung (LS) aufgenommen. Er kann bei der
 
-Zürcher Hochschule für Angewandte Wissenschaften Ressort Lehre Gertrudstrasse 15 Postfach 8400 Winterthur
+Zürcher Hochschule für Angewandte Wissenschaften Ressort Bildung Gertrudstrasse 15 Postfach 8400 Winterthur
 
 bezogen oder unter www.zhaw.ch eingesehen werden.
 
 **5**
 
-- 1\. 4. 20 - 108
+- 1\. 1. 23 - 119
 
 ## Weitere Fussnoten
 
