@@ -3,18 +3,18 @@ sr: "514.421"
 title: "Ordinanza del DDPS del 27 marzo 2014 concernenti gli animali dell'esercito"
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/171"
 language: it
-version: 2014-04-14
+version: 2023-01-01
 adopted: 2014-03-27
 in_force: 2014-04-14
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/171/20140414/it/xml/fedlex-data-admin-ch-eli-cc-2014-171-20140414-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/171/20140414/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/171/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2014-171-20230101-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/171/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza del DDPS concernenti gli animali dell’esercito
 
-del 27 marzo 2014 (Stato 14 aprile 2014)
+del 27 marzo 2014 (Stato 1° gennaio 2023)
 
 Il Dipartimento federale della difesa, della protezione della popolazione e dello sport (DDPS),
 
@@ -28,15 +28,17 @@ ordina:
 
 #### Art. 1
 
-**Organo competente**
+**Organo competente**[^1-1]
 
-La Base logistica dell’esercito (BLEs) è competente per l’acquisto, il noleggio e la vendita degli animali dell’esercito.
+Il Servizio veterinario dell’esercito (S vet Es) è competente per l’acquisto, il noleggio e la vendita degli animali dell’esercito.
+
+[^1-1]: Nuovo testo giusta il n. I dell’O del DDPS del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 797](https://fedlex.data.admin.ch/eli/oc/2022/797)).
 
 #### Art. 2
 
-**Verbale di stima**
+**Verbale[^2-1]**
 
-<sup>1</sup> La BLEs redige un verbale di stima per ogni animale dell’esercito.
+<sup>1</sup> Il S vet Es[^2-2] redige un verbale per ogni animale dell’esercito.
 
 <sup>2</sup>
 
@@ -47,12 +49,12 @@ Vi annota le informazioni seguenti:
   per i cavalli dell’esercito:
 
   - 1\. dati relativi al proprietario,
-  - 2\. dati relativi al cavallo (nome, sesso, anno di nascita, altezza al garrese, colore, numero dello zoccolo, marchio impresso a fuoco sull’incollatura, numero ID, numero del chip, UELN [Universal Equine Life Number]),
-  - 3\. valore di stima,
-  - 4\. tipo di ispezione,
-  - 5\. data dell’ispezione,
-  - 6\. tare e difetti,
-  - 7\. ferratura,
+  - 2\. dati relativi al cavallo (nome, sesso, anno di nascita, altezza al garrese, colore, numero dello zoccolo, numero ID, numero del transponder, UELN [Universal Equine Life Number]),
+  - 3\. tipo di ispezione,
+  - 4\. data dell’ispezione,
+  - 5\. tare e difetti,
+  - 6\. ferratura,
+  - 7\. valore di stima,
   - 8\. stato maggiore o unità,
   - 9\. perito;
 
@@ -62,34 +64,47 @@ Vi annota le informazioni seguenti:
 
   - 1\. generalità e incorporazione del conducente del cane dell’esercito,
   - 2\. foto del cane dell’esercito,
-  - 3\. dati relativi al cane dell’esercito (nome di richiamo, nome, razza, data della cucciolata, sesso, numero del cane di servizio, numero del microchip, proprietario),
-  - 4\. addestramento del cane dell’esercito (cane da salvataggio, cane da difesa, cane da ricerca di stupefacenti, cane da ricerca di esplosivi),
+  - 3\. dati relativi al cane dell’esercito (nome di richiamo, nome, razza, data della cucciolata, sesso, numero del cane di servizio, numero di transponder),
+  - 4\. addestramento del cane dell’esercito (cane da salvataggio, cane da difesa, cane da ricerca),
   - 5\. servizi, impieghi (data, tipo e luogo del servizio, truppa, numero di giorni di servizio, firma del comandante o del capo del distaccamento),
-  - 6\. visite e trattamenti veterinari durante il servizio (data, tipo, stato di salute, diagnosi, terapia, truppa, timbro e firma del veterinario),
-  - 7\. esami (data, organizzazione, categoria, rango, qualificazione/A/B/C/ totale, riuscito/non riuscito, firma del responsabile degli esami o del giudice d’esame).
+  - 6\. tipo di ispezione,
+  - 7\. data dell’ispezione,
+  - 8\. tare e difetti,
+  - 9\. esami (data, organizzazione, categoria, rango, qualificazione/A/B/C/totale, riuscito/non riuscito, firma del responsabile degli esami o del giudice d’esame).[^2-3]
 
-<sup>3</sup> Il verbale di stima accompagna l’animale unitamente al passaporto per equide (art. 15*c* dell’O del 27 giu. 1995[^2-1] sulle epizoozie) o al passaporto per animali da compagnia (art. 9 dell’O del 18 apr. 2007[^2-2] concernente l’importazione di animali da compagnia). Costituisce la base per la stima e per la sua verifica.
+<sup>3</sup> Il verbale accompagna l’animale unitamente al passaporto per equide (art. 15*c* dell’O del 27 giugno 1995[^2-4] sulle epizoozie) o al passaporto per animali da compagnia (art. 9 dell’O del 18 aprile 2007[^2-5] concernente l’importazione di animali da compagnia). Costituisce la base per la stima e per la sua verifica.
 
-[^2-1]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
-[^2-2]: [RS 916.443.14](https://fedlex.data.admin.ch/eli/cc/2014/755)
+[^2-1]: Nuova espr. giusta il n. I dell’O del DDPS del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 797](https://fedlex.data.admin.ch/eli/oc/2022/797)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^2-2]: Nuova espr. giusta il n. I dell’O del DDPS del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 797](https://fedlex.data.admin.ch/eli/oc/2022/797)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^2-3]: Nuovo testo giusta il n. I dell’O del DDPS del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 797](https://fedlex.data.admin.ch/eli/oc/2022/797)).
+[^2-4]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^2-5]: [[RU 2007 2769](https://fedlex.data.admin.ch/eli/oc/2007/362); [2008 4191](https://fedlex.data.admin.ch/eli/oc/2008/595); [2012 2865](https://fedlex.data.admin.ch/eli/oc/2012/338); [2013 2141](https://fedlex.data.admin.ch/eli/oc/2013/454), [3111](https://fedlex.data.admin.ch/eli/oc/2013/601)all. n. II 3; [2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)all. n. 4, [4055](https://fedlex.data.admin.ch/eli/oc/2014/680). [RU 2014 4521](https://fedlex.data.admin.ch/eli/oc/2014/755)all. 6 n. I]. Vedi ora l’O del 28 nov. 2014 concernente l’importazione, il transito e l’esportazione di animali da compagnia ([RS 916.443.14](https://fedlex.data.admin.ch/eli/cc/2014/755)).
 
 ## Sezione 2: Acquisto di animali dell’esercito
 
 #### Art. 3
 
-**Disposizioni generali relative all’acquisto di cavalli dell’esercito**
+**Disposizioni generali relative all’acquisto di cavalli dell’esercito**[^3-1]
 
-<sup>1</sup> I cavalli e i muli possono essere acquistati per il servizio in qualità di cavalli dell’esercito se sono regolarmente vaccinati contro l’influenza equina e il tetano.
+<sup>1</sup> I cavalli e i muli possono essere acquistati per il servizio in qualità di cavalli dell’esercito se sono vaccinati secondo le direttive del S vet Es.
 
-<sup>2</sup> Non sono acquistati stalloni e cavalli monorchidi o criptorchidi.
+<sup>2</sup> Possono essere acquistati giumente e castroni.
 
-<sup>3</sup> Per quanto riguarda i castroni, la castrazione deve risalire ad almeno sei mesi prima.
+<sup>3</sup> Per quanto riguarda i cavalli del treno maschi e i muli la castrazione deve risalire ad almeno sei mesi prima.
+
+<sup>4</sup> Non sono acquistati cavalli affetti da ticchi.
+
+[^3-1]: Nuovo testo giusta il n. I dell’O del DDPS del 23 nov. 2022 , in vigore dal 1° gen. 2023 ([RU 2022 797](https://fedlex.data.admin.ch/eli/oc/2022/797)).
 
 #### Art. 4
 
-**Disposizioni particolari relative all’acquisto di cavalli da sella**
+**Disposizioni particolari relative all’acquisto di cavalli da sella**[^4-1]
 
-Come cavalli da sella sono acquistati unicamente i castroni della razza mezzo sangue svizzera. Devono avere almeno tre anni e godere di buona salute, presentare un’andatura corretta, essere robusti, essere impiegabili in maniera polivalente e avere un carattere equilibrato.
+<sup>1</sup> Come cavalli da sella sono acquistati unicamente i castroni e le giumente della razza mezzo sangue svizzera. Devono avere almeno tre anni e godere di buona salute, presentare un’andatura corretta, essere robusti, essere impiegabili in maniera polivalente e avere un carattere equilibrato.
+
+<sup>2</sup> In via eccezionale possono essere acquistati stalloni. I costi della castrazione sono a carico del venditore.
+
+[^4-1]: Nuovo testo giusta il n. I dell’O del DDPS del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 797](https://fedlex.data.admin.ch/eli/oc/2022/797)).
 
 #### Art. 5
 
@@ -106,12 +121,15 @@ Come cavalli del treno sono acquistati cavalli della razza del Giura e muli che 
 - e. una conformazione corretta degli arti e zoccoli sani;
 - f. una buona acuità visiva;
 - g. un’altezza al garrese per i cavalli della razza del Giura da 151–158 cm; per i giovani castroni che non sembrano ancora aver concluso la fase di crescita, al massimo 157 cm;
-- h. un’altezza al garrese per i muli da 147–158 cm;
-- i. un’età minima di quattro anni per i castroni e le giumente dei muli, cinque anni per le giumente dei cavalli della razza del Giura; un’età massima in entrambi i casi di sei a sette anni;
+- h.[^5-1] un’altezza al garrese per i muli di 151–158 cm;
+- i.[^5-2] un’età minima di quattro anni al momento dell’ispezione di garanzia per i cavalli della razza del Giura, cinque anni per i muli; per entrambi l’età massima è sette anni;
 - j. per i cavalli della razza del Giura, un ascendente in linea paterna e materna da uno stallone riproduttore selezionato dall’associazione di allevatori di cavalli della razza del Giura;
 - k. per i muli, un ascendente da parte materna da una giumenta dei cavalli della razza Giura, in linea paterna da un asino da riproduzione riconosciuto dalla Confederazione.
 
 <sup>2</sup> I sottufficiali, i soldati e le reclute incorporati nelle truppe del treno possono proporre l’acquisto del loro cavallo o mulo.
+
+[^5-1]: Nuovo testo giusta il n. I dell’O del DDPS del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 797](https://fedlex.data.admin.ch/eli/oc/2022/797)).
+[^5-2]: Nuovo testo giusta il n. I dell’O del DDPS del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 797](https://fedlex.data.admin.ch/eli/oc/2022/797)).
 
 #### Art. 6
 
@@ -127,13 +145,13 @@ I cani possono essere acquistati per il servizio in qualità di cani dell’eser
 
 #### Art. 7
 
-In casi motivati la BLEs può derogare alle condizioni previste negli articoli 3–6, se l’acquisto dell’animale sembra essere utile all’esercito.
+In casi motivati il S vet Es può derogare alle condizioni previste negli articoli 3–6, se l’acquisto dell’animale sembra essere utile all’esercito.
 
 #### Art. 8
 
 **Conclusione del contratto**
 
-La BLEs conclude per ogni acquisto un contratto scritto.
+Il S vet Es conclude per ogni acquisto un contratto scritto.
 
 ## Sezione 3: Noleggio di cavalli dell’esercito
 
@@ -151,16 +169,16 @@ I cavalli possono essere noleggiati per il servizio in qualità di cavalli dell�
   hanno un’altezza al garrese di:
 
   - 1\. almeno 160 cm per i cavalli da sella,
-  - 2\. 148–160 cm per i cavalli della razza del Giura,
-  - 3\. 145–160 cm per i muli;
+  - 2\.[^9-1] 151–160 cm per i cavalli della razza del Giura e i muli,
+  - 3\.[^9-2] *...*
 
-- c. sono stati sottoposti a due vaccinazioni di base contro l’influenza equina e il tetano a distanza di 21–92 giorni nonché alla rispettiva vaccinazione di richiamo entro 365 giorni;
+- c.[^9-3] sono stati sottoposti alle vaccinazioni secondo le direttive del S vet Es;
 - d. sugli zoccoli anteriori sono contrassegnati con il numero corretto dello zoccolo;
 - e. sono presentati alla stima provvisti di ferratura in buono stato e adatta alla stagione.
 
 <sup>2</sup> In occasione del noleggio è allestita una lista di fornitura dei cavalli. Questa funge da base per il calcolo dell’indennità secondo i giorni di servizio prestati dall’animale dell’esercito.
 
-<sup>3</sup> I ferri devono presentare quattro fori per l’inserimento dei ramponi mordax. In occasione della stima le ferrature difettose sono annotate nel verbale di stima e nella lista di fornitura dei cavalli. Esse devono essere riparate dai maniscalchi della truppa a spese del locatore.
+<sup>3</sup> I ferri devono presentare quattro fori per l’inserimento dei ramponi mordax. In occasione della stima le ferrature difettose sono annotate nel verbale e nella lista di fornitura dei cavalli. Esse devono essere riparate dai maniscalchi della truppa a spese del locatore.
 
 <sup>4</sup>
 
@@ -172,7 +190,12 @@ Sono esclusi dal servizio militare:
 - d. i cavalli affetti da malattie contagiose;
 - e. i cavalli che a causa di affezioni croniche, di tare o di difetti, non sono idonei per un servizio faticoso;
 - f. i cavalli radiati dal servizio;
-- g. i cavalli affetti da tic.
+- g.[^9-4] ...
+
+[^9-1]: Nuovo testo giusta il n. I dell’O del DDPS del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 797](https://fedlex.data.admin.ch/eli/oc/2022/797)).
+[^9-2]: Abrogato dal n. I dell’O del DDPS del 23 nov. 2022, con effetto dal 1° gen. 2023 ([RU 2022 797](https://fedlex.data.admin.ch/eli/oc/2022/797)).
+[^9-3]: Nuovo testo giusta il n. I dell’O del DDPS del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 797](https://fedlex.data.admin.ch/eli/oc/2022/797)).
+[^9-4]: Abrogata dal n. I dell’O del DDPS del 23 nov. 2022, con effetto dal 1° gen. 2023 ([RU 2022 797](https://fedlex.data.admin.ch/eli/oc/2022/797)).
 
 #### Art. 10
 
@@ -182,7 +205,9 @@ Sono esclusi dal servizio militare:
 
 <sup>2</sup> La stima del cavallo è effettuata da un ufficiale medico veterinario.
 
-<sup>3</sup> La BLEs organizza il trasporto dei cavalli fino al luogo in cui si svolge la stima e ritorno. Le spese di trasporto sono a suo carico.
+<sup>3</sup> Il S vet Es organizza il trasporto dei cavalli fino al luogo in cui si svolge la stima e ritorno. Le spese di trasporto sono a carico della Base logistica dell’esercito.[^10-1]
+
+[^10-1]: Nuovo testo giusta il n. I dell’O del DDPS del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 797](https://fedlex.data.admin.ch/eli/oc/2022/797)).
 
 #### Art. 11
 
@@ -214,9 +239,9 @@ Le stime massime ammontano:
 
 **Ripresa**
 
-<sup>1</sup> Durante la presa in consegna, i militari possono riprendere subito i loro cavalli se non sono d’accordo con il valore di stima o con l’iscrizione di difetti nel verbale di stima.
+<sup>1</sup> Durante la presa in consegna, i militari possono riprendere subito i loro cavalli se non sono d’accordo con il valore di stima o con l’iscrizione di difetti nel verbale.
 
-<sup>2</sup> Dopo la presa in consegna, possono riprendere il proprio cavallo durante un servizio unicamente con l’autorizzazione della BLEs.
+<sup>2</sup> Dopo la presa in consegna, possono riprendere il proprio cavallo durante un servizio unicamente con l’autorizzazione del S vet Es.
 
 #### Art. 13
 
@@ -232,7 +257,7 @@ Le stime massime ammontano:
 
 <sup>1</sup> All’inizio del servizio, il comandante fa esaminare lo stato di salute di tutti i cavalli. Ordina all’ufficiale medico veterinario l’ispezione di quest’ultimi entro cinque giorni dalla presa in consegna.
 
-<sup>2</sup> Se l’ufficiale medico veterinario constata difetti e malattie anteriori al servizio che al momento della presa in consegna non sono stati rilevati, li annota nel verbale di stima e li annuncia alla BLEs.
+<sup>2</sup> Se l’ufficiale medico veterinario constata difetti e malattie anteriori al servizio che al momento della presa in consegna non sono stati rilevati, li annota nel verbale e li annuncia al S vet Es.
 
 <sup>3</sup>
 
@@ -241,17 +266,23 @@ Il comandante può rinviare i cavalli ai militari se:
 - a. si manifestano difetti e malattie anteriori al servizio che avrebbero escluso il cavallo da una presa in consegna;
 - b. i difetti e le malattie anteriori al servizio si sono aggravati in misura tale da rendere il cavallo non idoneo al servizio.
 
+<sup>4</sup> Le spese di trasporto sono a carico del locatore.[^14-1]
+
+[^14-1]: Introdotto dal n. I dell’O del DDPS del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 797](https://fedlex.data.admin.ch/eli/oc/2022/797)).
+
 #### Art. 15
 
 **Restituzione**
 
 <sup>1</sup> Alla fine di un servizio o all’uscita da un’infermeria o da una clinica veterinaria i cavalli devono essere stimati.
 
-<sup>2</sup> Devono essere presentati con una ferratura adatta al servizio. Le ferrature difettose devono essere annotate nel verbale di stima e sulla lista di fornitura dei cavalli. La BLEs rimborsa ai militari le spese per la ferratura; si fonda sui prezzi raccomandati dall’Unione svizzera del metallo.
+<sup>2</sup> Devono essere presentati con una ferratura adatta al servizio. Le ferrature difettose devono essere annotate nel verbale e sulla lista di fornitura dei cavalli. Il S vet Es rimborsa ai militari le spese per la ferratura; si fonda sui prezzi raccomandati dall’Associazione professionale dei fabbri maniscalchi.[^15-1]
 
-<sup>3</sup> Il risultato della stima deve essere iscritto nel verbale di stima.
+<sup>3</sup> Il risultato della stima deve essere iscritto nel verbale.
 
 <sup>4</sup> I militari che alla fine del servizio non presentano il proprio cavallo alla stima perdono qualsiasi diritto a indennità.
+
+[^15-1]: Nuovo testo giusta il n. I dell’O del DDPS del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 797](https://fedlex.data.admin.ch/eli/oc/2022/797)).
 
 #### Art. 16
 
@@ -275,27 +306,32 @@ Il comandante può rinviare i cavalli ai militari se:
 
 #### Art. 18
 
-**Ammontare dell’indennità di nolo**
+**Ammontare dell’indennità di nolo**[^18-1]
 
-Per gli animali dell’esercito noleggiati in servizio militare è versata un’indennità di nolo secondo l’articolo 20 capoverso 1 o 3 dell’ordinanza del DDPS del 12 dicembre 1995[^18-1] concernente l’amministrazione dell’esercito (OAE–DDPS).
+Per gli animali dell’esercito noleggiati in servizio militare sono versate le seguenti indennità di nolo:
 
-[^18-1]: [RS 510.301.1](https://fedlex.data.admin.ch/eli/cc/1996/388_388_388)
+- a. 40 franchi per cavallo e giorno;
+- b. 8 franchi per cane e giorno.
+
+[^18-1]: Nuovo testo giusta il n. I dell’O del DDPS del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 797](https://fedlex.data.admin.ch/eli/oc/2022/797)).
 
 #### Art. 19
 
 **Diritto all’indennità di nolo**
 
-<sup>1</sup> Il diritto all’indennità di nolo inizia, per gli animali stimati, il giorno della presa in consegna e termina il giorno della restituzione. Sono indennizzati soltanto i giorni di servizio effettivamente prestati.
+<sup>1</sup> Il diritto all’indennità di nolo inizia, per gli animali dell’esercito che prestano servizio, con la presa in consegna e termina il giorno della restituzione. Sono indennizzati soltanto i giorni di servizio effettivamente prestati.[^19-1]
 
 <sup>2</sup> Per gli animali dell’esercito rinviati al momento della presa in consegna non è versata alcuna indennità di nolo.
 
 <sup>3</sup> Il diritto all’indennità di nolo continua a sussistere durante la permanenza di animali dell’esercito ammalati o feriti in un’infermeria o in una clinica veterinaria.
 
+[^19-1]: Nuovo testo giusta il n. I dell’O del DDPS del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 797](https://fedlex.data.admin.ch/eli/oc/2022/797)).
+
 #### Art. 20
 
 **Competenza in caso di pretese pecuniarie**
 
-Le pretese pecuniarie risultanti dal noleggio di animali dell’esercito sono indirizzate alla BLEs.
+Le pretese pecuniarie risultanti dal noleggio di animali dell’esercito sono indirizzate al S vet Es.
 
 ## Sezione 6: Non idoneità
 
@@ -306,8 +342,8 @@ Le pretese pecuniarie risultanti dal noleggio di animali dell’esercito sono in
 Sono dichiarati non idonei come cavalli dell’esercito segnatamente:
 
 - a. i cavalli viziosi o restii;
-- b. i cavalli affetti da malattie croniche che indubbiamente erano già presenti prima della stima;
-- c. i cavalli affetti da tic, da cecità o semicecità.
+- b.[^21-1] i cavalli affetti da malattie croniche;
+- c.[^21-2] i cavalli affetti da cecità o semicecità.
 
 <sup>2</sup>
 
@@ -316,9 +352,13 @@ Sono dichiarati non idonei come cani dell’esercito segnatamente i cani:
 - a. troppo aggressivi;
 - b. emozionalmente instabili;
 - c. con carente predisposizione al lavoro;
-- d. affetti da malattie croniche che indubbiamente erano già presenti prima della stima.
+- d.[^21-3] affetti da malattie croniche.
 
-<sup>3</sup> La BLEs è competente per la dichiarazione di non idoneità.
+<sup>3</sup> Il S vet Es è competente per la dichiarazione di non idoneità.
+
+[^21-1]: Nuovo testo giusta il n. I dell’O del DDPS del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 797](https://fedlex.data.admin.ch/eli/oc/2022/797)).
+[^21-2]: Nuovo testo giusta il n. I dell’O del DDPS del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 797](https://fedlex.data.admin.ch/eli/oc/2022/797)).
+[^21-3]: Nuovo testo giusta il n. I dell’O del DDPS del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 797](https://fedlex.data.admin.ch/eli/oc/2022/797)).
 
 ## Sezione 7: Indennità in caso di malattia, ferite e morte
 
@@ -331,17 +371,17 @@ Sono dichiarati non idonei come cani dell’esercito segnatamente i cani:
 Se nei cinque giorni che seguono la restituzione si manifestano malattie, i militari hanno diritto all’indennità per il trattamento veterinario:
 
 - a. per le malattie interne per le quali vi è motivo di presumere che siano una conseguenza del servizio;
-- b. per le malattie e le lesioni esterne, a condizione che siano state accertate al momento della restituzione e annotate nel verbale di stima oppure se è provato che esse si sono verificate in servizio.
+- b. per le malattie e le lesioni esterne, a condizione che siano state accertate al momento della restituzione e annotate nel verbale oppure se è provato che esse si sono verificate in servizio.
 
 <sup>2</sup> Il termine è di nove giorni per le malattie contagiose, sempre che sia provato che esse sono state contratte in servizio.
 
-<sup>3</sup> La Confederazione non risponde per i difetti e le malattie, in particolare le malattie croniche, se è provato che esistevano già prima della presa in consegna, siano questi stati menzionati o no nel verbale di stima.
+<sup>3</sup> La Confederazione non risponde per i difetti e le malattie, in particolare le malattie croniche, se è provato che esistevano già prima della presa in consegna, siano questi stati menzionati o no nel verbale.
 
 #### Art. 23
 
 **Trattamento di animali dell’esercito ammalati o feriti dopo la restituzione,**
 
-I militari devono curare bene e far trattare senza ritardo da un veterinario gli animali restituiti ammalati o feriti per i quali intendono chiedere un’indennità. Sono tenuti a informare la BLEs inviando regolarmente i referti del veterinario sullo stato di salute e il trattamento degli animali dell’esercito.
+I militari devono curare bene e far trattare senza ritardo da un veterinario gli animali restituiti ammalati o feriti per i quali intendono chiedere un’indennità. Sono tenuti a informare il S vet Es inviando regolarmente i referti del veterinario sullo stato di salute e il trattamento degli animali dell’esercito.
 
 #### Art. 24
 
@@ -349,7 +389,7 @@ I militari devono curare bene e far trattare senza ritardo da un veterinario gli
 
 <sup>1</sup> Le domande d’indennizzo devono essere presentate entro otto giorni o, in caso di malattie contagiose, entro 12 giorni dalla restituzione.
 
-<sup>2</sup> La domanda dev’essere presentata alla BLEs accompagnata dal verbale di stima e dal referto del veterinario curante. Il referto deve confermare che la malattia è subentrata entro i termini di cui all’articolo 22.
+<sup>2</sup> La domanda dev’essere presentata al S vet Es accompagnata dal verbale e dal referto del veterinario curante. Il referto deve confermare che la malattia è subentrata entro i termini di cui all’articolo 22.
 
 <sup>3</sup> Se la domanda d’indennizzo è presentata in ritardo, il diritto all’indennità comincia a decorrere dal giorno in cui la domanda è stata consegnata alla posta.
 
@@ -362,25 +402,25 @@ Il diritto all’indennità si estingue se:
 - a. un trattamento è inopportunamente trascurato o ritardato;
 - b. il referto veterinario è lacunoso o manca;
 - c. l’animale dell’esercito è venduto o condotto all’estero;
-- d. dopo la morte, il cadavere dell’animale dell’esercito è eliminato senza che la BLEs abbia avuto la possibilità di ordinare un’autopsia.
+- d. dopo la morte, il cadavere dell’animale dell’esercito è eliminato senza che il S vet Es abbia avuto la possibilità di ordinare un’autopsia.
 
 #### Art. 26
 
-**Indennità in caso di incapacità lavorativa dell’animale dell’esercito**
+**Indennità in caso di incapacità lavorativa del cavallo dell’esercito**[^26-1]
 
-<sup>1</sup> In caso di incapacità lavorativa totale di un animale dell’esercito dopo la restituzione, per la durata del trattamento dell’animale è versata ai militari un’indennità di nolo secondo l’articolo 20 capoverso 1 o 3 e un’indennità parziale secondo l’articolo 20 capoverso 2 o 4 OAE-DDPS[^26-1].
+<sup>1</sup> In caso di incapacità lavorativa totale di un cavallo dell’esercito dopo la restituzione, per la durata del trattamento dell’animale è versata ai militari un’indennità di nolo secondo l’articolo 18.
 
-<sup>2</sup> In caso di incapacità lavorativa parziale, l’indennità di nolo e l’indennità sono proporzionalmente ridotte.
+<sup>2</sup> In caso di incapacità lavorativa parziale, l’indennità di nolo è proporzionalmente ridotta.
 
-[^26-1]: [RS 510.301.1](https://fedlex.data.admin.ch/eli/cc/1996/388_388_388)
+[^26-1]: Nuovo testo giusta il n. I dell’O del DDPS del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 797](https://fedlex.data.admin.ch/eli/oc/2022/797)).
 
 #### Art. 27
 
-**Provvedimenti della BLEs in caso di domande d’indennizzo**
+**Provvedimenti del S vet Es in caso di domande d’indennizzo**
 
 <sup>1</sup>
 
-Per quanto riguarda gli animali dell’esercito ammalati o feriti per i quali è richiesta un’indennità di noleggio o un’altra indennità, la BLEs può:
+Per quanto riguarda gli animali dell’esercito ammalati o feriti per i quali è richiesta un’indennità di noleggio o un’altra indennità, il S vet Es può:
 
 - a. sottoporli a proprie spese a una visita veterinaria;
 - b. ricoverarli in un’infermeria o in una clinica veterinaria;
@@ -400,7 +440,7 @@ Per quanto riguarda gli animali dell’esercito ammalati o feriti per i quali è
 
 **Accertamento di decessi**
 
-In caso di decessi poco chiari l’ufficiale medico veterinario o la BLEs possono disporre i necessari accertamenti.
+In caso di decessi poco chiari l’ufficiale medico veterinario o il S vet Es possono disporre i necessari accertamenti.
 
 ## Sezione 8: Custodia durante il servizio militare
 
@@ -426,11 +466,13 @@ I medicamenti per gli animali dell’esercito di regola sono ordinati presso la 
 
 #### Art. 33
 
-**Trasferimenti**
+**Trasferimenti**[^33-1]
 
-<sup>1</sup> Gli animali dell’esercito ammalati o feriti, che non possono essere curati presso la truppa oppure ripresi dai militari, devono essere ricoverati in un’infermeria o in una clinica veterinaria designata dalla BLEs, oppure ricevere un’altra assistenza adeguata.
+<sup>1</sup> Gli animali dell’esercito ammalati o feriti, che non possono essere curati presso la truppa oppure ripresi dai militari, devono essere ricoverati in un’infermeria o in una clinica veterinaria designata dal Centro di competenza del servizio veterinario e degli animali dell’esercito (CC S vet e anim Es) oppure ricevere un’altra assistenza adeguata.
 
-<sup>2</sup> Se la BLEs ordina il trasferimento, la Confederazione assume le spese per il trasporto di andata e ritorno.
+<sup>2</sup> Se il CC S vet e anim Es ordina il trasferimento, l’esercito assume le spese per il trasporto di andata e ritorno.
+
+[^33-1]: Nuovo testo giusta il n. I dell’O del DDPS del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 797](https://fedlex.data.admin.ch/eli/oc/2022/797)).
 
 ## Sezione 9: Impiego degli animali dell’esercito
 
@@ -446,11 +488,16 @@ I medicamenti per gli animali dell’esercito di regola sono ordinati presso la 
 
 **Cavalli da sella**
 
-<sup>1</sup> Nelle scuole reclute con animali dell’esercito, agli ufficiali del treno, agli ufficiali veterinari e agli ufficiali medici veterinari è assegnato un cavallo dell’esercito.
+<sup>1</sup> Nelle scuole reclute con animali dell’esercito, agli ufficiali del treno, agli ufficiali veterinari e agli ufficiali medici veterinari è assegnato su richiesta un cavallo da sella dell’esercito.[^35-1]
 
 <sup>2</sup> Questi ufficiali possono chiedere ai comandanti di scuola l’autorizzazione di fornire il proprio cavallo da sella, sempre che sia idoneo al servizio.
 
 <sup>3</sup> Negli altri servizi d’istruzione, questi ufficiali possono fornire spontaneamente il proprio cavallo da sella. Su richiesta e se possibile, viene loro assegnato un cavallo da sella.
+
+<sup>4</sup> I propri cavalli da sella devono essere trasportati da questi ufficiali. Le spese sono a carico dell’esercito.[^35-2]
+
+[^35-1]: Nuovo testo giusta il n. I dell’O del DDPS del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 797](https://fedlex.data.admin.ch/eli/oc/2022/797)).
+[^35-2]: Introdotto dal n. I dell’O del DDPS del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 797](https://fedlex.data.admin.ch/eli/oc/2022/797)).
 
 ## Sezione 10: Vendita di animali dell’esercito
 
@@ -458,7 +505,7 @@ I medicamenti per gli animali dell’esercito di regola sono ordinati presso la 
 
 **Contratto**
 
-<sup>1</sup> La BLEs è competente per la vendita di animali dell’esercito.
+<sup>1</sup> Il S vet Es è competente per la vendita di animali dell’esercito.
 
 <sup>2</sup> Conclude per ogni acquisto un contratto scritto. Esso disciplina in particolare l’obbligo di custodia, l’esclusione dell’obbligo di garanzia, i diritti di ricupera e le pene convenzionali.
 
@@ -468,23 +515,47 @@ I medicamenti per gli animali dell’esercito di regola sono ordinati presso la 
 
 **Vendita di cavalli da sella**
 
-<sup>1</sup> Gli ufficiali del treno, gli ufficiali veterinari e gli ufficiali medici veterinari incorporati nelle colonne del treno o nella compagnia veterinaria possono acquistare dalla BLEs un cavallo da sella se devono ancora prestare almeno 60 giorni di servizio.
+<sup>1</sup>
 
-<sup>2</sup> Chi intende acquistare un cavallo da sella deve dimostrare di poter prendersene cura in modo conforme alle esigenze dell’animale. La BLEs può controllare le condizioni di custodia prima della vendita e durante il periodo dell’obbligo di custodia.
+Gli ufficiali del treno, gli ufficiali veterinari e gli ufficiali medici veterinari possono acquistare dal S vet Es un cavallo da sella se soddisfano le condizioni seguenti:
+
+- a. devono ancora prestare almeno 60 giorni di servizio;
+- b. sono incorporati in una colonna del treno, nella compagnia veterinaria o nello stato maggiore del gruppo veterinario e animali dell’esercito 13 (gr vet e anim Es 13).[^37-1]
+
+<sup>2</sup> Chi intende acquistare un cavallo da sella deve dimostrare di poter prendersene cura in modo conforme alle esigenze dell’animale. Il S vet Es può controllare le condizioni di custodia prima della vendita e durante il periodo dell’obbligo di custodia.
+
+[^37-1]: Nuovo testo giusta il n. I dell’O del DDPS del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 797](https://fedlex.data.admin.ch/eli/oc/2022/797)).
 
 #### Art. 38
 
 **Vendita di cavalli del treno e di muli**
 
-<sup>1</sup> I sottufficiali, i soldati e le reclute del treno possono acquistare dalla BLEs un cavallo del treno o un mulo se devono ancora prestare almeno due servizi di perfezionamento della truppa completi.
+<sup>1</sup> I sottufficiali, i soldati e le reclute del treno possono acquistare dal S vet Es un cavallo del treno o un mulo se devono ancora prestare almeno due servizi di perfezionamento della truppa completi.
 
-<sup>2</sup> Chi intende acquistare un cavallo del treno o un mulo deve dimostrare di poter prendersene cura in modo conforme alle esigenze dell’animale. La BLEs può controllare le condizioni di custodia prima della vendita e durante il periodo dell’obbligo di custodia.
+<sup>2</sup> Chi intende acquistare un cavallo del treno o un mulo deve dimostrare di poter prendersene cura in modo conforme alle esigenze dell’animale. Il S vet Es può controllare le condizioni di custodia prima della vendita e durante il periodo dell’obbligo di custodia.
 
 #### Art. 39
 
-**Vendita di cani dell’esercito**
+**Vendita di cani dell’esercito**[^39-1]
 
-I conducenti di cani possono acquistare dalla BLEs un cane dell’esercito se sono incorporati in un comando militare dotato di cani di servizio e devono ancora prestare almeno due servizi di perfezionamento della truppa completi. Devono dimostrare di poter prendersi cura del cane in modo conforme alle esigenze dell’animale. La BLEs può controllare le condizioni di custodia prima della vendita e durante il periodo dell’obbligo di custodia.
+<sup>1</sup>
+
+I conducenti di cani possono acquistare dal S vet Es un cane dell’esercito se soddisfano le condizioni seguenti:
+
+- a. devono ancora prestare almeno quattro servizi di perfezionamento della truppa completi;
+- b. sono incorporati nelle compagnie di conducenti di cani.
+
+<sup>2</sup> Chi intende acquistare un cane dell’esercito deve dimostrare di poter prendersene cura in modo conforme alle esigenze dell’animale. Il S vet Es può controllare le condizioni di custodia prima della vendita e durante il periodo dell’obbligo di custodia.
+
+[^39-1]: Nuovo testo giusta il n. I dell’O del DDPS del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 797](https://fedlex.data.admin.ch/eli/oc/2022/797)).
+
+#### Art. 39a
+
+**Diritto di ricupera**[^39a-1]
+
+Se le condizioni contrattuali non sono soddisfatte, l’animale dell’esercito può essere ricuperato in ogni momento.
+
+[^39a-1]: Introdotto dal n. I dell’O del DDPS del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 797](https://fedlex.data.admin.ch/eli/oc/2022/797)).
 
 ## Sezione 11: Diritti e obblighi dei militari durante il periodo di custodia dell’animale dell’esercito
 
@@ -502,15 +573,18 @@ I conducenti di cani possono acquistare dalla BLEs un cane dell’esercito se so
 
 <sup>1</sup> Gli animali dell’esercito devono essere sottoposti a un allenamento regolare.
 
-<sup>2</sup> Assolvere allenamenti ed esami fuori del servizio secondo le direttive del comando superiore costituisce il presupposto per il diritto all’indennità di cui all’articolo 22 OAE-DDPS[^41-1].
+<sup>2</sup> Assolvere allenamenti ed esami fuori del servizio secondo le direttive del comando superiore costituisce il presupposto per il diritto all’indennità per i cani dell’esercito di al massimo 600 franchi all’anno.[^41-1]
 
-[^41-1]: [RS 510.301.1](https://fedlex.data.admin.ch/eli/cc/1996/388_388_388)
+<sup>3</sup> È versato un contributo di 7 franchi per cavallo e per giorno per i cavalli, il cui numero è stabilito per contratto, pronti all’impiego in qualsiasi momento per scuole e corsi dell’esercito e messi a disposizione in funzione delle necessità.[^41-2]
+
+[^41-1]: Nuovo testo giusta il n. I dell’O del DDPS del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 797](https://fedlex.data.admin.ch/eli/oc/2022/797)).
+[^41-2]: Introdotto dal n. I dell’O del DDPS del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 797](https://fedlex.data.admin.ch/eli/oc/2022/797)).
 
 #### Art. 42
 
 **Allevamento**
 
-Durante il periodo dell’obbligo di custodia, gli animali dell’esercito possono essere utilizzati per la riproduzione soltanto con l’autorizzazione della BLEs.
+Durante il periodo dell’obbligo di custodia, gli animali dell’esercito possono essere utilizzati per la riproduzione soltanto con l’autorizzazione del S vet Es.
 
 #### Art. 43
 
@@ -521,14 +595,19 @@ Durante il periodo dell’obbligo di custodia, gli animali dell’esercito posso
 L’obbligo di custodia per contratto si estingue se il militare:
 
 - a. è stato dichiarato non idoneo al servizio;
-- b. non è più incorporato in una colonna del treno o nella compagnia veterinaria;
-- c. non è più incorporato in un comando dotato di cani di servizio;
-- d. è stato promosso al grado d’ufficiale;
+- b.[^43-1] non è più incorporato in una colonna del treno, nella compagnia veterinaria o nello stato maggiore del gr vet e anim Es 13;
+- c.[^43-2] non è più incorporato in una compagnia di conducenti di cani;
+- d.[^43-3] ha acquistato un cavallo del treno o un mulo ed è stato promosso al grado di sottufficiale superiore o ufficiale;
 - e. è in congedo all’estero;
 - f. non può più custodire l’animale per motivi privati;
 - g. non può più custodire l’animale in modo conforme alle esigenze dell’animale.
 
-<sup>2</sup> Per i casi di cui al capoverso 1 lettere e–g occorre concordare una partecipazione contrattuale dei militari alle spese per l’animale dell’esercito oppure un diritto di compera da parte dell’esercito.
+<sup>2</sup> Per i casi di cui al capoverso 1 lettere e–g occorre concordare una partecipazione contrattuale dei militari alle spese per l’animale dell’esercito oppure un diritto di ricupera da parte dell’esercito.[^43-4]
+
+[^43-1]: Nuovo testo giusta il n. I dell’O del DDPS del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 797](https://fedlex.data.admin.ch/eli/oc/2022/797)).
+[^43-2]: Nuovo testo giusta il n. I dell’O del DDPS del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 797](https://fedlex.data.admin.ch/eli/oc/2022/797)).
+[^43-3]: Nuovo testo giusta il n. I dell’O del DDPS del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 797](https://fedlex.data.admin.ch/eli/oc/2022/797)).
+[^43-4]: Nuovo testo giusta il n. I dell’O del DDPS del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 797](https://fedlex.data.admin.ch/eli/oc/2022/797)).
 
 #### Art. 44
 
@@ -536,7 +615,7 @@ L’obbligo di custodia per contratto si estingue se il militare:
 
 <sup>1</sup>
 
-I militari devono notificare immediatamente per scritto alla BLEs:
+I militari devono notificare immediatamente per scritto al S vet Es:
 
 - a. malattie o ferimenti gravi dell’animale dell’esercito che ne impediscono un utilizzo a fini militari;
 - b. la morte dell’animale dell’esercito.
@@ -551,7 +630,7 @@ I militari devono notificare immediatamente per scritto alla BLEs:
 
 **Esecuzione**
 
-<sup>1</sup> La BLEs è incaricata dell’esecuzione della presente ordinanza.
+<sup>1</sup> Il S vet Es è incaricata dell’esecuzione della presente ordinanza.
 
 <sup>2</sup>
 

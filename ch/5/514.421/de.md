@@ -3,18 +3,18 @@ sr: "514.421"
 title: Verordnung des VBS vom 27. März 2014 über die Armeetiere
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/171"
 language: de
-version: 2014-04-14
+version: 2023-01-01
 adopted: 2014-03-27
 in_force: 2014-04-14
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/171/20140414/de/xml/fedlex-data-admin-ch-eli-cc-2014-171-20140414-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/171/20140414/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/171/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2014-171-20230101-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/171/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des VBS über die Armeetiere
 
-vom 27. März 2014 (Stand am 14. April 2014)
+vom 27. März 2014 (Stand am 1. Januar 2023)
 
 Das Eidgenössische Departement für Verteidigung, Bevölkerungsschutz und Sport (VBS),
 
@@ -28,31 +28,33 @@ verordnet:
 
 #### Art. 1
 
-**Zuständige Stelle**
+**Zuständige Stelle**[^1-1]
 
-Die Logistikbasis der Armee (LBA) ist für Kauf, Miete und Verkauf der Armeetiere zuständig.
+Der Veterinärdienst der Armee (Vet D A) ist für Kauf, Miete und Verkauf der Armeetiere zuständig.
+
+[^1-1]: Fassung gemäss Ziff. I der V des VBS vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 797](https://fedlex.data.admin.ch/eli/oc/2022/797)).
 
 #### Art. 2
 
-**Schatzungsprotokoll**
+**Verbal[^2-1]**
 
-<sup>1</sup> Die LBA erstellt für jedes Armeetier ein Schatzungsprotokoll.
+<sup>1</sup> Der Vet D A[^2-2] erstellt für jedes Armeetier ein Verbal.
 
 <sup>2</sup>
 
-Sie hält darin folgende Informationen fest:
+Er hält darin folgende Informationen fest:
 
 - a.
 
   bei Armeepferden:
 
   - 1\. Angaben zum Eigentümer oder zur Eigentümerin,
-  - 2\. Angaben zum Pferd (Name, Geschlecht, Geburtsjahr, Stockmass; Farbe, Huf-Nummer, Halsbrand, ID-Nummer, Chip-Nummer, UELN [Universal Equine Life Number]),
-  - 3\. Schatzungssumme,
-  - 4\. Inspektionsart,
-  - 5\. Datum der Inspektion,
-  - 6\. Fehler und Mängel,
-  - 7\. Beschläge,
+  - 2\. Angaben zum Pferd (Name, Geschlecht, Geburtsjahr, Stockmass, Farbe, Huf-Nummer, ID-Nummer, Transponder-Nummer, UELN [Universal Equine Life Number]),
+  - 3\. Inspektionsart,
+  - 4\. Datum der Inspektion,
+  - 5\. Fehler und Mängel,
+  - 6\. Beschläge,
+  - 7\. Schatzungssumme,
   - 8\. Stab oder Einheit,
   - 9\. Experte oder Expertin;
 
@@ -62,34 +64,47 @@ Sie hält darin folgende Informationen fest:
 
   - 1\. Personalien und Einteilung des Armeehundeführers oder der Armeehundeführerin,
   - 2\. Foto des Armeehundes,
-  - 3\. Angaben zum Armeehund (Rufname, Name, Rasse, Wurfdatum, Geschlecht, Diensthundenummer, Mikrochip-Nummer, Eigentümer oder Eigentümerin),
-  - 4\. Ausbildung des Armeehundes (Rettungshund, Schutzhund, Spürhund Betäubungsmittel, Spürhund Sprengstoff),
-  - 5\. Dienstleistungen, Einsätze (Datum, Art und Ort des Dienstes, Truppe, Anzahl Diensttage, Unterschrift des Kommandanten oder des Detachementschefs oder der Detachementschefin),
-  - 6\. veterinärmedizinische Untersuchungen und Behandlungen während des Dienstes (Datum, Art, Gesundheitszustand, Diagnose, Therapie, Truppe, Stempel und Unterschrift des Tierarztes oder der Tierärztin),
-  - 7\. Prüfungen (Datum, Organisation, Kategorie, Rang, Qualifikation/A/B/C/Total, erfüllt/nicht erfüllt, Unterschrift des Prüfungsleiters oder der Prüfungsleiterin beziehungsweise des Prüfungsrichters oder der Prüfungsrichterin).
+  - 3\. Angaben zum Armeehund (Rufname, Name, Rasse, Wurfdatum, Geschlecht, Diensthundenummer, Transponder-Nummer),
+  - 4\. Ausbildung des Armeehundes (Rettungshund, Schutzhund, Spürhund),
+  - 5\. Dienstleistungen, Einsätze (Datum, Art und Ort des Dienstes, Truppe, Anzahl Diensttage, Unterschrift des Kommandanten oder des Detachmentschefs oder der Detachementschefin),
+  - 6\. Inspektionsart,
+  - 7\. Datum der Inspektion,
+  - 8\. Fehler und Mängel,
+  - 9\. Prüfungen (Datum, Organisation, Kategorie, Rang, Qualifikation/A/B/C/Total, erfüllt/nicht erfüllt, Unterschrift des Prüfungsleiters oder der Prüfungsleiterin beziehungsweise des Prüfungsrichters oder der Prüfungsrichterin).[^2-3]
 
-<sup>3</sup> Das Schatzungsprotokoll begleitet das Tier zusammen mit dem Equidenpass (Art. 15*c* der Tierseuchenverordnung vom 27. Juni 1995[^2-1]) oder dem Heimtierpass (Art. 9 der V vom 18. April 2007[^2-2] über die Einfuhr von Heimtieren). Es ist die Grundlage für die Schatzung sowie für deren Überprüfung.
+<sup>3</sup> Das Verbal begleitet das Tier zusammen mit dem Equidenpass (Art. 15*c* der Tierseuchenverordnung vom 27. Juni 1995[^2-4]) oder dem Heimtierpass (Art. 9 der V vom 18. April 2007[^2-5] über die Einfuhr von Heimtieren). Es ist die Grundlage für die Schatzung sowie für deren Überprüfung.
 
-[^2-1]: [SR 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
-[^2-2]: [SR 916.443.14](https://fedlex.data.admin.ch/eli/cc/2014/755)
+[^2-1]: Ausdruck gemäss Ziff. I der V des VBS vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 797](https://fedlex.data.admin.ch/eli/oc/2022/797)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+[^2-2]: Ausdruck gemäss Ziff. I der V des VBS vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 797](https://fedlex.data.admin.ch/eli/oc/2022/797)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+[^2-3]: Fassung gemäss Ziff. I der V des VBS vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 797](https://fedlex.data.admin.ch/eli/oc/2022/797)).
+[^2-4]: [SR 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^2-5]: [[AS 2007 2769](https://fedlex.data.admin.ch/eli/oc/2007/362); [2008 4191](https://fedlex.data.admin.ch/eli/oc/2008/595); [2012 2865](https://fedlex.data.admin.ch/eli/oc/2012/338); [2013 2141](https://fedlex.data.admin.ch/eli/oc/2013/454), [3111](https://fedlex.data.admin.ch/eli/oc/2013/601)Anhang Ziff. II 3; [2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)Anhang Ziff. 4, [4055](https://fedlex.data.admin.ch/eli/oc/2014/680)]. Siehe heute: die V vom 28. Nov. 2014 über die Ein-, Durch- und Ausfuhr von Heimtieren ([SR 916.443.14](https://fedlex.data.admin.ch/eli/cc/2014/755)).
 
 ## 2. Abschnitt: Kauf von Armeetieren
 
 #### Art. 3
 
-**Allgemeine Bestimmungen zum Kauf von Armeepferden**
+**Allgemeine Bestimmungen zum Kauf von Armeepferden**[^3-1]
 
-<sup>1</sup> Pferde und Maultiere können als Armeepferde gekauft werden, wenn sie ordnungsgemäss gegen Pferdeinfluenza und Tetanus geimpft sein.
+<sup>1</sup> Pferde und Maultiere können als Armeepferde gekauft werden, wenn sie gemäss den Vorgaben des Vet D A geimpft sind.
 
-<sup>2</sup> Hengste und Spitzhengste werden nicht gekauft.
+<sup>2</sup> Es können Stuten und Wallache gekauft werden.
 
-<sup>3</sup> Bei Wallachen muss die Kastration mindestens 6 Monate zurückliegen.
+<sup>3</sup> Bei männlichen Trainpferden und Maultieren muss die Kastration mindestens 6 Monate zurückliegen.
+
+<sup>4</sup> Kopper werden nicht gekauft.
+
+[^3-1]: Fassung gemäss Ziff. I der V des VBS vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 797](https://fedlex.data.admin.ch/eli/oc/2022/797)).
 
 #### Art. 4
 
-**Besondere Bestimmungen zum Kauf von Reitpferden**
+**Besondere Bestimmungen zum Kauf von Reitpferden**[^4-1]
 
-Als Reitpferde werden nur Wallache der Rasse Schweizer Warmblut gekauft. Sie müssen mindestens dreijährig und gesund sein, korrekte Gänge aufweisen, robust, vielseitig einsetzbar und charakterlich ausgeglichen sein.
+<sup>1</sup> Als Reitpferde werden nur Wallache und Stuten der Rasse Schweizer Warmblut gekauft. Sie müssen mindestens dreijährig und gesund sein, korrekte Gänge aufweisen, robust, vielseitig einsetzbar und charakterlich ausgeglichen sein.
+
+<sup>2</sup> In Ausnahmefällen können Hengste gekauft werden. Die Kosten der Kastration gehen zu Lasten der Verkäuferinnen und Verkäufer.
+
+[^4-1]: Fassung gemäss Ziff. I der V des VBS vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 797](https://fedlex.data.admin.ch/eli/oc/2022/797)).
 
 #### Art. 5
 
@@ -106,12 +121,15 @@ Als Trainpferde werden Freibergerpferde und Maultiere gekauft, die sich vor alle
 - e. korrekte Gliedmassenstellung und gesunde Hufe;
 - f. uneingeschränkte Sehfähigkeit;
 - g. Stockmass für Freibergerpferde zwischen 151 und 158 cm; bei jungen Wallachen, die noch nicht ausgewachsen erscheinen, höchstens 157 cm;
-- h. Stockmass für Maultiere von 147−158 cm;
-- i. Mindestalter 4 Jahre bei Wallachen und Maultierstuten, 5 Jahre bei Freibergerpferdestuten; Höchstalter in beiden Fällen 6–7 Jahre;
+- h.[^5-1] Stockmass für Maultiere 151–158 cm;
+- i.[^5-2] Mindestalter zum Zeitpunkt der Garantieinspektion bei Freibergerpferden 4 Jahre, bei Maultieren 5 Jahre; Höchstalter in beiden Fällen 7 Jahre;
 - j. Abstammung für Freibergerpferde väterlicher- und mütterlicherseits von einem vom Freibergerzuchtverband gekörten Hengst;
 - k. Abstammung für Maultiere mütterlicherseits von einer Freibergerstute, väterlicherseits von einem vom Bund anerkannten Eselhengst.
 
 <sup>2</sup> Im Train eingeteilte Unteroffiziere, Soldaten und Rekruten können ein eigenes Pferd oder Maultier zum Kauf anbieten.
+
+[^5-1]: Fassung gemäss Ziff. I der V des VBS vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 797](https://fedlex.data.admin.ch/eli/oc/2022/797)).
+[^5-2]: Fassung gemäss Ziff. I der V des VBS vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 797](https://fedlex.data.admin.ch/eli/oc/2022/797)).
 
 #### Art. 6
 
@@ -127,13 +145,13 @@ Hunde können als Armeehunde gekauft werden, wenn sie:
 
 #### Art. 7
 
-Die LBA kann in begründeten Fällen Ausnahmen von den in den Artikeln 3–6 vorgesehenen Voraussetzungen machen, wenn der Kauf des Tieres für die Armee von Nutzen erscheint.
+Der Vet D A kann in begründeten Fällen Ausnahmen von den in den Artikeln 3–6 vorgesehenen Voraussetzungen machen, wenn der Kauf des Tieres für die Armee von Nutzen erscheint.
 
 #### Art. 8
 
 **Vertragsschluss**
 
-Die LBA schliesst über jeden Kauf einen schriftlichen Vertrag.
+Der Vet D A schliesst über jeden Kauf einen schriftlichen Vertrag.
 
 ## 3. Abschnitt: Miete von Armeepferden
 
@@ -151,16 +169,16 @@ Pferde können als Armeepferde gemietet werden, wenn sie:
   ein Stockmass haben von:
 
   - 1\. mindestens 160 cm bei Reitpferden,
-  - 2\. 148–160 cm bei Freibergerpferden,
-  - 3\. 145–160 cm bei Maultieren;
+  - 2\.[^9-1] 151–160 cm bei Freibergerpferden und Maultieren,
+  - 3\.[^9-2] …
 
-- c. mit zwei Grundimpfungen im Abstand von 21–92 Tagen sowie jeweils einer Wiederholungsimpfung innert 365 Tagen gegen Pferdeinfluenza und Tetanus geimpft sind;
+- c.[^9-3] gemäss den Vorgaben des Vet D A geimpft sind;
 - d. an den Vorderhufen mit der korrekten Huf-Nummer markiert sind;
 - e. mit guten, der Jahreszeit entsprechenden Beschlägen zur Schatzung gestellt werden.
 
 <sup>2</sup> Anlässlich der Miete wird eine Pferdelieferungsliste erstellt. Diese dient als Grundlage für die Berechnung der Entschädigung anhand der geleisteten Diensttage des Armeetieres.
 
-<sup>3</sup> Die Beschläge müssen vier ausgedornte Stollenlöcher aufweisen. Mangelhafte Beschläge werden bei der Schatzung im Schatzungsprotokoll und in der Pferdelieferungsliste vermerkt. Sie sind auf Kosten der Vermietenden durch die Truppenhufschmiede instand zu stellen.
+<sup>3</sup> Die Beschläge müssen vier ausgedornte Stollenlöcher aufweisen. Mangelhafte Beschläge werden bei der Schatzung im Verbal und in der Pferdelieferungsliste vermerkt. Sie sind auf Kosten der Vermietenden durch die Truppenhufschmiede instand zu stellen.
 
 <sup>4</sup>
 
@@ -172,7 +190,12 @@ Vom Militärdienst ausgeschlossen sind:
 - d. Pferde mit ansteckenden Krankheiten;
 - e. Pferde, die wegen chronischen Krankheiten, Fehlern oder Mängeln für einen anstrengenden Dienst untauglich sind;
 - f. ausser Dienst gestellte Pferde;
-- g. koppende Pferde.
+- g.[^9-4] …
+
+[^9-1]: Fassung gemäss Ziff. I der V des VBS vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 797](https://fedlex.data.admin.ch/eli/oc/2022/797)).
+[^9-2]: Aufgehoben durch Ziff. I der V des VBS vom 23. Nov. 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 797](https://fedlex.data.admin.ch/eli/oc/2022/797)).
+[^9-3]: Fassung gemäss Ziff. I der V des VBS vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 797](https://fedlex.data.admin.ch/eli/oc/2022/797)).
+[^9-4]: Aufgehoben durch Ziff. I der V des VBS vom 23. Nov. 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 797](https://fedlex.data.admin.ch/eli/oc/2022/797)).
 
 #### Art. 10
 
@@ -182,7 +205,9 @@ Vom Militärdienst ausgeschlossen sind:
 
 <sup>2</sup> Die Schatzung der Pferde wird von einem Veterinärarztoffizier vorgenommen.
 
-<sup>3</sup> Die LBA organisiert den Transport der Pferde zu und von den Schatzungen. Sie trägt die Transportkosten.
+<sup>3</sup> Der Vet D A organisiert den Transport der Pferde zu und von den Schatzungen. Die Logistikbasis der Armee trägt die Transportkosten.[^10-1]
+
+[^10-1]: Fassung gemäss Ziff. I der V des VBS vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 797](https://fedlex.data.admin.ch/eli/oc/2022/797)).
 
 #### Art. 11
 
@@ -216,7 +241,7 @@ Die Höchstschatzungen betragen:
 
 <sup>1</sup> Die Angehörigen der Armee können ihr Pferd während der Übernahme sofort zurückziehen, wenn sie mit der Schatzungssumme oder der Eintragung von Mängeln nicht einverstanden sind.
 
-<sup>2</sup> Nach der Übernahme dürfen sie ihr Pferd während eines Dienstes nur mit Bewilligung der LBA zurückziehen.
+<sup>2</sup> Nach der Übernahme dürfen sie ihr Pferd während eines Dienstes nur mit Bewilligung des Vet D A zurückziehen.
 
 #### Art. 13
 
@@ -232,7 +257,7 @@ Die Höchstschatzungen betragen:
 
 <sup>1</sup> Der Kommandant lässt bei Dienstbeginn den Gesundheitszustand sämtlicher Pferde überprüfen. Er ordnet innert fünf Tagen nach der Übernahme eine Überprüfung des Bestandes durch den Veterinärarztoffizier an.
 
-<sup>2</sup> Stellt der Veterinärarztoffizier bei der Überprüfung vordienstliche Mängel und Krankheiten fest, die bei der Übernahme übersehen wurden, so trägt er sie im Schatzungsprotokoll nach und meldet sie der LBA.
+<sup>2</sup> Stellt der Veterinärarztoffizier bei der Überprüfung vordienstliche Mängel und Krankheiten fest, die bei der Übernahme übersehen wurden, so trägt er sie im Verbal nach und meldet sie dem Vet D A.
 
 <sup>3</sup>
 
@@ -241,17 +266,23 @@ Der Kommandant kann Pferde an die Angehörigen der Armee zurückweisen, wenn:
 - a. sich vordienstliche Mängel und Krankheiten zeigen, die eine Übernahme ausgeschlossen hätten;
 - b. vordienstliche Mängel und Krankheiten sich so verschlimmert haben, dass das Pferd dienstunfähig geworden ist.
 
+<sup>4</sup> Die Transportkosten gehen zu Lasten der Vermietende.[^14-1]
+
+[^14-1]: Eingefügt durch Ziff. I der V des VBS vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 797](https://fedlex.data.admin.ch/eli/oc/2022/797)).
+
 #### Art. 15
 
 **Rückgabe**
 
 <sup>1</sup> Die Pferde sind am Schluss eines Dienstes oder beim Austritt aus einer Pferdekuranstalt oder Tierklinik zu schätzen.
 
-<sup>2</sup> Sie sind mit diensttauglichen Beschlägen vorzuführen. Mangelhafte Beschläge sind im Schatzungsprotokoll und auf der Pferdelieferungsliste zu vermerken. Die LBA erstattet den Angehörigen der Armee die Kosten des Hufbeschlages zurück; sie richtet sich dabei nach der Preisempfehlung der Schweizerischen Metall-Union.
+<sup>2</sup> Sie sind mit diensttauglichen Beschlägen vorzuführen. Mangelhafte Beschläge sind im Verbal und auf der Pferdelieferungsliste zu vermerken. Der Vet D A erstattet den Angehörigen der Armee die Kosten des Hufbeschlages zurück; er richtet sich dabei nach der Preisempfehlung des Berufsverbandes der Hufschmiede.[^15-1]
 
-<sup>3</sup> Das Ergebnis der Schatzung ist im Schatzungsprotokoll einzutragen.
+<sup>3</sup> Das Ergebnis der Schatzung ist im Verbal einzutragen.
 
 <sup>4</sup> Angehörige der Armee, die ihr Pferd am Schluss des Dienstes nicht zur Schatzung vorführen, verlieren jeden Anspruch auf Entschädigungen.
+
+[^15-1]: Fassung gemäss Ziff. I der V des VBS vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 797](https://fedlex.data.admin.ch/eli/oc/2022/797)).
 
 #### Art. 16
 
@@ -275,27 +306,32 @@ Der Kommandant kann Pferde an die Angehörigen der Armee zurückweisen, wenn:
 
 #### Art. 18
 
-**Höhe des Mietgeldes**
+**Höhe des Mietgeldes**[^18-1]
 
-Für gemietete Armeetiere im Militärdienst wird ein Mietgeld nach Artikel 20 Absatz 1 oder 3 der Verordnung des VBS vom 12. Dezember 1995[^18-1] über die Verwaltung der Armee (VVA-VBS) ausgerichtet.
+Für gemietete Armeetiere im Militärdienst werden folgende Mietgelder ausgerichtet:
 
-[^18-1]: [SR 510.301.1](https://fedlex.data.admin.ch/eli/cc/1996/388_388_388)
+- a. 40 Franken je Pferd und Tag;
+- b. 8 Franken je Hund und Tag.
+
+[^18-1]: Fassung gemäss Ziff. I der V des VBS vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 797](https://fedlex.data.admin.ch/eli/oc/2022/797)).
 
 #### Art. 19
 
 **Mietgeldberechtigung**
 
-<sup>1</sup> Die Mietgeldberechtigung beginnt für die eingeschätzten Armeetiere mit dem Tag der Übernahme und endet mit dem Tag der Rückgabe. Es werden nur effektiv geleistete Diensttage entschädigt.
+<sup>1</sup> Die Mietgeldberechtigung beginnt für die Dienst leistenden Armeetiere mit der Übernahme und endet mit dem Tag der Rückgabe. Es werden nur effektiv geleistete Diensttage entschädigt.[^19-1]
 
 <sup>2</sup> Für bei der Übernahme zurückgewiesene Armeetiere wird kein Mietgeld ausgerichtet.
 
 <sup>3</sup> Die Mietgeldberechtigung bleibt während des Aufenthalts kranker oder verletzter Armeetiere in einer Pferdekuranstalt oder Tierklinik bestehen.
 
+[^19-1]: Fassung gemäss Ziff. I der V des VBS vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 797](https://fedlex.data.admin.ch/eli/oc/2022/797)).
+
 #### Art. 20
 
 **Zuständigkeit bei vermögensrechtlichen Ansprüchen**
 
-Vermögensrechtliche Ansprüche aus der Vermietung von Armeetieren sind an die LBA zu richten.
+Vermögensrechtliche Ansprüche aus der Vermietung von Armeetieren sind an den Vet D A zu richten.
 
 ## 6. Abschnitt: Untauglichkeit
 
@@ -306,8 +342,8 @@ Vermögensrechtliche Ansprüche aus der Vermietung von Armeetieren sind an die L
 Als Armeepferde für untauglich erklärt werden insbesondere:
 
 - a. bösartige und stätige Pferde;
-- b. Pferde mit chronischen Krankheiten, die unzweifelhaft schon vor der Schatzung bestanden haben;
-- c. koppende, blinde oder halbblinde Pferde.
+- b.[^21-1] Pferde mit chronischen Krankheiten;
+- c.[^21-2] blinde oder halbblinde Pferde.
 
 <sup>2</sup>
 
@@ -316,9 +352,13 @@ Als Armeehunde für untauglich erklärt werden insbesondere Hunde mit:
 - a. unerwünschter Schärfe;
 - b. fehlender innerer Sicherheit;
 - c. mangelnder Arbeitsbereitschaft;
-- d. chronischen Krankheiten, die unzweifelhaft schon vor der Schatzung bestanden haben.
+- d.[^21-3] chronischen Krankheiten.
 
-<sup>3</sup> Die LBA ist für die Untauglicherklärung zuständig.
+<sup>3</sup> Der Vet D A ist für die Untauglicherklärung zuständig.
+
+[^21-1]: Fassung gemäss Ziff. I der V des VBS vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 797](https://fedlex.data.admin.ch/eli/oc/2022/797)).
+[^21-2]: Fassung gemäss Ziff. I der V des VBS vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 797](https://fedlex.data.admin.ch/eli/oc/2022/797)).
+[^21-3]: Fassung gemäss Ziff. I der V des VBS vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 797](https://fedlex.data.admin.ch/eli/oc/2022/797)).
 
 ## 7. Abschnitt: Entschädigungen bei Krankheit, Verletzungen und Tod
 
@@ -331,17 +371,17 @@ Als Armeehunde für untauglich erklärt werden insbesondere Hunde mit:
 Wenn innerhalb von fünf Tagen nach der Rückgabe Krankheiten auftreten, haben die Angehörigen der Armee Anspruch auf Entschädigung der tierärztlichen Behandlung:
 
 - a. für innere Erkrankungen, bei denen Grund zur Annahme besteht, dass sie eine Folge des Dienstes sind;
-- b. für äussere Krankheiten und Beschädigungen, jedoch nur dann, wenn sie bei der Rückgabe festgestellt und im Schatzungsprotokoll vorgemerkt worden sind oder wenn der Nachweis erbracht wird, dass sie im Dienst entstanden sind.
+- b. für äussere Krankheiten und Beschädigungen, jedoch nur dann, wenn sie bei der Rückgabe festgestellt und im Verbal vorgemerkt worden sind oder wenn der Nachweis erbracht wird, dass sie im Dienst entstanden sind.
 
 <sup>2</sup> Für ansteckende Krankheiten beträgt die Frist neun Tage, sofern nachgewiesen wird, dass die Ansteckung im Dienst erfolgt ist.
 
-<sup>3</sup> Für Mängel und Krankheiten, insbesondere chronische Krankheiten, die nachweisbar schon vor der Übernahme bestanden haben, besteht keine Haftung des Bundes, gleichgültig, ob sie im Schatzungsprotokoll vorgemerkt wurden oder nicht.
+<sup>3</sup> Für Mängel und Krankheiten, insbesondere chronische Krankheiten, die nachweisbar schon vor der Übernahme bestanden haben, besteht keine Haftung des Bundes, gleichgültig, ob sie im Verbal vorgemerkt wurden oder nicht.
 
 #### Art. 23
 
 **Behandlung kranker oder verletzter Armeetiere nach der Rückgabe**
 
-Die Angehörigen der Armee müssen zurückgegebene kranke oder verletzte Armeetiere, für die sie eine Entschädigung beanspruchen, unverzüglich tierärztlich behandeln lassen und gut pflegen. Sie müssen dafür sorgen, dass die LBA durch tierärztliche Krankenberichte regelmässig über den Zustand und die Behandlung der Armeetiere orientiert wird.
+Die Angehörigen der Armee müssen zurückgegebene kranke oder verletzte Armeetiere, für die sie eine Entschädigung beanspruchen, unverzüglich tierärztlich behandeln lassen und gut pflegen. Sie müssen dafür sorgen, dass der Vet D A durch tierärztliche Krankenberichte regelmässig über den Zustand und die Behandlung der Armeetiere orientiert wird.
 
 #### Art. 24
 
@@ -349,7 +389,7 @@ Die Angehörigen der Armee müssen zurückgegebene kranke oder verletzte Armeeti
 
 <sup>1</sup> Entschädigungsansprüche sind innert acht Tagen, bei ansteckenden Krankheiten innert zwölf Tagen, nach dem Tag der Rückgabe anzumelden.
 
-<sup>2</sup> Die Anmeldung ist unter Beilage des Schatzungsprotokolls und eines Krankenberichts der behandelnden Tierärztin oder des behandelnden Tierarztes der LBA einzureichen. Im Bericht ist zu bestätigen, dass die Krankheit innerhalb der Fristen nach Artikel 22 aufgetreten ist.
+<sup>2</sup> Die Anmeldung ist unter Beilage des Verbals und eines Krankenberichts der behandelnden Tierärztin oder des behandelnden Tierarztes des Vet D A einzureichen. Im Bericht ist zu bestätigen, dass die Krankheit innerhalb der Fristen nach Artikel 22 aufgetreten ist.
 
 <sup>3</sup> Wird das Entschädigungsbegehren verspätet eingereicht, so beginnt der Entschädigungsanspruch am Tag zu laufen, an dem das Begehren der Post übergeben wurde.
 
@@ -362,27 +402,27 @@ Der Anspruch auf Entschädigung erlischt, wenn:
 - a. eine Behandlung ungebührlich vernachlässigt oder verzögert wird;
 - b. der tierärztliche Bericht mangelhaft ist oder fehlt;
 - c. das Armeetier verkauft oder ausser des Landes verbracht wird;
-- d. das Armeetier nach dem Tod beseitigt wird, ohne dass der LBA Gelegenheit gegeben wurde, eine Sektion anordnen zu lassen.
+- d. das Armeetier nach dem Tod beseitigt wird, ohne dass dem Vet D A Gelegenheit gegeben wurde, eine Sektion anordnen zu lassen.
 
 #### Art. 26
 
-**Entschädigung bei Arbeitsunfähigkeit des Armeetieres**
+**Entschädigung bei Arbeitsunfähigkeit des Armeepferdes**[^26-1]
 
-<sup>1</sup> Bei totaler Arbeitsunfähigkeit eines Armeetieres nach der Rückgabe werden den Angehörigen der Armee während der Dauer der Behandlung des Tieres ein Mietgeld nach Artikel 20 Absatz 1 oder 3 und eine Entschädigung nach Artikel 20 Absatz 2 oder 4 VVA-VBS[^26-1] ausgerichtet.
+<sup>1</sup> Bei totaler Arbeitsunfähigkeit eines Armeepferdes nach der Rückgabe wird den Angehörigen der Armee während der Dauer der Behandlung des Tieres ein Mietgeld nach Artikel 18 ausgerichtet.
 
-<sup>2</sup> Bei teilweiser Arbeitsunfähigkeit werden das Mietgeld und die Entschädigung verhältnismässig herabgesetzt.
+<sup>2</sup> Bei teilweiser Arbeitsunfähigkeit wird das Mietgeld verhältnismässig herabgesetzt.
 
-[^26-1]: [SR 510.301.1](https://fedlex.data.admin.ch/eli/cc/1996/388_388_388)
+[^26-1]: Fassung gemäss Ziff. I der V des VBS vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 797](https://fedlex.data.admin.ch/eli/oc/2022/797)).
 
 #### Art. 27
 
-**Massnahmen der LBA bei Entschädigungsansprüchen**
+**Massnahmen des Vet D A bei Entschädigungsansprüchen**
 
 <sup>1</sup>
 
-Die LBA kann kranke oder verletzte Armeetiere, für die ein Mietgeld oder eine Entschädigung beansprucht wird:
+Der Vet D A kann kranke oder verletzte Armeetiere, für die ein Mietgeld oder eine Entschädigung beansprucht wird:
 
-- a. auf ihre Kosten tierärztlich untersuchen lassen;
+- a. auf seine Kosten tierärztlich untersuchen lassen;
 - b. in eine Pferdekuranstalt oder Tierklinik einweisen lassen;
 - c. zur Schatzungssumme übernehmen, ausser Dienst stellen, versteigern oder, wenn das Leiden als unheilbar zu betrachten ist, töten lassen; vorbehalten bleiben die Artikel 22 Absatz 3 und 25.
 
@@ -400,7 +440,7 @@ Die LBA kann kranke oder verletzte Armeetiere, für die ein Mietgeld oder eine E
 
 **Abklärung von Todesfällen**
 
-Bei unklaren Todesfällen kann der Veterinärarztoffizier oder die LBA die notwendigen Abklärungen veranlassen.
+Bei unklaren Todesfällen kann der Veterinärarztoffizier oder der Vet D A die notwendigen Abklärungen veranlassen.
 
 ## 8. Abschnitt: Haltung während des Militärdienstes
 
@@ -426,11 +466,13 @@ Medikamente für Armeetiere sind in der Regel bei der Armeeapotheke zu bestellen
 
 #### Art. 33
 
-**Überweisungen**
+**Überweisungen**[^33-1]
 
-<sup>1</sup> Kranke oder verletzte Armeetiere, die nicht bei der Truppe behandelt oder nicht von den Angehörigen der Armee zurückgenommen werden können, sind in eine durch die LBA zu bezeichnende Pferdekuranstalt oder Tierklinik einzuweisen oder anderweitig angemessen betreuen zu lassen.
+<sup>1</sup> Kranke oder verletzte Armeetiere, die nicht bei der Truppe behandelt oder nicht von den Angehörigen der Armee zurückgenommen werden können, sind in eine durch das Kompetenzzentrum Veterinärdienst und Armeetiere (Komp Zen Vet D u A Tiere) zu bezeichnende Pferdekuranstalt oder Tierklinik einzuweisen oder anderweitig angemessen betreuen zu lassen.
 
-<sup>2</sup> Veranlasst die LBA die Überweisung, so übernimmt der Bund die Kosten für den Hin- und Rücktransport.
+<sup>2</sup> Veranlasst das Komp Zen Vet D u A Tiere die Überweisung, so übernimmt die Armee die Kosten für den Hin- und Rücktransport.
+
+[^33-1]: Fassung gemäss Ziff. I der V des VBS vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 797](https://fedlex.data.admin.ch/eli/oc/2022/797)).
 
 ## 9. Abschnitt: Einsatz der Armeetiere
 
@@ -446,11 +488,16 @@ Medikamente für Armeetiere sind in der Regel bei der Armeeapotheke zu bestellen
 
 **Reitpferde**
 
-<sup>1</sup> In den Armeetier-Rekrutenschulen wird den Train-, Veterinär- und Veterinärarztoffizieren ein Armeepferd zugeteilt.
+<sup>1</sup> In den Armeetier-Rekrutenschulen wird den Train-, Veterinär- und Veterinärarztoffizieren auf Gesuch hin ein Reitpferd der Armee zugeteilt.[^35-1]
 
 <sup>2</sup> Diese Offiziere können den Schulkommandanten um Bewilligung ersuchen, ihr eigenes Reitpferd zu stellen, sofern es diensttauglich ist.
 
 <sup>3</sup> In den übrigen Ausbildungsdiensten können diese Offiziere ihr Reitpferd selbst stellen. Auf Gesuch hin und sofern möglich wird ihnen ein Reitpferd zugeteilt.
+
+<sup>4</sup> Eigene Reitpferde müssen selber transportiert werden. Die Armee trägt die Kosten.[^35-2]
+
+[^35-1]: Fassung gemäss Ziff. I der V des VBS vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 797](https://fedlex.data.admin.ch/eli/oc/2022/797)).
+[^35-2]: Eingefügt durch Ziff. I der V des VBS vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 797](https://fedlex.data.admin.ch/eli/oc/2022/797)).
 
 ## 10. Abschnitt: Verkauf von Armeetieren
 
@@ -458,9 +505,9 @@ Medikamente für Armeetiere sind in der Regel bei der Armeeapotheke zu bestellen
 
 **Vertrag**
 
-<sup>1</sup> Die LBA ist zuständig für den Verkauf von Armeetieren.
+<sup>1</sup> Der Vet D A ist zuständig für den Verkauf von Armeetieren.
 
-<sup>2</sup> Sie schliesst über jeden Verkauf einen schriftlichen Vertrag. Darin regelt sie insbesondere die Haltepflicht, den Ausschluss der Gewährleistungspflicht, die Rückkaufsrechte und die Konventionalstrafen.
+<sup>2</sup> Er schliesst über jeden Verkauf einen schriftlichen Vertrag. Darin regelt er insbesondere die Haltepflicht, den Ausschluss der Gewährleistungspflicht, die Rückkaufsrechte und die Konventionalstrafen.
 
 <sup>3</sup> Gibt es für das gleiche Armeetier mehrere Interessierte, so entscheidet das Los.
 
@@ -468,23 +515,47 @@ Medikamente für Armeetiere sind in der Regel bei der Armeeapotheke zu bestellen
 
 **Verkauf von Reitpferden**
 
-<sup>1</sup> In den Trainkolonnen oder in der Veterinärkompanie eingeteilte Train-, Veterinär- und Veterinärarztoffiziere können von der LBA ein Reitpferd kaufen, wenn sie noch mindestens 60 Diensttage leisten müssen.
+<sup>1</sup>
 
-<sup>2</sup> Wer ein Reitpferd kaufen will, muss nachweisen, dass er es tiergerecht halten kann. Die LBA kann die Haltebedingungen vor dem Verkauf und während der Dauer der Haltepflicht kontrollieren.
+Train-, Veterinär- und Veterinärarztoffiziere können vom Vet D A ein Reitpferd kaufen, wenn sie folgende Bedingungen erfüllen:
+
+- a. Sie haben noch mindestens 60 Diensttage zu leisten.
+- b. Sie sind in einer Trainkolonne, in der Veterinärkompanie oder im Stab der Veterinär- und Armeetiereabteilung 13 (Vet u A Tiere Abt 13) eingeteilt.[^37-1]
+
+<sup>2</sup> Wer ein Reitpferd kaufen will, muss nachweisen, dass er es tiergerecht halten kann. Der Vet D A kann die Haltebedingungen vor dem Verkauf und während der Dauer der Haltepflicht kontrollieren.
+
+[^37-1]: Fassung gemäss Ziff. I der V des VBS vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 797](https://fedlex.data.admin.ch/eli/oc/2022/797)).
 
 #### Art. 38
 
 **Verkauf von Trainpferden und Maultieren**
 
-<sup>1</sup> Unteroffiziere, Soldaten und Rekruten des Trains können von der LBA ein Trainpferd oder Maultier kaufen, wenn sie noch mindestens zwei ganze Fortbildungsdienste der Truppe leisten müssen.
+<sup>1</sup> Unteroffiziere, Soldaten und Rekruten des Trains können vom Vet D A ein Trainpferd oder Maultier kaufen, wenn sie noch mindestens zwei ganze Fortbildungsdienste der Truppe leisten müssen.
 
-<sup>2</sup> Wer ein Trainpferd oder ein Maultier kaufen will, muss nachweisen, dass er es tiergerecht halten kann. Die LBA kann die Haltebedingungen vor dem Verkauf und während der Dauer der Haltepflicht kontrollieren.
+<sup>2</sup> Wer ein Trainpferd oder ein Maultier kaufen will, muss nachweisen, dass er es tiergerecht halten kann. Der Vet D A kann die Haltebedingungen vor dem Verkauf und während der Dauer der Haltepflicht kontrollieren.
 
 #### Art. 39
 
-**Verkauf von Armeehunden**
+**Verkauf von Armeehunden**[^39-1]
 
-Hundeführer und -führerinnen können von der LBA einen Armeehund kaufen, wenn sie in einem diensthundeführenden Kommando eingeteilt sind und noch mindestens zwei ganze Fortbildungsdienste der Truppe leisten müssen. Sie müssen nachweisen, dass sie den Hund tiergerecht halten können. Die LBA kann die Haltebedingungen vor dem Verkauf und während der Dauer der Haltepflicht kontrollieren.
+<sup>1</sup>
+
+Hundeführer und -führerinnen können vom Vet D A einen Armeehund kaufen, wenn sie folgende Bedingungen erfüllen:
+
+- a. Sie haben noch mindestens vier ganze Fortbildungsdienste der Truppe zu leisten;
+- b. Sie sind in der Hundeführerkompanie eingeteilt.
+
+<sup>2</sup> Wer einen Armeehund kaufen will, muss nachweisen, dass er ihn tiergerecht halten kann. Der Vet D A kann die Haltebedingungen vor dem Verkauf und während der Dauer der Haltepflicht kontrollieren.
+
+[^39-1]: Fassung gemäss Ziff. I der V des VBS vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 797](https://fedlex.data.admin.ch/eli/oc/2022/797)).
+
+#### Art. 39a
+
+**Rückkaufsrecht**[^39a-1]
+
+Falls die vertraglichen Bedingungen nicht erfüllt werden, kann das Armeetier jederzeit zurückgekauft werden.
+
+[^39a-1]: Eingefügt durch Ziff. I der V des VBS vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 797](https://fedlex.data.admin.ch/eli/oc/2022/797)).
 
 ## 11. Abschnitt: Rechte und Pflichten der Angehörigen der Armee während der Dauer der Haltung des Armeetieres
 
@@ -502,15 +573,18 @@ Hundeführer und -führerinnen können von der LBA einen Armeehund kaufen, wenn 
 
 <sup>1</sup> Die Armeetiere sind einem regelmässigen Training zu unterziehen.
 
-<sup>2</sup> Das Absolvieren von ausserdienstlichen Trainings und Prüfungen nach Vorgabe des vorgesetzten Kommandos ist Voraussetzung für den Anspruch auf die Entschädigung nach Artikel 22 VVA-VBS[^41-1].
+<sup>2</sup> Das Absolvieren von ausserdienstlichen Trainings und Prüfungen nach Vorgabe des vorgesetzten Kommandos ist Voraussetzung für den Anspruch auf die Entschädigung für Armeehundehalter von maximal 600 Franken pro Jahr.[^41-1]
 
-[^41-1]: [SR 510.301.1](https://fedlex.data.admin.ch/eli/cc/1996/388_388_388)
+<sup>3</sup> Für Pferde, die in einer vertraglich vereinbarten Anzahl jederzeit für Schulen und Kurse der Armee bereitgehalten und bei Bedarf zur Verfügung gestellt werden, wird ein Bereitstellungsbeitrag von 7 Franken je Pferd und Tag ausgerichtet.[^41-2]
+
+[^41-1]: Fassung gemäss Ziff. I der V des VBS vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 797](https://fedlex.data.admin.ch/eli/oc/2022/797)).
+[^41-2]: Eingefügt durch Ziff. I der V des VBS vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 797](https://fedlex.data.admin.ch/eli/oc/2022/797)).
 
 #### Art. 42
 
 **Zucht**
 
-Armeetiere dürfen während der Dauer der Haltepflicht nur mit Bewilligung der LBA zur Zucht verwendet werden.
+Armeetiere dürfen während der Dauer der Haltepflicht nur mit Bewilligung des Vet D A zur Zucht verwendet werden.
 
 #### Art. 43
 
@@ -521,14 +595,18 @@ Armeetiere dürfen während der Dauer der Haltepflicht nur mit Bewilligung der L
 Die vertragliche Haltepflicht erlischt, wenn der oder die Angehörige der Armee:
 
 - a. dienstuntauglich erklärt worden ist;
-- b. nicht mehr in einer Trainkolonne oder in der Veterinärkompanie eingeteilt ist;
-- c. nicht mehr in einem diensthundeführenden Kommando eingeteilt ist;
-- d. zum Offizier befördert worden ist;
+- b.[^43-1] nicht mehr in der Trainkolonne, in der Veterinärkompanie oder im Stab der Vet u A Tiere Abt 13 eingeteilt ist;
+- c.[^43-2] nicht mehr in der Hundeführerkompanie eingeteilt ist;
+- d.[^43-3] ein Trainpferd oder Maultier gekauft hat und zum höheren Unteroffizier oder Offizier befördert worden ist;
 - e. ins Ausland beurlaubt ist;
 - f. aus persönlichen Gründen das Tier nicht mehr halten kann;
 - g. das Tier nicht mehr tiergerecht halten kann.
 
 <sup>2</sup> Für die Fälle von Absatz 1 Buchstaben e–g ist eine vertragliche Kostenbeteiligung der Angehörigen der Armee am Armeetier oder ein Rückkaufsrecht der Armee zu vereinbaren.
+
+[^43-1]: Fassung gemäss Ziff. I der V des VBS vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 797](https://fedlex.data.admin.ch/eli/oc/2022/797)).
+[^43-2]: Fassung gemäss Ziff. I der V des VBS vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 797](https://fedlex.data.admin.ch/eli/oc/2022/797)).
+[^43-3]: Fassung gemäss Ziff. I der V des VBS vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 797](https://fedlex.data.admin.ch/eli/oc/2022/797)).
 
 #### Art. 44
 
@@ -536,7 +614,7 @@ Die vertragliche Haltepflicht erlischt, wenn der oder die Angehörige der Armee:
 
 <sup>1</sup>
 
-Angehörige der Armee müssen der LBA unverzüglich schriftlich melden:
+Angehörige der Armee müssen dem Vet D A unverzüglich schriftlich melden:
 
 - a. schwere Krankheiten oder Verletzungen des Armeetieres, die eine militärische Verwendung verunmöglichen;
 - b. den Tod des Armeetieres.
@@ -551,11 +629,11 @@ Angehörige der Armee müssen der LBA unverzüglich schriftlich melden:
 
 **Vollzug**
 
-<sup>1</sup> Die LBA vollzieht diese Verordnung.
+<sup>1</sup> Der Vet D A vollzieht diese Verordnung.
 
 <sup>2</sup>
 
-Sie kann die folgenden Aufgaben einer verwaltungsexternen Stelle übertragen:
+Er kann die folgenden Aufgaben einer verwaltungsexternen Stelle übertragen:
 
 - a. Kauf und Ausbildung der Reitpferde;
 - b. Angewöhnungstraining für Trainpferde und Maultiere;

@@ -3,18 +3,18 @@ sr: "514.421"
 title: "Ordonnance du DDPS du 27 mars 2014 concernant les animaux de l'armée"
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/171"
 language: fr
-version: 2014-04-14
+version: 2023-01-01
 adopted: 2014-03-27
 in_force: 2014-04-14
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/171/20140414/fr/xml/fedlex-data-admin-ch-eli-cc-2014-171-20140414-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/171/20140414/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/171/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2014-171-20230101-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/171/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du DDPS concernant les animaux de l’armée
 
-du 27 mars 2014 (Etat le 14 avril 2014)
+du 27 mars 2014 (État le 1<sup>er</sup> janvier 2023)
 
 Le Département fédéral de la défense, de la protection de la population et des sports (DDPS),
 
@@ -28,31 +28,33 @@ arrête:
 
 #### Art. 1
 
-**Autorité compétente**
+**Autorité compétente**[^1-1]
 
-La Base logistique de l’armée (BLA) est compétente pour l’achat, la location et la vente des animaux de l’armée.
+Le Service vétérinaire de l’armée (S vét A) est compétent pour l’achat, la location et la vente des animaux de l’armée.
+
+[^1-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 797](https://fedlex.data.admin.ch/eli/oc/2022/797)).
 
 #### Art. 2
 
-**Procès-verbal d’estimation**
+**Certificat[^2-1]**
 
-<sup>1</sup> La BLA dresse un procès-verbal d’estimation pour chaque animal de l’armée.
+<sup>1</sup> Le S vét A[^2-2] dresse un certificat pour chaque animal de l’armée.
 
 <sup>2</sup>
 
-Elle y consigne les informations suivantes:
+Il y consigne les informations suivantes:
 
 - a.
 
   pour les chevaux de l’armée:
 
   - 1\. indications concernant le propriétaire,
-  - 2\. indications concernant le cheval (nom, sexe, année de naissance, taille au garrot; couleur, numéro du sabot, marquage au cou, numéro d’identification, numéro de la puce électronique, UELN [Universal Equine Life Number]),
-  - 3\. montant de l’estimation,
-  - 4\. type d’inspection,
-  - 5\. date de l’inspection,
-  - 6\. tares et défauts,
-  - 7\. ferrure,
+  - 2\. indications concernant le cheval (nom, sexe, année de naissance, taille au garrot; couleur, numéro du sabot, numéro d’identification, numéro du transpondeur, UELN [*Universal Equine Life Number*]),
+  - 3\. type d’inspection,
+  - 4\. date de l’inspection,
+  - 5\. tares et défauts,
+  - 6\. ferrure,
+  - 7\. montant de l’estimation,
   - 8\. état-major ou unité,
   - 9\. expert;
 
@@ -62,34 +64,47 @@ Elle y consigne les informations suivantes:
 
   - 1\. données personnelles et incorporation du conducteur de chien,
   - 2\. photo du chien,
-  - 3\. indications concernant le chien de l’armée (nom usuel, nom, race, date de la portée, sexe, numéro de chien de service, numéro de la puce électronique, propriétaire),
-  - 4\. dressage du chien de l’armée (chien de sauvetage, chien de protection, chien de recherche de stupéfiants, chien détecteur d’explosifs),
+  - 3\. indications concernant le chien de l’armée (nom usuel, nom, race, date de la portée, sexe, numéro de chien de service, numéro du transpondeur),
+  - 4\. dressage du chien de l’armée (chien de sauvetage, chien de protection, chien de détection),
   - 5\. services, engagements (date, genre et lieu du service, troupe, nombre de jours de service, signature du commandant ou du chef de détachement),
-  - 6\. examens et traitements vétérinaires pendant le service (date, type, état de santé, diagnostic, thérapie, troupe, timbre et signature du médecin vétérinaire),
-  - 7\. épreuves (date, organisation, catégorie, rang, qualifications/A/B/C/total, réussi/pas réussi, signature du responsable des épreuves ou du juge d’examen).
+  - 6\. type d’inspection,
+  - 7\. date de l’inspection,
+  - 8\. tares et défauts,
+  - 9\. épreuves (date, organisation, catégorie, rang, qualifications/A/B/C/total, réussi/pas réussi, signature du responsable des épreuves ou du juge d’examen).[^2-3]
 
-<sup>3</sup> Le procès-verbal d’estimation suit l’animal comme le passeport équin (art. 15*c* de l’O du 27 juin 1995 sur les épizooties[^2-1]) ou le passeport pour animal de compagnie (art. 9 de l’O du 18 avril 2007 concernant l’importation d’animaux de compagnie[^2-2]). Il sert de base à l’estimation et à la vérification de cette dernière.
+<sup>3</sup> Le certificat suit l’animal comme le passeport équin (art. 15*c* de l’O du 27 juin 1995 sur les épizooties[^2-4]) ou le passeport pour animal de compagnie (art. 9 de l’O du 18 avril 2007 concernant l’importation d’animaux de compagnie[^2-5]). Il sert de base à l’estimation et à la vérification de cette dernière.
 
-[^2-1]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
-[^2-2]: [RS 916.443.14](https://fedlex.data.admin.ch/eli/cc/2014/755)
+[^2-1]: Nouvelle expression selon le ch. I de l’O du DDPS du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 797](https://fedlex.data.admin.ch/eli/oc/2022/797)). Il a été tenu compte de cette mod. dans tout le texte.
+[^2-2]: Nouvelle expression selon le ch. I de l’O du DDPS du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 797](https://fedlex.data.admin.ch/eli/oc/2022/797)). Il a été tenu compte de cette mod. dans tout le texte.
+[^2-3]: Nouvelle teneur selon le ch. I de l’O du DDPS du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 797](https://fedlex.data.admin.ch/eli/oc/2022/797)).
+[^2-4]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^2-5]: [[RO 2007 2769](https://fedlex.data.admin.ch/eli/oc/2007/362); [2008 4191](https://fedlex.data.admin.ch/eli/oc/2008/595); [2012 2865](https://fedlex.data.admin.ch/eli/oc/2012/338); [2013 3111](https://fedlex.data.admin.ch/eli/oc/2013/601)annexe ch. II 3. [RO 2014 4521](https://fedlex.data.admin.ch/eli/oc/2014/755)annexe 6 ch. I]. Voir actuellement l’O du 28 nov. 2014 concernant l’importation, le transit et l’exportation d’animaux de compagnie ([RS 916.443.14](https://fedlex.data.admin.ch/eli/cc/2014/755)).
 
 ## Section 2 Achat d’animaux de l’armée
 
 #### Art. 3
 
-**Dispositions générales concernant l’achat de chevaux de l’armée**
+**Dispositions générales concernant l’achat de chevaux de l’armée**[^3-1]
 
-<sup>1</sup> Des chevaux et des mulets peuvent être achetés pour servir de chevaux de l’armée s’ils sont dûment vaccinés contre la grippe équine et le tétanos.
+<sup>1</sup> Des chevaux et des mulets peuvent être achetés pour servir de chevaux de l’armée s’ils sont vaccinés conformément aux directives du S vét A.
 
-<sup>2</sup> L’achat d’étalons ainsi que de chevaux monorchides ou cryptorchides est exclu.
+<sup>2</sup> Des juments et des hongres peuvent être achetés.
 
-<sup>3</sup> La castration doit remonter à plus de six mois pour les hongres.
+<sup>3</sup> La castration des chevaux du train et des mulets doit remonter à plus de 6 mois.
+
+<sup>4</sup> L’achat de chevaux tiqueurs est exclu.
+
+[^3-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 797](https://fedlex.data.admin.ch/eli/oc/2022/797)).
 
 #### Art. 4
 
-**Dispositions particulières concernant l’achat de chevaux de selle**
+**Dispositions particulières concernant l’achat de chevaux de selle**[^4-1]
 
-Seuls des hongres demi-sang suisses sont achetés pour servir de chevaux de selle. Ils doivent être âgés de trois ans au moins, jouir d’une bonne santé, avoir une démarche correcte, être robustes, pouvoir être engagés de manière polyvalente et démontrer un caractère équilibré.
+<sup>1</sup> Seuls des hongres et des juments demi-sang suisses sont achetés pour servir de chevaux de selle. Ils doivent être âgés de trois ans au moins, jouir d’une bonne santé, avoir une démarche correcte, être robustes, pouvoir être engagés de manière polyvalente et démontrer un caractère équilibré.
+
+<sup>2</sup> Exceptionnellement, des étalons peuvent être achetés. Les coûts de la castration sont à la charge du vendeur.
+
+[^4-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 797](https://fedlex.data.admin.ch/eli/oc/2022/797)).
 
 #### Art. 5
 
@@ -97,7 +112,7 @@ Seuls des hongres demi-sang suisses sont achetés pour servir de chevaux de sell
 
 <sup>1</sup>
 
-Des chevaux des Franches-Montagnes et des mulets peuvent être achetés pour servir de chevaux du train s’ils se prêtent surtout à transporter du bât. Ils doivent pouvoir être attelés seuls et être montés. En outre, il faut que les chevaux du train aient:
+Des chevaux des Franches-Montagnes et des mulets peuvent être achetés pour servir de chevaux du train s’ils se prêtent surtout au transport par bât. Ils doivent pouvoir être attelés seuls et être montés. En outre, il faut que les chevaux du train aient:[^5-1]
 
 - a. un caractère équilibré;
 - b. un bon garrot, un dos supportant les charges et une bonne croupe;
@@ -106,12 +121,16 @@ Des chevaux des Franches-Montagnes et des mulets peuvent être achetés pour ser
 - e. un aplomb correct et des sabots sains;
 - f. une bonne acuité visuelle;
 - g. une taille au garrot comprise entre 151 et 158 cm pour les chevaux des Franches-Montagnes; une taille au garrot ne dépassant pas 157 cm pour les jeunes hongres qui ne semblent pas encore avoir terminé leur phase de croissance;
-- h. une taille au garrot comprise entre 147 et 158 cm pour les mulets;
-- i. un âge minimum de quatre ans pour les hongres et les juments mulassières, de cinq ans pour les juments des Franches-Montagnes; un âge de six à sept ans au plus dans les deux cas;
+- h.[^5-2] une taille au garrot comprise entre 151 et 158 cm pour les mulets;
+- i.[^5-3] au moment de l’inspection de fin de garantie, un âge minimum de quatre ans pour les chevaux des Franches-Montagnes et de cinq ans pour les mulets; un âge de sept ans au plus dans les deux cas;
 - j. pour les chevaux des Franches-Montagnes, une ascendance paternelle et maternelle remontant à un étalon sélectionné pour servir de reproducteur par la Fédération suisse du franches-montagnes;
 - k. pour les mulets, une ascendance maternelle remontant à une jument des Franches-Montagnes et une ascendance paternelle remontant à un âne mâle reproducteur certifié par la Confédération.
 
 <sup>2</sup> Les sous-officiers, soldats et recrues incorporées dans le train peuvent proposer l’achat de l’un de leurs chevaux ou mulets.
+
+[^5-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 797](https://fedlex.data.admin.ch/eli/oc/2022/797)).
+[^5-2]: Nouvelle teneur selon le ch. I de l’O du DDPS du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 797](https://fedlex.data.admin.ch/eli/oc/2022/797)).
+[^5-3]: Nouvelle teneur selon le ch. I de l’O du DDPS du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 797](https://fedlex.data.admin.ch/eli/oc/2022/797)).
 
 #### Art. 6
 
@@ -127,13 +146,13 @@ Des chiens peuvent être achetés pour servir de chiens de l’armée s’ils:
 
 #### Art. 7
 
-Lorsque l’achat d’un animal paraît répondre à un besoin dûment motivé de l’armée, la BLA peut prévoir de déroger aux conditions fixées aux art. 3 à 6.
+Lorsque l’achat d’un animal paraît répondre à un besoin dûment motivé de l’armée, le S vét A peut prévoir de déroger aux conditions fixées aux art. 3 à 6.
 
 #### Art. 8
 
 **Conclusion du contrat**
 
-La BLA conclut un contrat écrit pour tout achat.
+Le S vét A conclut un contrat écrit pour tout achat.
 
 ## Section 3 Location de chevaux de l’armée
 
@@ -151,16 +170,16 @@ Des chevaux peuvent être loués pour servir de chevaux de l’armée s’ils:
   mesurent:
 
   - 1\. au moins 160 cm au garrot pour les chevaux de selle,
-  - 2\. entre 148 et 160 cm pour les chevaux des Franches-Montagnes,
-  - 3\. entre 145 et 160 cm pour les mulets;
+  - 2\.[^9-1] entre 151 et 160 cm pour les chevaux des Franches-Montagnes et les mulets,
+  - 3\.[^9-2] …
 
-- c. ont reçu deux vaccinations de base à un intervalle compris entre 21 et 92 jours et des vaccins de rappel tous les 365 jours contre la grippe équine et le tétanos;
+- c.[^9-3] sont vaccinés conformément aux directives du S vét A;
 - d. sont marqués du bon numéro de sabot sur les deux sabots antérieurs;
 - e. sont présentés à l’estimation avec une ferrure en bon état, répondant aux exigences de la saison.
 
 <sup>2</sup> En cas de location, une liste de livraison est dressée. Celle-ci sert de base au calcul de l’indemnité en fonction des jours de service accomplis par l’animal de l’armée.
 
-<sup>3</sup> Les fers doivent être munis de quatre mortaises à crampons. Toute ferrure défectueuse est mentionnée dans le procès-verbal d’estimation et la liste de livraison. Elle devra être remise en état par le maréchal-ferrant de la troupe; les frais sont à la charge du loueur.
+<sup>3</sup> Les fers doivent être munis de quatre mortaises à crampons. Toute ferrure défectueuse est mentionnée dans le certificat et la liste de livraison. Elle devra être remise en état par le maréchal-ferrant de la troupe; les frais sont à la charge du loueur.
 
 <sup>4</sup>
 
@@ -172,7 +191,12 @@ Sont exclus du service militaire:
 - d. les chevaux atteints de maladies contagieuses;
 - e. les chevaux atteints d’affections chroniques, de tares ou de défauts qui les empêchent de supporter un service pénible;
 - f. les chevaux réformés;
-- g. les chevaux tiqueurs.
+- g.[^9-4] …
+
+[^9-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 797](https://fedlex.data.admin.ch/eli/oc/2022/797)).
+[^9-2]: Abrogé par le ch. I de l’O du DDPS du 23 nov. 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 797](https://fedlex.data.admin.ch/eli/oc/2022/797)).
+[^9-3]: Nouvelle teneur selon le ch. I de l’O du DDPS du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 797](https://fedlex.data.admin.ch/eli/oc/2022/797)).
+[^9-4]: Abrogée par le ch. I de l’O du DDPS du 23 nov. 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 797](https://fedlex.data.admin.ch/eli/oc/2022/797)).
 
 #### Art. 10
 
@@ -182,7 +206,9 @@ Sont exclus du service militaire:
 
 <sup>2</sup> Un officier médecin-vétérinaire procède à l’estimation des chevaux.
 
-<sup>3</sup> La BLA organise le transport pour l’aller et le retour des chevaux prenant part à une estimation. Elle supporte les coûts de transport.
+<sup>3</sup> Le S vét A organise le transport pour l’aller et le retour des chevaux prenant part à une estimation. Les frais de transport sont à la charge de la Base logistique de l’armée.[^10-1]
+
+[^10-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 797](https://fedlex.data.admin.ch/eli/oc/2022/797)).
 
 #### Art. 11
 
@@ -211,9 +237,9 @@ Les estimations atteignent au maximum les montants suivants:
 
 **Reprise**
 
-<sup>1</sup> Les militaires peuvent reprendre immédiatement leur cheval en cours de réception s’ils ne souscrivent pas au montant de l’estimation ou aux défauts inscrits au procès-verbal d’estimation.
+<sup>1</sup> Les militaires peuvent reprendre immédiatement leur cheval en cours de réception s’ils ne souscrivent pas au montant de l’estimation ou aux défauts inscrits au certificat.
 
-<sup>2</sup> Après la réception, ils doivent requérir l’autorisation de la BLA pour reprendre leur cheval pendant un service.
+<sup>2</sup> Après la réception, ils doivent requérir l’autorisation du S vét A pour reprendre leur cheval pendant un service.
 
 #### Art. 13
 
@@ -229,7 +255,7 @@ Les estimations atteignent au maximum les montants suivants:
 
 <sup>1</sup> Au début du service, le commandant fait examiner l’état de santé de tous les chevaux. Il donne à l’officier médecin-vétérinaire l’ordre de les examiner dans les cinq jours qui suivent la réception.
 
-<sup>2</sup> Si, lors de cet examen, des maladies et des défauts antérieurs mais non révélés par l’estimation sont constatés, l’officier médecin-vétérinaire inscrit ces maladies et défauts dans le procès-verbal d’estimation et en informe la BLA.
+<sup>2</sup> Si, lors de cet examen, des maladies et des défauts antérieurs mais non révélés par l’estimation sont constatés, l’officier médecin-vétérinaire inscrit ces maladies et défauts dans le certificat et en informe le S vét A.
 
 <sup>3</sup>
 
@@ -238,17 +264,23 @@ Le commandant peut renvoyer le cheval au militaire lorsque:
 - a. des maladies et des défauts antérieurs au service se manifestent et auraient rendu impossible la réception du cheval;
 - b. des maladies et des défauts antérieurs au service se sont aggravés au point que le cheval est devenu inapte au service.
 
+<sup>4</sup> Les frais de transport sont à la charge du loueur.[^14-1]
+
+[^14-1]: Introduit par le ch. I de l’O du DDPS du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 797](https://fedlex.data.admin.ch/eli/oc/2022/797)).
+
 #### Art. 15
 
 **Restitution**
 
 <sup>1</sup> Les chevaux sont estimés à la fin du service ou à la sortie d’une infirmerie ou d’une clinique vétérinaire.
 
-<sup>2</sup> Ils doivent être présentés à l’estimation avec une ferrure en état. Les fers défectueux sont mentionnés dans le procès-verbal d’estimation et dans la liste de livraison. Les frais de ferrure sont remboursés au militaire par la BLA au tarif préconisé par l’Union suisse du métal.
+<sup>2</sup> Ils doivent être présentés à l’estimation avec une ferrure en état. Les fers défectueux sont mentionnés dans le procès-verbal et dans la liste de livraison. Les frais de ferrure sont remboursés au militaire par le S vét A au tarif préconisé par l’association professionnelle des maréchaux-ferrants.[^15-1]
 
-<sup>3</sup> Les constations faites lors de l’estimation sont consignées au procès-verbal d’estimation.
+<sup>3</sup> Les constations faites lors de l’estimation sont consignées au certificat.
 
 <sup>4</sup> Le militaire qui, à la fin du service, ne présente pas son cheval à l’estimation perd tout droit à indemnisation.
+
+[^15-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 797](https://fedlex.data.admin.ch/eli/oc/2022/797)).
 
 #### Art. 16
 
@@ -272,27 +304,32 @@ Le commandant peut renvoyer le cheval au militaire lorsque:
 
 #### Art. 18
 
-**Montant de l’indemnité de louage**
+**Montant de l’indemnité de louage**[^18-1]
 
-Pour la location d’animaux de l’armée, une indemnité de louage est versée conformément à l’art. 20, al. 1 ou 3, de l’ordonnance du DDPS du 12 décembre 1995 sur l’administration de l’armée (OAA-DDPS)[^18-1].
+Pour la location d’animaux de l’armée, les indemnités de louage suivantes sont versées:
 
-[^18-1]: [RS 510.301.1](https://fedlex.data.admin.ch/eli/cc/1996/388_388_388)
+- a. 40 francs par cheval et par jour;
+- b. 8 francs par chien et par jour.
+
+[^18-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 797](https://fedlex.data.admin.ch/eli/oc/2022/797)).
 
 #### Art. 19
 
 **Droit à l’indemnité de louage**
 
-<sup>1</sup> Le droit à l’indemnité de louage pour les animaux de l’armée présentés à l’estimation débute le jour de la réception et prend fin le jour de la restitution. Seuls les jours de service effectivement accomplis sont indemnisés.
+<sup>1</sup> Le droit à l’indemnité de louage pour les animaux de l’armée qui effectuent du service débute lors de la réception et prend fin le jour de la restitution. Seuls les jours de service effectivement accomplis sont indemnisés.[^19-1]
 
 <sup>2</sup> Aucune indemnité de louage n’est versée pour les animaux de l’armée renvoyés le jour de leur réception.
 
 <sup>3</sup> Le droit à l’indemnité de louage est maintenu pendant le séjour en infirmerie ou en clinique vétérinaire d’un animal de l’armée malade ou blessé.
 
+[^19-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 797](https://fedlex.data.admin.ch/eli/oc/2022/797)).
+
 #### Art. 20
 
 **Compétence en matière de prétentions pécuniaires**
 
-La BLA est compétente pour connaître des prétentions pécuniaires découlant de la location d’animaux de l’armée.
+Le S vét A est compétente pour connaître des prétentions pécuniaires découlant de la location d’animaux de l’armée.
 
 ## Section 6 Inaptitude
 
@@ -303,8 +340,8 @@ La BLA est compétente pour connaître des prétentions pécuniaires découlant 
 Sont notamment déclarés inaptes au service:
 
 - a. les chevaux vicieux et rétifs;
-- b. les chevaux atteints d’affections chroniques manifestement antérieures à l’estimation;
-- c. les chevaux tiqueurs, aveugles ou borgnes.
+- b.[^21-1] les chevaux atteints d’affections chroniques;
+- c.[^21-2] les chevaux aveugles ou borgnes.
 
 <sup>2</sup>
 
@@ -313,9 +350,13 @@ Sont notamment déclarés inaptes au service:
 - a. les chiens trop agressifs;
 - b. les chiens émotionnellement instables;
 - c. les chiens insuffisamment disposés à travailler;
-- d. les chiens atteints d’affections chroniques manifestement antérieures à l’estimation.
+- d.[^21-3] les chiens atteints d’affections chroniques.
 
-<sup>3</sup> La déclaration d’inaptitude relève de la compétence de la BLA.
+<sup>3</sup> La déclaration d’inaptitude relève de la compétence du S vét A.
+
+[^21-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 797](https://fedlex.data.admin.ch/eli/oc/2022/797)).
+[^21-2]: Nouvelle teneur selon le ch. I de l’O du DDPS du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 797](https://fedlex.data.admin.ch/eli/oc/2022/797)).
+[^21-3]: Nouvelle teneur selon le ch. I de l’O du DDPS du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 797](https://fedlex.data.admin.ch/eli/oc/2022/797)).
 
 ## Section 7 Indemnités en cas de maladie, de blessure ou de mort
 
@@ -328,17 +369,17 @@ Sont notamment déclarés inaptes au service:
 Lorsqu’elles surviennent dans un délai de cinq jours suivant la restitution, les militaires peuvent prétendre à l’indemnisation des traitements vétérinaires pour:
 
 - a. les maladies internes donnant à penser qu’elles seraient imputables au service;
-- b. les maladies ou lésions externes, si elles ont été constatées et mentionnées dans le procès-verbal d’estimation lors de la restitution ou s’il est prouvé qu’elles sont survenues au service.
+- b. les maladies ou lésions externes, si elles ont été constatées et mentionnées dans le certificat lors de la restitution ou s’il est prouvé qu’elles sont survenues au service.
 
 <sup>2</sup> Le délai est de neuf jours pour les maladies contagieuses, s’il est prouvé qu’elles ont été contractées pendant le service.
 
-<sup>3</sup> La Confédération ne répond pas des défauts et des maladies, en particulier chroniques, s’il est prouvé qu’ils étaient présents avant la réception, même s’ils n’ont pas été inscrits dans le procès-verbal d’estimation.
+<sup>3</sup> La Confédération ne répond pas des défauts et des maladies, en particulier chroniques, s’il est prouvé qu’ils étaient présents avant la réception, même s’ils n’ont pas été inscrits dans le certificat.
 
 #### Art. 23
 
 **Traitement après la restitution des animaux de l’armée malades ou blessés**
 
-Après la restitution, les militaires doivent soigner convenablement et faire traiter sans retard par un médecin-vétérinaire les animaux de l’armée malades ou blessés pour lesquels ils demandent une indemnité. Il leur incombe de faire parvenir régulièrement à la BLA les rapports du médecin-vétérinaire concernant l’état de santé et le traitement des animaux de l’armée.
+Après la restitution, les militaires doivent soigner convenablement et faire traiter sans retard par un médecin-vétérinaire les animaux de l’armée malades ou blessés pour lesquels ils demandent une indemnité. Il leur incombe de faire parvenir régulièrement au S vét A les rapports du médecin-vétérinaire concernant l’état de santé et le traitement des animaux de l’armée.
 
 #### Art. 24
 
@@ -346,7 +387,7 @@ Après la restitution, les militaires doivent soigner convenablement et faire tr
 
 <sup>1</sup> La demande d’indemnisation doit être faite dans les huit jours ou, en cas de maladies contagieuses, dans les douze jours suivant le jour de la restitution.
 
-<sup>2</sup> La demande doit être adressée à la BLA, accompagnée du procès-verbal d’estimation et d’un bulletin de santé rédigé par le médecin-vétérinaire traitant. Ce rapport doit confirmer que la maladie s’est déclarée dans les délais visés à l’art. 22.
+<sup>2</sup> La demande doit être adressée au S vét A, accompagnée du certificat et d’un bulletin de santé rédigé par le médecin-vétérinaire traitant. Ce rapport doit confirmer que la maladie s’est déclarée dans les délais visés à l’art. 22.
 
 <sup>3</sup> Lorsque la demande est envoyée avec retard, le droit à être indemnisé court à partir du jour auquel le pli contenant la demande a été remis à la poste.
 
@@ -359,27 +400,27 @@ Le droit à être indemnisé s’éteint lorsque:
 - a. le traitement est indûment négligé ou retardé;
 - b. le rapport vétérinaire est incomplet ou fait défaut;
 - c. l’animal de l’armée est vendu ou emmené hors du pays;
-- d. le cadavre de l’animal de l’armée est éliminé sans que la BLA ait eu la possibilité d’ordonner une autopsie.
+- d. le cadavre de l’animal de l’armée est éliminé sans que le S vét A ait eu la possibilité d’ordonner une autopsie.
 
 #### Art. 26
 
-**Indemnités versées en cas d’incapacité de travail de l’animal de l’armée**
+**Indemnité en cas d’incapacité de travail d’un cheval de l’armée**[^26-1]
 
-<sup>1</sup> En cas d’incapacité totale de travail de l’animal de l’armée après la restitution, le militaire perçoit, pendant la durée du traitement, l’indemnité de louage visée à l’art. 20, al. 1 ou 3, et l’indemnité journalière en cas d’incapacité de travail visée à l’art. 20, al. 2 ou 4, OAA-DDPS[^26-1].
+<sup>1</sup> En cas d’incapacité totale de travail d’un cheval de l’armée après la restitution, le militaire perçoit, pendant la durée du traitement, l’indemnité de louage visée à l’art. 18.
 
-<sup>2</sup> Ces indemnités sont réduites en proportion en cas d’incapacité partielle de travail.
+<sup>2</sup> Cette indemnité est réduite en proportion en cas d’incapacité partielle de travail.
 
-[^26-1]: [RS 510.301.1](https://fedlex.data.admin.ch/eli/cc/1996/388_388_388)
+[^26-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 797](https://fedlex.data.admin.ch/eli/oc/2022/797)).
 
 #### Art. 27
 
-**Dispositions prises par la BLA en relation avec les demandes d’indemnité**
+**Dispositions prises par le S vét A en relation avec les demandes d’indemnité**
 
 <sup>1</sup>
 
-La BLA peut ordonner que les animaux de l’armée malades ou blessés, pour lesquels une indemnité de louage ou autre est réclamée:
+Le S vét A peut ordonner que les animaux de l’armée malades ou blessés, pour lesquels une indemnité de louage ou autre est réclamée:
 
-- a. soient examinés par un vétérinaire aux frais de la BLA;
+- a. soient examinés par un vétérinaire aux frais du S vét A;
 - b. soient acheminés vers une infirmerie ou une clinique vétérinaire;
 - c. soient repris contre le paiement du montant de l’estimation, reformés, vendus aux enchères ou abattus, si l’affection est considérée comme incurable. Sont réservés les art. 22, al. 3 et 25 ci-dessus.
 
@@ -397,7 +438,7 @@ La BLA peut ordonner que les animaux de l’armée malades ou blessés, pour les
 
 **Enquête en cas de mort d’un animal de l’armée**
 
-Lorsque les circonstances entourant la mort d’un animal de l’armée ne sont pas claires, l’officier médecin-vétérinaire ou la BLA peut ordonner les mesures nécessaires pour élucider les faits.
+Lorsque les circonstances entourant la mort d’un animal de l’armée ne sont pas claires, l’officier médecin-vétérinaire ou le S vét A peut ordonner les mesures nécessaires pour élucider les faits.
 
 ## Section 8 Détention pendant le service militaire
 
@@ -423,11 +464,13 @@ En général, les médicaments pour les animaux de l’armée sont fournis par l
 
 #### Art. 33
 
-**Transferts**
+**Transferts**[^33-1]
 
-<sup>1</sup> Les animaux de l’armée malades ou blessés dont le traitement auprès de la troupe ou la reprise par les militaires est impossible doivent être acheminés vers une infirmerie ou une clinique vétérinaire désignée par la BLA, voire être soignés de tout autre manière convenable.
+<sup>1</sup> Les animaux de l’armée malades ou blessés qui ne peuvent pas être traités par la troupe ou repris par les militaires sont acheminés vers une infirmerie ou une clinique vétérinaire désignée par le centre de compétences du service vétérinaire et des animaux de l’armée (cen comp S vét et animaux A) ou soignés de tout autre manière convenable.
 
-<sup>2</sup> Lorsque la BLA ordonne un tel transfert, la Confédération prend en charge les frais de transport pour l’aller et le retour.
+<sup>2</sup> Lorsque le cen comp S vét et animaux A ordonne un tel transfert, l’armée prend en charge les frais de transport pour l’aller et le retour.
+
+[^33-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 797](https://fedlex.data.admin.ch/eli/oc/2022/797)).
 
 ## Section 9 Engagement des animaux de l’armée
 
@@ -443,11 +486,16 @@ En général, les médicaments pour les animaux de l’armée sont fournis par l
 
 **Chevaux de selle**
 
-<sup>1</sup> Dans les écoles de recrues travaillant avec des animaux de l’armée, un cheval de selle est attribué aux officiers du train, aux officiers vétérinaires et aux officiers médecins-vétérinaires.
+<sup>1</sup> Dans les écoles de recrues travaillant avec des animaux de l’armée, un cheval de selle est attribué sur demande aux officiers du train, aux officiers vétérinaires et aux officiers médecins-vétérinaires.[^35-1]
 
 <sup>2</sup> Ces officiers peuvent demander au commandant d’école l’autorisation de présenter leur propre cheval de selle, à condition que ce dernier soit apte au service.
 
 <sup>3</sup> Dans les autres services d’instruction, ces officiers peuvent présenter spontanément leur propre cheval de selle. A leur demande et lorsque cela est possible, un cheval de selle leur est attribué.
+
+<sup>4</sup> Ces officiers transportent leurs propres chevaux de selle. Les frais sont à la charge de l’armée.[^35-2]
+
+[^35-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 797](https://fedlex.data.admin.ch/eli/oc/2022/797)).
+[^35-2]: Introduit par le ch. I de l’O du DDPS du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 797](https://fedlex.data.admin.ch/eli/oc/2022/797)).
 
 ## Section 10 Vente d’animaux de l’armée
 
@@ -455,7 +503,7 @@ En général, les médicaments pour les animaux de l’armée sont fournis par l
 
 **Contrat**
 
-<sup>1</sup> La BLA est compétente pour la vente d’animaux de l’armée.
+<sup>1</sup> Le S vét A est compétente pour la vente d’animaux de l’armée.
 
 <sup>2</sup> Elle conclut un contrat écrit pour chaque vente. Elle y règle notamment l’obligation de détention, l’exclusion de la garantie, le droit de réméré et les peines conventionnelles.
 
@@ -465,23 +513,47 @@ En général, les médicaments pour les animaux de l’armée sont fournis par l
 
 **Vente de chevaux de selle**
 
-<sup>1</sup> Les officiers du train, les officiers vétérinaires et les officiers médecins-vétérinaires incorporés dans les colonnes du train ou dans la compagnie vétérinaire peuvent acheter un cheval de selle auprès de la BLA s’ils doivent encore accomplir 60 jours de service au moins.
+<sup>1</sup>
 
-<sup>2</sup> Quiconque veut acquérir un cheval de selle doit apporter la preuve qu’il peut le détenir conformément aux règles régissant la détention d’un animal. La BLA peut contrôler les conditions de détention avant la vente et pendant la durée de l’obligation de détention.
+Les officiers du train, les officiers vétérinaires et les officiers médecins-vétérinaires peuvent acheter un cheval de selle auprès du S vét A s’ils remplissent les conditions suivantes:
+
+- a. ils doivent encore accomplir au moins 60 jours de service;
+- b. ils sont incorporés dans une colonne du train, dans la compagnie vétérinaire ou à l’état-major du groupe vétérinaire et animaux de l’armée (gr vét et animaux A 13).[^37-1]
+
+<sup>2</sup> Quiconque veut acquérir un cheval de selle doit apporter la preuve qu’il peut le détenir conformément aux règles régissant la détention d’un animal. Le S vét A peut contrôler les conditions de détention avant la vente et pendant la durée de l’obligation de détention.
+
+[^37-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 797](https://fedlex.data.admin.ch/eli/oc/2022/797)).
 
 #### Art. 38
 
 **Vente de chevaux du train et de mulets**
 
-<sup>1</sup> Les sous-officiers, les soldats et les recrues des troupes du train peuvent acheter un cheval du train ou un mulet auprès de la BLA s’ils doivent encore accomplir au moins deux services de perfectionnement de la troupe complets.
+<sup>1</sup> Les sous-officiers, les soldats et les recrues des troupes du train peuvent acheter un cheval du train ou un mulet auprès du S vét A s’ils doivent encore accomplir au moins deux services de perfectionnement de la troupe complets.
 
-<sup>2</sup> Quiconque veut acquérir un cheval du train ou un mulet doit apporter la preuve qu’il peut le détenir conformément aux règles régissant la détention d’un animal. La BLA peut contrôler les conditions de détention avant la vente et pendant la durée de l’obligation de détention.
+<sup>2</sup> Quiconque veut acquérir un cheval du train ou un mulet doit apporter la preuve qu’il peut le détenir conformément aux règles régissant la détention d’un animal. Le S vét A peut contrôler les conditions de détention avant la vente et pendant la durée de l’obligation de détention.
 
 #### Art. 39
 
-**Vente de chiens de l’armée**
+**Vente de chiens de l’armée**[^39-1]
 
-Les conducteurs de chien peuvent acheter un chien de l’armée auprès de la BLA s’ils sont incorporés dans un commandement travaillant avec des chiens de service et qu’ils doivent encore accomplir au moins deux services de perfectionnement de la troupe complets. Ils doivent en outre apporter la preuve qu’ils peuvent détenir leur chien conformément aux règles régissant la détention d’un animal. La BLA peut contrôler les conditions de détention avant la vente et pendant la durée de l’obligation de détention.
+<sup>1</sup>
+
+Les conducteurs de chien peuvent acheter un chien de l’armée auprès du S vét A s’ils remplissent les conditions suivantes:
+
+- a. ils doivent encore accomplir au moins quatre services de perfectionnement de la troupe complets;
+- b. ils sont incorporés dans la compagnie de conducteurs de chien.
+
+<sup>2</sup> Quiconque veut acquérir un chien de l’armée doit apporter la preuve qu’il peut le détenir conformément aux règles régissant la détention d’un animal. Le S vét A peut contrôler les conditions de détention avant la vente et pendant la durée de l’obligation de détention.
+
+[^39-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 797](https://fedlex.data.admin.ch/eli/oc/2022/797)).
+
+#### Art. 39a
+
+**Droit de réméré**[^39a-1]
+
+Si les conditions contractuelles ne sont pas remplies, l’animal de l’armée peut être racheté à tout moment.
+
+[^39a-1]: Introduit par le ch. I de l’O du DDPS du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 797](https://fedlex.data.admin.ch/eli/oc/2022/797)).
 
 ## Section 11 Droits et obligations des militaires pendant la durée de la détention de l’animal de l’armée
 
@@ -499,15 +571,18 @@ Les conducteurs de chien peuvent acheter un chien de l’armée auprès de la BL
 
 <sup>1</sup> Les animaux de l’armée doivent être soumis à un entraînement régulier.
 
-<sup>2</sup> L’accomplissement des entraînements hors du service et la participation à des épreuves selon les directives du commandement supérieur sont des conditions préalables pour pouvoir prétendre à l’indemnité visée à l’art. 22 OAA-DDPS[^41-1].
+<sup>2</sup> L’accomplissement des entraînements hors du service et la participation à des épreuves selon les directives du commandement supérieur sont des conditions préalables pour que les détenteurs de chien puissent prétendre à l’indemnité maximale de 600 francs par an.[^41-1]
 
-[^41-1]: [RS 510.301.1](https://fedlex.data.admin.ch/eli/cc/1996/388_388_388)
+<sup>3</sup> Un montant de 7 francs par cheval et par jour est versé pour les chevaux tenus prêts en tout temps pour des écoles et des cours de l’armée et mis à disposition selon les besoins; le nombre de chevaux est convenu par contrat.[^41-2]
+
+[^41-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 797](https://fedlex.data.admin.ch/eli/oc/2022/797)).
+[^41-2]: Introduit par le ch. I de l’O du DDPS du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 797](https://fedlex.data.admin.ch/eli/oc/2022/797)).
 
 #### Art. 42
 
-**Elevage**
+**Élevage**
 
-L’autorisation de la BLA est requise pour utiliser les animaux de l’armée à des fins reproductives pendant la durée de l’obligation de détention.
+L’autorisation du S vét A est requise pour utiliser les animaux de l’armée à des fins reproductives pendant la durée de l’obligation de détention.
 
 #### Art. 43
 
@@ -518,13 +593,18 @@ L’autorisation de la BLA est requise pour utiliser les animaux de l’armée �
 L’obligation de détention convenue s’éteint lorsque le militaire:
 
 - a. est déclaré inapte au service;
-- b. n’est plus incorporé dans une colonne du train ou dans la compagnie vétérinaire;
-- c. n’est plus incorporé dans un commandement travaillant avec des chiens de service;
-- d. est promu au grade d’officier;
+- b.[^43-1] n’est plus incorporé dans une colonne du train, dans la compagnie vétérinaire ou à l’état-major du gr vét et animaux A 13;
+- c.[^43-2] n’est plus incorporé dans la compagnie de conducteurs de chien;
+- d.[^43-3] a acheté un cheval du train ou un mulet et a été promu au grade d’officier ou de sous-officier supérieur;
 - e. est en congé à l’étranger;
 - f. ne peut plus détenir l’animal de l’armée pour des raisons personnelles;
 - g. ne peut plus détenir l’animal de l’armée conformément aux règles régissant la détention d’un animal.
-  - [tab] <sup>2</sup> Pour les cas visés à l’al. 1, let. e à g, il est conclu un contrat qui précise la participation du militaire aux frais liés à l’animal de l’armée ou le droit de réméré de l’armée.
+
+<sup>2</sup> Pour les cas visés à l’al. 1, let. e à g, il est conclu un contrat qui précise la participation du militaire aux frais liés à l’animal de l’armée ou le droit de réméré de l’armée.
+
+[^43-1]: Nouvelle teneur selon le ch. I de l’O du DDPS du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 797](https://fedlex.data.admin.ch/eli/oc/2022/797)).
+[^43-2]: Nouvelle teneur selon le ch. I de l’O du DDPS du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 797](https://fedlex.data.admin.ch/eli/oc/2022/797)).
+[^43-3]: Nouvelle teneur selon le ch. I de l’O du DDPS du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 797](https://fedlex.data.admin.ch/eli/oc/2022/797)).
 
 #### Art. 44
 
@@ -532,7 +612,7 @@ L’obligation de détention convenue s’éteint lorsque le militaire:
 
 <sup>1</sup>
 
-Les militaires doivent annoncer immédiatement par écrit à la BLA:
+Les militaires doivent annoncer immédiatement par écrit au S vét A:
 
 - a. toute grave maladie ou blessure qui rend impossible l’engagement militaire de l’animal de l’armée;
 - b. la mort de l’animal de l’armée.
@@ -547,7 +627,7 @@ Les militaires doivent annoncer immédiatement par écrit à la BLA:
 
 **Exécution**
 
-<sup>1</sup> La BLA est chargée de l’exécution.
+<sup>1</sup> Le S vét A est chargée de l’exécution.
 
 <sup>2</sup>
 
