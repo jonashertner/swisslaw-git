@@ -3,10 +3,10 @@ canton: ZH
 number: "414.253.315"
 title: Studienordnung für den Masterstudiengang in Life Sciences des Departements Life Sciences und Facility Management an der Zürcher Hochschule für Angewandte Wissenschaften
 language: de
-nachtrag: "100"
-valid_until: 2023-01-01
+version: "2023-01-01"
+nachtrag: "119"
 adopted: 2017-11-16
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_315-2017_11_16-2018_03_01-100.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_315-2017_11_16-2018_03_01-119.html"
 text: pdf
 ---
 
@@ -24,11 +24,11 @@ beschliesst:
 
 [^t-1]: OS 73, 81; Begründung siehe ABl 2017-12-22. Vom Fachhochschulrat genehmigt am 12. Dezember 2017.
 [^t-2]: Inkrafttreten: 1. März 2018.
-[^t-3]: LS 414.252.3. 1. 4. 18 - 100 5
+[^t-3]: LS 414.252.3.
 
 ### A. Allgemeine Bestimmungen
 
-[^hAAllgemeineBestim-1]: LS 414.252.3. 1. 4. 18 - 100 5
+[^hAAllgemeineBestim-1]: LS 414.252.3.
 
 #### § 1
 
@@ -62,7 +62,7 @@ Einzelheiten zum Studiengang, insbesondere zu den zu belegenden Modulen, werden 
 
 **1**
 
-- 1\. 4. 18 - 100 § 4. <sup>1</sup> Das Masterstudium kann als Vollzeit- oder als Teilzeitstudium geführt werden.
+- 1\. 1. 23 - 119 § 4. <sup>1</sup> Das Masterstudium kann als Vollzeit- oder als Teilzeitstudium geführt werden.
 
 **Studienform**
 
@@ -154,7 +154,7 @@ Für den Zulassungsentscheid ist diejenige Hochschule verantwortlich, an der die
 
 **3**
 
-- 1\. 4. 18 - 100
+- 1\. 1. 23 - 119
 
 <sup>4</sup> Für Leistungsnachweise in der Master Thesis kann eine Nachbesserung erbracht werden, wenn die Gesamtbeurteilung zwischen 3,50 und 3,99 liegt oder mit dem Prädikat «nicht bestanden (Nachbesserung möglich)» versehen wird. Für eine erfolgreiche Nachbesserung wird die Note 4,00 oder die Bewertung «bestanden» erteilt. Wurde die Master Thesis mit der Note 3,49 oder tiefer oder mit dem Prädikat «nicht bestanden» bewertet oder wird die nachgebesserte Master Thesis erneut als ungenügend beurteilt, muss sie wiederholt werden.
 
@@ -186,17 +186,17 @@ Wer ein Modul nicht besteht, muss alle Kompetenznachweise des Moduls wiederholen
 
 ### D. Studienabschluss und Masterdiplom
 
-#### § 17
-
 **Titel**
 
-Das Masterstudium wird mit dem Titel «Master of Science ZFH in Life Sciences mit Vertiefung in a. Food and Beverage Innovation,
+§ 17.[^hDStudienabschluss-1] Das Masterstudium wird mit dem Titel «Master of Science ZHAW in Life Sciences mit Vertiefung in a. Food and Beverage Innovation,
 
 - b. Pharmaceutical Biotechnology,
 
 - c. Chemistry for the Life Sciences oder
 
 - d. Applied Computational Life Sciences» abgeschlossen.
+
+[^hDStudienabschluss-1]: Fassung gemäss B vom 2. Juni 2022 (OS 77, 499; ABl 2022-08-19). In Kraft seit 1. Januar 2023. 1. 1. 23 - 119 5
 
 #### § 18
 
@@ -246,6 +246,6 @@ Studierende, die ihr Studium unter der Studienordnung vom 20. März 2014 aufgeno
 
 Der Anhang zur Studienordnung für den Masterstudiengang in Life Sciences des Departements Life Sciences und Facility Management an der Zürcher Hochschule für Angewandte Wissenschaften wird weder in die Offizielle Gesetzessammlung (OS) noch in die Zürcher Loseblattsammlung (LS) aufgenommen. Er kann bei der
 
-Zürcher Hochschule für Angewandte Wissenschaften Ressort Lehre Gertrudstrasse 15 Postfach 8400 Winterthur
+Zürcher Hochschule für Angewandte Wissenschaften Ressort Bildung Gertrudstrasse 15 Postfach 8400 Winterthur
 
 bezogen oder unter (www.zhaw.ch) eingesehen werden.
