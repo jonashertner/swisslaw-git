@@ -4,13 +4,13 @@ number: "400"
 title: Raumplanungs- und Baugesetz
 short: RBG
 language: de
-version: 2022-05-15
-valid_until: 2022-12-31
-version_adopted: 2021-12-15
+version: 2023-01-01
+valid_until: 2023-01-31
+version_adopted: 2022-06-30
 adopted: 1998-01-08
 in_force: 1999-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/400"
-pdf: "https://bl.clex.ch/api/de/versions/3696/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3697/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3696/pdf_file"
 
 (RBG)
 
-Vom 08.01.1998 (Stand 15.05.2022)
+Vom 08.01.1998 (Stand 01.01.2023)
 
 Der Landrat des Kantons Basel-Landschaft,
 
@@ -1685,7 +1685,7 @@ beschliesst:[^ingress-2]
 
 **Publikation und öffentliche Auflage**
 
-<sup>1</sup> Gesuche werden im Amtsblatt mit Angabe der Auflagefrist veröffentlicht. Gleichzeitig wird das Gesuch in der betreffenden Gemeinde während 10 Tagen öffentlich aufgelegt.
+<sup>1</sup> Gesuche werden im Amtsblatt mit Angabe der Auflagefrist sowie einem Verweis auf die während der Dauer der Auflage im Internet verfügbare Bezugsquelle der Baugesuchsunterlagen veröffentlicht. Gleichzeitig wird das Gesuch in der betreffenden Gemeinde während 10 Tagen öffentlich aufgelegt.
 
 <sup>2</sup> Gesuche, denen ein Umweltverträglichkeitsbericht beiliegt, werden während 30 Tagen aufgelegt.
 
