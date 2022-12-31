@@ -4,11 +4,11 @@ number: "851.11"
 title: Verordnung zum Sozialhilfegesetz (SHV)
 short: SHV
 language: de
-version: "2021-07-01"
-nachtrag: "113"
-valid_until: 2023-01-01
+version: "2023-01-01"
+nachtrag: "119"
+valid_until: 2024-01-01
 adopted: 1981-10-21
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-851_11-1981_10_21-1982_01_01-113.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-851_11-1981_10_21-1982_01_01-119.html"
 text: pdf
 ---
 
@@ -62,7 +62,7 @@ Besorgen Gemeinden Aufgaben der Sozialhilfe gemeinsam in einem Zweckverband, mü
 
 **1**
 
-- 1\. 7. 21 - 113 § 6. Stellen die Referenten Mängel fest, dringen sie auf Abhilfe. Nötigenfalls bewirken sie einen Beschluss des Bezirksrates, welcher der Sicherheitsdirektion<sup>11</sup> bekanntzugeben ist.
+- 1\. 1. 23 - 119 § 6. Stellen die Referenten Mängel fest, dringen sie auf Abhilfe. Nötigenfalls bewirken sie einen Beschluss des Bezirksrates, welcher der Sicherheitsdirektion<sup>11</sup> bekanntzugeben ist.
 
 #### § 7
 
@@ -150,7 +150,7 @@ Personen, die Hilfesuchende beraten und betreuen, müssen aufgrund ihrer Ausbild
 
 **3**
 
-- 1\. 7. 21 - 113
+- 1\. 1. 23 - 119
 
 ### C. Wirtschaftliche Hilfe
 
@@ -170,7 +170,7 @@ Personen, die Hilfesuchende beraten und betreuen, müssen aufgrund ihrer Ausbild
 
 **Soziales Existenzminimum**
 
-§ 17. <sup>1</sup> Die wirtschaftliche Hilfe trägt den persönlichen und örtlichen Verhältnissen Rechnung und gewährleistet das soziale Existenzminimum des Hilfesuchenden. Sie bemisst sich nach den Richtlinien der Schweizerischen Konferenz für Sozialhilfe (SKOS-Richtlinien) in der ab 1. Januar 2021 geltenden Fassung (einschliesslich der ab diesem Datum geltenden Teuerungsanpassung für den Grundbedarf für den Lebensunterhalt)\*. Vorbehalten bleiben begründete Abweichungen im Einzelfall.<sup>22</sup>
+§ 17. <sup>1</sup> Die wirtschaftliche Hilfe trägt den persönlichen und örtlichen Verhältnissen Rechnung und gewährleistet das soziale Existenzminimum des Hilfesuchenden. Sie bemisst sich nach den Richtlinien der Schweizerischen Konferenz für Sozialhilfe (SKOS-Richtlinien) in der ab 1. Januar 2023 geltenden Fassung (einschliesslich der ab diesem Datum geltenden Teuerungsanpassung für den Grundbedarf für den Lebensunterhalt)\*. Vorbehalten bleiben begründete Abweichungen im Einzelfall.<sup>24</sup>
 
 <sup>2</sup> Soweit in Abs. 1 nichts anderes geregelt wird, gelangt die in den SKOS-Richtlinien vorgesehene Teuerungsanpassung nicht zur Anwendung.
 
@@ -224,7 +224,7 @@ Mit der wirtschaftlichen Hilfe können insbesondere folgende Auflagen und Weisun
 
 **5**
 
-- 1\. 7. 21 - 113
+- 1\. 1. 23 - 119
 
 - b. ärztliche oder therapeutische Untersuchung oder Behandlung,
 
@@ -322,7 +322,7 @@ Die Fürsorgebehörde führt für jeden Hilfsfall chronologisch geordnete Akten 
 
 **7**
 
-- 1\. 7. 21 - 113
+- 1\. 1. 23 - 119
 
 <sup>2</sup> Bei Anordnungen von § 48 a Abs. 6 des Sozialhilfegesetzes wird das Observationsmaterial innerhalb von drei Monaten nach Rechtskraft der Anordnung vernichtet. Das Sozialhilfeorgan teilt der betroffenen Person die Vernichtung schriftlich mit.
 
@@ -402,7 +402,7 @@ Bestreitet eine Gemeinde, dass die Hilfepflicht oder Kostentragung für wirtscha
 
 **9**
 
-- 1\. 7. 21 - 113
+- 1\. 1. 23 - 119
 
 <sup>2</sup> Dasselbe gilt im Rekursverfahren für die Beurteilung von Art und Mass der Unterstützungen, die noch nach bisherigem Recht festgelegt worden sind.
 
@@ -472,13 +472,19 @@ Die Gemeinden wenden die geänderten Bestimmungen der SKOS-Richtlinien späteste
 
 **11**
 
-- 1\. 7. 21 - 113
+- 1\. 1. 23 - 119
 
 ### Übergangsbestimmungen zur Änderung vom 16. Dezember 2020
 
 (OS 76, 60)
 
 Die Gemeinden wenden die Teuerungsanpassung spätestens drei Monate nach Inkrafttreten der Verordnungsänderung an.
+
+### Übergangsbestimmung zur Änderung vom 30. November 2022
+
+(OS 77, 599)
+
+Die Gemeinden wenden die Teuerungsanpassung spätestens nach drei Monaten nach Inkrafttreten der Verordnungsänderung an.
 
 ## Weitere Fussnoten
 
@@ -506,3 +512,4 @@ Die Gemeinden wenden die Teuerungsanpassung spätestens drei Monate nach Inkraft
 - [21] Fassung gemäss RRB vom 4. Dezember 2012 (OS 68, 96; ABl 2012-12-14). In Kraft seit 1. April 2013.
 - [22] Fassung gemäss RRB vom 16. Dezember 2020 (OS 76, 60; ABl 2020-12-24). In Kraft seit 1. April 2021.
 - [23] Eingefügt durch RRB vom 14. April 2021 (OS 76, 230; ABl 2021-04-23). In Kraft seit 1. Juli 2021.
+- [24] Fassung gemäss RRB vom 30. November 2022 (OS 77, 599; ABl 2022-12-09). In Kraft seit 1. Januar 2023. 1. 1. 23 - 119 13
