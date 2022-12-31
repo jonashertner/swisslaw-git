@@ -3,20 +3,20 @@ canton: SG
 number: "331.21"
 title: Verordnung über die Pflegefinanzierung
 language: de
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-09-28
+version: 2023-01-01
+valid_until: 2024-12-31
+version_adopted: 2022-12-20
 adopted: 2010-12-14
 in_force: 2011-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/331.21"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3271/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3438/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Pflegefinanzierung
 
-vom 14.12.2010 (Stand 01.01.2022)
+vom 14.12.2010 (Stand 01.01.2023)
 
 Die Regierung des Kantons St.Gallen
 
@@ -51,21 +51,21 @@ als Verordnung:[^ingress-2]
 
 <table>
 <tr><th>Pflegestufe</th><th>Pflegebedarf in Minuten</th><th>Franken je Tag</th><th>Produkte auf der MiGeL[^2-2] in Franken je Tag</th><th>Gesamt Franken je Tag</th></tr>
-<tr><td>1</td><td>bis 20</td><td>13.–</td><td>…</td><td>…</td></tr>
-<tr><td>2</td><td>21–40</td><td>38.–</td><td>…</td><td>…</td></tr>
-<tr><td>3</td><td>41–60</td><td>63.–</td><td>…</td><td>…</td></tr>
-<tr><td>4</td><td>61–80</td><td>88.–</td><td>…</td><td>…</td></tr>
-<tr><td>5</td><td>81–100</td><td>113.–</td><td>…</td><td>…</td></tr>
-<tr><td>6</td><td>101–120</td><td>138.–</td><td>…</td><td>…</td></tr>
-<tr><td>7</td><td>121–140</td><td>163.–</td><td>…</td><td>…</td></tr>
-<tr><td>8</td><td>141–160</td><td>188.–</td><td>…</td><td>…</td></tr>
-<tr><td>9</td><td>161–180</td><td>213.–</td><td>…</td><td>…</td></tr>
-<tr><td>10</td><td>181–200</td><td>238.–</td><td>…</td><td>…</td></tr>
-<tr><td>11</td><td>201–220</td><td>263.–</td><td>…</td><td>…</td></tr>
-<tr><td>12</td><td>über 220</td><td>288.–</td><td>…</td><td>…</td></tr>
+<tr><td>1</td><td>bis 20</td><td>13.65</td><td>…</td><td>…</td></tr>
+<tr><td>2</td><td>21–40</td><td>39.90</td><td>…</td><td>…</td></tr>
+<tr><td>3</td><td>41–60</td><td>66.15</td><td>…</td><td>…</td></tr>
+<tr><td>4</td><td>61–80</td><td>92.40</td><td>…</td><td>…</td></tr>
+<tr><td>5</td><td>81–100</td><td>118.65</td><td>…</td><td>…</td></tr>
+<tr><td>6</td><td>101–120</td><td>144.90</td><td>…</td><td>…</td></tr>
+<tr><td>7</td><td>121–140</td><td>171.15</td><td>…</td><td>…</td></tr>
+<tr><td>8</td><td>141–160</td><td>197.40</td><td>…</td><td>…</td></tr>
+<tr><td>9</td><td>161–180</td><td>223.65</td><td>…</td><td>…</td></tr>
+<tr><td>10</td><td>181–200</td><td>249.90</td><td>…</td><td>…</td></tr>
+<tr><td>11</td><td>201–220</td><td>276.15</td><td>…</td><td>…</td></tr>
+<tr><td>12</td><td>über 220</td><td>302.40</td><td>…</td><td>…</td></tr>
 </table>
 
-<sup>2</sup> Die Höchstansätze der Pflegekosten nach Abs. 1 dieser Bestimmung werden für Einrichtungen, die auf der Pflegeheimliste[^2-3] als Sterbehospiz aufgeführt sind, jeweils um Fr. 66.– je Tag erhöht.
+<sup>2</sup> Die Höchstansätze der Pflegekosten nach Abs. 1 dieser Bestimmung werden für Einrichtungen, die auf der Pflegeheimliste[^2-3] als Sterbehospiz aufgeführt sind, jeweils um Fr. 79.– je Tag erhöht.
 
 [^2-1]: Art. [6](https://www.gesetzessammlung.sg.ch/data/331.2/de/art6) des Gesetzes über die Pflegefinanzierung, sGS [331.2](https://www.gesetzessammlung.sg.ch/data/331.2/de).
 [^2-2]: Mittel- und Gegenstände-Liste des Bundesamtes für Gesundheit.
@@ -223,9 +223,9 @@ als Verordnung:[^ingress-2]
 
 <table>
 <tr><th>Massnahmen</th><th>Franken je Pflegestunde</th></tr>
-<tr><td>Abklärung und Beratung</td><td>101.10</td></tr>
-<tr><td>Untersuchung und Behandlung</td><td>82.85</td></tr>
-<tr><td>Grundpflege</td><td>69.15</td></tr>
+<tr><td>Abklärung und Beratung</td><td>107.00</td></tr>
+<tr><td>Untersuchung und Behandlung</td><td>90.00</td></tr>
+<tr><td>Grundpflege</td><td>76.00</td></tr>
 </table>
 
 #### Art. 12
