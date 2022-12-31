@@ -4,11 +4,11 @@ title: "Loi du 30 septembre 2016 sur l'énergie (LEne)"
 short: LEne
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/762"
 language: fr
-version: 2022-10-01
+version: 2023-01-01
 adopted: 2016-09-30
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/762/20221001/fr/xml/fedlex-data-admin-ch-eli-cc-2017-762-20221001-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/762/20221001/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/762/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-762-20230101-fr-xml-11.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/762/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/762/20221001/fr"
 
 (LEne)[^t-1]
 
-du 30 septembre 2016 (État le 1<sup>er</sup> octobre 2022)
+du 30 septembre 2016 (État le 1<sup>er</sup> janvier 2023)
 
 [^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -228,7 +228,9 @@ Si le gestionnaire de réseau et le producteur ne peuvent pas convenir d’une r
 - b. pour l’électricité provenant d’installations de couplage chaleur-force alimentées totalement ou partiellement aux énergies fossiles, la rétribution est fonction du prix du marché au moment de l’injection;
 - c. pour le biogaz, la rétribution s’aligne sur le prix que le gestionnaire de réseau devrait payer s’il l’achetait auprès d’un tiers.
 
-<sup>4</sup> Le présent article s’applique également lorsque le producteur bénéficie d’une rétribution unique (art. 25) ou d’une contribution d’investissement au sens des art. 26 ou 27. Il ne s’applique pas tant que le producteur participe au système de rétribution de l’injection (art. 19).
+<sup>4</sup> Les al. 1 à 3 ne s’appliquent pas tant que le producteur participe au système de rétribution de l’injection (art. 19).[^15-1]
+
+[^15-1]: Nouvelle teneur selon le ch. I de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
 
 #### Art. 16
 
@@ -236,7 +238,9 @@ Si le gestionnaire de réseau et le producteur ne peuvent pas convenir d’une r
 
 <sup>1</sup> Tout exploitant d’installation peut consommer, sur le lieu de production, tout ou partie de l’énergie qu’il a lui-même produite. Il peut aussi vendre tout ou partie de cette énergie pour qu’elle soit consommée sur le lieu de production. Ces deux types d’affectation de l’énergie sont considérés comme consommation propre. Le Conseil fédéral édicte les dispositions visant à définir et à délimiter le lieu de production.
 
-<sup>2</sup> L’al. 1 s’applique aussi aux exploitants d’installation qui participent au système de rétribution de l’injection (art. 19) et à ceux qui bénéficient d’une rétribution unique (art. 25) ou d’une contribution d’investissement au sens de l’art. 26 ou de l’art. 27.
+<sup>2</sup> L’al. 1 s’applique aussi aux exploitants d’installations qui participent au système de rétribution de l’injection (art. 19) et à ceux qui bénéficient d’une contribution d’investissement au sens du chapitre 5 ou d’une contribution aux coûts d’exploitation (art. 33*a*).[^16-1]
+
+[^16-1]: Nouvelle teneur selon le ch. I de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
 
 #### Art. 17
 
@@ -305,7 +309,7 @@ Les exploitants d’installations hydroélectriques liées aux installations d�
 - a. qu’elles soient implantées sur des cours d’eau déjà exploités, ou
 - b. qu’il n’en résulte aucune atteinte supplémentaire aux cours d’eau naturels.
 
-<sup>6</sup> Le Conseil fédéral peut augmenter la limite de puissance prévue à l’al. 4, let. b, en même temps que la limite de puissance pour la rétribution unique (art. 24, al. 1, let. a). En cas de chevauchement, l’exploitant peut choisir entre la rétribution de l’injection et la rétribution unique.
+<sup>6</sup> Le Conseil fédéral peut augmenter la limite de puissance prévue à l’al. 4, let. b. En cas de chevauchement avec la rétribution unique, l’exploitant peut choisir entre la rétribution de l’injection et la rétribution unique.[^19-1]
 
 <sup>7</sup>
 
@@ -318,6 +322,8 @@ Il fixe les autres modalités relatives au système de rétribution de l’injec
 - e. la sortie du système de rétribution de l’injection de même que les conditions d’une sortie temporaire;
 - f. la redistribution comptable, par les groupes-bilan agissant au titre d’unités de mesure et de décompte, de l’électricité injectée;
 - g. les autres tâches des groupes-bilan et des exploitants de réseau, notamment l’obligation de reprise et l’obligation de rétribution dans le cadre de l’art. 21 ainsi que l’éventuelle obligation de paiement anticipé de la rétribution.
+
+[^19-1]: Nouvelle teneur selon le ch. I de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
 
 #### Art. 20
 
@@ -367,73 +373,142 @@ Le Conseil fédéral édicte des dispositions d’exécution, en particulier con
 
 <sup>2</sup> Le Conseil fédéral fixe les modalités de détermination du prix de marché de référence pour les différents types d’installation. La période de calcul de la moyenne doit être d’autant plus longue que la production est mieux contrôlable dans le temps.
 
-## Chapitre 5 Contribution d’investissement pour les installations photovoltaïques, les installations hydroélectriques et les installations de biomasse
+## Chapitre 5 Contribution d’investissement pour les installations photovoltaïques, hydroélectriques, de biomasse, éoliennes et géothermiques
+
+[^chap5-1]
+
+[^chap5-1]: Nouvelle teneur selon le ch. I de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
 
 #### Art. 24
 
-**Conditions générales et modalités de paiement**
+**Principes**[^24-1]
 
-<sup>1</sup>
+Une contribution d’investissement peut être sollicitée pour les installations de production d’électricité issue d’énergies renouvelables sur la base des dispositions du présent chapitre, pour autant que les moyens financiers suffisent (art. 35 et 36).
 
-Les exploitants des installations suivantes peuvent bénéficier d’une contribution d’investissement pour autant que les moyens financiers suffisent (art. 35 et 36):
-
-- a. les installations photovoltaïques: pour les nouvelles installations d’une puissance inférieure à 30 kW et pour les agrandissements ou les rénovations notables de telles installations; le Conseil fédéral peut fixer une limite supérieure de puissance plus élevée;
-- b.
-
-  les installations hydroélectriques, à l’exception des centrales à pompage-turbinage:
-
-  - 1\. pour les nouvelles installations d’une puissance supérieure à 10 MW,
-  - 2\. pour les agrandissements ou les rénovations notables d’installations existantes d’une puissance d’au moins 300 kW;
-
-- c. les installations de biomasse: pour les nouvelles usines d’incinération des ordures ménagères, les nouvelles installations au gaz d’épuration ou les nouvelles centrales électriques à bois d’importance régionale et pour les agrandissements ou les rénovations notables de telles installations.
-
-<sup>2</sup> Les dérogations visées à l’art. 19, al. 5, concernant les installations hydroélectriques s’appliquent également dans le cadre du présent chapitre.
-
-<sup>3</sup> Les exploitants peuvent bénéficier d’une contribution d’investissement seulement lorsque la mise en service d’une nouvelle installation ou d’une installation notablement agrandie ou rénovée est postérieure au 1<sup>er</sup> janvier 2013.
-
-<sup>4</sup> Les exploitants d’installations photovoltaïques reçoivent la contribution d’investissement sous forme de paiement unique (rétribution unique). Pour les exploitants d’installations hydroélectriques ou de biomasse, le Conseil fédéral peut prévoir un paiement échelonné.
+[^24-1]: Nouvelle teneur selon le ch. I de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
 
 #### Art. 25
 
-**Rétribution unique allouée pour les installations photovoltaïques**
+**Contribution d’investissement allouée pour les installations photovoltaïques**[^25-1]
 
-<sup>1</sup> La rétribution unique allouée pour les installations photovoltaïques visée à l’art. 24, al. 1, let. a, se monte à 30 % au plus des coûts d’investissement des installations de référence au moment de leur mise en exploitation.
+<sup>1</sup> Une contribution d’investissement (rétribution unique) peut être sollicitée pour la réalisation de nouvelles installations photovoltaïques ou pour l’agrandissement notable d’installations photovoltaïques.
 
-<sup>2</sup> Le Conseil fédéral fixe les taux et peut constituer des catégories.
+<sup>2</sup> La rétribution unique se monte à 30 % au plus des coûts d’investissement des installations de référence au moment de leur mise en exploitation.
+
+<sup>3</sup> Pour les installations qui injectent toute l’électricité produite, la rétribution unique peut, en dérogation à l’al. 2, atteindre 60 % des coûts d’investissement des installations de référence au moment de leur mise en exploitation.
+
+[^25-1]: Nouvelle teneur selon le ch. I de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+
+#### Art. 25a
+
+**Mises aux enchères pour la rétribution unique**[^25a-1]
+
+<sup>1</sup> Pour la réalisation de nouvelles installations photovoltaïques sans consommation propre à partir d’une puissance de 150 kW, le Conseil fédéral peut prévoir que le montant de la rétribution unique est fixé par mise aux enchères. Ce montant ne peut dépasser les contributions d’investissement selon l’art. 25.
+
+<sup>2</sup> Le taux de rétribution par kilowatt de puissance est le principal critère d’adjudication. Le Conseil fédéral peut prévoir d’autres critères.
+
+<sup>3</sup> Le Conseil fédéral peut prévoir le dépôt d’une sûreté allant jusqu’à 10 % du montant de la rétribution unique prévu pour la puissance totale offerte et en régler l’utilisation.
+
+<sup>4</sup>
+
+Il peut prévoir des sanctions allant jusqu’à 10 % du montant de la rétribution unique prévu pour la puissance totale offerte, en particulier pour les cas où le projet:
+
+- a. n’est pas réalisé dans le délai imparti;
+- b. n’atteint pas ou n’atteint que partiellement les objectifs garantis dans l’offre pour laquelle le participant aux enchères a remporté le marché;
+- c. ne présente pas ou ne présente que partiellement les qualités garanties dans l’offre pour laquelle le participant aux enchères a remporté le marché.
+
+[^25a-1]: Introduit par le ch. I de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
 
 #### Art. 26
 
-**Contribution d’investissement allouée pour les installations hydroélectriques**
+**Contribution d’investissement allouée pour les installations hydroélectriques**[^26-1]
 
-<sup>1</sup> La contribution d’investissement allouée pour les installations hydroélectriques visées à l’art. 24, al. 1, let. b, est déterminée au cas par cas. Elle se monte à 60 % au plus des coûts d’investissement imputables pour les installations d’une puissance allant jusqu’à 10 MW et à 40 % au plus des coûts d’investissement imputables pour les installations d’une puissance supérieure à 10 MW.
+<sup>1</sup>
 
-<sup>2</sup> Le Conseil fédéral fixe les critères de mesure et les taux. Pour les agrandissements ou rénovations notables inférieurs à un certain seuil, il peut fixer les taux selon le principe des installations de référence.
+Une contribution d’investissement peut être sollicitée:
+
+- a. pour la réalisation de nouvelles installations hydroélectriques d’une puissance d’au moins 1 MW;
+- b. pour les agrandissements notables d’installations qui présentent une puissance d’au moins 300 kW après l’agrandissement;
+- c. pour les rénovations notables d’installations qui présentent une puissance d’au moins 300 kW après la rénovation.
+
+<sup>2</sup> La part de pompage-turbinage d’une installation ne donne pas droit à une contribution d’investissement. Le Conseil fédéral peut prévoir des exceptions, en cas de besoin avéré de capacités de stockage supplémentaires afin d’intégrer des énergies renouvelables.
+
+<sup>3</sup>
+
+La contribution d’investissement se monte à:
+
+- a. 60 % au plus des coûts d’investissement imputables pour les installations visées à l’al. 1, let. a et b;
+- b. 40 % au plus des coûts d’investissement imputables pour les installations visées à l’al. 1, let. c.
+
+<sup>4</sup> Les limites de puissance inférieures visées à l’al. 1 ne s’appliquent pas aux installations d’exploitation accessoire.
+
+<sup>5</sup>
+
+Le Conseil fédéral peut exempter d’autres installations hydroélectriques des limites de puissance inférieures visées à l’al. 1, pour autant qu’elles remplissent une des conditions suivantes:
+
+- a. elles soient implantées sur des cours d’eau déjà exploités;
+- b. elles n’engendrent aucune atteinte supplémentaire aux cours d’eau naturels ou présentant un intérêt écologique.
+
+[^26-1]: Nouvelle teneur selon le ch. I de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
 
 #### Art. 27
 
-**Contribution d’investissement allouée pour les installations de biomasse**
+**Contribution d’investissement allouée pour les installations de biomasse**[^27-1]
 
-<sup>1</sup> La contribution d’investissement allouée pour les installations de biomasse visées à l’art. 24, al. 1, let. c, est fixée au cas par cas. Elle se monte à 20 % au plus des coûts d’investissement imputables.
+<sup>1</sup> Une contribution d’investissement peut être sollicitée pour la réalisation de nouvelles installations de biomasse ou pour l’agrandissement ou la rénovation notable d’installations de biomasse.
 
-<sup>2</sup> Le Conseil fédéral fixe les critères de mesure et les taux. Pour les investissements dans des installations au gaz d’épuration inférieurs à un certain seuil, il peut fixer les taux selon le principe des installations de référence.
+<sup>2</sup> Cette contribution se monte à 60 % au plus des coûts d’investissement imputables.
+
+<sup>3</sup> Aucune contribution d’investissement ne peut être sollicitée pour les installations alimentées partiellement aux combustibles ou aux carburants fossiles.
+
+[^27-1]: Nouvelle teneur selon le ch. I de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+
+#### Art. 27a
+
+**Contribution d’investissement allouée pour les installations éoliennes**[^27a-1]
+
+<sup>1</sup> Une contribution d’investissement peut être sollicitée pour la réalisation de nouvelles installations éoliennes d’une puissance d’au moins 2 MW.
+
+<sup>2</sup> Cette contribution se monte à 60 % au plus des coûts d’investissement imputables.
+
+[^27a-1]: Introduit par le ch. I de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+
+#### Art. 27b
+
+**Contributions d’investissement allouées pour les installations géothermiques**[^27b-1]
+
+<sup>1</sup>
+
+Une contribution d’investissement peut être sollicitée:
+
+- a. pour la prospection de ressources géothermiques;
+- b. pour la mise en valeur de ressources géothermiques;
+- c. pour la réalisation de nouvelles installations géothermiques.
+
+<sup>2</sup> Chaque contribution se monte à 60 % au plus des coûts d’investissement imputables.
+
+[^27b-1]: Introduit par le ch. I de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
 
 #### Art. 28
 
 **Début des travaux**
 
-<sup>1</sup> Quiconque veut solliciter une contribution d’investissement au sens de l’art. 26 ou de l’art. 27 n’est autorisé à commencer les travaux de construction, d’agrandissement ou de rénovation qu’après que l’OFEN en a garanti l’octroi. L’OFEN peut autoriser le début anticipé des travaux.
+<sup>1</sup> Quiconque envisage de solliciter une contribution d’investissement au sens des art. 26 à 27*b* n’est autorisé à commencer les travaux de construction, d’agrandissement ou de rénovation qu’après que l’OFEN en a garanti l’octroi. L’OFEN peut autoriser le début anticipé des travaux.[^28-1]
 
-<sup>2</sup> Quiconque commence des travaux de construction, d’agrandissement ou de rénovation d’une installation hydroélectrique ou d’une installation de biomasse sans garantie ou sans qu’un début anticipé des travaux ait été autorisé, ne reçoit aucune contribution d’investissement au sens de l’art. 26 ou de l’art. 27.
+<sup>2</sup> Quiconque commence des travaux de construction, d’agrandissement ou de rénovation d’une installation sans garantie ou sans qu’un début anticipé des travaux ait été autorisé ne peut pas bénéficier d’une telle contribution d’investissement.[^28-2]
 
 <sup>3</sup> Le Conseil fédéral peut étendre ces règles à la rétribution unique allouée pour les installations photovoltaïques à partir d’une certaine puissance.
 
+[^28-1]: Nouvelle teneur selon le ch. I de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^28-2]: Nouvelle teneur selon le ch. I de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+
 #### Art. 29
 
-**Conditions et modalités**
+**Modalités[^29-1]**
 
 <sup>1</sup>
 
-Le Conseil fédéral fixe les modalités de la rétribution unique et des contributions d’investissement au sens des art. 26 et 27, en particulier:
+Le Conseil fédéral fixe les modalités des contributions d’investissement au sens du présent chapitre, en particulier:[^29-2]
 
 - a. la procédure de demande;
 - b. les taux pour la rétribution unique et les contributions d’investissement, y compris les coûts imputables, le Conseil fédéral pouvant prévoir des méthodes de calcul différentes pour les diverses technologies;
@@ -441,19 +516,32 @@ Le Conseil fédéral fixe les modalités de la rétribution unique et des contri
 - d. les critères permettant de déterminer si l’agrandissement ou la rénovation d’une installation est notable;
 - e. les critères permettant de distinguer les nouvelles installations des agrandissements et des rénovations notables.
 
-<sup>2</sup> Lors de la fixation des taux et de leur adaptation éventuelle, il y a lieu de veiller à ce que la rétribution unique et les contributions d’investissement ne dépassent pas les coûts supplémentaires non amortissables. Les coûts supplémentaires correspondent à la différence entre les coûts de revient capitalisés pour la production électrique et le prix de marché capitalisé.
+<sup>2</sup> Il en fixe le taux en fonction des coûts non couverts découlant soit de la réalisation d’une nouvelle installation, soit de l’agrandissement ou de la rénovation d’une installation existante.[^29-3]
 
 <sup>3</sup>
 
-Le Conseil fédéral peut en outre prévoir:
+Le Conseil fédéral peut en outre prévoir, en particulier:[^29-4]
 
 - a. les exigences minimales en termes d’énergie, d’écologie et autres;
 - b. les exigences applicables à l’exploitation et au fonctionnement des installations;
+- b<sup>bis</sup>.[^29-5] l’examen concret et l’évaluation d’une demande, si des indices donnent à penser qu’il n’y a pas de coûts non couverts pour l’installation concernée;
 - c. la restitution de la rétribution unique ou des contributions d’investissement, notamment lorsque les conditions du marché énergétique entraînent une rentabilité excessive;
 - d. la taille minimale requise d’une installation pour qu’une rétribution unique puisse être allouée;
 - e. le plafonnement des contributions;
 - f. l’exclusion ou la réduction de la rétribution unique ou des contributions d’investissement, lorsqu’une autre aide financière a été accordée;
-- g. le délai minimal pendant lequel l’exploitant qui a déjà bénéficié d’une rétribution unique ou d’une contribution d’investissement allouée pour une installation donnée ne pourra pas à nouveau demander une telle rétribution ou contribution pour cette installation.
+- g. le délai minimal pendant lequel l’exploitant qui a déjà bénéficié d’une rétribution unique ou d’une contribution d’investissement allouée pour une installation donnée ne pourra pas à nouveau demander une telle rétribution ou contribution pour cette installation;
+- h.[^29-6] des catégories différentes dans le cadre de chaque technologie;
+- i.[^29-7] des taux selon le principe des installations de référence pour les contributions d’investissement visées aux art. 26 à 27*b* pour certaines classes de puissance;
+- j.[^29-8] l’obligation pour les responsables de projet qui obtiennent une contribution d’investissement au sens du présent chapitre de mettre les données et les informations d’intérêt public à la disposition de la Confédération.
+
+[^29-1]: Nouvelle teneur selon le ch. I de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^29-2]: Nouvelle teneur selon le ch. I de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^29-3]: Nouvelle teneur selon le ch. I de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^29-4]: Nouvelle teneur selon le ch. I de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^29-5]: Introduite par le ch. I de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^29-6]: Introduite par le ch. I de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^29-7]: Introduite par le ch. I de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^29-8]: Introduite par le ch. I de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
 
 ## Chapitre 6 Mesures de soutien particulières
 
@@ -475,14 +563,16 @@ Le Conseil fédéral règle les modalités, en particulier:
 - b. une éventuelle prise en compte d’autres recettes pertinentes;
 - c. les coûts imputables et leur calcul;
 - d. une éventuelle délégation à l’OFEN visant à préciser l’ensemble des recettes et des coûts, y compris les coûts du capital;
-- e. la délimitation par rapport à la contribution d’investissement pour les agrandissements ou les rénovations notables (art. 24, al. 1, let. b, ch. 2);
+- e.[^30-2] la délimitation par rapport à la contribution d’investissement pour les agrandissements notables (art. 26, al. 1, let. b);
 - f. la procédure, y compris les documents à produire, les modalités de paiement et la coopération entre l’OFEN et la Commission fédérale de l’électricité (ElCom);
 - g. l’obligation de renseigner incombant aux exploitants et aux propriétaires s’ils ne sont pas des ayants droit;
 - h. la restitution ultérieure, partielle ou totale, de la prime de marché, notamment en raison de renseignements erronés ou incomplets.
 
-<sup>5</sup> D’ici à 2019, le Conseil fédéral soumet à l’Assemblée fédérale un projet d’acte visant à introduire, au plus tard au moment de l’expiration des mesures de soutien du système de rétribution de l’injection, un modèle proche de la réalité du marché.
+<sup>5</sup> …[^30-3]
 
 [^30-1]: Rectifié par la CdR de l’Ass. féd. (art. 58, al. 1, LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^30-2]: Nouvelle teneur selon le ch. I de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^30-3]: Abrogé par le ch. I de la LF du 1<sup>er</sup> oct. 2021, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
 
 #### Art. 31
 
@@ -510,20 +600,43 @@ Le Conseil fédéral prévoit des appels d’offres publics pour les mesures d�
 
 #### Art. 33
 
-**Contributions à la recherche de ressources géothermiques[^33-1] et garanties pour la géothermie**
+**Garanties pour la géothermie**[^33-1]
 
-<sup>1</sup> Des contributions peuvent être fournies pour couvrir les coûts relatifs à la recherche[^33-2] de ressources géothermiques destinées à la production électrique. Le montant de ces contributions ne peut excéder 60 % des coûts d’investissement imputables.
+<sup>1</sup> Des garanties peuvent être fournies pour couvrir les risques liés aux investissements consentis dans le cadre de la prospection et de la mise en valeur de ressources géothermiques ainsi que de la réalisation d’installations géothermiques destinées à la production électrique. Le montant de ces garanties ne peut excéder 60 % des coûts d’investissement imputables.
 
-<sup>2</sup> Des garanties peuvent être fournies pour couvrir les investissements consentis dans le cadre de la recherche[^33-3] de ressources géothermiques et de la réalisation d’installations géothermiques destinées à la production électrique. Le montant de ces garanties ne peut excéder 60 % des coûts d’investissement imputables.
+<sup>2</sup> Un projet géothermique ne peut pas bénéficier à la fois de la garantie visée à l’al. 1 et de la contribution visée à l’art. 27*b,* al. 1.
 
-<sup>3</sup> Un projet de recherche[^33-4] de ressources géothermiques ne peut pas donner lieu à la fois à une contribution et à une garantie.
+<sup>3</sup> Le Conseil fédéral règle les modalités, en particulier les coûts d’investissement imputables, ainsi que la procédure.
 
-<sup>4</sup> Le Conseil fédéral règle les modalités, en particulier les coûts d’investissement imputables, ainsi que la procédure.
+[^33-1]: Nouvelle teneur selon le ch. I de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
 
-[^33-1]: Rectifié par la CdR de l’Ass. féd. (art. 58, al. 1, LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
-[^33-2]: Rectifié par la CdR de l’Ass. féd. (art. 58, al. 1, LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
-[^33-3]: Rectifié par la CdR de l’Ass. féd. (art. 58, al. 1, LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
-[^33-4]: Rectifié par la CdR de l’Ass. féd. (art. 58, al. 1, LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+#### Art. 33a
+
+**Contribution aux coûts d’exploitation allouée pour les installations de biomasse**[^33a-1]
+
+<sup>1</sup> Une contribution aux coûts d’exploitation peut être sollicitée pour une installation de biomasse, pour autant que les moyens financiers suffisent (art. 35 et 36).
+
+<sup>2</sup> La contribution aux coûts d’exploitation est fixée en fonction du taux de contribution, déduction faite du prix de marché de référence; elle est versée par kilowattheure d’électricité injectée.
+
+<sup>3</sup> Le Conseil fédéral fixe le taux de contribution par catégorie et par classe de puissance en fonction des coûts d’exploitation des installations de référence et en tenant compte d’éventuelles recettes. Le taux de contribution peut être adapté aux circonstances.
+
+<sup>4</sup>
+
+En outre, le Conseil fédéral peut prévoir en particulier:
+
+- a. des exigences minimales en termes d’énergie, d’écologie ou autres;
+- b. le plafonnement des contributions;
+- c. l’exclusion d’installations dont les coûts d’exploitation peuvent être couverts d’une autre manière.
+
+<sup>5</sup>
+
+Aucune contribution aux coûts d’exploitation ne peut être sollicitée pour:
+
+- a. les installations de combustion des déchets urbains (usines d’incinération des ordures ménagères);
+- b. les installations d’incinération des boues, les installations au gaz d’épuration et les installations au gaz de décharge;
+- c. les installations alimentées partiellement aux combustibles ou aux carburants fossiles.
+
+[^33a-1]: Introduit par le ch. I de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
 
 #### Art. 34
 
@@ -551,24 +664,27 @@ Le supplément permet de financer:
 - a. la prime d’injection visée à l’art. 21, dans le système de rétribution de l’injection, et les coûts de règlement qui y sont liés;
 - b. les coûts de rétribution de l’injection non couverts par les prix du marché, selon l’ancien droit;
 - c. les frais[^35-1] supplémentaires visés à l’art. 73, al. 4, non couverts par les prix du marché;
-- d. la rétribution unique visée à l’art. 25 et les contributions d’investissement visées aux art. 26 et 27;
-- d<sup>bis</sup>.[^35-2] la rétribution unique au sens de l’art. 71*a*, al. 4;
+- d.[^35-2] les contributions d’investissement visées au chapitre 5;
+- d<sup>bis</sup>.[^35-3] la rétribution unique au sens de l’art. 71*a*, al. 4;
 - e. la prime de marché rétribuant l’électricité produite par de grandes installations hydroélectriques au sens de l’art. 30;
 - f. les coûts des appels d’offres publics visés à l’art. 32;
-- g. les contributions à la recherche de ressources géothermiques[^35-3] et les pertes liées aux garanties pour la géothermie visées à l’art. 33;
+- g.[^35-4] les pertes liées aux garanties pour la géothermie visées à l’art. 33;
 - h. l’indemnisation des coûts au sens de l’art. 34;
+- h<sup>bis</sup>.[^35-5] les contributions aux coûts d’exploitation visées à l’art. 33*a*;
 - i. les divers coûts d’exécution, en particulier les coûts indispensables de l’organe d’exécution;
 - j. les coûts incombant à l’OFEN en raison de ses tâches relatives à l’organe d’exécution.
 
 <sup>3</sup> Le montant du supplément est de 2,3 ct./kWh au maximum. Le Conseil fédéral le détermine en fonction des besoins.
 
 [^35-1]: Rectifié par la CdR de l’Ass. féd. (art. 58, al. 1, LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
-[^35-2]: Introduite par le ch. I de la LF du 30 sept. 2022 (Mesures urgentes visant à assurer rapidement l’approvisionnement en électricité pendant l’hiver), en vigueur du 1<sup>er</sup> oct. 2022 au 31 déc. 2025 ([RO 2022 543](https://fedlex.data.admin.ch/eli/oc/2022/543); [FF 2022 1536](https://fedlex.data.admin.ch/eli/fga/2022/1536), [1540](https://fedlex.data.admin.ch/eli/fga/2022/1540)).
-[^35-3]: Rectifié par la CdR de l’Ass. féd. (art. 58, al. 1, LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^35-2]: Nouvelle teneur selon le ch. I de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^35-3]: Introduite par le ch. I de la LF du 30 sept. 2022 (Mesures urgentes visant à assurer rapidement l’approvisionnement en électricité pendant l’hiver), en vigueur du 1<sup>er</sup> oct. 2022 au 31 déc. 2025 ([RO 2022 543](https://fedlex.data.admin.ch/eli/oc/2022/543); [FF 2022 1536](https://fedlex.data.admin.ch/eli/fga/2022/1536), [1540](https://fedlex.data.admin.ch/eli/fga/2022/1540)).
+[^35-4]: Nouvelle teneur selon le ch. I de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^35-5]: Introduite par le ch. I de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
 
 #### Art. 36
 
-**Limitation du soutien selon les affectations et liste d’attente**
+**Limitation du soutien selon les affectations et liste d’attente**[^36-1]
 
 <sup>1</sup>
 
@@ -579,19 +695,19 @@ L’allocation des ressources entre les diverses affectations est soumise à:
   un maximum de 0,1 ct./kWh:
 
   - 1\. pour les appels d’offres publics,
-  - 2\. pour les contributions à la recherche de ressources géothermiques[^36-1] et les garanties pour la géothermie,
+  - 2\. pour les contributions d’investissement et les garanties pour la géothermie,
   - 3\. pour les indemnisations visées à l’art. 34;
 
-- b. un maximum de 0,1 ct./kWh, calculé en moyenne sur les cinq ans précédents, pour les contributions d’investissement au sens de l’art. 26 destinées aux installations hydroélectriques d’une puissance supérieure à 10 MW;
+- b. un maximum de 0,2 ct./kWh pour les contributions d’investissement au sens de l’art. 26, al. 1, destinées aux installations hydroélectriques d’une puissance supérieure à 10 MW;
 - c. un maximum de 0,2 ct./kWh pour les primes de marché rétribuant l’électricité produite par de grandes installations hydroélectriques.
 
-<sup>2</sup> L’OFEN définit chaque année les ressources allouées aux exploitants d’installations photovoltaïques qui participent au système de rétribution de l’injection (contingent du photovoltaïque). Il vise un développement continu et tient compte de l’évolution des coûts dans le domaine du photovoltaïque, d’une part, et dans les autres technologies, d’autre part. Il tient compte en outre de la sollicitation des réseaux électriques et des possibilités de stockage.
+<sup>2</sup> L’OFEN définit chaque année les ressources allouées aux installations photovoltaïques (contingent du photovoltaïque). Il peut aussi définir des contingents pour les autres technologies. Il vise un développement continu et tient compte de l’évolution des coûts.
 
-<sup>3</sup> Il peut aussi définir les ressources mises à disposition pour la rétribution unique allouée pour les installations photovoltaïques à partir d’une certaine puissance, pour les contributions d’investissement destinées aux agrandissements et aux rénovations notables d’installations hydroélectriques d’une puissance allant jusqu’à 10 MW et pour toutes les contributions d’investissement destinées à des installations de biomasse (contingents), lorsque cela permet d’éviter une disparité entre ces coûts et ceux du système de rétribution de l’injection.
+<sup>3</sup> Le Conseil fédéral règle les conséquences des limitations prévues au présent article. Il peut prévoir des listes d’attente pour les contributions d’investissement visées au chapitre 5. Pour les réduire, il peut retenir d’autres critères que la date de la demande.
 
-<sup>4</sup> Le Conseil fédéral règle les conséquences des limitations prévues au présent article. Il peut prévoir des listes d’attente pour le système de rétribution de l’injection, pour la rétribution unique allouée pour les installations photovoltaïques à partir d’une certaine puissance et pour les contributions d’investissement visées aux art. 26 et 27. Pour les réduire, il peut retenir d’autres critères que la date de la demande.
+<sup>4</sup> Les ressources visées à l’al. 1, let. c, qui ne sont pas utilisées sont engagées dans l’année qui suit, compte tenu des maximums prévus à l’al. 1, pour d’autres affectations selon l’art. 26, al. 1, let. b et c, ou l’art. 34.
 
-[^36-1]: Rectifié par la CdR de l’Ass. féd. (art. 58, al. 1, LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^36-1]: Nouvelle teneur selon le ch. I de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
 
 #### Art. 37
 
@@ -624,14 +740,20 @@ Aucun nouvel engagement n’est pris à partir du 1<sup>er</sup> janvier:
 
   de 2031 pour:
 
-  - 1\. la rétribution unique visée à l’art. 25,
-  - 2\. les contributions d’investissement visées aux art. 26 et 27,
+  - 1\.[^38-1] les rétributions uniques visées aux art. 25 et 25*a*,
+  - 2\.[^38-2] les contributions d’investissement visées aux art. 26 à 27*b*,
   - 3\. les appels d’offres publics visés à l’art. 32,
-  - 4\. les contributions à la recherche de ressources géothermiques[^38-1] et les garanties pour la géothermie visées à l’art. 33.
+  - 4\.[^38-3] les garanties pour la géothermie visées à l’art. 33.
 
-<sup>2</sup> À partir du 1<sup>er</sup> janvier de la sixième année suivant l’entrée en vigueur de la présente loi, aucune prime de marché au sens de l’art. 30 ne peut plus être allouée.
+<sup>2</sup> La prime de marché au sens de l’art. 30 est versée la dernière fois pour l’année 2030.[^38-4]
 
-[^38-1]: Rectifié par la CdR de l’Ass. féd. (art. 58, al. 1, LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+<sup>3</sup> Les contributions aux coûts d’exploitation visées à l’art. 33*a* sont accordées jusqu’au 31 décembre 2030.[^38-5]
+
+[^38-1]: Nouvelle teneur selon le ch. I de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^38-2]: Nouvelle teneur selon le ch. I de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^38-3]: Nouvelle teneur selon le ch. I de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^38-4]: Nouvelle teneur selon le ch. I de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^38-5]: Introduit par le ch. I de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
 
 ### Section 2 Remboursement
 
@@ -992,7 +1114,7 @@ Les autorités fédérales compétentes peuvent publier ces données personnelle
 
 <sup>1</sup> L’OFEN prend les mesures et rend les décisions prévues par la présente loi, pour autant que la Confédération soit compétente en la matière et que la présente loi n’en attribue pas la compétence à une autre autorité.
 
-<sup>2</sup> D’entente avec le canton concerné, l’OFEV statue sur l’indemnisation des coûts visée à l’art. 34.
+<sup>2</sup> D’entente avec le canton concerné, l’OFEV statue sur l’indemnisation des coûts visée à l’art. 34, en règle générale dans les six mois suivant le dépôt de la demande.[^62-1]
 
 <sup>3</sup> Sous réserve de l’al. 4, l’ElCom tranche en cas de litige lié à l’application des art. 15, 16 à 18 et 73, al. 4 et 5.
 
@@ -1002,6 +1124,8 @@ Les tribunaux civils connaissent:
 
 - a. des litiges liés à des conventions au sens de l’art. 17, al. 1;
 - b. des litiges liés aux rapports juridiques entre les propriétaires fonciers et les locataires ou entre les propriétaires fonciers et les fermiers lors du regroupement dans la perspective d’une consommation propre.
+
+[^62-1]: Nouvelle teneur selon le ch. I de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
 
 #### Art. 63
 
@@ -1100,7 +1224,7 @@ Toute personne chargée de la mise en œuvre de la présente loi est soumise au 
 
 <sup>1</sup> Pour mettre en place des installations d’intérêt public destinées à l’utilisation de la géothermie ou d’hydrocarbures, au stockage de l’énergie ou à l’utilisation et à la distribution des rejets de chaleur, les cantons peuvent procéder à des expropriations ou confier ce droit à des tiers.
 
-<sup>2</sup> Les cantons peuvent déclarer applicable la loi fédérale du 20 juin 1930 sur l’expropriation[^69-1]. ...[^69-2]
+<sup>2</sup> Les cantons peuvent déclarer applicable la loi fédérale du 20 juin 1930 sur l’expropriation[^69-1]. …[^69-2]
 
 <sup>3</sup> Lorsque les installations visées à l’al. 1 s’étendent sur le territoire de plusieurs cantons, il est possible de demander l’application de la loi fédérale du 20 juin 1930 sur l’expropriation.
 
@@ -1118,7 +1242,7 @@ Toute personne chargée de la mise en œuvre de la présente loi est soumise au 
 Est puni d’une amende de 100 000 francs au plus quiconque, intentionnellement:
 
 - a. enfreint les dispositions relatives à la garantie d’origine, à la comptabilité électrique et au marquage (art. 9);
-- b. fournit des renseignements erronés ou incomplets dans le cadre du système de rétribution de l’injection (art. 19) ou de la rétribution unique (art. 25) ou des contributions d’investissement (art. 26 et 27);
+- b.[^70-1] fournit des renseignements erronés ou incomplets dans le cadre du système de rétribution de l’injection (art. 19) ou des contributions d’investissement (art. 25 à 27*b*);
 - c. fournit des renseignements erronés ou incomplets en lien avec la prime de marché rétribuant l’électricité produite par de grandes installations hydroélectriques (art. 30 et 31);
 - d. fournit des renseignements erronés ou incomplets dans le cadre de la perception du supplément (art. 35), de son remboursement (art. 39 à 43) ou en relation avec la convention d’objectifs conclue en vue du remboursement du supplément (art. 40, let. a, et 41);
 - e. enfreint des dispositions relatives aux installations, véhicules et appareils fabriqués en série (art. 44);
@@ -1126,6 +1250,8 @@ Est puni d’une amende de 100 000 francs au plus quiconque, intentionnellement:
 - g. enfreint une disposition d’exécution dont la violation est déclarée punissable ou contrevient à une décision qui lui a été signifiée sous la menace de la peine prévue dans le présent article.
 
 <sup>2</sup> Si l’auteur agit par négligence, il est puni d’une amende de 20 000 francs au plus.
+
+[^70-1]: Nouvelle teneur selon le ch. I de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
 
 #### Art. 71
 
@@ -1231,23 +1357,22 @@ Lorsqu’un exploitant a reçu une décision positive garantissant l’octroi d�
 
 **Dispositions transitoires relatives aux autres affectations du supplément**
 
-<sup>1</sup> Si l’installation est déjà construite, la disposition de l’art. 28 relative aux débuts des travaux ne s’applique pas aux ayants droit visés aux art. 26 et 27 qui ont reçu un avis de mise en liste d’attente antérieur à l’entrée en vigueur de la présente loi.
-
-<sup>2</sup> L’art. 24, al. 3, ne s’applique pas aux ayants droit visés aux art. 25, 26 ou 27, qui ont reçu un avis de mise en liste d’attente le 31 juillet 2013 au plus tard.
+<sup>1</sup> et <sup>2</sup> …[^73-1]
 
 <sup>3</sup> Quiconque a reçu, entre le 1<sup>er</sup> août 2013 et l’entrée en vigueur de la présente loi, une décision de principe contraignante quant à l’octroi d’une caution couvrant à hauteur de 50 % des coûts d’investissement les risques des installations géothermiques, peut demander auprès de l’OFEN, pendant une période de six mois au plus à compter de l’entrée en vigueur de la présente loi, un réexamen de ladite décision de principe fondé sur le nouveau droit. Nul ne peut prétendre à une augmentation de la garantie.
 
 <sup>4</sup>
 
-En ce qui concerne les contrats existants liant les gestionnaires de réseau à des producteurs indépendants pour la reprise d’électricité produite par des installations utilisant des énergies renouvelables (financement des frais[^73-1] supplémentaires), les conditions de raccordement prévues à l’art. 7 de l’ancien droit, dans la teneur du 26 juin 1998[^73-2], sont applicables:
+En ce qui concerne les contrats existants liant les gestionnaires de réseau à des producteurs indépendants pour la reprise d’électricité produite par des installations utilisant des énergies renouvelables (financement des frais[^73-2] supplémentaires), les conditions de raccordement prévues à l’art. 7 de l’ancien droit, dans la teneur du 26 juin 1998[^73-3], sont applicables:
 
 - a. jusqu’au 31 décembre 2035 pour les installations hydroélectriques;
 - b. jusqu’au 31 décembre 2025 pour toutes les autres installations.
 
 <sup>5</sup> S’agissant des contrats au sens de l’al. 4 qui portent sur la reprise de l’électricité produite par les centrales hydroélectriques, l’ElCom peut réduire dans certains cas la rétribution de manière appropriée, lorsqu’il existe un décalage manifeste entre le prix de reprise et le coût de revient.
 
-[^73-1]: Rectifié par la CdR de l’Ass. féd. (art. 58, al. 1, LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
-[^73-2]: [RO 1999 197](https://fedlex.data.admin.ch/eli/oc/1999/27)
+[^73-1]: Abrogés par le ch. I de la LF du 1<sup>er</sup> oct. 2021, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^73-2]: Rectifié par la CdR de l’Ass. féd. (art. 58, al. 1, LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^73-3]: [RO 1999 197](https://fedlex.data.admin.ch/eli/oc/1999/27)
 
 #### Art. 74
 
@@ -1271,11 +1396,24 @@ Pour les consommateurs finaux qui ont conclu une convention d’objectifs selon 
 
 #### Art. 75a
 
-**Disposition transitoire relative à la modification du 30 septembre 2022 (obligation d’utiliser l’énergie solaire pour les bâtiments)**[^75a-1]
+**Dispositions transitoires relatives aux contributions d’investissement ainsi qu’aux contributions à la recherche de ressources géothermiques et aux garanties pour la géothermie**[^75a-1]
+
+<sup>1</sup> Lorsque l’exploitant d’une installation a reçu, avant l’entrée en vigueur de la modification du 1<sup>er</sup> octobre 2021, une décision de garantie de principe lui confirmant l’octroi d’une rétribution unique, pour les installations photovoltaïques, ou d’une contribution d’investissement, pour les installations hydroélectriques ou les installations de biomasse, il continue d’y avoir droit. Les dispositions du chapitre 5 de l’ancien droit sont applicables dans la version du 30 septembre 2016[^75a-2].
+
+<sup>2</sup> Les demandes complètes de contribution d’investissement pour les installations hydroélectriques d’une puissance supérieure à 10 MW qui ont été déposées au plus tard le dernier jour de référence précédant l’entrée en vigueur de la modification du 1<sup>er</sup> octobre 2021 sont évaluées selon les dispositions du chapitre 5 de l’ancien droit dans la version du 30 septembre 2016.
+
+<sup>3</sup> Quiconque a déposé, avant l’entrée en vigueur de la modification du 1<sup>er</sup> octobre 2021, une demande de contribution à la recherche de ressources géothermiques ou une demande de garantie pour la géothermie en vertu de l’art. 33 de l’ancien droit dans la version du 30 septembre 2016 ou a déjà conclu un contrat correspondant, peut demander à l’OFEN, dans les six mois qui suivent l’entrée en vigueur de cette modification, une contribution d’investissement au sens de l’art. 27*b*, al. 1, let. b, en remplacement de la contribution à la recherche de ressources géothermiques ou de la garantie pour la géothermie.
+
+[^75a-1]: Introduit par le ch. I de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^75a-2]: [RO 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762)
+
+#### Art. 75b
+
+**Disposition transitoire relative à la modification du 30 septembre 2022 (obligation d’utiliser l’énergie solaire pour les bâtiments)**[^75b-1]
 
 Les cantons édictent les exceptions visées à l’art. 45*a*, al. 2, d’ici au 1<sup>er</sup> janvier 2023. Les demandes déposées avant cette date ne sont pas soumises à l’obligation prévue à l’art. 45*a*, al. 1.
 
-[^75a-1]: Introduit par le ch. I de la LF du 30 sept. 2022 (Mesures urgentes visant à assurer rapidement l’approvisionnement en électricité pendant l’hiver), en vigueur du 1<sup>er</sup> oct. 2022 au 31 déc. 2025 ([RO 2022 543](https://fedlex.data.admin.ch/eli/oc/2022/543); [FF 2022 1536](https://fedlex.data.admin.ch/eli/fga/2022/1536), [1540](https://fedlex.data.admin.ch/eli/fga/2022/1540)).
+[^75b-1]: Introduit par le ch. I de la LF du 30 sept. 2022 (Mesures urgentes visant à assurer rapidement l’approvisionnement en électricité pendant l’hiver), en vigueur du 1<sup>er</sup> oct. 2022 au 31 déc. 2025 ([RO 2022 543](https://fedlex.data.admin.ch/eli/oc/2022/543), ici art. 75*a*; [FF 2022 1536](https://fedlex.data.admin.ch/eli/fga/2022/1536), [1540](https://fedlex.data.admin.ch/eli/fga/2022/1540)).
 
 #### Art. 76
 

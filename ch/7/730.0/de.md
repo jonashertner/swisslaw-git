@@ -4,11 +4,11 @@ title: Energiegesetz vom 30. September 2016 (EnG)
 short: EnG
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/762"
 language: de
-version: 2022-10-01
+version: 2023-01-01
 adopted: 2016-09-30
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/762/20221001/de/xml/fedlex-data-admin-ch-eli-cc-2017-762-20221001-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/762/20221001/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/762/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2017-762-20230101-de-xml-11.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/762/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/762/20221001/de"
 
 (EnG)
 
-vom 30. September 2016 (Stand am 1. Oktober 2022)
+vom 30. September 2016 (Stand am 1. Januar 2023)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -228,7 +228,9 @@ Können sich Netzbetreiber und Produzent über die Vergütung nicht einigen, so 
 - b. Für Elektrizität aus fossil und teilweise fossil befeuerten Wärme-Kraft-Kopplungsanlagen richtet sie sich nach dem Marktpreis im Zeitpunkt der Einspeisung.
 - c. Bei Biogas orientiert sie sich am Preis, den der Netzbetreiber für den Kauf bei einem Dritten zu bezahlen hätte.
 
-<sup>4</sup> Dieser Artikel gilt auch, wenn die Produzenten eine Einmalvergütung (Art. 25) oder einen Investitionsbeitrag nach Artikel 26 oder 27 in Anspruch nehmen. Er gilt nicht, solange die Produzenten am Einspeisevergütungssystem (Art. 19) teilnehmen.
+<sup>4</sup> Die Absätze 1–3 gelten nicht, solange die Produzenten am Einspeisevergütungssystem (Art. 19) teilnehmen.[^15-1]
+
+[^15-1]: Fassung gemäss Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2023 ([AS 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [BBl 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
 
 #### Art. 16
 
@@ -236,7 +238,9 @@ Können sich Netzbetreiber und Produzent über die Vergütung nicht einigen, so 
 
 <sup>1</sup> Die Betreiber von Anlagen dürfen die selbst produzierte Energie am Ort der Produktion ganz oder teilweise selber verbrauchen. Sie dürfen die selbst produzierte Energie auch zum Verbrauch am Ort der Produktion ganz oder teilweise veräussern. Beides gilt als Eigenverbrauch. Der Bundesrat erlässt Bestimmungen zur Definition und Eingrenzung des Orts der Produktion.
 
-<sup>2</sup> Absatz 1 gilt auch für Betreiber von Anlagen, die am Einspeisevergütungssystem (Art. 19) teilnehmen, eine Einmalvergütung (Art. 25) oder einen Investitionsbeitrag nach Artikel 26 oder 27 in Anspruch nehmen.
+<sup>2</sup> Absatz 1 gilt auch für Betreiber von Anlagen, die am Einspeisevergütungssystem (Art. 19) teilnehmen oder einen Investitionsbeitrag nach dem 5. Kapitel oder einen Betriebskostenbeitrag (Art. 33*a*) in Anspruch nehmen.[^16-1]
+
+[^16-1]: Fassung gemäss Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2023 ([AS 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [BBl 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
 
 #### Art. 17
 
@@ -305,7 +309,7 @@ Die Betreiber von Wasserkraftanlagen, die mit Trinkwasserversorgungs- oder Abwas
 - a. innerhalb von bereits genutzten Gewässerstrecken liegen; oder
 - b. mit keinen neuen Eingriffen in natürliche Gewässer verbunden sind.
 
-<sup>6</sup> Der Bundesrat kann die Leistungsgrenze nach Absatz 4 Buchstabe b zusammen mit derjenigen für die Einmalvergütung erhöhen (Art. 24 Abs. 1 Bst. a). Gibt es eine Überschneidung, so können die Anlagebetreiber zwischen Einspeisevergütungssystem und Einmalvergütung wählen.
+<sup>6</sup> Der Bundesrat kann die Leistungsgrenze nach Absatz 4 Buchstabe b erhöhen. Gibt es eine Überschneidung mit der Einmalvergütung, so können die Anlagebetreiber zwischen Einspeisevergütung und Einmalvergütung wählen.[^19-2]
 
 <sup>7</sup>
 
@@ -320,6 +324,7 @@ Er regelt die weiteren Einzelheiten zum Einspeisevergütungssystem, insbesondere
 - g. weitere Aufgaben der Bilanzgruppen und der Netzbetreiber, insbesondere eine Pflicht zur Abnahme und Vergütung im Rahmen von Artikel 21 sowie eine allfällige damit zusammenhängende Vorleistungspflicht.
 
 [^19-1]: Berichtigt von der Redaktionskommission der BVers (Art. 58 Abs. 1 ParlG; [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^19-2]: Fassung gemäss Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2023 ([AS 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [BBl 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
 
 #### Art. 20
 
@@ -369,73 +374,142 @@ Der Bundesrat erlässt Ausführungsbestimmungen, insbesondere über:
 
 <sup>2</sup> Der Bundesrat regelt die Festlegung des Referenz-Marktpreises für die einzelnen Anlagetypen. Der für die Mittelung massgebliche Zeitraum soll umso länger sein, je besser die Produktion zeitlich steuerbar ist.
 
-## 5. Kapitel: Investitionsbeitrag für Photovoltaik-, Wasserkraft- und Biomasseanlagen
+## 5. Kapitel: Investitionsbeitrag für Photovoltaik-, Wasserkraft-, Biomasse-, Windenergie- und Geothermieanlagen
+
+[^chap5-1]
+
+[^chap5-1]: Fassung gemäss Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2023 ([AS 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [BBl 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
 
 #### Art. 24
 
-**Allgemeine Voraussetzungen und Zahlungsmodalitäten**
+**Grundsätze**[^24-1]
 
-<sup>1</sup>
+Für Anlagen zur Erzeugung von Elektrizität aus erneuerbaren Energien kann, soweit die Mittel reichen (Art. 35 und 36), gestützt auf die Bestimmungen dieses Kapitels ein Investitionsbeitrag in Anspruch genommen werden.
 
-Die Betreiber der folgenden Anlagen können, sofern die Mittel reichen (Art. 35 und 36), einen Investitionsbeitrag in Anspruch nehmen:
-
-- a. Photovoltaikanlagen: für neue Anlagen mit einer Leistung von weniger als 30 kW und für erhebliche Erweiterungen oder Erneuerungen solcher Anlagen; der Bundesrat kann eine höhere Leistungsobergrenze festlegen;
-- b.
-
-  Wasserkraftanlagen, ausgenommen Pumpspeicherkraftwerke:
-
-  - 1\. für Neuanlagen mit einer Leistung von mehr als 10 MW,
-  - 2\. für erhebliche Erweiterungen oder Erneuerungen von bestehenden Anlagen mit einer Leistung von mindestens 300 kW;
-
-- c. Biomasseanlagen: für neue Kehrichtverbrennungs- und neue Klärgasanlagen sowie für neue Holzkraftwerke von regionaler Bedeutung und für erhebliche Erweiterungen oder Erneuerungen solcher Anlagen.
-
-<sup>2</sup> Die Ausnahmen für Wasserkraftanlagen nach Artikel 19 Absatz 5 gelten auch im Rahmen dieses Kapitels.
-
-<sup>3</sup> Die Betreiber können nur einen Investitionsbeitrag in Anspruch nehmen, wenn die neue Anlage oder die erheblich erweiterte oder erneuerte Anlage nach dem 1. Januar 2013 in Betrieb genommen worden ist.
-
-<sup>4</sup> Die Betreiber von Photovoltaikanlagen erhalten den Investitionsbeitrag als einmalige Zahlung (Einmalvergütung). Für die Betreiber von Wasserkraft- und Biomasseanlagen kann der Bundesrat eine gestaffelte Auszahlung vorsehen.
+[^24-1]: Fassung gemäss Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2023 ([AS 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [BBl 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
 
 #### Art. 25
 
-**Einmalvergütung für Photovoltaikanlagen**
+**Investitionsbeitrag für Photovoltaikanlagen**[^25-1]
 
-<sup>1</sup> Die Einmalvergütung für Photovoltaikanlagen nach Artikel 24 Absatz 1 Buchstabe a beträgt höchstens 30 Prozent der bei der Inbetriebnahme massgeblichen Investitionskosten von Referenzanlagen.
+<sup>1</sup> Für die Erstellung neuer Photovoltaikanlagen und die erhebliche Erweiterung von Photovoltaikanlagen kann ein Investitionsbeitrag (Einmalvergütung) in Anspruch genommen werden.
 
-<sup>2</sup> Der Bundesrat legt die Ansätze fest; er kann Kategorien bilden.
+<sup>2</sup> Die Einmalvergütung beträgt höchstens 30 Prozent der bei der Inbetriebnahme massgeblichen Investitionskosten von Referenzanlagen.
+
+<sup>3</sup> Für Anlagen, die die gesamte produzierte Elektrizität einspeisen, kann die Einmalvergütung in Abweichung von Absatz 2 bis zu 60 Prozent der bei der Inbetriebnahme massgeblichen Investitionskosten von Referenzanlagen betragen.
+
+[^25-1]: Fassung gemäss Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2023 ([AS 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [BBl 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+
+#### Art. 25a
+
+**Auktionen für die Einmalvergütung**[^25a-1]
+
+<sup>1</sup> Für die Erstellung neuer Photovoltaikanlagen ohne Eigenverbrauch ab einer Leistung von 150 kW kann der Bundesrat vorsehen, dass die Höhe der Einmalvergütung durch Auktionen bestimmt wird. Sie darf die Investitionsbeiträge nach Artikel 25 nicht übersteigen.
+
+<sup>2</sup> Der Vergütungssatz pro Kilowatt Leistung ist das Hauptkriterium für den Zuschlag. Der Bundesrat kann weitere Kriterien vorsehen.
+
+<sup>3</sup> Der Bundesrat kann vorsehen, dass eine Sicherheitsleistung von bis zu 10 Prozent dessen zu hinterlegen ist, was die Einmalvergütung für die gesamte gebotene Leistung betragen würde, und deren Verwendung regeln.
+
+<sup>4</sup>
+
+Er kann Sanktionen von bis zu 10 Prozent dessen vorsehen, was die Einmalvergütung für die gesamte gebotene Leistung betragen würde, insbesondere für den Fall, dass ein Projekt:
+
+- a. nicht innerhalb der gesetzten Frist realisiert wird;
+- b. die im Angebot, für das die Auktionsteilnehmerin oder der Auktionsteilnehmer den Zuschlag erhalten hat, zugesicherten Ziele nicht oder nur teilweise erreicht;
+- c. die im Angebot, für das die Auktionsteilnehmerin oder der Auktionsteilnehmer den Zuschlag erhalten hat, zugesicherten Eigenschaften nicht oder nur teilweise aufweist.
+
+[^25a-1]: Eingefügt durch Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2023 ([AS 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [BBl 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
 
 #### Art. 26
 
-**Investitionsbeitrag für Wasserkraftanlagen**
+**Investitionsbeitrag für Wasserkraftanlagen**[^26-1]
 
-<sup>1</sup> Der Investitionsbeitrag für Wasserkraftanlagen nach Artikel 24 Absatz 1 Buchstabe b wird im Einzelfall bestimmt. Er beträgt für Wasserkraftanlagen mit einer Leistung von bis zu 10 MW höchstens 60 Prozent der anrechenbaren Investitionskosten, für Wasserkraftanlagen mit einer Leistung von mehr als 10 MW höchstens 40 Prozent.
+<sup>1</sup>
 
-<sup>2</sup> Der Bundesrat legt die Bemessungskriterien und Ansätze fest. Er kann für erhebliche Erweiterungen oder Erneuerungen unterhalb einer bestimmten Schwelle Ansätze nach dem Referenzanlagenprinzip festlegen.
+Ein Investitionsbeitrag kann in Anspruch genommen werden für:
+
+- a. die Erstellung neuer Wasserkraftanlagen mit einer Leistung von mindestens 1 MW;
+- b. erhebliche Erweiterungen von Anlagen, die nach der Erweiterung eine Leistung von mindestens 300 kW aufweisen;
+- c. erhebliche Erneuerungen von Anlagen, die nach der Erneuerung eine Leistung von mindestens 300 kW aufweisen.
+
+<sup>2</sup> Kein Anspruch auf einen Investitionsbeitrag besteht für den Anteil der Anlage, der dem Umwälzbetrieb dient. Der Bundesrat kann Ausnahmen vorsehen, wenn ein ausgewiesener Bedarf an zusätzlichen Speicherkapazitäten besteht, um erneuerbare Energien integrieren zu können.
+
+<sup>3</sup>
+
+Der Investitionsbeitrag beträgt:
+
+- a. höchstens 60 Prozent der anrechenbaren Investitionskosten: für Anlagen nach Absatz 1 Buchstaben a und b;
+- b. höchstens 40 Prozent der anrechenbaren Investitionskosten: für Anlagen nach Absatz 1 Buchstabe c.
+
+<sup>4</sup> Die Leistungsuntergrenzen nach Absatz 1 gelten nicht für Nebennutzungsanlagen.
+
+<sup>5</sup>
+
+Der Bundesrat kann weitere Wasserkraftanlagen von den Leistungsuntergrenzen nach Absatz 1 ausnehmen, sofern sie:
+
+- a. innerhalb von bereits genutzten Gewässerstrecken liegen; oder
+- b. mit keinen neuen Eingriffen in natürliche oder ökologisch wertvolle Gewässer verbunden sind.
+
+[^26-1]: Fassung gemäss Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2023 ([AS 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [BBl 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
 
 #### Art. 27
 
-**Investitionsbeitrag für Biomasseanlagen**
+**Investitionsbeitrag für Biomasseanlagen**[^27-1]
 
-<sup>1</sup> Der Investitionsbeitrag für Biomasseanlagen nach Artikel 24 Absatz 1 Buchstabe c wird im Einzelfall bestimmt. Er beträgt höchstens 20 Prozent der anrechenbaren Investitionskosten.
+<sup>1</sup> Für die Erstellung neuer Biomasseanlagen und erhebliche Erweiterungen oder Erneuerungen von Biomasseanlagen kann ein Investitionsbeitrag in Anspruch genommen werden.
 
-<sup>2</sup> Der Bundesrat legt die Bemessungskriterien und Ansätze fest. Er kann für Investitionen in Klärgasanlagen unterhalb einer bestimmten Schwelle Ansätze nach dem Referenzanlagenprinzip festlegen.
+<sup>2</sup> Er beträgt höchstens 60 Prozent der anrechenbaren Investitionskosten.
+
+<sup>3</sup> Für Anlagen, die teilweise fossile Brenn- oder Treibstoffe nutzen, kann kein Investitionsbeitrag in Anspruch genommen werden.
+
+[^27-1]: Fassung gemäss Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2023 ([AS 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [BBl 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+
+#### Art. 27a
+
+**Investitionsbeitrag für Windenergieanlagen**[^27a-1]
+
+<sup>1</sup> Für die Erstellung neuer Windenergieanlagen mit einer Leistung von mindestens 2 MW kann ein Investitionsbeitrag in Anspruch genommen werden.
+
+<sup>2</sup> Er beträgt höchstens 60 Prozent der anrechenbaren Investitionskosten.
+
+[^27a-1]: Eingefügt durch Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2023 ([AS 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [BBl 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+
+#### Art. 27b
+
+**Investitionsbeiträge für Geothermieanlagen**[^27b-1]
+
+<sup>1</sup>
+
+Ein Investitionsbeitrag kann in Anspruch genommen werden für:
+
+- a. die Prospektion von geothermischen Ressourcen;
+- b. die Erschliessung von geothermischen Ressourcen;
+- c. die Erstellung neuer Geothermieanlagen.
+
+<sup>2</sup> Jeder Beitrag beträgt höchstens 60 Prozent der anrechenbaren Investitionskosten.
+
+[^27b-1]: Eingefügt durch Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2023 ([AS 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [BBl 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
 
 #### Art. 28
 
 **Baubeginn**
 
-<sup>1</sup> Wer einen Investitionsbeitrag nach Artikel 26 oder 27 in Anspruch nehmen will, darf mit den Bau-, Erweiterungs- oder Erneuerungsarbeiten erst beginnen, nachdem das BFE eine Zusicherung abgegeben hat. Das BFE kann einen früheren Baubeginn bewilligen.
+<sup>1</sup> Wer beabsichtigt, einen Investitionsbeitrag nach den Artikeln 26–27*b* in Anspruch zu nehmen, darf mit den Bau-, Erweiterungs- oder Erneuerungsarbeiten erst beginnen, nachdem das BFE eine Zusicherung abgegeben hat. Das BFE kann einen früheren Baubeginn bewilligen.[^28-1]
 
-<sup>2</sup> Wer ohne Zusicherung oder ohne Bewilligung eines früheren Baubeginns mit den Bau-, Erweiterungs- oder Erneuerungsarbeiten einer Wasserkraft- oder einer Biomasseanlage beginnt, erhält keinen Investitionsbeitrag nach Artikel 26 oder 27.
+<sup>2</sup> Wer ohne Zusicherung und ohne Bewilligung eines früheren Baubeginns mit den Bau-, Erweiterungs- oder Erneuerungsarbeiten einer Anlage beginnt, erhält keinen solchen Investitionsbeitrag.[^28-2]
 
 <sup>3</sup> Der Bundesrat kann diese Regeln auf die Einmalvergütung für Photovoltaikanlagen ab einer bestimmten Leistung ausdehnen.
 
+[^28-1]: Fassung gemäss Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2023 ([AS 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [BBl 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^28-2]: Fassung gemäss Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2023 ([AS 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [BBl 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+
 #### Art. 29
 
-**Bedingungen und Einzelheiten**
+**Einzelheiten[^29-1]**
 
 <sup>1</sup>
 
-Der Bundesrat regelt die Einzelheiten für die Einmalvergütung und für die Investitionsbeiträge nach den Artikeln 26 und 27, insbesondere:
+Der Bundesrat regelt die Einzelheiten für die Investitionsbeiträge nach diesem Kapitel, insbesondere:[^29-2]
 
 - a. das Antragsverfahren;
 - b. die Ansätze für die Einmalvergütung und für die Investitionsbeiträge, einschliesslich der anrechenbaren Kosten, wobei er für die verschiedenen Technologien unterschiedliche Berechnungsmethoden vorsehen kann;
@@ -443,19 +517,32 @@ Der Bundesrat regelt die Einzelheiten für die Einmalvergütung und für die Inv
 - d. die Kriterien, anhand derer beurteilt wird, ob eine Erweiterung oder Erneuerung einer Anlage erheblich ist;
 - e. die Kriterien, anhand derer Neuanlagen von erheblichen Erweiterungen oder Erneuerungen unterschieden werden.
 
-<sup>2</sup> Bei der Festlegung der Ansätze und bei deren allfälliger Anpassung ist sicherzustellen, dass die Einmalvergütung und die Investitionsbeiträge die nicht amortisierbaren Mehrkosten nicht übersteigen. Die nicht amortisierbaren Mehrkosten ergeben sich aus der Differenz zwischen den kapitalisierten Gestehungskosten für die Elektrizitätsproduktion und dem erzielbaren kapitalisierten Marktpreis.
+<sup>2</sup> Bei der Festlegung der Ansätze orientiert sich der Bundesrat an den ungedeckten Kosten für die Erstellung neuer Anlagen oder die Erweiterung oder Erneuerung bestehender Anlagen.[^29-3]
 
 <sup>3</sup>
 
-Der Bundesrat kann ausserdem vorsehen:
+Der Bundesrat kann zudem insbesondere vorsehen:[^29-4]
 
 - a. energetische, ökologische und andere Mindestanforderungen;
 - b. die Anforderungen an den Betrieb und die Betriebstüchtigkeit der Anlagen;
+- b<sup>bis</sup>.[^29-5] eine konkrete Prüfung und Beurteilung einzelner Gesuche, wenn Anhaltspunkte vorliegen, dass bei einer Anlage keine ungedeckten Kosten vorliegen;
 - c. eine Rückforderung der Einmalvergütung oder der Investitionsbeiträge, namentlich wenn die Bedingungen des Energiemarktes zu einer übermässigen Rentabilität führen;
 - d. die für eine Einmalvergütung nötige Mindestgrösse einer Anlage;
 - e. Höchstbeiträge;
 - f. einen Ausschluss oder eine Kürzung der Einmalvergütung oder der Investitionsbeiträge, wenn anderweitig eine Finanzhilfe ausgerichtet wurde;
-- g. eine Mindestdauer, während der ein Betreiber für eine Anlage, für die er schon eine Einmalvergütung oder einen Investitionsbeitrag erhalten hat, nicht erneut eine solche oder einen solchen in Anspruch nehmen kann.
+- g. eine Mindestdauer, während der ein Betreiber für eine Anlage, für die er schon eine Einmalvergütung oder einen Investitionsbeitrag erhalten hat, nicht erneut eine solche oder einen solchen in Anspruch nehmen kann;
+- h.[^29-6] unterschiedliche Kategorien innerhalb der einzelnen Technologien;
+- i.[^29-7] Ansätze nach dem Referenzanlagenprinzip für Investitionsbeiträge nach den Artikeln 26–27*b* bei bestimmten Leistungsklassen;
+- j.[^29-8] die Pflicht für Projektanten, die einen Investitionsbeitrag nach diesem Kapitel erhalten, dem Bund Daten und Informationen, die im öffentlichen Interesse stehen, zur Verfügung zu stellen.
+
+[^29-1]: Fassung gemäss Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2023 ([AS 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [BBl 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^29-2]: Fassung gemäss Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2023 ([AS 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [BBl 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^29-3]: Fassung gemäss Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2023 ([AS 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [BBl 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^29-4]: Fassung gemäss Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2023 ([AS 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [BBl 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^29-5]: Eingefügt durch Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2023 ([AS 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [BBl 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^29-6]: Eingefügt durch Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2023 ([AS 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [BBl 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^29-7]: Eingefügt durch Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2023 ([AS 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [BBl 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^29-8]: Eingefügt durch Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2023 ([AS 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [BBl 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
 
 ## 6. Kapitel: Besondere Unterstützungsmassnahmen
 
@@ -477,12 +564,15 @@ Der Bundesrat regelt die Einzelheiten, insbesondere:
 - b. eine allfällige Berücksichtigung weiterer relevanter Erlöse;
 - c. die anrechenbaren Kosten und deren Ermittlung;
 - d. eine allfällige Delegation an das BFE zur näheren Bestimmung der gesamten Erlöse und Kosten, einschliesslich der Kapitalkosten;
-- e. die Abgrenzung zum Investitionsbeitrag für erhebliche Erweiterungen oder Erneuerungen (Art. 24 Abs. 1 Bst. b Ziff. 2);
+- e.[^30-1] die Abgrenzung zum Investitionsbeitrag für erhebliche Erweiterungen (Art. 26 Abs. 1 Bst. b);
 - f. das Verfahren, einschliesslich der einzureichenden Unterlagen, die Auszahlungsmodalitäten und die Zusammenarbeit zwischen dem BFE und der Eidgenössischen Elektrizitätskommission (ElCom);
 - g. Offenlegungspflichten von nicht selber anspruchsberechtigten Betreibern und Eignern;
 - h. die spätere ganze oder teilweise Rückforderung der Marktprämie, insbesondere wegen unrichtiger oder unvollständiger Angaben.
 
-<sup>5</sup> Der Bundesrat unterbreitet der Bundesversammlung bis 2019 einen Erlassentwurf für die Einführung eines marktnahen Modells bis spätestens zum Zeitpunkt des Auslaufens der Unterstützungen für das Einspeisevergütungssystem.
+<sup>5</sup> …[^30-2]
+
+[^30-1]: Fassung gemäss Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2023 ([AS 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [BBl 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^30-2]: Aufgehoben durch Ziff. I des BG vom 1. Okt. 2021, mit Wirkung seit 1. Jan. 2023 ([AS 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [BBl 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
 
 #### Art. 31
 
@@ -510,15 +600,43 @@ Der Bundesrat sieht wettbewerbliche Ausschreibungen für Effizienzmassnahmen vor
 
 #### Art. 33
 
-**Geothermie-Erkundungsbeiträge und Geothermie-Garantien**
+**Geothermie-Garantien**[^33-1]
 
-<sup>1</sup> An die Kosten für die Erkundung von geothermischen Ressourcen zur Produktion von Elektrizität können Beiträge geleistet werden. Deren Höhe beträgt höchstens 60 Prozent der anrechenbaren Investitionskosten.
+<sup>1</sup> Zur Risikoabsicherung von Investitionen im Rahmen der Prospektion und der Erschliessung von geothermischen Ressourcen sowie der Errichtung von Geothermieanlagen zur Produktion von Elektrizität können Garantien geleistet werden. Ihre Höhe beträgt höchstens 60 Prozent der anrechenbaren Investitionskosten.
 
-<sup>2</sup> Zur Risikoabsicherung von Investitionen im Rahmen der Erkundung von geothermischen Ressourcen und der Errichtung von Geothermie-Anlagen zur Produktion von Elektrizität können Garantien geleistet werden. Deren Höhe beträgt höchstens 60 Prozent der anrechenbaren Investitionskosten.
+<sup>2</sup> Für ein Geothermieprojekt kann nicht gleichzeitig eine Garantie nach Absatz 1 und ein Beitrag nach Artikel 27*b* Absatz 1 in Anspruch genommen werden.
 
-<sup>3</sup> Für die Erkundung von geothermischen Ressourcen kann entweder der Beitrag oder die Garantie in Anspruch genommen werden.
+<sup>3</sup> Der Bundesrat regelt die Einzelheiten, insbesondere die anrechenbaren Investitionskosten und das Verfahren.
 
-<sup>4</sup> Der Bundesrat regelt die Einzelheiten, insbesondere die anrechenbaren Investitionskosten und das Verfahren.
+[^33-1]: Fassung gemäss Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2023 ([AS 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [BBl 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+
+#### Art. 33a
+
+**Betriebskostenbeitrag für Biomasseanlagen**[^33a-1]
+
+<sup>1</sup> Für Biomasseanlagen kann, soweit die Mittel reichen (Art. 35 und 36), ein Beitrag für die Betriebskosten in Anspruch genommen werden.
+
+<sup>2</sup> Der Betriebskostenbeitrag bestimmt sich nach dem Beitragssatz abzüglich des Referenz-Marktpreises und wird pro Kilowattstunde eingespeiste Elektrizität entrichtet.
+
+<sup>3</sup> Der Bundesrat legt die Höhe des Beitragssatzes je Kategorie und Leistungsklasse fest; er orientiert sich dabei an den Betriebskosten von Referenzanlagen und berücksichtigt mögliche Erlöse. Der Beitragssatz kann den Verhältnissen angepasst werden.
+
+<sup>4</sup>
+
+Der Bundesrat kann zudem insbesondere vorsehen:
+
+- a. energetische, ökologische und andere Mindestanforderungen;
+- b. Höchstbeiträge;
+- c. den Ausschluss von Anlagen, deren Betriebskosten anderweitig gedeckt werden können.
+
+<sup>5</sup>
+
+Kein Betriebskostenbeitrag kann in Anspruch genommen werden für:
+
+- a. Verbrennungsanlagen für Siedlungsabfälle (Kehrichtverbrennungsanlagen);
+- b. Schlammverbrennungs-, Klärgas- und Deponiegasanlagen;
+- c. Anlagen, die teilweise fossile Brenn- oder Treibstoffe nutzen.
+
+[^33a-1]: Eingefügt durch Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2023 ([AS 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [BBl 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
 
 #### Art. 34
 
@@ -546,22 +664,26 @@ Mit dem Netzzuschlag werden finanziert:
 - a. die Einspeiseprämie nach Artikel 21 im Einspeisevergütungssystem und die damit verbundenen Abwicklungskosten;
 - b. die nicht durch Marktpreise gedeckten Kosten für Einspeisevergütungen nach bisherigem Recht;
 - c. die nicht durch Marktpreise gedeckten Kosten für die Mehrkosten-Vergütungen nach Artikel 73 Absatz 4;
-- d. die Einmalvergütung nach Artikel 25 und die Investitionsbeiträge nach den Artikeln 26 und 27;
-- d<sup>bis</sup>.[^35-1] die Einmalvergütung nach Artikel 71*a* Absatz 4;
+- d.[^35-1] die Investitionsbeiträge nach dem 5. Kapitel;
+- d<sup>bis</sup>.[^35-2] die Einmalvergütung nach Artikel 71*a* Absatz 4;
 - e. die Marktprämie für Elektrizität aus Grosswasserkraftanlagen nach Artikel 30;
 - f. die Kosten der wettbewerblichen Ausschreibungen nach Artikel 32;
-- g. die Geothermie-Erkundungsbeiträge und die Verluste aus Geothermie-Garantien nach Artikel 33;
+- g.[^35-3] die Verluste aus Geothermie-Garantien nach Artikel 33;
 - h. die Entschädigung nach Artikel 34;
+- h<sup>bis</sup>.[^35-4] die Betriebskostenbeiträge nach Artikel 33*a*;
 - i. die jeweiligen Vollzugskosten, insbesondere die notwendigen Kosten der Vollzugsstelle;
 - j. die Kosten des BFE, die diesem aus seinen Aufgaben gegenüber der Vollzugsstelle entstehen.
 
 <sup>3</sup> Der Netzzuschlag beträgt höchstens 2,3 Rappen/kWh. Der Bundesrat legt ihn bedarfsgerecht fest.
 
-[^35-1]: Eingefügt durch Ziff. I des BG vom 30. Sept. 2022 (Dringliche Massnahmen zur kurzfristigen Bereitstellung einer sicheren Stromversorgung im Winter), in Kraft vom 1. Okt. 2022 bis zum 31. Dez. 2025 ([AS 2022 543](https://fedlex.data.admin.ch/eli/oc/2022/543); [BBl 2022 1536](https://fedlex.data.admin.ch/eli/fga/2022/1536), [1540](https://fedlex.data.admin.ch/eli/fga/2022/1540)).
+[^35-1]: Fassung gemäss Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2023 ([AS 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [BBl 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^35-2]: Eingefügt durch Ziff. I des BG vom 30. Sept. 2022 (Dringliche Massnahmen zur kurzfristigen Bereitstellung einer sicheren Stromversorgung im Winter), in Kraft vom 1. Okt. 2022 bis zum 31. Dez. 2025 ([AS 2022 543](https://fedlex.data.admin.ch/eli/oc/2022/543); [BBl 2022 1536](https://fedlex.data.admin.ch/eli/fga/2022/1536), [1540](https://fedlex.data.admin.ch/eli/fga/2022/1540)).
+[^35-3]: Fassung gemäss Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2023 ([AS 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [BBl 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^35-4]: Eingefügt durch Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2023 ([AS 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [BBl 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
 
 #### Art. 36
 
-**Begrenzung für einzelne Verwendungen und Warteliste**
+**Begrenzung für einzelne Verwendungen und Warteliste**[^36-1]
 
 <sup>1</sup>
 
@@ -572,17 +694,19 @@ Beim Einsatz der Mittel für die einzelnen Verwendungen sind die folgenden Höch
   ein Höchstanteil von je 0,1 Rappen/kWh für die:
 
   - 1\. wettbewerblichen Ausschreibungen,
-  - 2\. Geothermie-Erkundungsbeiträge und -Garantien,
+  - 2\. Geothermie-Investitionsbeiträge und -Garantien,
   - 3\. Entschädigung nach Artikel 34;
 
-- b. ein über die letzten fünf Jahre gemittelter Höchstanteil von je 0,1 Rappen/kWh für die Investitionsbeiträge nach Artikel 26 für Wasserkraftanlagen mit einer Leistung von mehr als 10 MW;
+- b. ein Höchstanteil von 0,2 Rappen/kWh für die Investitionsbeiträge nach Artikel 26 Absatz 1 für Wasserkraftanlagen mit einer Leistung von mehr als 10 MW;
 - c. ein Höchstanteil von 0,2 Rappen/kWh für die Marktprämie für Elektrizität aus Grosswasserkraftanlagen.
 
-<sup>2</sup> Das BFE legt jährlich die Mittel fest, die für die Betreiber von Photovoltaikanlagen eingesetzt werden, die am Einspeisevergütungssystem teilnehmen (Photovoltaik-Kontingent). Es strebt dabei einen kontinuierlichen Zubau an und trägt der Kostenentwicklung bei der Photovoltaik einerseits und bei den übrigen Technologien andererseits Rechnung. Es berücksichtigt überdies die Belastung der Elektrizitätsnetze sowie die Speichermöglichkeiten.
+<sup>2</sup> Das BFE legt jährlich die Mittel fest, die für Photovoltaikanlagen eingesetzt werden (Photovoltaik-Kontingent). Es kann auch für die übrigen Technologien Kontingente festlegen. Es strebt dabei einen kontinuierlichen Zubau an und trägt der Kostenentwicklung Rechnung.
 
-<sup>3</sup> Es kann auch für die Einmalvergütung für Photovoltaikanlagen ab einer bestimmten Leistung, für die Investitionsbeiträge für erhebliche Erweiterungen oder Erneuerungen an Wasserkraftanlagen mit einer Leistung von bis zu 10 MW und für die Investitionsbeiträge für sämtliche Biomasseanlagen die zur Verfügung stehenden Mittel festlegen (Kontingente), wenn dies nötig ist, um ein Missverhältnis zwischen diesen Kosten und denjenigen für das Einspeisevergütungssystem zu vermeiden.
+<sup>3</sup> Der Bundesrat regelt die Folgen der Begrenzungen nach diesem Artikel. Er kann für die Investitionsbeiträge nach dem 5. Kapitel Wartelisten vorsehen. Für deren Abbau kann er auch andere Kriterien als das Anmeldedatum vorsehen.
 
-<sup>4</sup> Der Bundesrat regelt die Folgen der Begrenzungen nach diesem Artikel. Er kann für das Einspeisevergütungssystem, für die Einmalvergütung für Photovoltaikanlagen ab einer bestimmten Leistung und für die Investitionsbeiträge nach den Artikeln 26 und 27 Wartelisten vorsehen. Für deren Abbau kann er auch andere Kriterien als das Anmeldedatum vorsehen.
+<sup>4</sup> Nicht beanspruchte Mittel aus Absatz 1 Buchstabe c werden im Folgejahr unter Berücksichtigung der Höchstanteile in Absatz 1 für andere Verwendungen nach Artikel 26 Absatz 1 Buchstaben b und c oder Artikel 34 eingesetzt.
+
+[^36-1]: Fassung gemäss Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2023 ([AS 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [BBl 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
 
 #### Art. 37
 
@@ -615,12 +739,20 @@ Neue Verpflichtungen werden nicht mehr eingegangen spätestens ab dem 1. Januar:
 
   des Jahres 2031 für:
 
-  - 1\. Einmalvergütung nach Artikel 25,
-  - 2\. Investitionsbeiträge nach den Artikeln 26 und 27,
+  - 1\.[^38-1] Einmalvergütungen nach den Artikeln 25 und 25*a*,
+  - 2\.[^38-2] Investitionsbeiträge nach den Artikeln 26–27*b*,
   - 3\. wettbewerbliche Ausschreibungen nach Artikel 32,
-  - 4\. Geothermie-Erkundungsbeiträge und -Garantien nach Artikel 33.
+  - 4\.[^38-3] Geothermie-Garantien nach Artikel 33.
 
-<sup>2</sup> Ab dem 1. Januar des sechsten Jahres nach Inkrafttreten dieses Gesetzes können für Grosswasserkraftanlagen keine Marktprämien nach Artikel 30 mehr ausgerichtet werden.
+<sup>2</sup> Die Marktprämie nach Artikel 30 wird letztmals für das Jahr 2030 ausgerichtet.[^38-4]
+
+<sup>3</sup> Die Betriebskostenbeiträge nach Artikel 33*a* werden bis zum 31. Dezember 2030 gewährt.[^38-5]
+
+[^38-1]: Fassung gemäss Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2023 ([AS 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [BBl 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^38-2]: Fassung gemäss Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2023 ([AS 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [BBl 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^38-3]: Fassung gemäss Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2023 ([AS 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [BBl 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^38-4]: Fassung gemäss Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2023 ([AS 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [BBl 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^38-5]: Eingefügt durch Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2023 ([AS 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [BBl 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
 
 ### 2. Abschnitt: Rückerstattung
 
@@ -981,7 +1113,7 @@ Die zuständigen Bundesbehörden können diese anonymisierten Personendaten in g
 
 <sup>1</sup> Das BFE trifft die Massnahmen und Verfügungen nach diesem Gesetz, soweit der Bund zuständig ist und dieses Gesetz die Zuständigkeit keiner anderen Behörde zuweist.
 
-<sup>2</sup> Das BAFU entscheidet im Einvernehmen mit dem betroffenen Kanton über die Entschädigung nach Artikel 34.
+<sup>2</sup> Das BAFU entscheidet im Einvernehmen mit dem betroffenen Kanton über die Entschädigung nach Artikel 34 in der Regel innert 6 Monaten nach Gesuchseingang.[^62-1]
 
 <sup>3</sup> Die ElCom entscheidet, vorbehältlich Absatz 4, bei Streitigkeiten aufgrund der Artikel 15, 16–18 und 73 Absätze 4 und 5.
 
@@ -991,6 +1123,8 @@ Die Zivilgerichte beurteilen:
 
 - a. Streitigkeiten aus Vereinbarungen nach Artikel 17 Absatz 1;
 - b. Streitigkeiten aus dem Rechtsverhältnis zwischen Grundeigentümerinnen und Grundeigentümern einerseits und Mieterinnen und Mietern oder Pächterinnen und Pächtern andererseits im Zusammenhang mit dem Zusammenschluss zum Eigenverbrauch.
+
+[^62-1]: Fassung gemäss Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2023 ([AS 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [BBl 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
 
 #### Art. 63
 
@@ -1087,7 +1221,7 @@ Alle Personen, die mit dem Vollzug dieses Gesetzes betraut sind, unterliegen dem
 
 <sup>1</sup> Für das Erstellen von Anlagen, die der Gewinnung von Geothermie und Kohlenwasserstoffen, der Speicherung von Energie oder der Nutzung und Verteilung von Abwärme dienen und im öffentlichen Interesse liegen, können die Kantone enteignen oder dieses Recht an Dritte übertragen.
 
-<sup>2</sup> Die Kantone können in ihren Vorschriften das Bundesgesetz vom 20. Juni 1930[^69-1] über die Enteignung für anwendbar erklären. ...[^69-2]
+<sup>2</sup> Die Kantone können in ihren Vorschriften das Bundesgesetz vom 20. Juni 1930[^69-1] über die Enteignung für anwendbar erklären. …[^69-2]
 
 <sup>3</sup> Für Anlagen nach Absatz 1, die auf dem Gebiet mehrerer Kantone liegen, kann das Enteignungsrecht nach dem Bundesgesetz vom 20. Juni 1930 über die Enteignung beansprucht werden.
 
@@ -1105,7 +1239,7 @@ Alle Personen, die mit dem Vollzug dieses Gesetzes betraut sind, unterliegen dem
 Mit Busse bis zu 100 000 Franken wird bestraft, wer vorsätzlich:
 
 - a. Vorschriften über den Herkunftsnachweis, die Elektrizitätsbuchhaltung und die Kennzeichnung von Elektrizität verletzt (Art. 9);
-- b. im Rahmen des Einspeisevergütungssystems (Art. 19) oder der Einmalvergütung (Art. 25) oder der Investitionsbeiträge (Art. 26 und 27) unrichtige oder unvollständige Angaben macht;
+- b.[^70-1] im Rahmen des Einspeisevergütungssystems (Art. 19) oder der Investitionsbeiträge (Art. 25–27*b*) unrichtige oder unvollständige Angaben macht;
 - c. im Zusammenhang mit der Marktprämie für Elektrizität aus Grosswasserkraftanlagen (Art. 30 und 31) unrichtige oder unvollständige Angaben macht;
 - d. im Rahmen der Erhebung des Netzzuschlags (Art. 35) oder der Rückerstattung des Netzzuschlags (Art. 39–43) oder im Zusammenhang mit der für die Rückerstattung des Netzzuschlags abgeschlossenen Zielvereinbarung (Art. 40 Bst. a und 41) unrichtige oder unvollständige Angaben macht;
 - e. Vorschriften über serienmässig hergestellte Anlagen, Fahrzeuge und Geräte verletzt (Art. 44);
@@ -1113,6 +1247,8 @@ Mit Busse bis zu 100 000 Franken wird bestraft, wer vorsätzlich:
 - g. gegen eine Ausführungsvorschrift, deren Übertretung für strafbar erklärt wird, oder gegen eine unter Hinweis auf die Strafandrohung dieses Artikels an ihn gerichtete Verfügung verstösst.
 
 <sup>2</sup> Wird die Tat fahrlässig begangen, so ist die Strafe Busse bis zu 20 000 Franken.
+
+[^70-1]: Fassung gemäss Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2023 ([AS 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [BBl 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
 
 #### Art. 71
 
@@ -1218,22 +1354,21 @@ Für Betreiber, denen die Vergütung vor dem Inkrafttreten dieses Gesetzes zuges
 
 **Übergangsbestimmungen zu anderen Netzzuschlags-Verwendungen**
 
-<sup>1</sup> Für Berechtigte nach den Artikeln 26 und 27, die vor dem Inkrafttreten dieses Gesetzes einen Wartelistenbescheid erhalten haben, gilt die Vorschrift zum Baubeginn nach Artikel 28 nicht, sofern die Anlage schon gebaut ist.
-
-<sup>2</sup> Für Berechtigte nach den Artikeln 25, 26 und 27, denen bis zum 31. Juli 2013 ein Wartelistenbescheid ausgestellt wurde, gilt Artikel 24 Absatz 3 nicht.
+<sup>1</sup> und <sup>2</sup> …[^73-1]
 
 <sup>3</sup> Wer zwischen dem 1. August 2013 und dem Inkrafttreten dieses Gesetzes einen verbindlichen Grundsatzbescheid betreffend Gewährung einer Bürgschaft zur Risikoabsicherung von Geothermie-Anlagen in der Höhe von 50 Prozent der Investitionskosten erhalten hat, kann beim BFE bis sechs Monate nach Inkrafttreten dieses Gesetzes eine Neubeurteilung des Grundsatzbescheids nach neuem Recht beantragen. Es besteht kein Rechtsanspruch auf Erhöhung der Garantie.
 
 <sup>4</sup>
 
-Für bestehende Verträge zwischen Netzbetreibern und unabhängigen Produzenten für die Abnahme von Elektrizität aus Anlagen, die erneuerbare Energien nutzen (Mehrkostenfinanzierung), gelten die Anschlussbedingungen nach Artikel 7 des bisherigen Rechts in der Fassung vom 26. Juni 1998[^73-1]:
+Für bestehende Verträge zwischen Netzbetreibern und unabhängigen Produzenten für die Abnahme von Elektrizität aus Anlagen, die erneuerbare Energien nutzen (Mehrkostenfinanzierung), gelten die Anschlussbedingungen nach Artikel 7 des bisherigen Rechts in der Fassung vom 26. Juni 1998[^73-2]:
 
 - a. für Wasserkraftanlagen bis zum 31. Dezember 2035;
 - b. für alle übrigen Anlagen bis zum 31. Dezember 2025.
 
 <sup>5</sup> Die ElCom kann bei Verträgen nach Absatz 4, die die Abnahme von Elektrizität aus Wasserkraftanlagen regeln, in Einzelfällen die Vergütung angemessen reduzieren, wenn zwischen Übernahmepreis und Produktionskosten ein offensichtliches Missverhältnis besteht.
 
-[^73-1]: [AS 1999 197](https://fedlex.data.admin.ch/eli/oc/1999/27)
+[^73-1]: Aufgehoben durch Ziff. I des BG vom 1. Okt. 2021, mit Wirkung seit 1. Jan. 2023 ([AS 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [BBl 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^73-2]: [AS 1999 197](https://fedlex.data.admin.ch/eli/oc/1999/27)
 
 #### Art. 74
 
@@ -1257,11 +1392,24 @@ Für Endverbraucherinnen und Endverbraucher, die eine Zielvereinbarung nach bish
 
 #### Art. 75a
 
-**Übergangsbestimmung zur Änderung vom 30. September 2022 (Pflicht zur Nutzung der Sonnenenergie bei Gebäuden)**[^75a-1]
+**Übergangsbestimmungen zu den Investitionsbeiträgen sowie den Geothermie-Erkundungsbeiträgen und -garantien**[^75a-1]
+
+<sup>1</sup> Wurde dem Betreiber einer Photovoltaikanlage die Einmalvergütung oder dem Betreiber einer Wasserkraft- oder Biomasseanlage der Investitionsbeitrag vor dem Inkrafttreten der Änderung vom 1. Oktober 2021 dem Grundsatz nach zugesichert, so steht ihm diese weiterhin zu. Es gelten die Bestimmungen des 5. Kapitels des bisherigen Rechts in der Fassung vom 30. September 2016[^75a-2].
+
+<sup>2</sup> Die bis zum letzten Stichtag vor Inkrafttreten der Änderung vom 1. Oktober 2021 eingereichten vollständigen Gesuche um Investitionsbeiträge für Wasserkraftanlagen mit einer Leistung von mehr als 10 MW werden nach den Bestimmungen des 5. Kapitels des bisherigen Rechts in der Fassung vom 30. September 2016 beurteilt.
+
+<sup>3</sup> Wer vor Inkrafttreten der Änderung vom 1. Oktober 2021 ein Gesuch für einen Geothermie-Erkundungsbeitrag oder für eine Geothermie-Garantie nach Artikel 33 des bisherigen Rechts in der Fassung vom 30. September 2016 eingereicht oder bereits einen entsprechenden Vertrag abgeschlossen hat, kann beim BFE bis sechs Monate nach Inkrafttreten dieser Änderung anstelle des Geothermie-Erkundungsbeitrags oder der Geothermie-Garantie einen Investitionsbeitrag nach Artikel 27*b* Absatz 1 Buchstabe b beantragen.
+
+[^75a-1]: Eingefügt durch Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2023 ([AS 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [BBl 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^75a-2]: [AS 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762)
+
+#### Art. 75b
+
+**Übergangsbestimmung zur Änderung vom 30. September 2022 (Pflicht zur Nutzung der Sonnenenergie bei Gebäuden)**[^75b-1]
 
 Die Kantone erlassen die Ausnahmebestimmungen gemäss Artikel 45*a* Absatz 2 bis zum 1. Januar 2023. Gesuche, die vor diesem Zeitpunkt eingereicht werden, unterstehen der Pflicht gemäss Artikel 45*a* Absatz 1 nicht.
 
-[^75a-1]: Eingefügt durch Ziff. I des BG vom 30. Sept. 2022 (Dringliche Massnahmen zur kurzfristigen Bereitstellung einer sicheren Stromversorgung im Winter), in Kraft vom 1. Okt. 2022 bis zum 31. Dez. 2025 ([AS 2022 543](https://fedlex.data.admin.ch/eli/oc/2022/543); [BBl 2022 1536](https://fedlex.data.admin.ch/eli/fga/2022/1536), [1540](https://fedlex.data.admin.ch/eli/fga/2022/1540)).
+[^75b-1]: Eingefügt durch Ziff. I des BG vom 30. Sept. 2022 (Dringliche Massnahmen zur kurzfristigen Bereitstellung einer sicheren Stromversorgung im Winter), in Kraft vom 1. Okt. 2022 bis zum 31. Dez. 2025 ([AS 2022 543](https://fedlex.data.admin.ch/eli/oc/2022/543), dort Art. 75*a*; [BBl 2022 1536](https://fedlex.data.admin.ch/eli/fga/2022/1536), [1540](https://fedlex.data.admin.ch/eli/fga/2022/1540)).
 
 #### Art. 76
 
@@ -1295,7 +1443,7 @@ II
 
 Die nachstehenden Erlasse werden wie folgt geändert:
 
-...[^annexu1-lvlu1-2]
+…[^annexu1-lvlu1-2]
 
-[^annexu1-lvlu1-1]: [[AS 1999 197](https://fedlex.data.admin.ch/eli/oc/1999/27), [2004 4719](https://fedlex.data.admin.ch/eli/oc/2004/723)Anhang Ziff. II 6, [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 69, [2007 3425](https://fedlex.data.admin.ch/eli/oc/2007/418)Anhang Ziff. 2, [2010 4285](https://fedlex.data.admin.ch/eli/oc/2010/620)Ziff. II 2 [5061](https://fedlex.data.admin.ch/eli/oc/2010/727)Ziff. I 2 [5065](https://fedlex.data.admin.ch/eli/oc/2010/728), [2012 3231](https://fedlex.data.admin.ch/eli/oc/2012/370), [2013 4505](https://fedlex.data.admin.ch/eli/oc/2013/794), [2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197)Ziff. II]
+[^annexu1-lvlu1-1]: [[AS 1999 197](https://fedlex.data.admin.ch/eli/oc/1999/27); [2004 4719](https://fedlex.data.admin.ch/eli/oc/2004/723)Anhang Ziff. II 6; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 69; [2007 3425](https://fedlex.data.admin.ch/eli/oc/2007/418)Anhang Ziff. 2; [2010 4285](https://fedlex.data.admin.ch/eli/oc/2010/620)Ziff. II 2, [5061](https://fedlex.data.admin.ch/eli/oc/2010/727)Ziff. I 2, [5065](https://fedlex.data.admin.ch/eli/oc/2010/728); [2012 3231](https://fedlex.data.admin.ch/eli/oc/2012/370); [2013 4505](https://fedlex.data.admin.ch/eli/oc/2013/794); [2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197)Ziff. II]
 [^annexu1-lvlu1-2]: Die Änderungen können unter [AS 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762)konsultiert werden.

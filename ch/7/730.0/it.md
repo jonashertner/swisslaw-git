@@ -4,11 +4,11 @@ title: "Legge federale sull'energia del 30 settembre 2016 (LEne)"
 short: LEne
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/762"
 language: it
-version: 2022-10-01
+version: 2023-01-01
 adopted: 2016-09-30
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/762/20221001/it/xml/fedlex-data-admin-ch-eli-cc-2017-762-20221001-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/762/20221001/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/762/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2017-762-20230101-it-xml-11.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/762/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/762/20221001/it"
 
 (LEne)
 
-del 30 settembre 2016 (Stato 1° ottobre 2022)
+del 30 settembre 2016 (Stato 1° gennaio 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -228,7 +228,9 @@ Se il gestore di rete e il produttore non trovano un accordo sulla rimunerazione
 - b. per l’elettricità proveniente da impianti di cogenerazione forza-calore interamente o parzialmente a combustibili fossili la rimunerazione si fonda sul prezzo di mercato al momento dell’immissione;
 - c. per il biogas la rimunerazione si fonda sul prezzo che il gestore di rete dovrebbe pagare in caso di acquisto presso terzi.
 
-<sup>4</sup> Il presente articolo si applica anche ai produttori che beneficiano di una rimunerazione unica secondo l’articolo 25 o di un contributo agli investimenti secondo l’articolo 26 o 27. Esso non si applica fintanto che i produttori partecipano al sistema di rimunerazione per l’immissione di elettricità (art. 19).
+<sup>4</sup> I capoversi 1–3 non si applicano fintanto che i produttori partecipano al sistema di rimunerazione per l’immissione di elettricità (art. 19).[^15-1]
+
+[^15-1]: Nuovo testo giusta il n. I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
 
 #### Art. 16
 
@@ -236,7 +238,9 @@ Se il gestore di rete e il produttore non trovano un accordo sulla rimunerazione
 
 <sup>1</sup> I gestori di impianti possono consumare nel luogo di produzione tutta o parte dell’energia da essi prodotta. Possono anche vendere tutta o parte dell’energia da essi prodotta affinché sia consumata nel luogo di produzione. Entrambe le destinazioni sono considerate consumo proprio. Il Consiglio federale emana disposizioni volte a definire e delimitare il luogo di produzione.
 
-<sup>2</sup> Il capoverso 1 si applica anche ai gestori di impianti che partecipano al sistema di rimunerazione per l’immissione di elettricità (art. 19) e a quelli che beneficiano di una rimunerazione unica secondo l’articolo 25 o di un contributo agli investimenti secondo l’articolo 26 o 27.
+<sup>2</sup> Il capoverso 1 si applica anche ai gestori di impianti che partecipano al sistema di rimunerazione per l’immissione di elettricità (art. 19) o a quelli che beneficiano di un contributo d’investimento secondo il capitolo 5 o di un contributo alle spese d’esercizio (art. 33*a*).[^16-1]
+
+[^16-1]: Nuovo testo giusta il n. I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
 
 #### Art. 17
 
@@ -305,7 +309,7 @@ I gestori di impianti idroelettrici collegati con impianti di approvvigionamento
 - a. ubicati in sezioni di corsi d’acqua già sfruttate; o
 - b. che non implicano ulteriori interventi in corsi d’acqua naturali.
 
-<sup>6</sup> Il Consiglio federale può aumentare il limite di potenza di cui al capoverso 4 lettera b unitamente a quello per la rimunerazione unica (art. 24 cpv. 1 lett. a). In caso di sovrapposizione i gestori di impianti possono scegliere tra la rimunerazione per l’immissione di elettricità e la rimunerazione unica.
+<sup>6</sup> Il Consiglio federale può aumentare il limite di potenza di cui al capoverso 4 lettera b. In caso di sovrapposizione con la rimunerazione unica i gestori di impianti possono scegliere tra quest’ultima e la rimunerazione per l’immissione di elettricità.[^19-2]
 
 <sup>7</sup>
 
@@ -320,6 +324,7 @@ Il Consiglio federale disciplina gli ulteriori dettagli del sistema di rimuneraz
 - g. ulteriori compiti dei gruppi di bilancio e dei gestori di rete, in particolare un obbligo di ritiro e di rimunerazione nell’ambito dell’articolo 21 nonché un eventuale obbligo di versamento anticipato della rimunerazione.
 
 [^19-1]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^19-2]: Nuovo testo giusta il n. I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
 
 #### Art. 20
 
@@ -369,75 +374,142 @@ Il Consiglio federale emana disposizioni d’esecuzione concernenti in particola
 
 <sup>2</sup> Il Consiglio federale disciplina le modalità di determinazione del prezzo di mercato di riferimento per i singoli tipi di impianti. Il periodo determinante per il calcolo è tanto più lungo quanto migliore è la possibilità di controllare la produzione sotto il profilo temporale.
 
-## Capitolo 5: Contributo d’investimento per gli impianti fotovoltaici, idroelettrici e a biomassa
+## Capitolo 5: Contributo d’investimento per impianti fotovoltaici, idroelettrici, a biomassa, eolici e geotermici
+
+[^chap5-1]
+
+[^chap5-1]: Nuovo testo giusta il n. I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
 
 #### Art. 24
 
-**Condizioni generali e modalità di versamento**
+**Principi**[^24-1]
 
-<sup>1</sup>
+Per gli impianti che producono elettricità da energie rinnovabili è possibile beneficiare di un contributo d’investimento sulla base delle disposizioni del presente capitolo, sempre che vi siano risorse sufficienti (art. 35 e 36).
 
-Sempre che vi siano risorse sufficienti (art. 35 e 36), i gestori dei seguenti impianti possono beneficiare di un contributo d’investimento:
-
-- a. impianti fotovoltaici: per impianti nuovi con una potenza inferiore a 30 kW e per ampliamenti o rinnovamenti considerevoli di siffatti impianti; il Consiglio federale può fissare un limite superiore di potenza più elevato;
-- b.
-
-  impianti idroelettrici, escluse le centrali di pompaggio:
-
-  - 1\. per impianti nuovi con una potenza superiore a 10 MW,
-  - 2\. per ampliamenti o rinnovamenti considerevoli di impianti con una potenza di almeno 300 kW;
-
-- c. impianti a biomassa: per nuovi impianti d’incenerimento dei rifiuti e nuovi impianti a gas di depurazione, per nuove centrali elettriche a legna di importanza regionale nonché per ampliamenti o rinnovamenti considerevoli di siffatti impianti.
-
-<sup>2</sup> Le eccezioni per gli impianti idroelettrici di cui all’articolo 19 capoverso 5 si applicano anche nell’ambito del presente capitolo.
-
-<sup>3</sup> I gestori possono beneficiare di un contributo d’investimento soltanto se il nuovo impianto o l’impianto ampliato o rinnovato in maniera considerevole è stato messo in esercizio dopo il 1° gennaio 2013.
-
-<sup>4</sup> I gestori di impianti fotovoltaici ricevono il contributo d’investimento sotto forma di versamento unico (rimunerazione unica). Per i gestori di impianti idroelettrici e a biomassa il Consiglio federale può prevedere un versamento scaglionato.
+[^24-1]: Nuovo testo giusta il n. I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
 
 #### Art. 25
 
-**Rimunerazione unica per impianti fotovoltaici**
+**Contributo d’investimento per impianti fotovoltaici**[^25-1]
 
-<sup>1</sup> La rimunerazione unica per impianti fotovoltaici di cui all’articolo 24 capoverso 1 lettera a ammonta al massimo al 30 per cento dei costi d’investimento degli impianti di riferimento determinanti al momento della messa in esercizio.
+<sup>1</sup> Per la costruzione di nuovi impianti fotovoltaici e per l’ampliamento considerevole di impianti fotovoltaici è possibile beneficiare di un contributo d’investimento (rimunerazione unica).
 
-<sup>2</sup> Il Consiglio federale fissa gli importi; può costituire categorie.
+<sup>2</sup> La rimunerazione unica ammonta al massimo al 30 per cento dei costi d’investimento determinanti degli impianti di riferimento al momento della messa in esercizio.
+
+<sup>3</sup> Per gli impianti che immettono in rete tutta l’elettricità prodotta la rimunerazione unica può ammontare, in deroga al capoverso 2, fino al 60 per cento dei costi d’investimento determinanti degli impianti di riferimento al momento della messa in esercizio.
+
+[^25-1]: Nuovo testo giusta il n. I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+
+#### Art. 25a
+
+**Aste per la rimunerazione unica**[^25a-1]
+
+<sup>1</sup> Per la costruzione di nuovi impianti fotovoltaici senza consumo proprio a partire da una potenza di 150 kW il Consiglio federale può prevedere che l’importo della rimunerazione unica sia fissato tramite aste. Tale importo non può superare i contributi d’investimento di cui all’articolo 25.
+
+<sup>2</sup> Il tasso di rimunerazione per chilowatt di potenza è il criterio principale per l’aggiudicazione. Il Consiglio federale può prevedere ulteriori criteri.
+
+<sup>3</sup> Il Consiglio federale può prevedere il deposito di una cauzione fino al 10 per cento dell’importo della rimunerazione unica previsto per l’intera potenza offerta e disciplinarne l’impiego.
+
+<sup>4</sup>
+
+Il Consiglio federale può prevedere sanzioni fino al 10 per cento dell’importo della rimunerazione unica previsto per l’intera potenza offerta, in particolare se il progetto:
+
+- a. non è realizzato entro il termine fissato;
+- b. non raggiunge o raggiunge soltanto in parte gli obiettivi garantiti nell’offerta per la quale il partecipante si è aggiudicato l’asta;
+- c. non presenta o presenta soltanto in parte le caratteristiche garantite nell’offerta per la quale il partecipante si è aggiudicato l’asta.
+
+[^25a-1]: Introdotto dal n. I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
 
 #### Art. 26
 
-**Contributo d’investimento per impianti idroelettrici**
+**Contributo d’investimento per impianti idroelettrici**[^26-1]
 
-<sup>1</sup> Il contributo d’investimento per impianti idroelettrici di cui all’articolo 24 capoverso 1 lettera b è definito nel singolo caso. Ammonta al massimo al 60 per cento dei costi d’investimento computabili per gli impianti idroelettrici con una potenza massima di 10 MW e al massimo al 40 per cento per gli impianti idroelettrici con una potenza superiore a 10 MW.
+<sup>1</sup>
 
-<sup>2</sup> Il Consiglio federale fissa i criteri di calcolo e gli importi. Per ampliamenti o rinnovamenti considerevoli inferiori a una determinata soglia può fissare gli importi in base al principio dell’impianto di riferimento.
+È possibile beneficiare di un contributo d’investimento per:
+
+- a. la costruzione di nuovi impianti idroelettrici con una potenza di almeno 1 MW;
+- b. gli ampliamenti considerevoli di impianti che, dopo l’ampliamento, hanno una potenza di almeno 300 kW;
+- c. i rinnovamenti considerevoli di impianti che, dopo il rinnovamento, hanno una potenza di almeno 300 kW.
+
+<sup>2</sup> Non sussiste alcun diritto a un contributo d’investimento per la parte di un impianto che serve al pompaggio-turbinaggio. Il Consiglio federale può prevedere deroghe in caso di bisogno comprovato di capacità di stoccaggio supplementari per poter integrare energie rinnovabili.
+
+<sup>3</sup>
+
+Il contributo d’investimento ammonta:
+
+- a. al massimo al 60 per cento dei costi d’investimento computabili, per gli impianti di cui al capoverso 1 lettere a e b;
+- b. al massimo al 40 per cento dei costi d’investimento computabili, per gli impianti di cui al capoverso 1 lettera c.
+
+<sup>4</sup> I limiti inferiori di potenza di cui al capoverso 1 non si applicano agli impianti accessori.
+
+<sup>5</sup>
+
+Il Consiglio federale può esentare altri impianti idroelettrici dal rispetto dei limiti inferiori di potenza di cui al capoverso 1, se:
+
+- a. sono ubicati in sezioni di corsi d’acqua già sfruttate; o
+- b. non implicano ulteriori interventi in corsi d’acqua naturali o preziosi sotto il profilo ecologico.
+
+[^26-1]: Nuovo testo giusta il n. I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
 
 #### Art. 27
 
-**Contributo d’investimento per impianti a biomassa**
+**Contributo d’investimento per impianti a biomassa**[^27-1]
 
-<sup>1</sup> Il contributo d’investimento per impianti a biomassa di cui all’articolo 24 capoverso 1 lettera c è definito nel singolo caso. Ammonta al massimo al 20 per cento dei costi d’investimento computabili.
+<sup>1</sup> Per la costruzione di nuovi impianti a biomassa e per gli ampliamenti o rinnovamenti considerevoli di impianti a biomassa è possibile beneficiare di un contributo d’investimento.
 
-<sup>2</sup> Il Consiglio federale fissa i criteri di calcolo e gli importi. Per investimenti in impianti a gas di depurazione inferiori a una determinata soglia può fissare gli importi in base al principio dell’impianto di riferimento.
+<sup>2</sup> Il contributo ammonta al massimo al 60 per cento dei costi d’investimento computabili.
+
+<sup>3</sup> Per gli impianti che utilizzano in parte combustibili o carburanti fossili non è possibile beneficiare di un contributo d’investimento.
+
+[^27-1]: Nuovo testo giusta il n. I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+
+#### Art. 27a
+
+**Contributo d’investimento per impianti eolici**[^27a-1]
+
+<sup>1</sup> Per la costruzione di nuovi impianti eolici con una potenza di almeno 2 MW è possibile beneficiare di un contributo d’investimento.
+
+<sup>2</sup> Il contributo ammonta al massimo al 60 per cento dei costi d’investimento computabili.
+
+[^27a-1]: Introdotto dal n. I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+
+#### Art. 27b
+
+**Contributi d’investimento per impianti geotermici**[^27b-1]
+
+<sup>1</sup>
+
+È possibile beneficiare di un contributo d’investimento per:
+
+- a. la prospezione di risorse geotermiche;
+- b. lo sfruttamento di risorse geotermiche;
+- c. la costruzione di nuovi impianti geotermici.
+
+<sup>2</sup> Ogni contributo ammonta al massimo al 60 per cento dei costi d’investimento computabili.
+
+[^27b-1]: Introdotto dal n. I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
 
 #### Art. 28
 
 **Inizio dei lavori**
 
-<sup>1</sup> Chi intende beneficiare di un contributo d’investimento secondo l’articolo 26 o 27 può iniziare i lavori di costruzione, ampliamento o rinnovamento soltanto dopo che l’UFE ha dato la propria garanzia. L’UFE può autorizzare un inizio anticipato dei lavori.
+<sup>1</sup> Chi intende beneficiare di un contributo d’investimento secondo gli articoli 26–27*b*, può iniziare i lavori di costruzione, ampliamento o rinnovamento soltanto dopo che l’UFE ha dato la propria garanzia. L’UFE può autorizzare l’inizio anticipato dei lavori.[^28-1]
 
-<sup>2</sup> Non riceve nessun contributo d’investimento secondo l’articolo 26 o 27 chi inizia i lavori di costruzione, ampliamento o rinnovamento di un impianto[^28-1] idroelettrico o a biomassa senza garanzia o senza autorizzazione per l’inizio anticipato dei lavori.
+<sup>2</sup> Chi inizia i lavori di costruzione, ampliamento o rinnovamento di un impianto senza garanzia e senza autorizzazione per l’inizio anticipato dei lavori non può beneficiare del contributo d’investimento.[^28-2]
 
 <sup>3</sup> Il Consiglio federale può estendere queste regole alla rimunerazione unica per impianti fotovoltaici a partire da una determinata potenza.
 
-[^28-1]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^28-1]: Nuovo testo giusta il n. I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^28-2]: Nuovo testo giusta il n. I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
 
 #### Art. 29
 
-**Condizioni e dettagli**
+**Dettagli[^29-1]**
 
 <sup>1</sup>
 
-Il Consiglio federale disciplina i dettagli della rimunerazione unica e dei contributi d’investimento secondo gli articoli 26 e 27, in particolare:
+Il Consiglio federale disciplina i dettagli dei contributi d’investimento secondo il presente capitolo, in particolare:[^29-2]
 
 - a. la procedura di presentazione delle domande;
 - b. gli importi della rimunerazione unica e dei contributi d’investimento, compresi i costi computabili; il Consiglio federale può prevedere metodi di calcolo diversi per le differenti tecnologie;
@@ -445,19 +517,32 @@ Il Consiglio federale disciplina i dettagli della rimunerazione unica e dei cont
 - d. i criteri in base ai quali si valuta se un ampliamento o un rinnovamento di un impianto è considerevole;
 - e. i criteri in base ai quali si distinguono i nuovi impianti dagli ampliamenti e dai rinnovamenti considerevoli.
 
-<sup>2</sup> Nella determinazione degli importi e in caso di un loro adeguamento occorre garantire che la rimunerazione unica e i contributi d’investimento non superino i maggiori costi non ammortizzabili. Questi ultimi risultano dalla differenza tra i costi di produzione capitalizzati per la produzione di elettricità e il prezzo di mercato capitalizzato che può essere ottenuto.
+<sup>2</sup> Nella determinazione degli importi il Consiglio federale si fonda sui costi scoperti per la costruzione di nuovi impianti o per l’ampliamento o il rinnovamento di impianti esistenti.[^29-3]
 
 <sup>3</sup>
 
-Il Consiglio federale può inoltre stabilire:
+Il Consiglio federale può inoltre prevedere in particolare:[^29-4]
 
 - a. esigenze minime di carattere energetico, ecologico o di altro tipo;
 - b. esigenze relative all’esercizio e al funzionamento degli impianti;
+- b<sup>bis</sup>.[^29-5] una verifica concreta e la valutazione di singole domande se vi sono indizi secondo cui per un impianto non vi sono costi scoperti;
 - c. l’obbligo di restituire la rimunerazione unica o i contributi d’investimento, segnatamente quando le condizioni del mercato dell’energia determinano una redditività eccessiva;
 - d. le dimensioni minime di un impianto richieste per ottenere una rimunerazione unica;
 - e. importi massimi;
 - f. l’esclusione dalla rimunerazione unica o dai contributi d’investimento, o una riduzione degli stessi, se è già stato versato un altro aiuto finanziario;
-- g. la durata minima durante la quale un gestore che ha già ottenuto per un impianto una rimunerazione unica o contributi d’investimento non può chiedere per lo stesso impianto un’altra rimunerazione unica o altri contributi d’investimento.
+- g. la durata minima durante la quale un gestore che ha già ottenuto per un impianto una rimunerazione unica o contributi d’investimento non può chiedere per lo stesso impianto un’altra rimunerazione unica o altri contributi d’investimento;
+- h.[^29-6] diverse categorie all’interno delle singole tecnologie;
+- i.[^29-7] importi basati sul principio dell’impianto di riferimento per i contributi d’investimento di cui agli articoli 26–27*b* per determinate classi di potenza;
+- j.[^29-8] l’obbligo per i promotori di progetti che ricevono un contributo d’investimento secondo il presente capitolo di fornire alla Confederazione dati e informazioni di interesse pubblico.
+
+[^29-1]: Nuovo testo giusta il n. I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^29-2]: Nuovo testo giusta il n. I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^29-3]: Nuovo testo giusta il n. I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^29-4]: Nuovo testo giusta il n. I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^29-5]: Introdotta dal n. I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^29-6]: Introdotta dal n. I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^29-7]: Introdotta dal n. I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^29-8]: Introdotta dal n. I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
 
 ## Capitolo 6: Misure di sostegno particolari
 
@@ -479,12 +564,15 @@ Il Consiglio federale disciplina i dettagli, in particolare:
 - b. un’eventuale considerazione di altri ricavi pertinenti;
 - c. i costi computabili e il loro calcolo;
 - d. un’eventuale delega all’UFE di precisare il totale dei ricavi e dei costi, compresi i costi del capitale;
-- e. la delimitazione rispetto al contributo d’investimento per ampliamenti o rinnovamenti considerevoli (art. 24 cpv. 1 lett. b n. 2);
+- e.[^30-1] la delimitazione rispetto al contributo d’investimento per ampliamenti considerevoli (art. 26 cpv. 1 lett. b);
 - f. la procedura, compresi i documenti da produrre, le modalità di pagamento e la cooperazione tra l’UFE e la Commissione federale dell’energia elettrica (ElCom);
 - g. l’obbligo di informare dei gestori e dei proprietari che non sono aventi diritto;
 - h. la restituzione ulteriore, parziale o totale, del premio di mercato, in particolare a causa di informazioni inesatte o incomplete.
 
-<sup>5</sup> Entro il 2019 il Consiglio federale sottopone all’Assemblea federale un disegno di atto normativo volto a introdurre un modello conforme al mercato al più tardi al termine delle misure di sostegno per il sistema di rimunerazione per l’immissione di elettricità.
+<sup>5</sup> ...[^30-2]
+
+[^30-1]: Nuovo testo giusta il n. I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^30-2]: Abrogato dal n. I della LF del 1° ott. 2021, con effetto dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
 
 #### Art. 31
 
@@ -512,17 +600,43 @@ Il Consiglio federale prevede bandi di gara per misure di efficienza energetica 
 
 #### Art. 33
 
-**Contributi per l’esplorazione geotermica e garanzie per la geotermia**[^33-1]
+**Garanzie per la geotermia**[^33-1]
 
-<sup>1</sup> Per coprire i costi dell’esplorazione di risorse geotermiche destinate alla produzione di elettricità possono essere forniti contributi. Il loro importo ammonta al massimo al 60 per cento dei costi d’investimento computabili.
+<sup>1</sup> Per coprire i rischi degli investimenti effettuati nell’ambito della prospezione e dello sfruttamento di risorse geotermiche come pure della costruzione di impianti geotermici per la produzione di elettricità possono essere prestate garanzie. Il loro importo ammonta al massimo al 60 per cento dei costi d’investimento computabili.
 
-<sup>2</sup> Per coprire i rischi degli investimenti effettuati nell’ambito dell’esplorazione di risorse geotermiche e della costruzione di impianti geotermici per la produzione di elettricità possono essere prestate garanzie. Il loro importo ammonta al massimo al 60 per cento dei costi d’investimento computabili.
+<sup>2</sup> Un progetto geotermico non può beneficiare contemporaneamente di una garanzia secondo il capoverso 1 e di un contributo secondo l’articolo 27*b* capoverso 1.
 
-<sup>3</sup> Per un progetto di esplorazione di risorse geotermiche possono essere concessi o il contributo o la garanzia.
+<sup>3</sup> Il Consiglio federale disciplina i dettagli, in particolare i costi d’investimento computabili e la procedura.
 
-<sup>4</sup> Il Consiglio federale disciplina i dettagli, in particolare i costi d’investimento computabili e la procedura.
+[^33-1]: Nuovo testo giusta il n. I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
 
-[^33-1]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+#### Art. 33a
+
+**Contributo alle spese d’esercizio per impianti a biomassa**[^33a-1]
+
+<sup>1</sup> Per gli impianti a biomassa è possibile beneficiare di un contributo alle spese d’esercizio, sempre che vi siano risorse sufficienti (art. 35 e 36).
+
+<sup>2</sup> Il contributo alle spese d’esercizio è stabilito deducendo il prezzo di mercato di riferimento dall’importo del contributo ed è versato per chilowattora di elettricità immessa in rete.
+
+<sup>3</sup> Il Consiglio federale fissa l’importo del contributo per categoria e classe di potenza; a tal fine si basa sulle spese d’esercizio degli impianti di riferimento e tiene conto di possibili ricavi. L’importo del contributo può essere adeguato alle circostanze.
+
+<sup>4</sup>
+
+Il Consiglio federale può inoltre prevedere in particolare:
+
+- a. esigenze minime di carattere energetico, ecologico o di altro tipo;
+- b. gli importi massimi dei contributi;
+- c. l’esclusione di impianti le cui spese d’esercizio possono essere coperte in altro modo.
+
+<sup>5</sup>
+
+Non è possibile beneficiare di un contributo alle spese d’esercizio per:
+
+- a. impianti d’incenerimento dei rifiuti urbani (impianti d’incenerimento dei rifiuti);
+- b. forni per l’incenerimento di fanghi, impianti a gas di depurazione e impianti a gas di discarica;
+- c. impianti che utilizzano in parte combustibili o carburanti fossili.
+
+[^33a-1]: Introdotto dal n. I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
 
 #### Art. 34
 
@@ -550,24 +664,27 @@ Con il supplemento rete sono finanziati:
 - a. il premio per l’immissione di elettricità di cui all’articolo 21 nell’ambito del sistema di rimunerazione per l’immissione di elettricità, e i corrispondenti costi di disbrigo;
 - b. i costi non coperti dai prezzi di mercato per la rimunerazione dell’immissione di elettricità secondo il diritto anteriore;
 - c. le spese[^35-1] supplementari secondo l’articolo 73 capoverso 4 non coperte dai prezzi di mercato;
-- d. la rimunerazione unica secondo l’articolo 25 e i contributi d’investimento secondo gli articoli 26 e 27;
-- d<sup>bis</sup>.[^35-2] la rimunerazione unica secondo l’articolo 71*a* capoverso 4;
+- d.[^35-2] i contributi d’investimento secondo il capitolo 5;
+- d<sup>bis</sup>.[^35-3] la rimunerazione unica secondo l’articolo 71*a* capoverso 4;
 - e. il premio di mercato per l’elettricità proveniente da grandi impianti idroelettrici secondo l’articolo 30;
 - f. i costi dei bandi di gara di cui all’articolo 32;
-- g. i contributi per l’esplorazione geotermica[^35-3] e le perdite derivanti dalle garanzie per la geotermia di cui all’articolo 33;
+- g.[^35-4] le perdite derivanti dalle garanzie per la geotermia di cui all’articolo 33;
 - h. l’indennizzo di cui all’articolo 34;
+- h<sup>bis</sup>.[^35-5] i contributi alle spese d’esercizio di cui all’articolo 33*a*;
 - i. i rispettivi costi di esecuzione, in particolare i costi indispensabili dell’organo d’esecuzione;
 - j. i costi a carico dell’UFE risultanti dai suoi compiti nei confronti dell’organo d’esecuzione.
 
 <sup>3</sup> Il supplemento rete ammonta al massimo a 2,3 ct./kWh. Il Consiglio federale lo fissa in funzione dei bisogni.
 
 [^35-1]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
-[^35-2]: Introdotta dal n. I della LF del 30 set. 2022 (Misure urgenti volte a garantire a breve termine l’approvvigionamento elettrico durante l’inverno), in vigore dal 1° ott. 2022 dal 31 dic. 2025 ([RU 2022 543](https://fedlex.data.admin.ch/eli/oc/2022/543); [FF 2022 1536](https://fedlex.data.admin.ch/eli/fga/2022/1536), [1540](https://fedlex.data.admin.ch/eli/fga/2022/1540)).
-[^35-3]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^35-2]: Nuovo testo giusta il n. I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^35-3]: Introdotta dal n. I della LF del 30 set. 2022 (Misure urgenti volte a garantire a breve termine l’approvvigionamento elettrico durante l’inverno), in vigore dal 1° ott. 2022 dal 31 dic. 2025 ([RU 2022 543](https://fedlex.data.admin.ch/eli/oc/2022/543); [FF 2022 1536](https://fedlex.data.admin.ch/eli/fga/2022/1536), [1540](https://fedlex.data.admin.ch/eli/fga/2022/1540)).
+[^35-4]: Nuovo testo giusta il n. I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^35-5]: Introdotta dal n. I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
 
 #### Art. 36
 
-**Limitazione per singoli utilizzi e lista d’attesa**
+**Limitazione per singoli utilizzi e lista d’attesa**[^36-1]
 
 <sup>1</sup>
 
@@ -578,19 +695,19 @@ Le risorse sono destinate ai singoli utilizzi conformemente alle quote massime s
   una quota massima di 0,1 ct./kWh per:
 
   - 1\. i bandi di gara,
-  - 2\. i contributi per l’esplorazione geotermica[^36-1] e le garanzie per la geotermia,
+  - 2\. i contributi d’investimento e le garanzie per la geotermia,
   - 3\. l’indennizzo di cui all’articolo 34;
 
-- b. una quota massima di 0,1 ct./kWh calcolata sulla media degli ultimi cinque anni per i contributi d’investimento secondo l’articolo 26 per gli impianti idroelettrici con una potenza superiore a 10 MW;
-- c. una quota massima di 0,2 ct./kWh per il premio di mercato per l’elettricità proveniente da grandi impianti idroelettrici*.*
+- b. una quota massima di 0,2 ct./kWh per i contributi d’investimento secondo l’articolo 26 capoverso 1 per gli impianti idroelettrici con una potenza superiore a 10 MW;
+- c. una quota massima di 0,2 ct./kWh per il premio di mercato per l’elettricità proveniente da grandi impianti idroelettrici.
 
-<sup>2</sup> L’UFE stabilisce annualmente le risorse destinate ai gestori di impianti fotovoltaici che partecipano al sistema di rimunerazione per l’immissione di elettricità (contingente per il fotovoltaico). Al riguardo persegue una progressione continua e tiene conto dell’evoluzione dei costi nel fotovoltaico da un lato e nelle altre tecnologie dall’altro. Tiene inoltre conto del carico delle reti elettriche nonché delle possibilità di stoccaggio.
+<sup>2</sup> L’UFE stabilisce annualmente le risorse destinate agli impianti fotovoltaici (contingente per il fotovoltaico). Può stabilire contingenti anche per le altre tecnologie. Al riguardo persegue una progressione continua e tiene conto dell’evoluzione dei costi.
 
-<sup>3</sup> L’UFE può inoltre stabilire le risorse a disposizione (contingenti) per la rimunerazione unica per gli impianti fotovoltaici a partire da una determinata potenza, per i contributi d’investimento per ampliamenti o rinnovamenti considerevoli di impianti idroelettrici con una potenza massima di 10 MW, nonché per i contributi d’investimento per tutti gli impianti a biomassa, se necessario al fine di evitare una sproporzione tra detti costi e quelli del sistema di rimunerazione per l’immissione di elettricità.
+<sup>3</sup> Il Consiglio federale disciplina le conseguenze delle limitazioni previste dal presente articolo. Può prevedere liste d’attesa per i contributi d’investimento secondo il capitolo 5. Per ridurre le liste d’attesa può prendere in considerazione anche criteri diversi dalla data d’iscrizione in tali liste.
 
-<sup>4</sup> Il Consiglio federale disciplina le conseguenze delle limitazioni previste dal presente articolo. Può prevedere liste d’attesa per il sistema di rimunerazione per l’immissione di elettricità, per la rimunerazione unica per gli impianti fotovoltaici a partire da una determinata potenza e per i contributi d’investimento secondo gli articoli 26 e 27. Per i progetti figuranti sulle liste d’attesa può prendere in considerazione anche criteri diversi dalla data d’iscrizione in tali liste.
+<sup>4</sup> Le risorse di cui al capoverso 1 lettera c rimaste inutilizzate sono impiegate l’anno successivo per gli altri utilizzi di cui all’articolo 26 capoverso 1 lettere b e c o all’articolo 34, tenendo conto delle quote massime di cui al capoverso 1.
 
-[^36-1]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^36-1]: Nuovo testo giusta il n. I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
 
 #### Art. 37
 
@@ -623,14 +740,20 @@ Non vengono più presi nuovi impegni a partire dal 1° gennaio:
 
   del 2031 per:
 
-  - 1\. la rimunerazione unica di cui all’articolo 25,
-  - 2\. i contributi d’investimento di cui agli articoli 26 e 27,
+  - 1\.[^38-1] le rimunerazioni uniche di cui agli articoli 25 e 25*a*,
+  - 2\.[^38-2] i contributi d’investimento di cui agli articoli 26–27*b*,
   - 3\. i bandi di gara di cui all’articolo 32,
-  - 4\. i contributi per l’esplorazione geotermica[^38-1] e le garanzie per la geotermia di cui all’articolo 33.
+  - 4\.[^38-3] le garanzie per la geotermia di cui all’articolo 33.
 
-<sup>2</sup> A partire dal 1° gennaio del sesto anno dall’entrata in vigore della presente legge non possono più essere versati premi di mercato per l’elettricità proveniente da grandi impianti idroelettrici secondo l’articolo 30.
+<sup>2</sup> Il premio di mercato di cui all’articolo 30 è versato per l’ultima volta per il 2030.[^38-4]
 
-[^38-1]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+<sup>3</sup> I contributi alle spese d’esercizio di cui all’articolo 33*a* sono concessi sino al 31 dicembre 2030.[^38-5]
+
+[^38-1]: Nuovo testo giusta il n. I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^38-2]: Nuovo testo giusta il n. I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^38-3]: Nuovo testo giusta il n. I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^38-4]: Nuovo testo giusta il n. I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^38-5]: Introdotto dal n. I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
 
 ### Sezione 2: Rimborso
 
@@ -991,7 +1114,7 @@ Le autorità federali competenti possono pubblicare in forma adeguata tali dati 
 
 <sup>1</sup> L’UFE prende le misure e le decisioni previste dalla presente legge, sempre che la competenza spetti alla Confederazione e la presente legge non attribuisca la competenza a un’altra autorità.
 
-<sup>2</sup> L’UFAM decide d’intesa con il Cantone interessato in merito all’indennizzo di cui all’articolo 34.
+<sup>2</sup> D’intesa con il Cantone interessato, l’UFAM decide in merito all’indennizzo di cui all’articolo 34 di regola entro sei mesi dalla presentazione della domanda.[^62-1]
 
 <sup>3</sup> Fatto salvo il capoverso 4, la ElCom decide in merito alle controversie derivanti dagli articoli 15, 16–18 e 73 capoversi 4 e 5.
 
@@ -1001,6 +1124,8 @@ I tribunali civili giudicano:
 
 - a. le controversie relative a convenzioni di cui all’articolo 17 capoverso 1;
 - b. le controversie relative a rapporti giuridici tra proprietari fondiari e locatari o affittuari nell’ambito del raggruppamento ai fini del consumo proprio.
+
+[^62-1]: Nuovo testo giusta il n. I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
 
 #### Art. 63
 
@@ -1117,7 +1242,7 @@ Tutte le persone incaricate dell’esecuzione della presente legge sottostanno a
 È punito con la multa fino a 100 000 franchi chiunque, intenzionalmente:
 
 - a. viola le prescrizioni concernenti la garanzia di origine, la contabilità dell’elettricità e l’etichettatura dell’elettricità (art. 9);
-- b. fornisce indicazioni inesatte o incomplete nell’ambito del sistema di rimunerazione per l’immissione di elettricità (art. 19), della rimunerazione unica (art. 25) o dei contributi d’investimento (art. 26 e 27);
+- b.[^70-1] fornisce indicazioni inesatte o incomplete nell’ambito del sistema di rimunerazione per l’immissione di elettricità (art. 19) o dei contributi d’investimento (art. 25–27*b*);
 - c. fornisce indicazioni inesatte o incomplete in relazione con il premio di mercato per l’elettricità proveniente da grandi impianti idroelettrici secondo gli articoli 30 e 31;
 - d. fornisce indicazioni inesatte o incomplete nell’ambito della riscossione del supplemento rete (art. 35), del rimborso del supplemento rete (art. 39–43) o in relazione con la convenzione sugli obiettivi conclusa per il rimborso del supplemento rete (art. 40 lett. a e 41);
 - e. viola le prescrizioni su impianti, veicoli e apparecchi prodotti in serie (art. 44);
@@ -1125,6 +1250,8 @@ Tutte le persone incaricate dell’esecuzione della presente legge sottostanno a
 - g. contravviene a una disposizione d’applicazione la cui violazione è stata dichiarata punibile oppure contravviene a una decisione che gli è stata notificata con la comminatoria del presente articolo.
 
 <sup>2</sup> Se l’autore ha agito per negligenza, la pena è della multa fino a 20 000 franchi.
+
+[^70-1]: Nuovo testo giusta il n. I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
 
 #### Art. 71
 
@@ -1230,23 +1357,22 @@ Ai gestori ai quali la rimunerazione è stata garantita prima dell’entrata in 
 
 **Disposizioni transitorie relative ad altri impieghi del supplemento rete**
 
-<sup>1</sup> Agli aventi diritto secondo gli articoli 26 e 27 che hanno ricevuto una conferma di inclusione nella lista d’attesa prima dell’entrata in vigore della presente legge la disposizione di cui all’articolo 28 relativa all’inizio dei lavori non si applica se l’impianto è già stato costruito.
-
-<sup>2</sup> Agli aventi diritto secondo gli articoli 25, 26 e 27 che hanno ricevuto una conferma di inclusione nella lista d’attesa prima del 31 luglio 2013 l’articolo 24 capoverso 3 non si applica.
+<sup>1</sup> e <sup>2</sup> ...[^73-1]
 
 <sup>3</sup> Chi, tra il 1° agosto 2013 e l’entrata in vigore della presente legge, ha ricevuto una decisione di massima vincolante in merito alla concessione di una fideiussione a titolo di garanzia a copertura dei rischi per gli impianti geotermici pari al 50 per cento dei costi d’investimento, può chiedere all’UFE, entro 6 mesi dall’entrata in vigore della presente legge, che la decisione di massima sia riesaminata secondo il nuovo diritto. Non sussiste alcun diritto all’aumento della garanzia.
 
 <sup>4</sup>
 
-Per quanto concerne i contratti vigenti tra gestori di rete e produttori indipendenti per il ritiro di elettricità proveniente da impianti che sfruttano energie rinnovabili (finanziamento delle spese[^73-1] supplementari), le condizioni di raccordo di cui all’articolo 7 nel tenore del 26 giugno 1998[^73-2] si applicano:
+Per quanto concerne i contratti vigenti tra gestori di rete e produttori indipendenti per il ritiro di elettricità proveniente da impianti che sfruttano energie rinnovabili (finanziamento delle spese[^73-2] supplementari), le condizioni di raccordo di cui all’articolo 7 nel tenore del 26 giugno 1998[^73-3] si applicano:
 
 - a. agli impianti idroelettrici sino al 31 dicembre 2035;
 - b. a tutti gli altri impianti sino al 31 dicembre 2025.
 
 <sup>5</sup> Per quanto concerne i contratti secondo il capoverso 4 per il ritiro di elettricità proveniente da impianti idroelettrici, la ElCom può, nel singolo caso, ridurre adeguatamente la rimunerazione se tra il prezzo di ripresa e i costi di produzione vi è una sproporzione evidente.
 
-[^73-1]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
-[^73-2]: [RU 1999 197](https://fedlex.data.admin.ch/eli/oc/1999/27)
+[^73-1]: Abrogati dal n. I della LF del 1° ott. 2021, con effetto dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^73-2]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^73-3]: [RU 1999 197](https://fedlex.data.admin.ch/eli/oc/1999/27)
 
 #### Art. 74
 
@@ -1270,11 +1396,24 @@ Per i consumatori finali che hanno concluso una convenzione sugli obiettivi seco
 
 #### Art. 75a
 
-**Disposizione transitoria della modifica del 30 settembre 2022 (obbligo di sfruttamento dell’energia solare per gli edifici)**[^75a-1]
+**Disposizioni transitorie relative ai contributi d’investimento, ai contributi per l’esplorazione geotermica e alle garanzie per la geotermia**[^75a-1]
+
+<sup>1</sup> Il gestore di un impianto che, prima dell’entrata in vigore della modifica del 1° ottobre 2021, ha ricevuto, con decisione di massima, la garanzia di una rimunerazione unica per un impianto fotovoltaico o di un contributo d’investimento per un impianto idroelettrico o a biomassa, continua ad avervi diritto. Si applicano le disposizioni del capitolo 5 del diritto anteriore nel tenore del 30 settembre 2016[^75a-2].
+
+<sup>2</sup> Le domande complete per l’ottenimento di contributi d’investimento per impianti idroelettrici con una potenza superiore a 10 MW, presentate entro l’ultimo giorno di riferimento prima dell’entrata in vigore della modifica del 1° ottobre 2021, sono valutate secondo le disposizioni del capitolo 5 del diritto anteriore nel tenore del 30 settembre 2016.
+
+<sup>3</sup> Chi, prima dell’entrata in vigore della modifica del 1° ottobre 2021, ha presentato una domanda per l’ottenimento di un contributo per l’esplorazione geotermica o di una garanzia per la geotermia secondo l’articolo 33 del diritto anteriore nel tenore del 30 settembre 2016 o ha già concluso un contratto corrispondente, può richiedere all’UFE entro sei mesi dall’entrata in vigore della presente modifica un contributo d’investimento di cui all’articolo 27*b* capoverso 1 lettera b in luogo del contributo per l’esplorazione geotermica o della garanzia per la geotermia.
+
+[^75a-1]: Introdotto dal n. I della LF del 1° ott. 2021, in vigore dal 1° gen. 2023 ([RU 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^75a-2]: [RU 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762)
+
+#### Art. 75b
+
+**Disposizione transitoria della modifica del 30 settembre 2022 (obbligo di sfruttamento dell’energia solare per gli edifici)**[^75b-1]
 
 I Cantoni emanano le disposizioni relative alle eccezioni di cui all’articolo 45*a* capoverso 2 entro il 1° gennaio 2023. Le domande presentate prima di tale data non sottostanno all’obbligo di cui all’articolo 45*a* capoverso 1.
 
-[^75a-1]: Introdotto dal n. I della LF del 30 set. 2022 (Misure urgenti volte a garantire a breve termine l’approvvigionamento elettrico durante l’inverno), in vigore dal 1° ott. 2022 dal 31 dic. 2025 ([RU 2022 543](https://fedlex.data.admin.ch/eli/oc/2022/543); [FF 2022 1536](https://fedlex.data.admin.ch/eli/fga/2022/1536), [1540](https://fedlex.data.admin.ch/eli/fga/2022/1540)).
+[^75b-1]: Introdotto dal n. I della LF del 30 set. 2022 (Misure urgenti volte a garantire a breve termine l’approvvigionamento elettrico durante l’inverno), in vigore dal 1° ott. 2022 al 31 dic. 2025 ([RU 2022 543](https://fedlex.data.admin.ch/eli/oc/2022/543), qui art. 75*a*; [FF 2022 1536](https://fedlex.data.admin.ch/eli/fga/2022/1536), [1540](https://fedlex.data.admin.ch/eli/fga/2022/1540)).
 
 #### Art. 76
 
@@ -1310,5 +1449,5 @@ Gli atti normativi qui appresso sono modificati come segue:
 
 ...[^annexu1-lvlu1-2]
 
-[^annexu1-lvlu1-1]: [[RU 1999 197](https://fedlex.data.admin.ch/eli/oc/1999/27), [2004 4719](https://fedlex.data.admin.ch/eli/oc/2004/723)all. n. II 6, [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 69, [2007 3425](https://fedlex.data.admin.ch/eli/oc/2007/418)all. n. 2, [2010 4285](https://fedlex.data.admin.ch/eli/oc/2010/620)n. II 2 [5061](https://fedlex.data.admin.ch/eli/oc/2010/727)n. I 2 [5065](https://fedlex.data.admin.ch/eli/oc/2010/728), [2012 3231](https://fedlex.data.admin.ch/eli/oc/2012/370), [2013 4505](https://fedlex.data.admin.ch/eli/oc/2013/794), [2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197)n. II, [2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132)all. n. 26]
+[^annexu1-lvlu1-1]: [[RU 1999 197](https://fedlex.data.admin.ch/eli/oc/1999/27); [2004 4719](https://fedlex.data.admin.ch/eli/oc/2004/723)all. n. II 6; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 69; [2007 3425](https://fedlex.data.admin.ch/eli/oc/2007/418)all. n. 2; [2010 4285](https://fedlex.data.admin.ch/eli/oc/2010/620)n. II 2, [5061](https://fedlex.data.admin.ch/eli/oc/2010/727)n. I 2, [5065](https://fedlex.data.admin.ch/eli/oc/2010/728); [2012 3231](https://fedlex.data.admin.ch/eli/oc/2012/370); [2013 4505](https://fedlex.data.admin.ch/eli/oc/2013/794); [2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197)n. I;, [2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132)all. n. 26]
 [^annexu1-lvlu1-2]: Le mod. possono essere consultate alla [RU 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762).

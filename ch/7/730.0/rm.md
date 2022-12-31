@@ -4,11 +4,11 @@ title: "Lescha dals 30 da settember 2016 d'energia (LEn)"
 short: LEn
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/762"
 language: rm
-version: 2022-10-01
+version: 2023-01-01
 adopted: 2016-09-30
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/762/20221001/rm/xml/fedlex-data-admin-ch-eli-cc-2017-762-20221001-rm-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/762/20221001/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/762/20230101/rm/xml/fedlex-data-admin-ch-eli-cc-2017-762-20230101-rm-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/762/20230101/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (LEn)
 
-dals 30 da settember 2016 (versiun dal 1. d’october 2022)
+dals 30 da settember 2016 (versiun dal 1. da schaner 2023)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -230,7 +230,9 @@ Sch’il gestiunari da la rait ed il producent na pon betg sa cunvegnir, valan l
 - b. per l’electricitad d’implants che cumbineschan chalur e forza e che vegnan alimentads dal tuttafatg u per part cun carburants fossils sa drizza l’indemnisaziun tenor il pretsch da martgà il mument da la furniziun;
 - c. per il biogas s’orientescha l’indemnisaziun al pretsch ch’il gestiunari da la rait stuess pajar, sch’el cumprass l’energia d’ina terza vart.
 
-<sup>4</sup> Quest artitgel vala er, sch’ils producents pretendan ina indemnisaziun unica (art. 25) u ina contribuziun d’investiziun tenor ils artitgels 26 u 27. El na vala betg, uschè ditg ch’ils producents fan part dal sistem d’indemnisaziun per la furniziun d’electricitad (art. 19).
+<sup>4</sup> Ils alineas 1–3 na valan betg, uschè ditg ch’ils producents fan part dal sistem d’indemnisaziun per la furniziun d’electricitad (art. 19).[^15-1]
+
+[^15-1]: Versiun tenor la cifra I da la LF dal 1. d’oct. 2021, en vigur dapi il 1. da schan. 2023 ([AS 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [BBl 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
 
 #### Art. 16
 
@@ -238,7 +240,9 @@ Sch’il gestiunari da la rait ed il producent na pon betg sa cunvegnir, valan l
 
 <sup>1</sup> Ils gestiunaris da stabiliments dastgan consumar dal tuttafatg u per part l’energia ch’els sezs han producì al lieu da la producziun. Els dastgan er vender dal tuttafatg u per part l’energia ch’els sezs han producì per il consum al lieu da producziun. Tuttas duas chaussas valan sco agen consum. Il Cussegl federal decretescha disposiziuns per definir e per limitar il lieu da producziun.
 
-<sup>2</sup> L’alinea 1 vala er per gestiunaris da stabiliments che fan part dal sistem d’indemnisaziun per la furniziun d’electricitad (art. 19) u che pretendan ina indemnisaziun unica (art. 25) u ina contribuziun d’investiziun tenor ils artitgels 26 u 27.
+<sup>2</sup> L’alinea 1 vala er per gestiunaris da stabiliments che fan part dal sistem d’indemnisaziun per la furniziun d’electricitad (art. 19) u che pretendan ina contribuziun d’investiziun tenor il chapitel 5 u ina contribuziun als custs da manaschi (art. 33*a*).[^16-1]
+
+[^16-1]: Versiun tenor la cifra I da la LF dal 1. d’oct. 2021, en vigur dapi il 1. da schan. 2023 ([AS 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [BBl 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
 
 #### Art. 17
 
@@ -307,7 +311,7 @@ Ils gestiunaris d’ovras idraulicas ch’èn colliadas cun stabiliments dal pro
 - a. sa chattan entaifer trajects d’auas gia explotads; u
 - b. n’èn betg cumbinadas cun novas intervenziuns en auas natiralas.
 
-<sup>6</sup> Il Cussegl federal po augmentar la limita da prestaziun tenor l’alinea 4 litera b ensemen cun quella per l’indemnisaziun unica (art. 24 al. 1 lit. a). Sch’i dat ina interferenza, pon ils gestiunaris dal stabiliment tscherner tranter il sistem d’indemnisaziun per la furniziun d’electricitad e l’indemnisaziun unica.
+<sup>6</sup> Il Cussegl federal po augmentar la limita da prestaziun tenor l’alinea 4 litera b. Sch’i dat ina interferenza cun l’indemnisaziun unica, pon ils gestiunaris dal stabiliment tscherner tranter l’indemnisaziun per la furniziun d’electricitad e l’indemnisaziun unica.[^19-2]
 
 <sup>7</sup>
 
@@ -322,6 +326,7 @@ Il Cussegl federal regla ils ulteriurs detagls pertutgant il sistem d’indemnis
 - g. ulteriuras incumbensas da las gruppas da bilantscha e dals gestiunaris da las raits, particularmain l’obligaziun da surpigliar e d’indemnisar l’electricitad en il rom da l’artitgel 21 sco er l’eventuala obligaziun da pajar prestaziuns preliminaras.
 
 [^19-1]: Rectifitgà da la Cumissiun da redacziun da l’AF (art. 58 al. 1 LParl; [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^19-2]: Versiun tenor la cifra I da la LF dal 1. d’oct. 2021, en vigur dapi il 1. da schan. 2023 ([AS 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [BBl 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
 
 #### Art. 20
 
@@ -371,73 +376,142 @@ Il Cussegl federal decretescha disposiziuns executivas, en spezial davart:
 
 <sup>2</sup> Il Cussegl federal regla la fixaziun dal pretsch da martgà da referenza per ils singuls tips da stabiliment. La perioda da calculaziun dal pretsch da martgà mesaun duai esser tant pli lunga che la producziun po vegnir controllada meglier temporarmain.
 
-## 5. chapitel Contribuziun d’investiziun per implants da fotovoltaica, da forza idraulica e da biomassa
+## 5. chapitel Contribuziun d’investiziun per implants da fotovoltaica, da forza idraulica, da biomassa, d’energia dal vent e da geotermia
+
+[^chap5-1]
+
+[^chap5-1]: Versiun tenor la cifra I da la LF dal 1. d’oct. 2021, en vigur dapi il 1. da schan. 2023 ([AS 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [BBl 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
 
 #### Art. 24
 
-**Premissas generalas e modalitads da pajament**
+**Princips**[^24-1]
 
-<sup>1</sup>
+Sin basa da las disposiziuns da quest chapitel èsi pussaivel da pretender ina contribuziun d’investiziun per implants che produceschan electricitad or d’energias regenerablas, quai uschenavant ch’ils meds finanzials bastan (art. 35 e 36).
 
-Ils gestiunaris dals suandants stabiliments pon pretender ina contribuziun d’investiziun, uschenavant ch’ils meds finanzials bastan (art. 35 e 36):
-
-- a. implants da fotovoltaica: per novs stabiliments cun ina prestaziun da main che 30 kW e per engrondiments u per renovaziuns considerabels da tals implants; il Cussegl federal po fixar ina limita superiura da prestaziuns pli auta;
-- b.
-
-  ovras idraulicas, exceptà ovras d’accumulaziun a pumpa:
-
-  - 1\. per novs stabiliments cun ina prestaziun da pli che 10 MW,
-  - 2\. per engrondiments u renovaziuns considerabels da stabiliments existents cun ina prestaziun d’almain 300 kW;
-
-- c. implants da biomassa: per novs stabiliments per arder ruments e per novs stabiliments da gas da serenera sco er per novas ovras da laina d’impurtanza regiunala e per amplificaziuns u renovaziuns considerablas da tals stabiliments.
-
-<sup>2</sup> Las excepziuns tenor l’artitgel 19 alinea 5 che concernan las ovras idraulicas valan er en il rom da quest chapitel.
-
-<sup>3</sup> Ils gestiunaris pon pretender ina contribuziun d’investiziun mo, sch’il nov stabiliment u sch’il stabiliment engrondì u renovà considerablamain è vegnì mess en funcziun suenter il 1. da schaner 2013.
-
-<sup>4</sup> Ils gestiunaris d’implants da fotovoltaica survegnan la contribuziun d’investiziun sco pajament unic (indemnisaziun unica). Per ils gestiunaris d’ovras idraulicas e d’implants da biomassa po il Cussegl federal prevair in pajament graduà.
+[^24-1]: Versiun tenor la cifra I da la LF dal 1. d’oct. 2021, en vigur dapi il 1. da schan. 2023 ([AS 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [BBl 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
 
 #### Art. 25
 
-**Indemnisaziun unica per implants da fotovoltaica**
+**Contribuziun d’investiziun per implants da fotovoltaica**[^25-1]
 
-<sup>1</sup> L’indemnisaziun unica per implants da fotovoltaica tenor l’artitgel 24 alinea 1 litera a importa maximalmain 30 pertschient dals custs d’investiziun ch’eran decisivs cur ch’ils implants da referenza èn vegnids mess en funcziun.
+<sup>1</sup> Per installar novs implants da fotovoltaica e per engrondir considerablamain implants da fotovoltaica èsi pussaivel da pretender ina contribuziun d’investiziun (indemnisaziun unica).
 
-<sup>2</sup> Il Cussegl federal fixescha las tariffas; el po furmar categorias.
+<sup>2</sup> L’indemnisaziun unica importa maximalmain 30 pertschient dals custs d’investiziun d’implants da referenza ch’eran decisivs, cura che quels èn vegnids mess en funcziun.
+
+<sup>3</sup> L’indemnisaziun unica per implants, che furneschan tut l’electricitad ch’els produceschan, po importar – en divergenza da l’alinea 2 – fin 60 pertschient dals custs d’investiziun d’implants da referenza ch’eran decisivs, cura che quels èn vegnids mess en funcziun.
+
+[^25-1]: Versiun tenor la cifra I da la LF dal 1. d’oct. 2021, en vigur dapi il 1. da schan. 2023 ([AS 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [BBl 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+
+#### Art. 25a
+
+**Aucziuns per l’indemnisaziun unica**[^25a-1]
+
+<sup>1</sup> Per installar novs implants da fotovoltaica senza agen consum cun ina prestaziun a partir da 150 kW po il Cussegl federal prevair, che l’import da l’indemnisaziun unica vegnia fixà tras aucziuns. Quest import na dastga betg surpassar las contribuziuns d’investiziun tenor l’artitgel 25.
+
+<sup>2</sup> La tariffa d’indemnisaziun per la prestaziun d’in kilowatt è il criteri principal per l’agiudicaziun. Il Cussegl federal po prevair ulteriurs criteris.
+
+<sup>3</sup> Il Cussegl federal po prevair, ch’i stoppia vegnir depositada ina prestaziun da garanzia da fin 10 pertschient da l’indemnisaziun unica ch’è previsa per la prestaziun totala offrida, e reglar sia utilisaziun.
+
+<sup>4</sup>
+
+El po prevair sancziuns da fin 10 pertschient da l’indemnisaziun unica ch’è previsa per la prestaziun totala offrida, spezialmain sch’in project:
+
+- a. na vegn betg realisà entaifer il termin fixà;
+- b. na cuntanscha betg u cuntanscha mo parzialmain las finamiras garantidas en l’offerta, per la quala il participant da l’aucziun ha survegnì l’agiudicaziun;
+- c. n’ha betg u ha mo parzialmain las qualitads garantidas en l’offerta, per la quala il participant da l’aucziun ha survegnì l’agiudicaziun.
+
+[^25a-1]: Integrà tras la cifra I da la LF dal 1. d’oct. 2021, en vigur dapi il 1. da schan. 2023 ([AS 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [BBl 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
 
 #### Art. 26
 
-**Contribuziun d’investiziun per ovras idraulicas**
+**Contribuziun d’investiziun per ovras idraulicas**[^26-1]
 
-<sup>1</sup> La contribuziun d’investiziun per ovras idraulicas tenor l’artitgel 24 alinea 1 litera b vegn fixada da cas a cas. Per ovras idraulicas cun ina prestaziun da fin 10 MW importa ella maximalmain 60 pertschient dals custs d’investiziun imputabels, per ovras idraulicas cun ina prestaziun da pli che 10 MW maximalmain 40 pertschient.
+<sup>1</sup>
 
-<sup>2</sup> Il Cussegl federal fixescha ils criteris da calculaziun e las tariffas. Per engrondiments u renovaziuns considerabels sut ina tscherta limita po el fixar las tariffas tenor il princip da stabiliments da referenza.
+Ina contribuziun d’investiziun po vegnir pretendida per:
+
+- a. installar novas ovras idraulicas cun ina prestaziun d’almain 1 MW;
+- b. engrondir considerablamain ovras che han ina prestaziun d’almain 300 kW suenter l’engrondiment;
+- c. renovar considerablamain ovras che han ina prestaziun d’almain 300 kW suenter la renovaziun.
+
+<sup>2</sup> Per quella part da l’ovra, che serva a la circulaziun da la pumpa e turbina, n’èsi betg pussaivel da pretender ina contribuziun d’investiziun. Il Cussegl federal po prevair excepziuns, sch’i vegn cumprovà in basegn da capacitads d’accumulaziun supplementaras per pudair integrar energias regenerablas.
+
+<sup>3</sup>
+
+La contribuziun d’investiziun importa:
+
+- a. maximalmain 60 pertschient dals custs d’investiziun imputabels: per ovras tenor l’alinea 1 literas a e b;
+- b. maximalmain 40 pertschient dals custs d’investiziun imputabels: per ovras tenor l’alinea 1 litera c.
+
+<sup>4</sup> Las limitas da prestaziun inferiuras tenor l’alinea 1 na valan betg per implants accessorics.
+
+<sup>5</sup>
+
+Il Cussegl federal po excluder ulteriuras ovras idraulicas da las limitas da prestaziun inferiuras tenor l’alinea 1, sch’ellas:
+
+- a. sa chattan entaifer trajects d’auas gia explotads; u
+- b. n’èn betg cumbinadas cun novas intervenziuns en auas natiralas u ecologicamain impurtantas.
+
+[^26-1]: Versiun tenor la cifra I da la LF dal 1. d’oct. 2021, en vigur dapi il 1. da schan. 2023 ([AS 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [BBl 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
 
 #### Art. 27
 
-**Contribuziun d’investiziun per implants da biomassa**
+**Contribuziun d’investiziun per implants da biomassa**[^27-1]
 
-<sup>1</sup> La contribuziun d’investiziun per implants da biomassa tenor l’artitgel 24 alinea 1 litera c vegn fixada da cas a cas. Ella importa maximalmain 20 pertschient dals custs d’investiziun imputabels.
+<sup>1</sup> Per installar novs implants da biomassa e per engrondir u renovar considerablamain implants da biomassa èsi pussaivel da pretender ina contribuziun d’investiziun.
 
-<sup>2</sup> Il Cussegl federal fixescha ils criteris da calculaziun e las tariffas. Per investiziuns en stabiliments da gas da serra sut ina tscherta limita po el fixar las tariffas tenor il princip da stabiliments da referenza.
+<sup>2</sup> Quella importa maximalmain 60 pertschient dals custs d’investiziun imputabels.
+
+<sup>3</sup> Per implants che utiliseschan per part combustibels u carburants fossils, n’èsi betg pussaivel da pretender ina contribuziun d’investiziun.
+
+[^27-1]: Versiun tenor la cifra I da la LF dal 1. d’oct. 2021, en vigur dapi il 1. da schan. 2023 ([AS 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [BBl 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+
+#### Art. 27a
+
+**Contribuziun d’investiziun per implants d’energia dal vent**[^27a-1]
+
+<sup>1</sup> Per installar novs implants d’energia dal vent cun ina prestaziun d’almain 2 MW èsi pussaivel da pretender ina contribuziun d’investiziun.
+
+<sup>2</sup> Quella importa maximalmain 60 pertschient dals custs d’investiziun imputabels.
+
+[^27a-1]: Integrà tras la cifra I da la LF dal 1. d’oct. 2021, en vigur dapi il 1. da schan. 2023 ([AS 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [BBl 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+
+#### Art. 27b
+
+**Contribuziuns d’investiziun per implants da geotermia**[^27b-1]
+
+<sup>1</sup>
+
+Ina contribuziun d’investiziun po vegnir pretendida per:
+
+- a. explorar resursas geotermicas;
+- b. render accessiblas resursas geotermicas;
+- c. installar novs implants da geotermia.
+
+<sup>2</sup> Mintga contribuziun importa maximalmain 60 pertschient dals custs d’investiziun imputabels.
+
+[^27b-1]: Integrà tras la cifra I da la LF dal 1. d’oct. 2021, en vigur dapi il 1. da schan. 2023 ([AS 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [BBl 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
 
 #### Art. 28
 
 **Cumenzament da las lavurs da construcziun**
 
-<sup>1</sup> Tgi che vul pretender ina contribuziun d’investiziun tenor l’artitgel 26 u 27, po cumenzar cun las lavurs da construcziun, d’engrondiment u da renovaziun pir suenter ch’il UFE ha dà ina garanzia. Il UFE po permetter da cumenzar anticipadamain cun las lavurs da construcziun.
+<sup>1</sup> Tgi che ha l’intenziun da pretender ina contribuziun d’investiziun tenor ils artitgels 26–27*b*, dastga cumenzar cun las lavurs da construcziun, d’engrondiment u da renovaziun pir, suenter ch’il UFE ha dà ina garanzia. Il UFE po permetter da cumenzar anticipadamain cun las lavurs da construcziun.[^28-1]
 
-<sup>2</sup> Tgi che cumenza – senza garanzia u senza permissiun – anticipadamain cun las lavurs da construcziun, d’engrondiment u da renovaziun d’ina ovra idraulica u d’in implant da biomassa, na survegn betg ina contribuziun d’investiziun tenor l’artitgel 26 u 27.
+<sup>2</sup> Tgi che cumenza – senza garanzia e senza permissiun – anticipadamain cun las lavurs da construcziun, d’engrondiment u da renovaziun d’in implant, na survegn betg ina tala contribuziun d’investiziun.[^28-2]
 
 <sup>3</sup> Il Cussegl federal po extender questas reglas sin ina indemnisaziun unica per implants da fotovoltaica sur ina tscherta prestaziun.
 
+[^28-1]: Versiun tenor la cifra I da la LF dal 1. d’oct. 2021, en vigur dapi il 1. da schan. 2023 ([AS 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [BBl 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^28-2]: Versiun tenor la cifra I da la LF dal 1. d’oct. 2021, en vigur dapi il 1. da schan. 2023 ([AS 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [BBl 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+
 #### Art. 29
 
-**Cundiziuns e detagls**
+**Detagls[^29-1]**
 
 <sup>1</sup>
 
-Il Cussegl federal regla ils detagls per l’indemnisaziun unica e per las contribuziuns d’investiziun tenor ils artitgels 26 e 27, en spezial:
+Il Cussegl federal regla ils detagls per las contribuziuns d’investiziun tenor quest chapitel, particularmain:[^29-2]
 
 - a. la procedura da dumonda;
 - b. las tariffas per l’indemnisaziun unica e per las contribuziuns d’investiziun, inclusiv dals custs imputabels; el po prevair differentas metodas da calculaziun per las differentas tecnologias;
@@ -445,19 +519,32 @@ Il Cussegl federal regla ils detagls per l’indemnisaziun unica e per las contr
 - d. ils criteris che permettan da giuditgar, sch’in engrondiment u ina renovaziun d’in stabiliment è considerabel;
 - e. ils criteris che permettan da distinguer novs stabiliments d’engrondiments u da renovaziuns considerabels.
 
-<sup>2</sup> Cun fixar ed eventualmain cun adattar las tariffas stoi vegnir garantì che l’indemnisaziun unica e las contribuziuns d’investiziun na surpassian betg ils custs supplementars betg amortisabels. Ils custs supplementars betg amortisabels resultan da la differenza tranter ils custs da la producziun da l’electricitad chapitalisads ed il pretsch da martgà chapitalisà che sa lascha cuntanscher.
+<sup>2</sup> Per fixar las tariffas s’orientescha il Cussegl federal als custs betg cuvrids per installar novs implants u per engrondir u renovar implants existents.[^29-3]
 
 <sup>3</sup>
 
-Il Cussegl federal po prevair ultra da quai:
+Ultra da quai po il Cussegl federal prevair particularmain:[^29-4]
 
 - a. las pretensiuns minimalas energeticas, ecologicas ed autras;
 - b. las pretensiuns a la gestiun ed a la funcziunalitad dals stabiliments;
+- b<sup>bis</sup>.[^29-5] l’examinaziun concreta ed il giudicament concret da singulas dumondas, sch’i dat indizis, ch’i n’existian nagins custs betg cuvrids tar in implant;
 - c. ina restituziun da l’indemnisaziun unica u da las contribuziuns d’investiziun, particularmain sche las cundiziuns dal martgà d’energia chaschunan ina rentabilitad excessiva;
 - d. la grondezza minimala d’in stabiliment, ch’è necessaria per l’indemnisaziun unica;
 - e. las contribuziuns maximalas;
 - f. in’exclusiun u ina reducziun da l’indemnisaziun unica u da las contribuziuns d’investiziun, sch’igl è vegnì pajà in auter agid finanzial;
-- g. ina durada minimala, durant la quala in gestiunari che ha gia survegnì ina indemnisaziun unica u ina contribuziun d’investiziun, na dastga betg pretender puspè ina tala indemnisaziun u ina tala contribuziun per in stabiliment.
+- g. ina durada minimala, durant la quala in gestiunari che ha gia survegnì ina indemnisaziun unica u ina contribuziun d’investiziun, na dastga betg pretender puspè ina tala indemnisaziun u ina tala contribuziun per in stabiliment;
+- h.[^29-6] differentas categorias entaifer las singulas tecnologias;
+- i.[^29-7] tariffas tenor il princip d’implants da referenza per contribuziuns d’investiziun tenor ils artitgels 26–27*b* per tschertas classas da prestaziun;
+- j.[^29-8] l’obligaziun per projectaders che survegnan ina contribuziun d’investiziun tenor quest chapitel, da metter a disposiziun datas ed infurmaziuns d’interess public a la Confederaziun.
+
+[^29-1]: Versiun tenor la cifra I da la LF dal 1. d’oct. 2021, en vigur dapi il 1. da schan. 2023 ([AS 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [BBl 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^29-2]: Versiun tenor la cifra I da la LF dal 1. d’oct. 2021, en vigur dapi il 1. da schan. 2023 ([AS 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [BBl 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^29-3]: Versiun tenor la cifra I da la LF dal 1. d’oct. 2021, en vigur dapi il 1. da schan. 2023 ([AS 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [BBl 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^29-4]: Versiun tenor la cifra I da la LF dal 1. d’oct. 2021, en vigur dapi il 1. da schan. 2023 ([AS 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [BBl 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^29-5]: Integrà tras la cifra I da la LF dal 1. d’oct. 2021, en vigur dapi il 1. da schan. 2023 ([AS 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [BBl 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^29-6]: Integrà tras la cifra I da la LF dal 1. d’oct. 2021, en vigur dapi il 1. da schan. 2023 ([AS 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [BBl 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^29-7]: Integrà tras la cifra I da la LF dal 1. d’oct. 2021, en vigur dapi il 1. da schan. 2023 ([AS 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [BBl 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^29-8]: Integrà tras la cifra I da la LF dal 1. d’oct. 2021, en vigur dapi il 1. da schan. 2023 ([AS 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [BBl 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
 
 ## 6. chapitel Mesiras da sustegn particularas
 
@@ -479,12 +566,15 @@ Il Cussegl federal regla ils detagls, en spezial:
 - b. in’eventuala consideraziun d’ulteriurs retgavs relevants;
 - c. ils custs imputabels e lur determinaziun;
 - d. in’eventuala delegaziun al UFE per precisar ils retgavs ed ils custs totals, inclusiv ils custs da chapital;
-- e. la cunfinaziun envers la contribuziun d’investiziun per engrondiments u renovaziuns considerablas (art. 24 al. 1 lit. b cifra 2);
+- e.[^30-1] la cunfinaziun envers la contribuziun d’investiziun per engrondiments considerabels (art. 26 al. 1 lit. b);
 - f. la procedura, inclusiv ils documents che ston vegnir inoltrads, las modalitads da pajament e la collavuraziun tranter il UFE e la Cumissiun federala per l’electricitad (ElCom);
 - g. las obligaziuns da transparenza dals gestiunaris e proprietaris che n’han betg sezs il dretg;
 - h. la restituziun totala u parziala posteriura da la premia da martgà, en spezial pervia d’indicaziuns incorrectas u incumplettas.
 
-<sup>5</sup> Fin l’onn 2019 suttametta il Cussegl federal a l’Assamblea federala in sboz d’in decret per introducir in model datiers dal martgà fin il pli tard il mument che las mesiras da sustegn dal sistem d’indemnisaziun per la furniziun d’electricitad scadan.
+<sup>5</sup> …[^30-2]
+
+[^30-1]: Versiun tenor la cifra I da la LF dal 1. d’oct. 2021, en vigur dapi il 1. da schan. 2023 ([AS 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [BBl 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^30-2]: Abolì tras la cifra I da la LF dal 1. d’oct. 2021, cun effect dapi il 1. da schan. 2023 ([AS 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [BBl 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
 
 #### Art. 31
 
@@ -512,15 +602,43 @@ Il Cussegl federal prevesa publicaziuns da concurrenza uffizialas per mesiras d�
 
 #### Art. 33
 
-**Contribuziuns d’exploraziun e garanzias per la geotermia**
+**Garanzias per la geotermia**[^33-1]
 
-<sup>1</sup> Als custs per l’exploraziun da resursas geotermicas per producir electricitad pon vegnir pajadas contribuziuns. Las contribuziuns maximalas importan 60 pertschient dals custs d’investiziun imputabels.
+<sup>1</sup> Per segirar las ristgas d’investiziuns en il rom da l’exploraziun e da l’avertura da resursas geotermicas sco er da la construcziun da stabiliments geotermics per producir electricitad pon vegnir prestadas garanzias. Las garanzias importan maximalmain 60 pertschient dals custs d’investiziun imputabels.
 
-<sup>2</sup> Per segirar las ristgas d’investiziuns en il rom da l’exploraziun da resursas geotermicas e da la construcziun da stabiliments geotermics per producir electricitad pon vegnir prestadas garanzias. Las contribuziuns maximalas importan 60 pertschient dals custs d’investiziun imputabels.
+<sup>2</sup> Per in project da geotermia n’èsi betg pussaivel da pretender a medem temp ina garanzia tenor l’alinea 1 ed ina contribuziun tenor l’artitgel 27*b* alinea 1.
 
-<sup>3</sup> Per l’exploraziun da resursas geotermicas po vegnir concedida ubain la contribuziun ubain la garanzia.
+<sup>3</sup> Il Cussegl federal regla ils detagls, en spezial ils custs d’investiziun imputabels e la procedura.
 
-<sup>4</sup> Il Cussegl federal regla ils detagls, en spezial ils custs d’investiziun imputabels e la procedura.
+[^33-1]: Versiun tenor la cifra I da la LF dal 1. d’oct. 2021, en vigur dapi il 1. da schan. 2023 ([AS 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [BBl 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+
+#### Art. 33a
+
+**Contribuziun als custs da manaschi per implants da biomassa**[^33a-1]
+
+<sup>1</sup> Per implants da biomassa èsi pussaivel da pretender ina contribuziun als custs da manaschi, uschenavant ch’ils meds finanzials bastan (art. 35 e 36).
+
+<sup>2</sup> La contribuziun als custs da manaschi vegn fixada tenor la tariffa da contribuziun minus il pretsch da referenza dal martgà e vegn pajada per ura kilowatt electricitad furnida.
+
+<sup>3</sup> Il Cussegl federal fixescha l’import da la tariffa da contribuziun per mintga categoria e classa da prestaziun, quai sa basond sin ils custs da manaschi d’implants da referenza e resguardond eventuals retgavs. La tariffa da contribuziun po vegnir adattada a las relaziuns.
+
+<sup>4</sup>
+
+Ultra da quai po il Cussegl federal prevair particularmain:
+
+- a. pretensiuns minimalas energeticas, ecologicas ed autras;
+- b. las contribuziuns maximalas;
+- c. l’exclusiun d’implants cun custs da manaschi che pon vegnir cuvrids en in’autra moda.
+
+<sup>5</sup>
+
+I n’è betg pussaivel da pretender ina contribuziun als custs da manaschi per:
+
+- a. stabiliments per arder ruments d’abitadi (stabiliments per arder ruments);
+- b. stabiliments per arder glitta, stabiliments da gas da serenera e da gas da deponias;
+- c. stabiliments che utiliseschan per part combustibels u carburants fossils.
+
+[^33a-1]: Integrà tras la cifra I da la LF dal 1. d’oct. 2021, en vigur dapi il 1. da schan. 2023 ([AS 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [BBl 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
 
 #### Art. 34
 
@@ -548,22 +666,26 @@ Cun il supplement da rait vegnan finanziads:
 - a. la premia per la furniziun d’electricitad tenor l’artitgel 21 en il sistem d’indemnisaziun per la furniziun d’electricitad ed ils custs da transacziun ch’èn colliads cun quai;
 - b. ils custs per indemnisaziuns per la furniziun d’electricitad che n’èn betg cuvrids tras ils pretschs da martgà tenor il dretg vegl;
 - c. ils custs per las indemnisaziuns dals custs supplementars tenor l’artitgel 73 alinea 4 che n’èn betg cuvrids tras ils pretschs da martgà;
-- d. l’indemnisaziun unica tenor l’artitgel 25 e las contribuziuns d’investiziun tenor ils artitgels 26 e 27;
-- d<sup>bis</sup>.[^35-1] l’indemnisaziun unica tenor l’artitgel 71*a* alinea 4;
+- d.[^35-1] las contribuziuns d’investiziun tenor il chapitel 5;
+- d<sup>bis</sup>.[^35-2] l’indemnisaziun unica tenor l’artitgel 71*a* alinea 4;
 - e. la premia da martgà per l’electricitad producida en ovras idraulicas grondas tenor l’artitgel 30;
 - f. ils custs da las publicaziuns da concurrenza uffizialas tenor l’artitgel 32;
-- g. las contribuziuns d’exploraziun per la geotermia e las perditas da garanzias per la geotermia tenor l’artitgel 33;
+- g.[^35-3] las perditas da las garanzias per la geotermia tenor l’artitgel 33;
 - h. l’indemnisaziun tenor l’artitgel 34;
+- h<sup>bis</sup>.[^35-4] las contribuziuns als custs da manaschi tenor l’artitgel 33*a*;
 - i. ils custs d’execuziun respectivs, en spezial ils custs necessaris da l’organ executiv;
 - j. ils custs dal UFE che resultan per el da sias incumbensas envers l’organ executiv.
 
 <sup>3</sup> Il supplement da rait importa maximalmain 2,3 raps/kWh. Il Cussegl federal fixescha quel tenor ils basegns.
 
-[^35-1]: Integrà tras la cifra I da la LF dals 30 da sett. 2022 (mesiras urgentas per garantir a curta vista il provediment d’electricitad durant l’enviern), en vigur dal 1. d’oct. 2022 fin ils 31 da dec. 2025 ([AS 2022 543](https://fedlex.data.admin.ch/eli/oc/2022/543); [BBl 2022 1536](https://fedlex.data.admin.ch/eli/fga/2022/1536), [1540](https://fedlex.data.admin.ch/eli/fga/2022/1540)).
+[^35-1]: Versiun tenor la cifra I da la LF dal 1. d’oct. 2021, en vigur dapi il 1. da schan. 2023 ([AS 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [BBl 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^35-2]: Integrà tras la cifra I da la LF dals 30 da sett. 2022 (mesiras urgentas per garantir a curta vista il provediment d’electricitad durant l’enviern), en vigur dal 1. d’oct. 2022 fin ils 31 da dec. 2025 ([AS 2022 543](https://fedlex.data.admin.ch/eli/oc/2022/543); [BBl 2022 1536](https://fedlex.data.admin.ch/eli/fga/2022/1536), [1540](https://fedlex.data.admin.ch/eli/fga/2022/1540)).
+[^35-3]: Versiun tenor la cifra I da la LF dal 1. d’oct. 2021, en vigur dapi il 1. da schan. 2023 ([AS 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [BBl 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^35-4]: Integrà tras la cifra I da la LF dal 1. d’oct. 2021, en vigur dapi il 1. da schan. 2023 ([AS 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [BBl 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
 
 #### Art. 36
 
-**Limitaziun per singulas utilisaziuns e glista da spetga**
+**Limitaziun per singulas utilisaziuns e glista da spetga**[^36-1]
 
 <sup>1</sup>
 
@@ -574,17 +696,19 @@ Per impunder ils meds finanzials per las singulas utilisaziuns ston vegnir resgu
   ina quota maximala da mintgamai 0,1 raps/kWh per:
 
   - 1\. las publicaziuns da concurrenza uffizialas,
-  - 2\. las contribuziuns d’exploraziun e las garanzias per la geotermia,
+  - 2\. las contribuziuns d’investiziun e las garanzias per la geotermia,
   - 3\. l’indemnisaziun tenor l’artitgel 34;
 
-- b. ina quota maximala media fixada per ils ultims 5 onns da mintgamai 0,1 raps/kWh per las contribuziuns d’investiziun tenor l’artitgel 26 per ovras idraulicas cun ina prestaziun da passa 10 MW;
+- b. ina quota maximala da 0,2 raps/kWh per las contribuziuns d’investiziun tenor l’artitgel 26 alinea 1 per ovras idraulicas cun ina prestaziun da passa 10 MW;
 - c. ina quota maximala da 0,2 raps/kWh per la premia da martgà per l’electricitad producida en ovras idraulicas grondas.
 
-<sup>2</sup> Il UFE fixescha mintga onn ils meds finanzials che vegnan utilisads per ils gestiunaris d’implants da fotovoltaica che sa participeschan al sistem d’indemnisaziun per la furniziun d’electricitad (contingent per la fotovoltaica). El prenda en mira in augment cuntinuà e tegna quint dal svilup dals custs en connex cun la fotovoltaica d’ina vart e da las ulteriuras tecnologias da l’autra vart. Ultra da quai resguarda el la chargia da las raits d’electricitad sco er las pussaivladads d’accumulaziun.
+<sup>2</sup> Il UFE fixescha mintga onn ils meds finanzials che vegnan utilisads per ils implants da fotovoltaica (contingent per la fotovoltaica). El po er fixar contingents per las ulteriuras tecnologias. El prenda en mira in augment cuntinuà e tegna quint dal svilup dals custs.
 
-<sup>3</sup> El po er fixar ils meds finanzials (contingents) che stattan a disposiziun per l’indemnisaziun unica per implants da fotovoltaica a partir d’ina tscherta prestaziun, per las contribuziuns d’investiziun per engrondiments considerabels u per renovaziuns d’ovras idraulicas cun ina prestaziun da fin a 10 MW e per las contribuziuns d’investiziun per tut ils implants da biomassa, sche quai è necessari per evitar ina disproporziun tranter quests custs e quels per il sistem d’indemnisaziun per la furniziun d’electricitad.
+<sup>3</sup> Il Cussegl federal regla las consequenzas da las limitaziuns tenor quest artitgel. El po prevair glistas da spetga per las contribuziuns d’investiziun tenor il chapitel 5. Per reducir quellas po el er prevair auters criteris che la data d’annunzia.
 
-<sup>4</sup> Il Cussegl federal regla las consequenzas da las limitaziuns tenor quest artitgel. El po prevair glistas da spetga per il sistem d’indemnisaziun per la furniziun d’electricitad, per l’indemnisaziun unica per implants da fotovoltaica a partir d’ina tscherta prestaziun e per las contribuziuns d’investiziun tenor ils artitgels 26 e 27. Per reducir quella po el er prevair auters criteris che la data d’annunzia.
+<sup>4</sup> Ils meds finanzials tenor l’alinea 1 litera c, che n’èn betg vegnids duvrads, vegnan impundids l’onn suandant per autras utilisaziuns tenor l’artitgel 26 alinea 1 literas b e c u tenor l’artitgel 34, quai resguardond las quotas maximalas en l’alinea 1.
+
+[^36-1]: Versiun tenor la cifra I da la LF dal 1. d’oct. 2021, en vigur dapi il 1. da schan. 2023 ([AS 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [BBl 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
 
 #### Art. 37
 
@@ -617,12 +741,20 @@ Novas obligaziuns na vegnan betg pli surpigliadas il pli tard a partir dal 1. da
 
   da l’onn 2031 per:
 
-  - 1\. l’indemnisaziun unica tenor l’artitgel 25,
-  - 2\. las contribuziuns d’investiziun tenor ils artitgels 26 e 27,
+  - 1\.[^38-1] las indemnisaziuns unicas tenor ils artitgels 25 e 25*a*,
+  - 2\.[^38-2] las contribuziuns d’investiziun tenor ils artitgels 26–27*b*,
   - 3\. las publicaziuns da concurrenza uffizialas tenor l’artitgel 32,
-  - 4\. las contribuziuns d’exploraziun e las garanzias per la geotermia tenor l’artitgel 33.
+  - 4\.[^38-3] las garanzias per la geotermia tenor l’artitgel 33.
 
-<sup>2</sup> A partir dal 1. da schaner dal sisavel onn suenter l’entrada en vigur da questa lescha na pon betg pli vegnir pajadas premias da martgà tenor l’artitgel 30 per ovras idraulicas grondas.
+<sup>2</sup> La premia da martgà tenor l’artitgel 30 vegn pajada l’ultima giada per l’onn 2030.[^38-4]
+
+<sup>3</sup> Las contribuziuns als custs da manaschi tenor l’artitgel 33*a* vegnan concedidas fin ils 31 da december 2030.[^38-5]
+
+[^38-1]: Versiun tenor la cifra I da la LF dal 1. d’oct. 2021, en vigur dapi il 1. da schan. 2023 ([AS 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [BBl 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^38-2]: Versiun tenor la cifra I da la LF dal 1. d’oct. 2021, en vigur dapi il 1. da schan. 2023 ([AS 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [BBl 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^38-3]: Versiun tenor la cifra I da la LF dal 1. d’oct. 2021, en vigur dapi il 1. da schan. 2023 ([AS 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [BBl 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^38-4]: Versiun tenor la cifra I da la LF dal 1. d’oct. 2021, en vigur dapi il 1. da schan. 2023 ([AS 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [BBl 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^38-5]: Integrà tras la cifra I da la LF dal 1. d’oct. 2021, en vigur dapi il 1. da schan. 2023 ([AS 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [BBl 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
 
 ### 2. secziun Restituziun
 
@@ -983,7 +1115,7 @@ Las autoritads federalas cumpetentas pon publitgar questas datas persunalas anon
 
 <sup>1</sup> Il UFE prenda las mesiras e pronunzia las disposiziuns tenor questa lescha, uschenavant che la Confederaziun è cumpetenta ed uschenavant che questa lescha n’attribuescha betg la cumpetenza ad in’autra autoritad.
 
-<sup>2</sup> En enclegientscha cun il chantun pertutgà decida il UFAM davart l’indemnisaziun tenor l’artitgel 34.
+<sup>2</sup> En enclegientscha cun il chantun pertutgà decida il UFAM davart l’indemnisaziun tenor l’artitgel 34, e quai per regla entaifer 6 mais suenter l’entrada da la dumonda.[^62-1]
 
 <sup>3</sup> Cun resalva da l’alinea 4 decida la ElCom en cas da dispitas sin basa dals artitgels 15, 16–18 e 73 alineas 4 e 5.
 
@@ -993,6 +1125,8 @@ Las dretgiras civilas giuditgeschan:
 
 - a. dispitas che resultan da cunvegnas tenor l’artitgel 17 alinea 1;
 - b. dispitas che resultan da la relaziun giuridica tranter proprietaris da bains immobigliars d’ina vart e locataris u fittadins da l’autra vart en connex cun il regruppament per l’agen consum.
+
+[^62-1]: Versiun tenor la cifra I da la LF dal 1. d’oct. 2021, en vigur dapi il 1. da schan. 2023 ([AS 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [BBl 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
 
 #### Art. 63
 
@@ -1107,7 +1241,7 @@ Tut las persunas ch’èn incaricadas cun l’execuziun da questa lescha èn sut
 Cun ina multa fin a 100 000 francs vegn chastià, tgi che fa intenziunadamain il suandant:
 
 - a. violescha prescripziuns davart la garanzia d’origin, davart la contabilitad d’electricitad e davart la designaziun d’electricitad (art. 9);
-- b. fa indicaziuns faussas u incumplettas en il rom dal sistem d’indemnisaziun per la furniziun d’electricitad (art. 19), da l’indemnisaziun unica (art. 25) u da las contribuziuns d’investiziun (art. 26 e 27);
+- b.[^70-1] fa indicaziuns faussas u incumplettas en il rom dal sistem d’indemnisaziun per la furniziun d’electricitad (art. 19) u da las contribuziuns d’investiziun (art. 25–27*b*);
 - c. fa indicaziuns faussas u incumplettas en connex cun la premia da martgà per l’electricitad producida en ovras idraulicas grondas (art. 30 e 31);
 - d. fa indicaziuns faussas u incumplettas en il rom da l’incassament dal supplement da rait (art. 35), da la restituziun dal supplement da rait (art. 39–43) u en connex cun la cunvegna da finamiras concludida per la restituziun dal supplement da rait (art. 40 lit. a e 41);
 - e. violescha prescripziuns davart stabiliments, vehichels ed apparats producids en seria (art. 44);
@@ -1115,6 +1249,8 @@ Cun ina multa fin a 100 000 francs vegn chastià, tgi che fa intenziunadamain il
 - g. cuntrafa ad ina prescripziun executiva, da la quala il surpassament è vegnì declerà sco chastiabel, u cuntrafa ad ina disposiziun ch’è vegnida pronunziada cunter el sut la smanatscha d’in chasti tenor quest artitgel.
 
 <sup>2</sup> Sch’il malfatg vegn commess per negligientscha, è il chasti ina multa fin a 20 000 francs.
+
+[^70-1]: Versiun tenor la cifra I da la LF dal 1. d’oct. 2021, en vigur dapi il 1. da schan. 2023 ([AS 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [BBl 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
 
 #### Art. 71
 
@@ -1220,22 +1356,21 @@ Per gestiunaris, als quals l’indemnisaziun è vegnida garantida avant l’entr
 
 **Disposiziuns transitoricas tar autras utilisaziuns dal supplement da rait**
 
-<sup>1</sup> Per tgi che ha in dretg tenor ils artitgels 26 e 27 ed ha survegnì in avis d’inscripziun sin la glista da spetga avant l’entrada en vigur da questa lescha, na vala la prescripziun davart il cumenzament da las lavurs da construcziun tenor l’artitgel 28 betg, sch’il stabiliment è gia construì.
-
-<sup>2</sup> Per tgi che ha in dretg tenor ils artitgels 25, 26 e 27 ed ha survegnì in avis d’inscripziun sin la glista da spetga fin ils 31 da fanadur 2013, na vala l’artitgel 24 alinea 3 betg.
+<sup>1</sup> e <sup>2</sup> …[^73-1]
 
 <sup>3</sup> Tgi che ha survegnì, tranter il 1. d’avust 2013 e l’entrada en vigur da questa lescha, ina decisiun da princip lianta concernent la concessiun d’ina garanzia en l’autezza da 50 pertschient dals custs d’investiziun per segirar las ristgas da stabiliments da geotermia, po dumandar il UFE, entaifer 6 mais suenter l’entrada en vigur da questa lescha, che la decisiun da princip vegnia giuditgada da nov tenor il dretg nov. I n’exista nagin dretg sin in augment da la garanzia.
 
 <sup>4</sup>
 
-Per contracts existents tranter ils gestiunaris da raits ed ils producents independents per la retratga d’electricitad da stabiliments che utiliseschan energias regenerablas (finanziaziun dals custs supplementars), valan las cundiziuns da colliaziun tenor l’artitgel 7 dal dretg vertent en la versiun dals 26 da zercladur 1998[^73-1]:
+Per contracts existents tranter ils gestiunaris da raits ed ils producents independents per la retratga d’electricitad da stabiliments che utiliseschan energias regenerablas (finanziaziun dals custs supplementars), valan las cundiziuns da colliaziun tenor l’artitgel 7 dal dretg vertent en la versiun dals 26 da zercladur 1998[^73-2]:
 
 - a. per ovras idraulicas fin ils 31 da december 2035;
 - b. per tut ils ulteriurs stabiliments fin ils 31 da december 2025.
 
 <sup>5</sup> En cas da contracts tenor l’alinea 4, che reglan la retratga d’electricitad d’ovras idraulicas, po la ElCom reducir adequatamain l’indemnisaziun da cas a cas, sch’igl exista ina disproporziun evidenta tranter il pretsch d’acquist ed ils custs da producziun.
 
-[^73-1]: [AS 1999 197](https://fedlex.data.admin.ch/eli/oc/1999/27)
+[^73-1]: Abolì tras la cifra I da la LF dal 1. d’oct. 2021, cun effect dapi il 1. da schan. 2023 ([AS 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [BBl 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^73-2]: [AS 1999 197](https://fedlex.data.admin.ch/eli/oc/1999/27)
 
 #### Art. 74
 
@@ -1259,11 +1394,24 @@ Per consuments finals che han fatg ina cunvegna da finamiras tenor il dretg vert
 
 #### Art. 75a
 
-**Disposiziun transitorica da la midada dals 30 da settember 2022 (obligaziun da trair a niz l’energia solara tar edifizis)**[^75a-1]
+**Disposiziuns transitoricas tar las contribuziuns d’investiziun sco er tar las contribuziuns per l’exploraziun da resursas geotermicas e las garanzias per la geotermia**[^75a-1]
+
+<sup>1</sup> Sch’igl è vegnì garantì da princip ad in gestiunari d’in implant – avant l’entrada en vigur da la midada dal 1. d’october 2021 – ch’el survegnia ina indemnisaziun unica per in implant da fotovoltaica u ina contribuziun d’investiziun per in’ovra idraulica u per in implant da biomassa, ha el er vinavant quest dretg. Valair valan las disposiziuns dal chapitel 5 dal dretg anteriur en la versiun dals 30 da settember 2016[^75a-2].
+
+<sup>2</sup> Las dumondas cumplettas per contribuziuns d’investiziun a favur d’ovras idraulicas cun ina prestaziun da passa 10 MW, ch’èn vegnidas inoltradas il pli tard l’ultim di da referenza avant l’entrada en vigur da la midada dal 1. d’october 2021, vegnan giuditgadas tenor las disposiziuns dal chapitel 5 dal dretg anteriur en la versiun dals 30 da settember 2016.
+
+<sup>3</sup> Tgi che ha inoltrà ina dumonda da survegnir ina contribuziun per l’exploraziun da resursas geotermicas u ina garanzia per la geotermia tenor l’artitgel 33 dal dretg anteriur en la versiun dals 30 da settember 2016 u che ha gia concludì in contract correspundent avant l’entrada en vigur da la midada dal 1. d’october 2021, po dumandar il UFE, il pli tard 6 mais suenter l’entrada en vigur da questa midada, da survegnir ina contribuziun d’investiziun tenor l’artitgel 27*b* alinea 1 litera b empè da la contribuziun d’exploraziun u da la garanzia per la geotermia.
+
+[^75a-1]: Integrà tras la cifra I da la LF dal 1. d’oct. 2021, en vigur dapi il 1. da schan. 2023 ([AS 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [BBl 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^75a-2]: [AS 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762)
+
+#### Art. 75b
+
+**Disposiziun transitorica da la midada dals 30 da settember 2022 (obligaziun da trair a niz l’energia solara tar edifizis)**[^75b-1]
 
 Ils chantuns decreteschan las disposiziuns davart las excepziuns tenor l’artitgel 45*a* alinea 2 fin il 1. da schaner 2023. Las dumondas che vegnan inoltradas avant questa data, n’èn betg suttamessas a l’obligaziun tenor l’artitgel 45*a* alinea 1.
 
-[^75a-1]: Integrà tras la cifra I da la LF dals 30 da sett. 2022 (mesiras urgentas per garantir a curta vista il provediment d’electricitad durant l’enviern), en vigur dal 1. d’oct. 2022 fin ils 31 da dec. 2025 ([AS 2022 543](https://fedlex.data.admin.ch/eli/oc/2022/543); [BBl 2022 1536](https://fedlex.data.admin.ch/eli/fga/2022/1536), [1540](https://fedlex.data.admin.ch/eli/fga/2022/1540)).
+[^75b-1]: Oriundamain art. 75*a*. Integrà tras la cifra I da la LF dals 30 da sett. 2022 (mesiras urgentas per garantir a curta vista il provediment d’electricitad durant l’enviern), en vigur dal 1. d’oct. 2022 fin ils 31 da dec. 2025 ([AS 2022 543](https://fedlex.data.admin.ch/eli/oc/2022/543); [BBl 2022 1536](https://fedlex.data.admin.ch/eli/fga/2022/1536), [1540](https://fedlex.data.admin.ch/eli/fga/2022/1540)).
 
 #### Art. 76
 
