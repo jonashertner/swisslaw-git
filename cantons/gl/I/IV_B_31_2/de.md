@@ -4,13 +4,13 @@ number: IV B/31/2
 title: Verordnung über den Vollzug der Gesetzgebung zur Volksschule
 short: "Volksschulvollzugsverordnung, VSVV"
 language: de
-version: 2017-08-01
-valid_until: 2022-12-31
-version_adopted: 2015-11-10
+version: 2023-01-01
+valid_until: 2026-07-31
+version_adopted: 2022-12-13
 adopted: 2010-02-09
 in_force: 2011-08-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/IV-B.31.2"
-pdf: "https://gesetze.gl.ch/api/de/versions/1832/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2394/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/1832/pdf_file"
 
 (Volksschulvollzugsverordnung, VSVV)
 
-Vom 09.02.2010 (Stand 01.08.2017)
+Vom 09.02.2010 (Stand 01.01.2023)
 
 Der Regierungsrat,
 
@@ -140,65 +140,11 @@ verordnet:
 
 <sup>1</sup> Der besondere Förderbedarf und die Zweckmässigkeit der angeordneten Massnahmen sind im Rahmen von Standortgesprächen periodisch zu überprüfen und der Schulleitung entsprechend Antrag zu stellen.
 
-## 3. Tagesstrukturen und Betreuung vorschulpflichtiger Kinder
+## 3.
 
-#### Art. 13
-
-**Trägerschaft**
-
-<sup>1</sup> Die Gemeinden können Angebote für Tagesstrukturen selber führen oder Dritte damit beauftragen.
-
-#### Art. 14
+#### Art. 13–15
 
 **…**
-
-#### Art. 14a
-
-**Betriebsbewilligung, Zuständigkeit**
-
-<sup>1</sup> Die Ausrichtung von Beiträgen nach Artikel 22 der Volksschulverordnung an Einrichtungen, die tagsüber vorschul- und schulpflichtige Kinder betreuen, setzt die Erteilung einer Betriebsbewilligung voraus.
-
-<sup>2</sup> Die Voraussetzungen für die Erteilung einer Betriebsbewilligung richten sich nach den Bestimmungen der eidgenössischen Pflegekinderverordnung.
-
-<sup>3</sup> Gesuche sind bei der Fachstelle Familie einzureichen.
-
-<sup>4</sup> Das Departement Bildung und Kultur entscheidet auf Antrag der Fachstelle.
-
-#### Art. 14b
-
-**Aufsicht**
-
-<sup>1</sup> Die Fachstelle übt die Aufsicht über die Einrichtungen aus.
-
-<sup>2</sup> Stellt sie Mängel fest, beantragt sie beim Departement die notwendigen Massnahmen.
-
-#### Art. 14c
-
-**Bekanntmachung**
-
-<sup>1</sup> Die Fachstelle führt ein kantonales Verzeichnis über die Angebote im Familienbereich.
-
-<sup>2</sup> Das Verzeichnis enthält sämtliche Betriebsbewilligungen und ist öffentlich zugänglich.
-
-#### Art. 14d
-
-**Sozialtarif**
-
-<sup>1</sup> Bemessungsbasis für die Abstufung des Sozialtarifes gemäss Artikel 22 Absatz 3 der Volksschulverordnung bildet das anrechenbare Einkommen, welches der Summe des steuerbaren Einkommens zuzüglich zehn Prozent des steuerbaren Vermögens der Erziehungsberechtigten entspricht.
-
-<sup>2</sup> Bis zu einem anrechenbaren jährlichen Einkommen von 30'000 Franken wird eine volle Pauschale ausgerichtet.
-
-<sup>3</sup> Bei einem anrechenbaren jährlichen Einkommen von mehr als 30'000 Franken wird die Pauschale pro 10'000 Franken um jeweils zehn Prozent gekürzt.
-
-<sup>4</sup> Übertrifft das Einkommen 90'000 Franken, wird keine Pauschale mehr ausgerichtet.
-
-#### Art. 15
-
-**Benutzungsordnung**
-
-<sup>1</sup> Die Gemeinden erlassen für ihre Tagesstrukturen gemäss Artikel 54 Absatz 2 des Bildungsgesetzes eine Benutzungsordnung.
-
-<sup>2</sup> Die Benutzungsordnung regelt insbesondere den Umfang, die Betriebszeiten sowie den Benutzungstarif des Angebots.
 
 ## 4. Absenzen, Dispensation und Urlaub der Lernenden
 
