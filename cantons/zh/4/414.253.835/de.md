@@ -3,11 +3,11 @@ canton: ZH
 number: "414.253.835"
 title: Studienordnung für den Masterstudiengang Wirtschaftsinformatik an der Zürcher Hochschule für Angewandte Wissenschaften
 language: de
-version: "2022-02-01"
-nachtrag: "116"
-valid_until: 2023-01-01
+version: "2023-01-01"
+nachtrag: "119"
+valid_until: 2024-12-01
 adopted: 2019-08-22
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_835-2019_08_22-2020_04_01-116.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_835-2019_08_22-2020_04_01-119.html"
 text: pdf
 ---
 
@@ -67,7 +67,7 @@ An der ZHAW oder andernorts erworbene ECTS-Credits werden während sechs Jahren 
 
 **1**
 
-- 1\. 4. 22 - 116
+- 1\. 1. 23 - 119
 
 - b. Bachelorabschluss in Business Administration, Vertiefung Wirtschaftsinformatik, im Umfang von 180 ECTS-Credits mit mindestens guten Leistungen. Von den 180 ECTS-Credits müssen mindestens 40 ECTS-Credits aus dem Fachgebiet «Wirtschaftsinformatik» stammen,
 
@@ -164,7 +164,7 @@ Die Abschlussnote errechnet sich aus dem Durchschnitt der Noten der promotionsre
 
 **3**
 
-- 1\. 4. 22 - 116 § 15. <sup>1</sup> Werden mehr Wahlpflichtmodule als nötig belegt, so gelten die überzähligen Wahlpflichtmodule als Wahlmodule.
+- 1\. 1. 23 - 119 § 15. <sup>1</sup> Werden mehr Wahlpflichtmodule als nötig belegt, so gelten die überzähligen Wahlpflichtmodule als Wahlmodule.
 
 **Überzählige ECTS-Credits aus Wahlpflichtmodulen**
 
@@ -176,11 +176,11 @@ Die Abschlussnote errechnet sich aus dem Durchschnitt der Noten der promotionsre
 
 <sup>3</sup> Die überzähligen Wahlpflichtmodule werden nicht für die Berechnung der Abschlussnote herangezogen.
 
-#### § 16
-
 **Titel**
 
-Der Masterstudiengang wird mit folgendem Titel abgeschlossen: «Master of Science ZFH in Wirtschaftsinformatik».
+§ 16.[^14-1] Der Masterstudiengang wird mit folgendem Titel abgeschlossen: «Master of Science ZHAW in Wirtschaftsinformatik».
+
+[^14-1]: Fassung gemäss B vom 2. Juni 2022 (OS 77, 519; ABl 2022-08-19). In Kraft seit 1. Januar 2023.
 
 ### F. Schlussbestimmungen
 
@@ -204,10 +204,10 @@ Studierende, welche ihr Studium vor dem Herbstsemester 2020/2021 aufgenommen hab
 
 Der Anhang zur Studienordnung für den Masterstudiengang Wirtschaftsinformatik an der Zürcher Hochschule für Angewandte Wissenschaften wird weder in die Offizielle Gesetzessammlung (OS) noch in die Zürcher Loseblattsammlung (LS) aufgenommen. Er kann bei der
 
-Zürcher Hochschule für Angewandte Wissenschaften Ressort Lehre Gertrudstrasse 15 Postfach 8400 Winterthur
+Zürcher Hochschule für Angewandte Wissenschaften Ressort Bildung Gertrudstrasse 15 Postfach 8400 Winterthur
 
 bezogen oder unter (www.zhaw.ch) eingesehen werden.
 
 **5**
 
-- 1\. 4. 22 - 116
+- 1\. 1. 23 - 119
