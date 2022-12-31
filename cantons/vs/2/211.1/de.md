@@ -5,12 +5,12 @@ title: Einführungsgesetz zum Schweizerischen Zivilgesetzbuch
 short: EGZGB
 language: de
 version: 2023-01-01
-valid_until: 2026-12-31
+corrected: 2022-01-26
 version_adopted: 2020-12-17
 adopted: 1998-03-24
 in_force: 1999-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/211.1"
-pdf: "https://lex.vs.ch/api/de/versions/3011/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/2965/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -364,7 +364,7 @@ verordnet:
 - a) einen Abschluss einer Hochschule oder einer höheren Fachschule, namentlich in den Bereichen Psychologie, Pädagogik, Sozialarbeit, Buchhaltung oder treuhänderische Vermögensverwaltung, oder
 - b) einen als gleichwertig anerkannten Abschluss mit der nötigen Berufserfahrung.
 
-<sup>3</sup> Anlässlich der Ernennung verlangt sie die Vorlage eines Betreibungsregisterauszuges und eines ordentlichen und eines Sonderprivatauszuges aus dem Strafregister. Dieser Vorgang wird alle 2 Jahre oder wenn es die Schutzbehörde für notwendig erachtet erneuert.
+<sup>3</sup> Anlässlich der Ernennung verlangt sie die Vorlage eines Betreibungsregisterauszuges und eines ordentlichen oder eines Sonderprivatauszuges aus dem Strafregister. Dieser Vorgang wird alle 2 Jahre oder wenn es die Schutzbehörde für notwendig erachtet erneuert.
 
 <sup>4</sup> Die Schutzbehörde erkundigt sich jährlich danach, ob eine Weiterbildung durchlaufen wurde.
 

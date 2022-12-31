@@ -5,12 +5,12 @@ title: "Loi d'application du code civil suisse"
 short: LACC
 language: fr
 version: 2023-01-01
-valid_until: 2026-12-31
+corrected: 2022-01-26
 version_adopted: 2020-12-17
 adopted: 1998-03-24
 in_force: 1999-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/211.1"
-pdf: "https://lex.vs.ch/api/fr/versions/3011/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/2965/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
