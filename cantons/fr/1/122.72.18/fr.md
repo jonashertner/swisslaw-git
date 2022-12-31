@@ -3,13 +3,12 @@ canton: FR
 number: "122.72.18"
 title: "Ordonnance sur la garantie de la rémunération en cas de maladie et d'accident du personnel de l'Etat"
 language: fr
-version: 2014-01-01
-valid_until: 2022-12-31
-version_adopted: 2013-09-24
+version: 2023-01-01
+version_adopted: 2021-12-14
 adopted: 2003-09-16
 in_force: 2004-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/122.72.18"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5031/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7576/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/5031/pdf_file"
 
 Personnel de l'Etat, garantie en cas de maladie et d'accident – O
 
-du 16.09.2003 (version entrée en vigueur le 01.01.2014)
+du 16.09.2003 (version entrée en vigueur le 01.01.2023)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -120,7 +119,7 @@ Arrête:
 
 **Financement de la garantie complète – Retenue salariale**
 
-<sup>1</sup> La retenue salariale est de 1,5 ‰ du traitement brut.
+<sup>1</sup> La retenue salariale est de 2,3 ‰ du traitement brut.
 
 <sup>2</sup> La retenue salariale est effectuée sur le traitement du collaborateur ou de la collaboratrice, y compris pendant les périodes d'incapacité de travail. La retenue salariale n'est en revanche pas effectuée sur les indemnités journalières versées par la Caisse de prévoyance.
 
@@ -133,7 +132,7 @@ Arrête:
 <sup>2</sup> La Caisse de prévoyance facture chaque année au fonds:
 
 - a) le montant correspondant aux indemnités journalières qu'elle verse, déduction faite de ses propres prestations ainsi que de celles qui découlent de l'article 83 RPers;
-- b) un montant correspondant à ses frais de gestion, convenu préalablement avec la Direction des finances après consultation de la Commission consultative permanente pour les questions de personnel (ci-après: la Commission) ainsi que des partenaires reconnus selon l'article 128 LPers.
+- b) un montant correspondant à ses frais de gestion, convenu préalablement avec la Direction des finances après consultation de la Délégation du Conseil d'Etat pour les questions de personnel (ci-après: la DCEQP) ainsi que des partenaires reconnus selon l'article 128 LPers.
 
 #### Art. 12
 
@@ -141,15 +140,15 @@ Arrête:
 
 <sup>1</sup> Le fonds est géré par la Caisse de prévoyance. Les intérêts du compte courant bancaire et, le cas échéant, des placements sont bonifiés au fonds.
 
-<sup>2</sup> La Caisse de prévoyance communique annuellement l'état du fonds à la Direction des finances, à la Commission ainsi qu'aux partenaires reconnus selon l'article 128 LPers.
+<sup>2</sup> La Caisse de prévoyance communique annuellement l'état du fonds à la Direction des finances, à la DCEQP ainsi qu'aux partenaires reconnus selon l'article 128 LPers.
 
-<sup>3</sup> L'Inspection des finances contrôle annuellement les comptes du fonds et communique son rapport à la Commission.
+<sup>3</sup> L'Inspection des finances contrôle annuellement les comptes du fonds et communique son rapport à la DCEQP.
 
 #### Art. 13
 
 **Financement de la garantie complète – Ajustement des retenues salariales**
 
-<sup>1</sup> Tous les trois ans, sur la base de l'état du fonds, la Direction des finances propose au Conseil d'Etat, après consultation de la Commission et des partenaires reconnus, le maintien ou la modification du taux des retenues salariales.
+<sup>1</sup> Tous les trois ans, sur la base de l'état du fonds, la Direction des finances propose au Conseil d'Etat, après consultation de la DCEQP, le maintien ou la modification du taux des retenues salariales.
 
 ## 3 Garantie partielle de la rémunération
 

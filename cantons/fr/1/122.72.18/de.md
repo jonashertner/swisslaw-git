@@ -3,13 +3,12 @@ canton: FR
 number: "122.72.18"
 title: Verordnung über die Lohngarantie des Staatspersonals bei Krankheit und Unfall
 language: de
-version: 2014-01-01
-valid_until: 2022-12-31
-version_adopted: 2013-09-24
+version: 2023-01-01
+version_adopted: 2021-12-14
 adopted: 2003-09-16
 in_force: 2004-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/122.72.18"
-pdf: "https://bdlf.fr.ch/api/de/versions/5031/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7576/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/5031/pdf_file"
 
 Staatspersonal, Lohngarantie bei Krankheit und Unfall – V
 
-vom 16.09.2003 (Fassung in Kraft getreten am 01.01.2014)
+vom 16.09.2003 (Fassung in Kraft getreten am 01.01.2023)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -120,7 +119,7 @@ beschliesst:
 
 **Finanzierung der vollständigen Lohngarantie – Lohnrückbehalt**
 
-<sup>1</sup> Der Lohnrückbehalt beträgt 1,5 ‰ des Bruttogehalts.
+<sup>1</sup> Der Lohnrückbehalt beträgt 2,3 ‰ des Bruttogehalts.
 
 <sup>2</sup> Der Lohnrückbehalt wird auf dem Gehalt der Mitarbeiterinnen und Mitarbeiter vorgenommen, auch während der Dauer einer Arbeitsunfähigkeit. Der Lohnrückbehalt wird jedoch nicht von den Taggeldern der Pensionskasse abgezogen.
 
@@ -133,7 +132,7 @@ beschliesst:
 <sup>2</sup> Die Pensionskasse belastet dem Fonds jedes Jahr:
 
 - a) den Betrag der von ihr ausgerichteten Taggelder, abzüglich ihrer eigenen Leistungen sowie der Leistungen, die sich aus Artikel 83 StPR ergeben;
-- b) einen Betrag für ihre Verwaltungskosten, der nach Anhören der ständigen beratenden Kommission für Personalfragen (die Kommission) und der nach Artikel 128 StPG anerkannten Partner im Voraus mit der Finanzdirektion vereinbart wird.
+- b) einen Betrag für ihre Verwaltungskosten, der nach Anhören der Delegation des Staatsrats für das Personalwesen (die Delegation für das Personalwesen) und der nach Artikel 128 StPG anerkannten Partner im Voraus mit der Finanzdirektion vereinbart wird.
 
 #### Art. 12
 
@@ -141,15 +140,15 @@ beschliesst:
 
 <sup>1</sup> Der Fonds wird von der Pensionskasse verwaltet. Die Zinsen des Bankkontokorrents und gegebenenfalls der Kapitalanlagen werden dem Fonds gutgeschrieben.
 
-<sup>2</sup> Die Pensionskasse informiert die Finanzdirektion, die Kommission sowie die nach Artikel 128 StPG anerkannten Partner jedes Jahr über den Vermögensstand des Fonds.
+<sup>2</sup> Die Pensionskasse informiert die Finanzdirektion, die Delegation für das Personalwesen sowie die nach Artikel 128 StPG anerkannten Partner jedes Jahr über den Vermögensstand des Fonds.
 
-<sup>3</sup> Das Finanzinspektorat kontrolliert jährlich die Rechnung des Fonds und teilt der Kommission seinen Bericht mit.
+<sup>3</sup> Das Finanzinspektorat kontrolliert jährlich die Rechnung des Fonds und teilt der Delegation für das Personalwesen seinen Bericht mit.
 
 #### Art. 13
 
 **Finanzierung der vollständigen Lohngarantie – Anpassung des Lohnrückbehalts**
 
-<sup>1</sup> Die Finanzdirektion beantragt dem Staatsrat alle drei Jahre anhand des Vermögensstandes des Fonds nach Stellungnahme der Kommission und der anerkannten Partner die Beibehaltung oder die Änderung des Satzes für den Lohnrückbehalt.
+<sup>1</sup> Die Finanzdirektion beantragt dem Staatsrat alle drei Jahre anhand des Vermögensstandes des Fonds nach Stellungnahme der Delegation für das Personalwesen und der anerkannten Partner die Beibehaltung oder die Änderung des Satzes für den Lohnrückbehalt.
 
 ## 3 Teil-Lohngarantie
 
