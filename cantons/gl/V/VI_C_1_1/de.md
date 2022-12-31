@@ -4,13 +4,13 @@ number: VI C/1/1
 title: Steuergesetz
 short: StG
 language: de
-version: 2022-02-01
-valid_until: 2022-12-31
-version_adopted: 2021-09-05
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2023-05-07
 adopted: 2000-05-07
 in_force: 2001-01-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/VI-C.1.1"
-pdf: "https://gesetze.gl.ch/api/de/versions/2264/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2436/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2264/pdf_file"
 
 (StG)
 
-Vom 07.05.2000 (Stand 01.02.2022)
+Vom 07.05.2000 (Stand 01.01.2023)
 
 (Erlassen von der Landsgemeinde am 7. Mai 2000)
 
@@ -432,14 +432,16 @@ Vom 07.05.2000 (Stand 01.02.2022)
 - 7\. die Leistungen in Erfüllung familienrechtlicher Verpflichtungen, ausgenommen die Unterhaltsbeiträge gemäss Artikel 23 Ziffer 6 dieses Gesetzes;
 - 8\. der Sold für Militär- und Schutzdienst sowie das Taschengeld für Zivildienst;
 - 9\. die Zahlung von Genugtuungssummen;
-- 9a. der Sold der Milizfeuerwehrleute bis zum Betrag von 5000 Franken für Dienstleistungen im Zusammenhang mit der Erfüllung der Kernaufgaben der Feuerwehr, wie Übungen, Pikettdienste, Kurse, Inspektionen und Ernstfalleinsätze zur Rettung, Brandbekämpfung, allgemeine Schadenwehr, Elementarschadenbewältigung. Ausgenommen sind Pauschalzulagen für Kader sowie Funktionszulagen und Entschädigungen für administrative Arbeiten und für Dienstleistungen, welche die Feuerwehr freiwillig erbringt;
+- 9a. der Sold der Milizfeuerwehrleute bis zum Betrag von 5200 Franken für Dienstleistungen im Zusammenhang mit der Erfüllung der Kernaufgaben der Feuerwehr, wie Übungen, Pikettdienste, Kurse, Inspektionen und Ernstfalleinsätze zur Rettung, Brandbekämpfung, allgemeine Schadenwehr, Elementarschadenbewältigung. Ausgenommen sind Pauschalzulagen für Kader sowie Funktionszulagen und Entschädigungen für administrative Arbeiten und für Dienstleistungen, welche die Feuerwehr freiwillig erbringt;
 - 10\. die Einkünfte aufgrund der Bundesgesetzgebung über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung;
 - 11\. die Gewinne, die in Spielbanken mit Spielbankenspielen erzielt werden, die nach dem Geldspielgesetz vom 29. September 2017 (BGS)[^24-1] zugelassen sind, sofern diese Gewinne nicht aus selbstständiger Erwerbstätigkeit stammen;
-- 11a. die einzelnen Gewinne bis zum Betrag von 1 Million Franken aus der Teilnahme an Grossspielen, die nach dem BGS zugelassen sind, und aus der Online-Teilnahme an Spielbankenspielen, die nach dem BGS zugelassen sind;
+- 11a. die einzelnen Gewinne bis zum Betrag von 1 038 300 Franken aus der Teilnahme an Grossspielen, die nach dem BGS zugelassen sind, und aus der Online-Teilnahme an Spielbankenspielen, die nach dem BGS zugelassen sind;
 - 11b. die Gewinne aus Kleinspielen, die nach dem BGS zugelassen sind;
 - 12\. die einzelnen Gewinne aus Lotterien und Geschicklichkeitsspielen zur Verkaufsförderung, die nach Artikel 1 Absatz 2 Buchstaben d und e BGS diesem nicht unterstehen, sofern die Grenze von 1000 Franken nicht überschritten wird.
+- 13\. Einkünfte aufgrund des Bundesgesetzes über Überbrückungsleistungen für ältere Arbeitslose[^24-2].
 
 [^24-1]: SR 935.51
+[^24-2]: SR 837.2
 
 ### 1.2.2.3. Ermittlung des Reineinkommens
 
@@ -530,21 +532,18 @@ Vom 07.05.2000 (Stand 01.02.2022)
 - 8\. die Krankheits- und Unfallkosten des Steuerpflichtigen und der von ihm unterhaltenen Personen, soweit der Steuerpflichtige die Kosten selbst trägt und diese 2 Prozent der Nettoeinkünfte übersteigen;
 - 8a. die behinderungsbedingten Kosten des Steuerpflichtigen oder der von ihm unterhaltenen Personen mit Behinderungen im Sinne des Behindertengleichstellungsgesetzes vom 13. Dezember 2002, soweit der Steuerpflichtige die Kosten selber trägt;
 - 9\. die freiwilligen Leistungen von Geld und übrigen Vermögenswerten an juristische Personen mit Sitz in der Schweiz, die im Hinblick auf ihre öffentlichen oder gemeinnützigen Zwecke von der Steuerpflicht befreit sind (Art. 60 Abs. 1 Ziff. 7), wenn diese Leistungen im Steuerjahr 100 Franken erreichen und insgesamt 20 Prozent der um die Aufwendungen (Art. 26–31) verminderten Einkünfte nicht übersteigen. Im gleichen Umfang abzugsfähig sind entsprechende freiwillige Leistungen an Bund, Kantone, Gemeinden und deren Anstalten (Art. 60 Abs. 1 Ziff. 1–4).
-- 10\. die nachgewiesenen Kosten, jedoch höchstens 10 000 Franken[^31-1], für die Drittbetreuung jedes Kindes, das das 14. Altersjahr noch nicht vollendet hat und mit der steuerpflichtigen Person, die für seinen Unterhalt sorgt, im gleichen Haushalt lebt, soweit diese Kosten in direktem und kausalem Zusammenhang mit der Erwerbstätigkeit, Ausbildung oder Erwerbsunfähigkeit der steuerpflichtigen Person stehen;
-- 11\. die Mitgliederbeiträge und Zuwendungen bis zum Gesamtbetrag von 10 000 Franken[^31-2] an politische Parteien, die:
+- 10\. die nachgewiesenen Kosten, jedoch höchstens 25 000 Franken, für die Drittbetreuung jedes Kindes, welches das 14. Altersjahr noch nicht vollendet hat und mit der steuerpflichtigen Person, die für seinen Unterhalt sorgt, im gleichen Haushalt lebt, soweit diese Kosten in direktem und kausalem Zusammenhang mit der Erwerbstätigkeit, Ausbildung oder Erwerbsunfähigkeit der steuerpflichtigen Person stehen;
+- 11\. die Mitgliederbeiträge und Zuwendungen bis zum Gesamtbetrag von 10 300 Franken an politische Parteien, die:
   - a. im Parteienregister nach Artikel 76a des Bundesgesetzes vom 17. Dezember 1976 über die politischen Rechte eingetragen sind,
   - b. in einem kantonalen Parlament vertreten sind, oder
   - c. in einem Kanton bei den letzten Wahlen des kantonalen Parlaments mindestens 3 Prozent der Stimmen erreicht haben.
-- 12\. die Kosten der berufsorientierten Aus- und Weiterbildung, einschliesslich der Umschulungskosten, bis zum Gesamtbetrag von 12 000 Franken, sofern:
+- 12\. die Kosten der berufsorientierten Aus- und Weiterbildung, einschliesslich der Umschulungskosten, bis zum Gesamtbetrag von 12 700 Franken, sofern:
   - a. ein erster Abschluss auf der Sekundarstufe II vorliegt, oder
   - b. das 20. Altersjahr vollendet ist und soweit es sich nicht um die Ausbildungskosten bis zum ersten Abschluss auf der Sekundarstufe II handelt.
 
 <sup>2</sup> Leben Ehegatten in rechtlich und tatsächlich ungetrennter Ehe und erzielen beide ein Erwerbseinkommen, so werden vom niedrigeren Erwerbseinkommen 10 Prozent, jedoch mindestens 3500 Franken und höchstens 10'000 Franken abgezogen. Als Erwerbseinkommen gelten die steuerbaren Einkünfte aus unselbständiger oder selbständiger Erwerbstätigkeit abzüglich der Aufwendungen nach den Artikeln 26–29 und der allgemeinen Abzüge nach Absatz 1 Ziffern 4–6. Bei erheblicher Mitarbeit eines Ehegatten im Beruf, Geschäft oder Gewerbe des andern Ehegatten oder bei gemeinsamer selbständiger Erwerbstätigkeit wird jedem Ehegatten die Hälfte des gemeinsamen Erwerbseinkommens zugewiesen. Eine abweichende Aufteilung ist vom Ehepaar nachzuweisen.
 
-<sup>3</sup> Von den einzelnen Gewinnen aus der Teilnahme an Geldspielen, welche nicht nach Artikel 24 Ziffern 11–12 steuerfrei sind, werden 5 Prozent, jedoch höchstens 5000 Franken, als Einsatzkosten abgezogen. Von den einzelnen Gewinnen aus der Online-Teilnahme an Spielbankenspielen nach Artikel 24 Ziffer 11a werden die vom Online-Spielerkonto abgebuchten Spieleinsätze im Steuerjahr, jedoch höchstens 25 000 Franken abgezogen.
-
-[^31-1]: SBE 2015 47; B RR 10. November 2015, angepasst: 10‘100 Franken.
-[^31-2]: SBE 2015 47; B RR 10. November 2015, angepasst: 10‘100 Franken.
+<sup>3</sup> Von den einzelnen Gewinnen aus der Teilnahme an Geldspielen, welche nicht nach Artikel 24 Ziffern 11–12 steuerfrei sind, werden 5 Prozent, jedoch höchstens 5200 Franken, als Einsatzkosten abgezogen. Von den einzelnen Gewinnen aus der Online-Teilnahme an Spielbankenspielen nach Artikel 24 Ziffer 11a werden die vom Online-Spielerkonto abgebuchten Spieleinsätze im Steuerjahr, jedoch höchstens 26 000 Franken abgezogen.
 
 #### Art. 32
 
@@ -767,13 +766,15 @@ Vom 07.05.2000 (Stand 01.02.2022)
 
 #### Art. 47
 
-<sup>1</sup> Wenn sich der Landesindex der Konsumentenpreise gegenüber dem Index des Monats September 2001 um mindestens 10 Prozent verändert, unterbreitet der Regierungsrat dem Landrat Bericht und Antrag, ob und wie bei der Steuer vom Einkommen und Vermögen der natürlichen Personen die Steuersätze sowie die in Frankenbeträgen festgesetzten Abzüge den veränderten Verhältnissen anzupassen sind. Die Anpassung erfolgt auf die übernächste Steuerperiode.
+**Anpassung Tarife und Abzüge**
 
-<sup>2</sup> Ist eine Anpassung erfolgt und hat sich der Landesindex der Konsumentenpreise nach dem Stand für den Monat September eines Jahres erneut um mindestens 10 Prozent verändert, unterbreitet der Regierungsrat wieder Bericht und Antrag für eine allfällige weitere Anpassung auf die übernächste Steuerperiode.
+<sup>1</sup> Bei den Steuern vom Einkommen und Vermögen der natürlichen Personen werden die Folgen der kalten Progression durch gleichmässige Anpassung der Tarifstufen gemäss Artikel 34 und der in Frankenbeträgen festgesetzten Abzüge vom Einkommen gemäss den Artikeln 31, 33 und 45 voll ausgeglichen. Die Beträge sind auf 100 Franken auf- oder abzurunden.
 
-<sup>3</sup> Der Landrat behandelt und verabschiedet den Antrag spätestens zuhanden der Landsgemeinde der nächsten Steuerperiode.
+<sup>1a</sup> Der Regierungsrat passt die Tarifstufen und die Abzüge jährlich an den Landesindex der Konsumentenpreise an. Massgebend ist der Indexstand am 30. Juni vor Beginn der Steuerperiode. Bei negativem Teuerungsverlauf ist eine Anpassung ausgeschlossen. Der auf eine negative Teuerung folgende Ausgleich erfolgt auf Basis des letzten Ausgleichs. Ausgegangen wird vom Indexstand per 30. Juni 2022.
 
-<sup>4</sup> Der Regierungsrat kann zwecks Koordination mit der direkten Bundessteuer bei Artikel 26 Absatz 1 Ziffer 3 und Artikel 31 eine Anpassung ungeachtet der Voraussetzungen von Absatz 1 vornehmen.
+<sup>2–3</sup> …
+
+<sup>4</sup> Der Regierungsrat kann zwecks Koordination mit der direkten Bundessteuer bei Artikel 13 Absatz 3 Ziffer 1, Artikel 24 Absatz 1 Ziffern 9a, 11a und 12, Artikel 26 Absatz 1 Ziffer 3 und Artikel 31 eine Anpassung ungeachtet der Voraussetzungen von Absatz 1 vornehmen.
 
 ### 1.2.5. Zeitliche Bemessung
 
@@ -1862,7 +1863,7 @@ Vom 07.05.2000 (Stand 01.02.2022)
 
 **Zweck der Bausteuer**
 
-<sup>1</sup> Für die Finanzierung grosser Bauvorhaben kann der Kanton eine zweck- und objektgebundene Bausteuer erheben.
+<sup>1</sup> Für die Finanzierung grosser, frei bestimmbarer Bauvorhaben kann der Kanton eine zweck- und objektgebundene Bausteuer erheben.
 
 #### Art. 130
 
@@ -1932,6 +1933,10 @@ Vom 07.05.2000 (Stand 01.02.2022)
 <sup>2a</sup> Das zuständige Departement kann für bestimmte Auskünfte generelle Ermächtigungen erteilen, wenn die Auskunft über die Steuerdaten für die Erfüllung der öffentlichen Aufgabe notwendig ist, nicht auf andere Weise beschafft werden kann und keinen unverhältnismässigen Eingriff in die Rechte des Steuerpflichtigen darstellt. Es erlässt dazu eine Weisung.
 
 <sup>3</sup> Auf Verlangen der Gemeindevorsteherschaft sind jährlich für jede in ihrer Gemeinde steuerpflichtige natürliche und juristische Person die anfallenden Steuerbeträge und die ausstehenden Steuern bekannt zu geben.
+
+<sup>4</sup> Die Bestimmungen über den informationsrechtlichen Zugang zu amtlichen Dokumenten nach dem Gesetz über die Information der Öffentlichkeit, den Datenschutz und das Archivwesen[^136-1] finden in Steuersachen keine Anwendung.
+
+[^136-1]: GS [I F/1](https://gesetze.gl.ch/data/I-F.1/de)
 
 #### Art. 137
 
@@ -2706,7 +2711,7 @@ Vom 07.05.2000 (Stand 01.02.2022)
 
 **Zweck der Bausteuer**
 
-<sup>1</sup> Für die Finanzierung grosser Bauvorhaben können die politischen Gemeinden eine zweck- und objektgebundene Bausteuer erheben.
+<sup>1</sup> Für die Finanzierung grosser, frei bestimmbarer Bauvorhaben können die politischen Gemeinden eine zweck- und objektgebundene Bausteuer erheben.
 
 #### Art. 206b
 
