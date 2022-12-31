@@ -4,13 +4,12 @@ number: "170.415"
 title: "Ordinanza sull'orario di lavoro"
 short: OOL
 language: it
-version: 2020-10-01
-corrected: 2022-01-01
-version_adopted: 2020-09-22
+version: 2023-01-01
+version_adopted: 2022-12-05
 adopted: 2011-03-08
 in_force: 2011-05-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/170.415"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3079/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3805/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/3079/pdf_file"
 
 (OOL)
 
-del 08.03.2011 (stato 01.10.2020)
+del 08.03.2011 (stato 01.01.2023)
 
 emanata dal Governo l'8 marzo 2011
 
@@ -42,11 +41,11 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e l'art. 49 dell
 
 **Autorità competenti**
 
-<sup>1</sup> Le autorità competenti sono i servizi, la Cancelleria dello Stato, i segretariati dei Dipartimenti e il Controllo delle finanze.
+<sup>1</sup> Le autorità competenti sono i servizi, la Cancelleria dello Stato, i segretariati generali e il Controllo delle finanze.
 
 <sup>2</sup> Le autorità competenti stabiliscono le forme di orario di lavoro conformemente all'articolo 15 segg. e i modelli di orario di lavoro conformemente all'appendice.
 
-<sup>3</sup> Sentito l'Ufficio del personale, le autorità competenti possono, in singoli casi, derogare dalle disposizioni della presente ordinanza e dall'appendice, se lo richiedono interessi aziendali sovraordinati. I servizi e i segretariati dei Dipartimenti necessitano del consenso del Dipartimento.
+<sup>3</sup> Sentito l'Ufficio del personale, le autorità competenti possono, in singoli casi, derogare dalle disposizioni della presente ordinanza e dall'appendice, se lo richiedono interessi aziendali sovraordinati. I servizi e i segretariati generali necessitano del consenso del Dipartimento.
 
 #### Art. 3
 
@@ -100,7 +99,7 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e l'art. 49 dell
 
 <sup>2</sup> Se le esigenze dell'utenza lo richiedono, gli orari di apertura vanno estesi. In singoli casi, gli utenti devono essere ricevuti anche al di fuori degli orari di apertura.
 
-<sup>3</sup> Se le attività aziendali lo permettono, l'autorità competente può limitare gli orari di apertura e la reperibilità telefonica. I servizi e i segretariati dei Dipartimenti necessitano del consenso del Dipartimento.
+<sup>3</sup> Se le attività aziendali lo permettono, l'autorità competente può limitare gli orari di apertura e la reperibilità telefonica. I servizi e i segretariati generali necessitano del consenso del Dipartimento.
 
 #### Art. 9
 
@@ -116,7 +115,7 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e l'art. 49 dell
 
 #### Art. 10
 
-**Giorni non lavorativi, 1. pagati**
+**Giorni non lavorativi**
 
 <sup>1</sup> Il 2 gennaio, il giorno dopo l'Ascensione, il 24 e il 31 dicembre sono giorni non lavorativi. Se cadono durante le vacanze, non vengono considerati come vacanze.
 
@@ -129,13 +128,7 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e l'art. 49 dell
 
 #### Art. 11
 
-**2. non pagati**
-
-<sup>1</sup> Se l'attività del servizio lo consente e il servizio lo autorizza, i collaboratori con un volume d'impiego del 100 per cento possono prendere cinque o dieci giorni liberi supplementari non pagati per anno civile.
-
-<sup>2</sup> In caso di cinque giorni supplementari il salario viene ridotto dell'1,98 per cento, in caso di dieci giorni liberi supplementari non pagati del 3,96 per cento.
-
-<sup>3</sup> Una volta scelto, il modello vale almeno per un anno civile e non può essere modificato nel frattempo. In assenza di una richiesta di revoca, il modello scelto vale anche per l'anno seguente.
+**…**
 
 #### Art. 12
 
@@ -168,7 +161,7 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e l'art. 49 dell
 
 <sup>2</sup> Nel sistema non vengono rilevati i periodi di pratica, nonché i collaboratori con salario orario, giornaliero o forfetario. L'autorità competente decide in merito alle eccezioni.
 
-<sup>3</sup> I capi servizio, i loro supplenti, nonché i segretari di concetto devono rilevare solo le assenze di mezza giornata o di giornate intere. Essi suddividono autonomamente il proprio orario di lavoro in base ai loro compiti. Un eventuale lavoro supplementare è considerato incluso nel salario. Le prestazioni possono venire rilevate con indicazioni forfetarie.
+<sup>3</sup> I capi servizio, i loro supplenti, nonché i segretari generali devono rilevare solo le assenze di mezza giornata o di giornate intere. Essi suddividono autonomamente il proprio orario di lavoro in base ai loro compiti. Un eventuale lavoro supplementare è considerato incluso nel salario. Le prestazioni possono venire rilevate con indicazioni forfetarie.
 
 ## 3. Forme di orario di lavoro
 
@@ -239,7 +232,7 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e l'art. 49 dell
 
 **Restrizioni**
 
-<sup>1</sup> Sentito l'Ufficio del personale, le autorità competenti possono limitare le disposizioni relative all'orario di lavoro annuale, se lo richiedono interessi aziendali sovraordinati. I servizi e i segretariati dei Dipartimenti necessitano del consenso del Dipartimento
+<sup>1</sup> Sentito l'Ufficio del personale, le autorità competenti possono limitare le disposizioni relative all'orario di lavoro annuale, se lo richiedono interessi aziendali sovraordinati. I servizi e i segretariati generali necessitano del consenso del Dipartimento.
 
 ### 3.3. Orario di lavoro fisso
 
@@ -258,5 +251,11 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e l'art. 49 dell
 <sup>1</sup> La presente ordinanza entra in vigore il 1° maggio 2011 e sostituisce l'ordinanza sull'orario di lavoro del 12 dicembre 2006[^23-1].
 
 [^23-1]: AGS 2006, 4867
+
+## A1 Appendice 1: Modelli di orario di lavoro
+
+#### Art. A1-1
+
+<sup>1</sup> Modelli di orario di lavoro:
 
 -

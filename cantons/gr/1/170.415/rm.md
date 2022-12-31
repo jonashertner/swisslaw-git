@@ -4,13 +4,12 @@ number: "170.415"
 title: Ordinaziun davart il temp da lavur
 short: OTL
 language: rm
-version: 2020-10-01
-corrected: 2022-01-01
-version_adopted: 2020-09-22
+version: 2023-01-01
+version_adopted: 2022-12-05
 adopted: 2011-03-08
 in_force: 2011-05-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/170.415"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3079/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3805/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3079/pdf_file"
 
 (OTL)
 
-dals 08-03-2011 (versiun dals 01-10-2020)
+dals 08-03-2011 (versiun dals 01-01-2023)
 
 sa basond sin l'art. 45 al. 1 da la constituziun chantunala[^ingress-1] e sin l'art. 49 da la lescha davart la relaziun da lavur da las collavuraturas e dals collavuraturs dal chantun Grischun (lescha dal persunal, LP)[^ingress-2]
 
@@ -42,11 +41,11 @@ relaschada da la regenza ils 8 da mars 2011
 
 **Instanzas cumpetentas**
 
-<sup>1</sup> Las instanzas cumpetentas èn ils posts da servetsch, la chanzlia chantunala, ils secretariats dals departaments e la controlla da finanzas.
+<sup>1</sup> Las instanzas cumpetentas èn ils posts da servetsch, la Chanzlia chantunala, ils secretariats generals e la Controlla da finanzas.
 
 <sup>2</sup> Las instanzas cumpetentas fixeschan las furmas da temp da lavur tenor ils artitgels 15 ss. ed ils plans da temp da lavur tenor l'agiunta.
 
-<sup>3</sup> Suenter avair tadlà l'uffizi da persunal pon las instanzas cumpetentas divergiar – en cas singuls – da las disposiziuns da questa ordinaziun e da l'agiunta, sche interess dal manaschi surordinads pretendan quai. Ils posts da servetsch ed ils secretariats dals departaments dovran il consentiment dal departament per quest intent.
+<sup>3</sup> Suenter avair tadlà l'Uffizi da persunal pon las instanzas cumpetentas divergiar – en cas singuls – da las disposiziuns da questa ordinaziun e da l'agiunta, sche interess dal manaschi surordinads pretendan quai. Ils posts da servetsch ed ils secretariats generals dovran il consentiment dal departament per quest intent.
 
 #### Art. 3
 
@@ -100,7 +99,7 @@ relaschada da la regenza ils 8 da mars 2011
 
 <sup>2</sup> Sch'ils basegns da la clientella pretendan quai, ston vegnir extendidas las uras d'avertura. En il cas singul sto la clientella vegnir retschavida er ordaifer las uras d'avertura.
 
-<sup>3</sup> Sche la liquidaziun da las incumbensas dal manaschi permetta quai, po l'instanza cumpetenta restrenscher las uras d'avertura e la cuntanschibladad per telefon. Ils posts da servetsch ed ils secretariats dals departaments dovran il consentiment dal departament per quest intent.
+<sup>3</sup> Sche la liquidaziun da las incumbensas dal manaschi permetta quai, po l'instanza cumpetenta restrenscher las uras d'avertura e la cuntanschibladad per telefon. Ils posts da servetsch ed ils secretariats generals dovran il consentiment dal departament per quest intent.
 
 #### Art. 9
 
@@ -116,7 +115,7 @@ relaschada da la regenza ils 8 da mars 2011
 
 #### Art. 10
 
-**Dis libers da lavur 1. pajads**
+**Dis libers da lavur**
 
 <sup>1</sup> Dis libers da lavur èn ils 2 da schaner, il di suenter Ascensiun, ils 24 ed ils 31 da december. Sch'els crodan en las vacanzas, na vegnan els betg mess a quint sco vacanzas.
 
@@ -129,13 +128,7 @@ relaschada da la regenza ils 8 da mars 2011
 
 #### Art. 11
 
-**2. betg pajads**
-
-<sup>1</sup> Sch'il manaschi da lavur permetta quai e sche l'instanza cumpetenta dat ses consentiment, pon collavuraturas e collavuraturs cun in grad d'occupaziun da 100 pertschient retrair 5 u 10 dis libers da lavur supplementars betg pajads per onn chalendar.
-
-<sup>2</sup> En cas da 5 dis supplementars vegn il salari reducì per 1,98 pertschient, en cas da 10 dis libers da lavur supplementars betg pajads per 3,96 pertschient.
-
-<sup>3</sup> Ina giada ch'in model è vegnì tschernì, vala el per almain 1 onn chalendar e na po betg vegnir midà tranteren. Senza ina dumonda cuntraria vala il model tschernì er l'onn suandant senza midadas.
+**…**
 
 #### Art. 12
 
@@ -168,7 +161,7 @@ relaschada da la regenza ils 8 da mars 2011
 
 <sup>2</sup> Betg registrads en il sistem na vegnan praticums sco er collavuraturas e collavuraturs cun salaris per ura, cun salaris per di u cun salaris pauschals. Davart excepziuns decida l'instanza cumpetenta.
 
-<sup>3</sup> Las manadras ed ils manaders dals posts da servetsch, lur substitutas e lur substituts sco er las secretarias ed ils secretaris dals departaments ston registrar mo las absenzas da mezs u d'entirs dis. Ellas ed els disponan libramain da lur temp da lavur confurm a lur incumbensas. Eventuala lavur supplementara vala sco inclusa en il salari. Las prestaziuns pon vegnir registradas cun pauschalas.
+<sup>3</sup> Las manadras ed ils manaders dals posts da servetsch, lur substitutas e lur substituts sco er las secretarias generalas ed ils secretaris generals ston registrar mo las absenzas da mezs u d'entirs dis. Ellas ed els disponan libramain da lur temp da lavur confurm a lur incumbensas. Eventuala lavur supplementara vala sco inclusa en il salari. Las prestaziuns pon vegnir registradas cun pauschalas.
 
 ## 3. Furmas da temp da lavur
 
@@ -239,7 +232,7 @@ relaschada da la regenza ils 8 da mars 2011
 
 **Disposiziuns restrenschentas**
 
-<sup>1</sup> Suenter avair tadlà l'uffizi da persunal pon las instanzas cumpetentas restrenscher las disposiziuns davart il temp da lavur per onn, sche interess dal manaschi surordinads pretendan quai. Ils posts da servetsch ed ils secretariats dals departaments dovran il consentiment dal departament per quest intent.
+<sup>1</sup> Suenter avair tadlà l'Uffizi da persunal pon las instanzas cumpetentas restrenscher las disposiziuns davart il temp da lavur per onn, sche interess dal manaschi surordinads pretendan quai. Ils posts da servetsch ed ils secretariats generals dovran il consentiment dal departament per quest intent.
 
 ### 3.3. Temp da lavur fix
 
@@ -258,5 +251,11 @@ relaschada da la regenza ils 8 da mars 2011
 <sup>1</sup> Questa ordinaziun entra en vigur il 1. da matg 2011 e remplazza l'ordinaziun davart il temp da lavur dals 12 da december 2006[^23-1].
 
 [^23-1]: CUL 2006, 4867
+
+## A1 Agiunta 1: Plans da temp da lavur
+
+#### Art. A1-1
+
+<sup>1</sup> Plans da temp da lavur:
 
 -

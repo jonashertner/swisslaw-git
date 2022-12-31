@@ -4,13 +4,12 @@ number: "170.415"
 title: Arbeitszeitverordnung
 short: AzV
 language: de
-version: 2020-10-01
-corrected: 2022-01-01
-version_adopted: 2020-09-22
+version: 2023-01-01
+version_adopted: 2022-12-05
 adopted: 2011-03-08
 in_force: 2011-05-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/170.415"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3079/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3805/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3079/pdf_file"
 
 (AzV)
 
-Vom 08.03.2011 (Stand 01.10.2020)
+Vom 08.03.2011 (Stand 01.01.2023)
 
 Gestützt auf Art. 45 Abs. 1 der Kantonsverfassung[^ingress-1] und Art. 49 des Gesetzes über das Arbeitsverhältnis der Mitarbeitenden des Kantons Graubünden (Personalgesetz, PG)[^ingress-2]
 
@@ -42,11 +41,11 @@ von der Regierung erlassen am 8. März 2011
 
 **Zuständige Instanzen**
 
-<sup>1</sup> Zuständige Instanzen sind die Dienststellen, die Standeskanzlei, die Departementssekretariate und die Finanzkontrolle.
+<sup>1</sup> Zuständige Instanzen sind die Dienststellen, die Standeskanzlei, die Generalsekretariate und die Finanzkontrolle.
 
 <sup>2</sup> Die zuständigen Instanzen legen die Arbeitszeitformen gemäss Artikel 15 ff. und die Arbeitszeitpläne gemäss Anhang fest.
 
-<sup>3</sup> Die zuständigen Instanzen können in Einzelfällen nach Anhören des Personalamts von den Bestimmungen dieser Verordnung und vom Anhang abweichen, wenn übergeordnete betriebliche Interessen es erfordern. Die Dienststellen und die Departementssekretariate bedürfen dazu der Zustimmung des Departements.
+<sup>3</sup> Die zuständigen Instanzen können in Einzelfällen nach Anhören des Personalamts von den Bestimmungen dieser Verordnung und vom Anhang abweichen, wenn übergeordnete betriebliche Interessen es erfordern. Die Dienststellen und die Generalsekretariate bedürfen dazu der Zustimmung des Departements.
 
 #### Art. 3
 
@@ -100,7 +99,7 @@ von der Regierung erlassen am 8. März 2011
 
 <sup>2</sup> Wenn es die Kundenbedürfnisse erfordern, sind die Öffnungszeiten zu erweitern. Im Einzelfall sind Kundinnen und Kunden auch ausserhalb der Öffnungszeiten zu empfangen.
 
-<sup>3</sup> Wenn es die betriebliche Aufgabenerledigung zulässt, kann die zuständige Instanz die Öffnungszeiten und die telefonische Erreichbarkeit einschränken. Die Dienststellen und die Departementssekretariate bedürfen dazu der Zustimmung des Departements.
+<sup>3</sup> Wenn es die betriebliche Aufgabenerledigung zulässt, kann die zuständige Instanz die Öffnungszeiten und die telefonische Erreichbarkeit einschränken. Die Dienststellen und die Generalsekretariate bedürfen dazu der Zustimmung des Departements.
 
 #### Art. 9
 
@@ -116,7 +115,7 @@ von der Regierung erlassen am 8. März 2011
 
 #### Art. 10
 
-**Arbeitsfreie Tage, 1. bezahlte**
+**Arbeitsfreie Tage**
 
 <sup>1</sup> Arbeitsfreie Tage sind der 2. Januar, der Tag nach Auffahrt, der 24. und der 31. Dezember. Fallen sie in die Ferien, werden sie nicht als Ferien angerechnet.
 
@@ -129,13 +128,7 @@ von der Regierung erlassen am 8. März 2011
 
 #### Art. 11
 
-**2. unbezahlte**
-
-<sup>1</sup> Solange es der Dienstbetrieb zulässt und es die zuständige Instanz bewilligt, können Mitarbeitende mit einem Arbeitsumfang von 100 Prozent pro Kalenderjahr fünf oder zehn zusätzliche unbezahlte arbeitsfreie Tage beziehen.
-
-<sup>2</sup> Bei fünf zusätzlichen Tagen wird der Lohn um 1,98 Prozent, bei zehn zusätzlichen unbezahlten arbeitsfreien Tagen um 3,96 Prozent gekürzt.
-
-<sup>3</sup> Das einmal gewählte Modell gilt mindestens für ein Kalenderjahr und kann dazwischen nicht geändert werden. Ohne anders lautenden Antrag gilt das gewählte Modell unverändert auch im folgenden Jahr.
+**…**
 
 #### Art. 12
 
@@ -168,7 +161,7 @@ von der Regierung erlassen am 8. März 2011
 
 <sup>2</sup> Im System nicht erfasst werden Praktika sowie Mitarbeitende mit Stunden-, Tag- oder Pauschallohn. Über Ausnahmen entscheidet die zuständige Instanz.
 
-<sup>3</sup> Die Dienststellenleitenden, deren Stellvertretende sowie die Departementssekretärinnen und -sekretäre haben nur die halb- und ganztageweisen Absenzen zu erfassen. Sie teilen ihre Arbeitszeit entsprechend ihren Aufgaben selbstständig ein. Allfällige Mehrarbeit gilt als im Lohn inbegriffen. Die Leistungen können mit Pauschalen erfasst werden.
+<sup>3</sup> Die Dienststellenleitenden, deren Stellvertretende sowie die Generalsekretärinnen und -sekretäre haben nur die halb- und ganztageweisen Absenzen zu erfassen. Sie teilen ihre Arbeitszeit entsprechend ihren Aufgaben selbstständig ein. Allfällige Mehrarbeit gilt als im Lohn inbegriffen. Die Leistungen können mit Pauschalen erfasst werden.
 
 ## 3. Arbeitszeitformen
 
@@ -239,7 +232,7 @@ von der Regierung erlassen am 8. März 2011
 
 **Einschränkende Bestimmungen**
 
-<sup>1</sup> Die zuständigen Instanzen können nach Anhören des Personalamts die Bestimmungen über die Jahresarbeitszeit einschränken, wenn übergeordnete betriebliche Interessen es erfordern. Die Dienststellen und die Departementssekretariate bedürfen dazu der Zustimmung des Departements.
+<sup>1</sup> Die zuständigen Instanzen können nach Anhören des Personalamts die Bestimmungen über die Jahresarbeitszeit einschränken, wenn übergeordnete betriebliche Interessen es erfordern. Die Dienststellen und die Generalsekretariate bedürfen dazu der Zustimmung des Departements.
 
 ### 3.3. Fixe Arbeitszeit
 
@@ -258,5 +251,11 @@ von der Regierung erlassen am 8. März 2011
 <sup>1</sup> Diese Verordnung tritt am 1. Mai 2011 in Kraft und ersetzt die Arbeitszeitverordnung vom 12. Dezember 2006[^23-1].
 
 [^23-1]: AGS 2006, 4867
+
+## A1 Anhang 1: Arbeitszeitpläne
+
+#### Art. A1-1
+
+<sup>1</sup> Arbeitszeitpläne:
 
 -
