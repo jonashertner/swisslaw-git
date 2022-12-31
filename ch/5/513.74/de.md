@@ -4,11 +4,11 @@ title: Verordnung vom 21. August 2013 über die Unterstützung ziviler oder auss
 short: VUM
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/568"
 language: de
-version: 2020-01-01
+version: 2023-01-01
 adopted: 2013-08-21
 in_force: 2013-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/568/20200101/de/xml/fedlex-data-admin-ch-eli-cc-2013-568-20200101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/568/20200101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/568/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2013-568-20230101-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/568/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,15 +17,16 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/568/20200101/de"
 
 (VUM)
 
-vom 21. August 2013 (Stand am 1. Januar 2020)
+vom 21. August 2013 (Stand am 1. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
-gestützt auf Artikel 150 Absatz 1 des Militärgesetzes vom 3. Februar 1995[^ingress-1],
+gestützt auf die Artikel 48*d* Absatz 7 und 150 Absatz 1 des Militärgesetzes vom 3. Februar 1995[^ingress-1],[^ingress-2]
 
 verordnet:
 
-[^ingress-1]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^ingress-1]: [SR 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
+[^ingress-2]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 782](https://fedlex.data.admin.ch/eli/oc/2022/782)).
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
 
@@ -35,43 +36,20 @@ verordnet:
 
 <sup>1</sup> Diese Verordnung regelt die Unterstützung ziviler oder ausserdienstlicher Tätigkeiten mit militärischen Mitteln.
 
-<sup>2</sup>
+<sup>2</sup> …[^1-1]
 
-Die Unterstützung erfolgt durch:
-
-- a. Truppen im Ausbildungsdienst;
-- b. Berufsformationen zu Ausbildungszwecken;
-- c. Logistikbetriebe der Militärverwaltung;
-- d. Armeematerial.
+[^1-1]: Aufgehoben durch Ziff. I der V vom 23. Nov. 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 782](https://fedlex.data.admin.ch/eli/oc/2022/782)).
 
 #### Art. 2
 
-**Voraussetzungen**
+**Geltungsbereich**[^2-1]
 
-<sup>1</sup> Zivile oder ausserdienstliche Tätigkeiten dürfen nur unterstützt werden, wenn mit der Unterstützung für die eingesetzten Personen ein wesentlicher Ausbildungs- oder Trainingseffekt in ihren Funktionen verbunden ist.
-
-<sup>2</sup> Zudem müssen zivile Tätigkeiten von nationaler oder internationaler Bedeutung oder von öffentlichem Interesse sein, ausserdienstliche Tätigkeiten von nationaler oder internationaler Bedeutung.
-
-<sup>3</sup>
-
-Darüber hinaus müssen die folgenden Voraussetzungen erfüllt sein:
-
-- a. Die Gesuchsteller können die Tätigkeiten nachweisbar weder mit eigenen Mitteln noch mit Hilfe von zivilen oder militärischen Vereinen, Verbänden und Organisationen, noch mit der Unterstützung des Zivildiensts oder Zivilschutzes bewältigen.
-- b. Die eingesetzten Personen sind aufgrund ihrer Ausbildung und Ausrüstung geeignet, die Unterstützung zu leisten.
-- c. Die eingesetzten Personen leisten die Unterstützung unbewaffnet und haben keine Aufgaben zu erfüllen, die Polizeigewalt voraussetzen.
-- d. Die Sicherheit der eingesetzten Personen ist gewährleistet.
-- e. Die Einsatzfähigkeit der Truppe und die Bereitschaft der Armee werden nicht beeinträchtigt.
-- f. Die Ausbildungsprogramme von Schulen und Kursen werden nicht wesentlich beeinträchtigt.
-- g. Private Gesuchsteller erklären sich vertraglich bereit, einen angemessenen Teil eines allfälligen Gewinns an den Ausgleichsfonds der Erwerbersatzordnung zu überweisen (Art. 9 Abs. 5).
-
-<sup>4</sup>
-
-Unterstützungsleistungen im Rahmen der fachtechnischen Ausbildung sind auch zulässig, wenn die Voraussetzungen nach den Absätzen 2 und 3 Buchstabe a nicht erfüllt sind für:
+Nicht unter diese Verordnung fallen Unterstützungsleistungen im Rahmen der fachtechnischen Ausbildung für:
 
 - a. die Rettungs- und Genietruppen im Bereich der Ausbildungsobjekte;
-- b. die Luftwaffe im Bereich des Luftrettungsdienstes der Armee.[^2-1]
+- b. die Luftwaffe im Bereich des Luftrettungsdienstes der Armee.
 
-[^2-1]: Fassung gemäss Ziff. I der V vom 20. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4325](https://fedlex.data.admin.ch/eli/oc/2019/751)).
+[^2-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 782](https://fedlex.data.admin.ch/eli/oc/2022/782)).
 
 #### Art. 3
 
@@ -112,15 +90,23 @@ Dringliche Gesuche von Behörden um Unterstützung durch die Luftwaffe sind mög
 
 [^4-1]: Ausdruck gemäss Ziff. I der V vom 20. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4325](https://fedlex.data.admin.ch/eli/oc/2019/751)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 [^4-2]: Fassung gemäss Ziff. I der V vom 25. Febr. 2015, in Kraft seit 1. April 2015 ([AS 2015 777](https://fedlex.data.admin.ch/eli/oc/2015/142)).
-[^4-3]: [[AS 2003 3997](https://fedlex.data.admin.ch/eli/oc/2003/580). [AS 2018 4635](https://fedlex.data.admin.ch/eli/oc/2018/731)Art. 12]. Siehe heute: die V vom 21. Nov. 2018 ([SR 513.75](https://fedlex.data.admin.ch/eli/cc/2018/731)).
+[^4-3]: [[AS 2003 3997](https://fedlex.data.admin.ch/eli/oc/2003/580). [AS 2018 4635](https://fedlex.data.admin.ch/eli/oc/2018/731)Art. 12]. Siehe heute: die V vom 21. Nov. 2018 ([SR 513.75](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7487)).
 [^4-4]: Fassung gemäss Ziff. I der V vom 25. Febr. 2015, in Kraft seit 1. April 2015 ([AS 2015 777](https://fedlex.data.admin.ch/eli/oc/2015/142)).
 [^4-5]: Ausdruck gemäss Ziff. I der V vom 20. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4325](https://fedlex.data.admin.ch/eli/oc/2019/751)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 [^4-6]: Eingefügt durch Ziff. I der V vom 25. Febr. 2015, in Kraft seit 1. April 2015 ([AS 2015 777](https://fedlex.data.admin.ch/eli/oc/2015/142)).
 [^4-7]: Eingefügt durch Ziff. I der V vom 20. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4325](https://fedlex.data.admin.ch/eli/oc/2019/751)).
 [^4-8]: Eingefügt durch Ziff. I der V vom 20. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4325](https://fedlex.data.admin.ch/eli/oc/2019/751)).
-[^4-9]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^4-9]: [SR 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
 [^4-10]: Eingefügt durch Ziff. I der V vom 25. Febr. 2015, in Kraft seit 1. April 2015 ([AS 2015 777](https://fedlex.data.admin.ch/eli/oc/2015/142)).
 [^4-11]: Eingefügt durch Ziff. I der V vom 20. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4325](https://fedlex.data.admin.ch/eli/oc/2019/751)).
+
+#### Art. 4a
+
+**Leistungen ohne wesentlichen Ausbildungs- oder Übungsnutzen**[^4a-1]
+
+Ist die Leistung mit keinem wesentlichen Ausbildungs- oder Übungsnutzen für die Angehörigen der Armee verbunden, so darf sie insgesamt maximal 42 000 Diensttage innerhalb von drei Jahren umfassen.
+
+[^4a-1]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 782](https://fedlex.data.admin.ch/eli/oc/2022/782)).
 
 #### Art. 5
 
@@ -134,18 +120,26 @@ Dringliche Gesuche von Behörden um Unterstützung durch die Luftwaffe sind mög
 
 Über die Bewilligung der Gesuche entscheidet:
 
-- a. das Eidgenössische Departement für Verteidigung, Bevölkerungsschutz und Sport (VBS) auf Antrag des Kommandos Operationen: bei Anlässen von besonderer politischer Tragweite; insbesondere wenn luftgestützte Überwachungsmittel bei Veranstaltungen und Demonstrationen oder Angehörige der Militärischen Sicherheit eingesetzt werden;
+- a.[^5-2]
+
+  das Eidgenössische Departement für Verteidigung, Bevölkerungsschutz und Sport (VBS) auf Antrag des Kommandos Operationen: bei Anlässen von besonderer politischer Tragweite; insbesondere wenn:
+
+  - 1\. Unterstützungsleistungen ohne wesentlichen Ausbildungs- oder Trainingseffekt für die eingesetzten Personen erfolgen,
+  - 2\. luftgestützte Überwachungsmittel bei Veranstaltungen und Demonstrationen eingesetzt werden, oder
+  - 3\. Angehörige der Militärischen Sicherheit eingesetzt werden;
+
 - b. die Luftwaffe: bei dringlichen Gesuchen nach Artikel 4 Absatz 5, sofern der Gesuchsgegenstand nicht von besonderer politischer Tragweite ist;
-- c. das Kommando Operationen: in allen übrigen Fällen.[^5-2]
+- c. das Kommando Operationen: in allen übrigen Fällen.[^5-3]
 
-<sup>4</sup> Das VBS und die Luftwaffe informieren das Kommando Operationen umgehend über die von ihnen getroffenen Entscheide.[^5-3]
+<sup>4</sup> Das VBS und die Luftwaffe informieren das Kommando Operationen umgehend über die von ihnen getroffenen Entscheide.[^5-4]
 
-<sup>5</sup> Für Bewilligungen nach Absatz 3 Buchstaben b und c kann die Gruppe Verteidigung ein vereinfachtes Entscheidverfahren vorsehen.[^5-4]
+<sup>5</sup> Für Bewilligungen nach Absatz 3 Buchstaben b und c kann die Gruppe Verteidigung ein vereinfachtes Entscheidverfahren vorsehen.[^5-5]
 
 [^5-1]: Fassung gemäss Ziff. I der V vom 20. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4325](https://fedlex.data.admin.ch/eli/oc/2019/751)).
-[^5-2]: Fassung gemäss Ziff. I der V vom 25. Febr. 2015, in Kraft seit 1. April 2015 ([AS 2015 777](https://fedlex.data.admin.ch/eli/oc/2015/142)).
-[^5-3]: Eingefügt durch Ziff. I der V vom 25. Febr. 2015, in Kraft seit 1. April 2015 ([AS 2015 777](https://fedlex.data.admin.ch/eli/oc/2015/142)).
-[^5-4]: Eingefügt durch Ziff. I der V vom 20. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4325](https://fedlex.data.admin.ch/eli/oc/2019/751)).
+[^5-2]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 782](https://fedlex.data.admin.ch/eli/oc/2022/782)).
+[^5-3]: Fassung gemäss Ziff. I der V vom 25. Febr. 2015, in Kraft seit 1. April 2015 ([AS 2015 777](https://fedlex.data.admin.ch/eli/oc/2015/142)).
+[^5-4]: Eingefügt durch Ziff. I der V vom 25. Febr. 2015, in Kraft seit 1. April 2015 ([AS 2015 777](https://fedlex.data.admin.ch/eli/oc/2015/142)).
+[^5-5]: Eingefügt durch Ziff. I der V vom 20. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4325](https://fedlex.data.admin.ch/eli/oc/2019/751)).
 
 ## 3. Abschnitt: Leistungserbringung
 
@@ -163,7 +157,7 @@ Dringliche Gesuche von Behörden um Unterstützung durch die Luftwaffe sind mög
 
 **…[^7-1]**
 
-<sup>1</sup> und <sup>2</sup> …[^7-2]
+<sup>1 und <sup>2</sup></sup> …[^7-2]
 
 <sup>3</sup> …[^7-3]
 
@@ -198,11 +192,11 @@ Dringliche Gesuche von Behörden um Unterstützung durch die Luftwaffe sind mög
 
 <sup>5</sup> Erwirtschaftet der Gesuchsteller mit dem Anlass einen namhaften Gewinn, so kann er vom Generalsekretariat des VBS verpflichtet werden, einen angemessenen Teil des Gewinns an den Ausgleichsfonds der Erwerbsersatzordnung zu überweisen; der zu überweisende Betrag entspricht maximal der Summe des nach der Erwerbsersatzordnung an die eingesetzten Armeeangehörigen ausbezahlten Erwerbsersatzes. Der Gesuchsteller ist verpflichtet, dem Generalsekretariat des VBS auf Verlangen die Schlussabrechnung des Anlasses vorzulegen.
 
-<sup>6</sup> …[^9-3]
+<sup>6</sup> Private Gesuchsteller müssen sich vertraglich bereit erklären, einen angemessenen Teil eines allfälligen Gewinns an den Ausgleichsfonds der Erwerbsersatzordnung zu überweisen.[^9-3]
 
 [^9-1]: Aufgehoben durch Ziff. I der V vom 25. Febr. 2015, mit Wirkung seit 1. April 2015 ([AS 2015 777](https://fedlex.data.admin.ch/eli/oc/2015/142)).
 [^9-2]: Fassung gemäss Ziff. I der V vom 25. Febr. 2015, in Kraft seit 1. April 2015 ([AS 2015 777](https://fedlex.data.admin.ch/eli/oc/2015/142)).
-[^9-3]: Aufgehoben durch Ziff. I der V vom 25. Febr. 2015, mit Wirkung seit 1. April 2015 ([AS 2015 777](https://fedlex.data.admin.ch/eli/oc/2015/142)).
+[^9-3]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 782](https://fedlex.data.admin.ch/eli/oc/2022/782)).
 
 #### Art. 10
 
@@ -258,7 +252,7 @@ Der Gesuchsteller verpflichtet sich mit der Einreichung des Gesuchs um Unterstü
 
 Die Verordnung vom 8. Dezember 1997[^14-1] über den Einsatz militärischer Mittel für zivile und ausserdienstliche Tätigkeiten wird aufgehoben.
 
-[^14-1]: [[AS 1998 214](https://fedlex.data.admin.ch/eli/oc/1998/214_214_214), [2003 5093](https://fedlex.data.admin.ch/eli/oc/2003/751), [2006 4647](https://fedlex.data.admin.ch/eli/oc/2006/704)Art. 9, [2009 6667](https://fedlex.data.admin.ch/eli/oc/2009/824)Anhang 36 Ziff. 1]
+[^14-1]: [[AS 1998 214](https://fedlex.data.admin.ch/eli/oc/1998/214_214_214); [2003 5093](https://fedlex.data.admin.ch/eli/oc/2003/751); [2006 4647](https://fedlex.data.admin.ch/eli/oc/2006/704)Art. 9; [2009 6667](https://fedlex.data.admin.ch/eli/oc/2009/824)Anhang 36 Ziff. 1]
 
 #### Art. 15
 
