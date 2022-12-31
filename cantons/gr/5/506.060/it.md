@@ -4,13 +4,13 @@ number: "506.060"
 title: "Ordinanza della legge sulla promozione della cura degli ammalati e dell'assistenza alle persone anziane e bisognose di cure"
 short: "Ordinanza della legge sulla cura degli ammalati, OLCA"
 language: it
-version: 2022-01-01
-valid_until: 2022-12-31
-version_adopted: 2021-12-14
+version: 2023-01-01
+valid_until: 2023-12-31
+version_adopted: 2023-01-31
 adopted: 2017-12-19
 in_force: 2018-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/506.060"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3204/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3298/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/3204/pdf_file"
 
 (Ordinanza della legge sulla cura degli ammalati, OLCA)
 
-del 19.12.2017 (stato 01.01.2022)
+del 19.12.2017 (stato 01.01.2023)
 
 emanata dal Governo il 19 dicembre 2017
 
