@@ -4,13 +4,12 @@ number: "810.15"
 title: "Ordonnance sur les études d'impact sur l'environnement et les procédures décisives"
 short: OEIEP
 language: fr
-version: 2022-02-01
-valid_until: 2022-12-31
-version_adopted: 2022-04-01
+version: 2023-01-01
+version_adopted: 2022-12-20
 adopted: 2002-07-02
 in_force: 2002-07-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/810.15"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7395/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8442/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Etudes d'impact sur l'environnement – O
 
 (OEIEP)
 
-du 02.07.2002 (version entrée en vigueur le 01.02.2022)
+du 02.07.2002 (version entrée en vigueur le 01.01.2023)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -103,9 +102,9 @@ Arrête:
 
 #### Art. 6
 
-**Procédure décisive selon la loi sur les routes**
+**Procédure décisive selon la loi sur la mobilité**
 
-<sup>1</sup> Pour les projets dont la réalisation dépend de la loi sur les routes (Annexe 2), la procédure décisive est celle de l'approbation du plan de route (art. 37 de la loi sur les routes).
+<sup>1</sup> Pour les projets dont la réalisation dépend de la loi sur la mobilité (Annexe 2), la procédure décisive est celle de l'approbation du plan d'infrastructure de mobilité (art. 85 ss de la loi sur la mobilité).
 
 <sup>2</sup> La Direction du développement territorial, des infrastructures, de la mobilité et de l'environnement est l'autorité compétente.
 

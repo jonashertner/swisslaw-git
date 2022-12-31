@@ -4,13 +4,12 @@ number: "810.15"
 title: Verordnung über die Umweltverträglichkeitsprüfungen und die massgeblichen Verfahren
 short: UVPVV
 language: de
-version: 2022-02-01
-valid_until: 2022-12-31
-version_adopted: 2022-04-01
+version: 2023-01-01
+version_adopted: 2022-12-20
 adopted: 2002-07-02
 in_force: 2002-07-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/810.15"
-pdf: "https://bdlf.fr.ch/api/de/versions/7395/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8442/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Umweltverträglichkeitsprüfungen – V
 
 (UVPVV)
 
-vom 02.07.2002 (Fassung in Kraft getreten am 01.02.2022)
+vom 02.07.2002 (Fassung in Kraft getreten am 01.01.2023)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -103,9 +102,9 @@ beschliesst:
 
 #### Art. 6
 
-**Massgebliches Verfahren gemäss Strassengesetz**
+**Massgebliches Verfahren gemäss Mobilitätsgesetz**
 
-<sup>1</sup> Für Projekte, deren Realisierung vom Strassengesetz (Anhang 2) abhängt, ist die Plangenehmigung das massgebliche Verfahren (Art. 37 Strassengesetz).
+<sup>1</sup> Für Projekte, deren Realisierung vom Mobilitätsgesetz (Anhang 2) abhängt, ist die Plangenehmigung das massgebliche Verfahren (Art. 85 ff. Mobilitätsgesetz).
 
 <sup>2</sup> Die Direktion für Raumentwicklung, Infrastruktur, Mobilität und Umwelt ist die zuständige Behörde.
 
