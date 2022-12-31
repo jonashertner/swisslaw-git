@@ -4,13 +4,13 @@ number: VIII A/1/1
 title: Gesetz über das Gesundheitswesen
 short: "Gesundheitsgesetz, GesG"
 language: de
-version: 2021-01-01
-valid_until: 2022-12-31
-version_adopted: 2019-05-05
+version: 2023-01-01
+valid_until: 2026-12-31
+version_adopted: 2021-09-05
 adopted: 2007-05-06
 in_force: 2008-07-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/VIII-A.1.1"
-pdf: "https://gesetze.gl.ch/api/de/versions/2197/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2373/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2197/pdf_file"
 
 (Gesundheitsgesetz, GesG)
 
-Vom 06.05.2007 (Stand 01.01.2021)
+Vom 06.05.2007 (Stand 01.01.2023)
 
 (Erlassen von der Landsgemeinde am 6. Mai 2007)
 
@@ -80,8 +80,7 @@ Vom 06.05.2007 (Stand 01.01.2021)
 <sup>1</sup> Die Gemeinden sind zuständig für:
 
 - a. das Bestattungswesen,
-- b. die Sicherstellung der stationären Langzeitpflege,
-- c. die Sicherstellung der ambulanten Langzeitpflege.
+- b.–c. …
 
 <sup>2</sup> Sie können in Absprache mit dem Kanton einzelne Grundversorgungsangebote von kommunalem Interesse fördern.
 
@@ -255,13 +254,7 @@ Vom 06.05.2007 (Stand 01.01.2021)
 
 #### Art. 19
 
-**Ambulante Langzeitpflege**
-
-<sup>1</sup> Die Gemeinden sorgen für die spitalexterne Grundversorgung, bestehend aus der Hilfe und Pflege zu Hause sowie Leistungen der Hauswirtschaft. Sie können diese Aufgabe auf Dritte übertragen. Beauftragte Organisationen des Privatrechts haften wie das Gemeinwesen nach dem Staatshaftungsgesetz.
-
-<sup>2</sup> Der Kanton kann Beiträge an die ergänzenden Dienstleistungen der ambulanten spitalexternen Kranken- und Gesundheitspflege leisten.
-
-<sup>3</sup> Der Landrat regelt die Angebote der spitalexternen Grundversorgung im Einzelnen, die Finanzierung, die Beitragsleistungen von Kanton und Gemeinden an ergänzende Dienstleistungen, den Zugang zu den Leistungen, die Abgeltung durch die Leistungsempfänger und das Verfahren betreffend Haftung von beauftragten Organisationen des Privatrechts.
+**…**
 
 #### Art. 20
 
@@ -378,13 +371,29 @@ Vom 06.05.2007 (Stand 01.01.2021)
 
 <sup>3a</sup> Der Betrieb bezeichnet pro Fachbereich eine fachverantwortliche Person, welche über eine Bewilligung zur Berufsausübung in eigener fachlicher Verantwortung verfügt. Sie übernimmt die fachliche Verantwortung und Aufsicht für die ihr unterstellten Personen. Die Bestimmungen von Artikel 30a und Artikel 31 gelten sinngemäss.
 
+<sup>3b</sup> Die Bewilligung und Aufsicht über Einrichtungen gemäss Absatz 1 Buchstaben b und c richtet sich nach dem Pflege- und Betreuungsgesetz[^23-1].
+
 <sup>4</sup> Mit der Bewilligung kann die Auflage verbunden werden, dass sich die Einrichtung im Rahmen ihrer Möglichkeiten für die beruflichen Aus-, Fort- und Weiterbildungen zur Verfügung stellt.
 
 <sup>5</sup> Die Betriebsbewilligung wird entzogen, wenn eine der Bedingungen gemäss Absatz 3 nicht mehr erfüllt ist.
 
-<sup>6</sup> Der Regierungsrat regelt die Einzelheiten[^23-1]. Er kann weitere Einrichtungen der Gesundheitspflege der Bewilligungspflicht unterstellen, wenn dies zum Schutz der Benutzer erforderlich ist. Er legt für Einrichtungen, die neu unter die Bewilligungspflicht fallen, eine angemessene Übergangsordnung fest, welche namentlich die Dauer des Bestandes der Einrichtung berücksichtigt.
+<sup>6</sup> Der Regierungsrat regelt die Einzelheiten[^23-2]. Er kann weitere Einrichtungen der Gesundheitspflege der Bewilligungspflicht unterstellen, wenn dies zum Schutz der Benutzer erforderlich ist. Er legt für Einrichtungen, die neu unter die Bewilligungspflicht fallen, eine angemessene Übergangsordnung fest, welche namentlich die Dauer des Bestandes der Einrichtung berücksichtigt.
 
-[^23-1]: GS [VIII A/3/1](https://gesetze.gl.ch/data/VIII-A.3.1/de)
+[^23-1]: GS [VIII A/1/5](https://gesetze.gl.ch/data/VIII-A.1.5/de)
+[^23-2]: GS [VIII A/3/1](https://gesetze.gl.ch/data/VIII-A.3.1/de)
+
+#### Art. 23a
+
+**Aus- und Weiterbildungsverpflichtung**
+
+<sup>1</sup> Bewilligungspflichtige Einrichtungen sind verpflichtet, eine angemessene Anzahl Aus- und Weiterbildungsplätze für Pflegeberufe anzubieten.
+
+<sup>2</sup> Sofern die angebotenen Aus- und Weiterbildungsplätze für Pflegeberufe nicht dem prognostizierten künftigen Bedarf entsprechen, kann der Regierungsrat:
+
+- a. eine verbindliche Anzahl Aus- bzw. Weiterbildungsplätze für jeden Betrieb festlegen;
+- b. Kompensationszahlungen vorsehen, wenn die vorgegebene Anzahl der Aus- bzw. Weiterbildungsplätze nicht erreicht wird. Diese sind zweckgebunden für die Nachwuchsförderung der Pflegeberufe zu verwenden oder an die Betriebe auszurichten, welche die vorgegebene Zahl der Aus- bzw. Weiterbildungsplätze überschreiten.
+
+<sup>3</sup> Die Betriebe können die verbindliche Anzahl Aus- bzw. Weiterbildungsplätze auch gemeinsam bereitstellen.
 
 #### Art. 24
 
@@ -644,9 +653,11 @@ Vom 06.05.2007 (Stand 01.01.2021)
 
 **Geltungsbereich**
 
-<sup>1</sup> Die in diesem Gesetz aufgeführten Patientenrechte und -pflichten gelten für die Untersuchung und Behandlung von Patienten in Einrichtungen der Gesundheitspflege gemäss Artikel 23 und in Heimen im Sinne des Sozialhilfegesetzes[^40-1], sowie für die Untersuchung und Behandlung durch Personen, welche eine Tätigkeit gemäss Artikel 25 ausüben.
+<sup>1</sup> Die in diesem Gesetz aufgeführten Patientenrechte und -pflichten gelten für die Untersuchung und Behandlung von Patienten:
 
-[^40-1]: GS [VIII E/21/3](https://gesetze.gl.ch/data/VIII-E.21.3/de)
+- a. in Einrichtungen der Gesundheitspflege gemäss Artikel 23;
+- b. in Einrichtungen im Sinne des Pflege- und Betreuungsgesetzes;
+- c. durch Personen, die eine Tätigkeit gemäss Artikel 25 ausüben.
 
 #### Art. 41
 
@@ -848,7 +859,7 @@ Vom 06.05.2007 (Stand 01.01.2021)
 - e. eine nicht bewilligungspflichtige Tätigkeit nach Artikel 37 Absatz 1 in einer Weise bekannt macht, die zu Täuschungen Anlass geben könnte;
 - f. eine Tätigkeit des Gesundheitswesens unter Missachtung eines Verbots oder einer Einschränkung ausübt.
 
-<sup>2</sup> In Fällen, in denen Verfehlungen eines Betriebs keiner natürlichen Person innerhalb des Betriebs zugerechnet werden können, ist subsidiär der Betrieb strafbar.
+<sup>2</sup> An Stelle einer juristischen Person, einer Gesellschaft oder einer Einzelfirma sind die natürlichen Personen strafbar, die für sie gehandelt haben oder hätten handeln sollen. Können diese nicht ohne unverhältnismässigen Aufwand festgestellt werden, wird die juristische Person, die Gesellschaft oder die Einzelfirma zur Bezahlung der Busse verurteilt.
 
 <sup>3</sup> Versuch und Gehilfenschaft sind strafbar.
 
