@@ -4,11 +4,11 @@ title: "Legge federale del 17 giugno 2016 sull'Agenzia svizzera per la promozion
 short: LASPI
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/712"
 language: it
-version: 2022-04-15
+version: 2023-01-01
 adopted: 2016-06-17
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/712/20220415/it/xml/fedlex-data-admin-ch-eli-cc-2016-712-20220415-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/712/20220415/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/712/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2016-712-20230101-it-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/712/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/712/20220415/it"
 
 (Legge su Innosuisse, LASPI)
 
-del 17 giugno 2016 (Stato 15 aprile 2022)
+del 17 giugno 2016 (Stato 1° gennaio 2023)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -64,11 +64,11 @@ decreta:
 
 <sup>1</sup> Innosuisse è l’organo della Confederazione incaricato di promuovere l’innovazione fondata sulla scienza in tutte le discipline presenti nei centri di ricerca universitari di cui all’articolo 4 lettera c LPRI[^3-1].
 
-<sup>2</sup> Essa adempie i compiti di cui agli articoli 18 capoversi 1 e 2 nonché 19–24 LPRI.
+<sup>2</sup> Essa gestisce la promozione dell’innovazione secondo gli articoli 18 capoversi 1 e 2 nonché 19–23 LPRI.[^3-2]
 
 <sup>3</sup> Essa rappresenta la Confederazione presso organizzazioni e organi internazionali operanti nel settore della promozione dell’innovazione secondo l’articolo 28 capoverso 2 lettera c LPRI, nella misura in cui vi sia autorizzata dal Consiglio federale, dal Dipartimento federale dell’economia, della formazione e della ricerca (DEFR) o dalla Segreteria di Stato per la formazione, la ricerca e l’innovazione (SEFRI), e prende provvedimenti e decisioni nell’ambito della partecipazione della Confederazione a tali organizzazioni e organi.
 
-<sup>4</sup> Nel suo ambito di competenza, essa promuove l’informazione sui programmi nazionali e internazionali e sulla presentazione di domande di sussidio.
+<sup>4</sup> Nel suo ambito di competenza, essa fornisce informazioni sui programmi nazionali e internazionali e sulla presentazione di domande di sussidio. A tal fine può elaborare offerte di informazione insieme a terzi.[^3-3]
 
 <sup>5</sup> Essa partecipa alla preparazione degli atti normativi della Confederazione relativi alla promozione dell’innovazione, per quanto riguardino i compiti di cui ai capoversi 2 e 3.
 
@@ -77,14 +77,16 @@ decreta:
 <sup>7</sup> Essa coordina le proprie attività con i provvedimenti adottati a livello regionale e cantonale, in particolare per sostenere la costituzione e lo sviluppo di imprese la cui attività è fondata sulla scienza nonché per assicurare la consulenza in materia di trasferimento di sapere e tecnologie.
 
 [^3-1]: [RS 420.1](https://fedlex.data.admin.ch/eli/cc/2013/786)
+[^3-2]: Nuovo testo giusta l’all. della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^3-3]: Nuovo testo giusta l’all. della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 
 #### Art. 4
 
-**Cooperazioni e partecipazione a soggetti giuridici**
+**Partecipazione a soggetti giuridici**[^4-1]
 
-<sup>1</sup> Innosuisse può avviare cooperazioni con organizzazioni od organismi di promozione esteri nell’ambito di progetti d’innovazione transfrontalieri.
+Nei limiti fissati dagli obiettivi strategici del Consiglio federale, Innosuisse può partecipare a soggetti giuridici di diritto pubblico o di diritto privato a scopo non lucrativo.
 
-<sup>2</sup> Nei limiti fissati dagli obiettivi strategici del Consiglio federale, può partecipare a soggetti giuridici di diritto pubblico o di diritto privato a scopo non lucrativo.
+[^4-1]: Nuovo testo giusta l’all. della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 
 ## Sezione 3: Organizzazione
 
@@ -105,7 +107,7 @@ Gli organi di Innosuisse sono:
 
 <sup>1</sup> Il consiglio d’amministrazione è l’organo direttivo supremo di Innosuisse. Si compone di 5–7 membri del mondo scientifico ed economico esperti in materia di promozione dell’innovazione.
 
-<sup>2</sup> Il Consiglio federale nomina i membri del consiglio d’amministrazione e ne designa il presidente. Esso li nomina per una durata di quattro anni. Può rinnovare due volte il mandato del presidente e una volta quello degli altri membri. Può revocare i membri del consiglio d’amministrazione per gravi motivi.
+<sup>2</sup> Il Consiglio federale nomina i membri del consiglio d’amministrazione e ne designa il presidente. Esso li nomina periodicamente per un mandato di quattro anni, rinnovabile. La durata del mandato di un membro del consiglio d’amministrazione è limitata a otto anni, quello del presidente a 12 anni, tenuto conto di un eventuale mandato svolto in quanto membro del consiglio d’amministrazione. Il Consiglio federale può revocare il mandato a membri del consiglio d’amministrazione per gravi motivi.[^6-1]
 
 <sup>3</sup> I candidati alla nomina nel consiglio d’amministrazione devono dichiarare al Consiglio federale le loro relazioni d’interesse.
 
@@ -118,6 +120,8 @@ Gli organi di Innosuisse sono:
 <sup>7</sup> I membri del consiglio d’amministrazione comunicano senza indugio al medesimo eventuali cambiamenti nelle loro relazioni d’interesse. Il consiglio d’amministrazione ne informa il Consiglio federale nel suo rapporto di gestione annuale. Se una relazione d’interesse è incompatibile con l’appartenenza al consiglio d’amministrazione e il membro in questione persiste nel mantenerla, il consiglio d’amministrazione ne chiede la revoca al Consiglio federale.
 
 <sup>8</sup> I membri del consiglio d’amministrazione sono tenuti al segreto d’ufficio durante il mandato e anche dopo la cessazione dello stesso.
+
+[^6-1]: Nuovo testo del secondo, terzo e quarto per. giusta l’all. della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 
 #### Art. 7
 
@@ -164,17 +168,24 @@ Il consiglio d’amministrazione:
 
 <sup>2</sup>
 
-Essa ha in particolare i seguenti compiti:
+Ha in particolare i seguenti compiti:[^8-1]
 
 - a. gestisce gli affari e dirige la segreteria;
-- b. prende decisioni nell’ambito di cui all’articolo 3 capoverso 4;
-- c. prepara le basi decisionali del Consiglio dell’innovazione nell’ambito di cui all’articolo 10 capoverso 1 e gli sottopone proposte relative alle condizioni formali della promozione e ai mezzi finanziari disponibili; se le decisioni del Consiglio dell’innovazione differiscono dalla proposta della direzione, i due organi cercano di trovare un accordo; se non vi riescono, la direzione sottopone le divergenze al consiglio d’amministrazione;
+- b.[^8-2] prende decisioni nell’ambito di cui all’articolo 3 capoverso 4 della presente legge nonché nell’ambito di cui all’articolo 21 capoversi 1 lettere b–c e 3 LPRI[^8-3];
+- b<sup>bis</sup>.[^8-4] decide sull’entrata nel merito delle domande di promozione nei settori di cui all’articolo 3 capoversi 2 e 3; se le domande sono formalmente inammissibili o manifestamente incomplete non entra nel merito e notifica l’esito mediante decisione;
+- c.[^8-5] prepara le basi per le decisioni del Consiglio dell’innovazione secondo l’articolo 10 capoverso 1 e, nel caso delle domande per le quali è decisa l’entrata nel merito, gli sottopone una proposta tenendo conto dei mezzi finanziari disponibili; se il Consiglio dell’innovazione non si allinea alla proposta e non si raggiunge un accordo, la direzione sottopone le divergenze al consiglio d’amministrazione;
 - d. emana decisioni e stipula contratti in base alle decisioni del Consiglio dell’innovazione;
 - e. esercita la vigilanza sul budget di Innosuisse e sullo stato degli impegni assunti e previsti; è responsabile della gestione finanziaria, del reporting e del controlling delle attività promosse;
 - f. assiste il consiglio d’amministrazione e il Consiglio dell’innovazione nella preparazione degli affari;
 - g. riferisce periodicamente al consiglio d’amministrazione e lo informa senza indugio in caso di eventi particolari;
 - h. decide in merito alla costituzione, alla modifica e alla risoluzione dei rapporti di lavoro del personale di Innosuisse; è fatto salvo l’articolo 7 capoverso 1 lettera i;
 - i. adempie tutti i compiti che la presente legge non attribuisce a un altro organo.
+
+[^8-1]: Nuovo testo giusta l’all. della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^8-2]: Nuovo testo giusta l’all. della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^8-3]: [RS 420.1](https://fedlex.data.admin.ch/eli/cc/2013/786)
+[^8-4]: Introdotta dall’all. della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^8-5]: Nuovo testo giusta l’all. della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 
 #### Art. 9
 
@@ -186,7 +197,7 @@ Essa ha in particolare i seguenti compiti:
 
 <sup>3</sup> I candidati alla nomina nel Consiglio dell’innovazione sono scelti in funzione delle loro competenze in materia di innovazione fondata sulla scienza e del loro rapporto con la pratica nell’economia e nella società.
 
-<sup>4</sup> I membri sono nominati per una durata di quattro anni. Il loro mandato può essere rinnovato una volta.
+<sup>4</sup> I membri sono nominati per un mandato di quattro anni, rinnovabile. La durata del mandato di un membro del Consiglio dell’innovazione è limitata a otto anni.[^9-1]
 
 <sup>5</sup> I candidati alla nomina nel Consiglio dell’innovazione devono dichiarare al consiglio d’amministrazione le loro relazioni d’interesse.
 
@@ -196,6 +207,8 @@ Essa ha in particolare i seguenti compiti:
 
 <sup>8</sup> I membri del Consiglio dell’innovazione sono tenuti al segreto d’ufficio durante il mandato e anche dopo la cessazione dello stesso.
 
+[^9-1]: Nuovo testo giusta l’all. della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+
 #### Art. 10
 
 **Consiglio dell’innovazione: compiti**
@@ -204,16 +217,18 @@ Essa ha in particolare i seguenti compiti:
 
 Il Consiglio dell’innovazione:
 
-- a. decide in merito alle domande di promozione nei settori di cui all’articolo 3 capoversi 2 e 3; se le sue decisioni differiscono dalle proposte della direzione di cui all’articolo 8 capoverso 2 lettera c, gliene presenta la motivazione;
+- a.[^10-1] decide in merito alle domande di promozione nei settori di cui all’articolo 3 capoversi 2 e 3, salvo che la decisione sia affidata a un altro organo; se le sue decisioni differiscono dalle proposte della direzione di cui all’articolo 8 capoverso 2 lettera c, gliene presenta la motivazione;
 - b. segue, dal punto di vista scientifico e dell’innovazione, l’esecuzione delle attività promosse secondo la lettera a;
-- c. prende le decisioni nella procedura di selezione dei fornitori di prestazioni di cui all’articolo 21 capoverso 1 LPRI[^10-1];
+- c.[^10-2] seleziona i fornitori di prestazioni di cui agli articoli 20 capoverso 3 e 21 capoverso 2 LPRI[^10-3];
 - d. elabora e sottopone al consiglio d’amministrazione proposte concernenti la strategia e gli strumenti di promozione;
 - e. elabora e sottopone al consiglio d’amministrazione i programmi pluriennali;
 - f. per ogni strumento di promozione, emana le disposizioni d’esecuzione concernenti i costi computabili per il calcolo dei sussidi e i requisiti relativi alla presentazione delle domande.
 
 <sup>2</sup> Esso può proporre al consiglio d’amministrazione la nomina di esperti per valutare le domande nel suo settore di attività e per seguire i lavori dei progetti. Agli esperti si applicano per analogia le disposizioni dell’articolo 9 capoversi 5–8 sulla dichiarazione delle relazioni d’interesse e sul segreto d’ufficio.
 
-[^10-1]: [RS 420.1](https://fedlex.data.admin.ch/eli/cc/2013/786)
+[^10-1]: Nuovo testo giusta l’all. della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^10-2]: Nuovo testo giusta l’all. della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^10-3]: [RS 420.1](https://fedlex.data.admin.ch/eli/cc/2013/786)
 
 #### Art. 11
 
@@ -320,7 +335,12 @@ La Confederazione accorda annualmente a Innosuisse indennità per le spese deriv
 
 <sup>1</sup> Innosuisse può costituire riserve. I mezzi finanziari di terzi di cui all’articolo 16 capoverso 2 possono essere destinati alle riserve.
 
-<sup>2</sup> Le riserve non possono superare il 10 per cento del budget annuale. I mezzi finanziari di terzi non sono compresi.
+<sup>2</sup> Le riserve non possono superare il 15 per cento del budget annuale.[^19-1] I mezzi finanziari di terzi non sono compresi.
+
+<sup>3</sup> In casi eccezionali il Consiglio federale può autorizzare il superamento temporaneo dell’aliquota massima di cui al capoverso 2 qualora gli oneri non iscritti nel bilancio di Innosuisse per i sussidi di promozione dell’innovazione giustifichino questa misura.[^19-2]
+
+[^19-1]: Nuovo testo giusta l’all. della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^19-2]: Introdotto dall’all. della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 
 #### Art. 20
 
@@ -368,16 +388,17 @@ Il consiglio d’amministrazione stabilisce nell’ordinanza sui sussidi in part
 
 - a. gli strumenti di promozione di Innosuisse;
 - b. le condizioni della promozione e del sostegno;
-- b<sup>bis</sup>.[^23-1] ...
-- b<sup>ter</sup>.[^23-2] i criteri per determinare l’importo delle prestazioni proprie delle giovani imprese e delle piccole e medie imprese di cui all’articolo 19 capoversi 3<sup>bis</sup>[^23-3] e 3<sup>ter</sup> LPRI;
-- c. la procedura di selezione dei fornitori di prestazioni di cui all’articolo 21 capoverso 1 LPRI[^23-4];
+- b<sup>bis</sup>.[^23-1] i casi in cui ai partner attuatori possono essere versati sussidi in virtù dell’articolo 19 capoverso 1<sup>bis</sup> LPRI[^23-2];
+- b<sup>ter</sup>.[^23-3] i criteri per determinare l’importo delle prestazioni proprie delle giovani imprese e delle piccole e medie imprese di cui all’articolo 19 capoversi 3<sup>bis</sup>[^23-4] e 3<sup>ter</sup> LPRI;
+- c.[^23-5] la procedura di selezione dei fornitori di prestazioni secondo gli articoli 20 capoverso 3 e 21 capoverso 2 LPRI;
 - d. le condizioni e le modalità di concessione dei sussidi a partner di ricerca esteri nell’ambito di progetti d’innovazione transfrontalieri;
 - e. le modalità di calcolo dei sussidi e del loro versamento.
 
-[^23-1]: In vigore dal 1° gen. 2022 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
-[^23-2]: Introdotta dall’all. della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 15 apr. 2022 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
-[^23-3]: In vigore il 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
-[^23-4]: [RS 420.1](https://fedlex.data.admin.ch/eli/cc/2013/786)
+[^23-1]: Introdotta dall’all. della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^23-2]: [RS 420.1](https://fedlex.data.admin.ch/eli/cc/2013/786)
+[^23-3]: Introdotta dall’all. della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 15 apr. 2022 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^23-4]: In vigore il 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^23-5]: Nuovo testo giusta l’all. della LF del 17 dic. 2021 (Modifiche in materia di promozione dell’innovazione), in vigore dal 1° gen. 2023 ([RU 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 
 ## Sezione 7: Tutela degli interessi della Confederazione
 

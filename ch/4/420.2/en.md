@@ -4,11 +4,11 @@ title: "Federal Act of 17 June 2016 on the Swiss Innovation Agency (Innosuisse A
 short: SIAA
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/712"
 language: en
-version: 2022-04-15
+version: 2023-01-01
 adopted: 2016-06-17
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/712/20220415/en/xml/fedlex-data-admin-ch-eli-cc-2016-712-20220415-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/712/20220415/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/712/20230101/en/xml/fedlex-data-admin-ch-eli-cc-2016-712-20230101-en-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/712/20230101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Innosuisse Act, SIAA)
 
-of 17 June 2016 (Status as of 15 April 2022)
+of 17 June 2016 (Status as of 1 January 2023)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -62,13 +62,13 @@ decrees:
 
 **Tasks**
 
-<sup>1</sup> Innosuisse is the Confederation’s funding institution for science-based innovation in all disciplines represented at Swiss higher education research institutions under Article 4, letter c RIPA[^3-1].
+<sup>1</sup> Innosuisse is the Confederation’s funding institution for science-based innovation in all disciplines represented at Swiss higher education research centres under Article 4, letter c RIPA[^3-1].
 
-<sup>2</sup> It shall perform the tasks referred to in Article 18 paragraphs 1 and 2 as well as in Articles 19–24 RIPA.
+<sup>2</sup> It shall pursue innovation support activities in accordance with Article 18 paragraphs 1 and 2 as well as in Articles 19–23 RIPA.[^3-2]
 
 <sup>3</sup> It shall represent the Confederation in international organisations and bodies involved in innovation promotion in accordance with Article 28 paragraph 2, letter c RIPA, insofar as it is authorised to do so by the Federal Council, the Federal Department of Economic Affairs, Education and Research (EAER) or the State Secretariat for Education, Research and Innovation (SERI), and shall take measures and decisions to the extent of the Confederation's participation in these organisations and bodies.
 
-<sup>4</sup> It shall provide, within its area of responsibility, information on national and international programmes and on the submission of applications.
+<sup>4</sup> It shall provide, within its area of responsibility, information on national and international programmes and on the submission of applications. It may work with third parties to develop information offers.[^3-3]
 
 <sup>5</sup> It shall take part in the preparation of federal legislation on innovation support, when said legislation relates to its tasks under paragraphs 2 and 3.
 
@@ -77,14 +77,16 @@ decrees:
 <sup>7</sup> It shall coordinate its activities with regional and cantonal measures, namely to support the establishment and development of science-based companies and to provide advice on knowledge and technology transfer.
 
 [^3-1]: [SR 420.1](https://fedlex.data.admin.ch/eli/cc/2013/786)
+[^3-2]: Amended by the Annex to the FA of 17 Dec. 2021 (Changes in the Funding of Innovation), in force since 1 Jan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^3-3]: Amended by the Annex to the FA of 17 Dec. 2021 (Changes in the Funding of Innovation), in force since 1 Jan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 
 #### Art. 4
 
-**Cooperation and participation in legal entities**
+**Participation in legal entities**[^4-1]
 
-<sup>1</sup> Innosuisse may partner with foreign funding organisations or funding institutions for cross-border innovation projects.
+Innosuisse may participate in non-profit-making legal entities under private or public law if part of the Federal Council's strategic objectives.
 
-<sup>2</sup> It may participate in non-profit-making legal entities under private or public law if part of the Federal Council's strategic objectives.
+[^4-1]: Amended by the Annex to the FA of 17 Dec. 2021 (Changes in the Funding of Innovation), in force since 1 Jan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 
 ## Section 3 Structure
 
@@ -105,7 +107,7 @@ The bodies of Innosuisse are:
 
 <sup>1</sup> The Board of Directors is the highest decision-making body. It consists of 5-7 members from science and industry who are specialised in supporting innovation.
 
-<sup>2</sup> The Federal Council elects the Chairman and members of the Board of Directors for a 4–year term of office. It may re-elect the Chairman twice, the other members once. It may dismiss members of the Board of Directors if there are important grounds to do so.
+<sup>2</sup> The Federal Council periodically elects the Chairman and members of the Board of Directors for a 4–year term of office. It may re-elect them. No member of the Board of Directors may remain in office for more than 8 years. The Chairman may not remain in office for more than 12 years, including the amount of time spent as a member of the Board of Directors. The Federal Council may dismiss members of the Board of Directors if there are important grounds to do so.[^6-1]
 
 <sup>3</sup> Nominees for election to the Board of Directors must disclose their vested interests to the Federal Council.
 
@@ -118,6 +120,8 @@ The bodies of Innosuisse are:
 <sup>7</sup> The members of the Board of Directors shall keep the Board of Directors abreast of any changes to their vested interests. The latter shall provide the Federal Council with an update on the vested interests situation in the annual report. If a given vested interest is incompatible with Board of Directors membership and if the member fails to divest himself or herself of the conflicting vested interest, then the Board of Directors shall ask the Federal Council to dismiss this member.
 
 <sup>8</sup> The members of the Board of Directors are obliged to maintain confidentiality regarding official matters both during and after their term of office on the Board of Directors.
+
+[^6-1]: Second and fourth sentences amended by the Annex to the FA of 17 Dec. 2021 (Changes in the Funding of Innovation), in force since 1 Jan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 
 #### Art. 7
 
@@ -166,15 +170,21 @@ The Board of Directors shall have the following tasks:
 
 It shall carry out the following tasks in particular:
 
-- a. It shall handle day-to-day business and manage the Executive Committee.
-- b. It shall reach decisions pertaining to the matters referred to in Article 3 paragraph 4 above.
-- c. It shall prepare the documentation needed for decision-making by the Innovation Council in relation to the matters referred to in Article 10 paragraph 1 below and shall submit proposals on formal funding eligibility requirements and allocation of available funding; if the Innovation Council disagrees with the Executive Committee’s proposal, then the latter shall seek agreement with the Innovation Council; if no such agreement is reached, the Executive Committee shall submit the differences to the Board of Directors.
+- a. It shall handle day-to-day business and manage the Secretariat.
+- b.[^8-1] It shall reach decisions pertaining to the matters referred to in Article 3 paragraph 4 of this Act as well as Article 21 paragraph 1 letters b and c and paragraph 3 RIPA[^8-2].
+- b<sup>bis</sup>.[^8-3] It shall decide on the admissibility of funding applications in the areas referred to in Article 3 paragraphs 2 and 3; it shall not accept applications that do not meet formal requisites or are obviously unsuited and shall issue an official decision in writing.
+- c. [^8-4] It shall prepare the documentation needed by the Innovation Council for its decisions under Article 10 paragraph 1 below and shall submit a proposal to the Innovation Council presenting the vetted applications taking available funding into account; if the Innovation Council disagrees with the Executive Committee’s proposal and no agreement is reached, then the Executive Committee shall submit the differences to the Board of Directors.
 - d. It shall issue decisions and sign contracts in accordance with Innovation Council decisions.
 - e. It shall monitor the Innosuisse budget and the status of current and upcoming financial commitments; it shall be responsible for managing finances as well as for reporting on and controlling funded activities.
 - f. It shall assist the Board of Directors and the Innovation Council in preparing their day-to-day activities.
 - g. It shall report to the Board of Directors at regular intervals and shall do so without delay in the event of specific incidents.
 - h. It shall decide on the issuance, amendment and termination of employment contracts of Innosuisse employees; Article 7 paragraph 1 letter i remains reserved.
 - i. It shall perform all tasks not otherwise assigned to another body under this Act.
+
+[^8-1]: Amended by the Annex to the FA of 17 Dec. 2021 (Changes in the Funding of Innovation), in force since 1 Jan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^8-2]: [SR 420.1](https://fedlex.data.admin.ch/eli/cc/2013/786)
+[^8-3]: Inserted by the Annex to the FA of 17 Dec. 2021 (Changes in the Funding of Innovation), in force since 1 Jan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^8-4]: Amended by the Annex to the FA of 17 Dec. 2021 (Changes in the Funding of Innovation), in force since 1 Jan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 
 #### Art. 9
 
@@ -186,7 +196,7 @@ It shall carry out the following tasks in particular:
 
 <sup>3</sup> The criteria for the election of nominees to the Innovation Council are the person’s performance record in science-based innovation and the relevance of said performance in terms of practical applications for business and society.
 
-<sup>4</sup> Members shall be elected for a four-year term of office. Each member may be re-elected once.
+<sup>4</sup> Members shall be elected for a four-year term of office and may be re-elected. No member of the Innovation Council may remain in office for more than 8 years.[^9-1]
 
 <sup>5</sup> Nominees for election to the Innovation Council must disclose their vested interests to the Board of Directors.
 
@@ -196,6 +206,8 @@ It shall carry out the following tasks in particular:
 
 <sup>8</sup> The members of the Innovation Council are obliged to maintain confidentiality regarding official matters both during and after their term of office on the Innovation Council.
 
+[^9-1]: Amended by the Annex to the FA of 17 Dec. 2021 (Changes in the Funding of Innovation), in force since 1 Jan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+
 #### Art. 10
 
 **Innovation Council: Tasks**
@@ -204,16 +216,18 @@ It shall carry out the following tasks in particular:
 
 The Innovation Council shall have the following tasks:
 
-- a. It shall decide on funding applications in the areas referred to in Article 3 paragraphs 2 and 3 above; if its decisions differ from those proposed by the Executive Committee pursuant to Article 8 paragraph 2 let c, then it shall provide a statement of reasons to the Executive Committee.
+- a.[^10-1] It shall decide on funding applications in the areas referred to in Article 3 paragraphs 2 and 3 above, provided that this decision has not been assigned to another body; if its decisions differ from those proposed by the Executive Committee pursuant to Article 8 paragraph 2 let c, then it shall provide a statement of reasons to the Executive Committee.
 - b. It shall provide science and innovation-based supervision of implementation of the supported activities referred to in letter a above.
-- c. It shall reach decisions in relation to the selection procedure of service providers under Article 21 paragraph 1 RIPA[^10-1].
+- c.[^10-2] It shall select service providers under Articles 20 paragraph 3 and 21 paragraph 2 RIPA[^10-3].
 - d. It shall devise proposals on funding strategy and funding instruments for the Board of Directors.
 - e. It shall prepare multiannual programmes for the Board of Directors.
 - f. It shall establish implementation provisions for each individual funding instrument in terms of eligible costs for calculation of contributions and application submission requirements.
 
 <sup>2</sup> It may propose experts to the Board of Directors to lend support in the evaluation of applications in its area of responsibility and for the purpose of supervising project work. These experts shall be subject to the provisions of Article 9, paragraphs 5-8, on disclosure of vested interests and official secrecy where applicable.
 
-[^10-1]: [SR 420.1](https://fedlex.data.admin.ch/eli/cc/2013/786)
+[^10-1]: Amended by the Annex to the FA of 17 Dec. 2021 (Changes in the Funding of Innovation), in force since 1 Jan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^10-2]: Amended by the Annex to the FA of 17 Dec. 2021 (Changes in the Funding of Innovation), in force since 1 Jan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^10-3]: [SR 420.1](https://fedlex.data.admin.ch/eli/cc/2013/786)
 
 #### Art. 11
 
@@ -320,7 +334,12 @@ The Swiss Confederation shall provide Innosuisse with annual contributions to co
 
 <sup>1</sup> Innosuisse may form reserves. Third-party funds referred to in Article 16 paragraph 2 may be allocated to the reserves.
 
-<sup>2</sup> Reserves may not exceed 10 per cent of the respective annual budget. Third-party funds shall not be included in the calculation.
+<sup>2</sup> Reserves may not exceed 15 per cent of the respective annual budget.[^19-1] Third-party funds shall not be included in the calculation.
+
+<sup>3</sup> The Federal Council may decide that the maximum percentage under paragraph 2 may be exceeded in exceptional cases and for a limited period of time if Innosuisse's off-balance sheet commitments for innovation funding justify this measure.[^19-2]
+
+[^19-1]: Amended by the Annex to the FA of 17 Dec. 2021 (Changes in the Funding of Innovation), in force since 1 Jan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^19-2]: Inserted by the Annex to the FA of 17 Dec. 2021 (Changes in the Funding of Innovation), in force since 1 Jan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 
 #### Art. 20
 
@@ -368,16 +387,16 @@ The Board of Directors shall establish the following in the Funding Ordinance:
 
 - a. the funding instruments of Innosuisse;
 - b. the conditions for promotion and support;
-- b<sup>bis</sup>.[^23-1] …
-- b<sup>ter</sup>.[^23-2] the criteria for determining the amount of the contributions to be made by start-ups and small and medium-sized enterprises themselves under Article 19 paragraphs 3<sup>bis</sup> [^23-3] and 3<sup>ter</sup> RIPA;
-- c. the selection procedure for service providers under Article 21 paragraph 1 RIPA[^23-4];
+- b<sup>bis</sup>.[^23-1] the cases where contributions may be made to implementing partners in accordance with Article 19 paragraph 1bis RIPA[^23-2];
+- b<sup>ter</sup>.[^23-3] the criteria for determining the amount of the contributions to be made by start-ups and small and medium-sized enterprises themselves under Article 19 paragraphs 3<sup>bis</sup> and 3<sup>ter</sup> RIPA;
+- c.[^23-4] the procedure used to select service providers under Articles 20 paragraph 3 and 21 paragraph 2 RIPA;
 - d. the conditions and terms for granting subsidies to foreign research partners for cross-border innovation projects;
 - e. calculation of funding amounts and terms of payment.
 
-[^23-1]: Comes into force on 1 Jan 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
-[^23-2]: Inserted by the annexe of the FA of 17 Dec. 2021 (Changes to Innovation Promotion), in force since 15 April 2022 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
-[^23-3]: Comes into force on 1 Jan 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
-[^23-4]: [SR 420.1](https://fedlex.data.admin.ch/eli/cc/2013/786)
+[^23-1]: Inserted by the annex of the FA of 17 Dec. 2021 (Changes to Innovation Promotion), in force since 1 Jan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^23-2]: [SR 420.1](https://fedlex.data.admin.ch/eli/cc/2013/786)
+[^23-3]: Inserted by the annex of the FA of 17 Dec. 2021 (Changes to Innovation Promotion), in force since 1 Jan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^23-4]: Amended by the Annex to the FA of 17 Dec. 2021 (Changes in the Funding of Innovation), in force since 1 Jan. 2023 ([AS 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [BBl 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 
 ## Section 7 Safeguarding Federal Interests
 
@@ -476,7 +495,7 @@ The EAER may decide to update register entries under Article 27 paragraph 5, tax
 
 <sup>2</sup> The Federal Council shall determine the date when this Act comes into force.
 
-Commencement date:[^31-1] 1 January 2018 Art. 1 para. 5, 5–13, 18, 20 para. 3, 22–26, 27 para. 2–6 und 28: 1 Jan. 2017
+Commencement date:[^31-1] 1 January 2018 Art. 1 para. 5, 5–13, 18, 20 paras 3, 22–26, 27 paras 2–6 and 28: 1 Jan. 2017
 
 [^31-1]: FCD of 16 Nov. 2016.
 
@@ -490,4 +509,4 @@ The enactments below are amended as follows:
 
 …[^annexu1-lvlu1-1]
 
-[^annexu1-lvlu1-1]: The amendments may be consulted under [AS 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712).
+[^annexu1-lvlu1-1]: The amendments may be consulted under [AS 2016 4259](https://fedlex.data.admin.ch/eli/oc/2016/712)..

@@ -4,11 +4,11 @@ title: "Loi fédérale du 17 juin 2016 sur l'Agence suisse pour l'encouragement 
 short: LASEI
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/712"
 language: fr
-version: 2022-04-15
+version: 2023-01-01
 adopted: 2016-06-17
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/712/20220415/fr/xml/fedlex-data-admin-ch-eli-cc-2016-712-20220415-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/712/20220415/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/712/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-712-20230101-fr-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/712/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/712/20220415/fr"
 
 (Loi sur Innosuisse, LASEI)[^t-1]
 
-du 17 juin 2016 (Etat le 15 avril 2022)
+du 17 juin 2016 (Etat le 1<sup>er</sup> janvier 2023)
 
 [^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -66,11 +66,11 @@ arrête:
 
 <sup>1</sup> Innosuisse est l’organe de la Confédération chargé d’encourager l’innovation fondée sur la science dans toutes les disciplines représentées dans les établissements de recherche du domaine des hautes écoles selon l’art. 4, let. c, LERI[^3-1].
 
-<sup>2</sup> Elle accomplit les tâches prévues aux art. 18, al. 1 et 2, et 19 à 24, LERI.
+<sup>2</sup> Elle assure l’encouragement de l’innovation au sens des art. 18, al. 1 et 2, et 19 à 23, LERI.[^3-2]
 
 <sup>3</sup> Dans la mesure où le Conseil fédéral, le Département fédéral de l’économie, de la formation et de la recherche (DEFR) ou le Secrétariat d’État à la formation, à la recherche et à l’innovation (SEFRI) l’y habilitent, elle représente la Confédération dans les organisations ou organes internationaux d’encouragement de l’innovation au sens de l’art. 28, al. 2, let. c, LERI et prend des mesures et des décisions dans le cadre de la participation de la Confédération à ces organisations ou organes internationaux.
 
-<sup>4</sup> Elle encourage, dans son domaine de compétence, l’information sur les programmes nationaux et internationaux ainsi que sur le dépôt des demandes.
+<sup>4</sup> Elle assure, dans son domaine de compétence, la diffusion de l’information sur les programmes nationaux et internationaux ainsi que sur le dépôt des demandes. Elle peut développer à cet effet des offres d’information conjointement avec des tiers.[^3-3]
 
 <sup>5</sup> Elle participe à la préparation des actes juridiques de la Confédération qui concernent l’encouragement de l’innovation, dans la mesure où ils se rapportent aux tâches visées aux al. 2 et 3.
 
@@ -79,14 +79,16 @@ arrête:
 <sup>7</sup> Elle coordonne ses activités avec les mesures prises au niveau régional ou cantonal, notamment avec celles qui sont destinées à soutenir la création et le développement d’entreprises fondées sur la science et à offrir des conseils en matière de transfert de savoir et de technologie.
 
 [^3-1]: [RS 420.1](https://fedlex.data.admin.ch/eli/cc/2013/786)
+[^3-2]: Nouvelle teneur selon l’annexe de la LF du 17 déc. 2021 (Adaptations concernant l’encouragement de l’innovation), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^3-3]: Nouvelle teneur selon l’annexe de la LF du 17 déc. 2021 (Adaptations concernant l’encouragement de l’innovation), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 
 #### Art. 4
 
-**Coopération et participation à des entités juridiques**
+**Participation à des entités juridiques**[^4-1]
 
-<sup>1</sup> Innosuisse peut coopérer avec des organisations ou organismes d’encouragement étrangers pour soutenir des projets d’innovation transfrontières.
+Dans le cadre des objectifs stratégiques du Conseil fédéral, Innosuisse peut participer à des entités juridiques de droit privé ou public à but non lucratif.
 
-<sup>2</sup> Dans le cadre des objectifs stratégiques du Conseil fédéral, elle peut participer à des entités juridiques de droit public ou de droit privé à but non lucratif.
+[^4-1]: Nouvelle teneur selon l’annexe de la LF du 17 déc. 2021 (Adaptations concernant l’encouragement de l’innovation), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 
 ## Section 3 Organisation
 
@@ -107,7 +109,7 @@ Les organes d’Innosuisse sont:
 
 <sup>1</sup> Le conseil d’administration est l’organe suprême d’Innosuisse. Il est composé de cinq à sept membres issus des milieux scientifiques et économiques qui connaissent bien le domaine de l’encouragement de l’innovation.
 
-<sup>2</sup> Le Conseil fédéral nomme les membres du conseil d’administration et désigne son président. Il les nomme pour une période de quatre ans. Le mandat du président est renouvelable deux fois, celui des autres membres une fois. Le Conseil fédéral peut révoquer des membres du conseil d’administration pour de justes motifs.
+<sup>2</sup> Le Conseil fédéral nomme les membres du conseil d’administration et désigne son président. Il les nomme périodiquement pour un mandat de 4 ans renouvelable. La durée de fonction est limitée à 8 ans pour les membres du conseil d’administration et à 12 ans pour le président, compte tenu de la durée de fonction écoulée en qualité de simple membre.[^6-1] Le Conseil fédéral peut révoquer des membres du conseil d’administration pour de justes motifs.
 
 <sup>3</sup> Les candidats au conseil d’administration doivent signaler leurs liens d’intérêt au Conseil fédéral.
 
@@ -120,6 +122,8 @@ Les organes d’Innosuisse sont:
 <sup>7</sup> Les membres du conseil d’administration signalent sans attendre à ce dernier toute modification touchant leurs liens d’intérêt. Le conseil d’administration en informe le Conseil fédéral dans son rapport de gestion annuel. Si des liens d’intérêt sont incompatibles avec la qualité de membre du conseil d’administration et que le membre concerné refuse de se défaire de son mandat, le conseil d’administration propose au Conseil fédéral de révoquer ce dernier.
 
 <sup>8</sup> Les membres du conseil d’administration sont tenus au secret de fonction pendant la durée de leur mandat et au-delà.
+
+[^6-1]: Nouvelle teneur des 2<sup>e</sup> et 3<sup>e</sup> phrases selon l’annexe de la LF du 17 déc. 2021 (Adaptations concernant l’encouragement de l’innovation), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 
 #### Art. 7
 
@@ -169,14 +173,20 @@ Le conseil d’administration accomplit les tâches suivantes:
 Elle accomplit notamment les tâches suivantes:
 
 - a. elle dirige les affaires et gère le secrétariat;
-- b. elle prend les décisions dans le domaine visé à l’art. 3, al. 4;
-- c. elle prépare les bases de décision du conseil de l’innovation dans le domaine visé à l’art. 10, al. 1, et lui soumet des propositions en ce qui concerne les conditions formelles de l’encouragement et les fonds disponibles; si les décisions du conseil de l’innovation diffèrent de ses propositions, elle recherche un accord avec lui; si aucun accord n’est trouvé, elle soumet les divergences au conseil d’administration;
+- b.[^8-1] elle prend les décisions dans le domaine visé aux art. 3, al. 4, de la présente loi, et 21, al. 1, let. b et c, et 3, LERI[^8-2];
+- b<sup>bis</sup>.[^8-3] elle décide de l’entrée en matière sur les demandes d’encouragement dans les domaines visés à l’art. 3, al. 2 et 3; elle n’entre pas en matière sur les demandes qui ne satisfont pas aux exigences formelles ou qui sont manifestement lacunaires, et rend une décision;
+- c.[^8-4] concernant les demandes sur lesquelles il est possible d’entrer en matière, elle prépare à l’intention du conseil de l’innovation les bases nécessaires aux décisions de ce dernier au sens de l’art. 10, al. 1, et lui soumet une proposition qui tient compte des moyens disponibles; si le conseil de l’innovation ne suit pas sa proposition et si aucun accord n’est trouvé, elle soumet les divergences au conseil d’administration;
 - d. elle arrête des décisions et conclut des contrats en se fondant sur les décisions du conseil de l’innovation;
 - e. elle veille sur le budget d’Innosuisse et sur l’état des engagements pris ou prévus; elle assume la responsabilité de la gestion financière, du compte rendu et du contrôle des activités soutenues;
 - f. elle assiste le conseil d’administration et le conseil de l’innovation dans la préparation des affaires;
 - g. elle fait régulièrement rapport au conseil d’administration et l’informe immédiatement de tout événement particulier;
 - h. elle décide de la conclusion, de la modification et de la fin des contrats de travail du personnel d’Innosuisse, sous réserve de l’art. 7, al. 1, let. i;
 - i. elle accomplit toutes les tâches que la présente loi ne confie pas à un autre organe.
+
+[^8-1]: Nouvelle teneur selon l’annexe de la LF du 17 déc. 2021 (Adaptations concernant l’encouragement de l’innovation), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^8-2]: [RS 420.1](https://fedlex.data.admin.ch/eli/cc/2013/786)
+[^8-3]: Introduite par l’annexe de la LF du 17 déc. 2021 (Adaptations concernant l’encouragement de l’innovation), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^8-4]: Nouvelle teneur selon l’annexe de la LF du 17 déc. 2021 (Adaptations concernant l’encouragement de l’innovation), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 
 #### Art. 9
 
@@ -188,7 +198,7 @@ Elle accomplit notamment les tâches suivantes:
 
 <sup>3</sup> Les candidats au conseil de l’innovation sont choisis en fonction de leurs compétences en matière d’innovation fondée sur la science et de leurs liens avec la pratique dans l’économie et la société.
 
-<sup>4</sup> Les membres sont nommés pour une période de quatre ans. Leur mandat est renouvelable une fois.
+<sup>4</sup> Les membres sont nommés pour un mandat de 4 ans renouvelable. La durée de fonction des membres du conseil de l’innovation est limitée à 8 ans.[^9-1]
 
 <sup>5</sup> Les candidats au conseil de l’innovation doivent signaler leurs liens d’intérêt au conseil d’administration.
 
@@ -198,6 +208,8 @@ Elle accomplit notamment les tâches suivantes:
 
 <sup>8</sup> Les membres du conseil de l’innovation sont tenus au secret de fonction pendant la durée de leur mandat et au-delà.
 
+[^9-1]: Nouvelle teneur selon l’annexe de la LF du 17 déc. 2021 (Adaptations concernant l’encouragement de l’innovation), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+
 #### Art. 10
 
 **Conseil de l’innovation: tâches**
@@ -206,16 +218,18 @@ Elle accomplit notamment les tâches suivantes:
 
 Le conseil de l’innovation accomplit les tâches suivantes:
 
-- a. il décide des demandes d’encouragement dans les domaines visés à l’art. 3, al. 2 et 3; si ses décisions s’écartent des propositions de la direction au sens de l’art. 8, al. 2, let. c, il les motive à son intention;
+- a.[^10-1] il décide des demandes d’encouragement dans les domaines visés à l’art. 3, al. 2 et 3, pour autant que la décision ne relève pas d’un autre organe; si ses décisions s’écartent des propositions de la direction au sens de l’art. 8, al. 2, let. c, il les motive à son intention;
 - b. il accompagne, sur les plans scientifique et de l’innovation, l’exécution des activités soutenues au sens de la let. a;
-- c. il prend les décisions dans la procédure de sélection des fournisseurs de prestations au sens de l’art. 21, al. 1, LERI[^10-1];
+- c.[^10-2] il choisit les fournisseurs de prestations au sens des art. 20, al. 3, et 21, al. 2, LERI[^10-3];
 - d. il élabore à l’intention du conseil d’administration des propositions concernant la stratégie et les instruments d’encouragement;
 - e. il établit les programmes pluriannuels à l’intention du conseil d’administration;
 - f. pour chaque instrument d’encouragement, il édicte les dispositions d’exécution sur les coûts imputables pour le calcul de la contribution et sur les exigences applicables au dépôt des demandes.
 
 <sup>2</sup> Il peut proposer au conseil d’administration des experts pour l’évaluation des demandes relevant de son domaine de compétence et pour l’accompagnement des travaux des projets. Les dispositions de l’art. 9, al. 5 à 8, relatives à l’obligation de signaler ses intérêts et au secret de fonction sont applicables par analogie aux experts.
 
-[^10-1]: [RS 420.1](https://fedlex.data.admin.ch/eli/cc/2013/786)
+[^10-1]: Nouvelle teneur selon l’annexe de la LF du 17 déc. 2021 (Adaptations concernant l’encouragement de l’innovation), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^10-2]: Nouvelle teneur selon l’annexe de la LF du 17 déc. 2021 (Adaptations concernant l’encouragement de l’innovation), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^10-3]: [RS 420.1](https://fedlex.data.admin.ch/eli/cc/2013/786)
 
 #### Art. 11
 
@@ -322,7 +336,12 @@ La Confédération octroie chaque année à Innosuisse des indemnités pour fina
 
 <sup>1</sup> Innosuisse peut constituer des réserves. Les fonds de tiers au sens de l’art. 16, al. 2, peuvent être affectés aux réserves.
 
-<sup>2</sup> Les réserves ne peuvent excéder 10 % du budget annuel. Les fonds de tiers ne sont pas soumis à cette limite.
+<sup>2</sup> Les réserves ne peuvent excéder 15 % du budget annuel.[^19-1] Les fonds de tiers ne sont pas soumis à cette limite.
+
+<sup>3</sup> Le Conseil fédéral peut exceptionnellement autoriser un dépassement temporaire du taux maximal visé à l’al. 2 si les engagements non portés au bilan d’Innosuisse au titre de contributions à l’innovation justifient une telle mesure.[^19-2]
+
+[^19-1]: Nouvelle teneur selon l’annexe de la LF du 17 déc. 2021 (Adaptations concernant l’encouragement de l’innovation), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^19-2]: Introduit par l’annexe de la LF du 17 déc. 2021 (Adaptations concernant l’encouragement de l’innovation), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 
 #### Art. 20
 
@@ -370,16 +389,17 @@ Le conseil d’administration détermine dans l’ordonnance sur les contributio
 
 - a. les instruments d’encouragement d’Innosuisse;
 - b. les conditions de l’encouragement et du soutien;
-- b<sup>bis</sup>.[^23-1] …
-- b<sup>ter</sup>.[^23-2] les critères déterminant le montant des prestations propres à fournir par les jeunes entreprises et les petites et moyennes entreprises visées à l’art. 19, al. 3<sup>bis</sup> [^23-3] et 3<sup>ter</sup>, LERI;
-- c. la procédure de sélection des fournisseurs de prestations au sens de l’art. 21, al. 1, LERI[^23-4];
+- b<sup>bis</sup>.[^23-1] les cas dans lesquels il est possible d’allouer des contributions à des partenaires chargés de la mise en valeur en vertu de l’art. 19, al. 1<sup>bis</sup>, LERI[^23-2];
+- b<sup>ter</sup>.[^23-3] les critères déterminant le montant des prestations propres à fournir par les jeunes entreprises et les petites et moyennes entreprises visées à l’art. 19, al. 3<sup>bis</sup> [^23-4] et 3<sup>ter</sup>, LERI;
+- c.[^23-5] la procédure de sélection des prestataires visés aux art. 20, al. 3, et 21, al. 2, LERI;
 - d. les conditions et les modalités de l’octroi de contributions à des partenaires de recherche étrangers associés à des projets d’innovation transfrontières;
 - e. le calcul des contributions et les modalités de paiement.
 
-[^23-1]: Entre en vigueur le 1<sup>er</sup> janvier 2023 ([RO 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
-[^23-2]: Introduite par l’annexe de la LF du 17 déc. 2021 (Adaptations concernant l’encouragement de l’innovation), en vigueur depuis le 15 avr. 2022 ([RO 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
-[^23-3]: En vigueur le 1<sup>er</sup> janvier 2023.
-[^23-4]: [RS 420.1](https://fedlex.data.admin.ch/eli/cc/2013/786)
+[^23-1]: Introduite par l’annexe de la LF du 17 déc. 2021 (Adaptations concernant l’encouragement de l’innovation), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^23-2]: [RS 420.1](https://fedlex.data.admin.ch/eli/cc/2013/786)
+[^23-3]: Introduite par l’annexe de la LF du 17 déc. 2021 (Adaptations concernant l’encouragement de l’innovation), en vigueur depuis le 15 avr. 2022 ([RO 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
+[^23-4]: En vigueur le 1<sup>er</sup> janvier 2023.
+[^23-5]: Nouvelle teneur selon l’annexe de la LF du 17 déc. 2021 (Adaptations concernant l’encouragement de l’innovation), en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 221](https://fedlex.data.admin.ch/eli/oc/2022/221); [FF 2021 480](https://fedlex.data.admin.ch/eli/fga/2021/480)).
 
 ## Section 7 Sauvegarde des intérêts de la Confédération
 
