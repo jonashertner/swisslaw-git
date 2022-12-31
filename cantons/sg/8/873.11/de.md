@@ -3,20 +3,19 @@ canton: SG
 number: "873.11"
 title: Verordnung zum Gesetz über die Gebäudeversicherung
 language: de
-version: 2021-01-01
-corrected: 2021-05-26
-version_adopted: 2021-04-27
+version: 2023-01-01
+version_adopted: 2022-08-16
 adopted: 2001-09-18
 in_force: 2002-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/873.11"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3029/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3400/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zum Gesetz über die Gebäudeversicherung
 
-vom 18.09.2001 (Stand 01.01.2021)
+vom 18.09.2001 (Stand 01.01.2023)
 
 Die Regierung des Kantons St.Gallen
 
@@ -43,11 +42,11 @@ als Verordnung:[^ingress-2]
 
 <sup>1</sup> Die Verwaltung besorgt alle Geschäfte, die nicht einem anderen Organ zugewiesen sind.
 
-<sup>2</sup> Der Verwaltung steht die Direktion vor. Sie vertritt die Gebäudeversicherung nach aussen, soweit Gesetz, Verordnung und Geschäftsreglement nichts anderes bestimmen.
+<sup>2</sup> Der Verwaltung steht die Geschäftsleitung vor. Sie vertritt die Gebäudeversicherung nach aussen, soweit Gesetz, Verordnung und Geschäftsreglement nichts anderes bestimmen.
 
 <sup>3</sup> Für das Personal der Gebäudeversicherung gelten die Vorschriften des Personalgesetzes vom 25. Januar 2011.[^2-1]
 
-<sup>4</sup> Die für die Schadenermittlung teilzeitlich beschäftigten Fachpersonen können nach Privatrecht angestellt werden.
+<sup>4</sup> Die Gebäudeversicherung kann für die Schadenermittlung teilzeitlich beschäftigte Fachpersonen nach Privatrecht anstellen oder Aufträge an Dritte erteilen.
 
 [^2-1]: sGS [143.1](https://www.gesetzessammlung.sg.ch/data/143.1/de).
 
@@ -459,7 +458,9 @@ als Verordnung:[^ingress-2]
 
 <sup>1</sup> Bei einem Eigentümerwechsel werden die zu viel bezahlten Prämien der bisherigen Eigentümerschaft bis zum letzten Tag des dem Grundbucheintrag vorangehenden Monats zurückerstattet. Die neue Eigentümerschaft schuldet die Prämie ab Beginn des Monats, in dem der Grundbucheintrag erfolgt. Nicht ausgeschieden werden Kleinbeträge.
 
-<sup>2</sup> Wenn die bisherige und die neue Eigentümerschaft auf eine Ausscheidung der Prämienforderung ausdrücklich verzichten, kann die Gebäudeversicherung die Prämienrückerstattung und die Prämiennachforderung für das Jahr des Grundbucheintrags unterlassen.
+<sup>1<sup>bis</sup></sup> Die Rückerstattung erfolgt auf Antrag der bisherigen oder der neuen Eigentümerschaft. Für die Antragstellung gilt eine Frist von dreissig Tagen.
+
+<sup>2</sup> Wenn die bisherige und die neue Eigentümerschaft auf einen Antrag nach Abs. 1<sup>bis</sup> dieser Bestimmung verzichten, unterlässt die Gebäudeversicherung die Prämienausscheidung für das Jahr des Grundbucheintrags.
 
 <sup>3</sup> Im Fall einer Bauzeitversicherung wird die Prämie ungeachtet allfälliger früherer Handänderungen vollständig durch den zum Zeitpunkt der Abrechnung der Bauzeitversicherungsprämie im Grundbuch eingetragenen Eigentümer geschuldet.
 
@@ -475,7 +476,7 @@ als Verordnung:[^ingress-2]
 
 **Grundsatz**
 
-<sup>1</sup> Anspruch auf Versicherungsleistungen besteht, wenn:
+<sup>1</sup> Anspruch auf Versicherungsleistungen besteht, wenn zugleich:
 
 - a) ein versichertes Ereignis vorliegt;
 - b) ein Gebäudeschaden entstanden ist, der unmittelbar auf das versicherte Ereignis zurückgeführt werden kann;
@@ -562,8 +563,8 @@ als Verordnung:[^ingress-2]
 
 - a) die Pflichtverletzung den eingetretenen Gebäudeschaden zumindest begünstigt hat;
 - b) die den Schaden verursachende Gefährdung für den Versicherten nach allgemeiner Erfahrung erkennbar sein musste;
-- c) der Unterhalt des Gebäudes offenkundig stark vernachlässigt und dessen Verletzlichkeit dadurch spürbar erhöht worden ist;
-- d) die Ertüchtigung des Gebäudes oder eine besondere Schutzmassnahme nach allgemeiner Erfahrung geboten sowie verhältnismässig und zumutbar gewesen wäre.
+- c) der Unterhalt des Gebäudes offenkundig stark vernachlässigt und dessen Verletzlichkeit dadurch spürbar erhöht worden ist oder die Ertüchtigung des Gebäudes oder eine besondere Schutzmassnahme nach allgemeiner Erfahrung geboten sowie verhältnismässig und zumutbar gewesen wäre;
+- d) …
 
 [^53bis-1]: sGS [873.1](https://www.gesetzessammlung.sg.ch/data/873.1/de).
 
@@ -585,13 +586,17 @@ als Verordnung:[^ingress-2]
 
 <sup>2</sup> Je nach dem versicherten Gebäudewert beträgt der Wahlselbstbehalt Fr. 5000.–, Fr. 10 000.–, Fr. 20 000.–, Fr. 50 000.– oder Fr. 100 000.–, höchstens jedoch 2 Prozent des versicherten Gebäudewertes.
 
-<sup>3</sup> Der Wahlselbstbehalt kann geändert werden:
+<sup>3</sup> Der Wahlselbstbehalt kann geändert werden innerhalb von dreissig Tagen nach:
 
-- a) auf Jahresanfang;
-- b) bei einer Neueinschätzung;
-- c) beim Eigentumswechsel.
+- a) Erhalt der jährlichen Prämienrechnung;
+- b) einer Neueinschätzung;
+- c) einem Eigentumswechsel.
 
 <sup>4</sup> Für Bauzeitversicherungen ist kein Wahlselbstbehalt zulässig.
+
+<sup>5</sup> Die Änderung des Wahlselbstbehalts gilt ab dem Folgemonat nach Eingang der Meldung nach Abs. 3 dieser Bestimmung.
+
+<sup>6</sup> Nach einem Eigentumswechsel entfällt der Wahlselbstbehalt vorbehältlich der Meldung nach Abs. 3 Bst. c dieser Bestimmung.
 
 #### Art. 55bis
 
