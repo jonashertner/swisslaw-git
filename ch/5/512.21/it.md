@@ -4,11 +4,11 @@ title: "Ordinanza del 22 novembre 2017 concernente l'obbligo di prestare servizi
 short: OOPSM
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/810"
 language: it
-version: 2022-07-01
+version: 2023-01-01
 adopted: 2017-11-22
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/810/20220701/it/xml/fedlex-data-admin-ch-eli-cc-2017-810-20220701-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/810/20220701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/810/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2017-810-20230101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/810/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,16 +17,17 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/810/20220701/it"
 
 (OOPSM)
 
-del 22 novembre 2017 (Stato 1° luglio 2022)
+del 22 novembre 2017 (Stato 1° gennaio 2023) (Stato 1° gennaio 2023)
 
 Il Consiglio federale svizzero,
 
-vista la legge militare del 3 febbraio 1995[^ingress-1] (LM); visto l’articolo 75 capoverso 1 della legge federale del 4 ottobre 2002[^ingress-2] sulla protezione della popolazione e sulla protezione civile (LPPC),
+vista la legge militare del 3 febbraio 1995[^ingress-1] (LM); vista la legge federale del 20 dicembre 2019[^ingress-2] sulla protezione della popolazione e sulla protezione civile (LPPC),[^ingress-3]
 
 ordina:
 
 [^ingress-1]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^ingress-2]: [[RU 2003 4187](https://fedlex.data.admin.ch/eli/oc/2003/620), [4327](https://fedlex.data.admin.ch/eli/oc/2003/645);[2005 2881](https://fedlex.data.admin.ch/eli/oc/2005/472); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 47; [2009 6617](https://fedlex.data.admin.ch/eli/oc/2009/823)all. n. 3; [2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869)all. n. 4; [2011 5891](https://fedlex.data.admin.ch/eli/oc/2011/816); [2014 3545](https://fedlex.data.admin.ch/eli/oc/2014/615)art. 23; [2015 187](https://fedlex.data.admin.ch/eli/oc/2015/24); [2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714)all. n. 7; [2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807)all. n. 7. [RU 2020 4995](https://fedlex.data.admin.ch/eli/oc/2020/887)all. n. I]. Vedi ora la LF del 20 dic. 2019 sulla protezione della popolazione e sulla protezione civile ([RS 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)).
+[^ingress-2]: [RS 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)
+[^ingress-3]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 ## **Capitolo 1:** **Scopo**
 
@@ -117,7 +118,9 @@ Su richiesta possono essere attribuite (attribuzione) a una funzione conformemen
   persone di cui all’articolo 6 capoverso 1 lettera c LM che al momento della decisione in merito alla domanda:
 
   - 1\. non hanno ancora compiuto i 24 anni, si dichiarano disposte a iniziare l’istruzione militare prima del compimento del 25° anno d’età e possono adempiere il totale obbligatorio di giorni di servizio d’istruzione entro i limiti di età dell’obbligo di prestare servizio militare, oppure
-  - 2\. hanno già prestato un’istruzione militare, sempre che possano adempiere il totale obbligatorio di giorni di servizio d’istruzione per l’ultimo grado conseguito entro i limiti di età dell’obbligo di prestare servizio militare.
+  - 2\. hanno già prestato un’istruzione militare, sempre che possano adempiere il totale obbligatorio di giorni di servizio d’istruzione per l’ultimo grado conseguito entro i limiti di età dell’obbligo di prestare servizio militare;
+
+- e.[^4-3] persone che hanno prestato un servizio di promovimento della pace.
 
 <sup>2</sup>
 
@@ -126,18 +129,23 @@ I richiedenti sono attribuiti o assegnati se:
 - a. sussiste una necessità da parte dell’esercito;
 - b. dimostrano di possedere le conoscenze specialistiche per l’esercizio della funzione prevista;
 - c. dimostrano di possedere buone conoscenze di una lingua nazionale svizzera;
-- d. è accertata l’idoneità medica per la funzione prevista; e
-- e. in caso di circostanze personali particolari secondo l’articolo 33 capoverso 2 beneficiano di un consenso.
+- d.[^4-4] sono accertate le attitudini fisiche e intellettuali per la funzione prevista;
+- e.[^4-5] in caso di circostanze personali particolari secondo l’articolo 33 capoverso 2 beneficiano di un consenso; e
+- f.[^4-6] vi è il consenso del datore di lavoro.
 
 <sup>3</sup> Non sussiste alcun diritto a un’attribuzione o a un’assegnazione all’esercito.
 
 <sup>4</sup> L’Aggruppamento Difesa decide in merito alla domanda.
 
-<sup>5</sup> Le condizioni per le persone che intendono prestare un servizio nel Servizio della Croce Rossa sono rette dall’ordinanza del 29 settembre 2006[^4-3] sul Servizio della Croce Rossa.
+<sup>5</sup> Le condizioni per le persone che intendono prestare un servizio nel Servizio della Croce Rossa sono rette dall’ordinanza del 29 settembre 2006[^4-7] sul Servizio della Croce Rossa.
 
 [^4-1]: Nuovo testo giusta il n. I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
 [^4-2]: [RS 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
-[^4-3]: [RS 513.52](https://fedlex.data.admin.ch/eli/cc/2006/620)
+[^4-3]: Introdotta dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^4-4]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^4-5]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^4-6]: Introdotta dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^4-7]: [RS 513.52](https://fedlex.data.admin.ch/eli/cc/2006/620)
 
 #### Art. 5
 
@@ -160,9 +168,12 @@ Alle persone attribuite e alle persone assegnate si applicano i principi seguent
 
 <sup>2</sup> A impiegati civili della Confederazione che, in base alla rispettiva funzione civile, sono attribuiti o assegnati a una determinata funzione militare può essere conferito per la durata dell’attribuzione o dell’assegnazione il grado necessario per l’esercizio della funzione.[^5-3]
 
+<sup>3</sup> Le persone che hanno prestato un servizio di promovimento della pace possono prestare servizio secondo i principi indicati nel capoverso 1 oppure assolvere una carriera di milizia secondo l’allegato 2.[^5-4]
+
 [^5-1]: Nuovo testo giusta il n. I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
 [^5-2]: Nuovo testo giusta il n. I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
 [^5-3]: Introdotto dal n. I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
+[^5-4]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 #### Art. 6
 
@@ -172,7 +183,7 @@ Alle persone attribuite e alle persone assegnate si applicano i principi seguent
 
 Le persone attribuite o assegnate prestano in qualità di:
 
-- a.[^6-1] futuri ufficiali specialisti dell’assistenza spirituale dell’esercito, del Servizio psicopedagogico dell’esercito o del Servizio sociale dell’esercito: un’istruzione militare di base minima di 19 giorni e successivamente servizio d’istruzione conformemente all’articolo 47 capoverso 4;
+- a.[^6-1] futuri ufficiali specialisti dell’assistenza spirituale dell’esercito, del Servizio psicopedagogico dell’esercito o del Servizio sociale dell’esercito: un’istruzione militare di base minima di 2 giorni e successivamente servizio d’istruzione conformemente all’articolo 47 capoverso 4;
 - b.
 
   medici o psicologi: un’istruzione militare di base minima di due giorni e successivamente i seguenti servizi d’istruzione di 180 giorni al massimo:
@@ -187,11 +198,33 @@ Le persone attribuite o assegnate prestano in qualità di:
   - 1\. un’istruzione militare di base minima di due giorni e successivamente 126 giorni di servizio d’istruzione come soldato o 240 giorni di servizio d’istruzione come ufficiale specialista,
   - 2\. se hanno adempiuto l’obbligo di prestare servizio militare: servizi d’istruzione delle formazioni per un massimo di 38 giorni annui;
 
-- d. persone di cui all’articolo 4 capoverso 1 lettera d numero 1: 245 giorni di servizio d’istruzione, in qualità di militari in ferma continuata 280 giorni di servizio d’istruzione; sono compresi il reclutamento, un servizio d’istruzione di base di complessivi 124 giorni e i rimanenti servizi d’istruzione senza interruzioni o in corsi di ripetizione annuali.
+- d.[^6-2] persone di cui all’articolo 4 capoverso 1 lettera d numero 1: 245 giorni di servizio d’istruzione, in qualità di militari in ferma continuata 300 giorni di servizio d’istruzione; sono compresi il reclutamento, un servizio d’istruzione di base di complessivi 124 giorni e i rimanenti servizi d’istruzione senza interruzioni o in corsi di ripetizione annuali;
+- e.[^6-3]
 
-[^6-1]: Nuovo testo giusta il n. I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
+  persone di cui all’articolo 4 capoverso 1 lettera e:
 
-### Sezione 3: Attestato di adempimento dell’obbligo di prestare servizio militare (libretto di servizio)
+  - 1\. che assolvono una carriera di milizia secondo l’allegato 2: servizio d’istruzione secondo l’articolo 47,
+  - 2\. che non assolvono una carriera di milizia secondo l’allegato 2: servizio d’istruzione secondo la lettera c.
+
+[^6-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^6-2]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^6-3]: Introdotta dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+
+### Sezione 3: Attestato di adempimento dell’obbligo di prestare servizio militare
+
+[^chap2-sec3-1]
+
+[^chap2-sec3-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+
+#### Art. 6a
+
+**Forma**[^6a-1]
+
+### (art. 6*a* LM)
+
+L’attestato di adempimento dell’obbligo di prestare servizio militare può essere consegnato elettronicamente, quale libretto di servizio o in altra forma.
+
+[^6a-1]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 #### Art. 7
 
@@ -199,7 +232,7 @@ Le persone attribuite o assegnate prestano in qualità di:
 
 ### (art. 6*a* LM)
 
-L’attestato di adempimento dell’obbligo di prestare servizio militare (libretto di servizio) contiene i dati seguenti:
+L’attestato di adempimento dell’obbligo di prestare servizio militare contiene i dati seguenti:[^7-1]
 
 - a. generalità;
 - b. incorporazione, attribuzione o assegnazione;
@@ -212,31 +245,37 @@ L’attestato di adempimento dell’obbligo di prestare servizio militare (libre
 - i. domicilio e indirizzo postale;
 - j. disposizioni per la chiamata in servizio, in particolare per la chiamata in servizio di militari delle formazioni con obblighi permanenti di prontezza e per l’esecuzione della chiamata in servizio d’appoggio o in servizio attivo.
 
+[^7-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+
 #### Art. 8
 
-**Conservazione e perdita**
+**Conservazione e smarrimento**[^8-1]
 
 ### (art. 6*a* LM)
 
-<sup>1</sup> Il libretto di servizio può essere utilizzato soltanto per scopi di servizio. La sua consultazione o la comunicazione di dati ivi contenuti sono parimenti autorizzate soltanto per scopi di servizio.
+<sup>1</sup> L’attestato di adempimento dell’obbligo di prestare servizio militare può essere rilasciato solo per scopi di servizio. Allo stesso modo è consentito prendere visione dell’attestato e rendere noti i dati contenuti in esso solo per scopi di servizio.
 
-<sup>2</sup> Il libretto di servizio è conservato dalla persona soggetta all’obbligo di prestare servizio militare fino al proscioglimento dall’obbligo di prestare servizio militare.
+<sup>2</sup> L’attestato dev’essere conservato dalla persona soggetta all’obbligo di prestare servizio militare fino al proscioglimento dall’obbligo di prestare servizio militare.
 
-<sup>3</sup> Le persone soggette all’obbligo di notificazione in congedo all’estero depositano il libretto di servizio presso il comandante di circondario per la durata del loro soggiorno all’estero.
+<sup>3</sup> Le persone soggette all’obbligo di notificazione che beneficiano di un congedo all’estero depositano l’attestato, qualora non sia stato consegnato sotto forma elettronica, presso il comandante di circondario per la durata della loro permanenza all’estero.
 
-<sup>4</sup> La perdita del libretto di servizio deve essere annunciata immediatamente al comandante di circondario per il rilascio di un duplicato.
+<sup>4</sup> Lo smarrimento dell’attestato dev’essere comunicato immediatamente al comandante di circondario per il rilascio di un nuovo attestato.
+
+[^8-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 #### Art. 9
 
-**Forza probatoria delle iscrizioni**
+**Valore probatorio delle iscrizioni**[^9-1]
 
 ### (art. 6*a* LM)
 
-<sup>1</sup> Le iscrizioni concernenti gli esami medici militari, le decisioni dell’assicurazione militare, i cambiamenti del grado e della funzione nonché i servizi prestati devono essere firmati dall’organo d’esecuzione competente.
+<sup>1</sup> Le iscrizioni nell’attestato di adempimento dell’obbligo di prestare servizio militare concernenti gli esami medici militari, le decisioni dell’assicurazione militare, i cambiamenti del grado e della funzione nonché i servizi prestati devono essere firmate dal competente organo d’esecuzione.
 
-<sup>2</sup> Le iscrizioni mancanti o errate nel libretto di servizio devono essere annunciate immediatamente al comandante di circondario per la rettifica.
+<sup>2</sup> Le iscrizioni mancanti o sbagliate nell’attestato devono essere notificate immediatamente al comandante di circondario per essere corrette.
 
-<sup>3</sup> In caso di contraddizioni tra le iscrizioni nel libretto di servizio e le iscrizioni nei controlli, per le iscrizioni di cui al capoverso 1 è presunta la correttezza del libretto di servizio, in tutti gli altri casi è presunta la correttezza dei controlli.
+<sup>3</sup> In caso di contraddizioni tra le iscrizioni nell’attestato e le iscrizioni nei controlli, per le iscrizioni di cui al capoverso 1 è presunta la correttezza dell’attestato, in tutti gli altri casi è presunta la correttezza dei controlli.
+
+[^9-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 ### Sezione 4: Obbligo di leva e reclutamento
 
@@ -271,7 +310,9 @@ Le persone soggette all’obbligo di leva sono convocate a partecipare obbligato
 - a. nell’anno in corso compiono i 18 anni;
 - b. nell’anno in corso compiono i 17 anni e hanno comunicato che intendono assolvere la scuola reclute nel 19° anno d’età.
 
-<sup>2</sup> La convocazione avviene annualmente, al più tardi fino all’anno in cui la persona soggetta all’obbligo di leva compie 24 anni.[^11-1]
+<sup>2</sup> Le persone soggette all’obbligo di leva vengono convocate ogni anno, al più tardi fino all’anno in cui compiono i 24 anni.[^11-1]
+
+<sup>2bis</sup> Le cittadine svizzere non soggette all’obbligo di leva possono essere invitate più volte fino al compimento dei 24 anni.[^11-2]
 
 <sup>3</sup>
 
@@ -279,11 +320,11 @@ Alla manifestazione informativa i partecipanti vengono in particolare informati 
 
 - a. le basi legali relative al servizio militare, al servizio civile, alla protezione civile e al Servizio della Croce Rossa;
 - b. i compiti e gli impieghi dell’esercito, del servizio civile, della protezione civile e del Servizio della Croce Rossa;
-- c.[^11-2] i modelli di servizio, le carriere nell’ambito dell’istruzione dei quadri, le possibilità professionali nell’esercito, l’istruzione premilitare e le attività volontarie fuori del servizio;
+- c.[^11-3] i modelli di servizio, le carriere nell’ambito dell’istruzione dei quadri, le possibilità professionali nell’esercito, l’istruzione premilitare e le attività volontarie fuori del servizio;
 - d. i modelli di servizio e le carriere nell’ambito dell’istruzione dei quadri nella protezione civile;
 - e. la tassa d’esenzione dall’obbligo militare;
 - f. lo svolgimento del reclutamento e delle giornate di reclutamento;
-- g. i controlli di sicurezza relativi alle persone secondo l’ordinanza del 4 marzo 2011[^11-3] sui controlli di sicurezza relativi alle persone (OCSP) e le conseguenze in presenza di circostanze personali particolari secondo l’articolo 33 capoverso 2.
+- g. i controlli di sicurezza relativi alle persone secondo l’ordinanza del 4 marzo 2011[^11-4] sui controlli di sicurezza relativi alle persone (OCSP) e le conseguenze in presenza di circostanze personali particolari secondo l’articolo 33 capoverso 2.
 
 <sup>4</sup>
 
@@ -295,9 +336,10 @@ Alla manifestazione informativa sono raccolti i dati relativi alle persone sogge
 
 <sup>5</sup> Le persone convocate e le persone invitate che si sono annunciate ricevono un documento per l’utilizzo gratuito dei mezzi di trasporto pubblici per il viaggio di andata e di ritorno.
 
-[^11-1]: Nuovo testo giusta il n. I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
-[^11-2]: Nuovo testo giusta il n. I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
-[^11-3]: [RS 120.4](https://fedlex.data.admin.ch/eli/cc/2011/155)
+[^11-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^11-2]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^11-3]: Nuovo testo giusta il n. I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
+[^11-4]: [RS 120.4](https://fedlex.data.admin.ch/eli/cc/2011/155)
 
 #### Art. 12
 
@@ -373,7 +415,9 @@ Per l’accertamento del profilo attitudinale le persone soggette all’obbligo 
 
 **Attribuzione a una funzione di reclutamento dell’esercito o della protezione civile**
 
-### (art. 10 cpv. 1 lett. d LM; art. 16 cpv. 1, 66*a* LPPC)
+### (art. 10 cpv. 1 lett. d LM; art. 34 cpv. 1 e art. 85 LPPC)
+
+[^16-1]
 
 <sup>1</sup>
 
@@ -391,11 +435,12 @@ Per l’attribuzione di persone idonee al servizio militare a una funzione di re
 
 Una persona idonea al servizio militare è attribuita provvisoriamente a una funzione di reclutamento dell’esercito, se:
 
-- a.[^16-1] è tenuta a superare un esame attitudinale per la funzione di specialista di montagna, di granatiere, di esploratore paracadutista, di conducente di cani o per una funzione nella musica militare; oppure
-- b. è necessario un controllo di sicurezza relativo alle persone, ma non vi è ancora alcuna decisione secondo l’articolo 22 capoverso 1 lettera a OCSP[^16-2] o alcuna informazione secondo l’articolo 23 capoverso 3 OCSP.
+- a.[^16-2] è tenuta a superare un esame attitudinale per la funzione di specialista di montagna, di granatiere, di esploratore paracadutista, di conducente di cani o per una funzione nella musica militare; oppure
+- b. è necessario un controllo di sicurezza relativo alle persone, ma non vi è ancora alcuna decisione secondo l’articolo 22 capoverso 1 lettera a OCSP[^16-3] o alcuna informazione secondo l’articolo 23 capoverso 3 OCSP.
 
-[^16-1]: Nuovo testo giusta il n. I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
-[^16-2]: [RS 120.4](https://fedlex.data.admin.ch/eli/cc/2011/155)
+[^16-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^16-2]: Nuovo testo giusta il n. I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
+[^16-3]: [RS 120.4](https://fedlex.data.admin.ch/eli/cc/2011/155)
 
 #### Art. 17
 
@@ -420,9 +465,12 @@ L’organo competente per il reclutamento può procedere a una nuova attribuzion
 
 - a. nel caso di un’attribuzione provvisoria;
 - b. se la situazione personale o professionale determinante per l’attribuzione è notevolmente cambiata;
-- c. se durante l’istruzione di base emerge che la persona interessata non è idonea alla funzione di reclutamento attribuita.
+- c. se durante l’istruzione di base emerge che la persona interessata non è idonea alla funzione di reclutamento attribuita;
+- d.[^18-1] se la persona interessata ha superato la selezione per l’istruzione nel corso di formazione ciber.
 
 <sup>2</sup> Comunica, con la notifica della nuova attribuzione, la data d’inizio e il luogo dell’istruzione.
+
+[^18-1]: Introdotta dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 ### Sezione 5: Limiti d’età dell’obbligo di prestare servizio militare
 
@@ -436,9 +484,9 @@ L’organo competente per il reclutamento può procedere a una nuova attribuzion
 
 <sup>2</sup> L’obbligo di prestare servizio militare dei soldati aspiranti medici militari, farmacisti, dentisti o veterinari che non compiono la carriera nell’ambito dell’istruzione dei quadri per conseguire il grado di tenente dura fino alla fine del decimo anno civile dopo la conclusione dell’istruzione di base.
 
-<sup>3</sup> L’obbligo di prestare servizio militare di reclutati che sono prosciolti dall’esercito conformemente all’articolo 49 capoverso 2 LM dura fino alla fine del decimo anno civile dopo il proscioglimento.[^19-1]
+<sup>3</sup> L’obbligo di prestare servizio militare di reclutati che sono prosciolti dall’esercito conformemente all’articolo 49 capoverso 2 LM dura fino alla fine del dodicesimo anno civile dopo il proscioglimento.[^19-1]
 
-[^19-1]: Introdotto dal n. I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
+[^19-1]: Introdotto dal n. I dell’O del 16 ott. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)). Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 #### Art. 20
 
@@ -460,22 +508,23 @@ L’obbligo di prestare servizio militare dei militari in ferma continuata dura 
 
 <sup>1</sup>
 
-Su domanda congiunta della persona interessata e del comando competente, gli specialisti, i sottufficiali superiori e gli ufficiali superiori possono essere autorizzati a prorogare l’obbligo di prestare servizio militare, se:
+Su domanda congiunta della persona interessata e del comando competente, gli ufficiali specialisti, gli specialisti, i sottufficiali superiori e gli ufficiali possono essere autorizzati a prorogare l’obbligo di prestare servizio militare, se:[^21-1]
 
 - a. non sono disponibili altri militari idonei per la funzione prevista; e
 - b.
 
   la persona interessata soddisfa le condizioni seguenti:
 
-  - 1\.[^21-1] ha adempiuto il totale obbligatorio di giorni di servizio d’istruzione; fanno eccezione gli ufficiali superiori,
+  - 1\.[^21-2] ha adempiuto il totale obbligatorio di giorni di servizio d’istruzione; fanno eccezione i capitani e gli ufficiali superiori,
   - 2\. è accertata l’idoneità medica per la funzione prevista,
-  - 3\. vi è una decisione necessaria secondo l’OCSP[^21-2] passata in giudicato e l’autorità decisionale ha concesso il consenso, e
+  - 3\. vi è una decisione necessaria secondo l’OCSP[^21-3] passata in giudicato e l’autorità decisionale ha concesso il consenso, e
   - 4\. vi è il consenso del datore di lavoro.
 
 <sup>2</sup> Il Cdo Istr decide in merito alle domande.
 
-[^21-1]: Nuovo testo giusta il n. I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
-[^21-2]: [RS 120.4](https://fedlex.data.admin.ch/eli/cc/2011/155)
+[^21-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^21-2]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^21-3]: [RS 120.4](https://fedlex.data.admin.ch/eli/cc/2011/155)
 
 ### Sezione 6: Servizio militare non armato
 
@@ -485,7 +534,7 @@ Su domanda congiunta della persona interessata e del comando competente, gli spe
 
 ### (art. 16 LM)
 
-<sup>1</sup> Chi per motivi di coscienza non può prestare il servizio con un’arma, presenta al comandante di circondario una domanda per il servizio militare non armato.
+<sup>1</sup> La persona obbligata a prestare servizio militare che non può conciliare con la propria coscienza il servizio militare armato, presenta al comandante di circondario una domanda per il servizio militare non armato.[^22-1]
 
 <sup>2</sup>
 
@@ -506,10 +555,13 @@ La persona che presenta una domanda deve:
 
   - 1\. un curriculum vitae dettagliato,
   - 2\. un estratto del casellario giudiziale centrale aggiornato,
-  - 3\. il libretto di servizio,
+  - 3\.[^22-2] il libretto di servizio, ammesso che sia stato consegnato,
   - 4\. rapporti di rappresentanti di autorità statali o ecclesiastiche, comunità religiose o di altre persone che conoscono personalmente il richiedente e nei quali descrivono il suo comportamento ed esprimono un apprezzamento dal loro punto di vista.
 
 <sup>4</sup> La persona che ha presentato la sua domanda entro il termine stabilito presta servizio militare non armato e, su ordine dell’organo incaricato della tenuta dei controlli, è dispensata dal tiro obbligatorio fuori del servizio fintanto che la decisione sulla sua domanda non è passata in giudicato.
+
+[^22-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^22-2]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 #### Art. 23
 
@@ -542,13 +594,21 @@ Dopo che la domanda per il servizio militare non armato è stata approvata, le p
 
 #### Art. 25
 
-**Professione esercitata a titolo principale**
+**Professione esercitata a titolo principale**[^25-1]
 
 ### (art. 18 LM)
 
-<sup>1</sup> La professione è esercitata a titolo principale se le persone soggette all’obbligo di prestare servizio militare sono occupate in un rapporto di lavoro su base contrattuale della durata di almeno un anno oppure di durata indeterminata e se l’attività indispensabile deve essere esercitata in media per almeno 35 ore la settimana.
+<sup>1</sup> La professione è esercitata a titolo principale se la persona soggetta all’obbligo di prestare servizio militare è occupata in un rapporto di lavoro su base contrattuale della durata di almeno un anno oppure di durata indeterminata e l’attività indispensabile corrisponde in media almeno a un posto all’80 per cento.
 
-<sup>2</sup> Per una formazione in vista di un’attività indispensabile non è concessa alcuna esenzione dal servizio, eccettuato l’assolvimento della scuola reclute di polizia o del corso d’introduzione I delle guardie di confine.
+<sup>2</sup>
+
+Per una formazione in vista di un’attività indispensabile non è concessa alcuna esenzione dal servizio, eccettuate le formazioni seguenti:
+
+- a. la scuola reclute di polizia;
+- b. la formazione di agente di custodia;
+- c. il corso per specialista dogana e sicurezza dei confini.
+
+[^25-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 #### Art. 26
 
@@ -619,42 +679,51 @@ Sono considerati personale indispensabile per garantire il funzionamento di tali
 
 **Servizi di salvataggio, servizi di polizia, corpi di pompieri e servizi di difesa**
 
-### (art. 18 cpv. 1 lett. d, f e i LM)
+### (art. 18 cpv. 1 lett. c LM)
+
+[^29-1]
 
 Sono considerati membri dei servizi di salvataggio, dei servizi di polizia, dei corpi di pompieri e dei servizi di difesa:
 
-- a. gli impiegati di servizi di salvataggio ai sensi dell’articolo 56 dell’ordinanza del 27 giugno 1995[^29-1] sull’assicurazione malattie che esercitano una funzione secondo l’articolo 28 in qualità di sanitari di salvataggio in possesso di un diploma federale riconosciuto;
-- b. gli impiegati dei servizi di polizia della Confederazione, dei Cantoni, delle città o dei Comuni;
+- a. gli impiegati di servizi di salvataggio ai sensi dell’articolo 56 dell’ordinanza del 27 giugno 1995[^29-2] sull’assicurazione malattie che esercitano una funzione secondo l’articolo 28 in qualità di sanitari di salvataggio in possesso di un diploma federale riconosciuto;
+- b.[^29-3] gli impiegati dei servizi di polizia della Confederazione, dei Cantoni, delle città o dei Comuni, che sono necessari per l’adempimento dei compiti di polizia giudiziaria, di polizia di sicurezza e di polizia stradale e che dispongono almeno di un esame federale di professione quali agenti di polizia;
 - c. gli impiegati dei corpi di pompieri professionisti e delle basi di pompieri nonché le persone che esercitano la funzione di comandante dei pompieri, di sostituto del comandante dei pompieri, di ufficiale dei pompieri, di operatore di apparecchi, di capo delle divisioni speciali, di portatore di apparecchi per la protezione della respirazione, di custode di apparecchi per la protezione della respirazione, di specialista della difesa C e di specialista della difesa contro le radiazioni dei corpi di pompieri e dei servizi di difesa riconosciuti dallo Stato.
 
-[^29-1]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+[^29-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^29-2]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+[^29-3]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 #### Art. 30
 
 **Servizi postali, imprese di trasporto e amministrazione**
 
-### (art. 18 cpv. 1 lett. h LM)
+### (art. 18 cpv. 1 lett. c LM)
+
+[^30-1]
 
 <sup>1</sup>
 
 In situazioni straordinarie sono indispensabili alla Rete integrata Svizzera per la sicurezza:
 
 - a. gli impiegati delle aziende postali e dell’amministrazione postale de La Posta Svizzera, indispensabili in situazioni straordinarie per provvedere al servizio postale e che hanno compiuto i 30 anni d’età;
-- b.[^30-1] gli impiegati di tutte le imprese di trasporto titolari di una concessione della Confederazione, delle imprese ferroviarie, funiviarie, di filobus, di autobus e di navigazione, nonché gli impiegati delle imprese ferroviarie che, sulla base di un’autorizzazione svizzera di accesso alla rete di cui all’articolo 8*c* capoverso 1 della legge federale del 20 dicembre 1957[^30-2] sulle ferrovie, forniscono regolarmente servizi di trasporto di merci per l’approvvigionamento economico del Paese in beni d’importanza vitale e sono indispensabili all’adempimento dei mandati di prestazioni delle imprese di trasporto concessionarie; nella valutazione dei mandati di prestazioni non è considerato il traffico escursionistico;
+- b.[^30-2] gli impiegati di tutte le imprese di trasporto titolari di una concessione della Confederazione, delle imprese ferroviarie, funiviarie, di filobus, di autobus e di navigazione, nonché gli impiegati delle imprese ferroviarie che, sulla base di un’autorizzazione svizzera di accesso alla rete di cui all’articolo 8*c* capoverso 1 della legge federale del 20 dicembre 1957[^30-3] sulle ferrovie, forniscono regolarmente servizi di trasporto di merci per l’approvvigionamento economico del Paese in beni d’importanza vitale e sono indispensabili all’adempimento dei mandati di prestazioni delle imprese di trasporto concessionarie; nella valutazione dei mandati di prestazioni non è considerato il traffico escursionistico;
 - c. gli impiegati del servizio civile di meteorologia aeronautica dell’Ufficio federale di meteorologia e climatologia indispensabili per garantire i servizi della sicurezza aerea civile.
 
 <sup>2</sup> Il DDPS designa le persone di cui al capoverso 1 d’intesa con il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni, il Dipartimento federale dell’interno e La Posta Svizzera.
 
-[^30-1]: Nuovo testo giusta il n. I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
-[^30-2]: [RS 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
+[^30-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^30-2]: Nuovo testo giusta il n. I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
+[^30-3]: [RS 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
 
 #### Art. 31
 
 **Servizi della sicurezza aerea**
 
-### (art. 18 cpv. 1 lett. j LM)
+### (art. 18 cpv. 1 lett. c LM)
 
-<sup>1</sup> Sono considerati servizi della sicurezza aerea civile i servizi menzionanti all’articolo 2 capoverso 2 dell’ordinanza del 18 dicembre 1995[^31-1] concernente il servizio della sicurezza aerea.
+[^31-1]
+
+<sup>1</sup> Sono considerati servizi della sicurezza aerea civile i servizi menzionanti all’articolo 2 capoverso 2 dell’ordinanza del 18 dicembre 1995[^31-2] concernente il servizio della sicurezza aerea.
 
 <sup>2</sup>
 
@@ -670,7 +739,8 @@ Sono considerati personale indispensabile di tali servizi gli impiegati:
 
 <sup>3</sup> Il DDPS designa le persone d’intesa con il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni e con Skyguide.
 
-[^31-1]: [RS 748.132.1](https://fedlex.data.admin.ch/eli/cc/1996/595_595_595)
+[^31-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^31-2]: [RS 748.132.1](https://fedlex.data.admin.ch/eli/cc/1996/595_595_595)
 
 ### Sezione 8: Non reclutamento, esclusione dall’esercito, degradazione, riammissione e cambiamento di funzione
 
@@ -678,7 +748,9 @@ Sono considerati personale indispensabile di tali servizi gli impiegati:
 
 **Competenza e criteri**
 
-### (art. 21˗23 LM; art. 16 cpv. 2 LPPC)
+### (art. 21–23 LM; art. 34 cpv. 2 LPPC)
+
+[^32-1]
 
 <sup>1</sup> Il Cdo Istr è competente per tutte le decisioni concernenti il non reclutamento, l’esclusione dall’esercito o la degradazione in seguito a una sentenza penale nonché la riammissione.
 
@@ -690,6 +762,8 @@ Nella valutazione dell’insostenibilità secondo gli articoli 21 capoverso 1 le
 - b. i diritti di terzi;
 - c. la liceità di imporre ad altri militari di prestare servizio con la persona interessata;
 - d. l’immagine dell’esercito nell’opinione pubblica.
+
+[^32-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 #### Art. 33
 
@@ -734,7 +808,7 @@ Se è a conoscenza delle circostanze personali particolari, il Cdo Istr ordina l
 
 Se è stata pronunciata una sentenza penale per un crimine o un delitto, il consenso a prestare servizio militare secondo l’articolo 33 è accordato:
 
-- a. nel caso di una pena pecuniaria sino a 60 aliquote giornaliere o lavori di pubblica utilità sino a 240 ore;
+- a.[^35-1] nel caso di una pena pecuniaria fino a 60 aliquote giornaliere;
 - b.
 
   cinque anni dopo l’esecuzione della sanzione o, in funzione del comportamento della persona condannata e dell’entità della pena inflitta, anche prima nel caso di:
@@ -742,8 +816,7 @@ Se è stata pronunciata una sentenza penale per un crimine o un delitto, il cons
   - 1\. una pena pecuniaria di oltre 60 aliquote giornaliere, senza la condizionale,
   - 2\. una pena pecuniaria con la condizionale parziale, con una parte da eseguire di oltre 60 aliquote giornaliere,
   - 3\. una pena detentiva senza condizionale o con la condizionale parziale,
-  - 4\. un lavoro di pubblica utilità di oltre 240 ore, senza la condizionale,
-  - 5\. un lavoro di pubblica utilità di oltre 240 ore, con la condizionale parziale, con una parte da eseguire di oltre 240 ore,
+  - [tab] 4. e 5.[^35-2] ...
   - 6\. una misura privativa della libertà.
 
 <sup>2</sup>
@@ -754,6 +827,9 @@ Nel caso di pene e misure non menzionate al capoverso 1, il consenso a prestare 
 - b. al termine del periodo di prova o, in funzione del comportamento della persona condannata e dell’entità della pena inflitta, anche prima.
 
 <sup>3</sup> A una persona la cui condanna secondo il diritto penale minorile per un crimine o un delitto è passata in giudicato, il consenso a prestare servizio militare secondo l’articolo 33 è accordato a titolo eccezionale dopo l’esame del singolo caso.
+
+[^35-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^35-2]: Abrogati dal n. I dell’O del 23 nov. 2022, con effeto dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 #### Art. 36
 
@@ -789,8 +865,10 @@ Il Cdo Istr, contemporaneamente alla concessione o al rifiuto del consenso a pre
 
 I militari che nell’esercizio della loro funzione hanno ottenuto una qualificazione insufficiente ricevono una nuova funzione se:
 
-- a. un servizio di prova ordinato conferma l’incapacità; oppure
+- a.[^39-1] un servizio di prova ordinato dal comandante superiore conferma l’incapacità di esercitare la funzione attuale; oppure
 - b. una rimozione immediata dalla funzione attuale si impone nell’interesse della truppa o del militare.
+
+<sup>1bis</sup> Il servizio di prova dura al massimo 26 giorni e deve essere assolto nella corrispondente funzione in un’altra formazione entro la fine dell’anno successivo al relativo ordine. Il servizio di prova deve essere designato espressamente come tale nei confronti della persona interessata e del comandante dell’altra formazione. Fino al compimento del servizio di prova ordinato non può essere prestato alcun servizio nella formazione d’incorporazione.[^39-2]
 
 <sup>2</sup>
 
@@ -799,6 +877,9 @@ Sono competenti per il cambiamento di funzione:
 - a. per gli alti ufficiali superiori: il Consiglio federale;
 - b. per i gradi di capitano e di ufficiale superiore: l’Aggruppamento Difesa*;*
 - c. per tutti gli altri gradi: il Cdo Istr.
+
+[^39-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^39-2]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 ### Sezione 9: Obblighi fuori del servizio
 
@@ -889,6 +970,23 @@ Il tiro obbligatorio è retto dall’ordinanza del 5 dicembre 2003[^45-1] sul ti
 
 [^45-1]: [RS 512.31](https://fedlex.data.admin.ch/eli/cc/2003/754)
 
+#### Art. 45a
+
+**Obbligo di dare seguito alle convocazioni ufficiali**[^45a-1]
+
+### (art. 26 LM)
+
+<sup>1</sup>
+
+Le convocazioni ufficiali sono rilasciate:
+
+- a. dal Cdo Istr per audizioni personali nel caso di controlli di sicurezza relativi alle persone concernenti le persone soggette all’obbligo di leva e i militari;
+- b. dal Servizio medico militare per visite mediche nel caso di un nuovo esame dell’idoneità al servizio.
+
+<sup>2</sup> Le convocazioni ufficiali non danno diritto al soldo e non vengono computate sul totale obbligatorio di giorni di servizio d’istruzione.
+
+[^45a-1]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+
 ## Capitolo 3: Istruzione nell’esercito
 
 ### Sezione 1: Servizi d’istruzione e totale obbligatorio di giorni di servizio d’istruzione
@@ -916,20 +1014,20 @@ Il numero complessivo di giorni di servizio d’istruzione computabili da presta
   i militari di truppa:
 
   - 1\. soldati e appuntati: 245 giorni,
-  - 2\. soldati e appuntati granatieri: 280 giorni,
-  - 3\. soldati e appuntati in ferma continuata: 280 giorni;
+  - 2\.[^47-1] soldati e appuntati granatieri o attribuiti a funzioni delle forze speciali: 280 giorni,
+  - 3\.[^47-2] soldati e appuntati in ferma continuata: 300 giorni;
 
 - b.
 
   i sottufficiali:
 
   - 1\. sergenti: 440 giorni,
-  - 2\.[^47-1] sergenti granatieri: 475 giorni,
-  - [tab] 2<sup>bis</sup>.[^47-2] sergenti esploratori paracadutisti: 865 giorni,
+  - 2\.[^47-3] sergenti granatieri o attribuiti a funzioni delle forze speciali: 475 giorni,
+  - [tab] 2<sup>bis</sup>.[^47-4] sergenti esploratori paracadutisti: 865 giorni,
   - 3\. sergenti in ferma continuata: 507 giorni,
   - 4\. sergenti capi: 450 giorni,
-  - 5\.[^47-3] sergenti capi granatieri: 485 giorni,
-  - [tab] 5<sup>bis</sup>.[^47-4] sergenti capi esploratori paracadutisti: 865 giorni,
+  - 5\.[^47-5] sergenti capi granatieri o attribuiti a funzioni delle forze speciali: 485 giorni,
+  - [tab] 5<sup>bis</sup>.[^47-6] sergenti capi esploratori paracadutisti: 865 giorni,
   - 6\. sergenti capi in ferma continuata: 507 giorni;
 
 - c.
@@ -937,7 +1035,7 @@ Il numero complessivo di giorni di servizio d’istruzione computabili da presta
   i sottufficiali superiori:
 
   - 1\. sergenti maggiori: 510 giorni,
-  - 2\. sergenti maggiori granatieri o esploratori paracadutisti: 545 giorni,
+  - 2\. [^47-7] sergenti maggiori granatieri, esploratori paracadutisti o attribuiti a funzioni delle forze speciali: 545 giorni,
   - 3\. furieri o sergenti maggiori capi: 650 giorni,
   - 4\. furieri o sergenti maggiori capi granatieri o esploratori paracadutisti: 685 giorni,
   - 5\. furieri o sergenti maggiori capi in ferma continuata: 668 giorni,
@@ -949,13 +1047,13 @@ Il numero complessivo di giorni di servizio d’istruzione computabili da presta
 
   - 1\. 680 giorni; con una proposta per l’avanzamento al grado di capitano: 800 giorni,
   - 2\. come militari in ferma continuata: 668 giorni,
-  - 3\.[^47-5] come granatieri: 715 giorni; con una proposta per l’avanzamento al grado di capitano: 835 giorni,
-  - [tab] 3<sup>bis</sup>.[^47-6] come esploratori paracadutisti: 1105 giorni,
-  - 4\. come medici militari o farmacisti: 456 giorni,
-  - 5\. come dentisti: 538 giorni,
-  - 6\.[^47-7] come veterinari: 536 giorni.
+  - 3\.[^47-8] come granatieri o attribuiti a funzioni delle forze speciali: 715 giorni; con una proposta per l’avanzamento al grado di capitano: 835 giorni,
+  - [tab] 3<sup>bis</sup>.[^47-9] come esploratori paracadutisti: 1105 giorni,
+  - 4\.[^47-10] come medici militari o farmacisti: 456 giorni, senza carriera normale di medici militari: 576 giorni,
+  - 5\.[^47-11] come dentisti: 538 giorni, senza carriera normale di medici militari: 658 giorni,
+  - 6\.[^47-12] come veterinari o ispettori delle derrate alimentari: 536 giorni, senza carriera normale di veterinari: 656 giorni.
 
-<sup>2</sup> ...[^47-8]
+<sup>2</sup> ...[^47-13]
 
 <sup>3</sup>
 
@@ -963,7 +1061,7 @@ Gli aiutanti di stato maggiore, gli aiutanti maggiori, gli aiutanti capi, i capi
 
 - a. non è previsto alcun avanzamento a un grado superiore: a partire dalla loro ultima promozione prestano 240 giorni al massimo; dopo 120 giorni di servizio d’istruzione è possibile prescindere da una chiamata in servizio;
 - b. è previsto un perfezionamento per l’assunzione di una nuova funzione con lo stesso grado: dall’assunzione della nuova funzione prestano 240 giorni al massimo; dopo 120 giorni di servizio d’istruzione è possibile prescindere da una chiamata in servizio;
-- c.[^47-9]
+- c.[^47-14]
 
   i piloti militari, gli operatori di bordo e gli operatori di ricognitori telecomandati:
 
@@ -980,15 +1078,20 @@ Gli specialisti prestano il seguente numero massimo di giorni supplementari di s
 - a. come militari di truppa: 35 giorni;
 - b. come sottufficiali, sottufficiali superiori e ufficiali: 50 giorni.
 
-[^47-1]: Nuovo testo giusta il n. I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
-[^47-2]: Introdotto dal n. I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
-[^47-3]: Nuovo testo giusta il n. I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
+[^47-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^47-2]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^47-3]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 [^47-4]: Introdotto dal n. I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
-[^47-5]: Nuovo testo giusta il n. I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
+[^47-5]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 [^47-6]: Introdotto dal n. I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
-[^47-7]: Nuovo testo giusta il n. I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
-[^47-8]: Abrogato dal n. I dell’O del 16 ott. 2019, con effetto dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
-[^47-9]: Introdotta dall’all. 2 n. 2 dell’O del 18 mar. 2022 sul servizio di volo militare, in vigore dal 1° lug. 2022 ([RU 2022 213](https://fedlex.data.admin.ch/eli/oc/2022/213)).
+[^47-7]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^47-8]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^47-9]: Introdotto dal n. I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
+[^47-10]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^47-11]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^47-12]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^47-13]: Abrogato dal n. I dell’O del 16 ott. 2019, con effetto dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
+[^47-14]: Introdotta dall’all. 2 n. 2 dell’O del 18 mar. 2022 sul servizio di volo militare, in vigore dal 1° lug. 2022 ([RU 2022 213](https://fedlex.data.admin.ch/eli/oc/2022/213)).
 
 ### Sezione 2: Computo sul totale obbligatorio di giorni di servizio d’istruzione
 
@@ -1095,12 +1198,28 @@ Ai militari di professione il cui rapporto di lavoro termina prima del raggiungi
 - e. nel distaccamento per l’eliminazione di munizioni inesplose e lo sminamento sono stati promossi ad aiutante sottufficiale: 52 giorni;
 - f.
 
-  nel Servizio per la protezione preventiva dell’esercito del Servizio informazioni militare sono stati promossi a:
+  nel Servizio di protezione preventiva dell’esercito[^53-2] del Servizio informazioni militare sono stati promossi a:
 
   - 1\. tenente: 98 giorni,
   - 2\. capitano: 98 giorni.
 
 [^53-1]: Nuovo testo giusta il n. I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
+[^53-2]: Nuova espr. giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+
+#### Art. 53a
+
+**Servizio di promovimento della pace**[^53a-1]
+
+<sup>1</sup> Alle persone che hanno prestato un servizio di promovimento della pace senza incorporazione militare precedente e la cui successiva domanda di assolvimento di una carriera di milizia secondo l’allegato 2 è stata autorizzata nel quadro di un’attribuzione o di un’assegnazione, viene computata una scuola reclute di 124 giorni di servizio sul totale obbligatorio di giorni di servizio d’istruzione e riconosciuto il grado di soldato.
+
+<sup>2</sup>
+
+Ai militari che prestano servizio di promovimento della pace è computato sul totale obbligatorio di giorni di servizio d’istruzione, per ogni anno civile in cui non hanno prestato alcun servizio d’istruzione delle formazioni a causa del servizio di promovimento della pace, il numero di giorni di servizio seguenti:
+
+- a. ai militari di truppa e ai sottufficiali: un corso di ripetizione di 19 giorni;
+- b. ai sottufficiali superiori e agli ufficiali: un corso preparatorio dei quadri e un corso di ripetizione di complessivi 26 giorni.
+
+[^53a-1]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 ### Sezione 3: Servizi volontari
 
@@ -1139,7 +1258,9 @@ Una necessità per l’esercito affinché siano prestati corsi a titolo volontar
 
 - a. se uno svolgimento ordinato del corso di ripetizione sarebbe considerevolmente più difficoltoso a causa di carenze d’effettivo e le carenze non potrebbero essere compensate con misure ordinarie;
 - b. per la partecipazione a gare e corsi secondo l’ordinanza del 29 ottobre 2003[^55-1] sullo sport militare;
-- c. per la partecipazione a corsi del Centro di competenza per la medicina militare e la medicina in caso di catastrofe.
+- c. per la partecipazione a corsi del Centro di competenza per la medicina militare e la medicina in caso di catastrofe;
+- d.[^55-2] se per l’assolvimento di servizi d’istruzione volontari dei quadri deve essere assegnata la necessaria proposta durante un corso di ripetizione;
+- e.[^55-3] per l’istruzione nel campo del promovimento della pace.
 
 <sup>3</sup>
 
@@ -1151,6 +1272,8 @@ La domanda è autorizzata se:
 <sup>4</sup> I militari possono prestare annualmente 38 giorni di servizio d’istruzione volontario al massimo.
 
 [^55-1]: [RS 512.38](https://fedlex.data.admin.ch/eli/cc/2003/584)
+[^55-2]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^55-3]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 ### Sezione 4: Istruzione di base
 
@@ -1176,11 +1299,13 @@ La domanda è autorizzata se:
 
 ### (art. 49 LM)
 
-<sup>1</sup> L’istruzione di base deve essere prestata di principio per l’intera durata conformemente all’affisso pubblico di chiamata in servizio militare. Su domanda dei militari può eccezionalmente essere prestata in parti, se gli interessi privati o gli interessi del datore di lavoro al frazionamento del servizio d’istruzione prevalgono sull’interesse pubblico a prestare il servizio d’istruzione senza frazionamento. Il Cdo Istr decide in merito alla domanda.
+<sup>1</sup> L’istruzione di base deve essere prestata di principio per l’intera durata conformemente alla chiamata pubblica in servizio militare[^57-1]. Su domanda dei militari può eccezionalmente essere prestata in parti, se gli interessi privati o gli interessi del datore di lavoro al frazionamento del servizio d’istruzione prevalgono sull’interesse pubblico a prestare il servizio d’istruzione senza frazionamento. Il Cdo Istr decide in merito alla domanda.
 
 <sup>2</sup> Nel caso dei militari che al momento del licenziamento dal servizio d’istruzione di base hanno prestato almeno l’80 per cento dell’intera durata e che nella qualificazione approvata sono qualificati almeno come sufficienti, l’istruzione di base è considerata compiuta.
 
 <sup>3</sup> I militari che non hanno compiuto il servizio d’istruzione di base, sono chiamati in servizio alla prossima scadenza possibile per prestare il resto della durata.
+
+[^57-1]: Nuova espr. giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
 
 ### Sezione 5: Servizi d’istruzione delle formazioni e servizi speciali dei quadri
 
@@ -1196,7 +1321,7 @@ Ogni anno i militari seguenti prestano i servizi indicati qui appresso:
 
 - a. i soldati e gli appuntati con funzioni di quadro, i sottufficiali, i sottufficiali superiori e gli ufficiali: un corso preparatorio dei quadri di sette giorni al massimo e un corso di ripetizione di tre settimane;
 - b. i sottufficiali superiori e gli ufficiali incorporati in stati maggiori di Grandi Unità o corpi di truppa: un corso preparatorio dei quadri di sette giorni al massimo e un corso di ripetizione di quattro settimane al massimo;
-- c. i capitani dell’assistenza spirituale dell’esercito nonché gli ufficiali specialisti dell’assistenza spirituale dell’esercito, del Servizio psicopedagogico dell’esercito e del Servizio sociale dell’esercito: un corso di ripetizione di almeno 10 giorni;
+- c.[^58-1] i militari dell’assistenza spirituale dell’esercito nonché gli ufficiali specialisti del Servizio psicopedagogico dell’esercito e del Servizio sociale dell’esercito: un corso di ripetizione di almeno 10 giorni;
 - d. gli specialisti: a seconda delle necessità, i giorni supplementari di servizio d’istruzione secondo l’articolo 47 capoverso 5.
 
 <sup>2</sup>
@@ -1205,12 +1330,13 @@ In caso di particolari esigenze concernenti l’istruzione vi sono le possibilit
 
 - a. il corso di ripetizione può essere frazionato in più parti;
 - b. i militari possono essere chiamati in servizio per il corso di ripetizione per singole giornate;
-- c.[^58-1] i militari possono assolvere completamente o parzialmente i corsi di ripetizione in installazioni civili subordinati a un comando militare.
+- c.[^58-2] i militari possono assolvere completamente o parzialmente i corsi di ripetizione in installazioni civili subordinati a un comando militare.
 
-<sup>3</sup> I militari che in un anno civile assolvono complessivamente per almeno 4 settimane un’istruzione a un grado superiore o un perfezionamento per l’assunzione di una nuova funzione con lo stesso grado possono essere chiamati a prestare nel medesimo anno corsi preparatori dei quadri e corsi di ripetizione unicamente con il loro consenso.[^58-2]
+<sup>3</sup> I militari che in un anno civile assolvono complessivamente per almeno 4 settimane un’istruzione a un grado superiore o un perfezionamento per l’assunzione di una nuova funzione con lo stesso grado possono essere chiamati a prestare nel medesimo anno corsi preparatori dei quadri e corsi di ripetizione unicamente con il loro consenso.[^58-3]
 
-[^58-1]: Introdotta dal n. I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
-[^58-2]: Introdotto dal n. I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
+[^58-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^58-2]: Introdotta dal n. I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
+[^58-3]: Introdotto dal n. I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
 
 #### Art. 59
 
@@ -1237,25 +1363,23 @@ I sottufficiali, i sottufficiali superiori e gli ufficiali possono essere chiama
 
 #### Art. 60
 
-**Servizio al di fuori delle formazioni**
+**Servizio al di fuori delle formazioni**[^60-1]
 
 ### (art. 54 LM)
 
 I militari possono essere chiamati a prestare i seguenti servizi al di fuori delle formazioni della durata indicata qui appresso:
 
-- a.[^60-1] corso di preselezione per il distaccamento d’esplorazione dell’esercito: 6 giorni;
-- a<sup>bis</sup>.[^60-2] corso di selezione per il distaccamento d’esplorazione dell’esercito: 19 giorni;
-- b. audizione personale nell’ambito dei controlli di sicurezza relativi alle persone: un giorno;
-- c. parte pratica del corso di riconversione per droni: 26 giorni;
-- d. esame d’idoneità all’impiego nel servizio di promovimento della pace: due giorni;
-- e. corso d’introduzione, corso per specialisti e corso di base: 19 giorni al massimo;
-- f. istruzione specifica all’impiego per il servizio di promovimento della pace: secondo le necessità;
-- g. esame medico per un nuovo apprezzamento dell’idoneità al servizio: un giorno;
-- h. esame secondo l’articolo 7 capoverso 2 dell’ordinanza del 19 novembre 2003[^60-3] sul servizio di volo militare per la valutazione dell’idoneità fisica da parte dell’Istituto di medicina aeronautica: un giorno.
+- a. esame d’idoneità all’incorporazione nell’assistenza spirituale dell’esercito, nel Servizio psicopedagogico dell’esercito e nel Servizio sociale dell’esercito: 1 giorno;
+- b. esame d’idoneità all’incorporazione quale sommozzatore dell’esercito: al massimo 4 giorni;
+- c. corso di preselezione per il distaccamento d’esplorazione dell’esercito: 6 giorni;
+- d. corso di selezione per il distaccamento d’esplorazione dell’esercito: 19 giorni;
+- e. esame secondo l’articolo 7 capoverso 2 dell’ordinanza del 18 marzo 2022[^60-2] sul servizio di volo militare per la valutazione dell’idoneità fisica da parte dell’Istituto di medicina aeronautica: 1 giorno;
+- f. corso di riconversione per personale medico: 26 giorni;
+- g. parte pratica del corso di riconversione per droni: 26 giorni;
+- h. corso d’introduzione, corso per specialisti e corso di base: al massimo 19 giorni.
 
-[^60-1]: Nuovo testo giusta il n. I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
-[^60-2]: Introdotta dal n. I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
-[^60-3]: [RS 512.271](https://fedlex.data.admin.ch/eli/cc/2022/213)
+[^60-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^60-2]: [RS 512.271](https://fedlex.data.admin.ch/eli/cc/2022/213)
 
 #### Art. 61
 
@@ -1306,9 +1430,10 @@ In un periodo di due anni consecutivi i militari seguenti prestano complessivame
 - c. sottufficiali superiori e ufficiali subalterni degli stati maggiori, capitani e ufficiali superiori: 75 giorni;
 - d. personale militare a partire dal superamento dei limiti d’età secondo l’articolo 13 LM per il rispettivo grado di milizia: 75 giorni.[^62-1]
 
-<sup>2</sup> I servizi d’istruzione volontari e l’istruzione specifica all’impiego per il servizio di promovimento della pace non sono computati nei giorni di servizio d’istruzione da prestare entro due anni al massimo.
+<sup>2</sup> I servizi d’istruzione volontari non sono computati nel numero massimo di giorni di servizio d’istruzione da prestare in un periodo di due anni.[^62-2]
 
 [^62-1]: Nuovo testo giusta il n. I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
+[^62-2]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 ### Sezione 6: Istruzione dei militari in ferma continuata
 
@@ -1346,7 +1471,7 @@ I militari in ferma continuata proposti per un avanzamento prestano i corrispond
 
 <sup>1</sup> La durata degli accertamenti dell’idoneità, dei servizi d’istruzione dei quadri per futuri sottufficiali, sottufficiali superiori e ufficiali nonché la durata massima dell’istruzione dei quadri sono stabilite nell’allegato 2.
 
-<sup>2</sup> I servizi d’istruzione dei +quadri sono di principio da prestare per l’intera durata conformemente all’affisso pubblico di chiamata in servizio militare. Su domanda dei militari possono eccezionalmente essere prestati in parti, se gli interessi privati o gli interessi del datore di lavoro al frazionamento del servizio d’istruzione prevalgono sull’interesse pubblico a prestare il servizio d’istruzione senza frazionamento. Il Cdo Istr decide in merito alle domande.
+<sup>2</sup> I servizi d’istruzione dei +quadri sono di principio da prestare per l’intera durata conformemente alla chiamata pubblica in servizio militare. Su domanda dei militari possono eccezionalmente essere prestati in parti, se gli interessi privati o gli interessi del datore di lavoro al frazionamento del servizio d’istruzione prevalgono sull’interesse pubblico a prestare il servizio d’istruzione senza frazionamento. Il Cdo Istr decide in merito alle domande.
 
 <sup>3</sup> Nel caso dei militari che al momento del licenziamento dal servizio d’istruzione dei quadri hanno prestato almeno il 75 per cento dell’intera durata e che nella qualificazione approvata sono qualificati almeno come sufficienti, il servizio d’istruzione dei quadri è considerato assolto.[^64-1]
 
@@ -1386,7 +1511,7 @@ Gli aspiranti a una funzione di sottufficiale, di sottufficiale superiore e di u
 
 Fanno parte dell’amministrazione militare secondo l’articolo 59 capoverso 2 LM:
 
-- a. le unità amministrative dell’Aggruppamento Difesa;
+- a.[^66-1] le unità amministrative dell’Aggruppamento Difesa e dell’Ufficio dell’uditore in capo;
 - b. le unità amministrative dei Cantoni incaricate dell’esecuzione del diritto militare federale.
 
 <sup>2</sup> Per il servizio in scuole e corsi o nell’amministrazione militare e nelle sue aziende possono essere chiamati in servizio soltanto militari soggetti all’obbligo di prestare servizio d’istruzione.
@@ -1420,6 +1545,8 @@ Non sono ammessi:
 - d. i servizi volti a occupare posti vacanti;
 - e. i servizi consecutivi prestati per lungo tempo allo stesso posto e per gli stessi scopi, indipendentemente dal fatto che a tal fine siano chiamati in servizio il medesimo militare o vari militari;
 - f. i servizi aventi il solo fine di accorciare o impedire un periodo di disoccupazione del militare interessato.
+
+[^66-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 #### Art. 67
 
@@ -1456,7 +1583,7 @@ Per il compito di cui all’articolo 61 capoverso 3 LM possono essere messi a di
 - a. militari in ferma continuata in servizio d’istruzione delle formazioni;
 - b. personale militare.
 
-### Sezione 10: Licenziamento anticipato dal reclutamento e da servizi militari****
+### Sezione 10: Licenziamento anticipato dal reclutamento e da servizi militari
 
 [^chap3-sec10-1]
 
@@ -1654,13 +1781,14 @@ Soldati, appuntati, sottufficiali e sottufficiali superiori possono essere nomin
 - c. vi è una decisione necessaria secondo l’OCSP[^80-1] passata in giudicato e il consenso dell’autorità decisionale; e
 - d. si dichiarano disposti a prestare i relativi servizi.
 
-<sup>3</sup> Prima della nomina i futuri ufficiali specialisti dell’assistenza spirituale dell’esercito, del Servizio psicopedagogico dell’esercito e del Servizio sociale dell’esercito devono compiere un corso di formazione tecnica di 19 giorni nel quadro del servizio d’istruzione.
+<sup>3</sup> Prima della nomina, i futuri ufficiali specialisti dell’assistenza spirituale dell’esercito, del Servizio psicopedagogico dell’esercito e del Servizio sociale dell’esercito devono assolvere un corso di formazione tecnica di 40 giorni al massimo.[^80-2]
 
 <sup>4</sup> L’Aggruppamento Difesa stabilisce quali funzioni di ufficiale possono essere occupate da un ufficiale specialista.
 
 <sup>5</sup> Il comandante competente per l’occupazione di una funzione di ufficiale presenta al Cdo Istr la domanda per la nomina a ufficiale specialista unitamente al militare interessato. Il Cdo Istr decide in merito alle domande e procede, se del caso, alla nomina a ufficiale specialista.
 
 [^80-1]: [RS 120.4](https://fedlex.data.admin.ch/eli/cc/2011/155)
+[^80-2]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 #### Art. 81
 
@@ -1716,7 +1844,7 @@ I militari sono chiamati ai servizi d’istruzione:
 
 #### Art. 84
 
-**Affisso pubblico di chiamata in servizio militare**
+**Chiamata pubblica in servizio militare**
 
 ### (art. 132 lett. e, 144 cpv. 1 LM)
 
@@ -1726,9 +1854,10 @@ I militari sono chiamati ai servizi d’istruzione:
 
 <sup>3</sup> La chiamata pubblica in servizio militare già pubblicata può essere modificata a seguito di necessità militari imperative. Le persone interessate sono informate immediatamente per posta o per via elettronica.
 
-<sup>4</sup> Il DDPS può, in particolare per misure straordinarie e per incrementare la prontezza, chiamare in servizio formazioni o loro parti prima o licenziarle dopo la data indicata nella chiamata pubblica in servizio militare.
+<sup>4</sup> Il DDPS può, in particolare per misure straordinarie e per incrementare la prontezza, chiamare in servizio formazioni o loro parti prima o dopo la data indicata nella chiamata pubblica in servizio militare oppure licenziarle dopo tale data*.*[^84-2]
 
 [^84-1]: [www.vtg.admin.ch](http://www.vtg.admin.ch) &gt; Il mio servizio militare &gt; Date di chiamata in servizio
+[^84-2]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 #### Art. 85
 
@@ -1859,9 +1988,13 @@ L’Aggruppamento Difesa emana istruzioni concernenti la procedura e provvede a 
 
 **Data, motivi del proscioglimento e formalità amministrative**
 
-### (art. 49 cpv. 2, art. 54*a* cpv. 4, 122 LM)
+### (art. 3 cpv. 3, 49 cpv. 2, 54*a* cpv. 4, 122 LM)
+
+[^94-1]
 
 <sup>1</sup> I proscioglimenti dall’esercito o dall’obbligo di prestare servizio militare avvengono alla fine dell’anno in cui interviene il motivo del proscioglimento.
+
+<sup>1bis</sup> Su presentazione della relativa domanda, le donne possono essere prosciolte dall’esercito e dall’obbligo di prestare servizio militare prima del raggiungimento dei limiti d’età secondo l’articolo 13 LM dopo aver assolto almeno tre servizi di promovimento della pace per una durata complessiva di almeno 30 mesi.[^94-2]
 
 <sup>2</sup>
 
@@ -1874,6 +2007,9 @@ Per i militari il cui obbligo di prestare servizio militare è stato prorogato v
 <sup>3</sup> Per la partecipazione obbligatoria al proscioglimento dall’esercito e dall’obbligo di prestare servizio militare, i militari interessati sono convocati dai Cantoni; la convocazione avviene mediante recapito di un documento per l’utilizzo gratuito dei mezzi di trasporto pubblici.
 
 <sup>4</sup> Il Cdo Istr provvede a un’esecuzione uniforme.
+
+[^94-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^94-2]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 #### Art. 95
 
@@ -2025,7 +2161,7 @@ I comandanti di circondario sono competenti per:
 
 - b. la tenuta dei dati di controllo secondo la lettera a delle persone soggette all’obbligo di leva;
 - c. la tenuta dei dati di controllo secondo la lettera a relativi alle persone soggette all’obbligo di prestare servizio militare, sempre che secondo il diritto federale non sia competente al riguardo un altro organo;
-- d. il rilascio e la consegna prima del reclutamento del libretto di servizio alle persone soggette all’obbligo di prestare servizio militare;
+- d.[^102-2] il rilascio e la consegna prima del reclutamento del libretto di servizio alle persone soggette all’obbligo di prestare servizio militare, ammesso che venga consegnato;
 - e. il rilascio e la consegna di un duplicato del libretto di servizio smarrito contro pagamento di una tassa, commisurata all’onere, di 300 franchi al massimo;
 - f. le ricerche sul motivo della mancata entrata in servizio di persone soggette all’obbligo di leva in occasione del reclutamento;
 - g. le ricerche concernenti il luogo di dimora di una persona soggetta all’obbligo di leva o all’obbligo di prestare servizio militare che non è reperibile presso il domicilio annunciato;
@@ -2043,6 +2179,7 @@ I singoli corpi di truppa e le singole formazioni dell’esercito sono assegnati
 - c. hanno il diritto di visitare i servizi d’istruzione.
 
 [^102-1]: Nuova espr. giusta l’all. n. II 19 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
+[^102-2]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 #### Art. 103
 
@@ -2065,14 +2202,17 @@ I comandanti controllano, in occasione di ogni servizio della loro formazione, s
 
 Il Cdo Istr è competente per:
 
-- a. l’allestimento del libretto di servizio;
-- b. il rilascio e la consegna del libretto di servizio a persone che si annunciano volontariamente per il servizio militare;
+- a.[^105-1] l’elaborazione dell’attestato di adempimento dell’obbligo di prestare servizio militare;
+- b.[^105-2] il rilascio e la consegna dell’attestato di adempimento dell’obbligo di prestare servizio militare alle persone che prestano servizio, ammesso che la competenza del rilascio e della consegna non spetti ai comandanti di circondario;
 - c. l’incorporazione dei soldati in una formazione;
 - d. le nuove incorporazioni e il trasferimento di militari;
 - e. le ricerche sul motivo della mancata entrata in servizio di tutti i militari nonché la decisione di deferimento alla giustizia militare;
 - f. l’impiego dei militari non incorporati in una formazione;
 - g. l’inserimento nei controlli militari di persone attribuite o assegnate all’esercito;
 - h. l’emanazione di istruzioni nell’ambito del Servizio dei caduti e dei dispersi dell’esercito.
+
+[^105-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^105-2]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 ## Capitolo 8: Disposizioni finali
 
@@ -2138,7 +2278,7 @@ I seguenti militari promossi al loro grado attuale prima del 1° gennaio 2018 de
 - b. i caporali: 260 giorni;
 - c. i sergenti: 400 giorni;
 - d.[^109-4] i sergenti granatieri: 425 giorni;
-- d<sup>bis</sup>.[^109-5] i sergenti esploratori paracadutisti: 865 giorni;
+- [tab] d<sup>bis</sup>.[^109-5]i sergenti esploratori paracadutisti: 865 giorni;
 - e. i sergenti capi: 430 giorni;
 - e<sup>bis</sup>.[^109-6] i sergenti capi esploratori paracadutisti: 865 giorni;
 - f. i sergenti maggiori: 450 giorni;
@@ -2155,7 +2295,7 @@ I seguenti militari che hanno assolto la scuola ufficiali prima del 31 dicembre 
 
 - a. medici militari e farmacisti: 456 giorni;
 - b. dentisti: 538 giorni;
-- c. veterinari: 536 giorni.[^109-8]
+- c.[^109-8] veterinari e ispettori delle derrate alimentari: 536 giorni.[^109-9]
 
 <sup>2bis</sup>
 
@@ -2163,9 +2303,9 @@ I seguenti membri del servizio di volo militare promossi al loro grado attuale p
 
 - a. capitani piloti militari, operatori di bordo o operatori di ricognitori telecomandati: 1311 giorni;
 - b. maggiori piloti militari, operatori di bordo o operatori di ricognitori telecomandati: 1368 giorni;
-- c. tenenti colonnelli piloti militari, operatori di bordo o operatori di ricognitori telecomandati: 1380 giorni.[^109-9]
+- c. tenenti colonnelli piloti militari, operatori di bordo o operatori di ricognitori telecomandati: 1380 giorni.[^109-10]
 
-<sup>3</sup> I capitani e gli ufficiali superiori promossi al loro grado attuale o attribuiti alla loro funzione attuale prima del 1° gennaio 2018 e per i quali non è previsto alcun avanzamento, prestano servizi d’istruzione durante un periodo da quattro a otto anni.[^109-10]
+<sup>3</sup> I capitani e gli ufficiali superiori promossi al loro grado attuale o attribuiti alla loro funzione attuale prima del 1° gennaio 2018 e per i quali non è previsto alcun avanzamento, prestano servizi d’istruzione durante un periodo da quattro a otto anni.[^109-11]
 
 [^109-1]: Nuovo testo giusta il n. I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
 [^109-2]: Nuovo testo giusta il n. I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
@@ -2174,9 +2314,10 @@ I seguenti membri del servizio di volo militare promossi al loro grado attuale p
 [^109-5]: Introdotta dall’all. 2 n. 2 dell’O del 18 mar. 2022 sul servizio di volo militare, in vigore dal 1° lug. 2022 ([RU 2022 213](https://fedlex.data.admin.ch/eli/oc/2022/213)).
 [^109-6]: Introdotta dall’all. 2 n. 2 dell’O del 18 mar. 2022 sul servizio di volo militare, in vigore dal 1° lug. 2022 ([RU 2022 213](https://fedlex.data.admin.ch/eli/oc/2022/213)).
 [^109-7]: Introdotta dall’all. 2 n. 2 dell’O del 18 mar. 2022 sul servizio di volo militare, in vigore dal 1° lug. 2022 ([RU 2022 213](https://fedlex.data.admin.ch/eli/oc/2022/213)).
-[^109-8]: Nuovo testo giusta il n. I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
-[^109-9]: Introdotto dall’all. 2 n. 2 dell’O del 18 mar. 2022 sul servizio di volo militare, in vigore dal 1° lug. 2022 ([RU 2022 213](https://fedlex.data.admin.ch/eli/oc/2022/213)).
-[^109-10]: Nuovo testo giusta il n. I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
+[^109-8]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^109-9]: Nuovo testo giusta il n. I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
+[^109-10]: Introdotto dall’all. 2 n. 2 dell’O del 18 mar. 2022 sul servizio di volo militare, in vigore dal 1° lug. 2022 ([RU 2022 213](https://fedlex.data.admin.ch/eli/oc/2022/213)).
+[^109-11]: Nuovo testo giusta il n. I dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
 
 #### Art. 109a
 
@@ -2272,182 +2413,189 @@ Gli ufficiali che fino al 31 dicembre 2017 erano incorporati in una funzione per
 
 La presente ordinanza entra in vigore il 1° gennaio 2018.
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 (art. 46)
 
 ## Servizi d’istruzione
 
-[^t-1]: Nuovo testo giusta il n. II cpv. 1 dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
+[^t-1]: Nuovo testo giusta il n. II cpv. 1 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 <table>
 <tr><th colspan="2">Servizi d’istruzione di base</th><th colspan="2">Servizi di perfezionamento della truppa</th></tr>
 <tr><th>Istruzione di base</th><th>Istruzione dei sottufficiali, dei sottufficiali superiori e degli ufficiali (servizi d’istruzione dei quadri)</th><th>Servizi d’istruzione delle formazioni</th><th>Servizi speciali dei quadri</th></tr>
-<tr><td>– Scuola reclute<sup>1</sup> (compresi i corsi speciali per specialisti secondo l’art. 50 LM)</td><td>Istruzione dei quadri – Corso di formazione per sottufficiali superiori<sup>1</sup> – Scuola sottufficiali per capicucina<sup>1</sup> – Scuola ufficiali<sup>1</sup> – Scuola sottufficiali<sup>1</sup></td><td>Corsi di ripetizione – Corso preparatorio dei quadri<sup>2</sup> – Corsi di ripetizione<sup>2</sup> (per i sottufficiali superiori e gli ufficiali incorporati in stati maggiori di Grandi Unità o corpi di truppa sono considerati corsi di ripetizione: i corsi di stato maggiore<sup>2</sup>, gli esercizi quadro di stato maggiore<sup>3</sup>, gli esercizi di stato maggiore<sup>3</sup>, gli esercizi con truppe al completo<sup>3</sup> e i corsi d’allenamento delle Forze aeree<sup>2</sup>)</td><td>– Corso speciale<sup>2</sup> – Trapasso di comando<sup>4</sup> – Corso di base del Centro di competenza per la medicina militare e la medicina in caso di catastrofe<sup>2</sup> – Rapporto<sup>4</sup> – Servizio d’arbitraggio<sup>3</sup> – Corso d’allenamento<sup>2</sup> – Visita alla truppa<sup>4</sup> – Direzione di esercizi<sup>3</sup> Legenda: 1 Scuole 2 Corsi 3 Esercizi 4 Rapporti</td></tr>
-<tr><td></td><td></td><td>Lavori di preparazione e di licenziamento – Lavori di licenziamento<sup>2</sup> – Ricognizione<sup>2</sup> – Rapporti nell’ambito della preparazione di servizi d’istruzione<sup>4</sup> Servizio al di fuori della formazione – Corso di preselezione e corso di selezione per il distaccamento d’esplorazione dell’esercito<sup>2</sup> – Audizione nell’ambito del controllo di sicurezza relativo alle persone<sup>4</sup> [tab] – Corso di riconversione per droni (parte pratica)<sup>2</sup> – Esame d’idoneità all’impiego nel servizio di promovimento della pace<sup>4</sup> – Corso d’introduzione, corso per specialisti, corso di riconversione o corso di base<sup>2</sup> – Istruzione specifica all’impiego per il servizio di promovimento della pace<sup>2</sup> – Esame medico per l’apprezzamento dell’idoneità al servizio<sup>4</sup> – Corso di tiro per «rimasti»<sup>2</sup></td><td>[tab]</td></tr>
-<tr><td></td><td>Servizi d’istruzione in una scuola reclute – Corso preparatorio dei quadri<sup>2</sup> – Servizio pratico<sup>1</sup> Altri servizi d’istruzione per un grado superiore, una nuova funzione o una riconversione – Corso di riconversione per droni (parte teorica)<sup>2</sup> – Corso di formazione alla condotta<sup>1</sup> – Corso di formazione di stato maggiore generale<sup>1</sup> – Corso per quadri di medicina<sup>2</sup> – Corso per quadri di medicina veterinaria<sup>2</sup> – Servizio pratico nelle regioni, negli ambiti della sanità militare o nel servizio d’istruzione delle formazioni<sup>2</sup> – Corso speciale per granatieri e esploratori paracadutisti<sup>2</sup> – Corso di formazione tecnica<sup>1</sup></td><td>[tab]</td><td>[tab]</td></tr>
+<tr><td>– Scuola reclute<sup>1</sup> (compresi i corsi speciali per specialisti secondo l’art. 50 LM)</td><td>Istruzione dei quadri – Corso di formazione per sottufficiali superiori<sup>1</sup> – Scuola sottufficiali per capicucina<sup>1</sup> – Scuola ufficiali<sup>1</sup> – Scuola sottufficiali<sup>1</sup></td><td>Corsi di ripetizione – Corso preparatorio dei quadri<sup>2</sup> – Corsi di ripetizione<sup>2</sup> (per i sottufficiali superiori e gli ufficiali incorporati in stati maggiori di Grandi Unità o corpi di truppa sono considerati corsi di ripetizione: i corsi di stato maggiore<sup>2</sup>, gli esercizi quadro di stato maggiore<sup>3</sup>, gli esercizi di stato maggiore<sup>3</sup>, gli esercizi con truppe al completo<sup>3</sup> e i corsi d’allenamento delle Forze aeree<sup>2</sup>)</td><td>– Corso speciale<sup>2</sup> – Trapasso di comando<sup>4</sup> – Corso di base del Centro di competenza per la medicina militare e la medicina in caso di catastrofe<sup>2</sup> – Rapporto<sup>4</sup> – Servizio d’arbitraggio<sup>3</sup> – Corso d’allenamento<sup>2</sup> – Visita alla truppa<sup>4</sup> – Direzione di esercizi<sup>3</sup></td></tr>
+<tr><td></td><td></td><td>Lavori di preparazione e di licenziamento – Lavori di licenziamento<sup>2</sup> – Ricognizione<sup>2</sup> – Rapporti nell’ambito della preparazione di servizi d’istruzione<sup>4</sup></td><td></td></tr>
+<tr><td></td><td>Servizi d’istruzione in una scuola reclute – Corso preparatorio dei quadri<sup>2</sup> – Servizio pratico<sup>1</sup></td><td></td><td></td></tr>
+<tr><td></td><td></td><td>Servizio al di fuori della formazione – Corso di preselezione e corso di selezione per il distaccamento d’esplorazione dell’esercito<sup>2</sup> – Corso di riconversione per droni (parte pratica)<sup>2</sup> – Corso d’introduzione, corso per specialisti, corso di riconversione o corso di base<sup>2</sup> – Esame d’idoneità per l’assistenza spirituale dell’esercito, il Servizio psicopedagogico dell’esercito e il Servizio sociale dell’esercito<sup>4</sup> – Esame d’idoneità per sommozzatori dell’esercito<sup>4</sup> – Visita medica da parte dell’Istituto di medicina aeronautica per valutare l’idoneità fisica<sup>4</sup> – Corso di riconversione per il personale medico (medicina militare e medicina in caso di catastrofe)<sup>2</sup></td><td></td></tr>
+<tr><td></td><td>Altri servizi d’istruzione per un grado superiore, una nuova funzione o una riconversione – Corso di riconversione per droni (teoria)<sup>2</sup> – Corso di formazione alla condotta<sup>1</sup> – Corso di formazione di stato maggiore generale<sup>1</sup> – Scuola ufficiali per medici militari<sup>1</sup> – Corso per quadri veterinari<sup>2</sup> – Servizio pratico nelle regioni, negli ambiti della sanità militare o nel servizio d’istruzione delle formazioni<sup>2</sup> – Corso speciale per granatieri e esploratori paracadutisti<sup>2</sup> – Corso di formazione tecnica<sup>1</sup> – Corso di formazione operativa dell’esercito<sup>2</sup></td><td></td><td>Legenda 1 Scuole 2 Corsi 3 Esercizi 4 Rapporti</td></tr>
 <tr><td></td><td></td><td>Militari in ferma continuata – Giorni di servizio rimanenti senza interruzione<sup>2</sup></td><td></td></tr>
 </table>
 
-Allegato 2*[^t-2]*
+Allegato 2[^t-2]
 
 (art. 56 cpv. 4, 64 cpv. 1, 65 cpv. 1 e 2, 72 cpv. 2 lett. b n. 1, 113 cpv. 3 e 115 cpv. 1)
 
 ## Durata delle scuole reclute e durata massima dell’istruzione dei quadri e dei servizi d’istruzione in giorni
 
-[^t-2]: Nuovo testo giusta il n. II cpv. 1 dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
+[^t-2]: Nuovo testo giusta il n. II cpv. 1 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 <table>
-<tr><th>Carriere nell’ambito dell’istruzione di base e dell’istruzione dei quadri</th><th>Grado attuale</th><th>Grado futuro</th><th>Funzione</th><th></th><th colspan="3">Istruzione di base</th><th></th><th></th><th></th><th colspan="3">Servizi d’istruzione dei quadri</th><th></th></tr>
-<tr><th></th><th></th><th></th><th colspan="2"></th><th>Reclutamento</th><th>Esame d’idoneità</th><th>Scuola reclute (compresi i corsi speciali per specialisti secondo l’art. 50 LM)</th><th colspan="2"></th><th colspan="2">Scuola sottufficiali</th><th>Scuola sottufficiali per capicucina</th><th colspan="2">Corso preparatorio dei quadri e servizio pratico in una scuola reclute</th></tr>
-<tr><td>1.0</td><td>Recl</td><td>Sdt</td><td colspan="2">Tutte le funzioni, fatte salve eventuali deroghe</td><td>3</td><td></td><td>124/159</td><td colspan="2">Le seguenti funzioni prestano una scuola reclute di 159 giorni presso il Centro d’istruzione delle forze speciali: soldato di sicurezza delle forze speciali, soldato dello scaglione di condotta delle forze speciali, soldato addetto al rifornimento delle forze speciali; e, presso il Centro d’istruzione delle forze speciali, le funzioni logistiche ordinanza d’ufficio, contabile della truppa, cuoco di truppa, cuoco di truppa in ferma continuata, soldato d’esercizio</td><td colspan="2"></td><td></td><td colspan="2"></td></tr>
-<tr><td></td><td></td><td></td><td colspan="2">Specialista di montagna</td><td>3</td><td>2</td><td>124</td><td colspan="2"></td><td colspan="2"></td><td></td><td colspan="2"></td></tr>
-<tr><td></td><td></td><td></td><td colspan="2">Granatiere e esploratore paracadutista</td><td>3</td><td>2</td><td>159</td><td colspan="2"></td><td colspan="2"></td><td></td><td colspan="2"></td></tr>
-<tr><td></td><td></td><td></td><td colspan="2">Soldato sanitario aspirante medico Soldato d’ospedale aspirante medico</td><td>3</td><td></td><td>82/124</td><td colspan="2">Gli aspiranti seguono un’istruzione di base di 82 giorni. Se non compiono la carriera nell’ambito dell’istruzione dei quadri per diventare ufficiali, sono chiamati in servizio per il resto della durata dell’istruzione di base di 124 giorni.</td><td colspan="2"></td><td></td><td colspan="2"></td></tr>
-<tr><td></td><td></td><td></td><td colspan="2">Soldato aspirante veterinario</td><td></td><td></td><td>82/124</td><td colspan="2"></td><td colspan="2"></td><td></td><td colspan="2"></td></tr>
-<tr><td>1.1</td><td>Sdt</td><td>App</td><td colspan="2">Tutte le funzioni</td><td colspan="10">Dopo aver conseguito il grado di soldato non devono essere prestati altri servizi d’istruzione dei quadri.</td></tr>
-<tr><td>2.0</td><td>Sdt App</td><td>Sgt</td><td colspan="2">Capogruppo Capogruppo specialista di montagna</td><td></td><td></td><td></td><td colspan="2"></td><td colspan="2">27</td><td></td><td colspan="2">12–131\*</td></tr>
-<tr><td></td><td></td><td></td><td colspan="2">Capogruppo granatiere Capogruppo esploratore paracadutista</td><td></td><td></td><td></td><td colspan="2"></td><td colspan="2">40</td><td></td><td colspan="2">47–124\*</td></tr>
-<tr><td></td><td></td><td></td><td colspan="2">Capocucina</td><td></td><td></td><td></td><td colspan="2"></td><td colspan="2"></td><td>40</td><td colspan="2">33–131\*</td></tr>
-<tr><td>2.1</td><td>Sgt</td><td>Sgt capo</td><td colspan="2">Sostituto del caposezione</td><td colspan="10">Dopo aver conseguito il grado di sergente non devono essere prestati altri servizi d’istruzione dei quadri.</td></tr>
-<tr><td>2.2</td><td>Sgt</td><td>Sgt capo</td><td colspan="2">Responsabile dei tamburini</td><td colspan="10">Prestano un corso di formazione tecnica suff tamburini di 12 giorni.</td></tr>
+<tr><th>Carriere nell’ambito dell’istruzione di base e dell’istruzione dei quadri</th><th>Grado attuale</th><th>Grado futuro</th><th>Funzione</th><th></th><th colspan="3">Istruzione di base</th><th></th><th colspan="2"></th><th colspan="2"></th><th></th><th colspan="3">Servizi d’istruzione dei quadri</th><th colspan="2"></th></tr>
+<tr><th></th><th></th><th></th><th colspan="2"></th><th>Reclutamento</th><th>Esame d’idoneità</th><th colspan="3">Scuola reclute (compresi i corsi speciali per specialisti secondo l’art. 50 LM)</th><th colspan="2"></th><th colspan="3">Scuola sottufficiali</th><th>Scuola sottufficiali per capicucina</th><th colspan="2">Corso preparatorio dei quadri e servizio pratico in una scuola reclute</th></tr>
+<tr><td>1.0</td><td>Recl</td><td>Sdt</td><td colspan="2">Tutte le funzioni, fatte salve eventuali deroghe</td><td>3</td><td></td><td colspan="3">124/159</td><td colspan="2">Le seguenti funzioni svolgono una scuola reclute di 159 giorni presso il Centro d’istruzione delle forze speciali: soldato di sicurezza delle forze speciali, soldato dello scaglione di condotta delle forze speciali, soldato del rifornimento delle forze speciali, soldato delle trasmissioni delle forze speciali, soldato di lanciamine delle forze speciali; e, presso il Centro d’istruzione delle forze speciali, le funzioni logistiche ordinanza d’ufficio, contabile di truppa, cuoco di truppa, cuoco di truppa in ferma continuata, soldato d’esercizio</td><td colspan="3"></td><td></td><td colspan="2"></td></tr>
+<tr><td></td><td></td><td></td><td colspan="2">Specialista di montagna</td><td>3</td><td>2</td><td colspan="3">124</td><td colspan="2"></td><td colspan="3"></td><td></td><td colspan="2"></td></tr>
+<tr><td></td><td></td><td></td><td colspan="2">Granatiere e esploratore paracadutista</td><td>3</td><td>2</td><td colspan="3">159</td><td colspan="2"></td><td colspan="3"></td><td></td><td colspan="2"></td></tr>
+<tr><td></td><td></td><td></td><td colspan="2">Soldato sanitario aspirante medico Soldato d’ospedale aspirante medico</td><td>3</td><td></td><td colspan="3">82/124</td><td colspan="2">Gli aspiranti seguono un’istruzione di base di 82 giorni. Se non concludono la carriera nell’ambito dell’istruzione dei quadri per diventare ufficiali, sono chiamati in servizio per il resto della durata dell’istruzione di base di 124 giorni.</td><td colspan="3"></td><td></td><td colspan="2"></td></tr>
+<tr><td></td><td></td><td></td><td colspan="2">Soldato aspirante veterinario</td><td></td><td></td><td colspan="3">82/124</td><td colspan="2"></td><td colspan="3"></td><td></td><td colspan="2"></td></tr>
+<tr><td>1.1</td><td>Sdt</td><td>App</td><td colspan="2">Tutte le funzioni</td><td colspan="13">Dopo aver conseguito il grado di soldato non devono essere prestati altri servizi d’istruzione dei quadri.</td></tr>
+<tr><td>2.0</td><td>Sdt App</td><td>Sgt</td><td colspan="2">Capogruppo Capogruppo specialista di montagna</td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td colspan="3">27</td><td></td><td colspan="2">12–131\*</td></tr>
+<tr><td></td><td></td><td></td><td colspan="2">Capogruppo granatiere Capogruppo esploratore paracadutista Capogruppo funzioni delle forze speciali</td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td colspan="3">40</td><td></td><td colspan="2">47–124\*</td></tr>
+<tr><td></td><td></td><td></td><td colspan="2">Capocucina</td><td></td><td></td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td><td>40</td><td colspan="2">33–131\*</td></tr>
+<tr><td>2.1</td><td>Sgt</td><td>Sgt capo</td><td colspan="2">Sostituto del caposezione</td><td colspan="13">Dopo aver conseguito il grado di sergente non devono essere prestati altri servizi d’istruzione dei quadri.</td></tr>
 </table>
 
 <table>
 <tr><th>Carriera nell’ambito dell’istruzione dei quadri</th><th>Grado attuale</th><th>Grado futuro</th><th>Funzione</th><th colspan="6">Servizi d’istruzione dei quadri</th><th colspan="2"></th><th></th><th></th><th colspan="2"></th><th></th><th></th><th></th></tr>
-<tr><th></th><th></th><th></th><th></th><th>Corso di formazione tecnica</th><th>Corso di formazione per sottufficiali superiori</th><th>Corso preparatorio dei quadri e servizio pratico in una scuola reclute</th><th>Corso di formazione tecnica logistica</th><th>Corso di formazione alla condotta di corpi di truppa</th><th colspan="2">Servizio pratico in servizi d’istruzione delle formazioni</th><th colspan="4">Corso di formazione tecnica B</th><th colspan="4">Corso di formazione alla condotta di Grandi Unità</th></tr>
+<tr><th></th><th></th><th></th><th></th><th>Corso di formazione tecnica</th><th>Corso di formazione per sottufficiali superiori</th><th>Corso preparatorio dei quadri e servizio pratico in una scuola reclute</th><th>Corsi di formazione tecnica logistica</th><th>Corso di formazione alla condotta di corpi di truppa</th><th colspan="2">Servizio pratico in servizi d’istruzione delle formazioni</th><th colspan="4">Corso di formazione tecnica Grande Unità</th><th colspan="4">Corso di formazione alla condotta di Grandi Unità</th></tr>
 <tr><td>3.0</td><td>Sgt Sgt capo</td><td>Sgtm</td><td></td><td>5–26\*</td><td></td><td>0–131\*</td><td></td><td></td><td colspan="2"></td><td colspan="4"></td><td colspan="4"></td></tr>
-<tr><td>3.1</td><td>Sgt Sgt capo Sgtm</td><td>Fur</td><td>Furiere</td><td></td><td>40</td><td>0–131\*</td><td></td><td></td><td colspan="2"></td><td colspan="4"></td><td colspan="4"></td></tr>
-<tr><td>3.2</td><td></td><td>Sgtm</td><td>Sergente maggiore d’unità</td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="4"></td><td colspan="4"></td></tr>
+<tr><td>3.1</td><td>Sgt Sgt capo Sgtm</td><td>Fur</td><td>Furiere</td><td></td><td>52</td><td>0–131\*</td><td></td><td></td><td colspan="2"></td><td colspan="4"></td><td colspan="4"></td></tr>
+<tr><td>3.2</td><td></td><td>Sgtm capo</td><td>Sergente maggiore d’unità</td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="4"></td><td colspan="4"></td></tr>
 <tr><td>3.3</td><td>Sgtm Fur Sgtm capo</td><td>Aiut suff</td><td></td><td></td><td></td><td></td><td>26</td><td></td><td colspan="2">26</td><td colspan="4"></td><td colspan="4"></td></tr>
 <tr><td>3.4</td><td>Sgtm Fur Sgtm capo Aiut suff</td><td>Aiut SM</td><td></td><td></td><td></td><td></td><td></td><td>33</td><td colspan="2">12</td><td colspan="4"></td><td colspan="4"></td></tr>
 <tr><td>3.5</td><td>Aiut SM</td><td>Aiut magg</td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="4">0–21\*</td><td colspan="4">12–38\*</td></tr>
-<tr><td>3.6</td><td>Aiut magg</td><td>Aiut capo</td><td></td><td colspan="15">Dopo aver conseguito il grado di aiutante maggiore non devono essere prestati altri servizi d’istruzione dei quadri.</td></tr>
+<tr><td>3.6</td><td>Aiut magg</td><td>Aiut capo</td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="4"></td><td colspan="4">0-38\*</td></tr>
 </table>
 
 <table>
-<tr><th>Carriera nell’ambito dell’istruzione dei quadri</th><th>Grado attuale</th><th>Grado futuro</th><th>Funzione</th><th colspan="10">Servizi d’istruzione dei quadri</th><th></th><th></th><th></th><th colspan="2"></th><th></th><th></th><th></th><th colspan="2"></th><th></th><th></th></tr>
-<tr><th></th><th></th><th></th><th></th><th>Scuola ufficiali</th><th>Corso speciale per granatieri e esploratori paracadutisti</th><th>Corso per quadri di medicina</th><th>Corso per quadri veterinari</th><th>Corso preparatorio dei quadri e servizio pratico in una scuola reclute, nelle regioni o negli ambiti della sanità militare</th><th>Corso di formazione alla condotta di unità</th><th>Corso di formazione tecnica</th><th>Corso preparatorio dei quadri e servizio pratico in una scuola reclute</th><th>Corso di formazione alla condotta di corpi di truppa</th><th colspan="5">Corso di formazione tecnica</th><th colspan="5">Servizio pratico in servizi d’istruzione delle formazioni</th><th colspan="3">Corso di formazione alla condotta di Grandi Unità</th></tr>
-<tr><td>4.0</td><td>Suff Suff sup</td><td>Ten</td><td>Caposezione</td><td>103</td><td></td><td></td><td></td><td>131</td><td></td><td></td><td></td><td></td><td colspan="5"></td><td colspan="5"></td><td colspan="3"></td></tr>
-<tr><td></td><td></td><td></td><td>Caposezione granatiere Caposezione esploratore paracadutista</td><td>75</td><td>26–73\*\*</td><td></td><td></td><td>124</td><td></td><td></td><td></td><td></td><td colspan="5"></td><td colspan="5"></td><td colspan="3"></td></tr>
-<tr><td></td><td></td><td></td><td>Quartiermastro</td><td>103</td><td></td><td></td><td></td><td>131</td><td></td><td></td><td></td><td></td><td colspan="5"></td><td colspan="5"></td><td colspan="3"></td></tr>
-<tr><td></td><td>Sdt</td><td></td><td>Medico militare Farmacista</td><td></td><td></td><td>54</td><td></td><td>82</td><td></td><td></td><td></td><td></td><td colspan="5"></td><td colspan="5"></td><td colspan="3"></td></tr>
-<tr><td></td><td></td><td></td><td>Dentista</td><td></td><td></td><td>54</td><td></td><td>164</td><td></td><td></td><td></td><td></td><td colspan="5"></td><td colspan="5"></td><td colspan="3"></td></tr>
-<tr><td></td><td></td><td></td><td>Veterinario</td><td>54</td><td></td><td></td><td>96</td><td>96</td><td></td><td></td><td></td><td></td><td colspan="5"></td><td colspan="5"></td><td colspan="3"></td></tr>
-<tr><td>4.1</td><td>Ten</td><td>I ten</td><td>Tutte le funzioni</td><td colspan="22">Dopo aver conseguito il grado di tenente non devono essere prestati altri servizi d’istruzione dei quadri.</td></tr>
-<tr><td></td><td></td><td></td><td>Quartiermastro</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>12</td><td colspan="5"></td><td colspan="5">12</td><td colspan="3"></td></tr>
-<tr><td>**5.0**</td><td>**Ten** **I ten**</td><td>**Cap**</td><td>Comandante d’unità</td><td></td><td></td><td></td><td></td><td></td><td>26</td><td>5–26\*</td><td>132</td><td></td><td colspan="5"></td><td colspan="5"></td><td colspan="3"></td></tr>
-<tr><td></td><td></td><td></td><td>Operatore di bordo Pilota</td><td></td><td></td><td></td><td></td><td></td><td>26</td><td></td><td></td><td></td><td colspan="5"></td><td colspan="5">12</td><td colspan="3"></td></tr>
-<tr><td></td><td></td><td></td><td>Pilota di droni Operatore di droni</td><td></td><td></td><td></td><td></td><td></td><td>26</td><td>19</td><td></td><td></td><td colspan="5"></td><td colspan="5">12</td><td colspan="3"></td></tr>
-<tr><td></td><td></td><td></td><td>Aiuto di comando di corpi di truppa</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>12–31\*</td><td colspan="5">0–19\*</td><td colspan="5">12–16\*</td><td colspan="3"></td></tr>
-<tr><td></td><td></td><td></td><td>Aiuto di comando a livello di Grande Unità</td><td></td><td></td><td></td><td></td><td></td><td></td><td>0–21</td><td></td><td></td><td colspan="5"></td><td colspan="5"></td><td colspan="3">19–38\*</td></tr>
-<tr><td></td><td></td><td></td><td>Medico di battaglione Medico di gruppo Capo medicina</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>12–33\*</td><td colspan="5">5</td><td colspan="5">12</td><td colspan="3"></td></tr>
-<tr><td></td><td></td><td></td><td>Farmacista Veterinario</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>12</td><td colspan="5"></td><td colspan="5">12</td><td colspan="3"></td></tr>
-<tr><td></td><td></td><td></td><td>Capo dei servizi della Musica militare</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>12</td><td colspan="5">12</td><td colspan="5">26</td><td colspan="3"></td></tr>
-<tr><td>5.1</td><td>I ten</td><td>Cap</td><td>Quartiermastro</td><td colspan="22">Dopo aver conseguito il grado di primotenente non devono essere prestati altri servizi d’istruzione dei quadri.</td></tr>
+<tr><th>Carriera nell’ambito dell’istruzione dei quadri</th><th>Grado attuale</th><th>Grado futuro</th><th>Funzione</th><th colspan="9">Servizi d’istruzione dei quadri</th><th colspan="2"></th><th></th><th></th><th></th><th colspan="2"></th><th></th><th></th><th></th><th colspan="2"></th><th></th><th></th></tr>
+<tr><th></th><th></th><th></th><th></th><th>Scuola ufficiali</th><th>Corso speciale per granatieri e esploratori paracadutisti</th><th>Scuola ufficiali per medici militari</th><th>Corso per quadri veterinari</th><th>Corso preparatorio dei quadri e servizio pratico in una scuola reclute, nelle regioni o negli ambiti della sanità militare</th><th>Corso di formazione alla condotta di unità</th><th>Corso di formazione tecnica</th><th>Corso preparatorio dei quadri e servizio pratico in una scuola reclute</th><th colspan="2">Corso di formazione alla condotta di corpi di truppa</th><th colspan="5">Corso di formazione tecnica</th><th colspan="5">Servizio pratico in servizi d’istruzione delle formazioni</th><th colspan="3">Corso di formazione alla condotta di Grandi Unità</th></tr>
+<tr><td>4.0</td><td>Suff Suff sup</td><td>Ten</td><td>Caposezione</td><td>103</td><td></td><td></td><td></td><td>131</td><td></td><td></td><td></td><td colspan="2"></td><td colspan="5"></td><td colspan="5"></td><td colspan="3"></td></tr>
+<tr><td></td><td></td><td></td><td>Caposezione granatiere Caposezione esploratore paracadutista Caposezione funzioni forze speciali</td><td>75</td><td>26–73\*\*</td><td></td><td></td><td>124</td><td></td><td></td><td></td><td colspan="2"></td><td colspan="5"></td><td colspan="5"></td><td colspan="3"></td></tr>
+<tr><td></td><td>Suff Sgtm capo</td><td></td><td>Quartiermastro</td><td>103</td><td></td><td></td><td></td><td>131</td><td></td><td></td><td></td><td colspan="2"></td><td colspan="5"></td><td colspan="5"></td><td colspan="3"></td></tr>
+<tr><td></td><td>Fur</td><td></td><td>Quartiermastro</td><td>103</td><td></td><td></td><td></td><td>0-131\*</td><td></td><td></td><td></td><td colspan="2"></td><td colspan="5"></td><td colspan="5"></td><td colspan="3"></td></tr>
+<tr><td></td><td>Sdt</td><td></td><td>Medico militare Farmacista</td><td></td><td></td><td>54</td><td></td><td>82</td><td colspan="18">I soldati che hanno assolto la SR e che studiano medicina umana svolgono una SSU med mil di 40 giorni</td></tr>
+<tr><td></td><td></td><td></td><td>Dentista</td><td></td><td></td><td>54</td><td></td><td>164</td><td></td><td></td><td></td><td colspan="2"></td><td colspan="5"></td><td colspan="5"></td><td colspan="3"></td></tr>
+<tr><td></td><td></td><td></td><td>Veterinario</td><td>54</td><td></td><td></td><td>96</td><td>96</td><td></td><td></td><td></td><td colspan="2"></td><td colspan="5"></td><td colspan="5"></td><td colspan="3"></td></tr>
+<tr><td>4.1</td><td>Suff Suff sup</td><td>Ten I ten</td><td>Ufficiale subalterno in stati maggiori dei corpi di truppa o delle Grandi Unità oppure in stati maggiori speciali</td><td>103</td><td></td><td></td><td></td><td>0-131</td><td></td><td></td><td></td><td colspan="2">0-19</td><td colspan="5">0-19</td><td colspan="5">0-12</td><td colspan="3">0-19</td></tr>
+<tr><td>4.2</td><td>Ten</td><td>I ten</td><td>Tutte le funzioni</td><td colspan="23">Dopo aver conseguito il grado di tenente non devono essere prestati altri servizi d’istruzione dei quadri.</td></tr>
+<tr><td>5.0</td><td>Ten I ten</td><td>Cap</td><td>Comandante d’unità</td><td></td><td></td><td></td><td></td><td></td><td>26</td><td>5–26\*</td><td>132</td><td colspan="2"></td><td colspan="5"></td><td colspan="5"></td><td colspan="3"></td></tr>
+<tr><td></td><td></td><td></td><td>Operatore di bordo Pilota</td><td></td><td></td><td></td><td></td><td></td><td>26</td><td></td><td></td><td colspan="2"></td><td colspan="5"></td><td colspan="5">12</td><td colspan="3"></td></tr>
+<tr><td></td><td></td><td></td><td>Pilota di droni Operatore di droni</td><td></td><td></td><td></td><td></td><td></td><td>26</td><td>19</td><td></td><td colspan="2"></td><td colspan="5"></td><td colspan="5">12</td><td colspan="3"></td></tr>
+<tr><td></td><td></td><td></td><td>Aiuto di comando d’unità/di distaccamento</td><td></td><td></td><td></td><td></td><td></td><td>0-26</td><td>0-12</td><td></td><td colspan="2">0-31</td><td colspan="5">0-19</td><td colspan="5"></td><td colspan="3"></td></tr>
+<tr><td></td><td></td><td></td><td>Aiuto di comando di corpi di truppa</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2">12–33\*</td><td colspan="5">0–19\*</td><td colspan="5">0–16\*</td><td colspan="3"></td></tr>
+<tr><td></td><td></td><td></td><td>Aiuto di comando a livello di Grande Unità.</td><td></td><td></td><td></td><td></td><td></td><td></td><td>0–21</td><td></td><td colspan="2"></td><td colspan="5"></td><td colspan="5"></td><td colspan="3">19–38\*</td></tr>
+<tr><td></td><td></td><td></td><td>Medico di battaglione Medico di gruppo Capo medicina</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2">12–33\*</td><td colspan="5">5</td><td colspan="5">12</td><td colspan="3"></td></tr>
+<tr><td></td><td></td><td></td><td>Farmacista Veterinario Specialista di lingue Capo distaccamento Ispettorato delle derrate alimentari</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2">12</td><td colspan="5"></td><td colspan="5">12</td><td colspan="3"></td></tr>
+<tr><td></td><td></td><td></td><td>Capo dei servizi della musica militare</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2">12</td><td colspan="5">12</td><td colspan="5">26</td><td colspan="3"></td></tr>
+<tr><td></td><td></td><td></td><td>Cappellano militare Assistente sociale Specialista Servizio psicopedagogico dell’esercito</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="5">0–40</td><td colspan="5"></td><td colspan="3"></td></tr>
+<tr><td>5.1</td><td>I ten</td><td>Cap</td><td>Quartiermastro</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2">12</td><td colspan="5"></td><td colspan="5">12</td><td colspan="3"></td></tr>
 </table>
 
 <table>
-<tr><th>Carriera nell’ambito dell’istruzione dei quadri</th><th>Grado attuale</th><th>Grado futuro</th><th>Funzione</th><th colspan="6">Servizi d’istruzione dei quadri</th><th></th><th></th><th colspan="2"></th><th></th><th></th><th></th><th>Osservazione</th></tr>
-<tr><th></th><th></th><th></th><th></th><th>Fü Corso di formazione alla condotta di corpi di truppa</th><th>Corso di formazione tecnica</th><th>Servizio pratico in servizi d’istruzione delle formazioni</th><th>Corso di formazione tecnica II</th><th>Servizio pratico in servizi d’istruzione delle formazioni</th><th colspan="4">Corso di formazione tecnica B</th><th colspan="4">Corso di formazione alla condotta di Grandi Unità</th><th></th></tr>
-<tr><td>5.2</td><td>Cap</td><td>Cap/ magg</td><td>Con funzione invariata, con assunzione di una nuova unità in qualità di comandante</td><td></td><td>0–26\*</td><td></td><td></td><td></td><td colspan="4"></td><td colspan="4"></td><td>Dopo il 3° anno di esercizio della funzione con il grado di cap, con il consenso dell’interessato e del datore di lavoro</td></tr>
-<tr><td>5.3</td><td></td><td></td><td>Con funzione invariata in una compagnia di stato maggiore o in una compagnia della logistica (esclusi i battaglioni della logistica), in una batteria di direzione del fuoco o in una batteria della logistica (esclusi i battaglioni della logistica)</td><td></td><td></td><td></td><td></td><td></td><td colspan="4"></td><td colspan="4"></td><td></td></tr>
-<tr><td>5.4</td><td></td><td></td><td>Con funzione invariata in qualità di aiuto di comando in stati maggiori dei corpi di truppa</td><td>12–31\*</td><td>0–19\*</td><td>12–16\*</td><td></td><td></td><td colspan="4"></td><td colspan="4"></td><td></td></tr>
-<tr><td>5.5</td><td></td><td></td><td>Con funzione invariata in qualità di aiuto di comando in stati maggiori delle Grandi Unità</td><td></td><td>0–21\*</td><td></td><td></td><td></td><td colspan="4"></td><td colspan="4">19–38\*</td><td></td></tr>
-<tr><td>5.6</td><td></td><td></td><td>Con funzione invariata in qualità di aiuto di comando in stati maggiori particolari</td><td>12–31\*</td><td>0–19\*</td><td>12–16\*</td><td></td><td></td><td colspan="4"></td><td colspan="4"></td><td></td></tr>
-<tr><td>6.0</td><td>Cap</td><td>Magg</td><td>Aiuto di comando di corpi di truppa (sostituto del comandante, capo Impiego S3)</td><td>33</td><td></td><td></td><td>12–19\*</td><td>16</td><td colspan="4"></td><td colspan="4"></td><td>a partire dalla funzione di comandante d’unità</td></tr>
-<tr><td></td><td></td><td></td><td>Aiuto di comando di corpi di truppa</td><td>12–31\*</td><td>0–19\*</td><td>12–16\*</td><td></td><td></td><td colspan="4"></td><td colspan="4"></td><td>a partire dalla funzione di caposezione</td></tr>
-<tr><td></td><td></td><td></td><td></td><td>12–31\*</td><td>0–19\*</td><td>12–16\*</td><td>0–19\*</td><td></td><td colspan="4"></td><td colspan="4"></td><td>a partire dalla funzione di comandante d’unità</td></tr>
-<tr><td></td><td></td><td></td><td>Aiuto di comando a livello di Grande Unità Quartiermastro</td><td></td><td></td><td></td><td></td><td></td><td colspan="4">0–21\*</td><td colspan="4">19–38\*</td><td></td></tr>
-<tr><td></td><td></td><td></td><td>Comandante di squadriglia</td><td>33</td><td></td><td>26</td><td></td><td></td><td colspan="4"></td><td colspan="4"></td><td>a partire dalla funzione di pilota</td></tr>
-<tr><td></td><td></td><td></td><td>Capo medicina Capo del distaccamento Ispettorato delle derrate alimentari Capo veterinario animali dell’esercito</td><td colspan="13">Dopo aver conseguito il grado di capitano non devono essere prestati altri servizi d’istruzione dei quadri.</td><td></td></tr>
-<tr><td></td><td></td><td></td><td>Capo del servizio veterinario</td><td>12</td><td></td><td></td><td></td><td></td><td colspan="4">5</td><td colspan="4">19</td><td></td></tr>
-<tr><td>6.1</td><td>Magg</td><td>Ten col</td><td>Comandante di corpo di truppa</td><td></td><td></td><td></td><td>5–19\*</td><td>16</td><td colspan="4"></td><td colspan="4"></td><td></td></tr>
-<tr><td></td><td></td><td></td><td>Comandante di squadra</td><td></td><td></td><td></td><td>12</td><td></td><td colspan="4"></td><td colspan="4"></td><td></td></tr>
-<tr><td></td><td></td><td></td><td>Aiuto di comando a livello di Grande Unità</td><td></td><td></td><td></td><td></td><td></td><td colspan="4">0–21\*</td><td colspan="4">0–38\*</td><td></td></tr>
-<tr><td></td><td></td><td></td><td>Medico Grande Unità Capo farmacia</td><td></td><td></td><td></td><td></td><td></td><td colspan="4">5</td><td colspan="4">31</td><td></td></tr>
-<tr><td></td><td></td><td></td><td>Capo servizio veterinario di corpi di truppa</td><td colspan="13">Dopo aver conseguito il grado di maggiore non devono essere prestati altri servizi d’istruzione dei quadri.</td><td></td></tr>
+<tr><th>Carriera nell’ambito dell’istruzione dei quadri</th><th>Grado attuale</th><th>Grado futuro</th><th colspan="3">Funzione</th><th colspan="6">Servizi d’istruzione dei quadri</th><th></th><th></th><th colspan="3"></th><th></th><th></th><th></th><th colspan="7">Osservazione</th></tr>
+<tr><th></th><th></th><th></th><th colspan="3"></th><th>Corso di formazione alla condotta di corpi di truppa</th><th>Corso di formazione tecnica</th><th>Servizio pratico in servizi d’istruzione delle formazioni</th><th>Corso di formazione tecnica corpo di truppa</th><th>Servizio pratico in servizi d’istruzione delle formazioni</th><th colspan="4">Corso di formazione tecnica Grande Unità</th><th colspan="5">Corso di formazione alla condotta di Grandi Unità</th><th colspan="7"></th></tr>
+<tr><td>5.2</td><td>Cap</td><td>Cap/ magg in un posto di cap OCTF</td><td colspan="3">Con assunzione di una seconda unità in qualità di comandante.</td><td></td><td>0–26\*</td><td></td><td></td><td></td><td colspan="4"></td><td colspan="5"></td><td colspan="7">Dopo il 3° CR come cdt U, con il consenso dell’interessato e del datore di lavoro</td></tr>
+<tr><td>5.3</td><td></td><td></td><td colspan="3">Con funzione invariata in una compagnia di stato maggiore o in una compagnia della logistica (esclusi i battaglioni della logistica), in una batteria di direzione del fuoco o in una batteria della logistica (esclusi i battaglioni della logistica)</td><td></td><td></td><td></td><td></td><td></td><td colspan="4"></td><td colspan="5"></td><td colspan="7"></td></tr>
+<tr><td>5.4</td><td></td><td></td><td colspan="3">Come aiuto di comando in stati maggiori di corpi di truppa</td><td>12–33\*</td><td>0–19\*</td><td>12–16\*</td><td></td><td></td><td colspan="4"></td><td colspan="5"></td><td colspan="7"></td></tr>
+<tr><td>5.5</td><td></td><td></td><td colspan="3">Come aiuto di comando in stati maggiori di Grandi Unità</td><td></td><td>0–21\*</td><td></td><td></td><td></td><td colspan="4"></td><td colspan="5">19–38\*</td><td colspan="7"></td></tr>
+<tr><td>5.6</td><td></td><td></td><td colspan="3">Come aiuto di comando in stati maggiori speciali</td><td>12–33\*</td><td>0–19\*</td><td>12–16\*</td><td></td><td></td><td colspan="4"></td><td colspan="5"></td><td colspan="7"></td></tr>
+<tr><td>6.0</td><td>Cap</td><td>Magg</td><td colspan="3">Aiuto di comando di corpi di truppa (sostituto del comandante, capo impiego S3)</td><td>33</td><td></td><td></td><td>12–19\*</td><td>16</td><td colspan="4"></td><td colspan="5"></td><td colspan="7">A partire dalla funzione di comandante d’unità</td></tr>
+<tr><td></td><td></td><td></td><td colspan="3">Aiuto di comando di corpi di truppa</td><td>0–33\*</td><td>0–19\*</td><td>0–16\*</td><td>0–19\*</td><td></td><td colspan="4">0–19\*</td><td colspan="5">0–38\*</td><td colspan="7"></td></tr>
+<tr><td></td><td></td><td></td><td colspan="3">Aiuto di comando a livello di Grande Unità</td><td></td><td></td><td></td><td></td><td></td><td colspan="4">0–19\*</td><td colspan="5">0–38\*</td><td colspan="7"></td></tr>
+<tr><td></td><td></td><td></td><td colspan="3">Consulente di psicologia della truppa</td><td></td><td>12-40</td><td></td><td></td><td></td><td colspan="4"></td><td colspan="5"></td><td colspan="7"></td></tr>
+<tr><td></td><td></td><td></td><td colspan="3">Comandante di squadriglia</td><td>33</td><td></td><td>26</td><td></td><td></td><td colspan="4"></td><td colspan="5"></td><td colspan="7">A partire dalla funzione di pilota</td></tr>
+<tr><td></td><td></td><td></td><td colspan="3">Capo medicina Capo del distaccamento Ispettorato delle derrate alimentari Capo veterinario animali dell’esercito</td><td colspan="14">Dopo aver conseguito il grado di capitano non devono essere prestati altri servizi d’istruzione dei quadri.</td><td colspan="7"></td></tr>
+<tr><td></td><td></td><td></td><td colspan="3">Capo del servizio veterinario</td><td>12</td><td></td><td></td><td></td><td></td><td colspan="4">5</td><td colspan="5">19</td><td colspan="7"></td></tr>
+<tr><td>6.1</td><td>Magg</td><td>Ten col</td><td colspan="3">Comandante di corpo di truppa</td><td></td><td></td><td></td><td>5–19\*</td><td>16</td><td colspan="4"></td><td colspan="5"></td><td colspan="7"></td></tr>
+<tr><td></td><td></td><td></td><td colspan="3">Comandante di squadra</td><td></td><td></td><td></td><td>12</td><td></td><td colspan="4"></td><td colspan="5"></td><td colspan="7"></td></tr>
+<tr><td></td><td></td><td></td><td colspan="3">Aiuto di comando a livello di Grande Unità</td><td></td><td></td><td></td><td></td><td></td><td colspan="4">0–19\*</td><td colspan="5">0–38\*</td><td colspan="7"></td></tr>
+<tr><td></td><td></td><td></td><td colspan="3">Aiuto di comando di corpi di truppa</td><td></td><td></td><td></td><td>0-12</td><td></td><td colspan="4"></td><td colspan="5">0–38\*</td><td colspan="7"></td></tr>
+<tr><td></td><td></td><td></td><td colspan="3">Medico Grande Unità Capo farmacia</td><td></td><td></td><td></td><td></td><td></td><td colspan="4">5</td><td colspan="5">31</td><td colspan="7"></td></tr>
+<tr><td></td><td></td><td></td><td colspan="3">Capo servizio veterinario di corpi di truppa</td><td colspan="14">Dopo aver conseguito il grado di maggiore non devono essere prestati altri servizi d’istruzione dei quadri.</td><td colspan="7"></td></tr>
+<tr><td>6.2</td><td>Ten col</td><td>Col</td><td colspan="3">Sostituto comandante di Grande Unità Aiuto di comando a livello di Grande Unità</td><td></td><td></td><td></td><td></td><td></td><td colspan="4">0–19\*</td><td colspan="5">0–38\*</td><td colspan="7"></td></tr>
+<tr><td></td><td></td><td></td><td colspan="3">Comandante di corpo di truppa Aiuto di comando di corpi di truppa</td><td>0–31\*</td><td></td><td></td><td>0–19\*</td><td>0–16\*</td><td colspan="4"></td><td colspan="5"></td><td colspan="7"></td></tr>
+<tr><th>Carriera nell’ambito dell’istruzione dei quadri</th><th colspan="3">Grado attuale</th><th>Grado futuro</th><th colspan="5">Funzione</th><th colspan="6">Servizi d’istruzione dei quadri</th><th colspan="8">Servizi d’istruzione supplementare dei quadri</th><th></th><th></th><th></th></tr>
+<tr><th></th><th colspan="3"></th><th></th><th colspan="5"></th><th colspan="6"></th><th colspan="5">Esame d’idoneità e corso d’introduzione</th><th>Corso di formazione di stato maggiore generale I e II</th><th>Corso di formazione di stato maggiore generale III/1 e III/2</th><th colspan="4">Corso di formazione di stato maggiore generale IV e V</th></tr>
+<tr><td>7.0</td><td colspan="3">Cap / magg</td><td>Magg SMG</td><td colspan="5"></td><td colspan="6"></td><td colspan="5">5</td><td>52</td><td></td><td colspan="4"></td></tr>
+<tr><td>7.1</td><td colspan="3">Magg SMG</td><td>Ten col SMG</td><td colspan="5"></td><td colspan="6"></td><td colspan="5"></td><td></td><td>24</td><td colspan="4"></td></tr>
+<tr><td>7.2</td><td colspan="3">Ten col SMG/col SMG</td><td>Ten col SMG/col SMG</td><td colspan="5"></td><td colspan="6"></td><td colspan="5"></td><td></td><td></td><td colspan="4">19–38\*</td></tr>
 </table>
 
 <table>
-<tr><td>Carriera nell’ambito dell’istruzione dei quadri</td><td>Grado attuale</td><td>Grado futuro</td><td>Funzione</td><td>Servizi d’istruzione dei quadri</td><td colspan="4">Servizi d’istruzione supplementari dei quadri</td><td></td><td></td><td></td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>Esame d’idoneità e corso d’introduzione</td><td>Corso di formazione di stato maggiore generale I e II</td><td>Corso di formazione di stato maggiore generale III/1 e III/2</td><td colspan="4">Corso di formazione di stato maggiore generale IV e V</td></tr>
-<tr><td>6.2</td><td>Ten col</td><td>Col</td><td>Aiuto di comando a livello di Grande Unità Medico di divisione Capo servizio sanitario Capo farmacia Capo Ispettorato delle derrate alimentari Capo servizio veterinario a livello di Grande Unità</td><td>Dopo aver conseguito il grado di tenente colonnello non devono essere prestati altri servizi d’istruzione dei quadri.</td><td></td><td></td><td></td><td colspan="4"></td></tr>
-<tr><td>7.0</td><td>Cap / magg</td><td>Magg SMG</td><td></td><td></td><td>5</td><td>52</td><td></td><td colspan="4"></td></tr>
-<tr><td>7.1</td><td>Magg SMG</td><td>Ten col SMG</td><td></td><td></td><td></td><td></td><td>24</td><td colspan="4"></td></tr>
-<tr><td>7.2</td><td>Ten col SMG / col SMG</td><td>Ten col SMG / col SMG</td><td></td><td></td><td></td><td></td><td></td><td colspan="4">19–38\*</td></tr>
+<tr><td>Legenda \* Durata del servizio d’istruzione dei quadri dipendente dalla funzione \*\* Gli aspiranti granatieri e gli aspiranti esploratori paracadutisti che hanno ricevuto la proposta durante il servizio di perfezionamento della truppa assolvono un corso speciale della scuola sottufficiali granatieri e esploratori paracadutisti</td><td>I ten Primotenente Aiut suff Aiutante sottufficiale Aiut capo Aiutante capo Aiut magg Aiutante maggiore Aiut SM Aiutante di stato maggiore App Appuntato Cap Capitano Fur Furiere Magg Maggiore Recl Recluta Sdt Soldato</td><td>Sgt Sergente Sgt capo Sergente capo Sgtm Sergente maggiore Sgtm capo Sergente maggiore capo SMG di stato maggiore generale Suff Sottufficiale Suff sup Sottufficiale superiore Ten Tenente Ten col Tenente colonnello</td></tr>
 </table>
 
-<table>
-<tr><td>Legenda: \* Durata del servizio d’istruzione dei quadri dipendente dalla funzione \*\* Gli aspiranti granatieri e gli aspiranti esploratori paracadutisti che hanno ricevuto la proposta durante il servizio di perfezionamento della truppa assolvono un corso preliminare della scuola sottufficiali granatieri o della scuola sottufficiali esploratori paracadutisti</td><td>Aiut capo Aiutante capo Aiut magg Aiutante maggiore Aiut SM Aiutante di stato maggiore Aiut suff Aiutante sottufficiale App Appuntato Cap Capitano Col Colonnello Fur Furiere I ten Primotenente Magg Maggiore Recl Recluta Sdt Soldato Sgt capo Sergente capo Sgt Sergente</td><td>Sgtm Sergente maggiore Sgtm capo Sergente maggiore capo SMG di stato maggiore generale Suff Sottufficiale Suff sup Sottufficiale superiore Ten Tenente Ten col Tenente colonnello</td></tr>
-</table>
-
-Allegato 3*[^t-3]*
+Allegato 3[^t-3]
 
 (art. 71 cpv. 2 e 78 cpv. 1)
 
 ## Premesse temporali per la proposta e la promozione nonché competenze per le promozioni
 
-[^t-3]: Nuovo testo giusta il n. II cpv. 1 dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
+[^t-3]: Nuovo testo giusta il n. II cpv. 1 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 <table>
-<tr><th>Carriera nell’ambito dell’istruzione dei quadri</th><th>Grado attuale</th><th>Grado futuro</th><th>Funzione</th><th colspan="7">Assegnazione della proposta<sup>1</sup></th><th></th><th></th><th colspan="2">Promozione</th><th></th><th colspan="2"></th><th>Osservazioni</th></tr>
-<tr><th></th><th></th><th></th><th></th><th colspan="3">Occasione</th><th></th><th></th><th>Numero minimo di corsi di ripetizione prestati o anni di servizio con l’ultimo grado conseguito</th><th colspan="3">Anni di età fino al cui compimento può essere assegnata la proposta</th><th>Età minima</th><th colspan="3">Momento</th><th>Da parte di</th><th></th></tr>
-<tr><th></th><th></th><th></th><th></th><th>Corso di ripetizione (CR)</th><th>Servizio d’istruzione di base</th><th colspan="3">Servizio d’istruzione dei quadri</th><th></th><th colspan="3"></th><th></th><th colspan="3"></th><th></th><th></th></tr>
-<tr><td>1.0</td><td>Recl</td><td>Sdt</td><td>Tutte le funzioni</td><td></td><td></td><td colspan="3"></td><td></td><td colspan="3"></td><td>18</td><td colspan="3">Scuola reclute</td><td>Cdt U SIB</td><td>Età per la promozione: fino al compimento del 25° anno di età</td></tr>
-<tr><td>1.1</td><td>Sdt</td><td>App</td><td>Tutte le funzioni</td><td>X</td><td></td><td colspan="3"></td><td>1 CR</td><td colspan="3">–</td><td>–</td><td colspan="3">CR\*</td><td>Cdt U</td><td>Promozione al più presto: – dopo il 1° CR – a partire da 20 giorni di SIF MFC</td></tr>
-<tr><td>2.0</td><td>Sdt App</td><td>Sgt</td><td>Capogruppo Capocucina</td><td>X</td><td>X</td><td colspan="3"></td><td></td><td colspan="3">28</td><td>–</td><td colspan="3">Scuola sottufficiali\*</td><td>Cdt SIQ</td><td></td></tr>
-<tr><td>2.1</td><td>Sgt</td><td>Sgt capo</td><td>Sostituto del caposezione</td><td>X</td><td></td><td colspan="3"></td><td>2 CR</td><td colspan="3">29</td><td>–</td><td colspan="3">CR\*</td><td>Cdt U</td><td>Promozione al più presto: – dopo il 2° CR – a partire da 50 giorni di SIF MFC</td></tr>
-<tr><td>3.0</td><td>Sgt Sgt capo</td><td>Sgtm</td><td></td><td>X</td><td></td><td colspan="3">X</td><td>2 CR in caso di assegnazione della proposta nell’ambito del CR</td><td colspan="3">31</td><td>–</td><td colspan="3">Corso di formazione tecnica\*</td><td>Cdt SIQ</td><td></td></tr>
-<tr><td>3.1</td><td>Sgt Sgt capo Sgtm</td><td>Fur</td><td>Furiere</td><td>X</td><td></td><td colspan="3">X</td><td>2 CR in caso di assegnazione della proposta nell’ambito del CR</td><td colspan="3">30</td><td>–</td><td colspan="3">Corso di formazione per sottufficiali superiori\*</td><td></td><td></td></tr>
-<tr><td>3.2</td><td></td><td>Sgtm capo</td><td>Sergente maggiore d’unità</td><td>X</td><td></td><td colspan="3">X</td><td>2 CR in caso di assegnazione della proposta nell’ambito del CR</td><td colspan="3">30</td><td>–</td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>3.3</td><td>Sgtm Fur Sgtm capo</td><td>Aiut suff</td><td></td><td>X</td><td></td><td colspan="3"></td><td>1 CR</td><td colspan="3">30</td><td>–</td><td colspan="3">Corso di formazione tecnica\*</td><td></td><td></td></tr>
-<tr><td>3.4</td><td>Sgtm Fur Sgtm capo Aiut suff</td><td>Aiut SM</td><td></td><td>X</td><td></td><td colspan="3"></td><td>2 CR</td><td colspan="3">36</td><td>25</td><td colspan="3">Servizio pratico nel SIF\*\*</td><td>CEs</td><td></td></tr>
-<tr><td>3.5</td><td>Aiut SM</td><td>Aiut magg</td><td></td><td>X</td><td></td><td colspan="3"></td><td>4 CR</td><td colspan="3">44</td><td>32</td><td colspan="3">Corso di formazione alla condotta di Grandi Unità\*\*</td><td></td><td></td></tr>
-<tr><td>3.6</td><td>Aiut magg</td><td>Aiut capo</td><td></td><td>X</td><td></td><td colspan="3"></td><td>4 anni di servizio</td><td colspan="3">50</td><td>38</td><td colspan="3">\*\*</td><td></td><td></td></tr>
-<tr><td>4.0</td><td>Suff e suff sup</td><td>Ten</td><td>Caposezione Quartiermastro</td><td>X</td><td></td><td colspan="3">X</td><td>2 CR in caso di assegnazione della proposta nell’ambito del CR</td><td colspan="3">33</td><td>–</td><td colspan="3">Scuola ufficiali o corso speciale granatieri e esploratori paracadutisti\*</td><td></td><td></td></tr>
-<tr><td>4.1</td><td>Ten</td><td>I ten</td><td>Caposezione</td><td>X</td><td></td><td colspan="3"></td><td>2 CR</td><td colspan="3">34</td><td>–</td><td colspan="3">CR\*\* o durante il SIF MFC (nessuna promozione trimestrale)</td><td>Capo DDPS</td><td>Promozione al più presto: – dopo il 3° CR o – a partire da 70 giorni di SIF MFC Promozione senza proposta: – dopo 6° CR o – 140 giorni SIF MFC</td></tr>
-<tr><td></td><td></td><td></td><td>Quartiermastro</td><td></td><td></td><td colspan="3">X</td><td></td><td colspan="3"></td><td>–</td><td colspan="3">Dopo il servizio pratico nel SIF (nessuna promozione trimestrale)</td><td></td><td></td></tr>
-<tr><td>5.0</td><td>Ten I ten</td><td>Cap</td><td>Medico di battaglione Medico di gruppo</td><td>X</td><td></td><td colspan="3"></td><td>1 CR</td><td colspan="3">36</td><td>–</td><td colspan="3">CR\*\*</td><td>Capo DDPS</td><td></td></tr>
-<tr><td></td><td></td><td></td><td>Comandante d’unità</td><td>X</td><td></td><td colspan="3"></td><td>2 CR, ossia al più presto alla fine del 3° CR con contemporanea proposta di promozione al grado di I ten</td><td colspan="3">36</td><td>–</td><td colspan="3">Servizio pratico nella scuola reclute\*\*</td><td></td><td></td></tr>
-<tr><td></td><td></td><td></td><td>Aiuto di comando di corpi di truppa o a livello di Grande Unità</td><td>X</td><td></td><td colspan="3"></td><td></td><td colspan="3">36</td><td>–</td><td colspan="3">Servizio pratico nel SIF\*\*</td><td></td><td></td></tr>
-<tr><td>5.1</td><td>I ten</td><td>Cap</td><td>Quartiermastro</td><td>X</td><td></td><td colspan="3"></td><td>3 CR</td><td colspan="3">36</td><td>–</td><td colspan="3">CR\*\*</td><td></td><td></td></tr>
-<tr><td>6.0</td><td>Cap</td><td>Magg</td><td>Quartiermastro</td><td>X</td><td></td><td colspan="3"></td><td></td><td colspan="3"></td><td>32</td><td colspan="3">Corso di formazione alla condotta di Grandi Unità\*\*</td><td>Capo DDPS</td><td>Condizione: almeno 8 anni come ufficiale</td></tr>
-<tr><td></td><td></td><td></td><td>Aiuto di comando di corpi di truppa</td><td>X</td><td></td><td colspan="3"></td><td>3 CR</td><td colspan="3"></td><td>32</td><td colspan="3">\*\*</td><td></td><td></td></tr>
-<tr><td></td><td></td><td></td><td></td><td>X</td><td></td><td colspan="3"></td><td>3 CR</td><td colspan="3"></td><td>–</td><td colspan="3">Servizio pratico nel SIF\*\*</td><td></td><td>A partire dalla funzione di comandante d’unità</td></tr>
-<tr><td></td><td></td><td></td><td>Aiuto di comando a livello di Grande Unità</td><td>X</td><td></td><td colspan="3"></td><td></td><td colspan="3"></td><td>32</td><td colspan="3">Corso di formazione alla condotta di Grandi Unità\*\*</td><td></td><td>Condizione: almeno 3 anni quale comandante d’unità o aiuto di comando di corpi di truppa e almeno 8 anni quale ufficiale</td></tr>
-<tr><td>6.1</td><td>Magg</td><td>Ten col</td><td>Comandante di corpo di truppa</td><td>X</td><td></td><td colspan="3"></td><td>A partire dalla funzione di comandante d’unità: almeno 2 CR quale sostituto del comandante del corpo di truppa o S3, ad eccezione degli ufficiali di stato maggiore generale</td><td colspan="3"></td><td>38</td><td colspan="3">\*\*</td><td></td><td></td></tr>
-<tr><td></td><td></td><td></td><td>Aiuto di comando a livello di Grande Unità</td><td>X</td><td></td><td colspan="3"></td><td></td><td colspan="3"></td><td>38</td><td colspan="3">\*\*</td><td></td><td></td></tr>
-<tr><td>6.2</td><td>Ten col</td><td>Col</td><td>Aiuto di comando a livello di Grande Unità</td><td>X</td><td></td><td colspan="3"></td><td>La funzione di sostituto del comandante di Grande Unità è possibile solo per gli ex comandanti di corpi di truppa</td><td colspan="3"></td><td>42</td><td colspan="3">\*\*</td><td>Capo DDPS</td><td></td></tr>
+<tr><th>Carriera nell’ambito dell’istruzione dei quadri</th><th>Grado attuale</th><th>Grado futuro</th><th>Funzione</th><th colspan="8">Assegnazione della proposta1</th><th></th><th colspan="2"></th><th></th><th></th><th></th><th colspan="2">Promozione</th><th></th><th colspan="2"></th><th>Osservazioni</th></tr>
+<tr><th></th><th></th><th></th><th></th><th colspan="3">Occasione</th><th colspan="2"></th><th></th><th></th><th colspan="3">Servizi necessari nell’ultimo grado conseguito, la proposta non può essere assegnata prima di aver concluso questi servizi</th><th colspan="4">Anni di età fino al cui compimento può essere assegnata la proposta</th><th>Età minima</th><th colspan="3">Momento</th><th>Da parte di</th><th></th></tr>
+<tr><th></th><th></th><th></th><th></th><th>Corso di ripetizione (CR)</th><th>Servizio d’istruzione di base</th><th colspan="2">Servizio di promovimento della pace</th><th colspan="3">Servizio d’istruzione dei quadri</th><th colspan="3"></th><th colspan="4"></th><th></th><th colspan="3"></th><th></th><th></th></tr>
+<tr><td>1.0</td><td>Recl</td><td>Sdt</td><td>Tutte le funzioni</td><td></td><td></td><td colspan="2"></td><td colspan="3"></td><td colspan="3"></td><td colspan="4"></td><td>18</td><td colspan="3">Scuole reclute</td><td>Cdt U SIB</td><td></td></tr>
+<tr><td>1.1</td><td>Sdt</td><td>App</td><td>Tutte le funzioni</td><td>X</td><td></td><td colspan="2"></td><td colspan="3"></td><td colspan="3">1 CR</td><td colspan="4">–</td><td>–</td><td colspan="3">CR\* oppure nel SIF MFC</td><td>Cdt U</td><td>Promozione al più presto: – dopo il 1° CR – a partire da 20 giorni di SIF MFC</td></tr>
+<tr><td>2.0</td><td>Sdt App</td><td>Sgt</td><td>Capogruppo Capocucina</td><td>X</td><td>X</td><td colspan="2">X</td><td colspan="3"></td><td colspan="3"></td><td colspan="4">28</td><td>–</td><td colspan="3">Scuola sottufficiali\*</td><td>Cdt SIQ</td><td>S prom pace: senza limite massimo d’età</td></tr>
+<tr><td>2.1</td><td>Sgt</td><td>Sgt capo</td><td>Sostituto del caposezione</td><td>X</td><td></td><td colspan="2"></td><td colspan="3"></td><td colspan="3">2 CR</td><td colspan="4">29</td><td>–</td><td colspan="3">CR\* oppure nel SIF MFC</td><td>Cdt U</td><td>Promozione al più presto: – dopo il 2° CR – a partire da 50 giorni di SIF MFC</td></tr>
+<tr><td>3.0</td><td>Sgt Sgt capo</td><td>Sgtm</td><td></td><td>X</td><td></td><td colspan="2"></td><td colspan="3">X</td><td colspan="3">2 CR in caso di assegnazione della proposta nell’ambito del CR</td><td colspan="4">31</td><td>–</td><td colspan="3">Corso di formazione tecnica\*</td><td>Cdt SIQ</td><td></td></tr>
+<tr><td>3.1</td><td>Sgt Sgt capo Sgtm</td><td>Fur</td><td>Furiere</td><td>X</td><td></td><td colspan="2"></td><td colspan="3">X</td><td colspan="3">2 CR in caso di assegnazione della proposta nell’ambito del CR</td><td colspan="4">30</td><td>–</td><td colspan="3">Corso di formazione per sottufficiali superiori\*</td><td></td><td></td></tr>
+<tr><td>3.2</td><td></td><td>Sgtm capo</td><td>Sergente maggiore d’unità</td><td>X</td><td></td><td colspan="2"></td><td colspan="3">X</td><td colspan="3">2 CR in caso di assegnazione della proposta nell’ambito del CR</td><td colspan="4">30</td><td>–</td><td colspan="3"></td><td></td><td></td></tr>
+<tr><td>3.3</td><td>Sgtm Fur Sgtm capo</td><td>Aiut suff</td><td></td><td>X</td><td></td><td colspan="2">X</td><td colspan="3"></td><td colspan="3">1 CR S prom pace: al più presto dopo 1 S prom pace + 1 CR</td><td colspan="4">32</td><td>–</td><td colspan="3">Corso di formazione tecnica\*</td><td></td><td>S prom pace: senza limite massimo d’età</td></tr>
+<tr><td>3.4</td><td>Sgtm Fur Sgtm capo Aiut suff</td><td>Aiut SM</td><td></td><td>X</td><td></td><td colspan="2">X</td><td colspan="3"></td><td colspan="3">2 CR S prom pace: al più presto dopo 2 S prom pace + 2 CR</td><td colspan="4">36</td><td>25</td><td colspan="3">Servizio pratico nel SIF\*\*</td><td>CEs</td><td>S prom pace: senza limite massimo d’età</td></tr>
+<tr><td>3.5</td><td>Aiut SM</td><td>Aiut magg</td><td></td><td>X</td><td></td><td colspan="2"></td><td colspan="3"></td><td colspan="3">4 CR</td><td colspan="4">44</td><td>32</td><td colspan="3">Corso di formazione alla condotta di Grandi Unità</td><td></td><td></td></tr>
+<tr><td>3.6</td><td>Aiut magg</td><td>Aiut capo</td><td></td><td>X</td><td></td><td colspan="2"></td><td colspan="3"></td><td colspan="3">4 CR</td><td colspan="4">50</td><td>38</td><td colspan="3">\*\*</td><td></td><td></td></tr>
+<tr><td>4.0</td><td>Suff e suff sup</td><td>Ten</td><td>Tutte le funzioni</td><td>X</td><td></td><td colspan="2"></td><td colspan="3">X</td><td colspan="3">2 CR in caso di assegnazione della proposta nell’ambito del CR</td><td colspan="4"></td><td>–</td><td colspan="3">Scuola ufficiali o corso speciale per granatieri e esploratori paracadutisti\*</td><td></td><td></td></tr>
+<tr><td>4.1</td><td>Ten</td><td>I ten</td><td>Tutte le funzioni</td><td>X</td><td></td><td colspan="2">X</td><td colspan="3"></td><td colspan="3">3 CR</td><td colspan="4"></td><td>–</td><td colspan="3">CR\*\* oppure nel SIF MFC</td><td>Capo DDPS</td><td>Promozione al più presto: – dopo 3 CR – a partire da 70 giorni di SIF MFC oppure – a partire da 70 giorni di S prom pace (incl ISI) Promozione senza proposta: – dopo 6 CR – 140 giorni di SIF MFC oppure – dopo 2 S prom pace</td></tr>
+<tr><td></td><td></td><td></td><td>Quartiermastro</td><td>X</td><td></td><td colspan="2"></td><td colspan="3"></td><td colspan="3">1 CR</td><td colspan="4"></td><td>–</td><td colspan="3">CR\*\*</td><td>Capo DDPS</td><td></td></tr>
+<tr><td>5.0</td><td>Ten I ten</td><td>Cap</td><td>Medico di battaglione e di gruppo</td><td>X</td><td></td><td colspan="2"></td><td colspan="3"></td><td colspan="3">1 CR con contemporanea richiesta di promozione al grado di I ten</td><td colspan="4"></td><td>–</td><td colspan="3">Servizio pratico nel SIF\*\*</td><td>Capo DDPS</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>Comandante d’unità</td><td>X</td><td></td><td colspan="2"></td><td colspan="3"></td><td colspan="3">3 CR con contemporanea richiesta di promozione al grado di I ten S prom pace: al più presto dopo 1 S prom pace + 2 CR oppure 2 S prom pace</td><td colspan="4"></td><td>–</td><td colspan="3">Servizio pratico nella scuola reclute\*\*</td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td>Specialista di lingue</td><td>X</td><td></td><td colspan="2"></td><td colspan="3"></td><td colspan="3"></td><td colspan="4"></td><td>–</td><td colspan="3">Servizio pratico nel SIF\*\*</td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td>Aiuto di comando d’unità/di distaccamento, di corpo di truppa o di Grande Unità</td><td>X</td><td></td><td colspan="2">X</td><td colspan="3"></td><td colspan="3"></td><td colspan="4"></td><td>– S prom pace: 25</td><td colspan="3">Servizio pratico nel SIF\*\*</td><td></td><td></td></tr>
+<tr><td>5.1</td><td>I ten</td><td>Cap</td><td>Quartiermastro</td><td>X</td><td></td><td colspan="2"></td><td colspan="3"></td><td colspan="3">2 CR</td><td colspan="4"></td><td>–</td><td colspan="3">CR\*\*</td><td>Capo DDPS</td><td></td></tr>
+<tr><td>6.0</td><td>Cap</td><td>Magg</td><td>Quartiermastro</td><td>X</td><td></td><td colspan="2"></td><td colspan="3"></td><td colspan="3"></td><td colspan="4"></td><td>30</td><td colspan="3">Corso di formazione alla condotta di Grandi Unità\*\*</td><td>Capo DDPS</td><td>Condizione: almeno otto anni come ufficiale</td></tr>
+<tr><td></td><td></td><td></td><td>Aiuto di comando di corpi di truppa</td><td>X</td><td></td><td colspan="2"></td><td colspan="3"></td><td colspan="3">3 CR</td><td colspan="4"></td><td>30</td><td colspan="3">\*\*</td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td>X</td><td></td><td colspan="2"></td><td colspan="3"></td><td colspan="3">3 CR</td><td colspan="4"></td><td>–</td><td colspan="3">Servizio pratico nel SIF oppure corso di formazione alla condotta\*</td><td></td><td>A partire dalla funzione di comandante d’unità</td></tr>
+<tr><td></td><td></td><td></td><td>Aiuto di comando a livello di Grande Unità</td><td>X</td><td></td><td colspan="2">X</td><td colspan="3"></td><td colspan="3">S prom pace: al più presto dopo 2 S prom pace + 2 CR</td><td colspan="4"></td><td>30 S prom pace: 32</td><td colspan="3">Corso di formazione alla condotta di Grandi Unità\*\* S prom pace: servizio pratico nel SIF\*\*</td><td></td><td>Condizione: almeno 3 CR come comandante d’unità o aiuto di comando di corpi di truppa o aiuto di comando a livello di Grande Unità e almeno 8 anni come ufficiale</td></tr>
+<tr><td>6.1</td><td>Magg</td><td>Ten col</td><td>Comandante di corpo di truppa</td><td>X</td><td></td><td colspan="2"></td><td colspan="3"></td><td colspan="3">A partire dalla funzione di comandante d’unità: almeno 2 CR quale sostituto del comandante del corpo di truppa o S3, ad eccezione degli ufficiali di stato maggiore generale</td><td colspan="4"></td><td>38</td><td colspan="3">Servizio pratico nel SIF\*\*</td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td>Aiuto di comando di corpi di truppa</td><td>X</td><td></td><td colspan="2"></td><td colspan="3"></td><td colspan="3"></td><td colspan="4"></td><td>38</td><td colspan="3">Servizio pratico nel SIF oppure corso di formazione alla condotta\*\*</td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td>Aiuto di comando a livello di Grande Unità</td><td>X</td><td></td><td colspan="2">X</td><td colspan="3"></td><td colspan="3">S prom pace: al più presto dopo 4 S prom pace + 4 CR</td><td colspan="4"></td><td>38</td><td colspan="3">Corso di formazione alla condotta di Grandi Unità\*\*</td><td></td><td></td></tr>
+<tr><td>6.2</td><td>Ten col</td><td>Col</td><td>Sostituto comandante di Grande Unità</td><td>X</td><td></td><td colspan="2"></td><td colspan="3"></td><td colspan="3"></td><td colspan="4"></td><td>42</td><td colspan="3">Corso di formazione alla condotta di Grandi Unità\*\*</td><td>Capo DDPS</td><td>Possibile solo come ex comandante di corpo di truppa</td></tr>
+<tr><td></td><td></td><td></td><td>Aiuto di comando a livello di Grande Unità</td><td>X</td><td></td><td colspan="2">X</td><td colspan="3"></td><td colspan="3">S prom pace: al più presto dopo 5 S prom pace + 5 CR</td><td colspan="4"></td><td>42</td><td colspan="3">Corso di formazione alla condotta di Grandi Unità\*\*</td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td>Comandante di corpo di truppa Aiuto di comando di corpi di truppa</td><td>X</td><td></td><td colspan="2"></td><td colspan="3"></td><td colspan="3"></td><td colspan="4"></td><td>38</td><td colspan="3">Corso di formazione tecnica, corso di formazione alla condotta di corpi di truppa o servizio pratico nel SIF\*\*</td><td></td><td></td></tr>
 </table>
 
 <table>
-<tr><th>Carriera nell’ambito dell’istruzione dei quadri</th><th>Grado attuale</th><th>Grado futuro (funzione)</th><th colspan="7">Assegnazione della proposta<sup>1</sup></th><th></th><th></th><th></th><th></th><th colspan="2">Promozione</th><th></th><th colspan="2"></th><th>Osservazioni</th></tr>
-<tr><th></th><th></th><th></th><th colspan="3">Occasione</th><th></th><th></th><th>Numero minimo di corsi di ripetizione prestati o anni di servizio con l’ultimo grado conseguito</th><th colspan="5">Anni di età fino al cui compimento può essere assegnata la proposta</th><th>Età minima</th><th colspan="3">Momento</th><th>Da parte di</th><th></th></tr>
+<tr><th>Carriera nell’ambito dell’istruzione dei quadri</th><th>Grado attuale</th><th>Grado futuro</th><th colspan="7">Assegnazione della proposta1</th><th></th><th></th><th></th><th></th><th colspan="2">Promozione</th><th></th><th colspan="2"></th><th>Osservazioni</th></tr>
+<tr><th></th><th></th><th></th><th colspan="3">Occasione</th><th></th><th></th><th>Servizi necessari nell’ultimo grado conseguito, la proposta non può essere assegnata prima di aver concluso questi servizi</th><th colspan="5">Anni di età fino al cui compimento può essere assegnata la proposta</th><th>Età minima</th><th colspan="3">Momento</th><th>Da parte di</th><th></th></tr>
 <tr><th></th><th></th><th></th><th>Corso di ripetizione (CR)</th><th>Servizio d’istruzione di base</th><th colspan="3">Servizio d’istruzione dei quadri</th><th></th><th colspan="5"></th><th></th><th colspan="3"></th><th></th><th></th></tr>
-<tr><td>7.0</td><td>Cap / magg</td><td>Magg SMG</td><td>X</td><td></td><td colspan="3"></td><td></td><td colspan="5"></td><td>30</td><td colspan="3">Corso di formazione di stato maggiore generale II\*</td><td>Capo DDPS</td><td>Almeno 3 anni quale comandante d’unità e 8 anni quale ufficiale</td></tr>
+<tr><td>7.0</td><td>Cap / magg</td><td>Magg SMG</td><td>X</td><td></td><td colspan="3"></td><td></td><td colspan="5"></td><td>30</td><td colspan="3">Corso di formazione di stato maggiore generale II\*</td><td>Capo DDPS</td><td>Almeno 3 CR come comandante d’unità o esperienza di condotta equivalente e 8 anni come ufficiale</td></tr>
 <tr><td>7.1</td><td>Magg SMG</td><td>Ten col SMG</td><td>X</td><td></td><td colspan="3"></td><td></td><td colspan="5"></td><td>37</td><td colspan="3">Corso di formazione di stato maggiore generale III/2\*\*</td><td></td><td></td></tr>
 <tr><td>7.2</td><td>Ten col SMG</td><td>Col SMG</td><td>X</td><td></td><td colspan="3"></td><td></td><td colspan="5"></td><td>42</td><td colspan="3">Corso di formazione di stato maggiore generale IV\*\* e V\*\*</td><td></td><td></td></tr>
 <tr><td colspan="3">Alti ufficiali superiori (brigadiere, divisionario, comandante di corpo)</td><td colspan="11">Approvazione da parte del capo del DDPS</td><td colspan="5">Nomina da parte del Consiglio federale</td><td></td></tr>
 </table>
 
 <table>
-<tr><td>Legenda: 1 Le condizioni per l’assegnazione della proposta non si applicano al personale militare \* Promozione durante il servizio d’istruzione, dal punto di vista amministrativo per il primo giorno successivo al servizio d’istruzione compiuto \*\* Promozione in seguito a promozione trimestrale per 01.01/01.04/01.07/01.10 con incorporazione nella funzione [tab] Aiut capo Aiutante capo Aiut magg Aiutante maggiore Aiut SM Aiutante di stato maggiore Aiut suff Aiutante sottufficiale App Appuntato</td><td>Cap Capitano Cdt SIQ Comandante del servizio d’istruzione dei quadri Cdt U Comandante d’unità sotto i cui ordini prestano servizio i militari Cdt U SIB Comandante d’unità nel servizio istruzione di base CEs Capo dell’esercito Col Colonnello CR Corso di ripetizione Fur Furiere I ten Primotenente Magg Maggiore MFC Militari in ferma continuata Recl Recluta</td><td>Sdt Soldato Sgt Sergente Sgt capo Sergente capo Sgtm Sergente maggiore Sgtm capo Sergente maggiore capo SIF Servizi d’istruzione delle formazioni SIF MFC Servizi d’istruzione delle formazioni per i militari in ferma continuata (giorni di servizio rimanenti senza interruzione) SMG di stato maggiore generale Suff Sottufficiale Suff sup Sottufficiale superiore Ten Tenente Ten col Tenente colonnello</td></tr>
+<tr><td>Legenda 1 Le condizioni per l’assegnazione della proposta non si applicano al personale militare \* Promozione durante il servizio d’istruzione, dal punto di vista amministrativo per il primo giorno successivo al compimento del servizio d’istruzione \*\* Promozione trimestrale per il giorno 01.01/01.04/01.07/01.10 con incorporazione nella funzione [tab] I ten Primotenente Aiut capo Aiutante capo Aiut magg Aiutante maggiore Aiut SM Aiutante di stato maggiore Aiut suff Aiutante sottufficiale App Appuntato</td><td>Cap Capitano Cdt SIQ Comandante del servizio d’istruzione dei quadri Cdt U Comandante d’unità sotto i cui ordini prestano servizio i militari Cdt U SIB Comandante d’unità nel servizio d’istruzione di base CEs Capo dell’esercito CR Corso di ripetizione Fur Furiere ISI Istruzione specifica all’impiego Magg Maggiore MFC Militare in ferma continuata Recl Recluta</td><td>S prom pace Servizio di promovimento della pace Sdt Soldato Sgt ergente Sgt capo Sergente capo Sgtm Sergente maggiore Sgtm capo Sergente maggiore capo SIF Servizi d’istruzione delle formazioni SIF MFC Servizi d’istruzione delle formazioni per militari in ferma continuata (giorni di servizio rimanenti senza interruzione) SMG di stato maggiore generale Suff Sottufficiale Suff sup Sottufficiale superiore Ten Tenente Ten col Tenente colonnello</td></tr>
 </table>
 
-Allegato 4*[^t-4]*
+Allegato 4[^t-4]
 
 (art. 71 cpv. 2, 72 cpv. 2 lett. b n. 1 e 76 cpv. 3)
 
 ## Disposizioni derogatorie concernenti l’istruzione dei quadri e la promozione
 
-[^t-4]: Aggiornato dal n. II cpv. 2 dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
+[^t-4]: Nuovo testo giusta il n. II cpv. 1 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 ### 1. Ufficiali di professione (uff prof), ad eccezione dei membri del servizio di volo militare\*
 
 <table>
-<tr><th>Grado futuro</th><th>Funzione</th><th>Gruppo d'impiego (E)</th><th>Servizi d'istruzione dei quadri secondo la carriera nell'ambito dell'istruzione dei quadri</th><th colspan="5">Corsi di formazione professionali supplementari</th><th></th><th></th><th></th><th></th><th colspan="2">Promozione in deroga all’allegato 3</th><th></th></tr>
-<tr><th></th><th></th><th></th><th></th><th>Selezione 1 (esame d'idoneità)</th><th>Selezione 2 (esame di ammissione al corso di formazione di base)</th><th>Corso di formazione di base dell'Accademia militare</th><th>Selezione 3</th><th colspan="5">Cfo avanz 1 uff prof</th><th>Età minima</th><th colspan="2">Osservazioni</th></tr>
+<tr><th>Grado futuro</th><th>Funzione</th><th>Nel gruppo d’impiego (E)</th><th>Servizi d’istruzione dei quadri secondo la carriera nell’ambito dell’istruzione dei quadri</th><th colspan="5">Corsi di formazione professionali supplementari</th><th></th><th></th><th></th><th></th><th colspan="2">Promozione in deroga all’allegato 3</th><th></th></tr>
+<tr><th></th><th></th><th></th><th></th><th>Selezione 1 (esame d’idoneità)</th><th>Selezione 2 (esame di ammissione al corso di formazione di base)</th><th>Corso di formazione di base dell’Accademia militare</th><th>Selezione 3</th><th colspan="5">Cfo avanz 1 uff prof</th><th>Età minima</th><th colspan="2">Osservazioni</th></tr>
 <tr><td>I ten</td><td></td><td>E1</td><td>4.1</td><td>1–2</td><td>2</td><td>X</td><td></td><td colspan="5"></td><td></td><td colspan="2"></td></tr>
 <tr><td>Cap</td><td></td><td></td><td>5.0</td><td>1–2</td><td>2</td><td>X</td><td></td><td colspan="5"></td><td></td><td colspan="2"></td></tr>
 <tr><td>Magg</td><td></td><td></td><td>6.0</td><td>1–2</td><td>2</td><td>X</td><td></td><td colspan="5"></td><td></td><td colspan="2"></td></tr>
@@ -2455,67 +2603,66 @@ Allegato 4*[^t-4]*
 <tr><td>Cap</td><td></td><td>E2</td><td>5.0</td><td></td><td></td><td></td><td></td><td colspan="5"></td><td></td><td colspan="2">Deve aver prestato servizio con successo nel gruppo d’impiego E1 per almeno 4 anni (diplomati del corso di diploma e del corso di formazione bachelor) o 5 anni (diplomati della Scuola militare).</td></tr>
 <tr><td>Magg</td><td></td><td></td><td>6.0</td><td></td><td></td><td></td><td></td><td colspan="5"></td><td></td><td colspan="2"></td></tr>
 <tr><td>Magg SMG</td><td></td><td></td><td>7.0</td><td></td><td></td><td></td><td></td><td colspan="5"></td><td></td><td colspan="2"></td></tr>
-<tr><td>Ten col</td><td>Comandante di corpo di truppa</td><td>E3</td><td>6.1</td><td></td><td></td><td></td><td>X</td><td colspan="5">X</td><td>38</td><td colspan="2"></td></tr>
+<tr><td>Ten col</td><td>Comandante di corpo di truppa</td><td>E2/ E3</td><td>6.1</td><td></td><td></td><td></td><td>X</td><td colspan="5">X</td><td>38</td><td colspan="2">In caso di E2 senza selezione 3 e Cfo avanz 1 uff prof In caso di E3 con selezione 3 e Cfo avanz 1 uff prof</td></tr>
 <tr><td></td><td>Aiuto di comando a livello di Grande Unità</td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="5"></td><td>40</td><td colspan="2"></td></tr>
 <tr><td>Ten col SMG</td><td>Comandante di corpo di truppa</td><td></td><td>7.1</td><td></td><td></td><td></td><td>X</td><td colspan="5">X</td><td>37</td><td colspan="2"></td></tr>
 <tr><td></td><td>Aiuto di comando a livello di Grande Unità</td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="5"></td><td>38</td><td colspan="2"></td></tr>
 </table>
 
 <table>
-<tr><th>Grado futuro</th><th colspan="2">Funzione</th><th>Gruppo d'impiego (E)</th><th>Servizi d'istruzione dei quadri secondo la carriera nell'ambito dell'istruzione dei quadri</th><th colspan="3">Corsi di formazione professionali supplementari</th><th></th><th></th><th colspan="2">Promozione in deroga all’allegato 3</th><th></th></tr>
+<tr><th>Grado futuro</th><th colspan="2">Funzione</th><th>Nel gruppo d’impiego (E)</th><th>Servizi d’istruzione dei quadri secondo la carriera nell’ambito dell’istruzione dei quadri</th><th colspan="3">Corsi di formazione professionali supplementari</th><th></th><th></th><th colspan="2">Promozione in deroga all’allegato 3</th><th></th></tr>
 <tr><th></th><th colspan="2"></th><th></th><th></th><th>Cfo avanz 2 uff prof</th><th>Selezione 4</th><th colspan="3">Cfo avanz 3 uff prof</th><th>Età minima</th><th colspan="2">Osservazioni</th></tr>
 <tr><td>Ten col</td><td colspan="2">Comandante di corpo di truppa</td><td>E3+</td><td>6.1</td><td>X</td><td></td><td colspan="3"></td><td>38</td><td colspan="2"></td></tr>
 <tr><td></td><td colspan="2">Aiuto di comando a livello di Grande Unità</td><td></td><td></td><td></td><td></td><td colspan="3"></td><td>40</td><td colspan="2"></td></tr>
 <tr><td>Ten col SMG</td><td colspan="2">Comandante di corpo di truppa</td><td></td><td>7.1</td><td>X</td><td></td><td colspan="3"></td><td>37</td><td colspan="2"></td></tr>
 <tr><td></td><td colspan="2">Aiuto di comando a livello di Grande Unità</td><td></td><td></td><td></td><td></td><td colspan="3"></td><td>38</td><td colspan="2"></td></tr>
-<tr><td>Col</td><td colspan="2"></td><td>E3+</td><td>6.2</td><td>X</td><td></td><td colspan="3"></td><td>42</td><td colspan="2">Il capo dell’esercito decide in merito alle proposte.</td></tr>
+<tr><td>Col</td><td colspan="2"></td><td>E3+</td><td>6.2</td><td>X</td><td></td><td colspan="3"></td><td>42</td><td colspan="2">Il capo dell’esercito decide in merito alle proposte</td></tr>
 <tr><td>Col SMG</td><td colspan="2"></td><td></td><td>7.2</td><td>X</td><td></td><td colspan="3"></td><td></td><td colspan="2"></td></tr>
 <tr><td>Col</td><td colspan="2"></td><td>E4</td><td>6.2</td><td>X</td><td></td><td colspan="3"></td><td>42</td><td colspan="2"></td></tr>
 <tr><td>Col SMG</td><td colspan="2"></td><td></td><td>7.2</td><td>X</td><td></td><td colspan="3"></td><td></td><td colspan="2"></td></tr>
 <tr><td>Col</td><td colspan="2"></td><td>E5</td><td>6.2</td><td>X</td><td></td><td colspan="3"></td><td>47</td><td colspan="2"></td></tr>
 <tr><td>Col SMG</td><td colspan="2"></td><td></td><td>7.2</td><td>X</td><td></td><td colspan="3"></td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Brigadiere</td><td></td><td>–</td><td></td><td></td><td>X</td><td colspan="3">X</td><td></td><td colspan="2">Il cfo avanz 3 uff prof può essere assolto anche dopo l’assunzione della funzione e la promozione.</td></tr>
+<tr><td colspan="2">Brigadiere</td><td></td><td>–</td><td></td><td></td><td>X</td><td colspan="3">X</td><td></td><td colspan="2">Il Cfo avanz 3 uff prof può essere assolto anche dopo l’assunzione della funzione e la promozione.</td></tr>
 <tr><td colspan="2">Divisionario</td><td></td><td></td><td></td><td></td><td></td><td colspan="3"></td><td></td><td colspan="2"></td></tr>
 <tr><td colspan="2">Comandante di corpo</td><td></td><td></td><td></td><td></td><td></td><td colspan="3"></td><td></td><td colspan="2"></td></tr>
-</table>
-
-<table>
-<tr><td>Legenda: \* Ai membri del servizio di volo militare si applicano le disposizioni dell’ordinanza del 19 novembre 2003 sul servizio di volo militare (OSVM; RS *512.271*) e dell’ordinanza del DDPS del 4 dicembre 2003 concernente i membri del servizio di volo militare (OMSVM; RS *512.271.1*).</td></tr>
+<tr><td colspan="13">Legenda \* Ai membri del servizio di volo militare si applicano le disposizioni dell’ordinanza del 18 marzo 2022 sul servizio di volo militare (OSVM; RS *512.271*) e dell’ordinanza del DDPS del 21 marzo 2022 concernente i membri del servizio di volo militare (OMSVM; RS *512.271.1*).</td></tr>
 </table>
 
 ### 2. Sottufficiali di professione (suff prof)
 
 <table>
-<tr><td>Grado futuro</td><td>Nel gruppo d'impiego (E)</td><td colspan="9">Servizi d’istruzione dei quadri e corsi di formazione professionali</td><td colspan="2">Promozione in deroga all’allegato 3</td><td></td></tr>
-<tr><td></td><td></td><td>Servizi d'istruzione dei quadri secondo la carriera nell'ambito dell'istruzione dei quadri</td><td>Selezione 1 (esame di idoneità)</td><td>Selezione 2 (esame di ammissione al Cfo base SSPE)</td><td>Cfo base SSPE</td><td>Selezione 3</td><td>Cfo avanz 1 suff prof</td><td>Selezione 4</td><td>Cfo avanz 2 suff prof</td><td>Cfo avanz 3 suff prof</td><td>Età minima</td><td colspan="2">Osservazioni</td></tr>
-<tr><td>Aiut suff</td><td>E1</td><td></td><td>1–2</td><td>2</td><td>X</td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2">I futuri sottufficiali di professione sono promossi al grado di aiutanti sottufficiali dopo aver concluso con successo il corso di formazione di base. Indipendentemente dal corso di formazione di base della Scuola per sottufficiali di professione dell’esercito è possibile una promozione secondo l’allegato 2 al grado di aiutante sottufficiale o aiutante di stato maggiore.</td></tr>
-<tr><td>Aiut SM</td><td></td><td>3.4\*</td><td>1–2</td><td>2</td><td>X</td><td></td><td></td><td></td><td></td><td></td><td>28</td><td colspan="2"></td></tr>
-<tr><td>Aiut suff</td><td>E2</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>26</td><td colspan="2">Deve aver prestato servizio con successo nel gruppo d’impiego E1 per almeno 3 anni.</td></tr>
-<tr><td>Aiut SM</td><td></td><td>3.4\*</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>28</td><td colspan="2"></td></tr>
-<tr><td>Aiut suff</td><td>E2+</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>31</td><td colspan="2">Deve aver prestato servizio con successo nel gruppo d’impiego E2 per almeno 5 anni.</td></tr>
-<tr><td>Aiut SM</td><td></td><td>3.4\*</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>33</td><td colspan="2"></td></tr>
-<tr><td>Aiut SM</td><td>E3</td><td></td><td></td><td></td><td></td><td>X</td><td>X</td><td></td><td></td><td></td><td>35</td><td colspan="2"></td></tr>
-<tr><td>Aiut magg</td><td></td><td>3.5\*</td><td></td><td></td><td></td><td>X</td><td>X</td><td></td><td></td><td></td><td>35</td><td colspan="2"></td></tr>
-<tr><td>Aiut magg</td><td>E4</td><td></td><td></td><td></td><td></td><td></td><td></td><td>X</td><td>X</td><td></td><td>42</td><td colspan="2"></td></tr>
-<tr><td>Aiut capo</td><td></td><td>3.6\*</td><td></td><td></td><td></td><td></td><td></td><td>X</td><td>X</td><td></td><td>42</td><td colspan="2"></td></tr>
-<tr><td>Aiut capo</td><td>E5</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>X</td><td>48</td><td colspan="2">Il cfo avanz 3 suff prof può essere assolto anche dopo l’assunzione della funzione e la promozione.</td></tr>
+<tr><th>Grado futuro</th><th>Nel gruppo d’impiego (E)</th><th colspan="7">Servizi d’istruzione dei quadri e corsi di formazione professionali</th><th></th><th colspan="2"></th><th></th><th></th><th colspan="2"></th><th></th><th></th><th></th><th colspan="2">Promozione in deroga all’allegato 3</th><th></th></tr>
+<tr><th></th><th></th><th>Servizi d’istruzione dei quadri secondo la carriera nell’ambito dell’istruzione dei quadri</th><th>Selezione 1 (esame d’idoneità)</th><th>Selezione 2 (esame di ammissione al Cfo base SSPE)</th><th>Cfo base SSPE</th><th>Selezione 3</th><th>Cfo avanz 1 suff prof</th><th colspan="3">Selezione 4</th><th colspan="4">Cfo avanz 2 suff prof</th><th colspan="4">Cfo avanz 3 suff prof</th><th>Età minima</th><th colspan="2">Osservazioni</th></tr>
+<tr><td>Aiut suff</td><td>E1</td><td></td><td>1–2</td><td>2</td><td>X</td><td></td><td></td><td colspan="3"></td><td colspan="4"></td><td colspan="4"></td><td></td><td colspan="2">I futuri sottufficiali di professione sono promossi al grado di aiutanti sottufficiali dopo aver concluso con successo il corso di formazione di base. Indipendentemente dal corso di formazione di base della Scuola per sottufficiali di professione dell’esercito è possibile una promozione secondo l’allegato 2 al grado di aiutante sottufficiale o aiutante di stato maggiore.</td></tr>
+<tr><td>Aiut SM</td><td></td><td>3.4\*</td><td>1–2</td><td>2</td><td>X</td><td></td><td></td><td colspan="3"></td><td colspan="4"></td><td colspan="4"></td><td>28</td><td colspan="2"></td></tr>
+<tr><td>Aiut suff</td><td>E2</td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="3"></td><td colspan="4"></td><td colspan="4"></td><td>26</td><td colspan="2">Deve aver prestato servizio con successo nel gruppo d’impiego E1 per almeno 3 anni.</td></tr>
+<tr><td>Aiut SM</td><td></td><td>3.4\*</td><td></td><td></td><td></td><td></td><td></td><td colspan="3"></td><td colspan="4"></td><td colspan="4"></td><td>28</td><td colspan="2"></td></tr>
+<tr><td>Aiut suff</td><td>E2+</td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="3"></td><td colspan="4"></td><td colspan="4"></td><td>31</td><td colspan="2">Deve aver prestato servizio con successo nel gruppo d’impiego E2 per almeno 5 anni.</td></tr>
+<tr><td>Aiut SM</td><td></td><td>3.4\*</td><td></td><td></td><td></td><td></td><td></td><td colspan="3"></td><td colspan="4"></td><td colspan="4"></td><td>33</td><td colspan="2"></td></tr>
+<tr><td>Aiut SM</td><td>E3</td><td></td><td></td><td></td><td></td><td>X</td><td>X</td><td colspan="3"></td><td colspan="4"></td><td colspan="4"></td><td>35</td><td colspan="2"></td></tr>
+<tr><td>Aiut magg</td><td></td><td>3.5\*</td><td></td><td></td><td></td><td>X</td><td>X</td><td colspan="3"></td><td colspan="4"></td><td colspan="4"></td><td>35</td><td colspan="2"></td></tr>
+<tr><td>Aiut magg</td><td>E4</td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="3">X</td><td colspan="4">X</td><td colspan="4"></td><td>42</td><td colspan="2"></td></tr>
+<tr><td>Aiut capo</td><td></td><td>3.6\*</td><td></td><td></td><td></td><td></td><td></td><td colspan="3">X</td><td colspan="4">X</td><td colspan="4"></td><td>42</td><td colspan="2"></td></tr>
+<tr><td>Aiut capo</td><td>E5</td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="3"></td><td colspan="4"></td><td colspan="4">X</td><td>48</td><td colspan="2">Il Cfo avanz 3 suff prof può essere assolto anche dopo l’assunzione della funzione e la promozione.</td></tr>
 </table>
 
 ### 3. Militari di professione specialisti
 
-### 3.1 Distaccamento d’esplorazione dell’esercito (DEE)
+### 3.1 Distaccamento d’esplorazione dell’esercito 10 (DEE 10)
 
 <table>
-<tr><td>Carriera nell'ambito dell'istruzione dei quadri</td><td>Grado futuro</td><td colspan="8">Servizi d’istruzione dei quadri in deroga all’allegato 2</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>Promozione in deroga all’allegato 3</td></tr>
-<tr><td></td><td></td><td>Corso di base DEE</td><td>Corso preparatorio dei quadri e servizio pratico in una scuola reclute</td><td>Corso di formazione alla condotta di unità</td><td>Istruzione di specialisti DEE</td><td>Istruzione di capisezione o responsabili del settore specialistico DEE</td><td>Corso di formazione per ufficiali DEE</td><td>Corso per specialisti per il grado futuro</td><td colspan="8">Osservazioni</td><td>Osservazioni</td></tr>
-<tr><td>2.0</td><td>Sgt</td><td>X</td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="8">invece della scuola sottufficiali (27 giorni) come pure del corso preparatorio dei quadri e del servizio pratico in una scuola reclute (131 giorni)</td><td></td></tr>
-<tr><td>3.0</td><td>Sgtm</td><td></td><td></td><td></td><td></td><td></td><td></td><td>X</td><td colspan="8">invece del corso di formazione tecnica logistica (26 giorni)</td><td>Almeno 3 anni quale membro del DEE</td></tr>
-<tr><td>3.2</td><td>Sgtm capo</td><td></td><td>33</td><td></td><td></td><td></td><td></td><td></td><td colspan="8">invece del corso preparatorio dei quadri e del servizio pratico in una scuola reclute (131 giorni) per futuri sottufficiali di professione</td><td></td></tr>
-<tr><td>3.2</td><td>Aiut suff</td><td></td><td></td><td></td><td>X</td><td></td><td></td><td></td><td colspan="8">invece del corso di formazione tecnica logistica (26 giorni) e del servizio pratico in servizi d’istruzione delle formazioni (26 giorni)</td><td>Almeno 2 anni di esperienza in impieghi nel DEE</td></tr>
-<tr><td>3.3</td><td>Aiut SM</td><td></td><td></td><td>26</td><td></td><td>X</td><td></td><td></td><td colspan="8">invece del corso di formazione alla condotta di corpi di truppa (33 giorni) e del servizio pratico in servizi d’istruzione delle formazioni (12 giorni)</td><td>Almeno 2 anni di esperienza in impieghi nel DEE</td></tr>
-<tr><td>4.0</td><td>Ten</td><td></td><td></td><td></td><td></td><td></td><td>X</td><td></td><td colspan="8">invece della scuola ufficiali (103 giorni) come pure del corso preparatorio dei quadri e del servizio pratico in una scuola reclute (131 giorni)</td><td>Almeno 2 anni di esperienza in impieghi nel DEE</td></tr>
-<tr><td>4.1</td><td>I ten</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="8"></td><td></td></tr>
-<tr><td>5.0</td><td>Cap</td><td></td><td></td><td></td><td></td><td></td><td></td><td>33</td><td colspan="8">invece del corso preparatorio dei quadri e del servizio pratico in una scuola reclute (131 giorni)</td><td>Almeno 2 anni con grado di ten</td></tr>
+<tr><th>Carriera nell’ambito dell’istruzione dei quadri</th><th>Grado futuro</th><th colspan="8">Servizi d’istruzione dei quadri in deroga all’allegato 2</th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th>Promozione in deroga all’allegato 3</th></tr>
+<tr><th></th><th></th><th>Corso di base DEE 10</th><th>Corso preparatorio dei quadri e servizio pratico in una scuola reclute</th><th>Corso di formazione alla condotta di unità</th><th>Istruzione di specialista DEE 10</th><th>Istruzione di caposezione o di responsabile del settore specialistico DEE 10</th><th>Corso di formazione per ufficiali DEE 10</th><th>Corso per specialisti per il grado futuro</th><th colspan="8">Osservazioni</th><th>Osservazioni</th></tr>
+<tr><td>2.0</td><td>Sgt</td><td>X</td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="8">Invece della scuola sottufficiali (27 giorni) come pure del corso preparatorio dei quadri e del servizio pratico in una scuola reclute (131 giorni)</td><td></td></tr>
+<tr><td>3.0</td><td>Sgtm</td><td></td><td></td><td></td><td></td><td></td><td></td><td>X</td><td colspan="8">Invece del corso di formazione tecnica logistica (26 giorni)</td><td>Almeno 3 anni quale membro del DEE 10</td></tr>
+<tr><td>3.2</td><td>Sgtm capo</td><td></td><td>33</td><td></td><td></td><td></td><td></td><td></td><td colspan="8">Invece del corso preparatorio dei quadri e del servizio pratico in una scuola reclute (131 giorni) per futuri sottufficiali di professione</td><td></td></tr>
+<tr><td>3.2</td><td>Aiut suff</td><td></td><td></td><td></td><td>X</td><td></td><td></td><td></td><td colspan="8">Invece del corso di formazione tecnica logistica (26 giorni) e del servizio pratico in servizi d’istruzione delle formazioni (26 giorni)</td><td>Almeno 2 anni di esperienza d’impiego quale sgtm o sgtm capo nel DEE 10</td></tr>
+<tr><td>3.3</td><td>Aiut SM</td><td></td><td></td><td>26</td><td></td><td>X</td><td></td><td></td><td colspan="8">Invece del corso di formazione alla condotta di corpi di truppa (33 giorni) e del servizio pratico in servizi d’istruzione delle formazioni (12 giorni)</td><td>Almeno 2 anni di esperienza d’impiego quale aiut suff nel DEE 10</td></tr>
+<tr><td>4.0</td><td>Ten</td><td></td><td></td><td></td><td></td><td></td><td>X</td><td></td><td colspan="8">Invece della scuola ufficiali (103 giorni) come pure del corso preparatorio dei quadri e del servizio pratico in una scuola reclute (131 giorni)</td><td>Almeno 5 anni di esperienza d’impiego quale sottufficiale o sottufficiale superiore nel DEE 10</td></tr>
+<tr><td>4.1</td><td>I ten</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="8"></td><td>Almeno 2 anni con grado di ten</td></tr>
+<tr><td>5.0</td><td>Cap</td><td></td><td></td><td></td><td></td><td></td><td></td><td>33</td><td colspan="8">Invece del corso preparatorio dei quadri e del servizio pratico in una scuola reclute (131 giorni)</td><td>Almeno 3 anni di esperienza d’impiego quale ufficiale nel DEE 10</td></tr>
+<tr><td>5.1</td><td>Cap (futuro uff prof)</td><td></td><td>33</td><td>26</td><td>5-26</td><td></td><td></td><td></td><td colspan="8">Invece del corso preparatorio dei quadri e del servizio pratico in una scuola reclute (131 giorni)</td><td>Almeno 3 anni di esperienza d’impiego quale ufficiale nel DEE 10</td></tr>
+<tr><td>6.0</td><td>Magg</td><td></td><td></td><td></td><td></td><td></td><td></td><td>X</td><td colspan="8">Invece del servizio pratico nel servizio d’istruzione delle formazioni</td><td>Almeno 3 anni di esperienza d’impiego quale ufficiale nel DEE 10</td></tr>
 </table>
 
 ### 3.2 Distaccamento speciale della polizia militare (DSPM)
@@ -2523,68 +2670,69 @@ Allegato 4*[^t-4]*
 <table>
 <tr><th>Carriera nell’ambito dell’istruzione dei quadri</th><th>Grado futuro</th><th colspan="7">Servizi d’istruzione dei quadri in deroga all’allegato 2</th><th></th><th></th><th></th><th></th><th></th><th></th><th>Promozione in deroga all’allegato 3</th></tr>
 <tr><th></th><th></th><th>Corso di base DSPM</th><th>Corso preparatorio dei quadri e servizio pratico in una scuola reclute</th><th>Corso 2 per unità d’intervento dell’Istituto svizzero di polizia</th><th>Corso di formazione per ufficiali DSPM</th><th>Corso 3 per unità d’intervento dell’Istituto svizzero di polizia</th><th>Corso preparatorio dei quadri e servizio pratico nel settore d’impiego</th><th colspan="7">Osservazioni</th><th>Osservazioni</th></tr>
-<tr><td>3.0</td><td>Sgtm</td><td>X</td><td></td><td></td><td></td><td></td><td></td><td colspan="7">invece della scuola sottufficiali (27 giorni), del corso preparatorio dei quadri e del servizio pratico in una scuola reclute (131 giorni) come pure del corso di formazione tecnica (26 giorni)</td><td></td></tr>
-<tr><td>3.2</td><td>Sgtm capo</td><td></td><td>33</td><td></td><td></td><td></td><td></td><td colspan="7">invece del corso preparatorio dei quadri e del servizio pratico in una scuola reclute (131 giorni) per futuri sottufficiali di professione</td><td></td></tr>
-<tr><td>3.3</td><td>Aiut suff</td><td></td><td></td><td>X</td><td></td><td></td><td></td><td colspan="7">invece del corso di formazione tecnica logistica (26 giorni) e del servizio pratico in servizi d’istruzione delle formazioni (26 giorni)</td><td>Almeno 2 anni di esperienza in impieghi nel DSPM</td></tr>
-<tr><td>4.0</td><td>Ten</td><td></td><td></td><td></td><td>X</td><td></td><td></td><td colspan="7">invece della scuola ufficiali (103 giorni) e del corso preparatorio dei quadri nonché del servizio pratico in una scuola reclute (131 giorni)</td><td>Almeno 2 anni di esperienza in impieghi nel DSPM</td></tr>
-<tr><td>4.1</td><td>I ten</td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="7"></td><td>Almeno 2 anni con il grado di ten</td></tr>
-<tr><td>5.0</td><td>Cap</td><td></td><td></td><td>X</td><td></td><td>X</td><td>33</td><td colspan="7">invece del corso preparatorio dei quadri e del servizio pratico in una scuola reclute (131 giorni) e del corso di formazione tecnica logistica (26 giorni)</td><td></td></tr>
+<tr><td>3.0</td><td>Sgtm</td><td>X</td><td></td><td></td><td></td><td></td><td></td><td colspan="7">Invece della scuola sottufficiali (27 giorni), del corso preparatorio dei quadri e del servizio pratico in una scuola reclute (131 giorni) come pure del corso di formazione tecnica (26 giorni)</td><td></td></tr>
+<tr><td>3.2</td><td>Sgtm capo</td><td></td><td>33</td><td></td><td></td><td></td><td></td><td colspan="7">Invece del corso preparatorio dei quadri e del servizio pratico in una scuola reclute (131 giorni) per futuri sottufficiali di professione</td><td></td></tr>
+<tr><td>3.3</td><td>Aiut suff</td><td></td><td></td><td>X</td><td></td><td></td><td></td><td colspan="7">Invece del corso di formazione tecnica logistica (26 giorni) e del servizio pratico in servizi d’istruzione delle formazioni (26 giorni)</td><td>Almeno 2 anni di esperienza d’impiego quale sgtm o sgtm capo nel DSPM</td></tr>
+<tr><td>4.0</td><td>Ten</td><td></td><td></td><td></td><td>X</td><td></td><td></td><td colspan="7">Invece della scuola ufficiali (103 giorni) come pure del corso preparatorio dei quadri e del servizio pratico in una scuola reclute (131 giorni)</td><td>Almeno 5 anni di esperienza d’impiego quale sottufficiale o sottufficiale superiore nel DSPM</td></tr>
+<tr><td>4.1</td><td>I ten</td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="7"></td><td>Almeno 2 anni con grado di ten</td></tr>
+<tr><td>5.0</td><td>Cap</td><td></td><td></td><td>X</td><td></td><td>X</td><td>33</td><td colspan="7">Invece del corso preparatorio dei quadri e del servizio pratico in una scuola reclute (131 giorni) e del corso di formazione tecnica logistica (26 giorni)</td><td>Almeno 3 anni di esperienza d’impiego quale ufficiale nel DSPM</td></tr>
+<tr><td>6.0</td><td>Magg</td><td></td><td></td><td></td><td></td><td></td><td>X</td><td colspan="7">Invece del servizio pratico nel servizio d’istruzione delle formazioni</td><td>Almeno 3 anni di esperienza d’impiego quale ufficiale nel DSPM</td></tr>
 </table>
 
 ### 3.3 Comando della polizia militare
 
 <table>
-<tr><th>Carriera nell’ambito dell’istruzione dei quadri</th><th>Grado futuro</th><th colspan="6">Servizi d’istruzione dei quadri in deroga all’allegato 2</th><th></th><th></th><th></th><th></th><th></th><th></th><th>Promozione in deroga all’allegato 3</th></tr>
-<tr><th></th><th></th><th>Corso di base comando della polizia militare</th><th>Corso di formazione alla condotta di corpi di truppa</th><th>Corso per specialisti per il grado futuro</th><th>Corso di formazione per ufficiali della polizia militare</th><th>Corso preparatorio dei quadri e servizio pratico nel settore d’impiego</th><th colspan="7">Osservazioni</th><th>Osservazioni</th></tr>
-<tr><td>2.0</td><td>Sgt</td><td>X</td><td></td><td></td><td></td><td></td><td colspan="7">invece della scuola sottufficiali (27 giorni) come pure del corso preparatorio dei quadri e del S prat in una scuola reclute (131 giorni)</td><td></td></tr>
-<tr><td>2.1</td><td>Sgt capo</td><td></td><td></td><td></td><td></td><td></td><td colspan="7"></td><td>Almeno 2 anni quale sgt</td></tr>
-<tr><td>3.0</td><td>Sgtm Suff sic PM</td><td></td><td></td><td>X</td><td></td><td></td><td colspan="7">invece del corso di formazione tecnica logistica (26 giorni)</td><td>Almeno 2 anni quale sgt capo</td></tr>
-<tr><td>3.1</td><td>Sgtm Suff PM</td><td>X</td><td></td><td></td><td></td><td></td><td colspan="7">invece del corso di formazione tecnica logistica (26 giorni) e del S prat in servizi d’istruzione delle formazioni (26 giorni)</td><td></td></tr>
-<tr><td>3.2</td><td>Sgtm capo</td><td></td><td></td><td>X</td><td></td><td></td><td colspan="7"></td><td></td></tr>
-<tr><td>3.3</td><td>Aiut suff</td><td>X</td><td></td><td>X</td><td></td><td></td><td colspan="7">invece del corso preparatorio dei quadri e del servizio pratico in una scuola reclute (131 giorni)</td><td>Almeno 2 anni quale sgtm capo</td></tr>
-<tr><td>3.4</td><td>Aiut SM</td><td>X</td><td></td><td></td><td></td><td></td><td colspan="7">invece del corso di formazione alla condotta di corpi di truppa (33 giorni) e del S prat in servizi d’istruzione delle formazioni (12 giorni)</td><td>Almeno 2 anni quale aiut suff</td></tr>
-<tr><td>4.0</td><td>Ten</td><td></td><td></td><td></td><td>X</td><td></td><td colspan="7">invece della scuola ufficiali (103 giorni) come pure del corso preparatorio dei quadri e del S prat in una scuola reclute (131 giorni)</td><td></td></tr>
-<tr><td>4.1</td><td>I ten</td><td></td><td></td><td></td><td></td><td></td><td colspan="7"></td><td>Almeno 2 anni quale ten</td></tr>
-<tr><td>5.0</td><td>Cap</td><td></td><td></td><td>X</td><td></td><td>33</td><td colspan="7">invece del corso preparatorio dei quadri e del S prat in una scuola reclute (131 giorni)</td><td>Almeno 2 anni quale I ten</td></tr>
-<tr><td>6.0</td><td>Magg</td><td></td><td></td><td>X</td><td></td><td></td><td colspan="7">invece del S prat nel servizio d’istruzione della truppa</td><td></td></tr>
-<tr><td>6.1</td><td>Ten col</td><td>X</td><td>X</td><td></td><td></td><td></td><td colspan="7">invece del S prat nel servizio d’istruzione della truppa</td><td></td></tr>
+<tr><th>Carriera nell’ambito dell’istruzione dei quadri</th><th>Grado attuale</th><th>Grado futuro</th><th colspan="5">Servizi d’istruzione dei quadri in deroga all’allegato 2</th><th></th><th></th><th></th><th></th><th>Promozione in deroga all’allegato 3</th></tr>
+<tr><th></th><th></th><th></th><th>Corso di base comando della polizia militare o agente di polizia con attestato professionale</th><th>Istruzione interna di polizia militare</th><th>Corso di formazione alla condotta di corpi di truppa o di Grandi Unità</th><th>Corso preparatorio dei quadri e servizio pratico nel settore d’impiego</th><th colspan="5">Osservazioni</th><th>Osservazioni</th></tr>
+<tr><td>2.0</td><td>Sdt</td><td>Sgt</td><td>X</td><td></td><td></td><td></td><td colspan="5">Invece della scuola sottufficiali (27 giorni) come pure del corso preparatorio dei quadri e del servizio pratico in una scuola reclute (131 giorni)</td><td></td></tr>
+<tr><td>2.1</td><td>Sgt</td><td>Sgt capo</td><td></td><td></td><td></td><td></td><td colspan="5"></td><td>Almeno 2 anni quale sgt</td></tr>
+<tr><td>3.0</td><td>Sgt capo</td><td>Sgtm suff sic PM</td><td>X</td><td></td><td></td><td></td><td colspan="5">Invece del corso di formazione tecnica logistica (26 giorni)</td><td>Almeno 2 anni quale sgt capo</td></tr>
+<tr><td>3.1</td><td>Sdt Sgt Sgt capo</td><td>Sgtm suff PM</td><td>X</td><td></td><td></td><td></td><td colspan="5">Invece del corso di formazione tecnica logistica (26 giorni)</td><td></td></tr>
+<tr><td>3.2</td><td>Sgtm</td><td>Sgtm capo</td><td></td><td>X</td><td></td><td></td><td colspan="5">Il grado di sgtm capo può essere conseguito attraverso un’istruzione interna di polizia militare oppure un corso di formazione per sottufficiali superiori con servizio pratico.</td><td>Assolvimento del corso di formazione per sottufficiali superiori senza limite d’età e senza scuola sottufficiali per agenti della polizia militare che hanno conseguito un grado professionale di sottufficiale. La proposta viene assegnata su base professionale.</td></tr>
+<tr><td>3.3</td><td>Sgtm Sgtm capo</td><td>Aiut suff</td><td>X</td><td>X</td><td></td><td></td><td colspan="5">Invece del corso preparatorio dei quadri e del servizio pratico in una scuola reclute (131 giorni)</td><td>Almeno 2 anni quale sgtm o sgtm capo</td></tr>
+<tr><td>3.4</td><td>Aiut suff</td><td>Aiut SM</td><td>X</td><td>X</td><td></td><td></td><td colspan="5">Invece del corso di formazione alla condotta di corpi di truppa (33 giorni) e del servizio pratico in servizi d’istruzione delle formazioni (12 giorni)</td><td>Almeno 2 anni quale aiut suff</td></tr>
+<tr><td>4.0</td><td>Sgt Sgt capo Sgtm capo Aiut suff</td><td>Ten</td><td></td><td>X</td><td></td><td></td><td colspan="5">Il grado di ten può essere conseguito attraverso un’istruzione interna di polizia militare oppure una scuola ufficiali con servizio pratico.</td><td>Assolvimento della scuola ufficiali senza limite d’età e senza scuola sottufficiali per agenti della polizia militare che hanno conseguito un grado professionale di sottufficiale. La proposta viene assegnata su base professionale.</td></tr>
+<tr><td>4.1</td><td>Ten</td><td>I ten</td><td></td><td></td><td></td><td></td><td colspan="5"></td><td>Almeno 2 anni quale ten</td></tr>
+<tr><td>5.0</td><td>I ten</td><td>Cap</td><td></td><td>X</td><td>X</td><td>33</td><td colspan="5">Invece del corso preparatorio dei quadri e del servizio pratico in una scuola reclute (131 giorni). Il grado di cap può essere conseguito attraverso un’istruzione interna di polizia militare oppure un corso di formazione alla condotta.</td><td>Almeno 2 anni quale I ten</td></tr>
+<tr><td>6.0</td><td>Cap</td><td>Magg</td><td></td><td>X</td><td>X</td><td></td><td colspan="5">Invece del servizio pratico nel servizio d’istruzione della truppa. Il grado di magg può essere conseguito attraverso un’istruzione interna di polizia militare oppure un corso di formazione alla condotta.</td><td>Almeno 2 anni quale cap</td></tr>
+<tr><td>6.1</td><td>Magg</td><td>Ten col</td><td></td><td>X</td><td>X</td><td></td><td colspan="5">Invece del servizio pratico nel servizio d’istruzione della truppa. Il grado di ten col può essere conseguito attraverso un’istruzione interna di polizia militare oppure un corso di formazione alla condotta.</td><td>Almeno 2 anni quale magg</td></tr>
 </table>
 
 ### 3.4 Distaccamento per l’eliminazione di munizioni inesplose e lo sminamento
 
 <table>
-<tr><th>Carriera nell’ambito dell’istruzione dei quadri</th><th>Grado futuro / funzione</th><th colspan="6">Servizi d’istruzione dei quadri in deroga all’allegato 2</th><th></th><th></th><th></th><th></th><th></th><th></th><th colspan="2">Promozione in deroga all’allegato 3</th></tr>
-<tr><th></th><th></th><th>Grado iniziale</th><th>Assessment professionale KAMIR (3)</th><th>Istruzione di base KAMIBES «Profi» (329)</th><th>Cfo IEDD, AIME 552 (84)</th><th>Corso di formazione e specializzazione, AIME 555 (189)</th><th colspan="7">Osservazioni</th><th>Osservazioni</th></tr>
-<tr><td>2.0</td><td>Sgt / Spec eser</td><td>Sdt / sgt</td><td></td><td></td><td></td><td></td><td colspan="7">istruzione di base a capogruppo assolta conformemente all’allegato 2 OOPSM</td><td></td></tr>
-<tr><td>3.0</td><td>Sgtm / responsabile log</td><td>Sgt / sgt capo</td><td>X</td><td>X</td><td></td><td></td><td colspan="7">invece del Cfo tecn (12–26) e del S prat di (0–131) quale sgtm il mil assolve l’istruzione di base professionale KAMIBES (329)</td><td>Promozione a sgtm possibile senza limite massimo d’età. La proposta per l’avanzamento ha luogo in ambito professionale.</td></tr>
-<tr><td>3.2</td><td>Sgtm capo / aiut suff nella funzione di spec KAMIBES, collab istr e responsabile log</td><td>Sgt / sgt capo / sgtm</td><td>X</td><td>X</td><td></td><td></td><td colspan="7">invece del S prat (131) quale sgtm U il mil assolve l’istruzione di base professionale KAMIBES (329)</td><td>Promozione a sgtm capo/aiut suff possibile senza limite d’età. La proposta per l’avanzamento ha luogo in ambito professionale.</td></tr>
-<tr><td>3.3</td><td>Aiut suff esperto KAMIBES</td><td>Sgtm capo / aiut suff</td><td>X</td><td>X</td><td>X</td><td>X</td><td colspan="7">invece del Cfo tecn (26) e del S prat (26) il mil assolve il Cfo IEDD, AIME 552 (84 giorni) come pure il corso di formazione e specializzazione, AIME 555 (189)</td><td>Per la promozione a aiut suff (esperto KAMIBES), almeno 4 anni con il grado di sgtm capo. Promozione a aiut suff possibile senza limite massimo d’età. La proposta per l’avanzamento ha luogo in ambito professionale.</td></tr>
-<tr><td>4.0</td><td>Uff sub con le funzioni di C KAMIBES C dist a i e collaboratore specializzato perfezionamento tecnico a i</td><td>Sgt / sgt capo / uff sub</td><td>X</td><td>X</td><td>X</td><td>X</td><td colspan="7">Nessun S prat quale caposez. Il mil assolve l’assessment professionale KAMIR (3), l’istruzione di base KAMIBES «Profi» (329), il Cfo IEDD, AIME 552 (84) come pure il corso di formazione e specializzazione, AIME 555 (189). Inizio a i quale uff sub, da tutte le Armi. Dopo l’assolvimento delle formazioni professionali ha luogo l’assunzione delle funzione senza a i</td><td>Assolvimento della SU possibile senza limite d’età. La proposta ha luogo in ambito professionale. Promozione da ten a I ten al più presto dopo 3 anni nella funzione.</td></tr>
-<tr><td>5.0</td><td>Cap nella funzione di C dist KAMIBES e collaboratore specializzato perfezionamento tecnico</td><td>Uff sub</td><td>X</td><td>X</td><td>X</td><td>X</td><td colspan="7">Istruzione a cdt U: Cfo cond U (26), S prat (131)</td><td>L’avanzamento e la promozione a cap sono possibili senza limite massimo d’età. La proposta per l’avanzamento ha luogo in ambito professionale.</td></tr>
-<tr><td>6.0</td><td>Magg nella funzione di uff EOD e C istr</td><td>Cap</td><td>X</td><td>X</td><td>X</td><td></td><td colspan="7">Cfo cond corpi di truppa prima e seconda parte (33)</td><td>Promozione a magg dopo almeno 2 anni nella funzione di C dist KAMIBES o di collaboratore specializzato perfezionamento tecnico. Età minima per la promozione a magg = 32° anno d’età. Promozione a magg possibile senza limite d’età. La proposta per l’avanzamento ha luogo in ambito professionale.</td></tr>
-<tr><td>6.1</td><td>Ten col nelle funzioni di C impg / concezione o C EOD</td><td>Magg</td><td>X</td><td>X</td><td>X</td><td></td><td colspan="7">Cfo cond corpi di truppa prima e seconda parte (33) e S prat (16) in servizi d’istruzione delle formazioni</td><td>Promozione a ten col dopo almeno 2 anni nella funzione di uff EOD o di C istr. Promozione a ten col possibile senza limite d’età. La proposta ha luogo in ambito professionale.</td></tr>
+<tr><th>Carriera nell’ambito dell’istruzione dei quadri</th><th>Grado futuro</th><th colspan="5">Servizi d’istruzione dei quadri in deroga all’allegato 2</th><th></th><th></th><th></th><th></th><th colspan="2">Promozione in deroga all’allegato 3</th></tr>
+<tr><th></th><th></th><th>Grado iniziale</th><th>Assessmrent professionale KAMIR (3)</th><th>Istruzione di base KAMIBES «Professionisti» (329)</th><th>Corso di formazione IEDD (55X, 56X, 58X) o CMD (53X, 54X, 57X) secondo il concetto di formazione KAMIR</th><th colspan="5">Osservazioni</th><th>Osservazioni</th></tr>
+<tr><td>2.0</td><td>Sgt</td><td>Sdt App Sgt</td><td>X</td><td>X</td><td></td><td colspan="5">Assolvono a livello di milizia soltanto la SSU (27 giorni); non prestano alcun servizio pratico quali capigruppo. I militari che vengono assunti come sdt/app/app capo in qualità di militari di professione specialisti, fino alla promozione/prima incorporazione (assolvimento SSU di 27 giorni) vengono incorporati come sdt eser nel dist eser FOA G/salv/NBC.</td><td>Promozione al grado di sgt possibile senza limite massimo d’età. La proposta per l’avanzamento viene assegnata su base professionale.</td></tr>
+<tr><td>3.2</td><td>Sgtm capo</td><td>Sgt Sgt capo Sgtm Sgtm capo</td><td>X</td><td>X</td><td></td><td colspan="5">Invece del servizio pratico (131 giorni) come sergenti maggiori d’unità i militari assolvono la formazione professionale di base KAMIBES. I militari con il grado di sgtm capo senza formazione professionale di base KAMIBES vengono incorporati ad interim.</td><td>Promozione al grado di sgt capo possibile senza limite d’età. La proposta per l’avanzamento viene assegnata su base professionale.</td></tr>
+<tr><td>3.3</td><td>Aiut suff</td><td>Sgtm capo Fur Aiut suff</td><td>X</td><td>X</td><td>X</td><td colspan="5">Invece del corso di formazione tecnica (26 giorni) e del servizio pratico (26 giorni) i militari assolvono il corso di formazione IEDD o CMD. I militari con il grado di aiut suff, sgtm capo o fur che non hanno assolto il corso di formazione IEDD o CMD vengono incorporati ad interim. Corso di formazione IEDD o CMD oppure parti di esso secondo il concetto di formazione professionale KAMIR.</td><td>Per la promozione al grado di aiut suff almeno 4 anni con il grado di sgtm capo. Promozione al grado di aiut suff possibile senza limite d’età. La proposta per l’avanzamento viene assegnata su base professionale.</td></tr>
+<tr><td>3.4</td><td>Aiut SM</td><td>Aiut suff Aiut SM</td><td>X</td><td>X</td><td>X</td><td colspan="5">Invece del corso di formazione alla condotta di corpi di truppa e del servizio pratico i militari assolvono il corso di formazione IEDD o CMD oppure parti di esso secondo il concetto di formazione professionale KAMIR.</td><td>Per la promozione al grado di aiut SM almeno 4 anni con il grado di aiut suff. Promozione al grado di aiut SM possibile senza limite d’età. La proposta per l’avanzamento viene assegnata su base professionale.</td></tr>
+<tr><td>4.0</td><td>Ufficiale subalterno con funzione di capo distaccamento ad interim</td><td>Sgt Ufficiale subalterno</td><td>X</td><td>X</td><td></td><td colspan="5">Nessun servizio pratico quale caposezione. I militari assolvono l’assessment professionale KAMIR (3 giorni) e la formazione di base KAMIBES «Professionisti». Inizio ad interim quali ufficiali subalterni provenienti da qualsiasi Arma.</td><td>Assolvimento della scuola ufficiali G/salv/NBC 74 possibile senza limite d’età. La proposta viene assegnata su base professionale. La promozione da ten a I ten avviene al più presto dopo 3 anni nella funzione (su base professionale).</td></tr>
+<tr><td>5.0</td><td>Cap</td><td>Ufficiale subalterno Cap</td><td>X</td><td>X</td><td>X</td><td colspan="5">Istruzione di comandante d’unità: corso di formazione alla condotta di unità (26 giorni), servizio pratico (132 giorni), nessun corso di formazione tecnica necessario. Corso di formazione IEDD o CMD oppure parti di esso secondo il concetto di formazione professionale KAMIR.</td><td>L’avanzamento e la promozione al grado di cap sono possibili senza limite massimo d’età. La proposta per l’avanzamento viene assegnata su base professionale.</td></tr>
+<tr><td>6.0</td><td>Magg</td><td>Cap Magg</td><td>X</td><td>X</td><td>X</td><td colspan="5">Gli ex capi distaccamento (cap) o gli ex comandanti d’unità assolvono il corso di formazione alla condotta di corpi di truppa IBG (12 giorni). Non viene assolto alcun servizio pratico. Corso di formazione IEDD o CMD oppure parti di esso secondo il concetto di formazione professionale KAMIR.</td><td>L’avanzamento e la promozione al grado di magg sono possibili senza limite massimo d’età. La proposta per l’avanzamento viene assegnata su base professionale.</td></tr>
+<tr><td>6.1</td><td>Ten col</td><td>Magg Ten col</td><td>X</td><td>X</td><td>X</td><td colspan="5">Ex esperti BACI, esperti HMA, ufficiali d’impiego o capi attuazione come pure ex comandanti di battaglione, sostituti comandanti di battaglione o capi impiego. Corso di formazione IEDD o CMD oppure parti di esso secondo il concetto di formazione professionale KAMIR.</td><td>L’avanzamento e la promozione al grado di ten col sono possibili senza limite massimo d’età. La proposta per l’avanzamento viene assegnata su base professionale.</td></tr>
 </table>
 
-### 3.5 Servizio della protezione preventiva dell’esercito
+### 3.5 Servizio di protezione preventiva dell’esercito (SPPEs)
 
 <table>
 <tr><th>Carriera nell’ambito dell’istruzione dei quadri</th><th>Grado futuro</th><th colspan="4">Servizi d’istruzione dei quadri in deroga all’allegato 2</th><th></th><th></th><th></th><th>Promozione in deroga all’allegato 3</th></tr>
-<tr><th></th><th></th><th>Servizio pratico in servizi d’istruzione delle formazioni</th><th>Corso di formazione tecnica A per ufficiali informatori o corso di formazione tecnica sicurezza militare</th><th>Corso preparatorio dei quadri e servizio pratico in una scuola reclute</th><th colspan="4">Osservazioni</th><th>Osservazioni</th></tr>
-<tr><td>4.0</td><td>Ten</td><td>33</td><td></td><td></td><td colspan="4">invece del corso preparatorio dei quadri e del servizio pratico in una scuola reclute (131 giorni)</td><td></td></tr>
-<tr><td>5.0</td><td>Cap</td><td></td><td>12–16</td><td>33</td><td colspan="4">invece del Cfo tecn (5–26 giorni) come pure del corso preparatorio dei quadri e del servizio pratico in una scuola reclute (131 giorni)</td><td></td></tr>
+<tr><th></th><th></th><th>Servizio pratico in servizi d’istruzione delle formazioni</th><th>Corso per specialisti o corso di formazione tecnica per il grado futuro</th><th>Corso preparatorio dei quadri e servizio pratico in una scuola reclute</th><th colspan="4">Osservazioni</th><th>Osservazioni</th></tr>
+<tr><td>4.0</td><td>Ten</td><td>33</td><td></td><td></td><td colspan="4">Invece del corso preparatorio dei quadri e del servizio pratico in una scuola reclute (131 giorni).</td><td></td></tr>
+<tr><td>5.0</td><td>Cap</td><td></td><td>12–16</td><td>33</td><td colspan="4">Invece del corso di formazione tecnica (5–26 giorni) come pure del corso preparatorio dei quadri e del servizio pratico in una scuola reclute (131 giorni)</td><td></td></tr>
 </table>
 
 <table>
-<tr><td>Legenda: X Corsi di formazione professionali nel quadro del rapporto d’impiego non computabili nel totale obbligatorio di giorni di servizio d’istruzione. \* Nella funzione di milizia il grado di un sottufficiale di professione può superare al massimo di un grado quello nella funzione professionale. [tab] AIME Autorizzazione per l’impiego di munizioni esplosive Aiut capo Aiutante capo Aiut magg Aiutante maggiore Aiut SM Aiutante di stato maggiore Aiut suff Aiutante sottufficiale App Appuntato C Capo Cap Capitano Caposez Caposezione Cfo Corso di formazione Cfo base SSPE Corso di formazione di base della Scuola per sottufficiali di professione dell’esercito Cfo cond Corso di formazione alla condotta Cfo tecn Corso di formazione tecnica Collab Collaboratore Dist Distaccamento EOD Explosive Ordnance Disposal Fur Furiere I ten Primotenente IEDD Improvised Explosive Device Disposal</td><td>Istr Istruzione KAMIBES Eliminazione di munizioni inesplose KAMIR Eliminazione di munizioni inesplose e sminamento Magg Maggiore Mil Militare PM Polizia militare Recl Recluta S prat Servizio pratico Sdt Soldato Sgt Sergente Sgt capo Sergente capo Sgtm Sergente maggiore Sgtm capo Sergente maggiore capo Sic mil Sicurezza militare SMG di stato maggiore generale Spec eser Specialista esercizio SU Scuola ufficiali Suff Sottufficiale Suff prof Sottufficiale di professione Ten Tenente Ten col Tenente colonnello U Unità Uff Ufficiale Uff prof Ufficiale di professione</td></tr>
+<tr><td>Legenda X Corsi di formazione professionale nel quadro del rapporto d’assunzione senza computabilità sul totale obbligatorio di giorni di servizio d’istruzione. \* Nella funzione di milizia il grado di un sottufficiale di professione può superare al massimo di un grado il suo grado nella funzione professionale. [tab] I ten Primotenente AIME Autorizzazione per l’impiego di munizioni esplosive Aiut capo Aiutante capo Aiut magg Aiutante maggiore Aiut SM Aiutante di stato maggiore Aiut suff Aiutante sottufficiale App Appuntato App capo Appuntato capo BACI Battle Area Clearance Cap Capitano Cfo base SSPE Corso di formazione di base della Scuola per sottufficiali di professione dell’esercito Cfo avanz Corso di formazione per l’avanzamento CMD Conventional Munitions Disposal EOD Explosive Ordnance Disposal Fur Furiere HMA Humanitarian Mine Action</td><td>IEDD Improvised Explosive Device Disposal KAMIBES Eliminazione di munizioni inesplose KAMIR Eliminazione di munizioni inesplose e sminamento Magg Maggiore PM Polizia militare Recl Recluta Sdt Soldato Sgt capo Sergente capo Sgt Sergente Sgtm capo Sergente maggiore capo Sgtm Sergente maggiore SMG di stato maggiore generale Suff prof Sottufficiale di professione Ten col Tenente colonnello Ten Tenente Uff prof Ufficiale di professione</td></tr>
 </table>
 
-Allegato 5*[^t-5]*
+Allegato 5[^t-5]
 
 (art. 81 cpv. 1)
 
 ## Specialisti
 
-[^t-5]: Nuovo testo giusta il n. II cpv. 1 dell’O del 16 ott. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)). Aggiornato dall’all. 3 n. II 3 dell’O dell’11 nov. 2020 sulla protezione della popolazione, in vigore dal 1° gen. 2021 ([RU 2020 5087](https://fedlex.data.admin.ch/eli/oc/2020/889)).
+[^t-5]: Nuovo testo giusta il n. II cpv. 1 dell’O del 16 ott. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)). Aggiornato dall’all. 3 n. II 3 dell’O dell’11 nov. 2020 sulla protezione della popolazione ([RU 2020 5087](https://fedlex.data.admin.ch/eli/oc/2020/889)) e dal n. II cpv. 2 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 I seguenti militari possono essere nominati specialisti e incorporati militarmente in modo corrispondente qualora:
 
@@ -2594,7 +2742,7 @@ I seguenti militari possono essere nominati specialisti e incorporati militarmen
 - 1\.3 rete AF o i suoi sistemi successivi,
 - 1\.4 ubicazioni in quota,
 - 1\.5 ulteriori sistemi successivi con gli stessi scopi;
-- 2\. nella rispettiva attività civile nelle Forze aeree o nella Base logistica dell’esercito siano titolari di una funzione che indipendentemente dalla situazione adempie compiti rilevanti per gli impieghi;
+- 2\. nella rispettiva attività civile nelle Forze aeree, nel Servizio informazioni militare o nella Base logistica dell’esercito siano titolari di una funzione che indipendentemente dalla situazione adempie compiti rilevanti per gli impieghi;
 - 3\. adempiano le condizioni per un’incorporazione quale pilota, pilota collaudatore, operatore di bordo, operatore di droni, ufficiale impiego droni, esploratore paracadutista o esploratore dell’esercito;
 - 4\. dispongano di conoscenze particolari nei seguenti settori:
 - 4\.1 manutenzione e riparazione di aeromobili,
@@ -2620,25 +2768,32 @@ I seguenti militari possono essere nominati specialisti e incorporati militarmen
 - 4\.21 funzionamento del software del simulatore di condotta 95+,
 - 4\.22 istruzione sportiva,
 - 4\.23 immersione subacquea,
-- 4\.24 moderazione di manifestazioni informative;
+- 4\.24 moderazione di manifestazioni informative,
+- 4\.25 assistenza spirituale,
+- 4\.26 cibersicurezza, ciberprotezione, ciberdifesa e crittologia,
+- 4\.27 polizia,
+- 4\.28 musica con teoria musicale come campo principale;
 - 5\. siano membri dello Stato maggiore del Consiglio federale Centrale nazionale d’allarme.
 
-Allegato 6
+Allegato 6[^t-6]
 
 (art. 90 cpv. 2 e 91 cpv. 1)
 
 ## Competenze in materia di differimenti
 
+[^t-6]: Nuovo testo giusta il n. II cpv. 1 dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+
 <table>
-<tr><th colspan="2">Genere del servizio</th><th colspan="2">Richiedente</th><th colspan="2">Destinatario della domanda</th><th colspan="2">Decisione</th></tr>
-<tr><td colspan="2">Reclutamento</td><td colspan="2">– Persone soggette all’obbligo di leva</td><td colspan="2">Comandante di circondario</td><td colspan="2">Comandante di circondario</td></tr>
-<tr><td colspan="2">Servizi d’istruzione di base</td><td colspan="2">– Reclute</td><td colspan="2">Comandante di circondario</td><td colspan="2">Comando Istruzione</td></tr>
-<tr><td colspan="2">Servizi d’istruzione dei quadri</td><td colspan="2">– Soldati, appuntati – Caporali, sergenti, sergenti capi – Sottufficiali superiori non incorporati in stati maggiori – Ufficiali subalterni non incorporati in stati maggiori né ad interim in una funzione in qualità di capitani</td><td colspan="2">Comandante di circondario</td><td colspan="2">Comando Istruzione</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– Sottufficiali superiori incorporati in stati maggiori – Ufficiali subalterni incorporati in stati maggiori e ad interim in una funzione in qualità di capitani – Capitani e ufficiali superiori – Ufficiali specialisti e specialisti</td><td colspan="2">Comando Istruzione per la via di servizio</td><td colspan="2">Comando Istruzione</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– Ufficiali di stato maggiore generale</td><td colspan="2">Capo dell’esercito</td><td colspan="2">Capo dell’esercito (decisione di partecipazione Commissione delle carriere Difesa)</td></tr>
-<tr><td>Servizi d’istruzione delle formazioni e servizi speciali dei quadri</td><td colspan="2">– Soldati, appuntati – Caporali, sergenti, sergenti capi – Sottufficiali superiori non incorporati in stati maggiori</td><td colspan="2">Comandante di circondario</td><td colspan="2">Comandante di circondario o Comando Istruzione</td></tr>
-<tr><td></td><td colspan="2">– Ufficiali subalterni non incorporati ad interim in una funzione in qualità di capitani</td><td colspan="2"></td><td colspan="2">Comando Istruzione</td></tr>
-<tr><td></td><td colspan="2">– Sottufficiali superiori non incorporati in stati maggiori – Ufficiali subalterni incorporati ad interim in una funzione in qualità di capitani – Capitani e ufficiali superiori – Ufficiali specialisti e specialisti</td><td colspan="2">Comando Istruzione per la via di servizio</td><td colspan="2">Comando Istruzione</td></tr>
+<tr><th>Genere di servizio</th><th>Richiedente</th><th>Destinatario della domanda</th><th>Decisione</th></tr>
+<tr><td>Reclutamento</td><td>– Persone soggette all’obbligo di leva</td><td>Comandante di circondario</td><td>Comandante di circondario</td></tr>
+<tr><td>Servizi d’istruzione di base</td><td>– Reclute</td><td>Comando Istruzione</td><td>Comando Istruzione</td></tr>
+<tr><td>Servizi d’istruzione dei quadri</td><td>– Soldati, appuntati – Caporali, sergenti e sergenti capi – Sottufficiali superiori non incorporati in stati maggiori – Ufficiali subalterni non incorporati in stati maggiori né *ad interim* in una funzione in qualità di capitani</td><td>Comandante di circondario</td><td>Comando Istruzione</td></tr>
+<tr><td></td><td>– Sottufficiali superiori incorporati in stati maggiori – Ufficiali subalterni incorporati in stati maggiori e *ad interim* in una funzione in qualità di capitani – Capitani e ufficiali superiori – Ufficiali specialisti e specialisti</td><td>Comando Istruzione per la via di servizio</td><td>Comando Istruzione</td></tr>
+<tr><td></td><td>– Ufficiali di stato maggiore generale (Cfo SMG I/Cfo SMG IV e Cfo SMG V)</td><td>Capo dell’esercito</td><td>Capo dell’esercito</td></tr>
+<tr><td></td><td>– Ufficiali di stato maggiore generale (Cfo SMG II e Cfo SMG III)</td><td>Comando Istruzione</td><td>Comando Istruzione</td></tr>
+<tr><td>Servizi d’istruzione delle formazioni e servizi speciali dei quadri</td><td>– Soldati, appuntati – Caporali, sergenti e sergenti capi – Sottufficiali superiori non incorporati in stati maggiori</td><td>Comandante di circondario</td><td>Comandante di circondario o Comando Istruzione</td></tr>
+<tr><td></td><td>– Ufficiali subalterni non incorporati *ad interim* in una funzione in qualità di capitani</td><td></td><td>Comando Istruzione</td></tr>
+<tr><td></td><td>– Sottufficiali superiori incorporati in stati maggiori – Ufficiali subalterni incorporati *ad interim* in una funzione in qualità di capitani – Capitani e ufficiali superiori – Ufficiali specialisti e specialisti</td><td>Comando Istruzione per la via di servizio</td><td>Comando Istruzione</td></tr>
 </table>
 
 Allegato 7

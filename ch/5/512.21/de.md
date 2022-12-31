@@ -4,11 +4,11 @@ title: Verordnung vom 22. November 2017 über die Militärdienstpflicht (VMDP)
 short: VMDP
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/810"
 language: de
-version: 2022-07-01
+version: 2023-01-01
 adopted: 2017-11-22
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/810/20220701/de/xml/fedlex-data-admin-ch-eli-cc-2017-810-20220701-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/810/20220701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/810/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2017-810-20230101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/810/20230101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,16 +17,17 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/810/20220701/de"
 
 (VMDP)
 
-vom 22. November 2017 (Stand am 1. Juli 2022)
+vom 22. November 2017 (Stand am 1. Januar 2023)
 
 Der Schweizerische Bundesrat,
 
-gestützt auf das Militärgesetz vom 3. Februar 1995[^ingress-1] (MG) und auf Artikel 75 Absatz 1 des Bevölkerungs- und Zivilschutzgesetzes vom 4. Oktober 2002[^ingress-2] (BZG),
+gestützt auf das Militärgesetz vom 3. Februar 1995[^ingress-1] (MG) und auf das Bevölkerungs- und Zivilschutzgesetz vom 20. Dezember 2019[^ingress-2] (BZG),[^ingress-3]
 
 verordnet:
 
 [^ingress-1]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^ingress-2]: [[AS 2003 4187](https://fedlex.data.admin.ch/eli/oc/2003/620), [4327](https://fedlex.data.admin.ch/eli/oc/2003/645); [2005 2881](https://fedlex.data.admin.ch/eli/oc/2005/472)Ziff. II Abs. 1 Bst. c; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 47; [2009 6617](https://fedlex.data.admin.ch/eli/oc/2009/823)Anhang Ziff. 3; [2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869)Anhang Ziff. 4; [2011 5891](https://fedlex.data.admin.ch/eli/oc/2011/816); [2014 3545](https://fedlex.data.admin.ch/eli/oc/2014/615)Art. 23; [2015 187](https://fedlex.data.admin.ch/eli/oc/2015/24); [2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714)Anhang Ziff. 7; [2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807)Anhang Ziff. 7. [AS 2020 4995](https://fedlex.data.admin.ch/eli/oc/2020/887)Anhang Ziff. I]. Siehe heute: das BG vom 20. Dez. 2019 ([SR 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)).
+[^ingress-2]: [SR 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)
+[^ingress-3]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 ## 1. Kapitel: Zweck
 
@@ -117,7 +118,9 @@ Auf Gesuch hin können folgende Personen der Armee auf eine Funktion gemäss der
   Personen nach Artikel 6 Absatz 1 Buchstabe c MG, die im Zeitpunkt der Entscheidung über das Gesuch:
 
   - 1\. das 24. Altersjahr noch nicht vollendet haben, sich bereit erklären, die militärische Ausbildung vor Vollendung des 25. Altersjahres zu beginnen, und die Ausbildungsdienstpflicht innerhalb der Altersgrenzen für die Militärdienstpflicht erfüllen können, oder
-  - 2\. bereits militärische Ausbildung geleistet haben, sofern sie die Ausbildungsdienstpflicht des zuletzt erlangten Grades innerhalb der Altersgrenzen für die Militärdienstpflicht erfüllen können.
+  - 2\. bereits militärische Ausbildung geleistet haben, sofern sie die Ausbildungsdienstpflicht des zuletzt erlangten Grades innerhalb der Altersgrenzen für die Militärdienstpflicht erfüllen können;
+
+- e.[^4-3] Personen, die einen Friedensförderungsdienst geleistet haben.
 
 <sup>2</sup>
 
@@ -126,18 +129,23 @@ Die gesuchstellenden Personen werden zugeteilt oder zugewiesen, wenn:
 - a. ein Bedarf der Armee besteht;
 - b. sie das Fachwissen für die Ausübung der vorgesehenen Funktion ausweisen;
 - c. sie gute Kenntnisse einer Schweizer Landessprache nachweisen;
-- d. die medizinische Tauglichkeit für die vorgesehene Funktion feststeht; und
-- e. bei Bestehen von besonderen persönlichen Verhältnissen nach Artikel 33 Absatz 2 eine Zustimmung vorliegt.
+- d.[^4-4] die körperlichen und geistigen Fähigkeiten für die vorgesehene Funktion feststehen;
+- e.[^4-5] bei Bestehen von besonderen persönlichen Verhältnissen nach Artikel 33 Absatz 2 eine Zustimmung vorliegt; und
+- f.[^4-6] das Einverständnis des Arbeitgebers oder der Arbeitgeberin vorliegt.
 
 <sup>3</sup> Es besteht kein Anspruch auf eine Zuteilung oder Zuweisung zur Armee.
 
 <sup>4</sup> Die Gruppe Verteidigung entscheidet über die Gesuche.
 
-<sup>5</sup> Die Voraussetzungen für Personen, die einen Dienst im Rotkreuzdienst leisten wollen, richten sich nach der Verordnung vom 29. September 2006[^4-3] über den Rotkreuzdienst.
+<sup>5</sup> Die Voraussetzungen für Personen, die einen Dienst im Rotkreuzdienst leisten wollen, richten sich nach der Verordnung vom 29. September 2006[^4-7] über den Rotkreuzdienst.
 
 [^4-1]: Fassung gemäss Ziff. I der V vom 16. Okt. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
 [^4-2]: [SR 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
-[^4-3]: [SR 513.52](https://fedlex.data.admin.ch/eli/cc/2006/620)
+[^4-3]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^4-4]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^4-5]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^4-6]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^4-7]: [SR 513.52](https://fedlex.data.admin.ch/eli/cc/2006/620)
 
 #### Art. 5
 
@@ -160,9 +168,12 @@ Für zugeteilte und zugewiesene Personen gelten die folgenden Grundsätze:
 
 <sup>2</sup> Zivilen Angestellten des Bundes, die aufgrund ihrer zivilen Funktion in eine bestimmte militärische Funktion zugeteilt oder zugewiesen werden, kann für die Dauer der Zuteilung oder der Zuweisung der für die Funktionsausübung notwendige Grad verliehen werden.[^5-3]
 
+<sup>3</sup> Personen, die einen Friedensförderungsdienst geleistet haben, können Dienst nach den Grundsätzen von Absatz 1 leisten oder eine Milizlaufbahn nach Anhang 2 absolvieren.[^5-4]
+
 [^5-1]: Fassung gemäss Ziff. I der V vom 16. Okt. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
 [^5-2]: Fassung gemäss Ziff. I der V vom 16. Okt. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
 [^5-3]: Eingefügt durch Ziff. I der V vom 16. Okt. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
+[^5-4]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 #### Art. 6
 
@@ -172,7 +183,7 @@ Für zugeteilte und zugewiesene Personen gelten die folgenden Grundsätze:
 
 Zugeteilte oder zugewiesene Personen leisten als:
 
-- a.[^6-1] angehende Fachoffiziere und Fachoffizierinnen der Armeeseelsorge, des Psychologisch-pädagogischen Dienstes der Armee oder des Sozialdienstes der Armee: einen minimalen militärischen Grundausbildungsdienst von 19 Tagen sowie anschliessend Ausbildungsdienst nach Artikel 47 Absatz 4;
+- a.[^6-1] angehende Fachoffiziere und Fachoffizierinnen der Armeeseelsorge, des Psychologisch-pädagogischen Dienstes der Armee oder des Sozialdienstes der Armee: einen minimalen militärischen Grundausbildungsdienst von 2 Tagen sowie anschliessend Ausbildungsdienst nach Artikel 47 Absatz 4;
 - b.
 
   Ärzte, Ärztinnen, Psychologen oder Psychologinnen: einen minimalen militärischen Grundausbildungsdienst von 2 Tagen und anschliessend folgende Ausbildungsdienste von höchstens 180 Tagen:
@@ -187,11 +198,33 @@ Zugeteilte oder zugewiesene Personen leisten als:
   - 1\. einen minimalen militärischen Grundausbildungsdienst von 2 Tagen und anschliessend 126 Tage Ausbildungsdienst als Soldat oder 240 Tage Ausbildungsdienst als Fachoffizier oder Fachoffizierin,
   - 2\. sofern sie die Militärdienstpflicht erfüllt haben: Ausbildungsdienste der Formationen von jährlich höchstens 38 Tagen;
 
-- d. Personen nach Artikel 4 Absatz 1 Buchstabe d Ziffer 1: 245 Tage Ausbildungsdienst, als Durchdienende 280 Tage Ausbildungsdienst; darin eingeschlossen sind die Rekrutierung, ein Grundausbildungsdienst von insgesamt 124 Tagen und die übrigen Ausbildungsdienste ohne Unterbruch oder in jährlichen Wiederholungskursen.
+- d.[^6-2] Personen nach Artikel 4 Absatz 1 Buchstabe d Ziffer 1: 245 Tage Ausbildungsdienst, als Durchdienende 300 Tage Ausbildungsdienst; darin eingeschlossen sind die Rekrutierung, ein Grundausbildungsdienst von insgesamt 124 Tagen und die übrigen Ausbildungsdienste ohne Unterbruch oder in jährlichen Wiederholungskursen;
+- e.[^6-3]
 
-[^6-1]: Fassung gemäss Ziff. I der V vom 16. Okt. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
+  Personen nach Artikel 4 Absatz 1 Buchstabe e:
 
-### 3. Abschnitt: Ausweis über die Erfüllung der Militärdienstpflicht (Dienstbüchlein)
+  - 1\. die eine Milizlaufbahn nach Anhang 2 absolvieren: Ausbildungsdienst nach Artikel 47,
+  - 2\. die nicht eine Milizlaufbahn nach Anhang 2 absolvieren: Ausbildungsdienst nach Buchstabe c.
+
+[^6-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^6-2]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^6-3]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+
+### 3. Abschnitt: Ausweis über die Erfüllung der Militärdienstpflicht
+
+[^chap2-sec3-1]
+
+[^chap2-sec3-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+
+#### Art. 6a
+
+**Form**[^6a-1]
+
+### (Art. 6*a* MG)
+
+Der Ausweis über die Erfüllung der Militärdienstpflicht kann elektronisch, als Dienstbüchlein oder in anderer Form abgegeben werden.
+
+[^6a-1]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 #### Art. 7
 
@@ -199,7 +232,7 @@ Zugeteilte oder zugewiesene Personen leisten als:
 
 ### (Art. 6*a* MG)
 
-Der Ausweis über die Erfüllung der Militärdienstpflicht (Dienstbüchlein) enthält folgende Daten:
+Der Ausweis über die Erfüllung der Militärdienstpflicht enthält folgende Daten:[^7-1]
 
 - a. Personalien;
 - b. Einteilung, Zuteilung oder Zuweisung;
@@ -212,31 +245,37 @@ Der Ausweis über die Erfüllung der Militärdienstpflicht (Dienstbüchlein) ent
 - i. Wohnort und Postadresse;
 - j. Anordnungen zum Aufgebot, insbesondere für das Aufgebot von Angehörigen der Formationen mit ständigen Bereitschaftsauflagen und für die Durchführung des Aufgebots zum Assistenz- oder Aktivdienst.
 
+[^7-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+
 #### Art. 8
 
-**Aufbewahrung und Verlust**
+**Aufbewahrung und Verlust**[^8-1]
 
 ### (Art. 6*a* MG)
 
-<sup>1</sup> Das Dienstbüchlein darf nur für dienstliche Zwecke ausgehändigt werden. Die Einsichtnahme in das Dienstbüchlein und die Bekanntgabe von Daten aus dem Dienstbüchlein sind ebenfalls nur für dienstliche Zwecke zulässig.
+<sup>1</sup> Der Ausweis über die Erfüllung der Militärdienstpflicht darf nur für dienstliche Zwecke ausgehändigt werden. Die Einsichtnahme in den Ausweis und die Bekanntgabe von Daten aus dem Ausweis sind ebenfalls nur für dienstliche Zwecke zulässig.
 
-<sup>2</sup> Das Dienstbüchlein ist von der militärdienstpflichtigen Person bis zur Entlassung aus der Militärdienstpflicht aufzubewahren.
+<sup>2</sup> Er ist von der militärdienstpflichtigen Person bis zur Entlassung aus der Militärdienstpflicht aufzubewahren.
 
-<sup>3</sup> Meldepflichtige Personen mit Auslandurlaub hinterlegen das Dienstbüchlein für die Dauer ihrer Auslandabwesenheit beim Kreiskommandanten oder bei der Kreiskommandantin.
+<sup>3</sup> Meldepflichtige Personen mit Auslandurlaub hinterlegen den Ausweis, sofern er nicht elektronisch abgegeben wurde, für die Dauer ihrer Auslandabwesenheit beim Kreiskommandanten oder bei der Kreiskommandantin.
 
-<sup>4</sup> Der festgestellte Verlust des Dienstbüchleins ist zwecks Erstellung eines Duplikates umgehend dem Kreiskommandanten oder der Kreiskommandantin zu melden.
+<sup>4</sup> Der festgestellte Verlust des Ausweises ist zwecks Abgabe eines neuen Ausweises umgehend dem Kreiskommandanten oder der Kreiskommandantin zu melden.
+
+[^8-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 #### Art. 9
 
-**Beweiskraft der Eintragungen**
+**Beweiskraft der Eintragungen**[^9-1]
 
 ### (Art. 6*a* MG)
 
-<sup>1</sup> Eintragungen über militärärztliche Untersuchungen, Entscheide der Militärversicherung, Änderungen im Grad und in der Funktion und geleistete Dienste sind vom zuständigen Vollzugsorgan zu unterzeichnen.
+<sup>1</sup> Eintragungen über militärärztliche Untersuchungen, Entscheide der Militärversicherung, Änderungen im Grad und in der Funktion und geleistete Dienste im Ausweis über die Erfüllung der Militärdienstpflicht sind vom zuständigen Vollzugsorgan zu signieren.
 
-<sup>2</sup> Fehlende oder falsche Eintragungen im Dienstbüchlein sind umgehend dem Kreiskommandanten oder der Kreiskommandantin zwecks Berichtigung zu melden.
+<sup>2</sup> Fehlende oder falsche Eintragungen im Ausweis sind umgehend dem Kreiskommandanten oder der Kreiskommandantin zwecks Berichtigung zu melden.
 
-<sup>3</sup> Bei Widersprüchen zwischen Eintragungen im Dienstbüchlein und Eintragungen in den Kontrollen wird bei Eintragungen nach Absatz 1 die Richtigkeit des Dienstbüchleins vermutet, in allen anderen Fällen die Richtigkeit der Kontrollen.
+<sup>3</sup> Bei Widersprüchen zwischen Eintragungen im Ausweis und Eintragungen in den Kontrollen wird bei Eintragungen nach Absatz 1 die Richtigkeit des Ausweises vermutet, in allen anderen Fällen die Richtigkeit der Kontrollen.
+
+[^9-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 ### 4. Abschnitt: Stellungspflicht und Rekrutierung
 
@@ -271,7 +310,9 @@ Stellungspflichtige werden zur obligatorischen Teilnahme an der Orientierungsver
 - a. im laufenden Jahr ihr 18. Altersjahr vollenden;
 - b. im laufenden Jahr ihr 17. Altersjahr vollenden und mitgeteilt haben, dass sie die Rekrutenschule im 19. Altersjahr absolvieren wollen.
 
-<sup>2</sup> Das Aufgebot erfolgt jährlich bis spätestens im Jahr, in dem ein Stellungspflichtiger das 24. Altersjahr vollendet.[^11-1]
+<sup>2</sup> Stellungspflichtige werden jährlich bis spätestens im Jahr, in dem sie das 24. Altersjahr vollenden, aufgeboten.[^11-1]
+
+<sup>2bis</sup> Nicht stellungspflichtige Schweizerinnen können bis zum vollendeten 24. Altersjahr mehrfach eingeladen werden.[^11-2]
 
 <sup>3</sup>
 
@@ -279,11 +320,11 @@ An der Orientierungsveranstaltung werden die Teilnehmenden insbesondere informie
 
 - a. die rechtlichen Grundlagen zum Militärdienst, zum Zivildienst, zum Zivilschutz und zum Rotkreuzdienst;
 - b. die Aufgaben und die Einsätze der Armee, des Zivildienstes, des Zivilschutzes und des Rotkreuzdienstes;
-- c.[^11-2] die Dienstleistungsmodelle, die Kaderausbildungslaufbahnen, die Berufsmöglichkeiten in der Armee, die vordienstliche Ausbildung und die freiwillige ausserdienstliche Tätigkeit;
+- c.[^11-3] die Dienstleistungsmodelle, die Kaderausbildungslaufbahnen, die Berufsmöglichkeiten in der Armee, die vordienstliche Ausbildung und die freiwillige ausserdienstliche Tätigkeit;
 - d. die Dienstleistungsmodelle und die Kaderausbildungslaufbahnen im Zivilschutz;
 - e. die Wehrpflichtersatzabgabe;
 - f. den Ablauf der Rekrutierung und der Rekrutierungstage;
-- g. die Personensicherheitsprüfung nach der Verordnung vom 4. März 2011[^11-3] über die Personensicherheitsprüfungen (PSPV) und die Folgen beim Vorliegen von besonderen persönlichen Verhältnissen nach Artikel 33 Absatz 2.
+- g. die Personensicherheitsprüfung nach der Verordnung vom 4. März 2011[^11-4] über die Personensicherheitsprüfungen (PSPV) und die Folgen beim Vorliegen von besonderen persönlichen Verhältnissen nach Artikel 33 Absatz 2.
 
 <sup>4</sup>
 
@@ -295,9 +336,10 @@ An der Orientierungsveranstaltung werden von den Stellungspflichtigen die für d
 
 <sup>5</sup> Die Aufgebotenen und die Eingeladenen, die sich angemeldet haben, erhalten einen Ausweis für die kostenlose Benutzung der öffentlichen Verkehrsmittel für die An- und die Rückreise.
 
-[^11-1]: Fassung gemäss Ziff. I der V vom 16. Okt. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
-[^11-2]: Fassung gemäss Ziff. I der V vom 16. Okt. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
-[^11-3]: [SR 120.4](https://fedlex.data.admin.ch/eli/cc/2011/155)
+[^11-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^11-2]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^11-3]: Fassung gemäss Ziff. I der V vom 16. Okt. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
+[^11-4]: [SR 120.4](https://fedlex.data.admin.ch/eli/cc/2011/155)
 
 #### Art. 12
 
@@ -373,7 +415,9 @@ Zur Ermittlung des Leistungsprofils werden bei den Stellungspflichtigen in Testv
 
 **Zuteilung auf eine Rekrutierungsfunktion der Armee oder des Zivilschutzes**
 
-### (Art. 10 Abs. 1 Bst. d MG; Art. 16 Abs. 1, 66*a* BZG)
+### (Art. 10 Abs. 1 Bst. d MG; Art. 34 Abs. 1, 85 BZG)
+
+[^16-1]
 
 <sup>1</sup>
 
@@ -391,11 +435,12 @@ Für die Zuteilung von Militärdiensttauglichen auf eine Rekrutierungsfunktion d
 
 Eine militärdiensttaugliche Person wird provisorisch auf eine Rekrutierungsfunktion der Armee zugeteilt, wenn:
 
-- a.[^16-1] sie eine Eignungsabklärung für die Funktion als Gebirgsspezialist, Gebirgsspezialistin, Grenadier, Grenadierin, Fallschirmaufklärer, Fallschirmaufklärerin, Hundeführer, Hundeführerin oder für eine Funktion in der Militärmusik zu bestehen hat; oder
-- b. eine Personensicherheitsprüfung erforderlich ist, aber noch kein Entscheid nach Artikel 22 Absatz 1 Buchstabe a PSPV[^16-2] oder noch keine Information nach Artikel 23 Absatz 3 PSPV vorliegt.
+- a.[^16-2] sie eine Eignungsabklärung für die Funktion als Gebirgsspezialist, Gebirgsspezialistin, Grenadier, Grenadierin, Fallschirmaufklärer, Fallschirmaufklärerin, Hundeführer, Hundeführerin oder für eine Funktion in der Militärmusik zu bestehen hat; oder
+- b. eine Personensicherheitsprüfung erforderlich ist, aber noch kein Entscheid nach Artikel 22 Absatz 1 Buchstabe a PSPV[^16-3] oder noch keine Information nach Artikel 23 Absatz 3 PSPV vorliegt.
 
-[^16-1]: Fassung gemäss Ziff. I der V vom 16. Okt. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
-[^16-2]: [SR 120.4](https://fedlex.data.admin.ch/eli/cc/2011/155)
+[^16-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^16-2]: Fassung gemäss Ziff. I der V vom 16. Okt. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
+[^16-3]: [SR 120.4](https://fedlex.data.admin.ch/eli/cc/2011/155)
 
 #### Art. 17
 
@@ -420,9 +465,12 @@ Die für die Rekrutierung zuständige Stelle kann eine Neuzuteilung auf eine Rek
 
 - a. im Falle einer provisorischen Zuteilung;
 - b. wenn sich die persönliche oder die berufliche Situation, die für die Zuteilung massgebend war, wesentlich verändert hat;
-- c. wenn sich während der Grundausbildung herausstellt, dass die betreffende Person für die zugeteilte Rekrutierungsfunktion nicht geeignet ist.
+- c. wenn sich während der Grundausbildung herausstellt, dass die betreffende Person für die zugeteilte Rekrutierungsfunktion nicht geeignet ist;
+- d.[^18-1] wenn die betreffende Person die Selektion für die Ausbildung im Cyber- Lehrgang bestanden hat.
 
 <sup>2</sup> Sie teilt mit der Eröffnung der Neuzuteilung den Beginn und den Ort der Ausbildung mit.
+
+[^18-1]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 ### 5. Abschnitt: Altersgrenzen für die Militärdienstpflicht
 
@@ -436,9 +484,9 @@ Die für die Rekrutierung zuständige Stelle kann eine Neuzuteilung auf eine Rek
 
 <sup>2</sup> Die Militärdienstpflicht für Soldaten als Anwärter und Anwärterin zum Militärarzt, zur Militärärztin, zum Apotheker, zur Apothekerin, zum Zahnarzt, zur Zahnärztin, zum Veterinärarzt oder zur Veterinärärztin, die die Kaderausbildungslaufbahn zum Leutnant nicht bestehen, dauert bis zum Ende des zehnten Kalenderjahres nach Abschluss der Grundausbildung.
 
-<sup>3</sup> Die Militärdienstpflicht für Rekrutierte, die nach Artikel 49 Absatz 2 MG aus der Armee entlassen werden, dauert bis zum Ende des zehnten Kalenderjahres nach der Entlassung.[^19-1]
+<sup>3</sup> Die Militärdienstpflicht für Rekrutierte, die nach Artikel 49 Absatz 2 MG aus der Armee entlassen werden, dauert bis zum Ende des zwölften Kalenderjahres nach der Entlassung.[^19-1]
 
-[^19-1]: Eingefügt durch Ziff. I der V vom 16. Okt. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
+[^19-1]: Eingefügt durch Ziff. I der V vom 16. Okt. 2019 ([AS 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)). Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 #### Art. 20
 
@@ -460,22 +508,23 @@ Die Militärdienstpflicht für Durchdienende dauert für:
 
 <sup>1</sup>
 
-Auf gemeinsames Gesuch der betroffenen Person und des zuständigen Kommandos können Spezialisten und Spezialistinnen, höhere Unteroffiziere und Stabsoffiziere für die Verlängerung der Militärdienstpflicht zugelassen werden, wenn:
+Auf gemeinsames Gesuch der betroffenen Person und des zuständigen Kommandos können Fachoffiziere und Fachoffizierinnen, Spezialisten und Spezialistinnen, höhere Unteroffiziere und Offiziere für die Verlängerung der Militärdienstpflicht zugelassen werden, wenn:[^21-1]
 
 - a. keine anderen, für die vorgesehene Funktion geeigneten Angehörigen der Armee zur Verfügung stehen; und
 - b.
 
   die betroffene Person die folgenden Voraussetzungen erfüllt:
 
-  - 1\.[^21-1] Die Ausbildungsdienstpflicht ist erfüllt; ausgenommen davon sind Stabsoffiziere.
+  - 1\.[^21-2] Die Ausbildungsdienstpflicht ist erfüllt; ausgenommen davon sind Hauptleute und Stabsoffiziere.
   - 2\. Die medizinische Tauglichkeit für die vorgesehene Funktion steht fest.
-  - 3\. Eine nach der PSPV[^21-2] notwendige Verfügung liegt rechtskräftig vor, und die Zustimmung der entscheidenden Instanz ist erteilt.
+  - 3\. Eine nach der PSPV[^21-3] notwendige Verfügung liegt rechtskräftig vor, und die Zustimmung der entscheidenden Instanz ist erteilt.
   - 4\. Das Einverständnis des Arbeitgebers liegt vor.
 
 <sup>2</sup> Das Kdo Ausb entscheidet über die Gesuche.
 
-[^21-1]: Fassung gemäss Ziff. I der V vom 16. Okt. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
-[^21-2]: [SR 120.4](https://fedlex.data.admin.ch/eli/cc/2011/155)
+[^21-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^21-2]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^21-3]: [SR 120.4](https://fedlex.data.admin.ch/eli/cc/2011/155)
 
 ### 6. Abschnitt: Waffenloser Militärdienst
 
@@ -485,7 +534,7 @@ Auf gemeinsames Gesuch der betroffenen Person und des zuständigen Kommandos kö
 
 ### (Art. 16 MG)
 
-<sup>1</sup> Wer seinen Dienst aus Gewissensgründen nicht mit einer Waffe leisten kann, reicht beim Kreiskommandanten oder bei der Kreiskommandantin ein Gesuch um waffenlosen Militärdienst ein.
+<sup>1</sup> Militärdienstpflichtige, die den bewaffneten Militärdienst mit ihrem Gewissen nicht vereinbaren können, reichen beim Kreiskommandanten oder bei der Kreiskommandantin ein Gesuch um waffenlosen Militärdienst ein.[^22-1]
 
 <sup>2</sup>
 
@@ -506,10 +555,13 @@ Wer ein Gesuch stellt, muss:
 
   - 1\. einen ausführlichen Lebenslauf,
   - 2\. einen aktuellen Auszug aus dem zentralen Strafregister,
-  - 3\. das Dienstbüchlein,
+  - 3\.[^22-2] das Dienstbüchlein, sofern ein solches abgegeben wurde,
   - 4\. Berichte, in denen Vertreter oder Vertreterinnen staatlicher oder kirchlicher Instanzen, religiöser Gemeinschaften oder andere Personen, die den Gesuchsteller oder die Gesuchstellerin persönlich kennen, die Haltung des Gesuchstellers oder der Gesuchstellerin darstellen und aus ihrer Sicht würdigen.
 
 <sup>4</sup> Wer sein Gesuch fristgerecht einreicht, leistet den Militärdienst ohne Waffe und wird auf Anordnung der kontrollführenden Stelle von der ausserdienstlichen Schiesspflicht dispensiert, bis über das Gesuch rechtskräftig entschieden ist.
+
+[^22-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^22-2]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 #### Art. 23
 
@@ -542,13 +594,21 @@ Nach der Bewilligung des Gesuches zum waffenlosen Militärdienst werden die Zuge
 
 #### Art. 25
 
-**Hauptberuflichkeit**
+**Hauptberuflichkeit**[^25-1]
 
 ### (Art. 18 MG)
 
-<sup>1</sup> Hauptberuflichkeit liegt vor, wenn die militärdienstpflichtige Person in einem mindestens auf ein Jahr abgeschlossenen befristeten oder in einem unbefristeten Arbeitsvertragsverhältnis steht und die unentbehrliche Tätigkeit durchschnittlich mindestens 35 Stunden in der Woche ausgeübt werden muss.
+<sup>1</sup> Hauptberuflichkeit liegt vor, wenn die militärdienstpflichtige Person in einem mindestens auf ein Jahr abgeschlossenen befristeten oder in einem unbefristeten Arbeitsvertragsverhältnis steht und die unentbehrliche Tätigkeit durchschnittlich mindestens einem 80-Prozent-Pensum entspricht.
 
-<sup>2</sup> Für eine Ausbildung im Hinblick auf die Übernahme einer unentbehrlichen Tätigkeit wird keine Dienstbefreiung gewährt; ausgenommen hiervon ist die Absolvierung der Polizeirekrutenschule und des Grenzwachteinführungskurses I.
+<sup>2</sup>
+
+Für eine Ausbildung im Hinblick auf die Übernahme einer unentbehrlichen Tätigkeit wird keine Dienstbefreiung gewährt; ausgenommen hiervon sind:
+
+- a. die Polizeirekrutenschule;
+- b. die Ausbildung zum Fachmann oder zur Fachfrau Justizvollzug;
+- c. der Lehrgang für Fachspezialisten und Fachspezialistinnen Zoll und Grenzsicherheit.
+
+[^25-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 #### Art. 26
 
@@ -619,42 +679,51 @@ Als unentbehrliches Personal für die Sicherstellung des Betriebes dieser Einric
 
 **Rettungsdienste, Polizeidienste, Feuerwehren und Wehrdienste**
 
-### (Art. 18 Abs. 1 Bst. d, f und i MG)
+### (Art. 18 Abs. 1 Bst. c MG)
+
+[^29-1]
 
 Als Angehörige der Rettungsdienste, Polizeidienste, Feuerwehren und Wehrdienste gelten im Einzelnen:
 
-- a. Angestellte von Rettungsdiensten im Sinne von Artikel 56 der Verordnung vom 27. Juni 1995[^29-1] über die Krankenversicherung mit einer Funktion im Sinne von Artikel 28 als Rettungssanitäter oder Rettungssanitäterin mit eidgenössisch anerkanntem Diplom;
-- b. Angestellte der Polizeidienste des Bundes, der Kantone, der Städte oder der Gemeinden;
+- a. Angestellte von Rettungsdiensten im Sinne von Artikel 56 der Verordnung vom 27. Juni 1995[^29-2] über die Krankenversicherung mit einer Funktion im Sinne von Artikel 28 als Rettungssanitäter oder Rettungssanitäterin mit eidgenössisch anerkanntem Diplom;
+- b.[^29-3] Angestellte der Polizeidienste des Bundes, der Kantone, der Städte oder der Gemeinden, die zur Erfüllung der gerichts-, sicherheits- und verkehrspolizeilichen Aufgaben benötigt werden und mindestens über eine eidgenössische Berufsprüfung als Polizist oder Polizistin verfügen;
 - c. Angestellte der Berufsfeuerwehren und Stützpunktfeuerwehren sowie Personen in der Funktion als Feuerwehrkommandant oder -kommandantin, als stellvertretender Feuerwehrkommandant oder stellvertretende Feuerwehrkommandantin, als Feuerwehroffizier oder -offizierin, als Geräteführer oder -führerin, als Chef oder Chefin der Spezialabteilungen, als Atemschutzgeräteträger oder -trägerin, als Atemschutzgerätewart oder -wartin, als C-Wehrspezialist oder -spezialistin und als Strahlenwehrspezialist oder -spezialistin der staatlich anerkannten Feuerwehren und Wehrdienste.
 
-[^29-1]: [SR 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+[^29-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^29-2]: [SR 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+[^29-3]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 #### Art. 30
 
 **Postdienste, Transportunternehmen und Verwaltung**
 
-### (Art. 18 Abs. 1 Bst. h MG)
+### (Art. 18 Abs. 1 Bst. c MG)
+
+[^30-1]
 
 <sup>1</sup>
 
 Für den Sicherheitsverbund Schweiz sind in ausserordentlichen Lagen unentbehrlich:
 
 - a. Angestellte der Postbetriebe und der Postverwaltung der Schweizerischen Post, die in ausserordentlichen Lagen für die Besorgung des Postdienstes unentbehrlich sind und das 30. Altersjahr vollendet haben;
-- b.[^30-1] Angestellte aller vom Bund konzessionierten Transportunternehmen der Eisenbahn-, Seilbahn-, Trolleybus-, Autobus- und Schifffahrtsunternehmen sowie Angestellte von Eisenbahnunternehmen, die auf der Grundlage einer schweizerischen Netzzugangsbewilligung nach Artikel 8*c* Absatz 1 des Eisenbahngesetzes vom 20. Dezember 1957[^30-2] für die wirtschaftliche Versorgung des Landes mit lebenswichtigen Gütern regelmässig Dienstleistungen im Güterverkehr erbringen und die für die Erfüllung der Leistungsaufträge der konzessionierten Transportunternehmen unentbehrlich sind; der Ausflugsverkehr fällt für die Beurteilung der Leistungsaufträge ausser Betracht;
+- b.[^30-2] Angestellte aller vom Bund konzessionierten Transportunternehmen der Eisenbahn-, Seilbahn-, Trolleybus-, Autobus- und Schifffahrtsunternehmen sowie Angestellte von Eisenbahnunternehmen, die auf der Grundlage einer schweizerischen Netzzugangsbewilligung nach Artikel 8*c* Absatz 1 des Eisenbahngesetzes vom 20. Dezember 1957[^30-3] für die wirtschaftliche Versorgung des Landes mit lebenswichtigen Gütern regelmässig Dienstleistungen im Güterverkehr erbringen und die für die Erfüllung der Leistungsaufträge der konzessionierten Transportunternehmen unentbehrlich sind; der Ausflugsverkehr fällt für die Beurteilung der Leistungsaufträge ausser Betracht;
 - c. Angestellte des zivilen Flugwetterdienstes des Bundesamtes für Meteorologie und Klimatologie, die für die Sicherstellung des zivilen Flugsicherungsdienstes unentbehrlich sind.
 
 <sup>2</sup> Das VBS bezeichnet die Personen nach Absatz 1 im Einvernehmen mit dem Eidgenössischen Departement für Umwelt, Verkehr, Energie und Kommunikation, dem Eidgenössischen Departement des Innern und der Schweizerischen Post.
 
-[^30-1]: Fassung gemäss Ziff. I der V vom 16. Okt. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
-[^30-2]: [SR 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
+[^30-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^30-2]: Fassung gemäss Ziff. I der V vom 16. Okt. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
+[^30-3]: [SR 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
 
 #### Art. 31
 
 **Flugsicherungsdienste**
 
-### (Art. 18 Abs. 1 Bst. j MG)
+### (Art. 18 Abs. 1 Bst. c MG)
 
-<sup>1</sup> Als zivile Flugsicherungsdienste gelten die in Artikel 2 Absatz 2 der Verordnung vom 18. Dezember 1995[^31-1] über den Flugsicherungsdienst genannten Aufgabenträger.
+[^31-1]
+
+<sup>1</sup> Als zivile Flugsicherungsdienste gelten die in Artikel 2 Absatz 2 der Verordnung vom 18. Dezember 1995[^31-2] über den Flugsicherungsdienst genannten Aufgabenträger.
 
 <sup>2</sup>
 
@@ -670,7 +739,8 @@ Als unentbehrliches Personal dieser Dienste gelten Angestellte des:
 
 <sup>3</sup> Das VBS bezeichnet die Personen im Einvernehmen mit dem Eidgenössischen Departement für Umwelt, Verkehr, Energie und Kommunikation und mit Skyguide.
 
-[^31-1]: [SR 748.132.1](https://fedlex.data.admin.ch/eli/cc/1996/595_595_595)
+[^31-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^31-2]: [SR 748.132.1](https://fedlex.data.admin.ch/eli/cc/1996/595_595_595)
 
 ### 8. Abschnitt: Nichtrekrutierung, Ausschluss aus der Armee, Degradation, Wiederzulassung und Funktionsänderung
 
@@ -678,7 +748,9 @@ Als unentbehrliches Personal dieser Dienste gelten Angestellte des:
 
 **Zuständigkeit und Kriterien**
 
-### (Art. 21–23 MG; Art. 16 Abs. 2 BZG)
+### (Art. 21–23 MG; Art. 34 Abs. 2 BZG)
+
+[^32-1]
 
 <sup>1</sup> Das Kdo Ausb ist zuständig für sämtliche Entscheide im Rahmen der Nichtrekrutierung, des Ausschlusses aus der Armee oder der Degradation infolge eines Straf-urteils sowie der Wiederzulassung.
 
@@ -690,6 +762,8 @@ Bei der Beurteilung der Untragbarkeit nach Artikel 21 Absatz 1 Buchstabe a und A
 - b. die Rechte Dritter;
 - c. die Zumutbarkeit für andere Angehörige der Armee, mit der betreffenden Person Dienst zu leisten;
 - d. das Ansehen der Armee in der Öffentlichkeit.
+
+[^32-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 #### Art. 33
 
@@ -734,7 +808,7 @@ Hat das Kdo Ausb Kenntnis von den besonderen persönlichen Verhältnissen, so or
 
 Liegt ein rechtskräftiges Strafurteil wegen eines Verbrechens oder eines Vergehens vor, so wird die Zustimmung zur Militärdienstleistung nach Artikel 33 erteilt:
 
-- a. bei einer Geldstrafe von bis zu 60 Tagessätzen oder angeordneter gemeinnütziger Arbeit von bis zu 240 Stunden;
+- a.[^35-1] bei einer Geldstrafe von bis zu 60 Tagessätzen;
 - b.
 
   fünf Jahre nach Vollzug der Sanktion oder, in Abhängigkeit vom Verhalten der verurteilten Person und von der Höhe der ausgefällten Strafe, auch früher bei:
@@ -742,8 +816,7 @@ Liegt ein rechtskräftiges Strafurteil wegen eines Verbrechens oder eines Vergeh
   - 1\. einer unbedingten Geldstrafe von mehr als 60 Tagessätzen,
   - 2\. einer teilbedingten Geldstrafe mit einem unbedingt vollziehbaren Teil von mehr als 60 Tagessätzen,
   - 3\. einer unbedingten oder teilbedingten Freiheitsstrafe,
-  - 4\. einer unbedingten gemeinnützigen Arbeit von über 240 Stunden,
-  - 5\. einer teilbedingten gemeinnützigen Arbeit von über 240 Stunden mit einem unbedingt vollziehbaren Teil von mehr als 240 Stunden,
+  - 4\. und 5. …[^35-2]
   - 6\. einer freiheitsentziehenden Massnahme.
 
 <sup>2</sup>
@@ -754,6 +827,9 @@ Bei Strafen und Massnahmen, die nicht unter Absatz 1 genannt sind, wird die Zust
 - b. nach Ablauf der Probezeit oder, in Abhängigkeit vom Verhalten der verurteilten Person und von der Höhe der ausgefällten Strafe, auch früher.
 
 <sup>3</sup> Einer nach dem Jugendstrafrecht wegen eines Verbrechens oder eines Vergehens rechtskräftig verurteilten Person wird die Zustimmung zur Militärdienstleistung nach Artikel 33 ausnahmsweise nach Prüfung des Einzelfalles erteilt.
+
+[^35-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^35-2]: Aufgehoben durch Ziff. I der V vom 23. Nov. 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 #### Art. 36
 
@@ -789,8 +865,10 @@ Das Kdo Ausb ordnet mit Zustimmung zur Militärdienstleistung oder deren Verweig
 
 Angehörige der Armee, die in Ausübung ihrer Funktion als ungenügend qualifiziert werden, erhalten eine neue Funktion, wenn:
 
-- a. ein angeordneter Bewährungsdienst die Unfähigkeit bestätigt; oder
+- a.[^39-1] ein durch den vorgesetzten Kommandanten oder die vorgesetzte Kommandantin angeordneter Bewährungsdienst die Unfähigkeit für die Ausübung der derzeitigen Funktion bestätigt; oder
 - b. eine sofortige Enthebung von der derzeitigen Funktion im Interesse der Truppe oder des oder der Angehörigen der Armee geboten ist.
+
+<sup>1bis</sup> Der Bewährungsdienst dauert höchstens 26 Tage und ist bis zum Ende des Folgejahres nach der Anordnung in der entsprechenden Funktion in einer anderen Formation zu absolvieren. Der Bewährungsdienst ist gegenüber der betroffenen Person und dem Kommandanten oder der Kommandantin der anderen Formation ausdrücklich als solcher zu bezeichnen. Bis zum Bestehen eines angeordneten Bewährungsdienstes kann in der Einteilungsformation kein Dienst geleistet werden.[^39-2]
 
 <sup>2</sup>
 
@@ -799,6 +877,9 @@ Zuständig für die Funktionsänderung sind:
 - a. für höhere Stabsoffiziere: der Bundesrat;
 - b. für die Offiziersgrade Hauptmann und Stabsoffiziere: die Gruppe Verteidigung;
 - c. für alle anderen Grade: das Kdo Ausb.
+
+[^39-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^39-2]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 ### 9. Abschnitt: Pflichten ausser Dienst
 
@@ -889,6 +970,23 @@ Die Schiesspflicht richtet sich nach der Schiessverordnung vom 5. Dezember 2003[
 
 [^45-1]: [SR 512.31](https://fedlex.data.admin.ch/eli/cc/2003/754)
 
+#### Art. 45a
+
+**Pflicht zur Wahrnehmung von Amtsterminen**[^45a-1]
+
+### (Art. 26 MG)
+
+<sup>1</sup>
+
+Das Aufgebot zu Amtsterminen erlässt:
+
+- a. das Kdo Ausb für persönliche Befragungen bei Personensicherheitsprüfungen für Stellungspflichtige und Angehörige der Armee;
+- b. der militärärztliche Dienst für medizinische Untersuchungen zur Neubeurteilung der Tauglichkeit.
+
+<sup>2</sup> Die Amtstermine sind nicht besoldet und werden nicht an die Ausbildungsdienstpflicht angerechnet.
+
+[^45a-1]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+
 ## 3. Kapitel: Ausbildung in der Armee
 
 ### 1. Abschnitt: Ausbildungsdienste und Ausbildungsdienstpflicht
@@ -916,20 +1014,20 @@ Die Zahl der insgesamt zu leistenden anrechenbaren Tage Ausbildungsdienst beträ
   Angehörige der Mannschaft als:
 
   - 1\. Soldaten und Gefreite: 245 Tage,
-  - 2\. Soldaten und Gefreite als Grenadier, Grenadierin: 280 Tage,
-  - 3\. Soldaten und Gefreite Durchdienende: 280 Tage;
+  - 2\.[^47-1] Soldaten und Gefreite als Grenadier, Grenadierin oder in Spezialkräfte-Funktionen: 280 Tage,
+  - 3\.[^47-2] Soldaten und Gefreite Durchdienende: 300 Tage;
 
 - b.
 
   Unteroffiziere als:
 
   - 1\. Wachtmeister: 440 Tage,
-  - 2\.[^47-1] Wachtmeister als Grenadier, Grenadierin: 475 Tage,
-  - 2<sup>bis</sup>.[^47-2] Wachtmeister als Fallschirmaufklärer, Fallschirmaufklärerin: 865 Tage,
+  - 2\.[^47-3] Wachtmeister als Grenadier, Grenadierin oder in Spezialkräfte-Funktionen: 475 Tage,
+  - 2<sup>bis</sup>.[^47-4] Wachtmeister als Fallschirmaufklärer, Fallschirmaufklärerin: 865 Tage,
   - 3\. Wachtmeister Durchdienende: 507 Tage,
   - 4\. Oberwachtmeister: 450 Tage,
-  - 5\.[^47-3] Oberwachtmeister als Grenadier, Grenadierin: 485 Tage,
-  - 5<sup>bis</sup>.[^47-4] Oberwachtmeister als Fallschirmaufklärer, Fallschirmaufklärerin:
+  - 5\.[^47-5] Oberwachtmeister als Grenadier, Grenadierin oder in Spezialkräfte-Funktionen: 485 Tage,
+  - 5<sup>bis</sup>.[^47-6] Oberwachtmeister als Fallschirmaufklärer, Fallschirmaufklärerin:
   - 865 Tage,
   - 6\. Oberwachtmeister Durchdienende: 507 Tage;
 
@@ -938,7 +1036,7 @@ Die Zahl der insgesamt zu leistenden anrechenbaren Tage Ausbildungsdienst beträ
   höhere Unteroffiziere als:
 
   - 1\. Feldweibel: 510 Tage,
-  - 2\. Feldweibel als Grenadier, Grenadierin oder Fallschirmaufklärer, Fallschirmaufklärerin: 545 Tage,
+  - 2\.[^47-7] Feldweibel als Grenadier, Grenadierin, Fallschirmaufklärer, Fallschirmaufklärerin oder in Spezialkräfte-Funktionen: 545 Tage,
   - 3\. Fourier oder Hauptfeldweibel: 650 Tage,
   - 4\. Fourier oder Hauptfeldweibel als Grenadier, Grenadierin oder Fallschirmaufklärer, Fallschirmaufklärerin: 685 Tage,
   - 5\. Fourier oder Hauptfeldweibel Durchdienende: 668 Tage,
@@ -950,13 +1048,13 @@ Die Zahl der insgesamt zu leistenden anrechenbaren Tage Ausbildungsdienst beträ
 
   - 1\. 680 Tage, mit einem Vorschlag zur Weiterausbildung zum Hauptmann: 800 Tage,
   - 2\. als Durchdienende: 668 Tage,
-  - 3\.[^47-5] als Grenadier, Grenadierin: 715 Tage, mit einem Vorschlag zur Weiterausbildung zum Hauptmann: 835 Tage,
-  - 3<sup>bis</sup>.[^47-6] als Fallschirmaufklärer, Fallschirmaufklärerin: 1105 Tage,
-  - 4\. als Militärarzt, Militärärztin oder Apotheker, Apothekerin: 456 Tage,
-  - 5\. als Zahnarzt, Zahnärztin: 538 Tage,
-  - 6\.[^47-7] als Veterinärarzt, Veterinärärztin: 536 Tage.
+  - 3\.[^47-8] als Grenadier, Grenadierin oder in Spezialkräfte-Funktionen: 715 Tage, mit einem Vorschlag zur Weiterausbildung zum Hauptmann: 835 Tage,
+  - 3<sup>bis</sup>.[^47-9] als Fallschirmaufklärer, Fallschirmaufklärerin: 1105 Tage,
+  - 4\.[^47-10] als Militärarzt, Militärärztin oder Apotheker, Apothekerin: 456 Tage, ohne militärärztliche Regellaufbahn: 576 Tage,
+  - 5\.[^47-11] als Zahnarzt, Zahnärztin: 538 Tage, ohne militärärztliche Regellaufbahn: 658 Tage,
+  - 6\.[^47-12] als Veterinärarzt, Veterinärärztin oder Lebensmittelinspektor, Lebensmittelinspektorin: 536 Tage, ohne veterinärärztliche Regellaufbahn: 656 Tage.
 
-<sup>2</sup> …[^47-8]
+<sup>2</sup> …[^47-13]
 
 <sup>3</sup>
 
@@ -964,7 +1062,7 @@ Stabsadjutanten, Hauptadjutanten, Chefadjutanten, Hauptleute und Stabsoffiziere,
 
 - a. Es ist keine Weiterausbildung zu einem höheren Grad vorgesehen: ab ihrer letzten Beförderung höchstens 240 Tage; nach 120 Tagen Ausbildungsdienst kann von einem Aufgebot abgesehen werden.
 - b. Es ist eine Weiterausbildung für die Übernahme einer neuen Funktion in demselben Grad vorgesehen: ab Übernahme der neuen Funktion höchstens 240 Tage; nach 120 Tagen Ausbildungsdienst kann von einem Aufgebot abgesehen werden.
-- c.[^47-9]
+- c.[^47-14]
 
   Militärpiloten und Militärpilotinnen, Bordoperateure und Bordoperateurinnen sowie Drohnenoperateure und Drohnenoperateurinnen:
 
@@ -981,15 +1079,20 @@ Spezialisten und Spezialistinnen leisten höchstens die nachstehende Anzahl zus�
 - a. als Angehörige der Mannschaft: 35 Tage;
 - b. als Unteroffiziere, höhere Unteroffiziere und Offiziere: 50 Tage.
 
-[^47-1]: Fassung gemäss Ziff. I der V vom 16. Okt. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
-[^47-2]: Eingefügt durch Ziff. I der V vom 16. Okt. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
-[^47-3]: Fassung gemäss Ziff. I der V vom 16. Okt. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
+[^47-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^47-2]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^47-3]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 [^47-4]: Eingefügt durch Ziff. I der V vom 16. Okt. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
-[^47-5]: Fassung gemäss Ziff. I der V vom 16. Okt. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
+[^47-5]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 [^47-6]: Eingefügt durch Ziff. I der V vom 16. Okt. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
-[^47-7]: Fassung gemäss Ziff. I der V vom 16. Okt. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
-[^47-8]: Aufgehoben durch Ziff. I der V vom 16. Okt. 2019, mit Wirkung seit 1. Dez. 2019 ([AS 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
-[^47-9]: Eingefügt durch Anhang 2 Ziff. 2 der Militärflugdienstverordnung vom 18. März 2022, in Kraft seit 1. Juli 2022 ([AS 2022 213](https://fedlex.data.admin.ch/eli/oc/2022/213)).
+[^47-7]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^47-8]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^47-9]: Eingefügt durch Ziff. I der V vom 16. Okt. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
+[^47-10]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^47-11]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^47-12]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^47-13]: Aufgehoben durch Ziff. I der V vom 16. Okt. 2019, mit Wirkung seit 1. Dez. 2019 ([AS 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
+[^47-14]: Eingefügt durch Anhang 2 Ziff. 2 der Militärflugdienstverordnung vom 18. März 2022, in Kraft seit 1. Juli 2022 ([AS 2022 213](https://fedlex.data.admin.ch/eli/oc/2022/213)).
 
 ### 2. Abschnitt: Anrechnung an die Ausbildungsdienstpflicht
 
@@ -1103,6 +1206,21 @@ Berufsmilitärs, deren Arbeitsverhältnis vor Erreichen der Altersgrenzen für d
 
 [^53-1]: Fassung gemäss Ziff. I der V vom 16. Okt. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
 
+#### Art. 53a
+
+**Friedensförderungsdienst**[^53a-1]
+
+<sup>1</sup> Personen, die ohne vorgängige militärische Einteilung einen Friedensförderungsdienst geleistet haben und deren anschliessendes Gesuch auf Absolvierung einer Milizlaufbahn nach Anhang 2 im Rahmen einer Zuteilung oder Zuweisung zur Armee bewilligt wurde, wird eine Rekrutenschule von 124 Diensttagen an die Ausbildungsdienstpflicht angerechnet und der Grad Soldat zuerkannt.
+
+<sup>2</sup>
+
+Angehörigen der Armee, die Friedensförderungsdienst leisten, wird pro Kalenderjahr, in dem sie wegen Friedensförderungsdienst keinen Ausbildungsdienst der Formation geleistet haben, folgende Anzahl Diensttage an die Ausbildungsdienstpflicht angerechnet:
+
+- a. Angehörigen der Mannschaft und Unteroffizieren: ein Wiederholungskurs von 19 Tagen;
+- b. höheren Unteroffizieren und Offizieren: ein Kadervorkurs und ein Wiederholungskurs von zusammen 26 Tagen.
+
+[^53a-1]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+
 ### 3. Abschnitt: Freiwillige Dienstleistungen
 
 #### Art. 54
@@ -1140,7 +1258,9 @@ Ein Bedürfnis der Armee zur freiwilligen Leistung von Kursen besteht insbesonde
 
 - a. wenn eine ordentliche Durchführung des Wiederholungskurses wegen Bestandeslücken wesentlich erschwert würde und die Lücken nicht mit ordentlichen Massnahmen gefüllt werden könnten;
 - b. für die Teilnahme an Wettkämpfen und Kursen nach der Verordnung vom 29. Oktober 2003[^55-1] über den Militärsport;
-- c. für die Teilnahme an Kursen des Kompetenzzentrums für Militär- und Katastrophenmedizin.
+- c. für die Teilnahme an Kursen des Kompetenzzentrums für Militär- und Katastrophenmedizin;
+- d.[^55-2] wenn zur Absolvierung von freiwilligen Kaderausbildungsdiensten der notwendige Vorschlag in einem Wiederholungskurs erteilt werden muss;
+- e.[^55-3] für die Ausbildung im Bereich Friedensförderung.
 
 <sup>3</sup>
 
@@ -1152,6 +1272,8 @@ Das Gesuch wird bewilligt, wenn:
 <sup>4</sup> Angehörige der Armee dürfen jährlich höchstens 38 Tage freiwilligen Ausbildungsdienst leisten.
 
 [^55-1]: [SR 512.38](https://fedlex.data.admin.ch/eli/cc/2003/584)
+[^55-2]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^55-3]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 ### 4. Abschnitt: Grundausbildung
 
@@ -1197,7 +1319,7 @@ Pro Jahr leisten die folgenden Angehörigen der Armee die nachstehenden Dienste:
 
 - a. Soldaten und Gefreite in Kaderfunktionen, Unteroffiziere, höhere Unteroffiziere und Offiziere: einen Kadervorkurs von höchstens 7 Tagen und einen dreiwöchigen Wiederholungskurs;
 - b. höhere Unteroffiziere und Offiziere, die in Stäben Grosser Verbände oder Truppenkörper eingeteilt sind: einen Kadervorkurs von höchstens 7 Tagen und einen Wiederholungskurs von höchstens vier Wochen;
-- c. Hauptleute der Armeeseelsorge sowie Fachoffiziere und Fachoffizierinnen der Armeeseelsorge, des Psychologisch-Pädagogischen Dienstes der Armee und des Sozialdienstes der Armee: einen Wiederholungskurs von mindestens 10 Tagen;
+- c.[^58-1] Angehörige der Armeeseelsorge sowie Fachoffiziere und Fachoffizierinnen des Psychologisch-Pädagogischen Dienstes der Armee und des Sozialdienstes der Armee: einen Wiederholungskurs von mindestens 10 Tagen;
 - d. Spezialisten und Spezialistinnen: die zusätzlichen Tage Ausbildungsdienst nach Artikel 47 Absatz 5 nach Bedarf.
 
 <sup>2</sup>
@@ -1206,12 +1328,13 @@ Bei Vorliegen besonderer Ausbildungsbedürfnisse bestehen folgende Möglichkeite
 
 - a. Der Wiederholungskurs kann in mehrere Teile aufgeteilt werden.
 - b. Angehörige der Armee können tageweise zum Wiederholungskurs aufgeboten werden.
-- c.[^58-1] Angehörige der Armee können die Wiederholungskurse unter militärischem Kommando ganz oder teilweise in zivilen Einrichtungen absolvieren;
+- c.[^58-2] Angehörige der Armee können die Wiederholungskurse unter militärischem Kommando ganz oder teilweise in zivilen Einrichtungen absolvieren;
 
-<sup>3</sup> Angehörige der Armee, die in einem Kalenderjahr eine Ausbildung zu einem höheren Grad oder eine Weiterausbildung für die Übernahme einer neuen Funktion in demselben Grad von insgesamt mindestens 4 Wochen absolvieren, dürfen im gleichen Jahr nur mit ihrem Einverständnis zu Kadervorkursen und Wiederholungskursen aufgeboten werden.[^58-2]
+<sup>3</sup> Angehörige der Armee, die in einem Kalenderjahr eine Ausbildung zu einem höheren Grad oder eine Weiterausbildung für die Übernahme einer neuen Funktion in demselben Grad von insgesamt mindestens 4 Wochen absolvieren, dürfen im gleichen Jahr nur mit ihrem Einverständnis zu Kadervorkursen und Wiederholungskursen aufgeboten werden.[^58-3]
 
-[^58-1]: Eingefügt durch Ziff. I der V vom 16. Okt. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
+[^58-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 [^58-2]: Eingefügt durch Ziff. I der V vom 16. Okt. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
+[^58-3]: Eingefügt durch Ziff. I der V vom 16. Okt. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
 
 #### Art. 59
 
@@ -1238,25 +1361,23 @@ Unteroffiziere, höhere Unteroffiziere und Offiziere können pro Jahr für höch
 
 #### Art. 60
 
-**Dienst ausserhalb der Formationen**
+**Dienst ausserhalb der Formationen**[^60-1]
 
 ### (Art. 54 MG)
 
 Angehörige der Armee können im nachstehenden Umfang ausserhalb der Formationen für die folgenden Dienste aufgeboten werden:
 
-- a.[^60-1] Vorauswahlkurs für das Armeeaufklärungsdetachement: 6 Tage;
-- a<sup>bis</sup>.[^60-2] Auswahlkurs für das Armeeaufklärungsdetachement: 19 Tage;
-- b. persönliche Befragung bei Personensicherheitsprüfungen: 1 Tag;
-- c. praktischer Teil des Drohnenumschulungskurses: 26 Tage;
-- d. Eignungsabklärung zum Einsatz im Friedensförderungsdienst: 2 Tage;
-- e. Einführungs-, Fachdienst- und Grundkurs: höchstens 19 Tage;
-- f. einsatzbezogene Ausbildung für den Friedensförderungsdienst: nach Bedarf;
-- g. medizinische Untersuchung zur Neubeurteilung der Tauglichkeit: 1 Tag;
-- h. Untersuchung nach Artikel 7 Absatz 2 der Militärflugdienstverordnung vom 19. November 2003[^60-3] zur Beurteilung der körperlichen Tauglichkeit durch das Fliegerärztliche Institut: 1 Tag.
+- a. Eignungsabklärung zur Einteilung in der Armeeseelsorge, im Psychologisch-Pädagogischen Dienst der Armee und im Sozialdienst der Armee: 1 Tag;
+- b. Eignungsabklärung zur Einteilung als Armeetaucher und Armeetaucherin: höchstens 4 Tage;
+- c. Vorauswahlkurs für das Armeeaufklärungsdetachement: 6 Tage;
+- d. Auswahlkurs für das Armeeaufklärungsdetachement: 19 Tage;
+- e. Untersuchung nach Artikel 7 Absatz 2 der Militärflugdienstverordnung vom 18. März 2022[^60-2] zur Beurteilung der körperlichen Tauglichkeit durch das Fliegerärztliche Institut: 1 Tag;
+- f. Umschulungskurs für Medizinalpersonen: 26 Tage;
+- g. praktischer Teil des Drohnenumschulungskurses: 26 Tage;
+- h. Einführungs-, Fachdienst- und Grundkurs: höchstens 19 Tage.
 
-[^60-1]: Fassung gemäss Ziff. I der V vom 16. Okt. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
-[^60-2]: Eingefügt durch Ziff. I der V vom 16. Okt. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
-[^60-3]: [SR 512.271](https://fedlex.data.admin.ch/eli/cc/2022/213)
+[^60-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^60-2]: [SR 512.271](https://fedlex.data.admin.ch/eli/cc/2022/213)
 
 #### Art. 61
 
@@ -1307,9 +1428,10 @@ Innerhalb von zwei aufeinanderfolgenden Jahren leisten die folgenden Angehörige
 - c. höhere Unteroffiziere und Subalternoffiziere der Stäbe, Hauptleute und Stabsoffiziere: 75 Tage;
 - d. militärisches Personal ab Überschreitung der Altersgrenzen nach Artikel 13 MG für den jeweiligen Grad in der Miliz: 75 Tage.[^62-1]
 
-<sup>2</sup> Freiwillige Ausbildungsdienste sowie die einsatzbezogene Ausbildung für den Friedensförderungsdienst werden bei den innerhalb von zwei Jahren höchstens zu leistenden Tagen Ausbildungsdienst nicht mitgerechnet.
+<sup>2</sup> Freiwillige Ausbildungsdienste werden bei den innerhalb von zwei Jahren höchstens zu leistenden Tagen Ausbildungsdienst nicht mitgerechnet.[^62-2]
 
 [^62-1]: Fassung gemäss Ziff. I der V vom 16. Okt. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
+[^62-2]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 ### 6. Abschnitt: Ausbildung der Durchdienenden
 
@@ -1387,7 +1509,7 @@ Anwärter und Anwärterinnen auf eine Unteroffiziers-, höhere Unteroffiziers- o
 
 Zur Militärverwaltung nach Artikel 59 Absatz 2 MG zählen:
 
-- a. die Verwaltungseinheiten der Gruppe Verteidigung;
+- a.[^66-1] die Verwaltungseinheiten der Gruppe Verteidigung und des Oberauditorats;
 - b. die Verwaltungseinheiten der Kantone, die Militärrecht des Bundes vollziehen.
 
 <sup>2</sup> Zum Dienst in Schulen und in Kursen oder in der Militärverwaltung und deren Betrieben dürfen nur ausbildungsdienstpflichtige Angehörige der Armee aufgeboten werden.
@@ -1421,6 +1543,8 @@ Nicht zulässig sind:
 - d. Dienste zur Besetzung vakanter Stellen;
 - e. über längere Zeit aufeinander folgende Dienste an derselben Stelle und für dieselben Zwecke unabhängig davon, ob dafür derselbe oder verschiedene Angehörige der Armee aufgeboten werden;
 - f. Dienste, die lediglich dazu dienen, eine Arbeitslosigkeit des betreffenden Angehörigen der Armee zu verkürzen oder zu verhindern.
+
+[^66-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 #### Art. 67
 
@@ -1457,7 +1581,7 @@ Für die Aufgabe nach Artikel 61 Absatz 3 MG dürfen zur Verfügung gestellt wer
 - a. Durchdienende im Ausbildungsdienst der Formationen;
 - b. militärisches Personal.
 
-### 10. Abschnitt: Vorzeitige Entlassung aus der Rekrutierung oder den Ausbildungsdiensten****
+### 10. Abschnitt: Vorzeitige Entlassung aus der Rekrutierung oder den Ausbildungsdiensten
 
 [^chap3-sec10-1]
 
@@ -1592,7 +1716,7 @@ Die Gruppe Verteidigung verleiht für die Dauer des Einsatzes den zwingend erfor
 
 <sup>1</sup> Angehörige der Armee können bei Bestandeslücken ausnahmsweise in eine Funktion eingeteilt werden, die in den Sollbestandestabellen mit einem Grad tiefer oder höher ausgewiesen ist.
 
-<sup>2</sup> In eine um einen Grad höhere Funktion dürfen sie nur in Vertretung oder *ad int**e**rim* eingeteilt werden.
+<sup>2</sup> In eine um einen Grad höhere Funktion dürfen sie nur in Vertretung oder *ad interim* eingeteilt werden.
 
 <sup>3</sup> Für Berufsunteroffiziere gilt Anhang 4.
 
@@ -1656,13 +1780,14 @@ Zum Fachoffizier oder zur Fachoffizierin ernannt werden können Soldaten, Gefrei
 - c. eine nach der PSPV[^80-1] notwendige Verfügung rechtskräftig vorliegt und die Zustimmung der entscheidenden Instanz erteilt ist; und
 - d. sie sich bereit erklären, die damit verbundenen Dienste zu leisten.
 
-<sup>3</sup> Angehende Fachoffiziere oder Fachoffizierinnen der Armeeseelsorge, des Psychologisch-Pädagogischen Dienstes der Armee und des Sozialdienstes der Armee haben vor der Ernennung einen Technischen Lehrgang von 19 Tagen Ausbildungsdienst zu bestehen.
+<sup>3</sup> Angehende Fachoffiziere oder Fachoffizierinnen der Armeeseelsorge, des Psychologisch-Pädagogischen Dienstes der Armee und des Sozialdienstes der Armee haben vor der Ernennung einen Technischen Lehrgang von höchstens 40 Tagen zu bestehen.[^80-2]
 
 <sup>4</sup> Die Gruppe Verteidigung legt fest, welche Offiziersfunktionen mit einem Fachoffizier oder einer Fachoffizierin besetzt werden können.
 
 <sup>5</sup> Der für die Besetzung einer Offiziersfunktion zuständige Kommandant stellt Gesuche um Ernennung zum Fachoffizier oder zur Fachoffizierin zusammen mit dem oder der betroffenen Angehörigen der Armee an das Kdo Ausb. Dieses entscheidet über die Gesuche und nimmt allenfalls die Ernennung zum Fachoffizier oder zur Fachoffizierin vor.
 
 [^80-1]: [SR 120.4](https://fedlex.data.admin.ch/eli/cc/2011/155)
+[^80-2]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 #### Art. 81
 
@@ -1861,9 +1986,13 @@ Die Gruppe Verteidigung erlässt Weisungen über das Verfahren und sorgt für ei
 
 **Zeitpunkt, Entlassungsgründe und administrative Abwicklung**
 
-### (Art. 49 Abs. 2, 54a Abs. 4, 122 MG)
+### (Art. 3 Abs. 3, 49 Abs. 2, 54*a* Abs. 4, 122 MG)
+
+[^94-1]
 
 <sup>1</sup> Entlassungen aus der Armee oder der Militärdienstpflicht erfolgen auf Ende des Jahres, in dem der Entlassungsgrund eintritt.
+
+<sup>1bis</sup> Frauen können auf entsprechendes Gesuch hin vor dem Erreichen der Altersgrenzen nach Artikel 13 MG, nach der Absolvierung von mindestens drei Friedensförderungsdiensten mit einer Gesamtdauer von mindestens 30 Monaten, aus der Armee und aus der Militärdienstpflicht entlassen werden.[^94-2]
 
 <sup>2</sup>
 
@@ -1876,6 +2005,9 @@ Für Angehörige der Armee, deren Militärdienstpflicht verlängert wurde, gelte
 <sup>3</sup> Für die obligatorische Teilnahme an der Entlassung aus der Armee und der Militärdienstpflicht werden die betroffenen Angehörigen der Armee durch die Kantone aufgeboten; das Aufgebot erfolgt mittels Zustellung eines Ausweises für die kostenlose Benutzung der öffentlichen Verkehrsmittel.
 
 <sup>4</sup> Das Kdo Ausb sorgt für einen einheitlichen Vollzug.
+
+[^94-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^94-2]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 #### Art. 95
 
@@ -2027,7 +2159,7 @@ Die Kreiskommandanten und Kreiskommandantinnen sind zuständig für:
 
 - b. die Führung der Kontrolldaten nach Buchstabe a der stellungspflichtigen Personen;
 - c. die Führung der Kontrolldaten nach Buchstabe a der militärdienstpflichtigen Personen, soweit nach Bundesrecht keine andere Stelle dafür zuständig ist;
-- d. die Ausstellung und die Abgabe des Dienstbüchleins an die militärdienstpflichtigen Personen vor der Rekrutierung;
+- d.[^102-2] die Ausstellung und die Abgabe des Dienstbüchleins an die militärdienstpflichtigen Personen vor der Rekrutierung, sofern ein solches abgegeben wird;
 - e. die Ausstellung und die Abgabe eines Ersatzes für das verloren gegangene Dienstbüchlein gegen eine vom Aufwand abhängige Gebühr von höchstens 300 Franken;
 - f. die Nachforschung über den Grund des Nichteinrückens einer stellungspflichtigen Person zur Rekrutierung;
 - g. die Nachforschung über den Aufenthaltsort einer stellungs- oder militärdienstpflichtigen Person, die an der gemeldeten Wohnadresse nicht auffindbar ist;
@@ -2045,6 +2177,7 @@ Die Truppenkörper und die Formationen der Armee sind jeweils einem Kanton zur W
 - c. Sie haben das Recht, die Ausbildungsdienste zu besuchen.
 
 [^102-1]: Ausdruck gemäss Anhang Ziff. II 19 der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
+[^102-2]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 #### Art. 103
 
@@ -2067,14 +2200,17 @@ Die Kommandanten und Kommandantinnen kontrollieren in jedem Dienst ihrer Formati
 
 Das Kdo Ausb ist zuständig für:
 
-- a. die Erstellung des Dienstbüchleins;
-- b. die Ausstellung und die Abgabe des Dienstbüchleins an Personen, die sich freiwillig zum Militärdienst melden;
+- a.[^105-1] die Erstellung des Ausweises über die Erfüllung der Militärdienstpflicht;
+- b.[^105-2] die Ausstellung und die Abgabe des Ausweises über die Erfüllung der Militärdienstpflicht an die dienstleistenden Personen, sofern dafür nicht die Kreiskommandanten und Kreiskommandantinnen zuständig sind;
 - c. die Einteilung der Soldaten in eine Formation;
 - d. die Neueinteilung und die Versetzung von Angehörigen der Armee;
 - e. die Nachforschung über den Grund des Nichteinrückens bei allen nicht in Militärdienste eingerückten Angehörigen der Armee sowie den Entscheid betreffend die Überweisung an die Militärjustiz;
 - f. die Verwendung der nicht in Formationen eingeteilten Angehörigen der Armee;
 - g. die Aufnahme in militärische Kontrollen von Personen, die der Armee zugeteilt oder zugewiesen werden;
 - h. den Erlass von Weisungen im Bereich Verstorbenen- und Vermisstendienst der Armee.
+
+[^105-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^105-2]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 ## 8. Kapitel: Schlussbestimmungen
 
@@ -2157,7 +2293,7 @@ Die Zahl der insgesamt zu leistenden anrechenbaren Tage Ausbildungsdienst für d
 
 - a. Militärärzte, Militärärztinnen und Apotheker, Apothekerinnen: 456 Tage;
 - b. Zahnärzte und Zahnärztinnen: 538 Tage;
-- c. Veterinärärzte und Veterinärärztinnen: 536 Tage.[^109-8]
+- c.[^109-8] Veterinärärzte, Veterinärärztinnen und Lebensmittelinspektoren, Lebensmittelinspektorinnen: 536 Tage.[^109-9]
 
 <sup>2bis</sup>
 
@@ -2165,9 +2301,9 @@ Die Zahl der insgesamt zu leistenden anrechenbaren Tage Ausbildungsdienst für d
 
 - a. Hauptleute als Militärpilot, Militärpilotin, Bordoperateur, Bordoperateurin, Drohnenoperateur oder Drohnenoperateurin: 1311 Tage;
 - b. Major als Militärpilot, Militärpilotin, Bordoperateur, Bordoperateurin, Drohnenoperateur oder Drohnenoperateurin: 1368 Tage;
-- c. Oberstleutnant als Militärpilot, Militärpilotin, Bordoperateur, Bordoperateurin, Drohnenoperateur oder Drohnenoperateurin: 1380 Tage.[^109-9]
+- c. Oberstleutnant als Militärpilot, Militärpilotin, Bordoperateur, Bordoperateurin, Drohnenoperateur oder Drohnenoperateurin: 1380 Tage.[^109-10]
 
-<sup>3</sup> Hauptleute und Stabsoffiziere, die vor dem 1. Januar 2018 zu ihrem aktuellen Grad befördert oder in ihre aktuelle Funktion eingeteilt wurden und für die keine Weiterausbildung vorgesehen ist, leisten Ausbildungsdienste während vier bis acht Jahren.[^109-10]
+<sup>3</sup> Hauptleute und Stabsoffiziere, die vor dem 1. Januar 2018 zu ihrem aktuellen Grad befördert oder in ihre aktuelle Funktion eingeteilt wurden und für die keine Weiterausbildung vorgesehen ist, leisten Ausbildungsdienste während vier bis acht Jahren.[^109-11]
 
 [^109-1]: Fassung gemäss Ziff. I der V vom 16. Okt. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
 [^109-2]: Fassung gemäss Ziff. I der V vom 16. Okt. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
@@ -2176,9 +2312,10 @@ Die Zahl der insgesamt zu leistenden anrechenbaren Tage Ausbildungsdienst für d
 [^109-5]: Eingefügt durch Anhang 2 Ziff. 2 der Militärflugdienstverordnung vom 18. März 2022, in Kraft seit 1. Juli 2022 ([AS 2022 213](https://fedlex.data.admin.ch/eli/oc/2022/213)).
 [^109-6]: Eingefügt durch Anhang 2 Ziff. 2 der Militärflugdienstverordnung vom 18. März 2022, in Kraft seit 1. Juli 2022 ([AS 2022 213](https://fedlex.data.admin.ch/eli/oc/2022/213)).
 [^109-7]: Eingefügt durch Anhang 2 Ziff. 2 der Militärflugdienstverordnung vom 18. März 2022, in Kraft seit 1. Juli 2022 ([AS 2022 213](https://fedlex.data.admin.ch/eli/oc/2022/213)).
-[^109-8]: Fassung gemäss Ziff. I der V vom 16. Okt. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
-[^109-9]: Eingefügt durch Anhang 2 Ziff. 2 der Militärflugdienstverordnung vom 18. März 2022, in Kraft seit 1. Juli 2022 ([AS 2022 213](https://fedlex.data.admin.ch/eli/oc/2022/213)).
-[^109-10]: Fassung gemäss Ziff. I der V vom 16. Okt. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
+[^109-8]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+[^109-9]: Fassung gemäss Ziff. I der V vom 16. Okt. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
+[^109-10]: Eingefügt durch Anhang 2 Ziff. 2 der Militärflugdienstverordnung vom 18. März 2022, in Kraft seit 1. Juli 2022 ([AS 2022 213](https://fedlex.data.admin.ch/eli/oc/2022/213)).
+[^109-11]: Fassung gemäss Ziff. I der V vom 16. Okt. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
 
 #### Art. 109a
 
@@ -2274,13 +2411,13 @@ Offiziere, die bis zum 31. Dezember 2017 in eine Funktion eingeteilt waren, für
 
 Diese Verordnung tritt am 1. Januar 2018 in Kraft.
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 46)
 
 ## Ausbildungsdienste
 
-[^t-1]: Fassung gemäss Ziff. II Abs. 1 der V vom 16. Okt. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
+[^t-1]: Fassung gemäss Ziff. II Abs. 1 der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 <table>
 <tr><th colspan="2">Grundausbildungsdienste</th><th colspan="2">Fortbildungsdienste der Truppe</th></tr>
@@ -2288,95 +2425,99 @@ Anhang 1*[^t-1]*
 <tr><td>– Rekrutenschule<sup>1</sup> (inkl. Fachkurse für Spezialisten/ -innen nach Art. 50 MG)</td><td>Kaderausbildung – Höherer Unteroffizierslehrgang<sup>1</sup> – Küchenchefunteroffiziersschule<sup>1</sup> – Offiziersschule<sup>1</sup> – Unteroffiziersschule<sup>1</sup></td><td>Wiederholungskurse – Kadervorkurs<sup>2</sup> – Wiederholungskurse<sup>2</sup> (für höhere Unteroffiziere und Offiziere in Stäben Grosser Verbände oder Truppenkörper gelten als Wiederholungskurse: Stabskurse<sup>2</sup>, Stabsrahmenübungen<sup>3</sup>, Stabsübungen<sup>3</sup>, Volltruppenübungen<sup>3</sup> und Trainingskurse der Luftwaffe<sup>2</sup>)</td><td>– Fachkurs<sup>2</sup> – Kommandoübergabe<sup>4</sup> – Grundkurs des Kompetenzzentrums für Militär- und Katastrophenmedizin<sup>2</sup> – Rapport<sup>4</sup> – Schiedsrichterdienst<sup>3</sup> – Trainingskurs<sup>2</sup> – Truppenbesuch<sup>4</sup> – Übungsleitung<sup>3</sup></td></tr>
 <tr><td></td><td></td><td>Vorbereitungs- und Entlassungsarbeiten – Entlassungsarbeiten<sup>2</sup> – Erkundung<sup>2</sup> – Rapporte im Rahmen der Vorbereitung von Ausbildungsdiensten<sup>4</sup></td><td></td></tr>
 <tr><td></td><td>Ausbildungsdienste in einer Rekrutenschule – Kadervorkurs<sup>2</sup> – Praktischer Dienst<sup>1</sup></td><td></td><td></td></tr>
-<tr><td></td><td></td><td>Dienst ausserhalb der Formation – Vorauswahl- und Auswahlkurs für das Armeeaufklärungsdetachement<sup>2</sup> – Befragung bei Personensicherheitsprüfung<sup>4</sup> – Drohnenumschulungskurs (Praktischer Teil)2 – Eignungsabklärung zum Einsatz im Friedensförderungsdienst<sup>4</sup> – Einführungs-, Fachdienst-, Umschulungs- oder Grundkurs<sup>2</sup> – Einsatzbezogene Ausbildung für den Friedensförderungsdienst<sup>2</sup> – medizinische Untersuchung zur Beurteilung der Tauglichkeit<sup>4</sup> – Verbliebenenkurs<sup>2</sup></td><td></td></tr>
-<tr><td></td><td>Weitere Ausbildungsdienste für höheren Grad, neue Funktion oder Umschulung – Drohnenumschulungskurs (Theorie)<sup>2</sup> – Führungslehrgang<sup>1</sup> – Generalstabslehrgang<sup>1</sup> – Kaderkurs Medizin<sup>2</sup> – Kaderkurs Veterinär<sup>2</sup> – Praktischer Dienst in den Regionen bzw. Bereichen der Sanität oder im Ausbildungsdienst für Formationen<sup>2</sup> – Spezialkurs Grenadier/in und Fallschirmaufklärer/in<sup>2</sup> – Technischer Lehrgang<sup>1</sup></td><td></td><td>*Legende:* 1 Schulen 2 Kurse 3 Übungen 4 Rapporte</td></tr>
+<tr><td></td><td></td><td>Dienst ausserhalb der Formation – Vorauswahl- und Auswahlkurs für das Armeeaufklärungsdetachement<sup>2</sup> – Drohnenumschulungskurs (Praktischer Teil)<sup>2</sup> – Einführungs-, Fachdienst-, Umschulungs- oder Grundkurs<sup>2</sup> – Eignungsabklärung für die Armeeseelsorge, den Psychologisch-Pädagogischen Dienst der Armee und den Sozialdienst der Armee<sup>4</sup> – Eignungsabklärung Armeetaucher/in<sup>4</sup> – Untersuchung zur Beurteilung der körperlichen Tauglichkeit durch das Fliegerärztliche Institut<sup>4</sup> – Umschulungskurs Medizinalpersonen (Militär- und Katastrophenmedizin)<sup>2</sup></td><td></td></tr>
+<tr><td></td><td>Weitere Ausbildungsdienste für höheren Grad, neue Funktion oder Umschulung – Drohnenumschulungskurs (Theorie)<sup>2</sup> – Führungslehrgang<sup>1</sup> – Generalstabslehrgang<sup>1</sup> – Militärarzt/-ärztin Offiziersschule<sup>1</sup> – Kaderkurs Veterinär<sup>2</sup> – Praktischer Dienst in den Regionen bzw. Bereichen der Sanität oder im Ausbildungsdienst für Formationen<sup>2</sup> – Spezialkurs Grenadier/in und Fallschirmaufklärer/in<sup>2</sup> – Technischer Lehrgang<sup>1</sup> – Operativer Lehrgang der Armee<sup>2</sup></td><td></td><td>*Legende:* 1 Schulen 2 Kurse 3 Übungen 4 Rapporte</td></tr>
 <tr><td></td><td></td><td>Durchdienende – Restliche Diensttage ohne Unterbrechung<sup>2</sup></td><td></td></tr>
 </table>
 
-Anhang 2*[^t-2]*
+Anhang 2[^t-2]
 
 (Art. 56 Abs. 4, 64 Abs. 1, 65 Abs. 1 und 2, 72 Abs. 2 Bst. b Ziff. 1, 113 Abs. 3 sowie 115 Abs. 1)
 
 ## Dauer der Rekrutenschulen sowie maximale Dauer der Kaderausbildung und der Ausbildungsdienste in Tagen
 
-[^t-2]: Fassung gemäss Ziff. II Abs. 1 der V vom 16. Okt. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
+[^t-2]: Fassung gemäss Ziff. II Abs. 1 der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 <table>
-<tr><th>Grundausbildungs- und Kaderausbildungslaufbahn</th><th>Aktueller Grad</th><th>Angehender Grad</th><th>Funktion</th><th></th><th colspan="3">Grundausbildung</th><th></th><th></th><th></th><th colspan="3">Kaderausbildungsdienste</th><th></th></tr>
-<tr><th></th><th></th><th></th><th colspan="2"></th><th>Rekrutierung</th><th>Eignungsabklärung</th><th>Rekrutenschule (inkl. Fachkurse für Spezialist/innen nach Art. 50 MG)</th><th colspan="2"></th><th colspan="2">Unteroffiziersschule</th><th>Küchenchefunteroffiziersschule</th><th colspan="2">Kadervorkurs und Praktischer Dienst in Rekrutenschule</th></tr>
-<tr><td>1.0</td><td>Rekr</td><td>Sdt</td><td colspan="2">Alle Funktionen, sofern keine Ausnahme</td><td>3</td><td></td><td>124/159</td><td colspan="2">Folgende Funktionen leisten eine Rekrutenschule von 159 Tagen am Ausbildungszentrum Spezialkräfte: Spezialkräfte Sicherungssoldat, Spezialkräfte Führungsstaffel Soldat, Spezialkräfte Nachschub Soldat; und am Ausbildungszentrum Spezialkräfte die Logistikfunktionen Büroordonnanz, Truppenbuchhalter/in, Truppenkoch/-köchin, Truppenkoch/-köchin Durchdiener, Betriebssoldat</td><td colspan="2"></td><td></td><td colspan="2"></td></tr>
-<tr><td></td><td></td><td></td><td colspan="2">Gebirgsspezialist/in</td><td>3</td><td>2</td><td>124</td><td colspan="2"></td><td colspan="2"></td><td></td><td colspan="2"></td></tr>
-<tr><td></td><td></td><td></td><td colspan="2">Grenadier/in und Fallschirmaufklärer/in</td><td>3</td><td>2</td><td>159</td><td colspan="2"></td><td colspan="2"></td><td></td><td colspan="2"></td></tr>
-<tr><td></td><td></td><td></td><td colspan="2">Sanitätssoldat Arzt/Ärztin Anwärter/in Spitalssoldat Arzt/Ärztin Anwärter/in</td><td>3</td><td></td><td>82/124</td><td colspan="2">Anwärter/innen leisten eine Grundausbildung von 82 Tagen. Bestehen sie die Kaderausbildungslaufbahn zum Offizier nicht, werden sie für den Rest der Dauer der Grundausbildung von 124 Tagen aufgeboten.</td><td colspan="2"></td><td></td><td colspan="2"></td></tr>
-<tr><td></td><td></td><td></td><td colspan="2">Soldat Veterinärarzt/ärztin Anwärter/in</td><td></td><td></td><td>82/124</td><td colspan="2"></td><td colspan="2"></td><td></td><td colspan="2"></td></tr>
-<tr><td>1.1</td><td>Sdt</td><td>Gfr</td><td colspan="2">Alle Funktionen</td><td colspan="10">Nach Erreichen des Grades Soldat sind keine weiteren Kaderausbildungsdienste zu leisten.</td></tr>
-<tr><td>2.0</td><td>Sdt Gfr</td><td>Wm</td><td colspan="2">Gruppenführer/in Gruppenführer/in Gebirgsspezialist/in</td><td></td><td></td><td></td><td colspan="2"></td><td colspan="2">27</td><td></td><td colspan="2">12–131\*</td></tr>
-<tr><td></td><td></td><td></td><td colspan="2">Gruppenführer/in Grenadier/in Gruppenführer/in Fallschirmaufklärer/in</td><td></td><td></td><td></td><td colspan="2"></td><td colspan="2">40</td><td></td><td colspan="2">47–124\*</td></tr>
-<tr><td></td><td></td><td></td><td colspan="2">Küchenchef/in</td><td></td><td></td><td></td><td colspan="2"></td><td colspan="2"></td><td>40</td><td colspan="2">33–131\*</td></tr>
-<tr><td>2.1</td><td>Wm</td><td>Obwm</td><td colspan="2">Zugführer/in Stellvertreter/in</td><td colspan="10">Nach Erreichen des Grades Wachtmeister sind keine weiteren Kaderausbildungsdienste zu leisten.</td></tr>
-<tr><td>2.2</td><td>Wm</td><td>Obwm</td><td colspan="2">Leiter/in Tambour</td><td colspan="10">Leisten einen Technischen Lehrgang Tambour Uof von 12 Tagen.</td></tr>
+<tr><th>Grundausbildungs- und Kaderausbildungslaufbahn</th><th>Aktueller Grad</th><th>Angehender Grad</th><th>Funktion</th><th colspan="3">Grundausbildung</th><th></th><th></th><th></th><th></th><th colspan="3">Kaderausbildungsdienste</th><th></th></tr>
+<tr><th></th><th></th><th></th><th></th><th>Rekrutierung</th><th>Eignungsabklärung</th><th colspan="3">Rekrutenschule (inkl. Fachkurse für Spezialist/innen nach Art. 50 MG)</th><th></th><th colspan="2">Unteroffiziersschule</th><th>Küchenchefunteroffiziersschule</th><th colspan="2">Kadervorkurs und Praktischer Dienst in Rekrutenschule</th></tr>
+<tr><td>1.0</td><td>Rekr</td><td>Sdt</td><td>Alle Funktionen, sofern keine Ausnahme</td><td>3</td><td></td><td colspan="3">124/159</td><td>Folgende Funktionen leisten eine Rekrutenschule von 159 Tagen am Ausbildungszentrum Spezialkräfte: Spezialkräfte Sicherungssoldat, Spezialkräfte Führungsstaffelsoldat, Spezialkräfte Nachschubsoldat, Spezialkräfte Übermittlungssoldat, Spezialkräfte Minenwerfersoldat; und am Ausbildungszentrum Spezialkräfte die Logistikfunktionen Büroordonnanz, Truppenbuchhalter/in, Truppenkoch/-köchin, Truppenkoch/-köchin Durchdiener, Betriebssoldat/in</td><td colspan="2"></td><td></td><td colspan="2"></td></tr>
+<tr><td></td><td></td><td></td><td>Gebirgsspezialist/in</td><td>3</td><td>2</td><td colspan="3">124</td><td></td><td colspan="2"></td><td></td><td colspan="2"></td></tr>
+<tr><td></td><td></td><td></td><td>Grenadier/in und Fallschirmaufklärer/in</td><td>3</td><td>2</td><td colspan="3">159</td><td></td><td colspan="2"></td><td></td><td colspan="2"></td></tr>
+<tr><td></td><td></td><td></td><td>Sanitätssoldat Arzt/Ärztin Anwärter/in Spitalssoldat Arzt/Ärztin Anwärter/in</td><td>3</td><td></td><td colspan="3">82/124</td><td>Anwärter/innen leisten eine Grundausbildung von 82 Tagen. Bestehen sie die Kaderausbildungslaufbahn zum Offizier nicht, werden sie für den Rest der Dauer der Grundausbildung von 124 Tagen aufgeboten.</td><td colspan="2"></td><td></td><td colspan="2"></td></tr>
+<tr><td></td><td></td><td></td><td>Soldat Veterinärarzt/-ärztin Anwärter/in</td><td></td><td></td><td colspan="3">82/124</td><td></td><td colspan="2"></td><td></td><td colspan="2"></td></tr>
+<tr><td>1.1</td><td>Sdt</td><td>Gfr</td><td>Alle Funktionen</td><td colspan="11">Nach Erreichen des Grades Soldat sind keine weiteren Kaderausbildungsdienste zu leisten.</td></tr>
+<tr><td>2.0</td><td>Sdt Gfr</td><td>Wm</td><td>Gruppenführer/in Gruppenführer/in Gebirgsspezialist/in</td><td></td><td></td><td colspan="3"></td><td></td><td colspan="2">27</td><td></td><td colspan="2">12–131\*</td></tr>
+<tr><td></td><td></td><td></td><td>Gruppenführer/in Grenadier/in Gruppenführer/in Fallschirmaufklärer/in Gruppenführer/in Spezialkräfte-Funktionen</td><td></td><td></td><td colspan="3"></td><td></td><td colspan="2">40</td><td></td><td colspan="2">47–124\*</td></tr>
+<tr><td></td><td></td><td></td><td>Küchenchef/in</td><td></td><td></td><td colspan="3"></td><td></td><td colspan="2"></td><td>40</td><td colspan="2">33–131\*</td></tr>
+<tr><td>2.1</td><td>Wm</td><td>Obwm</td><td>Zugführer/in Stellvertreter/in</td><td colspan="11">Nach Erreichen des Grades Wachtmeister sind keine weiteren Kaderausbildungsdienste zu leisten.</td></tr>
 </table>
 
 <table>
 <tr><th>Kaderausbildungslaufbahn</th><th>Aktueller Grad</th><th>Angehender Grad</th><th>Funktion</th><th colspan="6">Kaderausbildungsdienste</th><th colspan="2"></th><th></th><th></th><th colspan="2"></th><th></th><th></th><th></th></tr>
-<tr><th></th><th></th><th></th><th></th><th>Technischer Lehrgang</th><th>Höherer Unteroffizierslehrgang</th><th>Kadervorkurs und Praktischer Dienst in Rekrutenschule</th><th>Technischer Lehrgang Logistik</th><th>Führungslehrgang Truppenkörper</th><th colspan="2">Praktischer Dienst in Ausbildungsdiensten der Formationen</th><th colspan="4">Technischer Lehrgang B</th><th colspan="4">Führungslehrgang Grosser Verband</th></tr>
+<tr><th></th><th></th><th></th><th></th><th>Technischer Lehrgang</th><th>Höherer Unteroffizierslehrgang</th><th>Kadervorkurs und Praktischer Dienst in Rekrutenschule</th><th>Technischer Lehrgang Logistik</th><th>Führungslehrgang Truppenkörper</th><th colspan="2">Praktischer Dienst in Ausbildungsdiensten der Formationen</th><th colspan="4">Technischer Lehrgang Grosser Verband</th><th colspan="4">Führungslehrgang Grosser Verband</th></tr>
 <tr><td>3.0</td><td>Wm Obwm</td><td>Fw</td><td></td><td>5–26\*</td><td></td><td>0–131\*</td><td></td><td></td><td colspan="2"></td><td colspan="4"></td><td colspan="4"></td></tr>
-<tr><td>3.1</td><td>Wm Obwm Fw</td><td>Four</td><td>Fourier/in</td><td></td><td>40</td><td>0–131\*</td><td></td><td></td><td colspan="2"></td><td colspan="4"></td><td colspan="4"></td></tr>
+<tr><td>3.1</td><td>Wm Obwm Fw</td><td>Four</td><td>Fourier/in</td><td></td><td>52</td><td>0–131\*</td><td></td><td></td><td colspan="2"></td><td colspan="4"></td><td colspan="4"></td></tr>
 <tr><td>3.2</td><td></td><td>Hptfw</td><td>Einheitsfeldweibel</td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="4"></td><td colspan="4"></td></tr>
 <tr><td>3.3</td><td>Fw Four Hptfw</td><td>Adj Uof</td><td></td><td></td><td></td><td></td><td>26</td><td></td><td colspan="2">26</td><td colspan="4"></td><td colspan="4"></td></tr>
 <tr><td>3.4</td><td>Fw Four Hptfw Adj Uof</td><td>Stabsadj</td><td></td><td></td><td></td><td></td><td></td><td>33</td><td colspan="2">12</td><td colspan="4"></td><td colspan="4"></td></tr>
 <tr><td>3.5</td><td>Stabsadj</td><td>Hptadj</td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="4">0–21\*</td><td colspan="4">12–38\*</td></tr>
-<tr><td>3.6</td><td>Hptadj</td><td>Chefadj</td><td></td><td colspan="15">Nach Erreichen des Grades Hauptadjutant sind keine weiteren Kaderausbildungsdienste zu leisten.</td></tr>
+<tr><td>3.6</td><td>Hptadj</td><td>Chefadj</td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="4"></td><td colspan="4">0–38\*</td></tr>
 </table>
 
 <table>
-<tr><th>Kaderausbildungslaufbahn</th><th>Aktueller Grad</th><th>Angehender Grad</th><th>Funktion</th><th colspan="10">Kaderausbildungsdienste</th><th></th><th></th><th></th><th colspan="2"></th><th></th><th></th><th></th><th colspan="2"></th><th></th><th></th></tr>
-<tr><th></th><th></th><th></th><th></th><th>Offiziersschule</th><th>Spezialkurs für Grenadier/innen und Fallschirmaufklärer/innen</th><th>Kaderkurs Medizin</th><th>Kaderkurs Veterinär</th><th>Kadervorkurs und Praktischer Dienst in Rekrutenschule oder in den Regionen bzw. Bereichen der Sanität</th><th>Führungslehrgang Einheit</th><th>Technischer Lehrgang</th><th>Kadervorkurs und Praktischer Dienst in Rekrutenschule</th><th>Führungslehrgang Truppenkörper</th><th colspan="5">Technischer Lehrgang</th><th colspan="5">Praktischer Dienst in Ausbildungsdienste der Formationen</th><th colspan="3">Führungslehrgang Grosser Verband</th></tr>
-<tr><td>4.0</td><td>Uof Höh Uof</td><td>Lt</td><td>Zugführer/in</td><td>103</td><td></td><td></td><td></td><td>131</td><td></td><td></td><td></td><td></td><td colspan="5"></td><td colspan="5"></td><td colspan="3"></td></tr>
-<tr><td></td><td></td><td></td><td>Zugführer/in Grenadier/in Zugführer/in Fallschirmaufklärer/in</td><td>75</td><td>26–73\*\*</td><td></td><td></td><td>124</td><td></td><td></td><td></td><td></td><td colspan="5"></td><td colspan="5"></td><td colspan="3"></td></tr>
-<tr><td></td><td></td><td></td><td>Quartiermeister/in</td><td>103</td><td></td><td></td><td></td><td>131</td><td></td><td></td><td></td><td></td><td colspan="5"></td><td colspan="5"></td><td colspan="3"></td></tr>
-<tr><td></td><td>Sdt</td><td></td><td>Militärarzt/-ärztin Apotheker/in</td><td></td><td></td><td>54</td><td></td><td>82</td><td></td><td></td><td></td><td></td><td colspan="5"></td><td colspan="5"></td><td colspan="3"></td></tr>
-<tr><td></td><td></td><td></td><td>Zahnarzt/-ärztin</td><td></td><td></td><td>54</td><td></td><td>164</td><td></td><td></td><td></td><td></td><td colspan="5"></td><td colspan="5"></td><td colspan="3"></td></tr>
-<tr><td></td><td></td><td></td><td>Veterinärarzt/-ärztin</td><td>54</td><td></td><td></td><td>96</td><td>96</td><td></td><td></td><td></td><td></td><td colspan="5"></td><td colspan="5"></td><td colspan="3"></td></tr>
-<tr><td>4.1</td><td>Lt</td><td>Oblt</td><td>Alle Funktionen</td><td colspan="22">Nach Erreichen des Grades Leutnant sind keine weiteren Kaderausbildungsdienste zu leisten.</td></tr>
-<tr><td></td><td></td><td></td><td>Quartiermeister/in</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>12</td><td colspan="5"></td><td colspan="5">12</td><td colspan="3"></td></tr>
-<tr><td>5.0</td><td>Lt Oblt</td><td>Hptm</td><td>Einheitskommandant/in</td><td></td><td></td><td></td><td></td><td></td><td>26</td><td>5–26\*</td><td>132</td><td></td><td colspan="5"></td><td colspan="5"></td><td colspan="3"></td></tr>
-<tr><td></td><td></td><td></td><td>Bordoperateur/in Pilot/in</td><td></td><td></td><td></td><td></td><td></td><td>26</td><td></td><td></td><td></td><td colspan="5"></td><td colspan="5">12</td><td colspan="3"></td></tr>
-<tr><td></td><td></td><td></td><td>Drohnenpilot/in Drohnenoperateur/in</td><td></td><td></td><td></td><td></td><td></td><td>26</td><td>19</td><td></td><td></td><td colspan="5"></td><td colspan="5">12</td><td colspan="3"></td></tr>
-<tr><td></td><td></td><td></td><td>Führungsgehilfe/ -gehilfin Truppenkörper</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>12–31\*</td><td colspan="5">0–19\*</td><td colspan="5">12–16\*</td><td colspan="3"></td></tr>
-<tr><td></td><td></td><td></td><td>Führungsgehilfe/ -gehilfin Grosser Verband</td><td></td><td></td><td></td><td></td><td></td><td></td><td>0–21</td><td></td><td></td><td colspan="5"></td><td colspan="5"></td><td colspan="3">19–38\*</td></tr>
-<tr><td></td><td></td><td></td><td>Bataillonsarzt/-ärztin Abteilungsarzt/-ärztin Chef/in Medizin</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>12–33\*</td><td colspan="5">5</td><td colspan="5">12</td><td colspan="3"></td></tr>
-<tr><td></td><td></td><td></td><td>Apotheker/in Veterinärarzt/-ärztin</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>12</td><td colspan="5"></td><td colspan="5">12</td><td colspan="3"></td></tr>
-<tr><td></td><td></td><td></td><td>Chef/in Dienste Militärmusik</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>12</td><td colspan="5">12</td><td colspan="5">26</td><td colspan="3"></td></tr>
-<tr><td>5.1</td><td>Oblt</td><td>Hptm</td><td>Quartiermeister/in</td><td colspan="22">Nach Erreichen des Grades Oberleutnant sind keine weiteren Kaderausbildungsdienste zu leisten.</td></tr>
+<tr><th>Kaderausbildungslaufbahn</th><th>Aktueller Grad</th><th>Angehender Grad</th><th>Funktion</th><th colspan="9">Kaderausbildungsdienste</th><th colspan="2"></th><th></th><th></th><th></th><th colspan="2"></th><th></th><th></th><th></th><th colspan="2"></th><th></th><th colspan="2"></th></tr>
+<tr><th></th><th></th><th></th><th></th><th>Offiziersschule</th><th>Spezialkurs für Grenadier/innen und Fallschirmaufklärer/innen</th><th>Militärarzt/-ärztin Offiziersschule</th><th>Kaderkurs Veterinär</th><th>Kadervorkurs und Praktischer Dienst in Rekrutenschule oder in den Regionen bzw. Bereichen der Sanität</th><th>Führungslehrgang Einheit</th><th>Technischer Lehrgang</th><th>Kadervorkurs und Praktischer Dienst in Rekrutenschule</th><th colspan="2">Führungslehrgang Truppenkörper</th><th colspan="5">Technischer Lehrgang</th><th colspan="5">Praktischer Dienst in Ausbildungsdienste der Formationen</th><th colspan="3">Führungslehrgang Grosser Verband</th></tr>
+<tr><td>4.0</td><td>Uof Höh Uof</td><td>Lt</td><td>Zugführer/in</td><td>103</td><td></td><td></td><td></td><td>131</td><td></td><td></td><td></td><td colspan="2"></td><td colspan="5"></td><td colspan="5"></td><td colspan="3"></td></tr>
+<tr><td></td><td></td><td></td><td>Zugführer/in Grenadier/in Zugführer/in Fallschirmaufklärer/in Zugführer/in Spezialkräfte-Funktionen</td><td>75</td><td>26–73\*\*</td><td></td><td></td><td>124</td><td></td><td></td><td></td><td colspan="2"></td><td colspan="5"></td><td colspan="5"></td><td colspan="3"></td></tr>
+<tr><td></td><td>Uof Hptfw</td><td></td><td>Quartiermeister/in</td><td>103</td><td></td><td></td><td></td><td>131</td><td></td><td></td><td></td><td colspan="2"></td><td colspan="5"></td><td colspan="5"></td><td colspan="3"></td></tr>
+<tr><td></td><td>Four</td><td></td><td>Quartiermeister/in</td><td>103</td><td></td><td></td><td></td><td>0–131\*</td><td></td><td></td><td></td><td colspan="2"></td><td colspan="5"></td><td colspan="5"></td><td colspan="3"></td></tr>
+<tr><td></td><td>Sdt</td><td></td><td>Militärarzt/-ärztin Apotheker/in</td><td></td><td></td><td>54</td><td></td><td>82</td><td colspan="18">Soldaten mit abgeschlossener RS, die Humanmedizin studieren, leisten eine Mil Az UOS von 40 Tagen</td></tr>
+<tr><td></td><td></td><td></td><td>Zahnarzt/-ärztin</td><td></td><td></td><td>54</td><td></td><td>164</td><td></td><td></td><td></td><td colspan="2"></td><td colspan="5"></td><td colspan="5"></td><td colspan="3"></td></tr>
+<tr><td></td><td></td><td></td><td>Veterinärarzt/-ärztin</td><td>54</td><td></td><td></td><td>96</td><td>96</td><td></td><td></td><td></td><td colspan="2"></td><td colspan="5"></td><td colspan="5"></td><td colspan="3"></td></tr>
+<tr><td>4.1</td><td>Uof Höh Uof</td><td>Lt Oblt</td><td>Subalternoffizier in Stäben der Truppenkörper, Grossen Verbände oder in besonderen Stäben</td><td>103</td><td></td><td></td><td></td><td>0-131</td><td></td><td></td><td></td><td colspan="2">0-19</td><td colspan="5">0-19</td><td colspan="5">0-12</td><td colspan="3">0-19</td></tr>
+<tr><td>4.2</td><td>Lt</td><td>Oblt</td><td>Alle Funktionen</td><td colspan="23">Nach Erreichen des Grades Leutnant sind keine weiteren Kaderausbildungsdienste zu leisten.</td></tr>
+<tr><td>5.0</td><td>Lt Oblt</td><td>Hptm</td><td>Einheitskommandant/in</td><td></td><td></td><td></td><td></td><td></td><td>26</td><td>5–26\*</td><td>132</td><td colspan="2"></td><td colspan="5"></td><td colspan="5"></td><td colspan="3"></td></tr>
+<tr><td></td><td></td><td></td><td>Bordoperateur/in Pilot/in</td><td></td><td></td><td></td><td></td><td></td><td>26</td><td></td><td></td><td colspan="2"></td><td colspan="5"></td><td colspan="5">12</td><td colspan="3"></td></tr>
+<tr><td></td><td></td><td></td><td>Drohnenpilot/in Drohnenoperateur/in</td><td></td><td></td><td></td><td></td><td></td><td>26</td><td>19</td><td></td><td colspan="2"></td><td colspan="5"></td><td colspan="5">12</td><td colspan="3"></td></tr>
+<tr><td></td><td></td><td></td><td>Führungsgehilfe/-gehilfin Einheit/Detachement</td><td></td><td></td><td></td><td></td><td></td><td>0-26</td><td>0-12</td><td></td><td colspan="2">0-31</td><td colspan="5">0-19</td><td colspan="5"></td><td colspan="3"></td></tr>
+<tr><td></td><td></td><td></td><td>Führungsgehilfe/ -gehilfin Truppenkörper</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2">12–33\*</td><td colspan="5">0–19\*</td><td colspan="5">0–16\*</td><td colspan="3"></td></tr>
+<tr><td></td><td></td><td></td><td>Führungsgehilfe/ -gehilfin Grosser Verband</td><td></td><td></td><td></td><td></td><td></td><td></td><td>0–21</td><td></td><td colspan="2"></td><td colspan="5"></td><td colspan="5"></td><td colspan="3">19–38\*</td></tr>
+<tr><td></td><td></td><td></td><td>Bataillonsarzt/-ärztin Abteilungsarzt/-ärztin Chef/in Medizin</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2">12–33\*</td><td colspan="5">5</td><td colspan="5">12</td><td colspan="3"></td></tr>
+<tr><td></td><td></td><td></td><td>Apotheker/in Veterinärarzt/-ärztin Sprachspezialist/in Detachementschef/in Lebensmittelinspektorat</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2">12</td><td colspan="5"></td><td colspan="5">12</td><td colspan="3"></td></tr>
+<tr><td></td><td></td><td></td><td>Chef/in Dienste Militärmusik</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2">12</td><td colspan="5">12</td><td colspan="5">26</td><td colspan="3"></td></tr>
+<tr><td></td><td></td><td></td><td>Armeeseelsorger/in Sozialberater/in Spezialist/in Psychologisch-Pädagogischer Dienst der Armee</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td><td colspan="5">0–40</td><td colspan="5"></td><td colspan="3"></td></tr>
+<tr><td>5.1</td><td>Oblt</td><td>Hptm</td><td>Quartiermeister/in</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2">12</td><td colspan="5"></td><td colspan="5">12</td><td colspan="3"></td></tr>
 </table>
 
 <table>
 <tr><th>Kaderausbildungslaufbahn</th><th>Aktueller Grad</th><th>Angehender Grad</th><th>Funktion</th><th colspan="6">Kaderausbildungsdienste</th><th></th><th></th><th colspan="2"></th><th></th><th></th><th></th><th>Bemerkung</th></tr>
-<tr><th></th><th></th><th></th><th></th><th>Führungslehrgang Truppenkörper</th><th>Technischer Lehrgang</th><th>Praktischer Dienst in Ausbildungsdienst der Formationen</th><th>Technischer Lehrgang II</th><th>Praktischer Dienst in Ausbildungsdienste der Formationen</th><th colspan="4">Technischer Lehrgang B</th><th colspan="4">Führungslehrgang Grosser Verband</th><th></th></tr>
-<tr><td>5.2</td><td>Hptm</td><td>Hptm/ Maj</td><td>Bei gleichbleibender Funktion, mit Übernahme einer neuen Einheit als Kommandant/in</td><td></td><td>0–26\*</td><td></td><td></td><td></td><td colspan="4"></td><td colspan="4"></td><td>nach dem 3. Funktionsjahr als Hptm, mit Einverständnis des/der Betroffenen und des Arbeitgebers</td></tr>
+<tr><th></th><th></th><th></th><th></th><th>Führungslehrgang Truppenkörper</th><th>Technischer Lehrgang</th><th>Praktischer Dienst in Ausbildungsdienst der Formationen</th><th>Technischer Lehrgang Truppenkörper</th><th>Praktischer Dienst in Ausbildungsdienste der Formationen</th><th colspan="4">Technischer Lehrgang Grosser Verband</th><th colspan="4">Führungslehrgang Grosser Verband</th><th></th></tr>
+<tr><td>5.2</td><td>Hptm</td><td>Hptm/ Maj auf einer OTF-Hptm-Stelle</td><td>Mit Übernahme einer zweiten Einheit als Kommandant/in</td><td></td><td>0–26\*</td><td></td><td></td><td></td><td colspan="4"></td><td colspan="4"></td><td>nach dem 3. WK als Einh Kdt, mit Einverständnis des/der Betroffenen und des Arbeitgebers</td></tr>
 <tr><td>5.3</td><td></td><td></td><td>Bei gleichbleibender Funktion in einer Stabs- oder Logistikkompanie (ohne die Logistikbataillone), einer Feuerleit- oder Logistikbatterie (ohne die Logistikbataillone)</td><td></td><td></td><td></td><td></td><td></td><td colspan="4"></td><td colspan="4"></td><td></td></tr>
-<tr><td>5.4</td><td></td><td></td><td>Bei gleichbleibender Funktion als Führungsgehilfe in Stäben der Truppenkörper</td><td>12–31\*</td><td>0–19\*</td><td>12–16\*</td><td></td><td></td><td colspan="4"></td><td colspan="4"></td><td></td></tr>
-<tr><td>5.5</td><td></td><td></td><td>Bei gleichbleibender Funktion als Führungsgehilfe in Stäben der Grossen Verbände</td><td></td><td>0–21\*</td><td></td><td></td><td></td><td colspan="4"></td><td colspan="4">19–38\*</td><td></td></tr>
-<tr><td>5.6</td><td></td><td></td><td>Bei gleichbleibender Funktion als Führungsgehilfe in besonderen Stäben</td><td>12–31\*</td><td>0–19\*</td><td>12–16\*</td><td></td><td></td><td colspan="4"></td><td colspan="4"></td><td></td></tr>
+<tr><td>5.4</td><td></td><td></td><td>Als Führungsgehilfe/-gehilfin in Stäben der Truppenkörper</td><td>12–33\*</td><td>0–19\*</td><td>12–16\*</td><td></td><td></td><td colspan="4"></td><td colspan="4"></td><td></td></tr>
+<tr><td>5.5</td><td></td><td></td><td>Als Führungsgehilfe/-gehilfin in Stäben der Grossen Verbände</td><td></td><td>0–21\*</td><td></td><td></td><td></td><td colspan="4"></td><td colspan="4">19–38\*</td><td></td></tr>
+<tr><td>5.6</td><td></td><td></td><td>Als Führungsgehilfe/-gehilfin in besonderen Stäben</td><td>12–33\*</td><td>0–19\*</td><td>12–16\*</td><td></td><td></td><td colspan="4"></td><td colspan="4"></td><td></td></tr>
 <tr><td>6.0</td><td>Hptm</td><td>Maj</td><td>Führungsgehilfe/-gehilfin Truppenkörper (Kommandant/in Stellvertreter/in, Chef/in Einsatz S3)</td><td>33</td><td></td><td></td><td>12–19\*</td><td>16</td><td colspan="4"></td><td colspan="4"></td><td>ab Funktion Einheitskommandant/in</td></tr>
-<tr><td></td><td></td><td></td><td>Führungsgehilfe/-gehilfin Truppenkörper</td><td>12–31\*</td><td>0–19\*</td><td>12–16\*</td><td></td><td></td><td colspan="4"></td><td colspan="4"></td><td>ab Funktion Zugführer/in</td></tr>
-<tr><td></td><td></td><td></td><td></td><td>12–31\*</td><td>0–19\*</td><td>12–16\*</td><td>0–19\*</td><td></td><td colspan="4"></td><td colspan="4"></td><td>ab Funktion Einheitskommandant/in</td></tr>
-<tr><td></td><td></td><td></td><td>Führungsgehilfe/-gehilfin Grosser Verband Quartiermeister/in</td><td></td><td></td><td></td><td></td><td></td><td colspan="4">0–21\*</td><td colspan="4">19–38\*</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>Führungsgehilfe/-gehilfin Truppenkörper</td><td>0–33\*</td><td>0–19\*</td><td>0–16\*</td><td>0–19\*</td><td></td><td colspan="4">0–19\*</td><td colspan="4">0–38\*</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>Führungsgehilfe/-gehilfin Grosser Verband</td><td></td><td></td><td></td><td></td><td></td><td colspan="4">0–19\*</td><td colspan="4">0–38\*</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>Truppenpsychologische/r Berater/in</td><td></td><td>12-40</td><td></td><td></td><td></td><td colspan="4"></td><td colspan="4"></td><td></td></tr>
 <tr><td></td><td></td><td></td><td>Staffelkommandant/in</td><td>33</td><td></td><td>26</td><td></td><td></td><td colspan="4"></td><td colspan="4"></td><td>ab Funktion Pilot/in</td></tr>
 <tr><td></td><td></td><td></td><td>Chef/in Medizin Detachementschef/in Lebensmittelinspektorat Chef/in Veterinär/in Armeetiere</td><td colspan="13">Nach Erreichen des Grades Hauptmann sind keine weiteren Kaderausbildungsdienste zu leisten.</td><td></td></tr>
 <tr><td></td><td></td><td></td><td>Chef/in Veterinärdienst</td><td>12</td><td></td><td></td><td></td><td></td><td colspan="4">5</td><td colspan="4">19</td><td></td></tr>
 <tr><td>6.1</td><td>Maj</td><td>Oberstlt</td><td>Truppenkörperkommandant/in</td><td></td><td></td><td></td><td>5–19\*</td><td>16</td><td colspan="4"></td><td colspan="4"></td><td></td></tr>
 <tr><td></td><td></td><td></td><td>Geschwaderkommandant/in</td><td></td><td></td><td></td><td>12</td><td></td><td colspan="4"></td><td colspan="4"></td><td></td></tr>
-<tr><td></td><td></td><td></td><td>Führungsgehilfe/-gehilfin Grosser Verband</td><td></td><td></td><td></td><td></td><td></td><td colspan="4">0–21\*</td><td colspan="4">0–38\*</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>Führungsgehilfe/-gehilfin Grosser Verband</td><td></td><td></td><td></td><td></td><td></td><td colspan="4">0–19\*</td><td colspan="4">0–38\*</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>Führungsgehilfe/-gehilfin Truppenkörper</td><td></td><td></td><td></td><td>0-12</td><td></td><td colspan="4"></td><td colspan="4">0–38\*</td><td></td></tr>
 <tr><td></td><td></td><td></td><td>Arzt/Ärztin Grosser Verband Chef/in Pharmazie</td><td></td><td></td><td></td><td></td><td></td><td colspan="4">5</td><td colspan="4">31</td><td></td></tr>
 <tr><td></td><td></td><td></td><td>Chef/in Veterinärdienst Truppenkörper</td><td colspan="13">Nach Erreichen des Grades Major sind keine weiteren Kaderausbildungsdienste zu leisten.</td><td></td></tr>
+<tr><td>6.2</td><td>Oberstlt</td><td>Oberst</td><td>Kommandant/in Stellvertreter/in Grosser Verband Führungsgehilfe/-gehilfin Grosser Verband</td><td></td><td></td><td></td><td></td><td></td><td colspan="4">0–19\*</td><td colspan="4">0–38\*</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>Kommandant/-in Truppenkörper Führungsgehilfe/-gehilfin Truppenkörper</td><td>0–31\*</td><td></td><td></td><td>0–19\*</td><td>0–16\*</td><td colspan="4"></td><td colspan="4"></td><td></td></tr>
 </table>
 
 <table>
-<tr><td>Kaderausbildungslaufbahn</td><td>Aktueller Grad</td><td>Angehender Grad</td><td>Funktion</td><td>Kaderausbildungsdienste</td><td colspan="4">Zusätzliche Kaderausbildungsdienste</td><td></td><td></td><td></td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>Eignungsprüfung und Einführungskurs</td><td>Generalstabslehrgang I und II</td><td>Generalstabslehrgang III/1 und III/2</td><td colspan="4">Generalstabslehrgang IV und V</td></tr>
-<tr><td>6.2</td><td>Oberstlt</td><td>Oberst</td><td>Führungsgehilfe/-gehilfin Grosser Verband Divisionsarzt/-ärztin Chef/in Sanitätsdienst Chef/in Pharmazie Chef/in Lebensmittelinspektorat Chef/in Veterinärdienst Grosser Verband</td><td>Nach Erreichen des Grades Oberstleutnant sind keine weiteren Kaderausbildungsdienste zu leisten.</td><td></td><td></td><td></td><td colspan="4"></td></tr>
+<tr><th>Kaderausbildungslaufbahn</th><th>Aktueller Grad</th><th>Angehender Grad</th><th>Funktion</th><th>Kaderausbildungsdienste</th><th colspan="4">Zusätzliche Kaderausbildungsdienste</th><th></th><th></th><th></th></tr>
+<tr><th></th><th></th><th></th><th></th><th></th><th>Eignungsprüfung und Einführungskurs</th><th>Generalstabslehrgang I und II</th><th>Generalstabslehrgang III/1 und III/2</th><th colspan="4">Generalstabslehrgang IV und V</th></tr>
 <tr><td>7.0</td><td>Hptm / Maj</td><td>Maj i Gst</td><td></td><td></td><td>5</td><td>52</td><td></td><td colspan="4"></td></tr>
 <tr><td>7.1</td><td>Maj i Gst</td><td>Oberstlt i Gst</td><td></td><td></td><td></td><td></td><td>24</td><td colspan="4"></td></tr>
 <tr><td>7.2</td><td>Oberstlt i Gst/Oberst i Gst</td><td>Oberstlt i Gst/Oberst i Gst</td><td></td><td></td><td></td><td></td><td></td><td colspan="4">19–38\*</td></tr>
@@ -2386,50 +2527,54 @@ Anhang 2*[^t-2]*
 <tr><td>[tab] *Legende:* \* Funktionsabhängige Dauer des Kaderausbildungsdienstes \*\* Grenadier- und Fallschirmaufkläreranwärter/innen, die den Vorschlag im Fortbildungsdienst der Truppe erhalten haben, absolvieren einen Vorkurs der Grenadier- und Fallschirmaufklärerunteroffiziersschule</td><td>Adj Uof Adjutantunteroffizier Chefadj Chefadjutant Four Fourier Fw Feldweibel Gfr Gefreiter Höh Uof Höherer Unteroffizier Hptadj Hauptadjutant Hptfw Hauptfeldweibel Hptm Hauptmann i Gst im Generalstab Lt Leutnant Maj Major</td><td>Oberstlt Oberstleutnant Oblt Oberleutnant Obwm Oberwachtmeister Rekr Rekrut Sdt Soldat Stabsadj Stabsadjutant Uof Unteroffizier Wm Wachtmeister</td></tr>
 </table>
 
-Anhang 3*[^t-3]*
+Anhang 3[^t-3]
 
 (Art. 71 Abs. 2 und 78 Abs. 1)
 
 ## Zeitliche Voraussetzungen für den Vorschlag und die Beförderung sowie Zuständigkeiten bei Beförderungen
 
-[^t-3]: Fassung gemäss Ziff. II Abs. 1 der V vom 16. Okt. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
+[^t-3]: Fassung gemäss Ziff. II Abs. 1 der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 <table>
-<tr><th>Kaderausbildungslaufbahn</th><th>Aktueller Grad</th><th>Angehender Grad</th><th>Funktion</th><th colspan="7">Vorschlagserteilung<sup>1</sup></th><th></th><th></th><th colspan="2">Beförderung</th><th></th><th colspan="2"></th><th>Bemerkungen</th></tr>
-<tr><th></th><th></th><th></th><th></th><th colspan="3">Gelegenheit</th><th></th><th></th><th>Mindestanzahl geleistete Wiederholungskurse oder Dienstjahre im zuletzt erworbenen Grad</th><th colspan="3">Bis vollendetes Altersjahr</th><th>Mindestalter</th><th colspan="3">Zeitpunkt</th><th>durch</th><th></th></tr>
-<tr><th></th><th></th><th></th><th></th><th>Wiederholungskurs (WK)</th><th>Grundausbildungs-dienst</th><th colspan="3">Kaderausbildungsdienst</th><th></th><th colspan="3"></th><th></th><th colspan="3"></th><th></th><th></th></tr>
-<tr><td>1.0</td><td>Rekr</td><td>Sdt</td><td>alle Funktionen</td><td></td><td></td><td colspan="3"></td><td></td><td colspan="3"></td><td>18</td><td colspan="3">Rekrutenschule</td><td>Einh Kdt GAD</td><td>Alter für Beförderung: bis vollendetes 25. Altersjahr</td></tr>
-<tr><td>1.1</td><td>Sdt</td><td>Gfr</td><td>alle Funktionen</td><td>X</td><td></td><td colspan="3"></td><td>1 WK</td><td colspan="3">Kein</td><td>Kein</td><td colspan="3">WK\*</td><td>Einh Kdt</td><td>Beförderung frühestens: – nach dem 1. WK – ab 20 Tagen ADF DD</td></tr>
-<tr><td>2.0</td><td>Sdt Gfr</td><td>Wm</td><td>Gruppenführer/in Küchenchef/in</td><td>X</td><td>X</td><td colspan="3"></td><td></td><td colspan="3">28</td><td>Kein</td><td colspan="3">Unteroffizierschule\*</td><td>Kdt KAD</td><td></td></tr>
-<tr><td>2.1</td><td>Wm</td><td>Obwm</td><td>Zugführer/in Stellvertreter/in</td><td>X</td><td></td><td colspan="3"></td><td>2 WK</td><td colspan="3">29</td><td>Kein</td><td colspan="3">WK\*</td><td>Einh Kdt</td><td>Beförderung frühestens: – nach dem 2. WK – ab 50 Tagen ADF DD</td></tr>
-<tr><td>3.0</td><td>Wm Obwm</td><td>Fw</td><td></td><td>X</td><td></td><td colspan="3">X</td><td>2 WK bei Vorschlags-erteilung aus WK</td><td colspan="3">31</td><td>Kein</td><td colspan="3">Technischer Lehrgang\*</td><td>Kdt KAD</td><td></td></tr>
-<tr><td>3.1</td><td>Wm Obwm Fw</td><td>Four</td><td>Fourier/in</td><td>X</td><td></td><td colspan="3">X</td><td>2 WK bei Vorschlags-erteilung aus WK</td><td colspan="3">30</td><td>Kein</td><td colspan="3">Höherer Unteroffiziers-lehrgang\*</td><td></td><td></td></tr>
-<tr><td>3.2</td><td></td><td>Hptfw</td><td>Einheitsfeldweibel/in</td><td>X</td><td></td><td colspan="3">X</td><td>2 WK bei Vorschlags-erteilung aus WK</td><td colspan="3">30</td><td>Kein</td><td colspan="3"></td><td></td><td></td></tr>
-<tr><td>3.3</td><td>Fw Four Hptfw</td><td>Adj Uof</td><td></td><td>X</td><td></td><td colspan="3"></td><td>1 WK</td><td colspan="3">30</td><td>Kein</td><td colspan="3">Technischer Lehrgang\*</td><td></td><td></td></tr>
-<tr><td>3.4</td><td>Fw Four Hptfw Adj Uof</td><td>Stabsadj</td><td></td><td>X</td><td></td><td colspan="3"></td><td>2 WK</td><td colspan="3">36</td><td>25</td><td colspan="3">Praktischer Dienst im ADF\*\*</td><td>CdA</td><td></td></tr>
-<tr><td>3.5</td><td>Stabsadj</td><td>Hptadj</td><td></td><td>X</td><td></td><td colspan="3"></td><td>4 WK</td><td colspan="3">44</td><td>32</td><td colspan="3">Führungslehrgang Grosser Verband\*\*</td><td></td><td></td></tr>
-<tr><td>3.6</td><td>Hptadj</td><td>Chefadj</td><td></td><td>X</td><td></td><td colspan="3"></td><td>4 Dienstjahre</td><td colspan="3">50</td><td>38</td><td colspan="3">\*\*</td><td></td><td></td></tr>
-<tr><td>4.0</td><td>Uof und höh Uof</td><td>Lt</td><td>Zugführer/in Quartiermeister/in</td><td>X</td><td></td><td colspan="3">X</td><td>2 WK bei Vorschlags-erteilung aus WK</td><td colspan="3">33</td><td>Kein</td><td colspan="3">Offiziersschule oder Spezialkurs Grenadier und Fallschirmaufklärer\*</td><td></td><td></td></tr>
-<tr><td>4.1</td><td>Lt</td><td>Oblt</td><td>Zugführer/in</td><td>X</td><td></td><td colspan="3"></td><td>2 WK</td><td colspan="3">34</td><td>Kein</td><td colspan="3">WK\*\* oder im ADF DD (keine Quartalsbeförderung)</td><td>Chef/in VBS</td><td>Beförderung frühestens: – nach 3. WK oder – ab 70 Tagen ADF DD Beförderung ohne Vorschlag: – nach 6. WK oder – 140 Tagen ADF DD</td></tr>
-<tr><td></td><td></td><td></td><td>Quartiermeister/in</td><td></td><td></td><td colspan="3">X</td><td></td><td colspan="3"></td><td>Kein</td><td colspan="3">Nach Praktischem Dienst im ADF (keine Quartalsbeförderung)</td><td></td><td></td></tr>
-<tr><td>5.0</td><td>Lt Oblt</td><td>Hptm</td><td>Bataillons- und Abteilungsarzt/ärztin</td><td>X</td><td></td><td colspan="3"></td><td>1 WK</td><td colspan="3">36</td><td>Kein</td><td colspan="3">WK\*\*</td><td>Chef/in VBS</td><td></td></tr>
-<tr><td></td><td></td><td></td><td>Einheitskommandant/in</td><td>X</td><td></td><td colspan="3"></td><td>2 WK, d. h. frühestens Ende 3. WK mit zeit-gleichem Antrag auf Beförderung zum Oblt.</td><td colspan="3">36</td><td>Kein</td><td colspan="3">Praktischer Dienst in Rekrutenschule\*\*</td><td></td><td></td></tr>
-<tr><td></td><td></td><td></td><td>Führungsgehilfe/ -gehilfin Truppenkörper oder Grosser Verband</td><td>X</td><td></td><td colspan="3"></td><td></td><td colspan="3">36</td><td>Kein</td><td colspan="3">Praktischer Dienst im ADF\*\*</td><td></td><td></td></tr>
-<tr><td>5.1</td><td>Oblt</td><td>Hptm</td><td>Quartiermeister/in</td><td>X</td><td></td><td colspan="3"></td><td>3 WK</td><td colspan="3">36</td><td>Kein</td><td colspan="3">WK\*\*</td><td></td><td></td></tr>
-<tr><td>6.0</td><td>Hptm</td><td>Maj</td><td>Quartiermeister/in</td><td>X</td><td></td><td colspan="3"></td><td></td><td colspan="3"></td><td>32</td><td colspan="3">Führungslehrgang Grosser Verband\*\*</td><td>Chef/in VBS</td><td>Voraussetzung: mindestens acht Jahre als Offizier</td></tr>
-<tr><td></td><td></td><td></td><td>Führungsgehilfe/ -gehilfin Truppenkörper</td><td>X</td><td></td><td colspan="3"></td><td>3 WK</td><td colspan="3"></td><td>32</td><td colspan="3">\*\*</td><td></td><td></td></tr>
-<tr><td></td><td></td><td></td><td></td><td>X</td><td></td><td colspan="3"></td><td>3 WK</td><td colspan="3"></td><td>Kein</td><td colspan="3">Praktischer Dienst im ADF\*\*</td><td></td><td>ab Funktion Einheitskommandant/in</td></tr>
-<tr><td></td><td></td><td></td><td>Führungsgehilfe/ -gehilfin Grosser Verband</td><td>X</td><td></td><td colspan="3"></td><td></td><td colspan="3"></td><td>32</td><td colspan="3">Führungslehrgang Grosser Verband\*\*</td><td></td><td>Voraussetzung: mindestens drei Jahre als Einheitskommandant/in oder Führungsgehilfe/-gehilfin Truppenkörper und mindestens acht Jahre als Offizier</td></tr>
-<tr><td>6.1</td><td>Maj</td><td>Oberstlt</td><td>Kommandant/in Truppenkörper</td><td>X</td><td></td><td colspan="3"></td><td>ab Funktion Einheitskommandant/in: mindestens 2 WK als Truppenkörper Kommandant/in Stellvertreter/in oder S3, Generalstabsoffiziere/ -offizierinnen ausgenommen</td><td colspan="3"></td><td>38</td><td colspan="3">\*\*</td><td></td><td></td></tr>
-<tr><td></td><td></td><td></td><td>Führungsgehilfe/ -gehilfin Grosser Verband</td><td>X</td><td></td><td colspan="3"></td><td></td><td colspan="3"></td><td>38</td><td colspan="3">\*\*</td><td></td><td></td></tr>
-<tr><td>6.2</td><td>Oberstlt</td><td>Oberst</td><td>Führungsgehilfe/ -gehilfin Grosser Verband</td><td>X</td><td></td><td colspan="3"></td><td>Funktion Kommandant/in Grosser Verband Stellvertreter/in nur als ehemalige/r Truppenkörper Kommandant/in möglich</td><td colspan="3"></td><td>42</td><td colspan="3">\*\*</td><td>Chef/in VBS</td><td></td></tr>
+<tr><th>Kaderausbildungslaufbahn</th><th>Aktueller Grad</th><th>Angehender Grad</th><th>Funktion</th><th colspan="7">Vorschlagserteilung<sup>1</sup></th><th></th><th colspan="2"></th><th></th><th></th><th></th><th colspan="2">Beförderung</th><th></th><th colspan="2"></th><th>Bemerkungen</th></tr>
+<tr><th></th><th></th><th></th><th></th><th colspan="3">Gelegenheit</th><th></th><th></th><th></th><th colspan="3">Erforderliche Dienstleistungen im zuletzt erworbenen Grad; der Vorschlag kann frühestens am Ende dieser Dienstleistungen erteilt werden</th><th colspan="4">Bis vollendetes Altersjahr</th><th>Mindestalter</th><th colspan="3">Zeitpunkt</th><th>durch</th><th></th></tr>
+<tr><th></th><th></th><th></th><th></th><th>Wiederholungskurs (WK)</th><th>Grundausbildungsdienst</th><th>Friedensförderungsdienst</th><th colspan="3">Kaderausbildungsdienst</th><th colspan="3"></th><th colspan="4"></th><th></th><th colspan="3"></th><th></th><th></th></tr>
+<tr><td>1.0</td><td>Rekr</td><td>Sdt</td><td>alle Funktionen</td><td></td><td></td><td></td><td colspan="3"></td><td colspan="3"></td><td colspan="4"></td><td>18</td><td colspan="3">Rekrutenschule</td><td>Einh Kdt GAD</td><td></td></tr>
+<tr><td>1.1</td><td>Sdt</td><td>Gfr</td><td>alle Funktionen</td><td>X</td><td></td><td></td><td colspan="3"></td><td colspan="3">1 WK</td><td colspan="4">Kein</td><td>Kein</td><td colspan="3">WK\* oder im ADF DD</td><td>Einh Kdt</td><td>Beförderung frühestens: – nach dem 1. WK – ab 20 Tagen ADF DD</td></tr>
+<tr><td>2.0</td><td>Sdt Gfr</td><td>Wm</td><td>Gruppenführer/in Küchenchef/in</td><td>X</td><td>X</td><td>X</td><td colspan="3"></td><td colspan="3"></td><td colspan="4">28</td><td>Kein</td><td colspan="3">Unteroffizierschule\*</td><td>Kdt KAD</td><td>FFD: keine Altersober-grenze</td></tr>
+<tr><td>2.1</td><td>Wm</td><td>Obwm</td><td>Zugführer/in Stellvertreter/in</td><td>X</td><td></td><td></td><td colspan="3"></td><td colspan="3">2 WK</td><td colspan="4">29</td><td>Kein</td><td colspan="3">WK\* oder im ADF DD</td><td>Einh Kdt</td><td>Beförderung frühestens: – nach dem 2. WK – ab 50 Tagen ADF DD</td></tr>
+<tr><td>3.0</td><td>Wm Obwm</td><td>Fw</td><td></td><td>X</td><td></td><td></td><td colspan="3">X</td><td colspan="3">2 WK bei Vorschlags-erteilung aus WK</td><td colspan="4">31</td><td>Kein</td><td colspan="3">Technischer Lehrgang\*</td><td>Kdt KAD</td><td></td></tr>
+<tr><td>3.1</td><td>Wm Obwm Fw</td><td>Four</td><td>Fourier/in</td><td>X</td><td></td><td></td><td colspan="3">X</td><td colspan="3">2 WK bei Vorschlags-erteilung aus WK</td><td colspan="4">30</td><td>Kein</td><td colspan="3">Höherer Unteroffiziers-lehrgang\*</td><td></td><td></td></tr>
+<tr><td>3.2</td><td></td><td>Hptfw</td><td>Einheitsfeldweibel/in</td><td>X</td><td></td><td></td><td colspan="3">X</td><td colspan="3">2 WK bei Vorschlags-erteilung aus WK</td><td colspan="4">30</td><td>Kein</td><td colspan="3"></td><td></td><td></td></tr>
+<tr><td>3.3</td><td>Fw Four Hptfw</td><td>Adj Uof</td><td></td><td>X</td><td></td><td>X</td><td colspan="3"></td><td colspan="3">1 WK FFD: frühestens nach 1 FFD + 1 WK</td><td colspan="4">32</td><td>Kein</td><td colspan="3">Technischer Lehrgang\*</td><td></td><td>FFD: keine Altersober-grenze</td></tr>
+<tr><td>3.4</td><td>Fw Four Hptfw Adj Uof</td><td>Stabsadj</td><td></td><td>X</td><td></td><td>X</td><td colspan="3"></td><td colspan="3">2 WK FFD: frühestens nach 2 FFD + 2 WK</td><td colspan="4">36</td><td>25</td><td colspan="3">Praktischer Dienst im ADF\*\*</td><td>CdA</td><td>FFD: keine Altersober-grenze</td></tr>
+<tr><td>3.5</td><td>Stabsadj</td><td>Hptadj</td><td></td><td>X</td><td></td><td></td><td colspan="3"></td><td colspan="3">4 WK</td><td colspan="4">44</td><td>32</td><td colspan="3">Führungslehrgang Grosser Verband\*\*</td><td></td><td></td></tr>
+<tr><td>3.6</td><td>Hptadj</td><td>Chefadj</td><td></td><td>X</td><td></td><td></td><td colspan="3"></td><td colspan="3">4 WK</td><td colspan="4">50</td><td>38</td><td colspan="3">\*\*</td><td></td><td></td></tr>
+<tr><td>4.0</td><td>Uof und höh Uof</td><td>Lt</td><td>alle Funktionen</td><td>X</td><td></td><td></td><td colspan="3">X</td><td colspan="3">2 WK bei Vorschlags-erteilung aus WK</td><td colspan="4"></td><td>Kein</td><td colspan="3">Offiziersschule oder Spezialkurs Grenadier und Fallschirmaufklärer\*</td><td></td><td></td></tr>
+<tr><td>4.1</td><td>Lt</td><td>Oblt</td><td>alle Funktionen</td><td>X</td><td></td><td>X</td><td colspan="3"></td><td colspan="3">3 WK</td><td colspan="4"></td><td>Kein</td><td colspan="3">WK\*\* oder im ADF DD</td><td>Chef/in VBS</td><td>Beförderung frühestens: – nach 3. WK – ab 70 Tagen ADF DD oder – ab 70 Tagen FFD (inkl. EBA) Beförderung ohne Vorschlag: – nach 6. WK – 140 Tagen ADF DD oder – nach 2 FFD</td></tr>
+<tr><td></td><td></td><td></td><td>Quartiermeister/in</td><td>X</td><td></td><td></td><td colspan="3"></td><td colspan="3">1 WK</td><td colspan="4"></td><td>Kein</td><td colspan="3">WK\*\*</td><td></td><td></td></tr>
+<tr><td>5.0</td><td>Lt Oblt</td><td>Hptm</td><td>Bataillons- und Abteilungsarzt/-ärztin</td><td>X</td><td></td><td></td><td colspan="3"></td><td colspan="3">1 WK mit zeitgleichem Antrag auf Beförderung zum Oblt</td><td colspan="4"></td><td>Kein</td><td colspan="3">Praktischer Dienst im ADF\*\*</td><td>Chef/in VBS</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>Einheitskommandant/in</td><td>X</td><td></td><td></td><td colspan="3"></td><td colspan="3">3 WK mit zeitgleichem Antrag auf Beförderung zum Oblt FFD: frühestens nach 1 FFD + 2 WK oder 2 FFD</td><td colspan="4"></td><td>Kein</td><td colspan="3">Praktischer Dienst in Rekrutenschule\*\*</td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td>Sprachspezialist/in</td><td>X</td><td></td><td></td><td colspan="3"></td><td colspan="3"></td><td colspan="4"></td><td>Kein</td><td colspan="3">Praktischer Dienst im ADF\*\*</td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td>Führungsgehilfe/ -gehilfin Einheit/Detachement, Truppenkörper oder Grosser Verband</td><td>X</td><td></td><td>X</td><td colspan="3"></td><td colspan="3"></td><td colspan="4"></td><td>Kein FFD: 25</td><td colspan="3">Praktischer Dienst im ADF\*\*</td><td></td><td></td></tr>
+<tr><td>5.1</td><td>Oblt</td><td>Hptm</td><td>Quartiermeister/in</td><td>X</td><td></td><td></td><td colspan="3"></td><td colspan="3">2 WK</td><td colspan="4"></td><td>Kein</td><td colspan="3">WK\*\*</td><td>Chef/in VBS</td><td></td></tr>
+<tr><td>6.0</td><td>Hptm</td><td>Maj</td><td>Quartiermeister/in</td><td>X</td><td></td><td></td><td colspan="3"></td><td colspan="3"></td><td colspan="4"></td><td>30</td><td colspan="3">Führungslehrgang Grosser Verband\*\*</td><td>Chef/in VBS</td><td>Voraussetzung: mindestens acht Jahre als Offizier</td></tr>
+<tr><td></td><td></td><td></td><td>Führungsgehilfe/ -gehilfin Truppenkörper</td><td>X</td><td></td><td></td><td colspan="3"></td><td colspan="3">3 WK</td><td colspan="4"></td><td>30</td><td colspan="3">\*\*</td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td>X</td><td></td><td></td><td colspan="3"></td><td colspan="3">3 WK</td><td colspan="4"></td><td>Kein</td><td colspan="3">Praktischer Dienst im ADF oder Führungslehrgang\*\*</td><td></td><td>ab Funktion Einheitskommandant/in</td></tr>
+<tr><td></td><td></td><td></td><td>Führungsgehilfe/ -gehilfin Grosser Verband</td><td>X</td><td></td><td>X</td><td colspan="3"></td><td colspan="3">FFD: frühestens nach 2 FFD + 2 WK</td><td colspan="4"></td><td>30 FFD: 32</td><td colspan="3">Führungslehrgang Grosser Verband\*\* FFD: Praktischer Dienst im ADF\*\*</td><td></td><td>Voraussetzung: mindestens drei WK als Einheitskommandant/in oder Führungsgehilfe/-gehilfin Truppenkörper oder Führungsgehilfe/-gehilfin Grosser Verband und mindestens acht Jahre als Offizier</td></tr>
+<tr><td>6.1</td><td>Maj</td><td>Oberstlt</td><td>Kommandant/in Truppenkörper</td><td>X</td><td></td><td></td><td colspan="3"></td><td colspan="3">ab Funktion Einheitskommandant/in: mindestens 2 WK als Truppenkörper Kommandant/in Stellvertreter/in oder S3, Generalstabsoffiziere/ -offizierinnen ausgenommen</td><td colspan="4"></td><td>38</td><td colspan="3">Praktischer Dienst im ADF\*\*</td><td>Chef/in VBS</td><td></td></tr>
+<tr><td></td><td></td><td></td><td>Führungsgehilfe/ -gehilfin Truppenkörper</td><td>X</td><td></td><td></td><td colspan="3"></td><td colspan="3"></td><td colspan="4"></td><td>38</td><td colspan="3">Praktischer Dienst im ADF oder Führungslehrgang\*\*</td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td>Führungsgehilfe/ -gehilfin Grosser Verband</td><td>X</td><td></td><td>X</td><td colspan="3"></td><td colspan="3">FFD: frühestens nach 4 FFD + 4 WK</td><td colspan="4"></td><td>38</td><td colspan="3">Führungslehrgang Grosser Verband\*\*</td><td></td><td></td></tr>
+<tr><td>6.2</td><td>Oberstlt</td><td>Oberst</td><td>Kommandant/in Stellvertreter/in Grosser Verband</td><td>X</td><td></td><td></td><td colspan="3"></td><td colspan="3"></td><td colspan="4"></td><td>42</td><td colspan="3">Führungslehrgang Grosser Verband\*\*</td><td>Chef/in VBS</td><td>Nur als ehemalige/r Truppenkörper Kommandant/in möglich</td></tr>
+<tr><td></td><td></td><td></td><td>Führungsgehilfe/ -gehilfin Grosser Verband</td><td>X</td><td></td><td>X</td><td colspan="3"></td><td colspan="3">FFD: frühestens nach 5 FFD + 5 WK</td><td colspan="4"></td><td>42</td><td colspan="3">Führungslehrgang Grosser Verband\*\*</td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td>Kommandant/in Truppenkörper Führungsgehilfe/ -gehilfin Truppenkörper</td><td>X</td><td></td><td></td><td colspan="3"></td><td colspan="3"></td><td colspan="4"></td><td>38</td><td colspan="3">Technischer Lehrgang, Führungslehrgang Truppenkörper oder Praktischer Dienst im ADF\*\*</td><td></td><td></td></tr>
 </table>
 
 <table>
 <tr><th>Kaderausbildungslaufbahn</th><th>Aktueller Grad</th><th>Angehender Grad</th><th colspan="7">Vorschlagserteilung<sup>1</sup></th><th></th><th></th><th></th><th></th><th colspan="2">Beförderung</th><th></th><th colspan="2"></th><th>Bemerkungen</th></tr>
-<tr><th></th><th></th><th></th><th colspan="3">Gelegenheit</th><th></th><th></th><th>Mindestanzahl geleistete Wiederholungskurse oder Dienstjahre im zuletzt erworbenen Grad</th><th colspan="5">Bis vollendetes Altersjahr</th><th>Mindestalter</th><th colspan="3">Zeitpunkt</th><th>durch</th><th></th></tr>
+<tr><th></th><th></th><th></th><th colspan="3">Gelegenheit</th><th></th><th></th><th>Erforderliche Dienstleistungen im zuletzt erworbenen Grad; der Vorschlag kann frühestens am Ende dieser Dienstleistungen erteilt werden</th><th colspan="5">Bis vollendetes Altersjahr</th><th>Mindestalter</th><th colspan="3">Zeitpunkt</th><th>durch</th><th></th></tr>
 <tr><th></th><th></th><th></th><th>Wiederholungskurs (WK)</th><th>Grundausbildungs-dienst</th><th colspan="3">Kaderausbildungs-dienst</th><th></th><th colspan="5"></th><th></th><th colspan="3"></th><th></th><th></th></tr>
-<tr><td>7.0</td><td>Hptm / Maj</td><td>Maj i Gst</td><td>X</td><td></td><td colspan="3"></td><td></td><td colspan="5"></td><td>30</td><td colspan="3">Generalstabslehrgang II\*</td><td>Chef/in VBS</td><td>Mindestens drei Jahre als Einheitskommandant/in und acht Jahre als Offizier</td></tr>
+<tr><td>7.0</td><td>Hptm / Maj</td><td>Maj i Gst</td><td>X</td><td></td><td colspan="3"></td><td></td><td colspan="5"></td><td>30</td><td colspan="3">Generalstabslehrgang II\*</td><td>Chef/in VBS</td><td>Mindestens drei WK als Einheitskommandant/in oder gleichwertige Führungserfahrung und acht Jahre als Offizier</td></tr>
 <tr><td>7.1</td><td>Maj i Gst</td><td>Oberstlt i Gst</td><td>X</td><td></td><td colspan="3"></td><td></td><td colspan="5"></td><td>37</td><td colspan="3">Generalstabslehrgang III/2\*\*</td><td></td><td></td></tr>
 <tr><td>7.2</td><td>Oberstlt i Gst</td><td>Oberst i Gst</td><td>X</td><td></td><td colspan="3"></td><td></td><td colspan="5"></td><td>42</td><td colspan="3">Generalstabslehrgang IV\*\* und V\*\*</td><td></td><td></td></tr>
 <tr><td colspan="3">Höhere Stabsoffiziere (Brigadier, Divisionär, Korpskommandant)</td><td colspan="11">Genehmigung durch Chef/Chefin VBS</td><td colspan="5">Ernennung durch Bundesrat</td><td></td></tr>
@@ -2439,13 +2584,13 @@ Anhang 3*[^t-3]*
 <tr><td>Legende: 1 Die Bedingungen für die Vorschlagserteilung gelten nicht für das Militärische Personal \* Beförderung während des Ausbildungsdienstes, administrativ auf den ersten Tag nach bestandenem Ausbildungsdienst \*\* Beförderung durch Quartalsbeförderung per 01.01./01.04./01.07./01.10. mit Einteilung in die Funktion [tab] ADF Ausbildungsdienste der Formationen ADF DD Ausbildungsdienste der Formationen für Durchdienende (restliche Diensttage ohne Unterbruch) Adj Uof Adjutantunteroffizier</td><td>CdA Chef/in der Armee Chefadj Chefadjutant DD Durchdienende Einh Kdt Einheitskommandant/in, unter dem/der die Angehörigen der Armee Dienst leisten Einh Kdt GAD Einheitskommandant/in Grundausbildung Four Fourier Fw Feldweibel Gfr Gefreiter Höh Uof Höherer Unteroffizier Hptadj Hauptadjutant Hptfw Hauptfeldweibel Hptm Hauptmann</td><td>i Gst im Generalstab Kdt KAD Kommandant/in Kaderausbildungsdienst Lt Leutnant Maj Major Oberstlt Oberstleutnant Oblt Oberleutnant Obwm Oberwachtmeister Rekr Rekrut Sdt Soldat Stabsadj Stabsadjutant Uof Unteroffizier Wm Wachtmeister WK Wiederholungskurse</td></tr>
 </table>
 
-Anhang 4*[^t-4]*
+Anhang 4[^t-4]
 
 (Art. 71 Abs. 2, 72 Abs. 2 Bst. b Ziff. 1 und 76 Abs. 3)
 
 ## Abweichende Bestimmungen zur Kaderausbildung und zur Beförderung
 
-[^t-4]: Bereinigt gemäss Ziff. II Abs. 2 der V vom 16. Okt. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
+[^t-4]: Fassung gemäss Ziff. II Abs. 1 der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 ### 1. Berufsoffiziere/-offizierinnen (BO), ausgenommen Angehörige des militärischen Flugdienstes\*
 
@@ -2459,7 +2604,7 @@ Anhang 4*[^t-4]*
 <tr><td>Hptm</td><td></td><td>E2</td><td>5.0</td><td></td><td></td><td></td><td></td><td colspan="5"></td><td></td><td colspan="2">Muss mindestens vier Jahre (Absolventen/Absolventinnen Diplomlehrgang und Bachelorlehrgang) bzw. fünf Jahre (Absolventen/Absolventinnen Militärschule) erfolgreich in der Einsatzgruppe E1 gewesen sein.</td></tr>
 <tr><td>Maj</td><td></td><td></td><td>6.0</td><td></td><td></td><td></td><td></td><td colspan="5"></td><td></td><td colspan="2"></td></tr>
 <tr><td>Maj i Gst</td><td></td><td></td><td>7.0</td><td></td><td></td><td></td><td></td><td colspan="5"></td><td></td><td colspan="2"></td></tr>
-<tr><td>Oberstlt</td><td>Kommandant/in Truppenkörper</td><td>E3</td><td>6.1</td><td></td><td></td><td></td><td>X</td><td colspan="5">X</td><td>38</td><td colspan="2"></td></tr>
+<tr><td>Oberstlt</td><td>Kommandant/in Truppenkörper</td><td>E2/ E3</td><td>6.1</td><td></td><td></td><td></td><td>X</td><td colspan="5">X</td><td>38</td><td colspan="2">Bei E2 ohne Selektion 3 und WAL 1 BO Bei E3 mit Selektion 3 und WAL 1 BO</td></tr>
 <tr><td></td><td>Führungsgehilfe/-gehilfin Grosser Verband</td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="5"></td><td>40</td><td colspan="2"></td></tr>
 <tr><td>Oberstlt i Gst</td><td>Kommandant/in Truppenkörper</td><td></td><td>7.1</td><td></td><td></td><td></td><td>X</td><td colspan="5">X</td><td>37</td><td colspan="2"></td></tr>
 <tr><td></td><td>Führungsgehilfe/-gehilfin Grosser Verband</td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="5"></td><td>38</td><td colspan="2"></td></tr>
@@ -2481,42 +2626,44 @@ Anhang 4*[^t-4]*
 <tr><td colspan="3">Brigadier</td><td></td><td>–</td><td></td><td></td><td>X</td><td colspan="3">X</td><td></td><td colspan="3">WAL 3 BO kann auch nach der Funktionsübernahme und Beförderung absolviert werden.</td></tr>
 <tr><td colspan="3">Divisionär</td><td></td><td></td><td></td><td></td><td></td><td colspan="3"></td><td></td><td colspan="3"></td></tr>
 <tr><td colspan="3">Korpskommandant</td><td></td><td></td><td></td><td></td><td></td><td colspan="3"></td><td></td><td colspan="3"></td></tr>
-<tr><td colspan="13">Legende: \* Für Angehörige des militärischen Flugdienstes gelten die Bestimmungen gemäss der Verordnung vom 19. November 2003 über den militärischen Flugdienst (MFV; SR *512.271*) und der Verordnung des VBS vom 4. Dezember 2003 über die Angehörigen des militärischen Flugdienstes (VamFD; SR *512.271.1*).</td></tr>
+<tr><td colspan="13">Legende: \* Für Angehörige des militärischen Flugdienstes gelten die Bestimmungen gemäss der Militärflugdienstverordnung vom 18. März 2022 (MFV; SR *512.271*) und der Verordnung des VBS vom 21. März 2022 über die Angehörigen des militärischen Flugdienstes (VAmFD; SR *512.271.1*).</td></tr>
 </table>
 
 ### 2. Berufsunteroffiziere/-unteroffizierinnen (BU)
 
 <table>
-<tr><td>Angehender Grad</td><td>in Einsatzgruppe (E)</td><td colspan="9">Kaderausbildungsdienste und berufliche Ausbildungslehrgänge</td><td colspan="2">Beförderung in Abweichung zu Anhang 3</td><td></td></tr>
-<tr><td></td><td></td><td>Kaderausbildungsdienste nach Kaderausbildungslaufbahn</td><td>Selektion 1 (Eignungsabklärung)</td><td>Selektion 2 (Zulassungsprüfung zum GAL BUSA)</td><td>GAL BUSA</td><td>Selektion 3</td><td>WAL 1 BU</td><td>Selektion 4</td><td>WAL 2 BU</td><td>WAL 3 BU</td><td>Mindestens vollendetes Altersjahr</td><td colspan="2">Bemerkungen</td></tr>
-<tr><td>Adj Uof</td><td>E1</td><td></td><td>1–2</td><td>2</td><td>X</td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2">Angehende Berufsunteroffiziere/-unteroffizierinnen werden nach dem erfolgreichen Abschliessen des Grundausbildungslehrgangs zum Adjutantunteroffizier befördert. Unabhängig vom Grundausbildungslehrgang an der Berufsunteroffiziersschule der Armee kann eine Beförderung nach Anhang 2 zum Adjutantunteroffizier oder zum Stabsadjutant erfolgen.</td></tr>
-<tr><td>Stabsadj</td><td></td><td>3.4\*</td><td>1–2</td><td>2</td><td>X</td><td></td><td></td><td></td><td></td><td></td><td>28</td><td colspan="2"></td></tr>
-<tr><td>Adj Uof</td><td>E2</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>26</td><td colspan="2">Muss mindestens drei Jahre erfolgreich in der Einsatzgruppe E1 gewesen sein.</td></tr>
-<tr><td>Stabsadj</td><td></td><td>3.4\*</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>28</td><td colspan="2"></td></tr>
-<tr><td>Adj Uof</td><td>E2+</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>31</td><td colspan="2">Muss mindestens fünf Jahre erfolgreich in der Einsatzgruppe E2 gewesen sein.</td></tr>
-<tr><td>Stabsadj</td><td></td><td>3.4\*</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>33</td><td colspan="2"></td></tr>
-<tr><td>Stabsadj</td><td>E3</td><td></td><td></td><td></td><td></td><td>X</td><td>X</td><td></td><td></td><td></td><td>35</td><td colspan="2"></td></tr>
-<tr><td>Hptadj</td><td></td><td>3.5\*</td><td></td><td></td><td></td><td>X</td><td>X</td><td></td><td></td><td></td><td>35</td><td colspan="2"></td></tr>
-<tr><td>Hptadj</td><td>E4</td><td></td><td></td><td></td><td></td><td></td><td></td><td>X</td><td>X</td><td></td><td>42</td><td colspan="2"></td></tr>
-<tr><td>Chefadj</td><td></td><td>3.6\*</td><td></td><td></td><td></td><td></td><td></td><td>X</td><td>X</td><td></td><td>42</td><td colspan="2"></td></tr>
-<tr><td>Chefadj</td><td>E5</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>X</td><td>48</td><td colspan="2">Der WAL 3 BU kann auch nach der Funktionsübernahme und Beförderung absolviert werden.</td></tr>
+<tr><th>Angehender Grad</th><th>in Einsatzgruppe (E)</th><th colspan="7">Kaderausbildungsdienste und berufliche Ausbildungslehrgänge</th><th></th><th></th><th colspan="2"></th><th></th><th></th><th colspan="2"></th><th></th><th></th><th colspan="2">Beförderung in Abweichung zu Anhang 3</th><th></th></tr>
+<tr><th></th><th></th><th>Kaderausbildungsdienste nach Kaderausbildungslaufbahn</th><th>Selektion 1 (Eignungsabklärung)</th><th>Selektion 2 (Zulassungsprüfung zum GAL BUSA)</th><th>GAL BUSA</th><th>Selektion 3</th><th>WAL 1 BU</th><th colspan="4">Selektion 4</th><th colspan="4">WAL 2 BU</th><th colspan="3">WAL 3 BU</th><th>Mindestens vollendetes Altersjahr</th><th colspan="2">Bemerkungen</th></tr>
+<tr><td>Adj Uof</td><td>E1</td><td></td><td>1–2</td><td>2</td><td>X</td><td></td><td></td><td colspan="4"></td><td colspan="4"></td><td colspan="3"></td><td></td><td colspan="2">Angehende Berufsunteroffiziere/-unteroffizierinnen werden nach dem erfolgreichen Abschliessen des Grundausbildungslehrgangs zum Adjutantunteroffizier befördert. Unabhängig vom Grundausbildungslehrgang an der Berufsunteroffiziersschule der Armee kann eine Beförderung nach Anhang 2 zum Adjutantunteroffizier oder zum Stabsadjutant erfolgen.</td></tr>
+<tr><td>Stabsadj</td><td></td><td>3.4\*</td><td>1–2</td><td>2</td><td>X</td><td></td><td></td><td colspan="4"></td><td colspan="4"></td><td colspan="3"></td><td>28</td><td colspan="2"></td></tr>
+<tr><td>Adj Uof</td><td>E2</td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="4"></td><td colspan="4"></td><td colspan="3"></td><td>26</td><td colspan="2">Muss mindestens drei Jahre erfolgreich in der Einsatzgruppe E1 gewesen sein.</td></tr>
+<tr><td>Stabsadj</td><td></td><td>3.4\*</td><td></td><td></td><td></td><td></td><td></td><td colspan="4"></td><td colspan="4"></td><td colspan="3"></td><td>28</td><td colspan="2"></td></tr>
+<tr><td>Adj Uof</td><td>E2+</td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="4"></td><td colspan="4"></td><td colspan="3"></td><td>31</td><td colspan="2">Muss mindestens fünf Jahre erfolgreich in der Einsatzgruppe E2 gewesen sein.</td></tr>
+<tr><td>Stabsadj</td><td></td><td>3.4\*</td><td></td><td></td><td></td><td></td><td></td><td colspan="4"></td><td colspan="4"></td><td colspan="3"></td><td>33</td><td colspan="2"></td></tr>
+<tr><td>Stabsadj</td><td>E3</td><td></td><td></td><td></td><td></td><td>X</td><td>X</td><td colspan="4"></td><td colspan="4"></td><td colspan="3"></td><td>35</td><td colspan="2"></td></tr>
+<tr><td>Hptadj</td><td></td><td>3.5\*</td><td></td><td></td><td></td><td>X</td><td>X</td><td colspan="4"></td><td colspan="4"></td><td colspan="3"></td><td>35</td><td colspan="2"></td></tr>
+<tr><td>Hptadj</td><td>E4</td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="4">X</td><td colspan="4">X</td><td colspan="3"></td><td>42</td><td colspan="2"></td></tr>
+<tr><td>Chefadj</td><td></td><td>3.6\*</td><td></td><td></td><td></td><td></td><td></td><td colspan="4">X</td><td colspan="4">X</td><td colspan="3"></td><td>42</td><td colspan="2"></td></tr>
+<tr><td>Chefadj</td><td>E5</td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="4"></td><td colspan="4"></td><td colspan="3">X</td><td>48</td><td colspan="2">Der WAL 3 BU kann auch nach der Funktionsübernahme und Beförderung absolviert werden.</td></tr>
 </table>
 
 ### 3. Fachberufsmilitärs
 
-### 3.1 Armeeaufklärungsdetachement (AAD)
+### 3.1 Armeeaufklärungsdetachement 10 (AAD 10)
 
 <table>
-<tr><td>Kaderausbildungslaufbahn</td><td>Angehender Grad</td><td colspan="8">Kaderausbildungsdienste in Abweichung zu Anhang 2</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>Beförderung in Abweichung zu Anhang 3</td></tr>
-<tr><td></td><td></td><td>Grundkurs AAD</td><td>Kadervorkurs und Praktischer Dienst in Rekrutenschule</td><td>Führungslehrgang Einheit</td><td>Ausbildung zum Fachexperten/zur Fachexpertin AAD</td><td>Ausbildung zum Zug-führer/zur Zugführerin oder Leiter/zur Leiterin Fachbereich AAD</td><td>Offizierslehrgang AAD</td><td>Fachdienstkurs für den angehenden Grad</td><td colspan="8">Bemerkungen</td><td>Bemerkungen</td></tr>
+<tr><th>Kaderausbildungslaufbahn</th><th>Angehender Grad</th><th colspan="8">Kaderausbildungsdienste in Abweichung zu Anhang 2</th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th>Beförderung in Abweichung zu Anhang 3</th></tr>
+<tr><th></th><th></th><th>Grundkurs AAD 10</th><th>Kadervorkurs und Praktischer Dienst in Rekrutenschule</th><th>Führungslehrgang Einheit</th><th>Ausbildung zum Fachexperten/zur Fachexpertin AAD 10</th><th>Ausbildung zum Zugführer/zur Zugführerin oder zum Leiter/zur Leiterin Fachbereich AAD 10</th><th>Offizierslehrgang AAD 10</th><th>Fachdienstkurs für den angehenden Grad</th><th colspan="8">Bemerkungen</th><th>Bemerkungen</th></tr>
 <tr><td>2.0</td><td>Wm</td><td>X</td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="8">anstelle Unteroffiziersschule (27 Tage) sowie Kadervorkurs und Praktischer Dienst in Rekrutenschule (131 Tage)</td><td></td></tr>
-<tr><td>3.0</td><td>Fw</td><td></td><td></td><td></td><td></td><td></td><td></td><td>X</td><td colspan="8">anstelle Technischer Lehrgang Logistik (26 Tage)</td><td>Mindestens drei Jahre als Angehöriger des AAD</td></tr>
+<tr><td>3.0</td><td>Fw</td><td></td><td></td><td></td><td></td><td></td><td></td><td>X</td><td colspan="8">anstelle Technischer Lehrgang Logistik (26 Tage)</td><td>Mindestens drei Jahre als Angehöriger des AAD 10</td></tr>
 <tr><td>3.2</td><td>Hptfw</td><td></td><td>33</td><td></td><td></td><td></td><td></td><td></td><td colspan="8">anstelle Kadervorkurs und Praktischer Dienst in Rekrutenschule (131) für angehende Berufsunteroffiziere/-offizierinnen</td><td></td></tr>
-<tr><td>3.2</td><td>Adj Uof</td><td></td><td></td><td></td><td>X</td><td></td><td></td><td></td><td colspan="8">anstelle Technischer Lehrgang Logistik (26 Tage) und Praktischer Dienst in Ausbildungsdienste in Formationen (26 Tage)</td><td>Mindestens zwei Jahre Einsatzerfahrung im AAD</td></tr>
-<tr><td>3.3</td><td>Stabsadj</td><td></td><td></td><td>26</td><td></td><td>X</td><td></td><td></td><td colspan="8">anstelle Führungslehrgang Truppenkörper (33 Tage) und Praktischer Dienst in Ausbildungsdienste in Formationen (12 Tage)</td><td>Mindestens zwei Jahre Einsatzerfahrung im AAD</td></tr>
-<tr><td>4.0</td><td>Lt</td><td></td><td></td><td></td><td></td><td></td><td>X</td><td></td><td colspan="8">anstelle Offiziersschule (103 Tage) sowie Kadervorkurs und praktischer Dienst in Rekrutenschule (131 Tage)</td><td>Mindestens zwei Jahre Einsatzerfahrung im AAD</td></tr>
-<tr><td>4.1</td><td>Oblt</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="8"></td><td>Mindestens zwei Jahre im Grade eines Leutnants</td></tr>
-<tr><td>5.0</td><td>Hptm</td><td></td><td></td><td></td><td></td><td></td><td></td><td>33</td><td colspan="8">anstelle Kadervorkurs und Praktischer Dienst in Rekrutenschule (131)</td><td></td></tr>
+<tr><td>3.2</td><td>Adj Uof</td><td></td><td></td><td></td><td>X</td><td></td><td></td><td></td><td colspan="8">anstelle Technischer Lehrgang Logistik (26 Tage) und Praktischer Dienst in Ausbildungsdienste in Formationen (26 Tage)</td><td>Mindestens zwei Jahre Einsatzerfahrung als Fw oder Hptfw im AAD 10</td></tr>
+<tr><td>3.3</td><td>Stabsadj</td><td></td><td></td><td>26</td><td></td><td>X</td><td></td><td></td><td colspan="8">anstelle Führungslehrgang Truppenkörper (33 Tage) und Praktischer Dienst in Ausbildungsdienste in Formationen (12 Tage)</td><td>Mindestens zwei Jahre Einsatzerfahrung als Adj Uof im AAD 10</td></tr>
+<tr><td>4.0</td><td>Lt</td><td></td><td></td><td></td><td></td><td></td><td>X</td><td></td><td colspan="8">anstelle Offiziersschule (103 Tage) sowie Kadervorkurs und praktischer Dienst in Rekrutenschule (131 Tage)</td><td>Mindestens fünf Jahre Einsatzerfahrung als Unteroffizier oder höherer Unteroffizier im AAD 10</td></tr>
+<tr><td>4.1</td><td>Oblt</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="8"></td><td>Mindestens zwei Jahre im Grad Lt</td></tr>
+<tr><td>5.0</td><td>Hptm</td><td></td><td></td><td></td><td></td><td></td><td></td><td>33</td><td colspan="8">anstelle Kadervorkurs und Praktischer Dienst in Rekrutenschule (131 Tage)</td><td>Mindestens drei Jahre Einsatzerfahrung als Offizier im AAD 10</td></tr>
+<tr><td>5.1</td><td>Hptm (angehender BO)</td><td></td><td>33</td><td>26</td><td>5-26</td><td></td><td></td><td></td><td colspan="8">anstelle Kadervorkurs und Praktischer Dienst in Rekrutenschule (131 Tage)</td><td>Mindestens drei Jahre Einsatzerfahrung als Offizier im AAD 10</td></tr>
+<tr><td>6.0</td><td>Maj</td><td></td><td></td><td></td><td></td><td></td><td></td><td>X</td><td colspan="8">anstelle Praktischer Dienst im Ausbil-dungsdienst für Formationen</td><td>Mindestens drei Jahre Einsatzerfahrung als Offizier im AAD 10</td></tr>
 </table>
 
 ### 3.2 Militärpolizei Spezialdetachement (MP Spez Det)
@@ -2526,66 +2673,67 @@ Anhang 4*[^t-4]*
 <tr><th></th><th></th><th>Grundkurs MP Spez Det</th><th>Kadervorkurs und Praktischer Dienst in Rekrutenschule</th><th>Kurs 2 für Interventionseinheiten des Schweizerischen Polizeiinstituts</th><th>Offizierslehrgang MP Spez Det</th><th>Kurs 3 für Interventionseinheiten des Schweizerischen Polizeiinstituts</th><th>Kadervorkurs und Praktischer Dienst im Einsatzbereich</th><th colspan="7">Bemerkungen</th><th>Bemerkungen</th></tr>
 <tr><td>3.0</td><td>Fw</td><td>X</td><td></td><td></td><td></td><td></td><td></td><td colspan="7">anstelle Unteroffiziersschule (27 Tage), Kadervorkurs und Praktischer Dienst in Rekrutenschule (131 Tage) sowie Technischer Lehrgang (26 Tage)</td><td></td></tr>
 <tr><td>3.2</td><td>Hptfw</td><td></td><td>33</td><td></td><td></td><td></td><td></td><td colspan="7">anstelle Kadervorkurs und Praktischer Dienst in Rekrutenschule (131 Tage) für angehende Berufsunteroffiziere/-offizierinnen</td><td></td></tr>
-<tr><td>3.3</td><td>Adj Uof</td><td></td><td></td><td>X</td><td></td><td></td><td></td><td colspan="7">anstelle Technischer Lehrgang Logistik (26 Tage) und Praktischer Dienst in Ausbildungsdienste in Formationen (26 Tage)</td><td>Mindestens zwei Jahre Einsatzerfahrung im MP Spez Det</td></tr>
-<tr><td>4.0</td><td>Lt</td><td></td><td></td><td></td><td>X</td><td></td><td></td><td colspan="7">anstelle Offiziersschule (103 Tage) sowie Kadervorkurs und Praktischer Dienst in Rekrutenschule (131 Tage)</td><td>Mindestens zwei Jahre Einsatzerfahrung im MP Spez Det</td></tr>
-<tr><td>4.1</td><td>Oblt</td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="7"></td><td>Mindestens zwei Jahre im Grad eines Leutnants</td></tr>
-<tr><td>5.0</td><td>Hptm</td><td></td><td></td><td>X</td><td></td><td>X</td><td>33</td><td colspan="7">anstelle Kadervorkurs und Praktischer Dienst in Rekrutenschule (131 Tage) und Technischer Lehrgang Logistik (26 Tage)</td><td></td></tr>
+<tr><td>3.3</td><td>Adj Uof</td><td></td><td></td><td>X</td><td></td><td></td><td></td><td colspan="7">anstelle Technischer Lehrgang Logistik (26 Tage) und Praktischer Dienst in Ausbildungsdienste in Formationen (26 Tage)</td><td>Mindestens zwei Jahre Einsatzerfahrung als Fw oder Hptfw im MP Spez Det</td></tr>
+<tr><td>4.0</td><td>Lt</td><td></td><td></td><td></td><td>X</td><td></td><td></td><td colspan="7">anstelle Offiziersschule (103 Tage) sowie Kadervorkurs und Praktischer Dienst in Rekrutenschule (131 Tage)</td><td>Mindestens fünf Jahre Einsatzerfahrung als Unteroffizier oder höherer Unteroffizier im MP Spez Det</td></tr>
+<tr><td>4.1</td><td>Oblt</td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="7"></td><td>Mindestens zwei Jahre im Grad Lt</td></tr>
+<tr><td>5.0</td><td>Hptm</td><td></td><td></td><td>X</td><td></td><td>X</td><td>33</td><td colspan="7">anstelle Kadervorkurs und Praktischer Dienst in Rekrutenschule (131 Tage) und Technischer Lehrgang Logistik (26 Tage)</td><td>Mindestens drei Jahre Einsatzerfahrung als Offizier im MP Spez Det</td></tr>
+<tr><td>6.0</td><td>Maj</td><td></td><td></td><td></td><td></td><td></td><td>X</td><td colspan="7">anstelle Praktischer Dienst im Ausbildungsdienst der Formationen</td><td>Mindestens drei Jahre Einsatzerfahrung als Offizier im MP Spez Det</td></tr>
 </table>
 
 ### 3.3 Kommando Militärpolizei
 
 <table>
-<tr><th>Kaderausbildungslaufbahn</th><th>Angehender Grad</th><th colspan="6">Kaderausbildungsdienste in Abweichung zu Anhang 2</th><th></th><th></th><th></th><th></th><th></th><th></th><th>Beförderung in Abweichung zu Anhang 3</th></tr>
-<tr><th></th><th></th><th>Grundkurs Kommando Militärpolizei</th><th>Führungslehrgang Truppenkörper</th><th>Fachdienstkurs für den angehenden Grad</th><th>Offizierslehrgang Militärpolizei</th><th>Kadervorkurs und Praktischer Dienst im Einsatzbereich</th><th colspan="7">Bemerkungen</th><th>Bemerkungen</th></tr>
-<tr><td>2.0</td><td>Wm</td><td>X</td><td></td><td></td><td></td><td></td><td colspan="7">anstelle Unteroffiziersschule (27 Tage) sowie Kadervorkurs und Praktischer Dienst in Rekrutenschule (131 Tage)</td><td></td></tr>
-<tr><td>2.1</td><td>Obwm</td><td></td><td></td><td></td><td></td><td></td><td colspan="7"></td><td>Mindestens zwei Jahre als Wm</td></tr>
-<tr><td>3.0</td><td>Fw MP Sich Uof</td><td></td><td></td><td>X</td><td></td><td></td><td colspan="7">anstelle Technischer Lehrgang Logistik (26 Tage)</td><td>Mindestens zwei Jahre als Obwm</td></tr>
-<tr><td>3.1</td><td>Fw MP Uof</td><td>X</td><td></td><td></td><td></td><td></td><td colspan="7">anstelle Technischer Lehrgang Logistik (26 Tage) und Praktischer Dienst in Ausbildungsdienste der Formationen (26 Tage)</td><td></td></tr>
-<tr><td>3.2</td><td>Hptfw</td><td></td><td></td><td>X</td><td></td><td></td><td colspan="7"></td><td></td></tr>
-<tr><td>3.3</td><td>Adj Uof</td><td>X</td><td></td><td>X</td><td></td><td></td><td colspan="7">anstelle Kadervorkurs und Praktischer Dienst in Rekrutenschule (131 Tage)</td><td>Mindestens zwei Jahre als Hptfw</td></tr>
-<tr><td>3.4</td><td>Stabsadj</td><td>X</td><td></td><td></td><td></td><td></td><td colspan="7">Anstelle Führungslehrgang Truppenkörper (33 Tage) und praktischer Dienst in Ausbildungsdienste der Formationen (12 Tage)</td><td>Mindestens zwei Jahre als Adj Uof</td></tr>
-<tr><td>4.0</td><td>Lt</td><td></td><td></td><td></td><td>X</td><td></td><td colspan="7">Anstelle Offiziersschule (103 Tage) sowie Kadervorkurs und praktischer Dienst in Rekrutenschule (131 Tage)</td><td></td></tr>
-<tr><td>4.1</td><td>Oblt</td><td></td><td></td><td></td><td></td><td></td><td colspan="7"></td><td>Mindestens zwei Jahre als Lt</td></tr>
-<tr><td>5.01</td><td>Hptm</td><td></td><td></td><td>X</td><td></td><td>33</td><td colspan="7">Anstelle Kadervorkurs und praktischer Dienst in Rekrutenschule (131 Tage)</td><td>Mindestens zwei Jahre als Oblt</td></tr>
-<tr><td>6.0</td><td>Maj</td><td></td><td></td><td>X</td><td></td><td></td><td colspan="7">Anstelle praktischer Dienst im Ausbildungsdienst der Truppe</td><td></td></tr>
-<tr><td>6.1</td><td>Oberstlt</td><td>X</td><td>X</td><td></td><td></td><td></td><td colspan="7">Anstelle praktischer Dienst im Ausbildungsdienst der Truppe</td><td></td></tr>
+<tr><th>Kaderausbildungslaufbahn</th><th>Aktueller Grad</th><th>Angehender Grad</th><th colspan="5">Kaderausbildungsdienste in Abweichung zu Anhang 2</th><th></th><th></th><th></th><th></th><th>Beförderung in Abweichung zu Anhang 3</th></tr>
+<tr><th></th><th></th><th></th><th>Grundkurs Kommando Militärpolizei oder Polizist/in mit Fachausweis</th><th>Interne Militärpolizeiausbildung</th><th>Führungslehrgang Truppen-körper oder Grosser Verband</th><th>Kadervorkurs und Praktischer Dienst im Einsatzbereich</th><th colspan="5">Bemerkungen</th><th>Bemerkungen</th></tr>
+<tr><td>2.0</td><td>Sdt</td><td>Wm</td><td>X</td><td></td><td></td><td></td><td colspan="5">anstelle Unteroffiziersschule (27 Tage) sowie Kadervorkurs und Praktischer Dienst in Rekrutenschule (131 Tage)</td><td></td></tr>
+<tr><td>2.1</td><td>Wm</td><td>Obwm</td><td></td><td></td><td></td><td></td><td colspan="5"></td><td>Mindestens zwei Jahre als Wm</td></tr>
+<tr><td>3.0</td><td>Obwm</td><td>Fw Mp Sich Uof</td><td>X</td><td></td><td></td><td></td><td colspan="5">anstelle Technischer Lehrgang Logistik (26 Tage)</td><td>Mindestens zwei Jahre als Obwm</td></tr>
+<tr><td>3.1</td><td>Sdt Wm Obwm</td><td>Fw MP Uof</td><td>X</td><td></td><td></td><td></td><td colspan="5">anstelle Technischer Lehrgang Logistik (26 Tage)</td><td></td></tr>
+<tr><td>3.2</td><td>Fw</td><td>Hptfw</td><td></td><td>X</td><td></td><td></td><td colspan="5">Der Grad Hptfw kann durch eine interne Militärpolizeiausbildung oder durch einen höheren Unteroffizierslehrgang mit Praktischen Dienst erreicht werden.</td><td>Absolvierung des höheren Unteroffizierslehrganges ohne Altersgrenze und ohne Unteroffiziersschule für Angehörige der Militärpolizei, die einen beruflichen Unteroffiziersgrad erhalten haben. Vorschlag erfolgt beruflich.</td></tr>
+<tr><td>3.3</td><td>Fw Hptfw</td><td>Adj Uof</td><td>X</td><td>X</td><td></td><td></td><td colspan="5">anstelle Kadervorkurs und Praktischer Dienst in Rekrutenschule (131 Tage)</td><td>Mindestens zwei Jahre als Fw oder Hptfw</td></tr>
+<tr><td>3.4</td><td>Adj Uof</td><td>Stabs-adj</td><td>X</td><td>X</td><td></td><td></td><td colspan="5">anstelle Führungslehrgang Truppenkörper (33 Tage) und Praktischer Dienst in Ausbildungsdienste der Formationen (12 Tage)</td><td>Mindestens zwei Jahre als Adj Uof</td></tr>
+<tr><td>4.0</td><td>Wm Obwm Hptfw Adj Uof</td><td>Lt</td><td></td><td>X</td><td></td><td></td><td colspan="5">Der Grad Lt kann durch eine interne Militärpolizeiausbildung oder durch eine Offiziersschule mit Praktischen Dienst erreicht werden.</td><td>Absolvierung der Offiziersschule ohne Altersgrenze und ohne Unteroffiziersschule für Angehörige der Militärpolizei, die einen beruflichen Unteroffiziersgrad erhalten haben. Vorschlag erfolgt beruflich.</td></tr>
+<tr><td>4.1</td><td>Lt</td><td>Oblt</td><td></td><td></td><td></td><td></td><td colspan="5"></td><td>Mindestens zwei Jahre als Lt</td></tr>
+<tr><td>5.0</td><td>Oblt</td><td>Hptm</td><td></td><td>X</td><td>X</td><td>33</td><td colspan="5">anstelle Kadervorkurs und Praktischer Dienst in Rekrutenschule (131 Tage) Der Grad Hptm kann durch eine interne Militärpolizeiausbildung oder durch einen Führungslehrgang erreicht werden.</td><td>Mindestens zwei Jahre als Oblt</td></tr>
+<tr><td>6.0</td><td>Hptm</td><td>Maj</td><td></td><td>X</td><td>X</td><td></td><td colspan="5">anstelle Praktischer Dienst im Ausbildungsdienst der Truppe Der Grad Maj kann durch eine interne Militärpolizeiausbildung oder durch einen Führungslehrgang erreicht werden.</td><td>Mindestens zwei Jahre als Hptm</td></tr>
+<tr><td>6.1</td><td>Maj</td><td>Oberstlt</td><td></td><td>X</td><td>X</td><td></td><td colspan="5">anstelle Praktischer Dienst im Ausbildungsdienst der Truppe Der Grad Oberstlt kann durch eine interne Militärpolizeiausbildung oder durch einen Führungslehrgang erreicht werden.</td><td>Mindestens zwei Jahre als Maj</td></tr>
 </table>
 
 ### 3.4 Kampfmittelbeseitigung- und Minenräumungsdetachement
 
 <table>
-<tr><th>Kaderausbildungslaufbahn</th><th>Angehender Grad / Funktion</th><th colspan="6">Kaderausbildungsdienste in Abweichung zu Anhang 2</th><th></th><th></th><th></th><th></th><th></th><th></th><th colspan="2">Beförderung in Abweichung zu Anhang 3</th></tr>
-<tr><th></th><th></th><th>Ausgangsgrad</th><th>Berufliches Assessment KAMIR (3)</th><th>Grundausbildung KAMIBES «Profi"» (329)</th><th>Lehrgang IEDD, BEMS 552 (84)</th><th>Lehrgang Fachkunde, BEMS 555 (189)</th><th colspan="7">Bemerkungen</th><th>Bemerkungen</th></tr>
-<tr><td>2.0</td><td>Wm / Betriebsspezialist/in</td><td>Sdt / Wm</td><td></td><td></td><td></td><td></td><td colspan="7">Absolvierte Grundausbildung zum Gruppenführer/zur Gruppenführerin gemäss Anhang 2 VMDP.</td><td></td></tr>
-<tr><td>3.0</td><td>Fw / Leiter/in Logistik</td><td>Wm / Obwm</td><td>X</td><td>X</td><td></td><td></td><td colspan="7">Anstelle des Technischen Lehrgangs (12-26) und des Praktischen Dienstes (0-131) als Fw absolviert der/die Angehörige der Armee die berufliche Grundausbildung KAMIBES (329).</td><td>Beförderung zum Fw ohne obere Alterslimite möglich. Vorschlag zur Weiterausbildung erfolgt beruflich.</td></tr>
-<tr><td>3.2</td><td>Hptfw / Adj Uof in der Funktion KAMIBES Spezialist/in, Mitarbeiter/in Ausbildung und Leiter/in Logistik</td><td>Wm / Obwm / Fw</td><td>X</td><td>X</td><td></td><td></td><td colspan="7">Anstelle des Praktischen Dienstes (131) als Einhheits-Fw absolviert der/die Angehörige der Armee die berufliche Grundausbildung KAMIBES (329).</td><td>Beförderung zum Hptfw/Adj Uof ohne Alterslimite möglich. Vorschlag zur Weiterausbildung erfolgt beruflich.</td></tr>
-<tr><td>3.3</td><td>Adj Uof KAMIBES Experte/Expertin</td><td>Hptfw / Adj Uof</td><td>X</td><td>X</td><td>X</td><td>X</td><td colspan="7">Anstelle des Technischen Lehrgangs (26) und des Praktischen Dienstes (26) absolviert der/die Angehörige der Armee den Lehrgang IEDD, BEMS 552 (84 Tage) sowie den Lehrgang Fachkunde, BEMS 555 (189).</td><td>Für die Beförderung zum Adj Uof (KAMIBES Experte/Expertin) mindestens vier Jahre im Grad eines Hptfw. Beförderung zum Adj Uof ohne obere Alterslimite möglich. Vorschlag zur Weiterausbildung erfolgt beruflich.</td></tr>
-<tr><td>4.0</td><td>Subalternoffizier/in mit Funktion Chef/in KAMIBES Detachementschef/in ad interim und Sachbearbeiter/in Weiterentwicklung Technik ad interim</td><td>Wm / Obwm / Subalternoffizier/in</td><td>X</td><td>X</td><td>X</td><td>X</td><td colspan="7">Kein Praktischer Dienst als Zugführer/in. Der/die Angehörige der Armee absolviert das berufliche Assessment KAMIR (3), die Grundausbildung KAMIBES «Profi» (329), den Lehrgang IEDD, BEMS 552 (84) sowie den Lehrgang Fachkunde, BEMS 555 (189). Einstieg ad interim als Subalternoffizier/in aus allen Truppengattungen. Nach Absolvierung der beruflichen Ausbildungen erfolgt die Funktionsübernahme ohne ad interim.</td><td>Absolvierung der Offiziersschule ohne Alterslimite möglich. Vorschlag erfolgt beruflich. Beförderung Lt zu Oblt frühestens nach 3 Funktionsjahren.</td></tr>
-<tr><td>5.0</td><td>Hptm in der Funktion Chef/in KAMIBES Detachement und Sachbearbeiter/in Weiterentwicklung Technik</td><td>Subalternoffizier/in</td><td>X</td><td>X</td><td>X</td><td>X</td><td colspan="7">Ausbildung zum Einheitskommandanten/zur Einheitskommandantin: Führungslehrgang Einheit (26), Praktischer Dienst (131).</td><td>Die Weiterausbildung und die Beförderung zum Hptm ist ohne obere Alterslimite möglich. Vorschlag zur Weiterausbildung erfolgt beruflich.</td></tr>
-<tr><td>6.0</td><td>Maj in der Funktion EOD Offizier/in und Chef/in Ausbildung</td><td>Hptm</td><td>X</td><td>X</td><td>X</td><td></td><td colspan="7">Führungslehrgang Truppenkörper 1. und 2. Teil (33).</td><td>Beförderung zum Maj nach mindestens 2 Funktionsjahren Chef/in KAMIBES Detachement oder Sachbearbeiter/in Weiterentwicklung Technik. Mindestalter zur Beförderung zum Maj = 32. Altersjahr. Beförderung zum Maj ist ohne Alterslimite möglich. Vorschlag zur Weiterausbildung erfolgt beruflich.</td></tr>
-<tr><td>6.1</td><td>Oberstlt in den Funktionen Chef/in Einsatz / Konzeption oder Chef/in EOD</td><td>Maj</td><td>X</td><td>X</td><td>X</td><td></td><td colspan="7">Führungslehrgang Truppenkörper 1. und 2. Teil (33)</td><td>Beförderung zum Oberstlt nach mindestens 2 Funktionsjahren EOD Offizier/in oder Chef/in Ausbildung. Beförderung zum Oberstlt ist ohne Alterslimite möglich. Vorschlag erfolgt beruflich.</td></tr>
+<tr><th>Kaderausbildungslaufbahn</th><th>Angehender Grad</th><th colspan="5">Kaderausbildungsdienste in Abweichung zu Anhang 2</th><th></th><th></th><th></th><th></th><th colspan="2">Beförderung in Abweichung zu Anhang 3</th></tr>
+<tr><th></th><th></th><th>Ausgangsgrad</th><th>Berufliches Assessment KAMIR (3)</th><th>Grundausbildung KAMIBES «Profi» (329)</th><th>Lehrgang IEDD (55X, 56X, 58X) oder CMD (53X, 54X, 57X) gemäss Konzept Ausbildung KAMIR</th><th colspan="5">Bemerkungen</th><th>Bemerkungen</th></tr>
+<tr><td>2.0</td><td>Wm</td><td>Sdt Gfr Wm</td><td>X</td><td>X</td><td></td><td colspan="5">Absolvieren milizmässig nur die UOS (27 Tage); leisten keinen Praktischen Dienst als Gruppenführer/in. Angehörige der Armee, die als Sdt/Gfr/Obgfr eine Anstellung als Fachberufsmilitär haben, werden bis zur Beförderung/Ersteinteilung (Absolvierung UOS von 27 Tagen) als Betr Sdt im Betr Det LVb G/Rttg/ABC eingeteilt.</td><td>Beförderung zum Wm ohne obere Alterslimite möglich. Vorschlag zur Weiterausbildung erfolgt beruflich.</td></tr>
+<tr><td>3.2</td><td>Hptfw</td><td>Wm Obwm Fw Hptfw</td><td>X</td><td>X</td><td></td><td colspan="5">Anstelle des Praktischen Dienstes (131 Tage) als Einheitsfeldweibel absolvieren die Angehörigen der Armee die berufliche Grundausbildung KAMIBES. Angehörige der Armee im Grad Hptfw ohne berufliche Grundausbildung KAMIBES werden *ad interim* eingeteilt.</td><td>Beförderung zum Hptfw ohne Alterslimite möglich. Vorschlag zur Weiterausbildung erfolgt beruflich.</td></tr>
+<tr><td>3.3</td><td>Adj Uof</td><td>Hptfw Four Adj Uof</td><td>X</td><td>X</td><td>X</td><td colspan="5">Anstelle des Technischen Lehrgangs (26 Tage) und des Praktischen Dienstes (26 Tage) absolvieren die Angehörigen der Armee den Lehrgang IEDD bzw. CMD. Bei Angehörigen der Armee mit Grad Adj Uof, Hptfw oder Four ohne den Lehrgang IEDD bzw. CMD erfolgt die Einteilung *ad interim*. Lehrgang IEDD oder CMD bzw. Teile davon gemäss beruflichem Ausbildungskonzept KAMIR.</td><td>Für die Beförderung zum Adj Uof mindestens vier Jahre im Grad eines Hptfw. Beförderung zum Adj Uof ohne Alterslimite möglich. Vorschlag zur Weiterausbildung erfolgt beruflich.</td></tr>
+<tr><td>3.4</td><td>Stabsadj</td><td>Adj Uof Stabsadj</td><td>X</td><td>X</td><td>X</td><td colspan="5">Anstelle des Führungslehrgangs Truppenkörper und des Praktischen Dienstes absolvieren die Angehörigen der Armee den Lehrgang IEDD oder CMD bzw. Teile davon gemäss beruflichem Ausbildungskonzept KAMIR.</td><td>Für die Beförderung zum Stabsadj mindestens vier Jahre im Grad eines Adj Uof. Beförderung zum Stabsadj ohne Alterslimite möglich. Vorschlag zur Weiterausbildung erfolgt beruflich.</td></tr>
+<tr><td>4.0</td><td>Subalternoffizier mit Funktion Detachementschef/in *ad interim*</td><td>Wm Subalternoffizier</td><td>X</td><td>X</td><td></td><td colspan="5">Kein Praktischer Dienst als Zugführer/in. Die Angehörigen der Armee absolvieren das berufliche Assessment KAMIR (3 Tage) und die Grundausbildung KAMIBES «Profi». Einstieg *ad interim* als Subalternoffizier aus allen Truppengattungen.</td><td>Absolvierung der G/Rttg/ABC Offiziersschule 74 ohne Alterslimite möglich. Vorschlag erfolgt beruflich. Beförderung Lt zu Oblt frühestens nach 3 Funktionsjahren (beruflich).</td></tr>
+<tr><td>5.0</td><td>Hptm</td><td>Subalternoffizier Hptm</td><td>X</td><td>X</td><td>X</td><td colspan="5">Ausbildung zum Einheitskommandanten/zur Einheitskommandantin: Führungslehrgang Einheit (26 Tage), Praktischer Dienst (132 Tage), kein Technischer Lehrgang notwendig. Lehrgang IEDD oder CMD bzw. Teile davon gemäss beruflichem Ausbildungskonzept KAMIR.</td><td>Weiterausbildung und Beförderung zum Hptm ohne obere Alterslimite möglich. Vorschlag zur Weiterausbildung erfolgt beruflich.</td></tr>
+<tr><td>6.0</td><td>Maj</td><td>Hptm Maj</td><td>X</td><td>X</td><td>X</td><td colspan="5">Ehemalige Detachementschefs/-chefinnen (Hptm) oder ehemalige Einheitskommandanten/-kommandantinnen absolvieren den Führungslehrgang Truppenkörper AGA (12 Tage). Es wird kein Praktischer Dienst absolviert. Lehrgang IEDD oder CMD bzw. Teile davon gemäss beruflichem Ausbildungskonzept KAMIR.</td><td>Weiterausbildung und Beförderung zum Major ohne obere Alterslimite möglich. Vorschlag zur Weiterausbildung erfolgt beruflich.</td></tr>
+<tr><td>6.1</td><td>Oberstlt</td><td>Maj Oberstlt</td><td>X</td><td>X</td><td>X</td><td colspan="5">Ehemalige Experten/Expertinnen BACI, Experten/Expertinnen HMA, Einsatzoffiziere/-offizierinnen oder Chefs/Cheffinnen Umsetzung bzw. ehemalige Bataillonskommandanten/-kommandantinnen, Bataillonskommandanten/-kommandantinnen Stellvertreter/innen oder Chefs/Cheffinnen Einsatz. Lehrgang IEDD oder CMD bzw. Teile davon gemäss beruflichem Ausbildungskonzept KAMIR.</td><td>Die Weiterausbildung und die Beförderung zum Oberstlt ist ohne obere Alterslimite möglich. Vorschlag zur Weiterausbildung erfolgt beruflich.</td></tr>
 </table>
 
 ### 3.5 Dienst für präventiven Schutz der Armee (DPSA)
 
 <table>
 <tr><th>Kaderausbildungslaufbahn</th><th>Angehender Grad</th><th colspan="4">Kaderausbildungsdienste in Abweichung zu Anhang 2</th><th></th><th></th><th></th><th>Beförderung in Abweichung zu Anhang 3</th></tr>
-<tr><th></th><th></th><th>Praktischer Dienst in Ausbildungsdienste der Formationen</th><th>Technischer Lehrgang A Nachrichtenoffizier/-in oder Technischer Lehrgang Militärische Sicherheit</th><th>Kadervorkurs und Praktischer Dienst in Rekrutenschule</th><th colspan="4">Bemerkungen</th><th>Bemerkungen</th></tr>
+<tr><th></th><th></th><th>Praktischer Dienst in Ausbildungsdienste der Formationen</th><th>Fachdienstkurs oder Technischer Lehrgang für den angehenden Grad</th><th>Kadervorkurs und Praktischer Dienst in Rekrutenschule</th><th colspan="4">Bemerkungen</th><th>Bemerkungen</th></tr>
 <tr><td>4.0</td><td>Lt</td><td>33</td><td></td><td></td><td colspan="4">anstelle Kadervorkurs und Praktischer Dienst in Rekrutenschule (131 Tage)</td><td></td></tr>
 <tr><td>5.0</td><td>Hptm</td><td></td><td>12–16</td><td>33</td><td colspan="4">anstelle Technischer Lehrgang (5–26 Tage) sowie Kadervorkurs und Praktischer Dienst in Rekrutenschule (131 Tage)</td><td></td></tr>
 </table>
 
 <table>
-<tr><td>Legende: X Berufliche Ausbildungslehrgänge im Rahmen des Anstellungsverhältnisses ohne Anrechenbarkeit an die Ausbildungsdienstpflicht. \* Der Grad eines Berufsunteroffiziers/einer Berufsunteroffizierin darf in der Milizfunktion höchstens um einen Grad höher sein als sein/ihr Grad in der beruflichen Funktion. [tab] Adj Uof Adjutantunteroffizier BEMS Berechtigung für den Einsatz von Munition mit Sprengwirkung BO Berufsoffizier/in BU Berufsunteroffizier/in Chefadj Chefadjutant EOD Explosive Ordnance Disposal Four Fourier Fw Feldweibel GAL BUSA Grundausbildungslehrgang Berufsunteroffiziersschule der Armee Gfr Gefreiter Hptadj Hauptadjutant Hptfw Hauptfeldweibel Hptm Hauptmann</td><td>IEDD Improvised Explosive Device Disposal i Gst im Generalstab KAMIBES Kampfmittelbeseitigung KAMIR Kampfmittelbeseitigung und Minenräumung Lt Leutnant Maj Major MP Militärpolizei Oberstlt Oberstleutnant Oblt Oberleutnant Obwm Oberwachtmeister Rekr Rekrut Sdt Soldat Stabsadj Stabsadjutant WAL Weiterausbildungslehrgang Wm Wachtmeister</td></tr>
+<tr><td>Legende: X Berufliche Ausbildungslehrgänge im Rahmen des Anstellungsverhältnisses ohne Anrechenbarkeit an die Ausbildungsdienstpflicht. \* Der Grad eines Berufsunteroffiziers/einer Berufsunteroffizierin darf in der Milizfunktion höchstens um einen Grad höher sein als sein/ihr Grad in der beruflichen Funktion. [tab] Adj Uof Adjutantunteroffizier BACI Battle Area Clearance BEMS Berechtigung für den Einsatz von Munition mit Sprengwirkung BO Berufsoffizier/in BU Berufsunteroffizier/in Chefadj Chefadjutant CMD Conventional Munitions Disposal EOD Explosive Ordnance Disposal Four Fourier Fw Feldweibel GAL BUSA Grundausbildungslehrgang Berufsunteroffiziersschule der Armee Gfr Gefreiter HMA Humanitarian Mine Action Hptadj Hauptadjutant Hptfw Hauptfeldweibel Hptm Hauptmann</td><td>IEDD Improvised Explosive Device Disposal i Gst im Generalstab KAMIBES Kampfmittelbeseitigung KAMIR Kampfmittelbeseitigung und Minenräumung Lt Leutnant Maj Major MP Militärpolizei Oberstlt Oberstleutnant Obgfr Obergefreiter Oblt Oberleutnant Obwm Oberwachtmeister Rekr Rekrut Sdt Soldat Stabsadj Stabsadjutant WAL Weiterausbildungslehrgang Wm Wachtmeister</td></tr>
 </table>
 
-Anhang 5*[^t-5]*
+Anhang 5[^t-5]
 
 (Art. 81 Abs. 1)
 
 ## Spezialisten und Spezialistinnen
 
-[^t-5]: Fassung gemäss Ziff. II Abs. 1 der V vom 16. Okt. 2019 ([AS 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)). Bereinigt gemäss Anhang 3 Ziff. II 3 der Bevölkerungsschutzverordnung vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5087](https://fedlex.data.admin.ch/eli/oc/2020/889)).
+[^t-5]: Fassung gemäss Ziff. II Abs. 1 der V vom 16. Okt. 2019 ([AS 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)). Bereinigt gemäss Anhang 3 Ziff. II 3 der Bevölkerungsschutzverordnung vom 11. Nov. 2020 ([AS 2020 5087](https://fedlex.data.admin.ch/eli/oc/2020/889)) und Ziff. II Abs. 2 der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
 
 Folgende Angehörige der Armee können zu Spezialisten oder Spezialistinnen ernannt und militärisch entsprechend eingeteilt werden, wenn sie:
 
@@ -2595,7 +2743,7 @@ Folgende Angehörige der Armee können zu Spezialisten oder Spezialistinnen erna
 - 1\.3 AF-Netz oder dessen Folgesysteme,
 - 1\.4 Höhenstandorte,
 - 1\.5 Weitere zukünftige Folgesysteme, mit den gleichen Zwecken;
-- 2\. in ihrer zivilen Tätigkeit bei der Luftwaffe oder bei der Logistikbasis der Armee eine Funktion innehaben, die unabhängig von der Lage einsatzrelevante Aufgaben erfüllt;
+- 2\. in ihrer zivilen Tätigkeit bei der Luftwaffe, beim Militärischen Nachrichtendienst oder bei der Logistikbasis der Armee eine Funktion innehaben, die unabhängig von der Lage einsatzrelevante Aufgaben erfüllt;
 - 3\. die Voraussetzungen für eine Einteilung als Pilot/in, Werkpilot/in, Bordoperateur/in, Drohnenoperateur/in, Drohneneinsatzoffizier/in, Fallschirmaufklärer/in oder Armeeaufklärer/in erfüllen;
 - 4\. über besondere Kenntnisse in folgenden Bereichen verfügen:
 - 4\.1 Flugzeuginstandhaltung und -instandsetzung,
@@ -2622,21 +2770,28 @@ Folgende Angehörige der Armee können zu Spezialisten oder Spezialistinnen erna
 - 4\.22 Sportausbildung,
 - 4\.23 Tauchen,
 - 4\.24 Moderation von Orientierungsveranstaltungen;
+- 4\.25 seelsorgliche Betreuung,
+- 4\.26 Cybersicherheit, Cyberschutz, Cyberabwehr und Kryptologie,
+- 4\.27 Polizeiwesen,
+- 4\.28 Musik mit Schwerpunkt Musiktheorie;
 - 5\. dem Stab Bundesrat Nationale Alarmzentrale angehören.
 
-Anhang 6
+Anhang 6[^t-6]
 
 (Art. 90 Abs. 2 und 91 Abs. 1)
 
 ## Zuständigkeit für Verschiebungen
 
+[^t-6]: Fassung gemäss Ziff. II Abs. 1 der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 820](https://fedlex.data.admin.ch/eli/oc/2022/820)).
+
 <table>
 <tr><th>Art des Dienstes</th><th>Gesuchsteller/in</th><th>Empfänger/in des Gesuches</th><th>Entscheid</th></tr>
 <tr><td>Rekrutierung</td><td>– Stellungspflichtige</td><td>Kreiskommandant/in</td><td>Kreiskommandant/in</td></tr>
-<tr><td>Grundausbildungsdienste</td><td>– Rekruten</td><td>Kreiskommandant/in</td><td>Kommando Ausbildung</td></tr>
+<tr><td>Grundausbildungsdienste</td><td>– Rekruten</td><td>Kommando Ausbildung</td><td>Kommando Ausbildung</td></tr>
 <tr><td>Kaderausbildungsdienste</td><td>– Soldaten, Gefreite – Korporale, Wachtmeister, Oberwachtmeister – höhere Unteroffiziere, die nicht in Stäben eingeteilt sind – Subalternoffiziere, die nicht in Stäben und nicht *ad interim* auf einer Funktion als Hauptmann eingeteilt sind</td><td>Kreiskommandant/in</td><td>Kommando Ausbildung</td></tr>
-<tr><td></td><td>– höhere Unteroffiziere, die in Stäben eingeteilt sind – Subalternoffiziere, die in Stäben und *ad interim* auf einer Funktion als Hauptmann eingeteilt sind – Hauptleute und Stabsoffiziere – Fachoffiziere/Fachoffizierinnen sowie Spezialisten/Spezialistinnen</td><td>Kommando Ausbildung auf dem Dienstweg</td><td>Kommando Ausbildung</td></tr>
-<tr><td></td><td>– Offiziere/Offizierinnen im Generalstab</td><td>Chef/in der Armee</td><td>Chef/in der Armee (Teilnahmeentscheid Laufbahnkommission Verteidigung)</td></tr>
+<tr><td></td><td>– höhere Unteroffiziere, die in Stäben eingeteilt sind – Subalternoffiziere, die in Stäben und *ad interim* auf einer Funktion als Hauptmann eingeteilt sind – Hauptleute und Stabsoffiziere – Fachoffiziere sowie Spezialisten/Spezialistinnen</td><td>Kommando Ausbildung auf dem Dienstweg</td><td>Kommando Ausbildung</td></tr>
+<tr><td></td><td>– Offiziere im Generalstab (GLG I/GLG IV und GLG V)</td><td>Chef/in der Armee</td><td>Chef/in der Armee</td></tr>
+<tr><td></td><td>– Offiziere im Generalstab (GLG II und GLG III)</td><td>Kommando Ausbildung</td><td>Kommando Ausbildung</td></tr>
 <tr><td>Ausbildungsdienste der Formationen und Besondere Dienste für Kader</td><td>– Soldaten, Gefreite – Korporale, Wachtmeister, Oberwachtmeister – Höhere Unteroffiziere, die nicht in Stäben eingeteilt sind</td><td>Kreiskommandant/in</td><td>Kreiskommandant/in oder Kommando Ausbildung</td></tr>
 <tr><td></td><td>– Subalternoffiziere, die nicht *ad interim* auf einer Funktion als Hauptmann eingeteilt sind</td><td></td><td>Kommando Ausbildung</td></tr>
 <tr><td></td><td>– Höhere Unteroffiziere, die in Stäben eingeteilt sind – Subalternoffiziere, die *ad interim* auf einer Funktion als Hauptmann eingeteilt sind – Hauptleute und Stabsoffiziere – Fachoffiziere/Fachoffizierinnen sowie Spezialisten/Spezialistinnen</td><td>Kommando Ausbildung auf dem Dienstweg</td><td>Kommando Ausbildung</td></tr>
