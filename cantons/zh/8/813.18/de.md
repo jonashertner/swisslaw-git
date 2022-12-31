@@ -3,10 +3,10 @@ canton: ZH
 number: "813.18"
 title: Gesetz über die Integrierte Psychiatrie Winterthur – Zürcher Unterland (ipwG)
 language: de
-nachtrag: "104"
-valid_until: 2023-01-01
+version: "2023-01-01"
+nachtrag: "119"
 adopted: 2018-10-29
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-813_18-2018_10_29-2019_01_01-104.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-813_18-2018_10_29-2019_01_01-119.html"
 text: pdf
 ---
 
@@ -58,7 +58,7 @@ Die Eigentümerstrategie für die ipw umfasst insbesondere:
 
 - d. Vorgaben zu einer zweckgebundenen Investitions- und Immobilienplanung (Immobilienstrategie).
 
-[^3-1]: LS 813.20. 1. 4. 19 - 104 7
+[^3-1]: LS 813.20.
 
 #### § 4
 
@@ -68,7 +68,7 @@ Die Eigentümerstrategie für die ipw umfasst insbesondere:
 
 **1**
 
-- 1\. 4. 19 - 104
+- 1\. 1. 23 - 119
 
 <sup>2</sup> Der Regierungsrat kann weitere Leistungsaufträge festlegen. Leistungsmengen, Preise und Modalitäten werden in Leistungsvereinbarungen zwischen der ipw und den zuständigen Direktionen des Regierungsrates vereinbart.
 
@@ -176,7 +176,7 @@ Der Regierungsrat a. legt die Leistungsaufträge für die ipw fest,
 
 **3**
 
-- 1\. 4. 19 - 104
+- 1\. 1. 23 - 119
 
 - f. Er regelt die Zusammenarbeit mit Hochschulen und schliesst die entsprechenden Verträge ab.
 
@@ -232,13 +232,25 @@ Der Spitalrat verabschiedet zuhanden des Regierungsrates den Geschäftsbericht, 
 
 <sup>2</sup> Für das öffentlich-rechtlich angestellte Personal gelten die für das Staatspersonal anwendbaren Bestimmungen. Das Personalreglement kann davon abweichen, soweit dies aus betrieblichen Gründen erforderlich ist.
 
-[^16-1]: LS 813.14.
+<sup>3</sup> Für das ärztliche Personal ab Stufe Oberärztin und Oberarzt (ärztliches Kader) kann das Personalreglement[^16-1] zudem abweichende Regelungen betreffend Vergütung und Beendigung des Arbeitsverhältnisses vorsehen.[^16-2]
 
-#### § 17
+**Vergütung des ärztlichen Kaders**
 
-**Ärztliche Zusatzhonorare**
+§ 17.[^16-3] <sup>1</sup> Das Personalreglement[^16-1] legt die höchstens zulässige Gesamtvergütung der Angehörigen des ärztlichen Kaders fest. Die Gesamtvergütung darf 1 Mio. Franken pro Jahr nicht übersteigen.
 
-Die Erwirtschaftung und die Verwendung von ärztlichen Zusatzhonoraren richten sich nach dem Gesetz über die ärztlichen Zusatzhonorare vom 12. Juni 2006[^16-1].
+<sup>2</sup> Die Vergütung kann einen variablen Bestandteil enthalten. Dieser beträgt höchstens 30% der Gesamtvergütung.
+
+<sup>3</sup> Der variable Bestandteil wird durch folgende Faktoren bestimmt, die höchstens zum genannten Anteil berücksichtigt werden können:
+
+- a. Qualität des Spitals und des Versorgungsbereichs bis zu 60%,
+
+- b. wirtschaftlicher Erfolg des Spitals und des Versorgungsbereichs bis zu 60%,
+
+- c. individuelle Leistung der oder des Angestellten bis zu 60%.
+
+[^16-1]: LS 813.182.
+[^16-2]: Eingefügt durch Spitalplanungs- und -finanzierungsgesetz vom 5. Juli 2021 (OS 76, 612; ABl 2020-07-17). In Kraft seit 1. Januar 2023.
+[^16-3]: Fassung gemäss Spitalplanungs- und -finanzierungsgesetz vom 5. Juli 2021 (OS 76, 612; ABl 2020-07-17). In Kraft seit 1. Januar 2023.
 
 #### § 18
 
@@ -258,9 +270,20 @@ Die Erwirtschaftung und die Verwendung von ärztlichen Zusatzhonoraren richten s
 
 <sup>2</sup> Der Kantonsrat beschliesst die Erhöhung oder Senkung des Dotationskapitals.
 
+**5**
+
+- 1\. 1. 23 - 119
+
 <sup>3</sup> Der Kanton kann der ipw für bestimmte Zwecke weitere Mittel zur Verfügung stellen. Diese gelten als neue Ausgabe gemäss § 37 Abs. 1 des Gesetzes über Controlling und Rechnungslegung vom 9. Januar 2006[^19-1].
 
+**Erträge aus ärztlichen Zusatzleistungen**
+
+§ 19 a.[^19-2] <sup>1</sup> Erträge aus ärztlichen Zusatzleistungen für Patientinnen und Patienten fliessen in die Betriebsrechnung des Spitals.
+
+<sup>2</sup> 5% bis 10% dieser Erträge werden für Einmalzulagen des nichtärztlichen und des nicht zum ärztlichen Kader gehörenden Personals eingesetzt.
+
 [^19-1]: LS 611.
+[^19-2]: Eingefügt durch Spitalplanungs- und -finanzierungsgesetz vom 5. Juli 2021 (OS 76, 612; ABl 2020-07-17). In Kraft seit 1. Januar 2023.
 
 #### § 20
 
@@ -277,10 +300,6 @@ Die ipw darf in dem in der Eigentümerstrategie festgelegten Rahmen Fremdmittel 
 <sup>2</sup> Der Regierungsrat bezeichnet die betroffenen Grundstücke und regelt die Einzelheiten der Baurechte vertraglich.
 
 <sup>3</sup> Das Baurecht endet an denjenigen Grundstücken vorzeitig, die für die Erfüllung des gesetzlichen Auftrags und des Leistungsauftrags der ipw nicht mehr benötigt werden.
-
-**5**
-
-- 1\. 4. 19 - 104
 
 <sup>4</sup> Die Übertragung eines Baurechts auf Dritte ist nur in Ausnahmefällen zulässig. Sie unterliegt der Genehmigung durch den Regierungsrat und den Kantonsrat.
 
@@ -356,6 +375,10 @@ Die zum Zeitpunkt der Einräumung der Baurechte gemäss § 21 auf den betroffene
 
 <sup>1</sup> Das Darlehen gemäss § 28 Abs. 3 wird zum internen Zinssatz des Kantons verzinst.
 
+**7**
+
+- 1\. 1. 23 - 119
+
 <sup>2</sup> Die jährliche Amortisation des Darlehens entspricht mindestens dem Wertverlust der Bauten, Anlagen und Betriebseinrichtungen bei Anwendung branchenüblicher Abschreibungssätze. Darüber hinausgehende Amortisationen sind unter Einhaltung einer Kündigungsfrist von 30 Tagen auf Ende eines Monats zulässig.
 
 #### § 30
@@ -363,3 +386,7 @@ Die zum Zeitpunkt der Einräumung der Baurechte gemäss § 21 auf den betroffene
 **Weitergeltung bisherigen Rechts**
 
 Bis zum Erlass neuer Regelungen gelten die bisherigen Verordnungen und Reglemente.
+
+### Übergangsbestimmung zur Änderung vom 5. Juli 2021 (OS 76, 612)
+
+Die ipw führt das neue Anstellungs- und Vergütungssystem gemäss §§ 16 Abs. 3, 17 und 19 a kostenneutral ein.
