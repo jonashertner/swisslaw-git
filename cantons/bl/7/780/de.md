@@ -4,13 +4,12 @@ number: "780"
 title: Umweltschutzgesetz Basel-Landschaft
 short: USG BL
 language: de
-version: 2015-01-01
-valid_until: 2022-12-31
-version_adopted: 2015-01-29
+version: 2023-01-01
+version_adopted: 2022-03-24
 adopted: 1991-02-27
 in_force: 1992-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/780"
-pdf: "https://bl.clex.ch/api/de/versions/1337/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3487/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bl.clex.ch/api/de/versions/1337/pdf_file"
 
 (USG BL)
 
-Vom 27.02.1991 (Stand 01.01.2015)
+Vom 27.02.1991 (Stand 01.01.2023)
 
 Der Landrat des Kantons Basel-Landschaft,
 
@@ -52,6 +51,8 @@ beschliesst:[^ingress-2]
 <sup>1</sup> Wer Massnahmen nach diesem Gesetz verursacht, trägt die Kosten dafür.
 
 <sup>2</sup> Vorbehalten bleiben die abweichenden Vorschriften in kantonalen Spezialgesetzen.
+
+<sup>3</sup> Die Feuerwehren des Kantons, der Gemeinden und der Betriebe gelten in Ausübung ihres gesetzlichen Auftrags nicht als Verursacherinnen gemäss diesem Gesetz.
 
 #### § 3
 
