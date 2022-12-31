@@ -3,20 +3,20 @@ canton: LU
 number: 890a
 title: Verordnung über die Arbeitslosenversicherung und den Arbeitslosenhilfsfonds
 language: de
-version: 2021-01-01
-valid_until: 2022-12-31
-version_adopted: 2020-12-09
+version: 2023-01-01
+valid_until: 2024-08-31
+version_adopted: 2023-02-28
 adopted: 2002-11-05
 in_force: 2002-12-01
 url: "https://srl.lu.ch/app/de/texts_of_law/890a"
-pdf: "https://srl.lu.ch/api/de/versions/3690/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4058/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Arbeitslosenversicherung und den Arbeitslosenhilfsfonds
 
-vom 05.11.2002 (Stand 01.01.2021)
+vom 05.11.2002 (Stand 01.01.2023)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -38,7 +38,7 @@ beschliesst:
 
 <sup>2</sup> Neben der Erfüllung der ihm durch das Bundesgesetz übertragenen Aufgaben ist das Geschäftsfeld Wirtschaft und Arbeit zuständig für
 
-- a. die Aufsicht über die Gemeindearbeitsämter,
+- a. …
 - b. die vertragliche Regelung der Zusammenarbeit zwischen den privaten Stellenvermittlungen und den regionalen Arbeitsvermittlungszentren,
 - c. die Lösungssuche bei Massenentlassungen nach Artikel 335g OR[^1-2],
 - d. die Koordination der Tätigkeiten der tripartiten Kommission.
@@ -52,13 +52,13 @@ beschliesst:
 
 **Arbeitsvermittlungsregionen**
 
-<sup>1</sup> Der Kanton ist in fünf Arbeitsvermittlungsregionen eingeteilt:
+<sup>1</sup> Der Kanton ist in vier Arbeitsvermittlungsregionen eingeteilt:
 
 - a. Arbeitsvermittlungsregion I: bestehend aus der Gemeinde Luzern (exkl. Ortsteil Littau)
-- b. Arbeitsvermittlungsregion II a: bestehend aus den Gemeinden Aesch, Ballwil, Emmen, Ermensee, Eschenbach, Hitzkirch, Hochdorf, Hohenrain, Inwil, Ortsteil Littau der Gemeinde Luzern, Rain, Römerswil, Rothenburg, Schongau
-- c. Arbeitsvermittlungsregion II b: bestehend aus den Gemeinden Adligenswil, Buchrain, Dierikon, Ebikon, Gisikon, Greppen, Honau, Horw, Kriens, Meggen, Meierskappel, Root, Udligenswil, Vitznau, Weggis
+- b. Arbeitsvermittlungsregion II: bestehend aus den Gemeinden Adligenswil, Aesch, Ballwil, Buchrain, Dierikon, Ebikon, Emmen, Ermensee, Eschenbach, Gisikon, Greppen, Hitzkirch, Hochdorf, Hohenrain, Honau, Horw, Inwil, Kriens, Ortsteil Littau der Gemeinde Luzern, Meggen, Meierskappel, Rain, Römerswil, Root, Rothenburg, Schongau, Udligenswil, Vitznau, Weggis
+- c. …
 - d. Arbeitsvermittlungsregion III: bestehend aus den Gemeinden Altishofen, Beromünster, Büron, Dagmersellen, Egolzwil, Eich, Ettiswil, Geuensee, Hildisrieden, Knutwil, Mauensee, Nebikon, Neuenkirch, Nottwil, Oberkirch, Pfaffnau, Reiden, Rickenbach, Roggliswil, Schenkon, Schlierbach, Schötz, Sempach, Sursee, Triengen, Wauwil, Wikon
-- e. Arbeitsvermittlungsregion IV: bestehend aus den Gemeinden Alberswil, Altbüron, Buttisholz, Doppleschwand, Entlebuch, Escholzmatt-Marbach, Fischbach, Flühli, Grossdietwil, Grosswangen, Hasle, Hergiswil, Luthern, Malters, Menznau, Romoos, Ruswil, Schüpfheim, Schwarzenberg, Ufhusen, Werthenstein, Wolhusen, Willisau, Zell
+- e. Arbeitsvermittlungsregion IV: bestehend aus den Gemeinden Alberswil, Altbüron, Buttisholz, Doppleschwand, Entlebuch, Escholzmatt-Marbach, Fischbach, Flühli, Grossdietwil, Grosswangen, Hasle, Hergiswil, Luthern, Malters, Menznau, Romoos, Ruswil, Schüpfheim, Schwarzenberg, Ufhusen, Werthenstein, Willisau, Wolhusen, Zell
 
 #### § 3
 
@@ -73,11 +73,11 @@ beschliesst:
   - 2\. wenn sie die Kontrollvorschriften oder Weisungen der Arbeitsmarktbehörden nicht befolgen oder einen Kurs, zu dessen Besuch sie angewiesen worden sind, ohne entschuldbaren Grund nicht antreten oder diesen abbrechen (Art. 30 Abs. 1d AVIG); davon ausgenommen ist die Einstellung bei Ablehnung einer zugewiesenen zumutbaren Arbeit.
 - b. Sie können Versicherte zum Besuch von Kursen zur Umschulung, Weiterbildung oder Eingliederung anhalten (Art. 59 ff. AVIG).
 - c. Sie entscheiden über Gesuche
-  - 1\. für den Besuch eines Kurses (Art. 60 Abs. 2 AVIG),
-  - 2\. für den Besuch eines Kurses von Personen, die weder die Beitragszeit erfüllen noch von der Erfüllung der Beitragszeit befreit sind (Art. 60 Abs. 4 AVIG), nur mit Zustimmung des Geschäftsfeldes Wirtschaft und Arbeit,
-  - 3\. um Einarbeitungs- und Ausbildungszuschüsse (Art. 67 Abs. 1 AVIG),
-  - 4\. um Pendlerkostenbeiträge und Beiträge an Wochenaufenthalter (Art. 68 Abs. 1 AVIG),
-  - 5\. um vorübergehende Beschäftigung und Berufspraktika (Art. 72a AVIG).
+  - 1\. für den Besuch eines Kurses (Art. 60 Abs. 3 AVIG),
+  - 2\. für den Besuch eines Kurses von Personen, die weder die Beitragszeit erfüllen noch von der Erfüllung der Beitragszeit befreit sind (Art. 59d AVIG), nur mit Zustimmung des Geschäftsfeldes Wirtschaft und Arbeit,
+  - 3\. um Einarbeitungs- und Ausbildungszuschüsse (Art. 65-66c AVIG),
+  - 4\. um Pendlerkostenbeiträge und Beiträge an Wochenaufenthalter (Art. 68-70 AVIG),
+  - 5\. um vorübergehende Beschäftigung, Berufspraktika und Motivationssemester (Art. 64a AVIG).
 - d. Sie treffen Anordnungen zur Erleichterung der Beratung und Kontrolle (Art. 25 der Verordnung über die obligatorische Arbeitslosenversicherung und die Insolvenzentschädigung vom 31. August 1983[^3-1] [AVIV]).
 - e. Sie sind zuständig für die monatliche Erhebung der Kontrolldaten gemäss Artikel 23 Absatz 1 AVIV und die Abmeldung der Versicherten von der Arbeitsvermittlung.
 
@@ -85,9 +85,7 @@ beschliesst:
 
 #### § 4
 
-**Arbeitsämter der Gemeinden**
-
-<sup>1</sup> Die Arbeitsämter der Gemeinden weisen die gemeldeten Arbeitslosen zur Durchführung einer Standortbestimmung an das zuständige regionale Arbeitsvermittlungszentrum.
+**…**
 
 #### § 5
 
