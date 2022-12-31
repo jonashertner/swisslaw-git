@@ -4,11 +4,11 @@ title: "Ordinanza del 21 novembre 2012 sull'Istituto federale di metrologia (OIF
 short: OIFM
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/832"
 language: it
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2012-11-21
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/832/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2012-832-20220101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/832/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/832/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2012-832-20230101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/832/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/832/20220101/it"
 
 (OIFM)
 
-del 21 novembre 2012 (Stato 1° gennaio 2022)
+del 21 novembre 2012 (Stato 1° gennaio 2023)
 
 Il Consiglio federale svizzero,
 
@@ -63,7 +63,13 @@ Il METAS svolge i seguenti compiti conferitigli dietro compenso:[^3-2]
 
 - a. effettua la manutenzione della Rete di misurazione idrologica della Svizzera per l’Ufficio federale dell’ambiente;
 - b. fornisce prestazioni tecnico-scientifiche per l’Ufficio federale della dogana e della sicurezza dei confini[^3-3]; effettua in particolare analisi chimiche;
-- c.[^3-4] fornisce prestazioni tecnico-scientifiche per l’Ufficio federale della sicurezza alimentare e di veterinaria; fatto salvo l’articolo 60 dell’ordinanza del 27 maggio 2020[^3-5] sull’esecuzione della legislazione sulle derrate alimentari, funge in particolare da laboratorio nazionale di riferimento secondo l’articolo 43 della legge del 20 giugno 2014[^3-6] sulle derrate alimentari;
+- c.[^3-4]
+
+  fornisce prestazioni tecnico-scientifiche per l’Ufficio federale della sicurezza alimentare e di veterinaria; in particolare:
+
+  - 1\. funge da laboratorio nazionale di riferimento secondo l’articolo 43 della legge del 20 giugno 2014[^3-5] sulle derrate alimentari e l’articolo 60 dell’ordinanza del 27 maggio 2020[^3-6] sull’esecuzione della legislazione sulle derrate alimentari (OELDerr), fatto salvo l’articolo 59 capoverso 2 OELDerr,
+  - 2\. effettua analisi biologiche e chimiche nei settori della sicurezza alimentare e della nutrizione, segnatamente nell’ambito di studi di monitoraggio nazionali;
+
 - d. fornisce prestazioni tecnico-scientifiche per l’Ufficio federale della sanità pubblica; effettua in particolare analisi chimiche;
 - e.[^3-7] mette esperti a disposizione del Servizio di accreditamento svizzero della Segreteria di Stato dell’economia;
 - f.[^3-8] fornisce servizi scientifici e tecnici all’Ufficio federale delle strade; svolge in particolare attività di ricerca e sviluppo per metodi di misurazione di applicazione pratica nella circolazione stradale.
@@ -73,9 +79,9 @@ Il METAS svolge i seguenti compiti conferitigli dietro compenso:[^3-2]
 [^3-1]: Nuovo testo giusta il n. I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5877](https://fedlex.data.admin.ch/eli/oc/2017/638)).
 [^3-2]: Nuovo testo giusta il n. I dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6347](https://fedlex.data.admin.ch/eli/oc/2020/1037)).
 [^3-3]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
-[^3-4]: Nuovo testo giusta l’art. 117 n. 1 dell’O del 27 mag. 2020 sull’esecuzione della legislazione sulle derrate alimentari, in vigore dal 1° lug. 2020 ([RU 2020 2465](https://fedlex.data.admin.ch/eli/oc/2020/460)).
-[^3-5]: [RS 817.042](https://fedlex.data.admin.ch/eli/cc/2020/460)
-[^3-6]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
+[^3-4]: Nuovo testo giusta il n. I dell’O del 16 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 696](https://fedlex.data.admin.ch/eli/oc/2022/696)).
+[^3-5]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
+[^3-6]: [RS 817.042](https://fedlex.data.admin.ch/eli/cc/2020/460)
 [^3-7]: Introdotta dal n. I dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6347](https://fedlex.data.admin.ch/eli/oc/2020/1037)).
 [^3-8]: Introdotta dal n. I dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6347](https://fedlex.data.admin.ch/eli/oc/2020/1037)).
 

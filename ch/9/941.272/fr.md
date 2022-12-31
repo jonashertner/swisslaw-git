@@ -4,11 +4,11 @@ title: "Ordonnance du 21 novembre 2012 sur l'Institut fédéral de métrologie (
 short: OIFM
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/832"
 language: fr
-version: 2022-01-01
+version: 2023-01-01
 adopted: 2012-11-21
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/832/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2012-832-20220101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/832/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/832/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2012-832-20230101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/832/20230101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/832/20220101/fr"
 
 (OIFM)
 
-du 21 novembre 2012 (Etat le 1<sup>er</sup> janvier 2022)
+du 21 novembre 2012 (État le 1<sup>er</sup> janvier 2023)
 
 Le Conseil fédéral suisse,
 
@@ -63,7 +63,13 @@ METAS exerce les tâches suivantes, qui lui sont confiées contre indemnité:
 
 - a. il entretient le réseau d’observation hydrologique de la Suisse pour l’Office fédéral de l’environnement;
 - b. il fournit des prestations scientifiques et techniques à l’Office fédéral de la douane et de la sécurité des frontières[^3-2]; il réalise en particulier des analyses chimiques;
-- c.[^3-3] il fournit des prestations scientifiques et techniques à l’Office fédéral de la sécurité alimentaire et des affaires vétérinaires; il fait office en particulier, sous réserve de l’art. 60 de l’ordonnance du 27 mai 2020 sur l’exécution de la législation sur les denrées alimentaires[^3-4], de laboratoire national de référence au sens de l’art. 43 de la loi du 20 juin 2014 sur les denrées alimentaires[^3-5];
+- c.[^3-3]
+
+  il fournit des prestations scientifiques et techniques à l’Office fédéral de la sécurité alimentaire et des affaires vétérinaires; il assume en particulier les tâches suivantes:
+
+  - 1\. il fait office de laboratoire national de référence au sens de l’art. 43 de la loi du 20 juin 2014 sur les denrées alimentaires[^3-4] et de l’art. 60 de l’ordonnance du 27 mai 2020 sur l’exécution de la législation sur les denrées alimentaires (OELDAl)[^3-5], sous réserve de l’art. 59, al. 2, OELDAl,
+  - 2\. il réalise des analyses biologiques et chimiques dans les domaines de la sécurité alimentaire et de la nutrition, notamment dans le cadre d’études de monitorage nationales;
+
 - d. il fournit des prestations scientifiques et techniques à l’Office fédéral de la santé publique; il réalise en particulier des analyses chimiques;
 - e.[^3-6] il met à disposition du Service d’accréditation suisse du Secrétariat d’État à l’économie des experts techniques;
 - f.[^3-7] il fournit des prestations scientifiques et techniques à l’Office fédéral des routes; il mène en particulier des études et élabore des méthodes de mesures ayant une application pratique dans le domaine de la circulation routière.
@@ -72,9 +78,9 @@ METAS exerce les tâches suivantes, qui lui sont confiées contre indemnité:
 
 [^3-1]: Nouvelle teneur selon le ch. I de l’O du 11 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5877](https://fedlex.data.admin.ch/eli/oc/2017/638)).
 [^3-2]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
-[^3-3]: Nouvelle teneur selon l’art. 117 ch. 1 de l’O du 27 mai 2020 sur l’exécution de la législation sur les denrées alimentaires, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2465](https://fedlex.data.admin.ch/eli/oc/2020/460)).
-[^3-4]: RS **817****.****042**
-[^3-5]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
+[^3-3]: Nouvelle teneur selon le ch. I de l’O du 16 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 696](https://fedlex.data.admin.ch/eli/oc/2022/696)).
+[^3-4]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
+[^3-5]: [RS 817.042](https://fedlex.data.admin.ch/eli/cc/2020/460)
 [^3-6]: Introduite par le ch. I de l’O du 25 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6347](https://fedlex.data.admin.ch/eli/oc/2020/1037)).
 [^3-7]: Introduite par le ch. I de l’O du 25 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6347](https://fedlex.data.admin.ch/eli/oc/2020/1037)).
 
