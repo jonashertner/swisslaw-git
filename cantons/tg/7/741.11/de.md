@@ -4,13 +4,12 @@ number: "741.11"
 title: Strassenverkehrsabgabenverordnung
 short: SVAV
 language: de
-version: 2020-01-01
-valid_until: 2022-12-31
-version_adopted: 2019-10-01
+version: 2023-01-01
+version_adopted: 2022-09-27
 adopted: 2010-12-07
 in_force: 2011-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/741.11"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2226/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2561/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ SVAV
 
 (SVAV)
 
-vom 07.12.2010 (Stand 01.01.2020)
+vom 07.12.2010 (Stand 01.01.2023)
 
 ## 1. Allgemeines
 
@@ -29,7 +28,7 @@ vom 07.12.2010 (Stand 01.01.2020)
 
 **Grundsatz**
 
-<sup>1</sup> Die Gebühren des Strassenverkehrsamtes decken die Kosten für die amtlichen Verrichtungen im Zusammenhang mit dem Strassenverkehr.
+<sup>1</sup> Die Gebühreneinnahmen gemäss dieser Verordnung decken die Kosten für die amtlichen Verrichtungen und Kontrolltätigkeiten des Strassenverkehrsamtes, der Kantonspolizei und des Departementes für Justiz und Sicherheit im Zusammenhang mit dem Strassenverkehr.
 
 <sup>2</sup> Gebühren, die im elektronischen Zahlungsverkehr im Voraus bezahlt werden, kann das Strassenverkehrsamt um maximal Fr. 15 reduzieren.
 
@@ -83,13 +82,13 @@ vom 07.12.2010 (Stand 01.01.2020)
 
 <sup>1</sup> Für Führerausweise werden Gebühren wie folgt erhoben:
 
-- 1\. Führerausweis — Fr. 50
-- 2\. Lernfahrausweis — Fr. 40
-- 3\. Änderung, Duplikat und Ersatz eines Ausweises gemäss Ziff. 1 und Ziff. 2 — Fr. 35
+- 1\. Führerausweis — Fr. 40
+- 2\. Lernfahrausweis — Fr. 30
+- 3\. Änderung, Duplikat und Ersatz eines Ausweises gemäss Ziff. 1 und Ziff. 2 — Fr. 30
 - 4\. Bearbeitung eines Gesuches für einen Lernfahr- bzw. Führerausweis — Fr. 30
-- 5\. Bearbeitung eines Gesuches um Umschreibung eines ausländischen Führerausweises — Fr. 80
+- 5\. Bearbeitung eines Gesuches um Umschreibung eines ausländischen Führerausweises — Fr. 60
 - 6\. Internationaler Führerausweis — Fr. 40
-- 7\. Fähigkeitsausweis C/C1 und D/D1 — Fr. 35
+- 7\. Fähigkeitsausweis C/C1 und D/D1 — Fr. 30
 
 #### § 8
 
@@ -129,7 +128,7 @@ vom 07.12.2010 (Stand 01.01.2020)
 - 8\. Anordnung einer verkehrsmedizinischen oder verkehrspsychologischen Untersuchung — Fr. 300
 - 9\. Änderung einer Massnahme — Fr. 100
 - 10\. Verkehrsunterricht zur Nachschulung — Fr. 200 bis Fr. 300
-- 11\. Aufgebot zur ärztlichen Kontrolluntersuchung — Fr. 20
+- 11\. …
 - 12\. Mahnung wegen Verzugs eines Arztzeugnisses — Fr. 40
 
 #### § 10
@@ -149,21 +148,21 @@ vom 07.12.2010 (Stand 01.01.2020)
 
 <sup>1</sup> Für Fahrzeugausweise werden Gebühren wie folgt erhoben:
 
-- 1\. Fahrzeugausweis — Fr. 50
-- 2\. Ersatzfahrzeugausweis — Fr. 50
+- 1\. Fahrzeugausweis — Fr. 40
+- 2\. Ersatzfahrzeugausweis — Fr. 40
 - 3\. Tageszulassung:
-  - 3\.1. Ausweis — Fr. 50
+  - 3\.1. Ausweis — Fr. 40
   - 3\.2. Versicherungsprämie — Tarif
 - 4\. …
 - 5\. Grüne Versicherungskarte — Fr. 30
-- 6\. Kollektiv-Fahrzeugausweis — Fr. 50
+- 6\. Kollektiv-Fahrzeugausweis — Fr. 40
 - 7\. Änderung (ohne Adressmutation), Duplikat, Ersatz, Verlängerung, Aufforderung:
   - 7\.1. Einzelausweis — Fr. 30
-  - 7\.2. bei Wechsel des Firmennamens oder der Rechtsform bis 10 Fahrzeuge pro Fahrzeug inklusive Kontrollschilderübertragung — Fr. 50
+  - 7\.2. bei Wechsel des Firmennamens oder der Rechtsform bis 10 Fahrzeuge pro Fahrzeug inklusive Kontrollschilderübertragung — Fr. 40
   - 7\.3. bei Wechsel des Firmennamens oder der Rechtsform ab dem 11. Fahrzeug pro Fahrzeug inklusive Kontrollschilderübertragung — Fr. 10
 - 8\. Eintrag von Code 178 (Halterwechsel verboten) — Fr. 30
 - 9\. Mofa:
-  - 9\.1. Fahrzeugausweis — Fr. 40
+  - 9\.1. Fahrzeugausweis — Fr. 30
   - 9\.2. Blanko-Ausweis — Fr. 5
   - 9\.3. Änderung, Duplikat, Ersatz — Fr. 20
 
@@ -205,11 +204,11 @@ vom 07.12.2010 (Stand 01.01.2020)
 
 <sup>2</sup> Für Kontrollschilder werden Gebühren wie folgt erhoben:
 
-- 1\. Schilderpaar — Fr. 40
-- 2\. Einzelschild — Fr. 25
-- 3\. Reservationsgebühr im ersten Jahr — Fr. 40
-- 4\. Reservationsgebühr für jedes weitere Jahr — Fr. 60
-- 5\. Schilderübertragung (exkl. Wechsel des Firmennamens oder der Rechtsform) — Fr. 120
+- 1\. Schilderpaar — Fr. 30
+- 2\. Einzelschild — Fr. 20
+- 3\. Reservationsgebühr im ersten Jahr — Fr. 30
+- 4\. Reservationsgebühr für jedes weitere Jahr — Fr. 50
+- 5\. Schilderübertragung (exkl. Wechsel des Firmennamens oder der Rechtsform) — Fr. 60
 - 6\. Kaution für Tagesschilder — Fr. 100
 - 7\. Kontrollschilder-Verlust;
   - 7\.1. Bearbeitungsgebühr bei Kontrollschilderverlust — Fr. 60
@@ -233,7 +232,7 @@ vom 07.12.2010 (Stand 01.01.2020)
 - 1\. Verweigerung der Verkehrszulassung — Fr. 180
 - 2\. Verwarnung wegen missbräuchlicher Verwendung — Fr. 180
 - 3\. …
-- 4\. Entzug von Ausweisen und Kontrollschildern — Fr. 180
+- 4\. Entzug von Ausweisen und Kontrollschildern — Fr. 130
 
 ## 4. Sonderbewilligungen, verschiedene Gebühren
 
@@ -350,18 +349,10 @@ vom 07.12.2010 (Stand 01.01.2020)
 
 <sup>1</sup> Der Rabatt entfällt im Folgejahr, wenn im Kanton Thurgau mehr als 20 Fahrzeuge der höheren Kategorie im laufenden Jahr immatrikuliert wurden.
 
-## 7. Schlussbestimmungen
+## 7.
 
-#### § 24
+#### § 24–25
 
-**Aufhebung bisherigen Rechtes**
-
-<sup>1</sup> Die Verordnung des Regierungsrates über die Gebühren des Strassenverkehrsamtes vom 18. November 1997, die Verordnung des Regierungsrates über die Reduktion der Strassenverkehrsabgaben für emissionsarme Fahrzeuge vom 23. September 2008 und der Regierungsratsbeschluss betreffend Strassenverkehrsabgaben von Invaliden vom 2. Juni 1975 werden aufgehoben.
-
-#### § 25
-
-**Inkrafttreten**
-
-<sup>1</sup> Diese Verordnung tritt zusammen mit dem Gesetz vom 7. Juli 2010 betreffend die Änderung des Gesetzes über die Strassenverkehrsabgaben vom 16. August 2006 auf den 1. Januar 2011 in Kraft.
+**…**
 
 ABl. 49/2010
