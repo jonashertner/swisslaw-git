@@ -3,18 +3,18 @@ sr: "812.214.11"
 title: "Ordinanza dell'Istituto svizzero per gli agenti terapeutici del 9 novembre 2001 concernente l'emanazione della farmacopea e il riconoscimento di altre farmacopee"
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/443"
 language: it
-version: 2022-07-01
+version: 2023-01-01
 adopted: 2001-11-09
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/443/20220701/it/xml/fedlex-data-admin-ch-eli-cc-2001-443-20220701-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/443/20220701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/443/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2001-443-20230101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/443/20230101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Ordinanza dell’Istituto svizzero per gli agenti terapeutici concernente l’emanazione della farmacopea e il riconoscimento di altre farmacopee****
+# Ordinanza dell’Istituto svizzero per gli agenti terapeutici concernente l’emanazione della farmacopea e il riconoscimento di altre farmacopee
 
-del 9 novembre 2001 (Stato 1° luglio 2022)[^t-1]
+del 9 novembre 2001 (Stato 1° gennaio 2023)[^t-1]
 
 [^t-1]: Nuovo testo giusta l’all. 7 n. I dell’O del 22 giu. 2006 sui medicamenti complementari e fitoterapeutici, in vigore dal 1° ott. 2006 ([RU 2006 3641](https://fedlex.data.admin.ch/eli/oc/2006/559)).
 
@@ -35,11 +35,11 @@ ordina:
 
 Per farmacopea si intendono:
 
-- a. *Pharmacopoea Europaea,* 10<sup>a</sup> edizione[^1-2] (Ph. Eur. 10), del novembre 2018, il supplemento 10.1 alla *Pharmacopoea Europaea* del marzo 2019, il supplemento 10.2 alla *Pharmacopoea Europaea* del giugno 2019, il supplemento 10.3 alla *Pharmacopoea Europaea* del novembre 2019, il supplemento 10.4 alla *Pharmacopoea Europaea* del marzo 2020, il supplemento 10.5 alla *Pharmacopoea Europaea* del giugno 2020, il supplemento 10.6 alla *Pharmacopoea Europaea* del novembre 2020, il supplemento 10.7 alla *Pharmacopoea Europaea* del marzo 2021 e il supplemento 10.8 alla *Pharmacopoea Europaea* del giugno 2021;
+- a. *Pharmacopoea Europaea,* 11<sup>a</sup> edizione[^1-2] (Ph. Eur. 11), del novembre 2021;
 - b. *Pharmacopoea Helvetica,* 11<sup>a</sup> edizione[^1-3] (Ph. Helv. 11), del marzo 2012, il supplemento 11.1 alla *Pharmacopoea Helvetica* del giugno 2013, il supplemento 11.2 alla *Pharmacopoea Helvetica* del maggio 2015 e il supplemento 11.3 alla *Pharmacopoea Helvetica* del maggio 2019.
 
-[^1-1]: Nuovo testo giusta il n. I dell’O del Consiglio dell’Istituto del 22 apr. 2022, in vigore dal 1° lug. 2022 ([RU 2022 267](https://fedlex.data.admin.ch/eli/oc/2022/267)).
-[^1-2]: La versione originale della *Pharmacopoea Europaea* è edita dal Consiglio d’Europa. L’edizione originale francese può essere ottenuta presso l’Ufficio federale delle costruzioni e della logistica (UFCL), Vendita di pubblicazioni federali, 3003 Berna, www.pubblicazionifederali.admin.ch, alle condizioni previste dall’ordinanza del 19 novembre 2014 sugli emolumenti per le pubblicazioni (OEm-Pub; [RS 172.041.11](https://fedlex.data.admin.ch/eli/cc/2014/711)). Fino alla pubblicazione della versione tedesca, le bozze di singoli testi in lingua tedesca sono ottenibili presso la divisione della Farmacopea dell’Istituto svizzero per gli agenti terapeutici (Swissmedic).
+[^1-1]: Nuovo testo giusta il n. I dell’O del Consiglio dell’Istituto del 30 giu. 2022, in vigore dal 1° gen. 2023 ([RU 2022 391](https://fedlex.data.admin.ch/eli/oc/2022/391)).
+[^1-2]: La versione originale della *Pharmacopoea Europaea* è edita dal Consiglio d’Europa. L’edizione originale francese può essere ottenuta presso l’Ufficio federale delle costruzioni e della logistica (UFCL), Vendita di pubblicazioni federali, 3003 Berna, www.pubblicazionifederali.admin.ch, alle condizioni previste dall’ordinanza del 19 nov. 2014 sugli emolumenti per le pubblicazioni (OEm-Pub; RS **172.041****.****11**). Fino alla pubblicazione della versione tedesca, le bozze di singoli testi in lingua tedesca sono ottenibili presso la divisione della Farmacopea dell’Istituto svizzero per gli agenti terapeutici (Swissmedic).
 [^1-3]: La *Pharmacopoea Helvetica* è edita da Swissmedic e può essere consultata all’indirizzo Internet www.phhelv.ch o ottenuta presso l’UFCL, Vendita di pubblicazioni federali, 3003 Berna, www.pubblicazionifederali.admin.ch, alle condizioni previste dall’OEm-Pub.
 
 #### Art. 1a
@@ -56,7 +56,7 @@ Le farmacopee designate nell’allegato della presente ordinanza o le loro parti
 
 La presente ordinanza entra in vigore il 1° gennaio 2002.
 
-Allegato*[^t-2]*
+Allegato[^t-2]
 
 (art. 1*a*)
 
