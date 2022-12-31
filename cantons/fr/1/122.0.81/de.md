@@ -3,13 +3,12 @@ canton: FR
 number: "122.0.81"
 title: Verordnung über die Sicherheit und den Gesundheitsschutz am Arbeitsplatz in der Kantonsverwaltung
 language: de
-version: 2022-07-01
-valid_until: 2022-12-31
-version_adopted: 2022-05-24
+version: 2023-01-01
+version_adopted: 2022-12-12
 adopted: 2007-04-24
 in_force: 2007-05-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/122.0.81"
-pdf: "https://bdlf.fr.ch/api/de/versions/7499/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8288/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/7499/pdf_file"
 
 Kantonsverwaltung, Gesundheitsschutz am Arbeitsplatz – V
 
-vom 24.04.2007 (Fassung in Kraft getreten am 01.07.2022)
+vom 24.04.2007 (Fassung in Kraft getreten am 01.01.2023)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -42,7 +41,7 @@ beschliesst:
 
 <sup>1</sup> Diese Verordnung regelt die Umsetzung:
 
-- a) der Branchenlösung «Sicherheit und Gesundheitsschutz am Arbeitsplatz in den kantonalen und eidgenössischen Verwaltungen» (Branchenlösung);
+- a) der Branchenlösung Nr. 48 «Sicherheit und Gesundheitsschutz am Arbeitsplatz in den kantonalen Verwaltungen» der Eidgenössischen Koordinationskommission für Arbeitssicherheit EKAS (Branchenlösung);
 - b) von spezifischen Branchenlösungen oder Standardlösungen, sofern sie den Minimalanforderungen der Branchenlösung im Wesentlichen entsprechen und von der ständigen Kommission zur Förderung der Sicherheit und des Gesundheitsschutzes am Arbeitsplatz in der kantonalen Verwaltung genehmigt wurden.
 
 #### Art. 2
@@ -55,7 +54,7 @@ beschliesst:
 
 **Managementsystem für die Sicherheit und den Gesundheitsschutz am Arbeitsplatz**
 
-<sup>1</sup> Zur Umsetzung der gemeinsamen Branchenlösung wird in der Kantonsverwaltung ein Managementsystem für die Sicherheit und den Gesundheitsschutz am Arbeitsplatz eingeführt (SGA-System).
+<sup>1</sup> Zur Umsetzung der Branchenlösung wird in der Kantonsverwaltung ein Managementsystem für die Sicherheit und den Gesundheitsschutz am Arbeitsplatz (SGA-System) eingeführt, das politische Grundsätze, eine Organisation, Referenzdokumente sowie spezifische Aktionen und Massnahmen umfasst.
 
 ## 2 Aufsichtsbehörde
 
@@ -63,7 +62,7 @@ beschliesst:
 
 <sup>1</sup> Das Amt für den Arbeitsmarkt und die Suva für die ihr von der Bundesgesetzgebung zugewiesenen Tätigkeitsbereiche sind die unabhängige Aufsichtsbehörde für die Einhaltung der Vorschriften über die Hygiene, die Sicherheit und den Gesundheitsschutz am Arbeitsplatz beim Staat Freiburg.
 
-<sup>2</sup> Die Entscheide, Feststellungen und Empfehlungen der Aufsichtsbehörde werden den direkten Adressaten mitgeteilt und an die von der Verordnung vorgesehenen betroffenen Akteure der Sicherheit und des Gesundheitsschutzes am Arbeitsplatz (SGA-Akteure) weitergeleitet.
+<sup>2</sup> Die Entscheide, Feststellungen und Empfehlungen der Aufsichtsbehörde werden den direkten Adressatinnen und Adressaten mitgeteilt und an die von der Verordnung vorgesehenen betroffenen Akteurinnen und Akteure der Sicherheit und des Gesundheitsschutzes am Arbeitsplatz (SGA-Akteurinnen und -Akteure) weitergeleitet.
 
 ## 3 Vollzugsbehörden
 
@@ -73,7 +72,7 @@ beschliesst:
 
 <sup>1</sup> Der Staatsrat bestimmt die Grundsätze der Politik und setzt periodisch die Ziele des SGA-Systems fest.
 
-<sup>2</sup> Er genehmigt die Referenzhandbücher, die von der ständigen Kommission zur Förderung der Sicherheit und des Gesundheitsschutzes am Arbeitsplatz in der kantonalen Verwaltung herausgegeben werden.
+<sup>2</sup> …
 
 #### Art. 6
 
@@ -81,7 +80,7 @@ beschliesst:
 
 <sup>1</sup> Es wird eine ständige Kommission zur Förderung der Sicherheit und des Gesundheitsschutzes am Arbeitsplatz in der kantonalen Verwaltung eingesetzt (die SGA-Kommission).
 
-<sup>2</sup> Die SGA-Kommission ist als Koordinationsstelle im Sinne der gemeinsamen Branchenlösung tätig.
+<sup>2</sup> Die SGA-Kommission ist als Koordinationsstelle im Sinne der Branchenlösung Nr. 48 tätig.
 
 <sup>3</sup> Sie ist administrativ der Finanzdirektion zugewiesen.
 
@@ -100,15 +99,16 @@ beschliesst:
 
 <sup>2</sup> Die drei Personalvertreterinnen und -vertreter, von denen mindestens zwei Staatsangestellte sein müssen, werden im Einvernehmen zwischen den anerkannten Sozialpartnern ausgewählt. Kommt keine Einigung zustande, so entscheidet der Staatsrat auf Empfehlung seiner Delegation für das Personalwesen.
 
-<sup>3</sup> Die SGA-Kommission kann als Mitglieder mit beratender Stimme bezeichnen:
+<sup>3</sup> Die SGA-Kommission kann mit beratender Stimme beiziehen:
 
 - a) Kontaktpersonen für Sicherheit und Gesundheitsschutz am Arbeitsplatz;
 - b) Mitglieder der Ausschüsse für Sicherheit und Gesundheitsschutz am Arbeitsplatz;
-- c) von der Bundesgesetzgebung anerkannte Spezialistinnen oder Spezialisten der Arbeitssicherheit oder andere Expertinnen und Experten, die über spezifische Fachkenntnisse im Bereich Sicherheit und Gesundheitsschutz am Arbeitsplatz verfügen.
+- c) von der Bundesgesetzgebung anerkannte Spezialistinnen oder Spezialisten der Arbeitssicherheit oder andere Expertinnen und Experten, die über spezifische Fachkenntnisse im Bereich Sicherheit und Gesundheitsschutz am Arbeitsplatz verfügen;
+- d) die kantonale Beauftragte oder den kantonalen Beauftragten für Prävention und Gesundheitsförderung.
 
 <sup>4</sup> Die SGA-Kommission kann auch Spezialistinnen oder Spezialisten mit der Prüfung besonderer Probleme beauftragen.
 
-<sup>5</sup> Die SGA-Kommission legt ihre Arbeitsweise fest und stellt ihr Budget auf. Die für das SGA-System verantwortliche Person führt das Kommissionssekretariat.
+<sup>5</sup> Die SGA-Kommission legt ihre Arbeitsweise fest und stellt ihr Budget auf. Die für die Umsetzung des SGA-Systems verantwortliche Person führt das Kommissionssekretariat.
 
 #### Art. 8
 
@@ -121,9 +121,9 @@ beschliesst:
 - a) Sie schlägt dem Staatsrat die Grundsätze der Politik und die Ziele des SGA-Systems vor.
 - b) Sie beantragt dem Staatsrat das Betriebsbudget für das SGA-System.
 - c) Sie bezeichnet die Verwaltungseinheiten mit besonderen Gefahren.
-- d) Sie legt im Referenzhandbuch «Sicherheit und Gesundheitsschutz am Arbeitsplatz – Referenzhandbuch der SGA-Kommission» (SGA-Referenzhandbuch der SGA-Kommission) ihre eigenen Aufgaben und Verantwortlichkeiten fest.
-- e) Sie legt im Referenzhandbuch «Sicherheit und Gesundheitsschutz am Arbeitsplatz – Referenzhandbuch der SGA-Leiterinnen und Leiter» (Referenzhandbuch der SGA-Leiterinnen und Leiter) die Befugnisse, Aufgaben und Verantwortlichkeiten der Chefinnen und Chefs der Verwaltungseinheiten, der SGA-Akteure, des Personals und der Personen, die die staatlichen Infrastrukturen nutzen, fest.
-- f) Sie unterbreitet die Referenzhandbücher dem Staatsrat zur Genehmigung.
+- d) Sie schlägt die Umsetzung von Massnahmen in den Bereichen Arbeitssicherheit, Gesundheitsschutz und Gesundheitsförderung vor.
+- e) Sie legt im Referenzhandbuch «Sicherheit und Gesundheitsschutz am Arbeitsplatz» (SGA-Referenzhandbuch) die Befugnisse, Aufgaben und Verantwortlichkeiten der Chefinnen und Chefs der Verwaltungseinheiten, der SGA-Akteurinnen und -Akteure, des Personals und der Personen, welche die staatlichen Infrastrukturen nutzen, fest.
+- f) Sie genehmigt das SGA-Referenzhandbuch.
 - g) Sie genehmigt die spezifischen Branchenlösungen oder Standardlösungen und koordiniert sie gegebenenfalls mit der Branchenlösung.
 
 #### Art. 9
@@ -132,11 +132,11 @@ beschliesst:
 
 <sup>1</sup> Die Chefinnen und Chefs der Verwaltungseinheiten sind Leiterinnen und Leiter des SGA-Systems.
 
-<sup>2</sup> Als Leiterinnen und Leiter sind sie für die Umsetzung des SGA-Systems in ihrer Verwaltungseinheit verantwortlich. Sie passen das von der SGA-Kommission herausgegebene Referenzhandbuch den Bedürfnissen ihrer Verwaltungseinheit an.
+<sup>2</sup> Als Leiterinnen und Leiter sind sie für die Umsetzung des SGA-Systems in ihrer Verwaltungseinheit verantwortlich. Sie passen das von der SGA-Kommission herausgegebene SGA-Referenzhandbuch den spezifischen Bedürfnissen ihrer Verwaltungseinheit an.
 
 <sup>3</sup> Bei Verwaltungseinheiten, die räumlich nahe beieinander liegen und ähnliche Gefahren aufweisen, können die Chefinnen und Chefs zu Rationalisierungszwecken und zur Nutzung von Synergien in gegenseitigem Einvernehmen eine Risikoeinheit bilden. Jede Chefin und jeder Chef einer Verwaltungseinheit ist jedoch selber für die Umsetzung des SGA-Systems in der eigenen Einheit verantwortlich.
 
-## 4 SGA-Akteure
+## 4 SGA-Akteurinnen und -Akteure
 
 #### Art. 10
 
@@ -146,11 +146,11 @@ beschliesst:
 
 #### Art. 11
 
-**Für das SGA-System verantwortliche Person**
+**Für die Umsetzung des SGA-Systems verantwortliche Person**
 
-<sup>1</sup> Die Fachstelle beschäftigt eine Sicherheitsingenieurin oder einen Sicherheitsingenieur, die oder der die Anforderungen der eidgenössischen Verordnung vom 25. November 1996 über die Eignung der Spezialistinnen und Spezialisten der Arbeitssicherheit erfüllt, als für das SGA-System verantwortliche Person (die oder der SGA-Verantwortliche).
+<sup>1</sup> Die Fachstelle beschäftigt eine Spezialistin oder einen Spezialisten der Arbeitssicherheit, die oder der die Anforderungen der eidgenössischen Verordnung vom 25. November 1996 über die Eignung der Spezialistinnen und Spezialisten der Arbeitssicherheit erfüllt, als für die Umsetzung des SGA-Systems verantwortliche Person (die oder der SGA-Verantwortliche).
 
-<sup>2</sup> Die oder der SGA-Verantwortliche führt das SGA-Kommissionssekretariat. Sie oder er ist die Ansprechperson und zuständig für Beratung, Unterstützung und Förderung sowie für Analysen und Vorschläge im Bereich Sicherheit und Gesundheitsschutz am Arbeitsplatz.
+<sup>2</sup> Die oder der SGA-Verantwortliche führt das SGA-Kommissionssekretariat und koordiniert die Umsetzung der Branchenlösung in der Kantonsverwaltung. Sie oder er ist die Ansprechperson und zuständig für Beratung, Unterstützung und Förderung sowie für Analysen und Vorschläge im Bereich der Sicherheit und des Schutzes der physischen und psychischen Gesundheit am Arbeitsplatz.
 
 #### Art. 12
 
@@ -185,7 +185,7 @@ beschliesst:
 
 <sup>3</sup> Die SGA-Kontaktpersonen sorgen für die vorschriftsmässige Anwendung der Sicherheits- und Gesundheitsschutzmassnahmen in denjenigen Verwaltungs- oder Risikoeinheiten, für die sie eingesetzt wurden. Sie sind ausserdem Verbindungsorgan zwischen dem Personal, der Fachstelle und der SGA-Kommission.
 
-<sup>4</sup> Die SGA-Kontaktpersonen werden nach Stellungnahme der oder des SGA-Verantwortlichen von der Chefin oder vom Chef der Verwaltungseinheit oder bei einer Risikoeinheit von allen Chefinnen und Chefs der betroffenen Verwaltungseinheiten bezeichnet. Sie werden aufgrund ihrer branchenspezifischen Kenntnisse und Erfahrungen in Sicherheit und Gesundheitsschutz ausgewählt.
+<sup>4</sup> Die SGA-Kontaktpersonen werden nach Stellungnahme der oder des SGA-Verantwortlichen von der Chefin oder vom Chef der Verwaltungseinheit oder bei einer Risikoeinheit von allen Chefinnen und Chefs der betroffenen Verwaltungseinheiten bezeichnet. Sie werden aufgrund ihrer branchenspezifischen Kenntnisse und ihren Erfahrungen im Bereich Sicherheit und Gesundheitsschutz ausgewählt.
 
 #### Art. 15
 
@@ -203,13 +203,13 @@ beschliesst:
 
 **Befugnisse, Aufgaben und Verantwortlichkeiten**
 
-<sup>1</sup> Sofern nicht in dieser Verordnung vorgesehen, werden die Befugnisse, Aufgaben und Verantwortlichkeiten der SGA-Akteure im Referenzhandbuch, das von der SGA- Kommission herausgegeben wird, und in den spezifischen Handbüchern der einzelnen Verwaltungseinheiten definiert.
+<sup>1</sup> Sofern nicht in dieser Verordnung vorgesehen, werden die Befugnisse, Aufgaben und Verantwortlichkeiten der SGA-Akteurinnen und -Akteure im Referenzhandbuch, das von der SGA-Kommission herausgegeben wird, und in den spezifischen Handbüchern der einzelnen Verwaltungseinheiten definiert.
 
 ## 5 Ausbildung
 
 #### Art. 17
 
-<sup>1</sup> Die Chefinnen und Chefs der Verwaltungseinheiten, alle SGA-Akteure und das Personal müssen die für sie bestimmte Schulung absolvieren.
+<sup>1</sup> Die Chefinnen und Chefs der Verwaltungseinheiten, alle SGA-Akteurinnen und -Akteure und das Personal müssen die für sie bestimmte Schulung absolvieren.
 
 <sup>2</sup> Die Fachstelle bietet die Teilnehmerinnen und Teilnehmer für die obligatorischen Kurse auf.
 
@@ -219,9 +219,9 @@ beschliesst:
 
 **Anzeige**
 
-<sup>1</sup> Mitarbeiterinnen und Mitarbeiter können die Verletzung von Vorschriften über die Sicherheit und den Gesundheitsschutz am Arbeitsplatz bei einem SGA-Akteur ihrer Wahl anzeigen.
+<sup>1</sup> Mitarbeiterinnen und Mitarbeiter können die Verletzung von Vorschriften über die Sicherheit und den Gesundheitsschutz am Arbeitsplatz bei einer SGA-Akteurin oder einem SGA-Akteur ihrer Wahl anzeigen.
 
-<sup>2</sup> Dieser Akteur behandelt die Anzeige entsprechend den Handbüchern. Er informiert die Mitarbeiterin oder den Mitarbeiter, falls nötig schriftlich, über das weitere Verfahren.
+<sup>2</sup> Diese Akteurin oder dieser Akteur behandelt die Anzeige. Sie oder er informiert die Mitarbeiterin oder den Mitarbeiter, falls nötig schriftlich, über das weitere Verfahren.
 
 <sup>3</sup> Vorbehalten bleibt die Möglichkeit, gemäss Bundesgesetzgebung direkt bei der Aufsichtsbehörde Anzeige zu erstatten.
 
@@ -233,7 +233,9 @@ beschliesst:
 
 <sup>2</sup> Die Anstellungsbehörde holt die Stellungnahme der SGA-Kommission ein, bevor sie ihre Verfügung erlässt.
 
-<sup>3</sup> Die Verfügung der Anstellungsbehörde kann nach den Artikeln 132 und 133 des Gesetzes vom 17. Oktober 2001 über das Staatspersonal (StPG) mit Beschwerde angefochten werden.
+<sup>3</sup> Die Verfügung der Anstellungsbehörde kann nach den Artikeln 132 und 133 des Gesetzes vom 17. Oktober 2001 über das Staatspersonal (StPG)[^19-1] mit Beschwerde angefochten werden.
+
+[^19-1]: SGF [122.70.1](https://bdlf.fr.ch/data/122.70.1/de)
 
 ## 7 Inkrafttreten
 
